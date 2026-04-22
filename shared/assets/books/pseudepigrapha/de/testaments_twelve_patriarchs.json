@@ -1,0 +1,38 @@
+{
+  "id": "testaments_twelve_patriarchs",
+  "title": "Testamente der zwölf Patriarchen",
+  "stories": [
+    {
+      "id": "testaments_twelve_patriarchs-1",
+      "title": "📜 Testamente der zwölf Patriarchen",
+      "refs": [
+        "Testaments of the Twelve Patriarchs 1"
+      ],
+      "summaryBullets": [
+        "Eine pseudepigraphe Sammlung von zwölf Reden, die den Söhnen Jakobs zugeschrieben werden, verfasst um das 2. Jahrhundert v. Chr., die Autobiografie, ethische Ermahnungen und prophetische Visionen verbindet.",
+        "Jeder Patriarch (z. B. Ruben, Simeon, Levi usw.) erzählt Lebensereignisse, warnt vor einem bestimmten Laster oder ermahnt zu einer Tugend, die mit seiner eigenen Geschichte verbunden ist, und sagt dann die Zukunft seiner Nachkommen voraus.",
+        "Wiederkehrende Struktur: ein persönliches Zeugnis, moralische Unterweisung und manchmal eine apokalyptische oder messianische Prophezeiung, oft mit Tod und Begräbnis des Patriarchen abschließend.",
+        "Starke ethische Betonung: Tugenden wie Liebe, Barmherzigkeit und Wahrheit werden hochgehalten; Laster wie Stolz, Neid, Unzucht und Hass werden verurteilt. Josef wird durchgehend als Vorbild der Tugend hervorgehoben.",
+        "Enthält Sünde-Exil-Rückkehr-Muster (SER), besonders bei Levi, Juda, Dan, Naftali, Gad und Benjamin, jeweils mit Bekenntnissen, Exilbildern und Hoffnung auf Rückkehr."
+      ],
+      "crossRefs": [
+        "1. Mose 49 — Jakobs Segen über seine Söhne.",
+        "Josua 23–24 — Letzte Ermahnung zur Treue Israels.",
+        "Sprüche 3:11–12 — Die Zucht des Herrn verfeinert die Tugend."
+      ],
+      "translationNotes": [
+        {
+          "term": "Testament",
+          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony') — Greek: διαθήκη (diathḗkē) — Aramaic: סָפְרָא (səfrāʾ, 'book')",
+          "note": "Bezeichnet hier ein Vermächtnis auf dem Sterbebett oder eine letzte Rede zur Unterweisung der Nachkommen, passend zur Gattung der Testamentsliteratur."
+        },
+        {
+          "term": "Sünde-Exil-Rückkehr-Muster (SER)",
+          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense) — English: SER motif",
+          "note": "Ein literarisches Muster in biblischen und pseudepigraphen Texten: Sünde führt zum Exil, dem Wiederherstellung oder Rückkehr folgt, um moralische und gemeinschaftliche Geschichte einzurahmen."
+        }
+      ],
+      "keyTakeaway": "Die Testamente bieten ethische und prophetische Abschiedsreden der Söhne Jakobs, die zu moralischer Treue ermahnen und Hoffnung auf Wiederherstellung geben."
+    }
+  ]
+}

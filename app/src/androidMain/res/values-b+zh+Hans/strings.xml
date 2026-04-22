@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">圣经伴侣</string>
+    <string name="widget_description">显示下一个圣经节期的日期</string>
+    <string name="widget_calendar_description">包含希伯来历和艾赛尼历日期的圣经节期日历</string>
+    <string name="shortcut_search">搜索</string>
+    <string name="shortcut_bookmarks">书签</string>
+    <string name="shortcut_continue">继续阅读</string>
+</resources>

@@ -1,0 +1,32 @@
+{
+  "id": "psalms_of_solomon",
+  "title": "Salmi di Salomone",
+  "stories": [
+    {
+      "id": "psalms_of_solomon-1",
+      "title": "📜 Salmi di Salomone",
+      "refs": [
+        "Psalms of Solomon 1"
+      ],
+      "summaryBullets": [
+        "Una raccolta di diciotto salmi giudaici della fine del I secolo a.C., composti in risposta alla conquista di Gerusalemme da parte di Pompeo nel 63 a.C. e non inclusi nei canoni biblici successivi.",
+        "Fondono lamento nazionalistico, appelli alla giustizia e speranza messianica, ritraendo il Messia come un liberatore giusto e davidico che salverà Israele, compreso il primo uso del titolo \"Figlio di Davide\".",
+        "Il tono alterna confessione comunitaria, denuncia dei capi di Israele e fiducia nella giustizia di Dio, esortando spesso al pentimento personale e collettivo.",
+        "Sebbene composti originariamente in ebraico o aramaico, la raccolta sopravvive solo in manoscritti greci e siriaci; furono raggruppati sotto il nome di Salomone, probabilmente per prestigio e non per attribuzione autoriale."
+      ],
+      "crossRefs": [
+        "2 Samuele 7:12–16 — Le promesse dell'alleanza di Dio alla casa di Davide.",
+        "Isaia 11:1–2 — Attesa messianica di un germoglio giusto da Iesse.",
+        "Matteo 21:9 — \"Figlio di Davide\" come titolo applicato a Gesù nei Vangeli."
+      ],
+      "translationNotes": [
+        {
+          "term": "Figlio di Davide",
+          "original": "Hebrew: בֶּן־דָּוִד (ben-Dāwīḏ) — Greek: υἱὸς Δαυὶδ (huios Dauid) — Aramaic: בּר דָּוִד (bar Dāwīḏ)",
+          "note": "Un primo titolo esplicito per il Messia in quest'opera, che sottolinea aspettative dinastiche e di speranza in un re giusto dalla stirpe di Davide."
+        }
+      ],
+      "keyTakeaway": "I Salmi di Salomone danno voce alle speranze giudaiche del I secolo a.C. in mezzo all'oppressione, esortando alla riforma morale e alla liberazione messianica."
+    }
+  ]
+}

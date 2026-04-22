@@ -1,0 +1,38 @@
+{
+  "id": "testaments_twelve_patriarchs",
+  "title": "Testaments des Douze Patriarches",
+  "stories": [
+    {
+      "id": "testaments_twelve_patriarchs-1",
+      "title": "📜 Testaments des Douze Patriarches",
+      "refs": [
+        "Testaments of the Twelve Patriarchs 1"
+      ],
+      "summaryBullets": [
+        "Une collection pseudépigraphique de douze discours attribués aux fils de Jacob, composée vers le IIe siècle av. J.-C., mêlant autobiographie, exhortations éthiques et visions prophétiques.",
+        "Chaque patriarche (par exemple Ruben, Siméon, Lévi, etc.) raconte les événements de sa vie, met en garde contre un vice particulier ou exhorte à une vertu liée à sa propre histoire, puis prédit l'avenir de ses descendants.",
+        "Structure récurrente : un témoignage personnel, une instruction morale et parfois une prophétie apocalyptique ou messianique, se terminant souvent par sa mort et sa sépulture.",
+        "Fort accent éthique : des vertus comme l'amour, la miséricorde et la vérité sont exaltées ; des vices comme l'orgueil, l'envie, la fornication et la haine sont condamnés. Joseph est régulièrement présenté comme le modèle de vertu.",
+        "Contient des schémas Péché-Exil-Retour (PER), notamment chez Lévi, Juda, Dan, Nephthali, Gad et Benjamin, chacun comportant des confessions, des images d'exil et une espérance de retour."
+      ],
+      "crossRefs": [
+        "Genèse 49 — Bénédictions de Jacob sur ses fils.",
+        "Josué 23–24 — Exhortation finale à la fidélité d'Israël.",
+        "Proverbes 3:11–12 — La discipline du Seigneur affine la vertu."
+      ],
+      "translationNotes": [
+        {
+          "term": "Testament",
+          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony') — Greek: διαθήκη (diathḗkē) — Aramaic: סָפְרָא (səfrāʾ, 'book')",
+          "note": "Ici désigne un héritage sur le lit de mort ou un discours final destiné à instruire les descendants, s'inscrivant dans le genre de la littérature testamentaire."
+        },
+        {
+          "term": "Motif Péché-Exil-Retour (PER)",
+          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense) — English: SER motif",
+          "note": "Un schéma littéraire dans les textes bibliques et pseudépigraphiques : le péché conduit à l'exil, suivi par la restauration ou le retour, utilisé pour encadrer l'histoire morale et communautaire."
+        }
+      ],
+      "keyTakeaway": "Les Testaments présentent des adieux éthiques et prophétiques des fils de Jacob, exhortant à la fidélité morale et offrant l'espérance d'une restauration."
+    }
+  ]
+}

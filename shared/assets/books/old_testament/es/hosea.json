@@ -1,0 +1,661 @@
+{
+  "id": "hosea",
+  "title": "Oseas",
+  "stories": [
+    {
+      "id": "hosea-1",
+      "title": "💔 Oseas 1",
+      "refs": [
+        "Hosea 1:1-11"
+      ],
+      "summaryBullets": [
+        "La palabra del SEÑOR vino a Oseas, hijo de Beeri, durante los reinados de Uzías, Jotam, Acaz y Ezequías, reyes de Judá, y de Jeroboam, hijo de Joás, rey de Israel (1:1).",
+        "El SEÑOR dijo a Oseas que se casara con una mujer promiscua y tuviera hijos con ella, porque la tierra era culpable de infidelidad contra el SEÑOR (1:2).",
+        "Oseas se casó con Gomer, hija de Diblaim, y ella concibió y le dio un hijo (1:3).",
+        "El SEÑOR dijo a Oseas que lo llamara Jezreel, porque pronto castigaría a la casa de Jehú por la matanza de Jezreel y pondría fin al reino de Israel (1:4).",
+        "El SEÑOR dijo que quebraría el arco de Israel en el valle de Jezreel (1:5).",
+        "Gomer concibió de nuevo y dio a luz una hija, y el SEÑOR dijo a Oseas que la llamara Lo-Ruhama (\"Sin Misericordia\"), porque ya no tendría misericordia de la casa de Israel ni los perdonaría (1:6).",
+        "Pero el SEÑOR dijo que tendría misericordia de la casa de Judá y los salvaría, no con arco, espada, batalla, caballos ni jinetes, sino por el SEÑOR su Dios (1:7).",
+        "Después de destetar a Lo-Ruhama, Gomer concibió y dio a luz un hijo (1:8).",
+        "El SEÑOR dijo a Oseas que lo llamara Lo-Ammi (\"No es Mi Pueblo\"), porque Israel no era su pueblo y Él no era su Dios (1:9).",
+        "Sin embargo, el número de los hijos de Israel será como la arena del mar, que no se puede medir; en el lugar donde se les dijo: \"No sois mi pueblo\", se les llamará \"hijos del Dios viviente\" (1:10).",
+        "Los hijos de Judá y de Israel se reunirán y nombrarán un solo jefe, y subirán de la tierra, porque grande será el día de Jezreel (1:11)."
+      ],
+      "crossRefs": [
+        "2 Reyes 10:1–36 — Las matanzas de Jehú en Jezreel.",
+        "Romanos 9:25–26; 1 Pedro 2:10 — \"No es mi pueblo… mi pueblo.\"",
+        "Ezequiel 37:15–24 — Judá e Israel reunidos bajo un solo rey."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fornicación / prostitución",
+          "original": "Hebrew: זְנוּנִים (zenūnim) — Greek (LXX): πορνεία — Aramaic (Targum/Syriac): זנונין / זנותא (zenunin / znūṯā)",
+          "note": "Infidelidad sexual o sexo por pago; también usada como metáfora de la idolatría (1:2) (2:2)."
+        },
+        {
+          "term": "Jezreel / Lo-Rujama / Lo-Ammi",
+          "original": "Hebrew: יִזְרְעֶאל / לֹא רֻחָמָה / לֹא עַמִּי — Greek (LXX): Ἰεζραέλ / Οὐκ ἠλεημένη / Οὐ λαός μου — Aramaic (Targum/Syriac): יזרעאל / לא רחימא / לא עמי",
+          "note": "Los nombres significan \"Dios sembrará\", \"Sin Misericordia\" y \"No es mi Pueblo\", señalando juicio y posterior reversión (1:4–9) (2:23)."
+        },
+        {
+          "term": "Precio de rescate",
+          "original": "Hebrew: חֲמֵשׁ עָשָׂר כֶּסֶף וְחֹמֶר שְׂעֹרִים וְלֶתֶךְ שְׂעֹרִים — Greek (LXX): πέντε καὶ δέκα σίκλοι ἀργυρίου καὶ χοεμὲρ κριθῶν καὶ λέθεχ κριθῶν — Aramaic (Targum/Syriac): חמשסר כספא וחמר דשערין ולתך שערין",
+          "note": "Quince siclos de plata más un homer y un lethech (homer y medio) de cebada (3:2)."
+        }
+      ],
+      "keyTakeaway": "El matrimonio de Oseas y los nombres de los hijos representan la traición de Israel y el juicio de Dios, pero Dios promete cortejar, restaurar y renovar la relación."
+    },
+    {
+      "id": "hosea-2",
+      "title": "💔 Oseas 2",
+      "refs": [
+        "Hosea 2:1-23"
+      ],
+      "summaryBullets": [
+        "Decid a vuestros hermanos: \"Pueblo mío\", y a vuestras hermanas: \"Compadecida\" (2:1).",
+        "Contended con vuestra madre, porque ella no es mi mujer ni yo soy su marido; que quite de su rostro sus fornicaciones y de entre sus pechos sus adulterios (2:2).",
+        "No sea que yo la despoje y la deje desnuda como el día en que nació, y la ponga como un desierto y como tierra seca, y la mate de sed (2:3).",
+        "No tendré misericordia de sus hijos, porque son hijos de prostitución (2:4).",
+        "Porque su madre se prostituyó; ella dijo: \"Iré tras mis amantes, que me dan mi pan y mi agua, mi lana y mi lino, mi aceite y mi bebida\" (2:5).",
+        "Por tanto, he aquí, yo cercaré su camino con espinos y levantaré una pared para que no encuentre sus sendas (2:6).",
+        "Seguirá a sus amantes, pero no los alcanzará; los buscará, pero no los hallará; entonces dirá: \"Iré y me volveré a mi primer marido, porque mejor me iba entonces que ahora\" (2:7).",
+        "Ella no reconoció que era yo quien le daba el trigo, el vino nuevo y el aceite; yo le multipliqué la plata y el oro, que ellos usaron para Baal (2:8).",
+        "Por tanto, me volveré y tomaré mi trigo a su tiempo y mi vino nuevo en su sazón; quitaré mi lana y mi lino que debían cubrir su desnudez (2:9).",
+        "Ahora descubriré su vergüenza ante los ojos de sus amantes, y nadie la librará de mi mano (2:10).",
+        "Haré cesar todo su gozo: sus fiestas anuales, sus lunas nuevas, sus días de reposo y todas sus solemnidades (2:11).",
+        "Destruiré sus viñas y sus higueras, de las que ella dijo: \"Son mi salario que me dieron mis amantes\"; las convertiré en matorral y las bestias del campo las devorarán (2:12).",
+        "La castigaré por los días en que quemaba incienso a los baales; se adornaba con sus anillos y sus joyas e iba tras sus amantes, y de mí se olvidaba, dice el SEÑOR (2:13).",
+        "Por tanto, he aquí, yo la atraeré y la llevaré al desierto y hablaré a su corazón (2:14).",
+        "Allí le devolveré sus viñedos, y haré del valle de Acor (\"Aflicción\") una puerta de esperanza; ella responderá allí como en los días de su juventud, como en el día en que subió de la tierra de Egipto (2:15).",
+        "En aquel día me llamará \"marido mío\" y nunca más me llamará \"Baal mío\" (\"señor mío\"), dice el SEÑOR (2:16).",
+        "Quitaré de su boca los nombres de los baales, y nunca más serán invocados por sus nombres (2:17).",
+        "En aquel día haré un pacto en favor de ellos con las bestias del campo, con las aves del cielo y con los reptiles de la tierra; quebraré arco, espada y guerra de la tierra, y los haré dormir seguros (2:18).",
+        "Te desposaré conmigo para siempre; te desposaré conmigo en justicia y juicio, en misericordia y compasión (2:19).",
+        "Te desposaré conmigo en fidelidad, y conocerás al SEÑOR (2:20).",
+        "En aquel día yo responderé, dice el SEÑOR; responderé a los cielos, y ellos responderán a la tierra (2:21).",
+        "La tierra responderá al trigo, al vino nuevo y al aceite, y ellos responderán a Jezreel (\"Dios siembra\") (2:22).",
+        "La sembraré para mí en la tierra; tendré misericordia de la que llamé \"Sin Misericordia\"; diré a los que llamé \"No es Mi Pueblo\": \"Tú eres mi pueblo\", y ellos dirán: \"Tú eres mi Dios\" (2:23)."
+      ],
+      "crossRefs": [
+        "2 Reyes 10:1–36 — Las matanzas de Jehú en Jezreel.",
+        "Romanos 9:25–26; 1 Pedro 2:10 — \"No es mi pueblo… mi pueblo.\"",
+        "Ezequiel 37:15–24 — Judá e Israel reunidos bajo un solo rey."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fornicación / prostitución",
+          "original": "Hebrew: זְנוּנִים (zenūnim) — Greek (LXX): πορνεία — Aramaic (Targum/Syriac): זנונין / זנותא (zenunin / znūṯā)",
+          "note": "Infidelidad sexual o sexo por pago; también usada como metáfora de la idolatría (1:2) (2:2)."
+        },
+        {
+          "term": "Jezreel / Lo-Rujama / Lo-Ammi",
+          "original": "Hebrew: יִזְרְעֶאל / לֹא רֻחָמָה / לֹא עַמִּי — Greek (LXX): Ἰεζραέλ / Οὐκ ἠλεημένη / Οὐ λαός μου — Aramaic (Targum/Syriac): יזרעאל / לא רחימא / לא עמי",
+          "note": "Los nombres significan \"Dios sembrará\", \"Sin Misericordia\" y \"No es mi Pueblo\", señalando juicio y posterior reversión (1:4–9) (2:23)."
+        },
+        {
+          "term": "Precio de rescate",
+          "original": "Hebrew: חֲמֵשׁ עָשָׂר כֶּסֶף וְחֹמֶר שְׂעֹרִים וְלֶתֶךְ שְׂעֹרִים — Greek (LXX): πέντε καὶ δέκα σίκλοι ἀργυρίου καὶ χοεμὲρ κριθῶν καὶ λέθεχ κριθῶν — Aramaic (Targum/Syriac): חמשסר כספא וחמר דשערין ולתך שערין",
+          "note": "Quince siclos de plata más un homer y un lethech (homer y medio) de cebada (3:2)."
+        }
+      ],
+      "keyTakeaway": "El matrimonio de Oseas y los nombres de los hijos representan la traición de Israel y el juicio de Dios, pero Dios promete cortejar, restaurar y renovar la relación."
+    },
+    {
+      "id": "hosea-3",
+      "title": "💔 Oseas 3",
+      "refs": [
+        "Hosea 3:1-5"
+      ],
+      "summaryBullets": [
+        "El SEÑOR dijo a Oseas: \"Ve, ama de nuevo a tu mujer, aunque sea amada por otro hombre y sea adúltera; ámala como el SEÑOR ama a los hijos de Israel, aunque ellos se vuelvan a otros dioses y amen las tortas de pasas sagradas\" (3:1).",
+        "Oseas la compró por quince siclos de plata y un homer y medio de cebada (3:2).",
+        "Luego le dijo: \"Vivirás conmigo muchos días; no te prostituirás ni tendrás relación con ningún hombre, y yo haré lo mismo contigo\" (3:3).",
+        "Porque los hijos de Israel vivirán muchos días sin rey ni príncipe, sin sacrificio ni piedras sagradas, sin efod ni ídolos domésticos (3:4).",
+        "Después los hijos de Israel volverán y buscarán al SEÑOR su Dios y a David su rey; vendrán temblando al SEÑOR y a su bondad en los últimos días (3:5)."
+      ],
+      "crossRefs": [
+        "2 Reyes 10:1–36 — Las matanzas de Jehú en Jezreel.",
+        "Romanos 9:25–26; 1 Pedro 2:10 — \"No es mi pueblo… mi pueblo.\"",
+        "Ezequiel 37:15–24 — Judá e Israel reunidos bajo un solo rey."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fornicación / prostitución",
+          "original": "Hebrew: זְנוּנִים (zenūnim) — Greek (LXX): πορνεία — Aramaic (Targum/Syriac): זנונין / זנותא (zenunin / znūṯā)",
+          "note": "Infidelidad sexual o sexo por pago; también usada como metáfora de la idolatría (1:2) (2:2)."
+        },
+        {
+          "term": "Jezreel / Lo-Rujama / Lo-Ammi",
+          "original": "Hebrew: יִזְרְעֶאל / לֹא רֻחָמָה / לֹא עַמִּי — Greek (LXX): Ἰεζραέλ / Οὐκ ἠλεημένη / Οὐ λαός μου — Aramaic (Targum/Syriac): יזרעאל / לא רחימא / לא עמי",
+          "note": "Los nombres significan \"Dios sembrará\", \"Sin Misericordia\" y \"No es mi Pueblo\", señalando juicio y posterior reversión (1:4–9) (2:23)."
+        },
+        {
+          "term": "Precio de rescate",
+          "original": "Hebrew: חֲמֵשׁ עָשָׂר כֶּסֶף וְחֹמֶר שְׂעֹרִים וְלֶתֶךְ שְׂעֹרִים — Greek (LXX): πέντε καὶ δέκα σίκλοι ἀργυρίου καὶ χοεμὲρ κριθῶν καὶ λέθεχ κριθῶν — Aramaic (Targum/Syriac): חמשסר כספא וחמר דשערין ולתך שערין",
+          "note": "Quince siclos de plata más un homer y un lethech (homer y medio) de cebada (3:2)."
+        }
+      ],
+      "keyTakeaway": "El matrimonio de Oseas y los nombres de los hijos representan la traición de Israel y el juicio de Dios, pero Dios promete cortejar, restaurar y renovar la relación."
+    },
+    {
+      "id": "hosea-4",
+      "title": "🧭 Oseas 4",
+      "refs": [
+        "Hosea 4:1-19"
+      ],
+      "summaryBullets": [
+        "Oíd la palabra del SEÑOR, hijos de Israel, porque el SEÑOR tiene pleito con los habitantes de la tierra: no hay verdad, ni misericordia, ni conocimiento de Dios en la tierra (4:1).",
+        "Solo hay perjurio, mentira, asesinato, robo y adulterio; quebrantan todo límite, y un derramamiento de sangre sigue a otro (4:2).",
+        "Por esto la tierra se seca, y desfallece todo el que mora en ella, junto con las bestias del campo, las aves del cielo y los peces del mar (4:3).",
+        "Pero que nadie acuse ni reprenda a otro, porque tu pueblo es como los que contienden contra el sacerdote (4:4).",
+        "Tropezarás de día, y de noche tropezará también contigo el profeta; y destruiré a tu madre (4:5).",
+        "Mi pueblo fue destruido porque le faltó conocimiento; por cuanto desechaste el conocimiento, yo te echaré del sacerdocio; puesto que olvidaste la ley de tu Dios, también yo me olvidaré de tus hijos (4:6).",
+        "Conforme crecieron los sacerdotes, así pecaron contra mí; cambiaré su honra en vergüenza (4:7).",
+        "Se alimentan del pecado de mi pueblo, y hacia su maldad dirigen su deseo (4:8).",
+        "Y será como el pueblo, así el sacerdote: los castigaré por sus caminos y les pagaré conforme a sus obras (4:9).",
+        "Comerán, pero no se saciarán; fornicarán, pero no se multiplicarán, porque dejaron de seguir al SEÑOR (4:10).",
+        "La fornicación, el vino y el mosto quitan el juicio a mi pueblo (4:11).",
+        "Consultan a su ídolo de madera, y su vara les da respuestas; un espíritu de fornicación los ha extraviado, y han fornicado apartándose de su Dios (4:12).",
+        "Sobre las cimas de los montes sacrifican, y sobre los collados queman incienso, bajo encinas, álamos y terebintos, porque su sombra es agradable; por eso vuestras hijas se prostituyen y vuestras nueras cometen adulterio (4:13).",
+        "No castigaré a vuestras hijas cuando se prostituyan ni a vuestras nueras cuando adulteren, porque los hombres mismos van con rameras y sacrifican con las prostitutas del templo; un pueblo sin entendimiento será arruinado (4:14).",
+        "Aunque tú, Israel, forniques, que no peque Judá; no vayáis a Gilgal ni subáis a Bet-avén, ni juréis diciendo: \"¡Vive el SEÑOR!\" (4:15).",
+        "Porque Israel es indómita como novilla indómita; ¿cómo podrá el SEÑOR apacentarlos como corderos en un prado espacioso? (4:16).",
+        "Efraín se ha unido a los ídolos; ¡déjalo! (4:17).",
+        "Aun acabada su bebida, siguen en su fornicación; sus gobernantes aman ardientemente lo vergonzoso (4:18).",
+        "Un torbellino los arrebatará, y sus sacrificios les traerán vergüenza (4:19)."
+      ],
+      "crossRefs": [
+        "Éxodo 20:14 — Adulterio prohibido; aquí vinculado al sexo con ídolos.",
+        "Deuteronomio 32:17 — Sacrificar a \"no dioses\".",
+        "2 Reyes 15–17 — Colapso del Reino del Norte (Efraín/Israel) y Asiria."
+      ],
+      "translationNotes": [
+        {
+          "term": "Efraín",
+          "original": "Hebrew: אֶפְרַיִם — Greek (LXX): Ἐφραΐμ — Aramaic (Targum/Syriac): אפרים",
+          "note": "Forma abreviada para el Reino del Norte/Israel (muchas veces en Oseas)."
+        },
+        {
+          "term": "Espíritu de prostitución",
+          "original": "Hebrew: רוּחַ זְנוּנִים — Greek (LXX): πνεῦμα πορνείας — Aramaic (Targum/Syriac): רוחא דזנונין",
+          "note": "Expresión para la infidelidad impulsora detrás del sexo con ídolos (4:12)."
+        },
+        {
+          "term": "Rey Jareb (título disputado)",
+          "original": "Hebrew: מֶלֶךְ יָרֵב — Greek (LXX): βασιλεὺς Ἰαρίμ/Ἰαρείμ (var.) — Aramaic (Targum/Syriac): מלכא דריבא ('war-making/contending king')",
+          "note": "Probablemente un título (\"gran rey\" o \"rey contendiente\") para Asiria, en lugar de un nombre personal (5:13)."
+        }
+      ],
+      "keyTakeaway": "Dios acusa a sacerdotes y pueblo por violencia, sexo ligado a ídolos e ignorancia de Él; se retira y deja que la ruina se extienda hasta que lo busquen."
+    },
+    {
+      "id": "hosea-5",
+      "title": "🧭 Oseas 5",
+      "refs": [
+        "Hosea 5:1-15"
+      ],
+      "summaryBullets": [
+        "¡Oíd esto, sacerdotes! ¡Estad atentos, casa de Israel! ¡Escuchad, casa del rey! Porque contra vosotros es el juicio: habéis sido lazo en Mizpa y red tendida sobre Tabor (5:1).",
+        "Los rebeldes se han hundido en la matanza; yo los disciplinaré a todos (5:2).",
+        "Yo conozco a Efraín, e Israel no me es oculto; Efraín, tú te has prostituido, e Israel se ha contaminado (5:3).",
+        "Sus obras no les permiten volverse a su Dios; un espíritu de fornicación está en medio de ellos, y no conocen al SEÑOR (5:4).",
+        "La soberbia de Israel testifica contra él; Israel y Efraín tropezarán en su pecado, y Judá tropezará con ellos (5:5).",
+        "Cuando vayan con sus ovejas y sus vacas a buscar al SEÑOR, no lo hallarán; él se ha apartado de ellos (5:6).",
+        "Han sido infieles al SEÑOR, porque han engendrado hijos ilegítimos; ahora sus fiestas de luna nueva los devorarán a ellos y a sus campos (5:7).",
+        "Tocad la trompeta en Gabaa, la bocina en Ramá; dad la alarma en Bet-avén; ¡guía, Benjamín! (5:8).",
+        "Efraín será asolado en el día del castigo; entre las tribus de Israel proclamo lo que es cierto (5:9).",
+        "Los príncipes de Judá son como los que mueven los linderos; derramaré sobre ellos mi ira como agua (5:10).",
+        "Efraín está oprimido, quebrantado en juicio, porque quiso ir tras vanidades (5:11).",
+        "Yo seré como polilla para Efraín, como carcoma para la casa de Judá (5:12).",
+        "Cuando Efraín vio su enfermedad y Judá su llaga, Efraín acudió a Asiria y envió embajadores al gran rey; pero él no puede sanaros ni curaros la llaga (5:13).",
+        "Porque yo seré como león para Efraín, como cachorro de león para la casa de Judá; yo, yo los despedazaré y me iré; los arrebataré y no habrá quien los libre (5:14).",
+        "Me volveré a mi lugar hasta que reconozcan su culpa y busquen mi rostro; en su angustia me buscarán con diligencia (5:15)."
+      ],
+      "crossRefs": [
+        "Éxodo 20:14 — Adulterio prohibido; aquí vinculado al sexo con ídolos.",
+        "Deuteronomio 32:17 — Sacrificar a \"no dioses\".",
+        "2 Reyes 15–17 — Colapso del Reino del Norte (Efraín/Israel) y Asiria."
+      ],
+      "translationNotes": [
+        {
+          "term": "Efraín",
+          "original": "Hebrew: אֶפְרַיִם — Greek (LXX): Ἐφραΐμ — Aramaic (Targum/Syriac): אפרים",
+          "note": "Forma abreviada para el Reino del Norte/Israel (muchas veces en Oseas)."
+        },
+        {
+          "term": "Espíritu de prostitución",
+          "original": "Hebrew: רוּחַ זְנוּנִים — Greek (LXX): πνεῦμα πορνείας — Aramaic (Targum/Syriac): רוחא דזנונין",
+          "note": "Expresión para la infidelidad impulsora detrás del sexo con ídolos (4:12)."
+        },
+        {
+          "term": "Rey Jareb (título disputado)",
+          "original": "Hebrew: מֶלֶךְ יָרֵב — Greek (LXX): βασιλεὺς Ἰαρίμ/Ἰαρείμ (var.) — Aramaic (Targum/Syriac): מלכא דריבא ('war-making/contending king')",
+          "note": "Probablemente un título (\"gran rey\" o \"rey contendiente\") para Asiria, en lugar de un nombre personal (5:13)."
+        }
+      ],
+      "keyTakeaway": "Dios acusa a sacerdotes y pueblo por violencia, sexo ligado a ídolos e ignorancia de Él; se retira y deja que la ruina se extienda hasta que lo busquen."
+    },
+    {
+      "id": "hosea-6",
+      "title": "🔁 Oseas 6",
+      "refs": [
+        "Hosea 6:1-11"
+      ],
+      "summaryBullets": [
+        "\"Venid, volvamos al SEÑOR; él nos ha desgarrado, pero nos sanará; nos ha herido, pero nos vendará\" (6:1).",
+        "Después de dos días nos dará vida; al tercer día nos levantará, y viviremos en su presencia (6:2).",
+        "Conozcamos al SEÑOR; prosigamos en conocerlo; tan cierto como el alba viene, él aparecerá; vendrá a nosotros como la lluvia tardía, como la lluvia de primavera que riega la tierra (6:3).",
+        "\"¿Qué haré contigo, Efraín? ¿Qué haré contigo, Judá? Vuestro amor es como la niebla de la mañana, como el rocío que al alba desaparece\" (6:4).",
+        "Por eso los corté en pedazos por medio de mis profetas; los maté con las palabras de mi boca, y mis juicios salen como la luz (6:5).",
+        "Porque misericordia quiero y no sacrificio, y conocimiento de Dios más que holocaustos (6:6).",
+        "Pero ellos, como Adán, traspasaron el pacto; allí prevaricaron contra mí (6:7).",
+        "Galaad es ciudad de malhechores, manchada de huellas de sangre (6:8).",
+        "Como bandidos que acechan a un hombre, así son las bandas de sacerdotes; asesinan en el camino de Siquem, cometen infamias (6:9).",
+        "He visto una cosa horrible en Israel: allí Efraín se prostituyó, Israel se contaminó (6:10).",
+        "También para ti, Judá, hay una cosecha señalada, cuando yo restaure la suerte de mi pueblo (6:11)."
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — La obediencia es mejor que el sacrificio.",
+        "Miqueas 6:6–8 — Justicia, lealtad, humildad con Dios.",
+        "Génesis 34:25–26 — Siquem y el trasfondo de violencia."
+      ],
+      "translationNotes": [
+        {
+          "term": "Lealtad / misericordia",
+          "original": "Hebrew: חֶסֶד (ḥesed) — Greek (LXX): ἔλεος — Aramaic (Targum/Syriac): חסדא (ḥasdā)",
+          "note": "Lealtad del pacto, amor constante; lo que Dios quiere en lugar de meras ofrendas (6:6)."
+        },
+        {
+          "term": "Conocimiento de Dios",
+          "original": "Hebrew: דַּעַת אֱלֹהִים (daʿat Elohim) — Greek (LXX): γνῶσις θεοῦ — Aramaic (Targum/Syriac): ידיעתא דאלהא",
+          "note": "Conocimiento relacional marcado por lealtad, no simple información (6:6)."
+        },
+        {
+          "term": "\"Como Adán / en Adán\"",
+          "original": "Hebrew: כְּאָדָם (keʾadam) — Greek (LXX): ὡς ἄνθρωπος — Aramaic (Targum/Syriac): כאדם",
+          "note": "Ambiguo: \"como Adán (el hombre)\" o \"en Adán (un lugar)\"; ambas lecturas son antiguas (6:7)."
+        },
+        {
+          "term": "Torta a medio cocer",
+          "original": "Hebrew: עֻגָּה בְּלִי הֲפוּכָה — Greek (LXX): πλακοῦς ἀνέστρεπτος — Aramaic (Targum/Syriac): רדידא דלא אתהפיך",
+          "note": "Imagen de inutilidad e incompletitud (7:8)."
+        }
+      ],
+      "keyTakeaway": "Dios rechaza el arrepentimiento superficial y exige lealtad y verdadero conocimiento de Él; líderes y pueblo arden en pecado, buscan ayuda extranjera y colapsan."
+    },
+    {
+      "id": "hosea-7",
+      "title": "🔁 Oseas 7",
+      "refs": [
+        "Hosea 7:1-16"
+      ],
+      "summaryBullets": [
+        "Cuando yo quiero sanar a Israel, se descubren los pecados de Efraín y las maldades de Samaria; practican el engaño, los ladrones entran en las casas, los bandidos roban en las calles (7:1).",
+        "Pero no consideran en su corazón que yo recuerdo toda su maldad; sus pecados los rodean y están delante de mi rostro (7:2).",
+        "Con su maldad alegran al rey, y con sus mentiras a los príncipes (7:3).",
+        "Todos son adúlteros; son como un horno encendido cuyo fuego el hornero no necesita atizar desde que amasa la masa hasta que fermenta (7:4).",
+        "En el día de la fiesta de nuestro rey, los príncipes se enferman con el calor del vino, y el rey extiende su mano con los burladores (7:5).",
+        "Sus corazones son como un horno; se acercan con intrigas; su pasión arde toda la noche, y por la mañana llamea como fuego ardiente (7:6).",
+        "Todos ellos arden como un horno y devoran a sus gobernantes; todos sus reyes caen, y ninguno de ellos me invoca (7:7).",
+        "Efraín se mezcla con las naciones; Efraín es una torta no volteada (7:8).",
+        "Extranjeros devoran sus fuerzas, y él no lo sabe; canas le han aparecido aquí y allá, y él no lo advierte (7:9).",
+        "La soberbia de Israel testifica contra él; a pesar de todo esto, no se vuelve al SEÑOR su Dios ni lo busca (7:10).",
+        "Efraín es como una paloma incauta y sin entendimiento: unas veces clama a Egipto, otras se vuelve a Asiria (7:11).",
+        "Cuando vayan, tenderé sobre ellos mi red; los haré bajar como aves del cielo; los atraparé cuando oiga su bandada (7:12).",
+        "¡Ay de ellos, porque se apartaron de mí! ¡Destrucción sobre ellos, porque se rebelaron contra mí! Yo los redimiría, pero ellos hablan mentiras contra mí (7:13).",
+        "No claman a mí de corazón, sino que gimen sobre sus camas; se laceran por el trigo y el vino nuevo, y se apartan de mí (7:14).",
+        "Yo los instruí y fortalecí sus brazos, pero ellos maquinan el mal contra mí (7:15).",
+        "No se vuelven al Altísimo; son como un arco engañoso; sus príncipes caerán a espada por la insolencia de sus lenguas, y por esto serán objeto de burla en la tierra de Egipto (7:16)."
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — La obediencia es mejor que el sacrificio.",
+        "Miqueas 6:6–8 — Justicia, lealtad, humildad con Dios.",
+        "Génesis 34:25–26 — Siquem y el trasfondo de violencia."
+      ],
+      "translationNotes": [
+        {
+          "term": "Lealtad / misericordia",
+          "original": "Hebrew: חֶסֶד (ḥesed) — Greek (LXX): ἔλεος — Aramaic (Targum/Syriac): חסדא (ḥasdā)",
+          "note": "Lealtad del pacto, amor constante; lo que Dios quiere en lugar de meras ofrendas (6:6)."
+        },
+        {
+          "term": "Conocimiento de Dios",
+          "original": "Hebrew: דַּעַת אֱלֹהִים (daʿat Elohim) — Greek (LXX): γνῶσις θεοῦ — Aramaic (Targum/Syriac): ידיעתא דאלהא",
+          "note": "Conocimiento relacional marcado por lealtad, no simple información (6:6)."
+        },
+        {
+          "term": "\"Como Adán / en Adán\"",
+          "original": "Hebrew: כְּאָדָם (keʾadam) — Greek (LXX): ὡς ἄνθρωπος — Aramaic (Targum/Syriac): כאדם",
+          "note": "Ambiguo: \"como Adán (el hombre)\" o \"en Adán (un lugar)\"; ambas lecturas son antiguas (6:7)."
+        },
+        {
+          "term": "Torta a medio cocer",
+          "original": "Hebrew: עֻגָּה בְּלִי הֲפוּכָה — Greek (LXX): πλακοῦς ἀνέστρεπτος — Aramaic (Targum/Syriac): רדידא דלא אתהפיך",
+          "note": "Imagen de inutilidad e incompletitud (7:8)."
+        }
+      ],
+      "keyTakeaway": "Dios rechaza el arrepentimiento superficial y exige lealtad y verdadero conocimiento de Él; líderes y pueblo arden en pecado, buscan ayuda extranjera y colapsan."
+    },
+    {
+      "id": "hosea-8",
+      "title": "🌪️ Oseas 8",
+      "refs": [
+        "Hosea 8:1-14"
+      ],
+      "summaryBullets": [
+        "¡Pon la trompeta en tus labios! Un águila sobre la casa del SEÑOR, porque han quebrantado mi pacto y se han rebelado contra mi ley (8:1).",
+        "Israel clama a mí: \"¡Dios nuestro, te conocemos!\" (8:2).",
+        "Pero Israel ha desechado el bien; el enemigo lo perseguirá (8:3).",
+        "Establecieron reyes sin mi consentimiento; eligieron príncipes sin mi aprobación; con su plata y su oro se hicieron ídolos para su propia destrucción (8:4).",
+        "¡Samaria, arroja tu becerro! Mi ira arde contra ellos; ¿hasta cuándo serán incapaces de pureza? (8:5).",
+        "¡De Israel es ese becerro! Un artesano lo hizo; no es Dios; será hecho pedazos (8:6).",
+        "Sembraron viento y segarán torbellino; la mies no tiene espiga y no producirá harina; si la produjere, extraños la devorarán (8:7).",
+        "Israel fue devorado; ahora están entre las naciones como algo que nadie quiere (8:8).",
+        "Porque subieron a Asiria como asno montés solitario; Efraín se vendió a amantes (8:9).",
+        "Aunque se vendan entre las naciones, ahora los reuniré; comenzarán a debilitarse bajo la opresión del gran rey (8:10).",
+        "Aunque Efraín multiplicó altares para pecar, le han sido altares para pecar (8:11).",
+        "Le escribí las grandezas de mi ley, pero fueron tenidas como cosa extraña (8:12).",
+        "Aunque ofrecen sacrificios como dones míos y comen la carne, el SEÑOR no se agrada de ellos; ahora recordará su iniquidad y castigará sus pecados; ellos volverán a Egipto (8:13).",
+        "Israel se olvidó de su Hacedor y edificó palacios; Judá multiplicó ciudades fortificadas; pero yo enviaré fuego sobre sus ciudades y consumirá sus fortalezas (8:14)."
+      ],
+      "crossRefs": [
+        "1 Reyes 12:28–33 — Los becerros de Jeroboam en Betel y Dan.",
+        "Números 25:1–3 — Baal-Peor e idolatría sexual.",
+        "Gálatas 6:7–8 — Cosechar lo que se siembra (proverbio posterior)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Becerro de Samaria",
+          "original": "Hebrew: עֶגְלֵי שֹׁמְרוֹן — Greek (LXX): μόσχος Σαμαρείας — Aramaic (Targum/Syriac): עגלא דשמרון",
+          "note": "Ídolo que representa la falsa adoración del Reino del Norte (8:5–6)."
+        },
+        {
+          "term": "Siembran viento… cosechan tempestad",
+          "original": "Hebrew: רוּחַ יִזְרָעוּ וְסוּפָה יִקְצֹרוּ — Greek (LXX): ἄνεμον σπεροῦσιν, θύελλαν θερίσουσιν — Aramaic (Targum/Syriac): רוחא יזרעון וסופא יקצרון",
+          "note": "Expresión idiomática: acciones fútiles o malvadas producen desastre multiplicado (8:7)."
+        },
+        {
+          "term": "Volver a Egipto / Asiria",
+          "original": "Hebrew: מִצְרַיִם / אַשּׁוּר — Greek (LXX): Αἴγυπτος / Ἀσσυρία — Aramaic (Targum/Syriac): מצרים / אשור",
+          "note": "Lenguaje de exilio: \"Egipto\" puede ser literal o simbólico de esclavitud; Asiria es el conquistador real (9:3)."
+        }
+      ],
+      "keyTakeaway": "Los ídolos y la política autofabricada traen colapso: el becerro es destruido; la cosecha es desastre; las fiestas y la comida se acaban; el exilio y la pérdida de hijos golpean a Israel."
+    },
+    {
+      "id": "hosea-9",
+      "title": "🌪️ Oseas 9",
+      "refs": [
+        "Hosea 9:1-17"
+      ],
+      "summaryBullets": [
+        "No te alegres, Israel; no te regocijes como las naciones, porque te has prostituido apartándote de tu Dios; amaste el salario de ramera en todas las eras de trigo (9:1).",
+        "La era y el lagar no los alimentarán; el vino nuevo les fallará (9:2).",
+        "No permanecerán en la tierra del SEÑOR; Efraín volverá a Egipto y en Asiria comerá alimentos impuros (9:3).",
+        "No derramarán libaciones de vino al SEÑOR, ni le serán gratos sus sacrificios; tales sacrificios serán para ellos como pan de duelo; todos los que los coman serán contaminados; su pan será solo para ellos y no entrará en la casa del SEÑOR (9:4).",
+        "¿Qué haréis en el día de la fiesta solemne, en el día de la festividad del SEÑOR? (9:5).",
+        "Aunque escapen de la destrucción, Egipto los recogerá y Menfis los sepultará; sus tesoros de plata serán cubiertos por ortigas, y espinos invadirán sus tiendas (9:6).",
+        "Vinieron los días del castigo, vinieron los días de la retribución; que Israel lo sepa; el profeta es considerado necio, y loco el hombre del espíritu, por la multitud de tus pecados y la gran hostilidad (9:7).",
+        "El profeta, junto con mi Dios, es centinela sobre Efraín; pero trampas le aguardan en todos sus caminos, y hostilidad en la casa de su Dios (9:8).",
+        "Se han corrompido profundamente, como en los días de Gabaa; Dios recordará su iniquidad y castigará sus pecados (9:9).",
+        "Cuando encontré a Israel fue como hallar uvas en el desierto; cuando vi a vuestros padres fue como ver el fruto temprano de la higuera; pero cuando llegaron a Baal-peor, se consagraron a aquel ídolo vergonzoso y se hicieron tan abominables como aquello que amaron (9:10).",
+        "La gloria de Efraín se irá volando como un ave: no habrá nacimiento, ni embarazo, ni concepción (9:11).",
+        "Aunque críen a sus hijos, yo los privaré de cada uno de ellos; ¡ay de ellos cuando yo me aparte de ellos! (9:12).",
+        "He visto a Efraín, como a Tiro, plantado en un lugar agradable; pero Efraín sacará a sus hijos para el verdugo (9:13).",
+        "Dales, SEÑOR — ¿qué les darás? Dales vientres que aborten y pechos que se sequen (9:14).",
+        "Toda su maldad está en Gilgal; allí los aborrecí; por la maldad de sus obras los echaré de mi casa; no los amaré más; todos sus príncipes son rebeldes (9:15).",
+        "Efraín fue herido, su raíz se secó, no darán fruto; aunque tengan hijos, yo mataré lo amado de su vientre (9:16).",
+        "Mi Dios los desechará, porque no le obedecieron; serán errantes entre las naciones (9:17)."
+      ],
+      "crossRefs": [
+        "1 Reyes 12:28–33 — Los becerros de Jeroboam en Betel y Dan.",
+        "Números 25:1–3 — Baal-Peor e idolatría sexual.",
+        "Gálatas 6:7–8 — Cosechar lo que se siembra (proverbio posterior)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Becerro de Samaria",
+          "original": "Hebrew: עֶגְלֵי שֹׁמְרוֹן — Greek (LXX): μόσχος Σαμαρείας — Aramaic (Targum/Syriac): עגלא דשמרון",
+          "note": "Ídolo que representa la falsa adoración del Reino del Norte (8:5–6)."
+        },
+        {
+          "term": "Siembran viento… cosechan tempestad",
+          "original": "Hebrew: רוּחַ יִזְרָעוּ וְסוּפָה יִקְצֹרוּ — Greek (LXX): ἄνεμον σπεροῦσιν, θύελλαν θερίσουσιν — Aramaic (Targum/Syriac): רוחא יזרעון וסופא יקצרון",
+          "note": "Expresión idiomática: acciones fútiles o malvadas producen desastre multiplicado (8:7)."
+        },
+        {
+          "term": "Volver a Egipto / Asiria",
+          "original": "Hebrew: מִצְרַיִם / אַשּׁוּר — Greek (LXX): Αἴγυπτος / Ἀσσυρία — Aramaic (Targum/Syriac): מצרים / אשור",
+          "note": "Lenguaje de exilio: \"Egipto\" puede ser literal o simbólico de esclavitud; Asiria es el conquistador real (9:3)."
+        }
+      ],
+      "keyTakeaway": "Los ídolos y la política autofabricada traen colapso: el becerro es destruido; la cosecha es desastre; las fiestas y la comida se acaban; el exilio y la pérdida de hijos golpean a Israel."
+    },
+    {
+      "id": "hosea-10",
+      "title": "🌾 Oseas 10",
+      "refs": [
+        "Hosea 10:1-15"
+      ],
+      "summaryBullets": [
+        "Israel era una vid frondosa que daba fruto para sí mismo; conforme aumentaba su fruto, multiplicaba sus altares; conforme prosperaba su tierra, adornaba sus piedras sagradas (10:1).",
+        "Su corazón es engañoso, y ahora llevarán su culpa; el SEÑOR demolerá sus altares y destruirá sus piedras sagradas (10:2).",
+        "Entonces dirán: \"No tenemos rey, porque no temimos al SEÑOR; pero aun si tuviéramos rey, ¿qué podría hacer por nosotros?\" (10:3).",
+        "Pronuncian palabras vanas, juran en falso y hacen pactos; por tanto los pleitos brotan como hierba venenosa en los surcos del campo (10:4).",
+        "Los habitantes de Samaria temen por el becerro de Bet-avén; su pueblo se lamentará por él, y sus sacerdotes idólatras que se regocijaban por su esplendor se lamentarán, porque les será quitado y llevado al exilio (10:5).",
+        "Será llevado a Asiria como tributo para el gran rey; Efraín será avergonzado e Israel será confundido por su ídolo (10:6).",
+        "El rey de Samaria será destruido, arrastrado como una rama en la superficie de las aguas (10:7).",
+        "Los lugares altos de maldad serán destruidos — es el pecado de Israel; espinos y cardos crecerán sobre sus altares; entonces dirán a los montes: \"¡Cubridnos!\", y a los collados: \"¡Caed sobre nosotros!\" (10:8).",
+        "Desde los días de Gabaa has pecado, Israel, y allí permaneciste; ¿no los alcanzará la guerra en Gabaa contra los malhechores? (10:9).",
+        "Cuando yo quiera, los castigaré; naciones se reunirán contra ellos para atarlos por su doble pecado (10:10).",
+        "Efraín es una novilla adiestrada a la que le gusta trillar; yo pondré yugo sobre su hermoso cuello; haré que Efraín tire, que Judá are y que Jacob rompa los terrones (10:11).",
+        "Sembrad para vosotros en justicia, cosechad según la misericordia, y romped el barbecho; porque es tiempo de buscar al SEÑOR, hasta que venga y derrame justicia sobre vosotros (10:12).",
+        "Pero habéis arado maldad, habéis cosechado iniquidad, habéis comido fruto de mentira, porque confiaste en tu camino y en la multitud de tus guerreros (10:13).",
+        "El estruendo de guerra se levantará contra tu pueblo, y todas tus fortalezas serán destruidas, como Salmán destruyó a Bet-arbel el día de la batalla, cuando las madres fueron estrelladas junto con sus hijos (10:14).",
+        "Así os hará Betel por causa de vuestra gran maldad; cuando amanezca, el rey de Israel será completamente destruido (10:15)."
+      ],
+      "crossRefs": [
+        "Jeremías 4:3 — \"Rompan su barbecho.\"",
+        "Lucas 23:30; Apocalipsis 6:16 — Lenguaje de \"¡Cúbrannos!\" retomado después.",
+        "2 Reyes 17:5–6 — Caída de Samaria ante Asiria."
+      ],
+      "translationNotes": [
+        {
+          "term": "Bet-aven (juego de palabras con Betel)",
+          "original": "Hebrew: בֵּית־אָוֶן (‘house of wickedness’) vs. בֵּית־אֵל (‘house of God’) — Greek (LXX): Βαιθὰν / Βαιθήλ — Aramaic (Targum/Syriac): בית און / בית אל",
+          "note": "Apodo profético que se burla del centro idolátrico de Betel (10:5)."
+        },
+        {
+          "term": "Rompan su barbecho",
+          "original": "Hebrew: נִיר נִירוּ לָכֶם — Greek (LXX): ἀροτριᾶτε ἑαυτοῖς χέρσον — Aramaic (Targum/Syriac): חרושו לנא מתרבּא",
+          "note": "Imagen de arrepentimiento: roturar el suelo duro y sin labrar del corazón (10:12)."
+        },
+        {
+          "term": "Salmán / Bet-arbel (identificaciones debatidas)",
+          "original": "Hebrew: שַׁלְמָן / בֵּית אַרְבְּאֵל — Greek (LXX): Σαλμανὰ / Βαιθαραβήλ — Aramaic (Targum/Syriac): שלמנא / בית ערבאל",
+          "note": "Probablemente un gobernante asirio (por ejemplo, Salmanasar) y una ciudad; el versículo indica que madres e hijos fueron destrozados en esa batalla (10:14)."
+        }
+      ],
+      "keyTakeaway": "Los altares de ídolos se multiplican mientras el corazón se tuerce; Dios llama a labrar un nuevo suelo del corazón, pero llega la guerra, el rey cae y las familias son asesinadas en el asedio."
+    },
+    {
+      "id": "hosea-11",
+      "title": "🧒 Oseas 11",
+      "refs": [
+        "Hosea 11:1-12"
+      ],
+      "summaryBullets": [
+        "Cuando Israel era muchacho, yo lo amé, y de Egipto llamé a mi hijo (11:1).",
+        "Pero cuanto más los llamaba, más se alejaban de mí; sacrificaban a los baales y quemaban incienso a las imágenes (11:2).",
+        "Yo enseñé a Efraín a caminar, tomándolo por sus brazos; pero no reconocieron que yo los sanaba (11:3).",
+        "Con cuerdas de humanidad los atraje, con lazos de amor; fui para ellos como los que levantan a un niño a sus mejillas, y me incliné para darles de comer (11:4).",
+        "¿No volverán a Egipto, y no reinará Asiria sobre ellos, porque se niegan a arrepentirse? (11:5).",
+        "La espada brillará en sus ciudades; devorará sus falsos profetas y pondrá fin a sus planes (11:6).",
+        "Mi pueblo está decidido a apartarse de mí; aunque me llamen Dios Altísimo, de ningún modo los exaltaré (11:7).",
+        "¿Cómo podré abandonarte, Efraín? ¿Cómo podré entregarte, Israel? ¿Cómo podré tratarte como a Adma? ¿Cómo podré hacerte como a Zeboim? Mi corazón se conmueve dentro de mí; toda mi compasión se enciende (11:8).",
+        "No ejecutaré el ardor de mi ira ni volveré a destruir a Efraín, porque soy Dios y no hombre, el Santo en medio de ti; no vendré con furor (11:9).",
+        "Caminarán en pos del SEÑOR; él rugirá como un león, y cuando ruja, sus hijos vendrán temblando desde el occidente (11:10).",
+        "Vendrán del Egipto temblando como pajaritos, y de la tierra de Asiria como palomas, y los haré habitar en sus casas, dice el SEÑOR (11:11).",
+        "Efraín me ha rodeado de mentiras, e Israel de engaño; y Judá es rebelde contra Dios, contra el Santo fiel (11:12)."
+      ],
+      "crossRefs": [
+        "Mateo 2:15 — Cita posterior de \"De Egipto llamé a mi hijo.\"",
+        "Deuteronomio 32:10–12 — Dios cargando a Su pueblo.",
+        "Amós 1:8; Deuteronomio 29:23 — Admá y Zeboim nombradas entre las ciudades destruidas."
+      ],
+      "translationNotes": [
+        {
+          "term": "De Egipto llamé a mi hijo",
+          "original": "Hebrew: מִמִּצְרַיִם קָרָאתִי לִבְנִי — Greek (LXX): ἐξ Αἰγύπτου μετεκάλεσα τὰ τέκνα αὐτοῦ — Aramaic (Targum/Syriac): מן מצרים קריתי לברִי",
+          "note": "Oseas se refiere a Israel como \"hijo\" de Dios en el éxodo. Aplicado tipológicamente en otro contexto posterior (Mat 2:15)."
+        },
+        {
+          "term": "Nota de numeración",
+          "original": "Hebrew/English versification difference: Eng 11:12 = Heb 12:1 — Greek/Aramaic follow Hebrew order",
+          "note": "Tenga en cuenta que algunas ediciones cuentan 11:12 como 12:1, lo que afecta las referencias cruzadas al cap. 12."
+        },
+        {
+          "term": "Rugido del león",
+          "original": "Hebrew: יִשְׁאַג — Greek (LXX): ὠρυήσεται — Aramaic (Targum/Syriac): ישאג",
+          "note": "Señal del poderoso llamado de Dios que atrae de regreso a los hijos dispersos (11:10)."
+        }
+      ],
+      "keyTakeaway": "Dios recuerda haber amado y criado a Israel, condena su atracción hacia los ídolos, anuncia el dominio asirio, pero contiene la destrucción total y promete un regreso a Su llamado como de león."
+    },
+    {
+      "id": "hosea-12",
+      "title": "🧩 Oseas 12",
+      "refs": [
+        "Hosea 12:1-14"
+      ],
+      "summaryBullets": [
+        "Efraín se apacienta de viento; persigue el viento del oriente todo el día, multiplica mentiras y violencia; hace pacto con Asiria y envía aceite a Egipto (12:1).",
+        "El SEÑOR tiene pleito con Judá; castigará a Jacob conforme a sus caminos y le retribuirá conforme a sus obras (12:2).",
+        "En el vientre agarró por el talón a su hermano, y en su madurez luchó con Dios (12:3).",
+        "Luchó con el ángel y lo venció; lloró y le rogó su favor; lo encontró en Betel y allí habló con él (12:4).",
+        "¡El SEÑOR Dios de los ejércitos, el SEÑOR es su nombre! (12:5).",
+        "Tú, pues, vuélvete a tu Dios; guarda misericordia y juicio, y espera siempre en tu Dios (12:6).",
+        "El mercader tiene en su mano balanzas falsas; ama la opresión (12:7).",
+        "Efraín dice: \"Ciertamente me he enriquecido, he hallado riquezas; en todas mis ganancias no hallarán en mí iniquidad ni pecado\" (12:8).",
+        "Yo soy el SEÑOR tu Dios desde la tierra de Egipto; yo te haré morar en tiendas otra vez, como en los días de la fiesta solemne (12:9).",
+        "Hablé a los profetas, les di muchas visiones, y por medio de ellos di parábolas (12:10).",
+        "¿Es Galaad malo? Ciertamente es vanidad; en Gilgal sacrifican toros, y sus altares serán como montones de piedras en los surcos del campo (12:11).",
+        "Jacob huyó a la tierra de Aram; Israel sirvió para ganar una esposa, y por una esposa guardó ovejas (12:12).",
+        "Por un profeta el SEÑOR hizo subir a Israel de Egipto, y por un profeta fue guardado (12:13).",
+        "Efraín ha provocado amargamente la ira de su Señor; su Señor dejará recaer sobre él la culpa de su sangre y le devolverá su afrenta (12:14)."
+      ],
+      "crossRefs": [
+        "Génesis 25:26; Génesis 32:24–30 — Jacob agarrando el talón y luchando.",
+        "Amós 8:5 — Balanzas falsas condenadas.",
+        "Éxodo 12–14; Números 12:6–8 — Éxodo y mediación profética."
+      ],
+      "translationNotes": [
+        {
+          "term": "Luchó con Dios / con el ángel",
+          "original": "Hebrew: שָׂרָה אֶת־אֱלֹהִים… שָׂרָה אֶל־מַלְאָךְ — Greek (LXX): ἠνίστατο πρὸς θεόν… ἐνίσχυσεν μετὰ ἀγγέλου — Aramaic (Targum/Syriac): אתגבר עם קדם יי… עם מלאכא",
+          "note": "Oseas narra tanto \"con Dios\" como \"con el ángel\", reflejando el encuentro de Génesis donde el mensajero de Dios representa Su presencia."
+        },
+        {
+          "term": "Mercader / Canaán",
+          "original": "Hebrew: כְּנַעַן (kenaʿan) — Greek (LXX): Χαναάν — Aramaic (Targum/Syriac): כנען",
+          "note": "Juego de palabras: \"mercader\" puede leerse como \"cananeo\", sugiriendo que Israel se comporta como aquellos famosos por el comercio y el engaño (12:7)."
+        },
+        {
+          "term": "Por un profeta… guardado",
+          "original": "Hebrew: וּבְנָבִיא הֶעֱלָה יְהוָה… וּבְנָבִיא נִשְׁמָר — Greek (LXX): διὰ προφήτου… διετηρήθη — Aramaic (Targum/Syriac): בנביא אסתלק… ובנביא אתנטר",
+          "note": "Afirma el uso de un profeta (Moisés) por parte de Dios para sacar y cuidar a Israel (12:13)."
+        }
+      ],
+      "keyTakeaway": "Oseas relata la lucha de Jacob para instar al arrepentimiento, expone el fraude y la confianza en la riqueza, y enfatiza que Dios habla y salva a través de Sus profetas."
+    },
+    {
+      "id": "hosea-13",
+      "title": "🔥 Oseas 13",
+      "refs": [
+        "Hosea 13:1-16"
+      ],
+      "summaryBullets": [
+        "Cuando Efraín hablaba, había temor; fue exaltado en Israel; pero pecó con Baal y murió (13:1).",
+        "Ahora pecan más y más; de su plata se hacen imágenes fundidas según su propio entendimiento, todas ellas obra de artífices; de ellos se dice: \"¡Sacrifican hombres! ¡Besan becerros!\" (13:2).",
+        "Por tanto serán como la niebla de la mañana, como el rocío que al alba desaparece, como la paja arrebatada de la era, como el humo que sale por una ventana (13:3).",
+        "Mas yo soy el SEÑOR tu Dios desde la tierra de Egipto; no conocerás otro dios fuera de mí, ni hay salvador sino yo (13:4).",
+        "Yo te conocí en el desierto, en tierra de gran sequedad (13:5).",
+        "Cuando se saciaron de pasto, se llenaron; y una vez llenos, se enalteció su corazón; por eso me olvidaron (13:6).",
+        "Por tanto, yo seré para ellos como un león; como un leopardo acecharé junto al camino (13:7).",
+        "Como una osa a quien le han robado sus cachorros los atacaré y les desgarraré las entrañas; como un león los devoraré; como fiera los despedazaré (13:8).",
+        "Tu destrucción, Israel, viene de que estás contra mí, contra tu ayudador (13:9).",
+        "¿Dónde está tu rey, para que te salve en todas tus ciudades? ¿Dónde tus gobernantes, de quienes dijiste: \"Dame rey y príncipes\"? (13:10).",
+        "Te di un rey en mi ira, y te lo quité en mi indignación (13:11).",
+        "La iniquidad de Efraín está guardada, sus pecados están archivados (13:12).",
+        "Dolores de mujer de parto le vendrán; es un hijo insensato, porque no se presenta a su debido tiempo a la boca del vientre (13:13).",
+        "Yo los redimiré del poder del sepulcro; los rescataré de la muerte. ¿Dónde están tus plagas, oh muerte? ¿Dónde está tu destrucción, oh sepulcro? La compasión se apartará de mis ojos (13:14).",
+        "Aunque él fructifique entre los hermanos, vendrá el viento oriental, el viento del SEÑOR, subiendo del desierto, y secará su manantial y agotará su fuente; el enemigo saqueará el tesoro de todas sus cosas preciosas (13:15).",
+        "Samaria llevará su castigo, porque se rebeló contra su Dios; caerán a espada; sus niños serán estrellados, y sus mujeres encintas serán abiertas (13:16)."
+      ],
+      "crossRefs": [
+        "1 Samuel 8:7 — \"Me han rechazado a mí como rey sobre ellos.\"",
+        "2 Reyes 17:5–6 — Caída de Samaria ante Asiria.",
+        "1 Corintios 15:55 — Ecos posteriores del lenguaje sobre muerte/Seol (las tradiciones textuales varían)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Besar a los becerros (homenaje al ídolo)",
+          "original": "Hebrew: יִשְׁקוּ הָעֲגָלִים — Greek (LXX): καταφιλήσωσι τοὺς μόσχους — Aramaic (Targum/Syriac): נשקין לעגליא",
+          "note": "Acto de reverencia a los ídolos de becerro (13:2)."
+        },
+        {
+          "term": "\"¿Los rescataré…? / Los rescataré…\" (dos lecturas)",
+          "original": "Hebrew: מִיַּד שְׁאוֹל אֶפְדֵּם מִמָּוֶת אֶגְאָלֵם… אֱהִי דְבָרֶיךָ מָוֶת (interrogatives possible) — Greek (LXX): ποῦ ἡ δίκη σου, θάνατε; ποῦ τὸ κέντρον σου, ᾅδη; — Aramaic (Targum/Syriac): מן יד שאול אפדנם… היכן דינך מות",
+          "note": "El hebreo puede leerse como preguntas (\"¿Los rescataré…? ¿Dónde están tus plagas, Muerte?\") o como promesas/burlas. Las citas posteriores siguen la burla al estilo griego (13:14)."
+        },
+        {
+          "term": "Destripadas (brutalidad de asedio)",
+          "original": "Hebrew: הָרִיּוֹת יְבֻקָּעוּ — Greek (LXX): διαρραγήσονται αἱ ἐν γαστρὶ ἔχουσαι — Aramaic (Targum/Syriac): יתבקעון מעוברן",
+          "note": "Describe las atrocidades en la caída de Samaria; realidad histórica de la guerra de asedio antigua (13:16)."
+        }
+      ],
+      "keyTakeaway": "Los ídolos reemplazan a Dios y traen ruina. Dios cuestiona su fabricación de reyes, habla de la muerte y el Seol, y anuncia una caída brutal sobre Samaria."
+    },
+    {
+      "id": "hosea-14",
+      "title": "🌿 Oseas 14",
+      "refs": [
+        "Hosea 14:1-9"
+      ],
+      "summaryBullets": [
+        "Vuelve, Israel, al SEÑOR tu Dios, porque por tu pecado has caído (14:1).",
+        "Llevad con vosotros palabras y volveos al SEÑOR; decidle: \"Quita toda iniquidad y acéptanos benignamente, para que ofrezcamos el fruto de nuestros labios\" (14:2).",
+        "Asiria no nos salvará; no montaremos caballos de guerra; nunca más diremos \"dios nuestro\" a la obra de nuestras manos, porque en ti el huérfano alcanza misericordia (14:3).",
+        "Yo sanaré su infidelidad y los amaré de pura gracia, porque mi ira se apartó de ellos (14:4).",
+        "Seré como el rocío para Israel; florecerá como el lirio y extenderá sus raíces como el cedro del Líbano (14:5).",
+        "Sus ramas se extenderán; su esplendor será como el del olivo, y su fragancia como la del cedro del Líbano (14:6).",
+        "Volverán a habitar bajo su sombra; florecerán como el trigo y brotarán como la vid; la fama de Israel será como el vino del Líbano (14:7).",
+        "Efraín dirá: \"¿Qué más tengo yo con los ídolos?\" Yo lo oiré y cuidaré de él; yo soy como un ciprés siempre verde; de mí procede tu fruto (14:8).",
+        "¿Quién es sabio para que entienda estas cosas? ¿Quién es prudente para que las conozca? Los caminos del SEÑOR son rectos; los justos andarán por ellos, pero los rebeldes caerán en ellos (14:9)."
+      ],
+      "crossRefs": [
+        "Hebreos 13:15 — \"Fruto de labios\" como alabanza (eco de la frase).",
+        "Deuteronomio 33:13–16 — Bendiciones de rocío y fecundidad.",
+        "Salmo 1:3 — Árbol plantado junto a corrientes; imagen de fruto."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fruto/becerros de nuestros labios (frase)",
+          "original": "Hebrew: נְשַׁלֵּם פָּרִים שְׂפָתֵינוּ — Greek (LXX): ἀποδώσομεν καρπὸν χειλέων ἡμῶν — Aramaic (Targum/Syriac): נשלם תושבחת שפתין",
+          "note": "El hebreo 'parim' puede significar 'becerros' (sacrificios) o por juego de palabras 'fruto'; sentido: ofrendas habladas de arrepentimiento y alabanza (14:2)."
+        },
+        {
+          "term": "Asiria no nos salvará",
+          "original": "Hebrew: אַשּׁוּר לֹא יוֹשִׁיעֵנוּ — Greek (LXX): Ἀσσὺρ οὐ μὴ σῴσῃ ἡμᾶς — Aramaic (Targum/Syriac): אשור לא יפרקן",
+          "note": "Apartarse de la dependencia política y militar para confiar en Dios (14:3)."
+        },
+        {
+          "term": "Imagen del rocío",
+          "original": "Hebrew: אֶהְיֶה כַטָּל — Greek (LXX): ἔσομαι ὡς δρόσος — Aramaic (Targum/Syriac): אהיה כטל",
+          "note": "Refresco silencioso y vivificante en una tierra seca (14:5)."
+        }
+      ],
+      "keyTakeaway": "Un llamado final a volver con palabras sinceras y a abandonar ídolos y salvadores extranjeros. Dios promete sanación, amor constante y crecimiento fresco como rocío sobre una tierra renovada."
+    }
+  ]
+}

@@ -1,0 +1,2410 @@
+{
+  "id": "job",
+  "title": "Job",
+  "stories": [
+    {
+      "id": "job-1",
+      "title": "🕊️ Job 1",
+      "refs": [
+        "Job 1:1-22"
+      ],
+      "summaryBullets": [
+        "En la región de Uz había un hombre íntegro e intachable que temía a Dios y vivía apartado del mal. Este hombre se llamaba Job. (1:1).",
+        "Tenía siete hijos y tres hijas. (1:2).",
+        "Era dueño de siete mil ovejas, tres mil camellos, quinientas yuntas de bueyes y quinientas asnas; además, su servidumbre era muy numerosa. Entre todos los habitantes del oriente era el personaje de mayor renombre. (1:3).",
+        "Sus hijos acostumbraban a turnarse para celebrar banquetes el día de sus cumpleaños e invitaban a sus tres hermanas a comer y beber con ellos. (1:4).",
+        "Una vez terminado el ciclo de los banquetes, Job se aseguraba de que sus hijos se purificaran delante de Dios. Muy de mañana ofrecía un holocausto por cada uno de ellos, pues pensaba: «Tal vez mis hijos hayan pecado y maldecido en sus corazones a Dios». Para Job esta era una costumbre cotidiana. (1:5).",
+        "Llegó el día en que los hijos de Dios debían presentarse ante el Señor y con ellos llegó también Satanás. (1:6).",
+        "Y el Señor preguntó: (1:7).",
+        "—¿Te has puesto a pensar en mi siervo Job? —volvió a preguntarle el Señor—. No hay en la tierra nadie como él; es un hombre íntegro e intachable, que me honra y vive apartado del mal. (1:8).",
+        "Satanás respondió: (1:9).",
+        "¿Acaso no están bajo tu protección él y su familia y todas sus posesiones? De tal modo has bendecido la obra de sus manos que sus rebaños y ganados llenan toda la tierra. (1:10).",
+        "Pero extiende la mano y daña todo lo que posee, ¡a ver si no te maldice en tu propia cara! (1:11).",
+        "—Muy bien —contestó el Señor—. Todas sus posesiones están en tus manos, con la condición de que a él no le pongas la mano encima. (1:12).",
+        "Llegó el día en que los hijos y las hijas de Job celebraban un banquete en casa de su hermano mayor. (1:13).",
+        "Entonces un mensajero llegó a decirle a Job: «Mientras los bueyes araban y los asnos pastaban por allí cerca, (1:14).",
+        "nos atacaron los de Sabá y se los llevaron. A los criados los mataron a filo de espada. ¡Solo yo pude escapar y ahora vengo a contárselo!». (1:15).",
+        "No había terminado de hablar este mensajero cuando uno más llegó y dijo: «El fuego de Dios cayó del cielo y quemó a las ovejas y a los criados. ¡Solo yo pude escapar para venir a contárselo!». (1:16).",
+        "No había terminado de hablar este mensajero cuando otro más llegó y dijo: «Unos salteadores caldeos vinieron y, dividiéndose en tres grupos, se apoderaron de los camellos y se los llevaron. A los criados los mataron a filo de espada. ¡Solo yo pude escapar y ahora vengo a contárselo!». (1:17).",
+        "No había terminado de hablar este mensajero todavía cuando otro llegó y dijo: «Los hijos y las hijas de usted estaban celebrando un banquete en casa del mayor de todos ellos (1:18).",
+        "cuando, de pronto, un fuerte viento del desierto dio contra la casa y derribó sus cuatro esquinas. ¡La casa cayó sobre los jóvenes y todos murieron! ¡Solo yo pude escapar y ahora vengo a contárselo!». (1:19).",
+        "Al llegar a este punto, Job se levantó, se rasgó las vestiduras, se rasuró la cabeza y se dejó caer al suelo en actitud de adoración. (1:20).",
+        "Entonces dijo: (1:21).",
+        "A pesar de todo esto, Job no pecó ni le echó la culpa a Dios. (1:22)."
+      ],
+      "crossRefs": [
+        "Ezequiel 14:14-20 — Job nombrado junto a Noé y Daniel como hombres justos.",
+        "Santiago 5:11 — Job citado como ejemplo de perseverancia.",
+        "Job 42:11 — Más tarde, parientes y amigos visitan y consuelan a Job."
+      ],
+      "translationNotes": [
+        {
+          "term": "Uz",
+          "original": "Hebrew: עוּץ (‘Uts) — Greek (LXX): Αὐσῖτις",
+          "note": "Patria de Job; la ubicación exacta no se especifica en el libro (1:1)."
+        },
+        {
+          "term": "El adversario",
+          "original": "Hebrew: הַשָּׂטָן (ha-satan) — Greek (LXX): ὁ διάβολος / ὁ σατανᾶς — Aramaic: סטן",
+          "note": "Título que significa \"acusador/adversario\" en las escenas del consejo (1:6–12) (2:1–6)."
+        },
+        {
+          "term": "Maldecir / bendecir (eufemismo)",
+          "original": "Hebrew: בָּרַךְ (barakh, lit. “bless,” used euphemistically) — Greek (LXX): εὐλογέω",
+          "note": "En contextos sensibles, el hebreo usa \"bendecir\" con el sentido de \"maldecir\" (1:5-11) (2:5-9)."
+        },
+        {
+          "term": "Trozo de vasija / montón de ceniza",
+          "original": "Hebrew: חֶרֶשׂ (ḥeres, potsherd), אֵפֶר (efer, ash)",
+          "note": "Instrumentos y escenario de la aflicción de Job (2:8)."
+        },
+        {
+          "term": "Sabeos / caldeos",
+          "original": "Hebrew: שְׁבָאִים (Sheva’im) / כַּשְׂדִּים (Kasdim)",
+          "note": "Asaltantes nombrados que atacan las posesiones de Job (1:15-17)."
+        }
+      ],
+      "keyTakeaway": "En el marco narrativo, el sufrimiento de Job comienza porque el adversario desafía su integridad y Dios permite una prueba con límites claros. Job no es informado de esto. Pierde posesiones, siervos e hijos, luego es golpeado con llagas, y tres amigos llegan para sentarse en silencio."
+    },
+    {
+      "id": "job-2",
+      "title": "🕊️ Job 2",
+      "refs": [
+        "Job 2:1-13"
+      ],
+      "summaryBullets": [
+        "Llegó el día en que los ángeles fueron a presentarse ante el Señor y con ellos llegó también Satanás para comparecer ante el Señor. (2:1).",
+        "Y el Señor le preguntó: (2:2).",
+        "—¿Te has puesto a pensar en mi siervo Job? —volvió a preguntarle el Señor—. No hay en la tierra nadie como él; es un hombre íntegro e intachable, que me honra y vive apartado del mal. Y aunque tú me incitaste contra él para arruinarlo sin motivo, ¡todavía mantiene firme su integridad! (2:3).",
+        "—¡Una cosa por la otra! —respondió Satanás—. Con tal de salvar la vida, el hombre da todo lo que tiene. (2:4).",
+        "Pero extiende la mano y hiérelo, ¡a ver si no te maldice en tu propia cara! (2:5).",
+        "—Muy bien —dijo el Señor a Satanás—, Job está en tus manos. Eso sí, respeta su vida. (2:6).",
+        "Dicho esto, Satanás se retiró de la presencia del Señor para afligir a Job con dolorosas úlceras desde la planta del pie hasta la coronilla. (2:7).",
+        "Y Job, sentado en medio de las cenizas, tomó un pedazo de teja para rascarse. (2:8).",
+        "Su esposa le reprochó: (2:9).",
+        "Job respondió: (2:10).",
+        "Tres amigos de Job se enteraron de todo el mal que le había sobrevenido y, de común acuerdo, salieron de sus respectivos lugares para ir juntos a expresarle a Job sus condolencias y consuelo. Ellos eran Elifaz de Temán, Bildad de Súah y Zofar de Namat. (2:11).",
+        "Desde cierta distancia alcanzaron a verlo y casi no lo pudieron reconocer. Se echaron a llorar a voz en cuello, rasgando sus vestiduras y arrojándose polvo y ceniza sobre la cabeza, (2:12).",
+        "y durante siete días y siete noches se sentaron en el suelo para hacerle compañía. Ninguno de ellos se atrevía a decirle nada, pues veían cuán grande era su sufrimiento. (2:13)."
+      ],
+      "crossRefs": [
+        "Ezequiel 14:14-20 — Job nombrado junto a Noé y Daniel como hombres justos.",
+        "Santiago 5:11 — Job citado como ejemplo de perseverancia.",
+        "Job 42:11 — Más tarde, parientes y amigos visitan y consuelan a Job."
+      ],
+      "translationNotes": [
+        {
+          "term": "Uz",
+          "original": "Hebrew: עוּץ (‘Uts) — Greek (LXX): Αὐσῖτις",
+          "note": "Patria de Job; la ubicación exacta no se especifica en el libro (1:1)."
+        },
+        {
+          "term": "El adversario",
+          "original": "Hebrew: הַשָּׂטָן (ha-satan) — Greek (LXX): ὁ διάβολος / ὁ σατανᾶς — Aramaic: סטן",
+          "note": "Título que significa \"acusador/adversario\" en las escenas del consejo (1:6–12) (2:1–6)."
+        },
+        {
+          "term": "Maldecir / bendecir (eufemismo)",
+          "original": "Hebrew: בָּרַךְ (barakh, lit. “bless,” used euphemistically) — Greek (LXX): εὐλογέω",
+          "note": "En contextos sensibles, el hebreo usa \"bendecir\" con el sentido de \"maldecir\" (1:5-11) (2:5-9)."
+        },
+        {
+          "term": "Trozo de vasija / montón de ceniza",
+          "original": "Hebrew: חֶרֶשׂ (ḥeres, potsherd), אֵפֶר (efer, ash)",
+          "note": "Instrumentos y escenario de la aflicción de Job (2:8)."
+        },
+        {
+          "term": "Sabeos / caldeos",
+          "original": "Hebrew: שְׁבָאִים (Sheva’im) / כַּשְׂדִּים (Kasdim)",
+          "note": "Asaltantes nombrados que atacan las posesiones de Job (1:15-17)."
+        }
+      ],
+      "keyTakeaway": "En el marco narrativo, el sufrimiento de Job comienza porque el adversario desafía su integridad y Dios permite una prueba con límites claros. Job no es informado de esto. Pierde posesiones, siervos e hijos, luego es golpeado con llagas, y tres amigos llegan para sentarse en silencio."
+    },
+    {
+      "id": "job-3",
+      "title": "🗣️ Job 3",
+      "refs": [
+        "Job 3:1-26"
+      ],
+      "summaryBullets": [
+        "Después de esto, Job rompió el silencio para maldecir el día en que había nacido. (3:1).",
+        "Dijo así: (3:2).",
+        "«Que perezca el día en que yo nací y la noche en que se anunció: “¡Un niño ha sido concebido!”. (3:3).",
+        "Que ese día se vuelva oscuridad; que Dios en lo alto no lo tome en cuenta; que no brille en él ninguna luz. (3:4).",
+        "Que las tinieblas y la densa oscuridad vuelvan a reclamarlo;Que una nube lo cubra con su sombra; que la oscuridad domine su esplendor. (3:5).",
+        "Que densas tinieblas caigan sobre esa noche; que no sea contada entre los días del año, ni registrada en ninguno de los meses. (3:6).",
+        "Que esa noche permanezca estéril; que no haya en ella gritos de alegría. (3:7).",
+        "Que maldigan ese día los que profieren maldiciones, los expertos en provocar a Leviatán. (3:8).",
+        "Que se oscurezcan sus estrellas matutinas; que en vano esperen la luz del día y que no vean los primeros rayos de la aurora. (3:9).",
+        "Pues no cerró el vientre de mi madre ni evitó que mis ojos vieran tanta miseria. (3:10).",
+        "»¿Por qué no perecí al momento de nacer? ¿Por qué no morí cuando salí del vientre? (3:11).",
+        "¿Por qué hubo rodillas que me recibieran y pechos que me amamantaran? (3:12).",
+        "Ahora estaría yo descansando en paz; estaría durmiendo tranquilo (3:13).",
+        "entre reyes y consejeros de este mundo, que se construyeron monumentos que ahora yacen en ruinas; (3:14).",
+        "entre príncipes que poseyeron mucho oro y que llenaron de plata sus mansiones. (3:15).",
+        "¿Por qué no me desecharon como a un abortivo, como a esos niños que jamás vieron la luz? (3:16).",
+        "¡Allí cesa el afán de los malvados! ¡Allí descansan los que no tienen fuerzas! (3:17).",
+        "También los cautivos disfrutan del reposo, pues ya no escuchan los gritos del capataz. (3:18).",
+        "Allí el pequeño se codea con el grande y el esclavo se libera de su amo. (3:19).",
+        "»¿Por qué permite Dios que los sufridos vean la luz? ¿Por qué se les da vida a los amargados? (3:20).",
+        "Anhelan estos una muerte que no llega, aunque la buscan más que a tesoro escondido; (3:21).",
+        "¡se llenarían de gran regocijo, se alegrarían si llegaran al sepulcro! (3:22).",
+        "¿Por qué arrincona Dios al hombre que desconoce su destino? (3:23).",
+        "Antes que el pan, me llegan los suspiros; mis quejidos se derraman como el agua. (3:24).",
+        "Lo que más temía me sobrevino; lo que más me asustaba me sucedió. (3:25).",
+        "No encuentro paz ni sosiego; no hallo reposo, sino solo agitación». (3:26)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-4",
+      "title": "🗣️ Job 4",
+      "refs": [
+        "Job 4:1-21"
+      ],
+      "summaryBullets": [
+        "A esto respondió así Elifaz de Temán: (4:1).",
+        "«Tal vez no puedas aguantar que alguien se atreva a decirte algo, pero ¿quién podrá quedarse callado? (4:2).",
+        "Tú, que impartías instrucción a las multitudes y fortalecías las manos decaídas; (4:3).",
+        "tú, que con tus palabras sostenías a los que tropezaban y fortalecías las rodillas que flaqueaban; (4:4).",
+        "ahora que afrontas las calamidades, ¡no las resistes!; ¡te ves golpeado y te desanimas! (4:5).",
+        "¿No debieras confiar en que temes a Dios y en que tu conducta es intachable? (4:6).",
+        "»Ponte a pensar: ¿Quién que sea inocente ha perecido? ¿Cuándo se ha destruido a la gente intachable? (4:7).",
+        "La experiencia me ha enseñado que los que siembran maldad cosechan desventura. (4:8).",
+        "El soplo de Dios los destruye; el aliento de su enojo los consume. (4:9).",
+        "Aunque ruja el león y gruña el cachorro, acabarán con los colmillos destrozados; (4:10).",
+        "el león perece por falta de presa, y los cachorros de la leona se dispersan. (4:11).",
+        "»En lo secreto me llegó un mensaje; mis oídos captaron solo su murmullo. (4:12).",
+        "Entre inquietantes visiones nocturnas, cuando cae sobre los hombres un sueño profundo, (4:13).",
+        "me hallé presa del miedo y del temblor; mi esqueleto entero se sacudía. (4:14).",
+        "Sentí sobre mi rostro el roce de un espíritu y se me erizaron los vellos del cuerpo. (4:15).",
+        "Una silueta se plantó frente a mis ojos, pero no pude ver quién era.Detuvo su marcha, y escuché una voz que susurraba: (4:16).",
+        "“¿Puede un simple mortal ser más justo que Dios? ¿Puede ser más puro el hombre que su Creador? (4:17).",
+        "Pues, si Dios no confía en sus propios siervos, y aun a sus ángeles acusa de cometer errores, (4:18).",
+        "¡cuánto más a los que habitan en casas de barro cimentadas sobre el polvo y expuestos a ser aplastados como polilla! (4:19).",
+        "Entre la aurora y el ocaso pueden ser destruidos y perecer para siempre, sin que a nadie le importe. (4:20).",
+        "¿No se arrancan acaso las estacas de su tienda de campaña? ¡Mueren sin haber adquirido sabiduría!”. (4:21)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-5",
+      "title": "🗣️ Job 5",
+      "refs": [
+        "Job 5:1-27"
+      ],
+      "summaryBullets": [
+        "»Clama, si quieres, pero ¿habrá quien te responda? ¿A cuál de los seres angelicales te dirigirás? (5:1).",
+        "El resentimiento mata a los necios; la envidia mata a los insensatos. (5:2).",
+        "Yo mismo he visto al necio echar raíces, pero de pronto su casa fue maldecida. (5:3).",
+        "Sus hijos distan mucho de estar a salvo; en el tribunal son oprimidos y nadie los defiende. (5:4).",
+        "Los hambrientos se comen su cosecha, y la recogen de entre las espinas; los sedientos se beben sus riquezas. (5:5).",
+        "Y aunque las penas no brotan del suelo, ni los sufrimientos provienen de la tierra, (5:6).",
+        "con todo, el hombre nace para sufrir, tan cierto como que las chispas vuelan. (5:7).",
+        "»Si se tratara de mí, yo apelaría a Dios; ante él expondría mi caso. (5:8).",
+        "Él realiza maravillas insondables, portentos que no pueden contarse. (5:9).",
+        "Él derrama lluvia sobre la tierra y envía agua sobre los campos. (5:10).",
+        "Él enaltece a los humildes y da seguridad a los enlutados. (5:11).",
+        "Él deshace las maquinaciones de los astutos, para que no prospere la obra de sus manos. (5:12).",
+        "Él atrapa a los sabios en su propia astucia, y desbarata los planes de los malvados. (5:13).",
+        "De día estos se topan con las tinieblas; a plena luz andan a tientas, como si fuera de noche. (5:14).",
+        "Pero a los menesterosos los salva de la opresión de los poderosos y de su lengua viperina. (5:15).",
+        "Así es como los pobres recobran la esperanza y a la injusticia se le tapa la boca. (5:16).",
+        "»¡Cuán dichoso es el hombre a quien Dios corrige! No menosprecies la disciplina del Todopoderoso. (5:17).",
+        "Porque él hiere, pero venda la herida; golpea, pero sana con sus manos. (5:18).",
+        "De seis aflicciones te rescatará y la séptima no te causará ningún daño. (5:19).",
+        "Cuando haya hambre, te salvará de la muerte; cuando haya guerra, te librará de la espada. (5:20).",
+        "Estarás a salvo del latigazo de la lengua, y no temerás cuando venga la destrucción. (5:21).",
+        "Te burlarás de la destrucción y del hambre, y no temerás a las bestias salvajes, (5:22).",
+        "pues harás un pacto con las piedras del campo y las bestias salvajes estarán en paz contigo. (5:23).",
+        "Reconocerás tu casa como lugar seguro; contarás tu ganado y ni un solo animal faltará. (5:24).",
+        "Llegarás a tener muchos hijos, y descendientes como la hierba del campo. (5:25).",
+        "Llegarás al sepulcro anciano, pero vigoroso, como las gavillas que se recogen a tiempo. (5:26).",
+        "»Esto lo hemos examinado y es verdad. Así que escúchalo y compruébalo tú mismo». (5:27)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-6",
+      "title": "🗣️ Job 6",
+      "refs": [
+        "Job 6:1-30"
+      ],
+      "summaryBullets": [
+        "A esto Job respondió: (6:1).",
+        "«¡Cómo quisiera que mi angustia se pesara y se pusiera en la balanza, junto con mi desgracia! (6:2).",
+        "¡De seguro pesarían más que la arena de los mares! ¡Por algo mis palabras son tan impetuosas! (6:3).",
+        "Las saetas del Todopoderoso me han herido, y mi espíritu absorbe su veneno. ¡Dios ha enviado sus terrores contra mí! (6:4).",
+        "¿Rebuzna el asno salvaje si tiene hierba? ¿Muge el buey si tiene forraje? (6:5).",
+        "¿Puede comerse sin sal la comida desabrida? ¿Tiene algún sabor la clara de huevo? (6:6).",
+        "Mi paladar se niega a probarla; ¡esa comida me enferma! (6:7).",
+        "»¡Ah, si Dios me concediera lo que pido! ¡Si Dios me otorgara lo que anhelo! (6:8).",
+        "¡Ah, si Dios se decidiera a destrozarme por completo, a descargar su mano sobre mí y aniquilarme! (6:9).",
+        "Aun así me quedaría este consuelo, esta alegría en medio de mi implacable dolor: ¡el no haber negado las palabras del Dios Santo! (6:10).",
+        "»¿Qué fuerzas me quedan para seguir esperando? ¿Qué fin me espera para querer vivir? (6:11).",
+        "¿Tengo acaso la fuerza de la roca? ¿Acaso tengo piel de bronce? (6:12).",
+        "¿Cómo puedo valerme por mí mismo, si me han quitado todos mis recursos? (6:13).",
+        "»Al amigo que sufre no se le niega la lealtad, aunque se haya apartado del temor al Todopoderoso. (6:14).",
+        "Pero mis hermanos me traicionan como un torrente; como corrientes de arroyos que desaparecen: (6:15).",
+        "se enturbian cuando el hielo se derrite; se ensanchan al derretirse la nieve, (6:16).",
+        "pero dejan de fluir durante las sequías; en pleno calor desaparecen de sus lechos. (6:17).",
+        "Las caravanas se apartan de sus rutas; se encaminan al desierto y allí mueren. (6:18).",
+        "Las caravanas de Temá van en busca de agua, los mercaderes de Sabá abrigan esperanzas. (6:19).",
+        "Se desaniman, a pesar de su confianza; llegan allí y se quedan frustrados. (6:20).",
+        "Lo mismo pasa con ustedes: ¡ven algo espantoso y se asustan! (6:21).",
+        "¿Acaso les he pedido que me den algo o que paguen con su dinero mi rescate? (6:22).",
+        "¿Acaso les he pedido que me libren de mi enemigo o que me rescaten de las garras de los opresores? (6:23).",
+        "»Instrúyanme y me quedaré callado; muéstrenme en qué estoy equivocado. (6:24).",
+        "¡Qué dolorosas son las palabras justas! ¡Pero los argumentos de ustedes, qué pretenden probar! (6:25).",
+        "¿Pretenden ustedes corregir lo que digo y tratar mis palabras desesperadas como si fueran viento? (6:26).",
+        "¡Ustedes echarían suertes hasta por un huérfano y venderían a su amigo por cualquier cosa! (6:27).",
+        "»Tengan la bondad de mirarme a los ojos. ¿Creen que les mentiría en su propia cara? (6:28).",
+        "Reflexionen, no sean injustos; reflexionen, que en esto radica mi integridad. (6:29).",
+        "¿Acaso hay malicia en mi lengua? ¿No puede mi paladar discernir la maldad? (6:30)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-7",
+      "title": "🗣️ Job 7",
+      "refs": [
+        "Job 7:1-21"
+      ],
+      "summaryBullets": [
+        "»¿No tenemos todos una obligación en este mundo? ¿No son nuestros días como los de un jornalero? (7:1).",
+        "Como el esclavo que espera con ansias la noche, como el jornalero que ansioso espera su paga, (7:2).",
+        "meses enteros he vivido en vano; me han tocado noches de miseria. (7:3).",
+        "Me acuesto y pienso: “¿Cuánto falta para que amanezca?”.La noche se me hace interminable; me canso de dar vueltas en la cama hasta el amanecer. (7:4).",
+        "Tengo el cuerpo cubierto de gusanos y de costras; la piel se me rasga y me supura. (7:5).",
+        "»Mis días se van más veloces que una lanzadera, y sin esperanza alguna llegan a su fin. (7:6).",
+        "Recuerda, oh Dios, que mi vida es un suspiro; que ya no verán mis ojos la felicidad. (7:7).",
+        "Los ojos que hoy me ven no me verán mañana; pondrás en mí tus ojos, pero ya no existiré. (7:8).",
+        "Como nubes que se diluyen y se pierden, los que bajan a los dominios de la muerte ya no vuelven a subir. (7:9).",
+        "Nunca más regresan a su casa; desaparecen de su lugar. (7:10).",
+        "»Por lo que a mí toca, no guardaré silencio; la angustia de mi espíritu me lleva a hablar, la amargura en que vivo me obliga a protestar. (7:11).",
+        "¿Soy acaso el mar o el monstruo marino, para que me pongas bajo vigilancia? (7:12).",
+        "Cuando pienso que en mi lecho hallaré consuelo o encontraré alivio a mi queja, (7:13).",
+        "aun allí me infundes miedo en mis sueños; ¡me aterras con visiones! (7:14).",
+        "¡Preferiría que me estrangularan a seguir viviendo en este cuerpo! (7:15).",
+        "Tengo en poco mi vida; no quiero vivir para siempre. ¡Déjame en paz, que mi vida no tiene sentido! (7:16).",
+        "»¿Qué es el hombre a quien das tanta importancia, que tanta atención le concedes, (7:17).",
+        "que cada mañana examinas y a toda hora lo pones a prueba? (7:18).",
+        "Aparta de mí la mirada; ¡déjame al menos tragar saliva! (7:19).",
+        "Si he pecado, ¿en qué te afecta, vigilante de los mortales?¿Por qué te ensañas conmigo? ¿Acaso te soy una carga? (7:20).",
+        "¿Por qué no me perdonas mis pecados? ¿Por qué no pasas por alto mi maldad?Un poco más y yaceré en el polvo; me buscarás, pero habré dejado de existir». (7:21)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-8",
+      "title": "🗣️ Job 8",
+      "refs": [
+        "Job 8:1-22"
+      ],
+      "summaryBullets": [
+        "A esto respondió Bildad de Súah: (8:1).",
+        "«¿Hasta cuándo seguirás hablando así? ¡Tus palabras son un viento huracanado! (8:2).",
+        "¿Acaso Dios pervierte la justicia? ¿Acaso tuerce el derecho el Todopoderoso? (8:3).",
+        "Si tus hijos pecaron contra Dios, él les dio lo que su pecado merecía. (8:4).",
+        "Pero si tú buscas a Dios, si diriges tu súplica al Todopoderoso, (8:5).",
+        "y si eres puro e intachable, él saldrá en tu defensa y te restablecerá en el lugar que te corresponde. (8:6).",
+        "Modestas parecerán tus primeras riquezas, comparadas con tu prosperidad futura. (8:7).",
+        "»Pregunta a las generaciones pasadas; averigua lo que descubrieron sus antepasados. (8:8).",
+        "Nosotros nacimos ayer y nada sabemos; nuestros días en este mundo son como una sombra. (8:9).",
+        "Pero ellos te instruirán, te lo harán saber; compartirán contigo su experiencia. (8:10).",
+        "¿Puede crecer el papiro donde no hay pantano? ¿Pueden crecer los juncos donde no hay agua? (8:11).",
+        "Aunque estén floreciendo y nadie los haya cortado, se marchitan antes que otra hierba. (8:12).",
+        "Tal es el destino de los que se olvidan de Dios; así termina la esperanza de los impíos. (8:13).",
+        "Muy frágiles son sus esperanzas; han puesto su confianza en una telaraña. (8:14).",
+        "No podrán sostenerse cuando se apoyen en ella; no quedarán en pie cuando se prendan de sus hilos. (8:15).",
+        "Son como plantas frondosas expuestas al sol, que extienden sus ramas por todo el jardín: (8:16).",
+        "hunden sus raíces en torno a un montón de piedras y buscan arraigarse entre ellas. (8:17).",
+        "Pero si las arrancan de su sitio, ese lugar negará haberlas visto. (8:18).",
+        "¡Así termina su alegría de vivir y del suelo brotan otras plantas! (8:19).",
+        "»Dios no rechaza a quien es íntegro ni brinda su apoyo a quien hace el mal. (8:20).",
+        "Pondrá de nuevo risas en tu boca y gritos de alegría en tus labios. (8:21).",
+        "Tus enemigos se cubrirán de vergüenza y desaparecerán las moradas de los malvados». (8:22)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-9",
+      "title": "🗣️ Job 9",
+      "refs": [
+        "Job 9:1-35"
+      ],
+      "summaryBullets": [
+        "Job entonces respondió: (9:1).",
+        "«Aunque sé muy bien que esto es cierto, ¿cómo puede un mortal justificarse ante Dios? (9:2).",
+        "Si uno quisiera disputar con él, de mil cosas no podría responderle una sola. (9:3).",
+        "Profunda es su sabiduría, vasto su poder. ¿Quién puede desafiarlo y salir bien librado? (9:4).",
+        "Él mueve montañas sin que estas lo sepan, y en su enojo las trastorna. (9:5).",
+        "Él remueve los cimientos de la tierra y hace que se estremezcan sus columnas. (9:6).",
+        "Reprende al sol y su brillo se apaga; eclipsa la luz de las estrellas. (9:7).",
+        "Él se basta para extender los cielos; somete a su dominio las olas del mar. (9:8).",
+        "Él creó la Osa Mayor y el Orión, las Pléyades y las constelaciones del sur. (9:9).",
+        "Él realiza maravillas insondables, portentos que no pueden contarse. (9:10).",
+        "Si pasara junto a mí, no podría verlo; si se alejara, no alcanzaría a percibirlo. (9:11).",
+        "Si de algo se adueñara, ¿quién lo haría desistir? ¿Quién puede cuestionar sus actos? (9:12).",
+        "Dios no contiene su enojo; aun Rahab y sus secuaces se postran a sus pies. (9:13).",
+        "»¿Cómo entonces podré yo responderle? ¿Dónde hallar palabras para contradecirle? (9:14).",
+        "Aunque fuera yo inocente, no puedo defenderme; de mi Juez solo puedo pedir misericordia. (9:15).",
+        "Y aunque lo llamara y me respondiera, no creo que me concedería audiencia. (9:16).",
+        "Me despedazaría con una tormenta y por la menor cosa multiplicaría mis heridas. (9:17).",
+        "No me dejaría recobrar el aliento; más bien, me saturaría de amargura. (9:18).",
+        "Si de fuerza se trata, ¡él es más poderoso! Si es cuestión de juicio, ¿quién lo hará comparecer? (9:19).",
+        "Aun siendo inocente, me condenará mi boca; aun siendo íntegro, resultaré culpable. (9:20).",
+        "»Soy íntegro, pero ya no me importa; tengo en poco mi propia vida. (9:21).",
+        "Todo es lo mismo; por eso digo: “Al íntegro y al malvado destruye por igual”. (9:22).",
+        "Si alguna plaga acarrea la muerte repentina, él se burla de la angustia del inocente. (9:23).",
+        "Si algún malvado se apodera de un terreno, él tapa los ojos a los jueces. Si no lo hace él, ¿entonces quién? (9:24).",
+        "»Transcurren mis días con más rapidez que un corredor; vuelan sin que hayan conocido la dicha. (9:25).",
+        "Se deslizan como barcas de papiro, como veloces águilas al caer sobre su presa. (9:26).",
+        "Si acaso digo: “Olvidaré mi queja, cambiaré de expresión, esbozaré una sonrisa”, (9:27).",
+        "me queda el miedo de tanto sufrimiento, pues bien sé que no me consideran inocente. (9:28).",
+        "Y ya que me tienen por culpable, ¿para qué voy a luchar en vano? (9:29).",
+        "Aunque me bañe con jabón y me limpie las manos con lejía, (9:30).",
+        "tú me lanzarás al muladar, ¡y hasta mis ropas me aborrecerán! (9:31).",
+        "»Dios no es hombre como yo, para que le responda y juntos comparezcamos ante un tribunal. (9:32).",
+        "¡No hay un mediador aquí que decida el caso entre nosotros dos! (9:33).",
+        "¡No hay quien aleje de mí la vara de Dios para que ya no me asuste su terror! (9:34).",
+        "Quisiera hablar sin temor, pero no puedo hacerlo. (9:35)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-10",
+      "title": "🗣️ Job 10",
+      "refs": [
+        "Job 10:1-22"
+      ],
+      "summaryBullets": [
+        "»¡Ya estoy harto de esta vida! Por eso doy rienda suelta a mi queja; desahogo la amargura de mi alma. (10:1).",
+        "Le he dicho a Dios: No me condenes. Dime qué es lo que tienes contra mí. (10:2).",
+        "¿Te parece bien el oprimirme y despreciar la obra de tus manos mientras te muestras complaciente ante los planes del malvado? (10:3).",
+        "¿Son tus ojos los de un simple mortal? ¿Ves las cosas como las vemos nosotros? (10:4).",
+        "¿Son tus días como los nuestros, tus años como los de un mortal, (10:5).",
+        "para que andes investigando mis faltas y averiguándolo todo acerca de mi pecado? (10:6).",
+        "¡Tú bien sabes que no soy culpable y que de tus manos no tengo escapatoria! (10:7).",
+        "»Tú me hiciste con tus propias manos; tú me diste forma.¿Vas ahora a cambiar de parecer y a ponerle fin a mi vida? (10:8).",
+        "Recuerda que tú me hiciste del barro; ¿vas ahora a devolverme al polvo? (10:9).",
+        "¿No fuiste tú quien me derramó como leche, quien me hizo cuajar como queso? (10:10).",
+        "Fuiste tú quien me vistió de carne y piel, quien me tejió con huesos y tendones. (10:11).",
+        "Me diste vida, me favoreciste con tu amor y tu cuidado ha guardado mi espíritu. (10:12).",
+        "»Pero una cosa guardaste en tu corazón, y sé muy bien que la tuviste en mente: (10:13).",
+        "Que si yo peco, tú me vigilas y no pasas por alto mi pecado. (10:14).",
+        "Si soy culpable, ¡ay de mí! Si soy inocente, no puedo levantar mi cabeza.¡Lleno estoy de vergüenza, y consciente de mi aflicción! (10:15).",
+        "Si me levanto, me acechas como un león y despliegas contra mí tu gran poder. (10:16).",
+        "Contra mí presentas nuevos testigos, contra mí acrecientas tu enojo. ¡Una tras otra, tus tropas me atacan! (10:17).",
+        "»¿Por qué me hiciste salir del vientre? ¡Quisiera haber muerto sin que nadie me viera! (10:18).",
+        "¡Preferiría no haber existido y haber pasado del vientre a la tumba! (10:19).",
+        "¿Acaso mis contados días no llegan ya a su fin? ¡Déjame disfrutar de un momento de alegría (10:20).",
+        "antes de mi partida sin regreso a la tierra de las sombras y de la densa oscuridad, (10:21).",
+        "al país de la más profunda de las noches, al país de las sombras y del caos, donde aun la luz se asemeja a las tinieblas!». (10:22)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-11",
+      "title": "🗣️ Job 11",
+      "refs": [
+        "Job 11:1-20"
+      ],
+      "summaryBullets": [
+        "A esto respondió Zofar de Namat: (11:1).",
+        "«¿Quedará sin respuesta toda esta palabrería? ¿Resultará inocente este hablador? (11:2).",
+        "¿Todo ese discurso nos dejará callados? ¿Te burlarás sin que nadie te reprenda? (11:3).",
+        "Tú afirmas: “Mi postura es la correcta; soy puro a los ojos de Dios”. (11:4).",
+        "¡Cómo me gustaría que Dios interviniera y abriera sus labios contra ti (11:5).",
+        "para mostrarte los secretos de la sabiduría, pues esta tiene dos lados!Sabrías entonces que buena parte de tu pecado Dios no lo ha tomado en cuenta. (11:6).",
+        "»¿Puedes adentrarte en los misterios de Dios o alcanzar la perfección del Todopoderoso? (11:7).",
+        "Son más altos que los cielos; ¿qué puedes hacer?Son más profundos que el abismo; ¿qué puedes saber? (11:8).",
+        "Son más extensos que toda la tierra; ¡son más anchos que todo el mar! (11:9).",
+        "»Si viene y te pone en un calabozo, y luego te llama a cuentas, ¿quién lo hará desistir? (11:10).",
+        "Bien conoce Dios a la gente sin escrúpulos; cuando percibe el mal, no lo pasa por alto. (11:11).",
+        "¡El necio llegará a ser sabio cuando de un asno salvaje nazca un hombre! (11:12).",
+        "»Pero si le entregas tu corazón y hacia él extiendes las manos, (11:13).",
+        "si te apartas del pecado que has cometido y en tu morada no das cabida al mal, (11:14).",
+        "entonces podrás llevar la frente en alto y mantenerte firme y libre de temor. (11:15).",
+        "Ciertamente olvidarás tus pesares o los recordarás como el agua que pasó. (11:16).",
+        "Tu vida será más radiante que el sol de mediodía y la oscuridad será como el amanecer. (11:17).",
+        "Vivirás tranquilo, porque hay esperanza; estarás protegido y dormirás confiado. (11:18).",
+        "Descansarás sin temer a nadie y muchos querrán ganarse tu favor. (11:19).",
+        "Pero los ojos de los malvados se apagarán; no tendrán escapatoria. ¡Su esperanza es exhalar el último suspiro!». (11:20)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-12",
+      "title": "🗣️ Job 12",
+      "refs": [
+        "Job 12:1-25"
+      ],
+      "summaryBullets": [
+        "A esto respondió Job: (12:1).",
+        "«¡No hay duda de que ustedes son el pueblo! ¡Muertos ustedes, morirá la sabiduría! (12:2).",
+        "Pero yo tengo tanto cerebro como ustedes; en nada siento que me aventajen. ¿Quién no sabe todas esas cosas? (12:3).",
+        "»Yo, que llamaba a Dios y él me respondía, me he vuelto el hazmerreír de mis amigos; ¡soy un hazmerreír, justo e íntegro! (12:4).",
+        "Dice la gente que vive tranquila: “¡Al daño se añade la injuria!”, “¡Al que está por caer, hay que empujarlo!”. (12:5).",
+        "Los salteadores viven tranquilos en sus tiendas de campaña; confiados viven esos que irritan a Dios y piensan que pueden controlarlo. (12:6).",
+        "»Pero interroga a los animales y ellos te darán una lección; pregunta a las aves del cielo y ellas te lo contarán; (12:7).",
+        "habla con la tierra y ella te enseñará; con los peces del mar y te lo harán saber. (12:8).",
+        "¿Quién de todos ellos no sabe que la mano del Señor ha hecho todo esto? (12:9).",
+        "En sus manos está la vida de todo ser vivo y el aliento que anima a todo ser humano. (12:10).",
+        "¿Acaso no comprueba el oído las palabras como la lengua prueba la comida? (12:11).",
+        "Entre los ancianos se halla la sabiduría; en los muchos años, el entendimiento. (12:12).",
+        "»Con Dios están la sabiduría y el poder; suyos son el consejo y el entendimiento. (12:13).",
+        "Lo que él derriba, nadie lo levanta; a quien él apresa, nadie puede liberarlo. (12:14).",
+        "Si él retiene las lluvias, hay sequía; si las deja caer, se inunda la tierra. (12:15).",
+        "Suyos son el poder y el buen juicio; suyos son los engañados y los que engañan. (12:16).",
+        "Él hace que los consejeros anden descalzos y que los jueces pierdan la cabeza. (12:17).",
+        "Despoja de su autoridad a los reyes y ata una soga a su cintura. (12:18).",
+        "Él hace que los sacerdotes anden descalzos y derroca a los que tienen el poder. (12:19).",
+        "Acalla los labios de los consejeros y deja sin discernimiento a los ancianos. (12:20).",
+        "Cubre de desprecio a los nobles y desarma a los poderosos. (12:21).",
+        "Pone al descubierto los más oscuros abismos y saca a la luz las sombras más profundas. (12:22).",
+        "Engrandece o destruye a las naciones; las hace prosperar o las dispersa. (12:23).",
+        "Priva de sensatez a los líderes de la tierra y los hace vagar por desiertos sin senderos. (12:24).",
+        "Sin luz, los hace andar a tientas en medio de la oscuridad y los hace tambalear como borrachos. (12:25)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-13",
+      "title": "🗣️ Job 13",
+      "refs": [
+        "Job 13:1-28"
+      ],
+      "summaryBullets": [
+        "»Todo esto lo han visto mis ojos; lo han captado y entendido mis oídos. (13:1).",
+        "Yo tengo tanto conocimiento como ustedes; en nada siento que me aventajen. (13:2).",
+        "Más bien quisiera hablar con el Todopoderoso; me gustaría discutir mi caso con Dios. (13:3).",
+        "Porque ustedes me difaman con mentiras; ¡como médicos no valen nada! (13:4).",
+        "¡Si tan solo se callaran la boca! Eso, en ustedes, ya sería sabiduría. (13:5).",
+        "Ahora les toca escuchar mi defensa; presten atención a mi alegato. (13:6).",
+        "¿Se atreverán a decir falsedades en nombre de Dios? ¿Argumentarán en su favor con engaños? (13:7).",
+        "¿Le harán el favor de defenderlo? ¿Van a resultar sus abogados defensores? (13:8).",
+        "¿Qué pasaría si él los examinara? ¿Podrían engañarlo como se engaña a la gente? (13:9).",
+        "Lo más seguro es que él los reprendería si en secreto se mostraran parciales. (13:10).",
+        "¿Acaso no les infundiría miedo su esplendor? ¿Y no caería sobre ustedes su terror? (13:11).",
+        "¡Han memorizado proverbios sin sentido! ¡Se defienden con apologías endebles! (13:12).",
+        "»¡Cállense la boca, déjenme hablar, y que venga lo que venga! (13:13).",
+        "¿Por qué me pongo en peligro y me juego el pellejo? (13:14).",
+        "¡Que me mate, en él tengo mi esperanza! Pero en su propia cara defenderé mi conducta. (13:15).",
+        "En esto radica mi liberación: en que ningún impío comparecería ante él. (13:16).",
+        "Presten atención a mis palabras; presten oído a lo que digo: (13:17).",
+        "Vean que ya he preparado mi caso y sé muy bien que seré declarado inocente. (13:18).",
+        "¿Hay quien pueda presentar cargos contra mí? Si lo hay, me quedaré callado hasta morir. (13:19).",
+        "»Concédeme, oh Dios, solo dos cosas y no tendré que esconderme de ti: (13:20).",
+        "Quítame la mano de encima y deja de infundirme temor. (13:21).",
+        "Llámame a comparecer y te responderé o déjame hablar y contéstame. (13:22).",
+        "Enumera mis iniquidades y pecados; hazme ver mis transgresiones y ofensas. (13:23).",
+        "¿Por qué no me das la cara? ¿Por qué me tienes por enemigo? (13:24).",
+        "¿Acosarás a una hoja arrebatada por el viento? ¿Perseguirás a la paja seca? (13:25).",
+        "Has dictado contra mí penas amargas; me estás cobrando los pecados de mi juventud. (13:26).",
+        "Me has puesto cadenas en los pies; vigilas todos mis pasos; examinas las huellas que dejo al caminar. (13:27).",
+        "»El hombre se deteriora como algo podrido; como ropa carcomida por la polilla. (13:28)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-14",
+      "title": "🗣️ Job 14",
+      "refs": [
+        "Job 14:1-22"
+      ],
+      "summaryBullets": [
+        "»Pocos son los días y muchos los problemas, que vive el hombre nacido de mujer. (14:1).",
+        "Es como las flores que brotan y se marchitan; es como efímera sombra que se esfuma. (14:2).",
+        "¿Y en alguien así has puesto los ojos? ¿Con alguien como yo entrarás en juicio? (14:3).",
+        "¿Quién de la inmundicia puede sacar pureza? ¡No hay nadie que pueda hacerlo! (14:4).",
+        "Los días del hombre ya están determinados; tú has establecido los meses de su vida; le has puesto límites que no puede rebasar. (14:5).",
+        "Aparta de él la mirada y déjalo en paz; como al jornalero, déjalo disfrutar de su trabajo. (14:6).",
+        "»Si se derriba un árbol, queda al menos la esperanza de que retoñe y de que no se marchiten sus renuevos. (14:7).",
+        "Tal vez sus raíces envejezcan en la tierra y su tronco muera en su terreno, (14:8).",
+        "pero al sentir el agua, florecerá; echará ramas como árbol recién plantado. (14:9).",
+        "El hombre, en cambio, muere y pierde su fuerza; exhala el último suspiro y deja de existir. (14:10).",
+        "Como del mar se evapora el agua y los ríos se agotan y se secan, (14:11).",
+        "así los mortales, cuando se acuestan, no se vuelven a levantar.Mientras exista el cielo, no se levantarán los mortales ni se despertarán de su sueño. (14:12).",
+        "»¡Si al menos me ocultaras en el sepulcro y me escondieras hasta que pase tu enojo!¡Si al menos me pusieras un plazo allí y luego me recordaras! (14:13).",
+        "Pero si alguien muere, ¿acaso volverá a vivir? Cada día de mi servicio obligatorio esperaré que llegue mi relevo. (14:14).",
+        "Tú me llamarás, y yo te responderé; desearás ver la obra de tus manos. (14:15).",
+        "Desearás también contar mis pasos, pero no tomarás en cuenta mi pecado. (14:16).",
+        "En saco sellado guardarás mis transgresiones y perdonarás del todo mi pecado. (14:17).",
+        "»Pero así como un monte se erosiona y se derrumba y las piedras cambian de lugar; (14:18).",
+        "así como las aguas desgastan las rocas y los torrentes erosionan el suelo, así tú pones fin a la esperanza del hombre. (14:19).",
+        "Lo apabullas del todo y él desaparece; lo desfiguras y entonces lo despides. (14:20).",
+        "Si sus hijos reciben honores, él no lo sabe; si se les humilla, él no se da cuenta. (14:21).",
+        "Solo siente el dolor de su propio cuerpo y solo de sí mismo se conduele». (14:22)."
+      ],
+      "crossRefs": [
+        "Jeremías 20:14–18 — Maldición del día de nacimiento.",
+        "Salmo 88:3–7 — Cerca del Seol, sin alivio.",
+        "Job 9:33 — Job menciona un árbitro entre él y Dios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (She’ol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos mencionada en el lamento de Job (7:9) (14:13)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Nombrado en 3:8 en un lenguaje de maldición; descrito más extensamente en el capítulo 41."
+        },
+        {
+          "term": "Árbitro / mediador",
+          "original": "Hebrew: מוֹכִיחַ (mokhiach) — Greek (LXX): μεσίτης (mesitēs)",
+          "note": "Alguien que ponga su mano tanto sobre Dios como sobre Job (9:33)."
+        }
+      ],
+      "keyTakeaway": "Job maldice su nacimiento y discute con Elifaz, Bildad y Zofar. Los amigos vinculan el sufrimiento con el pecado y le instan a arrepentirse; Job mantiene su integridad, busca un árbitro y cuestiona por qué sufre."
+    },
+    {
+      "id": "job-15",
+      "title": "🗣️ Job 15",
+      "refs": [
+        "Job 15:1-35"
+      ],
+      "summaryBullets": [
+        "Replicó entonces Elifaz de Temán: (15:1).",
+        "«El sabio no responde con vana sabiduría ni da respuestas en el aire. (15:2).",
+        "Tampoco discute con argumentos vanos ni con palabras huecas. (15:3).",
+        "Tú, en cambio, restas valor al temor a Dios y tomas a la ligera la devoción que él merece. (15:4).",
+        "Tu maldad pone en acción tu boca; hablas igual que la gente astuta. (15:5).",
+        "Tu propia boca te condena, no la mía; tus propios labios atestiguan contra ti. (15:6).",
+        "»¿Eres acaso el primer hombre que ha nacido? ¿Naciste acaso antes que los montes? (15:7).",
+        "¿Tienes parte en el consejo de Dios? ¿Acaso eres tú el único sabio? (15:8).",
+        "¿Qué sabes tú que nosotros no sepamos? ¿Qué has percibido que nosotros ignoremos? (15:9).",
+        "Las canas y la edad están de nuestra parte; tenemos más experiencia que tu padre. (15:10).",
+        "¿No te basta que Dios mismo te consuele y que se te hable con cariño? (15:11).",
+        "¿Por qué te dejas llevar por el enojo? ¿Por qué te relampaguean los ojos? (15:12).",
+        "¿Por qué desatas tu enojo contra Dios y das rienda suelta a tu lengua? (15:13).",
+        "»¿Qué es el hombre para creerse puro y el nacido de mujer para alegar inocencia? (15:14).",
+        "Si Dios no confía ni en sus santos y ni siquiera considera puros a los cielos, (15:15).",
+        "¡cuánto menos confiará en el hombre, que es vil y corrupto y tiene sed del mal! (15:16).",
+        "»Escúchame y te lo explicaré; déjame decirte lo que he visto. (15:17).",
+        "Es lo que han declarado los sabios sin ocultar nada de lo aprendido de sus antepasados. (15:18).",
+        "Solo a ellos se les dio la tierra y ningún extraño pasó entre ellos. (15:19).",
+        "El impío se ve atormentado toda la vida; el violento tiene sus años contados. (15:20).",
+        "Sus oídos perciben sonidos espantosos; cuando está en paz, los salteadores lo atacan. (15:21).",
+        "No espera escapar de las tinieblas; condenado está a morir a filo de espada. (15:22).",
+        "Vaga sin rumbo; es comida de los buitres; sabe que el día de las tinieblas le ha llegado. (15:23).",
+        "La desgracia y la angustia lo llenan de terror; lo abruman como si un rey fuera a atacarlo (15:24).",
+        "y todo por levantar el puño contra Dios y atreverse a desafiar al Todopoderoso. (15:25).",
+        "Contra Dios se lanzó desafiante, blandiendo grueso y resistente escudo. (15:26).",
+        "»Aunque su rostro esté hinchado de grasa y le sobre carne en la cintura, (15:27).",
+        "habitará en lugares desolados, en casas deshabitadas, en casas a punto de derrumbarse. (15:28).",
+        "Dejará de ser rico; no durarán sus riquezas ni se extenderán sus posesiones en la tierra. (15:29).",
+        "No podrá escapar de las tinieblas; una llama de fuego marchitará sus renuevos y el aliento de Dios lo arrebatará. (15:30).",
+        "Que no se engañe ni confíe en cosas vanas, porque nada obtendrá a cambio de ellas. (15:31).",
+        "Antes de que muera recibirá su merecido y sus ramas no reverdecerán. (15:32).",
+        "Quedará como vid que pierde sus uvas agrias, como olivo que no llega a florecer. (15:33).",
+        "La compañía de los impíos no es de provecho; ¡las moradas de los que aman el soborno serán consumidas por el fuego! (15:34).",
+        "Conciben iniquidad y dan a luz maldad; en su vientre se genera el engaño». (15:35)."
+      ],
+      "crossRefs": [
+        "Isaías 41:14 — Lenguaje de \"Redentor\" aplicado a Dios (comparación del uso de la palabra).",
+        "Rut 4:4–6 — Trasfondo del pariente redentor legal (go'el).",
+        "Job 16:19 — Job dice que su testigo está en el cielo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Redentor",
+          "original": "Hebrew: גֹּאֵל (go’el) — Greek (LXX): λυτρωτής (lytrōtēs)",
+          "note": "Pariente restaurador o protector legal; usado por Job en 19:25."
+        },
+        {
+          "term": "Por el pelo de mis dientes",
+          "original": "Hebrew: עוֹר שִׁנָּי (‘or shinnai)",
+          "note": "Expresión que significa escapar por muy poco (19:20)."
+        },
+        {
+          "term": "La lámpara del malvado se apaga",
+          "original": "Hebrew: נֵר רְשָׁעִים יִדְעָךְ (ner resha‘im yid‘akh)",
+          "note": "Frase de Bildad para describir el fin de los impíos (18:5–6)."
+        }
+      ],
+      "keyTakeaway": "Las acusaciones se intensifican. Job enumera el abandono social y la ruina corporal, pero se aferra a un Redentor y a ver a Dios, mientras disputa la fórmula simple de los amigos de que sufrimiento equivale a pecado personal."
+    },
+    {
+      "id": "job-16",
+      "title": "🗣️ Job 16",
+      "refs": [
+        "Job 16:1-22"
+      ],
+      "summaryBullets": [
+        "A esto Job contestó: (16:1).",
+        "«Muchas veces he escuchado cosas semejantes; ¡el consuelo de ustedes es un desastre! (16:2).",
+        "¿No habrá fin a sus discursos inútiles? ¿Qué les irrita tanto que siguen contendiendo? (16:3).",
+        "También yo podría hablar del mismo modo si estuvieran ustedes en mi lugar.También yo pronunciaría bellos discursos en su contra, meneando con sarcasmo la cabeza. (16:4).",
+        "Les infundiría nuevos bríos con la boca; les daría consuelo con los labios. (16:5).",
+        "»Si hablo, mi dolor no disminuye; si me callo, tampoco se me calma. (16:6).",
+        "Ciertamente Dios me ha destruido; ha exterminado a toda mi familia. (16:7).",
+        "Me tiene acorralado y da testimonio contra mí; mi deplorable estado se levanta y me condena. (16:8).",
+        "En su enojo Dios me desgarra y me persigue; rechina los dientes contra mí; mi adversario me clava la mirada. (16:9).",
+        "La gente se mofa de mí abiertamente; burlones, me dan de bofetadas, y todos juntos se ponen en mi contra. (16:10).",
+        "Dios me ha entregado en manos de gente injusta; me ha arrojado en las garras de los malvados. (16:11).",
+        "Yo vivía tranquilo, pero él me destrozó; me agarró por el cuello y me hizo pedazos; me hizo blanco de sus ataques. (16:12).",
+        "Sus arqueros me rodearon. Sin piedad me perforaron los riñones y mi hígado se derramó por el suelo. (16:13).",
+        "Abriéndome herida tras herida, se lanzó contra mí como un guerrero. (16:14).",
+        "»He cosido la ropa de luto en mi piel; en el polvo tengo enterrada la frente. (16:15).",
+        "De tanto llorar tengo enrojecida la cara y profundas ojeras tengo en torno a los ojos; (16:16).",
+        "pero mis manos están libres de violencia y es pura mi oración. (16:17).",
+        "»¡Ah, tierra, no cubras mi sangre! ¡No dejes que se acalle mi clamor! (16:18).",
+        "Ahora mismo tengo en los cielos un testigo; en lo alto se encuentra mi abogado. (16:19).",
+        "Mi intercesor es mi amigo y ante Dios me deshago en lágrimas (16:20).",
+        "para que interceda ante Dios en favor mío, como quien apela por su amigo. (16:21).",
+        "»Pasarán solo unos cuantos años antes de que yo emprenda el viaje sin regreso. (16:22)."
+      ],
+      "crossRefs": [
+        "Isaías 41:14 — Lenguaje de \"Redentor\" aplicado a Dios (comparación del uso de la palabra).",
+        "Rut 4:4–6 — Trasfondo del pariente redentor legal (go'el).",
+        "Job 16:19 — Job dice que su testigo está en el cielo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Redentor",
+          "original": "Hebrew: גֹּאֵל (go’el) — Greek (LXX): λυτρωτής (lytrōtēs)",
+          "note": "Pariente restaurador o protector legal; usado por Job en 19:25."
+        },
+        {
+          "term": "Por el pelo de mis dientes",
+          "original": "Hebrew: עוֹר שִׁנָּי (‘or shinnai)",
+          "note": "Expresión que significa escapar por muy poco (19:20)."
+        },
+        {
+          "term": "La lámpara del malvado se apaga",
+          "original": "Hebrew: נֵר רְשָׁעִים יִדְעָךְ (ner resha‘im yid‘akh)",
+          "note": "Frase de Bildad para describir el fin de los impíos (18:5–6)."
+        }
+      ],
+      "keyTakeaway": "Las acusaciones se intensifican. Job enumera el abandono social y la ruina corporal, pero se aferra a un Redentor y a ver a Dios, mientras disputa la fórmula simple de los amigos de que sufrimiento equivale a pecado personal."
+    },
+    {
+      "id": "job-17",
+      "title": "🗣️ Job 17",
+      "refs": [
+        "Job 17:1-16"
+      ],
+      "summaryBullets": [
+        "Mi espíritu está quebrantado, mis días se acortan, la tumba me espera. (17:1).",
+        "Estoy rodeado de burlones; mis ojos no pueden cerrarse por su hostilidad. (17:2).",
+        "»Dame, oh Dios, la garantía que demandas. ¿Quién más podría responder por mí? (17:3).",
+        "Tú has cerrado sus mentes al entendimiento, por eso no dejarás que triunfen. (17:4).",
+        "Quien por una recompensa denuncia a sus amigos verá a sus hijos desfallecer. (17:5).",
+        "»Dios me ha puesto en boca de todos; no falta quien me escupa en la cara. (17:6).",
+        "Los ojos se me apagan a causa del dolor; todo mi esqueleto no es más que una sombra. (17:7).",
+        "Los íntegros ven esto y se quedan asombrados; los inocentes se indignan contra el impío. (17:8).",
+        "La gente justa se aferra a su camino; los de manos limpias aumentan su fuerza. (17:9).",
+        "»Vengan, pues, todos ustedes; ¡arremetan contra mí! No hallaré entre ustedes a un solo sabio. (17:10).",
+        "Mis días van pasando, mis planes se frustran junto con los anhelos de mi corazón. (17:11).",
+        "Esta gente convierte la noche en día; todo está oscuro, pero insisten: “La luz se acerca”. (17:12).",
+        "Si el único hogar que espero está en los dominios de la muerte, he de tenderme a dormir en las tinieblas; (17:13).",
+        "he de llamar “padre mío” a la corrupción y “madre” y “hermana” a los gusanos. (17:14).",
+        "¿Dónde queda entonces mi esperanza? ¿Quién ve alguna esperanza para mí? (17:15).",
+        "¿Bajará conmigo hasta los dominios de la muerte? ¿Descenderemos juntos hasta el polvo?». (17:16)."
+      ],
+      "crossRefs": [
+        "Isaías 41:14 — Lenguaje de \"Redentor\" aplicado a Dios (comparación del uso de la palabra).",
+        "Rut 4:4–6 — Trasfondo del pariente redentor legal (go'el).",
+        "Job 16:19 — Job dice que su testigo está en el cielo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Redentor",
+          "original": "Hebrew: גֹּאֵל (go’el) — Greek (LXX): λυτρωτής (lytrōtēs)",
+          "note": "Pariente restaurador o protector legal; usado por Job en 19:25."
+        },
+        {
+          "term": "Por el pelo de mis dientes",
+          "original": "Hebrew: עוֹר שִׁנָּי (‘or shinnai)",
+          "note": "Expresión que significa escapar por muy poco (19:20)."
+        },
+        {
+          "term": "La lámpara del malvado se apaga",
+          "original": "Hebrew: נֵר רְשָׁעִים יִדְעָךְ (ner resha‘im yid‘akh)",
+          "note": "Frase de Bildad para describir el fin de los impíos (18:5–6)."
+        }
+      ],
+      "keyTakeaway": "Las acusaciones se intensifican. Job enumera el abandono social y la ruina corporal, pero se aferra a un Redentor y a ver a Dios, mientras disputa la fórmula simple de los amigos de que sufrimiento equivale a pecado personal."
+    },
+    {
+      "id": "job-18",
+      "title": "🗣️ Job 18",
+      "refs": [
+        "Job 18:1-21"
+      ],
+      "summaryBullets": [
+        "Respondió entonces Bildad de Súah: (18:1).",
+        "«¿Cuándo pondrás fin a tanta palabrería? Entra en razón y entonces hablaremos. (18:2).",
+        "¿Por qué nos tratas como si fuéramos bestias? ¿Por qué nos consideras unos tontos? (18:3).",
+        "Tú, que tu enojo te desgarra, ¿crees que por ti quedará desierta la tierra y que las piedras se moverán de su lugar? (18:4).",
+        "»La lámpara del malvado se apagará; la llama de su fuego dejará de arder. (18:5).",
+        "Languidece la luz de su morada; la lámpara que lo alumbra se apagará. (18:6).",
+        "El vigor de sus pasos se irá debilitando; sus propios planes lo derribarán. (18:7).",
+        "Sus pies lo harán caer en una trampa y entre sus redes quedará atrapado. (18:8).",
+        "Quedará sujeto por los tobillos; quedará atrapado por completo. (18:9).",
+        "Un lazo le espera escondido en el suelo; una trampa está tendida a su paso. (18:10).",
+        "El terror lo asalta por doquier y anda tras sus pasos. (18:11).",
+        "La calamidad lo acosa sin descanso; el desastre no lo deja un solo instante. (18:12).",
+        "Carcome el cuerpo; la muerte devora sus miembros. (18:13).",
+        "Lejos de la seguridad de su morada, marcha ahora hacia el rey de los terrores. (18:14).",
+        "El fuego se ha apoderado de su vivienda; hay azufre ardiente esparcido en su morada. (18:15).",
+        "En el tronco, sus raíces se han secado; en la copa, sus ramas se marchitan. (18:16).",
+        "Borrada de la tierra ha sido su memoria; de su fama nada queda en el país. (18:17).",
+        "De la luz es lanzado a las tinieblas; ha sido expulsado de este mundo. (18:18).",
+        "No tiene entre su pueblo hijos ni descendientes; nadie le sobrevive donde él habitó. (18:19).",
+        "Del oriente al occidente los pueblos se asombran de su ruina y se estremecen de terror. (18:20).",
+        "Así es la morada del malvado, el lugar del que no conoce a Dios». (18:21)."
+      ],
+      "crossRefs": [
+        "Isaías 41:14 — Lenguaje de \"Redentor\" aplicado a Dios (comparación del uso de la palabra).",
+        "Rut 4:4–6 — Trasfondo del pariente redentor legal (go'el).",
+        "Job 16:19 — Job dice que su testigo está en el cielo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Redentor",
+          "original": "Hebrew: גֹּאֵל (go’el) — Greek (LXX): λυτρωτής (lytrōtēs)",
+          "note": "Pariente restaurador o protector legal; usado por Job en 19:25."
+        },
+        {
+          "term": "Por el pelo de mis dientes",
+          "original": "Hebrew: עוֹר שִׁנָּי (‘or shinnai)",
+          "note": "Expresión que significa escapar por muy poco (19:20)."
+        },
+        {
+          "term": "La lámpara del malvado se apaga",
+          "original": "Hebrew: נֵר רְשָׁעִים יִדְעָךְ (ner resha‘im yid‘akh)",
+          "note": "Frase de Bildad para describir el fin de los impíos (18:5–6)."
+        }
+      ],
+      "keyTakeaway": "Las acusaciones se intensifican. Job enumera el abandono social y la ruina corporal, pero se aferra a un Redentor y a ver a Dios, mientras disputa la fórmula simple de los amigos de que sufrimiento equivale a pecado personal."
+    },
+    {
+      "id": "job-19",
+      "title": "🗣️ Job 19",
+      "refs": [
+        "Job 19:1-29"
+      ],
+      "summaryBullets": [
+        "A esto Job respondió: (19:1).",
+        "«¿Hasta cuándo van a estar atormentándome y aplastándome con sus palabras? (19:2).",
+        "Diez veces me hacen reproches; descaradamente me atacan. (19:3).",
+        "Aun si fuera verdad que me he desviado, mis errores son asunto mío. (19:4).",
+        "Si en verdad ustedes quieren exaltarse sobre mí, y valerse de mi humillación para atacarme, (19:5).",
+        "sepan que es Dios quien me ha hecho daño, quien me ha atrapado en su red. (19:6).",
+        "»Aunque grito: “¡Violencia!”, no hallo respuesta; aunque pido ayuda, no se me hace justicia. (19:7).",
+        "Dios me ha cerrado el camino y no puedo pasar; ha cubierto de oscuridad mis senderos. (19:8).",
+        "Me ha despojado de toda honra; de la cabeza me ha quitado la corona. (19:9).",
+        "Por todos lados me destroza, como a un árbol; me aniquila y arranca de raíz mi esperanza. (19:10).",
+        "Su enojo se ha encendido contra mí; me cuenta entre sus enemigos. (19:11).",
+        "Sus tropas avanzan en tropel; levantan una rampa para asediarme; acampan alrededor de mi tienda de campaña. (19:12).",
+        "»Hizo que mis hermanos me abandonaran; hasta mis amigos se han alejado de mí. (19:13).",
+        "Mis parientes y conocidos se distanciaron; me echaron al olvido. (19:14).",
+        "Mis huéspedes y mis criadas me ven como a un extraño, me miran como a un desconocido. (19:15).",
+        "Llamo a mi criado y no me responde, aunque yo mismo se lo ruego. (19:16).",
+        "A mi esposa le da asco mi aliento; a mis hermanos les resulto repugnante. (19:17).",
+        "Hasta los niños me desprecian; en cuanto me ven, se burlan de mí. (19:18).",
+        "A todos mis amigos les resulto abominable; mis seres queridos se han vuelto contra mí. (19:19).",
+        "La piel y la carne se me pegan a los huesos; ¡a duras penas he salvado el pellejo! (19:20).",
+        "»¡Compadézcanse de mí, amigos míos; compadézcanse, que la mano de Dios me ha golpeado! (19:21).",
+        "¿Por qué me acosan como Dios? ¿No les basta con desollarme vivo? (19:22).",
+        "»¡Ah, si fueran grabadas mis palabras, si quedaran escritas en un libro! (19:23).",
+        "¡Si para siempre quedaran grabadas con cincel de hierro y plomo, esculpidas en la roca! (19:24).",
+        "Yo sé que mi Redentor vive y que al final se levantará sobre el polvo. (19:25).",
+        "Y, cuando mi piel haya sido destruida, todavía veré a Dios con mis propios ojos. (19:26).",
+        "Yo mismo lo veré con mis propios ojos; yo lo veré, no otro. ¡Este anhelo me consume las entrañas! (19:27).",
+        "»Ustedes dicen: “Vamos a acosarlo, porque en él está la raíz del mal”. (19:28).",
+        "Pero cuídense de la espada, pues con ella viene la ira justiciera, para que sepan que hay un juicio». (19:29)."
+      ],
+      "crossRefs": [
+        "Isaías 41:14 — Lenguaje de \"Redentor\" aplicado a Dios (comparación del uso de la palabra).",
+        "Rut 4:4–6 — Trasfondo del pariente redentor legal (go'el).",
+        "Job 16:19 — Job dice que su testigo está en el cielo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Redentor",
+          "original": "Hebrew: גֹּאֵל (go’el) — Greek (LXX): λυτρωτής (lytrōtēs)",
+          "note": "Pariente restaurador o protector legal; usado por Job en 19:25."
+        },
+        {
+          "term": "Por el pelo de mis dientes",
+          "original": "Hebrew: עוֹר שִׁנָּי (‘or shinnai)",
+          "note": "Expresión que significa escapar por muy poco (19:20)."
+        },
+        {
+          "term": "La lámpara del malvado se apaga",
+          "original": "Hebrew: נֵר רְשָׁעִים יִדְעָךְ (ner resha‘im yid‘akh)",
+          "note": "Frase de Bildad para describir el fin de los impíos (18:5–6)."
+        }
+      ],
+      "keyTakeaway": "Las acusaciones se intensifican. Job enumera el abandono social y la ruina corporal, pero se aferra a un Redentor y a ver a Dios, mientras disputa la fórmula simple de los amigos de que sufrimiento equivale a pecado personal."
+    },
+    {
+      "id": "job-20",
+      "title": "🗣️ Job 20",
+      "refs": [
+        "Job 20:1-29"
+      ],
+      "summaryBullets": [
+        "A esto respondió Zofar de Namat: (20:1).",
+        "«Mis turbados pensamientos me hacen replicar, pues me hallo muy desconcertado. (20:2).",
+        "He escuchado una reprensión que me deshonra y mi inteligencia me obliga a responder. (20:3).",
+        "»Bien sabes tú que desde antaño, desde que Dios puso al ser humano en la tierra, (20:4).",
+        "muy breve ha sido la algarabía del malvado y la alegría del impío ha sido pasajera. (20:5).",
+        "Aunque su orgullo llegue hasta los cielos y alcance a tocar con la cabeza las nubes, (20:6).",
+        "él perecerá para siempre, como su excremento, y sus allegados dirán: “¿Qué se hizo?”. (20:7).",
+        "Como un sueño, como una visión nocturna, se desvanecerá y no volverá a ser hallado. (20:8).",
+        "Los ojos que lo vieron no volverán a verlo; su lugar no volverá a contemplarlo. (20:9).",
+        "Sus hijos tendrán que indemnizar a los pobres; ellos mismos restituirán las riquezas de su padre. (20:10).",
+        "El vigor juvenil que hoy sostiene sus huesos un día reposará en el polvo con él. (20:11).",
+        "»Aunque en su boca el mal sabe dulce y lo disimula bajo la lengua, (20:12).",
+        "y aunque no lo suelta para nada, sino que tenazmente lo retiene, (20:13).",
+        "ese pan se le agriará en el estómago; dentro de él se volverá veneno de áspid. (20:14).",
+        "Vomitará las riquezas que se engulló; Dios hará que las arroje de su vientre. (20:15).",
+        "Chupará veneno de serpientes; la lengua de un áspid lo matará. (20:16).",
+        "No disfrutará de los arroyos, de los ríos de crema y miel; (20:17).",
+        "no se engullirá las ganancias de sus negocios; no disfrutará de sus riquezas, (20:18).",
+        "porque oprimió al pobre y lo dejó sin nada, y se adueñó de casas que nunca construyó. (20:19).",
+        "»Su ambición nunca quedó satisfecha; no se salvará con su tesoro. (20:20).",
+        "Nada se libró de su voracidad; por eso no perdurará su bienestar. (20:21).",
+        "En medio de la abundancia, lo abrumará la angustia; le sobrevendrá toda la fuerza de la desgracia. (20:22).",
+        "Cuando el malvado se haya llenado el vientre, Dios dará rienda suelta a su enojo contra él y descargará sobre él sus golpes. (20:23).",
+        "Aunque huya de las armas de hierro, una flecha de bronce lo atravesará. (20:24).",
+        "Cuando del hígado y de la espalda intente sacarse la punta de la flecha,se verá sobrecogido de espanto, (20:25).",
+        "y la oscuridad total acechará sus tesoros.Un fuego no atizado acabará con él y con todo lo que haya quedado de su casa. (20:26).",
+        "Los cielos harán pública su culpa; la tierra se levantará a denunciarlo. (20:27).",
+        "En el día de la ira de Dios, un aluvión arrasará con su casa. (20:28).",
+        "Tal es el fin que Dios reserva al malvado; tal es la herencia que le asignó». (20:29)."
+      ],
+      "crossRefs": [
+        "Isaías 41:14 — Lenguaje de \"Redentor\" aplicado a Dios (comparación del uso de la palabra).",
+        "Rut 4:4–6 — Trasfondo del pariente redentor legal (go'el).",
+        "Job 16:19 — Job dice que su testigo está en el cielo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Redentor",
+          "original": "Hebrew: גֹּאֵל (go’el) — Greek (LXX): λυτρωτής (lytrōtēs)",
+          "note": "Pariente restaurador o protector legal; usado por Job en 19:25."
+        },
+        {
+          "term": "Por el pelo de mis dientes",
+          "original": "Hebrew: עוֹר שִׁנָּי (‘or shinnai)",
+          "note": "Expresión que significa escapar por muy poco (19:20)."
+        },
+        {
+          "term": "La lámpara del malvado se apaga",
+          "original": "Hebrew: נֵר רְשָׁעִים יִדְעָךְ (ner resha‘im yid‘akh)",
+          "note": "Frase de Bildad para describir el fin de los impíos (18:5–6)."
+        }
+      ],
+      "keyTakeaway": "Las acusaciones se intensifican. Job enumera el abandono social y la ruina corporal, pero se aferra a un Redentor y a ver a Dios, mientras disputa la fórmula simple de los amigos de que sufrimiento equivale a pecado personal."
+    },
+    {
+      "id": "job-21",
+      "title": "🗣️ Job 21",
+      "refs": [
+        "Job 21:1-34"
+      ],
+      "summaryBullets": [
+        "A esto, Job respondió: (21:1).",
+        "«Escuchen atentamente mis palabras; concédanme este consuelo. (21:2).",
+        "Tolérenme un poco mientras hablo y búrlense cuando haya terminado. (21:3).",
+        "»¿Acaso dirijo mi queja a los mortales? ¿Por qué creen que pierdo la paciencia? (21:4).",
+        "Mírenme, y queden asombrados; tápense la boca con la mano. (21:5).",
+        "Si pienso en esto, me lleno de espanto; un escalofrío me corre por el cuerpo. (21:6).",
+        "¿Por qué siguen con vida los malvados, cada vez más viejos y ricos? (21:7).",
+        "Ven establecerse en torno suyo a sus hijos y a sus descendientes. (21:8).",
+        "Tienen paz en su hogar y están libres de temores; la vara de Dios no los castiga. (21:9).",
+        "Sus toros son verdaderos sementales; sus vacas paren y no pierden las crías. (21:10).",
+        "Dejan correr a sus niños como si fueran ovejas; sus pequeñuelos danzan alegres. (21:11).",
+        "Cantan al son del pandero y del arpa; se divierten al son de la flauta. (21:12).",
+        "Pasan la vida con gran bienestar y son sepultados en paz. (21:13).",
+        "A Dios increpan: “¡Déjanos tranquilos! ¡No nos interesa para nada conocer tus caminos! (21:14).",
+        "¿Quién es el Todopoderoso para que le sirvamos? ¿Qué ganamos con dirigirle nuestras oraciones?”. (21:15).",
+        "Pero su bienestar no depende de ellos. ¡Jamás me dejaré llevar por sus malos consejos! (21:16).",
+        "»¿Cuándo se ha apagado la lámpara de los malvados? ¿Cuándo les ha sobrevenido el desastre? ¿Cuándo Dios, en su enojo, los ha hecho sufrir (21:17).",
+        "como paja que arrebata el viento, como tamo que se lleva la tormenta? (21:18).",
+        "Me dirán que Dios reserva el castigo para los hijos del pecador.¡Mejor que castigue al que peca, para que escarmiente! (21:19).",
+        "¡Que sufra el pecador su propia destrucción! ¡Que beba de la ira del Todopoderoso! (21:20).",
+        "¿Qué le puede importar la familia que deja, si le quedan pocos meses de vida? (21:21).",
+        "»¿Quién puede enseñarle algo a Dios, si es él quien juzga a las grandes eminencias? (21:22).",
+        "Hay quienes mueren en la flor de la vida, rebosantes de salud y de paz; (21:23).",
+        "sus caderas, llenas de grasa; sus huesos, recios hasta la médula. (21:24).",
+        "Otros mueren con el ánimo amargado, sin haber disfrutado de lo bueno. (21:25).",
+        "En el polvo yacen unos y otros, todos ellos cubiertos de gusanos. (21:26).",
+        "»Sé muy bien lo que están pensando y los planes que tienen de hacerme daño. (21:27).",
+        "También sé que se preguntan: “¿Dónde está la mansión del noble? ¿Dónde están las moradas de los inicuos?”. (21:28).",
+        "¿No han interrogado a los viajeros? ¿No han prestado atención a sus argumentos? (21:29).",
+        "En el día del desastre, el malvado se salva; en el día de la ira, es puesto a salvo. (21:30).",
+        "¿Y quién le echa en cara su conducta? ¿Quién le da su merecido por sus hechos? (21:31).",
+        "Cuando lo llevan al sepulcro, sobre su tumba se pone vigilancia; (21:32).",
+        "mucha gente le abre paso, y muchos más cierran el cortejo. ¡Descansa en paz bajo la tierra del valle! (21:33).",
+        "»¿Cómo esperan consolarme con discursos sin sentido? ¡Sus respuestas no son más que falacias!». (21:34)."
+      ],
+      "crossRefs": [
+        "Isaías 41:14 — Lenguaje de \"Redentor\" aplicado a Dios (comparación del uso de la palabra).",
+        "Rut 4:4–6 — Trasfondo del pariente redentor legal (go'el).",
+        "Job 16:19 — Job dice que su testigo está en el cielo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Redentor",
+          "original": "Hebrew: גֹּאֵל (go’el) — Greek (LXX): λυτρωτής (lytrōtēs)",
+          "note": "Pariente restaurador o protector legal; usado por Job en 19:25."
+        },
+        {
+          "term": "Por el pelo de mis dientes",
+          "original": "Hebrew: עוֹר שִׁנָּי (‘or shinnai)",
+          "note": "Expresión que significa escapar por muy poco (19:20)."
+        },
+        {
+          "term": "La lámpara del malvado se apaga",
+          "original": "Hebrew: נֵר רְשָׁעִים יִדְעָךְ (ner resha‘im yid‘akh)",
+          "note": "Frase de Bildad para describir el fin de los impíos (18:5–6)."
+        }
+      ],
+      "keyTakeaway": "Las acusaciones se intensifican. Job enumera el abandono social y la ruina corporal, pero se aferra a un Redentor y a ver a Dios, mientras disputa la fórmula simple de los amigos de que sufrimiento equivale a pecado personal."
+    },
+    {
+      "id": "job-22",
+      "title": "🗣️ Job 22",
+      "refs": [
+        "Job 22:1-30"
+      ],
+      "summaryBullets": [
+        "A esto respondió Elifaz de Temán: (22:1).",
+        "«¿Puede alguien, por muy sabio que sea, serle a Dios de algún provecho? (22:2).",
+        "¿Sacará alguna ventaja el Todopoderoso con que seas un hombre justo?¿Tendrá algún beneficio si tu conducta es intachable? (22:3).",
+        "»¿Acaso te reprende por temerlo y por eso te lleva a juicio? (22:4).",
+        "¿No es acaso demasiada tu maldad? ¿Y no son incontables tus pecados? (22:5).",
+        "Sin motivo demandabas fianza de tus hermanos, y en prenda los despojabas de sus mantos; desnudos los dejabas. (22:6).",
+        "Al sediento no le dabas agua; al hambriento le negabas la comida. (22:7).",
+        "Como hombre de poder te adueñaste de la tierra; como hombre prominente, en ella te asentaste. (22:8).",
+        "No dabas nada a las viudas y rompías los brazos a los huérfanos. (22:9).",
+        "Por eso ahora te ves rodeado de trampas y te asaltan temores repentinos; (22:10).",
+        "la oscuridad te impide ver y te ahogan las aguas torrenciales. (22:11).",
+        "»¿No está Dios en las alturas de los cielos? ¡Mira las estrellas, cuán altas y remotas! (22:12).",
+        "Sin embargo, cuestionas: “¿Y Dios qué sabe? ¿Puede acaso juzgar a través de las tinieblas? (22:13).",
+        "Él recorre los cielos de un extremo al otro y densas nubes lo envuelven, ¡así que no puede vernos!”. (22:14).",
+        "¿Vas a seguir por los trillados caminos que han recorrido los malvados? (22:15).",
+        "Perdieron la vida antes de tiempo; un diluvio arrasó sus cimientos. (22:16).",
+        "Increparon a Dios: “¡Déjanos tranquilos! ¿Qué puedes tú hacernos, Todopoderoso?”. (22:17).",
+        "¡Y fue Dios quien llenó sus casas de bienes! ¡Yo no me dejaré llevar por sus malos consejos! (22:18).",
+        "Los justos se alegran al ver la ruina de los malvados; los inocentes dicen en son de burla: (22:19).",
+        "“Nuestros enemigos han sido destruidos; el fuego ha consumido sus riquezas”. (22:20).",
+        "»Sométete a Dios; ponte en paz con él y volverá a ti la prosperidad. (22:21).",
+        "Acepta la enseñanza que mana de su boca; grábate sus palabras en tu corazón. (22:22).",
+        "Si te vuelves al Todopoderoso y alejas de tu casa la maldad, serás del todo restaurado; (22:23).",
+        "si tu oro refinado lo arrojas por el suelo, entre rocas y cañadas, (22:24).",
+        "tendrás por oro al Todopoderoso, y será él para ti como plata refinada. (22:25).",
+        "En el Todopoderoso te deleitarás; ante Dios levantarás tu rostro. (22:26).",
+        "Cuando ores, él te escuchará y tú le cumplirás tus promesas. (22:27).",
+        "Tendrás éxito en tus decisiones y en tus caminos brillará la luz. (22:28).",
+        "Cuando sean humillados y les digas “Levántense”, Dios salvará a los humildes. (22:29).",
+        "Él librará aun al que no es inocente; si tienes manos limpias, quedarás a salvo». (22:30)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-23",
+      "title": "🗣️ Job 23",
+      "refs": [
+        "Job 23:1-17"
+      ],
+      "summaryBullets": [
+        "A esto respondió Job: (23:1).",
+        "«Mi queja sigue siendo amarga; gimo bajo el peso de su mano. (23:2).",
+        "¡Ah, si supiera yo dónde encontrar a Dios! ¡Si pudiera llegar adonde él habita! (23:3).",
+        "Ante él expondría mi caso; llenaría mi boca de argumentos. (23:4).",
+        "Podría conocer su respuesta, y trataría de entenderla. (23:5).",
+        "¿Disputaría él conmigo con todo su poder? ¡Claro que no! ¡Ni me acusaría! (23:6).",
+        "Ante él cualquier hombre intachable podría presentar su caso, y yo sería absuelto para siempre delante de mi Juez. (23:7).",
+        "»Si me dirijo hacia el este, no está allí; si me encamino al oeste, no lo encuentro. (23:8).",
+        "Si está ocupado en el norte, no lo veo; si se vuelve al sur, no alcanzo a percibirlo. (23:9).",
+        "Él, en cambio, conoce mis caminos; si me pusiera a prueba, saldría yo puro como el oro. (23:10).",
+        "En sus sendas he afirmado mis pies; he seguido su camino sin desviarme. (23:11).",
+        "No me he apartado de los mandamientos de sus labios; valoro más las palabras de su boca que mi pan de cada día. (23:12).",
+        "»Pero él es soberano; ¿quién puede hacerlo desistir? Lo que él quiere hacer, lo hace. (23:13).",
+        "Hará conmigo lo que ha determinado; todo lo que tiene pensado lo realizará. (23:14).",
+        "Por eso me espanto en su presencia; si pienso en todo esto, me lleno de temor. (23:15).",
+        "Dios ha hecho que mi corazón desmaye; me tiene aterrado el Todopoderoso. (23:16).",
+        "Con todo, no logran acallarme las tinieblas ni la densa oscuridad que cubre mi rostro. (23:17)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-24",
+      "title": "🗣️ Job 24",
+      "refs": [
+        "Job 24:1-25"
+      ],
+      "summaryBullets": [
+        "»¿Por qué el Todopoderoso no establece tiempos de juicio? ¿Por qué quienes lo conocen buscan en vano esos días? (24:1).",
+        "Hay quienes no respetan los linderos y pastorean ganado robado; (24:2).",
+        "a los huérfanos los despojan de sus asnos; a las viudas les quitan en prenda sus bueyes; (24:3).",
+        "apartan del camino a los necesitados; a los pobres del país los obligan a esconderse. (24:4).",
+        "Como asnos salvajes del desierto, madrugan los pobres a buscar su comida y la llanura del desierto da de comer a sus hijos. (24:5).",
+        "En campos ajenos recogen forraje y en las viñas de los malvados recogen uvas. (24:6).",
+        "Por no tener ropa, se pasan la noche desnudos; ¡no tienen con qué protegerse del frío! (24:7).",
+        "Las lluvias de las montañas los empapan; no teniendo más abrigo, se arriman a las peñas. (24:8).",
+        "Al huérfano se le aparta de los pechos de su madre; al pobre se le retiene a cambio de una deuda. (24:9).",
+        "Por no tener ropa, andan desnudos; aunque cargados de trigo, van muriéndose de hambre. (24:10).",
+        "Exprimen aceitunas en sus terrazas; pisan uvas en las cubas, pero desfallecen de sed. (24:11).",
+        "De la ciudad se eleva el clamor de los moribundos; la garganta de los heridos reclama ayuda, ¡pero Dios ni se da por enterado! (24:12).",
+        "»Hay quienes se oponen a la luz; no viven conforme a ella ni reconocen sus caminos. (24:13).",
+        "Apenas amanece, se levanta el asesino y mata al pobre y al necesitado; apenas cae la noche, actúa como ladrón. (24:14).",
+        "Los ojos del adúltero están pendientes de la noche; se dice a sí mismo: “No habrá quien me vea”, y mantiene oculto el rostro. (24:15).",
+        "Por la noche, penetra el ladrón la casa ajena, pero se encierra durante el día; ¡de la luz no quiere saber nada! (24:16).",
+        "Para todos ellos, la mañana es oscuridad; prefieren el horror de las tinieblas. (24:17).",
+        "»Los malvados son como espuma sobre el agua; su parcela está bajo maldición; ya no van a trabajar a los viñedos. (24:18).",
+        "Y así como el calor y la sequía arrebatan la nieve derretida, así la muerte arrebata a los pecadores. (24:19).",
+        "Su propia madre se olvida de ellos; los gusanos se los comen.Nadie vuelve a recordarlos; son desgajados como árboles. (24:20).",
+        "Maltratan a la estéril, a la mujer sin hijos; jamás buscan el bien de la viuda. (24:21).",
+        "Pero Dios, con su poder, arrastra a los poderosos; cuando él se levanta, nadie tiene segura la vida. (24:22).",
+        "Dios los deja sentirse seguros, pero no les quita la vista de encima. (24:23).",
+        "Por algún tiempo son exaltados, pero luego dejan de existir;son humillados y recogidos como hierba, son cortados como espigas. (24:24).",
+        "»¿Quién puede probar que es falso lo que digo y reducir mis palabras a la nada?». (24:25)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-25",
+      "title": "🗣️ Job 25",
+      "refs": [
+        "Job 25:1-6"
+      ],
+      "summaryBullets": [
+        "A esto respondió Bildad de Súah: (25:1).",
+        "«Dios es poderoso e infunde temor; él pone orden en las alturas de los cielos. (25:2).",
+        "¿Pueden contarse acaso sus ejércitos? ¿Sobre quién no alumbra su luz? (25:3).",
+        "¿Cómo puede una persona declararse justo ante Dios? ¿Cómo puede alegar pureza quien ha nacido de mujer? (25:4).",
+        "Si a sus ojos no tiene brillo la luna, ni son puras las estrellas, (25:5).",
+        "mucho menos el hombre, simple gusano; ¡mucho menos el hombre, miserable lombriz!». (25:6)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-26",
+      "title": "🗣️ Job 26",
+      "refs": [
+        "Job 26:1-14"
+      ],
+      "summaryBullets": [
+        "Pero Job intervino: (26:1).",
+        "«¡Tú sí que ayudas al débil! ¡Tú sí que salvas al que no tiene fuerza! (26:2).",
+        "¡Qué consejos sabes dar al ignorante! ¡Qué gran discernimiento has demostrado! (26:3).",
+        "¿Quién te ayudó a pronunciar tal discurso? ¿Qué espíritu ha hablado por tu boca? (26:4).",
+        "»Un estremecimiento invade a los muertos, a los que habitan debajo de las aguas. (26:5).",
+        "Ante Dios, los dominios de la muerte quedan al descubierto; nada hay que oculte el abismo destructor. (26:6).",
+        "Dios extiende el cielo del norte sobre el vacío; sobre la nada tiene suspendida la tierra. (26:7).",
+        "En sus nubes envuelve las aguas, pero las nubes no se revientan con su peso. (26:8).",
+        "Cubre la faz de la luna llena al extender sobre ella sus nubes. (26:9).",
+        "Dibuja el horizonte sobre la superficie de las aguas para dividir la luz de las tinieblas. (26:10).",
+        "Aterrados por su reprensión, tiemblan los pilares de los cielos. (26:11).",
+        "Con su poder Dios agita el mar; con su sabiduría descuartizó a Rahab. (26:12).",
+        "Un soplo suyo despeja los cielos; con su mano ensartó a la serpiente escurridiza. (26:13).",
+        "¡Y esto es solo una muestra de sus obras, un murmullo que logramos escuchar! ¿Quién podrá comprender su trueno poderoso?». (26:14)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-27",
+      "title": "🗣️ Job 27",
+      "refs": [
+        "Job 27:1-23"
+      ],
+      "summaryBullets": [
+        "Job, retomando la palabra, dijo: (27:1).",
+        "«Vive Dios, el Todopoderoso, quien se niega a hacerme justicia, quien me ha amargado el ánimo, (27:2).",
+        "que mientras haya vida en mí y aliento divino en mi nariz, (27:3).",
+        "mis labios no pronunciarán maldad alguna ni mi lengua proferirá mentiras. (27:4).",
+        "Jamás podré admitir que ustedes tengan la razón; mientras viva, insistiré en mi integridad. (27:5).",
+        "Insistiré en mi inocencia; no cederé. Mientras viva, no me remorderá la conciencia. (27:6).",
+        "»¡Que terminen mis enemigos como los malvados y mis adversarios como los injustos! (27:7).",
+        "¿Qué esperanza tienen los impíos cuando son eliminados, cuando Dios les quita la vida? (27:8).",
+        "¿Escucha Dios su clamor cuando les sobreviene la angustia? (27:9).",
+        "¿Acaso se deleitan en el Todopoderoso, o claman a Dios en todo tiempo? (27:10).",
+        "»¡Yo les voy a mostrar algo del poder de Dios! ¡No les voy a ocultar los planes del Todopoderoso! (27:11).",
+        "Si ustedes mismos han visto todo esto, ¿a qué viene tanta palabrería? (27:12).",
+        "»Este es el destino que Dios tiene reservado para los malvados; esta es la herencia que los tiranos recibirán del Todopoderoso: (27:13).",
+        "No importa cuántos hijos tengan, la espada los aguarda; jamás sus descendientes comerán hasta saciarse. (27:14).",
+        "La plaga sepultará a quienes les sobrevivan; sus viudas no llorarán por ellos. (27:15).",
+        "Y aunque amontonen plata como polvo, y apilen vestidos como arcilla, (27:16).",
+        "será el justo quien se ponga esos vestidos, y el inocente quien reparta esa plata. (27:17).",
+        "Las casas que construyen parecen larvas de polilla, parecen cobertizo de vigilancia. (27:18).",
+        "Se acuestan siendo ricos, pero por última vez; cuando abren los ojos, sus riquezas se han esfumado. (27:19).",
+        "Les sobreviene un diluvio de terrores; la tempestad los arrebata por la noche. (27:20).",
+        "El viento del este se los lleva y desaparecen; los arranca de su lugar. (27:21).",
+        "Se lanza contra ellos sin clemencia, mientras ellos tratan de huir de su poder. (27:22).",
+        "Agita las manos y aplaude burlón; entre silbidos, los arranca de su lugar». (27:23)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-28",
+      "title": "📜 Job 28",
+      "refs": [
+        "Job 28:1-28"
+      ],
+      "summaryBullets": [
+        "Hay minas de donde se saca la plata y lugares donde se refina el oro. (28:1).",
+        "El hierro se extrae de la tierra; el cobre, de la piedra fundida. (28:2).",
+        "El minero ha puesto fin a las tinieblas: hurga en los rincones más apartados; busca piedras en la más densa oscuridad. (28:3).",
+        "Lejos de la gente cava túneles en lugares donde nadie ha estado;lejos de la gente se balancea en el aire. (28:4).",
+        "La tierra, de la cual se extrae su sustento, es transformada en su interior como con fuego. (28:5).",
+        "De sus rocas se obtienen zafiros, y en el polvo se encuentra oro. (28:6).",
+        "No hay ave de rapiña que conozca ese escondrijo ni ojo de halcón que lo haya descubierto. (28:7).",
+        "Ninguna bestia soberbia ha puesto allí su pata; tampoco merodean allí los leones. (28:8).",
+        "La mano del minero ataca la dura piedra y pone al descubierto la raíz de las montañas. (28:9).",
+        "Abre túneles en la roca y sus ojos contemplan todos sus tesoros. (28:10).",
+        "Anda en busca de las fuentes de los ríos, y trae a la luz cosas ocultas. (28:11).",
+        "Pero ¿dónde se halla la sabiduría? ¿Dónde habita la inteligencia? (28:12).",
+        "Nadie sabe lo que ella vale, pues no se encuentra en la tierra de los vivientes. (28:13).",
+        "«Aquí no está», dice el abismo; «Aquí tampoco», responde el mar. (28:14).",
+        "No se compra con el oro más fino ni su precio se calcula en plata. (28:15).",
+        "No se compra con oro refinado, ni con precioso ónice ni zafiros. (28:16).",
+        "Ni el oro ni el cristal se comparan con ella; tampoco se cambia por áureas joyas. (28:17).",
+        "¡Para qué mencionar el coral y el jaspe! ¡La sabiduría vale más que los rubíes! (28:18).",
+        "El rubí de Cus no se le iguala, ni es posible comprarla con oro puro. (28:19).",
+        "¿De dónde, pues, viene la sabiduría? ¿Dónde habita la inteligencia? (28:20).",
+        "Se esconde de los ojos de toda criatura; ¡hasta de las aves del cielo se oculta! (28:21).",
+        "El abismo destructor y la muerte afirman: «Algo acerca de su fama llegó a nuestros oídos». (28:22).",
+        "Solo Dios sabe llegar hasta ella; solo él sabe dónde habita. (28:23).",
+        "Porque él puede ver los confines de la tierra; ve todo lo que hay bajo los cielos. (28:24).",
+        "Cuando él establecía la fuerza del viento y determinaba el volumen de las aguas, (28:25).",
+        "cuando dictaba el estatuto para las lluvias y la ruta de las tormentas, (28:26).",
+        "miró entonces a la sabiduría y ponderó su valor; la puso a prueba y la confirmó. (28:27).",
+        "Y dijo a los mortales: «Temer al Señor: ¡eso es sabiduría! Apartarse del mal: ¡eso es inteligencia!». (28:28)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-29",
+      "title": "🗣️ Job 29",
+      "refs": [
+        "Job 29:1-25"
+      ],
+      "summaryBullets": [
+        "Job, retomando la palabra, dijo: (29:1).",
+        "«¡Cómo añoro los meses que se han ido, los días en que Dios me cuidaba! (29:2).",
+        "Su lámpara alumbraba sobre mi cabeza y por su luz podía andar entre tinieblas. (29:3).",
+        "¡Qué días aquellos, cuando yo estaba en mi apogeo y Dios bendecía mi casa con su íntima amistad! (29:4).",
+        "Cuando aún estaba conmigo el Todopoderoso y mis hijos me rodeaban; (29:5).",
+        "cuando ante mí corrían ríos de crema y de las rocas fluían arroyos de aceite. (29:6).",
+        "»Cuando ocupaba mi puesto en el concejo de la ciudad y en la plaza pública tomaba asiento, (29:7).",
+        "los jóvenes al verme se hacían a un lado y los ancianos se ponían de pie; (29:8).",
+        "los jefes se abstenían de hablar y se tapaban la boca con las manos; (29:9).",
+        "los nobles bajaban la voz y la lengua se pegaba a su paladar. (29:10).",
+        "Los que me oían, hablaban bien de mí; los que me veían, me alababan. (29:11).",
+        "Si el pobre recurría a mí, yo lo rescataba y también al huérfano si no tenía quien lo ayudara. (29:12).",
+        "Me bendecían los desahuciados; ¡por mí gritaba de alegría el corazón de las viudas! (29:13).",
+        "De justicia y rectitud me revestía; ellas eran mi manto y mi turbante. (29:14).",
+        "Para los ciegos fui sus ojos; para los tullidos, sus pies. (29:15).",
+        "Fui padre de los necesitados y defensor de los extranjeros. (29:16).",
+        "A los malvados les rompí las mandíbulas; ¡de sus dientes les arrebaté la presa! (29:17).",
+        "»Llegué a pensar: “Moriré en mi propia casa; mis días serán incontables como la arena del mar. (29:18).",
+        "Mis raíces llegarán hasta las aguas; el rocío de la noche se quedará en mis ramas. (29:19).",
+        "Mi gloria conservará en mí su lozanía y el arco en mi mano se mantendrá firme”. (29:20).",
+        "»La gente me escuchaba expectante y en silencio aguardaba mi consejo. (29:21).",
+        "Hablaba yo y nadie replicaba; mis palabras hallaban cabida en sus oídos. (29:22).",
+        "Anhelaban mis palabras como quien espera las lluvias de primavera. (29:23).",
+        "Si yo les sonreía, no podían creerlo; mi rostro sonriente los reanimaba. (29:24).",
+        "Yo les indicaba el camino a seguir; me sentaba a la cabecera;habitaba entre ellos como un rey entre su tropa, como quien consuela a los que están de luto. (29:25)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-30",
+      "title": "🗣️ Job 30",
+      "refs": [
+        "Job 30:1-31"
+      ],
+      "summaryBullets": [
+        "»¡Y ahora resulta que de mí se burlan jovencitos a cuyos padres no habría puesto ni con mis perros ovejeros! (30:1).",
+        "¿De qué me habría servido la fuerza de sus manos, si no tenían ya fuerza para nada? (30:2).",
+        "Retorciéndose de hambre y de necesidad, rondaban en la noche por tierras desoladas, por páramos deshabitados. (30:3).",
+        "En los matorrales arrancaban hierbas amargas y comían raíces de retama. (30:4).",
+        "Habían sido excluidos de la comunidad, acusados a gritos como ladrones. (30:5).",
+        "Se vieron obligados a vivir en el lecho de los arroyos secos, entre las grietas y en las cuevas. (30:6).",
+        "Bramaban entre los matorrales, se amontonaban entre la maleza. (30:7).",
+        "Gente vil, generación infame, fueron expulsados de la tierra. (30:8).",
+        "»¡Y ahora resulta que soy tema de sus parodias! ¡Me he vuelto su hazmerreír! (30:9).",
+        "Les doy asco y se alejan de mí; no vacilan en escupirme en la cara. (30:10).",
+        "Ahora que Dios me ha humillado por completo, no se refrenan en mi presencia. (30:11).",
+        "A mi derecha, me ataca el populacho; tienden trampas a mis pies y levantan rampas de asalto para atacarme. (30:12).",
+        "Han irrumpido en mi camino; sin ayuda de nadie han logrado destruirme. (30:13).",
+        "Avanzan como a través de una ancha brecha; irrumpen entre las ruinas. (30:14).",
+        "El terror me ha sobrecogido; mi dignidad se esfuma como el viento, ¡mi salvación se desvanece como las nubes! (30:15).",
+        "»Y ahora la vida se me escapa; me oprimen los días de sufrimiento. (30:16).",
+        "La noche me taladra los huesos; el dolor que me corroe no tiene fin. (30:17).",
+        "Como con un manto, Dios me envuelve con su poder; me ahoga como el cuello de mi ropa. (30:18).",
+        "Me arroja con fuerza en el fango y me reduce a polvo y ceniza. (30:19).",
+        "»A ti clamo, Dios, pero no me respondes; me hago presente, pero tú apenas me miras. (30:20).",
+        "Implacable, te vuelves contra mí; con el poder de tu brazo me atacas. (30:21).",
+        "Me arrebatas, me lanzas al viento; me arrojas al ojo de la tormenta. (30:22).",
+        "Sé muy bien que me llevas a la muerte, a la morada final de todos los vivientes. (30:23).",
+        "»Pero nadie golpea al que está derrotado, al que en su angustia reclama auxilio. (30:24).",
+        "¿Acaso no he llorado por los que sufren? ¿No me he condolido por los pobres? (30:25).",
+        "Cuando esperaba lo bueno, vino lo malo; cuando buscaba la luz, vinieron las sombras. (30:26).",
+        "No cesa la agitación que me invade; me enfrento a días de sufrimiento. (30:27).",
+        "Ando apesadumbrado, pero no a causa del sol; me presento en la asamblea y pido ayuda. (30:28).",
+        "He llegado a ser hermano de los chacales, compañero de los avestruces. (30:29).",
+        "La piel se me ha requemado y se me cae; el cuerpo me arde por la fiebre. (30:30).",
+        "El tono de mi arpa es de lamento; el son de mi flauta es de tristeza. (30:31)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-31",
+      "title": "⚖️ Job 31",
+      "refs": [
+        "Job 31:1-40"
+      ],
+      "summaryBullets": [
+        "»Yo había convenido con mis ojos no mirar con lujuria a ninguna mujer joven. (31:1).",
+        "¿Qué se recibe del Dios de lo alto? ¿Qué se hereda del Todopoderoso en las alturas? (31:2).",
+        "¿No es acaso la ruina para los malvados y el desastre para los malhechores? (31:3).",
+        "¿Acaso no se fija Dios en mis caminos y toma en cuenta todos mis pasos? (31:4).",
+        "»Si he andado en malos pasos o mis pies han corrido tras la mentira, (31:5).",
+        "¡que Dios me pese en una balanza justa y así comprobará mi integridad! (31:6).",
+        "Si mis pies se han apartado del camino o mi corazón se ha dejado llevar por mis ojos o mis manos se han llenado de ignominia, (31:7).",
+        "¡que se coman otros lo que yo he sembrado y que sean destruidas mis cosechas! (31:8).",
+        "»Si por alguna mujer me he dejado seducir, si a las puertas de mi prójimo he estado al acecho, (31:9).",
+        "¡que mi esposa muela el grano de otro hombre y que otros hombres se acuesten con ella! (31:10).",
+        "Eso habría sido una infamia, ¡un pecado que tendría que ser juzgado! (31:11).",
+        "¡Habría sido un incendio destructor! ¡Habría arrancado mi cosecha de raíz! (31:12).",
+        "»Si me negué a hacerles justicia a mis siervos y a mis siervas cuando tuvieron queja contra mí, (31:13).",
+        "¿qué haré cuando Dios me llame a cuentas? ¿qué responderé cuando me haga comparecer? (31:14).",
+        "El mismo Dios que me formó en el vientre fue el que los formó también a ellos; nos dio forma en el seno materno. (31:15).",
+        "»Jamás he desoído los ruegos de los pobres ni he dejado que las viudas desfallezcan; (31:16).",
+        "jamás el pan me lo he comido solo, sin querer compartirlo con los huérfanos. (31:17).",
+        "Desde mi juventud he sido un padre para ellos; a las viudas las he guiado desde mi nacimiento. (31:18).",
+        "Si he dejado que alguien muera por falta de vestido o que un necesitado no tenga qué ponerse; (31:19).",
+        "si este no me ha bendecido de corazón por haberlo abrigado con lana de mis rebaños; (31:20).",
+        "o si he levantado contra el huérfano mi mano por contar con influencias en los tribunales, (31:21).",
+        "¡que los brazos se me caigan de los hombros!, ¡que se me zafen de sus articulaciones! (31:22).",
+        "Siempre he sido temeroso del castigo de Dios; ¡ante su majestad no podría resistir! (31:23).",
+        "»¿Acaso he puesto en el oro mi confianza o he dicho al oro puro: “En ti confío”? (31:24).",
+        "¿Me he ufanado de mi gran fortuna, de las riquezas amasadas con mis manos? (31:25).",
+        "¿He admirado acaso el esplendor del sol o el avance esplendoroso de la luna, (31:26).",
+        "como para rendirles culto en lo secreto y enviarles un beso con la mano? (31:27).",
+        "¡También este pecado tendría que ser juzgado, pues habría yo traicionado al Dios de las alturas! (31:28).",
+        "»¿Acaso me he alegrado de la ruina de mi enemigo? ¿Acaso he celebrado su desgracia? (31:29).",
+        "¡Jamás he permitido que mi boca peque pidiendo que le vaya mal! (31:30).",
+        "¿Quién bajo mi techo no sació su hambre con los manjares de mi mesa? (31:31).",
+        "Jamás mis puertas se cerraron al viajero; jamás un extraño pasó la noche en la calle. (31:32).",
+        "Jamás he ocultado mi pecado como el común de la gente, ni he mantenido mi culpa en secreto (31:33).",
+        "por miedo al qué dirán. Jamás me he quedado en silencio y encerrado por miedo al desprecio de mis parientes. (31:34).",
+        "»¡Cómo quisiera que Dios me escuchara! Estampo aquí mi firma; que me responda el Todopoderoso. Que mi acusador ponga su denuncia por escrito. (31:35).",
+        "Llevaré esa acusación sobre mis hombros; me la pondré como diadema. (31:36).",
+        "Le daré cuenta de cada uno de mis pasos, como quien se presenta ante su gobernante. (31:37).",
+        "»Si mis tierras claman contra mí y todos sus surcos se inundan en llanto; (31:38).",
+        "si he tomado la cosecha de alguien sin pagarle o quebrantado el ánimo de sus dueños, (31:39).",
+        "¡que nazcan en mi tierra zarzas en vez de trigo y maleza en vez de cebada!». (31:40)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 24:10–15 — Leyes sobre prendas, salarios y justicia para los pobres.",
+        "Proverbios 8:22–31 — La Sabiduría junto a la creación (tema sapiencial).",
+        "Salmo 72:12–14 — Librar al necesitado (contraste con las afirmaciones de Job en el cap. 29)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prenda",
+          "original": "Hebrew: עֲבֹט (‘avot) — Greek (LXX): ἐνέχυρον",
+          "note": "Garantía tomada por un préstamo; Elifaz alega abuso (22:6)."
+        },
+        {
+          "term": "Juramento",
+          "original": "Hebrew: שְׁבוּעָה (shevu‘ah) — Greek (LXX): ὅρκος",
+          "note": "Job estructura el capítulo 31 como juramentos condicionales."
+        },
+        {
+          "term": "Pacto con mis ojos",
+          "original": "Hebrew: בְּרִית כָּרַתִּי לְעֵינָי (berit karati le‘enai)",
+          "note": "Restricción vinculante contra la lujuria (31:1)."
+        }
+      ],
+      "keyTakeaway": "La ronda final cambia: Elifaz acusa con detalles; Bildad es breve; Zofar está ausente. Job responde con un poema de sabiduría, recuerda su justicia anterior, lamenta su vergüenza presente y termina con un juramento formal negando una larga lista de pecados."
+    },
+    {
+      "id": "job-32",
+      "title": "🗯️ Job 32",
+      "refs": [
+        "Job 32:1-22"
+      ],
+      "summaryBullets": [
+        "Al ver los tres amigos de Job que este se consideraba un hombre justo, dejaron de responderle. (32:1).",
+        "Pero Eliú, hijo de Baraquel de Buz, de la familia de Ram, se enojó mucho con Job, porque se justificaba más a sí mismo que a Dios. (32:2).",
+        "También se enojó con los tres amigos porque no habían logrado refutar a Job y sin embargo lo habían condenado. (32:3).",
+        "Ahora bien, Eliú había estado esperando antes de dirigirse a Job, porque ellos eran mayores de edad; (32:4).",
+        "pero, al ver que los tres amigos no tenían ya nada que decir, se encendió su enojo. (32:5).",
+        "Y habló Eliú, hijo de Baraquel de Buz: (32:6).",
+        "Y me dije: “Que hable la voz de la experiencia; que demuestren los ancianos su sabiduría”. (32:7).",
+        "Pero lo que da entendimiento al hombre es el espíritu que en él habita; ¡es el aliento del Todopoderoso! (32:8).",
+        "No son los ancianos los únicos sabios ni es la edad la que hace entender lo que es justo. (32:9).",
+        "»Les ruego, por tanto, que me escuchen, pues yo también tengo que expresarles mi opinión. (32:10).",
+        "Mientras hablaban, me propuse esperar y escuchar sus razonamientos;mientras buscaban las palabras, (32:11).",
+        "les presté toda mi atención.Pero no han podido probar que Job esté equivocado; ninguno ha respondido a sus argumentos. (32:12).",
+        "No vayan a decirme: “Hemos hallado la sabiduría; que lo refute Dios y no los hombres”. (32:13).",
+        "Ni Job se ha dirigido a mí ni yo he de responderle como ustedes. (32:14).",
+        "»Job, tus amigos están desconcertados; no pueden responder, les faltan las palabras. (32:15).",
+        "¿Y voy a seguir esperando ante su silencio, ante su falta de respuesta? (32:16).",
+        "Yo también tengo algo que decir y voy a exponer mi saber. (32:17).",
+        "Palabras no me faltan; el espíritu que hay en mí me obliga a hablar. (32:18).",
+        "Estoy como vino embotellado en odre nuevo a punto de estallar. (32:19).",
+        "Tengo que hablar y desahogarme; tengo que abrir la boca y dar respuesta. (32:20).",
+        "No favoreceré a nadie ni halagaré a ninguno; (32:21).",
+        "Yo no sé adular a nadie; si lo hiciera, mi Creador muy pronto me castigaría. (32:22)."
+      ],
+      "crossRefs": [
+        "1 Reyes 19:11–12 — Viento, terremoto y fuego en motivos teofánicos.",
+        "Job 4:12–16 — La experiencia nocturna anterior de Elifaz (contraste de revelaciones alegadas).",
+        "Salmo 29:3–9 — La voz del SEÑOR sobre las aguas y el trueno."
+      ],
+      "translationNotes": [
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah) — Greek (LXX): λαῖλαψ",
+          "note": "Viento de tormenta que es el tema que precede la respuesta del SEÑOR (37:9) (38:1)."
+        },
+        {
+          "term": "Mensajero / intérprete",
+          "original": "Hebrew: מַלְאָךְ / מֵלִיץ (mal’akh / melits)",
+          "note": "Agente que declara lo que es recto y rescata del abismo (33:23–24)."
+        }
+      ],
+      "keyTakeaway": "Después de que los amigos callan, Elihú pronuncia cuatro discursos afirmando que Dios habla por muchos medios, insistiendo en la justicia de Dios y señalando su poder en la tormenta y la creación."
+    },
+    {
+      "id": "job-33",
+      "title": "🗯️ Job 33",
+      "refs": [
+        "Job 33:1-33"
+      ],
+      "summaryBullets": [
+        "»Te ruego, Job, que escuches mis palabras, que prestes atención a todo lo que digo. (33:1).",
+        "Estoy a punto de abrir la boca y voy a hablar hasta por los codos. (33:2).",
+        "Mis palabras salen de un corazón sincero; mis labios dan su opinión sincera. (33:3).",
+        "El Espíritu de Dios me ha creado; me infunde vida el aliento del Todopoderoso. (33:4).",
+        "Contéstame si puedes; prepárate y hazme frente. (33:5).",
+        "Ante Dios tú y yo somos iguales; también yo fui tomado de la tierra. (33:6).",
+        "No debieras alarmarte ni temerme, ni debiera pesar mi mano sobre ti. (33:7).",
+        "»Pero me parece haber oído que decías (al menos, eso fue lo que escuché): (33:8).",
+        "“Soy inocente. No tengo pecado. Estoy limpio y libre de culpa. (33:9).",
+        "Sin embargo, Dios me ha encontrado faltas; me considera su enemigo. (33:10).",
+        "Me ha sujetado los pies con cadenas y vigila todos mis pasos”. (33:11).",
+        "»Pero déjame decirte que estás equivocado, pues Dios es más grande que los mortales. (33:12).",
+        "¿Por qué le echas en cara que no responde por ninguno de sus actos? (33:13).",
+        "Dios nos habla una y otra vez, aunque no lo percibamos. (33:14).",
+        "Algunas veces en sueños, otras veces en visiones nocturnas,cuando caemos en un sopor profundo o cuando dormitamos en el lecho, (33:15).",
+        "él nos habla al oído y nos aterra con sus advertencias, (33:16).",
+        "para apartarnos de hacer lo malo y alejarnos de la soberbia; (33:17).",
+        "para librarnos de caer en la tumba y de cruzar el umbral de la muerte. (33:18).",
+        "»A veces nos castiga con el lecho del dolor, con frecuentes dolencias en los huesos. (33:19).",
+        "Nuestro ser encuentra repugnante la comida; el mejor manjar nos parece aborrecible. (33:20).",
+        "Nuestra carne va perdiéndose en la nada, hasta se nos pueden contar los huesos. (33:21).",
+        "Nuestra vida va acercándose a la tumba, se acerca a los heraldos de la muerte. (33:22).",
+        "Mas si un ángel, uno entre mil, aboga por el hombre y sale en su favor, y da constancia de su rectitud; (33:23).",
+        "si le tiene compasión y ruega a Dios: “Sálvalo de caer en la tumba, que ya tengo su rescate”, (33:24).",
+        "entonces el hombre rejuvenece; ¡vuelve a ser como cuando era niño! (33:25).",
+        "Orará a Dios y recibirá su favor; verá su rostro y gritará de alegría y Dios lo hará volver a su estado de inocencia. (33:26).",
+        "El hombre reconocerá públicamente: “He pecado, he pervertido la justicia, pero no recibí mi merecido. (33:27).",
+        "Dios me libró de caer en la tumba; ¡estoy vivo y disfruto de la luz!”. (33:28).",
+        "»Todo esto Dios lo hace una, dos y hasta tres veces, (33:29).",
+        "para salvarnos de la tumba, para que la luz de la vida nos alumbre. (33:30).",
+        "»Préstame atención, Job, escúchame; guarda silencio, que quiero hablar. (33:31).",
+        "Si tienes algo que decir, respóndeme; habla, que quisiera darte la razón. (33:32).",
+        "De lo contrario, escúchame en silencio y yo te enseñaré sabiduría». (33:33)."
+      ],
+      "crossRefs": [
+        "1 Reyes 19:11–12 — Viento, terremoto y fuego en motivos teofánicos.",
+        "Job 4:12–16 — La experiencia nocturna anterior de Elifaz (contraste de revelaciones alegadas).",
+        "Salmo 29:3–9 — La voz del SEÑOR sobre las aguas y el trueno."
+      ],
+      "translationNotes": [
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah) — Greek (LXX): λαῖλαψ",
+          "note": "Viento de tormenta que es el tema que precede la respuesta del SEÑOR (37:9) (38:1)."
+        },
+        {
+          "term": "Mensajero / intérprete",
+          "original": "Hebrew: מַלְאָךְ / מֵלִיץ (mal’akh / melits)",
+          "note": "Agente que declara lo que es recto y rescata del abismo (33:23–24)."
+        }
+      ],
+      "keyTakeaway": "Después de que los amigos callan, Elihú pronuncia cuatro discursos afirmando que Dios habla por muchos medios, insistiendo en la justicia de Dios y señalando su poder en la tormenta y la creación."
+    },
+    {
+      "id": "job-34",
+      "title": "🗯️ Job 34",
+      "refs": [
+        "Job 34:1-37"
+      ],
+      "summaryBullets": [
+        "También dijo Eliú: (34:1).",
+        "«Ustedes los sabios, escuchen mis palabras; ustedes los instruidos, préstenme atención. (34:2).",
+        "El oído saborea las palabras, como el paladar prueba la comida. (34:3).",
+        "Procuremos discernir juntos lo que es justo y aprender lo que es bueno. (34:4).",
+        "»Job alega: “Soy inocente, pero Dios se niega a hacerme justicia. (34:5).",
+        "Soy considerado mentiroso, a pesar de que soy justo;sus flechas me hieren de muerte, a pesar de que no he pecado”. (34:6).",
+        "¿Dónde hay alguien como Job, que tiene el sarcasmo a flor de labios? (34:7).",
+        "Le encanta hacer amistad con los malhechores y andar en compañía de los malvados. (34:8).",
+        "¡Y nos alega que ningún provecho saca el hombre tratando de agradar a Dios! (34:9).",
+        "»Escúchenme, hombres entendidos: ¡Es inconcebible que Dios haga lo malo, que el Todopoderoso cometa injusticias! (34:10).",
+        "Dios paga al hombre según sus obras; lo trata como se merece. (34:11).",
+        "¡Ni pensar que Dios actúe con maldad! ¡El Todopoderoso no pervierte la justicia! (34:12).",
+        "¿Quién le dio poder sobre la tierra? ¿Quién lo puso a cargo de todo el mundo? (34:13).",
+        "Si pensara en retirarnos su espíritu, en quitarnos su aliento de vida, (34:14).",
+        "todo el género humano perecería, ¡la humanidad entera volvería a ser polvo! (34:15).",
+        "»Escucha esto, si eres entendido; presta atención a lo que digo. (34:16).",
+        "¿Puede acaso gobernar quien detesta la justicia? ¿Condenarás entonces al Dios justo y poderoso? (34:17).",
+        "¿Al que dice a los reyes: “no valen nada” y a los nobles, “malvados”? (34:18).",
+        "Dios no se muestra parcial con los príncipes ni favorece a los ricos más que a los pobres. ¡Unos y otros son obra de sus manos! (34:19).",
+        "Mueren de pronto, en medio de la noche; la gente se estremece y muere;los poderosos son derrocados sin intervención humana. (34:20).",
+        "»Los ojos de Dios ven los caminos del hombre; él vigila cada uno de sus pasos. (34:21).",
+        "No hay lugares oscuros ni sombras profundas que puedan esconder a los malhechores. (34:22).",
+        "Dios no tiene que examinarlos para someterlos a juicio. (34:23).",
+        "No tiene que indagar para derrocar a los poderosos y sustituirlos por otros. (34:24).",
+        "Dios toma nota de todo lo que hacen; por la noche los derroca y quedan aplastados; (34:25).",
+        "los castiga por su maldad para escarmiento de todos, (34:26).",
+        "pues dejaron de seguirlo y no tomaron en cuenta sus caminos. (34:27).",
+        "Hicieron llegar a su presencia el clamor de los pobres y necesitados, y Dios lo escuchó. (34:28).",
+        "¿Pero quién puede condenarlo si él decide guardar silencio?¿Quién puede verlo si oculta su rostro? Él está por encima de pueblos y personas, (34:29).",
+        "para que no reinen los impíos ni tiendan trampas a su pueblo. (34:30).",
+        "»Supongamos que le dijeras: “Soy culpable; no volveré a ofenderte. (34:31).",
+        "Enséñame lo que no alcanzo a percibir; si he cometido algo malo, no volveré a hacerlo”. (34:32).",
+        "¿Tendría Dios que recompensarte como tú quieres que lo haga, aunque lo hayas rechazado?No seré yo quien lo decida, sino tú, así que expresa lo que piensas. (34:33).",
+        "»Que me digan los sabios y ustedes los entendidos que me escuchan: (34:34).",
+        "“Job no sabe lo que dice; en sus palabras no hay inteligencia”. (34:35).",
+        "¡Que sea Job examinado al máximo, pues como un malvado ha respondido! (34:36).",
+        "A su pecado ha añadido rebeldía; en nuestra propia cara se ha burlado de nosotros y se ha excedido en sus palabras contra Dios». (34:37)."
+      ],
+      "crossRefs": [
+        "1 Reyes 19:11–12 — Viento, terremoto y fuego en motivos teofánicos.",
+        "Job 4:12–16 — La experiencia nocturna anterior de Elifaz (contraste de revelaciones alegadas).",
+        "Salmo 29:3–9 — La voz del SEÑOR sobre las aguas y el trueno."
+      ],
+      "translationNotes": [
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah) — Greek (LXX): λαῖλαψ",
+          "note": "Viento de tormenta que es el tema que precede la respuesta del SEÑOR (37:9) (38:1)."
+        },
+        {
+          "term": "Mensajero / intérprete",
+          "original": "Hebrew: מַלְאָךְ / מֵלִיץ (mal’akh / melits)",
+          "note": "Agente que declara lo que es recto y rescata del abismo (33:23–24)."
+        }
+      ],
+      "keyTakeaway": "Después de que los amigos callan, Elihú pronuncia cuatro discursos afirmando que Dios habla por muchos medios, insistiendo en la justicia de Dios y señalando su poder en la tormenta y la creación."
+    },
+    {
+      "id": "job-35",
+      "title": "🗯️ Job 35",
+      "refs": [
+        "Job 35:1-16"
+      ],
+      "summaryBullets": [
+        "Además, Eliú dijo: (35:1).",
+        "«Job, ¿crees tener la razón cuando afirmas: “Mi justicia es mayor que la de Dios”? (35:2).",
+        "Igual cuando te atreves a preguntarle: “¿En qué me beneficio si no peco?”. (35:3).",
+        "»Pues bien, voy a responderles a ti y a tus amigos. (35:4).",
+        "Mira hacia el cielo y fíjate bien; contempla las nubes en lo alto. (35:5).",
+        "Si pecas, ¿en qué afectas a Dios? Si multiplicas tus faltas, ¿en qué lo dañas? (35:6).",
+        "Si actúas con justicia, ¿qué puedes darle? ¿Qué puede recibir de parte tuya? (35:7).",
+        "Hagas el mal o hagas el bien, los únicos afectados por tu justicia serán tus semejantes. (35:8).",
+        "»Todo el mundo clama bajo el peso de la opresión, y pide ser librado del brazo de los poderosos. (35:9).",
+        "Pero nadie dice: “¿Dónde está Dios, mi Hacedor, que me inspira cánticos por las noches, (35:10).",
+        "que nos enseña más que a las bestias del campo, que nos hace más sabios que las aves del cielo?”. (35:11).",
+        "Si Dios no responde al clamor de la gente, es por la arrogancia de los malvados. (35:12).",
+        "Dios no escucha sus vanas peticiones; el Todopoderoso no les presta atención. (35:13).",
+        "Aun cuando digas que no puedes verlo, tu caso está delante de él y debes aguardarlo. (35:14).",
+        "Tú dices que Dios no se enoja ni castiga y que no se da cuenta de tanta iniquidad; (35:15).",
+        "pero tú, Job, abres la boca y dices tonterías; hablas mucho y no sabes lo que dices». (35:16)."
+      ],
+      "crossRefs": [
+        "1 Reyes 19:11–12 — Viento, terremoto y fuego en motivos teofánicos.",
+        "Job 4:12–16 — La experiencia nocturna anterior de Elifaz (contraste de revelaciones alegadas).",
+        "Salmo 29:3–9 — La voz del SEÑOR sobre las aguas y el trueno."
+      ],
+      "translationNotes": [
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah) — Greek (LXX): λαῖλαψ",
+          "note": "Viento de tormenta que es el tema que precede la respuesta del SEÑOR (37:9) (38:1)."
+        },
+        {
+          "term": "Mensajero / intérprete",
+          "original": "Hebrew: מַלְאָךְ / מֵלִיץ (mal’akh / melits)",
+          "note": "Agente que declara lo que es recto y rescata del abismo (33:23–24)."
+        }
+      ],
+      "keyTakeaway": "Después de que los amigos callan, Elihú pronuncia cuatro discursos afirmando que Dios habla por muchos medios, insistiendo en la justicia de Dios y señalando su poder en la tormenta y la creación."
+    },
+    {
+      "id": "job-36",
+      "title": "🗯️ Job 36",
+      "refs": [
+        "Job 36:1-33"
+      ],
+      "summaryBullets": [
+        "Eliú continuó diciendo: (36:1).",
+        "«Ten un poco más de paciencia conmigo y te mostraré que aún quiero decir más en favor de Dios. (36:2).",
+        "Mi conocimiento proviene de muy lejos; voy a demostrar que mi Hacedor está en lo justo. (36:3).",
+        "Te aseguro que no hay falsedad en mis palabras; ¡tienes ante ti a la sabiduría en persona! (36:4).",
+        "»Dios es poderoso, pero no rechaza a nadie; Dios es poderoso y firme en su propósito. (36:5).",
+        "Al malvado no lo mantiene con vida; al afligido le hace justicia. (36:6).",
+        "Cuida siempre de los justos; los hace reinar en compañía de reyes y los exalta para siempre. (36:7).",
+        "Pero si son encadenados, si la aflicción los domina, (36:8).",
+        "Dios denuncia sus acciones y la arrogancia de su pecado. (36:9).",
+        "Les hace prestar oído a la corrección y pide que se aparten del mal. (36:10).",
+        "Si ellos obedecen y le sirven, pasan el resto de su vida en prosperidad; pasan felices los años que les quedan. (36:11).",
+        "Pero si no hacen caso, sin darse cuenta, cruzarán el umbral de la muerte. (36:12).",
+        "»Los de corazón impío abrigan resentimiento; no piden ayuda aun cuando Dios los ata. (36:13).",
+        "Mueren en la flor de la vida, entre los que se prostituyen en los santuarios. (36:14).",
+        "A los que sufren, Dios los libra mediante el sufrimiento; se vale de la aflicción para instruirlos. (36:15).",
+        "»Dios te atrae para sacarte de las fauces de la angustia, te lleva a un lugar amplio y espacioso, y llena tu mesa con la mejor comida. (36:16).",
+        "Pero tú te has ganado el juicio que merecen los impíos; el juicio y la justicia te tienen atrapado. (36:17).",
+        "Cuídate de no dejarte seducir por las riquezas; no te dejes desviar por el soborno. (36:18).",
+        "Tus grandes riquezas no podrán sostenerte, ni tampoco todos tus esfuerzos. (36:19).",
+        "No ansíes que caiga la noche cuando la gente es arrancada de su sitio. (36:20).",
+        "Cuídate de no inclinarte a la maldad, pues, por haberla preferido, ahora sufres. (36:21).",
+        "»Dios es exaltado por su poder. ¿Qué maestro hay que se le compare? (36:22).",
+        "¿Quién puede pedirle cuentas de sus actos? ¿Quién puede decirle que ha actuado mal? (36:23).",
+        "No te olvides de exaltar sus obras, que con cánticos han sido alabadas. (36:24).",
+        "Todo el género humano puede contemplarlas, aunque solo desde lejos. (36:25).",
+        "¡Tan grande es Dios que no lo conocemos! ¡Incontable es el número de sus años! (36:26).",
+        "»Él atrae las gotas de agua que fluyen como lluvia hacia los manantiales; (36:27).",
+        "las nubes derraman su lluvia, que cae a raudales sobre el género humano. (36:28).",
+        "¿Quién entiende la extensión de las nubes y el estruendo que sale de su morada? (36:29).",
+        "Vean a Dios esparcir su luz en torno suyo y bañar con ella las profundidades del océano. (36:30).",
+        "Gobierna a las naciones de esa manera y les da comida en abundancia. (36:31).",
+        "Toma entre sus manos el relámpago y le ordena dar en el blanco. (36:32).",
+        "Su trueno anuncia la inminente tormenta y hasta el ganado presagia su llegada. (36:33)."
+      ],
+      "crossRefs": [
+        "1 Reyes 19:11–12 — Viento, terremoto y fuego en motivos teofánicos.",
+        "Job 4:12–16 — La experiencia nocturna anterior de Elifaz (contraste de revelaciones alegadas).",
+        "Salmo 29:3–9 — La voz del SEÑOR sobre las aguas y el trueno."
+      ],
+      "translationNotes": [
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah) — Greek (LXX): λαῖλαψ",
+          "note": "Viento de tormenta que es el tema que precede la respuesta del SEÑOR (37:9) (38:1)."
+        },
+        {
+          "term": "Mensajero / intérprete",
+          "original": "Hebrew: מַלְאָךְ / מֵלִיץ (mal’akh / melits)",
+          "note": "Agente que declara lo que es recto y rescata del abismo (33:23–24)."
+        }
+      ],
+      "keyTakeaway": "Después de que los amigos callan, Elihú pronuncia cuatro discursos afirmando que Dios habla por muchos medios, insistiendo en la justicia de Dios y señalando su poder en la tormenta y la creación."
+    },
+    {
+      "id": "job-37",
+      "title": "🗯️ Job 37",
+      "refs": [
+        "Job 37:1-24"
+      ],
+      "summaryBullets": [
+        "»Al llegar a este punto, mi corazón se acelera como si fuera a salírseme del pecho. (37:1).",
+        "¡Escucha, escucha el estruendo de su voz, el ruido estrepitoso que sale de su boca! (37:2).",
+        "Lanza sus rayos bajo el cielo entero; su resplandor, hasta los confines de la tierra. (37:3).",
+        "Sigue luego el rugido majestuoso de su voz; ¡ella resuena y no retiene sus rayos! (37:4).",
+        "Dios hace tronar su voz y se producen maravillas:¡Dios hace grandes cosas que rebasan nuestra comprensión! (37:5).",
+        "A la nieve ordena: “¡Cae sobre la tierra!”, y a la lluvia: “¡Muestra tu poder!”. (37:6).",
+        "Detiene la actividad humana para que todos reconozcan sus obras. (37:7).",
+        "Los animales buscan abrigo y se quedan en sus cuevas. (37:8).",
+        "De las constelaciones del sur viene la tempestad; de los vientos del norte, el frío. (37:9).",
+        "Por el aliento de Dios se forma el hielo y se congelan las masas de agua. (37:10).",
+        "Con agua de lluvia carga las nubes y lanza sus relámpagos desde ellas; (37:11).",
+        "y estas van de un lado a otro, por toda la faz de la tierra, dispuestas a cumplir sus mandatos. (37:12).",
+        "Por su bondad, hace que vengan las nubes, ya sea para castigar o para bendecir. (37:13).",
+        "»Escucha esto, Job, ponte a pensar en las maravillas de Dios. (37:14).",
+        "¿Sabes cómo controla Dios las nubes y cómo hace que su relámpago deslumbre? (37:15).",
+        "¿Sabes cómo las nubes, maravillas del conocimiento perfecto, se mantienen suspendidas? (37:16).",
+        "Tú, que te sofocas de calor entre tus ropas cuando la tierra dormita bajo el viento del sur, (37:17).",
+        "¿puedes ayudarle a extender los cielos, sólidos como espejo de bronce bruñido? (37:18).",
+        "»Haznos saber qué debemos responderle, pues debido a nuestra ignorancia no tenemos argumentos. (37:19).",
+        "¿Le haré saber que estoy pidiendo la palabra? ¿Quién se atreve a hablar para ser destruido? (37:20).",
+        "No hay quien pueda mirar al sol brillante después de que el viento ha despejado los cielos. (37:21).",
+        "Un dorado resplandor viene del norte; ¡viene Dios, envuelto en terrible majestad! (37:22).",
+        "El Todopoderoso no está a nuestro alcance; excelso es su poder.Grandes son su justicia y rectitud; ¡a nadie oprime! (37:23).",
+        "Por eso le temen los mortales, porque él no toma en cuenta a los sabios de corazón». (37:24)."
+      ],
+      "crossRefs": [
+        "1 Reyes 19:11–12 — Viento, terremoto y fuego en motivos teofánicos.",
+        "Job 4:12–16 — La experiencia nocturna anterior de Elifaz (contraste de revelaciones alegadas).",
+        "Salmo 29:3–9 — La voz del SEÑOR sobre las aguas y el trueno."
+      ],
+      "translationNotes": [
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah) — Greek (LXX): λαῖλαψ",
+          "note": "Viento de tormenta que es el tema que precede la respuesta del SEÑOR (37:9) (38:1)."
+        },
+        {
+          "term": "Mensajero / intérprete",
+          "original": "Hebrew: מַלְאָךְ / מֵלִיץ (mal’akh / melits)",
+          "note": "Agente que declara lo que es recto y rescata del abismo (33:23–24)."
+        }
+      ],
+      "keyTakeaway": "Después de que los amigos callan, Elihú pronuncia cuatro discursos afirmando que Dios habla por muchos medios, insistiendo en la justicia de Dios y señalando su poder en la tormenta y la creación."
+    },
+    {
+      "id": "job-38",
+      "title": "🌪️ Job 38",
+      "refs": [
+        "Job 38:1-41"
+      ],
+      "summaryBullets": [
+        "El Señor respondió a Job desde la tempestad. Le dijo: (38:1).",
+        "«¿Quién es este, que oscurece mi consejo con palabras carentes de sentido? (38:2).",
+        "Prepárate a hacerme frente; yo voy a interrogarte y tú me responderás. (38:3).",
+        "»¿Dónde estabas cuando puse las bases de la tierra? ¡Dímelo, si de veras sabes tanto! (38:4).",
+        "¡Seguramente sabes quién estableció sus dimensiones y quién tendió sobre ella la cinta de medir! (38:5).",
+        "¿Sobre qué están puestos sus cimientos, o quién puso su piedra angular (38:6).",
+        "mientras cantaban a coro las estrellas matutinas y todos los ángeles gritaban de alegría? (38:7).",
+        "»¿Quién encerró el mar tras sus compuertas cuando este brotó del vientre de la tierra? (38:8).",
+        "¿O cuando lo arropé con las nubes y lo envolví en densas tinieblas? (38:9).",
+        "¿O cuando establecí sus límites y en sus compuertas coloqué cerrojos? (38:10).",
+        "¿O cuando le dije: “Solo hasta aquí puedes llegar; de aquí no pasarán tus orgullosas olas”? (38:11).",
+        "»¿Alguna vez en tu vida has dado órdenes a la mañana o has hecho saber a la aurora su lugar, (38:12).",
+        "para que tomen la tierra por sus extremos y sacudan de ella a los malvados? (38:13).",
+        "La tierra adquiere forma, como arcilla bajo un sello; sus rasgos resaltan como los de un vestido. (38:14).",
+        "Los malvados son privados de su luz y es quebrantado su altanero brazo. (38:15).",
+        "»¿Has viajado hasta las fuentes del océano o recorrido los rincones del abismo? (38:16).",
+        "¿Te han mostrado las puertas de la muerte? ¿Has visto las puertas de la densa oscuridad? (38:17).",
+        "¿Tienes idea de cuán ancha es la tierra? Si de veras sabes todo esto, ¡dalo a conocer! (38:18).",
+        "»¿Qué camino lleva a la morada de la luz? ¿En qué lugar se encuentran las tinieblas? (38:19).",
+        "¿Puedes acaso llevarlas a sus linderos? ¿Conoces el camino a sus moradas? (38:20).",
+        "¡Con toda seguridad lo sabes, pues para entonces ya habrías nacido! ¡Son tantos los años que has vivido! (38:21).",
+        "»¿Has llegado a visitar los depósitos de nieve y de granizo, (38:22).",
+        "que guardo para tiempos de angustia, cuando se libran guerras y batallas? (38:23).",
+        "¿Qué camino lleva adonde la luz se dispersa o adonde los vientos del este se desatan sobre la tierra? (38:24).",
+        "¿Quién abre el canal para las lluvias torrenciales y da paso a la tormenta, (38:25).",
+        "para regar regiones despobladas, desiertos donde nadie vive, (38:26).",
+        "para saciar la sed del yermo desolado y hacer que en él brote la hierba? (38:27).",
+        "¿Acaso la lluvia tiene padre? ¿Ha engendrado alguien las gotas de rocío? (38:28).",
+        "¿De qué vientre nace el hielo? ¿Quién da a luz la escarcha de los cielos? (38:29).",
+        "¡Las aguas se endurecen como rocas y la faz del mar profundo se congela! (38:30).",
+        "»¿Acaso puedes atar los lazos de las Pléyades o desatar las cuerdas que sujetan al Orión? (38:31).",
+        "¿Puedes hacer que las constelaciones salgan a tiempo? ¿Puedes guiar a la Osa Mayor y a la Menor? (38:32).",
+        "¿Conoces las leyes que rigen los cielos? ¿Puedes establecer mi dominio sobre la tierra? (38:33).",
+        "»¿Puedes elevar tu voz hasta las nubes para que te cubran aguas torrenciales? (38:34).",
+        "¿Eres tú quien señala el curso de los rayos? ¿Acaso te responden: “Estamos a tus órdenes”? (38:35).",
+        "¿Quién infundió sabiduría al corazón o dio inteligencia a la mente? (38:36).",
+        "¿Quién tiene sabiduría para contar las nubes? ¿Quién puede vaciar los cántaros del cielo (38:37).",
+        "cuando el polvo se endurece y los terrones se pegan entre sí? (38:38).",
+        "»¿Cazas tú la presa para las leonas y sacias el hambre de sus cachorros (38:39).",
+        "cuando yacen escondidas en sus cuevas o se tienden al acecho en sus guaridas? (38:40).",
+        "¿Eres tú quien alimenta a los cuervos cuando sus crías claman a mí y andan sin rumbo y sin comida? (38:41)."
+      ],
+      "crossRefs": [
+        "Salmo 104:24–32 — La sabiduría de Dios en la creación y las criaturas.",
+        "Isaías 40:12–14 — ¿Quién ha medido las aguas y dirigido el Espíritu del SEÑOR?",
+        "Job 3:8; Job 41:1 — Leviatán mencionado antes y descrito aquí en detalle."
+      ],
+      "translationNotes": [
+        {
+          "term": "Behemot",
+          "original": "Hebrew: בְּהֵמוֹת (behemot, intensive plural)",
+          "note": "Criatura terrestre colosal singular, descrita por su fuerza (40:15–24)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Temible criatura marina con piel impenetrable y poderío aterrador (41:1–34)."
+        },
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah)",
+          "note": "Viento de tormenta que es el medio por el cual el SEÑOR habla (38:1) (40:6)."
+        }
+      ],
+      "keyTakeaway": "El SEÑOR habla dos veces desde una tormenta, interrogando a Job sobre la creación y describiendo a Behemot y Leviatán."
+    },
+    {
+      "id": "job-39",
+      "title": "🌪️ Job 39",
+      "refs": [
+        "Job 39:1-30"
+      ],
+      "summaryBullets": [
+        "»¿Sabes cuándo las cabras monteses tienen sus crías? ¿Has visto el parto de las gacelas? (39:1).",
+        "¿Has contado los meses de su gestación? ¿Sabes cuándo dan a luz? (39:2).",
+        "Al tener sus crías se encorvan y allí terminan sus dolores de parto. (39:3).",
+        "Se fortalecen sus crías y crecen a campo abierto; luego se van y ya no vuelven. (39:4).",
+        "»¿Quién deja sueltos a los asnos salvajes? ¿Quién desata sus cuerdas? (39:5).",
+        "Yo les di la llanura del desierto por morada, el yermo por hábitat. (39:6).",
+        "Se burlan del tumulto de la ciudad; no prestan atención a los gritos del arriero. (39:7).",
+        "Recorren los cerros en busca de pastos, en busca de verdes prados. (39:8).",
+        "»¿Crees tú que el toro salvaje se prestará a servirte? ¿Pasará la noche en tus establos? (39:9).",
+        "¿Puedes mantenerlo en el surco con el arnés? ¿Irá en pos de ti labrando los valles? (39:10).",
+        "¿Pondrás tu confianza en su tremenda fuerza? ¿Echarás sobre sus lomos tu pesado trabajo? (39:11).",
+        "¿Puedes confiar en él para que acarree tu grano y lo junte en el lugar donde lo limpias? (39:12).",
+        "»El avestruz bate alegremente sus alas, pero su plumaje no es como el de la cigüeña. (39:13).",
+        "Pone sus huevos en la tierra, los deja empollar en la arena, (39:14).",
+        "sin que le importe que algún pie los pueda aplastar o que las bestias salvajes los pisoteen. (39:15).",
+        "Maltrata a sus polluelos como si no fueran suyos y no le importa haber trabajado en vano, (39:16).",
+        "pues Dios no le dio sabiduría ni le impartió su porción de buen juicio. (39:17).",
+        "Pero, cuando extiende sus alas y corre, se ríe de jinetes y caballos. (39:18).",
+        "»¿Le has dado al caballo su fuerza? ¿Has cubierto su cuello con largas crines? (39:19).",
+        "¿Eres tú quien lo hace saltar como langosta, con su orgulloso resoplido que infunde terror? (39:20).",
+        "Patalea con furia, regocijándose en su fuerza, y se lanza al galope a la batalla. (39:21).",
+        "Se burla del miedo; a nada teme; no rehúye hacerle frente a la espada. (39:22).",
+        "En torno suyo silban las flechas, brillan las lanzas y las jabalinas. (39:23).",
+        "En frenética carrera devora las distancias; al toque de trompeta no es posible refrenarlo. (39:24).",
+        "En cuanto suena la trompeta, resopla desafiante; percibe desde lejos el fragor de la batalla, los gritos de los comandantes y las órdenes de ataque. (39:25).",
+        "»¿Es tu sabiduría la que hace que el gavilán vuele y que hacia el sur extienda sus alas? (39:26).",
+        "¿Acaso por tus órdenes remonta el vuelo el águila y construye su nido en las alturas? (39:27).",
+        "Habita en los riscos; allí pasa la noche; en escarpadas grietas tiene su baluarte. (39:28).",
+        "Desde allí acecha la presa; sus ojos la detectan desde lejos. (39:29).",
+        "Sus polluelos se regodean en la sangre; donde hay un cadáver, allí está él». (39:30)."
+      ],
+      "crossRefs": [
+        "Salmo 104:24–32 — La sabiduría de Dios en la creación y las criaturas.",
+        "Isaías 40:12–14 — ¿Quién ha medido las aguas y dirigido el Espíritu del SEÑOR?",
+        "Job 3:8; Job 41:1 — Leviatán mencionado antes y descrito aquí en detalle."
+      ],
+      "translationNotes": [
+        {
+          "term": "Behemot",
+          "original": "Hebrew: בְּהֵמוֹת (behemot, intensive plural)",
+          "note": "Criatura terrestre colosal singular, descrita por su fuerza (40:15–24)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Temible criatura marina con piel impenetrable y poderío aterrador (41:1–34)."
+        },
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah)",
+          "note": "Viento de tormenta que es el medio por el cual el SEÑOR habla (38:1) (40:6)."
+        }
+      ],
+      "keyTakeaway": "El SEÑOR habla dos veces desde una tormenta, interrogando a Job sobre la creación y describiendo a Behemot y Leviatán."
+    },
+    {
+      "id": "job-40",
+      "title": "🌪️ Job 40",
+      "refs": [
+        "Job 40:1-24"
+      ],
+      "summaryBullets": [
+        "El Señor dijo también a Job: (40:1).",
+        "«¿Corregirá al Todopoderoso quien contra él contiende? ¡Que responda a Dios quien se atreve a acusarlo!». (40:2).",
+        "Entonces Job respondió al Señor: (40:3).",
+        "«¿Qué puedo responderte, si soy tan indigno? ¡Me tapo la boca con la mano! (40:4).",
+        "Hablé una vez y no voy a responder; hablé otra vez y no voy a insistir». (40:5).",
+        "El Señor respondió a Job desde la tempestad. Le dijo: (40:6).",
+        "«Prepárate a hacerme frente. Yo te cuestionaré y tú me responderás. (40:7).",
+        "»¿Vas acaso a invalidar mi justicia? ¿Me condenarás para justificarte? (40:8).",
+        "¿Tienes acaso un brazo como el mío? ¿Puede tu voz tronar como la mía? (40:9).",
+        "Si es así, cúbrete de gloria y esplendor; revístete de honra y majestad. (40:10).",
+        "Da rienda suelta a la furia de tu ira; mira a los orgullosos y humíllalos; (40:11).",
+        "mira a los soberbios y somételos; aplasta a los malvados donde se hallen. (40:12).",
+        "Entiérralos a todos en el polvo; amortaja sus rostros en la fosa. (40:13).",
+        "Yo, por mi parte, reconoceré que en tu mano derecha está la salvación. (40:14).",
+        "»Mira a Behemot, criatura mía igual que tú, que se alimenta de hierba, como los bueyes. (40:15).",
+        "¡Cuánta fuerza hay en sus lomos! ¡Su poder está en los músculos de su vientre! (40:16).",
+        "Su rabo se mece como un cedro; los tendones de sus muslos se entrelazan. (40:17).",
+        "Sus huesos son como barras de bronce; sus piernas parecen barrotes de hierro. (40:18).",
+        "Entre mis obras ocupa el primer lugar; solo yo, su Hacedor, puedo acercármele con la espada. (40:19).",
+        "Los montes le brindan sus frutos; allí juguetean todos los animales salvajes. (40:20).",
+        "Debajo de las plantas de lotos se tiende a descansar; se oculta entre los juncos del pantano. (40:21).",
+        "Los lotos le brindan su sombra; los álamos junto al río lo envuelven. (40:22).",
+        "No se alarma si brama el río; vive tranquilo, aunque el Jordán le llegue al hocico. (40:23).",
+        "¿Quién ante sus ojos se atreve a capturarlo? ¿Quién puede atraparlo y perforarle la nariz? (40:24)."
+      ],
+      "crossRefs": [
+        "Salmo 104:24–32 — La sabiduría de Dios en la creación y las criaturas.",
+        "Isaías 40:12–14 — ¿Quién ha medido las aguas y dirigido el Espíritu del SEÑOR?",
+        "Job 3:8; Job 41:1 — Leviatán mencionado antes y descrito aquí en detalle."
+      ],
+      "translationNotes": [
+        {
+          "term": "Behemot",
+          "original": "Hebrew: בְּהֵמוֹת (behemot, intensive plural)",
+          "note": "Criatura terrestre colosal singular, descrita por su fuerza (40:15–24)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Temible criatura marina con piel impenetrable y poderío aterrador (41:1–34)."
+        },
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah)",
+          "note": "Viento de tormenta que es el medio por el cual el SEÑOR habla (38:1) (40:6)."
+        }
+      ],
+      "keyTakeaway": "El SEÑOR habla dos veces desde una tormenta, interrogando a Job sobre la creación y describiendo a Behemot y Leviatán."
+    },
+    {
+      "id": "job-41",
+      "title": "🌪️ Job 41",
+      "refs": [
+        "Job 41:1-34"
+      ],
+      "summaryBullets": [
+        "»¿Puedes pescar a Leviatán con un anzuelo o atarle la lengua con una cuerda? (41:1).",
+        "¿Puedes ponerle un cordel en la nariz o perforarle la quijada con un gancho? (41:2).",
+        "¿Acaso amablemente va a pedirte o suplicarte que le tengas compasión? (41:3).",
+        "¿Acaso va a comprometerse a ser tu esclavo de por vida? (41:4).",
+        "¿Podrás jugar con él como juegas con los pájaros o atarlo para que tus niñas se entretengan? (41:5).",
+        "¿Podrán los mercaderes ofrecerlo como mercancía o cortarlo en pedazos para venderlo? (41:6).",
+        "¿Puedes atravesarle la piel con lanzas o la cabeza con arpones? (41:7).",
+        "Si llegas a ponerle la mano encima, ¡jamás te olvidarás de esa batalla y no querrás repetir la experiencia! (41:8).",
+        "Vana es la pretensión de llegar a someterlo; basta con verlo para desmayarse. (41:9).",
+        "No hay quien se atreva siquiera a provocarlo. ¿Quién, pues, podría hacerme frente? (41:10).",
+        "¿Y quién tiene alguna cuenta que cobrarme? ¡Mío es todo cuanto hay bajo los cielos! (41:11).",
+        "»No puedo dejar de mencionar sus extremidades, su fuerza y su elegante apariencia. (41:12).",
+        "¿Quién puede despojarlo de su coraza? ¿Quién puede acercarse a él y ponerle un freno? (41:13).",
+        "¿Quién se atreve a abrir el abismo de sus fauces, coronadas de terribles colmillos? (41:14).",
+        "Tiene el lomo recubierto de hileras de escudos, todos ellos unidos en cerrado tejido; (41:15).",
+        "tan juntos están uno al otro que no dejan pasar ni el aire; (41:16).",
+        "tan prendidos están uno del otro, tan unidos entre sí, que no pueden separarse. (41:17).",
+        "Resopla y lanza deslumbrantes relámpagos; sus ojos se parecen a los rayos de la aurora. (41:18).",
+        "Ascuas de fuego brotan de su hocico; chispas de lumbre salen disparadas. (41:19).",
+        "Lanza humo por la nariz, como olla hirviendo sobre un fuego de juncos. (41:20).",
+        "Con su aliento enciende los carbones y lanza fuego por la boca. (41:21).",
+        "En su cuello radica su fuerza; ante él, todo el mundo pierde el ánimo. (41:22).",
+        "Los pliegues de su piel son un tejido apretado; firmes son e inconmovibles. (41:23).",
+        "Duro es su pecho, como una roca; sólido, cual piedra de molino. (41:24).",
+        "Cuando se yergue, los poderosos tiemblan; cuando se sacude, emprenden la huida. (41:25).",
+        "La espada, aunque lo alcance, no lo hiere; tampoco lo hieren los dardos ni las lanzas y las jabalinas. (41:26).",
+        "Al hierro lo trata como a paja y al bronce como a madera podrida. (41:27).",
+        "No lo hacen huir las flechas; ve como paja las piedras de las hondas. (41:28).",
+        "Al mazo lo considera paja; se burla del silbido de la jabalina. (41:29).",
+        "Sus costados son dentados tiestos que en el fango van dejando huellas de rastrillos. (41:30).",
+        "Hace hervir las profundidades como un caldero; agita los mares como un frasco de ungüento. (41:31).",
+        "Una estela brillante va dejando tras de sí, cual si fuera la blanca cabellera del abismo. (41:32).",
+        "Es un monstruo que a nada teme; nada hay en el mundo que se le parezca. (41:33).",
+        "Mira con desdén a todos los poderosos; ¡él es rey de todos los soberbios!». (41:34)."
+      ],
+      "crossRefs": [
+        "Salmo 104:24–32 — La sabiduría de Dios en la creación y las criaturas.",
+        "Isaías 40:12–14 — ¿Quién ha medido las aguas y dirigido el Espíritu del SEÑOR?",
+        "Job 3:8; Job 41:1 — Leviatán mencionado antes y descrito aquí en detalle."
+      ],
+      "translationNotes": [
+        {
+          "term": "Behemot",
+          "original": "Hebrew: בְּהֵמוֹת (behemot, intensive plural)",
+          "note": "Criatura terrestre colosal singular, descrita por su fuerza (40:15–24)."
+        },
+        {
+          "term": "Leviatán",
+          "original": "Hebrew: לִוְיָתָן (Livyatan)",
+          "note": "Temible criatura marina con piel impenetrable y poderío aterrador (41:1–34)."
+        },
+        {
+          "term": "Torbellino",
+          "original": "Hebrew: סְעָרָה (se‘arah)",
+          "note": "Viento de tormenta que es el medio por el cual el SEÑOR habla (38:1) (40:6)."
+        }
+      ],
+      "keyTakeaway": "El SEÑOR habla dos veces desde una tormenta, interrogando a Job sobre la creación y describiendo a Behemot y Leviatán."
+    },
+    {
+      "id": "job-42",
+      "title": "🌿 Job 42",
+      "refs": [
+        "Job 42:1-17"
+      ],
+      "summaryBullets": [
+        "Entonces respondió Job al SEÑOR y dijo (42:1).",
+        "\"Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti\" (42:2).",
+        "\"¿Quién es el que oscurece el consejo sin entendimiento? Por tanto, yo hablaba lo que no entendía; cosas demasiado maravillosas para mí, que yo no comprendía\" (42:3).",
+        "\"Oye, te ruego, y hablaré; te preguntaré, y tú me enseñarás\" (42:4).",
+        "\"De oídas te había oído; mas ahora mis ojos te ven\" (42:5).",
+        "\"Por tanto me aborrezco, y me arrepiento en polvo y ceniza\" (42:6).",
+        "Y aconteció que después que habló el SEÑOR estas palabras a Job, el SEÑOR dijo a Elifaz temanita: \"Mi ira se encendió contra ti y tus dos compañeros; porque no habéis hablado de mí lo recto, como mi siervo Job\" (42:7).",
+        "\"Ahora, pues, tomaos siete becerros y siete carneros, e id a mi siervo Job, y ofreced holocausto por vosotros, y mi siervo Job orará por vosotros; porque de cierto a él atenderé para no trataros afrentosamente, por cuanto no habéis hablado de mí con rectitud, como mi siervo Job\" (42:8).",
+        "Fueron, pues, Elifaz temanita, Bildad suhita y Zofar naamatita, e hicieron como el SEÑOR les dijo; y el SEÑOR aceptó la oración de Job (42:9).",
+        "Y quitó el SEÑOR la aflicción de Job, cuando él hubo orado por sus amigos; y aumentó al doble todas las cosas que habían sido de Job (42:10).",
+        "Y vinieron a él todos sus hermanos y todas sus hermanas, y todos los que antes le habían conocido, y comieron con él pan en su casa, y se condolieron de él, y le consolaron de todo aquel mal que el SEÑOR había traído sobre él; y cada uno de ellos le dio una pieza de dinero y un anillo de oro (42:11).",
+        "Y bendijo el SEÑOR el postrer estado de Job más que el primero; porque tuvo catorce mil ovejas, seis mil camellos, mil yuntas de bueyes y mil asnas (42:12).",
+        "Y tuvo siete hijos y tres hijas (42:13).",
+        "Llamó el nombre de la primera, Jemima, el de la segunda, Cesia, y el de la tercera, Keren-hapuc (42:14).",
+        "Y no había mujeres tan hermosas como las hijas de Job en toda la tierra; y les dio su padre herencia entre sus hermanos (42:15).",
+        "Después de esto vivió Job ciento cuarenta años, y vio a sus hijos, y a los hijos de sus hijos, hasta la cuarta generación (42:16).",
+        "Y murió Job viejo y lleno de días (42:17)."
+      ],
+      "crossRefs": [
+        "Santiago 5:11 — Se señala el propósito del Señor y el desenlace de Job.",
+        "Génesis 50:10 — Polvo y ceniza como símbolos de duelo.",
+        "Números 23:1 — Siete toros y siete carneros en sacrificio (paralelo numérico)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Moneda de plata",
+          "original": "Hebrew: קְשִׂיטָה (qesitah)",
+          "note": "Unidad de plata o dinero que cada persona da a Job (42:11)."
+        },
+        {
+          "term": "Restaurar el doble",
+          "original": "Hebrew: לְמִשְׁנֶה (le-mishneh, “double”)",
+          "note": "Declaración de que Job recibió el doble de lo que tenía antes (42:10-12)."
+        },
+        {
+          "term": "Lleno de días",
+          "original": "Hebrew: שָׂבֵעַ יָמִים (savea‘ yamim)",
+          "note": "Fórmula para una vida larga y satisfecha (42:17)."
+        }
+      ],
+      "keyTakeaway": "Dios reprende a los amigos y acepta la intercesión de Job por ellos. Job es restaurado con el doble de ganado, honrado por su familia y recibe larga vida. El relato no registra que Job haya sido informado de la razón celestial de su sufrimiento."
+    }
+  ]
+}

@@ -1,0 +1,1263 @@
+[
+  {
+    "canon": "Genesis",
+    "aliases": [
+      "Genesis",
+      "1 Mose",
+      "Gen",
+      "Gn",
+      "1. Mose"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Exodus",
+    "aliases": [
+      "Exodus",
+      "2 Mose",
+      "Ex",
+      "Exo",
+      "2. Mose"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Levitikus",
+    "aliases": [
+      "Levitikus",
+      "3 Mose",
+      "Lev",
+      "Lv",
+      "Leviticus",
+      "3. Mose"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Numeri",
+    "aliases": [
+      "Numeri",
+      "4 Mose",
+      "Num",
+      "Nb",
+      "Nm",
+      "Numbers",
+      "4. Mose"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Deuteronomium",
+    "aliases": [
+      "Deuteronomium",
+      "5 Mose",
+      "Dtn",
+      "Dt",
+      "Deuteronomy",
+      "5. Mose"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Josua",
+    "aliases": [
+      "Josua",
+      "Jos",
+      "Joshua"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Richter",
+    "aliases": [
+      "Richter",
+      "Ri",
+      "Judges"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Rut",
+    "aliases": [
+      "Rut",
+      "Ru",
+      "Ruth"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Samuel",
+    "aliases": [
+      "1 Samuel",
+      "1 Sam",
+      "1Sa",
+      "I Samuel",
+      "1. Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Samuel",
+    "aliases": [
+      "2 Samuel",
+      "2 Sam",
+      "2Sa",
+      "II Samuel",
+      "2. Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Könige",
+    "aliases": [
+      "1 Könige",
+      "1 Kön",
+      "1Kön",
+      "I Könige",
+      "1 Kings",
+      "1. Könige"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Könige",
+    "aliases": [
+      "2 Könige",
+      "2 Kön",
+      "2Kön",
+      "II Könige",
+      "2 Kings",
+      "2. Könige"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Chronik",
+    "aliases": [
+      "1 Chronik",
+      "1 Chr",
+      "I Chronik",
+      "1 Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Chronik",
+    "aliases": [
+      "2 Chronik",
+      "2 Chr",
+      "II Chronik",
+      "2 Chronicles",
+      "2. Chronik"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Esra",
+    "aliases": [
+      "Esra",
+      "Ezr",
+      "Ezra"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Nehemia",
+    "aliases": [
+      "Nehemia",
+      "Neh",
+      "Nehemiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ester",
+    "aliases": [
+      "Ester",
+      "Est",
+      "Esther"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hiob",
+    "aliases": [
+      "Hiob",
+      "Job"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Psalmen",
+    "aliases": [
+      "Psalmen",
+      "Psalm",
+      "Ps",
+      "Psalms"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Sprüche",
+    "aliases": [
+      "Sprüche",
+      "Spr",
+      "Prov",
+      "Proverbs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Prediger",
+    "aliases": [
+      "Prediger",
+      "Kohelet",
+      "Pred",
+      "Koh",
+      "Ecclesiastes"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hohelied",
+    "aliases": [
+      "Hohelied",
+      "Lied Salomos",
+      "Hld",
+      "Song of Songs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Jesaja",
+    "aliases": [
+      "Jesaja",
+      "Jes",
+      "Is",
+      "Isaiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Jeremia",
+    "aliases": [
+      "Jeremia",
+      "Jer",
+      "Jeremiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Klagelieder",
+    "aliases": [
+      "Klagelieder",
+      "Kla",
+      "Klgl",
+      "Lamentations"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hesekiel",
+    "aliases": [
+      "Hesekiel",
+      "Ezechiel",
+      "Hes",
+      "Ez",
+      "Ezekiel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Daniel",
+    "aliases": [
+      "Daniel",
+      "Dan",
+      "Da"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hosea",
+    "aliases": [
+      "Hosea",
+      "Hos"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Joel",
+    "aliases": [
+      "Joel",
+      "Jl"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Amos",
+    "aliases": [
+      "Amos",
+      "Am"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Obadja",
+    "aliases": [
+      "Obadja",
+      "Obd",
+      "Obadiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Jona",
+    "aliases": [
+      "Jona",
+      "Jon",
+      "Jonah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Micha",
+    "aliases": [
+      "Micha",
+      "Mi",
+      "Micah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Nahum",
+    "aliases": [
+      "Nahum",
+      "Nah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Habakuk",
+    "aliases": [
+      "Habakuk",
+      "Hab",
+      "Habakkuk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Zefanja",
+    "aliases": [
+      "Zefanja",
+      "Zef",
+      "Zeph",
+      "Zephaniah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Haggai",
+    "aliases": [
+      "Haggai",
+      "Hag"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Sacharja",
+    "aliases": [
+      "Sacharja",
+      "Sach",
+      "Zech",
+      "Zechariah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Maleachi",
+    "aliases": [
+      "Maleachi",
+      "Mal",
+      "Malachi"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Matthäus",
+    "aliases": [
+      "Matthäus",
+      "Mt",
+      "Matthew"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Markus",
+    "aliases": [
+      "Markus",
+      "Mk",
+      "Mark"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Lukas",
+    "aliases": [
+      "Lukas",
+      "Lk",
+      "Luke"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Johannes",
+    "aliases": [
+      "Johannes",
+      "Joh",
+      "John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Apostelgeschichte",
+    "aliases": [
+      "Apostelgeschichte",
+      "Apg",
+      "Acta",
+      "Acts"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Römer",
+    "aliases": [
+      "Römer",
+      "Röm",
+      "Rom",
+      "Romans"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Korinther",
+    "aliases": [
+      "1 Korinther",
+      "1 Kor",
+      "I Korinther",
+      "1 Corinthians",
+      "1. Korinther"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Korinther",
+    "aliases": [
+      "2 Korinther",
+      "2 Kor",
+      "II Korinther",
+      "2 Corinthians",
+      "2. Korinther"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Galater",
+    "aliases": [
+      "Galater",
+      "Gal",
+      "Galatians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Epheser",
+    "aliases": [
+      "Epheser",
+      "Eph",
+      "Ephesians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Philipper",
+    "aliases": [
+      "Philipper",
+      "Phil",
+      "Philippians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Kolosser",
+    "aliases": [
+      "Kolosser",
+      "Kol",
+      "Col",
+      "Colossians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Thessalonicher",
+    "aliases": [
+      "1 Thessalonicher",
+      "1 Thess",
+      "I Thess",
+      "1 Thessalonians",
+      "1. Thessalonicher"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Thessalonicher",
+    "aliases": [
+      "2 Thessalonicher",
+      "2 Thess",
+      "II Thess",
+      "2 Thessalonians",
+      "2. Thessalonicher"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Timotheus",
+    "aliases": [
+      "1 Timotheus",
+      "1 Tim",
+      "I Tim",
+      "1 Timothy",
+      "1. Timotheus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Timotheus",
+    "aliases": [
+      "2 Timotheus",
+      "2 Tim",
+      "II Tim",
+      "2 Timothy",
+      "2. Timotheus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Titus",
+    "aliases": [
+      "Titus",
+      "Tit"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Philemon",
+    "aliases": [
+      "Philemon",
+      "Phlm",
+      "Phm"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hebräer",
+    "aliases": [
+      "Hebräer",
+      "Heb",
+      "Hebrews"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Jakobus",
+    "aliases": [
+      "Jakobus",
+      "Jak",
+      "Jas",
+      "James"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Petrus",
+    "aliases": [
+      "1 Petrus",
+      "1 Pet",
+      "I Petrus",
+      "1 Peter",
+      "1. Petrus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Petrus",
+    "aliases": [
+      "2 Petrus",
+      "2 Pet",
+      "II Petrus",
+      "2 Peter",
+      "2. Petrus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Johannes",
+    "aliases": [
+      "1 Johannes",
+      "1 Joh",
+      "I Johannes",
+      "1 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Johannes",
+    "aliases": [
+      "2 Johannes",
+      "2 Joh",
+      "II Johannes",
+      "2 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "3 Johannes",
+    "aliases": [
+      "3 Johannes",
+      "3 Joh",
+      "III Johannes",
+      "3 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Judas",
+    "aliases": [
+      "Judas",
+      "Jud",
+      "Jude"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Offenbarung",
+    "aliases": [
+      "Offenbarung",
+      "Apokalypse",
+      "Offb",
+      "Apk",
+      "Revelation"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Tobit",
+    "aliases": [
+      "Tobit",
+      "Tob"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Judith",
+    "aliases": [
+      "Judith",
+      "Jdt"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Zusätze zu Ester",
+    "aliases": [
+      "Zusätze zu Ester",
+      "Griechische Ester",
+      "Est gr",
+      "Additions to Esther"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Weisheit Salomos",
+    "aliases": [
+      "Weisheit Salomos",
+      "Weisheit",
+      "Weis",
+      "Wisdom of Solomon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Jesus Sirach",
+    "aliases": [
+      "Jesus Sirach",
+      "Sirach",
+      "Sir",
+      "Ecclus"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Baruch",
+    "aliases": [
+      "Baruch",
+      "Bar"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Brief des Jeremia",
+    "aliases": [
+      "Brief des Jeremia",
+      "Epistel Jeremia",
+      "JerBr",
+      "Letter of Jeremiah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Gebet des Asarja",
+    "aliases": [
+      "Gebet des Asarja",
+      "Gebet Azarias",
+      "Gebet der drei Jünglinge",
+      "Prayer of Azariah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Susanna",
+    "aliases": [
+      "Susanna",
+      "Sus"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Bel und der Drache",
+    "aliases": [
+      "Bel und der Drache",
+      "Bel",
+      "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 Makkabäer",
+    "aliases": [
+      "1 Makkabäer",
+      "1 Makk",
+      "I Makkabäer",
+      "1 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 Makkabäer",
+    "aliases": [
+      "2 Makkabäer",
+      "2 Makk",
+      "II Makkabäer",
+      "2 Maccabees",
+      "2. Makkabäer"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "3 Makkabäer",
+    "aliases": [
+      "3 Makkabäer",
+      "3 Makk",
+      "III Makkabäer",
+      "3 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "4 Makkabäer",
+    "aliases": [
+      "4 Makkabäer",
+      "4 Makk",
+      "IV Makkabäer",
+      "4 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 Esdras",
+    "aliases": [
+      "1 Esdras",
+      "3 Esra",
+      "1 Esd",
+      "I Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 Esdras",
+    "aliases": [
+      "2 Esdras",
+      "4 Esra",
+      "2 Esd",
+      "II Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Gebet des Manasse",
+    "aliases": [
+      "Gebet des Manasse",
+      "Manasse",
+      "Pr Man",
+      "Prayer of Manasseh"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Oden",
+    "aliases": [
+      "Oden",
+      "Oden (LXX)",
+      "Odes"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Didache",
+    "aliases": [
+      "Didache",
+      "Lehre der zwölf Apostel"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Hirte des Hermas",
+    "aliases": [
+      "Hirte des Hermas",
+      "Hermas",
+      "Shepherd of Hermas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Barnabasbrief",
+    "aliases": [
+      "Barnabasbrief",
+      "Brief des Barnabas",
+      "Epistle of Barnabas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1 Klemens",
+    "aliases": [
+      "1 Klemens",
+      "1 Clem",
+      "Erster Klemensbrief",
+      "1 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "2 Klemens",
+    "aliases": [
+      "2 Klemens",
+      "2 Clem",
+      "Zweiter Klemensbrief",
+      "2 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Thomasevangelium",
+    "aliases": [
+      "Thomasevangelium",
+      "Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Peterevangelium",
+    "aliases": [
+      "Peterevangelium",
+      "Gospel of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Mariaevangelium",
+    "aliases": [
+      "Mariaevangelium",
+      "Evangelium der Maria Magdalena",
+      "Gospel of Mary"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Judasevangelium",
+    "aliases": [
+      "Judasevangelium",
+      "Gospel of Judas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Philippusevangelium",
+    "aliases": [
+      "Philippusevangelium",
+      "Gospel of Philip"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Kindheitsevangelium des Thomas",
+    "aliases": [
+      "Kindheitsevangelium des Thomas",
+      "Infancy Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Proteevangelium des Jakobus",
+    "aliases": [
+      "Proteevangelium des Jakobus",
+      "Kindheitsevangelium des Jakobus",
+      "Protevangelium of James"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Petrusakten",
+    "aliases": [
+      "Petrusakten",
+      "Acts of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Paulusakten",
+    "aliases": [
+      "Paulusakten",
+      "Acts of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Johannesakten",
+    "aliases": [
+      "Johannesakten",
+      "Acts of John"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Andreasakten",
+    "aliases": [
+      "Andreasakten",
+      "Acts of Andrew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Thomasakten",
+    "aliases": [
+      "Thomasakten",
+      "Acts of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Petrusapokalypse",
+    "aliases": [
+      "Petrusapokalypse",
+      "Apocalypse of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Paulusapokalypse",
+    "aliases": [
+      "Paulusapokalypse",
+      "Visio Pauli",
+      "Apocalypse of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Brief an die Laodizener",
+    "aliases": [
+      "Brief an die Laodizener",
+      "Epistle to the Laodiceans"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Brief der Apostel",
+    "aliases": [
+      "Brief der Apostel",
+      "Epistula Apostolorum",
+      "Letter of the Apostles"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Hebräerevangelium",
+    "aliases": [
+      "Hebräerevangelium",
+      "Gospel of the Hebrews"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Ägypterevangelium",
+    "aliases": [
+      "Ägypterevangelium",
+      "Gospel of the Egyptians"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1 Henoch",
+    "aliases": [
+      "1 Henoch",
+      "Erstes Henochbuch",
+      "1 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 Henoch",
+    "aliases": [
+      "2 Henoch",
+      "Zweites Henochbuch",
+      "2 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 Henoch",
+    "aliases": [
+      "3 Henoch",
+      "Drittes Henochbuch",
+      "3 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Jubiläen",
+    "aliases": [
+      "Jubiläen",
+      "Buch der Jubiläen",
+      "Jubilees"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament der zwölf Patriarchen",
+    "aliases": [
+      "Testament der zwölf Patriarchen",
+      "Testament of the Twelve Patriarchs"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Rubens",
+    "aliases": [
+      "Testament Rubens",
+      "Testament of Reuben"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Simeons",
+    "aliases": [
+      "Testament Simeons",
+      "Testament of Simeon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Levis",
+    "aliases": [
+      "Testament Levis",
+      "Testament of Levi"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Judas",
+    "aliases": [
+      "Testament Judas",
+      "Testament of Judah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Issachars",
+    "aliases": [
+      "Testament Issachars",
+      "Testament of Issachar"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Sebulons",
+    "aliases": [
+      "Testament Sebulons",
+      "Testament of Zebulun"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Dans",
+    "aliases": [
+      "Testament Dans",
+      "Testament of Dan"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Naftalis",
+    "aliases": [
+      "Testament Naftalis",
+      "Testament of Naphtali"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Gads",
+    "aliases": [
+      "Testament Gads",
+      "Testament of Gad"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Aschers",
+    "aliases": [
+      "Testament Aschers",
+      "Testament of Asher"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Josefs",
+    "aliases": [
+      "Testament Josefs",
+      "Testament of Joseph"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Benjamins",
+    "aliases": [
+      "Testament Benjamins",
+      "Testament of Benjamin"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Testament Hiobs",
+    "aliases": [
+      "Testament Hiobs",
+      "Testament of Job"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Leben Adams und Evas",
+    "aliases": [
+      "Leben Adams und Evas",
+      "Apokalypse des Mose",
+      "Life of Adam and Eve"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Apokalypse Abrahams",
+    "aliases": [
+      "Apokalypse Abrahams",
+      "Apocalypse of Abraham"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Apokalypse des Zefanja",
+    "aliases": [
+      "Apokalypse des Zefanja",
+      "Apocalypse of Zephaniah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 Baruch",
+    "aliases": [
+      "2 Baruch",
+      "Zweiter Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 Baruch",
+    "aliases": [
+      "3 Baruch",
+      "Dritter Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "4 Baruch",
+    "aliases": [
+      "4 Baruch",
+      "Paralipomena Jeremiae"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Psalmen Salomos",
+    "aliases": [
+      "Psalmen Salomos",
+      "Psalms of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Oden Salomos",
+    "aliases": [
+      "Oden Salomos",
+      "Odes of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Joseph und Aseneth",
+    "aliases": [
+      "Joseph und Aseneth",
+      "Joseph and Aseneth"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Brief des Aristeas",
+    "aliases": [
+      "Brief des Aristeas",
+      "Letter of Aristeas"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Himmelfahrt des Jesaja",
+    "aliases": [
+      "Himmelfahrt des Jesaja",
+      "Martyrium und Himmelfahrt des Jesaja",
+      "Ascension of Isaiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Apokalypse des Elija",
+    "aliases": [
+      "Apokalypse des Elija",
+      "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  }
+]

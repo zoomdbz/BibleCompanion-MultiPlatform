@@ -1,0 +1,1194 @@
+[
+  {
+    "canon": "उत्पत्ति",
+    "aliases": [
+      "उत्पत्ति",
+      "उत्प",
+      "उ",
+      "Genesis"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "निर्गमन",
+    "aliases": [
+      "निर्गमन",
+      "निर्ग",
+      "नि",
+      "Exodus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "लैव्यव्यवस्था",
+    "aliases": [
+      "लैव्यव्यवस्था",
+      "लैव्य",
+      "लै",
+      "Leviticus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "गिनती",
+    "aliases": [
+      "गिनती",
+      "गिन",
+      "गि",
+      "Numbers"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "व्यवस्थाविवरण",
+    "aliases": [
+      "व्यवस्थाविवरण",
+      "व्यवस्था",
+      "व्य",
+      "Deuteronomy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "यहोशू",
+    "aliases": [
+      "यहोशू",
+      "यहो",
+      "Joshua"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "न्यायियों",
+    "aliases": [
+      "न्यायियों",
+      "न्या",
+      "Judges"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "रूत",
+    "aliases": [
+      "रूत",
+      "Ruth"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 शमूएल",
+    "aliases": [
+      "1 शमूएल",
+      "पहला शमूएल",
+      "1 शम",
+      "1 Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 शमूएल",
+    "aliases": [
+      "2 शमूएल",
+      "दूसरा शमूएल",
+      "2 शम",
+      "2 Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 राजा",
+    "aliases": [
+      "1 राजा",
+      "पहला राजा",
+      "1 रा",
+      "1 Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 राजा",
+    "aliases": [
+      "2 राजा",
+      "दूसरा राजा",
+      "2 रा",
+      "2 Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 इतिहास",
+    "aliases": [
+      "1 इतिहास",
+      "पहला इतिहास",
+      "1 इति",
+      "1 Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 इतिहास",
+    "aliases": [
+      "2 इतिहास",
+      "दूसरा इतिहास",
+      "2 इति",
+      "2 Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "एज्रा",
+    "aliases": [
+      "एज्रा",
+      "Ezra",
+      "एज़्रा"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "नहेमायाह",
+    "aliases": [
+      "नहेमायाह",
+      "नहे",
+      "Nehemiah",
+      "नहेम्याह"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "एस्तेर",
+    "aliases": [
+      "एस्तेर",
+      "एस्",
+      "Esther"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "अय्यूब",
+    "aliases": [
+      "अय्यूब",
+      "Job"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "भजनसहित",
+    "aliases": [
+      "भजनसहित",
+      "भजन",
+      "भज",
+      "Psalms",
+      "भजन संहिता"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "नीतिवचन",
+    "aliases": [
+      "नीतिवचन",
+      "नीति",
+      "नी",
+      "Proverbs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "सभोपदेशक",
+    "aliases": [
+      "सभोपदेशक",
+      "सभो",
+      "सभ",
+      "Ecclesiastes"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "श्रेष्ठगीत",
+    "aliases": [
+      "श्रेष्ठगीत",
+      "गीत",
+      "Song of Songs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "यशायाह",
+    "aliases": [
+      "यशायाह",
+      "यशा",
+      "यश",
+      "Isaiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "यिर्मयाह",
+    "aliases": [
+      "यिर्मयाह",
+      "यिर्म",
+      "यिर",
+      "Jeremiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "विलापगीत",
+    "aliases": [
+      "विलापगीत",
+      "विलाप",
+      "Lamentations"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "यहेजकेल",
+    "aliases": [
+      "यहेजकेल",
+      "यह",
+      "Ezekiel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "दानिय्येल",
+    "aliases": [
+      "दानिय्येल",
+      "दानि",
+      "दा",
+      "Daniel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "होशे",
+    "aliases": [
+      "होशे",
+      "Hosea"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "योएल",
+    "aliases": [
+      "योएल",
+      "Joel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "आमोस",
+    "aliases": [
+      "आमोस",
+      "Amos"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ओबद्याह",
+    "aliases": [
+      "ओबद्याह",
+      "ओब",
+      "Obadiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "योना",
+    "aliases": [
+      "योना",
+      "Jonah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "मीका",
+    "aliases": [
+      "मीका",
+      "Micah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "नहूम",
+    "aliases": [
+      "नहूम",
+      "Nahum"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "हबक्कूक",
+    "aliases": [
+      "हबक्कूक",
+      "हब",
+      "Habakkuk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "सपन्याह",
+    "aliases": [
+      "सपन्याह",
+      "सप",
+      "Zephaniah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "हाग्गै",
+    "aliases": [
+      "हाग्गै",
+      "Haggai"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "जकर्याह",
+    "aliases": [
+      "जकर्याह",
+      "जक",
+      "Zechariah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "मलाकी",
+    "aliases": [
+      "मलाकी",
+      "Malachi"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "मत्ती",
+    "aliases": [
+      "मत्ती",
+      "Matthew"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "मरकुस",
+    "aliases": [
+      "मरकुस",
+      "Mark"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "लूका",
+    "aliases": [
+      "लूका",
+      "Luke"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "यूहन्ना",
+    "aliases": [
+      "यूहन्ना",
+      "John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "प्रेरितों के काम",
+    "aliases": [
+      "प्रेरितों के काम",
+      "प्रेरित",
+      "Acts",
+      "प्रेरितों"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "रोमियों",
+    "aliases": [
+      "रोमियों",
+      "Romans"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 कुरिन्थियों",
+    "aliases": [
+      "1 कुरिन्थियों",
+      "पहला कुरिन्थियों",
+      "1 Corinthians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 कुरिन्थियों",
+    "aliases": [
+      "2 कुरिन्थियों",
+      "दूसरा कुरिन्थियों",
+      "2 Corinthians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "गलातियों",
+    "aliases": [
+      "गलातियों",
+      "Galatians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "इफिसियों",
+    "aliases": [
+      "इफिसियों",
+      "Ephesians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "फिलिप्पियों",
+    "aliases": [
+      "फिलिप्पियों",
+      "Philippians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "कुलुस्सियों",
+    "aliases": [
+      "कुलुस्सियों",
+      "Colossians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 थिस्सलुनीकियों",
+    "aliases": [
+      "1 थिस्सलुनीकियों",
+      "पहला थिस्सलुनीकी",
+      "1 Thessalonians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 थिस्सलुनीकियों",
+    "aliases": [
+      "2 थिस्सलुनीकियों",
+      "दूसरा थिस्सलुनीकी",
+      "2 Thessalonians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 तीमुथियुस",
+    "aliases": [
+      "1 तीमुथियुस",
+      "पहला तीमु",
+      "1 Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 तीमुथियुस",
+    "aliases": [
+      "2 तीमुथियुस",
+      "दूसरा तीमु",
+      "2 Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "तीतुस",
+    "aliases": [
+      "तीतुस",
+      "Titus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "फिलेमोन",
+    "aliases": [
+      "फिलेमोन",
+      "Philemon"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "इब्रानियों",
+    "aliases": [
+      "इब्रानियों",
+      "Hebrews"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "याकूब",
+    "aliases": [
+      "याकूब",
+      "James"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 पतरस",
+    "aliases": [
+      "1 पतरस",
+      "पहला पतरस",
+      "1 Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 पतरस",
+    "aliases": [
+      "2 पतरस",
+      "दूसरा पतरस",
+      "2 Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 यूहन्ना",
+    "aliases": [
+      "1 यूहन्ना",
+      "पहला यूहन्ना",
+      "1 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 यूहन्ना",
+    "aliases": [
+      "2 यूहन्ना",
+      "दूसरा यूहन्ना",
+      "2 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "3 यूहन्ना",
+    "aliases": [
+      "3 यूहन्ना",
+      "तीसरा यूहन्ना",
+      "3 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "यहूदा",
+    "aliases": [
+      "यहूदा",
+      "Jude"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "प्रकाशितवाक्य",
+    "aliases": [
+      "प्रकाशितवाक्य",
+      "Revelation"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "तोबित",
+    "aliases": [
+      "तोबित",
+      "Tobit",
+      "टोबित",
+      "तोबीत"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "यूदित",
+    "aliases": [
+      "यूदित",
+      "Judith",
+      "यहूदित"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "एस्तेर की अतिरिक्त",
+    "aliases": [
+      "एस्तेर की अतिरिक्त",
+      "यूनानी एस्तेर",
+      "Additions to Esther"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "सुलैमान की प्रज्ञा",
+    "aliases": [
+      "सुलैमान की प्रज्ञा",
+      "Wisdom of Solomon",
+      "ज्ञान ग्रन्थ",
+      "प्रज्ञा",
+      "सुलैमान की बुद्धि"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "सिराख",
+    "aliases": [
+      "सिराख",
+      "Sirach",
+      "सिराक",
+      "सिराक की बुद्धि",
+      "सीराक",
+      "सीराख"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "बारूक",
+    "aliases": [
+      "बारूक",
+      "Baruch"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "यिर्मयाह का पत्र",
+    "aliases": [
+      "यिर्मयाह का पत्र",
+      "Letter of Jeremiah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "अजर्याह की प्रार्थना",
+    "aliases": [
+      "अजर्याह की प्रार्थना",
+      "तीन युवाओं का गीत",
+      "Prayer of Azariah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "सुसन्ना",
+    "aliases": [
+      "सुसन्ना",
+      "Susanna"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "बेल और अजगर",
+    "aliases": [
+      "बेल और अजगर",
+      "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 मक्काबियों",
+    "aliases": [
+      "1 मक्काबियों",
+      "पहला मक्का",
+      "1 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 मक्काबियों",
+    "aliases": [
+      "2 मक्काबियों",
+      "दूसरा मक्का",
+      "2 Maccabees",
+      "2 मक्काबी"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "3 मक्काबियों",
+    "aliases": [
+      "3 मक्काबियों",
+      "तीसरा मक्का",
+      "3 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "4 मक्काबियों",
+    "aliases": [
+      "4 मक्काबियों",
+      "चौथा मक्का",
+      "4 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 एज्रा",
+    "aliases": [
+      "1 एज्रा",
+      "पहला एज्रा",
+      "1 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 एज्रा",
+    "aliases": [
+      "2 एज्रा",
+      "चौथा एज्रा",
+      "2 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "मनश्शे की प्रार्थना",
+    "aliases": [
+      "मनश्शे की प्रार्थना",
+      "Prayer of Manasseh"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "ओदेस",
+    "aliases": [
+      "ओदेस",
+      "स्तोत्र",
+      "Odes"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "दीदाखे",
+    "aliases": [
+      "दीदाखे",
+      "बारह प्रेरितों की शिक्षा",
+      "Didache"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "हर्मास का चरवाहा",
+    "aliases": [
+      "हर्मास का चरवाहा",
+      "Shepherd of Hermas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "बरनबास का पत्र",
+    "aliases": [
+      "बरनबास का पत्र",
+      "Epistle of Barnabas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1 क्लेमेंट",
+    "aliases": [
+      "1 क्लेमेंट",
+      "पहला क्लेमेंट",
+      "1 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "2 क्लेमेंट",
+    "aliases": [
+      "2 क्लेमेंट",
+      "दूसरा क्लेमेंट",
+      "2 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "थॉमस का सुसमाचार",
+    "aliases": [
+      "थॉमस का सुसमाचार",
+      "Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "पतरस का सुसमाचार",
+    "aliases": [
+      "पतरस का सुसमाचार",
+      "Gospel of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "मरियम का सुसमाचार",
+    "aliases": [
+      "मरियम का सुसमाचार",
+      "मगदलीनी मरियम का सुसमाचार",
+      "Gospel of Mary"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "यहूदा का सुसमाचार",
+    "aliases": [
+      "यहूदा का सुसमाचार",
+      "Gospel of Judas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "फिलिप का सुसमाचार",
+    "aliases": [
+      "फिलिप का सुसमाचार",
+      "Gospel of Philip"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "बाल्यकाल थॉमस का सुसमाचार",
+    "aliases": [
+      "बाल्यकाल थॉमस का सुसमाचार",
+      "Infancy Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "याकूब का बाल्यकाल सुसमाचार",
+    "aliases": [
+      "याकूब का बाल्यकाल सुसमाचार",
+      "Protevangelium of James"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "पतरस के काम",
+    "aliases": [
+      "पतरस के काम",
+      "Acts of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "पौलुस के काम",
+    "aliases": [
+      "पौलुस के काम",
+      "Acts of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "यूहन्ना के काम",
+    "aliases": [
+      "यूहन्ना के काम",
+      "Acts of John"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "अंद्रियास के काम",
+    "aliases": [
+      "अंद्रियास के काम",
+      "Acts of Andrew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "थॉमस के काम",
+    "aliases": [
+      "थॉमस के काम",
+      "Acts of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "पतरस का प्रकाशन",
+    "aliases": [
+      "पतरस का प्रकाशन",
+      "Apocalypse of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "पौलुस का प्रकाशन",
+    "aliases": [
+      "पौलुस का प्रकाशन",
+      "Apocalypse of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "लओदीकियों को पत्र",
+    "aliases": [
+      "लओदीकियों को पत्र",
+      "Epistle to the Laodiceans"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "प्रेरितों का पत्र",
+    "aliases": [
+      "प्रेरितों का पत्र",
+      "Letter of the Apostles"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "इब्रानियों का सुसमाचार",
+    "aliases": [
+      "इब्रानियों का सुसमाचार",
+      "Gospel of the Hebrews"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "मिस्रियों का सुसमाचार",
+    "aliases": [
+      "मिस्रियों का सुसमाचार",
+      "Gospel of the Egyptians"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1 हनोक",
+    "aliases": [
+      "1 हनोक",
+      "पहला हनोक",
+      "1 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 हनोक",
+    "aliases": [
+      "2 हनोक",
+      "दूसरा हनोक",
+      "2 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 हनोक",
+    "aliases": [
+      "3 हनोक",
+      "तीसरा हनोक",
+      "3 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "यूबिली",
+    "aliases": [
+      "यूबिली",
+      "छोटा उत्पत्ति",
+      "Jubilees",
+      "जुबलीज़",
+      "यूबिलियों की पुस्तक"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "बारह पितृपुरुषों की वसीयत",
+    "aliases": [
+      "बारह पितृपुरुषों की वसीयत",
+      "Testament of the Twelve Patriarchs"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "रूबेन की वसीयत",
+    "aliases": [
+      "रूबेन की वसीयत",
+      "Testament of Reuben"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "शिमोन की वसीयत",
+    "aliases": [
+      "शिमोन की वसीयत",
+      "Testament of Simeon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "लैवी की वसीयत",
+    "aliases": [
+      "लैवी की वसीयत",
+      "Testament of Levi"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "यहूदा की वसीयत",
+    "aliases": [
+      "यहूदा की वसीयत",
+      "Testament of Judah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "इस्साकार की वसीयत",
+    "aliases": [
+      "इस्साकार की वसीयत",
+      "Testament of Issachar"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "जबूलून की वसीयत",
+    "aliases": [
+      "जबूलून की वसीयत",
+      "Testament of Zebulun"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "दान की वसीयत",
+    "aliases": [
+      "दान की वसीयत",
+      "Testament of Dan"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "नप्ताली की वसीयत",
+    "aliases": [
+      "नप्ताली की वसीयत",
+      "Testament of Naphtali"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "गाद की वसीयत",
+    "aliases": [
+      "गाद की वसीयत",
+      "Testament of Gad"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "आशेर की वसीयत",
+    "aliases": [
+      "आशेर की वसीयत",
+      "Testament of Asher"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "यूसुफ की वसीयत",
+    "aliases": [
+      "यूसुफ की वसीयत",
+      "Testament of Joseph"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "बिन्यामीन की वसीयत",
+    "aliases": [
+      "बिन्यामीन की वसीयत",
+      "Testament of Benjamin"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "अय्यूब की वसीयत",
+    "aliases": [
+      "अय्यूब की वसीयत",
+      "Testament of Job"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "आदम और हव्वा का जीवन",
+    "aliases": [
+      "आदम और हव्वा का जीवन",
+      "मूसा का प्रकाशन",
+      "Life of Adam and Eve"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "अब्राहम का प्रकाशन",
+    "aliases": [
+      "अब्राहम का प्रकाशन",
+      "Apocalypse of Abraham"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "सपन्याह का प्रकाशन",
+    "aliases": [
+      "सपन्याह का प्रकाशन",
+      "Apocalypse of Zephaniah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 बारूक",
+    "aliases": [
+      "2 बारूक",
+      "दूसरा बारूक",
+      "2 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 बारूक",
+    "aliases": [
+      "3 बारूक",
+      "तीसरा बारूक",
+      "3 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "4 बारूक",
+    "aliases": [
+      "4 बारूक",
+      "यिर्मयाह का परिशिष्ट",
+      "4 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "सुलैमान के भजन",
+    "aliases": [
+      "सुलैमान के भजन",
+      "Psalms of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "सुलैमान के गीत",
+    "aliases": [
+      "सुलैमान के गीत",
+      "Odes of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "यूसुफ और आसनेत",
+    "aliases": [
+      "यूसुफ और आसनेत",
+      "Joseph and Aseneth"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "अरिस्तियास का पत्र",
+    "aliases": [
+      "अरिस्तियास का पत्र",
+      "Letter of Aristeas"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "यशायाह का स्वर्गारोहण",
+    "aliases": [
+      "यशायाह का स्वर्गारोहण",
+      "यशायाह का बलिदान और स्वर्गारोहण",
+      "Ascension of Isaiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "एलिय्याह का प्रकाशन",
+    "aliases": [
+      "एलिय्याह का प्रकाशन",
+      "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  }
+]

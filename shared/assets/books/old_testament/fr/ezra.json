@@ -1,0 +1,626 @@
+{
+  "id": "ezra",
+  "title": "Esdras",
+  "stories": [
+    {
+      "id": "ezra-1",
+      "title": "📜 Esdras 1",
+      "refs": [
+        "Ezra 1:1-11"
+      ],
+      "summaryBullets": [
+        "La première année du règne de Cyrus de Perse, l’Eternel, pour accomplir la parole qu’il avait prononcée par le prophète Jérémie, agit sur l’esprit de Cyrus, empereur de Perse. Alors Cyrus fit faire, oralement et par écrit, la proclamation suivante à travers tout son empire : (1:1).",
+        "Voici ce que déclare Cyrus, empereur de Perse : « L’Eternel, le Dieu du ciel, m’a donné tous les royaumes de la terre, et il m’a chargé de lui construire un temple à Jérusalem en Juda. (1:2).",
+        "Quels sont ceux d’entre vous qui font partie de son peuple ? Que leur Dieu soit avec eux, et qu’ils partent à Jérusalem, en Juda, pour reconstruire le temple de l’Eternel, le Dieu d’Israël. C’est le Dieu qui réside à Jérusalem. (1:3).",
+        "Que partout où résident ceux qui restent de son peuple, les gens de l’endroit leur apportent des dons d’argent et d’or, de divers biens, du bétail ainsi que des offrandes volontaires pour le temple du Dieu qui est à Jérusalem. » (1:4).",
+        "Alors les chefs des groupes familiaux de Juda et de Benjamin, les prêtres et les lévites, et tous ceux en qui Dieu avait agi, se préparèrent à partir afin de reconstruire le temple de l’Eternel à Jérusalem. (1:5).",
+        "Tous leurs voisins leur vinrent en aide en leur donnant des objets d’argent et d’or, divers biens, du bétail et des objets précieux, sans compter leurs offrandes volontaires. (1:6).",
+        "De son côté, l’empereur Cyrus fit chercher les ustensiles du Temple que Nabuchodonosor avait emportés de Jérusalem pour les placer dans le sanctuaire de son dieu. (1:7).",
+        "Sur ordre de l’empereur perse, Mitredath le trésorier alla les chercher et les remit, après les avoir comptés, à Sheshbatsar, le chef de Juda. (1:8).",
+        "En voici la liste : 30 plats en or, 1 000 en argent, 29 couteaux, (1:9).",
+        "30 coupes en or, 410 coupes doubles en argent et 1 000 autres ustensiles. (1:10).",
+        "En tout, il y avait 5 400 ustensiles d’or et d’argent. Sheshbatsar rapporta le tout lorsque les exilés quittèrent Babylone pour retourner à Jérusalem. (1:11)."
+      ],
+      "crossRefs": [
+        "Jérémie 25:11-12 — Soixante-dix ans d'exil annoncés.",
+        "Jérémie 29:10 — Promesse de retour après soixante-dix ans.",
+        "Ésaïe 44:28 ; Ésaïe 45:1 — Prophétie nommant Cyrus comme berger et oint de Dieu pour rebâtir Jérusalem.",
+        "2 Chroniques 36:22-23 — Récit parallèle du décret de Cyrus.",
+        "Néhémie 7 — Généalogie parallèle des rapatriés.",
+        "1 Esdras 2 (deutérocanonique) — Récit parallèle du retour sous Cyrus."
+      ],
+      "translationNotes": [
+        {
+          "term": "Cyrus",
+          "original": "Hebrew: כּוֹרֶשׁ (Koresh) — Greek (LXX): Κῦρος (Kūros) — Aramaic: כורש (Koresh)",
+          "note": "Roi de Perse qui conquit Babylone (539 av. J.-C.). Nommé par Ésaïe plus d'un siècle à l'avance."
+        },
+        {
+          "term": "Sheshbatsar",
+          "original": "Hebrew/Aramaic: שֵׁשְׁבַּצַּר (Sheshbatstsar)",
+          "note": "Appelé « prince de Juda » ; soit identique à Zorobabel, soit un gouverneur antérieur."
+        },
+        {
+          "term": "Ourim et Toummim",
+          "original": "Hebrew: אוּרִים וְתוּמִּים (Urim v’Tummim) — Greek: οὐρίμ καὶ θουμμίμ — Aramaic: אורין ותומין",
+          "note": "Sorts sacrés dans le pectoral du grand prêtre, utilisés pour discerner la volonté de Dieu."
+        }
+      ],
+      "keyTakeaway": "Cyrus décrète le retour et la restauration du temple, et un registre détaillé consigne ceux qui sont revenus et comment ils étaient organisés."
+    },
+    {
+      "id": "ezra-2",
+      "title": "📜 Esdras 2",
+      "refs": [
+        "Ezra 2:1-70"
+      ],
+      "summaryBullets": [
+        "Voici la liste des hommes originaires du district de Juda que Nabuchodonosor, roi de Babylone, avait déportés à Babylone et qui sont revenus de la captivité à Jérusalem et en Juda, chacun dans sa ville. (2:1).",
+        "Ils revinrent sous la conduite de Zorobabel, Josué, Néhémie, Seraya, Réélaya, Mardochée, Bilshân, Mispar, Bigvaï, Rehoum, Baana. (2:2).",
+        "Descendants de Pareosh : 2 172. (2:3).",
+        "Descendants de Shephatia : 372. (2:4).",
+        "Descendants d’Arah : 775. (2:5).",
+        "Descendants de Pahath-Moab, de la postérité de Josué et de Joab : 2 812. (2:6).",
+        "Descendants d’Elam : 1 254. (2:7).",
+        "Descendants de Zatthou : 945. (2:8).",
+        "Descendants de Zakkaï : 760. (2:9).",
+        "Descendants de Bani : 642. (2:10).",
+        "Descendants de Bébaï : 623. (2:11).",
+        "Descendants d’Azgad : 1 222. (2:12).",
+        "Descendants d’Adoniqam : 666. (2:13).",
+        "Descendants de Bigvaï : 2 056. (2:14).",
+        "Descendants d’Adîn : 454. (2:15).",
+        "Descendants d’Ather, de la lignée d’Ezéchias : 98. (2:16).",
+        "Descendants de Betsaï : 323. (2:17).",
+        "Descendants de Yora : 112. (2:18).",
+        "Descendants de Hashoum : 223. (2:19).",
+        "Descendants de Guibbar : 95. (2:20).",
+        "Descendants de Bethléhem : 123. (2:21).",
+        "Ressortissants de Netopha : 56. (2:22).",
+        "Ressortissants d’Anatoth : 128. (2:23).",
+        "Descendants d’Azmaveth : 42. (2:24).",
+        "Descendants de Qiryath-Yearim, de Kephira et de Beéroth : 743. (2:25).",
+        "Descendants de Rama et de Guéba : 621. (2:26).",
+        "Ressortissants de Mikmas : 122. (2:27).",
+        "Ressortissants de Béthel et d’Aï : 223. (2:28).",
+        "Descendants de Nébo : 52. (2:29).",
+        "Descendants de Magbish : 156. (2:30).",
+        "Descendants de l’autre Elam : 1 254. (2:31).",
+        "Descendants de Harim : 320. (2:32).",
+        "Descendants de Lod, de Hadid et d’Ono : 725. (2:33).",
+        "Descendants de Jéricho : 345. (2:34).",
+        "Descendants de Senaa : 3 630. (2:35).",
+        "Pour ce qui est des prêtres : (2:36).",
+        "Descendants d’Immer : 1 052. (2:37).",
+        "Descendants de Pashhour : 1 247. (2:38).",
+        "Descendants de Harim : 1 017. (2:39).",
+        "Pour ce qui est des lévites : (2:40).",
+        "Musiciens : les descendants d’Asaph : 128. (2:41).",
+        "Groupe des portiers : les descendants de Shalloum, d’Ather, de Talmôn, d’Aqqoub, de Hathitha, de Shobaï, en tout : 139. (2:42).",
+        "Les desservants du Temple : les descendants de Tsiha, de Hasoupha, de Thabbaoth, (2:43).",
+        "de Qéros, de Siaha, de Padôn, (2:44).",
+        "de Lebana, de Hagaba, d’Aqqoub, (2:45).",
+        "de Hagab, de Shalmaï, de Hanân, (2:46).",
+        "de Guiddel, de Gahar, de Reaya, (2:47).",
+        "de Retsîn, de Neqoda, de Gazzam, (2:48).",
+        "d’Ouzza, de Paséah, de Bésaï, (2:49).",
+        "d’Asna, de Mehounim, de Nephousim, (2:50).",
+        "de Baqbouq, de Haqoupha, de Har-hour, (2:51).",
+        "de Batslouth, de Mehida, de Harsha, (2:52).",
+        "de Barqos, de Sisera, de Thamah, (2:53).",
+        "de Netsiah, de Hathipha. (2:54).",
+        "Quant au groupe des descendants des serviteurs de Salomon, il comprenait les descendants de Sothaï, de Sophéreth, de Perouda, (2:55).",
+        "de Yaala, de Darqôn, de Guiddel, (2:56).",
+        "de Shephatia, de Hatthil, de Pokéreth-Hatsebaïm, d’Ami. (2:57).",
+        "Total des desservants du Temple et des descendants des serviteurs de Salomon : 392. (2:58).",
+        "Liste de ceux qui sont venus des villes de Tel-Mélah, de Tel-Harsha, de Keroub-Addân et d’Immer mais qui ne purent pas indiquer quels étaient leur groupe familial et leur ascendance, pour prouver leur origine israélite : (2:59).",
+        "les descendants de Delaya, de Tobiya et de Neqoda : 652. (2:60).",
+        "Et parmi les prêtres : les descendants de Hobaya, d’Haqqots et de Barzillaï. Ce dernier tenait son nom de Barzillaï, le Galaadite, dont il avait épousé une fille. (2:61).",
+        "Ils recherchèrent leurs registres généalogiques, mais ne les trouvèrent pas. Ils furent donc disqualifiés pour l’exercice du sacerdoce, (2:62).",
+        "et le gouverneur leur ordonna de ne pas manger des aliments consacrés jusqu’à ce qu’un prêtre ait consulté Dieu à leur sujet par l’ourim et le toummim. (2:63).",
+        "La communauté entière de ceux qui étaient revenus de l’exil comprenait 42 360 personnes (2:64).",
+        "sans compter leurs 7 337 serviteurs et servantes. Parmi eux se trouvaient 200 musiciens et chanteuses. (2:65).",
+        "Ils avaient 736 chevaux, 245 mulets, (2:66).",
+        "435 chameaux et 6 720 ânes. (2:67).",
+        "Lors de leur arrivée au temple de l’Eternel à Jérusalem, plusieurs chefs de groupes familiaux firent des offrandes volontaires pour la reconstruction du temple de Dieu sur son emplacement. (2:68).",
+        "Ils versèrent, chacun selon ses moyens, au fonds des travaux : 61 000 pièces d’or et 5 000 pièces d’argent, plus 100 tuniques sacerdotales. (2:69).",
+        "Les prêtres et les lévites, les gens du peuple, les musiciens, les portiers et les desservants du Temple, tous les Israélites s’établirent dans leurs villes d’origine. (2:70)."
+      ],
+      "crossRefs": [
+        "Jérémie 25:11-12 — Soixante-dix ans d'exil annoncés.",
+        "Jérémie 29:10 — Promesse de retour après soixante-dix ans.",
+        "Ésaïe 44:28 ; Ésaïe 45:1 — Prophétie nommant Cyrus comme berger et oint de Dieu pour rebâtir Jérusalem.",
+        "2 Chroniques 36:22-23 — Récit parallèle du décret de Cyrus.",
+        "Néhémie 7 — Généalogie parallèle des rapatriés.",
+        "1 Esdras 2 (deutérocanonique) — Récit parallèle du retour sous Cyrus."
+      ],
+      "translationNotes": [
+        {
+          "term": "Cyrus",
+          "original": "Hebrew: כּוֹרֶשׁ (Koresh) — Greek (LXX): Κῦρος (Kūros) — Aramaic: כורש (Koresh)",
+          "note": "Roi de Perse qui conquit Babylone (539 av. J.-C.). Nommé par Ésaïe plus d'un siècle à l'avance."
+        },
+        {
+          "term": "Sheshbatsar",
+          "original": "Hebrew/Aramaic: שֵׁשְׁבַּצַּר (Sheshbatstsar)",
+          "note": "Appelé « prince de Juda » ; soit identique à Zorobabel, soit un gouverneur antérieur."
+        },
+        {
+          "term": "Ourim et Toummim",
+          "original": "Hebrew: אוּרִים וְתוּמִּים (Urim v’Tummim) — Greek: οὐρίμ καὶ θουμμίμ — Aramaic: אורין ותומין",
+          "note": "Sorts sacrés dans le pectoral du grand prêtre, utilisés pour discerner la volonté de Dieu."
+        }
+      ],
+      "keyTakeaway": "Cyrus décrète le retour et la restauration du temple, et un registre détaillé consigne ceux qui sont revenus et comment ils étaient organisés."
+    },
+    {
+      "id": "ezra-3",
+      "title": "🏛️ Esdras 3",
+      "refs": [
+        "Ezra 3:1-13"
+      ],
+      "summaryBullets": [
+        "Quand arriva le septième mois, les Israélites étaient installés dans leurs villes. Alors le peuple se rassembla à Jérusalem comme un seul homme. (3:1).",
+        "Josué, fils de Yotsadaq, avec ses collègues les prêtres, et Zorobabel, fils de Shealtiel, avec les gens de sa parenté, se mirent à l’œuvre et reconstruisirent l’autel du Dieu d’Israël pour y offrir des holocaustes, selon ce qui est écrit dans la Loi de Moïse, l’homme de Dieu. (3:2).",
+        "Malgré leur peur des populations locales, ils rétablirent l’autel sur ses anciennes fondations et ils y offrirent des holocaustes à l’Eternel, ceux du matin et du soir. (3:3).",
+        "Puis ils célébrèrent la fête des Cabanes suivant les prescriptions, et ils offrirent quotidiennement des holocaustes selon le nombre fixé pour chaque jour. (3:4).",
+        "Après cela, ils offrirent l’holocauste perpétuel et ceux des nouvelles lunes et de toutes les solennités consacrées à l’Eternel, et pour tous ceux qui faisaient des offrandes volontaires à l’Eternel. (3:5).",
+        "Dès le premier jour du septième mois, ils commencèrent à offrir des holocaustes à l’Eternel, bien que les fondations du temple de l’Eternel n’aient pas encore été posées. (3:6).",
+        "On remit de l’argent aux tailleurs de pierre et aux charpentiers, ainsi que des vivres, des boissons et de l’huile aux Sidoniens et aux Tyriens pour qu’ils acheminent par mer jusqu’à Jaffa du bois de cèdre depuis le Liban. Tout cela fut fait en vertu de l’autorisation accordée par Cyrus, roi de Perse. (3:7).",
+        "Dans la deuxième année après l’arrivée des exilés au temple de Dieu à Jérusalem, au deuxième mois, Zorobabel, fils de Shealtiel, Josué, fils de Yotsadaq, et le reste de leurs compatriotes, les prêtres et les lévites et tous ceux qui étaient revenus de captivité à Jérusalem, commencèrent le travail. Les lévites âgés de vingt ans et plus furent chargés de superviser les travaux du temple de l’Eternel. (3:8).",
+        "Josué, avec ses fils et ses frères, Qadmiel avec ses fils qui étaient des descendants de Juda eurent pour fonction de superviser tous ensemble ceux qui travaillaient au chantier. Ils étaient assistés des descendants de Hénadad, avec leurs fils et leurs parents les lévites. (3:9).",
+        "Lorsque les maçons posèrent les fondations du temple de l’Eternel, on mit en place les prêtres revêtus de leurs habits de cérémonie, avec les trompettes en mains, et les lévites descendants d’Asaph avec les cymbales, afin de louer l’Eternel, selon les prescriptions de David, roi d’Israël. (3:10).",
+        "Ils entonnèrent des hymnes de louange et des cantiques de remerciement pour célébrer l’Eternel en chantant à tour de rôle : (3:11).",
+        "Beaucoup, parmi les prêtres, les lévites, et les chefs de groupes familiaux parmi les plus âgés, qui avaient encore vu l’ancien temple, pleuraient à haute voix pendant que l’on posait sous leurs yeux les fondations du nouveau temple, alors que beaucoup d’autres gens exprimaient leur joie par des acclamations bruyantes, (3:12).",
+        "de sorte qu’on ne pouvait pas distinguer les ovations joyeuses des pleurs ; le peuple poussait de grands cris dont l’écho retentissait au loin. (3:13)."
+      ],
+      "crossRefs": [
+        "Aggée 1-2 — Encouragement prophétique à rebâtir le temple.",
+        "Zacharie 3-4 — Visions de Josué le prêtre et de Zorobabel.",
+        "2 Rois 25:8-17 — Destruction du temple de Salomon.",
+        "Daniel 6:29 — Le règne de Darius mentionné.",
+        "1 Esdras 5-7 (deutérocanonique) — Récit parallèle de l'opposition et de la reconstruction."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gouverneur de Juda, descendant de David. Le nom signifie peut-être « semence de Babylone »."
+        },
+        {
+          "term": "Josué",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Grand prêtre des rapatriés. La même forme nominale que « Jésus » en grec."
+        },
+        {
+          "term": "Pâque",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fête commémorant la délivrance d'Égypte, célébrée à nouveau après l'exil."
+        }
+      ],
+      "keyTakeaway": "L'autel est rebâti, le temple est achevé malgré l'opposition, et le peuple célèbre la Pâque et la fête des Pains sans levain."
+    },
+    {
+      "id": "ezra-4",
+      "title": "🏛️ Esdras 4",
+      "refs": [
+        "Ezra 4:1-24"
+      ],
+      "summaryBullets": [
+        "Les ennemis de Juda et de Benjamin apprirent que les anciens déportés reconstruisaient un temple à l’Eternel, le Dieu d’Israël. (4:1).",
+        "Ils vinrent trouver Zorobabel et les chefs des groupes familiaux pour leur dire : Nous allons vous aider à reconstruire ce temple, car nous invoquons le même Dieu que vous et nous lui offrons des sacrifices depuis le temps d’Esar-Haddôn, roi d’Assyrie, qui nous a déportés ici. (4:2).",
+        "Mais Zorobabel, Josué et les autres chefs des groupes familiaux d’Israël leur répondirent : Il nous appartient à nous, et pas à vous, de bâtir un temple pour notre Dieu ; nous seuls devons construire cet édifice pour l’Eternel, le Dieu d’Israël, comme l’a ordonné Cyrus, le roi de Perse. (4:3).",
+        "Alors les gens du pays découragèrent les Judéens et les effrayèrent pour qu’ils cessent de bâtir. (4:4).",
+        "Ils soudoyèrent des conseillers pour s’opposer à eux et faire échouer leur entreprise. Ils y parvinrent durant le règne de Cyrus et jusqu’au règne de Darius, tous deux empereurs de Perse. (4:5).",
+        "Dès le début du règne de Xerxès, ils lui écrivirent une lettre d’accusation contre les habitants de Juda et de Jérusalem. (4:6).",
+        "Et sous le règne d’Artaxerxès, Bishlâm, Mitredath, Tabéel et leurs collègues écrivirent à Artaxerxès, empereur de Perse. Le document était rédigé en langue araméenne et écrit en caractères araméens. (4:7).",
+        "Rehoum, le gouverneur, et Shimshaï, son secrétaire, écrivirent à l’empereur Artaxerxès la lettre suivante au sujet de Jérusalem : (4:8).",
+        "« Rehoum, gouverneur, Shimshaï, secrétaire, et leurs collègues originaires de Din, d’Arpharsatak, de Tarpel, d’Apharas, d’Erek, de Babylone, de Suse, de Déha, d’Elam, (4:9).",
+        "ainsi que les autres peuples que le grand et glorieux Assourbanipal a déportés pour les établir dans la ville de Samarie et dans d’autres territoires à l’ouest de l’Euphrate, etc. » (4:10).",
+        "Voici une copie de la lettre qu’ils lui envoyèrent : (4:11).",
+        "Que l’empereur sache que les Juifs revenus de chez toi sont arrivés parmi nous à Jérusalem et sont en train de rebâtir la ville rebelle et perverse : ils en réparent les remparts et en restaurent les fondations. (4:12).",
+        "Que l’empereur sache que si cette ville est reconstruite et si ses remparts sont réparés, ses habitants ne paieront plus ni tribut, ni impôt, ni taxes de péage, ce qui finalement lésera le trésor royal. (4:13).",
+        "C’est pourquoi, étant les obligés du palais impérial et pensant qu’il ne nous conviendrait pas d’être témoins du tort fait à ton honneur, nous transmettons au roi ces informations (4:14).",
+        "afin que des recherches soient faites dans les annales de tes prédécesseurs. Tu trouveras dans ces archives et tu verras ainsi que cette ville a toujours été rebelle et nuisible aux rois et aux provinces. Depuis toujours, ses habitants n’ont cessé de provoquer des révoltes. C’est la raison pour laquelle cette ville a été détruite. (4:15).",
+        "Nous avertissons donc l’empereur que si elle est rebâtie et si ses remparts sont restaurés, tu n’auras bientôt plus de possessions à l’ouest de l’Euphrate. » (4:16).",
+        "L’empereur fit parvenir la réponse suivante : (4:17).",
+        "Le rapport que vous nous avez envoyé m’a été lu après avoir été traduit. (4:18).",
+        "Sur mon ordre, on a fait des recherches et l’on a effectivement trouvé que, depuis toujours, cette ville s’est soulevée contre les rois et qu’elle a provoqué des révoltes et des insurrections. (4:19).",
+        "Il y eut à Jérusalem des rois puissants qui étendirent leur domination sur toute la région à l’ouest du fleuve, et à qui on payait tributs, impôts et taxes de péage. (4:20).",
+        "Prenez donc des dispositions pour ordonner à ces gens de cesser leurs travaux pour que cette ville ne soit pas rebâtie tant que je n’en aurai pas donné l’ordre. (4:21).",
+        "Soyez sur vos gardes pour éviter toute négligence dans cette affaire, afin que les empereurs ne soient pas lésés par des dommages encore plus grands ! » (4:22).",
+        "Dès que la copie de la lettre de l’empereur Artaxerxès eut été lue devant Rehoum, Shimshaï, son secrétaire, et leurs collègues, ceux-ci se rendirent en toute hâte à Jérusalem auprès des Judéens et les obligèrent par la violence et la force à cesser leurs travaux. (4:23).",
+        "Dès lors, les travaux de restauration du temple de Dieu à Jérusalem furent interrompus ; cette interruption se prolongea jusqu’à la seconde année du règne de Darius, roi de Perse. (4:24)."
+      ],
+      "crossRefs": [
+        "Aggée 1-2 — Encouragement prophétique à rebâtir le temple.",
+        "Zacharie 3-4 — Visions de Josué le prêtre et de Zorobabel.",
+        "2 Rois 25:8-17 — Destruction du temple de Salomon.",
+        "Daniel 6:29 — Le règne de Darius mentionné.",
+        "1 Esdras 5-7 (deutérocanonique) — Récit parallèle de l'opposition et de la reconstruction."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gouverneur de Juda, descendant de David. Le nom signifie peut-être « semence de Babylone »."
+        },
+        {
+          "term": "Josué",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Grand prêtre des rapatriés. La même forme nominale que « Jésus » en grec."
+        },
+        {
+          "term": "Pâque",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fête commémorant la délivrance d'Égypte, célébrée à nouveau après l'exil."
+        }
+      ],
+      "keyTakeaway": "L'autel est rebâti, le temple est achevé malgré l'opposition, et le peuple célèbre la Pâque et la fête des Pains sans levain."
+    },
+    {
+      "id": "ezra-5",
+      "title": "🏛️ Esdras 5",
+      "refs": [
+        "Ezra 5:1-17"
+      ],
+      "summaryBullets": [
+        "Le prophète Aggée et le prophète Zacharie, petit-fils d’Iddo, s’adressèrent aux Juifs établis en Juda et à Jérusalem de la part du Dieu d’Israël qui était en eux. (5:1).",
+        "Alors Zorobabel, fils de Shealtiel, et Josué, fils de Yotsadaq, se mirent au travail et reprirent la reconstruction du temple de Dieu à Jérusalem avec l’assistance des prophètes de Dieu. (5:2).",
+        "Aussitôt, Thathnaï, gouverneur de la province située à l’ouest de l’Euphrate, Shethar-Boznaï et leurs collègues vinrent les trouver et leur demandèrent : Qui vous a donné l’autorisation de rebâtir ce sanctuaire et de relever ces murs ? (5:3).",
+        "Alors nous leur avons indiqué les noms de ceux qui travaillaient à la reconstruction. (5:4).",
+        "Mais Dieu veillait sur les responsables des Juifs et on ne les obligea pas à interrompre leurs travaux en attendant que Darius ait reçu un rapport à ce sujet et que la réponse revienne. (5:5).",
+        "Voici une copie de la lettre envoyée à l’empereur Darius par Thathnaï, gouverneur de la province située à l’ouest de l’Euphrate, Shethar-Boznaï et ses collègues, les préfets de la province à l’ouest de l’Euphrate. (5:6).",
+        "Le rapport qu’ils envoyèrent était conçu ainsi : (5:7).",
+        "Que le roi sache que nous nous sommes rendus dans le district de Juda jusqu’au grand temple de Dieu. Cet édifice est en cours de reconstruction en pierres de taille. Du bois est encastré dans les murs. Ce travail se poursuit avec soin et progresse bien grâce aux efforts des constructeurs. (5:8).",
+        "Nous avons interrogé les responsables parmi eux et nous leur avons demandé : Qui vous a donné l’autorisation de rebâtir ce sanctuaire et de relever ces murs ? (5:9).",
+        "Nous leur avons aussi demandé leurs noms pour te les faire connaître, et nous avons noté par écrit ces noms des hommes qui sont à leur tête. (5:10).",
+        "Voici la réponse qu’ils nous ont faite : Nous sommes les serviteurs du Dieu du ciel et de la terre et nous reconstruisons le temple qui avait été bâti et achevé il y a bien longtemps par un grand roi d’Israël. (5:11).",
+        "Mais comme nos ancêtres ont irrité le Dieu du ciel, celui-ci les a livrés au pouvoir du Chaldéen Nabuchodonosor, roi de Babylone. Ce roi a détruit ce temple et déporté la population à Babylone. (5:12).",
+        "Cependant, la première année du règne de Cyrus, roi de Babylone, le roi Cyrus a donné par un édit l’ordre de rebâtir ce temple. (5:13).",
+        "Et même, le roi Cyrus a retiré du temple de Babylone les objets d’or et d’argent que Nabuchodonosor avait emportés du temple de Jérusalem et qu’il avait transférés dans le temple de Babylone. Il les a donnés au nommé Sheshbatsar qu’il avait désigné comme gouverneur, (5:14).",
+        "et il lui a ordonné d’emporter ces objets et de les déposer dans le temple de Jérusalem, en stipulant que le temple devait être rebâti sur son ancien emplacement. (5:15).",
+        "Ce Sheshbatsar est donc venu ici et il a posé les nouvelles fondations du temple de Dieu qui est à Jérusalem. Depuis lors, et jusqu’à ce jour, ce temple est en reconstruction mais les travaux ne sont pas encore achevés. (5:16).",
+        "Maintenant, si l’empereur le trouve bon, que l’on fasse des recherches dans les archives royales là-bas, à Babylone pour voir s’il y a bien eu de la part du roi Cyrus un édit ordonnant la reconstruction de ce temple à Jérusalem. Puis que le roi veuille nous communiquer sa volonté à ce sujet. » (5:17)."
+      ],
+      "crossRefs": [
+        "Aggée 1-2 — Encouragement prophétique à rebâtir le temple.",
+        "Zacharie 3-4 — Visions de Josué le prêtre et de Zorobabel.",
+        "2 Rois 25:8-17 — Destruction du temple de Salomon.",
+        "Daniel 6:29 — Le règne de Darius mentionné.",
+        "1 Esdras 5-7 (deutérocanonique) — Récit parallèle de l'opposition et de la reconstruction."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gouverneur de Juda, descendant de David. Le nom signifie peut-être « semence de Babylone »."
+        },
+        {
+          "term": "Josué",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Grand prêtre des rapatriés. La même forme nominale que « Jésus » en grec."
+        },
+        {
+          "term": "Pâque",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fête commémorant la délivrance d'Égypte, célébrée à nouveau après l'exil."
+        }
+      ],
+      "keyTakeaway": "L'autel est rebâti, le temple est achevé malgré l'opposition, et le peuple célèbre la Pâque et la fête des Pains sans levain."
+    },
+    {
+      "id": "ezra-6",
+      "title": "🏛️ Esdras 6",
+      "refs": [
+        "Ezra 6:1-22"
+      ],
+      "summaryBullets": [
+        "Là-dessus, l’empereur Darius donna l’ordre de faire des recherches dans la bibliothèque où étaient déposés les trésors à Babylone. (6:1).",
+        "Et l’on trouva dans Ecbatane, la capitale de la province de Médie, un rouleau sur lequel il était écrit : (6:2).",
+        "« La première année du roi Cyrus, le roi Cyrus a promulgué ce décret concernant le temple de Jérusalem : Le temple doit être reconstruit pour être un lieu où l’on offre des sacrifices. Ses fondements seront rétablis. Il aura trente mètres de haut et autant de large. (6:3).",
+        "On fera alterner trois rangées de pierres de taille et une rangée de poutres de bois. Les frais seront couverts par la trésorerie royale. (6:4).",
+        "De plus, les objets d’or et d’argent du temple que Nabuchodonosor a enlevés du temple de Jérusalem et transportés à Babylone, doivent être restitués. Qu’ils soient rapportés au temple de Jérusalem où ils étaient et déposés dans le temple. (6:5).",
+        "Maintenant toi, Thathnaï, gouverneur de la province située à l’ouest de l’Euphrate, toi, Shethar-Boznaï, et vous leurs collègues, préfets de la province à l’ouest du Fleuve, n’intervenez plus dans cette affaire. (6:6).",
+        "Laissez se poursuivre les travaux de reconstruction de ce temple. Que le gouverneur des Juifs et leurs responsables le rebâtissent sur son ancien emplacement. (6:7).",
+        "Voici quel décret je promulgue : Vous adopterez la ligne de conduite suivante vis-à-vis des responsables des Juifs en vue de la reconstruction de ce temple : Les dépenses en seront exactement couvertes par les recettes royales provenant des impôts de la province située à l’ouest de l’Euphrate. Elles seront payées à ces hommes sans interruption des versements. (6:8).",
+        "Vous fournirez aussi chaque jour aux prêtres de Jérusalem tout ce qui est nécessaire pour les holocaustes du Dieu du ciel : de jeunes taureaux, des béliers et des agneaux, ainsi que du froment, du sel, du vin et de l’huile. Vous le leur remettrez selon leur demande et sans négligence, (6:9).",
+        "afin qu’ils offrent des sacrifices apaisants au Dieu du ciel et qu’ils prient pour la vie du roi et de ses fils. (6:10).",
+        "Je décrète encore ceci : Si quelqu’un ose transgresser cet ordre, on arrachera de sa maison une poutre pour l’y pendre, et l’on transformera sa demeure en un tas de décombres. (6:11).",
+        "Que le Dieu qui réside là détruise tout roi et tout peuple qui osera faire un geste pour passer outre à ce décret en détruisant ce temple qui est à Jérusalem ; Moi, Darius, j’ai promulgué ce décret. Qu’il soit exactement exécuté. » (6:12).",
+        "Alors Thathnaï, gouverneur de la province à l’ouest de l’Euphrate, Shethar-Boznaï et leurs collègues se conformèrent exactement aux instructions envoyées par le roi Darius. (6:13).",
+        "Les responsables des Juifs continuèrent à bâtir et réussirent dans leur entreprise, stimulés par les messages des prophètes Aggée et Zacharie, descendant d’Iddo. Ils achevèrent la construction conformément à l’ordre du Dieu d’Israël et aux ordres de Cyrus, de Darius et d’Artaxerxès, empereur de Perse. (6:14).",
+        "Le Temple fut terminé le troisième jour du mois d’Adar, la sixième année du règne de l’empereur Darius. (6:15).",
+        "Les Israélites, les prêtres, les lévites et tous ceux qui étaient revenus de l’exil célébrèrent dans la joie l’inauguration du Temple. (6:16).",
+        "Ils offrirent, pour l’inauguration de ce temple, cent taureaux, deux cents béliers, quatre cents agneaux et, en sacrifices pour le péché de tout Israël, douze boucs, selon le nombre des tribus d’Israël. (6:17).",
+        "On répartit aussi les prêtres selon leurs divisions et les lévites selon leurs classes pour le service de Dieu à Jérusalem, conformément à ce qui est écrit dans le livre de Moïse. (6:18).",
+        "Les rapatriés célébrèrent la Pâque le quatorzième jour du premier mois. (6:19).",
+        "Les prêtres et les lévites avaient procédé tous ensemble aux rites de purification, de sorte qu’ils étaient tous purs. Ils purent ainsi égorger les agneaux de la Pâque pour tous les anciens déportés, pour leurs frères les prêtres et pour eux-mêmes. (6:20).",
+        "Les Israélites revenus de la captivité mangèrent la Pâque avec tous ceux qui avaient rejeté les pratiques impures des gens des autres peuples du pays et qui s’étaient associés à eux pour se tourner vers l’Eternel, le Dieu d’Israël. (6:21).",
+        "Ensuite, ils célébrèrent dans la joie la fête des Pains sans levain pendant sept jours, car l’Eternel les avait réjouis en disposant favorablement à leur égard l’empereur d’Assyrie de manière à les encourager dans le travail de reconstruction du temple du Dieu d’Israël. (6:22)."
+      ],
+      "crossRefs": [
+        "Aggée 1-2 — Encouragement prophétique à rebâtir le temple.",
+        "Zacharie 3-4 — Visions de Josué le prêtre et de Zorobabel.",
+        "2 Rois 25:8-17 — Destruction du temple de Salomon.",
+        "Daniel 6:29 — Le règne de Darius mentionné.",
+        "1 Esdras 5-7 (deutérocanonique) — Récit parallèle de l'opposition et de la reconstruction."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gouverneur de Juda, descendant de David. Le nom signifie peut-être « semence de Babylone »."
+        },
+        {
+          "term": "Josué",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Grand prêtre des rapatriés. La même forme nominale que « Jésus » en grec."
+        },
+        {
+          "term": "Pâque",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fête commémorant la délivrance d'Égypte, célébrée à nouveau après l'exil."
+        }
+      ],
+      "keyTakeaway": "L'autel est rebâti, le temple est achevé malgré l'opposition, et le peuple célèbre la Pâque et la fête des Pains sans levain."
+    },
+    {
+      "id": "ezra-7",
+      "title": "📖 Esdras 7",
+      "refs": [
+        "Ezra 7:1-28"
+      ],
+      "summaryBullets": [
+        "Plus tard, sous le règne d’Artaxerxès, empereur de Perse, vivait un homme nommé Esdras. Ses ancêtres en ligne directe étaient Seraya, Azaria, Hilqiya, (7:1).",
+        "Shalloum, Tsadoq, Ahitoub, (7:2).",
+        "Amaria, Azaria, Merayoth, (7:3).",
+        "Zerahya, Ouzzi, Bouqqi, (7:4).",
+        "Abishoua, Phinéas, Eléazar, fils d’Aaron le grand-prêtre. (7:5).",
+        "Cet Esdras vint de Babylone. C’était un spécialiste de la Loi possédant une connaissance approfondie de la Loi de Moïse, que l’Eternel, le Dieu d’Israël, avait donnée à son peuple. L’Eternel son Dieu était avec Esdras, si bien que l’empereur lui accorda tout ce qu’il demandait. (7:6).",
+        "La septième année du règne d’Artaxerxès, un certain nombre d’Israélites : des prêtres et des lévites, des musiciens, des portiers et des desservants du Temple partirent pour Jérusalem. (7:7).",
+        "Esdras vint avec eux à Jérusalem au cinquième mois de la septième année du règne de l’empereur. (7:8).",
+        "Il avait fixé le départ de Babylone au premier jour du premier mois et il arriva à Jérusalem le premier jour du cinquième mois grâce à la protection bienveillante de son Dieu. (7:9).",
+        "En effet, Esdras prenait grand soin d’étudier la Loi de l’Eternel et de l’appliquer, ainsi que d’enseigner les lois et le droit aux Israélites. (7:10).",
+        "Voici la copie du document que l’empereur Artaxerxès remit à Esdras, le prêtre et spécialiste de la Loi, qui était versé dans la connaissance des lois et des commandements de l’Eternel, pour Israël : (7:11).",
+        "« Artaxerxès, le roi des rois, au prêtre Esdras, spécialiste de la Loi du Dieu du ciel, etc. (7:12).",
+        "J’ai donné ordre que tous les Israélites, les prêtres et les lévites qui résident dans mon royaume et qui désirent aller à Jérusalem aillent avec toi. (7:13).",
+        "Moi, le roi et mes sept conseillers, nous t’envoyons faire une enquête dans le territoire de Juda et à Jérusalem, pour voir comment y est observée la Loi de ton Dieu qui est entre tes mains. (7:14).",
+        "Tu es également chargé d’y apporter l’argent et l’or que le roi et ses conseillers ont offerts au Dieu d’Israël qui a sa demeure à Jérusalem. (7:15).",
+        "Tu emporteras aussi tout l’argent et l’or que tu auras collecté dans toute la province de Babylone et les dons volontaires faits par le peuple et les prêtres pour le temple de leur Dieu qui est à Jérusalem. (7:16).",
+        "Avec cet argent, tu auras soin d’acheter là-bas des taureaux, des béliers, des agneaux, avec les offrandes de céréales et de vin qui doivent les accompagner, et tu les offriras sur l’autel du temple de votre Dieu à Jérusalem. (7:17).",
+        "Quant au reste de l’argent et de l’or, vous en ferez ce que toi et tes compatriotes jugerez bon de faire, conformément à la volonté de votre Dieu. (7:18).",
+        "Tu déposeras devant le Dieu de Jérusalem les ustensiles du culte qui te seront remis pour le service du temple de ton Dieu. (7:19).",
+        "Concernant les autres dépenses qu’il te sera nécessaire d’effectuer pour le temple de ton Dieu, tu les feras payer par la trésorerie royale. (7:20).",
+        "Moi, l’empereur Artaxerxès, je donne l’ordre à tous les trésoriers de la province à l’ouest de l’Euphrate de faire exactement tout ce que le prêtre Esdras, spécialiste de la Loi du Dieu du ciel, vous demandera, (7:21).",
+        "jusqu’à concurrence de 3 500 kilogrammes d’argent, 45 000 litres de blé, 4 500 litres de vin, 4 500 litres d’huile et du sel à volonté. (7:22).",
+        "On se conformera scrupuleusement à tout ce qui est ordonné par le Dieu du ciel pour qu’il ne se mette pas en colère contre mon empire et contre mes descendants. (7:23).",
+        "Enfin, nous vous notifions qu’il n’est permis de prélever ni taxe, ni impôt, ni droit de péage sur aucun des prêtres, des lévites, des musiciens, des portiers, des desservants et des serviteurs de ce temple. (7:24).",
+        "Quant à toi, Esdras, nomme, conformément aux sages instructions de la Loi de ton Dieu que tu possèdes, des juges et des magistrats chargés de rendre la justice à tous ceux qui, dans la province à l’ouest de l’Euphrate, connaissent les lois de ton Dieu. Quant à ceux qui ne les connaissent pas, tu les leur feras connaître. (7:25).",
+        "Tous ceux qui n’observent pas exactement la Loi de ton Dieu et la loi de l’empereur, seront condamnés soit à la peine capitale, soit à l’exil, soit à la confiscation de leurs biens, soit à l’emprisonnement. » (7:26).",
+        "Béni soit l’Eternel, le Dieu de nos ancêtres, qui a disposé l’empereur à donner une telle splendeur au temple de l’Eternel à Jérusalem, (7:27).",
+        "et qui m’a témoigné sa bonté dans mes rapports avec l’empereur, ses conseillers, et tous les plus hauts fonctionnaires impériaux. Ainsi fortifié parce que l’Eternel mon Dieu était avec moi, j’ai pu rassembler des chefs d’Israël pour qu’ils partent avec moi. (7:28)."
+      ],
+      "crossRefs": [
+        "Deutéronome 17:18-20 — Le roi doit écrire et lire chaque jour la loi de Dieu ; Esdras incarne la dévotion à la Torah.",
+        "Néhémie 8:1-8 — Esdras lira plus tard la loi publiquement devant le peuple.",
+        "Psaume 119:9-16 — Aimer et garder la loi de Dieu.",
+        "Siracide 49:11-12 (deutérocanonique) — Esdras loué pour avoir restauré la loi après l'exil."
+      ],
+      "translationNotes": [
+        {
+          "term": "Scribe",
+          "original": "Hebrew: סֹפֵר (sofer) — Greek: γραμματεύς (grammateus) — Aramaic: ספר (safar)",
+          "note": "À l'origine « écrivain, compteur » ; au temps d'Esdras, un enseignant et interprète de la Torah."
+        },
+        {
+          "term": "Jeûne",
+          "original": "Hebrew: צוּם (tzum) — Greek: νηστεία (nēsteia) — Aramaic: צום (tzom)",
+          "note": "Abstinence de nourriture en signe d'humilité et de dépendance."
+        },
+        {
+          "term": "Loi",
+          "original": "Hebrew: תּוֹרָה (Torah) — Greek: νόμος (nomos) — Aramaic: אורייתא (orayta)",
+          "note": "Instruction ou enseignement de Dieu, au coeur de la mission d'Esdras."
+        }
+      ],
+      "keyTakeaway": "Esdras, prêtre et scribe, reçoit une commission royale, conduit une caravane avec des offrandes, nomme des Lévites, proclame un jeûne et ramène en toute sécurité le peuple et les trésors du temple à Jérusalem."
+    },
+    {
+      "id": "ezra-8",
+      "title": "📖 Esdras 8",
+      "refs": [
+        "Ezra 8:1-36"
+      ],
+      "summaryBullets": [
+        "Voici, avec leurs généalogies, la liste des groupes familiaux qui rentrèrent avec moi de Babylone sous le règne du roi Artaxerxès : (8:1).",
+        "Des descendants de Phinéas : Guershom ; (8:2).",
+        "des descendants de Shekania, (8:3).",
+        "des descendants de Pahath-Moab : Elyehoénaï, fils de Zerahya, à la tête de 200 hommes ; (8:4).",
+        "des descendants de Zattou : Shekania, fils de Yahaziel, à la tête de 300 hommes ; (8:5).",
+        "des descendants d’Adîn : Ebed, fils de Jonathan, à la tête de 50 hommes ; (8:6).",
+        "des descendants d’Elam : Esaïe, fils d’Atalia, à la tête de 70 hommes ; (8:7).",
+        "des descendants de Shephatia : Zebadia fils de Michaël, à la tête de 80 hommes ; (8:8).",
+        "des descendants de Joab : Abdias, fils de Yehiel, à la tête de 218 hommes ; (8:9).",
+        "des descendants de Bani : Shelomith, fils de Yosiphia, à la tête de 160 hommes ; (8:10).",
+        "des descendants de Bébaï : Zacharie, fils de Bébaï, à la tête de 28 hommes ; (8:11).",
+        "des descendants d’Azgad : Yohanân, fils de Haqqathan, à la tête de 110 hommes ; (8:12).",
+        "des descendants d’Adoniqam : les derniers qui s’appelaient Eliphéleth, Yeïel et Shemaya, à la tête de 60 hommes ; (8:13).",
+        "des descendants de Bigvaï : Outaï et Zabboud, à la tête de 70 hommes. (8:14).",
+        "Je les rassemblai près de la rivière qui coule en direction d’Ahava et nous y avons campé pendant trois jours. Je passai le peuple et les prêtres en revue, et je constatai qu’il n’y avait parmi eux aucun lévite. (8:15).",
+        "Alors je convoquai les chefs Eliézer, Ariel, Shemaya, Elnathan, Yarib, Elnathan, Nathan, Zacharie et Meshoullam, ainsi que les deux savants Yoyarib et Elnathan. (8:16).",
+        "Je leur demandai de se rendre chez Iddo, le chef de la localité de Kasiphia, et je leur indiquai ce qu’ils devaient lui dire, à lui et à ses collaborateurs, les desservants du Temple qui se trouvaient à Kasiphia, pour nous envoyer des assistants pour le temple de notre Dieu. (8:17).",
+        "Et comme notre Dieu était avec nous et nous témoignait sa bonté, ils nous amenèrent Shérébia, un homme avisé d’entre les descendants de Mahli, descendant de Lévi, lui-même fils d’Israël, accompagné de dix-huit hommes de sa parenté, dont ses fils, (8:18).",
+        "ainsi que Hashabia et Esaïe, descendants de Merari, avec vingt hommes de leur parenté dont leurs fils. (8:19).",
+        "Ils ramenèrent également 220 desservants du Temple, descendants de ceux que David et ses ministres avaient nommés pour assister les lévites. Tous avaient été nommément désignés. (8:20).",
+        "Là, au bord du fleuve Ahava, je proclamai un jeûne pour que nous nous humiliions devant notre Dieu afin de lui demander qu’il nous accorde, pour nous, pour nos enfants et pour tous nos biens, de voyager en toute sécurité. (8:21).",
+        "J’aurais eu honte de demander à l’empereur de nous fournir une escorte de soldats et de cavaliers pour nous protéger contre l’ennemi pendant la route, car nous avions dit à l’empereur que notre Dieu protégeait avec bonté tous ceux qui lui font confiance, tandis que sa colère pèse lourdement sur tous ceux qui l’abandonnent. (8:22).",
+        "C’est pour cela que nous avons jeûné et demandé cette faveur à notre Dieu, et il a exaucé notre prière. (8:23).",
+        "Ensuite, je désignai comme chefs douze des principaux prêtres, Shérébia, Hashabia et dix de leurs compagnons. (8:24).",
+        "Je pesai devant eux l’argent, l’or et les objets de valeur offerts pour le Temple par l’empereur, ses conseillers et ses ministres, ainsi que par tous les Israélites qui se trouvaient à Babylone. (8:25).",
+        "Je leur confiai ainsi vingt tonnes d’argent, trois tonnes d’objets en argent et trois tonnes d’or, (8:26).",
+        "vingt coupes d’or valant mille pièces d’or, deux magnifiques vases de bronze poli, aussi précieux que de l’or. (8:27).",
+        "Puis je leur dis : Vous êtes consacrés à l’Eternel, ces objets sont sacrés, cet argent et cet or sont des dons volontaires à l’Eternel, le Dieu de vos ancêtres. (8:28).",
+        "Veillez soigneusement sur ces trésors, ils sont sous votre garde jusqu’au jour où vous les pèserez devant les chefs des prêtres et les lévites, ainsi que devant les chefs des groupes familiaux d’Israël à Jérusalem, dans les locaux annexes du temple de l’Eternel. (8:29).",
+        "Les prêtres et les lévites prirent l’or, l’argent et les objets de valeur qui avaient été pesés, pour les porter à Jérusalem au temple de notre Dieu. (8:30).",
+        "Le douzième jour du premier mois, nous avons quitté le fleuve Ahava pour nous rendre à Jérusalem. Tout au long de la route, notre Dieu a pris soin de nous en nous protégeant des attaques d’ennemis et des embuscades des pillards. (8:31).",
+        "A notre arrivée à Jérusalem, nous avons pris trois jours de repos. (8:32).",
+        "Le quatrième jour, nous avons pesé l’argent, l’or et les objets de valeur dans le Temple, pour les remettre entre les mains de Merémoth, fils d’Urie, le prêtre ; il était accompagné d’Eléazar, fils de Phinéas, et des lévites Yozabad, fils de Josué, et Noadia, fils de Binnouï. (8:33).",
+        "Tout fut compté et pesé et le poids total fut consigné par écrit à ce moment-là. (8:34).",
+        "Les déportés qui revenaient d’exil offrirent alors en holocauste au Dieu d’Israël pour l’ensemble du peuple : 12 taureaux, 96 béliers, 77 agneaux et 12 boucs en sacrifice pour le péché. On offrit tous ces holocaustes à l’Eternel. (8:35).",
+        "Puis ils transmirent le document contenant les décrets impériaux aux satrapes de l’empereur et aux gouverneurs de la province à l’ouest de l’Euphrate. Ceux-ci accordèrent alors leur soutien au peuple pour la construction du temple de Dieu. (8:36)."
+      ],
+      "crossRefs": [
+        "Deutéronome 17:18-20 — Le roi doit écrire et lire chaque jour la loi de Dieu ; Esdras incarne la dévotion à la Torah.",
+        "Néhémie 8:1-8 — Esdras lira plus tard la loi publiquement devant le peuple.",
+        "Psaume 119:9-16 — Aimer et garder la loi de Dieu.",
+        "Siracide 49:11-12 (deutérocanonique) — Esdras loué pour avoir restauré la loi après l'exil."
+      ],
+      "translationNotes": [
+        {
+          "term": "Scribe",
+          "original": "Hebrew: סֹפֵר (sofer) — Greek: γραμματεύς (grammateus) — Aramaic: ספר (safar)",
+          "note": "À l'origine « écrivain, compteur » ; au temps d'Esdras, un enseignant et interprète de la Torah."
+        },
+        {
+          "term": "Jeûne",
+          "original": "Hebrew: צוּם (tzum) — Greek: νηστεία (nēsteia) — Aramaic: צום (tzom)",
+          "note": "Abstinence de nourriture en signe d'humilité et de dépendance."
+        },
+        {
+          "term": "Loi",
+          "original": "Hebrew: תּוֹרָה (Torah) — Greek: νόμος (nomos) — Aramaic: אורייתא (orayta)",
+          "note": "Instruction ou enseignement de Dieu, au coeur de la mission d'Esdras."
+        }
+      ],
+      "keyTakeaway": "Esdras, prêtre et scribe, reçoit une commission royale, conduit une caravane avec des offrandes, nomme des Lévites, proclame un jeûne et ramène en toute sécurité le peuple et les trésors du temple à Jérusalem."
+    },
+    {
+      "id": "ezra-9",
+      "title": "🙏 Esdras 9",
+      "refs": [
+        "Ezra 9:1-15"
+      ],
+      "summaryBullets": [
+        "Quand tout cela fut terminé, quelques chefs d’Israël m’abordèrent en disant : Ni le peuple d’Israël, ni les prêtres, ni les lévites ne se sont séparés des gens du pays et n’ont rompu avec leurs pratiques abominables. Ils se sont conduits exactement comme les Cananéens, les Hittites, les Phéréziens, les Yebousiens, les Ammonites, les Moabites, les Egyptiens et les Amoréens, (9:1).",
+        "car ils ont épousé les filles de ces étrangers et les ont données en mariage à leurs fils. Ainsi la descendance sainte s’est mêlée aux peuples de ces pays. Les chefs et les dirigeants se sont les premiers rendus coupables d’une telle infidélité. (9:2).",
+        "Lorsque j’appris cela, je déchirai mon vêtement et mon manteau, je m’arrachai les cheveux et la barbe, et je m’assis là, accablé. (9:3).",
+        "Autour de moi se réunirent, à cause de cette infidélité des anciens exilés, tous ceux qui étaient respectueux des paroles du Dieu d’Israël. Je restai ainsi assis, accablé, jusqu’à l’offrande du soir. (9:4).",
+        "Puis, au moment de l’offrande du soir, je sortis de mon abattement et me relevai. Je portais encore mon vêtement et mon manteau déchirés : je tombai à genoux, et je tendis les mains vers l’Eternel mon Dieu. (9:5).",
+        "Je lui dis : Mon Dieu, je suis trop rempli de honte et de confusion pour oser lever les regards vers toi, ô mon Dieu, car nos péchés se sont multipliés jusqu’à nous submerger, et nos fautes se sont accumulées et montent jusqu’au ciel. (9:6).",
+        "Depuis l’époque de nos ancêtres jusqu’à ce jour, nous avons été extrêmement coupables. C’est à cause de nos fautes que nous, nos rois et nos prêtres, nous avons été livrés au pouvoir des rois des nations, pour être tués, déportés ou pillés, et pour que la honte couvre encore aujourd’hui nos visages. (9:7).",
+        "Cependant, Eternel, notre Dieu, tu nous as fait la grâce de laisser quelques survivants de notre peuple subsister et, depuis peu, de nous accorder un endroit pour nous établir dans ton saint pays. Toi, notre Dieu, tu illumines ainsi nos yeux de ta lumière et tu nous redonnes un peu de vie au milieu de notre servitude. (9:8).",
+        "Car nous sommes des esclaves, mais notre Dieu ne nous a pas abandonnés dans notre servitude. Il nous a manifesté de la faveur dans nos rapports avec les empereurs perses, pour ranimer notre énergie afin que nous rebâtissions le temple de notre Dieu et que nous le relevions de ses ruines. Il nous a procuré comme un mur protecteur en Juda et à Jérusalem. (9:9).",
+        "Maintenant, après ce qui est arrivé, que dirons-nous, ô notre Dieu ? Car nous avons désobéi aux commandements (9:10).",
+        "que tu nous avais transmis par l’intermédiaire de tes serviteurs les prophètes. Tu nous avais prévenus en disant : « Le pays dans lequel vous entrez pour en prendre possession est souillé par l’impureté des populations de ces contrées qui l’ont rempli d’un bout à l’autre de leurs pratiques abominables et de leurs actions impures. (9:11).",
+        "Ne donnez donc pas vos filles en mariage à leurs fils et ne prenez pas leurs filles pour vos fils. Ne vous préoccupez jamais de leur prospérité ou de leur bien-être si vous voulez devenir forts, manger les meilleurs produits du pays et le laisser pour toujours en héritage à vos descendants. » (9:12).",
+        "Tout ce qui nous est arrivé est la conséquence de nos mauvaises actions et de notre grande culpabilité. Et encore, ô notre Dieu, tu ne nous as pas punis comme le méritaient nos péchés, tu as laissé subsister ce reste de notre peuple. (9:13).",
+        "Alors, après cela, pouvons-nous recommencer à transgresser tes commandements et à nous allier par mariage à des gens de ces peuples qui se livrent à des pratiques si abominables ? Ne vas-tu pas t’enflammer de colère contre nous au point de nous exterminer, sans nous laisser ni reste ni rescapés ? (9:14).",
+        "Eternel, Dieu d’Israël, tu es juste, et tu as laissé subsister un reste de notre peuple jusqu’à ce jour. Nous voici devant toi, avec notre culpabilité, alors que personne ne peut tenir ainsi en ta présence. (9:15)."
+      ],
+      "crossRefs": [
+        "Deutéronome 7:1-4 — Commandement de ne pas contracter de mariages avec les nations païennes.",
+        "Néhémie 13:23-27 — Néhémie affronte le même problème plus tard.",
+        "Malachie 2:10-16 — Reproches contre les mariages infidèles.",
+        "Tobit 4:12-13 (deutérocanonique) — Mise en garde contre le mariage hors d'Israël.",
+        "1 Esdras 8-9 (deutérocanonique) — Récit parallèle de la prière et de la réforme d'Esdras."
+      ],
+      "translationNotes": [
+        {
+          "term": "Femmes étrangères",
+          "original": "Hebrew: נָשִׁים נָכְרִיּוֹת (nashim nokhriyyot) — Greek: γυναῖκες ἀλλότριαι (gynaikes allotriai)",
+          "note": "Femmes d'autres nations liées à des religions étrangères. La préoccupation est la fidélité à l'alliance, non l'ethnie seule."
+        },
+        {
+          "term": "Confession",
+          "original": "Hebrew: תּוֹדָה (todah) — Greek: ἐξομολόγησις (exomologēsis)",
+          "note": "Reconnaître publiquement sa culpabilité devant Dieu."
+        },
+        {
+          "term": "Alliance",
+          "original": "Hebrew: בְּרִית (berit) — Greek: διαθήκη (diathēkē) — Aramaic: קיימא (qayyama)",
+          "note": "Accord contraignant ; ici, un réengagement à suivre les commandements de Dieu."
+        }
+      ],
+      "keyTakeaway": "Esdras déplore les mariages avec des femmes étrangères, prie en confession, et le peuple conclut une alliance pour renvoyer ces mariages, avec les noms des concernés consignés."
+    },
+    {
+      "id": "ezra-10",
+      "title": "🙏 Esdras 10",
+      "refs": [
+        "Ezra 10:1-44"
+      ],
+      "summaryBullets": [
+        "Pendant qu’Esdras, prosterné devant le temple de Dieu, faisait cette prière et cette confession en pleurant, une foule très nombreuse d’hommes, de femmes et d’enfants israélites s’était rassemblée autour de lui, et tous pleuraient abondamment. (10:1).",
+        "Alors Shekania, fils de Yehiel, un descendant d’Elam, prit la parole et dit à Esdras : Nous avons été infidèles envers notre Dieu en épousant des femmes étrangères prises parmi les peuples du pays. Mais malgré cela, il reste encore une espérance pour Israël dans cette affaire. (10:2).",
+        "Engageons-nous maintenant par une alliance avec notre Dieu à renvoyer toutes ces femmes avec leurs enfants, conformément au conseil de mon seigneur Esdras et de ceux qui respectent les commandements de notre Dieu. Que la Loi soit observée ! (10:3).",
+        "Lève-toi, car c’est à toi de régler cette affaire. Mais nous sommes avec toi. Prends courage et agis ! (10:4).",
+        "Alors Esdras se releva et fit prêter serment aux chefs des prêtres, des lévites et de tout Israël d’agir comme il venait d’être dit. Ils en firent tous le serment. (10:5).",
+        "Puis Esdras quitta la cour du Temple et se rendit dans une salle de Yohanân, fils d’Eliashib, où il passa la nuit ; mais il refusa toute nourriture et toute boisson car il menait deuil à cause de la faute grave des anciens exilés. (10:6).",
+        "On fit ensuite publier dans Juda et à Jérusalem un ordre enjoignant à tous les anciens déportés de se réunir à Jérusalem. (10:7).",
+        "Les chefs et les responsables du peuple avaient décidé que ceux qui ne se présenteraient pas dans un délai de trois jours verraient tous leurs biens voués à l’Eternel et seraient eux-mêmes exclus de la communauté des anciens déportés. (10:8).",
+        "Alors tous les hommes de Juda et de Benjamin se rassemblèrent à Jérusalem dans les trois jours. C’était le vingtième jour du neuvième mois. Tout le peuple se tenait dans la cour du Temple en tremblant, à cause de cette affaire, et aussi parce qu’il pleuvait à verse. (10:9).",
+        "Esdras le prêtre se leva et leur dit : Vous avez commis une faute grave en épousant des femmes étrangères, et vous avez rendu Israël encore plus coupable. (10:10).",
+        "Reconnaissez donc maintenant votre péché devant l’Eternel, le Dieu de vos pères, et conformez-vous à sa volonté ! Séparez-vous de la population du pays et de vos femmes d’origine étrangère ! (10:11).",
+        "Toute l’assemblée répondit à haute voix : Tu as raison. Notre devoir est d’agir comme tu l’as dit ! (10:12).",
+        "Mais nous sommes nombreux et c’est la saison des pluies ; nous ne pouvons pas rester ici en plein air. D’ailleurs, cette affaire ne peut pas se régler en un jour ni même en deux, car il y en a beaucoup parmi nous qui ont commis une faute dans ce domaine. (10:13).",
+        "Il vaudrait mieux que nos chefs restent ici pour représenter l’assemblée. Tous ceux qui, dans nos villes, ont épousé des femmes étrangères se présenteront à tour de rôle aux dates qu’on leur fixera, avec des responsables et des juges de leurs villes respectives, jusqu’à ce que l’ardente colère de notre Dieu provoquée par cette affaire se soit détournée de nous. (10:14).",
+        "Seuls Jonathan, fils d’Asaël, et Yahzia, fils de Thiqva, soutenus par Meshoullam et par le lévite Shabthaï, s’opposèrent à cette mesure. (10:15).",
+        "Mais la majorité des anciens déportés s’y conformèrent. Esdras, le prêtre, choisit, en les désignant nommément, des chefs des groupes familiaux. Ceux-ci commencèrent à siéger le premier jour du dixième mois pour examiner les cas. (10:16).",
+        "Ils achevèrent de régler la situation de tous les hommes qui avaient épousé des femmes étrangères le premier jour du premier mois. (10:17).",
+        "Voici quels étaient les prêtres qui avaient épousé des femmes étrangères : (10:18).",
+        "Ils s’engagèrent par une poignée de main à renvoyer leurs femmes et à offrir un bélier en sacrifice pour expier leur faute. (10:19).",
+        "Des descendants d’Immer : (10:20).",
+        "des descendants de Harim : (10:21).",
+        "des descendants de Pashhour : (10:22).",
+        "Parmi les lévites : (10:23).",
+        "Parmi les musiciens : (10:24).",
+        "Parmi les autres Israélites : (10:25).",
+        "Des descendants d’Elam : (10:26).",
+        "Des descendants de Zatthou : (10:27).",
+        "Des descendants de Bébaï : (10:28).",
+        "Des descendants de Bani : (10:29).",
+        "Des descendants de Pahath-Moab : (10:30).",
+        "Des descendants de Harim : (10:31).",
+        "Benjamin, Mallouk et Shemaria. (10:32).",
+        "Des descendants de Hashoum : (10:33).",
+        "Des descendants de Bani : (10:34).",
+        "Benaya, Bédia, Kelouhou, (10:35).",
+        "Vania, Merémoth, Eliashib, (10:36).",
+        "Mattania, Matthnaï, Yaasaï, (10:37).",
+        "Bani, Binnouï, Shimeï, (10:38).",
+        "Shélémia, Nathan, Adaya, (10:39).",
+        "Maknadbaï, Shashaï, Sharaï, (10:40).",
+        "Azaréel, Shélémia, Shemaria, (10:41).",
+        "Shalloum, Amaria et Joseph. (10:42).",
+        "Des descendants de Nébo : (10:43).",
+        "Tous ces hommes avaient épousé des femmes étrangères, et plusieurs en avaient eu des enfants. (10:44)."
+      ],
+      "crossRefs": [
+        "Deutéronome 7:1-4 — Commandement de ne pas contracter de mariages avec les nations païennes.",
+        "Néhémie 13:23-27 — Néhémie affronte le même problème plus tard.",
+        "Malachie 2:10-16 — Reproches contre les mariages infidèles.",
+        "Tobit 4:12-13 (deutérocanonique) — Mise en garde contre le mariage hors d'Israël.",
+        "1 Esdras 8-9 (deutérocanonique) — Récit parallèle de la prière et de la réforme d'Esdras."
+      ],
+      "translationNotes": [
+        {
+          "term": "Femmes étrangères",
+          "original": "Hebrew: נָשִׁים נָכְרִיּוֹת (nashim nokhriyyot) — Greek: γυναῖκες ἀλλότριαι (gynaikes allotriai)",
+          "note": "Femmes d'autres nations liées à des religions étrangères. La préoccupation est la fidélité à l'alliance, non l'ethnie seule."
+        },
+        {
+          "term": "Confession",
+          "original": "Hebrew: תּוֹדָה (todah) — Greek: ἐξομολόγησις (exomologēsis)",
+          "note": "Reconnaître publiquement sa culpabilité devant Dieu."
+        },
+        {
+          "term": "Alliance",
+          "original": "Hebrew: בְּרִית (berit) — Greek: διαθήκη (diathēkē) — Aramaic: קיימא (qayyama)",
+          "note": "Accord contraignant ; ici, un réengagement à suivre les commandements de Dieu."
+        }
+      ],
+      "keyTakeaway": "Esdras déplore les mariages avec des femmes étrangères, prie en confession, et le peuple conclut une alliance pour renvoyer ces mariages, avec les noms des concernés consignés."
+    }
+  ]
+}

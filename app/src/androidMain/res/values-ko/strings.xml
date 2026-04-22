@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">성경 동반자</string>
+    <string name="widget_description">다음 성경 절기 날짜를 표시합니다</string>
+    <string name="widget_calendar_description">히브리력과 에세네력에 따른 성경 절기 달력</string>
+    <string name="shortcut_search">검색</string>
+    <string name="shortcut_bookmarks">북마크</string>
+    <string name="shortcut_continue">계속 읽기</string>
+</resources>

@@ -1,0 +1,694 @@
+{
+  "id": "ecclesiastes",
+  "title": "Eclesiastés",
+  "stories": [
+    {
+      "id": "ecclesiastes-1",
+      "title": "🌬️ Eclesiastés 1",
+      "refs": [
+        "Ecclesiastes 1:1-18"
+      ],
+      "summaryBullets": [
+        "Palabras del Predicador, hijo de David, rey en Jerusalén (1:1).",
+        "Vanidad de vanidades, dice el Predicador; vanidad de vanidades, todo es vanidad (1:2).",
+        "¿Qué provecho tiene el hombre de todo su trabajo con que se afana debajo del sol? (1:3).",
+        "Generación va y generación viene, mas la tierra siempre permanece (1:4).",
+        "Sale el sol y se pone el sol, y se apresura a volver al lugar de donde salió (1:5).",
+        "El viento sopla hacia el sur y gira hacia el norte; va girando y girando, y a sus giros vuelve el viento (1:6).",
+        "Todos los ríos van al mar, pero el mar no se llena; al lugar donde los ríos van, allí vuelven a correr (1:7).",
+        "Todas las cosas están llenas de hastío; el hombre no puede expresarlo; el ojo no se sacia de ver, ni el oído se llena de oír (1:8).",
+        "Lo que fue, eso será, y lo que se hizo, eso se hará; no hay nada nuevo debajo del sol (1:9).",
+        "¿Hay algo de lo cual se pueda decir: Mira, esto es nuevo? Ya existió en los siglos que nos precedieron (1:10).",
+        "No hay memoria de lo que precedió, ni tampoco de lo que vendrá habrá memoria entre los que vendrán después (1:11).",
+        "Yo, el Predicador, fui rey sobre Israel en Jerusalén (1:12).",
+        "Y apliqué mi corazón a inquirir y a investigar con sabiduría todo lo que se hace debajo del cielo; penosa tarea que Dios ha dado a los hijos de los hombres para que se ocupen en ella (1:13).",
+        "He visto todo lo que se hace debajo del sol, y he aquí, todo es vanidad y un correr tras el viento (1:14).",
+        "Lo torcido no se puede enderezar, y lo que falta no se puede contar (1:15).",
+        "Dije en mi corazón: He adquirido una sabiduría grande, superior a todos los que fueron antes de mí en Jerusalén, y mi corazón ha tenido gran experiencia de sabiduría y conocimiento (1:16).",
+        "Y apliqué mi corazón a conocer la sabiduría y a conocer la locura y la insensatez; comprendí que también esto es un correr tras el viento (1:17).",
+        "Porque en mucha sabiduría hay mucha molestia, y quien aumenta el conocimiento aumenta el dolor (1:18)."
+      ],
+      "crossRefs": [
+        "Eclesiastés 12:8 — El estribillo se repite: “Vanidad de vanidades, todo es vanidad.”",
+        "Salmo 90:9–10 — Los días humanos pasan rápidamente y terminan con un suspiro.",
+        "Job 7:6–7 — Los días son más veloces que la lanzadera del tejedor; la vida es un soplo.",
+        "Jeremías 2:13 — Imagen del agua: cisternas rotas que no retienen agua (contraste con arroyos que fluyen)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Qohélet",
+          "original": "Hebrew: קֹהֶלֶת (Qohelet) — Greek (LXX): Ἐκκλησιαστής (Ekklēsiastēs) — Aramaic: קהלת",
+          "note": "Título que significa 'el que convoca/reúne la asamblea.' No se traduce como nombre personal en el texto más allá de la línea del título."
+        },
+        {
+          "term": "Vanidad / vapor",
+          "original": "Hebrew: הֶבֶל (hevel, ‘breath/vapor’) — Greek (LXX): ματαιότης (mataiotēs) — Aramaic: הֲבֵל (havel)",
+          "note": "Término repetido en el libro. Las traducciones varían: vanidad, vapor, soplo."
+        },
+        {
+          "term": "Provecho",
+          "original": "Hebrew: יִתְרוֹן (yitron) — Greek (LXX): περισσεία / ὠφέλεια — Aramaic: ייתרון",
+          "note": "Ventaja o excedente. Se pregunta en 1:3 respecto al trabajo."
+        },
+        {
+          "term": "Bajo el sol",
+          "original": "Hebrew: תַּחַת הַשָּׁמֶשׁ (taḥat ha-shamesh) — Greek (LXX): ὑπὸ τὸν ἥλιον — Aramaic: תחת שמשא",
+          "note": "Frase de lugar repetida para las actividades descritas en el libro."
+        }
+      ],
+      "keyTakeaway": "Qohélet enuncia el lema sobre la vanidad, observa ciclos que se repiten, cuestiona el provecho del trabajo bajo el sol y señala que la memoria se desvanece."
+    },
+    {
+      "id": "ecclesiastes-2",
+      "title": "🧪 Eclesiastés 2",
+      "refs": [
+        "Ecclesiastes 2:1-26"
+      ],
+      "summaryBullets": [
+        "Dije en mi corazón: Ven ahora, te probaré con el placer; goza de lo bueno; pero he aquí, también esto era vanidad (2:1).",
+        "Dije de la risa: Es locura; y del placer: ¿De qué sirve? (2:2).",
+        "Investigué con mi corazón cómo alegrar mi cuerpo con vino, guiándome aún mi corazón con sabiduría, y cómo aferrar la insensatez, hasta ver qué era lo bueno para los hijos de los hombres hacer debajo del cielo los contados días de su vida (2:3).",
+        "Emprendí grandes obras: me edifiqué casas, me planté viñas (2:4).",
+        "Me hice huertos y jardines, y planté en ellos toda clase de árboles frutales (2:5).",
+        "Me hice estanques de aguas para regar de ellos el bosque donde crecían los árboles (2:6).",
+        "Compré siervos y siervas y tuve siervos nacidos en casa; también posesiones de ganado vacuno y ovejuno, más que todos los que fueron antes de mí en Jerusalén (2:7).",
+        "Reuní también para mí plata y oro y tesoros de reyes y de provincias; me procuré cantores y cantoras, y los deleites de los hijos de los hombres: muchas concubinas (2:8).",
+        "Fui engrandecido y superé a todos los que fueron antes de mí en Jerusalén; además, mi sabiduría permanecía conmigo (2:9).",
+        "No negué a mis ojos cosa alguna que desearan; no privé a mi corazón de placer alguno, porque mi corazón se alegraba de todo mi trabajo, y esta fue mi recompensa por todo mi trabajo (2:10).",
+        "Luego consideré todas las obras que mis manos habían hecho y el trabajo que había empleado en hacerlas, y he aquí, todo era vanidad y un correr tras el viento, y no había provecho debajo del sol (2:11).",
+        "Entonces me volví para considerar la sabiduría, la locura y la insensatez; pues ¿qué puede hacer el hombre que venga después del rey? Solo lo que ya se ha hecho (2:12).",
+        "Vi entonces que hay más provecho en la sabiduría que en la insensatez, como hay más provecho en la luz que en las tinieblas (2:13).",
+        "El sabio tiene sus ojos en la cabeza, pero el necio anda en tinieblas; sin embargo, comprendí que un mismo suceso les acontece a todos (2:14).",
+        "Entonces dije en mi corazón: Lo que le sucede al necio me sucederá también a mí; ¿para qué, pues, he sido tan sabio? Y dije en mi corazón que también esto era vanidad (2:15).",
+        "Porque del sabio, como del necio, no hay recuerdo perdurable, ya que en los días venideros todo será olvidado; ¡cómo muere el sabio igual que el necio! (2:16).",
+        "Aborrecí la vida, porque la obra que se hace debajo del sol me era penosa, pues todo es vanidad y un correr tras el viento (2:17).",
+        "Aborrecí todo mi trabajo con que me había afanado debajo del sol, pues debo dejarlo al hombre que vendrá después de mí (2:18).",
+        "¿Y quién sabe si será sabio o necio? Sin embargo, se enseñoreará de todo mi trabajo en el que me afané y en el que usé mi sabiduría debajo del sol; también esto es vanidad (2:19).",
+        "Así que me volví y entregué mi corazón a la desesperación por todo el trabajo de mis labores debajo del sol (2:20).",
+        "Porque hay quien ha trabajado con sabiduría, conocimiento y destreza, y tiene que dejar todo para que otro que no trabajó en ello lo disfrute; también esto es vanidad y un gran mal (2:21).",
+        "¿Qué tiene el hombre de todo su trabajo y de la fatiga de su corazón con que se afana debajo del sol? (2:22).",
+        "Porque todos sus días son dolores, y su trabajo es pesadumbre; aun de noche su corazón no reposa; también esto es vanidad (2:23).",
+        "No hay cosa mejor para el hombre sino que coma y beba y halle gozo en su trabajo; también vi que esto es de la mano de Dios (2:24).",
+        "Porque ¿quién comerá o quién se alegrará sin Él? (2:25).",
+        "Porque al hombre que le agrada, Dios le da sabiduría, conocimiento y gozo; pero al pecador le da la tarea de recoger y amontonar para darlo al que agrada a Dios; también esto es vanidad y un correr tras el viento (2:26)."
+      ],
+      "crossRefs": [
+        "1 Reyes 7:1–12 — Proyectos reales de construcción en Jerusalén.",
+        "1 Reyes 10:14–23 — Riqueza, plata, oro y bienes acumulados en Jerusalén.",
+        "Eclesiastés 6:2 — Riqueza no disfrutada por su dueño, mencionada en otro lugar del libro.",
+        "Salmo 127:1–2 — Trabajo y desvelo sin el don del descanso."
+      ],
+      "translationNotes": [
+        {
+          "term": "Persecución del viento",
+          "original": "Hebrew: רְעוּת רוּחַ (reʿut ruach) — Greek (LXX): προαίρεσις/νεφέλης (var.) — Aramaic: רעות רוחא",
+          "note": "Expresión idiomática para una persecución fútil (1:14) (2:11) (2:17) (2:26)."
+        },
+        {
+          "term": "Shiddah y shiddoth",
+          "original": "Hebrew: שִׁדָּה וְשִׁדּוֹת (shiddah ve-shiddot) — Greek (LXX): ᾠδούς (singers) in some traditions — Aramaic: שדתא ושדותא",
+          "note": "Términos raros en (2:8); las traducciones varían (por ejemplo, 'concubinas', 'muchos deleites'). Se conservan aquí como la expresión hebrea."
+        },
+        {
+          "term": "Comer y beber",
+          "original": "Hebrew: אֱכֹל וּשְׁתֵה (ekhol u-shteh) — Greek (LXX): φάγειν καὶ πεῖν — Aramaic: אכול ושתי",
+          "note": "Fórmula recurrente en Eclesiastés para el disfrute sencillo asociado al trabajo (2:24–25)."
+        }
+      ],
+      "keyTakeaway": "Qohélet relata pruebas a escala real de sabiduría, placer y trabajo, las encuentra como vapor ante el destino común, y declara que el disfrute del trabajo es dado de la mano de Dios."
+    },
+    {
+      "id": "ecclesiastes-3",
+      "title": "⏳ Eclesiastés 3",
+      "refs": [
+        "Ecclesiastes 3:1-22"
+      ],
+      "summaryBullets": [
+        "Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora (3:1).",
+        "Tiempo de nacer y tiempo de morir; tiempo de plantar y tiempo de arrancar lo plantado (3:2).",
+        "Tiempo de matar y tiempo de curar; tiempo de destruir y tiempo de edificar (3:3).",
+        "Tiempo de llorar y tiempo de reír; tiempo de endechar y tiempo de danzar (3:4).",
+        "Tiempo de esparcir piedras y tiempo de juntarlas; tiempo de abrazar y tiempo de abstenerse de abrazar (3:5).",
+        "Tiempo de buscar y tiempo de perder; tiempo de guardar y tiempo de desechar (3:6).",
+        "Tiempo de rasgar y tiempo de coser; tiempo de callar y tiempo de hablar (3:7).",
+        "Tiempo de amar y tiempo de aborrecer; tiempo de guerra y tiempo de paz (3:8).",
+        "¿Qué provecho tiene el que trabaja de aquello en que se afana? (3:9).",
+        "He visto la tarea que Dios ha dado a los hijos de los hombres para que se ocupen en ella (3:10).",
+        "Todo lo hizo hermoso en su tiempo; también ha puesto la eternidad en el corazón del hombre, sin que este pueda descubrir la obra que Dios ha hecho desde el principio hasta el fin (3:11).",
+        "Comprendí que no hay cosa mejor para ellos que alegrarse y hacer el bien mientras vivan (3:12).",
+        "Y también que es don de Dios que todo hombre coma y beba y goce del fruto de todo su trabajo (3:13).",
+        "Comprendí que todo lo que Dios hace será perpetuo; no hay nada que añadirle ni nada que quitarle; Dios lo ha hecho así para que los hombres le teman (3:14).",
+        "Lo que fue, ya es; y lo que ha de ser, ya fue; y Dios busca lo que ha pasado (3:15).",
+        "Además vi debajo del sol que en el lugar del juicio había impiedad, y en el lugar de la justicia había iniquidad (3:16).",
+        "Dije en mi corazón: Al justo y al impío los juzgará Dios, porque hay un tiempo para todo asunto y para toda obra (3:17).",
+        "Dije en mi corazón en cuanto a los hijos de los hombres, que Dios los prueba para que vean que ellos mismos son como bestias (3:18).",
+        "Porque lo que les sucede a los hijos de los hombres y lo que les sucede a las bestias es lo mismo; como muere el uno, así muere el otro; todos tienen un mismo aliento, y el hombre no tiene ventaja sobre las bestias, porque todo es vanidad (3:19).",
+        "Todo va a un mismo lugar; todo fue hecho del polvo, y todo vuelve al polvo (3:20).",
+        "¿Quién sabe si el espíritu del hombre sube arriba y el espíritu de la bestia desciende abajo a la tierra? (3:21).",
+        "Así vi que no hay cosa mejor para el hombre que alegrarse en sus obras, porque esa es su porción; porque ¿quién lo traerá para que vea lo que será después de él? (3:22)."
+      ],
+      "crossRefs": [
+        "Salmo 31:15 — “En tu mano están mis tiempos.”",
+        "Job 14:5 — Los días humanos y sus límites están determinados.",
+        "Eclesiastés 8:6–7 — Hay un tiempo y un juicio para cada asunto, pero la gente no sabe lo que vendrá.",
+        "Hechos 17:26 — Tiempos y límites señalados (enunciado en un contexto posterior)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Tiempo / sazón",
+          "original": "Hebrew: עֵת / זְמָן (ʿet / zeman) — Greek (LXX): καιρός — Aramaic: זמן",
+          "note": "Términos para una ocasión señalada (3:1–8)."
+        },
+        {
+          "term": "Matar (Eclesiastés 3:3)",
+          "original": "Hebrew: לַהֲרֹג (laharog), Qal infinitive of הָרַג (harag) — Greek (LXX): ἀποκτεῖναι — Aramaic: למקטל",
+          "note": "Verbo general que significa 'matar/dar muerte', usado para distintos tipos de matanza (por ejemplo, guerra, ejecución judicial e incluso matanza ilícita en algunos contextos). Es más amplio que רָצַח (ratsach, 'asesinar'), el verbo del Sexto Mandamiento (Éxodo 20:13) (Deuteronomio 5:17). El poema enumera tiempos contrastados ('tiempo de matar... tiempo de sanar') como observaciones sobre la experiencia humana y el momento oportuno; la línea en sí no especifica un estatus moral."
+        },
+        {
+          "term": "Hermoso en su tiempo",
+          "original": "Hebrew: יָפֶה בְּעִתּוֹ (yafeh beʿitto) — Greek (LXX): καλὸν ἐν καιρῷ — Aramaic: שפיר בזמניה",
+          "note": "Declaración sobre el momento apropiado/adecuado (3:11)."
+        },
+        {
+          "term": "'Olam en su corazón",
+          "original": "Hebrew: הָעֹלָם (ha-ʿolam) — Greek (LXX): τὸν αἰῶνα — Aramaic: עלמא",
+          "note": "Término traducido como 'eternidad/era.' El versículo dice que los humanos no pueden descubrir la obra de Dios de principio a fin (3:11)."
+        },
+        {
+          "term": "Teman delante de Él",
+          "original": "Hebrew: יִירְאוּ מִלְּפָנָיו (yirʾu milfanav) — Greek (LXX): φοβῶνται ἀπὸ προσώπου αὐτοῦ — Aramaic: ידחלון מן קדםוי",
+          "note": "Resultado declarado en 3:14 respecto a la obra perdurable de Dios."
+        }
+      ],
+      "keyTakeaway": "Qohélet enumera tiempos señalados, declara que la obra perdurable de Dios y el don del disfrute coexisten con la incapacidad humana de descubrir Su obra total."
+    },
+    {
+      "id": "ecclesiastes-4",
+      "title": "⚖️ Eclesiastés 4",
+      "refs": [
+        "Ecclesiastes 4:1-16"
+      ],
+      "summaryBullets": [
+        "De nuevo vi todas las opresiones que se hacen debajo del sol; y he aquí las lágrimas de los oprimidos, y no tenían consolador; y en la mano de sus opresores estaba el poder, y no tenían consolador (4:1).",
+        "Y pensé que los muertos que ya han muerto son más dichosos que los vivos que aún viven (4:2).",
+        "Pero mejor que ambos es el que aún no ha existido y no ha visto las malas obras que se hacen debajo del sol (4:3).",
+        "Vi también que todo trabajo y toda excelencia de obras despierta la envidia del hombre contra su prójimo; también esto es vanidad y un correr tras el viento (4:4).",
+        "El necio cruza los brazos y come su propia carne (4:5).",
+        "Mejor es un puñado con reposo que dos puñados con trabajo y un correr tras el viento (4:6).",
+        "De nuevo vi vanidad debajo del sol: una persona que está sola, sin tener hijo ni hermano, y sin embargo no tiene fin todo su trabajo, ni sus ojos se sacian de riquezas (4:7).",
+        "¿Para quién trabajo yo y privo a mi alma de gozo? También esto es vanidad y penosa tarea (4:8).",
+        "Mejor son dos que uno, porque tienen mejor recompensa por su trabajo (4:9).",
+        "Porque si caen, el uno levantará a su compañero; pero ¡ay del que está solo cuando cae y no tiene otro que lo levante! (4:10).",
+        "También si dos se acuestan juntos, se calientan; pero ¿cómo se calentará uno solo? (4:11).",
+        "Y si alguno prevalece contra uno solo, dos le resistirán; un cordón de tres hilos no se rompe fácilmente (4:12).",
+        "Mejor es un joven pobre y sabio que un rey viejo e insensato que ya no sabe dejarse aconsejar (4:13).",
+        "Porque de la cárcel salió para ser rey, aunque en su propio reino había nacido pobre (4:14).",
+        "Vi a todos los vivientes que andan debajo del sol con el joven sucesor que se pondrá en lugar del rey (4:15).",
+        "No tenía fin la muchedumbre de todo el pueblo al que él dirigía; sin embargo, los que vengan después no se alegrarán de él; ciertamente, también esto es vanidad y un correr tras el viento (4:16)."
+      ],
+      "crossRefs": [
+        "Génesis 3:19 — “Polvo eres, y al polvo volverás.”",
+        "Salmo 82:1–4 — Juicio en la asamblea; defender al débil y al necesitado.",
+        "Proverbios 14:30 — La envidia pudre los huesos (cf. 4:4).",
+        "Job 30:28–31 — Lamento por la opresión y el dolor bajo el sol."
+      ],
+      "translationNotes": [
+        {
+          "term": "Opresión / opresor",
+          "original": "Hebrew: עֹשֶׁק / עֹשֵׁק (ʿosheq / ʿosheq) — Greek (LXX): συκοφαντία/καταδυναστεία — Aramaic: עשוקא",
+          "note": "Usado para la explotación o el abuso de poder (4:1)."
+        },
+        {
+          "term": "Envidia",
+          "original": "Hebrew: קִנְאָה (qinʾāh) — Greek: ζῆλος — Aramaic: קנאה",
+          "note": "Señalada como impulsora del trabajo y la habilidad en 4:4."
+        },
+        {
+          "term": "Cuerda de tres hilos",
+          "original": "Hebrew: חוּט הַמְשֻׁלָּשׁ (ḥut ha-meshullash) — Greek: τὸ τριπλοῦν σχοινίον",
+          "note": "Imagen de la fortaleza en el compañerismo (4:12)."
+        }
+      ],
+      "keyTakeaway": "Qohélet observa injusticia y opresión, el destino común de la muerte, el trabajo impulsado por la envidia, la ventaja del compañerismo, y la corta memoria de las multitudes respecto a los gobernantes."
+    },
+    {
+      "id": "ecclesiastes-5",
+      "title": "🕍 Eclesiastés 5",
+      "refs": [
+        "Ecclesiastes 5:1-20"
+      ],
+      "summaryBullets": [
+        "Guarda tu pie cuando vas a la casa de Dios; acercarse para oír es mejor que ofrecer el sacrificio de los necios, porque no saben que hacen mal (5:1).",
+        "No te precipites con tu boca, ni tu corazón se apresure a proferir palabra delante de Dios, porque Dios está en el cielo y tú sobre la tierra; por tanto, sean pocas tus palabras (5:2).",
+        "Porque de la mucha ocupación viene el sueño, y de las muchas palabras, la voz del necio (5:3).",
+        "Cuando hagas voto a Dios, no tardes en cumplirlo, porque Él no se complace en los necios; cumple lo que prometes (5:4).",
+        "Mejor es que no hagas voto a que hagas voto y no lo cumplas (5:5).",
+        "No dejes que tu boca te haga pecar, ni digas delante del mensajero que fue un error; ¿por qué ha de airarse Dios por tu voz y destruir la obra de tus manos? (5:6).",
+        "Porque cuando los sueños aumentan y las palabras se multiplican, hay vanidad; pero tú, teme a Dios (5:7).",
+        "Si ves en la provincia la opresión del pobre y la violación del derecho y de la justicia, no te asombres, porque sobre el alto vigila otro más alto, y hay aún más altos sobre ellos (5:8).",
+        "Pero esto es ganancia para una tierra en todo sentido: un rey dedicado a los campos cultivados (5:9).",
+        "El que ama el dinero no se saciará de dinero, ni el que ama la abundancia se saciará con sus ganancias; también esto es vanidad (5:10).",
+        "Cuando los bienes aumentan, también aumentan los que los consumen; ¿y qué provecho tiene su dueño sino verlos con sus ojos? (5:11).",
+        "Dulce es el sueño del trabajador, coma poco o coma mucho; pero la hartura del rico no le deja dormir (5:12).",
+        "Hay un mal grave que he visto debajo del sol: riquezas guardadas por su dueño para su propio mal (5:13).",
+        "Y esas riquezas se pierden en un mal negocio; y si engendra un hijo, nada tiene en su mano (5:14).",
+        "Desnudo como salió del vientre de su madre, así volverá, y nada podrá llevarse del fruto de su trabajo (5:15).",
+        "También esto es un mal grave: tal como vino, así se irá; ¿y qué provecho tiene el que trabaja para el viento? (5:16).",
+        "Además, todos sus días come en tinieblas con mucha molestia, enfermedad e ira (5:17).",
+        "He aquí lo que he visto que es bueno y conveniente: comer y beber y gozar del fruto de todo el trabajo con que uno se afana debajo del sol los contados días de su vida que Dios le ha dado, porque esta es su porción (5:18).",
+        "Todo hombre a quien Dios ha dado riquezas y bienes y poder para disfrutarlos, y aceptar su porción y alegrarse en su trabajo — esto es don de Dios (5:19).",
+        "Porque no se acordará mucho de los días de su vida, ya que Dios le mantiene ocupado con la alegría de su corazón (5:20)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 23:21–23 — Los votos al SEÑOR deben ser cumplidos.",
+        "Números 30:2 — El hombre no quebrantará su palabra; hará conforme a todo lo que prometió.",
+        "Proverbios 10:19 — En las muchas palabras no falta la transgresión.",
+        "Mateo 5:33–37 — Sobre los juramentos y el hablar veraz."
+      ],
+      "translationNotes": [
+        {
+          "term": "Sacrificio de los necios",
+          "original": "Hebrew: זֶבַח כְּסִילִים (zevaḥ kesilim) — Greek (LXX): θυσία ἀφρόνων — Aramaic: דבח דכסילא",
+          "note": "Una ofrenda presentada sin entendimiento ni obediencia (5:1)."
+        },
+        {
+          "term": "Voto",
+          "original": "Hebrew: נֶדֶר (neder) — Greek: εὐχή — Aramaic: נידרא (nidra)",
+          "note": "Una promesa comprometida ante Dios que obliga al que la pronuncia (5:4–5)."
+        },
+        {
+          "term": "Mensajero",
+          "original": "Hebrew: מַלְאָךְ (malʾakh, ‘messenger’) — Greek: ἄγγελος — Aramaic: מלאכא",
+          "note": "Oficial o mensajero nombrado ante quien no deben presentarse excusas (5:6)."
+        },
+        {
+          "term": "Teme a Dios",
+          "original": "Hebrew: יְרָא אֶת־הָאֱלֹהִים (yera et-ha’Elohim) — Greek: φοβοῦ τὸν θεόν — Aramaic: דחל לאלהא",
+          "note": "Imperativo que cierra el pasaje en 5:7."
+        }
+      ],
+      "keyTakeaway": "En la casa de Dios se ordena escuchar y usar pocas palabras, y los votos deben cumplirse sin excusa ante el mensajero."
+    },
+    {
+      "id": "ecclesiastes-6",
+      "title": "💰 Eclesiastés 6",
+      "refs": [
+        "Ecclesiastes 6:1-12"
+      ],
+      "summaryBullets": [
+        "Hay un mal que he visto debajo del sol, y pesa mucho sobre los hombres (6:1).",
+        "Un hombre a quien Dios da riquezas, bienes y honra, y nada le falta de todo lo que desea, pero Dios no le da poder para disfrutarlo, sino que un extraño lo disfruta; esto es vanidad y un mal grave (6:2).",
+        "Si un hombre engendra cien hijos y vive muchos años, de modo que los días de sus años son muchos, pero su alma no se sacia de lo bueno y además carece de sepultura, digo que un abortivo es mejor que él (6:3).",
+        "Porque viene en vanidad y se va en tinieblas, y en tinieblas su nombre queda cubierto (6:4).",
+        "Además, no ha visto el sol ni ha conocido nada; sin embargo, tiene más reposo que aquel (6:5).",
+        "Aunque viviera mil años dos veces y no gozara de lo bueno — ¿no van todos al mismo lugar? (6:6).",
+        "Todo el trabajo del hombre es para su boca, y sin embargo su apetito no se sacia (6:7).",
+        "Porque ¿qué ventaja tiene el sabio sobre el necio? ¿Y qué tiene el pobre que sabe conducirse ante los vivientes? (6:8).",
+        "Mejor es lo que ven los ojos que el vagar del deseo; también esto es vanidad y un correr tras el viento (6:9).",
+        "Lo que fue, ya ha sido nombrado, y se sabe lo que es el hombre, y que no puede contender con uno más fuerte que él (6:10).",
+        "Cuantas más palabras, más vanidad; ¿y qué provecho tiene el hombre? (6:11).",
+        "Porque ¿quién sabe lo que es bueno para el hombre mientras vive los contados días de su vana vida, los cuales pasa como sombra? Porque ¿quién puede decirle al hombre lo que será después de él debajo del sol? (6:12)."
+      ],
+      "crossRefs": [
+        "Job 1:21 — “Desnudo salí… desnudo volveré” (cf. 5:15).",
+        "Proverbios 23:4–5 — Las riquezas echan alas y vuelan.",
+        "Salmo 39:6 — La gente acumula riqueza sin saber quién la recogerá.",
+        "1 Timoteo 6:6–10 — Sobre el deseo de riquezas y la contentación."
+      ],
+      "translationNotes": [
+        {
+          "term": "Opresión / violación de la justicia",
+          "original": "Hebrew: עֹשֶׁק / גֶּזֶל מִשְׁפָּט (ʿosheq / gezel mishpat) — Greek (LXX): καταδυναστεία / ἀφαίρεσις κρίσεως",
+          "note": "Señaladas como observables en una provincia (5:8)."
+        },
+        {
+          "term": "Provecho/ventaja de la tierra",
+          "original": "Hebrew: יִתְרוֹן הָאָרֶץ (yitron ha’aretz) — Greek: περισσεία τῆς γῆς",
+          "note": "Versículo difícil; declara un beneficio/ventaja ligado al campo/tierra (5:9)."
+        },
+        {
+          "term": "Mal negocio",
+          "original": "Hebrew: בְּעִנְיַן רָע (beʿinyan raʿ) — Greek (LXX): ἐν πραγματεία κακή",
+          "note": "Expresión para una situación de negocios perjudicial que causa pérdida (5:14)."
+        },
+        {
+          "term": "Niño nacido muerto",
+          "original": "Hebrew: נֵפֶל (nefel) — Greek (LXX): ἔκτρωμα — Aramaic: נפלא",
+          "note": "Usado para la comparación en 6:3–5."
+        },
+        {
+          "term": "Apetito / alma",
+          "original": "Hebrew: נֶפֶשׁ (nephesh) — Greek (LXX): ψυχή — Aramaic: נפש",
+          "note": "En 6:7–9 se declara que el 'apetito/alma' no se llena."
+        }
+      ],
+      "keyTakeaway": "Qohélet señala la burocracia escalonada, la insatisfacción de la riqueza, las pérdidas que vacían las manos, el don de disfrutar la propia porción, y la riqueza no disfrutada que queda para otros."
+    },
+    {
+      "id": "ecclesiastes-7",
+      "title": "🧭 Eclesiastés 7",
+      "refs": [
+        "Ecclesiastes 7:1-29"
+      ],
+      "summaryBullets": [
+        "Mejor es la buena fama que el buen ungüento, y el día de la muerte que el día del nacimiento (7:1).",
+        "Mejor es ir a la casa del luto que ir a la casa del banquete, porque aquello es el fin de todo hombre, y el que vive lo pondrá en su corazón (7:2).",
+        "Mejor es la tristeza que la risa, porque con la tristeza del rostro se enmienda el corazón (7:3).",
+        "El corazón de los sabios está en la casa del luto, pero el corazón de los necios en la casa de la alegría (7:4).",
+        "Mejor es oír la reprensión del sabio que oír la canción de los necios (7:5).",
+        "Porque como el crepitar de los espinos debajo de la olla, así es la risa de los necios; también esto es vanidad (7:6).",
+        "Ciertamente la opresión enloquece al sabio, y el soborno corrompe el corazón (7:7).",
+        "Mejor es el fin de un asunto que su principio; mejor es el paciente de espíritu que el altivo de espíritu (7:8).",
+        "No te apresures en tu espíritu a enojarte, porque el enojo reposa en el seno de los necios (7:9).",
+        "No digas: ¿Por qué fueron los días pasados mejores que estos? Porque no es de sabiduría que preguntes esto (7:10).",
+        "Buena es la sabiduría con herencia, y provechosa para los que ven el sol (7:11).",
+        "Porque la protección de la sabiduría es como la protección del dinero, y la ventaja del conocimiento es que la sabiduría da vida a los que la poseen (7:12).",
+        "Considera la obra de Dios: ¿quién podrá enderezar lo que Él ha torcido? (7:13).",
+        "En el día del bien, goza del bien; y en el día del mal, considera: Dios hizo tanto lo uno como lo otro, para que el hombre no descubra nada de lo que será después de él (7:14).",
+        "En mi vana vida he visto de todo: hay justo que perece en su justicia, y hay impío que prolonga su vida en su maldad (7:15).",
+        "No seas demasiado justo ni te hagas demasiado sabio; ¿por qué habrías de destruirte? (7:16).",
+        "No seas demasiado impío ni seas necio; ¿por qué habrías de morir antes de tu tiempo? (7:17).",
+        "Bueno es que tomes esto y que de aquello tampoco apartes tu mano, porque el que teme a Dios saldrá bien de todo (7:18).",
+        "La sabiduría fortalece al sabio más que diez gobernantes que haya en una ciudad (7:19).",
+        "Ciertamente no hay hombre justo en la tierra que haga el bien y nunca peque (7:20).",
+        "No pongas tu corazón en todo lo que se dice, no sea que oigas a tu siervo maldecirte (7:21).",
+        "Porque tu corazón sabe que muchas veces tú también has maldecido a otros (7:22).",
+        "Todo esto lo probé con sabiduría; dije: Seré sabio; pero la sabiduría estaba lejos de mí (7:23).",
+        "Lejos está lo que fue, y profundo, muy profundo; ¿quién lo hallará? (7:24).",
+        "Volví mi corazón a conocer, a investigar y a buscar la sabiduría y la razón de las cosas, y a conocer la maldad de la insensatez y la locura de la necedad (7:25).",
+        "Y hallé algo más amargo que la muerte: la mujer cuyo corazón es lazos y redes, y cuyas manos son ataduras; el que agrada a Dios escapará de ella, pero el pecador será atrapado por ella (7:26).",
+        "He aquí lo que hallé, dice el Predicador, sumando una cosa a otra para hallar la razón de las cosas (7:27).",
+        "Lo que mi alma ha buscado repetidamente y no he hallado: un hombre entre mil hallé, pero mujer entre todas estas no he hallado (7:28).",
+        "He aquí, solo esto hallé: que Dios hizo al hombre recto, pero ellos buscaron muchas perversiones (7:29)."
+      ],
+      "crossRefs": [
+        "Eclesiastés 1:15 — Lo torcido no puede enderezarse.",
+        "Job 2:10 — “¿Recibiremos de Dios el bien, y no recibiremos el mal?”",
+        "Proverbios 13:1 — El hijo sabio oye la instrucción de su padre (tema de la reprensión).",
+        "Proverbios 14:29 — El que tarda en airarse tiene gran entendimiento."
+      ],
+      "translationNotes": [
+        {
+          "term": "Buen nombre / aceite precioso (juego de palabras)",
+          "original": "Hebrew: שֵׁם (shem, ‘name’) / שֶׁמֶן (shemen, ‘oil’) — Greek (LXX): ὄνομα / ἔλαιον — Aramaic: שמא / משחא",
+          "note": "Juego de sonidos en 7:1 que resalta el valor de la reputación por encima del lujo."
+        },
+        {
+          "term": "Casa del luto",
+          "original": "Hebrew: בֵּית־אֵבֶל (beit-ʾevel) — Greek: οἶκος πένθους — Aramaic: בית אבלא",
+          "note": "Lugar de duelo; contrastado con la casa del banquete (7:2)."
+        },
+        {
+          "term": "Crepitar de espinos bajo la olla",
+          "original": "Hebrew: קוֹל הַסִּירִים תַּחַת הַסִּיר (qol ha-sirīm taḥat ha-sir) — Greek: φωνὴ τῶν ἀκανθῶν ὑποκάτω τοῦ λέβητος",
+          "note": "Quemazón rápida y ruidosa de arbustos espinosos; imagen de la risa superficial (7:6)."
+        },
+        {
+          "term": "Enderezar / torcer",
+          "original": "Hebrew: לְתַקֵּן / עִוֵּת (letakken / ʿivvet) — Greek: κατορθῶσαι / διεστραμμένον — Aramaic: תקן / עוות",
+          "note": "Declaración sobre la naturaleza inalterable de la obra de Dios (7:13)."
+        }
+      ],
+      "keyTakeaway": "Esta sección presenta dichos de 'mejor es' sobre el duelo, la reprensión, la paciencia y la ira, y declara que lo que Dios ha torcido no puede enderezarse y que Él hace tanto la prosperidad como la adversidad."
+    },
+    {
+      "id": "ecclesiastes-8",
+      "title": "👑 Eclesiastés 8",
+      "refs": [
+        "Ecclesiastes 8:1-17"
+      ],
+      "summaryBullets": [
+        "¿Quién como el sabio? ¿Y quién conoce la interpretación de las cosas? La sabiduría del hombre ilumina su rostro, y la dureza de su semblante se cambia (8:1).",
+        "Yo digo: guarda el mandamiento del rey, por causa del juramento a Dios (8:2).",
+        "No te apresures a irte de su presencia; no persistas en cosa mala, porque él hace todo lo que le place (8:3).",
+        "Porque la palabra del rey tiene autoridad, y ¿quién le dirá: ¿Qué haces? (8:4).",
+        "El que guarda el mandamiento no experimentará mal alguno, y el corazón del sabio conocerá el tiempo y el modo adecuado (8:5).",
+        "Porque para todo asunto hay un tiempo y un modo, aunque la aflicción del hombre pesa mucho sobre él (8:6).",
+        "Porque no sabe lo que ha de ser; pues ¿quién le dirá cómo será? (8:7).",
+        "No hay hombre que tenga poder sobre el viento para retenerlo, ni poder sobre el día de la muerte; no hay licencia en la guerra, ni la maldad librará a los que la practican (8:8).",
+        "Todo esto observé mientras aplicaba mi corazón a todo lo que se hace debajo del sol, cuando el hombre tiene dominio sobre el hombre para su mal (8:9).",
+        "Vi entonces que los impíos eran sepultados; solían ir y venir del lugar santo, y eran alabados en la ciudad donde habían hecho tales cosas; también esto es vanidad (8:10).",
+        "Porque la sentencia contra una mala obra no se ejecuta prontamente, por eso el corazón de los hijos de los hombres está plenamente resuelto a hacer el mal (8:11).",
+        "Aunque el pecador haga el mal cien veces y prolongue sus días, con todo yo sé que les irá bien a los que temen a Dios, porque temen delante de Él (8:12).",
+        "Pero no le irá bien al impío, ni prolongará sus días como una sombra, porque no teme delante de Dios (8:13).",
+        "Hay una vanidad que se hace sobre la tierra: que hay justos a quienes les sucede como si hicieran obras de impíos, y hay impíos a quienes les sucede como si hicieran obras de justos; dije que también esto es vanidad (8:14).",
+        "Y alabo la alegría, porque no hay cosa mejor para el hombre debajo del sol que comer y beber y alegrarse, y esto le acompañará en su trabajo los días de su vida que Dios le ha dado debajo del sol (8:15).",
+        "Cuando apliqué mi corazón a conocer la sabiduría y a ver la tarea que se hace en la tierra, cómo ni de día ni de noche los ojos ven el sueño (8:16).",
+        "Entonces vi toda la obra de Dios, que el hombre no puede descubrir la obra que se hace debajo del sol; por mucho que el hombre se afane buscando, no la hallará; y aunque el sabio diga que la conoce, no podrá descubrirla (8:17)."
+      ],
+      "crossRefs": [
+        "Proverbios 24:21 — Teme al SEÑOR y al rey.",
+        "Eclesiastés 3:1; Eclesiastés 3:17 — Un tiempo y un juicio para cada asunto.",
+        "Job 14:5 — Los días del hombre están determinados; límites sobre la vida.",
+        "Daniel 2:37 — La autoridad real descrita como otorgada (contexto de poder)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Guardar el mandamiento del rey",
+          "original": "Hebrew: שְׁמוֹר פִּי־מֶלֶךְ (shemor pî-melech, ‘keep the mouth/command of the king’) — Greek: φύλασσε τὸ ῥῆμα βασιλέως — Aramaic: נטר פוּם מלכא",
+          "note": "Modismo de 'boca' para decreto real (8:2)."
+        },
+        {
+          "term": "Juramento a Dios",
+          "original": "Hebrew: שְׁבֻעַת אֱלֹהִים (shevuʿat Elohim) — Greek: ὅρκος θεοῦ — Aramaic: שבועתא דאלהא",
+          "note": "Fundamento para la obediencia declarado en 8:2."
+        },
+        {
+          "term": "Viento / espíritu (ambiguo)",
+          "original": "Hebrew: רוּחַ (ruaḥ) — Greek: πνεῦμα — Aramaic: רוחא",
+          "note": "La palabra puede significar 'viento' o 'espíritu'; 8:8 declara la falta de control sobre él y sobre la muerte."
+        },
+        {
+          "term": "No hay licencia en la guerra",
+          "original": "Hebrew: וְאֵין מִשְׁלַחַת בַּמִּלְחָמָה (veʾein mishlaḥat ba-milḥamah) — Greek: οὐκ ἔστιν ἀπαλλαγὴ ἐν πολέμῳ",
+          "note": "Expresión que indica que no hay exención; el conflicto obliga a los que están involucrados (8:8)."
+        }
+      ],
+      "keyTakeaway": "Esta unidad instruye guardar el mandamiento del rey, declara que la sabiduría discierne tiempo y juicio, y dice que nadie controla el espíritu/viento ni el día de la muerte; el poder sobre otros puede resultar en su propio daño."
+    },
+    {
+      "id": "ecclesiastes-9",
+      "title": "⏳ Eclesiastés 9",
+      "refs": [
+        "Ecclesiastes 9:1-18"
+      ],
+      "summaryBullets": [
+        "Todo esto lo puse en mi corazón, examinándolo todo: que los justos y los sabios y sus obras están en la mano de Dios; si es amor o si es odio, el hombre no lo sabe; ambos están delante de él (9:1).",
+        "Todo les sucede igual: el mismo suceso acontece al justo y al impío, al bueno y al malo, al limpio y al inmundo, al que ofrece sacrificio y al que no lo ofrece; como es el bueno, así es el pecador, y el que jura como el que teme el juramento (9:2).",
+        "Este es un mal en todo lo que se hace debajo del sol: que un mismo suceso acontece a todos; además, el corazón de los hijos de los hombres está lleno de mal, y la locura está en su corazón mientras viven, y después van a los muertos (9:3).",
+        "Pero para el que está unido con todos los vivientes hay esperanza, porque mejor es perro vivo que león muerto (9:4).",
+        "Porque los vivos saben que han de morir, pero los muertos nada saben, ni tienen más recompensa, porque su memoria es olvidada (9:5).",
+        "Su amor, su odio y su envidia ya perecieron, y nunca más tendrán parte en todo lo que se hace debajo del sol (9:6).",
+        "Anda, come tu pan con gozo, y bebe tu vino con alegre corazón, porque Dios ya ha aprobado tus obras (9:7).",
+        "En todo tiempo sean blancas tus vestiduras, y nunca falte ungüento sobre tu cabeza (9:8).",
+        "Goza de la vida con la mujer que amas, todos los días de tu vana vida que te son dados debajo del sol, porque esa es tu porción en la vida y en tu trabajo con que te afanas debajo del sol (9:9).",
+        "Todo lo que tu mano halle que hacer, hazlo con todas tus fuerzas, porque en el Seol adonde vas no hay obra ni pensamiento ni conocimiento ni sabiduría (9:10).",
+        "De nuevo vi debajo del sol que no es de los ligeros la carrera, ni de los valientes la batalla, ni de los sabios el pan, ni de los entendidos la riqueza, ni de los hábiles el favor, sino que tiempo y ocasión les acontecen a todos (9:11).",
+        "Porque el hombre tampoco conoce su tiempo; como los peces que son atrapados en una red mala, y como las aves que son prendidas en el lazo, así son atrapados los hijos de los hombres en el tiempo malo, cuando cae de repente sobre ellos (9:12).",
+        "También vi esta sabiduría debajo del sol, que me pareció grande (9:13).",
+        "Había una pequeña ciudad con pocos hombres, y vino contra ella un gran rey que la sitió y levantó contra ella grandes baluartes (9:14).",
+        "Pero se halló en ella un hombre pobre y sabio, que con su sabiduría libró la ciudad; mas nadie se acordó de aquel hombre pobre (9:15).",
+        "Entonces dije: Mejor es la sabiduría que la fuerza, aunque la sabiduría del pobre es menospreciada y sus palabras no son escuchadas (9:16).",
+        "Las palabras del sabio oídas en quietud son mejores que el grito del que gobierna entre los necios (9:17).",
+        "Mejor es la sabiduría que las armas de guerra, pero un solo pecador destruye mucho bien (9:18)."
+      ],
+      "crossRefs": [
+        "Salmo 49:10–12 — El sabio y el necio mueren por igual.",
+        "Génesis 3:19 — Volver al polvo (mortalidad).",
+        "Job 14:14 — Cuestionamiento sobre la vida después de la muerte (horizonte de la muerte).",
+        "Lucas 12:19–20 — Demanda repentina de la vida de alguien (paralelo narrativo posterior)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא (Sheʾola)",
+          "note": "El reino de los muertos; mencionado en 9:10."
+        },
+        {
+          "term": "Vestiduras blancas / aceite en la cabeza",
+          "original": "Hebrew: בְּגָדִים לְבָנִים / שֶׁמֶן (begadim levanim / shemen) — Greek: ἱμάτια λευκά / ἔλαιον",
+          "note": "Imágenes de fiesta y gozo en 9:8."
+        },
+        {
+          "term": "Tiempo y azar",
+          "original": "Hebrew: עֵת וָפֶגַע (ʿet va-pegaʿ) — Greek (LXX): καιρὸς καὶ συνάντημα",
+          "note": "Declarados como suceso que acontece a todos (9:11)."
+        },
+        {
+          "term": "Porción",
+          "original": "Hebrew: חֵלֶק (ḥeleq) — Greek: μερὶς — Aramaic: חולקה",
+          "note": "Parte o suerte; tema recurrente para el disfrute cotidiano (9:9)."
+        }
+      ],
+      "keyTakeaway": "Esta unidad declara un destino común para todos, insta a una vida diaria gozosa y a un trabajo vigoroso, y dice que el tiempo y el azar le suceden a todos, con la posibilidad de una calamidad repentina."
+    },
+    {
+      "id": "ecclesiastes-10",
+      "title": "🧩 Eclesiastés 10",
+      "refs": [
+        "Ecclesiastes 10:1-20"
+      ],
+      "summaryBullets": [
+        "Las moscas muertas hacen heder y corrompen el perfume del perfumista; así un poco de necedad pesa más que la sabiduría y la honra (10:1).",
+        "El corazón del sabio se inclina a su derecha, pero el corazón del necio a su izquierda (10:2).",
+        "Aun cuando el necio camina por el camino, le falta cordura y dice a todos que es necio (10:3).",
+        "Si la ira del gobernante se levanta contra ti, no dejes tu puesto, porque la calma apacigua grandes ofensas (10:4).",
+        "Hay un mal que he visto debajo del sol, como error procedente del gobernante (10:5).",
+        "La necedad es puesta en muchos puestos altos, y los ricos se sientan en lugar bajo (10:6).",
+        "He visto siervos a caballo, y príncipes caminando a pie como siervos (10:7).",
+        "El que cava un hoyo caerá en él, y al que rompe una pared lo morderá una serpiente (10:8).",
+        "El que corta piedras se lastima con ellas, y el que parte leña corre peligro (10:9).",
+        "Si el hierro está embotado y no se afila el filo, hay que emplear más fuerza; pero la sabiduría ayuda a tener éxito (10:10).",
+        "Si la serpiente muerde antes de ser encantada, no hay provecho para el encantador (10:11).",
+        "Las palabras de la boca del sabio le ganan gracia, pero los labios del necio lo consumen (10:12).",
+        "El comienzo de las palabras de su boca es necedad, y el fin de su charla es maldad insensata (10:13).",
+        "El necio multiplica las palabras, aunque nadie sabe lo que ha de ser; ¿y quién le dirá lo que será después de él? (10:14).",
+        "El trabajo del necio lo fatiga, porque no sabe ni el camino a la ciudad (10:15).",
+        "¡Ay de ti, tierra, cuando tu rey es un niño, y tus príncipes banquetean de mañana! (10:16).",
+        "¡Dichosa tú, tierra, cuando tu rey es hijo de nobles, y tus príncipes comen a su tiempo, con fortaleza y no con embriaguez! (10:17).",
+        "Por la pereza se hunde el techo, y por la ociosidad gotea la casa (10:18).",
+        "El pan se hace para reír, y el vino alegra la vida, y el dinero responde a todo (10:19).",
+        "Ni en tu pensamiento maldigas al rey, ni en tu alcoba maldigas al rico, porque un ave del cielo llevará la voz, o algo con alas hará saber el asunto (10:20)."
+      ],
+      "crossRefs": [
+        "2 Samuel 20:16–22 — Una mujer sabia libra una ciudad sitiada (tema paralelo de liberación).",
+        "Proverbios 26:27 — El que cava un hoyo caerá en él.",
+        "Proverbios 10:19 — En las muchas palabras no falta la transgresión.",
+        "Salmo 75:6–7 — La exaltación no viene del oriente ni del occidente, sino que Dios enaltece y humilla (tema de gobernantes)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Moscas muertas / aceite del perfumista",
+          "original": "Hebrew: זְבוּבֵי מָוֶת (zevuvê mavet, ‘flies of death’) / רוֹקֵחַ (roqe’aḥ, ‘perfumer’) — Greek (LXX): μύρα",
+          "note": "Imagen de una pequeña insensatez que arruina algo valioso (10:1)."
+        },
+        {
+          "term": "Derecha / izquierda (orientación)",
+          "original": "Hebrew: יְמִין / שְׂמֹאל (yemin / semol) — Greek: δεξιὰ / ἀριστερά",
+          "note": "Contraste direccional usado para la disposición sabia/necia (10:2)."
+        },
+        {
+          "term": "El ave llevará la voz",
+          "original": "Hebrew: כִּי עוֹף הַשָּׁמַיִם יוֹלִיךְ אֶת־הַקּוֹל (ki ʿof ha-shamayim yolikh et ha-qol) — Greek (LXX): ὅτι πετεινὸν τοῦ οὐρανοῦ ἀξει τὴν φωνήν",
+          "note": "Figura de un habla secreta que es reportada (10:20)."
+        },
+        {
+          "term": "Encantamiento / encantador",
+          "original": "Hebrew: לַחַשׁ (laḥash, ‘incantation’) / לֹחֵשׁ (loḥesh, ‘charmer’) — Greek (LXX): ἐπῳδή / ἐπῳδός",
+          "note": "Imagen en 10:11: una serpiente que muerde antes de que se pronuncie el encantamiento no deja beneficio alguno."
+        }
+      ],
+      "keyTakeaway": "Un hombre pobre y sabio salva una ciudad pero es olvidado; los dichos contrastan sabiduría e insensatez en gobernantes, el habla y el trabajo, y advierten que el habla oculta puede ser llevada a otros oídos."
+    },
+    {
+      "id": "ecclesiastes-11",
+      "title": "🌱 Eclesiastés 11",
+      "refs": [
+        "Ecclesiastes 11:1-10"
+      ],
+      "summaryBullets": [
+        "Echa tu pan sobre las aguas, porque después de muchos días lo hallarás (11:1).",
+        "Reparte a siete, y aun a ocho, porque no sabes qué mal puede venir sobre la tierra (11:2).",
+        "Si las nubes están llenas de lluvia, se vacían sobre la tierra; y si un árbol cae al sur o al norte, en el lugar donde cae el árbol, allí queda (11:3).",
+        "El que observa el viento no sembrará, y el que mira las nubes no segará (11:4).",
+        "Como no sabes cuál es el camino del viento, o cómo se forman los huesos en el vientre de la mujer encinta, así ignoras la obra de Dios que hace todas las cosas (11:5).",
+        "Por la mañana siembra tu semilla, y a la tarde no dejes reposar tu mano, porque no sabes cuál prosperará, si esto o aquello, o si ambas cosas serán igualmente buenas (11:6).",
+        "Dulce es la luz, y agradable a los ojos ver el sol (11:7).",
+        "Si el hombre vive muchos años, que se goce en todos ellos; pero recuerde que los días de tinieblas serán muchos, y todo lo que viene es vanidad (11:8).",
+        "Alégrate, joven, en tu juventud, y tome placer tu corazón en los días de tu juventud; anda en los caminos de tu corazón y en la vista de tus ojos, pero sabe que por todas estas cosas Dios te traerá a juicio (11:9).",
+        "Quita el enojo de tu corazón y aparta el mal de tu carne, porque la juventud y la aurora de la vida son vanidad (11:10)."
+      ],
+      "crossRefs": [
+        "Génesis 8:22 — La siembra y la siega no cesarán.",
+        "Proverbios 11:24–25 — Sobre la generosidad y el dar.",
+        "Juan 3:8 — El viento/espíritu sopla donde quiere (paralelo lingüístico).",
+        "Eclesiastés 3:11 — Los humanos no pueden descubrir la obra que Dios ha hecho de principio a fin."
+      ],
+      "translationNotes": [
+        {
+          "term": "Echa tu pan sobre las aguas",
+          "original": "Hebrew: שַׁלַּח לַחְמְךָ עַל־פְּנֵי הַמָּיִם (shallakh laḥmekha ʿal penei ha-mayim) — Greek (LXX): ἀπόστειλον τὸν ἄρτον σου ἐπὶ πρόσωπον τοῦ ὕδατος — Aramaic: שלח לחמך על אפי מיא",
+          "note": "Instrucción figurativa en 11:1 presentada tal como está escrita, sin especificar una interpretación comercial o caritativa particular."
+        },
+        {
+          "term": "Siete, y también ocho",
+          "original": "Hebrew: שִׁבְעָה… וְגַם לִשְׁמוֹנָה (shivʿah… ve-gam li-shmonah) — Greek: ἑπτά… καὶ ὀκτώ",
+          "note": "Fórmula numérica de intensificación (números escalonados) en 11:2."
+        },
+        {
+          "term": "Espíritu / viento (ambiguo)",
+          "original": "Hebrew: רוּחַ (ruaḥ) — Greek: πνεῦμα — Aramaic: רוחא",
+          "note": "La palabra puede significar viento o espíritu; 11:5 declara la ignorancia humana de su camino."
+        },
+        {
+          "term": "Huesos en el vientre",
+          "original": "Hebrew: כַּעֲצָמִים בְּבֶטֶן הַמְלֵאָה (kaʿatsamim be-veten ha-mele’ah) — Greek (LXX): ὡς τὰ ὀστέα ἐν κοιλίᾳ τῆς κυοφορούσης",
+          "note": "El crecimiento en el útero citado como ejemplo de un proceso desconocido (11:5)."
+        }
+      ],
+      "keyTakeaway": "El pasaje insta a enviar y trabajar con constancia a pesar de la incertidumbre, señalando que los seres humanos no conocen la obra de Dios ni los resultados."
+    },
+    {
+      "id": "ecclesiastes-12",
+      "title": "🌅 Eclesiastés 12",
+      "refs": [
+        "Ecclesiastes 12:1-14"
+      ],
+      "summaryBullets": [
+        "Acuérdate también de tu Creador en los días de tu juventud, antes que vengan los días malos y lleguen los años en que digas: No tengo en ellos placer (12:1).",
+        "Antes que se oscurezcan el sol y la luz, la luna y las estrellas, y vuelvan las nubes tras la lluvia (12:2).",
+        "Cuando tiemblen los guardas de la casa, y se encorven los hombres fuertes, y cesen las que muelen por ser pocas, y se oscurezcan las que miran por las ventanas (12:3).",
+        "Y se cierren las puertas de la calle — cuando sea bajo el ruido del molino, y se levante uno al canto del ave, y todas las hijas del canto sean abatidas (12:4).",
+        "Cuando teman lo que es alto y haya terrores en el camino; el almendro florezca, la langosta se arrastre, y el deseo falle, porque el hombre va a su morada eterna, y los endechadores anden por las calles (12:5).",
+        "Antes que se rompa el cordón de plata, o se quiebre el cuenco de oro, o se rompa el cántaro junto a la fuente, o se quiebre la rueda junto al pozo (12:6).",
+        "Y el polvo vuelva a la tierra como era, y el espíritu vuelva a Dios que lo dio (12:7).",
+        "Vanidad de vanidades, dice el Predicador; todo es vanidad (12:8).",
+        "Además de ser sabio, el Predicador enseñó al pueblo conocimiento; ponderó, investigó y compuso muchos proverbios (12:9).",
+        "El Predicador procuró hallar palabras agradables y escribir rectamente palabras de verdad (12:10).",
+        "Las palabras de los sabios son como aguijones, y como clavos bien hincados las de los maestros de las colecciones; son dadas por un solo Pastor (12:11).",
+        "Además de esto, hijo mío, sé amonestado: de hacer muchos libros no hay fin, y el mucho estudio es fatiga de la carne (12:12).",
+        "El fin de todo el discurso oído es este: Teme a Dios y guarda Sus mandamientos, porque esto es el todo del hombre (12:13).",
+        "Porque Dios traerá toda obra a juicio, juntamente con toda cosa encubierta, sea buena o sea mala (12:14)."
+      ],
+      "crossRefs": [
+        "Génesis 3:19 — Del polvo al polvo (cf. Eclesiastés 12:7).",
+        "Salmo 90:10 — La duración y el cansancio de la vida humana.",
+        "Eclesiastés 3:20 — Todos van a un mismo lugar; todos son del polvo y al polvo vuelven.",
+        "Jeremías 9:17–18 — Mujeres que guardan luto y lamento público (imágenes de duelo)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Acuérdate de tu Creador",
+          "original": "Hebrew: זְכֹר אֶת־בּוֹרְאֶיךָ (zekhor et-bor’eikha) — Greek (LXX): μνήσθητι τοῦ κτίστου σου — Aramaic: דכור לבראך",
+          "note": "Imperativo en 12:1 colocado antes de las imágenes de decadencia."
+        },
+        {
+          "term": "El almendro florece",
+          "original": "Hebrew: יַנֵּאץ הַשָּׁקֵד (ha-shaqed yane’etz) — Greek (LXX): ἀνθήσει τὸ ἀμύγδαλον",
+          "note": "Imagen de floración estacional en 12:5."
+        },
+        {
+          "term": "La alcaparra pierde su efecto",
+          "original": "Hebrew: וְיִסְתַּפֵּל הָאֲבִיּוֹנָה (ve-yistappēl ha-ʾaviyyōnāh) — Greek (LXX): καὶ διασκεδασθήσεται ἡ κάππαρις",
+          "note": "Palabra rara en 12:5 (alcaparra); declarada como ineficaz."
+        },
+        {
+          "term": "Morada eterna",
+          "original": "Hebrew: בֵּית עוֹלָמוֹ (beit ʿolamo) — Greek (LXX): οἶκον αἰῶνος",
+          "note": "Frase de destino en 12:5."
+        },
+        {
+          "term": "Cordón de plata / cuenco de oro / cántaro / rueda",
+          "original": "Hebrew: כֶּסֶר הַכֶּסֶף / גֻלַּת הַזָּהָב / כַּד / גַּלְגַּל — Greek (LXX): σπεῖραμα ἀργύρινον / φιάλη χρυσῆ / κάδος / τροχός",
+          "note": "Secuencia de imágenes de rotura/destrucción en 12:6."
+        },
+        {
+          "term": "El espíritu vuelve a Dios",
+          "original": "Hebrew: וְהָרוּחַ תָּשׁוּב אֶל־הָאֱלֹהִים (ve-ha-ruaḥ tashuv el-ha’Elohim) — Greek (LXX): καὶ ἐπιστρέψει τὸ πνεῦμα πρὸς τὸν θεόν",
+          "note": "Declaración en 12:7 paralela al polvo que vuelve a la tierra."
+        }
+      ],
+      "keyTakeaway": "La unidad llama a alegrarse en la juventud con conciencia del juicio, a recordar al Creador antes de la decadencia, y retrata el envejecimiento y la muerte con imágenes antes de concluir nuevamente con 'vanidad de vanidades.'"
+    }
+  ]
+}

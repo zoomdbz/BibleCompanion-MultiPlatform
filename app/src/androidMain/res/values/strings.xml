@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bible Companion</string>
+    <string name="widget_description">Shows upcoming Biblical feast dates</string>
+    <string name="widget_calendar_description">Biblical feast calendar with Hebrew and Essene dates</string>
+    <string name="shortcut_search">Search</string>
+    <string name="shortcut_bookmarks">Bookmarks</string>
+    <string name="shortcut_continue">Continue Reading</string>
+</resources>

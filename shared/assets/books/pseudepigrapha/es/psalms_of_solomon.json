@@ -1,0 +1,32 @@
+{
+  "id": "psalms_of_solomon",
+  "title": "Salmos de Salomón",
+  "stories": [
+    {
+      "id": "psalms_of_solomon-1",
+      "title": "📜 Salmos de Salomón",
+      "refs": [
+        "Psalms of Solomon 1"
+      ],
+      "summaryBullets": [
+        "Una colección de dieciocho salmos judíos de finales del siglo I a.C., compuestos en respuesta a la conquista de Jerusalén por Pompeyo en el 63 a.C. y no incluidos en los cánones bíblicos posteriores.",
+        "Combinan lamento nacionalista, llamados a la justicia y esperanza mesiánica, retratando al Mesías como un libertador justo, semejante a David, que rescatará a Israel, incluyendo el uso más antiguo del título \"Hijo de David\".",
+        "El tono alterna entre la confesión comunitaria, la denuncia de los líderes de Israel y la confianza en la justicia de Dios, exhortando frecuentemente al arrepentimiento personal y colectivo.",
+        "Aunque originalmente escritos en hebreo o arameo, la colección sobrevive solo en manuscritos griegos y siríacos; fueron agrupados bajo el nombre de Salomón, probablemente por prestigio y no por autoría."
+      ],
+      "crossRefs": [
+        "2 Samuel 7:12–16 — Las promesas del pacto de Dios a la casa de David.",
+        "Isaías 11:1–2 — Expectativa mesiánica de un vástago justo de Isaí.",
+        "Mateo 21:9 — \"Hijo de David\" como título aplicado a Jesús en los Evangelios."
+      ],
+      "translationNotes": [
+        {
+          "term": "Hijo de David",
+          "original": "Hebrew: בֶּן־דָּוִד (ben-Dāwīḏ) — Greek: υἱὸς Δαυὶδ (huios Dauid) — Aramaic: בּר דָּוִד (bar Dāwīḏ)",
+          "note": "Un título explícito temprano para el Mesías en este texto, que enfatiza expectativas dinásticas y esperanzadoras de un rey justo del linaje de David."
+        }
+      ],
+      "keyTakeaway": "Los Salmos de Salomón dan voz a las esperanzas judías del siglo I a.C. en medio de la opresión, exhortando a la reforma moral y a la liberación mesiánica."
+    }
+  ]
+}

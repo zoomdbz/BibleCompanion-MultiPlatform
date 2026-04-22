@@ -1,0 +1,79 @@
+# Claude Code
+.claude/
+!.claude/settings.json
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+.run/
+
+# Android / Kotlin build
+local.properties
+build/
+*/build/
+**/build/
+.gradle/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+app/release/
+app/debug/
+*.apk
+*.ap_
+*.aab
+
+# Signing
+*.keystore
+*.jks
+keystore.properties
+*.p12
+key.properties
+
+# Java
+*.class
+*.hprof
+*.log
+
+# Xcode / iOS
+**/xcuserdata/
+**/*.xcworkspace/xcuserdata/
+**/DerivedData/
+*.xcuserstate
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.swiftpm/
+build-ios/
+Pods/
+Podfile.lock
+
+# Kotlin/Native
+shared/build/
+shared/*.klib
+
+# Compose Multiplatform generated
+**/generated/compose/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Secrets
+.env
+.env.local
+.env.*.local
+google-services.json
+GoogleService-Info.plist
+
+# Editor
+.vscode/
+*.sublime-workspace
+
+# Node (if ever used)
+node_modules/

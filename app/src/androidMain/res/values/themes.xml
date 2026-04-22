@@ -1,0 +1,7 @@
+<resources>
+  <!-- Compose-friendly XML theme -->
+  <style name="Theme.BibleCompanion" parent="Theme.AppCompat.DayNight.NoActionBar">
+    <!-- Optional: transparent status bar so Compose can draw behind -->
+    <item name="android:statusBarColor">@android:color/transparent</item>
+  </style>
+</resources>

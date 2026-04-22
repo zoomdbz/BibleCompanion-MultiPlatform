@@ -1,0 +1,660 @@
+{
+  "id": "hebrews",
+  "title": "Hebreus",
+  "stories": [
+    {
+      "id": "hebrews-1",
+      "title": "📜 Hebreus 1",
+      "refs": [
+        "Hebrews 1:1-14"
+      ],
+      "summaryBullets": [
+        "Deus, havendo falado muitas vezes e de muitas maneiras noutro tempo aos pais pelos profetas (1:1).",
+        "Nestes últimos dias nos falou pelo Filho, a quem constituiu herdeiro de tudo, e por quem também fez o universo (1:2).",
+        "O qual, sendo o resplendor da sua glória e a imagem mesma da sua substância, e sustentando todas as coisas pela palavra do seu poder, havendo feito a purificação dos pecados por si mesmo, sentou-se à direita da Majestade nas alturas (1:3).",
+        "Feito tanto superior aos anjos quanto herdou mais excelente nome do que eles (1:4).",
+        "Porque a qual dos anjos disse Deus jamais: \"Tu és meu Filho, eu hoje te gerei\"? E outra vez: \"Eu lhe serei pai, e ele me será filho\"? (1:5).",
+        "E outra vez, quando introduz o Primogênito no mundo, diz: \"Adorem-no todos os anjos de Deus\" (1:6).",
+        "Certamente dos anjos diz: \"O que faz dos seus anjos ventos, e dos seus ministros labaredas de fogo\" (1:7).",
+        "Mas do Filho diz: \"O teu trono, ó Deus, é para todo o sempre; cetro de equidade é o cetro do teu reino\" (1:8).",
+        "\"Amaste a justiça e odiaste a iniquidade; por isso Deus, o teu Deus, te ungiu com óleo de alegria mais do que aos teus companheiros\" (1:9).",
+        "E: \"Tu, ó Senhor, no princípio fundaste a terra, e os céus são obra das tuas mãos\" (1:10).",
+        "\"Eles perecerão, mas tu permaneces; e todos eles se envelhecerão como uma veste\" (1:11).",
+        "\"Como um manto os enrolarás, como uma veste serão mudados; mas tu és o mesmo, e os teus anos não acabarão\" (1:12).",
+        "Pois a qual dos anjos disse jamais: \"Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés\"? (1:13).",
+        "Não são todos espíritos ministradores, enviados para servir a favor dos que hão de herdar a salvação? (1:14)."
+      ],
+      "crossRefs": [
+        "Salmo 2:7 — Tu és meu Filho, hoje te gerei.",
+        "Filipenses 2:8–9 — Cristo humilhou-se e depois foi exaltado.",
+        "Isaías 8:17–18 — Os filhos que Deus me deu."
+      ],
+      "translationNotes": [
+        {
+          "term": "Resplendor da glória de Deus",
+          "original": "Hebrew: זִיו הַכָּבוֹד (zîw hakkāḇōd, sense) — Greek: ἀπαύγασμα τῆς δόξης (apaugasma tēs dóxēs, NT) — Aramaic: זיוא דיקרא (zīwā diyqarā)",
+          "note": "Expressão que descreve o Filho como a irradiação ou expressão exata da glória divina de Deus."
+        },
+        {
+          "term": "Sumo sacerdote",
+          "original": "Hebrew: כֹּהֵן גָּדוֹל (kōhēn gādōl) — Greek: ἀρχιερεύς (archiereús, NT) — Aramaic: כהנא רבא (kahnā rabbā)",
+          "note": "Título do sacerdote principal de Israel; aqui aplicado a Jesus como mediador entre Deus e os homens."
+        }
+      ],
+      "keyTakeaway": "Deus falou por meio do seu Filho, que é superior aos anjos, participou da humanidade e tornou-se sumo sacerdote misericordioso por meio do sofrimento e da morte."
+    },
+    {
+      "id": "hebrews-2",
+      "title": "📜 Hebreus 2",
+      "refs": [
+        "Hebrews 2:1-18"
+      ],
+      "summaryBullets": [
+        "Portanto, é necessário que com mais diligência atentemos para as coisas que ouvimos, para que não nos desviemos (2:1).",
+        "Porque se a palavra falada por meio dos anjos se firmou, e toda transgressão e desobediência recebeu justa retribuição (2:2),",
+        "Como escaparemos nós se descuidarmos uma salvação tão grande? Esta salvação foi anunciada primeiramente pelo Senhor, e nos foi confirmada pelos que ouviram (2:3).",
+        "Testificando Deus juntamente com eles, com sinais e prodígios e diversos milagres e dons do Espírito Santo repartidos segundo a sua vontade (2:4).",
+        "Porque não foi aos anjos que sujeitou o mundo vindouro, de que falamos (2:5).",
+        "Mas alguém testificou em certo lugar, dizendo: \"Que é o homem para que te lembres dele, ou o filho do homem para que o visites?\" (2:6).",
+        "\"Fizeste-o um pouco menor do que os anjos, coroaste-o de glória e de honra\" (2:7).",
+        "\"Tudo sujeitaste debaixo dos seus pés.\" Porque ao sujeitar-lhe todas as coisas, nada deixou que não lhe fosse sujeito. Porém ainda não vemos que todas as coisas lhe sejam sujeitas (2:8).",
+        "Mas vemos aquele que foi feito um pouco menor do que os anjos, Jesus, coroado de glória e de honra por causa do padecimento da morte, para que pela graça de Deus provasse a morte por todos (2:9).",
+        "Porque convinha àquele por cuja causa são todas as coisas e por quem todas as coisas subsistem, que havendo de levar muitos filhos à glória, aperfeiçoasse por meio dos padecimentos o autor da salvação deles (2:10).",
+        "Porque o que santifica e os que são santificados, todos são de um; por isso não se envergonha de os chamar irmãos (2:11).",
+        "Dizendo: \"Anunciarei o teu nome aos meus irmãos, no meio da congregação te louvarei\" (2:12).",
+        "E outra vez: \"Eu confiarei nele.\" E de novo: \"Eis aqui eu e os filhos que Deus me deu\" (2:13).",
+        "Assim que, visto que os filhos participam de carne e sangue, ele também participou das mesmas coisas, para que pela morte destruísse aquele que tinha o poder da morte, isto é, o diabo (2:14).",
+        "E livrasse todos os que pelo temor da morte estavam por toda a vida sujeitos à servidão (2:15).",
+        "Porque certamente não socorreu os anjos, mas socorreu a descendência de Abraão (2:16).",
+        "Pelo que devia ser em tudo semelhante aos seus irmãos, para vir a ser misericordioso e fiel sumo sacerdote no que diz respeito a Deus, para fazer propiciação pelos pecados do povo (2:17).",
+        "Pois naquilo que ele mesmo padeceu sendo tentado, é poderoso para socorrer os que são tentados (2:18)."
+      ],
+      "crossRefs": [
+        "Salmo 2:7 — Tu és meu Filho, hoje te gerei.",
+        "Filipenses 2:8–9 — Cristo humilhou-se e depois foi exaltado.",
+        "Isaías 8:17–18 — Os filhos que Deus me deu."
+      ],
+      "translationNotes": [
+        {
+          "term": "Resplendor da glória de Deus",
+          "original": "Hebrew: זִיו הַכָּבוֹד (zîw hakkāḇōd, sense) — Greek: ἀπαύγασμα τῆς δόξης (apaugasma tēs dóxēs, NT) — Aramaic: זיוא דיקרא (zīwā diyqarā)",
+          "note": "Expressão que descreve o Filho como a irradiação ou expressão exata da glória divina de Deus."
+        },
+        {
+          "term": "Sumo sacerdote",
+          "original": "Hebrew: כֹּהֵן גָּדוֹל (kōhēn gādōl) — Greek: ἀρχιερεύς (archiereús, NT) — Aramaic: כהנא רבא (kahnā rabbā)",
+          "note": "Título do sacerdote principal de Israel; aqui aplicado a Jesus como mediador entre Deus e os homens."
+        }
+      ],
+      "keyTakeaway": "Deus falou por meio do seu Filho, que é superior aos anjos, participou da humanidade e tornou-se sumo sacerdote misericordioso por meio do sofrimento e da morte."
+    },
+    {
+      "id": "hebrews-3",
+      "title": "🌿 Hebreus 3",
+      "refs": [
+        "Hebrews 3:1-19"
+      ],
+      "summaryBullets": [
+        "Portanto, irmãos santos, participantes da vocação celestial, considerai Jesus, o apóstolo e sumo sacerdote da nossa confissão (3:1).",
+        "O qual foi fiel ao que o constituiu, assim como também Moisés em toda a casa de Deus (3:2).",
+        "Porque Jesus foi estimado digno de maior glória do que Moisés, na medida em que o que edifica a casa tem maior honra do que a própria casa (3:3).",
+        "Porque toda casa é edificada por alguém, mas o que edifica todas as coisas é Deus (3:4).",
+        "Moisés certamente foi fiel em toda a casa de Deus como servo, para testemunho das coisas que se haviam de dizer depois (3:5).",
+        "Mas Cristo é fiel como filho sobre a casa de Deus. E essa casa somos nós, se retermos firmes até ao fim a confiança e a glória da esperança (3:6).",
+        "Pelo que, como diz o Espírito Santo: \"Se ouvirdes hoje a sua voz (3:7),",
+        "Não endureçais os vossos corações, como na provocação, no dia da tentação no deserto (3:8),",
+        "Onde os vossos pais me tentaram e me provaram, e viram as minhas obras por quarenta anos\" (3:9).",
+        "\"Por isso me desgostei com essa geração, e disse: 'Sempre erram no seu coração, e não conheceram os meus caminhos'\" (3:10).",
+        "\"Como jurei na minha ira: 'Não entrarão no meu descanso'\" (3:11).",
+        "Vede, irmãos, que não haja em nenhum de vós coração mau de incredulidade para se apartar do Deus vivo (3:12).",
+        "Antes exortai-vos uns aos outros todos os dias, enquanto se diz \"hoje,\" para que nenhum de vós se endureça pelo engano do pecado (3:13).",
+        "Porque somos feitos participantes de Cristo, se é que retemos firme até ao fim a nossa confiança do princípio (3:14).",
+        "Enquanto se diz: \"Se ouvirdes hoje a sua voz, não endureçais os vossos corações, como na provocação\" (3:15).",
+        "Porque quem foram os que, tendo ouvido, se rebelaram? Não foram todos os que saíram do Egito por meio de Moisés? (3:16).",
+        "E com quem esteve ele desgostoso quarenta anos? Não foi com os que pecaram, cujos corpos caíram no deserto? (3:17).",
+        "E a quem jurou que não entrariam no seu descanso, senão àqueles que desobedeceram? (3:18).",
+        "E vemos que não puderam entrar por causa de incredulidade (3:19)."
+      ],
+      "crossRefs": [
+        "Salmo 95:7–11 — Advertência para não endurecer o coração.",
+        "Josué 22:4 — Descanso concedido na terra.",
+        "Mateus 11:28 — Jesus oferece descanso para as almas."
+      ],
+      "translationNotes": [
+        {
+          "term": "Descanso",
+          "original": "Hebrew: מְנוּחָה (mĕnūḥāh) — Greek: κατάπαυσις (katápausis, NT) — Aramaic: ניחא (nīḥā)",
+          "note": "Palavra usada para repouso, estabelecimento ou sábado; em Hebreus, refere-se ao descanso espiritual prometido por Deus."
+        }
+      ],
+      "keyTakeaway": "Jesus é superior a Moisés; os crentes são advertidos a não caírem na incredulidade, mas a se esforçarem para entrar no descanso prometido por Deus."
+    },
+    {
+      "id": "hebrews-4",
+      "title": "🌿 Hebreus 4",
+      "refs": [
+        "Hebrews 4:1-16"
+      ],
+      "summaryBullets": [
+        "Temamos, pois, que permanecendo ainda a promessa de entrar no seu descanso, algum de vós pareça não tê-lo alcançado (4:1).",
+        "Porque também a nós nos foi anunciada a boa-nova como a eles; mas não lhes aproveitou ouvir a palavra, por não ir acompanhada de fé nos que a ouviram (4:2).",
+        "Porque nós que cremos entramos no descanso, como ele disse: \"Tal como jurei na minha ira: 'Não entrarão no meu descanso,'\" embora as suas obras estivessem acabadas desde a fundação do mundo (4:3).",
+        "Porque em certo lugar disse assim do sétimo dia: \"E Deus descansou de todas as suas obras no sétimo dia\" (4:4).",
+        "E outra vez nesta passagem: \"Não entrarão no meu descanso\" (4:5).",
+        "Portanto, visto que falta que alguns entrem nele, e aqueles a quem primeiro foi anunciada a boa-nova não entraram por causa de desobediência (4:6),",
+        "Outra vez determina um dia, \"Hoje,\" dizendo depois de tanto tempo por meio de Davi, como se disse antes: \"Se ouvirdes hoje a sua voz, não endureçais os vossos corações\" (4:7).",
+        "Porque se Josué lhes tivesse dado descanso, não falaria depois de outro dia (4:8).",
+        "Portanto, resta um descanso para o povo de Deus (4:9).",
+        "Porque aquele que entrou no seu descanso, também descansou das suas obras, como Deus das suas (4:10).",
+        "Procuremos, pois, entrar naquele descanso, para que ninguém caia no mesmo exemplo de desobediência (4:11).",
+        "Porque a palavra de Deus é viva e eficaz, e mais penetrante do que qualquer espada de dois gumes; e penetra até à divisão da alma e do espírito, das juntas e medulas, e discerne os pensamentos e intenções do coração (4:12).",
+        "E não há criatura alguma que não seja manifesta na sua presença; antes todas as coisas estão nuas e patentes aos olhos daquele a quem temos de dar contas (4:13).",
+        "Tendo, pois, um grande sumo sacerdote que penetrou os céus, Jesus, o Filho de Deus, retenhamos a nossa confissão (4:14).",
+        "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas, mas um que em tudo foi tentado como nós, porém sem pecado (4:15).",
+        "Cheguemo-nos, pois, confiadamente ao trono da graça, para alcançarmos misericórdia e acharmos graça para socorro em tempo oportuno (4:16)."
+      ],
+      "crossRefs": [
+        "Salmo 95:7–11 — Advertência para não endurecer o coração.",
+        "Josué 22:4 — Descanso concedido na terra.",
+        "Mateus 11:28 — Jesus oferece descanso para as almas."
+      ],
+      "translationNotes": [
+        {
+          "term": "Descanso",
+          "original": "Hebrew: מְנוּחָה (mĕnūḥāh) — Greek: κατάπαυσις (katápausis, NT) — Aramaic: ניחא (nīḥā)",
+          "note": "Palavra usada para repouso, estabelecimento ou sábado; em Hebreus, refere-se ao descanso espiritual prometido por Deus."
+        }
+      ],
+      "keyTakeaway": "Jesus é superior a Moisés; os crentes são advertidos a não caírem na incredulidade, mas a se esforçarem para entrar no descanso prometido por Deus."
+    },
+    {
+      "id": "hebrews-5",
+      "title": "🕊️ Hebreus 5",
+      "refs": [
+        "Hebrews 5:1-14"
+      ],
+      "summaryBullets": [
+        "Porque todo sumo sacerdote tomado dentre os homens é constituído a favor dos homens nas coisas concernentes a Deus, para que apresente ofertas e sacrifícios pelos pecados (5:1).",
+        "E que se mostre paciente com os ignorantes e errados, visto que também ele está rodeado de fraqueza (5:2).",
+        "E por causa dela deve oferecer sacrifícios pelos pecados, tanto por si mesmo como pelo povo (5:3).",
+        "E ninguém toma para si esta honra, senão o que é chamado por Deus, como Arão (5:4).",
+        "Assim também Cristo não se glorificou a si mesmo para se fazer sumo sacerdote, mas aquele que lhe disse: \"Tu és meu Filho, eu hoje te gerei\" (5:5).",
+        "Como também diz noutro lugar: \"Tu és sacerdote para sempre, segundo a ordem de Melquisedeque\" (5:6).",
+        "O qual, nos dias da sua carne, oferecendo orações e súplicas com grande clamor e lágrimas àquele que o podia livrar da morte, foi ouvido por causa da sua reverência (5:7).",
+        "Embora fosse Filho, aprendeu a obediência pelo que padeceu (5:8).",
+        "E tendo sido aperfeiçoado, veio a ser autor de eterna salvação para todos os que lhe obedecem (5:9).",
+        "Sendo constituído por Deus sumo sacerdote segundo a ordem de Melquisedeque (5:10).",
+        "A respeito disto temos muito que dizer, e difícil de explicar, porquanto vos tornastes tardios para ouvir (5:11).",
+        "Porque devendo já ser mestres depois de tanto tempo, necessitais de que alguém vos ensine de novo os primeiros rudimentos das palavras de Deus; e vos tornastes tais que necessitais de leite, e não de alimento sólido (5:12).",
+        "Porque todo o que se alimenta de leite é inexperiente na palavra da justiça, porque é menino (5:13).",
+        "Mas o alimento sólido é para os que já alcançaram maturidade, para aqueles que pelo uso têm os sentidos exercitados no discernimento do bem e do mal (5:14)."
+      ],
+      "crossRefs": [
+        "Salmo 110:4 — Sacerdote para sempre segundo Melquisedeque.",
+        "Gênesis 14:18–20 — Melquisedeque abençoa Abraão.",
+        "Levítico 16:34 — Serviço sacerdotal contínuo sob a lei."
+      ],
+      "translationNotes": [
+        {
+          "term": "Melquisedeque",
+          "original": "Hebrew: מַלְכִּי־צֶדֶק (Malkî-ṣedeq) — Greek: Μελχισεδέκ (Melchisedék, NT) — Aramaic: מלכי צדקא (Malkī ṣidqā)",
+          "note": "O nome significa 'rei da justiça'; rei de Salém, sacerdote do Deus Altíssimo, tipo de Cristo no seu sacerdócio eterno."
+        },
+        {
+          "term": "Uma vez por todas",
+          "original": "Hebrew: אַחַת לְעוֹלָם (ʾaḥat ləʿōlām, sense) — Greek: ἐφάπαξ (ephápax, NT) — Aramaic: חדא לעלמין (ḥadā l-ʿālmīn)",
+          "note": "Significa 'um único ato válido para sempre'; usado para o sacrifício único e irrepetível de Cristo."
+        }
+      ],
+      "keyTakeaway": "Jesus é o grande sumo sacerdote, superior ao sacerdócio levítico, designado para sempre segundo Melquisedeque, e capaz de salvar totalmente."
+    },
+    {
+      "id": "hebrews-6",
+      "title": "🕊️ Hebreus 6",
+      "refs": [
+        "Hebrews 6:1-20"
+      ],
+      "summaryBullets": [
+        "Portanto, deixando os rudimentos da doutrina de Cristo, avancemos para a maturidade; não lançando de novo o fundamento do arrependimento de obras mortas, da fé em Deus (6:1).",
+        "Da doutrina de batismos, da imposição de mãos, da ressurreição dos mortos e do juízo eterno (6:2).",
+        "E isto faremos, se Deus o permitir (6:3).",
+        "Porque é impossível que os que uma vez foram iluminados e provaram do dom celestial, e se tornaram participantes do Espírito Santo (6:4),",
+        "E provaram a boa palavra de Deus e os poderes do mundo vindouro (6:5),",
+        "E recaíram, sejam outra vez renovados para arrependimento, crucificando de novo para si mesmos o Filho de Deus e expondo-o à vergonha (6:6).",
+        "Porque a terra que bebe a chuva que muitas vezes cai sobre ela, e produz erva proveitosa para aqueles por quem é cultivada, recebe bênção de Deus (6:7).",
+        "Mas a que produz espinhos e abrolhos é reprovada, está próxima de ser amaldiçoada, e o seu fim é ser queimada (6:8).",
+        "Mas quanto a vós, ó amados, estamos persuadidos de coisas melhores, e que pertencem à salvação, embora falemos assim (6:9).",
+        "Porque Deus não é injusto para se esquecer da vossa obra e do trabalho de amor que mostrastes para com o seu nome, havendo servido aos santos e servindo-os ainda (6:10).",
+        "Mas desejamos que cada um de vós mostre a mesma solicitude até ao fim, para plena certeza da esperança (6:11).",
+        "A fim de que não vos torneis preguiçosos, mas imitadores dos que pela fé e paciência herdam as promessas (6:12).",
+        "Porque quando Deus fez a promessa a Abraão, não podendo jurar por outro maior, jurou por si mesmo (6:13).",
+        "Dizendo: \"Certamente te abençoarei com abundância e te multiplicarei grandemente\" (6:14).",
+        "E havendo esperado com paciência, Abraão alcançou a promessa (6:15).",
+        "Porque os homens certamente juram por alguém maior do que eles, e para eles o fim de toda controvérsia é o juramento para confirmação (6:16).",
+        "Pelo que, querendo Deus mostrar mais abundantemente aos herdeiros da promessa a imutabilidade do seu conselho, interpôs juramento (6:17).",
+        "Para que por duas coisas imutáveis, nas quais é impossível que Deus minta, tenhamos um fortíssimo consolo os que nos refugiamos em lançar mão da esperança posta diante de nós (6:18).",
+        "A qual temos como segura e firme âncora da alma, e que penetra até ao interior do véu (6:19).",
+        "Onde Jesus entrou por nós como precursor, feito sumo sacerdote para sempre segundo a ordem de Melquisedeque (6:20)."
+      ],
+      "crossRefs": [
+        "Salmo 110:4 — Sacerdote para sempre segundo Melquisedeque.",
+        "Gênesis 14:18–20 — Melquisedeque abençoa Abraão.",
+        "Levítico 16:34 — Serviço sacerdotal contínuo sob a lei."
+      ],
+      "translationNotes": [
+        {
+          "term": "Melquisedeque",
+          "original": "Hebrew: מַלְכִּי־צֶדֶק (Malkî-ṣedeq) — Greek: Μελχισεδέκ (Melchisedék, NT) — Aramaic: מלכי צדקא (Malkī ṣidqā)",
+          "note": "O nome significa 'rei da justiça'; rei de Salém, sacerdote do Deus Altíssimo, tipo de Cristo no seu sacerdócio eterno."
+        },
+        {
+          "term": "Uma vez por todas",
+          "original": "Hebrew: אַחַת לְעוֹלָם (ʾaḥat ləʿōlām, sense) — Greek: ἐφάπαξ (ephápax, NT) — Aramaic: חדא לעלמין (ḥadā l-ʿālmīn)",
+          "note": "Significa 'um único ato válido para sempre'; usado para o sacrifício único e irrepetível de Cristo."
+        }
+      ],
+      "keyTakeaway": "Jesus é o grande sumo sacerdote, superior ao sacerdócio levítico, designado para sempre segundo Melquisedeque, e capaz de salvar totalmente."
+    },
+    {
+      "id": "hebrews-7",
+      "title": "🕊️ Hebreus 7",
+      "refs": [
+        "Hebrews 7:1-28"
+      ],
+      "summaryBullets": [
+        "Porque este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, saiu ao encontro de Abraão que voltava da derrota dos reis, e o abençoou (7:1).",
+        "A quem também Abraão deu o dízimo de tudo. O seu nome significa primeiramente rei de justiça, e também rei de Salém, que significa rei de paz (7:2).",
+        "Sem pai, sem mãe, sem genealogia; que nem tem princípio de dias nem fim de vida, mas feito semelhante ao Filho de Deus, permanece sacerdote para sempre (7:3).",
+        "Considerai, pois, quão grande era este, a quem até o patriarca Abraão deu o dízimo dos despojos (7:4).",
+        "Certamente os que dentre os filhos de Levi recebem o sacerdócio têm mandamento de tomar do povo os dízimos segundo a lei, isto é, dos seus irmãos, embora estes também tenham saído dos lombos de Abraão (7:5).",
+        "Mas aquele cuja genealogia não é contada dentre eles tomou dízimos de Abraão, e abençoou o que tinha as promessas (7:6).",
+        "E sem discussão alguma, o menor é abençoado pelo maior (7:7).",
+        "E aqui certamente recebem dízimos homens mortais; mas ali, um de quem se dá testemunho de que vive (7:8).",
+        "E por assim dizer, em Abraão pagou o dízimo também Levi, que recebe os dízimos (7:9).",
+        "Porque ainda estava nos lombos do seu pai quando Melquisedeque lhe saiu ao encontro (7:10).",
+        "Se, pois, a perfeição fosse pelo sacerdócio levítico (pois debaixo dele o povo recebeu a lei), que necessidade haveria ainda de que se levantasse outro sacerdote segundo a ordem de Melquisedeque, e que não fosse chamado segundo a ordem de Arão? (7:11).",
+        "Porque mudado o sacerdócio, necessário é que haja também mudança de lei (7:12).",
+        "Porque aquele de quem se dizem estas coisas pertencia a outra tribo, da qual ninguém serviu ao altar (7:13).",
+        "Porque manifesto é que o nosso Senhor procedeu de Judá, tribo da qual Moisés nada falou acerca do sacerdócio (7:14).",
+        "E isto é ainda mais evidente quando se levanta um sacerdote diferente à semelhança de Melquisedeque (7:15).",
+        "Constituído não conforme a lei do mandamento acerca da descendência, mas segundo o poder de uma vida indestrutível (7:16).",
+        "Pois se dá testemunho dele: \"Tu és sacerdote para sempre, segundo a ordem de Melquisedeque\" (7:17).",
+        "Fica, pois, abrogado o mandamento anterior por causa da sua fraqueza e ineficácia (7:18).",
+        "(Porque a lei nada aperfeiçoou), e introduz-se uma melhor esperança, pela qual nos aproximamos de Deus (7:19).",
+        "E isto não foi sem juramento; porque os outros certamente sem juramento foram feitos sacerdotes (7:20).",
+        "Mas este, com juramento por aquele que lhe disse: \"Jurou o Senhor, e não se arrependerá: Tu és sacerdote para sempre\" (7:21).",
+        "Por tanto, Jesus é feito fiador de uma melhor aliança (7:22).",
+        "E os outros sacerdotes chegaram a ser muitos, porque pela morte não podiam continuar (7:23).",
+        "Mas este, por permanecer para sempre, tem um sacerdócio imutável (7:24).",
+        "Pelo que pode também salvar perfeitamente os que por ele se chegam a Deus, vivendo sempre para interceder por eles (7:25).",
+        "Porque tal sumo sacerdote nos convinha: santo, inocente, imaculado, separado dos pecadores e feito mais sublime do que os céus (7:26).",
+        "Que não necessita cada dia, como aqueles sumos sacerdotes, de oferecer primeiro sacrifícios pelos seus próprios pecados, e depois pelos do povo; porque isto fez ele uma vez para sempre, oferecendo-se a si mesmo (7:27).",
+        "Porque a lei constitui sumos sacerdotes a homens fracos; mas a palavra do juramento, posterior à lei, constitui o Filho, aperfeiçoado para sempre (7:28)."
+      ],
+      "crossRefs": [
+        "Salmo 110:4 — Sacerdote para sempre segundo Melquisedeque.",
+        "Gênesis 14:18–20 — Melquisedeque abençoa Abraão.",
+        "Levítico 16:34 — Serviço sacerdotal contínuo sob a lei."
+      ],
+      "translationNotes": [
+        {
+          "term": "Melquisedeque",
+          "original": "Hebrew: מַלְכִּי־צֶדֶק (Malkî-ṣedeq) — Greek: Μελχισεδέκ (Melchisedék, NT) — Aramaic: מלכי צדקא (Malkī ṣidqā)",
+          "note": "O nome significa 'rei da justiça'; rei de Salém, sacerdote do Deus Altíssimo, tipo de Cristo no seu sacerdócio eterno."
+        },
+        {
+          "term": "Uma vez por todas",
+          "original": "Hebrew: אַחַת לְעוֹלָם (ʾaḥat ləʿōlām, sense) — Greek: ἐφάπαξ (ephápax, NT) — Aramaic: חדא לעלמין (ḥadā l-ʿālmīn)",
+          "note": "Significa 'um único ato válido para sempre'; usado para o sacrifício único e irrepetível de Cristo."
+        }
+      ],
+      "keyTakeaway": "Jesus é o grande sumo sacerdote, superior ao sacerdócio levítico, designado para sempre segundo Melquisedeque, e capaz de salvar totalmente."
+    },
+    {
+      "id": "hebrews-8",
+      "title": "📜 Hebreus 8",
+      "refs": [
+        "Hebrews 8:1-13"
+      ],
+      "summaryBullets": [
+        "Ora, o ponto principal do que estamos dizendo é que temos tal sumo sacerdote, o qual se assentou à direita do trono da Majestade nos céus (8:1).",
+        "Ministro do santuário e do verdadeiro tabernáculo que o Senhor erigiu, e não o homem (8:2).",
+        "Porque todo sumo sacerdote é constituído para apresentar ofertas e sacrifícios; pelo que é necessário que este também tenha algo que oferecer (8:3).",
+        "Ora, se ele estivesse na terra, nem sequer seria sacerdote, havendo sacerdotes que apresentam as ofertas segundo a lei (8:4).",
+        "Os quais servem de exemplo e sombra das coisas celestiais. Porque quando Moisés estava para erigir o tabernáculo, foi instruído por Deus, dizendo: \"Vê que faças tudo conforme o modelo que te foi mostrado no monte\" (8:5).",
+        "Mas agora Cristo obteve um ministério tanto melhor quanto é mediador de uma melhor aliança, estabelecida sobre melhores promessas (8:6).",
+        "Porque se aquela primeira aliança tivesse sido sem defeito, certamente não se teria buscado lugar para a segunda (8:7).",
+        "Porque repreendendo-os diz: \"Eis que vêm dias, diz o Senhor, em que estabelecerei com a casa de Israel e com a casa de Judá uma nova aliança\" (8:8).",
+        "\"Não como a aliança que fiz com os seus pais no dia em que os tomei pela mão para os tirar da terra do Egito; porque eles não permaneceram na minha aliança, e eu me desentendi deles, diz o Senhor\" (8:9).",
+        "\"Porque esta é a aliança que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei as minhas leis na mente deles, e no seu coração as escreverei; e eu serei o seu Deus, e eles serão o meu povo\" (8:10).",
+        "\"E não ensinarão cada um o seu próximo, nem cada um o seu irmão, dizendo: 'Conhece ao Senhor'; porque todos me conhecerão, desde o menor até ao maior deles\" (8:11).",
+        "\"Porque serei propício às suas iniquidades, e dos seus pecados jamais me lembrarei\" (8:12).",
+        "Ao dizer nova aliança, deu por velha a primeira; e o que se torna velho e envelhece, está prestes a desaparecer (8:13)."
+      ],
+      "crossRefs": [
+        "Jeremias 31:31–34 — Profecia da nova aliança.",
+        "Êxodo 24:8 — Sangue da aliança.",
+        "Levítico 16:34 — Ritual anual de expiação."
+      ],
+      "translationNotes": [
+        {
+          "term": "Aliança",
+          "original": "Hebrew: בְּרִית (berît) — Greek: διαθήκη (diathḗkē, NT) — Aramaic: קְיָמָא (qeyāmā)",
+          "note": "Denota um acordo vinculante; no uso bíblico, o arranjo solene de Deus com o seu povo."
+        },
+        {
+          "term": "Adoração",
+          "original": "Greek: λατρεύω (latreuo)",
+          "note": "Servir ou ministrar, especialmente no dever sacerdotal. Em Lucas 1:74–75, significa servir a Deus em santidade. Em Romanos 12:1, Paulo aplica o termo à apresentação da vida como sacrifício vivo. Também usado em Filipenses 3:3, Hebreus 9:14 e Apocalipse 22:3 para mostrar a adoração como serviço e fidelidade ao longo da vida."
+        },
+        {
+          "term": "Uma vez por todas",
+          "original": "Hebrew: אַחַת לְעוֹלָם (ʾaḥat ləʿōlām, sense) — Greek: ἐφάπαξ (ephápax, NT) — Aramaic: חדא לעלמין (ḥadā l-ʿālmīn)",
+          "note": "Expressão que enfatiza o sacrifício de Cristo como único, suficiente e irrepetível."
+        }
+      ],
+      "keyTakeaway": "Cristo medeia uma aliança superior, cumpre a profecia de Jeremias e, por um único sacrifício, assegura redenção eterna e perdão."
+    },
+    {
+      "id": "hebrews-9",
+      "title": "📜 Hebreus 9",
+      "refs": [
+        "Hebrews 9:1-28"
+      ],
+      "summaryBullets": [
+        "Ora, também a primeira aliança tinha ordenanças de culto e um santuário terrestre (9:1).",
+        "Porque o tabernáculo foi preparado assim: na primeira parte estavam o candelabro, a mesa e os pães da proposição. Esta se chama o Lugar Santo (9:2).",
+        "Atrás do segundo véu estava a parte do tabernáculo chamada o Santo dos Santos (9:3).",
+        "O qual tinha um altar de ouro para o incenso e a arca da aliança coberta de ouro por todos os lados, na qual estava uma urna de ouro contendo o maná, a vara de Arão que floresceu, e as tábuas da aliança (9:4).",
+        "E sobre ela os querubins de glória que cobriam o propiciatório. Destas coisas não podemos agora falar em detalhe (9:5).",
+        "Ora, preparadas assim estas coisas, os sacerdotes entram continuamente na primeira parte do tabernáculo para cumprir os ofícios do culto (9:6).",
+        "Mas na segunda parte entra somente o sumo sacerdote, uma vez por ano, não sem sangue, o qual oferece por si mesmo e pelos pecados de ignorância do povo (9:7).",
+        "Com o que o Espírito Santo dá a entender que ainda não se havia manifestado o caminho para o Santo dos Santos, enquanto a primeira parte do tabernáculo ainda subsistia (9:8).",
+        "O que é símbolo para o tempo presente, segundo o qual se apresentam ofertas e sacrifícios que não podem aperfeiçoar, quanto à consciência, aquele que presta esse culto (9:9).",
+        "Visto que consistem somente em comidas e bebidas, e diversas abluções, e ordenanças acerca da carne, impostas até ao tempo da reforma (9:10).",
+        "Mas estando já presente Cristo, sumo sacerdote dos bens vindouros, pelo mais amplo e mais perfeito tabernáculo, não feito por mãos, isto é, não desta criação (9:11),",
+        "Entrou uma vez para sempre no Santo dos Santos, não pelo sangue de bodes e bezerros, mas pelo seu próprio sangue, havendo obtido eterna redenção (9:12).",
+        "Porque se o sangue dos touros e dos bodes, e a cinza da novilha aspergida sobre os impuros, os santifica para a purificação da carne (9:13),",
+        "Quanto mais o sangue de Cristo, o qual pelo Espírito eterno se ofereceu a si mesmo sem mancha a Deus, purificará as vossas consciências de obras mortas para servirdes ao Deus vivo? (9:14).",
+        "E por isso é mediador de uma nova aliança, para que, intervindo a morte para remissão das transgressões que havia debaixo da primeira aliança, os chamados recebam a promessa da herança eterna (9:15).",
+        "Porque onde há testamento, é necessário que intervenha a morte do testador (9:16).",
+        "Porque o testamento com a morte se confirma; pois não tem validade enquanto o testador vive (9:17).",
+        "Por isso nem a primeira aliança foi inaugurada sem sangue (9:18).",
+        "Porque havendo Moisés anunciado todos os mandamentos da lei a todo o povo, tomou o sangue dos bezerros e dos bodes, com água, lã escarlate e hissopo, e aspergiu tanto o próprio livro como todo o povo (9:19).",
+        "Dizendo: \"Este é o sangue da aliança que Deus vos ordenou\" (9:20).",
+        "E da mesma maneira aspergiu com sangue tanto o tabernáculo como todos os utensílios do ministério (9:21).",
+        "E segundo a lei, quase tudo é purificado com sangue; e sem derramamento de sangue não há remissão (9:22).",
+        "Foi, pois, necessário que as figuras das coisas celestiais fossem purificadas assim; mas as próprias coisas celestiais, com melhores sacrifícios do que estes (9:23).",
+        "Porque não entrou Cristo em santuário feito por mãos, figura do verdadeiro, mas no próprio céu para agora comparecer por nós perante Deus (9:24).",
+        "Nem para se oferecer muitas vezes, como o sumo sacerdote entra no Santo dos Santos cada ano com sangue alheio (9:25).",
+        "De outra maneira teria sido necessário padecer muitas vezes desde a fundação do mundo; mas agora, na consumação dos séculos, se manifestou uma vez para sempre pelo sacrifício de si mesmo para tirar o pecado (9:26).",
+        "E assim como aos homens está ordenado morrerem uma só vez, vindo depois disto o juízo (9:27),",
+        "Assim também Cristo foi oferecido uma vez para levar os pecados de muitos; e aparecerá segunda vez, sem pecado, para a salvação dos que o esperam (9:28)."
+      ],
+      "crossRefs": [
+        "Jeremias 31:31–34 — Profecia da nova aliança.",
+        "Êxodo 24:8 — Sangue da aliança.",
+        "Levítico 16:34 — Ritual anual de expiação."
+      ],
+      "translationNotes": [
+        {
+          "term": "Aliança",
+          "original": "Hebrew: בְּרִית (berît) — Greek: διαθήκη (diathḗkē, NT) — Aramaic: קְיָמָא (qeyāmā)",
+          "note": "Denota um acordo vinculante; no uso bíblico, o arranjo solene de Deus com o seu povo."
+        },
+        {
+          "term": "Adoração",
+          "original": "Greek: λατρεύω (latreuo)",
+          "note": "Servir ou ministrar, especialmente no dever sacerdotal. Em Lucas 1:74–75, significa servir a Deus em santidade. Em Romanos 12:1, Paulo aplica o termo à apresentação da vida como sacrifício vivo. Também usado em Filipenses 3:3, Hebreus 9:14 e Apocalipse 22:3 para mostrar a adoração como serviço e fidelidade ao longo da vida."
+        },
+        {
+          "term": "Uma vez por todas",
+          "original": "Hebrew: אַחַת לְעוֹלָם (ʾaḥat ləʿōlām, sense) — Greek: ἐφάπαξ (ephápax, NT) — Aramaic: חדא לעלמין (ḥadā l-ʿālmīn)",
+          "note": "Expressão que enfatiza o sacrifício de Cristo como único, suficiente e irrepetível."
+        }
+      ],
+      "keyTakeaway": "Cristo medeia uma aliança superior, cumpre a profecia de Jeremias e, por um único sacrifício, assegura redenção eterna e perdão."
+    },
+    {
+      "id": "hebrews-10",
+      "title": "📜 Hebreus 10",
+      "refs": [
+        "Hebrews 10:1-39"
+      ],
+      "summaryBullets": [
+        "Porque tendo a lei a sombra dos bens futuros, e não a imagem exata das coisas, nunca pode, pelos mesmos sacrifícios que continuamente se oferecem cada ano, aperfeiçoar os que se chegam (10:1).",
+        "De outra maneira, não teriam deixado de ser oferecidos, visto que os que prestam esse culto, uma vez purificados, não teriam mais consciência de pecados? (10:2).",
+        "Mas nestes sacrifícios cada ano se faz lembrança dos pecados (10:3).",
+        "Porque é impossível que o sangue dos touros e dos bodes tire os pecados (10:4).",
+        "Pelo que, entrando no mundo, diz: \"Sacrifício e oferta não quiseste, mas corpo me preparaste\" (10:5).",
+        "\"Em holocaustos e oblações pelo pecado não tiveste prazer\" (10:6).",
+        "\"Então disse: 'Eis aqui venho, ó Deus, para fazer a tua vontade, como no rolo do livro está escrito de mim'\" (10:7).",
+        "Dizendo primeiro: \"Sacrifício e oferta, e holocaustos e oblações pelo pecado não quiseste, nem neles tiveste prazer\" (coisas que se oferecem segundo a lei) (10:8),",
+        "Depois disse: \"Eis aqui venho para fazer a tua vontade.\" Ele tira o primeiro para estabelecer o segundo (10:9).",
+        "E nessa vontade somos santificados pela oferta do corpo de Jesus Cristo feita uma vez para sempre (10:10).",
+        "E certamente todo sacerdote se apresenta dia após dia ministrando e oferecendo muitas vezes os mesmos sacrifícios, que nunca podem tirar os pecados (10:11).",
+        "Mas Cristo, havendo oferecido uma vez para sempre um único sacrifício pelos pecados, assentou-se à direita de Deus (10:12).",
+        "Esperando daí em diante até que os seus inimigos sejam postos por escabelo dos seus pés (10:13).",
+        "Porque com uma só oferta aperfeiçoou para sempre os santificados (10:14).",
+        "E também o Espírito Santo no-lo testifica; porque depois de haver dito (10:15):",
+        "\"Esta é a aliança que farei com eles depois daqueles dias, diz o Senhor: Porei as minhas leis nos seus corações, e nas suas mentes as escreverei\" (10:16),",
+        "Acrescenta: \"E dos seus pecados e das suas iniquidades jamais me lembrarei\" (10:17).",
+        "Ora, onde há remissão destes, não há mais oferta pelo pecado (10:18).",
+        "Portanto, irmãos, tendo ousadia para entrar no Santo dos Santos pelo sangue de Jesus (10:19),",
+        "Pelo caminho novo e vivo que ele nos abriu através do véu, isto é, da sua carne (10:20),",
+        "E tendo um grande sacerdote sobre a casa de Deus (10:21),",
+        "Cheguemo-nos com verdadeiro coração, em inteira certeza de fé, tendo os corações purificados da má consciência e o corpo lavado com água pura (10:22).",
+        "Retenhamos firme a confissão da nossa esperança sem vacilar, porque fiel é o que prometeu (10:23).",
+        "E consideremo-nos uns aos outros para nos estimularmos ao amor e às boas obras (10:24),",
+        "Não deixando de congregar-nos, como é costume de alguns, mas admoestando-nos; e tanto mais quanto vedes que se vai aproximando aquele dia (10:25).",
+        "Porque se pecarmos voluntariamente depois de termos recebido o conhecimento da verdade, já não resta mais sacrifício pelos pecados (10:26),",
+        "Mas uma horrenda expectativa de juízo, e ardor de fogo que há de devorar os adversários (10:27).",
+        "Quem viola a lei de Moisés, pelo testemunho de duas ou três testemunhas, morre sem misericórdia (10:28).",
+        "Quanto maior castigo pensais que merecerá aquele que pisou o Filho de Deus, e teve por profano o sangue da aliança com que foi santificado, e ultrajou o Espírito da graça? (10:29).",
+        "Pois conhecemos aquele que disse: \"Minha é a vingança, eu retribuirei.\" E outra vez: \"O Senhor julgará o seu povo\" (10:30).",
+        "Horrenda coisa é cair nas mãos do Deus vivo! (10:31).",
+        "Mas lembrai-vos dos dias passados, em que, depois de iluminados, suportastes grande combate de aflições (10:32),",
+        "Quer sendo feitos espetáculo com vitupérios e tribulações, quer tornando-vos companheiros dos que assim foram tratados (10:33).",
+        "Porque tivestes compaixão dos presos e com alegria aceitastes o roubo dos vossos bens, sabendo que tínheis para vós mesmos uma possessão melhor e permanente (10:34).",
+        "Não lanceis fora, pois, a vossa confiança, que tem grande galardão (10:35).",
+        "Porque necessitais de paciência, para que, havendo feito a vontade de Deus, possais alcançar a promessa (10:36).",
+        "Porque: \"Ainda um pouquinho, e o que há de vir virá, e não tardará\" (10:37).",
+        "\"Mas o justo viverá pela fé; e se retroceder, a minha alma não tem prazer nele\" (10:38).",
+        "Nós, porém, não somos dos que retrocedem para a perdição, mas dos que têm fé para a conservação da alma (10:39)."
+      ],
+      "crossRefs": [
+        "Jeremias 31:31–34 — Profecia da nova aliança.",
+        "Êxodo 24:8 — Sangue da aliança.",
+        "Levítico 16:34 — Ritual anual de expiação."
+      ],
+      "translationNotes": [
+        {
+          "term": "Aliança",
+          "original": "Hebrew: בְּרִית (berît) — Greek: διαθήκη (diathḗkē, NT) — Aramaic: קְיָמָא (qeyāmā)",
+          "note": "Denota um acordo vinculante; no uso bíblico, o arranjo solene de Deus com o seu povo."
+        },
+        {
+          "term": "Adoração",
+          "original": "Greek: λατρεύω (latreuo)",
+          "note": "Servir ou ministrar, especialmente no dever sacerdotal. Em Lucas 1:74–75, significa servir a Deus em santidade. Em Romanos 12:1, Paulo aplica o termo à apresentação da vida como sacrifício vivo. Também usado em Filipenses 3:3, Hebreus 9:14 e Apocalipse 22:3 para mostrar a adoração como serviço e fidelidade ao longo da vida."
+        },
+        {
+          "term": "Uma vez por todas",
+          "original": "Hebrew: אַחַת לְעוֹלָם (ʾaḥat ləʿōlām, sense) — Greek: ἐφάπαξ (ephápax, NT) — Aramaic: חדא לעלמין (ḥadā l-ʿālmīn)",
+          "note": "Expressão que enfatiza o sacrifício de Cristo como único, suficiente e irrepetível."
+        }
+      ],
+      "keyTakeaway": "Cristo medeia uma aliança superior, cumpre a profecia de Jeremias e, por um único sacrifício, assegura redenção eterna e perdão."
+    },
+    {
+      "id": "hebrews-11",
+      "title": "🌿 Hebreus 11",
+      "refs": [
+        "Hebrews 11:1-40"
+      ],
+      "summaryBullets": [
+        "Ora, a fé é a certeza das coisas que se esperam, a convicção das que não se veem (11:1).",
+        "Porque por ela os antigos alcançaram bom testemunho (11:2).",
+        "Pela fé entendemos que o universo foi criado pela palavra de Deus, de maneira que o que se vê não foi feito do que é visível (11:3).",
+        "Pela fé Abel ofereceu a Deus mais excelente sacrifício do que Caim, pelo qual alcançou testemunho de que era justo, dando Deus testemunho das suas ofertas; e por ela, mesmo depois de morto, ainda fala (11:4).",
+        "Pela fé Enoque foi trasladado para não ver a morte, e não foi achado, porque Deus o trasladara. E antes da sua trasladação alcançou testemunho de que agradara a Deus (11:5).",
+        "Ora, sem fé é impossível agradar a Deus; porque é necessário que aquele que se aproxima de Deus creia que ele existe e que é galardoador dos que o buscam (11:6).",
+        "Pela fé Noé, divinamente avisado acerca de coisas que ainda não se viam, com temor preparou a arca para salvação da sua família; e por ela condenou o mundo e tornou-se herdeiro da justiça que vem pela fé (11:7).",
+        "Pela fé Abraão, sendo chamado, obedeceu para sair ao lugar que havia de receber por herança; e saiu sem saber para onde ia (11:8).",
+        "Pela fé habitou na terra da promessa como em terra alheia, morando em tendas com Isaque e Jacó, co-herdeiros da mesma promessa (11:9).",
+        "Porque esperava a cidade que tem fundamentos, cujo arquiteto e construtor é Deus (11:10).",
+        "Pela fé também a própria Sara recebeu poder para conceber, mesmo fora da idade, porque teve por fiel o que lho havia prometido (11:11).",
+        "Pelo que também de um, e esse já quase morto, nasceram tantos como as estrelas do céu em multidão, e como a areia inumerável que está na praia do mar (11:12).",
+        "Todos estes morreram na fé, sem terem recebido as promessas, mas vendo-as de longe, e crendo nelas, e saudando-as, e confessando que eram estrangeiros e peregrinos na terra (11:13).",
+        "Porque os que dizem tais coisas claramente mostram que buscam uma pátria (11:14).",
+        "E se estivessem pensando naquela de onde haviam saído, certamente teriam tido oportunidade de voltar (11:15).",
+        "Mas agora desejam uma melhor, isto é, a celestial. Pelo que também Deus não se envergonha de se chamar seu Deus, porque lhes preparou uma cidade (11:16).",
+        "Pela fé Abraão, quando foi provado, ofereceu Isaque; e aquele que recebera as promessas oferecia o seu unigênito (11:17).",
+        "De quem se disse: \"Em Isaque será chamada a tua descendência\" (11:18).",
+        "Considerando que Deus era poderoso para até dos mortos o ressuscitar; de onde também em figura o recobrou (11:19).",
+        "Pela fé Isaque abençoou Jacó e Esaú, no tocante a coisas futuras (11:20).",
+        "Pela fé Jacó, ao morrer, abençoou cada um dos filhos de José, e adorou apoiado sobre a extremidade do seu bordão (11:21).",
+        "Pela fé José, ao morrer, fez menção da saída dos filhos de Israel e deu ordem acerca dos seus ossos (11:22).",
+        "Pela fé Moisés, quando nasceu, foi escondido por seus pais durante três meses, porque viram que o menino era formoso, e não temeram o edito do rei (11:23).",
+        "Pela fé Moisés, sendo já grande, recusou ser chamado filho da filha de Faraó (11:24).",
+        "Escolhendo antes ser maltratado com o povo de Deus do que gozar por um tempo dos prazeres do pecado (11:25).",
+        "Tendo por maiores riquezas o opróbrio de Cristo do que os tesouros do Egito; porque tinha os olhos postos na recompensa (11:26).",
+        "Pela fé deixou o Egito, não temendo a ira do rei; porque perseverou como quem vê aquele que é invisível (11:27).",
+        "Pela fé celebrou a Páscoa e a aspersão do sangue, para que o destruidor dos primogênitos lhes não tocasse (11:28).",
+        "Pela fé passaram o Mar Vermelho como por terra seca; o que intentando os egípcios, foram afogados (11:29).",
+        "Pela fé caíram os muros de Jericó, depois de rodeados por sete dias (11:30).",
+        "Pela fé Raabe, a meretriz, não pereceu com os desobedientes, havendo recebido os espias em paz (11:31).",
+        "E que mais direi? Porque o tempo me faltaria para contar de Gideão, de Baraque, de Sansão, de Jefté, de Davi, de Samuel e dos profetas (11:32),",
+        "Os quais pela fé conquistaram reinos, praticaram a justiça, alcançaram promessas, fecharam bocas de leões (11:33),",
+        "Apagaram a força do fogo, escaparam ao fio da espada, da fraqueza tiraram forças, tornaram-se valentes na guerra, puseram em fuga exércitos estrangeiros (11:34).",
+        "As mulheres receberam pela ressurreição os seus mortos; outros foram torturados, não aceitando o resgate, para alcançarem uma melhor ressurreição (11:35).",
+        "Outros experimentaram escárnios e açoites, e até mesmo cadeias e prisões (11:36).",
+        "Foram apedrejados, serrados, postos à prova, mortos ao fio da espada; andaram errantes vestidos de peles de ovelhas e de cabras, desamparados, aflitos, maltratados (11:37),",
+        "Dos quais o mundo não era digno; errantes pelos desertos, pelos montes, pelas covas e pelas cavernas da terra (11:38).",
+        "E todos estes, embora alcançando bom testemunho pela fé, não receberam a promessa (11:39),",
+        "Provendo Deus alguma coisa melhor a nosso respeito, para que eles sem nós não fossem aperfeiçoados (11:40)."
+      ],
+      "crossRefs": [
+        "Habacuque 2:4 — O justo viverá pela fé.",
+        "Gênesis 22:16–18 — A fé de Abraão provada.",
+        "Deuteronômio 4:24 — O Senhor vosso Deus é fogo consumidor."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fé",
+          "original": "Hebrew: אֱמוּנָה (ʾĕmûnāh) — Greek: πίστις (pístis, NT) — Aramaic: הֵימָנוּתָא (hēymānūṯā)",
+          "note": "Carrega o sentido de confiança, segurança ou fidelidade; Hebreus 11 a define como a certeza da esperança e a convicção das realidades invisíveis."
+        },
+        {
+          "term": "Reino inabalável",
+          "original": "Hebrew: מַלְכוּת בִּלְתִּי מוֹט (malkût biltî mōṭ, sense) — Greek: βασιλείαν ἀσάλευτον (basileían asáleyton, NT) — Aramaic: מלכותא דלא מתזיע (malkūtā d-lā mtazīaʿ)",
+          "note": "Descreve o reinado eterno de Deus, contrastado com as coisas da criação que podem ser abaladas e removidas."
+        }
+      ],
+      "keyTakeaway": "Hebreus chama os crentes à perseverança, apresenta os grandes exemplos de fé e os exorta à santidade como membros do reino inabalável."
+    },
+    {
+      "id": "hebrews-12",
+      "title": "🌿 Hebreus 12",
+      "refs": [
+        "Hebrews 12:1-29"
+      ],
+      "summaryBullets": [
+        "Portanto, nós também, tendo em redor de nós tão grande nuvem de testemunhas, deixemos todo peso e o pecado que tão de perto nos rodeia, e corramos com paciência a corrida que nos está proposta (12:1),",
+        "Olhando para Jesus, autor e consumador da fé, o qual pelo gozo que lhe estava proposto suportou a cruz, desprezando a vergonha, e assentou-se à direita do trono de Deus (12:2).",
+        "Considerai aquele que suportou tal oposição dos pecadores contra si mesmo, para que não vos canseis nem desanimeis (12:3).",
+        "Ainda não resististes até ao sangue, combatendo contra o pecado (12:4).",
+        "E já vos esquecestes da exortação que vos é dirigida como a filhos: \"Filho meu, não desprezes a correção do Senhor, nem desmaies quando por ele és repreendido\" (12:5).",
+        "\"Porque o Senhor corrige o que ama, e açoita a qualquer que recebe por filho\" (12:6).",
+        "Se suportais a correção, Deus vos trata como a filhos; porque que filho há a quem o pai não corrija? (12:7).",
+        "Mas se estais sem correção, da qual todos foram feitos participantes, sois bastardos e não filhos (12:8).",
+        "Além disto, tivemos os nossos pais segundo a carne que nos corrigiam, e nós os respeitávamos; não nos sujeitaremos muito mais ao Pai dos espíritos, e viveremos? (12:9).",
+        "Porque aqueles por pouco tempo nos corrigiam como lhes parecia; mas este nos corrige para nosso proveito, para sermos participantes da sua santidade (12:10).",
+        "Na verdade, nenhuma correção parece no momento ser motivo de gozo, mas de tristeza; porém depois produz um fruto pacífico de justiça nos que por ela foram exercitados (12:11).",
+        "Pelo que levantai as mãos cansadas e os joelhos vacilantes (12:12),",
+        "E fazei veredas direitas para os vossos pés, para que o que manqueja não se desvie antes seja curado (12:13).",
+        "Segui a paz com todos e a santificação, sem a qual ninguém verá o Senhor (12:14).",
+        "Tendo cuidado de que ninguém se prive da graça de Deus; de que nenhuma raiz de amargura brote e vos perturbe, e por ela muitos se contaminem (12:15).",
+        "De que ninguém seja devasso ou profano, como Esaú, que por um só manjar vendeu o seu direito de primogenitura (12:16).",
+        "Porque bem sabeis que depois, desejando herdar a bênção, foi rejeitado; pois não achou lugar de arrependimento, embora com lágrimas o buscasse (12:17).",
+        "Porque não vos chegastes ao que se podia apalpar, a um fogo ardente, à escuridão, às trevas e à tempestade (12:18),",
+        "Nem ao som da trombeta, nem à voz das palavras, a qual os que a ouviram pediram que não se lhes falasse mais (12:19).",
+        "Porque não podiam suportar o que se ordenava: \"Se até um animal tocar o monte, será apedrejado\" (12:20).",
+        "E tão terrível era a visão que Moisés disse: \"Estou espantado e tremendo\" (12:21).",
+        "Mas vós chegastes ao monte Sião, à cidade do Deus vivo, à Jerusalém celestial, e a inumeráveis anjos em festa (12:22),",
+        "À assembleia dos primogênitos inscritos nos céus, a Deus o Juiz de todos, e aos espíritos dos justos aperfeiçoados (12:23),",
+        "A Jesus, o Mediador da nova aliança, e ao sangue aspergido que fala melhor do que o de Abel (12:24).",
+        "Vede que não rejeiteis ao que fala. Porque se não escaparam aqueles que rejeitaram o que na terra os admoestava, muito menos nós, se nos desviarmos daquele que nos admoesta dos céus (12:25).",
+        "Cuja voz abalou então a terra; mas agora prometeu, dizendo: \"Ainda uma vez abalarei não só a terra, mas também o céu\" (12:26).",
+        "E esta palavra: \"Ainda uma vez,\" indica a remoção das coisas abaláveis, como coisas feitas, para que fiquem as inabaláveis (12:27).",
+        "Pelo que, recebendo nós um reino inabalável, retenhamos a gratidão, e com ela sirvamos a Deus de modo agradável, com reverência e temor (12:28),",
+        "Porque o nosso Deus é fogo consumidor (12:29)."
+      ],
+      "crossRefs": [
+        "Habacuque 2:4 — O justo viverá pela fé.",
+        "Gênesis 22:16–18 — A fé de Abraão provada.",
+        "Deuteronômio 4:24 — O Senhor vosso Deus é fogo consumidor."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fé",
+          "original": "Hebrew: אֱמוּנָה (ʾĕmûnāh) — Greek: πίστις (pístis, NT) — Aramaic: הֵימָנוּתָא (hēymānūṯā)",
+          "note": "Carrega o sentido de confiança, segurança ou fidelidade; Hebreus 11 a define como a certeza da esperança e a convicção das realidades invisíveis."
+        },
+        {
+          "term": "Reino inabalável",
+          "original": "Hebrew: מַלְכוּת בִּלְתִּי מוֹט (malkût biltî mōṭ, sense) — Greek: βασιλείαν ἀσάλευτον (basileían asáleyton, NT) — Aramaic: מלכותא דלא מתזיע (malkūtā d-lā mtazīaʿ)",
+          "note": "Descreve o reinado eterno de Deus, contrastado com as coisas da criação que podem ser abaladas e removidas."
+        }
+      ],
+      "keyTakeaway": "Hebreus chama os crentes à perseverança, apresenta os grandes exemplos de fé e os exorta à santidade como membros do reino inabalável."
+    },
+    {
+      "id": "hebrews-13",
+      "title": "🕊️ Hebreus 13",
+      "refs": [
+        "Hebrews 13:1-25"
+      ],
+      "summaryBullets": [
+        "Permaneça o amor fraternal (13:1).",
+        "Não vos esqueçais da hospitalidade, porque por ela alguns, sem o saberem, hospedaram anjos (13:2).",
+        "Lembrai-vos dos presos, como se estivésseis presos com eles; e dos maltratados, como se também vós mesmos estivésseis no corpo (13:3).",
+        "Honrado seja entre todos o matrimônio, e o leito sem mácula; porque aos devassos e adúlteros Deus os julgará (13:4).",
+        "Sejam os vossos costumes sem avareza, contentando-vos com o que tendes; porque ele disse: \"Não te deixarei nem te desampararei\" (13:5).",
+        "De maneira que podemos dizer com confiança: \"O Senhor é o meu auxílio; não temerei; que me poderá fazer o homem?\" (13:6).",
+        "Lembrai-vos dos vossos guias, os quais vos falaram a palavra de Deus; considerai qual tenha sido o resultado da sua vida, e imitai a sua fé (13:7).",
+        "Jesus Cristo é o mesmo ontem, e hoje, e eternamente (13:8).",
+        "Não vos deixeis levar por doutrinas diversas e estranhas; porque bom é que o coração se fortaleça com graça, e não com alimentos, que nunca aproveitaram aos que deles se ocupam (13:9).",
+        "Temos um altar do qual não têm direito de comer os que servem ao tabernáculo (13:10).",
+        "Porque os corpos dos animais cujo sangue é levado para dentro do santuário pelo sumo sacerdote como oferta pelo pecado são queimados fora do arraial (13:11).",
+        "Pelo que também Jesus, para santificar o povo pelo seu próprio sangue, padeceu fora da porta (13:12).",
+        "Saiamos, pois, a ele fora do arraial, levando o seu opróbrio (13:13).",
+        "Porque não temos aqui cidade permanente, mas buscamos a que há de vir (13:14).",
+        "Por ele, pois, ofereçamos sempre a Deus sacrifício de louvor, isto é, o fruto dos lábios que confessam o seu nome (13:15).",
+        "E não vos esqueçais de fazer o bem e de repartir, porque com tais sacrifícios Deus se agrada (13:16).",
+        "Obedecei aos vossos guias, e sujeitai-vos a eles; porque velam por vossas almas, como quem há de dar contas delas; para que o façam com alegria e não gemendo, porque isto não vos seria útil (13:17).",
+        "Orai por nós, pois confiamos que temos boa consciência, desejando portar-nos bem em tudo (13:18).",
+        "E mais vos rogo que o façais, para que eu vos seja restituído mais depressa (13:19).",
+        "Ora, o Deus de paz, que pelo sangue da aliança eterna tornou a trazer dos mortos o nosso Senhor Jesus, o grande pastor das ovelhas (13:20),",
+        "Vos aperfeiçoe em toda a boa obra para fazerdes a sua vontade, operando em vós o que perante ele é agradável por Jesus Cristo; ao qual seja glória para todo o sempre. Amém (13:21).",
+        "Rogo-vos, irmãos, que suporteis a palavra de exortação, pois vos escrevi brevemente (13:22).",
+        "Sabei que o nosso irmão Timóteo está em liberdade, com o qual, se vier brevemente, vos irei ver (13:23).",
+        "Saudai a todos os vossos guias e a todos os santos. Os da Itália vos saúdam (13:24).",
+        "A graça seja com todos vós (13:25)."
+      ],
+      "crossRefs": [
+        "Gênesis 18:2–3 — Abraão hospeda anjos sem o saber.",
+        "Malaquias 3:6 — O Senhor não muda.",
+        "Salmo 118:6 — O Senhor é o meu auxílio; não temerei."
+      ],
+      "translationNotes": [
+        {
+          "term": "Sacrifício de louvor",
+          "original": "Hebrew: זֶבַח תּוֹדָה (zeḇaḥ tôdāh) — Greek: θυσία αἰνέσεως (thysía aineseōs, NT) — Aramaic: דבח תודתא (dabḥa ṭōdātā)",
+          "note": "Expressão para uma oferta de ação de graças; em Hebreus, usada figurativamente para o louvor verbal contínuo a Deus."
+        }
+      ],
+      "keyTakeaway": "A epístola encerra com exortações práticas ao amor, à pureza, ao contentamento, à perseverança, à obediência aos líderes e uma bênção de paz e graça."
+    }
+  ]
+}

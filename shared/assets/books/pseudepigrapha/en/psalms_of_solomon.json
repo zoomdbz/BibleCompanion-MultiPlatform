@@ -1,0 +1,32 @@
+{
+  "id": "psalms_of_solomon",
+  "title": "Psalms of Solomon",
+  "stories": [
+    {
+      "id": "psalms_of_solomon-1",
+      "title": "📜 Psalms of Solomon",
+      "refs": [
+        "Psalms of Solomon 1"
+      ],
+      "summaryBullets": [
+        "A collection of eighteen Jewish psalms from the late 1st century BCE, composed in response to Jerusalem’s conquest by Pompey in 63 BCE and not included in later biblical canons.",
+        "They blend nationalistic lament, calls for righteousness, and Messianic hope—portraying the Messiah as a righteous, David-like deliverer who will rescue Israel, including the earliest use of the title “Son of David.”",
+        "The tone shifts between corporate confession, denunciation of Israel’s leaders, and trust in God’s justice, often urging personal and communal repentance.",
+        "Though originally written in Hebrew or Aramaic, the collection survives only in Greek and Syriac manuscripts; they were grouped under Solomon’s name—likely for prestige, not authorship."
+      ],
+      "crossRefs": [
+        "2 Samuel 7:12–16 — God’s covenant promises to David’s house.",
+        "Isaiah 11:1–2 — Messianic expectation of a righteous shoot from Jesse.",
+        "Matthew 21:9 — 'Son of David' as title applied to Jesus in the Gospels."
+      ],
+      "translationNotes": [
+        {
+          "term": "Son of David",
+          "original": "Hebrew: בֶּן־דָּוִד (ben-Dāwīḏ) — Greek: υἱὸς Δαυὶδ (huios Dauid) — Aramaic: בּר דָּוִד (bar Dāwīḏ)",
+          "note": "An early explicit title for the Messiah here, emphasizing dynastic and hopeful expectations of a righteous king from David’s line."
+        }
+      ],
+      "keyTakeaway": "The Psalms of Solomon give voice to first-century BCE Jewish hopes amid oppression, urging moral reform and Messianic deliverance."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <!-- Allow visibility checks for external apps we may deep-link to (Android 11+) -->
+  <queries>
+    <!-- YouVersion Bible app -->
+    <package android:name="com.sirma.mobile.bible" />
+    <!-- Optional variants sometimes seen in the wild -->
+    <package android:name="com.sirma.mobile.bible.hd" />
+    <package android:name="com.sirma.mobile.bible.dev" />
+    <package android:name="com.sirma.mobile.bible.beta" />
+
+    <!-- PayPal app for Donate deep link -->
+    <package android:name="com.paypal.android.p2pmobile" />
+
+    <!-- Required for TextToSpeech on Android 11+ (package visibility) -->
+    <intent>
+      <action android:name="android.intent.action.TTS_SERVICE" />
+    </intent>
+  </queries>
+
+  <application
+      android:name=".App"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:roundIcon="@mipmap/ic_launcher_round"
+      android:supportsRtl="true"
+      android:theme="@style/Theme.BibleCompanion"
+      android:localeConfig="@xml/locales_config">
+    <activity
+        android:name=".MainActivity"
+        android:exported="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="com.dividesbyzer0.biblecompanion.FEAST_CALENDAR" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+      <intent-filter android:autoVerify="true">
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="biblecompanion"
+              android:host="open" />
+      </intent-filter>
+      <meta-data
+          android:name="android.app.shortcuts"
+          android:resource="@xml/shortcuts" />
+    </activity>
+
+    <receiver
+        android:name=".FeastWidgetReceiver"
+        android:exported="true">
+      <intent-filter>
+        <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+      </intent-filter>
+      <meta-data
+          android:name="android.appwidget.provider"
+          android:resource="@xml/feast_widget_info" />
+    </receiver>
+
+    <receiver
+        android:name=".CalendarGridWidgetReceiver"
+        android:exported="true">
+      <intent-filter>
+        <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+      </intent-filter>
+      <meta-data
+          android:name="android.appwidget.provider"
+          android:resource="@xml/calendar_grid_widget_info" />
+    </receiver>
+
+  </application>
+</manifest>

@@ -1,0 +1,231 @@
+{
+  "id": "1_john",
+  "title": "1 Juan",
+  "stories": [
+    {
+      "id": "1_john-1",
+      "title": "📜 1 Juan 1",
+      "refs": [
+        "1 John 1:1-10"
+      ],
+      "summaryBullets": [
+        "Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos y palparon nuestras manos tocante al Verbo de vida (1:1).",
+        "La vida fue manifestada; la hemos visto, damos testimonio de ella y les anunciamos la vida eterna que estaba con el Padre y se nos manifestó (1:2).",
+        "Lo que hemos visto y oído se lo anunciamos a ustedes, para que tengan comunión con nosotros; y nuestra comunión es con el Padre y con su Hijo Jesucristo (1:3).",
+        "Escribimos estas cosas para que nuestro gozo sea completo (1:4).",
+        "Este es el mensaje: Dios es luz, y en él no hay tiniebla alguna (1:5).",
+        "Si decimos que tenemos comunión con él y andamos en tinieblas, mentimos y no practicamos la verdad (1:6).",
+        "Si andamos en luz como él está en luz, tenemos comunión unos con otros, y la sangre de Jesús su Hijo nos limpia de todo pecado (1:7).",
+        "Si decimos que no tenemos pecado, nos engañamos a nosotros mismos y la verdad no está en nosotros (1:8).",
+        "Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados y limpiarnos de toda maldad (1:9).",
+        "Si decimos que no hemos pecado, lo hacemos a él mentiroso y su palabra no está en nosotros (1:10)."
+      ],
+      "crossRefs": [
+        "Juan 1:1 — En el principio era el Verbo.",
+        "Juan 17:3 — La vida eterna es conocer a Dios y a Jesucristo.",
+        "Filipenses 2:1–2 — Gozo completo en la unidad y la comunión."
+      ],
+      "translationNotes": [
+        {
+          "term": "Palabra de vida",
+          "original": "Hebrew: דְּבַר חַיִּים (dəḇar ḥayyîm) — Greek: λόγος τῆς ζωῆς (lógos tēs zōēs, NT) — Aramaic: מֵימְרָא דְחַיֵּי (memrā d-ḥayyē)",
+          "note": "Expresión que combina 'palabra' (mensaje, revelación) con 'vida,' refiriéndose a la vida eterna revelada en Cristo."
+        }
+      ],
+      "keyTakeaway": "Juan proclama la Palabra de vida hecha manifiesta, invitando a los creyentes a tener comunión con el Padre, el Hijo y unos con otros."
+    },
+    {
+      "id": "1_john-2",
+      "title": "🌿 1 Juan 2",
+      "refs": [
+        "1 John 2:1-29"
+      ],
+      "summaryBullets": [
+        "Hijitos míos, les escribo estas cosas para que no pequen; pero si alguno peca, tenemos un abogado ante el Padre: Jesucristo el justo (2:1).",
+        "Él es la propiciación por nuestros pecados, y no solo por los nuestros sino también por los de todo el mundo (2:2).",
+        "En esto sabemos que lo conocemos: si guardamos sus mandamientos (2:3).",
+        "El que dice \"yo lo conozco\" y no guarda sus mandamientos es mentiroso, y la verdad no está en él (2:4).",
+        "Pero el que guarda su palabra, en él verdaderamente el amor de Dios se ha perfeccionado; por esto sabemos que estamos en él (2:5).",
+        "El que dice que permanece en él debe andar como él anduvo (2:6).",
+        "Amados, no les escribo un mandamiento nuevo, sino un mandamiento antiguo que han tenido desde el principio; el mandamiento antiguo es la palabra que han oído (2:7).",
+        "Sin embargo, les escribo un mandamiento nuevo, que es verdadero en él y en ustedes, porque las tinieblas van pasando y la verdadera luz ya alumbra (2:8).",
+        "El que dice que está en la luz y aborrece a su hermano está todavía en tinieblas (2:9).",
+        "El que ama a su hermano permanece en la luz, y no hay tropiezo en él (2:10).",
+        "Pero el que aborrece a su hermano está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas le han cegado los ojos (2:11).",
+        "Les escribo, hijitos, porque sus pecados les han sido perdonados por su nombre (2:12).",
+        "Les escribo, padres, porque conocen al que es desde el principio; les escribo, jóvenes, porque han vencido al maligno (2:13).",
+        "Les escribo, hijos, porque conocen al Padre; les escribo, padres, porque conocen al que es desde el principio; les escribo, jóvenes, porque son fuertes, la palabra de Dios permanece en ustedes y han vencido al maligno (2:14).",
+        "No amen al mundo ni las cosas que están en el mundo; si alguno ama al mundo, el amor del Padre no está en él (2:15).",
+        "Porque todo lo que hay en el mundo —los deseos de la carne, los deseos de los ojos y la vanagloria de la vida— no proviene del Padre sino del mundo (2:16).",
+        "El mundo pasa, y sus deseos; pero el que hace la voluntad de Dios permanece para siempre (2:17).",
+        "Hijitos, es la última hora; y como han oído que el anticristo viene, así ahora han surgido muchos anticristos; por esto sabemos que es la última hora (2:18).",
+        "Salieron de nosotros, pero no eran de nosotros; porque si hubieran sido de nosotros, habrían permanecido con nosotros (2:19).",
+        "Pero ustedes tienen la unción del Santo y todos tienen conocimiento (2:20).",
+        "No les escribo porque no conozcan la verdad, sino porque la conocen, y porque ninguna mentira procede de la verdad (2:21).",
+        "¿Quién es el mentiroso, sino el que niega que Jesús es el Cristo? Este es el anticristo, el que niega al Padre y al Hijo (2:22).",
+        "Todo aquel que niega al Hijo tampoco tiene al Padre; el que confiesa al Hijo tiene también al Padre (2:23).",
+        "Lo que han oído desde el principio permanezca en ustedes; si lo que oyeron desde el principio permanece en ustedes, también ustedes permanecerán en el Hijo y en el Padre (2:24).",
+        "Y esta es la promesa que él nos hizo: la vida eterna (2:25).",
+        "Les escribo esto acerca de los que tratan de engañarlos (2:26).",
+        "Pero la unción que recibieron de él permanece en ustedes, y no tienen necesidad de que nadie les enseñe; así como su unción les enseña todas las cosas, y es verdadera y no es mentira, así como les ha enseñado, permanezcan en él (2:27).",
+        "Y ahora, hijitos, permanezcan en él, para que cuando se manifieste tengamos confianza y no nos avergoncemos de él en su venida (2:28).",
+        "Si saben que él es justo, sepan también que todo el que practica la justicia ha nacido de él (2:29)."
+      ],
+      "crossRefs": [
+        "Levítico 19:2 — Sed santos, porque yo soy santo.",
+        "Juan 8:12 — Jesús, la luz del mundo.",
+        "Romanos 3:23–24 — Todos pecaron, justificados por gracia mediante Jesús."
+      ],
+      "translationNotes": [
+        {
+          "term": "Propiciación",
+          "original": "Hebrew: הַכַּפֹּרֶת (hakkappōret, mercy seat) — Greek: ἱλασμός (hilasmós, NT) — Aramaic: כַּפָּרָא (kappārā)",
+          "note": "Se refiere al sacrificio expiatorio que quita el pecado y restaura el favor con Dios; vinculado a la imagen del propiciatorio en el templo."
+        }
+      ],
+      "keyTakeaway": "Juan contrasta la luz y las tinieblas, asegurando el perdón mediante Cristo el abogado, y llamando a los creyentes a obedecer y andar como él anduvo."
+    },
+    {
+      "id": "1_john-3",
+      "title": "📜 1 Juan 3",
+      "refs": [
+        "1 John 3:1-24"
+      ],
+      "summaryBullets": [
+        "Miren cuán grande amor nos ha dado el Padre, para que seamos llamados hijos de Dios; y lo somos; por esto el mundo no nos conoce, porque no lo conoció a él (3:1).",
+        "Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que seremos; pero sabemos que cuando él se manifieste, seremos semejantes a él, porque lo veremos tal como es (3:2).",
+        "Todo aquel que tiene esta esperanza en él se purifica a sí mismo, así como él es puro (3:3).",
+        "Todo el que practica el pecado practica también la infracción de la ley; el pecado es infracción de la ley (3:4).",
+        "Ustedes saben que él se manifestó para quitar los pecados, y en él no hay pecado (3:5).",
+        "Todo aquel que permanece en él no peca; todo aquel que peca no lo ha visto ni lo ha conocido (3:6).",
+        "Hijitos, que nadie los engañe; el que practica la justicia es justo, como él es justo (3:7).",
+        "El que practica el pecado es del diablo, porque el diablo peca desde el principio; para esto se manifestó el Hijo de Dios: para deshacer las obras del diablo (3:8).",
+        "Todo aquel que ha nacido de Dios no practica el pecado, porque la simiente de Dios permanece en él; y no puede seguir pecando, porque ha nacido de Dios (3:9).",
+        "En esto se manifiestan los hijos de Dios y los hijos del diablo: todo aquel que no practica la justicia no es de Dios, ni tampoco el que no ama a su hermano (3:10).",
+        "Porque este es el mensaje que han oído desde el principio: que nos amemos unos a otros (3:11).",
+        "No como Caín, que era del maligno y mató a su hermano; ¿y por qué lo mató? Porque sus obras eran malas y las de su hermano justas (3:12).",
+        "No se extrañen, hermanos, si el mundo los aborrece (3:13).",
+        "Nosotros sabemos que hemos pasado de muerte a vida, porque amamos a los hermanos; el que no ama permanece en muerte (3:14).",
+        "Todo aquel que aborrece a su hermano es homicida, y ustedes saben que ningún homicida tiene vida eterna permanente en él (3:15).",
+        "En esto hemos conocido el amor: en que él puso su vida por nosotros; también nosotros debemos poner nuestras vidas por los hermanos (3:16).",
+        "Pero el que tiene bienes de este mundo y ve a su hermano en necesidad y cierra contra él su corazón, ¿cómo mora el amor de Dios en él? (3:17).",
+        "Hijitos, no amemos de palabra ni de lengua, sino de hecho y en verdad (3:18).",
+        "En esto conoceremos que somos de la verdad y aseguraremos nuestro corazón delante de él (3:19).",
+        "Pues si nuestro corazón nos condena, Dios es mayor que nuestro corazón y él conoce todas las cosas (3:20).",
+        "Amados, si nuestro corazón no nos condena, tenemos confianza delante de Dios (3:21).",
+        "Y cualquier cosa que pidamos la recibiremos de él, porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él (3:22).",
+        "Y este es su mandamiento: que creamos en el nombre de su Hijo Jesucristo y nos amemos unos a otros, como él nos mandó (3:23).",
+        "El que guarda sus mandamientos permanece en Dios, y Dios en él; y en esto sabemos que él permanece en nosotros: por el Espíritu que nos ha dado (3:24)."
+      ],
+      "crossRefs": [
+        "Génesis 4:8 — Caín mata a Abel.",
+        "Juan 13:34 — Amaos unos a otros como yo os he amado.",
+        "Juan 8:44 — El diablo es homicida desde el principio."
+      ],
+      "translationNotes": [
+        {
+          "term": "Iniquidad",
+          "original": "Hebrew: אָוֶן / עַוְלָה (ʾāwen / ʿawlāh, sense) — Greek: ἀνομία (anomía, NT) — Aramaic: עולא (ʿawlâ)",
+          "note": "Significa violación deliberada de la ley de Dios; se usa aquí para equiparar el pecado con la rebelión contra la norma divina."
+        }
+      ],
+      "keyTakeaway": "Juan contrasta a los hijos de Dios, que aman y practican la justicia, con los hijos del diablo, que pecan y odian; los creyentes conocen el amor porque Cristo dio su vida por nosotros."
+    },
+    {
+      "id": "1_john-4",
+      "title": "🌿 1 Juan 4",
+      "refs": [
+        "1 John 4:1-21"
+      ],
+      "summaryBullets": [
+        "Amados, no crean a todo espíritu, sino prueben los espíritus para ver si son de Dios, porque muchos falsos profetas han salido por el mundo (4:1).",
+        "En esto conocen el Espíritu de Dios: todo espíritu que confiesa que Jesucristo ha venido en carne es de Dios (4:2).",
+        "Y todo espíritu que no confiesa a Jesús no es de Dios; este es el espíritu del anticristo, del cual han oído que viene y que ahora ya está en el mundo (4:3).",
+        "Hijitos, ustedes son de Dios y los han vencido, porque mayor es el que está en ustedes que el que está en el mundo (4:4).",
+        "Ellos son del mundo; por eso hablan del mundo, y el mundo los escucha (4:5).",
+        "Nosotros somos de Dios; el que conoce a Dios nos escucha; el que no es de Dios no nos escucha; en esto conocemos el espíritu de verdad y el espíritu de error (4:6).",
+        "Amados, amémonos unos a otros, porque el amor es de Dios, y todo aquel que ama ha nacido de Dios y conoce a Dios (4:7).",
+        "El que no ama no conoce a Dios, porque Dios es amor (4:8).",
+        "En esto se manifestó el amor de Dios para con nosotros: en que Dios envió a su Hijo unigénito al mundo para que vivamos por medio de él (4:9).",
+        "En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que él nos amó a nosotros y envió a su Hijo en propiciación por nuestros pecados (4:10).",
+        "Amados, si Dios nos ha amado así, también nosotros debemos amarnos unos a otros (4:11).",
+        "Nadie ha visto jamás a Dios; si nos amamos unos a otros, Dios permanece en nosotros y su amor se perfecciona en nosotros (4:12).",
+        "En esto sabemos que permanecemos en él y él en nosotros: en que nos ha dado de su Espíritu (4:13).",
+        "Y nosotros hemos visto y testificamos que el Padre ha enviado al Hijo como Salvador del mundo (4:14).",
+        "Todo aquel que confiese que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios (4:15).",
+        "Y nosotros hemos conocido y creído el amor que Dios tiene para con nosotros; Dios es amor, y el que permanece en amor permanece en Dios, y Dios en él (4:16).",
+        "En esto se perfecciona el amor con nosotros, para que tengamos confianza en el día del juicio, pues como él es, así somos nosotros en este mundo (4:17).",
+        "En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor tiene que ver con el castigo, y el que teme no ha sido perfeccionado en el amor (4:18).",
+        "Nosotros amamos porque él nos amó primero (4:19).",
+        "Si alguno dice: \"Yo amo a Dios,\" y aborrece a su hermano, es mentiroso; porque el que no ama a su hermano a quien ha visto, no puede amar a Dios a quien no ha visto (4:20).",
+        "Y este mandamiento tenemos de él: que el que ama a Dios ame también a su hermano (4:21)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 13:1–3 — Probad a los profetas.",
+        "Juan 1:14 — El Verbo se hizo carne.",
+        "Romanos 5:8 — Dios muestra su amor en la muerte de Cristo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Propiciación",
+          "original": "Hebrew: הַכַּפֹּרֶת (hakkappōret, mercy seat) — Greek: ἱλασμός (hilasmós, NT) — Aramaic: כַּפָּרָא (kappārā)",
+          "note": "Se refiere al sacrificio expiatorio que aparta la ira y restaura el favor; aquí Cristo es el enviado en amor como propiciación por los pecados."
+        },
+        {
+          "term": "El perfecto amor echa fuera el temor",
+          "original": "Hebrew: אַהֲבָה שְׁלֵמָה מְגָרֶשֶׁת אֶת־הַפַּחַד (ʾahăḇāh šəlēmāh məgārešet ʾeṯ-happaḥaḏ, sense) — Greek: ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον (hē teleía agápē éxō bállei ton phóbon, NT) — Aramaic: חובא גמורה מפרקת דחלא (ḥūḇā gemūrāh mep̄raqet deḥlā)",
+          "note": "Expresión que describe el amor de Dios llevado a madurez, que elimina el temor al juicio."
+        }
+      ],
+      "keyTakeaway": "Juan enseña a los creyentes a probar los espíritus, reconocer la verdadera confesión de Cristo, y enfatiza que Dios es amor, revelado en su Hijo y perfeccionado en el amor mutuo."
+    },
+    {
+      "id": "1_john-5",
+      "title": "🕊️ 1 Juan 5",
+      "refs": [
+        "1 John 5:1-21"
+      ],
+      "summaryBullets": [
+        "Todo aquel que cree que Jesús es el Cristo ha nacido de Dios, y todo aquel que ama al que engendró ama también al que ha sido engendrado por él (5:1).",
+        "En esto sabemos que amamos a los hijos de Dios: cuando amamos a Dios y guardamos sus mandamientos (5:2).",
+        "Porque este es el amor de Dios: que guardemos sus mandamientos; y sus mandamientos no son gravosos (5:3).",
+        "Porque todo lo que ha nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo: nuestra fe (5:4).",
+        "¿Quién es el que vence al mundo sino el que cree que Jesús es el Hijo de Dios? (5:5).",
+        "Este es el que vino mediante agua y sangre: Jesucristo; no por el agua solamente sino por el agua y la sangre; y el Espíritu es el que da testimonio, porque el Espíritu es la verdad (5:6).",
+        "Porque tres son los que dan testimonio: el Espíritu, el agua y la sangre (5:7).",
+        "Y estos tres concuerdan (5:8).",
+        "Si recibimos el testimonio de los hombres, el testimonio de Dios es mayor; porque este es el testimonio de Dios, que ha dado acerca de su Hijo (5:9).",
+        "El que cree en el Hijo de Dios tiene el testimonio en sí mismo; el que no cree a Dios le ha hecho mentiroso, porque no ha creído en el testimonio que Dios ha dado acerca de su Hijo (5:10).",
+        "Y este es el testimonio: que Dios nos dio vida eterna, y esta vida está en su Hijo (5:11).",
+        "El que tiene al Hijo tiene la vida; el que no tiene al Hijo de Dios no tiene la vida (5:12).",
+        "Les escribo estas cosas a ustedes que creen en el nombre del Hijo de Dios, para que sepan que tienen vida eterna (5:13).",
+        "Y esta es la confianza que tenemos ante él: que si pedimos cualquier cosa conforme a su voluntad, él nos oye (5:14).",
+        "Y si sabemos que él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hemos hecho (5:15).",
+        "Si alguno ve a su hermano cometiendo un pecado que no es de muerte, pedirá, y Dios le dará vida —a los que cometen pecados que no son de muerte; hay un pecado de muerte; no digo que ore por ese (5:16).",
+        "Toda injusticia es pecado, pero hay pecado que no es de muerte (5:17).",
+        "Sabemos que todo aquel que ha nacido de Dios no sigue pecando, sino que aquel que fue engendrado de Dios lo guarda, y el maligno no lo toca (5:18).",
+        "Sabemos que somos de Dios, y el mundo entero está bajo el poder del maligno (5:19).",
+        "Sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento para que conozcamos al que es verdadero; y estamos en el verdadero, en su Hijo Jesucristo; este es el verdadero Dios y la vida eterna (5:20).",
+        "Hijitos, guárdense de los ídolos (5:21)."
+      ],
+      "crossRefs": [
+        "Juan 3:36 — El que cree en el Hijo tiene vida eterna.",
+        "Apocalipsis 12:11 — Ellos lo vencieron por la sangre del Cordero.",
+        "Jeremías 10:11 — Los ídolos son vanidad, dioses falsos."
+      ],
+      "translationNotes": [
+        {
+          "term": "Agua y sangre",
+          "original": "Hebrew: מַיִם וָדָם (mayim wāḏām) — Greek: ὕδωρ καὶ αἷμα (hýdōr kai haîma, NT) — Aramaic: מיא ודמא (mayyā w-dammā)",
+          "note": "Identifica los testigos terrenales vinculados a Jesús: el agua (probablemente el bautismo) y la sangre (su muerte), junto con el Espíritu que da testimonio."
+        },
+        {
+          "term": "Pecado que no lleva a muerte",
+          "original": "Hebrew: חֵטְא שֶׁאֵינוֹ לַמָּוֶת (ḥeṭʾ šeʾênō la-māweṯ, sense) — Greek: ἁμαρτία μὴ πρὸς θάνατον (hamartía mē pros thánaton, NT) — Aramaic: חובא דלא למותא (ḥūḇā d-lāʾ l-mūtā)",
+          "note": "Diferencia entre pecados; algunos no traen juicio inmediato y final, mientras que otros (de muerte) significan el rechazo de la vida de Dios."
+        }
+      ],
+      "keyTakeaway": "Juan concluye que la vida eterna está en el Hijo, la fe vence al mundo, el Espíritu, el agua y la sangre dan testimonio, y los creyentes deben guardarse de los ídolos."
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "id": "ecclesiastes",
+  "title": "Ecclesiaste",
+  "stories": [
+    {
+      "id": "ecclesiastes-1",
+      "title": "🌬️ Ecclesiaste 1",
+      "refs": [
+        "Ecclesiastes 1:1-18"
+      ],
+      "summaryBullets": [
+        "Parole del Predicatore, figlio di Davide, re a Gerusalemme (1:1).",
+        "Vanità delle vanità, dice il Predicatore; vanità delle vanità, tutto è vanità (1:2).",
+        "Quale vantaggio ha l'uomo da tutta la fatica con cui si affatica sotto il sole? (1:3).",
+        "Una generazione se ne va e un'altra viene, ma la terra rimane per sempre (1:4).",
+        "Il sole sorge e il sole tramonta, e si affretta verso il luogo da cui sorge (1:5).",
+        "Il vento soffia verso il sud e gira verso il nord; gira e rigira il vento, e sui suoi circuiti il vento ritorna (1:6).",
+        "Tutti i fiumi scorrono verso il mare, eppure il mare non si riempie; al luogo dove scorrono i fiumi, là continuano a scorrere (1:7).",
+        "Tutte le cose sono piene di stanchezza; l'uomo non può esprimerlo; l'occhio non si sazia di vedere, né l'orecchio si riempie di udire (1:8).",
+        "Ciò che è stato è quel che sarà; ciò che si è fatto è quel che si farà; non c'è nulla di nuovo sotto il sole (1:9).",
+        "C'è forse qualcosa di cui si possa dire: \"Guarda, questo è nuovo\"? Esisteva già nei secoli che ci hanno preceduto (1:10).",
+        "Non c'è memoria delle cose passate; e neppure delle cose che verranno ci sarà memoria presso coloro che verranno dopo (1:11).",
+        "Io, il Predicatore, sono stato re d'Israele a Gerusalemme (1:12).",
+        "Ho applicato il mio cuore a cercare e a investigare con sapienza tutto ciò che si fa sotto il cielo; è un'occupazione penosa che Dio ha dato ai figli dell'uomo (1:13).",
+        "Ho visto tutto ciò che si fa sotto il sole; ed ecco, tutto è vanità e un correre dietro al vento (1:14).",
+        "Ciò che è storto non può essere raddrizzato, e ciò che manca non può essere contato (1:15).",
+        "Ho detto in cuor mio: \"Ho acquistato grande sapienza, superiore a tutti quelli che hanno regnato prima di me a Gerusalemme\"; e il mio cuore ha avuto larga esperienza di sapienza e di conoscenza (1:16).",
+        "Ho applicato il mio cuore a conoscere la sapienza e a conoscere la follia e la stoltezza; ho riconosciuto che anche questo è un correre dietro al vento (1:17).",
+        "Poiché dove c'è molta sapienza c'è molto affanno, e chi accresce la conoscenza accresce il dolore (1:18)."
+      ],
+      "crossRefs": [
+        "Ecclesiaste 12:8 — Il ritornello ripetuto: 'Vanità delle vanità, tutto è vanità.'",
+        "Salmo 90:9–10 — I giorni dell'uomo passano in fretta e finiscono con un sospiro.",
+        "Giobbe 7:6–7 — I giorni sono più veloci di una spola; la vita è un soffio.",
+        "Geremia 2:13 — Immagine dell'acqua: cisterne screpolate che non tengono acqua (contrasto con i fiumi che scorrono)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Qoelet",
+          "original": "Hebrew: קֹהֶלֶת (Qohelet) — Greek (LXX): Ἐκκλησιαστής (Ekklēsiastēs) — Aramaic: קהלת",
+          "note": "Titolo che significa 'colui che raduna o convoca.' Non è reso come nome personale nel testo, al di là della riga del titolo."
+        },
+        {
+          "term": "Vanità / vapore",
+          "original": "Hebrew: הֶבֶל (hevel, ‘breath/vapor’) — Greek (LXX): ματαιότης (mataiotēs) — Aramaic: הֲבֵל (havel)",
+          "note": "Termine ricorrente nel libro. Le traduzioni variano: vanità, vapore, soffio."
+        },
+        {
+          "term": "Profitto",
+          "original": "Hebrew: יִתְרוֹן (yitron) — Greek (LXX): περισσεία / ὠφέλεια — Aramaic: ייתרון",
+          "note": "Vantaggio o surplus. Posto come domanda in 1:3 riguardo alla fatica."
+        },
+        {
+          "term": "Sotto il sole",
+          "original": "Hebrew: תַּחַת הַשָּׁמֶשׁ (taḥat ha-shamesh) — Greek (LXX): ὑπὸ τὸν ἥλιον — Aramaic: תחת שמשא",
+          "note": "Espressione ricorrente nel libro per indicare il luogo delle attività umane."
+        }
+      ],
+      "keyTakeaway": "Il Qoelet enuncia il motto sulla vanità, osserva i cicli che si ripetono, pone la domanda sul profitto della fatica sotto il sole e nota come il ricordo svanisca."
+    },
+    {
+      "id": "ecclesiastes-2",
+      "title": "🧪 Ecclesiaste 2",
+      "refs": [
+        "Ecclesiastes 2:1-26"
+      ],
+      "summaryBullets": [
+        "Ho detto in cuor mio: \"Andiamo! Ti metterò alla prova con la gioia; godi il piacere\"; ma ecco, anche questo è vanità (2:1).",
+        "Del riso ho detto: \"È follia\"; e della gioia: \"A che serve?\" (2:2).",
+        "Ho esaminato nel mio cuore come rallegrare il mio corpo con il vino, mentre il mio cuore mi guidava con sapienza, e come aggrapparmi alla follia finché vedessi ciò che è bene per i figli dell'uomo da fare sotto il cielo nei pochi giorni della loro vita (2:3).",
+        "Ho intrapreso grandi opere: mi sono costruito case e ho piantato vigne (2:4).",
+        "Mi sono fatto giardini e parchi, e vi ho piantato ogni sorta di alberi da frutto (2:5).",
+        "Mi sono fatto vasche d'acqua per irrigare il bosco dove crescevano gli alberi (2:6).",
+        "Ho acquistato servi e serve e ho avuto servi nati in casa; ho avuto anche grandi possedimenti di armenti e di greggi, più di tutti quelli che erano stati prima di me a Gerusalemme (2:7).",
+        "Ho anche ammassato argento e oro e i tesori dei re e delle province; mi sono procurato cantanti e cantanti donne, e le delizie dei figli dell'uomo, donne in gran numero (2:8).",
+        "Sono diventato grande e ho superato tutti quelli che erano stati prima di me a Gerusalemme; e la mia sapienza è rimasta con me (2:9).",
+        "Tutto ciò che i miei occhi desideravano, non l'ho rifiutato loro; non ho negato al mio cuore alcuna gioia, poiché il mio cuore gioiva di tutta la mia fatica, e questa era la mia parte di tutta la mia fatica (2:10).",
+        "Poi ho considerato tutte le opere che le mie mani avevano fatto e la fatica che avevo sostenuto per farle; ed ecco, tutto era vanità e un correre dietro al vento, e non c'era alcun vantaggio sotto il sole (2:11).",
+        "Allora mi sono voltato a considerare la sapienza, la follia e la stoltezza; poiché che farà l'uomo che verrà dopo il re? Ciò che è già stato fatto (2:12).",
+        "Ho visto che la sapienza ha più vantaggio della stoltezza, come la luce ha più vantaggio delle tenebre (2:13).",
+        "Il saggio ha gli occhi in testa, ma lo stolto cammina nelle tenebre; eppure ho riconosciuto che una stessa sorte tocca a tutti e due (2:14).",
+        "Allora ho detto in cuor mio: \"La sorte dello stolto toccherà anche a me; perché dunque sono stato così saggio?\" E ho detto in cuor mio che anche questo è vanità (2:15).",
+        "Poiché del saggio come dello stolto non c'è ricordo duraturo; nei giorni a venire tutto sarà da tempo dimenticato; come muore il saggio? Proprio come lo stolto! (2:16).",
+        "Così ho odiato la vita, perché ciò che si fa sotto il sole mi è stato penoso; poiché tutto è vanità e un correre dietro al vento (2:17).",
+        "Ho odiato tutta la fatica che ho compiuto sotto il sole, poiché devo lasciarla all'uomo che verrà dopo di me (2:18).",
+        "E chi sa se sarà saggio o stolto? Eppure sarà padrone di tutto ciò per cui ho faticato e usato la mia sapienza sotto il sole; anche questo è vanità (2:19).",
+        "Allora mi sono voltato e ho abbandonato il mio cuore alla disperazione per tutta la fatica che avevo compiuto sotto il sole (2:20).",
+        "Poiché talvolta uno che ha faticato con sapienza, conoscenza e abilità deve lasciare tutto a qualcuno che non vi ha faticato; anche questo è vanità e un gran male (2:21).",
+        "Che cosa resta all'uomo di tutta la fatica e dell'affanno del suo cuore con cui si affatica sotto il sole? (2:22).",
+        "Poiché tutti i suoi giorni sono dolore, e la sua occupazione è affanno; perfino di notte il suo cuore non riposa; anche questo è vanità (2:23).",
+        "Non c'è nulla di meglio per l'uomo che mangiare e bere e far godere all'anima il bene nella sua fatica; anche questo, l'ho visto, viene dalla mano di Dio (2:24).",
+        "Infatti, chi può mangiare o chi può godere senza di Lui? (2:25).",
+        "Poiché all'uomo che gli è gradito, Dio dà sapienza, conoscenza e gioia; ma al peccatore dà l'occupazione di raccogliere e ammassare, per dare a chi è gradito a Dio; anche questo è vanità e un correre dietro al vento (2:26)."
+      ],
+      "crossRefs": [
+        "1 Re 7:1–12 — Progetti regali di costruzione a Gerusalemme.",
+        "1 Re 10:14–23 — Ricchezze, argento, oro e beni radunati a Gerusalemme.",
+        "Ecclesiaste 6:2 — Ricchezza non goduta dal suo possessore, annotata altrove nel libro.",
+        "Salmo 127:1–2 — Fatica e insonnia senza il dono del riposo."
+      ],
+      "translationNotes": [
+        {
+          "term": "Rincorrere il vento",
+          "original": "Hebrew: רְעוּת רוּחַ (reʿut ruach) — Greek (LXX): προαίρεσις/νεφέλης (var.) — Aramaic: רעות רוחא",
+          "note": "Espressione idiomatica per un inseguimento futile (1:14) (2:11) (2:17) (2:26)."
+        },
+        {
+          "term": "Shiddah e shiddoth",
+          "original": "Hebrew: שִׁדָּה וְשִׁדּוֹת (shiddah ve-shiddot) — Greek (LXX): ᾠδούς (singers) in some traditions — Aramaic: שדתא ושדותא",
+          "note": "Termini rari in (2:8) le traduzioni variano (per esempio 'concubine,' 'molti diletti'). Qui conservati come espressione ebraica."
+        },
+        {
+          "term": "Mangiare e bere",
+          "original": "Hebrew: אֱכֹל וּשְׁתֵה (ekhol u-shteh) — Greek (LXX): φάγειν καὶ πεῖν — Aramaic: אכול ושתי",
+          "note": "Formula ricorrente nell'Ecclesiaste per il godimento semplice associato alla fatica (2:24–25)."
+        }
+      ],
+      "keyTakeaway": "Il Qoelet riferisce prove su scala regale di sapienza, piacere e lavoro, le trova simili al vapore di fronte alla sorte comune, e afferma che il godimento della fatica è dato dalla mano di Dio."
+    },
+    {
+      "id": "ecclesiastes-3",
+      "title": "⏳ Ecclesiaste 3",
+      "refs": [
+        "Ecclesiastes 3:1-22"
+      ],
+      "summaryBullets": [
+        "Per ogni cosa c'è il suo tempo, e c'è un momento per ogni evento sotto il cielo (3:1).",
+        "Un tempo per nascere e un tempo per morire; un tempo per piantare e un tempo per sradicare ciò che è piantato (3:2).",
+        "Un tempo per uccidere e un tempo per guarire; un tempo per demolire e un tempo per costruire (3:3).",
+        "Un tempo per piangere e un tempo per ridere; un tempo per far cordoglio e un tempo per danzare (3:4).",
+        "Un tempo per gettare pietre e un tempo per raccogliere pietre; un tempo per abbracciare e un tempo per astenersi dall'abbracciare (3:5).",
+        "Un tempo per cercare e un tempo per perdere; un tempo per conservare e un tempo per gettare via (3:6).",
+        "Un tempo per strappare e un tempo per cucire; un tempo per tacere e un tempo per parlare (3:7).",
+        "Un tempo per amare e un tempo per odiare; un tempo per la guerra e un tempo per la pace (3:8).",
+        "Che vantaggio ha chi lavora dalla sua fatica? (3:9).",
+        "Ho visto l'occupazione che Dio ha dato ai figli dell'uomo perché vi si affatichino (3:10).",
+        "Egli ha fatto ogni cosa bella a suo tempo; ha persino messo l'eternità nel cuore dell'uomo, senza però che l'uomo possa scoprire l'opera che Dio ha compiuto dal principio alla fine (3:11).",
+        "Ho riconosciuto che non c'è nulla di meglio per loro che rallegrarsi e fare il bene finché vivono (3:12).",
+        "E anche che ogni uomo mangi e beva e goda il bene in mezzo a tutta la sua fatica: è un dono di Dio (3:13).",
+        "Ho riconosciuto che tutto ciò che Dio fa dura per sempre; non vi si può aggiungere nulla e non se ne può togliere nulla; Dio lo fa perché gli uomini abbiano timore davanti a Lui (3:14).",
+        "Ciò che è, è già stato; ciò che sarà, è già stato; e Dio ricerca ciò che è passato (3:15).",
+        "Inoltre, ho visto sotto il sole che al posto della giustizia c'era la malvagità, e al posto della rettitudine c'era la malvagità (3:16).",
+        "Ho detto in cuor mio: Dio giudicherà il giusto e il malvagio, poiché c'è un tempo per ogni cosa e per ogni opera (3:17).",
+        "Ho detto in cuor mio riguardo ai figli dell'uomo che Dio li mette alla prova perché vedano che essi stessi non sono che bestie (3:18).",
+        "Poiché la sorte dei figli dell'uomo e la sorte delle bestie è la stessa; come muore l'uno, così muore l'altra; hanno tutti uno stesso soffio, e l'uomo non ha alcun vantaggio sulla bestia, poiché tutto è vanità (3:19).",
+        "Tutti vanno nello stesso luogo; tutti vengono dalla polvere e alla polvere tutti ritornano (3:20).",
+        "Chi sa se il soffio dell'uomo sale in alto e se il soffio della bestia scende in basso nella terra? (3:21).",
+        "Ho visto che non c'è nulla di meglio per l'uomo che rallegrarsi delle sue opere, poiché questa è la sua parte; chi lo condurrà a vedere ciò che sarà dopo di lui? (3:22)."
+      ],
+      "crossRefs": [
+        "Salmo 31:15 — 'I miei tempi sono nelle Tue mani.'",
+        "Giobbe 14:5 — I giorni dell'uomo e i suoi limiti sono stabiliti.",
+        "Ecclesiaste 8:6–7 — C'è un tempo e un giudizio per ogni cosa, eppure gli uomini non sanno ciò che sarà.",
+        "Atti 17:26 — I tempi e i confini stabiliti (affermati in un contesto successivo)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Tempo / stagione",
+          "original": "Hebrew: עֵת / זְמָן (ʿet / zeman) — Greek (LXX): καιρός — Aramaic: זמן",
+          "note": "Termini per un'occasione stabilita (3:1–8)."
+        },
+        {
+          "term": "Uccidere (Ecclesiaste 3:3)",
+          "original": "Hebrew: לַהֲרֹג (laharog), Qal infinitive of הָרַג (harag) — Greek (LXX): ἀποκτεῖναι — Aramaic: למקטל",
+          "note": "Verbo generico che significa 'uccidere/mettere a morte,' usato per vari tipi di uccisione (per esempio guerra, esecuzione giudiziaria e persino uccisione illegittima in alcuni contesti). È più ampio di רָצַח (ratsach, 'assassinare'), il verbo del Sesto Comandamento (Es 20:13) (Dt 5:17). Il poema elenca tempi contrapposti ('un tempo per uccidere... un tempo per guarire') come osservazioni sull'esperienza umana e sulla sua tempistica; il verso in sé non specifica una valutazione morale."
+        },
+        {
+          "term": "Bello a suo tempo",
+          "original": "Hebrew: יָפֶה בְּעִתּוֹ (yafeh beʿitto) — Greek (LXX): καλὸν ἐν καιρῷ — Aramaic: שפיר בזמניה",
+          "note": "Affermazione sulla giustezza e l'adeguatezza dei tempi (3:11)."
+        },
+        {
+          "term": "'Olam nel cuore",
+          "original": "Hebrew: הָעֹלָם (ha-ʿolam) — Greek (LXX): τὸν αἰῶνα — Aramaic: עלמא",
+          "note": "Termine reso come 'eternità/durata.' Il versetto dice che gli uomini non possono scoprire l'opera di Dio dal principio alla fine (3:11)."
+        },
+        {
+          "term": "Temere davanti a Lui",
+          "original": "Hebrew: יִירְאוּ מִלְּפָנָיו (yirʾu milfanav) — Greek (LXX): φοβῶνται ἀπὸ προσώπου αὐτοῦ — Aramaic: ידחלון מן קדםוי",
+          "note": "Risultato dichiarato in 3:14 riguardo all'opera eterna di Dio."
+        }
+      ],
+      "keyTakeaway": "Il Qoelet elenca i tempi stabiliti, afferma che l'opera duratura di Dio e il dono del godimento coesistono con l'incapacità umana di scoprire la Sua opera complessiva."
+    },
+    {
+      "id": "ecclesiastes-4",
+      "title": "⚖️ Ecclesiaste 4",
+      "refs": [
+        "Ecclesiastes 4:1-16"
+      ],
+      "summaryBullets": [
+        "Ho visto ancora tutte le oppressioni che si commettono sotto il sole; ed ecco, le lacrime degli oppressi, e non avevano chi li consolasse; dalla parte dei loro oppressori c'era la forza, e non c'era chi li consolasse (4:1).",
+        "E ho stimato i morti, che sono già morti, più fortunati dei viventi, che sono ancora in vita (4:2).",
+        "Ma più fortunato di entrambi è chi non è ancora nato e non ha visto le azioni malvagie che si compiono sotto il sole (4:3).",
+        "Ho visto che ogni fatica e ogni abilità nel lavoro non vengono che dalla gelosia dell'uno verso l'altro; anche questo è vanità e un correre dietro al vento (4:4).",
+        "Lo stolto incrocia le braccia e divora la propria carne (4:5).",
+        "Meglio una manciata di riposo che due manciate di fatica e un correre dietro al vento (4:6).",
+        "Ho visto ancora una vanità sotto il sole: un uomo solo, senza nessuno, né figlio né fratello; eppure non c'è fine a tutta la sua fatica, e i suoi occhi non sono mai sazi di ricchezze (4:7).",
+        "\"Per chi mi affatico e privo l'anima mia del godimento?\" Anche questo è vanità e un'occupazione penosa (4:8).",
+        "Due valgono più di uno, perché traggono un buon profitto dalla loro fatica (4:9).",
+        "Poiché se cadono, l'uno rialza il compagno; ma guai a chi è solo quando cade e non ha un altro che lo rialzi (4:10).",
+        "Inoltre, se due dormono insieme, si scaldano; ma come può uno scaldarsi da solo? (4:11).",
+        "E se uno può sopraffare chi è solo, due gli resisteranno; la corda a tre capi non si rompe facilmente (4:12).",
+        "Meglio un ragazzo povero e saggio che un re vecchio e stolto che non sa più accettare consigli (4:13).",
+        "Poiché egli è uscito di prigione per regnare, benché nel suo stesso regno fosse nato povero (4:14).",
+        "Ho visto tutti i viventi che camminano sotto il sole stare con il giovane, il successore, che doveva prendere il suo posto (4:15).",
+        "Non c'era fine a tutto il popolo, a tutti quelli che lo avevano preceduto; eppure quelli che verranno dopo non si rallegreranno di lui; anche questo è vanità e un correre dietro al vento (4:16)."
+      ],
+      "crossRefs": [
+        "Genesi 3:19 — 'Polvere sei e in polvere tornerai.'",
+        "Salmo 82:1–4 — Giudizio nell'assemblea; difendere il debole e il bisognoso.",
+        "Proverbi 14:30 — L'invidia è la carie delle ossa (cfr. 4:4).",
+        "Giobbe 30:28–31 — Lamento sull'oppressione e il dolore sotto il sole."
+      ],
+      "translationNotes": [
+        {
+          "term": "Oppressione / oppressore",
+          "original": "Hebrew: עֹשֶׁק / עֹשֵׁק (ʿosheq / ʿosheq) — Greek (LXX): συκοφαντία/καταδυναστεία — Aramaic: עשוקא",
+          "note": "Usato per lo sfruttamento o l'abuso di potere (4:1)."
+        },
+        {
+          "term": "Invidia",
+          "original": "Hebrew: קִנְאָה (qinʾāh) — Greek: ζῆλος — Aramaic: קנאה",
+          "note": "Indicata come motore della fatica e dell'abilità in 4:4."
+        },
+        {
+          "term": "Corda a tre capi",
+          "original": "Hebrew: חוּט הַמְשֻׁלָּשׁ (ḥut ha-meshullash) — Greek: τὸ τριπλοῦν σχοινίον",
+          "note": "Immagine della forza nella compagnia (4:12)."
+        }
+      ],
+      "keyTakeaway": "Il Qoelet osserva l'ingiustizia e l'oppressione, la sorte comune della morte, la fatica generata dall'invidia, il vantaggio della compagnia e la memoria corta delle folle verso i governanti."
+    },
+    {
+      "id": "ecclesiastes-5",
+      "title": "🕍 Ecclesiaste 5",
+      "refs": [
+        "Ecclesiastes 5:1-20"
+      ],
+      "summaryBullets": [
+        "Bada ai tuoi passi quando vai alla casa di Dio; avvicinarsi per ascoltare vale più che offrire il sacrificio degli stolti, perché non sanno che fanno il male (5:1).",
+        "Non essere precipitoso con la bocca, e il tuo cuore non si affretti a proferir parola davanti a Dio; poiché Dio è in cielo e tu sei sulla terra; perciò le tue parole siano poche (5:2).",
+        "Poiché il sogno viene dalla moltitudine delle occupazioni, e la voce dello stolto dalla moltitudine delle parole (5:3).",
+        "Quando fai un voto a Dio, non tardare ad adempierlo; poiché Egli non si compiace degli stolti; adempi ciò che hai promesso (5:4).",
+        "Meglio che tu non faccia voti, piuttosto che farne e poi non adempierli (5:5).",
+        "Non permettere alla tua bocca di farti peccare, e non dire davanti al messaggero che è stato un errore; perché Dio dovrebbe adirarsi per le tue parole e distruggere l'opera delle tue mani? (5:6).",
+        "Poiché dove abbondano i sogni abbondano anche le vanità e le molte parole; ma tu temi Dio (5:7).",
+        "Se vedi in una provincia l'oppressione del povero e la violazione del diritto e della giustizia, non stupirti della cosa; poiché un uomo alto è sorvegliato da uno più alto, e sopra di loro ce ne sono di ancora più alti (5:8).",
+        "Ma il vantaggio di un paese è in tutto questo: un re al servizio dei campi (5:9).",
+        "Chi ama il denaro non è saziato dal denaro, e chi ama le ricchezze non ne trae profitto; anche questo è vanità (5:10).",
+        "Quando i beni aumentano, aumentano anche quelli che li consumano; e quale vantaggio ne ha il proprietario, se non di vederli con i propri occhi? (5:11).",
+        "Dolce è il sonno del lavoratore, che mangi poco o molto; ma la sazietà del ricco non lo lascia dormire (5:12).",
+        "C'è un grave male che ho visto sotto il sole: ricchezze conservate dal loro proprietario a suo danno (5:13).",
+        "E quelle ricchezze vanno perdute in un cattivo affare; e se genera un figlio, non ha nulla in mano (5:14).",
+        "Come è uscito dal grembo di sua madre, nudo se ne torna, come era venuto, e non porta via nulla della sua fatica che possa prendere con la mano (5:15).",
+        "Anche questo è un grave male: tale e quale è venuto, così se ne andrà; e quale vantaggio ha chi fatica per il vento? (5:16).",
+        "Per di più, tutti i suoi giorni mangia nelle tenebre, con molto affanno, malattia e irritazione (5:17).",
+        "Ecco ciò che ho visto essere buono e conveniente: mangiare e bere e godere del bene in tutta la fatica con cui ci si affatica sotto il sole, durante i pochi giorni di vita che Dio ha dato; poiché questa è la sua parte (5:18).",
+        "E ogni uomo a cui Dio ha dato ricchezze, beni e il potere di goderne, e di prendere la sua parte e di rallegrarsi della sua fatica: questo è un dono di Dio (5:19).",
+        "Poiché non penserà molto ai giorni della sua vita, perché Dio lo tiene occupato con la gioia del suo cuore (5:20)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 23:21–23 — I voti fatti al SIGNORE devono essere adempiuti.",
+        "Numeri 30:2 — L'uomo non violerà la sua parola; farà secondo quanto ha promesso.",
+        "Proverbi 10:19 — Nelle molte parole non manca la trasgressione.",
+        "Matteo 5:33–37 — Sui giuramenti e la veridicità del parlare."
+      ],
+      "translationNotes": [
+        {
+          "term": "Sacrificio degli stolti",
+          "original": "Hebrew: זֶבַח כְּסִילִים (zevaḥ kesilim) — Greek (LXX): θυσία ἀφρόνων — Aramaic: דבח דכסילא",
+          "note": "Un'offerta presentata senza comprensione e obbedienza (5:1)."
+        },
+        {
+          "term": "Voto",
+          "original": "Hebrew: נֶדֶר (neder) — Greek: εὐχή — Aramaic: נידרא (nidra)",
+          "note": "Una promessa solenne fatta a Dio che vincola chi la pronuncia (5:4–5)."
+        },
+        {
+          "term": "Messaggero",
+          "original": "Hebrew: מַלְאָךְ (malʾakh, ‘messenger’) — Greek: ἄγγελος — Aramaic: מלאכא",
+          "note": "Funzionario o messaggero designato davanti al quale non si devono accampare scuse (5:6)."
+        },
+        {
+          "term": "Temi Dio",
+          "original": "Hebrew: יְרָא אֶת־הָאֱלֹהִים (yera et-ha’Elohim) — Greek: φοβοῦ τὸν θεόν — Aramaic: דחל לאלהא",
+          "note": "Imperativo conclusivo in 5:7."
+        }
+      ],
+      "keyTakeaway": "Nella casa di Dio si comanda di ascoltare e usare poche parole, e i voti devono essere adempiuti senza scuse davanti al messaggero."
+    },
+    {
+      "id": "ecclesiastes-6",
+      "title": "💰 Ecclesiaste 6",
+      "refs": [
+        "Ecclesiastes 6:1-12"
+      ],
+      "summaryBullets": [
+        "C'è un male che ho visto sotto il sole, e grava pesantemente sugli uomini (6:1).",
+        "Un uomo a cui Dio dà ricchezze, beni e onore, cosicché non gli manca nulla di tutto ciò che desidera; ma Dio non gli dà il potere di goderne, e uno straniero ne gode; questo è vanità e un male crudele (6:2).",
+        "Se un uomo genera cento figli e vive molti anni, cosicché i giorni dei suoi anni sono numerosi, ma l'anima sua non è saziata dei beni della vita e non ha neppure sepoltura, io dico che un aborto vale più di lui (6:3).",
+        "Poiché viene nella vanità e se ne va nelle tenebre, e il suo nome è coperto dalle tenebre (6:4).",
+        "Per di più, non ha visto il sole né ha conosciuto nulla; eppure ha più riposo dell'altro (6:5).",
+        "E quand'anche vivesse due volte mille anni senza godere del bene, non vanno forse tutti nello stesso luogo? (6:6).",
+        "Tutta la fatica dell'uomo è per la sua bocca, eppure il suo appetito non è soddisfatto (6:7).",
+        "Poiché quale vantaggio ha il saggio sullo stolto? E che ha il povero che sa come comportarsi davanti ai viventi? (6:8).",
+        "Meglio ciò che gli occhi vedono che il vagare del desiderio; anche questo è vanità e un correre dietro al vento (6:9).",
+        "Tutto ciò che esiste ha già ricevuto un nome; si sa che cos'è l'uomo, e che non può contendere con chi è più forte di lui (6:10).",
+        "Più ci sono parole, più c'è vanità; e quale vantaggio ne ha l'uomo? (6:11).",
+        "Poiché chi sa ciò che è bene per l'uomo nella vita, durante i pochi giorni della sua vana esistenza che egli trascorre come un'ombra? Chi può dire all'uomo ciò che sarà dopo di lui sotto il sole? (6:12)."
+      ],
+      "crossRefs": [
+        "Giobbe 1:21 — 'Nudo sono uscito... nudo vi ritornerò' (cfr. 5:15).",
+        "Proverbi 23:4–5 — Le ricchezze mettono le ali e volano via.",
+        "Salmo 39:6 — L'uomo ammassa beni e non sa chi li raccoglierà.",
+        "1 Timoteo 6:6–10 — Sul desiderio di ricchezze e sulla contentezza."
+      ],
+      "translationNotes": [
+        {
+          "term": "Oppressione / violazione della giustizia",
+          "original": "Hebrew: עֹשֶׁק / גֶּזֶל מִשְׁפָּט (ʿosheq / gezel mishpat) — Greek (LXX): καταδυναστεία / ἀφαίρεσις κρίσεως",
+          "note": "Indicate come osservabili in una provincia (5:8)."
+        },
+        {
+          "term": "Profitto/vantaggio della terra",
+          "original": "Hebrew: יִתְרוֹן הָאָרֶץ (yitron ha’aretz) — Greek: περισσεία τῆς γῆς",
+          "note": "Versetto difficile; afferma un beneficio o vantaggio legato al campo e alla terra (5:9)."
+        },
+        {
+          "term": "Cattivo affare",
+          "original": "Hebrew: בְּעִנְיַן רָע (beʿinyan raʿ) — Greek (LXX): ἐν πραγματεία κακή",
+          "note": "Espressione per una situazione commerciale dannosa che causa perdite (5:14)."
+        },
+        {
+          "term": "Bimbo nato morto",
+          "original": "Hebrew: נֵפֶל (nefel) — Greek (LXX): ἔκτρωμα — Aramaic: נפלא",
+          "note": "Usato per il confronto in 6:3–5."
+        },
+        {
+          "term": "Appetito / anima",
+          "original": "Hebrew: נֶפֶשׁ (nephesh) — Greek (LXX): ψυχή — Aramaic: נפש",
+          "note": "In 6:7–9 si afferma che 'l'appetito/anima' non viene mai saziato."
+        }
+      ],
+      "keyTakeaway": "Il Qoelet nota la burocrazia a strati, l'insoddisfazione della ricchezza, le perdite che svuotano le mani, il dono di godere la propria porzione e la ricchezza non goduta lasciata ad altri."
+    },
+    {
+      "id": "ecclesiastes-7",
+      "title": "🧭 Ecclesiaste 7",
+      "refs": [
+        "Ecclesiastes 7:1-29"
+      ],
+      "summaryBullets": [
+        "Un buon nome vale più di un unguento prezioso, e il giorno della morte più del giorno della nascita (7:1).",
+        "Meglio andare in una casa di lutto che andare in una casa di banchetto; poiché quella è la fine di ogni uomo, e chi vive vi presterà attenzione (7:2).",
+        "Meglio l'afflizione del riso, poiché con la tristezza del volto il cuore diventa migliore (7:3).",
+        "Il cuore dei saggi è nella casa del lutto, ma il cuore degli stolti è nella casa della gioia (7:4).",
+        "Meglio ascoltare il rimprovero del saggio che ascoltare il canto degli stolti (7:5).",
+        "Poiché come il crepitio delle spine sotto la pentola, così è il riso dello stolto; anche questo è vanità (7:6).",
+        "Certo l'oppressione rende insensato il saggio, e il dono corrompe il cuore (7:7).",
+        "Meglio la fine di una cosa che il suo principio; meglio uno spirito paziente che uno spirito orgoglioso (7:8).",
+        "Non essere pronto nel tuo spirito a irritarti, poiché l'irritazione riposa nel seno degli stolti (7:9).",
+        "Non dire: \"Come mai i giorni di prima erano migliori di questi?\" Poiché non è per sapienza che domandi questo (7:10).",
+        "La sapienza è buona con un'eredità; è un vantaggio per quelli che vedono il sole (7:11).",
+        "Poiché la protezione della sapienza è come la protezione del denaro, e il vantaggio della conoscenza è che la sapienza preserva la vita di chi la possiede (7:12).",
+        "Considera l'opera di Dio: chi potrà raddrizzare ciò che Egli ha fatto storto? (7:13).",
+        "Nel giorno della prosperità sii lieto, e nel giorno dell'avversità considera: Dio ha fatto l'uno come l'altro, affinché l'uomo non scopra nulla di ciò che sarà dopo di lui (7:14).",
+        "Ho visto di tutto nei giorni della mia vanità: c'è un giusto che perisce nella sua giustizia, e c'è un malvagio che prolunga la sua vita nella sua malvagità (7:15).",
+        "Non essere giusto oltremisura, e non farti troppo saggio; perché vorresti distruggerti? (7:16).",
+        "Non essere malvagio oltremisura, e non essere stolto; perché vorresti morire prima del tempo? (7:17).",
+        "È bene che tu ti attenga a questo, e che dall'altro non ritiri la mano; poiché chi teme Dio esce dall'uno e dall'altro (7:18).",
+        "La sapienza dà al saggio più forza di dieci governatori che sono in una città (7:19).",
+        "Non c'è sulla terra nessun uomo giusto che faccia il bene e non pecchi mai (7:20).",
+        "Non prestare attenzione a tutte le parole che si dicono, per non sentire il tuo servo che ti maledice (7:21).",
+        "Poiché il tuo cuore sa che molte volte anche tu hai maledetto altri (7:22).",
+        "Tutto questo l'ho messo alla prova con la sapienza; ho detto: \"Sarò saggio\"; ma la sapienza è rimasta lontana da me (7:23).",
+        "Ciò che è stato è lontano e profondo, molto profondo; chi lo può trovare? (7:24).",
+        "Ho volto il mio cuore a conoscere, a investigare e a cercare la sapienza e il bilancio delle cose, e a conoscere la malvagità della stoltezza e la pazzia della follia (7:25).",
+        "E trovo una cosa più amara della morte: la donna il cui cuore è reti e lacci, e le cui mani sono catene; chi è gradito a Dio le sfugge, ma il peccatore ne resta preso (7:26).",
+        "Ecco ciò che ho trovato, dice il Predicatore, esaminando le cose una per una per trovarne il bilancio (7:27).",
+        "Ciò che la mia anima ha cercato ripetutamente e che non ho trovato è questo: un uomo su mille l'ho trovato, ma una donna fra tutte queste non l'ho trovata (7:28).",
+        "Ecco, questo solo ho trovato: Dio ha fatto l'uomo retto, ma essi hanno cercato molti espedienti (7:29)."
+      ],
+      "crossRefs": [
+        "Ecclesiaste 1:15 — Ciò che è storto non può essere raddrizzato.",
+        "Giobbe 2:10 — 'Accetteremo da Dio il bene e non accetteremo il male?'",
+        "Proverbi 13:1 — Il figlio saggio ascolta l'istruzione del padre (tema del rimprovero).",
+        "Proverbi 14:29 — Chi è lento all'ira ha grande intelligenza."
+      ],
+      "translationNotes": [
+        {
+          "term": "Buon nome / olio prezioso (gioco di parole)",
+          "original": "Hebrew: שֵׁם (shem, ‘name’) / שֶׁמֶן (shemen, ‘oil’) — Greek (LXX): ὄνομα / ἔλαιον — Aramaic: שמא / משחא",
+          "note": "Assonanza in 7:1 che evidenzia il valore della reputazione rispetto al lusso."
+        },
+        {
+          "term": "Casa in lutto",
+          "original": "Hebrew: בֵּית־אֵבֶל (beit-ʾevel) — Greek: οἶκος πένθους — Aramaic: בית אבלא",
+          "note": "Luogo del cordoglio; contrapposto alla casa in festa (7:2)."
+        },
+        {
+          "term": "Scoppiettio delle spine sotto la pentola",
+          "original": "Hebrew: קוֹל הַסִּירִים תַּחַת הַסִּיר (qol ha-sirīm taḥat ha-sir) — Greek: φωνὴ τῶν ἀκανθῶν ὑποκάτω τοῦ λέβητος",
+          "note": "Bruciatura rapida e rumorosa degli arbusti spinosi; immagine del riso superficiale (7:6)."
+        },
+        {
+          "term": "Raddrizzare / rendere storto",
+          "original": "Hebrew: לְתַקֵּן / עִוֵּת (letakken / ʿivvet) — Greek: κατορθῶσαι / διεστραμμένον — Aramaic: תקן / עוות",
+          "note": "Affermazione sulla natura inalterabile dell'opera di Dio (7:13)."
+        }
+      ],
+      "keyTakeaway": "Questa sezione presenta detti del 'meglio' riguardo al lutto, al rimprovero, alla pazienza e all'ira, e afferma che ciò che Dio ha reso storto non può essere raddrizzato e che Egli fa sia la prosperità sia l'avversità."
+    },
+    {
+      "id": "ecclesiastes-8",
+      "title": "👑 Ecclesiaste 8",
+      "refs": [
+        "Ecclesiastes 8:1-17"
+      ],
+      "summaryBullets": [
+        "Chi è come il saggio? E chi conosce l'interpretazione di una cosa? La sapienza dell'uomo gli fa risplendere il volto, e la durezza del suo viso è mutata (8:1).",
+        "Io dico: osserva il comando del re, a motivo del giuramento fatto a Dio (8:2).",
+        "Non affrettarti ad allontanarti dalla sua presenza; non persistere in una cosa cattiva, poiché egli fa tutto ciò che gli piace (8:3).",
+        "Poiché la parola del re è sovrana, e chi può dirgli: \"Che fai?\" (8:4).",
+        "Chi osserva il comando non conoscerà nulla di spiacevole, e il cuore del saggio conoscerà il tempo e il giudizio appropriati (8:5).",
+        "Poiché per ogni cosa c'è un tempo e un giudizio, sebbene l'afflizione dell'uomo sia grande su di lui (8:6).",
+        "Poiché egli non sa ciò che sarà; e chi può dirgli come sarà? (8:7).",
+        "Nessuno ha potere di trattenere il soffio, né potere sul giorno della morte; non c'è congedo in tempo di guerra, e la malvagità non libererà chi la pratica (8:8).",
+        "Tutto questo ho osservato, applicando il mio cuore a tutto ciò che si fa sotto il sole, quando l'uomo domina sull'uomo a suo danno (8:9).",
+        "Allora ho visto dei malvagi sepolti; venivano e uscivano dal luogo santo, ed erano lodati nella città dove avevano così agito; anche questo è vanità (8:10).",
+        "Poiché la sentenza contro le azioni malvagie non viene eseguita prontamente, il cuore dei figli dell'uomo si riempie della voglia di fare il male (8:11).",
+        "Sebbene il peccatore faccia cento volte il male e prolunghi i suoi giorni, pure io so che andrà bene a quelli che temono Dio, perché provano timore davanti a Lui (8:12).",
+        "Ma non andrà bene al malvagio, e non prolungherà i suoi giorni come un'ombra, perché non ha timore davanti a Dio (8:13).",
+        "C'è una vanità che avviene sulla terra: ci sono giusti a cui accade secondo le opere dei malvagi, e ci sono malvagi a cui accade secondo le opere dei giusti; ho detto che anche questo è vanità (8:14).",
+        "E io raccomando la gioia, poiché non c'è nulla di meglio per l'uomo sotto il sole che mangiare e bere e rallegrarsi; questo lo accompagnerà nella sua fatica durante i giorni della sua vita che Dio gli ha dato sotto il sole (8:15).",
+        "Quando ho applicato il mio cuore a conoscere la sapienza e a vedere l'occupazione che si fa sulla terra, come gli occhi dell'uomo non vedono sonno né giorno né notte (8:16).",
+        "Allora ho visto tutta l'opera di Dio: l'uomo non può scoprire l'opera che si compie sotto il sole; per quanto l'uomo si affatichi a cercarla, non la troverà; e anche se il saggio dice di conoscerla, non può scoprirla (8:17)."
+      ],
+      "crossRefs": [
+        "Proverbi 24:21 — Temi il SIGNORE e il re.",
+        "Ecclesiaste 3:1; Ecclesiaste 3:17 — Un tempo e un giudizio per ogni cosa.",
+        "Giobbe 14:5 — I giorni dell'uomo sono stabiliti; i suoi limiti sono fissati.",
+        "Daniele 2:37 — L'autorità regale descritta come concessa (contesto del potere)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Osserva il comando del re",
+          "original": "Hebrew: שְׁמוֹר פִּי־מֶלֶךְ (shemor pî-melech, ‘keep the mouth/command of the king’) — Greek: φύλασσε τὸ ῥῆμα βασιλέως — Aramaic: נטר פוּם מלכא",
+          "note": "L'espressione 'bocca' è un idioma per il decreto reale (8:2)."
+        },
+        {
+          "term": "Giuramento fatto a Dio",
+          "original": "Hebrew: שְׁבֻעַת אֱלֹהִים (shevuʿat Elohim) — Greek: ὅρκος θεοῦ — Aramaic: שבועתא דאלהא",
+          "note": "Fondamento dell'obbedienza dichiarato in 8:2."
+        },
+        {
+          "term": "Vento / spirito (ambiguo)",
+          "original": "Hebrew: רוּחַ (ruaḥ) — Greek: πνεῦμα — Aramaic: רוחא",
+          "note": "La parola può significare 'vento' o 'spirito'; 8:8 afferma la mancanza di controllo su di esso e sulla morte."
+        },
+        {
+          "term": "Nessun congedo in guerra",
+          "original": "Hebrew: וְאֵין מִשְׁלַחַת בַּמִּלְחָמָה (veʾein mishlaḥat ba-milḥamah) — Greek: οὐκ ἔστιν ἀπαλλαγὴ ἐν πολέμῳ",
+          "note": "Espressione che indica l'assenza di esenzione; il conflitto vincola chi vi è coinvolto (8:8)."
+        }
+      ],
+      "keyTakeaway": "Questa unità insegna a osservare il comando del re, afferma che la sapienza discerne il tempo e il giudizio, e dice che nessuno domina il vento/spirito o il giorno della morte; il potere sugli altri può essere a loro danno."
+    },
+    {
+      "id": "ecclesiastes-9",
+      "title": "⏳ Ecclesiaste 9",
+      "refs": [
+        "Ecclesiastes 9:1-18"
+      ],
+      "summaryBullets": [
+        "Sì, ho preso tutto questo a cuore ed ho esaminato tutto: i giusti e i saggi e le loro opere sono nella mano di Dio; l'uomo non sa se sarà amato o odiato; tutto è davanti a lui (9:1).",
+        "Tutto succede ugualmente a tutti: una stessa sorte tocca al giusto e al malvagio, al buono e al cattivo, al puro e all'impuro, a chi sacrifica e a chi non sacrifica; il buono è come il peccatore, chi giura come chi teme di giurare (9:2).",
+        "Questo è un male in tutto ciò che si fa sotto il sole: che ci sia una stessa sorte per tutti; e anche il cuore dei figli dell'uomo è pieno di malvagità, e la follia è nel loro cuore mentre vivono; e dopo, se ne vanno tra i morti (9:3).",
+        "Ma per chi è unito a tutti i viventi c'è speranza, poiché un cane vivo vale più di un leone morto (9:4).",
+        "I viventi sanno che moriranno, ma i morti non sanno nulla; non hanno più ricompensa, poiché il loro ricordo è dimenticato (9:5).",
+        "Il loro amore, il loro odio e la loro invidia sono già periti, e non hanno più alcuna parte in tutto ciò che si fa sotto il sole (9:6).",
+        "Va', mangia il tuo pane con gioia e bevi il tuo vino con cuore allegro, poiché Dio ha già gradito le tue opere (9:7).",
+        "Siano in ogni tempo le tue vesti bianche; e l'olio non manchi sul tuo capo (9:8).",
+        "Godi la vita con la moglie che ami, durante tutti i giorni della tua vita di vanità che Dio ti ha dato sotto il sole; poiché questa è la tua parte nella vita e nella fatica con cui ti affatichi sotto il sole (9:9).",
+        "Tutto ciò che la tua mano trova da fare, fallo con tutte le tue forze; poiché non c'è né opera, né pensiero, né conoscenza, né sapienza nel soggiorno dei morti, dove tu stai per andare (9:10).",
+        "Ho visto ancora sotto il sole che la corsa non è dei veloci, né la battaglia dei forti, né il pane dei saggi, né le ricchezze degli intelligenti, né il favore dei sapienti; ma il tempo e la sorte toccano a tutti (9:11).",
+        "Poiché l'uomo non conosce la sua ora; come i pesci presi nella rete fatale, e come gli uccelli presi al laccio, così i figli dell'uomo sono presi nel tempo della sventura, quando essa piomba su di loro all'improvviso (9:12).",
+        "Ho visto anche sotto il sole questo esempio di sapienza, che mi è parso grande (9:13).",
+        "C'era una piccola città con pochi uomini, e un gran re venne contro di essa, la cinse d'assedio e costruì contro di essa grandi opere d'assedio (9:14).",
+        "Ma in essa si trovò un uomo povero e saggio, il quale con la sua sapienza liberò la città; eppure nessuno si ricordò di quell'uomo povero (9:15).",
+        "E io dissi: la sapienza vale più della forza; tuttavia la sapienza del povero è disprezzata, e le sue parole non sono ascoltate (9:16).",
+        "Le parole dei saggi dette con calma si ascoltano meglio delle grida di un capo fra gli stolti (9:17).",
+        "La sapienza vale più delle armi da guerra, ma un solo peccatore distrugge molto bene (9:18)."
+      ],
+      "crossRefs": [
+        "Salmo 49:10–12 — Il saggio e lo stolto muoiono allo stesso modo.",
+        "Genesi 3:19 — Ritornare alla polvere (mortalità).",
+        "Giobbe 14:14 — Domanda sulla vita dopo la morte (orizzonte della morte).",
+        "Luca 12:19–20 — Richiesta improvvisa della vita (parallelo narrativo successivo)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Soggiorno dei morti",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא (Sheʾola)",
+          "note": "Dimora dei morti; menzionata in 9:10."
+        },
+        {
+          "term": "Vesti bianche / olio sul capo",
+          "original": "Hebrew: בְּגָדִים לְבָנִים / שֶׁמֶן (begadim levanim / shemen) — Greek: ἱμάτια λευκά / ἔλαιον",
+          "note": "Immagini di festa e gioia in 9:8."
+        },
+        {
+          "term": "Tempo e caso",
+          "original": "Hebrew: עֵת וָפֶגַע (ʿet va-pegaʿ) — Greek (LXX): καιρὸς καὶ συνάντημα",
+          "note": "Dichiarati come capaci di colpire tutti (9:11)."
+        },
+        {
+          "term": "Porzione",
+          "original": "Hebrew: חֵלֶק (ḥeleq) — Greek: μερὶς — Aramaic: חולקה",
+          "note": "Parte o sorte; tema ricorrente per il godimento quotidiano (9:9)."
+        }
+      ],
+      "keyTakeaway": "Questa unità afferma una sorte comune per tutti, esorta alla gioia quotidiana e al lavoro vigoroso, e dice che il tempo e il caso capitano a tutti con la possibilità di calamità improvvisa."
+    },
+    {
+      "id": "ecclesiastes-10",
+      "title": "🧩 Ecclesiaste 10",
+      "refs": [
+        "Ecclesiastes 10:1-20"
+      ],
+      "summaryBullets": [
+        "Le mosche morte fanno puzzare e fermentare l'olio del profumiere; un po' di follia pesa più della sapienza e della gloria (10:1).",
+        "Il cuore del saggio si dirige alla sua destra, ma il cuore dello stolto alla sua sinistra (10:2).",
+        "Anche quando lo stolto cammina per la via, il senno gli manca, e dice a tutti che è uno stolto (10:3).",
+        "Se l'ira del governante si leva contro di te, non lasciare il tuo posto; poiché la calma previene grandi offese (10:4).",
+        "C'è un male che ho visto sotto il sole, come un errore che procede dal sovrano (10:5).",
+        "La stoltezza è posta in molti posti elevati, e i ricchi siedono in basso (10:6).",
+        "Ho visto servi a cavallo, e principi camminare a piedi come servi (10:7).",
+        "Chi scava una fossa vi cadrà dentro, e chi abbatte un muro sarà morso da un serpente (10:8).",
+        "Chi estrae pietre ne viene ferito, e chi spacca legna corre pericolo (10:9).",
+        "Se il ferro è smussato e non se ne affila il taglio, bisogna raddoppiare la forza; ma la sapienza ha il vantaggio di far riuscire (10:10).",
+        "Se il serpente morde prima di essere incantato, non c'è alcun vantaggio per l'incantatore (10:11).",
+        "Le parole della bocca del saggio sono piene di grazia, ma le labbra dello stolto lo divorano (10:12).",
+        "Il principio delle parole della sua bocca è stoltezza, e la fine del suo discorso è malvagia follia (10:13).",
+        "Lo stolto moltiplica le parole, sebbene l'uomo non sappia ciò che sarà; e chi può dirgli ciò che sarà dopo di lui? (10:14).",
+        "La fatica dello stolto lo stanca, perché non sa nemmeno la strada per andare in città (10:15).",
+        "Guai a te, o paese, il cui re è un ragazzo, e i cui principi banchettano fin dal mattino! (10:16).",
+        "Beato te, o paese, il cui re è di nobile nascita, e i cui principi mangiano al tempo giusto, per prendere forza e non per ubriacarsi! (10:17).",
+        "Per la pigrizia il tetto sprofonda, e per la negligenza delle mani la casa gocciola (10:18).",
+        "Il convito è fatto per ridere, il vino rende allegra la vita, e il denaro risponde a ogni cosa (10:19).",
+        "Non maledire il re neppure nel tuo pensiero, e non maledire il ricco nella tua camera da letto; poiché un uccello del cielo porterebbe la tua voce, e un volatile riferirebbe le tue parole (10:20)."
+      ],
+      "crossRefs": [
+        "2 Samuele 20:16–22 — Una donna saggia libera una città sotto assedio (tema parallelo di liberazione).",
+        "Proverbi 26:27 — Chi scava una fossa vi cadrà dentro.",
+        "Proverbi 10:19 — Nelle molte parole non manca la trasgressione.",
+        "Salmo 75:6–7 — L'innalzamento non viene da est o da ovest, ma Dio esalta e abbassa (tema dei governanti)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Mosche morte / olio del profumiere",
+          "original": "Hebrew: זְבוּבֵי מָוֶת (zevuvê mavet, ‘flies of death’) / רוֹקֵחַ (roqe’aḥ, ‘perfumer’) — Greek (LXX): μύρα",
+          "note": "Immagine di come una piccola follia possa rovinare una sostanza pregiata (10:1)."
+        },
+        {
+          "term": "Destra / sinistra (orientamento)",
+          "original": "Hebrew: יְמִין / שְׂמֹאל (yemin / semol) — Greek: δεξιὰ / ἀριστερά",
+          "note": "Contrasto direzionale usato per la disposizione saggia e stolta (10:2)."
+        },
+        {
+          "term": "Un uccello porterà la voce",
+          "original": "Hebrew: כִּי עוֹף הַשָּׁמַיִם יוֹלִיךְ אֶת־הַקּוֹל (ki ʿof ha-shamayim yolikh et ha-qol) — Greek (LXX): ὅτι πετεινὸν τοῦ οὐρανοῦ ἀξει τὴν φωνήν",
+          "note": "Figura per indicare che le parole dette in segreto possono essere riferite ad altri (10:20)."
+        },
+        {
+          "term": "Incantamento / incantatore",
+          "original": "Hebrew: לַחַשׁ (laḥash, ‘incantation’) / לֹחֵשׁ (loḥesh, ‘charmer’) — Greek (LXX): ἐπῳδή / ἐπῳδός",
+          "note": "Immagine in 10:11: un serpente che morde prima che l'incantamento venga pronunciato non lascia alcun vantaggio."
+        }
+      ],
+      "keyTakeaway": "Un uomo povero e saggio salva una città ma viene dimenticato; detti contrastano sapienza e follia nei governanti, nel discorso e nel lavoro, e avvertono che le parole segrete possono essere portate lontano."
+    },
+    {
+      "id": "ecclesiastes-11",
+      "title": "🌱 Ecclesiaste 11",
+      "refs": [
+        "Ecclesiastes 11:1-10"
+      ],
+      "summaryBullets": [
+        "Manda il tuo pane sulle acque; dopo molti giorni lo ritroverai (11:1).",
+        "Distribuisci la tua parte ampiamente, perché non sai quale disastro possa venire (11:2).",
+        "Quando le nuvole sono piene di pioggia, la riversano; un albero caduto resta dove cade (11:3).",
+        "Chi guarda il vento non seminerà; chi osserva le nuvole non mieterà (11:4).",
+        "Come non conosci la via del vento/spirito o come si formano le ossa nel grembo, così non conosci l'opera di Dio che fa ogni cosa (11:5).",
+        "Semina al mattino e non ritirare la mano alla sera; non sai quale sforzo riuscirà, o se entrambi riusciranno (11:6).",
+        "La luce è dolce, ed è piacevole agli occhi vedere il sole (11:7).",
+        "Se dunque un uomo vive molti anni, si rallegri durante tutti quegli anni; ma si ricordi che i giorni di tenebre saranno molti, e che tutto ciò che viene è vanità (11:8).",
+        "Rallegrati, o giovane, nella tua giovinezza, e il tuo cuore ti renda allegro nei giorni della tua giovinezza; cammina nelle vie del tuo cuore e secondo lo sguardo dei tuoi occhi; ma sappi che per tutte queste cose Dio ti chiamerà in giudizio (11:9).",
+        "Allontana dal tuo cuore l'affanno, e togli dal tuo corpo il male; poiché la giovinezza e l'aurora della vita sono vanità (11:10)."
+      ],
+      "crossRefs": [
+        "Genesi 8:22 — La semina e la mietitura non cesseranno.",
+        "Proverbi 11:24–25 — Sul dare e sulla generosità.",
+        "Giovanni 3:8 — Il vento/spirito soffia dove vuole (parallelo linguistico).",
+        "Ecclesiaste 3:11 — Gli uomini non possono scoprire l'opera che Dio ha compiuto dal principio alla fine."
+      ],
+      "translationNotes": [
+        {
+          "term": "Getta il tuo pane sulle acque",
+          "original": "Hebrew: שַׁלַּח לַחְמְךָ עַל־פְּנֵי הַמָּיִם (shallakh laḥmekha ʿal penei ha-mayim) — Greek (LXX): ἀπόστειλον τὸν ἄρτον σου ἐπὶ πρόσωπον τοῦ ὕδατος — Aramaic: שלח לחמך על אפי מיא",
+          "note": "Istruzione figurativa in 11:1, riportata come scritta, senza specificare un'interpretazione commerciale o caritatevole particolare."
+        },
+        {
+          "term": "Sette, e anche otto",
+          "original": "Hebrew: שִׁבְעָה… וְגַם לִשְׁמוֹנָה (shivʿah… ve-gam li-shmonah) — Greek: ἑπτά… καὶ ὀκτώ",
+          "note": "Formula di intensificazione numerica (numeri a scala) in 11:2."
+        },
+        {
+          "term": "Spirito / vento (ambiguo)",
+          "original": "Hebrew: רוּחַ (ruaḥ) — Greek: πνεῦμα — Aramaic: רוחא",
+          "note": "La parola può significare vento o spirito; 11:5 afferma l'ignoranza umana riguardo alla sua via."
+        },
+        {
+          "term": "Ossa nel grembo",
+          "original": "Hebrew: כַּעֲצָמִים בְּבֶטֶן הַמְלֵאָה (kaʿatsamim be-veten ha-mele’ah) — Greek (LXX): ὡς τὰ ὀστέα ἐν κοιλίᾳ τῆς κυοφορούσης",
+          "note": "La crescita nel grembo materno citata come esempio di processo sconosciuto (11:5)."
+        }
+      ],
+      "keyTakeaway": "Il passo esorta a mandare avanti e a lavorare con costanza nonostante l'incertezza, notando che gli uomini non conoscono l'opera di Dio né i risultati futuri."
+    },
+    {
+      "id": "ecclesiastes-12",
+      "title": "🌅 Ecclesiaste 12",
+      "refs": [
+        "Ecclesiastes 12:1-14"
+      ],
+      "summaryBullets": [
+        "Ricordati del tuo Creatore nei giorni della tua giovinezza, prima che vengano i giorni cattivi e giungano gli anni dei quali dirai: \"Non ci ho alcun piacere\" (12:1).",
+        "Prima che si oscurino il sole, la luce, la luna e le stelle, e che le nuvole tornino dopo la pioggia (12:2).",
+        "Nel giorno in cui i guardiani della casa tremano, gli uomini forti si curvano, le donne che macinano cessano perché sono poche, e quelle che guardano dalle finestre si offuscano (12:3).",
+        "Quando le porte si chiudono sulla strada, quando il rumore della macina si abbassa, quando ci si alza al canto dell'uccello, e tutte le figlie del canto si affievoliscono (12:4).",
+        "Quando si ha paura delle altezze e dei terrori della strada; il mandorlo fiorisce, la cavalletta si trascina, e il cappero perde il suo effetto; poiché l'uomo se ne va verso la sua dimora eterna, e i piangenti percorrono le strade (12:5).",
+        "Prima che il filo d'argento si stacchi, che la coppa d'oro si spezzi, che la brocca si rompa alla fontana, e che la ruota si spezzi sulla cisterna (12:6).",
+        "E la polvere ritorni alla terra com'era, e lo spirito ritorni a Dio che l'ha dato (12:7).",
+        "Vanità delle vanità, dice il Predicatore; tutto è vanità (12:8).",
+        "Oltre a essere saggio, il Qoelet insegnò al popolo la conoscenza e dispose molti proverbi (12:9).",
+        "Cercò parole gradevoli e scrisse parole veritiere (12:10).",
+        "Le parole dei saggi pungolano come pungoli, e le sentenze raccolte sono come chiodi piantati; sono date da un solo pastore (12:11).",
+        "Sii avvertito riguardo a qualsiasi cosa al di là di queste; il fare molti libri non ha mai fine, e il molto studio affatica il corpo (12:12).",
+        "La parola finale: temi Dio e osserva i Suoi comandamenti, perché questo è il tutto dell'uomo (12:13).",
+        "Dio porterà in giudizio ogni opera, compresa ogni cosa nascosta, sia buona sia malvagia (12:14)."
+      ],
+      "crossRefs": [
+        "Genesi 3:19 — Dalla polvere alla polvere (cfr. Ecclesiaste 12:7).",
+        "Salmo 90:10 — L'arco e la fatica della vita umana.",
+        "Ecclesiaste 3:20 — Tutti vanno nello stesso luogo; tutti vengono dalla polvere e alla polvere tornano.",
+        "Geremia 9:17–18 — Le donne piagnone e il lamento pubblico (immagine dei piagnoni)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Ricordati del tuo Creatore",
+          "original": "Hebrew: זְכֹר אֶת־בּוֹרְאֶיךָ (zekhor et-bor’eikha) — Greek (LXX): μνήσθητι τοῦ κτίστου σου — Aramaic: דכור לבראך",
+          "note": "Imperativo in 12:1 posto prima delle immagini del declino."
+        },
+        {
+          "term": "Il mandorlo fiorisce",
+          "original": "Hebrew: יַנֵּאץ הַשָּׁקֵד (ha-shaqed yane’etz) — Greek (LXX): ἀνθήσει τὸ ἀμύγδαλον",
+          "note": "Immagine della fioritura stagionale in 12:5."
+        },
+        {
+          "term": "Il cappero non fa più effetto",
+          "original": "Hebrew: וְיִסְתַּפֵּל הָאֲבִיּוֹנָה (ve-yistappēl ha-ʾaviyyōnāh) — Greek (LXX): καὶ διασκεδασθήσεται ἡ κάππαρις",
+          "note": "Parola rara in 12:5 (cappero); dichiarato come inefficace o esaurito."
+        },
+        {
+          "term": "Dimora eterna",
+          "original": "Hebrew: בֵּית עוֹלָמוֹ (beit ʿolamo) — Greek (LXX): οἶκον αἰῶνος",
+          "note": "Espressione per la destinazione finale in 12:5."
+        },
+        {
+          "term": "Filo d'argento / coppa d'oro / brocca / ruota",
+          "original": "Hebrew: כֶּסֶר הַכֶּסֶף / גֻלַּת הַזָּהָב / כַּד / גַּלְגַּל — Greek (LXX): σπεῖραμα ἀργύρινον / φιάλη χρυσῆ / κάδος / τροχός",
+          "note": "Sequenza di immagini di rottura e frantumazione in 12:6."
+        },
+        {
+          "term": "Lo spirito torna a Dio",
+          "original": "Hebrew: וְהָרוּחַ תָּשׁוּב אֶל־הָאֱלֹהִים (ve-ha-ruaḥ tashuv el-ha’Elohim) — Greek (LXX): καὶ ἐπιστρέψει τὸ πνεῦμα πρὸς τὸν θεόν",
+          "note": "Affermazione in 12:7 parallela al ritorno della polvere alla terra."
+        }
+      ],
+      "keyTakeaway": "L'unità invita a gioire nella giovinezza con la consapevolezza del giudizio, a ricordare il Creatore prima del declino, e raffigura l'invecchiamento e la morte con immagini potenti prima di concludere ancora con 'vanità delle vanità.'"
+    }
+  ]
+}

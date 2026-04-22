@@ -1,0 +1,1422 @@
+[
+  {
+    "canon": "創世記",
+    "aliases": [
+      "創世記",
+      "創世",
+      "創",
+      "Genesis"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "出エジプト記",
+    "aliases": [
+      "出エジプト記",
+      "出エジ",
+      "出",
+      "Exodus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "レビ記",
+    "aliases": [
+      "レビ記",
+      "レビ",
+      "レ",
+      "Leviticus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "民数記",
+    "aliases": [
+      "民数記",
+      "民数",
+      "民",
+      "番号",
+      "Numbers"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "申命記",
+    "aliases": [
+      "申命記",
+      "申命",
+      "申",
+      "Deuterony",
+      "Deuteronomy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨシュア記",
+    "aliases": [
+      "ヨシュア記",
+      "ヨシュア",
+      "ヨシ",
+      "ジョシュア記",
+      "ジョシュア",
+      "Joshua"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "士師記",
+    "aliases": [
+      "士師記",
+      "士師",
+      "士",
+      "裁判官",
+      "裁判人",
+      "裁き人",
+      "Judges"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ルツ記",
+    "aliases": [
+      "ルツ記",
+      "ルツ",
+      "ルース",
+      "Ruth"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "サムエル記上",
+    "aliases": [
+      "サムエル記上",
+      "I サム",
+      "一サム",
+      "第一サムエル記",
+      "第1サムエル記",
+      "サム上",
+      "1サムエル",
+      "1 サムエル",
+      "１サムエル",
+      "1サミュエル",
+      "1 サミュエル",
+      "１サミュエル",
+      "サムエル",
+      "サミュエル",
+      "1 Samuel",
+      "1サムエル記",
+      "サムエル記第一"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "サムエル記下",
+    "aliases": [
+      "サムエル記下",
+      "II サム",
+      "二サム",
+      "第二サムエル記",
+      "第2サムエル記",
+      "サム下",
+      "2サムエル",
+      "2 サムエル",
+      "２サムエル",
+      "2サミュエル",
+      "2 サミュエル",
+      "２サミュエル",
+      "サムエル",
+      "サミュエル",
+      "2 Samuel",
+      "2サムエル記",
+      "サムエル記第二"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "列王記上",
+    "aliases": [
+      "列王記上",
+      "I 列",
+      "一列",
+      "1 Kings",
+      "列王記第一"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "列王記下",
+    "aliases": [
+      "列王記下",
+      "II 列",
+      "二列",
+      "2 Kings",
+      "列王記第二"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "歴代誌上",
+    "aliases": [
+      "歴代誌上",
+      "I 歴",
+      "一歴",
+      "1 Chronicles",
+      "1歴代誌",
+      "歴代誌第一"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "歴代誌下",
+    "aliases": [
+      "歴代誌下",
+      "II 歴",
+      "二歴",
+      "2 Chronicles",
+      "2歴代誌",
+      "歴代志第二",
+      "歴代誌第二"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "エズラ記",
+    "aliases": [
+      "エズラ記",
+      "エズラ",
+      "Ezra"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ネヘミヤ記",
+    "aliases": [
+      "ネヘミヤ記",
+      "ネヘミヤ",
+      "ネヘミア記",
+      "ネヘミア",
+      "Nehemiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "エステル記",
+    "aliases": [
+      "エステル記",
+      "エステル",
+      "エス",
+      "Esther"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨブ記",
+    "aliases": [
+      "ヨブ記",
+      "ヨブ",
+      "Job"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "詩篇",
+    "aliases": [
+      "詩篇",
+      "詩",
+      "詩編",
+      "Psalm",
+      "Psalms",
+      "PSALM",
+      "PSALMS"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "箴言",
+    "aliases": [
+      "箴言",
+      "箴",
+      "Proverbs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "伝道の書",
+    "aliases": [
+      "伝道の書",
+      "伝道",
+      "伝",
+      "Ecclesiastes",
+      "伝道者の書"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "雅歌",
+    "aliases": [
+      "雅歌",
+      "雅",
+      "雅歌の歌",
+      "Song of Songs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "イザヤ書",
+    "aliases": [
+      "イザヤ書",
+      "イザヤ",
+      "イザ",
+      "Isaiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "エレミヤ書",
+    "aliases": [
+      "エレミヤ書",
+      "エレミヤ",
+      "エレ",
+      "エレミア書",
+      "エレミア",
+      "Jeremiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "哀歌",
+    "aliases": [
+      "哀歌",
+      "哀",
+      "Lamentations"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "エゼキエル書",
+    "aliases": [
+      "エゼキエル書",
+      "エゼキエル",
+      "エゼ",
+      "Ezekiel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ダニエル書",
+    "aliases": [
+      "ダニエル書",
+      "ダニエル",
+      "ダニ",
+      "Daniel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ホセア書",
+    "aliases": [
+      "ホセア書",
+      "ホセア",
+      "ホセ",
+      "Hosea"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨエル書",
+    "aliases": [
+      "ヨエル書",
+      "ヨエル",
+      "ヨエ",
+      "Joel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "アモス書",
+    "aliases": [
+      "アモス書",
+      "アモス",
+      "アモ",
+      "Amos"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "オバデヤ書",
+    "aliases": [
+      "オバデヤ書",
+      "オバデヤ",
+      "オバ",
+      "オバデア書",
+      "オバデア",
+      "Obadiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨナ書",
+    "aliases": [
+      "ヨナ書",
+      "ヨナ",
+      "Jonah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ミカ書",
+    "aliases": [
+      "ミカ書",
+      "ミカ",
+      "Micah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ナホム書",
+    "aliases": [
+      "ナホム書",
+      "ナホム",
+      "ナホ",
+      "Nahum"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ハバクク書",
+    "aliases": [
+      "ハバクク書",
+      "ハバクク",
+      "ハバ",
+      "Habakkuk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ゼパニヤ書",
+    "aliases": [
+      "ゼパニヤ書",
+      "ゼパニヤ",
+      "ゼパ",
+      "Zephaniah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ハガイ書",
+    "aliases": [
+      "ハガイ書",
+      "ハガイ",
+      "ハガ",
+      "Haggai"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ゼカリヤ書",
+    "aliases": [
+      "ゼカリヤ書",
+      "ゼカリヤ",
+      "ゼカ",
+      "Zechariah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "マラキ書",
+    "aliases": [
+      "マラキ書",
+      "マラキ",
+      "Malachi"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "マタイによる福音書",
+    "aliases": [
+      "マタイによる福音書",
+      "マタイ福音書",
+      "マタイ",
+      "マタ",
+      "Matthew",
+      "マタイの福音書"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "マルコによる福音書",
+    "aliases": [
+      "マルコによる福音書",
+      "マルコ福音書",
+      "マルコ",
+      "マコ",
+      "Mark",
+      "マルコの福音書"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ルカによる福音書",
+    "aliases": [
+      "ルカによる福音書",
+      "ルカ福音書",
+      "ルカ",
+      "ルーク",
+      "Luke",
+      "ルカの福音書"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨハネによる福音書",
+    "aliases": [
+      "ヨハネによる福音書",
+      "ヨハネ福音書",
+      "ヨハネ",
+      "ヨハ",
+      "John",
+      "ヨハネの福音書"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "使徒言行録",
+    "aliases": [
+      "使徒言行録",
+      "使徒行伝",
+      "使徒の働き",
+      "使徒",
+      "使",
+      "Acts"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ローマの信徒への手紙",
+    "aliases": [
+      "ローマの信徒への手紙",
+      "ローマ",
+      "ロマ",
+      "Romans",
+      "ローマ人への手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "コリントの信徒への手紙一",
+    "aliases": [
+      "コリントの信徒への手紙一",
+      "一コリ",
+      "1コリ",
+      "1コリント",
+      "１コリント",
+      "第一コリント",
+      "第1コリント",
+      "1 Corinthians",
+      "1コリント人への手紙",
+      "コリント人への手紙一",
+      "コリント人への手紙第一",
+      "コリント人への第一の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "コリントの信徒への手紙二",
+    "aliases": [
+      "コリントの信徒への手紙二",
+      "二コリ",
+      "2コリ",
+      "2コリント",
+      "２コリント",
+      "第二コリント",
+      "第2コリント",
+      "2 Corinthians",
+      "コリント人への手紙第二",
+      "コリント人への第二の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ガラテヤの信徒への手紙",
+    "aliases": [
+      "ガラテヤの信徒への手紙",
+      "ガラテヤ",
+      "ガラ",
+      "Galatians",
+      "ガラテヤ人への手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "エフェソの信徒への手紙",
+    "aliases": [
+      "エフェソの信徒への手紙",
+      "エフェソ",
+      "エペ",
+      "Ephesians",
+      "エペソ人への手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "フィリピの信徒への手紙",
+    "aliases": [
+      "フィリピの信徒への手紙",
+      "フィリピ",
+      "フィリ",
+      "Philippians",
+      "ピリピ人への手紙",
+      "フィリピ人への手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "コロサイの信徒への手紙",
+    "aliases": [
+      "コロサイの信徒への手紙",
+      "コロサイ",
+      "コロ",
+      "Colossians",
+      "コロサイ人への手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "テサロニケの信徒への手紙一",
+    "aliases": [
+      "テサロニケの信徒への手紙一",
+      "一テサ",
+      "1テサ",
+      "1テサロニケ",
+      "１テサロニケ",
+      "第一テサロニケ",
+      "第1テサロニケ",
+      "1 Thessalonians",
+      "テサロニケ人への手紙一",
+      "テサロニケ人への第一の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "テサロニケの信徒への手紙二",
+    "aliases": [
+      "テサロニケの信徒への手紙二",
+      "二テサ",
+      "2テサ",
+      "2テサロニケ",
+      "２テサロニケ",
+      "第二テサロニケ",
+      "第2テサロニケ",
+      "2 Thessalonians",
+      "テサロニケ人への手紙二",
+      "テサロニケ人への第二の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "テモテへの手紙一",
+    "aliases": [
+      "テモテへの手紙一",
+      "一テモ",
+      "1テモ",
+      "1テモテ",
+      "１テモテ",
+      "第一テモテ",
+      "第1テモテ",
+      "1 Timothy",
+      "1テモテへの手紙",
+      "テモテへの第一の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "テモテへの手紙二",
+    "aliases": [
+      "テモテへの手紙二",
+      "二テモ",
+      "2テモ",
+      "2テモテ",
+      "２テモテ",
+      "第二テモテ",
+      "第2テモテ",
+      "2 Timothy",
+      "テモテへの手紙第二",
+      "テモテへの第二の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "テトスへの手紙",
+    "aliases": [
+      "テトスへの手紙",
+      "テトス",
+      "テト",
+      "Titus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "フィレモンへの手紙",
+    "aliases": [
+      "フィレモンへの手紙",
+      "フィレモン",
+      "フィレ",
+      "Philemon"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヘブライ人への手紙",
+    "aliases": [
+      "ヘブライ人への手紙",
+      "ヘブライ",
+      "ヘブ",
+      "ヘブライ語",
+      "ヘブル人への手紙",
+      "ヘブル",
+      "Hebrews"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヤコブの手紙",
+    "aliases": [
+      "ヤコブの手紙",
+      "ヤコブ",
+      "ヤコ",
+      "James"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ペトロの手紙一",
+    "aliases": [
+      "ペトロの手紙一",
+      "一ペト",
+      "1ペト",
+      "1ペトロ",
+      "１ペトロ",
+      "第一ペトロ",
+      "第1ペトロ",
+      "1 Peter",
+      "ペテロの手紙第一",
+      "ペテロの第一の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ペトロの手紙二",
+    "aliases": [
+      "ペトロの手紙二",
+      "二ペト",
+      "2ペト",
+      "2ペトロ",
+      "２ペトロ",
+      "第二ペトロ",
+      "第2ペトロ",
+      "2 Peter",
+      "2ペテロの手紙",
+      "ペテロの手紙第二",
+      "ペテロの第二の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨハネの手紙一",
+    "aliases": [
+      "ヨハネの手紙一",
+      "一ヨハ",
+      "1ヨハ",
+      "1ヨハネ",
+      "１ヨハネ",
+      "第一ヨハネ",
+      "第1ヨハネ",
+      "1 John",
+      "1ヨハネの手紙",
+      "ヨハネの第一の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨハネの手紙二",
+    "aliases": [
+      "ヨハネの手紙二",
+      "二ヨハ",
+      "2ヨハ",
+      "2ヨハネ",
+      "２ヨハネ",
+      "第二ヨハネ",
+      "第2ヨハネ",
+      "2 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨハネの手紙三",
+    "aliases": [
+      "ヨハネの手紙三",
+      "三ヨハ",
+      "3ヨハ",
+      "3ヨハネ",
+      "３ヨハネ",
+      "第三ヨハネ",
+      "第3ヨハネ",
+      "3 John",
+      "ヨハネの第三の手紙"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ユダの手紙",
+    "aliases": [
+      "ユダの手紙",
+      "ユダ",
+      "Jude"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ヨハネの黙示録",
+    "aliases": [
+      "ヨハネの黙示録",
+      "黙示録",
+      "黙",
+      "ヨハネ黙示録",
+      "啓示録",
+      "Revelation",
+      "Apocalypse"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "トビト記",
+    "aliases": [
+      "トビト記",
+      "トビト",
+      "Tobit",
+      "トビト書"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "ユディト記",
+    "aliases": [
+      "ユディト記",
+      "ユディト",
+      "Judith"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "エステル記補遺",
+    "aliases": [
+      "エステル記補遺",
+      "補エステル",
+      "Additions to Esther"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "ソロモンの知恵",
+    "aliases": [
+      "ソロモンの知恵",
+      "知恵の書",
+      "知恵",
+      "Wisdom of Solomon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "シラ書",
+    "aliases": [
+      "シラ書",
+      "集会の書",
+      "シラ",
+      "Sirach"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "バルク書",
+    "aliases": [
+      "バルク書",
+      "バルク",
+      "Baruch"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "エレミヤの手紙",
+    "aliases": [
+      "エレミヤの手紙",
+      "エレ手",
+      "Letter of Jeremiah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "アザリヤの祈り",
+    "aliases": [
+      "アザリヤの祈り",
+      "三人の歌",
+      "三人の祈り",
+      "Prayer of Azariah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "スザンナ",
+    "aliases": [
+      "スザンナ",
+      "スサンナ",
+      "Susanna"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "ベルと竜",
+    "aliases": [
+      "ベルと竜",
+      "ベル",
+      "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "マカバイ記一",
+    "aliases": [
+      "マカバイ記一",
+      "一マカ",
+      "1マカ",
+      "1 Maccabees",
+      "マカバイ記第一"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "マカバイ記二",
+    "aliases": [
+      "マカバイ記二",
+      "二マカ",
+      "2マカ",
+      "2 Maccabees",
+      "マカバイ記第二"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "マカバイ記三",
+    "aliases": [
+      "マカバイ記三",
+      "三マカ",
+      "3マカ",
+      "3 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "マカバイ記四",
+    "aliases": [
+      "マカバイ記四",
+      "四マカ",
+      "4マカ",
+      "4 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "エズラ記第一",
+    "aliases": [
+      "エズラ記第一",
+      "一エズラ",
+      "1エズ",
+      "1 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "エズラ記第二",
+    "aliases": [
+      "エズラ記第二",
+      "二エズラ",
+      "2エズ",
+      "2 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "マナセの祈り",
+    "aliases": [
+      "マナセの祈り",
+      "マナセ",
+      "Prayer of Manasseh"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "頌栄集",
+    "aliases": [
+      "頌栄集",
+      "オデ",
+      "オデ集",
+      "Odes"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "ディダケー",
+    "aliases": [
+      "ディダケー",
+      "十二使徒教訓",
+      "十二使徒の教え",
+      "Didache"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ヘルマスの牧者",
+    "aliases": [
+      "ヘルマスの牧者",
+      "牧者ヘルマス",
+      "Shepherd of Hermas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "バルナバの手紙",
+    "aliases": [
+      "バルナバの手紙",
+      "Epistle of Barnabas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "クレメンスの手紙一",
+    "aliases": [
+      "クレメンスの手紙一",
+      "一クレメンス",
+      "1クレメンス",
+      "1 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "クレメンスの手紙二",
+    "aliases": [
+      "クレメンスの手紙二",
+      "二クレメンス",
+      "2クレメンス",
+      "2 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "トマス福音書",
+    "aliases": [
+      "トマス福音書",
+      "トマスの福音書",
+      "Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ペトロ福音書",
+    "aliases": [
+      "ペトロ福音書",
+      "ペテロ福音書",
+      "Gospel of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "マリア福音書",
+    "aliases": [
+      "マリア福音書",
+      "マグダラのマリア福音書",
+      "Gospel of Mary"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ユダ福音書",
+    "aliases": [
+      "ユダ福音書",
+      "Gospel of Judas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "フィリポ福音書",
+    "aliases": [
+      "フィリポ福音書",
+      "Gospel of Philip"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "トマス幼年福音書",
+    "aliases": [
+      "トマス幼年福音書",
+      "トマスの幼児福音書",
+      "Infancy Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ヤコブ原福音書",
+    "aliases": [
+      "ヤコブ原福音書",
+      "ヤコブ幼年福音書",
+      "Protevangelium of James"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ペトロ行伝",
+    "aliases": [
+      "ペトロ行伝",
+      "Acts of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "パウロ行伝",
+    "aliases": [
+      "パウロ行伝",
+      "Acts of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ヨハネ行伝",
+    "aliases": [
+      "ヨハネ行伝",
+      "Acts of John"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "アンドレ行伝",
+    "aliases": [
+      "アンドレ行伝",
+      "Acts of Andrew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "トマス行伝",
+    "aliases": [
+      "トマス行伝",
+      "Acts of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ペトロ黙示録",
+    "aliases": [
+      "ペトロ黙示録",
+      "Apocalypse of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "パウロ黙示録",
+    "aliases": [
+      "パウロ黙示録",
+      "ヴィジオ・パウリ",
+      "Apocalypse of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ラオデキア人への手紙",
+    "aliases": [
+      "ラオデキア人への手紙",
+      "ラオデキア書",
+      "Epistle to the Laodiceans"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "使徒たちの手紙",
+    "aliases": [
+      "使徒たちの手紙",
+      "使徒書簡",
+      "Letter of the Apostles"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "ヘブライ人の福音書",
+    "aliases": [
+      "ヘブライ人の福音書",
+      "Gospel of the Hebrews"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "エジプト人の福音書",
+    "aliases": [
+      "エジプト人の福音書",
+      "Gospel of the Egyptians"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1 エノク",
+    "aliases": [
+      "1 エノク",
+      "第一エノク",
+      "エチオピア語エノク書",
+      "エノク",
+      "1 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 エノク",
+    "aliases": [
+      "2 エノク",
+      "第二エノク",
+      "スラヴ語エノク書",
+      "2 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 エノク",
+    "aliases": [
+      "3 エノク",
+      "第三エノク",
+      "ヘブライ語エノク書",
+      "3 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ヨベル書",
+    "aliases": [
+      "ヨベル書",
+      "小創世記",
+      "Jubilees"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "十二族長の遺訓",
+    "aliases": [
+      "十二族長の遺訓",
+      "十二族長遺訓",
+      "Testament of the Twelve Patriarchs"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ルベンの遺訓",
+    "aliases": [
+      "ルベンの遺訓",
+      "Testament of Reuben"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "シメオンの遺訓",
+    "aliases": [
+      "シメオンの遺訓",
+      "Testament of Simeon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "レビの遺訓",
+    "aliases": [
+      "レビの遺訓",
+      "Testament of Levi"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ユダの遺訓",
+    "aliases": [
+      "ユダの遺訓",
+      "Testament of Judah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "イッサカルの遺訓",
+    "aliases": [
+      "イッサカルの遺訓",
+      "Testament of Issachar"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ゼブルンの遺訓",
+    "aliases": [
+      "ゼブルンの遺訓",
+      "Testament of Zebulun"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ダンの遺訓",
+    "aliases": [
+      "ダンの遺訓",
+      "Testament of Dan"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ナフタリの遺訓",
+    "aliases": [
+      "ナフタリの遺訓",
+      "Testament of Naphtali"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ガドの遺訓",
+    "aliases": [
+      "ガドの遺訓",
+      "Testament of Gad"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "アシェルの遺訓",
+    "aliases": [
+      "アシェルの遺訓",
+      "Testament of Asher"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ヨセフの遺訓",
+    "aliases": [
+      "ヨセフの遺訓",
+      "Testament of Joseph"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ベニヤミンの遺訓",
+    "aliases": [
+      "ベニヤミンの遺訓",
+      "Testament of Benjamin"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ヨブの遺訓",
+    "aliases": [
+      "ヨブの遺訓",
+      "Testament of Job"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "アダムとエバの生涯",
+    "aliases": [
+      "アダムとエバの生涯",
+      "モーセの黙示録",
+      "Life of Adam and Eve"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "アブラハムの黙示録",
+    "aliases": [
+      "アブラハムの黙示録",
+      "Apocalypse of Abraham"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ゼパニヤの黙示録",
+    "aliases": [
+      "ゼパニヤの黙示録",
+      "Apocalypse of Zephaniah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 バルク",
+    "aliases": [
+      "2 バルク",
+      "第二バルク",
+      "シリア語バルク黙示録",
+      "2 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 バルク",
+    "aliases": [
+      "3 バルク",
+      "第三バルク",
+      "ギリシア語バルク黙示録",
+      "3 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "4 バルク",
+    "aliases": [
+      "4 バルク",
+      "エレミヤ補遺",
+      "4 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ソロモンの詩篇",
+    "aliases": [
+      "ソロモンの詩篇",
+      "Psalms of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ソロモンの頌歌",
+    "aliases": [
+      "ソロモンの頌歌",
+      "ソロモンのオード",
+      "Odes of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "ヨセフとアセネト",
+    "aliases": [
+      "ヨセフとアセネト",
+      "Joseph and Aseneth"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "アリステアスの手紙",
+    "aliases": [
+      "アリステアスの手紙",
+      "Letter of Aristeas"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "イザヤ昇天記",
+    "aliases": [
+      "イザヤ昇天記",
+      "イザヤの殉教と昇天",
+      "Ascension of Isaiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "エリヤの黙示録",
+    "aliases": [
+      "エリヤの黙示録",
+      "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  }
+]

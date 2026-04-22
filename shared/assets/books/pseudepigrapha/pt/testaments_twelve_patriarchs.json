@@ -1,0 +1,38 @@
+{
+  "id": "testaments_twelve_patriarchs",
+  "title": "Testamentos dos Doze Patriarcas",
+  "stories": [
+    {
+      "id": "testaments_twelve_patriarchs-1",
+      "title": "📜 Testamentos dos Doze Patriarcas",
+      "refs": [
+        "Testaments of the Twelve Patriarchs 1"
+      ],
+      "summaryBullets": [
+        "Uma coleção pseudepígrafa de doze discursos atribuídos aos filhos de Jacó, composta por volta do século II a.C., que mescla autobiografia, exortações éticas e visões proféticas.",
+        "Cada patriarca (por exemplo, Rúben, Simeão, Levi, etc.) relata eventos de sua vida, adverte contra um vício particular ou exorta a uma virtude ligada à sua própria história, e depois prediz o futuro de seus descendentes.",
+        "Estrutura recorrente: um testemunho pessoal, instrução moral e, por vezes, uma profecia apocalíptica ou messiânica, frequentemente concluindo com a morte e o sepultamento do patriarca.",
+        "Forte ênfase ética: virtudes como o amor, a misericórdia e a verdade são exaltadas; vícios como o orgulho, a inveja, a fornicação e o ódio são condenados. José é repetidamente apresentado como modelo de virtude.",
+        "Contém padrões Pecado-Exílio-Retorno (PER), especialmente em Levi, Judá, Dã, Naftali, Gade e Benjamim, cada um com confissões, imagens de exílio e esperança de retorno."
+      ],
+      "crossRefs": [
+        "Gênesis 49 — Bênçãos de Jacó sobre seus filhos.",
+        "Josué 23–24 — Exortação final à fidelidade de Israel.",
+        "Provérbios 3:11–12 — A disciplina do Senhor refina a virtude."
+      ],
+      "translationNotes": [
+        {
+          "term": "Testamento",
+          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony') — Greek: διαθήκη (diathḗkē) — Aramaic: סָפְרָא (səfrāʾ, 'book')",
+          "note": "Aqui designa um legado no leito de morte ou discurso final destinado a instruir os descendentes, inserindo-se no gênero da literatura testamentária."
+        },
+        {
+          "term": "Padrão Pecado-Exílio-Retorno (PER)",
+          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense) — English: SER motif",
+          "note": "Um padrão literário em textos bíblicos e pseudepígrafos: o pecado leva ao exílio, seguido de restauração ou retorno, usado para enquadrar a história moral e comunitária."
+        }
+      ],
+      "keyTakeaway": "Os Testamentos apresentam despedidas éticas e proféticas dos filhos de Jacó, exortando à fidelidade moral e oferecendo esperança de restauração."
+    }
+  ]
+}

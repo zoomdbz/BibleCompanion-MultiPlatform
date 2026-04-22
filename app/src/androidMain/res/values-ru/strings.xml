@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Библейский спутник</string>
+    <string name="widget_description">Показывает дату следующего библейского праздника</string>
+    <string name="widget_calendar_description">Календарь библейских праздников с еврейскими и ессейскими датами</string>
+    <string name="shortcut_search">Поиск</string>
+    <string name="shortcut_bookmarks">Закладки</string>
+    <string name="shortcut_continue">Продолжить чтение</string>
+</resources>

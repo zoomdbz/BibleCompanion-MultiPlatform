@@ -1,0 +1,2084 @@
+{
+  "id": "leviticus",
+  "title": "Levítico",
+  "stories": [
+    {
+      "id": "leviticus-1",
+      "title": "🔥 Levítico 1",
+      "refs": [
+        "Leviticus 1:1-17"
+      ],
+      "summaryBullets": [
+        "El Señor llamó a Moisés y le habló desde la Tienda de reunión. Le ordenó (1:1)",
+        "que dijera a los israelitas: «Cuando alguno de ustedes traiga una ofrenda al Señor, deberá presentar un animal de ganado vacuno u ovino. (1:2)",
+        "»Si el animal que ofrece en holocausto es de ganado vacuno, deberá presentar un macho sin defecto a la entrada de la Tienda de reunión. Así será aceptable al Señor. (1:3)",
+        "Pondrá su mano sobre la cabeza de la víctima, la cual será aceptada en su lugar y servirá para obtener el perdón de sus pecados. (1:4)",
+        "Después degollará el ternero ante el Señor y los hijos de Aarón, los sacerdotes, tomarán la sangre y la derramarán alrededor del altar que está a la entrada de la Tienda de reunión. (1:5)",
+        "Luego le quitará el cuero a la víctima del holocausto y la cortará en trozos. (1:6)",
+        "Los hijos de Aarón, los sacerdotes, harán fuego sobre el altar y echarán leña; (1:7)",
+        "después acomodarán los trozos sobre la leña encendida del altar, junto con la cabeza y el sebo. (1:8)",
+        "Las entrañas y las patas se lavarán con agua, y luego el sacerdote lo quemará todo en el altar. Es un holocausto, una ofrenda puesta al fuego, cuyo aroma es grato al Señor. (1:9)",
+        "»Si alguien ofrece un holocausto de ganado ovino, sea de corderos o de cabras, deberá presentar un macho sin defecto. (1:10)",
+        "Lo degollará ante el Señor, en el costado norte del altar, y los hijos de Aarón, los sacerdotes, derramarán la sangre alrededor del altar. (1:11)",
+        "Luego lo cortará en trozos, los cuales el sacerdote acomodará sobre la leña encendida del altar, junto con la cabeza y el sebo. (1:12)",
+        "Las entrañas y las patas se lavarán con agua, y el sacerdote lo tomará todo y lo quemará en el altar. Es un holocausto, una ofrenda puesta al fuego cuyo aroma es grato al Señor. (1:13)",
+        "»Si alguien ofrece al Señor un holocausto de ave, deberá presentar una tórtola o un pichón de paloma. (1:14)",
+        "El sacerdote llevará el ave al altar para quemarla. Le arrancará la cabeza; después exprimirá la sangre en un costado del altar, (1:15)",
+        "y le quitará también el buche y las entrañas, y los arrojará hacia el costado oriental del altar, donde se echa la ceniza. (1:16)",
+        "Después la desgarrará por las alas, pero sin arrancárselas. Entonces el sacerdote la quemará en el altar sobre la leña encendida. Es un holocausto, una ofrenda puesta al fuego cuyo aroma es grato al Señor. (1:17)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:38–46 — Holocaustos diarios en la tienda de reunión.",
+        "Números 18:8–19 — Porciones sacerdotales de las ofrendas de Israel.",
+        "Hebreos 9:22 — Sin derramamiento de sangre no hay perdón (reflexión posterior).",
+        "Salmo 51:16–17 — Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+      ],
+      "translationNotes": [
+        {
+          "term": "*pecado*",
+          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt) — Greek: ἁμαρτία (hamartia) — Aramaic: ܚܛܝܬܐ (ḥaṭita)",
+          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+        },
+        {
+          "term": "*culpa* (transgresión)",
+          "original": "Hebrew: אָשָׁם (ʾāsham) — Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma) — Aramaic: ܐܫܡܐ (ʾashma)",
+          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἱλάσκεσθαι (hilaskesthai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+        },
+        {
+          "term": "Imponer la mano",
+          "original": "Hebrew: סָמַךְ (sāmak) — Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira) — Aramaic: ܣܡܟ (samak)",
+          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+        },
+        {
+          "term": "Ofrecer en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir) — Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein) — Aramaic: ܐܩܛܪ (aqṭar)",
+          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+        },
+        {
+          "term": "Santísimo",
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim) — Greek: ἅγιον ἁγίων (hagion hagiōn) — Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
+          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+        },
+        {
+          "term": "Grasa / Sangre",
+          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām) — Greek: στέαρ (stear) / αἷμα (haima) — Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
+          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+        }
+      ],
+      "keyTakeaway": "Levítico describe cinco ofrendas: holocausto, grano, paz, pecado y culpa, detallando animales, porciones, uso de la sangre, partes sacerdotales y reglas para la expiación y la restitución."
+    },
+    {
+      "id": "leviticus-2",
+      "title": "🔥 Levítico 2",
+      "refs": [
+        "Leviticus 2:1-16"
+      ],
+      "summaryBullets": [
+        "»Si alguien presenta al Señor una ofrenda de cereal, esta será de flor de harina refinada, sobre la cual pondrá aceite e incienso. (2:1)",
+        "Luego la llevará a los hijos de Aarón, los sacerdotes; allí tomará un puñado de harina refinada con aceite, junto con todo el incienso, y el sacerdote quemará esa ofrenda memorial en el altar. Es una ofrenda puesta al fuego cuyo aroma es grato al Señor. (2:2)",
+        "El resto de la ofrenda de cereal será para Aarón y sus hijos. Entre las ofrendas puestas al fuego que se presentan al Señor, esta es sumamente sagrada. (2:3)",
+        "»Si presentas una ofrenda de cereal cocida al horno, esta será de panes de harina refinada sin levadura, amasados con aceite o de hojuelas sin levadura untadas con aceite. (2:4)",
+        "Si presentas una ofrenda de cereal cocida en la sartén, la ofrenda será de harina refinada sin levadura, amasada con aceite. (2:5)",
+        "La partirás en pedazos y le echarás aceite. Es una ofrenda de cereal. (2:6)",
+        "Si presentas una ofrenda de cereal cocida a la olla, la ofrenda será de harina refinada con aceite. (2:7)",
+        "Así preparada la ofrenda de cereal, se la llevarás al Señor, es decir, se la llevarás al sacerdote, quien la presentará en el altar. (2:8)",
+        "El sacerdote, luego de tomar una parte como ofrenda memorial, la quemará en el altar. Es una ofrenda puesta al fuego cuyo aroma es grato al Señor. (2:9)",
+        "El resto de la ofrenda de cereal será para Aarón y sus hijos. Entre las ofrendas puestas al fuego que se presentan al Señor, esta es sumamente sagrada. (2:10)",
+        "»Ninguna ofrenda de cereal que ustedes presenten al Señor se hará de masa fermentada, porque en una ofrenda al Señor puesta al fuego no se deben quemar ni miel ni levadura. (2:11)",
+        "Llevarán al Señor levadura y miel como ofrenda de primicias, pero no las pondrán sobre el altar como aroma grato. (2:12)",
+        "Todas las ofrendas de cereal las sazonarán con sal, y no dejarán que falte la sal del pacto de su Dios. A todas las ofrendas deberán ponerles sal. (2:13)",
+        "»Si presentas al Señor una ofrenda de las primicias de tus cereales, esta será de trigo nuevo, molido y tostado al fuego. Es la ofrenda de cereal de tus primicias. (2:14)",
+        "Le pondrás aceite e incienso; es una ofrenda de cereal. (2:15)",
+        "El sacerdote quemará parte del trigo nuevo y molido como ofrenda memorial, junto con todo el incienso y el aceite. Es una ofrenda al Señor puesta al fuego. (2:16)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:38–46 — Holocaustos diarios en la tienda de reunión.",
+        "Números 18:8–19 — Porciones sacerdotales de las ofrendas de Israel.",
+        "Hebreos 9:22 — Sin derramamiento de sangre no hay perdón (reflexión posterior).",
+        "Salmo 51:16–17 — Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+      ],
+      "translationNotes": [
+        {
+          "term": "*pecado*",
+          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt) — Greek: ἁμαρτία (hamartia) — Aramaic: ܚܛܝܬܐ (ḥaṭita)",
+          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+        },
+        {
+          "term": "*culpa* (transgresión)",
+          "original": "Hebrew: אָשָׁם (ʾāsham) — Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma) — Aramaic: ܐܫܡܐ (ʾashma)",
+          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἱλάσκεσθαι (hilaskesthai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+        },
+        {
+          "term": "Imponer la mano",
+          "original": "Hebrew: סָמַךְ (sāmak) — Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira) — Aramaic: ܣܡܟ (samak)",
+          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+        },
+        {
+          "term": "Ofrecer en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir) — Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein) — Aramaic: ܐܩܛܪ (aqṭar)",
+          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+        },
+        {
+          "term": "Santísimo",
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim) — Greek: ἅγιον ἁγίων (hagion hagiōn) — Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
+          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+        },
+        {
+          "term": "Grasa / Sangre",
+          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām) — Greek: στέαρ (stear) / αἷμα (haima) — Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
+          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+        }
+      ],
+      "keyTakeaway": "Levítico describe cinco ofrendas: holocausto, grano, paz, pecado y culpa, detallando animales, porciones, uso de la sangre, partes sacerdotales y reglas para la expiación y la restitución."
+    },
+    {
+      "id": "leviticus-3",
+      "title": "🔥 Levítico 3",
+      "refs": [
+        "Leviticus 3:1-17"
+      ],
+      "summaryBullets": [
+        "»Si alguien ofrece ganado vacuno al Señor como sacrificio de comunión, deberá presentarle un animal sin defecto, sea macho o hembra. (3:1)",
+        "Pondrá su mano sobre la cabeza del animal, al que degollará a la entrada de la Tienda de reunión. Luego los hijos de Aarón, los sacerdotes, derramarán la sangre alrededor del altar. (3:2)",
+        "El oferente presentará al Señor, como ofrenda puesta al fuego, las siguientes partes del sacrificio de comunión: la grasa que recubre los intestinos y la que se adhiere a estos, (3:3)",
+        "los dos riñones y la grasa que los recubre, la grasa que recubre los lomos, y también el lóbulo del hígado, el cual se extraerá junto con los riñones. (3:4)",
+        "Entonces los hijos de Aarón quemarán todo esto en el altar, encima del holocausto que está sobre la leña encendida. Es una ofrenda puesta al fuego cuyo aroma es grato al Señor. (3:5)",
+        "»Si el sacrificio de comunión es de ganado ovino, el oferente deberá presentarle al Señor un animal sin defecto, sea macho o hembra. (3:6)",
+        "Si la ofrenda es un cordero, lo presentará ante el Señor (3:7)",
+        "y le impondrá la mano sobre la cabeza, degollando luego al animal ante la Tienda de reunión. Luego los hijos de Aarón derramarán la sangre alrededor del altar. (3:8)",
+        "El oferente presentará al Señor, como ofrenda puesta al fuego, las siguientes partes de este sacrificio: la grasa, la cola entera (la cual cortará junto al espinazo), la grasa que recubre los intestinos y la que se adhiere a estos, (3:9)",
+        "los dos riñones y la grasa que los recubre, la grasa que recubre los lomos, y también el lóbulo del hígado, el cual se extraerá junto con los riñones. (3:10)",
+        "Entonces el sacerdote quemará todo esto en el altar. Es una comida, una ofrenda puesta al fuego ante el Señor. (3:11)",
+        "»Si la ofrenda es una cabra, la presentará ante el Señor (3:12)",
+        "poniendo la mano sobre la cabeza del animal, al que degollará ante la Tienda de reunión. Luego los hijos de Aarón derramarán la sangre alrededor del altar. (3:13)",
+        "El oferente presentará al Señor, como ofrenda puesta al fuego, las siguientes partes del animal: la grasa que recubre los intestinos y la que se adhiere a estos, (3:14)",
+        "los dos riñones y la grasa que los recubre, la grasa que recubre los lomos, y también el lóbulo del hígado, el cual se extraerá junto con los riñones. (3:15)",
+        "Entonces el sacerdote quemará todo esto en el altar. Es una comida, una ofrenda puesta al fuego cuyo aroma es grato. Toda la grasa pertenece al Señor. (3:16)",
+        "»Este será un estatuto perpetuo para los descendientes de ustedes, dondequiera que habiten: no se comerán la grasa ni la sangre». (3:17)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:38–46 — Holocaustos diarios en la tienda de reunión.",
+        "Números 18:8–19 — Porciones sacerdotales de las ofrendas de Israel.",
+        "Hebreos 9:22 — Sin derramamiento de sangre no hay perdón (reflexión posterior).",
+        "Salmo 51:16–17 — Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+      ],
+      "translationNotes": [
+        {
+          "term": "*pecado*",
+          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt) — Greek: ἁμαρτία (hamartia) — Aramaic: ܚܛܝܬܐ (ḥaṭita)",
+          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+        },
+        {
+          "term": "*culpa* (transgresión)",
+          "original": "Hebrew: אָשָׁם (ʾāsham) — Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma) — Aramaic: ܐܫܡܐ (ʾashma)",
+          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἱλάσκεσθαι (hilaskesthai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+        },
+        {
+          "term": "Imponer la mano",
+          "original": "Hebrew: סָמַךְ (sāmak) — Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira) — Aramaic: ܣܡܟ (samak)",
+          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+        },
+        {
+          "term": "Ofrecer en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir) — Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein) — Aramaic: ܐܩܛܪ (aqṭar)",
+          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+        },
+        {
+          "term": "Santísimo",
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim) — Greek: ἅγιον ἁγίων (hagion hagiōn) — Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
+          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+        },
+        {
+          "term": "Grasa / Sangre",
+          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām) — Greek: στέαρ (stear) / αἷμα (haima) — Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
+          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+        }
+      ],
+      "keyTakeaway": "Levítico describe cinco ofrendas: holocausto, grano, paz, pecado y culpa, detallando animales, porciones, uso de la sangre, partes sacerdotales y reglas para la expiación y la restitución."
+    },
+    {
+      "id": "leviticus-4",
+      "title": "🔥 Levítico 4",
+      "refs": [
+        "Leviticus 4:1-35"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (4:1):",
+        "que dijera a los israelitas: «Cuando alguien viole involuntariamente cualquiera de los mandamientos del Señor e incurra en algo que esté prohibido, se procederá de la siguiente manera: (4:2).",
+        "»Si el que peca es el sacerdote ungido, haciendo con ello culpable al pueblo, deberá ofrecer al Señor, como sacrificio para el perdón por su pecado, un ternero sin defecto. (4:3)",
+        "Llevará el novillo ante el Señor a la entrada de la Tienda de reunión y pondrá la mano sobre la cabeza del novillo, al que degollará en presencia del Señor. (4:4)",
+        "El sacerdote ungido tomará un poco de la sangre del novillo y la llevará a la Tienda de reunión. (4:5)",
+        "Mojará el dedo en la sangre y rociará con ella siete veces en dirección a la cortina del santuario, en presencia del Señor. (4:6)",
+        "Después, el sacerdote untará un poco de la sangre en los cuernos del altar del incienso aromático que está ante el Señor, en la Tienda de reunión. El resto de la sangre del novillo la derramará al pie del altar del holocausto, que está a la entrada de la Tienda de reunión. (4:7)",
+        "Luego, al novillo del sacrificio para el perdón de su pecado le sacará toda la grasa que recubre los intestinos y la que se adhiere a estos, (4:8)",
+        "los dos riñones y la grasa que los recubre, la grasa que recubre los lomos y también el lóbulo del hígado, el cual se extraerá junto con los riñones. (4:9)",
+        "Esto se hará tal y como se saca la grasa de la res para el sacrificio de comunión. Entonces el sacerdote quemará todo esto en el altar del holocausto, (4:10)",
+        "pero sacará del campamento la piel y toda la carne del novillo, junto con la cabeza, las patas, los intestinos y el excremento. (4:11).",
+        "Todo esto, es decir, el resto del novillo, lo sacará del campamento y lo llevará a un lugar ritualmente puro, al vertedero de la ceniza, y dejará que se consuma sobre la leña encendida. Sobre el vertedero de la ceniza se consumirá. (4:12)",
+        "»Si la que peca involuntariamente es toda la comunidad de Israel, toda la asamblea será culpable de haber hecho algo que los mandamientos del Señor prohíben. (4:13).",
+        "Cuando la asamblea se dé cuenta del pecado que ha cometido, deberá ofrecer un ternero como sacrificio para el perdón de su pecado. Lo llevarán a la Tienda de reunión (4:14)",
+        "y allí, en presencia del Señor, los jefes de la comunidad impondrán las manos sobre la cabeza del novillo y lo degollarán. (4:15)",
+        "Luego el sacerdote ungido tomará un poco de la sangre del novillo y la llevará a la Tienda de reunión. (4:16)",
+        "Mojará el dedo en la sangre y rociará con ella siete veces en dirección a la cortina en presencia del Señor. (4:17)",
+        "Después untará un poco de la sangre en los cuernos del altar, que está ante el Señor, en la Tienda de reunión. El resto de la sangre la derramará al pie del altar del holocausto, que está a la entrada de la Tienda de reunión, (4:18)",
+        "y sacará del animal toda la grasa, quemándola en el altar. (4:19)",
+        "Se hará con este novillo lo mismo que se hace con el de la ofrenda por el perdón de pecados. Así el sacerdote pedirá perdón por el pecado de ellos, y serán perdonados. (4:20)",
+        "Luego, sacará del campamento el resto del novillo y dejará que se consuma en el fuego, como el otro. Este es el sacrificio para el perdón por el pecado de la asamblea. (4:21)",
+        "When a leader sins, doing unintentionally any one of all the things that the LORD his God has commanded not to be done, and realizes his guilt (4:22),",
+        "Cuando se le haga saber que ha cometido un pecado, llevará como ofrenda un macho cabrío sin defecto. (4:23)",
+        "Pondrá la mano sobre la cabeza del macho cabrío y lo degollará en presencia del Señor, en el mismo lugar donde se degüellan los animales para el holocausto. Es un sacrificio para obtener el perdón de pecado. (4:24)",
+        "Entonces el sacerdote tomará con el dedo un poco de la sangre del sacrificio para el perdón y la untará en los cuernos del altar del holocausto, después de lo cual derramará al pie del altar del holocausto el resto de la sangre. (4:25)",
+        "Toda la grasa del animal la quemará en el altar, tal como se hace con el sacrificio de comunión. Así el sacerdote pedirá perdón por el pecado del gobernante y su pecado será perdonado. (4:26)",
+        "»Si el que peca involuntariamente es alguien del pueblo, e incurre en algo que los mandamientos del Señor prohíben, será culpable. (4:27).",
+        "Cuando se le haga saber que ha cometido un pecado, llevará como ofrenda por su pecado una cabra sin defecto. (4:28)",
+        "Pondrá la mano sobre la cabeza de la ofrenda por el pecado y lo degollará en el lugar donde se degüellan los animales para el holocausto. (4:29)",
+        "Entonces el sacerdote tomará con el dedo un poco de la sangre y la untará en los cuernos del altar del holocausto, después de lo cual derramará el resto de la sangre al pie del altar. (4:30)",
+        "Luego, sacará al animal toda la grasa, tal y como se saca la grasa al sacrificio de comunión, y el sacerdote la quemará toda en el altar como aroma grato al Señor. Así el sacerdote pedirá perdón por él, y su pecado será perdonado. (4:31)",
+        "»Si la persona ofrece como sacrificio para obtener el perdón un cordero, deberá presentar una hembra sin defecto. (4:32)",
+        "Pondrá la mano sobre la cabeza del animal y lo degollará como sacrificio para perdón en el lugar donde se degüellan los animales para el holocausto. (4:33)",
+        "Entonces el sacerdote tomará con el dedo un poco de la sangre del sacrificio para el perdón y la untará en los cuernos del altar del holocausto, después de lo cual derramará al pie del altar el resto de la sangre. (4:34)",
+        "Luego le sacará al animal toda la grasa, tal y como se saca la grasa al cordero del sacrificio de comunión, y el sacerdote la quemará en el altar sobre la ofrenda puesta al fuego ante el Señor. Así el sacerdote pedirá perdón por el pecado de esa persona, y el pecado que haya cometido será perdonado. (4:35)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:38–46 — Holocaustos diarios en la tienda de reunión.",
+        "Números 18:8–19 — Porciones sacerdotales de las ofrendas de Israel.",
+        "Hebreos 9:22 — Sin derramamiento de sangre no hay perdón (reflexión posterior).",
+        "Salmo 51:16–17 — Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+      ],
+      "translationNotes": [
+        {
+          "term": "*pecado*",
+          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt) — Greek: ἁμαρτία (hamartia) — Aramaic: ܚܛܝܬܐ (ḥaṭita)",
+          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+        },
+        {
+          "term": "*culpa* (transgresión)",
+          "original": "Hebrew: אָשָׁם (ʾāsham) — Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma) — Aramaic: ܐܫܡܐ (ʾashma)",
+          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἱλάσκεσθαι (hilaskesthai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+        },
+        {
+          "term": "Imponer la mano",
+          "original": "Hebrew: סָמַךְ (sāmak) — Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira) — Aramaic: ܣܡܟ (samak)",
+          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+        },
+        {
+          "term": "Ofrecer en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir) — Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein) — Aramaic: ܐܩܛܪ (aqṭar)",
+          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+        },
+        {
+          "term": "Santísimo",
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim) — Greek: ἅγιον ἁγίων (hagion hagiōn) — Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
+          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+        },
+        {
+          "term": "Grasa / Sangre",
+          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām) — Greek: στέαρ (stear) / αἷμα (haima) — Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
+          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+        }
+      ],
+      "keyTakeaway": "Levítico describe cinco ofrendas: holocausto, grano, paz, pecado y culpa, detallando animales, porciones, uso de la sangre, partes sacerdotales y reglas para la expiación y la restitución."
+    },
+    {
+      "id": "leviticus-5",
+      "title": "🔥 Levítico 5",
+      "refs": [
+        "Leviticus 5:1-19"
+      ],
+      "summaryBullets": [
+        "»Si alguien peca por negarse a declarar bajo juramento lo que vio o escuchó, sufrirá las consecuencias de su pecado. (5:1)",
+        "Or if anyone touches an unclean thing, whether a carcass of an unclean wild animal or a carcass of unclean livestock or a carcass of unclean swarming things, and it is hidden from him and he has become unclean, and he realizes his guilt (5:2),",
+        "or if he touches human uncleanness, of whatever sort the uncleanness may be with which one becomes unclean, and it is hidden from him, when he comes to know it, he shall be guilty (5:3),",
+        "»Si alguien hace uno de esos juramentos que se acostumbra a hacer a la ligera, y sin saberlo jura hacer bien o mal, ha pecado. Pero al darse cuenta, será culpable de haber hecho ese juramento. (5:4)",
+        "»Si alguien resulta culpable de alguna de estas cosas, deberá reconocer que ha pecado (5:5)",
+        "y llevarle al Señor en sacrificio para obtener el perdón por la culpa del pecado cometido una hembra del rebaño, que podrá ser una oveja o una cabra. Así el sacerdote obtendrá perdón por ese pecado. (5:6)",
+        "»Si a alguien no le alcanza para comprar una oveja, entonces llevará al Señor, como sacrificio por la culpa del pecado cometido, dos tórtolas o dos pichones de paloma, una de las aves como sacrificio por el pecado y la otra como holocausto. (5:7)",
+        "Se las llevará al sacerdote, quien primero ofrecerá el ave para el sacrificio por el perdón. Para esto, le cortará la cabeza sin desprenderla del todo del cuello. (5:8)",
+        "Luego rociará un poco de la sangre del sacrificio por el perdón en un costado del altar, y al pie del altar exprimirá el resto de la sangre. Es un sacrificio para obtener el perdón por el pecado. (5:9)",
+        "Con la segunda ave hará un holocausto, como ya ha sido ordenado. Así el sacerdote pedirá perdón por el pecado cometido y ese pecado será perdonado. (5:10)",
+        "»Si a esa persona tampoco le alcanza para comprar dos tórtolas o dos pichones de palomas, presentará entonces en sacrificio por el perdón, como ofrenda por el pecado cometido, la décima parte de un efa de harina refinada. Como se trata de un sacrificio por el perdón, no se le pondrá aceite ni incienso. (5:11)",
+        "Llevará este sacrificio al sacerdote, quien tomará un puñado de la ofrenda memorial y lo quemará en el altar junto con las ofrendas puestas al fuego ante el Señor. Es un sacrificio para obtener el perdón de pecados. (5:12)",
+        "Así el sacerdote pedirá perdón por el pecado cometido en alguna de estas cosas y ese pecado será perdonado. El resto de la ofrenda será para el sacerdote como sucede con la ofrenda de cereal». (5:13)",
+        "The LORD speaks to Moses, saying (5:14):",
+        "«Si alguien comete una falta y peca involuntariamente contra lo que ha sido consagrado al Señor, llevará al Señor un carnero sin defecto como sacrificio por la culpa. Su precio será tasado en siclos de plata, según el peso oficial del santuario. Es un sacrificio por la culpa. (5:15)",
+        "Además, el culpable hará restitución por haber pecado contra lo consagrado, añadiendo la quinta parte, la cual entregará al sacerdote. Así el sacerdote pedirá perdón por él mediante el carnero del sacrificio por la culpa, y ese pecado será perdonado. (5:16)",
+        "»Si alguien peca involuntariamente e incurre en algo que los mandamientos del Señor prohíben, es culpable y sufrirá las consecuencias de su pecado. (5:17)",
+        "Llevará al sacerdote un carnero sin defecto, cuyo precio será fijado como sacrificio por la culpa. Así el sacerdote pedirá perdón por el mal que esa persona cometió involuntariamente, y ese pecado será perdonado. (5:18)",
+        "Es un sacrificio por la culpa de la que se hizo acreedor por pecar contra el Señor». (5:19)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:38–46 — Holocaustos diarios en la tienda de reunión.",
+        "Números 18:8–19 — Porciones sacerdotales de las ofrendas de Israel.",
+        "Hebreos 9:22 — Sin derramamiento de sangre no hay perdón (reflexión posterior).",
+        "Salmo 51:16–17 — Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+      ],
+      "translationNotes": [
+        {
+          "term": "*pecado*",
+          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt) — Greek: ἁμαρτία (hamartia) — Aramaic: ܚܛܝܬܐ (ḥaṭita)",
+          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+        },
+        {
+          "term": "*culpa* (transgresión)",
+          "original": "Hebrew: אָשָׁם (ʾāsham) — Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma) — Aramaic: ܐܫܡܐ (ʾashma)",
+          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἱλάσκεσθαι (hilaskesthai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+        },
+        {
+          "term": "Imponer la mano",
+          "original": "Hebrew: סָמַךְ (sāmak) — Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira) — Aramaic: ܣܡܟ (samak)",
+          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+        },
+        {
+          "term": "Ofrecer en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir) — Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein) — Aramaic: ܐܩܛܪ (aqṭar)",
+          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+        },
+        {
+          "term": "Santísimo",
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim) — Greek: ἅγιον ἁγίων (hagion hagiōn) — Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
+          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+        },
+        {
+          "term": "Grasa / Sangre",
+          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām) — Greek: στέαρ (stear) / αἷμα (haima) — Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
+          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+        }
+      ],
+      "keyTakeaway": "Levítico describe cinco ofrendas: holocausto, grano, paz, pecado y culpa, detallando animales, porciones, uso de la sangre, partes sacerdotales y reglas para la expiación y la restitución."
+    },
+    {
+      "id": "leviticus-6",
+      "title": "🔥 Levítico 6",
+      "refs": [
+        "Leviticus 6:1-30"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (6:1):",
+        "«Si alguien comete una falta y peca contra el Señor al defraudar a su prójimo en algo que se dejó a su cuidado, o si roba u oprime a su prójimo despojándolo de lo que es suyo, (6:2).",
+        "or has found something lost and lied about it, swearing falsely—in any of all the things that people do and sin thereby (6:3)—",
+        "if he has sinned and has realized his guilt, he shall restore what he took by robbery or what he got by oppression, or the deposit, or the lost thing that he found (6:4),",
+        "o cualquier otra cosa por la que haya cometido perjurio. Así que deberá restituirlo íntegramente y añadir la quinta parte de su valor. Todo esto lo entregará a su dueño el día que presente su sacrificio por la culpa. (6:5)",
+        "Llevará al Señor un carnero sin defecto, cuyo precio será fijado como sacrificio por la culpa. Lo presentará al sacerdote, (6:6)",
+        "quien pedirá perdón ante el Señor por esa persona, y cualquier cosa por la que se haya hecho culpable le será perdonada». (6:7)",
+        "The LORD speaks to Moses, saying (6:8):",
+        "que ordenara a Aarón y a sus hijos: «Esta es la ley respecto al holocausto: El holocausto se dejará arder sobre el altar toda la noche hasta el amanecer y el fuego del altar se mantendrá encendido. (6:9)",
+        "El sacerdote, vestido con su túnica y su ropa interior de tela de lino, removerá las cenizas del holocausto consumido por el fuego sobre el altar y las echará a un lado del altar. (6:10)",
+        "Luego se cambiará de ropa y sacará del campamento las cenizas, llevándolas a un lugar ritualmente puro. (6:11)",
+        "Mientras tanto, el fuego se mantendrá encendido sobre el altar; no deberá apagarse. Cada mañana el sacerdote pondrá más leña sobre el altar, y encima de este colocará el holocausto para quemar en él la grasa del sacrificio de comunión. (6:12)",
+        "El fuego sobre el altar no deberá apagarse nunca; siempre deberá estar encendido. (6:13)",
+        "»Esta es la ley respecto a la ofrenda de cereal: Los hijos de Aarón la presentarán ante el Señor, delante del altar. (6:14)",
+        "El sacerdote tomará de la ofrenda un puñado de harina refinada con aceite, así como todo el incienso que está sobre la ofrenda de cereal. Todo esto lo quemará en el altar, como ofrenda memorial de aroma grato al Señor. (6:15)",
+        "Aarón y sus hijos se comerán el resto de la ofrenda, pero sin levadura y en un lugar santo, que podrá ser el atrio de la Tienda de reunión. (6:16)",
+        "No se cocerá con levadura, porque esa es la porción que les doy de mis ofrendas puestas al fuego. Es una porción sumamente sagrada, como lo son el sacrificio por el perdón y el sacrificio por la culpa. (6:17)",
+        "Todos los hijos varones de Aarón podrán comer de ella. Es un estatuto perpetuo para los descendientes de ustedes respecto a las ofrendas puestas al fuego ante el Señor. Cualquier cosa que toque los sacrificios quedará consagrada». (6:18)",
+        "The LORD speaks to Moses, saying (6:19):",
+        "«Esta es la ofrenda que Aarón y sus hijos deben presentar al Señor el día en que sean ungidos: la décima parte de un efa de harina refinada, como ofrenda regular de cereal. Una mitad de la ofrenda se presentará por la mañana, y la otra mitad por la tarde. (6:20)",
+        "Se preparará con aceite en una sartén, se llevará amasada y se presentará en porciones, como una ofrenda de cereal de aroma grato al Señor. (6:21)",
+        "La preparará el hijo de Aarón que lo suceda como sacerdote ungido. Este es un estatuto perpetuo del Señor: la ofrenda se quemará completamente. (6:22)",
+        "No se comerá ninguna de las ofrendas que presenten los sacerdotes; todas deberán quemarse por completo». (6:23)",
+        "The LORD speaks to Moses, saying (6:24):",
+        "que dijera a Aarón y a sus hijos: «Esta es la ley respecto al sacrificio para obtener el perdón de pecados: La víctima deberá ser degollada ante el Señor, en el mismo lugar donde se degüellan los animales para el holocausto. Es algo sumamente sagrado. (6:25)",
+        "El mismo sacerdote que ofrezca el sacrificio por el perdón deberá comérselo. Se lo comerá en un lugar santo, en el atrio de la Tienda de reunión. (6:26)",
+        "Cualquier cosa que toque la carne del sacrificio quedará consagrada. Si su sangre llega a salpicar algún vestido, este deberá lavarse en un lugar santo. (6:27)",
+        "Además, deberá romperse la vasija de barro en que se haya cocido el sacrificio; pero, si se cuece en una vasija de bronce, esta se restregará y se enjuagará con agua. (6:28)",
+        "Todo varón entre los sacerdotes podrá comer del sacrificio. Es algo sumamente sagrado. (6:29)",
+        "Pero no se comerá ningún sacrificio por el perdón cuya sangre haya sido llevada a la Tienda de reunión para obtener perdón de pecados en el santuario; este sacrificio se consumirá en el fuego. (6:30)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:38–46 — Holocaustos diarios en la tienda de reunión.",
+        "Números 18:8–19 — Porciones sacerdotales de las ofrendas de Israel.",
+        "Hebreos 9:22 — Sin derramamiento de sangre no hay perdón (reflexión posterior).",
+        "Salmo 51:16–17 — Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+      ],
+      "translationNotes": [
+        {
+          "term": "*pecado*",
+          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt) — Greek: ἁμαρτία (hamartia) — Aramaic: ܚܛܝܬܐ (ḥaṭita)",
+          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+        },
+        {
+          "term": "*culpa* (transgresión)",
+          "original": "Hebrew: אָשָׁם (ʾāsham) — Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma) — Aramaic: ܐܫܡܐ (ʾashma)",
+          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἱλάσκεσθαι (hilaskesthai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+        },
+        {
+          "term": "Imponer la mano",
+          "original": "Hebrew: סָמַךְ (sāmak) — Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira) — Aramaic: ܣܡܟ (samak)",
+          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+        },
+        {
+          "term": "Ofrecer en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir) — Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein) — Aramaic: ܐܩܛܪ (aqṭar)",
+          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+        },
+        {
+          "term": "Santísimo",
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim) — Greek: ἅγιον ἁγίων (hagion hagiōn) — Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
+          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+        },
+        {
+          "term": "Grasa / Sangre",
+          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām) — Greek: στέαρ (stear) / αἷμα (haima) — Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
+          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+        }
+      ],
+      "keyTakeaway": "Levítico describe cinco ofrendas: holocausto, grano, paz, pecado y culpa, detallando animales, porciones, uso de la sangre, partes sacerdotales y reglas para la expiación y la restitución."
+    },
+    {
+      "id": "leviticus-7",
+      "title": "🔥 Levítico 7",
+      "refs": [
+        "Leviticus 7:1-38"
+      ],
+      "summaryBullets": [
+        "»Esta es la ley respecto al sacrificio por la culpa, el cual es sumamente sagrado: (7:1)",
+        "La víctima deberá ser degollada en el mismo lugar donde se degüellan los animales para el holocausto, y su sangre será derramada alrededor del altar. (7:2)",
+        "All its fat shall be offered: the fat tail, the fat that covers the entrails (7:3),",
+        "los dos riñones y la grasa que los recubre, la grasa que recubre los lomos, y también el lóbulo del hígado, el cual se extraerá junto con los riñones. (7:4)",
+        "El sacerdote quemará todo esto en el altar como ofrenda puesta al fuego ante el Señor. Es un sacrificio por la culpa. (7:5)",
+        "Todo varón entre los sacerdotes podrá comer del sacrificio, pero deberá comerlo en un lugar santo. Es algo sumamente sagrado. (7:6)",
+        "»La misma ley se aplica tanto al sacrificio por el perdón como al sacrificio por la culpa: El animal pertenecerá al sacerdote que lo sacrifique para pedir perdón de pecados. (7:7)",
+        "La piel de la víctima del holocausto también será para el sacerdote que la ofrezca. (7:8)",
+        "Así mismo, toda ofrenda de cereal cocida al horno, a la olla o a la sartén, será del sacerdote que la ofrezca. (7:9)",
+        "Toda ofrenda de cereal, ya sea amasada con aceite o seca, pertenecerá a todos los hijos de Aarón por partes iguales. (7:10)",
+        "»Esta es la ley respecto al sacrificio de comunión que se ofrece al Señor: (7:11)",
+        "»Si se ofrece en acción de gracias, entonces se ofrecerán también panes sin levadura amasados con aceite, hojuelas sin levadura untadas con aceite o panes de harina refinada amasados con aceite. (7:12)",
+        "Junto con el sacrificio de comunión en acción de gracias, se deberá presentar una ofrenda de pan con levadura. (7:13)",
+        "De toda ofrenda deberá presentarse una parte como contribución al Señor y se destinará al sacerdote a quien corresponda derramar la sangre del sacrificio de comunión. (7:14)",
+        "La carne de este sacrificio deberá comerse el día en que se ofrezca, sin dejar nada para el día siguiente. (7:15)",
+        "»Si el sacrificio tiene que ver con una promesa o se trata de una ofrenda voluntaria, no solo se comerá en el día que se ofrezca el sacrificio, sino que podrá comerse el resto al día siguiente. (7:16)",
+        "Pero toda la carne que quede hasta el tercer día se quemará en el fuego. (7:17)",
+        "Si alguna carne del sacrificio de comunión llega a comerse al tercer día, tal sacrificio no será aceptado ni se tomará en cuenta, porque la carne ya está impura. El que la coma sufrirá las consecuencias de su pecado. (7:18)",
+        "Flesh that touches any unclean thing shall not be eaten; it shall be burned up with fire. All who are clean may eat flesh (7:19),",
+        "Si una persona impura come la carne ofrecida al Señor en el sacrificio de comunión, será eliminada de su pueblo. (7:20)",
+        "Si alguien toca cualquier clase de impureza humana o de animal, o de algo detestable y luego come la carne ofrecida al Señor en el sacrificio de comunión, será eliminado de su pueblo». (7:21)",
+        "The LORD speaks to Moses, saying (7:22):",
+        "que dijera a los israelitas: «Ustedes no comerán grasa de ganado vacuno, ovino o cabrío. (7:23)",
+        "La grasa de un animal muerto o despedazado podrá usarse con cualquier otro fin, menos para comerla. (7:24)",
+        "Todo el que coma grasa de animales presentados como ofrenda puesta al fuego ante el Señor será eliminado de su pueblo. (7:25)",
+        "Vivan donde vivan, ustedes no comerán grasa ni sangre alguna, sea de ave o de otro animal. (7:26)",
+        "Todo el que coma cualquier clase de sangre será eliminado de su pueblo». (7:27)",
+        "The LORD speaks to Moses, saying (7:28):",
+        "que dijera a los israelitas: «El que ofrezca al Señor un sacrificio de comunión deberá presentar al Señor parte de ese sacrificio, (7:29)",
+        "y presentarle también una ofrenda puesta al fuego. Llevará la grasa y el pecho, y mecerá ante el Señor el pecho de la víctima como ofrenda mecida. (7:30)",
+        "El sacerdote quemará la grasa en el altar, pero el pecho será para Aarón y sus hijos. (7:31)",
+        "Al sacerdote se le dará, como contribución, el muslo derecho del sacrificio de comunión. (7:32)",
+        "El muslo derecho será la porción del sacerdote a quien le toque ofrecer la sangre y la grasa del sacrificio. (7:33)",
+        "Porque de los sacrificios de comunión que ofrecen los israelitas, yo he tomado el pecho mecido y el muslo para dárselos, como contribución, al sacerdote Aarón y a sus hijos. Este será un estatuto perpetuo entre los israelitas». (7:34)",
+        "De las ofrendas puestas al fuego ante el Señor, esa es la porción consagrada para Aarón y sus hijos desde el día en que Moisés se los presentó al Señor como sacerdotes. (7:35)",
+        "El día en que fueron ungidos, el Señor ordenó a los israelitas darles esa porción. Es un estatuto perpetuo para sus descendientes. (7:36)",
+        "Esta es la ley respecto a los holocaustos, las ofrendas de cereales, los sacrificios el perdón, los sacrificios por la culpa, los sacrificios de ordenación y los sacrificios de comunión. (7:37).",
+        "El Señor se la dio a Moisés en el monte Sinaí el día en que mandó a los israelitas presentarle ofrendas en el desierto de Sinaí. (7:38)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:38–46 — Holocaustos diarios en la tienda de reunión.",
+        "Números 18:8–19 — Porciones sacerdotales de las ofrendas de Israel.",
+        "Hebreos 9:22 — Sin derramamiento de sangre no hay perdón (reflexión posterior).",
+        "Salmo 51:16–17 — Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+      ],
+      "translationNotes": [
+        {
+          "term": "*pecado*",
+          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt) — Greek: ἁμαρτία (hamartia) — Aramaic: ܚܛܝܬܐ (ḥaṭita)",
+          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+        },
+        {
+          "term": "*culpa* (transgresión)",
+          "original": "Hebrew: אָשָׁם (ʾāsham) — Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma) — Aramaic: ܐܫܡܐ (ʾashma)",
+          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἱλάσκεσθαι (hilaskesthai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+        },
+        {
+          "term": "Imponer la mano",
+          "original": "Hebrew: סָמַךְ (sāmak) — Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira) — Aramaic: ܣܡܟ (samak)",
+          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+        },
+        {
+          "term": "Ofrecer en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir) — Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein) — Aramaic: ܐܩܛܪ (aqṭar)",
+          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+        },
+        {
+          "term": "Santísimo",
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim) — Greek: ἅγιον ἁγίων (hagion hagiōn) — Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
+          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+        },
+        {
+          "term": "Grasa / Sangre",
+          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām) — Greek: στέαρ (stear) / αἷμα (haima) — Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
+          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+        }
+      ],
+      "keyTakeaway": "Levítico describe cinco ofrendas: holocausto, grano, paz, pecado y culpa, detallando animales, porciones, uso de la sangre, partes sacerdotales y reglas para la expiación y la restitución."
+    },
+    {
+      "id": "leviticus-8",
+      "title": "🩸 Levítico 8",
+      "refs": [
+        "Leviticus 8:1-36"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (8:1):",
+        "«Toma a Aarón y a sus hijos, junto con sus vestiduras, el aceite de la unción, el ternero para el sacrificio por el perdón de pecados, los dos carneros y el canastillo de los panes sin levadura. (8:2)",
+        "Congrega luego a toda la comunidad a la entrada de la Tienda de reunión». (8:3)",
+        "Moisés llevó a cabo la orden del Señor y congregó a la comunidad a la entrada de la Tienda de reunión. (8:4)",
+        "Allí Moisés dijo: «Esto es lo que el Señor ha ordenado hacer». (8:5)",
+        "Acto seguido, Moisés hizo que se acercaran Aarón y sus hijos y los lavó con agua. (8:6)",
+        "A Aarón le puso la túnica y se la ciñó con la faja, luego lo cubrió con el manto y encima le puso el efod, ciñéndoselo con la cinta del mismo. (8:7)",
+        "Enseguida le colocó el pectoral y sobre este puso el urim y el tumim. (8:8)",
+        "Por último, le colocó el turbante en la cabeza y en la parte delantera puso la placa de oro, la tiara sagrada, tal como el Señor se lo había mandado. (8:9)",
+        "Después Moisés tomó el aceite de la unción y ungió el santuario junto con todo lo que había en él para consagrarlos. (8:10)",
+        "Siete veces roció el aceite sobre el altar para ungirlo y consagrarlo junto con el recipiente de bronce, su base y todos sus utensilios. (8:11)",
+        "Luego, para consagrar a Aarón, lo ungió derramando sobre su cabeza un poco del aceite de la unción. (8:12)",
+        "Acto seguido, Moisés hizo que los hijos de Aarón se acercaran. Entonces los vistió con las túnicas, se las ciñó con la faja y les sujetó las mitras, tal como el Señor se lo había mandado. (8:13)",
+        "Luego hizo traer el novillo del sacrificio por el perdón, y Aarón y sus hijos pusieron las manos sobre la cabeza del novillo. (8:14)",
+        "Después Moisés lo degolló, tomó un poco de sangre con el dedo y la untó en los cuernos alrededor del altar para purificarlo. El resto de la sangre la derramó al pie del altar, y así lo consagró y lo purificó. (8:15)",
+        "Luego Moisés tomó toda la grasa que cubre los intestinos, el lóbulo del hígado, los dos riñones y su grasa, y los quemó sobre el altar. (8:16)",
+        "Pero el resto del novillo, es decir, la piel, la carne y el excremento, lo quemó en el fuego, fuera del campamento, tal como el Señor se lo había mandado. (8:17)",
+        "Moisés mandó traer el carnero del holocausto, para que Aarón y sus hijos pusieron las manos sobre la cabeza del carnero. (8:18)",
+        "Moisés lo sacrificó y roció la sangre alrededor del altar. (8:19)",
+        "Cortó luego el carnero en trozos y quemó la cabeza, los trozos y el sebo. (8:20)",
+        "Lavó con agua los intestinos y las patas; luego quemó todo el carnero sobre el altar. Se trataba de un holocausto, de una ofrenda puesta al fuego, de aroma grato delante del Señor, tal como el Señor se lo había mandado. (8:21)",
+        "Después Moisés mandó traer el otro carnero, el del sacrificio de ordenación, y Aarón y sus hijos pusieron las manos sobre la cabeza del carnero. (8:22)",
+        "Moisés lo degolló y, tomando un poco de la sangre, se la untó a Aarón en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho. (8:23)",
+        "Además, hizo que los hijos de Aarón se acercaran y les untó sangre en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho. Luego roció la sangre alrededor del altar. (8:24)",
+        "Tomó la grasa, la parte gorda de la cola, la grasa que recubre los intestinos, el lóbulo del hígado, los dos riñones con su grasa y el muslo derecho. (8:25)",
+        "Luego, del canastillo del pan sin levadura que estaba ante el Señor tomó un pan, una hojuela y una torta de pan hecha con aceite, lo colocó todo sobre la grasa y el muslo derecho. (8:26)",
+        "Todo esto lo meció y lo puso en las manos de Aarón y de sus hijos. Entonces Aarón lo ofreció ante el Señor como ofrenda mecida. (8:27)",
+        "Después Moisés tomó todo eso de sus manos y en presencia del Señor lo quemó en el altar, sobre el holocausto, como ofrenda de ordenación de aroma grato. Esa era una ofrenda puesta al fuego en honor del Señor. (8:28)",
+        "Luego, de la parte que le pertenecía de la ofrenda de ordenación, Moisés tomó el pecho del carnero y lo meció ante el Señor, tal como el Señor se lo había mandado. (8:29)",
+        "Moisés tomó un poco del aceite de la unción y de la sangre del altar, y roció a Aarón y a sus hijos junto con sus vestiduras. Así consagró Moisés a Aarón y a sus hijos, junto con sus vestiduras. (8:30)",
+        "Luego dijo Moisés a Aarón y a sus hijos: «Cocinen la carne a la entrada de la Tienda de reunión y cómanla allí junto con el pan del sacrificio de ordenación, tal como lo ordené cuando dije: “Aarón y sus hijos se lo comerán”. (8:31)",
+        "Quemen después en el fuego el resto de la carne y del pan. (8:32)",
+        "Quédense siete días a la entrada de la Tienda de reunión, hasta que se complete el rito de su ordenación, que dura siete días. (8:33)",
+        "El Señor mandó que se pidiera perdón por el pecado de ustedes, tal como se ha hecho hoy. (8:34)",
+        "Así que siete días con sus noches se quedarán a la entrada de la Tienda de reunión, cumpliendo con lo que el Señor ha ordenado, para que no mueran. Así me lo ha mandado el Señor». (8:35)",
+        "Y Aarón y sus hijos hicieron todo lo que el Señor había mandado por medio de Moisés. (8:36)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:1–37 — Instrucciones anteriores para la ordenación de sacerdotes.",
+        "Números 3:3–4 — Nadab y Abiú murieron ante el SEÑOR por ofrecer fuego no autorizado.",
+        "Hebreos 5:1 — Un sumo sacerdote es nombrado para actuar en nombre de los hombres en relación con Dios.",
+        "1 Samuel 2:12–17 — La profanación de las ofrendas por los sacerdotes trae juicio (ejemplo posterior)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Ungir",
+          "original": "Hebrew: מָשַׁח (māšaḥ) — Greek: χρίω (chriō) — Aramaic: ܡܫܚ (mshaḥ)",
+          "note": "Aplicar aceite para consagrar; origen del título 'ungido.'"
+        },
+        {
+          "term": "Ordenación (llenar la mano)",
+          "original": "Hebrew: מִלֻּאִים (milluʾim) — phrase: מִלֵּא יָד (milleʾ yad) — Greek: τελείωσις (teleiōsis) — Aramaic: ܡܘܠܝܐ (mulya)",
+          "note": "Rito de instalación colocando porciones sagradas en las manos del sacerdote; significa servicio autorizado."
+        },
+        {
+          "term": "Fuego no autorizado/extraño",
+          "original": "Hebrew: אֵשׁ זָרָה (ʾēš zārāh) — Greek: πῦρ ἀλλότριον (pyr allotrion) — Aramaic: נוּרָא נוּכְרָיָא (nura nukhraya)",
+          "note": "Fuego de incienso no ordenado por Dios; ofrecerlo trajo muerte inmediata por fuego divino."
+        },
+        {
+          "term": "*profano*",
+          "original": "Hebrew: חֹל (ḥol) — Greek: βέβηλος (bebēlos) — Aramaic: ܚܘܠ (ḥul)",
+          "note": "Común/ordinario (no necesariamente inmoral) en oposición a lo santo; los sacerdotes deben distinguir lo santo de lo común."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado ritual que impide el acceso a las cosas santas hasta ser purificado; los sacerdotes deben enseñar la diferencia."
+        },
+        {
+          "term": "Fuera del campamento",
+          "original": "Hebrew: מִחוּץ לַמַּחֲנֶה (miḥūts la-maḥaneh) — Greek: ἔξω τῆς παρεμβολῆς (exō tēs parembolēs) — Aramaic: לבר מן מדברא (lebar men midbara)",
+          "note": "Lugar para quemar restos sacrificiales y sacar cuerpos; simboliza la remoción de la impureza del campamento santo."
+        }
+      ],
+      "keyTakeaway": "Aarón y sus hijos son ordenados, las ofrendas son aceptadas con fuego divino, y Nadab y Abiú son muertos por fuego divino por ofrecer incienso no autorizado."
+    },
+    {
+      "id": "leviticus-9",
+      "title": "🩸 Levítico 9",
+      "refs": [
+        "Leviticus 9:1-24"
+      ],
+      "summaryBullets": [
+        "Al octavo día Moisés llamó a Aarón, a sus hijos y a los jefes de Israel. (9:1)",
+        "A Aarón le dijo: «Toma un ternero para el sacrificio de perdón de pecados y un carnero para el holocausto, ambos sin defecto, y preséntaselos al Señor. (9:2)",
+        "He says to the people of Israel, \"Take a male goat for a sin offering, and a calf and a lamb, both a year old without blemish, for a burnt offering\" (9:3),",
+        "Traigan también un toro y un carnero para ofrecérselos al Señor como sacrificio de comunión; y traigan una ofrenda de cereal amasada con aceite. El Señor se manifestará hoy ante ustedes”». (9:4)",
+        "Los israelitas llevaron hasta la Tienda de reunión lo que Moisés había mandado; y toda la comunidad se acercó y se quedó de pie ante el Señor. (9:5)",
+        "Entonces Moisés dijo: «Esto es lo que el Señor les manda hacer, para que la gloria del Señor se manifieste ante ustedes». (9:6)",
+        "Después Moisés dijo a Aarón: «Acércate al altar y ofrece tu sacrificio por el perdón y tu holocausto. Pide así perdón por ti y por el pueblo. Presenta la ofrenda por el pueblo y pide perdón por ellos, tal como el Señor lo ha mandado». (9:7)",
+        "Aarón se acercó al altar y degolló el becerro como sacrificio para el perdón por sí mismo. (9:8)",
+        "Sus hijos le llevaron la sangre, él mojó el dedo en la sangre y la untó en los cuernos del altar; luego derramó sangre al pie del altar. (9:9)",
+        "Luego quemó en el altar la grasa, los riñones y el lóbulo del hígado de la ofrenda por el pecado, tal como el Señor se lo había mandado a Moisés. (9:10)",
+        "La carne y la piel las quemó fuera del campamento. (9:11)",
+        "Después Aarón degolló la víctima del holocausto. Sus hijos le llevaron la sangre y él la derramó alrededor del altar. (9:12)",
+        "También le fueron pasando los trozos del animal y la cabeza, y él lo quemó todo en el altar. (9:13)",
+        "Lavó los intestinos y las patas, y luego quemó todo esto en el altar, junto con el holocausto. (9:14)",
+        "Entonces Aarón presentó la ofrenda del pueblo, es decir, el macho cabrío del sacrificio por el perdón. Lo tomó y lo degolló, ofreciéndolo como sacrificio para obtener el perdón, como hizo con el primero. (9:15)",
+        "Luego presentó la víctima del holocausto, la cual sacrificó tal como fue ordenado. (9:16)",
+        "También presentó la ofrenda de cereal; luego tomó un puñado y lo quemó en el altar, además del holocausto de la mañana. (9:17)",
+        "Después degolló el toro y el carnero como sacrificio de comunión por el pueblo. Sus hijos le llevaron la sangre y él la derramó alrededor del altar. (9:18)",
+        "Pero tomó la grasa del toro y del carnero —la cola, el sebo que recubre los intestinos, los riñones y el lóbulo del hígado— (9:19).",
+        "they put the fat pieces on the breasts, and he burns the fat pieces on the altar (9:20),",
+        "Aarón meció ante el Señor el pecho y el muslo derecho de las víctimas. Fue una ofrenda mecida, tal como Moisés se lo había mandado. (9:21)",
+        "Aarón levantó las manos hacia el pueblo y los bendijo. Una vez que terminó de ofrecer el sacrificio por el perdón, el holocausto y el sacrificio de comunión, se retiró del altar. (9:22)",
+        "Moisés y Aarón entraron en la Tienda de reunión. Al salir, bendijeron al pueblo y la gloria del Señor se manifestó a todo el pueblo. (9:23)",
+        "De la presencia del Señor salió un fuego que consumió el holocausto y la grasa que estaban sobre el altar. Al ver esto, todo el pueblo prorrumpió en gritos de júbilo y cayó rostro en tierra. (9:24)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:1–37 — Instrucciones anteriores para la ordenación de sacerdotes.",
+        "Números 3:3–4 — Nadab y Abiú murieron ante el SEÑOR por ofrecer fuego no autorizado.",
+        "Hebreos 5:1 — Un sumo sacerdote es nombrado para actuar en nombre de los hombres en relación con Dios.",
+        "1 Samuel 2:12–17 — La profanación de las ofrendas por los sacerdotes trae juicio (ejemplo posterior)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Ungir",
+          "original": "Hebrew: מָשַׁח (māšaḥ) — Greek: χρίω (chriō) — Aramaic: ܡܫܚ (mshaḥ)",
+          "note": "Aplicar aceite para consagrar; origen del título 'ungido.'"
+        },
+        {
+          "term": "Ordenación (llenar la mano)",
+          "original": "Hebrew: מִלֻּאִים (milluʾim) — phrase: מִלֵּא יָד (milleʾ yad) — Greek: τελείωσις (teleiōsis) — Aramaic: ܡܘܠܝܐ (mulya)",
+          "note": "Rito de instalación colocando porciones sagradas en las manos del sacerdote; significa servicio autorizado."
+        },
+        {
+          "term": "Fuego no autorizado/extraño",
+          "original": "Hebrew: אֵשׁ זָרָה (ʾēš zārāh) — Greek: πῦρ ἀλλότριον (pyr allotrion) — Aramaic: נוּרָא נוּכְרָיָא (nura nukhraya)",
+          "note": "Fuego de incienso no ordenado por Dios; ofrecerlo trajo muerte inmediata por fuego divino."
+        },
+        {
+          "term": "*profano*",
+          "original": "Hebrew: חֹל (ḥol) — Greek: βέβηλος (bebēlos) — Aramaic: ܚܘܠ (ḥul)",
+          "note": "Común/ordinario (no necesariamente inmoral) en oposición a lo santo; los sacerdotes deben distinguir lo santo de lo común."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado ritual que impide el acceso a las cosas santas hasta ser purificado; los sacerdotes deben enseñar la diferencia."
+        },
+        {
+          "term": "Fuera del campamento",
+          "original": "Hebrew: מִחוּץ לַמַּחֲנֶה (miḥūts la-maḥaneh) — Greek: ἔξω τῆς παρεμβολῆς (exō tēs parembolēs) — Aramaic: לבר מן מדברא (lebar men midbara)",
+          "note": "Lugar para quemar restos sacrificiales y sacar cuerpos; simboliza la remoción de la impureza del campamento santo."
+        }
+      ],
+      "keyTakeaway": "Aarón y sus hijos son ordenados, las ofrendas son aceptadas con fuego divino, y Nadab y Abiú son muertos por fuego divino por ofrecer incienso no autorizado."
+    },
+    {
+      "id": "leviticus-10",
+      "title": "🩸 Levítico 10",
+      "refs": [
+        "Leviticus 10:1-20"
+      ],
+      "summaryBullets": [
+        "Pero Nadab y Abiú, hijos de Aarón, tomaron cada uno su incensario, pusieron en ellos fuego e incienso y ofrecieron ante el Señor un fuego ilícito, pues él no lo había mandado. (10:1)",
+        "Entonces salió de la presencia del Señor un fuego que los consumió y murieron ante él. (10:2)",
+        "Moisés dijo a Aarón: «De esto hablaba el Señor cuando dijo: (10:3)",
+        "Moisés mandó llamar a Misael y a Elzafán, hijos de Uziel, tío de Aarón, y les dijo: «Vengan acá y retiren del santuario a sus hermanos. ¡Sáquenlos del campamento!». (10:4)",
+        "Ellos se acercaron y, tomándolos por las túnicas, se los llevaron fuera del campamento, tal como Moisés lo había ordenado. (10:5)",
+        "Luego Moisés dijo a Aarón y a sus hijos Eleazar e Itamar: «No anden ustedes con el pelo despeinado; tampoco se rasguen los vestidos. Así no morirán ustedes ni se irritará el Señor contra toda la comunidad. Sus hermanos israelitas llorarán por el incendio que produjo el Señor, (10:6)",
+        "pero ustedes no vayan a salir de la Tienda de reunión, no sea que mueran, porque el aceite de la unción del Señor está sobre ustedes». Y ellos hicieron lo que Moisés dijo. (10:7)",
+        "The LORD speaks to Aaron, saying (10:8):",
+        "«Ni tú ni tus hijos deben beber vino ni bebidas fermentadas cuando entren en la Tienda de reunión, pues de lo contrario morirán. Este es un estatuto perpetuo para tus descendientes, (10:9)",
+        "para que puedan distinguir entre lo santo y lo profano, y entre lo puro y lo impuro, (10:10).",
+        "y puedan también enseñar a los israelitas todos los estatutos que el Señor les ha dado a conocer por medio de Moisés». (10:11)",
+        "Moisés dijo a Aarón, y también a Eleazar e Itamar, los hijos que le quedaban a Aarón: «Tomen la ofrenda de cereal que ha quedado de la ofrenda puesta al fuego ante el Señor y cómanla sin levadura, junto al altar, porque es sumamente sagrada. (10:12)",
+        "Cómanla en un lugar santo, porque así se me ha mandado. Es un estatuto para ti y para tus hijos con respecto a la ofrenda puesta al fuego ante el Señor. (10:13)",
+        "»Tú y tus hijos e hijas podrán comer también, en un lugar puro, el pecho que es ofrenda mecida y el muslo dado como contribución. Ambos son parte de los sacrificios de comunión de los israelitas, y a ti y a tus hijos se les han dado como estatuto. (10:14)",
+        "Tanto el muslo como el pecho serán presentados junto con la ofrenda de la grasa puesta al fuego, para ofrecérselos al Señor como ofrenda mecida. Será un estatuto perpetuo para ti y para tus hijos, tal como lo ha mandado el Señor». (10:15)",
+        "Moses diligently inquires about the goat of the sin offering, and behold, it has been burned up, and he is angry with Eleazar and Ithamar, the surviving sons of Aaron, saying (10:16),",
+        "—¿Por qué no comieron el sacrificio por el perdón dentro del santuario? Es un sacrificio sumamente sagrado; se les dio para quitar la culpa de la comunidad y obtener el perdón de los pecados de ellos ante el Señor. (10:17)",
+        "Si no se introdujo en el Lugar Santo la sangre del macho cabrío, ustedes debieron haberse comido el animal en el área del santuario, tal como se lo mandé. (10:18)",
+        "Entonces Aarón respondió a Moisés: (10:19)",
+        "Al oír esto, Moisés quedó satisfecho con la respuesta. (10:20)"
+      ],
+      "crossRefs": [
+        "Éxodo 29:1–37 — Instrucciones anteriores para la ordenación de sacerdotes.",
+        "Números 3:3–4 — Nadab y Abiú murieron ante el SEÑOR por ofrecer fuego no autorizado.",
+        "Hebreos 5:1 — Un sumo sacerdote es nombrado para actuar en nombre de los hombres en relación con Dios.",
+        "1 Samuel 2:12–17 — La profanación de las ofrendas por los sacerdotes trae juicio (ejemplo posterior)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Ungir",
+          "original": "Hebrew: מָשַׁח (māšaḥ) — Greek: χρίω (chriō) — Aramaic: ܡܫܚ (mshaḥ)",
+          "note": "Aplicar aceite para consagrar; origen del título 'ungido.'"
+        },
+        {
+          "term": "Ordenación (llenar la mano)",
+          "original": "Hebrew: מִלֻּאִים (milluʾim) — phrase: מִלֵּא יָד (milleʾ yad) — Greek: τελείωσις (teleiōsis) — Aramaic: ܡܘܠܝܐ (mulya)",
+          "note": "Rito de instalación colocando porciones sagradas en las manos del sacerdote; significa servicio autorizado."
+        },
+        {
+          "term": "Fuego no autorizado/extraño",
+          "original": "Hebrew: אֵשׁ זָרָה (ʾēš zārāh) — Greek: πῦρ ἀλλότριον (pyr allotrion) — Aramaic: נוּרָא נוּכְרָיָא (nura nukhraya)",
+          "note": "Fuego de incienso no ordenado por Dios; ofrecerlo trajo muerte inmediata por fuego divino."
+        },
+        {
+          "term": "*profano*",
+          "original": "Hebrew: חֹל (ḥol) — Greek: βέβηλος (bebēlos) — Aramaic: ܚܘܠ (ḥul)",
+          "note": "Común/ordinario (no necesariamente inmoral) en oposición a lo santo; los sacerdotes deben distinguir lo santo de lo común."
+        },
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Estado ritual que impide el acceso a las cosas santas hasta ser purificado; los sacerdotes deben enseñar la diferencia."
+        },
+        {
+          "term": "Fuera del campamento",
+          "original": "Hebrew: מִחוּץ לַמַּחֲנֶה (miḥūts la-maḥaneh) — Greek: ἔξω τῆς παρεμβολῆς (exō tēs parembolēs) — Aramaic: לבר מן מדברא (lebar men midbara)",
+          "note": "Lugar para quemar restos sacrificiales y sacar cuerpos; simboliza la remoción de la impureza del campamento santo."
+        }
+      ],
+      "keyTakeaway": "Aarón y sus hijos son ordenados, las ofrendas son aceptadas con fuego divino, y Nadab y Abiú son muertos por fuego divino por ofrecer incienso no autorizado."
+    },
+    {
+      "id": "leviticus-11",
+      "title": "🚫 Levítico 11",
+      "refs": [
+        "Leviticus 11:1-47"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses and Aaron, saying to them (11:1):",
+        "que dijeran a los israelitas: «De todas las bestias que hay en tierra firme, estos son los animales que ustedes podrán comer: (11:2)",
+        "los rumiantes que tienen la pezuña hendida y partida en dos. (11:3)",
+        "Hay, sin embargo, rumiantes que no tienen la pezuña partida. De esos animales no podrán comer los siguientes: (11:4)",
+        "»El tejón, porque es rumiante, pero no tiene la pezuña partida; este animal será impuro para ustedes. (11:5)",
+        "»La liebre, porque es rumiante, pero no tiene la pezuña partida; este animal será impuro para ustedes. (11:6)",
+        "»El cerdo, porque tiene la pezuña partida en dos, pero no es rumiante; este animal será impuro para ustedes. (11:7)",
+        "»No comerán la carne ni tocarán el cadáver de estos animales. Ustedes los considerarán animales impuros. (11:8)",
+        "»De todos los animales que viven en el agua, es decir, en los mares y en los ríos, ustedes podrán comer los que tengan aletas y escamas. (11:9)",
+        "En cambio, considerarán inmundos a todos los animales de los mares y de los ríos que no tengan aletas ni escamas, sean reptiles u otros animales acuáticos. (11:10)",
+        "No comerán su carne y rechazarán su cadáver, porque ustedes los considerarán animales inmundos. (11:11)",
+        "Todo animal acuático que no tenga aletas ni escamas será para ustedes un animal inmundo. (11:12)",
+        "Among the birds, these you shall regard as detestable and shall not eat: the eagle, the bearded vulture, the black vulture (11:13),",
+        "the kite, the falcon of any kind (11:14),",
+        "every raven of any kind (11:15),",
+        "the ostrich, the nighthawk, the sea gull, the hawk of any kind (11:16),",
+        "the little owl, the cormorant, the short-eared owl (11:17),",
+        "the barn owl, the tawny owl, the carrion vulture (11:18),",
+        "la cigüeña, toda clase de garzas, la abubilla y el murciélago. (11:19)",
+        "»A todo insecto volador que camina en cuatro patas lo considerarán ustedes un animal inmundo. (11:20)",
+        "Hay, sin embargo, algunos insectos voladores que caminan en cuatro patas y que ustedes podrán comer: los que además de sus patas tienen zancas para saltar, (11:21)",
+        "y también toda clase de langostas, grillos y saltamontes. (11:22)",
+        "Pero a los demás insectos alados que caminan en cuatro patas ustedes los considerarán animales inmundos. (11:23)",
+        "»Ustedes quedarán impuros por lo siguiente: (11:24).",
+        "»Todo el que recoja alguno de esos cadáveres deberá lavarse la ropa, y quedará impuro hasta el anochecer. (11:25)",
+        "»Considerarán impuro a todo animal que no tenga la pezuña partida ni sea rumiante. Cualquiera que lo toque quedará impuro. (11:26)",
+        "All that walk on their paws, among the animals that go on all fours, are unclean to you; whoever touches their carcass shall be unclean until the evening (11:27),",
+        "y todo el que los recoja deberá lavarse la ropa, y quedará impuro hasta el anochecer. A estos animales ustedes los considerarán impuros. (11:28)",
+        "These are unclean to you among the swarming things that swarm on the ground: the mole rat, the mouse, the great lizard of any kind (11:29),",
+        "la lagartija, la iguana, la salamandra y el camaleón. (11:30)",
+        "Estos son los animales que ustedes considerarán impuros entre los que se arrastran. Todo el que toque el cadáver de esos animales quedará impuro hasta el anochecer. (11:31)",
+        "»Cuando el cadáver de algún animal impuro toque algún objeto de madera, ropa, piel, un saco o cualquier utensilio de uso cotidiano, tal objeto quedará impuro. Deberá lavarse con agua y quedará impuro hasta el anochecer. Entonces volverá a ser puro. (11:32)",
+        "»Si el cadáver de alguno de estos animales cae dentro de una vasija de barro, todo lo que la vasija contenga quedará impuro, y habrá que romperla. (11:33)",
+        "Todo alimento sobre el que caiga agua de dicha vasija quedará impuro; lo mismo sucederá con todo líquido que haya en esa vasija. (11:34)",
+        "Cualquier cosa sobre la que caiga parte de estos cadáveres quedará impura, y habrá que destruir los hornos y los fogones con los que haya entrado en contacto. Los cadáveres son impuros, y así deberán considerarlos. (11:35)",
+        "Solo las fuentes o las cisternas que recogen agua permanecerán puras; cualquier otra cosa que toque un cadáver quedará impura. (11:36)",
+        "If any part of their carcass falls upon any seed grain that is to be sown, it is clean (11:37),",
+        "Pero si la semilla se remoja en agua y alguno de esos cadáveres cae sobre ella, deberán considerarla impura. (11:38)",
+        "If any animal which you may eat dies, whoever touches its carcass shall be unclean until the evening (11:39),",
+        "Quien coma carne de ese cadáver se lavará la ropa y quedará impuro hasta el anochecer. Quien lo recoja se lavará la ropa y quedará impuro hasta el anochecer. (11:40)",
+        "»No comerán ustedes ninguno de los animales que se arrastran, porque son inmundos. (11:41)",
+        "No comerán ningún animal que se arrastre sobre su vientre o que se apoye sobre sus plantas o que tenga más de cuatro patas. En resumen, no comerán ustedes ningún animal que se arrastra, porque es inmundo; (11:42)",
+        "es decir, no se contaminen por causa de su inmundicia, pues son animales inmundos. (11:43)",
+        "Yo soy el Señor su Dios, así que conságrense y manténganse santos, porque yo soy santo. No se hagan impuros por causa de los animales que se arrastran. (11:44)",
+        "Yo soy el Señor, que los sacó de la tierra de Egipto para ser su Dios. Sean, pues, santos, porque yo soy santo. (11:45)",
+        "This is the law about beast and bird and every living creature that moves through the waters and every creature that swarms on the ground (11:46),",
+        "para que así puedan distinguir entre lo puro y lo impuro, entre lo que se puede comer y lo que no se debe comer». (11:47)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 14:3–21 — Leyes alimentarias paralelas de animales limpios e impuros.",
+        "Números 5:1–4 — Personas impuras enviadas fuera del campamento.",
+        "Lucas 2:22–24 — María ofrece sacrificios de purificación después del nacimiento de Jesús.",
+        "Mateo 8:2–3 — Jesús limpia a un hombre con lepra instantáneamente.",
+        "Hebreos 9:13–14 — La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+      ],
+      "translationNotes": [
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+        },
+        {
+          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
+          "original": "Hebrew: צָרַעַת (ṣāraʿat) — Greek: λέπρα (lepra) — Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
+          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+        },
+        {
+          "term": "Sin levadura vs. levadura",
+          "original": "Hebrew: מַצָּה (matzah) — Greek: ἄζυμα (azyma) — Aramaic: פטירא (petira)",
+          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+        }
+      ],
+      "keyTakeaway": "Levítico establece leyes que distinguen entre alimentos limpios e impuros, parto, enfermedades de la piel, vestiduras, casas y flujos corporales, requiriendo inspección sacerdotal y sacrificios de purificación."
+    },
+    {
+      "id": "leviticus-12",
+      "title": "🚫 Levítico 12",
+      "refs": [
+        "Leviticus 12:1-8"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (12:1):",
+        "que dijera a los israelitas: «Cuando una mujer conciba y dé a luz un niño, quedará impura durante siete días, como lo es en el tiempo de su menstruación. (12:2)",
+        "Al octavo día, el niño será circuncidado. (12:3)",
+        "La madre deberá permanecer treinta y tres días más purificándose de su flujo de sangre. No tocará ninguna cosa santa; tampoco irá al santuario hasta que termine su período de purificación. (12:4)",
+        "Si da a luz una niña, la madre quedará impura durante dos semanas, como lo es en el tiempo de su menstruación, y permanecerá sesenta y seis días más purificándose de su flujo de sangre. (12:5)",
+        "»Una vez cumplido su período de purificación, sea que haya tenido un niño o una niña, tomará un cordero de un año como holocausto, y un pichón de paloma o una tórtola como se hace en el sacrificio por el perdón de pecados, y los llevará al sacerdote, a la entrada de la Tienda de reunión, (12:6).",
+        "quien los ofrecerá ante el Señor. Así el sacerdote obtendrá el perdón de los pecados de la mujer y la purificará de su flujo de sangre. (12:7)",
+        "Pero si no le alcanza para comprar un cordero, tomará dos tórtolas o dos pichones de paloma, uno como holocausto y el otro como sacrificio por el perdón. Así el sacerdote obtendrá el perdón para la mujer y ella quedará purificada». (12:8)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 14:3–21 — Leyes alimentarias paralelas de animales limpios e impuros.",
+        "Números 5:1–4 — Personas impuras enviadas fuera del campamento.",
+        "Lucas 2:22–24 — María ofrece sacrificios de purificación después del nacimiento de Jesús.",
+        "Mateo 8:2–3 — Jesús limpia a un hombre con lepra instantáneamente.",
+        "Hebreos 9:13–14 — La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+      ],
+      "translationNotes": [
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+        },
+        {
+          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
+          "original": "Hebrew: צָרַעַת (ṣāraʿat) — Greek: λέπρα (lepra) — Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
+          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+        },
+        {
+          "term": "Sin levadura vs. levadura",
+          "original": "Hebrew: מַצָּה (matzah) — Greek: ἄζυμα (azyma) — Aramaic: פטירא (petira)",
+          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+        }
+      ],
+      "keyTakeaway": "Levítico establece leyes que distinguen entre alimentos limpios e impuros, parto, enfermedades de la piel, vestiduras, casas y flujos corporales, requiriendo inspección sacerdotal y sacrificios de purificación."
+    },
+    {
+      "id": "leviticus-13",
+      "title": "🚫 Levítico 13",
+      "refs": [
+        "Leviticus 13:1-59"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses and Aaron, saying (13:1):",
+        "«Cuando a una persona le salga en la piel alguna inflamación, erupción o mancha blancuzca que pueda convertirse en infección, se la llevará al sacerdote Aarón o a alguno de sus descendientes los sacerdotes. (13:2)",
+        "El sacerdote examinará la llaga. Si el vello en la parte afectada se ha puesto blanco y la llaga se ve más hundida que la piel, entonces se trata de una enfermedad contagiosa. Después de examinar a la persona, el sacerdote la declarará impura. (13:3)",
+        "Si la mancha blancuzca no se ve más hundida que la piel ni el vello se le ha puesto blanco, el sacerdote aislará a la persona enferma durante siete días, (13:4)",
+        "y al séptimo día la examinará de nuevo. Si juzga que la infección no ha seguido extendiéndose sobre la piel, aislará a esa persona otros siete días. (13:5)",
+        "Cumplidos los siete días, el sacerdote la examinará otra vez y, si el mal no se ha extendido sobre la piel, sino que ha disminuido, la declarará pura. No era más que una erupción, así que la persona enferma se lavará la ropa y quedará pura. (13:6)",
+        "Si la erupción se le sigue extendiendo sobre la piel luego de haberse presentado ante el sacerdote para su purificación, la persona enferma tendrá que volver a presentarse ante él. (13:7)",
+        "El sacerdote la examinará y, si la erupción se ha extendido sobre la piel, declarará impura a esa persona, pues se trata de una enfermedad contagiosa. (13:8)",
+        "»Cuando una persona tenga una infección en la piel, deberá ser llevada ante el sacerdote, (13:9).",
+        "quien la examinará. Si ocurre que la inflamación y el vello se han puesto blancos, y se ve la carne viva, (13:10).",
+        "se trata de una infección crónica. El sacerdote declarará impura a tal persona. Pero no hará falta aislarla otra vez, porque ya se sabe que es impura. (13:11)",
+        "»Si la infección se ha extendido sobre la piel de tal manera que, hasta donde el sacerdote pueda ver, cubre toda la piel de la persona enferma, (13:12).",
+        "entonces el sacerdote la examinará. Si ve que la infección le cubre todo el cuerpo, la declarará pura. Esa persona es pura porque todo el cuerpo se le ha puesto blanco. (13:13)",
+        "Pero será impura en el momento en que le aparezca la carne viva. (13:14)",
+        "Cuando el sacerdote examine la carne viva, declarará impura a esa persona. La carne viva es impura, pues se trata de una enfermedad contagiosa. (13:15)",
+        "But if the raw flesh recovers and turns white, then he shall come to the priest (13:16),",
+        "para que la examine. Si la llaga se ha puesto blanca, el sacerdote declarará pura a esa persona y en efecto lo será. (13:17)",
+        "If there is in the skin of one's body a boil and it heals (13:18),",
+        "pero en el sitio de las úlceras aparece una inflamación blancuzca o una mancha rojiza, deberá presentarse ante el sacerdote (13:19)",
+        "para que lo examine. Si la inflamación se ve más hundida que la piel y el vello se ha puesto blanco, el sacerdote lo declarará impuro. Se trata de una enfermedad contagiosa que ha brotado en el sitio donde estaban las úlceras. (13:20)",
+        "Pero si al examinar al enfermo, encuentra el sacerdote que en el sitio afectado el vello no se ha puesto blanco y que no se ve más hundido que la piel, sino que ha disminuido, entonces aislará al enfermo durante siete días. (13:21)",
+        "Si las úlceras se extienden sobre la piel, declarará impuro al enfermo, pues se trata de una enfermedad. (13:22)",
+        "Si las úlceras no se desarrollan ni la mancha blanca se extiende, sino que ha cicatrizado, declarará puro al enfermo. (13:23)",
+        "»Si alguien se quema y sobre la quemadura le aparece una mancha blancuzca o rojiza, (13:24).",
+        "el sacerdote deberá examinarla. Si el vello de la mancha se ha puesto blanco y la mancha misma se ve más hundida que la piel, se trata de una enfermedad contagiosa que brotó en el sitio de la quemadura. El sacerdote declarará impuro al enfermo, pues se trata de una enfermedad contagiosa. (13:25)",
+        "But if the priest examines it and there is no white hair in the spot and it is no deeper than the skin but has faded, the priest shall shut him up seven days (13:26),",
+        "Al séptimo día el sacerdote volverá a examinarlo y, si observa que la mancha se ha extendido sobre la piel, lo declarará impuro, pues se trata de una infección. (13:27)",
+        "En cambio, si la mancha blancuzca no ha seguido extendiéndose sobre la piel, se trata solo de la inflamación de la quemadura. Entonces el sacerdote lo declarará puro, ya que se trata solo de una quemadura cicatrizada. (13:28)",
+        "When a man or woman has a disease on the head or the beard (13:29),",
+        "el sacerdote deberá examinar la llaga. Si esta se ve más hundida que la piel y el cabello se ve amarillento y delgado, declarará impuro al enfermo. Se trata de tiña, que es una infección en la cabeza o en el mentón. (13:30)",
+        "If the priest examines the itching disease and it appears no deeper than the skin and there is no black hair in it, then the priest shall shut up the person with the itching disease for seven days (13:31),",
+        "and on the seventh day the priest shall examine the disease, and if the itch has not spread and there is in it no yellow hair and the itch appears to be no deeper than the skin (13:32),",
+        "entonces el enfermo se afeitará el pelo, pero no la parte afectada, y el sacerdote lo aislará otros siete días. (13:33)",
+        "Al séptimo día el sacerdote volverá a examinar al enfermo. Si la tiña no se ha extendido por la piel ni se ve más hundida que esta, lo declarará puro. Entonces el enfermo se lavará la ropa y quedará puro. (13:34)",
+        "But if the itch spreads in the skin after his cleansing (13:35),",
+        "el sacerdote deberá examinarlo. Si la tiña se ha extendido por toda la piel, ya no hará falta que el sacerdote busque cabello amarillento, porque el enfermo es impuro. (13:36)",
+        "En cambio, si considera que la tiña no se ha desarrollado y nota que ha crecido cabello negro, entonces el enfermo ha sanado. Es puro y así deberá declararlo el sacerdote. (13:37)",
+        "When a man or a woman has spots on the skin of the body, white spots (13:38),",
+        "el sacerdote deberá examinarlas. Si las manchas resultan ser blancuzcas y opacas, se trata solo de una erupción cutánea, de modo que la persona es pura. (13:39)",
+        "»Si a alguien se le cae el cabello de la nuca y se queda calvo, es puro. (13:40)",
+        "Si se le cae el cabello de las sienes y se queda calvo, también es puro. (13:41)",
+        "Pero si en su calvicie de la nuca o de las sienes aparece una llaga blanca rojiza, se trata de una infección que ha brotado en la parte calva. (13:42)",
+        "El sacerdote deberá examinarlo. Si la inflamación es blanca rojiza, en su calvicie o frente, parecida a las infecciones de la piel, (13:43).",
+        "se trata entonces de una persona infectada e impura. El sacerdote la declarará impura por esa llaga en la cabeza. (13:44)",
+        "»La persona que contraiga una infección usará ropas rasgadas y no se peinará; con el rostro semicubierto irá gritando: “¡Impuro! ¡Impuro!”, (13:45)",
+        "y será impuro todo el tiempo que le dure la enfermedad. Es impuro, así que deberá vivir aislado y fuera del campamento. (13:46)",
+        "When there is a case of leprous disease in a garment, whether a woolen or a linen garment (13:47),",
+        "in warp or woof of linen or wool, or in a skin or in anything made of skin (13:48),",
+        "y el área afectada tenga un color verdusco o rojizo, se trata de una infección de moho, y deberá mostrársele al sacerdote. (13:49)",
+        "Él examinará la mancha y aislará durante siete días el objeto infectado. (13:50)",
+        "Al séptimo día el sacerdote examinará la mancha. Si esta se ha extendido en la ropa, o en la urdimbre, o en la trama, o en el cuero o en cualquier artículo de piel, se trata de un moho corrosivo. Tal objeto es impuro. (13:51)",
+        "Se prenderá fuego a la ropa o a la urdimbre, trama, lana, lino o cualquier artículo de piel que haya sido infectado, porque se trata de un moho corrosivo. El objeto deberá ser quemado. (13:52)",
+        "»Si al examinar el objeto, el sacerdote observa que la mancha no se ha extendido sobre el vestido ni sobre la urdimbre, trama, lana, lino o cualquier artículo de cuero, (13:53).",
+        "entonces mandará lavar el objeto infectado y lo aislará otros siete días. (13:54)",
+        "Una vez lavado el objeto, el sacerdote procederá a examinarlo. Si observa que la mancha no ha cambiado de aspecto, dicho objeto será considerado impuro aun cuando la mancha no se haya extendido. El objeto será quemado por estar corroído, sea por dentro o por fuera. (13:55)",
+        "Si después de lavado el objeto, el sacerdote lo examina y observa que la mancha ha disminuido, deberá arrancar la parte manchada del vestido, del cuero, de la urdimbre o de la trama. (13:56)",
+        "Si la mancha reaparece en la ropa, en la urdimbre, en la trama o en cualquier artículo de piel, significa que ha vuelto a brotar. La parte infectada será quemada, (13:57)",
+        "pero toda ropa, urdimbre, trama o artículo de piel que al lavarse pierda la mancha, se volverá a lavar, y el objeto quedará puro». (13:58)",
+        "Esta es la ley respecto a la mancha de moho que infecta la ropa, la lana, el lino, la urdimbre, la trama o cualquier artículo de piel, para poder declararlos puros o impuros. (13:59)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 14:3–21 — Leyes alimentarias paralelas de animales limpios e impuros.",
+        "Números 5:1–4 — Personas impuras enviadas fuera del campamento.",
+        "Lucas 2:22–24 — María ofrece sacrificios de purificación después del nacimiento de Jesús.",
+        "Mateo 8:2–3 — Jesús limpia a un hombre con lepra instantáneamente.",
+        "Hebreos 9:13–14 — La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+      ],
+      "translationNotes": [
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+        },
+        {
+          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
+          "original": "Hebrew: צָרַעַת (ṣāraʿat) — Greek: λέπρα (lepra) — Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
+          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+        },
+        {
+          "term": "Sin levadura vs. levadura",
+          "original": "Hebrew: מַצָּה (matzah) — Greek: ἄζυμα (azyma) — Aramaic: פטירא (petira)",
+          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+        }
+      ],
+      "keyTakeaway": "Levítico establece leyes que distinguen entre alimentos limpios e impuros, parto, enfermedades de la piel, vestiduras, casas y flujos corporales, requiriendo inspección sacerdotal y sacrificios de purificación."
+    },
+    {
+      "id": "leviticus-14",
+      "title": "🚫 Levítico 14",
+      "refs": [
+        "Leviticus 14:1-57"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (14:1):",
+        "«Esta es la ley que se aplicará para declarar pura a una persona infectada. Será presentada ante el sacerdote, (14:2).",
+        "quien la examinará fuera del campamento. Si el sacerdote comprueba que la persona infectada se ha sanado de su enfermedad, (14:3).",
+        "mandará traer para la purificación de esa persona dos aves vivas y puras, un pedazo de madera de cedro, un paño escarlata y una rama de hisopo. (14:4)",
+        "Después el sacerdote mandará degollar la primera ave sobre una vasija de barro llena de agua de manantial. (14:5)",
+        "Tomará la otra ave viva, la madera de cedro, el paño escarlata y la rama de hisopo, y mojará todo esto junto con el ave viva en la sangre del ave que fue degollada sobre el agua de manantial. (14:6)",
+        "Luego rociará siete veces a quien va a ser purificado de la infección y lo declarará puro. Entonces dejará libre a campo abierto el ave viva. (14:7)",
+        "»El que se purifica deberá lavarse la ropa, afeitarse todo el cabello y bañarse. Así quedará puro. Después de esto podrá entrar en el campamento, pero se quedará fuera de su tienda de campaña durante siete días. (14:8)",
+        "Al séptimo día se rapará por completo el cabello, la barba y las cejas; se lavará la ropa y se bañará. Así quedará puro. (14:9)",
+        "»Al octavo día, el que se purifica deberá traer dos corderos sin defecto y una cordera de un año, también sin defecto; como ofrenda de cereal traerá tres décimas partes de un efa de harina refinada amasada con aceite, junto con un log de aceite. (14:10)",
+        "El sacerdote que oficia en la purificación presentará ante el Señor, a la entrada de la Tienda de reunión, al que se purifica y a sus ofrendas. (14:11)",
+        "»Después el sacerdote tomará uno de los corderos y, junto con el log de aceite, lo ofrecerá como sacrificio por la culpa. Lo mecerá ante el Señor, pues se trata de una ofrenda mecida. (14:12)",
+        "Después degollará al cordero en el lugar santo donde se degüellan las víctimas del sacrificio por el perdón de pecados y del holocausto, porque el sacrificio por la culpa, al igual que el sacrificio por el perdón, pertenecen al sacerdote. Se trata de algo sumamente sagrado. (14:13)",
+        "Luego tomará el sacerdote un poco de sangre del sacrificio por la culpa y la untará en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho del que se purifica. (14:14)",
+        "Then the priest shall take some of the log of oil and pour it into the palm of his own left hand (14:15),",
+        "Mojará el índice de la mano derecha en el aceite que tiene en la palma izquierda y rociará el aceite siete veces ante el Señor. (14:16)",
+        "Luego, del aceite que quede en la mano, el sacerdote untará un poco en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho del que se purifica, sobre la sangre del sacrificio por la culpa. (14:17)",
+        "El sacerdote derramará sobre la cabeza del que se purifica el aceite que quede en la mano. De este modo, celebrará ante el Señor el rito para pedir el perdón a favor de él. (14:18)",
+        "»A continuación, el sacerdote ofrecerá el sacrificio por el perdón, pidiendo el perdón por el que se purifica de su impureza. Hecho esto, degollará la víctima del holocausto (14:19)",
+        "y la ofrecerá en el altar junto con la ofrenda de cereal. Así obtendrá el perdón por él y lo declarará puro. (14:20)",
+        "But if he is poor and cannot afford so much, then he shall take one male lamb for a guilt offering to be waved, to make atonement for him, and a tenth of an ephah of fine flour mixed with oil for a grain offering, and a log of oil (14:21),",
+        "junto con dos tórtolas o dos pichones de paloma, según lo que pueda pagar, uno como sacrificio por el perdón y otro como holocausto. (14:22)",
+        "»Al octavo día los llevará a la entrada de la Tienda de reunión, ante el sacerdote, para su purificación en presencia del Señor. (14:23)",
+        "El sacerdote tomará el cordero del sacrificio por la culpa, junto con el aceite, y los mecerá ante el Señor, pues se trata de una ofrenda mecida. (14:24)",
+        "Después degollará al cordero del sacrificio por la culpa, tomará un poco de sangre y la untará en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho del que se purifica. (14:25)",
+        "The priest shall pour some of the oil into the palm of his own left hand (14:26),",
+        "y con el dedo índice de su mano derecha lo rociará siete veces ante el Señor. (14:27)",
+        "Luego, al que se purifica, el sacerdote le untará un poco del aceite que quede en la mano. Se lo untará en el lóbulo de la oreja derecha, en el pulgar de la mano derecha y en el dedo gordo del pie derecho, allí donde puso la sangre del sacrificio por la culpa. (14:28)",
+        "El aceite que quede en la mano lo untará en la cabeza del que se purifica, y así obtendrá el perdón de sus pecados ante el Señor. (14:29)",
+        "He shall offer one of the turtledoves or pigeons, whichever he can afford (14:30),",
+        "uno como sacrificio por el perdón y otro como holocausto, junto con la ofrenda de cereal. Así, el sacerdote obtendrá ante el Señor el perdón de pecados en favor del que se purifica». (14:31)",
+        "Esta ley se aplicará a la persona que haya contraído una infección cutánea y no tenga para pagar las ofrendas regulares de su purificación. (14:32)",
+        "The LORD speaks to Moses and Aaron, saying (14:33):",
+        "«Si al entrar ustedes en la tierra de Canaán, la cual les doy en propiedad, yo pongo moho infeccioso en alguna de sus casas, (14:34).",
+        "el dueño de la casa deberá decirle al sacerdote: “En mi casa ha aparecido una especie de moho”. (14:35)",
+        "Entonces el sacerdote, antes de entrar para examinar el moho, mandará que desocupen la casa para que no se contamine todo lo que haya en ella. Hecho esto, el sacerdote entrará a examinarla. (14:36)",
+        "Si el moho de las paredes forma cavidades verduscas o rojizas que parezcan hundirse en la pared, (14:37).",
+        "el sacerdote saldrá de la casa y la clausurará durante siete días. (14:38)",
+        "Al séptimo día regresará y la examinará. Si el moho se ha extendido por las paredes de la casa, (14:39).",
+        "mandará quitar las piedras mohosas y tirarlas fuera de la ciudad, en un lugar impuro. (14:40)",
+        "También mandará raspar todo el interior de la casa, y el material raspado lo arrojará fuera de la ciudad, en un lugar impuro. (14:41)",
+        "Después se repondrán las antiguas piedras con otras nuevas y se recubrirá la casa con estuco nuevo. (14:42)",
+        "»Si después de haber quitado las piedras infectadas y de haber raspado y recubierto la casa, vuelve a aparecer el moho y se extiende por toda ella, (14:43).",
+        "el sacerdote irá a examinarla. Si el moho se ha extendido por toda la casa, se trata de moho corrosivo. Por lo tanto, la casa es impura (14:44)",
+        "y deberán demolerla y arrojar, en un lugar impuro fuera de la ciudad, las piedras, la madera y el estuco. (14:45)",
+        "»Cualquiera que entre en la casa mientras esté clausurada quedará impuro hasta el anochecer (14:46).",
+        "y todo el que duerma o coma en dicha casa deberá lavarse la ropa. (14:47)",
+        "»Si después de haber sido recubierta la casa el sacerdote la examina y el moho no se ha extendido, la declarará pura, porque la infección ha desaparecido. (14:48)",
+        "To cleanse the house he shall take two birds, with cedarwood and scarlet yarn and hyssop (14:49),",
+        "and shall kill one of the birds in an earthenware vessel over fresh water (14:50),",
+        "tomará la madera de cedro, las ramas de hisopo, el paño escarlata y la otra ave viva, y mojará todo esto en la sangre del ave degollada y en el agua de manantial. Luego rociará la casa siete veces. (14:51)",
+        "Así la purificará con la sangre del ave, con el agua de manantial, el ave viva, la madera de cedro, las ramas de hisopo y el paño escarlata. (14:52)",
+        "Soltará entonces el ave viva a campo abierto. Así purificará la casa y esta quedará pura. (14:53)",
+        "This is the law for any case of leprous disease: for an itch (14:54),",
+        "for leprous disease in a garment or in a house (14:55),",
+        "and for a swelling or an eruption or a spot (14:56),",
+        "para así poder enseñar al pueblo cuándo algo es puro o impuro. (14:57)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 14:3–21 — Leyes alimentarias paralelas de animales limpios e impuros.",
+        "Números 5:1–4 — Personas impuras enviadas fuera del campamento.",
+        "Lucas 2:22–24 — María ofrece sacrificios de purificación después del nacimiento de Jesús.",
+        "Mateo 8:2–3 — Jesús limpia a un hombre con lepra instantáneamente.",
+        "Hebreos 9:13–14 — La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+      ],
+      "translationNotes": [
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+        },
+        {
+          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
+          "original": "Hebrew: צָרַעַת (ṣāraʿat) — Greek: λέπρα (lepra) — Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
+          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+        },
+        {
+          "term": "Sin levadura vs. levadura",
+          "original": "Hebrew: מַצָּה (matzah) — Greek: ἄζυμα (azyma) — Aramaic: פטירא (petira)",
+          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+        }
+      ],
+      "keyTakeaway": "Levítico establece leyes que distinguen entre alimentos limpios e impuros, parto, enfermedades de la piel, vestiduras, casas y flujos corporales, requiriendo inspección sacerdotal y sacrificios de purificación."
+    },
+    {
+      "id": "leviticus-15",
+      "title": "🚫 Levítico 15",
+      "refs": [
+        "Leviticus 15:1-33"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses and Aaron, saying (15:1):",
+        "que dijeran a los israelitas: «Si un hombre padece de algún flujo inusual, tal flujo es impuro, (15:2)",
+        "lo mismo que el hombre, ya sea que su órgano sexual emita ese flujo o que el flujo obstruya el órgano. (15:3)",
+        "»Será impura toda cama donde se acueste el afectado por ese flujo inusual, lo mismo que todo objeto sobre el que se siente. (15:4)",
+        "Todo el que toque la cama del afectado por el flujo deberá lavarse la ropa y bañarse, y quedará impuro hasta el anochecer. (15:5)",
+        "Todo el que se siente donde se haya sentado el afectado por el flujo deberá lavarse la ropa y bañarse, y quedará impuro hasta el anochecer. (15:6)",
+        "»Todo el que toque el cuerpo del afectado por el flujo deberá lavarse la ropa y bañarse con agua, y quedará impuro hasta el anochecer. (15:7)",
+        "»Si el afectado por el flujo escupe sobre alguien no contaminado, este deberá lavarse la ropa y bañarse, y quedará impuro hasta el anochecer. (15:8)",
+        "»Toda montura sobre la que cabalgue el afectado por el flujo quedará impura. (15:9)",
+        "Todo el que toque algún objeto que haya estado debajo del afectado por el flujo quedará impuro hasta el anochecer. El que transporte dicho objeto deberá lavarse la ropa y bañarse; quedará impuro hasta el anochecer. (15:10)",
+        "»Si el afectado por el flujo toca a alguien sin haberse lavado las manos con agua, el que fue tocado deberá lavarse la ropa y bañarse; quedará impuro hasta el anochecer. (15:11)",
+        "»Si el afectado por el flujo toca alguna vasija de barro, se romperá la vasija; si toca algún utensilio de madera, este deberá lavarse con agua. (15:12)",
+        "»Si al afectado le cesa el flujo, deberá esperar siete días para el rito de su purificación. Se lavará la ropa y se bañará con agua de manantial, y así quedará puro. (15:13)",
+        "Al octavo día tomará dos tórtolas o dos pichones de paloma y se presentará ante el Señor, a la entrada de la Tienda de reunión. Allí entregará las aves al sacerdote, (15:14)",
+        "quien ofrecerá una como sacrificio por el perdón y la otra como holocausto. Así, en presencia del Señor, el sacerdote obtendrá el perdón para el afectado a causa de su flujo. (15:15)",
+        "»Cuando un hombre tenga una eyaculación, deberá bañarse todo el cuerpo, y quedará impuro hasta el anochecer. (15:16)",
+        "Toda ropa o piel sobre la que haya caído semen deberá lavarse con agua, y quedará impura hasta el anochecer. (15:17)",
+        "»Cuando un hombre y una mujer tengan relaciones sexuales con eyaculación, ambos deberán bañarse, y quedarán impuros hasta el anochecer. (15:18)",
+        "»Cuando a una mujer le llegue su menstruación, quedará impura durante siete días. Todo el que la toque quedará impuro hasta el anochecer. (15:19)",
+        "»Todo aquello sobre lo que ella se acueste mientras dure su período menstrual quedará impuro. Todo aquello sobre lo que ella se siente durante su período menstrual quedará impuro. (15:20)",
+        "Todo el que toque la cama de esa mujer deberá lavarse la ropa y bañarse, y quedará impuro hasta el anochecer. (15:21)",
+        "Todo el que toque algún objeto donde ella se haya sentado, deberá lavarse la ropa y bañarse; además quedará impuro hasta el anochecer. (15:22)",
+        "Si alguien toca algún objeto que estuvo sobre su cama o en el lugar donde ella se sentó, quedará impuro hasta el anochecer. (15:23)",
+        "»Si un hombre tiene relaciones sexuales con esa mujer, se contaminará con su menstruación y quedará impuro durante siete días. Además, toda cama en la que él se acueste quedará también impura. (15:24)",
+        "»Cuando una mujer tenga flujo continuo de sangre fuera de su período menstrual, o cuando se le prolongue el flujo, quedará impura todo el tiempo que le dure, como durante su período. (15:25)",
+        "Toda cama en la que se acueste mientras dure su flujo quedará impura, como durante su período. Todo aquello sobre lo que se siente quedará impuro, como durante su período. (15:26)",
+        "Todo el que toque cualquiera de estos objetos quedará impuro. Deberá lavarse la ropa y bañarse, y quedará impuro hasta el anochecer. (15:27)",
+        "»Cuando ella sane de su flujo, deberá esperar siete días para el rito de su purificación. (15:28)",
+        "Al octavo día tomará dos tórtolas o dos pichones de paloma y los llevará a la entrada de la Tienda de reunión, donde se los entregará al sacerdote, (15:29)",
+        "quien ofrecerá uno como sacrificio por el perdón y el otro como holocausto. Así, en presencia del Señor, el sacerdote obtendrá el perdón para ella a causa de la impureza producida por el flujo. (15:30)",
+        "»Ustedes deben mantener apartados de la impureza a los israelitas. Así evitarán que ellos mueran por haber contaminado mi santuario, que está en medio de ellos. (15:31)",
+        "This is the law for him who has a discharge and for him who has an emission of semen, becoming unclean thereby (15:32),",
+        "a la que tenga flujo menstrual, al hombre y a la mujer que tengan un flujo inusual y a quien tenga relaciones sexuales con una mujer impura». (15:33)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 14:3–21 — Leyes alimentarias paralelas de animales limpios e impuros.",
+        "Números 5:1–4 — Personas impuras enviadas fuera del campamento.",
+        "Lucas 2:22–24 — María ofrece sacrificios de purificación después del nacimiento de Jesús.",
+        "Mateo 8:2–3 — Jesús limpia a un hombre con lepra instantáneamente.",
+        "Hebreos 9:13–14 — La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+      ],
+      "translationNotes": [
+        {
+          "term": "*impuro*",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: ἀκάθαρτος (akathartos) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+        },
+        {
+          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
+          "original": "Hebrew: צָרַעַת (ṣāraʿat) — Greek: λέπρα (lepra) — Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
+          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+        },
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+        },
+        {
+          "term": "Sin levadura vs. levadura",
+          "original": "Hebrew: מַצָּה (matzah) — Greek: ἄζυμα (azyma) — Aramaic: פטירא (petira)",
+          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+        }
+      ],
+      "keyTakeaway": "Levítico establece leyes que distinguen entre alimentos limpios e impuros, parto, enfermedades de la piel, vestiduras, casas y flujos corporales, requiriendo inspección sacerdotal y sacrificios de purificación."
+    },
+    {
+      "id": "leviticus-16",
+      "title": "🐐 Levítico 16",
+      "refs": [
+        "Leviticus 16:1-34"
+      ],
+      "summaryBullets": [
+        "El Señor habló a Moisés después de la muerte de los dos hijos de Aarón, quienes murieron al acercarse imprudentemente al Señor. (16:1)",
+        "Dijo el Señor a Moisés: «Dile a tu hermano Aarón que no entre a cualquier hora en la parte del santuario que está detrás de la cortina, es decir, delante de la tapa que está sobre el arca, no sea que muera cuando yo aparezca en la nube por encima de la tapa del arca. (16:2)",
+        "»Aarón deberá entrar en el santuario con un ternero para el sacrificio por el perdón de pecados y un carnero para el holocausto. (16:3)",
+        "Se pondrá la túnica sagrada y la ropa interior de tela de lino. Se ceñirá con la faja de lino y se pondrá el turbante de lino. Estas son las vestiduras sagradas que se pondrá después de haberse bañado con agua. (16:4)",
+        "De la comunidad de los israelitas, Aarón tomará dos machos cabríos para el sacrificio por el perdón y un carnero para el holocausto. (16:5)",
+        "»Después de que haya ofrecido el novillo del sacrificio por el perdón para que tanto él como su familia sean perdonados, (16:6)",
+        "tomará los dos machos cabríos y los presentará ante el Señor, a la entrada de la Tienda de reunión. (16:7)",
+        "Entonces Aarón echará suertes sobre los dos machos cabríos, uno para el Señor y otro para soltarlo en el desierto. (16:8)",
+        "Aaron shall present the goat on which the lot fell for the LORD and use it as a sin offering (16:9),",
+        "pero presentará vivo ante el Señor, para obtener el perdón, el macho cabrío que soltará en el desierto. (16:10)",
+        "»Aarón presentará el novillo para su propio sacrificio por el perdón de pecados, y obtendrá así el perdón por él y por su familia. Degollará el novillo para su propio sacrificio por el perdón. (16:11)",
+        "Luego tomará del altar que está ante el Señor un incensario lleno de brasas, junto con dos puñados llenos de incienso aromático en polvo, y los llevará tras la cortina. (16:12)",
+        "Entonces colocará el incienso sobre el fuego, en presencia del Señor, para que la nube de incienso cubra la tapa que está sobre el arca con las tablas del pacto. De esa manera Aarón no morirá. (16:13)",
+        "Después tomará un poco de la sangre del novillo y la rociará con su dedo al costado oriental de la tapa del arca; la rociará delante de la tapa siete veces. (16:14)",
+        "»Luego degollará el macho cabrío del sacrificio por el perdón en favor del pueblo. Llevará su sangre detrás de la cortina y hará con esa sangre lo mismo que hizo con la del novillo: la rociará sobre y delante de la tapa del arca. (16:15)",
+        "Así purificará el santuario de las impurezas y transgresiones de los israelitas, cualesquiera que hayan sido sus pecados. Hará lo mismo por la Tienda de reunión, que está entre ellos en medio de sus impurezas. (16:16)",
+        "Nadie deberá estar en la Tienda de reunión desde el momento en que Aarón entre para pedir el perdón de los pecados en el santuario hasta que salga, es decir, mientras esté haciendo el sacrificio por sí mismo, por su familia y por toda la asamblea de Israel. (16:17)",
+        "»Aarón saldrá luego para purificar el altar que está delante del Señor. Tomará sangre del novillo y del macho cabrío y la untará sobre cada uno de los cuernos del altar, (16:18)",
+        "y con el dedo rociará con sangre el altar siete veces. Así lo consagrará y lo purificará de las impurezas de los israelitas. (16:19)",
+        "»Cuando Aarón haya terminado de purificar el santuario, la Tienda de reunión y el altar, presentará el macho cabrío vivo (16:20)",
+        "y le impondrá las manos sobre la cabeza. Confesará entonces todas las iniquidades y transgresiones de los israelitas, cualesquiera que hayan sido sus pecados. Así el macho cabrío cargará con ellos, y será enviado al desierto por medio de un hombre designado para esto. (16:21)",
+        "El hombre soltará en el desierto al macho cabrío y este se llevará a tierra árida todas las iniquidades. (16:22)",
+        "»Entonces Aarón entrará en la Tienda de reunión, se quitará los vestidos de tela de lino que se puso antes de entrar en el santuario, y allí los dejará. (16:23)",
+        "Se bañará con agua en un lugar santo y se volverá a vestir. Después saldrá y ofrecerá su propio holocausto y el del pueblo. Así obtendrá el perdón de sus pecados y los del pueblo. (16:24)",
+        "Además, quemará sobre el altar la grasa del sacrificio por el perdón. (16:25)",
+        "»El encargado de soltar el macho cabrío en el desierto deberá lavarse la ropa y bañarse con agua. Solo después de hacer esto podrá volver al campamento. (16:26)",
+        "El novillo del sacrificio por el perdón y el macho cabrío del sacrificio por el perdón, cuya sangre se llevó para purificar el santuario, se sacarán del campamento, y la piel, la carne y el excremento se quemarán. (16:27)",
+        "El que les prenda fuego deberá lavarse la ropa y bañarse. Solo después de hacer esto podrá volver al campamento. (16:28)",
+        "»Este será para ustedes un estatuto perpetuo, tanto para el nativo como para el extranjero que viva entre ustedes: El día diez del mes séptimo ayunarán y se humillarán, y no realizarán ningún tipo de trabajo. (16:29)",
+        "En dicho día se pedirá el perdón de sus pecados, y delante del Señor serán purificados de todos sus pecados. (16:30)",
+        "Será para ustedes un día de completo reposo, en el cual ayunarán. Es un estatuto perpetuo. (16:31)",
+        "El sacerdote que haya sido ungido y ordenado como sucesor de su padre, realizará el sacrificio para perdón de pecados. Se pondrá las vestiduras sagradas de tela de lino (16:32)",
+        "y hará el sacrificio de purificación del Lugar Santísimo, por la Tienda de reunión y por el altar. También hará el sacrificio por el perdón de pecados a favor de los sacerdotes y de toda la comunidad allí reunida. (16:33)",
+        "»Este será un estatuto perpetuo: Una vez al año se deberá hacer el sacrificio para pedir el perdón de todos los israelitas a causa de todos sus pecados». (16:34)"
+      ],
+      "crossRefs": [
+        "Hebreos 9:7 — El sumo sacerdote entra al Lugar Santo una vez al año, no sin sangre.",
+        "Hebreos 9:12 — Cristo entró una vez para siempre con Su propia sangre, asegurando redención eterna.",
+        "Levítico 23:26–32 — Instrucciones adicionales sobre el ayuno del Día de la Expiación.",
+        "Números 29:7–11 — Detalles sacrificiales para el Día de la Expiación."
+      ],
+      "translationNotes": [
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "Cubrir o purgar; mediante la sangre, el santuario y el pueblo son ritualmente purificados."
+        },
+        {
+          "term": "Chivo expiatorio (*azazel*)",
+          "original": "Hebrew: עֲזָאזֵל (ʿazāʾzel) — Greek: ἀποπομπαῖος τράγος (apopompaíos tragos) — Aramaic: עזאזל (azazel)",
+          "note": "Macho cabrío enviado al desierto cargando los pecados de Israel; algunos interpretan el nombre como un lugar, un demonio o simplemente 'remoción completa.'"
+        },
+        {
+          "term": "Lugar Santísimo",
+          "original": "Hebrew: קֹדֶשׁ הַקֳּדָשִׁים (qōdesh haqqodāšim) — Greek: ἅγια τῶν ἁγίων (hagia tōn hagiōn) — Aramaic: קודשא דקודשיא (qudsha d-qudsha)",
+          "note": "El santuario interior donde se guardaba el arca y el propiciatorio; solo el sumo sacerdote entraba una vez al año."
+        }
+      ],
+      "keyTakeaway": "El Día de la Expiación se establece con el sumo sacerdote entrando al Lugar Santísimo una vez al año con sacrificios, ritos de purificación con sangre y el chivo expiatorio que lleva los pecados al desierto."
+    },
+    {
+      "id": "leviticus-17",
+      "title": "⚖️ Levítico 17",
+      "refs": [
+        "Leviticus 17:1-16"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (17:1):",
+        "que dijera a Aarón, a sus hijos y a todos los israelitas: «Esto es lo que ha mandado el Señor: (17:2)",
+        "»Cualquier israelita que sacrifique una res, un cordero o una cabra, en el campamento o fuera de él, (17:3).",
+        "en lugar de traerlo a la entrada de la Tienda de reunión del Señor para presentarlo como ofrenda, será considerado culpable de haber derramado sangre y será eliminado de su pueblo. (17:4)",
+        "El propósito de este mandamiento es que los israelitas lleven al Señor los sacrificios que suelen hacer en el campo. Deberán llevarlos al sacerdote, a la entrada de la Tienda de reunión, y ofrecérselos al Señor como sacrificios de comunión. (17:5)",
+        "El sacerdote derramará la sangre sobre el altar del Señor, a la entrada de la Tienda de reunión, y quemará la grasa como aroma grato al Señor. (17:6)",
+        "Y nunca más volverán a ofrecer ningún sacrificio a sus ídolos que tienen forma de machos cabríos, con los que se han prostituido. Este es un estatuto perpetuo para ellos y para sus descendientes. (17:7)",
+        "»Cuando algún israelita o extranjero que viva entre ustedes ofrezca un holocausto o sacrificio (17:8).",
+        "y no lo lleve a la entrada de la Tienda de reunión para ofrecerlo al Señor, el tal será eliminado de su pueblo. (17:9)",
+        "»Cuando algún israelita o extranjero que viva entre ustedes coma sangre de cualquier animal, yo me pondré en su contra y lo eliminaré de su pueblo. (17:10)",
+        "Porque la vida de toda criatura está en la sangre. Yo mismo se la he dado a ustedes sobre el altar, para que obtengan el perdón de sus pecados, ya que el perdón se obtiene por medio de la sangre. (17:11)",
+        "Por eso les digo: Ninguno de ustedes deberá comer sangre ni tampoco deberá comerla el extranjero que viva entre ustedes. (17:12)",
+        "»Cuando un israelita o algún extranjero que viva entre ustedes cace algún animal o ave que sea lícito comer, le extraerá la sangre y la cubrirá con tierra, (17:13)",
+        "pues la vida de toda criatura está en su sangre. Por eso les he dicho: No coman la sangre de ninguna criatura, porque la vida de toda criatura está en la sangre; cualquiera que la coma será eliminado. (17:14)",
+        "»Todo nativo o extranjero que coma la carne de un animal que las fieras hayan matado o despedazado deberá lavarse la ropa y bañarse con agua. Quedará impuro hasta el anochecer; después de eso quedará puro. (17:15)",
+        "Pero si no se lava la ropa ni se baña, sufrirá las consecuencias de su pecado». (17:16)"
+      ],
+      "crossRefs": [
+        "Génesis 9:4 — A Noé se le ordenó no comer carne con sangre.",
+        "Hechos 15:28–29 — A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
+        "Romanos 1:26–27 — Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
+        "Deuteronomio 18:9–12 — Se advierte a Israel que no imite las prácticas detestables de las naciones."
+      ],
+      "translationNotes": [
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
+        },
+        {
+          "term": "Moloc",
+          "original": "Hebrew: מֹלֶךְ (Mōlekh) — Greek: Μολόχ (Moloch) — Aramaic: מולך (Mulek)",
+          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
+        },
+        {
+          "term": "Médium / Nigromante",
+          "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni) — Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis) — Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
+          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
+        },
+        {
+          "term": "Ser cortado",
+          "original": "Hebrew: כָּרֵת (karēt) — Greek: ἐξολοθρεύω (exolothreuō) — Aramaic: כרת (karat)",
+          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+        }
+      ],
+      "keyTakeaway": "Se ordena a Israel no comer sangre, no sacrificar hijos ni consultar médiums, y no practicar relaciones sexuales prohibidas, con castigos que incluyen la muerte o ser cortado."
+    },
+    {
+      "id": "leviticus-18",
+      "title": "⚖️ Levítico 18",
+      "refs": [
+        "Leviticus 18:1-30"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (18:1):",
+        "que dijera a los israelitas: «Yo soy el Señor su Dios. (18:2)",
+        "No imitarán ustedes las costumbres de Egipto, donde antes habitaban, ni tampoco las de Canaán, adonde los llevo. No se conducirán según sus prácticas, (18:3)",
+        "sino que pondrán en práctica mis leyes y cumplirán cuidadosamente mis estatutos. Yo soy el Señor su Dios. (18:4)",
+        "Obedezcan mis estatutos y mis leyes, pues todo el que los obedezca vivirá por ellos. Yo soy el Señor. (18:5)",
+        "»Nadie se acercará a ningún pariente cercano para tener relaciones sexuales con él o con ella. Yo soy el Señor. (18:6)",
+        "»No deshonrarás a tu padre, teniendo relaciones sexuales con tu madre. No lo hagas, porque es tu madre. (18:7)",
+        "»No tendrás relaciones sexuales con la esposa de tu padre, porque sería deshonrar a tu padre. (18:8)",
+        "»No tendrás relaciones sexuales con tu hermana por parte de padre o de madre, ya sea nacida en la misma casa o en otro lugar. (18:9)",
+        "»No tendrás relaciones sexuales con la hija de tu hijo ni con la hija de tu hija, porque sería deshonrarte a ti mismo. (18:10)",
+        "»No tendrás relaciones sexuales con la hija que tu padre haya tenido con su mujer. No la deshonres, porque es tu hermana. (18:11)",
+        "»No tendrás relaciones sexuales con la hermana de tu padre, porque es pariente de tu padre. (18:12)",
+        "»No tendrás relaciones sexuales con la hermana de tu madre, porque es pariente de tu madre. (18:13)",
+        "»No deshonrarás al hermano de tu padre, teniendo relaciones sexuales con su mujer, porque es tu tía. (18:14)",
+        "»No tendrás relaciones sexuales con tu nuera. No las tendrás, porque es la esposa de tu hijo. (18:15)",
+        "»No tendrás relaciones sexuales con la mujer de tu hermano, porque deshonrarías a tu hermano. (18:16)",
+        "»No tendrás relaciones sexuales con dos mujeres que sean madre e hija, ni con las nietas de ellas, ya sea por parte de un hijo o de una hija de esas mujeres. Son parientes cercanas, de modo que eso sería una perversión. (18:17)",
+        "»No te casarás con la hermana de tu esposa, ni tendrás relaciones sexuales con ella mientras tu esposa viva, para no crear rivalidades entre ellas. (18:18)",
+        "»No tendrás relaciones sexuales con ninguna mujer durante su período de impureza menstrual. (18:19)",
+        "»No tendrás trato sexual con la mujer de tu prójimo, para que no te hagas impuro por causa de ella. (18:20)",
+        "»No profanarás el nombre de tu Dios, entregando a tus hijos para que sean quemados como sacrificio a Moloc. Yo soy el Señor. (18:21)",
+        "»No te acostarás con un hombre como quien se acuesta con una mujer. Eso es una abominación. (18:22)",
+        "»No tendrás trato sexual con ningún animal. No te hagas impuro por causa de él. Ninguna mujer tendrá trato sexual con ningún animal. Eso es una depravación. (18:23)",
+        "\"Do not make yourselves unclean by any of these things, for by all these the nations I am driving out before you have become unclean\" (18:24),",
+        "y aun la tierra misma se contaminó. Por eso la castigué por su perversidad y ella vomitó a sus habitantes. (18:25)",
+        "\"But you shall keep my statutes and my rules and do none of these abominations, either the native or the stranger who sojourns among you\" (18:26),",
+        "pues las practicaron los que vivían en esta tierra antes que ustedes, y la tierra se contaminó. (18:27).",
+        "Si ustedes contaminan la tierra, ella los vomitará como vomitó a las naciones que la habitaron antes que ustedes. (18:28)",
+        "»Cualquiera que practique alguna de estas abominaciones será eliminado de su pueblo. (18:29)",
+        "Ustedes cumplan mis órdenes y absténganse de seguir las abominables costumbres que se practicaban en la tierra antes de que ustedes llegaran. No se contaminen por causa de ellas. Yo soy el Señor su Dios». (18:30)"
+      ],
+      "crossRefs": [
+        "Génesis 9:4 — A Noé se le ordenó no comer carne con sangre.",
+        "Hechos 15:28–29 — A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
+        "Romanos 1:26–27 — Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
+        "Deuteronomio 18:9–12 — Se advierte a Israel que no imite las prácticas detestables de las naciones."
+      ],
+      "translationNotes": [
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
+        },
+        {
+          "term": "Moloc",
+          "original": "Hebrew: מֹלֶךְ (Mōlekh) — Greek: Μολόχ (Moloch) — Aramaic: מולך (Mulek)",
+          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
+        },
+        {
+          "term": "Médium / Nigromante",
+          "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni) — Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis) — Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
+          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
+        },
+        {
+          "term": "Ser cortado",
+          "original": "Hebrew: כָּרֵת (karēt) — Greek: ἐξολοθρεύω (exolothreuō) — Aramaic: כרת (karat)",
+          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+        }
+      ],
+      "keyTakeaway": "Se ordena a Israel no comer sangre, no sacrificar hijos ni consultar médiums, y no practicar relaciones sexuales prohibidas, con castigos que incluyen la muerte o ser cortado."
+    },
+    {
+      "id": "leviticus-19",
+      "title": "⚖️ Levítico 19",
+      "refs": [
+        "Leviticus 19:1-37"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (19:1):",
+        "que hablara con toda la asamblea de los israelitas y dijera: «Sean santos, porque yo, el Señor su Dios, soy santo. (19:2)",
+        "»Respeten todos ustedes a su madre y a su padre, y observen mis sábados. Yo soy el Señor su Dios. (19:3)",
+        "»No se vuelvan a los ídolos inútiles, ni se hagan dioses de metal fundido. Yo soy el Señor su Dios. (19:4)",
+        "»Cuando ofrezcan al Señor un sacrificio de comunión, háganlo de tal manera que el Señor lo acepte de buen grado. (19:5)",
+        "Cómanselo el día en que lo sacrifiquen o al día siguiente. Lo que sobre para el tercer día deberán quemarlo. (19:6)",
+        "\"If it is eaten at all on the third day, it is tainted; it will not be accepted\" (19:7),",
+        "Cualquiera que lo coma sufrirá las consecuencias de su pecado por profanar lo que ha sido consagrado al Señor. Tal persona será eliminada de su pueblo. (19:8)",
+        "»Cuando llegue el tiempo de la cosecha, no sieguen hasta el último rincón de sus campos ni recojan todas las espigas que allí queden. (19:9)",
+        "No rebusquen hasta el último racimo de sus viñas, ni recojan las uvas que se hayan caído. Déjenlas para los pobres y los extranjeros. Yo soy el Señor su Dios. (19:10)",
+        "»No roben. (19:11)",
+        "»No juren en mi nombre falsamente, ni profanen el nombre de su Dios. Yo soy el Señor. (19:12)",
+        "»No defraudes a tu prójimo ni lo despojes de nada. (19:13)",
+        "»No maldigas al sordo ni pongas tropiezos al ciego, sino teme a tu Dios. Yo soy el Señor. (19:14)",
+        "»No perviertas la justicia, ni te muestres parcial en favor del pobre o del rico, sino juzga a todos con justicia. (19:15)",
+        "»No andes difundiendo calumnias entre tu pueblo, ni expongas la vida de tu prójimo con falsos testimonios. Yo soy el Señor. (19:16)",
+        "»No alimentes en tu corazón odios contra tu hermano, sino reprende con franqueza a tu prójimo para que no sufras las consecuencias de su pecado. (19:17)",
+        "»No seas vengativo con tu prójimo ni le guardes rencor. Ama a tu prójimo como a ti mismo. Yo soy el Señor. (19:18)",
+        "»Cumplan mis estatutos: (19:19)",
+        "\"If a man lies sexually with a woman who is a slave, assigned to another man and not yet ransomed or given her freedom, a distinction shall be made. They shall not be put to death, because she was not free\" (19:20),",
+        "No obstante, el hombre deberá ofrecer al Señor un carnero como ofrenda por su culpa. Lo llevará a la entrada de la Tienda de reunión, (19:21)",
+        "y el sacerdote pedirá perdón ante el Señor por el pecado cometido. De este modo su pecado será perdonado. (19:22)",
+        "»Cuando ustedes entren en la tierra y planten cualquier clase de árboles frutales, durante tres años no comerán su fruto, sino que lo considerarán inmundo. (19:23)",
+        "En el cuarto año todo su fruto será consagrado como una ofrenda de alabanza al Señor, (19:24)",
+        "y en el quinto año ya podrán comer de su fruto. De este modo aumentarán sus cosechas. Yo soy el Señor su Dios. (19:25)",
+        "»No coman nada que tenga sangre. (19:26)",
+        "»No se corten el cabello en redondo ni se despunten la barba. (19:27)",
+        "»No se hagan heridas en el cuerpo por causa de los muertos, ni tatuajes en la piel. Yo soy el Señor. (19:28)",
+        "»No degraden a su hija haciendo de ella una prostituta, para que tampoco se prostituya la tierra ni se llene de perversidad. (19:29)",
+        "»Observen mis sábados y muestren reverencia por mi santuario. Yo soy el Señor. (19:30)",
+        "»No acudan a los médiums, ni busquen a los espiritistas, porque se harán impuros por causa de ellos. Yo soy el Señor su Dios. (19:31)",
+        "»Ponte de pie en presencia de los mayores. (19:32)",
+        "»Cuando algún extranjero se establezca en el país de ustedes, no lo traten mal. (19:33)",
+        "Al contrario, trátenlo como si fuera uno de ustedes. Ámenlo como a ustedes mismos, porque también ustedes fueron extranjeros en Egipto. Yo soy el Señor su Dios. (19:34)",
+        "»No sean deshonestos falseando las medidas de longitud, de peso y de capacidad. (19:35)",
+        "Usen balanzas, pesas y medidas justas. Un efa exacto y un hin exacto. Yo soy el Señor su Dios, que los saqué de Egipto. (19:36)",
+        "»Cumplan todos mis estatutos y obedezcan todas mis leyes. Yo soy el Señor». (19:37)"
+      ],
+      "crossRefs": [
+        "Génesis 9:4 — A Noé se le ordenó no comer carne con sangre.",
+        "Hechos 15:28–29 — A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
+        "Romanos 1:26–27 — Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
+        "Deuteronomio 18:9–12 — Se advierte a Israel que no imite las prácticas detestables de las naciones."
+      ],
+      "translationNotes": [
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
+        },
+        {
+          "term": "Moloc",
+          "original": "Hebrew: מֹלֶךְ (Mōlekh) — Greek: Μολόχ (Moloch) — Aramaic: מולך (Mulek)",
+          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
+        },
+        {
+          "term": "Médium / Nigromante",
+          "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni) — Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis) — Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
+          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
+        },
+        {
+          "term": "Ser cortado",
+          "original": "Hebrew: כָּרֵת (karēt) — Greek: ἐξολοθρεύω (exolothreuō) — Aramaic: כרת (karat)",
+          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+        }
+      ],
+      "keyTakeaway": "Se ordena a Israel no comer sangre, no sacrificar hijos ni consultar médiums, y no practicar relaciones sexuales prohibidas, con castigos que incluyen la muerte o ser cortado."
+    },
+    {
+      "id": "leviticus-20",
+      "title": "⚖️ Levítico 20",
+      "refs": [
+        "Leviticus 20:1-27"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (20:1):",
+        "que dijera a los israelitas: «Todo israelita o extranjero residente en Israel que entregue a uno de sus hijos para quemarlo como sacrificio a Moloc será condenado a muerte. El pueblo entero lo matará a pedradas. (20:2)",
+        "Yo mismo me pondré en contra de ese hombre y lo eliminaré de su pueblo porque, al entregar a uno de sus hijos para quemarlo como sacrificio a Moloc, profana mi santuario y mi santo nombre. (20:3)",
+        "Si el pueblo entero hace caso omiso del hombre que haya entregado alguno de sus hijos a Moloc y no lo condena a muerte, (20:4).",
+        "yo mismo me pondré en contra de él y de su familia; eliminaré del pueblo a ese hombre y a todos los que se hayan prostituido con él, siguiendo a Moloc. (20:5)",
+        "»También me pondré en contra de quien acuda a un médium o a los espiritistas y por seguirlos se prostituya. Lo eliminaré de su pueblo. (20:6)",
+        "»Conságrense a mí y sean santos, porque yo soy el Señor su Dios. (20:7)",
+        "Obedezcan mis estatutos y pónganlos por obra. Yo soy el Señor, el que los consagra. (20:8)",
+        "»Si alguien maldice a su padre o a su madre, será condenado a muerte: ha maldecido a su padre o a su madre, y será responsable de su propia muerte. (20:9)",
+        "»Si alguien comete adulterio con la mujer de su prójimo, tanto el adúltero como la adúltera serán condenados a muerte. (20:10)",
+        "»Si alguien se acuesta con la mujer de su padre, deshonra a su padre. Tanto el hombre como la mujer serán condenados a muerte, de la cual ellos mismos serán responsables. (20:11)",
+        "»Si alguien se acuesta con su nuera, hombre y mujer serán condenados a muerte. Han cometido un acto depravado, y ellos mismos serán responsables de su propia muerte. (20:12)",
+        "»Si alguien se acuesta con otro hombre como quien se acuesta con una mujer, comete un acto abominable y los dos serán condenados a muerte, de la cual ellos mismos serán responsables. (20:13)",
+        "»Si alguien tiene relaciones sexuales con hija y madre, comete un acto depravado. Tanto él como ellas morirán quemados, para que no haya tal depravación entre ustedes. (20:14)",
+        "»Si alguien tiene trato sexual con un animal, será condenado a muerte, y se matará también al animal. (20:15)",
+        "»Si una mujer tiene trato sexual con un animal, se dará muerte a ambos, y ellos serán responsables de su muerte. (20:16)",
+        "»Si alguien tiene relaciones sexuales con una hermana suya, comete un acto vergonzoso y los dos serán ejecutados en público. Ha deshonrado a su hermana, y sufrirá las consecuencias de su pecado. (20:17)",
+        "»Si alguien se acuesta con una mujer y tiene relaciones sexuales con ella durante su período menstrual, pone al descubierto su flujo, y también ella expone el flujo de su sangre. Los dos serán eliminados de su pueblo. (20:18)",
+        "»No tendrás relaciones sexuales ni con tu tía materna ni con tu tía paterna, pues eso significaría la deshonra de un pariente cercano y los dos sufrirían las consecuencias de su pecado. (20:19)",
+        "»Si alguien se acuesta con su tía, deshonra a su tío, y los dos sufrirán las consecuencias de su pecado: morirán sin tener descendencia. (20:20)",
+        "»Si alguien tiene relaciones sexuales con la esposa de su hermano, comete un acto de impureza: ha deshonrado a su hermano, y los dos se quedarán sin descendencia. (20:21)",
+        "»Cumplan todos mis estatutos y leyes; obedézcanlas, para que no los vomite la tierra adonde los llevo a vivir. (20:22)",
+        "No vivan según las costumbres de las naciones que por amor a ustedes voy a expulsar. Porque ellas hicieron todas estas cosas, y yo las aborrecí. (20:23)",
+        "Pero a ustedes les digo: “Poseerán la tierra que perteneció a esas naciones, tierra donde abundan la leche y la miel. Yo mismo la daré a ustedes como herencia”. Yo soy el Señor su Dios que los he distinguido entre las demás naciones. (20:24)",
+        "»Por consiguiente, también ustedes deben distinguir entre los animales puros y los impuros, y entre las aves puras y las impuras. No se hagan detestables ustedes mismos por causa de animales, de aves o de cualquier alimaña que se arrastra por el suelo, pues yo se los he señalado como impuros. (20:25)",
+        "Sean ustedes santos porque yo, el Señor, soy santo y los he distinguido entre las demás naciones, para que sean míos. (20:26)",
+        "»Cualquiera de ustedes, hombre o mujer, que sea médium o espiritista será condenado a muerte. Morirá apedreado y será responsable de su propia muerte». (20:27)"
+      ],
+      "crossRefs": [
+        "Génesis 9:4 — A Noé se le ordenó no comer carne con sangre.",
+        "Hechos 15:28–29 — A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
+        "Romanos 1:26–27 — Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
+        "Deuteronomio 18:9–12 — Se advierte a Israel que no imite las prácticas detestables de las naciones."
+      ],
+      "translationNotes": [
+        {
+          "term": "*expiación*",
+          "original": "Hebrew: כִּפֶּר (kipper) — Greek: ἐξιλάσκομαι (exilaskomai) — Aramaic: ܟܦܪ (kpr)",
+          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
+        },
+        {
+          "term": "Moloc",
+          "original": "Hebrew: מֹלֶךְ (Mōlekh) — Greek: Μολόχ (Moloch) — Aramaic: מולך (Mulek)",
+          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
+        },
+        {
+          "term": "Médium / Nigromante",
+          "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni) — Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis) — Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
+          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
+        },
+        {
+          "term": "Contaminar",
+          "original": "Hebrew: טָמֵא (ṭāmēʾ) — Greek: μιαίνω (miainō) — Aramaic: ܛܢܦ (ṭanap)",
+          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
+        },
+        {
+          "term": "Ser cortado",
+          "original": "Hebrew: כָּרֵת (karēt) — Greek: ἐξολοθρεύω (exolothreuō) — Aramaic: כרת (karat)",
+          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+        }
+      ],
+      "keyTakeaway": "Se ordena a Israel no comer sangre, no sacrificar hijos ni consultar médiums, y no practicar relaciones sexuales prohibidas, con castigos que incluyen la muerte o ser cortado."
+    },
+    {
+      "id": "leviticus-21",
+      "title": "👨‍⚖️ Levítico 21",
+      "refs": [
+        "Leviticus 21:1-24"
+      ],
+      "summaryBullets": [
+        "El Señor ordenó a Moisés que dijera a los sacerdotes, hijos de Aarón: «No se contaminen tocando el cadáver de alguien de su pueblo, (21:1).",
+        "\"except for his closest relatives: his mother, his father, his son, his daughter, his brother\" (21:2),",
+        "o una hermana soltera que, por no tener marido, dependa de él, y en cuyo caso él quede impuro. (21:3)",
+        "Como jefes de su pueblo, no deben hacerse impuros ni contaminarse. (21:4)",
+        "»Los sacerdotes no se raparán la cabeza, ni se despuntarán la barba ni se harán heridas en el cuerpo. (21:5)",
+        "Deben ser santos para su Dios y no profanar su nombre. Son ellos los que presentan al Señor las ofrendas puestas al fuego, que son como el pan de su Dios. Por eso deben ser santos. (21:6)",
+        "»Ningún sacerdote se casará con una prostituta, ni con una mujer que no sea virgen, ni con una divorciada, porque está consagrado a su Dios. (21:7)",
+        "Considéralo santo, porque él ofrece el pan de tu Dios. Santo será para ti, porque santo soy yo, el Señor, que los consagro a ustedes. (21:8)",
+        "»La hija de un sacerdote que se hace prostituta se profana a sí misma y profana a su padre. Deberá ser quemada. (21:9)",
+        "»Aquel que sea sumo sacerdote entre sus hermanos, sobre cuya cabeza se haya derramado el aceite de la unción y a quien se le haya conferido autoridad para llevar las vestiduras sacerdotales, no deberá andar despeinado ni rasgarse las vestiduras. (21:10)",
+        "»No entrará en ningún lugar donde haya un cadáver. (21:11)",
+        "»No saldrá del santuario, para no profanar el santuario de su Dios, porque ha sido consagrado mediante el aceite de la unción divina. Yo soy el Señor. (21:12)",
+        "»La mujer que tome por esposa debe ser virgen. (21:13)",
+        "\"A widow, or a divorced woman, or a woman who has been defiled, or a prostitute, these he shall not marry. But he shall take as his wife a virgin of his own people\" (21:14),",
+        "para que no profane su descendencia entre su pueblo. Yo soy el Señor, que lo consagra». (21:15)",
+        "The LORD speaks to Moses, saying (21:16):",
+        "que dijera a Aarón: «Ninguno de tus descendientes que tenga defecto físico deberá acercarse jamás a su Dios para presentarle la ofrenda de pan. (21:17)",
+        "\"For no one who has a blemish shall draw near, a man blind or lame, or one who has a mutilated face or a limb too long\" (21:18),",
+        "\"or a man who has an injured foot or an injured hand\" (21:19),",
+        "jorobado o enano; o con cataratas en los ojos, o que tenga sarna o llaga supurante, o que tenga algún testículo dañado. (21:20)",
+        "Ningún descendiente del sacerdote Aarón que tenga algún defecto podrá acercarse a presentar al Señor las ofrendas puestas al fuego. No podrá acercarse para presentarle a su Dios la ofrenda de pan por tener un defecto. (21:21)",
+        "Podrá comer de la ofrenda de pan, tanto del alimento santo como del santísimo, (21:22).",
+        "pero por causa de su defecto no pasará más allá de la cortina ni se acercará al altar, para no profanar mi santuario. Yo soy el Señor, que consagro para mí a los sacerdotes». (21:23)",
+        "Y Moisés comunicó todo esto a Aarón, a sus hijos y a todos los israelitas. (21:24)"
+      ],
+      "crossRefs": [
+        "Ezequiel 44:20–22 — Regulaciones sacerdotales posteriores sobre el cabello, el matrimonio y la santidad.",
+        "Malaquías 1:7–8 — Los sacerdotes reprendidos por ofrecer sacrificios con defecto.",
+        "Hebreos 7:26–27 — Cristo como sumo sacerdote es santo, sin mancha, separado de los pecadores."
+      ],
+      "translationNotes": [
+        {
+          "term": "Profanar",
+          "original": "Hebrew: חָלַל (ḥālal) — Greek: βεβηλόω (bebēloō) — Aramaic: חלל (ḥll)",
+          "note": "Tratar algo santo como común u ordinario."
+        },
+        {
+          "term": "Defecto",
+          "original": "Hebrew: מוּם (mum) — Greek: μῶμος (mōmos) — Aramaic: מומא (muma)",
+          "note": "Defecto físico que descalifica a sacerdotes o animales para uso sacrificial."
+        },
+        {
+          "term": "Santificar",
+          "original": "Hebrew: קָדַשׁ (qadash) — Greek: ἁγιάζω (hagiazō) — Aramaic: קדש (qdsh)",
+          "note": "Apartar como santo; Dios santifica a los sacerdotes y las ofrendas."
+        }
+      ],
+      "keyTakeaway": "Los sacerdotes deben seguir reglas sobre el duelo, el matrimonio, los defectos, la comida y los sacrificios, con regulaciones más estrictas para el sumo sacerdote y el requisito de que las ofrendas sean sin defecto."
+    },
+    {
+      "id": "leviticus-22",
+      "title": "👨‍⚖️ Levítico 22",
+      "refs": [
+        "Leviticus 22:1-33"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (22:1):",
+        "que dijera a Aarón y a sus hijos: «Traten con mucho respeto las ofrendas sagradas que me consagran los israelitas, para no profanar mi santo nombre. Yo soy el Señor». (22:2)",
+        "También ordenó decirles: «Si alguno de los descendientes de Aarón está ritualmente impuro y se acerca a las ofrendas que los israelitas consagran al Señor, será eliminado de mi presencia. Yo soy el Señor. (22:3)",
+        "»Si un descendiente de Aarón padece de alguna enfermedad infecciosa en la piel o de algún flujo inusual en el cuerpo, deberá abstenerse de comer de las ofrendas sagradas hasta que se purifique. Cualquiera que toque un objeto contaminado por el contacto con un cadáver, o que tenga derrame de semen, (22:4).",
+        "\"and whoever touches a swarming thing by which he may be made unclean or a person from whom he may take uncleanness, whatever his uncleanness may be\" (22:5)—",
+        "quedará impuro hasta el anochecer. Por tanto, se abstendrá de comer de las ofrendas sagradas. Lavará su cuerpo con agua (22:6)",
+        "y al ponerse el sol quedará puro. Después de esto podrá comer de las ofrendas sagradas, porque son su alimento. (22:7)",
+        "No deberá comer nada que sea hallado muerto o despedazado por las fieras, pues de lo contrario quedará impuro. Yo soy el Señor. (22:8)",
+        "»Los sacerdotes obedecerán lo que he ordenado, y así no pecarán ni sufrirán la muerte por haber profanado las ofrendas. Yo soy el Señor, que consagro para mí a los sacerdotes. (22:9)",
+        "\"A lay person shall not eat of a holy thing; no foreign guest of the priest or hired worker shall eat of a holy thing\" (22:10),",
+        "Pero sí podrá comer de ellas el esclavo comprado por un sacerdote, y el esclavo nacido en su casa. (22:11)",
+        "Si la hija de un sacerdote se casa con alguien que no sea sacerdote, no podrá comer de las contribuciones sagradas. (22:12)",
+        "Pero si queda viuda o divorciada y sin haber tenido hijos regresa a la casa de su padre como cuando era soltera, entonces sí podrá comer del alimento de su padre. Pero nadie ajeno a la familia sacerdotal está autorizado para comerlo. (22:13)",
+        "»Si involuntariamente alguien come de una ofrenda sagrada, deberá restituir la ofrenda al sacerdote y añadirle una quinta parte de su valor. (22:14)",
+        "»No deberán los sacerdotes profanar las ofrendas sagradas que los israelitas presentan al Señor, (22:15).",
+        "porque al permitir que las coman harán recaer sobre sí mismos un pecado que requiere un sacrificio por la culpa. Yo soy el Señor, que los consagro para mí». (22:16)",
+        "The LORD speaks to Moses, saying (22:17):",
+        "que dijera a Aarón, a sus hijos y a todos los israelitas: «Si alguno de ustedes, sea israelita o extranjero residente en Israel, presenta un holocausto al Señor para cumplir una promesa, o como ofrenda voluntaria, (22:18).",
+        "para que sea aceptado deberá presentar un macho sin defecto de entre el ganado vacuno, ovino o cabrío. (22:19)",
+        "No presenten ningún animal que tenga algún defecto, porque no se les aceptará. (22:20)",
+        "Si alguien, para cumplir una promesa especial o como ofrenda voluntaria, presenta al Señor ganado vacuno u ovino como sacrificio de comunión, para que el animal sea aceptado no deberá tener ningún defecto. (22:21)",
+        "No deberán presentarle al Señor, como ofrenda puesta al fuego, animales ciegos, cojos, mutilados, llagados, sarnosos ni con llagas supurantes. No ofrecerán en el altar ningún animal así. (22:22)",
+        "Podrán presentar como ofrenda voluntaria una res o una oveja deforme o enana, pero tal ofrenda no será aceptada en cumplimiento de una promesa. (22:23)",
+        "No ofrecerán al Señor ningún animal con los testículos lastimados, magullados, cortados o arrancados. No harán esto en su tierra. (22:24).",
+        "No recibirán de manos de un extranjero animales así, para ofrecerlos como alimento del Dios de ustedes. No se les aceptarán porque son deformes y tienen defectos». (22:25)",
+        "The LORD speaks to Moses, saying (22:26):",
+        "«Cuando nazca un ternero, un cordero o un cabrito, se quedará con su madre durante siete días. Del octavo día en adelante será aceptable al Señor como ofrenda puesta al fuego. (22:27)",
+        "No degollarán el mismo día una vaca o una oveja con su cría. (22:28)",
+        "»Cuando sacrifiquen una ofrenda de acción de gracias al Señor, háganlo de tal modo que les sea aceptada. (22:29)",
+        "Deberá comerse ese mismo día, sin dejar nada para el siguiente. Yo soy el Señor. (22:30)",
+        "»Obedezcan mis mandamientos y pónganlos por obra. Yo soy el Señor. (22:31)",
+        "No profanen mi santo nombre, sino reconózcanme como santo en medio de los israelitas. Yo soy el Señor, que los consagra para mí. (22:32).",
+        "Yo los saqué de Egipto para ser su Dios. Yo soy el Señor». (22:33)"
+      ],
+      "crossRefs": [
+        "Ezequiel 44:20–22 — Regulaciones sacerdotales posteriores sobre el cabello, el matrimonio y la santidad.",
+        "Malaquías 1:7–8 — Los sacerdotes reprendidos por ofrecer sacrificios con defecto.",
+        "Hebreos 7:26–27 — Cristo como sumo sacerdote es santo, sin mancha, separado de los pecadores."
+      ],
+      "translationNotes": [
+        {
+          "term": "Profanar",
+          "original": "Hebrew: חָלַל (ḥālal) — Greek: βεβηλόω (bebēloō) — Aramaic: חלל (ḥll)",
+          "note": "Tratar algo santo como común u ordinario."
+        },
+        {
+          "term": "Defecto",
+          "original": "Hebrew: מוּם (mum) — Greek: μῶμος (mōmos) — Aramaic: מומא (muma)",
+          "note": "Defecto físico que descalifica a sacerdotes o animales para uso sacrificial."
+        },
+        {
+          "term": "Santificar",
+          "original": "Hebrew: קָדַשׁ (qadash) — Greek: ἁγιάζω (hagiazō) — Aramaic: קדש (qdsh)",
+          "note": "Apartar como santo; Dios santifica a los sacerdotes y las ofrendas."
+        }
+      ],
+      "keyTakeaway": "Los sacerdotes deben seguir reglas sobre el duelo, el matrimonio, los defectos, la comida y los sacrificios, con regulaciones más estrictas para el sumo sacerdote y el requisito de que las ofrendas sean sin defecto."
+    },
+    {
+      "id": "leviticus-23",
+      "title": "📅 Levítico 23",
+      "refs": [
+        "Leviticus 23:1-44"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (23:1):",
+        "que dijera a los israelitas: «Estas son las fiestas que yo he establecido y a las que ustedes han de convocar como fiestas solemnes en mi honor. Yo, el Señor, las establecí. (23:2)",
+        "»Trabajarán ustedes durante seis días, pero el séptimo día es de completo reposo; es un día de asamblea sagrada en mi honor, en el que no harán ningún trabajo. Dondequiera que ustedes vivan, será sábado consagrado al Señor. (23:3)",
+        "»Estas son las fiestas que el Señor ha establecido, las fiestas solemnes en su honor que ustedes deberán convocar en las fechas señaladas para ellas: (23:4)",
+        "La Pascua del Señor comienza el día catorce del mes primero, al comenzar la noche. (23:5)",
+        "El día quince del mismo mes comienza la fiesta de los Panes sin levadura en honor al Señor. Durante siete días comerán pan sin levadura. (23:6)",
+        "El primer día celebrarán una asamblea sagrada en su honor; ese día no harán ningún trabajo. (23:7)",
+        "Durante siete días presentarán al Señor ofrendas puestas al fuego y el séptimo día celebrarán una asamblea sagrada en su honor; ese día no harán ningún trabajo». (23:8)",
+        "The LORD speaks to Moses, saying (23:9):",
+        "que dijera a los israelitas: «Cuando ustedes hayan entrado en la tierra que les voy a dar y sieguen la mies, deberán llevar al sacerdote una gavilla de las primeras espigas que cosechen. (23:10).",
+        "El sacerdote mecerá la gavilla ante el Señor para que sea aceptada. La mecerá a la mañana siguiente del sábado. (23:11)",
+        "Ese mismo día sacrificarán ustedes un cordero de un año, sin defecto, como holocausto al Señor. (23:12)",
+        "También presentarán dos décimas partes de un efa de harina refinada mezclada con aceite, como ofrenda de cereal puesta al fuego, de aroma grato al Señor y un cuarto de hin de vino como ofrenda líquida. (23:13)",
+        "No comerán pan ni grano tostado o nuevo, hasta el mismo día en que traigan esta ofrenda a su Dios. Este será un estatuto perpetuo para todos tus descendientes dondequiera que habiten. (23:14)",
+        "»A partir del día siguiente al sábado, es decir, a partir del día en que traigan la gavilla de la ofrenda mecida, contarán siete semanas completas. (23:15)",
+        "En otras palabras, contarán cincuenta días incluyendo la mañana siguiente al séptimo sábado; entonces presentarán al Señor una ofrenda de grano nuevo. (23:16)",
+        "Desde su lugar de residencia llevarán al Señor, como ofrenda mecida de las primicias, dos panes hechos con dos décimas partes de un efa de harina refinada, cocidos con levadura. (23:17)",
+        "Junto con el pan deberán presentar siete corderos de un año, sin defecto, un ternero y dos carneros. Serán, junto con sus ofrendas de cereal y sus ofrendas líquidas, un holocausto al Señor, una ofrenda puesta al fuego cuyo aroma es grato al Señor. (23:18)",
+        "Luego sacrificarán un macho cabrío como ofrenda por el pecado y dos corderos de un año como sacrificio de comunión. (23:19)",
+        "El sacerdote mecerá los dos corderos, junto con el pan de las primicias. Son una ofrenda mecida ante el Señor, una ofrenda consagrada al Señor y reservada para el sacerdote. (23:20)",
+        "Ese mismo día convocarán ustedes a una asamblea sagrada, y en ese día no harán ningún trabajo. Este será un estatuto perpetuo para todos tus descendientes, dondequiera que habiten. (23:21)",
+        "»Cuando llegue el tiempo de la cosecha, no sieguen hasta el último rincón del campo ni recojan todas las espigas que queden de la mies. Déjenlas para los pobres y los extranjeros. Yo soy el Señor su Dios». (23:22)",
+        "The LORD speaks to Moses, saying (23:23):",
+        "que dijera a los israelitas: «El primer día del mes séptimo será para ustedes un día de reposo, una conmemoración con toques de trompeta, una asamblea sagrada. (23:24)",
+        "Ese día no harán ningún trabajo, sino que presentarán al Señor ofrendas puestas al fuego». (23:25)",
+        "The LORD speaks to Moses, saying (23:26):",
+        "«El día diez del mes séptimo es el día del Perdón. Celebrarán una asamblea sagrada en honor al Señor, y ayunarán y le presentarán ofrendas puestas al fuego. (23:27)",
+        "En ese día no harán ningún tipo de trabajo, porque es el día del Perdón, cuando se pide perdón por el pecado de ustedes ante el Señor su Dios. (23:28)",
+        "Cualquiera que no ayune ese día será eliminado de su pueblo. (23:29)",
+        "Si alguien hace algún trabajo en ese día, yo mismo lo eliminaré de su pueblo. (23:30)",
+        "Por tanto, no harán ustedes ningún trabajo. Este será un estatuto perpetuo para todos sus descendientes, dondequiera que habiten. (23:31)",
+        "Será para ustedes un sábado de completo reposo, y deberán observar el ayuno. Este sábado lo observarán desde la tarde del día nueve del mes hasta la tarde siguiente». (23:32)",
+        "The LORD speaks to Moses, saying (23:33):",
+        "que dijera a los israelitas: «El día quince del mes séptimo comienza la fiesta de las Enramadas en honor al Señor, la cual durará siete días. (23:34)",
+        "El primer día se celebrará una asamblea sagrada. Ese día no harán ningún trabajo. (23:35)",
+        "Durante siete días presentarán al Señor ofrendas puestas al fuego. Al octavo día celebrarán una asamblea sagrada en honor al Señor y volverán a presentarle ofrendas puestas al fuego. Es una asamblea sagrada; ese día no harán ningún trabajo. (23:36)",
+        "»Estas son las fiestas que el Señor ha establecido, y a las que ustedes habrán de convocar como fiestas solemnes en su honor, para presentarle ofrendas puestas al fuego, holocaustos, ofrendas de cereal, sacrificios y ofrendas líquidas, tal como está ordenado para cada día. (23:37).",
+        "Todas estas fiestas son adicionales a los sábados del Señor y a los tributos y ofrendas votivas o voluntarias que ustedes le presenten. (23:38)",
+        "»A partir del día quince del mes séptimo, luego de que hayan recogido los frutos de la tierra, celebrarán durante siete días la fiesta del Señor. El primer día y el octavo serán de descanso especial. (23:39)",
+        "El primer día tomarán frutos de los mejores árboles, ramas de palmera, de árboles frondosos y de sauces de los arroyos, y durante siete días se regocijarán en presencia del Señor su Dios. (23:40)",
+        "Cada año, durante siete días, celebrarán esta fiesta en honor al Señor. La celebrarán en el mes séptimo. Este será un estatuto perpetuo para las generaciones venideras. (23:41)",
+        "\"You shall dwell in booths for seven days. All native Israelites shall dwell in booths\" (23:42),",
+        "para que sus descendientes sepan que yo hice vivir así a los israelitas cuando los saqué de Egipto. Yo soy el Señor su Dios». (23:43)",
+        "Así anunció Moisés a los israelitas las fiestas establecidas por el Señor. (23:44)"
+      ],
+      "crossRefs": [
+        "Éxodo 23:10–11 — La ley del año sabático introducida por primera vez.",
+        "Deuteronomio 16:1–17 — Repetición de las tres fiestas de peregrinación.",
+        "Isaías 61:1–2 — El año del favor del SEÑOR (imaginería del Jubileo).",
+        "Lucas 4:18–19 — Jesús proclama el año del favor del SEÑOR."
+      ],
+      "translationNotes": [
+        {
+          "term": "Moedim (tiempos señalados)",
+          "original": "Hebrew: מוֹעֵד (moʿed) — Greek: καιρός (kairos) — Aramaic: מועדא (moʿeda)",
+          "note": "Tiempos fijos o estaciones establecidos por Dios para asambleas sagradas."
+        },
+        {
+          "term": "Cabañas",
+          "original": "Hebrew: סֻכּוֹת (sukkot) — Greek: σκηναί (skēnai) — Aramaic: סכתא (sukkta)",
+          "note": "Refugios temporales hechos con ramas para recordar la habitación de Israel en el desierto."
+        },
+        {
+          "term": "Jubileo",
+          "original": "Hebrew: יֹבֵל (yōvel) — Greek: ἄφεσις (aphesis, 'release') — Aramaic: יובלא (yovla)",
+          "note": "El quincuagésimo año cuando la tierra vuelve, las deudas se cancelan y los esclavos son liberados."
+        },
+        {
+          "term": "Redentor (pariente)",
+          "original": "Hebrew: גֹּאֵל (goʾel) — Greek: λυτρωτής (lytrōtēs) — Aramaic: גלא (gala)",
+          "note": "Un protector familiar que compra tierras de vuelta o libera a parientes de la esclavitud."
+        }
+      ],
+      "keyTakeaway": "Levítico ordena la observancia del sábado, las fiestas anuales, los rituales de la lámpara y el pan, los años sabáticos y el Jubileo, con leyes sobre propiedad, esclavitud y redención."
+    },
+    {
+      "id": "leviticus-24",
+      "title": "📅 Levítico 24",
+      "refs": [
+        "Leviticus 24:1-23"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (24:1):",
+        "«Ordénales a los israelitas que te traigan aceite puro de olivas prensadas, para que las lámparas estén siempre encendidas. (24:2)",
+        "Aarón preparará las lámparas en la Tienda de reunión, fuera de la cortina donde están las tablas del pacto, para que ardan delante del Señor desde el anochecer hasta la mañana. Este será un estatuto perpetuo para las generaciones venideras. (24:3)",
+        "Las lámparas que están sobre el candelabro de oro puro se mantendrán siempre encendidas delante del Señor. (24:4)",
+        "»Toma harina refinada y hornea doce tortas de pan. Cada torta debe pesar dos décimas partes de un efa. (24:5)",
+        "Ponlas ante el Señor sobre la mesa de oro puro, en dos hileras de seis tortas cada una. (24:6)",
+        "En cada hilera pondrás incienso puro. Así el pan será una ofrenda memorial puesta al fuego ante el Señor. (24:7)",
+        "Este pan se dispondrá regularmente ante el Señor todos los sábados. Este es un pacto perpetuo de los israelitas. (24:8)",
+        "El pan pertenece a Aarón y a sus hijos, quienes lo comerán en un lugar santo. Es una parte sumamente sagrada de las ofrendas puestas al fuego ante el Señor. Es un estatuto perpetuo». (24:9)",
+        "Entre los israelitas vivía un hombre, hijo de madre israelita y de padre egipcio. Y sucedió que un día este hombre y un israelita iniciaron un pleito en el campamento. (24:10).",
+        "Pero el hijo de la mujer israelita, al lanzar una maldición, pronunció el Nombre; así que se lo llevaron a Moisés. (El nombre de su madre era Selomit hija de Dibrí, de la tribu de Dan). (24:11)",
+        "Y lo pusieron bajo arresto hasta que el Señor les dijera qué hacer con él. (24:12)",
+        "Then the LORD speaks to Moses, saying (24:13):",
+        "«Saca al blasfemo fuera del campamento. Quienes lo hayan oído impondrán las manos sobre su cabeza y toda la asamblea lo apedreará. (24:14)",
+        "Diles a los israelitas: “Todo el que blasfeme contra su Dios sufrirá las consecuencias de su pecado”. (24:15)",
+        "Además, todo el que pronuncie el nombre del Señor al maldecir será condenado a muerte. Toda la asamblea lo apedreará. Sea extranjero o nativo, si pronuncia el Nombre al maldecir, será condenado a muerte. (24:16)",
+        "»El que quite la vida a otro ser humano será condenado a muerte. (24:17)",
+        "»El que quite la vida a algún animal ajeno, reparará el daño con otro animal. (24:18)",
+        "»Al que lesione a su prójimo se le infligirá el mismo daño que haya causado: (24:19).",
+        "fractura por fractura, ojo por ojo, diente por diente. Sufrirá en carne propia el mismo daño que haya causado. (24:20)",
+        "»Todo el que mate un animal reparará el daño, pero el que mate a un hombre será condenado a muerte. (24:21)",
+        "Una sola ley regirá, tanto para el nativo como para el extranjero. Yo soy el Señor su Dios». (24:22)",
+        "Moisés comunicó todo esto a los israelitas, entonces ellos sacaron al blasfemo fuera del campamento y allí lo apedrearon. Los israelitas procedieron tal como el Señor se lo ordenó a Moisés. (24:23)"
+      ],
+      "crossRefs": [
+        "Éxodo 23:10–11 — La ley del año sabático introducida por primera vez.",
+        "Deuteronomio 16:1–17 — Repetición de las tres fiestas de peregrinación.",
+        "Isaías 61:1–2 — El año del favor del SEÑOR (imaginería del Jubileo).",
+        "Lucas 4:18–19 — Jesús proclama el año del favor del SEÑOR."
+      ],
+      "translationNotes": [
+        {
+          "term": "Moedim (tiempos señalados)",
+          "original": "Hebrew: מוֹעֵד (moʿed) — Greek: καιρός (kairos) — Aramaic: מועדא (moʿeda)",
+          "note": "Tiempos fijos o estaciones establecidos por Dios para asambleas sagradas."
+        },
+        {
+          "term": "Cabañas",
+          "original": "Hebrew: סֻכּוֹת (sukkot) — Greek: σκηναί (skēnai) — Aramaic: סכתא (sukkta)",
+          "note": "Refugios temporales hechos con ramas para recordar la habitación de Israel en el desierto."
+        },
+        {
+          "term": "Jubileo",
+          "original": "Hebrew: יֹבֵל (yōvel) — Greek: ἄφεσις (aphesis, 'release') — Aramaic: יובלא (yovla)",
+          "note": "El quincuagésimo año cuando la tierra vuelve, las deudas se cancelan y los esclavos son liberados."
+        },
+        {
+          "term": "Redentor (pariente)",
+          "original": "Hebrew: גֹּאֵל (goʾel) — Greek: λυτρωτής (lytrōtēs) — Aramaic: גלא (gala)",
+          "note": "Un protector familiar que compra tierras de vuelta o libera a parientes de la esclavitud."
+        }
+      ],
+      "keyTakeaway": "Levítico ordena la observancia del sábado, las fiestas anuales, los rituales de la lámpara y el pan, los años sabáticos y el Jubileo, con leyes sobre propiedad, esclavitud y redención."
+    },
+    {
+      "id": "leviticus-25",
+      "title": "📅 Levítico 25",
+      "refs": [
+        "Leviticus 25:1-55"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses on Mount Sinai, saying (25:1):",
+        "que dijera a los israelitas: «Cuando ustedes hayan entrado en la tierra que les voy a dar, la tierra misma deberá observar un año de reposo en honor al Señor. (25:2)",
+        "Durante seis años sembrarás tus campos, podarás tus viñas y cosecharás sus productos; (25:3).",
+        "pero llegado el séptimo año la tierra gozará de un año de reposo en honor al Señor. No sembrarás tus campos ni podarás tus viñas; (25:4)",
+        "no segarás lo que haya brotado por sí mismo ni vendimiarás las uvas de tus viñas no cultivadas. La tierra gozará de un año de completo reposo. (25:5)",
+        "Sin embargo, de todo lo que la tierra produzca durante ese año sabático, podrán comer no solo tú, sino también tu siervo y tu sierva, el jornalero y el residente temporal entre ustedes. (25:6).",
+        "También podrán alimentarse tu ganado y los animales que haya en el país. Todo lo que la tierra produzca ese año será solo para el consumo diario. (25:7)",
+        "»Siete veces contarás siete años sabáticos, de modo que los siete años sabáticos sumen cuarenta y nueve años. (25:8)",
+        "El día diez del mes séptimo, es decir, el día del Perdón, harás resonar la trompeta por todo el país. (25:9)",
+        "El año cincuenta será declarado santo, y se proclamará en el país la liberación de todos sus habitantes. Será para ustedes un jubileo y cada uno volverá a su heredad familiar y a su propio clan. (25:10)",
+        "El año cincuenta será para ustedes un jubileo: ese año no sembrarán ni cosecharán lo que haya brotado por sí mismo, ni tampoco vendimiarán las viñas no cultivadas. (25:11)",
+        "Ese año es jubileo y será santo para ustedes. Comerán solamente lo que los campos produzcan por sí mismos. (25:12)",
+        "»En el año de jubileo cada uno volverá a su heredad familiar. (25:13)",
+        "»Si entre ustedes se realizan transacciones de compraventa, no se exploten los unos a los otros. (25:14)",
+        "Tú comprarás de tu prójimo a un precio proporcional al número de años que falten para el próximo jubileo, y él te venderá a un precio proporcional al número de años que queden por cosechar. (25:15)",
+        "Si aún faltan muchos años para el jubileo, aumentarás el precio en la misma proporción; pero si faltan pocos, rebajarás el precio proporcionalmente, porque lo que se te está vendiendo es solo el número de cosechas. (25:16)",
+        "No se explotarán los unos a los otros, sino que temerán a su Dios. Yo soy el Señor su Dios. (25:17)",
+        "»Pongan en práctica mis estatutos, observen mis leyes y habitarán seguros en la tierra. (25:18)",
+        "La tierra dará su fruto, y comerán hasta saciarse, y allí vivirán seguros. (25:19)",
+        "\"And if you say, 'What shall we eat in the seventh year, if we may not sow or gather in our crop?'\" (25:20),",
+        "déjenme decirles que en el sexto año les enviaré una bendición tan grande que la tierra producirá como para tres años. (25:21)",
+        "Cuando ustedes siembren durante el octavo año, todavía estarán comiendo de la cosecha anterior, y continuarán comiendo de ella hasta la cosecha del año siguiente. (25:22)",
+        "»La tierra no se venderá a perpetuidad, porque la tierra es mía y ustedes no son aquí más que extranjeros y huéspedes. (25:23)",
+        "Por tanto, en el país habrá la posibilidad de recobrar todo terreno que haya sido heredad familiar. (25:24)",
+        "»En el caso de que uno de tus compatriotas se empobrezca y tenga que vender parte de su heredad familiar, su pariente más cercano rescatará lo que su hermano haya vendido. (25:25)",
+        "\"If a man has no one to redeem it and then himself becomes prosperous and finds sufficient means to redeem it\" (25:26),",
+        "deberá calcular el número de años transcurridos desde la venta y reembolsar el saldo a quien se la haya comprado. Así podrá volver a su heredad. (25:27)",
+        "Pero si no consigue lo suficiente para rescatarla, la tierra quedará en posesión del comprador hasta el año del jubileo, cuando el que la vendió la recobrará y esta volverá a su heredad familiar. (25:28)",
+        "»Si alguno vende una casa en una ciudad amurallada, tendrá derecho a rescatarla durante un año completo a partir de la fecha de venta. Ese es el tiempo que dura su derecho a rescatarla. (25:29)",
+        "Si no rescata la casa antes de cumplirse el año, no se le devolverá en el jubileo, sino que pasará a ser propiedad perpetua del comprador y de sus descendientes. (25:30)",
+        "Las casas que estén en aldeas sin murallas se considerarán campo abierto, pero podrán rescatarse y se devolverán en el jubileo. (25:31)",
+        "»Los levitas tendrán siempre el derecho de rescatar sus casas en las ciudades de su heredad. (25:32)",
+        "Si alguno de los levitas hace valer su derecho, la casa que vendió en una de sus ciudades se le devolverá en el jubileo, porque las casas en las ciudades de los levitas son su heredad familiar entre los israelitas. (25:33)",
+        "Pero los campos alrededor de sus ciudades no se venderán, pues son su propiedad inalienable. (25:34)",
+        "»Si alguno de tus compatriotas se empobrece y no tiene cómo sostenerse, ayúdalo como lo harías con el extranjero o con el residente temporal; así podrá seguir viviendo entre ustedes. (25:35)",
+        "No exigirás interés cuando prestes dinero, sino que temerás a tu Dios; así tu compatriota podrá seguir viviendo entre ustedes. (25:36)",
+        "Tampoco prestarás dinero con intereses ni le impondrás recargo a los alimentos que le fíes. (25:37)",
+        "Yo soy el Señor su Dios, que los saqué de Egipto para darles la tierra de Canaán y para ser su Dios. (25:38)",
+        "»Si alguno de tus compatriotas se empobrece y se ve obligado a venderse a ti, no lo hagas trabajar como esclavo. (25:39)",
+        "Trátalo como al jornalero o como al residente temporal que vive entre ustedes. Trabajará para ti, solo hasta el año del jubileo. (25:40)",
+        "Entonces lo pondrás en libertad junto con sus hijos, y podrán volver a su propia familia y a la heredad de sus antepasados. (25:41)",
+        "Todos los israelitas son mis siervos. Yo los saqué de Egipto, así que no serán vendidos como esclavos. (25:42)",
+        "No serás un amo cruel, sino que temerás a tu Dios. (25:43)",
+        "»Asegúrate de que tus esclavos y esclavas provengan de las naciones vecinas; allí podrás comprarlos. (25:44)",
+        "También podrás comprar esclavos nacidos en tu país, siempre y cuando sean de las familias extranjeras que vivan temporalmente en medio de ustedes. Ellos serán propiedad de ustedes, (25:45)",
+        "y podrán dejárselos a sus hijos como herencia para que les sirvan de por vida. En lo que respecta a tus compatriotas, no serás un amo cruel. (25:46)",
+        "»Si un extranjero residente entre ustedes se enriquece, y uno de tus compatriotas se empobrece y tiene que venderse a ese extranjero o a un familiar de ese extranjero, (25:47).",
+        "\"then after he is sold he may be redeemed. One of his brothers may redeem him\" (25:48),",
+        "un tío, un primo o cualquier otro de sus parientes. Y, si llegara a prosperar, él mismo podrá pagar su rescate. (25:49)",
+        "Él y su dueño calcularán el tiempo transcurrido, desde el año en que se vendió hasta el año del jubileo. El precio de su liberación se determinará en proporción a la paga de un jornalero por ese número de años. (25:50)",
+        "Si aún faltan muchos años, pagará por su rescate una suma proporcional a la que se pagó por él. (25:51)",
+        "Si solo faltan pocos años para el jubileo, calculará y pagará por su rescate en proporción a esos años. (25:52)",
+        "Ustedes vigilarán que su dueño lo trate como a los que trabajan por contrato anual, y que no lo trate con crueldad. (25:53)",
+        "»Si tu compatriota no es rescatado por ninguno de esos medios, tanto él como sus hijos quedarán en libertad en el año del jubileo. (25:54)",
+        "Los israelitas son mis siervos. Yo los saqué de Egipto. Yo soy el Señor su Dios. (25:55)"
+      ],
+      "crossRefs": [
+        "Éxodo 23:10–11 — La ley del año sabático introducida por primera vez.",
+        "Deuteronomio 16:1–17 — Repetición de las tres fiestas de peregrinación.",
+        "Isaías 61:1–2 — El año del favor del SEÑOR (imaginería del Jubileo).",
+        "Lucas 4:18–19 — Jesús proclama el año del favor del SEÑOR."
+      ],
+      "translationNotes": [
+        {
+          "term": "Moedim (tiempos señalados)",
+          "original": "Hebrew: מוֹעֵד (moʿed) — Greek: καιρός (kairos) — Aramaic: מועדא (moʿeda)",
+          "note": "Tiempos fijos o estaciones establecidos por Dios para asambleas sagradas."
+        },
+        {
+          "term": "Cabañas",
+          "original": "Hebrew: סֻכּוֹת (sukkot) — Greek: σκηναί (skēnai) — Aramaic: סכתא (sukkta)",
+          "note": "Refugios temporales hechos con ramas para recordar la habitación de Israel en el desierto."
+        },
+        {
+          "term": "Jubileo",
+          "original": "Hebrew: יֹבֵל (yōvel) — Greek: ἄφεσις (aphesis, 'release') — Aramaic: יובלא (yovla)",
+          "note": "El quincuagésimo año cuando la tierra vuelve, las deudas se cancelan y los esclavos son liberados."
+        },
+        {
+          "term": "Redentor (pariente)",
+          "original": "Hebrew: גֹּאֵל (goʾel) — Greek: λυτρωτής (lytrōtēs) — Aramaic: גלא (gala)",
+          "note": "Un protector familiar que compra tierras de vuelta o libera a parientes de la esclavitud."
+        }
+      ],
+      "keyTakeaway": "Levítico ordena la observancia del sábado, las fiestas anuales, los rituales de la lámpara y el pan, los años sabáticos y el Jubileo, con leyes sobre propiedad, esclavitud y redención."
+    },
+    {
+      "id": "leviticus-26",
+      "title": "⚖️ Levítico 26",
+      "refs": [
+        "Leviticus 26:1-46"
+      ],
+      "summaryBullets": [
+        "»No se hagan ídolos, ni levanten imágenes ni piedras sagradas. No coloquen en su territorio piedras esculpidas, ni se postren ante ellas. Yo soy el Señor su Dios. (26:1)",
+        "»Observen mis sábados y muestren reverencia por mi santuario. Yo soy el Señor. (26:2)",
+        "\"If you walk in my statutes and observe my commandments and do them\" (26:3),",
+        "yo enviaré lluvia a su tiempo, y la tierra y los árboles del campo darán sus frutos; (26:4)",
+        "la trilla durará hasta la vendimia, y la vendimia durará hasta la siembra. Comerán hasta saciarse y vivirán seguros en su tierra. (26:5)",
+        "»Yo traeré paz al país y ustedes podrán dormir sin ningún temor. Quitaré de la tierra las bestias salvajes y no habrá guerra en su territorio. (26:6)",
+        "Perseguirán a sus enemigos y ante ustedes caerán a filo de espada. (26:7)",
+        "Cinco de ustedes perseguirán a cien, y cien de ustedes perseguirán a diez mil, y ante ustedes sus enemigos caerán a filo de espada. (26:8)",
+        "»Yo les mostraré mi favor. Yo los haré fecundos. Los multiplicaré y mantendré mi pacto con ustedes. (26:9)",
+        "Todavía estarán comiendo de la cosecha del año anterior cuando tendrán que sacarla para dar lugar a la nueva. (26:10)",
+        "Estableceré mi morada en medio de ustedes y no los aborreceré. (26:11)",
+        "Caminaré entre ustedes. Yo seré su Dios y ustedes serán mi pueblo. (26:12)",
+        "Yo soy el Señor su Dios que los saqué de Egipto para que dejaran de ser esclavos. Yo rompí las varas de su yugo y los hice caminar con la cabeza erguida. (26:13)",
+        "\"But if you will not listen to me and will not do all these commandments\" (26:14),",
+        "\"if you spurn my statutes, and if your soul abhors my rules, so that you will not do all my commandments, but break my covenant\" (26:15),",
+        "entonces yo mismo los castigaré con un terror repentino, con enfermedades y con fiebre que los debilitarán, les harán perder la vista y acabarán con su vida. En vano sembrarán su semilla, porque se la comerán sus enemigos. (26:16)",
+        "Yo les negaré mi favor y sus adversarios los derrotarán. Sus enemigos los dominarán y ustedes huirán sin que nadie los persiga. (26:17)",
+        "\"And if in spite of this you will not listen to me, then I will discipline you again sevenfold for your sins\" (26:18),",
+        "Yo quebrantaré su orgullo y terquedad. Endureceré el cielo como el hierro y la tierra como el bronce, (26:19)",
+        "por lo que en vano agotarán sus fuerzas, y ni el suelo ni los árboles del campo darán sus frutos. (26:20)",
+        "»Si a pesar de esto siguen oponiéndose a mí y se niegan a obedecerme, siete veces los castigaré por sus pecados. (26:21)",
+        "Lanzaré sobre ustedes fieras salvajes que arrebatarán sus hijos y destruirán su ganado. De tal manera los diezmarán que sus caminos quedarán desiertos. (26:22)",
+        "\"And if by this discipline you are not turned to me but walk contrary to me\" (26:23),",
+        "yo también seguiré oponiéndome a ustedes. Yo mismo los heriré siete veces por sus pecados. (26:24)",
+        "Dejaré caer sobre ustedes la espada de la venganza prescrita en el pacto. Cuando se retiren a sus ciudades, les enviaré una plaga y caerán en poder del enemigo. (26:25)",
+        "Cuando yo destruya la provisión de pan, diez mujeres hornearán para ustedes pan en un solo horno. Y lo distribuirán racionado, de tal manera que comerán, pero no se saciarán. (26:26)",
+        "\"But if in spite of this you will not listen to me, but walk contrary to me\" (26:27),",
+        "entonces yo también en mi ira me opondré a ustedes. Siete veces los castigaré por sus pecados, (26:28)",
+        "y tendrán que comerse la carne de sus hijos y de sus hijas. (26:29)",
+        "Destruiré sus altares paganos, demoleré sus altares de incienso y amontonaré sus cadáveres sobre las figuras sin vida de sus ídolos. Volcaré mi odio sobre ustedes; (26:30)",
+        "convertiré en ruinas sus ciudades y asolaré sus santuarios. No me complaceré más en el aroma de sus ofrendas, que me era grato. (26:31)",
+        "De tal manera asolaré al país que sus enemigos que vengan a ocuparlo quedarán atónitos. (26:32)",
+        "Los dispersaré entre las naciones: desenvainaré la espada, los perseguiré hasta dejar desolada su tierra y en ruinas sus ciudades. (26:33)",
+        "Entonces la tierra disfrutará de sus años sabáticos todo el tiempo que permanezca desolada, mientras ustedes vivan en el país de sus enemigos. Así la tierra descansará y disfrutará de sus sábados. (26:34)",
+        "Mientras la tierra esté desolada, tendrá el descanso que no tuvo durante los años sabáticos en que ustedes la habitaron. (26:35)",
+        "»En cuanto a los que sobrevivan, tan profundo será el temor que les infundiré en tierra de sus enemigos, que hasta el susurro de una hoja movida por el viento los pondrá en fuga. Correrán como quien huye de la espada y caerán sin que nadie los persiga. (26:36)",
+        "Como si huyeran de la espada, tropezarán unos con otros sin que nadie los persiga y no podrán hacerles frente a sus enemigos. (26:37)",
+        "Perecerán en medio de las naciones; el país de sus enemigos los devorará. (26:38)",
+        "Aquellos de ustedes que sobrevivan serán abatidos en país enemigo, porque a sus pecados se añadirá el de sus antepasados. (26:39)",
+        "\"But if they confess their iniquity and the iniquity of their fathers in their treachery that they committed against me, and also in walking contrary to me\" (26:40),",
+        "\"so that I walked contrary to them and brought them into the land of their enemies—if then their uncircumcised heart is humbled and they make amends for their iniquity\" (26:41),",
+        "entonces me acordaré de mi pacto con Jacob, Isaac y Abraham; también me acordaré de la tierra. (26:42)",
+        "Al abandonar ellos la tierra, esta disfrutará de sus sábados mientras permanezca deshabitada. Pero tendrán que reconocer sus pecados, por cuanto rechazaron mis leyes y aborrecieron mis estatutos. (26:43)",
+        "A pesar de todo y, aunque estén en la tierra de sus enemigos, no los rechazaré ni los aborreceré hasta el punto de exterminarlos; tampoco romperé mi pacto con ellos. Yo soy el Señor su Dios. (26:44)",
+        "Antes recordaré en su favor el pacto que hice con sus antepasados, a quienes, a la vista de las naciones, saqué de Egipto para ser su Dios. Yo soy el Señor». (26:45)",
+        "Estos son los estatutos, ordenanzas y leyes que, por medio de Moisés, estableció el Señor en el monte Sinaí entre él y los israelitas. (26:46)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 28:1–68 — Lista paralela de bendiciones y maldiciones por la obediencia o desobediencia al pacto.",
+        "2 Crónicas 36:20–21 — La tierra disfrutó sus sábados durante el exilio en Babilonia.",
+        "Nehemías 9:2 — Confesión de los pecados de los padres y los propios.",
+        "Hechos 5:1–11 — Ananías y Safira juzgados por mentir sobre dinero consagrado."
+      ],
+      "translationNotes": [
+        {
+          "term": "*iniquidad*",
+          "original": "Hebrew: עָוֹן (ʿavon) — Greek: ἀνομία (anomia) — Aramaic: עון (ʿawon)",
+          "note": "Culpa o perversidad; más profundo que actos individuales de pecado, denota torcedura continua con sus consecuencias."
+        },
+        {
+          "term": "Cosa consagrada (jérem)",
+          "original": "Hebrew: חֵרֶם (ḥerem) — Greek: ἀνάθεμα (anathema) — Aramaic: חרם (ḥerem)",
+          "note": "Algo irrevocablemente entregado a Dios, frecuentemente destruido; no puede ser redimido."
+        },
+        {
+          "term": "Diezmo",
+          "original": "Hebrew: מַעֲשֵׂר (maʿaser) — Greek: δεκάτη (dekatē) — Aramaic: מעשר (maʿasar)",
+          "note": "La décima parte dedicada a Dios, de las cosechas o los rebaños."
+        }
+      ],
+      "keyTakeaway": "Levítico termina con bendiciones por la obediencia, maldiciones por la desobediencia, la posibilidad de restauración después del arrepentimiento y leyes sobre votos, cosas consagradas y diezmos."
+    },
+    {
+      "id": "leviticus-27",
+      "title": "⚖️ Levítico 27",
+      "refs": [
+        "Leviticus 27:1-34"
+      ],
+      "summaryBullets": [
+        "The LORD speaks to Moses, saying (27:1):",
+        "«Habla a los israelitas y diles: “Cuando alguien quiera hacerle al Señor una promesa especial equivalente al valor de una persona, (27:2).",
+        "se aplicará el siguiente cálculo: (27:3)",
+        "»”Por las mujeres se pagarán treinta siclos de plata. (27:4)",
+        "»”Por los varones de cinco a veinte años se pagarán veinte siclos de plata, y diez siclos por las mujeres de la misma edad. (27:5)",
+        "»”Por los niños de un mes a cinco años se pagarán cinco siclos de plata, y tres siclos por las niñas de la misma edad. (27:6)",
+        "»”Por los varones mayores de sesenta años se pagarán quince siclos de plata, y diez siclos por las mujeres de la misma edad. (27:7)",
+        "Si quien hace la promesa es tan pobre que ni el precio estipulado puede pagar, se le hará comparecer ante el sacerdote, el cual fijará el valor a pagar, según los recursos de quien haga la promesa. (27:8)",
+        "»”Si lo que se presenta como ofrenda al Señor es un animal, este quedará consagrado por haber sido ofrecido al Señor. (27:9)",
+        "No podrá cambiarse ni sustituirse un animal bueno por uno malo; tampoco un animal malo por uno bueno. Si se cambia un animal por otro, ambos quedarán consagrados. (27:10)",
+        "\"If it is any unclean animal that may not be offered as an offering to the LORD, then he shall stand the animal before the priest\" (27:11),",
+        "quien determinará el valor del animal. El cálculo aplicado por el sacerdote deberá aceptarse, cualquiera que este sea. (27:12)",
+        "Si el dueño quiere rescatar el animal, deberá añadir una quinta parte al valor que haya fijado el sacerdote. (27:13)",
+        "»”Si alguno consagra su casa al Señor, el sacerdote determinará su valor. El cálculo aplicado por el sacerdote deberá aceptarse, cualquiera que este sea. (27:14)",
+        "Si el que consagró su casa quiere rescatarla, deberá añadir una quinta parte al valor que haya fijado el sacerdote, y la casa volverá a ser suya. (27:15)",
+        "»”Si alguno consagra al Señor parte del campo de su heredad familiar, su precio se determinará según la cantidad de semilla que se requiera para sembrarlo, a razón de cincuenta siclos de plata por cada jómer de semilla de cebada. (27:16)",
+        "Si consagra su campo a partir del año del jubileo, dicho precio se mantendrá; (27:17)",
+        "pero si lo consagra después del jubileo, el sacerdote hará el cálculo según el número de años que falten para el próximo jubileo, con el descuento correspondiente. (27:18)",
+        "Si el que consagra su campo realmente quiere rescatarlo, deberá añadir una quinta parte al valor que haya fijado el sacerdote, y el campo volverá a ser suyo. (27:19)",
+        "Pero si no lo rescata o se lo vende a otro, ya no podrá rescatarlo. (27:20)",
+        "Cuando en el jubileo el campo quede libre, será consagrado como campo reservado para el Señor, y pasará a ser propiedad del sacerdote. (27:21)",
+        "»”Si alguno compra un campo que no sea parte de su heredad familiar y lo consagra al Señor, (27:22).",
+        "el sacerdote determinará su precio según el tiempo que falte para el año del jubileo. Ese mismo día, el que consagra el campo pagará el monto de su valor. Es algo consagrado al Señor. (27:23)",
+        "En el año del jubileo, el campo volverá a ser parte de la heredad familiar de su dueño anterior. (27:24)",
+        "Todo precio se fijará según la medida oficial del santuario, veinte guerás por cada siclo. (27:25)",
+        "»”Sin embargo, nadie podrá consagrar la primera cría de su ganado, sea de res o de oveja, pues por derecho las primeras crías pertenecen al Señor. (27:26)",
+        "Si se trata de animales impuros, se podrán rescatar pagando el valor fijado por el sacerdote, más una quinta parte. Si no se rescata, se venderá en el precio que el sacerdote haya fijado. (27:27)",
+        "»”Nadie podrá vender ni rescatar sus bienes, sean hombres, animales o campos, si los ha consagrado como propiedad exclusiva del Señor. Todo cuanto se consagra como propiedad exclusiva del Señor es cosa santísima. (27:28)",
+        "»”Ninguna persona así consagrada podrá ser rescatada, sino que será condenada a muerte. (27:29)",
+        "»”El diezmo de todo producto del campo, ya sea grano de los sembrados o fruto de los árboles, pertenece al Señor, pues le está consagrado. (27:30)",
+        "Si alguien desea rescatar algo de su diezmo, deberá añadir a su valor una quinta parte. (27:31)",
+        "En cuanto al diezmo del ganado mayor y menor, uno de cada diez animales contados será consagrado al Señor. (27:32)",
+        "El pastor no hará distinción entre animales buenos y malos ni hará sustitución alguna. En caso de cambiar un animal por otro, los dos quedarán consagrados y no se les podrá rescatar”». (27:33)",
+        "Estos son los mandamientos que el Señor dio a Moisés para los israelitas en el monte Sinaí. (27:34)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 28:1–68 — Lista paralela de bendiciones y maldiciones por la obediencia o desobediencia al pacto.",
+        "2 Crónicas 36:20–21 — La tierra disfrutó sus sábados durante el exilio en Babilonia.",
+        "Nehemías 9:2 — Confesión de los pecados de los padres y los propios.",
+        "Hechos 5:1–11 — Ananías y Safira juzgados por mentir sobre dinero consagrado."
+      ],
+      "translationNotes": [
+        {
+          "term": "*iniquidad*",
+          "original": "Hebrew: עָוֹן (ʿavon) — Greek: ἀνομία (anomia) — Aramaic: עון (ʿawon)",
+          "note": "Culpa o perversidad; más profundo que actos individuales de pecado, denota torcedura continua con sus consecuencias."
+        },
+        {
+          "term": "Cosa consagrada (jérem)",
+          "original": "Hebrew: חֵרֶם (ḥerem) — Greek: ἀνάθεμα (anathema) — Aramaic: חרם (ḥerem)",
+          "note": "Algo irrevocablemente entregado a Dios, frecuentemente destruido; no puede ser redimido."
+        },
+        {
+          "term": "Diezmo",
+          "original": "Hebrew: מַעֲשֵׂר (maʿaser) — Greek: δεκάτη (dekatē) — Aramaic: מעשר (maʿasar)",
+          "note": "La décima parte dedicada a Dios, de las cosechas o los rebaños."
+        }
+      ],
+      "keyTakeaway": "Levítico termina con bendiciones por la obediencia, maldiciones por la desobediencia, la posibilidad de restauración después del arrepentimiento y leyes sobre votos, cosas consagradas y diezmos."
+    }
+  ]
+}

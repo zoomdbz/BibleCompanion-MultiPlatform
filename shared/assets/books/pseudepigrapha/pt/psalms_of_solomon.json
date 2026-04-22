@@ -1,0 +1,32 @@
+{
+  "id": "psalms_of_solomon",
+  "title": "Salmos de Salomão",
+  "stories": [
+    {
+      "id": "psalms_of_solomon-1",
+      "title": "📜 Salmos de Salomão",
+      "refs": [
+        "Psalms of Solomon 1"
+      ],
+      "summaryBullets": [
+        "Uma coleção de dezoito salmos judaicos do final do século I a.C., compostos em resposta à conquista de Jerusalém por Pompeu em 63 a.C. e não incluídos nos cânones bíblicos posteriores.",
+        "Fundem lamento nacionalista, apelos à justiça e esperança messiânica, retratando o Messias como um libertador justo e davídico que resgatará Israel, incluindo o uso mais antigo do título \"Filho de Davi\".",
+        "O tom alterna entre confissão comunitária, denúncia dos líderes de Israel e confiança na justiça de Deus, frequentemente exortando ao arrependimento pessoal e coletivo.",
+        "Embora compostos originalmente em hebraico ou aramaico, a coleção sobrevive apenas em manuscritos gregos e siríacos; foram agrupados sob o nome de Salomão, provavelmente por prestígio e não por autoria."
+      ],
+      "crossRefs": [
+        "2 Samuel 7:12–16 — As promessas da aliança de Deus à casa de Davi.",
+        "Isaías 11:1–2 — Expectativa messiânica de um rebento justo de Jessé.",
+        "Mateus 21:9 — \"Filho de Davi\" como título aplicado a Jesus nos Evangelhos."
+      ],
+      "translationNotes": [
+        {
+          "term": "Filho de Davi",
+          "original": "Hebrew: בֶּן־דָּוִד (ben-Dāwīḏ) — Greek: υἱὸς Δαυὶδ (huios Dauid) — Aramaic: בּר דָּוִד (bar Dāwīḏ)",
+          "note": "Um primeiro título explícito para o Messias nesta obra, enfatizando expectativas dinásticas e de esperança em um rei justo da linhagem de Davi."
+        }
+      ],
+      "keyTakeaway": "Os Salmos de Salomão dão voz às esperanças judaicas do século I a.C. em meio à opressão, exortando à reforma moral e à libertação messiânica."
+    }
+  ]
+}

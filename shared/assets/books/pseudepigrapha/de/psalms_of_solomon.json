@@ -1,0 +1,32 @@
+{
+  "id": "psalms_of_solomon",
+  "title": "Psalmen Salomos",
+  "stories": [
+    {
+      "id": "psalms_of_solomon-1",
+      "title": "📜 Psalmen Salomos",
+      "refs": [
+        "Psalms of Solomon 1"
+      ],
+      "summaryBullets": [
+        "Eine Sammlung von achtzehn jüdischen Psalmen aus dem späten 1. Jahrhundert v. Chr., verfasst als Reaktion auf die Eroberung Jerusalems durch Pompeius im Jahr 63 v. Chr., die nicht in spätere biblische Kanones aufgenommen wurden.",
+        "Sie verbinden nationalistische Klage, Aufrufe zur Gerechtigkeit und messianische Hoffnung und stellen den Messias als gerechten, davidischen Befreier dar, der Israel retten wird; sie enthalten auch die früheste Verwendung des Titels „Sohn Davids“.",
+        "Der Ton wechselt zwischen gemeinschaftlichem Bekenntnis, Anklage der Führer Israels und Vertrauen auf Gottes Gerechtigkeit, wobei oft zu persönlicher und gemeinschaftlicher Umkehr aufgerufen wird.",
+        "Obwohl ursprünglich auf Hebräisch oder Aramäisch verfasst, ist die Sammlung nur in griechischen und syrischen Handschriften erhalten; sie wurden unter dem Namen Salomos zusammengestellt, wahrscheinlich aus Gründen des Ansehens und nicht der Autorschaft."
+      ],
+      "crossRefs": [
+        "2. Samuel 7:12–16 — Gottes Bundesverheißungen an das Haus Davids.",
+        "Jesaja 11:1–2 — Messianische Erwartung eines gerechten Sprosses aus Isai.",
+        "Matthäus 21:9 — „Sohn Davids“ als Titel für Jesus in den Evangelien."
+      ],
+      "translationNotes": [
+        {
+          "term": "Sohn Davids",
+          "original": "Hebrew: בֶּן־דָּוִד (ben-Dāwīḏ) — Greek: υἱὸς Δαυὶδ (huios Dauid) — Aramaic: בּר דָּוִד (bar Dāwīḏ)",
+          "note": "Ein früher ausdrücklicher Titel für den Messias in diesem Werk, der dynastische und hoffnungsvolle Erwartungen an einen gerechten König aus Davids Linie betont."
+        }
+      ],
+      "keyTakeaway": "Die Psalmen Salomos geben den jüdischen Hoffnungen des 1. Jahrhunderts v. Chr. inmitten von Unterdrückung Ausdruck und rufen zur moralischen Reform und messianischen Befreiung auf."
+    }
+  ]
+}

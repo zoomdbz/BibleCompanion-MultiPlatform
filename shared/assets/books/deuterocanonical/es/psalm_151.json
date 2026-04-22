@@ -1,0 +1,38 @@
+{
+  "id": "psalm-151",
+  "title": "Salmo 151",
+  "stories": [
+    {
+      "id": "psalm-151-1",
+      "title": "🎵 Salmo 151",
+      "refs": [
+        "Psalm 151 1"
+      ],
+      "summaryBullets": [
+        "Este salmo se atribuye a David, pero no forma parte del texto hebreo masorético estándar.",
+        "David recuerda sus humildes comienzos como el menor de sus hermanos, cuidando ovejas en los campos.",
+        "Dios lo eligió de entre sus hermanos y envió a Samuel para ungirlo con aceite santo.",
+        "David recuerda cómo, a pesar de ser pequeño, derrotó a Goliat con una honda y le cortó la cabeza con la espada.",
+        "El salmo destaca la elección divina de los humildes y la liberación de Dios por medio de la fe y la obediencia de David."
+      ],
+      "crossRefs": [
+        "1 Samuel 16:11–13 — David es ungido por Samuel mientras cuida las ovejas.",
+        "1 Samuel 17:34–51 — David derrota a Goliat con honda y espada.",
+        "Hechos 13:22 — David es descrito como un hombre conforme al corazón de Dios, elegido para cumplir su voluntad."
+      ],
+      "translationNotes": [
+        {
+          "term": "Ungido",
+          "original": "Hebrew: מָשַׁח (mashach) — Greek: χρίω (chriō) — Aramaic/Syriac: משח (meshaḥ)",
+          "note": "Derramar aceite sobre alguien, apartándolo para el propósito de Dios; se usaba para reyes y sacerdotes."
+        },
+        {
+          "term": "Honda",
+          "original": "Hebrew: קָלַע (qalaʿ) — Greek: σφενδόνη (sphendonē) — Aramaic: קלעא (qelaʿa)",
+          "note": "Un arma que usa una correa de cuero para lanzar piedras; el arma de David contra Goliat."
+        }
+      ],
+      "keyTakeaway": "El Salmo 151, preservado en la tradición griega y otras tradiciones, relata los orígenes humildes de David, su unción y su victoria sobre Goliat como siervo elegido de Dios."
+    }
+  ]
+}

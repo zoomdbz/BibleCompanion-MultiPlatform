@@ -1,0 +1,32 @@
+{
+  "id": "psalms_of_solomon",
+  "title": "Psaumes de Salomon",
+  "stories": [
+    {
+      "id": "psalms_of_solomon-1",
+      "title": "📜 Psaumes de Salomon",
+      "refs": [
+        "Psalms of Solomon 1"
+      ],
+      "summaryBullets": [
+        "Une collection de dix-huit psaumes juifs de la fin du Ier siècle av. J.-C., composés en réponse à la conquête de Jérusalem par Pompée en 63 av. J.-C. et non inclus dans les canons bibliques ultérieurs.",
+        "Ils mêlent lamentation nationaliste, appels à la justice et espérance messianique, dépeignant le Messie comme un libérateur juste, semblable à David, qui sauvera Israël, avec la première utilisation explicite du titre \"Fils de David\".",
+        "Le ton alterne entre confession communautaire, dénonciation des dirigeants d'Israël et confiance en la justice de Dieu, exhortant souvent au repentir personnel et collectif.",
+        "Bien qu'écrits à l'origine en hébreu ou en araméen, la collection ne survit qu'en manuscrits grecs et syriaques ; ils ont été regroupés sous le nom de Salomon, probablement pour le prestige et non pour l'attribution."
+      ],
+      "crossRefs": [
+        "2 Samuel 7:12–16 — Les promesses de l'alliance de Dieu à la maison de David.",
+        "Ésaïe 11:1–2 — Attente messianique d'un rejeton juste d'Isaï.",
+        "Matthieu 21:9 — \"Fils de David\" comme titre appliqué à Jésus dans les Évangiles."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fils de David",
+          "original": "Hebrew: בֶּן־דָּוִד (ben-Dāwīḏ) — Greek: υἱὸς Δαυὶδ (huios Dauid) — Aramaic: בּר דָּוִד (bar Dāwīḏ)",
+          "note": "Un titre explicite précoce pour le Messie dans ce texte, soulignant les attentes dynastiques et l'espoir d'un roi juste issu de la lignée de David."
+        }
+      ],
+      "keyTakeaway": "Les Psaumes de Salomon expriment les espoirs juifs du Ier siècle av. J.-C. au milieu de l'oppression, exhortant à la réforme morale et à la délivrance messianique."
+    }
+  ]
+}

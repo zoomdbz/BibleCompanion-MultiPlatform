@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">聖書の友</string>
+    <string name="widget_description">次の聖書の祭りの日付を表示します</string>
+    <string name="widget_calendar_description">ヘブライ暦とエッセネ暦による聖書の祭りカレンダー</string>
+    <string name="shortcut_search">検索</string>
+    <string name="shortcut_bookmarks">ブックマーク</string>
+    <string name="shortcut_continue">読み続ける</string>
+</resources>

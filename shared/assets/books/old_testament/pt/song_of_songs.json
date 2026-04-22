@@ -1,0 +1,467 @@
+{
+  "id": "song-of-songs",
+  "title": "Cantares",
+  "stories": [
+    {
+      "id": "song-of-songs-1",
+      "title": "💐 Cantares 1",
+      "refs": [
+        "Song of Songs 1:1-17"
+      ],
+      "summaryBullets": [
+        "Linha de título: \"O Cântico dos Cânticos, de Salomão\" (1:1).",
+        "A noiva diz: \"Beija-me ele com os beijos de sua boca, porque melhores são os teus amores do que o vinho\" (1:2).",
+        "\"Suave é o aroma dos teus unguentos; o teu nome é como óleo derramado; por isso as donzelas te amam\" (1:3).",
+        "\"Leva-me após ti; apressemo-nos. O rei me introduziu nos seus aposentos.\" As donzelas dizem: \"Exultaremos e nos alegraremos em ti; celebraremos os teus amores mais do que o vinho; com razão te amam\" (1:4).",
+        "A noiva diz: \"Eu sou morena, porém formosa, ó filhas de Jerusalém, como as tendas de Quedar, como as cortinas de Salomão\" (1:5).",
+        "\"Não olheis para o eu ser morena, porque o sol me queimou. Os filhos de minha mãe indignaram-se contra mim; puseram-me por guarda de vinhas; a minha vinha, porém, não a guardei\" (1:6).",
+        "Ela pergunta: \"Dize-me, ó amado de minha alma, onde apascentas o teu rebanho, onde o fazes descansar ao meio-dia; pois por que seria eu como a que anda errante junto aos rebanhos dos teus companheiros?\" (1:7).",
+        "Ele responde: \"Se tu não o sabes, ó mais formosa entre as mulheres, segue as pegadas do rebanho e apascenta as tuas cabras junto às tendas dos pastores\" (1:8).",
+        "Ele diz: \"Às éguas dos carros de Faraó eu te comparo, ó amada minha\" (1:9).",
+        "\"Formosas são as tuas faces entre os enfeites, o teu pescoço entre os colares\" (1:10).",
+        "\"Enfeites de ouro te faremos, com incrustações de prata\" (1:11).",
+        "Ela diz: \"Enquanto o rei está no seu divã, o meu nardo exala o seu aroma\" (1:12).",
+        "\"O meu amado é para mim como um saquitel de mirra posto entre os meus seios\" (1:13).",
+        "\"Como um ramalhete de hena nas vinhas de En-Gedi é o meu amado para mim\" (1:14).",
+        "Ele diz: \"Como és formosa, amada minha, como és formosa! Os teus olhos são como pombas\" (1:15).",
+        "Ela responde: \"Como és formoso, amado meu, como és agradável! O nosso leito é verdejante\" (1:16).",
+        "\"As vigas da nossa casa são de cedro; os nossos caibros, de cipreste\" (1:17)."
+      ],
+      "crossRefs": [
+        "Salmo 45:8 — Mirra, aloés e cássia nas vestes reais.",
+        "1 Samuel 24:1 — En-Gedi mencionada como uma localização no deserto.",
+        "Êxodo 14:7 — Os carros de Faraó (contexto da comparação).",
+        "Cantares 3:5 — A adjuração de não despertar o amor repetida."
+      ],
+      "translationNotes": [
+        {
+          "term": "Cântico dos cânticos",
+          "original": "Hebrew: שִׁיר הַשִּׁירִים (Shir ha-Shirim) — Greek (LXX): ᾆσμα ᾀσμάτων (Asma asmaton) — Aramaic: שיר השירים",
+          "note": "Superlativo hebraico: o mais excelente cântico."
+        },
+        {
+          "term": "Amor / amores",
+          "original": "Hebrew: אַהֲבָה (’ahavah) / דּוֹדִים (dodim, ‘caresses/loves’) — Greek (LXX): ἀγάπη / φιλία — Aramaic: חובא / רחמין",
+          "note": "Termos usados para afeição e deleites (1:2)."
+        },
+        {
+          "term": "Morena, porém formosa",
+          "original": "Hebrew: שְׁחֹרָה וְנָאוָה (sheḥorah ve-navah) — Greek: μέλαινα καὶ καλή",
+          "note": "Autodescrição em 1:5."
+        },
+        {
+          "term": "Rosa/Açafrão de Sarom; Lírio",
+          "original": "Hebrew: חֲבַצֶּלֶת הַשָּׁרוֹן (ḥavatzelet ha-Sharon), שׁוֹשַׁנָּה (shoshanah) — Greek: κρίνον",
+          "note": "Espécie exata incerta; traduzido como rosa/açafrão e lírio (2:1–2)."
+        },
+        {
+          "term": "Casa do vinho",
+          "original": "Hebrew: בֵּית הַיַּיִן (beit ha-yayin) — Greek: οἶκος οἴνου — Aramaic: בית חמרא",
+          "note": "Cenário de banquete em 2:4."
+        },
+        {
+          "term": "Não desperteis o amor",
+          "original": "Hebrew: אַל־תָּעִירוּ וְאַל־תְּעֹרְרוּ אֶת־הָאַהֲבָה עַד שֶׁתֶּחְפָּץ — Greek (LXX): μὴ ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θέλῃ",
+          "note": "Fórmula de juramento dirigida às filhas de Jerusalém (2:7)."
+        }
+      ],
+      "keyTakeaway": "O poema se abre com desejo, imagens de perfume e joias, pedidos de encontro, um cenário real, imagens de vinha e jardim, e a primeira exortação para não despertar o amor."
+    },
+    {
+      "id": "song-of-songs-2",
+      "title": "💐 Cantares 2",
+      "refs": [
+        "Song of Songs 2:1-17"
+      ],
+      "summaryBullets": [
+        "A noiva diz: \"Eu sou a rosa de Sarom, o lírio dos vales\" (2:1).",
+        "Ele responde: \"Qual o lírio entre os espinhos, tal é a minha amada entre as donzelas\" (2:2).",
+        "Ela diz: \"Qual a macieira entre as árvores do bosque, tal é o meu amado entre os jovens. À sua sombra desejei muito sentar-me, e o seu fruto era doce ao meu paladar\" (2:3).",
+        "\"Levou-me à sala do banquete, e o seu estandarte sobre mim era amor\" (2:4).",
+        "\"Sustentai-me com passas, confortai-me com maçãs, porque desfaleço de amor\" (2:5).",
+        "\"A sua mão esquerda esteja debaixo da minha cabeça, e a sua mão direita me abrace\" (2:6).",
+        "\"Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do campo, que não acordeis nem desperteis o amor, até que ele o queira\" (2:7).",
+        "A noiva diz: \"Eis a voz do meu amado! Ei-lo aí, que vem saltando sobre os montes, pulando sobre os outeiros\" (2:8).",
+        "\"O meu amado é semelhante ao gamo, ou ao filho das cervas. Ei-lo aí, está detrás da nossa parede, olhando pelas janelas, espreitando pelas grades\" (2:9).",
+        "\"O meu amado falou e me disse: Levanta-te, amada minha, formosa minha, e vem\" (2:10).",
+        "\"Porque eis que passou o inverno; a chuva cessou e se foi\" (2:11).",
+        "\"Aparecem as flores na terra, chegou o tempo de cantar, e a voz da rola ouve-se na nossa terra\" (2:12).",
+        "\"A figueira começa a dar os seus figos, e as vides em flor exalam o seu aroma. Levanta-te, amada minha, formosa minha, e vem\" (2:13).",
+        "\"Pomba minha, que andas nas fendas do rochedo, no esconderijo das penhas escarpadas, mostra-me o teu rosto, faze-me ouvir a tua voz, porque a tua voz é doce, e o teu rosto é amável\" (2:14).",
+        "\"Apanhai-nos as raposas, as raposinhas, que estragam as vinhas, porque as nossas vinhas estão em flor\" (2:15).",
+        "\"O meu amado é meu, e eu sou dele; ele apascenta entre os lírios\" (2:16).",
+        "\"Até que sopre o dia e fujam as sombras, volta, amado meu; sê semelhante ao gamo ou ao filho das cervas sobre os montes de Béter\" (2:17)."
+      ],
+      "crossRefs": [
+        "Salmo 45:8 — Mirra, aloés e cássia nas vestes reais.",
+        "1 Samuel 24:1 — En-Gedi mencionada como uma localização no deserto.",
+        "Êxodo 14:7 — Os carros de Faraó (contexto da comparação).",
+        "Cantares 3:5 — A adjuração de não despertar o amor repetida."
+      ],
+      "translationNotes": [
+        {
+          "term": "Cântico dos cânticos",
+          "original": "Hebrew: שִׁיר הַשִּׁירִים (Shir ha-Shirim) — Greek (LXX): ᾆσμα ᾀσμάτων (Asma asmaton) — Aramaic: שיר השירים",
+          "note": "Superlativo hebraico: o mais excelente cântico."
+        },
+        {
+          "term": "Amor / amores",
+          "original": "Hebrew: אַהֲבָה (’ahavah) / דּוֹדִים (dodim, ‘caresses/loves’) — Greek (LXX): ἀγάπη / φιλία — Aramaic: חובא / רחמין",
+          "note": "Termos usados para afeição e deleites (1:2)."
+        },
+        {
+          "term": "Morena, porém formosa",
+          "original": "Hebrew: שְׁחֹרָה וְנָאוָה (sheḥorah ve-navah) — Greek: μέλαινα καὶ καλή",
+          "note": "Autodescrição em 1:5."
+        },
+        {
+          "term": "Rosa/Açafrão de Sarom; Lírio",
+          "original": "Hebrew: חֲבַצֶּלֶת הַשָּׁרוֹן (ḥavatzelet ha-Sharon), שׁוֹשַׁנָּה (shoshanah) — Greek: κρίνον",
+          "note": "Espécie exata incerta; traduzido como rosa/açafrão e lírio (2:1–2)."
+        },
+        {
+          "term": "Casa do vinho",
+          "original": "Hebrew: בֵּית הַיַּיִן (beit ha-yayin) — Greek: οἶκος οἴνου — Aramaic: בית חמרא",
+          "note": "Cenário de banquete em 2:4."
+        },
+        {
+          "term": "Não desperteis o amor",
+          "original": "Hebrew: אַל־תָּעִירוּ וְאַל־תְּעֹרְרוּ אֶת־הָאַהֲבָה עַד שֶׁתֶּחְפָּץ — Greek (LXX): μὴ ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θέλῃ",
+          "note": "Fórmula de juramento dirigida às filhas de Jerusalém (2:7)."
+        }
+      ],
+      "keyTakeaway": "O poema se abre com desejo, imagens de perfume e joias, pedidos de encontro, um cenário real, imagens de vinha e jardim, e a primeira exortação para não despertar o amor."
+    },
+    {
+      "id": "song-of-songs-3",
+      "title": "🦌 Cantares 3",
+      "refs": [
+        "Song of Songs 3:1-11"
+      ],
+      "summaryBullets": [
+        "A noiva relata: \"De noite, na minha cama, busquei aquele a quem a minha alma ama; busquei-o e não o achei\" (3:1).",
+        "\"Levantar-me-ei agora e percorrerei a cidade; pelas ruas e pelas praças buscarei aquele a quem a minha alma ama. Busquei-o e não o achei\" (3:2).",
+        "\"Encontraram-me os guardas que rondavam a cidade, e eu lhes disse: Vistes aquele a quem a minha alma ama?\" (3:3).",
+        "\"Mal os tinha passado, encontrei aquele a quem a minha alma ama; agarrei-me a ele e não o larguei até que o levei à casa de minha mãe, ao aposento daquela que me concebeu\" (3:4).",
+        "\"Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do campo, que não acordeis nem desperteis o amor, até que ele o queira\" (3:5).",
+        "\"Que é isso que sobe do deserto como colunas de fumo, perfumado de mirra e de incenso e de toda sorte de pós aromáticos?\" (3:6).",
+        "\"Eis que é a liteira de Salomão! Sessenta valentes a rodeiam, dos valentes de Israel\" (3:7).",
+        "\"Todos empunham espada, são peritos na guerra; cada um traz a espada ao lado, por causa dos temores noturnos\" (3:8).",
+        "\"O rei Salomão fez para si um palanquim de madeira do Líbano\" (3:9).",
+        "\"Fez as suas colunas de prata, o seu estrado de ouro, o seu assento de púrpura; o seu interior foi revestido de amor pelas filhas de Jerusalém\" (3:10).",
+        "\"Saí, ó filhas de Sião, e contemplai o rei Salomão com a coroa com que sua mãe o coroou no dia do seu casamento, no dia da alegria do seu coração\" (3:11)."
+      ],
+      "crossRefs": [
+        "Jeremias 8:7 — A rola e a consciência sazonal.",
+        "Juízes 15:4 — Raposas mencionadas em outro contexto (contexto diferente).",
+        "Cantares 8:14 — Imagem da gazela e convite final.",
+        "Cantares 3:5 — Locais do refrão."
+      ],
+      "translationNotes": [
+        {
+          "term": "Montes de Beter",
+          "original": "Hebrew: הָרֵי בָתֶר (harei Bater) — Greek (LXX): ὄρη κοιλωμάτων — Aramaic: טוּרֵי פוּלְגָא",
+          "note": "Pode ser um nome de lugar ou \"separação/fenda\" (2:17)."
+        },
+        {
+          "term": "Raposas",
+          "original": "Hebrew: שׁוּעָלִים (shuʿalim) — Greek: ἀλώπεκες — Aramaic: תַנְיָנִין (alt. dialectal forms)",
+          "note": "Nomeadas como destruidoras de vinhas (2:15)."
+        },
+        {
+          "term": "Guardas",
+          "original": "Hebrew: הַשֹּׁמְרִים (ha-shomrim) — Greek: φύλακες — Aramaic: נטוריא",
+          "note": "Guardas da cidade encontrados durante a busca (3:3)."
+        },
+        {
+          "term": "Filhas de Jerusalém",
+          "original": "Hebrew: בְּנוֹת יְרוּשָׁלַ͏ִם (benot Yerushalayim) — Greek: θυγατέρες Ἰερουσαλήμ",
+          "note": "Coro a quem se dirigem as adjurações e refrões."
+        }
+      ],
+      "keyTakeaway": "O amado convida na primavera; o cuidado da vinha é urgido; uma busca noturna pela cidade termina com o encontro e a condução dele para casa; a exortação para não despertar o amor é repetida."
+    },
+    {
+      "id": "song-of-songs-4",
+      "title": "👑 Cantares 4",
+      "refs": [
+        "Song of Songs 4:1-16"
+      ],
+      "summaryBullets": [
+        "Ele elogia a noiva: \"Como és formosa, amada minha, como és formosa! Os teus olhos são como pombas por detrás do teu véu. O teu cabelo é como o rebanho de cabras que descem ondeantes do monte Gileade\" (4:1).",
+        "\"Os teus dentes são como o rebanho de ovelhas recém-tosquiadas que sobem do lavadouro, e todas elas têm crias gêmeas, e nenhuma delas é estéril\" (4:2).",
+        "\"Os teus lábios são como um fio de escarlata, e a tua boca é formosa. As tuas faces são como metades de romã por detrás do teu véu\" (4:3).",
+        "\"O teu pescoço é como a torre de Davi, edificada para pendurar armas; mil escudos pendem dela, todos eles escudos de guerreiros\" (4:4).",
+        "\"Os teus dois seios são como duas crias gêmeas de gazela, que pastam entre os lírios\" (4:5).",
+        "\"Até que sopre o dia e fujam as sombras, irei ao monte da mirra e ao outeiro do incenso\" (4:6).",
+        "\"Tu és toda formosa, amada minha, e em ti não há defeito\" (4:7).",
+        "\"Vem comigo do Líbano, esposa minha; vem comigo do Líbano. Olha desde o cimo de Amana, desde o cimo de Senir e de Hermom, desde os covis dos leões, desde os montes dos leopardos\" (4:8).",
+        "\"Prendeste-me o coração, minha irmã, esposa minha; prendeste-me o coração com um só dos teus olhares, com uma só conta do teu colar\" (4:9).",
+        "\"Que belos são os teus amores, minha irmã, esposa minha! Quanto melhores são os teus amores do que o vinho, e a fragrância dos teus unguentos do que todas as especiarias!\" (4:10).",
+        "\"Favos de mel manam dos teus lábios, esposa minha; mel e leite estão debaixo da tua língua; e a fragrância dos teus vestidos é como a fragrância do Líbano\" (4:11).",
+        "\"Jardim fechado és tu, minha irmã, esposa minha; manancial fechado, fonte selada\" (4:12).",
+        "\"Os teus renovos são um pomar de romãs, com frutos excelentes, hena e nardos\" (4:13).",
+        "\"Nardo e açafrão, cálamo e canela, com toda sorte de árvores de incenso; mirra e aloés, com todas as principais especiarias\" (4:14).",
+        "\"Tu és a fonte dos jardins, poço de águas vivas e correntes que manam do Líbano\" (4:15).",
+        "A noiva diz: \"Levanta-te, vento norte, e vem tu, vento sul; assopra no meu jardim, para que se espalhem os seus aromas. Venha o meu amado para o seu jardim e coma os seus frutos excelentes\" (4:16)."
+      ],
+      "crossRefs": [
+        "Salmo 45:13–15 — Procissão real e imagens de casamento.",
+        "1 Reis 10:18–20 — O trono de Salomão e o esplendor real.",
+        "Deuteronômio 3:9 — Senir como outro nome para Hermom (nota geográfica).",
+        "Êxodo 30:34 — Incenso entre as especiarias sagradas; Ester 2:12 — Mirra usada nas preparações."
+      ],
+      "translationNotes": [
+        {
+          "term": "Liteira / palanquim",
+          "original": "Hebrew: אַפִּרְיוֹן (appiryōn) — Greek (LXX): φορεῖον — Aramaic: אפריון",
+          "note": "Leito/veículo carregado em 3:9–10."
+        },
+        {
+          "term": "Sessenta homens valentes",
+          "original": "Hebrew: שִׁשִּׁים גִּבּוֹרִים (shishim gibbōrim) — Greek: ἑξήκοντα δυνατοί",
+          "note": "Escolta armada ao redor da liteira (3:7–8)."
+        },
+        {
+          "term": "Minha irmã, minha noiva",
+          "original": "Hebrew: אֲחֹתִי כַלָּה (aḥoti kallah) — Greek: ἀδελφή μου νύμφη — Aramaic: אחתִי כלתא",
+          "note": "Termo de carinho combinado com \"noiva\" (4:9–12; 5:1)."
+        },
+        {
+          "term": "Jardim fechado / manancial selado",
+          "original": "Hebrew: גַּן נָעוּל… מַעְיָן נָעוּל, מָקוֹר חָתוּם — Greek: κῆπος κεκλεισμένος… πηγὴ κεκλεισμένη, πηγή σφραγισμένη",
+          "note": "Metáforas de jardim cercado e fonte selada (4:12)."
+        },
+        {
+          "term": "Líbano; Amana; Senir; Hermom",
+          "original": "Hebrew place names: לְבָנוֹן, אֲמָנָה, שְׂנִיר, חֶרְמוֹן",
+          "note": "Marcadores geográficos em 4:8 e nos elogios ao redor."
+        },
+        {
+          "term": "Comei, amigos",
+          "original": "Hebrew: אִכְלוּ רֵעִים (ikhlu re‘im) — Greek (LXX): φάγετε φίλοι",
+          "note": "Convite proferido em 5:1 aos companheiros."
+        }
+      ],
+      "keyTakeaway": "Uma procissão perfumada conduz à liteira de Salomão e a uma cena real, seguida de extenso elogio à mulher, convites com imagens do Líbano e do jardim, e um chamado final: \"Comei, amigos; bebei.\""
+    },
+    {
+      "id": "song-of-songs-5",
+      "title": "👑 Cantares 5",
+      "refs": [
+        "Song of Songs 5:1-16"
+      ],
+      "summaryBullets": [
+        "Ele responde: \"Entrei no meu jardim, minha irmã, esposa minha; colhi a minha mirra com as minhas especiarias; comi o meu favo com o meu mel; bebi o meu vinho com o meu leite. Comei, amigos, bebei e embriagai-vos de amor!\" (5:1).",
+        "A noiva diz: \"Eu dormia, mas o meu coração velava. É a voz do meu amado que bate: Abre-me, minha irmã, amada minha, pomba minha, perfeita minha, porque a minha cabeça está cheia de orvalho, os meus cabelos das gotas da noite\" (5:2).",
+        "\"Já despi a minha veste; como a tornarei a vestir? Já lavei os meus pés; como os tornarei a sujar?\" (5:3).",
+        "\"O meu amado meteu a mão pela fresta, e o meu interior se comoveu por ele\" (5:4).",
+        "\"Levantei-me para abrir ao meu amado, e as minhas mãos destilaram mirra, e os meus dedos mirra líquida sobre a fechadura\" (5:5).",
+        "\"Abri ao meu amado, mas o meu amado já se tinha retirado. A minha alma saiu de mim quando ele falou. Busquei-o e não o achei; chamei-o e não me respondeu\" (5:6).",
+        "\"Encontraram-me os guardas que rondavam a cidade; espancaram-me, feriram-me; tiraram-me o manto os guardas dos muros\" (5:7).",
+        "\"Conjuro-vos, ó filhas de Jerusalém, se encontrardes o meu amado, que lhe digais que desfaleço de amor\" (5:8).",
+        "As donzelas perguntam: \"Que é o teu amado mais do que outro amado, ó mais formosa entre as mulheres? Que é o teu amado mais do que outro amado, que assim nos conjuras?\" (5:9).",
+        "Ela responde: \"O meu amado é alvo e rosado, o mais distinguido entre dez mil\" (5:10).",
+        "\"A sua cabeça é como o ouro mais fino; os seus cabelos são anelados, negros como o corvo\" (5:11).",
+        "\"Os seus olhos são como pombas junto a ribeiros de águas, lavados em leite, postos como pedras de engaste\" (5:12).",
+        "\"As suas faces são como canteiro de bálsamo, como colinas de ervas aromáticas; os seus lábios são lírios que destilam mirra líquida\" (5:13).",
+        "\"As suas mãos são como anéis de ouro engastados de berilo; o seu ventre é como alvo marfim coberto de safiras\" (5:14).",
+        "\"As suas pernas são como colunas de mármore assentes em bases de ouro fino; o seu aspecto é como o Líbano, excelente como os cedros\" (5:15).",
+        "\"O seu falar é muitíssimo doce; sim, ele é totalmente desejável. Tal é o meu amado, tal é o meu companheiro, ó filhas de Jerusalém\" (5:16)."
+      ],
+      "crossRefs": [
+        "Salmo 45:13–15 — Procissão real e imagens de casamento.",
+        "1 Reis 10:18–20 — O trono de Salomão e o esplendor real.",
+        "Deuteronômio 3:9 — Senir como outro nome para Hermom (nota geográfica).",
+        "Êxodo 30:34 — Incenso entre as especiarias sagradas; Ester 2:12 — Mirra usada nas preparações."
+      ],
+      "translationNotes": [
+        {
+          "term": "Liteira / palanquim",
+          "original": "Hebrew: אַפִּרְיוֹן (appiryōn) — Greek (LXX): φορεῖον — Aramaic: אפריון",
+          "note": "Leito/veículo carregado em 3:9–10."
+        },
+        {
+          "term": "Sessenta homens valentes",
+          "original": "Hebrew: שִׁשִּׁים גִּבּוֹרִים (shishim gibbōrim) — Greek: ἑξήκοντα δυνατοί",
+          "note": "Escolta armada ao redor da liteira (3:7–8)."
+        },
+        {
+          "term": "Minha irmã, minha noiva",
+          "original": "Hebrew: אֲחֹתִי כַלָּה (aḥoti kallah) — Greek: ἀδελφή μου νύμφη — Aramaic: אחתִי כלתא",
+          "note": "Termo de carinho combinado com \"noiva\" (4:9–12; 5:1)."
+        },
+        {
+          "term": "Jardim fechado / manancial selado",
+          "original": "Hebrew: גַּן נָעוּל… מַעְיָן נָעוּל, מָקוֹר חָתוּם — Greek: κῆπος κεκλεισμένος… πηγὴ κεκλεισμένη, πηγή σφραγισμένη",
+          "note": "Metáforas de jardim cercado e fonte selada (4:12)."
+        },
+        {
+          "term": "Líbano; Amana; Senir; Hermom",
+          "original": "Hebrew place names: לְבָנוֹן, אֲמָנָה, שְׂנִיר, חֶרְמוֹן",
+          "note": "Marcadores geográficos em 4:8 e nos elogios ao redor."
+        },
+        {
+          "term": "Comei, amigos",
+          "original": "Hebrew: אִכְלוּ רֵעִים (ikhlu re‘im) — Greek (LXX): φάγετε φίλοι",
+          "note": "Convite proferido em 5:1 aos companheiros."
+        }
+      ],
+      "keyTakeaway": "Uma procissão perfumada conduz à liteira de Salomão e a uma cena real, seguida de extenso elogio à mulher, convites com imagens do Líbano e do jardim, e um chamado final: \"Comei, amigos; bebei.\""
+    },
+    {
+      "id": "song-of-songs-6",
+      "title": "🌙 Cantares 6",
+      "refs": [
+        "Song of Songs 6:1-13"
+      ],
+      "summaryBullets": [
+        "As donzelas perguntam: \"Para onde foi o teu amado, ó mais formosa entre as mulheres? Para onde se dirigiu o teu amado, para que o busquemos contigo?\" (6:1).",
+        "Ela responde: \"O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para apascentar nos jardins e colher lírios\" (6:2).",
+        "\"Eu sou do meu amado, e o meu amado é meu; ele apascenta entre os lírios\" (6:3).",
+        "Ele diz: \"Formosa és, amada minha, como Tirza; aprazível como Jerusalém; terrível como um exército com bandeiras\" (6:4).",
+        "\"Desvia de mim os teus olhos, porque eles me perturbam. O teu cabelo é como o rebanho de cabras que descem ondeantes de Gileade\" (6:5).",
+        "\"Os teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e todas elas têm crias gêmeas, e estéril não há entre elas\" (6:6).",
+        "\"As tuas faces são como metades de romã por detrás do teu véu\" (6:7).",
+        "\"Sessenta são as rainhas, oitenta as concubinas, e as donzelas sem número\" (6:8).",
+        "\"Mas uma só é a minha pomba, a minha perfeita; é a única de sua mãe, a predileta daquela que a deu à luz. Viram-na as donzelas e a proclamaram bem-aventurada; também as rainhas e as concubinas a louvaram\" (6:9).",
+        "\"Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, terrível como um exército com bandeiras?\" (6:10).",
+        "\"Desci ao jardim das nogueiras para ver os renovos do vale, para ver se brotavam as vides, se floresciam as romãzeiras\" (6:11).",
+        "\"Antes que eu o percebesse, a minha alma me pôs entre os carros do meu nobre povo\" (6:12).",
+        "\"Volta, volta, ó sulamita; volta, volta, para que te contemplemos.\" \"Por que haveis de contemplar a sulamita, como a dança de Maanaim?\" (6:13)."
+      ],
+      "crossRefs": [
+        "Cantares 3:2–3 — Busca anterior pela cidade e encontro com os guardas.",
+        "Salmo 141:2 — Oração como incenso; imagens de lábios e lírios (motivo de fragrância).",
+        "Provérbios 27:9 — Óleo e perfume alegram o coração (imagem de fragrância).",
+        "Cantares 2:16 — Anterior \"O meu amado é meu, e eu sou dele.\""
+      ],
+      "translationNotes": [
+        {
+          "term": "Guardas / guardiões dos muros",
+          "original": "Hebrew: הַשֹּׁמְרִים (ha-shomrim) / שֹׁמְרֵי הַחֹמוֹת (shomrê ha-ḥomot)",
+          "note": "Guardas da cidade que golpeiam, ferem e removem o véu (5:7)."
+        },
+        {
+          "term": "Enferma de amor",
+          "original": "Hebrew: חוֹלַת אַהֲבָה (ḥolat ’ahavah) — Greek (LXX): τετρωμένη ἀγάπης — Aramaic: חליאת רחמין",
+          "note": "Anseio intenso (5:8)."
+        },
+        {
+          "term": "Totalmente desejável",
+          "original": "Hebrew: כֻּלּוֹ מַחֲמַדִּים (kullō maḥamadim) — Greek (LXX): ὅλος ἐπιθυμητός",
+          "note": "Avaliação final do amado em 5:16."
+        },
+        {
+          "term": "Eu sou do meu amado",
+          "original": "Hebrew: אֲנִי לְדוֹדִי (’ani le-dodi) — Greek (LXX): ἐγὼ τῷ ἀγαπητῷ μου — Aramaic: אנא לדידי",
+          "note": "Fórmula de posse/afeição repetida no Cântico (6:3)."
+        }
+      ],
+      "keyTakeaway": "Uma visita noturna é perdida; os guardas a espancam e tiram seu véu; ela dá uma descrição detalhada do seu amado e afirma: \"Eu sou do meu amado e o meu amado é meu.\""
+    },
+    {
+      "id": "song-of-songs-7",
+      "title": "🏵️ Cantares 7",
+      "refs": [
+        "Song of Songs 7:1-13"
+      ],
+      "summaryBullets": [
+        "\"Quão formosos são os teus pés nas sandálias, ó filha de príncipe! As curvas dos teus quadris são como jóias, obra de mão de artista\" (7:1).",
+        "\"O teu umbigo é taça redonda, a que não falta vinho mesclado; o teu ventre é monte de trigo cercado de lírios\" (7:2).",
+        "\"Os teus dois seios são como duas crias gêmeas de gazela\" (7:3).",
+        "\"O teu pescoço é como torre de marfim; os teus olhos são como as piscinas de Hesbom, junto à porta de Bate-Rabim; o teu nariz é como a torre do Líbano, que olha para Damasco\" (7:4).",
+        "\"A tua cabeça é como o Carmelo; as tranças da tua cabeça são como a púrpura; um rei está preso nas tuas madeixas\" (7:5).",
+        "\"Quão formosa e quão aprazível és, ó amor em delícias!\" (7:6).",
+        "\"A tua estatura é semelhante à palmeira, e os teus seios aos cachos\" (7:7).",
+        "\"Eu disse: Subirei à palmeira, pegarei nos seus ramos. Sejam os teus seios como cachos de uvas, e o aroma da tua respiração como maçãs\" (7:8).",
+        "\"E o teu paladar como o bom vinho.\" Ela acrescenta: \"Que se escore suavemente para o meu amado, deslizando entre lábios e dentes\" (7:9).",
+        "A noiva diz: \"Eu sou do meu amado, e ele me tem afeição\" (7:10).",
+        "\"Vem, amado meu, saiamos ao campo, passemos a noite nas aldeias\" (7:11).",
+        "\"Levantemo-nos de manhã para ir às vinhas; vejamos se já brotam as vides, se as flores se abrem, se já florescem as romãzeiras. Ali te darei os meus amores\" (7:12).",
+        "\"As mandrágoras exalam o seu aroma, e às nossas portas há toda sorte de frutos excelentes, novos e velhos, que eu guardei, ó amado meu, para ti\" (7:13)."
+      ],
+      "crossRefs": [
+        "Josué 12:24; 1 Reis 14:17; 16:6–9 — Tirza mencionada como cidade real.",
+        "Salmo 48:1–2 — Louvor a Sião/Jerusalém (beleza da cidade).",
+        "Gênesis 30:14 — Mandrágoras mencionadas em outro lugar (fragrância/fruto).",
+        "Cantares 2:7 — Ocorrências anteriores do refrão."
+      ],
+      "translationNotes": [
+        {
+          "term": "Formidável como exércitos com bandeiras",
+          "original": "Hebrew: אֲיֻמָּה כַּנִּדְגָּלוֹת (’ayummāh ka-niddgalot)",
+          "note": "Imagem que a compara a um exército imponente com estandartes (6:4-10)."
+        },
+        {
+          "term": "Ami-Nadibe (texto difícil)",
+          "original": "Hebrew: עַמִּינָדִיב (’Ammi-nadiv) — reading uncertain",
+          "note": "Frase em 6:12 é difícil; existem muitas interpretações sobre carruagens/pessoas nobres; mantido como escrito."
+        },
+        {
+          "term": "Sulamita",
+          "original": "Hebrew: הַשּׁוּלַמִּית (ha-Shulammît)",
+          "note": "Designação para a mulher em 6:13; derivação exata incerta; hebraico fornecido para evitar associações equivocadas."
+        },
+        {
+          "term": "Desejo",
+          "original": "Hebrew: תְּשׁוּקָה (teshuqah) — Greek (LXX): ἐπιστροφή/πόθος (var. renderings) — Aramaic: תשוקתה",
+          "note": "Termo em 7:10 para o desejo do amado por ela."
+        }
+      ],
+      "keyTakeaway": "Ele a compara a Tirza e Jerusalém e a exércitos com bandeiras; segue-se um chamado à Sulamita e elogios detalhados, com convites ao jardim e ao campo, \"Eu sou do meu amado\", e o refrão de não despertar o amor."
+    },
+    {
+      "id": "song-of-songs-8",
+      "title": "🏵️ Cantares 8",
+      "refs": [
+        "Song of Songs 8:1-14"
+      ],
+      "summaryBullets": [
+        "\"Quem me dera que fosses como meu irmão, que mamou os seios de minha mãe! Encontrando-te fora, beijar-te-ia, e não me desprezariam\" (8:1).",
+        "\"Levar-te-ia e te introduziria na casa de minha mãe, e tu me ensinarias; eu te daria a beber vinho aromático, o mosto das minhas romãs\" (8:2).",
+        "\"A sua mão esquerda esteja debaixo da minha cabeça, e a sua mão direita me abrace\" (8:3).",
+        "\"Conjuro-vos, ó filhas de Jerusalém, que não acordeis nem desperteis o amor, até que ele o queira\" (8:4).",
+        "\"Quem é esta que sobe do deserto, encostada sobre o seu amado?\" \"Debaixo da macieira te despertei; ali esteve de parto a tua mãe; ali esteve de parto aquela que te deu à luz\" (8:5).",
+        "\"Põe-me como selo sobre o teu coração, como selo sobre o teu braço, porque o amor é forte como a morte, e duro como o sepulcro o ciúme; as suas brasas são brasas de fogo, labaredas do Senhor\" (8:6).",
+        "\"As muitas águas não poderiam apagar o amor, nem os rios o afogar; ainda que alguém desse todos os bens da sua casa pelo amor, certamente o desprezariam\" (8:7).",
+        "\"Temos uma irmã pequena que ainda não tem seios. Que faremos à nossa irmã no dia em que dela se falar?\" (8:8).",
+        "\"Se ela é muro, edificaremos sobre ela uma torre de prata; se é porta, cercá-la-emos com tábuas de cedro\" (8:9).",
+        "\"Eu sou muro, e os meus seios são como as suas torres; então era eu aos seus olhos como aquela que acha paz\" (8:10).",
+        "\"Salomão teve uma vinha em Baal-Hamom; entregou-a a guardas, e cada um devia trazer pelo seu fruto mil peças de prata\" (8:11).",
+        "\"A minha vinha, que é minha, está diante de mim; as mil peças de prata são para ti, ó Salomão, e duzentas para os que guardam o seu fruto\" (8:12).",
+        "\"Ó tu que habitas nos jardins, os companheiros escutam a tua voz; faze-me ouvi-la\" (8:13).",
+        "\"Apressa-te, amado meu, e faze-te semelhante ao gamo ou ao filho das cervas sobre os montes aromáticos\" (8:14)."
+      ],
+      "crossRefs": [
+        "Josué 12:24; 1 Reis 14:17; 16:6–9 — Tirza mencionada como cidade real.",
+        "Salmo 48:1–2 — Louvor a Sião/Jerusalém (beleza da cidade).",
+        "Gênesis 30:14 — Mandrágoras mencionadas em outro lugar (fragrância/fruto).",
+        "Cantares 2:7 — Ocorrências anteriores do refrão."
+      ],
+      "translationNotes": [
+        {
+          "term": "Formidável como exércitos com bandeiras",
+          "original": "Hebrew: אֲיֻמָּה כַּנִּדְגָּלוֹת (’ayummāh ka-niddgalot)",
+          "note": "Imagem que a compara a um exército imponente com estandartes (6:4-10)."
+        },
+        {
+          "term": "Ami-Nadibe (texto difícil)",
+          "original": "Hebrew: עַמִּינָדִיב (’Ammi-nadiv) — reading uncertain",
+          "note": "Frase em 6:12 é difícil; existem muitas interpretações sobre carruagens/pessoas nobres; mantido como escrito."
+        },
+        {
+          "term": "Sulamita",
+          "original": "Hebrew: הַשּׁוּלַמִּית (ha-Shulammît)",
+          "note": "Designação para a mulher em 6:13; derivação exata incerta; hebraico fornecido para evitar associações equivocadas."
+        },
+        {
+          "term": "Desejo",
+          "original": "Hebrew: תְּשׁוּקָה (teshuqah) — Greek (LXX): ἐπιστροφή/πόθος (var. renderings) — Aramaic: תשוקתה",
+          "note": "Termo em 7:10 para o desejo do amado por ela."
+        }
+      ],
+      "keyTakeaway": "Ele a compara a Tirza e Jerusalém e a exércitos com bandeiras; segue-se um chamado à Sulamita e elogios detalhados, com convites ao jardim e ao campo, \"Eu sou do meu amado\", e o refrão de não despertar o amor."
+    }
+  ]
+}

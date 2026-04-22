@@ -1,0 +1,38 @@
+{
+  "id": "testaments_twelve_patriarchs",
+  "title": "Testamenti dei Dodici Patriarchi",
+  "stories": [
+    {
+      "id": "testaments_twelve_patriarchs-1",
+      "title": "📜 Testamenti dei Dodici Patriarchi",
+      "refs": [
+        "Testaments of the Twelve Patriarchs 1"
+      ],
+      "summaryBullets": [
+        "Una raccolta pseudepigrafica di dodici discorsi attribuiti ai figli di Giacobbe, composta intorno al II secolo a.C., che fonde autobiografia, esortazioni etiche e visioni profetiche.",
+        "Ciascun patriarca (per esempio Ruben, Simeone, Levi, ecc.) racconta gli eventi della propria vita, mette in guardia contro un vizio particolare o esorta a una virtù legata alla propria storia, poi predice il futuro dei suoi discendenti.",
+        "Struttura ricorrente: una testimonianza personale, un'istruzione morale e talvolta una profezia apocalittica o messianica, spesso conclusa con la morte e la sepoltura del patriarca.",
+        "Forte accento etico: virtù come l'amore, la misericordia e la verità sono esaltate; vizi come l'orgoglio, l'invidia, la fornicazione e l'odio sono condannati. Giuseppe è costantemente presentato come modello di virtù.",
+        "Contiene schemi Peccato-Esilio-Ritorno (PER), in particolare in Levi, Giuda, Dan, Neftali, Gad e Beniamino, ciascuno con confessioni, immagini di esilio e speranza di ritorno."
+      ],
+      "crossRefs": [
+        "Genesi 49 — Benedizioni di Giacobbe sui suoi figli.",
+        "Giosuè 23–24 — Esortazione finale alla fedeltà di Israele.",
+        "Proverbi 3:11–12 — La disciplina del Signore affina la virtù."
+      ],
+      "translationNotes": [
+        {
+          "term": "Testamento",
+          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony') — Greek: διαθήκη (diathḗkē) — Aramaic: סָפְרָא (səfrāʾ, 'book')",
+          "note": "Qui designa un lascito sul letto di morte o un discorso finale destinato a istruire i discendenti, inserendosi nel genere della letteratura testamentaria."
+        },
+        {
+          "term": "Schema Peccato-Esilio-Ritorno (PER)",
+          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense) — English: SER motif",
+          "note": "Uno schema letterario nei testi biblici e pseudepigrafici: il peccato conduce all'esilio, seguito dalla restaurazione o dal ritorno, usato per inquadrare la storia morale e comunitaria."
+        }
+      ],
+      "keyTakeaway": "I Testamenti presentano commiati etici e profetici dei figli di Giacobbe, esortando alla fedeltà morale e offrendo la speranza di una restaurazione."
+    }
+  ]
+}

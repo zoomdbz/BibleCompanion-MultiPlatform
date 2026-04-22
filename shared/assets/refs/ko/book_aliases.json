@@ -1,0 +1,1228 @@
+[
+  {
+    "canon": "창세기",
+    "aliases": [
+      "창세기",
+      "창세",
+      "창",
+      "Genesis"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "출애굽기",
+    "aliases": [
+      "출애굽기",
+      "출애굽",
+      "출",
+      "Exodus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "레위기",
+    "aliases": [
+      "레위기",
+      "레위",
+      "레",
+      "Leviticus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "민수기",
+    "aliases": [
+      "민수기",
+      "민수",
+      "민",
+      "Numbers"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "신명기",
+    "aliases": [
+      "신명기",
+      "신명",
+      "신",
+      "Deuteronomy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "여호수아",
+    "aliases": [
+      "여호수아",
+      "여호",
+      "수",
+      "Joshua"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "사사기",
+    "aliases": [
+      "사사기",
+      "사사",
+      "삿",
+      "Judges"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "룻기",
+    "aliases": [
+      "룻기",
+      "룻",
+      "Ruth"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "사무엘상",
+    "aliases": [
+      "사무엘상",
+      "삼상",
+      "1사무엘",
+      "1 Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "사무엘하",
+    "aliases": [
+      "사무엘하",
+      "삼하",
+      "2사무엘",
+      "2 Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "열왕기상",
+    "aliases": [
+      "열왕기상",
+      "왕상",
+      "1열왕기",
+      "1 Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "열왕기하",
+    "aliases": [
+      "열왕기하",
+      "왕하",
+      "2열왕기",
+      "2 Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "역대상",
+    "aliases": [
+      "역대상",
+      "대상",
+      "1역대",
+      "1 Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "역대하",
+    "aliases": [
+      "역대하",
+      "대하",
+      "2역대",
+      "2 Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "에스라",
+    "aliases": [
+      "에스라",
+      "스라",
+      "Ezra",
+      "에즈라"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "느헤미야",
+    "aliases": [
+      "느헤미야",
+      "느헤",
+      "Nehemiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "에스더",
+    "aliases": [
+      "에스더",
+      "에스",
+      "Esther",
+      "에스테르"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "욥기",
+    "aliases": [
+      "욥기",
+      "욥",
+      "Job"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "시편",
+    "aliases": [
+      "시편",
+      "시",
+      "Psalms"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "잠언",
+    "aliases": [
+      "잠언",
+      "잠",
+      "Proverbs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "전도서",
+    "aliases": [
+      "전도서",
+      "전도",
+      "전",
+      "Ecclesiastes"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "아가",
+    "aliases": [
+      "아가",
+      "아",
+      "Song of Songs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "이사야",
+    "aliases": [
+      "이사야",
+      "사",
+      "Isaiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "예레미야",
+    "aliases": [
+      "예레미야",
+      "렘",
+      "Jeremiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "예레미야 애가",
+    "aliases": [
+      "예레미야 애가",
+      "애가",
+      "애",
+      "Lamentations",
+      "예레미야애가"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "에스겔",
+    "aliases": [
+      "에스겔",
+      "겔",
+      "Ezekiel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "다니엘",
+    "aliases": [
+      "다니엘",
+      "단",
+      "Daniel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "호세아",
+    "aliases": [
+      "호세아",
+      "호",
+      "Hosea"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "요엘",
+    "aliases": [
+      "요엘",
+      "욜",
+      "Joel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "아모스",
+    "aliases": [
+      "아모스",
+      "암",
+      "Amos"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "오바댜",
+    "aliases": [
+      "오바댜",
+      "옵",
+      "Obadiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "요나",
+    "aliases": [
+      "요나",
+      "욘",
+      "Jonah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "미가",
+    "aliases": [
+      "미가",
+      "미",
+      "Micah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "나훔",
+    "aliases": [
+      "나훔",
+      "나",
+      "Nahum"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "하박국",
+    "aliases": [
+      "하박국",
+      "합",
+      "Habakkuk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "스바냐",
+    "aliases": [
+      "스바냐",
+      "습",
+      "Zephaniah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "학개",
+    "aliases": [
+      "학개",
+      "학",
+      "Haggai"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "스가랴",
+    "aliases": [
+      "스가랴",
+      "슥",
+      "Zechariah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "말라기",
+    "aliases": [
+      "말라기",
+      "말",
+      "Malachi"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "마태복음",
+    "aliases": [
+      "마태복음",
+      "마태",
+      "마",
+      "Matthew"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "마가복음",
+    "aliases": [
+      "마가복음",
+      "마가",
+      "막",
+      "Mark"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "누가복음",
+    "aliases": [
+      "누가복음",
+      "누가",
+      "눅",
+      "Luke"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "요한복음",
+    "aliases": [
+      "요한복음",
+      "요한",
+      "요",
+      "John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "사도행전",
+    "aliases": [
+      "사도행전",
+      "행",
+      "Acts"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "로마서",
+    "aliases": [
+      "로마서",
+      "롬",
+      "Romans"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "고린도전서",
+    "aliases": [
+      "고린도전서",
+      "고전",
+      "1고",
+      "1 Corinthians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "고린도후서",
+    "aliases": [
+      "고린도후서",
+      "고후",
+      "2고",
+      "2 Corinthians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "갈라디아서",
+    "aliases": [
+      "갈라디아서",
+      "갈",
+      "Galatians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "에베소서",
+    "aliases": [
+      "에베소서",
+      "엡",
+      "Ephesians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "빌립보서",
+    "aliases": [
+      "빌립보서",
+      "빌",
+      "Philippians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "골로새서",
+    "aliases": [
+      "골로새서",
+      "골",
+      "Colossians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "데살로니가전서",
+    "aliases": [
+      "데살로니가전서",
+      "살전",
+      "1살",
+      "1 Thessalonians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "데살로니가후서",
+    "aliases": [
+      "데살로니가후서",
+      "살후",
+      "2살",
+      "2 Thessalonians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "디모데전서",
+    "aliases": [
+      "디모데전서",
+      "딤전",
+      "1딤",
+      "1 Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "디모데후서",
+    "aliases": [
+      "디모데후서",
+      "딤후",
+      "2딤",
+      "2 Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "디도서",
+    "aliases": [
+      "디도서",
+      "딛",
+      "Titus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "빌레몬서",
+    "aliases": [
+      "빌레몬서",
+      "몬",
+      "Philemon"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "히브리서",
+    "aliases": [
+      "히브리서",
+      "히",
+      "Hebrews"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "야고보서",
+    "aliases": [
+      "야고보서",
+      "약",
+      "James"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "베드로전서",
+    "aliases": [
+      "베드로전서",
+      "벧전",
+      "1벧",
+      "1 Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "베드로후서",
+    "aliases": [
+      "베드로후서",
+      "벧후",
+      "2벧",
+      "2 Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "요한일서",
+    "aliases": [
+      "요한일서",
+      "요일",
+      "1요",
+      "1 John",
+      "요한1서"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "요한이서",
+    "aliases": [
+      "요한이서",
+      "2요",
+      "2 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "요한삼서",
+    "aliases": [
+      "요한삼서",
+      "3요",
+      "3 John",
+      "요한3서"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "유다서",
+    "aliases": [
+      "유다서",
+      "유",
+      "Jude"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "요한계시록",
+    "aliases": [
+      "요한계시록",
+      "계",
+      "Revelation"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "토빗기",
+    "aliases": [
+      "토빗기",
+      "토빗",
+      "Tobit",
+      "도빗기",
+      "토비트"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "유딧기",
+    "aliases": [
+      "유딧기",
+      "유딧",
+      "Judith"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "에스더 추가",
+    "aliases": [
+      "에스더 추가",
+      "그리스어 에스더",
+      "Additions to Esther"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "솔로몬의 지혜",
+    "aliases": [
+      "솔로몬의 지혜",
+      "지혜서",
+      "Wisdom of Solomon",
+      "솔로몬의 지혜서"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "집회서",
+    "aliases": [
+      "집회서",
+      "시락",
+      "Sirach"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "바룩서",
+    "aliases": [
+      "바룩서",
+      "바룩",
+      "Baruch"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "예레미야의 편지",
+    "aliases": [
+      "예레미야의 편지",
+      "Letter of Jeremiah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "아자리아의 기도",
+    "aliases": [
+      "아자리아의 기도",
+      "세 청년의 노래",
+      "Prayer of Azariah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "수산나",
+    "aliases": [
+      "수산나",
+      "Susanna"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "벨과 용",
+    "aliases": [
+      "벨과 용",
+      "벨",
+      "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "마카베오기상",
+    "aliases": [
+      "마카베오기상",
+      "마카1",
+      "1 Maccabees",
+      "마카비상"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "마카베오기하",
+    "aliases": [
+      "마카베오기하",
+      "마카2",
+      "2 Maccabees",
+      "마카베오기 하",
+      "마카비하"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "마카베오기3",
+    "aliases": [
+      "마카베오기3",
+      "3 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "마카베오기4",
+    "aliases": [
+      "마카베오기4",
+      "4 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "에즈라상",
+    "aliases": [
+      "에즈라상",
+      "1에즈라",
+      "1 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "에즈라하",
+    "aliases": [
+      "에즈라하",
+      "2에즈라",
+      "제4에즈라",
+      "2 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "므나쎄의 기도",
+    "aliases": [
+      "므나쎄의 기도",
+      "Prayer of Manasseh"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "오데",
+    "aliases": [
+      "오데",
+      "송가집",
+      "Odes"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "디다케",
+    "aliases": [
+      "디다케",
+      "열두사도의 가르침",
+      "Didache"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "헤르마스의 목자",
+    "aliases": [
+      "헤르마스의 목자",
+      "Shepherd of Hermas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "바나바의 편지",
+    "aliases": [
+      "바나바의 편지",
+      "Epistle of Barnabas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "클레멘트 1서",
+    "aliases": [
+      "클레멘트 1서",
+      "1 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "클레멘트 2서",
+    "aliases": [
+      "클레멘트 2서",
+      "2 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "도마복음",
+    "aliases": [
+      "도마복음",
+      "Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "베드로복음",
+    "aliases": [
+      "베드로복음",
+      "Gospel of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "마리아복음",
+    "aliases": [
+      "마리아복음",
+      "막달라 마리아복음",
+      "Gospel of Mary"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "유다복음",
+    "aliases": [
+      "유다복음",
+      "Gospel of Judas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "빌립복음",
+    "aliases": [
+      "빌립복음",
+      "Gospel of Philip"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "도마유년복음",
+    "aliases": [
+      "도마유년복음",
+      "Infancy Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "야고보원복음",
+    "aliases": [
+      "야고보원복음",
+      "Protevangelium of James"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "베드로행전",
+    "aliases": [
+      "베드로행전",
+      "Acts of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "바울행전",
+    "aliases": [
+      "바울행전",
+      "Acts of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "요한행전",
+    "aliases": [
+      "요한행전",
+      "Acts of John"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "안드레행전",
+    "aliases": [
+      "안드레행전",
+      "Acts of Andrew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "도마행전",
+    "aliases": [
+      "도마행전",
+      "Acts of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "베드로묵시록",
+    "aliases": [
+      "베드로묵시록",
+      "Apocalypse of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "바울묵시록",
+    "aliases": [
+      "바울묵시록",
+      "Apocalypse of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "라오디게아인들에게 보낸 편지",
+    "aliases": [
+      "라오디게아인들에게 보낸 편지",
+      "Epistle to the Laodiceans"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "사도들의 편지",
+    "aliases": [
+      "사도들의 편지",
+      "Letter of the Apostles"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "히브리인복음",
+    "aliases": [
+      "히브리인복음",
+      "Gospel of the Hebrews"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "이집트인복음",
+    "aliases": [
+      "이집트인복음",
+      "Gospel of the Egyptians"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "에녹1서",
+    "aliases": [
+      "에녹1서",
+      "에티오피아 에녹서",
+      "1 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "에녹2서",
+    "aliases": [
+      "에녹2서",
+      "슬라브 에녹서",
+      "2 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "에녹3서",
+    "aliases": [
+      "에녹3서",
+      "히브리 에녹서",
+      "3 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "희년서",
+    "aliases": [
+      "희년서",
+      "소창세기",
+      "Jubilees"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "열두 족장의 유언",
+    "aliases": [
+      "열두 족장의 유언",
+      "Testament of the Twelve Patriarchs"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "르우벤의 유언",
+    "aliases": [
+      "르우벤의 유언",
+      "Testament of Reuben"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "시므온의 유언",
+    "aliases": [
+      "시므온의 유언",
+      "Testament of Simeon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "레위의 유언",
+    "aliases": [
+      "레위의 유언",
+      "Testament of Levi"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "유다의 유언",
+    "aliases": [
+      "유다의 유언",
+      "Testament of Judah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "잇사갈의 유언",
+    "aliases": [
+      "잇사갈의 유언",
+      "Testament of Issachar"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "스불론의 유언",
+    "aliases": [
+      "스불론의 유언",
+      "Testament of Zebulun"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "단의 유언",
+    "aliases": [
+      "단의 유언",
+      "Testament of Dan"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "납달리의 유언",
+    "aliases": [
+      "납달리의 유언",
+      "Testament of Naphtali"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "갓의 유언",
+    "aliases": [
+      "갓의 유언",
+      "Testament of Gad"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "아셀의 유언",
+    "aliases": [
+      "아셀의 유언",
+      "Testament of Asher"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "요셉의 유언",
+    "aliases": [
+      "요셉의 유언",
+      "Testament of Joseph"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "베냐민의 유언",
+    "aliases": [
+      "베냐민의 유언",
+      "Testament of Benjamin"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "욥의 유언",
+    "aliases": [
+      "욥의 유언",
+      "Testament of Job"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "아담과 하와의 생애",
+    "aliases": [
+      "아담과 하와의 생애",
+      "모세 묵시록",
+      "Life of Adam and Eve"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "아브라함 묵시록",
+    "aliases": [
+      "아브라함 묵시록",
+      "Apocalypse of Abraham"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "스바냐 묵시록",
+    "aliases": [
+      "스바냐 묵시록",
+      "Apocalypse of Zephaniah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "바룩2서",
+    "aliases": [
+      "바룩2서",
+      "시리아 바룩 묵시록",
+      "2 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "바룩3서",
+    "aliases": [
+      "바룩3서",
+      "그리스 바룩 묵시록",
+      "3 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "바룩4서",
+    "aliases": [
+      "바룩4서",
+      "예레미야 유전문",
+      "4 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "솔로몬 시편",
+    "aliases": [
+      "솔로몬 시편",
+      "Psalms of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "솔로몬 송가",
+    "aliases": [
+      "솔로몬 송가",
+      "Odes of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "요셉과 아스낫",
+    "aliases": [
+      "요셉과 아스낫",
+      "Joseph and Aseneth"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "아리스테아스의 편지",
+    "aliases": [
+      "아리스테아스의 편지",
+      "Letter of Aristeas"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "이사야 승천기",
+    "aliases": [
+      "이사야 승천기",
+      "이사야의 순교와 승천",
+      "Ascension of Isaiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "엘리야 묵시록",
+    "aliases": [
+      "엘리야 묵시록",
+      "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  }
+]

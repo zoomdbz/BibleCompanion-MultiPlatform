@@ -1,0 +1,38 @@
+{
+  "id": "psalm-151",
+  "title": "Salmo 151",
+  "stories": [
+    {
+      "id": "psalm-151-1",
+      "title": "🎵 Salmo 151",
+      "refs": [
+        "Psalm 151 1"
+      ],
+      "summaryBullets": [
+        "Questo salmo è attribuito a Davide, ma non fa parte del testo ebraico masoretico standard.",
+        "Davide ricorda le sue umili origini: era il più giovane tra i suoi fratelli e custodiva le pecore nei campi.",
+        "Dio lo scelse tra i suoi fratelli e mandò Samuele a ungerlo con olio santo.",
+        "Davide rammenta come, benché piccolo, sconfisse Golia con una fionda e gli tagliò la testa con la spada.",
+        "Il salmo mette in luce la scelta divina degli umili e la liberazione operata da Dio attraverso la fede e l'obbedienza di Davide."
+      ],
+      "crossRefs": [
+        "1 Samuele 16:11–13 — Davide unto da Samuele mentre custodiva le pecore.",
+        "1 Samuele 17:34–51 — Davide sconfigge Golia con la fionda e la spada.",
+        "Atti 13:22 — Davide descritto come un uomo secondo il cuore di Dio, scelto per compiere la sua volontà."
+      ],
+      "translationNotes": [
+        {
+          "term": "Unto",
+          "original": "Hebrew: מָשַׁח (mashach) — Greek: χρίω (chriō) — Aramaic/Syriac: משח (meshaḥ)",
+          "note": "Versare olio su qualcuno, consacrandolo per il proposito di Dio; usato per re e sacerdoti."
+        },
+        {
+          "term": "Fionda",
+          "original": "Hebrew: קָלַע (qalaʿ) — Greek: σφενδόνη (sphendonē) — Aramaic: קלעא (qelaʿa)",
+          "note": "Un'arma che utilizza una cinghia di cuoio per scagliare pietre; l'arma di Davide contro Golia."
+        }
+      ],
+      "keyTakeaway": "Il Salmo 151, conservato nella tradizione greca e in altre tradizioni, racconta le umili origini di Davide, la sua unzione e la sua vittoria su Golia come servo eletto di Dio."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "testaments_twelve_patriarchs",
+  "title": "Testaments of the Twelve Patriarchs",
+  "stories": [
+    {
+      "id": "testaments_twelve_patriarchs-1",
+      "title": "📜 Testaments of the Twelve Patriarchs",
+      "refs": [
+        "Testaments of the Twelve Patriarchs 1"
+      ],
+      "summaryBullets": [
+        "A pseudepigraphic collection of twelve speeches attributed to Jacob’s sons, composed c. 2nd century BCE, blending autobiography, ethical exhortations, and prophetic visions.",
+        "Each patriarch (e.g., Reuben, Simeon, Levi, etc.) recounts life events, warns against a particular vice or urges a virtue tied to his own story, then foretells his descendants' future.",
+        "Recurring structure: a personal testimony, moral instruction, and sometimes an apocalyptic or messianic prophecy—often closing with their death and burial.",
+        "Strong ethical emphasis: virtues like love, mercy, and truth are upheld; vices like pride, envy, fornication, and hatred are condemned. Joseph is repeatedly held up as the model of virtue.",
+        "Contains Sin–Exile–Return (SER) patterns, especially in Levi, Judah, Dan, Naphtali, Gad, Benjamin—each featuring confessions, exile imagery, and hope of return."
+      ],
+      "crossRefs": [
+        "Genesis 49 — Jacob’s blessings over his sons.",
+        "Joshua 23–24 — Final exhortation to Israel’s faithfulness.",
+        "Proverbs 3:11–12 — Discipline from the Lord refines virtue."
+      ],
+      "translationNotes": [
+        {
+          "term": "Testament",
+          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony') — Greek: διαθήκη (diathḗkē) — Aramaic: סָפְרָא (səfrāʾ, 'book')",
+          "note": "Here refers to a deathbed legacy or final speech intended to instruct descendants, fitting into the genre of 'testament' literature."
+        },
+        {
+          "term": "Sin-Exile-Return (SER) motif",
+          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense) — English: SER motif",
+          "note": "A literary pattern in biblical and pseudepigraphal texts: sin leads to exile, which is followed by restoration or return—used to frame moral and communal history."
+        }
+      ],
+      "keyTakeaway": "The Testaments present ethical and prophetic farewells from Jacob’s sons, urging moral fidelity and offering hope for restoration."
+    }
+  ]
+}

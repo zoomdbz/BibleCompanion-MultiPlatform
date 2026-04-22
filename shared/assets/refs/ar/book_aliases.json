@@ -1,0 +1,1422 @@
+[
+  {
+    "canon": "تكوين",
+    "aliases": [
+      "تكوين",
+      "سفر التكوين",
+      "تك",
+      "Gen",
+      "Genesis",
+      "التكوين"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "خروج",
+    "aliases": [
+      "خروج",
+      "سفر الخروج",
+      "خر",
+      "Exo",
+      "Exodus",
+      "الخروج"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "لاويين",
+    "aliases": [
+      "لاويين",
+      "سفر اللاويين",
+      "لا",
+      "Lev",
+      "Leviticus",
+      "اللاويين",
+      "اللاويّين",
+      "لاويّين"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "عدد",
+    "aliases": [
+      "عدد",
+      "سفر العدد",
+      "عد",
+      "Num",
+      "Numbers",
+      "العدد"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "تثنية",
+    "aliases": [
+      "تثنية",
+      "سفر التثنية",
+      "تث",
+      "Deut",
+      "Deuteronomy",
+      "التثنية"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يشوع",
+    "aliases": [
+      "يشوع",
+      "سفر يشوع",
+      "يش",
+      "Josh",
+      "Joshua"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "قضاة",
+    "aliases": [
+      "قضاة",
+      "سفر القضاة",
+      "قض",
+      "Judg",
+      "Judges",
+      "القضاة"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "راعوث",
+    "aliases": [
+      "راعوث",
+      "سفر راعوث",
+      "را",
+      "Ruth"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "صموئيل الأول",
+    "aliases": [
+      "صموئيل الأول",
+      "١ صموئيل",
+      "١ صم",
+      "1Sam",
+      "1 Samuel",
+      "1 صموئيل",
+      "صموئيل الأوّل"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "صموئيل الثاني",
+    "aliases": [
+      "صموئيل الثاني",
+      "٢ صموئيل",
+      "٢ صم",
+      "2Sam",
+      "2 Samuel",
+      "2 صموئيل"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "الملوك الأول",
+    "aliases": [
+      "الملوك الأول",
+      "١ ملوك",
+      "١ مل",
+      "1Kgs",
+      "1 Kings",
+      "الملوك الأوّل",
+      "ملوك الأوّل"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "الملوك الثاني",
+    "aliases": [
+      "الملوك الثاني",
+      "٢ ملوك",
+      "٢ مل",
+      "2Kgs",
+      "2 Kings",
+      "2 ملوك",
+      "ملوك الثاني"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "أخبار الأيام الأول",
+    "aliases": [
+      "أخبار الأيام الأول",
+      "١ أخبار",
+      "١ أخ",
+      "1Chr",
+      "1 Chronicles",
+      "أخبار الأيّام الأول",
+      "أخبار الأيّام الأوّل"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "أخبار الأيام الثاني",
+    "aliases": [
+      "أخبار الأيام الثاني",
+      "٢ أخبار",
+      "٢ أخ",
+      "2Chr",
+      "2 Chronicles",
+      "2 أخبار الأيام",
+      "أخبار الأيّام الثاني"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "عزرا",
+    "aliases": [
+      "عزرا",
+      "سفر عزرا",
+      "عز",
+      "Ezr",
+      "Ezra"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "نحميا",
+    "aliases": [
+      "نحميا",
+      "سفر نحميا",
+      "نح",
+      "Neh",
+      "Nehemiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "أستير",
+    "aliases": [
+      "أستير",
+      "سفر أستير",
+      "أس",
+      "Est",
+      "Esther"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "أيوب",
+    "aliases": [
+      "أيوب",
+      "سفر أيوب",
+      "أي",
+      "Job",
+      "أيّوب"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "مزامير",
+    "aliases": [
+      "مزامير",
+      "مزمور",
+      "مز",
+      "Ps",
+      "Psa",
+      "Psalms",
+      "المزامير",
+      "المزمور"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "أمثال",
+    "aliases": [
+      "أمثال",
+      "سفر الأمثال",
+      "أم",
+      "Prov",
+      "Proverbs",
+      "الأمثال"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "جامعة",
+    "aliases": [
+      "جامعة",
+      "سفر الجامعة",
+      "جا",
+      "Eccl",
+      "Ecclesiastes",
+      "الجامعة"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "نشيد الأنشاد",
+    "aliases": [
+      "نشيد الأنشاد",
+      "سفر النشيد",
+      "نش",
+      "Song",
+      "Song of Songs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "إشعياء",
+    "aliases": [
+      "إشعياء",
+      "سفر إشعياء",
+      "إش",
+      "Isa",
+      "Isaiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "إرميا",
+    "aliases": [
+      "إرميا",
+      "سفر إرميا",
+      "إر",
+      "Jer",
+      "Jeremiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "مراثي إرميا",
+    "aliases": [
+      "مراثي إرميا",
+      "مراثي",
+      "مرا",
+      "Lam",
+      "Lamentations"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "حزقيال",
+    "aliases": [
+      "حزقيال",
+      "سفر حزقيال",
+      "حز",
+      "Ezek",
+      "Ezekiel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "دانيال",
+    "aliases": [
+      "دانيال",
+      "سفر دانيال",
+      "دا",
+      "Dan",
+      "Daniel",
+      "دانيآل"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "هوشع",
+    "aliases": [
+      "هوشع",
+      "سفر هوشع",
+      "هو",
+      "Hos",
+      "Hosea"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يوئيل",
+    "aliases": [
+      "يوئيل",
+      "سفر يوئيل",
+      "يؤ",
+      "Joel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "عاموس",
+    "aliases": [
+      "عاموس",
+      "سفر عاموس",
+      "عا",
+      "Amos"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "عوبديا",
+    "aliases": [
+      "عوبديا",
+      "سفر عوبديا",
+      "عو",
+      "Obad",
+      "Obadiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يونان",
+    "aliases": [
+      "يونان",
+      "سفر يونان",
+      "يون",
+      "Jon",
+      "Jonah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ميخا",
+    "aliases": [
+      "ميخا",
+      "سفر ميخا",
+      "مي",
+      "Mic",
+      "Micah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ناحوم",
+    "aliases": [
+      "ناحوم",
+      "سفر ناحوم",
+      "نا",
+      "Nah",
+      "Nahum"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "حبقوق",
+    "aliases": [
+      "حبقوق",
+      "سفر حبقوق",
+      "حب",
+      "Hab",
+      "Habakkuk",
+      "حبقّوق"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "صفنيا",
+    "aliases": [
+      "صفنيا",
+      "سفر صفنيا",
+      "صف",
+      "Zeph",
+      "Zephaniah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "حجي",
+    "aliases": [
+      "حجي",
+      "سفر حجي",
+      "حج",
+      "Hag",
+      "Haggai",
+      "حجّي"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "زكريا",
+    "aliases": [
+      "زكريا",
+      "سفر زكريا",
+      "زك",
+      "Zech",
+      "Zechariah",
+      "زكريّا"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "ملاخي",
+    "aliases": [
+      "ملاخي",
+      "سفر ملاخي",
+      "ملا",
+      "Mal",
+      "Malachi"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "متى",
+    "aliases": [
+      "متى",
+      "إنجيل متى",
+      "مت",
+      "Matt",
+      "Matthew",
+      "متّى"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "مرقس",
+    "aliases": [
+      "مرقس",
+      "إنجيل مرقس",
+      "مر",
+      "Mk",
+      "Mark"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "لوقا",
+    "aliases": [
+      "لوقا",
+      "إنجيل لوقا",
+      "لو",
+      "Lk",
+      "Luke"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يوحنا",
+    "aliases": [
+      "يوحنا",
+      "إنجيل يوحنا",
+      "يو",
+      "Jn",
+      "John",
+      "يوحنّا"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "أعمال الرسل",
+    "aliases": [
+      "أعمال الرسل",
+      "أعمال",
+      "أع",
+      "Acts"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "رومية",
+    "aliases": [
+      "رومية",
+      "سفر رومية",
+      "رو",
+      "Rom",
+      "Romans"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "كورنثوس الأولى",
+    "aliases": [
+      "كورنثوس الأولى",
+      "١ كورنثوس",
+      "١ كو",
+      "1Cor",
+      "1 Corinthians",
+      "1 كورنثوس",
+      "الأولى إلى كورنثوس"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "كورنثوس الثانية",
+    "aliases": [
+      "كورنثوس الثانية",
+      "٢ كورنثوس",
+      "٢ كو",
+      "2Cor",
+      "2 Corinthians",
+      "2 كورنثوس",
+      "الثانية إلى كورنثوس"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "غلاطية",
+    "aliases": [
+      "غلاطية",
+      "سفر غلاطية",
+      "غل",
+      "Gal",
+      "Galatians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "أفسس",
+    "aliases": [
+      "أفسس",
+      "سفر أفسس",
+      "أف",
+      "Eph",
+      "Ephesians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "فيلبي",
+    "aliases": [
+      "فيلبي",
+      "سفر فيلبي",
+      "في",
+      "Phil",
+      "Philippians",
+      "فيلبّي"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "كولوسي",
+    "aliases": [
+      "كولوسي",
+      "سفر كولوسي",
+      "كو",
+      "Col",
+      "Colossians",
+      "كولوسّي"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "تسالونيكي الأولى",
+    "aliases": [
+      "تسالونيكي الأولى",
+      "١ تسالونيكي",
+      "١ تس",
+      "1Thess",
+      "1 Thessalonians",
+      "الأولى إلى تسالونيكي"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "تسالونيكي الثانية",
+    "aliases": [
+      "تسالونيكي الثانية",
+      "٢ تسالونيكي",
+      "٢ تس",
+      "2Thess",
+      "2 Thessalonians",
+      "الثانية إلى تسالونيكي"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "تيموثاوس الأولى",
+    "aliases": [
+      "تيموثاوس الأولى",
+      "١ تيموثاوس",
+      "١ تي",
+      "1Tim",
+      "1 Timothy",
+      "1 تيموثاوس",
+      "الأولى إلى تيموثاوس"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "تيموثاوس الثانية",
+    "aliases": [
+      "تيموثاوس الثانية",
+      "٢ تيموثاوس",
+      "٢ تي",
+      "2Tim",
+      "2 Timothy",
+      "الثانية إلى تيموثاوس"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "تيطس",
+    "aliases": [
+      "تيطس",
+      "سفر تيطس",
+      "تي",
+      "Titus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "فليمون",
+    "aliases": [
+      "فليمون",
+      "سفر فليمون",
+      "فل",
+      "Phlm",
+      "Philemon"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "عبرانيين",
+    "aliases": [
+      "عبرانيين",
+      "سفر العبرانيين",
+      "عب",
+      "Heb",
+      "Hebrews",
+      "العبرانيين",
+      "العبرانيّين",
+      "عبرانيّين"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يعقوب",
+    "aliases": [
+      "يعقوب",
+      "رسالة يعقوب",
+      "يع",
+      "Jas",
+      "James"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "بطرس الأولى",
+    "aliases": [
+      "بطرس الأولى",
+      "١ بطرس",
+      "١ بط",
+      "1Pet",
+      "1 Peter",
+      "1 بطرس"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "بطرس الثانية",
+    "aliases": [
+      "بطرس الثانية",
+      "٢ بطرس",
+      "٢ بط",
+      "2Pet",
+      "2 Peter",
+      "2 بطرس"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يوحنا الأولى",
+    "aliases": [
+      "يوحنا الأولى",
+      "١ يوحنا",
+      "١ يو",
+      "1Jn",
+      "1 John",
+      "يوحنّا الأولى"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يوحنا الثانية",
+    "aliases": [
+      "يوحنا الثانية",
+      "٢ يوحنا",
+      "٢ يو",
+      "2Jn",
+      "2 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يوحنا الثالثة",
+    "aliases": [
+      "يوحنا الثالثة",
+      "٣ يوحنا",
+      "٣ يو",
+      "3Jn",
+      "3 John",
+      "يوحنّا الثالثة"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "يهوذا",
+    "aliases": [
+      "يهوذا",
+      "رسالة يهوذا",
+      "يه",
+      "Jude"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "رؤيا يوحنا",
+    "aliases": [
+      "رؤيا يوحنا",
+      "رؤيا",
+      "رؤ",
+      "Rev",
+      "Revelation",
+      "الرؤيا"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "طوبيا",
+    "aliases": [
+      "طوبيا",
+      "سفر طوبيا",
+      "طو",
+      "Tob",
+      "Tobit",
+      "طوبيّا"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "يهوديت",
+    "aliases": [
+      "يهوديت",
+      "سفر يهوديت",
+      "يه",
+      "Jdt",
+      "Judith"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "زيادات أستير",
+    "aliases": [
+      "زيادات أستير",
+      "أستير اليونانية",
+      "إس اليونانية",
+      "Additions to Esther"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "حكمة سليمان",
+    "aliases": [
+      "حكمة سليمان",
+      "سفر الحكمة",
+      "حك",
+      "Wis",
+      "Wisdom of Solomon",
+      "الحكمة"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "يشوع بن سيراخ",
+    "aliases": [
+      "يشوع بن سيراخ",
+      "سيراخ",
+      "ابن سيراخ",
+      "Sir",
+      "Sirach"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "باروخ",
+    "aliases": [
+      "باروخ",
+      "سفر باروخ",
+      "با",
+      "Bar",
+      "Baruch"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "رسالة إرميا",
+    "aliases": [
+      "رسالة إرميا",
+      "رسالة إرميا مع باروخ",
+      "Baruch 6",
+      "LetJer",
+      "Letter of Jeremiah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "صلاة عزريا",
+    "aliases": [
+      "صلاة عزريا",
+      "تسبحة الثلاثة فتية",
+      "تسبحة الثلاثة",
+      "عزريا",
+      "PrAzar",
+      "Prayer of Azariah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "سوسنة",
+    "aliases": [
+      "سوسنة",
+      "سفر سوسنة",
+      "Sus",
+      "Susanna"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "بيل والتنين",
+    "aliases": [
+      "بيل والتنين",
+      "بيل",
+      "Bel",
+      "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "المكابيين الأول",
+    "aliases": [
+      "المكابيين الأول",
+      "١ مكابيين",
+      "١ مك",
+      "1Mac",
+      "1 Maccabees",
+      "المكابيّين الأوّل"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "المكابيين الثاني",
+    "aliases": [
+      "المكابيين الثاني",
+      "٢ مكابيين",
+      "٢ مك",
+      "2Mac",
+      "2 Maccabees",
+      "المكّابيّين الثاني",
+      "مكّابيّين الثاني"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "المكابيين الثالث",
+    "aliases": [
+      "المكابيين الثالث",
+      "٣ مكابيين",
+      "٣ مك",
+      "3Mac",
+      "3 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "المكابيين الرابع",
+    "aliases": [
+      "المكابيين الرابع",
+      "٤ مكابيين",
+      "٤ مك",
+      "4Mac",
+      "4 Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "عزرا الأول",
+    "aliases": [
+      "عزرا الأول",
+      "١ عزرا",
+      "٣ عزرا",
+      "1Esd",
+      "1 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "عزرا الثاني",
+    "aliases": [
+      "عزرا الثاني",
+      "٢ عزرا",
+      "٤ عزرا",
+      "2Esd",
+      "2 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "صلاة منسى",
+    "aliases": [
+      "صلاة منسى",
+      "منسى",
+      "Pr Man",
+      "Prayer of Manasseh"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "الأناشيد",
+    "aliases": [
+      "الأناشيد",
+      "أودس",
+      "Odes"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "الديداخي",
+    "aliases": [
+      "الديداخي",
+      "تعليم الرسل الاثني عشر",
+      "Didache"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "الراعي لهرماس",
+    "aliases": [
+      "الراعي لهرماس",
+      "هرماس",
+      "Shepherd of Hermas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "رسالة برنابا",
+    "aliases": [
+      "رسالة برنابا",
+      "برنابا",
+      "Epistle of Barnabas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "كليمنت الأول",
+    "aliases": [
+      "كليمنت الأول",
+      "١ كليمنت",
+      "١ كل",
+      "1 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "كليمنت الثاني",
+    "aliases": [
+      "كليمنت الثاني",
+      "٢ كليمنت",
+      "٢ كل",
+      "2 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل توما",
+    "aliases": [
+      "إنجيل توما",
+      "توما",
+      "Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل بطرس",
+    "aliases": [
+      "إنجيل بطرس",
+      "بطرس",
+      "Gospel of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل مريم",
+    "aliases": [
+      "إنجيل مريم",
+      "إنجيل مريم المجدلية",
+      "مريم",
+      "Gospel of Mary"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل يهوذا",
+    "aliases": [
+      "إنجيل يهوذا",
+      "يهوذا",
+      "Gospel of Judas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل فيلبس",
+    "aliases": [
+      "إنجيل فيلبس",
+      "فيلبس",
+      "Gospel of Philip"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل الطفولة لتوما",
+    "aliases": [
+      "إنجيل الطفولة لتوما",
+      "إنجيل توما الطفولي",
+      "Infancy Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل يعقوب",
+    "aliases": [
+      "إنجيل يعقوب",
+      "إنجيل الطفولة ليعقوب",
+      "Protevangelium of James"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "أعمال بطرس",
+    "aliases": [
+      "أعمال بطرس",
+      "Acts of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "أعمال بولس",
+    "aliases": [
+      "أعمال بولس",
+      "Acts of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "أعمال يوحنا",
+    "aliases": [
+      "أعمال يوحنا",
+      "Acts of John"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "أعمال أندراوس",
+    "aliases": [
+      "أعمال أندراوس",
+      "Acts of Andrew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "أعمال توما",
+    "aliases": [
+      "أعمال توما",
+      "Acts of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "رؤيا بطرس",
+    "aliases": [
+      "رؤيا بطرس",
+      "Apoc Peter",
+      "Apocalypse of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "رؤيا بولس",
+    "aliases": [
+      "رؤيا بولس",
+      "Visio Pauli",
+      "Apocalypse of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "رسالة اللودكيين",
+    "aliases": [
+      "رسالة اللودكيين",
+      "لودكيين",
+      "Epistle to the Laodiceans"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "رسالة الرسل",
+    "aliases": [
+      "رسالة الرسل",
+      "Epistula Apostolorum",
+      "Letter of the Apostles"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل العبرانيين",
+    "aliases": [
+      "إنجيل العبرانيين",
+      "Gospel of the Hebrews"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل المصريين",
+    "aliases": [
+      "إنجيل المصريين",
+      "Gospel of the Egyptians"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "أخنوخ الأول",
+    "aliases": [
+      "أخنوخ الأول",
+      "١ أخنوخ",
+      "Enoch",
+      "1 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "أخنوخ الثاني",
+    "aliases": [
+      "أخنوخ الثاني",
+      "٢ أخنوخ",
+      "2 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "أخنوخ الثالث",
+    "aliases": [
+      "أخنوخ الثالث",
+      "٣ أخنوخ",
+      "3 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "اليوبيلات",
+    "aliases": [
+      "اليوبيلات",
+      "سفر اليوبيلات",
+      "Jubilees"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصايا الآباء الاثني عشر",
+    "aliases": [
+      "وصايا الآباء الاثني عشر",
+      "Testament of the Twelve Patriarchs"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية رأوبين",
+    "aliases": [
+      "وصية رأوبين",
+      "Testament of Reuben"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية شمعون",
+    "aliases": [
+      "وصية شمعون",
+      "Testament of Simeon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية لاوي",
+    "aliases": [
+      "وصية لاوي",
+      "Testament of Levi"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية يهوذا",
+    "aliases": [
+      "وصية يهوذا",
+      "Testament of Judah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية يساكر",
+    "aliases": [
+      "وصية يساكر",
+      "Testament of Issachar"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية زبولون",
+    "aliases": [
+      "وصية زبولون",
+      "Testament of Zebulun"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية دان",
+    "aliases": [
+      "وصية دان",
+      "Testament of Dan"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية نفتالي",
+    "aliases": [
+      "وصية نفتالي",
+      "Testament of Naphtali"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية جاد",
+    "aliases": [
+      "وصية جاد",
+      "Testament of Gad"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية أشير",
+    "aliases": [
+      "وصية أشير",
+      "Testament of Asher"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية يوسف",
+    "aliases": [
+      "وصية يوسف",
+      "Testament of Joseph"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية بنيامين",
+    "aliases": [
+      "وصية بنيامين",
+      "Testament of Benjamin"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "وصية أيوب",
+    "aliases": [
+      "وصية أيوب",
+      "Testament of Job"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "حياة آدم وحواء",
+    "aliases": [
+      "حياة آدم وحواء",
+      "رؤيا موسى",
+      "Life of Adam and Eve"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "رؤيا إبراهيم",
+    "aliases": [
+      "رؤيا إبراهيم",
+      "Apocalypse of Abraham"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "رؤيا صفنيا",
+    "aliases": [
+      "رؤيا صفنيا",
+      "Apocalypse of Zephaniah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "باروخ الثاني",
+    "aliases": [
+      "باروخ الثاني",
+      "٢ باروخ",
+      "2 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "باروخ الثالث",
+    "aliases": [
+      "باروخ الثالث",
+      "٣ باروخ",
+      "3 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "باروخ الرابع",
+    "aliases": [
+      "باروخ الرابع",
+      "٤ باروخ",
+      "4 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "مزامير سليمان",
+    "aliases": [
+      "مزامير سليمان",
+      "Psalms of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "أناشيد سليمان",
+    "aliases": [
+      "أناشيد سليمان",
+      "Odes of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "يوسف وأسينيت",
+    "aliases": [
+      "يوسف وأسينيت",
+      "Joseph and Aseneth"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "رسالة أريستاس",
+    "aliases": [
+      "رسالة أريستاس",
+      "Letter of Aristeas"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "صعود إشعياء",
+    "aliases": [
+      "صعود إشعياء",
+      "استشهاد وصعود إشعياء",
+      "Ascension of Isaiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "رؤيا إيليا",
+    "aliases": [
+      "رؤيا إيليا",
+      "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  }
+]

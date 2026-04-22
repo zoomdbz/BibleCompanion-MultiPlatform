@@ -1,0 +1,2063 @@
+{
+  "id": "proverbs",
+  "title": "Proverbios",
+  "stories": [
+    {
+      "id": "proverbs-1",
+      "title": "📜 Proverbios 1",
+      "refs": [
+        "Proverbs 1:1-33"
+      ],
+      "summaryBullets": [
+        "Identifica la colección: proverbios de Salomón hijo de David, rey de Israel (1:1).",
+        "Declara sus propósitos: conocer sabiduría e instrucción; comprender palabras de entendimiento (1:2).",
+        "Recibir instrucción en conducta prudente, en justicia, derecho y equidad (1:3).",
+        "Dar sagacidad al simple, conocimiento y discreción al joven (1:4).",
+        "Que el sabio oiga y aumente su saber; que el entendido adquiera dirección (1:5).",
+        "Para comprender proverbio y figura, las palabras de los sabios y sus enigmas (1:6).",
+        "El temor del SEÑOR es el principio del conocimiento; los necios desprecian la sabiduría y la instrucción (1:7).",
+        "\"Oye, hijo mío, la instrucción de tu padre, y no abandones la enseñanza de tu madre,\" (1:8)",
+        "\"porque son guirnalda de gracia para tu cabeza y collares para tu cuello.\" (1:9)",
+        "\"Hijo mío, si los pecadores te quieren seducir, no consientas.\" (1:10)",
+        "\"Si dicen: 'Ven con nosotros, pongamos asechanza para derramar sangre; acechemos sin causa al inocente;\" (1:11)",
+        "\"como el Seol los tragaremos vivos, enteros, como los que descienden a la fosa;\" (1:12)",
+        "\"hallaremos toda clase de bienes preciosos, llenaremos nuestras casas de botín;\" (1:13)",
+        "\"echa tu suerte entre nosotros; todos tendremos una sola bolsa'—\" (1:14)",
+        "\"hijo mío, no andes en el camino con ellos; aparta tu pie de sus sendas,\" (1:15)",
+        "\"porque sus pies corren hacia el mal y se apresuran a derramar sangre.\" (1:16)",
+        "\"Porque en vano se tiende la red ante los ojos de toda ave,\" (1:17)",
+        "\"pero ellos acechan su propia sangre; ponen emboscada contra sus propias vidas.\" (1:18)",
+        "\"Tales son los caminos de todo el que codicia ganancias injustas; ella quita la vida a quienes la poseen.\" (1:19)",
+        "La Sabiduría clama en las calles, en las plazas alza su voz; (1:20)",
+        "en la cabecera de las calles ruidosas clama; a la entrada de las puertas de la ciudad habla: (1:21)",
+        "\"¿Hasta cuándo, oh simples, amaréis la simpleza? ¿Hasta cuándo los burladores se deleitarán en burlarse y los necios aborrecerán el conocimiento?\" (1:22)",
+        "\"Si os volvéis ante mi reprensión, he aquí, yo derramaré mi espíritu sobre vosotros; os haré conocer mis palabras.\" (1:23)",
+        "\"Porque llamé y rehusasteis, extendí mi mano y nadie prestó atención,\" (1:24)",
+        "\"porque desechasteis todo mi consejo y no quisisteis mi reprensión,\" (1:25)",
+        "\"también yo me reiré de vuestra calamidad; me burlaré cuando el terror os sobrevenga,\" (1:26)",
+        "\"cuando el terror os alcance como tormenta y vuestra calamidad venga como torbellino, cuando la angustia y la aflicción vengan sobre vosotros.\" (1:27)",
+        "\"Entonces me invocarán, pero no responderé; me buscarán con diligencia, pero no me hallarán.\" (1:28)",
+        "\"Porque aborrecieron el conocimiento y no escogieron el temor del SEÑOR,\" (1:29)",
+        "\"no quisieron aceptar mi consejo y despreciaron toda mi reprensión,\" (1:30)",
+        "\"comerán, pues, del fruto de su camino y se hartarán de sus propios consejos.\" (1:31)",
+        "\"Porque la apostasía de los simples los matará, y la complacencia de los necios los destruirá;\" (1:32)",
+        "\"mas el que me escuche habitará seguro y vivirá tranquilo, sin temor al mal.\" (1:33)"
+      ],
+      "crossRefs": [
+        "1 Reyes 4:32 — Se mencionan los proverbios y cánticos de Salomón.",
+        "Salmo 111:10 — El temor del SEÑOR es el principio de la sabiduría.",
+        "Proverbios 9:10 — El temor del SEÑOR es el principio de la sabiduría; el conocimiento del Santo es entendimiento."
+      ],
+      "translationNotes": [
+        {
+          "term": "Proverbio",
+          "original": "Hebrew: מָשָׁל (māshal) — Greek (LXX): παροιμία (paroimia) — Aramaic: מתל (māthel)",
+          "note": "Dicho breve o comparación usada para la instrucción (1:1–6)."
+        },
+        {
+          "term": "Sabiduría / instrucción",
+          "original": "Hebrew: חָכְמָה (ḥokmāh) / מוּסָר (mūsār) — Greek: σοφία / παιδεία — Aramaic: חכמתא / מוסרָא",
+          "note": "Habilidad para vivir / formación disciplinada (1:2)."
+        },
+        {
+          "term": "Simple",
+          "original": "Hebrew: פֶּתִי (peti) — Greek: ἄκακος/ἁπλοῦς (contextual) — Aramaic: פתיא (patyā)",
+          "note": "Persona inexperta o ingenua que necesita prudencia (1:4)."
+        }
+      ],
+      "keyTakeaway": "Proverbios nombra a Salomón y declara que su propósito es la sabiduría práctica, enraizada en el temor del SEÑOR como principio del conocimiento."
+    },
+    {
+      "id": "proverbs-2",
+      "title": "🔍 Proverbios 2",
+      "refs": [
+        "Proverbs 2:1-22"
+      ],
+      "summaryBullets": [
+        "\"Hijo mío, si recibes mis palabras y atesoras mis mandamientos contigo,\" (2:1)",
+        "\"haciendo tu oído atento a la sabiduría e inclinando tu corazón al entendimiento;\" (2:2)",
+        "\"sí, si clamas por discernimiento y alzas tu voz por entendimiento,\" (2:3)",
+        "\"si lo buscas como a la plata y lo procuras como a tesoros escondidos,\" (2:4)",
+        "\"entonces entenderás el temor del SEÑOR y hallarás el conocimiento de Dios.\" (2:5)",
+        "\"Porque el SEÑOR da la sabiduría; de su boca vienen el conocimiento y el entendimiento;\" (2:6)",
+        "\"él reserva sana sabiduría para los rectos; es escudo para los que caminan con integridad,\" (2:7)",
+        "\"guardando las sendas del derecho y protegiendo el camino de sus santos.\" (2:8)",
+        "\"Entonces entenderás justicia y derecho y equidad, toda buena senda;\" (2:9)",
+        "\"porque la sabiduría entrará en tu corazón, y el conocimiento será grato a tu alma;\" (2:10)",
+        "\"la discreción velará sobre ti, el entendimiento te guardará,\" (2:11)",
+        "\"librándote del camino del mal, de los hombres de habla perversa,\" (2:12)",
+        "\"que abandonan las sendas de rectitud para andar por caminos de tinieblas,\" (2:13)",
+        "\"que se gozan en hacer el mal y se deleitan en la perversidad del mal,\" (2:14)",
+        "\"hombres cuyos caminos son torcidos y que son taimados en sus sendas.\" (2:15)",
+        "\"Así serás librado de la mujer ajena, de la extraña que halaga con sus palabras,\" (2:16)",
+        "\"que abandona al compañero de su juventud y olvida el pacto de su Dios;\" (2:17)",
+        "\"porque su casa se hunde hacia la muerte, y sus sendas hacia los muertos;\" (2:18)",
+        "\"ninguno que vaya a ella volverá, ni recobrará las sendas de la vida.\" (2:19)",
+        "\"Así andarás por el camino de los buenos y guardarás las sendas de los justos.\" (2:20)",
+        "\"Porque los rectos habitarán la tierra, y los íntegros permanecerán en ella,\" (2:21)",
+        "\"pero los impíos serán cortados de la tierra, y los traidores serán arrancados de ella.\" (2:22)"
+      ],
+      "crossRefs": [
+        "Job 28:12–19 — La sabiduría buscada como mineral precioso.",
+        "Deuteronomio 6:6–9 — Palabras puestas en el corazón; enseñar y guardar.",
+        "Proverbios 5:3–5 — Los labios de la mujer ajena; sus pasos descienden a la muerte.",
+        "Salmo 37:29 — \"Los justos heredarán la tierra y habitarán en ella para siempre.\""
+      ],
+      "translationNotes": [
+        {
+          "term": "Sana sabiduría",
+          "original": "Hebrew: תּוּשִׁיָּה (tushiyyāh) — Greek (LXX): σωτηρία/σύνεσις (contextual) — Aramaic: תושייתא",
+          "note": "Sabiduría sustancial y eficaz, atesorada para los rectos (2:7)."
+        },
+        {
+          "term": "Cosas perversas",
+          "original": "Hebrew: תַּהְפֻּכוֹת (tahpukhot) — Greek: σκολιά — Aramaic: תהפוכתא",
+          "note": "Habla torcida o retorcida (2:12)."
+        },
+        {
+          "term": "Mujer ajena / extraña",
+          "original": "Hebrew: אִשָּׁה זָרָה (ishah zarah) / נָכְרִיָּה (nokhriyyah) — Greek: γυνὴ ἀλλοτρία — Aramaic: אתתא נוכריתא",
+          "note": "Forastera o compañera no autorizada cuyo camino lleva a la muerte (2:16–19)."
+        },
+        {
+          "term": "Compañero de su juventud",
+          "original": "Hebrew: אַלּוּף נְעוּרֶיהָ (alluf neʿureha) — Greek: σύντροφος νεότητος — Aramaic: רֵעַ עוּלְמַה",
+          "note": "Su compañero anterior; ella lo abandona (2:17)."
+        }
+      ],
+      "keyTakeaway": "Si la sabiduría se busca como a la plata y se recibe, el SEÑOR la da, guardando los caminos rectos y librando del hombre malvado y de la mujer ajena; los rectos permanecen en la tierra mientras los impíos son cortados."
+    },
+    {
+      "id": "proverbs-3",
+      "title": "🧭 Proverbios 3",
+      "refs": [
+        "Proverbs 3:1-35"
+      ],
+      "summaryBullets": [
+        "\"Hijo mío, no olvides mi enseñanza, y tu corazón guarde mis mandamientos,\" (3:1)",
+        "\"porque largura de días y años de vida y paz te añadirán.\" (3:2)",
+        "\"Que la misericordia y la verdad no te abandonen; átalas a tu cuello, escríbelas en la tabla de tu corazón.\" (3:3)",
+        "\"Así hallarás gracia y buena estima ante los ojos de Dios y de los hombres.\" (3:4)",
+        "\"Confía en el SEÑOR con todo tu corazón, y no te apoyes en tu propia prudencia.\" (3:5)",
+        "\"Reconócelo en todos tus caminos, y él enderezará tus sendas.\" (3:6)",
+        "\"No seas sabio en tu propia opinión; teme al SEÑOR y apártate del mal.\" (3:7)",
+        "\"Será medicina para tu cuerpo y refrigerio para tus huesos.\" (3:8)",
+        "\"Honra al SEÑOR con tus bienes y con las primicias de todos tus frutos;\" (3:9)",
+        "\"entonces tus graneros se llenarán con abundancia y tus lagares rebosarán de mosto.\" (3:10)",
+        "\"Hijo mío, no desprecies la disciplina del SEÑOR, ni te canses de su reprensión,\" (3:11)",
+        "\"porque el SEÑOR reprende al que ama, como el padre al hijo en quien se deleita.\" (3:12)",
+        "Bienaventurado el hombre que halla la sabiduría, y el que obtiene entendimiento, (3:13)",
+        "porque su ganancia es mejor que la ganancia de la plata, y su provecho más que el oro fino. (3:14)",
+        "Es más preciosa que las piedras preciosas, y nada de lo que desees se le puede comparar. (3:15)",
+        "Largura de días hay en su mano derecha; en su izquierda, riquezas y honra. (3:16)",
+        "Sus caminos son caminos de deleite, y todas sus sendas son paz. (3:17)",
+        "Es árbol de vida para los que de ella echan mano, y bienaventurados son los que la abrazan. (3:18)",
+        "El SEÑOR con sabiduría fundó la tierra; con entendimiento estableció los cielos; (3:19)",
+        "con su conocimiento se abrieron los abismos, y las nubes destilan rocío. (3:20)",
+        "Hijo mío, no se aparten estas cosas de tus ojos; guarda la sana sabiduría y la discreción, (3:21)",
+        "y serán vida para tu alma y adorno para tu cuello. (3:22)",
+        "Entonces andarás por tu camino con seguridad, y tu pie no tropezará. (3:23)",
+        "Cuando te acuestes, no tendrás temor; te acostarás, y tu sueño será dulce. (3:24)",
+        "No temas el terror repentino ni la ruina de los impíos cuando venga, (3:25)",
+        "porque el SEÑOR será tu confianza y guardará tu pie de ser atrapado. (3:26)",
+        "No niegues el bien a quien es debido, cuando esté en tu poder hacerlo. (3:27)",
+        "No digas a tu prójimo: \"Ve y vuelve; mañana te daré\", cuando lo tienes contigo. (3:28)",
+        "No trames mal contra tu prójimo que habita confiado junto a ti. (3:29)",
+        "No pleitees con nadie sin razón, si no te ha hecho ningún daño. (3:30)",
+        "No envidies al hombre violento ni escojas ninguno de sus caminos, (3:31)",
+        "porque el perverso es abominación al SEÑOR, mas los rectos gozan de su intimidad. (3:32)",
+        "La maldición del SEÑOR está sobre la casa del impío, pero bendice la morada de los justos. (3:33)",
+        "Hacia los burladores él es burlador, pero a los humildes da gracia. (3:34)",
+        "Los sabios heredarán honra, pero los necios llevarán ignominia. (3:35)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 6:6–9 — Ata las palabras; escríbelas en los postes de tu casa (motivo de atar y escribir).",
+        "Deuteronomio 26:1–11 — Ofrenda de las primicias.",
+        "Salmo 37:3–5 — Confía en el SEÑOR y Él actuará.",
+        "Hebreos 12:5–6 — Cita Proverbios 3:11–12 sobre la disciplina del SEÑOR."
+      ],
+      "translationNotes": [
+        {
+          "term": "Enseñanza / ley",
+          "original": "Hebrew: תּוֹרָה (torah) — Greek: νόμος (nomos) — Aramaic: אורייתא (orayta)",
+          "note": "Instrucción que debe ser recordada y guardada (3:1)."
+        },
+        {
+          "term": "Misericordia y verdad",
+          "original": "Hebrew: חֶסֶד וֶאֱמֶת (ḥesed veʾemet) — Greek: ἔλεος καὶ ἀλήθεια — Aramaic: חסד וקושטא",
+          "note": "Términos del pacto emparejados que deben atarse e inscribirse (3:3)."
+        },
+        {
+          "term": "Enderezará tus sendas",
+          "original": "Hebrew: יְיַשֵּׁר אֹרְחֹתֶיךָ (yeyasher orḥotekha) — Greek: κατευθυνεῖ τὰς ὁδούς — Aramaic: יישר אורחתך",
+          "note": "Allanar o dirigir el camino de uno (3:6)."
+        },
+        {
+          "term": "Disciplina / reprensión",
+          "original": "Hebrew: מוּסָר (musar) / תּוֹכַחַת (tokhaḥat) — Greek: παιδεία / ἔλεγχος — Aramaic: מוסרָא / תוכחתא",
+          "note": "Formación y amonestación correctiva (3:11–12)."
+        }
+      ],
+      "keyTakeaway": "El pasaje ordena confiar en el SEÑOR en lugar de en uno mismo, promete sendas rectas y salud, dirige a honrarlo con las primicias y declara que Él disciplina como un padre."
+    },
+    {
+      "id": "proverbs-4",
+      "title": "🛣️ Proverbios 4",
+      "refs": [
+        "Proverbs 4:1-27"
+      ],
+      "summaryBullets": [
+        "\"Oíd, hijos, la instrucción de un padre, y estad atentos para que ganéis entendimiento,\" (4:1)",
+        "\"porque os doy buena enseñanza; no abandonéis mi instrucción.\" (4:2)",
+        "\"Cuando yo era hijo junto a mi padre, tierno y único ante mi madre,\" (4:3)",
+        "\"él me enseñó y me dijo: 'Retenga tu corazón mis palabras; guarda mis mandamientos, y vivirás'.\" (4:4)",
+        "\"Adquiere sabiduría, adquiere entendimiento; no te olvides, ni te apartes de las palabras de mi boca.\" (4:5)",
+        "\"No la abandones, y ella te guardará; ámala, y ella te protegerá.\" (4:6)",
+        "\"El principio de la sabiduría es: Adquiere sabiduría; y con todo lo que adquieras, adquiere entendimiento.\" (4:7)",
+        "\"Tenla en gran estima, y ella te exaltará; te honrará si la abrazas.\" (4:8)",
+        "\"Guirnalda de gracia pondrá sobre tu cabeza; corona de hermosura te entregará.\" (4:9)",
+        "\"Oye, hijo mío, y acepta mis palabras, para que se multipliquen los años de tu vida.\" (4:10)",
+        "\"Te he enseñado el camino de la sabiduría; te he guiado por sendas de rectitud.\" (4:11)",
+        "\"Cuando andes, tus pasos no serán estorbados, y si corres, no tropezarás.\" (4:12)",
+        "\"Aférrate a la instrucción; no la sueltes; guárdala, porque ella es tu vida.\" (4:13)",
+        "\"No entres por la vereda de los impíos, ni andes por el camino de los malvados.\" (4:14)",
+        "\"Evítala; no pases por ella; apártate de ella y pasa de largo.\" (4:15)",
+        "\"Porque no pueden dormir si no han hecho el mal; pierden el sueño si no han hecho caer a alguien.\" (4:16)",
+        "\"Porque comen pan de maldad y beben vino de violencia.\" (4:17)",
+        "\"Pero la senda de los justos es como la luz de la aurora, que va en aumento hasta que el día es perfecto.\" (4:18)",
+        "\"El camino de los impíos es como la oscuridad profunda; no saben en qué tropiezan.\" (4:19)",
+        "\"Hijo mío, está atento a mis palabras; inclina tu oído a mis razones.\" (4:20)",
+        "\"No se aparten de tus ojos; guárdalas en lo profundo de tu corazón.\" (4:21)",
+        "\"Porque son vida para los que las hallan, y medicina para todo su cuerpo.\" (4:22)",
+        "\"Sobre toda cosa guardada, guarda tu corazón, porque de él brotan los manantiales de la vida.\" (4:23)",
+        "\"Aparta de ti la boca perversa, y aleja de ti los labios torcidos.\" (4:24)",
+        "\"Miren tus ojos directamente hacia adelante, y tus párpados miren derecho delante de ti.\" (4:25)",
+        "\"Examina la senda de tus pies, y todos tus caminos serán firmes.\" (4:26)",
+        "\"No te desvíes a la derecha ni a la izquierda; aparta tu pie del mal.\" (4:27)"
+      ],
+      "crossRefs": [
+        "Salmo 1:1–6 — Dos caminos: justos contra impíos.",
+        "Deuteronomio 5:32 — No te apartes ni a la derecha ni a la izquierda.",
+        "Proverbios 3:17 — Los caminos de la sabiduría son deleite y paz."
+      ],
+      "translationNotes": [
+        {
+          "term": "Senda / camino",
+          "original": "Hebrew: דֶּרֶךְ (déreḵ) / אֹרַח (ʾóraḥ) — Greek (LXX): ὁδός — Aramaic: אורחא",
+          "note": "Metáfora de ruta o camino para la conducta (4:11–14) (4:18–19) (4:26–27)."
+        },
+        {
+          "term": "Corazón",
+          "original": "Hebrew: לֵב (lev) — Greek: καρδία — Aramaic: לבא",
+          "note": "Centro interior del pensamiento y la voluntad; debe ser guardado (4:21–23)."
+        },
+        {
+          "term": "Boca perversa",
+          "original": "Hebrew: עִקֵּשׁוּת פֶּה (ʿiqkēshut peh) — Greek: σκολιότης — Aramaic: עוות פומא",
+          "note": "Habla torcida y desviada que debe apartarse (4:24)."
+        }
+      ],
+      "keyTakeaway": "El pasaje ordena adquirir y retener la sabiduría, evitar la senda de los impíos, caminar por la senda de los justos como una luz creciente y guardar el corazón como fuente de vida."
+    },
+    {
+      "id": "proverbs-5",
+      "title": "💔 Proverbios 5",
+      "refs": [
+        "Proverbs 5:1-23"
+      ],
+      "summaryBullets": [
+        "\"Hijo mío, está atento a mi sabiduría; inclina tu oído a mi entendimiento,\" (5:1)",
+        "\"para que guardes discreción y tus labios conserven el conocimiento.\" (5:2)",
+        "\"Porque los labios de la mujer ajena destilan miel, y su paladar es más suave que el aceite;\" (5:3)",
+        "\"pero al final es amarga como el ajenjo, aguda como espada de dos filos.\" (5:4)",
+        "\"Sus pies descienden a la muerte; sus pasos conducen al Seol;\" (5:5)",
+        "\"no considera el camino de la vida; sus sendas son inestables y ella no lo sabe.\" (5:6)",
+        "\"Ahora pues, hijos, escuchadme, y no os apartéis de las palabras de mi boca.\" (5:7)",
+        "\"Aleja de ella tu camino, y no te acerques a la puerta de su casa,\" (5:8)",
+        "\"para que no des tu honor a otros y tus años al implacable,\" (5:9)",
+        "\"para que los extraños no se sacien de tu fuerza y tus trabajos vayan a casa del extranjero,\" (5:10)",
+        "\"y al final de tu vida gimas, cuando tu carne y tu cuerpo se hayan consumido,\" (5:11)",
+        "\"y digas: '¡Cómo aborrecí la disciplina, y mi corazón despreció la reprensión!\" (5:12)",
+        "\"No escuché la voz de mis maestros ni incliné mi oído a mis instructores.\" (5:13)",
+        "\"Estoy al borde de la ruina total en medio de la congregación reunida'.\" (5:14)",
+        "\"Bebe agua de tu propia cisterna, agua que fluye de tu propio pozo.\" (5:15)",
+        "\"¿Habrán de derramarse tus manantiales por fuera, tus corrientes de agua por las calles?\" (5:16)",
+        "\"Sean para ti solo, y no para los extraños contigo.\" (5:17)",
+        "\"Sea bendita tu fuente, y alégrate con la mujer de tu juventud,\" (5:18)",
+        "\"cierva amada, graciosa gacela. Que sus pechos te satisfagan en todo tiempo; embriágate siempre en su amor.\" (5:19)",
+        "\"¿Por qué has de embriagarte, hijo mío, con una mujer ajena y abrazar el seno de una extraña?\" (5:20)",
+        "\"Porque los caminos del hombre están ante los ojos del SEÑOR, y él pondera todas sus sendas.\" (5:21)",
+        "\"Las iniquidades del impío lo atrapan, y queda sujeto en las cuerdas de su pecado.\" (5:22)",
+        "\"Morirá por falta de disciplina, y por su gran necedad se extraviará.\" (5:23)"
+      ],
+      "crossRefs": [
+        "Éxodo 20:14 — \"No cometerás adulterio.\"",
+        "Proverbios 6:23–35 — El costo del adulterio y la venganza del marido.",
+        "Proverbios 7:6–27 — Escena nocturna de seducción que lleva al Seol."
+      ],
+      "translationNotes": [
+        {
+          "term": "Mujer ajena / extraña; adultera",
+          "original": "Hebrew: אִשָּׁה זָרָה (ishah zarah) / נָכְרִיָּה (nokhriyyah) / אֵשֶׁת מֵאֵישׁ אַחֵר (ʾeshet meʾish aḥer, ‘another man’s wife’) — Greek (LXX): γυνὴ ἀλλοτρία — Aramaic: אתתא נוכריתא",
+          "note": "Designaciones para la mujer fuera del matrimonio legítimo cuyo camino conduce a la muerte (5:3–5)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא (Sheʾola)",
+          "note": "Morada de los muertos (5:5)."
+        },
+        {
+          "term": "Cisterna / fuente",
+          "original": "Hebrew: בּוֹר (bor) / מָקוֹר (maqor) — Greek: λάκκος / πηγή — Aramaic: בורא / מעיינא",
+          "note": "Fuentes de agua del hogar usadas como imagen de la fidelidad conyugal (5:15–18)."
+        }
+      ],
+      "keyTakeaway": "El pasaje advierte que hay que mantenerse lejos de la mujer ajena cuyo camino conduce a la muerte, alegrarse con la propia esposa, y declara que el SEÑOR ve todo camino y que el pecado sin disciplina atrapa y mata."
+    },
+    {
+      "id": "proverbs-6",
+      "title": "🐜 Proverbios 6",
+      "refs": [
+        "Proverbs 6:1-35"
+      ],
+      "summaryBullets": [
+        "\"Hijo mío, si has salido fiador por tu prójimo, si has dado tu palabra a un extraño,\" (6:1)",
+        "\"si has quedado atrapado por las palabras de tu boca, preso por las palabras de tu boca,\" (6:2)",
+        "\"haz esto entonces, hijo mío, y líbrate, pues has caído en la mano de tu prójimo: ve, humíllate y suplica con insistencia a tu prójimo.\" (6:3)",
+        "\"No des sueño a tus ojos ni reposo a tus párpados;\" (6:4)",
+        "\"líbrate como gacela de la mano del cazador, como ave de la mano del que pone trampas.\" (6:5)",
+        "\"Ve a la hormiga, oh perezoso; observa sus caminos y sé sabio.\" (6:6)",
+        "\"La cual sin tener jefe, ni gobernador ni señor,\" (6:7)",
+        "\"prepara su pan en el verano y recoge su alimento en la cosecha.\" (6:8)",
+        "\"¿Hasta cuándo dormirás, oh perezoso? ¿Cuándo te levantarás de tu sueño?\" (6:9)",
+        "\"Un poco de sueño, un poco de dormitar, un poco de cruzar las manos para descansar,\" (6:10)",
+        "\"y vendrá tu pobreza como un vagabundo, y tu necesidad como un hombre armado.\" (6:11)",
+        "\"El hombre indigno, el malvado, anda con boca perversa,\" (6:12)",
+        "\"guiña los ojos, hace señas con los pies, señala con los dedos;\" (6:13)",
+        "\"con corazón perverso trama el mal, siembra discordia continuamente;\" (6:14)",
+        "\"por tanto su calamidad vendrá de repente; en un instante será quebrantado sin remedio.\" (6:15)",
+        "\"Seis cosas aborrece el SEÑOR, y siete son abominación para él:\" (6:16)",
+        "\"ojos altivos, lengua mentirosa, y manos que derraman sangre inocente,\" (6:17)",
+        "\"corazón que maquina planes inicuos, pies que corren presurosos al mal,\" (6:18)",
+        "\"testigo falso que profiere mentiras, y el que siembra discordia entre hermanos.\" (6:19)",
+        "\"Hijo mío, guarda los mandamientos de tu padre, y no abandones la enseñanza de tu madre.\" (6:20)",
+        "\"Átalos sobre tu corazón perpetuamente; enlázalos a tu cuello.\" (6:21)",
+        "\"Cuando camines, te guiarán; cuando te acuestes, velarán por ti; y cuando despiertes, hablarán contigo.\" (6:22)",
+        "\"Porque el mandamiento es lámpara y la enseñanza es luz, y las reprensiones de la disciplina son camino de vida,\" (6:23)",
+        "\"para guardarte de la mala mujer, de la lengua suave de la extraña.\" (6:24)",
+        "\"No codicies su hermosura en tu corazón, ni dejes que te prenda con sus pestañas;\" (6:25)",
+        "\"porque a causa de la mujer ramera el hombre queda reducido a un bocado de pan, pero la mujer casada caza una vida preciosa.\" (6:26)",
+        "\"¿Tomará el hombre fuego en su seno sin que sus vestidos se quemen?\" (6:27)",
+        "\"¿O andará el hombre sobre brasas sin que se le quemen los pies?\" (6:28)",
+        "\"Así es el que se llega a la mujer de su prójimo; no quedará impune ninguno que la toque.\" (6:29)",
+        "\"No se desprecia al ladrón si hurta para saciar su apetito cuando tiene hambre,\" (6:30)",
+        "\"pero si es atrapado, pagará siete veces; dará todos los bienes de su casa.\" (6:31)",
+        "\"El que comete adulterio carece de entendimiento; el que lo hace destruye su propia alma.\" (6:32)",
+        "\"Heridas y vergüenza hallará, y su afrenta no será borrada.\" (6:33)",
+        "\"Porque los celos enfurecen al hombre, y no perdonará en el día de la venganza.\" (6:34)",
+        "\"No aceptará ninguna compensación; rehusará aunque multipliques los regalos.\" (6:35)"
+      ],
+      "crossRefs": [
+        "Proverbios 11:15 — El que sale fiador de un extraño sufrirá por ello.",
+        "Proverbios 24:30–34 — El campo del perezoso; la pobreza viene como un vagabundo.",
+        "Deuteronomio 19:16–19 — Leyes sobre el testigo falso."
+      ],
+      "translationNotes": [
+        {
+          "term": "Fianza / compromiso",
+          "original": "Hebrew: עָרַב (ʿarav, ‘to pledge/become collateral’) — Greek (LXX): ἔγγυος/ἐγγύη — Aramaic: ערבותא",
+          "note": "Hacerse responsable por la deuda de otro (6:1–5)."
+        },
+        {
+          "term": "Perezoso",
+          "original": "Hebrew: עָצֵל (ʿatsel) — Greek: ὀκνηρός — Aramaic: עצלא",
+          "note": "Persona habitualmente holgazana a quien se insta a aprender de la hormiga (6:6–11)."
+        },
+        {
+          "term": "Hombre perverso",
+          "original": "Hebrew: אִישׁ בְּלִיַּעַל (ʾish beliyyaʿal)",
+          "note": "Término para un alborotador indigno; descrito por señales y maquinaciones (6:12–14)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא (toʿevta)",
+          "note": "Actos detestables enumerados en las siete cosas (6:16–19)."
+        }
+      ],
+      "keyTakeaway": "El pasaje ordena escapar de las fianzas arriesgadas, reprende la pereza con el ejemplo de la hormiga, describe a un provocador de señales que se dirige a la ruina repentina y enumera siete abominaciones que el SEÑOR aborrece."
+    },
+    {
+      "id": "proverbs-7",
+      "title": "🌙 Proverbios 7",
+      "refs": [
+        "Proverbs 7:1-27"
+      ],
+      "summaryBullets": [
+        "\"Hijo mío, guarda mis palabras y atesora mis mandamientos contigo;\" (7:1)",
+        "\"guarda mis mandamientos y vivirás; guarda mi enseñanza como la niña de tus ojos;\" (7:2)",
+        "\"átalos a tus dedos; escríbelos en la tabla de tu corazón.\" (7:3)",
+        "\"Di a la sabiduría: 'Tú eres mi hermana', y llama al entendimiento tu pariente,\" (7:4)",
+        "\"para que te guarden de la mujer ajena, de la extraña que halaga con sus palabras.\" (7:5)",
+        "\"Porque mirando por la ventana de mi casa, a través de mi celosía,\" (7:6)",
+        "\"vi entre los simples, observé entre los jóvenes, a un muchacho falto de juicio,\" (7:7)",
+        "\"que pasaba por la calle cerca de su esquina, tomando el camino hacia su casa,\" (7:8)",
+        "\"al atardecer, al anochecer, en la oscuridad de la noche.\" (7:9)",
+        "\"Y he aquí, una mujer le sale al encuentro, vestida como ramera, astuta de corazón.\" (7:10)",
+        "\"Ella es bulliciosa y rebelde; sus pies no permanecen en casa;\" (7:11)",
+        "\"unas veces en la calle, otras en las plazas, y acechando en cada esquina.\" (7:12)",
+        "\"Lo agarra y lo besa, y con rostro descarado le dice:\" (7:13)",
+        "\"'Tenía que ofrecer sacrificios de paz, y hoy he cumplido mis votos;\" (7:14)",
+        "\"por eso he salido a tu encuentro, buscándote con ansia, y te he hallado.\" (7:15)",
+        "\"He tendido mi lecho con cobertores, con telas de colores de lino de Egipto;\" (7:16)",
+        "\"he perfumado mi cama con mirra, áloes y canela.\" (7:17)",
+        "\"Ven, saciémonos de amores hasta la mañana; deleitémonos con caricias.\" (7:18)",
+        "\"Porque mi marido no está en casa; se ha ido a un largo viaje;\" (7:19)",
+        "\"llevó consigo una bolsa de dinero; volverá a casa a la luna llena'.\" (7:20)",
+        "\"Con muchas palabras seductoras lo persuade; con la suavidad de sus labios lo arrastra.\" (7:21)",
+        "\"Al punto la sigue, como buey que va al matadero, como ciervo que cae en la trampa,\" (7:22)",
+        "\"hasta que una saeta le traspasa el hígado; como ave que se precipita en la red, sin saber que le va la vida en ello.\" (7:23)",
+        "\"Ahora pues, hijos, escuchadme, y estad atentos a las palabras de mi boca.\" (7:24)",
+        "\"No se desvíe tu corazón hacia sus caminos; no te extravíes por sus sendas,\" (7:25)",
+        "\"porque a muchos ha hecho caer heridos, y numerosos son los que ella ha matado.\" (7:26)",
+        "\"Su casa es camino al Seol, que desciende a las cámaras de la muerte.\" (7:27)"
+      ],
+      "crossRefs": [
+        "Éxodo 20:14 — Prohibición del adulterio.",
+        "Proverbios 5:8 — Aleja de ella tu camino.",
+        "Proverbios 9:13–18 — La casa de la insensatez y los muertos que son sus huéspedes."
+      ],
+      "translationNotes": [
+        {
+          "term": "Niña de tus ojos",
+          "original": "Hebrew: אִישׁוֹן עַיִן (ʾishon ʿayin) — Greek: κόρη ὀφθαλμοῦ — Aramaic: בָּבַת עֵינָא (bāvat ʿeinā)",
+          "note": "Imagen de cuidadosa protección (7:2)."
+        },
+        {
+          "term": "Ofrendas de paz",
+          "original": "Hebrew: זִבְחֵי שְׁלָמִים (zivḥei shelamim) — Greek (LXX): θυσίαι σωτηρίων — Aramaic: דבחי שלמיא",
+          "note": "Sacrificios asociados con comidas compartidas (7:14)."
+        },
+        {
+          "term": "Fecha señalada / luna llena",
+          "original": "Hebrew: בְּיוֹם הַכֵּסֶא (be-yom ha-keseʾ) — Greek: ἐν ἡμέρᾳ ὡρισμένῃ — Aramaic: ביומא קצויא",
+          "note": "Frase traducida como \"día señalado\" o \"luna llena\" (7:20)."
+        },
+        {
+          "term": "Flecha traspasa su hígado",
+          "original": "Hebrew: חֵץ יְמַהֵר כָּבֵד (ḥetz y’mahēr kāved) — Greek: βέλος διήλθεν ἧπαρ — Aramaic: חץ עבר בכבד",
+          "note": "Imagen de herida mortal (7:23)."
+        }
+      ],
+      "keyTakeaway": "El pasaje describe un encuentro nocturno en el que un joven es atraído por palabras persuasivas a una casa cuyo camino desciende al Seol."
+    },
+    {
+      "id": "proverbs-8",
+      "title": "🏛️ Proverbios 8",
+      "refs": [
+        "Proverbs 8:1-36"
+      ],
+      "summaryBullets": [
+        "¿No clama la sabiduría? ¿No alza su voz el entendimiento? (8:1)",
+        "En las alturas junto al camino, en las encrucijadas se detiene; (8:2)",
+        "junto a las puertas, a la entrada de la ciudad, a la entrada de los portales clama en voz alta: (8:3)",
+        "\"A vosotros, oh hombres, llamo, y mi voz se dirige a los hijos de los hombres.\" (8:4)",
+        "\"Oh simples, aprended prudencia; oh necios, adquirid cordura.\" (8:5)",
+        "\"Oíd, porque hablaré cosas excelentes, y de mis labios saldrá lo recto,\" (8:6)",
+        "\"porque mi boca hablará la verdad; la maldad es abominación a mis labios.\" (8:7)",
+        "\"Justas son todas las palabras de mi boca; no hay en ellas cosa torcida ni perversa.\" (8:8)",
+        "\"Todas son rectas para el que entiende, y justas para los que hallan conocimiento.\" (8:9)",
+        "\"Recibid mi instrucción y no plata, y conocimiento antes que oro escogido,\" (8:10)",
+        "\"porque mejor es la sabiduría que las piedras preciosas, y nada de lo que se desea se le puede comparar.\" (8:11)",
+        "\"Yo, la Sabiduría, habito con la prudencia, y poseo conocimiento y discreción.\" (8:12)",
+        "\"El temor del SEÑOR es aborrecer el mal. El orgullo y la arrogancia, el mal camino y la boca perversa, yo aborrezco.\" (8:13)",
+        "\"Mío es el consejo y la sana sabiduría; mía es la inteligencia; mía es la fortaleza.\" (8:14)",
+        "\"Por mí reinan los reyes, y los gobernantes decretan lo justo;\" (8:15)",
+        "\"por mí gobiernan los príncipes, y los nobles, todos los que juzgan con justicia.\" (8:16)",
+        "\"Yo amo a los que me aman, y los que me buscan con diligencia me hallarán.\" (8:17)",
+        "\"Conmigo están las riquezas y la honra, bienes duraderos y justicia.\" (8:18)",
+        "\"Mi fruto es mejor que el oro, que el oro fino, y mi ganancia que la plata escogida.\" (8:19)",
+        "\"Yo camino por la senda de la justicia, por los senderos del derecho,\" (8:20)",
+        "\"para dar herencia a los que me aman, y llenar sus tesoros.\" (8:21)",
+        "\"El SEÑOR me poseía al principio de su obra, antes de sus obras de antaño.\" (8:22)",
+        "\"Desde la eternidad fui establecida, desde el principio, antes del comienzo de la tierra.\" (8:23)",
+        "\"Cuando no había abismos fui engendrada, cuando no había fuentes llenas de agua.\" (8:24)",
+        "\"Antes que los montes fuesen formados, antes que los collados, fui engendrada,\" (8:25)",
+        "\"antes que él hiciera la tierra y los campos, ni el polvo primero del mundo.\" (8:26)",
+        "\"Cuando estableció los cielos, allí estaba yo; cuando trazó un círculo sobre la faz del abismo,\" (8:27)",
+        "\"cuando afirmó los cielos en lo alto, cuando estableció las fuentes del abismo,\" (8:28)",
+        "\"cuando fijó al mar su límite, para que las aguas no traspasasen su mandato, cuando señaló los fundamentos de la tierra,\" (8:29)",
+        "\"yo estaba junto a él como artífice, y era su delicia cada día, regocijándome delante de él siempre,\" (8:30)",
+        "\"regocijándome en su mundo habitado y deleitándome con los hijos de los hombres.\" (8:31)",
+        "\"Ahora pues, hijos, escuchadme: bienaventurados los que guardan mis caminos.\" (8:32)",
+        "\"Oíd la instrucción y sed sabios; no la despreciéis.\" (8:33)",
+        "\"Bienaventurado el hombre que me escucha, velando a mis puertas cada día, esperando junto a los postes de mis entradas.\" (8:34)",
+        "\"Porque el que me halla, halla la vida, y alcanza el favor del SEÑOR;\" (8:35)",
+        "\"pero el que peca contra mí se perjudica a sí mismo; todos los que me aborrecen aman la muerte.\" (8:36)"
+      ],
+      "crossRefs": [
+        "Job 28:12–28 — ¿Dónde se hallará la sabiduría?",
+        "Eclesiástico 24:1–22 (Deuterocanónico) — Autodescripción de la Sabiduría.",
+        "Sabiduría de Salomón 7:22–8:1 (Deuterocanónico) — Cualidades y función de la Sabiduría.",
+        "Proverbios 1:20–33 — Llamado público anterior de la Sabiduría."
+      ],
+      "translationNotes": [
+        {
+          "term": "Prudencia",
+          "original": "Hebrew: עֹרְמָה (ʿormāh) — Greek (LXX): φρόνησις — Aramaic: ערמותא",
+          "note": "Sagacidad o astucia usada positivamente aquí (8:12)."
+        },
+        {
+          "term": "Temor del SEÑOR",
+          "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH) — Greek: φόβος Κυρίου — Aramaic: דחלתא דיי",
+          "note": "Definido aquí como el aborrecimiento del mal (8:13)."
+        },
+        {
+          "term": "Me poseía / me creó (8:22)",
+          "original": "Hebrew: יְהוָה קָנָנִי (YHWH qānānī) — Greek (LXX): κύριος ἔκτισέν με — Aramaic: יי קננני",
+          "note": "El verbo qānā puede significar \"adquirir/poseer/crear\"; la Septuaginta lee \"creó\". La declaración es parte del discurso de la Sabiduría."
+        },
+        {
+          "term": "Junto a Él como 'amón'",
+          "original": "Hebrew: אָמוֹן (ʾāmōn) — Greek (LXX): ἁρμόζουσα (arranging) — Aramaic: אמון",
+          "note": "Término posiblemente \"maestro artesano\" o \"criatura\"; la traducción varía (8:30)."
+        }
+      ],
+      "keyTakeaway": "La Sabiduría clama públicamente por la instrucción recta, está vinculada al gobierno justo, se describe como presente antes de la creación y dice que hallarla es hallar la vida y el favor."
+    },
+    {
+      "id": "proverbs-9",
+      "title": "🍽️ Proverbios 9",
+      "refs": [
+        "Proverbs 9:1-18"
+      ],
+      "summaryBullets": [
+        "La Sabiduría ha edificado su casa; ha labrado sus siete columnas. (9:1)",
+        "Ha preparado su carne; ha mezclado su vino; también ha puesto su mesa. (9:2)",
+        "Ha enviado a sus doncellas a llamar desde los lugares más altos de la ciudad: (9:3)",
+        "\"El que sea simple, que entre aquí\". Al falto de entendimiento le dice: (9:4)",
+        "\"Venid, comed de mi pan y bebed del vino que he mezclado.\" (9:5)",
+        "\"Dejad las simplezas y vivid; andad por el camino del entendimiento.\" (9:6)",
+        "El que corrige al burlador se acarrea afrenta, y el que reprende al impío se atrae injuria. (9:7)",
+        "No reprendas al burlador, para que no te aborrezca; reprende al sabio, y te amará. (9:8)",
+        "Da instrucción al sabio, y será más sabio; enseña al justo, y aumentará en saber. (9:9)",
+        "El temor del SEÑOR es el principio de la sabiduría, y el conocimiento del Santo es entendimiento. (9:10)",
+        "Porque por mí se multiplicarán tus días, y se te añadirán años de vida. (9:11)",
+        "Si eres sabio, eres sabio para ti mismo; si eres burlador, tú solo lo soportarás. (9:12)",
+        "La mujer Necedad es bulliciosa; es seductora y no sabe nada. (9:13)",
+        "Se sienta a la puerta de su casa, en un asiento en los lugares altos de la ciudad, (9:14)",
+        "llamando a los que pasan, a los que van derechos por sus caminos: (9:15)",
+        "\"El que sea simple, que entre aquí\". Y al falto de entendimiento le dice: (9:16)",
+        "\"Las aguas robadas son dulces, y el pan comido en secreto es agradable.\" (9:17)",
+        "Pero él no sabe que allí están los muertos, que sus convidados están en lo profundo del Seol. (9:18)"
+      ],
+      "crossRefs": [
+        "Proverbios 1:7 — El temor del SEÑOR es el principio del conocimiento.",
+        "Proverbios 8:1–3 — La Sabiduría clama junto a las puertas y en los cruces.",
+        "Proverbios 20:17 — \"Pan obtenido con engaño es dulce al hombre, pero después su boca se llenará de grava.\""
+      ],
+      "translationNotes": [
+        {
+          "term": "Siete columnas",
+          "original": "Hebrew: שִׁבְעָה עַמּוּדֶיהָ (shivʿāh ʿammudeha) — Greek (LXX): ἑπτὰ στύλους — Aramaic: שבעה עמודיה",
+          "note": "Imagen de una casa bien construida y estable (9:1)."
+        },
+        {
+          "term": "Escarnecedor",
+          "original": "Hebrew: לֵץ (lēts) — Greek: λοιμώκτης/ἐμπαίκτης — Aramaic: לצא",
+          "note": "Burlador que rechaza la corrección (9:7–8)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא (Sheʾola)",
+          "note": "Morada de los muertos; los huéspedes de la Insensatez están allí (9:18)."
+        }
+      ],
+      "keyTakeaway": "La Sabiduría invita públicamente al simple a un banquete preparado que da vida e inteligencia, mientras que la Insensatez imita el llamado con placeres robados que llevan a los muertos en el Seol."
+    },
+    {
+      "id": "proverbs-10",
+      "title": "🧩 Proverbios 10",
+      "refs": [
+        "Proverbs 10:1-32"
+      ],
+      "summaryBullets": [
+        "Los proverbios de Salomón. El hijo sabio alegra al padre, pero el hijo necio es tristeza de su madre. (10:1)",
+        "Los tesoros ganados con maldad no aprovechan, pero la justicia libra de la muerte. (10:2)",
+        "El SEÑOR no deja que el justo pase hambre, pero frustra el deseo del impío. (10:3)",
+        "La mano negligente empobrece, pero la mano del diligente enriquece. (10:4)",
+        "El que recoge en el verano es hijo prudente; el que duerme durante la siega es hijo que avergüenza. (10:5)",
+        "Bendiciones coronan la cabeza del justo, pero la boca del impío encubre violencia. (10:6)",
+        "La memoria del justo es bendición, pero el nombre del impío se pudrirá. (10:7)",
+        "El sabio de corazón acepta mandamientos, pero el necio parlanchín caerá. (10:8)",
+        "El que camina en integridad anda seguro, pero el que tuerce sus caminos será descubierto. (10:9)",
+        "El que guiña el ojo causa problemas, y el necio parlanchín caerá. (10:10)",
+        "La boca del justo es fuente de vida, pero la boca del impío encubre violencia. (10:11)",
+        "El odio despierta contiendas, pero el amor cubre todas las ofensas. (10:12)",
+        "En los labios del entendido se halla sabiduría, pero la vara es para las espaldas del falto de juicio. (10:13)",
+        "Los sabios atesoran conocimiento, pero la boca del necio es ruina cercana. (10:14)",
+        "La riqueza del rico es su ciudad fuerte; la pobreza de los pobres es su ruina. (10:15)",
+        "El salario del justo conduce a la vida; la ganancia del impío, al pecado. (10:16)",
+        "El que atiende a la instrucción va por el camino de la vida, pero el que rechaza la reprensión extravía a otros. (10:17)",
+        "El que encubre el odio tiene labios mentirosos, y el que propaga calumnia es necio. (10:18)",
+        "Donde abundan las palabras, no falta la transgresión; mas el que refrena sus labios es prudente. (10:19)",
+        "La lengua del justo es plata escogida; el corazón del impío vale poco. (10:20)",
+        "Los labios del justo apacientan a muchos, pero los necios mueren por falta de juicio. (10:21)",
+        "La bendición del SEÑOR enriquece, y no añade tristeza con ella. (10:22)",
+        "Para el necio hacer maldad es como una broma, pero la sabiduría es deleite para el hombre de entendimiento. (10:23)",
+        "Lo que el impío teme, eso le vendrá; pero el deseo de los justos será satisfecho. (10:24)",
+        "Cuando pasa la tempestad, el impío ya no es más; pero el justo está establecido para siempre. (10:25)",
+        "Como el vinagre a los dientes y el humo a los ojos, así es el perezoso para los que lo envían. (10:26)",
+        "El temor del SEÑOR prolonga los días, pero los años del impío serán acortados. (10:27)",
+        "La esperanza del justo es alegría, pero la expectativa del impío perecerá. (10:28)",
+        "El camino del SEÑOR es fortaleza para el íntegro, pero destrucción para los que hacen iniquidad. (10:29)",
+        "El justo jamás será removido, pero el impío no habitará la tierra. (10:30)",
+        "La boca del justo produce sabiduría, pero la lengua perversa será cortada. (10:31)",
+        "Los labios del justo saben lo que es aceptable, pero la boca del impío, lo perverso. (10:32)"
+      ],
+      "crossRefs": [
+        "Levítico 19:35–36 — Balanzas justas, pesas y medidas.",
+        "Deuteronomio 25:13–16 — Se requieren pesas honestas.",
+        "Santiago 3:2–12 — El poder de la lengua para el bien o el mal.",
+        "Salmo 1:1–6 — El camino de los justos contra el de los impíos."
+      ],
+      "translationNotes": [
+        {
+          "term": "Abominación / deleite",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) / רָצוֹן (ratzon) — Greek (LXX): βδέλυγμα / εὐδοκία — Aramaic: תועבתא / רצונא",
+          "note": "Evaluación moral aplicada a las pesas falsas contra las justas (11:1)."
+        },
+        {
+          "term": "Diligente / negligente",
+          "original": "Hebrew: חָרוּץ (ḥarutz) / רְמִיָּה (remiyyah) — Greek: σπουδαῖος / ὀκνηρός — Aramaic: חריצא / רמיותא",
+          "note": "Ética de trabajo contrastada en sus resultados (10:4–5)."
+        },
+        {
+          "term": "Manantial de vida",
+          "original": "Hebrew: מְקוֹר חַיִּים (meqor ḥayyim) — Greek: πηγὴ ζωῆς — Aramaic: מעין דחיי",
+          "note": "Imagen del habla vivificante del justo (10:11)."
+        },
+        {
+          "term": "El amor cubre las faltas",
+          "original": "Hebrew: אַהֲבָה תְּכַסֶּה כָּל־פְּשָׁעִים (ʾahavah tekhasseh kol-peshaʿim)",
+          "note": "Declaración sobre cómo el amor encubre las ofensas (10:12)."
+        }
+      ],
+      "keyTakeaway": "Estos proverbios contrastan los desenlaces del justo y del impío, del trabajo diligente y la pereza, del habla veraz y dañina, del comercio honesto y deshonesto, y sitúan la vida en la senda de la justicia."
+    },
+    {
+      "id": "proverbs-11",
+      "title": "🧩 Proverbios 11",
+      "refs": [
+        "Proverbs 11:1-31"
+      ],
+      "summaryBullets": [
+        "La balanza falsa es abominación al SEÑOR, pero la pesa justa es su deleite. (11:1)",
+        "Cuando viene la soberbia, viene la deshonra; pero con los humildes está la sabiduría. (11:2)",
+        "La integridad de los rectos los guía, pero la perversidad de los traidores los destruye. (11:3)",
+        "Las riquezas no aprovechan en el día de la ira, pero la justicia libra de la muerte. (11:4)",
+        "La justicia del íntegro endereza su camino, pero el impío cae por su propia impiedad. (11:5)",
+        "La justicia de los rectos los libra, pero los traidores son atrapados por su propia codicia. (11:6)",
+        "Cuando muere el hombre impío, perece su esperanza, y la expectativa de los ricos perece también. (11:7)",
+        "El justo es librado de la angustia, y el impío ocupa su lugar. (11:8)",
+        "Con su boca el impío destruye a su prójimo, pero por el conocimiento los justos son librados. (11:9)",
+        "Cuando le va bien al justo, la ciudad se regocija; y cuando perecen los impíos, hay gritos de alegría. (11:10)",
+        "Por la bendición de los rectos la ciudad es engrandecida, pero por la boca de los impíos es destruida. (11:11)",
+        "El que menosprecia a su prójimo carece de juicio, pero el hombre de entendimiento calla. (11:12)",
+        "El que anda en chismes descubre secretos, pero el de espíritu fiel oculta las cosas. (11:13)",
+        "Donde no hay dirección, el pueblo cae; pero en la multitud de consejeros hay seguridad. (11:14)",
+        "El que sale fiador por un extraño sufrirá daño, pero el que rehúsa dar fianza está seguro. (11:15)",
+        "La mujer agraciada alcanza honra, y los hombres violentos alcanzan riquezas. (11:16)",
+        "El hombre bondadoso se beneficia a sí mismo, pero el cruel se perjudica a sí mismo. (11:17)",
+        "El impío recibe salarios engañosos, pero el que siembra justicia recibe galardón seguro. (11:18)",
+        "El que es firme en la justicia vivirá, pero el que persigue el mal morirá. (11:19)",
+        "Los de corazón perverso son abominación al SEÑOR, pero los de camino intachable son su deleite. (11:20)",
+        "Ten por seguro que el malvado no quedará sin castigo, pero la descendencia de los justos será librada. (11:21)",
+        "Como anillo de oro en hocico de cerdo es la mujer hermosa pero sin discreción. (11:22)",
+        "El deseo de los justos termina solo en bien; la expectativa de los impíos, en ira. (11:23)",
+        "Hay quien reparte y le es añadido más; y hay quien retiene más de lo justo y acaba en escasez. (11:24)",
+        "El alma generosa será prosperada, y el que riega será también regado. (11:25)",
+        "Al que retiene el grano, el pueblo lo maldice; pero bendición hay sobre la cabeza del que lo vende. (11:26)",
+        "El que busca el bien con diligencia busca favor, pero al que busca el mal, el mal le vendrá. (11:27)",
+        "El que confía en sus riquezas caerá, pero los justos reverdecerán como la hoja verde. (11:28)",
+        "El que perturba su casa heredará viento, y el necio será siervo del sabio de corazón. (11:29)",
+        "El fruto del justo es árbol de vida, y el que gana almas es sabio. (11:30)",
+        "Si el justo recibe su pago en la tierra, ¡cuánto más el impío y el pecador! (11:31)"
+      ],
+      "crossRefs": [
+        "Levítico 19:35–36 — Balanzas justas, pesas y medidas.",
+        "Deuteronomio 25:13–16 — Se requieren pesas honestas.",
+        "Santiago 3:2–12 — El poder de la lengua para el bien o el mal.",
+        "Salmo 1:1–6 — El camino de los justos contra el de los impíos."
+      ],
+      "translationNotes": [
+        {
+          "term": "Abominación / deleite",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) / רָצוֹן (ratzon) — Greek (LXX): βδέλυγμα / εὐδοκία — Aramaic: תועבתא / רצונא",
+          "note": "Evaluación moral aplicada a las pesas falsas contra las justas (11:1)."
+        },
+        {
+          "term": "Diligente / negligente",
+          "original": "Hebrew: חָרוּץ (ḥarutz) / רְמִיָּה (remiyyah) — Greek: σπουδαῖος / ὀκνηρός — Aramaic: חריצא / רמיותא",
+          "note": "Ética de trabajo contrastada en sus resultados (10:4–5)."
+        },
+        {
+          "term": "Manantial de vida",
+          "original": "Hebrew: מְקוֹר חַיִּים (meqor ḥayyim) — Greek: πηγὴ ζωῆς — Aramaic: מעין דחיי",
+          "note": "Imagen del habla vivificante del justo (10:11)."
+        },
+        {
+          "term": "El amor cubre las faltas",
+          "original": "Hebrew: אַהֲבָה תְּכַסֶּה כָּל־פְּשָׁעִים (ʾahavah tekhasseh kol-peshaʿim)",
+          "note": "Declaración sobre cómo el amor encubre las ofensas (10:12)."
+        }
+      ],
+      "keyTakeaway": "Estos proverbios contrastan los desenlaces del justo y del impío, del trabajo diligente y la pereza, del habla veraz y dañina, del comercio honesto y deshonesto, y sitúan la vida en la senda de la justicia."
+    },
+    {
+      "id": "proverbs-12",
+      "title": "🧩 Proverbios 12",
+      "refs": [
+        "Proverbs 12:1-28"
+      ],
+      "summaryBullets": [
+        "El que ama la disciplina ama el conocimiento, pero el que aborrece la reprensión es necio. (12:1)",
+        "El hombre bueno alcanza favor del SEÑOR, pero al hombre de malos designios lo condena. (12:2)",
+        "Nadie se afianza por la maldad, pero la raíz del justo jamás será removida. (12:3)",
+        "La mujer virtuosa es corona de su marido, pero la que avergüenza es como carcoma en sus huesos. (12:4)",
+        "Los pensamientos del justo son justos; los consejos de los impíos son engañosos. (12:5)",
+        "Las palabras de los impíos acechan para derramar sangre, pero la boca de los rectos los libra. (12:6)",
+        "Los impíos son trastornados y dejan de ser, pero la casa del justo permanecerá en pie. (12:7)",
+        "El hombre será alabado según su buen juicio, pero el de mente perversa será despreciado. (12:8)",
+        "Mejor es ser de condición humilde y tener un siervo, que jactarse y carecer de pan. (12:9)",
+        "El justo cuida la vida de su animal, pero las entrañas del impío son crueles. (12:10)",
+        "El que labra su tierra se saciará de pan, pero el que sigue cosas vanas carece de juicio. (12:11)",
+        "El impío codicia la red de los malhechores, pero la raíz del justo da fruto. (12:12)",
+        "Por la transgresión de sus labios queda atrapado el malvado, pero el justo sale de la angustia. (12:13)",
+        "Del fruto de su boca el hombre se sacia de bien, y la obra de las manos del hombre le será retribuida. (12:14)",
+        "El camino del necio es recto en su propia opinión, pero el sabio escucha el consejo. (12:15)",
+        "La ira del necio se conoce al instante, pero el prudente ignora la afrenta. (12:16)",
+        "El que dice la verdad da testimonio fiel, pero el testigo falso profiere engaño. (12:17)",
+        "Hay quien habla imprudentemente como estocadas de espada, pero la lengua del sabio sana. (12:18)",
+        "Los labios veraces permanecerán para siempre, pero la lengua mentirosa, solo un instante. (12:19)",
+        "En el corazón de los que traman el mal hay engaño, pero los que planean la paz tienen gozo. (12:20)",
+        "Ningún mal sobrevendrá al justo, pero los impíos serán colmados de males. (12:21)",
+        "Los labios mentirosos son abominación al SEÑOR, pero los que actúan con fidelidad son su deleite. (12:22)",
+        "El hombre prudente oculta el conocimiento, pero el corazón de los necios proclama necedad. (12:23)",
+        "La mano del diligente gobernará, pero la negligente será sometida a trabajo forzado. (12:24)",
+        "La ansiedad en el corazón del hombre lo abate, pero una buena palabra lo alegra. (12:25)",
+        "El justo sirve de guía a su prójimo, pero el camino de los impíos los hace errar. (12:26)",
+        "El perezoso no asa lo que ha cazado, pero el hombre diligente obtendrá riquezas preciosas. (12:27)",
+        "En la senda de la justicia está la vida, y en su camino no hay muerte. (12:28)"
+      ],
+      "crossRefs": [
+        "Levítico 19:35–36 — Balanzas justas, pesas y medidas.",
+        "Deuteronomio 25:13–16 — Se requieren pesas honestas.",
+        "Santiago 3:2–12 — El poder de la lengua para el bien o el mal.",
+        "Salmo 1:1–6 — El camino de los justos contra el de los impíos."
+      ],
+      "translationNotes": [
+        {
+          "term": "Abominación / deleite",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) / רָצוֹן (ratzon) — Greek (LXX): βδέλυγμα / εὐδοκία — Aramaic: תועבתא / רצונא",
+          "note": "Evaluación moral aplicada a las pesas falsas contra las justas (11:1)."
+        },
+        {
+          "term": "Diligente / negligente",
+          "original": "Hebrew: חָרוּץ (ḥarutz) / רְמִיָּה (remiyyah) — Greek: σπουδαῖος / ὀκνηρός — Aramaic: חריצא / רמיותא",
+          "note": "Ética de trabajo contrastada en sus resultados (10:4–5)."
+        },
+        {
+          "term": "Manantial de vida",
+          "original": "Hebrew: מְקוֹר חַיִּים (meqor ḥayyim) — Greek: πηγὴ ζωῆς — Aramaic: מעין דחיי",
+          "note": "Imagen del habla vivificante del justo (10:11)."
+        },
+        {
+          "term": "El amor cubre las faltas",
+          "original": "Hebrew: אַהֲבָה תְּכַסֶּה כָּל־פְּשָׁעִים (ʾahavah tekhasseh kol-peshaʿim)",
+          "note": "Declaración sobre cómo el amor encubre las ofensas (10:12)."
+        }
+      ],
+      "keyTakeaway": "Estos proverbios contrastan los desenlaces del justo y del impío, del trabajo diligente y la pereza, del habla veraz y dañina, del comercio honesto y deshonesto, y sitúan la vida en la senda de la justicia."
+    },
+    {
+      "id": "proverbs-13",
+      "title": "🧭 Proverbios 13",
+      "refs": [
+        "Proverbs 13:1-25"
+      ],
+      "summaryBullets": [
+        "El hijo sabio acepta la instrucción de su padre, pero el burlador no escucha la reprensión. (13:1)",
+        "Del fruto de su boca el hombre come el bien, pero el deseo de los traidores es la violencia. (13:2)",
+        "El que guarda su boca preserva su vida; el que mucho abre sus labios tendrá ruina. (13:3)",
+        "El alma del perezoso desea y nada alcanza, pero el alma del diligente será satisfecha. (13:4)",
+        "El justo aborrece la mentira, pero el impío causa vergüenza y deshonra. (13:5)",
+        "La justicia guarda al de camino íntegro, pero la maldad trastorna al pecador. (13:6)",
+        "Hay quien pretende ser rico y no tiene nada; hay quien pretende ser pobre y tiene muchas riquezas. (13:7)",
+        "El rescate de la vida del hombre es su riqueza, pero el pobre no oye amenaza. (13:8)",
+        "La luz de los justos se alegra, pero la lámpara de los impíos se apagará. (13:9)",
+        "La insolencia solo produce contienda, pero con los que aceptan consejo está la sabiduría. (13:10)",
+        "La riqueza obtenida con apresuramiento disminuirá, pero el que la recoge poco a poco la aumentará. (13:11)",
+        "La esperanza que se demora enferma el corazón, pero el deseo cumplido es árbol de vida. (13:12)",
+        "El que desprecia la palabra se destruye a sí mismo, pero el que teme el mandamiento será recompensado. (13:13)",
+        "La enseñanza del sabio es fuente de vida para apartarse de los lazos de la muerte. (13:14)",
+        "El buen entendimiento produce favor, pero el camino de los traidores es su propia ruina. (13:15)",
+        "Todo hombre prudente actúa con conocimiento, pero el necio ostenta su necedad. (13:16)",
+        "El mensajero malvado cae en desgracia, pero el enviado fiel trae sanidad. (13:17)",
+        "Pobreza y vergüenza vendrán al que descuida la instrucción, pero el que acepta la reprensión será honrado. (13:18)",
+        "El deseo cumplido es dulce al alma, pero apartarse del mal es abominación para los necios. (13:19)",
+        "El que anda con los sabios será sabio, pero el compañero de los necios sufrirá daño. (13:20)",
+        "El mal persigue a los pecadores, pero los justos serán recompensados con el bien. (13:21)",
+        "El hombre bueno deja herencia a los hijos de sus hijos, pero la riqueza del pecador está guardada para el justo. (13:22)",
+        "En la tierra labrada del pobre hay abundante alimento, pero se pierde por la injusticia. (13:23)",
+        "El que escatima la vara odia a su hijo, pero el que lo ama es diligente en disciplinarlo. (13:24)",
+        "El justo come hasta saciar su apetito, pero el vientre del impío padece necesidad. (13:25)"
+      ],
+      "crossRefs": [
+        "Proverbios 22:15; Proverbios 23:13–14 — Disciplina del niño.",
+        "Jueces 21:25 — \"Cada uno hacía lo que le parecía recto ante sus propios ojos\" (comparar con 14:12).",
+        "Santiago 1:19; Santiago 3:2–10 — Escuchar, hablar y la lengua.",
+        "Job 26:6 — El Seol y el Abadón están descubiertos ante Dios (comparar con 15:11)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Vara / disciplina",
+          "original": "Hebrew: שֵׁבֶט (shevet) / מוּסָר (musar) — Greek: ῥάβδος / παιδεία — Aramaic: שבטא / מוסרָא",
+          "note": "Instrumento y concepto de formación correctiva (13:24)."
+        },
+        {
+          "term": "Seol / Abadón",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) / אֲבַדּוֹן (ʾAbaddon) — Greek (LXX): ᾅδης / ἀπώλεια — Aramaic: שאולא / אבדון",
+          "note": "Morada de los muertos y \"Destrucción\", ambos descubiertos ante el SEÑOR (15:11)."
+        },
+        {
+          "term": "Parece recto... su fin es muerte",
+          "original": "Hebrew: יֵשׁ דֶּרֶךְ יָשָׁר לִפְנֵי־אִישׁ וְאַחֲרִיתָהּ דַּרְכֵי־מָוֶת",
+          "note": "Advertencia sobre las apariencias engañosas (14:12)."
+        },
+        {
+          "term": "Respuesta suave",
+          "original": "Hebrew: מַעֲנֵה־רַךְ (maʿăneh rakh) — Greek: ἀποκρίσις πραεῖα — Aramaic: מענה רך",
+          "note": "Respuesta amable que aparta la ira (15:1)."
+        }
+      ],
+      "keyTakeaway": "Estos dichos enfatizan atender la disciplina, guardar el habla, ser diligente en el trabajo, elegir compañeros sabios, reconocer los caminos engañosos y vivir ante el SEÑOR que todo lo ve."
+    },
+    {
+      "id": "proverbs-14",
+      "title": "🧭 Proverbios 14",
+      "refs": [
+        "Proverbs 14:1-35"
+      ],
+      "summaryBullets": [
+        "La más sabia de las mujeres edifica su casa, pero la necia con sus propias manos la derriba. (14:1)",
+        "El que camina con rectitud teme al SEÑOR, pero el de caminos torcidos lo desprecia. (14:2)",
+        "De la boca del necio sale vara para su espalda, pero los labios de los sabios los protegerán. (14:3)",
+        "Donde no hay bueyes el pesebre está limpio, pero por la fuerza del buey hay cosecha abundante. (14:4)",
+        "El testigo fiel no miente, pero el testigo falso profiere mentiras. (14:5)",
+        "El burlador busca la sabiduría en vano, pero el conocimiento es fácil para el hombre de entendimiento. (14:6)",
+        "Apártate de la presencia del necio, porque allí no hallarás palabras de conocimiento. (14:7)",
+        "La sabiduría del prudente es discernir su camino, pero la necedad de los necios es engaño. (14:8)",
+        "Los necios se mofan de la ofrenda por la culpa, pero entre los rectos hay buena voluntad. (14:9)",
+        "El corazón conoce su propia amargura, y ningún extraño comparte su alegría. (14:10)",
+        "La casa del impío será destruida, pero la tienda del recto florecerá. (14:11)",
+        "Hay camino que al hombre le parece derecho, pero su fin es camino de muerte. (14:12)",
+        "Aun en la risa el corazón puede doler, y el fin del gozo puede ser tristeza. (14:13)",
+        "El de corazón desviado se hartará de sus caminos, pero el hombre bueno se hartará de los suyos. (14:14)",
+        "El simple cree todo, pero el prudente medita sus pasos. (14:15)",
+        "El sabio es cauteloso y se aparta del mal, pero el necio es imprudente y confiado. (14:16)",
+        "El de pronto genio hace necedades, y el hombre de malos designios es aborrecido. (14:17)",
+        "Los simples heredan necedad, pero los prudentes se coronan de conocimiento. (14:18)",
+        "Los malos se inclinan ante los buenos, y los impíos a las puertas de los justos. (14:19)",
+        "El pobre es aborrecido aun de su vecino, pero el rico tiene muchos amigos. (14:20)",
+        "El que menosprecia a su prójimo peca, pero bienaventurado es el que se apiada de los pobres. (14:21)",
+        "¿No yerran los que traman el mal? Pero los que planean el bien hallan misericordia y verdad. (14:22)",
+        "En todo trabajo hay ganancia, pero las meras palabras conducen solo a la pobreza. (14:23)",
+        "La corona de los sabios es su riqueza, pero la necedad de los necios produce necedad. (14:24)",
+        "El testigo veraz salva vidas, pero el que profiere mentiras es engañoso. (14:25)",
+        "En el temor del SEÑOR hay fuerte confianza, y sus hijos tendrán refugio. (14:26)",
+        "El temor del SEÑOR es fuente de vida para apartarse de los lazos de la muerte. (14:27)",
+        "En la multitud del pueblo está la gloria del rey, pero sin pueblo el príncipe está arruinado. (14:28)",
+        "El que tarda en airarse tiene gran entendimiento, pero el de genio pronto exalta la necedad. (14:29)",
+        "El corazón tranquilo da vida al cuerpo, pero la envidia pudre los huesos. (14:30)",
+        "El que oprime al pobre insulta a su Hacedor, pero el que se apiada del necesitado lo honra. (14:31)",
+        "El impío es derribado por su maldad, pero el justo halla refugio en su muerte. (14:32)",
+        "La sabiduría reposa en el corazón del entendido, pero se da a conocer aun entre los necios. (14:33)",
+        "La justicia engrandece a la nación, pero el pecado es afrenta de los pueblos. (14:34)",
+        "El siervo prudente goza del favor del rey, pero su ira cae sobre el que actúa vergonzosamente. (14:35)"
+      ],
+      "crossRefs": [
+        "Proverbios 22:15; Proverbios 23:13–14 — Disciplina del niño.",
+        "Jueces 21:25 — \"Cada uno hacía lo que le parecía recto ante sus propios ojos\" (comparar con 14:12).",
+        "Santiago 1:19; Santiago 3:2–10 — Escuchar, hablar y la lengua.",
+        "Job 26:6 — El Seol y el Abadón están descubiertos ante Dios (comparar con 15:11)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Vara / disciplina",
+          "original": "Hebrew: שֵׁבֶט (shevet) / מוּסָר (musar) — Greek: ῥάβδος / παιδεία — Aramaic: שבטא / מוסרָא",
+          "note": "Instrumento y concepto de formación correctiva (13:24)."
+        },
+        {
+          "term": "Seol / Abadón",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) / אֲבַדּוֹן (ʾAbaddon) — Greek (LXX): ᾅδης / ἀπώλεια — Aramaic: שאולא / אבדון",
+          "note": "Morada de los muertos y \"Destrucción\", ambos descubiertos ante el SEÑOR (15:11)."
+        },
+        {
+          "term": "Parece recto... su fin es muerte",
+          "original": "Hebrew: יֵשׁ דֶּרֶךְ יָשָׁר לִפְנֵי־אִישׁ וְאַחֲרִיתָהּ דַּרְכֵי־מָוֶת",
+          "note": "Advertencia sobre las apariencias engañosas (14:12)."
+        },
+        {
+          "term": "Respuesta suave",
+          "original": "Hebrew: מַעֲנֵה־רַךְ (maʿăneh rakh) — Greek: ἀποκρίσις πραεῖα — Aramaic: מענה רך",
+          "note": "Respuesta amable que aparta la ira (15:1)."
+        }
+      ],
+      "keyTakeaway": "Estos dichos enfatizan atender la disciplina, guardar el habla, ser diligente en el trabajo, elegir compañeros sabios, reconocer los caminos engañosos y vivir ante el SEÑOR que todo lo ve."
+    },
+    {
+      "id": "proverbs-15",
+      "title": "🧭 Proverbios 15",
+      "refs": [
+        "Proverbs 15:1-33"
+      ],
+      "summaryBullets": [
+        "La respuesta amable aparta la ira, pero la palabra áspera hace subir el furor. (15:1)",
+        "La lengua del sabio adorna el conocimiento, pero la boca de los necios derrama necedad. (15:2)",
+        "Los ojos del SEÑOR están en todo lugar, observando a los malos y a los buenos. (15:3)",
+        "La lengua apacible es árbol de vida, pero la perversidad en ella quebranta el espíritu. (15:4)",
+        "El necio desprecia la instrucción de su padre, pero el que atiende a la reprensión es prudente. (15:5)",
+        "En la casa del justo hay gran tesoro, pero en las ganancias del impío hay turbación. (15:6)",
+        "Los labios de los sabios esparcen conocimiento, pero no así el corazón de los necios. (15:7)",
+        "El sacrificio de los impíos es abominación al SEÑOR, pero la oración de los rectos le es agradable. (15:8)",
+        "El camino del impío es abominación al SEÑOR, pero él ama al que sigue la justicia. (15:9)",
+        "Disciplina severa hay para el que abandona el camino; el que aborrece la reprensión morirá. (15:10)",
+        "El Seol y el Abadón están delante del SEÑOR; ¡cuánto más los corazones de los hijos de los hombres! (15:11)",
+        "El burlador no ama al que lo reprende; no irá al sabio. (15:12)",
+        "El corazón alegre produce un rostro gozoso, pero en la tristeza del corazón el espíritu se abate. (15:13)",
+        "El corazón del entendido busca el conocimiento, pero la boca de los necios se alimenta de necedad. (15:14)",
+        "Todos los días del afligido son malos, pero el de corazón contento tiene un banquete continuo. (15:15)",
+        "Mejor es poco con el temor del SEÑOR, que gran tesoro con turbación. (15:16)",
+        "Mejor es la comida de legumbres donde hay amor, que buey engordado donde hay odio. (15:17)",
+        "El hombre iracundo suscita contienda, pero el que tarda en airarse apacigua la rencilla. (15:18)",
+        "El camino del perezoso es como un cerco de espinos, pero la senda del recto es una calzada llana. (15:19)",
+        "El hijo sabio alegra al padre, pero el hombre necio desprecia a su madre. (15:20)",
+        "La necedad es alegría para el falto de juicio, pero el hombre de entendimiento camina rectamente. (15:21)",
+        "Sin consejo los planes fracasan, pero con muchos consejeros se logran. (15:22)",
+        "La respuesta oportuna es gozo para el hombre, y la palabra a su tiempo, ¡cuán buena es! (15:23)",
+        "El camino de la vida conduce hacia arriba al prudente, para apartarse del Seol abajo. (15:24)",
+        "El SEÑOR derriba la casa del soberbio, pero mantiene los linderos de la viuda. (15:25)",
+        "Los pensamientos del malvado son abominación al SEÑOR, pero las palabras agradables son puras. (15:26)",
+        "El que es codicioso de ganancias injustas perturba su casa, pero el que aborrece el soborno vivirá. (15:27)",
+        "El corazón del justo medita cómo responder, pero la boca de los impíos derrama maldades. (15:28)",
+        "El SEÑOR está lejos de los impíos, pero oye la oración de los justos. (15:29)",
+        "La luz de los ojos alegra el corazón, y las buenas noticias fortalecen los huesos. (15:30)",
+        "El oído que escucha la reprensión vivificante morará entre los sabios. (15:31)",
+        "El que rechaza la instrucción se desprecia a sí mismo, pero el que escucha la reprensión adquiere entendimiento. (15:32)",
+        "El temor del SEÑOR es instrucción de sabiduría, y antes de la honra está la humildad. (15:33)"
+      ],
+      "crossRefs": [
+        "Proverbios 22:15; Proverbios 23:13–14 — Disciplina del niño.",
+        "Jueces 21:25 — \"Cada uno hacía lo que le parecía recto ante sus propios ojos\" (comparar con 14:12).",
+        "Santiago 1:19; Santiago 3:2–10 — Escuchar, hablar y la lengua.",
+        "Job 26:6 — El Seol y el Abadón están descubiertos ante Dios (comparar con 15:11)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Vara / disciplina",
+          "original": "Hebrew: שֵׁבֶט (shevet) / מוּסָר (musar) — Greek: ῥάβδος / παιδεία — Aramaic: שבטא / מוסרָא",
+          "note": "Instrumento y concepto de formación correctiva (13:24)."
+        },
+        {
+          "term": "Seol / Abadón",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) / אֲבַדּוֹן (ʾAbaddon) — Greek (LXX): ᾅδης / ἀπώλεια — Aramaic: שאולא / אבדון",
+          "note": "Morada de los muertos y \"Destrucción\", ambos descubiertos ante el SEÑOR (15:11)."
+        },
+        {
+          "term": "Parece recto... su fin es muerte",
+          "original": "Hebrew: יֵשׁ דֶּרֶךְ יָשָׁר לִפְנֵי־אִישׁ וְאַחֲרִיתָהּ דַּרְכֵי־מָוֶת",
+          "note": "Advertencia sobre las apariencias engañosas (14:12)."
+        },
+        {
+          "term": "Respuesta suave",
+          "original": "Hebrew: מַעֲנֵה־רַךְ (maʿăneh rakh) — Greek: ἀποκρίσις πραεῖα — Aramaic: מענה רך",
+          "note": "Respuesta amable que aparta la ira (15:1)."
+        }
+      ],
+      "keyTakeaway": "Estos dichos enfatizan atender la disciplina, guardar el habla, ser diligente en el trabajo, elegir compañeros sabios, reconocer los caminos engañosos y vivir ante el SEÑOR que todo lo ve."
+    },
+    {
+      "id": "proverbs-16",
+      "title": "👑 Proverbios 16",
+      "refs": [
+        "Proverbs 16:1-33"
+      ],
+      "summaryBullets": [
+        "Los planes del corazón pertenecen al hombre, pero la respuesta de la lengua es del SEÑOR. (16:1)",
+        "Todos los caminos del hombre son limpios ante sus propios ojos, pero el SEÑOR pesa los espíritus. (16:2)",
+        "Encomienda al SEÑOR tus obras, y tus planes serán establecidos. (16:3)",
+        "El SEÑOR ha hecho todas las cosas para su propósito, aun al impío para el día del mal. (16:4)",
+        "Todo el que es arrogante de corazón es abominación al SEÑOR; ciertamente no quedará sin castigo. (16:5)",
+        "Con misericordia y verdad se expía la iniquidad, y con el temor del SEÑOR el hombre se aparta del mal. (16:6)",
+        "Cuando los caminos del hombre agradan al SEÑOR, aun a sus enemigos hace que estén en paz con él. (16:7)",
+        "Mejor es lo poco con justicia que grandes ganancias con injusticia. (16:8)",
+        "El corazón del hombre planea su camino, pero el SEÑOR dirige sus pasos. (16:9)",
+        "Oráculo hay en los labios del rey; en el juicio su boca no debe errar. (16:10)",
+        "Balanza y pesas justas son del SEÑOR; toda pesa del saco es obra suya. (16:11)",
+        "Es abominación para los reyes cometer impiedad, porque el trono se afianza con la justicia. (16:12)",
+        "Los labios justos son deleite de los reyes, y aman al que habla lo recto. (16:13)",
+        "La ira del rey es mensajero de muerte, pero el hombre sabio la aplacará. (16:14)",
+        "En la luz del rostro del rey hay vida, y su favor es como nube de lluvia tardía. (16:15)",
+        "¡Cuánto mejor es adquirir sabiduría que oro! Adquirir entendimiento es preferible a la plata. (16:16)",
+        "La calzada de los rectos se aparta del mal; el que guarda su camino preserva su vida. (16:17)",
+        "Antes de la destrucción va el orgullo, y antes de la caída, la altivez de espíritu. (16:18)",
+        "Mejor es ser de espíritu humilde con los pobres que repartir el botín con los soberbios. (16:19)",
+        "El que atiende a la palabra hallará el bien, y bienaventurado es el que confía en el SEÑOR. (16:20)",
+        "El sabio de corazón es llamado prudente, y la dulzura de labios aumenta la persuasión. (16:21)",
+        "El buen juicio es fuente de vida para el que lo tiene, pero la instrucción de los necios es necedad. (16:22)",
+        "El corazón del sabio hace prudente su boca y añade persuasión a sus labios. (16:23)",
+        "Las palabras agradables son como panal de miel, dulzura para el alma y salud para el cuerpo. (16:24)",
+        "Hay camino que al hombre le parece derecho, pero su fin es camino de muerte. (16:25)",
+        "El apetito del trabajador trabaja por él, pues su boca lo impulsa. (16:26)",
+        "El hombre perverso trama el mal, y en sus labios hay como fuego abrasador. (16:27)",
+        "El hombre deshonesto esparce contienda, y el chismoso separa a los mejores amigos. (16:28)",
+        "El hombre violento seduce a su prójimo y lo lleva por camino que no es bueno. (16:29)",
+        "El que cierra los ojos trama cosas perversas; el que aprieta los labios produce el mal. (16:30)",
+        "Corona de honra son las canas; se hallan en el camino de la justicia. (16:31)",
+        "Mejor es el lento para la ira que el poderoso, y el que domina su espíritu que el que toma una ciudad. (16:32)",
+        "La suerte se echa en el regazo, pero toda decisión es del SEÑOR. (16:33)"
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — \"Obedecer es mejor que el sacrificio.\"",
+        "Levítico 19:35–36 — Balanzas justas y medidas honestas.",
+        "Salmo 20:7 — No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
+        "Santiago 1:19 — Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pesa los espíritus",
+          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot) — Greek (LXX): δοκιμάζει πνεύματα — Aramaic: משקל רוחין",
+          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא",
+          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+        },
+        {
+          "term": "Balanzas y pesas justas",
+          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat) — Greek: ζυγὸς δίκαιος — Aramaic: מאזני דינא",
+          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+        },
+        {
+          "term": "Torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz) — Greek: πύργος ἰσχυρός — Aramaic: מגדל עוז",
+          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+        }
+      ],
+      "keyTakeaway": "Esta colección contrasta los planes humanos con el gobierno del SEÑOR, establece normas para reyes y justicia, advierte contra la soberbia, las medidas falsas y el descuido del pobre, e incluye dichos sobre el habla, la diligencia, la familia y la riqueza."
+    },
+    {
+      "id": "proverbs-17",
+      "title": "👑 Proverbios 17",
+      "refs": [
+        "Proverbs 17:1-28"
+      ],
+      "summaryBullets": [
+        "Mejor es un bocado seco con tranquilidad que una casa llena de banquetes con contienda. (17:1)",
+        "El siervo prudente dominará al hijo indigno y compartirá la herencia como uno de los hermanos. (17:2)",
+        "El crisol es para la plata y el horno para el oro, pero el SEÑOR prueba los corazones. (17:3)",
+        "El malhechor presta atención a los labios perversos, y el mentiroso da oídos a la lengua maliciosa. (17:4)",
+        "El que se burla del pobre insulta a su Hacedor; el que se alegra de la calamidad no quedará sin castigo. (17:5)",
+        "Corona de los ancianos son los nietos, y la gloria de los hijos son sus padres. (17:6)",
+        "El hablar excelente no conviene al necio; cuánto menos los labios mentirosos al príncipe. (17:7)",
+        "El soborno es como piedra mágica a los ojos de quien lo da; adondequiera que se vuelve, prospera. (17:8)",
+        "El que cubre la ofensa busca amor, pero el que repite el asunto separa a los mejores amigos. (17:9)",
+        "Una reprensión penetra más en el entendido que cien azotes en el necio. (17:10)",
+        "El malvado solo busca rebelión, y un mensajero cruel será enviado contra él. (17:11)",
+        "Mejor es encontrarse con una osa a la que le han robado sus cachorros que con un necio en su necedad. (17:12)",
+        "El que devuelve mal por bien, el mal no se apartará de su casa. (17:13)",
+        "El comienzo de la contienda es como soltar aguas; deja, pues, la porfía antes de que se desate. (17:14)",
+        "El que justifica al impío y el que condena al justo, ambos son igualmente abominación al SEÑOR. (17:15)",
+        "¿De qué sirve el dinero en la mano del necio para comprar sabiduría si no tiene juicio? (17:16)",
+        "El amigo ama en todo tiempo, y el hermano nace para tiempo de angustia. (17:17)",
+        "El hombre falto de juicio da fianzas y sale fiador ante su prójimo. (17:18)",
+        "El que ama la transgresión ama la contienda; el que alza demasiado su puerta busca la destrucción. (17:19)",
+        "El de corazón perverso no hallará el bien, y el de lengua engañosa caerá en la calamidad. (17:20)",
+        "El que engendra al necio lo hace para su tristeza, y el padre del insensato no se alegrará. (17:21)",
+        "El corazón alegre es buena medicina, pero el espíritu quebrantado seca los huesos. (17:22)",
+        "El impío acepta soborno en secreto para pervertir los caminos de la justicia. (17:23)",
+        "El entendido tiene la sabiduría ante su rostro, pero los ojos del necio vagan hasta los confines de la tierra. (17:24)",
+        "El hijo necio es tristeza para su padre y amargura para la que lo dio a luz. (17:25)",
+        "No es bueno imponer multa al justo, ni golpear a los nobles por su rectitud. (17:26)",
+        "El que refrena sus palabras tiene conocimiento, y el de espíritu sereno es hombre de entendimiento. (17:27)",
+        "Aun el necio, cuando calla, es tenido por sabio; cuando cierra sus labios, por inteligente. (17:28)"
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — \"Obedecer es mejor que el sacrificio.\"",
+        "Levítico 19:35–36 — Balanzas justas y medidas honestas.",
+        "Salmo 20:7 — No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
+        "Santiago 1:19 — Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pesa los espíritus",
+          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot) — Greek (LXX): δοκιμάζει πνεύματα — Aramaic: משקל רוחין",
+          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא",
+          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+        },
+        {
+          "term": "Balanzas y pesas justas",
+          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat) — Greek: ζυγὸς δίκαιος — Aramaic: מאזני דינא",
+          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+        },
+        {
+          "term": "Torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz) — Greek: πύργος ἰσχυρός — Aramaic: מגדל עוז",
+          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+        }
+      ],
+      "keyTakeaway": "Esta colección contrasta los planes humanos con el gobierno del SEÑOR, establece normas para reyes y justicia, advierte contra la soberbia, las medidas falsas y el descuido del pobre, e incluye dichos sobre el habla, la diligencia, la familia y la riqueza."
+    },
+    {
+      "id": "proverbs-18",
+      "title": "👑 Proverbios 18",
+      "refs": [
+        "Proverbs 18:1-24"
+      ],
+      "summaryBullets": [
+        "El que se aísla busca su propio deseo; contra todo buen juicio se rebela. (18:1)",
+        "El necio no se deleita en el entendimiento, sino solo en expresar su opinión. (18:2)",
+        "Cuando viene la maldad, viene también el desprecio, y con la deshonra viene la afrenta. (18:3)",
+        "Las palabras de la boca del hombre son aguas profundas; la fuente de la sabiduría es un arroyo que brota. (18:4)",
+        "No es bueno hacer acepción del impío ni privar de justicia al justo. (18:5)",
+        "Los labios del necio entran en contienda, y su boca provoca azotes. (18:6)",
+        "La boca del necio es su ruina, y sus labios son lazo para su alma. (18:7)",
+        "Las palabras del chismoso son como bocados delicados, y descienden a lo íntimo del cuerpo. (18:8)",
+        "También el negligente en su trabajo es hermano del que destruye. (18:9)",
+        "El nombre del SEÑOR es torre fuerte; a ella corre el justo y está a salvo. (18:10)",
+        "La riqueza del rico es su ciudad fuerte, y como un muro alto en su imaginación. (18:11)",
+        "Antes de la destrucción el corazón del hombre es altivo, pero antes de la honra está la humildad. (18:12)",
+        "El que responde antes de oír, eso es necedad y vergüenza para él. (18:13)",
+        "El espíritu del hombre soporta la enfermedad, pero el espíritu quebrantado, ¿quién lo puede sobrellevar? (18:14)",
+        "El corazón del entendido adquiere conocimiento, y el oído del sabio busca el saber. (18:15)",
+        "El presente del hombre le abre camino y lo lleva ante los grandes. (18:16)",
+        "El primero en defender su causa parece justo, hasta que viene otro y lo examina. (18:17)",
+        "La suerte pone fin a los pleitos y decide entre los poderosos. (18:18)",
+        "El hermano ofendido es más tenaz que una ciudad fuerte, y las contiendas son como cerrojos de fortaleza. (18:19)",
+        "Del fruto de la boca del hombre se sacia su vientre; del producto de sus labios se sacia. (18:20)",
+        "La muerte y la vida están en poder de la lengua, y los que la aman comerán de sus frutos. (18:21)",
+        "El que halla esposa halla el bien y alcanza el favor del SEÑOR. (18:22)",
+        "El pobre habla con ruegos, pero el rico responde con dureza. (18:23)",
+        "El hombre de muchos amigos puede acabar en ruina, pero hay amigo más unido que un hermano. (18:24)"
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — \"Obedecer es mejor que el sacrificio.\"",
+        "Levítico 19:35–36 — Balanzas justas y medidas honestas.",
+        "Salmo 20:7 — No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
+        "Santiago 1:19 — Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pesa los espíritus",
+          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot) — Greek (LXX): δοκιμάζει πνεύματα — Aramaic: משקל רוחין",
+          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא",
+          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+        },
+        {
+          "term": "Balanzas y pesas justas",
+          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat) — Greek: ζυγὸς δίκαιος — Aramaic: מאזני דינא",
+          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+        },
+        {
+          "term": "Torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz) — Greek: πύργος ἰσχυρός — Aramaic: מגדל עוז",
+          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+        }
+      ],
+      "keyTakeaway": "Esta colección contrasta los planes humanos con el gobierno del SEÑOR, establece normas para reyes y justicia, advierte contra la soberbia, las medidas falsas y el descuido del pobre, e incluye dichos sobre el habla, la diligencia, la familia y la riqueza."
+    },
+    {
+      "id": "proverbs-19",
+      "title": "👑 Proverbios 19",
+      "refs": [
+        "Proverbs 19:1-29"
+      ],
+      "summaryBullets": [
+        "Mejor es el pobre que camina en integridad que el de labios perversos y necio. (19:1)",
+        "El deseo sin conocimiento no es bueno, y el que se apresura con los pies yerra el camino. (19:2)",
+        "La necedad del hombre tuerce su camino, y su corazón se irrita contra el SEÑOR. (19:3)",
+        "Las riquezas atraen muchos amigos, pero el pobre es abandonado por su amigo. (19:4)",
+        "El testigo falso no quedará sin castigo, y el que profiere mentiras no escapará. (19:5)",
+        "Muchos buscan el favor del generoso, y todos son amigos del que da regalos. (19:6)",
+        "Todos los hermanos del pobre lo aborrecen; ¡cuánto más se alejan de él sus amigos! Los persigue con palabras, pero no los tiene. (19:7)",
+        "El que adquiere cordura ama su propia alma; el que guarda el entendimiento hallará el bien. (19:8)",
+        "El testigo falso no quedará sin castigo, y el que profiere mentiras perecerá. (19:9)",
+        "No le conviene al necio vivir en el lujo, mucho menos al siervo gobernar sobre príncipes. (19:10)",
+        "La cordura del hombre lo hace lento para la ira, y su gloria es pasar por alto la ofensa. (19:11)",
+        "La ira del rey es como rugido de león, pero su favor es como rocío sobre la hierba. (19:12)",
+        "El hijo necio es ruina de su padre, y las contiendas de la mujer son gotera continua. (19:13)",
+        "La casa y las riquezas son herencia de los padres, pero la mujer prudente es del SEÑOR. (19:14)",
+        "La pereza hace caer en profundo sueño, y el alma negligente padecerá hambre. (19:15)",
+        "El que guarda el mandamiento guarda su vida; el que menosprecia sus caminos morirá. (19:16)",
+        "El que se apiada del pobre presta al SEÑOR, y él le recompensará su buena obra. (19:17)",
+        "Disciplina a tu hijo mientras hay esperanza; no pongas tu corazón en destruirlo. (19:18)",
+        "El de gran ira sufrirá la pena, porque si lo libras tendrás que hacerlo de nuevo. (19:19)",
+        "Escucha el consejo y acepta la instrucción, para que seas sabio en tu vejez. (19:20)",
+        "Muchos son los planes en el corazón del hombre, pero el propósito del SEÑOR prevalecerá. (19:21)",
+        "Lo que se desea en el hombre es su bondad, y mejor es el pobre que el mentiroso. (19:22)",
+        "El temor del SEÑOR conduce a la vida; el que lo tiene reposará satisfecho, sin ser visitado por el mal. (19:23)",
+        "El perezoso mete su mano en el plato y ni aun a su boca la lleva. (19:24)",
+        "Golpea al burlador y el simple se hará prudente; reprende al entendido y adquirirá conocimiento. (19:25)",
+        "El que maltrata a su padre y ahuyenta a su madre es hijo que causa vergüenza y afrenta. (19:26)",
+        "Deja, hijo mío, de escuchar la instrucción, y te desviarás de las palabras del saber. (19:27)",
+        "El testigo indigno se burla de la justicia, y la boca del impío devora la iniquidad. (19:28)",
+        "Preparados están los juicios para los burladores, y los azotes para las espaldas de los necios. (19:29)"
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — \"Obedecer es mejor que el sacrificio.\"",
+        "Levítico 19:35–36 — Balanzas justas y medidas honestas.",
+        "Salmo 20:7 — No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
+        "Santiago 1:19 — Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pesa los espíritus",
+          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot) — Greek (LXX): δοκιμάζει πνεύματα — Aramaic: משקל רוחין",
+          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא",
+          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+        },
+        {
+          "term": "Balanzas y pesas justas",
+          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat) — Greek: ζυγὸς δίκαιος — Aramaic: מאזני דינא",
+          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+        },
+        {
+          "term": "Torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz) — Greek: πύργος ἰσχυρός — Aramaic: מגדל עוז",
+          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+        }
+      ],
+      "keyTakeaway": "Esta colección contrasta los planes humanos con el gobierno del SEÑOR, establece normas para reyes y justicia, advierte contra la soberbia, las medidas falsas y el descuido del pobre, e incluye dichos sobre el habla, la diligencia, la familia y la riqueza."
+    },
+    {
+      "id": "proverbs-20",
+      "title": "👑 Proverbios 20",
+      "refs": [
+        "Proverbs 20:1-30"
+      ],
+      "summaryBullets": [
+        "El vino es escarnecedor, la sidra alborotadora, y cualquiera que por ellos yerra no es sabio. (20:1)",
+        "El terror del rey es como rugido de león; el que lo provoca peca contra su propia vida. (20:2)",
+        "Honra es para el hombre apartarse de la contienda, pero todo necio se enreda en ella. (20:3)",
+        "El perezoso no ara a causa del invierno; pedirá en la cosecha y no hallará nada. (20:4)",
+        "El propósito en el corazón del hombre es como aguas profundas, pero el hombre de entendimiento lo sondea. (20:5)",
+        "Muchos hombres proclaman su propia lealtad, pero un hombre fiel, ¿quién lo hallará? (20:6)",
+        "El justo camina en su integridad; bienaventurados son sus hijos después de él. (20:7)",
+        "El rey que se sienta en el trono del juicio disipa todo mal con sus ojos. (20:8)",
+        "¿Quién puede decir: 'He limpiado mi corazón; estoy limpio de mi pecado'? (20:9)",
+        "Pesas desiguales y medidas desiguales, ambas son igualmente abominación al SEÑOR. (20:10)",
+        "Aun el muchacho se da a conocer por sus hechos, si su conducta es pura y recta. (20:11)",
+        "El oído que oye y el ojo que ve, ambos los hizo el SEÑOR. (20:12)",
+        "No ames el sueño, para que no empobrezcas; abre tus ojos y te saciarás de pan. (20:13)",
+        "\"Malo, malo\", dice el comprador; pero cuando se va, entonces se jacta. (20:14)",
+        "Hay oro y abundancia de piedras preciosas, pero los labios de conocimiento son joya más preciosa. (20:15)",
+        "Quítale la ropa al que salió fiador del extraño, y tómala en prenda del que sale fiador de extraños. (20:16)",
+        "Sabroso es al hombre el pan obtenido con engaño, pero después su boca se llena de grava. (20:17)",
+        "Los planes se afirman con el consejo; con sabias estrategias haz la guerra. (20:18)",
+        "El que anda en chismes revela secretos; por tanto, no te juntes con el que mucho abre sus labios. (20:19)",
+        "El que maldice a su padre o a su madre, su lámpara se apagará en medio de las tinieblas. (20:20)",
+        "La herencia adquirida con apresuramiento al principio, al final no será bendecida. (20:21)",
+        "No digas: \"Yo pagaré el mal\"; espera en el SEÑOR, y él te librará. (20:22)",
+        "Pesas desiguales son abominación al SEÑOR, y la balanza falsa no es buena. (20:23)",
+        "Los pasos del hombre son del SEÑOR; ¿cómo, pues, podrá el hombre entender su camino? (20:24)",
+        "Es trampa para el hombre decir a la ligera: \"Es santo\", y reflexionar después de haber hecho votos. (20:25)",
+        "El rey sabio avienta a los impíos y hace pasar sobre ellos la rueda. (20:26)",
+        "El espíritu del hombre es lámpara del SEÑOR, que escudriña todo lo más profundo de su ser. (20:27)",
+        "La misericordia y la verdad guardan al rey, y con la benignidad se sustenta su trono. (20:28)",
+        "La gloria de los jóvenes es su fuerza, y la honra de los ancianos sus canas. (20:29)",
+        "Los azotes que hieren limpian el mal, y los golpes purifican lo más profundo del ser. (20:30)"
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — \"Obedecer es mejor que el sacrificio.\"",
+        "Levítico 19:35–36 — Balanzas justas y medidas honestas.",
+        "Salmo 20:7 — No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
+        "Santiago 1:19 — Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pesa los espíritus",
+          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot) — Greek (LXX): δοκιμάζει πνεύματα — Aramaic: משקל רוחין",
+          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא",
+          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+        },
+        {
+          "term": "Balanzas y pesas justas",
+          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat) — Greek: ζυγὸς δίκαιος — Aramaic: מאזני דינא",
+          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+        },
+        {
+          "term": "Torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz) — Greek: πύργος ἰσχυρός — Aramaic: מגדל עוז",
+          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+        }
+      ],
+      "keyTakeaway": "Esta colección contrasta los planes humanos con el gobierno del SEÑOR, establece normas para reyes y justicia, advierte contra la soberbia, las medidas falsas y el descuido del pobre, e incluye dichos sobre el habla, la diligencia, la familia y la riqueza."
+    },
+    {
+      "id": "proverbs-21",
+      "title": "👑 Proverbios 21",
+      "refs": [
+        "Proverbs 21:1-31"
+      ],
+      "summaryBullets": [
+        "El corazón del rey es como corriente de aguas en la mano del SEÑOR; él lo inclina adonde quiere. (21:1)",
+        "Todo camino del hombre es recto ante sus propios ojos, pero el SEÑOR pesa los corazones. (21:2)",
+        "Hacer justicia y derecho es más aceptable al SEÑOR que el sacrificio. (21:3)",
+        "Ojos altivos y corazón orgulloso, lámpara de los impíos, son pecado. (21:4)",
+        "Los planes del diligente ciertamente conducen a la abundancia, pero todo el que se apresura acaba en escasez. (21:5)",
+        "El que amontona tesoros con lengua mentirosa es como vapor fugaz y trampa mortal. (21:6)",
+        "La violencia de los impíos los arrastrará, porque rehusaron hacer lo justo. (21:7)",
+        "El camino del culpable es torcido, pero la conducta del puro es recta. (21:8)",
+        "Mejor es vivir en un rincón del terrado que en casa compartida con mujer rencillosa. (21:9)",
+        "El alma del impío desea el mal; su prójimo no halla clemencia ante sus ojos. (21:10)",
+        "Cuando el burlador es castigado, el simple se hace sabio; cuando el sabio es instruido, adquiere conocimiento. (21:11)",
+        "El Justo observa la casa del impío; precipita a los impíos a la ruina. (21:12)",
+        "El que cierra su oído al clamor del pobre, también él clamará y no será oído. (21:13)",
+        "El regalo en secreto apacigua la ira, y el soborno oculto, la fuerte indignación. (21:14)",
+        "Cuando se hace justicia, es gozo para el justo, pero terror para los malhechores. (21:15)",
+        "El hombre que se desvía del camino del buen juicio descansará en la asamblea de los muertos. (21:16)",
+        "El que ama los placeres será pobre; el que ama el vino y los ungüentos no se enriquecerá. (21:17)",
+        "El impío es rescate del justo, y el traidor ocupa el lugar de los rectos. (21:18)",
+        "Mejor es vivir en tierra desierta que con mujer rencillosa e iracunda. (21:19)",
+        "Tesoro precioso y aceite hay en la morada del sabio, pero el necio lo devora. (21:20)",
+        "El que sigue la justicia y la misericordia hallará vida, justicia y honra. (21:21)",
+        "El sabio escala la ciudad de los poderosos y derriba la fortaleza en que confían. (21:22)",
+        "El que guarda su boca y su lengua se guarda de angustias. (21:23)",
+        "\"Burlador\" es el nombre del arrogante y altivo que actúa con arrogante soberbia. (21:24)",
+        "El deseo del perezoso lo mata, porque sus manos rehúsan trabajar. (21:25)",
+        "Todo el día codicia y codicia, pero el justo da sin escatimar. (21:26)",
+        "El sacrificio de los impíos es abominación; ¡cuánto más cuando lo trae con mala intención! (21:27)",
+        "El testigo falso perecerá, pero el hombre que escucha hablará con firmeza. (21:28)",
+        "El hombre impío endurece su rostro, pero el recto ordena sus caminos. (21:29)",
+        "No hay sabiduría, ni entendimiento, ni consejo que puedan contra el SEÑOR. (21:30)",
+        "El caballo es preparado para el día de la batalla, pero la victoria pertenece al SEÑOR. (21:31)"
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — \"Obedecer es mejor que el sacrificio.\"",
+        "Levítico 19:35–36 — Balanzas justas y medidas honestas.",
+        "Salmo 20:7 — No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
+        "Santiago 1:19 — Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pesa los espíritus",
+          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot) — Greek (LXX): δοκιμάζει πνεύματα — Aramaic: משקל רוחין",
+          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא",
+          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+        },
+        {
+          "term": "Balanzas y pesas justas",
+          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat) — Greek: ζυγὸς δίκαιος — Aramaic: מאזני דינא",
+          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+        },
+        {
+          "term": "Torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz) — Greek: πύργος ἰσχυρός — Aramaic: מגדל עוז",
+          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+        }
+      ],
+      "keyTakeaway": "Esta colección contrasta los planes humanos con el gobierno del SEÑOR, establece normas para reyes y justicia, advierte contra la soberbia, las medidas falsas y el descuido del pobre, e incluye dichos sobre el habla, la diligencia, la familia y la riqueza."
+    },
+    {
+      "id": "proverbs-22",
+      "title": "👑 Proverbios 22",
+      "refs": [
+        "Proverbs 22:1-29"
+      ],
+      "summaryBullets": [
+        "Más vale el buen nombre que las muchas riquezas, y el favor que la plata y el oro. (22:1)",
+        "El rico y el pobre tienen esto en común: el SEÑOR es el Hacedor de todos ellos. (22:2)",
+        "El prudente ve el peligro y se esconde, pero los simples siguen adelante y sufren el daño. (22:3)",
+        "El galardón de la humildad y del temor del SEÑOR son las riquezas, la honra y la vida. (22:4)",
+        "Espinos y trampas hay en el camino del perverso; el que guarda su alma se alejará de ellos. (22:5)",
+        "Instruye al niño en su camino, y aun cuando sea viejo no se apartará de él. (22:6)",
+        "El rico domina a los pobres, y el que toma prestado es siervo del que presta. (22:7)",
+        "El que siembra injusticia segará calamidad, y la vara de su furor se quebrará. (22:8)",
+        "El de ojo generoso será bendecido, porque comparte su pan con el pobre. (22:9)",
+        "Echa fuera al burlador y saldrá la contienda; cesarán los pleitos y las afrentas. (22:10)",
+        "El que ama la pureza de corazón y tiene gracia en sus labios tendrá al rey por amigo. (22:11)",
+        "Los ojos del SEÑOR guardan el conocimiento, pero él trastorna las palabras del traidor. (22:12)",
+        "El perezoso dice: \"¡Hay un león afuera! ¡Seré muerto en las calles!\" (22:13)",
+        "La boca de las mujeres ajenas es fosa profunda; aquel contra quien el SEÑOR esté airado caerá en ella. (22:14)",
+        "La necedad está ligada al corazón del niño, pero la vara de la disciplina la alejará de él. (22:15)",
+        "El que oprime al pobre para aumentar sus ganancias, o el que da al rico, solo acabará en pobreza. (22:16)",
+        "Inclina tu oído y oye las palabras de los sabios, y aplica tu corazón a mi conocimiento, (22:17)",
+        "porque te será agradable si las guardas dentro de ti, si todas están preparadas en tus labios. (22:18)",
+        "Para que tu confianza esté en el SEÑOR, te las he dado a conocer hoy, a ti. (22:19)",
+        "¿Acaso no te he escrito treinta dichos de consejo y conocimiento, (22:20)",
+        "para hacerte saber lo recto y verdadero, a fin de que puedas dar una respuesta cierta a los que te envían? (22:21)",
+        "No robes al pobre porque es pobre, ni aplastes al afligido a la puerta, (22:22)",
+        "porque el SEÑOR defenderá su causa y despojará de la vida a los que los despojen. (22:23)",
+        "No te hagas amigo del iracundo, ni andes con el hombre violento, (22:24)",
+        "no sea que aprendas sus costumbres y te enredes en trampa. (22:25)",
+        "No seas de los que dan fianzas, de los que salen fiadores de deudas. (22:26)",
+        "Si no tienes con qué pagar, ¿por qué han de quitar tu cama de debajo de ti? (22:27)",
+        "No muevas el lindero antiguo que tus padres pusieron. (22:28)",
+        "¿Has visto hombre diligente en su trabajo? Estará delante de reyes; no estará delante de hombres oscuros. (22:29)"
+      ],
+      "crossRefs": [
+        "1 Samuel 15:22 — \"Obedecer es mejor que el sacrificio.\"",
+        "Levítico 19:35–36 — Balanzas justas y medidas honestas.",
+        "Salmo 20:7 — No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
+        "Santiago 1:19 — Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pesa los espíritus",
+          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot) — Greek (LXX): δοκιμάζει πνεύματα — Aramaic: משקל רוחין",
+          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+        },
+        {
+          "term": "Abominación",
+          "original": "Hebrew: תּוֹעֵבָה (toʿevah) — Greek: βδέλυγμα — Aramaic: תועבתא",
+          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+        },
+        {
+          "term": "Balanzas y pesas justas",
+          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat) — Greek: ζυγὸς δίκαιος — Aramaic: מאזני דינא",
+          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+        },
+        {
+          "term": "Torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz) — Greek: πύργος ἰσχυρός — Aramaic: מגדל עוז",
+          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+        }
+      ],
+      "keyTakeaway": "Esta colección contrasta los planes humanos con el gobierno del SEÑOR, establece normas para reyes y justicia, advierte contra la soberbia, las medidas falsas y el descuido del pobre, e incluye dichos sobre el habla, la diligencia, la familia y la riqueza."
+    },
+    {
+      "id": "proverbs-23",
+      "title": "📝 Proverbios 23",
+      "refs": [
+        "Proverbs 23:1-35"
+      ],
+      "summaryBullets": [
+        "Cuando te sientes a comer con un gobernante, observa bien lo que está delante de ti, (23:1)",
+        "y pon cuchillo a tu garganta si eres dado al apetito. (23:2)",
+        "No codicies sus manjares, porque son comida engañosa. (23:3)",
+        "No te afanes por adquirir riquezas; sé prudente para desistir. (23:4)",
+        "Cuando pones tus ojos en ella, ya no está; porque le salen alas de repente, volando como águila hacia el cielo. (23:5)",
+        "No comas pan del avaro, ni codicies sus manjares, (23:6)",
+        "porque como es el que calcula en su interior, así es él. \"Come y bebe\", te dice, pero su corazón no está contigo. (23:7)",
+        "Vomitarás el bocado que comiste, y perderás tus palabras agradables. (23:8)",
+        "No hables a oídos del necio, porque despreciará la prudencia de tus palabras. (23:9)",
+        "No muevas el lindero antiguo ni entres en los campos de los huérfanos, (23:10)",
+        "porque su Redentor es fuerte; él defenderá la causa de ellos contra ti. (23:11)",
+        "Aplica tu corazón a la instrucción, y tus oídos a las palabras del conocimiento. (23:12)",
+        "No rehúses la disciplina del niño; si lo castigas con vara, no morirá. (23:13)",
+        "Si lo castigas con vara, salvarás su alma del Seol. (23:14)",
+        "Hijo mío, si tu corazón es sabio, mi corazón también se alegrará. (23:15)",
+        "Mi ser más íntimo se regocijará cuando tus labios hablen lo recto. (23:16)",
+        "No envidie tu corazón a los pecadores; antes persevera en el temor del SEÑOR todo el día. (23:17)",
+        "Ciertamente hay un porvenir, y tu esperanza no será cortada. (23:18)",
+        "Oye, hijo mío, y sé sabio, y dirige tu corazón por el buen camino. (23:19)",
+        "No estés con los bebedores de vino ni con los comilones de carne, (23:20)",
+        "porque el borracho y el glotón empobrecerán, y la somnolencia los vestirá de harapos. (23:21)",
+        "Escucha a tu padre que te engendró, y no desprecies a tu madre cuando envejezca. (23:22)",
+        "Compra la verdad y no la vendas; compra sabiduría, instrucción y entendimiento. (23:23)",
+        "El padre del justo se regocijará grandemente; el que engendra un hijo sabio se alegrará de él. (23:24)",
+        "Alégrense tu padre y tu madre; gócese la que te dio a luz. (23:25)",
+        "Dame, hijo mío, tu corazón, y observen tus ojos mis caminos. (23:26)",
+        "Porque la ramera es fosa profunda, y la extraña es pozo angosto. (23:27)",
+        "Ella acecha como ladrón y multiplica los traidores entre los hombres. (23:28)",
+        "¿De quién son los ayes? ¿De quién las tristezas? ¿De quién las contiendas? ¿De quién las quejas? ¿De quién las heridas sin causa? ¿De quién los ojos enrojecidos? (23:29)",
+        "De los que se detienen mucho con el vino, de los que van a probar el vino mezclado. (23:30)",
+        "No mires al vino cuando rojea, cuando resplandece en la copa y se desliza suavemente. (23:31)",
+        "Al final muerde como serpiente y pica como víbora. (23:32)",
+        "Tus ojos verán cosas extrañas, y tu corazón proferirá cosas perversas. (23:33)",
+        "Serás como el que se acuesta en medio del mar, como el que se acuesta en la punta de un mástil. (23:34)",
+        "\"Me golpearon\", dirás, \"pero no me dolió; me azotaron, pero no lo sentí. ¿Cuándo despertaré? Necesito otra copa.\" (23:35)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 19:14 — No muevas el lindero de tu prójimo.",
+        "Éxodo 23:1–9 — Justicia para el pobre y afligido en la puerta.",
+        "Proverbios 13:24 — Disciplina del niño.",
+        "Isaías 5:11–12 — Ay de los que se levantan temprano para correr tras la bebida."
+      ],
+      "translationNotes": [
+        {
+          "term": "Lindero",
+          "original": "Hebrew: גְּבוּל/גְּבוּלַת (gevul/gevulat) — Greek (LXX): ὅρια — Aramaic: תחומי",
+          "note": "Límites antiguos de propiedad que no deben moverse (22:28)."
+        },
+        {
+          "term": "Tacaño / ojo maligno",
+          "original": "Hebrew: בַּעַל עָיִן רָעָה (baʿal ʿayin rāʿāh) — Greek: ὀφθαλμὸς πονηρός — Aramaic: עין בישא",
+          "note": "Modismo que designa a un anfitrión mezquino y renuente (23:6–8)."
+        },
+        {
+          "term": "Cuchillo a tu garganta",
+          "original": "Hebrew: וְשַׂמְתָּ שַׂכִּין בְּלֹעֶךָ (vesamta sakin beloʿekha) — Greek: μάχαιραν ἐπὶ τὸν λαιμόν — Aramaic: סכינא על צוארך",
+          "note": "Advertencia hiperbólica para refrenar el apetito ante gobernantes (23:2)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos; se dice que la disciplina libra de él (23:14)."
+        }
+      ],
+      "keyTakeaway": "Estas instrucciones exhortan a interiorizar las palabras sabias, proteger al pobre, evitar compañeros iracundos, fianzas arriesgadas y la embriaguez, practicar la diligencia y la disciplina, y temer al SEÑOR y al rey."
+    },
+    {
+      "id": "proverbs-24",
+      "title": "📝 Proverbios 24",
+      "refs": [
+        "Proverbs 24:1-34"
+      ],
+      "summaryBullets": [
+        "No envidies a los hombres malos, ni desees estar con ellos, (24:1)",
+        "porque su corazón trama violencia, y sus labios hablan de iniquidad. (24:2)",
+        "Con sabiduría se edifica la casa, y con entendimiento se establece; (24:3)",
+        "con conocimiento se llenan las cámaras de todo bien precioso y agradable. (24:4)",
+        "El hombre sabio es fuerte, y el hombre de conocimiento aumenta su poder, (24:5)",
+        "porque con sabias estrategias harás la guerra, y en la multitud de consejeros está la victoria. (24:6)",
+        "Demasiado alta es la sabiduría para el necio; en la puerta no abre su boca. (24:7)",
+        "El que planea hacer el mal será llamado intrigante. (24:8)",
+        "La trama de la necedad es pecado, y el burlador es abominación para los hombres. (24:9)",
+        "Si te desanimas en el día de la adversidad, tu fuerza es escasa. (24:10)",
+        "Libra a los que son llevados a la muerte; detén a los que son arrastrados al degolladero. (24:11)",
+        "Si dices: \"He aquí, no lo sabíamos\", ¿no lo considerará el que pesa los corazones? El que guarda tu alma, ¿no lo sabrá, y retribuirá al hombre según sus obras? (24:12)",
+        "Hijo mío, come miel, porque es buena, y el panal es dulce a tu paladar. (24:13)",
+        "Así es la sabiduría para tu alma; si la hallas, habrá un porvenir, y tu esperanza no será cortada. (24:14)",
+        "No aceches como impío contra la morada del justo, ni hagas violencia a su hogar; (24:15)",
+        "porque el justo cae siete veces y se levanta, pero los impíos tropezarán en la calamidad. (24:16)",
+        "No te regocijes cuando caiga tu enemigo, ni se alegre tu corazón cuando tropiece, (24:17)",
+        "no sea que el SEÑOR lo vea y le desagrade, y aparte de él su enojo. (24:18)",
+        "No te impacientes a causa de los malvados, ni envidies a los impíos, (24:19)",
+        "porque el malvado no tiene porvenir; la lámpara de los impíos se apagará. (24:20)",
+        "Hijo mío, teme al SEÑOR y al rey, y no te juntes con los que se rebelan, (24:21)",
+        "porque de repente se levantará su calamidad, y ¿quién conoce la ruina que vendrá de ambos? (24:22)",
+        "También estos son dichos de los sabios. Hacer acepción de personas en el juicio no es bueno. (24:23)",
+        "El que dice al impío: \"Justo eres\", será maldecido por los pueblos, aborrecido por las naciones; (24:24)",
+        "pero los que reprenden al impío tendrán deleite, y sobre ellos vendrá rica bendición. (24:25)",
+        "El que da una respuesta honesta besa los labios. (24:26)",
+        "Prepara tu trabajo fuera y dispón todo en tu campo, y después edifica tu casa. (24:27)",
+        "No seas testigo contra tu prójimo sin causa, ni engañes con tus labios. (24:28)",
+        "No digas: \"Le haré a él como él me hizo a mí; le pagaré al hombre conforme a su obra\". (24:29)",
+        "Pasé junto al campo del perezoso, junto a la viña del hombre falto de juicio, (24:30)",
+        "y he aquí, todo estaba cubierto de espinos; la superficie cubierta de ortigas, y su cerco de piedra estaba destruido. (24:31)",
+        "Entonces miré y consideré; observé y recibí instrucción. (24:32)",
+        "\"Un poco de sueño, un poco de dormitar, un poco de cruzar las manos para descansar,\" (24:33)",
+        "\"y vendrá tu pobreza como un vagabundo, y tu necesidad como un hombre armado.\" (24:34)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 19:14 — No muevas el lindero de tu prójimo.",
+        "Éxodo 23:1–9 — Justicia para el pobre y afligido en la puerta.",
+        "Proverbios 13:24 — Disciplina del niño.",
+        "Isaías 5:11–12 — Ay de los que se levantan temprano para correr tras la bebida."
+      ],
+      "translationNotes": [
+        {
+          "term": "Lindero",
+          "original": "Hebrew: גְּבוּל/גְּבוּלַת (gevul/gevulat) — Greek (LXX): ὅρια — Aramaic: תחומי",
+          "note": "Límites antiguos de propiedad que no deben moverse (22:28)."
+        },
+        {
+          "term": "Tacaño / ojo maligno",
+          "original": "Hebrew: בַּעַל עָיִן רָעָה (baʿal ʿayin rāʿāh) — Greek: ὀφθαλμὸς πονηρός — Aramaic: עין בישא",
+          "note": "Modismo que designa a un anfitrión mezquino y renuente (23:6–8)."
+        },
+        {
+          "term": "Cuchillo a tu garganta",
+          "original": "Hebrew: וְשַׂמְתָּ שַׂכִּין בְּלֹעֶךָ (vesamta sakin beloʿekha) — Greek: μάχαιραν ἐπὶ τὸν λαιμόν — Aramaic: סכינא על צוארך",
+          "note": "Advertencia hiperbólica para refrenar el apetito ante gobernantes (23:2)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (Sheʾol) — Greek (LXX): ᾅδης (Hades) — Aramaic: שאולא",
+          "note": "Morada de los muertos; se dice que la disciplina libra de él (23:14)."
+        }
+      ],
+      "keyTakeaway": "Estas instrucciones exhortan a interiorizar las palabras sabias, proteger al pobre, evitar compañeros iracundos, fianzas arriesgadas y la embriaguez, practicar la diligencia y la disciplina, y temer al SEÑOR y al rey."
+    },
+    {
+      "id": "proverbs-25",
+      "title": "🏺 Proverbios 25",
+      "refs": [
+        "Proverbs 25:1-28"
+      ],
+      "summaryBullets": [
+        "También estos son proverbios de Salomón, los cuales copiaron los varones de Ezequías rey de Judá. (25:1)",
+        "Es gloria de Dios encubrir las cosas, pero gloria de los reyes es escudriñarlas. (25:2)",
+        "Como la altura de los cielos y la profundidad de la tierra, así el corazón de los reyes es inescrutable. (25:3)",
+        "Quita las escorias de la plata, y saldrá material para el orfebre; (25:4)",
+        "quita al impío de la presencia del rey, y su trono se afianzará con justicia. (25:5)",
+        "No te pongas en el lugar de los grandes ni te presentes ante el rey, (25:6)",
+        "porque mejor es que te digan: \"Sube acá\", que ser humillado ante el noble. (25:7)",
+        "Lo que tus ojos han visto no lo lleves apresuradamente al tribunal, porque ¿qué harás al final, cuando tu prójimo te avergüence? (25:8)",
+        "Defiende tu causa con tu prójimo, y no reveles el secreto de otro, (25:9)",
+        "no sea que el que lo oiga te avergüence, y tu mala fama no tenga fin. (25:10)",
+        "Manzana de oro en engastes de plata es la palabra dicha oportunamente. (25:11)",
+        "Como anillo de oro y joya de oro fino es el sabio que reprende al oído atento. (25:12)",
+        "Como frescor de nieve en tiempo de siega es el mensajero fiel a los que lo envían; refresca el alma de sus señores. (25:13)",
+        "Como nubes y viento sin lluvia es el hombre que se jacta de un regalo que no da. (25:14)",
+        "Con paciencia se convence al gobernante, y la lengua suave quebranta los huesos. (25:15)",
+        "Si hallaste miel, come solo lo suficiente, no sea que te hartes y la vomites. (25:16)",
+        "Que tu pie sea raro en la casa de tu prójimo, no sea que se harte de ti y te aborrezca. (25:17)",
+        "El hombre que da falso testimonio contra su prójimo es como mazo, espada y saeta aguda. (25:18)",
+        "Confiar en el traidor en tiempo de angustia es como diente roto o pie que resbala. (25:19)",
+        "El que canta canciones al corazón afligido es como el que quita la ropa en día de frío, y como vinagre sobre soda. (25:20)",
+        "Si tu enemigo tiene hambre, dale de comer pan; si tiene sed, dale de beber agua, (25:21)",
+        "porque ascuas amontonarás sobre su cabeza, y el SEÑOR te recompensará. (25:22)",
+        "El viento del norte trae lluvia, y la lengua calumniadora, rostros airados. (25:23)",
+        "Mejor es vivir en un rincón del terrado que en casa compartida con mujer rencillosa. (25:24)",
+        "Como agua fría al alma sedienta, así son las buenas noticias de lejanas tierras. (25:25)",
+        "Como fuente turbia y manantial contaminado es el justo que cede ante el impío. (25:26)",
+        "No es bueno comer mucha miel, ni es honroso buscar la propia gloria. (25:27)",
+        "El hombre que no domina su espíritu es como ciudad derribada y sin murallas. (25:28)"
+      ],
+      "crossRefs": [
+        "Lucas 14:8–10 — No tomes el lugar de honor; espera a ser invitado (comparar con 25:6–7).",
+        "Romanos 12:20 — Cita Proverbios 25:21–22 sobre alimentar al enemigo.",
+        "Deuteronomio 19:16–19 — Leyes sobre el testigo falso.",
+        "Nehemías 2:19; Nehemías 6:15–16 — Oposición y firmeza ante los gobernantes (resonancia con 25:15) (25:26)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Los hombres de Ezequías copiaron",
+          "original": "Hebrew: הֶעְתִּיקוּ (heʿtiqu, ‘transcribed’) — Greek (LXX): μετέγραψαν — Aramaic: העתיקו",
+          "note": "Nota editorial que atribuye la transmisión de los proverbios de Salomón (25:1)."
+        },
+        {
+          "term": "Manzanas de oro en engaste de plata",
+          "original": "Hebrew: תַּפּוּחֵי זָהָב בְּמַשְׂכִּיּוֹת כָּסֶף (tappuḥei zahav be-maskiyyot kasef)",
+          "note": "Imagen de la belleza y lo apropiado de una palabra oportuna (25:11)."
+        },
+        {
+          "term": "Amontonar ascuas",
+          "original": "Hebrew: גֶּחָלִים חֹתֶה עַל־רֹאשׁוֹ (geḥalim ḥoteh ʿal rosho) — Greek (LXX): ἄνθρακας πυρὸς σωρεύσεις — Aramaic: גחלי נוּר תצבר",
+          "note": "Frase que indica el resultado de alimentar al enemigo (25:22)."
+        },
+        {
+          "term": "Sin dominio propio",
+          "original": "Hebrew: אֵין מַעְצָר לְרוּחוֹ (ʾein maʿtsar l’ruḥo) — lit. “no restraint over his spirit” — Greek: οὐκ ἔχει κράτος τοῦ πνεύματος",
+          "note": "Comparado con una ciudad sin muros (25:28)."
+        }
+      ],
+      "keyTakeaway": "La colección de Ezequías exhorta a la humildad ante los gobernantes, al habla cuidadosa y la resolución privada de disputas, a la moderación en los apetitos y las visitas, a la generosidad con los enemigos y al dominio propio."
+    },
+    {
+      "id": "proverbs-26",
+      "title": "🧵 Proverbios 26",
+      "refs": [
+        "Proverbs 26:1-28"
+      ],
+      "summaryBullets": [
+        "Como nieve en verano y lluvia en la cosecha, así el honor no es propio del necio. (26:1)",
+        "Como el gorrión en su revoloteo y la golondrina en su vuelo, así la maldición sin causa no llega. (26:2)",
+        "El látigo para el caballo, el cabestro para el asno, y la vara para las espaldas del necio. (26:3)",
+        "No respondas al necio según su necedad, para que no seas tú también como él. (26:4)",
+        "Responde al necio según su necedad, para que no sea sabio en su propia opinión. (26:5)",
+        "El que envía un mensaje por mano de necio se corta los pies y bebe violencia. (26:6)",
+        "Como las piernas del cojo que cuelgan inútiles, así es el proverbio en boca del necio. (26:7)",
+        "Como el que ata la piedra en la honda, así es el que da honra al necio. (26:8)",
+        "Como espina que se clava en mano de borracho, así es el proverbio en boca de los necios. (26:9)",
+        "Como arquero que hiere a todos es el que contrata al necio o al borracho que pasa. (26:10)",
+        "Como perro que vuelve a su vómito, así es el necio que repite su necedad. (26:11)",
+        "¿Has visto hombre sabio en su propia opinión? Más esperanza hay para el necio que para él. (26:12)",
+        "El perezoso dice: \"¡Hay un león en el camino! ¡Hay un león en las calles!\" (26:13)",
+        "Como la puerta gira sobre sus goznes, así el perezoso sobre su cama. (26:14)",
+        "El perezoso mete la mano en el plato; le cansa llevarla de nuevo a la boca. (26:15)",
+        "El perezoso es más sabio en su propia opinión que siete hombres que sepan responder con sensatez. (26:16)",
+        "El que se mete en pleito ajeno es como el que agarra a un perro por las orejas al pasar. (26:17)",
+        "Como loco que lanza teas, flechas y muerte, (26:18)",
+        "así es el hombre que engaña a su prójimo y dice: \"¡Solo estaba bromeando!\" (26:19)",
+        "Sin leña se apaga el fuego, y donde no hay chismoso se calma la contienda. (26:20)",
+        "Como el carbón a las brasas y la leña al fuego, así es el hombre rencilloso para encender contienda. (26:21)",
+        "Las palabras del chismoso son como bocados delicados, y descienden a lo íntimo del cuerpo. (26:22)",
+        "Como esmalte que cubre una vasija de barro son los labios fervientes con corazón malvado. (26:23)",
+        "El que odia disimula con sus labios y en su interior alberga engaño; (26:24)",
+        "cuando hable amablemente, no le creas, porque siete abominaciones hay en su corazón; (26:25)",
+        "aunque su odio se cubra con disimulo, su maldad será descubierta en la asamblea. (26:26)",
+        "El que cava fosa caerá en ella, y la piedra volverá sobre el que la hace rodar. (26:27)",
+        "La lengua mentirosa odia a sus víctimas, y la boca lisonjera causa ruina. (26:28)"
+      ],
+      "crossRefs": [
+        "2 Pedro 2:22 — Se cita \"el perro vuelve a su vómito\" (comparar con Proverbios 26:11).",
+        "Levítico 19:16 — No andarás como chismoso entre tu pueblo.",
+        "Proverbios 20:3 — Es honra para el hombre evitar la contienda (comparar con el entrometido, 26:17).",
+        "Salmo 7:15–16 — Imagen del hoyo y la piedra que vuelven sobre el que los traza."
+      ],
+      "translationNotes": [
+        {
+          "term": "Necio",
+          "original": "Hebrew: כְּסִיל (kesil) — Greek (LXX): ἄφρων/ἄνους — Aramaic: כסילא",
+          "note": "Término recurrente para la persona obstinada e incorregible en Proverbios."
+        },
+        {
+          "term": "Chismoso",
+          "original": "Hebrew: נִרְגָּן (nirgān) — Greek: ψιθυριστής — Aramaic: לחשן",
+          "note": "Murmurador cuyas palabras descienden y encienden contienda (26:20–22)."
+        },
+        {
+          "term": "Responder / no responder al necio",
+          "original": "Hebrew: עֲנֵה / אַל־תַּעַן (ʿaneh / ʾal-taʿan)",
+          "note": "Mandatos emparejados que muestran dos peligros al responder (26:4–5)."
+        },
+        {
+          "term": "Entrometerse",
+          "original": "Hebrew: מִתְעַבֵּר (mitʿabber) — Greek: περιπλέκεσθαι — Aramaic: אתעבר",
+          "note": "Meterse en una disputa ajena (26:17)."
+        }
+      ],
+      "keyTakeaway": "Esta unidad encadena imágenes sobre cómo tratar al necio, expone las excusas del perezoso, advierte contra el entrometimiento y el chisme, y declara que el engaño y la malicia se vuelven contra quienes los practican."
+    },
+    {
+      "id": "proverbs-27",
+      "title": "🪞 Proverbios 27",
+      "refs": [
+        "Proverbs 27:1-27"
+      ],
+      "summaryBullets": [
+        "No te jactes del día de mañana, porque no sabes lo que traerá el día. (27:1)",
+        "Alábete el extraño, y no tu propia boca; el ajeno, y no tus propios labios. (27:2)",
+        "Pesada es la piedra y pesada la arena, pero la provocación del necio es más pesada que ambas. (27:3)",
+        "La ira es cruel y el furor abrumador, pero ¿quién puede sostenerse ante los celos? (27:4)",
+        "Mejor es la reprensión abierta que el amor oculto. (27:5)",
+        "Fieles son las heridas del amigo, pero engañosos los besos del enemigo. (27:6)",
+        "El harto pisotea la miel, pero para el hambriento todo lo amargo es dulce. (27:7)",
+        "Como ave que se aleja de su nido, así es el hombre que se aleja de su hogar. (27:8)",
+        "El aceite y el perfume alegran el corazón, y la dulzura del amigo viene de su consejo sincero. (27:9)",
+        "No abandones a tu amigo ni al amigo de tu padre, ni vayas a la casa de tu hermano en el día de tu calamidad. Mejor es vecino cerca que hermano lejos. (27:10)",
+        "Sé sabio, hijo mío, y alegra mi corazón, para que yo pueda responder al que me afrenta. (27:11)",
+        "El prudente ve el peligro y se esconde, pero los simples siguen adelante y sufren el daño. (27:12)",
+        "Quítale la ropa al que salió fiador del extraño, y tómala en prenda del que sale fiador de una extraña. (27:13)",
+        "El que bendice a su prójimo en alta voz, madrugando de mañana, será contado como si maldijera. (27:14)",
+        "Gotera continua en día lluvioso y mujer rencillosa son semejantes; (27:15)",
+        "detenerla es como detener el viento o agarrar aceite en la mano derecha. (27:16)",
+        "El hierro con hierro se aguza, y un hombre aguza a otro. (27:17)",
+        "El que cuida la higuera comerá su fruto, y el que guarda a su señor será honrado. (27:18)",
+        "Como en el agua el rostro refleja el rostro, así el corazón del hombre refleja al hombre. (27:19)",
+        "El Seol y el Abadón nunca se sacian, y nunca se sacian los ojos del hombre. (27:20)",
+        "El crisol es para la plata y el horno para el oro, y el hombre es probado por la alabanza que recibe. (27:21)",
+        "Aunque majes al necio en un mortero con un mazo junto con el grano, su necedad no se apartará de él. (27:22)",
+        "Conoce bien la condición de tus rebaños, y pon atención a tus manadas, (27:23)",
+        "porque las riquezas no duran para siempre, ¿y perdura la corona por todas las generaciones? (27:24)",
+        "Cuando se ha quitado la hierba y aparece el retoño y se recoge la hierba de los montes, (27:25)",
+        "los corderos proveerán tu vestido, y las cabras el precio del campo. (27:26)",
+        "Habrá suficiente leche de cabras para tu alimento, para el alimento de tu casa y sustento de tus criadas. (27:27)"
+      ],
+      "crossRefs": [
+        "Santiago 4:13–15 — No digáis \"Hoy o mañana iremos...\" (comparar con 27:1).",
+        "Eclesiastés 4:9–10 — Mejor son dos que uno (comparar con 27:17).",
+        "Proverbios 22:26–27 — Advertencia sobre salir fiador.",
+        "Job 26:6 — El Seol y el Abadón están descubiertos ante Dios (comparar con 27:20)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Celos",
+          "original": "Hebrew: קִנְאָה (qinʾāh) — Greek: ζῆλος — Aramaic: קנאה",
+          "note": "Se nombran como irresistibles (27:4)."
+        },
+        {
+          "term": "Mujer rencillosa",
+          "original": "Hebrew: אֵשֶׁת מִדְיָנִים (ʾeshet midyānim) — lit. “woman of contentions” — Greek: γυνὴ φιλέρις",
+          "note": "Comparada con la gotera continua y con viento o aceite incontrolables (27:15–16)."
+        },
+        {
+          "term": "Hierro con hierro se afila",
+          "original": "Hebrew: בַּרְזֶל בְּבַרְזֶל יָחַד (barzel be-barzel yaḥad) — Greek: σίδηρος σιδήρῳ ὀξύνει",
+          "note": "Imagen de afilar mutuamente aplicada a las personas (27:17)."
+        },
+        {
+          "term": "Probado por el elogio",
+          "original": "Hebrew: מַצְרֵף לַכֶּסֶף… וְאִישׁ לְפִי מַהֲלָלוֹ (maṣref la-keseph… veʾish lefi mahalalo) — Greek: δοκιμάζεται ἀνήρ ἐν ἐπαίνῳ",
+          "note": "Metáfora del refinamiento aplicada a cómo el elogio prueba a una persona (27:21)."
+        }
+      ],
+      "keyTakeaway": "Este capítulo advierte contra jactarse del mañana y la autoalabanza, valora la reprensión honesta y el consejo, repite las advertencias sobre la prudencia y las fianzas, y concluye con el cuidado de los rebaños y la provisión del hogar."
+    },
+    {
+      "id": "proverbs-28",
+      "title": "🦁 Proverbios 28",
+      "refs": [
+        "Proverbs 28:1-28"
+      ],
+      "summaryBullets": [
+        "El impío huye sin que nadie lo persiga, pero el justo está confiado como un león. (28:1)",
+        "Cuando un país se rebela, tiene muchos gobernantes; pero con hombre entendido y sabio, su estabilidad perdurará. (28:2)",
+        "El pobre que oprime a los pobres es como lluvia torrencial que no deja cosecha. (28:3)",
+        "Los que abandonan la ley alaban al impío, pero los que guardan la ley luchan contra ellos. (28:4)",
+        "Los hombres malos no entienden la justicia, pero los que buscan al SEÑOR la entienden plenamente. (28:5)",
+        "Mejor es el pobre que camina en integridad que el rico perverso en sus caminos. (28:6)",
+        "El que guarda la ley es hijo entendido, pero el compañero de glotones avergüenza a su padre. (28:7)",
+        "El que aumenta su riqueza con interés y usura la junta para el que se apiada de los pobres. (28:8)",
+        "El que aparta su oído para no oír la ley, aun su oración es abominación. (28:9)",
+        "El que hace errar a los rectos por el mal camino caerá en su propia fosa, pero los íntegros heredarán el bien. (28:10)",
+        "El rico es sabio en su propia opinión, pero el pobre entendido lo examina. (28:11)",
+        "Cuando triunfan los justos hay gran gloria, pero cuando se levantan los impíos, la gente se esconde. (28:12)",
+        "El que encubre sus transgresiones no prosperará, pero el que las confiesa y las abandona alcanzará misericordia. (28:13)",
+        "Bienaventurado el hombre que siempre teme al SEÑOR, pero el que endurece su corazón caerá en la calamidad. (28:14)",
+        "Como león rugiente y oso que ataca es el gobernante impío sobre pueblo pobre. (28:15)",
+        "El gobernante falto de entendimiento es opresor cruel, pero el que aborrece la avaricia prolongará sus días. (28:16)",
+        "El hombre cargado con sangre ajena será fugitivo hasta la muerte; que nadie lo ayude. (28:17)",
+        "El que camina en integridad será librado, pero el perverso en sus caminos caerá de repente. (28:18)",
+        "El que labra su tierra se saciará de pan, pero el que sigue cosas vanas se llenará de pobreza. (28:19)",
+        "El hombre fiel abundará en bendiciones, pero el que se apresura a enriquecerse no quedará sin castigo. (28:20)",
+        "Hacer acepción de personas no es bueno, pero por un bocado de pan el hombre cometerá transgresión. (28:21)",
+        "El avaro se apresura tras las riquezas y no sabe que la pobreza vendrá sobre él. (28:22)",
+        "El que reprende al hombre hallará después más favor que el que lisonjea con la lengua. (28:23)",
+        "El que roba a su padre o a su madre y dice: \"No es transgresión\", es compañero del destructor. (28:24)",
+        "El hombre codicioso suscita contiendas, pero el que confía en el SEÑOR será prosperado. (28:25)",
+        "El que confía en su propio corazón es necio, pero el que camina con sabiduría será librado. (28:26)",
+        "El que da al pobre no tendrá necesidad, pero el que esconde sus ojos recibirá muchas maldiciones. (28:27)",
+        "Cuando se levantan los impíos, la gente se esconde; pero cuando perecen, los justos se multiplican. (28:28)"
+      ],
+      "crossRefs": [
+        "Levítico 19:15 — No haréis injusticia en el juicio; no seréis parciales.",
+        "Deuteronomio 23:19–20 — Regulaciones sobre el interés y la usura en Israel.",
+        "Salmo 32:5 — \"Reconocí mi pecado... y tú perdonaste\" (paralelo de la confesión).",
+        "Proverbios 14:31 — El que oprime al pobre afrenta a su Hacedor."
+      ],
+      "translationNotes": [
+        {
+          "term": "Interés / usura",
+          "original": "Hebrew: נֶשֶׁךְ (neshekh) / תַּרְבִּית (tarbīt) — Greek (LXX): τόκος — Aramaic: נשכא",
+          "note": "Ganancia sobre un préstamo; términos emparejados en 28:8 para el cobro de intereses."
+        },
+        {
+          "term": "Confesar / abandonar",
+          "original": "Hebrew: מוֹדֶה (modeh, ‘acknowledge’) / עֹזֵב (ʿozev, ‘leave’) — Greek: ἐξομολογέομαι / ἐγκαταλείπω — Aramaic: מודי / שביק",
+          "note": "Verbos en 28:13 para admitir y abandonar las transgresiones."
+        },
+        {
+          "term": "Endurece su corazón",
+          "original": "Hebrew: מַקְשֶׁה־לִבּוֹ (maqsheh-libbo) — Greek: σκληρύνει τὴν καρδίαν — Aramaic: מקשי לביה",
+          "note": "Obstinación que lleva al desastre (28:14)."
+        }
+      ],
+      "keyTakeaway": "Esta sección contrasta al justo valiente con el impío temeroso, enfatiza guardar la ley y hacer justicia, advierte contra el gobierno opresivo, el cobro de intereses, el encubrimiento del pecado, la parcialidad, la avaricia y el descuido del pobre."
+    },
+    {
+      "id": "proverbs-29",
+      "title": "🏛️ Proverbios 29",
+      "refs": [
+        "Proverbs 29:1-27"
+      ],
+      "summaryBullets": [
+        "El que es reprendido muchas veces y endurece la cerviz, de repente será quebrantado sin remedio. (29:1)",
+        "Cuando los justos se multiplican, el pueblo se alegra; pero cuando gobiernan los impíos, el pueblo gime. (29:2)",
+        "El que ama la sabiduría alegra a su padre, pero el compañero de rameras derrocha su hacienda. (29:3)",
+        "Con justicia el rey afianza la tierra, pero el que exige tributos la destruye. (29:4)",
+        "El hombre que lisonjea a su prójimo tiende red a sus pies. (29:5)",
+        "En la transgresión del malvado hay trampa, pero el justo canta y se regocija. (29:6)",
+        "El justo conoce la causa de los pobres; el impío no entiende tal conocimiento. (29:7)",
+        "Los burladores encienden la ciudad, pero los sabios apartan la ira. (29:8)",
+        "Si el sabio tiene contienda con el necio, el necio solo se enfurece y se ríe, y no hay reposo. (29:9)",
+        "Los hombres sanguinarios aborrecen al íntegro y buscan la vida del recto. (29:10)",
+        "El necio da rienda suelta a su ira, pero el sabio al fin la sosiega. (29:11)",
+        "Si un gobernante escucha la mentira, todos sus servidores serán impíos. (29:12)",
+        "El pobre y el opresor tienen esto en común: el SEÑOR da luz a los ojos de ambos. (29:13)",
+        "Si el rey juzga a los pobres con fidelidad, su trono será establecido para siempre. (29:14)",
+        "La vara y la reprensión dan sabiduría, pero el niño consentido avergüenza a su madre. (29:15)",
+        "Cuando aumentan los impíos, aumenta la transgresión; pero los justos verán su caída. (29:16)",
+        "Disciplina a tu hijo, y te dará descanso; dará deleite a tu corazón. (29:17)",
+        "Donde no hay visión profética, el pueblo se desenfrena; pero bienaventurado el que guarda la ley. (29:18)",
+        "Con meras palabras el siervo no será corregido, pues aunque entiende, no responderá. (29:19)",
+        "¿Has visto hombre precipitado en sus palabras? Más esperanza hay para el necio que para él. (29:20)",
+        "El que mima a su siervo desde la niñez, al final lo hallará como heredero. (29:21)",
+        "El hombre iracundo suscita contiendas, y el dado a la ira causa mucha transgresión. (29:22)",
+        "La soberbia del hombre lo abatirá, pero el de espíritu humilde alcanzará honra. (29:23)",
+        "El cómplice del ladrón odia su propia vida; oye la maldición y no dice nada. (29:24)",
+        "El temor al hombre pone trampa, pero el que confía en el SEÑOR estará seguro. (29:25)",
+        "Muchos buscan el favor del gobernante, pero del SEÑOR viene la justicia para el hombre. (29:26)",
+        "El hombre injusto es abominación para los justos, pero el de camino recto es abominación para el impío. (29:27)"
+      ],
+      "crossRefs": [
+        "Éxodo 32:9 — \"Es un pueblo de dura cerviz.\"",
+        "1 Samuel 15:23 — El rechazo de la palabra se compara con la rebelión.",
+        "Isaías 11:3–4 — El gobernante justo que juzga al pobre con justicia.",
+        "Jeremías 23:16–22 — Falsa visión contra verdadera palabra profética (comparar con 29:18)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Endurece la cerviz",
+          "original": "Hebrew: מַקְשֶׁה־עֹרֶף (maqsheh-ʿoref) — Greek (LXX): σκληροτράχηλος — Aramaic: קשׁי ערפא",
+          "note": "Modismo que expresa obstinado rechazo (29:1)."
+        },
+        {
+          "term": "Visión",
+          "original": "Hebrew: חָזוֹן (ḥāzôn) — Greek: ὅρασις/ὅραμα — Aramaic: חזון",
+          "note": "Revelación profética; sin ella, el pueblo \"se desenfrena\" (29:18)."
+        },
+        {
+          "term": "Temor del hombre",
+          "original": "Hebrew: חֶרְדַּת אָדָם (ḥerdat ʾadam) — Greek: φόβος ἀνθρώπου — Aramaic: דחלת גברא",
+          "note": "Timidez ante las personas, contrastada con la confianza en el SEÑOR (29:25)."
+        }
+      ],
+      "keyTakeaway": "Este capítulo advierte contra el obstinado rechazo de la corrección, señala cómo gobernantes justos o mentirosos afectan a una tierra, contrasta el habla precipitada con la mesura y contrasta el temor del hombre con la confianza en el SEÑOR."
+    },
+    {
+      "id": "proverbs-30",
+      "title": "📜 Proverbios 30",
+      "refs": [
+        "Proverbs 30:1-33"
+      ],
+      "summaryBullets": [
+        "Palabras de Agur hijo de Jaqué. El oráculo. El hombre declara: \"Estoy cansado, oh Dios; estoy cansado, oh Dios, y agotado\". (30:1)",
+        "\"Ciertamente soy más torpe que cualquier hombre; no tengo entendimiento de hombre\". (30:2)",
+        "\"No he aprendido sabiduría, ni tengo conocimiento del Santo\". (30:3)",
+        "\"¿Quién subió al cielo y descendió? ¿Quién recogió el viento en sus puños? ¿Quién envolvió las aguas en un manto? ¿Quién estableció todos los confines de la tierra? ¿Cuál es su nombre, y cuál es el nombre de su hijo? ¡Seguramente tú lo sabes!\" (30:4)",
+        "Toda palabra de Dios es probada; él es escudo para los que en él se refugian. (30:5)",
+        "No añadas a sus palabras, no sea que te reprenda y seas hallado mentiroso. (30:6)",
+        "\"Dos cosas te he pedido; no me las niegues antes que muera:\" (30:7)",
+        "\"Aleja de mí la falsedad y la mentira; no me des pobreza ni riquezas; susténtame con el pan que necesito,\" (30:8)",
+        "\"no sea que me sacie y te niegue y diga: '¿Quién es el SEÑOR?', o que empobrezca y robe y profane el nombre de mi Dios\". (30:9)",
+        "No calumnies al siervo ante su señor, no sea que te maldiga y seas hallado culpable. (30:10)",
+        "Hay generación que maldice a su padre y no bendice a su madre. (30:11)",
+        "Hay generación limpia ante sus propios ojos, pero no se ha lavado de su inmundicia. (30:12)",
+        "Hay generación que tiene ojos altivos y párpados levantados. (30:13)",
+        "Hay generación cuyos dientes son espadas y cuyas muelas son cuchillos, para devorar a los pobres de la tierra y a los menesterosos de entre los hombres. (30:14)",
+        "La sanguijuela tiene dos hijas que dicen: \"¡Dame! ¡Dame!\" Tres cosas hay que nunca se sacian; cuatro que nunca dicen: \"¡Basta!\": (30:15)",
+        "El Seol, la matriz estéril, la tierra que nunca se sacia de agua, y el fuego que nunca dice: \"¡Basta!\" (30:16)",
+        "Al ojo que se burla del padre y menosprecia la obediencia a la madre, los cuervos del valle lo sacarán y los buitres lo comerán. (30:17)",
+        "Tres cosas me son maravillosas; cuatro que no comprendo: (30:18)",
+        "el camino del águila en el cielo, el camino de la serpiente sobre la roca, el camino del navío en alta mar, y el camino del hombre con la doncella. (30:19)",
+        "Así es el camino de la mujer adúltera: come, se limpia la boca y dice: \"No he hecho nada malo\". (30:20)",
+        "Bajo tres cosas tiembla la tierra, y la cuarta no puede soportar: (30:21)",
+        "el siervo cuando llega a ser rey, y el necio cuando se sacia de comida; (30:22)",
+        "la mujer aborrecida cuando se casa, y la sierva cuando suplanta a su señora. (30:23)",
+        "Cuatro cosas hay en la tierra que son pequeñas, pero extraordinariamente sabias: (30:24)",
+        "las hormigas, pueblo sin fuerza, pero preparan su alimento en el verano; (30:25)",
+        "los tejones, pueblo sin poder, pero hacen su morada en las peñas; (30:26)",
+        "las langostas no tienen rey, pero todas avanzan en formación; (30:27)",
+        "la lagartija la puedes agarrar con las manos, pero está en los palacios de los reyes. (30:28)",
+        "Tres cosas hay de paso majestuoso; cuatro de andar imponente: (30:29)",
+        "el león, el más poderoso entre las bestias, que no retrocede ante nada; (30:30)",
+        "el gallo que se pavonea, el macho cabrío, y el rey a quien nadie resiste. (30:31)",
+        "Si has sido necio en enaltecerte, o si has tramado el mal, pon la mano sobre tu boca. (30:32)",
+        "Porque batiendo la leche se saca mantequilla, apretando la nariz se saca sangre, y forzando la ira se produce contienda. (30:33)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 4:2 — No añadáis a las palabras que os ordeno (30:6).",
+        "Éxodo 20:12 — Honra a tu padre y a tu madre (30:11–17).",
+        "Job 38:4–11 — Preguntas sobre la creación y sus límites (30:4).",
+        "Salmo 104:24 — Criaturas en sabiduría ordenada (30:24–28)."
+      ],
+      "translationNotes": [
+        {
+          "term": "Profecía / Masá",
+          "original": "Hebrew: מַשָּׂא (massāʾ, ‘utterance/oracle’) — Greek (LXX): λῆμμα — Aramaic: מסא",
+          "note": "Término del encabezado en (30:1) que puede significar \"profecía o declaración\"; también aparece como nombre de lugar en algunos contextos."
+        },
+        {
+          "term": "Damán",
+          "original": "Hebrew: שָׁפָן (shafan) — Greek: χοιρογρύλλιος (hyrax/coney) — Aramaic: שׁפנא",
+          "note": "Pequeño mamífero que habita en los peñascos (30:26)."
+        },
+        {
+          "term": "Lagartija / araña",
+          "original": "Hebrew: שְׂמָמִית (semamīt) — Greek (LXX): καλαβώτης (lizard) — Aramaic: סממיתא",
+          "note": "Término con referente debatido; comúnmente traducido como \"lagartija\" (30:28)."
+        },
+        {
+          "term": "Gallo (texto variable)",
+          "original": "Hebrew: מָתְנַיִם זַרְזִיר (zarzir motnayim) — Greek (LXX): ἀλέκτωρ — Aramaic: תרנגולא",
+          "note": "Expresión poco frecuente; generalmente interpretada como \"gallo\", con propuestas alternativas (30:31)."
+        }
+      ],
+      "keyTakeaway": "Los dichos de Agur afirman la veracidad de las palabras de Dios, piden habla veraz y el sustento diario, enumeran tipos observados en conjuntos numéricos y usan imágenes para advertir contra la arrogancia, la calumnia y la provocación de contiendas."
+    },
+    {
+      "id": "proverbs-31",
+      "title": "👑 Proverbios 31",
+      "refs": [
+        "Proverbs 31:1-31"
+      ],
+      "summaryBullets": [
+        "Palabras del rey Lemuel. Oráculo que le enseñó su madre: (31:1)",
+        "\"¿Qué, hijo mío? ¿Qué, hijo de mis entrañas? ¿Qué, hijo de mis votos?\" (31:2)",
+        "\"No des tu fuerza a las mujeres, ni tus caminos a las que destruyen a los reyes.\" (31:3)",
+        "\"No es de reyes, oh Lemuel, no es de reyes beber vino, ni de gobernantes tomar licor,\" (31:4)",
+        "\"no sea que beban y olviden lo decretado, y perviertan los derechos de todos los afligidos.\" (31:5)",
+        "\"Dad licor al que perece, y vino a los de corazón amargado;\" (31:6)",
+        "\"que beban y olviden su pobreza y no se acuerden más de su miseria.\" (31:7)",
+        "\"Abre tu boca por el mudo, por los derechos de todos los desamparados.\" (31:8)",
+        "\"Abre tu boca, juzga con justicia, y defiende los derechos del pobre y del menesteroso.\" (31:9)",
+        "Mujer virtuosa, ¿quién la hallará? Su valor sobrepasa largamente al de las piedras preciosas. (31:10)",
+        "El corazón de su marido confía en ella, y no le faltarán ganancias. (31:11)",
+        "Le hace bien y no mal todos los días de su vida. (31:12)",
+        "Busca lana y lino, y trabaja con voluntad con sus manos. (31:13)",
+        "Es como navío de mercader; trae su pan de lejos. (31:14)",
+        "Se levanta siendo aún de noche, y da alimento a su familia y ración a sus criadas. (31:15)",
+        "Considera un campo y lo compra; con el fruto de sus manos planta una viña. (31:16)",
+        "Se ciñe de fuerza y fortalece sus brazos. (31:17)",
+        "Percibe que su mercancía es buena; su lámpara no se apaga de noche. (31:18)",
+        "Aplica sus manos a la rueca, y sus dedos manejan el huso. (31:19)",
+        "Extiende su mano al pobre y alarga sus manos al necesitado. (31:20)",
+        "No tiene temor de la nieve por su familia, porque toda su casa está vestida de escarlata. (31:21)",
+        "Se hace tapices para sí; su vestido es de lino fino y púrpura. (31:22)",
+        "Su marido es conocido en las puertas, cuando se sienta entre los ancianos de la tierra. (31:23)",
+        "Hace telas de lino y las vende; entrega cinturones al mercader. (31:24)",
+        "Fuerza y dignidad son su vestidura, y se ríe del tiempo por venir. (31:25)",
+        "Abre su boca con sabiduría, y la ley de clemencia está en su lengua. (31:26)",
+        "Vigila la marcha de su hogar y no come el pan de la ociosidad. (31:27)",
+        "Sus hijos se levantan y la llaman bienaventurada; también su marido, y la alaba: (31:28)",
+        "\"Muchas mujeres hicieron el bien, pero tú las sobrepasas a todas\". (31:29)",
+        "Engañosa es la gracia y vana la hermosura, pero la mujer que teme al SEÑOR, esa será alabada. (31:30)",
+        "Dadle del fruto de sus manos, y que sus obras la alaben en las puertas. (31:31)"
+      ],
+      "crossRefs": [
+        "Deuteronomio 17:14–20 — Instrucciones para el rey de Israel.",
+        "Proverbios 20:1 — El vino es escarnecedor; la bebida fuerte alborotadora.",
+        "Salmo 82:3–4 — Haced justicia al débil y al huérfano; rescatad al necesitado.",
+        "Isaías 1:17 — Buscad la justicia; corregid la opresión; haced justicia al huérfano; defended la causa de la viuda."
+      ],
+      "translationNotes": [
+        {
+          "term": "Lemuel",
+          "original": "Hebrew: לְמוּאֵל (Lemūʾel) — Greek (LXX): Λεμουήλ — Aramaic: למואל",
+          "note": "Nombre propio; frecuentemente explicado como \"perteneciente a Dios\", identidad desconocida por lo demás."
+        },
+        {
+          "term": "Bebida fuerte",
+          "original": "Hebrew: שֵׁכָר (shekhar) — Greek (LXX): σίκερα — Aramaic: שכרא (shekhra)",
+          "note": "Bebida fermentada distinta del vino (31:4–6)."
+        },
+        {
+          "term": "Ley / derechos",
+          "original": "Hebrew: חֹק (ḥoq, ‘decree’) / דִּין (din, ‘judgment/right’) — Greek: πρόσταγμα / κρίμα",
+          "note": "Términos legales vinculados al gobierno justo (31:5–9)."
+        },
+        {
+          "term": "Abre tu boca",
+          "original": "Hebrew: פְּתַח־פִּיךָ (petaḥ-pikha) — Greek: ἄνοιγε τὸ στόμα σου — Aramaic: פתח פומך",
+          "note": "Fórmula de defensa pública en un tribunal o asamblea (31:8–9)."
+        }
+      ],
+      "keyTakeaway": "La profecía a Lemuel prohíbe la embriaguez de los gobernantes, advierte contra los caminos destructivos y ordena hablar y juzgar con justicia en favor de los pobres y los que no tienen voz."
+    }
+  ]
+}

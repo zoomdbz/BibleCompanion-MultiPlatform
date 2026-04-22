@@ -1,0 +1,626 @@
+{
+  "id": "ezra",
+  "title": "Esdras",
+  "stories": [
+    {
+      "id": "ezra-1",
+      "title": "📜 Esdras 1",
+      "refs": [
+        "Ezra 1:1-11"
+      ],
+      "summaryBullets": [
+        "En el primer año de Ciro rey de Persia, para que se cumpliera la palabra del SEÑOR dicha por Jeremías, el SEÑOR despertó el espíritu de Ciro rey de Persia, quien hizo proclamar por todo su reino (1:1).",
+        "Ciro declara: El SEÑOR, el Dios de los cielos, me ha dado todos los reinos de la tierra, y me ha encargado que le edifique casa en Jerusalén de Judá (1:2).",
+        "Proclama que todo aquel del pueblo de Dios que quiera puede subir a Jerusalén a reedificar la casa del SEÑOR, el Dios de Israel, y que su Dios sea con él (1:3).",
+        "Ciro ordena que en todo lugar donde habite un sobreviviente, los hombres de ese lugar le asistan con plata, oro, bienes, bestias y ofrendas voluntarias para la casa de Dios en Jerusalén (1:4).",
+        "Los jefes de las casas paternas de Judá y Benjamín, los sacerdotes y los levitas — todos aquellos cuyo espíritu Dios despertó — se levantan para ir a reedificar la casa del SEÑOR en Jerusalén (1:5).",
+        "Todos los que están a su alrededor les ayudan con utensilios de plata, oro, bienes, bestias y cosas preciosas, además de todo lo ofrecido voluntariamente (1:6).",
+        "El rey Ciro también saca los utensilios de la casa del SEÑOR que Nabucodonosor había llevado de Jerusalén y puesto en la casa de sus dioses (1:7).",
+        "Ciro rey de Persia los saca a cargo de Mitrídate el tesorero, quien los entrega a Sesbasar, príncipe de Judá (1:8).",
+        "Este es el número de ellos: 30 fuentes de oro, 1.000 fuentes de plata, 29 cuchillos (1:9).",
+        "30 tazones de oro, 410 tazones de plata y 1.000 otros utensilios (1:10).",
+        "Todos los utensilios de oro y de plata eran 5.400. Sesbasar los lleva todos cuando los desterrados son llevados de Babilonia a Jerusalén (1:11)."
+      ],
+      "crossRefs": [
+        "Jeremías 25:11–12 — Setenta años de exilio profetizados.",
+        "Jeremías 29:10 — Promesa de regreso después de setenta años.",
+        "Isaías 44:28; Isaías 45:1 — Profecía que nombra a Ciro como pastor/ungido de Dios para reconstruir Jerusalén.",
+        "2 Crónicas 36:22–23 — Relato paralelo del decreto de Ciro.",
+        "Nehemías 7 — Genealogía paralela de los repatriados.",
+        "1 Esdras 2 (deuterocanónico) — Relato paralelo del regreso bajo Ciro."
+      ],
+      "translationNotes": [
+        {
+          "term": "Ciro",
+          "original": "Hebrew: כּוֹרֶשׁ (Koresh) — Greek (LXX): Κῦρος (Kūros) — Aramaic: כורש (Koresh)",
+          "note": "Rey persa que conquistó Babilonia (539 a.C.). Nombrado en Isaías más de un siglo antes."
+        },
+        {
+          "term": "Sesbasar",
+          "original": "Hebrew/Aramaic: שֵׁשְׁבַּצַּר (Sheshbatstsar)",
+          "note": "Llamado «príncipe de Judá»; puede ser el mismo que Zorobabel o un gobernador anterior."
+        },
+        {
+          "term": "Urim y Tumim",
+          "original": "Hebrew: אוּרִים וְתוּמִּים (Urim v’Tummim) — Greek: οὐρίμ καὶ θουμμίμ — Aramaic: אורין ותומין",
+          "note": "Suertes sagradas en el pectoral del sumo sacerdote usadas para discernir la voluntad de Dios."
+        }
+      ],
+      "keyTakeaway": "Ciro decreta el regreso y la restauración del templo, y un registro detallado documenta a quienes regresaron y cómo fueron organizados."
+    },
+    {
+      "id": "ezra-2",
+      "title": "📜 Esdras 2",
+      "refs": [
+        "Ezra 2:1-70"
+      ],
+      "summaryBullets": [
+        "Estos son los hijos de la provincia que subieron del cautiverio de los desterrados que Nabucodonosor rey de Babilonia había llevado cautivos a Babilonia. Volvieron a Jerusalén y a Judá, cada uno a su ciudad (2:1).",
+        "Vinieron con Zorobabel, Jesúa, Nehemías, Seraías, Reelaías, Mardoqueo, Bilsán, Mispar, Bigvai, Rehum y Baaná (2:2).",
+        "El número de los hombres del pueblo de Israel: los hijos de Paros, 2.172 (2:3).",
+        "Los hijos de Sefatías, 372 (2:4).",
+        "Los hijos de Ara, 775 (2:5).",
+        "Los hijos de Pahat-moab, es decir, los hijos de Jesúa y Joab, 2.812 (2:6).",
+        "Los hijos de Elam, 1.254 (2:7).",
+        "Los hijos de Zatu, 945 (2:8).",
+        "Los hijos de Zacai, 760 (2:9).",
+        "Los hijos de Bani, 642 (2:10).",
+        "Los hijos de Bebai, 623 (2:11).",
+        "Los hijos de Azgad, 1.222 (2:12).",
+        "Los hijos de Adonicam, 666 (2:13).",
+        "Los hijos de Bigvai, 2.056 (2:14).",
+        "Los hijos de Adín, 454 (2:15).",
+        "Los hijos de Ater, es decir, de Ezequías, 98 (2:16).",
+        "Los hijos de Bezai, 323 (2:17).",
+        "Los hijos de Jora, 112 (2:18).",
+        "Los hijos de Hasum, 223 (2:19).",
+        "Los hijos de Gibar, 95 (2:20).",
+        "Los hombres de Belén, 123 (2:21).",
+        "Los hombres de Netofa, 56 (2:22).",
+        "Los hombres de Anatot, 128 (2:23).",
+        "Los hijos de Azmavet, 42 (2:24).",
+        "Los hijos de Quiriat-arim, Quefira y Beerot, 743 (2:25).",
+        "Los hijos de Ramá y Geba, 621 (2:26).",
+        "Los hombres de Micmas, 122 (2:27).",
+        "Los hombres de Betel y Hai, 223 (2:28).",
+        "Los hijos de Nebo, 52 (2:29).",
+        "Los hijos de Magbis, 156 (2:30).",
+        "Los hijos del otro Elam, 1.254 (2:31).",
+        "Los hijos de Harim, 320 (2:32).",
+        "Los hijos de Lod, Hadid y Ono, 725 (2:33).",
+        "Los hijos de Jericó, 345 (2:34).",
+        "Los hijos de Sená, 3.630 (2:35).",
+        "Los sacerdotes: los hijos de Jedaías, de la casa de Jesúa, 973 (2:36).",
+        "Los hijos de Imer, 1.052 (2:37).",
+        "Los hijos de Pasur, 1.247 (2:38).",
+        "Los hijos de Harim, 1.017 (2:39).",
+        "Los levitas: los hijos de Jesúa y Cadmiel, de los hijos de Hodavías, 74 (2:40).",
+        "Los cantores: los hijos de Asaf, 128 (2:41).",
+        "Los hijos de los porteros: los hijos de Salum, Ater, Talmón, Acub, Hatita y Sobai, en total 139 (2:42).",
+        "Los sirvientes del templo: los hijos de Ziha, Hasufa, Tabaot (2:43).",
+        "Los hijos de Queros, Siaha, Padón (2:44).",
+        "Los hijos de Lebana, Hagaba, Acub (2:45).",
+        "Los hijos de Hagab, Salmai, Hanán (2:46).",
+        "Los hijos de Guidel, Gahar, Reaías (2:47).",
+        "Los hijos de Rezín, Necoda, Gazam (2:48).",
+        "Los hijos de Uza, Paseah, Besai (2:49).",
+        "Los hijos de Asná, Meunim, Nefisim (2:50).",
+        "Los hijos de Bacbuc, Hacufa, Harhur (2:51).",
+        "Los hijos de Bazlut, Mehída, Harsa (2:52).",
+        "Los hijos de Barcos, Sísara, Tema (2:53).",
+        "Los hijos de Nezía y Hatifa (2:54).",
+        "Los hijos de los siervos de Salomón: los hijos de Sotai, Hasoferet, Peruda (2:55).",
+        "Los hijos de Jaalá, Darcón, Guidel (2:56).",
+        "Los hijos de Sefatías, Hatil, Poqueret-hazebaim y Ami (2:57).",
+        "Todos los sirvientes del templo y los hijos de los siervos de Salomón eran 392 (2:58).",
+        "Los siguientes subieron de Tel-mela, Tel-harsa, Querub, Addán e Imer, aunque no pudieron demostrar sus casas paternas ni su linaje, si pertenecían a Israel (2:59).",
+        "Los hijos de Delaías, Tobías y Necoda, 652 (2:60).",
+        "De los hijos de los sacerdotes: los hijos de Habaías, Hacoz y Barzilai, que tomó mujer de las hijas de Barzilai galaadita y fue llamado por el nombre de ellas (2:61).",
+        "Estos buscaron su registro entre los inscritos en las genealogías pero no fueron hallados, y fueron excluidos del sacerdocio como impuros (2:62).",
+        "El gobernador les dijo que no comieran de las cosas santísimas hasta que se presentara un sacerdote con Urim y Tumim (2:63).",
+        "Toda la asamblea reunida era de 42.360 (2:64).",
+        "Además de sus siervos y siervas, que eran 7.337, tenían también 200 cantores y cantoras (2:65).",
+        "Sus caballos eran 736, sus mulos 245 (2:66).",
+        "Sus camellos eran 435, y sus asnos 6.720 (2:67).",
+        "Algunos de los jefes de las casas paternas, al llegar a la casa del SEÑOR en Jerusalén, hicieron ofrendas voluntarias para la casa de Dios a fin de reedificarla en su sitio (2:68).",
+        "Según sus posibilidades dieron al tesoro de la obra 61.000 dáricos de oro, 5.000 minas de plata y 100 túnicas sacerdotales (2:69).",
+        "Los sacerdotes, los levitas y parte del pueblo, los cantores, los porteros y los sirvientes del templo se establecieron en sus ciudades, y todo el resto de Israel en sus ciudades (2:70)."
+      ],
+      "crossRefs": [
+        "Jeremías 25:11–12 — Setenta años de exilio profetizados.",
+        "Jeremías 29:10 — Promesa de regreso después de setenta años.",
+        "Isaías 44:28; Isaías 45:1 — Profecía que nombra a Ciro como pastor/ungido de Dios para reconstruir Jerusalén.",
+        "2 Crónicas 36:22–23 — Relato paralelo del decreto de Ciro.",
+        "Nehemías 7 — Genealogía paralela de los repatriados.",
+        "1 Esdras 2 (deuterocanónico) — Relato paralelo del regreso bajo Ciro."
+      ],
+      "translationNotes": [
+        {
+          "term": "Ciro",
+          "original": "Hebrew: כּוֹרֶשׁ (Koresh) — Greek (LXX): Κῦρος (Kūros) — Aramaic: כורש (Koresh)",
+          "note": "Rey persa que conquistó Babilonia (539 a.C.). Nombrado en Isaías más de un siglo antes."
+        },
+        {
+          "term": "Sesbasar",
+          "original": "Hebrew/Aramaic: שֵׁשְׁבַּצַּר (Sheshbatstsar)",
+          "note": "Llamado «príncipe de Judá»; puede ser el mismo que Zorobabel o un gobernador anterior."
+        },
+        {
+          "term": "Urim y Tumim",
+          "original": "Hebrew: אוּרִים וְתוּמִּים (Urim v’Tummim) — Greek: οὐρίμ καὶ θουμμίμ — Aramaic: אורין ותומין",
+          "note": "Suertes sagradas en el pectoral del sumo sacerdote usadas para discernir la voluntad de Dios."
+        }
+      ],
+      "keyTakeaway": "Ciro decreta el regreso y la restauración del templo, y un registro detallado documenta a quienes regresaron y cómo fueron organizados."
+    },
+    {
+      "id": "ezra-3",
+      "title": "🏛️ Esdras 3",
+      "refs": [
+        "Ezra 3:1-13"
+      ],
+      "summaryBullets": [
+        "Cuando llegó el séptimo mes y los hijos de Israel estaban en las ciudades, el pueblo se reunió como un solo hombre en Jerusalén (3:1).",
+        "Entonces Jesúa hijo de Josadac, con sus hermanos los sacerdotes, y Zorobabel hijo de Salatiel con sus parientes, se levantaron y edificaron el altar del Dios de Israel para ofrecer holocaustos sobre él, como está escrito en la Ley de Moisés, varón de Dios (3:2).",
+        "Colocaron el altar en su lugar, pues tenían temor de los pueblos de las tierras, y ofrecieron sobre él holocaustos al SEÑOR, holocaustos por la mañana y por la tarde (3:3).",
+        "Celebraron la Fiesta de los Tabernáculos como está escrito, y ofrecieron los holocaustos diarios en el número prescrito conforme a la ordenanza, según lo requerido para cada día (3:4).",
+        "Después de eso ofrecieron el holocausto continuo, las ofrendas de luna nueva y las de todas las fiestas solemnes del SEÑOR, y las de todo aquel que presentaba ofrenda voluntaria al SEÑOR (3:5).",
+        "Desde el primer día del séptimo mes comenzaron a ofrecer holocaustos al SEÑOR, pero aún no se habían echado los cimientos del templo del SEÑOR (3:6).",
+        "Dieron dinero a los albañiles y carpinteros, y alimentos, bebida y aceite a los sidonios y tirios para que trajeran madera de cedro del Líbano por mar hasta Jope, conforme a la autorización que tenían de Ciro rey de Persia (3:7).",
+        "En el segundo año después de su llegada a la casa de Dios en Jerusalén, en el segundo mes, Zorobabel hijo de Salatiel y Jesúa hijo de Josadac comenzaron la obra, junto con el resto de sus hermanos, los sacerdotes y levitas y todos los que habían venido del cautiverio a Jerusalén. Designaron a los levitas de veinte años arriba para supervisar la obra de la casa del SEÑOR (3:8).",
+        "Jesúa con sus hijos y hermanos, y Cadmiel con sus hijos, los hijos de Judá, se encargaron juntos de dirigir a los obreros en la casa de Dios, junto con los hijos de Henadad y sus hijos y hermanos los levitas (3:9).",
+        "Cuando los constructores echaron los cimientos del templo del SEÑOR, los sacerdotes se presentaron con sus vestiduras y trompetas, y los levitas hijos de Asaf con címbalos, para alabar al SEÑOR según las instrucciones de David rey de Israel (3:10).",
+        "Cantaban alternadamente, alabando y dando gracias al SEÑOR: \"Porque él es bueno, porque su misericordia es para siempre sobre Israel.\" Todo el pueblo gritó con gran júbilo al alabar al SEÑOR, porque se habían echado los cimientos de la casa del SEÑOR (3:11).",
+        "Pero muchos de los sacerdotes y levitas y jefes de las casas paternas, ancianos que habían visto la primera casa, lloraban en alta voz al ver los cimientos de esta casa, aunque muchos gritaban de alegría (3:12).",
+        "De modo que el pueblo no podía distinguir el sonido del grito de alegría del sonido del llanto del pueblo, porque el pueblo gritaba con gran vocerío, y el sonido se oía desde lejos (3:13)."
+      ],
+      "crossRefs": [
+        "Hageo 1–2 — Aliento profético para reconstruir el templo.",
+        "Zacarías 3–4 — Visiones de Josué el sacerdote y Zorobabel.",
+        "2 Reyes 25:8–17 — Destrucción del templo de Salomón.",
+        "Daniel 6:28 — El reinado de Darío mencionado.",
+        "1 Esdras 5–7 (deuterocanónico) — Narrativa paralela de la oposición y la reconstrucción."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gobernador de Judá, descendiente de David. Su nombre puede significar «semilla de Babilonia»."
+        },
+        {
+          "term": "Jesúa",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Sumo sacerdote de los repatriados. La misma forma del nombre que «Jesús» en griego."
+        },
+        {
+          "term": "Pascua",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fiesta que conmemora la liberación de Egipto, celebrada de nuevo después del exilio."
+        }
+      ],
+      "keyTakeaway": "El altar es reconstruido, el templo es terminado a pesar de la oposición, y el pueblo celebra la Pascua y la Fiesta de los Panes sin Levadura."
+    },
+    {
+      "id": "ezra-4",
+      "title": "🏛️ Esdras 4",
+      "refs": [
+        "Ezra 4:1-24"
+      ],
+      "summaryBullets": [
+        "Cuando los adversarios de Judá y Benjamín oyeron que los que habían regresado del cautiverio estaban edificando un templo al SEÑOR, Dios de Israel (4:1),",
+        "se acercaron a Zorobabel y a los jefes de las casas paternas y les dijeron: \"Edifiquemos con ustedes, porque nosotros buscamos a su Dios como ustedes, y le hemos estado ofreciendo sacrificios desde los días de Esar-hadón rey de Asiria, que nos trajo aquí\" (4:2).",
+        "Pero Zorobabel, Jesúa y los demás jefes de las casas paternas de Israel les dijeron: \"Ustedes no tienen nada que ver con nosotros en la edificación de una casa a nuestro Dios; nosotros solos edificaremos al SEÑOR, Dios de Israel, como el rey Ciro, rey de Persia, nos ha ordenado\" (4:3).",
+        "Entonces la gente de la tierra desalentó al pueblo de Judá e infundió temor para que no edificaran (4:4).",
+        "Sobornaron consejeros contra ellos para frustrar sus planes, durante todos los días de Ciro rey de Persia, hasta el reinado de Darío rey de Persia (4:5).",
+        "En el reinado de Asuero, al principio de su reinado, escribieron una acusación contra los habitantes de Judá y Jerusalén (4:6).",
+        "En los días de Artajerjes, Bislam, Mitridates, Tabeel y los demás compañeros de ellos escribieron a Artajerjes rey de Persia. La carta fue escrita en arameo y traducida (4:7).",
+        "Rehum el comandante y Simsai el escriba escribieron una carta contra Jerusalén al rey Artajerjes de la siguiente manera (4:8).",
+        "Entonces escribieron Rehum el comandante, Simsai el escriba y los demás compañeros de ellos: los jueces, los gobernadores, los funcionarios, los persas, la gente de Erec, los babilonios, la gente de Susa, es decir, los elamitas (4:9),",
+        "y las demás naciones que el grande y noble Asnapar deportó y estableció en las ciudades de Samaria y en el resto de la provincia de Más Allá del Río. Y ahora (4:10),",
+        "esta es una copia de la carta que enviaron: \"Al rey Artajerjes: Tus siervos, los hombres de la provincia de Más Allá del Río, te saludan. Y ahora (4:11),",
+        "sea notorio al rey que los judíos que subieron de ti a nosotros han ido a Jerusalén. Están reconstruyendo esa ciudad rebelde y malvada. Están terminando los muros y reparando los cimientos (4:12).",
+        "Ahora sea notorio al rey que si esta ciudad es reconstruida y los muros terminados, no pagarán tributo, impuesto ni peaje, y las rentas reales se verán perjudicadas (4:13).",
+        "Ahora, puesto que comemos la sal del palacio y no nos es correcto ver la deshonra del rey, por eso enviamos esta información al rey (4:14),",
+        "para que se busque en el libro de las memorias de tus padres. Encontrarás en el libro de las memorias y sabrás que esta ciudad es una ciudad rebelde, perjudicial para reyes y provincias, y que en ella se promovió sedición desde la antigüedad. Por eso esta ciudad fue destruida (4:15).",
+        "Hacemos saber al rey que si esta ciudad es reconstruida y sus muros terminados, entonces no tendrás posesión alguna en la provincia de Más Allá del Río\" (4:16).",
+        "El rey envió una respuesta: \"A Rehum el comandante, a Simsai el escriba y a los demás compañeros de ellos que habitan en Samaria y en el resto de la provincia de Más Allá del Río: Paz. Y ahora (4:17),",
+        "la carta que nos enviaron ha sido leída claramente delante de mí (4:18).",
+        "Y di orden, e investigaron, y se halló que esta ciudad desde tiempos antiguos se ha levantado contra los reyes, y que en ella se han promovido rebelión y sedición (4:19).",
+        "Y hubo reyes poderosos sobre Jerusalén que gobernaron toda la provincia de Más Allá del Río, a quienes se les pagaba tributo, impuesto y peaje (4:20).",
+        "Por tanto, ordenen que esos hombres cesen, y que esa ciudad no sea reconstruida, hasta que yo dé una orden (4:21).",
+        "Tengan cuidado de no ser negligentes en este asunto. ¿Por qué habría de crecer el daño en perjuicio de los reyes?\" (4:22).",
+        "Entonces, cuando la copia de la carta del rey Artajerjes fue leída delante de Rehum, Simsai el escriba y sus compañeros, fueron apresuradamente a los judíos en Jerusalén y los hicieron cesar por la fuerza y el poder (4:23).",
+        "Así cesó la obra de la casa de Dios que está en Jerusalén, y quedó suspendida hasta el segundo año del reinado de Darío rey de Persia (4:24)."
+      ],
+      "crossRefs": [
+        "Hageo 1–2 — Aliento profético para reconstruir el templo.",
+        "Zacarías 3–4 — Visiones de Josué el sacerdote y Zorobabel.",
+        "2 Reyes 25:8–17 — Destrucción del templo de Salomón.",
+        "Daniel 6:28 — El reinado de Darío mencionado.",
+        "1 Esdras 5–7 (deuterocanónico) — Narrativa paralela de la oposición y la reconstrucción."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gobernador de Judá, descendiente de David. Su nombre puede significar «semilla de Babilonia»."
+        },
+        {
+          "term": "Jesúa",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Sumo sacerdote de los repatriados. La misma forma del nombre que «Jesús» en griego."
+        },
+        {
+          "term": "Pascua",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fiesta que conmemora la liberación de Egipto, celebrada de nuevo después del exilio."
+        }
+      ],
+      "keyTakeaway": "El altar es reconstruido, el templo es terminado a pesar de la oposición, y el pueblo celebra la Pascua y la Fiesta de los Panes sin Levadura."
+    },
+    {
+      "id": "ezra-5",
+      "title": "🏛️ Esdras 5",
+      "refs": [
+        "Ezra 5:1-17"
+      ],
+      "summaryBullets": [
+        "Los profetas Hageo y Zacarías hijo de Iddo profetizaron a los judíos que estaban en Judá y Jerusalén, en el nombre del Dios de Israel que estaba sobre ellos (5:1).",
+        "Entonces Zorobabel hijo de Salatiel y Jesúa hijo de Josadac se levantaron y comenzaron a reconstruir la casa de Dios que está en Jerusalén, y los profetas de Dios estaban con ellos, apoyándolos (5:2).",
+        "En ese mismo tiempo Tatnai, gobernador de la provincia de Más Allá del Río, y Setar-boznai y sus compañeros vinieron a ellos y les dijeron: \"¿Quién les dio autorización para edificar esta casa y terminar esta estructura?\" (5:3).",
+        "También les preguntaron: \"¿Cuáles son los nombres de los hombres que construyen este edificio?\" (5:4).",
+        "Pero el ojo de su Dios estaba sobre los ancianos de los judíos, y no los hicieron cesar hasta que el informe llegara a Darío y se devolviera una respuesta por carta al respecto (5:5).",
+        "Esta es una copia de la carta que Tatnai, gobernador de la provincia de Más Allá del Río, y Setar-boznai y sus compañeros, los gobernadores que estaban en la provincia de Más Allá del Río, enviaron al rey Darío (5:6).",
+        "Le enviaron un informe en el cual estaba escrito lo siguiente: \"Al rey Darío, toda paz (5:7).",
+        "Sea notorio al rey que fuimos a la provincia de Judá, a la casa del gran Dios. Está siendo edificada con piedras grandes, y se colocan vigas en las paredes. Esta obra se realiza con diligencia y prospera en sus manos (5:8).",
+        "Entonces preguntamos a aquellos ancianos y les dijimos: '¿Quién les dio autorización para edificar esta casa y terminar esta estructura?' (5:9).",
+        "También les preguntamos sus nombres, para tu información, a fin de escribir los nombres de sus líderes (5:10).",
+        "Y esta fue su respuesta: 'Somos siervos del Dios del cielo y de la tierra, y estamos reconstruyendo la casa que fue edificada hace muchos años, la cual un gran rey de Israel edificó y terminó (5:11).",
+        "Pero como nuestros padres provocaron la ira del Dios del cielo, él los entregó en manos de Nabucodonosor rey de Babilonia, el caldeo, quien destruyó esta casa y llevó cautivo al pueblo a Babilonia (5:12).",
+        "Sin embargo, en el primer año de Ciro rey de Babilonia, el rey Ciro emitió un decreto para que esta casa de Dios fuera reconstruida (5:13).",
+        "Y los utensilios de oro y plata de la casa de Dios, que Nabucodonosor había sacado del templo que estaba en Jerusalén y los había llevado al templo de Babilonia, estos los sacó el rey Ciro del templo de Babilonia y fueron entregados a uno llamado Sesbasar, a quien había nombrado gobernador (5:14).",
+        "Y le dijo: \"Toma estos utensilios, ve y ponlos en el templo que está en Jerusalén, y que la casa de Dios sea reconstruida en su lugar\" (5:15).",
+        "Entonces este Sesbasar vino y echó los cimientos de la casa de Dios que está en Jerusalén, y desde entonces hasta ahora se ha estado edificando, y aún no está terminada' (5:16).",
+        "Por tanto, si al rey le parece bien, que se busque en los archivos reales allí en Babilonia, para ver si el rey Ciro emitió un decreto para la reconstrucción de esta casa de Dios en Jerusalén. Y que el rey nos envíe su decisión en este asunto\" (5:17)."
+      ],
+      "crossRefs": [
+        "Hageo 1–2 — Aliento profético para reconstruir el templo.",
+        "Zacarías 3–4 — Visiones de Josué el sacerdote y Zorobabel.",
+        "2 Reyes 25:8–17 — Destrucción del templo de Salomón.",
+        "Daniel 6:28 — El reinado de Darío mencionado.",
+        "1 Esdras 5–7 (deuterocanónico) — Narrativa paralela de la oposición y la reconstrucción."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gobernador de Judá, descendiente de David. Su nombre puede significar «semilla de Babilonia»."
+        },
+        {
+          "term": "Jesúa",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Sumo sacerdote de los repatriados. La misma forma del nombre que «Jesús» en griego."
+        },
+        {
+          "term": "Pascua",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fiesta que conmemora la liberación de Egipto, celebrada de nuevo después del exilio."
+        }
+      ],
+      "keyTakeaway": "El altar es reconstruido, el templo es terminado a pesar de la oposición, y el pueblo celebra la Pascua y la Fiesta de los Panes sin Levadura."
+    },
+    {
+      "id": "ezra-6",
+      "title": "🏛️ Esdras 6",
+      "refs": [
+        "Ezra 6:1-22"
+      ],
+      "summaryBullets": [
+        "Entonces el rey Darío dio un decreto, y se buscó en Babilonia, en la casa de los archivos donde se guardaban los documentos (6:1).",
+        "Y en Ecbatana, la ciudadela que está en la provincia de Media, se halló un rollo en el que estaba escrito: \"Un registro (6:2).",
+        "En el primer año del rey Ciro, el rey Ciro emitió un decreto: Respecto a la casa de Dios en Jerusalén, que la casa sea reconstruida, el lugar donde se ofrecían sacrificios, y que se conserven sus cimientos. Su altura será de sesenta codos y su anchura de sesenta codos (6:3),",
+        "con tres hileras de piedras grandes y una hilera de madera. Que el costo sea pagado del tesoro real (6:4).",
+        "Y también que los utensilios de oro y plata de la casa de Dios, que Nabucodonosor sacó del templo que está en Jerusalén y llevó a Babilonia, sean devueltos y llevados de vuelta al templo que está en Jerusalén, cada uno a su lugar. Los pondrás en la casa de Dios\" (6:5).",
+        "\"Ahora pues, Tatnai, gobernador de la provincia de Más Allá del Río, Setar-boznai, y sus compañeros los gobernadores que están en la provincia de Más Allá del Río, manténganse lejos (6:6).",
+        "Dejen la obra de esta casa de Dios en paz. Que el gobernador de los judíos y los ancianos de los judíos reconstruyan esta casa de Dios en su lugar (6:7).",
+        "Además, yo emito un decreto respecto a lo que ustedes han de hacer con estos ancianos de los judíos para la reconstrucción de esta casa de Dios. El costo será pagado a estos hombres en su totalidad y sin demora, del tesoro real, del tributo de la provincia de Más Allá del Río (6:8).",
+        "Y todo lo que sea necesario — toros, carneros u ovejas para los holocaustos al Dios del cielo, trigo, sal, vino o aceite, según lo que requieran los sacerdotes en Jerusalén — que les sea dado día por día sin falta (6:9),",
+        "para que ofrezcan sacrificios agradables al Dios del cielo y oren por la vida del rey y de sus hijos (6:10).",
+        "También emito un decreto de que si alguno altera este edicto, se sacará una viga de su casa, y será empalado en ella, y su casa será convertida en un montón de escombros (6:11).",
+        "Que el Dios que ha hecho habitar allí su nombre derribe a todo rey o pueblo que extienda su mano para alterar esto, o para destruir esta casa de Dios que está en Jerusalén. Yo, Darío, emito un decreto; que se cumpla con toda diligencia\" (6:12).",
+        "Entonces, conforme a la orden enviada por el rey Darío, Tatnai, gobernador de la provincia de Más Allá del Río, Setar-boznai y sus compañeros cumplieron con toda diligencia lo que el rey Darío había ordenado (6:13).",
+        "Y los ancianos de los judíos edificaron y prosperaron por la profecía del profeta Hageo y de Zacarías hijo de Iddo. Terminaron la edificación por mandato del Dios de Israel y por mandato de Ciro, Darío y Artajerjes rey de Persia (6:14).",
+        "Esta casa fue terminada el tercer día del mes de Adar, en el sexto año del reinado del rey Darío (6:15).",
+        "Los hijos de Israel, los sacerdotes y los levitas, y el resto de los que habían regresado del cautiverio, celebraron con gozo la dedicación de esta casa de Dios (6:16).",
+        "Ofrecieron en la dedicación de esta casa de Dios 100 toros, 200 carneros, 400 corderos, y como ofrenda por el pecado de todo Israel, 12 machos cabríos, conforme al número de las tribus de Israel (6:17).",
+        "Establecieron a los sacerdotes en sus divisiones y a los levitas en sus turnos, para el servicio de Dios en Jerusalén, como está escrito en el Libro de Moisés (6:18).",
+        "El día catorce del primer mes, los que habían regresado del cautiverio celebraron la Pascua (6:19).",
+        "Porque los sacerdotes y los levitas se habían purificado juntos; todos estaban limpios. Así degollaron el cordero de la Pascua para todos los que habían regresado del cautiverio, para sus hermanos los sacerdotes y para sí mismos (6:20).",
+        "Lo comieron los hijos de Israel que habían regresado del cautiverio, y también todos los que se habían apartado de la inmundicia de los pueblos de la tierra para unirse a ellos y buscar al SEÑOR, Dios de Israel (6:21).",
+        "Celebraron la Fiesta de los Panes sin Levadura durante siete días con gozo, porque el SEÑOR los había llenado de alegría y había vuelto el corazón del rey de Asiria hacia ellos, para fortalecerlos en la obra de la casa de Dios, el Dios de Israel (6:22)."
+      ],
+      "crossRefs": [
+        "Hageo 1–2 — Aliento profético para reconstruir el templo.",
+        "Zacarías 3–4 — Visiones de Josué el sacerdote y Zorobabel.",
+        "2 Reyes 25:8–17 — Destrucción del templo de Salomón.",
+        "Daniel 6:28 — El reinado de Darío mencionado.",
+        "1 Esdras 5–7 (deuterocanónico) — Narrativa paralela de la oposición y la reconstrucción."
+      ],
+      "translationNotes": [
+        {
+          "term": "Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbavel) — Greek: Ζοροβαβέλ (Zorobabel) — Aramaic: זרובבל",
+          "note": "Gobernador de Judá, descendiente de David. Su nombre puede significar «semilla de Babilonia»."
+        },
+        {
+          "term": "Jesúa",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) — Greek: Ἰησοῦς (Iēsous) — Aramaic: ישוע (Yeshuʿa)",
+          "note": "Sumo sacerdote de los repatriados. La misma forma del nombre que «Jesús» en griego."
+        },
+        {
+          "term": "Pascua",
+          "original": "Hebrew: פֶּסַח (Pesach) — Greek: πάσχα (Pascha) — Aramaic: פסחא (Paskha)",
+          "note": "Fiesta que conmemora la liberación de Egipto, celebrada de nuevo después del exilio."
+        }
+      ],
+      "keyTakeaway": "El altar es reconstruido, el templo es terminado a pesar de la oposición, y el pueblo celebra la Pascua y la Fiesta de los Panes sin Levadura."
+    },
+    {
+      "id": "ezra-7",
+      "title": "📖 Esdras 7",
+      "refs": [
+        "Ezra 7:1-28"
+      ],
+      "summaryBullets": [
+        "Después de estas cosas, en el reinado de Artajerjes rey de Persia, Esdras hijo de Seraías, hijo de Azarías, hijo de Hilcías (7:1).",
+        "Hijo de Salum, hijo de Sadoc, hijo de Ahitob (7:2).",
+        "Hijo de Amarías, hijo de Azarías, hijo de Meraiot (7:3).",
+        "Hijo de Zeraías, hijo de Uzi, hijo de Buqui (7:4).",
+        "Hijo de Abisúa, hijo de Finees, hijo de Eleazar, hijo de Aarón el sumo sacerdote (7:5).",
+        "Este Esdras subió de Babilonia. Era escriba diligente en la Ley de Moisés que el SEÑOR Dios de Israel había dado, y el rey le concedió todo lo que pidió, porque la mano del SEÑOR su Dios estaba sobre él (7:6).",
+        "También subieron a Jerusalén, en el séptimo año del rey Artajerjes, algunos de los hijos de Israel, y de los sacerdotes, levitas, cantores, porteros y servidores del templo (7:7).",
+        "Llegó a Jerusalén en el quinto mes, que era el séptimo año del rey (7:8).",
+        "Porque el primer día del primer mes comenzó la subida desde Babilonia, y el primer día del quinto mes llegó a Jerusalén, pues la buena mano de su Dios estaba sobre él (7:9).",
+        "Porque Esdras había dispuesto su corazón para estudiar la Ley del SEÑOR, y para cumplirla, y para enseñar en Israel sus estatutos y ordenanzas (7:10).",
+        "Esta es la copia de la carta que el rey Artajerjes dio a Esdras, sacerdote y escriba, erudito en las palabras de los mandamientos del SEÑOR y de sus estatutos para Israel (7:11).",
+        "\"Artajerjes, rey de reyes, a Esdras, sacerdote y escriba de la Ley del Dios del cielo. Paz. Y ahora (7:12).",
+        "Yo decreto que cualquiera del pueblo de Israel o de sus sacerdotes o levitas en mi reino, que voluntariamente desee ir a Jerusalén, puede ir contigo (7:13).",
+        "Porque eres enviado de parte del rey y de sus siete consejeros para investigar acerca de Judá y Jerusalén conforme a la Ley de tu Dios, que está en tu mano (7:14).",
+        "Y para llevar la plata y el oro que el rey y sus consejeros han ofrecido voluntariamente al Dios de Israel, cuya morada está en Jerusalén (7:15).",
+        "Con toda la plata y el oro que halles en toda la provincia de Babilonia, junto con las ofrendas voluntarias del pueblo y de los sacerdotes, ofrecidas voluntariamente para la casa de su Dios que está en Jerusalén (7:16).",
+        "Con este dinero, pues, comprarás con toda diligencia becerros, carneros y corderos, con sus ofrendas de grano y sus libaciones, y los ofrecerás sobre el altar de la casa de vuestro Dios que está en Jerusalén (7:17).",
+        "Y lo que a ti y a tus hermanos les parezca bien hacer con el resto de la plata y el oro, hacedlo conforme a la voluntad de vuestro Dios (7:18).",
+        "Los utensilios que te son entregados para el servicio de la casa de tu Dios, entrégalos ante el Dios de Jerusalén (7:19).",
+        "Y cualquier otra cosa que sea necesaria para la casa de tu Dios, que te corresponda proveer, la proveerás del tesoro del rey (7:20).",
+        "Y yo, el rey Artajerjes, decreto a todos los tesoreros de Transeufratina: Todo lo que os pida Esdras, sacerdote y escriba de la Ley del Dios del cielo, sea cumplido con toda diligencia (7:21).",
+        "Hasta cien talentos de plata, cien coros de trigo, cien batos de vino, cien batos de aceite, y sal sin medida (7:22).",
+        "Todo lo que sea ordenado por el Dios del cielo, sea hecho con diligencia para la casa del Dios del cielo, no sea que venga su ira contra el reino del rey y de sus hijos (7:23).",
+        "También os hacemos saber que a ninguno de los sacerdotes, levitas, cantores, porteros, servidores del templo o siervos de esta casa de Dios les será lícito imponer tributo, contribución o peaje (7:24).",
+        "Y tú, Esdras, conforme a la sabiduría de tu Dios que posees, nombra magistrados y jueces que juzguen a todo el pueblo de Transeufratina, a todos los que conocen las leyes de tu Dios; y al que no las conozca, le enseñarás (7:25).",
+        "Y a cualquiera que no obedezca la ley de tu Dios y la ley del rey, que se le aplique juicio con prontitud, ya sea de muerte, destierro, confiscación de bienes o prisión\" (7:26).",
+        "Bendito sea el SEÑOR, Dios de nuestros padres, que puso tal cosa en el corazón del rey, para honrar la casa del SEÑOR que está en Jerusalén (7:27).",
+        "Y que extendió hacia mí su misericordia delante del rey y de sus consejeros, y de todos los príncipes poderosos del rey. Yo me fortalecí, porque la mano del SEÑOR mi Dios estaba sobre mí, y reuní a hombres principales de Israel para que subieran conmigo (7:28)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 17:18–20 — El rey debe escribir y leer la ley de Dios a diario; Esdras encarna la devoción a la Torá.",
+        "Nehemías 8:1–8 — Esdras lee la ley públicamente al pueblo más tarde.",
+        "Salmo 119:9–16 — Amar y guardar la ley de Dios.",
+        "Eclesiástico 49:11–12 (deuterocanónico) — Esdras elogiado por restaurar la ley después del exilio."
+      ],
+      "translationNotes": [
+        {
+          "term": "Escriba",
+          "original": "Hebrew: סֹפֵר (sofer) — Greek: γραμματεύς (grammateus) — Aramaic: ספר (safar)",
+          "note": "Originalmente «escritor/contador»; en tiempos de Esdras, un maestro e intérprete de la Torá."
+        },
+        {
+          "term": "Ayuno",
+          "original": "Hebrew: צוּם (tzum) — Greek: νηστεία (nēsteia) — Aramaic: צום (tzom)",
+          "note": "Abstinencia de alimento como señal de humildad y dependencia."
+        },
+        {
+          "term": "Ley",
+          "original": "Hebrew: תּוֹרָה (Torah) — Greek: νόμος (nomos) — Aramaic: אורייתא (orayta)",
+          "note": "Instrucción o enseñanza de Dios, central en la misión de Esdras."
+        }
+      ],
+      "keyTakeaway": "Esdras, sacerdote y escriba, recibe una comisión real, encabeza una caravana con ofrendas, designa levitas, proclama un ayuno y trae con seguridad al pueblo y los tesoros del templo a Jerusalén."
+    },
+    {
+      "id": "ezra-8",
+      "title": "📖 Esdras 8",
+      "refs": [
+        "Ezra 8:1-36"
+      ],
+      "summaryBullets": [
+        "Estos son los jefes de sus casas paternas, y esta es la genealogía de los que subieron conmigo de Babilonia, en el reinado del rey Artajerjes (8:1).",
+        "De los hijos de Finees, Gersón. De los hijos de Itamar, Daniel. De los hijos de David, Hatús (8:2).",
+        "De los hijos de Secanías, de los hijos de Paros, Zacarías, y con él fueron registrados ciento cincuenta varones (8:3).",
+        "De los hijos de Pahat-moab, Eliehoenai hijo de Zeraías, y con él doscientos varones (8:4).",
+        "De los hijos de Secanías, hijo de Jahaziel, y con él trescientos varones (8:5).",
+        "De los hijos de Adín, Ebed hijo de Jonatán, y con él cincuenta varones (8:6).",
+        "De los hijos de Elam, Jesaías hijo de Atalías, y con él setenta varones (8:7).",
+        "De los hijos de Sefatías, Zebadías hijo de Micael, y con él ochenta varones (8:8).",
+        "De los hijos de Joab, Obadías hijo de Jehiel, y con él doscientos dieciocho varones (8:9).",
+        "De los hijos de Selomit, hijo de Josifías, y con él ciento sesenta varones (8:10).",
+        "De los hijos de Bebai, Zacarías hijo de Bebai, y con él veintiocho varones (8:11).",
+        "De los hijos de Azgad, Johanán hijo de Hacatán, y con él ciento diez varones (8:12).",
+        "De los hijos de Adonicam, los últimos, cuyos nombres son Elifelet, Jeiel y Semaías, y con ellos sesenta varones (8:13).",
+        "De los hijos de Bigvai, Utai y Zacur, y con ellos setenta varones (8:14).",
+        "Los reuní junto al río que va a Ahava, y allí acampamos tres días. Al revisar al pueblo y a los sacerdotes, no hallé allí a ninguno de los hijos de Leví (8:15).",
+        "Entonces envié a llamar a Eliezer, Ariel, Semaías, Elnatán, Jarib, Elnatán, Natán, Zacarías y Mesulam, hombres principales, y a Joiarib y Elnatán, hombres sabios (8:16).",
+        "Los envié a Iddo, jefe del lugar llamado Casifia, y les dije las palabras que debían decir a Iddo y a sus hermanos, los servidores del templo en Casifia, para que nos enviaran ministros para la casa de nuestro Dios (8:17).",
+        "Y por la buena mano de nuestro Dios sobre nosotros, nos trajeron un hombre entendido de los hijos de Mahlí hijo de Leví, hijo de Israel, a saber, Serebías, con sus hijos y hermanos, dieciocho (8:18).",
+        "También a Hasabías, y con él a Jesaías de los hijos de Merari, con sus hermanos y los hijos de estos, veinte (8:19).",
+        "Además, doscientos veinte de los servidores del templo, a quienes David y los príncipes habían designado para el servicio de los levitas. Todos fueron designados por nombre (8:20).",
+        "Entonces proclamé ayuno allí, junto al río Ahava, para humillarnos delante de nuestro Dios, y pedirle un viaje seguro para nosotros, nuestros hijos y todos nuestros bienes (8:21).",
+        "Porque tuve vergüenza de pedir al rey soldados y jinetes que nos protegieran del enemigo en el camino, ya que habíamos dicho al rey: \"La mano de nuestro Dios es para bien sobre todos los que le buscan, pero su poder y su ira contra todos los que le abandonan\" (8:22).",
+        "Ayunamos, pues, y pedimos a nuestro Dios sobre esto, y él nos escuchó (8:23).",
+        "Entonces aparté a doce de los principales sacerdotes: a Serebías, Hasabías y diez de sus hermanos con ellos (8:24).",
+        "Y les pesé la plata, el oro y los utensilios, la ofrenda para la casa de nuestro Dios que el rey, sus consejeros, sus príncipes y todo Israel allí presente habían ofrecido (8:25).",
+        "Pesé en sus manos seiscientos cincuenta talentos de plata, utensilios de plata por valor de doscientos talentos, y cien talentos de oro (8:26).",
+        "Veinte tazones de oro por valor de mil dáricos, y dos vasos de bronce bruñido y fino, tan preciosos como el oro (8:27).",
+        "Y les dije: \"Vosotros sois santos para el SEÑOR, y los utensilios son santos, y la plata y el oro son ofrenda voluntaria al SEÑOR, Dios de vuestros padres (8:28).",
+        "Guardadlos y conservadlos hasta que los peséis delante de los principales sacerdotes, los levitas y los jefes de las casas paternas de Israel en Jerusalén, en las cámaras de la casa del SEÑOR\" (8:29).",
+        "Así los sacerdotes y los levitas recibieron el peso de la plata, el oro y los utensilios, para llevarlos a Jerusalén, a la casa de nuestro Dios (8:30).",
+        "Partimos del río Ahava el día doce del primer mes para ir a Jerusalén. La mano de nuestro Dios estaba sobre nosotros, y nos libró de la mano del enemigo y de los que nos acechaban en el camino (8:31).",
+        "Llegamos a Jerusalén, y allí reposamos tres días (8:32).",
+        "Al cuarto día, dentro de la casa de nuestro Dios, la plata, el oro y los utensilios fueron pesados en manos de Meremot, sacerdote hijo de Urías, y con él estaba Eleazar hijo de Finees, y con ellos los levitas Jozabad hijo de Jesúa y Noadías hijo de Binui (8:33).",
+        "Todo fue contado y pesado, y se registró el peso de todo en aquel momento (8:34).",
+        "En aquel tiempo, los que habían venido de la cautividad, los que habían regresado del exilio, ofrecieron holocaustos al Dios de Israel: doce becerros por todo Israel, noventa y seis carneros, setenta y siete corderos y doce machos cabríos como ofrenda por el pecado. Todo esto fue holocausto al SEÑOR (8:35).",
+        "También entregaron los decretos del rey a los sátrapas del rey y a los gobernadores de Transeufratina, y estos ayudaron al pueblo y a la casa de Dios (8:36)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 17:18–20 — El rey debe escribir y leer la ley de Dios a diario; Esdras encarna la devoción a la Torá.",
+        "Nehemías 8:1–8 — Esdras lee la ley públicamente al pueblo más tarde.",
+        "Salmo 119:9–16 — Amar y guardar la ley de Dios.",
+        "Eclesiástico 49:11–12 (deuterocanónico) — Esdras elogiado por restaurar la ley después del exilio."
+      ],
+      "translationNotes": [
+        {
+          "term": "Escriba",
+          "original": "Hebrew: סֹפֵר (sofer) — Greek: γραμματεύς (grammateus) — Aramaic: ספר (safar)",
+          "note": "Originalmente «escritor/contador»; en tiempos de Esdras, un maestro e intérprete de la Torá."
+        },
+        {
+          "term": "Ayuno",
+          "original": "Hebrew: צוּם (tzum) — Greek: νηστεία (nēsteia) — Aramaic: צום (tzom)",
+          "note": "Abstinencia de alimento como señal de humildad y dependencia."
+        },
+        {
+          "term": "Ley",
+          "original": "Hebrew: תּוֹרָה (Torah) — Greek: νόμος (nomos) — Aramaic: אורייתא (orayta)",
+          "note": "Instrucción o enseñanza de Dios, central en la misión de Esdras."
+        }
+      ],
+      "keyTakeaway": "Esdras, sacerdote y escriba, recibe una comisión real, encabeza una caravana con ofrendas, designa levitas, proclama un ayuno y trae con seguridad al pueblo y los tesoros del templo a Jerusalén."
+    },
+    {
+      "id": "ezra-9",
+      "title": "🙏 Esdras 9",
+      "refs": [
+        "Ezra 9:1-15"
+      ],
+      "summaryBullets": [
+        "Después de haberse hecho estas cosas, los oficiales se acercaron a Esdras diciendo: \"El pueblo de Israel, los sacerdotes y los levitas no se han separado de los pueblos de estas tierras con sus abominaciones: de los cananeos, hititas, ferezeos, jebuseos, amonitas, moabitas, egipcios y amorreos (9:1).",
+        "Porque han tomado de sus hijas para sí y para sus hijos, de modo que la raza santa se ha mezclado con los pueblos de estas tierras. Y en esta infidelidad, la mano de los oficiales y jefes ha sido la primera\" (9:2).",
+        "Cuando oí esto, rasgué mi vestidura y mi manto, me arranqué cabellos de la cabeza y de la barba, y me senté consternado (9:3).",
+        "Entonces se reunieron a mi alrededor todos los que temblaban ante las palabras del Dios de Israel, por causa de la infidelidad de los que habían regresado del exilio, mientras yo permanecía consternado hasta el sacrificio de la tarde (9:4).",
+        "Y a la hora del sacrificio de la tarde me levanté de mi aflicción, con mi vestidura y mi manto rasgados, y caí de rodillas y extendí mis manos al SEÑOR mi Dios (9:5).",
+        "Diciendo: \"Dios mío, estoy avergonzado y me sonrojo de levantar mi rostro a ti, Dios mío, porque nuestras iniquidades se han multiplicado sobre nuestras cabezas y nuestra culpa ha llegado hasta los cielos (9:6).",
+        "Desde los días de nuestros padres hasta hoy hemos estado en gran culpa. Y por nuestras iniquidades nosotros, nuestros reyes y nuestros sacerdotes hemos sido entregados en mano de los reyes de estas tierras, a la espada, al cautiverio, al saqueo y a la vergüenza total, como sucede hoy (9:7).",
+        "Pero ahora, por un breve momento, se ha mostrado favor de parte del SEÑOR nuestro Dios, para dejarnos un remanente y darnos un lugar seguro dentro de su lugar santo, a fin de que nuestro Dios alumbre nuestros ojos y nos dé un poco de alivio en nuestra esclavitud (9:8).",
+        "Porque siervos somos; pero en nuestra servidumbre, nuestro Dios no nos ha desamparado, sino que ha extendido sobre nosotros su misericordia delante de los reyes de Persia, para darnos un poco de alivio, para levantar la casa de nuestro Dios y restaurar sus ruinas, y darnos protección en Judá y en Jerusalén (9:9).",
+        "Y ahora, Dios nuestro, ¿qué diremos después de esto? Porque hemos abandonado tus mandamientos (9:10).",
+        "Que mandaste por medio de tus siervos los profetas, diciendo: 'La tierra en la que vais a entrar para poseerla es una tierra impura por la impureza de los pueblos de estas tierras, por sus abominaciones que la han llenado de un extremo a otro con su inmundicia (9:11).",
+        "Por tanto, no deis vuestras hijas a sus hijos, ni toméis sus hijas para vuestros hijos, y nunca busquéis su paz ni su prosperidad, para que seáis fuertes y comáis lo bueno de la tierra y la dejéis como herencia a vuestros hijos para siempre' (9:12).",
+        "Y después de todo lo que nos ha sobrevenido por nuestras malas obras y por nuestra gran culpa, ya que tú, Dios nuestro, nos has castigado menos de lo que merecían nuestras iniquidades y nos has dado un remanente como este (9:13).",
+        "¿Hemos de volver a quebrantar tus mandamientos y emparentarnos con los pueblos que practican estas abominaciones? ¿No te indignarías contra nosotros hasta consumirnos, sin dejar remanente ni sobreviviente? (9:14).",
+        "Oh SEÑOR, Dios de Israel, tú eres justo, pues hemos quedado como un remanente que ha escapado, como se ve hoy. Henos aquí delante de ti en nuestra culpa, porque nadie puede estar en tu presencia a causa de esto\" (9:15)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 7:1–4 — Mandato de no casarse con naciones paganas.",
+        "Nehemías 13:23–27 — Nehemías confronta el mismo problema más tarde.",
+        "Malaquías 2:10–16 — Reprensión de los matrimonios infieles.",
+        "Tobías 4:12–13 (deuterocanónico) — Advertencia contra casarse fuera de Israel.",
+        "1 Esdras 8–9 (deuterocanónico) — Relato paralelo de la oración y reforma de Esdras."
+      ],
+      "translationNotes": [
+        {
+          "term": "Mujeres extranjeras",
+          "original": "Hebrew: נָשִׁים נָכְרִיּוֹת (nashim nokhriyyot) — Greek: γυναῖκες ἀλλότριαι (gynaikes allotriai)",
+          "note": "Mujeres de otras naciones vinculadas a religiones extranjeras. La preocupación es la lealtad al pacto, no la etnia en sí."
+        },
+        {
+          "term": "Confesión",
+          "original": "Hebrew: תּוֹדָה (todah) — Greek: ἐξομολόγησις (exomologēsis)",
+          "note": "Reconocimiento público de culpa ante Dios."
+        },
+        {
+          "term": "Pacto",
+          "original": "Hebrew: בְּרִית (berit) — Greek: διαθήκη (diathēkē) — Aramaic: קיימא (qayyama)",
+          "note": "Acuerdo vinculante; aquí, un nuevo compromiso de seguir los mandamientos de Dios."
+        }
+      ],
+      "keyTakeaway": "Esdras lamenta los matrimonios con mujeres extranjeras, ora en confesión, y el pueblo pacta despedir esos matrimonios; los involucrados son registrados por nombre."
+    },
+    {
+      "id": "ezra-10",
+      "title": "🙏 Esdras 10",
+      "refs": [
+        "Ezra 10:1-44"
+      ],
+      "summaryBullets": [
+        "Mientras Esdras oraba y hacía confesión, llorando y postrándose delante de la casa de Dios, una muy grande asamblea de hombres, mujeres y niños se reunió a él de Israel, porque el pueblo lloraba amargamente (10:1).",
+        "Y Secanías hijo de Jehiel, de los hijos de Elam, tomó la palabra y dijo a Esdras: \"Hemos sido infieles a nuestro Dios y hemos tomado mujeres extranjeras de los pueblos de la tierra; pero aun así hay esperanza para Israel en esto (10:2).",
+        "Hagamos, pues, un pacto con nuestro Dios de despedir a todas estas mujeres y a los nacidos de ellas, conforme al consejo de mi señor y de los que tiemblan ante el mandamiento de nuestro Dios, y hágase conforme a la Ley (10:3).",
+        "Levántate, porque esta es tu tarea, y nosotros estaremos contigo; sé fuerte y actúa\" (10:4).",
+        "Entonces Esdras se levantó e hizo jurar a los principales sacerdotes, a los levitas y a todo Israel que harían conforme a lo dicho. Y así juraron (10:5).",
+        "Luego Esdras se retiró de delante de la casa de Dios y fue a la cámara de Johanán hijo de Eliasib, donde pasó la noche sin comer pan ni beber agua, porque estaba de duelo por la infidelidad de los exiliados (10:6).",
+        "Y se hizo proclamación por todo Judá y Jerusalén a todos los que habían regresado del exilio, que se reunieran en Jerusalén (10:7).",
+        "Y que si alguno no venía dentro de tres días, conforme a la orden de los oficiales y los ancianos, todos sus bienes serían confiscados, y él mismo sería excluido de la congregación de los exiliados (10:8).",
+        "Entonces todos los hombres de Judá y Benjamín se reunieron en Jerusalén dentro de los tres días. Era el mes noveno, el día veinte del mes. Y todo el pueblo estaba sentado en la plaza delante de la casa de Dios, temblando por este asunto y por las fuertes lluvias (10:9).",
+        "Y Esdras el sacerdote se levantó y les dijo: \"Vosotros habéis sido infieles y habéis tomado mujeres extranjeras, aumentando así la culpa de Israel (10:10).",
+        "Ahora, pues, haced confesión al SEÑOR Dios de vuestros padres y haced su voluntad. Separaos de los pueblos de la tierra y de las mujeres extranjeras\" (10:11).",
+        "Entonces toda la asamblea respondió en alta voz: \"Así es; debemos hacer conforme a lo que has dicho (10:12).",
+        "Pero el pueblo es numeroso y es tiempo de fuertes lluvias; no podemos permanecer al aire libre. Ni es esta tarea de uno o dos días, porque hemos pecado gravemente en este asunto (10:13).",
+        "Que nuestros oficiales representen a toda la asamblea. Que todos los que en nuestras ciudades hayan tomado mujeres extranjeras vengan en tiempos señalados, y con ellos los ancianos y los jueces de cada ciudad, hasta que la ardiente ira de nuestro Dios por este asunto se aparte de nosotros\" (10:14).",
+        "Solo Jonatán hijo de Asael y Jahazías hijo de Ticvá se opusieron a esto, y Mesulam y Sabetai el levita los apoyaron (10:15).",
+        "Entonces los que habían regresado del exilio así lo hicieron. Esdras el sacerdote seleccionó hombres, jefes de casas paternas, conforme a sus casas paternas, cada uno designado por nombre. El primer día del mes décimo se sentaron para examinar el asunto (10:16).",
+        "Y para el primer día del primer mes habían terminado con todos los hombres que se habían casado con mujeres extranjeras (10:17).",
+        "Entre los hijos de los sacerdotes que se habían casado con mujeres extranjeras se hallaron: de los hijos de Jesúa hijo de Josadac y de sus hermanos: Maasías, Eliezer, Jarib y Gedalías (10:18).",
+        "Estos se comprometieron a despedir a sus mujeres, y su ofrenda por la culpa fue un carnero del rebaño (10:19).",
+        "De los hijos de Imer: Hananí y Zebadías (10:20).",
+        "De los hijos de Harim: Maasías, Elías, Semaías, Jehiel y Uzías (10:21).",
+        "De los hijos de Pasur: Elioenai, Maasías, Ismael, Natanael, Jozabad y Elasa (10:22).",
+        "De los levitas: Jozabad, Simei, Kelaía (es decir, Quelita), Petaías, Judá y Eliezer (10:23).",
+        "De los cantores: Eliasib. De los porteros: Salum, Telem y Uri (10:24).",
+        "Y de Israel: de los hijos de Paros: Ramías, Izías, Malquías, Mijamín, Eleazar, Hasabías y Benaía (10:25).",
+        "De los hijos de Elam: Matanías, Zacarías, Jehiel, Abdi, Jeremot y Elías (10:26).",
+        "De los hijos de Zatu: Elioenai, Eliasib, Matanías, Jeremot, Zabad y Aziza (10:27).",
+        "De los hijos de Bebai: Johanán, Hananías, Zabai y Atlai (10:28).",
+        "De los hijos de Bani: Mesulam, Maluc, Adaía, Jasub, Seal y Jeremot (10:29).",
+        "De los hijos de Pahat-moab: Adná, Quelal, Benaía, Maasías, Matanías, Bezalel, Binúi y Manasés (10:30).",
+        "De los hijos de Harim: Eliezer, Isías, Malquías, Semaías, Simeón (10:31).",
+        "Benjamín, Maluc y Semarías (10:32).",
+        "De los hijos de Hasum: Matenai, Matata, Zabad, Elifelet, Jeremai, Manasés y Simei (10:33).",
+        "De los hijos de Bani: Maadai, Amram, Uel (10:34).",
+        "Benaía, Bedías, Queluhí (10:35).",
+        "Vanías, Meremot, Eliasib (10:36).",
+        "Matanías, Matenai, Jaasai (10:37).",
+        "Bani, Binúi, Simei (10:38).",
+        "Selemías, Natán, Adaía (10:39).",
+        "Macnadebai, Sasai, Sarai (10:40).",
+        "Azareel, Selemías, Semarías (10:41).",
+        "Salum, Amarías y José (10:42).",
+        "De los hijos de Nebo: Jeiel, Matatías, Zabad, Zebina, Jadai, Joel y Benaía (10:43).",
+        "Todos estos se habían casado con mujeres extranjeras, y algunas de ellas habían tenido hijos (10:44)."
+      ],
+      "crossRefs": [
+        "Deuteronomio 7:1–4 — Mandato de no casarse con naciones paganas.",
+        "Nehemías 13:23–27 — Nehemías confronta el mismo problema más tarde.",
+        "Malaquías 2:10–16 — Reprensión de los matrimonios infieles.",
+        "Tobías 4:12–13 (deuterocanónico) — Advertencia contra casarse fuera de Israel.",
+        "1 Esdras 8–9 (deuterocanónico) — Relato paralelo de la oración y reforma de Esdras."
+      ],
+      "translationNotes": [
+        {
+          "term": "Mujeres extranjeras",
+          "original": "Hebrew: נָשִׁים נָכְרִיּוֹת (nashim nokhriyyot) — Greek: γυναῖκες ἀλλότριαι (gynaikes allotriai)",
+          "note": "Mujeres de otras naciones vinculadas a religiones extranjeras. La preocupación es la lealtad al pacto, no la etnia en sí."
+        },
+        {
+          "term": "Confesión",
+          "original": "Hebrew: תּוֹדָה (todah) — Greek: ἐξομολόγησις (exomologēsis)",
+          "note": "Reconocimiento público de culpa ante Dios."
+        },
+        {
+          "term": "Pacto",
+          "original": "Hebrew: בְּרִית (berit) — Greek: διαθήκη (diathēkē) — Aramaic: קיימא (qayyama)",
+          "note": "Acuerdo vinculante; aquí, un nuevo compromiso de seguir los mandamientos de Dios."
+        }
+      ],
+      "keyTakeaway": "Esdras lamenta los matrimonios con mujeres extranjeras, ora en confesión, y el pueblo pacta despedir esos matrimonios; los involucrados son registrados por nombre."
+    }
+  ]
+}

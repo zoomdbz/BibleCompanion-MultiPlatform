@@ -1,0 +1,38 @@
+{
+  "id": "testaments_twelve_patriarchs",
+  "title": "Testamentos de los Doce Patriarcas",
+  "stories": [
+    {
+      "id": "testaments_twelve_patriarchs-1",
+      "title": "📜 Testamentos de los Doce Patriarcas",
+      "refs": [
+        "Testaments of the Twelve Patriarchs 1"
+      ],
+      "summaryBullets": [
+        "Una colección pseudoepigráfica de doce discursos atribuidos a los hijos de Jacob, compuesta aproximadamente en el siglo II a.C., que combina autobiografía, exhortaciones éticas y visiones proféticas.",
+        "Cada patriarca (por ejemplo, Rubén, Simeón, Leví, etc.) relata acontecimientos de su vida, advierte contra un vicio particular o exhorta a una virtud ligada a su propia historia, y luego profetiza el futuro de sus descendientes.",
+        "Estructura recurrente: un testimonio personal, instrucción moral y, a veces, una profecía apocalíptica o mesiánica, concluyendo frecuentemente con su muerte y sepultura.",
+        "Fuerte énfasis ético: se exaltan virtudes como el amor, la misericordia y la verdad; se condenan vicios como el orgullo, la envidia, la fornicación y el odio. José es presentado repetidamente como modelo de virtud.",
+        "Contiene patrones de Pecado-Exilio-Retorno (PER), especialmente en Leví, Judá, Dan, Neftalí, Gad y Benjamín, cada uno con confesiones, imágenes de exilio y esperanza de retorno."
+      ],
+      "crossRefs": [
+        "Génesis 49 — Bendiciones de Jacob sobre sus hijos.",
+        "Josué 23–24 — Exhortación final a la fidelidad de Israel.",
+        "Proverbios 3:11–12 — La disciplina del Señor refina la virtud."
+      ],
+      "translationNotes": [
+        {
+          "term": "Testamento",
+          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony') — Greek: διαθήκη (diathḗkē) — Aramaic: סָפְרָא (səfrāʾ, 'book')",
+          "note": "Aquí se refiere a un legado en el lecho de muerte o discurso final destinado a instruir a los descendientes, enmarcado dentro del género de la literatura testamentaria."
+        },
+        {
+          "term": "Motivo Pecado-Exilio-Retorno (PER)",
+          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense) — English: SER motif",
+          "note": "Un patrón literario en textos bíblicos y pseudoepigráficos: el pecado conduce al exilio, seguido por la restauración o el retorno, usado para enmarcar la historia moral y comunitaria."
+        }
+      ],
+      "keyTakeaway": "Los Testamentos presentan despedidas éticas y proféticas de los hijos de Jacob, exhortando a la fidelidad moral y ofreciendo esperanza de restauración."
+    }
+  ]
+}

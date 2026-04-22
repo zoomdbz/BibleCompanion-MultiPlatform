@@ -1,0 +1,1333 @@
+[
+  {
+    "canon": "Бытие",
+    "aliases": [
+      "Бытие",
+      "Быт",
+      "Бт",
+      "Genesis"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Исход",
+    "aliases": [
+      "Исход",
+      "Исх",
+      "Ис",
+      "Exodus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Левит",
+    "aliases": [
+      "Левит",
+      "Лев",
+      "Лв",
+      "Leviticus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Числа",
+    "aliases": [
+      "Числа",
+      "Чис",
+      "Числ",
+      "Чсл",
+      "Numbers"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Второзаконие",
+    "aliases": [
+      "Второзаконие",
+      "Втор",
+      "Вт",
+      "Deuteronomy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иисус Навин",
+    "aliases": [
+      "Иисус Навин",
+      "Навин",
+      "Нав",
+      "Иисуса Навина",
+      "Joshua"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Судьи",
+    "aliases": [
+      "Судьи",
+      "Суд",
+      "Сд",
+      "Судей",
+      "Judges"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Руфь",
+    "aliases": [
+      "Руфь",
+      "Руф",
+      "Ру",
+      "Ruth"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Царств",
+    "aliases": [
+      "1 Царств",
+      "1 Цар",
+      "1Цар",
+      "I Царств",
+      "1 Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Царств",
+    "aliases": [
+      "2 Царств",
+      "2 Цар",
+      "2Цар",
+      "II Царств",
+      "2 Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "3 Царств",
+    "aliases": [
+      "3 Царств",
+      "3 Цар",
+      "3Цар",
+      "1 Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "4 Царств",
+    "aliases": [
+      "4 Царств",
+      "4 Цар",
+      "4Цар",
+      "2 Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Паралипоменон",
+    "aliases": [
+      "1 Паралипоменон",
+      "1 Пар",
+      "1Пар",
+      "I Пар",
+      "1 Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Паралипоменон",
+    "aliases": [
+      "2 Паралипоменон",
+      "2 Пар",
+      "2Пар",
+      "II Пар",
+      "2 Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ездра",
+    "aliases": [
+      "Ездра",
+      "Ездр",
+      "Езд",
+      "Ezra"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Неемия",
+    "aliases": [
+      "Неемия",
+      "Неем",
+      "Не",
+      "Неемии",
+      "Nehemiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Есфирь",
+    "aliases": [
+      "Есфирь",
+      "Есф",
+      "Ес",
+      "Esther"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иов",
+    "aliases": [
+      "Иов",
+      "Иовъ",
+      "Иова",
+      "Job"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Псалтирь",
+    "aliases": [
+      "Псалтирь",
+      "Псалмы",
+      "Пс",
+      "Псал",
+      "Псалом",
+      "Psalms"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Притчи",
+    "aliases": [
+      "Притчи",
+      "Прит",
+      "Пр",
+      "Proverbs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Екклесиаст",
+    "aliases": [
+      "Екклесиаст",
+      "Еккл",
+      "Екклс",
+      "Екк",
+      "Экклезиаст",
+      "Ecclesiastes"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Песнь песней",
+    "aliases": [
+      "Песнь песней",
+      "Песн",
+      "ПнП",
+      "Песнь Песней",
+      "Song of Songs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Исаия",
+    "aliases": [
+      "Исаия",
+      "Исайя",
+      "Ис",
+      "Исаии",
+      "Isaiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иеремия",
+    "aliases": [
+      "Иеремия",
+      "Иер",
+      "Иерем",
+      "Иеремии",
+      "Jeremiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Плач Иеремии",
+    "aliases": [
+      "Плач Иеремии",
+      "Плач",
+      "Плч",
+      "Lamentations"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иезекииль",
+    "aliases": [
+      "Иезекииль",
+      "Иез",
+      "Иезек",
+      "Иезекииля",
+      "Ezekiel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Даниил",
+    "aliases": [
+      "Даниил",
+      "Дан",
+      "Дн",
+      "Даниила",
+      "Daniel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Осия",
+    "aliases": [
+      "Осия",
+      "Ос",
+      "Осии",
+      "Hosea"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иоиль",
+    "aliases": [
+      "Иоиль",
+      "Иоил",
+      "Ио",
+      "Joel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Амос",
+    "aliases": [
+      "Амос",
+      "Ам",
+      "Amos"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Авдий",
+    "aliases": [
+      "Авдий",
+      "Авд",
+      "Авдия",
+      "Obadiah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иона",
+    "aliases": [
+      "Иона",
+      "Ион",
+      "Jonah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Михей",
+    "aliases": [
+      "Михей",
+      "Мих",
+      "Михея",
+      "Micah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Наум",
+    "aliases": [
+      "Наум",
+      "На",
+      "Nahum"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Аввакум",
+    "aliases": [
+      "Аввакум",
+      "Авв",
+      "Ав",
+      "Аввакума",
+      "Habakkuk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Софония",
+    "aliases": [
+      "Софония",
+      "Соф",
+      "Сф",
+      "Zephaniah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Аггей",
+    "aliases": [
+      "Аггей",
+      "Агг",
+      "Аг",
+      "Haggai"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Захария",
+    "aliases": [
+      "Захария",
+      "Зах",
+      "Зхр",
+      "Zechariah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Малахия",
+    "aliases": [
+      "Малахия",
+      "Мал",
+      "Малахии",
+      "Malachi"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Матфей",
+    "aliases": [
+      "Матфей",
+      "Мф",
+      "Мтф",
+      "Матфея",
+      "Matthew"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Марк",
+    "aliases": [
+      "Марк",
+      "Мрк",
+      "Мк",
+      "Марка",
+      "Mark"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Лука",
+    "aliases": [
+      "Лука",
+      "Лк",
+      "Луки",
+      "Luke"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иоанн",
+    "aliases": [
+      "Иоанн",
+      "Ин",
+      "Иоан",
+      "Иоанна",
+      "John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Деяния",
+    "aliases": [
+      "Деяния",
+      "Деян",
+      "Acts"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Римлянам",
+    "aliases": [
+      "Римлянам",
+      "Рим",
+      "Romans"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Коринфянам",
+    "aliases": [
+      "1 Коринфянам",
+      "1 Кор",
+      "I Кор",
+      "1 Corinthians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Коринфянам",
+    "aliases": [
+      "2 Коринфянам",
+      "2 Кор",
+      "II Кор",
+      "2 Corinthians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Галатам",
+    "aliases": [
+      "Галатам",
+      "Гал",
+      "Galatians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ефесянам",
+    "aliases": [
+      "Ефесянам",
+      "Еф",
+      "Ephesians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Филиппийцам",
+    "aliases": [
+      "Филиппийцам",
+      "Флп",
+      "Фил",
+      "Philippians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Колоссянам",
+    "aliases": [
+      "Колоссянам",
+      "Кол",
+      "Colossians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Фессалоникийцам",
+    "aliases": [
+      "1 Фессалоникийцам",
+      "1 Фес",
+      "I Фес",
+      "1 Thessalonians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Фессалоникийцам",
+    "aliases": [
+      "2 Фессалоникийцам",
+      "2 Фес",
+      "II Фес",
+      "2 Thessalonians"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Тимофею",
+    "aliases": [
+      "1 Тимофею",
+      "1 Тим",
+      "I Тим",
+      "1 Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Тимофею",
+    "aliases": [
+      "2 Тимофею",
+      "2 Тим",
+      "II Тим",
+      "2 Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Титу",
+    "aliases": [
+      "Титу",
+      "Тит",
+      "Titus"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Филимону",
+    "aliases": [
+      "Филимону",
+      "Флм",
+      "Фм",
+      "Philemon"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Евреям",
+    "aliases": [
+      "Евреям",
+      "Евр",
+      "Hebrews"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иаков",
+    "aliases": [
+      "Иаков",
+      "Иак",
+      "Иакова",
+      "James"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Петра",
+    "aliases": [
+      "1 Петра",
+      "1 Пет",
+      "I Пет",
+      "1 Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Петра",
+    "aliases": [
+      "2 Петра",
+      "2 Пет",
+      "II Пет",
+      "2 Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Иоанна",
+    "aliases": [
+      "1 Иоанна",
+      "1 Ин",
+      "I Ин",
+      "1 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Иоанна",
+    "aliases": [
+      "2 Иоанна",
+      "2 Ин",
+      "II Ин",
+      "2 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "3 Иоанна",
+    "aliases": [
+      "3 Иоанна",
+      "3 Ин",
+      "III Ин",
+      "3 John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Иуда",
+    "aliases": [
+      "Иуда",
+      "Иуд",
+      "Иуды",
+      "Jude"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Откровение",
+    "aliases": [
+      "Откровение",
+      "Апокалипсис",
+      "Откр",
+      "Ап",
+      "Revelation"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Товит",
+    "aliases": [
+      "Товит",
+      "Тов",
+      "Товита",
+      "Tobit"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Иудифь",
+    "aliases": [
+      "Иудифь",
+      "Иудиф",
+      "Judith"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Дополнения к Есфири",
+    "aliases": [
+      "Дополнения к Есфири",
+      "Есфирь греч",
+      "Греческая Есф",
+      "Additions to Esther"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Премудрость Соломона",
+    "aliases": [
+      "Премудрость Соломона",
+      "Прем Сол",
+      "Прем",
+      "Wisdom of Solomon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Сирах",
+    "aliases": [
+      "Сирах",
+      "Премудрость Иисуса, сына Сирахова",
+      "Сир",
+      "Премудрость Сирахова",
+      "Sirach"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Варух",
+    "aliases": [
+      "Варух",
+      "Вар",
+      "Baruch"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Послание Иеремии",
+    "aliases": [
+      "Послание Иеремии",
+      "Посл Иер",
+      "Иер Бр",
+      "Letter of Jeremiah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Молитва Азарии",
+    "aliases": [
+      "Молитва Азарии",
+      "Песнь трёх отроков",
+      "Песнь трёх",
+      "Азария",
+      "Prayer of Azariah"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Сусанна",
+    "aliases": [
+      "Сусанна",
+      "Sus"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Вел и Дракон",
+    "aliases": [
+      "Вел и Дракон",
+      "Вел",
+      "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 Маккавейская",
+    "aliases": [
+      "1 Маккавейская",
+      "1 Мак",
+      "I Мак"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 Маккавейская",
+    "aliases": [
+      "2 Маккавейская",
+      "2 Мак",
+      "II Мак",
+      "2 Маккавеев"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "3 Маккавейская",
+    "aliases": [
+      "3 Маккавейская",
+      "3 Мак",
+      "III Мак"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "4 Маккавейская",
+    "aliases": [
+      "4 Маккавейская",
+      "4 Мак",
+      "IV Мак"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 Ездра",
+    "aliases": [
+      "1 Ездра",
+      "3 Ездра",
+      "1 Езд",
+      "1 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 Ездра",
+    "aliases": [
+      "2 Ездра",
+      "4 Ездра",
+      "2 Езд",
+      "2 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Молитва Манассии",
+    "aliases": [
+      "Молитва Манассии",
+      "Манассия",
+      "Prayer of Manasseh"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Оды",
+    "aliases": [
+      "Оды",
+      "Оды (LXX)"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Дидахе",
+    "aliases": [
+      "Дидахе",
+      "Учение двенадцати апостолов",
+      "Didache"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Пастырь Ерма",
+    "aliases": [
+      "Пастырь Ерма",
+      "Ерм",
+      "Shepherd of Hermas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Послание Варнавы",
+    "aliases": [
+      "Послание Варнавы",
+      "Варнава",
+      "Epistle of Barnabas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1-е Послание Климента",
+    "aliases": [
+      "1-е Послание Климента",
+      "1 Клим",
+      "I Клим",
+      "1 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "2-е Послание Климента",
+    "aliases": [
+      "2-е Послание Климента",
+      "2 Клим",
+      "II Клим",
+      "2 Clement"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие от Фомы",
+    "aliases": [
+      "Евангелие от Фомы",
+      "Ев Фомы",
+      "Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие от Петра",
+    "aliases": [
+      "Евангелие от Петра",
+      "Ев Петра",
+      "Gospel of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие от Марии",
+    "aliases": [
+      "Евангелие от Марии",
+      "Евангелие от Марии Магдалины",
+      "Ев Марии",
+      "Gospel of Mary"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие от Иуды",
+    "aliases": [
+      "Евангелие от Иуды",
+      "Ев Иуды",
+      "Gospel of Judas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие от Филиппа",
+    "aliases": [
+      "Евангелие от Филиппа",
+      "Ев Филиппа",
+      "Gospel of Philip"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие детства от Фомы",
+    "aliases": [
+      "Евангелие детства от Фомы",
+      "Детства Ев Фомы",
+      "Infancy Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Протоевангелие Иакова",
+    "aliases": [
+      "Протоевангелие Иакова",
+      "Протоев Иак",
+      "Protevangelium of James"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Деяния Петра",
+    "aliases": [
+      "Деяния Петра",
+      "Деян Петра",
+      "Acts of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Деяния Павла",
+    "aliases": [
+      "Деяния Павла",
+      "Деян Павла",
+      "Acts of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Деяния Иоанна",
+    "aliases": [
+      "Деяния Иоанна",
+      "Деян Иоан",
+      "Acts of John"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Деяния Андрея",
+    "aliases": [
+      "Деяния Андрея",
+      "Деян Андр",
+      "Acts of Andrew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Деяния Фомы",
+    "aliases": [
+      "Деяния Фомы",
+      "Деян Фомы",
+      "Acts of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Апокалипсис Петра",
+    "aliases": [
+      "Апокалипсис Петра",
+      "Откровение Петра",
+      "Apocalypse of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Апокалипсис Павла",
+    "aliases": [
+      "Апокалипсис Павла",
+      "Откровение Павла",
+      "Apocalypse of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Послание к Лаодикийцам",
+    "aliases": [
+      "Послание к Лаодикийцам",
+      "Лаодикийцам",
+      "Epistle to the Laodiceans"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Послание Апостолов",
+    "aliases": [
+      "Послание Апостолов",
+      "Epistula Apostolorum",
+      "Letter of the Apostles"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие от Евреев",
+    "aliases": [
+      "Евангелие от Евреев",
+      "Ев Евреев",
+      "Gospel of the Hebrews"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие от Египтян",
+    "aliases": [
+      "Евангелие от Египтян",
+      "Ев Египтян",
+      "Gospel of the Egyptians"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1-я книга Еноха",
+    "aliases": [
+      "1-я книга Еноха",
+      "1 Енох",
+      "Эфиопский Енох",
+      "1 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2-я книга Еноха",
+    "aliases": [
+      "2-я книга Еноха",
+      "2 Енох",
+      "Славянский Енох",
+      "2 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3-я книга Еноха",
+    "aliases": [
+      "3-я книга Еноха",
+      "3 Енох",
+      "Еврейский Енох",
+      "3 Enoch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Книга Юбилеев",
+    "aliases": [
+      "Книга Юбилеев",
+      "Юбилеев",
+      "Малое Бытие",
+      "Jubilees",
+      "Юбилеи"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещания двенадцати патриархов",
+    "aliases": [
+      "Завещания двенадцати патриархов",
+      "Завещ 12 патр",
+      "Testament of the Twelve Patriarchs"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Рувима",
+    "aliases": [
+      "Завещание Рувима",
+      "Зав Рув",
+      "Testament of Reuben"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Симеона",
+    "aliases": [
+      "Завещание Симеона",
+      "Зав Сим",
+      "Testament of Simeon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Левия",
+    "aliases": [
+      "Завещание Левия",
+      "Зав Лев",
+      "Testament of Levi"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Иуды",
+    "aliases": [
+      "Завещание Иуды",
+      "Зав Иуд",
+      "Testament of Judah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Иссахара",
+    "aliases": [
+      "Завещание Иссахара",
+      "Зав Исс",
+      "Testament of Issachar"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Завулона",
+    "aliases": [
+      "Завещание Завулона",
+      "Зав Зав",
+      "Testament of Zebulun"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Дана",
+    "aliases": [
+      "Завещание Дана",
+      "Зав Дан",
+      "Testament of Dan"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Неффалима",
+    "aliases": [
+      "Завещание Неффалима",
+      "Зав Нефф",
+      "Testament of Naphtali"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Гада",
+    "aliases": [
+      "Завещание Гада",
+      "Зав Гад",
+      "Testament of Gad"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Асира",
+    "aliases": [
+      "Завещание Асира",
+      "Зав Ас",
+      "Testament of Asher"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Иосифа",
+    "aliases": [
+      "Завещание Иосифа",
+      "Зав Иос",
+      "Testament of Joseph"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Вениамина",
+    "aliases": [
+      "Завещание Вениамина",
+      "Зав Вен",
+      "Testament of Benjamin"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Завещание Иова",
+    "aliases": [
+      "Завещание Иова",
+      "Зав Иов",
+      "Testament of Job"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Жизнь Адама и Евы",
+    "aliases": [
+      "Жизнь Адама и Евы",
+      "Апокалипсис Моисея",
+      "Life of Adam and Eve"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Апокалипсис Авраама",
+    "aliases": [
+      "Апокалипсис Авраама",
+      "Откр Авр",
+      "Apocalypse of Abraham"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Апокалипсис Софонии",
+    "aliases": [
+      "Апокалипсис Софонии",
+      "Откр Соф",
+      "Apocalypse of Zephaniah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2-я книга Варуха",
+    "aliases": [
+      "2-я книга Варуха",
+      "2 Варух",
+      "Сирийский Апокалипсис Варуха",
+      "2 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3-я книга Варуха",
+    "aliases": [
+      "3-я книга Варуха",
+      "3 Варух",
+      "Греческий Апокалипсис Варуха",
+      "3 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "4-я книга Варуха",
+    "aliases": [
+      "4-я книга Варуха",
+      "4 Варух",
+      "Паралипоменон Иеремии",
+      "4 Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Псалмы Соломона",
+    "aliases": [
+      "Псалмы Соломона",
+      "Пс Сол",
+      "Psalms of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Оды Соломона",
+    "aliases": [
+      "Оды Соломона",
+      "Од Сол",
+      "Odes of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Иосиф и Асенефа",
+    "aliases": [
+      "Иосиф и Асенефа",
+      "Иос Асен",
+      "Joseph and Aseneth"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Послание Аристея",
+    "aliases": [
+      "Послание Аристея",
+      "Письмо Аристея",
+      "Letter of Aristeas"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Вознесение Исайи",
+    "aliases": [
+      "Вознесение Исайи",
+      "Мученичество и Вознесение Исайи",
+      "Ascension of Isaiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Апокалипсис Илии",
+    "aliases": [
+      "Апокалипсис Илии",
+      "Откр Ил",
+      "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  }
+]

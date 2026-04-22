@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compagnon Biblique</string>
+    <string name="widget_description">Affiche la date de la prochaine fête biblique</string>
+    <string name="widget_calendar_description">Calendrier des fêtes bibliques avec dates hébraïques et esséniennes</string>
+    <string name="shortcut_search">Rechercher</string>
+    <string name="shortcut_bookmarks">Signets</string>
+    <string name="shortcut_continue">Continuer la lecture</string>
+</resources>

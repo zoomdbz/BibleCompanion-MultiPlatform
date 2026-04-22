@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Acompañante de la Biblia</string>
+    <string name="widget_description">Muestra la fecha de la próxima fiesta bíblica</string>
+    <string name="widget_calendar_description">Calendario de fiestas bíblicas con fechas hebreas y esenias</string>
+    <string name="shortcut_search">Buscar</string>
+    <string name="shortcut_bookmarks">Marcadores</string>
+    <string name="shortcut_continue">Continuar leyendo</string>
+</resources>
