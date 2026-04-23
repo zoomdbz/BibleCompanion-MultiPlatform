@@ -567,10 +567,17 @@
         "Quando saíram da água, o Espírito do Senhor tomou Filipe e o levou. O eunuco não tornou a vê-lo, mas seguiu viagem cheio de alegria. (8:39).",
         "Então Filipe apareceu mais ao norte, na cidade de Azoto. Anunciou as boas-novas ali e em todas as cidades ao longo do caminho, até chegar a Cesareia. (8:40)."
       ],
+      "keyTakeaway": "A perseguição dispersa os crentes para além de Jerusalém; Saulo agressivamente entra nas casas e prende os crentes.",
       "crossRefs": [
         "Atos 1:8 — Testemunho em Jerusalém, Judeia, Samaria e até os confins da terra.",
         "Atos 7:58 — Vestes depositadas aos pés de um jovem chamado Saulo.",
         "Gálatas 1:13 — Paulo relembra a perseguição à igreja."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "8:37",
+          "text": "E disse Filipe: É lícito, se crês de todo o coração. E, respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus."
+        }
       ],
       "translationNotes": [
         {
@@ -583,8 +590,7 @@
           "original": "Hebrew: קָהָל (qāhāl, ‘assembly’) — Greek: ἐκκλησία (ἐkklēsίa) — Aramaic: עֵדְתָּא (‘assembly’)",
           "note": "Termo para a comunidade reunida de crentes (8:1-3)."
         }
-      ],
-      "keyTakeaway": "A perseguição dispersa os crentes para além de Jerusalém; Saulo agressivamente entra nas casas e prende os crentes."
+      ]
     },
     {
       "id": "acts-9",
@@ -1068,10 +1074,17 @@
         "Paulo escolheu Silas e partiu, e os irmãos o entregaram ao cuidado gracioso do Senhor. (15:40).",
         "Então ele viajou por toda a Síria e Cilícia, fortalecendo as igrejas de lá. (15:41)."
       ],
+      "keyTakeaway": "O concílio de Jerusalém decide não exigir a circuncisão dos crentes gentios e envia uma carta com quatro abstenções para a comunhão.",
       "crossRefs": [
         "Gênesis 17:9–14 — Circuncisão dada a Abraão e sua descendência.",
         "Amós 9:11–12 — Nations called by God’s name (quoted by James).",
         "Levítico 17–18 — Regulamentações sobre sangue e idolatria/imoralidade sexual (contexto)."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:34",
+          "text": "mas pareceu bem a Silas ficar ali."
+        }
       ],
       "translationNotes": [
         {
@@ -1094,8 +1107,7 @@
           "original": "Hebrew: נִרְאָה טוֹב לְרוּחַ הַקֹּדֶשׁ וְלָנוּ (nirəʾāh ṭwōb lərwḥa haqōdeš wəlānw, sense) — Greek: ἔδοξεν τῷ ἁγίῳ πνεύματι καὶ ἡμῖν (ἔdoxen tῷ ἁgίῳ pneύmati kaὶ ἡmῖn) — Aramaic: שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא (שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא)",
           "note": "Formulação da carta sobre a fonte da decisão (15:28)."
         }
-      ],
-      "keyTakeaway": "O concílio de Jerusalém decide não exigir a circuncisão dos crentes gentios e envia uma carta com quatro abstenções para a comunhão."
+      ]
     },
     {
       "id": "acts-16",
@@ -1690,10 +1702,17 @@
         "Félix também esperava que Paulo lhe oferecesse dinheiro, de modo que mandava buscá-lo com frequência e conversava com ele. (24:26).",
         "Assim se passaram dois anos, e Félix foi sucedido por Pórcio Festo. E, uma vez que Félix desejava obter a simpatia dos judeus, manteve Paulo na prisão. (24:27)."
       ],
+      "keyTakeaway": "Tértulo apresenta acusações perante Félix; Paulo afirma adoração segundo o Caminho e esperança na ressurreição. Félix adia o julgamento, ouve Paulo frequentemente e, após dois anos, o deixa preso quando Festo o sucede.",
       "crossRefs": [
         "Daniel 12:2 — Ressurreição de muitos que dormem no pó.",
         "Atos 9:2; Atos 19:9-23 — “The Way” as designation for the movement.",
         "Atos 26:7–8 — Hope in God’s promise and resurrection theme."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "24:7",
+          "text": "Mas, sobrevindo o tribuno Lísias, no-lo tirou dentre as mãos, com grande violência,"
+        }
       ],
       "translationNotes": [
         {
@@ -1716,8 +1735,7 @@
           "original": "Hebrew: דְּרוּסִלָּה (translit.) — Greek: Δρουσίλλα (Drousίlla) — Aramaic: דְּרוּסִלָּא (דְּרוּסִלָּא)",
           "note": "Esposa de Félix, identificada como judia (24:24)."
         }
-      ],
-      "keyTakeaway": "Tértulo apresenta acusações perante Félix; Paulo afirma adoração segundo o Caminho e esperança na ressurreição. Félix adia o julgamento, ouve Paulo frequentemente e, após dois anos, o deixa preso quando Festo o sucede."
+      ]
     },
     {
       "id": "acts-25",
@@ -1972,11 +1990,18 @@
         "Durante os dois anos seguintes, Paulo morou em Roma, às próprias custas. A todos que o visitavam ele recebia, (28:30).",
         "proclamando corajosamente o reino de Deus e ensinando a respeito do Senhor Jesus Cristo sem restrição alguma. (28:31)."
       ],
+      "keyTakeaway": "Paulo sobrevive a uma mordida de víbora e cura muitos em Malta, depois chega a Roma. Encontra-se com líderes judeus, explica suas correntes e a esperança de Israel, e por dois anos proclama o reino de Deus e ensina sobre o Senhor Jesus Cristo com ousadia, recebendo todos os que vêm.",
       "crossRefs": [
         "Isaías 6:9–10 — Citado a respeito de ouvir e não entender.",
         "Atos 9:15 — Paulo escolhido para levar o nome perante gentios e reis.",
         "Filipenses 1:12–14 — Aprisionamento avançando o evangelho (escrito da custódia).",
         "2 Timóteo 2:9 — “The word of God is not bound.”"
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "28:29",
+          "text": "E, havendo ele dito isto, partiram os judeus, tendo entre si grande contenda."
+        }
       ],
       "translationNotes": [
         {
@@ -2014,8 +2039,7 @@
           "original": "Hebrew: בְּלִי מְנִיעָה (bəliy məniyʿāh, sense) — Greek: ἀκωλύτως (ἀkōlύtōs) — Aramaic: בְּלָא כּוֹבְלָא (בְּלָא כּוֹבְלָא)",
           "note": "Descrição da proclamação aberta de Paulo durante os dois anos em Roma (28:31)."
         }
-      ],
-      "keyTakeaway": "Paulo sobrevive a uma mordida de víbora e cura muitos em Malta, depois chega a Roma. Encontra-se com líderes judeus, explica suas correntes e a esperança de Israel, e por dois anos proclama o reino de Deus e ensina sobre o Senhor Jesus Cristo com ousadia, recebendo todos os que vêm."
+      ]
     }
   ]
 }

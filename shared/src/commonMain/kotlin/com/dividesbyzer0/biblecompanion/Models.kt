@@ -10,6 +10,12 @@ data class TransNote(
 )
 
 @Serializable
+data class ManuscriptVariant(
+  val ref: String,
+  val text: String
+)
+
+@Serializable
 data class Story(
   val id: String,
   val title: String,
@@ -17,6 +23,7 @@ data class Story(
   val summaryBullets: List<String>,
   val keyTakeaway: String = "",
   val crossRefs: List<String> = emptyList(),
+  val manuscriptVariants: List<ManuscriptVariant> = emptyList(),
   val translationNotes: List<TransNote> = emptyList()
 )
 
@@ -53,6 +60,7 @@ data class PrefsState(
   val customThemeHue: Float = 210f,
   val showKeyTakeaway: Boolean = false,
   val showCrossRefs: Boolean = false,
+  val showManuscriptVariants: Boolean = false,
   val showTranslationNotes: Boolean = false,
   val collapsedStoriesJson: String = "{}",
   val autoContinueTts: Boolean = true,

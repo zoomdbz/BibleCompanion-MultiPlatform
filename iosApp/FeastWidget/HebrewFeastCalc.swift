@@ -26,7 +26,7 @@ struct UpcomingFeastInfo {
     }
 }
 
-enum CalendarType: String { case hebrew, essene }
+enum CalendarType: String { case hebrew, essene, karaite }
 
 struct FeastMarkerW {
     let id: String
@@ -71,11 +71,118 @@ enum EsseneCalc {
         add(1, 14, "passover", "Passover", true)
         for (i, d) in (15...21).enumerated() { add(1, d, "unleavened", "Unleavened Bread", true, i + 1, 7) }
         add(1, 26, "firstfruits", "Firstfruits", true)
-        add(3, 15, "weeks", "Feast of Weeks", true)
+        add(2, 14, "second_passover", "Second Passover", true)
+        add(3, 15, "pentecost", "Pentecost", true)
         add(7, 1, "trumpets", "Trumpets", false)
         add(7, 10, "atonement", "Day of Atonement", false)
         for (i, d) in (15...21).enumerated() { add(7, d, "tabernacles", "Tabernacles", false, i + 1, 7) }
         add(7, 22, "assembly", "Shemini Atzeret", false)
+        return result
+    }
+}
+
+/// Karaite / Biblical sighted-moon calendar. Mirrors the Kotlin KaraiteCalendar
+/// object in shared/CalendarMath.kt. Months begin at the first visible new-moon
+/// crescent near the vernal equinox; Pentecost uses Sadducean counting from the
+/// Sunday within Unleavened Bread.
+enum KaraiteCalc {
+    /// New-moon JDN (Julian Ephemeris Day) from Meeus' simplified lunar-phase
+    /// formula. k is the lunation index (k=0 at 2000 Jan 6).
+    static func newMoonJDN(_ k: Double) -> Double {
+        let T = k / 1236.85
+        let T2 = T * T
+        let T3 = T2 * T
+        let T4 = T3 * T
+        var jde = 2451550.09766 + 29.530588861 * k +
+                  0.00015437 * T2 - 0.000000150 * T3 + 0.00000000073 * T4
+        let E = 1 - 0.002516 * T - 0.0000074 * T2
+        let deg = Double.pi / 180.0
+        let M = (2.5534 + 29.1053567 * k - 0.0000014 * T2 - 0.00000011 * T3) * deg
+        let Mp = (201.5643 + 385.81693528 * k + 0.0107582 * T2 +
+                  0.00001238 * T3 - 0.000000058 * T4) * deg
+        let F = (160.7108 + 390.67050284 * k - 0.0016118 * T2 -
+                 0.00000227 * T3 + 0.000000011 * T4) * deg
+        let Om = (124.7746 - 1.56375588 * k + 0.0020672 * T2 + 0.00000215 * T3) * deg
+
+        jde += -0.40720 * sin(Mp)
+        jde += 0.17241 * E * sin(M)
+        jde += 0.01608 * sin(2 * Mp)
+        jde += 0.01039 * sin(2 * F)
+        jde += 0.00739 * E * sin(Mp - M)
+        jde += -0.00514 * E * sin(Mp + M)
+        jde += 0.00208 * E * E * sin(2 * M)
+        jde += -0.00111 * sin(Mp - 2 * F)
+        jde += -0.00057 * sin(Mp + 2 * F)
+        jde += 0.00056 * E * sin(2 * Mp + M)
+        jde += -0.00042 * sin(3 * Mp)
+        jde += 0.00042 * E * sin(M + 2 * F)
+        jde += 0.00038 * E * sin(M - 2 * F)
+        jde += -0.00024 * E * sin(2 * Mp - M)
+        jde += -0.00017 * sin(Om)
+        return jde
+    }
+
+    /// First visible new-moon crescent at/around the vernal equinox for `gYear`.
+    /// Sighting offset is conjunction + 1 day.
+    static func nisanOneJDN(_ gYear: Int) -> Int64 {
+        let equinoxJDN = Double(HebrewFeastCalc.gregorianToJDN(year: gYear, month: 3, day: 20)) + 0.5
+        let approxK = Double(gYear - 2000) * 12.3685 + 3.0
+        var k = (approxK).rounded()
+        while newMoonJDN(k) > equinoxJDN + 35 { k -= 1 }
+        while newMoonJDN(k) < equinoxJDN - 35 { k += 1 }
+        var bestK = k
+        var bestDist = abs(newMoonJDN(k) - equinoxJDN)
+        for dk in -2...2 {
+            let cand = k + Double(dk)
+            let dist = abs(newMoonJDN(cand) - equinoxJDN)
+            if dist < bestDist - 0.5 {
+                bestDist = dist
+                bestK = cand
+            }
+        }
+        let nmJDN = newMoonJDN(bestK)
+        return Int64((nmJDN + 1.5).rounded(.down))
+    }
+
+    static func monthStartJDN(_ gYear: Int, month: Int) -> Int64 {
+        let nisan1 = Double(nisanOneJDN(gYear)) - 0.5
+        let nisanNM = nisan1 - 1.0
+        let approxK = (nisanNM - 2451550.09766) / 29.530588861
+        let kNisan = approxK.rounded()
+        let targetK = kNisan + Double(month - 1)
+        let nm = newMoonJDN(targetK)
+        return Int64((nm + 1.5).rounded(.down))
+    }
+
+    static func firstfruitsJDN(_ gYear: Int) -> Int64 {
+        let nisan15 = nisanOneJDN(gYear) + 14
+        for jdn in nisan15..<(nisan15 + 7) {
+            if HebrewFeastCalc.dayOfWeekFromJDN(jdn) == 6 { return jdn + 1 }
+        }
+        return nisan15
+    }
+
+    static func pentecostJDN(_ gYear: Int) -> Int64 { firstfruitsJDN(gYear) + 49 }
+    static func secondPassoverJDN(_ gYear: Int) -> Int64 { monthStartJDN(gYear, month: 2) + 13 }
+
+    static func karaiteFeastsForYear(_ gYear: Int) -> [(jdn: Int64, marker: FeastMarkerW)] {
+        var result: [(Int64, FeastMarkerW)] = []
+        func add(_ jdn: Int64, _ id: String, _ display: String, _ spring: Bool,
+                 _ dayOfFeast: Int = 0, _ totalDays: Int = 1) {
+            result.append((jdn, FeastMarkerW(id: id, displayName: display, isSpring: spring,
+                                              calendar: .karaite, dayOfFeast: dayOfFeast, totalDays: totalDays)))
+        }
+        let nisan1 = nisanOneJDN(gYear)
+        add(nisan1 + 13, "passover", "Passover", true)
+        for i in 0...6 { add(nisan1 + Int64(14 + i), "unleavened", "Unleavened Bread", true, i + 1, 7) }
+        add(firstfruitsJDN(gYear), "firstfruits", "Firstfruits", true)
+        add(secondPassoverJDN(gYear), "second_passover", "Second Passover", true)
+        add(pentecostJDN(gYear), "pentecost", "Pentecost", true)
+        let tishri1 = monthStartJDN(gYear, month: 7)
+        add(tishri1, "trumpets", "Trumpets", false)
+        add(tishri1 + 9, "atonement", "Day of Atonement", false)
+        for i in 0...6 { add(tishri1 + Int64(14 + i), "tabernacles", "Tabernacles", false, i + 1, 7) }
+        add(tishri1 + 21, "assembly", "Shemini Atzeret", false)
         return result
     }
 }
@@ -132,6 +239,8 @@ enum FeastMapBuilder {
         }
         allFeasts += EsseneCalc.esseneFeastsForYear(gYear)
         allFeasts += EsseneCalc.esseneFeastsForYear(gYear - 1)
+        allFeasts += KaraiteCalc.karaiteFeastsForYear(gYear)
+        allFeasts += KaraiteCalc.karaiteFeastsForYear(gYear - 1)
 
         var map = [Int: [FeastMarkerW]]()
         for (jdn, marker) in allFeasts {
@@ -366,6 +475,9 @@ enum HebrewFeastCalc {
         for y in [gYear, gYear + 1] {
             for (jdn, marker) in EsseneCalc.esseneFeastsForYear(y) {
                 raw.append((jdn, marker.displayName, .essene))
+            }
+            for (jdn, marker) in KaraiteCalc.karaiteFeastsForYear(y) {
+                raw.append((jdn, marker.displayName, .karaite))
             }
         }
 

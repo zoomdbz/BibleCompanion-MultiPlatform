@@ -1366,6 +1366,7 @@ fun BookScreen(
     val text = when (kind) {
       "key_takeaway" -> ttsBuildKeyTakeawayText(story, prefs.appLanguage)
       "cross_refs" -> ttsBuildCrossRefsText(story)
+      "manuscript_variants" -> ttsBuildManuscriptVariantsText(story)
       "translation_notes" -> ttsBuildTranslationNotesText(story)
       else -> ""
     }
@@ -1733,6 +1734,7 @@ fun BookScreen(
                   goldFadeBulletIdxs = if (goldFadeStoryId == story.id) goldFadeBulletIdxs else emptySet(),
                   onToggleKeyTakeaway = { scope.launch { repo.setShowKeyTakeaway(!prefs.showKeyTakeaway) } },
                   onToggleCrossRefs = { scope.launch { repo.setShowCrossRefs(!prefs.showCrossRefs) } },
+                  onToggleManuscriptVariants = { scope.launch { repo.setShowManuscriptVariants(!prefs.showManuscriptVariants) } },
                   onToggleTranslationNotes = { scope.launch { repo.setShowTranslationNotes(!prefs.showTranslationNotes) } },
                   onCopyBullet = { idx ->
                     doHaptic()
@@ -1771,6 +1773,7 @@ fun BookScreen(
                               when (kind) {
                                 "key_takeaway" -> if (!prefs.showKeyTakeaway) repo.setShowKeyTakeaway(true)
                                 "cross_refs" -> if (!prefs.showCrossRefs) repo.setShowCrossRefs(true)
+                                "manuscript_variants" -> if (!prefs.showManuscriptVariants) repo.setShowManuscriptVariants(true)
                                 "translation_notes" -> if (!prefs.showTranslationNotes) repo.setShowTranslationNotes(true)
                               }
                               delay(120)
@@ -2131,6 +2134,7 @@ fun StoryCard(
   goldFadeBulletIdxs: Set<Int> = emptySet(),
   onToggleKeyTakeaway: (() -> Unit)? = null,
   onToggleCrossRefs: (() -> Unit)? = null,
+  onToggleManuscriptVariants: (() -> Unit)? = null,
   onToggleTranslationNotes: (() -> Unit)? = null,
   activeSectionTts: String? = null,
   sectionTtsPaused: Boolean = false,
@@ -2159,6 +2163,7 @@ fun StoryCard(
   val hasCollapsibleContent = story.summaryBullets.isNotEmpty() ||
       story.keyTakeaway.isNotBlank() ||
       story.crossRefs.isNotEmpty() ||
+      story.manuscriptVariants.isNotEmpty() ||
       story.translationNotes.isNotEmpty()
 
   Card(
@@ -2426,6 +2431,70 @@ fun StoryCard(
                           prefs = prefs,
                           defaultBook = defaultBook,
                           allowRelativeInParensOnly = true
+                        )
+                      }
+                    }
+                  }
+                }
+              }
+
+              // Manuscript variants (collapsible + TTS). Shown above translation
+              // notes so readers see textual-variant footnotes before nuance notes.
+              if (story.manuscriptVariants.isNotEmpty()) {
+                HorizontalDivider()
+                val mvPlaying = activeSectionTts == "manuscript_variants" && !sectionTtsPaused
+                val mvPaused = activeSectionTts == "manuscript_variants" && sectionTtsPaused
+                Row(
+                  Modifier.fillMaxWidth().clickable { onToggleManuscriptVariants?.invoke() },
+                  verticalAlignment = Alignment.CenterVertically
+                ) {
+                  Text(
+                    stringResource(Res.string.manuscript_variants_header),
+                    style = MaterialTheme.typography.labelMedium,
+                    color = MaterialTheme.colorScheme.primary,
+                    modifier = Modifier.weight(1f)
+                  )
+                  if (onPlaySectionTts != null) {
+                    IconButton(
+                      onClick = { onPlaySectionTts("manuscript_variants") }
+                    ) {
+                      Icon(
+                        if (mvPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
+                        contentDescription = when {
+                          mvPlaying -> stringResource(Res.string.cd_tts_pause)
+                          mvPaused -> stringResource(Res.string.cd_tts_resume)
+                          else -> stringResource(Res.string.cd_tts_play)
+                        },
+                        modifier = Modifier.size(18.dp),
+                        tint = if (mvPlaying || mvPaused) MaterialTheme.colorScheme.primary
+                               else MaterialTheme.colorScheme.onSurfaceVariant
+                      )
+                    }
+                  }
+                  Icon(
+                    if (prefs.showManuscriptVariants) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                    contentDescription = null,
+                    modifier = Modifier.size(18.dp),
+                    tint = MaterialTheme.colorScheme.primary
+                  )
+                }
+                AnimatedVisibility(visible = prefs.showManuscriptVariants) {
+                  Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                    story.manuscriptVariants.forEach { mv ->
+                      SelectionContainer {
+                        ScriptureRefs.ClickableRefsText(
+                          text = "(${mv.ref})",
+                          collection = col,
+                          prefs = prefs,
+                          defaultBook = defaultBook,
+                          allowRelativeInParensOnly = true,
+                          textStyle = MaterialTheme.typography.titleSmall
+                        )
+                      }
+                      SelectionContainer {
+                        Text(
+                          mv.text,
+                          style = MaterialTheme.typography.bodyMedium
                         )
                       }
                     }
@@ -3158,6 +3227,17 @@ private fun ttsBuildTranslationNotesText(story: Story): String = buildString {
     if (note.isNotEmpty()) {
       append(note)
       if (!note.endsWith('.') && !note.endsWith('!') && !note.endsWith('?')) append('.')
+      append(' ')
+    }
+  }
+}.trim()
+
+private fun ttsBuildManuscriptVariantsText(story: Story): String = buildString {
+  story.manuscriptVariants.forEach { mv ->
+    val text = mv.text.trim()
+    if (text.isNotEmpty()) {
+      append(text)
+      if (!text.endsWith('.') && !text.endsWith('!') && !text.endsWith('?')) append('.')
       append(' ')
     }
   }

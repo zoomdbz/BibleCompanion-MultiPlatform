@@ -111,6 +111,7 @@
     <string name="show_more">Mostrar más</string>
     <string name="show_less">Mostrar menos</string>
     <string name="cross_references">Referencias cruzadas</string>
+    <string name="manuscript_variants_header">Variantes de manuscritos</string>
     <string name="translation_notes_header">Notas de traducción</string>
     <string name="key_takeaway">Punto clave</string>
     <string name="share">Compartir</string>
@@ -273,6 +274,8 @@
     <string name="widget_feasts">Fiestas</string>
     <string name="widget_cal_hebrew">Hebreo</string>
     <string name="widget_cal_essene">Esenio</string>
+    <string name="widget_cal_karaite">Caraíta</string>
+    <string name="widget_cal_all">Todos</string>
     <string name="widget_cal_both">Ambos</string>
     <string name="widget_no_feasts">No hay fiestas próximas</string>
     <string name="widget_day_of_feast">Día %1$d</string>

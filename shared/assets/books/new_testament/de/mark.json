@@ -489,6 +489,7 @@
         "Ihr setzt also durch eure Vorschriften das Wort Gottes außer Kraft. Und das ist nur ein Beispiel für viele.« (7:13).",
         "Dann rief Jesus die Menschenmenge wieder zu sich. »Hört, was ich euch sage, und begreift doch: (7:14).",
         "Nichts, was ein Mensch zu sich nimmt, kann ihn vor Gott unrein machen, sondern das, was von ihm ausgeht. « (7:15).",
+        "Wenn jemand Ohren hat zu hören, der höre! (7:16).",
         "Danach ging Jesus in ein Haus und war mit seinen Jüngern allein. Hier baten sie ihn zu erklären, was er mit dieser Rede gemeint hatte. (7:17).",
         "»Selbst ihr habt es immer noch nicht begriffen?«, erwiderte Jesus. »Wisst ihr denn nicht, dass alles, was ein Mensch zu sich nimmt, ihn vor Gott nicht verunreinigen kann? (7:18).",
         "Denn was ihr esst, geht nicht in euer Herz hinein; es kommt in den Magen und wird dann wieder ausgeschieden.« Damit erklärte Jesus alle Speisen für rein. (7:19).",
@@ -511,10 +512,17 @@
         "Jesus verbot den Leuten, darüber zu reden. Aber je mehr er es untersagte, desto mehr erzählten sie alles herum. (7:36).",
         "Denn für die Leute war es unfassbar, was sie gesehen hatten. »Es ist einfach großartig, was er tut!«, verbreiteten sie überall. »Selbst Taube können wieder hören und Stumme sprechen!« (7:37)."
       ],
+      "keyTakeaway": "Jesus tritt Überlieferungen entgegen, die Gottes Gebot aufheben, nennt Korban als Beispiel und erklärt, dass Verunreinigung aus dem Herzen kommt, nicht durch Speisen, die in den Leib gelangen.",
       "crossRefs": [
         "Jesaja 29,13 — „Dieses Volk naht mir mit seinem Mund… aber sein Herz ist fern von mir.“",
         "2. Mose 20,12; 5. Mose 5,16 — Ehre Vater und Mutter.",
         "Apostelgeschichte 10,14–15 — Reine/unreine Speisen in einer späteren Vision angesprochen."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "7:16",
+          "text": "Hat jemand Ohren, zu hören, der höre!"
+        }
       ],
       "translationNotes": [
         {
@@ -537,8 +545,7 @@
           "original": "Hebrew: לְטַמֵּא / לְחלֵּל (context) — Greek (NT): κοινοῦν (koinoῦn) — Aramaic (Syriac): ܡܢܟܦ (mnkp)",
           "note": "Verb für rituell/kultisch unrein machen (7,15–23)."
         }
-      ],
-      "keyTakeaway": "Jesus tritt Überlieferungen entgegen, die Gottes Gebot aufheben, nennt Korban als Beispiel und erklärt, dass Verunreinigung aus dem Herzen kommt, nicht durch Speisen, die in den Leib gelangen."
+      ]
     },
     {
       "id": "mark-8",
@@ -660,17 +667,30 @@
         "Erfrischt euch ein Mensch auch nur mit einem Schluck Wasser, weil ihr zu Christus gehört, so wird er seinen Lohn auf jeden Fall erhalten. Das versichere ich euch!« (9:41).",
         "»Wer einen dieser kleinen, unbedeutenden Menschen, die mir vertrauen, zu Fall bringt, für den wäre es noch das Beste, mit einem Mühlstein um den Hals ins Meer geworfen zu werden. (9:42).",
         "Selbst wenn dich deine Hand zur Sünde verführen will, hack sie ab! Es ist besser, du gehst verstümmelt ins ewige Leben, als dass du mit beiden Händen ins unauslöschliche Feuer der Hölle kommst. (9:43).",
+        "wo ihr Wurm nicht stirbt und das Feuer nicht erlischt. (9:44).",
         "Und wenn dein Fuß dich auf Abwege führen will, dann hack ihn ab! Es ist besser für dich, mit nur einem Fuß ins ewige Leben einzugehen, als mit beiden Füßen geradewegs in die Hölle zu marschieren. (9:45).",
+        "wo ihr Wurm nicht stirbt und das Feuer nicht erlischt. (9:46).",
         "Auch wenn dich dein Auge zu Fall bringen will, dann reiß es heraus. Es ist besser für dich, einäugig in Gottes Reich zu gelangen, als mit zwei gesunden Augen in die Hölle geworfen zu werden. (9:47).",
         "Dort wird die Qual nicht enden und das Feuer nicht verlöschen. (9:48).",
         "Niemand kann sich dem Feuer der Prüfung Gottes entziehen. Es gehört zum Leben so wie das Salz zum Opfer. (9:49).",
         "Salz ist gut und notwendig, solange es wirkt. Wenn es aber fade geworden ist, wodurch soll es seine Würzkraft wiedergewinnen? Deshalb achtet darauf, dass man an euch die Wirkung des Salzes sieht, und haltet Frieden untereinander.« (9:50)."
       ],
+      "keyTakeaway": "Drei Jünger sehen Jesus verklärt mit Mose und Elia; eine Stimme bezeichnet ihn als den geliebten Sohn. Jesus gebietet Schweigen bis nach der Auferstehung von den Toten und beantwortet die Elia-Frage.",
       "crossRefs": [
         "2. Mose 24,15–18; 34,29–35 — Berg und Lichtglanz.",
         "1. Könige 19,8–18 — Elia am Horeb.",
         "Maleachi 3,23–24 — Elia vor dem großen Tag.",
         "Matthäus 17,1–13; Lukas 9,28–36 — Parallelen."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "9:44",
+          "text": "da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht."
+        },
+        {
+          "ref": "9:46",
+          "text": "da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht."
+        }
       ],
       "translationNotes": [
         {
@@ -683,8 +703,7 @@
           "original": "Hebrew: בְּנִי הָאֱהוּב (bəniy hāʾĕhwb) — Greek (NT): ὁ υἱός μου ὁ ἀγαπητός (ὁ yἱόs mou ὁ ἀgapētόs) — Aramaic (Syriac): ܒܪܝ ܚܒܝܒܐ (bry ḥbybʾ)",
           "note": "Die himmlische Stimme bezeichnet Jesus (9,7)."
         }
-      ],
-      "keyTakeaway": "Drei Jünger sehen Jesus verklärt mit Mose und Elia; eine Stimme bezeichnet ihn als den geliebten Sohn. Jesus gebietet Schweigen bis nach der Auferstehung von den Toten und beantwortet die Elia-Frage."
+      ]
     },
     {
       "id": "mark-10",
@@ -797,6 +816,7 @@
         "Ich versichere euch: Wenn ihr glaubt und nicht im Geringsten daran zweifelt, dass es wirklich geschieht, könnt ihr zu diesem Berg sagen: ›Hebe dich von der Stelle und stürze dich ins Meer!‹, und es wird geschehen. (11:23).",
         "Deshalb sage ich euch: Um was ihr auch bittet – glaubt fest, dass ihr es schon bekommen habt, und Gott wird es euch geben! (11:24).",
         "Aber wenn ihr ihn um etwas bitten wollt, sollt ihr vorher den Menschen vergeben, denen ihr etwas vorzuwerfen habt. Dann wird euch der Vater im Himmel eure Schuld auch vergeben. « (11:25).",
+        "Wenn ihr aber nicht vergebt, so wird auch euer Vater im Himmel eure Verfehlungen nicht vergeben. (11:26).",
         "Inzwischen waren sie wieder in Jerusalem angelangt. Als Jesus im Tempel umherging, kamen die obersten Priester, die Schriftgelehrten und die führenden Männer des Volkes zu ihm (11:27).",
         "und stellten ihn zur Rede: »Woher nimmst du dir das Recht, so aufzutreten? Wer gab dir die Vollmacht dazu?« (11:28).",
         "Jesus erwiderte: »Ich will euch eine Gegenfrage stellen. Beantwortet sie mir, dann werde ich euch sagen, wer mir die Vollmacht gegeben hat. (11:29).",
@@ -805,10 +825,17 @@
         "Was ist, wenn wir bestreiten, dass Gott ihn gesandt hat?« Doch sie befürchteten, deswegen Ärger mit dem Volk zu bekommen. Denn alle waren davon überzeugt, dass Johannes ein Prophet war. (11:32).",
         "So antworteten sie schließlich: »Wir wissen es nicht!« Darauf entgegnete Jesus: »Dann sage ich euch auch nicht, wer mir die Vollmacht gegeben hat, all diese Dinge zu tun.« (11:33)."
       ],
+      "keyTakeaway": "Jesus zieht auf einem Fohlen in Jerusalem ein, während die Menge Kleider und Zweige ausbreitet und „Hosanna“ ruft; dann besichtigt er den Tempel und zieht sich nach Betanien zurück.",
       "crossRefs": [
         "Sacharja 9,9 — Demütiger König auf einem Fohlen.",
         "Psalm 118,25–26 — „Hosanna… Gepriesen sei, der da kommt im Namen des HERRN.“",
         "Matthäus 21,1–11; Lukas 19,28–40; Johannes 12,12–15 — Parallelen."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "11:26",
+          "text": "Wenn ihr aber nicht vergeben werdet, so wird euch euer Vater, der im Himmel ist, eure Fehler nicht vergeben."
+        }
       ],
       "translationNotes": [
         {
@@ -826,8 +853,7 @@
           "original": "Hebrew: לַאדֹנָי צֹרֶךְ־בּוֹ (laʾdōnāy ṣōrekə-bwō, sense) — Greek (NT): ὁ κύριος αὐτοῦ χρείαν ἔχει (ὁ kύrios aὐtoῦ chreίan ἔchei) — Aramaic (Syriac): ܠܡܪܝܐ ܡܬܒܥܐ ܒܗ (lmryʾ mtbʿʾ bh)",
           "note": "Anweisung zur Erklärung der Mitnahme des Fohlens (11,3)."
         }
-      ],
-      "keyTakeaway": "Jesus zieht auf einem Fohlen in Jerusalem ein, während die Menge Kleider und Zweige ausbreitet und „Hosanna“ ruft; dann besichtigt er den Tempel und zieht sich nach Betanien zurück."
+      ]
     },
     {
       "id": "mark-12",
@@ -1107,6 +1133,7 @@
         "Es war neun Uhr morgens, als sie ihn kreuzigten. (15:25).",
         "Am Kreuz war ein Schild angebracht, auf dem man lesen konnte, weshalb man ihn verurteilt hatte. Darauf stand: »Der König der Juden!« (15:26).",
         "Mit Jesus wurden zwei Verbrecher gekreuzigt, der eine rechts, der andere links von ihm. (15:27).",
+        "Da wurde die Schrift erfüllt, die spricht: »Und er ist unter die Gesetzlosen gerechnet worden« . (15:28).",
         "Die Leute, die am Kreuz vorübergingen, verspotteten ihn und schüttelten verächtlich den Kopf: »Ha! Den Tempel wolltest du abreißen und in drei Tagen wieder aufbauen! (15:29).",
         "Dann rette dich doch selber und komm vom Kreuz herunter!« (15:30).",
         "Auch die obersten Priester und die Schriftgelehrten verhöhnten Jesus: »Anderen hat er geholfen, aber sich selbst kann er nicht helfen. (15:31).",
@@ -1121,15 +1148,23 @@
         "Einige Frauen hatten das Geschehen aus der Ferne beobachtet. Unter ihnen waren Maria aus Magdala und Maria, die Mutter von Jakobus dem Jüngeren und von Joses, sowie Salome. (15:40).",
         "Sie waren schon in Galiläa bei Jesus gewesen und hatten für ihn gesorgt. Zusammen mit vielen anderen Frauen waren sie mit Jesus nach Jerusalem gekommen. (15:41).",
         "Am Abend ging Josef aus Arimathäa, ein geachtetes Mitglied des Hohen Rates, zu Pilatus. Josef wartete auf das Kommen von Gottes Reich. Weil am nächsten Tag Sabbat war, entschloss er sich, Pilatus schon jetzt um den Leichnam von Jesus zu bitten. (15:42).",
+        "da kam Joseph von Arimathia, ein angesehener Ratsherr, der selbst auch auf das Reich Gottes wartete ; der wagte es, ging zu Pilatus hinein und bat um den Leib Jesu. (15:43).",
         "Pilatus war erstaunt zu hören, dass Jesus schon tot war. Darum rief er den Hauptmann und erkundigte sich: »Lebt Jesus tatsächlich nicht mehr?« (15:44).",
         "Als der Hauptmann das bestätigte, überließ er Josef aus Arimathäa den Leichnam. (15:45).",
         "Josef kaufte ein feines Leinentuch, nahm Jesus vom Kreuz, wickelte ihn in das Tuch und legte ihn in eine Grabkammer, die in einen Felsen gehauen war. Dann wälzte er einen Stein vor den Eingang. (15:46).",
         "Maria aus Magdala und Maria, die Mutter von Joses, beobachteten, wohin er Jesus legte. (15:47)."
       ],
+      "keyTakeaway": "Pilatus verhört Jesus als „König der Juden“, lässt Barabbas, den Mörder, frei, lässt Jesus geißeln, und die Soldaten verspotten ihn und bereiten ihn auf die Kreuzigung vor.",
       "crossRefs": [
         "Jesaja 53,7 — Stumm vor den Anklägern.",
         "Lukas 23,18–25; Matthäus 27,15–31; Johannes 18,28–19,16 — Parallelen.",
         "Psalm 22,8 — Spottmotiv."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:28",
+          "text": "Da ward die Schrift erfüllet, die da sagt: \"Er ist unter die Übeltäter gerechnet.\""
+        }
       ],
       "translationNotes": [
         {
@@ -1147,8 +1182,7 @@
           "original": "Greek (NT): πραιτώριον (praitώrion) — Aramaic (Syriac): ܦܪܛܘܪܝܘܢ (prṭwrywn) — Latin: praetorium",
           "note": "Amtssitz des Statthalters (15,16)."
         }
-      ],
-      "keyTakeaway": "Pilatus verhört Jesus als „König der Juden“, lässt Barabbas, den Mörder, frei, lässt Jesus geißeln, und die Soldaten verspotten ihn und bereiten ihn auf die Kreuzigung vor."
+      ]
     },
     {
       "id": "mark-16",

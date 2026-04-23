@@ -54,6 +54,7 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             customThemeHue = getFloat("custom_theme_hue", 210f),
             showKeyTakeaway = getBool("show_key_takeaway", false),
             showCrossRefs = getBool("show_cross_refs", false),
+            showManuscriptVariants = getBool("show_manuscript_variants", false),
             showTranslationNotes = getBool("show_translation_notes", false),
             collapsedStoriesJson = getString("collapsed_stories_json") ?: "{}",
             autoContinueTts = getBool("auto_continue_tts", true),
@@ -140,6 +141,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     }
     actual suspend fun setShowCrossRefs(show: Boolean) {
         defaults.setBool(show, forKey = "show_cross_refs"); refresh()
+    }
+    actual suspend fun setShowManuscriptVariants(show: Boolean) {
+        defaults.setBool(show, forKey = "show_manuscript_variants"); refresh()
     }
     actual suspend fun setShowTranslationNotes(show: Boolean) {
         defaults.setBool(show, forKey = "show_translation_notes"); refresh()

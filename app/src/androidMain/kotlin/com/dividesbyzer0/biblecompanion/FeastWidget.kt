@@ -94,6 +94,7 @@ class FeastWidget : GlanceAppWidget() {
     val filteredFeasts = when (calType) {
       "H" -> feasts.filter { it.calendarType == FeastCalendarType.HEBREW }
       "E" -> feasts.filter { it.calendarType == FeastCalendarType.ESSENE }
+      "K" -> feasts.filter { it.calendarType == FeastCalendarType.KARAITE }
       else -> feasts
     }
 
@@ -174,14 +175,17 @@ class FeastWidget : GlanceAppWidget() {
           modifier = GlanceModifier.defaultWeight()
         )
         Box(
-          modifier = GlanceModifier.clickable(actionRunCallback<ToggleFeastCalTypeAction>()),
+          modifier = GlanceModifier
+            .clickable(actionRunCallback<ToggleFeastCalTypeAction>())
+            .padding(horizontal = 14.dp, vertical = 10.dp),
           contentAlignment = Alignment.Center
         ) {
           Text(
             text = when (calType) {
               "H" -> "\u2721 " + WidgetStrings.calHebrew()
               "E" -> "\u2609 " + WidgetStrings.calEssene()
-              else -> "\u2721/\u2609 " + WidgetStrings.calBoth()
+              "K" -> "\u263E " + WidgetStrings.calKaraite()
+              else -> "\u2721\u2609\u263E " + WidgetStrings.calAll()
             },
             style = TextStyle(
               fontSize = toggleFontSize,
@@ -243,6 +247,7 @@ class FeastWidget : GlanceAppWidget() {
       when (feast.calendarType) {
         FeastCalendarType.HEBREW -> " \u2721"
         FeastCalendarType.ESSENE -> " \u2609"
+        FeastCalendarType.KARAITE -> " \u263E"
       }
     } else ""
 
@@ -364,6 +369,7 @@ class ToggleFeastCalTypeAction : ActionCallback {
       prefs[FeastWidget.CAL_TYPE_KEY] = when (current) {
         "B" -> "H"
         "H" -> "E"
+        "E" -> "K"
         else -> "B"
       }
     }

@@ -12,6 +12,7 @@
         "Diesen Brief schreibt Paulus, der Jesus Christus dient und von ihm zum Apostel berufen worden ist. In Gottes Auftrag verkündet er die rettende Botschaft. (1:1).",
         "Gott hat sie in der Heiligen Schrift schon lange durch seine Propheten angekündigt. (1:2).",
         "Es ist die Botschaft von seinem Sohn Jesus Christus, unserem Herrn. Als Mensch aus Fleisch und Blut ist er ein Nachkomme von König David. Durch die Kraft des Heiligen Geistes wurde er von den Toten auferweckt; so bestätigte Gott ihn als seinen Sohn und verlieh ihm die Macht, die ihm gebührt. (1:3).",
+        "und erwiesen ist als Sohn Gottes in Kraft nach dem Geist der Heiligkeit durch die Auferstehung von den Toten, Jesus Christus, unseren Herrn, (1:4).",
         "Gott hat mir das Vorrecht geschenkt, sein Apostel zu sein und bei allen Völkern Menschen für Gott zu gewinnen. Sie sollen an ihn glauben und auf ihn hören, damit sein Name geehrt wird. (1:5).",
         "Auch euch hat Jesus Christus zum Glauben gerufen, ihr gehört jetzt zu ihm. (1:6).",
         "Diesen Brief schreibe ich an alle in Rom, die von Gott geliebt und dazu berufen sind, ganz zu ihm zu gehören. Ich wünsche euch Gnade und Frieden von Gott, unserem Vater, und von Jesus Christus, unserem Herrn. (1:7).",
@@ -197,6 +198,7 @@
       ],
       "summaryBullets": [
         "Ich möchte das jetzt noch deutlicher machen. Wodurch konnte Abraham, der Stammvater unseres jüdischen Volkes, vor Gott bestehen? Wegen seiner guten Taten? Damit hätte er zwar bei den Menschen Ruhm und Ansehen gewinnen können, nicht aber bei Gott. (4:1).",
+        "Wenn nämlich Abraham aus Werken gerechtfertigt worden ist, hat er zwar Ruhm, aber nicht vor Gott. (4:2).",
         "In der Heiligen Schrift heißt es: »Abraham setzte sein ganzes Vertrauen auf Gott, und so fand er Gottes Anerkennung.« (4:3).",
         "Es ist doch so: Wenn ich eine Arbeit leiste, habe ich Anspruch auf Lohn. Er ist kein Geschenk, sondern ich habe ihn mir verdient. (4:4).",
         "Aber bei Gott ist das anders. Bei ihm werde ich nichts erreichen, wenn ich mich auf meine Taten berufe. Nur wenn ich Gott vertraue, der den Gottlosen von seiner Schuld freispricht, kann ich vor ihm bestehen. (4:5).",
@@ -499,6 +501,7 @@
         "Denn das hatte Gott Abraham versprochen: »Nächstes Jahr um diese Zeit komme ich wieder zu euch, und dann wird Sara einen Sohn haben.« (9:9).",
         "Aber nicht nur Abrahams Frau Sara erging es so. Rebekka war von unserem Stammvater Isaak mit Zwillingen schwanger. (9:10).",
         "Noch ehe ihre Söhne Esau und Jakob geboren waren, das heißt, noch ehe sie etwas Gutes oder Böses getan haben konnten, hatte Gott zu ihr gesagt: »Der Ältere wird dem Jüngeren dienen.« Damit gab Gott ganz klar zu erkennen, dass seine Zusagen ausschließlich auf seinem Willen beruhen; sie sind also ein unverdientes Geschenk und nicht von den Leistungen des Menschen abhängig. (9:11).",
+        "wurde zu ihr gesagt: »Der Ältere wird dem Jüngeren dienen«; (9:12).",
         "So sagt Gott ausdrücklich: »Ich habe Jakob geliebt, aber Esau von mir gestoßen.« (9:13).",
         "Bedeutet das etwa, dass Gott ungerecht ist? Auf keinen Fall! (9:14).",
         "Denn Gott hat einmal zu Mose gesagt: »Ich erweise meine Gnade, wem ich will. Und über wen ich mich erbarmen will, über den werde ich mich erbarmen.« (9:15).",
@@ -891,15 +894,23 @@
         "Mein Mitarbeiter Timotheus und meine Landsleute Luzius, Jason und Sosipater schicken euch viele Grüße. (16:21).",
         "Auch ich, Tertius, möchte euch als meine Mitchristen herzlich grüßen. Paulus hat mir diesen Brief an euch diktiert. (16:22).",
         "Gajus lässt ebenfalls herzlich grüßen. Ich bin sein Gast, und die ganze Gemeinde trifft sich hier in seinem Haus . Erastus, der Stadtkämmerer, und unser Bruder Quartus schicken euch viele Grüße. (16:23).",
+        "Die Gnade unseres Herrn Jesus Christus sei mit euch allen! Amen. (16:24).",
         "Gott sei gelobt! Er gibt euch Kraft und Stärke durch die rettende Botschaft von Jesus Christus. Durch meine Predigt habt ihr davon gehört, und nun lässt diese Botschaft euch erkennen, was seit ewigen Zeiten verborgen war. (16:25).",
         "Schon die Propheten haben in den Heiligen Schriften davon gesprochen, und nach dem Willen des ewigen Gottes sollen nun Menschen aus allen Völkern die rettende Botschaft hören, Gott vertrauen und tun, was ihm gefällt. (16:26).",
         "Dem allein weisen Gott, den wir durch Jesus Christus kennen, ihm gebühren Lob und Ehre in alle Ewigkeit. Amen! (16:27)."
       ],
+      "keyTakeaway": "Paulus empfiehlt Phöbe, sendet viele persönliche Grüsse, warnt vor Spaltern und schliesst mit einem Lobpreis an Gott für die Offenbarung des Evangeliums an alle Völker.",
       "crossRefs": [
         "Apostelgeschichte 18,2 — Priska und Aquila in Korinth.",
         "Philipper 4,3 — Mitarbeiter, deren Namen im Buch des Lebens stehen.",
         "1. Mose 3,15 — Gott wird den Kopf der Schlange zertreten.",
         "Kolosser 1,26 — Geheimnis, seit ewigen Zeiten verborgen, jetzt aber offenbart."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "16:24",
+          "text": "Die Gnade unsers HERRN Jesus Christus sei mit euch allen! Amen."
+        }
       ],
       "translationNotes": [
         {
@@ -917,8 +928,7 @@
           "original": "Hebrew: רָז (sense) — Greek: μυστήριον (NT) — Aramaic: רָזָא",
           "note": "Bezieht sich hier auf das Evangelium, das in vergangenen Zeitaltern verborgen, jetzt aber durch Christus offenbart wurde."
         }
-      ],
-      "keyTakeaway": "Paulus empfiehlt Phöbe, sendet viele persönliche Grüsse, warnt vor Spaltern und schliesst mit einem Lobpreis an Gott für die Offenbarung des Evangeliums an alle Völker."
+      ]
     }
   ]
 }

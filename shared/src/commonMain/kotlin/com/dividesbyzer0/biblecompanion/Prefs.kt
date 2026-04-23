@@ -29,6 +29,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setCustomThemeHue(hue: Float)
     suspend fun setShowKeyTakeaway(show: Boolean)
     suspend fun setShowCrossRefs(show: Boolean)
+    suspend fun setShowManuscriptVariants(show: Boolean)
     suspend fun setShowTranslationNotes(show: Boolean)
     suspend fun setCollapsedStories(json: String)
     suspend fun setAutoContinueTts(enabled: Boolean)

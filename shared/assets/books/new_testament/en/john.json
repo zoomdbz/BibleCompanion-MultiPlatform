@@ -346,7 +346,6 @@
         "Afterward Jesus returned to Jerusalem for one of the Jewish holy days. (5:1).",
         "Inside the city, near the Sheep Gate, was the pool of Bethesda, with five covered porches. (5:2).",
         "Crowds of sick people—blind, lame, or paralyzed—lay on the porches. (5:3).",
-        "[Some manuscripts include:] From time to time an angel of the Lord would come down and stir up the waters. The first one into the pool after each such disturbance would be cured of whatever disease they had. (5:4).",
         "One of the men lying there had been sick for thirty-eight years. (5:5).",
         "When Jesus saw him and knew he had been ill for a long time, he asked him, “Would you like to get well?” (5:6).",
         "“I can’t, sir,” the sick man said, “for I have no one to put me into the pool when the water bubbles up. Someone else always gets there ahead of me.” (5:7).",
@@ -391,10 +390,17 @@
         "If you really believed Moses, you would believe me, because he wrote about me. (5:46).",
         "But since you don’t believe what he wrote, how will you believe what I say?” (5:47)."
       ],
+      "keyTakeaway": "In Jerusalem, Jesus heals a man ill for thirty-eight years on the Sabbath; controversy follows after he tells the man to carry his bed and says, “My Father is working… and I am working.”",
       "crossRefs": [
         "Exodus 20:8–11 — Sabbath command.",
         "Isaiah 35:6 — Lame leaping (healing imagery).",
         "John 7:21–23 — Jesus refers again to healing on the Sabbath."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "5:4",
+          "text": "From time to time an angel of the Lord would come down and stir up the waters. The first one into the pool after each such disturbance would be cured of whatever disease they had."
+        }
       ],
       "translationNotes": [
         {
@@ -412,8 +418,7 @@
           "original": "Hebrew: שַׁבָּת (šabāt) — Greek (NT): σάββατον (sάbbaton) — Aramaic (Syriac): ܫܒܬܐ (šbtʾ)",
           "note": "Seventh-day rest; setting for the healing and controversy (5:9–10, 16)."
         }
-      ],
-      "keyTakeaway": "In Jerusalem, Jesus heals a man ill for thirty-eight years on the Sabbath; controversy follows after he tells the man to carry his bed and says, “My Father is working… and I am working.”"
+      ]
     },
     {
       "id": "john-6",

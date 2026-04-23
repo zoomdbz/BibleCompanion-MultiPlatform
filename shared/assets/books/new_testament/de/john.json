@@ -248,6 +248,7 @@
       ],
       "summaryBullets": [
         "Den Pharisäern war zu Ohren gekommen, dass Jesus noch mehr Nachfolger gewann und taufte als Johannes – obwohl er nicht einmal selbst taufte, sondern nur seine Jünger. Als Jesus das erfuhr, (4:1).",
+        "— obwohl Jesus nicht selbst taufte, sondern seine Jünger —, (4:2).",
         "verließ er Judäa und kehrte nach Galiläa zurück. (4:3).",
         "Sein Weg führte ihn auch durch Samarien, (4:4).",
         "unter anderem nach Sychar. Dieser Ort liegt in der Nähe des Feldes, das Jakob seinem Sohn Josef geschenkt hatte. (4:5).",
@@ -345,6 +346,7 @@
         "Bald darauf wurde eines der jüdischen Feste gefeiert, und auch Jesus ging dazu nach Jerusalem. (5:1).",
         "In der Stadt befindet sich nicht weit vom Schaftor entfernt der Teich Betesda, wie er auf Hebräisch genannt wird. Er ist von fünf Säulenhallen umgeben. (5:2).",
         "Viele Kranke lagen in diesen Hallen – Blinde, Gelähmte und Verkrüppelte . (5:3).",
+        "Denn ein Engel stieg zu gewissen Zeiten in den Teich hinab und bewegte das Wasser. Wer nun nach der Bewegung des Wassers zuerst hineinstieg, der wurde gesund, mit welcher Krankheit er auch geplagt war. (5:4).",
         "Einer von den Menschen, die dort lagen, war schon seit 38 Jahren krank. (5:5).",
         "Als Jesus ihn sah und erfuhr, dass er schon so lange an seiner Krankheit litt, fragte er ihn: »Willst du gesund werden?« (5:6).",
         "»Ach, Herr«, entgegnete der Kranke, »ich habe niemanden, der mir in den Teich hilft, wenn sich das Wasser bewegt. Versuche ich es aber allein, ist immer ein anderer schneller als ich.« (5:7).",
@@ -389,10 +391,17 @@
         "Denn in Wirklichkeit glaubt ihr Mose gar nicht; sonst würdet ihr auch mir glauben. Schließlich hat doch Mose von mir geschrieben. (5:46).",
         "Wenn ihr aber nicht einmal glaubt, was er geschrieben hat, wie könnt ihr dann glauben, was ich euch sage?« (5:47)."
       ],
+      "keyTakeaway": "In Jerusalem heilt Jesus am Sabbat einen Mann, der achtunddreissig Jahre krank war; es entsteht Streit, nachdem er dem Mann sagt, sein Bett zu tragen, und erklärt: „Mein Vater wirkt… und ich wirke.“",
       "crossRefs": [
         "2. Mose 20,8–11 — Sabbatgebot.",
         "Jesaja 35,6 — Der Lahme springt (Heilungsbilder).",
         "Johannes 7,21–23 — Jesus verweist erneut auf die Heilung am Sabbat."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "5:4",
+          "text": "(Denn ein Engel fuhr herab zu seiner Zeit in den Teich und bewegte das Wasser.) Welcher nun zuerst, nachdem das Wasser bewegt war, hineinstieg, der ward gesund, mit welcherlei Seuche er behaftet war."
+        }
       ],
       "translationNotes": [
         {
@@ -410,8 +419,7 @@
           "original": "Hebrew: שַׁבָּת (šabāt) — Greek (NT): σάββατον (sάbbaton) — Aramaic (Syriac): ܫܒܬܐ (šbtʾ)",
           "note": "Siebter Ruhetag; Schauplatz der Heilung und des Streits (5,9–10, 16)."
         }
-      ],
-      "keyTakeaway": "In Jerusalem heilt Jesus am Sabbat einen Mann, der achtunddreissig Jahre krank war; es entsteht Streit, nachdem er dem Mann sagt, sein Bett zu tragen, und erklärt: „Mein Vater wirkt… und ich wirke.“"
+      ]
     },
     {
       "id": "john-6",

@@ -403,6 +403,7 @@
         "D’autres disent : « C’est un prophète , comme un des prophètes d’autrefois. » (6:15).",
         "Quand Hérode entend cela, il dit : « C’est Jean-Baptiste ! Je lui ai fait couper la tête, mais il s’est réveillé de la mort ! » (6:16).",
         "Voici l’histoire de la mort de Jean-Baptiste. Hérode Antipas a pris pour femme Hérodiade, la femme de son frère Philippe. Jean dit à Hérode : « Tu n’as pas le droit de prendre la femme de ton frère. » Alors Hérode lui-même commande d’arrêter Jean, il le fait attacher et mettre en prison. (6:17).",
+        "en effet, Jean disait à Hérode : Il ne t'est pas permis d'avoir la femme de ton frère. (6:18).",
         "Hérodiade déteste Jean et elle veut le faire mourir. Mais elle n’y arrive pas, (6:19).",
         "parce qu’Hérode respecte Jean. Il sait que c’est un homme juste et saint , et il le protège. Quand Hérode écoute Jean, il ne sait plus ce qu’il faut penser. Pourtant, il aime bien l’écouter. (6:20).",
         "Mais un jour, Hérodiade trouve une bonne occasion pour faire mourir Jean. C’est l’anniversaire d’Hérode et celui-ci donne un grand repas. Il invite les notables, les chefs de l’armée et les gens importants de Galilée. (6:21).",
@@ -498,6 +499,7 @@
         "Tout ce mal sort de l’intérieur d’une personne et la rend impure. » (7:23).",
         "Ensuite, Jésus quitte cet endroit et il va dans la région de Tyr. Il entre dans une maison et il ne veut pas qu’on sache qu’il est là, mais les gens l’apprennent. (7:24).",
         "En effet, une femme entend parler de Jésus. Cette femme n’est pas juive, elle est née en Syrie, dans la région de Phénicie. Sa fille a un esprit mauvais en elle. La mère vient aussitôt se jeter aux pieds de Jésus et elle lui dit : « Je t’en prie, chasse l’esprit mauvais de ma fille ! » (7:25).",
+        "Cette femme était grecque, d'origine syro-phénicienne. Elle lui demandait de chasser le démon de sa fille. (7:26).",
         "Jésus lui dit : « Laisse d’abord les enfants manger leur part. Ce n’est pas bien de prendre la nourriture des enfants et de la jeter aux petits chiens. » (7:27).",
         "La femme lui répond : « Seigneur, pourtant même les petits chiens mangent les miettes que les enfants laissent tomber sous la table. » (7:28).",
         "Jésus lui dit : « À cause de cette parole, l’esprit mauvais est sorti de ta fille, tu peux rentrer chez toi. » (7:29).",
@@ -510,10 +512,17 @@
         "Jésus donne cet ordre aux gens : « Ne dites rien à personne ! » Mais chaque fois qu’il leur commande cela, les gens racontent encore plus ce que Jésus a fait. (7:36).",
         "Ils sont profondément étonnés et ils disent : « Tout ce qu’il fait est vraiment bien ! Il fait entendre les sourds et il fait parler les muets ! » (7:37)."
       ],
+      "keyTakeaway": "Jésus confronte les traditions qui annulent le commandement de Dieu, cite le Corban comme exemple, et déclare que la souillure vient du cœur, non de la nourriture qui entre dans le corps.",
       "crossRefs": [
         "Ésaïe 29:13 — \"Ce peuple s'approche de moi de la bouche... mais son cœur est éloigné de moi.\"",
         "Exode 20:12 ; Deutéronome 5:16 — Honore ton père et ta mère.",
         "Actes 10:14-15 — La question des aliments purs et impurs abordée dans une vision ultérieure."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "7:16",
+          "text": "Si quelqu'un a des oreilles pour entendre, qu'il entende"
+        }
       ],
       "translationNotes": [
         {
@@ -536,8 +545,7 @@
           "original": "Hebrew: לְטַמֵּא / לְחלֵּל (context) — Greek (NT): κοινοῦν (koinoῦn) — Aramaic (Syriac): ܡܢܟܦ (mnkp)",
           "note": "Verbe désignant le fait de rendre rituellement impur/commun (7:15-23)."
         }
-      ],
-      "keyTakeaway": "Jésus confronte les traditions qui annulent le commandement de Dieu, cite le Corban comme exemple, et déclare que la souillure vient du cœur, non de la nourriture qui entre dans le corps."
+      ]
     },
     {
       "id": "mark-8",
@@ -667,11 +675,22 @@
         "Tout le monde passera par le feu de la souffrance et recevra du sel pour devenir pur . (9:49).",
         "Le sel est une bonne chose. Mais quand le sel perd son goût, comment lui rendre son bon goût ? Ayez du sel en vous-mêmes et vivez en paix les uns avec les autres. » (9:50)."
       ],
+      "keyTakeaway": "Trois disciples voient Jésus transfiguré avec Moïse et Élie ; une voix l'identifie comme le Fils bien-aimé. Jésus ordonne le silence jusqu'après la résurrection et répond à la question sur Élie.",
       "crossRefs": [
         "Exode 24:15-18 ; 34:29-35 — Montagne et rayonnement.",
         "1 Rois 19:8-18 — Élie à Horeb.",
         "Malachie 4:5-6 — Élie avant le grand jour.",
         "Matthieu 17:1-13 ; Luc 9:28-36 — Parallèles."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "9:44",
+          "text": "là où leur ver ne meurt pas et où le feu ne s'éteint pas"
+        },
+        {
+          "ref": "9:46",
+          "text": "dans le feu qui ne s'éteint pas, (46) là où leur ver ne meurt pas et où le feu ne s'éteint pas"
+        }
       ],
       "translationNotes": [
         {
@@ -684,8 +703,7 @@
           "original": "Hebrew: בְּנִי הָאֱהוּב (bəniy hāʾĕhwb) — Greek (NT): ὁ υἱός μου ὁ ἀγαπητός (ὁ yἱόs mou ὁ ἀgapētόs) — Aramaic (Syriac): ܒܪܝ ܚܒܝܒܐ (bry ḥbybʾ)",
           "note": "La voix céleste identifie Jésus (9:7)."
         }
-      ],
-      "keyTakeaway": "Trois disciples voient Jésus transfiguré avec Moïse et Élie ; une voix l'identifie comme le Fils bien-aimé. Jésus ordonne le silence jusqu'après la résurrection et répond à la question sur Élie."
+      ]
     },
     {
       "id": "mark-10",
@@ -807,10 +825,17 @@
         "Mais si nous répondons : “Ce sont les hommes”, alors… » Ils ont peur de la foule. En effet, tout le monde pense que Jean était vraiment un prophète . (11:32).",
         "C’est pourquoi ils répondent à Jésus : « Nous ne savons pas. » Et Jésus leur dit : « Moi non plus, je ne vous dis pas de quel droit je fais ces choses. » (11:33)."
       ],
+      "keyTakeaway": "Jésus entre à Jérusalem sur un ânon tandis que les foules étendent des vêtements et des branches et crient \"Hosanna\", puis il observe le temple et se retire à Béthanie.",
       "crossRefs": [
         "Zacharie 9:9 — Roi humble sur un ânon.",
         "Psaume 118:25-26 — \"Hosanna... Béni soit celui qui vient au nom de l'Éternel.\"",
         "Matthieu 21:1-11 ; Luc 19:28-40 ; Jean 12:12-15 — Parallèles."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "11:26",
+          "text": "Mais si vous ne pardonnez pas, votre Père qui est dans les cieux ne vous pardonnera pas non plus vos fautes"
+        }
       ],
       "translationNotes": [
         {
@@ -828,8 +853,7 @@
           "original": "Hebrew: לַאדֹנָי צֹרֶךְ־בּוֹ (laʾdōnāy ṣōrekə-bwō, sense) — Greek (NT): ὁ κύριος αὐτοῦ χρείαν ἔχει (ὁ kύrios aὐtoῦ chreίan ἔchei) — Aramaic (Syriac): ܠܡܪܝܐ ܡܬܒܥܐ ܒܗ (lmryʾ mtbʿʾ bh)",
           "note": "Instruction pour expliquer pourquoi l'ânon est pris (11:3)."
         }
-      ],
-      "keyTakeaway": "Jésus entre à Jérusalem sur un ânon tandis que les foules étendent des vêtements et des branches et crient \"Hosanna\", puis il observe le temple et se retire à Béthanie."
+      ]
     },
     {
       "id": "mark-12",
@@ -1130,10 +1154,17 @@
         "Joseph achète un drap. Il descend le corps de la croix, il l’enveloppe dans le drap et le met dans une tombe creusée dans le rocher. Ensuite, il roule une grosse pierre pour fermer l’entrée de la tombe. (15:46).",
         "Marie de Magdala et Marie, mère de José, regardent l’endroit où on met Jésus. (15:47)."
       ],
+      "keyTakeaway": "Pilate interroge Jésus en tant que 'roi des Juifs', relâche Barabbas le meurtrier, fait flageller Jésus, et les soldats se moquent de lui et le préparent pour la crucifixion.",
       "crossRefs": [
         "Ésaïe 53:7 — Silencieux devant ses accusateurs.",
         "Luc 23:18-25 ; Matthieu 27:15-31 ; Jean 18:28-19:16 — Parallèles.",
         "Psaume 22:7 — Imagerie de la moquerie."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:28",
+          "text": "Ainsi fut accomplie l'Ecriture qui dit : Il a même été compté avec les sans-loi Es 53.12"
+        }
       ],
       "translationNotes": [
         {
@@ -1151,8 +1182,7 @@
           "original": "Greek (NT): πραιτώριον (praitώrion) — Aramaic (Syriac): ܦܪܛܘܪܝܘܢ (prṭwrywn) — Latin: praetorium",
           "note": "Quartier général du gouverneur (15:16)."
         }
-      ],
-      "keyTakeaway": "Pilate interroge Jésus en tant que 'roi des Juifs', relâche Barabbas le meurtrier, fait flageller Jésus, et les soldats se moquent de lui et le préparent pour la crucifixion."
+      ]
     },
     {
       "id": "mark-16",

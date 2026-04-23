@@ -9,12 +9,14 @@ enum CalendarTypeOption: String, CaseIterable {
     case both = "B"
     case hebrew = "H"
     case essene = "E"
+    case karaite = "K"
 
     var label: String {
         switch self {
-        case .both: return "\u{2721}/\u{2609} " + WidgetStrings.shared.calBoth()
+        case .both: return "\u{2721}\u{2609}\u{263E} " + WidgetStrings.shared.calAll()
         case .hebrew: return "\u{2721} " + WidgetStrings.shared.calHebrew()
         case .essene: return "\u{2609} " + WidgetStrings.shared.calEssene()
+        case .karaite: return "\u{263E} " + WidgetStrings.shared.calKaraite()
         }
     }
 
@@ -22,7 +24,8 @@ enum CalendarTypeOption: String, CaseIterable {
         switch self {
         case .both: return .hebrew
         case .hebrew: return .essene
-        case .essene: return .both
+        case .essene: return .karaite
+        case .karaite: return .both
         }
     }
 }
@@ -148,18 +151,23 @@ struct CalendarGridWidgetView: View {
     @ViewBuilder
     private func legendRow(fontSize: CGFloat, dotSize: CGFloat) -> some View {
         HStack(spacing: 3) {
-            if calType != .essene {
+            if calType == .hebrew || calType == .both {
                 Circle().fill(springColor).frame(width: dotSize, height: dotSize)
                 Text(WidgetStrings.shared.calHebrew())
                     .font(.system(size: fontSize))
                     .foregroundColor(.secondary)
             }
-            if calType == .both {
-                Spacer().frame(width: 6)
-            }
-            if calType != .hebrew {
+            if calType == .both { Spacer().frame(width: 6) }
+            if calType == .essene || calType == .both {
                 Circle().fill(Color.purple).frame(width: dotSize, height: dotSize)
                 Text(WidgetStrings.shared.calEssene())
+                    .font(.system(size: fontSize))
+                    .foregroundColor(.secondary)
+            }
+            if calType == .both { Spacer().frame(width: 6) }
+            if calType == .karaite || calType == .both {
+                Circle().fill(Color.blue).frame(width: dotSize, height: dotSize)
+                Text(WidgetStrings.shared.calKaraite())
                     .font(.system(size: fontSize))
                     .foregroundColor(.secondary)
             }
@@ -178,7 +186,9 @@ struct CalendarGridWidgetView: View {
     private func feastBgColor(_ feasts: [FeastMarkerW]) -> Color {
         let hasH = feasts.contains { $0.calendar == .hebrew }
         let hasE = feasts.contains { $0.calendar == .essene }
-        if hasH && hasE { return Color.orange.opacity(0.15) }
+        let hasK = feasts.contains { $0.calendar == .karaite }
+        let multi = (hasH || hasK) && hasE
+        if multi { return Color.orange.opacity(0.15) }
         let spring = feasts.contains { $0.isSpring }
         return spring ? springColor.opacity(0.2) : fallColor.opacity(0.2)
     }
@@ -274,6 +284,7 @@ struct CalendarGridWidgetView: View {
             if let f = feasts {
                 let hasH = f.contains { $0.calendar == .hebrew }
                 let hasE = f.contains { $0.calendar == .essene }
+                let hasK = f.contains { $0.calendar == .karaite }
                 let spring = f.contains { $0.isSpring }
                 HStack(spacing: 2) {
                     if hasH {
@@ -284,6 +295,11 @@ struct CalendarGridWidgetView: View {
                     if hasE {
                         Circle()
                             .fill(Color.purple)
+                            .frame(width: dotSize, height: dotSize)
+                    }
+                    if hasK {
+                        Circle()
+                            .fill(Color.blue)
                             .frame(width: dotSize, height: dotSize)
                     }
                 }
@@ -310,6 +326,7 @@ struct CalendarGridWidgetView: View {
         switch calType {
         case .hebrew: filtered = feasts.filter { $0.calendar == .hebrew }
         case .essene: filtered = feasts.filter { $0.calendar == .essene }
+        case .karaite: filtered = feasts.filter { $0.calendar == .karaite }
         case .both: filtered = feasts
         }
         return filtered.isEmpty ? nil : filtered

@@ -21,6 +21,11 @@ kotlin {
       implementation("androidx.activity:activity-compose:1.9.2")
       implementation("androidx.appcompat:appcompat:1.7.0")
       implementation("androidx.core:core-ktx:1.13.1")
+      // Force a Material version past the deprecated Window.setStatusBarColor /
+      // setNavigationBarColor calls flagged by Play Console against v1.1.6.
+      // Pulled in transitively by appcompat; this pin overrides the older
+      // 1.12.x that triggers the warning.
+      implementation("com.google.android.material:material:1.13.0-alpha13")
       implementation("androidx.glance:glance-appwidget:1.1.1")
       implementation("androidx.glance:glance-material3:1.1.1")
       implementation("androidx.datastore:datastore-preferences:1.1.1")

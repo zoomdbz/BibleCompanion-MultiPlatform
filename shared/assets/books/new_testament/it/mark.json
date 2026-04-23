@@ -318,6 +318,7 @@
         "Se ne andava di qua e di là, in mezzo alle tombe e sui monti, di giorno e di notte, urlando e picchiandosi con le pietre. (5:5).",
         "Quando vide Gesù da lontano, si avvicinò di corsa e si buttò in ginocchio davanti a lui. (5:6).",
         "Allora Gesù disse allo spirito maligno di uscire da quell’uomo; ma quello si mise a gridare forte: — Che vuoi da me, Gesù, *Figlio del Dio Onnipotente? Ti scongiuro, in nome di Dio, non tormentarmi! (5:7).",
+        "Gesù, infatti, gli diceva: «Spirito immondo, esci da quest’uomo!» (5:8).",
         "Allora Gesù domandò: — Come ti chiami? E quello rispose: — Il mio nome è «Moltitudine», perché siamo in molti; (5:9).",
         "e continuava a chiedergli di non cacciarli fuori da quella regione. (5:10).",
         "In quel luogo c’era un grosso branco di 14,8). maiali che pascolava vicino alla montagna. (5:11).",
@@ -337,6 +338,7 @@
         "C’era là anche una donna che già da dodici anni aveva continue perdite di sangue. (5:25).",
         "Si era fatta curare da molti medici che l’avevano fatta soffrire parecchio e le avevano fatto spendere tutti i suoi soldi, ma senza risultato. Anzi, stava sempre peggio. (5:26).",
         "Questa donna aveva sentito parlare di Gesù e aveva pensato: «Se riesco anche solo a toccare il suo mantello, sarò guarita». Si mise in mezzo alla folla, dietro a Gesù, e arrivò a toccare il suo mantello. (5:27).",
+        "«Se riesco a toccare almeno le sue vesti, sarò salva». (5:28).",
         "Subito la perdita di sangue si fermò, ed essa si sentì guarita dal suo male. (5:29).",
         "In quell’istante Gesù si accorse che una forza era uscita da lui. Si voltò verso la folla e disse: — Chi ha toccato il mio mantello? (5:30).",
         "I discepoli gli risposero: — Vedi bene che la gente ti stringe da ogni parte. Come puoi dire: chi mi ha toccato? (5:31).",
@@ -483,6 +485,7 @@
         "Poi Gesù aggiunse: «Siete molto abili nel mettere da parte i comandamenti di Dio per difendere la vostra tradizione. (7:9).",
         "«Per esempio, Mosè ha detto: Onora tuo padre e tua madre, e poi: Chi parla male di suo padre o di sua madre deve essere condannato a morte. (7:10).",
         "Voi invece insegnate che uno non ha più il dovere di aiutare suo padre e sua madre, se dice loro che sono korbàn, cioè doni offerti a Dio, quei beni che doveva usare per loro. (7:11).",
+        "non gli lasciate più far niente per suo padre o sua madre, (7:12).",
         "«Così, per mezzo della tradizione che voi insegnate, fate diventare inutile la parola di Dio. E di cose come queste, ne fate molte». (7:13).",
         "Poi Gesù chiamò di nuovo la folla e disse: «Ascoltatemi tutti e cercate di capire! (7:14).",
         "Niente di ciò che entra nell’uomo dall’esterno può farlo diventare *impuro . Piuttosto, è ciò che esce dall’uomo che può renderlo impuro». [ (7:15).",
@@ -509,10 +512,17 @@
         "Gesù ordinò di non dire nulla a nessuno, ma più comandava di tacere, più la gente ne parlava pubblicamente. (7:36).",
         "Tutti erano molto meravigliati e dicevano: «È straordinario! Fa sentire i sordi e fa parlare i muti!». (7:37)."
       ],
+      "keyTakeaway": "Gesu affronta le tradizioni che annullano il comandamento di Dio, cita il Corban come esempio, e afferma che la contaminazione viene dal cuore, non dal cibo che entra nel corpo.",
       "crossRefs": [
         "Isaia 29:13 — \"Questo popolo si avvicina con la bocca... ma il suo cuore e lontano da me.\"",
         "Esodo 20:12; Deuteronomio 5:16 — Onora padre e madre.",
         "Atti 10:14-15 — Alimenti puri/impuri affrontati in una visione successiva."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "7:16",
+          "text": "Se alcuno ha orecchie da udire, oda."
+        }
       ],
       "translationNotes": [
         {
@@ -535,8 +545,7 @@
           "original": "Hebrew: לְטַמֵּא / לְחלֵּל (context) — Greek (NT): κοινοῦν (koinoῦn) — Aramaic (Syriac): ܡܢܟܦ (mnkp)",
           "note": "Verbo usato per rendere ritualmente impuro/comune (7:15-23)."
         }
-      ],
-      "keyTakeaway": "Gesu affronta le tradizioni che annullano il comandamento di Dio, cita il Corban come esempio, e afferma che la contaminazione viene dal cuore, non dal cibo che entra nel corpo."
+      ]
     },
     {
       "id": "mark-8",
@@ -666,11 +675,22 @@
         "18,19). «Chi non avrà sale in se stesso finirà nel fuoco. (9:49).",
         "Il sale è una cosa buona, ma se il sale perde il suo sapore come potete ridarglielo? Cercate di avere sale in voi stessi, e vivete in pace tra voi!». (9:50)."
       ],
+      "keyTakeaway": "Tre discepoli vedono Gesu trasfigurato con Mose ed Elia; una voce lo identifica come il Figlio diletto. Gesu ordina il silenzio fino alla risurrezione dai morti e risponde alla questione su Elia.",
       "crossRefs": [
         "Esodo 24:15-18; 34:29-35 — Montagna e splendore.",
         "1 Re 19:8-18 — Elia all'Oreb.",
         "Malachia 4:5-6 — Elia prima del grande giorno.",
         "Matteo 17:1-13; Luca 9:28-36 — Paralleli."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "9:44",
+          "text": "ove il verme loro non muore, e il fuoco non si spegne ."
+        },
+        {
+          "ref": "9:46",
+          "text": "ove il verme loro non muore, e il fuoco non si spegne."
+        }
       ],
       "translationNotes": [
         {
@@ -683,8 +703,7 @@
           "original": "Hebrew: בְּנִי הָאֱהוּב (bəniy hāʾĕhwb) — Greek (NT): ὁ υἱός μου ὁ ἀγαπητός (ὁ yἱόs mou ὁ ἀgapētόs) — Aramaic (Syriac): ܒܪܝ ܚܒܝܒܐ (bry ḥbybʾ)",
           "note": "La voce celeste identifica Gesu (9:7)."
         }
-      ],
-      "keyTakeaway": "Tre discepoli vedono Gesu trasfigurato con Mose ed Elia; una voce lo identifica come il Figlio diletto. Gesu ordina il silenzio fino alla risurrezione dai morti e risponde alla questione su Elia."
+      ]
     },
     {
       "id": "mark-10",
@@ -806,10 +825,17 @@
         "Ma come possiamo dire che è stato mandato dagli uomini?». Il fatto è che essi avevano paura della folla perché tutti consideravano Giovanni un *profeta . (11:32).",
         "Perciò risposero: — Non lo sappiamo. E Gesù disse loro: — Ebbene, allora neppure io vi dirò con quale autorità faccio queste cose. (11:33)."
       ],
+      "keyTakeaway": "Gesu entra a Gerusalemme su un puledro mentre la folla stende mantelli e rami e grida \"Osanna\", poi osserva il tempio e si ritira a Betania.",
       "crossRefs": [
         "Zaccaria 9:9 — Re umile su un puledro.",
         "Salmo 118:25-26 — \"Osanna... Benedetto colui che viene nel nome del Signore.\"",
         "Matteo 21:1-11; Luca 19:28-40; Giovanni 12:12-15 — Paralleli."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "11:26",
+          "text": "Ma, se voi non perdonate, il Padre vostro ch' è ne' cieli non vi perdonerà i vostri falli."
+        }
       ],
       "translationNotes": [
         {
@@ -827,8 +853,7 @@
           "original": "Hebrew: לַאדֹנָי צֹרֶךְ־בּוֹ (laʾdōnāy ṣōrekə-bwō, sense) — Greek (NT): ὁ κύριος αὐτοῦ χρείαν ἔχει (ὁ kύrios aὐtoῦ chreίan ἔchei) — Aramaic (Syriac): ܠܡܪܝܐ ܡܬܒܥܐ ܒܗ (lmryʾ mtbʿʾ bh)",
           "note": "Istruzione per spiegare il prelievo del puledro (11:3)."
         }
-      ],
-      "keyTakeaway": "Gesu entra a Gerusalemme su un puledro mentre la folla stende mantelli e rami e grida \"Osanna\", poi osserva il tempio e si ritira a Betania."
+      ]
     },
     {
       "id": "mark-12",
@@ -1043,6 +1068,7 @@
         "Avete sentito le sue bestemmie. Qual è il vostro parere?». E tutti decisero che Gesù doveva essere condannato a morte. (14:64).",
         "Alcuni dei presenti cominciarono a sputargli addosso. Gli coprivano la faccia, poi gli davano pugni e gli dicevano: «Indovina chi è stato!». Anche le guardie lo prendevano a schiaffi. (14:65).",
         "Pietro intanto era ancora giù nel cortile a scaldarsi. A un certo punto passò di là una serva del sommo sacerdote, lo vide, lo osservò bene e disse: — Anche tu stavi con quell’uomo di Nàzaret, con Gesù. (14:66).",
+        "e, veduto Pietro che si scaldava, lo guardò bene e disse: «Anche tu eri con Gesù Nazareno». (14:67).",
         "Ma Pietro negò e disse: — Non so proprio che cosa vuoi dire, non ti capisco. Poi se ne andò fuori del cortile, nell’ingresso; e intanto il gallo cantò. (14:68).",
         "Quella serva lo vide e di nuovo cominciò a dire alle persone vicine: — Anche lui è uno di quelli! (14:69).",
         "Ma Pietro negò di nuovo. Poco dopo, alcuni dei presenti gli dissero ancora: — Certamente tu sei uno di quelli, perché vieni dalla Galilea. (14:70).",
@@ -1128,10 +1154,17 @@
         "Allora Giuseppe comprò un lenzuolo, tolse Gesù dalla croce, lo avvolse nel lenzuolo e lo mise in una tomba scavata nella roccia. Poi fece rotolare una grossa pietra davanti alla porta della tomba. (15:46).",
         "Intanto due delle donne, Maria Maddalena e Maria madre di Ioses, stavano a guardare dove mettevano il corpo di Gesù. (15:47)."
       ],
+      "keyTakeaway": "Pilato interroga Gesu come 're dei Giudei', rilascia Barabba l'omicida, fa flagellare Gesu, e i soldati lo scherniscono e lo preparano per la crocifissione.",
       "crossRefs": [
         "Isaia 53:7 — Silenzioso davanti agli accusatori.",
         "Luca 23:18-25; Matteo 27:15-31; Giovanni 18:28-19:16 — Paralleli.",
         "Salmo 22:7 — Immaginario dello scherno."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:28",
+          "text": "E si adempiè la scrittura che dice: Ed egli è stato annoverato fra i malfattori ."
+        }
       ],
       "translationNotes": [
         {
@@ -1149,8 +1182,7 @@
           "original": "Greek (NT): πραιτώριον (praitώrion) — Aramaic (Syriac): ܦܪܛܘܪܝܘܢ (prṭwrywn) — Latin: praetorium",
           "note": "Quartier generale del governatore (15:16)."
         }
-      ],
-      "keyTakeaway": "Pilato interroga Gesu come 're dei Giudei', rilascia Barabba l'omicida, fa flagellare Gesu, e i soldati lo scherniscono e lo preparano per la crocifissione."
+      ]
     },
     {
       "id": "mark-16",
@@ -1169,6 +1201,7 @@
         "Le donne uscirono dalla tomba e scapparono via di corsa, tremanti di paura. E non dissero niente a nessuno perché avevano paura. (16:8).",
         "Dopo essere risuscitato, la mattina presto Gesù apparve prima a Maria Maddalena (quella donna dalla quale aveva cacciato i sette spiriti maligni). (16:9).",
         "Allora Maria andò dai *discepoli , che erano tristi e piangevano, e portò la notizia che Gesù era vivo e lei lo aveva visto! Ma essi non le credettero. (16:10).",
+        "Essi, udito che egli viveva ed era stato visto da lei, non credettero. (16:11).",
         "Più tardi, Gesù apparve in modo diverso a due discepoli che erano in cammino verso la campagna. (16:12).",
         "Anch’essi tornarono indietro e annunziarono il fatto agli altri. Ma non credettero neanche a loro. (16:13).",
         "Alla fine Gesù apparve agli undici discepoli mentre erano a tavola. Li rimproverò perché avevano avuto poca fede e si ostinavano a non credere a quelli che lo avevano visto risuscitato. (16:14).",

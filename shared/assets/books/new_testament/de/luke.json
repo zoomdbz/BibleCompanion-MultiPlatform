@@ -985,6 +985,7 @@
         "Verkauft euren Besitz und gebt das Geld den Armen! Sammelt euch auf diese Weise einen Vorrat, der nicht alt wird und niemals zu Ende geht – einen Schatz im Himmel. Diesen Schatz kann kein Dieb stehlen und keine Motte zerfressen. (12:33).",
         "Wo nämlich euer Schatz ist, da wird auch euer Herz sein.« (12:34).",
         "»Ihr sollt so leben wie Diener, die darauf warten, dass ihr Herr von einer Hochzeit zurückkommt. Seid wie sie dienstbereit und achtet darauf, dass eure Lampen brennen. Wenn ihr Herr zurückkommt und klopft, können sie ihm schnell öffnen. (12:35).",
+        "und seid Menschen gleich, die ihren Herrn erwarten, wenn er von der Hochzeit aufbrechen wird, damit, wenn er kommt und anklopft, sie ihm sogleich auftun. (12:36).",
         "Ja, glücklich schätzen können sich alle, die der Herr bei seiner Rückkehr wach und dienstbereit antrifft! Ich versichere euch: Der Herr wird sie bitten, am Tisch Platz zu nehmen, und er selbst wird sich eine Schürze umbinden und sie bedienen. (12:37).",
         "Vielleicht kommt er erst gegen Mitternacht oder sogar noch später. Aber wenn er kommt und seine Diener bereit antrifft, werden sie allen Grund zur Freude haben. (12:38).",
         "Eins ist euch doch klar: Wenn der Hausherr wüsste, wann ein Dieb bei ihm einbrechen will, würde er sich vor dem Einbrecher schützen. (12:39).",
@@ -1336,12 +1337,20 @@
         "Wer sich an sein Leben klammert, der wird es verlieren. Wer aber sein Leben aufgibt, der wird es für immer bewahren.« (17:33).",
         "»Ich sage euch: Zwei schlafen in jener Nacht in einem Bett; einer wird angenommen, und der andere bleibt zurück. (17:34).",
         "Zwei Frauen werden gemeinsam Getreide mahlen; die eine wird angenommen, und die andere bleibt zurück. « (17:35).",
+        "Zwei werden auf dem Feld sein; der eine wird genommen und der andere zurückgelassen werden. (17:36).",
         "»Herr, wo wird sich das ereignen?«, fragten die Jünger. Da antwortete ihnen Jesus: »Das werdet ihr schon sehen. Auch die Geier erkennen, wo ein verendetes Tier liegt, und sammeln sich dort.« (17:37)."
       ],
+      "keyTakeaway": "Jesus warnt davor, andere zum Straucheln zu bringen, gebietet wiederholte Vergebung bei Umkehr, spricht über die Wirkung des Glaubens und gibt ein Gleichnis über Knechte und Pflicht.",
       "crossRefs": [
         "Matthäus 18,6–7.21–22 — Stolpersteine und wiederholte Vergebung.",
         "Markus 4,31 — Bild vom Senfkorn an anderer Stelle.",
         "3. Mose 19,17–18 — Zurechtweisung und kein Nachtragen."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "17:36",
+          "text": "Zwei werden auf dem Felde sein; einer wird angenommen, der andere wird verlassen werden."
+        }
       ],
       "translationNotes": [
         {
@@ -1359,8 +1368,7 @@
           "original": "Hebrew (sense): עֲבָדִים לֹא־בַעֲלֵי זְכוּת (ʿăbādiym lōʾ-baʿălēy zəkwt) — Greek (NT): δοῦλοι ἀχρεῖοι (doῦloi ἀchreῖoi) — Aramaic (Syriac): ܥܒܕܐ ܒܛܝܠܐ (ʿbdʾ bṭylʾ)",
           "note": "Ohne Anspruch auf Verdienst; Aussage über die Pflicht (17,10)."
         }
-      ],
-      "keyTakeaway": "Jesus warnt davor, andere zum Straucheln zu bringen, gebietet wiederholte Vergebung bei Umkehr, spricht über die Wirkung des Glaubens und gibt ein Gleichnis über Knechte und Pflicht."
+      ]
     },
     {
       "id": "luke-18",
@@ -1831,15 +1839,24 @@
         "Betroffen kehrten die Schaulustigen, die zur Hinrichtung zusammengeströmt waren, in die Stadt zurück. (23:48).",
         "Viele Freunde von Jesus standen da und beobachteten das Geschehen aus der Ferne; darunter auch Frauen aus Galiläa, die mit Jesus zusammen nach Jerusalem gekommen waren. (23:49).",
         "Josef, ein Mann aus Arimathäa, einer Stadt in Judäa, ging zu Pilatus und bat ihn, den Leichnam von Jesus begraben zu dürfen. Er war ein Mitglied des Hohen Rates und ein guter Mensch, der nach Gottes Willen lebte und auf das Kommen von Gottes Reich wartete. Josef hatte nicht zugestimmt, als der Hohe Rat Jesus zum Tode verurteilt hatte, und war mit ihrem Vorgehen nicht einverstanden. (23:50).",
+        "der ihrem Rat und Tun nicht zugestimmt hatte, der auch selbst auf das Reich Gottes wartete, (23:51).",
+        "dieser ging zu Pilatus und bat um den Leib Jesu; (23:52).",
         "Er nahm Jesus vom Kreuz, wickelte ihn in ein feines Leinentuch und legte ihn in eine Grabkammer, die man in einen Felsen gehauen hatte und in der vorher noch niemand begraben worden war. (23:53).",
         "Das alles geschah am späten Freitagnachmittag, unmittelbar vor Beginn des Sabbats. (23:54).",
         "Josef wurde von Frauen begleitet, die mit Jesus aus Galiläa gekommen waren. Sie sahen das Grab und beobachteten, wie man den Toten hineinlegte. (23:55).",
         "Dann kehrten sie in die Stadt zurück und bereiteten dort wohlriechende Öle und Salben für die Einbalsamierung vor. Doch den Sabbat hielten sie als Ruhetag ein, so wie es das jüdische Gesetz vorschreibt. (23:56)."
       ],
+      "keyTakeaway": "Pilatus und Herodes finden beide keine Schuld, die den Tod verdient; die Menge fordert Barabbas und die Kreuzigung, und Jesus wird ausgeliefert.",
       "crossRefs": [
         "Jesaja 53,7 — Stumm vor seinen Scherern (Jesu Schweigen vor Herodes).",
         "Psalm 2,1–2 — Herrscher versammeln sich gegen den Gesalbten des HERRN (thematisch).",
         "Matthäus 27,1–26; Markus 15,1–15; Johannes 18,28–40 — Parallelstellen."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "23:17",
+          "text": "(Denn er mußte ihnen einen nach der Gewohnheit des Festes losgeben.)"
+        }
       ],
       "translationNotes": [
         {
@@ -1867,8 +1884,7 @@
           "original": "Greek MSS variation",
           "note": "Einige Handschriften enthalten einen Vers über den Brauch des Pilatus, am Fest einen Gefangenen freizulassen; viele moderne Ausgaben klammern ihn ein oder lassen ihn in Lukas weg."
         }
-      ],
-      "keyTakeaway": "Pilatus und Herodes finden beide keine Schuld, die den Tod verdient; die Menge fordert Barabbas und die Kreuzigung, und Jesus wird ausgeliefert."
+      ]
     },
     {
       "id": "luke-24",

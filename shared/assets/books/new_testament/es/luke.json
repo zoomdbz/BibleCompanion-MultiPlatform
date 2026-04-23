@@ -1339,10 +1339,17 @@
         "Dos mujeres estarán moliendo harina juntas en un molino; una será llevada, la otra será dejada ». (17:35).",
         "Los discípulos le preguntaron: —¿Dónde sucederá eso, Señor? Jesús les contestó: —Así como los buitres, cuando se juntan, indican que hay un cadáver cerca, de la misma manera, esas señales revelan que el fin está cerca. (17:37)."
       ],
+      "keyTakeaway": "Jesús advierte sobre hacer tropezar a otros, manda el perdón repetido ante el arrepentimiento, habla del efecto de la fe y da una ilustración sobre siervos y el deber.",
       "crossRefs": [
         "Mateo 18:6–7, 21–22 — Tropiezos y perdón repetido.",
         "Marcos 4:31 — Imagen del grano de mostaza en otro lugar.",
         "Levítico 19:17–18 — Reprensión y no guardar rencor."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "17:36",
+          "text": "Estarán dos hombres en el campo: uno será llevado y el otro será dejado"
+        }
       ],
       "translationNotes": [
         {
@@ -1360,8 +1367,7 @@
           "original": "Hebrew (sense): עֲבָדִים לֹא־בַעֲלֵי זְכוּת (ʿăbādiym lōʾ-baʿălēy zəkwt) — Greek (NT): δοῦλοι ἀχρεῖοι (doῦloi ἀchreῖoi) — Aramaic (Syriac): ܥܒܕܐ ܒܛܝܠܐ (ʿbdʾ bṭylʾ)",
           "note": "Sin pretensión de mérito; declaración de deber (17:10)."
         }
-      ],
-      "keyTakeaway": "Jesús advierte sobre hacer tropezar a otros, manda el perdón repetido ante el arrepentimiento, habla del efecto de la fe y da una ilustración sobre siervos y el deber."
+      ]
     },
     {
       "id": "luke-18",
@@ -1838,10 +1844,17 @@
         "Mientras llevaban el cuerpo, las mujeres de Galilea iban detrás y vieron la tumba donde lo colocaron. (23:55).",
         "Luego fueron a sus casas y prepararon especias y ungüentos para ungir el cuerpo de Jesús; pero cuando terminaron ya había comenzado el día de descanso, así que descansaron como ordena la ley. (23:56)."
       ],
+      "keyTakeaway": "Tanto Pilato como Herodes no encuentran delito digno de muerte; la multitud pide a Barrabás y la crucifixión, y Jesús es entregado.",
       "crossRefs": [
         "Isaías 53:7 — Enmudecido ante sus trasquiladores (el silencio de Jesús ante Herodes).",
         "Salmo 2:1–2 — Los gobernantes se congregan contra el ungido del Señor (tema).",
         "Mateo 27:1–26; Marcos 15:1–15; Juan 18:28–40 — Paralelos."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "23:17",
+          "text": "Ahora bien, durante la fiesta tenía la obligación de soltarles un preso"
+        }
       ],
       "translationNotes": [
         {
@@ -1869,8 +1882,7 @@
           "original": "Greek MSS variation",
           "note": "Algunos manuscritos incluyen un versículo sobre la costumbre de Pilato de soltar a un preso en la fiesta; muchas ediciones modernas lo colocan entre corchetes o lo omiten en Lucas."
         }
-      ],
-      "keyTakeaway": "Tanto Pilato como Herodes no encuentran delito digno de muerte; la multitud pide a Barrabás y la crucifixión, y Jesús es entregado."
+      ]
     },
     {
       "id": "luke-24",

@@ -1,16 +1,22 @@
-# The Biblical Feasts and Two Ancient Calendars
+# The Biblical Feasts and Three Ancient Calendars
 
 God commanded seven feasts in Leviticus 23, each tied to Israel's agricultural cycle and each pointing forward to the work of the Messiah. These are not optional traditions; they are "appointed times" (Hebrew: *moadim*), divine appointments set on God's calendar (Leviticus 23:2).
 
-## Two Calendars in the Second Temple Period
+## Three Calendars in the Second Temple Period and After
 
-By the time of Jesus, two calendar systems were in use among the Jewish people:
+The app shows three calendar systems side by side:
 
-### The Hebrew Lunisolar Calendar
-The calendar used by the Temple priesthood and mainstream Judaism then and now. It follows the moon for months (new moon = new month) and adds a leap month seven times every nineteen years (the Metonic cycle) to stay aligned with the solar seasons. Month lengths alternate between 29 and 30 days. Because the new moon must be sighted, the exact start of a month can be uncertain by a day; this is why the Feast of Trumpets (Tishrei 1) was traditionally observed for two days, and why the phrase **"no man knows the day or the hour"** (Matthew 24:36) was a well-known idiom for this feast. A first-century Jewish audience would have recognized it immediately, much like "the cat's out of the bag" in English.
+### The Hebrew Lunisolar Calendar (Rabbinic)
+The calendar used by the Temple priesthood and mainstream Judaism then and now. It follows the moon for months (new moon = new month) and adds a leap month seven times every nineteen years (the Metonic cycle) to stay aligned with the solar seasons. Month lengths alternate between 29 and 30 days. Because the new moon must be sighted, the exact start of a month can be uncertain by a day; this is why the Feast of Trumpets (Tishrei 1) was traditionally observed for two days, and why the phrase **"no man knows the day or the hour"** (Matthew 24:36) was a well-known idiom for this feast. A first-century Jewish audience would have recognized it immediately, much like "the cat's out of the bag" in English. After the fall of the Temple, Hillel II fixed the calendar in a mathematical table (c. 359 CE); that fixed table is what the modern Jewish calendar still uses.
+
+### The Karaite / Biblical Sighted-Moon Calendar
+Historically the calendar of the pre-Hillel priesthood: months begin when the first sliver of the new-moon crescent is actually sighted from Jerusalem, not when a table says so. Karaites (who reject rabbinic tradition and follow Scripture alone), the Samaritans, and modern Hebrew-Roots believers use this reckoning. Two things make it differ from the rabbinic table: (1) Nisan is pinned to the **barley aviv** (Exodus 9:31; Leviticus 23:10) and the **sighted crescent**, so Nisan 1 can fall a day or two earlier than the rabbinic table, and a "13th-month" leap year is added in years where the barley is not yet aviv by the new moon; (2) **Pentecost is counted the Sadducean way** — not fixed at Sivan 6, but counted as the Sunday after seven complete Sabbaths from the Sunday within Unleavened Bread (Leviticus 23:15–16). This is how the priesthood reckoned it before the Pharisees' interpretation took over. For 2026 the Karaite sighting places Passover at Nisan 14 ≈ April 2 and Pentecost at ≈ May 24 — 1-2 days earlier than the rabbinic table on the Passover family, and one day off on Pentecost.
 
 ### The Essene Solar Calendar (364-Day)
 Discovered in the Dead Sea Scrolls (particularly the Book of Jubilees and 1 Enoch), this calendar counts exactly 364 days, or 52 perfect weeks. Every feast falls on the same day of the week every year. The year begins on a Wednesday (Day 4 of creation, when the luminaries were made, Genesis 1:14–19). Scholars like Annie Jaubert have proposed that Jesus followed this calendar for His last Passover, which would place the Last Supper on a Tuesday evening, resolving the apparent conflict between the Synoptic Gospels (which say Jesus ate the Passover meal) and John's Gospel (which says the crucifixion occurred before the Temple Passover). If Jesus used the Essene calendar and the Temple used the lunisolar calendar, both accounts are accurate: Jesus kept Passover on Essene Nisan 14 (Tuesday), while the Temple Passover was on lunisolar Nisan 14 (Friday).
+
+### Why the three dates differ
+In any given year the three calendars can mark Passover, Second Passover, and Pentecost on different Gregorian days. This is not an error. Each reflects a real historical reckoning used by different communities of the faithful. Keeping them side by side lets the reader see all three without having to commit to one.
 
 ## The Seven Feasts
 

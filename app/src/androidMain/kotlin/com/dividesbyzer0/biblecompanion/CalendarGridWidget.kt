@@ -123,6 +123,7 @@ class CalendarGridWidget : GlanceAppWidget() {
     val filtered = when (calType) {
       "H" -> feasts.filter { it.calendar == FeastCalendarType.HEBREW }
       "E" -> feasts.filter { it.calendar == FeastCalendarType.ESSENE }
+      "K" -> feasts.filter { it.calendar == FeastCalendarType.KARAITE }
       else -> feasts
     }
     return filtered.ifEmpty { null }
@@ -169,9 +170,20 @@ class CalendarGridWidget : GlanceAppWidget() {
         verticalAlignment = Alignment.CenterVertically
       ) {
         if (!isSmall) {
-          Box(modifier = GlanceModifier.clickable(actionRunCallback<ToggleCalendarTypeAction>())) {
+          Box(
+            modifier = GlanceModifier
+              .height(titleH)
+              .clickable(actionRunCallback<ToggleCalendarTypeAction>())
+              .padding(horizontal = 12.dp, vertical = 6.dp),
+            contentAlignment = Alignment.Center
+          ) {
             Text(
-              when (calType) { "H" -> "\u2721"; "E" -> "\u2609"; else -> "\u2721/\u2609" },
+              when (calType) {
+                "H" -> "\u2721"
+                "E" -> "\u2609"
+                "K" -> "\u263E"
+                else -> "\u2721\u2609\u263E"
+              },
               style = TextStyle(fontSize = toggleFs, color = GlanceTheme.colors.primary)
             )
           }
@@ -261,6 +273,7 @@ class CalendarGridWidget : GlanceAppWidget() {
                   if (hasFeast) {
                     val hasH = filteredFeasts!!.any { it.calendar == FeastCalendarType.HEBREW }
                     val hasE = filteredFeasts.any { it.calendar == FeastCalendarType.ESSENE }
+                    val hasK = filteredFeasts.any { it.calendar == FeastCalendarType.KARAITE }
                     Row {
                       if (hasH) Text("\u2721", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.error))
                       if (hasE) Text("\u2609", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.primary))
@@ -313,6 +326,7 @@ class ToggleCalendarTypeAction : ActionCallback {
       prefs[CalendarGridWidget.CAL_TYPE_KEY] = when (current) {
         "B" -> "H"
         "H" -> "E"
+        "E" -> "K"
         else -> "B"
       }
     }

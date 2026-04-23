@@ -489,7 +489,6 @@
         "And so you cancel the word of God in order to hand down your own tradition. And this is only one example among many others.” (7:13).",
         "Then Jesus called to the crowd to come and hear. “All of you listen,” he said, “and try to understand. (7:14).",
         "It’s not what goes into your body that defiles you; you are defiled by what comes from your heart. ” (7:15).",
-        "[Some manuscripts include:] If anyone has ears to hear, let him hear (7:16).",
         "Then Jesus went into a house to get away from the crowd, and his disciples asked him what he meant by the parable he had just used. (7:17).",
         "“Don’t you understand either?” he asked. “Can’t you see that the food you put into your body cannot defile you? (7:18).",
         "Food doesn’t go into your heart, but only passes through the stomach and then goes into the sewer.” (By saying this, he declared that every kind of food is acceptable in God’s eyes.) (7:19).",
@@ -512,10 +511,17 @@
         "Jesus told the crowd not to tell anyone, but the more he told them not to, the more they spread the news. (7:36).",
         "They were completely amazed and said again and again, “Everything he does is wonderful. He even makes the deaf to hear and gives speech to those who cannot speak.” (7:37)."
       ],
+      "keyTakeaway": "Jesus confronts traditions that cancel God’s command, cites Corban as an example, and states that defilement comes from the heart, not from food entering the body.",
       "crossRefs": [
         "Isaiah 29:13 — “This people draws near with their mouth… but their heart is far from me.”",
         "Exodus 20:12; Deuteronomy 5:16 — Honor father and mother.",
         "Acts 10:14–15 — Clean/unclean foods addressed in a later vision."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "7:16",
+          "text": "If anyone has ears to hear, let him hear"
+        }
       ],
       "translationNotes": [
         {
@@ -538,8 +544,7 @@
           "original": "Hebrew: לְטַמֵּא / לְחלֵּל (context) — Greek (NT): κοινοῦν (koinoῦn) — Aramaic (Syriac): ܡܢܟܦ (mnkp)",
           "note": "Verb used for rendering ritually/common-impure (7:15-23)."
         }
-      ],
-      "keyTakeaway": "Jesus confronts traditions that cancel God’s command, cites Corban as an example, and states that defilement comes from the heart, not from food entering the body."
+      ]
     },
     {
       "id": "mark-8",
@@ -661,19 +666,28 @@
         "If anyone gives you even a cup of water because you belong to the Messiah, I tell you the truth, that person will surely be rewarded. (9:41).",
         "“But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to be thrown into the sea with a large millstone hung around your neck. (9:42).",
         "If your hand causes you to sin, cut it off. It’s better to enter eternal life with only one hand than to go into the unquenchable fires of hell with two hands. (9:43).",
-        "[Some manuscripts include:] where their worm does not die and the fire is not quenched. (9:44).",
         "If your foot causes you to sin, cut it off. It’s better to enter eternal life with only one foot than to be thrown into hell with two feet. (9:45).",
-        "[Some manuscripts include:] where their worm does not die and the fire is not quenched. (9:46).",
         "And if your eye causes you to sin, gouge it out. It’s better to enter the Kingdom of God with only one eye than to have two eyes and be thrown into hell, (9:47).",
         "‘where the maggots never die and the fire never goes out.’ (9:48).",
         "“For everyone will be tested with fire. (9:49).",
         "Salt is good for seasoning. But if it loses its flavor, how do you make it salty again? You must have the qualities of salt among yourselves and live in peace with each other.” (9:50)."
       ],
+      "keyTakeaway": "Three disciples see Jesus transfigured with Moses and Elijah; a voice identifies him as the beloved Son. Jesus orders silence until after rising from the dead and answers the Elijah question.",
       "crossRefs": [
         "Exodus 24:15–18; 34:29–35 — Mountain and radiance.",
         "1 Kings 19:8–18 — Elijah at Horeb.",
         "Malachi 4:5–6 — Elijah before the great day.",
         "Matthew 17:1–13; Luke 9:28–36 — Parallels."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "9:44",
+          "text": "where their worm does not die and the fire is not quenched."
+        },
+        {
+          "ref": "9:46",
+          "text": "where their worm does not die and the fire is not quenched."
+        }
       ],
       "translationNotes": [
         {
@@ -686,8 +700,7 @@
           "original": "Hebrew: בְּנִי הָאֱהוּב (bəniy hāʾĕhwb) — Greek (NT): ὁ υἱός μου ὁ ἀγαπητός (ὁ yἱόs mou ὁ ἀgapētόs) — Aramaic (Syriac): ܒܪܝ ܚܒܝܒܐ (bry ḥbybʾ)",
           "note": "Heavenly voice identifies Jesus (9:7)."
         }
-      ],
-      "keyTakeaway": "Three disciples see Jesus transfigured with Moses and Elijah; a voice identifies him as the beloved Son. Jesus orders silence until after rising from the dead and answers the Elijah question."
+      ]
     },
     {
       "id": "mark-10",
@@ -800,7 +813,6 @@
         "I tell you the truth, you can say to this mountain, ‘May you be lifted up and thrown into the sea,’ and it will happen. But you must really believe it will happen and have no doubt in your heart. (11:23).",
         "I tell you, you can pray for anything, and if you believe that you’ve received it, it will be yours. (11:24).",
         "But when you are praying, first forgive anyone you are holding a grudge against, so that your Father in heaven will forgive your sins, too. ” (11:25).",
-        "[Some manuscripts include:] But if you do not forgive, neither will your Father who is in heaven forgive your trespasses (11:26).",
         "Again they entered Jerusalem. As Jesus was walking through the Temple area, the leading priests, the teachers of religious law, and the elders came up to him. (11:27).",
         "They demanded, “By what authority are you doing all these things? Who gave you the right to do them?” (11:28).",
         "“I’ll tell you by what authority I do these things if you answer one question,” Jesus replied. (11:29).",
@@ -809,10 +821,17 @@
         "But do we dare say it was merely human?” For they were afraid of what the people would do, because everyone believed that John was a prophet. (11:32).",
         "So they finally replied, “We don’t know.” And Jesus responded, “Then I won’t tell you by what authority I do these things.” (11:33)."
       ],
+      "keyTakeaway": "Jesus enters Jerusalem on a colt as crowds spread cloaks and branches and cry “Hosanna,” then he surveys the temple and withdraws to Bethany.",
       "crossRefs": [
         "Zechariah 9:9 — Humble king on a colt.",
         "Psalm 118:25–26 — “Hosanna … Blessed is he who comes in the name of the LORD.”",
         "Matthew 21:1–11; Luke 19:28–40; John 12:12–15 — Parallels."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "11:26",
+          "text": "But if you do not forgive, neither will your Father who is in heaven forgive your trespasses"
+        }
       ],
       "translationNotes": [
         {
@@ -830,8 +849,7 @@
           "original": "Hebrew: לַאדֹנָי צֹרֶךְ־בּוֹ (laʾdōnāy ṣōrekə-bwō, sense) — Greek (NT): ὁ κύριος αὐτοῦ χρείαν ἔχει (ὁ kύrios aὐtoῦ chreίan ἔchei) — Aramaic (Syriac): ܠܡܪܝܐ ܡܬܒܥܐ ܒܗ (lmryʾ mtbʿʾ bh)",
           "note": "Instruction to explain taking the colt (11:3)."
         }
-      ],
-      "keyTakeaway": "Jesus enters Jerusalem on a colt as crowds spread cloaks and branches and cry “Hosanna,” then he surveys the temple and withdraws to Bethany."
+      ]
     },
     {
       "id": "mark-12",
@@ -1111,7 +1129,6 @@
         "It was nine o’clock in the morning when they crucified him. (15:25).",
         "A sign announced the charge against him. It read, “The King of the Jews.” (15:26).",
         "Two revolutionaries were crucified with him, one on his right and one on his left. (15:27).",
-        "[Some manuscripts include:] And the Scripture was fulfilled that says, “He was numbered with the transgressors” (15:28).",
         "The people passing by shouted abuse, shaking their heads in mockery. “Ha! Look at you now!” they yelled at him. “You said you were going to destroy the Temple and rebuild it in three days. (15:29).",
         "Well then, save yourself and come down from the cross!” (15:30).",
         "The leading priests and teachers of religious law also mocked Jesus. “He saved others,” they scoffed, “but he can’t save himself! (15:31).",
@@ -1132,10 +1149,17 @@
         "Joseph bought a long sheet of linen cloth. Then he took Jesus’ body down from the cross, wrapped it in the cloth, and laid it in a tomb that had been carved out of the rock. Then he rolled a stone in front of the entrance. (15:46).",
         "Mary Magdalene and Mary the mother of Joseph saw where Jesus’ body was laid. (15:47)."
       ],
+      "keyTakeaway": "Pilate questions Jesus as ‘King of the Jews,’ releases Barabbas the murderer, has Jesus flogged, and soldiers mock and prepare him for crucifixion.",
       "crossRefs": [
         "Isaiah 53:7 — Silent before accusers.",
         "Luke 23:18–25; Matthew 27:15–31; John 18:28–19:16 — Parallels.",
         "Psalm 22:7 — Mockery imagery."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:28",
+          "text": "And the Scripture was fulfilled that says, “He was numbered with the transgressors”"
+        }
       ],
       "translationNotes": [
         {
@@ -1153,8 +1177,7 @@
           "original": "Greek (NT): πραιτώριον (praitώrion) — Aramaic (Syriac): ܦܪܛܘܪܝܘܢ (prṭwrywn) — Latin: praetorium",
           "note": "Governor’s headquarters (15:16)."
         }
-      ],
-      "keyTakeaway": "Pilate questions Jesus as ‘King of the Jews,’ releases Barabbas the murderer, has Jesus flogged, and soldiers mock and prepare him for crucifixion."
+      ]
     },
     {
       "id": "mark-16",

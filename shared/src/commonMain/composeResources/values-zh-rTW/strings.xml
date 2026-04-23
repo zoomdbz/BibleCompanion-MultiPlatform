@@ -111,6 +111,7 @@
     <string name="show_more">顯示更多</string>
     <string name="show_less">收起</string>
     <string name="cross_references">交叉引用</string>
+    <string name="manuscript_variants_header">抄本異文</string>
     <string name="translation_notes_header">翻譯說明</string>
     <string name="key_takeaway">核心要點</string>
     <string name="share">分享</string>
@@ -273,6 +274,8 @@
     <string name="widget_feasts">節期</string>
     <string name="widget_cal_hebrew">希伯來</string>
     <string name="widget_cal_essene">艾賽尼</string>
+    <string name="widget_cal_karaite">卡拉派</string>
+    <string name="widget_cal_all">全部</string>
     <string name="widget_cal_both">兩者</string>
     <string name="widget_no_feasts">沒有即將到來的節期</string>
     <string name="widget_day_of_feast">第%1$d天</string>

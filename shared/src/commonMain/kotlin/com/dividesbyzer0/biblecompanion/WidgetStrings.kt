@@ -21,7 +21,9 @@ object WidgetStrings {
   fun feastsHeader(): String = runBlocking { getString(Res.string.widget_feasts) }
   fun calHebrew(): String = runBlocking { getString(Res.string.widget_cal_hebrew) }
   fun calEssene(): String = runBlocking { getString(Res.string.widget_cal_essene) }
+  fun calKaraite(): String = runBlocking { getString(Res.string.widget_cal_karaite) }
   fun calBoth(): String = runBlocking { getString(Res.string.widget_cal_both) }
+  fun calAll(): String = runBlocking { getString(Res.string.widget_cal_all) }
   fun noFeasts(): String = runBlocking { getString(Res.string.widget_no_feasts) }
   fun dayOfFeast(day: Int): String = runBlocking { getString(Res.string.widget_day_of_feast, day) }
   fun listDisplayName(): String = runBlocking { getString(Res.string.widget_list_display_name) }

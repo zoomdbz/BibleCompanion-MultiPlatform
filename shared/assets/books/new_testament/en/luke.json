@@ -1337,13 +1337,19 @@
         "If you cling to your life, you will lose it, and if you let your life go, you will save it. (17:33).",
         "That night two people will be asleep in one bed; one will be taken, the other left. (17:34).",
         "Two women will be grinding flour together at the mill; one will be taken, the other left. ” (17:35).",
-        "[Some manuscripts include:] Two men will be in the field; one will be taken and the other left (17:36).",
         "“Where will this happen, Lord?” the disciples asked. Jesus replied, “Just as the gathering of vultures shows there is a carcass nearby, so these signs indicate that the end is near.” (17:37)."
       ],
+      "keyTakeaway": "Jesus warns about causing others to stumble, commands repeated forgiveness upon repentance, speaks about faith’s effect, and gives an illustration about servants and duty.",
       "crossRefs": [
         "Matthew 18:6–7, 21–22 — Stumbling blocks and repeated forgiveness.",
         "Mark 4:31 — Mustard seed image elsewhere.",
         "Leviticus 19:17–18 — Rebuke and not bearing a grudge."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "17:36",
+          "text": "Two men will be in the field; one will be taken and the other left"
+        }
       ],
       "translationNotes": [
         {
@@ -1361,8 +1367,7 @@
           "original": "Hebrew (sense): עֲבָדִים לֹא־בַעֲלֵי זְכוּת (ʿăbādiym lōʾ-baʿălēy zəkwt) — Greek (NT): δοῦλοι ἀχρεῖοι (doῦloi ἀchreῖoi) — Aramaic (Syriac): ܥܒܕܐ ܒܛܝܠܐ (ʿbdʾ bṭylʾ)",
           "note": "Without claim to merit; statement of duty (17:10)."
         }
-      ],
-      "keyTakeaway": "Jesus warns about causing others to stumble, commands repeated forgiveness upon repentance, speaks about faith’s effect, and gives an illustration about servants and duty."
+      ]
     },
     {
       "id": "luke-18",
@@ -1799,7 +1804,6 @@
         "and he announced his verdict. “You brought this man to me, accusing him of leading a revolt. I have examined him thoroughly on this point in your presence and find him innocent. (23:14).",
         "Herod came to the same conclusion and sent him back to us. Nothing this man has done calls for the death penalty. (23:15).",
         "So I will have him flogged, and then I will release him.” (23:16).",
-        "[Some manuscripts include:] Now he was obliged to release one man to them at the festival (23:17).",
         "Then a mighty roar rose from the crowd, and with one voice they shouted, “Kill him, and release Barabbas to us!” (23:18).",
         "(Barabbas was in prison for taking part in an insurrection in Jerusalem against the government, and for murder.) (23:19).",
         "Pilate argued with them, because he wanted to release Jesus. (23:20).",
@@ -1840,10 +1844,17 @@
         "As his body was taken away, the women from Galilee followed and saw the tomb where his body was placed. (23:55).",
         "Then they went home and prepared spices and ointments to anoint his body. But by the time they were finished the Sabbath had begun, so they rested as required by the law. (23:56)."
       ],
+      "keyTakeaway": "Pilate and Herod both fail to find guilt deserving death; the crowd demands Barabbas and crucifixion, and Jesus is handed over.",
       "crossRefs": [
         "Isaiah 53:7 — Silent before his shearers (Jesus’ silence before Herod).",
         "Psalm 2:1–2 — Rulers gather against the Lord’s anointed (theme).",
         "Matthew 27:1–26; Mark 15:1–15; John 18:28–40 — Parallels."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "23:17",
+          "text": "Now he was obliged to release one man to them at the festival"
+        }
       ],
       "translationNotes": [
         {
@@ -1871,8 +1882,7 @@
           "original": "Greek MSS variation",
           "note": "Some manuscripts include a verse about Pilate’s custom to release a prisoner at the feast; many modern editions bracket or omit it in Luke."
         }
-      ],
-      "keyTakeaway": "Pilate and Herod both fail to find guilt deserving death; the crowd demands Barabbas and crucifixion, and Jesus is handed over."
+      ]
     },
     {
       "id": "luke-24",

@@ -1340,10 +1340,17 @@
         "Dois homens estarão trabalhando juntos num campo; um será levado, e o outro, deixado”. (17:36).",
         "“Senhor, onde isso acontecerá?”, perguntaram os discípulos. Jesus respondeu: “Onde estiver o cadáver, ali se ajuntarão os abutres”. (17:37)."
       ],
+      "keyTakeaway": "Jesus adverte sobre causar tropeço a outros, ordena perdão repetido mediante arrependimento, fala sobre o efeito da fé, e dá uma ilustração sobre servos e dever.",
       "crossRefs": [
         "Mateus 18:6–7, 21–22 — Tropeços e perdão repetido.",
         "Marcos 4:31 — Imagem do grão de mostarda em outro contexto.",
         "Levítico 19:17–18 — Repreensão e não guardar rancor."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "17:36",
+          "text": "Dois estarão no campo; um será tomado, e outro será deixado."
+        }
       ],
       "translationNotes": [
         {
@@ -1361,8 +1368,7 @@
           "original": "Hebrew (sense): עֲבָדִים לֹא־בַעֲלֵי זְכוּת (ʿăbādiym lōʾ-baʿălēy zəkwt) — Greek (NT): δοῦλοι ἀχρεῖοι (doῦloi ἀchreῖoi) — Aramaic (Syriac): ܥܒܕܐ ܒܛܝܠܐ (ʿbdʾ bṭylʾ)",
           "note": "Sem pretensão de mérito; declaração de dever (17:10)."
         }
-      ],
-      "keyTakeaway": "Jesus adverte sobre causar tropeço a outros, ordena perdão repetido mediante arrependimento, fala sobre o efeito da fé, e dá uma ilustração sobre servos e dever."
+      ]
     },
     {
       "id": "luke-18",
@@ -1840,10 +1846,17 @@
         "As mulheres da Galileia seguiram José e viram o túmulo onde o corpo de Jesus foi colocado. (23:55).",
         "Depois, foram para casa e prepararam especiarias e perfumes para ungir o corpo. No sábado, descansaram, conforme a lei exigia. (23:56)."
       ],
+      "keyTakeaway": "Pilatos e Herodes não encontram culpa que mereça a morte; a multidão exige Barrabás e a crucificação, e Jesus é entregue.",
       "crossRefs": [
         "Isaías 53:7 — Silêncio diante dos seus tosquiadores (o silêncio de Jesus diante de Herodes).",
         "Salmo 2:1–2 — Governantes se reúnem contra o Ungido do Senhor (tema).",
         "Mateus 27:1–26; Marcos 15:1–15; João 18:28–40 — Paralelos."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "23:17",
+          "text": "E era-lhe necessário soltar-lhes um detento por ocasião da festa."
+        }
       ],
       "translationNotes": [
         {
@@ -1871,8 +1884,7 @@
           "original": "Greek MSS variation",
           "note": "Alguns manuscritos incluem um versículo sobre o costume de Pilatos de soltar um preso durante a festa; muitas edições modernas o colocam entre colchetes ou o omitem em Lucas."
         }
-      ],
-      "keyTakeaway": "Pilatos e Herodes não encontram culpa que mereça a morte; a multidão exige Barrabás e a crucificação, e Jesus é entregue."
+      ]
     },
     {
       "id": "luke-24",

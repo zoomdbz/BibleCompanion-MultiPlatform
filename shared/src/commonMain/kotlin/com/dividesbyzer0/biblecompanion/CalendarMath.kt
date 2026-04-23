@@ -15,7 +15,7 @@ data class FeastMarker(
   val totalDays: Int = 1
 )
 
-enum class FeastCalendarType { HEBREW, ESSENE }
+enum class FeastCalendarType { HEBREW, ESSENE, KARAITE }
 
 object HebrewCalendar {
 
@@ -258,6 +258,164 @@ object EsseneCalendar {
   val MONTH_NAMES = listOf("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII")
 }
 
+/**
+ * Karaite / Biblical / Sighted-Moon calendar.
+ *
+ * Differs from the rabbinic mathematical calendar on two axes:
+ * - **Months begin at first visible new-moon crescent** in Jerusalem, not at the
+ *   mathematical conjunction. Since the crescent is typically visible ~1 day
+ *   after astronomical conjunction, Karaite Nisan 1 is usually 0–2 days earlier
+ *   than rabbinic Nisan 1 (Maimonides' postponements don't apply).
+ * - **Pentecost uses Sadducean counting**: Firstfruits is the Sunday after the
+ *   weekly Sabbath that falls within Unleavened Bread; Pentecost is the Sunday
+ *   seven complete Sabbaths later (inclusive 50-day count).
+ *
+ * Astronomical new moon is computed via Meeus' simplified lunar-phase formula
+ * (Astronomical Algorithms, ch. 49). Accurate to within a few hours over the
+ * Gregorian era. We then add a +1-day sighting offset (the standard Karaite
+ * Korner approximation) to arrive at Nisan 1. For years where barley aviv
+ * announcements are ready this is a reasonable default; years that push Nisan
+ * back a lunation (13th month) are not yet modeled here.
+ */
+object KaraiteCalendar {
+
+  private const val PI = 3.141592653589793
+
+  private fun sin(x: Double): Double {
+    val t = x - (x / (2 * PI)).toInt() * 2 * PI
+    var acc = 0.0
+    var term = t
+    var n = 1
+    while (kotlin.math.abs(term) > 1e-10 && n < 30) {
+      acc += term
+      term *= -t * t / ((2 * n) * (2 * n + 1))
+      n++
+    }
+    return acc
+  }
+
+  /** New-moon JDN using Meeus' simplified formula (Astronomical Algorithms §49). */
+  private fun newMoonJDN(k: Double): Double {
+    val T = k / 1236.85
+    val T2 = T * T
+    val T3 = T2 * T
+    val T4 = T3 * T
+    var jde = 2451550.09766 + 29.530588861 * k +
+              0.00015437 * T2 - 0.000000150 * T3 + 0.00000000073 * T4
+
+    val E = 1 - 0.002516 * T - 0.0000074 * T2
+    val M = (2.5534 + 29.1053567 * k - 0.0000014 * T2 - 0.00000011 * T3) * PI / 180.0
+    val Mp = (201.5643 + 385.81693528 * k + 0.0107582 * T2 +
+              0.00001238 * T3 - 0.000000058 * T4) * PI / 180.0
+    val F = (160.7108 + 390.67050284 * k - 0.0016118 * T2 -
+             0.00000227 * T3 + 0.000000011 * T4) * PI / 180.0
+    val Om = (124.7746 - 1.56375588 * k + 0.0020672 * T2 + 0.00000215 * T3) * PI / 180.0
+
+    // Primary corrections (most significant terms only; Meeus Table 49.A)
+    jde += -0.40720 * sin(Mp)
+    jde += 0.17241 * E * sin(M)
+    jde += 0.01608 * sin(2 * Mp)
+    jde += 0.01039 * sin(2 * F)
+    jde += 0.00739 * E * sin(Mp - M)
+    jde += -0.00514 * E * sin(Mp + M)
+    jde += 0.00208 * E * E * sin(2 * M)
+    jde += -0.00111 * sin(Mp - 2 * F)
+    jde += -0.00057 * sin(Mp + 2 * F)
+    jde += 0.00056 * E * sin(2 * Mp + M)
+    jde += -0.00042 * sin(3 * Mp)
+    jde += 0.00042 * E * sin(M + 2 * F)
+    jde += 0.00038 * E * sin(M - 2 * F)
+    jde += -0.00024 * E * sin(2 * Mp - M)
+    jde += -0.00017 * sin(Om)
+    // TT -> UT correction for modern era is ~60-70s, negligible at day precision
+    return jde
+  }
+
+  /** JDN of the first visible new-moon crescent near the vernal equinox for
+   *  Gregorian year `gYear`. Karaite rule picks the new moon closest to the
+   *  equinox (allowing up to ~14 days before or after). Sighting offset is
+   *  +1 day past astronomical conjunction. */
+  fun nisanOneJDN(gYear: Int): Long {
+    val equinoxJDN = HebrewCalendar.gregorianToJDN(gYear, 3, 20) + 0.5
+    val approxK = (gYear - 2000) * 12.3685 + 3.0
+    var k = kotlin.math.round(approxK)
+    // Walk k into the neighborhood of the equinox
+    while (newMoonJDN(k) > equinoxJDN + 35) k -= 1
+    while (newMoonJDN(k) < equinoxJDN - 35) k += 1
+    // Evaluate a small window of candidate lunations and pick the one closest
+    // to the equinox. Tiebreaker: the earlier one (before equinox) wins.
+    var bestK = k
+    var bestDist = kotlin.math.abs(newMoonJDN(k) - equinoxJDN)
+    for (dk in -2..2) {
+      val cand = k + dk
+      val dist = kotlin.math.abs(newMoonJDN(cand) - equinoxJDN)
+      if (dist < bestDist - 0.5) {
+        bestDist = dist
+        bestK = cand
+      }
+    }
+    val nmJDN = newMoonJDN(bestK)
+    return (nmJDN + 1.5).toLong()
+  }
+
+  /** Returns the JDN of month `m` (1-based, 1..13) for Karaite year anchored to
+   *  `gYear`. Uses successive new moons, each + 1 sighting day. */
+  fun monthStartJDN(gYear: Int, month: Int): Long {
+    val nisan1 = nisanOneJDN(gYear).toDouble() - 0.5
+    // Re-derive k of Nisan's conjunction (nisan1 - 1 day sighting offset)
+    val nisanNM = nisan1 - 1.0
+    val approxK = (nisanNM - 2451550.09766) / 29.530588861
+    val kNisan = kotlin.math.round(approxK)
+    val targetK = kNisan + (month - 1)
+    val nmJDN = newMoonJDN(targetK)
+    return (nmJDN + 1.5).toLong()
+  }
+
+  /** Sadducean/Karaite Firstfruits: Sunday after the weekly Sabbath that falls
+   *  within Unleavened Bread (Nisan 15-21). If Nisan 15 is a Sunday, the weekly
+   *  Sabbath within the feast is Nisan 21; Firstfruits is the day after.
+   *  Returns the JDN of the Firstfruits Sunday. */
+  fun firstfruitsJDN(gYear: Int): Long {
+    val nisan15 = nisanOneJDN(gYear) + 14
+    val nisan21 = nisan15 + 6
+    // Find weekly Sabbath (Saturday = dow 6 in our scheme where 0=Sunday) within the 7-day window
+    for (jdn in nisan15..nisan21) {
+      if (HebrewCalendar.dayOfWeekFromJDN(jdn) == 6) return jdn + 1
+    }
+    // Fallback: shouldn't happen since any 7-day window contains a Sabbath
+    return nisan15
+  }
+
+  /** Karaite Pentecost: 50-day inclusive count from Firstfruits, i.e. +49 days. */
+  fun pentecostJDN(gYear: Int): Long = firstfruitsJDN(gYear) + 49
+
+  /** Karaite 2nd Passover (Pesach Sheni): Iyar 14 = Nisan 14 + 30 days (rounded
+   *  to the Iyar new-moon boundary). Numbers 9 places it exactly one lunar
+   *  month after the first Passover. */
+  fun secondPassoverJDN(gYear: Int): Long = monthStartJDN(gYear, 2) + 13
+
+  fun karaiteFeastsForYear(gYear: Int): List<Pair<Long, FeastMarker>> {
+    val result = mutableListOf<Pair<Long, FeastMarker>>()
+    fun add(jdn: Long, id: String, display: String, spring: Boolean,
+            dayOfFeast: Int = 0, totalDays: Int = 1) {
+      result.add(jdn to FeastMarker(id, display, spring, FeastCalendarType.KARAITE, dayOfFeast, totalDays))
+    }
+    val nisan1 = nisanOneJDN(gYear)
+    add(nisan1 + 13, "passover", "Passover", true)
+    for (i in 0..6) add(nisan1 + 14 + i, "unleavened", "Unleavened Bread", true, dayOfFeast = i + 1, totalDays = 7)
+    add(firstfruitsJDN(gYear), "firstfruits", "Firstfruits", true)
+    add(secondPassoverJDN(gYear), "second_passover", "Second Passover", true)
+    add(pentecostJDN(gYear), "pentecost", "Pentecost", true)
+    // Fall feasts are Tishrei (month 7) on the Karaite calendar
+    val tishri1 = monthStartJDN(gYear, 7)
+    add(tishri1, "trumpets", "Trumpets", false)
+    add(tishri1 + 9, "atonement", "Day of Atonement", false)
+    for (i in 0..6) add(tishri1 + 14 + i, "tabernacles", "Tabernacles", false, dayOfFeast = i + 1, totalDays = 7)
+    add(tishri1 + 21, "assembly", "Shemini Atzeret", false)
+    return result
+  }
+}
+
 object CalendarUtils {
   fun daysInGregorianMonth(year: Int, month: Int): Int = when (month) {
     1 -> 31; 2 -> if (isGregorianLeap(year)) 29 else 28; 3 -> 31
@@ -291,7 +449,12 @@ object CalendarUtils {
     val esseneFeasts = EsseneCalendar.esseneFeastsForYear(gYear)
     val esseneFeastsPrev = EsseneCalendar.esseneFeastsForYear(gYear - 1)
 
-    val allFeasts = hebrewFeasts + hebrewFeastsNext + hebrewTradition + hebrewTraditionNext + esseneFeasts + esseneFeastsPrev
+    val karaiteFeasts = KaraiteCalendar.karaiteFeastsForYear(gYear)
+    val karaiteFeastsPrev = KaraiteCalendar.karaiteFeastsForYear(gYear - 1)
+
+    val allFeasts = hebrewFeasts + hebrewFeastsNext + hebrewTradition + hebrewTraditionNext +
+                    esseneFeasts + esseneFeastsPrev +
+                    karaiteFeasts + karaiteFeastsPrev
 
     val map = mutableMapOf<Int, MutableList<FeastMarker>>()
     for ((jdn, marker) in allFeasts) {
@@ -350,6 +513,8 @@ object CalendarUtils {
     candidates.addAll(HebrewCalendar.hebrewFeastsForYear(hDate.year + 1))
     candidates.addAll(EsseneCalendar.esseneFeastsForYear(gYear))
     candidates.addAll(EsseneCalendar.esseneFeastsForYear(gYear + 1))
+    candidates.addAll(KaraiteCalendar.karaiteFeastsForYear(gYear))
+    candidates.addAll(KaraiteCalendar.karaiteFeastsForYear(gYear + 1))
 
     val seen = mutableSetOf<String>()
     val result = mutableListOf<UpcomingFeast>()

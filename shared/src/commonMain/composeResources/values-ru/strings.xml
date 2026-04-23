@@ -111,6 +111,7 @@
     <string name="show_more">Показать ещё</string>
     <string name="show_less">Показать меньше</string>
     <string name="cross_references">Перекрёстные ссылки</string>
+    <string name="manuscript_variants_header">Варианты рукописей</string>
     <string name="translation_notes_header">Примечания к переводу</string>
     <string name="key_takeaway">Ключевой вывод</string>
     <string name="share">Поделиться</string>
@@ -273,6 +274,8 @@
     <string name="widget_feasts">Праздники</string>
     <string name="widget_cal_hebrew">Еврейский</string>
     <string name="widget_cal_essene">Ессейский</string>
+    <string name="widget_cal_karaite">Караимский</string>
+    <string name="widget_cal_all">Все</string>
     <string name="widget_cal_both">Оба</string>
     <string name="widget_no_feasts">Нет предстоящих праздников</string>
     <string name="widget_day_of_feast">День %1$d</string>

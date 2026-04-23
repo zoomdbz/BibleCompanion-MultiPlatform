@@ -566,10 +566,17 @@
         "Cuando salieron del agua, el Espíritu del Señor arrebató a Felipe. El eunuco nunca más volvió a verlo, pero siguió su camino con mucha alegría. (8:39).",
         "Entre tanto, Felipe se encontró más al norte, en la ciudad de Azoto. Predicó la Buena Noticia allí y en cada pueblo a lo largo del camino, hasta que llegó a Cesarea. (8:40)."
       ],
+      "keyTakeaway": "La persecución dispersa a los creyentes más allá de Jerusalén; Saulo entra agresivamente en las casas y encarcela a los creyentes.",
       "crossRefs": [
         "Hechos 1:8 — Testigos en Jerusalén, Judea, Samaria y hasta los confines de la tierra.",
         "Hechos 7:58 — Vestiduras puestas a los pies de un joven llamado Saulo.",
         "Gálatas 1:13 — Pablo recuerda haber perseguido a la iglesia."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "8:37",
+          "text": "―Si cree usted de todo corazón, bien puede —le dijo Felipe. / ―Creo que Jesucristo es el Hijo de Dios —contestó el hombre."
+        }
       ],
       "translationNotes": [
         {
@@ -582,8 +589,7 @@
           "original": "Hebrew: קָהָל (qāhāl, ‘assembly’) — Greek: ἐκκλησία (ἐkklēsίa) — Aramaic: עֵדְתָּא (‘assembly’)",
           "note": "Término para la comunidad reunida de creyentes (8:1-3)."
         }
-      ],
-      "keyTakeaway": "La persecución dispersa a los creyentes más allá de Jerusalén; Saulo entra agresivamente en las casas y encarcela a los creyentes."
+      ]
     },
     {
       "id": "acts-9",
@@ -1066,10 +1072,17 @@
         "Pablo escogió a Silas y, al salir, los creyentes lo encomendaron al cuidado misericordioso del Señor. (15:40).",
         "Luego viajó por toda Siria y Cilicia, fortaleciendo a las iglesias. (15:41)."
       ],
+      "keyTakeaway": "El concilio de Jerusalén decide no requerir la circuncisión de los creyentes gentiles y envía una carta con cuatro abstenciones para la comunión.",
       "crossRefs": [
         "Génesis 17:9–14 — La circuncisión dada a Abraham y su descendencia.",
         "Amós 9:11–12 — Naciones llamadas por el nombre de Dios (citado por Jacobo).",
         "Levítico 17–18 — Regulaciones sobre sangre e idolatría/inmoralidad sexual (trasfondo)."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:34",
+          "text": "enviado, pero Silas decidió quedarse."
+        }
       ],
       "translationNotes": [
         {
@@ -1092,8 +1105,7 @@
           "original": "Hebrew: נִרְאָה טוֹב לְרוּחַ הַקֹּדֶשׁ וְלָנוּ (nirəʾāh ṭwōb lərwḥa haqōdeš wəlānw, sense) — Greek: ἔδοξεν τῷ ἁγίῳ πνεύματι καὶ ἡμῖν (ἔdoxen tῷ ἁgίῳ pneύmati kaὶ ἡmῖn) — Aramaic: שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא (שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא)",
           "note": "Frase de la carta sobre la fuente de la decisión (15:28)."
         }
-      ],
-      "keyTakeaway": "El concilio de Jerusalén decide no requerir la circuncisión de los creyentes gentiles y envía una carta con cuatro abstenciones para la comunión."
+      ]
     },
     {
       "id": "acts-16",
@@ -1687,10 +1699,17 @@
         "También esperaba que Pablo lo sobornara, de modo que lo mandaba a llamar muy a menudo y hablaba con él. (24:26).",
         "Pasaron dos años así, y Félix fue sucedido por Porcio Festo. Y, como Félix quería ganarse la aceptación del pueblo judío, dejó a Pablo en prisión. (24:27)."
       ],
+      "keyTakeaway": "Tértulo presenta cargos ante Félix; Pablo afirma adorar conforme al Camino y la esperanza en la resurrección. Félix demora el juicio, escucha a Pablo con frecuencia, y después de dos años lo deja preso cuando Festo lo sucede.",
       "crossRefs": [
         "Daniel 12:2 — Resurrección de muchos de los que duermen en el polvo.",
         "Hechos 9:2; Hechos 19:9-23 — \"El Camino\" como designación del movimiento.",
         "Hechos 26:7–8 — Esperanza en la promesa de Dios y tema de la resurrección."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "24:7",
+          "text": "prendimos y quisimos juzgarlo según nuestra Ley. Pero el comandante Lisias intervino, y con mucha fuerza lo arrebató de nuestras manos y mandó que sus acusadores se presentaran ante usted."
+        }
       ],
       "translationNotes": [
         {
@@ -1713,8 +1732,7 @@
           "original": "Hebrew: דְּרוּסִלָּה (translit.) — Greek: Δρουσίλλα (Drousίlla) — Aramaic: דְּרוּסִלָּא (דְּרוּסִלָּא)",
           "note": "Esposa de Félix, identificada como judía (24:24)."
         }
-      ],
-      "keyTakeaway": "Tértulo presenta cargos ante Félix; Pablo afirma adorar conforme al Camino y la esperanza en la resurrección. Félix demora el juicio, escucha a Pablo con frecuencia, y después de dos años lo deja preso cuando Festo lo sucede."
+      ]
     },
     {
       "id": "acts-25",
@@ -1968,11 +1986,18 @@
         "Durante los dos años siguientes Pablo vivió en Roma pagando sus gastos él mismo. Recibía a todos los que lo visitaban, (28:30).",
         "y proclamaba con valentía el reino de Dios y enseñaba acerca del Señor Jesucristo; y nadie intentó detenerlo. (28:31)."
       ],
+      "keyTakeaway": "Pablo sobrevive a la mordedura de una víbora y sana a muchos en Malta, luego llega a Roma. Se reúne con los líderes judíos, les explica sus cadenas y la esperanza de Israel, y durante dos años proclama el reino de Dios y enseña acerca del Señor Jesucristo con valentía, recibiendo a todos los que vienen.",
       "crossRefs": [
         "Isaías 6:9–10 — Citado respecto a oír y no entender.",
         "Hechos 9:15 — Pablo escogido para llevar el nombre ante gentiles y reyes.",
         "Filipenses 1:12–14 — El encarcelamiento hace avanzar el evangelio (escrito desde la custodia).",
         "2 Timoteo 2:9 — \"La palabra de Dios no está presa.\""
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "28:29",
+          "text": "Después que él dijo esto, los judíos se fueron, discutiendo acaloradamente entre ellos."
+        }
       ],
       "translationNotes": [
         {
@@ -2010,8 +2035,7 @@
           "original": "Hebrew: בְּלִי מְנִיעָה (bəliy məniyʿāh, sense) — Greek: ἀκωλύτως (ἀkōlύtōs) — Aramaic: בְּלָא כּוֹבְלָא (בְּלָא כּוֹבְלָא)",
           "note": "Descripción de la proclamación abierta de Pablo durante los dos años en Roma (28:31)."
         }
-      ],
-      "keyTakeaway": "Pablo sobrevive a la mordedura de una víbora y sana a muchos en Malta, luego llega a Roma. Se reúne con los líderes judíos, les explica sus cadenas y la esperanza de Israel, y durante dos años proclama el reino de Dios y enseña acerca del Señor Jesucristo con valentía, recibiendo a todos los que vienen."
+      ]
     }
   ]
 }

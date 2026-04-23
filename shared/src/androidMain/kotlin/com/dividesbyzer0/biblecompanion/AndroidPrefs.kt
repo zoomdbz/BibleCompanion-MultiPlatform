@@ -46,6 +46,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val CUSTOM_THEME_HUE = floatPreferencesKey("custom_theme_hue")
         val SHOW_KEY_TAKEAWAY = booleanPreferencesKey("show_key_takeaway")
         val SHOW_CROSS_REFS = booleanPreferencesKey("show_cross_refs")
+        val SHOW_MANUSCRIPT_VARIANTS = booleanPreferencesKey("show_manuscript_variants")
         val SHOW_TRANSLATION_NOTES = booleanPreferencesKey("show_translation_notes")
         val COLLAPSED_STORIES_JSON = stringPreferencesKey("collapsed_stories_json")
         val AUTO_CONTINUE_TTS = booleanPreferencesKey("auto_continue_tts")
@@ -94,6 +95,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             customThemeHue = p[Keys.CUSTOM_THEME_HUE] ?: 210f,
             showKeyTakeaway = p[Keys.SHOW_KEY_TAKEAWAY] ?: false,
             showCrossRefs = p[Keys.SHOW_CROSS_REFS] ?: false,
+            showManuscriptVariants = p[Keys.SHOW_MANUSCRIPT_VARIANTS] ?: false,
             showTranslationNotes = p[Keys.SHOW_TRANSLATION_NOTES] ?: false,
             collapsedStoriesJson = p[Keys.COLLAPSED_STORIES_JSON] ?: "{}",
             autoContinueTts = p[Keys.AUTO_CONTINUE_TTS] ?: true,
@@ -175,6 +177,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setShowCrossRefs(show: Boolean) =
         context.dataStore.edit { it[Keys.SHOW_CROSS_REFS] = show }.let { Unit }
+
+    actual suspend fun setShowManuscriptVariants(show: Boolean) =
+        context.dataStore.edit { it[Keys.SHOW_MANUSCRIPT_VARIANTS] = show }.let { Unit }
 
     actual suspend fun setShowTranslationNotes(show: Boolean) =
         context.dataStore.edit { it[Keys.SHOW_TRANSLATION_NOTES] = show }.let { Unit }

@@ -511,10 +511,17 @@
         "Jesús le dijo a la multitud que no lo contaran a nadie, pero cuanto más les pedía que no lo hicieran, tanto más hacían correr la voz. (7:36).",
         "Quedaron completamente asombrados y decían una y otra vez: «Todo lo que él hace es maravilloso. Hasta hace oír a los sordos y da la capacidad de hablar al que no puede hacerlo». (7:37)."
       ],
+      "keyTakeaway": "Jesus confronta tradiciones que anulan el mandamiento de Dios, cita el Corban como ejemplo, y declara que la contaminacion viene del corazon, no de los alimentos que entran al cuerpo.",
       "crossRefs": [
         "Isaias 29:13 — \"Este pueblo se acerca con su boca... pero su corazon esta lejos de mi.\"",
         "Exodo 20:12; Deuteronomio 5:16 — Honra a tu padre y a tu madre.",
         "Hechos 10:14–15 — Alimentos limpios e inmundos abordados en una vision posterior."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "7:16",
+          "text": "El que tenga oídos para oír, que oiga"
+        }
       ],
       "translationNotes": [
         {
@@ -537,8 +544,7 @@
           "original": "Hebrew: לְטַמֵּא / לְחלֵּל (context) — Greek (NT): κοινοῦν (koinoῦn) — Aramaic (Syriac): ܡܢܟܦ (mnkp)",
           "note": "Verbo usado para hacer ritualmente impuro/comun (7:15-23)."
         }
-      ],
-      "keyTakeaway": "Jesus confronta tradiciones que anulan el mandamiento de Dios, cita el Corban como ejemplo, y declara que la contaminacion viene del corazon, no de los alimentos que entran al cuerpo."
+      ]
     },
     {
       "id": "mark-8",
@@ -666,11 +672,22 @@
         "»Pues cada uno será probado con fuego. (9:49).",
         "La sal es buena para condimentar, pero si pierde su sabor, ¿cómo la harán salada de nuevo? Entre ustedes deben tener las cualidades de la sal y vivir en paz unos con otros. (9:50)."
       ],
+      "keyTakeaway": "Tres discipulos ven a Jesus transfigurado con Moises y Elias; una voz lo identifica como el Hijo amado. Jesus ordena silencio hasta despues de resucitar de los muertos y responde la pregunta sobre Elias.",
       "crossRefs": [
         "Exodo 24:15–18; 34:29–35 — Monte y resplandor.",
         "1 Reyes 19:8–18 — Elias en Horeb.",
         "Malaquias 4:5–6 — Elias antes del gran dia.",
         "Mateo 17:1–13; Lucas 9:28–36 — Paralelos."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "9:44",
+          "text": "apaga, donde “su gusano no muere, y el fuego no se apaga”"
+        },
+        {
+          "ref": "9:46",
+          "text": "infierno, donde “su gusano no muere, y el fuego no se apaga”"
+        }
       ],
       "translationNotes": [
         {
@@ -683,8 +700,7 @@
           "original": "Hebrew: בְּנִי הָאֱהוּב (bəniy hāʾĕhwb) — Greek (NT): ὁ υἱός μου ὁ ἀγαπητός (ὁ yἱόs mou ὁ ἀgapētόs) — Aramaic (Syriac): ܒܪܝ ܚܒܝܒܐ (bry ḥbybʾ)",
           "note": "La voz celestial identifica a Jesus (9:7)."
         }
-      ],
-      "keyTakeaway": "Tres discipulos ven a Jesus transfigurado con Moises y Elias; una voz lo identifica como el Hijo amado. Jesus ordena silencio hasta despues de resucitar de los muertos y responde la pregunta sobre Elias."
+      ]
     },
     {
       "id": "mark-10",
@@ -805,10 +821,17 @@
         "¿Pero nos atrevemos a decir que era meramente humana?». Pues tenían temor de lo que haría la gente, porque todos creían que Juan era un profeta. (11:32).",
         "Entonces finalmente contestaron: —No sabemos. Y Jesús respondió: —Entonces yo tampoco les diré con qué autoridad hago estas cosas. (11:33)."
       ],
+      "keyTakeaway": "Jesus entra en Jerusalen sobre un pollino mientras las multitudes tienden mantos y ramas y claman \"Hosanna\"; luego inspecciona el templo y se retira a Betania.",
       "crossRefs": [
         "Zacarias 9:9 — Rey humilde sobre un pollino.",
         "Salmo 118:25–26 — \"Hosanna... Bendito el que viene en el nombre del SENOR.\"",
         "Mateo 21:1–11; Lucas 19:28–40; Juan 12:12–15 — Paralelos."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "11:26",
+          "text": "Pero, si ustedes no perdonan, tampoco su Padre que está en el cielo les perdonará a ustedes sus ofensas"
+        }
       ],
       "translationNotes": [
         {
@@ -826,8 +849,7 @@
           "original": "Hebrew: לַאדֹנָי צֹרֶךְ־בּוֹ (laʾdōnāy ṣōrekə-bwō, sense) — Greek (NT): ὁ κύριος αὐτοῦ χρείαν ἔχει (ὁ kύrios aὐtoῦ chreίan ἔchei) — Aramaic (Syriac): ܠܡܪܝܐ ܡܬܒܥܐ ܒܗ (lmryʾ mtbʿʾ bh)",
           "note": "Instruccion para explicar por que toman el pollino (11:3)."
         }
-      ],
-      "keyTakeaway": "Jesus entra en Jerusalen sobre un pollino mientras las multitudes tienden mantos y ramas y claman \"Hosanna\"; luego inspecciona el templo y se retira a Betania."
+      ]
     },
     {
       "id": "mark-12",
@@ -1127,10 +1149,17 @@
         "José compró un largo lienzo de lino. Luego bajó el cuerpo de Jesús de la cruz, lo envolvió en el lienzo y lo colocó en una tumba que había sido tallada en la roca. Después hizo rodar una piedra en la entrada. (15:46).",
         "María Magdalena y María, la madre de José, vieron dónde ponían el cuerpo de Jesús. (15:47)."
       ],
+      "keyTakeaway": "Pilato interroga a Jesus como 'Rey de los judios', suelta a Barrabas el homicida, manda azotar a Jesus, y los soldados se burlan y lo preparan para la crucifixion.",
       "crossRefs": [
         "Isaias 53:7 — Callado ante los acusadores.",
         "Lucas 23:18–25; Mateo 27:15–31; Juan 18:28–19:16 — Paralelos.",
         "Salmo 22:7 — Imagen de burla."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:28",
+          "text": "Así se cumplió la Escritura que dice: «Fue contado entre los malhechores»"
+        }
       ],
       "translationNotes": [
         {
@@ -1148,8 +1177,7 @@
           "original": "Greek (NT): πραιτώριον (praitώrion) — Aramaic (Syriac): ܦܪܛܘܪܝܘܢ (prṭwrywn) — Latin: praetorium",
           "note": "Cuartel general del gobernador (15:16)."
         }
-      ],
-      "keyTakeaway": "Pilato interroga a Jesus como 'Rey de los judios', suelta a Barrabas el homicida, manda azotar a Jesus, y los soldados se burlan y lo preparan para la crucifixion."
+      ]
     },
     {
       "id": "mark-16",

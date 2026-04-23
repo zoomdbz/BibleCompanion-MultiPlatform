@@ -111,6 +111,7 @@
     <string name="show_more">더 보기</string>
     <string name="show_less">접기</string>
     <string name="cross_references">상호 참조</string>
+    <string name="manuscript_variants_header">사본 이문</string>
     <string name="translation_notes_header">번역 노트</string>
     <string name="key_takeaway">핵심 요점</string>
     <string name="share">공유</string>
@@ -273,6 +274,8 @@
     <string name="widget_feasts">절기</string>
     <string name="widget_cal_hebrew">히브리</string>
     <string name="widget_cal_essene">에세네</string>
+    <string name="widget_cal_karaite">카라이트</string>
+    <string name="widget_cal_all">모두</string>
     <string name="widget_cal_both">모두</string>
     <string name="widget_no_feasts">다가오는 절기가 없습니다</string>
     <string name="widget_day_of_feast">%1$d일째</string>

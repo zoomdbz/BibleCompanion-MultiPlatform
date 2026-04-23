@@ -111,6 +111,7 @@
     <string name="show_more">और दिखाएँ</string>
     <string name="show_less">कम दिखाएँ</string>
     <string name="cross_references">क्रॉस संदर्भ</string>
+    <string name="manuscript_variants_header">पांडुलिपि रूपांतर</string>
     <string name="translation_notes_header">अनुवाद टिप्पणियाँ</string>
     <string name="key_takeaway">मुख्य निष्कर्ष</string>
     <string name="share">साझा करें</string>
@@ -273,6 +274,8 @@
     <string name="widget_feasts">पर्व</string>
     <string name="widget_cal_hebrew">हिब्रू</string>
     <string name="widget_cal_essene">एसेनी</string>
+    <string name="widget_cal_karaite">कराई</string>
+    <string name="widget_cal_all">सभी</string>
     <string name="widget_cal_both">दोनों</string>
     <string name="widget_no_feasts">कोई आगामी पर्व नहीं</string>
     <string name="widget_day_of_feast">दिन %1$d</string>

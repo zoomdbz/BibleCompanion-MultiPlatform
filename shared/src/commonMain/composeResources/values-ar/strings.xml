@@ -111,6 +111,7 @@
     <string name="show_more">عرض المزيد</string>
     <string name="show_less">عرض أقل</string>
     <string name="cross_references">المراجع المتقاطعة</string>
+    <string name="manuscript_variants_header">اختلافات المخطوطات</string>
     <string name="translation_notes_header">ملاحظات الترجمة</string>
     <string name="key_takeaway">الخلاصة الرئيسية</string>
     <string name="share">مشاركة</string>
@@ -273,6 +274,8 @@
     <string name="widget_feasts">الأعياد</string>
     <string name="widget_cal_hebrew">العبري</string>
     <string name="widget_cal_essene">الأسيني</string>
+    <string name="widget_cal_karaite">قرائي</string>
+    <string name="widget_cal_all">الكل</string>
     <string name="widget_cal_both">كلاهما</string>
     <string name="widget_no_feasts">لا أعياد قادمة</string>
     <string name="widget_day_of_feast">اليوم %1$d</string>

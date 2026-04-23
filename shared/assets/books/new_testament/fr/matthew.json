@@ -66,6 +66,7 @@
         "Alors Hérode fait appeler les sages en secret. Il leur demande : « À quel moment est-ce que l’étoile est apparue ? » (2:7).",
         "Ensuite il les envoie à Bethléem en disant : « Allez vous renseigner exactement sur l’enfant. Quand vous l’aurez trouvé, venez me prévenir, et moi aussi, j’irai l’adorer. » (2:8).",
         "Après ces paroles du roi, les sages se mettent en route. Ils aperçoivent l’étoile qu’ils ont vue à l’est. Ils sont remplis d’une très grande joie en la voyant. L’étoile avance devant eux. Elle arrive au-dessus de l’endroit où l’enfant se trouve, et elle s’arrête là. (2:9).",
+        "A la vue de l'étoile, ils éprouvèrent une très grande joie. (2:10).",
         "Les sages entrent dans la maison, et ils voient l’enfant avec Marie, sa mère. Ils se mettent à genoux et adorent l’enfant. Ensuite, ils ouvrent leurs bagages et ils lui offrent des cadeaux : de l’or, de l’encens et de la myrrhe . (2:11).",
         "Après cela, Dieu les avertit dans un rêve de ne pas retourner chez Hérode. Alors ils prennent un autre chemin pour rentrer dans leur pays. (2:12).",
         "Quand les sages sont partis, l’ange du Seigneur se montre à Joseph dans un rêve. L’ange lui dit : « Lève-toi, prends avec toi l’enfant et sa mère. Pars vite pour l’Égypte ! Reste là-bas. Je te dirai quand tu dois revenir. En effet, Hérode va chercher l’enfant pour le faire mourir. » (2:13).",
@@ -863,6 +864,7 @@
         "À ce moment-là, Hérode Antipas, le gouverneur de Galilée, entend parler de Jésus. (14:1).",
         "Il dit à ses serviteurs : « Cet homme, c’est Jean-Baptiste ! Il s’est réveillé de la mort ! C’est pourquoi il a le pouvoir de faire des miracles. » (14:2).",
         "Voici l’histoire de la mort de Jean-Baptiste. Hérode a pris pour femme Hérodiade, la femme de son frère Philippe. Jean dit à Hérode : « Tu n’as pas le droit de prendre cette femme. » Alors Hérode fait arrêter Jean, il le fait attacher et mettre en prison. (14:3).",
+        "En effet, Jean lui disait : Il ne t'est pas permis de l'avoir pour femme. (14:4).",
         "Hérode veut faire mourir Jean, mais il a peur du peuple. En effet, les gens pensent que Jean est un prophète . (14:5).",
         "Le jour de l’anniversaire d’Hérode, la fille d’Hérodiade danse devant les invités. Elle plaît à Hérode, (14:6).",
         "et il lui fait ce serment : « Je te donnerai tout ce que tu me demanderas. » (14:7).",
@@ -1076,10 +1078,17 @@
         "Pierre répond : « Les étrangers. » Jésus lui dit : « Donc, les gens du pays ne sont pas obligés de payer ? (17:26).",
         "Mais ceux qui font payer l’impôt du temple ne comprendront pas cela. C’est pourquoi, va pêcher dans le lac. Prends le premier poisson qui viendra, ouvre-lui la bouche. Tu trouveras une pièce d’argent. Prends-la et donne-la pour payer mon impôt et le tien. » (17:27)."
       ],
+      "keyTakeaway": "Jésus est révélé dans sa gloire avec Moïse et Élie ; la voix du Père parle ; il leur est ordonné de garder le silence jusqu'après la résurrection ; le rôle d'Élie est lié à Jean-Baptiste.",
       "crossRefs": [
         "Exode 34:29-35 — Le visage de Moïse resplendissant.",
         "Malachie 4:5-6 — Élie avant le grand jour.",
         "2 Pierre 1:16-18 — Témoins oculaires de la gloire majestueuse."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "17:21",
+          "text": "Mais cette espèce-là ne sort que par la prière et le jeûne"
+        }
       ],
       "translationNotes": [
         {
@@ -1092,8 +1101,7 @@
           "original": "Hebrew (echoes): Psalm 2:7; Deut 18:15 (Psalm 2:7; Deut 18:15) — Greek (here): Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός… ἀκούετε αὐτοῦ (Oὗtόs ἐstin ὁ yἱόs mou ὁ ἀgapētόs… ἀkoύete aὐtoῦ) — Aramaic (concept): ברי חביבא… שמעון ליה (ברי חביבא… שמעון ליה)",
           "note": "Affirmation céleste combinant des motifs royaux et prophétiques."
         }
-      ],
-      "keyTakeaway": "Jésus est révélé dans sa gloire avec Moïse et Élie ; la voix du Père parle ; il leur est ordonné de garder le silence jusqu'après la résurrection ; le rôle d'Élie est lié à Jean-Baptiste."
+      ]
     },
     {
       "id": "matthew-18",
@@ -1138,11 +1146,18 @@
         "Le maître est en colère. Il envoie le serviteur en prison pour le punir. Le serviteur restera là en attendant qu’il rembourse toute sa dette. » (18:34).",
         "Et Jésus ajoute : « Mon Père qui est dans les cieux vous fera la même chose, si chacun de vous ne pardonne pas à ses frères et sœurs de tout son cœur. » (18:35)."
       ],
+      "keyTakeaway": "La grandeur est humble et enfantine. Avertissement sévère contre le fait de faire tomber les croyants. Le Père cherche celui qui s'est égaré.",
       "crossRefs": [
         "Marc 9:33-37 — Parallèle sur la vraie grandeur.",
         "Deutéronome 27:18 — Malheur à qui fait trébucher le vulnérable.",
         "Luc 15:3-7 — Parabole de la brebis perdue.",
         "Matthieu 5:29-30 — Avertissement antérieur d'enlever ce qui fait pécher."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "18:11",
+          "text": "Car le Fils de l'homme est venu sauver ce qui était perdu"
+        }
       ],
       "translationNotes": [
         {
@@ -1160,8 +1175,7 @@
           "original": "Hebrew (concept): קְטַנִּים (qəṭaniym) — Greek: μικροί (mikroί) — Aramaic: זְעֵירִין (זְעֵירִין)",
           "note": "Désigne ici les croyants humbles (18:6-14)."
         }
-      ],
-      "keyTakeaway": "La grandeur est humble et enfantine. Avertissement sévère contre le fait de faire tomber les croyants. Le Père cherche celui qui s'est égaré."
+      ]
     },
     {
       "id": "matthew-19",
@@ -1341,6 +1355,7 @@
         "Les chefs religieux répondent à Jésus : « Il va tuer sans pitié ces gens méchants. Il louera la vigne à d’autres vignerons, et au moment de la récolte, ces vignerons lui donneront le raisin. » (21:41).",
         "Alors Jésus leur dit : « Vous avez sûrement lu ces phrases dans les Livres Saints : “La pierre que les maçons ont rejetée est devenue la pierre principale de la maison. C’est le Seigneur qui a fait cela. Quelle chose merveilleuse pour nous !” (21:42).",
         "Si quelqu’un tombe sur cette pierre, son corps sera brisé. Si cette pierre tombe sur quelqu’un, elle l’écrasera. C’est pourquoi, je vous le dis, Dieu vous enlèvera le Royaume et il le donnera à un peuple qui produira les fruits du Royaume. » (21:43).",
+        "Quiconque tombera sur cette pierre s'y brisera, et celui sur qui elle tombera, elle l'écrasera. (21:44).",
         "Les chefs des prêtres et les Pharisiens entendent les comparaisons de Jésus, et ils comprennent que Jésus parle d’eux. (21:45).",
         "Ils cherchent à l’arrêter, mais ils ont peur des foules. En effet, les gens pensent que Jésus est un prophète . (21:46)."
       ],
@@ -1482,9 +1497,16 @@
         "Eh bien, Dieu va abandonner votre temple ! (23:38).",
         "En effet, je vous le dis, bientôt vous ne me verrez plus jusqu’au jour où vous direz : “Que Dieu bénisse celui qui vient en son nom !” » (23:39)."
       ],
+      "keyTakeaway": "Jésus met en garde contre la religion ostentatoire et les titres ; la vraie grandeur est dans le service.",
       "crossRefs": [
         "Malachie 2:7 — L'instruction recherchée sur les lèvres d'un prêtre.",
         "Matthieu 20:26-28 — La grandeur dans le service."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "23:14",
+          "text": "Quel malheur pour vous, scribes et pharisiens, hypocrites ! Vous dévorez les maisons des veuves et, pour l'apparence, vous faites de longues prières ; à cause de cela, vous recevrez un jugement plus sévère"
+        }
       ],
       "translationNotes": [
         {
@@ -1497,8 +1519,7 @@
           "original": "Hebrew: רַבִּי (rabbi, ‘my great/teacher’), אָב (’av, ‘father’) — Greek: ῥαββί / πατήρ / καθηγητής (ῥabbί / patήr / kathēgētήs) — Aramaic: רבי / אבא / מַלְפָּנָא (malpānā)",
           "note": "Titres honorifiques abordés dans l'enseignement de Jésus (23:8-10)."
         }
-      ],
-      "keyTakeaway": "Jésus met en garde contre la religion ostentatoire et les titres ; la vraie grandeur est dans le service."
+      ]
     },
     {
       "id": "matthew-24",

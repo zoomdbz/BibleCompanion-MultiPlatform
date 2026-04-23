@@ -562,15 +562,21 @@
         "The eunuch asked Philip, “Tell me, was the prophet talking about himself or someone else?” (8:34).",
         "So beginning with this same Scripture, Philip told him the Good News about Jesus. (8:35).",
         "As they rode along, they came to some water, and the eunuch said, “Look! There’s some water! Why can’t I be baptized?” (8:36).",
-        "[Some manuscripts include:] And Philip said, “If you believe with all your heart, you may.” And he replied, “I believe that Jesus Christ is the Son of God.” (8:37).",
         "He ordered the carriage to stop, and they went down into the water, and Philip baptized him. (8:38).",
         "When they came up out of the water, the Spirit of the Lord snatched Philip away. The eunuch never saw him again but went on his way rejoicing. (8:39).",
         "Meanwhile, Philip found himself farther north at the town of Azotus. He preached the Good News there and in every town along the way until he came to Caesarea. (8:40)."
       ],
+      "keyTakeaway": "Persecution scatters believers beyond Jerusalem; Saul aggressively enters homes and imprisons believers.",
       "crossRefs": [
         "Acts 1:8 — Witness in Jerusalem, Judea, Samaria, and to the end of the earth.",
         "Acts 7:58 — Garments laid at the feet of a young man named Saul.",
         "Galatians 1:13 — Paul recalls persecuting the church."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "8:37",
+          "text": "And Philip said, “If you believe with all your heart, you may.” And he replied, “I believe that Jesus Christ is the Son of God.”"
+        }
       ],
       "translationNotes": [
         {
@@ -583,8 +589,7 @@
           "original": "Hebrew: קָהָל (qāhāl, ‘assembly’) — Greek: ἐκκλησία (ἐkklēsίa) — Aramaic: עֵדְתָּא (‘assembly’)",
           "note": "Term for the gathered community of believers (8:1-3)."
         }
-      ],
-      "keyTakeaway": "Persecution scatters believers beyond Jerusalem; Saul aggressively enters homes and imprisons believers."
+      ]
     },
     {
       "id": "acts-9",
@@ -1059,7 +1064,6 @@
         "And there was great joy throughout the church that day as they read this encouraging message. (15:31).",
         "Then Judas and Silas, both being prophets, spoke at length to the believers, encouraging and strengthening their faith. (15:32).",
         "They stayed for a while, and then the believers sent them back to the church in Jerusalem with a blessing of peace. (15:33).",
-        "[Some manuscripts include:] But it seemed good to Silas to remain there (15:34).",
         "Paul and Barnabas stayed in Antioch. They and many others taught and preached the word of the Lord there. (15:35).",
         "After some time Paul said to Barnabas, “Let’s go back and visit each city where we previously preached the word of the Lord, to see how the new believers are doing.” (15:36).",
         "Barnabas agreed and wanted to take along John Mark. (15:37).",
@@ -1068,10 +1072,17 @@
         "Paul chose Silas, and as he left, the believers entrusted him to the Lord’s gracious care. (15:40).",
         "Then he traveled throughout Syria and Cilicia, strengthening the churches there. (15:41)."
       ],
+      "keyTakeaway": "The Jerusalem council decides not to require circumcision of Gentile believers and sends a letter with four abstentions for fellowship.",
       "crossRefs": [
         "Genesis 17:9–14 — Circumcision given to Abraham and his offspring.",
         "Amos 9:11–12 — Nations called by God’s name (quoted by James).",
         "Leviticus 17–18 — Blood and idolatry/sexual immorality regulations (background)."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "15:34",
+          "text": "But it seemed good to Silas to remain there"
+        }
       ],
       "translationNotes": [
         {
@@ -1094,8 +1105,7 @@
           "original": "Hebrew: נִרְאָה טוֹב לְרוּחַ הַקֹּדֶשׁ וְלָנוּ (nirəʾāh ṭwōb lərwḥa haqōdeš wəlānw, sense) — Greek: ἔδοξεν τῷ ἁγίῳ πνεύματι καὶ ἡμῖν (ἔdoxen tῷ ἁgίῳ pneύmati kaὶ ἡmῖn) — Aramaic: שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא (שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא)",
           "note": "Letter’s phrasing about the decision’s source (15:28)."
         }
-      ],
-      "keyTakeaway": "The Jerusalem council decides not to require circumcision of Gentile believers and sends a letter with four abstentions for fellowship."
+      ]
     },
     {
       "id": "acts-16",
@@ -1668,7 +1678,6 @@
         "But I don’t want to bore you, so please give me your attention for only a moment. (24:4).",
         "We have found this man to be a troublemaker who is constantly stirring up riots among the Jews all over the world. He is a ringleader of the cult known as the Nazarenes. (24:5).",
         "Furthermore, he was trying to desecrate the Temple when we arrested him. (24:6).",
-        "[Some manuscripts include:] But the commander Lysias came and took him from us with much violence, (24:7).",
         "You can find out the truth of our accusations by examining him yourself.” (24:8).",
         "Then the other Jews chimed in, declaring that everything Tertullus said was true. (24:9).",
         "The governor then motioned for Paul to speak. Paul said, “I know, sir, that you have been a judge of Jewish affairs for many years, so I gladly present my defense before you. (24:10).",
@@ -1690,10 +1699,17 @@
         "He also hoped that Paul would bribe him, so he sent for him quite often and talked with him. (24:26).",
         "After two years went by in this way, Felix was succeeded by Porcius Festus. And because Felix wanted to gain favor with the Jewish people, he left Paul in prison. (24:27)."
       ],
+      "keyTakeaway": "Tertullus presents charges before Felix; Paul affirms worship according to the Way and hope in the resurrection. Felix delays judgment, often hears Paul, and after two years leaves him imprisoned when Festus succeeds.",
       "crossRefs": [
         "Daniel 12:2 — Resurrection of many who sleep in the dust.",
         "Acts 9:2; Acts 19:9-23 — “The Way” as designation for the movement.",
         "Acts 26:7–8 — Hope in God’s promise and resurrection theme."
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "24:7",
+          "text": "But the commander Lysias came and took him from us with much violence,"
+        }
       ],
       "translationNotes": [
         {
@@ -1716,8 +1732,7 @@
           "original": "Hebrew: דְּרוּסִלָּה (translit.) — Greek: Δρουσίλλα (Drousίlla) — Aramaic: דְּרוּסִלָּא (דְּרוּסִלָּא)",
           "note": "Felix’s wife, identified as a Jewess (24:24)."
         }
-      ],
-      "keyTakeaway": "Tertullus presents charges before Felix; Paul affirms worship according to the Way and hope in the resurrection. Felix delays judgment, often hears Paul, and after two years leaves him imprisoned when Festus succeeds."
+      ]
     },
     {
       "id": "acts-25",
@@ -1968,15 +1983,21 @@
         "‘Go and say to this people: When you hear what I say, you will not understand. When you see what I do, you will not comprehend. (28:26).",
         "For the hearts of these people are hardened, and their ears cannot hear, and they have closed their eyes— so their eyes cannot see, and their ears cannot hear, and their hearts cannot understand, and they cannot turn to me and let me heal them.’ (28:27).",
         "So I want you to know that this salvation from God has also been offered to the Gentiles, and they will accept it.” (28:28).",
-        "[Some manuscripts include:] And when he had said these words, the Jews departed, having much dispute among themselves (28:29).",
         "For the next two years, Paul lived in Rome at his own expense. He welcomed all who visited him, (28:30).",
         "boldly proclaiming the Kingdom of God and teaching about the Lord Jesus Christ. And no one tried to stop him. (28:31)."
       ],
+      "keyTakeaway": "Paul survives a viper bite and heals many on Malta, then reaches Rome. He meets Jewish leaders, explains his chains and the hope of Israel, and for two years proclaims the kingdom of God and teaches about the Lord Jesus Christ with boldness, receiving all who come.",
       "crossRefs": [
         "Isaiah 6:9–10 — Quoted regarding hearing and not understanding.",
         "Acts 9:15 — Paul as chosen to carry the name before Gentiles and kings.",
         "Philippians 1:12–14 — Imprisonment advancing the gospel (written from custody).",
         "2 Timothy 2:9 — “The word of God is not bound.”"
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "28:29",
+          "text": "And when he had said these words, the Jews departed, having much dispute among themselves"
+        }
       ],
       "translationNotes": [
         {
@@ -2014,8 +2035,7 @@
           "original": "Hebrew: בְּלִי מְנִיעָה (bəliy məniyʿāh, sense) — Greek: ἀκωλύτως (ἀkōlύtōs) — Aramaic: בְּלָא כּוֹבְלָא (בְּלָא כּוֹבְלָא)",
           "note": "Description of Paul’s open proclamation during the two years in Rome (28:31)."
         }
-      ],
-      "keyTakeaway": "Paul survives a viper bite and heals many on Malta, then reaches Rome. He meets Jewish leaders, explains his chains and the hope of Israel, and for two years proclaims the kingdom of God and teaches about the Lord Jesus Christ with boldness, receiving all who come."
+      ]
     }
   ]
 }

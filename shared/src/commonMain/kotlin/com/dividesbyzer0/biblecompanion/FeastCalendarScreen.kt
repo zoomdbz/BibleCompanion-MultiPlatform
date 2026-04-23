@@ -312,11 +312,13 @@ private fun DayCell(
 ) {
   val hasHebrew = feasts?.any { it.calendar == FeastCalendarType.HEBREW } == true
   val hasEssene = feasts?.any { it.calendar == FeastCalendarType.ESSENE } == true
+  val hasKaraite = feasts?.any { it.calendar == FeastCalendarType.KARAITE } == true
   val springFeast = feasts?.any { it.isSpring } == true
 
   val bgColor = when {
-    hasHebrew && hasEssene -> MaterialTheme.colorScheme.tertiaryContainer.copy(alpha = 0.6f)
+    (hasHebrew || hasKaraite) && hasEssene -> MaterialTheme.colorScheme.tertiaryContainer.copy(alpha = 0.6f)
     hasHebrew -> feastSpringColor(springFeast).copy(alpha = 0.25f)
+    hasKaraite -> feastSpringColor(springFeast).copy(alpha = 0.22f)
     hasEssene -> feastSpringColor(springFeast).copy(alpha = 0.15f)
     else -> Color.Transparent
   }
@@ -414,7 +416,11 @@ private fun MonthFeastList(
             .maxOf { it.key }
           val dateStr = if (day == rangeEnd) "$day" else "$day\u2013$rangeEnd"
 
-          val calLabel = if (m.calendar == FeastCalendarType.HEBREW) "H" else "E"
+          val calLabel = when (m.calendar) {
+            FeastCalendarType.HEBREW -> "H"
+            FeastCalendarType.ESSENE -> "E"
+            FeastCalendarType.KARAITE -> "K"
+          }
           val hebrew = HebrewCalendar.gregorianToHebrew(year, month, day)
 
           Row(
@@ -426,8 +432,11 @@ private fun MonthFeastList(
                 .size(8.dp)
                 .clip(CircleShape)
                 .background(
-                  if (m.calendar == FeastCalendarType.HEBREW) feastSpringColor(m.isSpring)
-                  else MaterialTheme.colorScheme.tertiary
+                  when (m.calendar) {
+                    FeastCalendarType.HEBREW -> feastSpringColor(m.isSpring)
+                    FeastCalendarType.ESSENE -> MaterialTheme.colorScheme.tertiary
+                    FeastCalendarType.KARAITE -> MaterialTheme.colorScheme.secondary
+                  }
                 )
             )
             Spacer(Modifier.width(8.dp))

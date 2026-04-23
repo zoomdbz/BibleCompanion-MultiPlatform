@@ -103,7 +103,12 @@ struct FeastWidgetView: View {
                     if idx > 0 {
                         Divider()
                     }
-                    let marker = feast.calendarType == .hebrew ? " \u{2721}" : " \u{2609}"
+                    let marker: String
+                    switch feast.calendarType {
+                    case .hebrew: marker = " \u{2721}"
+                    case .essene: marker = " \u{2609}"
+                    case .karaite: marker = " \u{263E}"
+                    }
                     HStack {
                         Text("\(feast.displayLabel)\(marker)")
                             .font(idx == 0 ? .subheadline : .caption)
