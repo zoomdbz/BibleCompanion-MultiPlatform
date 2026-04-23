@@ -14,37 +14,8 @@
 		E7B2C3D400000024 /* notes in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000015 /* notes */; };
 		E7B2C3D400000025 /* refs in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000016 /* refs */; };
 		E7B2C3D400000026 /* daily_verses in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000017 /* daily_verses */; };
-		E7B2C3D400000110 /* FeastWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000100 /* FeastWidget.swift */; };
-		E7B2C3D400000111 /* HebrewFeastCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000101 /* HebrewFeastCalc.swift */; };
-		E7B2C3D400000112 /* FeastWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000102 /* FeastWidgetBundle.swift */; };
-		E7B2C3D400000114 /* CalendarGridWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000105 /* CalendarGridWidget.swift */; };
-		E7B2C3D400000113 /* FeastWidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000104 /* FeastWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		E7B2C3D500000201 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D500000200 /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		E7B2C3D400000140 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = E7B2C3D400000060 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E7B2C3D400000150;
-			remoteInfo = FeastWidgetExtension;
-		};
-/* End PBXContainerItemProxy section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		E7B2C3D400000133 /* Embed App Extensions */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 13;
-			files = (
-				E7B2C3D400000113 /* FeastWidgetExtension.appex in Embed App Extensions */,
-			);
-			name = "Embed App Extensions";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		E7B2C3D400000001 /* iosApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -56,12 +27,6 @@
 		E7B2C3D400000015 /* notes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = notes; path = ../shared/assets/notes; sourceTree = "<group>"; };
 		E7B2C3D400000016 /* refs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = refs; path = ../shared/assets/refs; sourceTree = "<group>"; };
 		E7B2C3D400000017 /* daily_verses */ = {isa = PBXFileReference; lastKnownFileType = folder; name = daily_verses; path = ../shared/assets/daily_verses; sourceTree = "<group>"; };
-		E7B2C3D400000100 /* FeastWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeastWidget.swift; sourceTree = "<group>"; };
-		E7B2C3D400000101 /* HebrewFeastCalc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HebrewFeastCalc.swift; sourceTree = "<group>"; };
-		E7B2C3D400000102 /* FeastWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeastWidgetBundle.swift; sourceTree = "<group>"; };
-		E7B2C3D400000105 /* CalendarGridWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarGridWidget.swift; sourceTree = "<group>"; };
-		E7B2C3D400000103 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E7B2C3D400000104 /* FeastWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = FeastWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7B2C3D500000210 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D500000211 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D500000212 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -85,13 +50,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7B2C3D400000131 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -99,7 +57,6 @@
 			isa = PBXGroup;
 			children = (
 				E7B2C3D400000031 /* iosApp */,
-				E7B2C3D400000120 /* FeastWidget */,
 				E7B2C3D400000014 /* books */,
 				E7B2C3D400000015 /* notes */,
 				E7B2C3D400000016 /* refs */,
@@ -124,21 +81,8 @@
 			isa = PBXGroup;
 			children = (
 				E7B2C3D400000001 /* iosApp.app */,
-				E7B2C3D400000104 /* FeastWidgetExtension.appex */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		E7B2C3D400000120 /* FeastWidget */ = {
-			isa = PBXGroup;
-			children = (
-				E7B2C3D400000100 /* FeastWidget.swift */,
-				E7B2C3D400000101 /* HebrewFeastCalc.swift */,
-				E7B2C3D400000102 /* FeastWidgetBundle.swift */,
-				E7B2C3D400000105 /* CalendarGridWidget.swift */,
-				E7B2C3D400000103 /* Info.plist */,
-			);
-			path = FeastWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,35 +96,15 @@
 				E7B2C3D400000040 /* Sources */,
 				E7B2C3D400000041 /* Frameworks */,
 				E7B2C3D400000042 /* Resources */,
-				E7B2C3D400000133 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E7B2C3D400000141 /* PBXTargetDependency */,
 			);
 			name = iosApp;
 			productName = iosApp;
 			productReference = E7B2C3D400000001 /* iosApp.app */;
 			productType = "com.apple.product-type.application";
-		};
-		E7B2C3D400000150 /* FeastWidgetExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = E7B2C3D400000170 /* Build configuration list for PBXNativeTarget "FeastWidgetExtension" */;
-			buildPhases = (
-				E7B2C3D400000135 /* Build Kotlin Framework */,
-				E7B2C3D400000130 /* Sources */,
-				E7B2C3D400000131 /* Frameworks */,
-				E7B2C3D400000132 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = FeastWidgetExtension;
-			productName = FeastWidgetExtension;
-			productReference = E7B2C3D400000104 /* FeastWidgetExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -193,9 +117,6 @@
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
 					E7B2C3D400000050 = {
-						CreatedOnToolsVersion = 15.0;
-					};
-					E7B2C3D400000150 = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
@@ -226,7 +147,6 @@
 			projectRoot = "";
 			targets = (
 				E7B2C3D400000050 /* iosApp */,
-				E7B2C3D400000150 /* FeastWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -242,13 +162,6 @@
 				E7B2C3D400000025 /* refs in Resources */,
 				E7B2C3D400000026 /* daily_verses in Resources */,
 				E7B2C3D500000201 /* InfoPlist.strings in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		E7B2C3D400000132 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,23 +210,6 @@
 			shellScript = "cd \"$SRCROOT/..\"\n./gradlew :shared:embedAndSignAppleFrameworkForXcode\n";
 			showEnvVarsInLog = 0;
 		};
-		E7B2C3D400000135 /* Build Kotlin Framework */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			name = "Build Kotlin Framework";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "cd \"$SRCROOT/..\"\n./gradlew :shared:embedAndSignAppleFrameworkForXcode\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -326,26 +222,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7B2C3D400000130 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E7B2C3D400000110 /* FeastWidget.swift in Sources */,
-				E7B2C3D400000111 /* HebrewFeastCalc.swift in Sources */,
-				E7B2C3D400000112 /* FeastWidgetBundle.swift in Sources */,
-				E7B2C3D400000114 /* CalendarGridWidget.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		E7B2C3D400000141 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = E7B2C3D400000150 /* FeastWidgetExtension */;
-			targetProxy = E7B2C3D400000140 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		E7B2C3D400000070 /* Debug */ = {
@@ -519,78 +396,6 @@
 			};
 			name = Release;
 		};
-		E7B2C3D400000160 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 24;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../shared/build/xcode-frameworks/$(CONFIGURATION)/$(SDK_NAME)",
-				);
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FeastWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = FeastWidget;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 2.4.0;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-framework",
-					"shared",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dividesbyzer0.biblecompanion.FeastWidget;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		E7B2C3D400000161 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 24;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../shared/build/xcode-frameworks/$(CONFIGURATION)/$(SDK_NAME)",
-				);
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FeastWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = FeastWidget;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 2.4.0;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-framework",
-					"shared",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dividesbyzer0.biblecompanion.FeastWidget;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -608,15 +413,6 @@
 			buildConfigurations = (
 				E7B2C3D400000072 /* Debug */,
 				E7B2C3D400000073 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		E7B2C3D400000170 /* Build configuration list for PBXNativeTarget "FeastWidgetExtension" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				E7B2C3D400000160 /* Debug */,
-				E7B2C3D400000161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
