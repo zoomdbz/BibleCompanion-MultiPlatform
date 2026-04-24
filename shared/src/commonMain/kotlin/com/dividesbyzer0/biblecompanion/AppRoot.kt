@@ -2607,7 +2607,7 @@ fun StoryCard(
 private val verseRefPattern = Regex("""(\d+):(\d+)(?:\s*-\s*(\d+))?""")
 
 private fun findBulletsForVerseRange(bullets: List<String>, startVerse: Int, endVerse: Int): Set<Int> {
-  val out = sortedSetOf<Int>()
+  val out = linkedSetOf<Int>()
   for ((idx, bullet) in bullets.withIndex()) {
     for (match in verseRefPattern.findAll(bullet)) {
       val s = match.groupValues[2].toIntOrNull() ?: continue

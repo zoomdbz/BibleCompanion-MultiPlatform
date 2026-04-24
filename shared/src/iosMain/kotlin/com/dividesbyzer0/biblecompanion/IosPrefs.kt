@@ -1,11 +1,13 @@
 package com.dividesbyzer0.biblecompanion
 
 import com.dividesbyzer0.biblecompanion.platform.PlatformContext
+import kotlinx.cinterop.ExperimentalForeignApi
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.encodeToString
 import platform.Foundation.NSUserDefaults
+import platform.Foundation.timeIntervalSince1970
 
 actual class PrefsRepo actual constructor(context: PlatformContext) {
 
@@ -273,9 +275,10 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         })
     }
 
+    @OptIn(ExperimentalForeignApi::class)
     actual suspend fun exportBackup(): String {
         val backup = AppBackup(
-            timestamp = platform.Foundation.NSDate().timeIntervalSince1970.toLong() * 1000,
+            timestamp = (platform.Foundation.NSDate().timeIntervalSince1970 * 1000).toLong(),
             bookmarks = loadBookmarks(),
             savedVerses = loadSavedVerses(),
             labels = loadLabels()

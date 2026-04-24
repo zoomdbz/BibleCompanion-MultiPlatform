@@ -1,43 +1,59 @@
+@file:OptIn(kotlinx.cinterop.ExperimentalForeignApi::class, kotlinx.cinterop.BetaInteropApi::class)
+
 package com.dividesbyzer0.biblecompanion.platform
 
-import kotlinx.cinterop.BetaInteropApi
-import kotlinx.cinterop.ExperimentalForeignApi
+import kotlinx.cinterop.ObjCSignatureOverride
 import kotlinx.cinterop.addressOf
+import kotlinx.cinterop.convert
 import kotlinx.cinterop.usePinned
+import platform.AVFAudio.AVSpeechBoundary
+import platform.AVFAudio.AVSpeechSynthesisVoice
+import platform.AVFAudio.AVSpeechSynthesizer
+import platform.AVFAudio.AVSpeechSynthesizerDelegateProtocol
+import platform.AVFAudio.AVSpeechUtterance
 import platform.Foundation.NSBundle
 import platform.Foundation.NSData
+import platform.Foundation.NSDate
+import platform.Foundation.NSDateFormatter
+import platform.Foundation.NSDocumentDirectory
 import platform.Foundation.NSFileManager
+import platform.Foundation.NSHTTPURLResponse
 import platform.Foundation.NSLocale
-import platform.Foundation.NSSearchPathDirectory
-import platform.Foundation.NSSearchPathDomainMask
+import platform.Foundation.NSMutableCharacterSet
+import platform.Foundation.NSMutableURLRequest
+import platform.Foundation.NSSearchPathForDirectoriesInDomains
+import platform.Foundation.NSURLRequestUseProtocolCachePolicy
 import platform.Foundation.NSString
 import platform.Foundation.NSURL
+import platform.Foundation.NSURLRequest
+import platform.Foundation.NSURLResponse
+import platform.Foundation.NSURLSession
 import platform.Foundation.NSUTF8StringEncoding
 import platform.Foundation.NSUserDomainMask
-import platform.Foundation.NSDocumentDirectory
-import platform.Foundation.NSMutableURLRequest
-import platform.Foundation.NSURLConnection
-import platform.Foundation.NSURLResponse
-import platform.Foundation.NSURL.Companion.URLWithString
-import platform.Foundation.create
+import platform.Foundation.countryCode
 import platform.Foundation.currentLocale
-import platform.Foundation.dataWithContentsOfFile
-import platform.Foundation.lastPathComponent
-import platform.Foundation.pathExtension
-import platform.Foundation.stringByDeletingPathExtension
+import platform.Foundation.dataTaskWithRequest
+import platform.Foundation.decomposedStringWithCompatibilityMapping
+import platform.Foundation.languageCode
+import platform.Foundation.precomposedStringWithCompatibilityMapping
+import platform.Foundation.scriptCode
+import platform.Foundation.setHTTPMethod
+import platform.Foundation.setValue
+import platform.Foundation.stringByAddingPercentEncodingWithAllowedCharacters
 import platform.Foundation.stringWithContentsOfFile
+import platform.Foundation.timeIntervalSince1970
 import platform.Foundation.writeToFile
 import platform.UIKit.UIActivityViewController
 import platform.UIKit.UIApplication
 import platform.UIKit.UIPasteboard
-import platform.Security.SecRandomCopyBytes
-import platform.CoreFoundation.CFStringTransform
-import platform.CoreFoundation.kCFStringTransformToLatin
-import platform.CoreFoundation.kCFStringTransformStripCombiningMarks
-import kotlinx.cinterop.refTo
-import kotlinx.cinterop.convert
-import platform.CommonCrypto.CC_SHA256
-import platform.CommonCrypto.CC_SHA256_DIGEST_LENGTH
+import platform.UIKit.UIWindow
+import platform.UIKit.UIWindowScene
+import platform.darwin.NSObject
+import platform.darwin.dispatch_semaphore_create
+import platform.darwin.dispatch_semaphore_signal
+import platform.darwin.dispatch_semaphore_wait
+import platform.posix.memcpy
+import kotlin.concurrent.Volatile
 
 actual abstract class PlatformContext {
     val bundle: NSBundle = NSBundle.mainBundle
@@ -46,7 +62,6 @@ actual abstract class PlatformContext {
 fun createPlatformContext(): PlatformContext = object : PlatformContext() {}
 
 actual fun readAssetText(context: PlatformContext, path: String): String? {
-    // Assets are bundled as resources in the iOS app
     val components = path.split("/")
     val fileName = components.last().substringBeforeLast(".")
     val ext = components.last().substringAfterLast(".", "")
@@ -76,21 +91,11 @@ actual fun assetExists(context: PlatformContext, path: String): Boolean {
     return resourcePath != null
 }
 
-@OptIn(ExperimentalForeignApi::class)
 private fun getDocumentsDir(): String {
     val paths = NSSearchPathForDirectoriesInDomains(
         NSDocumentDirectory, NSUserDomainMask, true
     )
     return (paths.firstOrNull() as? String) ?: ""
-}
-
-@OptIn(ExperimentalForeignApi::class)
-private fun NSSearchPathForDirectoriesInDomains(
-    directory: NSSearchPathDirectory,
-    domainMask: NSSearchPathDomainMask,
-    expandTilde: Boolean
-): List<*> {
-    return platform.Foundation.NSSearchPathForDirectoriesInDomains(directory, domainMask, expandTilde)
 }
 
 actual fun readCacheFile(context: PlatformContext, dir: String, name: String): String? {
@@ -104,6 +109,7 @@ actual fun writeCacheFile(context: PlatformContext, dir: String, name: String, c
     val dirPath = "${getDocumentsDir()}/$dir"
     NSFileManager.defaultManager.createDirectoryAtPath(dirPath, true, null, null)
     val path = "$dirPath/$name"
+    @Suppress("CAST_NEVER_SUCCEEDS")
     (content as NSString).writeToFile(path, true, NSUTF8StringEncoding, null)
 }
 
@@ -118,7 +124,7 @@ actual fun ensureCacheDir(context: PlatformContext, dir: String) {
 }
 
 actual fun platformOpenUrl(context: PlatformContext, url: String) {
-    URLWithString(url)?.let { nsUrl ->
+    NSURL.URLWithString(url)?.let { nsUrl ->
         UIApplication.sharedApplication.openURL(nsUrl)
     }
 }
@@ -127,22 +133,20 @@ actual fun platformOpenUrlInBrowser(context: PlatformContext, url: String) {
     platformOpenUrl(context, url)
 }
 
-actual fun platformIsAppInstalled(context: PlatformContext, packageId: String): Boolean {
-    // iOS doesn't support checking arbitrary app installation
-    return false
-}
+actual fun platformIsAppInstalled(context: PlatformContext, packageId: String): Boolean = false
 
 actual fun platformCopyToClipboard(context: PlatformContext, label: String, text: String) {
     UIPasteboard.generalPasteboard.string = text
 }
 
-@OptIn(ExperimentalForeignApi::class, BetaInteropApi::class)
 actual fun platformShareText(context: PlatformContext, subject: String, text: String) {
     val items = listOf(text)
     val activityVC = UIActivityViewController(activityItems = items, applicationActivities = null)
     val scenes = UIApplication.sharedApplication.connectedScenes
-    val windowScene = scenes.firstOrNull() as? platform.UIKit.UIWindowScene
-    val window = windowScene?.windows?.firstOrNull { (it as? platform.UIKit.UIWindow)?.isKeyWindow == true } as? platform.UIKit.UIWindow
+    val windowScene = scenes.firstOrNull() as? UIWindowScene
+    val window = windowScene?.windows?.firstOrNull {
+        (it as? UIWindow)?.isKeyWindow() == true
+    } as? UIWindow
     window?.rootViewController?.presentViewController(
         activityVC, animated = true, completion = null
     )
@@ -177,85 +181,161 @@ actual fun platformCountryFromTag(tag: String): String {
 }
 
 actual fun platformSetAppLocale(tag: String) {
-    // iOS locale is set via system settings; no programmatic override needed
-    // The app reads the user preference and loads appropriate assets
+    // iOS locale is set via system settings; app reads preference and loads assets
 }
 
 actual fun platformRecreateApp(context: PlatformContext) {
     // No-op on iOS - UI recomposes automatically
 }
 
-@OptIn(ExperimentalForeignApi::class)
 actual fun normalizeNFKD(s: String): String {
     @Suppress("CAST_NEVER_SUCCEEDS")
     val nsStr = s as NSString
     return nsStr.decomposedStringWithCompatibilityMapping
 }
 
-@OptIn(ExperimentalForeignApi::class)
 actual fun normalizeNFKC(s: String): String {
     @Suppress("CAST_NEVER_SUCCEEDS")
     val nsStr = s as NSString
     return nsStr.precomposedStringWithCompatibilityMapping
 }
 
+private fun nsDataToUtf8String(data: NSData): String {
+    val length = data.length.toInt()
+    if (length == 0) return ""
+    val src = data.bytes ?: return ""
+    val buffer = ByteArray(length)
+    buffer.usePinned { pinned ->
+        memcpy(pinned.addressOf(0), src, length.convert())
+    }
+    return buffer.decodeToString()
+}
+
 actual fun httpGetForPreflight(url: String, timeoutMs: Int, maxBytes: Int): Pair<Int, String> {
     return try {
         val nsUrl = NSURL.URLWithString(url) ?: return 0 to ""
-        val request = NSMutableURLRequest(nsUrl).apply {
-            setHTTPMethod("GET")
-            setTimeoutInterval(timeoutMs / 1000.0)
-            setValue("Mozilla/5.0 (iOS) BibleCompanion/1.0", forHTTPHeaderField = "User-Agent")
+        val request = NSMutableURLRequest(
+            uRL = nsUrl,
+            cachePolicy = NSURLRequestUseProtocolCachePolicy,
+            timeoutInterval = timeoutMs / 1000.0
+        )
+        request.setHTTPMethod("GET")
+        request.setValue("Mozilla/5.0 (iOS) BibleCompanion/1.0", forHTTPHeaderField = "User-Agent")
+
+        val semaphore = dispatch_semaphore_create(0)
+        var statusCode = 200
+        var body = ""
+        val task = NSURLSession.sharedSession.dataTaskWithRequest(request) { data, response, _ ->
+            statusCode = (response as? NSHTTPURLResponse)?.statusCode?.toInt() ?: 200
+            val text = data?.let { nsDataToUtf8String(it) } ?: ""
+            body = if (text.length > maxBytes) text.substring(0, maxBytes) else text
+            dispatch_semaphore_signal(semaphore)
         }
-        val data = NSURLConnection.sendSynchronousRequest(request, returningResponse = null, error = null)
-        val fullBody = data?.let {
-            NSString.create(data = it, encoding = NSUTF8StringEncoding)?.lowercase() ?: ""
-        } ?: ""
-        // Respect maxBytes by truncating the result (mirrors Android capping)
-        val body = if (fullBody.length > maxBytes) fullBody.substring(0, maxBytes) else fullBody
-        // Status code not available without response pointer; use content-based detection
-        // (isBibleComChapterLikelyAvailable checks body content, not status code)
-        200 to body
+        task.resume()
+        // DISPATCH_TIME_FOREVER == ~0ULL; NSURLRequest.timeoutInterval bounds the wait in practice.
+        dispatch_semaphore_wait(semaphore, ULong.MAX_VALUE)
+        statusCode to body.lowercase()
     } catch (_: Throwable) {
         200 to "" // permissive on error, matching Android behavior
     }
 }
 
-@OptIn(ExperimentalForeignApi::class)
+// Pure-Kotlin SHA-256 (FIPS 180-4). Avoids CommonCrypto cinterop dependency.
 actual fun sha256Hex(bytes: ByteArray): String {
-    val digest = UByteArray(CC_SHA256_DIGEST_LENGTH)
-    bytes.usePinned { pinned ->
-        digest.usePinned { digestPinned ->
-            CC_SHA256(pinned.addressOf(0), bytes.size.convert(), digestPinned.addressOf(0))
-        }
+    val k = intArrayOf(
+        0x428a2f98.toInt(), 0x71374491.toInt(), 0xb5c0fbcf.toInt(), 0xe9b5dba5.toInt(),
+        0x3956c25b.toInt(), 0x59f111f1.toInt(), 0x923f82a4.toInt(), 0xab1c5ed5.toInt(),
+        0xd807aa98.toInt(), 0x12835b01.toInt(), 0x243185be.toInt(), 0x550c7dc3.toInt(),
+        0x72be5d74.toInt(), 0x80deb1fe.toInt(), 0x9bdc06a7.toInt(), 0xc19bf174.toInt(),
+        0xe49b69c1.toInt(), 0xefbe4786.toInt(), 0x0fc19dc6.toInt(), 0x240ca1cc.toInt(),
+        0x2de92c6f.toInt(), 0x4a7484aa.toInt(), 0x5cb0a9dc.toInt(), 0x76f988da.toInt(),
+        0x983e5152.toInt(), 0xa831c66d.toInt(), 0xb00327c8.toInt(), 0xbf597fc7.toInt(),
+        0xc6e00bf3.toInt(), 0xd5a79147.toInt(), 0x06ca6351.toInt(), 0x14292967.toInt(),
+        0x27b70a85.toInt(), 0x2e1b2138.toInt(), 0x4d2c6dfc.toInt(), 0x53380d13.toInt(),
+        0x650a7354.toInt(), 0x766a0abb.toInt(), 0x81c2c92e.toInt(), 0x92722c85.toInt(),
+        0xa2bfe8a1.toInt(), 0xa81a664b.toInt(), 0xc24b8b70.toInt(), 0xc76c51a3.toInt(),
+        0xd192e819.toInt(), 0xd6990624.toInt(), 0xf40e3585.toInt(), 0x106aa070.toInt(),
+        0x19a4c116.toInt(), 0x1e376c08.toInt(), 0x2748774c.toInt(), 0x34b0bcb5.toInt(),
+        0x391c0cb3.toInt(), 0x4ed8aa4a.toInt(), 0x5b9cca4f.toInt(), 0x682e6ff3.toInt(),
+        0x748f82ee.toInt(), 0x78a5636f.toInt(), 0x84c87814.toInt(), 0x8cc70208.toInt(),
+        0x90befffa.toInt(), 0xa4506ceb.toInt(), 0xbef9a3f7.toInt(), 0xc67178f2.toInt()
+    )
+    val h = intArrayOf(
+        0x6a09e667.toInt(), 0xbb67ae85.toInt(), 0x3c6ef372.toInt(), 0xa54ff53a.toInt(),
+        0x510e527f.toInt(), 0x9b05688c.toInt(), 0x1f83d9ab.toInt(), 0x5be0cd19.toInt()
+    )
+
+    val len = bytes.size
+    val bitLen = len.toLong() * 8
+    val padLen = (56 - (len + 1) % 64 + 64) % 64
+    val padded = ByteArray(len + 1 + padLen + 8)
+    bytes.copyInto(padded, 0)
+    padded[len] = 0x80.toByte()
+    for (i in 0..7) {
+        padded[padded.size - 1 - i] = (bitLen ushr (i * 8)).toByte()
     }
+
+    val w = IntArray(64)
+    var blockStart = 0
+    while (blockStart < padded.size) {
+        for (j in 0..15) {
+            w[j] = ((padded[blockStart + j * 4].toInt() and 0xFF) shl 24) or
+                ((padded[blockStart + j * 4 + 1].toInt() and 0xFF) shl 16) or
+                ((padded[blockStart + j * 4 + 2].toInt() and 0xFF) shl 8) or
+                (padded[blockStart + j * 4 + 3].toInt() and 0xFF)
+        }
+        for (j in 16..63) {
+            val s0 = rotr32(w[j - 15], 7) xor rotr32(w[j - 15], 18) xor (w[j - 15] ushr 3)
+            val s1 = rotr32(w[j - 2], 17) xor rotr32(w[j - 2], 19) xor (w[j - 2] ushr 10)
+            w[j] = w[j - 16] + s0 + w[j - 7] + s1
+        }
+        var a = h[0]; var b = h[1]; var c = h[2]; var d = h[3]
+        var e = h[4]; var f = h[5]; var g = h[6]; var hh = h[7]
+        for (j in 0..63) {
+            val s1 = rotr32(e, 6) xor rotr32(e, 11) xor rotr32(e, 25)
+            val ch = (e and f) xor (e.inv() and g)
+            val t1 = hh + s1 + ch + k[j] + w[j]
+            val s0 = rotr32(a, 2) xor rotr32(a, 13) xor rotr32(a, 22)
+            val maj = (a and b) xor (a and c) xor (b and c)
+            val t2 = s0 + maj
+            hh = g; g = f; f = e; e = d + t1
+            d = c; c = b; b = a; a = t1 + t2
+        }
+        h[0] += a; h[1] += b; h[2] += c; h[3] += d
+        h[4] += e; h[5] += f; h[6] += g; h[7] += hh
+        blockStart += 64
+    }
+
     val hex = "0123456789abcdef"
-    return buildString(digest.size * 2) {
-        digest.forEach { b ->
-            val v = b.toInt()
-            append(hex[(v ushr 4) and 0xF])
-            append(hex[v and 0xF])
+    return buildString(64) {
+        for (word in h) {
+            for (shift in 24 downTo 0 step 8) {
+                val byte = (word ushr shift) and 0xFF
+                append(hex[(byte ushr 4) and 0xF])
+                append(hex[byte and 0xF])
+            }
         }
     }
 }
 
+private fun rotr32(value: Int, bits: Int): Int = (value ushr bits) or (value shl (32 - bits))
+
 actual fun urlEncode(s: String): String {
-    // Use a strict allowed set matching Java's URLEncoder.encode() behavior:
-    // only unreserved chars (letters, digits, -, _, ., *) pass through unencoded.
+    // Strict allowed set matching Java's URLEncoder.encode(): only unreserved chars pass through.
     @Suppress("CAST_NEVER_SUCCEEDS")
     val nsStr = s as NSString
-    val allowed = platform.Foundation.NSMutableCharacterSet()
+    val allowed = NSMutableCharacterSet()
     allowed.addCharactersInString("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_.*")
     return nsStr.stringByAddingPercentEncodingWithAllowedCharacters(allowed) ?: s
 }
 
 actual fun currentTimeMillis(): Long =
-    (platform.Foundation.NSDate().timeIntervalSince1970 * 1000).toLong()
+    (NSDate().timeIntervalSince1970 * 1000).toLong()
 
 actual fun platformCurrentDate(): Triple<Int, Int, Int> {
-    val fmt = platform.Foundation.NSDateFormatter()
+    val fmt = NSDateFormatter()
     fmt.dateFormat = "yyyy-MM-dd"
-    val parts = fmt.stringFromDate(platform.Foundation.NSDate()).split("-")
+    val parts = fmt.stringFromDate(NSDate()).split("-")
     return Triple(parts[0].toInt(), parts[1].toInt(), parts[2].toInt())
 }
 
@@ -271,25 +351,26 @@ actual fun platformAppBuild(context: PlatformContext): String {
 
 @Volatile private var ttsOnDone: (() -> Unit)? = null
 
-@OptIn(BetaInteropApi::class)
-private class TtsDelegate : platform.darwin.NSObject(), platform.AVFAudio.AVSpeechSynthesizerDelegateProtocol {
+private class TtsDelegate : NSObject(), AVSpeechSynthesizerDelegateProtocol {
+    @ObjCSignatureOverride
     override fun speechSynthesizer(
-        synthesizer: platform.AVFAudio.AVSpeechSynthesizer,
-        didFinishSpeechUtterance: platform.AVFAudio.AVSpeechUtterance
+        synthesizer: AVSpeechSynthesizer,
+        didFinishSpeechUtterance: AVSpeechUtterance
     ) {
         ttsOnDone?.invoke()
     }
 
+    @ObjCSignatureOverride
     override fun speechSynthesizer(
-        synthesizer: platform.AVFAudio.AVSpeechSynthesizer,
-        didCancelSpeechUtterance: platform.AVFAudio.AVSpeechUtterance
+        synthesizer: AVSpeechSynthesizer,
+        didCancelSpeechUtterance: AVSpeechUtterance
     ) {
         ttsOnDone?.invoke()
     }
 }
 
 private val ttsDelegate = TtsDelegate()
-private val synthesizer = platform.AVFAudio.AVSpeechSynthesizer().also {
+private val synthesizer = AVSpeechSynthesizer().also {
     it.delegate = ttsDelegate
 }
 
@@ -304,17 +385,17 @@ actual fun platformTtsInit(context: PlatformContext) {
 }
 
 actual fun platformTtsSpeak(context: PlatformContext, text: String, languageTag: String) {
-    synthesizer.stopSpeakingAtBoundary(platform.AVFAudio.AVSpeechBoundary.AVSpeechBoundaryImmediate)
-    val utterance = platform.AVFAudio.AVSpeechUtterance(string = text)
+    synthesizer.stopSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
+    val utterance = AVSpeechUtterance(string = text)
     val mapped = ttsLanguageTag(languageTag)
-    utterance.voice = platform.AVFAudio.AVSpeechSynthesisVoice.voiceWithLanguage(mapped)
-        ?: platform.AVFAudio.AVSpeechSynthesisVoice.voiceWithLanguage("en-US")
+    utterance.voice = AVSpeechSynthesisVoice.voiceWithLanguage(mapped)
+        ?: AVSpeechSynthesisVoice.voiceWithLanguage("en-US")
     utterance.rate = 0.5f
     synthesizer.speakUtterance(utterance)
 }
 
 actual fun platformTtsStop(context: PlatformContext) {
-    synthesizer.stopSpeakingAtBoundary(platform.AVFAudio.AVSpeechBoundary.AVSpeechBoundaryImmediate)
+    synthesizer.stopSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
 }
 
 actual fun platformTtsIsSpeaking(context: PlatformContext): Boolean = synthesizer.isSpeaking()
@@ -324,7 +405,7 @@ actual fun platformTtsSetOnDone(callback: (() -> Unit)?) {
 }
 
 actual fun platformTtsPause(context: PlatformContext) {
-    synthesizer.pauseSpeakingAtBoundary(platform.AVFAudio.AVSpeechBoundary.AVSpeechBoundaryImmediate)
+    synthesizer.pauseSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
 }
 
 actual fun platformTtsResume(context: PlatformContext) {
@@ -332,4 +413,3 @@ actual fun platformTtsResume(context: PlatformContext) {
 }
 
 actual fun platformTtsIsPaused(context: PlatformContext): Boolean = synthesizer.isPaused()
-
