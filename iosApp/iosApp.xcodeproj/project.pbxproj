@@ -247,6 +247,7 @@
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
+					"-Wl,-ld_classic",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.dividesbyzer0.biblecompanion;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -280,6 +281,7 @@
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
+					"-Wl,-ld_classic",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.dividesbyzer0.biblecompanion;
 				PRODUCT_NAME = "$(TARGET_NAME)";
