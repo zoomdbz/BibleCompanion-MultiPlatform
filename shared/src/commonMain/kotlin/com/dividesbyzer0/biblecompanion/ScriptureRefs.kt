@@ -9,6 +9,10 @@ import com.dividesbyzer0.biblecompanion.platform.platformOpenUrlInBrowser
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKC
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKD
 import com.dividesbyzer0.biblecompanion.platform.ColorHsl
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.text.ClickableText
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.MaterialTheme
@@ -29,6 +33,7 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.withStyle
 import kotlinx.coroutines.Dispatchers
@@ -546,6 +551,7 @@ object ScriptureRefs {
     val dcNotAvailableBody = stringResource(Res.string.dc_not_available_body)
     val dcSwap = stringResource(Res.string.dc_swap)
     val dcKeep = stringResource(Res.string.dc_keep)
+    val dcReadInApp = stringResource(Res.string.dc_read_in_app)
     val apocNoReaderTitle = stringResource(Res.string.apoc_no_reader_title)
     val apocNoReaderBody = stringResource(Res.string.apoc_no_reader_body)
     val actionOk = stringResource(Res.string.action_ok)
@@ -567,31 +573,47 @@ object ScriptureRefs {
       AlertDialog(
         onDismissRequest = { navGate = false; dialog = null },
         title = { Text(dcNotAvailableTitle.replace("%1\$s", d.currentVersion)) },
-        text = { Text(dcNotAvailableBody.replace("%1\$s", d.currentVersion).replace("%2\$s", d.suggestVersion)) },
+        text = {
+          Column {
+            Text(dcNotAvailableBody.replace("%1\$s", d.currentVersion).replace("%2\$s", d.suggestVersion))
+            Spacer(modifier = Modifier.height(12.dp))
+            // Swap button (open suggested version on bible.com)
+            TextButton(
+              onClick = {
+                val tried = d.fallbackDeepLink?.let { dl ->
+                  runCatching { platformOpenUrl(ctx, dl) }.isSuccess
+                } ?: false
+                if (!tried) openUrl(d.fallbackUrl, preferBrowser = true)
+                navGate = false; dialog = null
+              },
+              modifier = Modifier.fillMaxWidth()
+            ) { Text("$dcSwap → ${d.suggestVersion}") }
+            // Read in-app: route to the internal reader for this DC ref so users
+            // in non-native-DC langs aren't forced into English.
+            if (d.internalCollection != null && d.internalBookId != null && d.internalStoryId != null) {
+              TextButton(
+                onClick = {
+                  internalNav(
+                    d.internalCollection,
+                    d.internalBookId,
+                    d.internalStoryId,
+                    d.internalVerse,
+                    d.internalVerseEnd
+                  )
+                  navGate = false; dialog = null
+                },
+                modifier = Modifier.fillMaxWidth()
+              ) { Text(dcReadInApp) }
+            }
+          }
+        },
         confirmButton = {
           TextButton(onClick = {
-            dialog?.let { d2 ->
-              val tried = d2.fallbackDeepLink?.let { dl ->
-                runCatching { platformOpenUrl(ctx, dl) }.isSuccess
-              } ?: false
-              if (!tried) openUrl(d2.fallbackUrl, preferBrowser = true)
-            }
-            navGate = false
-            dialog = null
-          }) { Text(dcSwap) }
+            // Cancel — close the dialog without navigating anywhere.
+            navGate = false; dialog = null
+          }) { Text(stringResource(Res.string.cancel)) }
         },
-        dismissButton = {
-          TextButton(onClick = {
-            dialog?.let { d2 ->
-              val tried = d2.primaryDeepLink?.let { dl ->
-                runCatching { platformOpenUrl(ctx, dl) }.isSuccess
-              } ?: false
-              if (!tried) openUrl(d2.primaryUrl, preferBrowser = true)
-            }
-            navGate = false
-            dialog = null
-          }) { Text(dcKeep) }
-        }
+        dismissButton = null
       )
     }
 
@@ -679,13 +701,21 @@ object ScriptureRefs {
 
               val fallbackDeep = Linker.buildYouVersionDeepLink(fullRef, suggestVersion)
 
+              // Derive in-app nav target so the dialog can offer "Read in-app".
+              val intArgs = derivedInternalNavArgs(payload)
+
               dialog = SwapDialog(
                 currentVersion   = payload.translation,
                 suggestVersion   = suggestVersion,
                 primaryUrl       = primaryUrl,
                 fallbackUrl      = fallbackUrl,
                 primaryDeepLink  = null,
-                fallbackDeepLink = fallbackDeep
+                fallbackDeepLink = fallbackDeep,
+                internalCollection = intArgs.collection,
+                internalBookId     = intArgs.bookId,
+                internalStoryId    = intArgs.storyId,
+                internalVerse      = intArgs.verse,
+                internalVerseEnd   = intArgs.verseEnd
               )
               navGate = false
               return@let
@@ -712,13 +742,19 @@ object ScriptureRefs {
                   val fallbackDeep = if (Linker.hasApocryphaSupport(suggestVersion, payload.appLanguage))
                     Linker.buildYouVersionDeepLink(fullRef, suggestVersion) else null
 
+                  val intArgs = derivedInternalNavArgs(payload)
                   dialog = SwapDialog(
                     currentVersion   = payload.translation,
                     suggestVersion   = suggestVersion,
                     primaryUrl       = currentPrimary,
                     fallbackUrl      = fallbackUrl,
                     primaryDeepLink  = primaryDeep,
-                    fallbackDeepLink = fallbackDeep
+                    fallbackDeepLink = fallbackDeep,
+                    internalCollection = intArgs.collection,
+                    internalBookId     = intArgs.bookId,
+                    internalStoryId    = intArgs.storyId,
+                    internalVerse      = intArgs.verse,
+                    internalVerseEnd   = intArgs.verseEnd
                   )
                 } else {
                   val deepTried = if (Linker.hasApocryphaSupport(payload.translation, payload.appLanguage)) {
@@ -1225,6 +1261,34 @@ object ScriptureRefs {
     val primaryUrl: String,
     val fallbackUrl: String,
     val primaryDeepLink: String?,
-    val fallbackDeepLink: String?
+    val fallbackDeepLink: String?,
+    // Internal nav payload so "Read in-app" can route to the in-app reader
+    // for the same DC reference. Null when internal nav can't be derived.
+    val internalCollection: String? = null,
+    val internalBookId: String? = null,
+    val internalStoryId: String? = null,
+    val internalVerse: Int? = null,
+    val internalVerseEnd: Int? = null
   )
+
+  private data class InternalNavArgs(
+    val collection: String,
+    val bookId: String,
+    val storyId: String,
+    val verse: Int?,
+    val verseEnd: Int?
+  )
+
+  // Mirrors the inline parsing inside BibleRefAnnotated's onClick — see the
+  // payload.isInternal branch — so the SwapDialog can offer "Read in-app".
+  private fun derivedInternalNavArgs(payload: RefPayload): InternalNavArgs {
+    val bookId = payload.canonBook.trim().lowercase().replace(' ', '_')
+    val parts = payload.tail.trim().split(":")
+    val chapter = parts.firstOrNull()?.split("-")?.firstOrNull()?.trim()?.filter { it.isDigit() } ?: "1"
+    val verseTail = parts.getOrNull(1)?.split(Regex("[,\\s]"))?.firstOrNull()
+    val verseRange = verseTail?.split("-") ?: emptyList()
+    val verse = verseRange.firstOrNull()?.trim()?.filter { it.isDigit() }?.toIntOrNull()
+    val verseEnd = verseRange.getOrNull(1)?.trim()?.filter { it.isDigit() }?.toIntOrNull()
+    return InternalNavArgs(payload.collection, bookId, "$bookId-$chapter", verse, verseEnd)
+  }
 }

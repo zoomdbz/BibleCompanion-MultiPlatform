@@ -283,4 +283,6 @@
     <string name="widget_list_description">Показывает предстоящие библейские праздники с метками еврейского и ессейского календарей</string>
     <string name="widget_grid_display_name">Библейский календарь</string>
     <string name="widget_grid_description">Месячный календарь с датами библейских праздников</string>
+    <string name="dc_read_in_app">Читать в приложении</string>
+    <string name="dc_unavailable_body">Недоступно на Bible.com и BibleGateway на этом языке. Читайте в приложении или измените язык приложения.</string>
 </resources>

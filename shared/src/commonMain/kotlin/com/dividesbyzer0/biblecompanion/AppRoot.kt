@@ -185,7 +185,9 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
   val prefs by repo.flow.collectAsState(initialPrefs)
 
   LaunchedEffect(prefs.appLanguage) {
-    ScriptureRefs.primeBooks(ctx, prefs.appLanguage)
+    // Bulletproof: any asset-load throw here would surface up the Compose
+    // runtime and crash the app on iOS, where we can't catch in Swift.
+    runCatching { ScriptureRefs.primeBooks(ctx, prefs.appLanguage) }
   }
 
   val dark = when (prefs.theme.lowercase()) {

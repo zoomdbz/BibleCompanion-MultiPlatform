@@ -52,10 +52,23 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         _ application: UIApplication,
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
     ) -> Bool {
+        // Startup beacon: write a millisecond timestamp before doing anything else,
+        // so a future App Store rejection can be diagnosed by checking whether this
+        // value advanced on the reviewer's device (visible via TestFlight crash logs
+        // or a future debug screen).
+        let now = Int64(Date().timeIntervalSince1970 * 1000)
+        UserDefaults.standard.set(now, forKey: "ios_last_launch_ms")
+
         if let shortcutItem = launchOptions?[.shortcutItem] as? UIApplicationShortcutItem {
             shortcutAction = mapShortcut(shortcutItem.type)
         }
-        registerLocalizedShortcuts()
+        // WidgetStrings calls runBlocking { getString(...) } against compose-resources;
+        // running that synchronously here would block the main thread mid-launch and
+        // can trip the watchdog on slower devices. Defer to the next runloop tick so
+        // didFinishLaunching returns immediately.
+        DispatchQueue.main.async { [weak self] in
+            self?.registerLocalizedShortcuts()
+        }
         return true
     }
 

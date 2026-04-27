@@ -369,9 +369,13 @@ private class TtsDelegate : NSObject(), AVSpeechSynthesizerDelegateProtocol {
     }
 }
 
-private val ttsDelegate = TtsDelegate()
-private val synthesizer = AVSpeechSynthesizer().also {
-    it.delegate = ttsDelegate
+// Lazy: AVSpeechSynthesizer must be created on the main thread, and creating it
+// at top-level eager-init time runs during framework load, before the iOS app
+// delegate is fully ready. Defer to first TTS call, which always happens on the
+// UI thread from a Compose action.
+private val ttsDelegate by lazy { TtsDelegate() }
+private val synthesizer: AVSpeechSynthesizer by lazy {
+    AVSpeechSynthesizer().also { it.delegate = ttsDelegate }
 }
 
 private fun ttsLanguageTag(assetTag: String): String = when (assetTag) {

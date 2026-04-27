@@ -283,4 +283,6 @@
     <string name="widget_list_description">हिब्रू और एसेनी कैलेंडर चिह्नों के साथ आगामी बाइबिल पर्व की तारीखें दिखाता है</string>
     <string name="widget_grid_display_name">बाइबिल कैलेंडर</string>
     <string name="widget_grid_description">बाइबिल पर्व तिथियों के साथ मासिक कैलेंडर</string>
+    <string name="dc_read_in_app">ऐप में पढ़ें</string>
+    <string name="dc_unavailable_body">इस भाषा में Bible.com या BibleGateway पर उपलब्ध नहीं है। ऐप में पढ़ें, या ऐप की भाषा बदलें।</string>
 </resources>

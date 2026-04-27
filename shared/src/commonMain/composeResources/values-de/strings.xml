@@ -282,4 +282,6 @@
     <string name="widget_list_description">Zeigt kommende biblische Festtage mit hebräischen und essenischen Kalendermarkierungen</string>
     <string name="widget_grid_display_name">Biblischer Kalender</string>
     <string name="widget_grid_description">Monatsübersicht mit biblischen Festtagen</string>
+    <string name="dc_read_in_app">In der App lesen</string>
+    <string name="dc_unavailable_body">Nicht verfügbar auf Bible.com oder BibleGateway in dieser Sprache. Lies in der App, oder ändere die App-Sprache.</string>
 </resources>

@@ -283,4 +283,6 @@
     <string name="widget_list_description">Mostra le prossime feste bibliche con indicatori dei calendari ebraico ed esseno</string>
     <string name="widget_grid_display_name">Calendario biblico</string>
     <string name="widget_grid_description">Calendario mensile con le date delle feste bibliche</string>
+    <string name="dc_read_in_app">Leggi nell'app</string>
+    <string name="dc_unavailable_body">Non disponibile su Bible.com o BibleGateway in questa lingua. Leggilo nell'app, oppure cambia la lingua dell'app.</string>
 </resources>

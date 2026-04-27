@@ -14,6 +14,7 @@
 		E7B2C3D400000024 /* notes in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000015 /* notes */; };
 		E7B2C3D400000025 /* refs in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000016 /* refs */; };
 		E7B2C3D400000026 /* daily_verses in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000017 /* daily_verses */; };
+		E7B2C3D400000027 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000018 /* PrivacyInfo.xcprivacy */; };
 		E7B2C3D500000201 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D500000200 /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		E7B2C3D400000015 /* notes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = notes; path = ../shared/assets/notes; sourceTree = "<group>"; };
 		E7B2C3D400000016 /* refs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = refs; path = ../shared/assets/refs; sourceTree = "<group>"; };
 		E7B2C3D400000017 /* daily_verses */ = {isa = PBXFileReference; lastKnownFileType = folder; name = daily_verses; path = ../shared/assets/daily_verses; sourceTree = "<group>"; };
+		E7B2C3D400000018 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		E7B2C3D500000210 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D500000211 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D500000212 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				E7B2C3D400000011 /* ContentView.swift */,
 				E7B2C3D400000013 /* Assets.xcassets */,
 				E7B2C3D400000012 /* Info.plist */,
+				E7B2C3D400000018 /* PrivacyInfo.xcprivacy */,
 				E7B2C3D500000200 /* InfoPlist.strings */,
 			);
 			path = iosApp;
@@ -161,6 +164,7 @@
 				E7B2C3D400000024 /* notes in Resources */,
 				E7B2C3D400000025 /* refs in Resources */,
 				E7B2C3D400000026 /* daily_verses in Resources */,
+				E7B2C3D400000027 /* PrivacyInfo.xcprivacy in Resources */,
 				E7B2C3D500000201 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -230,7 +234,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 24;
+				CURRENT_PROJECT_VERSION = 25;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -243,7 +247,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.4.0;
+				MARKETING_VERSION = 2.5.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -264,7 +268,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CODE_SIGN_IDENTITY = "Apple Distribution";
 				PROVISIONING_PROFILE_SPECIFIER = "BibleCompanion AppStore";
-				CURRENT_PROJECT_VERSION = 24;
+				CURRENT_PROJECT_VERSION = 25;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -277,7 +281,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.4.0;
+				MARKETING_VERSION = 2.5.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",

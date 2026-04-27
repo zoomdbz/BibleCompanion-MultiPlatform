@@ -283,4 +283,6 @@
     <string name="widget_list_description">顯示即將到來的聖經節期,附有希伯來和艾賽尼日曆標記</string>
     <string name="widget_grid_display_name">聖經日曆</string>
     <string name="widget_grid_description">附有聖經節期日期的月曆</string>
+    <string name="dc_read_in_app">在應用程式中閱讀</string>
+    <string name="dc_unavailable_body">此語言在Bible.com或BibleGateway上不可用。請在應用程式內閱讀，或切換應用程式語言。</string>
 </resources>

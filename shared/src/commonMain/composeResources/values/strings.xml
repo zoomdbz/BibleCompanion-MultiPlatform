@@ -27,6 +27,8 @@
     <string name="dc_not_available_body">This chapter is not available in %1$s. Swap to %2$s for Deuterocanon?</string>
     <string name="dc_swap">Swap</string>
     <string name="dc_keep">Keep current</string>
+    <string name="dc_read_in_app">Read in app</string>
+    <string name="dc_unavailable_body">Not available on Bible.com or BibleGateway in this language. Read in the app, or switch app language.</string>
     <string name="dc_book_banner_title">Deuterocanon not in %1$s</string>
     <string name="dc_book_banner_body">Your Bible version doesn't include this book. Pick one that does to follow the links.</string>
     <string name="dc_banner_pick">Pick version</string>
