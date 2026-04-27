@@ -39,9 +39,10 @@ object VerseOfTheDay {
     if (daily.verses.isEmpty()) return DailyVerse("", "")
 
     val dayOfYear = dayOfYear(year, month, day)
-    val hash = (year * 31L + dayOfYear)
+    // The bank is sorted by bible.com's day-of-year calendar (verses[0] = day 1, ...).
+    // Index by day-of-year so the app shows the same verse bible.com shows that day.
     val size = daily.verses.size
-    val index = ((hash % size) + size).toInt() % size
+    val index = ((dayOfYear - 1) % size + size) % size
     val entry = daily.verses[index]
     return DailyVerse(entry.text, entry.ref)
   }

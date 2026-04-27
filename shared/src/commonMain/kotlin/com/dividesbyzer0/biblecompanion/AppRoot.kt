@@ -585,8 +585,14 @@ fun HomeScreen(
   var studyExpanded by remember(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
 
   LaunchedEffect(prefs.appLanguage) {
-    kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.Default) {
-      StorySearch.build(ctx, prefs.appLanguage)
+    // K/N maps Dispatchers.Default to com.apple.root.utility-qos on iOS; an
+    // uncaught throw inside StorySearch.build (asset I/O, NFKD normalization,
+    // markdown regex, etc.) abort()s the process with no Swift catch path.
+    // Same defense as primeBooks at the top of AppRoot.
+    runCatching {
+      kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.Default) {
+        StorySearch.build(ctx, prefs.appLanguage)
+      }
     }
   }
 
