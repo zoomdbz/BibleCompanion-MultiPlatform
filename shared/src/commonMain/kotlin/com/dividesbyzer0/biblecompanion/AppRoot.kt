@@ -585,15 +585,15 @@ fun HomeScreen(
   var studyExpanded by remember(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
 
   LaunchedEffect(prefs.appLanguage) {
-    // K/N maps Dispatchers.Default to com.apple.root.utility-qos on iOS; an
-    // uncaught throw inside StorySearch.build (asset I/O, NFKD normalization,
-    // markdown regex, etc.) abort()s the process with no Swift catch path.
-    // Same defense as primeBooks at the top of AppRoot.
-    runCatching {
-      kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.Default) {
-        StorySearch.build(ctx, prefs.appLanguage)
-      }
-    }
+    // Build 26 still crashed on iPad with the same utility-qos abort pattern
+    // even though this withContext was wrapped in runCatching. On K/N iOS,
+    // a throw inside the Default worker can call __cxa_throw and abort()
+    // BEFORE structured concurrency propagates it up to the outer catch.
+    // Skip the cross-thread dispatch entirely; run the index build on the
+    // LaunchedEffect's own context after the first frame paints. The work is
+    // ~100ms on a real device and runs once per language change.
+    kotlinx.coroutines.delay(100)
+    runCatching { StorySearch.build(ctx, prefs.appLanguage) }
   }
 
   Box(Modifier.fillMaxSize()) {
