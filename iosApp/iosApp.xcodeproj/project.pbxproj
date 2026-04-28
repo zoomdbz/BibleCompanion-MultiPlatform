@@ -247,7 +247,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.6.1;
+				MARKETING_VERSION = 2.7.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -281,7 +281,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.6.1;
+				MARKETING_VERSION = 2.7.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
