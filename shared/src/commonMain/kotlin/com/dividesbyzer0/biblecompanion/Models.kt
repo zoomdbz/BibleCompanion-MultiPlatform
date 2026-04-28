@@ -67,7 +67,9 @@ data class PrefsState(
   // JSON object: { "<assetFileName>": ["<sectionHeader>", ...], ... }
   val notesExpandedSectionsJson: String = "{}",
   // Local date ("YYYY-MM-DD") on which VOTD was dismissed; empty = not dismissed
-  val votdDismissedDate: String = ""
+  val votdDismissedDate: String = "",
+  // Screenshot-mode hint: when true, settings opens with the language picker pre-expanded.
+  val screenshotExpandLanguage: Boolean = false
 )
 
 enum class SearchHitType { STORY, NOTE, BOOK }

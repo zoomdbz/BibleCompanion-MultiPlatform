@@ -3625,7 +3625,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       // Language
       Text(stringResource(Res.string.language), style = MaterialTheme.typography.titleSmall)
-      var langExpanded by remember { mutableStateOf(false) }
+      var langExpanded by remember { mutableStateOf(prefs.screenshotExpandLanguage) }
       val languageOptions = listOf(
         "system" to stringResource(Res.string.language_system),
         "en" to "English",

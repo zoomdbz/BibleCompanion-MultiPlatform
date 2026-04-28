@@ -61,7 +61,8 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             collapsedStoriesJson = getString("collapsed_stories_json") ?: "{}",
             autoContinueTts = getBool("auto_continue_tts", true),
             notesExpandedSectionsJson = getString("notes_expanded_sections_json") ?: "{}",
-            votdDismissedDate = getString("votd_dismissed_date") ?: ""
+            votdDismissedDate = getString("votd_dismissed_date") ?: "",
+            screenshotExpandLanguage = getBool("ss_expand_language", false)
         )
     }
 
