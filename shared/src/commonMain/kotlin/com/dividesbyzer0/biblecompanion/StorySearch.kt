@@ -103,6 +103,10 @@ object StorySearch {
     builtForLang = appLang
   }
 
+  fun ensureBuilt(context: PlatformContext, appLang: String) {
+    if (builtForLang != appLang) runCatching { build(context, appLang) }
+  }
+
   fun search(queryRaw: String, limit: Int = 30): List<SearchHit> {
     if (docs.isEmpty()) return emptyList()
     val q = normalize(queryRaw).trim()

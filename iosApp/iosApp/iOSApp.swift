@@ -7,12 +7,11 @@ struct iOSApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView(
-                shortcutAction: appDelegate.shortcutAction,
-                deepLinkRoute: appDelegate.deepLinkRoute
-            )
+            ContentView()
             .onOpenURL { url in
-                appDelegate.deepLinkRoute = Self.parseDeepLink(url)
+                if let route = Self.parseDeepLink(url) {
+                    DeepLinkBridge.shared.pushRoute(route: route)
+                }
             }
         }
     }
@@ -36,15 +35,15 @@ struct iOSApp: App {
 }
 
 class AppDelegate: NSObject, UIApplicationDelegate {
-    var shortcutAction: String?
-    var deepLinkRoute: String?
 
     func application(
         _ application: UIApplication,
         performActionFor shortcutItem: UIApplicationShortcutItem,
         completionHandler: @escaping (Bool) -> Void
     ) {
-        shortcutAction = mapShortcut(shortcutItem.type)
+        if let action = mapShortcut(shortcutItem.type) {
+            ShortcutBridge.shared.pushAction(action: action)
+        }
         completionHandler(true)
     }
 
@@ -52,52 +51,46 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         _ application: UIApplication,
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
     ) -> Bool {
-        // Startup beacon: write a millisecond timestamp before doing anything else,
-        // so a future App Store rejection can be diagnosed by checking whether this
-        // value advanced on the reviewer's device (visible via TestFlight crash logs
-        // or a future debug screen).
+        MainViewControllerKt.installCrashHook()
+
         let now = Int64(Date().timeIntervalSince1970 * 1000)
         UserDefaults.standard.set(now, forKey: "ios_last_launch_ms")
 
-        if let shortcutItem = launchOptions?[.shortcutItem] as? UIApplicationShortcutItem {
-            shortcutAction = mapShortcut(shortcutItem.type)
+        if let shortcutItem = launchOptions?[.shortcutItem] as? UIApplicationShortcutItem,
+           let action = mapShortcut(shortcutItem.type) {
+            ShortcutBridge.shared.pushAction(action: action)
         }
-        // WidgetStrings calls runBlocking { getString(...) } against compose-resources;
-        // running that synchronously here would block the main thread mid-launch and
-        // can trip the watchdog on slower devices. Defer to the next runloop tick so
-        // didFinishLaunching returns immediately.
-        DispatchQueue.main.async { [weak self] in
-            self?.registerLocalizedShortcuts()
-        }
+
+        registerShortcuts()
         return true
     }
 
-    private func registerLocalizedShortcuts() {
+    private func registerShortcuts() {
         UIApplication.shared.shortcutItems = [
             UIApplicationShortcutItem(
                 type: "com.dividesbyzer0.biblecompanion.search",
-                localizedTitle: WidgetStrings.shared.shortcutSearch(),
+                localizedTitle: NSLocalizedString("shortcut_search", comment: ""),
                 localizedSubtitle: nil,
                 icon: UIApplicationShortcutIcon(type: .search),
                 userInfo: nil
             ),
             UIApplicationShortcutItem(
                 type: "com.dividesbyzer0.biblecompanion.bookmarks",
-                localizedTitle: WidgetStrings.shared.shortcutBookmarks(),
+                localizedTitle: NSLocalizedString("shortcut_bookmarks", comment: ""),
                 localizedSubtitle: nil,
                 icon: UIApplicationShortcutIcon(type: .bookmark),
                 userInfo: nil
             ),
             UIApplicationShortcutItem(
                 type: "com.dividesbyzer0.biblecompanion.continue",
-                localizedTitle: WidgetStrings.shared.shortcutContinue(),
+                localizedTitle: NSLocalizedString("shortcut_continue_reading", comment: ""),
                 localizedSubtitle: nil,
                 icon: UIApplicationShortcutIcon(type: .play),
                 userInfo: nil
             ),
             UIApplicationShortcutItem(
                 type: "com.dividesbyzer0.biblecompanion.feast_calendar",
-                localizedTitle: WidgetStrings.shared.shortcutFeastCalendar(),
+                localizedTitle: NSLocalizedString("shortcut_feast_calendar", comment: ""),
                 localizedSubtitle: nil,
                 icon: UIApplicationShortcutIcon(type: .date),
                 userInfo: nil

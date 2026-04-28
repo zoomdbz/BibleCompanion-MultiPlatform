@@ -584,18 +584,6 @@ fun HomeScreen(
   var showSheet by remember { mutableStateOf(false) }
   var studyExpanded by remember(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
 
-  LaunchedEffect(prefs.appLanguage) {
-    // Build 26 still crashed on iPad with the same utility-qos abort pattern
-    // even though this withContext was wrapped in runCatching. On K/N iOS,
-    // a throw inside the Default worker can call __cxa_throw and abort()
-    // BEFORE structured concurrency propagates it up to the outer catch.
-    // Skip the cross-thread dispatch entirely; run the index build on the
-    // LaunchedEffect's own context after the first frame paints. The work is
-    // ~100ms on a real device and runs once per language change.
-    kotlinx.coroutines.delay(100)
-    runCatching { StorySearch.build(ctx, prefs.appLanguage) }
-  }
-
   Box(Modifier.fillMaxSize()) {
     Scaffold(
       topBar = {
@@ -622,7 +610,12 @@ fun HomeScreen(
           value = query,
           onValueChange = { q ->
             query = q
-            results = if (q.length >= 2) StorySearch.search(q) else emptyList()
+            if (q.length >= 2) {
+              StorySearch.ensureBuilt(ctx, prefs.appLanguage)
+              results = StorySearch.search(q)
+            } else {
+              results = emptyList()
+            }
             showSheet = q.length >= 2
           },
           modifier = Modifier.fillMaxWidth(),
