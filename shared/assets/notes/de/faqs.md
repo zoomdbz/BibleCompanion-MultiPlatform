@@ -61,6 +61,8 @@ Das Gebot im Garten war keine Falle; es war der erste Schritt im langen Prozess 
 
 ### **3. Warum erlaubt ein allmächtiger Gott Leid und Böses?**
 
+Gott ist nicht der Urheber des Bösen. Die Schrift ist unmissverständlich: „Gott kann nicht versucht werden vom Bösen, und er selbst versucht niemanden“ (**Jakobus 1,13**). Was er schuf, erklärte er für „sehr gut“ (**1. Mose 1,31**); was wir heute sehen, ist eine Welt, die durch den Missbrauch des freien Willens verdorben wurde: zuerst unter den himmlischen Heerscharen, dann in Eden. Der Bruch um uns herum ist die Folge von Rebellion, nicht göttlicher Absicht. Die eigentliche Frage ist nicht, ob Gott das Böse geschaffen hat, sondern warum er es zulässt; und die Antwort führt direkt zum Wesen der Liebe.
+
 Dies ist eine der schwersten Fragen; wenn Gott liebevoll und allmächtig ist, warum gibt es Schmerz, Ungerechtigkeit und Tragödien?  
 Die Schrift zeigt: Leid beweist nicht Gottes Abwesenheit; es ist der Preis echter Freiheit in einer lebendigen Welt.
 
@@ -73,6 +75,12 @@ Auch Jesus, ohne Sünde, trat freiwillig ins Leiden, um es von innen her zu erl�
 Durch Leiden zeigt Gott, dass er dem Schmerz nicht fernsteht; er trägt ihn mit uns und verwandelt ihn in etwas, das ihn übersteigt.
 
 **Biblische Belege:**
+
+- **Jakobus 1,13**: „Gott kann nicht versucht werden vom Bösen, und er selbst versucht niemanden.“  
+  Gott ist nicht die Quelle des Bösen; er ist völlig davon getrennt.
+
+- **1. Mose 1,31**: „Und Gott sah alles an, was er gemacht hatte; und siehe, es war sehr gut.“  
+  Die Schöpfung war nicht fehlerhaft angelegt; der Verfall kam durch den Missbrauch des freien Willens.
 
 - **1. Mose 50,20**: Josef: „Ihr gedachtet es böse mit mir zu machen; Gott aber gedachte es gut zu machen… um ein großes Volk am Leben zu erhalten.“  
   Gott verursacht das Böse nicht; er lenkt es zu seinem Erlösungsziel.
@@ -194,11 +202,16 @@ Die Schrift nennt mehrere Gründe für verspätete, andere oder verweigerte Erge
 
 ### **6. Warum erlaubt Gott, dass unschuldige Kinder sterben?**
 
+Der Tod war nie Teil von Gottes Entwurf. Er schuf den Menschen für das Leben, nicht für das Grab. Als er Adam warnte „du wirst gewisslich sterben“ (**1. Mose 2,17**), beschrieb er die Folge des Ungehorsams, nicht seine Absicht. Der Tod eines Kindes ist der schärfste Beweis, dass die Schöpfung zerbrochen ist; nicht dass der Schöpfer gleichgültig sei. Alles, was in der Schrift folgt, weist auf einen Gott, der den Tod selbst bekämpft und besiegt.
+
 Die Schrift behandelt den Tod nicht als Vernichtung; sondern als Übergang. Das Leben endet nicht im Grab. Kinder gehören Gott, bevor sie irgendeinem Volk oder Eltern gehören. Wenn ein Kind stirbt, kehrt die Unschuld zu dem zurück, der sie gegeben hat. Die Tragödie offenbart die Zerbrochenheit der Schöpfung; nicht das Fehlen göttlicher Fürsorge.
 
 Der Tod kam durch die Sünde (**Römer 5,12**), und die gesamte Schöpfung seufzt unter seinen Folgen (**Römer 8,22**). Dennoch umschließen Gottes Gerechtigkeit und Barmherzigkeit jedes Leben, das zu früh endet. Die Bibel zeigt konsequent: Kinder stehen unter Gottes Schutz und Mitgefühl.
 
 **Biblische Belege:**
+
+- **1. Mose 2,17**: „Denn an dem Tage, da du davon isst, musst du des Todes sterben.“  
+  Der Tod war die Folge des Ungehorsams, nicht Teil des ursprünglichen göttlichen Plans für den Menschen.
 
 - **2. Samuel 12,22–23**: Nach dem Tod seines Kindes sagt David: „Ich werde zu ihm gehen, aber es wird nicht zu mir zurückkehren.“  
   Davids Zuversicht deutet auf die Hoffnung der Wiedervereinigung bei Gott.

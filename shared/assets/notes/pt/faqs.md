@@ -61,6 +61,8 @@ O mandamento no Éden nunca foi uma armadilha; foi o primeiro passo do longo pro
 
 ### **3. Por que um Deus todo-poderoso permite o sofrimento e o mal?**
 
+Deus não é o autor do mal. A Escritura é explícita: “Deus não pode ser tentado pelo mal, e Ele mesmo a ninguém tenta” (**Tiago 1:13**). O que criou, declarou “muito bom” (**Gênesis 1:31**); o que vemos agora é um mundo corrompido pelo mau uso do livre-arbítrio: primeiro entre as hostes celestiais, depois no Éden. A fratura ao nosso redor é consequência da rebelião, não do projeto divino. A verdadeira questão não é se Deus criou o mal, mas por que o permite; e a resposta leva diretamente à natureza do amor.
+
 Esta é uma das questões mais difíceis da história humana; se Deus é amoroso e onipotente, por que há dor, injustiça e tragédia?  
 A Escritura mostra que o sofrimento não é evidência da ausência de Deus; é o preço da liberdade autêntica em um mundo vivo.
 
@@ -73,6 +75,12 @@ Até Jesus, sem pecado, entrou voluntariamente no sofrimento para redimi-lo desd
 Nele, Deus mostra que não está distante da dor; Ele a carrega conosco e a transforma em algo que a transcende.
 
 **Base bíblica:**
+
+- **Tiago 1:13**: “Deus não pode ser tentado pelo mal, e Ele mesmo a ninguém tenta.”  
+  Deus não é a fonte do mal; Ele é inteiramente separado dele.
+
+- **Gênesis 1:31**: “Deus viu tudo o que havia feito, e eis que era muito bom.”  
+  A criação não era defeituosa por projeto; a corrupção entrou pelo mau uso do livre-arbítrio.
 
 - **Gênesis 50:20**: José disse aos irmãos: “Vós intentastes o mal contra mim; porém Deus o tornou em bem, para fazer como vedes agora, que se conserve muita gente em vida.”  
   Deus não causa o mal; Ele o reverte para Seu propósito redentor.
@@ -194,11 +202,16 @@ A Escritura dá várias razões para respostas tardias, diferentes ou negadas.
 
 ### **6. Por que Deus permite que crianças inocentes morram?**
 
+A morte nunca fez parte do projeto de Deus. Ele formou a humanidade para a vida, não para o túmulo. Quando advertiu Adão “certamente morrerás” (**Gênesis 2:17**), descrevia a consequência da rebelião, não a Sua intenção. A morte de uma criança é a evidência mais aguda de que a criação está quebrada; não de que o Criador seja indiferente. Tudo o que segue na Escritura aponta para um Deus que combate a própria morte e vence.
+
 A Escritura não trata a morte como aniquilação; trata-a como transição. A vida não termina no túmulo. As crianças pertencem a Deus antes de pertencerem a qualquer nação ou pai. Quando uma criança morre, a inocência retorna Àquele que a concedeu. A tragédia revela a fratura da criação; não a ausência do cuidado divino.
 
 A morte entrou por meio do pecado (**Romanos 5:12**), e toda a criação geme sob suas consequências (**Romanos 8:22**). Contudo, a justiça e a misericórdia de Deus amparam toda vida que termina cedo demais. A Bíblia mostra de forma consistente que as crianças estão sob Sua proteção e compaixão.
 
 **Base bíblica:**
+
+- **Gênesis 2:17**: “Porque no dia em que dela comeres, certamente morrerás.”  
+  A morte foi consequência da rebelião, não parte do projeto original de Deus para a humanidade.
 
 - **2 Samuel 12:22–23**: Após a morte do filho, Davi diz: “Eu irei a ele, porém ele não voltará para mim.”  
   A confiança de Davi indica a crença de que a criança está com Deus e que a reunião aguarda além da morte.

@@ -60,6 +60,8 @@ The command in Eden was never a trap; it was the first step in the long process 
 
 ### **3. Why does an all-powerful God allow suffering and evil?**
 
+God is not the author of evil. Scripture is explicit: "God cannot be tempted by evil, and He Himself does not tempt anyone" (**James 1:13**). What He created He declared "very good" (**Genesis 1:31**); what we see now is a world corrupted by the misuse of free will, first among the heavenly host, then in Eden. The brokenness around us is the consequence of rebellion, not of divine design. The real question is not whether God authored evil, but why He permits it; and the answer leads straight to the nature of love.
+
 This is one of the hardest questions in human history; if God is loving and omnipotent, why does He allow pain, injustice, and tragedy?  
 Scripture shows that suffering is not evidence of God’s absence; it is the price of genuine freedom in a living world.
 
@@ -72,6 +74,12 @@ Even Jesus, who was sinless, entered suffering voluntarily so that He could rede
 Through suffering, God demonstrates that He is not distant from pain; He bears it with us and transforms it into something that transcends it.
 
 **Scripture support:**
+
+- **James 1:13**: “God cannot be tempted by evil, and He Himself does not tempt anyone.”  
+  God is not the source of evil; He is wholly separate from it.
+
+- **Genesis 1:31**: “God saw everything that He had made, and behold, it was very good.”  
+  Creation was not flawed by design; corruption entered through the misuse of free will.
 
 - **Genesis 50:20**: Joseph said to his brothers, “You meant evil against me, but God meant it for good, to bring it about that many people should be kept alive.”  
   God does not cause evil; He turns it toward His redemptive purpose.
@@ -195,11 +203,16 @@ Scripture gives several reasons why answers are delayed, different, or denied.
 
 ### **6. Why does God allow innocent children to die?**
 
+Death was never part of God's design. He fashioned humanity for life, not for the grave. When He warned Adam "you shall surely die" (**Genesis 2:17**), He was describing the consequence of rebellion, not expressing His intention. The death of a child is the sharpest evidence that creation is broken; it is not evidence that the Creator is indifferent. Everything that follows in Scripture points to a God who wages war against death itself and wins.
+
 Scripture never treats death as annihilation; it treats it as transition. Life does not end with the grave. Children belong to God before they belong to any nation or parent. When a child dies, innocence returns to the One who gave it. The tragedy reveals the brokenness of creation, not the absence of divine care.
 
 Human death entered through sin (**Romans 5:12**), and all creation groans under its consequence (**Romans 8:22**). Yet God’s justice and mercy hold every life that ends too soon. The Bible consistently shows that children are under His protection and compassion.
 
 **Scripture support:**
+
+- **Genesis 2:17**: “But of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”  
+  Death was a consequence of rebellion, not part of God’s original design for humanity.
 
 - **2 Samuel 12:22–23**: After the death of his infant son, David says, “I shall go to him, but he will not return to me.”  
   David’s confidence shows belief that the child is with God and that reunion awaits beyond death.

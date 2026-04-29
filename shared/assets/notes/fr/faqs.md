@@ -61,6 +61,8 @@ Le commandement d’Éden n’était pas un piège ; il fut le premier pas du lo
 
 ### **3. Pourquoi un Dieu tout-puissant permet-Il la souffrance et le mal ?**
 
+Dieu n’est pas l’auteur du mal. L’Écriture est explicite : « Dieu ne peut être tenté par le mal, et Lui-même ne tente personne » (**Jacques 1:13**). Ce qu’Il a créé, Il l’a déclaré « très bon » (**Genèse 1:31**) ; ce que nous voyons aujourd’hui est un monde corrompu par le mauvais usage du libre arbitre : d’abord parmi les armées célestes, puis en Éden. La brisure autour de nous est la conséquence de la rébellion, non du dessein divin. La vraie question n’est pas si Dieu a créé le mal, mais pourquoi Il le permet ; et la réponse mène droit à la nature de l’amour.
+
 C’est l’une des questions les plus ardues ; si Dieu est aimant et tout-puissant, pourquoi la douleur, l’injustice et la tragédie ?  
 L’Écriture montre que la souffrance n’est pas la preuve de l’absence de Dieu ; elle est le prix de la liberté réelle dans un monde vivant.
 
@@ -73,6 +75,12 @@ Même Jésus, sans péché, est entré volontairement dans la souffrance pour la
 Par la souffrance, Dieu montre qu’Il n’est pas distant de la douleur ; Il la porte avec nous et la transforme en ce qui la dépasse.
 
 **Appuis bibliques :**
+
+- **Jacques 1:13** : « Dieu ne peut être tenté par le mal, et Lui-même ne tente personne. »  
+  Dieu n’est pas la source du mal ; Il en est entièrement séparé.
+
+- **Genèse 1:31** : « Dieu vit tout ce qu’Il avait fait ; et voici, cela était très bon. »  
+  La création n’était pas défectueuse à l’origine ; la corruption est entrée par le mauvais usage du libre arbitre.
 
 - **Genèse 50:20** : Joseph : « Vous aviez projeté de me faire du mal ; Dieu l’a changé en bien… pour sauver la vie d’un peuple nombreux. »  
   Dieu ne cause pas le mal ; Il le retourne vers son dessein rédempteur.
@@ -194,11 +202,16 @@ L’Écriture donne plusieurs raisons aux réponses tardives, différentes ou re
 
 ### **6. Pourquoi Dieu permet-Il la mort d’enfants innocents ?**
 
+La mort n’a jamais fait partie du dessein de Dieu. Il a façonné l’humanité pour la vie, non pour le tombeau. Quand Il a averti Adam « tu mourras certainement » (**Genèse 2:17**), Il décrivait la conséquence de la rébellion, non Son intention. La mort d’un enfant est la preuve la plus aiguise de la brisure de la création ; non de l’indifférence du Créateur. Tout ce qui suit dans l’Écriture désigne un Dieu qui combat la mort elle-même et triomphe.
+
 L’Écriture ne traite pas la mort comme annihilation ; elle la considère comme transition. La vie ne se termine pas au tombeau. Les enfants appartiennent à Dieu avant d’appartenir à une nation ou à des parents. Quand un enfant meurt, l’innocence retourne à Celui qui l’a donnée. La tragédie révèle la brisure de la création, non l’absence du soin divin.
 
 La mort est entrée par le péché (**Romains 5:12**), et toute la création soupire sous sa conséquence (**Romains 8:22**). Pourtant la justice et la miséricorde de Dieu entourent chaque vie qui s’achève trop tôt. La Bible montre constamment que les enfants sont sous Sa protection et Sa compassion.
 
 **Appuis bibliques :**
+
+- **Genèse 2:17** : « Car le jour où tu en mangeras, tu mourras certainement. »  
+  La mort est la conséquence de la rébellion, non une partie du dessein originel de Dieu pour l’humanité.
 
 - **2 Samuel 12:22–23** : Après la mort de son enfant, David dit : « J’irai vers lui, mais il ne reviendra pas vers moi. »  
   Sa confiance manifeste l’espérance d’une réunion auprès de Dieu.

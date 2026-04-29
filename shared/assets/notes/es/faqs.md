@@ -61,6 +61,8 @@ El mandato en Edén nunca fue una trampa; fue el primer paso en el largo proceso
 
 ### **3. ¿Por qué un Dios todopoderoso permite el sufrimiento y el mal?**
 
+Dios no es el autor del mal. La Escritura es explícita: «Dios no puede ser tentado por el mal, ni Él tienta a nadie» (**Santiago 1:13**). Lo que creó lo declaró «bueno en gran manera» (**Génesis 1:31**); lo que vemos ahora es un mundo corrompido por el mal uso del libre albedrío: primero entre las huestes celestiales, luego en Edén. La rotura a nuestro alrededor es consecuencia de rebelión, no de diseño divino. La verdadera pregunta no es si Dios creó el mal, sino por qué lo permite; y la respuesta conduce directamente a la naturaleza del amor.
+
 Esta es una de las preguntas más difíciles de la historia humana; si Dios es amoroso y omnipotente, ¿por qué permite el dolor, la injusticia y la tragedia?  
 La Escritura muestra que el sufrimiento no es evidencia de la ausencia de Dios; es el precio de la libertad genuina en un mundo vivo.
 
@@ -73,6 +75,12 @@ Aun Jesús, que fue sin pecado, entró voluntariamente en el sufrimiento para re
 Por medio del sufrimiento, Dios muestra que no está distante del dolor; lo lleva con nosotros y lo transforma en algo que lo trasciende.
 
 **Soporte bíblico:**
+
+- **Santiago 1:13**: «Dios no puede ser tentado por el mal, ni Él tienta a nadie.»  
+  Dios no es la fuente del mal; está completamente separado de él.
+
+- **Génesis 1:31**: «Dios vio todo lo que había hecho, y he aquí que era bueno en gran manera.»  
+  La creación no fue defectuosa de origen; la corrupción entró por el mal uso del libre albedrío.
 
 - **Génesis 50:20**: José dijo a sus hermanos: “Vosotros pensasteis mal contra mí, mas Dios lo encaminó a bien, para hacer lo que vemos hoy, para mantener en vida a mucho pueblo”.  
   Dios no causa el mal; lo vuelca hacia su propósito redentor.
@@ -196,11 +204,16 @@ La Escritura da varias razones para resultados retrasados, distintos o negados.
 
 ### **6. ¿Por qué Dios permite que mueran niños inocentes?**
 
+La muerte nunca fue parte del diseño de Dios. Él formó a la humanidad para la vida, no para el sepulcro. Cuando advirtió a Adán «ciertamente morirás» (**Génesis 2:17**), describía la consecuencia de la rebelión, no expresaba Su intención. La muerte de un niño es la evidencia más aguda de que la creación está rota; no de que el Creador sea indiferente. Todo lo que sigue en la Escritura apunta a un Dios que libra guerra contra la muerte misma y vence.
+
 La Escritura nunca trata la muerte como aniquilación; la trata como transición. La vida no termina en la tumba. Los niños pertenecen a Dios antes que a cualquier nación o padre. Cuando un niño muere, la inocencia vuelve a Aquel que la dio. La tragedia revela la rotura de la creación, no la ausencia del cuidado divino.
 
 La muerte humana entró por el pecado (**Romanos 5:12**), y toda la creación gime bajo su consecuencia (**Romanos 8:22**). Sin embargo, la justicia y la misericordia de Dios sostienen toda vida que termina demasiado pronto. La Biblia muestra de manera consistente que los niños están bajo Su protección y compasión.
 
 **Soporte bíblico:**
+
+- **Génesis 2:17**: «Porque el día que de él comas, ciertamente morirás.»  
+  La muerte fue consecuencia de la rebelión, no parte del diseño original de Dios para la humanidad.
 
 - **2 Samuel 12:22–23**: Tras la muerte de su hijo, David dice: “Yo voy a él; mas él no volverá a mí”.  
   La confianza de David muestra su fe en que el niño está con Dios y que hay reunión más allá de la muerte.

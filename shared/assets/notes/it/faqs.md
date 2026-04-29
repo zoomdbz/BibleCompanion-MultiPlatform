@@ -61,6 +61,8 @@ Il comando in Eden non era una trappola; fu il primo passo del lungo processo di
 
 ### **3. Perché un Dio onnipotente permette la sofferenza e il male?**
 
+Dio non è l’autore del male. La Scrittura è esplicita: «Dio non può essere tentato dal male, ed Egli stesso non tenta nessuno» (**Giacomo 1:13**). Ciò che creò lo dichiarò «molto buono» (**Genesi 1:31**); ciò che vediamo oggi è un mondo corrotto dall’abuso del libero arbitrio: prima tra le schiere celesti, poi nell’Eden. La frattura intorno a noi è la conseguenza della ribellione, non del disegno divino. La vera domanda non è se Dio abbia creato il male, ma perché lo permetta; e la risposta conduce dritto alla natura dell’amore.
+
 È una delle domande più difficili; se Dio è amorevole e onnipotente, perché il dolore, l’ingiustizia e la tragedia?  
 La Scrittura mostra che la sofferenza non è prova dell’assenza di Dio; è il prezzo della libertà reale in un mondo vivo.
 
@@ -73,6 +75,12 @@ Anche Gesù, senza peccato, entrò volontariamente nella sofferenza per redimerl
 Attraverso la sofferenza, Dio mostra che non è distante dal dolore; lo porta con noi e lo trasforma in qualcosa che lo trascende.
 
 **Supporto biblico:**
+
+- **Giacomo 1:13**: «Dio non può essere tentato dal male, ed Egli stesso non tenta nessuno.»  
+  Dio non è la fonte del male; ne è interamente separato.
+
+- **Genesi 1:31**: «Dio vide tutto ciò che aveva fatto; ed ecco, era molto buono.»  
+  La creazione non era difettosa per disegno; la corruzione è entrata dall’abuso del libero arbitrio.
 
 - **Genesi 50:20**: Giuseppe: “Voi avevate macchinato del male contro di me; ma Dio ha pensato di convertirlo in bene… per conservare in vita un popolo numeroso.”  
   Dio non causa il male; lo volge al Suo scopo redentivo.
@@ -194,11 +202,16 @@ La Scrittura dà diverse ragioni per risposte tardive, diverse o negate.
 
 ### **6. Perché Dio permette la morte di bambini innocenti?**
 
+La morte non ha mai fatto parte del disegno di Dio. Egli ha plasmato l’umanità per la vita, non per la tomba. Quando avvertì Adamo «certamente morirai» (**Genesi 2:17**), descriveva la conseguenza della ribellione, non esprimeva la Sua intenzione. La morte di un bambino è la prova più acuta che la creazione è spezzata; non che il Creatore sia indifferente. Tutto ciò che segue nella Scrittura punta a un Dio che combatte la morte stessa e vince.
+
 La Scrittura non tratta la morte come annientamento; la considera transizione. La vita non termina alla tomba. I bambini appartengono a Dio prima che a qualsiasi nazione o genitore. Quando un bambino muore, l’innocenza ritorna a Colui che l’ha data. La tragedia rivela la frattura della creazione, non l’assenza della cura divina.
 
 La morte è entrata attraverso il peccato (**Romani 5:12**), e tutta la creazione geme sotto le sue conseguenze (**Romani 8:22**). Eppure la giustizia e la misericordia di Dio abbracciano ogni vita che finisce troppo presto. La Bibbia mostra costantemente che i bambini sono sotto la Sua protezione e compassione.
 
 **Supporto biblico:**
+
+- **Genesi 2:17**: «Perché nel giorno che ne mangerai, certamente morirai.»  
+  La morte fu conseguenza della ribellione, non parte del disegno originale di Dio per l’umanità.
 
 - **2 Samuele 12:22–23**: Dopo la morte del figlio, Davide dice: “Io andrò da lui, ma egli non tornerà da me.”  
   La sua fiducia mostra la speranza che il bambino sia con Dio e che il ricongiungimento attenda oltre la morte.
