@@ -36,6 +36,9 @@ import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.foundation.gestures.waitForUpOrCancellation
 import androidx.compose.ui.input.pointer.PointerEventTimeoutCancellationException
 import androidx.compose.ui.input.pointer.pointerInput
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.withContext
 import kotlinx.coroutines.withTimeout
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListState
@@ -584,6 +587,13 @@ fun HomeScreen(
   var results by remember { mutableStateOf<List<SearchHit>>(emptyList()) }
   var showSheet by remember { mutableStateOf(false) }
   var studyExpanded by remember(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
+  var searchJob by remember { mutableStateOf<Job?>(null) }
+
+  LaunchedEffect(prefs.appLanguage) {
+    withContext(Dispatchers.Default) {
+      runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
+    }
+  }
 
   Box(Modifier.fillMaxSize()) {
     Scaffold(
@@ -611,13 +621,20 @@ fun HomeScreen(
           value = query,
           onValueChange = { q ->
             query = q
+            showSheet = q.length >= 2
+            searchJob?.cancel()
             if (q.length >= 2) {
-              StorySearch.ensureBuilt(ctx, prefs.appLanguage)
-              results = StorySearch.search(q)
+              searchJob = scope.launch {
+                delay(120)
+                val hits = withContext(Dispatchers.Default) {
+                  StorySearch.ensureBuilt(ctx, prefs.appLanguage)
+                  StorySearch.search(q)
+                }
+                results = hits
+              }
             } else {
               results = emptyList()
             }
-            showSheet = q.length >= 2
           },
           modifier = Modifier.fillMaxWidth(),
           placeholder = { Text(stringResource(Res.string.search_placeholder)) },

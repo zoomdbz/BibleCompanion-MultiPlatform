@@ -44,6 +44,7 @@ object StorySearch {
   private val docs = mutableListOf<Doc>()
   private val verseDocs = mutableListOf<VerseDoc>()
   private val verseInvertedIndex = mutableMapOf<String, MutableList<Int>>()
+  private var sortedVocabulary: List<String> = emptyList()
   private val noteDocs = mutableListOf<NoteDoc>()
   private val bookDocs = mutableListOf<BookDoc>()
   private val chapterIndex = mutableMapOf<String, Map<Int, String>>()
@@ -76,6 +77,7 @@ object StorySearch {
     if (builtForLang == appLang) return
     docs.clear(); chapterIndex.clear(); bookLookup.clear(); numberedFamilies.clear()
     noteDocs.clear(); bookDocs.clear(); verseDocs.clear(); verseInvertedIndex.clear()
+    sortedVocabulary = emptyList()
 
     for (col in collections) {
       val pairs: List<Pair<String, String>> = when (col) {
@@ -130,7 +132,25 @@ object StorySearch {
       noteDocs += NoteDoc(route, title, normalize(plainText))
     }
 
+    sortedVocabulary = verseInvertedIndex.keys.sorted()
     builtForLang = appLang
+  }
+
+  private fun prefixCandidates(prefix: String, into: MutableSet<Int>) {
+    if (prefix.isEmpty()) return
+    val vocab = sortedVocabulary
+    if (vocab.isEmpty()) return
+    var lo = 0
+    var hi = vocab.size
+    while (lo < hi) {
+      val mid = (lo + hi) ushr 1
+      if (vocab[mid] < prefix) lo = mid + 1 else hi = mid
+    }
+    var i = lo
+    while (i < vocab.size && vocab[i].startsWith(prefix)) {
+      verseInvertedIndex[vocab[i]]?.let { into.addAll(it) }
+      i++
+    }
   }
 
   fun ensureBuilt(context: PlatformContext, appLang: String) {
@@ -310,9 +330,7 @@ object StorySearch {
       verseInvertedIndex[tok]?.let { candidates.addAll(it) }
     }
     for (stem in expandedStems) {
-      for ((word, indices) in verseInvertedIndex) {
-        if (word.startsWith(stem) && word != stem) candidates.addAll(indices)
-      }
+      if (stem.length >= 3) prefixCandidates(stem, candidates)
     }
 
     if (candidates.isEmpty()) return emptyList()
