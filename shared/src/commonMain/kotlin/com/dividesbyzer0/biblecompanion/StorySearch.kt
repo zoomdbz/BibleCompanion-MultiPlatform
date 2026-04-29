@@ -112,10 +112,16 @@ object StorySearch {
     val q = normalize(queryRaw).trim()
     if (q.length < 2) return emptyList()
     parseExplicitRef(q)?.let { ref -> val hits = searchByExplicitRef(ref); if (hits.isNotEmpty()) return hits.take(limit) }
-    val storyHits = searchFlexible(q, 20)
+    val storyHits = searchFlexible(q, 25)
     val noteHits = searchNotes(q, 5)
     val bookHits = searchBooks(q, 5)
-    return (bookHits + storyHits + noteHits).sortedByDescending { it.score }.take(limit)
+    return (storyHits + bookHits + noteHits)
+      .sortedWith(
+        compareByDescending<SearchHit> { it.score }
+          .thenBy { when (it.type) { SearchHitType.STORY -> 0; SearchHitType.BOOK -> 1; SearchHitType.NOTE -> 2 } }
+          .thenBy { it.title.length }
+      )
+      .take(limit)
   }
 
   // Stopwords: generic particles safe to strip. Theologically-loaded words
@@ -280,10 +286,7 @@ object StorySearch {
     // Stopword-filtered and stemmed tokens for phrase / fuzzy matching.
     val sigTokens = significantTokens(qTokens, lang)
     val stemmedSig = sigTokens.map { stemLite(it, lang) }
-    // A "phrase query" is a user looking for a verse by quoting/paraphrasing it.
-    // Heuristic: 3+ content words after stopwords, and no numbered-book parse
-    // (numbered-book queries like "1 kings 2" should stay keyword-style).
-    val isPhraseQuery = numParse == null && sigTokens.size >= 3
+    val isPhraseQuery = numParse == null && sigTokens.size >= 2
 
     val hits = mutableListOf<SearchHit>()
     for (d in docs) {
@@ -302,17 +305,24 @@ object StorySearch {
         if (fam != null && familyMatches(fam, d.familyKey)) score += 200
       }
       score += keywordScore(d, qTokens, isPhraseQuery)
+      if (q.length >= 5 && indexInfix(d.text, q) >= 0) {
+        score += 3000
+      }
       if (isPhraseQuery) {
-        // Reward body matches against stemmed tokens (catches follow/follows/following)
         var stemBodyHits = 0
         for (stok in stemmedSig) {
           if (indexWordPrefix(d.text, stok) >= 0) stemBodyHits++
         }
         if (stemBodyHits >= 2) score += stemBodyHits * stemBodyHits * 80
-        // Proximity bonus: reward when content tokens cluster together in body
         score += proximityBonus(d.text, sigTokens)
       }
       if (score <= 0) continue
+      // Canonical collections rank above secondary collections (only applied to actual hits)
+      score += when (d.collection) {
+        "old_testament", "new_testament" -> 150
+        "deuterocanonical" -> 50
+        else -> 0
+      }
       hits += SearchHit("${d.bookTitle}: ${d.title}", makeSnippet(d, qTokens), d.collection, d.bookId, d.storyId, score)
     }
     return hits.sortedWith(compareByDescending<SearchHit> { it.score }.thenBy { it.title.length }).take(limit)
