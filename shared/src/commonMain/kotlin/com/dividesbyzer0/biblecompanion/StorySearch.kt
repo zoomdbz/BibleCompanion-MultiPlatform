@@ -4,6 +4,8 @@ import com.dividesbyzer0.biblecompanion.platform.PlatformContext
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKD
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
 import kotlin.math.min
+import kotlinx.coroutines.sync.Mutex
+import kotlinx.coroutines.sync.withLock
 
 object StorySearch {
 
@@ -41,6 +43,7 @@ object StorySearch {
   )
 
   private var builtForLang: String? = null
+  private val buildMutex = Mutex()
   private val docs = mutableListOf<Doc>()
   private val verseDocs = mutableListOf<VerseDoc>()
   private val verseInvertedIndex = mutableMapOf<String, MutableList<Int>>()
@@ -73,8 +76,7 @@ object StorySearch {
 
   private val bulletRefPattern = Regex("""\((\d+):(\d+)(?:\s*-\s*(\d+))?\)\s*\.?\s*$""")
 
-  fun build(context: PlatformContext, appLang: String) {
-    if (builtForLang == appLang) return
+  private fun buildLocked(context: PlatformContext, appLang: String) {
     docs.clear(); chapterIndex.clear(); bookLookup.clear(); numberedFamilies.clear()
     noteDocs.clear(); bookDocs.clear(); verseDocs.clear(); verseInvertedIndex.clear()
     sortedVocabulary = emptyList()
@@ -153,8 +155,12 @@ object StorySearch {
     }
   }
 
-  fun ensureBuilt(context: PlatformContext, appLang: String) {
-    if (builtForLang != appLang) runCatching { build(context, appLang) }
+  suspend fun ensureBuilt(context: PlatformContext, appLang: String) {
+    if (builtForLang == appLang) return
+    buildMutex.withLock {
+      if (builtForLang == appLang) return@withLock
+      runCatching { buildLocked(context, appLang) }
+    }
   }
 
   fun search(queryRaw: String, limit: Int = 30): List<SearchHit> {
@@ -317,97 +323,123 @@ object StorySearch {
   private fun searchVerses(q: String, limit: Int): List<SearchHit> {
     if (verseDocs.isEmpty()) return emptyList()
     val lang = builtForLang ?: "en"
-    val qTokens = q.split(Regex("\\s+")).filter { it.isNotBlank() }
-    val sigTokens = significantTokens(qTokens, lang)
-    if (sigTokens.isEmpty()) return emptyList()
-    val stemmedSig = sigTokens.map { stemLite(it, lang) }
+    val allTokens = q.split(Regex("\\s+")).filter { it.length >= 2 }
+    val sigTokens = significantTokens(allTokens, lang)
+    if (allTokens.isEmpty()) return emptyList()
 
-    val expandedTokens = sigTokens.flatMap { expandWithSynonyms(it, lang) }.distinct()
-    val expandedStems = expandedTokens.map { stemLite(it, lang) }.distinct()
+    val isPhraseQuery = allTokens.size >= 2
 
-    val candidates = mutableSetOf<Int>()
-    for (tok in expandedTokens) {
-      verseInvertedIndex[tok]?.let { candidates.addAll(it) }
-    }
-    for (stem in expandedStems) {
-      if (stem.length >= 3) prefixCandidates(stem, candidates)
-    }
-
+    val candidates: Set<Int> = buildCandidateSet(allTokens, sigTokens, lang, isPhraseQuery)
     if (candidates.isEmpty()) return emptyList()
 
-    data class VerseHit(val vDocIdx: Int, val score: Int)
-    val verseHits = mutableListOf<VerseHit>()
-
+    val verseHits = mutableListOf<Pair<Int, Int>>()
     for (idx in candidates) {
       val vd = verseDocs[idx]
-      var score = 0
-      var directHits = 0
-      var totalHits = 0
-
-      for (tok in sigTokens) {
-        val directScore = scoreToken(vd.text, tok)
-        if (directScore > 0) {
-          score += directScore
-          directHits++
-          totalHits++
-          continue
-        }
-        val stemmed = stemLite(tok, lang)
-        val stemScore = if (indexWordPrefix(vd.text, stemmed) >= 0) 35 else 0
-        if (stemScore > 0) {
-          score += stemScore
-          totalHits++
-          continue
-        }
-        val syns = synonymLookup[tok.lowercase()]
-        if (syns != null) {
-          var bestSynScore = 0
-          for (syn in syns) {
-            val ss = scoreToken(vd.text, syn)
-            if (ss > bestSynScore) bestSynScore = ss
-            if (bestSynScore > 0) break
-          }
-          if (bestSynScore == 0) {
-            for (syn in syns) {
-              val synStem = stemLite(syn, lang)
-              if (indexWordPrefix(vd.text, synStem) >= 0) { bestSynScore = 28; break }
-            }
-          }
-          if (bestSynScore > 0) {
-            score += (bestSynScore * 6) / 10
-            totalHits++
-          }
-        }
-      }
-
-      if (totalHits == 0) continue
-
-      if (totalHits == sigTokens.size) score += 300
-      if (totalHits >= 2) score += totalHits * totalHits * 50
-
-      if (q.length >= 5 && indexInfix(vd.text, q) >= 0) score += 3000
-
-      score += when (vd.collection) {
+      val score = scoreVerse(vd.text, q, allTokens, sigTokens, lang)
+      if (score <= 0) continue
+      val withCol = score + when (vd.collection) {
         "old_testament", "new_testament" -> 100
         "deuterocanonical" -> 30
         else -> 0
       }
-
-      if (score > 0) verseHits += VerseHit(idx, score)
+      verseHits += idx to withCol
     }
 
     val grouped = verseHits
-      .groupBy { verseDocs[it.vDocIdx].let { vd -> Triple(vd.collection, vd.bookId, vd.storyId) } }
-      .map { (key, hits) -> hits.maxByOrNull { it.score }!! }
-      .sortedByDescending { it.score }
+      .groupBy { verseDocs[it.first].let { vd -> Triple(vd.collection, vd.bookId, vd.storyId) } }
+      .map { (_, hits) -> hits.maxByOrNull { it.second }!! }
+      .sortedByDescending { it.second }
       .take(limit)
 
-    return grouped.map { vh ->
-      val vd = verseDocs[vh.vDocIdx]
+    return grouped.map { (idx, score) ->
+      val vd = verseDocs[idx]
       val ref = "${vd.bookTitle} ${vd.chapter}:${vd.verse}${if (vd.verseEnd != null) "-${vd.verseEnd}" else ""}"
       val snippet = cleanBulletForDisplay(vd.rawText)
-      SearchHit(ref, snippet, vd.collection, vd.bookId, vd.storyId, vh.score, SearchHitType.STORY, vd.verse, vd.verseEnd)
+      SearchHit(ref, snippet, vd.collection, vd.bookId, vd.storyId, score, SearchHitType.STORY, vd.verse, vd.verseEnd)
     }
+  }
+
+  private fun buildCandidateSet(allTokens: List<String>, sigTokens: List<String>, lang: String, isPhraseQuery: Boolean): Set<Int> {
+    if (sigTokens.isEmpty() && allTokens.isEmpty()) return emptySet()
+
+    fun lookupToken(tok: String): Set<Int> {
+      val out = mutableSetOf<Int>()
+      verseInvertedIndex[tok.lowercase()]?.let { out.addAll(it) }
+      val syns = synonymLookup[tok.lowercase()]
+      if (syns != null) {
+        for (syn in syns) verseInvertedIndex[syn]?.let { out.addAll(it) }
+      }
+      val stem = stemLite(tok, lang)
+      if (stem != tok && stem.length >= 3) prefixCandidates(stem, out)
+      return out
+    }
+
+    if (isPhraseQuery && sigTokens.size >= 2) {
+      val perTokenSets = sigTokens.map { lookupToken(it) }.filter { it.isNotEmpty() }
+      if (perTokenSets.isEmpty()) return emptySet()
+      val sortedBySize = perTokenSets.sortedBy { it.size }
+      var intersected = sortedBySize[0].toMutableSet()
+      for (i in 1 until sortedBySize.size) {
+        intersected.retainAll(sortedBySize[i])
+        if (intersected.isEmpty()) break
+      }
+      if (intersected.isNotEmpty()) return intersected
+      val twoWayHits = mutableMapOf<Int, Int>()
+      for (set in perTokenSets) for (id in set) twoWayHits[id] = (twoWayHits[id] ?: 0) + 1
+      val needed = minOf(2, perTokenSets.size)
+      val partial = twoWayHits.filter { it.value >= needed }.keys
+      if (partial.isNotEmpty()) return partial
+      return perTokenSets.flatten().toSet()
+    }
+
+    val out = mutableSetOf<Int>()
+    val tokensToUse = if (sigTokens.isNotEmpty()) sigTokens else allTokens
+    for (tok in tokensToUse) out.addAll(lookupToken(tok))
+    return out
+  }
+
+  private fun scoreVerse(text: String, q: String, allTokens: List<String>, sigTokens: List<String>, lang: String): Int {
+    var score = 0
+
+    if (q.length >= 5 && indexInfix(text, q) >= 0) score += 5000
+
+    if (allTokens.size >= 3) {
+      for (i in 0..(allTokens.size - 3)) {
+        val tri = "${allTokens[i]} ${allTokens[i+1]} ${allTokens[i+2]}"
+        if (indexInfix(text, tri) >= 0) score += 600
+      }
+    }
+    if (allTokens.size >= 2) {
+      for (i in 0..(allTokens.size - 2)) {
+        val bi = "${allTokens[i]} ${allTokens[i+1]}"
+        if (indexInfix(text, bi) >= 0) score += 180
+      }
+    }
+
+    var matchedTokens = 0
+    for (tok in sigTokens) {
+      val direct = scoreToken(text, tok)
+      if (direct > 0) { score += direct; matchedTokens++; continue }
+      val syns = synonymLookup[tok.lowercase()]
+      var synScore = 0
+      if (syns != null) {
+        for (syn in syns) {
+          val ss = scoreToken(text, syn)
+          if (ss > synScore) synScore = ss
+          if (synScore > 0) break
+        }
+      }
+      if (synScore > 0) { score += (synScore * 6) / 10; matchedTokens++; continue }
+      val stem = stemLite(tok, lang)
+      if (stem != tok && stem.length >= 3 && indexWordPrefix(text, stem) >= 0) {
+        score += 30; matchedTokens++
+      }
+    }
+
+    if (sigTokens.isNotEmpty() && matchedTokens == sigTokens.size) score += 400
+    if (matchedTokens >= 2) score += matchedTokens * matchedTokens * 60
+
+    return score
   }
 
   private fun scoreToken(text: String, tok: String): Int = when {
@@ -426,24 +458,27 @@ object StorySearch {
   }
 
   private fun mergeStoryAndVerseHits(storyHits: List<SearchHit>, verseHits: List<SearchHit>): List<SearchHit> {
-    val storyMap = storyHits.associateBy { Triple(it.collection, it.bookId, it.storyId) }.toMutableMap()
+    val verseByKey = verseHits.associateBy { Triple(it.collection, it.bookId, it.storyId) }
+    val merged = mutableListOf<SearchHit>()
+    val consumedKeys = mutableSetOf<Triple<String, String, String>>()
 
-    for (vh in verseHits) {
-      val key = Triple(vh.collection, vh.bookId, vh.storyId)
-      val existing = storyMap[key]
-      if (existing != null) {
-        val boostedScore = maxOf(existing.score, vh.score) + minOf(existing.score, vh.score) / 4
-        storyMap[key] = if (vh.score >= existing.score) {
-          vh.copy(score = boostedScore)
-        } else {
-          existing.copy(score = boostedScore, verse = vh.verse, verseEnd = vh.verseEnd)
-        }
+    for (sh in storyHits) {
+      val key = Triple(sh.collection, sh.bookId, sh.storyId)
+      val vh = verseByKey[key]
+      if (vh != null) {
+        val combined = maxOf(sh.score, vh.score) + minOf(sh.score, vh.score) / 4
+        merged += vh.copy(score = combined)
+        consumedKeys += key
       } else {
-        storyMap[key] = vh
+        merged += sh
       }
     }
 
-    return storyMap.values.toList()
+    for ((key, vh) in verseByKey) {
+      if (key !in consumedKeys) merged += vh
+    }
+
+    return merged
   }
 
   // --- Note search ---
@@ -483,19 +518,30 @@ object StorySearch {
 
   // --- Explicit reference search ---
 
-  private data class ExplicitRef(val family: String, val number: Int?, val chapter: Int)
+  private data class ExplicitRef(val family: String, val number: Int?, val chapter: Int, val verse: Int? = null, val verseEnd: Int? = null)
+
+  private fun parseChapterAndVerse(tok: String): Triple<Int?, Int?, Int?> {
+    val rangeM = Regex("^(\\d+):(\\d+)\\s*-\\s*(\\d+)$").matchEntire(tok)
+    if (rangeM != null) return Triple(rangeM.groupValues[1].toIntOrNull(), rangeM.groupValues[2].toIntOrNull(), rangeM.groupValues[3].toIntOrNull())
+    val cvM = Regex("^(\\d+):(\\d+)$").matchEntire(tok)
+    if (cvM != null) return Triple(cvM.groupValues[1].toIntOrNull(), cvM.groupValues[2].toIntOrNull(), null)
+    val cM = Regex("^(\\d+)$").matchEntire(tok)
+    if (cM != null) return Triple(cM.groupValues[1].toIntOrNull(), null, null)
+    return Triple(null, null, null)
+  }
 
   private fun parseExplicitRef(q: String): ExplicitRef? {
     val tokens = q.replace("_"," ").replace("-"," ").replace("."," ").trim().split(Regex("\\s+")).filter { it.isNotBlank() }
     if (tokens.isEmpty()) return null
     for (tok in tokens) {
-      val m = Regex("^(\\d+|i{1,3}|first|second|third)?([a-z]+?)(\\d+)(?::\\d+)?$").matchEntire(tok.lowercase())
+      val m = Regex("^(\\d+|i{1,3}|first|second|third)?([a-z]+?)(\\d+)(?::(\\d+))?$").matchEntire(tok.lowercase())
       if (m != null) {
         val numRaw = m.groupValues[1].ifBlank { null }
         val famRaw = m.groupValues[2]; val chapter = m.groupValues[3].toIntOrNull() ?: continue
+        val verse = m.groupValues[4].toIntOrNull()
         val num = numRaw?.let { parseLeadingNumber(it) }
         val (_, fam) = splitNumberedBook("${numRaw ?: ""} $famRaw")
-        return ExplicitRef(fam, num, chapter)
+        return ExplicitRef(fam, num, chapter, verse)
       }
     }
     run {
@@ -503,8 +549,8 @@ object StorySearch {
       if (bookPart.isNotEmpty() && chapTok != null) {
         val (num, fam) = splitNumberedBook(bookPart.joinToString(" "))
         if (fam.isNotBlank()) {
-          val chapter = when { chapTok.matches(Regex("^\\d+:\\d+$")) -> chapTok.substringBefore(":").toIntOrNull(); chapTok.matches(Regex("^\\d+$")) -> chapTok.toIntOrNull(); else -> null }
-          if (chapter != null) return ExplicitRef(fam, num, chapter)
+          val (ch, v, vEnd) = parseChapterAndVerse(chapTok)
+          if (ch != null) return ExplicitRef(fam, num, ch, v, vEnd)
         }
       }
     }
@@ -514,8 +560,8 @@ object StorySearch {
         val tail = tokens.drop(i + 1); val (bookPart, chapTok) = splitBookAndChapter(tail)
         if (bookPart.isEmpty() || chapTok == null) continue
         val (_, fam) = splitNumberedBook(bookPart.joinToString(" ")); if (fam.isBlank()) continue
-        val chapter = when { chapTok.matches(Regex("^\\d+:\\d+$")) -> chapTok.substringBefore(":").toIntOrNull(); chapTok.matches(Regex("^\\d+$")) -> chapTok.toIntOrNull(); else -> null }
-        if (chapter != null) return ExplicitRef(fam, n, chapter)
+        val (ch, v, vEnd) = parseChapterAndVerse(chapTok)
+        if (ch != null) return ExplicitRef(fam, n, ch, v, vEnd)
       }
     }
     return null
@@ -538,7 +584,19 @@ object StorySearch {
       if (storyId == null) { storyId = docs.asSequence().filter { it.collection == col && it.bookId == bookId }.firstOrNull { spans -> spans.chapterSpans.any { ref.chapter in it } }?.storyId }
       if (storyId == null) continue
       val d = docs.firstOrNull { it.collection == col && it.bookId == bookId && it.storyId == storyId } ?: continue
-      out += SearchHit("$bookTitle: ${d.title}", "Chapter ${ref.chapter} → ${d.refsJoined}", col, bookId, storyId, 10_000)
+      val title = if (ref.verse != null) {
+        "$bookTitle ${ref.chapter}:${ref.verse}${if (ref.verseEnd != null) "-${ref.verseEnd}" else ""}"
+      } else {
+        "$bookTitle: ${d.title}"
+      }
+      val snippet = if (ref.verse != null) {
+        verseDocs.firstOrNull { it.collection == col && it.bookId == bookId && it.chapter == ref.chapter && it.verse == ref.verse }
+          ?.let { cleanBulletForDisplay(it.rawText) }
+          ?: "Chapter ${ref.chapter} → ${d.refsJoined}"
+      } else {
+        "Chapter ${ref.chapter} → ${d.refsJoined}"
+      }
+      out += SearchHit(title, snippet, col, bookId, storyId, 10_000, SearchHitType.STORY, ref.verse, ref.verseEnd)
     }
     return out.sortedWith(compareByDescending<SearchHit> { it.score }.thenBy { it.title.length })
   }

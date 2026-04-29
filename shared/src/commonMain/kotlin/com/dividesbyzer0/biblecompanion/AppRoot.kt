@@ -639,7 +639,19 @@ fun HomeScreen(
           modifier = Modifier.fillMaxWidth(),
           placeholder = { Text(stringResource(Res.string.search_placeholder)) },
           singleLine = true,
-          leadingIcon = { Icon(Icons.Filled.Search, contentDescription = null, tint = MaterialTheme.colorScheme.onSurfaceVariant) }
+          leadingIcon = { Icon(Icons.Filled.Search, contentDescription = null, tint = MaterialTheme.colorScheme.onSurfaceVariant) },
+          trailingIcon = {
+            if (query.isNotEmpty()) {
+              IconButton(onClick = {
+                searchJob?.cancel()
+                query = ""
+                results = emptyList()
+                showSheet = false
+              }) {
+                Icon(Icons.Filled.Close, contentDescription = null, tint = MaterialTheme.colorScheme.onSurfaceVariant)
+              }
+            }
+          }
         )
 
         // Search results with highlighted keywords
@@ -1428,13 +1440,12 @@ fun BookScreen(
     }
   }
 
-  LaunchedEffect(initialStoryId, storyIndex, book) {
+  LaunchedEffect(initialStoryId, initialVerse, storyIndex, book) {
     if (!initialStoryId.isNullOrBlank()) {
       if (initialStoryId !in expandedStoryIds) {
         expandedStoryIds = expandedStoryIds + initialStoryId
       }
-      storyIndex[initialStoryId]?.let { idx -> listState.scrollToItem(idx) }
-
+      val storyIdx = storyIndex[initialStoryId]
       if (initialVerse != null && book != null) {
         val story = book.stories.find { it.id == initialStoryId }
         if (story != null) {
@@ -1443,8 +1454,17 @@ fun BookScreen(
           if (bullets.isNotEmpty()) {
             goldFadeStoryId = initialStoryId
             goldFadeBulletIdxs = bullets
+            val firstBullet = bullets.min()
+            val approxOffset = firstBullet * 140 + 60
+            if (storyIdx != null) listState.scrollToItem(storyIdx, approxOffset)
+          } else if (storyIdx != null) {
+            listState.scrollToItem(storyIdx)
           }
+        } else if (storyIdx != null) {
+          listState.scrollToItem(storyIdx)
         }
+      } else if (storyIdx != null) {
+        listState.scrollToItem(storyIdx)
       }
     }
   }
@@ -1659,13 +1679,15 @@ fun BookScreen(
                             chStoryId?.let { sid ->
                               if (sid !in expandedStoryIds) expandedStoryIds = expandedStoryIds + sid
                               val bullets = findBulletsForVerseRange(chStory?.summaryBullets ?: emptyList(), v, v)
+                              val firstBullet = bullets.minOrNull() ?: 0
+                              val approxOffset = firstBullet * 140 + 60
                               if (bullets.isNotEmpty()) {
                                 goldFadeStoryId = sid
                                 goldFadeBulletIdxs = bullets
                               }
                               showChapters = false
                               selectedChapter = null
-                              storyIndex[sid]?.let { idx -> scope.launch { listState.animateScrollToItem(idx) } }
+                              storyIndex[sid]?.let { idx -> scope.launch { listState.animateScrollToItem(idx, approxOffset) } }
                             }
                           },
                           modifier = Modifier.size(48.dp),
