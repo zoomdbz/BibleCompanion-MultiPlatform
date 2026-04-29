@@ -125,7 +125,7 @@ actual fun ensureCacheDir(context: PlatformContext, dir: String) {
 
 actual fun platformOpenUrl(context: PlatformContext, url: String) {
     NSURL.URLWithString(url)?.let { nsUrl ->
-        UIApplication.sharedApplication.openURL(nsUrl)
+        UIApplication.sharedApplication.openURL(nsUrl, emptyMap<Any?, Any>(), null)
     }
 }
 
@@ -134,6 +134,8 @@ actual fun platformOpenUrlInBrowser(context: PlatformContext, url: String) {
 }
 
 actual fun platformIsAppInstalled(context: PlatformContext, packageId: String): Boolean = false
+
+actual val isApplePlatform: Boolean = true
 
 actual fun platformCopyToClipboard(context: PlatformContext, label: String, text: String) {
     UIPasteboard.generalPasteboard.string = text
@@ -147,9 +149,9 @@ actual fun platformShareText(context: PlatformContext, subject: String, text: St
     val window = windowScene?.windows?.firstOrNull {
         (it as? UIWindow)?.isKeyWindow() == true
     } as? UIWindow
-    window?.rootViewController?.presentViewController(
-        activityVC, animated = true, completion = null
-    )
+    val rootVC = window?.rootViewController ?: return
+    activityVC.popoverPresentationController?.sourceView = rootVC.view
+    rootVC.presentViewController(activityVC, animated = true, completion = null)
 }
 
 actual fun platformGetDefaultLocaleLanguage(): String {

@@ -75,6 +75,8 @@ actual fun platformIsAppInstalled(context: PlatformContext, packageId: String): 
     true
 }.getOrDefault(false)
 
+actual val isApplePlatform: Boolean = false
+
 actual fun platformCopyToClipboard(context: PlatformContext, label: String, text: String) {
     val cm = context.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
     cm.setPrimaryClip(ClipData.newPlainText(label, text))

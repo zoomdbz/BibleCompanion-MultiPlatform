@@ -144,6 +144,7 @@ import com.dividesbyzer0.biblecompanion.platform.platformAppVersion
 import com.dividesbyzer0.biblecompanion.platform.platformOpenUrl
 import com.dividesbyzer0.biblecompanion.platform.platformCopyToClipboard
 import com.dividesbyzer0.biblecompanion.platform.platformShareText
+import com.dividesbyzer0.biblecompanion.platform.isApplePlatform
 import com.dividesbyzer0.biblecompanion.platform.platformCurrentDate
 import com.dividesbyzer0.biblecompanion.platform.platformTtsInit
 import com.dividesbyzer0.biblecompanion.platform.platformTtsSpeak
@@ -3885,14 +3886,15 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       // ─── SUPPORT SECTION ───
       SectionHeader(stringResource(Res.string.support))
 
-      Text(stringResource(Res.string.donation), style = MaterialTheme.typography.titleSmall)
-      Text(stringResource(Res.string.donation_text))
-      OutlinedButton(
-        onClick = { platformOpenUrl(ctx, "https://paypal.me/domvgreco") }
-      ) { Text(stringResource(Res.string.donate_button)) }
-      Text(stringResource(Res.string.donate_message), style = MaterialTheme.typography.bodySmall)
-
-      Spacer(Modifier.height(8.dp))
+      if (!isApplePlatform) {
+        Text(stringResource(Res.string.donation), style = MaterialTheme.typography.titleSmall)
+        Text(stringResource(Res.string.donation_text))
+        OutlinedButton(
+          onClick = { platformOpenUrl(ctx, "https://paypal.me/domvgreco") }
+        ) { Text(stringResource(Res.string.donate_button)) }
+        Text(stringResource(Res.string.donate_message), style = MaterialTheme.typography.bodySmall)
+        Spacer(Modifier.height(8.dp))
+      }
 
       val shareAppSubject = stringResource(Res.string.app_name)
       OutlinedButton(
@@ -3900,7 +3902,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
           platformShareText(
             ctx,
             shareAppSubject,
-            "https://play.google.com/store/apps/details?id=com.dividesbyzer0.biblecompanion"
+            "https://wordinlight.org/biblecompanion"
           )
         }
       ) {
@@ -4065,15 +4067,17 @@ fun AboutScreen(onBack: () -> Unit) {
 
       Spacer(Modifier.height(16.dp))
 
-      // Rate button
-      OutlinedButton(
-        onClick = {
-          platformOpenUrl(ctx, "https://play.google.com/store/apps/details?id=com.dividesbyzer0.biblecompanion")
+      // Rate button (hidden on iOS until App Store URL is available)
+      if (!isApplePlatform) {
+        OutlinedButton(
+          onClick = {
+            platformOpenUrl(ctx, "https://play.google.com/store/apps/details?id=com.dividesbyzer0.biblecompanion")
+          }
+        ) {
+          Icon(Icons.Filled.Star, contentDescription = null, modifier = Modifier.size(18.dp))
+          Spacer(Modifier.width(8.dp))
+          Text(stringResource(Res.string.rate_app))
         }
-      ) {
-        Icon(Icons.Filled.Star, contentDescription = null, modifier = Modifier.size(18.dp))
-        Spacer(Modifier.width(8.dp))
-        Text(stringResource(Res.string.rate_app))
       }
 
       // Share app button
@@ -4083,7 +4087,7 @@ fun AboutScreen(onBack: () -> Unit) {
           platformShareText(
             ctx,
             shareAppSubject,
-            "https://play.google.com/store/apps/details?id=com.dividesbyzer0.biblecompanion"
+            "https://wordinlight.org/biblecompanion"
           )
         }
       ) {

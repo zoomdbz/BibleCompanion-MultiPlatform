@@ -23,6 +23,7 @@ expect fun ensureCacheDir(context: PlatformContext, dir: String)
 expect fun platformOpenUrl(context: PlatformContext, url: String)
 expect fun platformOpenUrlInBrowser(context: PlatformContext, url: String)
 expect fun platformIsAppInstalled(context: PlatformContext, packageId: String): Boolean
+expect val isApplePlatform: Boolean
 
 // ---- Clipboard & share ----
 expect fun platformCopyToClipboard(context: PlatformContext, label: String, text: String)
