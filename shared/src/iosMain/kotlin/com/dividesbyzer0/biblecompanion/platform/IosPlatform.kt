@@ -150,7 +150,6 @@ actual fun platformShareText(context: PlatformContext, subject: String, text: St
         (it as? UIWindow)?.isKeyWindow() == true
     } as? UIWindow
     val rootVC = window?.rootViewController ?: return
-    activityVC.popoverPresentationController?.sourceView = rootVC.view
     rootVC.presentViewController(activityVC, animated = true, completion = null)
 }
 
