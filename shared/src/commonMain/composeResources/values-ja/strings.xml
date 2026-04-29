@@ -287,4 +287,5 @@
     <string name="dc_unavailable_body">この言語ではBible.comまたはBibleGatewayでは利用できません。アプリ内で読むか、アプリの言語を切り替えてください。</string>
     <string name="chapters_label">章</string>
     <string name="verses_label">節</string>
+    <string name="search_searching">検索中…</string>
 </resources>

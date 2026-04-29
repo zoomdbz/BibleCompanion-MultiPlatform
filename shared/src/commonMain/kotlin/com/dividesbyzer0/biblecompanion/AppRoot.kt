@@ -76,6 +76,7 @@ import androidx.compose.material3.Checkbox
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CenterAlignedTopAppBar
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ElevatedButton
@@ -191,7 +192,11 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
   LaunchedEffect(prefs.appLanguage) {
     // Bulletproof: any asset-load throw here would surface up the Compose
     // runtime and crash the app on iOS, where we can't catch in Swift.
-    runCatching { ScriptureRefs.primeBooks(ctx, prefs.appLanguage) }
+    // Off-main: book-alias loading reads many JSON files; previously caused
+    // first-frame jank on launch.
+    withContext(Dispatchers.Default) {
+      runCatching { ScriptureRefs.primeBooks(ctx, prefs.appLanguage) }
+    }
   }
 
   val dark = when (prefs.theme.lowercase()) {
@@ -588,10 +593,18 @@ fun HomeScreen(
   var showSheet by remember { mutableStateOf(false) }
   var studyExpanded by remember(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
   var searchJob by remember { mutableStateOf<Job?>(null) }
+  var searchInFlight by remember { mutableStateOf(false) }
+  var searchGen by remember { mutableStateOf(0) }
+  var indexReady by remember(prefs.appLanguage) { mutableStateOf(StorySearch.isReady(prefs.appLanguage)) }
 
   LaunchedEffect(prefs.appLanguage) {
-    withContext(Dispatchers.Default) {
-      runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
+    if (!StorySearch.isReady(prefs.appLanguage)) {
+      withContext(Dispatchers.Default) {
+        runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
+      }
+      indexReady = StorySearch.isReady(prefs.appLanguage)
+    } else {
+      indexReady = true
     }
   }
 
@@ -624,15 +637,28 @@ fun HomeScreen(
             showSheet = q.length >= 2
             searchJob?.cancel()
             if (q.length >= 2) {
+              searchInFlight = true
+              val gen = ++searchGen
               searchJob = scope.launch {
-                delay(120)
-                val hits = withContext(Dispatchers.Default) {
-                  StorySearch.ensureBuilt(ctx, prefs.appLanguage)
-                  StorySearch.search(q)
+                try {
+                  delay(120)
+                  if (!StorySearch.isReady(prefs.appLanguage)) {
+                    withContext(Dispatchers.Default) {
+                      runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
+                    }
+                    indexReady = StorySearch.isReady(prefs.appLanguage)
+                  }
+                  val hits = withContext(Dispatchers.Default) {
+                    StorySearch.search(q)
+                  }
+                  if (gen == searchGen) results = hits
+                } finally {
+                  if (gen == searchGen) searchInFlight = false
                 }
-                results = hits
               }
             } else {
+              searchInFlight = false
+              searchGen++
               results = emptyList()
             }
           },
@@ -644,6 +670,7 @@ fun HomeScreen(
             if (query.isNotEmpty()) {
               IconButton(onClick = {
                 searchJob?.cancel()
+                searchInFlight = false
                 query = ""
                 results = emptyList()
                 showSheet = false
@@ -657,63 +684,57 @@ fun HomeScreen(
         // Search results with highlighted keywords
         if (showSheet && results.isEmpty()) {
           Surface(tonalElevation = 3.dp, shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
-            Text(
-              stringResource(Res.string.search_no_results).replace("%1\$s", query),
-              style = MaterialTheme.typography.bodyMedium,
-              color = MaterialTheme.colorScheme.onSurfaceVariant,
-              modifier = Modifier.padding(16.dp)
-            )
+            if (searchInFlight || !indexReady) {
+              Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.padding(16.dp)
+              ) {
+                CircularProgressIndicator(
+                  modifier = Modifier.size(18.dp),
+                  strokeWidth = 2.dp,
+                  color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Spacer(Modifier.width(12.dp))
+                Text(
+                  stringResource(Res.string.search_searching),
+                  style = MaterialTheme.typography.bodyMedium,
+                  color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+              }
+            } else {
+              Text(
+                stringResource(Res.string.search_no_results).replace("%1\$s", query),
+                style = MaterialTheme.typography.bodyMedium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(16.dp)
+              )
+            }
           }
         }
         if (showSheet && results.isNotEmpty()) {
-          val bookHits = results.filter { it.type == SearchHitType.BOOK }
-          val storyHits = results.filter { it.type == SearchHitType.STORY }
-          val noteHits = results.filter { it.type == SearchHitType.NOTE }
-          val multiType = listOf(bookHits, storyHits, noteHits).count { it.isNotEmpty() } > 1
-
           Surface(tonalElevation = 3.dp, shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
             Column(Modifier.padding(8.dp)) {
-              if (bookHits.isNotEmpty()) {
-                if (multiType) SearchSectionHeader(Icons.AutoMirrored.Filled.MenuBook, stringResource(Res.string.books_header))
-                bookHits.forEach { hit ->
-                  ListItem(
-                    headlineContent = { Text(hit.title, fontWeight = FontWeight.Medium) },
-                    supportingContent = { Text(hit.snippet) },
-                    modifier = Modifier.clickable(enabled = !navBusy) {
-                      safeNav { onOpenBook(hit.collection, hit.bookId, null, null, null) }
-                      showSheet = false
+              results.forEach { hit ->
+                ListItem(
+                  headlineContent = { Text(hit.title, fontWeight = FontWeight.Medium) },
+                  supportingContent = {
+                    when (hit.type) {
+                      SearchHitType.BOOK -> Text(hit.snippet)
+                      else -> Text(highlightSearchSnippet(hit.snippet, query))
                     }
-                  )
-                  HorizontalDivider()
-                }
-              }
-              if (storyHits.isNotEmpty()) {
-                if (multiType) SearchSectionHeader(Icons.Filled.Star, stringResource(Res.string.stories_header))
-                storyHits.forEach { hit ->
-                  ListItem(
-                    headlineContent = { Text(hit.title, fontWeight = FontWeight.Medium) },
-                    supportingContent = { Text(highlightSearchSnippet(hit.snippet, query)) },
-                    modifier = Modifier.clickable(enabled = !navBusy) {
-                      safeNav { onOpenBook(hit.collection, hit.bookId, hit.storyId, hit.verse, hit.verseEnd) }
-                      showSheet = false
+                  },
+                  modifier = Modifier.clickable(enabled = !navBusy) {
+                    safeNav {
+                      when (hit.type) {
+                        SearchHitType.BOOK -> onOpenBook(hit.collection, hit.bookId, null, null, null)
+                        SearchHitType.NOTE -> onNavigateRoute(hit.bookId)
+                        SearchHitType.STORY -> onOpenBook(hit.collection, hit.bookId, hit.storyId, hit.verse, hit.verseEnd)
+                      }
                     }
-                  )
-                  HorizontalDivider()
-                }
-              }
-              if (noteHits.isNotEmpty()) {
-                if (multiType) SearchSectionHeader(Icons.Filled.Search, stringResource(Res.string.study_notes_header))
-                noteHits.forEach { hit ->
-                  ListItem(
-                    headlineContent = { Text(hit.title, fontWeight = FontWeight.Medium) },
-                    supportingContent = { Text(highlightSearchSnippet(hit.snippet, query)) },
-                    modifier = Modifier.clickable(enabled = !navBusy) {
-                      safeNav { onNavigateRoute(hit.bookId) }
-                      showSheet = false
-                    }
-                  )
-                  HorizontalDivider()
-                }
+                    showSheet = false
+                  }
+                )
+                HorizontalDivider()
               }
             }
           }
@@ -1455,7 +1476,7 @@ fun BookScreen(
             goldFadeStoryId = initialStoryId
             goldFadeBulletIdxs = bullets
             val firstBullet = bullets.min()
-            val approxOffset = firstBullet * 140 + 60
+            val approxOffset = firstBullet * 200 + 150
             if (storyIdx != null) listState.scrollToItem(storyIdx, approxOffset)
           } else if (storyIdx != null) {
             listState.scrollToItem(storyIdx)
@@ -1473,7 +1494,7 @@ fun BookScreen(
   // the bullet isn't "stuck" as a highlight target and can be re-triggered later.
   LaunchedEffect(goldFadeStoryId, goldFadeBulletIdxs) {
     if (goldFadeStoryId != null && goldFadeBulletIdxs.isNotEmpty()) {
-      delay(2200)
+      delay(8000)
       goldFadeStoryId = null
       goldFadeBulletIdxs = emptySet()
     }
@@ -1680,7 +1701,7 @@ fun BookScreen(
                               if (sid !in expandedStoryIds) expandedStoryIds = expandedStoryIds + sid
                               val bullets = findBulletsForVerseRange(chStory?.summaryBullets ?: emptyList(), v, v)
                               val firstBullet = bullets.minOrNull() ?: 0
-                              val approxOffset = firstBullet * 140 + 60
+                              val approxOffset = firstBullet * 200 + 150
                               if (bullets.isNotEmpty()) {
                                 goldFadeStoryId = sid
                                 goldFadeBulletIdxs = bullets
@@ -2367,11 +2388,15 @@ fun StoryCard(
                             }
                           }
                         }
+                        // Brief beat after scroll settles so the user's eye lands on the row.
+                        delay(120)
                         goldAlpha.snapTo(1f)
                         goldAlpha.animateTo(
                           0f,
-                          animationSpec = tween(durationMillis = 1800, easing = LinearEasing)
+                          animationSpec = tween(durationMillis = 2200, easing = LinearEasing)
                         )
+                      } else {
+                        goldAlpha.snapTo(0f)
                       }
                     }
                     val bgColor = when {

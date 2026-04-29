@@ -225,61 +225,66 @@ class CalendarGridWidget : GlanceAppWidget() {
 
       Spacer(GlanceModifier.height(2.dp))
 
-      // Day grid rows
-      for (row in 0 until rows) {
-        Row(modifier = GlanceModifier.fillMaxWidth().height(rowH)) {
-          for (col in 0..6) {
-            val slotIndex = row * 7 + col
-            val day = slotIndex - data.firstDow + 1
-            val inMonth = day in 1..data.daysInMonth
-            val feasts = if (inMonth) data.feastMap[day] else null
-            val filteredFeasts = filterFeasts(feasts, calType)
-            val isToday = inMonth && day == data.todayDay
-            val hasFeast = filteredFeasts != null
+      // Day grid rows \u2014 wrapped in a single inner Column so the outer Column
+      // stays under Glance's 10-child cap. Without this nesting, 5\u20136 weeks
+      // plus title/header/legend pushed children to 11+ and Glance silently
+      // truncated, blanking the widget.
+      Column(modifier = GlanceModifier.fillMaxWidth()) {
+        for (row in 0 until rows) {
+          Row(modifier = GlanceModifier.fillMaxWidth().height(rowH)) {
+            for (col in 0..6) {
+              val slotIndex = row * 7 + col
+              val day = slotIndex - data.firstDow + 1
+              val inMonth = day in 1..data.daysInMonth
+              val feasts = if (inMonth) data.feastMap[day] else null
+              val filteredFeasts = filterFeasts(feasts, calType)
+              val isToday = inMonth && day == data.todayDay
+              val hasFeast = filteredFeasts != null
 
-            val bgColor = when {
-              !inMonth -> GlanceTheme.colors.surfaceVariant
-              isToday -> GlanceTheme.colors.primaryContainer
-              hasFeast -> GlanceTheme.colors.tertiaryContainer
-              else -> GlanceTheme.colors.widgetBackground
-            }
+              val bgColor = when {
+                !inMonth -> GlanceTheme.colors.surfaceVariant
+                isToday -> GlanceTheme.colors.primaryContainer
+                hasFeast -> GlanceTheme.colors.tertiaryContainer
+                else -> GlanceTheme.colors.widgetBackground
+              }
 
-            Box(
-              modifier = GlanceModifier
-                .defaultWeight()
-                .padding(1.dp)
-                .background(bgColor)
-                .cornerRadius(4.dp),
-              contentAlignment = Alignment.TopCenter
-            ) {
-              if (inMonth) {
-                Column(
-                  modifier = GlanceModifier.padding(1.dp),
-                  horizontalAlignment = Alignment.CenterHorizontally
-                ) {
-                  Text(
-                    "$day",
-                    style = TextStyle(
-                      fontSize = dayFs,
-                      fontWeight = if (isToday || hasFeast) FontWeight.Bold else FontWeight.Normal,
-                      color = if (isToday) GlanceTheme.colors.primary else GlanceTheme.colors.onSurface,
-                      textAlign = TextAlign.Center
+              Box(
+                modifier = GlanceModifier
+                  .defaultWeight()
+                  .padding(1.dp)
+                  .background(bgColor)
+                  .cornerRadius(4.dp),
+                contentAlignment = Alignment.TopCenter
+              ) {
+                if (inMonth) {
+                  Column(
+                    modifier = GlanceModifier.padding(1.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally
+                  ) {
+                    Text(
+                      "$day",
+                      style = TextStyle(
+                        fontSize = dayFs,
+                        fontWeight = if (isToday || hasFeast) FontWeight.Bold else FontWeight.Normal,
+                        color = if (isToday) GlanceTheme.colors.primary else GlanceTheme.colors.onSurface,
+                        textAlign = TextAlign.Center
+                      )
                     )
-                  )
-                  if (showHebrew) {
-                    val heb = HebrewCalendar.gregorianToHebrew(data.year, data.month, day)
-                    Text("${heb.day}", style = TextStyle(fontSize = hebrewFs, color = GlanceTheme.colors.onSurfaceVariant))
-                  }
-                  if (hasFeast) {
-                    val hasH = filteredFeasts!!.any { it.calendar == FeastCalendarType.HEBREW }
-                    val hasE = filteredFeasts.any { it.calendar == FeastCalendarType.ESSENE }
-                    val hasK = filteredFeasts.any { it.calendar == FeastCalendarType.KARAITE }
-                    Row {
-                      if (hasH) Text("\u2721", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.error))
-                      if (hasE) Text("\u2609", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.primary))
+                    if (showHebrew) {
+                      val heb = HebrewCalendar.gregorianToHebrew(data.year, data.month, day)
+                      Text("${heb.day}", style = TextStyle(fontSize = hebrewFs, color = GlanceTheme.colors.onSurfaceVariant))
                     }
-                    if (showName) {
-                      Text(shortFeastName(filteredFeasts), style = TextStyle(fontSize = feastNameFs, color = GlanceTheme.colors.onSurfaceVariant), maxLines = 1)
+                    if (hasFeast) {
+                      val hasH = filteredFeasts!!.any { it.calendar == FeastCalendarType.HEBREW }
+                      val hasE = filteredFeasts.any { it.calendar == FeastCalendarType.ESSENE }
+                      val hasK = filteredFeasts.any { it.calendar == FeastCalendarType.KARAITE }
+                      Row {
+                        if (hasH) Text("\u2721", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.error))
+                        if (hasE) Text("\u2609", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.primary))
+                      }
+                      if (showName) {
+                        Text(shortFeastName(filteredFeasts), style = TextStyle(fontSize = feastNameFs, color = GlanceTheme.colors.onSurfaceVariant), maxLines = 1)
+                      }
                     }
                   }
                 }

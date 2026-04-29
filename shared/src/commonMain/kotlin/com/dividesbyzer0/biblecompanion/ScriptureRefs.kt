@@ -171,7 +171,14 @@ object ScriptureRefs {
     val keys: MutableSet<String>
   )
 
-  @kotlin.concurrent.Volatile private var books: List<BookEntry> = emptyList()
+  // Backed by a Compose mutableStateOf so that when primeBooks finishes after
+  // the home screen has already composed (e.g. VOTD card), readers recompose
+  // and scripture refs become tappable. Previously stored as @Volatile var,
+  // which Compose can't observe; you had to navigate away/back to see refs work.
+  private val booksState = mutableStateOf<List<BookEntry>>(emptyList())
+  private var books: List<BookEntry>
+    get() = booksState.value
+    set(value) { booksState.value = value }
   @kotlin.concurrent.Volatile private var lastLang: String? = null
 
   fun primeBooks(ctx: PlatformContext, appLanguage: String) {

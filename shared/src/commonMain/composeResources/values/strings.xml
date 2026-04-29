@@ -186,6 +186,7 @@
     <string name="cd_tts_stop">Stop</string>
     <string name="cd_tts_resume">Resume</string>
     <string name="search_no_results">No matches for “%1$s”</string>
+    <string name="search_searching">Searching…</string>
     <string name="snack_undo">Undo</string>
     <string name="snack_highlight_cleared">Highlight cleared</string>
     <string name="snack_verse_removed">Saved verse removed</string>
