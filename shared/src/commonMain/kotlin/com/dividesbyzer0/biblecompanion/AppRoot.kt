@@ -1470,6 +1470,7 @@ fun BookScreen(
   }
 
   var showChapters by remember { mutableStateOf(false) }
+  var selectedChapter by remember { mutableStateOf<Int?>(null) }
 
   Scaffold(
     snackbarHost = { SnackbarHost(snackbarHostState) },
@@ -1506,7 +1507,10 @@ fun BookScreen(
             Row(
               Modifier
                 .clip(RoundedCornerShape(16.dp))
-                .clickable(enabled = canToggle) { showChapters = !showChapters }
+                .clickable(enabled = canToggle) {
+                  showChapters = !showChapters
+                  if (!showChapters) selectedChapter = null
+                }
                 .padding(horizontal = 12.dp, vertical = 6.dp)
                 .alpha(if (didPulse) 1f else pulse.value),
               verticalAlignment = Alignment.CenterVertically
@@ -1585,35 +1589,82 @@ fun BookScreen(
               val byChapter = (index ?: return@AnimatedVisibility).byChapter
               val maxChapter = byChapter.keys.maxOrNull() ?: 0
               val vScroll = rememberScrollState()
+              val selCh = selectedChapter
 
-              Box(
+              Column(
                 modifier = Modifier
                   .fillMaxWidth()
-                  .heightIn(min = 0.dp, max = 260.dp)
-                  .verticalScroll(vScroll)
-                  .padding(horizontal = 12.dp, vertical = 12.dp)
+                  .heightIn(min = 0.dp, max = 300.dp)
+                  .padding(horizontal = 12.dp, vertical = 8.dp)
               ) {
-                FlowRow(
-                  maxItemsInEachRow = 6,
-                  horizontalArrangement = Arrangement.spacedBy(8.dp),
-                  verticalArrangement = Arrangement.spacedBy(8.dp)
+                Row(
+                  verticalAlignment = Alignment.CenterVertically,
+                  modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp)
                 ) {
-                  if (maxChapter > 0) {
-                    for (c in 1..maxChapter) {
-                      ElevatedButton(
-                        onClick = {
-                          val exact = byChapter[c]
-                          val fallbackKey = if (exact == null) byChapter.keys.filter { it <= c }.maxOrNull() else null
-                          val storyId = exact ?: (fallbackKey?.let { byChapter[it] })
-                          storyId?.let { id ->
-                            showChapters = false
-                            storyIndex[id]?.let { idx -> scope.launch { listState.animateScrollToItem(idx) } }
-                          }
-                        },
-                        modifier = Modifier.size(48.dp),
-                        contentPadding = PaddingValues(0.dp),
-                        shape = RoundedCornerShape(8.dp)
-                      ) { Text("$c") }
+                  if (selCh != null) {
+                    IconButton(onClick = { selectedChapter = null }) {
+                      Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = null, modifier = Modifier.size(20.dp))
+                    }
+                  }
+                  Text(
+                    if (selCh != null) stringResource(Res.string.verses_label) else stringResource(Res.string.chapters_label),
+                    style = MaterialTheme.typography.labelLarge,
+                    color = MaterialTheme.colorScheme.primary
+                  )
+                }
+
+                Box(
+                  modifier = Modifier
+                    .fillMaxWidth()
+                    .weight(1f, fill = false)
+                    .verticalScroll(vScroll)
+                ) {
+                  FlowRow(
+                    maxItemsInEachRow = 6,
+                    horizontalArrangement = Arrangement.spacedBy(8.dp),
+                    verticalArrangement = Arrangement.spacedBy(8.dp)
+                  ) {
+                    if (selCh != null) {
+                      val exact = byChapter[selCh]
+                      val fallbackKey = if (exact == null) byChapter.keys.filter { it <= selCh }.maxOrNull() else null
+                      val chStoryId = exact ?: (fallbackKey?.let { byChapter[it] })
+                      val chStory = chStoryId?.let { sid -> book?.stories?.find { it.id == sid } }
+                      val verseNums = chStory?.summaryBullets?.mapNotNull { bullet ->
+                        verseRefPattern.find(bullet)?.let { m ->
+                          val ch = m.groupValues[1].toIntOrNull()
+                          val v = m.groupValues[2].toIntOrNull()
+                          if (ch == selCh && v != null) v else null
+                        }
+                      }?.distinct()?.sorted() ?: emptyList()
+                      for (v in verseNums) {
+                        ElevatedButton(
+                          onClick = {
+                            chStoryId?.let { sid ->
+                              if (sid !in expandedStoryIds) expandedStoryIds = expandedStoryIds + sid
+                              val bullets = findBulletsForVerseRange(chStory?.summaryBullets ?: emptyList(), v, v)
+                              if (bullets.isNotEmpty()) {
+                                goldFadeStoryId = sid
+                                goldFadeBulletIdxs = bullets
+                              }
+                              showChapters = false
+                              selectedChapter = null
+                              storyIndex[sid]?.let { idx -> scope.launch { listState.animateScrollToItem(idx) } }
+                            }
+                          },
+                          modifier = Modifier.size(48.dp),
+                          contentPadding = PaddingValues(0.dp),
+                          shape = RoundedCornerShape(8.dp)
+                        ) { Text("$v") }
+                      }
+                    } else if (maxChapter > 0) {
+                      for (c in 1..maxChapter) {
+                        ElevatedButton(
+                          onClick = { selectedChapter = c },
+                          modifier = Modifier.size(48.dp),
+                          contentPadding = PaddingValues(0.dp),
+                          shape = RoundedCornerShape(8.dp)
+                        ) { Text("$c") }
+                      }
                     }
                   }
                 }

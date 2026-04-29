@@ -285,4 +285,6 @@
     <string name="widget_grid_description">Calendario mensual con fechas de fiestas bíblicas</string>
     <string name="dc_read_in_app">Leer en la app</string>
     <string name="dc_unavailable_body">No disponible en Bible.com ni BibleGateway en este idioma. Léelo en la app, o cambia el idioma de la aplicación.</string>
+    <string name="chapters_label">Capítulos</string>
+    <string name="verses_label">Versículos</string>
 </resources>

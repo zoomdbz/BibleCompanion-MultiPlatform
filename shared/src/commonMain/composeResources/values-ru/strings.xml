@@ -285,4 +285,6 @@
     <string name="widget_grid_description">Месячный календарь с датами библейских праздников</string>
     <string name="dc_read_in_app">Читать в приложении</string>
     <string name="dc_unavailable_body">Недоступно на Bible.com и BibleGateway на этом языке. Читайте в приложении или измените язык приложения.</string>
+    <string name="chapters_label">Главы</string>
+    <string name="verses_label">Стихи</string>
 </resources>

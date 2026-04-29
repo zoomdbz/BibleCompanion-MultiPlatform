@@ -285,4 +285,6 @@
     <string name="widget_grid_description">聖書の祭りの日付を示す月間カレンダー</string>
     <string name="dc_read_in_app">アプリ内で読む</string>
     <string name="dc_unavailable_body">この言語ではBible.comまたはBibleGatewayでは利用できません。アプリ内で読むか、アプリの言語を切り替えてください。</string>
+    <string name="chapters_label">章</string>
+    <string name="verses_label">節</string>
 </resources>

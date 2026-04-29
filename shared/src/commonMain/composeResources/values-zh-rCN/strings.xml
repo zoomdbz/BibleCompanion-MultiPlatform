@@ -285,4 +285,6 @@
     <string name="widget_grid_description">附有圣经节期日期的月历</string>
     <string name="dc_read_in_app">在应用中阅读</string>
     <string name="dc_unavailable_body">此语言在Bible.com或BibleGateway上不可用。请在应用内阅读，或切换应用语言。</string>
+    <string name="chapters_label">章</string>
+    <string name="verses_label">节</string>
 </resources>

@@ -285,4 +285,6 @@
     <string name="widget_grid_description">성경 절기가 표시된 월간 달력</string>
     <string name="dc_read_in_app">앱에서 읽기</string>
     <string name="dc_unavailable_body">이 언어로는 Bible.com이나 BibleGateway에서 이용할 수 없습니다. 앱에서 읽거나 앱 언어를 변경하세요.</string>
+    <string name="chapters_label">장</string>
+    <string name="verses_label">절</string>
 </resources>

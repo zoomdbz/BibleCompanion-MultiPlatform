@@ -285,4 +285,6 @@
     <string name="widget_grid_description">تقويم شهري يعرض تواريخ أعياد الكتاب المقدس</string>
     <string name="dc_read_in_app">قراءة في التطبيق</string>
     <string name="dc_unavailable_body">غير متوفر على Bible.com أو BibleGateway بهذه اللغة. اقرأه في التطبيق، أو غيّر لغة التطبيق.</string>
+    <string name="chapters_label">الفصول</string>
+    <string name="verses_label">الآيات</string>
 </resources>
