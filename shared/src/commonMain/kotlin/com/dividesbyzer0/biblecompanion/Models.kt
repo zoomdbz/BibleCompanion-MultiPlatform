@@ -81,7 +81,9 @@ data class SearchHit(
   val bookId: String,
   val storyId: String,
   val score: Int = 0,
-  val type: SearchHitType = SearchHitType.STORY
+  val type: SearchHitType = SearchHitType.STORY,
+  val verse: Int? = null,
+  val verseEnd: Int? = null
 )
 
 // Bookmarks & saved verses

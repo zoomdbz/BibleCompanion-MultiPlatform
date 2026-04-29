@@ -255,8 +255,8 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             prefs = prefs,
             repo = repo,
             onOpen = { col -> nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
-            onOpenBook = { col, bookId, storyId ->
-              nav.navigate(Dest.BookView.route(col, bookId, storyId)) { launchSingleTop = true }
+            onOpenBook = { col, bookId, storyId, verse, verseEnd ->
+              nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd)) { launchSingleTop = true }
             },
             onNavigateRoute = { route -> nav.navigate(route) { launchSingleTop = true } },
             onSettings = { nav.navigate(Dest.Settings.route) { launchSingleTop = true } },
@@ -547,7 +547,7 @@ fun HomeScreen(
   prefs: PrefsState,
   repo: PrefsRepo,
   onOpen: (String) -> Unit,
-  onOpenBook: (String, String, String?) -> Unit,
+  onOpenBook: (String, String, String?, Int?, Int?) -> Unit,
   onNavigateRoute: (String) -> Unit,
   onSettings: () -> Unit,
   onGenealogy: () -> Unit,
@@ -651,7 +651,7 @@ fun HomeScreen(
                     headlineContent = { Text(hit.title, fontWeight = FontWeight.Medium) },
                     supportingContent = { Text(hit.snippet) },
                     modifier = Modifier.clickable(enabled = !navBusy) {
-                      safeNav { onOpenBook(hit.collection, hit.bookId, null) }
+                      safeNav { onOpenBook(hit.collection, hit.bookId, null, null, null) }
                       showSheet = false
                     }
                   )
@@ -665,7 +665,7 @@ fun HomeScreen(
                     headlineContent = { Text(hit.title, fontWeight = FontWeight.Medium) },
                     supportingContent = { Text(highlightSearchSnippet(hit.snippet, query)) },
                     modifier = Modifier.clickable(enabled = !navBusy) {
-                      safeNav { onOpenBook(hit.collection, hit.bookId, hit.storyId) }
+                      safeNav { onOpenBook(hit.collection, hit.bookId, hit.storyId, hit.verse, hit.verseEnd) }
                       showSheet = false
                     }
                   )
@@ -818,7 +818,7 @@ fun HomeScreen(
           ElevatedCard(
             onClick = {
               if (!navBusy) safeNav {
-                onOpenBook(lastCol, lastBook, prefs.lastReadStoryId)
+                onOpenBook(lastCol, lastBook, prefs.lastReadStoryId, null, null)
               }
             },
             modifier = Modifier.fillMaxWidth(),
