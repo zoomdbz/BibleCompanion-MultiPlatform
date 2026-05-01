@@ -30,7 +30,7 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.windowInsetsPadding
-import androidx.compose.foundation.gestures.animateScrollBy
+import androidx.compose.foundation.gestures.scrollBy
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.foundation.gestures.waitForUpOrCancellation
@@ -1713,7 +1713,7 @@ fun BookScreen(
                               }
                               showChapters = false
                               selectedChapter = null
-                              storyIndex[sid]?.let { idx -> scope.launch { listState.animateScrollToItem(idx, approxOffset) } }
+                              storyIndex[sid]?.let { idx -> scope.launch { listState.scrollToItem(idx, approxOffset) } }
                             }
                           },
                           modifier = Modifier.size(48.dp),
@@ -2378,9 +2378,9 @@ fun StoryCard(
                     LaunchedEffect(isGoldTarget, isScrollAnchor) {
                       if (isGoldTarget) {
                         if (isScrollAnchor && listState != null) {
-                          // Let expand animation + lazy composition settle so the
-                          // bullet's on-screen position is final before we scroll.
-                          delay(220)
+                          // Wait for expand animation + lazy composition so the bullet's
+                          // on-screen position is final, then teleport (no animation) to it.
+                          delay(160)
                           val vp = vpHeightState.value
                           val top = vpTopState.value
                           val by0 = bulletRootY
@@ -2389,12 +2389,12 @@ fun StoryCard(
                             val targetInVp = vp * 0.22f
                             val delta = bulletInVp - targetInVp
                             if (kotlin.math.abs(delta) > 2f) {
-                              runCatching { listState.animateScrollBy(delta) }
+                              runCatching { listState.scrollBy(delta) }
                             }
                           }
                         }
-                        // Brief beat after scroll settles so the user's eye lands on the row.
-                        delay(120)
+                        // Brief beat so the user's eye lands on the row before the fade plays.
+                        delay(80)
                         goldAlpha.snapTo(1f)
                         goldAlpha.animateTo(
                           0f,
