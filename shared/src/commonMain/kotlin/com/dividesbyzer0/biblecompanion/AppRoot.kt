@@ -2972,16 +2972,27 @@ fun SavedItemsScreen(
             }
           } else {
             // Sort: sortOrder=0 items first by timestamp desc; user-ordered items (sortOrder>0) by sortOrder asc.
+            // The SnapshotStateList must be created INSIDE remember so it persists across recompositions;
+            // creating it outside causes drags to snap back because mutations land on a list that gets
+            // discarded on the next recomposition.
             val displayVerses = remember(savedVerses) {
               savedVerses.sortedWith(compareBy<SavedVerse> { it.sortOrder }.thenByDescending { it.timestamp })
-            }.toMutableStateList()
+                .toMutableStateList()
+            }
+            // Reorder lambda captures displayVerses at creation time. When savedVerses updates after a
+            // persist, displayVerses gets a new instance — keep the lambda pointing at the live one.
+            val displayVersesRef = rememberUpdatedState(displayVerses)
+            var needsPersist by remember { mutableStateOf(false) }
             val lazyListState = rememberLazyListState()
             val reorderState = rememberReorderableLazyListState(lazyListState) { from, to ->
-              val moved = displayVerses.removeAt(from.index)
-              displayVerses.add(to.index, moved)
+              val list = displayVersesRef.value
+              val moved = list.removeAt(from.index)
+              list.add(to.index, moved)
+              needsPersist = true
             }
             LaunchedEffect(reorderState.isAnyItemDragging) {
-              if (!reorderState.isAnyItemDragging && displayVerses.isNotEmpty()) {
+              if (!reorderState.isAnyItemDragging && needsPersist) {
+                needsPersist = false
                 val reordered = displayVerses.mapIndexed { idx, sv -> sv.copy(sortOrder = idx + 1) }
                 repo.reorderSavedVerses(reordered)
               }
