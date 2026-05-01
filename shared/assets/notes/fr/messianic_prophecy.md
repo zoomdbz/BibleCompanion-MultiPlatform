@@ -58,12 +58,12 @@ Les Écritures Hébraïques contiennent plus de 300 prophéties pointant vers le
 ## Le Serviteur Souffrant : Ésaïe 53
 
 Ésaïe 53 est la prophétie messianique la plus détaillée. Écrite environ 700 ans avant la crucifixion, elle décrit :
-- Un homme méprisé et rejeté (53:3) → Jean 1:10–11
-- Portant nos douleurs et nos souffrances (53:4) → Matthieu 8:17
-- Blessé pour nos transgressions (53:5) → Romains 4:25
-- Comme un agneau mené à l'abattoir, en silence (53:7) → Actes 8:32–35
-- Sa sépulture avec les méchants, son tombeau avec le riche (53:9) → Matthieu 27:38, 57–60
-- Il verra sa postérité et prolongera ses jours (53:10) → Résurrection
+- Un homme méprisé et rejeté (Ésaïe 53:3) → Jean 1:10–11
+- Portant nos douleurs et nos souffrances (Ésaïe 53:4) → Matthieu 8:17
+- Blessé pour nos transgressions (Ésaïe 53:5) → Romains 4:25
+- Comme un agneau mené à l'abattoir, en silence (Ésaïe 53:7) → Actes 8:32–35
+- Sa sépulture avec les méchants, son tombeau avec le riche (Ésaïe 53:9) → Matthieu 27:38, 57–60
+- Il verra sa postérité et prolongera ses jours (Ésaïe 53:10) → Résurrection
 
 ---
 

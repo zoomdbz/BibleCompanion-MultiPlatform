@@ -29,9 +29,10 @@ Not every tetrad aligns with Jewish feasts; but those that do have coincided wit
 
 Solar eclipses in Jewish tradition are considered signs to the nations (Sukkah 29a). Several notable eclipses coincide with significant dates:
 
-- **March 20, 2015:** Total solar eclipse on Nisan 1 (biblical new year), midway through the 2014–2015 blood moon tetrad
-- **August 21, 2017:** "Great American Eclipse," the first total solar eclipse visible coast-to-coast in the US in 99 years
-- **April 8, 2024:** Second Great American Eclipse; the two paths form an X over the United States
+- **March 20, 2015:** Total solar eclipse on **Nisan 1** (the biblical new year for months, Exodus 12:2), midway through the 2014–2015 blood moon tetrad
+- **September 13, 2015:** Partial solar eclipse on **1 Tishrei 5776 — Rosh Hashanah**. Together with the March 20 eclipse, these two solar eclipses fell on the first days of the two most significant months in the Hebrew calendar (Nisan and Tishrei), bracketing the 2014–2015 blood moon tetrad within a single year. Prophecy teachers Mark Biltz and John Hagee treat all six events (four blood moons + two solar eclipses) as one cluster.
+- **August 21, 2017:** "Great American Eclipse" — first total solar eclipse visible coast-to-coast in the US in 99 years. Hebrew date: **29 Av 5777**, the final day of the month of Av and the eve of Elul 1. Elul is the 40-day season of repentance leading to Rosh Hashanah; many Messianic teachers noted the timing.
+- **April 8, 2024:** Second Great American Eclipse; the two paths (2017 and 2024) form an X over the United States
 
 ---
 
@@ -61,9 +62,35 @@ Amos 8:9: "On that day, declares the Lord GOD, I will make the sun go down at no
 
 "A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars" (Revelation 12:1).
 
-On **September 23, 2017**, the constellation Virgo was "clothed" by the sun with the moon at her feet. Above her head, the nine stars of Leo plus the planets Mercury, Venus, and Mars formed a crown of twelve. Jupiter had been in Virgo's midsection for approximately nine months due to its retrograde motion before "exiting," often described as a birth metaphor.
+On **September 23, 2017**, the constellation Virgo was "clothed" by the sun with the moon at her feet. Above her head, the nine stars of Leo plus the planets Mercury, Venus, and Mars formed a crown of twelve. Jupiter had been in Virgo's midsection for approximately 42 weeks — the duration of human gestation — due to retrograde motion before "exiting" on September 9, 2017. Jupiter is historically called the "king planet." The 42-week period precisely mirrors the "42 months" of Revelation 13:5 and Revelation 12:6 (1,260 days). Jupiter entered Virgo's womb region on November 20, 2016.
 
-This exact configuration occurs very rarely. Whether it fulfills Revelation 12 is a matter of interpretation, but the astronomical alignment is factual and verifiable.
+The Hebrew date was **3 Tishrei 5778**, the Fast of Gedaliah — the day after Rosh Hashanah.
+
+This exact full configuration (sun, moon, 12-object crown, and Jupiter's exit after 42 weeks) is astronomically unique in recorded history when all parameters are held together. Whether it fulfills Revelation 12:1–2 is a matter of interpretation, but the astronomical alignment is factual and verifiable using software such as Stellarium.
+
+---
+
+## Other Notable Celestial Signs
+
+### The Eclipse Comet of 1948 (C/1948 V1)
+
+On **November 1, 1948** — approximately 1 Kislev 5709 — a brilliant comet was discovered during a total solar eclipse. It reached naked-eye visibility with a tail spanning up to 30 degrees of sky and remained visible through December 1948. This was the same year Israel became a nation (May 14, 1948 = 5 Iyyar 5708) after nearly 2,000 years of exile. The coincidence of a naked-eye comet appearing within Israel's first year of modern statehood has not been lost on students of Ezekiel 37 and Isaiah 11.
+
+### The Great Conjunction of December 21, 2020
+
+On the winter solstice, **December 21, 2020** (6 Tevet 5781), Jupiter and Saturn appeared only 0.1 degrees apart — the closest visible separation since 1623. Major media called it the "Christmas Star" because of its resemblance to descriptions of the Star of Bethlehem. The conjunction appeared in the western sky shortly after sunset, in the direction of Bethlehem as seen from Jerusalem. The Hebrew date falls in Tevet, a month with no feast days, but the visual and symbolic resonance with the Bethlehem star event led many Messianic believers to note it. The two planets will not be this close again until 2080.
+
+### Comet NEOWISE (2020)
+
+**Comet C/2020 F3 (NEOWISE)** reached perihelion on July 3, 2020 (~11 Tammuz 5780) and closest Earth approach on July 23, 2020 (~2 Av 5780). It was the brightest comet visible to the naked eye from the Northern Hemisphere since Comet Hale-Bopp in 1997. Its estimated orbital period is approximately 4,500 years — leading some to suggest its last appearance was in the era of Abraham or before. The month of Av on the Hebrew calendar is a month of mourning and fasting (Tisha B'Av falls on 9 Av); the comet peaked during this period. Its prophetic significance is debated within the Messianic community.
+
+### 2026: Planetary Signs
+
+The spring and summer of 2026 bring additional alignments:
+
+- **June 9, 2026:** Jupiter-Venus conjunction in the evening sky. Jupiter-Venus conjunctions are the class of event most commonly proposed as candidates for the Star of Bethlehem.
+- **June 12, 2026:** Mercury, Venus, and Jupiter visible in alignment in the evening sky.
+- **February 20, 2026:** Saturn-Neptune conjunction at 0° Aries — the zodiacal "reset point." This conjunction occurs every 36 years; the exact alignment at the beginning of Aries is rare.
 
 ---
 
@@ -77,3 +104,34 @@ The Hebrew word *moadim* connects the celestial bodies directly to God's appoint
 - The spring equinox determines the start of the biblical year
 
 The heavens are not worshiped (Deuteronomy 4:19), but they are read; they declare the glory of God (Psalm 19:1) and mark His appointed times.
+
+---
+
+## 2024–2026: A Cluster of Celestial Signs
+
+An unusual concentration of eclipses aligning with Hebrew feast days occurred across 2024–2026. The dates below are verified by NASA's eclipse catalog and the Hebcal Hebrew calendar.
+
+### Blood Moons on Purim
+
+Total lunar eclipses (blood moons) fell on **Purim** — the 14th of Adar — in two consecutive years:
+
+- **March 14, 2025:** Total lunar eclipse (~65 minutes of totality) — 14 Adar 5785, **Purim**
+- **March 3, 2026:** Total lunar eclipse (~58 minutes of totality) — 14 Adar 5786, **Purim**
+
+Back-to-back blood moons on the same feast in consecutive years has no modern precedent. Purim is not a Leviticus 23 feast, but it commemorates Israel's deliverance from genocide (Esther 9:20–22). The book of Esther never names God — yet His hand is visible throughout.
+
+### Solar Eclipses
+
+- **April 8, 2024:** Total solar eclipse crossing North America. Hebrew date: 29 Adar II — the final day before Nisan 1 (the biblical new year) began at sundown.
+- **October 2, 2024:** Annular ("ring of fire") solar eclipse on **1 Tishrei 5785 — Rosh Hashanah, the Feast of Trumpets (Yom Teruah)**.
+- **August 12, 2026:** Total solar eclipse (path across Iberian Peninsula and North Africa). Hebrew date: 29 Av — no feast alignment.
+
+### Solar Storms Before the 2026 Purim Blood Moon
+
+On **February 1–5, 2026**, active region AR4366 — a sunspot group 14 times wider than Earth — erupted with six X-class solar flares in four days, including two X8.1-class events among the strongest of Solar Cycle 25. A coronal mass ejection struck Earth on February 5, triggering geomagnetic storms and widespread aurora. This occurred approximately 25 days before the March 3 Purim blood moon.
+
+### Note
+
+This period does not produce a tetrad (four consecutive total lunar eclipses on Passover and Sukkot — the last was 2014–2015). What 2024–2026 presents is a distinct pattern: a solar eclipse on Rosh Hashanah, two consecutive Purim blood moons, and an extraordinary solar storm preceding the second one.
+
+Luke 21:25 — *"There will be signs in sun and moon and stars."* These alignments are documented fact. Their ultimate meaning belongs to God alone.

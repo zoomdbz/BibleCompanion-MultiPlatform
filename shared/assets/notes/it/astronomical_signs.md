@@ -24,15 +24,13 @@ Una tetrade è composta da quattro eclissi lunari totali consecutive, ciascuna s
 Non tutte le tetradi si allineano con le feste ebraiche, ma quelle che lo fanno hanno coinciso con eventi importanti nella storia ebraica. Lo schema è notevole anche se si è cauti nel non voler leggere troppo in esso.
 
 ---
-
 ## Eclissi solari
 
 Le eclissi solari nella tradizione ebraica sono considerate segni per le nazioni (Sukkah 29a). Diverse eclissi notevoli coincidono con date significative:
-
-- **20 marzo 2015**: Eclissi solare totale il Nisan 1 (capodanno biblico), a metà della tetrade di lune di sangue 2014–2015
-- **21 agosto 2017**: "Grande Eclissi Americana," la prima eclissi solare totale visibile da costa a costa negli USA in 99 anni
-- **8 aprile 2024**: Seconda Grande Eclissi Americana; i due percorsi formano una X sugli Stati Uniti
-
+- **20 marzo 2015:** Eclissi totale di sole il **1 Nisan** (il nuovo anno biblico per i mesi, Esodo 12:2), a metà della tetrade di luna di sangue 2014–2015
+- **13 settembre 2015:** Eclissi parziale di sole il **1 Tishrei 5776 — Rosh Hashanah**. Insieme all'eclissi del 20 marzo, questi due eclissi solari caddero nei primi giorni dei due mesi più significativi del calendario ebraico (Nisan e Tishrei), racchiudendo la tetrade di luna di sangue 2014–2015 entro un unico anno. Gli insegnanti di profezia Mark Biltz e John Hagee trattano tutti e sei gli eventi (quattro lune di sangue + due eclissi solari) come un unico gruppo.
+- **21 agosto 2017:** "Grande Eclissi Americana" — primo eclissi totale di sole visibile da costa a costa negli USA in 99 anni. Data ebraica: **29 Av 5777**, l'ultimo giorno del mese di Av e la vigilia del 1 Elul. Elul è la stagione di 40 giorni di penitenza che conduce a Rosh Hashanah; molti insegnanti messianici hanno notato la tempistica.
+- **8 aprile 2024:** Secondo Grande Eclissi Americana; i due percorsi (2017 e 2024) formano una X sul territorio degli Stati Uniti
 ---
 
 ## La Stella di Betlemme
@@ -61,12 +59,40 @@ Amos 8:9: "In quel giorno, dice il Signore, DIO, farò tramontare il sole a mezz
 
 "Un gran segno apparve nel cielo: una donna rivestita del sole, con la luna sotto i piedi e sul capo una corona di dodici stelle" (Apocalisse 12:1).
 
-Il **23 settembre 2017**, la costellazione della Vergine era "rivestita" dal sole con la luna ai suoi piedi. Sopra la sua testa, le nove stelle del Leone più i pianeti Mercurio, Venere e Marte formavano una corona di dodici. Giove era rimasto nella zona centrale della Vergine per circa nove mesi a causa del suo moto retrogrado prima di "uscire", spesso descritto come una metafora della nascita.
 
-Questa esatta configurazione si verifica molto raramente. Se adempia Apocalisse 12 è una questione di interpretazione, ma l'allineamento astronomico è fattuale e verificabile.
+CORPO APOCALISSE 12:
+Su **23 settembre 2017**, la costellazione della Vergine era "rivestita" dal sole con la luna ai suoi piedi. Sopra la sua testa, le nove stelle di Leone più i pianeti Mercurio, Venere e Marte formavano una corona di dodici. Giove era stato nel mezzo della Vergine per circa 42 settimane — la durata della gestazione umana — a causa del moto retrogrado prima di "uscire" il 9 settembre 2017. Giove è storicamente chiamato il "pianeta re". Il periodo di 42 settimane specchia precisamente i "42 mesi" di Apocalisse 13:5 e Apocalisse 12:6 (1.260 giorni). Giove è entrato nella regione del grembo della Vergine il 20 novembre 2016.
+
+La data ebraica era **3 Tishrei 5778**, il Digiuno di Ghedalia — il giorno dopo Rosh Hashanah.
+
+Questa esatta configurazione completa (sole, luna, corona di 12 oggetti, e l'uscita di Giove dopo 42 settimane) è astronomicamente unica nella storia registrata quando tutti i parametri sono considerati insieme. Che essa adempia Apocalisse 12:1–2 è una questione di interpretazione, ma l'allineamento astronomico è fattuale e verificabile usando software come Stellarium.
 
 ---
 
+
+---
+
+## Altre Notevoli Apparizioni Celesti
+
+### La Cometa dell'Eclissi del 1948 (C/1948 V1)
+
+Il **1º novembre 1948** — approssimativamente 1 Kislev 5709 — una cometa brillante fu scoperta durante un'eclissi solare totale. Raggiunse la visibilità a occhio nudo con una coda che si estendeva fino a 30 gradi di cielo e rimase visibile fino a dicembre 1948. Questo era lo stesso anno in cui Israele divenne una nazione (14 maggio 1948 = 5 Iyyar 5708) dopo quasi 2.000 anni di esilio. La coincidenza di una cometa visibile a occhio nudo che appariva nel primo anno della statualità moderna di Israele non è sfuggita agli studenti di Ezechiele 37 e Isaia 11.
+
+### La Grande Congiunzione del 21 dicembre 2020
+
+Nel solstizio d'inverno, **21 dicembre 2020** (6 Tevet 5781), Giove e Saturno apparvero a solo 0,1 gradi di distanza — la separazione visibile più stretta dal 1623. I principali media l'hanno chiamata la "Stella di Natale" per la sua somiglianza con le descrizioni della Stella di Betlemme. La congiunzione apparve nel cielo occidentale poco dopo il tramonto, nella direzione di Betlemme come vista da Gerusalemme. La data ebraica cade in Tevet, un mese senza giorni festivi, ma la risonanza visiva e simbolica con l'evento della stella di Betlemme ha portato molti credenti messianici a notarla. I due pianeti non saranno di nuovo così vicini fino al 2080.
+
+### Cometa NEOWISE (2020)
+
+**La Cometa C/2020 F3 (NEOWISE)** raggiunse il perielio il 3 luglio 2020 (~11 Tammuz 5780) e il punto di massimo avvicinamento alla Terra il 23 luglio 2020 (~2 Av 5780). Fu la cometa più brillante visibile a occhio nudo dall'Emisfero Boreale dal Cometa Hale-Bopp nel 1997. Il suo periodo orbitale stimato è di circa 4.500 anni — portando alcuni a suggerire che la sua ultima apparizione risalga all'era di Abramo o prima. Il mese di Av nel calendario ebraico è un mese di lutto e digiuno (Tisha B'Av cade il 9 Av); la cometa raggiunse il suo picco durante questo periodo. Il suo significato profetico è dibattuto all'interno della comunità messianica.
+
+### 2026: Segni Planetari
+
+La primavera e l'estate del 2026 portano ulteriori allineamenti:
+
+- **9 giugno 2026:** Congiunzione Giove-Venere nel cielo serale. Le congiunzioni Giove-Venere sono la classe di evento più comunemente proposta come candidati per la Stella di Betlemme.
+- **12 giugno 2026:** Mercurio, Venere e Giove visibili in allineamento nel cielo serale.
+- **20 febbraio 2026:** Congiunzione Saturno-Nettuno a 0° Ariete — il "punto di reset" zodiacale. Questa congiunzione si verifica ogni 36 anni; l'allineamento esatto all'inizio dell'Ariete è raro.
 ## Genesi 1:14 e le feste
 
 La parola ebraica *moadim* collega direttamente i corpi celesti ai tempi stabiliti di Dio:
@@ -77,3 +103,34 @@ La parola ebraica *moadim* collega direttamente i corpi celesti ai tempi stabili
 - L'equinozio di primavera determina l'inizio dell'anno biblico
 
 I cieli non sono adorati (Deuteronomio 4:19), ma sono letti; dichiarano la gloria di Dio (Salmo 19:1) e segnano i Suoi tempi stabiliti.
+
+---
+
+## 2024–2026: Un Ammasso di Segni Celesti
+
+Un'insolita concentrazione di eclissi allineate con le festività ebraiche si è verificata nel 2024–2026. Le date seguenti sono verificate dal catalogo delle eclissi della NASA e dal calendario ebraico Hebcal.
+
+### Lune di Sangue a Purim
+
+Le eclissi lunari totali (lune di sangue) si sono verificate a **Purim** — il 14º di Adar — in due anni consecutivi:
+
+- **14 marzo 2025:** Eclissi lunare totale (~65 minuti di totalità) — 14 Adar 5785, **Purim**
+- **3 marzo 2026:** Eclissi lunare totale (~58 minuti di totalità) — 14 Adar 5786, **Purim**
+
+Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi non hanno precedenti moderni. Purim non è una festa di Leviticus 23, ma commemora la liberazione di Israele dal genocidio (Esther 9:20–22). Il libro di Esther non nomina mai Dio — eppure la Sua mano è visibile ovunque.
+
+### Eclissi Solari
+
+- **8 aprile 2024:** Eclissi solare totale che attraversa il Nord America. Data ebraica: 29 Adar II — l'ultimo giorno prima che Nisan 1 (il nuovo anno biblico) iniziasse al tramonto.
+- **2 ottobre 2024:** Eclissi solare anulare ("anello di fuoco") il **1 Tishrei 5785 — Rosh Hashanah, la Festa delle Trombe (Yom Teruah)**.
+- **12 agosto 2026:** Eclissi solare totale (percorso sulla Penisola Iberica e Nord Africa). Data ebraica: 29 Av — nessun allineamento con festività.
+
+### Tempeste Solari Prima della Luna di Sangue di Purim 2026
+
+Dal **1º al 5 febbraio 2026**, la regione attiva AR4366 — un gruppo di macchie solari 14 volte più largo della Terra — è esplosa con sei brillamenti solari di classe X in quattro giorni, inclusi due eventi di classe X8.1 tra i più forti del Ciclo Solare 25. Un'espulsione di massa coronale ha colpito la Terra il 5 febbraio, scatenando tempeste geomagnetiche e aurore diffuse. Ciò si è verificato circa 25 giorni prima della luna di sangue di Purim del 3 marzo.
+
+### Nota
+
+Questo periodo non produce una tetrade (quattro eclissi lunari totali consecutive a Passover e Sukkot — l'ultima è stata 2014–2015). Quello che 2024–2026 presenta è uno schema distinto: un'eclissi solare a Rosh Hashanah, due lune di sangue consecutive a Purim, e una tempesta solare straordinaria che precede la seconda.
+
+Luke 21:25 — *"Ci saranno segni nel sole, nella luna e nelle stelle."* Questi allineamenti sono fatti documentati. Il loro significato ultimo appartiene solo a Dio.

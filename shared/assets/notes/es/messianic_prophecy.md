@@ -58,12 +58,12 @@ Las Escrituras Hebreas contienen más de 300 profecías que apuntan al Mesías. 
 ## El Siervo Sufriente: Isaías 53
 
 Isaías 53 es la profecía mesiánica más detallada. Escrita aproximadamente 700 años antes de la crucifixión, describe:
-- Un hombre despreciado y rechazado (53:3) → Juan 1:10–11
-- Llevando nuestros dolores y sufrimientos (53:4) → Mateo 8:17
-- Herido por nuestras transgresiones (53:5) → Romanos 4:25
-- Como cordero llevado al matadero, en silencio (53:7) → Hechos 8:32–35
-- Su sepultura con los impíos, su tumba con el rico (53:9) → Mateo 27:38, 57–60
-- Verá su descendencia y prolongará sus días (53:10) → Resurrección
+- Un hombre despreciado y rechazado (Isaías 53:3) → Juan 1:10–11
+- Llevando nuestros dolores y sufrimientos (Isaías 53:4) → Mateo 8:17
+- Herido por nuestras transgresiones (Isaías 53:5) → Romanos 4:25
+- Como cordero llevado al matadero, en silencio (Isaías 53:7) → Hechos 8:32–35
+- Su sepultura con los impíos, su tumba con el rico (Isaías 53:9) → Mateo 27:38, 57–60
+- Verá su descendencia y prolongará sus días (Isaías 53:10) → Resurrección
 
 ---
 

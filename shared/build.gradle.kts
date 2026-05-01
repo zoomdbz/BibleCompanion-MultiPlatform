@@ -40,6 +40,7 @@ kotlin {
       implementation("org.jetbrains.androidx.navigation:navigation-compose:2.8.0-alpha10")
       implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
       implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
+      implementation("sh.calvin.reorderable:reorderable:2.4.0")
     }
 
     androidMain.dependencies {

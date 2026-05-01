@@ -269,6 +269,12 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         }
     }
 
+    actual suspend fun reorderSavedVerses(verses: List<SavedVerse>) {
+        context.dataStore.edit { p ->
+            p[Keys.SAVED_VERSES_JSON] = json.encodeToString(verses)
+        }
+    }
+
     actual val labelsFlow: Flow<List<Label>> = context.dataStore.data.map { p ->
         val raw = p[Keys.LABELS_JSON] ?: return@map emptyList()
         runCatching { json.decodeFromString<List<Label>>(raw) }.getOrDefault(emptyList())

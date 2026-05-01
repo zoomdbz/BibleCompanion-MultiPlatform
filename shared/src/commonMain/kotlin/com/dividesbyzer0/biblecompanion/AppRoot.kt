@@ -68,8 +68,11 @@ import androidx.compose.material.icons.filled.Stop
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Share
+import androidx.compose.material.icons.filled.DragHandle
 import androidx.compose.material.icons.filled.Star
 import androidx.compose.material.icons.outlined.BookmarkBorder
+import sh.calvin.reorderable.ReorderableItem
+import sh.calvin.reorderable.rememberReorderableLazyListState
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Button
 import androidx.compose.material3.Checkbox
@@ -113,6 +116,8 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.snapshots.SnapshotStateList
+import androidx.compose.runtime.toMutableStateList
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
@@ -2966,88 +2971,120 @@ fun SavedItemsScreen(
               }
             }
           } else {
+            // Sort: sortOrder=0 items first by timestamp desc; user-ordered items (sortOrder>0) by sortOrder asc.
+            val displayVerses = remember(savedVerses) {
+              savedVerses.sortedWith(compareBy<SavedVerse> { it.sortOrder }.thenByDescending { it.timestamp })
+            }.toMutableStateList()
+            val lazyListState = rememberLazyListState()
+            val reorderState = rememberReorderableLazyListState(lazyListState) { from, to ->
+              val moved = displayVerses.removeAt(from.index)
+              displayVerses.add(to.index, moved)
+            }
+            LaunchedEffect(reorderState.isAnyItemDragging) {
+              if (!reorderState.isAnyItemDragging && displayVerses.isNotEmpty()) {
+                val reordered = displayVerses.mapIndexed { idx, sv -> sv.copy(sortOrder = idx + 1) }
+                repo.reorderSavedVerses(reordered)
+              }
+            }
             LazyColumn(
+              state = lazyListState,
               contentPadding = PaddingValues(16.dp),
               verticalArrangement = Arrangement.spacedBy(8.dp)
             ) {
               items(
-                items = savedVerses.sortedByDescending { it.timestamp },
+                items = displayVerses,
                 key = { "${it.collection}/${it.bookId}/${it.storyId}/${it.bulletIndex}" }
               ) { sv ->
-                val hlColor = highlightBgColor(sv.highlightColor)
-                val verseLabels = labels.filter { it.id in sv.labels }
-                val barColor = when (sv.highlightColor) {
-                  "yellow" -> Color(0xFFFBC02D)
-                  "green" -> Color(0xFF66BB6A)
-                  "blue" -> Color(0xFF42A5F5)
-                  "pink" -> Color(0xFFEC407A)
-                  else -> MaterialTheme.colorScheme.primary
-                }
-                Card(
-                  modifier = Modifier.fillMaxWidth().clickable {
-                    onOpenBook(sv.collection, sv.bookId, sv.storyId)
+                ReorderableItem(reorderState, key = "${sv.collection}/${sv.bookId}/${sv.storyId}/${sv.bulletIndex}") { isDragging ->
+                  val hlColor = highlightBgColor(sv.highlightColor)
+                  val verseLabels = labels.filter { it.id in sv.labels }
+                  val barColor = when (sv.highlightColor) {
+                    "yellow" -> Color(0xFFFBC02D)
+                    "green" -> Color(0xFF66BB6A)
+                    "blue" -> Color(0xFF42A5F5)
+                    "pink" -> Color(0xFFEC407A)
+                    else -> MaterialTheme.colorScheme.primary
                   }
-                ) {
-                  Row(
-                    Modifier
-                      .background(hlColor)
-                      .height(IntrinsicSize.Min)
-                      .padding(end = 4.dp),
-                    verticalAlignment = Alignment.Top
+                  val elevation = if (isDragging) 8.dp else 0.dp
+                  Card(
+                    modifier = Modifier.fillMaxWidth().clickable {
+                      onOpenBook(sv.collection, sv.bookId, sv.storyId)
+                    },
+                    elevation = CardDefaults.cardElevation(defaultElevation = elevation)
                   ) {
-                    Box(
+                    Row(
                       Modifier
-                        .width(6.dp)
-                        .fillMaxHeight()
-                        .background(barColor)
-                    )
-                    Column(
-                      Modifier
-                        .weight(1f)
-                        .padding(start = 12.dp, top = 12.dp, bottom = 12.dp)
+                        .background(hlColor)
+                        .height(IntrinsicSize.Min)
+                        .padding(end = 4.dp),
+                      verticalAlignment = Alignment.Top
                     ) {
-                      ScriptureRefs.ClickableRefsText(
-                        text = sv.text,
-                        collection = sv.collection,
-                        prefs = prefs,
-                        defaultBook = sv.bookId,
-                        allowRelativeInParensOnly = true,
-                        textStyle = MaterialTheme.typography.bodyMedium,
-                        onNonLinkClick = { onOpenBook(sv.collection, sv.bookId, sv.storyId) }
+                      Box(
+                        Modifier
+                          .width(6.dp)
+                          .fillMaxHeight()
+                          .background(barColor)
                       )
-                      Spacer(Modifier.height(4.dp))
-                      Text(
-                        sv.ref,
-                        style = MaterialTheme.typography.bodySmall,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant
-                      )
-                      if (verseLabels.isNotEmpty()) {
-                        FlowRow(
-                          modifier = Modifier.padding(top = 6.dp),
-                          horizontalArrangement = Arrangement.spacedBy(4.dp),
-                          verticalArrangement = Arrangement.spacedBy(4.dp)
-                        ) {
-                          for (lbl in verseLabels) {
-                            Surface(
-                              shape = RoundedCornerShape(12.dp),
-                              color = labelColor(lbl.color).copy(alpha = 0.15f),
-                              border = BorderStroke(1.dp, labelColor(lbl.color).copy(alpha = 0.4f))
-                            ) {
-                              Text(
-                                lbl.name,
-                                modifier = Modifier.padding(horizontal = 8.dp, vertical = 2.dp),
-                                style = MaterialTheme.typography.labelSmall,
-                                color = labelColor(lbl.color)
-                              )
+                      Column(
+                        Modifier
+                          .weight(1f)
+                          .padding(start = 12.dp, top = 12.dp, bottom = 12.dp)
+                      ) {
+                        ScriptureRefs.ClickableRefsText(
+                          text = sv.text,
+                          collection = sv.collection,
+                          prefs = prefs,
+                          defaultBook = sv.bookId,
+                          allowRelativeInParensOnly = true,
+                          textStyle = MaterialTheme.typography.bodyMedium,
+                          onNonLinkClick = { onOpenBook(sv.collection, sv.bookId, sv.storyId) }
+                        )
+                        Spacer(Modifier.height(4.dp))
+                        Text(
+                          sv.ref,
+                          style = MaterialTheme.typography.bodySmall,
+                          color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
+                        if (verseLabels.isNotEmpty()) {
+                          FlowRow(
+                            modifier = Modifier.padding(top = 6.dp),
+                            horizontalArrangement = Arrangement.spacedBy(4.dp),
+                            verticalArrangement = Arrangement.spacedBy(4.dp)
+                          ) {
+                            for (lbl in verseLabels) {
+                              Surface(
+                                shape = RoundedCornerShape(12.dp),
+                                color = labelColor(lbl.color).copy(alpha = 0.15f),
+                                border = BorderStroke(1.dp, labelColor(lbl.color).copy(alpha = 0.4f))
+                              ) {
+                                Text(
+                                  lbl.name,
+                                  modifier = Modifier.padding(horizontal = 8.dp, vertical = 2.dp),
+                                  style = MaterialTheme.typography.labelSmall,
+                                  color = labelColor(lbl.color)
+                                )
+                              }
                             }
                           }
                         }
                       }
-                    }
-                    IconButton(onClick = {
-                      scope.launch { repo.removeSavedVerse(sv.collection, sv.bookId, sv.storyId, sv.bulletIndex) }
-                    }) {
-                      Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cd_remove_saved_verse), modifier = Modifier.size(18.dp), tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                      // Drag handle — visible on trailing edge; long-press or touch to drag
+                      IconButton(
+                        modifier = Modifier.draggableHandle(),
+                        onClick = {}
+                      ) {
+                        Icon(
+                          Icons.Filled.DragHandle,
+                          contentDescription = null,
+                          modifier = Modifier.size(18.dp),
+                          tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
+                        )
+                      }
+                      IconButton(onClick = {
+                        scope.launch { repo.removeSavedVerse(sv.collection, sv.bookId, sv.storyId, sv.bulletIndex) }
+                      }) {
+                        Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cd_remove_saved_verse), modifier = Modifier.size(18.dp), tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                      }
                     }
                   }
                 }
@@ -4182,17 +4219,19 @@ fun AboutScreen(onBack: () -> Unit) {
 
       Spacer(Modifier.height(16.dp))
 
-      // Rate button (hidden on iOS until App Store URL is available)
-      if (!isApplePlatform) {
-        OutlinedButton(
-          onClick = {
-            platformOpenUrl(ctx, "https://play.google.com/store/apps/details?id=com.dividesbyzer0.biblecompanion")
-          }
-        ) {
-          Icon(Icons.Filled.Star, contentDescription = null, modifier = Modifier.size(18.dp))
-          Spacer(Modifier.width(8.dp))
-          Text(stringResource(Res.string.rate_app))
+      // Rate button — Play Store on Android, App Store on iOS
+      OutlinedButton(
+        onClick = {
+          val url = if (isApplePlatform)
+            "https://apps.apple.com/us/app/bible-companion-offline/id6763134690"
+          else
+            "https://play.google.com/store/apps/details?id=com.dividesbyzer0.biblecompanion"
+          platformOpenUrl(ctx, url)
         }
+      ) {
+        Icon(Icons.Filled.Star, contentDescription = null, modifier = Modifier.size(18.dp))
+        Spacer(Modifier.width(8.dp))
+        Text(stringResource(Res.string.rate_app))
       }
 
       // Share app button

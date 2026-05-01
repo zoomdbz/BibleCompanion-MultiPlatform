@@ -108,7 +108,9 @@ data class SavedVerse(
   val ref: String,
   val highlightColor: String? = null,
   val labels: List<String> = emptyList(),
-  val timestamp: Long
+  val timestamp: Long,
+  // 0 = not manually ordered (sorts to top by timestamp); positive = explicit user position.
+  val sortOrder: Int = 0
 )
 
 @Serializable

@@ -58,12 +58,12 @@ Le Scritture ebraiche contengono oltre 300 profezie che indicano il Messia. Di s
 ## Il Servo Sofferente: Isaia 53
 
 Isaia 53 è la più dettagliata singola profezia messianica. Scritta circa 700 anni prima della crocifissione, descrive:
-- Un uomo disprezzato e rigettato (53:3) → Giovanni 1:10–11
-- Portando i nostri dolori e le nostre sofferenze (53:4) → Matteo 8:17
-- Ferito per le nostre trasgressioni (53:5) → Romani 4:25
-- Come un agnello condotto al macello, silenzioso (53:7) → Atti 8:32–35
-- La sua tomba con i malvagi, la sua sepoltura con il ricco (53:9) → Matteo 27:38, 57–60
-- Vedrà una discendenza e prolungherà i suoi giorni (53:10) → Risurrezione
+- Un uomo disprezzato e rigettato (Isaia 53:3) → Giovanni 1:10–11
+- Portando i nostri dolori e le nostre sofferenze (Isaia 53:4) → Matteo 8:17
+- Ferito per le nostre trasgressioni (Isaia 53:5) → Romani 4:25
+- Come un agnello condotto al macello, silenzioso (Isaia 53:7) → Atti 8:32–35
+- La sua tomba con i malvagi, la sua sepoltura con il ricco (Isaia 53:9) → Matteo 27:38, 57–60
+- Vedrà una discendenza e prolungherà i suoi giorni (Isaia 53:10) → Risurrezione
 
 ---
 

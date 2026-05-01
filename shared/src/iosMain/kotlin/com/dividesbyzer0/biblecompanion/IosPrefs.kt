@@ -276,6 +276,10 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         })
     }
 
+    actual suspend fun reorderSavedVerses(verses: List<SavedVerse>) {
+        persistSavedVerses(verses)
+    }
+
     @OptIn(ExperimentalForeignApi::class)
     actual suspend fun exportBackup(): String {
         val backup = AppBackup(

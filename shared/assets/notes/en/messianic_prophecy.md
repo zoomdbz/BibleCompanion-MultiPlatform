@@ -58,12 +58,12 @@ The Hebrew Scriptures contain over 300 prophecies pointing to the Messiah. Below
 ## The Suffering Servant: Isaiah 53
 
 Isaiah 53 is the single most detailed messianic prophecy. Written approximately 700 years before the crucifixion, it describes:
-- A man despised and rejected (53:3) → John 1:10–11
-- Bearing our griefs and sorrows (53:4) → Matthew 8:17
-- Wounded for our transgressions (53:5) → Romans 4:25
-- Like a lamb led to slaughter, silent (53:7) → Acts 8:32–35
-- His grave with the wicked, tomb with the rich (53:9) → Matthew 27:38, 57–60
-- He will see his offspring and prolong his days (53:10) → Resurrection
+- A man despised and rejected (Isaiah 53:3) → John 1:10–11
+- Bearing our griefs and sorrows (Isaiah 53:4) → Matthew 8:17
+- Wounded for our transgressions (Isaiah 53:5) → Romans 4:25
+- Like a lamb led to slaughter, silent (Isaiah 53:7) → Acts 8:32–35
+- His grave with the wicked, tomb with the rich (Isaiah 53:9) → Matthew 27:38, 57–60
+- He will see his offspring and prolong his days (Isaiah 53:10) → Resurrection
 
 ---
 

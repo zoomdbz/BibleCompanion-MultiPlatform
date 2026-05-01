@@ -58,12 +58,12 @@ Die hebräischen Schriften enthalten über 300 Prophezeiungen, die auf den Messi
 ## Der leidende Gottesknecht: Jesaja 53
 
 Jesaja 53 ist die detaillierteste einzelne messianische Prophezeiung. Etwa 700 Jahre vor der Kreuzigung geschrieben, beschreibt sie:
-- Einen Mann, verachtet und von den Menschen verworfen (53,3) → Johannes 1,10–11
-- Unsere Krankheiten und Schmerzen tragend (53,4) → Matthäus 8,17
-- Verwundet um unserer Übertretungen willen (53,5) → Römer 4,25
-- Wie ein Lamm zur Schlachtbank geführt, stumm (53,7) → Apostelgeschichte 8,32–35
-- Sein Grab bei den Gottlosen, sein Tod bei einem Reichen (53,9) → Matthäus 27,38.57–60
-- Er wird Nachkommen sehen und lange leben (53,10) → Auferstehung
+- Einen Mann, verachtet und von den Menschen verworfen (Jesaja 53,3) → Johannes 1,10–11
+- Unsere Krankheiten und Schmerzen tragend (Jesaja 53,4) → Matthäus 8,17
+- Verwundet um unserer Übertretungen willen (Jesaja 53,5) → Römer 4,25
+- Wie ein Lamm zur Schlachtbank geführt, stumm (Jesaja 53,7) → Apostelgeschichte 8,32–35
+- Sein Grab bei den Gottlosen, sein Tod bei einem Reichen (Jesaja 53,9) → Matthäus 27,38.57–60
+- Er wird Nachkommen sehen und lange leben (Jesaja 53,10) → Auferstehung
 
 ---
 
