@@ -2788,7 +2788,9 @@ private fun buildSelectedContent(book: Book, selected: Set<Pair<String, Int>>): 
       else -> sb.appendLine(story.title)
     }
     for (idx in indices) {
-      story.summaryBullets.getOrNull(idx)?.let { sb.appendLine(it) }
+      story.summaryBullets.getOrNull(idx)?.let {
+        sb.appendLine(it.replace("[J]", "").replace("[/J]", ""))
+      }
     }
   }
 
@@ -3274,7 +3276,7 @@ private fun buildStoryMarkdown(story: Story): String = buildString {
   }
   if (story.summaryBullets.isNotEmpty()) {
     appendLine()
-    story.summaryBullets.forEach { appendLine("- $it") }
+    story.summaryBullets.forEach { appendLine("- ${it.replace("[J]", "").replace("[/J]", "")}") }
   }
   if (story.keyTakeaway.isNotBlank()) {
     appendLine()
@@ -3294,7 +3296,7 @@ private val trailingVerseRefPattern = Regex(
 )
 
 private fun ttsCleanBullet(bullet: String): String {
-  val stripped = bullet.replace(trailingVerseRefPattern, "")
+  val stripped = bullet.replace("[J]", "").replace("[/J]", "").replace(trailingVerseRefPattern, "")
   val core = stripped.trimEnd(',', ';', ' ', '.', '—', '–', '-', '\t', ' ')
   return when {
     core.isEmpty() -> ""
