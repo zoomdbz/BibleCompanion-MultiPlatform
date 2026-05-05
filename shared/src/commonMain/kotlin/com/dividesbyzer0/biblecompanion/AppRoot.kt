@@ -278,6 +278,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             onGrace = { nav.navigate(Dest.Grace.route) { launchSingleTop = true } },
             onChristianSymbolism = { nav.navigate(Dest.ChristianSymbolism.route) { launchSingleTop = true } },
             onUnseenWar = { nav.navigate(Dest.UnseenWar.route) { launchSingleTop = true } },
+            onFalseDoctrine = { nav.navigate(Dest.FalseDoctrine.route) { launchSingleTop = true } },
             onCommonDistortions = { nav.navigate(Dest.CommonDistortions.route) { launchSingleTop = true } },
             onChristophanies = { nav.navigate(Dest.Christophanies.route) { launchSingleTop = true } },
             onTranslationNotes = { nav.navigate(Dest.TranslationNotes.route) { launchSingleTop = true } },
@@ -326,6 +327,9 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
         }
         composable(Dest.UnseenWar.route) {
           GenericNotesScreen(Res.string.unseen_war, "unseen_war.md", prefs, repo, collapsible = true) { navBack() }
+        }
+        composable(Dest.FalseDoctrine.route) {
+          GenericNotesScreen(Res.string.false_doctrine, "false_doctrine.md", prefs, repo, collapsible = true) { navBack() }
         }
         composable(Dest.CommonDistortions.route) {
           GenericNotesScreen(Res.string.common_distortions, "common_distortions.md", prefs, repo, collapsible = true) { navBack() }
@@ -568,6 +572,7 @@ fun HomeScreen(
   onGrace: () -> Unit,
   onChristianSymbolism: () -> Unit,
   onUnseenWar: () -> Unit,
+  onFalseDoctrine: () -> Unit,
   onCommonDistortions: () -> Unit,
   onChristophanies: () -> Unit,
   onTranslationNotes: () -> Unit,
@@ -1035,6 +1040,7 @@ fun HomeScreen(
                 StudyItem(stringResource(Res.string.feast_calendar), !navBusy) { safeNav { onFeastCalendar() } }
                 StudyItem(stringResource(Res.string.christian_symbolism), !navBusy) { safeNav { onChristianSymbolism() } }
                 StudyItem(stringResource(Res.string.unseen_war), !navBusy) { safeNav { onUnseenWar() } }
+                StudyItem(stringResource(Res.string.false_doctrine), !navBusy) { safeNav { onFalseDoctrine() } }
                 StudyItem(stringResource(Res.string.common_distortions), !navBusy) { safeNav { onCommonDistortions() } }
                 StudyItem(stringResource(Res.string.christophanies), !navBusy) { safeNav { onChristophanies() } }
                 StudyItem(stringResource(Res.string.translation_notes), !navBusy) { safeNav { onTranslationNotes() } }
@@ -4337,6 +4343,8 @@ private fun GenericNotesScreen(
     mutableStateOf(resolved)
   }
 
+  var innerExpandedHeaders by remember { mutableStateOf<Set<String>>(emptySet()) }
+
   // Persist expanded-section state by header name (stable across edits).
   fun persistExpandedSections(newExpanded: Set<Int>) {
     val headerNames = newExpanded
@@ -4458,8 +4466,56 @@ private fun GenericNotesScreen(
                   )
                 }
                 AnimatedVisibility(visible = isExpanded) {
-                  Column(Modifier.padding(top = 8.dp)) {
-                    RenderNotesMarkdown(body = sectionBody, prefs = prefs)
+                  val subSections = remember(sectionBody) { splitMarkdownSections(sectionBody, "### ") }
+                  val hasSubHeadings = subSections.any { it.first != null }
+                  if (hasSubHeadings) {
+                    Column(Modifier.padding(top = 8.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                      for (sub in subSections) {
+                        val (subHeader, subBody) = sub
+                        if (subHeader != null) {
+                          val subKey = "$header/$subHeader"
+                          val subExpanded = subKey in innerExpandedHeaders
+                          Card(
+                            modifier = Modifier.fillMaxWidth(),
+                            shape = RoundedCornerShape(8.dp),
+                            colors = CardDefaults.cardColors(
+                              containerColor = MaterialTheme.colorScheme.surface.copy(alpha = 0.7f)
+                            )
+                          ) {
+                            Column(Modifier.padding(10.dp)) {
+                              Row(
+                                Modifier.fillMaxWidth().clickable {
+                                  innerExpandedHeaders = if (subExpanded) innerExpandedHeaders - subKey else innerExpandedHeaders + subKey
+                                },
+                                verticalAlignment = Alignment.CenterVertically
+                              ) {
+                                Text(
+                                  mdInline(subHeader),
+                                  style = MaterialTheme.typography.titleSmall,
+                                  modifier = Modifier.weight(1f)
+                                )
+                                Icon(
+                                  if (subExpanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                                  contentDescription = null,
+                                  modifier = Modifier.size(20.dp)
+                                )
+                              }
+                              AnimatedVisibility(visible = subExpanded) {
+                                Column(Modifier.padding(top = 6.dp)) {
+                                  RenderNotesMarkdown(body = subBody, prefs = prefs)
+                                }
+                              }
+                            }
+                          }
+                        } else if (subBody.isNotBlank()) {
+                          RenderNotesMarkdown(body = subBody, prefs = prefs)
+                        }
+                      }
+                    }
+                  } else {
+                    Column(Modifier.padding(top = 8.dp)) {
+                      RenderNotesMarkdown(body = sectionBody, prefs = prefs)
+                    }
                   }
                 }
               }

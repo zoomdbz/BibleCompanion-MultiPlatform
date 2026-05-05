@@ -64,6 +64,7 @@ object StorySearch {
     "grace.md" to "grace",
     "christian_symbolism.md" to "christian_symbolism",
     "unseen_war.md" to "unseen_war",
+    "false_doctrine.md" to "false_doctrine",
     "common_distortions.md" to "common_distortions",
     "christophanies.md" to "christophanies",
     "faqs.md" to "faqs",
