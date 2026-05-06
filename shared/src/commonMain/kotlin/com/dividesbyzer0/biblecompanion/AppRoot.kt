@@ -1301,10 +1301,10 @@ fun BookScreen(
   val index = remember(book) { book?.let { ChapterLocator.build(it) } }
   val storyIndex = remember(book) { book?.stories?.mapIndexed { i, s -> s.id to i }?.toMap().orEmpty() }
 
-  val listState = rememberLazyListState()
+  val listState = remember(col, bookId) { LazyListState() }
 
   // Per-story section visibility overrides (ephemeral; resets on navigation)
-  val sectionOverrides = remember { mutableStateMapOf<String, Boolean>() }
+  val sectionOverrides = remember(col, bookId) { mutableStateMapOf<String, Boolean>() }
 
   val nextBook = remember(col, bookId, prefs.appLanguage) {
     val books = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage)
@@ -1313,7 +1313,7 @@ fun BookScreen(
   }
 
   // Verse selection state: Set of (storyId, bulletIndex)
-  var selectedBullets by remember { mutableStateOf(setOf<Pair<String, Int>>()) }
+  var selectedBullets by remember(col, bookId) { mutableStateOf(setOf<Pair<String, Int>>()) }
 
   val bookKey = "$col/$bookId"
   var expandedStoryIds by remember(book, prefs.collapsedStoriesJson) {
