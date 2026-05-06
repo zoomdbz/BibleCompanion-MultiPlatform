@@ -114,6 +114,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
+import androidx.compose.runtime.mutableStateMapOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.snapshots.SnapshotStateList
@@ -382,11 +383,12 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
           )
         }
         composable(
-          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}",
+          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}",
           arguments = listOf(
             navArgument("storyId") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("verse") { type = NavType.StringType; nullable = true; defaultValue = null },
-            navArgument("verseEnd") { type = NavType.StringType; nullable = true; defaultValue = null }
+            navArgument("verseEnd") { type = NavType.StringType; nullable = true; defaultValue = null },
+            navArgument("autoStartTts") { type = NavType.StringType; nullable = true; defaultValue = null }
           )
         ) { back ->
           val col = back.arguments?.getString("col") ?: return@composable
@@ -394,6 +396,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
           val storyIdArg = back.arguments?.getString("storyId")
           val verseArg = back.arguments?.getString("verse")?.toIntOrNull()
           val verseEndArg = back.arguments?.getString("verseEnd")?.toIntOrNull()
+          val autoStartTtsArg = back.arguments?.getString("autoStartTts") == "true"
           BookScreen(
             col = col,
             bookId = bookId,
@@ -401,7 +404,13 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             repo = repo,
             initialStoryId = storyIdArg,
             initialVerse = verseArg,
-            initialVerseEnd = verseEndArg
+            initialVerseEnd = verseEndArg,
+            autoStartTts = autoStartTtsArg,
+            onNavigateToBook = { nextCol, nextBookId, startTts ->
+              nav.navigate(Dest.BookView.route(nextCol, nextBookId, autoStartTts = startTts)) {
+                launchSingleTop = true
+              }
+            }
           ) { navBack() }
         }
       }
@@ -1276,6 +1285,8 @@ fun BookScreen(
   initialStoryId: String?,
   initialVerse: Int? = null,
   initialVerseEnd: Int? = null,
+  autoStartTts: Boolean = false,
+  onNavigateToBook: ((col: String, bookId: String, autoStartTts: Boolean) -> Unit)? = null,
   onBack: () -> Unit
 ) {
   val ctx = LocalPlatformContext.current
@@ -1291,6 +1302,15 @@ fun BookScreen(
   val storyIndex = remember(book) { book?.stories?.mapIndexed { i, s -> s.id to i }?.toMap().orEmpty() }
 
   val listState = rememberLazyListState()
+
+  // Per-story section visibility overrides (ephemeral; resets on navigation)
+  val sectionOverrides = remember { mutableStateMapOf<String, Boolean>() }
+
+  val nextBook = remember(col, bookId, prefs.appLanguage) {
+    val books = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage)
+    val idx = books.indexOfFirst { it.first == bookId }
+    if (idx >= 0 && idx + 1 < books.size) books[idx + 1] else null
+  }
 
   // Verse selection state: Set of (storyId, bulletIndex)
   var selectedBullets by remember { mutableStateOf(setOf<Pair<String, Int>>()) }
@@ -1340,8 +1360,14 @@ fun BookScreen(
     platformTtsInit(ctx)
     onDispose {
       platformTtsStop(ctx)
-      // Intentionally do not null onDone here — HomeScreen's VOTD TTS owns
-      // that callback across navigations.
+    }
+  }
+
+  LaunchedEffect(autoStartTts) {
+    if (autoStartTts && book != null && book.stories.isNotEmpty()) {
+      delay(400)
+      chapterTtsStoryId = book.stories.first().id
+      chapterTtsPlaying = true
     }
   }
 
@@ -1398,6 +1424,11 @@ fun BookScreen(
         if (nextIdx < stories.size) {
           chapterTtsStoryId = stories[nextIdx].id
           chapterTtsPaused = false
+        } else if (prefs.crossBookTts && nextBook != null && onNavigateToBook != null) {
+          chapterTtsPlaying = false
+          chapterTtsStoryId = null
+          chapterTtsPaused = false
+          onNavigateToBook(col, nextBook.first, true)
         } else {
           chapterTtsPlaying = false
           chapterTtsStoryId = null
@@ -1856,10 +1887,26 @@ fun BookScreen(
                   },
                   savedVerseColors = savedVerseMap[story.id] ?: emptyMap(),
                   goldFadeBulletIdxs = if (goldFadeStoryId == story.id) goldFadeBulletIdxs else emptySet(),
-                  onToggleKeyTakeaway = { scope.launch { repo.setShowKeyTakeaway(!prefs.showKeyTakeaway) } },
-                  onToggleCrossRefs = { scope.launch { repo.setShowCrossRefs(!prefs.showCrossRefs) } },
-                  onToggleManuscriptVariants = { scope.launch { repo.setShowManuscriptVariants(!prefs.showManuscriptVariants) } },
-                  onToggleTranslationNotes = { scope.launch { repo.setShowTranslationNotes(!prefs.showTranslationNotes) } },
+                  showKeyTakeaway = sectionOverrides["${story.id}:key_takeaway"] ?: prefs.expandNotesDefault,
+                  showCrossRefs = sectionOverrides["${story.id}:cross_refs"] ?: prefs.expandNotesDefault,
+                  showManuscriptVariants = sectionOverrides["${story.id}:manuscript_variants"] ?: prefs.expandNotesDefault,
+                  showTranslationNotes = sectionOverrides["${story.id}:translation_notes"] ?: prefs.expandNotesDefault,
+                  onToggleKeyTakeaway = {
+                    val k = "${story.id}:key_takeaway"
+                    sectionOverrides[k] = !(sectionOverrides[k] ?: prefs.expandNotesDefault)
+                  },
+                  onToggleCrossRefs = {
+                    val k = "${story.id}:cross_refs"
+                    sectionOverrides[k] = !(sectionOverrides[k] ?: prefs.expandNotesDefault)
+                  },
+                  onToggleManuscriptVariants = {
+                    val k = "${story.id}:manuscript_variants"
+                    sectionOverrides[k] = !(sectionOverrides[k] ?: prefs.expandNotesDefault)
+                  },
+                  onToggleTranslationNotes = {
+                    val k = "${story.id}:translation_notes"
+                    sectionOverrides[k] = !(sectionOverrides[k] ?: prefs.expandNotesDefault)
+                  },
                   onCopyBullet = { idx ->
                     doHaptic()
                     val content = buildSelectedContent(book, setOf(story.id to idx))
@@ -1894,12 +1941,7 @@ fun BookScreen(
                               chapterTtsStoryId = null
                               chapterTtsPaused = false
                               platformTtsStop(ctx)
-                              when (kind) {
-                                "key_takeaway" -> if (!prefs.showKeyTakeaway) repo.setShowKeyTakeaway(true)
-                                "cross_refs" -> if (!prefs.showCrossRefs) repo.setShowCrossRefs(true)
-                                "manuscript_variants" -> if (!prefs.showManuscriptVariants) repo.setShowManuscriptVariants(true)
-                                "translation_notes" -> if (!prefs.showTranslationNotes) repo.setShowTranslationNotes(true)
-                              }
+                              sectionOverrides["${story.id}:$kind"] = true
                               delay(120)
                               sectionTtsPaused = false
                               sectionTtsKey = key
@@ -1912,6 +1954,17 @@ fun BookScreen(
                     }
                   }
                 )
+              }
+
+              if (nextBook != null && onNavigateToBook != null) {
+                item(key = "next_book") {
+                  FilledTonalButton(
+                    onClick = { onNavigateToBook(col, nextBook.first, false) },
+                    modifier = Modifier.fillMaxWidth().padding(top = 8.dp)
+                  ) {
+                    Text(stringResource(Res.string.continue_to_book, nextBook.second))
+                  }
+                }
               }
             }
           }
@@ -2256,6 +2309,10 @@ fun StoryCard(
   onToggleBookmark: (() -> Unit)? = null,
   savedVerseColors: Map<Int, String?> = emptyMap(),
   goldFadeBulletIdxs: Set<Int> = emptySet(),
+  showKeyTakeaway: Boolean = false,
+  showCrossRefs: Boolean = false,
+  showManuscriptVariants: Boolean = false,
+  showTranslationNotes: Boolean = false,
   onToggleKeyTakeaway: (() -> Unit)? = null,
   onToggleCrossRefs: (() -> Unit)? = null,
   onToggleManuscriptVariants: (() -> Unit)? = null,
@@ -2491,13 +2548,13 @@ fun StoryCard(
                     }
                   }
                   Icon(
-                    if (prefs.showKeyTakeaway) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                    if (showKeyTakeaway) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
                     contentDescription = null,
                     modifier = Modifier.size(18.dp),
                     tint = MaterialTheme.colorScheme.primary
                   )
                 }
-                AnimatedVisibility(visible = prefs.showKeyTakeaway) {
+                AnimatedVisibility(visible = showKeyTakeaway) {
                   SelectionContainer {
                     ScriptureRefs.ClickableRefsText(
                       text = story.keyTakeaway,
@@ -2543,13 +2600,13 @@ fun StoryCard(
                     }
                   }
                   Icon(
-                    if (prefs.showCrossRefs) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                    if (showCrossRefs) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
                     contentDescription = null,
                     modifier = Modifier.size(18.dp),
                     tint = MaterialTheme.colorScheme.primary
                   )
                 }
-                AnimatedVisibility(visible = prefs.showCrossRefs) {
+                AnimatedVisibility(visible = showCrossRefs) {
                   Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
                     story.crossRefs.forEach { x ->
                       SelectionContainer {
@@ -2600,13 +2657,13 @@ fun StoryCard(
                     }
                   }
                   Icon(
-                    if (prefs.showManuscriptVariants) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                    if (showManuscriptVariants) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
                     contentDescription = null,
                     modifier = Modifier.size(18.dp),
                     tint = MaterialTheme.colorScheme.primary
                   )
                 }
-                AnimatedVisibility(visible = prefs.showManuscriptVariants) {
+                AnimatedVisibility(visible = showManuscriptVariants) {
                   Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     story.manuscriptVariants.forEach { mv ->
                       SelectionContainer {
@@ -2663,13 +2720,13 @@ fun StoryCard(
                     }
                   }
                   Icon(
-                    if (prefs.showTranslationNotes) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                    if (showTranslationNotes) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
                     contentDescription = null,
                     modifier = Modifier.size(18.dp),
                     tint = MaterialTheme.colorScheme.primary
                   )
                 }
-                AnimatedVisibility(visible = prefs.showTranslationNotes) {
+                AnimatedVisibility(visible = showTranslationNotes) {
                   Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     story.translationNotes.forEach { tn ->
                       SelectionContainer {
@@ -3966,6 +4023,9 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       SettingsSwitch(stringResource(Res.string.haptic_feedback), prefs.hapticEnabled) {
         scope.launch { repo.setHapticEnabled(it) }
       }
+      SettingsSwitch(stringResource(Res.string.expand_notes_default), prefs.expandNotesDefault) {
+        scope.launch { repo.setExpandNotesDefault(it) }
+      }
 
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
@@ -3973,6 +4033,9 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       SectionHeader(stringResource(Res.string.tts_section))
       SettingsSwitch(stringResource(Res.string.tts_auto_continue), prefs.autoContinueTts) {
         scope.launch { repo.setAutoContinueTts(it) }
+      }
+      SettingsSwitch(stringResource(Res.string.tts_cross_book), prefs.crossBookTts) {
+        scope.launch { repo.setCrossBookTts(it) }
       }
 
       HorizontalDivider(Modifier.padding(vertical = 8.dp))

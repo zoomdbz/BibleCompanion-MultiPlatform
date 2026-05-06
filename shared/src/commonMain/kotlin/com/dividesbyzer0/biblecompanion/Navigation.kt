@@ -33,20 +33,22 @@ sealed class Dest(val route: String) {
         companion object { fun route(col: String) = "books/$col" }
     }
     data class BookView(val col: String, val bookId: String) :
-        Dest("book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}") {
+        Dest("book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}") {
         companion object {
             fun route(
                 col: String,
                 bookId: String,
                 storyId: String? = null,
                 verse: Int? = null,
-                verseEnd: Int? = null
+                verseEnd: Int? = null,
+                autoStartTts: Boolean = false
             ): String {
                 val base = "book/$col/$bookId"
                 val params = buildList {
                     if (!storyId.isNullOrBlank()) add("storyId=$storyId")
                     if (verse != null) add("verse=$verse")
                     if (verseEnd != null && verseEnd != verse) add("verseEnd=$verseEnd")
+                    if (autoStartTts) add("autoStartTts=true")
                 }
                 return if (params.isEmpty()) base else "$base?${params.joinToString("&")}"
             }

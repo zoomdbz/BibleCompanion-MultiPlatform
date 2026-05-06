@@ -22,7 +22,7 @@ False doctrine usually announces itself through one or more of these patterns:
 
 2. **Another gospel.** Salvation becomes Christ plus membership, Christ plus ritual, Christ plus secret knowledge, Christ plus a prophet, Christ plus a church office, Christ plus money, Christ plus works, Christ plus ethnic identity, Christ plus law keeping, or Christ plus obedience to a human organization.
 
-3. **Another authority.** Scripture becomes useful but not final. A prophet, magisterium, governing body, seer, book, vision, inner voice, apostle, guru, council, or academic elite gets the final word.
+3. **Another authority.** Scripture becomes useful but not final. Another book, another prophet, magisterium, governing body, seer, vision, inner voice, apostle, guru, council, or academic elite gets the final word.
 
 4. **Secret knowledge.** The movement says ordinary believers have missed the real truth. Only the inner circle, restored church, enlightened teacher, hidden text, lost gospel, coded prophecy, or special revelation can unlock it.
 
@@ -40,7 +40,7 @@ The names change. The pattern does not.
 
 ## Tier One: Movements That Deny the Gospel Itself
 
-These movements either deny the deity of Christ, deny the sufficiency of His atonement, add new revelations equal or superior to Scripture, or present a different Jesus and a different gospel from the one the apostles preached. Galatians 1:8-9 calls such teachings *anathema*, accursed.
+These movements either deny the deity of Christ, deny the sufficiency of His atonement, add new revelations "equal" or "superior" to Scripture, or present a different Jesus and a different gospel from the one the apostles preached. Galatians 1:8-9 calls such teachings *anathema*, accursed.
 
 ---
 
@@ -60,57 +60,6 @@ These movements either deny the deity of Christ, deny the sufficiency of His ato
 - Adds "God the Mother" to the Godhead: There is no Hebrew or Greek warrant for this. The "bride" of Revelation 21:9 is the church (Ephesians 5:25-32), not a divine female counterpart to the Father.
 - Christ's atoning work was once for all: (Hebrews 9:26-28, Hebrews 10:12-14). A second messiah is theologically unnecessary because the first one's work was complete.
 - The Father is the only proper name for God in the New Testament prayer model: (Matthew 6:9), and Jesus reveals the Father, not a Mother (John 14:9).
-
----
-
-### Peoples Temple
-
-**Also known as:** Peoples Temple of the Disciples of Christ. Peoples Temple Christian Church Full Gospel. Peoples Temple Apostolic Church. Peoples Temple Agricultural Project (the Guyana commune name). Jonestown (the colloquial name for the Guyana settlement). The original full corporate name when affiliated with the Disciples of Christ denomination was "Peoples Temple of the Disciples of Christ"; the affiliation was nominal cover.
-
-**Founder:** Jim Jones, 1955, originally in Indianapolis, later San Francisco and Guyana.
-
-**Outcome:** On November 18, 1978, Jones led 909 followers, including 304 children, in mass murder-suicide by cyanide-laced Flavor Aid at the Jonestown compound in Guyana, after his men ambushed and killed U.S. Congressman Leo Ryan and four others at a nearby airstrip. It was the largest single-day loss of American civilian life until September 11, 2001.
-
-**Doctrinal trajectory:** Jones started as a nominal Pentecostal preacher and progressively replaced biblical Christianity with what he called "Apostolic Socialism." By the 1970s he openly denied the Bible, denied a personal God, and presented himself as the reincarnation of Jesus, Buddha, Lenin, and others. The "Christianity" of Peoples Temple was a facade for a personality cult that had abandoned Scripture entirely.
-
-**Why it is in this list:** Peoples Temple is the historical reminder of where charismatic leadership without scriptural accountability leads. (Matthew 7:15-20): "Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will recognize them by their fruits."
-
----
-
-### The Family International
-
-**Also known as:** TFI. Children of God (the original name, 1968-1978). Family of Love (1978-1982). The Family (1982-2004). The Family International (2004-present). Music with Meaning. Heaven's Magic. The Childcare Action Project (an early front). The "Mo Letters" or "Mo Books" are the writings of founder David Berg, often distributed as standalone tracts. Sub-organizations and affiliated outreach names have included Activated Ministries, Aurora Production AG, and various local "Family Care" or "Family Help" charity-style names.
-
-**Founder:** David Berg ("Moses David," "Father David," "Mo," "King David"), 1968 in Huntington Beach, California.
-
-**Core distortions:** Sexualization of evangelism; adult-on-adult and, documentedly, adult-on-minor sexual abuse; apocalyptic communalism.
-
-**Documented abuses:**
-
-- "Flirty Fishing" (1974-1987): Female members were instructed to use sexual seduction to attract converts. Berg's published "Mo Letters" explicitly directed this. The group's own internal records report over 100,000 men "won" through this method.
-- Child sexual abuse: Multiple government investigations (United Kingdom, Argentina, France, Australia) and the testimony of hundreds of former members born into the group document widespread abuse of children. Berg's own writings ("The Story of Davidito," 1982) sexualized minors. A 1995 UK High Court judgment (Ward J., re ST) found the group had "promoted and engaged in sexual activities with children."
-- Suicides of children raised in the group: Ricky Rodriguez ("Davidito"), the subject of Berg's writings, killed his former nanny and then himself in 2005. Multiple other suicides of TFI-raised children have been documented.
-
-**Why it is heresy:** Beyond doctrinal error, the documented sexual exploitation of children violates (Matthew 18:6): "Whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea." (1 Timothy 4:1-3) describes "doctrines of demons" advanced by those whose consciences are seared. The Family International is one of the clearest modern examples.
-
----
-
-### Iglesia ni Cristo (INC)
-
-**Also known as:** Church of Christ (English translation; not to be confused with the Restoration Movement Church of Christ denomination, which is unrelated and biblically Trinitarian). INC 1914. Iglesia ni Cristo - Manalo Movement. The Locale (member term for a congregation). New Era University (their educational arm). Eagle Broadcasting Corporation and INC Media (their media arms). The Sanggunian (governing council).
-
-**Founder:** Felix Y. Manalo, registered with the Philippine government in 1914. Succeeded by his son Erano G. Manalo (1963-2009) and grandson Eduardo V. Manalo (2009-present).
-
-**Core claim:** The original Christian church apostatized after the apostolic age and was restored only by Felix Manalo, whom INC identifies as the angel from the east in Revelation 7:2. INC is the only true church; salvation requires membership.
-
-**Specific teachings:**
-
-- Jesus is not God; He is a man specially chosen by God.
-- The Holy Spirit is not a person, but a power.
-- Salvation requires membership in INC. All other Christian denominations teach falsehood and lead to damnation.
-- Members are required to vote as a bloc in Philippine elections, directed by INC leadership. This is a formally enforced practice and is a recognized political force in the Philippines.
-
-**Why it is heresy:** Same Christological denial as Arianism and Jehovah's Witnesses (John 1:1, John 20:28, Colossians 2:9). The "restorationist" claim that the gospel was lost between the apostles and the founder is contradicted by the continuous witness of Christian martyrs, manuscripts, and writings from the second century onward. (Matthew 16:18): "I will build my church, and the gates of hell shall not prevail against it."
 
 ---
 
@@ -180,6 +129,57 @@ Deuteronomy 18:22 is direct: "When a prophet speaks in the name of the LORD, if 
 
 ---
 
+### Peoples Temple
+
+**Also known as:** Peoples Temple of the Disciples of Christ. Peoples Temple Christian Church Full Gospel. Peoples Temple Apostolic Church. Peoples Temple Agricultural Project (the Guyana commune name). Jonestown (the colloquial name for the Guyana settlement). The original full corporate name when affiliated with the Disciples of Christ denomination was "Peoples Temple of the Disciples of Christ"; the affiliation was nominal cover.
+
+**Founder:** Jim Jones, 1955, originally in Indianapolis, later San Francisco and Guyana.
+
+**Outcome:** On November 18, 1978, Jones led 909 followers, including 304 children, in mass murder-suicide by cyanide-laced Flavor Aid at the Jonestown compound in Guyana, after his men ambushed and killed U.S. Congressman Leo Ryan and four others at a nearby airstrip. It was the largest single-day loss of American civilian life until September 11, 2001.
+
+**Doctrinal trajectory:** Jones started as a nominal Pentecostal preacher and progressively replaced biblical Christianity with what he called "Apostolic Socialism." By the 1970s he openly denied the Bible, denied a personal God, and presented himself as the reincarnation of Jesus, Buddha, Lenin, and others. The "Christianity" of Peoples Temple was a facade for a personality cult that had abandoned Scripture entirely.
+
+**Why it is in this list:** Peoples Temple is the historical reminder of where charismatic leadership without scriptural accountability leads. (Matthew 7:15-20): "Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will recognize them by their fruits."
+
+---
+
+### The Family International
+
+**Also known as:** TFI. Children of God (the original name, 1968-1978). Family of Love (1978-1982). The Family (1982-2004). The Family International (2004-present). Music with Meaning. Heaven's Magic. The Childcare Action Project (an early front). The "Mo Letters" or "Mo Books" are the writings of founder David Berg, often distributed as standalone tracts. Sub-organizations and affiliated outreach names have included Activated Ministries, Aurora Production AG, and various local "Family Care" or "Family Help" charity-style names.
+
+**Founder:** David Berg ("Moses David," "Father David," "Mo," "King David"), 1968 in Huntington Beach, California.
+
+**Core distortions:** Sexualization of evangelism; adult-on-adult and, documentedly, adult-on-minor sexual abuse; apocalyptic communalism.
+
+**Documented abuses:**
+
+- "Flirty Fishing" (1974-1987): Female members were instructed to use sexual seduction to attract converts. Berg's published "Mo Letters" explicitly directed this. The group's own internal records report over 100,000 men "won" through this method.
+- Child sexual abuse: Multiple government investigations (United Kingdom, Argentina, France, Australia) and the testimony of hundreds of former members born into the group document widespread abuse of children. Berg's own writings ("The Story of Davidito," 1982) sexualized minors. A 1995 UK High Court judgment (Ward J., re ST) found the group had "promoted and engaged in sexual activities with children."
+- Suicides of children raised in the group: Ricky Rodriguez ("Davidito"), the subject of Berg's writings, killed his former nanny and then himself in 2005. Multiple other suicides of TFI-raised children have been documented.
+
+**Why it is heresy:** Beyond doctrinal error, the documented sexual exploitation of children violates (Matthew 18:6): "Whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea." (1 Timothy 4:1-3) describes "doctrines of demons" advanced by those whose consciences are seared. The Family International is one of the clearest modern examples.
+
+---
+
+### Iglesia ni Cristo (INC)
+
+**Also known as:** Church of Christ (English translation; not to be confused with the Restoration Movement Church of Christ denomination, which is unrelated and biblically Trinitarian). INC 1914. Iglesia ni Cristo - Manalo Movement. The Locale (member term for a congregation). New Era University (their educational arm). Eagle Broadcasting Corporation and INC Media (their media arms). The Sanggunian (governing council).
+
+**Founder:** Felix Y. Manalo, registered with the Philippine government in 1914. Succeeded by his son Erano G. Manalo (1963-2009) and grandson Eduardo V. Manalo (2009-present).
+
+**Core claim:** The original Christian church apostatized after the apostolic age and was restored only by Felix Manalo, whom INC identifies as the angel from the east in Revelation 7:2. INC is the only true church; salvation requires membership.
+
+**Specific teachings:**
+
+- Jesus is not God; He is a man specially chosen by God.
+- The Holy Spirit is not a person, but a power.
+- Salvation requires membership in INC. All other Christian denominations teach falsehood and lead to damnation.
+- Members are required to vote as a bloc in Philippine elections, directed by INC leadership. This is a formally enforced practice and is a recognized political force in the Philippines.
+
+**Why it is heresy:** Same Christological denial as Arianism and Jehovah's Witnesses (John 1:1, John 20:28, Colossians 2:9). The "restorationist" claim that the gospel was lost between the apostles and the founder is contradicted by the continuous witness of Christian martyrs, manuscripts, and writings from the second century onward. (Matthew 16:18): "I will build my church, and the gates of hell shall not prevail against it."
+
+---
+
 ### Arianism
 
 **Also known as:** Arian Christianity. Anti-Nicene theology. Subordinationism (in milder forms). Semi-Arianism (Homoiousian: the Son is "of similar substance" rather than "of the same substance"). Eunomianism (after Eunomius, an extreme Arian). The "Homoian" position (Son is "like" the Father). Modern descendants in this list (Jehovah's Witnesses, Iglesia ni Cristo, Christadelphians, some Unitarian groups) preserve the Arian Christology under different organizational names.
@@ -241,6 +241,27 @@ The Greek and Hebrew do not bear these reinterpretations. *Arsenokoitai* (1 Cori
 
 **Founders/popularizers:** E.W. Kenyon (foundational early figure). Kenneth Hagin. Kenneth Copeland. Oral Roberts. Benny Hinn. Joel Osteen. Creflo Dollar. Paula White. Joyce Meyer. T.D. Jakes (with reservations; he is harder to categorize). Jesse Duplantis. Eddie Long. Bill Johnson. Heidi and Rolland Baker. Reinhard Bonnke (more evangelistic, Word-of-Faith influenced).
 
+**Major networks and institutions:**
+
+- Trinity Broadcasting Network (TBN): the largest Christian broadcasting network in the world; primary broadcast vehicle for Word of Faith preachers since the Crouches founded it in 1973.
+- Daystar Television Network: founded by Marcus and Joni Lamb, second-largest Christian network, similar prosperity orientation.
+- The Word Network: prosperity-heavy programming aimed at Black audiences.
+- Inspiration Network (INSP): historically prosperity-aligned.
+- Christian Broadcasting Network (CBN, Pat Robertson): less aggressive prosperity teaching but adjacent on "seed-faith" giving.
+- Kenneth Copeland Ministries (KCM): Eagle Mountain International Church, Newark, Texas. Headquarters of the Copeland empire including a private airstrip and multiple aircraft.
+- Joel Osteen Ministries / Lakewood Church (Houston): the largest church in America by attendance, soft-prosperity ("Your Best Life Now") packaging.
+- Creflo Dollar Ministries / World Changers Church International (College Park, Georgia).
+- Jesse Duplantis Ministries (Destrehan, Louisiana). Famous for asking donors to fund a $54 million Dassault Falcon 7X jet in 2018.
+- Joyce Meyer Ministries (Fenton, Missouri).
+- Benny Hinn Ministries: now repositioned as Benny Hinn Ministries International after Hinn's 2019 partial repudiation of his prior teaching, which has been inconsistent.
+- Hillsong Church (Australia, with global campuses): prosperity-adjacent rather than full Word of Faith, but sufficient overlap to mention. Founded by Brian Houston, who resigned in 2022 after multiple scandals; the global network has been in serial leadership crisis.
+- Bethel Church (Redding, California): Bill Johnson and Kris Vallotton; merges Word of Faith with New Apostolic Reformation prophetic-revival theology.
+- Morningstar Ministries (Rick Joyner): prophetic-charismatic with prosperity overlap.
+- Gloria Copeland (Kenneth's wife): notable for the 2018 statement that flu shots were unnecessary because believers had already been "redeemed from the flu," during a flu season that killed 80,000 Americans.
+- Paula White-Cain: White House spiritual advisor 2017-2021, faith advisor in 2025, fully Word of Faith.
+
+The pattern: tax-exempt religious organizations with private aircraft, ranches, lakefront mansions, and seven-figure parsonage allowances, funded by donations from working-class and poor congregants who give "seed-faith" offerings expecting miraculous return.
+
 **Core teaching:** God wants every believer wealthy and healthy. Sufficient faith (or sufficient seed-faith offerings to a ministry) guarantees these outcomes. Sickness and poverty are signs of insufficient faith. If someone is sick, poor, anxious, infertile, depressed, or suffering, the blame is often placed on weak faith, negative speech, hidden sin, generational curses, or failure to sow money into the right ministry.
 
 This is not biblical faith. It is baptized greed.
@@ -264,6 +285,22 @@ This is not biblical faith. It is baptized greed.
 - "The wealth of the wicked is laid up for the righteous."
 - "Give your best seed for your breakthrough."
 
+**Manipulation patterns to recognize:**
+
+The phrases above identify the doctrine. The patterns below identify the manipulation. A teacher may not use any of the above phrases and still be running the same script.
+
+- **Public seed-sowing pressure:** "Stand up if you can give $1,000 right now." "I see seven people God is calling to give $5,000." "There is a hundred-fold blessing for those who will sow into this ministry today." Targeted public solicitation that turns giving into performance and refusal into exposure.
+- **Crisis-tied appeals:** "Sow into this ministry to break the spirit of cancer off your family." "Plant a $500 seed for your marriage." Tying specific dollar amounts to specific desperate outcomes.
+- **Faith-blame for failure:** When the prayed-for outcome does not come, the failure is the giver's, not the teacher's. "You released doubt." "There was unforgiveness in your heart." "You did not give your best seed." The system is unfalsifiable because every failed promise becomes the victim's fault.
+- **First-fruits / tithing-as-investment:** "If you bring your full tithe, God is obligated to bless you." "Test God in this." Treating Malachi 3:10 as a contract God has signed.
+- **Anointed-one immunity:** "Touch not the Lord's anointed." "Speak no evil against the man of God." Used to deflect any examination of the teacher's finances, doctrine, or behavior. The doctrine is drawn from Psalm 105:15 and 1 Samuel 24:6 and is wholly misapplied; those passages forbid violence against anointed leaders, not honest evaluation of their teaching, which Scripture commands (1 Thessalonians 5:21, Acts 17:11, 1 Timothy 5:20).
+- **Generational curse breaking:** "There is a curse on your family that only this seed can break." "Your great-grandfather's sin is blocking your blessing." Appeals to vague ancestral guilt that can only be cleared through giving, not through repentance.
+- **Prophetic word as transactional:** "I have a word for you, but God told me you need to release a seed first." Selling prophecy.
+- **Personal access for sale:** "Become a Covenant Partner at the $1,000-a-month level for personal access to my anointing." Tiered membership in salvation.
+- **Lifestyle as proof of theology:** "Look at the cars I drive. Look at the planes I fly. This is what God will do for you if you have faith." The teacher's wealth is presented as evidence the doctrine works, when it is actually evidence that taking money from the poor works as a business model.
+
+When you see these patterns, you are not seeing apostolic Christianity. (1 Peter 5:2-3): "Shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly; not domineering over those in your charge, but being examples to the flock."
+
 **Scriptural correction:**
 
 - Jesus had nowhere to lay His head (Matthew 8:20).
@@ -279,45 +316,32 @@ This is not biblical faith. It is baptized greed.
 
 This is why Scripture speaks so sharply about greedy teachers. (2 Peter 2:3): "And in their greed they will exploit you with false words."
 
-**The answer:** Biblical giving is worship, not a slot machine. Biblical faith trusts God even when healing does not come. Biblical blessing may include provision, but it never turns Christ into a servant of human appetite. The true gospel says Christ is enough in poverty, sickness, suffering, prison, weakness, and death. Any preacher who cannot preach that gospel to a hospital room, a prison cell, and a graveside is not preaching the gospel of Jesus Christ.
+**The body count.**
 
----
+This is the part most prosperity critics avoid stating directly. The doctrine kills people.
 
-### New Apostolic Reformation and Modern Apostle Movements
+- **Children dead from medical neglect:** Multiple documented cases of parents in Word of Faith churches refusing medical care for their children based on "negative confession" doctrine. Naming sickness, in this theology, gives sickness power. Parents have stopped insulin, refused antibiotics for treatable infections, and prayed for healings that did not come. State courts have prosecuted such cases as negligent homicide. The Followers of Christ Church in Oregon and the Faith Assembly in Indiana are documented examples; these are smaller groups but they apply the same theology that mainstream Word of Faith teaches more carefully.
+- **Adults dead from delayed cancer treatment:** A pattern documented across Word of Faith congregations: members refuse or delay treatment for treatable cancers based on the doctrine that confessing sickness defeats faith. By the time they accept treatment, the cancer has metastasized.
+- **Suicides:** Former members have testified to suicidal ideation when the prosperity gospel's promised outcomes did not arrive. The theology makes their continued suffering or poverty their fault, builds shame on top of suffering, and forecloses the comfort that biblical Christianity offers in suffering.
+- **Financial ruin:** Members on fixed incomes giving everything to "seed" expected breakthroughs. Documented cases of Social Security recipients sending the entire monthly check to Kenneth Copeland Ministries, Creflo Dollar, or local prosperity churches, then unable to pay rent or food. Paula White solicited Christmas-month "first-fruits" offerings of $1,144 on the basis of a 2020 prophecy; thousands gave.
+- **The 1980s Faith Healers documentary work:** James Randi's 1986 investigation of Peter Popoff exposed Popoff using a hidden earpiece, fed by his wife reading prayer cards from the audience, to fake "words of knowledge." Randi's evidence aired on the Tonight Show. Popoff went bankrupt that year. He returned to ministry in the early 2000s and is operating today on TBN. The fraud was exposed; the network rehired him.
+- **Benny Hinn's healing crusades:** Multiple investigative reports (HBO's 2001 *A Question of Miracles*, NBC's 2009 Dateline investigation) followed up on people Hinn declared healed on stage. None of those tracked were actually healed. Hinn's organization was unable to produce a single verified medical-record-confirmed healing under journalistic scrutiny.
+- **The 2020 election prophecies:** Major prosperity-charismatic figures (Pat Robertson, Kat Kerr, Kenneth Copeland's network, Sid Roth, Hank Kunneman, Lance Wallnau, Jeremiah Johnson) prophesied with public confidence that Donald Trump would win the 2020 election. He did not. Some apologized; most quietly redated or reinterpreted. (Deuteronomy 18:22): "When a prophet speaks in the name of the LORD, if the word does not come to pass or come true, that is a word that the LORD has not spoken; the prophet has spoken it presumptuously." By Scripture's own test, these are false prophets.
 
-**Also known as:** NAR. Apostolic-prophetic movement. Fivefold ministry restoration. Modern apostles and prophets. Kingdom Now. Dominion theology. Seven Mountain Mandate. Apostolic covering. Prophetic alignment. Bethel movement overlap. IHOPKC overlap. Wagner movement. Signs and wonders movement. Third Wave charismatic movement.
+These are not edge cases. They are what the system produces in its native operation. (Matthew 7:15-20): "You will recognize them by their fruits."
 
-**Core teaching:** God is supposedly restoring governing apostles and prophets to lead the end-time church. These leaders claim special authority, fresh revelation, prophetic insight, supernatural impartation, and strategic dominion over culture.
+**The answer:**
+Biblical giving is worship, not a slot machine. Biblical faith trusts God even when healing does not come. Biblical blessing may include provision, but it never turns Christ into a servant of human appetite. The true gospel says Christ is enough in poverty, sickness, suffering, prison, weakness, and death. Any preacher who cannot preach that gospel to a hospital room, a prison cell, and a graveside is not preaching the gospel of Jesus Christ.
 
-**Common phrases to recognize:**
+Biblical giving is worship, not a transaction. (2 Corinthians 9:7): "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver." Not under compulsion. Not in response to a prophetic shakedown. Not as a wager on a return.
 
-- "Apostolic covering."
-- "Prophetic alignment."
-- "Fresh revelation."
-- "New wine."
-- "The next move of God."
-- "Touch not the Lord's anointed."
-- "Activate your mantle."
-- "Shift the atmosphere."
-- "Take the seven mountains."
-- "Decree and declare."
-- "Open heaven."
-- "Impartation."
-- "Prophetic word."
+Biblical faith trusts God in the outcome He gives, not the outcome you demand. Job lost everything; his faith was honored, not his wealth. Joseph went from prison to palace, but God's purpose was the saving of nations, not Joseph's personal comfort. Paul prayed three times for his thorn to be removed; God said no, and Paul learned to glory in weakness (2 Corinthians 12:7-10). Stephen was stoned mid-sermon while seeing the heavens opened (Acts 7:54-60). The Hebrews 11 "hall of faith" includes those who escaped the sword AND those who were "sawn in two" (Hebrews 11:37). Biblical faith does not script outcomes.
 
-**Why it is dangerous:** The New Testament apostles were eyewitnesses of the risen Christ and foundation stones of the church (Ephesians 2:20). That foundation does not get poured again every generation. Modern teachers may preach, pastor, evangelize, and exhort, but they do not hold apostolic authority equal to Scripture.
+Biblical blessing is sometimes material, often relational, always spiritual, and reaches its fullness in eternity, not in the next mortgage payment. (Ephesians 1:3): "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places." The blessings of the gospel are spiritual and heavenly first; material provision in this life is given as God sees fit, not as the believer demands.
 
-When a leader claims fresh revelation that cannot be questioned, the church is no longer ruled by Scripture. It is ruled by personality.
+The true gospel is for the cancer ward, the prison cell, the bankruptcy court, the war zone, the hospice room, and the open grave. Any "gospel" that cannot be preached in those places is not the gospel of Jesus Christ. Christ is enough when nothing else remains. The man who said "It is finished" (John 19:30) said it from a cross, not a throne. (Philippians 1:21): "For to me to live is Christ, and to die is gain." That is the gospel. Anything that promises gain in this life as the proof of faith is preaching a different gospel, and a different gospel is anathema (Galatians 1:8-9).
 
-**Scriptural correction:**
-
-- The faith was delivered once for all to the saints (Jude 3).
-- Scripture equips the man of God for every good work (2 Timothy 3:16-17).
-- False prophets are tested by whether their words come true (Deuteronomy 18:21-22).
-- Even true spiritual gifts must be tested and judged (1 Corinthians 14:29, 1 Thessalonians 5:20-21).
-- No teacher is above correction (Galatians 2:11-14).
-
-**The answer:** God still leads, convicts, comforts, and gifts His people. But no modern prophet, apostle, dream, vision, mantle, or "word from the Lord" can outrank the written Word of God.
+If you are inside a prosperity ministry and these patterns are surfacing concerns, do not give them another dollar until you have read the New Testament cover to cover, slowly, asking who Christ is and what He actually promises His followers. The answer will not match what your pastor has been preaching.
 
 ---
 
@@ -354,9 +378,133 @@ When a leader claims fresh revelation that cannot be questioned, the church is n
 
 ### Calvinism / Reformed Theology
 
-**Also known as:** Reformed Theology. Reformed Christianity. Reformed Churches. Presbyterian (the polity-based name). Reformed Baptist (Calvinist Baptists). Particular Baptist (historical British term). Doctrines of Grace (their preferred internal name). TULIP theology (after the five-point acronym). Five-Point Calvinism. Augustinianism (the broader theological lineage). Predestinarian Christianity. Confessional Reformed (referring to Westminster Confession, Three Forms of Unity, 1689 London Baptist Confession). New Calvinism / Young Restless and Reformed (a 21st-century evangelical resurgence; figures include John Piper, Mark Driscoll, Tim Keller, D.A. Carson, Albert Mohler). High Calvinism / Hyper-Calvinism (a more extreme variant that rejects the free offer of the gospel; not the same as mainstream Calvinism). Reformed denominations include the Presbyterian Church in America (PCA), the Orthodox Presbyterian Church (OPC), the Reformed Church in America (RCA), the Christian Reformed Church (CRC), the United Reformed Churches in North America (URCNA), the Reformed Baptist Network, and many others. Note that the Presbyterian Church USA (PCUSA) is significantly more theologically liberal and is not representative of confessional Calvinism today.
+**Also known as:** Reformed Theology. Reformed Christianity. Reformed Churches. Presbyterian (the polity-based name). Reformed Baptist (Calvinist Baptists). Particular Baptist (historical British term). Doctrines of Grace (their preferred internal name). TULIP theology (after the five-point acronym). Five-Point Calvinism. Augustinianism (the broader theological lineage). Predestinarian Christianity. Confessional Reformed (referring to Westminster Confession, Three Forms of Unity, 1689 London Baptist Confession). Federal Theology (the covenantal framework that undergirds it). Supralapsarianism (the high-Calvinist view that election logically preceded the Fall). Infralapsarianism (the more moderate view that election logically followed the Fall). New Calvinism / Young Restless and Reformed (the 21st-century evangelical resurgence; figures include John Piper, Mark Driscoll, Tim Keller, D.A. Carson, Albert Mohler, John MacArthur, Wayne Grudem, Matt Chandler, Kevin DeYoung). The Gospel Coalition (the major Reformed evangelical network). Together for the Gospel (T4G). 9Marks (a church-health ministry strongly Reformed). Desiring God (Piper's ministry). Ligonier Ministries (Sproul's ministry). Banner of Truth Trust. Westminster Theological Seminary. Reformed Theological Seminary. The Master's Seminary. High Calvinism / Hyper-Calvinism (a more extreme variant that rejects the free offer of the gospel and the duty to evangelize the non-elect; not the same as mainstream Calvinism, but an end-point the system tends toward). Reformed denominations include the Presbyterian Church in America (PCA), the Orthodox Presbyterian Church (OPC), the Reformed Church in America (RCA), the Christian Reformed Church (CRC), the United Reformed Churches in North America (URCNA), the Evangelical Presbyterian Church (EPC), the Associate Reformed Presbyterian Church (ARP), the Reformed Baptist Network, the Free Presbyterian Church of Scotland, and many others. Most Southern Baptist seminaries (especially Southern Baptist Theological Seminary under Albert Mohler) have been substantially Calvinized in the 21st century. Note that the Presbyterian Church USA (PCUSA) is significantly more theologically liberal and is not representative of confessional Calvinism today.
 
-**Note on placement:** This is a Tier Two entry kept here for consistency with the original Common Distortions document. Honest readers should know this is the most contested placement in this entire list. Calvinists affirm the deity of Christ, the historic gospel, the authority of Scripture, and salvation by grace through faith. Many of the most rigorous biblical scholars in church history (Augustine, Calvin, Edwards, Spurgeon, Sproul, Piper, Carson) have been Calvinists. The disagreement with Calvinism is intramural, between believers, about how to reconcile divine sovereignty and human responsibility. Listing Calvinism alongside the Watch Tower Society overstates the difference. I want the reader to know that my honest theological judgment is that Calvinism is in error on certain points (see the Common Distortions document for the substantive critique on TULIP) but that Calvinists are brothers and sisters in Christ.
+**Founder:** John Calvin (Jean Cauvin, 1509-1564), French theologian based in Geneva. *Institutes of the Christian Religion* (1536, expanded 1559). Built on Augustinian foundations laid by Augustine of Hippo (354-430 AD) in his anti-Pelagian writings. Theodore Beza, Calvin's successor in Geneva, systematized the doctrines into the form recognized today. The five points (TULIP) were formalized in response to the Remonstrants (followers of Jacobus Arminius) at the Synod of Dort, 1618-1619.
+
+**Core teaching:** God decided before the world was made exactly who would be saved and who would not. Faith, choice, and repentance cannot change the list. The system is summarized as TULIP:
+
+- **Total Depravity:** Humans are so broken by sin they cannot even desire God unless God irresistibly works the desire into them. Free will toward salvation is impossible until God regenerates the will.
+- **Unconditional Election:** Before creating the world, God selected specific individuals for salvation. The selection was not based on anything God foresaw in them; it was based solely on His sovereign choice. The rest, the "non-elect," were either passively passed over (infralapsarian) or actively predestined to damnation (supralapsarian).
+- **Limited Atonement / Particular Redemption:** Christ did not die for the sins of every person. He died only for the elect. If a person is not on the list, the cross does not cover them; their condemnation is fixed.
+- **Irresistible Grace:** When God calls one of the elect, that person cannot finally resist. Faith is not a real choice; it is the inevitable outcome of effectual calling.
+- **Perseverance of the Saints / "Once Saved, Always Saved" in Reformed form:** True believers cannot lose salvation. Anyone who appears to fall away was never genuinely saved to begin with; they were a "false convert" or "tare."
+
+**Why Scripture pushes back:**
+
+**1. God's stated desire is the salvation of all, not the selection of a few:**
+
+- (1 Timothy 2:3-4): "This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth."
+- (2 Peter 3:9): "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance."
+- (Ezekiel 33:11): "Say to them, As I live, declares the Lord GOD, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."
+- (Ezekiel 18:23, 32): "Have I any pleasure in the death of the wicked, declares the Lord GOD, and not rather that he should turn from his way and live?... For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live."
+- (Matthew 23:37): "O Jerusalem, Jerusalem... How often would I have gathered your children together as a hen gathers her brood under her wings, and you would not!" Yeshua weeps over Jerusalem because they refused. Calvinist theology must reread this as Yeshua wanting what God did not actually decree, splitting the divine will against itself.
+
+The Calvinist response is to distinguish "God's revealed will" (what He commands) from "God's secret will" (what He decrees). On this view, God reveals He wants all saved while secretly decreeing only some to be saved. The text never makes this distinction. The text says God desires all. To save the system, the system overrides the text.
+
+**2. Christ's atonement is universal in its scope, not restricted to a pre-chosen list:**
+
+- (John 3:16): "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life." The Greek *ton kosmon* (the world) is comprehensive; the same Greek word in 1 John 2:15-17 ("Do not love the world") clearly means every person, every nation, the entire human race.
+- (1 John 2:2): "He is the propitiation for our sins, and not for ours only but also for the sins of the whole world." This verse is fatal to Limited Atonement on its plain reading. The Calvinist must redefine "world" here to mean "the elect from every nation" rather than "every person." The Greek *holos ho kosmos* will not bear that load.
+- (Hebrews 2:9): "...so that by the grace of God he might taste death for everyone." The Greek *huper pantos* is "for every one." Not for some.
+- (1 Timothy 4:10): "...the living God, who is the Savior of all people, especially of those who believe." All people. Especially (not exclusively) believers.
+- (2 Peter 2:1): "But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, **even denying the Master who bought them**, bringing upon themselves swift destruction." Peter says false teachers were bought (purchased through the atonement) and yet are destroyed. Limited Atonement cannot account for this.
+- (Isaiah 53:6): "All we like sheep have gone astray; we have turned, every one, to his own way; and the LORD has laid on him the iniquity of us all." The same "all" who went astray is the "all" whose iniquity was laid on the Servant. To restrict the second "all" to the elect requires restricting the first "all" to the elect, which would mean only the elect ever sinned. The text will not allow this.
+
+**3. The invitation to come is universal, addressed to anyone who will:**
+
+- (Revelation 22:17): "The Spirit and the Bride say, 'Come.' And let the one who hears say, 'Come.' And let the one who is thirsty come; let the one who desires take the water of life without price."
+- (Matthew 11:28): "Come to me, all who labor and are heavy laden, and I will give you rest."
+- (Romans 10:13): "For everyone who calls on the name of the Lord will be saved."
+- (Acts 17:30): "The times of ignorance God overlooked, but now he commands all people everywhere to repent." If repentance is impossible for the non-elect, this command is mockery.
+- (Isaiah 45:22): "Turn to me and be saved, all the ends of the earth! For I am God, and there is no other."
+
+The words "whoever," "everyone," "all who," "anyone," and "any" appear throughout the New Testament's salvation language. Calvinist exegesis must repeatedly redefine these as "anyone within the elect," "everyone among the chosen," "all those whom God has selected." The text never qualifies them. The qualification is brought in from outside.
+
+**4. Scripture warns real believers they can fall away. These warnings make no sense if falling away is impossible:**
+
+- (Hebrews 6:4-6): "For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt."
+- (Hebrews 10:26-29): "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries... How much worse punishment, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace?" Note: "by which he was sanctified." The person warned was sanctified by the blood of Christ; that is not an unbeliever's status.
+- (2 Peter 2:20-22): "For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first. For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them."
+- (1 Timothy 4:1): "Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons." Departing from the faith presupposes having had the faith.
+- (1 Corinthians 9:27): Paul writes, "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified." If Paul, the apostle, can fear disqualification, the doctrine that perseverance is automatic is wrong.
+- (John 15:1-6): The vine and branches passage. Jesus says branches IN HIM that bear no fruit are taken away, gathered, thrown into the fire, and burned. To force this to mean "branches that were never really in Him" requires reading the text against itself.
+- (Galatians 5:4): "You are severed from Christ, you who would be justified by the law; you have fallen away from grace." Paul addresses Galatian believers and says they can fall from grace.
+
+The Calvinist response to all these warnings is "they are addressed to false converts who never were truly saved" or "they are hypothetical warnings used to keep the elect persevering." The text gives no indication of this. The warnings are addressed to "brothers" (Hebrews 3:12), to "you who have been enlightened... who have tasted... who have shared." If the warnings are not real, the words used to describe their recipients are misleading.
+
+**5. Real choice is part of God's design. Scripture commands choice, not merely the appearance of it:**
+
+- (Joshua 24:15): "Choose this day whom you will serve."
+- (Deuteronomy 30:19): "I have set before you life and death, blessing and curse. Therefore choose life, that you and your offspring may live."
+- (1 Kings 18:21): "If the LORD is God, follow him; but if Baal, then follow him."
+- (Revelation 3:20): "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him."
+- (Acts 7:51): Stephen tells the Sanhedrin, "You stiff-necked people, uncircumcised in heart and ears, you always resist the Holy Spirit." Resisting the Holy Spirit is impossible if Irresistible Grace is true. The text says they did.
+
+The Calvinist position must redefine these commands as "exhortations addressed externally that God internally fulfills only in the elect, while issuing the same external command to the non-elect with no real possibility of compliance." That is a God who commands what is impossible and condemns for failing to do the impossible. Whatever else that is, it is not the God Scripture describes.
+
+**6. The character of God Calvinism leaves you with:**
+
+The system, taken to its logical end, requires that God created vast numbers of human beings whose only destiny is eternal conscious torment, and whom He never gave any real opportunity to be saved, because the salvation that was offered to them was offered with a hidden decree that they would never receive it. He commanded them to repent while withholding the grace by which alone repentance is possible. He sent them prophets and preachers whose pleas could not penetrate them. Then He damns them for the failure He decreed.
+
+This is the picture defended by Jonathan Edwards in *Sinners in the Hands of an Angry God* and by some hyper-Calvinists more bluntly than mainstream Calvinists would. Mainstream Calvinists soften the picture with the doctrine of "common grace" and the "free offer of the gospel," but the underlying logic of the system requires the picture nonetheless. If the atonement is limited and election is unconditional, the non-elect were created for destruction with no real recourse.
+
+(1 John 4:8): "God is love." Love that is forced is not love. A choice you never had is not a choice. A salvation you cannot resist is not freely received. The God of Calvinism is a sovereign God, but Scripture's God is also a relational God, a Father whose Son weeps over Jerusalem (Luke 19:41-44), whose Spirit grieves over resistance (Ephesians 4:30), whose love can be received or refused.
+
+**7. Like many Heresey and Distortions the system requires rewriting plain texts to keep the framework intact:**
+
+This is a big objection. Whenever Calvinist exegesis encounters a verse that appears to contradict the system, the system overrides the verse. "World" becomes "elect world." "All" becomes "all kinds of" or "all without distinction, not all without exception." "Whoever" becomes "whoever among the chosen." "Every" becomes "every among the elect." Real warnings of apostasy become hypothetical warnings to keep the elect alert. Christ's grief over Jerusalem becomes a tension between God's revealed and decretal wills.
+
+When a system requires this much retranslation, the system has become a lens through which the Bible is read rather than a summary of what the Bible teaches. (2 Peter 3:16): Peter warns of those who twist Paul's writings "as they do the other Scriptures, to their own destruction."
+
+**The deepest problem: Calvinism undermines the moral character of God.**
+This is the substance of the case. Every other objection (Limited Atonement, Irresistible Grace, the redefinition of "world" and "all") is downstream of this one. The doctrines of TULIP, taken in their plain meaning and pushed to their logical end, require a God whose moral character contradicts the God Scripture describes.
+
+Lay out what the system necessarily entails:
+
+God created a particular human being. Before that person was conceived, before they drew breath, before they ever did good or evil (Romans 9:11 in its actual context, which we will address in a moment), God decreed that this person would not be among the elect. Christ would not die for their sins; the atonement was particular and excluded them. The Spirit would not regenerate them; effectual calling was reserved for others. Grace would never reach them; they cannot believe because they were never given the capacity to believe.
+
+That person then lives a life. They are commanded to repent (Acts 17:30). They are told that whoever calls on the name of the Lord will be saved (Romans 10:13). They are pleaded with by preachers, warned by Scripture, and offered Christ in language that says "come to me, all who labor and are heavy laden" (Matthew 11:28). The offer is real on its face. Behind the offer, the decree stands: this person is not on the list. They cannot accept what is offered. They are commanded to do what God Himself has determined they will not be enabled to do.
+
+They die. They are judged. They are damned to eternal conscious torment for failing to receive a salvation that was never available to them, for refusing a Christ who never died for them, for resisting a Spirit that never came to them, for committing the sin of unbelief, which is the only sin remaining now that the cross has paid for everything else, and unbelief in this case was the only outcome possible because grace was withheld at the foundation.
+
+Examine that picture against Scripture's testimony about who God is:
+
+**God is just.** (Deuteronomy 32:4): "The Rock, his work is perfect, for all his ways are justice. A God of faithfulness and without iniquity, just and upright is he." (Genesis 18:25): Abraham asks, "Shall not the Judge of all the earth do what is just?" Justice in any meaningful biblical or moral sense requires that those judged had a real opportunity to do otherwise. To condemn a person eternally for failing to do what they were never enabled to do is, by every standard the Bible itself uses, the opposite of justice. Calvinism must redefine justice as "whatever God does," which empties the word of meaning and makes (Genesis 18:25) a question with no real answer.
+
+**God is good.** (Psalm 145:9): "The LORD is good to all, and his mercy is over all that he has made." (James 1:13): "Let no one say when he is tempted, 'I am being tempted by God,' for God cannot be tempted with evil, and he himself tempts no one." (1 John 1:5): "God is light, and in him is no darkness at all." A God who creates beings whose only purpose is eternal suffering, with no real opportunity for relationship, is not described in any of these texts. The God of Scripture extends mercy to all His works. The God of strict double-predestination Calvinism extends mercy only to a fraction.
+
+**God is love.** (1 John 4:8, 16): "God is love." This is not a metaphor and not an attribute among others; it is a statement about His essence. Love that refuses to give the beloved any real possibility of response is not love. A husband who "loves" his wife but irresistibly causes her every choice has not loved her. A father who "loves" his children but predetermines from before their conception which ones will spend eternity with him and which ones will burn, with no real choice for any of them, is not loving them. He is choosing them or rejecting them, but it is not love. Calvinism must redefine love the way it redefines justice, until the word means something other than what every reader of Scripture, every spouse, and every parent knows it to mean.
+
+**God is not a respecter of persons.** (Acts 10:34): "Truly I understand that God shows no partiality." (Romans 2:11): "For God shows no partiality." (Deuteronomy 10:17): "...who is not partial and takes no bribe." Yet Unconditional Election is the doctrine that God shows partiality on the most consequential matter that exists, choosing some for eternal glory and passing over others, with no basis in anything those persons did or would do. The Calvinist response is that God's selection is not arbitrary because it is rooted in His sovereign will. That answer trades the word "partial" for the word "sovereign" without resolving the moral problem; it just relabels it.
+
+**God does not desire the death of the wicked.** (Ezekiel 18:23): "Have I any pleasure in the death of the wicked, declares the Lord GOD, and not rather that he should turn from his way and live?" (Ezekiel 18:32): "For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live." (Ezekiel 33:11): "As I live, declares the Lord GOD, I have no pleasure in the death of the wicked." (1 Timothy 2:4): "...who desires all people to be saved." (2 Peter 3:9): "...not wishing that any should perish, but that all should reach repentance."
+
+These verses are decisive. God Himself, by His own word, by His own oath ("As I live"), declares that He has no pleasure in the death of the wicked and desires that they turn and live. Strict Calvinism must say that this revealed desire is not God's actual will, that God's secret decree determines that most of those whose deaths He claims to grieve will in fact die unredeemed because He never gave them the grace to repent. The system splits God against Himself: His revealed will pleads, His decretal will refuses. The God of Scripture is not double-minded (James 1:8 applies only to the man, but the principle of integrity belongs to God by nature). A God who weeps over the lost (Luke 19:41-44) while having decreed their lostness from eternity is a God whose tears are theatrical. Calvinist theologians have wrestled honestly with this tension; the wrestling has not resolved it.
+
+**The author of evil problem.** If God irresistibly determines every event, including every human choice and every act of sin, then God is the ultimate cause of sin. Calvinist theology denies this charge formally ("God ordains evil but is not the author of evil"; the distinction is between primary and secondary causation), but the denial is technical, not substantive. If a man could not have done otherwise than commit the murder he committed, because God decreed the murder before time and irresistibly worked the desires that produced it through the murderer's will, then God is, on any honest reading, the determining cause. Scripture is clear: (James 1:13): "Let no one say when he is tempted, 'I am being tempted by God,' for God cannot be tempted with evil, and he himself tempts no one." (1 John 1:5): "God is light, and in him is no darkness at all." The system pushes against these texts, and the texts have to give way.
+
+**The Romans 9 question.** Every Calvinist defense returns to Romans 9 as the proof text. "Jacob have I loved, but Esau have I hated" (Romans 9:13). "He has mercy on whomever he wills, and he hardens whomever he wills" (Romans 9:18). The vessels of mercy and the vessels of wrath (Romans 9:22-23). Read Romans 9 carefully and in context. Paul is addressing the question of whether God has been faithful to His promises to Israel given that most of ethnic Israel had rejected the Messiah. His answer is that election to corporate purpose (the line of promise running through Jacob, not Esau, even though Esau was firstborn) is God's prerogative; God is not unjust because the unconditional promise to Abraham was always to a chosen line. The text is not addressing individual eternal destinies; it is addressing the historical question of why ethnic Israel does not appear to be inheriting the messianic promises that ethnic Israel was given.
+
+The "vessels of wrath prepared for destruction" of Romans 9:22 uses a passive participle (*katertismena*) that does not specify the agent. The text does not say "whom God prepared for destruction"; it says "vessels of wrath prepared for destruction." The reader is invited to consider whether they prepared themselves through their own rebellion. Paul moves immediately into Romans 10, where the gospel is offered to "everyone who believes" (10:4), where "everyone who calls on the name of the Lord will be saved" (10:13), where Israel's failure is described as the failure of disobedience (10:21, "all day long I have held out my hands to a disobedient and contrary people"). The same Paul who wrote Romans 9 wrote Romans 10. Reading Romans 9 in isolation to support deterministic election ignores Romans 10's offer, which is universal.
+
+(Matthew 23:37) and (Luke 13:34) are also critical: "O Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!" The Greek is unambiguous: *etheleisa* (I willed) versus *ouk ethelesate* (you were not willing). Christ's will to gather; their will to refuse. Calvinism must redefine this passage, splitting Jesus's revealed will from the Father's decretal will, but the text itself does no such splitting. The Son of God grieves over the city precisely because the gathering He desired was refused by them.
+
+**The essence on character.** A theological system is judged not just by its individual proof texts but by the God it leaves you with. The God of Calvinism, taken in the strict and consistent form (the form Calvin himself defended, the form Edwards preached, the form Sproul taught, the form Piper writes today), is sovereign in a way Scripture affirms but lacks the moral attributes Scripture also insists upon. That God:
+
+- Decrees the eternal damnation of beings He creates, before they have done anything wrong, while claiming to grieve their loss.
+- Commands repentance from people He has determined cannot repent, then judges them for failing to repent.
+- Loves "the world" while limiting the atonement to a fraction of the world, requiring "world" to be redefined.
+- Issues universal invitations through Scripture and preachers while having decreed that most who hear cannot accept.
+- Holds humans morally accountable for choices that, by the system's own logic, were never theirs to make.
+
+Either God is the way Scripture describes Him (just, good, loving, no respecter of persons, not desiring any to perish, calling all to repentance, holding out hands to a willing or unwilling people, weeping over rebellion that grieves Him), or God is the way the strict Calvinist system requires Him to be (sovereign in a way that overrides every other attribute, with His revealed character reduced to a public face that masks the actual decree).
+
+The choice is between believing the words Scripture uses about God's character, or believing a system that requires those words to mean something other than they say. (Numbers 23:19): "God is not man, that he should lie, or a son of man, that he should change his mind." Either His revealed desire that none perish is His actual desire, or it is not. Either He calls all to come, or He does not. Either Christ tasted death for everyone (Hebrews 2:9), or He did not. Either God's love for the world is real, or "world" means something other than world. Calvinism, pressed honestly, must redefine each of these. The redefinition is the heresy.
+
+This is why Calvinism belongs in this document despite affirming the Trinity, the deity of Christ, and the historic gospel. The system does not deny who Jesus is, but it distorts who the Father is. It teaches a God whose moral character cannot be defended on the terms Scripture uses to describe Him. To present this God to the lost is to present a God they may have reason to fear but no clear reason to love, because the love being preached has been redefined past the breaking point of the word.
+
+(1 John 4:19): "We love because he first loved us." His love comes first and is the ground of ours. If His love is not what the word means in human use, our love built upon it has been built on a foundation that has been hollowed out. The gospel needs a God whose love is real love, whose offer is real offer, whose justice is real justice. Calvinism, in its strict form, struggles to provide that God.
 
 ---
 
@@ -375,6 +523,204 @@ When a leader claims fresh revelation that cannot be questioned, the church is n
 **The Sabbath-as-salvation issue:** Adventism teaches that observance of the seventh-day Sabbath (Saturday) is a critical end-times mark of God's true church, and that Sunday worship will be the "mark of the beast" of Revelation 13. This goes beyond simple Sabbath observance (which has biblical warrant; see the Sabbath section in this document) into making Sabbath observance a salvation issue. (Colossians 2:16): "Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath." (Romans 14:5-6): allows liberty on day observance. Making Sabbath observance the dividing line between saved and lost, as some Adventist literature does, contradicts these passages.
 
 **Why it is in Tier Two:** The investigative judgment doctrine has no biblical foundation and was constructed to save a failed prophecy. Ellen White's writings function as a second authority alongside Scripture, even when officially denied. The Sabbath-as-salvation framing distorts the gospel of grace. These are not minor errors. At the same time, Adventists generally affirm the historic gospel, and many are genuine believers. The errors above are serious enough to warrant inclusion here, but the gospel itself is not denied as in Tier One.
+
+---
+
+### New Apostolic Reformation and Modern Apostle Movements
+
+### New Apostolic Reformation (NAR) (1990s-present)
+
+**Also known as:** NAR. New Apostolic Reformation. Apostolic Reformation. Apostolic-Prophetic Movement. Independent Charismatic Movement. Third Wave (the broader 20th-century charismatic stream that produced NAR). Strategic Level Spiritual Warfare (the C. Peter Wagner system). Identificational Repentance. Spiritual Mapping. Seven Mountains Mandate / Seven Mountain Dominion (the dominion-theology framework). Dominionism / Dominion Theology (the broader political-theological project). Seven Mountains of Influence (Loren Cunningham/Bill Bright origin, NAR-coopted). Reconstructionism (overlapping but distinct, more Reformed in origin). Theonomy (overlapping). Joel's Army. The Elijah Generation. The Bride Movement. The "Apostles and Prophets" governance model. Major figures: C. Peter Wagner (the chief theologian and label-coiner; died 2016). Cindy Jacobs. Mike Bickle (International House of Prayer / IHOPKC, Kansas City; significant abuse scandal in 2023-2024). Bill Johnson (Bethel Church, Redding, CA). Kris Vallotton (Bethel). Lou Engle. Lance Wallnau. Ché Ahn (Harvest International Ministry). Dutch Sheets. Chuck Pierce. Patricia King. Bob Jones (the "prophet"). Paul Cain (associated with the Kansas City Prophets; later admitted to alcoholism and homosexuality). Rick Joyner (MorningStar Ministries). Paula White (Trump-affiliated; bridges NAR and Word of Faith). Networks: International Coalition of Apostolic Leaders (ICAL, Wagner's network). Apostolic Council of Prophetic Elders (ACPE). U.S. Reformation Prayer Network. Major institutions: Bethel Church (Redding, CA). International House of Prayer Kansas City (IHOPKC, before the 2023-2024 scandal). The Pohl Network.
+
+**Founder:** No single founder. C. Peter Wagner (1930-2016) coined the term "New Apostolic Reformation" in 1996 and gave the movement its theological architecture, drawing on John Wimber's Vineyard movement, the Toronto Blessing (1994), and the broader Third Wave charismatic stream. Wagner's books *Apostles Today* (2006) and *Dominion!* (2008) are the systematic statements.
+
+**Core teachings:**
+
+- Modern apostles and prophets exist today with authority equivalent to the original Twelve. Their declarations are revelatory and binding.
+- The seven "mountains" of cultural influence (religion, family, education, government, media, arts/entertainment, business) must be brought under Christian dominion before Christ returns. Christ does not return TO defeat evil; He returns AFTER the church defeats evil.
+- "Strategic level spiritual warfare" against named territorial demons over cities, nations, and people groups. This includes "spiritual mapping" of cities and "identificational repentance" for ancestral and corporate sins.
+- "Soaking prayer," "fire tunnels," "prophetic activations," "grave soaking" (lying on the graves of dead Christians to absorb their anointing; documented at Bethel and elsewhere), "glory clouds" (gold dust manifestations), feathers from heaven, jewels appearing.
+- Direct revelation that supplements or even corrects Scripture. "God told me" is treated as authoritative.
+- "Dominion theology" implications for politics, with strong overlap into U.S. Christian nationalist movements since 2016.
+
+**Common phrases to recognize:**
+
+- "Apostolic covering."
+- "Prophetic alignment."
+- "Fresh revelation."
+- "New wine."
+- "The next move of God."
+- "Touch not the Lord's anointed."
+- "Activate your mantle."
+- "Shift the atmosphere."
+- "Take the seven mountains."
+- "Decree and declare."
+- "Open heaven."
+- "Impartation."
+- "Prophetic word."
+
+**Documented harms:**
+
+- Predictions failed in public, then quietly memory-holed. The 2020 election prophecies of Trump's certain re-election by major NAR prophets (Jeremiah Johnson, Kris Vallotton, Kat Kerr, others) failed publicly. Some apologized; many simply moved on.
+- Mike Bickle (IHOPKC founder), 2023-2024: multiple women came forward with credible allegations of long-term sexual abuse spanning decades. IHOPKC's leadership initially defended Bickle and only after public pressure began acknowledging the allegations. The institutional pattern of cover-up parallels other religious abuse scandals.
+- "Bethel sozo" therapy and inner-healing practices that import psychological methods (regression, "memory healing," sometimes adjacent to recovered-memory therapy, which has been substantially discredited) under spiritual labels.
+- Financial concentration in apostolic networks. Wagner's apostolic governance model includes tithing to "spiritual fathers" beyond the local church.
+- Former-member testimony of spiritual manipulation, prophetic word as control mechanism ("thus saith the Lord, you must..."), and shunning of those who leave.
+
+**Why it is heresy:**
+
+- (Ephesians 2:20): The church is "built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone." The foundation is laid; modern "apostles" claiming foundational authority are claiming what the text says is finished.
+- (Jude 3): "the faith that was once for all delivered to the saints." Once for all. Not in continuing installments through new apostles.
+- New revelation that supplements or corrects Scripture: (Revelation 22:18, Proverbs 30:6, Galatians 1:8-9).
+- Failed prophecies: (Deuteronomy 18:22). The 2020 election prophecies alone disqualify the movement's prophetic claims.
+- Dominion theology that says Christ returns AFTER the church conquers culture inverts (Acts 1:11, Matthew 24:30, Revelation 19:11-16). Christ returns to bring His kingdom; the kingdom is not built up to Him.
+- (1 Timothy 6:5): "imagining that godliness is a means of gain." Apostolic networks with prosperity overlap.
+- (Matthew 7:15-20): test by fruit. The Bickle scandal, the Bob Jones scandal (1991, sexually abusive prophetic ministry), the Paul Cain scandal, the Todd Bentley scandal (2008, adultery and substance abuse during a Lakeland "revival"), the Mark Driscoll plagiarism and abusive-leadership scandal, are not isolated. They are a pattern.
+
+**Why it is dangerous:** The New Testament apostles were eyewitnesses of the risen Christ and foundation stones of the church (Ephesians 2:20). That foundation does not get poured again every generation. Modern teachers may preach, pastor, evangelize, and exhort, but they do not hold apostolic authority equal to Scripture.
+
+When a leader claims fresh revelation that cannot be questioned, the church is no longer ruled by Scripture. It is ruled by personality.
+
+**Scriptural correction:**
+
+- The faith was delivered once for all to the saints (Jude 3).
+- Scripture equips the man of God for every good work (2 Timothy 3:16-17).
+- False prophets are tested by whether their words come true (Deuteronomy 18:21-22).
+- Even true spiritual gifts must be tested and judged (1 Corinthians 14:29, 1 Thessalonians 5:20-21).
+- No teacher is above correction (Galatians 2:11-14).
+
+**The answer:** God still leads, convicts, comforts, and gifts His people. But no modern prophet, apostle, dream, vision, mantle, or "word from the Lord" can outrank the written Word of God.
+
+---
+
+### Branhamism / The Message / "Latter Rain" Prophet Movements 
+
+**Also known as:** The Message. The Message of the Hour. William Branham's Message. The End-Time Message. Branhamites (sometimes pejorative). Voice of God Recordings (the primary publishing entity for Branham's sermons). The Bride of Christ (member self-reference, with strong implication that only Branham followers are the true Bride). Bible Believers (a common congregation name). Branham Tabernacle (Jeffersonville, Indiana, the original headquarters). Branham Memorial. Latter Rain Movement (broader 1948 charismatic-prophetic stream that influenced Branham and was influenced by him). New Order of the Latter Rain. Manifest Sons of God doctrine (the heretical sub-current that humans can attain divinity in this life). The "Joel's Army" movement. Closely related and overlapping figures: A.A. Allen, Oral Roberts (in some doctrinal connections), Paul Cain, Bob Jones (the prophet, not the university), William Branham's primary doctrinal heir Lee Vayle. Modern heirs in the New Apostolic Reformation (treated separately) draw heavily on Branham's prophetic claims and revivalist style.
+
+**Founder:** William Marrion Branham (1909-1965), Indiana-based Pentecostal-charismatic preacher. Killed in a head-on car collision in Texas, December 1965. Followers waited for his resurrection for years; some still expect it.
+
+**Core distortions:**
+
+- Branham was the prophesied "Elijah of Malachi 4:5-6" who would restore all things before the second coming of Christ.
+- Branham's spoken sermons are *thus saith the Lord* prophetic utterances on par with Scripture.
+- The "Serpent's Seed" doctrine: Eve's sin in Eden was a literal sexual relationship with the serpent (interpreted as an upright pre-curse being), producing Cain as the literal seed of the serpent. Cain's descendants are racially and spiritually distinct from Adam's. This doctrine has been used to justify racial hierarchies and is rejected as both exegetically baseless and morally corrupt by mainstream Christian scholarship.
+- Modalism / Oneness theology: Branham denied the Trinity in mature teaching, holding that Father, Son, and Spirit are titles of the one Person Jesus.
+- The "seven church ages" framework, identifying himself as the messenger to the seventh age (the Laodicean), the final messenger before Christ's return.
+- "Vindication" by signs: Branham claimed to read minds, identify diseases by gift, and pronounce *thus saith the Lord* over individuals. Some healings appear to have been documented; others were not, and post-mortem investigation by his own former followers found significant fraud and manipulation in his "discernment" sessions.
+
+**Failed prophecies:**
+
+- Branham predicted that by 1977, all denominations would be consumed by the World Council of Churches, the rapture would occur, and the millennium would begin. None of this happened.
+- He predicted the destruction of Los Angeles by earthquake, sliding into the ocean. Did not happen.
+- He predicted specific events tied to women's hair, fashion, and politics that did not occur.
+
+(Deuteronomy 18:22) is direct on failed prophecy. Branham's followers have repeatedly redated and reinterpreted to preserve the system.
+
+**Why it is heresy:**
+
+- Adds a new prophet whose words are equal to Scripture: (Revelation 22:18, Proverbs 30:6). The "thus saith the Lord" claim by Branham over teachings that contradict the apostles makes him a (Galatians 1:8-9) test case.
+- Modalism: same scriptural conflicts as Oneness Pentecostalism (Matthew 3:16-17, John 17, John 14:16, Hebrews 1:8-9).
+- The Serpent's Seed doctrine is exegetically impossible. Genesis 3 nowhere describes sexual contact between Eve and the serpent. The "seed" of Genesis 3:15 is metaphorical/genealogical, the line of redemption versus the line of evil. Cain is explicitly described as Adam's son in (Genesis 4:1, Genesis 5:3).
+- "Manifest Sons of God" theology, where elite believers attain divinity in this life, parallels the Mormon and Word of Faith errors and is forbidden by (Isaiah 43:10, Isaiah 44:6).
+- Failed prophecy is disqualifying. The Watch Tower has the same problem; Branham has the same problem.
+
+---
+
+### Twelve Tribes / Yellow Deli 
+
+**Also known as:** The Twelve Tribes. The Twelve Tribes Communities. Twelve Tribes of Israel (their self-designation, claiming literal descent or grafting). Messianic Communities. Communities of Yahshua (their preferred form of "Yeshua/Jesus"). Their public-facing businesses: Yellow Deli (a chain of cafes, primary recruitment vehicle in college towns and tourist areas). Common Ground Cafe. Common Sense Café. Mate Factor (organic mate tea brand). Common Sense Farm. Various organic farms, construction businesses, cabinet shops, and craft fairs. They have appeared at events like the Rainbow Gatherings and various festivals. International communities in the U.S., Canada, Argentina, Brazil, France, Spain, Germany, England, Australia, and elsewhere.
+
+**Founder:** Elbert Eugene "Gene" Spriggs (1937-2021) and his wife Marsha. Founded in Chattanooga, Tennessee.
+
+**Core teachings:**
+
+- Salvation requires joining a Twelve Tribes community. Outside the community, no salvation. They are the "remnant" being gathered for the end times.
+- Communal property: members surrender all assets upon joining.
+- Strict patriarchal structure. Women submit to husbands; husbands submit to elders. Spriggs's writings include severe statements about women's roles.
+- Corporal punishment of children using thin reed-like rods, beginning very young. This has resulted in child abuse investigations in multiple countries. German authorities in 2013 removed approximately 40 children from the community based on documented abuse.
+- Racial doctrine: Spriggs taught that the curse of Ham makes black people slaves, and that Martin Luther King Jr. was a tool of the devil. These writings are still in their internal materials.
+- Salvation through works: requires complete devotion, communal labor, and obedience to elders. The cross of Christ is necessary but insufficient without entering the community.
+- Anti-modern / anti-secular world: refuses most modern medicine, conventional schooling for children (homeschooled in community-controlled curriculum), much technology selectively.
+
+**Documented harms:**
+
+- Multiple child abuse investigations and removals (Germany 2013, France, U.S. various states).
+- Former-member testimony of psychological manipulation, forced labor, sleep deprivation, restricted communication with outside family.
+- 2001 Department of Labor investigation in the U.S. into child labor in their businesses.
+- Racism in published materials.
+
+**Why it is heresy:**
+
+- Adds requirements beyond faith in Christ for salvation: (Galatians 1:8-9, Ephesians 2:8-9).
+- "Members only" salvation: contradicts (Romans 10:13, Matthew 28:19).
+- (Matthew 18:6): the millstone passage on harming children.
+- Forbids what God permits (medicine, normal property, normal family structure outside community): (1 Timothy 4:1-3).
+- Racial doctrine contradicts (Galatians 3:28, Acts 17:26).
+- Failed prophecy: Spriggs predicted specific timelines for the return of Christ that did not materialize.
+
+---
+
+### Heaven's Gate 
+
+**Also known as:** The Total Overcomers Anonymous. Total Overcomers. The Two (Marshall Applewhite and Bonnie Nettles, the founders, who called themselves "Bo and Peep," "Do and Ti," and other paired names). Human Individual Metamorphosis (HIM, an early name). Higher Source Contract Enterprises (a web design company they ran in their final years; clients included some major Hollywood studios who did not know who their developers were).
+
+**Founders:** Marshall Applewhite (1931-1997) and Bonnie Nettles (1927-1985). Met at a hospital in Houston in 1972; began teaching their UFO-Christian syncretism in 1974.
+
+**Outcome:** On March 26, 1997, 39 members including Applewhite were found dead in a rented mansion in Rancho Santa Fe, California. They had committed mass suicide using phenobarbital and vodka, then placing plastic bags over their heads, in the belief that their souls would be transported to a UFO traveling behind the Hale-Bopp comet. Their bodies were dressed identically in black clothing and Nike Decade sneakers.
+
+**Core teachings:**
+
+- The Bible's references to the kingdom of heaven actually describe an extraterrestrial civilization called "The Evolutionary Level Above Human."
+- Jesus was a member of this higher kingdom, sent in human form to teach the way to ascend.
+- Applewhite and Nettles were the "Two Witnesses" of Revelation 11.
+- The human body is a "vehicle" to be discarded; the soul transfers to a higher form.
+- Earth was about to be "recycled" (destroyed); the only escape was to leave the human body and ascend.
+- The Hale-Bopp comet (visible in March 1997) was accompanied by a UFO that would collect the souls of the faithful.
+
+**Why it is in this list:** Heaven's Gate is the documented end-state of replacing biblical authority with charismatic personal revelation. Applewhite read Christian terminology into his UFO eschatology and his followers died for it. (Matthew 24:23-24): "Then if anyone says to you, 'Look, here is the Christ!' or 'There he is!' do not believe it. For false christs and false prophets will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect." (Acts 1:11): "This Jesus, who was taken up from you into heaven, will come in the same way as you saw him go into heaven." Not by spaceship behind a comet. By bodily return in glory.
+
+The pattern: a charismatic teacher reads Scripture through an external framework (UFO theology), reinterprets every relevant passage to fit, claims a unique status as the appointed messenger, isolates followers from outside testing, and produces death. The same pattern has produced Jonestown, the Branch Davidians at Waco, the Order of the Solar Temple, and others. (1 Thessalonians 5:21): "Test everything; hold fast what is good." The members of Heaven's Gate did not test; they died.
+
+---
+
+### Scientology 
+
+**Also known as:** Church of Scientology. CoS. Scientology religion. Dianetics (the proto-Scientology system from L. Ron Hubbard's 1950 book, before the religion was formally organized). The Hubbard Association of Scientologists International. Sea Org / Sea Organization (the elite "religious order" within Scientology, members sign "billion-year contracts"). Various corporate entities: Religious Technology Center (RTC, holds the trademarks). Church of Scientology International (CSI). Scientology Missions International. Author Services Inc. Bridge Publications. New Era Publications. Front groups designed to recruit without identifying the connection: Narconon (drug rehabilitation; has resulted in deaths and is tied to Scientology's "purification rundown" pseudoscience). Criminon (prison ministry). Applied Scholastics (educational front; uses Hubbard's "Study Tech"). Citizens Commission on Human Rights (CCHR, anti-psychiatry advocacy). The Way to Happiness Foundation. World Institute of Scientology Enterprises (WISE, business networking). Volunteer Ministers (yellow shirts at disasters). Foundation for a Drug-Free World. United for Human Rights. Concerned Businessmen's Association.
+
+**Founder:** L. Ron Hubbard (1911-1986), American science fiction writer who founded Dianetics in 1950 and reorganized it as the Church of Scientology in 1954. Hubbard reportedly told fellow science fiction writer Lloyd Eshbach in 1949, "I'd like to start a religion. That's where the money is." This quote, while disputed by Scientology, is independently attested in writings by George Orwell, Theodore Sturgeon, and others who were in the room. Hubbard died in 1986; David Miscavige has led the Church since 1987.
+
+**Note on placement:** Scientology is not a Christian heresy. It is a 20th-century new religious movement that draws on Eastern, Western, and science-fiction sources without making serious claims to be Christian. I am including it because it operates aggressively in Christian-majority countries, recruits young people including from Christian backgrounds, presents itself in vague spiritual terms that some recruits initially mistake for Christianity-compatible self-improvement, and inflicts well-documented harms.
+
+**Core teachings (the upper-level material, released only after extensive paid courses):**
+
+- 75 million years ago, a galactic dictator named Xenu solved his overpopulation problem by transporting billions of beings to Earth (then called "Teegeeack"), placing them around volcanoes, and detonating hydrogen bombs. Their souls ("thetans") attached to current human bodies and cause psychological problems today.
+- Salvation comes through "auditing" (Scientology's confessional/therapeutic process) using the "E-meter" (a galvanometer device). Each auditing session costs significant money. Reaching the upper levels ("OT levels," operating thetan) costs tens of thousands to hundreds of thousands of dollars over decades.
+- Psychiatry is the absolute enemy and must be destroyed. This is operationalized through CCHR.
+- "Disconnection": members are required to cut all contact with family or friends labeled "suppressive persons" (SPs) by the church, including parents, children, and spouses.
+- "Fair Game" doctrine: Hubbard's 1965 policy that enemies of Scientology "may be deprived of property or injured by any means by any Scientologist without any discipline of the Scientologist. May be tricked, sued or lied to or destroyed." The Church says this policy was canceled in 1968; documentation from former members shows it continued in practice.
+
+**Documented harms:**
+
+- Operation Snow White (1973-1977): the largest infiltration of the U.S. government in American history. Scientology operatives infiltrated the IRS, FBI, DOJ, and other agencies to steal documents about the Church. 11 senior Scientologists, including Hubbard's wife Mary Sue, were convicted and imprisoned. Hubbard was named an unindicted co-conspirator and went into hiding for the rest of his life.
+- Lisa McPherson case (1995): Lisa McPherson, a Scientologist, died in church custody after being held in isolation for 17 days during a "Type III psychotic break." The state of Florida charged the Church with abuse and practicing medicine without a license; the criminal case was dropped after key evidence issues, but the civil suit was settled for an undisclosed amount.
+- Sea Org abuses: documented forced labor, child labor (Hubbard founded the Cadet Org for children), forced abortions for Sea Org members so they could continue working, and the "Rehabilitation Project Force" (RPF), a system of imprisonment, hard labor, and re-indoctrination for Sea Org members deemed disobedient.
+- Disconnection has separated thousands of families. Public figures who left Scientology and were disconnected from family include Leah Remini, Mike Rinder, Marty Rathbun, and many others, all of whom have publicly documented the patterns.
+- Substantial litigation history against journalists, former members, and critics. The "Fair Game" policy in operation.
+- Narconon facilities have been linked to multiple deaths from medical neglect and the "purification rundown" (sauna, niacin megadosing, vitamins).
+
+**Why it is in this list:**
+
+- Scientology is functionally a new religion that purchased the legal status of a religion (1993 IRS settlement after decades of legal warfare). It markets self-improvement, advertises in Christian-leaning language ("a religion for the modern world"), and recruits people away from Christianity, Judaism, and other traditions.
+- It denies the unique deity of Christ (Hubbard taught Jesus was a powerful thetan but not God).
+- It denies the resurrection.
+- It denies sin in any biblical sense; problems are caused by ancient alien trauma, not by human rebellion against a holy God.
+- It replaces salvation through the cross with salvation through paid auditing.
+- Its fruit (Operation Snow White, Sea Org abuses, disconnection of families, deaths in custody, decades of litigation against critics) testifies to its character.
+
+(Matthew 7:15-20): "Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will recognize them by their fruits."
+(Galatians 1:8-9): a different gospel preached by anyone is anathema. Scientology preaches a different gospel; it should be marked.
+
+If you encounter Scientology recruitment, it will likely come through one of the front groups. "Stress test," "personality test," "free communication course," "drug-free world," or volunteer disaster ministry are common entry points. Recognition is the first defense.
 
 ---
 
@@ -453,7 +799,7 @@ The dead do not communicate with the living. What spiritualism contacts, when co
 
 ---
 
-### Oneness Pentecostalism / Modalism
+### Pentecostalism / Modalism
 
 **Also known as:** Oneness Pentecostal. Apostolic Pentecostal. Apostolic Faith. United Pentecostal Church International (UPCI, the largest Oneness body). Pentecostal Assemblies of the World (PAW, the historically Black Oneness body). Bible Way Church. The Apostolic Church. Oneness Apostolic. Jesus Only. Jesus Name. Jesus' Name Pentecostalism. Sabellianism (the historic patristic name, after Sabellius). Modalistic Monarchianism (the technical patristic term). Patripassianism (a sub-variant teaching that the Father suffered on the cross, since Father, Son, and Spirit are the same person). Modalists (general). The "Acts 2:38" people (after the verse they cite for Jesus-name baptism). Some smaller Oneness bodies use names like "True Jesus Church," "First Born Church of the Living God," "Way of the Cross Church of Christ," and various "Apostolic" designations. The Trinitarian Pentecostal denominations (Assemblies of God, Foursquare Gospel, Church of God Cleveland, Pentecostal Holiness Church) are NOT Oneness; only the bodies above are.
 
@@ -628,7 +974,7 @@ Gnosticism offers secret knowledge. The gospel offers public truth. Gnosticism d
 
 ### Hebrew Roots, Sacred Name, and Torah-Observance-as-Salvation Movements
 
-**Also known as:** Hebrew Roots. Torah Observant Christianity. Messianic Torah movement. Sacred Name movement. Yahweh-only movement. Yahshua-only language groups. Two-House theology. Ephraimite movement. Nazarene Israel. Black Hebrew Israelite overlap. Israelite identity movements. Lunar Sabbath groups. Feast-keeping as salvation teaching.
+**Also known as:** Hebrew Roots. Torah Observant Christianity. Messianic Torah movement. Sacred Name movement. Yahweh-only movement. Yahshua-only language groups. Two-House theology. Ephraimite movement. Nazarene Israel. Black Hebrew Israelite overlap. Israelite identity movements. Lunar Sabbath groups. Feast-keeping as salvation teaching. (Not to be confused with biblically-faithful Messianic Judaism.)
 
 **Note:** Jewish believers in Jesus and biblically faithful Messianic congregations are not the target of this critique. The apostles were Jewish. Jesus was Jewish. The Old Testament is Christian Scripture. Learning the Jewish context of the Bible is good. The danger begins when Torah observance becomes a requirement for salvation, a badge of superiority, or a reason to condemn other believers.
 
@@ -638,12 +984,13 @@ Gnosticism offers secret knowledge. The gospel offers public truth. Gnosticism d
 
 - "Jesus is a pagan name."
 - "You must say Yahshua or you are calling on the wrong name."
+- "The name of God has been hidden from you."
 - "The church replaced the Sabbath."
-- "Christmas and Easter are pagan, so Christians who observe them are deceived."
+- "Christmas and Easter are pagan, so Christians who observe them are deceived." (There are Caveats and context see more on syncrotism in historical awareness. Ultimately it's about the heart.)
 - "Paul has been misunderstood."
 - "The law was never abolished."
 - "Real believers keep Torah."
-- "If you eat pork, you are disobeying God."
+- "If you eat pork, you are disobeying God. God's dietary laws were never abolished."
 - "The church is Babylon."
 
 **Why it is dangerous:** It can start with useful biblical context and end in bondage. The believer is slowly moved from Christ's finished work to calendar-keeping, food rules, Hebrew pronunciation, feast observance, and suspicion toward every ordinary Christian church.

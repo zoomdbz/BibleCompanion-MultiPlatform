@@ -63,57 +63,6 @@ Diese Bewegungen leugnen entweder die Gottheit Christi, leugnen die Hinlänglich
 
 ---
 
-### Peoples Temple
-
-**Auch bekannt als:** Peoples Temple of the Disciples of Christ. Peoples Temple Christian Church Full Gospel. Peoples Temple Apostolic Church. Peoples Temple Agricultural Project (der Name der Gemeinde in Guyana). Jonestown (der umgangssprachliche Name für die Siedlung in Guyana). Der ursprüngliche vollständige Unternehmensname bei der Zugehörigkeit zur Denomination der Disciples of Christ war „Peoples Temple of the Disciples of Christ"; die Zugehörigkeit war eine nominelle Tarnung.
-
-**Gründer:** Jim Jones, 1955, ursprünglich in Indianapolis, später San Francisco und Guyana.
-
-**Ergebnis:** Am 18. November 1978 führte Jones 909 Anhänger, darunter 304 Kinder, durch Massenmord-Selbstmord mittels cyanidversetztem Flavor Aid in der Jonestown-Anlage in Guyana in den Tod, nachdem seine Männer den US-Kongressabgeordneten Leo Ryan und vier weitere Personen auf einem nahegelegenen Flugplatz überfallen und getötet hatten. Es war der größte einzelne Tagesverlust an amerikanischen Zivilisten bis zum 11. September 2001.
-
-**Lehrliche Entwicklung:** Jones begann als nomineller Pfingstprediger und ersetzte das biblische Christentum schrittweise durch das, was er „Apostolischen Sozialismus" nannte. In den 1970er Jahren leugnete er offen die Bibel, leugnete einen persönlichen Gott und präsentierte sich als Reinkarnation von Jesus, Buddha, Lenin und anderen. Das „Christentum" des Peoples Temple war eine Fassade für einen Personenkult, der die Schrift vollständig aufgegeben hatte.
-
-**Warum es in dieser Liste steht:** Peoples Temple ist die historische Erinnerung daran, wohin charismatische Führung ohne schriftliche Rechenschaftspflicht führt. (Matthäus 7:15-20): „Hütet euch vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber reißende Wölfe sind; an ihren Früchten werdet ihr sie erkennen."
-
----
-
-### The Family International
-
-**Auch bekannt als:** TFI. Children of God (der ursprüngliche Name, 1968-1978). Family of Love (1978-1982). The Family (1982-2004). The Family International (2004-heute). Music with Meaning. Heaven's Magic. The Childcare Action Project (eine frühe Tarnorganisation). Die „Mo Letters" oder „Mo Books" sind die Schriften des Gründers David Berg, oft als eigenständige Traktate verteilt. Unterorganisationen und angeschlossene Ausreichungsnamen umfassten Activated Ministries, Aurora Production AG sowie verschiedene lokale Wohltätigkeitsnamen nach dem Muster „Family Care" oder „Family Help".
-
-**Gründer:** David Berg („Moses David", „Father David", „Mo", „King David"), 1968 in Huntington Beach, Kalifornien.
-
-**Kerndistorsionen:** Sexualisierung der Evangelisation; sexueller Missbrauch zwischen Erwachsenen und, dokumentiert, von Erwachsenen an Minderjährigen; apokalyptischer Kommunalismus.
-
-**Dokumentierte Missbräuche:**
-
-- „Flirty Fishing" (1974-1987): Weibliche Mitglieder wurden angewiesen, sexuelle Verführung einzusetzen, um Bekehrte zu gewinnen. Bergs veröffentlichte „Mo Letters" wiesen dies ausdrücklich an. Die gruppeninternen Aufzeichnungen berichten von über 100.000 Männern, die auf diese Weise „gewonnen" wurden.
-- Sexueller Kindesmissbrauch: Mehrere Regierungsuntersuchungen (Vereinigtes Königreich, Argentinien, Frankreich, Australien) sowie die Aussagen von Hunderten ehemaliger Mitglieder, die in der Gruppe aufgewachsen sind, dokumentieren weit verbreiteten Missbrauch von Kindern. Bergs eigene Schriften („The Story of Davidito", 1982) sexualisierten Minderjährige. Ein Urteil des UK High Court von 1995 (Ward J., re ST) stellte fest, dass die Gruppe „sexuelle Aktivitäten mit Kindern gefördert und betrieben hat".
-- Suizide von in der Gruppe aufgewachsenen Kindern: Ricky Rodriguez („Davidito"), der Gegenstand von Bergs Schriften, tötete 2005 seine frühere Kindfrau und danach sich selbst. Mehrere weitere Suizide von in TFI aufgewachsenen Kindern sind dokumentiert.
-
-**Warum es Häresie ist:** Jenseits doktrinärer Irrtümer verletzt die dokumentierte sexuelle Ausbeutung von Kindern (Matthäus 18,6): „Wer aber einen dieser Kleinen, die an mich glauben, zum Sündigen verführt, für den wäre es besser, dass ein Mühlstein an seinen Hals gehängt und er in die Tiefe des Meeres versenkt würde." (1. Timotheus 4,1-3) beschreibt „Lehren von Dämonen", die von solchen verbreitet werden, deren Gewissen abgestumpft ist. The Family International ist eines der deutlichsten modernen Beispiele.
-
----
-
-### Iglesia ni Cristo (INC)
-
-**Auch bekannt als:** Church of Christ (englische Übersetzung; nicht zu verwechseln mit der Restoration Movement Church of Christ-Denomination, die nicht verwandt und biblisch trinitarisch ist). INC 1914. Iglesia ni Cristo - Manalo Movement. The Locale (Mitgliederausdruck für eine Gemeinde). New Era University (ihr Bildungsarm). Eagle Broadcasting Corporation und INC Media (ihre Medienarme). The Sanggunian (Leitungsrat).
-
-**Gründer:** Felix Y. Manalo, beim philippinischen Staat registriert im Jahr 1914. Nachfolger war sein Sohn Erano G. Manalo (1963-2009) und Enkel Eduardo V. Manalo (2009-heute).
-
-**Kernanspruch:** Die ursprüngliche christliche Kirche fiel nach dem apostolischen Zeitalter ab und wurde allein durch Felix Manalo wiederhergestellt, den die INC als den Engel aus dem Osten in Offenbarung 7,2 identifiziert. Die INC ist die einzig wahre Kirche; die Erlösung setzt die Mitgliedschaft voraus.
-
-**Spezifische Lehren:**
-
-- Jesus ist nicht Gott; er ist ein von Gott besonders erwählter Mensch.
-- Der Heilige Geist ist keine Person, sondern eine Kraft.
-- Die Erlösung setzt die Mitgliedschaft in der INC voraus. Alle anderen christlichen Konfessionen lehren Falschheit und führen zur Verdammnis.
-- Mitglieder sind verpflichtet, bei philippinischen Wahlen geschlossen abzustimmen, gelenkt durch die INC-Führung. Dies ist eine formal durchgesetzte Praxis und eine anerkannte politische Kraft auf den Philippinen.
-
-**Warum es Häresie ist:** Dieselbe christologische Leugnung wie beim Arianismus und den Zeugen Jehovas (Johannes 1,1; Johannes 20,28; Kolosser 2,9). Der „restaurationistische" Anspruch, dass das Evangelium zwischen den Aposteln und dem Gründer verlorengegangen sei, wird durch das ununterbrochene Zeugnis christlicher Märtyrer, Handschriften und Schriften ab dem zweiten Jahrhundert widerlegt. (Matthäus 16,18): „Ich werde meine Gemeinde bauen, und die Pforten der Hölle werden sie nicht überwältigen."
-
----
-
 ### Zeugen Jehovas / Watch Tower Bible and Tract Society
 
 **Auch bekannt als:** JW. JWs. Witnesses. Russellites (früher Name, nach Gründer Charles Taze Russell). Bible Students (der Name vor 1931). International Bible Students Association (IBSA). Watch Tower Bible and Tract Society of Pennsylvania (die rechtliche Körperschaft). Watchtower Bible and Tract Society of New York. Christian Congregation of Jehovah's Witnesses. The Governing Body (der achtköpfige Führungsrat mit Sitz in Warwick, NY). Kingdom Hall (ihre Bezeichnung für den Versammlungsort). Die Zeitschriften Der Wachtturm und Erwachet! sind ihre Leitpublikationen. *jw.org* ist die offizielle Webpräsenz.
@@ -180,6 +129,57 @@ Diese Bewegungen leugnen entweder die Gottheit Christi, leugnen die Hinlänglich
 
 ---
 
+### Peoples Temple
+
+**Auch bekannt als:** Peoples Temple of the Disciples of Christ. Peoples Temple Christian Church Full Gospel. Peoples Temple Apostolic Church. Peoples Temple Agricultural Project (der Name der Gemeinde in Guyana). Jonestown (der umgangssprachliche Name für die Siedlung in Guyana). Der ursprüngliche vollständige Unternehmensname bei der Zugehörigkeit zur Denomination der Disciples of Christ war „Peoples Temple of the Disciples of Christ"; die Zugehörigkeit war eine nominelle Tarnung.
+
+**Gründer:** Jim Jones, 1955, ursprünglich in Indianapolis, später San Francisco und Guyana.
+
+**Ergebnis:** Am 18. November 1978 führte Jones 909 Anhänger, darunter 304 Kinder, durch Massenmord-Selbstmord mittels cyanidversetztem Flavor Aid in der Jonestown-Anlage in Guyana in den Tod, nachdem seine Männer den US-Kongressabgeordneten Leo Ryan und vier weitere Personen auf einem nahegelegenen Flugplatz überfallen und getötet hatten. Es war der größte einzelne Tagesverlust an amerikanischen Zivilisten bis zum 11. September 2001.
+
+**Lehrliche Entwicklung:** Jones begann als nomineller Pfingstprediger und ersetzte das biblische Christentum schrittweise durch das, was er „Apostolischen Sozialismus" nannte. In den 1970er Jahren leugnete er offen die Bibel, leugnete einen persönlichen Gott und präsentierte sich als Reinkarnation von Jesus, Buddha, Lenin und anderen. Das „Christentum" des Peoples Temple war eine Fassade für einen Personenkult, der die Schrift vollständig aufgegeben hatte.
+
+**Warum es in dieser Liste steht:** Peoples Temple ist die historische Erinnerung daran, wohin charismatische Führung ohne schriftliche Rechenschaftspflicht führt. (Matthäus 7:15-20): „Hütet euch vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber reißende Wölfe sind; an ihren Früchten werdet ihr sie erkennen."
+
+---
+
+### The Family International
+
+**Auch bekannt als:** TFI. Children of God (der ursprüngliche Name, 1968-1978). Family of Love (1978-1982). The Family (1982-2004). The Family International (2004-heute). Music with Meaning. Heaven's Magic. The Childcare Action Project (eine frühe Tarnorganisation). Die „Mo Letters" oder „Mo Books" sind die Schriften des Gründers David Berg, oft als eigenständige Traktate verteilt. Unterorganisationen und angeschlossene Ausreichungsnamen umfassten Activated Ministries, Aurora Production AG sowie verschiedene lokale Wohltätigkeitsnamen nach dem Muster „Family Care" oder „Family Help".
+
+**Gründer:** David Berg („Moses David", „Father David", „Mo", „King David"), 1968 in Huntington Beach, Kalifornien.
+
+**Kerndistorsionen:** Sexualisierung der Evangelisation; sexueller Missbrauch zwischen Erwachsenen und, dokumentiert, von Erwachsenen an Minderjährigen; apokalyptischer Kommunalismus.
+
+**Dokumentierte Missbräuche:**
+
+- „Flirty Fishing" (1974-1987): Weibliche Mitglieder wurden angewiesen, sexuelle Verführung einzusetzen, um Bekehrte zu gewinnen. Bergs veröffentlichte „Mo Letters" wiesen dies ausdrücklich an. Die gruppeninternen Aufzeichnungen berichten von über 100.000 Männern, die auf diese Weise „gewonnen" wurden.
+- Sexueller Kindesmissbrauch: Mehrere Regierungsuntersuchungen (Vereinigtes Königreich, Argentinien, Frankreich, Australien) sowie die Aussagen von Hunderten ehemaliger Mitglieder, die in der Gruppe aufgewachsen sind, dokumentieren weit verbreiteten Missbrauch von Kindern. Bergs eigene Schriften („The Story of Davidito", 1982) sexualisierten Minderjährige. Ein Urteil des UK High Court von 1995 (Ward J., re ST) stellte fest, dass die Gruppe „sexuelle Aktivitäten mit Kindern gefördert und betrieben hat".
+- Suizide von in der Gruppe aufgewachsenen Kindern: Ricky Rodriguez („Davidito"), der Gegenstand von Bergs Schriften, tötete 2005 seine frühere Kindfrau und danach sich selbst. Mehrere weitere Suizide von in TFI aufgewachsenen Kindern sind dokumentiert.
+
+**Warum es Häresie ist:** Jenseits doktrinärer Irrtümer verletzt die dokumentierte sexuelle Ausbeutung von Kindern (Matthäus 18,6): „Wer aber einen dieser Kleinen, die an mich glauben, zum Sündigen verführt, für den wäre es besser, dass ein Mühlstein an seinen Hals gehängt und er in die Tiefe des Meeres versenkt würde." (1. Timotheus 4,1-3) beschreibt „Lehren von Dämonen", die von solchen verbreitet werden, deren Gewissen abgestumpft ist. The Family International ist eines der deutlichsten modernen Beispiele.
+
+---
+
+### Iglesia ni Cristo (INC)
+
+**Auch bekannt als:** Church of Christ (englische Übersetzung; nicht zu verwechseln mit der Restoration Movement Church of Christ-Denomination, die nicht verwandt und biblisch trinitarisch ist). INC 1914. Iglesia ni Cristo - Manalo Movement. The Locale (Mitgliederausdruck für eine Gemeinde). New Era University (ihr Bildungsarm). Eagle Broadcasting Corporation und INC Media (ihre Medienarme). The Sanggunian (Leitungsrat).
+
+**Gründer:** Felix Y. Manalo, beim philippinischen Staat registriert im Jahr 1914. Nachfolger war sein Sohn Erano G. Manalo (1963-2009) und Enkel Eduardo V. Manalo (2009-heute).
+
+**Kernanspruch:** Die ursprüngliche christliche Kirche fiel nach dem apostolischen Zeitalter ab und wurde allein durch Felix Manalo wiederhergestellt, den die INC als den Engel aus dem Osten in Offenbarung 7,2 identifiziert. Die INC ist die einzig wahre Kirche; die Erlösung setzt die Mitgliedschaft voraus.
+
+**Spezifische Lehren:**
+
+- Jesus ist nicht Gott; er ist ein von Gott besonders erwählter Mensch.
+- Der Heilige Geist ist keine Person, sondern eine Kraft.
+- Die Erlösung setzt die Mitgliedschaft in der INC voraus. Alle anderen christlichen Konfessionen lehren Falschheit und führen zur Verdammnis.
+- Mitglieder sind verpflichtet, bei philippinischen Wahlen geschlossen abzustimmen, gelenkt durch die INC-Führung. Dies ist eine formal durchgesetzte Praxis und eine anerkannte politische Kraft auf den Philippinen.
+
+**Warum es Häresie ist:** Dieselbe christologische Leugnung wie beim Arianismus und den Zeugen Jehovas (Johannes 1,1; Johannes 20,28; Kolosser 2,9). Der „restaurationistische" Anspruch, dass das Evangelium zwischen den Aposteln und dem Gründer verlorengegangen sei, wird durch das ununterbrochene Zeugnis christlicher Märtyrer, Handschriften und Schriften ab dem zweiten Jahrhundert widerlegt. (Matthäus 16,18): „Ich werde meine Gemeinde bauen, und die Pforten der Hölle werden sie nicht überwältigen."
+
+---
+
 ### Arianismus
 
 **Auch bekannt als:** Arianisches Christentum. Anti-Nizänische Theologie. Subordinationismus (in milderen Formen). Semi-Arianismus (Homoiousianismus: der Sohn ist "ähnlicher Substanz" statt "gleicher Substanz"). Eunomianismus (nach Eunomius, einem extremen Arianer). Die "homoische" Position (der Sohn ist dem Vater "ähnlich"). Moderne Nachfolger in dieser Liste (Zeugen Jehovas, Iglesia ni Cristo, Christadelphianer, einige unitarische Gruppen) bewahren die arianische Christologie unter verschiedenen Organisationsnamen.
@@ -235,92 +235,115 @@ Das Griechische und Hebräische tragen diese Umdeutungen nicht. *Arsenokoitai* (
 
 ---
 
-### Wohlstandsevangelium und Word-of-Faith-Bewegung
+### Wohlstandsevangelium und die Word of Faith-Bewegung
 
-**Auch bekannt als:** Word of Faith. Word-Faith. WoF. Health-and-Wealth Gospel. Name-It-and-Claim-It. Positive Confession. Faith Movement. Seed-Faith (Terminologie von Oral Roberts). Hour of Power (Sendungsgeschlecht von Robert Schuller, weichere Variante). Die „Latter Rain"-Bewegung (überschneidend). New Apostolic Reformation (NAR, das Netzwerk von C. Peter Wagner, stark überschneidend). Die Bethel-Bewegung (Bill Johnson, Bethel Church in Redding, CA). Hillsong (australische Megakirche mit wohlstandsnaher Theologie). Lakewood Church (Joel Osteen). Without Walls International Church. Trinity Broadcasting Network (TBN, das primäre Sendungsmedium der Bewegung).
+**Auch bekannt als:** Word of Faith. Word-Faith. WoF. Gesundheits-und-Wohlstands-Evangelium. Name-It-and-Claim-It. Positives Bekenntnis. Glaubensbewegung. Seed-Faith (Oral Roberts' Terminologie). Hour of Power (Robert Schullers Sendungsreihe, eine mildere Variante). Die "Latter Rain"-Bewegung (überschneidend). Neue Apostolische Reformation (NAR, das C. Peter Wagner-Netzwerk, stark überschneidend). Die Bethel-Bewegung (Bill Johnson, Bethel Church in Redding, CA). Hillsong (australische Megakirche mit wohlstandsnaher Theologie). Lakewood Church (Joel Osteen). Without Walls International Church. Trinity Broadcasting Network (TBN, das primäre Sendungsmedium der Bewegung).
 
-**Gründer/Verbreiter:** E.W. Kenyon (grundlegende frühe Figur). Kenneth Hagin. Kenneth Copeland. Oral Roberts. Benny Hinn. Joel Osteen. Creflo Dollar. Paula White. Joyce Meyer. T.D. Jakes (mit Vorbehalten; schwerer einzuordnen). Jesse Duplantis. Eddie Long. Bill Johnson. Heidi und Rolland Baker. Reinhard Bonnke (stärker evangelistisch, vom Word of Faith beeinflusst).
+**Gründer/Popularisierer:** E.W. Kenyon (grundlegende frühe Figur). Kenneth Hagin. Kenneth Copeland. Oral Roberts. Benny Hinn. Joel Osteen. Creflo Dollar. Paula White. Joyce Meyer. T.D. Jakes (mit Vorbehalten; schwer zu kategorisieren). Jesse Duplantis. Eddie Long. Bill Johnson. Heidi und Rolland Baker. Reinhard Bonnke (eher evangelistisch, mit Word-of-Faith-Einfluss).
 
-**Kernlehre:** Gott will, dass jeder Gläubige reich und gesund ist. Ausreichender Glaube (oder ausreichende Saat-Opfer an ein Ministerium) garantiert diese Ergebnisse. Krankheit und Armut sind Zeichen unzureichenden Glaubens. Wenn jemand krank, arm, ängstlich, unfruchtbar, depressiv oder leidend ist, wird die Schuld häufig auf schwachen Glauben, negative Rede, verborgene Sünde, Generationsflüche oder das Versäumnis gegeben, Geld in das richtige Ministerium zu säen.
+**Große Netzwerke und Institutionen:**
 
-Das ist kein biblischer Glaube. Es ist getaufter Habgier.
+- Trinity Broadcasting Network (TBN): das größte christliche Sendernetzwerk der Welt; primäres Sendemedium für Word of Faith-Prediger seit der Gründung durch die Crouches im Jahr 1973.
+- Daystar Television Network: gegründet von Marcus und Joni Lamb, zweitgrößtes christliches Netzwerk, ähnliche Wohlstandsorientierung.
+- The Word Network: wohlstandslastige Programmgestaltung für schwarze Zuschauer.
+- Inspiration Network (INSP): historisch wohlstandsorientiert.
+- Christian Broadcasting Network (CBN, Pat Robertson): weniger aggressive Wohlstandslehre, aber angrenzend in Sachen "Seed-Faith"-Gaben.
+- Kenneth Copeland Ministries (KCM): Eagle Mountain International Church, Newark, Texas. Hauptsitz des Copeland-Imperiums, einschließlich einer privaten Landebahn und mehrerer Flugzeuge.
+- Joel Osteen Ministries / Lakewood Church (Houston): die größte Kirche Amerikas nach Besucherzahl, verpackt als sanfter Wohlstand ("Your Best Life Now").
+- Creflo Dollar Ministries / World Changers Church International (College Park, Georgia).
+- Jesse Duplantis Ministries (Destrehan, Louisiana). Bekannt dafür, 2018 Spender um die Finanzierung eines 54 Millionen Dollar teuren Dassault Falcon 7X-Jets gebeten zu haben.
+- Joyce Meyer Ministries (Fenton, Missouri).
+- Benny Hinn Ministries: jetzt umbenannt in Benny Hinn Ministries International nach Hinns teilweisem Widerruf seiner früheren Lehren im Jahr 2019, der inkonsistent geblieben ist.
+- Hillsong Church (Australien, mit weltweiten Standorten): eher wohlstandsangrenzend als vollständig Word of Faith, aber mit ausreichend Überschneidungen. Gegründet von Brian Houston, der 2022 nach mehreren Skandalen zurücktrat; das globale Netzwerk befindet sich in einer anhaltenden Führungskrise.
+- Bethel Church (Redding, Kalifornien): Bill Johnson und Kris Vallotton; verbindet Word of Faith mit der prophetisch-revivalistischen Theologie der Neuen Apostolischen Reformation.
+- Morningstar Ministries (Rick Joyner): prophetisch-charismatisch mit Wohlstandsüberschneidungen.
+- Gloria Copeland (Kenneths Ehefrau): bekannt für die Aussage von 2018, dass Grippeimpfungen unnötig seien, weil Gläubige bereits "von der Grippe erlöst" seien - während einer Grippesaison, die 80.000 Amerikaner tötete.
+- Paula White-Cain: Geistliche Beraterin des Weißen Hauses 2017-2021, Glaubensberaterin 2025, vollständig Word of Faith.
 
-**Warum es Häresie ist:** Es behandelt Gott wie einen Automaten. Es beutet arme und verzweifelte Menschen aus. Es widerspricht jedem biblischen Text über das Leiden (Römer 5:3-5, Jakobus 1:2-4, 1. Petrus 4:12-13, 2. Korinther 12:7-10). Es widerspricht dem Beispiel jedes Apostels; alle starben arm und die meisten eines gewaltsamen Todes. Es bringt Ministerien mit Privatjets hervor, während deren Geber in Armut leben. (1. Timotheus 6:5): „die meinen, die Gottseligkeit sei ein Mittel zum Gewinn."
+Das Muster: steuerbefreite religiöse Organisationen mit Privatflugzeugen, Ranches, Seevillas und siebenstelligen Pfarrerszulagen, finanziert durch Spenden von Gemeindemitgliedern aus der Arbeiter- und Unterschicht, die "Seed-Faith"-Opfergaben geben und wundersame Gegenleistungen erwarten.
 
-**Häufige Erkennungsphrasen:**
+**Kernlehre:** Gott möchte, dass jeder Gläubige wohlhabend und gesund ist. Ausreichender Glaube (oder ausreichende Seed-Faith-Opfergaben an ein Ministerium) garantiert diese Ergebnisse. Krankheit und Armut sind Zeichen unzureichenden Glaubens. Wenn jemand krank, arm, ängstlich, unfruchtbar, depressiv oder leidend ist, wird die Schuld oft auf schwachen Glauben, negative Aussagen, verborgene Sünde, Generationsflüche oder mangelnde finanzielle Aussaat beim richtigen Ministerium geschoben.
 
-- „Sä eine Saat."
-- „Benenne es und beanspruche es."
-- „Sprich es ins Dasein."
-- „Deine Worte erschaffen deine Wirklichkeit."
-- „Du blockierst deinen Segen."
-- „Du musst dein Wunder aktivieren."
-- „Geld kommt zu dir."
-- „Gott will dich reich."
-- „Armut ist ein Fluch."
-- „Krankheit ist niemals Gottes Wille."
-- „Wenn du genug Glauben hättest, würdest du geheilt sein."
-- „Taste nicht den Gesalbten des Herrn an."
-- „Der Reichtum der Gottlosen ist für die Gerechten aufbewahrt."
-- „Gib deine beste Saat für deinen Durchbruch."
+Das ist kein biblischer Glaube. Es ist getaufter Geiz.
 
-**Schriftgemäße Korrektur:**
-
-- Jesus hatte keinen Ort, wo er sein Haupt hinlegen konnte (Matthäus 8:20).
-- Die Apostel wurden geschlagen, gefangengesetzt, waren hungrig, arm und wurden getötet (1. Korinther 4:9-13, 2. Korinther 11:23-28).
-- Paulus lernte, in Überfluss und Not zufrieden zu sein (Philipper 4:11-13).
-- Gottseligkeit ist kein Mittel zum Gewinn (1. Timotheus 6:5).
-- Die Liebe zum Geld ist eine Wurzel aller Arten von Übel (1. Timotheus 6:10).
-- Jesus warnte davor, dass Reichtum das Wort ersticken kann (Markus 4:19).
-- Christen wird Leiden verheißen, kein Luxus (Johannes 16:33, 2. Timotheus 3:12).
-- Paulus wurde nach dreimaligem Beten nicht geheilt; Gottes Gnade war genug (2. Korinther 12:7-10).
-
-**Warum es gefährlich ist:** Wohlstandspredigt beutet Verzweifelte aus. Die Kranken geben Geld, weil sie Heilung wollen. Die Armen geben Geld, weil sie Versorgung wollen. Die Trauernden geben Geld, weil sie Hoffnung wollen. Wenn das Wunder dann ausbleibt, behält der Prediger das Geld; das Opfer behält die Scham.
-
-Deshalb spricht die Schrift so scharf über habgierige Lehrer. (2. Petrus 2:3): „Und in ihrer Habgier werden sie euch mit erdichteten Worten ausbeuten."
-
-**Die Antwort:** Biblisches Geben ist Gottesdienst, kein Spielautomat. Biblischer Glaube vertraut Gott auch dann, wenn Heilung ausbleibt. Biblischer Segen kann Versorgung einschließen; er macht Christus jedoch niemals zum Diener menschlicher Begierde. Das wahre Evangelium sagt: Christus ist genug in Armut, Krankheit, Leiden, Gefängnis, Schwachheit und Tod. Jeder Prediger, der dieses Evangelium nicht in einem Krankenzimmer, einer Gefängniszelle und an einem Grab predigen kann, predigt nicht das Evangelium Jesu Christi.
-
----
-
-### New Apostolic Reformation und moderne Apostelbewegungen
-
-**Auch bekannt als:** NAR. Apostolisch-prophetische Bewegung. Wiederherstellung des fünffältigen Dienstes. Moderne Apostel und Propheten. Kingdom Now. Dominionstheologie. Seven Mountain Mandate. Apostolische Abdeckung. Prophetische Ausrichtung. Bethel-Bewegung (überschneidend). IHOPKC (überschneidend). Wagner-Bewegung. Zeichen-und-Wunder-Bewegung. Dritte-Welle-charismatische Bewegung.
-
-**Kernlehre:** Gott stellt angeblich regierende Apostel und Propheten wieder her, um die endzeitliche Kirche zu leiten. Diese Leiter beanspruchen besondere Autorität, frische Offenbarung, prophetische Einsicht, übernatürliche Übertragung und strategische Herrschaft über die Kultur.
+**Warum es Ketzerei ist:** Es behandelt Gott wie einen Automaten. Es beutet arme und verzweifelte Menschen aus. Es widerspricht jedem biblischen Text über Leiden (Römer 5,3-5; Jakobus 1,2-4; 1. Petrus 4,12-13; 2. Korinther 12,7-10). Es widerspricht dem Beispiel jedes Apostels, von denen alle arm starben und die meisten gewaltsam. Es erzeugt Ministerien mit Privatjets, während deren Spender in Armut leben. (1. Timotheus 6,5): "die meinen, Gottseligkeit sei ein Mittel zum Erwerb."
 
 **Häufige Erkennungsphrasen:**
 
-- „Apostolische Abdeckung."
-- „Prophetische Ausrichtung."
-- „Frische Offenbarung."
-- „Neuer Wein."
-- „Die nächste Bewegung Gottes."
-- „Taste nicht den Gesalbten des Herrn an."
-- „Aktiviere deinen Mantel."
-- „Verändere die Atmosphäre."
-- „Nimm die sieben Berge ein."
-- „Dekretiere und erkläre."
-- „Offener Himmel."
-- „Übertragung."
-- „Prophetisches Wort."
+- "Sä einen Samen."
+- "Nenn es und beanspruche es."
+- "Sprich es ins Dasein."
+- "Deine Worte erschaffen deine Wirklichkeit."
+- "Du blockierst deinen Segen."
+- "Du musst dein Wunder aktivieren."
+- "Geld kommt zu dir."
+- "Gott will dich reich."
+- "Armut ist ein Fluch."
+- "Krankheit ist nie Gottes Wille."
+- "Wenn du genug Glauben hättest, wärst du geheilt."
+- "Taste nicht den Gesalbten des Herrn an."
+- "Der Reichtum der Gottlosen ist für die Gerechten aufgespart."
+- "Gib deinen besten Samen für deinen Durchbruch."
 
-**Warum es gefährlich ist:** Die neutestamentlichen Apostel waren Augenzeugen des auferstandenen Christus und Grundsteine der Kirche (Epheser 2:20). Dieses Fundament wird nicht jede Generation neu gegossen. Moderne Lehrer können predigen, seelsorgerlich tätig sein, evangelisieren und ermahnen; sie besitzen jedoch keine apostolische Autorität, die der Schrift gleichwertig ist.
+**Zu erkennende Manipulationsmuster:**
 
-Wenn ein Leiter frische Offenbarung beansprucht, die nicht hinterfragt werden darf, wird die Kirche nicht mehr von der Schrift regiert. Sie wird von einer Persönlichkeit regiert.
+Die obigen Phrasen identifizieren die Lehre. Die unten beschriebenen Muster identifizieren die Manipulation. Ein Lehrer muss keine der obigen Phrasen verwenden und trotzdem dasselbe Drehbuch abarbeiten.
 
-**Schriftgemäße Korrektur:**
+- **Öffentlicher Druck zum Säen:** "Steh auf, wenn du jetzt sofort 1.000 Dollar geben kannst." "Ich sehe sieben Menschen, die Gott beruft, 5.000 Dollar zu geben." "Es gibt einen hundertfachen Segen für jene, die heute in dieses Ministerium säen." Gezieltes öffentliches Werben, das Geben zur Schaustellung macht und Ablehnung zur Bloßstellung.
+- **Krisengebundene Appelle:** "Sä in dieses Ministerium, um den Geist des Krebses von deiner Familie zu brechen." "Pflanze einen 500-Dollar-Samen für deine Ehe." Das Verknüpfen spezifischer Geldbeträge mit spezifischen verzweifelten Ergebnissen.
+- **Glauben-Schuld bei Misserfolg:** Wenn das erbetene Ergebnis ausbleibt, liegt der Fehler beim Geber, nicht beim Lehrer. "Du hast Zweifel freigesetzt." "Es gab Unvergebung in deinem Herzen." "Du hast nicht deinen besten Samen gegeben." Das System ist unwiderlegbar, weil jedes gescheiterte Versprechen zur Schuld des Opfers wird.
+- **Erstlingsfrüchte / Zehnter als Investition:** "Wenn du deinen vollen Zehnten bringst, ist Gott verpflichtet, dich zu segnen." "Prüfe Gott darin." Das Behandeln von Maleachi 3,10 als Vertrag, den Gott unterschrieben hat.
+- **Immunität des Gesalbten:** "Taste nicht den Gesalbten des Herrn an." "Rede nicht Böses über den Mann Gottes." Wird verwendet, um jede Prüfung der Finanzen, Lehre oder des Verhaltens des Lehrers abzuwehren. Die Lehre stammt aus Psalm 105,15 und 1. Samuel 24,6 und ist völlig falsch angewandt; diese Passagen verbieten Gewalt gegen gesalbte Führungspersonen, nicht die ehrliche Beurteilung ihrer Lehre, die die Schrift gebietet (1. Thessalonicher 5,21; Apostelgeschichte 17,11; 1. Timotheus 5,20).
+- **Brechen von Generationsflüchen:** "Es liegt ein Fluch auf deiner Familie, den nur dieser Samen brechen kann." "Die Sünde deines Urgroßvaters blockiert deinen Segen." Appelle an vage Ahnenschuld, die nur durch Geben und nicht durch Buße getilgt werden kann.
+- **Prophetisches Wort als Transaktion:** "Ich habe ein Wort für dich, aber Gott sagte mir, du musst zuerst einen Samen freigeben." Prophetie verkaufen.
+- **Persönlicher Zugang käuflich:** "Werde Partner im Bund auf der 1.000-Dollar-Monatsstufe für persönlichen Zugang zu meiner Salbung." Gestufte Mitgliedschaft in der Erlösung.
+- **Lebensstil als Beweis der Theologie:** "Schau auf die Autos, die ich fahre. Schau auf die Flugzeuge, die ich fliege. Das ist, was Gott für dich tun wird, wenn du Glauben hast." Der Reichtum des Lehrers wird als Beweis präsentiert, dass die Lehre funktioniert, obwohl er eigentlich Beweis ist, dass das Nehmen von Geld von Armen als Geschäftsmodell funktioniert.
 
-- Der Glaube wurde den Heiligen ein für alle Mal überliefert (Judas 3).
-- Die Schrift rüstet den Gottesmann zu jedem guten Werk aus (2. Timotheus 3:16-17).
-- Falsche Propheten werden daran geprüft, ob ihre Worte in Erfüllung gehen (5. Mose 18:21-22).
-- Selbst echte Geistesgaben müssen geprüft und beurteilt werden (1. Korinther 14:29, 1. Thessalonicher 5:20-21).
-- Kein Lehrer steht über der Korrektur (Galater 2:11-14).
+Wenn du diese Muster siehst, siehst du nicht apostolisches Christentum. (1. Petrus 5,2-3): "Weidet die Herde Gottes, die euch anvertraut ist, und habt Aufsicht über sie, nicht gezwungen, sondern freiwillig, wie es Gott wohlgefällt; nicht aus schändlicher Gewinnsucht, sondern mit Bereitwilligkeit; nicht als Herrscher über die Gemeinden, sondern als Vorbilder der Herde."
 
-**Die Antwort:** Gott leitet, überführt, tröstet und begabt sein Volk weiterhin. Aber kein moderner Prophet, Apostel, Traum, Vision, Mantel oder „Wort vom Herrn" kann das geschriebene Wort Gottes überbieten.
+**Schriftliche Korrektur:**
+
+- Jesus hatte keinen Ort, sein Haupt hinzulegen (Matthäus 8,20).
+- Die Apostel wurden geschlagen, eingesperrt, litten Hunger, waren arm und wurden getötet (1. Korinther 4,9-13; 2. Korinther 11,23-28).
+- Paulus lernte, zufrieden zu sein in Überfluss und Not (Philipper 4,11-13).
+- Gottseligkeit ist kein Mittel zum Erwerb (1. Timotheus 6,5).
+- Die Liebe zum Geld ist eine Wurzel aller Art von Übel (1. Timotheus 6,10).
+- Jesus warnte, dass Reichtum das Wort ersticken kann (Markus 4,19).
+- Christen wird Leiden verheißen, nicht Luxus (Johannes 16,33; 2. Timotheus 3,12).
+- Paulus wurde nach dreimaligem Gebet nicht geheilt; Gottes Gnade war ausreichend (2. Korinther 12,7-10).
+
+**Warum es gefährlich ist:** Das Wohlstandsevangelium beutet Verzweifelte aus. Die Kranken geben Geld, weil sie Heilung wollen. Die Armen geben Geld, weil sie Versorgung wollen. Die Trauernden geben Geld, weil sie Hoffnung wollen. Wenn das Wunder dann ausbleibt, behält der Prediger das Geld und das Opfer behält die Scham.
+
+Deshalb spricht die Schrift so scharf über habgierige Lehrer. (2. Petrus 2,3): "Und in ihrer Habgier werden sie euch mit erdichteten Worten ausbeuten."
+
+**Die Opferzahl.**
+
+Das ist der Teil, den die meisten Wohlstandskritiker vermeiden, direkt auszusprechen. Die Lehre tötet Menschen.
+
+- **Kinder gestorben an medizinischer Vernachlässigung:** Mehrere dokumentierte Fälle von Eltern in Word of Faith-Gemeinden, die ihren Kindern medizinische Versorgung verweigerten, basierend auf der "negativen Bekenntnis"-Lehre. In dieser Theologie verleiht das Benennen von Krankheit der Krankheit Macht. Eltern haben Insulin abgesetzt, Antibiotika bei behandelbaren Infektionen verweigert und für Heilungen gebetet, die nicht kamen. Staatliche Gerichte haben solche Fälle als fahrlässige Tötung verfolgt. Die Followers of Christ Church in Oregon und die Faith Assembly in Indiana sind dokumentierte Beispiele; es sind kleinere Gruppen, aber sie wenden dieselbe Theologie an, die das Mainstream-Word-of-Faith vorsichtiger lehrt.
+- **Erwachsene gestorben durch verzögerte Krebsbehandlung:** Ein in Word of Faith-Gemeinden dokumentiertes Muster: Mitglieder lehnen die Behandlung behandelbarer Krebserkrankungen ab oder verzögern sie aufgrund der Lehre, dass das Bekennen von Krankheit den Glauben besiegt. Wenn sie die Behandlung schließlich annehmen, hat der Krebs bereits metastasiert.
+- **Selbstmorde:** Ehemalige Mitglieder haben von Selbstmordgedanken berichtet, als die versprochenen Ergebnisse des Wohlstandsevangeliums ausblieben. Die Theologie macht ihr anhaltendes Leiden oder ihre Armut zu ihrer eigenen Schuld, häuft Scham auf das Leid und verschließt den Trost, den das biblische Christentum im Leiden bietet.
+- **Finanzieller Ruin:** Mitglieder mit festem Einkommen, die alles in einen "Samen" für erwartete Durchbrüche geben. Dokumentierte Fälle von Rentnern, die den gesamten monatlichen Scheck an Kenneth Copeland Ministries, Creflo Dollar oder lokale Wohlstandskirchen schicken und danach weder Miete noch Lebensmittel bezahlen können. Paula White bat im Weihnachtsmonat um "Erstlingsfrüchte"-Opfergaben von 1.144 Dollar auf der Grundlage einer Prophezeiung von 2020; Tausende gaben.
+- **Die Glaubensheilerdokumentation der 1980er:** James Randis Untersuchung von Peter Popoff im Jahr 1986 enthüllte, dass Popoff einen versteckten Ohrhörer benutzte, über den ihm seine Frau Informationen von Gebetskarten aus dem Publikum zuflüsterte, um "Worte der Erkenntnis" vorzutäuschen. Randis Beweise wurden in der Tonight Show ausgestrahlt. Popoff ging in diesem Jahr bankrott. In den frühen 2000ern kehrte er ins Predigtamt zurück und ist heute bei TBN tätig. Der Betrug war aufgedeckt; das Netzwerk stellte ihn wieder ein.
+- **Benny Hinns Heilungsveranstaltungen:** Mehrere investigative Berichte (HBOs *A Question of Miracles* von 2001, NBCs Dateline-Untersuchung von 2009) verfolgten Personen nach, die Hinn auf der Bühne für geheilt erklärt hatte. Keine der verfolgten Personen war tatsächlich geheilt. Hinns Organisation war nicht in der Lage, eine einzige durch medizinische Akten bestätigte Heilung unter journalistischer Prüfung vorzulegen.
+- **Die Wahlprophezeiungen von 2020:** Bedeutende wohlstandscharismatische Persönlichkeiten (Pat Robertson, Kat Kerr, Kenneth Copelands Netzwerk, Sid Roth, Hank Kunneman, Lance Wallnau, Jeremiah Johnson) prophezeiten mit öffentlicher Zuversicht, dass Donald Trump die Wahl 2020 gewinnen würde. Er gewann nicht. Einige entschuldigten sich; die meisten datieren oder interpretierten stillschweigend um. (5. Mose 18,22): "Wenn ein Prophet im Namen des HERRN redet und das Wort sich nicht erfüllt und nicht eintrifft, so ist es ein Wort, das der HERR nicht geredet hat; der Prophet hat es in Vermessenheit geredet." Laut dem eigenen Test der Schrift sind das falsche Propheten.
+
+Das sind keine Randerscheinungen. Das ist das, was das System in seinem normalen Betrieb hervorbringt. (Matthäus 7,15-20): "An ihren Früchten werdet ihr sie erkennen."
+
+**Die Antwort:**
+Biblisches Geben ist Gottesdienst, kein Spielautomat. Biblischer Glaube vertraut Gott, auch wenn die Heilung nicht kommt. Biblischer Segen kann Versorgung einschließen, aber er macht Christus nie zum Diener menschlicher Begierde. Das wahre Evangelium sagt, dass Christus genug ist in Armut, Krankheit, Leiden, Gefangenschaft, Schwachheit und Tod. Jeder Prediger, der dieses Evangelium nicht in einem Krankensaal, einer Gefängniszelle und an einem Grab predigen kann, predigt nicht das Evangelium Jesu Christi.
+
+Biblisches Geben ist Gottesdienst, keine Transaktion. (2. Korinther 9,7): "Jeder gebe, wie er es sich in seinem Herzen vorgenommen hat, nicht widerwillig oder aus Zwang; denn einen fröhlichen Geber liebt Gott." Nicht unter Zwang. Nicht als Reaktion auf eine prophetische Abzocke. Nicht als Wette auf eine Gegenleistung.
+
+Biblischer Glaube vertraut Gott in dem Ergebnis, das er gibt, nicht dem Ergebnis, das man fordert. Hiob verlor alles; sein Glaube wurde geehrt, nicht sein Reichtum. Josef ging vom Gefängnis in den Palast, aber Gottes Zweck war die Rettung der Nationen, nicht Josefs persönlicher Komfort. Paulus betete dreimal, dass sein Pfahl entfernt werde; Gott sagte nein, und Paulus lernte, sich in der Schwachheit zu rühmen (2. Korinther 12,7-10). Stephanus wurde während einer Predigt gesteinigt, während er den Himmel offen sah (Apostelgeschichte 7,54-60). Die "Glaubenshalle" in Hebräer 11 umfasst sowohl jene, die dem Schwert entkamen, als auch jene, die "mit dem Schwert durchsägt" wurden (Hebräer 11,37). Biblischer Glaube schreibt keine Ergebnisse vor.
+
+Biblischer Segen ist manchmal materiell, oft relational, immer geistlich und erreicht seine Fülle in der Ewigkeit, nicht bei der nächsten Hypothekenzahlung. (Epheser 1,3): "Gelobt sei der Gott und Vater unseres Herrn Jesus Christus, der uns gesegnet hat mit jeder geistlichen Segnung in den himmlischen Bereichen in Christus." Die Segnungen des Evangeliums sind zuerst geistlich und himmlisch; materielle Versorgung in diesem Leben wird gegeben, wie Gott es für gut befindet, nicht wie der Gläubige es fordert.
+
+Das wahre Evangelium gilt für die Krebsstation, die Gefängniszelle, das Insolvenzgericht, die Kriegszone, das Hospizzimmer und das offene Grab. Jedes "Evangelium", das nicht an diesen Orten gepredigt werden kann, ist nicht das Evangelium Jesu Christi. Christus ist genug, wenn nichts anderes bleibt. Der Mann, der sagte "Es ist vollbracht" (Johannes 19,30), sagte es vom Kreuz, nicht vom Thron. (Philipper 1,21): "Denn für mich ist Christus das Leben, und Sterben ist Gewinn." Das ist das Evangelium. Alles, was Gewinn in diesem Leben als Beweis des Glaubens verspricht, predigt ein anderes Evangelium, und ein anderes Evangelium ist verflucht (Galater 1,8-9).
+
+Wenn du in einem Wohlstandsministerium bist und diese Muster Bedenken auslösen, gib ihnen keinen weiteren Dollar, bevor du das Neue Testament von vorne bis hinten gelesen hast, langsam, und fragst, wer Christus ist und was er seinen Nachfolgern tatsächlich verspricht. Die Antwort wird nicht dem entsprechen, was dein Pastor gepredigt hat.
 
 ---
-
 ### Unification Church
 
 **Auch bekannt als:** Moonies (umgangssprachlich, manchmal abwertend; Mitglieder lehnen die Bezeichnung ab). Unification Church. The Unification Movement. Holy Spirit Association for the Unification of World Christianity (HSA-UWC, der ursprüngliche Name). Family Federation for World Peace and Unification (FFWPU, die Umbenennung ab 1996). Sanctuary Church (die Abspaltung unter Hyung Jin "Sean" Moon, dem Sohn von Sun Myung Moon; diese Fraktion fördert das AR-15 als den „Eisenstab" und ist von der Hauptbewegung der Unification Church zu unterscheiden). The True Family. Zu den Tarnorganisationen gehörten die Zeitung Washington Times, die World Media Association, die International Religious Foundation, CAUSA International, die American Freedom Coalition, die Universal Peace Federation, die Women's Federation for World Peace sowie historisch die Collegiate Association for the Research of Principles (CARP, der Campus-Rekrutierungsarm).
@@ -354,30 +377,344 @@ Wenn ein Leiter frische Offenbarung beansprucht, die nicht hinterfragt werden da
 
 ### Calvinismus / Reformierte Theologie
 
-**Auch bekannt als:** Reformierte Theologie. Reformiertes Christentum. Reformierte Kirchen. Presbyterianisch (die auf der Kirchenverfassung beruhende Bezeichnung). Reformed Baptist (calvinistische Baptisten). Particular Baptist (historischer britischer Begriff). Doctrines of Grace (die intern bevorzugte Eigenbezeichnung). TULIP-Theologie (nach dem Fünf-Punkte-Akronym). Fünf-Punkte-Calvinismus. Augustinianismus (die breitere theologische Traditionslinie). Prädestinianisches Christentum. Confessional Reformed (mit Bezug auf das Westminster Confession, die Three Forms of Unity und das 1689 London Baptist Confession). New Calvinism / Young Restless and Reformed (eine evangelikale Erneuerungsbewegung des 21. Jahrhunderts; zu den Leitfiguren gehören John Piper, Mark Driscoll, Tim Keller, D.A. Carson, Albert Mohler). High Calvinism / Hyper-Calvinism (eine extremere Spielart, die das freie Angebot des Evangeliums ablehnt; nicht identisch mit dem calvinistischen Mainstream). Reformierte Denominationen umfassen die Presbyterian Church in America (PCA), die Orthodox Presbyterian Church (OPC), die Reformed Church in America (RCA), die Christian Reformed Church (CRC), die United Reformed Churches in North America (URCNA), das Reformed Baptist Network sowie viele andere. Die Presbyterian Church USA (PCUSA) ist theologisch deutlich liberaler und repräsentiert den konfessionellen Calvinismus heute nicht.
+**Auch bekannt als:** Reformierte Theologie. Reformiertes Christentum. Reformierte Kirchen. Presbyterianisch (der auf der Kirchenverfassung basierte Name). Reformierte Baptisten (calvinistische Baptisten). Particular Baptist (historischer britischer Begriff). Gnadenlehren (ihr bevorzugter interner Name). TULIP-Theologie (nach dem fünfpunktigen Akronym). Fünf-Punkte-Calvinismus. Augustinismus (die breitere theologische Linie). Prädestinatorisches Christentum. Konfessionell Reformiert (bezieht sich auf das Westminster-Bekenntnis, die Drei Einheitsformeln, das Londoner Baptistenbekenntnis von 1689). Föderaltheologie (das bundestheologische Rahmenwerk, das ihm zugrunde liegt). Supralapsarianismus (die hoch-calvinistische Ansicht, dass die Erwählung logisch vor dem Fall lag). Infralapsarianismus (die gemäßigtere Ansicht, dass die Erwählung logisch nach dem Fall lag). Neuer Calvinismus / Junger, rastloser und Reformierter (die evangelikale Wiederbelebung im 21. Jahrhundert; Figuren umfassen John Piper, Mark Driscoll, Tim Keller, D.A. Carson, Albert Mohler, John MacArthur, Wayne Grudem, Matt Chandler, Kevin DeYoung). The Gospel Coalition (das größte reformiert-evangelikale Netzwerk). Together for the Gospel (T4G). 9Marks (ein stark reformiertes Gemeindegesundheitsministerium). Desiring God (Pipers Ministerium). Ligonier Ministries (Sprouls Ministerium). Banner of Truth Trust. Westminster Theological Seminary. Reformed Theological Seminary. The Master's Seminary. Hoher Calvinismus / Hyper-Calvinismus (eine extremere Variante, die das freie Angebot des Evangeliums und die Pflicht zur Evangelisierung der Nicht-Erwählten ablehnt; nicht dasselbe wie Mainstream-Calvinismus, aber ein Endpunkt, zu dem das System neigt). Reformierte Denominationen umfassen die Presbyterian Church in America (PCA), die Orthodox Presbyterian Church (OPC), die Reformed Church in America (RCA), die Christian Reformed Church (CRC), die United Reformed Churches in North America (URCNA), die Evangelical Presbyterian Church (EPC), die Associate Reformed Presbyterian Church (ARP), das Reformed Baptist Network, die Free Presbyterian Church of Scotland und viele andere. Die meisten südlichen baptistischen Seminare (insbesondere das Southern Baptist Theological Seminary unter Albert Mohler) wurden im 21. Jahrhundert wesentlich calvinisiert. Es ist zu beachten, dass die Presbyterian Church USA (PCUSA) theologisch deutlich liberaler ist und nicht repräsentativ für den konfessionellen Calvinismus heute ist.
 
-**Hinweis zur Einordnung:** Dies ist ein Tier-Two-Eintrag, der hier aus Gründen der Konsistenz mit dem ursprünglichen Dokument „Common Distortions" aufgeführt wird. Ehrlichen Lesern sei gesagt, dass dies die umstrittenste Einordnung in der gesamten Liste ist. Calvinisten bekennen sich zur Gottheit Christi, zum historischen Evangelium, zur Autorität der Schrift und zur Errettung durch Gnade im Glauben. Viele der gründlichsten Bibelgelehrten in der Kirchengeschichte (Augustinus, Calvin, Edwards, Spurgeon, Sproul, Piper, Carson) waren Calvinisten. Die Meinungsverschiedenheit mit dem Calvinismus ist eine innerkirchliche Auseinandersetzung zwischen Gläubigen darüber, wie göttliche Souveränität und menschliche Verantwortung miteinander zu vereinbaren sind. Den Calvinismus neben der Watch Tower Society aufzuführen übertreibt den Unterschied. Ich möchte dem Leser mitteilen, dass es meiner ehrlichen theologischen Einschätzung nach ist, dass der Calvinismus in bestimmten Punkten irrt (die inhaltliche Kritik an TULIP findet sich im Dokument „Common Distortions"), dass Calvinisten jedoch Brüder und Schwestern in Christus sind.
+**Gründer:** Johannes Calvin (Jean Cauvin, 1509-1564), französischer Theologe mit Sitz in Genf. *Institutio Christianae Religionis* (1536, erweitert 1559). Aufgebaut auf augustinischen Grundlagen, die Augustinus von Hippo (354-430 n. Chr.) in seinen anti-pelagianischen Schriften gelegt hatte. Theodor Beza, Calvins Nachfolger in Genf, systematisierte die Lehren in die heute bekannte Form. Die fünf Punkte (TULIP) wurden als Reaktion auf die Remonstranten (Anhänger des Jacobus Arminius) auf der Synode von Dordrecht 1618-1619 formalisiert.
+
+**Kernlehre:** Gott hat vor der Erschaffung der Welt genau entschieden, wer gerettet wird und wer nicht. Glaube, Wahl und Buße können die Liste nicht ändern. Das System wird als TULIP zusammengefasst:
+
+- **Totale Verdorbenheit:** Menschen sind durch die Sünde so zerbrochen, dass sie nicht einmal Gott begehren können, es sei denn, Gott wirkt das Begehren unwiderstehlich in sie hinein. Freier Wille zur Errettung ist unmöglich, bis Gott den Willen erneuert.
+- **Unbedingte Erwählung:** Vor der Erschaffung der Welt wählte Gott bestimmte Personen zur Errettung aus. Die Auswahl basierte nicht auf etwas, das Gott in ihnen voraussah; sie basierte ausschließlich auf seiner souveränen Entscheidung. Der Rest, die "Nicht-Erwählten", wurde entweder passiv übergangen (infralapsarianisch) oder aktiv zur Verdammnis vorherbestimmt (supralapsarianisch).
+- **Begrenzte Sühne / Besondere Erlösung:** Christus starb nicht für die Sünden jedes Menschen. Er starb nur für die Erwählten. Wenn eine Person nicht auf der Liste steht, deckt das Kreuz sie nicht; ihre Verdammnis ist festgelegt.
+- **Unwiderstehliche Gnade:** Wenn Gott einen der Erwählten beruft, kann diese Person sich dem nicht endgültig widersetzen. Glaube ist keine echte Wahl; er ist das unvermeidliche Ergebnis eines wirksamen Rufes.
+- **Bewahrung der Heiligen / "Einmal gerettet, immer gerettet" in reformierter Form:** Wahre Gläubige können die Errettung nicht verlieren. Jeder, der scheinbar abfällt, war nie wirklich gerettet; er war ein "falscher Bekehrter" oder "Unkraut".
+
+**Warum die Schrift widerspricht:**
+
+**1. Gottes erklärter Wunsch ist die Errettung aller, nicht die Auswahl weniger:**
+
+- (1. Timotheus 2,3-4): "Das ist gut und gefällt Gott, unserem Retter, der will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen."
+- (2. Petrus 3,9): "Der Herr verzögert seine Verheißung nicht, wie manche es für Verzögerung halten, sondern er ist langmütig euch gegenüber und will nicht, dass jemand verloren geht, sondern dass alle zur Buße kommen."
+- (Hesekiel 33,11): "Sprich zu ihnen: So wahr ich lebe, spricht der Herr HERR, ich habe kein Gefallen am Tod des Gottlosen, sondern daran, dass der Gottlose umkehre von seinem Weg und lebe."
+- (Hesekiel 18,23.32): "Habe ich etwa Gefallen am Tod des Gottlosen, spricht der Herr HERR, und nicht vielmehr daran, dass er umkehre von seinem Weg und lebe?... Denn ich habe kein Gefallen am Tod von irgendjemand, spricht der Herr HERR; darum kehrt um, damit ihr lebt."
+- (Matthäus 23,37): "Jerusalem, Jerusalem... wie oft habe ich deine Kinder versammeln wollen, wie eine Henne ihre Küken unter ihre Flügel versammelt, und ihr habt es nicht gewollt!" Jeschua weint über Jerusalem, weil sie es ablehnten. Die calvinistische Theologie muss das als Jeschua lesen, der das will, was Gott nicht tatsächlich beschlossen hat, was den göttlichen Willen gegen sich selbst spaltet.
+
+Die calvinistische Antwort besteht darin, zwischen "Gottes geoffenbartem Willen" (was er gebietet) und "Gottes geheimem Willen" (was er beschlossen hat) zu unterscheiden. In dieser Sicht offenbart Gott, dass er alle gerettet sehen möchte, beschließt dabei heimlich, dass nur einige gerettet werden. Der Text macht diese Unterscheidung nirgendwo. Der Text sagt, Gott begehrt alle. Um das System zu retten, überstimmt das System den Text.
+
+**2. Christi Sühne ist universal in ihrem Umfang, nicht auf eine vorausgewählte Liste beschränkt:**
+
+- (Johannes 3,16): "Denn also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, damit jeder, der an ihn glaubt, nicht verloren gehe, sondern ewiges Leben habe." Das griechische *ton kosmon* (die Welt) ist umfassend; dasselbe griechische Wort in 1. Johannes 2,15-17 ("Liebt nicht die Welt") meint eindeutig jeden Menschen, jede Nation, die gesamte Menschheit.
+- (1. Johannes 2,2): "Und er ist die Sühne für unsere Sünden, und nicht für unsere allein, sondern auch für die der ganzen Welt." Dieser Vers ist für die begrenzte Sühne in seiner klaren Aussage vernichtend. Der Calvinist muss "Welt" hier umdefinieren in "die Erwählten aus jeder Nation" statt "jede Person". Das griechische *holos ho kosmos* trägt diese Last nicht.
+- (Hebräer 2,9): "...damit er durch Gottes Gnade für jeden den Tod kostete." Das griechische *huper pantos* ist "für jeden". Nicht für einige.
+- (1. Timotheus 4,10): "...dem lebendigen Gott, der der Retter aller Menschen ist, besonders der Gläubigen." Aller Menschen. Besonders (nicht ausschließlich) der Gläubigen.
+- (2. Petrus 2,1): "Es gab aber auch falsche Propheten unter dem Volk, wie es auch unter euch falsche Lehrer geben wird, die verderbliche Irrlehren einführen werden, **indem sie sogar den Herrn verleugnen, der sie erkauft hat**, und sich selbst schnelles Verderben bringen." Petrus sagt, falsche Lehrer wurden erkauft (durch die Sühne erworben) und kommen dennoch ins Verderben. Die begrenzte Sühne kann das nicht erklären.
+- (Jesaja 53,6): "Wir alle irrten wie Schafe, jeder wandte sich seinem eigenen Weg zu; aber der HERR ließ die Schuld von uns allen auf ihn fallen." Dasselbe "alle", die verirrten, ist das "alle", dessen Schuld auf den Knecht gelegt wurde. Das zweite "alle" auf die Erwählten zu beschränken, erfordert, das erste "alle" auf die Erwählten zu beschränken, was bedeuten würde, dass nur die Erwählten je gesündigt haben. Der Text lässt das nicht zu.
+
+**3. Die Einladung zu kommen ist universell, an jeden gerichtet, der will:**
+
+- (Offenbarung 22,17): "Der Geist und die Braut sprechen: Komm! Und wer es hört, der sage: Komm! Und wen dürstet, der komme; wer da will, der nehme das Wasser des Lebens umsonst."
+- (Matthäus 11,28): "Kommt her zu mir alle, die ihr mühselig und beladen seid, und ich will euch erquicken."
+- (Römer 10,13): "Denn jeder, der den Namen des Herrn anruft, wird gerettet werden."
+- (Apostelgeschichte 17,30): "Die Zeiten der Unwissenheit zwar hat Gott übersehen; jetzt aber gebietet er den Menschen, dass alle überall Buße tun sollen." Wenn Buße für die Nicht-Erwählten unmöglich ist, ist dieses Gebot Spott.
+- (Jesaja 45,22): "Wendet euch zu mir und werdet gerettet, alle Enden der Erde! Denn ich bin Gott, und sonst keiner."
+
+Die Worte "wer immer", "jeder", "alle, die", "jemand" und "irgendjemand" erscheinen überall in der Errettungssprache des Neuen Testaments. Die calvinistische Exegese muss diese wiederholt umdefinieren in "jemand unter den Erwählten", "jeder unter den Auserwählten", "alle, die Gott ausgewählt hat". Der Text schränkt sie nirgends ein. Die Einschränkung wird von außen eingebracht.
+
+**4. Die Schrift warnt echte Gläubige davor, dass sie abfallen können. Diese Warnungen ergeben keinen Sinn, wenn Abfall unmöglich ist:**
+
+- (Hebräer 6,4-6): "Denn es ist unmöglich, diejenigen, die einmal erleuchtet worden sind, die die himmlische Gabe gekostet und am Heiligen Geist Anteil bekommen haben und das gute Wort Gottes und die Kräfte der zukünftigen Welt gekostet haben, und abgefallen sind, noch einmal zur Buße zu erneuern, da sie den Sohn Gottes für sich neu kreuzigen und ihn zur Schau stellen."
+- (Hebräer 10,26-29): "Denn wenn wir vorsätzlich sündigen, nachdem wir die Erkenntnis der Wahrheit empfangen haben, bleibt kein Sündopfer mehr übrig, sondern ein schreckliches Warten auf das Gericht... Wie viel schlimmere Strafe, meint ihr, wird der verdienen, der den Sohn Gottes mit Füßen getreten und das Blut des Bundes, durch das er geheiligt worden war, für gemein geachtet und dem Geist der Gnade Schmach angetan hat?" Beachte: "durch das er geheiligt worden war". Die gewarnten Personen waren durch das Blut Christi geheiligt; das ist kein Status eines Ungläubigen.
+- (2. Petrus 2,20-22): "Denn wenn sie der Befleckungen der Welt entflohen sind durch die Erkenntnis unseres Herrn und Retters Jesus Christus, und sich wieder darin verfangen und überwältigen lassen, ist ihr letzter Zustand schlimmer als der erste. Denn es wäre besser für sie gewesen, den Weg der Gerechtigkeit gar nicht erkannt zu haben, als ihn erkannt zu haben und sich von dem ihnen überlieferten heiligen Gebot wieder abzuwenden."
+- (1. Timotheus 4,1): "Der Geist aber sagt ausdrücklich, dass in späteren Zeiten einige vom Glauben abfallen werden, indem sie sich verführerischen Geistern und Lehren der Dämonen zuwenden." Vom Glauben abzufallen setzt voraus, den Glauben gehabt zu haben.
+- (1. Korinther 9,27): Paulus schreibt: "Sondern ich schlage meinem Leib Wunden und zwinge ihn in die Knechtschaft, damit ich nicht, nachdem ich anderen gepredigt habe, selbst verworfen werde." Wenn Paulus, der Apostel, Verwerfung fürchten kann, ist die Lehre, dass Bewahrung automatisch ist, falsch.
+- (Johannes 15,1-6): Die Passage vom Weinstock und den Reben. Jesus sagt, Reben IN IHM, die keine Frucht tragen, werden abgehauen, gesammelt, ins Feuer geworfen und verbrannt. Dies so zu zwingen, dass es "Reben bedeutet, die nie wirklich in ihm waren", erfordert, den Text gegen sich selbst zu lesen.
+- (Galater 5,4): "Von Christus seid ihr getrennt, die ihr durch das Gesetz gerechtfertigt werden wollt; ihr seid aus der Gnade herausgefallen." Paulus spricht galatische Gläubige an und sagt, sie können aus der Gnade fallen.
+
+Die calvinistische Antwort auf all diese Warnungen lautet: "Sie sind an falsche Bekehrte gerichtet, die nie wirklich gerettet waren" oder "Es sind hypothetische Warnungen, die dazu dienen, die Erwählten in der Bewahrung zu halten". Der Text gibt keinen Hinweis darauf. Die Warnungen sind an "Brüder" gerichtet (Hebräer 3,12), an "euch, die ihr erleuchtet worden seid... die ihr gekostet habt... die ihr Anteil erhalten habt". Wenn die Warnungen nicht real sind, sind die Worte, die verwendet werden, um ihre Empfänger zu beschreiben, irreführend.
+
+**5. Echte Wahl ist Teil von Gottes Plan. Die Schrift gebietet Wahl, nicht nur ihren Anschein:**
+
+- (Josua 24,15): "Erwählt euch heute, wem ihr dienen wollt."
+- (5. Mose 30,19): "Ich habe euch Leben und Tod, Segen und Fluch vorgelegt. So wählt das Leben, damit ihr lebt, ihr und eure Nachkommen."
+- (1. Könige 18,21): "Wenn der HERR Gott ist, so folgt ihm; wenn aber Baal, so folgt ihm."
+- (Offenbarung 3,20): "Sieh, ich stehe vor der Tür und klopfe an. Wenn jemand meine Stimme hört und die Tür öffnet, werde ich zu ihm hineingehen."
+- (Apostelgeschichte 7,51): Stephanus sagt dem Sanhedrin: "Ihr Halsstarrigen und Unbeschnittenen an Herz und Ohren, ihr widersteht allezeit dem Heiligen Geist." Dem Heiligen Geist zu widerstehen ist unmöglich, wenn Unwiderstehliche Gnade wahr ist. Der Text sagt, sie taten es.
+
+Die calvinistische Position muss diese Gebote umdefinieren als "äußerliche Mahnungen, die Gott innerlich nur in den Erwählten erfüllt, während er dasselbe äußerliche Gebot an die Nicht-Erwählten erteilt, ohne dass eine echte Möglichkeit zur Befolgung besteht". Das ist ein Gott, der das Unmögliche gebietet und für das Versagen des Unmöglichen verdammt. Was auch immer das sonst ist, es ist nicht der Gott, den die Schrift beschreibt.
+
+**6. Der Charakter Gottes, mit dem der Calvinismus einen zurücklässt:**
+
+Das System erfordert in seiner logischen Konsequenz, dass Gott eine große Anzahl von Menschen geschaffen hat, deren einziges Schicksal ewige bewusste Qual ist und denen er niemals eine echte Möglichkeit zur Errettung gegeben hat, weil die ihnen angebotene Errettung mit einem verborgenen Beschluss angeboten wurde, dass sie sie nie empfangen würden. Er befahl ihnen, Buße zu tun, während er die Gnade zurückhielt, durch die allein Buße möglich ist. Er sandte ihnen Propheten und Prediger, deren Bitten sie nicht durchdringen konnten. Dann verdammt er sie für das Versagen, das er beschlossen hat.
+
+Das ist das Bild, das Jonathan Edwards in *Sinners in the Hands of an Angry God* verteidigt und das einige Hyper-Calvinisten offener als Mainstream-Calvinisten darlegen würden. Mainstream-Calvinisten mildern das Bild durch die Lehre von "gemeiner Gnade" und dem "freien Angebot des Evangeliums", aber die zugrunde liegende Logik des Systems erfordert das Bild dennoch. Wenn die Sühne begrenzt ist und die Erwählung unbedingt, wurden die Nicht-Erwählten ohne echten Ausweg zur Vernichtung geschaffen.
+
+(1. Johannes 4,8): "Gott ist Liebe." Erzwungene Liebe ist keine Liebe. Eine Wahl, die man nie hatte, ist keine Wahl. Eine Errettung, der man sich nicht widersetzen kann, wird nicht frei empfangen. Der Gott des Calvinismus ist ein souveräner Gott, aber Schrifts Gott ist auch ein relationaler Gott, ein Vater, dessen Sohn über Jerusalem weint (Lukas 19,41-44), dessen Geist über Widerstand betrübt ist (Epheser 4,30), dessen Liebe empfangen oder abgelehnt werden kann.
+
+**7. Wie viele Häresien und Verzerrungen erfordert das System, klare Texte umzuschreiben, um den Rahmen aufrechtzuerhalten:**
+
+Das ist ein gewichtiger Einwand. Wann immer die calvinistische Exegese auf einen Vers stößt, der dem System zu widersprechen scheint, überstimmt das System den Vers. "Welt" wird zu "erwählte Welt". "Alle" wird zu "alle Arten von" oder "alle ohne Unterschied, nicht alle ohne Ausnahme". "Wer auch immer" wird zu "wer immer unter den Auserwählten". "Jeder" wird zu "jeder unter den Erwählten". Echte Warnungen vor Abfall werden zu hypothetischen Warnungen, um die Erwählten wachsam zu halten. Christi Trauer über Jerusalem wird zu einer Spannung zwischen Gottes geoffenbartem und beschlossenem Willen.
+
+Wenn ein System so viel Neuübersetzung erfordert, ist das System zu einer Linse geworden, durch die die Bibel gelesen wird, anstatt eine Zusammenfassung dessen zu sein, was die Bibel lehrt. (2. Petrus 3,16): Petrus warnt vor denen, die Paulus' Schriften verdrehen "wie auch die übrigen Schriften, zu ihrem eigenen Verderben."
+
+**Das tiefste Problem: Der Calvinismus untergräbt den moralischen Charakter Gottes.**
+Das ist der Kern der Sache. Jeder andere Einwand (Begrenzte Sühne, Unwiderstehliche Gnade, die Umdefinition von "Welt" und "alle") ist diesem nachgeordnet. Die Lehren des TULIP, in ihrer klaren Bedeutung genommen und zu ihrem logischen Ende geführt, erfordern einen Gott, dessen moralischer Charakter dem Gott widerspricht, den die Schrift beschreibt.
+
+Lege dar, was das System notwendigerweise beinhaltet:
+
+Gott schuf einen bestimmten Menschen. Bevor diese Person gezeugt wurde, bevor sie Atem schöpfte, bevor sie je Gutes oder Böses tat (Römer 9,11 in seinem tatsächlichen Kontext, auf den wir gleich eingehen werden), beschloss Gott, dass diese Person nicht zu den Erwählten gehören würde. Christus würde nicht für ihre Sünden sterben; die Sühne war besonders und schloss sie aus. Der Geist würde sie nicht erneuern; der wirksame Ruf war für andere reserviert. Die Gnade würde sie nie erreichen; sie können nicht glauben, weil ihnen nie die Fähigkeit zum Glauben gegeben wurde.
+
+Diese Person lebt dann ein Leben. Ihr wird befohlen, Buße zu tun (Apostelgeschichte 17,30). Ihr wird gesagt, dass jeder, der den Namen des Herrn anruft, gerettet wird (Römer 10,13). Ihr wird von Predigern zugeredet, von der Schrift gewarnt und Christus in Sprache angeboten, die sagt: "Kommt her zu mir alle, die ihr mühselig und beladen seid" (Matthäus 11,28). Das Angebot ist äußerlich real. Hinter dem Angebot steht der Beschluss: Diese Person steht nicht auf der Liste. Sie kann das Angebotene nicht annehmen. Ihr wird befohlen zu tun, was Gott selbst beschlossen hat, dass sie nicht in die Lage versetzt wird zu tun.
+
+Sie stirbt. Sie wird gerichtet. Sie wird zu ewiger bewusster Qual verdammt, weil sie eine Errettung nicht empfangen hat, die ihr nie zugänglich war, weil sie einen Christus abgelehnt hat, der nie für sie gestorben ist, weil sie einem Geist widerstanden hat, der nie zu ihr kam, weil sie die Sünde des Unglaubens beging, die die einzige verbleibende Sünde ist, nachdem das Kreuz alles andere bezahlt hat, und Unglaube in diesem Fall das einzig mögliche Ergebnis war, weil die Gnade von Grundauf zurückgehalten wurde.
+
+Prüfe dieses Bild gegen das Zeugnis der Schrift darüber, wer Gott ist:
+
+**Gott ist gerecht.** (5. Mose 32,4): "Der Fels, sein Werk ist vollkommen; denn alle seine Wege sind recht. Ein Gott der Treue und ohne Unrecht, gerecht und aufrichtig ist er." (1. Mose 18,25): Abraham fragt: "Sollte der Richter der ganzen Erde nicht Recht tun?" Gerechtigkeit in irgendeinem sinnvollen biblischen oder moralischen Sinne erfordert, dass die Gerichteten eine echte Möglichkeit hatten, anders zu handeln. Jemanden ewig zu verdammen, weil er das nicht getan hat, wozu er nie befähigt wurde, ist nach jedem Standard, den die Bibel selbst verwendet, das Gegenteil von Gerechtigkeit. Der Calvinismus muss Gerechtigkeit neu definieren als "was auch immer Gott tut", was das Wort jedes Sinnes entleert und (1. Mose 18,25) zu einer Frage ohne echte Antwort macht.
+
+**Gott ist gut.** (Psalm 145,9): "Der HERR ist allen gütig, und seine Barmherzigkeit ist über allen seinen Werken." (Jakobus 1,13): "Niemand sage, wenn er versucht wird: Ich werde von Gott versucht. Denn Gott kann nicht zum Bösen versucht werden, und er selbst versucht niemanden." (1. Johannes 1,5): "Gott ist Licht, und in ihm ist keine Finsternis." Ein Gott, der Wesen erschafft, deren einziger Zweck ewiges Leiden ist, ohne echte Möglichkeit zur Beziehung, wird in keinem dieser Texte beschrieben. Der Gott der Schrift erstreckt seine Barmherzigkeit auf alle seine Werke. Der Gott des strengen doppelten Prädestinationskalvinismus erstreckt Barmherzigkeit nur auf einen Bruchteil.
+
+**Gott ist Liebe.** (1. Johannes 4,8.16): "Gott ist Liebe." Das ist keine Metapher und kein Attribut unter anderen; es ist eine Aussage über sein Wesen. Liebe, die dem Geliebten keine echte Reaktionsmöglichkeit gibt, ist keine Liebe. Ein Ehemann, der seine Frau "liebt", aber unwiderstehlich jede ihrer Entscheidungen bewirkt, hat sie nicht geliebt. Ein Vater, der seine Kinder "liebt", aber vor ihrer Zeugung vorherbestimmt, welche die Ewigkeit mit ihm verbringen und welche brennen werden, ohne echte Wahl für irgendeinen, liebt sie nicht. Er wählt sie aus oder weist sie zurück, aber es ist keine Liebe. Der Calvinismus muss Liebe neu definieren, so wie er Gerechtigkeit neu definiert, bis das Wort etwas anderes bedeutet als das, was jeder Leser der Schrift, jeder Ehepartner und jeder Elternteil darunter versteht.
+
+**Gott ist kein Anseher der Person.** (Apostelgeschichte 10,34): "Wahrlich, ich begreife, dass Gott die Person nicht ansieht." (Römer 2,11): "Denn bei Gott gibt es kein Ansehen der Person." (5. Mose 10,17): "...der die Person nicht ansieht und keine Bestechung annimmt." Doch die Unbedingte Erwählung ist die Lehre, dass Gott in der folgenreichsten Angelegenheit, die es gibt, die Person ansieht und einige für ewige Herrlichkeit auswählt und andere übergeht, ohne Grundlage in irgendetwas, was diese Personen getan haben oder tun würden. Die calvinistische Antwort lautet, Gottes Auswahl sei nicht willkürlich, weil sie in seinem souveränen Willen verwurzelt ist. Diese Antwort tauscht das Wort "parteiisch" gegen das Wort "souverän" aus, ohne das moralische Problem zu lösen; es wird nur neu benannt.
+
+**Gott begehrt nicht den Tod des Gottlosen.** (Hesekiel 18,23): "Habe ich etwa Gefallen am Tod des Gottlosen, spricht der Herr HERR, und nicht vielmehr daran, dass er umkehre von seinem Weg und lebe?" (Hesekiel 18,32): "Denn ich habe kein Gefallen am Tod von irgendjemand, spricht der Herr HERR; darum kehrt um, damit ihr lebt." (Hesekiel 33,11): "So wahr ich lebe, spricht der Herr HERR, ich habe kein Gefallen am Tod des Gottlosen." (1. Timotheus 2,4): "...der will, dass alle Menschen gerettet werden." (2. Petrus 3,9): "...nicht will, dass jemand verloren geht, sondern dass alle zur Buße kommen."
+
+Diese Verse sind entscheidend. Gott selbst, bei seinem eigenen Wort, bei seinem eigenen Eid ("So wahr ich lebe"), erklärt, dass er kein Gefallen am Tod der Gottlosen hat und begehrt, dass sie umkehren und leben. Der strenge Calvinismus muss sagen, dass dieser geoffenbarte Wunsch nicht Gottes wirklicher Wille ist, dass Gottes geheimer Beschluss bestimmt, dass die meisten derjenigen, deren Tod er zu beklagen behauptet, tatsächlich unerlöst sterben werden, weil er ihnen nie die Gnade zur Buße gegeben hat. Das System spaltet Gott gegen sich selbst: Sein geoffenbarter Wille fleht, sein beschlossener Wille verweigert. Der Gott der Schrift ist nicht doppelzüngig (Jakobus 1,8 gilt nur für den Menschen, aber das Prinzip der Integrität gehört Gott von Natur aus). Ein Gott, der über die Verlorenen weint (Lukas 19,41-44), während er ihren Verlust von Ewigkeit an beschlossen hat, ist ein Gott, dessen Tränen theatralisch sind. Calvinistische Theologen haben sich ehrlich mit dieser Spannung auseinandergesetzt; das Ringen hat sie nicht aufgelöst.
+
+**Das Problem des Urhebers des Bösen.** Wenn Gott unwiderstehlich jedes Ereignis bestimmt, einschließlich jeder menschlichen Entscheidung und jeder Sündentat, dann ist Gott die letzte Ursache der Sünde. Die calvinistische Theologie weist diesen Vorwurf formal zurück ("Gott ordnet das Böse an, ist aber nicht der Urheber des Bösen"; die Unterscheidung ist die zwischen primärer und sekundärer Kausalität), aber die Zurückweisung ist technisch, nicht substanziell. Wenn ein Mensch nichts anderes tun konnte, als den Mord zu begehen, den er beging, weil Gott den Mord vor der Zeit beschlossen und die Wünsche, die ihn durch den Willen des Mörders hervorbrachten, unwiderstehlich bewirkt hat, dann ist Gott auf jede ehrliche Weise die bestimmende Ursache. Die Schrift ist klar: (Jakobus 1,13): "Niemand sage, wenn er versucht wird: Ich werde von Gott versucht. Denn Gott kann nicht zum Bösen versucht werden, und er selbst versucht niemanden." (1. Johannes 1,5): "Gott ist Licht, und in ihm ist keine Finsternis." Das System drückt gegen diese Texte, und die Texte müssen nachgeben.
+
+**Die Frage Römer 9.** Jede calvinistische Verteidigung kehrt zu Römer 9 als Beweistext zurück. "Jakob habe ich geliebt, aber Esau habe ich gehasst" (Römer 9,13). "Er erbarmt sich, wessen er will, und verstockt, wen er will" (Römer 9,18). Die Gefäße der Barmherzigkeit und die Gefäße des Zorns (Römer 9,22-23). Lies Römer 9 sorgfältig und im Kontext. Paulus behandelt die Frage, ob Gott seinen Verheißungen an Israel treu geblieben ist, da das ethnische Israel den Messias mehrheitlich abgelehnt hat. Seine Antwort lautet, dass Erwählung zu einem Gemeinschaftszweck (die Verheißungslinie, die durch Jakob, nicht Esau, läuft, obwohl Esau der Erstgeborene war) Gottes Vorrecht ist; Gott ist nicht ungerecht, weil die unbedingte Verheißung an Abraham immer an eine auserwählte Linie ging. Der Text behandelt nicht individuelle ewige Schicksale; er behandelt die historische Frage, warum das ethnische Israel scheinbar nicht die messianischen Verheißungen erbt, die dem ethnischen Israel gegeben wurden.
+
+Die "Gefäße des Zorns, die zum Verderben bereitet" wurden von Römer 9,22 verwenden ein Partizip Passiv (*katertismena*), das den Handelnden nicht angibt. Der Text sagt nicht "die Gott zum Verderben bereitet hat"; er sagt "Gefäße des Zorns, die zum Verderben bereitet wurden". Der Leser ist eingeladen zu überlegen, ob sie sich durch ihre eigene Rebellion selbst bereitet haben. Paulus geht unmittelbar in Römer 10 über, wo das Evangelium "jedem, der glaubt" angeboten wird (10,4), wo "jeder, der den Namen des Herrn anruft, gerettet wird" (10,13), wo Israels Versagen als das Versagen des Ungehorsams beschrieben wird (10,21, "den ganzen Tag habe ich meine Hände ausgestreckt zu einem ungehorsamen und widerspenstigen Volk"). Derselbe Paulus, der Römer 9 schrieb, schrieb Römer 10. Römer 9 isoliert zu lesen, um deterministische Erwählung zu stützen, ignoriert das universelle Angebot von Römer 10.
+
+(Matthäus 23,37) und (Lukas 13,34) sind ebenfalls entscheidend: "Jerusalem, Jerusalem, die du die Propheten tötest und steinigst, die zu dir gesandt sind! Wie oft habe ich deine Kinder versammeln wollen, wie eine Henne ihre Küken unter ihre Flügel versammelt, und ihr habt es nicht gewollt!" Das Griechische ist eindeutig: *etheleisa* (ich wollte) gegen *ouk ethelesate* (ihr wolltet nicht). Christi Wille zu versammeln; ihr Wille zu verweigern. Der Calvinismus muss diese Passage neu definieren, indem er Jesu geoffenbarten Willen vom beschlossenen Willen des Vaters trennt, aber der Text selbst nimmt keine solche Trennung vor. Der Sohn Gottes trauert über die Stadt genau deshalb, weil das Sammeln, das er begehrte, von ihnen verweigert wurde.
+
+**Das Wesentliche über den Charakter.** Ein theologisches System wird nicht nur nach seinen einzelnen Beweistexten beurteilt, sondern nach dem Gott, mit dem es einen zurücklässt. Der Gott des Calvinismus, in seiner strengen und konsequenten Form genommen (der Form, die Calvin selbst verteidigte, der Form, die Edwards predigte, der Form, die Sproul lehrte, der Form, die Piper heute schreibt), ist souverän auf eine Weise, die die Schrift bejaht, aber ihm fehlen die moralischen Attribute, auf denen die Schrift ebenfalls besteht. Dieser Gott:
+
+- Beschließt die ewige Verdammnis von Wesen, die er schafft, bevor sie irgendetwas Falsches getan haben, während er behauptet, ihren Verlust zu beklagen.
+- Gebietet Buße von Menschen, die er bestimmt hat, dass sie keine Buße tun können, und richtet sie dann, weil sie keine Buße getan haben.
+- Liebt "die Welt", während er die Sühne auf einen Bruchteil der Welt begrenzt, und erfordert, dass "Welt" neu definiert wird.
+- Gibt universelle Einladungen durch Schrift und Prediger heraus, während er beschlossen hat, dass die meisten Hörer nicht annehmen können.
+- Hält Menschen moralisch verantwortlich für Entscheidungen, die nach der eigenen Logik des Systems nie ihre zu treffen waren.
+
+Entweder ist Gott so, wie die Schrift ihn beschreibt (gerecht, gut, liebevoll, kein Anseher der Person, nicht wollend, dass irgendjemand umkomme, alle zur Buße rufend, die Hände einem willigen oder unwilligen Volk ausstreckend, über Rebellion weinend, die ihn betrübt), oder Gott ist so, wie das strenge calvinistische System ihn erfordert zu sein (souverän auf eine Weise, die jedes andere Attribut überlagert, mit seinem geoffenbarten Charakter zu einer öffentlichen Fassade reduziert, die den eigentlichen Beschluss maskiert).
+
+Die Wahl ist zwischen dem Glauben an die Worte, die die Schrift über Gottes Charakter verwendet, oder dem Glauben an ein System, das erfordert, dass diese Worte etwas anderes bedeuten als das, was sie sagen. (4. Mose 23,19): "Gott ist nicht ein Mensch, dass er lüge, noch ein Menschensohn, dass es ihm leidete." Entweder ist sein geoffenbarter Wunsch, dass niemand umkomme, sein wirklicher Wunsch, oder er ist es nicht. Entweder ruft er alle zum Kommen, oder er tut es nicht. Entweder kostete Christus den Tod für jeden (Hebräer 2,9), oder er tat es nicht. Entweder ist Gottes Liebe zur Welt real, oder "Welt" bedeutet etwas anderes als Welt. Der Calvinismus muss, ehrlich gedrängt, jeden dieser Punkte neu definieren. Die Neudefinition ist die Häresie.
+
+Deshalb gehört der Calvinismus in dieses Dokument, obwohl er die Dreieinigkeit, die Gottheit Christi und das historische Evangelium bejaht. Das System leugnet nicht, wer Jesus ist, aber es verzerrt, wer der Vater ist. Es lehrt einen Gott, dessen moralischer Charakter nicht auf den Bedingungen verteidigt werden kann, die die Schrift zur Beschreibung von ihm verwendet. Diesen Gott den Verlorenen vorzustellen bedeutet, einen Gott vorzustellen, den sie vielleicht Grund haben zu fürchten, aber keinen klaren Grund zu lieben, weil die gepredgte Liebe über den Brechpunkt des Wortes hinaus neu definiert wurde.
+
+(1. Johannes 4,19): "Wir lieben, weil er uns zuerst geliebt hat." Seine Liebe kommt zuerst und ist der Grund unserer Liebe. Wenn seine Liebe nicht das ist, was das Wort im menschlichen Gebrauch bedeutet, ist unsere auf ihr aufgebaute Liebe auf einem ausgehöhlten Fundament errichtet worden. Das Evangelium braucht einen Gott, dessen Liebe echte Liebe ist, dessen Angebot echtes Angebot ist, dessen Gerechtigkeit echte Gerechtigkeit ist. Der Calvinismus kämpft in seiner strengen Form darum, diesen Gott zu liefern.
 
 ---
-
 ### Siebenten-Tags-Adventismus
 
-**Auch bekannt als:** SDA. Adventismus. Seventh-day Adventist Church. Siebenten-Tags-Adventistische Denomination. Die Adventistische Kirche. Die Adventbewegung (im weiteren Sinne, schließt die Milleriten vor 1863 ein). Sabbathaltende Adventisten (der ursprüngliche Unterscheidungsname). Schwesterorganisationen und Abspaltungen: Davidianer (eine sabbathaltende Abspaltung, aus der die Branch Davidians unter David Koresh hervorgingen; die ursprünglichen Davidianer unterscheiden sich in ihrer Lehre deutlich von Koreshs späterer Kultgemeinschaft). Branch Davidians (David Koresh, die Gruppe von 1993 in Waco, Texas; dies ist eine weit extremere Abspaltung und nicht repräsentativ für den SDA-Mainstream). Reform Movement Adventists. Einige Ortsgemeinden werden schlicht als „Adventist Church [Stadt]" bezeichnet, ohne den Zusatz „Seventh-Day". Die General Conference of Seventh-day Adventists (das weltweite Leitungsgremium mit Sitz in Silver Spring, MD). ADRA (Adventist Development and Relief Agency, der humanitäre Arm). Loma Linda University (die führende medizinische Einrichtung der Bewegung).
+**Auch bekannt als:** SDA. Adventismus. Siebenten-Tags-Adventisten-Kirche. Siebenten-Tags-Adventisten-Denomination. Die Adventistische Kirche. Die Adventbewegung (breiter gefasst, schließt die vor-1863 Milleriten ein). Sabbathaltende Adventisten (der ursprüngliche Unterscheidungsname). Schwesterorganisationen und Abspaltungen: Davidianer (eine sabbathaltende Abspaltung, aus der die Zweig-Davidianer unter David Koresh hervorgingen; die ursprünglichen Davidianer unterscheiden sich in der Lehre deutlich von Koreshs späterer Sekte). Zweig-Davidianer (David Koresh, die Waco-Texas-Gruppe von 1993; dies ist eine weitaus extremere Abspaltung und nicht repräsentativ für den Mainstream-SDA). Reformbewegung der Adventisten. Einige Ortsgemeinden nennen sich einfach "Adventistische Kirche [Stadt]" ohne das "Siebenten-Tags"-Präfix. Die Generalkonferenz der Siebenten-Tags-Adventisten (die globale Leitungsinstanz, mit Hauptsitz in Silver Spring, MD). ADRA (Adventist Development and Relief Agency, ihr humanitärer Zweig). Loma Linda University (ihre wichtigste medizinische Einrichtung).
 
-**Hinweis zur Einordnung:** Der Siebenten-Tags-Adventismus ist tatsächlich umstritten. Seine aktuellen offiziellen Aussagen bekennen sich zur Trinität, zur Gottheit Christi, zur Errettung durch Gnade im Glauben und zur leiblichen Auferstehung. Viele Adventisten sind aufrichtige Gläubige des historischen Evangeliums. Die Bewegung weist jedoch historische und fortbestehende Lehren auf, die das historische Christentum als schwerwiegende Irrtümer eingestuft hat. Ich ordne sie in Tier Two ein, erkenne jedoch an, dass dies eine Ermessensentscheidung ist; manche sorgfältigen Theologen haben argumentiert, sie gehöre in Tier Three.
+**Hinweis zur Einordnung:** Der Siebenten-Tags-Adventismus ist wirklich umstritten. Die aktuellen öffentlichen Erklärungen bestätigen die Dreieinigkeit, die Gottheit Christi, die Errettung durch Gnade durch Glauben und die leibliche Auferstehung. Viele Adventisten sind aufrichtige Gläubige des historischen Evangeliums. Die Bewegung hat jedoch historische und fortlaufende Lehren, die das historische Christentum als ernsthafte Irrtümer identifiziert hat. Ich ordne sie in Stufe Zwei ein, erkenne dabei an, dass dies eine Ermessungsentscheidung ist; einige sorgfältige Theologen haben argumentiert, sie gehöre in Stufe Drei.
 
-**Gründer:** Ellen G. White (1827–1915), wobei William Millers prophetische Bewegung von 1844 das Umfeld bildete, aus dem der Adventismus hervorging.
+**Gründerin:** Ellen G. White (1827-1915), mit William Millers prophetischer Bewegung von 1844 als dem Milieu, aus dem der Adventismus hervorgegangen ist.
 
-**Das Problem mit 1844:** William Miller sagte voraus, Christus werde am 22. Oktober 1844 wiederkommen. Als Christus nicht zurückkehrte, erlebten Millers Anhänger die „Große Enttäuschung". Die meisten Milleriten ließen die Prophezeiung fallen. Eine kleine Gruppe unter der Führung von Hiram Edson und später Ellen White lehrte, Miller habe das Datum richtig, das Ereignis aber falsch benannt: Christus sei nicht auf die Erde zurückgekehrt, sondern habe das „Allerheiligste" eines himmlischen Heiligtums betreten, um ein „Untersuchungsgericht" über die Gläubigen zu beginnen. Diese Lehre, die einzigartig im Adventismus ist, hat keine biblische Grundlage; sie wurde nachträglich konstruiert, um Millers gescheiterte Prophezeiung zu retten.
+**Das Problem von 1844:** William Miller sagte die Wiederkehr Christi für den 22. Oktober 1844 voraus. Als Christus nicht wiederkam, erlebten Millers Anhänger die "Große Enttäuschung". Die meisten Milleriten gaben die Vorhersage auf. Eine kleine Gruppe, angeführt von Hiram Edson und später Ellen White, lehrte, dass Miller bezüglich des Datums recht gehabt, aber in Bezug auf das Ereignis geirrt hatte: Christus sei nicht zur Erde zurückgekehrt, sondern habe das "Allerheiligste" eines himmlischen Heiligtums betreten, um ein "Untersuchungsgericht" über die Gläubigen zu beginnen. Diese Lehre, einzigartig im Adventismus, hat keine schriftliche Grundlage; sie wurde rückwirkend konstruiert, um Millers gescheiterte Vorhersage zu retten.
 
-**Ellen G. White als Prophetin:** White beanspruchte über 2.000 Visionen während ihres Lebens und verfasste Dutzende von Büchern, von denen *Der Große Kampf* und *Schritte zu Christus* am einflussreichsten sind. Adventisten betrachten ihre Schriften offiziell als „kleineres Licht", das auf das „größere Licht" der Schrift hinweist; in der Praxis jedoch fungieren ihre Schriften als maßgebliche Auslegungsinstanz. Wo ihre Schriften natürlichen Lesarten der Schrift widersprechen (das Untersuchungsgericht, der Sabbat als Heilsfrage, Ernährungsvorschriften als moralische Gebote), setzen sich ihre Schriften in der Regel durch.
+**Ellen G. White als Prophetin:** White beanspruchte über 2.000 Visionen in ihrem Leben und verfasste Dutzende von Büchern, von denen *The Great Controversy* und *Steps to Christ* die einflussreichsten sind. Adventisten betrachten ihre Schriften offiziell als ein "kleineres Licht", das auf das "größere Licht" der Schrift hinweist, aber in der Praxis funktionieren ihre Schriften als maßgebliche Auslegung. Wo ihre Schriften natürlichen Lesungen der Schrift widersprechen (das Untersuchungsgericht, der Sabbat als Heilsfrage, Ernährungsvorschriften als moralische Imperative), neigen ihre Schriften dazu zu gewinnen.
 
-**Die Frage des Sabbats als Heilsfrage:** Der Adventismus lehrt, dass die Einhaltung des siebten Tags (Samstag) als Sabbat ein entscheidendes endzeitliches Merkmal der wahren Kirche Gottes ist und dass die Sonntagsverehrung das „Zeichen des Tieres" aus Offenbarung 13 sein werde. Dies geht über eine einfache Sabbateinhaltung (die biblische Grundlage hat; vgl. den Sabbatabschnitt in diesem Dokument) hinaus, indem sie die Sabbateinhaltung zur Heilsfrage erhebt. (Kolosser 2,16): „So lasst nun niemanden euch richten wegen Speise und Trank oder bezüglich eines Festes oder eines Neumondes oder eines Sabbats." (Römer 14,5-6): gewährt Freiheit in der Frage der Tageshaltung. Die Sabbateinhaltung zur Trennlinie zwischen Geretteten und Verlorenen zu machen, wie es manche adventistische Literatur tut, widerspricht diesen Stellen.
+**Die Sabbat-als-Heilsfrage:** Der Adventismus lehrt, dass die Einhaltung des siebten Tages Sabbats (Samstag) ein wichtiges endzeitliches Merkmal von Gottes wahrer Kirche ist und dass die Sonntagsanbetung das "Malzeichen des Tieres" aus Offenbarung 13 sein wird. Das geht über eine einfache Sabbatbeachtung (die biblische Grundlage hat; siehe den Sabbat-Abschnitt in diesem Dokument) hinaus, indem die Sabbateinhaltung zu einer Heilsfrage gemacht wird. (Kolosser 2,16): "So lasst nun niemanden euch richten in Speise oder Trank oder hinsichtlich eines Festes oder Neumondes oder eines Sabbats." (Römer 14,5-6): erlaubt Freiheit bei der Beobachtung von Tagen. Die Sabbateinhaltung zur Trennlinie zwischen Geretteten und Verlorenen zu machen, wie es einige adventistische Literatur tut, widerspricht diesen Passagen.
 
-**Warum es in Tier Two steht:** Das Untersuchungsgerichtsdogma hat keine biblische Grundlage und wurde konstruiert, um eine gescheiterte Prophezeiung zu retten. Ellen Whites Schriften fungieren als zweite Autorität neben der Schrift, auch wenn dies offiziell bestritten wird. Die Rahmung des Sabbats als Heilsfrage verzerrt das Evangelium der Gnade. Dies sind keine geringfügigen Irrtümer. Gleichwohl bekennen Adventisten im Allgemeinen das historische Evangelium, und viele sind echte Gläubige. Die oben genannten Irrtümer sind schwerwiegend genug, um hier aufgenommen zu werden; das Evangelium selbst wird jedoch nicht verneint, wie es in Tier One der Fall ist.
+**Warum es in Stufe Zwei ist:** Die Lehre des Untersuchungsgerichts hat keine biblische Grundlage und wurde konstruiert, um eine gescheiterte Prophezeiung zu retten. Ellen Whites Schriften fungieren als zweite Autorität neben der Schrift, auch wenn das offiziell bestritten wird. Die Sabbat-als-Heilsrahmen verzerrt das Evangelium der Gnade. Das sind keine geringfügigen Fehler. Gleichzeitig bejahen Adventisten im Allgemeinen das historische Evangelium, und viele sind echte Gläubige. Die obigen Fehler sind schwerwiegend genug, um die Aufnahme hier zu rechtfertigen, aber das Evangelium selbst wird nicht geleugnet wie in Stufe Eins.
 
 ---
+### Neue Apostolische Reformation und moderne Apostelbewegungen
+### Neue Apostolische Reformation (NAR) (1990er bis heute)
 
+**Auch bekannt als:** NAR. Neue Apostolische Reformation. Apostolische Reformation. Apostolisch-Prophetische Bewegung. Unabhängige Charismatische Bewegung. Dritte Welle (der breitere charismatische Strom des 20. Jahrhunderts, der die NAR hervorbrachte). Strategische Geistliche Kriegsführung auf höherer Ebene (das C. Peter Wagner-System). Identifikatorische Buße. Geistliches Kartographieren. Sieben-Berge-Mandat / Sieben-Berg-Herrschaft (der Herrschafts-theologische Rahmen). Dominionismus / Herrschaftstheologie (das breitere politisch-theologische Projekt). Sieben Einflussberge (Ursprung bei Loren Cunningham/Bill Bright, von der NAR vereinnahmt). Rekonstruktionismus (überschneidend, aber eigenständig, reformierterer Herkunft). Theonomie (überschneidend). Joels Armee. Die Elija-Generation. Die Brautbewegung. Das Leitungsmodell "Apostel und Propheten". Hauptfiguren: C. Peter Wagner (der Haupttheologe und Namensgeber; gestorben 2016). Cindy Jacobs. Mike Bickle (International House of Prayer / IHOPKC, Kansas City; bedeutender Missbrauchsskandal 2023-2024). Bill Johnson (Bethel Church, Redding, CA). Kris Vallotton (Bethel). Lou Engle. Lance Wallnau. Ché Ahn (Harvest International Ministry). Dutch Sheets. Chuck Pierce. Patricia King. Bob Jones (der "Prophet"). Paul Cain (verbunden mit den Kansas City Prophets; gab später Alkoholismus und Homosexualität zu). Rick Joyner (MorningStar Ministries). Paula White (Trump-verbunden; verbindet NAR und Word of Faith). Netzwerke: International Coalition of Apostolic Leaders (ICAL, Wagners Netzwerk). Apostolic Council of Prophetic Elders (ACPE). U.S. Reformation Prayer Network. Wichtige Institutionen: Bethel Church (Redding, CA). International House of Prayer Kansas City (IHOPKC, vor dem Skandal 2023-2024). The Pohl Network.
+
+**Gründer:** Kein einzelner Gründer. C. Peter Wagner (1930-2016) prägte 1996 den Begriff "Neue Apostolische Reformation" und gab der Bewegung ihre theologische Architektur, indem er auf John Wimbers Vineyard-Bewegung, dem Toronto-Segen (1994) und dem breiteren charismatischen Strom der Dritten Welle aufbaute. Wagners Bücher *Apostles Today* (2006) und *Dominion!* (2008) sind die systematischen Darlegungen.
+
+**Kernlehren:**
+
+- Moderne Apostel und Propheten existieren heute mit einer Autorität, die den ursprünglichen Zwölfen gleichwertig ist. Ihre Erklärungen sind offenbarend und bindend.
+- Die sieben "Berge" des kulturellen Einflusses (Religion, Familie, Bildung, Regierung, Medien, Kunst/Unterhaltung, Wirtschaft) müssen unter christliche Herrschaft gebracht werden, bevor Christus wiederkehrt. Christus kommt nicht, UM das Böse zu besiegen; er kommt, NACHDEM die Kirche das Böse besiegt hat.
+- "Strategische geistliche Kriegsführung auf hoher Ebene" gegen benannte territoriale Dämonen über Städten, Nationen und Völkergruppen. Dies umfasst "geistliches Kartographieren" von Städten und "identifikatorische Buße" für Vorfahren- und Kollektivsünden.
+- "Soaking Prayer" (einweikendes Gebet), "Feuertunnel", "prophetische Aktivierungen", "Grabeinweichen" (Liegen auf den Gräbern verstorbener Christen, um ihre Salbung aufzunehmen; bei Bethel und anderswo dokumentiert), "Herrlichkeitswolken" (Goldstaub-Manifestationen), Federn vom Himmel, erscheinende Juwelen.
+- Direkte Offenbarung, die die Schrift ergänzt oder sogar korrigiert. "Gott hat mir gesagt" gilt als maßgeblich.
+- Konsequenzen der "Herrschaftstheologie" für die Politik, mit starker Überschneidung mit US-amerikanischen christlich-nationalistischen Bewegungen seit 2016.
+
+**Häufige Erkennungsphrasen:**
+
+- "Apostolische Bedeckung."
+- "Prophetische Ausrichtung."
+- "Frische Offenbarung."
+- "Neuer Wein."
+- "Die nächste Bewegung Gottes."
+- "Taste nicht den Gesalbten des Herrn an."
+- "Aktiviere deinen Mantel."
+- "Verändere die Atmosphäre."
+- "Nimm die sieben Berge ein."
+- "Dekretiere und erkläre."
+- "Offener Himmel."
+- "Impartation" (Übertragung).
+- "Prophetisches Wort."
+
+**Dokumentierte Schäden:**
+
+- Prophezeiungen scheiterten öffentlich und wurden dann stillschweigend vergessen. Die Wahlprophezeiungen von 2020 über Trumps sicheren Wahlsieg durch wichtige NAR-Propheten (Jeremiah Johnson, Kris Vallotton, Kat Kerr und andere) scheiterten öffentlich. Einige entschuldigten sich; viele gingen einfach weiter.
+- Mike Bickle (IHOPKC-Gründer), 2023-2024: Mehrere Frauen traten mit glaubwürdigen Anschuldigungen jahrzehntelangen sexuellen Missbrauchs an die Öffentlichkeit. Die Führung von IHOPKC verteidigte Bickle zunächst und begann erst nach öffentlichem Druck, die Anschuldigungen anzuerkennen. Das institutionelle Muster der Vertuschung ähnelt anderen religiösen Missbrauchsskandalen.
+- "Bethel-Sozo"-Therapie und Innenheilungspraktiken, die psychologische Methoden importieren (Regression, "Gedächtnisheilung", manchmal angrenzend an die Therapie der wiedergewonnenen Erinnerung, die weitgehend diskreditiert wurde) unter geistlichen Bezeichnungen.
+- Finanzielle Konzentration in apostolischen Netzwerken. Wagners apostolisches Leitungsmodell umfasst die Abgabe des Zehnten an "geistliche Väter" über die Ortsgemeinde hinaus.
+- Ehemalige Mitglieder bezeugen geistliche Manipulation, prophetisches Wort als Kontrollmechanismus ("so spricht der Herr, du musst...") und das Meiden derer, die gehen.
+
+**Warum es Ketzerei ist:**
+
+- (Epheser 2,20): Die Kirche ist "aufgebaut auf dem Fundament der Apostel und Propheten, wobei Jesus Christus selbst der Eckstein ist." Das Fundament ist gelegt; moderne "Apostel", die Grundlagenautorität beanspruchen, beanspruchen, was der Text als abgeschlossen bezeichnet.
+- (Judas 3): "der Glaube, der den Heiligen ein für alle Mal übergeben wurde." Ein für alle Mal. Nicht in fortlaufenden Raten durch neue Apostel.
+- Neue Offenbarung, die die Schrift ergänzt oder korrigiert: (Offenbarung 22,18; Sprüche 30,6; Galater 1,8-9).
+- Gescheiterte Prophezeiungen: (5. Mose 18,22). Die Wahlprophezeiungen von 2020 allein disqualifizieren die prophetischen Ansprüche der Bewegung.
+- Die Herrschaftstheologie, die besagt, Christus komme zurück, NACHDEM die Kirche die Kultur besiegt hat, kehrt (Apostelgeschichte 1,11; Matthäus 24,30; Offenbarung 19,11-16) um. Christus kommt, um sein Reich zu bringen; das Reich wird nicht zu ihm aufgebaut.
+- (1. Timotheus 6,5): "die meinen, Gottseligkeit sei ein Mittel zum Erwerb." Apostolische Netzwerke mit Wohlstandsüberschneidung.
+- (Matthäus 7,15-20): Prüfung anhand der Früchte. Der Bickle-Skandal, der Bob-Jones-Skandal (1991, sexuell missbräuchliches prophetisches Ministerium), der Paul-Cain-Skandal, der Todd-Bentley-Skandal (2008, Ehebruch und Drogenmissbrauch während einer Lakeland-"Erweckung"), der Mark-Driscoll-Plagiat- und Missbrauchsskandal, sind keine Einzelfälle. Sie sind ein Muster.
+
+**Warum es gefährlich ist:** Die neutestamentlichen Apostel waren Augenzeugen des auferstandenen Christus und Grundsteine der Kirche (Epheser 2,20). Dieses Fundament wird nicht jede Generation neu gegossen. Moderne Lehrer können predigen, seelsorgerlich begleiten, evangelisieren und ermahnen, aber sie besitzen keine apostolische Autorität, die der Schrift gleichwertig ist.
+
+Wenn ein Leiter frische Offenbarung beansprucht, die nicht hinterfragt werden kann, wird die Kirche nicht mehr von der Schrift geleitet. Sie wird von einer Persönlichkeit geleitet.
+
+**Schriftliche Korrektur:**
+
+- Der Glaube wurde ein für alle Mal den Heiligen übergeben (Judas 3).
+- Die Schrift rüstet den Gottesmann zu jedem guten Werk aus (2. Timotheus 3,16-17).
+- Falsche Propheten werden daran geprüft, ob ihre Worte in Erfüllung gehen (5. Mose 18,21-22).
+- Selbst echte geistliche Gaben müssen geprüft und beurteilt werden (1. Korinther 14,29; 1. Thessalonicher 5,20-21).
+- Kein Lehrer steht über Korrektur (Galater 2,11-14).
+
+**Die Antwort:** Gott führt, überführt, tröstet und begabt sein Volk noch immer. Aber kein moderner Prophet, Apostel, Traum, Vision, Mantel oder "Wort vom Herrn" kann das geschriebene Wort Gottes übertreffen.
+
+---
+### Branhamismus / Die Botschaft / "Latter Rain"-Prophetenbewegungen
+
+**Auch bekannt als:** Die Botschaft. Die Botschaft der Stunde. William Branhams Botschaft. Die Endzeitbotschaft. Branhamiten (manchmal abwertend). Voice of God Recordings (die primäre Verlagsinstanz für Branhams Predigten). Die Braut Christi (Selbstbezeichnung der Mitglieder, mit starker Implikation, dass nur Branham-Anhänger die wahre Braut sind). Bible Believers (ein gebräuchlicher Gemeindename). Branham Tabernacle (Jeffersonville, Indiana, der ursprüngliche Hauptsitz). Branham Memorial. Latter Rain Movement (breiterer charismatisch-prophetischer Strom von 1948, der Branham beeinflusste und von ihm beeinflusst wurde). New Order of the Latter Rain. Manifest Sons of God-Lehre (die häretische Unterströmung, dass Menschen in diesem Leben Göttlichkeit erlangen können). Die "Joels Armee"-Bewegung. Eng verwandte und überschneidende Figuren: A.A. Allen, Oral Roberts (in einigen Lehrverbindungen), Paul Cain, Bob Jones (der Prophet, nicht die Universität), William Branhams primärer Lehrnachfolger Lee Vayle. Moderne Erben in der Neuen Apostolischen Reformation (gesondert behandelt) stützen sich stark auf Branhams prophetische Ansprüche und Revialistenstil.
+
+**Gründer:** William Marrion Branham (1909-1965), in Indiana ansässiger pfingstlich-charismatischer Prediger. Bei einem Frontalzusammenstoß in Texas im Dezember 1965 getötet. Anhänger warteten jahrelang auf seine Auferstehung; einige erwarten sie noch immer.
+
+**Kernverzerrungen:**
+
+- Branham war der prophezeite "Elija von Maleachi 4,5-6", der alle Dinge vor der Wiederkunft Christi wiederherstellen würde.
+- Branhams gesprochene Predigten sind *so spricht der Herr*-Prophezeiungen, die der Schrift gleichgestellt sind.
+- Die "Schlangensamen"-Lehre: Evas Sünde in Eden war eine wörtliche sexuelle Beziehung mit der Schlange (interpretiert als ein aufrechtes Wesen vor dem Fluch), die Kain als den buchstäblichen Samen der Schlange hervorbrachte. Kains Nachkommen sind rassisch und geistlich verschieden von Adams Nachkommen. Diese Lehre wurde zur Rechtfertigung rassischer Hierarchien verwendet und wird von der Mainstream-christlichen Wissenschaft als exegetisch haltlos und moralisch korrumpiert abgelehnt.
+- Modalismus / Einheit-Theologie: Branham leugnete in seiner ausgereiften Lehre die Dreieinigkeit und vertrat, dass Vater, Sohn und Geist Titel der einen Person Jesus sind.
+- Das "sieben Gemeindezeitalter"-Rahmenwerk, in dem er sich selbst als den Boten des siebten Zeitalters (des Laodizeischen) identifizierte, den letzten Boten vor Christi Wiederkehr.
+- "Bestätigung" durch Zeichen: Branham behauptete, Gedanken lesen zu können, Krankheiten durch Gabe zu identifizieren und über Einzelpersonen *so spricht der Herr* auszusprechen. Einige Heilungen scheinen dokumentiert worden zu sein; andere waren es nicht, und nachträgliche Untersuchungen durch seine eigenen ehemaligen Anhänger fanden erheblichen Betrug und Manipulation in seinen "Unterscheidungs"-Sitzungen.
+
+**Gescheiterte Prophezeiungen:**
+
+- Branham sagte voraus, dass bis 1977 alle Denominationen vom Ökumenischen Rat der Kirchen aufgesogen würden, die Entrückung stattfinden und das Millennium beginnen würde. Nichts davon geschah.
+- Er sagte die Zerstörung von Los Angeles durch ein Erdbeben voraus, das in den Ozean gleiten würde. Geschah nicht.
+- Er sagte spezifische Ereignisse in Zusammenhang mit Frauenhaaren, Mode und Politik voraus, die nicht eintraten.
+
+(5. Mose 18,22) ist direkt bei gescheiterten Prophezeiungen. Branhams Anhänger haben wiederholt umdatiert und neu interpretiert, um das System aufrechtzuerhalten.
+
+**Warum es Ketzerei ist:**
+
+- Fügt einen neuen Propheten hinzu, dessen Worte der Schrift gleichgestellt sind: (Offenbarung 22,18; Sprüche 30,6). Der *so spricht der Herr*-Anspruch Branhams über Lehren, die den Aposteln widersprechen, macht ihn zu einem Testfall für (Galater 1,8-9).
+- Modalismus: dieselben Schriftkonflikte wie beim Einheits-Pfingstlertum (Matthäus 3,16-17; Johannes 17; Johannes 14,16; Hebräer 1,8-9).
+- Die Schlangensamen-Lehre ist exegetisch unmöglich. 1. Mose 3 beschreibt nirgendwo einen sexuellen Kontakt zwischen Eva und der Schlange. Der "Samen" von 1. Mose 3,15 ist metaphorisch/genealogisch, die Erlösungslinie gegenüber der Bösen Linie. Kain wird in (1. Mose 4,1; 1. Mose 5,3) ausdrücklich als Adams Sohn beschrieben.
+- Die "Manifest Sons of God"-Theologie, bei der Elite-Gläubige in diesem Leben Göttlichkeit erlangen, gleicht den Irrtümern der Mormonen und des Word of Faith und ist durch (Jesaja 43,10; Jesaja 44,6) verboten.
+- Gescheiterte Prophezeiung disqualifiziert. Die Wachtturm-Gesellschaft hat dasselbe Problem; Branham hat dasselbe Problem.
+
+---
+### Zwölf Stämme / Yellow Deli
+
+**Auch bekannt als:** Die Zwölf Stämme. Die Zwölf-Stämme-Gemeinschaften. Zwölf Stämme Israels (ihre Selbstbezeichnung, die buchstäbliche Abstammung oder Eingliederung beansprucht). Messianische Gemeinschaften. Gemeinschaften von Yahshua (ihre bevorzugte Form für "Yeshua/Jesus"). Ihre nach außen gerichteten Unternehmen: Yellow Deli (eine Cafékette, primäres Rekrutierungsmittel in Universitätsstädten und Tourismusgebieten). Common Ground Cafe. Common Sense Café. Mate Factor (Bio-Mate-Teemarke). Common Sense Farm. Verschiedene Bio-Farmen, Baufirmen, Schreinereien und Kunsthandwerksmessen. Sie sind bei Veranstaltungen wie dem Rainbow Gathering und verschiedenen Festivals aufgetreten. Internationale Gemeinschaften in den USA, Kanada, Argentinien, Brasilien, Frankreich, Spanien, Deutschland, England, Australien und anderswo.
+
+**Gründer:** Elbert Eugene "Gene" Spriggs (1937-2021) und seine Frau Marsha. Gegründet in Chattanooga, Tennessee.
+
+**Kernlehren:**
+
+- Errettung erfordert den Beitritt zu einer Zwölf-Stämme-Gemeinschaft. Außerhalb der Gemeinschaft gibt es keine Errettung. Sie sind das "Überbleibsel", das für die Endzeit gesammelt wird.
+- Gemeinschaftliches Eigentum: Mitglieder übergeben beim Beitritt alle Vermögenswerte.
+- Strikte patriarchalische Struktur. Frauen unterwerfen sich Ehemännern; Ehemänner unterwerfen sich Ältesten. Spriggs' Schriften enthalten schwere Aussagen über die Rollen der Frauen.
+- Körperliche Züchtigung von Kindern mit dünnen, rohrartigen Stäben, beginnend in sehr jungem Alter. Dies hat in mehreren Ländern zu Kindesmissbrauchsermittlungen geführt. Deutsche Behörden entfernten 2013 ungefähr 40 Kinder aus der Gemeinschaft aufgrund dokumentierten Missbrauchs.
+- Rassenlehre: Spriggs lehrte, dass der Fluch Hams schwarze Menschen zu Sklaven macht und dass Martin Luther King Jr. ein Werkzeug des Teufels war. Diese Schriften sind noch in ihren internen Materialien vorhanden.
+- Errettung durch Werke: erfordert vollständige Hingabe, gemeinschaftliche Arbeit und Gehorsam gegenüber Ältesten. Das Kreuz Christi ist notwendig, aber unzureichend ohne Eintritt in die Gemeinschaft.
+- Anti-modern / anti-weltliche Welt: lehnt die meisten modernen Medikamente ab, verweigert die konventionelle Schulbildung für Kinder (Heimunterricht nach gemeinschaftlich kontrolliertem Lehrplan), selektiv viel Technologie.
+
+**Dokumentierte Schäden:**
+
+- Mehrere Kindesmissbrauchsermittlungen und -entfernungen (Deutschland 2013, Frankreich, USA in verschiedenen Bundesstaaten).
+- Ehemalige Mitglieder bezeugen psychologische Manipulation, Zwangsarbeit, Schlafentzug, eingeschränkte Kommunikation mit der Außenfamilie.
+- 2001 Untersuchung des US-Arbeitsministeriums zu Kinderarbeit in ihren Unternehmen.
+- Rassismus in veröffentlichten Materialien.
+
+**Warum es Ketzerei ist:**
+
+- Fügt dem Glauben an Christus Voraussetzungen für die Errettung hinzu: (Galater 1,8-9; Epheser 2,8-9).
+- "Nur Mitglieder"-Errettung: widerspricht (Römer 10,13; Matthäus 28,19).
+- (Matthäus 18,6): die Mühlsteinpassage über das Schaden an Kindern.
+- Verbietet, was Gott erlaubt (Medizin, normales Eigentum, normale Familienstruktur außerhalb der Gemeinschaft): (1. Timotheus 4,1-3).
+- Rassenlehre widerspricht (Galater 3,28; Apostelgeschichte 17,26).
+- Gescheiterte Prophezeiung: Spriggs sagte spezifische Zeitpläne für die Wiederkunft Christi voraus, die sich nicht erfüllten.
+
+---
+### Heaven's Gate
+
+**Auch bekannt als:** The Total Overcomers Anonymous. Total Overcomers. The Two (Marshall Applewhite und Bonnie Nettles, die Gründer, die sich selbst "Bo und Peep", "Do und Ti" und andere Paarnamen gaben). Human Individual Metamorphosis (HIM, ein früher Name). Higher Source Contract Enterprises (ein Webdesignunternehmen, das sie in ihren letzten Jahren betrieben; zu den Kunden gehörten einige große Hollywoodstudios, die nicht wussten, wer ihre Entwickler waren).
+
+**Gründer:** Marshall Applewhite (1931-1997) und Bonnie Nettles (1927-1985). Begegneten sich 1972 in einem Krankenhaus in Houston; begannen 1974, ihre UFO-christliche Synkretismus-Lehre zu verbreiten.
+
+**Ergebnis:** Am 26. März 1997 wurden 39 Mitglieder einschließlich Applewhite tot in einem gemieteten Anwesen in Rancho Santa Fe, Kalifornien, gefunden. Sie hatten Massenselbstmord mit Phenobarbital und Wodka begangen und dann Plastiktüten über ihre Köpfe gelegt, in der Überzeugung, dass ihre Seelen zu einem UFO transportiert würden, das hinter dem Kometen Hale-Bopp reist. Ihre Körper waren identisch in schwarzer Kleidung und Nike Decade-Turnschuhen gekleidet.
+
+**Kernlehren:**
+
+- Die biblischen Hinweise auf das Reich des Himmels beschreiben tatsächlich eine außerirdische Zivilisation namens "The Evolutionary Level Above Human" (die evolutionäre Ebene über dem Menschen).
+- Jesus war ein Mitglied dieses höheren Reiches, in menschlicher Form gesandt, um den Weg des Aufstiegs zu lehren.
+- Applewhite und Nettles waren die "zwei Zeugen" von Offenbarung 11.
+- Der menschliche Körper ist ein "Fahrzeug", das abgelegt werden soll; die Seele überträgt sich in eine höhere Form.
+- Die Erde sollte bald "recycelt" (zerstört) werden; der einzige Ausweg war, den menschlichen Körper zu verlassen und aufzusteigen.
+- Der Komet Hale-Bopp (im März 1997 sichtbar) wurde von einem UFO begleitet, das die Seelen der Gläubigen sammeln würde.
+
+**Warum er auf dieser Liste steht:** Heaven's Gate ist der dokumentierte Endzustand des Ersetzens biblischer Autorität durch charismatische persönliche Offenbarung. Applewhite las christliche Terminologie in seine UFO-Eschatologie und seine Anhänger starben dafür. (Matthäus 24,23-24): "Wenn dann jemand zu euch sagen wird: Seht, hier ist der Christus! oder: Dort!, so glaubt es nicht. Denn es werden falsche Christusse und falsche Propheten auftreten und große Zeichen und Wunder tun, um, wenn möglich, auch die Auserwählten zu verführen." (Apostelgeschichte 1,11): "Dieser Jesus, der von euch weg in den Himmel aufgenommen wurde, wird ebenso wiederkommen, wie ihr ihn in den Himmel habt fahren sehen." Nicht in einem Raumschiff hinter einem Kometen. Durch leibliche Wiederkehr in Herrlichkeit.
+
+Das Muster: Ein charismatischer Lehrer liest die Schrift durch ein externes Rahmenwerk (UFO-Theologie), interpretiert jeden relevanten Abschnitt um, beansprucht einen einzigartigen Status als ernannter Bote, isoliert die Anhänger von äußerer Prüfung und erzeugt den Tod. Dasselbe Muster hat Jonestown, die Zweig-Davidianer in Waco, den Orden des Sonnentempels und andere hervorgebracht. (1. Thessalonicher 5,21): "Prüft aber alles und behaltet das Gute." Die Mitglieder von Heaven's Gate prüften nicht; sie starben.
+
+---
+### Scientology
+
+**Auch bekannt als:** Church of Scientology. CoS. Scientology-Religion. Dianetik (das Proto-Scientology-System aus L. Ron Hubbards Buch von 1950, bevor die Religion offiziell organisiert wurde). The Hubbard Association of Scientologists International. Sea Org / Sea Organization (der elitäre "religiöse Orden" innerhalb der Scientology; Mitglieder unterzeichnen "Milliarden-Jahres-Verträge"). Verschiedene juristische Entitäten: Religious Technology Center (RTC, hält die Markenrechte). Church of Scientology International (CSI). Scientology Missions International. Author Services Inc. Bridge Publications. New Era Publications. Tarnorganisationen, die rekrutieren, ohne die Verbindung zu identifizieren: Narconon (Drogenrehabilitation; hat zu Todesfällen geführt und ist mit Scientologys "Reinigungslaufband"-Pseudowissenschaft verbunden). Criminon (Gefängnisministerium). Applied Scholastics (Bildungstarnung; verwendet Hubbards "Study Tech"). Citizens Commission on Human Rights (CCHR, Interessenvertretung gegen Psychiatrie). The Way to Happiness Foundation. World Institute of Scientology Enterprises (WISE, Geschäftsnetzwerk). Volunteer Ministers (gelbe Hemden bei Katastrophen). Foundation for a Drug-Free World. United for Human Rights. Concerned Businessmen's Association.
+
+**Gründer:** L. Ron Hubbard (1911-1986), amerikanischer Science-Fiction-Autor, der 1950 die Dianetik gründete und sie 1954 als Church of Scientology reorganisierte. Hubbard sagte einem Bericht zufolge dem Science-Fiction-Kollegen Lloyd Eshbach 1949: "Ich würde gerne eine Religion gründen. Da ist das Geld." Dieses Zitat, von Scientology bestritten, ist unabhängig in Schriften von George Orwell, Theodore Sturgeon und anderen bestätigt, die im Raum waren. Hubbard starb 1986; David Miscavige leitet die Kirche seit 1987.
+
+**Hinweis zur Einordnung:** Scientology ist keine christliche Ketzerei. Sie ist eine neue Religionsbewegung des 20. Jahrhunderts, die auf östliche, westliche und Science-Fiction-Quellen zurückgreift, ohne ernsthafte Ansprüche zu erheben, christlich zu sein. Ich nehme sie auf, weil sie in christlichen Mehrheitsländern aggressiv vorgeht, junge Menschen einschließlich solcher mit christlichem Hintergrund rekrutiert, sich in vagen geistlichen Begriffen präsentiert, die einige Rekruten anfangs für mit dem Christentum vereinbar halten, und gut dokumentierten Schaden anrichtet.
+
+**Kernlehren (das Material der oberen Ebene, das erst nach umfangreichen bezahlten Kursen freigegeben wird):**
+
+- Vor 75 Millionen Jahren löste ein galaktischer Diktator namens Xenu sein Überbevölkerungsproblem, indem er Milliarden von Wesen zur Erde (damals "Teegeeack" genannt) transportierte, sie um Vulkane platzierte und Wasserstoffbomben zündete. Ihre Seelen ("Thetaner") hafteten sich an aktuelle menschliche Körper und verursachen heute psychologische Probleme.
+- Errettung kommt durch "Auditing" (Scientologys beicht-/therapeutischen Prozess) mit dem "E-Meter" (einem Galvanometergerät). Jede Auditing-Sitzung kostet erheblich Geld. Das Erreichen der oberen Stufen ("OT-Stufen", operierender Thetaner) kostet über Jahrzehnte hinweg Zehntausende bis Hunderttausende von Dollar.
+- Psychiatrie ist der absolute Feind und muss zerstört werden. Dies wird durch die CCHR operationalisiert.
+- "Trennung": Mitglieder werden verpflichtet, jeden Kontakt mit Familienmitgliedern oder Freunden abzubrechen, die die Kirche als "unterdrückerische Personen" (SPs) einstuft, einschließlich Eltern, Kinder und Ehepartner.
+- "Fair Game"-Doktrin: Hubbards Politik von 1965, nach der Feinde der Scientology "von jedem Scientologen durch jegliche Mittel ohne Disziplinierung des Scientologen in ihrem Eigentum geschädigt oder verletzt werden können. Sie können hintergangen, verklagt oder angelogen oder zerstört werden." Die Kirche sagt, diese Politik wurde 1968 aufgehoben; Dokumentation ehemaliger Mitglieder zeigt, dass sie in der Praxis fortgesetzt wurde.
+
+**Dokumentierte Schäden:**
+
+- Operation Snow White (1973-1977): die größte Infiltration der US-Regierung in der amerikanischen Geschichte. Scientology-Agenten infiltrierten die Steuerbehörde (IRS), das FBI, das Justizministerium (DOJ) und andere Behörden, um Dokumente über die Kirche zu stehlen. 11 hochrangige Scientologen, einschließlich Hubbards Frau Mary Sue, wurden verurteilt und inhaftiert. Hubbard wurde als nicht angeklagter Mitverschwörer genannt und tauchte für den Rest seines Lebens unter.
+- Lisa McPherson-Fall (1995): Lisa McPherson, eine Scientologin, starb in kirchlichem Gewahrsam, nachdem sie 17 Tage lang während eines "Typ-III-Psychose-Schubs" in Isolation gehalten worden war. Der Staat Florida klagte die Kirche wegen Misshandlung und Ausübung der Medizin ohne Lizenz an; das Strafverfahren wurde nach wichtigen Beweisproblemen eingestellt, aber der Zivilprozess wurde für einen undislosten Betrag beigelegt.
+- Sea Org-Missbrauch: dokumentierte Zwangsarbeit, Kinderarbeit (Hubbard gründete die Cadet Org für Kinder), erzwungene Abtreibungen für Sea Org-Mitglieder, damit sie weiterarbeiten konnten, und die "Rehabilitation Project Force" (RPF), ein System von Inhaftierung, schwerer Arbeit und Wiedererziehung für ungehorsame Sea Org-Mitglieder.
+- Trennung hat Tausende von Familien auseinandergebracht. Öffentliche Figuren, die Scientology verließen und von der Familie getrennt wurden, umfassen Leah Remini, Mike Rinder, Marty Rathbun und viele andere, die alle die Muster öffentlich dokumentiert haben.
+- Erhebliche Klagegeschichte gegen Journalisten, ehemalige Mitglieder und Kritiker. Die "Fair Game"-Politik in Betrieb.
+- Narconon-Einrichtungen wurden mit mehreren Todesfällen durch medizinische Vernachlässigung und dem "Reinigungslaufband" (Sauna, Niacin-Megadosierung, Vitamine) in Verbindung gebracht.
+
+**Warum sie auf dieser Liste steht:**
+
+- Scientology ist funktional eine neue Religion, die den rechtlichen Status einer Religion erkauft hat (IRS-Einigung von 1993 nach jahrzehntelangem Rechtsstreit). Sie vermarktet Selbstverbesserung, wirbt in christlich klingender Sprache ("eine Religion für die moderne Welt") und rekrutiert Menschen aus dem Christentum, Judentum und anderen Traditionen weg.
+- Sie leugnet die einzigartige Gottheit Christi (Hubbard lehrte, Jesus sei ein mächtiger Thetaner, aber kein Gott).
+- Sie leugnet die Auferstehung.
+- Sie leugnet die Sünde in irgendeinem biblischen Sinne; Probleme werden durch altes Außerirdischentrauma verursacht, nicht durch menschliche Rebellion gegen einen heiligen Gott.
+- Sie ersetzt Errettung durch das Kreuz durch Errettung durch bezahltes Auditing.
+- Ihre Früchte (Operation Snow White, Sea Org-Missbräuche, Trennung von Familien, Todesfälle in Gewahrsam, jahrzehntelanger Rechtsstreit gegen Kritiker) zeugen von ihrem Charakter.
+
+(Matthäus 7,15-20): "Hütet euch vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber reißende Wölfe sind. An ihren Früchten werdet ihr sie erkennen."
+(Galater 1,8-9): Ein anderes Evangelium, das von jemandem gepredigt wird, ist verflucht. Scientology predigt ein anderes Evangelium; es sollte markiert werden.
+
+Wenn du Scientology-Rekrutierung begegnest, wird sie wahrscheinlich durch eine der Tarnorganisationen kommen. "Stresstest", "Persönlichkeitstest", "kostenloser Kommunikationskurs", "drogenfreie Welt" oder freiwilliges Katastrophenministerium sind häufige Einstiegspunkte. Erkennung ist die erste Verteidigung.
+
+---
 ### Christadelphians
 
 **Auch bekannt als:** Brüder in Christus (eine nicht verwandte Denomination trägt denselben Namen; nicht verwechseln). Die Bruderschaft (Selbstbezeichnung der Mitglieder). Thomasiten (nach Gründer John Thomas, überwiegend historisch). Christadelphianische Bibelstudenten. Christadelphianische Ekklesia (ihre Bezeichnung für eine Ortsgemeinde). Die Berean Christadelphians (einer der größten Gemeinschaftszweige). Die Amended Christadelphians. Die Unamended Christadelphians. Die Dawn Christadelphians. Die Central Christadelphians. Die Old Paths Christadelphians. Die Aufgliederung in Untergruppen spiegelt interne Spaltungen über Lehrpunkte wider; alle teilen jedoch die arianische Christologie und die Heilslehre aus Werken und Glauben.
@@ -453,7 +790,7 @@ Die Toten kommunizieren nicht mit den Lebenden. Was der Spiritualismus kontaktie
 
 ---
 
-### Einheits-Pfingstbewegung / Modalismus
+### Pfingstbewegung / Modalismus
 
 **Auch bekannt als:** Oneness Pentecostal. Apostolic Pentecostal. Apostolic Faith. United Pentecostal Church International (UPCI, der größte Einheitspfingstverband). Pentecostal Assemblies of the World (PAW, der historisch schwarze Einheitspfingstverband). Bible Way Church. The Apostolic Church. Oneness Apostolic. Jesus Only. Jesus Name. Jesus-Name-Pfingstbewegung. Sabellianismus (der historische patristische Name, nach Sabellius). Modalistischer Monarchianismus (der technische patristische Begriff). Patripassianismus (eine Untervariante, die lehrt, dass der Vater am Kreuz gelitten hat, da Vater, Sohn und Geist dieselbe Person sind). Modalisten (allgemein). Die „Apostelgeschichte 2:38"-Leute (nach dem Vers, den sie für die Jesu-Namen-Taufe anführen). Einige kleinere Einheitspfingstgemeinden verwenden Namen wie „True Jesus Church", „First Born Church of the Living God", „Way of the Cross Church of Christ" und verschiedene „Apostolic"-Bezeichnungen. Die trinitarischen Pfingstdenominationen (Assemblies of God, Foursquare Gospel, Church of God Cleveland, Pentecostal Holiness Church) sind KEINE Einheitspfingstler; nur die oben genannten Verbände sind es.
 

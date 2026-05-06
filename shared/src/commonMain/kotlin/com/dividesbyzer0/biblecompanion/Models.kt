@@ -58,12 +58,10 @@ data class PrefsState(
   val ordainedFeastsExpanded: Boolean = false,
   val hapticEnabled: Boolean = true,
   val customThemeHue: Float = 210f,
-  val showKeyTakeaway: Boolean = false,
-  val showCrossRefs: Boolean = false,
-  val showManuscriptVariants: Boolean = false,
-  val showTranslationNotes: Boolean = false,
+  val expandNotesDefault: Boolean = false,
   val collapsedStoriesJson: String = "{}",
   val autoContinueTts: Boolean = true,
+  val crossBookTts: Boolean = false,
   // JSON object: { "<assetFileName>": ["<sectionHeader>", ...], ... }
   val notesExpandedSectionsJson: String = "{}",
   // Local date ("YYYY-MM-DD") on which VOTD was dismissed; empty = not dismissed

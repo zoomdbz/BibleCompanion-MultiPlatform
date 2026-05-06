@@ -44,10 +44,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val ORDAINED_FEASTS_EXPANDED = booleanPreferencesKey("ordained_feasts_expanded")
         val HAPTIC_ENABLED = booleanPreferencesKey("haptic_enabled")
         val CUSTOM_THEME_HUE = floatPreferencesKey("custom_theme_hue")
-        val SHOW_KEY_TAKEAWAY = booleanPreferencesKey("show_key_takeaway")
-        val SHOW_CROSS_REFS = booleanPreferencesKey("show_cross_refs")
-        val SHOW_MANUSCRIPT_VARIANTS = booleanPreferencesKey("show_manuscript_variants")
-        val SHOW_TRANSLATION_NOTES = booleanPreferencesKey("show_translation_notes")
+        val EXPAND_NOTES_DEFAULT = booleanPreferencesKey("expand_notes_default")
+        val CROSS_BOOK_TTS = booleanPreferencesKey("cross_book_tts")
         val COLLAPSED_STORIES_JSON = stringPreferencesKey("collapsed_stories_json")
         val AUTO_CONTINUE_TTS = booleanPreferencesKey("auto_continue_tts")
         val NOTES_EXPANDED_SECTIONS_JSON = stringPreferencesKey("notes_expanded_sections_json")
@@ -93,12 +91,10 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             ordainedFeastsExpanded = p[Keys.ORDAINED_FEASTS_EXPANDED] ?: false,
             hapticEnabled = p[Keys.HAPTIC_ENABLED] ?: true,
             customThemeHue = p[Keys.CUSTOM_THEME_HUE] ?: 210f,
-            showKeyTakeaway = p[Keys.SHOW_KEY_TAKEAWAY] ?: false,
-            showCrossRefs = p[Keys.SHOW_CROSS_REFS] ?: false,
-            showManuscriptVariants = p[Keys.SHOW_MANUSCRIPT_VARIANTS] ?: false,
-            showTranslationNotes = p[Keys.SHOW_TRANSLATION_NOTES] ?: false,
+            expandNotesDefault = p[Keys.EXPAND_NOTES_DEFAULT] ?: false,
             collapsedStoriesJson = p[Keys.COLLAPSED_STORIES_JSON] ?: "{}",
             autoContinueTts = p[Keys.AUTO_CONTINUE_TTS] ?: true,
+            crossBookTts = p[Keys.CROSS_BOOK_TTS] ?: false,
             notesExpandedSectionsJson = p[Keys.NOTES_EXPANDED_SECTIONS_JSON] ?: "{}",
             votdDismissedDate = p[Keys.VOTD_DISMISSED_DATE] ?: ""
         )
@@ -172,17 +168,11 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
     actual suspend fun setCustomThemeHue(hue: Float) =
         context.dataStore.edit { it[Keys.CUSTOM_THEME_HUE] = hue }.let { Unit }
 
-    actual suspend fun setShowKeyTakeaway(show: Boolean) =
-        context.dataStore.edit { it[Keys.SHOW_KEY_TAKEAWAY] = show }.let { Unit }
+    actual suspend fun setExpandNotesDefault(expand: Boolean) =
+        context.dataStore.edit { it[Keys.EXPAND_NOTES_DEFAULT] = expand }.let { Unit }
 
-    actual suspend fun setShowCrossRefs(show: Boolean) =
-        context.dataStore.edit { it[Keys.SHOW_CROSS_REFS] = show }.let { Unit }
-
-    actual suspend fun setShowManuscriptVariants(show: Boolean) =
-        context.dataStore.edit { it[Keys.SHOW_MANUSCRIPT_VARIANTS] = show }.let { Unit }
-
-    actual suspend fun setShowTranslationNotes(show: Boolean) =
-        context.dataStore.edit { it[Keys.SHOW_TRANSLATION_NOTES] = show }.let { Unit }
+    actual suspend fun setCrossBookTts(enabled: Boolean) =
+        context.dataStore.edit { it[Keys.CROSS_BOOK_TTS] = enabled }.let { Unit }
 
     actual suspend fun setCollapsedStories(json: String) =
         context.dataStore.edit { it[Keys.COLLAPSED_STORIES_JSON] = json }.let { Unit }

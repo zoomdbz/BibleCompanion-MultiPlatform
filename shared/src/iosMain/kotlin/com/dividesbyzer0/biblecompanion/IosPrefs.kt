@@ -54,12 +54,10 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             ordainedFeastsExpanded = getBool("ordained_feasts_expanded", false),
             hapticEnabled = getBool("haptic_enabled", true),
             customThemeHue = getFloat("custom_theme_hue", 210f),
-            showKeyTakeaway = getBool("show_key_takeaway", false),
-            showCrossRefs = getBool("show_cross_refs", false),
-            showManuscriptVariants = getBool("show_manuscript_variants", false),
-            showTranslationNotes = getBool("show_translation_notes", false),
+            expandNotesDefault = getBool("expand_notes_default", false),
             collapsedStoriesJson = getString("collapsed_stories_json") ?: "{}",
             autoContinueTts = getBool("auto_continue_tts", true),
+            crossBookTts = getBool("cross_book_tts", false),
             notesExpandedSectionsJson = getString("notes_expanded_sections_json") ?: "{}",
             votdDismissedDate = getString("votd_dismissed_date") ?: "",
             screenshotExpandLanguage = getBool("ss_expand_language", false)
@@ -139,17 +137,11 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     actual suspend fun setCustomThemeHue(hue: Float) {
         defaults.setFloat(hue, forKey = "custom_theme_hue"); refresh()
     }
-    actual suspend fun setShowKeyTakeaway(show: Boolean) {
-        defaults.setBool(show, forKey = "show_key_takeaway"); refresh()
+    actual suspend fun setExpandNotesDefault(expand: Boolean) {
+        defaults.setBool(expand, forKey = "expand_notes_default"); refresh()
     }
-    actual suspend fun setShowCrossRefs(show: Boolean) {
-        defaults.setBool(show, forKey = "show_cross_refs"); refresh()
-    }
-    actual suspend fun setShowManuscriptVariants(show: Boolean) {
-        defaults.setBool(show, forKey = "show_manuscript_variants"); refresh()
-    }
-    actual suspend fun setShowTranslationNotes(show: Boolean) {
-        defaults.setBool(show, forKey = "show_translation_notes"); refresh()
+    actual suspend fun setCrossBookTts(enabled: Boolean) {
+        defaults.setBool(enabled, forKey = "cross_book_tts"); refresh()
     }
     actual suspend fun setCollapsedStories(json: String) {
         defaults.setObject(json, forKey = "collapsed_stories_json"); refresh()

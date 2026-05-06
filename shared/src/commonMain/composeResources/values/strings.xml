@@ -156,10 +156,15 @@
     <!-- Accessibility -->
     <string name="accessibility_section">Accessibility</string>
     <string name="haptic_feedback">Haptic Feedback</string>
+    <string name="expand_notes_default">Expand notes by default</string>
 
     <!-- Text-to-Speech -->
     <string name="tts_section">Text-to-Speech</string>
     <string name="tts_auto_continue">Auto-continue reading</string>
+    <string name="tts_cross_book">Continue across books</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">Continue to %1$s</string>
 
 
     <!-- Data / Export -->

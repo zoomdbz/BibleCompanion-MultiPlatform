@@ -63,57 +63,6 @@ Estos movimientos niegan la deidad de Cristo, niegan la suficiencia de su expiac
 
 ---
 
-### Peoples Temple
-
-**También conocida como:** Peoples Temple of the Disciples of Christ. Peoples Temple Christian Church Full Gospel. Peoples Temple Apostolic Church. Peoples Temple Agricultural Project (nombre de la comuna en Guyana). Jonestown (nombre coloquial del asentamiento en Guyana). El nombre corporativo completo original cuando estaba afiliada a la denominación Disciples of Christ era "Peoples Temple of the Disciples of Christ"; la afiliación era una fachada nominal.
-
-**Fundador:** Jim Jones, 1955, originalmente en Indianapolis, posteriormente en San Francisco y Guyana.
-
-**Desenlace:** El 18 de noviembre de 1978, Jones condujo a 909 seguidores, entre ellos 304 niños, a un asesinato-suicidio masivo mediante Flavor Aid envenenado con cianuro en el complejo de Jonestown en Guyana, después de que sus hombres emboscaran y mataran al congresista estadounidense Leo Ryan y a otras cuatro personas en una pista de aterrizaje cercana. Fue la mayor pérdida de vidas civiles estadounidenses en un solo día hasta el 11 de septiembre de 2001.
-
-**Trayectoria doctrinal:** Jones comenzó como predicador pentecostal nominal y reemplazó progresivamente el cristianismo bíblico con lo que llamó "Socialismo Apostólico". Para la década de 1970 negaba abiertamente la Biblia, negaba a un Dios personal y se presentaba a sí mismo como la reencarnación de Jesús, Buda, Lenin y otros. El "cristianismo" de Peoples Temple era una fachada para un culto a la personalidad que había abandonado por completo las Escrituras.
-
-**Por qué está en esta lista:** Peoples Temple es el recordatorio histórico de adónde conduce el liderazgo carismático sin rendición de cuentas escritural. (Mateo 7:15-20): "Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces; por sus frutos los conoceréis."
-
----
-
-### The Family International
-
-**También conocida como:** TFI. Children of God (el nombre original, 1968-1978). Family of Love (1978-1982). The Family (1982-2004). The Family International (2004-presente). Music with Meaning. Heaven's Magic. The Childcare Action Project (un frente inicial). Las "Cartas Mo" o "Libros Mo" son los escritos del fundador David Berg, distribuidos frecuentemente como tratados independientes. Suborganizaciones y nombres de alcance afiliados han incluido Activated Ministries, Aurora Production AG, y diversos nombres de estilo caritativo locales como "Family Care" o "Family Help".
-
-**Fundador:** David Berg ("Moses David", "Father David", "Mo", "King David"), 1968 en Huntington Beach, California.
-
-**Distorsiones centrales:** Sexualización del evangelismo; abuso sexual de adultos hacia adultos y, documentadamente, de adultos hacia menores; comunalismo apocalíptico.
-
-**Abusos documentados:**
-
-- "Flirty Fishing" (1974-1987): Se instruyó a las miembros femeninas a usar la seducción sexual para atraer conversos. Las "Cartas Mo" publicadas por Berg lo dirigieron explícitamente. Los propios registros internos del grupo reportan más de 100,000 hombres "ganados" mediante este método.
-- Abuso sexual infantil: Múltiples investigaciones gubernamentales (Reino Unido, Argentina, Francia, Australia) y el testimonio de cientos de ex miembros criados dentro del grupo documentan el abuso generalizado de menores. Los propios escritos de Berg ("The Story of Davidito", 1982) sexualizaron a menores. Un fallo del Tribunal Superior del Reino Unido de 1995 (Ward J., re ST) determinó que el grupo había "promovido y participado en actividades sexuales con menores".
-- Suicidios de hijos criados en el grupo: Ricky Rodriguez ("Davidito"), sujeto de los escritos de Berg, mató a su antigua niñera y luego se suicidó en 2005. Se han documentado múltiples suicidios adicionales de hijos criados en TFI.
-
-**Por qué es herejía:** Más allá del error doctrinal, la explotación sexual documentada de menores viola (Mateo 18:6): "Al que haga tropezar a uno de estos pequeños que creen en mí, más le valdría que le colgasen al cuello una piedra de molino y lo hundieran en lo profundo del mar." (1 Timoteo 4:1-3) describe "doctrinas de demonios" promovidas por quienes tienen la conciencia cauterizada. The Family International es uno de los ejemplos modernos más claros.
-
----
-
-### Iglesia ni Cristo (INC)
-
-**También conocida como:** Church of Christ (traducción al inglés; no debe confundirse con la denominación Church of Christ del Movimiento de Restauración, que no tiene relación y es bíblicamente trinitaria). INC 1914. Iglesia ni Cristo - Movimiento Manalo. The Locale (término de los miembros para una congregación). New Era University (su brazo educativo). Eagle Broadcasting Corporation e INC Media (sus brazos mediáticos). The Sanggunian (consejo de gobierno).
-
-**Fundador:** Felix Y. Manalo, registrado ante el gobierno filipino en 1914. Le sucedió su hijo Erano G. Manalo (1963-2009) y su nieto Eduardo V. Manalo (2009-presente).
-
-**Afirmación central:** La iglesia cristiana original apostatizó tras la era apostólica y fue restaurada únicamente por Felix Manalo, a quien la INC identifica como el ángel del oriente en Apocalipsis 7:2. La INC es la única iglesia verdadera; la salvación requiere ser miembro.
-
-**Enseñanzas específicas:**
-
-- Jesús no es Dios; es un hombre especialmente elegido por Dios.
-- El Espíritu Santo no es una persona, sino un poder.
-- La salvación requiere membresía en la INC. Todas las demás denominaciones cristianas enseñan falsedad y conducen a la condenación.
-- Se exige a los miembros votar en bloque en las elecciones filipinas, dirigidos por el liderazgo de la INC. Esta es una práctica formalmente impuesta y constituye una fuerza política reconocida en Filipinas.
-
-**Por qué es herejía:** La misma negación cristológica que el arrianismo y los Testigos de Jehová (Juan 1:1, Juan 20:28, Colosenses 2:9). La afirmación "restauracionista" de que el evangelio se perdió entre los apóstoles y el fundador es contradicha por el testimonio continuo de mártires cristianos, manuscritos y escritos desde el siglo II en adelante. (Mateo 16:18): "Edificaré mi iglesia, y las puertas del Hades no prevalecerán contra ella."
-
----
-
 ### Testigos de Jehová / Watch Tower Bible and Tract Society
 
 **También conocidos como:** JW. JWs. Testigos. Russelistas (nombre temprano, por el fundador Charles Taze Russell). Estudiantes de la Biblia (el nombre anterior a 1931). International Bible Students Association (IBSA). Watch Tower Bible and Tract Society of Pennsylvania (la entidad corporativa legal). Watchtower Bible and Tract Society of New York. Christian Congregation of Jehovah's Witnesses. The Governing Body (el consejo de liderazgo de ocho hombres con sede en Warwick, NY). Kingdom Hall (nombre de su lugar de reunión). Las revistas *El Atalaya* y *¡Despertad!* son sus publicaciones insignia. *jw.org* es su presencia oficial en la web.
@@ -180,6 +129,57 @@ Deuteronomio 18:22 es directo: "Si el profeta habla en nombre del Señor y lo qu
 
 ---
 
+### Peoples Temple
+
+**También conocida como:** Peoples Temple of the Disciples of Christ. Peoples Temple Christian Church Full Gospel. Peoples Temple Apostolic Church. Peoples Temple Agricultural Project (nombre de la comuna en Guyana). Jonestown (nombre coloquial del asentamiento en Guyana). El nombre corporativo completo original cuando estaba afiliada a la denominación Disciples of Christ era "Peoples Temple of the Disciples of Christ"; la afiliación era una fachada nominal.
+
+**Fundador:** Jim Jones, 1955, originalmente en Indianapolis, posteriormente en San Francisco y Guyana.
+
+**Desenlace:** El 18 de noviembre de 1978, Jones condujo a 909 seguidores, entre ellos 304 niños, a un asesinato-suicidio masivo mediante Flavor Aid envenenado con cianuro en el complejo de Jonestown en Guyana, después de que sus hombres emboscaran y mataran al congresista estadounidense Leo Ryan y a otras cuatro personas en una pista de aterrizaje cercana. Fue la mayor pérdida de vidas civiles estadounidenses en un solo día hasta el 11 de septiembre de 2001.
+
+**Trayectoria doctrinal:** Jones comenzó como predicador pentecostal nominal y reemplazó progresivamente el cristianismo bíblico con lo que llamó "Socialismo Apostólico". Para la década de 1970 negaba abiertamente la Biblia, negaba a un Dios personal y se presentaba a sí mismo como la reencarnación de Jesús, Buda, Lenin y otros. El "cristianismo" de Peoples Temple era una fachada para un culto a la personalidad que había abandonado por completo las Escrituras.
+
+**Por qué está en esta lista:** Peoples Temple es el recordatorio histórico de adónde conduce el liderazgo carismático sin rendición de cuentas escritural. (Mateo 7:15-20): "Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces; por sus frutos los conoceréis."
+
+---
+
+### The Family International
+
+**También conocida como:** TFI. Children of God (el nombre original, 1968-1978). Family of Love (1978-1982). The Family (1982-2004). The Family International (2004-presente). Music with Meaning. Heaven's Magic. The Childcare Action Project (un frente inicial). Las "Cartas Mo" o "Libros Mo" son los escritos del fundador David Berg, distribuidos frecuentemente como tratados independientes. Suborganizaciones y nombres de alcance afiliados han incluido Activated Ministries, Aurora Production AG, y diversos nombres de estilo caritativo locales como "Family Care" o "Family Help".
+
+**Fundador:** David Berg ("Moses David", "Father David", "Mo", "King David"), 1968 en Huntington Beach, California.
+
+**Distorsiones centrales:** Sexualización del evangelismo; abuso sexual de adultos hacia adultos y, documentadamente, de adultos hacia menores; comunalismo apocalíptico.
+
+**Abusos documentados:**
+
+- "Flirty Fishing" (1974-1987): Se instruyó a las miembros femeninas a usar la seducción sexual para atraer conversos. Las "Cartas Mo" publicadas por Berg lo dirigieron explícitamente. Los propios registros internos del grupo reportan más de 100,000 hombres "ganados" mediante este método.
+- Abuso sexual infantil: Múltiples investigaciones gubernamentales (Reino Unido, Argentina, Francia, Australia) y el testimonio de cientos de ex miembros criados dentro del grupo documentan el abuso generalizado de menores. Los propios escritos de Berg ("The Story of Davidito", 1982) sexualizaron a menores. Un fallo del Tribunal Superior del Reino Unido de 1995 (Ward J., re ST) determinó que el grupo había "promovido y participado en actividades sexuales con menores".
+- Suicidios de hijos criados en el grupo: Ricky Rodriguez ("Davidito"), sujeto de los escritos de Berg, mató a su antigua niñera y luego se suicidó en 2005. Se han documentado múltiples suicidios adicionales de hijos criados en TFI.
+
+**Por qué es herejía:** Más allá del error doctrinal, la explotación sexual documentada de menores viola (Mateo 18:6): "Al que haga tropezar a uno de estos pequeños que creen en mí, más le valdría que le colgasen al cuello una piedra de molino y lo hundieran en lo profundo del mar." (1 Timoteo 4:1-3) describe "doctrinas de demonios" promovidas por quienes tienen la conciencia cauterizada. The Family International es uno de los ejemplos modernos más claros.
+
+---
+
+### Iglesia ni Cristo (INC)
+
+**También conocida como:** Church of Christ (traducción al inglés; no debe confundirse con la denominación Church of Christ del Movimiento de Restauración, que no tiene relación y es bíblicamente trinitaria). INC 1914. Iglesia ni Cristo - Movimiento Manalo. The Locale (término de los miembros para una congregación). New Era University (su brazo educativo). Eagle Broadcasting Corporation e INC Media (sus brazos mediáticos). The Sanggunian (consejo de gobierno).
+
+**Fundador:** Felix Y. Manalo, registrado ante el gobierno filipino en 1914. Le sucedió su hijo Erano G. Manalo (1963-2009) y su nieto Eduardo V. Manalo (2009-presente).
+
+**Afirmación central:** La iglesia cristiana original apostatizó tras la era apostólica y fue restaurada únicamente por Felix Manalo, a quien la INC identifica como el ángel del oriente en Apocalipsis 7:2. La INC es la única iglesia verdadera; la salvación requiere ser miembro.
+
+**Enseñanzas específicas:**
+
+- Jesús no es Dios; es un hombre especialmente elegido por Dios.
+- El Espíritu Santo no es una persona, sino un poder.
+- La salvación requiere membresía en la INC. Todas las demás denominaciones cristianas enseñan falsedad y conducen a la condenación.
+- Se exige a los miembros votar en bloque en las elecciones filipinas, dirigidos por el liderazgo de la INC. Esta es una práctica formalmente impuesta y constituye una fuerza política reconocida en Filipinas.
+
+**Por qué es herejía:** La misma negación cristológica que el arrianismo y los Testigos de Jehová (Juan 1:1, Juan 20:28, Colosenses 2:9). La afirmación "restauracionista" de que el evangelio se perdió entre los apóstoles y el fundador es contradicha por el testimonio continuo de mártires cristianos, manuscritos y escritos desde el siglo II en adelante. (Mateo 16:18): "Edificaré mi iglesia, y las puertas del Hades no prevalecerán contra ella."
+
+---
+
 ### Arrianismo
 
 **También conocido como:** Cristianismo arriano. Teología anti-nicena. Subordinacionismo (en sus formas más moderadas). Semi-arrianismo (Homoiousiano: el Hijo es "de sustancia similar" en lugar de "de la misma sustancia"). Eunomianismo (según Eunomius, un arriano extremo). La posición "Homoia" (el Hijo es "semejante" al Padre). Los descendientes modernos en esta lista (Testigos de Jehová, Iglesia ni Cristo, Cristadelfos, algunos grupos unitarios) preservan la cristología arriana bajo diferentes nombres organizacionales.
@@ -235,23 +235,44 @@ El griego y el hebreo no sostienen estas reinterpretaciones. *Arsenokoitai* (1 C
 
 ---
 
-### Evangelio de la prosperidad y Movimiento de la Palabra de Fe
+### El Evangelio de la Prosperidad y el Movimiento Palabra de Fe
 
-**También conocido como:** Palabra de Fe. Word-Faith. WoF. Evangelio de la salud y la riqueza. Name-It-and-Claim-It. Confesión positiva. Movimiento de Fe. Seed-Faith (terminología de Oral Roberts). Hour of Power (línea de transmisión de Robert Schuller, variante más moderada). El movimiento "Latter Rain" (superpuesto). New Apostolic Reformation (NAR, la red de C. Peter Wagner, ampliamente superpuesta). El Movimiento Bethel (Bill Johnson, Bethel Church en Redding, CA). Hillsong (megaiglesia australiana con teología afín a la prosperidad). Lakewood Church (Joel Osteen). Without Walls International Church. Trinity Broadcasting Network (TBN, el principal vehículo de transmisión del movimiento).
+**También conocido como:** Palabra de Fe. Word-Faith. WoF. Evangelio de la Salud y la Riqueza. Nómbralo y Reclámalo. Confesión Positiva. Movimiento de Fe. Fe de Semilla (terminología de Oral Roberts). La Hora del Poder (linaje radial de Robert Schuller, variante más moderada). El movimiento de la "Lluvia Tardía" (superpuesto). Nueva Reforma Apostólica (NAR, la red de C. Peter Wagner, con gran superposición). El Movimiento Bethel (Bill Johnson, Bethel Church en Redding, CA). Hillsong (megaiglesia australiana con teología cercana a la prosperidad). Lakewood Church (Joel Osteen). Without Walls International Church. Trinity Broadcasting Network (TBN, el principal vehículo de difusión del movimiento).
 
-**Fundadores y divulgadores:** E.W. Kenyon (figura fundacional temprana). Kenneth Hagin. Kenneth Copeland. Oral Roberts. Benny Hinn. Joel Osteen. Creflo Dollar. Paula White. Joyce Meyer. T.D. Jakes (con reservas; es más difícil de categorizar). Jesse Duplantis. Eddie Long. Bill Johnson. Heidi y Rolland Baker. Reinhard Bonnke (más evangelístico, con influencia de la Palabra de Fe).
+**Fundadores/popularizadores:** E.W. Kenyon (figura fundacional temprana). Kenneth Hagin. Kenneth Copeland. Oral Roberts. Benny Hinn. Joel Osteen. Creflo Dollar. Paula White. Joyce Meyer. T.D. Jakes (con reservas; es difícil de categorizar). Jesse Duplantis. Eddie Long. Bill Johnson. Heidi y Rolland Baker. Reinhard Bonnke (más evangelístico, con influencia de Palabra de Fe).
 
-**Enseñanza central:** Dios quiere que todo creyente sea rico y sano. Una fe suficiente (o ofrendas de fe-semilla suficientes a un ministerio) garantiza estos resultados. La enfermedad y la pobreza son señales de fe insuficiente. Si alguien está enfermo, es pobre, está ansioso, es infértil, está deprimido o sufre, la culpa se atribuye con frecuencia a una fe débil, palabras negativas, pecado oculto, maldiciones generacionales o el fracaso en sembrar dinero en el ministerio correcto.
+**Redes e instituciones principales:**
 
-Esta no es la fe bíblica. Es codicia bautizada.
+- Trinity Broadcasting Network (TBN): la red de transmisión cristiana más grande del mundo; principal vehículo de difusión para los predicadores de Palabra de Fe desde que los Crouch la fundaron en 1973.
+- Daystar Television Network: fundada por Marcus y Joni Lamb, segunda red cristiana más grande, con orientación similar hacia la prosperidad.
+- The Word Network: programación centrada en la prosperidad dirigida al público afroamericano.
+- Inspiration Network (INSP): históricamente alineada con la prosperidad.
+- Christian Broadcasting Network (CBN, Pat Robertson): enseñanza de prosperidad menos agresiva, pero cercana en el concepto de donaciones de "fe de semilla".
+- Kenneth Copeland Ministries (KCM): Eagle Mountain International Church, Newark, Texas. Sede del imperio Copeland, que incluye una pista de aviación privada y múltiples aeronaves.
+- Joel Osteen Ministries / Lakewood Church (Houston): la iglesia más grande de Estados Unidos por asistencia, con empaque de prosperidad moderada ("Tu Mejor Vida Ahora").
+- Creflo Dollar Ministries / World Changers Church International (College Park, Georgia).
+- Jesse Duplantis Ministries (Destrehan, Louisiana). Famoso por pedir a los donantes que financiaran un jet Dassault Falcon 7X de 54 millones de dólares en 2018.
+- Joyce Meyer Ministries (Fenton, Missouri).
+- Benny Hinn Ministries: ahora reposicionado como Benny Hinn Ministries International tras la repudiación parcial de Hinn en 2019 de sus enseñanzas previas, que ha sido inconsistente.
+- Hillsong Church (Australia, con campus globales): cercana a la prosperidad más que plenamente Palabra de Fe, pero con suficiente superposición para mencionarla. Fundada por Brian Houston, quien renunció en 2022 tras múltiples escándalos; la red global ha estado en una crisis de liderazgo en serie.
+- Bethel Church (Redding, California): Bill Johnson y Kris Vallotton; combina Palabra de Fe con la teología profético-revivalista de la Nueva Reforma Apostólica.
+- Morningstar Ministries (Rick Joyner): profético-carismático con superposición con la prosperidad.
+- Gloria Copeland (esposa de Kenneth): notable por la declaración de 2018 de que las vacunas contra la gripe eran innecesarias porque los creyentes ya habían sido "redimidos de la gripe", durante una temporada de gripe que mató a 80.000 estadounidenses.
+- Paula White-Cain: asesora espiritual de la Casa Blanca 2017-2021, asesora de fe en 2025, plenamente Palabra de Fe.
 
-**Por qué es herejía:** Trata a Dios como una máquina expendedora. Explota a personas pobres y desesperadas. Contradice todos los textos bíblicos sobre el sufrimiento (Romanos 5:3-5, Santiago 1:2-4, 1 Pedro 4:12-13, 2 Corintios 12:7-10). Contradice el ejemplo de todos los apóstoles, quienes murieron pobres y la mayoría de manera violenta. Produce ministerios con aviones privados mientras sus donantes viven en pobreza. (1 Timoteo 6:5): "imaginando que la piedad es una fuente de ganancia."
+El patrón: organizaciones religiosas exentas de impuestos con aviones privados, ranchos, mansiones frente al lago y asignaciones para vivienda pastoral de siete cifras, financiadas con donaciones de feligreses de clase trabajadora y pobres que dan ofrendas de "fe de semilla" esperando un retorno milagroso.
+
+**Enseñanza central:** Dios quiere que cada creyente sea rico y esté sano. La fe suficiente (o las suficientes ofrendas de fe de semilla a un ministerio) garantiza estos resultados. La enfermedad y la pobreza son señales de fe insuficiente. Si alguien está enfermo, pobre, ansioso, infértil, deprimido o sufriendo, la culpa suele atribuirse a una fe débil, palabras negativas, pecado oculto, maldiciones generacionales o falta de siembra de dinero en el ministerio correcto.
+
+Esta no es la fe bíblica. Es avaricia bautizada.
+
+**Por qué es herejía:** Trata a Dios como una máquina expendedora. Explota a personas pobres y desesperadas. Contradice todos los textos bíblicos sobre el sufrimiento (Romanos 5:3-5, Santiago 1:2-4, 1 Pedro 4:12-13, 2 Corintios 12:7-10). Contradice el ejemplo de todos los apóstoles, todos los cuales murieron pobres y la mayoría de manera violenta. Produce ministerios con jets privados mientras sus donantes viven en la pobreza. (1 Timoteo 6:5): "que piensan que la piedad es una fuente de ganancia".
 
 **Frases comunes para reconocer:**
 
 - "Siembra una semilla."
 - "Nómbralo y reclámalo."
-- "Declárate en existencia."
+- "Declárate dueño de ello."
 - "Tus palabras crean tu realidad."
 - "Estás bloqueando tu bendición."
 - "Necesitas activar tu milagro."
@@ -260,67 +281,69 @@ Esta no es la fe bíblica. Es codicia bautizada.
 - "La pobreza es una maldición."
 - "La enfermedad nunca es la voluntad de Dios."
 - "Si tuvieras suficiente fe, serías sanado."
-- "No toquéis al ungido del Señor."
-- "La riqueza del impío está reservada para el justo."
+- "No toques al ungido del Señor."
+- "Las riquezas del pecador están guardadas para el justo."
 - "Da tu mejor semilla para tu avance."
+
+**Patrones de manipulación para reconocer:**
+
+Las frases anteriores identifican la doctrina. Los patrones a continuación identifican la manipulación. Un maestro puede no usar ninguna de las frases anteriores y seguir ejecutando el mismo guión.
+
+- **Presión pública para sembrar:** "Levántese si puede dar $1,000 ahora mismo." "Veo a siete personas a quienes Dios llama a dar $5,000." "Hay una bendición del ciento por uno para quienes siembren en este ministerio hoy." Solicitud pública dirigida que convierte el dar en actuación y la negativa en exposición.
+- **Apelaciones vinculadas a crisis:** "Siembre en este ministerio para romper el espíritu del cáncer sobre su familia." "Plante una semilla de $500 para su matrimonio." Vincular cantidades específicas de dinero a resultados desesperados específicos.
+- **Culpar la fe por el fracaso:** Cuando el resultado esperado no llega, el fracaso es del donante, no del maestro. "Liberaste la duda." "Había falta de perdón en tu corazón." "No diste tu mejor semilla." El sistema es infalsificable porque cada promesa fallida se convierte en culpa de la víctima.
+- **Diezmo de primicias como inversión:** "Si traes tu diezmo completo, Dios está obligado a bendecirte." "Pon a prueba a Dios en esto." Tratar Malaquías 3:10 como un contrato firmado por Dios.
+- **Inmunidad del ungido:** "No toques al ungido del Señor." "No hables mal del hombre de Dios." Se usa para desviar cualquier examen de las finanzas, doctrina o comportamiento del maestro. La doctrina se extrae del Salmo 105:15 y 1 Samuel 24:6, y está completamente mal aplicada; esos pasajes prohíben la violencia contra los líderes ungidos, no la evaluación honesta de su enseñanza, que las Escrituras ordenan (1 Tesalonicenses 5:21, Hechos 17:11, 1 Timoteo 5:20).
+- **Ruptura de maldiciones generacionales:** "Hay una maldición sobre tu familia que solo esta semilla puede romper." "El pecado de tu bisabuelo está bloqueando tu bendición." Apelaciones a una culpa ancestral vaga que solo puede limpiarse mediante donaciones, no mediante el arrepentimiento.
+- **La palabra profética como transacción:** "Tengo una palabra para ti, pero Dios me dijo que primero necesitas liberar una semilla." Vender profecía.
+- **Acceso personal a la venta:** "Conviértete en Socio del Pacto al nivel de $1,000 al mes para acceso personal a mi unción." Membresía por niveles en la salvación.
+- **El estilo de vida como prueba de la teología:** "Mira los autos que conduzco. Mira los aviones en que vuelo. Esto es lo que Dios hará por ti si tienes fe." La riqueza del maestro se presenta como evidencia de que la doctrina funciona, cuando en realidad es evidencia de que quitarle dinero a los pobres funciona como modelo de negocio.
+
+Cuando ves estos patrones, no estás viendo el cristianismo apostólico. (1 Pedro 5:2-3): "Pastoreed el rebaño de Dios que está entre vosotros, cuidándolo, no por obligación sino de buena gana, como Dios quiere; no por ganancia deshonesta, sino con prontitud de ánimo; no como teniendo señorío sobre los que están a vuestro cargo, sino siendo ejemplos del rebaño."
 
 **Corrección escritural:**
 
 - Jesús no tenía dónde recostar su cabeza (Mateo 8:20).
 - Los apóstoles fueron golpeados, encarcelados, hambrientos, pobres y asesinados (1 Corintios 4:9-13, 2 Corintios 11:23-28).
-- Pablo aprendió a contentarse en abundancia y en necesidad (Filipenses 4:11-13).
+- Pablo aprendió a contentarse tanto en la abundancia como en la necesidad (Filipenses 4:11-13).
 - La piedad no es una fuente de ganancia (1 Timoteo 6:5).
-- El amor al dinero es raíz de toda clase de males (1 Timoteo 6:10).
+- El amor al dinero es la raíz de toda clase de males (1 Timoteo 6:10).
 - Jesús advirtió que las riquezas pueden ahogar la palabra (Marcos 4:19).
 - A los cristianos se les promete sufrimiento, no lujo (Juan 16:33, 2 Timoteo 3:12).
 - Pablo no fue sanado después de orar tres veces; la gracia de Dios fue suficiente (2 Corintios 12:7-10).
 
 **Por qué es peligroso:** La predicación de la prosperidad se aprovecha de los desesperados. Los enfermos dan dinero porque quieren sanidad. Los pobres dan dinero porque quieren provisión. Los afligidos dan dinero porque quieren esperanza. Luego, cuando el milagro no llega, el predicador se queda con el dinero y la víctima se queda con la vergüenza.
 
-Por eso la Escritura habla con tanta dureza acerca de los maestros codiciosos. (2 Pedro 2:3): "Y por avaricia harán mercadería de vosotros con palabras fingidas."
+Por eso las Escrituras hablan con tanta dureza sobre los maestros codiciosos. (2 Pedro 2:3): "Y por avaricia harán mercadería de vosotros con palabras fingidas."
 
-**La respuesta:** La ofrenda bíblica es adoración, no una máquina tragamonedas. La fe bíblica confía en Dios incluso cuando la sanidad no llega. La bendición bíblica puede incluir provisión, pero nunca convierte a Cristo en siervo del apetito humano. El verdadero evangelio afirma que Cristo es suficiente en la pobreza, la enfermedad, el sufrimiento, la prisión, la debilidad y la muerte. Todo predicador que no pueda predicar ese evangelio en una sala de hospital, en una celda de prisión y junto a una tumba no está predicando el evangelio de Jesucristo.
+**El número de víctimas.**
 
----
+Esta es la parte que la mayoría de los críticos de la prosperidad evitan declarar directamente. La doctrina mata personas.
 
-### Nueva Reforma Apostólica y Movimientos de Apóstoles Modernos
+- **Niños muertos por negligencia médica:** Múltiples casos documentados de padres en iglesias de Palabra de Fe que niegan atención médica a sus hijos basándose en la doctrina de la "confesión negativa". Nombrar la enfermedad, en esta teología, le da poder a la enfermedad. Los padres han suspendido la insulina, rechazado antibióticos para infecciones tratables y orado por sanidades que no llegaron. Los tribunales estatales han procesado tales casos como homicidio culposo. La Iglesia Seguidores de Cristo en Oregon y la Faith Assembly en Indiana son ejemplos documentados; son grupos más pequeños, pero aplican la misma teología que la Palabra de Fe convencional enseña con más cuidado.
+- **Adultos muertos por tratamiento tardío del cáncer:** Un patrón documentado en congregaciones de Palabra de Fe: los miembros rechazan o demoran el tratamiento de cánceres tratables basándose en la doctrina de que confesar la enfermedad derrota la fe. Para cuando aceptan el tratamiento, el cáncer ya ha hecho metástasis.
+- **Suicidios:** Ex miembros han testificado sobre ideación suicida cuando los resultados prometidos por el evangelio de la prosperidad no llegaron. La teología hace que su sufrimiento o pobreza continuos sean su culpa, acumula vergüenza sobre el sufrimiento y cierra el consuelo que el cristianismo bíblico ofrece en el sufrimiento.
+- **Ruina financiera:** Miembros con ingresos fijos que lo dan todo para "sembrar" esperando avances. Casos documentados de receptores del Seguro Social que envían el cheque mensual completo a Kenneth Copeland Ministries, Creflo Dollar o iglesias locales de prosperidad, y luego no pueden pagar el alquiler ni la comida. Paula White solicitó ofrendas de "primicias" en diciembre por $1,144 basándose en una profecía de 2020; miles dieron.
+- **El trabajo documental sobre sanadores de fe de los años 80:** La investigación de James Randi en 1986 sobre Peter Popoff expuso a Popoff usando un auricular oculto, al que su esposa alimentaba leyendo las tarjetas de oración del público, para fingir "palabras de conocimiento". La evidencia de Randi se transmitió en el Tonight Show. Popoff quebró ese año. Volvió al ministerio a principios de los 2000 y hoy opera en TBN. El fraude fue expuesto; la red lo recontrataron.
+- **Las cruzadas de sanidad de Benny Hinn:** Múltiples reportajes de investigación (el documental de HBO de 2001 *A Question of Miracles*, la investigación de NBC Dateline de 2009) hicieron seguimiento a personas que Hinn declaró sanadas en el escenario. Ninguna de las que se rastrearon fue sanada en realidad. La organización de Hinn no pudo presentar una sola sanidad verificada y confirmada por registros médicos bajo escrutinio periodístico.
+- **Las profecías de las elecciones de 2020:** Las principales figuras prosperidad-carismáticas (Pat Robertson, Kat Kerr, la red de Kenneth Copeland, Sid Roth, Hank Kunneman, Lance Wallnau, Jeremiah Johnson) profetizaron con confianza pública que Donald Trump ganaría las elecciones de 2020. No ganó. Algunos se disculparon; la mayoría simplemente volvió a fechar o reinterpretó en silencio. (Deuteronomio 18:22): "Si el profeta hablare en nombre del SEÑOR, y no se cumpliere lo que dijo, ni aconteciere, es palabra que el SEÑOR no ha hablado; con presunción la habló el tal profeta." Según la propia prueba de las Escrituras, estos son falsos profetas.
 
-**También conocidos como:** NAR. Movimiento apostólico-profético. Restauración del ministerio quíntuple. Apóstoles y profetas modernos. Kingdom Now. Teología del dominio. Mandato de las Siete Montañas. Cobertura apostólica. Alineación profética. Superposición con el movimiento Bethel. Superposición con IHOPKC. Movimiento Wagner. Movimiento de señales y maravillas. Movimiento carismático de la Tercera Ola.
+Estos no son casos excepcionales. Son lo que el sistema produce en su funcionamiento natural. (Mateo 7:15-20): "Por sus frutos los conoceréis."
 
-**Enseñanza central:** Supuestamente Dios está restaurando apóstoles y profetas gobernantes para dirigir a la iglesia del tiempo del fin. Estos líderes reclaman autoridad especial, revelación fresca, perspectiva profética, impartición sobrenatural y dominio estratégico sobre la cultura.
+**La respuesta:**
+La ofrenda bíblica es adoración, no una máquina tragamonedas. La fe bíblica confía en Dios incluso cuando la sanidad no llega. La bendición bíblica puede incluir provisión, pero nunca convierte a Cristo en un sirviente del apetito humano. El verdadero evangelio dice que Cristo es suficiente en la pobreza, la enfermedad, el sufrimiento, la prisión, la debilidad y la muerte. Cualquier predicador que no pueda predicar ese evangelio en una sala de hospital, una celda de prisión y al borde de una tumba no está predicando el evangelio de Jesucristo.
 
-**Frases comunes para reconocer:**
+La ofrenda bíblica es adoración, no una transacción. (2 Corintios 9:7): "Cada uno dé como propuso en su corazón: no con tristeza, ni por necesidad, porque Dios ama al dador alegre." No bajo compulsión. No en respuesta a una extorsión profética. No como apuesta por un retorno.
 
-- "Cobertura apostólica."
-- "Alineación profética."
-- "Revelación fresca."
-- "Vino nuevo."
-- "El próximo mover de Dios."
-- "No toquéis al ungido del Señor."
-- "Activa tu manto."
-- "Cambia la atmósfera."
-- "Toma las siete montañas."
-- "Decreta y declara."
-- "Cielo abierto."
-- "Impartición."
-- "Palabra profética."
+La fe bíblica confía en Dios con el resultado que Él da, no el resultado que tú exiges. Job lo perdió todo; su fe fue honrada, no su riqueza. José pasó de la prisión al palacio, pero el propósito de Dios era la salvación de las naciones, no la comodidad personal de José. Pablo oró tres veces para que se le quitara su aguijón; Dios dijo no, y Pablo aprendió a gloriarse en la debilidad (2 Corintios 12:7-10). Esteban fue apedreado en medio de su sermón mientras veía los cielos abiertos (Hechos 7:54-60). La "sala de la fe" de Hebreos 11 incluye a quienes escaparon de la espada Y a quienes fueron "aserrados" (Hebreos 11:37). La fe bíblica no tiene guiones de resultados.
 
-**Por qué es peligroso:** Los apóstoles del Nuevo Testamento fueron testigos oculares del Cristo resucitado y piedras fundamentales de la iglesia (Efesios 2:20). Ese fundamento no se vuelve a verter en cada generación. Los maestros modernos pueden predicar, pastorear, evangelizar y exhortar, pero no poseen autoridad apostólica igual a la de la Escritura.
+La bendición bíblica es a veces material, frecuentemente relacional, siempre espiritual, y alcanza su plenitud en la eternidad, no en el próximo pago de la hipoteca. (Efesios 1:3): "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales en Cristo." Las bendiciones del evangelio son espirituales y celestiales primero; la provisión material en esta vida se da según le parece bien a Dios, no según lo exige el creyente.
 
-Cuando un líder reclama revelación fresca que no puede ser cuestionada, la iglesia ya no está gobernada por la Escritura; está gobernada por la personalidad.
+El verdadero evangelio es para la sala de oncología, la celda de la prisión, el tribunal de bancarrota, la zona de guerra, la sala de cuidados paliativos y la tumba abierta. Cualquier "evangelio" que no pueda predicarse en esos lugares no es el evangelio de Jesucristo. Cristo es suficiente cuando nada más queda. El hombre que dijo "Consumado es" (Juan 19:30) lo dijo desde una cruz, no desde un trono. (Filipenses 1:21): "Porque para mí el vivir es Cristo, y el morir es ganancia." Ese es el evangelio. Cualquier cosa que prometa ganancia en esta vida como prueba de fe está predicando un evangelio diferente, y un evangelio diferente es anatema (Gálatas 1:8-9).
 
-**Corrección escritural:**
-
-- La fe fue entregada de una vez para siempre a los santos (Judas 3).
-- La Escritura equipa al hombre de Dios para toda buena obra (2 Timoteo 3:16-17).
-- Los falsos profetas se prueban por si sus palabras se cumplen (Deuteronomio 18:21-22).
-- Incluso los verdaderos dones espirituales deben ser examinados y juzgados (1 Corintios 14:29, 1 Tesalonicenses 5:20-21).
-- Ningún maestro está por encima de la corrección (Gálatas 2:11-14).
-
-**La respuesta:** Dios todavía guía, convence, consuela y dota a su pueblo. Pero ningún profeta moderno, apóstol, sueño, visión, manto ni "palabra del Señor" puede superar la Palabra escrita de Dios.
+Si estás dentro de un ministerio de prosperidad y estos patrones están generando preocupaciones, no les des otro dólar hasta que hayas leído el Nuevo Testamento de principio a fin, despacio, preguntando quién es Cristo y qué promete realmente a sus seguidores. La respuesta no coincidirá con lo que tu pastor ha estado predicando.
 
 ---
-
 ### Iglesia de la Unificación
 
 **También conocida como:** Moonies (coloquial, a veces peyorativo; los miembros objetan). Iglesia de la Unificación. El Movimiento de Unificación. Asociación del Espíritu Santo para la Unificación del Cristianismo Mundial (HSA-UWC, el nombre original). Federación de Familias para la Paz y la Unificación Mundiales (FFWPU, la nueva denominación desde 1996). Sanctuary Church (la facción disidente bajo Hyung Jin "Sean" Moon, hijo de Sun Myung Moon; esta facción promueve el AR-15 como la "Vara de Hierro" y es distinta del movimiento de Unificación principal). La Verdadera Familia. Las organizaciones de fachada han incluido el periódico Washington Times, la Asociación Mundial de Medios, la Fundación Religiosa Internacional, CAUSA International, la Coalición Americana por la Libertad, la Federación Universal de la Paz, la Federación de Mujeres por la Paz Mundial y (históricamente) la Asociación Colegial para la Investigación de los Principios (CARP, el brazo de reclutamiento universitario).
@@ -354,30 +377,345 @@ Cuando un líder reclama revelación fresca que no puede ser cuestionada, la igl
 
 ### Calvinismo / Teología Reformada
 
-**También conocido como:** Teología Reformada. Cristianismo Reformado. Iglesias Reformadas. Presbiteriano (el nombre basado en la forma de gobierno). Bautista Reformado (bautistas calvinistas). Bautista Particular (término histórico británico). Doctrinas de la Gracia (su nombre interno preferido). Teología TULIP (por el acrónimo de los cinco puntos). Calvinismo de Cinco Puntos. Agustinismo (el linaje teológico más amplio). Cristianismo Predestinacionista. Reformado Confesional (en referencia a la Confesión de Westminster, las Tres Formas de Unidad, la Confesión Bautista de Londres de 1689). Nuevo Calvinismo / Jóvenes, Inquietos y Reformados (un resurgimiento evangélico del siglo 21; figuras incluyen a John Piper, Mark Driscoll, Tim Keller, D.A. Carson, Albert Mohler). Alto Calvinismo / Hipercalvinismo (una variante más extrema que rechaza la oferta libre del evangelio; no es lo mismo que el calvinismo convencional). Las denominaciones reformadas incluyen la Presbyterian Church in America (PCA), la Orthodox Presbyterian Church (OPC), la Reformed Church in America (RCA), la Christian Reformed Church (CRC), las United Reformed Churches in North America (URCNA), la Reformed Baptist Network y muchas otras. Nótese que la Presbyterian Church USA (PCUSA) es significativamente más liberal en lo teológico y no es representativa del calvinismo confesional hoy.
+**También conocido como:** Teología Reformada. Cristianismo Reformado. Iglesias Reformadas. Presbiteriano (el nombre basado en la polidad). Bautista Reformado (bautistas calvinistas). Bautista Particular (término histórico británico). Doctrinas de la Gracia (su nombre interno preferido). Teología TULIP (por el acrónimo de cinco puntos, en inglés). Calvinismo de Cinco Puntos. Agustinismo (el linaje teológico más amplio). Cristianismo Predestinacionista. Reformado Confesional (que hace referencia a la Confesión de Westminster, las Tres Formas de Unidad, la Confesión Bautista de Londres de 1689). Teología Federal (el marco pactual que lo sustenta). Supralapsarismo (la visión calvinista alta de que la elección precedió lógicamente a la Caída). Infralapsarismo (la visión más moderada de que la elección siguió lógicamente a la Caída). Nuevo Calvinismo / Jóvenes, Inquietos y Reformados (el resurgimiento evangélico del siglo XXI; figuras incluyen a John Piper, Mark Driscoll, Tim Keller, D.A. Carson, Albert Mohler, John MacArthur, Wayne Grudem, Matt Chandler, Kevin DeYoung). The Gospel Coalition (la principal red evangélica reformada). Together for the Gospel (T4G). 9Marks (un ministerio de salud eclesiástica fuertemente reformado). Desiring God (ministerio de Piper). Ligonier Ministries (ministerio de Sproul). Banner of Truth Trust. Westminster Theological Seminary. Reformed Theological Seminary. The Master's Seminary. Calvinismo Alto / Hipercalvinismo (una variante más extrema que rechaza la oferta libre del evangelio y el deber de evangelizar a los no elegidos; no es lo mismo que el calvinismo convencional, pero es un punto final hacia el que el sistema tiende). Las denominaciones reformadas incluyen la Presbyterian Church in America (PCA), la Orthodox Presbyterian Church (OPC), la Reformed Church in America (RCA), la Christian Reformed Church (CRC), las United Reformed Churches in North America (URCNA), la Evangelical Presbyterian Church (EPC), la Associate Reformed Presbyterian Church (ARP), la Reformed Baptist Network, la Free Presbyterian Church of Scotland, y muchas otras. La mayoría de los seminarios bautistas del sur (especialmente el Southern Baptist Theological Seminary bajo Albert Mohler) han sido sustancialmente calvinizados en el siglo XXI. Nótese que la Presbyterian Church USA (PCUSA) es significativamente más liberal teológicamente y no es representativa del calvinismo confesional hoy.
 
-**Nota sobre la ubicación:** Esta es una entrada de Nivel Dos que se mantiene aquí por coherencia con el documento original de Distorsiones Comunes. Los lectores honestos deben saber que esta es la ubicación más debatida de toda esta lista. Los calvinistas afirman la deidad de Cristo, el evangelio histórico, la autoridad de la Escritura y la salvación por gracia mediante la fe. Muchos de los eruditos bíblicos más rigurosos en la historia de la iglesia (Agustín, Calvino, Edwards, Spurgeon, Sproul, Piper, Carson) han sido calvinistas. El desacuerdo con el calvinismo es intramural, entre creyentes, sobre cómo reconciliar la soberanía divina y la responsabilidad humana. Listar el calvinismo junto a la Watch Tower Society exagera la diferencia. Quiero que el lector sepa que mi juicio teológico honesto es que el calvinismo está en error en ciertos puntos (véase el documento de Distorsiones Comunes para la crítica sustantiva sobre TULIP), pero que los calvinistas son hermanos y hermanas en Cristo.
+**Fundador:** Juan Calvino (Jean Cauvin, 1509-1564), teólogo francés radicado en Ginebra. *Institución de la Religión Cristiana* (1536, ampliada en 1559). Construido sobre los fundamentos agustinianos establecidos por Agustín de Hipona (354-430 d.C.) en sus escritos anti-pelagianos. Teodoro Beza, sucesor de Calvino en Ginebra, sistematizó las doctrinas en la forma reconocida hoy. Los cinco puntos (TULIP) fueron formalizados en respuesta a los Remonstrantes (seguidores de Jacobus Arminius) en el Sínodo de Dort, 1618-1619.
+
+**Enseñanza central:** Dios decidió antes de que el mundo fuera creado exactamente quiénes serían salvados y quiénes no. La fe, la elección y el arrepentimiento no pueden cambiar la lista. El sistema se resume como TULIP:
+
+- **Depravación Total:** Los seres humanos están tan quebrantados por el pecado que ni siquiera pueden desear a Dios a menos que Dios obre irresistiblemente ese deseo en ellos. El libre albedrío hacia la salvación es imposible hasta que Dios regenera la voluntad.
+- **Elección Incondicional:** Antes de crear el mundo, Dios seleccionó individuos específicos para la salvación. La selección no se basó en nada que Dios previera en ellos; se basó únicamente en Su elección soberana. El resto, los "no elegidos", fueron pasados por alto pasivamente (infralapsarismo) o activamente predestinados a la condenación (supralapsarismo).
+- **Expiación Limitada / Redención Particular:** Cristo no murió por los pecados de todas las personas. Solo murió por los elegidos. Si una persona no está en la lista, la cruz no la cubre; su condenación está fijada.
+- **Gracia Irresistible:** Cuando Dios llama a uno de los elegidos, esa persona no puede resistir finalmente. La fe no es una elección real; es el resultado inevitable del llamamiento eficaz.
+- **Perseverancia de los Santos / "Una vez salvo, siempre salvo" en forma reformada:** Los verdaderos creyentes no pueden perder la salvación. Cualquiera que parezca alejarse nunca fue genuinamente salvo; era un "falso converso" o "cizaña".
+
+**Por qué las Escrituras se resisten:**
+
+**1. El deseo declarado de Dios es la salvación de todos, no la selección de unos pocos:**
+
+- (1 Timoteo 2:3-4): "Porque esto es bueno y agradable delante de Dios nuestro Salvador, el cual quiere que todos los hombres sean salvos y vengan al conocimiento de la verdad."
+- (2 Pedro 3:9): "El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
+- (Ezequiel 33:11): "Diles: Vivo yo, dice el Señor DIOS, que no quiero la muerte del impío, sino que se vuelva el impío de su camino, y que viva."
+- (Ezequiel 18:23, 32): "¿Quiero yo la muerte del impío? dice el Señor DIOS. ¿No vivirá, si se apartare de sus caminos?... Porque no quiero la muerte del que muere, dice el Señor DIOS; convertíos, pues, y viviréis."
+- (Mateo 23:37): "¡Jerusalén, Jerusalén... ¡Cuántas veces quise juntar a tus hijos, como la gallina junta sus polluelos debajo de las alas, y no quisiste!" Yeshua llora sobre Jerusalén porque se negaron. La teología calvinista debe releer esto como si Yeshua quisiera lo que Dios en realidad no decretó, dividiendo la voluntad divina contra sí misma.
+
+La respuesta calvinista es distinguir la "voluntad revelada de Dios" (lo que Él ordena) de la "voluntad secreta de Dios" (lo que Él decreta). En esta visión, Dios revela que quiere que todos sean salvos mientras secretamente decreta que solo algunos lo sean. El texto nunca hace esta distinción. El texto dice que Dios desea a todos. Para salvar el sistema, el sistema anula el texto.
+
+**2. La expiación de Cristo es universal en su alcance, no restringida a una lista preseleccionada:**
+
+- (Juan 3:16): "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna." El griego *ton kosmon* (el mundo) es comprensivo; la misma palabra griega en 1 Juan 2:15-17 ("No améis al mundo") claramente significa toda persona, toda nación, toda la raza humana.
+- (1 Juan 2:2): "Y él es la propiciación por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo." Este versículo es fatal para la Expiación Limitada en su lectura llana. El calvinista debe redefinir "mundo" aquí como "los elegidos de cada nación" en lugar de "toda persona". El griego *holos ho kosmos* no soporta esa carga.
+- (Hebreos 2:9): "...para que por la gracia de Dios gustase la muerte por todos." El griego *huper pantos* es "por cada uno". No por algunos.
+- (1 Timoteo 4:10): "...el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que creen." Todos los hombres. Mayormente (no exclusivamente) los creyentes.
+- (2 Pedro 2:1): "Pero hubo también falsos profetas entre el pueblo, como habrá entre vosotros falsos maestros, que introducirán encubiertamente herejías destructoras, **y aun negarán al Señor que los rescató**, atrayendo sobre sí mismos destrucción repentina." Pedro dice que los falsos maestros fueron comprados (adquiridos mediante la expiación) y aun así son destruidos. La Expiación Limitada no puede dar cuenta de esto.
+- (Isaías 53:6): "Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino; mas el SEÑOR cargó en él el pecado de todos nosotros." El mismo "todos" que se desvió es el "todos" cuya iniquidad fue puesta sobre el Siervo. Restringir el segundo "todos" a los elegidos requeriría restringir el primero "todos" a los elegidos, lo que significaría que solo los elegidos pecaron alguna vez. El texto no lo permite.
+
+**3. La invitación a venir es universal, dirigida a cualquiera que quiera:**
+
+- (Apocalipsis 22:17): "Y el Espíritu y la Esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente."
+- (Mateo 11:28): "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."
+- (Romanos 10:13): "Porque todo aquel que invocare el nombre del Señor, será salvo."
+- (Hechos 17:30): "Pero Dios, habiendo pasado por alto los tiempos de esta ignorancia, ahora manda a todos los hombres en todo lugar, que se arrepientan." Si el arrepentimiento es imposible para los no elegidos, esta orden es una burla.
+- (Isaías 45:22): "Mirad a mí, y sed salvos, todos los términos de la tierra, porque yo soy Dios, y no hay más."
+
+Las palabras "cualquiera", "todo aquel", "todos los que", "quien" y "alguno" aparecen en el lenguaje de salvación de todo el Nuevo Testamento. La exégesis calvinista debe redefinirlas repetidamente como "cualquiera entre los elegidos", "todo aquel entre los escogidos", "todos aquellos a quienes Dios ha seleccionado". El texto nunca las califica. La calificación se introduce desde afuera.
+
+**4. Las Escrituras advierten que creyentes reales pueden apartarse. Estas advertencias no tienen sentido si el apartamiento es imposible:**
+
+- (Hebreos 6:4-6): "Porque es imposible que los que una vez fueron iluminados y gustaron del don celestial, y fueron hechos partícipes del Espíritu Santo, y asimismo gustaron de la buena palabra de Dios y los poderes del siglo venidero, y recayeron, sean otra vez renovados para arrepentimiento, crucificando de nuevo para sí mismos al Hijo de Dios y exponiéndole a vituperio."
+- (Hebreos 10:26-29): "Porque si pecáremos voluntariamente después de haber recibido el conocimiento de la verdad, ya no queda más sacrificio por los pecados, sino una horrenda expectación de juicio, y de hervor de fuego que ha de devorar a los adversarios... ¿Cuánto mayor castigo pensáis que merecerá el que pisoteare al Hijo de Dios, y tuviere por inmunda la sangre del pacto en la cual fue santificado, e hiciere afrenta al Espíritu de gracia?" Nótese: "en la cual fue santificado". La persona advertida fue santificada por la sangre de Cristo; ese no es el estado de un incrédulo.
+- (2 Pedro 2:20-22): "Ciertamente, si habiéndose ellos escapado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, enredándose otra vez en ellas son vencidos, su postrer estado viene a ser peor que el primero. Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, volverse atrás del santo mandamiento que les fue dado."
+- (1 Timoteo 4:1): "Pero el Espíritu dice claramente que en los postreros tiempos algunos apostatarán de la fe, escuchando a espíritus engañadores y a doctrinas de demonios." Apostatar de la fe presupone haber tenido la fe.
+- (1 Corintios 9:27): Pablo escribe: "Sino que golpeo mi cuerpo, y lo pongo en servidumbre, no sea que habiendo sido heraldo para otros, yo mismo venga a ser eliminado." Si Pablo, el apóstol, puede temer la descalificación, la doctrina de que la perseverancia es automática es errónea.
+- (Juan 15:1-6): El pasaje de la vid y los pámpanos. Jesús dice que los pámpanos EN ÉL que no dan fruto son quitados, recogidos, echados al fuego y quemados. Forzar esto a significar "pámpanos que nunca estuvieron realmente en Él" requiere leer el texto contra sí mismo.
+- (Gálatas 5:4): "De Cristo os desligasteis, los que por la ley os justificáis; de la gracia habéis caído." Pablo se dirige a creyentes gálatas y dice que pueden caer de la gracia.
+
+La respuesta calvinista a todas estas advertencias es "están dirigidas a falsos conversos que nunca fueron verdaderamente salvos" o "son advertencias hipotéticas usadas para mantener a los elegidos perseverando". El texto no da ninguna indicación de esto. Las advertencias están dirigidas a "hermanos" (Hebreos 3:12), a "los que fueron iluminados... que gustaron... que fueron hechos partícipes". Si las advertencias no son reales, las palabras usadas para describir a sus destinatarios son engañosas.
+
+**5. La elección real forma parte del diseño de Dios. Las Escrituras ordenan la elección, no meramente su apariencia:**
+
+- (Josué 24:15): "Escogeos hoy a quién sirváis."
+- (Deuteronomio 30:19): "A los cielos y a la tierra llamo por testigos hoy contra vosotros, que os he puesto delante la vida y la muerte, la bendición y la maldición; escoge, pues, la vida, para que vivas tú y tu descendencia."
+- (1 Reyes 18:21): "Si el SEÑOR es Dios, seguidle; y si Baal, id en pos de él."
+- (Apocalipsis 3:20): "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo."
+- (Hechos 7:51): Esteban le dice al Sanedrín: "¡Duros de cerviz, e incircuncisos de corazón y de oídos! Vosotros resistís siempre al Espíritu Santo." Resistir al Espíritu Santo es imposible si la Gracia Irresistible es verdadera. El texto dice que lo hicieron.
+
+La posición calvinista debe redefinir estas órdenes como "exhortaciones dirigidas externamente que Dios cumple internamente solo en los elegidos, mientras emite la misma orden externa a los no elegidos sin posibilidad real de cumplimiento". Ese es un Dios que ordena lo imposible y condena por no hacer lo imposible. Sea lo que sea eso, no es el Dios que las Escrituras describen.
+
+**6. El carácter de Dios que el calvinismo deja:**
+
+El sistema, llevado a su fin lógico, requiere que Dios haya creado una gran cantidad de seres humanos cuyo único destino es el tormento eterno consciente, y a quienes nunca dio ninguna oportunidad real de ser salvados, porque la salvación que se les ofreció se ofreció con un decreto oculto de que nunca la recibirían. Les ordenó arrepentirse mientras retenía la gracia por la cual solo el arrepentimiento es posible. Les envió profetas y predicadores cuyas súplicas no podían penetrarlos. Y luego los condena por el fracaso que Él decretó.
+
+Este es el cuadro defendido por Jonathan Edwards en *Pecadores en las Manos de un Dios Airado* y por algunos hipercalvinistas más crudamente que los calvinistas convencionales. Los calvinistas convencionales suavizan el cuadro con la doctrina de la "gracia común" y la "oferta libre del evangelio", pero la lógica subyacente del sistema requiere el cuadro de todas formas. Si la expiación es limitada y la elección es incondicional, los no elegidos fueron creados para la destrucción sin recurso real.
+
+(1 Juan 4:8): "Dios es amor." El amor forzado no es amor. Una elección que nunca tuviste no es una elección. Una salvación que no puedes resistir no es recibida libremente. El Dios del calvinismo es un Dios soberano, pero el Dios de las Escrituras es también un Dios relacional, un Padre cuyo Hijo llora sobre Jerusalén (Lucas 19:41-44), cuyo Espíritu se entristece ante la resistencia (Efesios 4:30), cuyo amor puede ser recibido o rechazado.
+
+**7. Como muchas herejías y distorsiones, el sistema requiere reescribir textos claros para mantener intacto el marco:**
+
+Esta es una gran objeción. Siempre que la exégesis calvinista se encuentra con un versículo que parece contradecir el sistema, el sistema anula el versículo. "Mundo" se convierte en "mundo elegido". "Todos" se convierte en "toda clase de" o "todos sin distinción, no todos sin excepción". "Cualquiera" se convierte en "cualquiera entre los escogidos". "Cada" se convierte en "cada uno entre los elegidos". Las advertencias reales de apostasía se convierten en advertencias hipotéticas para mantener alerta a los elegidos. El dolor de Cristo sobre Jerusalén se convierte en una tensión entre las voluntades revelada y decretal de Dios.
+
+Cuando un sistema requiere tanto de retradución, el sistema se ha convertido en una lente a través de la cual se lee la Biblia en lugar de un resumen de lo que la Biblia enseña. (2 Pedro 3:16): Pedro advierte de quienes tuercen los escritos de Pablo "como también las otras Escrituras, para su propia perdición".
+
+**El problema más profundo: el calvinismo socava el carácter moral de Dios.**
+Esta es la sustancia del caso. Cada otra objeción (Expiación Limitada, Gracia Irresistible, la redefinición de "mundo" y "todos") es consecuencia de esta. Las doctrinas del TULIP, tomadas en su significado llano y llevadas a su fin lógico, requieren un Dios cuyo carácter moral contradice al Dios que las Escrituras describen.
+
+Expongamos lo que el sistema necesariamente implica:
+
+Dios creó a un ser humano particular. Antes de que esa persona fuera concebida, antes de que respirara, antes de que hiciera jamás bien o mal (Romanos 9:11 en su contexto real, que abordaremos en un momento), Dios decretó que esa persona no estaría entre los elegidos. Cristo no moriría por sus pecados; la expiación era particular y los excluía. El Espíritu no los regeneraría; el llamamiento eficaz estaba reservado para otros. La gracia nunca los alcanzaría; no pueden creer porque nunca se les dio la capacidad de creer.
+
+Esa persona vive entonces su vida. Se le ordena arrepentirse (Hechos 17:30). Se le dice que cualquiera que invoque el nombre del Señor será salvo (Romanos 10:13). Los predicadores les imploran, las Escrituras los advierten, y Cristo es ofrecido en un lenguaje que dice "venid a mí todos los que estáis trabajados y cargados" (Mateo 11:28). La oferta es real en apariencia. Detrás de la oferta, el decreto permanece: esta persona no está en la lista. No pueden aceptar lo que se les ofrece. Se les ordena hacer lo que Dios mismo ha determinado que no recibirán la capacidad de hacer.
+
+Mueren. Son juzgados. Son condenados al tormento eterno consciente por no recibir una salvación que nunca estuvo disponible para ellos, por rechazar a un Cristo que nunca murió por ellos, por resistir a un Espíritu que nunca vino a ellos, por cometer el pecado de la incredulidad, que es el único pecado que queda ahora que la cruz ha pagado por todo lo demás, e incredulidad en este caso fue el único resultado posible porque la gracia fue retenida desde el principio.
+
+Examina ese cuadro frente al testimonio de las Escrituras sobre quién es Dios:
+
+**Dios es justo.** (Deuteronomio 32:4): "Él es la Roca, cuya obra es perfecta, porque todos sus caminos son rectitud; Dios de verdad, y sin ninguna iniquidad en él; es justo y recto." (Génesis 18:25): Abraham pregunta: "El Juez de toda la tierra, ¿no ha de hacer lo que es justo?" La justicia en cualquier sentido bíblico o moral significativo requiere que los juzgados tuvieran una oportunidad real de actuar de otra manera. Condenar eternamente a una persona por no hacer lo que nunca fue habilitada para hacer es, por cada estándar que la propia Biblia usa, lo contrario de la justicia. El calvinismo debe redefinir justicia como "lo que Dios hace", lo que vacía la palabra de significado y hace de (Génesis 18:25) una pregunta sin respuesta real.
+
+**Dios es bueno.** (Salmo 145:9): "Bueno es el SEÑOR para con todos, y sus misericordias sobre todas sus obras." (Santiago 1:13): "Cuando alguno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado por el mal, ni él tienta a nadie." (1 Juan 1:5): "Dios es luz, y no hay ningunas tinieblas en él." Un Dios que crea seres cuyo único propósito es el sufrimiento eterno, sin oportunidad real de relación, no está descrito en ninguno de estos textos. El Dios de las Escrituras extiende misericordia a todas sus obras. El Dios de la estricta doble predestinación calvinista extiende misericordia solo a una fracción.
+
+**Dios es amor.** (1 Juan 4:8, 16): "Dios es amor." Esto no es una metáfora ni un atributo entre otros; es una declaración sobre su esencia. El amor que se niega a darle al amado ninguna posibilidad real de respuesta no es amor. Un esposo que "ama" a su esposa pero causa irresistiblemente cada una de sus elecciones no la ha amado. Un padre que "ama" a sus hijos pero predetermina desde antes de su concepción cuáles pasarán la eternidad con él y cuáles arderán, sin elección real para ninguno de ellos, no los está amando. Los está escogiendo o rechazando, pero no es amor. El calvinismo debe redefinir el amor como redefine la justicia, hasta que la palabra signifique algo distinto a lo que todo lector de las Escrituras, todo cónyuge y todo padre sabe que significa.
+
+**Dios no hace acepción de personas.** (Hechos 10:34): "En verdad comprendo que Dios no hace acepción de personas." (Romanos 2:11): "Porque no hay acepción de personas para con Dios." (Deuteronomio 10:17): "...que no hace acepción de personas, ni toma cohecho." Sin embargo, la Elección Incondicional es la doctrina de que Dios hace acepción de personas en el asunto más trascendente que existe, escogiendo a algunos para la gloria eterna y pasando por alto a otros, sin ninguna base en nada que esas personas hicieron o harían. La respuesta calvinista es que la selección de Dios no es arbitraria porque está arraigada en Su voluntad soberana. Esa respuesta cambia la palabra "parcial" por la palabra "soberano" sin resolver el problema moral; simplemente lo reetiqueta.
+
+**Dios no desea la muerte del impío.** (Ezequiel 18:23): "¿Quiero yo la muerte del impío? dice el Señor DIOS. ¿No vivirá, si se apartare de sus caminos?" (Ezequiel 18:32): "Porque no quiero la muerte del que muere, dice el Señor DIOS; convertíos, pues, y viviréis." (Ezequiel 33:11): "Vivo yo, dice el Señor DIOS, que no quiero la muerte del impío." (1 Timoteo 2:4): "el cual quiere que todos los hombres sean salvos." (2 Pedro 3:9): "no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
+
+Estos versículos son decisivos. El propio Dios, por su propia palabra, por su propio juramento ("Vivo yo"), declara que no tiene placer en la muerte del impío y desea que se vuelvan y vivan. El estricto calvinismo debe decir que este deseo revelado no es la voluntad real de Dios, que el decreto secreto de Dios determina que la mayoría de aquellos cuya muerte afirma deplorar morirán en efecto sin redención porque nunca les dio la gracia para arrepentirse. El sistema divide a Dios contra sí mismo: su voluntad revelada suplica, su voluntad decretal se niega. El Dios de las Escrituras no es de doble ánimo (Santiago 1:8 se aplica solo al hombre, pero el principio de integridad pertenece a Dios por naturaleza). Un Dios que llora sobre los perdidos (Lucas 19:41-44) mientras ha decretado su perdición desde la eternidad es un Dios cuyas lágrimas son teatrales. Los teólogos calvinistas han luchado honestamente con esta tensión; la lucha no la ha resuelto.
+
+**El problema del autor del mal.** Si Dios determina irresistiblemente cada evento, incluida cada elección humana y cada acto de pecado, entonces Dios es la causa última del pecado. La teología calvinista niega formalmente esta acusación ("Dios ordena el mal pero no es el autor del mal"; la distinción es entre causación primaria y secundaria), pero la negación es técnica, no sustancial. Si un hombre no podía haber actuado de otra manera que cometer el asesinato que cometió, porque Dios decretó el asesinato antes del tiempo e irresistiblemente obró los deseos que lo produjeron a través de la voluntad del asesino, entonces Dios es, por cualquier lectura honesta, la causa determinante. Las Escrituras son claras: (Santiago 1:13): "Cuando alguno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado por el mal, ni él tienta a nadie." (1 Juan 1:5): "Dios es luz, y no hay ningunas tinieblas en él." El sistema empuja contra estos textos, y los textos tienen que ceder.
+
+**La cuestión de Romanos 9.** Toda defensa calvinista vuelve a Romanos 9 como texto de prueba. "A Jacob amé, mas a Esaú aborrecí" (Romanos 9:13). "De quien quiere, tiene misericordia, y al que quiere endurecer, endurece" (Romanos 9:18). Los vasos de misericordia y los vasos de ira (Romanos 9:22-23). Lee Romanos 9 detenidamente y en contexto. Pablo está abordando la pregunta de si Dios ha sido fiel a sus promesas a Israel dado que la mayoría del Israel étnico había rechazado al Mesías. Su respuesta es que la elección al propósito corporativo (la línea de promesa que corre por Jacob, no Esaú, aunque Esaú era el primogénito) es prerrogativa de Dios; Dios no es injusto porque la promesa incondicional a Abraham siempre fue para una línea escogida. El texto no está abordando destinos eternos individuales; está abordando la pregunta histórica de por qué el Israel étnico no parece estar heredando las promesas mesiánicas que le fueron dadas al Israel étnico.
+
+Los "vasos de ira preparados para destrucción" de Romanos 9:22 usan un participio pasivo (*katertismena*) que no especifica el agente. El texto no dice "a quienes Dios preparó para destrucción"; dice "vasos de ira preparados para destrucción". Al lector se le invita a considerar si ellos mismos se prepararon a través de su propia rebelión. Pablo pasa inmediatamente a Romanos 10, donde el evangelio se ofrece a "todo aquel que cree" (10:4), donde "todo aquel que invocare el nombre del Señor, será salvo" (10:13), donde el fracaso de Israel se describe como el fracaso de la desobediencia (10:21, "Todo el día extendí mis manos a un pueblo rebelde y contradictor"). El mismo Pablo que escribió Romanos 9 escribió Romanos 10. Leer Romanos 9 de forma aislada para apoyar la elección determinista ignora la oferta de Romanos 10, que es universal.
+
+(Mateo 23:37) y (Lucas 13:34) también son críticos: "¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos, como la gallina junta sus polluelos debajo de las alas, y no quisiste!" El griego es inequívoco: *etheleisa* (yo quise) versus *ouk ethelesate* (vosotros no quisisteis). La voluntad de Cristo de reunir; la voluntad de ellos de rechazar. El calvinismo debe redefinir este pasaje, separando la voluntad revelada de Jesús de la voluntad decretal del Padre, pero el texto mismo no hace tal separación. El Hijo de Dios se duele sobre la ciudad precisamente porque la reunión que deseaba fue rechazada por ellos.
+
+**La esencia del carácter.** Un sistema teológico no se juzga solo por sus textos de prueba individuales, sino por el Dios que te deja. El Dios del calvinismo, tomado en la forma estricta y consistente (la forma que el propio Calvino defendió, la forma que Edwards predicó, la forma que Sproul enseñó, la forma que Piper escribe hoy), es soberano de una manera que las Escrituras afirman, pero carece de los atributos morales que las Escrituras también insisten en afirmar. Ese Dios:
+
+- Decreta la condenación eterna de seres que crea, antes de que hayan hecho algo malo, mientras afirma deplorar su pérdida.
+- Ordena el arrepentimiento a personas que ha determinado que no pueden arrepentirse, y luego las juzga por no arrepentirse.
+- Ama "al mundo" mientras limita la expiación a una fracción del mundo, requiriendo que "mundo" sea redefinido.
+- Emite invitaciones universales a través de las Escrituras y los predicadores mientras ha decretado que la mayoría de quienes escuchan no pueden aceptar.
+- Hace a los seres humanos moralmente responsables por elecciones que, por la propia lógica del sistema, nunca fueron suyas para tomar.
+
+O bien Dios es como las Escrituras lo describen (justo, bueno, amoroso, sin acepción de personas, que no desea que ninguno perezca, que llama a todos al arrepentimiento, que extiende las manos a un pueblo dispuesto o no, que llora sobre la rebelión que lo entristece), o bien Dios es como el estricto sistema calvinista lo requiere (soberano de una manera que anula cada otro atributo, con su carácter revelado reducido a una fachada pública que enmascara el decreto real).
+
+La elección es entre creer las palabras que las Escrituras usan sobre el carácter de Dios, o creer en un sistema que requiere que esas palabras signifiquen algo distinto a lo que dicen. (Números 23:19): "Dios no es hombre, para que mienta, ni hijo de hombre para que se arrepienta." O su deseo revelado de que ninguno perezca es su deseo real, o no lo es. O llama a todos a venir, o no. O Cristo gustó la muerte por todos (Hebreos 2:9), o no. O el amor de Dios por el mundo es real, o "mundo" significa algo distinto a mundo. El calvinismo, presionado honestamente, debe redefinir cada uno de estos. La redefinición es la herejía.
+
+Por eso el calvinismo pertenece a este documento a pesar de afirmar la Trinidad, la deidad de Cristo y el evangelio histórico. El sistema no niega quién es Jesús, pero distorsiona quién es el Padre. Enseña un Dios cuyo carácter moral no puede defenderse en los términos que las Escrituras usan para describirlo. Presentar este Dios a los perdidos es presentar un Dios al que pueden tener razones para temer, pero ninguna razón clara para amar, porque el amor que se predica ha sido redefinido hasta romper el punto de ruptura de la palabra.
+
+(1 Juan 4:19): "Nosotros le amamos a él, porque él nos amó primero." Su amor viene primero y es el fundamento del nuestro. Si su amor no es lo que la palabra significa en el uso humano, nuestro amor edificado sobre él ha sido construido sobre un fundamento que ha sido vaciado. El evangelio necesita un Dios cuyo amor sea amor real, cuya oferta sea oferta real, cuya justicia sea justicia real. El calvinismo, en su forma estricta, lucha por proveer ese Dios.
 
 ---
-
 ### Adventismo del Séptimo Día
 
-**También conocido como:** ASD. Adventismo. Iglesia Adventista del Séptimo Día. Denominación Adventista del Séptimo Día. La Iglesia Adventista. El movimiento adventista (más amplio, incluye a los milleritas previos a 1863). Adventistas observadores del sábado (el nombre distintivo original). Organizaciones hermanas y ramas derivadas: Davidianos (una disidencia sabatista, la fuente de la cual divergieron los Davidianos Rameantes bajo David Koresh; los davidianos originales son doctrinalmente distintos del culto posterior de Koresh). Davidianos Rameantes (David Koresh, el grupo de Waco, Texas, de 1993; esta es una disidencia mucho más extrema y no es representativa del ASD convencional). Adventistas del Movimiento de Reforma. Algunas congregaciones locales se llaman simplemente "Iglesia Adventista [ciudad]" sin el prefijo "del Séptimo Día". La Conferencia General de los Adventistas del Séptimo Día (el organismo rector global, con sede en Silver Spring, MD). ADRA (Agencia Adventista de Desarrollo y Recursos Asistenciales, su brazo humanitario). Universidad de Loma Linda (su institución médica insignia).
+**También conocido como:** ASD. Adventismo. Iglesia Adventista del Séptimo Día. Denominación Adventista del Séptimo Día. La Iglesia Adventista. El movimiento adventista (más amplio, incluye a los milleritas antes de 1863). Adventistas observantes del sábado (el nombre diferenciador original). Organizaciones hermanas y derivadas: Davidianos (un grupo disidente observante del sábado, la fuente de la que se separaron los Davidianos Ramas bajo David Koresh; los Davidianos originales son doctrinalmente distintos del culto posterior de Koresh). Davidianos Ramas (David Koresh, el grupo de Waco, Texas en 1993; esta es una derivación mucho más extrema y no es representativa del ASD convencional). Adventistas del Movimiento de Reforma. Algunas congregaciones locales se llaman simplemente "Iglesia Adventista [ciudad]" sin el prefijo "del Séptimo Día". La Conferencia General de la Iglesia Adventista del Séptimo Día (el órgano rector global, con sede en Silver Spring, MD). ADRA (Agencia Adventista de Desarrollo y Recursos Asistenciales, su brazo humanitario). Universidad de Loma Linda (su institución médica insignia).
 
-**Nota sobre la ubicación:** El Adventismo del Séptimo Día es genuinamente debatido. Sus declaraciones públicas actuales afirman la Trinidad, la deidad de Cristo, la salvación por gracia mediante la fe y la resurrección corporal. Muchos adventistas son creyentes sinceros en el evangelio histórico. El movimiento también tiene enseñanzas históricas y vigentes que el cristianismo histórico ha identificado como errores graves. Lo ubico en el Nivel Dos reconociendo que es una decisión de juicio; algunos teólogos cuidadosos han argumentado que pertenece al Nivel Tres.
+**Nota sobre la clasificación:** El Adventismo del Séptimo Día es genuinamente debatido. Sus declaraciones públicas actuales afirman la Trinidad, la deidad de Cristo, la salvación por gracia mediante la fe y la resurrección corporal. Muchos adventistas son creyentes sinceros del evangelio histórico. El movimiento también tiene enseñanzas históricas y vigentes que el cristianismo histórico ha identificado como errores graves. Lo estoy colocando en el Nivel Dos mientras reconozco que esto es una decisión de criterio; algunos teólogos cuidadosos han argumentado que pertenece al Nivel Tres.
 
-**Fundadora:** Ellen G. White (1827-1915), con el movimiento profético de William Miller de 1844 como la matriz de la cual emergió el adventismo.
+**Fundadora:** Ellen G. White (1827-1915), con el movimiento profético de 1844 de William Miller como matriz de la que emergió el adventismo.
 
-**El problema de 1844:** William Miller predijo que Cristo regresaría el 22 de octubre de 1844. Cuando Cristo no regresó, los seguidores de Miller experimentaron la "Gran Decepción". La mayoría de los milleritas abandonaron la predicción. Un pequeño grupo, liderado por Hiram Edson y posteriormente por Ellen White, enseñó que Miller había acertado en la fecha pero errado en el evento: Cristo no había regresado a la tierra sino que había entrado al "Lugar Santísimo" de un santuario celestial para comenzar un "juicio investigador" de los creyentes. Esta doctrina, exclusiva del adventismo, no tiene fundamento escritural; fue construida retroactivamente para rescatar la predicción fallida de Miller.
+**El problema de 1844:** William Miller predijo que Cristo regresaría el 22 de octubre de 1844. Cuando Cristo no regresó, los seguidores de Miller experimentaron la "Gran Decepción". La mayoría de los milleritas abandonaron la predicción. Un pequeño grupo, liderado por Hiram Edson y luego por Ellen White, enseñó que Miller había acertado en la fecha pero se había equivocado en el evento: Cristo no había regresado a la tierra sino que había entrado en el "Lugar Santísimo" de un santuario celestial para comenzar un "juicio investigador" de los creyentes. Esta doctrina, exclusiva del adventismo, no tiene base escritural; fue construida de manera retroactiva para salvar la predicción fallida de Miller.
 
-**Ellen G. White como profetisa:** White afirmó haber tenido más de 2.000 visiones durante su vida y produjo docenas de libros, siendo los más influyentes *El Gran Conflicto* y *El Camino a Cristo*. Los adventistas consideran oficialmente sus escritos como una "luz menor" que apunta a la "luz mayor" de la Escritura, pero en la práctica sus escritos funcionan como interpretación autoritativa. Donde sus escritos contradicen las lecturas naturales de la Escritura (el juicio investigador, el sábado como asunto de salvación, las restricciones dietéticas como imperativos morales), sus escritos tienden a imponerse.
+**Ellen G. White como profeta:** White afirmó haber tenido más de 2,000 visiones durante su vida y produjo decenas de libros, siendo los más influyentes *El conflicto de los siglos* y *El camino a Cristo*. Los adventistas consideran oficialmente sus escritos como una "luz menor" que apunta a la "luz mayor" de las Escrituras, pero en la práctica sus escritos funcionan como interpretación autoritativa. Donde sus escritos contradicen lecturas naturales de las Escrituras (el juicio investigador, el sábado como asunto de salvación, las restricciones dietéticas como imperativos morales), sus escritos tienden a ganar.
 
-**El asunto del sábado como salvación:** El adventismo enseña que la observancia del sábado del séptimo día (sábado) es una señal crítica de los últimos tiempos de la verdadera iglesia de Dios, y que la adoración dominical será la "marca de la bestia" de Apocalipsis 13. Esto va más allá de la simple observancia del sábado (que tiene respaldo bíblico; véase la sección del sábado en este documento) hasta convertir la observancia del sábado en un asunto de salvación. (Colosenses 2:16): "Por tanto, nadie os juzgue en comida o en bebida, o en cuanto a días de fiesta, luna nueva o sábados." (Romanos 14:5-6): permite libertad en la observancia de días. Hacer de la observancia del sábado la línea divisoria entre salvos y perdidos, como hace cierta literatura adventista, contradice estos pasajes.
+**El sábado como asunto de salvación:** El adventismo enseña que la observancia del sábado del séptimo día (sábado) es una señal crítica de los últimos tiempos de la verdadera iglesia de Dios, y que la adoración dominical será la "marca de la bestia" de Apocalipsis 13. Esto va más allá de la simple observancia del sábado (que tiene respaldo bíblico; véase la sección sobre el sábado en este documento) hasta convertir la observancia del sábado en un asunto de salvación. (Colosenses 2:16): "Por tanto, nadie os juzgue en comida o en bebida, o en cuanto a días de fiesta, luna nueva o días de reposo." (Romanos 14:5-6): permite libertad en cuanto a la observancia de días. Hacer de la observancia del sábado la línea divisoria entre salvados y perdidos, como lo hace parte de la literatura adventista, contradice estos pasajes.
 
-**Por qué está en el Nivel Dos:** La doctrina del juicio investigador no tiene fundamento bíblico y fue construida para salvar una profecía fallida. Los escritos de Ellen White funcionan como una segunda autoridad junto a la Escritura, incluso cuando se niega oficialmente. El enfoque del sábado como salvación distorsiona el evangelio de la gracia. Estos no son errores menores. Al mismo tiempo, los adventistas generalmente afirman el evangelio histórico y muchos son creyentes genuinos. Los errores anteriores son suficientemente graves para justificar su inclusión aquí, pero el evangelio en sí no es negado como en el Nivel Uno.
+**Por qué está en el Nivel Dos:** La doctrina del juicio investigador no tiene fundamento bíblico y fue construida para salvar una profecía fallida. Los escritos de Ellen White funcionan como una segunda autoridad junto a las Escrituras, aunque se niegue oficialmente. El enfoque del sábado como salvación distorsiona el evangelio de la gracia. Estos no son errores menores. Al mismo tiempo, los adventistas generalmente afirman el evangelio histórico, y muchos son verdaderos creyentes. Los errores anteriores son lo suficientemente graves como para justificar su inclusión aquí, pero el evangelio en sí no es negado como en el Nivel Uno.
+
+---
+### Nueva Reforma Apostólica y Movimientos Apostólicos Modernos
+### Nueva Reforma Apostólica (NAR) (décadas de 1990 hasta el presente)
+
+**También conocida como:** NAR. Nueva Reforma Apostólica. Reforma Apostólica. Movimiento Apostólico-Profético. Movimiento Carismático Independiente. Tercera Ola (la corriente carismática más amplia del siglo XX que produjo la NAR). Guerra Espiritual a Nivel Estratégico (el sistema de C. Peter Wagner). Arrepentimiento Identificacional. Cartografía Espiritual. Mandato de las Siete Montañas / Dominio de las Siete Montañas (el marco de la teología del dominio). Dominionismo / Teología del Dominio (el proyecto político-teológico más amplio). Siete Montañas de Influencia (origen en Loren Cunningham/Bill Bright, cooptado por la NAR). Reconstruccionismo (superpuesto pero distinto, de origen más reformado). Teonomía (superpuesto). Ejército de Joel. La Generación de Elías. El Movimiento de la Novia. El modelo de gobierno de "Apóstoles y Profetas". Figuras principales: C. Peter Wagner (el principal teólogo y acuñador del término; falleció en 2016). Cindy Jacobs. Mike Bickle (International House of Prayer / IHOPKC, Kansas City; importante escándalo de abuso en 2023-2024). Bill Johnson (Bethel Church, Redding, CA). Kris Vallotton (Bethel). Lou Engle. Lance Wallnau. Ché Ahn (Harvest International Ministry). Dutch Sheets. Chuck Pierce. Patricia King. Bob Jones (el "profeta"). Paul Cain (asociado con los Profetas de Kansas City; más tarde admitió alcoholismo y homosexualidad). Rick Joyner (MorningStar Ministries). Paula White (afiliada a Trump; une la NAR con Palabra de Fe). Redes: International Coalition of Apostolic Leaders (ICAL, red de Wagner). Apostolic Council of Prophetic Elders (ACPE). U.S. Reformation Prayer Network. Instituciones principales: Bethel Church (Redding, CA). International House of Prayer Kansas City (IHOPKC, antes del escándalo de 2023-2024). The Pohl Network.
+
+**Fundador:** Ningún fundador único. C. Peter Wagner (1930-2016) acuñó el término "Nueva Reforma Apostólica" en 1996 y le dio al movimiento su arquitectura teológica, basándose en el movimiento Vineyard de John Wimber, la Bendición de Toronto (1994) y la corriente carismática más amplia de la Tercera Ola. Los libros de Wagner *Apostles Today* (2006) y *Dominion!* (2008) son las declaraciones sistemáticas.
+
+**Enseñanzas centrales:**
+
+- Existen apóstoles y profetas modernos con autoridad equivalente a la de los Doce originales. Sus declaraciones son revelatorias y vinculantes.
+- Las siete "montañas" de influencia cultural (religión, familia, educación, gobierno, medios de comunicación, artes/entretenimiento, negocios) deben ser puestas bajo dominio cristiano antes del regreso de Cristo. Cristo no regresa PARA derrotar el mal; regresa DESPUÉS de que la iglesia derrote el mal.
+- "Guerra espiritual a nivel estratégico" contra demonios territoriales nombrados sobre ciudades, naciones y grupos de personas. Esto incluye la "cartografía espiritual" de ciudades y el "arrepentimiento identificacional" por pecados ancestrales y corporativos.
+- "Oración de remojo", "túneles de fuego", "activaciones proféticas", "remojo en tumbas" (acostarse sobre las tumbas de cristianos muertos para absorber su unción; documentado en Bethel y en otros lugares), "nubes de gloria" (manifestaciones de polvo de oro), plumas del cielo, joyas que aparecen.
+- Revelación directa que complementa o incluso corrige las Escrituras. "Dios me dijo" se trata como autoritativo.
+- Implicaciones de la "teología del dominio" para la política, con fuerte superposición con los movimientos nacionalistas cristianos estadounidenses desde 2016.
+
+**Frases comunes para reconocer:**
+
+- "Cobertura apostólica."
+- "Alineación profética."
+- "Revelación fresca."
+- "Vino nuevo."
+- "El próximo mover de Dios."
+- "No toques al ungido del Señor."
+- "Activa tu manto."
+- "Cambia la atmósfera."
+- "Toma las siete montañas."
+- "Decreta y declara."
+- "Cielo abierto."
+- "Impartición."
+- "Palabra profética."
+
+**Daños documentados:**
+
+- Predicciones fallidas en público, luego silenciosamente borradas de la memoria. Las profecías de 2020 sobre la reelección segura de Trump hechas por los principales profetas de la NAR (Jeremiah Johnson, Kris Vallotton, Kat Kerr, otros) fracasaron públicamente. Algunos se disculparon; muchos simplemente siguieron adelante.
+- Mike Bickle (fundador de IHOPKC), 2023-2024: múltiples mujeres se presentaron con acusaciones creíbles de abuso sexual a largo plazo que abarcaba décadas. El liderazgo de IHOPKC inicialmente defendió a Bickle y solo después de la presión pública comenzó a reconocer las acusaciones. El patrón institucional de encubrimiento es paralelo a otros escándalos de abuso religioso.
+- Terapia "Bethel sozo" y prácticas de sanidad interior que importan métodos psicológicos (regresión, "sanidad de memoria", a veces adyacente a la terapia de memoria recuperada, que ha sido sustancialmente desacreditada) bajo etiquetas espirituales.
+- Concentración financiera en redes apostólicas. El modelo de gobierno apostólico de Wagner incluye el diezmo a "padres espirituales" más allá de la iglesia local.
+- Testimonios de ex miembros sobre manipulación espiritual, palabras proféticas como mecanismo de control ("así dice el Señor, debes...") y ostracismo de quienes se van.
+
+**Por qué es herejía:**
+
+- (Efesios 2:20): La iglesia está "edificada sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo." El fundamento está puesto; los "apóstoles" modernos que reclaman autoridad fundacional están reclamando lo que el texto dice que está terminado.
+- (Judas 3): "la fe que ha sido una vez dada a los santos." Una vez y para siempre. No en entregas continuas a través de nuevos apóstoles.
+- Nueva revelación que complementa o corrige las Escrituras: (Apocalipsis 22:18, Proverbios 30:6, Gálatas 1:8-9).
+- Profecías fallidas: (Deuteronomio 18:22). Las profecías de las elecciones de 2020 por sí solas descalifican las afirmaciones proféticas del movimiento.
+- La teología del dominio que dice que Cristo regresa DESPUÉS de que la iglesia conquiste la cultura invierte (Hechos 1:11, Mateo 24:30, Apocalipsis 19:11-16). Cristo regresa para traer su reino; el reino no se construye hacia Él.
+- (1 Timoteo 6:5): "que piensan que la piedad es una fuente de ganancia." Redes apostólicas con superposición de prosperidad.
+- (Mateo 7:15-20): prueba por el fruto. El escándalo de Bickle, el escándalo de Bob Jones (1991, ministerio profético de abuso sexual), el escándalo de Paul Cain, el escándalo de Todd Bentley (2008, adulterio y abuso de sustancias durante un "avivamiento" en Lakeland), el escándalo de plagio y liderazgo abusivo de Mark Driscoll, no son casos aislados. Son un patrón.
+
+**Por qué es peligroso:** Los apóstoles del Nuevo Testamento fueron testigos oculares del Cristo resucitado y piedras fundacionales de la iglesia (Efesios 2:20). Ese fundamento no se vierte de nuevo cada generación. Los maestros modernos pueden predicar, pastorear, evangelizar y exhortar, pero no ostentan autoridad apostólica igual a la de las Escrituras.
+
+Cuando un líder reclama revelación fresca que no puede ser cuestionada, la iglesia ya no está gobernada por las Escrituras. Está gobernada por la personalidad.
+
+**Corrección escritural:**
+
+- La fe fue entregada de una vez para siempre a los santos (Judas 3).
+- Las Escrituras equipan al hombre de Dios para toda buena obra (2 Timoteo 3:16-17).
+- Los falsos profetas se prueban por si sus palabras se cumplen (Deuteronomio 18:21-22).
+- Incluso los verdaderos dones espirituales deben ser probados y juzgados (1 Corintios 14:29, 1 Tesalonicenses 5:20-21).
+- Ningún maestro está por encima de la corrección (Gálatas 2:11-14).
+
+**La respuesta:** Dios todavía guía, convence, consuela y dota a su pueblo. Pero ningún profeta, apóstol, sueño, visión, manto o "palabra del Señor" moderno puede superar la Palabra escrita de Dios.
 
 ---
 
+### Branhamismo / El Mensaje / Movimientos de Profetas de la "Lluvia Tardía"
+
+**También conocido como:** El Mensaje. El Mensaje de la Hora. El Mensaje de William Branham. El Mensaje del Tiempo del Fin. Branhamitas (a veces peyorativo). Voice of God Recordings (la principal entidad editorial de los sermones de Branham). La Novia de Cristo (autodenominación de los miembros, con fuerte implicación de que solo los seguidores de Branham son la verdadera Novia). Bible Believers (nombre común de congregación). Branham Tabernacle (Jeffersonville, Indiana, la sede original). Branham Memorial. Movimiento de la Lluvia Tardía (corriente profético-carismática más amplia de 1948 que influyó a Branham y fue influenciada por él). Nueva Orden de la Lluvia Tardía. Doctrina de los Hijos Manifiestos de Dios (la subcorriente herética de que los seres humanos pueden alcanzar la divinidad en esta vida). El movimiento "Ejército de Joel". Figuras estrechamente relacionadas y superpuestas: A.A. Allen, Oral Roberts (en algunas conexiones doctrinales), Paul Cain, Bob Jones (el profeta, no la universidad), el principal heredero doctrinal de William Branham, Lee Vayle. Los herederos modernos en la Nueva Reforma Apostólica (tratada por separado) se basan en gran medida en las afirmaciones proféticas y el estilo revivalista de Branham.
+
+**Fundador:** William Marrion Branham (1909-1965), predicador pentecostal-carismático de Indiana. Muerto en un accidente automovilístico de frente en Texas en diciembre de 1965. Sus seguidores esperaron su resurrección durante años; algunos todavía la esperan.
+
+**Distorsiones centrales:**
+
+- Branham era el "Elías" profetizado de Malaquías 4:5-6 que restauraría todas las cosas antes de la segunda venida de Cristo.
+- Los sermones hablados de Branham son *así dice el Señor*, profecías a la par con las Escrituras.
+- La doctrina de la "Simiente de la Serpiente": el pecado de Eva en el Edén fue una relación sexual literal con la serpiente (interpretada como un ser erguido antes de la maldición), produciendo a Caín como la simiente literal de la serpiente. Los descendientes de Caín son racial y espiritualmente distintos de los de Adán. Esta doctrina ha sido usada para justificar jerarquías raciales y es rechazada como exegéticamente infundada y moralmente corrupta por la teología cristiana convencional.
+- Modalismo / teología Unicidad: Branham negó la Trinidad en su enseñanza madura, sosteniendo que Padre, Hijo y Espíritu son títulos de la única Persona Jesús.
+- El marco de las "siete edades de la iglesia", identificándose a sí mismo como el mensajero a la séptima edad (la laodicena), el mensajero final antes del regreso de Cristo.
+- "Vindicación" por señales: Branham afirmaba leer mentes, identificar enfermedades por don y pronunciar *así dice el Señor* sobre individuos. Algunas sanidades parecen haber sido documentadas; otras no lo fueron, y una investigación póstuma por sus propios ex seguidores encontró fraude y manipulación significativos en sus sesiones de "discernimiento".
+
+**Profecías fallidas:**
+
+- Branham predijo que para 1977, todas las denominaciones serían absorbidas por el Consejo Mundial de Iglesias, ocurriría el rapto y comenzaría el milenio. Nada de esto sucedió.
+- Predijo la destrucción de Los Ángeles por un terremoto, hundiéndose en el océano. No sucedió.
+- Predijo eventos específicos relacionados con el cabello de las mujeres, la moda y la política que no ocurrieron.
+
+(Deuteronomio 18:22) es directo sobre la profecía fallida. Los seguidores de Branham han vuelto a fechar y reinterpretar repetidamente para preservar el sistema.
+
+**Por qué es herejía:**
+
+- Agrega un nuevo profeta cuyas palabras son iguales a las Escrituras: (Apocalipsis 22:18, Proverbios 30:6). La afirmación de *así dice el Señor* de Branham sobre enseñanzas que contradicen a los apóstoles lo convierte en un caso de prueba de (Gálatas 1:8-9).
+- Modalismo: los mismos conflictos escriturales que el Pentecostalismo Unicidad (Mateo 3:16-17, Juan 17, Juan 14:16, Hebreos 1:8-9).
+- La doctrina de la Simiente de la Serpiente es exegéticamente imposible. Génesis 3 no describe en ningún lugar contacto sexual entre Eva y la serpiente. La "simiente" de Génesis 3:15 es metafórica/genealógica, la línea de la redención versus la línea del mal. Caín es explícitamente descrito como hijo de Adán en (Génesis 4:1, Génesis 5:3).
+- La teología de los "Hijos Manifiestos de Dios", donde los creyentes de élite alcanzan la divinidad en esta vida, es paralela a los errores de los mormones y de Palabra de Fe, y está prohibida por (Isaías 43:10, Isaías 44:6).
+- La profecía fallida es descalificadora. La Sociedad Watch Tower tiene el mismo problema; Branham tiene el mismo problema.
+
+---
+### Las Doce Tribus / Yellow Deli
+
+**También conocido como:** Las Doce Tribus. Las Comunidades de las Doce Tribus. Las Doce Tribus de Israel (su autodenominación, que reclama descendencia o injerto literales). Comunidades Mesiánicas. Comunidades de Yahshua (su forma preferida de "Yeshua/Jesús"). Sus negocios de cara al público: Yellow Deli (una cadena de cafeterías, principal vehículo de reclutamiento en ciudades universitarias y zonas turísticas). Common Ground Cafe. Common Sense Café. Mate Factor (marca orgánica de té mate). Common Sense Farm. Diversas granjas orgánicas, negocios de construcción, talleres de carpintería y ferias de artesanía. Han aparecido en eventos como las Rainbow Gatherings y varios festivales. Comunidades internacionales en EE. UU., Canadá, Argentina, Brasil, Francia, España, Alemania, Inglaterra, Australia y otros lugares.
+
+**Fundador:** Elbert Eugene "Gene" Spriggs (1937-2021) y su esposa Marsha. Fundado en Chattanooga, Tennessee.
+
+**Enseñanzas centrales:**
+
+- La salvación requiere unirse a una comunidad de las Doce Tribus. Fuera de la comunidad, no hay salvación. Son el "remanente" que se está reuniendo para los tiempos finales.
+- Propiedad comunal: los miembros entregan todos sus bienes al unirse.
+- Estructura patriarcal estricta. Las mujeres se someten a los esposos; los esposos se someten a los ancianos. Los escritos de Spriggs incluyen declaraciones severas sobre los roles de la mujer.
+- Castigo corporal de niños usando varillas delgadas semejantes a cañas, comenzando desde muy pequeños. Esto ha resultado en investigaciones por abuso infantil en múltiples países. Las autoridades alemanas en 2013 retiraron aproximadamente 40 niños de la comunidad basándose en abuso documentado.
+- Doctrina racial: Spriggs enseñó que la maldición de Cam hace esclavos a los negros, y que Martin Luther King Jr. fue un instrumento del diablo. Estos escritos siguen en sus materiales internos.
+- Salvación por obras: requiere devoción total, trabajo comunal y obediencia a los ancianos. La cruz de Cristo es necesaria pero insuficiente sin entrar en la comunidad.
+- Anti-moderno / anti-mundo secular: rechaza la mayor parte de la medicina moderna, la escolarización convencional para los niños (educación en casa con currículo controlado por la comunidad), y mucha tecnología de forma selectiva.
+
+**Daños documentados:**
+
+- Múltiples investigaciones y retiradas de niños por abuso (Alemania 2013, Francia, varios estados de EE. UU.).
+- Testimonios de ex miembros sobre manipulación psicológica, trabajo forzado, privación de sueño, comunicación restringida con familiares externos.
+- Investigación del Departamento de Trabajo de EE. UU. en 2001 sobre trabajo infantil en sus negocios.
+- Racismo en materiales publicados.
+
+**Por qué es herejía:**
+
+- Agrega requisitos más allá de la fe en Cristo para la salvación: (Gálatas 1:8-9, Efesios 2:8-9).
+- Salvación "solo para miembros": contradice (Romanos 10:13, Mateo 28:19).
+- (Mateo 18:6): el pasaje de la piedra de molino sobre el daño a los niños.
+- Prohíbe lo que Dios permite (medicina, propiedad normal, estructura familiar normal fuera de la comunidad): (1 Timoteo 4:1-3).
+- La doctrina racial contradice (Gálatas 3:28, Hechos 17:26).
+- Profecía fallida: Spriggs predijo cronologías específicas para el regreso de Cristo que no se materializaron.
+
+---
+### La Puerta del Cielo (Heaven's Gate)
+
+**También conocida como:** The Total Overcomers Anonymous. Total Overcomers. Los Dos (Marshall Applewhite y Bonnie Nettles, los fundadores, que se llamaban a sí mismos "Bo y Peep", "Do y Ti" y otros nombres en pareja). Human Individual Metamorphosis (HIM, un nombre temprano). Higher Source Contract Enterprises (una empresa de diseño web que operaban en sus últimos años; entre sus clientes se encontraban algunos de los principales estudios de Hollywood que no sabían quiénes eran sus desarrolladores).
+
+**Fundadores:** Marshall Applewhite (1931-1997) y Bonnie Nettles (1927-1985). Se conocieron en un hospital en Houston en 1972; comenzaron a enseñar su sincretismo ovni-cristiano en 1974.
+
+**Resultado:** El 26 de marzo de 1997, 39 miembros, incluido Applewhite, fueron encontrados muertos en una mansión alquilada en Rancho Santa Fe, California. Habían cometido suicidio en masa usando fenobarbital y vodka, luego colocándose bolsas de plástico sobre la cabeza, en la creencia de que sus almas serían transportadas a un ovni que viajaba detrás del cometa Hale-Bopp. Sus cuerpos estaban vestidos de manera idéntica con ropa negra y zapatillas Nike Decade.
+
+**Enseñanzas centrales:**
+
+- Las referencias bíblicas al reino de los cielos describen en realidad una civilización extraterrestre llamada "El Nivel Evolutivo Superior al Humano".
+- Jesús era miembro de este reino superior, enviado en forma humana para enseñar el camino de ascensión.
+- Applewhite y Nettles eran los "Dos Testigos" de Apocalipsis 11.
+- El cuerpo humano es un "vehículo" que debe ser descartado; el alma se transfiere a una forma superior.
+- La Tierra estaba a punto de ser "reciclada" (destruida); la única salida era abandonar el cuerpo humano y ascender.
+- El cometa Hale-Bopp (visible en marzo de 1997) era acompañado por un ovni que recogería las almas de los fieles.
+
+**Por qué está en esta lista:** La Puerta del Cielo es el estado final documentado de reemplazar la autoridad bíblica con revelación personal carismática. Applewhite leyó la terminología cristiana en su escatología ovni y sus seguidores murieron por ello. (Mateo 24:23-24): "Entonces, si alguno os dijere: Mirad, aquí está el Cristo, o mirad, allí está, no lo creáis. Porque se levantarán falsos cristos, y falsos profetas, y harán grandes señales y prodigios, de tal manera que engañarán, si fuere posible, aun a los escogidos." (Hechos 1:11): "Este mismo Jesús, que ha sido tomado de vosotros al cielo, así vendrá como le habéis visto ir al cielo." No en una nave espacial detrás de un cometa. En regreso corporal y glorioso.
+
+El patrón: un maestro carismático lee las Escrituras a través de un marco externo (teología ovni), reinterpreta cada pasaje relevante para que encaje, reclama un estatus único como mensajero designado, aísla a los seguidores de toda prueba externa, y produce muerte. El mismo patrón ha producido Jonestown, los Davidianos en Waco, la Orden del Templo Solar y otros. (1 Tesalonicenses 5:21): "Examinadlo todo; retened lo bueno." Los miembros de la Puerta del Cielo no examinaron; murieron.
+
+---
+### Cienciología (Scientology)
+
+**También conocida como:** Iglesia de Cienciología. CoS. La religión ciencióloga. Dianética (el sistema proto-cienciológico del libro de L. Ron Hubbard de 1950, antes de que la religión fuera formalmente organizada). The Hubbard Association of Scientologists International. Sea Org / Sea Organization (la "orden religiosa" de élite dentro de la Cienciología; los miembros firman "contratos de mil millones de años"). Diversas entidades corporativas: Religious Technology Center (RTC, que posee las marcas comerciales). Church of Scientology International (CSI). Scientology Missions International. Author Services Inc. Bridge Publications. New Era Publications. Grupos fachada diseñados para reclutar sin identificar la conexión: Narconon (rehabilitación de drogas; ha resultado en muertes y está vinculada a la "purificación" pseudocientífica de la Cienciología). Criminon (ministerio carcelario). Applied Scholastics (frente educativo; usa la "Tecnología de Estudio" de Hubbard). Citizens Commission on Human Rights (CCHR, defensa antiporquiatría). The Way to Happiness Foundation. World Institute of Scientology Enterprises (WISE, red empresarial). Volunteer Ministers (camisas amarillas en desastres). Foundation for a Drug-Free World. United for Human Rights. Concerned Businessmen's Association.
+
+**Fundador:** L. Ron Hubbard (1911-1986), escritor estadounidense de ciencia ficción que fundó Dianética en 1950 y la reorganizó como la Iglesia de Cienciología en 1954. Hubbard supuestamente le dijo al compañero escritor de ciencia ficción Lloyd Eshbach en 1949: "Me gustaría fundar una religión. Ahí es donde está el dinero." Esta cita, aunque disputada por la Cienciología, está atestiguada de forma independiente en los escritos de George Orwell, Theodore Sturgeon y otros que estaban en la habitación. Hubbard murió en 1986; David Miscavige ha dirigido la Iglesia desde 1987.
+
+**Nota sobre la clasificación:** La Cienciología no es una herejía cristiana. Es un nuevo movimiento religioso del siglo XX que se nutre de fuentes orientales, occidentales y de ciencia ficción sin hacer afirmaciones serias de ser cristiano. Lo incluyo porque opera agresivamente en países de mayoría cristiana, recluta jóvenes incluso de trasfondos cristianos, se presenta en términos espirituales vagos que algunos reclutas confunden inicialmente con autosuperación compatible con el cristianismo, e inflige daños bien documentados.
+
+**Enseñanzas centrales (el material de nivel superior, revelado solo después de extensos cursos pagados):**
+
+- Hace 75 millones de años, un dictador galáctico llamado Xenu resolvió su problema de superpoblación transportando miles de millones de seres a la Tierra (entonces llamada "Teegeeack"), colocándolos alrededor de volcanes y detonando bombas de hidrógeno. Sus almas ("thetanes") se adhirieron a los cuerpos humanos actuales y causan problemas psicológicos hoy.
+- La salvación viene a través de la "auditación" (el proceso confesional/terapéutico de la Cienciología) usando el "E-metro" (un galvanómetro). Cada sesión de auditación tiene un costo significativo. Alcanzar los niveles superiores ("niveles OT", operando thetan) cuesta decenas a cientos de miles de dólares a lo largo de décadas.
+- La psiquiatría es el enemigo absoluto y debe ser destruida. Esto se operacionaliza a través de la CCHR.
+- "Desconexión": se requiere a los miembros que corten todo contacto con familiares o amigos etiquetados como "personas supresoras" (PS) por la iglesia, incluidos padres, hijos y cónyuges.
+- Doctrina de "Juego Limpio": la política de Hubbard de 1965 según la cual los enemigos de la Cienciología "pueden ser privados de propiedad o perjudicados por cualquier medio por cualquier cienciólogo sin disciplina alguna al cienciólogo. Pueden ser engañados, demandados o mentidos, o destruidos." La Iglesia dice que esta política fue cancelada en 1968; la documentación de ex miembros muestra que continuó en la práctica.
+
+**Daños documentados:**
+
+- Operación Nieve Blanca (1973-1977): la mayor infiltración del gobierno de EE. UU. en la historia estadounidense. Los operativos de la Cienciología infiltraron el IRS, el FBI, el DOJ y otras agencias para robar documentos sobre la Iglesia. 11 cienciólogos de alto rango, incluida la esposa de Hubbard, Mary Sue, fueron condenados y encarcelados. Hubbard fue nombrado co-conspirador no acusado y se ocultó por el resto de su vida.
+- Caso de Lisa McPherson (1995): Lisa McPherson, ciencióloga, murió bajo custodia de la iglesia después de ser mantenida en aislamiento durante 17 días durante un "colapso psicótico Tipo III". El estado de Florida acusó a la Iglesia de abuso y práctica de medicina sin licencia; el caso penal fue archivado después de problemas con pruebas clave, pero la demanda civil fue resuelta por una cantidad no divulgada.
+- Abusos de Sea Org: trabajo forzado documentado, trabajo infantil (Hubbard fundó el Cadet Org para niños), abortos forzados para los miembros de Sea Org para que pudieran seguir trabajando, y el "Rehabilitation Project Force" (RPF), un sistema de encarcelamiento, trabajo duro y reindoctrinación para los miembros de Sea Org considerados desobedientes.
+- La desconexión ha separado a miles de familias. Figuras públicas que dejaron la Cienciología y fueron desconectadas de sus familias incluyen a Leah Remini, Mike Rinder, Marty Rathbun y muchos otros, todos los cuales han documentado públicamente los patrones.
+- Amplia historial de litigios contra periodistas, ex miembros y críticos. La política de "Juego Limpio" en operación.
+- Las instalaciones de Narconon han sido vinculadas a múltiples muertes por negligencia médica y la "purificación" (sauna, megadosis de niacina, vitaminas).
+
+**Por qué está en esta lista:**
+
+- La Cienciología es funcionalmente una nueva religión que compró el estatus legal de religión (acuerdo con el IRS en 1993 después de décadas de guerra legal). Comercializa la autosuperación, publicita en lenguaje con inclinación cristiana ("una religión para el mundo moderno") y recluta personas alejándolas del cristianismo, el judaísmo y otras tradiciones.
+- Niega la deidad única de Cristo (Hubbard enseñó que Jesús era un thetan poderoso pero no Dios).
+- Niega la resurrección.
+- Niega el pecado en cualquier sentido bíblico; los problemas son causados por trauma alienígena antiguo, no por la rebelión humana contra un Dios santo.
+- Reemplaza la salvación por la cruz con la salvación por auditación pagada.
+- Su fruto (Operación Nieve Blanca, abusos de Sea Org, desconexión de familias, muertes bajo custodia, décadas de litigios contra críticos) da testimonio de su carácter.
+
+(Mateo 7:15-20): "Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces. Por sus frutos los conoceréis."
+(Gálatas 1:8-9): un evangelio diferente predicado por cualquiera es anatema. La Cienciología predica un evangelio diferente; debe ser señalada.
+
+Si encuentras reclutamiento de la Cienciología, probablemente llegará a través de uno de los grupos fachada. "Prueba de estrés", "prueba de personalidad", "curso de comunicación gratuito", "mundo libre de drogas" o ministerio voluntario en desastres son puntos de entrada comunes. El reconocimiento es la primera defensa.
+
+---
 ### Christadelphians
 
 **También conocido como:** Hermanos en Cristo (una denominación sin relación comparte este nombre; no confundir). La Hermandad (referencia propia de los miembros). Tomistas (por el fundador John Thomas, mayormente histórico). Estudiantes Bíblicos Christadelphianos. Ecclesia Christadelphiana (su término para una congregación local). Los Christadelphianos Bereanos (una de las principales ramas de la comunión). Los Christadelphianos Enmendados. Los Christadelphianos No Enmendados. Los Christadelphianos Dawn. Los Christadelphianos Centrales. Los Christadelphianos de los Caminos Antiguos. La división en subgrupos refleja divisiones internas sobre puntos doctrinales, pero todos comparten la cristología arriana central y la soteriología de obras más fe.
@@ -453,7 +791,7 @@ Los muertos no se comunican con los vivos. Lo que el espiritualismo contacta, cu
 
 ---
 
-### Pentecostalismo Unitario / Modalismo
+### Pentecostalismo / Modalismo
 
 **También conocido como:** Pentecostal Unitario. Pentecostal Apostólico. Fe Apostólica. Iglesia Pentecostal Unida Internacional (UPCI, el mayor cuerpo Unitario). Asambleas Pentecostales del Mundo (PAW, el cuerpo Unitario históricamente negro). Iglesia Bible Way. La Iglesia Apostólica. Apostólico Unitario. Solo Jesús. En el Nombre de Jesús. Pentecostalismo en el Nombre de Jesús. Sabelianismo (el nombre patrístico histórico, por Sabelio). Monarquianismo Modalista (el término técnico patrístico). Patripassianismo (una subvariante que enseña que el Padre sufrió en la cruz, ya que el Padre, el Hijo y el Espíritu son la misma persona). Modalistas (en general). La gente de "Hechos 2:38" (por el versículo que citan para el bautismo en el nombre de Jesús). Algunos cuerpos Unitarios más pequeños usan nombres como "True Jesus Church," "First Born Church of the Living God," "Way of the Cross Church of Christ" y varias designaciones "Apostólicas." Las denominaciones Pentecostales Trinitarias (Asambleas de Dios, Evangelio Cuadrangular, Iglesia de Dios Cleveland, Iglesia Pentecostal de Santidad) NO son Unitarias; solo los cuerpos mencionados arriba lo son.
 
