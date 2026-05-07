@@ -1631,10 +1631,18 @@ fun BookScreen(
         },
         navigationIcon = {
           IconButton(onClick = {
-            if (chapterTtsPlaying) { platformTtsStop(ctx); chapterTtsPlaying = false; chapterTtsStoryId = null; chapterTtsPaused = false }
-            onBack()
+            if (selectedBullets.isNotEmpty()) {
+              selectedBullets = emptySet()
+            } else {
+              if (chapterTtsPlaying) { platformTtsStop(ctx); chapterTtsPlaying = false; chapterTtsStoryId = null; chapterTtsPaused = false }
+              onBack()
+            }
           }) {
-            Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = stringResource(Res.string.back))
+            Icon(
+              if (selectedBullets.isNotEmpty()) Icons.Filled.Close
+              else Icons.AutoMirrored.Filled.ArrowBack,
+              contentDescription = stringResource(Res.string.back)
+            )
           }
         }
       )

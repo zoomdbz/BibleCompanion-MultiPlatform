@@ -954,7 +954,14 @@ object ScriptureRefs {
     while (true) {
       skip()
       when (s.getOrNull(i)) {
-        ',' -> { i++; skip(); if (!digits()) return i; verseSuffix() }
+        ',' -> {
+          val commaPos = i
+          i++; skip()
+          val digitStart = i
+          if (!digits()) return i
+          if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
+          verseSuffix()
+        }
         '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
           val saveDash = i
           i++; skip()
@@ -980,7 +987,13 @@ object ScriptureRefs {
     while (true) {
       skip()
       when (s.getOrNull(i)) {
-        ',' -> { i++; skip(); if (!digits()) return i }
+        ',' -> {
+          val commaPos = i
+          i++; skip()
+          val digitStart = i
+          if (!digits()) return i
+          if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
+        }
         '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
           val saveDash = i
           i++; skip()
