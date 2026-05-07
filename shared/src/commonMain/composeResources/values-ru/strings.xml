@@ -218,6 +218,7 @@
     <string name="import_data">Импорт</string>
     <string name="import_paste_hint">Вставьте JSON резервной копии сюда</string>
     <string name="import_confirm">Восстановить</string>
+    <string name="select_all">Выбрать все</string>
     <string name="cancel">Отмена</string>
     <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
     <string name="import_success">Успешно: данные восстановлены</string>

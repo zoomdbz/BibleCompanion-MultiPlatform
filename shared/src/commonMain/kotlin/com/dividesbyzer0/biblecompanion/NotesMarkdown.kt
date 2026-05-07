@@ -18,12 +18,14 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.foundation.text.selection.SelectionContainer
+import androidx.compose.runtime.key
 
 @Composable
 fun RenderNotesMarkdown(
   body: String,
   prefs: PrefsState,
-  ambientBook: String? = null
+  ambientBook: String? = null,
+  selectionResetKey: Int = 0
 ) {
   if (body.isBlank()) {
     Text("\u2014", style = MaterialTheme.typography.bodyMedium)
@@ -38,7 +40,7 @@ fun RenderNotesMarkdown(
     else -> false
   }
 
-  SelectionContainer {
+  key(selectionResetKey) { SelectionContainer {
     Column {
       var i = 0
       while (i < lines.size) {
@@ -194,7 +196,7 @@ fun RenderNotesMarkdown(
         i++
       }
     }
-  }
+  } }
 }
 
 internal fun mdInline(s: String): AnnotatedString = buildAnnotatedString {

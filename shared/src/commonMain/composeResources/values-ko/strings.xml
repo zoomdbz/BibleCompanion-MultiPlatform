@@ -218,6 +218,7 @@
     <string name="import_data">가져오기</string>
     <string name="import_paste_hint">백업 JSON을 여기에 붙여넣기</string>
     <string name="import_confirm">복원</string>
+    <string name="select_all">모두 선택</string>
     <string name="cancel">취소</string>
     <string name="copied_to_clipboard">클립보드에 복사됨</string>
     <string name="import_success">성공: 데이터 복원됨</string>

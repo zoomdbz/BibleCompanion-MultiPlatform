@@ -218,6 +218,7 @@
     <string name="import_data">استيراد</string>
     <string name="import_paste_hint">الصق نسخة JSON الاحتياطية هنا</string>
     <string name="import_confirm">استعادة</string>
+    <string name="select_all">تحديد الكل</string>
     <string name="cancel">إلغاء</string>
     <string name="copied_to_clipboard">تم النسخ إلى الحافظة</string>
     <string name="import_success">نجاح: تم استعادة البيانات</string>

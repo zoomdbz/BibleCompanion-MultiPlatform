@@ -218,6 +218,7 @@
     <string name="import_data">Importa</string>
     <string name="import_paste_hint">Incolla qui il JSON di backup</string>
     <string name="import_confirm">Ripristina</string>
+    <string name="select_all">Seleziona tutto</string>
     <string name="cancel">Annulla</string>
     <string name="copied_to_clipboard">Copiato negli appunti</string>
     <string name="import_success">Successo: dati ripristinati</string>

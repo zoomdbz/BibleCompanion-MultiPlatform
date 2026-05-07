@@ -34,6 +34,7 @@ import androidx.compose.foundation.gestures.scrollBy
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.foundation.gestures.waitForUpOrCancellation
+import androidx.compose.ui.input.pointer.PointerEventPass
 import androidx.compose.ui.input.pointer.PointerEventTimeoutCancellationException
 import androidx.compose.ui.input.pointer.pointerInput
 import kotlinx.coroutines.Dispatchers
@@ -103,6 +104,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.SegmentedButton
 import androidx.compose.material3.SegmentedButtonDefaults
 import androidx.compose.material3.SingleChoiceSegmentedButtonRow
+import androidx.compose.material3.SmallFloatingActionButton
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
@@ -122,6 +124,7 @@ import androidx.compose.runtime.toMutableStateList
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.key
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
@@ -4434,6 +4437,13 @@ private fun GenericNotesScreen(
     if (firstVisible < sections.size) sections[firstVisible].first ?: titleText else titleText
   } else titleText
 
+  var selectionResetKey by remember { mutableStateOf(0) }
+  var showDismissButton by remember { mutableStateOf(false) }
+
+  LaunchedEffect(selectionResetKey) {
+    showDismissButton = false
+  }
+
   Scaffold(
     topBar = {
       CenterAlignedTopAppBar(
@@ -4494,6 +4504,21 @@ private fun GenericNotesScreen(
       )
     }
   ) { pad ->
+    Box(Modifier.fillMaxSize().pointerInput(Unit) {
+      awaitEachGesture {
+        val down = awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+        try {
+          withTimeout(viewConfiguration.longPressTimeoutMillis) {
+            while (true) {
+              val event = awaitPointerEvent(PointerEventPass.Initial)
+              if (event.changes.all { !it.pressed }) break
+            }
+          }
+        } catch (_: PointerEventTimeoutCancellationException) {
+          showDismissButton = true
+        }
+      }
+    }) {
     if (collapsible && sectionHeaders.size >= 2) {
       // Collapsible sections mode: each headed section is expandable
       LazyColumn(
@@ -4573,19 +4598,19 @@ private fun GenericNotesScreen(
                               }
                               AnimatedVisibility(visible = subExpanded) {
                                 Column(Modifier.padding(top = 6.dp)) {
-                                  RenderNotesMarkdown(body = subBody, prefs = prefs)
+                                  RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
                                 }
                               }
                             }
                           }
                         } else if (subBody.isNotBlank()) {
-                          RenderNotesMarkdown(body = subBody, prefs = prefs)
+                          RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
                         }
                       }
                     }
                   } else {
                     Column(Modifier.padding(top = 8.dp)) {
-                      RenderNotesMarkdown(body = sectionBody, prefs = prefs)
+                      RenderNotesMarkdown(body = sectionBody, prefs = prefs, selectionResetKey = selectionResetKey)
                     }
                   }
                 }
@@ -4594,7 +4619,7 @@ private fun GenericNotesScreen(
           } else {
             // Preamble section (no header): render directly
             if (sectionBody.isNotBlank()) {
-              RenderNotesMarkdown(body = sectionBody, prefs = prefs)
+              RenderNotesMarkdown(body = sectionBody, prefs = prefs, selectionResetKey = selectionResetKey)
             }
           }
         }
@@ -4604,7 +4629,7 @@ private fun GenericNotesScreen(
         Modifier.padding(pad).padding(16.dp).verticalScroll(rememberScrollState()),
         verticalArrangement = Arrangement.spacedBy(12.dp)
       ) {
-        RenderNotesMarkdown(body = body, prefs = prefs)
+        RenderNotesMarkdown(body = body, prefs = prefs, selectionResetKey = selectionResetKey)
       }
     } else {
       LazyColumn(
@@ -4626,11 +4651,24 @@ private fun GenericNotesScreen(
               )
               Spacer(Modifier.height(8.dp))
             }
-            RenderNotesMarkdown(body = sectionBody, prefs = prefs)
+            RenderNotesMarkdown(body = sectionBody, prefs = prefs, selectionResetKey = selectionResetKey)
           }
         }
       }
     }
+    AnimatedVisibility(
+      visible = showDismissButton,
+      modifier = Modifier.align(Alignment.BottomCenter).padding(bottom = 24.dp)
+    ) {
+      SmallFloatingActionButton(
+        onClick = { selectionResetKey++ },
+        containerColor = MaterialTheme.colorScheme.surfaceVariant,
+        contentColor = MaterialTheme.colorScheme.onSurfaceVariant
+      ) {
+        Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cancel), modifier = Modifier.size(18.dp))
+      }
+    }
+    } // Box
   }
 }
 

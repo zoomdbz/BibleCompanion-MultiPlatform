@@ -217,6 +217,7 @@
     <string name="import_data">Importieren</string>
     <string name="import_paste_hint">Backup-JSON hier einfügen</string>
     <string name="import_confirm">Wiederherstellen</string>
+    <string name="select_all">Alles auswählen</string>
     <string name="cancel">Abbrechen</string>
     <string name="copied_to_clipboard">In die Zwischenablage kopiert</string>
     <string name="import_success">Erfolg: Daten wiederhergestellt</string>
