@@ -7,7 +7,7 @@ object ChapterLocator {
     )
 
     fun build(book: Book): Index {
-        val targetBookKey = key(book.title)
+        val targetBookKey = key(book.id)
         val claim = linkedMapOf<Int, String>()
 
         for (story in book.stories) {

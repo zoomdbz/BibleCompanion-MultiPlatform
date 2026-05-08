@@ -1312,7 +1312,12 @@ fun BookScreen(
   val nextBook = remember(col, bookId, prefs.appLanguage) {
     val books = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage)
     val idx = books.indexOfFirst { it.first == bookId }
-    if (idx >= 0 && idx + 1 < books.size) books[idx + 1] else null
+    if (idx >= 0 && idx + 1 < books.size) {
+      Triple(col, books[idx + 1].first, books[idx + 1].second)
+    } else if (col == "old_testament") {
+      val nt = ContentRepo.listBooksLocalized(ctx, "new_testament", prefs.appLanguage)
+      if (nt.isNotEmpty()) Triple("new_testament", nt[0].first, nt[0].second) else null
+    } else null
   }
 
   // Verse selection state: Set of (storyId, bulletIndex)
@@ -1431,7 +1436,7 @@ fun BookScreen(
           chapterTtsPlaying = false
           chapterTtsStoryId = null
           chapterTtsPaused = false
-          onNavigateToBook(col, nextBook.first, true)
+          onNavigateToBook(nextBook.first, nextBook.second, true)
         } else {
           chapterTtsPlaying = false
           chapterTtsStoryId = null
@@ -1970,10 +1975,10 @@ fun BookScreen(
               if (nextBook != null && onNavigateToBook != null) {
                 item(key = "next_book") {
                   FilledTonalButton(
-                    onClick = { onNavigateToBook(col, nextBook.first, false) },
+                    onClick = { onNavigateToBook(nextBook.first, nextBook.second, false) },
                     modifier = Modifier.fillMaxWidth().padding(top = 8.dp)
                   ) {
-                    Text(stringResource(Res.string.continue_to_book, nextBook.second))
+                    Text(stringResource(Res.string.continue_to_book, nextBook.third))
                   }
                 }
               }
@@ -4506,7 +4511,7 @@ private fun GenericNotesScreen(
   ) { pad ->
     Box(Modifier.fillMaxSize().pointerInput(Unit) {
       awaitEachGesture {
-        val down = awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+        awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
         try {
           withTimeout(viewConfiguration.longPressTimeoutMillis) {
             while (true) {
@@ -4514,6 +4519,7 @@ private fun GenericNotesScreen(
               if (event.changes.all { !it.pressed }) break
             }
           }
+          showDismissButton = false
         } catch (_: PointerEventTimeoutCancellationException) {
           showDismissButton = true
         }
