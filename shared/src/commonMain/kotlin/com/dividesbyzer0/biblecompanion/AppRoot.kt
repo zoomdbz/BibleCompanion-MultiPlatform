@@ -4519,7 +4519,6 @@ private fun GenericNotesScreen(
               if (event.changes.all { !it.pressed }) break
             }
           }
-          showDismissButton = false
         } catch (_: PointerEventTimeoutCancellationException) {
           showDismissButton = true
         }
