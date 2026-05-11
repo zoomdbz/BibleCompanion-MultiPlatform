@@ -100,10 +100,15 @@ actual fun platformScriptFromTag(tag: String): String = Locale.forLanguageTag(ta
 actual fun platformCountryFromTag(tag: String): String = Locale.forLanguageTag(tag).country.uppercase()
 
 actual fun platformSetAppLocale(tag: String) {
-    val locales = if (tag == "system")
+    val resolved = when (tag) {
+        "zh-Hans" -> "zh-CN"
+        "zh-Hant" -> "zh-TW"
+        else -> tag
+    }
+    val locales = if (resolved == "system")
         LocaleListCompat.getEmptyLocaleList()
     else
-        LocaleListCompat.forLanguageTags(tag)
+        LocaleListCompat.forLanguageTags(resolved)
     AppCompatDelegate.setApplicationLocales(locales)
 }
 

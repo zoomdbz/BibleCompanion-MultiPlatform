@@ -199,10 +199,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
   val prefs by repo.flow.collectAsState(initialPrefs)
 
   LaunchedEffect(prefs.appLanguage) {
-    // Bulletproof: any asset-load throw here would surface up the Compose
-    // runtime and crash the app on iOS, where we can't catch in Swift.
-    // Off-main: book-alias loading reads many JSON files; previously caused
-    // first-frame jank on launch.
+    platformSetAppLocale(prefs.appLanguage)
     withContext(Dispatchers.Default) {
       runCatching { ScriptureRefs.primeBooks(ctx, prefs.appLanguage) }
     }
