@@ -16,11 +16,22 @@ class MainActivity : AppCompatActivity() {
 
         val repo = PrefsRepo(this)
         val init = repo.initialSnapshot()
-        val locales = if (init.appLanguage == "system")
-            LocaleListCompat.getEmptyLocaleList()
-        else
-            LocaleListCompat.forLanguageTags(init.appLanguage)
-        AppCompatDelegate.setApplicationLocales(locales)
+        val resolved = when (init.appLanguage) {
+            "system" -> null
+            "zh-Hans" -> "zh-CN"
+            "zh-Hant" -> "zh-TW"
+            else -> init.appLanguage
+        }
+        val current = AppCompatDelegate.getApplicationLocales()
+        val currentTags = if (current.isEmpty) null else current.toLanguageTags()
+        if (resolved != currentTags) {
+            val target = if (resolved == null)
+                LocaleListCompat.getEmptyLocaleList()
+            else
+                LocaleListCompat.forLanguageTags(resolved)
+            AppCompatDelegate.setApplicationLocales(target)
+            return
+        }
 
         val shortcutAction = when (intent?.action) {
             "com.dividesbyzer0.biblecompanion.SEARCH" -> "search"

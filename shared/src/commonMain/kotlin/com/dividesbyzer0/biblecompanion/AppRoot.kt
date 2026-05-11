@@ -199,7 +199,6 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
   val prefs by repo.flow.collectAsState(initialPrefs)
 
   LaunchedEffect(prefs.appLanguage) {
-    platformSetAppLocale(prefs.appLanguage)
     withContext(Dispatchers.Default) {
       runCatching { ScriptureRefs.primeBooks(ctx, prefs.appLanguage) }
     }
