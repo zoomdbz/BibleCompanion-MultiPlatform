@@ -105,11 +105,13 @@ actual fun platformSetAppLocale(tag: String) {
         "zh-Hant" -> "zh-TW"
         else -> tag
     }
-    val locales = if (resolved == "system")
+    val target = if (resolved == "system")
         LocaleListCompat.getEmptyLocaleList()
     else
         LocaleListCompat.forLanguageTags(resolved)
-    AppCompatDelegate.setApplicationLocales(locales)
+    if (AppCompatDelegate.getApplicationLocales() != target) {
+        AppCompatDelegate.setApplicationLocales(target)
+    }
 }
 
 actual fun platformRecreateApp(context: PlatformContext) {
