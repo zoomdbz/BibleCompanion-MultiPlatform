@@ -5,7 +5,6 @@ package com.dividesbyzer0.biblecompanion.platform
 import kotlinx.cinterop.ObjCSignatureOverride
 import kotlinx.cinterop.addressOf
 import kotlinx.cinterop.convert
-import kotlinx.cinterop.refTo
 import kotlinx.cinterop.usePinned
 import platform.AVFAudio.AVSpeechBoundary
 import platform.AVFAudio.AVSpeechSynthesisVoice
@@ -95,8 +94,15 @@ actual fun readAssetBytes(context: PlatformContext, path: String): ByteArray? {
     }
     return resourcePath?.let {
         NSData.dataWithContentsOfFile(it)?.let { data ->
-            ByteArray(data.length.toInt()).also { bytes ->
-                data.getBytes(bytes.refTo(0), data.length)
+            val len = data.length.toInt()
+            ByteArray(len).also { bytes ->
+                // getBytes wants CPointer<out CPointed>?, not CValuesRef.
+                // Pin the ByteArray so its addressOf(0) returns a stable raw
+                // pointer for the NSData copy. The previous refTo(0) form
+                // returns CValuesRef and doesn't match either overload.
+                bytes.usePinned { pinned ->
+                    data.getBytes(pinned.addressOf(0), data.length)
+                }
             }
         }
     }
