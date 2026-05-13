@@ -1,4 +1,9 @@
-# Binary assets (too large for git; copy from embedding/output/)
-src/main/assets/embedding/*.bin
-src/main/assets/embedding/*.onnx
-src/main/assets/embedding/*.json
+# Embedding binaries now committed to the repo:
+#   *.bin and *.json — committed normally (each <15 MB)
+#   *.onnx           — tracked via Git LFS (see ../.gitattributes); the
+#                      multilingual-e5-small int8 export is 113 MB, over
+#                      GitHub's 100 MB per-file non-LFS limit.
+# Regen workflow: regenerate on Windows host with
+#   python parse_corpus.py <langs> && python generate_embeddings.py <langs>
+# then copy embedding/output/*.{bin,json} (and any updated *.onnx) here and
+# commit. LFS-tracked files push to the LFS server automatically.
