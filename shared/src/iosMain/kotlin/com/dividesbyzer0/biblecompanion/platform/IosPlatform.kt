@@ -5,17 +5,19 @@ package com.dividesbyzer0.biblecompanion.platform
 import kotlinx.cinterop.ObjCSignatureOverride
 import kotlinx.cinterop.addressOf
 import kotlinx.cinterop.convert
+import kotlinx.cinterop.refTo
 import kotlinx.cinterop.usePinned
 import platform.AVFAudio.AVSpeechBoundary
 import platform.AVFAudio.AVSpeechSynthesisVoice
 import platform.AVFAudio.AVSpeechSynthesizer
 import platform.AVFAudio.AVSpeechSynthesizerDelegateProtocol
 import platform.AVFAudio.AVSpeechUtterance
-import platform.Foundation.NSArray
 import platform.Foundation.NSBundle
-import platform.Foundation.arrayWithObject
 import platform.Foundation.NSData
 import platform.Foundation.NSDate
+import platform.Foundation.dataWithContentsOfFile
+import platform.Foundation.getBytes
+import platform.Foundation.length
 import platform.Foundation.NSDateFormatter
 import platform.Foundation.NSDocumentDirectory
 import platform.Foundation.NSFileManager
@@ -219,11 +221,13 @@ actual fun platformSetAppLocale(tag: String) {
             "zh-hant" -> "zh-Hant"
             else -> tag
         }
-        // AppleLanguages is canonically an NSArray<NSString>. Use explicit
-        // NSArray construction to avoid relying on Kotlin/Native auto-bridging
-        // of Kotlin List<String> to NSArray, which is version-dependent.
-        val arr: NSArray = NSArray.arrayWithObject(canonical)
-        defaults.setObject(arr, forKey = "AppleLanguages")
+        // AppleLanguages is canonically an NSArray<NSString>. Kotlin/Native
+        // bridges Kotlin's List<String> to NSArray<NSString> implicitly when
+        // crossing the ObjC boundary — NSUserDefaults.setObject takes id (Any?),
+        // and the runtime conversion handles the rest. The previous attempt to
+        // use NSArray.arrayWithObject(...) failed to compile because that class
+        // method returns List<*> in the K/N bindings, not NSArray.
+        defaults.setObject(listOf(canonical), forKey = "AppleLanguages")
     }
     defaults.synchronize()
 }
