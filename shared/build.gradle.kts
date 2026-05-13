@@ -47,7 +47,7 @@ kotlin {
       implementation("androidx.core:core-ktx:1.13.1")
       implementation("androidx.appcompat:appcompat:1.7.0")
       implementation("androidx.datastore:datastore-preferences:1.1.1")
-      implementation("com.microsoft.onnxruntime:onnxruntime-android:1.19.0")
+      implementation("com.microsoft.onnxruntime:onnxruntime-android:1.26.0")
       // Play Asset Delivery — required so the app can locate the
       // embedding_assets fast-follow pack (model + metadata) on disk
       // after Play finishes downloading it.
@@ -70,7 +70,7 @@ android {
   compileSdk = 35
 
   defaultConfig {
-    minSdk = 23
+    minSdk = 24
   }
 
   compileOptions {

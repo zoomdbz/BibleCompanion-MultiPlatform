@@ -50,7 +50,7 @@ android {
 
   defaultConfig {
     applicationId = "com.dividesbyzer0.biblecompanion"
-    minSdk = 23
+    minSdk = 24
     targetSdk = 35
     versionCode = 38
     versionName = "3.7.0"
