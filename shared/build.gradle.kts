@@ -48,6 +48,10 @@ kotlin {
       implementation("androidx.appcompat:appcompat:1.7.0")
       implementation("androidx.datastore:datastore-preferences:1.1.1")
       implementation("com.microsoft.onnxruntime:onnxruntime-android:1.19.0")
+      // Play Asset Delivery — required so the app can locate the
+      // embedding_assets fast-follow pack (model + metadata) on disk
+      // after Play finishes downloading it.
+      implementation("com.google.android.play:asset-delivery:2.2.2")
     }
 
     iosMain.dependencies {

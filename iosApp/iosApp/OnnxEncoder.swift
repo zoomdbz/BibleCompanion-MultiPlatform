@@ -1,6 +1,9 @@
 import Foundation
 import shared
-import onnxruntime
+// Microsoft's onnxruntime-swift-package-manager exposes its Obj-C bindings
+// as the `OnnxRuntimeBindings` module. `onnxruntime` is the binary framework
+// name (linked at archive time) but is not an importable Swift module.
+import OnnxRuntimeBindings
 
 /// Implements IosQueryEncoder (Kotlin protocol) using ONNX Runtime ObjC.
 /// Session creation is deferred until the first encode() call so launch

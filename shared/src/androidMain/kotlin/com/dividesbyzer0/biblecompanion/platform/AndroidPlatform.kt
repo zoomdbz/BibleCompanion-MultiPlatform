@@ -12,6 +12,7 @@ import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.os.LocaleListCompat
+import com.google.android.play.assetpacks.AssetPackManagerFactory
 import java.io.File
 import java.net.HttpURLConnection
 import java.net.URL
@@ -23,15 +24,50 @@ import java.util.Locale
 
 actual typealias PlatformContext = Context
 
+// Name of the fast-follow asset pack defined in embedding-assets/build.gradle.kts.
+// Files under the "embedding/" prefix live in this pack rather than in the
+// base APK's assets, so asset reads for those paths must consult
+// AssetPackManager and read from the on-disk pack location.
+private const val EMBEDDING_PACK_NAME = "embedding_assets"
+private const val EMBEDDING_PATH_PREFIX = "embedding/"
+
+/**
+ * Resolve a relative asset path to a File on disk inside the fast-follow
+ * pack, or null if the pack isn't downloaded yet (or the file is missing).
+ * Returns null for paths that don't live in the asset pack so callers can
+ * fall through to the regular context.assets API.
+ */
+private fun assetPackFile(context: Context, relativePath: String): File? {
+    if (!relativePath.startsWith(EMBEDDING_PATH_PREFIX)) return null
+    return runCatching {
+        val mgr = AssetPackManagerFactory.getInstance(context)
+        val location = mgr.getPackLocation(EMBEDDING_PACK_NAME) ?: return null
+        val assetsPath = location.assetsPath() ?: return null
+        val f = File(assetsPath, relativePath)
+        if (f.exists()) f else null
+    }.getOrNull()
+}
+
 actual fun readAssetText(context: PlatformContext, path: String): String? = runCatching {
-    context.assets.open(path).bufferedReader().use { it.readText() }
+    val packFile = assetPackFile(context, path)
+    if (packFile != null) {
+        packFile.readText()
+    } else {
+        context.assets.open(path).bufferedReader().use { it.readText() }
+    }
 }.getOrNull()
 
 actual fun readAssetBytes(context: PlatformContext, path: String): ByteArray? = runCatching {
-    context.assets.open(path).use { it.readBytes() }
+    val packFile = assetPackFile(context, path)
+    if (packFile != null) {
+        packFile.readBytes()
+    } else {
+        context.assets.open(path).use { it.readBytes() }
+    }
 }.getOrNull()
 
 actual fun assetExists(context: PlatformContext, path: String): Boolean = runCatching {
+    if (assetPackFile(context, path) != null) return@runCatching true
     context.assets.open(path).use { }
     true
 }.getOrDefault(false)
@@ -387,22 +423,43 @@ actual fun platformOnnxInit(context: PlatformContext): Boolean {
     synchronized(ortInitLock) {
         if (ortSession != null) return true
         return try {
-            val modelFile = File(File(context.filesDir, "embedding"), "model_quantized.onnx")
-            if (!modelFile.exists()) {
-                modelFile.parentFile?.mkdirs()
-                println("ONNX: extracting model from assets...")
-                context.assets.open("embedding/model_quantized.onnx").use { input ->
-                    modelFile.outputStream().use { output ->
-                        input.copyTo(output, bufferSize = 65536)
+            // The 113 MB ONNX model ships in the fast-follow embedding_assets
+            // pack. If the pack has finished downloading, load the model
+            // directly from its on-disk location (no copy needed). Otherwise
+            // fall back to the legacy assets path (for backwards compat with
+            // any install-time delivery in dev/debug builds). Return false
+            // when neither resolves so the search path skips semantic mode
+            // gracefully until the pack arrives.
+            val packModel = assetPackFile(context, "embedding/model_quantized.onnx")
+            val modelPath: String = when {
+                packModel != null -> packModel.absolutePath
+                else -> {
+                    val modelFile = File(File(context.filesDir, "embedding"), "model_quantized.onnx")
+                    if (!modelFile.exists()) {
+                        modelFile.parentFile?.mkdirs()
+                        println("ONNX: extracting model from assets...")
+                        val opened = runCatching {
+                            context.assets.open("embedding/model_quantized.onnx")
+                        }.getOrNull()
+                        if (opened == null) {
+                            println("ONNX: model not available yet (pack still downloading?)")
+                            return false
+                        }
+                        opened.use { input ->
+                            modelFile.outputStream().use { output ->
+                                input.copyTo(output, bufferSize = 65536)
+                            }
+                        }
+                        println("ONNX: model extracted (${modelFile.length() / 1024 / 1024} MB)")
                     }
+                    modelFile.absolutePath
                 }
-                println("ONNX: model extracted (${modelFile.length() / 1024 / 1024} MB)")
             }
             val env = ai.onnxruntime.OrtEnvironment.getEnvironment()
             ortEnv = env
             val opts = ai.onnxruntime.OrtSession.SessionOptions()
             opts.setIntraOpNumThreads(2)
-            ortSession = env.createSession(modelFile.absolutePath, opts)
+            ortSession = env.createSession(modelPath, opts)
             println("ONNX: session created successfully")
             true
         } catch (e: Throwable) {
