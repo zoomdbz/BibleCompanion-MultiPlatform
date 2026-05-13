@@ -12,7 +12,7 @@ import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.os.LocaleListCompat
-import com.google.android.play.assetpacks.AssetPackManagerFactory
+import com.google.android.play.core.assetpacks.AssetPackManagerFactory
 import java.io.File
 import java.net.HttpURLConnection
 import java.net.URL

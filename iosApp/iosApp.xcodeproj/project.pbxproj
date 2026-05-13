@@ -122,6 +122,7 @@
 				E7B2C3D400000040 /* Sources */,
 				E7B2C3D400000041 /* Frameworks */,
 				E7B2C3D400000042 /* Resources */,
+				E7B2C3D400000044 /* Fix onnxruntime MinimumOSVersion */,
 			);
 			buildRules = (
 			);
@@ -265,6 +266,25 @@
 			shellScript = "cd \"$SRCROOT/..\"\n./gradlew :shared:embedAndSignAppleFrameworkForXcode\n";
 			showEnvVarsInLog = 0;
 		};
+		E7B2C3D400000044 /* Fix onnxruntime MinimumOSVersion */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Fix onnxruntime MinimumOSVersion";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\nFRAMEWORKS_PATH=\"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}\"\nfor fw in onnxruntime onnxruntime_extensions; do\n    BUNDLE=\"${FRAMEWORKS_PATH}/${fw}.framework\"\n    PLIST=\"${BUNDLE}/Info.plist\"\n    if [ -f \"$PLIST\" ]; then\n        echo \"Patching MinimumOSVersion in $PLIST\"\n        /usr/libexec/PlistBuddy -c \"Delete :MinimumOSVersion\" \"$PLIST\" 2>/dev/null || true\n        /usr/libexec/PlistBuddy -c \"Add :MinimumOSVersion string $IPHONEOS_DEPLOYMENT_TARGET\" \"$PLIST\"\n        if [ -n \"${EXPANDED_CODE_SIGN_IDENTITY:-}\" ]; then\n            echo \"Re-signing $BUNDLE with $EXPANDED_CODE_SIGN_IDENTITY\"\n            /usr/bin/codesign --force --sign \"$EXPANDED_CODE_SIGN_IDENTITY\" \"$BUNDLE\"\n        fi\n    fi\ndone\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -286,7 +306,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 37;
+				CURRENT_PROJECT_VERSION = 38;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -320,7 +340,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CODE_SIGN_IDENTITY = "Apple Distribution";
 				PROVISIONING_PROFILE_SPECIFIER = "BibleCompanion AppStore";
-				CURRENT_PROJECT_VERSION = 37;
+				CURRENT_PROJECT_VERSION = 38;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
