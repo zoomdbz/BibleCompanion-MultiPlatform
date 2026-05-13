@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.core.os.LocaleListCompat
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
+import com.dividesbyzer0.biblecompanion.platform.normalizeLocaleTagForCompare
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -24,7 +25,9 @@ class MainActivity : AppCompatActivity() {
         }
         val current = AppCompatDelegate.getApplicationLocales()
         val currentTags = if (current.isEmpty) null else current.toLanguageTags()
-        if (resolved != currentTags) {
+        // Compare normalized tags so a stored "en-US" doesn't force a relaunch
+        // when our pref holds "en", and vice versa.
+        if (normalizeLocaleTagForCompare(resolved) != normalizeLocaleTagForCompare(currentTags)) {
             val target = if (resolved == null)
                 LocaleListCompat.getEmptyLocaleList()
             else

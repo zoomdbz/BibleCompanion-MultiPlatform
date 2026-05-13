@@ -161,6 +161,7 @@ import com.dividesbyzer0.biblecompanion.platform.platformShareText
 import com.dividesbyzer0.biblecompanion.platform.isApplePlatform
 import com.dividesbyzer0.biblecompanion.platform.platformOnnxInit
 import com.dividesbyzer0.biblecompanion.platform.platformOnnxIsReady
+import com.dividesbyzer0.biblecompanion.platform.currentTimeMillis
 import com.dividesbyzer0.biblecompanion.platform.platformCurrentDate
 import com.dividesbyzer0.biblecompanion.platform.platformTtsInit
 import com.dividesbyzer0.biblecompanion.platform.platformTtsSpeak
@@ -688,14 +689,62 @@ fun HomeScreen(
         )
       }
     ) { pad ->
-      Column(
+      // State hoisted above LazyColumn so it isn't recreated when items
+      // scroll in/out of viewport. Identical lifetime to the previous
+      // Column-wrapped declarations.
+      val votd = remember(prefs.appLanguage) {
+        VerseOfTheDay.todayVerse(ctx, prefs.appLanguage)
+      }
+      val votdLocalRef = remember(votd.ref) { ScriptureRefs.localizeRef(votd.ref) }
+      var ttsPlaying by remember { mutableStateOf(false) }
+      DisposableEffect(Unit) {
+        platformTtsInit(ctx)
+        platformTtsSetOnDone { ttsPlaying = false }
+        onDispose { platformTtsSetOnDone(null) }
+      }
+      LaunchedEffect(ttsPlaying) {
+        if (ttsPlaying) {
+          // Wait for TTS engine to start speaking (init can be slow)
+          var started = false
+          for (i in 0..39) {
+            delay(250)
+            if (!ttsPlaying) return@LaunchedEffect
+            if (platformTtsIsSpeaking(ctx)) { started = true; break }
+          }
+          if (started) {
+            while (platformTtsIsSpeaking(ctx)) { delay(500) }
+          }
+          ttsPlaying = false
+        }
+      }
+      // VOTD dismissal is persisted per local calendar day. We compare the
+      // saved YYYY-MM-DD to today's local date; at midnight the card reappears
+      // naturally without any special scheduling. Matches YouVersion/M3 banner
+      // convention (see project research notes).
+      val todayDate = remember(prefs.appLanguage) {
+        val (y, m, d) = platformCurrentDate()
+        val mm = m.toString().padStart(2, '0')
+        val dd = d.toString().padStart(2, '0')
+        "$y-$mm-$dd"
+      }
+      val votdDismissed = prefs.votdDismissedDate == todayDate
+      val lastCol = prefs.lastReadCollection
+      val lastBook = prefs.lastReadBookId
+      val bookmarks by repo.bookmarksFlow.collectAsState(initial = emptyList())
+      val savedVerses by repo.savedVersesFlow.collectAsState(initial = emptyList())
+      val hasExtras = prefs.showPseudepigrapha || prefs.showDeutero || prefs.showApoc
+
+      // LazyColumn defers off-screen item composition. The Study & Reference
+      // section retains its existing expand/collapse + pin behavior — only
+      // the outer scroll container changes.
+      LazyColumn(
         Modifier
           .padding(pad)
           .fillMaxSize()
-          .verticalScroll(rememberScrollState())
           .padding(16.dp),
         verticalArrangement = Arrangement.spacedBy(8.dp)
       ) {
+        item("search") {
         // Search
         OutlinedTextField(
           value = query,
@@ -707,6 +756,16 @@ fun HomeScreen(
               searchInFlight = true
               val gen = ++searchGen
               searchJob = scope.launch {
+                // Per-query timing breakdown for logcat. Codex review asked
+                // for observability instead of more blind tuning.
+                val tStart = currentTimeMillis()
+                var kwMs = 0L
+                var onnxMs = 0L
+                var encodeMs = 0L
+                var mergeMs = 0L
+                var cacheHit = false
+                var hadSemantic = false
+                var isRefFlag = false
                 try {
                   // Show keyword results quickly after a short debounce, then
                   // hold longer before doing the expensive semantic encode.
@@ -722,9 +781,11 @@ fun HomeScreen(
                     }
                     indexReady = StorySearch.isReady(prefs.appLanguage)
                   }
+                  val tKw0 = currentTimeMillis()
                   val kwHits = withContext(Dispatchers.Default) {
                     StorySearch.search(q)
                   }
+                  kwMs = currentTimeMillis() - tKw0
                   if (gen == searchGen) results = kwHits
 
                   // Gate semantic search: requires AI enabled, idle pause,
@@ -736,15 +797,18 @@ fun HomeScreen(
                   // Strong keyword hits without an explicit reference still
                   // get the semantic merge so related-passage discovery works.
                   val tooShort = q.trim().length < 3
-                  val isRef = runCatching { StorySearch.isExplicitReference(q) }.getOrDefault(false)
-                  val skipSemantic = !prefs.aiSearch || tooShort || isRef
+                  isRefFlag = runCatching { StorySearch.isExplicitReference(q) }.getOrDefault(false)
+                  val skipSemantic = !prefs.aiSearch || tooShort || isRefFlag
                   if (!skipSemantic) {
+                    hadSemantic = true
                     // Idle gate: wait additional time after keyword shows.
                     // If user types again, gen advances and we exit early.
                     delay(450)
                     if (gen != searchGen) return@launch
                     if (!platformOnnxIsReady()) {
+                      val tOnnx0 = currentTimeMillis()
                       withContext(Dispatchers.Default) { runCatching { platformOnnxInit(ctx) } }
+                      onnxMs = currentTimeMillis() - tOnnx0
                     }
                     if (gen != searchGen) return@launch
                     if (!EmbeddingSearch.isReady(embLang)) {
@@ -753,18 +817,38 @@ fun HomeScreen(
                     if (gen == searchGen && EmbeddingSearch.isReady(embLang)) {
                       val semQuery = if (embLang == "en") StorySearch.correctQuery(q) else q
                       val cached = SemanticCache.get(embLang, semQuery)
-                      val semHits = if (cached != null) cached else {
+                      val semHits = if (cached != null) {
+                        cacheHit = true
+                        cached
+                      } else {
+                        val tEnc0 = currentTimeMillis()
                         val r = withContext(Dispatchers.Default) {
                           runCatching { EmbeddingSearch.encodeAndSearch(semQuery, embLang) }.getOrNull()
                         }
+                        encodeMs = currentTimeMillis() - tEnc0
                         if (r != null) SemanticCache.put(embLang, semQuery, r)
                         r
                       }
-                      if (gen == searchGen) results = EmbeddingSearch.merge(kwHits, semHits)
+                      if (gen == searchGen) {
+                        val tMerge0 = currentTimeMillis()
+                        results = EmbeddingSearch.merge(kwHits, semHits)
+                        mergeMs = currentTimeMillis() - tMerge0
+                      }
                     }
                   }
                 } finally {
-                  if (gen == searchGen) searchInFlight = false
+                  if (gen == searchGen) {
+                    searchInFlight = false
+                    val totalMs = currentTimeMillis() - tStart
+                    val qSafe = q.take(60).replace('"', '\'')
+                    println(
+                      "SEARCH q=\"$qSafe\" lang=$embLang ai=${prefs.aiSearch} " +
+                      "ref=$isRefFlag sem=$hadSemantic kw_ms=$kwMs " +
+                      "onnx_ms=$onnxMs enc_ms=$encodeMs merge_ms=$mergeMs " +
+                      "total_ms=$totalMs cache=${if (cacheHit) "hit" else "miss"} " +
+                      "results=${results.size}"
+                    )
+                  }
                 }
               }
             } else {
@@ -794,9 +878,11 @@ fun HomeScreen(
             }
           }
         )
+        }
 
         // Search results with highlighted keywords
         if (showSheet && results.isEmpty()) {
+          item("search-empty") {
           Surface(tonalElevation = 3.dp, shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
             if (searchInFlight || !indexReady) {
               Row(
@@ -824,8 +910,10 @@ fun HomeScreen(
               )
             }
           }
+          }
         }
         if (showSheet && results.isNotEmpty()) {
+          item("search-results") {
           Surface(tonalElevation = 3.dp, shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
             Column(Modifier.padding(8.dp)) {
               results.forEach { hit ->
@@ -865,46 +953,12 @@ fun HomeScreen(
               }
             }
           }
-        }
-
-        // Verse of the Day — keyed on language so switching UI language refreshes
-        val votd = remember(prefs.appLanguage) {
-          VerseOfTheDay.todayVerse(ctx, prefs.appLanguage)
-        }
-        val votdLocalRef = remember(votd.ref) { ScriptureRefs.localizeRef(votd.ref) }
-        var ttsPlaying by remember { mutableStateOf(false) }
-        DisposableEffect(Unit) {
-          platformTtsInit(ctx)
-          platformTtsSetOnDone { ttsPlaying = false }
-          onDispose { platformTtsSetOnDone(null) }
-        }
-        LaunchedEffect(ttsPlaying) {
-          if (ttsPlaying) {
-            // Wait for TTS engine to start speaking (init can be slow)
-            var started = false
-            for (i in 0..39) {
-              delay(250)
-              if (!ttsPlaying) return@LaunchedEffect
-              if (platformTtsIsSpeaking(ctx)) { started = true; break }
-            }
-            if (started) {
-              while (platformTtsIsSpeaking(ctx)) { delay(500) }
-            }
-            ttsPlaying = false
           }
         }
-        // VOTD dismissal is persisted per local calendar day. We compare the
-        // saved YYYY-MM-DD to today's local date; at midnight the card reappears
-        // naturally without any special scheduling. Matches YouVersion/M3 banner
-        // convention (see project research notes).
-        val todayDate = remember(prefs.appLanguage) {
-          val (y, m, d) = platformCurrentDate()
-          val mm = m.toString().padStart(2, '0')
-          val dd = d.toString().padStart(2, '0')
-          "$y-$mm-$dd"
-        }
-        val votdDismissed = prefs.votdDismissedDate == todayDate
+
+        // Verse of the Day — state hoisted above LazyColumn (see top of body)
         if (!votdDismissed) {
+          item("votd") {
         Card(
           modifier = Modifier.fillMaxWidth(),
           colors = CardDefaults.cardColors(
@@ -987,12 +1041,12 @@ fun HomeScreen(
             )
           }
         }
+          }
         }
 
-        // Continue Reading card
-        val lastCol = prefs.lastReadCollection
-        val lastBook = prefs.lastReadBookId
+        // Continue Reading card (lastCol/lastBook hoisted above LazyColumn)
         if (lastBook != null && lastCol != null) {
+          item("continue") {
           ElevatedCard(
             onClick = {
               if (!navBusy) safeNav {
@@ -1031,12 +1085,12 @@ fun HomeScreen(
               }
             }
           }
+          }
         }
 
-        // Bookmarks & Saved Verses
-        val bookmarks by repo.bookmarksFlow.collectAsState(initial = emptyList())
-        val savedVerses by repo.savedVersesFlow.collectAsState(initial = emptyList())
+        // Bookmarks & Saved Verses (bookmarks/savedVerses hoisted above LazyColumn)
         if (bookmarks.isNotEmpty() || savedVerses.isNotEmpty()) {
+          item("saved") {
           ElevatedCard(
             modifier = Modifier.fillMaxWidth().clickable(enabled = !navBusy) {
               safeNav { onSavedItems() }
@@ -1070,9 +1124,11 @@ fun HomeScreen(
               }
             }
           }
+          }
         }
 
         // Old/New Testament buttons
+        item("ot-nt") {
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(16.dp)) {
           HomeWideButton(text = stringResource(Res.string.old_testament), modifier = Modifier.weight(1f), enabled = !navBusy) {
             safeNav { onOpen("old_testament") }
@@ -1081,10 +1137,11 @@ fun HomeScreen(
             safeNav { onOpen("new_testament") }
           }
         }
+        }
 
-        // Extra collections (conditional)
-        val hasExtras = prefs.showPseudepigrapha || prefs.showDeutero || prefs.showApoc
+        // Extra collections (conditional; hasExtras hoisted above LazyColumn)
         if (hasExtras) {
+          item("extras") {
           Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
             if (prefs.showPseudepigrapha) {
               HomePill(text = stringResource(Res.string.pseudepigrapha), modifier = Modifier.weight(1f), enabled = !navBusy) {
@@ -1102,11 +1159,14 @@ fun HomeScreen(
               }
             } else Spacer(Modifier.weight(1f))
           }
+          }
         }
 
-        HorizontalDivider(Modifier.padding(vertical = 4.dp))
+        item("divider") { HorizontalDivider(Modifier.padding(vertical = 4.dp)) }
 
-        // Study & Reference section - expandable
+        // Study & Reference section - existing expand/collapse + pin behavior
+        // preserved; only wrapping changes (now an item inside LazyColumn).
+        item("study") {
         Surface(
           shape = RoundedCornerShape(16.dp),
           tonalElevation = 1.dp,
@@ -1169,14 +1229,17 @@ fun HomeScreen(
             }
           }
         }
+        }
 
-        Spacer(Modifier.height(4.dp))
+        item("spacer") { Spacer(Modifier.height(4.dp)) }
 
         // About
+        item("about") {
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
           TextButton(onClick = { safeNav { onAbout() } }, enabled = !navBusy) {
             Text(stringResource(Res.string.about_title), style = MaterialTheme.typography.bodyMedium)
           }
+        }
         }
       }
     }
@@ -4033,6 +4096,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
               text = { Text(label) },
               onClick = {
                 langExpanded = false
+                val prevLang = prefs.appLanguage
                 scope.launch {
                   repo.setAppLanguage(code)
 
@@ -4058,8 +4122,15 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                     }
                   }
 
-                  platformSetAppLocale(code)
-                  platformRecreateApp(ctx)
+                  // Only push a locale change and recreate the activity when
+                  // the user actually picked a different language. Reselecting
+                  // the current language used to fire an unconditional
+                  // recreate, which logcat showed as a spurious 1+ second
+                  // stall + relaunch.
+                  if (code != prevLang) {
+                    platformSetAppLocale(code)
+                    platformRecreateApp(ctx)
+                  }
                 }
               }
             )

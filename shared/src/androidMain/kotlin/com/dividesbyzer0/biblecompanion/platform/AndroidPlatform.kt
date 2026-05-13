@@ -103,6 +103,29 @@ actual fun platformLanguageFromTag(tag: String): String = Locale.forLanguageTag(
 actual fun platformScriptFromTag(tag: String): String = Locale.forLanguageTag(tag).script.lowercase()
 actual fun platformCountryFromTag(tag: String): String = Locale.forLanguageTag(tag).country.uppercase()
 
+// Normalize a locale tag for comparison. AppCompat may report back tags with
+// region suffixes ("en-US", "fr-FR") even when we set just the language ("en",
+// "fr"); without normalization the exact-equality guard would churn and force
+// a redundant setApplicationLocales call (and a second activity recreate).
+// Rules:
+//   - null or "system" → "system" (sentinel for "no override")
+//   - "zh-Hans" / "zh-Hant" → kept intact (script matters, not region)
+//   - everything else → strip after the first "-", lowercase
+//
+// Public because MainActivity in the :app module compares locale tags too
+// (its own pre-setContent guard at onCreate) and must use the same rules.
+fun normalizeLocaleTagForCompare(tag: String?): String {
+    if (tag == null) return "system"
+    val trimmed = tag.trim()
+    if (trimmed.isEmpty() || trimmed.equals("system", ignoreCase = true)) return "system"
+    val lower = trimmed.lowercase()
+    return when {
+        lower.startsWith("zh-hans") || lower == "zh-cn" -> "zh-Hans"
+        lower.startsWith("zh-hant") || lower == "zh-tw" || lower == "zh-hk" || lower == "zh-mo" -> "zh-Hant"
+        else -> lower.substringBefore('-')
+    }
+}
+
 actual fun platformSetAppLocale(tag: String) {
     val resolved = when (tag) {
         "zh-Hans" -> "zh-CN"
@@ -111,7 +134,9 @@ actual fun platformSetAppLocale(tag: String) {
     }
     val current = AppCompatDelegate.getApplicationLocales()
     val currentTag = if (current.isEmpty) "system" else current.toLanguageTags()
-    if (currentTag.equals(resolved, ignoreCase = true)) return
+    // Compare normalized tags so a stored "en-US" doesn't get re-set to "en"
+    // (and vice versa).
+    if (normalizeLocaleTagForCompare(currentTag) == normalizeLocaleTagForCompare(resolved)) return
     val target = if (resolved == "system")
         LocaleListCompat.getEmptyLocaleList()
     else
