@@ -302,12 +302,12 @@ fun GenealogyScreen(prefs: PrefsState, onBack: () -> Unit) {
         Spacer(Modifier.height(4.dp))
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceAround) {
           Text(
-            "Matthew",
+            ScriptureRefs.localizeRef("Matthew"),
             style = MaterialTheme.typography.labelMedium,
             color = MaterialTheme.colorScheme.primary
           )
           Text(
-            "Luke",
+            ScriptureRefs.localizeRef("Luke"),
             style = MaterialTheme.typography.labelMedium,
             color = MaterialTheme.colorScheme.primary
           )
@@ -456,7 +456,7 @@ private fun PersonCard(node: GeneNode, prefs: PrefsState) {
         modifier = Modifier.fillMaxWidth()
       )
       Text(
-        node.refs.firstOrNull() ?: "\u2014",
+        node.refs.firstOrNull()?.let { ScriptureRefs.localizeRef(it) } ?: "\u2014",
         style = MaterialTheme.typography.labelSmall,
         color = MaterialTheme.colorScheme.onSurfaceVariant,
         textAlign = TextAlign.Center,

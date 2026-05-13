@@ -67,7 +67,8 @@ data class PrefsState(
   // Local date ("YYYY-MM-DD") on which VOTD was dismissed; empty = not dismissed
   val votdDismissedDate: String = "",
   // Screenshot-mode hint: when true, settings opens with the language picker pre-expanded.
-  val screenshotExpandLanguage: Boolean = false
+  val screenshotExpandLanguage: Boolean = false,
+  val aiSearch: Boolean = true
 )
 
 enum class SearchHitType { STORY, NOTE, BOOK }
@@ -81,7 +82,8 @@ data class SearchHit(
   val score: Int = 0,
   val type: SearchHitType = SearchHitType.STORY,
   val verse: Int? = null,
-  val verseEnd: Int? = null
+  val verseEnd: Int? = null,
+  val semantic: Boolean = false
 )
 
 // Bookmarks & saved verses

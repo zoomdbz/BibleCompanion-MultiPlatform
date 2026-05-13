@@ -120,10 +120,22 @@
     <string name="text_small">小</string>
     <string name="text_medium">中</string>
     <string name="text_large">大</string>
+
+    <!-- Search -->
+    <string name="search_section">搜索</string>
+    <string name="ai_search">AI搜索</string>
+    <string name="ai_search_desc">即使确切词语不匹配，也能找到相关经文。按概念搜索，而不仅仅是关键词。完全在您的设备上运行。</string>
+
+    <!-- Accessibility -->
     <string name="accessibility_section">无障碍</string>
     <string name="haptic_feedback">触觉反馈</string>
+    <string name="expand_notes_default">默认展开笔记</string>
     <string name="tts_section">文字转语音</string>
     <string name="tts_auto_continue">自动继续朗读</string>
+    <string name="tts_cross_book">跨书卷继续</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">继续阅读 %1$s</string>
 
     <!-- Settings sections -->
     <string name="appearance">外观</string>
@@ -288,6 +300,7 @@
     <string name="dc_read_in_app">在应用中阅读</string>
     <string name="dc_unavailable_body">此语言在Bible.com或BibleGateway上不可用。请在应用内阅读，或切换应用语言。</string>
     <string name="chapters_label">章</string>
+    <string name="verse_label">经节</string>
     <string name="verses_label">节</string>
     <string name="search_searching">搜索中…</string>
 </resources>

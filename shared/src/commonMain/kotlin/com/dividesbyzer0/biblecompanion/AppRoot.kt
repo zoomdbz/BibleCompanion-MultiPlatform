@@ -55,6 +55,7 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.MenuBook
+import androidx.compose.material.icons.filled.AutoAwesome
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.ContentCopy
@@ -158,6 +159,8 @@ import com.dividesbyzer0.biblecompanion.platform.platformOpenUrl
 import com.dividesbyzer0.biblecompanion.platform.platformCopyToClipboard
 import com.dividesbyzer0.biblecompanion.platform.platformShareText
 import com.dividesbyzer0.biblecompanion.platform.isApplePlatform
+import com.dividesbyzer0.biblecompanion.platform.platformOnnxInit
+import com.dividesbyzer0.biblecompanion.platform.platformOnnxIsReady
 import com.dividesbyzer0.biblecompanion.platform.platformCurrentDate
 import com.dividesbyzer0.biblecompanion.platform.platformTtsInit
 import com.dividesbyzer0.biblecompanion.platform.platformTtsSpeak
@@ -184,6 +187,9 @@ import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import androidx.compose.runtime.snapshotFlow
+import androidx.compose.ui.focus.FocusRequester
+import androidx.compose.ui.focus.focusRequester
+import androidx.compose.ui.focus.onFocusChanged
 import androidx.compose.foundation.Image
 import org.jetbrains.compose.resources.StringResource
 import org.jetbrains.compose.resources.painterResource
@@ -199,6 +205,11 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
   val prefs by repo.flow.collectAsState(initialPrefs)
 
   LaunchedEffect(prefs.appLanguage) {
+    // Sync platform locale on every change so iOS (no-op MainActivity hook)
+    // and Android both pick up the user's saved language without depending on
+    // the language-picker code path. Both platforms guard against redundant
+    // sets, so calling here on launch is safe.
+    runCatching { platformSetAppLocale(prefs.appLanguage) }
     withContext(Dispatchers.Default) {
       runCatching { ScriptureRefs.primeBooks(ctx, prefs.appLanguage) }
     }
@@ -231,9 +242,19 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
       }
     }
 
+    var pendingSearchFocus by remember { mutableStateOf(false) }
     LaunchedEffect(shortcutAction) {
       when (shortcutAction) {
-        "search" -> {}
+        "search" -> {
+          // Make sure we're on Home, then trigger focus via state.
+          if (nav.currentDestination?.route != Dest.Home.route) {
+            nav.navigate(Dest.Home.route) {
+              popUpTo(Dest.Home.route) { inclusive = true }
+              launchSingleTop = true
+            }
+          }
+          pendingSearchFocus = true
+        }
         "bookmarks" -> nav.navigate(Dest.SavedItems.route) { launchSingleTop = true }
         "feast_calendar" -> nav.navigate(Dest.FeastCalendar.route) { launchSingleTop = true }
         "continue" -> {
@@ -288,8 +309,15 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             onFeastCalendar = { nav.navigate(Dest.FeastCalendar.route) { launchSingleTop = true } },
             onProphecy = { nav.navigate(Dest.Prophecy.route) { launchSingleTop = true } },
             onAbout = { nav.navigate(Dest.About.route) { launchSingleTop = true } },
-            onSavedItems = { nav.navigate(Dest.SavedItems.route) { launchSingleTop = true } }
+            onSavedItems = { nav.navigate(Dest.SavedItems.route) { launchSingleTop = true } },
+            requestSearchFocus = pendingSearchFocus
           )
+          LaunchedEffect(pendingSearchFocus) {
+            if (pendingSearchFocus) {
+              delay(500)
+              pendingSearchFocus = false
+            }
+          }
         }
         composable(Dest.Settings.route) {
           SettingsScreen(prefs = prefs, repo = repo) { navBack() }
@@ -590,10 +618,12 @@ fun HomeScreen(
   onFeastCalendar: () -> Unit,
   onProphecy: () -> Unit,
   onAbout: () -> Unit,
-  onSavedItems: () -> Unit = {}
+  onSavedItems: () -> Unit = {},
+  requestSearchFocus: Boolean = false
 ) {
   val ctx = LocalPlatformContext.current
   val scope = rememberCoroutineScope()
+  val searchFocusRequester = remember { FocusRequester() }
 
   // Onboarding
   var showOnboarding by remember { mutableStateOf(!prefs.onboardingComplete) }
@@ -613,17 +643,36 @@ fun HomeScreen(
   var searchJob by remember { mutableStateOf<Job?>(null) }
   var searchInFlight by remember { mutableStateOf(false) }
   var searchGen by remember { mutableStateOf(0) }
-  var indexReady by remember(prefs.appLanguage) { mutableStateOf(StorySearch.isReady(prefs.appLanguage)) }
+  var indexReady by remember { mutableStateOf(true) }
+  val embLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
 
-  LaunchedEffect(prefs.appLanguage) {
-    if (!StorySearch.isReady(prefs.appLanguage)) {
-      withContext(Dispatchers.Default) {
-        runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
-      }
-      indexReady = StorySearch.isReady(prefs.appLanguage)
-    } else {
-      indexReady = true
+  LaunchedEffect(requestSearchFocus) {
+    if (requestSearchFocus) {
+      delay(120)
+      runCatching { searchFocusRequester.requestFocus() }
     }
+  }
+
+  // Prewarm search indexes/ONNX in the background when the user signals intent
+  // to search (focuses the field). This trades a tiny extra preload for hiding
+  // the 2-3 second freeze the codex review caught in logcat (ONNX session
+  // initialized mid-typing). If the user never focuses search, we never load.
+  var searchPrewarmed by remember { mutableStateOf(false) }
+  fun prewarmSearch() {
+    if (searchPrewarmed) return
+    searchPrewarmed = true
+    scope.launch(Dispatchers.Default) {
+      runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
+      if (prefs.aiSearch) {
+        runCatching { platformOnnxInit(ctx) }
+        runCatching { EmbeddingSearch.ensureBuilt(ctx, embLang) }
+      }
+    }
+  }
+  // If the language preference changes, allow re-prewarm so the new locale's
+  // index loads next time the user touches the search field.
+  LaunchedEffect(prefs.appLanguage) {
+    searchPrewarmed = false
   }
 
   Box(Modifier.fillMaxSize()) {
@@ -659,17 +708,61 @@ fun HomeScreen(
               val gen = ++searchGen
               searchJob = scope.launch {
                 try {
-                  delay(120)
+                  // Show keyword results quickly after a short debounce, then
+                  // hold longer before doing the expensive semantic encode.
+                  // The codex review caught ONNX firing mid-typing, causing
+                  // blocking-GC stalls; running semantic search idle-only
+                  // keeps the keyword path snappy and the semantic merge
+                  // only kicks in when the user pauses.
+                  delay(220)
                   if (!StorySearch.isReady(prefs.appLanguage)) {
+                    indexReady = false
                     withContext(Dispatchers.Default) {
                       runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
                     }
                     indexReady = StorySearch.isReady(prefs.appLanguage)
                   }
-                  val hits = withContext(Dispatchers.Default) {
+                  val kwHits = withContext(Dispatchers.Default) {
                     StorySearch.search(q)
                   }
-                  if (gen == searchGen) results = hits
+                  if (gen == searchGen) results = kwHits
+
+                  // Gate semantic search: requires AI enabled, idle pause,
+                  // and a substantive query. Skip when:
+                  //   - query is < 3 chars (too few semantic signals)
+                  //   - query parses as an explicit Bible reference (e.g.,
+                  //     "John 3:16", "1 Cor 13") — the keyword path already
+                  //     produces the canonical hit; semantic adds no signal.
+                  // Strong keyword hits without an explicit reference still
+                  // get the semantic merge so related-passage discovery works.
+                  val tooShort = q.trim().length < 3
+                  val isRef = runCatching { StorySearch.isExplicitReference(q) }.getOrDefault(false)
+                  val skipSemantic = !prefs.aiSearch || tooShort || isRef
+                  if (!skipSemantic) {
+                    // Idle gate: wait additional time after keyword shows.
+                    // If user types again, gen advances and we exit early.
+                    delay(450)
+                    if (gen != searchGen) return@launch
+                    if (!platformOnnxIsReady()) {
+                      withContext(Dispatchers.Default) { runCatching { platformOnnxInit(ctx) } }
+                    }
+                    if (gen != searchGen) return@launch
+                    if (!EmbeddingSearch.isReady(embLang)) {
+                      withContext(Dispatchers.Default) { runCatching { EmbeddingSearch.ensureBuilt(ctx, embLang) } }
+                    }
+                    if (gen == searchGen && EmbeddingSearch.isReady(embLang)) {
+                      val semQuery = if (embLang == "en") StorySearch.correctQuery(q) else q
+                      val cached = SemanticCache.get(embLang, semQuery)
+                      val semHits = if (cached != null) cached else {
+                        val r = withContext(Dispatchers.Default) {
+                          runCatching { EmbeddingSearch.encodeAndSearch(semQuery, embLang) }.getOrNull()
+                        }
+                        if (r != null) SemanticCache.put(embLang, semQuery, r)
+                        r
+                      }
+                      if (gen == searchGen) results = EmbeddingSearch.merge(kwHits, semHits)
+                    }
+                  }
                 } finally {
                   if (gen == searchGen) searchInFlight = false
                 }
@@ -680,7 +773,10 @@ fun HomeScreen(
               results = emptyList()
             }
           },
-          modifier = Modifier.fillMaxWidth(),
+          modifier = Modifier
+            .fillMaxWidth()
+            .focusRequester(searchFocusRequester)
+            .onFocusChanged { if (it.isFocused) prewarmSearch() },
           placeholder = { Text(stringResource(Res.string.search_placeholder)) },
           singleLine = true,
           leadingIcon = { Icon(Icons.Filled.Search, contentDescription = null, tint = MaterialTheme.colorScheme.onSurfaceVariant) },
@@ -734,11 +830,24 @@ fun HomeScreen(
             Column(Modifier.padding(8.dp)) {
               results.forEach { hit ->
                 ListItem(
-                  headlineContent = { Text(hit.title, fontWeight = FontWeight.Medium) },
+                  headlineContent = {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                      Text(hit.title, fontWeight = FontWeight.Medium, modifier = Modifier.weight(1f, fill = false))
+                      if (hit.semantic) {
+                        Spacer(Modifier.width(4.dp))
+                        Icon(
+                          Icons.Filled.AutoAwesome,
+                          contentDescription = null,
+                          modifier = Modifier.size(14.dp),
+                          tint = MaterialTheme.colorScheme.tertiary
+                        )
+                      }
+                    }
+                  },
                   supportingContent = {
                     when (hit.type) {
-                      SearchHitType.BOOK -> Text(hit.snippet)
-                      else -> Text(highlightSearchSnippet(hit.snippet, query))
+                      SearchHitType.BOOK -> Text(hit.snippet, maxLines = 2, overflow = TextOverflow.Ellipsis)
+                      else -> Text(highlightSearchSnippet(hit.snippet, query, prefs), maxLines = 3, overflow = TextOverflow.Ellipsis)
                     }
                   },
                   modifier = Modifier.clickable(enabled = !navBusy) {
@@ -762,6 +871,7 @@ fun HomeScreen(
         val votd = remember(prefs.appLanguage) {
           VerseOfTheDay.todayVerse(ctx, prefs.appLanguage)
         }
+        val votdLocalRef = remember(votd.ref) { ScriptureRefs.localizeRef(votd.ref) }
         var ttsPlaying by remember { mutableStateOf(false) }
         DisposableEffect(Unit) {
           platformTtsInit(ctx)
@@ -816,7 +926,7 @@ fun HomeScreen(
               Row(verticalAlignment = Alignment.CenterVertically) {
                 IconButton(
                   onClick = {
-                    platformShareText(ctx, votd.ref, "\u201C${votd.text}\u201D\n\u2014 ${votd.ref}")
+                    platformShareText(ctx, votdLocalRef, "\u201C${votd.text}\u201D\n\u2014 $votdLocalRef")
                   }
                 ) {
                   Icon(
@@ -833,7 +943,7 @@ fun HomeScreen(
                       ttsPlaying = false
                     } else {
                       val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-                      platformTtsSpeak(ctx, "${votd.text} ${votd.ref}", lang)
+                      platformTtsSpeak(ctx, "${votd.text} $votdLocalRef", lang)
                       ttsPlaying = true
                     }
                   },
@@ -868,7 +978,7 @@ fun HomeScreen(
               color = MaterialTheme.colorScheme.onTertiaryContainer
             )
             ScriptureRefs.ClickableRefsTextSmart(
-              text = "\u2014 ${votd.ref}",
+              text = "\u2014 $votdLocalRef",
               prefs = prefs,
               modifier = Modifier.padding(top = 4.dp),
               textStyle = MaterialTheme.typography.labelSmall.copy(
@@ -953,7 +1063,7 @@ fun HomeScreen(
                   color = MaterialTheme.colorScheme.onSecondaryContainer
                 )
                 Text(
-                  "${bookmarks.size} bookmarks \u2022 ${savedVerses.size} verses",
+                  "${bookmarks.size} ${stringResource(Res.string.bookmarks_tab)} \u2022 ${savedVerses.size} ${stringResource(Res.string.saved_verses_tab)}",
                   style = MaterialTheme.typography.bodySmall,
                   color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.7f)
                 )
@@ -1115,49 +1225,55 @@ private fun StudyItem(text: String, enabled: Boolean, onClick: () -> Unit) {
   }
 }
 
-/** Annotated string that bolds [[highlighted]] spans from search snippets. */
+/** Annotated string that bolds query matches and colors [J] spans in search snippets. */
 @Composable
-private fun highlightSearchSnippet(snippet: String, query: String): AnnotatedString {
+private fun highlightSearchSnippet(snippet: String, query: String, prefs: PrefsState? = null): AnnotatedString {
+  val jesusColor = prefs?.let { ScriptureRefs.jesusColor(it) }
   return buildAnnotatedString {
-    val cleaned = snippet.replace("[[", "").replace("]]", "")
+    // Strip [J]/[/J] while recording their spans in cleaned-text coordinates
+    val jRanges = mutableListOf<IntRange>()
+    val step1 = snippet.replace("[[", "").replace("]]", "")
+    val buf = StringBuilder(step1.length)
+    var si = 0; var jStart = -1
+    while (si < step1.length) {
+      when {
+        step1.startsWith("[J]", si) -> { jStart = buf.length; si += 3 }
+        step1.startsWith("[/J]", si) -> { if (jStart >= 0) { jRanges += jStart until buf.length; jStart = -1 }; si += 4 }
+        else -> { buf.append(step1[si]); si++ }
+      }
+    }
+    if (jStart >= 0) jRanges += jStart until buf.length
+    val cleaned = buf.toString()
+
+    append(cleaned)
+
+    // Layer 1: Jesus words color
+    if (jesusColor != null) {
+      for (r in jRanges) addStyle(SpanStyle(color = jesusColor), r.first, r.last + 1)
+    }
+
+    // Layer 2: keyword highlights (bold + primary, or bold + jesusColor if overlapping)
     val lcCleaned = cleaned.lowercase()
     val lcQuery = query.lowercase().trim()
-
-    if (lcQuery.length < 2) {
-      append(cleaned)
-      return@buildAnnotatedString
-    }
-
-    var cursor = 0
-    val tokens = lcQuery.split(Regex("\\s+")).filter { it.length >= 2 }
-
-    // Find all match ranges
-    data class Range(val start: Int, val end: Int)
-    val ranges = mutableListOf<Range>()
-    for (tok in tokens) {
-      var idx = lcCleaned.indexOf(tok)
-      while (idx >= 0) {
-        ranges.add(Range(idx, idx + tok.length))
-        idx = lcCleaned.indexOf(tok, idx + 1)
+    if (lcQuery.length >= 2) {
+      val tokens = lcQuery.split(Regex("\\s+")).filter { it.length >= 2 }
+      val raw = mutableListOf<IntRange>()
+      for (tok in tokens) {
+        var idx = lcCleaned.indexOf(tok)
+        while (idx >= 0) { raw += idx until (idx + tok.length); idx = lcCleaned.indexOf(tok, idx + 1) }
+      }
+      raw.sortBy { it.first }
+      val merged = mutableListOf<IntRange>()
+      for (r in raw) {
+        if (merged.isEmpty() || r.first > merged.last().last + 1) merged += r
+        else merged[merged.lastIndex] = merged.last().first..maxOf(merged.last().last, r.last)
+      }
+      for (r in merged) {
+        val inJ = jesusColor != null && jRanges.any { it.first <= r.first && r.last <= it.last }
+        val color = if (inJ) jesusColor!! else MaterialTheme.colorScheme.primary
+        addStyle(SpanStyle(fontWeight = FontWeight.Bold, color = color), r.first, r.last + 1)
       }
     }
-    ranges.sortBy { it.start }
-
-    // Merge overlapping ranges
-    val merged = mutableListOf<Range>()
-    for (r in ranges) {
-      if (merged.isEmpty() || r.start > merged.last().end) merged.add(r)
-      else merged[merged.lastIndex] = Range(merged.last().start, maxOf(merged.last().end, r.end))
-    }
-
-    for (m in merged) {
-      if (cursor < m.start) append(cleaned.substring(cursor, m.start))
-      withStyle(SpanStyle(fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.primary)) {
-        append(cleaned.substring(m.start, m.end))
-      }
-      cursor = m.end
-    }
-    if (cursor < cleaned.length) append(cleaned.substring(cursor))
   }
 }
 
@@ -1531,6 +1647,13 @@ fun BookScreen(
           listState.scrollToItem(storyIdx)
         }
       } else if (storyIdx != null) {
+        if (book != null) {
+          val story = book.stories.find { it.id == initialStoryId }
+          if (story != null && story.summaryBullets.isNotEmpty()) {
+            goldFadeStoryId = initialStoryId
+            goldFadeBulletIdxs = setOf(0)
+          }
+        }
         listState.scrollToItem(storyIdx)
       }
     }
@@ -1807,6 +1930,7 @@ fun BookScreen(
                 }
                 val isTtsActive = chapterTtsPlaying && chapterTtsStoryId == story.id
                 val isTtsPausedHere = isTtsActive && chapterTtsPaused
+                val verseLbl = stringResource(Res.string.verse_label)
                 StoryCard(
                   col = col,
                   listState = listState,
@@ -1926,7 +2050,7 @@ fun BookScreen(
                       Linker.bestLinkForRef(it, prefs.translation, prefs.appLanguage).second
                     }
                     val shareText = if (url != null) "${content.text}\n\n$url" else content.text
-                    platformCopyToClipboard(ctx, content.primaryRef ?: "Verse", shareText)
+                    platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: verseLbl, shareText)
                   },
                   activeSectionTts = sectionTtsKey
                     ?.takeIf { it.startsWith("${story.id}:") }
@@ -1986,6 +2110,7 @@ fun BookScreen(
             visible = selectedBullets.isNotEmpty(),
             modifier = Modifier.align(Alignment.BottomCenter)
           ) {
+            val versesLbl = stringResource(Res.string.verses_label)
             var showColors by remember { mutableStateOf(false) }
             var showLabelPicker by remember { mutableStateOf(false) }
             Surface(
@@ -2003,7 +2128,7 @@ fun BookScreen(
                   IconButton(onClick = {
                     doHaptic()
                     val content = buildSelectedContent(book, selectedBullets)
-                    platformCopyToClipboard(ctx, content.primaryRef ?: "Verses", content.text)
+                    platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, content.text)
                     selectedBullets = emptySet()
                   }) {
                     Icon(Icons.Filled.ContentCopy, contentDescription = stringResource(Res.string.share))
@@ -2016,7 +2141,7 @@ fun BookScreen(
                       Linker.bestLinkForRef(it, prefs.translation, prefs.appLanguage).second
                     }
                     val shareText = if (url != null) "${content.text}\n\n$url" else content.text
-                    platformShareText(ctx, content.primaryRef ?: "Verses", shareText)
+                    platformShareText(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, shareText)
                     selectedBullets = emptySet()
                   }) {
                     Icon(Icons.Filled.Share, contentDescription = stringResource(Res.string.share))
@@ -2340,8 +2465,10 @@ fun StoryCard(
     story.refs.firstOrNull()?.let { ScriptureRefs.canonBookOfRef(it) }
   }
 
-  val sharePlain = remember(story, col, prefs.translation, prefs.appLanguage) {
-    val md = buildStoryMarkdown(story)
+  val ktLabel = stringResource(Res.string.key_takeaway)
+  val crLabel = stringResource(Res.string.cross_references)
+  val sharePlain = remember(story, col, prefs.translation, prefs.appLanguage, ktLabel, crLabel) {
+    val md = buildStoryMarkdown(story, ktLabel, crLabel)
     val plain = markdownToPlainText(md)
     val url = story.refs.firstOrNull()?.let { ref ->
       Linker.bestLinkForRef(ref, prefs.translation, prefs.appLanguage).second
@@ -2859,7 +2986,7 @@ private fun buildSelectedContent(book: Book, selected: Set<Pair<String, Int>>): 
 
     if (sb.isNotEmpty()) sb.appendLine()
     when {
-      specificRef != null -> sb.appendLine(specificRef)
+      specificRef != null -> sb.appendLine(ScriptureRefs.localizeRef(specificRef))
       else -> sb.appendLine(story.title)
     }
     for (idx in indices) {
@@ -3129,7 +3256,7 @@ fun SavedItemsScreen(
                         )
                         Spacer(Modifier.height(4.dp))
                         Text(
-                          sv.ref,
+                          ScriptureRefs.localizeRef(sv.ref),
                           style = MaterialTheme.typography.bodySmall,
                           color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
@@ -3343,11 +3470,11 @@ fun SavedItemsScreen(
 }
 
 /** Markdown that NotesMarkdown can flatten to clean text for sharing. */
-private fun buildStoryMarkdown(story: Story): String = buildString {
+private fun buildStoryMarkdown(story: Story, keyTakeawayLabel: String, crossRefsLabel: String): String = buildString {
   appendLine("# ${story.title}")
   if (story.refs.isNotEmpty()) {
     appendLine()
-    story.refs.forEach { appendLine(it) }
+    story.refs.forEach { appendLine(ScriptureRefs.localizeRef(it)) }
   }
   if (story.summaryBullets.isNotEmpty()) {
     appendLine()
@@ -3355,11 +3482,11 @@ private fun buildStoryMarkdown(story: Story): String = buildString {
   }
   if (story.keyTakeaway.isNotBlank()) {
     appendLine()
-    appendLine("**Key takeaway:** ${story.keyTakeaway}")
+    appendLine("**$keyTakeawayLabel:** ${story.keyTakeaway}")
   }
   if (story.crossRefs.isNotEmpty()) {
     appendLine()
-    appendLine("**Cross references**")
+    appendLine("**$crossRefsLabel**")
     story.crossRefs.forEach { appendLine("- $it") }
   }
 }.trimEnd()
@@ -3380,7 +3507,7 @@ private fun ttsCleanBullet(bullet: String): String {
   }
 }
 
-private fun ttsOrdinalWord(n: Int, lang: String): String = when (lang) {
+private fun ttsOrdinalWord(n: Int, lang: String): String = when (lang.lowercase()) {
   "en" -> when (n) { 1 -> "First"; 2 -> "Second"; 3 -> "Third"; else -> n.toString() }
   "es" -> when (n) { 1 -> "Primera"; 2 -> "Segunda"; 3 -> "Tercera"; else -> n.toString() }
   "fr" -> when (n) { 1 -> "Première"; 2 -> "Deuxième"; 3 -> "Troisième"; else -> n.toString() }
@@ -3388,10 +3515,15 @@ private fun ttsOrdinalWord(n: Int, lang: String): String = when (lang) {
   "it" -> when (n) { 1 -> "Prima"; 2 -> "Seconda"; 3 -> "Terza"; else -> n.toString() }
   "pt" -> when (n) { 1 -> "Primeira"; 2 -> "Segunda"; 3 -> "Terceira"; else -> n.toString() }
   "ru" -> when (n) { 1 -> "Первое"; 2 -> "Второе"; 3 -> "Третье"; else -> n.toString() }
+  "ar" -> when (n) { 1 -> "الأول"; 2 -> "الثاني"; 3 -> "الثالث"; else -> n.toString() }
+  "hi" -> when (n) { 1 -> "पहला"; 2 -> "दूसरा"; 3 -> "तीसरा"; else -> n.toString() }
+  "ja" -> when (n) { 1 -> "第一"; 2 -> "第二"; 3 -> "第三"; else -> n.toString() }
+  "ko" -> when (n) { 1 -> "첫째"; 2 -> "둘째"; 3 -> "셋째"; else -> n.toString() }
+  "zh-hans", "zh-hant" -> when (n) { 1 -> "第一"; 2 -> "第二"; 3 -> "第三"; else -> n.toString() }
   else -> n.toString()
 }
 
-private fun ttsChapterWord(lang: String): String? = when (lang) {
+private fun ttsChapterWord(lang: String): String? = when (lang.lowercase()) {
   "en" -> "Chapter"
   "es" -> "Capítulo"
   "fr" -> "Chapitre"
@@ -3399,6 +3531,11 @@ private fun ttsChapterWord(lang: String): String? = when (lang) {
   "it" -> "Capitolo"
   "pt" -> "Capítulo"
   "ru" -> "Глава"
+  "ar" -> "الفصل"
+  "hi" -> "अध्याय"
+  "ja" -> "章"
+  "ko" -> "장"
+  "zh-hans", "zh-hant" -> "章"
   else -> null
 }
 
@@ -4027,6 +4164,19 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       SettingsSwitch(stringResource(Res.string.apocrypha), prefs.showApoc) {
         scope.launch { repo.setApoc(it) }
       }
+
+      HorizontalDivider(Modifier.padding(vertical = 8.dp))
+
+      // ─── SEARCH SECTION ───
+      SectionHeader(stringResource(Res.string.search_section))
+      SettingsSwitch(stringResource(Res.string.ai_search), prefs.aiSearch) {
+        scope.launch { repo.setAiSearch(it) }
+      }
+      Text(
+        stringResource(Res.string.ai_search_desc),
+        style = MaterialTheme.typography.bodySmall,
+        color = MaterialTheme.colorScheme.onSurfaceVariant
+      )
 
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 

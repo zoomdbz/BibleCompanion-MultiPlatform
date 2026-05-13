@@ -50,6 +50,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val AUTO_CONTINUE_TTS = booleanPreferencesKey("auto_continue_tts")
         val NOTES_EXPANDED_SECTIONS_JSON = stringPreferencesKey("notes_expanded_sections_json")
         val VOTD_DISMISSED_DATE = stringPreferencesKey("votd_dismissed_date")
+        val AI_SEARCH = booleanPreferencesKey("ai_search")
         val BOOKMARKS_JSON = stringPreferencesKey("bookmarks_json")
         val SAVED_VERSES_JSON = stringPreferencesKey("saved_verses_json")
         val LABELS_JSON = stringPreferencesKey("labels_json")
@@ -96,7 +97,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             autoContinueTts = p[Keys.AUTO_CONTINUE_TTS] ?: true,
             crossBookTts = p[Keys.CROSS_BOOK_TTS] ?: false,
             notesExpandedSectionsJson = p[Keys.NOTES_EXPANDED_SECTIONS_JSON] ?: "{}",
-            votdDismissedDate = p[Keys.VOTD_DISMISSED_DATE] ?: ""
+            votdDismissedDate = p[Keys.VOTD_DISMISSED_DATE] ?: "",
+            aiSearch = p[Keys.AI_SEARCH] ?: true
         )
     }
 
@@ -185,6 +187,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setVotdDismissedDate(date: String) =
         context.dataStore.edit { it[Keys.VOTD_DISMISSED_DATE] = date }.let { Unit }
+
+    actual suspend fun setAiSearch(enabled: Boolean) =
+        context.dataStore.edit { it[Keys.AI_SEARCH] = enabled }.let { Unit }
 
     actual val bookmarksFlow: Flow<List<Bookmark>> = context.dataStore.data.map { p ->
         val raw = p[Keys.BOOKMARKS_JSON] ?: return@map emptyList()

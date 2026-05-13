@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "BibleCompanion"
 include(":app")
 include(":shared")
+include(":embedding-assets")

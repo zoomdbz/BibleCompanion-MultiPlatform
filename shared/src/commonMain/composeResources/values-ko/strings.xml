@@ -120,10 +120,22 @@
     <string name="text_small">작게</string>
     <string name="text_medium">보통</string>
     <string name="text_large">크게</string>
+
+    <!-- Search -->
+    <string name="search_section">검색</string>
+    <string name="ai_search">AI 검색</string>
+    <string name="ai_search_desc">정확한 단어가 일치하지 않아도 관련 구절을 찾습니다. 키워드가 아닌 개념으로 검색합니다. 완전히 기기에서 실행됩니다.</string>
+
+    <!-- Accessibility -->
     <string name="accessibility_section">접근성</string>
     <string name="haptic_feedback">햅틱 피드백</string>
+    <string name="expand_notes_default">기본으로 노트 펼치기</string>
     <string name="tts_section">텍스트 음성 변환</string>
     <string name="tts_auto_continue">자동 읽기 계속</string>
+    <string name="tts_cross_book">책 사이에서 계속</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">%1$s으로 계속</string>
 
     <!-- Settings sections -->
     <string name="appearance">화면 설정</string>
@@ -288,6 +300,7 @@
     <string name="dc_read_in_app">앱에서 읽기</string>
     <string name="dc_unavailable_body">이 언어로는 Bible.com이나 BibleGateway에서 이용할 수 없습니다. 앱에서 읽거나 앱 언어를 변경하세요.</string>
     <string name="chapters_label">장</string>
+    <string name="verse_label">절</string>
     <string name="verses_label">절</string>
     <string name="search_searching">검색 중…</string>
 </resources>

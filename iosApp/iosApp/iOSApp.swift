@@ -52,6 +52,7 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
     ) -> Bool {
         MainViewControllerKt.installCrashHook()
+        IosPlatformKt.setIosQueryEncoder(encoder: OnnxEncoder())
 
         let now = Int64(Date().timeIntervalSince1970 * 1000)
         UserDefaults.standard.set(now, forKey: "ios_last_launch_ms")

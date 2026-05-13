@@ -1688,24 +1688,31 @@ def build_story_entries(entries: list[dict], canonical_names=None, verse_anchors
             "text": verse_text,
         })
 
-    for cluster_name, cluster in EVENT_CLUSTERS.items():
-        for story_id in cluster["stories"]:
-            if story_id not in stories:
-                continue
-            s = stories[story_id]
-            story_entries.append({
-                "type": "anchor",
-                "collection": s["collection"],
-                "book_id": s["book_id"],
-                "book_title": s["book_title"],
-                "story_id": story_id,
-                "story_title": s["story_title"],
-                "bullet_index": -1,
-                "verse_ref": None,
-                "refs": s["refs"],
-                "lang": s["lang"],
-                "text": cluster["shared_anchor"],
-            })
+    # EVENT_CLUSTERS anchors are English-only text. Only emit them for the
+    # English embedding index — otherwise non-English embeddings leak English
+    # event vocabulary and bias semantic search toward English wording.
+    # Localized concept search is covered by language-specific CANONICAL_NAMES
+    # already merged via load_anchors().
+    sample_lang = next(iter(stories.values()))["lang"] if stories else "en"
+    if sample_lang == "en":
+        for cluster_name, cluster in EVENT_CLUSTERS.items():
+            for story_id in cluster["stories"]:
+                if story_id not in stories:
+                    continue
+                s = stories[story_id]
+                story_entries.append({
+                    "type": "anchor",
+                    "collection": s["collection"],
+                    "book_id": s["book_id"],
+                    "book_title": s["book_title"],
+                    "story_id": story_id,
+                    "story_title": s["story_title"],
+                    "bullet_index": -1,
+                    "verse_ref": None,
+                    "refs": s["refs"],
+                    "lang": s["lang"],
+                    "text": cluster["shared_anchor"],
+                })
 
     return story_entries
 
@@ -1805,7 +1812,11 @@ def main():
         print(f"Processing {lang}...", flush=True)
         entries = load_corpus(lang)
         if not entries:
-            continue
+            # Refuse to silently skip — empty corpus means parse_corpus.py
+            # never produced data for this language, and we'd otherwise leave
+            # stale embedding files in place while reporting "Done".
+            print(f"  ERROR: empty corpus for {lang}; rerun parse_corpus.py first.", file=sys.stderr)
+            sys.exit(1)
 
         canonical_names, verse_anchors = load_anchors(lang)
         story_entries = build_story_entries(entries, canonical_names, verse_anchors)

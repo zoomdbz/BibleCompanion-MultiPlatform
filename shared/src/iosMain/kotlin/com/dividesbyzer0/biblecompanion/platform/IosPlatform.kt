@@ -11,7 +11,9 @@ import platform.AVFAudio.AVSpeechSynthesisVoice
 import platform.AVFAudio.AVSpeechSynthesizer
 import platform.AVFAudio.AVSpeechSynthesizerDelegateProtocol
 import platform.AVFAudio.AVSpeechUtterance
+import platform.Foundation.NSArray
 import platform.Foundation.NSBundle
+import platform.Foundation.arrayWithObject
 import platform.Foundation.NSData
 import platform.Foundation.NSDate
 import platform.Foundation.NSDateFormatter
@@ -29,6 +31,7 @@ import platform.Foundation.NSURLRequest
 import platform.Foundation.NSURLResponse
 import platform.Foundation.NSURLSession
 import platform.Foundation.NSUTF8StringEncoding
+import platform.Foundation.NSUserDefaults
 import platform.Foundation.NSUserDomainMask
 import platform.Foundation.countryCode
 import platform.Foundation.currentLocale
@@ -75,6 +78,25 @@ actual fun readAssetText(context: PlatformContext, path: String): String? {
 
     return resourcePath?.let {
         NSString.stringWithContentsOfFile(it, NSUTF8StringEncoding, null)
+    }
+}
+
+actual fun readAssetBytes(context: PlatformContext, path: String): ByteArray? {
+    val components = path.split("/")
+    val fileName = components.last().substringBeforeLast(".")
+    val ext = components.last().substringAfterLast(".", "")
+    val subDir = if (components.size > 1) components.dropLast(1).joinToString("/") else null
+    val resourcePath = if (subDir != null) {
+        context.bundle.pathForResource(fileName, ext, subDir)
+    } else {
+        context.bundle.pathForResource(fileName, ext)
+    }
+    return resourcePath?.let {
+        NSData.dataWithContentsOfFile(it)?.let { data ->
+            ByteArray(data.length.toInt()).also { bytes ->
+                data.getBytes(bytes.refTo(0), data.length)
+            }
+        }
     }
 }
 
@@ -182,7 +204,28 @@ actual fun platformCountryFromTag(tag: String): String {
 }
 
 actual fun platformSetAppLocale(tag: String) {
-    // iOS locale is set via system settings; app reads preference and loads assets
+    // Override Foundation's locale resolution so Compose Resources picks up the
+    // user's in-app language preference instead of only the system language.
+    // Apple resolves AppleLanguages from NSUserDefaults before NSBundle reads
+    // localized strings, so setting it here propagates to stringResource(...)
+    // calls (Compose Resources reads through NSBundle on iOS).
+    // Full effect — including system framework strings — applies on next launch.
+    val defaults = NSUserDefaults.standardUserDefaults
+    if (tag.equals("system", ignoreCase = true)) {
+        defaults.removeObjectForKey("AppleLanguages")
+    } else {
+        val canonical = when (tag.lowercase()) {
+            "zh-hans" -> "zh-Hans"
+            "zh-hant" -> "zh-Hant"
+            else -> tag
+        }
+        // AppleLanguages is canonically an NSArray<NSString>. Use explicit
+        // NSArray construction to avoid relying on Kotlin/Native auto-bridging
+        // of Kotlin List<String> to NSArray, which is version-dependent.
+        val arr: NSArray = NSArray.arrayWithObject(canonical)
+        defaults.setObject(arr, forKey = "AppleLanguages")
+    }
+    defaults.synchronize()
 }
 
 actual fun platformRecreateApp(context: PlatformContext) {
@@ -418,3 +461,25 @@ actual fun platformTtsResume(context: PlatformContext) {
 }
 
 actual fun platformTtsIsPaused(context: PlatformContext): Boolean = synthesizer.isPaused()
+
+// ---- ONNX Runtime (implemented in Swift, injected via setIosQueryEncoder) ----
+
+interface IosQueryEncoder {
+    fun isReady(): Boolean
+    fun encode(inputIds: LongArray, attentionMask: LongArray): FloatArray?
+}
+
+private var queryEncoder: IosQueryEncoder? = null
+
+fun setIosQueryEncoder(encoder: IosQueryEncoder) {
+    queryEncoder = encoder
+}
+
+actual fun platformOnnxInit(context: PlatformContext): Boolean =
+    queryEncoder?.isReady() ?: false
+
+actual fun platformOnnxInference(inputIds: LongArray, attentionMask: LongArray): FloatArray? =
+    queryEncoder?.encode(inputIds, attentionMask)
+
+actual fun platformOnnxIsReady(): Boolean =
+    queryEncoder?.isReady() ?: false

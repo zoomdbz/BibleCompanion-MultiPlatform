@@ -60,7 +60,8 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             crossBookTts = getBool("cross_book_tts", false),
             notesExpandedSectionsJson = getString("notes_expanded_sections_json") ?: "{}",
             votdDismissedDate = getString("votd_dismissed_date") ?: "",
-            screenshotExpandLanguage = getBool("ss_expand_language", false)
+            screenshotExpandLanguage = getBool("ss_expand_language", false),
+            aiSearch = getBool("ai_search", true)
         )
     }
 
@@ -154,6 +155,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     }
     actual suspend fun setVotdDismissedDate(date: String) {
         defaults.setObject(date, forKey = "votd_dismissed_date"); refresh()
+    }
+    actual suspend fun setAiSearch(enabled: Boolean) {
+        defaults.setBool(enabled, forKey = "ai_search"); refresh()
     }
 
     private val json = Json { ignoreUnknownKeys = true }

@@ -33,6 +33,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setAutoContinueTts(enabled: Boolean)
     suspend fun setNotesExpandedSections(json: String)
     suspend fun setVotdDismissedDate(date: String)
+    suspend fun setAiSearch(enabled: Boolean)
 
     val bookmarksFlow: Flow<List<Bookmark>>
     val savedVersesFlow: Flow<List<SavedVerse>>

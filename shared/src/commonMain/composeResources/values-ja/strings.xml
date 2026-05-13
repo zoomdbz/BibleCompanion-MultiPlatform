@@ -120,10 +120,22 @@
     <string name="text_small">小</string>
     <string name="text_medium">中</string>
     <string name="text_large">大</string>
+
+    <!-- Search -->
+    <string name="search_section">検索</string>
+    <string name="ai_search">AI検索</string>
+    <string name="ai_search_desc">正確な言葉が一致しなくても関連する箇所を見つけます。キーワードではなく概念で検索します。完全にデバイス上で動作します。</string>
+
+    <!-- Accessibility -->
     <string name="accessibility_section">アクセシビリティ</string>
     <string name="haptic_feedback">触覚フィードバック</string>
+    <string name="expand_notes_default">デフォルトでノートを展開</string>
     <string name="tts_section">テキスト読み上げ</string>
     <string name="tts_auto_continue">自動で読み上げを継続</string>
+    <string name="tts_cross_book">書を越えて続ける</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">%1$s に進む</string>
 
     <!-- Settings sections -->
     <string name="appearance">外観</string>
@@ -288,6 +300,7 @@
     <string name="dc_read_in_app">アプリ内で読む</string>
     <string name="dc_unavailable_body">この言語ではBible.comまたはBibleGatewayでは利用できません。アプリ内で読むか、アプリの言語を切り替えてください。</string>
     <string name="chapters_label">章</string>
+    <string name="verse_label">節</string>
     <string name="verses_label">節</string>
     <string name="search_searching">検索中…</string>
 </resources>

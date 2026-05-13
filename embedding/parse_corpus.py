@@ -15,7 +15,23 @@ import re
 import sys
 from pathlib import Path
 
-APP_ASSETS = Path(__file__).parent.parent / "BibleCompanion-MultiPlatform" / "shared" / "assets" / "books"
+# Resolve the books directory for both layouts:
+#   embedding/ inside the project (current canonical layout)
+#   embedding/ next to a separate BibleCompanion-MultiPlatform/ clone (legacy)
+def _resolve_app_assets() -> Path:
+    here = Path(__file__).parent
+    # Layout A: embedding/ is inside the project root.
+    inside = here.parent / "shared" / "assets" / "books"
+    if inside.is_dir():
+        return inside
+    # Layout B: embedding/ is a sibling of BibleCompanion-MultiPlatform/.
+    sibling = here.parent / "BibleCompanion-MultiPlatform" / "shared" / "assets" / "books"
+    if sibling.is_dir():
+        return sibling
+    # Fall back to the in-project layout so the error message is informative.
+    return inside
+
+APP_ASSETS = _resolve_app_assets()
 
 COLLECTIONS = ["old_testament", "new_testament", "apocrypha", "deuterocanonical", "pseudepigrapha"]
 
@@ -44,7 +60,15 @@ def parse_book(filepath: Path, collection: str, lang: str) -> list[dict]:
     if isinstance(data, list):
         return []
 
-    book_id = data.get("id", filepath.stem)
+    # Use the file stem as the book id, not the JSON's internal `id` field.
+    # Runtime navigation loads books by filename (`books/<col>/<lang>/<stem>.json`),
+    # so embedding metadata must carry the stem or semantic-only hits route to
+    # missing books. Some legacy JSONs have ids like "1-corinthians" while the
+    # file is `1_corinthians.json` — those mismatches break navigation.
+    book_id = filepath.stem
+    internal_id = data.get("id", book_id)
+    if internal_id != book_id:
+        print(f"  WARN: {filepath.name} internal id={internal_id!r} != stem; using stem", file=sys.stderr)
     book_title = data.get("title", book_id)
     entries = []
 
@@ -139,8 +163,12 @@ def main():
     langs = sys.argv[1:] if len(sys.argv) > 1 else LANGUAGES
     print(f"Parsing {len(langs)} language(s): {', '.join(langs)}")
     print(f"Source: {APP_ASSETS}")
+    if not APP_ASSETS.is_dir():
+        print(f"  ERROR: source directory does not exist: {APP_ASSETS}", file=sys.stderr)
+        sys.exit(1)
     print()
 
+    failed: list[str] = []
     for lang in langs:
         entries = parse_language(lang)
         bullets = sum(1 for e in entries if e["type"] == "bullet")
@@ -148,8 +176,14 @@ def main():
         crossrefs = sum(1 for e in entries if e["type"] == "crossref")
         outpath = write_jsonl(entries, lang)
         print(f"  {lang}: {len(entries)} entries ({bullets} bullets, {takeaways} takeaways, {crossrefs} crossrefs) -> {outpath.name}")
+        if len(entries) == 0:
+            failed.append(lang)
 
     print()
+    if failed:
+        print(f"ERROR: 0-entry corpora for: {', '.join(failed)}", file=sys.stderr)
+        print("Refusing to leave empty corpus files — fix the source path or assets and rerun.", file=sys.stderr)
+        sys.exit(2)
     print("Done. Corpus files in output/")
 
 

@@ -1,0 +1,4 @@
+# Binary assets (too large for git; copy from embedding/output/)
+src/main/assets/embedding/*.bin
+src/main/assets/embedding/*.onnx
+src/main/assets/embedding/*.json

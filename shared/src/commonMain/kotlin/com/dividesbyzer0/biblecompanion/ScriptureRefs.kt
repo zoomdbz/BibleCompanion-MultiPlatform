@@ -270,6 +270,25 @@ object ScriptureRefs {
     return null
   }
 
+  fun localizeRef(englishRef: String): String {
+    if (books.isEmpty()) return englishRef
+    val s = normalizeNFKC(englishRef)
+      .replace('　', ' ')
+      .replace(' ', ' ')
+      .replace(' ', ' ')
+    for (i in s.indices) {
+      val prev = s.getOrNull(i - 1)
+      if (!isLeftBoundary(prev)) continue
+      val hit = scanBookAt(s, i) ?: continue
+      val (entry, consumed) = hit
+      if (entry.canon.equals(entry.displayCanon, ignoreCase = true)) return englishRef
+      val before = s.substring(0, i)
+      val after = s.substring(i + consumed)
+      return "$before${entry.displayCanon}$after"
+    }
+    return englishRef
+  }
+
   @Composable
   fun ClickableRefsText(
     text: String,
@@ -1165,6 +1184,9 @@ object ScriptureRefs {
     "purple"  -> Color(0xFF8E24AA)
     else      -> MaterialTheme.colorScheme.secondary
   }
+
+  @Composable
+  fun jesusColor(prefs: PrefsState): Color = jesusColorFromPrefs(prefs)
 
   @Composable
   private fun jesusColorFromPrefs(prefs: PrefsState): Color {

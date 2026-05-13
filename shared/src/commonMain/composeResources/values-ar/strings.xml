@@ -120,10 +120,22 @@
     <string name="text_small">صغير</string>
     <string name="text_medium">متوسط</string>
     <string name="text_large">كبير</string>
+
+    <!-- Search -->
+    <string name="search_section">البحث</string>
+    <string name="ai_search">البحث بالذكاء الاصطناعي</string>
+    <string name="ai_search_desc">ابحث عن مقاطع ذات صلة حتى عندما لا تتطابق الكلمات بالضبط. يبحث بالمفهوم وليس فقط بالكلمات المفتاحية. يعمل بالكامل على جهازك.</string>
+
+    <!-- Accessibility -->
     <string name="accessibility_section">إمكانية الوصول</string>
     <string name="haptic_feedback">استجابة لمسية</string>
+    <string name="expand_notes_default">توسيع الملاحظات افتراضياً</string>
     <string name="tts_section">تحويل النص إلى كلام</string>
     <string name="tts_auto_continue">متابعة القراءة تلقائياً</string>
+    <string name="tts_cross_book">المتابعة عبر الأسفار</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">المتابعة إلى %1$s</string>
 
     <!-- Settings sections -->
     <string name="appearance">المظهر</string>
@@ -288,6 +300,7 @@
     <string name="dc_read_in_app">قراءة في التطبيق</string>
     <string name="dc_unavailable_body">غير متوفر على Bible.com أو BibleGateway بهذه اللغة. اقرأه في التطبيق، أو غيّر لغة التطبيق.</string>
     <string name="chapters_label">الفصول</string>
+    <string name="verse_label">آية</string>
     <string name="verses_label">الآيات</string>
     <string name="search_searching">جاري البحث…</string>
 </resources>

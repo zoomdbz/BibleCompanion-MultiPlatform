@@ -33,4 +33,15 @@
         android:targetPackage="com.dividesbyzer0.biblecompanion"
         android:targetClass="com.dividesbyzer0.biblecompanion.MainActivity" />
   </shortcut>
+  <shortcut
+      android:shortcutId="feast_calendar"
+      android:enabled="true"
+      android:icon="@android:drawable/ic_menu_my_calendar"
+      android:shortcutShortLabel="@string/shortcut_feast_calendar"
+      android:shortcutLongLabel="@string/shortcut_feast_calendar">
+    <intent
+        android:action="com.dividesbyzer0.biblecompanion.FEAST_CALENDAR"
+        android:targetPackage="com.dividesbyzer0.biblecompanion"
+        android:targetClass="com.dividesbyzer0.biblecompanion.MainActivity" />
+  </shortcut>
 </shortcuts>

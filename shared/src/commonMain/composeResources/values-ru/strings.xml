@@ -120,10 +120,22 @@
     <string name="text_small">Маленький</string>
     <string name="text_medium">Средний</string>
     <string name="text_large">Крупный</string>
+
+    <!-- Search -->
+    <string name="search_section">Поиск</string>
+    <string name="ai_search">Поиск с ИИ</string>
+    <string name="ai_search_desc">Находите связанные отрывки, даже когда точные слова не совпадают. Ищет по понятию, а не только по ключевым словам. Работает полностью на вашем устройстве.</string>
+
+    <!-- Accessibility -->
     <string name="accessibility_section">Специальные возможности</string>
     <string name="haptic_feedback">Тактильный отклик</string>
+    <string name="expand_notes_default">Раскрывать заметки по умолчанию</string>
     <string name="tts_section">Синтез речи</string>
     <string name="tts_auto_continue">Автопродолжение чтения</string>
+    <string name="tts_cross_book">Продолжить через книги</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">Перейти к %1$s</string>
 
     <!-- Settings sections -->
     <string name="appearance">Оформление</string>
@@ -288,6 +300,7 @@
     <string name="dc_read_in_app">Читать в приложении</string>
     <string name="dc_unavailable_body">Недоступно на Bible.com и BibleGateway на этом языке. Читайте в приложении или измените язык приложения.</string>
     <string name="chapters_label">Главы</string>
+    <string name="verse_label">Стих</string>
     <string name="verses_label">Стихи</string>
     <string name="search_searching">Поиск…</string>
 </resources>

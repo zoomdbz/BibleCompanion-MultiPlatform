@@ -153,6 +153,11 @@
     <string name="text_medium">Medium</string>
     <string name="text_large">Large</string>
 
+    <!-- Search -->
+    <string name="search_section">Search</string>
+    <string name="ai_search">AI search</string>
+    <string name="ai_search_desc">Find related passages even when exact words don’t match. Searches by concept, not just keywords. Runs entirely on your device.</string>
+
     <!-- Accessibility -->
     <string name="accessibility_section">Accessibility</string>
     <string name="haptic_feedback">Haptic Feedback</string>
@@ -327,5 +332,6 @@
     <string name="prophecy_revelation">Revelation Overview</string>
     <string name="prophecy_revelation_desc">Structured reading guide with Hebraic idioms and feast connections</string>
     <string name="chapters_label">Chapters</string>
+    <string name="verse_label">Verse</string>
     <string name="verses_label">Verses</string>
 </resources>

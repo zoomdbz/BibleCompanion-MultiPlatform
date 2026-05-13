@@ -1,10 +1,15 @@
 package com.dividesbyzer0.biblecompanion
 
 import androidx.compose.runtime.staticCompositionLocalOf
+import com.dividesbyzer0.biblecompanion.platform.urlEncode
 
 val LocalInternalNavigate = staticCompositionLocalOf<(collection: String, bookId: String, storyId: String?, verse: Int?, verseEnd: Int?) -> Unit> {
     { _, _, _, _, _ -> }
 }
+
+// Encode a route path/query component. Current ids are ASCII-safe but future
+// localized or punctuation-containing ids would otherwise corrupt navigation.
+private fun encPath(s: String): String = urlEncode(s).replace("+", "%20")
 
 sealed class Dest(val route: String) {
     data object Home : Dest("home")
@@ -30,7 +35,7 @@ sealed class Dest(val route: String) {
     data object RevelationOverview : Dest("revelation_overview")
     data object SavedItems : Dest("saved_items")
     data class Books(val col: String) : Dest("books/{col}") {
-        companion object { fun route(col: String) = "books/$col" }
+        companion object { fun route(col: String) = "books/${encPath(col)}" }
     }
     data class BookView(val col: String, val bookId: String) :
         Dest("book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}") {
@@ -43,9 +48,9 @@ sealed class Dest(val route: String) {
                 verseEnd: Int? = null,
                 autoStartTts: Boolean = false
             ): String {
-                val base = "book/$col/$bookId"
+                val base = "book/${encPath(col)}/${encPath(bookId)}"
                 val params = buildList {
-                    if (!storyId.isNullOrBlank()) add("storyId=$storyId")
+                    if (!storyId.isNullOrBlank()) add("storyId=${encPath(storyId)}")
                     if (verse != null) add("verse=$verse")
                     if (verseEnd != null && verseEnd != verse) add("verseEnd=$verseEnd")
                     if (autoStartTts) add("autoStartTts=true")

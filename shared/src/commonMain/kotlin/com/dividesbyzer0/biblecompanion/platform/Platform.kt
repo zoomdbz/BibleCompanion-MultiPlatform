@@ -11,6 +11,7 @@ val LocalPlatformContext = staticCompositionLocalOf<PlatformContext> {
 
 // ---- Asset loading ----
 expect fun readAssetText(context: PlatformContext, path: String): String?
+expect fun readAssetBytes(context: PlatformContext, path: String): ByteArray?
 expect fun assetExists(context: PlatformContext, path: String): Boolean
 
 // ---- Cache files ----
@@ -71,4 +72,9 @@ expect fun platformTtsSetOnDone(callback: (() -> Unit)?)
 expect fun platformTtsPause(context: PlatformContext)
 expect fun platformTtsResume(context: PlatformContext)
 expect fun platformTtsIsPaused(context: PlatformContext): Boolean
+
+// ---- ONNX Runtime (embedding search) ----
+expect fun platformOnnxInit(context: PlatformContext): Boolean
+expect fun platformOnnxInference(inputIds: LongArray, attentionMask: LongArray): FloatArray?
+expect fun platformOnnxIsReady(): Boolean
 

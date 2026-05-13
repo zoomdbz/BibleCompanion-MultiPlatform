@@ -121,10 +121,22 @@
     <string name="text_small">Petit</string>
     <string name="text_medium">Moyen</string>
     <string name="text_large">Grand</string>
+
+    <!-- Search -->
+    <string name="search_section">Recherche</string>
+    <string name="ai_search">Recherche IA</string>
+    <string name="ai_search_desc">Trouvez des passages lies meme quand les mots exacts ne correspondent pas. Recherche par concept, pas seulement par mots-cles. Fonctionne entierement sur votre appareil.</string>
+
+    <!-- Accessibility -->
     <string name="accessibility_section">Accessibilité</string>
     <string name="haptic_feedback">Retour haptique</string>
+    <string name="expand_notes_default">Développer les notes par défaut</string>
     <string name="tts_section">Synthèse vocale</string>
     <string name="tts_auto_continue">Lecture continue automatique</string>
+    <string name="tts_cross_book">Continuer entre les livres</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">Continuer vers %1$s</string>
 
     <!-- Settings sections -->
     <string name="appearance">Apparence</string>
@@ -289,6 +301,7 @@
     <string name="dc_read_in_app">Lire dans l'app</string>
     <string name="dc_unavailable_body">Non disponible sur Bible.com ou BibleGateway dans cette langue. Lisez-le dans l'application ou changez la langue de l'app.</string>
     <string name="chapters_label">Chapitres</string>
+    <string name="verse_label">Verset</string>
     <string name="verses_label">Versets</string>
     <string name="search_searching">Recherche…</string>
 </resources>

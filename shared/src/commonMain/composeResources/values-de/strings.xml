@@ -119,10 +119,22 @@
     <string name="text_small">Klein</string>
     <string name="text_medium">Mittel</string>
     <string name="text_large">Groß</string>
+
+    <!-- Search -->
+    <string name="search_section">Suche</string>
+    <string name="ai_search">KI-Suche</string>
+    <string name="ai_search_desc">Finde verwandte Passagen, auch wenn die genauen Worter nicht ubereinstimmen. Sucht nach Konzept, nicht nur nach Stichworten. Lauft vollstandig auf deinem Gerat.</string>
+
+    <!-- Accessibility -->
     <string name="accessibility_section">Barrierefreiheit</string>
     <string name="haptic_feedback">Haptisches Feedback</string>
+    <string name="expand_notes_default">Anmerkungen standardmäßig aufklappen</string>
     <string name="tts_section">Sprachausgabe</string>
     <string name="tts_auto_continue">Automatisch weiterlesen</string>
+    <string name="tts_cross_book">Bücher übergreifend fortsetzen</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">Weiter zu %1$s</string>
 
     <!-- Settings sections -->
     <string name="appearance">Erscheinungsbild</string>
@@ -287,6 +299,7 @@
     <string name="dc_read_in_app">In der App lesen</string>
     <string name="dc_unavailable_body">Nicht verfügbar auf Bible.com oder BibleGateway in dieser Sprache. Lies in der App, oder ändere die App-Sprache.</string>
     <string name="chapters_label">Kapitel</string>
+    <string name="verse_label">Vers</string>
     <string name="verses_label">Verse</string>
     <string name="search_searching">Suche läuft…</string>
 </resources>

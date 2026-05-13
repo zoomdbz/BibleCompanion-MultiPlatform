@@ -15,6 +15,9 @@
 		E7B2C3D400000025 /* refs in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000016 /* refs */; };
 		E7B2C3D400000026 /* daily_verses in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000017 /* daily_verses */; };
 		E7B2C3D400000027 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000018 /* PrivacyInfo.xcprivacy */; };
+		E7B2C3D400000028 /* OnnxEncoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000019 /* OnnxEncoder.swift */; };
+		E7B2C3D400000029 /* embedding in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D40000001A /* embedding */; };
+		E7B2C3D40000002A /* onnxruntime in Frameworks */ = {isa = PBXBuildFile; productRef = E7B2C3D40000001C /* onnxruntime */; };
 		E7B2C3D500000201 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D500000200 /* InfoPlist.strings */; };
 		E7B2C3D500000301 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D500000300 /* Localizable.strings */; };
 /* End PBXBuildFile section */
@@ -30,6 +33,8 @@
 		E7B2C3D400000016 /* refs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = refs; path = ../shared/assets/refs; sourceTree = "<group>"; };
 		E7B2C3D400000017 /* daily_verses */ = {isa = PBXFileReference; lastKnownFileType = folder; name = daily_verses; path = ../shared/assets/daily_verses; sourceTree = "<group>"; };
 		E7B2C3D400000018 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		E7B2C3D400000019 /* OnnxEncoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnnxEncoder.swift; sourceTree = "<group>"; };
+		E7B2C3D40000001A /* embedding */ = {isa = PBXFileReference; lastKnownFileType = folder; name = embedding; path = ../embedding-assets/src/main/assets/embedding; sourceTree = "<group>"; };
 		E7B2C3D500000210 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D500000211 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D500000212 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -63,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7B2C3D40000002A /* onnxruntime in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,6 +83,7 @@
 				E7B2C3D400000015 /* notes */,
 				E7B2C3D400000016 /* refs */,
 				E7B2C3D400000017 /* daily_verses */,
+				E7B2C3D40000001A /* embedding */,
 				E7B2C3D400000032 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -86,6 +93,7 @@
 			children = (
 				E7B2C3D400000010 /* iOSApp.swift */,
 				E7B2C3D400000011 /* ContentView.swift */,
+				E7B2C3D400000019 /* OnnxEncoder.swift */,
 				E7B2C3D400000013 /* Assets.xcassets */,
 				E7B2C3D400000012 /* Info.plist */,
 				E7B2C3D400000018 /* PrivacyInfo.xcprivacy */,
@@ -120,6 +128,9 @@
 			dependencies = (
 			);
 			name = iosApp;
+			packageProductDependencies = (
+				E7B2C3D40000001C /* onnxruntime */,
+			);
 			productName = iosApp;
 			productReference = E7B2C3D400000001 /* iosApp.app */;
 			productType = "com.apple.product-type.application";
@@ -160,6 +171,9 @@
 				"zh-Hant",
 			);
 			mainGroup = E7B2C3D400000030;
+			packageReferences = (
+				E7B2C3D40000001B /* XCRemoteSwiftPackageReference "onnxruntime-swift-package-manager" */,
+			);
 			productRefGroup = E7B2C3D400000032 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -180,6 +194,7 @@
 				E7B2C3D400000025 /* refs in Resources */,
 				E7B2C3D400000026 /* daily_verses in Resources */,
 				E7B2C3D400000027 /* PrivacyInfo.xcprivacy in Resources */,
+				E7B2C3D400000029 /* embedding in Resources */,
 				E7B2C3D500000201 /* InfoPlist.strings in Resources */,
 				E7B2C3D500000301 /* Localizable.strings in Resources */,
 			);
@@ -259,6 +274,7 @@
 			files = (
 				E7B2C3D400000020 /* iOSApp.swift in Sources */,
 				E7B2C3D400000021 /* ContentView.swift in Sources */,
+				E7B2C3D400000028 /* OnnxEncoder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +286,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 35;
+				CURRENT_PROJECT_VERSION = 36;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -283,7 +299,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 3.5.0;
+				MARKETING_VERSION = 3.6.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -304,7 +320,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CODE_SIGN_IDENTITY = "Apple Distribution";
 				PROVISIONING_PROFILE_SPECIFIER = "BibleCompanion AppStore";
-				CURRENT_PROJECT_VERSION = 35;
+				CURRENT_PROJECT_VERSION = 36;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -317,7 +333,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 3.5.0;
+				MARKETING_VERSION = 3.6.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -462,6 +478,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E7B2C3D40000001B /* XCRemoteSwiftPackageReference "onnxruntime-swift-package-manager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/microsoft/onnxruntime-swift-package-manager";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.20.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E7B2C3D40000001C /* onnxruntime */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E7B2C3D40000001B /* XCRemoteSwiftPackageReference "onnxruntime-swift-package-manager" */;
+			productName = onnxruntime;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E7B2C3D400000060 /* Project object */;
 }

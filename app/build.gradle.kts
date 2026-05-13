@@ -5,6 +5,8 @@ plugins {
   id("org.jetbrains.compose")
 }
 
+android.assetPacks += listOf(":embedding-assets")
+
 kotlin {
   androidTarget {
     compilerOptions {
@@ -41,14 +43,17 @@ android {
     getByName("main") {
       assets.srcDirs("../shared/assets")
     }
+    getByName("debug") {
+      assets.srcDirs("../embedding-assets/src/main/assets")
+    }
   }
 
   defaultConfig {
     applicationId = "com.dividesbyzer0.biblecompanion"
     minSdk = 23
     targetSdk = 35
-    versionCode = 35
-    versionName = "3.5.0"
+    versionCode = 36
+    versionName = "3.6.0"
     vectorDrawables.useSupportLibrary = true
     ndk {
       abiFilters += listOf("arm64-v8a", "x86_64")
