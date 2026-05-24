@@ -95,7 +95,7 @@ Lo Spirito Santo è pienamente Dio, uguale al Padre e al Figlio.
 
 ---
 
-### I concili regionali del canone
+## I concili regionali del canone
 
 ### Concilio di Ippona (AD 393)
 

@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">صوم أستير</string>
     <string name="feast_fast_esther_ref">أستير 4:16</string>
 
+    <!-- الأعياد الإسينية / درج الهيكل / اليوبيلات -->
+    <string name="feast_new_wine_name">عيد الخمر الجديدة</string>
+    <string name="feast_new_oil_name">عيد الزيت الجديد</string>
+    <string name="feast_memorial_q2_name">يوم التذكار الثاني</string>
+    <string name="feast_memorial_q4_name">يوم التذكار الرابع</string>
+    <string name="essene_calendar_label">إسيني</string>
+
     <!-- Prophecy -->
     <string name="prophecy">النبوّة</string>
     <string name="prophecy_subtitle">اكتشف الخيوط النبوية المنسوجة في الكتاب المقدس; من النبوّات المسيانية إلى أعياد سفر الرؤيا.</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">الصلب</string>
     <string name="feast_typology_unleavened_name">عيد الفطير (نيسان 15)</string>
     <string name="feast_typology_unleavened_meaning">الدفن / بلا خطية</string>
-    <string name="feast_typology_firstfruits_name">عيد الباكورة (نيسان 16)</string>
+    <string name="feast_typology_firstfruits_name">عيد الباكورة</string>
     <string name="feast_typology_firstfruits_meaning">القيامة</string>
-    <string name="feast_typology_weeks_name">عيد الأسابيع / الخمسين (سيوان 6)</string>
+    <string name="feast_typology_weeks_name">عيد الأسابيع / الخمسين</string>
     <string name="feast_typology_weeks_meaning">حلول الروح القدس</string>
     <string name="feast_typology_trumpets_name">عيد الأبواق (تشري 1)</string>
     <string name="feast_typology_trumpets_meaning">المجيء الثاني / الاختطاف</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">آية</string>
     <string name="verses_label">الآيات</string>
     <string name="search_searching">جاري البحث…</string>
+    <string name="intro_short">مقدمة</string>
+    <string name="intro_section_header">مقدمة السفر</string>
+    <string name="tts_read_intros">قراءة مقدمات الأسفار صوتيًا</string>
 </resources>

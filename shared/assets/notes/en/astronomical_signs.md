@@ -81,15 +81,15 @@ This exact full configuration (sun, moon, 12-object crown, and Jupiter's exit af
 
 ## Other Notable Celestial Signs
 
-### The Eclipse Comet of 1948 (C/1948 V1)
+**The Eclipse Comet of 1948 (C/1948 V1)**
 
 On **November 1, 1948**, approximately 1 Kislev 5709, a brilliant comet was discovered during a total solar eclipse. It reached naked-eye visibility with a tail spanning up to 30 degrees of sky and remained visible through December 1948. This was the same year Israel became a nation (May 14, 1948 = 5 Iyyar 5708) after nearly 2,000 years of exile. The coincidence of a naked-eye comet appearing within Israel's first year of modern statehood has not been lost on students of Ezekiel 37 and Isaiah 11.
 
-### The Great Conjunction of December 21, 2020
+**The Great Conjunction of December 21, 2020**
 
 On the winter solstice, **December 21, 2020** (6 Tevet 5781), Jupiter and Saturn appeared only 0.1 degrees apart, the closest visible separation since 1623. Major media called it the "Christmas Star" because of its resemblance to descriptions of the Star of Bethlehem. The conjunction appeared in the western sky shortly after sunset, in the direction of Bethlehem as seen from Jerusalem. The Hebrew date falls in Tevet, a month with no feast days, but the visual and symbolic resonance with the Bethlehem star event led many Messianic believers to note it. The two planets will not be this close again until 2080.
 
-### Comet NEOWISE (2020)
+**Comet NEOWISE (2020)**
 
 **Comet C/2020 F3 (NEOWISE)** reached perihelion on July 3, 2020 (~11 Tammuz 5780) and closest Earth approach on July 23, 2020 (~2 Av 5780). It was the brightest comet visible to the naked eye from the Northern Hemisphere since Comet Hale-Bopp in 1997. Its estimated orbital period is approximately 4,500 years, leading some to suggest its last appearance was in the era of Abraham or before. The month of Av on the Hebrew calendar is a month of mourning and fasting (Tisha B'Av falls on 9 Av); the comet peaked during this period. Its prophetic significance is debated within the Messianic community.
 
@@ -135,7 +135,7 @@ Back-to-back blood moons on the same feast in consecutive years has no modern pr
 - **October 2, 2024:** Annular ("ring of fire") solar eclipse on **1 Tishrei 5785, Rosh Hashanah, the Feast of Trumpets (Yom Teruah)**.
 - **August 12, 2026:** Total solar eclipse (path across Iberian Peninsula and North Africa). Hebrew date: 29 Av, no feast alignment.
 
-### Solar Storms Before the 2026 Purim Blood Moon
+**Solar Storms Before the 2026 Purim Blood Moon**
 
 On **February 1–5, 2026**, active region AR4366, a sunspot group 14 times wider than Earth, erupted with six X-class solar flares in four days, including two X8.1-class events among the strongest of Solar Cycle 25. A coronal mass ejection struck Earth on February 5, triggering geomagnetic storms and widespread aurora. This occurred approximately 25 days before the March 3 Purim blood moon.
 

@@ -283,7 +283,7 @@ The Qur’an honors Jesus (*ʿĪsā*) as a prophet, but denies His crucifixion a
  
 - Many Muslims claim the Bible has been corrupted.  
 
-### Answering common objections:
+## Answering common objections:
 
 ### Objection 1: The Bible Has Been Corrupted
 The Qur’an itself affirms the Torah and Gospel as genuine revelations.
@@ -308,16 +308,16 @@ The Bible affirms its own preservation.
 **(1 Peter 1:25)**
 > “But the word of the Lord remains forever.”
 
-### **Logical consequence:** If Muslims claim the Torah (Old Testament) and the Gospel (New Testament) are textually corrupted, that stance **contradicts the Qur’an itself**, which calls them “guidance and light” and even instructs Muhammad to consult their readers (see verses above). Historically, early Muslim polemic focused on **misinterpretation** (*taḥrīf al-maʿnā*), not textual corruption (*taḥrīf al-naṣṣ*). The **text-corruption claim hardened later** as a way to resolve tensions once contradictions in the Qur’an’s content and transmission were noticed.
+**Logical consequence:** If Muslims claim the Torah (Old Testament) and the Gospel (New Testament) are textually corrupted, that stance **contradicts the Qur’an itself**, which calls them “guidance and light” and even instructs Muhammad to consult their readers (see verses above). Historically, early Muslim polemic focused on **misinterpretation** (*taḥrīf al-maʿnā*), not textual corruption (*taḥrīf al-naṣṣ*). The **text-corruption claim hardened later** as a way to resolve tensions once contradictions in the Qur’an’s content and transmission were noticed.
 
 ### Historical Manuscript Evidence: Bible vs. Qur’an
 
-### The Bible
+#### The Bible
 - **Old Testament:** The Dead Sea Scrolls (3rd–1st century BC) confirm the stability of the Hebrew Bible. For example, the Great Isaiah Scroll matches closely with the later Masoretic Texts such as the Aleppo Codex and Codex Leningradensis, apart from minor spelling differences.
 
 - **New Testament:** Thousands of Greek manuscripts exist, including very early fragments like Papyrus P52 (~125 AD, from the Gospel of John), P66, and P75 (2nd–3rd century). Complete codices like Codex Sinaiticus (4th century) align with these. With over 5,000 manuscripts, the New Testament text is reconstructable with remarkable accuracy.
 
-### The Qur’an
+#### The Qur’an
 - Early Muslims feared loss of the Qur’an after many memorizers died in battle at Yamāma. Caliph Uthman created an official recension in the Quraysh dialect and ordered all variant codices burned.
 
 - Hadith sources record missing verses:
@@ -405,11 +405,11 @@ Even historians who rejected Christianity acknowledged Jesus’ crucifixion as a
   
   - **(John 14:16–17)** – Jesus prays to the Father, promises the Spirit, showing three Persons united in one God.  
   
-### The Trinity is not three gods, but one God in three Persons.  
+The Trinity is not three gods, but one God in three Persons.  
 
 ### *Objection 5: “There are no variants of the Qur’an. Only Shias claim that. Islam has not changed 1 bit since Muhammad.”*
 
-### This is historically false. The evidence is overwhelming:
+This is historically false. The evidence is overwhelming:
 
 - Canonical Hadiths admit missing verses.
 
@@ -423,14 +423,14 @@ Even historians who rejected Christianity acknowledged Jesus’ crucifixion as a
 
 - Sahih al-Bukhari 4987: “Uthman sent to every Muslim province one copy of what they had copied, and ordered that all the other Qur’anic materials… be burnt.”
 
-### If the Qur’an never had variants, why was burning necessary?
+If the Qur’an never had variants, why was burning necessary?
 
-### Bible comparison: The Dead Sea Scrolls (150 BC–70 AD) and Codex Leningrad (1008 AD) show over 1,000 years of faithful preservation with only minor spelling differences. The New Testament has 5,000+ Greek manuscripts; no doctrine is lost. The Qur’an has fewer manuscripts, deliberate standardization, and admitted missing verses.
+**Bible comparison:** The Dead Sea Scrolls (150 BC–70 AD) and Codex Leningrad (1008 AD) show over 1,000 years of faithful preservation with only minor spelling differences. The New Testament has 5,000+ Greek manuscripts; no doctrine is lost. The Qur’an has fewer manuscripts, deliberate standardization, and admitted missing verses.
 
 
 ### *Objection 6: “You can’t just read the Qur’an. You need Hadiths and scholars for context.”*
 
-### This creates a trap: it means the Qur’an is not sufficient by itself, despite it claiming to be clear guidance.
+This creates a trap: it means the Qur’an is not sufficient by itself, despite it claiming to be clear guidance.
 
 Qur’an 16:89 (Sahih International)
 
@@ -440,30 +440,30 @@ Qur’an 6:114 (Sahih International)
 
 > “Then is it other than Allah I should seek as judge while it is He who has revealed to you the Book explained in detail?”
 
-### *If the Qur’an is truly a self-explained, sufficient “clarification for all things,” then why must laypeople depend on endless chains of hadiths and scholars? That contradiction shows the book is not what it claims.*
+*If the Qur’an is truly a self-explained, sufficient “clarification for all things,” then why must laypeople depend on endless chains of hadiths and scholars? That contradiction shows the book is not what it claims.*
 
-### The Bible, by contrast, affirms sufficiency and clarity:
+The Bible, by contrast, affirms sufficiency and clarity:
 
-### (2 Timothy 3:16–17)
+**(2 Timothy 3:16–17)**
 
 > “All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.”
 
 
 ### *Objection 7: “History is biased. Jesus was crucified, but we believe he didn’t die; he went to heaven.”*
 
-### This objection collapses under both Scripture and secular history:
+This objection collapses under both Scripture and secular history:
 
-### Bible prophecy and testimony:
+**Bible prophecy and testimony:**
 
-### (Isaiah 53:5)
+**(Isaiah 53:5)**
 
 > “But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.”
 
-### (John 19:33–34) 
+**(John 19:33–34)**
 
 >“But when they came to Jesus and saw that he was already dead, they did not break his legs. But one of the soldiers pierced his side with a spear, and at once there came out blood and water.”
 
-### Secular historians:
+**Secular historians:**
 
 - Tacitus (Annals 15.44) – “Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of… Pontius Pilate.”
 
@@ -473,7 +473,7 @@ Qur’an 6:114 (Sahih International)
 
 ### Salvation: Law vs. Grace
 
-### Islam’s View of Salvation
+#### Islam’s View of Salvation
 In Islam, salvation depends on the balance of deeds. Good works must outweigh bad works, and ultimately Allah may grant or withhold mercy.
 
 **Qur’an 23:102–103 (Sahih International)**
@@ -481,7 +481,7 @@ In Islam, salvation depends on the balance of deeds. Good works must outweigh ba
 
 This reflects a works-based system of salvation, measured by law and deeds.
 
-### The Law in the Bible
+#### The Law in the Bible
 The Bible shows that the Law is holy and reveals God’s standards, but no human being has ever kept the Law perfectly. Only Jesus lived without sin.
 
 **(Romans 3:20)**
@@ -502,7 +502,7 @@ The Bible shows that the Law is holy and reveals God’s standards, but no human
 **(Hebrews 4:15)**
 > “For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.”
 
-### Grace through Jesus
+#### Grace through Jesus
 The gospel proclaims salvation as a gift of grace through faith in Christ, not by works.
 
 **(Ephesians 2:8–9)**
@@ -517,7 +517,7 @@ The gospel proclaims salvation as a gift of grace through faith in Christ, not b
 **Key Point:** Islam teaches salvation by Law and deeds; the Bible shows the Law condemns all but points to Christ, who alone kept it perfectly. Salvation is only by grace through faith in Jesus.
 
 
-### The Conduct of Muhammad Measured Against the Law of Moses
+**The Conduct of Muhammad Measured Against the Law of Moses**
 
 The Torah gave clear sexual, relational, and moral laws. When Muhammad’s conduct is measured against them, it falls short.
 
@@ -632,7 +632,7 @@ By contrast, Muhammad permitted rape of captives without these protections. The 
 
 ---
 
-### Muhammad’s Personal Privileges (Surah 33)
+**Muhammad’s Personal Privileges (Surah 33)**
 
 Surah 33 grants Muhammad unique exemptions and privileges.
 
@@ -671,7 +671,7 @@ The inconsistency is striking: “too shy” to tell guests to leave, but not to
 **(Matthew 20:28)**
 > “Even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
 
-### Contradictions and Omissions in the Qur’an
+**Contradictions and Omissions in the Qur’an**
 
 Islam teaches that the Qur’an is perfect and without contradiction. However, even within the text and Islamic tradition, we see conflicts and missing material.
 
@@ -730,7 +730,7 @@ The Qur’an denies and affirms Jesus’ death in different passages. The Bible 
 **(1 Corinthians 15:3–4)**
 > "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures."
 
-### Secular historians confirm the crucifixion:
+**Secular historians confirm the crucifixion:**
 - **Tacitus, Annals 15.44**: “Christus… suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus.”
 
 - **Josephus, Antiquities 18.3.3**: “…Pilate… condemned him to the cross.”
@@ -769,7 +769,7 @@ The Law exposes sin, but only Christ fulfilled it perfectly.
 **(John 11:25–26)**
 > "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?'"
 
-### **Key Takeaway:**
+**Key Takeaway:**
 
 **Islam confesses one God, but rejects the Son. Jesus says He alone is the Way (John 14:6). To deny the Son is to deny the Father (1 John 2:23). Scripture says God’s Word stands forever (Isaiah 40:8); it has not been corrupted. The crucifixion, resurrection, and divinity of Jesus are foretold in the Old Testament and confirmed in the New.**
 
@@ -779,7 +779,7 @@ The Law exposes sin, but only Christ fulfilled it perfectly.
 
 ### A Question of “Context” and Consistency
 
-### **Claim:** “Everything in the Qur’an is from Allah. An angel brings it, the prophet repeats it. Context is everything.”
+**Claim:** “Everything in the Qur’an is from Allah. An angel brings it, the prophet repeats it. Context is everything.”
 
 - If *context is everything*, where’s the context that lets Muhammad exempt himself from the moral law God gave through Moses?
 
@@ -787,7 +787,7 @@ The Law exposes sin, but only Christ fulfilled it perfectly.
 
 **Bottom line:** If “context is everything,” then consistency with God’s already-revealed moral law is the first, non-negotiable context.
 
-### * The Torah is blunt here:
+The Torah is blunt here:
 
 > **Leviticus 18:15:** “You shall not uncover the nakedness of your daughter-in-law; she is your son’s wife, you shall not uncover her nakedness.”
 
@@ -912,39 +912,6 @@ The “Star of David” (hexagram) is not found anywhere in Scripture. Its close
 
 ---
 
-### Bibliography
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., and Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (original 19th century).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Background on Saturn worship and Saturnalia.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Details on the late adoption of the hexagram as a Jewish communal symbol, especially in Prague and 19th-century Europe.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (On the hexagram’s role in medieval Jewish mysticism.)
-
----  
-
 ## 10. 三教合基：道成肉身的道路  
 *Three Teachings United in Christ: The Way of the Dao Made Flesh*  
 
@@ -991,6 +958,8 @@ The “Star of David” (hexagram) is not found anywhere in Scripture. Its close
 ---  
 
 ## 11. False Prophets and Counterfeit Gospels
+
+For deeper systematic treatment of each movement listed below (founders, structural critiques, in-house defectors, recommended further reading), see the **False Doctrine** notes file. The discussion here focuses on the prophetic-counterfeit dimension within the unseen-war framework; that file covers each movement's full theological architecture.
 
 **Plain meaning:** Not everyone who speaks in God’s name speaks for God. Scripture gives tests to expose false prophets, false apostles, and counterfeit gospels.
 
@@ -1156,11 +1125,11 @@ Early Christians rejected it – The councils and creeds weren’t about philoso
 
 ---
 
-### **Biblical conclusion:** God commands us to test every teacher and every spirit (1 John 4:1–3).
+**Biblical conclusion:** God commands us to test every teacher and every spirit (1 John 4:1–3).
 
 ---
 
-### Theological Systems That Reshape Scripture’s Plain Meaning
+**Theological Systems That Reshape Scripture’s Plain Meaning**
 
 Not every doctrinal disagreement is a false gospel. The groups above deny Christ’s deity, add new scriptures, or invent new gods. The system below is categorically different; it operates within orthodox Christianity, affirms the Trinity and the authority of Scripture, and is held by millions of sincere, historically grounded believers. It is included here not as a false religion but as a theological framework that, in our reading, reshapes Scripture’s plain meaning on key points.
 
@@ -1188,7 +1157,7 @@ By treating all events as equally decreed, Calvinism risks making God the source
 
 ---
 
-### **Biblical conclusion (continued):** God commands us to test every teacher and every spirit (1 John 4:1–3).
+**Biblical conclusion (continued):** God commands us to test every teacher and every spirit (1 John 4:1–3).
 
 If a message changes who Jesus is, changes the gospel, or ties sinfulness to skin color, reject it (Deuteronomy 13:1–5) (Deuteronomy 18:20–22) (Galatians 1:8–9) (Matthew 7:15–20).
 
@@ -1227,5 +1196,39 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 - **(Philippians 2:10–11)** – “At the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord.”  
 
 **Key Takeaway (Scripture):** Christ came to destroy the devil’s works (1 John 3:8). Believers overcome by His blood and faithful testimony (Revelation 12:10–11). In the end, all creation will bow and confess Jesus Christ as Lord (Philippians 2:10–11).
+
+---
+
+## 14. Bibliography
+
+- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
+
+- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
+
+- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
+
+- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
+
+- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
+
+- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
+
+- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
+
+- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
+
+- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
+
+- Keil, C. F., and Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (original 19th century).
+
+- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
+
+- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
+
+- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Background on Saturn worship and Saturnalia.)
+
+- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Details on the late adoption of the hexagram as a Jewish communal symbol, especially in Prague and 19th-century Europe.)
+
+- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (On the hexagram’s role in medieval Jewish mysticism.)
 
 ---

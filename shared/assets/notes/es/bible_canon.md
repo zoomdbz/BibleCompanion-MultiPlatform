@@ -95,7 +95,7 @@ El Espíritu Santo es plenamente Dios, igual al Padre y al Hijo.
 
 ---
 
-### Los concilios regionales del canon
+## Los concilios regionales del canon
 
 ### Concilio de Hipona (AD 393)
 

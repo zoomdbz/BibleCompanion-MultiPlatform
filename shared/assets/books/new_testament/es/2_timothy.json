@@ -45,7 +45,17 @@
           "note": "Se refiere a algo confiado para su custodia; aquí, el mensaje del evangelio y el encargo ministerial."
         }
       ],
-      "keyTakeaway": "Pablo le agradece a Dios por la fe de Timoteo, lo exhorta a tener valor y fidelidad en guardar el evangelio, y recuerda ejemplos de abandono y lealtad."
+      "keyTakeaway": "Pablo le agradece a Dios por la fe de Timoteo, lo exhorta a tener valor y fidelidad en guardar el evangelio, y recuerda ejemplos de abandono y lealtad.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Testificando de Cristo"
+        }
+      ]
     },
     {
       "id": "2_timothy-2",
@@ -93,7 +103,17 @@
           "note": "Literalmente 'cortar derecho'; figurado para enseñar y aplicar correctamente la palabra de Dios."
         }
       ],
-      "keyTakeaway": "Pablo exhorta a Timoteo a soportar dificultades, transmitir el evangelio, evitar discusiones y corregir con gentileza, usando metáforas del soldado, el atleta y el agricultor."
+      "keyTakeaway": "Pablo exhorta a Timoteo a soportar dificultades, transmitir el evangelio, evitar discusiones y corregir con gentileza, usando metáforas del soldado, el atleta y el agricultor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Un buen soldado de Jesucristo"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Un obrero aprobado"
+        }
+      ]
     },
     {
       "id": "2_timothy-3",
@@ -137,7 +157,13 @@
           "note": "Palabra única que significa 'exhalada por Dios'; usada para el origen divino de la Escritura."
         }
       ],
-      "keyTakeaway": "Pablo advierte sobre personas corruptas en los últimos días, recuerda su ejemplo de perseverancia y afirma la inspiración divina y utilidad de toda la Escritura."
+      "keyTakeaway": "Pablo advierte sobre personas corruptas en los últimos días, recuerda su ejemplo de perseverancia y afirma la inspiración divina y utilidad de toda la Escritura.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Carácter de los hombres en los postreros días"
+        }
+      ]
     },
     {
       "id": "2_timothy-4",
@@ -186,7 +212,21 @@
           "note": "Imagen de recompensa para los fieles; la corona simboliza honor y vindicación otorgados en la venida de Cristo."
         }
       ],
-      "keyTakeaway": "Pablo encarga a Timoteo que predique fielmente, reflexiona sobre haber terminado su carrera y aguardar una corona, relata compañeros y dificultades personales, y cierra con saludos y bendición."
+      "keyTakeaway": "Pablo encarga a Timoteo que predique fielmente, reflexiona sobre haber terminado su carrera y aguardar una corona, relata compañeros y dificultades personales, y cierra con saludos y bendición.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Predica la palabra"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Instrucciones personales"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Saludos y bendición final"
+        }
+      ]
     }
   ]
 }

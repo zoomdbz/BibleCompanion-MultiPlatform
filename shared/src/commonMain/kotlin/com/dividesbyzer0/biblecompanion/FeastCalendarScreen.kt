@@ -421,7 +421,20 @@ private fun MonthFeastList(
             FeastCalendarType.ESSENE -> "E"
             FeastCalendarType.KARAITE -> "K"
           }
+          // For HEBREW and KARAITE markers we still surface the rabbinic Hebrew
+          // month/day pair as the secondary tag. For ESSENE markers we instead
+          // surface the internal 364-day month/day (e.g. 15/III) which is
+          // calendar-rigid and weekday-stable; the Gregorian projection on
+          // Essene rows is convention-dependent (equinox surrogate is March 20,
+          // not the true astronomical equinox at Jerusalem), so the internal
+          // M/D is the stronger half of the pair.
           val hebrew = HebrewCalendar.gregorianToHebrew(year, month, day)
+          val esseneSubtitle: String? = if (m.calendar == FeastCalendarType.ESSENE) {
+            val jdn = HebrewCalendar.gregorianToJDN(year, month, day)
+            val e = EsseneCalendar.jdnToEssene(jdn)
+            val monthRoman = EsseneCalendar.MONTH_NAMES.getOrNull(e.month - 1) ?: e.month.toString()
+            "${e.day}/$monthRoman"
+          } else null
 
           Row(
             Modifier.fillMaxWidth().padding(vertical = 4.dp),
@@ -447,9 +460,15 @@ private fun MonthFeastList(
                 style = MaterialTheme.typography.bodyMedium,
                 fontWeight = FontWeight.SemiBold
               )
-              val localizedHebMonth = localizedHebrewMonthName(hebrew.monthName)
+              val gregorianPart = "${CalendarUtils.localizedMonthName(month, lang)} $dateStr"
+              val secondaryPart = if (esseneSubtitle != null) {
+                "$esseneSubtitle ${stringResource(Res.string.essene_calendar_label)}"
+              } else {
+                val localizedHebMonth = localizedHebrewMonthName(hebrew.monthName)
+                "$localizedHebMonth ${hebrew.day}"
+              }
               Text(
-                "${CalendarUtils.localizedMonthName(month, lang)} $dateStr \u2022 $localizedHebMonth ${hebrew.day}",
+                "$gregorianPart \u2022 $secondaryPart",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
               )

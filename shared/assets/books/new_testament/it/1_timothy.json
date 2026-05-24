@@ -42,7 +42,21 @@
           "note": "Metafora di rovina totale; descrive l'abbandono della fede e della coscienza come una nave naufragata."
         }
       ],
-      "keyTakeaway": "Paolo incarica Timoteo di opporsi alle false dottrine, usare la legge correttamente, ricordare l'esempio di misericordia ricevuto da Paolo e mantenere fede e coscienza per evitare il naufragio."
+      "keyTakeaway": "Paolo incarica Timoteo di opporsi alle false dottrine, usare la legge correttamente, ricordare l'esempio di misericordia ricevuto da Paolo e mantenere fede e coscienza per evitare il naufragio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Avvertimento contro le false dottrine"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Paolo, esempio della misericordia divina"
+        }
+      ]
     },
     {
       "id": "1_timothy-2",
@@ -79,7 +93,13 @@
           "note": "Colui che interviene tra due parti; nel Nuovo Testamento usato unicamente per Cristo come unico mediatore tra Dio e gli uomini."
         }
       ],
-      "keyTakeaway": "Paolo esorta alla preghiera per tutti, afferma Cristo come unico mediatore, e dà istruzioni sulla preghiera degli uomini e sul comportamento delle donne, fondandole sull'ordine della creazione e della caduta."
+      "keyTakeaway": "Paolo esorta alla preghiera per tutti, afferma Cristo come unico mediatore, e dà istruzioni sulla preghiera degli uomini e sul comportamento delle donne, fondandole sull'ordine della creazione e della caduta.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La preghiera per tutti gli uomini; la donna cristiana"
+        }
+      ]
     },
     {
       "id": "1_timothy-3",
@@ -127,7 +147,17 @@
           "note": "Confessione che riassume l'incarnazione, la giustificazione, la proclamazione, la fede e l'esaltazione di Cristo."
         }
       ],
-      "keyTakeaway": "Paolo elenca i requisiti per i vescovi e i diaconi, descrive la chiesa come la casa di Dio e proclama il mistero della pietà incentrato in Cristo."
+      "keyTakeaway": "Paolo elenca i requisiti per i vescovi e i diaconi, descrive la chiesa come la casa di Dio e proclama il mistero della pietà incentrato in Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I vescovi e i diaconi"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Mistero della pietà"
+        }
+      ]
     },
     {
       "id": "1_timothy-4",
@@ -165,7 +195,13 @@
           "note": "Significa ribellione, allontanamento o defezione; usato qui per indicare l'abbandono della fede per seguire insegnamenti ingannevoli."
         }
       ],
-      "keyTakeaway": "Paolo mette in guardia contro l'apostasia causata da insegnamenti ascetici falsi e incarica Timoteo di esercitarsi nella pietà, essere di esempio, usare il suo dono e vigilare sul suo insegnamento."
+      "keyTakeaway": "Paolo mette in guardia contro l'apostasia causata da insegnamenti ascetici falsi e incarica Timoteo di esercitarsi nella pietà, essere di esempio, usare il suo dono e vigilare sul suo insegnamento.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esortazioni rivolte a Timoteo"
+        }
+      ]
     },
     {
       "id": "1_timothy-5",
@@ -212,7 +248,13 @@
           "note": "Espressione che indica sia rispetto sia sostegno materiale; applicata agli anziani che si affaticano nella predicazione e nell'insegnamento."
         }
       ],
-      "keyTakeaway": "A Timoteo vengono date istruzioni su come trattare diversi gruppi nella chiesa, tra cui anziani, vedove e responsabili, con indicazioni su come riconoscere le vedove bisognose, sostenere i familiari, retribuire gli anziani laboriosi e gestire le accuse contro i responsabili; gli viene inoltre raccomandato di agire con imparzialità e integrità personale nell'applicare queste direttive."
+      "keyTakeaway": "A Timoteo vengono date istruzioni su come trattare diversi gruppi nella chiesa, tra cui anziani, vedove e responsabili, con indicazioni su come riconoscere le vedove bisognose, sostenere i familiari, retribuire gli anziani laboriosi e gestire le accuse contro i responsabili; gli viene inoltre raccomandato di agire con imparzialità e integrità personale nell'applicare queste direttive.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il servitore di Dio e i membri della chiesa"
+        }
+      ]
     },
     {
       "id": "1_timothy-6",
@@ -255,7 +297,17 @@
           "note": "Espressione che indica sia rispetto sia sostegno materiale; applicata agli anziani che si affaticano nella predicazione e nell'insegnamento."
         }
       ],
-      "keyTakeaway": "Paolo istruisce Timoteo sul comportamento appropriato tra schiavi e padroni, mette in guardia contro i falsi insegnanti che alimentano controversie e avidità, e lo esorta a perseguire la giustizia raccomandando ai ricchi di essere generosi piuttosto che arroganti. Sottolinea che la pietà con la contentezza è un grande guadagno, che l'amore per il denaro conduce alla rovina, e invita Timoteo a custodire la fede contro la falsa conoscenza."
+      "keyTakeaway": "Paolo istruisce Timoteo sul comportamento appropriato tra schiavi e padroni, mette in guardia contro i falsi insegnanti che alimentano controversie e avidità, e lo esorta a perseguire la giustizia raccomandando ai ricchi di essere generosi piuttosto che arroganti. Sottolinea che la pietà con la contentezza è un grande guadagno, che l'amore per il denaro conduce alla rovina, e invita Timoteo a custodire la fede contro la falsa conoscenza.",
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "I falsi dottori; l’amore del denaro"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Raccomandazioni rivolte a Timoteo"
+        }
+      ]
     }
   ]
 }

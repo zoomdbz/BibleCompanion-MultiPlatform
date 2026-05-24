@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">以斯帖禁食</string>
     <string name="feast_fast_esther_ref">以斯帖記 4:16</string>
 
+    <!-- 愛色尼／聖殿書卷／禧年書節期 -->
+    <string name="feast_new_wine_name">新酒節</string>
+    <string name="feast_new_oil_name">新油節</string>
+    <string name="feast_memorial_q2_name">第二記念日</string>
+    <string name="feast_memorial_q4_name">第四記念日</string>
+    <string name="essene_calendar_label">愛色尼</string>
+
     <!-- Prophecy -->
     <string name="prophecy">預言</string>
     <string name="prophecy_subtitle">探索貫穿聖經的預言線索; 從彌賽亞應驗到啟示錄的節期。</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">被釘十字架</string>
     <string name="feast_typology_unleavened_name">除酵節（尼散月15日）</string>
     <string name="feast_typology_unleavened_meaning">埋葬／無罪</string>
-    <string name="feast_typology_firstfruits_name">初熟節（尼散月16日）</string>
+    <string name="feast_typology_firstfruits_name">初熟節</string>
     <string name="feast_typology_firstfruits_meaning">復活</string>
-    <string name="feast_typology_weeks_name">七七節／五旬節（西彎月6日）</string>
+    <string name="feast_typology_weeks_name">七七節／五旬節</string>
     <string name="feast_typology_weeks_meaning">聖靈降臨</string>
     <string name="feast_typology_trumpets_name">吹角節（提斯利月1日）</string>
     <string name="feast_typology_trumpets_meaning">再臨／被提</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">經節</string>
     <string name="verses_label">節</string>
     <string name="search_searching">搜尋中…</string>
+    <string name="intro_short">簡介</string>
+    <string name="intro_section_header">本卷簡介</string>
+    <string name="tts_read_intros">TTS 朗讀本卷簡介</string>
 </resources>

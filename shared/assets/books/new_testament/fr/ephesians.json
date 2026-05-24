@@ -55,7 +55,17 @@
           "note": "Sceau : marque de propriété ou d'authenticité. Gage : acompte ou premier versement ; l'Esprit comme premier acompte de l'héritage complet."
         }
       ],
-      "keyTakeaway": "Paul salue les saints et proclame des bénédictions en Christ : élection, adoption, rédemption, révélation du plan de Dieu, héritage et sceau de l'Esprit."
+      "keyTakeaway": "Paul salue les saints et proclame des bénédictions en Christ : élection, adoption, rédemption, révélation du plan de Dieu, héritage et sceau de l'Esprit.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adresse et salutation"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Bénédictions de Dieu en Jésus-Christ, auteur de notre rédemption et chef de l’Église"
+        }
+      ]
     },
     {
       "id": "ephesians-2",
@@ -109,7 +119,17 @@
           "note": "Littéralement 'quelque chose de fabriqué' ; utilisé pour les croyants en tant que création de Dieu en Christ."
         }
       ],
-      "keyTakeaway": "Les croyants, autrefois morts dans le péché, sont rendus vivants et élevés avec Christ ; le salut vient de la grâce de Dieu par la foi, non par les œuvres, et se traduit par une vie dans les bonnes œuvres que Dieu a préparées."
+      "keyTakeaway": "Les croyants, autrefois morts dans le péché, sont rendus vivants et élevés avec Christ ; le salut vient de la grâce de Dieu par la foi, non par les œuvres, et se traduit par une vie dans les bonnes œuvres que Dieu a préparées.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le salut par la grâce"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Les païens et les Juifs unis ensemble avec Dieu par la croix de Christ"
+        }
+      ]
     },
     {
       "id": "ephesians-3",
@@ -157,7 +177,13 @@
           "note": "Termes désignant des puissances spirituelles ou cosmiques ; Paul souligne que la sagesse de Dieu leur est manifestée par l'Église."
         }
       ],
-      "keyTakeaway": "Paul expose sa mission reçue de Dieu : le mystère révélé que les nations sont cohéritières en Christ, proclamé par l'évangile, manifestant la sagesse de Dieu aux puissances célestes."
+      "keyTakeaway": "Paul expose sa mission reçue de Dieu : le mystère révélé que les nations sont cohéritières en Christ, proclamé par l'évangile, manifestant la sagesse de Dieu aux puissances célestes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le mystère de la vocation des païens. Immensité de l’amour de Christ"
+        }
+      ]
     },
     {
       "id": "ephesians-4",
@@ -211,7 +237,17 @@
           "note": "Verbes courants pour monter ou descendre ; Paul les applique à la descente et à l'exaltation de Christ."
         }
       ],
-      "keyTakeaway": "Paul appelle à l'unité dans l'Esprit et explique que Christ accorde des dons variés pour équiper l'Église et la faire croître jusqu'à la maturité en tant que son corps."
+      "keyTakeaway": "Paul appelle à l'unité dans l'Esprit et explique que Christ accorde des dons variés pour équiper l'Église et la faire croître jusqu'à la maturité en tant que son corps.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’unité de la foi"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La sainteté chrétienne, opposée aux mœurs corrompues des païens"
+        }
+      ]
     },
     {
       "id": "ephesians-5",
@@ -271,7 +307,13 @@
           "note": "Expression figurée pour ceux qui sont transformés par Christ, vivant dans la vérité et la sainteté."
         }
       ],
-      "keyTakeaway": "Les croyants doivent marcher dans l'amour, la lumière et la sagesse, éviter l'impureté et l'idolâtrie, être remplis de l'Esprit dans le culte et la soumission mutuelle."
+      "keyTakeaway": "Les croyants doivent marcher dans l'amour, la lumière et la sagesse, éviter l'impureté et l'idolâtrie, être remplis de l'Esprit dans le culte et la soumission mutuelle.",
+      "headings": [
+        {
+          "beforeVerse": 21,
+          "text": "Les devoirs domestiques"
+        }
+      ]
     },
     {
       "id": "ephesians-6",
@@ -322,7 +364,17 @@
           "note": "Expression tirée de Genèse 2:24 décrivant l'union conjugale."
         }
       ],
-      "keyTakeaway": "Paul donne des instructions aux femmes, aux maris, aux enfants, aux parents, aux esclaves et aux maîtres sur des relations modelées selon l'amour et l'autorité du Christ."
+      "keyTakeaway": "Paul donne des instructions aux femmes, aux maris, aux enfants, aux parents, aux esclaves et aux maîtres sur des relations modelées selon l'amour et l'autorité du Christ.",
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Les armes spirituelles du chrétien"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Envoi de l’épître par Tychique. Salutation"
+        }
+      ]
     }
   ]
 }

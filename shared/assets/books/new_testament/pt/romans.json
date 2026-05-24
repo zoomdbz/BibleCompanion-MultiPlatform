@@ -64,7 +64,29 @@
           "note": "Designação em poder ligada à ressurreição (1:4)."
         }
       ],
-      "keyTakeaway": "Paulo abre com uma saudação que identifica o evangelho prometido nas Escrituras, centrado em Jesus, Filho de Davi e Filho de Deus em poder, e se dirige aos santos chamados em Roma."
+      "keyTakeaway": "Paulo abre com uma saudação que identifica o evangelho prometido nas Escrituras, centrado em Jesus, Filho de Davi e Filho de Deus em poder, e se dirige aos santos chamados em Roma.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "O amor de Paulo pelos cristãos de Roma. Seu desejo de vê-los"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "O assunto da epístola: a justiça pela fé em Jesus Cristo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A idolatria e depravação dos homens"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Entregues os gentios a reprováveis sentimentos"
+        }
+      ]
     },
     {
       "id": "romans-2",
@@ -125,7 +147,21 @@
           "note": "Expressão usada para os gentios que fazem o que a lei exige (2:14)."
         }
       ],
-      "keyTakeaway": "O julgamento de Deus é imparcial; ouvir a lei não basta; o que importa é praticá-la; a consciência testemunha entre os gentios; os segredos serão julgados por Jesus Cristo."
+      "keyTakeaway": "O julgamento de Deus é imparcial; ouvir a lei não basta; o que importa é praticá-la; a consciência testemunha entre os gentios; os segredos serão julgados por Jesus Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os gentios e os judeus igualmente culpados. O juízo de Deus"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Os judeus são indesculpáveis"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "O verdadeiro israelita"
+        }
+      ]
     },
     {
       "id": "romans-3",
@@ -188,7 +224,25 @@
           "note": "Contraste-chave em 3:3–4."
         }
       ],
-      "keyTakeaway": "A vantagem judaica inclui ser encarregado das palavras de Deus; Deus permanece fiel apesar da infidelidade humana; justificativas para o pecado são rejeitadas."
+      "keyTakeaway": "A vantagem judaica inclui ser encarregado das palavras de Deus; Deus permanece fiel apesar da infidelidade humana; justificativas para o pecado são rejeitadas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo responde a objeções"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Todos os homens na condição de pecadores"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "O judeu não constitui exceção"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "A justificação pela fé em Jesus Cristo"
+        }
+      ]
     },
     {
       "id": "romans-4",
@@ -245,7 +299,13 @@
           "note": "Linguagem do Salmo 32 citada por Paulo (4:6–8)."
         }
       ],
-      "keyTakeaway": "Gênesis 15:6 é central: a fé de Abraão foi considerada justiça antes da circuncisão; a circuncisão veio depois como sinal e selo."
+      "keyTakeaway": "Gênesis 15:6 é central: a fé de Abraão foi considerada justiça antes da circuncisão; a circuncisão veio depois como sinal e selo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abraão justificado pela fé"
+        }
+      ]
     },
     {
       "id": "romans-5",
@@ -298,7 +358,17 @@
           "note": "Descreve o amor de Deus dado pelo Espírito Santo (5:5)."
         }
       ],
-      "keyTakeaway": "Justificados pela fé, os crentes têm paz e acesso à graça; o amor de Deus é demonstrado na morte de Cristo pelos pecadores, trazendo reconciliação e esperança."
+      "keyTakeaway": "Justificados pela fé, os crentes têm paz e acesso à graça; o amor de Deus é demonstrado na morte de Cristo pelos pecadores, trazendo reconciliação e esperança.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A justificação pela fé e paz com Deus"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Adão e Cristo"
+        }
+      ]
     },
     {
       "id": "romans-6",
@@ -353,7 +423,17 @@
           "note": "Declaração de condição em 6:14."
         }
       ],
-      "keyTakeaway": "O batismo em Cristo é descrito como participação em sua morte e ressurreição, resultando em nova vida e recusa em deixar o pecado reinar."
+      "keyTakeaway": "O batismo em Cristo é descrito como participação em sua morte e ressurreição, resultando em nova vida e recusa em deixar o pecado reinar.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Livres do pecado pela graça"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A lei, a escravidão e a graça"
+        }
+      ]
     },
     {
       "id": "romans-7",
@@ -410,7 +490,17 @@
           "note": "Modos contrastantes de serviço (7:6)."
         }
       ],
-      "keyTakeaway": "Usando uma ilustração do casamento, Paulo diz que os que morreram com Cristo foram libertados da autoridade vinculante da lei para pertencer ao ressurreto e servir no novo caminho do Espírito."
+      "keyTakeaway": "Usando uma ilustração do casamento, Paulo diz que os que morreram com Cristo foram libertados da autoridade vinculante da lei para pertencer ao ressurreto e servir no novo caminho do Espírito.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A analogia do casamento"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "A lei e o pecado"
+        }
+      ]
     },
     {
       "id": "romans-8",
@@ -481,7 +571,29 @@
           "note": "O que a lei exigia, cumprido nos que andam segundo o Espírito (8:4)."
         }
       ],
-      "keyTakeaway": "Em Cristo não há condenação; Deus condena o pecado e liberta pelo Espírito, contrastando carne e Espírito, e promete vida aos corpos mortais."
+      "keyTakeaway": "Em Cristo não há condenação; Deus condena o pecado e liberta pelo Espírito, contrastando carne e Espírito, e promete vida aos corpos mortais.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Nenhuma condenação. O pendor do Espírito"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Filhos e herdeiros"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Os sofrimentos do presente e as glórias do porvir"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "A intercessão do Espírito"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "As provas e a certeza do amor de Deus"
+        }
+      ]
     },
     {
       "id": "romans-9",
@@ -546,7 +658,29 @@
           "note": "Citação de Malaquias. 'Rejeitei' é um idioma semítico que contrasta preferência ou rejeição."
         }
       ],
-      "keyTakeaway": "Paulo expressa tristeza por Israel e explica que o propósito de Deus na eleição se manifesta na escolha de Isaque e Jacó, e não apenas na descendência física."
+      "keyTakeaway": "Paulo expressa tristeza por Israel e explica que o propósito de Deus na eleição se manifesta na escolha de Isaque e Jacó, e não apenas na descendência física.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo e a incredulidade dos judeus"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "A rejeição de Israel não é incompatível com as promessas de Deus"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A rejeição de Israel não é incompatível com a justiça de Deus"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "A soberania de Deus"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Israel é responsável pela sua rejeição"
+        }
+      ]
     },
     {
       "id": "romans-10",
@@ -595,7 +729,17 @@
           "note": "Reconhecer ou declarar abertamente; aqui a confissão de Jesus como Senhor."
         }
       ],
-      "keyTakeaway": "Paulo contrasta a busca de Israel pela lei com a fé dos gentios, cita a pedra de tropeço e declara que a salvação vem por confessar Jesus como Senhor e crer que Deus o ressuscitou."
+      "keyTakeaway": "Paulo contrasta a busca de Israel pela lei com a fé dos gentios, cita a pedra de tropeço e declara que a salvação vem por confessar Jesus como Senhor e crer que Deus o ressuscitou.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os judeus rejeitam a justiça de Deus"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Israel não pode alegar falta de oportunidade"
+        }
+      ]
     },
     {
       "id": "romans-11",
@@ -659,7 +803,25 @@
           "note": "Metáfora hortícola para inserir ramos em outra árvore; usada aqui para gentios unidos às promessas de Israel."
         }
       ],
-      "keyTakeaway": "Paulo ensina que Deus não rejeitou Israel; um remanescente permanece, os gentios são enxertados e os ramos naturais podem ser restaurados."
+      "keyTakeaway": "Paulo ensina que Deus não rejeitou Israel; um remanescente permanece, os gentios são enxertados e os ramos naturais podem ser restaurados.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O futuro de Israel"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "A rejeição de Israel não é final"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "O último desígnio de Deus é misericórdia para com todos"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A maravilhosa sabedoria dos desígnios divinos"
+        }
+      ]
     },
     {
       "id": "romans-12",
@@ -708,7 +870,21 @@
           "note": "Expressão que pode significar serviço racional, razoável ou espiritual."
         }
       ],
-      "keyTakeaway": "Paulo exorta os crentes a se apresentarem como sacrifícios vivos, usarem seus dons e praticarem amor genuíno, humildade, serviço e paz, vencendo o mal com o bem."
+      "keyTakeaway": "Paulo exorta os crentes a se apresentarem como sacrifícios vivos, usarem seus dons e praticarem amor genuíno, humildade, serviço e paz, vencendo o mal com o bem.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A nova vida"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "O devido uso de dons espirituais"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "As virtudes recomendadas"
+        }
+      ]
     },
     {
       "id": "romans-13",
@@ -750,7 +926,21 @@
           "note": "Metáfora para conduta moral que convém ao dia, em contraste com as trevas."
         }
       ],
-      "keyTakeaway": "Paulo exorta os crentes a se submeterem às autoridades, a se amarem uns aos outros como cumprimento da lei e a viverem na luz, pois o dia se aproxima, revestindo-se de Cristo."
+      "keyTakeaway": "Paulo exorta os crentes a se submeterem às autoridades, a se amarem uns aos outros como cumprimento da lei e a viverem na luz, pois o dia se aproxima, revestindo-se de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Da obediência às autoridades"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "O amor ao próximo é o cumprimento da lei"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "O dia está próximo"
+        }
+      ]
     },
     {
       "id": "romans-14",
@@ -801,7 +991,17 @@
           "note": "Termo para o que é ritual ou moralmente impuro; Paulo afirma que nada é impuro por natureza, mas a percepção importa."
         }
       ],
-      "keyTakeaway": "Paulo exorta os crentes a se aceitarem mutuamente, a evitarem julgamentos e a não causarem tropeço uns aos outros por causa de alimentos ou dias, pois o reino de Deus é justiça, paz e alegria no Espírito Santo."
+      "keyTakeaway": "Paulo exorta os crentes a se aceitarem mutuamente, a evitarem julgamentos e a não causarem tropeço uns aos outros por causa de alimentos ou dias, pois o reino de Deus é justiça, paz e alegria no Espírito Santo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A tolerância para com os fracos na fé"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A liberdade e a caridade"
+        }
+      ]
     },
     {
       "id": "romans-15",
@@ -862,7 +1062,25 @@
           "note": "Imagem messiânica para o descendente de Jessé que reinará e trará esperança aos gentios."
         }
       ],
-      "keyTakeaway": "Paulo exorta a suportar os fracos, a acolher uns aos outros e demonstra pelas Escrituras que Cristo é a esperança tanto dos judeus quanto dos gentios."
+      "keyTakeaway": "Paulo exorta a suportar os fracos, a acolher uns aos outros e demonstra pelas Escrituras que Cristo é a esperança tanto dos judeus quanto dos gentios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A imitação a Cristo. A simpatia e o altruísmo"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A explicação de Paulo"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Os planos de Paulo"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Paulo pede as orações"
+        }
+      ]
     },
     {
       "id": "romans-16",
@@ -927,6 +1145,28 @@
           "term": "Mistério",
           "original": "Hebrew: רָז (sense) — Greek: μυστήριον (NT) — Aramaic: רָזָא",
           "note": "Aqui se refere ao evangelho oculto em eras passadas, mas agora revelado por meio de Cristo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo recomenda a Febe"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "As saudações pessoais"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "As admoestações"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "As saudações dos companheiros"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "A doxologia"
         }
       ]
     }

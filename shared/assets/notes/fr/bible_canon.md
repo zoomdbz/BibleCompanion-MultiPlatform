@@ -95,7 +95,7 @@ Le Saint-Esprit est pleinement Dieu, égal au Père et au Fils.
 
 ---
 
-### Les conciles régionaux du canon
+## Les conciles régionaux du canon
 
 ### Concile d’Hippone (393 apr. J.-C.)
 

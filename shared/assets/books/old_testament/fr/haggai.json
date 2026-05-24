@@ -52,7 +52,13 @@
           "note": "Désignée comme envoyée par Dieu pour frustrer un travail centré sur soi (1:11)."
         }
       ],
-      "keyTakeaway": "Dieu dénonce les mauvaises priorités, explique la sécheresse, promet sa présence et pousse dirigeants et peuple à reprendre les travaux du temple."
+      "keyTakeaway": "Dieu dénonce les mauvaises priorités, explique la sécheresse, promet sa présence et pousse dirigeants et peuple à reprendre les travaux du temple.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Exhortation à rebâtir le temple de Jérusalem"
+        }
+      ]
     },
     {
       "id": "haggai-2",
@@ -112,7 +118,21 @@
           "note": "Plénitude et bien-être promis « en ce lieu » (2:9)."
         }
       ],
-      "keyTakeaway": "À un reste découragé, Dieu promet sa présence et un futur ébranlement qui amènera des richesses, annonçant une gloire et une paix plus grandes dans sa maison."
+      "keyTakeaway": "À un reste découragé, Dieu promet sa présence et un futur ébranlement qui amènera des richesses, annonçant une gloire et une paix plus grandes dans sa maison.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La gloire du second temple"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Bénédiction promise"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Destruction des ennemis, et élévation de Zorobabel"
+        }
+      ]
     }
   ]
 }

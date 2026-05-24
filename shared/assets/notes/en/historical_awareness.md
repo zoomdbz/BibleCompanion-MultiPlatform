@@ -135,7 +135,7 @@ The *Book of Enoch* was widely read in Jewish and Christian communities, directl
 
 * **3 Enoch (Hebrew Enoch):** A later Rabbinic text (~5th–6th century AD). Here, Enoch is transformed into the angel Metatron, chief of heaven’s hosts. It reflects Jewish mysticism and Kabbalah, not early Christian or Second Temple tradition.
 
-### For prophecy, only **1 Enoch** lines up with Genesis, Revelation, and Jude.
+**For prophecy, only **1 Enoch** lines up with Genesis, Revelation, and Jude.**
 
 ---
 
@@ -241,7 +241,7 @@ Enoch is not fringe; it’s central. **1 Enoch** clarifies Genesis, deepens Reve
 
 ---
 
-### **Biblical Appointed Times vs Borrowed Traditions**
+**Biblical Appointed Times vs Borrowed Traditions**
 
 While many modern observances grew from syncretism, Scripture defines specific *moedim* (appointed times) established by God in (Leviticus 23). These are not cultural holidays but divine appointments revealing the pattern of redemption fulfilled in the Messiah. The early believers continued to honor these feasts as part of God’s covenant rhythm (Acts 2:1) (Acts 20:6) (Acts 20:16) (1 Corinthians 5:8). Later centuries, especially under Roman rule, replaced these with civil and seasonal substitutes to align with empire culture rather than Scripture.
 

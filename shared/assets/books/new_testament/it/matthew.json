@@ -48,7 +48,17 @@
           "note": "Significa 'unto.' Matteo identifica Gesu con questo titolo in 1:1-16."
         }
       ],
-      "keyTakeaway": "Matteo traccia la genealogia di Gesù da Abramo, Davide e l'esilio fino a Giuseppe e Maria in tre serie di quattordici generazioni."
+      "keyTakeaway": "Matteo traccia la genealogia di Gesù da Abramo, Davide e l'esilio fino a Giuseppe e Maria in tre serie di quattordici generazioni.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Genealogia di Gesù Cristo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Nascita di Gesù Cristo"
+        }
+      ]
     },
     {
       "id": "matthew-2",
@@ -103,7 +113,25 @@
           "note": "Segno celeste visto dai Magi."
         }
       ],
-      "keyTakeaway": "I Magi seguono una stella fino a Betlemme, adorano il bambino Gesù con doni e, avvertiti in sogno, evitano di tornare da Erode."
+      "keyTakeaway": "I Magi seguono una stella fino a Betlemme, adorano il bambino Gesù con doni e, avvertiti in sogno, evitano di tornare da Erode.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Arrivo dei magi"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Fuga in Egitto"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Erode fa uccidere i bambini innocenti"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Giuseppe ritorna dall’Egitto e si stabilisce a Nazaret"
+        }
+      ]
     },
     {
       "id": "matthew-3",
@@ -169,7 +197,17 @@
           "note": "Espressione di Matteo parallela a 'regno di Dio,' rispettosa dell'uso ebraico."
         }
       ],
-      "keyTakeaway": "Giovanni predica il ravvedimento e battezza nel Giordano; Gesù viene battezzato, lo Spirito discende e la voce di Dio lo dichiara il Figlio amato."
+      "keyTakeaway": "Giovanni predica il ravvedimento e battezza nel Giordano; Gesù viene battezzato, lo Spirito discende e la voce di Dio lo dichiara il Figlio amato.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Predicazione di Giovanni il battista"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Battesimo di Gesù"
+        }
+      ]
     },
     {
       "id": "matthew-4",
@@ -227,7 +265,25 @@
           "note": "Formula che introduce citazioni scritturali."
         }
       ],
-      "keyTakeaway": "Gesù resiste a tre tentazioni citando le Scritture e rifiuta di adorare chiunque non sia Dio."
+      "keyTakeaway": "Gesù resiste a tre tentazioni citando le Scritture e rifiuta di adorare chiunque non sia Dio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tentazione di Gesù"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Inizio dell’attività di Gesù a Capernaum"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Chiamata dei primi discepoli"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Missione di Gesù in Galilea"
+        }
+      ]
     },
     {
       "id": "matthew-5",
@@ -302,7 +358,37 @@
           "note": "Linguaggio di somiglianza/riconoscimento familiare."
         }
       ],
-      "keyTakeaway": "Gesù proclama benedizioni su coloro che vivono in accordo con le vie di Dio, concludendo con l'invito a rallegrarsi nelle persecuzioni."
+      "keyTakeaway": "Gesù proclama benedizioni su coloro che vivono in accordo con le vie di Dio, concludendo con l'invito a rallegrarsi nelle persecuzioni.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il sermone sul monte, 5–7 Le beatitudini"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Il sale della terra; la luce del mondo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Cristo e la legge antica"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Ingiuria, offerta, perdono"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Concupiscenza, ripudio, adulterio"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Istruzioni sul giuramento"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Amare i propri nemici"
+        }
+      ]
     },
     {
       "id": "matthew-6",
@@ -373,7 +459,29 @@
           "note": "La preghiera chiede di essere liberati dalla prova/tentazione e 'dal maligno' (τοῦ πονηροῦ)."
         }
       ],
-      "keyTakeaway": "Dai, prega e digiuna per il Padre, non per essere visto dagli altri. Gesù propone una preghiera semplice e collega il ricevere il perdono al perdonare gli altri."
+      "keyTakeaway": "Dai, prega e digiuna per il Padre, non per essere visto dagli altri. Gesù propone una preghiera semplice e collega il ricevere il perdono al perdonare gli altri.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Condanna del formalismo religioso"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Istruzioni di Gesù sulla preghiera"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Il digiuno"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Un tesoro in cielo"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Le preoccupazioni"
+        }
+      ]
     },
     {
       "id": "matthew-7",
@@ -434,7 +542,29 @@
           "note": "La Regola d'Oro presentata come loro sintesi etica (7:12)."
         }
       ],
-      "keyTakeaway": "Evitare il giudizio condannatorio; praticare l'autoesame, il discernimento, la preghiera perseverante e la Regola d'oro che riassume l'esigenza etica della Scrittura."
+      "keyTakeaway": "Evitare il giudizio condannatorio; praticare l'autoesame, il discernimento, la preghiera perseverante e la Regola d'oro che riassume l'esigenza etica della Scrittura.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Non giudicare gli altri"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "La preghiera e il suo esaudimento"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La regola per eccellenza; le due vie"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "I falsi profeti"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Le due case"
+        }
+      ]
     },
     {
       "id": "matthew-8",
@@ -500,7 +630,33 @@
           "note": "Il racconto usa entrambi i termini nella tradizione; entrambi indicano il subordinato bisognoso del centurione."
         }
       ],
-      "keyTakeaway": "Gesù guarisce con il tocco e con la parola, anche a distanza, e adempie la Scrittura riguardo al portare le nostre malattie."
+      "keyTakeaway": "Gesù guarisce con il tocco e con la parola, anche a distanza, e adempie la Scrittura riguardo al portare le nostre malattie.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Guarigione di un lebbroso"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Guarigione del servo di un centurione"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Guarigione della suocera di Pietro"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Come seguire Gesù"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Gesù calma la tempesta"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Guarigione di due indemoniati"
+        }
+      ]
     },
     {
       "id": "matthew-9",
@@ -565,7 +721,33 @@
           "note": "Gesu afferma una reale autorita delegata, dimostrata dal segno della guarigione."
         }
       ],
-      "keyTakeaway": "Gesù collega pubblicamente una guarigione visibile alla sua autorità di perdonare i peccati in quanto Figlio dell'uomo."
+      "keyTakeaway": "Gesù collega pubblicamente una guarigione visibile alla sua autorità di perdonare i peccati in quanto Figlio dell'uomo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Guarigione di un paralitico"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Chiamata di Matteo"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Il digiuno; parabole della stoffa nuova e degli otri nuovi"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Gesù guarisce una donna e risuscita la figlia di Iairo"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Guarigione di due ciechi e di un indemoniato muto"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Compassione di Gesù per la folla"
+        }
+      ]
     },
     {
       "id": "matthew-10",
@@ -634,7 +816,17 @@
           "note": "Demoni/spiriti impuri opposti al governo di Dio."
         }
       ],
-      "keyTakeaway": "Gesù ha compassione delle folle smarrite, chiede di pregare per gli operai e nomina i Dodici con autorità sui demoni e sulle malattie."
+      "keyTakeaway": "Gesù ha compassione delle folle smarrite, chiede di pregare per gli operai e nomina i Dodici con autorità sui demoni e sulle malattie.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La missione dei dodici apostoli"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Le persecuzioni imminenti"
+        }
+      ]
     },
     {
       "id": "matthew-11",
@@ -691,7 +883,21 @@
           "note": "Linguaggio di adempimento del ruolo; Gesu inquadra Giovanni in termini profetici senza cambiare il nome di Giovanni."
         }
       ],
-      "keyTakeaway": "Gesù indica le sue opere come prova per Giovanni, proclama beati coloro che non si scandalizzano di lui, identifica Giovanni con il ruolo promesso di Elia e rimprovera una generazione che rifiuta sia Giovanni che Gesù."
+      "keyTakeaway": "Gesù indica le sue opere come prova per Giovanni, proclama beati coloro che non si scandalizzano di lui, identifica Giovanni con il ruolo promesso di Elia e rimprovera una generazione che rifiuta sia Giovanni che Gesù.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’ambasciata di Giovanni il battista"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Gesù rimprovera le città impenitenti"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "La relazione personale del discepolo con il suo Signore"
+        }
+      ]
     },
     {
       "id": "matthew-12",
@@ -768,7 +974,41 @@
           "note": "Citazione di Osea 6:6, che corregge la condanna legalistica."
         }
       ],
-      "keyTakeaway": "Gesù difende i suoi discepoli, insegna che la misericordia prevale sulla condanna rituale, dichiara la sua signoria sul sabato e guarisce di sabato; gli avversari cominciano a tramare la sua morte."
+      "keyTakeaway": "Gesù difende i suoi discepoli, insegna che la misericordia prevale sulla condanna rituale, dichiara la sua signoria sul sabato e guarisce di sabato; gli avversari cominciano a tramare la sua morte.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù, Signore del sabato"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Guarigione di un uomo dalla mano paralizzata; il giorno del sabato"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Numerose guarigioni"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "I farisei accusano Gesù"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Il peccato imperdonabile; la bestemmia contro lo Spirito Santo"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Il segno di Giona; la regina di Seba"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Il ritorno dello spirito immondo"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "La madre e i fratelli di Gesù"
+        }
+      ]
     },
     {
       "id": "matthew-13",
@@ -852,7 +1092,53 @@
           "note": "Cose nascoste che Dio rivela riguardo al regno."
         }
       ],
-      "keyTakeaway": "Gesù descrive le diverse risposte alla parola e spiega perché insegna con parabole, esortando all'ascolto attento che porta frutto."
+      "keyTakeaway": "Gesù descrive le diverse risposte alla parola e spiega perché insegna con parabole, esortando all'ascolto attento che porta frutto.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le parabole del regno dei cieli; il seminatore e i diversi terreni"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Spiegazione della parabola del seminatore"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "La zizzania e il buon seme"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Il granello di senape"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Il lievito"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Spiegazione della parabola della zizzania"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Il tesoro nascosto"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "La perla di gran valore"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "La rete"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "Il padrone di casa"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "Gesù a Nazaret"
+        }
+      ]
     },
     {
       "id": "matthew-14",
@@ -915,7 +1201,21 @@
           "note": "Un voto vincolante; Erode agisce 'a causa dei giuramenti' (14:9)."
         }
       ],
-      "keyTakeaway": "Giovanni viene giustiziato da Erode dopo che Giovanni aveva pubblicamente condannato il suo matrimonio; la notizia giunge a Gesù."
+      "keyTakeaway": "Giovanni viene giustiziato da Erode dopo che Giovanni aveva pubblicamente condannato il suo matrimonio; la notizia giunge a Gesù.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Martirio di Giovanni il battista"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Moltiplicazione dei pani per cinquemila uomini"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Gesù cammina sul mare; guarigioni a Gennesaret"
+        }
+      ]
     },
     {
       "id": "matthew-15",
@@ -986,7 +1286,29 @@
           "note": "Atti morali espliciti nominati da Gesù come contaminanti."
         }
       ],
-      "keyTakeaway": "Gesù contrappone la tradizione umana al comandamento di Dio e insegna che la contaminazione viene dal cuore, non dal mangiare con le mani non lavate."
+      "keyTakeaway": "Gesù contrappone la tradizione umana al comandamento di Dio e insegna che la contaminazione viene dal cuore, non dal mangiare con le mani non lavate.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I farisei e la tradizione"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Giudizio sul cuore umano"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Gesù e la donna cananea"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Altre guarigioni"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Moltiplicazione dei pani per quattromila uomini"
+        }
+      ]
     },
     {
       "id": "matthew-16",
@@ -1041,7 +1363,25 @@
           "note": "In Matteo 12:40, collegato a 'tre giorni e tre notti'; qui menzionato brevemente."
         }
       ],
-      "keyTakeaway": "Gesù rifiuta di dare un segno, rimanda al «segno di Giona» e mette in guardia contro l'insegnamento dei capi, usando il «lievito» come immagine."
+      "keyTakeaway": "Gesù rifiuta di dare un segno, rimanda al «segno di Giona» e mette in guardia contro l'insegnamento dei capi, usando il «lievito» come immagine.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù rimprovera i farisei"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Pietro riconosce in Gesù il Cristo"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Gesù annuncia la sua morte e la sua risurrezione"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Il prezzo del discepolato"
+        }
+      ]
     },
     {
       "id": "matthew-17",
@@ -1088,6 +1428,10 @@
         {
           "ref": "17:21",
           "text": "Or questa generazione di demoni non esce fuori, se non per orazione, e per digiuno."
+        },
+        {
+          "ref": "Matthew 17:21",
+          "text": "Alcuni manoscritti tardivi aggiungono qui un versetto 21: «Ma questa specie di demoni non esce se non per mezzo della preghiera e del digiuno». I testimoni greci più antichi e affidabili, tra cui il Codice Sinaitico (א), il Vaticano (B) e il Codice Z, lo omettono. La maggior parte degli studiosi lo considera un’armonizzazione tratta dal passo parallelo di Marco 9:29."
         }
       ],
       "translationNotes": [
@@ -1100,6 +1444,24 @@
           "term": "Figlio diletto... ascoltatelo",
           "original": "Hebrew (echoes): Psalm 2:7; Deut 18:15 (Psalm 2:7; Deut 18:15) — Greek (here): Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός… ἀκούετε αὐτοῦ (Oὗtόs ἐstin ὁ yἱόs mou ὁ ἀgapētόs… ἀkoύete aὐtoῦ) — Aramaic (concept): ברי חביבא… שמעון ליה (ברי חביבא… שמעון ליה)",
           "note": "Affermazione celeste che combina motivi regali/profetici."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La trasfigurazione"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Guarigione di un ragazzo indemoniato"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Gesù predice per la seconda volta la Passione"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Gesù paga la tassa nel tempio"
         }
       ]
     },
@@ -1157,6 +1519,10 @@
         {
           "ref": "18:11",
           "text": "Poichè il Figliuol dell'uomo è venuto per salvar ciò che era perito ."
+        },
+        {
+          "ref": "Matthew 18:11",
+          "text": "Alcuni manoscritti tardivi inseriscono qui un versetto 11: «Poiché il Figlio dell’uomo è venuto a salvare ciò che era perduto». È assente nel Codice Sinaitico, nel Vaticano e nei primi testimoni latini e copti. La frase è quasi certamente migrata in Matteo da Luca 19:10, dove è saldamente attestata come parole di Gesù in casa di Zaccheo."
         }
       ],
       "translationNotes": [
@@ -1174,6 +1540,16 @@
           "term": "Piccoli",
           "original": "Hebrew (concept): קְטַנִּים (qəṭaniym) — Greek: μικροί (mikroί) — Aramaic: זְעֵירִין (זְעֵירִין)",
           "note": "Si riferisce qui ai credenti umili (18:6-14)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’esempio del bambino; non scandalizzare i piccoli"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Il perdono delle offese"
         }
       ]
     },
@@ -1237,7 +1613,21 @@
           "note": "Include chi è fisicamente incapace di sposarsi e chi sceglie il celibato per il regno (19:12)."
         }
       ],
-      "keyTakeaway": "Gesù radica il matrimonio nella creazione, limita il divorzio e riconosce coloro che rimangono celibi per il regno."
+      "keyTakeaway": "Gesù radica il matrimonio nella creazione, limita il divorzio e riconosce coloro che rimangono celibi per il regno.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il ripudio e il celibato"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Gesù benedice i bambini"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Il giovane ricco"
+        }
+      ]
     },
     {
       "id": "matthew-20",
@@ -1303,7 +1693,25 @@
           "note": "Idioma per uno sguardo invidioso/risentito (20:15)."
         }
       ],
-      "keyTakeaway": "Una storia della libertà e generosità del padrone: tutti ricevono il salario concordato; gli ultimi e i primi sono invertiti."
+      "keyTakeaway": "Una storia della libertà e generosità del padrone: tutti ricevono il salario concordato; gli ultimi e i primi sono invertiti.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parabola dei lavoratori delle diverse ore"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Gesù predice la Passione per la terza volta"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Risposta di Gesù alla domanda della madre di Giacomo e di Giovanni"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Due ciechi recuperano la vista"
+        }
+      ]
     },
     {
       "id": "matthew-21",
@@ -1376,7 +1784,33 @@
           "note": "Nome poetico per Gerusalemme (21:5)."
         }
       ],
-      "keyTakeaway": "Gesù entra a Gerusalemme su un asino tra la folla che grida «Osanna», in adempimento della Scrittura sul re che viene."
+      "keyTakeaway": "Gesù entra a Gerusalemme su un asino tra la folla che grida «Osanna», in adempimento della Scrittura sul re che viene.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ingresso di Gesù in Gerusalemme"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Gesù scaccia i mercanti dal tempio"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Il fico sterile"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Dubbio sull’autorità di Gesù"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Parabola dei due figli"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Parabola dei malvagi vignaiuoli"
+        }
+      ]
     },
     {
       "id": "matthew-22",
@@ -1448,7 +1882,29 @@
           "note": "Immagine ricorrente di giudizio in Matteo (22:13)."
         }
       ],
-      "keyTakeaway": "I primi invitati rifiutano e aggrediscono i messaggeri; altri vengono chiamati al loro posto. Uno privo dell'abito nuziale viene espulso."
+      "keyTakeaway": "I primi invitati rifiutano e aggrediscono i messaggeri; altri vengono chiamati al loro posto. Uno privo dell'abito nuziale viene espulso.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parabola delle nozze"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Il tributo a Cesare"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Dibattito sulla risurrezione"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Il gran comandamento"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Gesù interroga i farisei"
+        }
+      ]
     },
     {
       "id": "matthew-23",
@@ -1506,6 +1962,10 @@
         {
           "ref": "23:14",
           "text": "Guai a voi, Scribi e Farisei ipocriti! perciocchè voi divorate le case delle vedove ; e ciò , sotto specie di far lunghe orazioni; perciò, voi riceverete maggior condannazione."
+        },
+        {
+          "ref": "Matthew 23:14",
+          "text": "Alcuni manoscritti tardivi aggiungono qui un versetto 14: «Guai a voi, scribi e farisei ipocriti, perché divorate le case delle vedove e per mostra fate lunghe preghiere; per questo riceverete una condanna più grave». Manca nel Sinaitico, nel Vaticano e nelle copie greche più antiche, e fu quasi certamente inserito in seguito per armonizzare Matteo con la stessa accusa in Marco 12:40 e Luca 20:47."
         }
       ],
       "translationNotes": [
@@ -1518,6 +1978,16 @@
           "term": "Rabbi / Padre / Guida",
           "original": "Hebrew: רַבִּי (rabbi, ‘my great/teacher’), אָב (’av, ‘father’) — Greek: ῥαββί / πατήρ / καθηγητής (ῥabbί / patήr / kathēgētήs) — Aramaic: רבי / אבא / מַלְפָּנָא (malpānā)",
           "note": "Titoli onorifici trattati nell'insegnamento di Gesù (23:8-10)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù condanna gli scribi e i farisei"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Il lamento di Gesù su Gerusalemme"
         }
       ]
     },
@@ -1602,7 +2072,17 @@
           "note": "Compimento/traguardo; qui, dell'era (24:3-14)."
         }
       ],
-      "keyTakeaway": "Gesù elenca inganni, guerre, disastri, persecuzioni e amore che si raffredda come inizio dei dolori del parto; la buona notizia sarà proclamata a tutte le nazioni."
+      "keyTakeaway": "Gesù elenca inganni, guerre, disastri, persecuzioni e amore che si raffredda come inizio dei dolori del parto; la buona notizia sarà proclamata a tutte le nazioni.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il discorso profetico di Gesù, 24–25 Distruzione di Gerusalemme e venuta del Figlio dell’uomo"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Esortazione alla vigilanza"
+        }
+      ]
     },
     {
       "id": "matthew-25",
@@ -1674,7 +2154,21 @@
           "note": "Dichiarazione di non riconoscimento (25:12)."
         }
       ],
-      "keyTakeaway": "Tenersi pronti prima dell'arrivo; chi si affretta in ritardo trova una porta chiusa."
+      "keyTakeaway": "Tenersi pronti prima dell'arrivo; chi si affretta in ritardo trova una porta chiusa.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parabola delle dieci vergini"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Parabola dei talenti"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Giudizio contro le nazioni"
+        }
+      ]
     },
     {
       "id": "matthew-26",
@@ -1781,7 +2275,49 @@
           "note": "Probabilmente un cognome geografico; derivazione esatta discussa (26:14)."
         }
       ],
-      "keyTakeaway": "I capi pianificano di uccidere Gesù. Una donna lo unge in vista della sepoltura. Giuda prende denaro per tradirlo."
+      "keyTakeaway": "I capi pianificano di uccidere Gesù. Una donna lo unge in vista della sepoltura. Giuda prende denaro per tradirlo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La Passione, 26–27 La congiura contro Gesù"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Maria di Betania unge il capo a Gesù"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Giuda decide di tradire Gesù"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "L’ultima Pasqua"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "La cena del Signore"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Gesù predice il rinnegamento di Pietro"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Agonia di Gesù nel giardino del Getsemani"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "Arresto di Gesù"
+        },
+        {
+          "beforeVerse": 57,
+          "text": "Gesù davanti a Caiafa e al sinedrio"
+        },
+        {
+          "beforeVerse": 69,
+          "text": "Gesù rinnegato tre volte da Pietro"
+        }
+      ]
     },
     {
       "id": "matthew-27",
@@ -1874,7 +2410,45 @@
           "note": "Nome associato al campo acquistato (cfr. Atti 1:19)."
         }
       ],
-      "keyTakeaway": "Giuda restituisce il denaro e muore; il denaro acquista un campo per sepoltura chiamato Campo di Sangue, collegato a parole profetiche."
+      "keyTakeaway": "Giuda restituisce il denaro e muore; il denaro acquista un campo per sepoltura chiamato Campo di Sangue, collegato a parole profetiche.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù consegnato nelle mani di Pilato"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Vano rimorso di Giuda"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Gesù davanti a Pilato"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Gesù o Barabba?"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Gesù coronato di spine"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "La crocifissione di Gesù"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Morte di Gesù"
+        },
+        {
+          "beforeVerse": 57,
+          "text": "Seppellimento di Gesù"
+        },
+        {
+          "beforeVerse": 62,
+          "text": "Il sepolcro sigillato e custodito"
+        }
+      ]
     },
     {
       "id": "matthew-28",
@@ -1926,7 +2500,17 @@
           "note": "Modo idiomatico per dire domenica (28:1)."
         }
       ],
-      "keyTakeaway": "La tomba viene aperta da un angelo; alle donne viene annunciato che Gesù è risorto. Gesù appare loro e indica ai discepoli di recarsi in Galilea."
+      "keyTakeaway": "La tomba viene aperta da un angelo; alle donne viene annunciato che Gesù è risorto. Gesù appare loro e indica ai discepoli di recarsi in Galilea.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La risurrezione di Gesù"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La missione affidata ai discepoli"
+        }
+      ]
     }
   ]
 }

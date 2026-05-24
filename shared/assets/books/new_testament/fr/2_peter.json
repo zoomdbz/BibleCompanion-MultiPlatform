@@ -48,7 +48,17 @@
           "note": "Termes désignant l'appel de Dieu à la foi et son choix de son peuple ; soulignent la sécurité dans la persévérance dans la foi et la vertu."
         }
       ],
-      "keyTakeaway": "Pierre exhorte les croyants à croître dans les vertus pieuses, en confirmant leur vocation et leur élection, avec l'espérance d'entrer dans le royaume éternel du Christ."
+      "keyTakeaway": "Pierre exhorte les croyants à croître dans les vertus pieuses, en confirmant leur vocation et leur élection, avec l'espérance d'entrer dans le royaume éternel du Christ.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adresse et salutation"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "La pratique des vertus chrétiennes"
+        }
+      ]
     },
     {
       "id": "2_peter-2",
@@ -92,7 +102,13 @@
           "note": "Désigne des enseignements divisifs et destructeurs qui s'écartent de la vérité et mènent à la ruine."
         }
       ],
-      "keyTakeaway": "Pierre met en garde contre les faux docteurs, les comparant à des exemples passés de jugement, et dénonce leur cupidité, leur sensualité et leur destruction inévitable."
+      "keyTakeaway": "Pierre met en garde contre les faux docteurs, les comparant à des exemples passés de jugement, et dénonce leur cupidité, leur sensualité et leur destruction inévitable.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les faux docteurs"
+        }
+      ]
     },
     {
       "id": "2_peter-3",
@@ -137,7 +153,13 @@
           "note": "Figure exprimant le rapport différent de Dieu au temps ; il n'est pas lié à l'échelle humaine des jours et des années."
         }
       ],
-      "keyTakeaway": "Pierre met en garde contre les moqueurs, affirme la patience du Seigneur et décrit le jour du jugement à venir ainsi que la promesse d'une nouvelle création."
+      "keyTakeaway": "Pierre met en garde contre les moqueurs, affirme la patience du Seigneur et décrit le jour du jugement à venir ainsi que la promesse d'une nouvelle création.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’avènement du Seigneur"
+        }
+      ]
     }
   ]
 }

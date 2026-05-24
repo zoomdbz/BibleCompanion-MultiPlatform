@@ -56,7 +56,17 @@
           "note": "Frase de lugar repetida para las actividades descritas en el libro."
         }
       ],
-      "keyTakeaway": "Qohelet enuncia el lema sobre la vanidad, observa ciclos que se repiten, cuestiona el provecho del trabajo bajo el sol y señala que el recuerdo se desvanece."
+      "keyTakeaway": "Qohelet enuncia el lema sobre la vanidad, observa ciclos que se repiten, cuestiona el provecho del trabajo bajo el sol y señala que el recuerdo se desvanece.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Todo es vanidad"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La experiencia del Predicador"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-2",
@@ -180,7 +190,17 @@
           "note": "Resultado declarado en 3:14 respecto a la obra perdurable de Dios."
         }
       ],
-      "keyTakeaway": "Qohelet enumera los tiempos señalados, afirma que la obra perdurable de Dios y el don del gozo coexisten con la incapacidad humana de comprender su obra en su totalidad."
+      "keyTakeaway": "Qohelet enumera los tiempos señalados, afirma que la obra perdurable de Dios y el don del gozo coexisten con la incapacidad humana de comprender su obra en su totalidad.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Todo tiene su tiempo"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Injusticias de la vida"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-4",
@@ -287,7 +307,17 @@
           "note": "Imperativo que cierra el pasaje en 5:7."
         }
       ],
-      "keyTakeaway": "En la casa de Dios se ordenan la escucha y las pocas palabras, y los votos deben cumplirse sin excusa ante el mensajero."
+      "keyTakeaway": "En la casa de Dios se ordenan la escucha y las pocas palabras, y los votos deben cumplirse sin excusa ante el mensajero.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La insensatez de hacer votos a la ligera"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "La vanidad de la vida"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-6",
@@ -409,7 +439,13 @@
           "note": "Declaración sobre la naturaleza inalterable de la obra de Dios (7:13)."
         }
       ],
-      "keyTakeaway": "Esta sección presenta dichos comparativos sobre el luto, la reprensión, la paciencia y el enojo, y afirma que lo que Dios ha torcido no puede enderezarse y que él manda tanto la prosperidad como la adversidad."
+      "keyTakeaway": "Esta sección presenta dichos comparativos sobre el luto, la reprensión, la paciencia y el enojo, y afirma que lo que Dios ha torcido no puede enderezarse y que él manda tanto la prosperidad como la adversidad.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Contraste entre la sabiduría y la insensatez"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-8",
@@ -464,7 +500,13 @@
           "note": "Expresión que indica que no hay exención; el conflicto obliga a los que están involucrados (8:8)."
         }
       ],
-      "keyTakeaway": "Esta unidad instruye a obedecer el mandato del rey, afirma que la sabiduría discierne el tiempo y el juicio, y señala que nadie controla el espíritu ni el día de su muerte; el poder sobre otros puede volverse en su perjuicio."
+      "keyTakeaway": "Esta unidad instruye a obedecer el mandato del rey, afirma que la sabiduría discierne el tiempo y el juicio, y señala que nadie controla el espíritu ni el día de su muerte; el poder sobre otros puede volverse en su perjuicio.",
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Desigualdades de la vida"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-9",
@@ -578,7 +620,13 @@
           "note": "Imagen en 10:11: una serpiente que muerde antes de que se pronuncie el encantamiento no deja beneficio alguno."
         }
       ],
-      "keyTakeaway": "Un hombre pobre y sabio salva una ciudad pero cae en el olvido; proverbios contrastan la sabiduría y la necedad en gobernantes, el habla y el trabajo, y advierten sobre las palabras en privado que llegan a oídos lejanos."
+      "keyTakeaway": "Un hombre pobre y sabio salva una ciudad pero cae en el olvido; proverbios contrastan la sabiduría y la necedad en gobernantes, el habla y el trabajo, y advierten sobre las palabras en privado que llegan a oídos lejanos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Excelencia de la sabiduría"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-11",
@@ -626,7 +674,13 @@
           "note": "El crecimiento en el útero citado como ejemplo de un proceso desconocido (11:5)."
         }
       ],
-      "keyTakeaway": "El pasaje insta a actuar con diligencia y constancia a pesar de la incertidumbre, señalando que los seres humanos no conocen la obra ni los propósitos de Dios."
+      "keyTakeaway": "El pasaje insta a actuar con diligencia y constancia a pesar de la incertidumbre, señalando que los seres humanos no conocen la obra ni los propósitos de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Consejos para la juventud"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-12",
@@ -688,7 +742,13 @@
           "note": "Declaración en 12:7 paralela al polvo que vuelve a la tierra."
         }
       ],
-      "keyTakeaway": "La unidad llama a disfrutar la juventud con conciencia del juicio, a recordar al Creador antes del deterioro, y retrata el envejecimiento y la muerte con imágenes antes de concluir nuevamente con \"vanidad de vanidades\"."
+      "keyTakeaway": "La unidad llama a disfrutar la juventud con conciencia del juicio, a recordar al Creador antes del deterioro, y retrata el envejecimiento y la muerte con imágenes antes de concluir nuevamente con \"vanidad de vanidades\".",
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Resumen del deber del hombre"
+        }
+      ]
     }
   ]
 }

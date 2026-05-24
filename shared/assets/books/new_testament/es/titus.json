@@ -43,7 +43,17 @@
           "note": "Categorías bíblicas de limpio versus inmundo; aquí usadas moral y espiritualmente."
         }
       ],
-      "keyTakeaway": "Pablo encarga a Tito que nombre ancianos calificados y haga callar a los falsos maestros en Creta, contrastando la pureza de la fe con la incredulidad corrompida."
+      "keyTakeaway": "Pablo encarga a Tito que nombre ancianos calificados y haga callar a los falsos maestros en Creta, contrastando la pureza de la fe con la incredulidad corrompida.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Requisitos de ancianos y obispos"
+        }
+      ]
     },
     {
       "id": "titus-2",
@@ -85,7 +95,13 @@
           "note": "Se refiere a la esperanza futura de la gloriosa aparición de Cristo."
         }
       ],
-      "keyTakeaway": "Pablo instructs a Tito que enseñe a distintos grupos a vivir con piedad, fundamentados en la gracia y la redención de Cristo, quien volverá."
+      "keyTakeaway": "Pablo instructs a Tito que enseñe a distintos grupos a vivir con piedad, fundamentados en la gracia y la redención de Cristo, quien volverá.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Enseñanza de la sana doctrina"
+        }
+      ]
     },
     {
       "id": "titus-3",
@@ -132,7 +148,21 @@
           "note": "Término para quien causa facciones; Pablo instruye el rechazo después de advertencias repetidas."
         }
       ],
-      "keyTakeaway": "Pablo exhorta a los creyentes a vivir en paz, recordando la misericordia salvadora de Dios, y a evitar controversias inútiles y personas que causan divisiones."
+      "keyTakeaway": "Pablo exhorta a los creyentes a vivir en paz, recordando la misericordia salvadora de Dios, y a evitar controversias inútiles y personas que causan divisiones.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Justificados por gracia"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Instrucciones personales"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Salutaciones y bendición final"
+        }
+      ]
     }
   ]
 }

@@ -47,7 +47,25 @@
           "note": "Pablo se describe a sí mismo como encarcelado a causa de su servicio a Cristo."
         }
       ],
-      "keyTakeaway": "Pablo saluda a Filemón y da gracias por su amor, su fe y el aliento que ha traído a los santos."
+      "keyTakeaway": "Pablo saluda a Filemón y da gracias por su amor, su fe y el aliento que ha traído a los santos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "El amor y la fe de Filemón"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Pablo intercede por Onésimo"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Salutaciones y bendición final"
+        }
+      ]
     }
   ]
 }

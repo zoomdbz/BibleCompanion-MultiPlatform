@@ -42,7 +42,7 @@ Questa è la linea temporale messianica più precisa nella Bibbia.
 
 L'angelo Gabriele disse a Daniele: **"Settanta settimane sono state fissate riguardo al tuo popolo e alla tua santa città"** (Daniele 9:24). La parola ebraica *shabuim* significa "gruppi di sette": settanta serie di sette anni = **490 anni**.
 
-### Il decreto
+**Il decreto**
 "Dal momento in cui è uscito l'ordine di restaurare e ricostruire Gerusalemme": questo è il decreto di Artaserse a Neemia nel **445 a.C.** (Neemia 2:1–8).
 
 ### La linea temporale

@@ -48,6 +48,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val CROSS_BOOK_TTS = booleanPreferencesKey("cross_book_tts")
         val COLLAPSED_STORIES_JSON = stringPreferencesKey("collapsed_stories_json")
         val AUTO_CONTINUE_TTS = booleanPreferencesKey("auto_continue_tts")
+        val TTS_READ_INTROS = booleanPreferencesKey("tts_read_intros")
         val NOTES_EXPANDED_SECTIONS_JSON = stringPreferencesKey("notes_expanded_sections_json")
         val VOTD_DISMISSED_DATE = stringPreferencesKey("votd_dismissed_date")
         val AI_SEARCH = booleanPreferencesKey("ai_search")
@@ -96,6 +97,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             collapsedStoriesJson = p[Keys.COLLAPSED_STORIES_JSON] ?: "{}",
             autoContinueTts = p[Keys.AUTO_CONTINUE_TTS] ?: true,
             crossBookTts = p[Keys.CROSS_BOOK_TTS] ?: false,
+            ttsReadIntros = p[Keys.TTS_READ_INTROS] ?: false,
             notesExpandedSectionsJson = p[Keys.NOTES_EXPANDED_SECTIONS_JSON] ?: "{}",
             votdDismissedDate = p[Keys.VOTD_DISMISSED_DATE] ?: "",
             aiSearch = p[Keys.AI_SEARCH] ?: true
@@ -181,6 +183,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setAutoContinueTts(enabled: Boolean) =
         context.dataStore.edit { it[Keys.AUTO_CONTINUE_TTS] = enabled }.let { Unit }
+
+    actual suspend fun setTtsReadIntros(enabled: Boolean) =
+        context.dataStore.edit { it[Keys.TTS_READ_INTROS] = enabled }.let { Unit }
 
     actual suspend fun setNotesExpandedSections(json: String) =
         context.dataStore.edit { it[Keys.NOTES_EXPANDED_SECTIONS_JSON] = json }.let { Unit }

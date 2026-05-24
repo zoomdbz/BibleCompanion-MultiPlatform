@@ -55,7 +55,21 @@
           "note": "Sello: marca de propiedad o autenticidad. Garantía: prenda o anticipo; el Espíritu como primera entrega de la herencia plena."
         }
       ],
-      "keyTakeaway": "Pablo saluda a los santos y declara bendiciones en Cristo: elección, adopción, redención, revelación del plan de Dios, herencia y sello del Espíritu."
+      "keyTakeaway": "Pablo saluda a los santos y declara bendiciones en Cristo: elección, adopción, redención, revelación del plan de Dios, herencia y sello del Espíritu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Bendiciones espirituales en Cristo"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "El espíritu de sabiduría y de revelación"
+        }
+      ]
     },
     {
       "id": "ephesians-2",
@@ -109,7 +123,17 @@
           "note": "Literalmente 'algo hecho'; usado para referirse a los creyentes como creación de Dios en Cristo."
         }
       ],
-      "keyTakeaway": "Los creyentes, antes muertos en pecado, son vivificados y exaltados con Cristo; la salvación es por gracia mediante la fe, no por obras, y resulta en una vida de buenas obras que Dios preparó de antemano."
+      "keyTakeaway": "Los creyentes, antes muertos en pecado, son vivificados y exaltados con Cristo; la salvación es por gracia mediante la fe, no por obras, y resulta en una vida de buenas obras que Dios preparó de antemano.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salvos por gracia"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Reconciliación por medio de la cruz"
+        }
+      ]
     },
     {
       "id": "ephesians-3",
@@ -157,7 +181,17 @@
           "note": "Términos para poderes espirituales o cósmicos; Pablo enfatiza que la sabiduría de Dios se muestra incluso a ellos por medio de la iglesia."
         }
       ],
-      "keyTakeaway": "Pablo explica su mayordomía de la gracia de Dios: el misterio revelado de que los gentiles son coherederos en Cristo, proclamado por medio del evangelio, mostrando la sabiduría de Dios a los poderes celestiales."
+      "keyTakeaway": "Pablo explica su mayordomía de la gracia de Dios: el misterio revelado de que los gentiles son coherederos en Cristo, proclamado por medio del evangelio, mostrando la sabiduría de Dios a los poderes celestiales.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ministerio de Pablo a los gentiles"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "El amor que excede a todo conocimiento"
+        }
+      ]
     },
     {
       "id": "ephesians-4",
@@ -211,7 +245,17 @@
           "note": "Verbos comunes para subir o bajar; Pablo los aplica al descenso y la exaltación de Cristo."
         }
       ],
-      "keyTakeaway": "Pablo llama a la unidad en el Espíritu y explica que Cristo otorga dones diversos para equipar y hacer crecer a la iglesia hasta alcanzar la madurez como su cuerpo."
+      "keyTakeaway": "Pablo llama a la unidad en el Espíritu y explica que Cristo otorga dones diversos para equipar y hacer crecer a la iglesia hasta alcanzar la madurez como su cuerpo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La unidad del Espíritu"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La nueva vida en Cristo"
+        }
+      ]
     },
     {
       "id": "ephesians-5",
@@ -271,7 +315,17 @@
           "note": "Expresión figurada para aquellos transformados por Cristo, que viven en verdad y santidad."
         }
       ],
-      "keyTakeaway": "Los creyentes deben vivir en amor, luz y sabiduría, evitando la impureza y la idolatría, llenos del Espíritu en la adoración y la sumisión mutua."
+      "keyTakeaway": "Los creyentes deben vivir en amor, luz y sabiduría, evitando la impureza y la idolatría, llenos del Espíritu en la adoración y la sumisión mutua.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Andad como hijos de luz"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Someteos los unos a los otros"
+        }
+      ]
     },
     {
       "id": "ephesians-6",
@@ -322,7 +376,17 @@
           "note": "Frase de Génesis 2:24 que describe la unión matrimonial."
         }
       ],
-      "keyTakeaway": "Pablo instructs a esposas, esposos, hijos, padres, siervos y amos sobre las relaciones modeladas según el amor y la autoridad de Cristo."
+      "keyTakeaway": "Pablo instructs a esposas, esposos, hijos, padres, siervos y amos sobre las relaciones modeladas según el amor y la autoridad de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "La armadura de Dios"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Salutaciones finales"
+        }
+      ]
     }
   ]
 }

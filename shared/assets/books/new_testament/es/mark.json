@@ -87,7 +87,49 @@
           "note": "Ritmo caracteristico de Marcos; aparece repetidamente (p. ej., 1:10-12)."
         }
       ],
-      "keyTakeaway": "Marcos abre con el ministerio de Juan, el bautismo de Jesús con el Espíritu descendiendo y la voz celestial, y la tentación de Jesús en el desierto."
+      "keyTakeaway": "Marcos abre con el ministerio de Juan, el bautismo de Jesús con el Espíritu descendiendo y la voz celestial, y la tentación de Jesús en el desierto.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Predicación de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "El bautismo de Jesús"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Tentación de Jesús"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesús principia su ministerio"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesús llama a cuatro pescadores"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Un hombre que tenía un espíritu inmundo"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Jesús sana a la suegra de Pedro"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Muchos sanados al ponerse el sol"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Jesús recorre Galilea predicando"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Jesús sana a un leproso"
+        }
+      ]
     },
     {
       "id": "mark-2",
@@ -147,7 +189,25 @@
           "note": "Jesus \"ve la fe de ellos\" (2:5) en la accion que trae al hombre hasta El."
         }
       ],
-      "keyTakeaway": "Jesús declara el perdón, responde a la acusación de blasfemia sanando, y muestra la autoridad del Hijo del Hombre en la tierra para perdonar pecados."
+      "keyTakeaway": "Jesús declara el perdón, responde a la acusación de blasfemia sanando, y muestra la autoridad del Hijo del Hombre en la tierra para perdonar pecados.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús sana a un paralítico"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Llamamiento de Leví"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "La pregunta sobre el ayuno"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Los discípulos recogen espigas en el día de reposo"
+        }
+      ]
     },
     {
       "id": "mark-3",
@@ -229,7 +289,29 @@
           "note": "Grupo politico alineado con la casa de Herodes; se unen a los fariseos en la conspiracion (3:6)."
         }
       ],
-      "keyTakeaway": "Jesús llama a un cobrador de impuestos, come con marginados, responde preguntas sobre el ayuno y el sábado, y restaura una mano paralizada; sus opositores empiezan a conspirar."
+      "keyTakeaway": "Jesús llama a un cobrador de impuestos, come con marginados, responde preguntas sobre el ayuno y el sábado, y restaura una mano paralizada; sus opositores empiezan a conspirar.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El hombre de la mano seca"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "La multitud a la orilla del mar"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Elección de los doce apóstoles"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "La blasfemia contra el Espíritu Santo"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "La madre y los hermanos de Jesús"
+        }
+      ]
     },
     {
       "id": "mark-4",
@@ -302,7 +384,33 @@
           "note": "Rendimientos en la explicacion del sembrador (4:8-20)."
         }
       ],
-      "keyTakeaway": "Jesús enseña en parábolas junto al mar: el sembrador, la lámpara, la medida, la semilla que crece en secreto y el grano de mostaza; y las explica en privado a sus discípulos."
+      "keyTakeaway": "Jesús enseña en parábolas junto al mar: el sembrador, la lámpara, la medida, la semilla que crece en secreto y el grano de mostaza; y las explica en privado a sus discípulos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parábola del sembrador"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Nada oculto que no haya de ser manifestado"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Parábola del crecimiento de la semilla"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Parábola de la semilla de mostaza"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "El uso que Jesús hace de las parábolas"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Jesús calma la tempestad"
+        }
+      ]
     },
     {
       "id": "mark-5",
@@ -377,7 +485,17 @@
           "note": "Region de las \"Diez Ciudades\" donde el hombre proclama (5:20)."
         }
       ],
-      "keyTakeaway": "Jesús confronta a un hombre dominado por muchos espíritus impuros; estos entran en cerdos y se ahogan; el hombre restaurado es enviado a contar en Decápolis lo que Dios hizo por él."
+      "keyTakeaway": "Jesús confronta a un hombre dominado por muchos espíritus impuros; estos entran en cerdos y se ahogan; el hombre restaurado es enviado a contar en Decápolis lo que Dios hizo por él.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El endemoniado gadareno"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "La hija de Jairo, y la mujer que tocó el manto de Jesús"
+        }
+      ]
     },
     {
       "id": "mark-6",
@@ -465,7 +583,33 @@
           "note": "Titulo usado en la narrativa para Herodes Antipas; ordena la ejecucion de Juan (6:14-27)."
         }
       ],
-      "keyTakeaway": "Jesús es rechazado en Nazaret, envía a los Doce con provisiones sencillas y autoridad, y Marcos relata la ejecución de Juan el Bautista bajo el mandato de Herodes tras un juramento en un banquete."
+      "keyTakeaway": "Jesús es rechazado en Nazaret, envía a los Doce con provisiones sencillas y autoridad, y Marcos relata la ejecución de Juan el Bautista bajo el mandato de Herodes tras un juramento en un banquete.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús en Nazaret"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Misión de los doce discípulos"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Muerte de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Alimentación de los cinco mil"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Jesús anda sobre el mar"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "Jesús sana a los enfermos en Genesaret"
+        }
+      ]
     },
     {
       "id": "mark-7",
@@ -521,6 +665,10 @@
         {
           "ref": "7:16",
           "text": "El que tenga oídos para oír, que oiga"
+        },
+        {
+          "ref": "Mark 7:16",
+          "text": "Algunos manuscritos posteriores añaden aquí un versículo 16: «Si alguno tiene oídos para oír, oiga». Es omitido por el Códice Sinaítico, el Vaticano y otros testigos antiguos. La mayoría de los eruditos lo ven como una adición escribal copiada del dicho frecuente de Jesús en otras partes de Marcos (p. ej. 4:9, 4:23), piadoso en intención pero no original a este pasaje."
         }
       ],
       "translationNotes": [
@@ -543,6 +691,20 @@
           "term": "Contaminar / hacer comun",
           "original": "Hebrew: לְטַמֵּא / לְחלֵּל (context) — Greek (NT): κοινοῦν (koinoῦn) — Aramaic (Syriac): ܡܢܟܦ (mnkp)",
           "note": "Verbo usado para hacer ritualmente impuro/comun (7:15-23)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lo que contamina al hombre"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "La fe de la mujer sirofenicia"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jesús sana a un sordomudo"
         }
       ]
     },
@@ -614,7 +776,33 @@
           "note": "Describe la respuesta de Jesus a la exigencia de una senal (8:12)."
         }
       ],
-      "keyTakeaway": "Jesús alimenta a cuatro mil personas tras tres días de enseñanza, rechaza la exigencia de una señal, advierte sobre la levadura de los fariseos y de Herodes, y sana a un ciego en Betsaida en dos etapas."
+      "keyTakeaway": "Jesús alimenta a cuatro mil personas tras tres días de enseñanza, rechaza la exigencia de una señal, advierte sobre la levadura de los fariseos y de Herodes, y sana a un ciego en Betsaida en dos etapas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Alimentación de los cuatro mil"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "La demanda de una señal"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "La levadura de los fariseos"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Un ciego sanado en Betsaida"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "La confesión de Pedro"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jesús anuncia su muerte"
+        }
+      ]
     },
     {
       "id": "mark-9",
@@ -687,6 +875,14 @@
         {
           "ref": "9:46",
           "text": "infierno, donde “su gusano no muere, y el fuego no se apaga”"
+        },
+        {
+          "ref": "Mark 9:44",
+          "text": "Algunos manuscritos posteriores añaden aquí un versículo 44, repitiendo el lenguaje del v. 48: «donde el gusano de ellos no muere, y el fuego nunca se apaga». Está ausente del Códice Sinaítico, del Vaticano y de los manuscritos más antiguos. Los escribas parecen haber duplicado el v. 48 para énfasis retórico después de cada una de las tres advertencias (vv. 43, 45, 47); solo la tercera aparición (v. 48) está en el texto original."
+        },
+        {
+          "ref": "Mark 9:46",
+          "text": "Algunos manuscritos posteriores añaden aquí un versículo 46, idéntico al espurio v. 44 y al genuino v. 48: «donde el gusano de ellos no muere, y el fuego nunca se apaga». Falta en el Sinaítico, el Vaticano y otros testigos antiguos. Como el v. 44, es una duplicación escribal del v. 48 insertada para mantener un paralelo rítmico después de cada advertencia."
         }
       ],
       "translationNotes": [
@@ -699,6 +895,32 @@
           "term": "Hijo amado",
           "original": "Hebrew: בְּנִי הָאֱהוּב (bəniy hāʾĕhwb) — Greek (NT): ὁ υἱός μου ὁ ἀγαπητός (ὁ yἱόs mou ὁ ἀgapētόs) — Aramaic (Syriac): ܒܪܝ ܚܒܝܒܐ (bry ḥbybʾ)",
           "note": "La voz celestial identifica a Jesus (9:7)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La transfiguración"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesús sana a un muchacho endemoniado"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Jesús anuncia otra vez su muerte"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "¿Quién es el mayor?"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "El que no es contra nosotros, por nosotros es"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Ocasiones de caer"
         }
       ]
     },
@@ -779,7 +1001,33 @@
           "note": "Violacion del pacto matrimonial (10:11–12)."
         }
       ],
-      "keyTakeaway": "Cuestionado sobre el divorcio, Jesús cita textos de la creación, habla en contra de separar lo que Dios unió y declara que casarse de nuevo tras el divorcio es adulterio."
+      "keyTakeaway": "Cuestionado sobre el divorcio, Jesús cita textos de la creación, habla en contra de separar lo que Dios unió y declara que casarse de nuevo tras el divorcio es adulterio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús enseña sobre el divorcio"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesús bendice a los niños"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "El joven rico"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Nuevamente Jesús anuncia su muerte"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Petición de Santiago y de Juan"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "El ciego Bartimeo recibe la vista"
+        }
+      ]
     },
     {
       "id": "mark-11",
@@ -831,6 +1079,10 @@
         {
           "ref": "11:26",
           "text": "Pero, si ustedes no perdonan, tampoco su Padre que está en el cielo les perdonará a ustedes sus ofensas"
+        },
+        {
+          "ref": "Mark 11:26",
+          "text": "Algunos manuscritos posteriores añaden aquí un versículo 26: «Pero si vosotros no perdonáis, tampoco vuestro Padre que está en los cielos os perdonará vuestras ofensas». Es omitido por el Códice Sinaítico, el Vaticano y las copias más antiguas. La redacción es casi idéntica a Mateo 6:15 y parece haber sido importada por escribas para completar la enseñanza sobre el perdón ya dada en el v. 25."
         }
       ],
       "translationNotes": [
@@ -848,6 +1100,28 @@
           "term": "El Senor lo necesita",
           "original": "Hebrew: לַאדֹנָי צֹרֶךְ־בּוֹ (laʾdōnāy ṣōrekə-bwō, sense) — Greek (NT): ὁ κύριος αὐτοῦ χρείαν ἔχει (ὁ kύrios aὐtoῦ chreίan ἔchei) — Aramaic (Syriac): ܠܡܪܝܐ ܡܬܒܥܐ ܒܗ (lmryʾ mtbʿʾ bh)",
           "note": "Instruccion para explicar por que toman el pollino (11:3)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La entrada triunfal en Jerusalén"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Maldición de la higuera estéril"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Purificación del templo"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "La higuera maldecida se seca"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "La autoridad de Jesús"
         }
       ]
     },
@@ -920,7 +1194,37 @@
           "note": "Enviado por ultimo en la parabola (12:6)."
         }
       ],
-      "keyTakeaway": "Jesús cuenta una parábola sobre una viña con mensajeros maltratados y un hijo asesinado, luego cita la Escritura sobre la piedra desechada; los líderes quieren arrestarlo pero temen a la multitud."
+      "keyTakeaway": "Jesús cuenta una parábola sobre una viña con mensajeros maltratados y un hijo asesinado, luego cita la Escritura sobre la piedra desechada; los líderes quieren arrestarlo pero temen a la multitud.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los labradores malvados"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La cuestión del tributo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "La pregunta sobre la resurrección"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "El gran mandamiento"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "¿De quién es hijo el Cristo?"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Jesús acusa a los escribas"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "La ofrenda de la viuda"
+        }
+      ]
     },
     {
       "id": "mark-13",
@@ -989,7 +1293,21 @@
           "note": "Los descritos como 'escogidos' en 13:20-22."
         }
       ],
-      "keyTakeaway": "Jesús predice la caída del templo y da instrucciones privadas sobre engañadores, conflictos, desastres, persecución, proclamación y un tiempo de gran angustia, exhortando a estar alerta y huir cuando aparezca una presencia profanadora."
+      "keyTakeaway": "Jesús predice la caída del templo y da instrucciones privadas sobre engañadores, conflictos, desastres, persecución, proclamación y un tiempo de gran angustia, exhortando a estar alerta y huir cuando aparezca una presencia profanadora.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús predice la destrucción del templo"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Señales antes del fin"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "La venida del Hijo del Hombre"
+        }
+      ]
     },
     {
       "id": "mark-14",
@@ -1093,7 +1411,49 @@
           "note": "Verbo usado para la entrega de Jesus (14:10–11)."
         }
       ],
-      "keyTakeaway": "Los líderes planean arrestar a Jesús; una mujer lo unge con nardo costoso; Jesús defiende su acto; Judas acuerda entregarlo."
+      "keyTakeaway": "Los líderes planean arrestar a Jesús; una mujer lo unge con nardo costoso; Jesús defiende su acto; Judas acuerda entregarlo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El complot para prender a Jesús"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Jesús es ungido en Betania"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Judas ofrece entregar a Jesús"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Institución de la Cena del Señor"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Jesús anuncia la negación de Pedro"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesús ora en Getsemaní"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Arresto de Jesús"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "El joven que huyó"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "Jesús ante el concilio"
+        },
+        {
+          "beforeVerse": 65,
+          "text": "Pedro niega a Jesús"
+        }
+      ]
     },
     {
       "id": "mark-15",
@@ -1177,6 +1537,24 @@
           "original": "Greek (NT): πραιτώριον (praitώrion) — Aramaic (Syriac): ܦܪܛܘܪܝܘܢ (prṭwrywn) — Latin: praetorium",
           "note": "Cuartel general del gobernador (15:16)."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús ante Pilato"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jesús sentenciado a muerte"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Crucifixión y muerte de Jesús"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Jesús es sepultado"
+        }
       ]
     },
     {
@@ -1224,7 +1602,29 @@
           "note": "Pasivo/pasivo divino: Dios lo ha resucitado (16:6)."
         }
       ],
-      "keyTakeaway": "Las mujeres encuentran la piedra removida y escuchan el anuncio de que Jesús ha resucitado, con instrucciones de avisar a los discípulos y a Pedro; huyen llenas de temor."
+      "keyTakeaway": "Las mujeres encuentran la piedra removida y escuchan el anuncio de que Jesús ha resucitado, con instrucciones de avisar a los discípulos y a Pedro; huyen llenas de temor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La resurrección"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Jesús se aparece a María Magdalena"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jesús se aparece a dos de sus discípulos"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesús comisiona a los apóstoles"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "La ascensión"
+        }
+      ]
     }
   ]
 }

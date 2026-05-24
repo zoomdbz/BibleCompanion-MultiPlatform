@@ -94,7 +94,7 @@ O Espírito Santo é plenamente Deus, igual ao Pai e ao Filho.
 
 ---
 
-### Os concílios regionais do cânon
+## Os concílios regionais do cânon
 
 ### Concílio de Hipona (AD 393)
 

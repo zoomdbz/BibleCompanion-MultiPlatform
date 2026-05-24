@@ -196,6 +196,27 @@ object EsseneCalendar {
 
   val MONTH_LENGTHS = intArrayOf(30, 30, 31, 30, 30, 31, 30, 30, 31, 30, 30, 31)
 
+  /**
+   * Equinox surrogate: the canonical anchor for the Qumran/Essene 364-day year
+   * is the first Wednesday on or after the March vernal equinox at Jerusalem
+   * local time. This implementation approximates the equinox as March 20 UTC.
+   *
+   * The approximation diverges from the true Jerusalem equinox only in years
+   * where March 19 (rarely March 21) is the actual equinox date in Jerusalem,
+   * which is uncommon. When divergence occurs the engine can shift year-start
+   * by at most one Wednesday's worth, i.e. seven days.
+   *
+   * Intercalation mode: this implementation re-derives year-1/I from the
+   * current Gregorian year's equinox on every call (annual_reanchor). The
+   * alternative is a continuous_epoch_count from a fixed historical year-1,
+   * incrementing by 364 plus periodic intercalary additions. The canonical
+   * sources (Jubilees, 1 Enoch's Astronomical Book, the Temple Scroll) do not
+   * specify an intercalation scheme to bridge the 1.25-day annual drift
+   * against the solar year, so annual_reanchor is the safer interpretive
+   * default. The intercalary flag returned at offset 364 (see jdnToEssene
+   * below) is a partial nod toward the missing intercalary days; it is not
+   * yet surfaced in the UI.
+   */
   fun yearStartJDN(gregorianYear: Int): Long {
     val equinoxJDN = HebrewCalendar.gregorianToJDN(gregorianYear, 3, 20)
     val dow = HebrewCalendar.dayOfWeekFromJDN(equinoxJDN)
@@ -240,6 +261,20 @@ object EsseneCalendar {
         FeastMarker(id, display, spring, FeastCalendarType.ESSENE, dayOfFeast, totalDays))
     }
 
+    // Omer-start rule (Sadducean / Essene reading): count from the Sunday after
+    // the weekly Sabbath that follows Unleavened Bread, yielding Firstfruits at
+    // day 26 of month I and Pentecost at day 15 of month III, fifty days later
+    // by inclusive count. The two add() calls below for "firstfruits" (1/26)
+    // and "pentecost" (3/15) are intentionally coupled; changing one without
+    // the other breaks the count.
+    //
+    // Two competing readings are deliberately not implemented here:
+    //   - Sunday-during-festival-week: Firstfruits = Sunday within Unleavened
+    //     Bread itself, yielding Pentecost at 3/8.
+    //   - Rabbinic fixed: Firstfruits = 16/I (the day after the first day of
+    //     Unleavened Bread regardless of weekday), yielding Pentecost at 6/III.
+    // The Qumran calendar fixes weekdays, so the Sadducean reading collapses to
+    // a calendar-rigid 26/I and 15/III with no weekday ambiguity.
     add(1, 14, "passover", "Passover", true)
     for ((i, d) in (15..21).withIndex()) add(1, d, "unleavened", "Unleavened Bread", true, dayOfFeast = i + 1, totalDays = 7)
     add(1, 26, "firstfruits", "Firstfruits", true)
@@ -247,10 +282,22 @@ object EsseneCalendar {
     // Passover (II.14), matching the Numbers 9 commandment pattern.
     add(2, 14, "second_passover", "Second Passover", true)
     add(3, 15, "pentecost", "Pentecost", true)
+    // Temple Scroll first-fruits cycle: two additional first-fruits feasts
+    // follow Weeks at 50-day inclusive intervals. Feast of New Wine on day
+    // ordinal 124 (3/V) and Feast of New Oil on ordinal 173 (22/VI). Minor
+    // feasts in Qumran reckoning; display labels resolved by id in the UI.
+    add(5, 3, "new_wine", "Feast of New Wine", false)
+    add(6, 22, "new_oil", "Feast of New Oil", false)
     add(7, 1, "trumpets", "Trumpets", false)
     add(7, 10, "atonement", "Day of Atonement", false)
     for ((i, d) in (15..21).withIndex()) add(7, d, "tabernacles", "Tabernacles", false, dayOfFeast = i + 1, totalDays = 7)
     add(7, 22, "assembly", "Shemini Atzeret", false)
+    // Jubilees 6:23-28 names the four quarter-start days as memorial / leader
+    // days. Q1 (1/I) is the year-start and is implicit in the calendar root;
+    // Q3 (1/VII) is Trumpets, already added above; only Q2 (1/IV) and Q4
+    // (1/X) need explicit markers. Both are minor / optional.
+    add(4, 1, "memorial_q2", "Memorial Day Q2", false)
+    add(10, 1, "memorial_q4", "Memorial Day Q4", false)
 
     return result
   }

@@ -32,7 +32,17 @@
           "note": "Expresión que combina 'palabra' (mensaje, revelación) con 'vida,' refiriéndose a la vida eterna revelada en Cristo."
         }
       ],
-      "keyTakeaway": "Juan proclama la Palabra de vida hecha manifiesta e invita a los creyentes a tener comunión con el Padre, el Hijo y entre ellos."
+      "keyTakeaway": "Juan proclama la Palabra de vida hecha manifiesta e invita a los creyentes a tener comunión con el Padre, el Hijo y entre ellos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La palabra de vida"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Dios es luz"
+        }
+      ]
     },
     {
       "id": "1_john-2",
@@ -83,7 +93,21 @@
           "note": "Se refiere al sacrificio expiatorio que quita el pecado y restaura el favor con Dios; vinculado a la imagen del propiciatorio en el templo."
         }
       ],
-      "keyTakeaway": "Juan contrasta la luz y las tinieblas, asegura el perdón por medio de Cristo el intercesor y llama a los creyentes a obedecer y vivir como él vivió."
+      "keyTakeaway": "Juan contrasta la luz y las tinieblas, asegura el perdón por medio de Cristo el intercesor y llama a los creyentes a obedecer y vivir como él vivió.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Cristo, nuestro abogado"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "El nuevo mandamiento"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "El anticristo"
+        }
+      ]
     },
     {
       "id": "1_john-3",
@@ -129,7 +153,13 @@
           "note": "Significa violación deliberada de la ley de Dios; se usa aquí para equiparar el pecado con la rebelión contra la norma divina."
         }
       ],
-      "keyTakeaway": "Juan contrasta a los hijos de Dios, que aman y practican la justicia, con los hijos del diablo, que pecan y odian; los creyentes conocen el amor porque Cristo dio su vida por ellos."
+      "keyTakeaway": "Juan contrasta a los hijos de Dios, que aman y practican la justicia, con los hijos del diablo, que pecan y odian; los creyentes conocen el amor porque Cristo dio su vida por ellos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Hijos de Dios"
+        }
+      ]
     },
     {
       "id": "1_john-4",
@@ -177,7 +207,17 @@
           "note": "Expresión que describe el amor de Dios llevado a madurez, que elimina el temor al juicio."
         }
       ],
-      "keyTakeaway": "Juan enseña a los creyentes a discernir los espíritus, reconocer la verdadera confesión de Cristo, y destaca que Dios es amor, revelado en su Hijo y perfeccionado en el amor mutuo."
+      "keyTakeaway": "Juan enseña a los creyentes a discernir los espíritus, reconocer la verdadera confesión de Cristo, y destaca que Dios es amor, revelado en su Hijo y perfeccionado en el amor mutuo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El Espíritu de Dios y el espíritu del anticristo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Dios es amor"
+        }
+      ]
     },
     {
       "id": "1_john-5",
@@ -225,7 +265,21 @@
           "note": "Diferencia entre pecados; algunos no traen juicio inmediato y final, mientras que otros (de muerte) significan el rechazo de la vida de Dios."
         }
       ],
-      "keyTakeaway": "Juan concluye que la vida eterna está en el Hijo, la fe vence al mundo, el Espíritu, el agua y la sangre dan testimonio, y los creyentes deben alejarse de los ídolos."
+      "keyTakeaway": "Juan concluye que la vida eterna está en el Hijo, la fe vence al mundo, el Espíritu, el agua y la sangre dan testimonio, y los creyentes deben alejarse de los ídolos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La fe que vence al mundo"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "El testimonio del Espíritu"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "El conocimiento de la vida eterna"
+        }
+      ]
     }
   ]
 }

@@ -101,7 +101,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 ---
 
 ## Leitung und „Tastet meine Gesalbten nicht an“
-(Psalm 105,15): „Tastet meine Gesalbten nicht an und tut meinen Propheten kein Leid!“  
+(Psalmen 105,15): „Tastet meine Gesalbten nicht an und tut meinen Propheten kein Leid!“  
 
 (1. Samuel 24,6): „Und er sprach zu seinen Männern: Das sei fern von mir durch den HERRN, dass ich meinem Herrn, dem Gesalbten des HERRN, solches tue, meine Hand an ihn zu legen; denn er ist der Gesalbte des HERRN.“
 
@@ -305,7 +305,7 @@ Die Schrift erhebt diesen Anspruch immer wieder: Psalm 12:7 nennt Gottes Worte �
 
 - (2. Petrus 1:21) „Getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet.”
 
-- (Psalm 12:7) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.”
+- (Psalmen 12:7) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.”
 
 - (Sprüche 30:5) „Alle Rede Gottes ist geläutert; er ist ein Schild denen, die auf ihn trauen.”
 
@@ -337,11 +337,11 @@ Drei Dinge geschahen, und die christliche Tradition vermischt sie.
 
 Das sind alle Daten des Neuen Testaments. Nichts gebietet einen Wechsel des Tages.
 
-### Verbindung zum Sonnenkult
+**Verbindung zum Sonnenkult**
 
 Das Römische Reich war von Sonnenkulten durchdrungen. Mithras, Sol Invictus und Apollo hatten Verbindungen zum Sonntag. Als Konstantin am 7. März 321 n. Chr. sein ziviles Edikt erließ, verfügte er, dass „am verehrungswürdigen Tag der Sonne die Beamten und die Stadtbewohner ruhen sollen und alle Werkstätten geschlossen werden.” Der lateinische Text nennt ihn *venerabili die Solis*, den verehrungswürdigen Tag der Sonne. Konstantin war noch nicht eindeutig Christ, als er es erließ; er war ein Anhänger des Sol Invictus, dessen Münzen noch jahrelang Sol zeigten. Das Edikt machte den Sonntag zum bürgerlichen Ruhetag des Reiches, und die Kirche, die sich bereits seit zwei Jahrhunderten dem Sonntag zugewandt hatte, erhielt nun kaiserliche Unterstützung.
 
-### Konzil von Laodizea (ca. 363–364 n. Chr.)
+**Konzil von Laodizea (ca. 363–364 n. Chr.)**
 
 Kanon 29 verbietet Christen ausdrücklich, am Sabbat zu ruhen, gebietet ihnen, an diesem Tag zu arbeiten, und ehrt stattdessen „den Tag des Herrn”. Der Text besagt, dass Christen „besonders den Tag des Herrn ehren sollen; und als Christen, wenn möglich, an diesem Tag nicht arbeiten sollen. Werden sie jedoch beim Judaisieren ertappt, sollen sie von Christus ausgeschlossen werden.” Der Sabbat wurde nicht verlegt; er wurde innerhalb der Kirche kriminalisiert.
 
@@ -366,7 +366,7 @@ Nicht jede Redewendung, die als „biblische Wahrheit“ zitiert wird, steht wir
 
 - Die Wahrheit: Gott hilft den Schwachen und Hilflosen.
 
-- (Psalm 121,1–2): „Ich hebe meine Augen auf zu den Bergen: Woher kommt mir Hilfe? Meine Hilfe kommt vom HERRN, der Himmel und Erde gemacht hat.“
+- (Psalmen 121,1–2): „Ich hebe meine Augen auf zu den Bergen: Woher kommt mir Hilfe? Meine Hilfe kommt vom HERRN, der Himmel und Erde gemacht hat.“
 
 - (Römer 5,6): „Denn Christus ist, da wir noch schwach waren, zur rechten Zeit für Gottlose gestorben.“
 
@@ -396,7 +396,7 @@ Nicht jede Redewendung, die als „biblische Wahrheit“ zitiert wird, steht wir
 
 - (2. Korinther 4,17): „Denn die leichte Last unserer gegenwärtigen Bedrängnis schafft uns über die Maßen ein ewiges Übergewicht an Herrlichkeit.“
 
-- (Psalm 30,5): „Denn sein Zorn währt einen Augenblick, lebenslang seine Gnade. Am Abend kehrt Weinen ein, am Morgen Jubel.“
+- (Psalmen 30,5): „Denn sein Zorn währt einen Augenblick, lebenslang seine Gnade. Am Abend kehrt Weinen ein, am Morgen Jubel.“
 
 - (1. Petrus 5,10): „Der Gott aller Gnade aber, der euch berufen hat zu seiner ewigen Herrlichkeit in Christus, der wird euch, nachdem ihr eine kurze Zeit gelitten habt, zurechtbringen, stärken, kräftigen, gründen.“
 
@@ -412,7 +412,7 @@ Nicht jede Redewendung, die als „biblische Wahrheit“ zitiert wird, steht wir
 
 - (Daniel 2,21): „Er ändert Zeiten und Stunden; er setzt Könige ab und setzt Könige ein; den Weisen gibt er Weisheit und den Verständigen Verstand.“
 
-- (Psalm 22,28): „Denn des HERRN ist das Königtum, und er herrscht über die Nationen.“
+- (Psalmen 22,28): „Denn des HERRN ist das Königtum, und er herrscht über die Nationen.“
 
 - (Apostelgeschichte 5,29): „Man muss Gott mehr gehorchen als Menschen.“
 

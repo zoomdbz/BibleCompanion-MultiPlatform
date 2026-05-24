@@ -24,7 +24,7 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
 
 - **(2 Coríntios 12:2–4)** – “Foi arrebatado ao terceiro céu… ao paraíso.”  
 
-**Resumo (Escritura):** A Bíblia identifica múltiplos céus: o céu físico (Gn 1:8), o reino espiritual de conflito (Dn 10:13; Ef 6:12) e a morada de Deus (2 Co 12:2–4).  
+**Resumo (Escritura):** A Bíblia identifica múltiplos céus: o céu físico (Gênesis 1:8), o reino espiritual de conflito (Daniel 10:13; Ef 6:12) e a morada de Deus (2 Co 12:2–4).  
 
 ---  
 
@@ -66,7 +66,7 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
   - **(Efésios 6:12)** – Nossa luta é contra os espíritos malignos.  
 
 **Por que alguns foram acorrentados e outros permanecem ativos?**  
-1. Aqueles que ultrapassaram limites proibidos (Gn 6:1–4) foram presos imediatamente.  
+1. Aqueles que ultrapassaram limites proibidos (Gênesis 6:1–4) foram presos imediatamente.  
 
 2. Outros permanecem ativos até o julgamento final.  
 
@@ -131,7 +131,7 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
 
 - **(Isaías 46:1–2)** – “Bel se encurva, Nebo se abaixa.”  
 
-**Resumo (Escritura):** A idolatria é condenada pela Lei e pelos Profetas (Lv 18:21; Jr 32:35). O culto a Baal e Astarote é rebelião (Jz 2:11–13). Deus declara juízo sobre os deuses do Egito (Êx 12:12) e os ídolos da Babilônia (Is 46:1–2).  
+**Resumo (Escritura):** A idolatria é condenada pela Lei e pelos Profetas (Lv 18:21; Jr 32:35). O culto a Baal e Astarote é rebelião (Jz 2:11–13). Deus declara juízo sobre os deuses do Egito (Êx 12:12) e os ídolos da Babilônia (Isaías 46:1–2).  
 
 **Ampliação para clareza:**  
 
@@ -164,7 +164,7 @@ Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, o
 
 - **(2 Coríntios 11:14)** – “Satanás se disfarça em anjo de luz.”  
 
-**Resumo (Escritura):** A feitiçaria é chamada de abominação (Dt 18:10–12), punida pela Lei (Êx 22:18), enfrentada pelos apóstolos (At 16:16–18) e finalmente julgada (Ap 21:8). Não é neutra; está diretamente ligada ao engano satânico (Ap 18:23; 2 Co 11:14).  
+**Resumo (Escritura):** A feitiçaria é chamada de abominação (Deuteronômio 18:10–12), punida pela Lei (Êx 22:18), enfrentada pelos apóstolos (At 16:16–18) e finalmente julgada (Ap 21:8). Não é neutra; está diretamente ligada ao engano satânico (Ap 18:23; 2 Co 11:14).  
 
 ---  
 
@@ -179,9 +179,9 @@ Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, o
 
 - **(Deuteronômio 32:17)** – “Sacrificaram a demônios, e não a Deus.”  
 
-**Explicação:** Os deuses da Babilônia e da Assíria vieram da Suméria. Enlil, Inanna e Marduque foram absorvidos com outros nomes. Babilônia tornou-se símbolo da rebelião (Gn 11:1–9). Os mitos de reis divinos ecoam os nefilins (Gn 6:1–4). Os profetas denunciaram os deuses babilônicos (Is 46:1–2; Jr 50:2).  
+**Explicação:** Os deuses da Babilônia e da Assíria vieram da Suméria. Enlil, Inanna e Marduque foram absorvidos com outros nomes. Babilônia tornou-se símbolo da rebelião (Gênesis 11:1–9). Os mitos de reis divinos ecoam os nefilins (Gênesis 6:1–4). Os profetas denunciaram os deuses babilônicos (Isaías 46:1–2; Jr 50:2).  
 
-**Resumo (Escritura):** Babilônia = rebelião (Gn 11). Nefilins = união caída (Gn 6). Sacrifícios = feitos a demônios (Dt 32:17).  
+**Resumo (Escritura):** Babilônia = rebelião (Gênesis 11). Nefilins = união caída (Gênesis 6). Sacrifícios = feitos a demônios (Deuteronômio 32:17).  
 
 ---  
 
@@ -283,7 +283,7 @@ O Alcorão honra Jesus (*ʿĪsā*) como profeta, mas nega sua crucificação e r
 - Muitos muçulmanos afirmam que a Bíblia foi corrompida.
 
 
-### Respondendo a objeções comuns:
+## Respondendo a objeções comuns:
 
 ### Objeção 1: A Bíblia foi corrompida
 O próprio Alcorão reconhece a Torá e o Evangelho como revelações genuínas.
@@ -308,16 +308,16 @@ A Bíblia afirma sua própria preservação.
 **(1 Pedro 1:25)**
 > “Mas a palavra do Senhor permanece para sempre.”
 
-### **Consequência lógica:** Se muçulmanos afirmam que a Torá (Antigo Testamento) e o Evangelho (Novo Testamento) foram corrompidos textualmente, essa posição **contradiz o próprio Alcorão**, que os chama de “orientação e luz” e até instrui Maomé a consultar seus leitores (veja os versículos acima). Historicamente, a polêmica muçulmana inicial focou **distorção de interpretação** (*taḥrīf al-maʿnā*), não **corrupção textual** (*taḥrīf an-naṣṣ*). A **tese de corrupção textual se fortaleceu mais tarde** como forma de resolver tensões quando vieram à tona contradições no conteúdo e na transmissão do Alcorão.
+**Consequência lógica:** Se muçulmanos afirmam que a Torá (Antigo Testamento) e o Evangelho (Novo Testamento) foram corrompidos textualmente, essa posição **contradiz o próprio Alcorão**, que os chama de “orientação e luz” e até instrui Maomé a consultar seus leitores (veja os versículos acima). Historicamente, a polêmica muçulmana inicial focou **distorção de interpretação** (*taḥrīf al-maʿnā*), não **corrupção textual** (*taḥrīf an-naṣṣ*). A **tese de corrupção textual se fortaleceu mais tarde** como forma de resolver tensões quando vieram à tona contradições no conteúdo e na transmissão do Alcorão.
 
 ### Evidência manuscrita histórica: Bíblia x Alcorão
 
-### A Bíblia
+#### A Bíblia
 - **Antigo Testamento:** Os Manuscritos do Mar Morto (séculos III–I a.C.) confirmam a estabilidade do texto hebraico. Por exemplo, o Grande Rolo de Isaías coincide de perto com os posteriores textos massoréticos (Códice de Alepo e Códice de Leningrado), salvo diferenças ortográficas menores.
 
 - **Novo Testamento:** Existem milhares de manuscritos gregos, incluindo fragmentos muito antigos, como o Papiro P52 (~125 d.C., do Evangelho de João), P66 e P75 (sécs. II–III). Códices completos do século IV (como o Sinaítico) concordam com esses testemunhos. Com mais de 5.000 manuscritos, o texto do Novo Testamento é reconstruível com notável precisão.
 
-### O Alcorão
+#### O Alcorão
 - Após a batalha de Yamama, muitos memorizadores do Alcorão morreram, gerando temor de perda. O califa Uthman produziu uma recensão oficial no dialeto coraixita e ordenou que os códices variantes fossem queimados.
 
 - As fontes de hadith registram versículos ausentes hoje:
@@ -408,12 +408,12 @@ Até historiadores hostis ao cristianismo reconheceram a crucificação de Jesus
 
 - **(João 14:16–17)** – Jesus ora ao Pai e promete o Espírito: três Pessoas em um só Deus.
 
-### A Trindade não são três deuses, mas um único Deus em três Pessoas.
+A Trindade não são três deuses, mas um único Deus em três Pessoas.
 
 
 ### *Objeção 5: “Não há variantes do Alcorão. Só xiitas dizem isso. O Islã não mudou nada desde Maomé.”*
 
-### Isso é historicamente falso. As evidências são contundentes:
+Isso é historicamente falso. As evidências são contundentes:
 
 - Hadiths canônicos admitem versículos desaparecidos.
 
@@ -427,14 +427,14 @@ Até historiadores hostis ao cristianismo reconheceram a crucificação de Jesus
 
 - **Sahih al-Bukhari 4987**: “Uthman enviou a cada província muçulmana uma cópia do que havia sido copiado e ordenou que todos os outros materiais corânicos… fossem queimados.”
 
-### Se nunca houve variantes, por que a queima foi necessária?
+Se nunca houve variantes, por que a queima foi necessária?
 
-### Comparação com a Bíblia: Os Manuscritos do Mar Morto (150 a.C.–70 d.C.) e o Códice de Leningrado (1008 d.C.) mostram mais de 1000 anos de preservação fiel com diferenças sobretudo ortográficas. O Novo Testamento tem 5.000+ manuscritos gregos; nenhuma doutrina se perdeu. O Alcorão possui menos manuscritos, padronização deliberada e versículos reconhecidamente ausentes.
+**Comparação com a Bíblia:** Os Manuscritos do Mar Morto (150 a.C.–70 d.C.) e o Códice de Leningrado (1008 d.C.) mostram mais de 1000 anos de preservação fiel com diferenças sobretudo ortográficas. O Novo Testamento tem 5.000+ manuscritos gregos; nenhuma doutrina se perdeu. O Alcorão possui menos manuscritos, padronização deliberada e versículos reconhecidamente ausentes.
 
 
 ### *Objeção 6: “Você não pode simplesmente ler o Alcorão. Precisa dos hadiths e de estudiosos para o contexto.”*
 
-### Isso cria uma armadilha: significa que o Alcorão não é suficiente por si, apesar de afirmar ser guia claro.
+Isso cria uma armadilha: significa que o Alcorão não é suficiente por si, apesar de afirmar ser guia claro.
 
 **Alcorão 16:89 (Sahih International)**
 
@@ -444,30 +444,30 @@ Até historiadores hostis ao cristianismo reconheceram a crucificação de Jesus
 
 > “Buscarei, então, outro juiz além de Allah, sendo Ele quem vos revelou o Livro explicado em detalhes?”
 
-### *Se o Alcorão é realmente um ‘esclarecimento de todas as coisas’ e suficiente, por que leigos precisam depender de cadeias intermináveis de hadiths e eruditos? Essa contradição mostra que o livro não é aquilo que afirma.*
+*Se o Alcorão é realmente um ‘esclarecimento de todas as coisas’ e suficiente, por que leigos precisam depender de cadeias intermináveis de hadiths e eruditos? Essa contradição mostra que o livro não é aquilo que afirma.*
 
-### A Bíblia, por contraste, afirma suficiência e clareza:
+A Bíblia, por contraste, afirma suficiência e clareza:
 
-### (2 Timóteo 3:16–17)
+**(2 Timóteo 3:16–17)**
 
 > “Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a instrução em justiça, a fim de que o homem de Deus seja perfeito e perfeitamente habilitado para toda boa obra.”
 
 
 ### *Objeção 7: “A história é tendenciosa. Jesus foi crucificado, mas cremos que não morreu; ele foi para o céu.”*
 
-### Essa objeção desaba diante da Escritura e da história secular:
+Essa objeção desaba diante da Escritura e da história secular:
 
-### Profecia e testemunho bíblicos:
+**Profecia e testemunho bíblicos:**
 
-### (Isaías 53:5)
+**(Isaías 53:5)**
 
 > “Mas ele foi traspassado pelas nossas transgressões… e pelas suas pisaduras fomos sarados.”
 
-### (João 19:33–34)
+**(João 19:33–34)**
 
 > “Mas, chegando a Jesus, como o vissem já morto, não lhe quebraram as pernas. Contudo, um dos soldados lhe furou o lado com uma lança, e logo saiu sangue e água.”
 
-### Historiadores seculares:
+**Historiadores seculares:**
 
 - Tácito (*Anais* 15.44) – “Cristo… sofreu a pena máxima no reinado de Tibério, às mãos de… Pôncio Pilatos.”
 
@@ -478,7 +478,7 @@ Até historiadores hostis ao cristianismo reconheceram a crucificação de Jesus
 
 ### Salvação: Lei versus Graça
 
-### A visão do Islã
+#### A visão do Islã
 No Islã, a salvação depende da balança das obras: as boas devem pesar mais que as más, e a decisão final cabe à misericórdia de Allah.
 
 **Alcorão 23:102–103 (Sahih International)**
@@ -486,7 +486,7 @@ No Islã, a salvação depende da balança das obras: as boas devem pesar mais q
 
 Isso reflete um sistema de salvação baseado em obras.
 
-### A Lei na Bíblia
+#### A Lei na Bíblia
 A Lei é santa e revela o padrão de Deus, mas ninguém a cumpriu perfeitamente; somente Jesus é sem pecado.
 
 **(Romanos 3:20)**
@@ -507,7 +507,7 @@ A Lei é santa e revela o padrão de Deus, mas ninguém a cumpriu perfeitamente;
 **(Hebreus 4:15)**
 > “Temos um sumo sacerdote… tentado em todas as coisas, à nossa semelhança, mas sem pecado.”
 
-### Graça por meio de Jesus
+#### Graça por meio de Jesus
 O evangelho proclama a salvação como dom da graça mediante a fé em Cristo, não por obras.
 
 **(Efésios 2:8–9)**
@@ -522,7 +522,7 @@ O evangelho proclama a salvação como dom da graça mediante a fé em Cristo, n
 **Ponto-chave:** O Islã ensina salvação pela lei e obras; a Bíblia mostra que a lei condena a todos e aponta para Cristo, o único perfeito. A salvação é somente pela graça mediante a fé em Jesus.
 
 
-### A conduta de Maomé à luz da Lei de Moisés
+**A conduta de Maomé à luz da Lei de Moisés**
 
 A Torá traz normas claras sexuais, relacionais e morais. Medida por elas, a conduta de Maomé apresenta problemas.
 
@@ -631,7 +631,7 @@ Em contraste, Maomé permitiu o estupro de cativas sem essas proteções. A Tor�
 
 ---
 
-### Privilégios pessoais de Maomé (sura 33)
+**Privilégios pessoais de Maomé (sura 33)**
 
 A sura 33 concede isenções e privilégios exclusivos a Maomé.
 
@@ -671,7 +671,7 @@ O contraste é gritante.
 > “O Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos.”
 
 
-### Contradições e omissões no Alcorão
+**Contradições e omissões no Alcorão**
 
 O Islã ensina que o Alcorão é perfeito e sem contradição; porém, no próprio texto e na tradição islâmica, veem-se conflitos e perdas.
 
@@ -718,7 +718,7 @@ A Bíblia é consistente.
 **(1 Coríntios 15:3–4)**
 > “Cristo morreu pelos nossos pecados… e ressuscitou ao terceiro dia.”
 
-### Historiadores seculares confirmam a crucificação:
+**Historiadores seculares confirmam a crucificação:**
 - **Tácito, *Anais* 15.44**: “Cristo… sofreu a pena extrema sob Pôncio Pilatos.”
 
 - **Josefo, *Antiguidades* 18.3.3**: “Pilatos… o condenou à cruz.”
@@ -756,17 +756,17 @@ A Lei expõe o pecado, mas somente Cristo a cumpriu perfeitamente.
 **(João 11:25–26)**
 > “Eu sou a ressurreição e a vida… Crês isto?”
 
-### **Ponto-chave:**
+**Ponto-chave:**
 
-**O Islã confessa um só Deus, mas rejeita o Filho. Jesus diz que Ele é o único Caminho (Jo 14:6). Negar o Filho é negar o Pai (1 Jo 2:23). A Palavra de Deus permanece para sempre (Is 40:8). A crucificação, a ressurreição e a divindade de Jesus foram preditas no Antigo Testamento e confirmadas no Novo.**
+**O Islã confessa um só Deus, mas rejeita o Filho. Jesus diz que Ele é o único Caminho (Jo 14:6). Negar o Filho é negar o Pai (1 Jo 2:23). A Palavra de Deus permanece para sempre (Isaías 40:8). A crucificação, a ressurreição e a divindade de Jesus foram preditas no Antigo Testamento e confirmadas no Novo.**
 
-**O Islã corretamente rejeita a idolatria e afirma o monoteísmo, mas, ao negar Jesus como Filho de Deus e Salvador, corta a si mesmo da salvação. A Bíblia diz que Deus preserva Sua Palavra para sempre (Is 40:8). Para conhecer Deus plenamente, é preciso conhecer Seu Filho (1 Jo 2:23). Sem a cruz e a ressurreição de Cristo, não há perdão de pecados (Hb 9:22; 1 Co 15:17).**
+**O Islã corretamente rejeita a idolatria e afirma o monoteísmo, mas, ao negar Jesus como Filho de Deus e Salvador, corta a si mesmo da salvação. A Bíblia diz que Deus preserva Sua Palavra para sempre (Isaías 40:8). Para conhecer Deus plenamente, é preciso conhecer Seu Filho (1 Jo 2:23). Sem a cruz e a ressurreição de Cristo, não há perdão de pecados (Habacuque 9:22; 1 Co 15:17).**
 
 **A salvação não é por Maomé nem pelo Alcorão. Ela se encontra somente em Jesus Cristo, o Filho de Deus, que morreu pelos nossos pecados e ressuscitou. Nele somente há perdão, vida eterna e paz com Deus.**
 
 ### Uma questão de “contexto” e consistência
 
-### **Alegação:** “Tudo no Alcorão é de Allah. Um anjo traz, o profeta repete. Contexto é tudo.”
+**Alegação:** “Tudo no Alcorão é de Allah. Um anjo traz, o profeta repete. Contexto é tudo.”
 
 - Se *contexto é tudo*, onde está o contexto que permite a Maomé isentar a si mesmo da lei moral que Deus deu por meio de Moisés?
 
@@ -774,7 +774,7 @@ A Lei expõe o pecado, mas somente Cristo a cumpriu perfeitamente.
 
 **Conclusão:** Se “contexto é tudo”, então a **consistência** com a lei moral já revelada por Deus é o contexto primeiro e inegociável.
 
-### * A Torá é direta aqui:
+A Torá é direta aqui:
 
 > **Levítico 18:15**: “A nudez de tua nora não descobrirás; ela é mulher de teu filho.”
 
@@ -900,39 +900,6 @@ A “Estrela de Davi” (hexagrama) não é encontrada em nenhuma parte das Escr
 
 ---
 
-### Bibliografia
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., e Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (século XIX original).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexto sobre o culto a Saturno e a Saturnália.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Detalhes sobre a adoção tardia do hexagrama como símbolo judaico, especialmente em Praga e na Europa do século XIX.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sobre o papel do hexagrama no misticismo judaico medieval.)
-
----  
-
 ## 10. 三教合基: O Caminho do Dao feito Carne  
 *Três Ensinamentos Unidos em Cristo: O Caminho do Dao feito Carne*  
 
@@ -975,6 +942,8 @@ A “Estrela de Davi” (hexagrama) não é encontrada em nenhuma parte das Escr
 ---  
 
 ## 11. Falsos Profetas e Evangelhos Falsificados
+
+Para um tratamento sistemático mais aprofundado de cada movimento listado abaixo (fundadores, críticas estruturais, dissidentes internos, leituras recomendadas), consulte o arquivo de notas **Falsa Doutrina**. A discussão aqui foca a dimensão profética-falsificada dentro do enquadramento da guerra invisível; aquele arquivo cobre a arquitetura teológica completa de cada movimento.
 
 **Sentido simples:** Nem todos que falam em nome de Deus realmente falam da parte de Deus. A Escritura fornece testes para desmascarar falsos profetas, falsos apóstolos e evangelhos falsificados.
 
@@ -1140,11 +1109,11 @@ Os primeiros cristãos rejeitaram isso – Os concílios e credos não eram filo
 
 ---
 
-### **Conclusão bíblica:** Deus nos ordena a provar todo mestre e todo espírito (1 João 4:1–3).
+**Conclusão bíblica:** Deus nos ordena a provar todo mestre e todo espírito (1 João 4:1–3).
 
 ---
 
-### Sistemas teológicos que reformulam o sentido claro da Escritura
+**Sistemas teológicos que reformulam o sentido claro da Escritura**
 
 Nem toda discordância doutrinária é um falso evangelho. Os grupos acima negam a divindade de Cristo, acrescentam novas escrituras ou inventam novos deuses. O sistema abaixo é categoricamente diferente; opera dentro do cristianismo ortodoxo, afirma a Trindade e a autoridade das Escrituras, e é sustentado por milhões de crentes sinceros e historicamente fundamentados. Ele é incluído aqui não como uma falsa religião, mas como um sistema teológico que, em nossa leitura, reformula o sentido claro da Escritura em pontos-chave.
 
@@ -1172,7 +1141,7 @@ Ao tratar todos os eventos como igualmente decretados, o calvinismo corre o risc
 
 ---
 
-### **Conclusão bíblica (continuação):** Deus nos ordena a provar todo mestre e todo espírito (1 João 4:1–3).
+**Conclusão bíblica (continuação):** Deus nos ordena a provar todo mestre e todo espírito (1 João 4:1–3).
 
 Se uma mensagem muda quem é Jesus, altera o evangelho ou liga o pecado à cor da pele, rejeita-a (Deuteronômio 13:1–5) (Deuteronômio 18:20–22) (Gálatas 1:8–9) (Mateus 7:15–20).
 
@@ -1196,7 +1165,7 @@ Apega-te à fé que uma vez por todas foi entregue aos santos (Judas 3).
 
 - **(Colossenses 1:13)** – “Ele nos libertou do império das trevas e nos transportou para o reino do seu Filho amado.”  
 
-**Resumo (Escritura):** Jesus traz espada e divisão (Mt 10:34). João 8:39–47 mostra a diferença entre filhos de Deus e do diabo. Lc 11:23 enfatiza que não há meio-termo. Cl 1:13 garante que os crentes foram transferidos para o reino da luz.  
+**Resumo (Escritura):** Jesus traz espada e divisão (Mateus 10:34). João 8:39–47 mostra a diferença entre filhos de Deus e do diabo. Lc 11:23 enfatiza que não há meio-termo. Cl 1:13 garante que os crentes foram transferidos para o reino da luz.  
 
 ---  
 
@@ -1211,5 +1180,39 @@ Apega-te à fé que uma vez por todas foi entregue aos santos (Judas 3).
 - **(Filipenses 2:10–11)** – “Ao nome de Jesus se dobrará todo joelho.”  
 
 **Resumo (Escritura):** Cristo veio para destruir as obras do diabo (1 Jo 3:8). Os crentes vencem pelo sangue do Cordeiro (Ap 12:11). No fim, toda criatura confessará que Jesus Cristo é Senhor (Fp 2:10–11).  
+
+---
+
+## 14. Bibliografia
+
+- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
+
+- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
+
+- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
+
+- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
+
+- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
+
+- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
+
+- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
+
+- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
+
+- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
+
+- Keil, C. F., e Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (século XIX original).
+
+- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
+
+- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
+
+- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexto sobre o culto a Saturno e a Saturnália.)
+
+- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Detalhes sobre a adoção tardia do hexagrama como símbolo judaico, especialmente em Praga e na Europa do século XIX.)
+
+- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sobre o papel do hexagrama no misticismo judaico medieval.)
 
 ---

@@ -37,7 +37,17 @@
           "note": "Termine per collera o giudizio; qui indica il giudizio futuro di Dio."
         }
       ],
-      "keyTakeaway": "Paolo ringrazia Dio per la fede, l'amore e la speranza dei Tessalonicesi, per il loro abbandono degli idoli e per la loro testimonianza nell'attesa del ritorno di Gesù."
+      "keyTakeaway": "Paolo ringrazia Dio per la fede, l'amore e la speranza dei Tessalonicesi, per il loro abbandono degli idoli e per la loro testimonianza nell'attesa del ritorno di Gesù.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Fede dei Tessalonicesi"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-2",
@@ -79,7 +89,21 @@
           "note": "Altro termine ebraico per collera intensa, spesso usato in contesti profetici di giudizio divino."
         }
       ],
-      "keyTakeaway": "Paolo rievoca il suo ministero sincero, la sua cura paterna e l'imitazione dei Tessalonicesi verso le chiese che soffrono, segnalando l'opposizione e il giudizio di Dio su chi ostacola il vangelo."
+      "keyTakeaway": "Paolo rievoca il suo ministero sincero, la sua cura paterna e l'imitazione dei Tessalonicesi verso le chiese che soffrono, segnalando l'opposizione e il giudizio di Dio su chi ostacola il vangelo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Condotta di Paolo in Tessalonica"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Fedeltà dei Tessalonicesi"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Missione di Timoteo"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-3",
@@ -154,7 +178,17 @@
           "note": "Processo di consacrazione a Dio; qui applicato alla vita santa, specialmente nella purezza sessuale."
         }
       ],
-      "keyTakeaway": "Paolo esorta i Tessalonicesi alla santità, alla purezza sessuale e all'amore fraterno, invitandoli a vivere tranquillamente e a lavorare con responsabilità davanti a chi è fuori dalla comunità."
+      "keyTakeaway": "Paolo esorta i Tessalonicesi alla santità, alla purezza sessuale e all'amore fraterno, invitandoli a vivere tranquillamente e a lavorare con responsabilità davanti a chi è fuori dalla comunità.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esortazione alla santità"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Il rapimento della chiesa; il ritorno del Signore"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-5",
@@ -214,7 +248,13 @@
           "note": "Espressione dei profeti per il tempo decisivo di giudizio e salvezza di Dio; qui usata per il ritorno di Cristo."
         }
       ],
-      "keyTakeaway": "Paolo rassicura i credenti che i morti in Cristo risorgeranno e i viventi saranno rapiti con loro al ritorno del Signore, esortandoli a restare vigilanti e sobri fino a quel giorno."
+      "keyTakeaway": "Paolo rassicura i credenti che i morti in Cristo risorgeranno e i viventi saranno rapiti con loro al ritorno del Signore, esortandoli a restare vigilanti e sobri fino a quel giorno.",
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "Ultime raccomandazioni"
+        }
+      ]
     }
   ]
 }

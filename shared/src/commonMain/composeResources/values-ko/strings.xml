@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">에스더 금식</string>
     <string name="feast_fast_esther_ref">에스더 4:16</string>
 
+    <!-- 에세네 / 성전 두루마리 / 희년서 절기 -->
+    <string name="feast_new_wine_name">새 포도주 절기</string>
+    <string name="feast_new_oil_name">새 기름 절기</string>
+    <string name="feast_memorial_q2_name">두 번째 기념일</string>
+    <string name="feast_memorial_q4_name">네 번째 기념일</string>
+    <string name="essene_calendar_label">에세네</string>
+
     <!-- Prophecy -->
     <string name="prophecy">예언</string>
     <string name="prophecy_subtitle">메시아 성취부터 요한계시록의 절기까지; 성경에 엮인 예언의 실을 탐구하세요.</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">십자가 처형</string>
     <string name="feast_typology_unleavened_name">무교절 (니산월 15일)</string>
     <string name="feast_typology_unleavened_meaning">장사 / 죄 없으심</string>
-    <string name="feast_typology_firstfruits_name">초실절 (니산월 16일)</string>
+    <string name="feast_typology_firstfruits_name">초실절</string>
     <string name="feast_typology_firstfruits_meaning">부활</string>
-    <string name="feast_typology_weeks_name">칠칠절 / 오순절 (시완월 6일)</string>
+    <string name="feast_typology_weeks_name">칠칠절 / 오순절</string>
     <string name="feast_typology_weeks_meaning">성령 강림</string>
     <string name="feast_typology_trumpets_name">나팔절 (티슈리월 1일)</string>
     <string name="feast_typology_trumpets_meaning">재림 / 휴거</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">절</string>
     <string name="verses_label">절</string>
     <string name="search_searching">검색 중…</string>
+    <string name="intro_short">서문</string>
+    <string name="intro_section_header">책 서문</string>
+    <string name="tts_read_intros">TTS가 책 서문을 읽음</string>
 </resources>

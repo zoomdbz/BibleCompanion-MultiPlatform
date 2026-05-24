@@ -135,7 +135,7 @@ Il *Libro di Enoch* era ampiamente letto nelle comunità ebraiche e cristiane, c
 
 * **3 Enoch (Enoch ebraico)**: Testo rabbinico più tardo (~V–VI secolo d.C.). Qui Enoch è trasformato nell’angelo Metatron, capo delle schiere celesti. Riflette il misticismo ebraico e la Kabbalah, non la tradizione cristiana primitiva o quella del Secondo Tempio.
 
-### Per la profezia, solo **1 Enoch** si allinea con Genesi, Apocalisse e Giuda.
+**Per la profezia, solo **1 Enoch** si allinea con Genesi, Apocalisse e Giuda.**
 
 ---
 
@@ -241,7 +241,7 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 ---
 
-### **Tempi stabiliti da Dio nella Bibbia contro tradizioni adottate**
+**Tempi stabiliti da Dio nella Bibbia contro tradizioni adottate**
 
 Sebbene molte celebrazioni moderne derivino dal sincretismo religioso, la Scrittura definisce alcuni *moedim* (tempi stabiliti) fissati da Dio in (Levitico 23). Questi non sono festività culturali ma appuntamenti divini che rivelano il piano di redenzione compiuto nel Messia. I primi credenti continuarono a onorare queste feste come parte del ritmo di alleanza di Dio (Atti 2:1) (Atti 20:6) (Atti 20:16) (1 Corinzi 5:8). Nei secoli successivi, soprattutto sotto il dominio romano, furono sostituite da festività civili e stagionali per adattarsi alla cultura dell’impero piuttosto che alla Scrittura.
 

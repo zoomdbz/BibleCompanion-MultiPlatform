@@ -16,6 +16,15 @@ data class ManuscriptVariant(
 )
 
 @Serializable
+data class Heading(
+  // The bullet whose trailing verse marker matches this number will be preceded
+  // by the heading text in the renderer. Bullet count is unaffected; only the
+  // visual insertion changes.
+  val beforeVerse: Int,
+  val text: String
+)
+
+@Serializable
 data class Story(
   val id: String,
   val title: String,
@@ -24,14 +33,18 @@ data class Story(
   val keyTakeaway: String = "",
   val crossRefs: List<String> = emptyList(),
   val manuscriptVariants: List<ManuscriptVariant> = emptyList(),
-  val translationNotes: List<TransNote> = emptyList()
+  val translationNotes: List<TransNote> = emptyList(),
+  val headings: List<Heading> = emptyList()
 )
 
 @Serializable
 data class Book(
   val id: String,
   val title: String,
-  val stories: List<Story>
+  val stories: List<Story>,
+  // Multi-paragraph book introduction. Paragraphs separated by "\n\n".
+  // Empty means no Intro entry is shown in the chapter picker.
+  val intro: String = ""
 )
 
 data class PrefsState(
@@ -62,6 +75,9 @@ data class PrefsState(
   val collapsedStoriesJson: String = "{}",
   val autoContinueTts: Boolean = true,
   val crossBookTts: Boolean = false,
+  // When false (default), book intros are skipped by TTS. The IntroCard's
+  // play button hides and auto-continue TTS won't speak intro paragraphs.
+  val ttsReadIntros: Boolean = false,
   // JSON object: { "<assetFileName>": ["<sectionHeader>", ...], ... }
   val notesExpandedSectionsJson: String = "{}",
   // Local date ("YYYY-MM-DD") on which VOTD was dismissed; empty = not dismissed

@@ -47,7 +47,25 @@
           "note": "Uma esperança enraizada na ressurreição de Cristo, caracterizada como viva em contraste com expectativas terrenas sem vida."
         }
       ],
-      "keyTakeaway": "Pedro saúda os crentes dispersos, louvando a Deus pelo novo nascimento em esperança viva e pela salvação revelada por meio de Cristo, anunciada pelos profetas."
+      "keyTakeaway": "Pedro saúda os crentes dispersos, louvando a Deus pelo novo nascimento em esperança viva e pela salvação revelada por meio de Cristo, anunciada pelos profetas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Ação de graças"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A santidade na vida"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "A santidade no amor"
+        }
+      ]
     },
     {
       "id": "1_peter-2",
@@ -99,7 +117,21 @@
           "note": "Metáfora para a palavra de Deus como alimento nutritivo para o crescimento na salvação."
         }
       ],
-      "keyTakeaway": "Pedro chama os crentes à santidade, à redenção pelo sangue de Cristo, ao amor e ao desejo pela palavra pura como alimento espiritual."
+      "keyTakeaway": "Pedro chama os crentes à santidade, à redenção pelo sangue de Cristo, ao amor e ao desejo pela palavra pura como alimento espiritual.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os crentes são a casa espiritual edificada em Cristo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "A vida exemplar cristã: deveres para com os não crentes e para com as autoridades"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A vida exemplar cristã: deveres dos que prestam serviços a outrem"
+        }
+      ]
     },
     {
       "id": "1_peter-3",
@@ -148,7 +180,21 @@
           "note": "Expressão que conecta o batismo com o apelo a Deus por uma consciência limpa, fundamentado na ressurreição de Cristo, não na lavagem física."
         }
       ],
-      "keyTakeaway": "Pedro dá instruções para esposas, maridos e todos os crentes, pede prontidão para defender a fé e explica o sofrimento de Cristo, sua proclamação e o significado do batismo."
+      "keyTakeaway": "Pedro dá instruções para esposas, maridos e todos os crentes, pede prontidão para defender a fé e explica o sofrimento de Cristo, sua proclamação e o significado do batismo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A vida exemplar cristã: deveres dos casados"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A vida exemplar cristã: o amor fraternal"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A prática do bem. A longanimidade segundo o exemplo de Cristo"
+        }
+      ]
     },
     {
       "id": "1_peter-4",
@@ -189,7 +235,21 @@
           "note": "Imagem de teste severo, comparado ao fogo que refina metais."
         }
       ],
-      "keyTakeaway": "Pedro exorta os crentes a viver conforme a vontade de Deus, a amar e servir uns aos outros e a se alegrar nas provações como participantes dos sofrimentos de Cristo."
+      "keyTakeaway": "Pedro exorta os crentes a viver conforme a vontade de Deus, a amar e servir uns aos outros e a se alegrar nas provações como participantes dos sofrimentos de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A morte para o pecado e a pureza de vida"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Alguns deveres dos crentes uns para com os outros"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "O sofrermos por Cristo é privilégio glorioso"
+        }
+      ]
     },
     {
       "id": "1_peter-5",
@@ -230,7 +290,17 @@
           "note": "Provavelmente usada figurativamente para Roma, como lugar de exílio e oposição a Deus."
         }
       ],
-      "keyTakeaway": "Pedro exorta os líderes a pastorearem, os crentes a serem humildes e resistirem ao diabo, e encerra com saudações e bênção de paz."
+      "keyTakeaway": "Pedro exorta os líderes a pastorearem, os crentes a serem humildes e resistirem ao diabo, e encerra com saudações e bênção de paz.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os deveres do ministério"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Vários conselhos. Votos, saudações finais e bênção"
+        }
+      ]
     }
   ]
 }

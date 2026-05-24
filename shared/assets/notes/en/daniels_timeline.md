@@ -42,7 +42,7 @@ This is the most precise messianic timeline in the Bible.
 
 The angel Gabriel told Daniel: **"Seventy weeks are decreed about your people and your holy city"** (Daniel 9:24). The Hebrew word *shabuim* means "sevens"; seventy sets of seven years = **490 years**.
 
-### The Decree
+**The Decree**
 "From the going out of the word to restore and build Jerusalem": this is the decree of Artaxerxes to Nehemiah in **445 BC** (Nehemiah 2:1–8).
 
 ### The Timeline

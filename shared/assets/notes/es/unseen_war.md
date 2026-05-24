@@ -282,7 +282,7 @@ El Corán honra a Jesús (*ʿĪsā*) como profeta, pero niega su crucifixión y 
 - Muchos musulmanes afirman que la Biblia fue corrompida.
 
 
-### Respondiendo objeciones comunes
+## Respondiendo objeciones comunes
 
 ### Objeción 1: La Biblia fue corrompida
 El Corán mismo afirma que la Torá y el Evangelio fueron revelaciones genuinas.
@@ -311,12 +311,12 @@ La Biblia afirma su propia preservación.
 
 ### Evidencia histórica de manuscritos: Biblia vs. Corán
 
-**La Biblia**
+#### La Biblia
 - **Antiguo Testamento:** Los Rollos del Mar Muerto (siglo III–I a.C.) confirman la estabilidad del texto hebreo. El Gran Rollo de Isaías concuerda ampliamente con los textos masoréticos posteriores como el Códice de Alepo y el Códice de Leningrado, aparte de diferencias menores de ortografía.
 
 - **Nuevo Testamento:** Existen miles de manuscritos griegos, incluyendo fragmentos muy tempranos como el Papiro P52 (~125 d.C., del Evangelio de Juan), P66 y P75 (siglos II–III). Códices completos como el Sinaítico (siglo IV) concuerdan con ellos. Con más de 5,000 manuscritos, el texto del NT se reconstruye con notable exactitud.
 
-**El Corán**
+#### El Corán
 - Los primeros musulmanes temían la pérdida del Corán después de que muchos memorizadores murieron en la batalla de Yamama. El califa Uthmán creó una recensión oficial en dialecto de Quraish y ordenó quemar todas las copias variantes.
 
 - Los hadices registran versículos faltantes:
@@ -503,7 +503,7 @@ El evangelio proclama la salvación como un regalo de gracia por la fe en Cristo
 
 ### Salvación: Ley vs. Gracia
 
-### La visión islámica de la salvación
+#### La visión islámica de la salvación
 En el islam, la salvación depende del equilibrio de las obras. Las buenas deben pesar más que las malas, y en última instancia Alá puede conceder o negar misericordia.
 
 **Corán 23:102–103 (Sahih International)**
@@ -511,7 +511,7 @@ En el islam, la salvación depende del equilibrio de las obras. Las buenas deben
 
 Esto refleja un sistema de salvación basado en obras, medido por la ley y los actos.
 
-### La Ley en la Biblia
+#### La Ley en la Biblia
 La Biblia muestra que la Ley es santa y revela los estándares de Dios, pero ningún ser humano la ha cumplido perfectamente. Solo Jesús vivió sin pecado.
 
 **(Romanos 3:20)**
@@ -532,7 +532,7 @@ La Biblia muestra que la Ley es santa y revela los estándares de Dios, pero nin
 **(Hebreos 4:15)**
 > “Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino uno que fue tentado en todo según nuestra semejanza, pero sin pecado.”
 
-### La gracia en Jesús
+#### La gracia en Jesús
 El evangelio proclama la salvación como un don de gracia mediante la fe en Cristo, no por obras.
 
 **(Efesios 2:8–9)**
@@ -548,7 +548,7 @@ El evangelio proclama la salvación como un don de gracia mediante la fe en Cris
 
 ---
 
-### La conducta de Mahoma medida por la Ley de Moisés
+**La conducta de Mahoma medida por la Ley de Moisés**
 
 La Torá dio leyes claras sexuales, relacionales y morales. Cuando la conducta de Mahoma se mide frente a ellas, queda en falta.
 
@@ -680,7 +680,7 @@ En contraste, Mahoma permitió la violación de cautivas sin estas protecciones.
 
 ---
 
-### Privilegios personales de Mahoma (Sura 33)
+**Privilegios personales de Mahoma (Sura 33)**
 
 La Sura 33 otorga a Mahoma exenciones y privilegios únicos.
 
@@ -720,7 +720,7 @@ Jesús nunca buscó privilegio, sino que vino a servir.
 
 ---
 
-### Contradicciones y omisiones en el Corán
+## Contradicciones y omisiones en el Corán
 
 ### 1. Cronología de la creación
 **Corán 7:54**: seis días.  
@@ -784,7 +784,7 @@ El islam proclama un solo Dios y respeta a Jesús como profeta. Pero niega su fi
 
 **(Juan 11:25–26)**: “Yo soy la resurrección y la vida…”
 
-### Punto clave:
+**Punto clave:**
 El islam confiesa un solo Dios, pero rechaza al Hijo. Jesús declaró: “Yo soy el camino” (Juan 14:6). Negar al Hijo es negar al Padre (1 Juan 2:23). La Palabra de Dios permanece (Isaías 40:8). Sin Cristo no hay perdón (Hebreos 9:22; 1 Corintios 15:17).
 
 ---
@@ -915,39 +915,6 @@ La “Estrella de David” (hexagrama) no se encuentra en ninguna parte de la Es
 
 ---
 
-### Bibliografía
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., y Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (original siglo XIX).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexto sobre la adoración a Saturno y Saturnalia.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Detalles sobre la adopción tardía del hexagrama como símbolo judío, especialmente en Praga y en la Europa del siglo XIX.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sobre el papel del hexagrama en el misticismo judío medieval.)
-
----
-
 ## 10. 三教合基：道成肉身的道路
 *Tres enseñanzas unidas en Cristo: el Camino del Dao hecho carne*
 
@@ -994,6 +961,8 @@ La “Estrella de David” (hexagrama) no se encuentra en ninguna parte de la Es
 ---  
 
 ## 11. Falsos Profetas y Evangelios Falsificados
+
+Para un tratamiento sistemático más profundo de cada movimiento listado abajo (fundadores, críticas estructurales, disidentes internos, lecturas recomendadas), consulta el archivo de notas **Falsa Doctrina**. Aquí la discusión se centra en la dimensión profética-falsificada dentro del marco de la guerra invisible; aquel archivo cubre la arquitectura teológica completa de cada movimiento.
 
 **Sentido llano:** No todos los que hablan en nombre de Dios hablan de parte de Dios. La Escritura da pruebas para desenmascarar a falsos profetas, falsos apóstoles y evangelios falsificados.
 
@@ -1160,11 +1129,11 @@ Los primeros cristianos lo rechazaron – Los concilios y credos no se trataban 
 
 ---
 
-### **Conclusión bíblica:** Dios nos manda probar a todo maestro y todo espíritu (1 Juan 4:1–3).
+**Conclusión bíblica:** Dios nos manda probar a todo maestro y todo espíritu (1 Juan 4:1–3).
 
 ---
 
-### Sistemas teológicos que reformulan el sentido llano de la Escritura
+**Sistemas teológicos que reformulan el sentido llano de la Escritura**
 
 No todo desacuerdo doctrinal es un falso evangelio. Los grupos anteriores niegan la deidad de Cristo, añaden nuevas escrituras o inventan nuevos dioses. El sistema siguiente es categóricamente diferente; opera dentro del cristianismo ortodoxo, afirma la Trinidad y la autoridad de la Escritura, y es sostenido por millones de creyentes sinceros e históricamente fundamentados. Se incluye aquí no como una falsa religión, sino como un marco teológico que, en nuestra lectura, reformula el sentido llano de la Escritura en puntos clave.
 
@@ -1192,7 +1161,7 @@ Al tratar todos los eventos como igualmente decretados, el calvinismo corre el r
 
 ---
 
-### **Conclusión bíblica (continuación):** Dios nos manda probar a todo maestro y todo espíritu (1 Juan 4:1–3).
+**Conclusión bíblica (continuación):** Dios nos manda probar a todo maestro y todo espíritu (1 Juan 4:1–3).
 
 Si un mensaje cambia quién es Jesús, cambia el evangelio o vincula el pecado con el color de piel, recházalo (Deuteronomio 13:1–5) (Deuteronomio 18:20–22) (Gálatas 1:8–9) (Mateo 7:15–20).
 
@@ -1231,5 +1200,39 @@ Aférrate a la fe que fue entregada una vez a los santos (Judas 3).
 - **(Filipenses 2:10–11)** – “Para que en el nombre de Jesús se doble toda rodilla… y toda lengua confiese que Jesucristo es Señor.”
 
 **Conclusión clave (Escritura):** Cristo vino a destruir las obras del diablo (1 Juan 3:8). Los creyentes vencen por su sangre y por un testimonio fiel (Apocalipsis 12:10–11). Al final, toda la creación se postrará y confesará que Jesucristo es el Señor (Filipenses 2:10–11).
+
+---
+
+## 14. Bibliografía
+
+- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
+
+- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
+
+- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
+
+- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
+
+- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
+
+- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
+
+- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
+
+- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
+
+- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
+
+- Keil, C. F., y Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (original siglo XIX).
+
+- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
+
+- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
+
+- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexto sobre la adoración a Saturno y Saturnalia.)
+
+- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Detalles sobre la adopción tardía del hexagrama como símbolo judío, especialmente en Praga y en la Europa del siglo XIX.)
+
+- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sobre el papel del hexagrama en el misticismo judío medieval.)
 
 ---

@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">エステルの断食</string>
     <string name="feast_fast_esther_ref">エステル記 4:16</string>
 
+    <!-- エッセネ派・神殿の巻物・ヨベル書の祭 -->
+    <string name="feast_new_wine_name">新しいぶどう酒の祭</string>
+    <string name="feast_new_oil_name">新しい油の祭</string>
+    <string name="feast_memorial_q2_name">第二記念日</string>
+    <string name="feast_memorial_q4_name">第四記念日</string>
+    <string name="essene_calendar_label">エッセネ派</string>
+
     <!-- Prophecy -->
     <string name="prophecy">預言</string>
     <string name="prophecy_subtitle">メシア成就から黙示録の祭りまで; 聖書に織り込まれた預言の糸を探求します。</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">十字架</string>
     <string name="feast_typology_unleavened_name">種入れぬパンの祭（ニサン15日）</string>
     <string name="feast_typology_unleavened_meaning">埋葬・無罪性</string>
-    <string name="feast_typology_firstfruits_name">初穂の祭（ニサン16日）</string>
+    <string name="feast_typology_firstfruits_name">初穂の祭</string>
     <string name="feast_typology_firstfruits_meaning">復活</string>
-    <string name="feast_typology_weeks_name">七週の祭・ペンテコステ（シワン6日）</string>
+    <string name="feast_typology_weeks_name">七週の祭・ペンテコステ</string>
     <string name="feast_typology_weeks_meaning">聖霊降臨</string>
     <string name="feast_typology_trumpets_name">ラッパの祭（ティシュリ1日）</string>
     <string name="feast_typology_trumpets_meaning">再臨・携挙</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">節</string>
     <string name="verses_label">節</string>
     <string name="search_searching">検索中…</string>
+    <string name="intro_short">序文</string>
+    <string name="intro_section_header">書の序文</string>
+    <string name="tts_read_intros">TTSで序文を読む</string>
 </resources>

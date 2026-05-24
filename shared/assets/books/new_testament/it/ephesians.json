@@ -55,7 +55,21 @@
           "note": "Suggello: segno di appartenenza o autenticità. Caparra: pegno o anticipo; lo Spirito come prima rata dell'eredità piena."
         }
       ],
-      "keyTakeaway": "Paolo saluta i santi e proclama benedizioni in Cristo: elezione, adozione, redenzione, rivelazione del piano di Dio, eredità e sigillo dello Spirito."
+      "keyTakeaway": "Paolo saluta i santi e proclama benedizioni in Cristo: elezione, adozione, redenzione, rivelazione del piano di Dio, eredità e sigillo dello Spirito.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Benedizioni in Gesù Cristo"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Preghiera di Paolo per gli Efesini"
+        }
+      ]
     },
     {
       "id": "ephesians-2",
@@ -109,7 +123,17 @@
           "note": "Letteralmente 'qualcosa di creato'; usato per i credenti come creazione di Dio in Cristo."
         }
       ],
-      "keyTakeaway": "I credenti, un tempo morti nel peccato, sono vivificati ed esaltati con Cristo; la salvezza viene per grazia mediante la fede, non per opere, e produce una vita nelle buone opere che Dio ha preparato."
+      "keyTakeaway": "I credenti, un tempo morti nel peccato, sono vivificati ed esaltati con Cristo; la salvezza viene per grazia mediante la fede, non per opere, e produce una vita nelle buone opere che Dio ha preparato.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La salvezza per grazia"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Giudei e stranieri uniti in Cristo"
+        }
+      ]
     },
     {
       "id": "ephesians-3",
@@ -157,7 +181,17 @@
           "note": "Termini per indicare potenze spirituali o cosmiche; Paolo sottolinea che la sapienza di Dio è resa manifesta anche a loro per mezzo della chiesa."
         }
       ],
-      "keyTakeaway": "Paolo spiega la sua responsabilità nella grazia di Dio: il mistero rivelato che i pagani sono coeredi in Cristo, proclamato attraverso il vangelo, manifestando la sapienza di Dio alle potenze celesti."
+      "keyTakeaway": "Paolo spiega la sua responsabilità nella grazia di Dio: il mistero rivelato che i pagani sono coeredi in Cristo, proclamato attraverso il vangelo, manifestando la sapienza di Dio alle potenze celesti.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mistero della vocazione degli stranieri"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La preghiera di Paolo per gli Efesini"
+        }
+      ]
     },
     {
       "id": "ephesians-4",
@@ -211,7 +245,17 @@
           "note": "Verbi comuni per salire e scendere; Paolo li applica alla discesa e all'esaltazione di Cristo."
         }
       ],
-      "keyTakeaway": "Paolo esorta all'unità nello Spirito e spiega che Cristo dona doni diversi per equipaggiare e far crescere la chiesa fino alla maturità come suo corpo."
+      "keyTakeaway": "Paolo esorta all'unità nello Spirito e spiega che Cristo dona doni diversi per equipaggiare e far crescere la chiesa fino alla maturità come suo corpo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’unità nella fede"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Spogliarsi del vecchio uomo e rivestirsi dell’uomo nuovo"
+        }
+      ]
     },
     {
       "id": "ephesians-5",
@@ -271,7 +315,13 @@
           "note": "Espressione figurata per indicare coloro che sono trasformati da Cristo, vivendo nella verità e nella santità."
         }
       ],
-      "keyTakeaway": "I credenti devono camminare nell'amore, nella luce e nella saggezza, evitando l'impurità e l'idolatria, pieni dello Spirito nel culto e nella sottomissione reciproca."
+      "keyTakeaway": "I credenti devono camminare nell'amore, nella luce e nella saggezza, evitando l'impurità e l'idolatria, pieni dello Spirito nel culto e nella sottomissione reciproca.",
+      "headings": [
+        {
+          "beforeVerse": 22,
+          "text": "Mogli e mariti"
+        }
+      ]
     },
     {
       "id": "ephesians-6",
@@ -322,7 +372,25 @@
           "note": "Espressione tratta da Genesi 2:24 che descrive l'unione matrimoniale."
         }
       ],
-      "keyTakeaway": "Paolo istruisce mogli, mariti, figli, genitori, servi e padroni su relazioni modellate sull'amore e sull'autorità di Cristo."
+      "keyTakeaway": "Paolo istruisce mogli, mariti, figli, genitori, servi e padroni su relazioni modellate sull'amore e sull'autorità di Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Genitori e figli"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Servi e padroni"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "L’armatura del cristiano"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Saluti"
+        }
+      ]
     }
   ]
 }

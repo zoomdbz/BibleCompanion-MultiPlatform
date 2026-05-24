@@ -87,7 +87,45 @@
           "note": "Typisch markinisches Erzähltempo; kommt wiederholt vor (z. B. 1,10–12)."
         }
       ],
-      "keyTakeaway": "Markus beginnt mit dem Wirken des Johannes, der Taufe Jesu mit dem herabsteigenden Geist und der himmlischen Stimme sowie der Versuchung Jesu in der Wüste."
+      "keyTakeaway": "Markus beginnt mit dem Wirken des Johannes, der Taufe Jesu mit dem herabsteigenden Geist und der himmlischen Stimme sowie der Versuchung Jesu in der Wüste.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Johannes der Täufer kündigt den Christus an »Kehrt um zu Gott!«"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Jesus lässt sich taufen"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jesus wird auf die Probe gestellt"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesus beginnt seinen Dienst in Galiläa Jesus verkündet Gottes rettende Botschaft"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Die ersten Jünger"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesus erweist seine Macht"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Kranke werden geheilt"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Alle sollen die rettende Botschaft hören"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Ein Geheilter kann nicht schweigen"
+        }
+      ]
     },
     {
       "id": "mark-2",
@@ -147,7 +185,25 @@
           "note": "Jesus „sieht ihren Glauben“ (2,5) in der Tat, die den Mann zu ihm bringt."
         }
       ],
-      "keyTakeaway": "Jesus verkündigt Vergebung, begegnet dem Vorwurf der Gotteslästerung durch eine Heilung und zeigt die Vollmacht des Menschensohnes, auf Erden Sünden zu vergeben."
+      "keyTakeaway": "Jesus verkündigt Vergebung, begegnet dem Vorwurf der Gotteslästerung durch eine Heilung und zeigt die Vollmacht des Menschensohnes, auf Erden Sünden zu vergeben.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus hat die Macht, Sünden zu vergeben"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Der Zolleinnehmer Levi"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Neue Formen für das neue Leben"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Erste Auseinandersetzungen mit den Schriftgelehrten und Pharisäern Der Ruhetag ist für den Menschen da"
+        }
+      ]
     },
     {
       "id": "mark-3",
@@ -229,7 +285,29 @@
           "note": "Politische Gruppierung, die dem Haus des Herodes nahesteht; sie verbünden sich mit den Pharisäern zum Planen (3,6)."
         }
       ],
-      "keyTakeaway": "Jesus beruft einen Zöllner, speist mit Außenseitern, beantwortet Fragen über das Fasten und den Sabbat und stellt eine verdorrte Hand wieder her; seine Gegner beginnen, Pläne gegen ihn zu schmieden."
+      "keyTakeaway": "Jesus beruft einen Zöllner, speist mit Außenseitern, beantwortet Fragen über das Fasten und den Sabbat und stellt eine verdorrte Hand wieder her; seine Gegner beginnen, Pläne gegen ihn zu schmieden.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesetzlichkeit oder Liebe?"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Jesus heilt am See Genezareth"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Die zwölf Apostel"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Widerstand gegen Jesus"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Wer gehört zu Jesus?"
+        }
+      ]
     },
     {
       "id": "mark-4",
@@ -302,7 +380,37 @@
           "note": "Erträge in der Erklärung des Sämanns (4,8–20)."
         }
       ],
-      "keyTakeaway": "Jesus lehrt am See in Gleichnissen: Sämann, Lampe, Maß, selbstwachsende Saat und Senfkorn; den Jüngern erklärt er alles im Verborgenen."
+      "keyTakeaway": "Jesus lehrt am See in Gleichnissen: Sämann, Lampe, Maß, selbstwachsende Saat und Senfkorn; den Jüngern erklärt er alles im Verborgenen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gleichnisse über das Reich Gottes Das Gleichnis vom Bauern, der Getreide aussät"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Warum Jesus in Gleichnissen redet"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesus erklärt das Gleichnis von der Aussaat"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Das Beispiel von der Öllampe"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Das Gleichnis von der aufwachsenden Saat"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Das Gleichnis vom Senfkorn"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Herr über Wind und Wellen"
+        }
+      ]
     },
     {
       "id": "mark-5",
@@ -377,7 +485,17 @@
           "note": "„Zehn Städte“ — Region, in der der Mann verkündigt (5,20)."
         }
       ],
-      "keyTakeaway": "Jesus begegnet einem Mann, der von vielen unreinen Geistern beherrscht wird; diese fahren in Schweine und ertrinken; der geheilte Mann wird ausgesandt, um in der Dekapolis zu berichten, was Gott an ihm getan hat."
+      "keyTakeaway": "Jesus begegnet einem Mann, der von vielen unreinen Geistern beherrscht wird; diese fahren in Schweine und ertrinken; der geheilte Mann wird ausgesandt, um in der Dekapolis zu berichten, was Gott an ihm getan hat.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus versorgt, rettet, heilt, befreit Jesus heilt einen Besessenen"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Macht über Krankheit und Tod"
+        }
+      ]
     },
     {
       "id": "mark-6",
@@ -465,7 +583,33 @@
           "note": "In der Erzählung verwendeter Titel für Herodes Antipas; er befiehlt die Hinrichtung des Johannes (6,14–27)."
         }
       ],
-      "keyTakeaway": "Jesus wird in Nazareth abgelehnt, sendet die Zwölf mit einfacher Ausrüstung und Vollmacht aus, und Markus berichtet von der Hinrichtung Johannes des Täufers durch Herodes nach einem Bankettschwur."
+      "keyTakeaway": "Jesus wird in Nazareth abgelehnt, sendet die Zwölf mit einfacher Ausrüstung und Vollmacht aus, und Markus berichtet von der Hinrichtung Johannes des Täufers durch Herodes nach einem Bankettschwur.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus in seiner Heimatstadt Nazareth"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Der Auftrag an die Apostel"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Der Mord an Johannes dem Täufer"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Fünftausend werden satt"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Jesus geht auf dem Wasser"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "Heilungen in Genezareth"
+        }
+      ]
     },
     {
       "id": "mark-7",
@@ -522,6 +666,10 @@
         {
           "ref": "7:16",
           "text": "Hat jemand Ohren, zu hören, der höre!"
+        },
+        {
+          "ref": "Mark 7:16",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 16 ein: „Wer Ohren hat zu hören, der höre!“ Er wird von Codex Sinaiticus, Vaticanus und mehreren anderen frühen Zeugen ausgelassen. Die meisten Forscher sehen ihn als Schreiberhinzufügung, übernommen aus Jesu wiederkehrendem Spruch an anderen Stellen im Markusevangelium (z. B. 4:9, 4:23), fromm in der Absicht, aber nicht ursprünglich zu dieser Passage gehörig."
         }
       ],
       "translationNotes": [
@@ -544,6 +692,20 @@
           "term": "Verunreinigen / gemein machen",
           "original": "Hebrew: לְטַמֵּא / לְחלֵּל (context) — Greek (NT): κοινοῦν (koinoῦn) — Aramaic (Syriac): ܡܢܟܦ (mnkp)",
           "note": "Verb für rituell/kultisch unrein machen (7,15–23)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Was ist rein – was unrein?"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Der unerschütterliche Glaube einer nichtjüdischen Frau"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Ein Taubstummer kann wieder hören und sprechen"
         }
       ]
     },
@@ -615,7 +777,37 @@
           "note": "Beschreibt Jesu Reaktion auf die Zeichenforderung (8,12)."
         }
       ],
-      "keyTakeaway": "Jesus speist viertausend Menschen nach drei Tagen des Lehrens, verweigert ein gefordertes Zeichen, warnt vor dem Sauerteig der Pharisäer und des Herodes und heilt einen Blinden in Betsaida in zwei Stufen."
+      "keyTakeaway": "Jesus speist viertausend Menschen nach drei Tagen des Lehrens, verweigert ein gefordertes Zeichen, warnt vor dem Sauerteig der Pharisäer und des Herodes und heilt einen Blinden in Betsaida in zwei Stufen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Viertausend werden satt"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "»Beweise, dass du von Gott kommst!«"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Auch die Jünger verstehen Jesus nicht"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Ein Blinder wird geheilt"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Wer ist Jesus?"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jesus kündigt seinen Tod und seine Auferstehung an"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Alles hingeben, um alles zu gewinnen"
+        }
+      ]
     },
     {
       "id": "mark-9",
@@ -690,6 +882,14 @@
         {
           "ref": "9:46",
           "text": "da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht."
+        },
+        {
+          "ref": "Mark 9:44",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 44 ein, der die Sprache von V. 48 wiederholt: „wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.“ Er fehlt im Codex Sinaiticus, Vaticanus und den ältesten Handschriften. Schreiber scheinen V. 48 für rhetorische Betonung nach jeder der drei Warnungen (VV. 43, 45, 47) verdoppelt zu haben; nur das dritte Vorkommen (V. 48) gehört zum ursprünglichen Text."
+        },
+        {
+          "ref": "Mark 9:46",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 46 ein, identisch mit dem unechten V. 44 und dem echten V. 48: „wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.“ Er fehlt im Sinaiticus, Vaticanus und anderen frühen Zeugen. Wie V. 44 ist er eine Schreiberverdopplung von V. 48, eingefügt für den rhythmischen Parallelismus nach jeder Warnung."
         }
       ],
       "translationNotes": [
@@ -702,6 +902,32 @@
           "term": "Geliebter Sohn",
           "original": "Hebrew: בְּנִי הָאֱהוּב (bəniy hāʾĕhwb) — Greek (NT): ὁ υἱός μου ὁ ἀγαπητός (ὁ yἱόs mou ὁ ἀgapētόs) — Aramaic (Syriac): ܒܪܝ ܚܒܝܒܐ (bry ḥbybʾ)",
           "note": "Die himmlische Stimme bezeichnet Jesus (9,7)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Jünger erleben die Herrlichkeit von Jesus"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Die Ohnmacht der Jünger und die Vollmacht von Jesus (Matthäus 17,14‒21; )"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Jesus kündigt wieder seinen Tod und seine Auferstehung an"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Gott hat andere Maßstäbe"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Wer nicht gegen uns ist, der ist für uns"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Lasst euch nicht zum Bösen verleiten!"
         }
       ]
     },
@@ -782,7 +1008,33 @@
           "note": "Bruch des Ehebundes (10,11–12)."
         }
       ],
-      "keyTakeaway": "Jesus wird bezüglich der Scheidung geprüft, zitiert Schöpfungstexte, spricht gegen die Trennung von dem, was Gott verbunden hat, und bezeichnet eine Wiederheirat nach der Scheidung als Ehebruch."
+      "keyTakeaway": "Jesus wird bezüglich der Scheidung geprüft, zitiert Schöpfungstexte, spricht gegen die Trennung von dem, was Gott verbunden hat, und bezeichnet eine Wiederheirat nach der Scheidung als Ehebruch.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Auf dem Weg nach Jerusalem Die Frage nach der Ehescheidung"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesus und die Kinder"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Die Reichen und das Reich Gottes"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesus kündigt zum dritten Mal seinen Tod und seine Auferstehung an"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Streit um die besten Plätze"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Ein Blinder wird geheilt"
+        }
+      ]
     },
     {
       "id": "mark-11",
@@ -835,6 +1087,10 @@
         {
           "ref": "11:26",
           "text": "Wenn ihr aber nicht vergeben werdet, so wird euch euer Vater, der im Himmel ist, eure Fehler nicht vergeben."
+        },
+        {
+          "ref": "Mark 11:26",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 26 ein: „Wenn ihr aber nicht vergebt, so wird euer Vater im Himmel auch eure Übertretungen nicht vergeben.“ Er wird vom Codex Sinaiticus, Vaticanus und den ältesten Abschriften ausgelassen. Der Wortlaut ist nahezu identisch mit Matthäus 6:15 und scheint von Schreibern eingeführt worden zu sein, um die bereits in V. 25 gegebene Lehre über die Vergebung abzurunden."
         }
       ],
       "translationNotes": [
@@ -852,6 +1108,28 @@
           "term": "Der Herr braucht es",
           "original": "Hebrew: לַאדֹנָי צֹרֶךְ־בּוֹ (laʾdōnāy ṣōrekə-bwō, sense) — Greek (NT): ὁ κύριος αὐτοῦ χρείαν ἔχει (ὁ kύrios aὐtoῦ chreίan ἔchei) — Aramaic (Syriac): ܠܡܪܝܐ ܡܬܒܥܐ ܒܗ (lmryʾ mtbʿʾ bh)",
           "note": "Anweisung zur Erklärung der Mitnahme des Fohlens (11,3)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Streitgespräche mit den religiösen Führern Israels Jesus wird als König empfangen"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Der Feigenbaum"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesus jagt die Händler aus dem Tempel"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Von der Kraft des Glaubens"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Die Frage nach der Vollmacht von Jesus"
         }
       ]
     },
@@ -924,7 +1202,37 @@
           "note": "Im Gleichnis als Letzter gesandt (12,6)."
         }
       ],
-      "keyTakeaway": "Jesus erzählt ein Weinberg-Gleichnis über misshandelte Boten und einen getöteten Sohn, zitiert dann die Schriftstelle vom verworfenen Stein; die Führer wollen ihn ergreifen, scheuen aber das Volk."
+      "keyTakeaway": "Jesus erzählt ein Weinberg-Gleichnis über misshandelte Boten und einen getöteten Sohn, zitiert dann die Schriftstelle vom verworfenen Stein; die Führer wollen ihn ergreifen, scheuen aber das Volk.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vom Weinbergbesitzer und den Pächtern"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Die Frage nach der Steuer"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Werden die Toten auferstehen?"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Was ist das wichtigste Gebot?"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Wer ist der Christus?"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Die Heuchelei der Schriftgelehrten"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Viel Geld – aber kein Opfer"
+        }
+      ]
     },
     {
       "id": "mark-13",
@@ -993,7 +1301,33 @@
           "note": "Die als „erwählt“ Bezeichneten in 13,20–22."
         }
       ],
-      "keyTakeaway": "Jesus kündigt den Fall des Tempels an und gibt private Unterweisung über Verführer, Konflikte, Katastrophen, Verfolgung, Verkündigung und eine Zeit großer Not; er mahnt zur Wachsamkeit und zur Flucht, wenn eine entheiligenden Macht erscheint."
+      "keyTakeaway": "Jesus kündigt den Fall des Tempels an und gibt private Unterweisung über Verführer, Konflikte, Katastrophen, Verfolgung, Verkündigung und eine Zeit großer Not; er mahnt zur Wachsamkeit und zur Flucht, wenn eine entheiligenden Macht erscheint.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus spricht über die letzte Zeit Jesus kündigt die Zerstörung des Tempels an"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Die Zukunft der Welt"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Die Verfolgung der Christen und die Zerstörung Jerusalems"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Warnung vor falschen »Rettern«"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Retter und Richter"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "»Seid immer bereit!«"
+        }
+      ]
     },
     {
       "id": "mark-14",
@@ -1097,7 +1431,49 @@
           "note": "Verb, das für die Überstellung Jesu verwendet wird (14,10–11)."
         }
       ],
-      "keyTakeaway": "Führende planen, Jesus festzunehmen; eine Frau salbt ihn mit kostbarem Nardensalböl; Jesus verteidigt ihre Tat; Judas arrangiert seine Auslieferung."
+      "keyTakeaway": "Führende planen, Jesus festzunehmen; eine Frau salbt ihn mit kostbarem Nardensalböl; Jesus verteidigt ihre Tat; Judas arrangiert seine Auslieferung.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Leiden, Tod und Auferstehung von Jesus Verschwörung gegen Jesus"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Ein Vermögen für Jesus"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Der Verrat"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Vorbereitungen für das Passahfest"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesus feiert mit seinen Jüngern das Passahmahl"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Jesus kündigt seine Verleugnung durch Petrus an"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Im Garten Gethsemane"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Verrat und Verhaftung"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "Jesus vor Gericht"
+        },
+        {
+          "beforeVerse": 65,
+          "text": "Petrus behauptet, Jesus nicht zu kennen"
+        }
+      ]
     },
     {
       "id": "mark-15",
@@ -1182,6 +1558,32 @@
           "original": "Greek (NT): πραιτώριον (praitώrion) — Aramaic (Syriac): ܦܪܛܘܪܝܘܢ (prṭwrywn) — Latin: praetorium",
           "note": "Amtssitz des Statthalters (15,16)."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus wird an die Römer ausgeliefert"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Das Todesurteil"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesus wird verhöhnt und misshandelt"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Die Kreuzigung"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Jesus stirbt am Kreuz"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Jesus wird begraben"
+        }
       ]
     },
     {
@@ -1229,7 +1631,21 @@
           "note": "Passiv/Passivum divinum: Gott hat ihn auferweckt (16,6)."
         }
       ],
-      "keyTakeaway": "Die Frauen finden den Stein weggerollt und hören die Ankündigung, dass Jesus auferstanden ist, verbunden mit dem Auftrag, den Jüngern und Petrus Bescheid zu geben; sie fliehen in Furcht."
+      "keyTakeaway": "Die Frauen finden den Stein weggerollt und hören die Ankündigung, dass Jesus auferstanden ist, verbunden mit dem Auftrag, den Jüngern und Petrus Bescheid zu geben; sie fliehen in Furcht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus lebt"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Die Erscheinungen des Auferstandenen"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Der Auftrag an die Jünger"
+        }
+      ]
     }
   ]
 }

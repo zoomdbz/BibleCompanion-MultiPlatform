@@ -91,7 +91,29 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "La línea de Adán llega hasta Noé y sus hijos, con genealogías trazadas desde Sem hasta Abraham, Isaac y Jacob; el capítulo también lista a los descendientes de Ismael y Esaú, y registra los reyes y jefes que gobernaron en Edom antes de que reinara cualquier rey israelita."
+      "keyTakeaway": "La línea de Adán llega hasta Noé y sus hijos, con genealogías trazadas desde Sem hasta Abraham, Isaac y Jacob; el capítulo también lista a los descendientes de Ismael y Esaú, y registra los reyes y jefes que gobernaron en Edom antes de que reinara cualquier rey israelita.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Descendientes de Adán"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Descendientes de los hijos de Noé"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Descendientes de Sem"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Descendientes de Ismael y de Cetura"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Descendientes de Esaú"
+        }
+      ]
     },
     {
       "id": "1chronicles-2",
@@ -183,7 +205,17 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "El capítulo enumera los hijos de Israel y traza genealogías desde Judá hasta David, y desde Hezrón hasta sus descendientes Caleb y Jerameel, registrando las líneas familiares y las ciudades que habitaron sus descendientes."
+      "keyTakeaway": "El capítulo enumera los hijos de Israel y traza genealogías desde Judá hasta David, y desde Hezrón hasta sus descendientes Caleb y Jerameel, registrando las líneas familiares y las ciudades que habitaron sus descendientes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los hijos de Israel"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Descendientes de Judá"
+        }
+      ]
     },
     {
       "id": "1chronicles-3",
@@ -244,7 +276,17 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "Se listan los hijos de David nacidos en Hebrón y Jerusalén, entre ellos Amnón, Daniel, Absalón, Adonías, Sefatías, Itreán y después Salomón, Natán, Samúa y Sobab. Luego se traza la línea de descendencia de Salomón a través de los reyes de Judá hasta el período posexílico, terminando con los hijos de Elioenai."
+      "keyTakeaway": "Se listan los hijos de David nacidos en Hebrón y Jerusalén, entre ellos Amnón, Daniel, Absalón, Adonías, Sefatías, Itreán y después Salomón, Natán, Samúa y Sobab. Luego se traza la línea de descendencia de Salomón a través de los reyes de Judá hasta el período posexílico, terminando con los hijos de Elioenai.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los hijos de David"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Descendientes de Salomón"
+        }
+      ]
     },
     {
       "id": "1chronicles-4",
@@ -324,7 +366,17 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "Se registran las genealogías de Judá y Simeón, incluido Jabez, quien oró a Dios pidiendo bendición y protección y recibió lo que solicitó. Más adelante, durante el reinado de Ezequías, líderes simeónitas y sus clanes se expandieron hacia el oriente, destruyeron a los hamitas y a los meunitas y se asentaron en su tierra, mientras que otros invadieron Seír y mataron a los amalecitas que quedaban."
+      "keyTakeaway": "Se registran las genealogías de Judá y Simeón, incluido Jabez, quien oró a Dios pidiendo bendición y protección y recibió lo que solicitó. Más adelante, durante el reinado de Ezequías, líderes simeónitas y sus clanes se expandieron hacia el oriente, destruyeron a los hamitas y a los meunitas y se asentaron en su tierra, mientras que otros invadieron Seír y mataron a los amalecitas que quedaban.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Descendientes de Judá"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Descendientes de Simeón"
+        }
+      ]
     },
     {
       "id": "1chronicles-5",
@@ -387,7 +439,21 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "Se enumeran las genealogías de los descendientes de Rubén, Gad y la media tribu de Manasés, incluyendo sus asentamientos y poderío militar; estas tribus derrotaron a los hagarenos con la ayuda de Dios, pero después se entregaron a la idolatría y fueron llevadas al exilio por el rey de Asiria."
+      "keyTakeaway": "Se enumeran las genealogías de los descendientes de Rubén, Gad y la media tribu de Manasés, incluyendo sus asentamientos y poderío militar; estas tribus derrotaron a los hagarenos con la ayuda de Dios, pero después se entregaron a la idolatría y fueron llevadas al exilio por el rey de Asiria.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Descendientes de Rubén"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Descendientes de Gad"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Historia de las dos tribus y media"
+        }
+      ]
     },
     {
       "id": "1chronicles-6",
@@ -505,7 +571,25 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "Las genealogías trazan los hijos de Leví y sus descendientes, incluida la línea sacerdotal de Aarón hasta Finees y los músicos Hemán, Asaf y Etán nombrados por David; el capítulo detalla luego las ciudades y ejidos distribuidos a los coatitas, gersonitas y meraritas entre las tribus de Israel."
+      "keyTakeaway": "Las genealogías trazan los hijos de Leví y sus descendientes, incluida la línea sacerdotal de Aarón hasta Finees y los músicos Hemán, Asaf y Etán nombrados por David; el capítulo detalla luego las ciudades y ejidos distribuidos a los coatitas, gersonitas y meraritas entre las tribus de Israel.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Descendientes de Leví"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Cantores del templo nombrados por David"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "Descendientes de Aarón"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "Las ciudades de los levitas"
+        }
+      ]
     },
     {
       "id": "1chronicles-7",
@@ -582,7 +666,33 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "Los registros genealógicos listan a los descendientes de Isacar, Benjamín, Neftalí, Manasés, Efraín y Aser, incluyendo sus jefes de familia y hombres de guerra; los hijos de Efraín, Ezer y Elead, fueron muertos por hombres de Gat cuando robaban ganado, y su hija Seera construyó ciudades fortificadas."
+      "keyTakeaway": "Los registros genealógicos listan a los descendientes de Isacar, Benjamín, Neftalí, Manasés, Efraín y Aser, incluyendo sus jefes de familia y hombres de guerra; los hijos de Efraín, Ezer y Elead, fueron muertos por hombres de Gat cuando robaban ganado, y su hija Seera construyó ciudades fortificadas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Descendientes de Isacar"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Descendientes de Benjamín"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Descendientes de Neftalí"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Descendientes de Manasés"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Descendientes de Efraín"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Descendientes de Aser"
+        }
+      ]
     },
     {
       "id": "1chronicles-8",
@@ -659,7 +769,13 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "El capítulo traza la genealogía de los descendientes de Benjamín, enumerando las líneas familiares de varios jefes que vivieron en Geba, Manahat, Ajalón y Jerusalén; incluye la línea de Ner a Saúl y sus hijos, y termina con los hijos de Azel y los descendientes de Ulam."
+      "keyTakeaway": "El capítulo traza la genealogía de los descendientes de Benjamín, enumerando las líneas familiares de varios jefes que vivieron en Geba, Manahat, Ajalón y Jerusalén; incluye la línea de Ner a Saúl y sus hijos, y termina con los hijos de Azel y los descendientes de Ulam.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Descendientes de Benjamín"
+        }
+      ]
     },
     {
       "id": "1chronicles-9",
@@ -740,7 +856,17 @@
           "note": "Sacerdotes (descendientes de Aarón) y levitas (asistentes tribales). Crónicas enfatiza sus funciones en el servicio del templo."
         }
       ],
-      "keyTakeaway": "Tras el exilio en Babilonia, los israelitas se reinstalan en sus pueblos; el pasaje enumera las genealogías y funciones de los de Judá, Benjamín, los sacerdotes, levitas y porteros que regresaron a Jerusalén, junto con los descendientes de la familia de Saúl que vivían en Gabaón."
+      "keyTakeaway": "Tras el exilio en Babilonia, los israelitas se reinstalan en sus pueblos; el pasaje enumera las genealogías y funciones de los de Judá, Benjamín, los sacerdotes, levitas y porteros que regresaron a Jerusalén, junto con los descendientes de la familia de Saúl que vivían en Gabaón.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los que regresaron de Babilonia"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Genealogía de Saúl"
+        }
+      ]
     },
     {
       "id": "1chronicles-10",
@@ -783,7 +909,13 @@
           "note": "Quebrantamiento de la confianza contra las obligaciones del pacto."
         }
       ],
-      "keyTakeaway": "La infidelidad de Saúl lleva a su muerte y a la transferencia del reino a David, hijo de Isaí."
+      "keyTakeaway": "La infidelidad de Saúl lleva a su muerte y a la transferencia del reino a David, hijo de Isaí.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Muerte de Saúl y de sus hijos"
+        }
+      ]
     },
     {
       "id": "1chronicles-11",
@@ -864,7 +996,21 @@
           "note": "Frase que describe el discernimiento de Isacar; sabiduría para reconocer el tiempo de Dios y la acción correcta."
         }
       ],
-      "keyTakeaway": "Todo Israel unge a David como rey en Hebrón, y él captura Jerusalén de manos de los jebuseos con Joab como comandante; el capítulo luego enumera los guerreros valientes de David y sus hazañas."
+      "keyTakeaway": "Todo Israel unge a David como rey en Hebrón, y él captura Jerusalén de manos de los jebuseos con Joab como comandante; el capítulo luego enumera los guerreros valientes de David y sus hazañas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David es proclamado rey de Israel"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "David toma la fortaleza de Sion"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Los valientes de David"
+        }
+      ]
     },
     {
       "id": "1chronicles-12",
@@ -938,7 +1084,13 @@
           "note": "Frase que describe el discernimiento de Isacar; sabiduría para reconocer el tiempo de Dios y la acción correcta."
         }
       ],
-      "keyTakeaway": "Guerreros de varias tribus desertan hacia David en Siclag y su fortaleza, jurándole lealtad; más tarde, hombres armados de las doce tribus se reúnen en Hebrón, plenamente comprometidos a hacerlo rey sobre Israel."
+      "keyTakeaway": "Guerreros de varias tribus desertan hacia David en Siclag y su fortaleza, jurándole lealtad; más tarde, hombres armados de las doce tribus se reúnen en Hebrón, plenamente comprometidos a hacerlo rey sobre Israel.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El ejército de David"
+        }
+      ]
     },
     {
       "id": "1chronicles-13",
@@ -986,7 +1138,17 @@
           "note": "Danza gozosa de giro ante el SEÑOR; un acto corporal de adoración."
         }
       ],
-      "keyTakeaway": "David reúne a todo Israel para trasladar el arca de Dios desde Quiriat Jearim a Jerusalén, pero cuando Uza sostiene el arca al tropezar los bueyes, Dios lo hiere de muerte; David deja el arca en la casa de Obed Edom."
+      "keyTakeaway": "David reúne a todo Israel para trasladar el arca de Dios desde Quiriat Jearim a Jerusalén, pero cuando Uza sostiene el arca al tropezar los bueyes, Dios lo hiere de muerte; David deja el arca en la casa de Obed Edom.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David propone trasladar el arca a Jerusalén"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "David intenta traer el arca"
+        }
+      ]
     },
     {
       "id": "1chronicles-14",
@@ -1037,7 +1199,21 @@
           "note": "Danza gozosa de giro ante el SEÑOR; un acto corporal de adoración."
         }
       ],
-      "keyTakeaway": "Hiram de Tiro envía materiales para construirle un palacio a David, quien tiene varios hijos en Jerusalén; cuando los filisteos atacan, David consulta a Dios, los derrota dos veces siguiendo su dirección, y su fama se extiende por todas las tierras."
+      "keyTakeaway": "Hiram de Tiro envía materiales para construirle un palacio a David, quien tiene varios hijos en Jerusalén; cuando los filisteos atacan, David consulta a Dios, los derrota dos veces siguiendo su dirección, y su fama se extiende por todas las tierras.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Hiram envía embajadores a David"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Hijos de David nacidos en Jerusalén"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "David derrota a los filisteos"
+        }
+      ]
     },
     {
       "id": "1chronicles-15",
@@ -1100,7 +1276,13 @@
           "note": "Danza gozosa de giro ante el SEÑOR; un acto corporal de adoración."
         }
       ],
-      "keyTakeaway": "David reúne a los levitas y músicos para llevar el arca de Dios a Jerusalén con la ceremonia adecuada, asignando roles específicos para cargarla, tocar instrumentos y hacer sonar las trompetas. El arca entra a la Ciudad de David en medio de una celebración, mientras Michal observa a David bailar y lo desprecia."
+      "keyTakeaway": "David reúne a los levitas y músicos para llevar el arca de Dios a Jerusalén con la ceremonia adecuada, asignando roles específicos para cargarla, tocar instrumentos y hacer sonar las trompetas. El arca entra a la Ciudad de David en medio de una celebración, mientras Michal observa a David bailar y lo desprecia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David trae el arca a Jerusalén"
+        }
+      ]
     },
     {
       "id": "1chronicles-16",
@@ -1177,7 +1359,17 @@
           "note": "Danza gozosa de giro ante el SEÑOR; un acto corporal de adoración."
         }
       ],
-      "keyTakeaway": "David coloca el arca en una tienda, ofrece sacrificios y distribuye pan al pueblo; designa levitas dirigidos por Asaf para ministrar ante ella con música y alabanza, y establece sacerdotes en Gabaón para ofrecer sacrificios regularmente."
+      "keyTakeaway": "David coloca el arca en una tienda, ofrece sacrificios y distribuye pan al pueblo; designa levitas dirigidos por Asaf para ministrar ante ella con música y alabanza, y establece sacerdotes en Gabaón para ofrecer sacrificios regularmente.",
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "Salmo de acción de gracias de David"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Los levitas encargados del arca"
+        }
+      ]
     },
     {
       "id": "1chronicles-17",
@@ -1233,7 +1425,13 @@
           "note": "Puede significar 'larga duración' o 'eternidad'; la promesa del pacto se extiende más allá de Salomón hasta el cumplimiento mesiánico."
         }
       ],
-      "keyTakeaway": "El pacto davídico promete una dinastía duradera, con el hijo de David construyendo el templo y su trono establecido para siempre."
+      "keyTakeaway": "El pacto davídico promete una dinastía duradera, con el hijo de David construyendo el templo y su trono establecido para siempre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pacto de Dios con David"
+        }
+      ]
     },
     {
       "id": "1chronicles-18",
@@ -1284,7 +1482,17 @@
           "note": "Superficie plana para separar el grano. Lugar sagrado donde Dios se aplaca y cae fuego, elegido después para el templo."
         }
       ],
-      "keyTakeaway": "David derrota a los filisteos, moabitas, las fuerzas de Hadad-ezer y los edomitas en una serie de campañas, establece guarniciones en los territorios conquistados y recibe tributos y regalos de los reyes vencidos. Dedica el botín al Señor y gobierna Israel con justicia junto a sus oficiales militares y administrativos."
+      "keyTakeaway": "David derrota a los filisteos, moabitas, las fuerzas de Hadad-ezer y los edomitas en una serie de campañas, establece guarniciones en los territorios conquistados y recibe tributos y regalos de los reyes vencidos. Dedica el botín al Señor y gobierna Israel con justicia junto a sus oficiales militares y administrativos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David extiende sus dominios"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Oficiales de David"
+        }
+      ]
     },
     {
       "id": "1chronicles-19",
@@ -1337,7 +1545,13 @@
           "note": "Superficie plana para separar el grano. Lugar sagrado donde Dios se aplaca y cae fuego, elegido después para el templo."
         }
       ],
-      "keyTakeaway": "David envía mensajes de condolencia a Hanún tras la muerte de su padre, pero Hanún humilla a los enviados; los amonitas contratan fuerzas arameas para combatir a Israel, aunque Joab derrota a ambos ejércitos y mata a sus comandantes."
+      "keyTakeaway": "David envía mensajes de condolencia a Hanún tras la muerte de su padre, pero Hanún humilla a los enviados; los amonitas contratan fuerzas arameas para combatir a Israel, aunque Joab derrota a ambos ejércitos y mata a sus comandantes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Derrotas de amonitas y sirios"
+        }
+      ]
     },
     {
       "id": "1chronicles-20",
@@ -1379,7 +1593,17 @@
           "note": "Superficie plana para separar el grano. Lugar sagrado donde Dios se aplaca y cae fuego, elegido después para el templo."
         }
       ],
-      "keyTakeaway": "Joab sitia y destruye Rabá mientras David permanece en Jerusalén, toma la corona y el botín del rey amonita, y somete al pueblo conquistado a trabajos forzados. Las fuerzas de David libran varias batallas contra los filisteos, y sus hombres matan a varios gigantes, entre ellos Lahmi, el hermano de Goliat."
+      "keyTakeaway": "Joab sitia y destruye Rabá mientras David permanece en Jerusalén, toma la corona y el botín del rey amonita, y somete al pueblo conquistado a trabajos forzados. Las fuerzas de David libran varias batallas contra los filisteos, y sus hombres matan a varios gigantes, entre ellos Lahmi, el hermano de Goliat.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David captura a Rabá"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Los hombres de David matan a los gigantes"
+        }
+      ]
     },
     {
       "id": "1chronicles-21",
@@ -1443,7 +1667,17 @@
           "note": "Superficie plana para separar el grano. Lugar sagrado donde Dios se aplaca y cae fuego, elegido después para el templo."
         }
       ],
-      "keyTakeaway": "Satanás incita a David a contar los hombres de guerra de Israel; Dios castiga el censo con una plaga que mata a setenta mil personas, pero se detiene cuando David construye un altar y ofrece sacrificios en la era de Arauna."
+      "keyTakeaway": "Satanás incita a David a contar los hombres de guerra de Israel; Dios castiga el censo con una plaga que mata a setenta mil personas, pero se detiene cuando David construye un altar y ofrece sacrificios en la era de Arauna.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David censa al pueblo"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "El lugar para el templo"
+        }
+      ]
     },
     {
       "id": "1chronicles-22",
@@ -1490,7 +1724,13 @@
           "note": "Lugar santo apartado para la presencia de Dios entre su pueblo."
         }
       ],
-      "keyTakeaway": "David no puede construir el templo por sus guerras, pero hace preparativos abundantes. Salomón es elegido como el hombre de paz para construir la casa de Dios."
+      "keyTakeaway": "David no puede construir el templo por sus guerras, pero hace preparativos abundantes. Salomón es elegido como el hombre de paz para construir la casa de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Preparativos para el templo"
+        }
+      ]
     },
     {
       "id": "1chronicles-23",
@@ -1556,7 +1796,13 @@
           "note": "Diseño o patrón; David afirma que sus planos del templo vinieron 'por el Espíritu' (28:12)."
         }
       ],
-      "keyTakeaway": "David nombra a Salomón como rey y organiza a treinta y ocho mil levitas en divisiones para el servicio del templo, asignándoles tareas de mantenimiento del edificio, dirección de la adoración, función de jueces y porteros, y asistencia a los descendientes de Aarón en el manejo de objetos sagrados y ofrendas."
+      "keyTakeaway": "David nombra a Salomón como rey y organiza a treinta y ocho mil levitas en divisiones para el servicio del templo, asignándoles tareas de mantenimiento del edificio, dirección de la adoración, función de jueces y porteros, y asistencia a los descendientes de Aarón en el manejo de objetos sagrados y ofrendas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Distribución y deberes de los levitas"
+        }
+      ]
     },
     {
       "id": "1chronicles-24",
@@ -1686,7 +1932,13 @@
           "note": "Diseño o patrón; David afirma que sus planos del templo vinieron 'por el Espíritu' (28:12)."
         }
       ],
-      "keyTakeaway": "David y los jefes apartaron a los hijos de Asaf, Hemán y Jedutún para profetizar y hacer música en el templo; 288 músicos capacitados echaron suertes para determinar sus veinticuatro turnos rotativos de servicio."
+      "keyTakeaway": "David y los jefes apartaron a los hijos de Asaf, Hemán y Jedutún para profetizar y hacer música en el templo; 288 músicos capacitados echaron suertes para determinar sus veinticuatro turnos rotativos de servicio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Distribución de músicos y cantores"
+        }
+      ]
     },
     {
       "id": "1chronicles-26",
@@ -1752,7 +2004,13 @@
           "note": "Diseño o patrón; David afirma que sus planos del templo vinieron 'por el Espíritu' (28:12)."
         }
       ],
-      "keyTakeaway": "Los porteros del templo y los levitas son organizados por divisiones familiares y asignados a distintas puertas y funciones; otros levitas son designados para administrar los tesoros del templo, servir como oficiales y jueces, y supervisar la obra del Señor y el servicio del rey."
+      "keyTakeaway": "Los porteros del templo y los levitas son organizados por divisiones familiares y asignados a distintas puertas y funciones; otros levitas son designados para administrar los tesoros del templo, servir como oficiales y jueces, y supervisar la obra del Señor y el servicio del rey.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Porteros y oficiales"
+        }
+      ]
     },
     {
       "id": "1chronicles-27",
@@ -1820,7 +2078,13 @@
           "note": "Diseño o patrón; David afirma que sus planos del templo vinieron 'por el Espíritu' (28:12)."
         }
       ],
-      "keyTakeaway": "El capítulo enumera doce comandantes militares que dirigían 24,000 hombres en turnos mensuales rotativos, seguidos de los líderes de las doce tribus y los funcionarios a cargo de los almacenes, los campos, los rebaños y otras propiedades del rey. Joab comenzó a contar a los hombres pero no terminó, y la ira de Dios vino sobre Israel a causa de este censo."
+      "keyTakeaway": "El capítulo enumera doce comandantes militares que dirigían 24,000 hombres en turnos mensuales rotativos, seguidos de los líderes de las doce tribus y los funcionarios a cargo de los almacenes, los campos, los rebaños y otras propiedades del rey. Joab comenzó a contar a los hombres pero no terminó, y la ira de Dios vino sobre Israel a causa de este censo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Otros oficiales de David"
+        }
+      ]
     },
     {
       "id": "1chronicles-28",
@@ -1875,7 +2139,13 @@
           "note": "Diseño o patrón; David afirma que sus planos del templo vinieron 'por el Espíritu' (28:12)."
         }
       ],
-      "keyTakeaway": "David reúne a los líderes de Israel y anuncia que Salomón, y no él, construirá el templo porque David es un guerrero que derramó sangre; luego le entrega a Salomón planos arquitectónicos detallados, especificaciones de materiales e instrucciones para los sacerdotes, y lo exhorta a ser fuerte y obedecer los mandamientos de Dios."
+      "keyTakeaway": "David reúne a los líderes de Israel y anuncia que Salomón, y no él, construirá el templo porque David es un guerrero que derramó sangre; luego le entrega a Salomón planos arquitectónicos detallados, especificaciones de materiales e instrucciones para los sacerdotes, y lo exhorta a ser fuerte y obedecer los mandamientos de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salomón sucede a David"
+        }
+      ]
     },
     {
       "id": "1chronicles-29",
@@ -1939,7 +2209,13 @@
           "note": "Diseño o patrón; David afirma que sus planos del templo vinieron 'por el Espíritu' (28:12)."
         }
       ],
-      "keyTakeaway": "David presenta sus tesoros personales para el templo y llama al pueblo a contribuir; los líderes responden con generosidad ofreciendo oro, plata, bronce y hierro. David alaba a Dios, el pueblo ofrece sacrificios, Salomón es ungido rey por segunda vez y el reinado de cuarenta años de David concluye."
+      "keyTakeaway": "David presenta sus tesoros personales para el templo y llama al pueblo a contribuir; los líderes responden con generosidad ofreciendo oro, plata, bronce y hierro. David alaba a Dios, el pueblo ofrece sacrificios, Salomón es ungido rey por segunda vez y el reinado de cuarenta años de David concluye.",
+      "headings": [
+        {
+          "beforeVerse": 25,
+          "text": "Muerte de David"
+        }
+      ]
     }
   ]
 }

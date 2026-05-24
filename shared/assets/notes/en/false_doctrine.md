@@ -526,9 +526,7 @@ This is why Calvinism belongs in this document despite affirming the Trinity, th
 
 ---
 
-### New Apostolic Reformation and Modern Apostle Movements
-
-### New Apostolic Reformation (NAR) (1990s-present)
+### New Apostolic Reformation (NAR)
 
 **Also known as:** NAR. New Apostolic Reformation. Apostolic Reformation. Apostolic-Prophetic Movement. Independent Charismatic Movement. Third Wave (the broader 20th-century charismatic stream that produced NAR). Strategic Level Spiritual Warfare (the C. Peter Wagner system). Identificational Repentance. Spiritual Mapping. Seven Mountains Mandate / Seven Mountain Dominion (the dominion-theology framework). Dominionism / Dominion Theology (the broader political-theological project). Seven Mountains of Influence (Loren Cunningham/Bill Bright origin, NAR-coopted). Reconstructionism (overlapping but distinct, more Reformed in origin). Theonomy (overlapping). Joel's Army. The Elijah Generation. The Bride Movement. The "Apostles and Prophets" governance model. Major figures: C. Peter Wagner (the chief theologian and label-coiner; died 2016). Cindy Jacobs. Mike Bickle (International House of Prayer / IHOPKC, Kansas City; significant abuse scandal in 2023-2024). Bill Johnson (Bethel Church, Redding, CA). Kris Vallotton (Bethel). Lou Engle. Lance Wallnau. Ché Ahn (Harvest International Ministry). Dutch Sheets. Chuck Pierce. Patricia King. Bob Jones (the "prophet"). Paul Cain (associated with the Kansas City Prophets; later admitted to alcoholism and homosexuality). Rick Joyner (MorningStar Ministries). Paula White (Trump-affiliated; bridges NAR and Word of Faith). Networks: International Coalition of Apostolic Leaders (ICAL, Wagner's network). Apostolic Council of Prophetic Elders (ACPE). U.S. Reformation Prayer Network. Major institutions: Bethel Church (Redding, CA). International House of Prayer Kansas City (IHOPKC, before the 2023-2024 scandal). The Pohl Network.
 

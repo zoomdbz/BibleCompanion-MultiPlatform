@@ -45,7 +45,17 @@
           "note": "Si riferisce a qualcosa affidato in custodia; qui, il messaggio del vangelo e l'incarico ministeriale."
         }
       ],
-      "keyTakeaway": "Paolo ringrazia Dio per la fede di Timoteo, lo esorta al coraggio e alla fedeltà nel custodire il vangelo, e ricorda esempi di abbandono e di lealtà."
+      "keyTakeaway": "Paolo ringrazia Dio per la fede di Timoteo, lo esorta al coraggio e alla fedeltà nel custodire il vangelo, e ricorda esempi di abbandono e di lealtà.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Esortazione rivolta a Timoteo"
+        }
+      ]
     },
     {
       "id": "2_timothy-2",
@@ -93,7 +103,17 @@
           "note": "Letteralmente 'tagliare dritto'; figurato per insegnare e applicare correttamente la parola di Dio."
         }
       ],
-      "keyTakeaway": "Paolo esorta Timoteo a sopportare le difficoltà, trasmettere il vangelo, evitare le dispute e correggere con dolcezza, usando le metafore del soldato, dell'atleta e del contadino."
+      "keyTakeaway": "Paolo esorta Timoteo a sopportare le difficoltà, trasmettere il vangelo, evitare le dispute e correggere con dolcezza, usando le metafore del soldato, dell'atleta e del contadino.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il soldato fedele di Gesù Cristo"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Avvertimento contro l’empietà"
+        }
+      ]
     },
     {
       "id": "2_timothy-3",
@@ -137,7 +157,17 @@
           "note": "Parola unica che significa 'soffiata da Dio'; usata per indicare l'origine divina della Scrittura."
         }
       ],
-      "keyTakeaway": "Paolo mette in guardia contro le persone corrotte degli ultimi giorni, richiama il proprio esempio di perseveranza e afferma l'ispirazione divina e l'utilità di tutta la Scrittura."
+      "keyTakeaway": "Paolo mette in guardia contro le persone corrotte degli ultimi giorni, richiama il proprio esempio di perseveranza e afferma l'ispirazione divina e l'utilità di tutta la Scrittura.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Corruzione estrema degli ultimi tempi"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Esortazioni varie rivolte a Timoteo"
+        }
+      ]
     },
     {
       "id": "2_timothy-4",
@@ -186,7 +216,13 @@
           "note": "Immagine della ricompensa per i fedeli; la corona simboleggia onore e giustificazione conferiti all'apparizione di Cristo."
         }
       ],
-      "keyTakeaway": "Paolo esorta Timoteo a predicare fedelmente, riflette sul completamento della sua corsa e sull'attesa di una corona, menziona compagni e difficoltà personali, e chiude con saluti e benedizione."
+      "keyTakeaway": "Paolo esorta Timoteo a predicare fedelmente, riflette sul completamento della sua corsa e sull'attesa di una corona, menziona compagni e difficoltà personali, e chiude con saluti e benedizione.",
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "Paolo prevede la sua morte; ultime raccomandazioni"
+        }
+      ]
     }
   ]
 }

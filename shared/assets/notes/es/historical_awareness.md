@@ -135,7 +135,7 @@ El *Libro de Enoc* fue ampliamente leído en comunidades judías y cristianas, c
 
 * **3 Enoc (Enoc Hebreo)**: Un texto rabínico posterior (~siglo V–VI d.C.). Aquí, Enoc se transforma en el ángel Metatrón, jefe de las huestes celestiales. Refleja el misticismo judío y la cábala, no la tradición cristiana primitiva ni la del Segundo Templo.
 
-### Para la profecía, solo **1 Enoc** se alinea con Génesis, Apocalipsis y Judas.
+**Para la profecía, solo **1 Enoc** se alinea con Génesis, Apocalipsis y Judas.**
 
 ---
 
@@ -241,7 +241,7 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 ---
 
-### **Tiempos señalados bíblicos frente a tradiciones adoptadas**
+**Tiempos señalados bíblicos frente a tradiciones adoptadas**
 
 Aunque muchas celebraciones modernas provienen del sincretismo religioso, la Escritura define ciertos *moedim* (tiempos señalados) establecidos por Dios en (Levítico 23). Estos no son festividades culturales, sino citas divinas que revelan el patrón de redención cumplido en el Mesías. Los primeros creyentes continuaron honrando estas fiestas como parte del ritmo del pacto de Dios (Hechos 2:1) (Hechos 20:6) (Hechos 20:16) (1 Corintios 5:8). En los siglos posteriores, especialmente bajo el dominio romano, fueron reemplazadas por celebraciones civiles y estacionales para ajustarse a la cultura del imperio en lugar de la Escritura.
 

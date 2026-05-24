@@ -207,9 +207,9 @@
     <string name="feast_typology_passover_meaning">Crucifixion</string>
     <string name="feast_typology_unleavened_name">Unleavened Bread (Nisan 15)</string>
     <string name="feast_typology_unleavened_meaning">Burial / sinlessness</string>
-    <string name="feast_typology_firstfruits_name">Firstfruits (Nisan 16)</string>
+    <string name="feast_typology_firstfruits_name">Firstfruits</string>
     <string name="feast_typology_firstfruits_meaning">Resurrection</string>
-    <string name="feast_typology_weeks_name">Feast of Weeks / Pentecost (Sivan 6)</string>
+    <string name="feast_typology_weeks_name">Feast of Weeks / Pentecost</string>
     <string name="feast_typology_weeks_meaning">Holy Spirit given</string>
     <string name="feast_typology_trumpets_name">Trumpets (Tishrei 1)</string>
     <string name="feast_typology_trumpets_meaning">Second coming / rapture</string>
@@ -320,6 +320,13 @@
     <string name="feast_fast_esther">Fast of Esther</string>
     <string name="feast_fast_esther_ref">Esther 4:16</string>
 
+    <!-- Essene / Temple Scroll / Jubilees feasts -->
+    <string name="feast_new_wine_name">Feast of New Wine</string>
+    <string name="feast_new_oil_name">Feast of New Oil</string>
+    <string name="feast_memorial_q2_name">Second Memorial Day</string>
+    <string name="feast_memorial_q4_name">Fourth Memorial Day</string>
+    <string name="essene_calendar_label">Essene</string>
+
     <!-- Prophecy -->
     <string name="prophecy">Prophecy</string>
     <string name="prophecy_subtitle">Explore the prophetic threads woven through Scripture; from Messianic fulfillment to the feasts of Revelation.</string>
@@ -334,4 +341,7 @@
     <string name="chapters_label">Chapters</string>
     <string name="verse_label">Verse</string>
     <string name="verses_label">Verses</string>
+    <string name="intro_short">Intro</string>
+    <string name="intro_section_header">Book Introduction</string>
+    <string name="tts_read_intros">TTS reads book intros</string>
 </resources>

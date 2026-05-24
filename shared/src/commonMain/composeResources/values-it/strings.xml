@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">Digiuno di Ester</string>
     <string name="feast_fast_esther_ref">Ester 4:16</string>
 
+    <!-- Feste essene / Rotolo del Tempio / Giubilei -->
+    <string name="feast_new_wine_name">Festa del Vino Nuovo</string>
+    <string name="feast_new_oil_name">Festa dell’Olio Nuovo</string>
+    <string name="feast_memorial_q2_name">Secondo Giorno Memoriale</string>
+    <string name="feast_memorial_q4_name">Quarto Giorno Memoriale</string>
+    <string name="essene_calendar_label">Esseno</string>
+
     <!-- Prophecy -->
     <string name="prophecy">Profezia</string>
     <string name="prophecy_subtitle">Esplora i fili profetici intrecciati nella Scrittura; dall'adempimento messianico alle feste dell'Apocalisse.</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">Crocifissione</string>
     <string name="feast_typology_unleavened_name">Pani senza lievito (Nisan 15)</string>
     <string name="feast_typology_unleavened_meaning">Sepoltura / senza peccato</string>
-    <string name="feast_typology_firstfruits_name">Primizie (Nisan 16)</string>
+    <string name="feast_typology_firstfruits_name">Primizie</string>
     <string name="feast_typology_firstfruits_meaning">Risurrezione</string>
-    <string name="feast_typology_weeks_name">Festa delle Settimane / Pentecoste (Sivan 6)</string>
+    <string name="feast_typology_weeks_name">Festa delle Settimane / Pentecoste</string>
     <string name="feast_typology_weeks_meaning">Dono dello Spirito Santo</string>
     <string name="feast_typology_trumpets_name">Trombe (Tishri 1)</string>
     <string name="feast_typology_trumpets_meaning">Seconda venuta / rapimento</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">Versetto</string>
     <string name="verses_label">Versetti</string>
     <string name="search_searching">Ricerca in corso…</string>
+    <string name="intro_short">Intro</string>
+    <string name="intro_section_header">Introduzione del libro</string>
+    <string name="tts_read_intros">TTS legge le introduzioni</string>
 </resources>

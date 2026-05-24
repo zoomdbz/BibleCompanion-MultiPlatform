@@ -46,7 +46,25 @@
           "note": "Refere-se à ordem mundial atual sob o poder do pecado, em contraste com a era vindoura."
         }
       ],
-      "keyTakeaway": "Paulo começa com sua autoridade dada por Deus, a entrega de Cristo pelos pecados e louvor à glória de Deus."
+      "keyTakeaway": "Paulo começa com sua autoridade dada por Deus, a entrega de Cristo pelos pecados e louvor à glória de Deus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "A inconstância dos gálatas"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "O evangelho que Paulo recebeu e pregou"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Paulo vai a Jerusalém, Síria e Cilícia"
+        }
+      ]
     },
     {
       "id": "galatians-2",
@@ -89,7 +107,17 @@
           "note": "Termo para pessoas que se diziam crentes, mas agiam contra o evangelho."
         }
       ],
-      "keyTakeaway": "Paulo relata sua visita a Jerusalém, onde os líderes aprovaram seu evangelho e não exigiram nada dele, exceto que se lembrasse dos pobres."
+      "keyTakeaway": "Paulo relata sua visita a Jerusalém, onde os líderes aprovaram seu evangelho e não exigiram nada dele, exceto que se lembrasse dos pobres.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O apostolado aos judeus e aos gentios"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Paulo repreende a Pedro. A justificação pela fé em Cristo Jesus"
+        }
+      ]
     },
     {
       "id": "galatians-3",
@@ -141,7 +169,25 @@
           "note": "Uma declaração vinculante de condenação ou exclusão; Paulo cita Dt 27:26 e 21:23 para mostrar que Cristo suportou a maldição da lei."
         }
       ],
-      "keyTakeaway": "Paulo afirma que as Escrituras mostram que a justificação e o Espírito vêm pela fé, não pela lei, e que Cristo se tornou uma maldição sob a lei para que os gentios recebessem a bênção de Abraão pela fé."
+      "keyTakeaway": "Paulo afirma que as Escrituras mostram que a justificação e o Espírito vêm pela fé, não pela lei, e que Cristo se tornou uma maldição sob a lei para que os gentios recebessem a bênção de Abraão pela fé.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo apela para a experiência dos gálatas"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "A experiência de Abraão"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A lei não pode invalidar a promessa"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "A tutela da lei para nos conduzir a Cristo"
+        }
+      ]
     },
     {
       "id": "galatians-4",
@@ -200,7 +246,25 @@
           "note": "Forma aramaica íntima de 'pai', mantida no texto grego como um clamor direto de filiação."
         }
       ],
-      "keyTakeaway": "Paulo contrasta a escravidão sob os princípios elementares com a filiação por meio do Filho e do Espírito de Deus, apela contra o retorno às observâncias e expressa angústia pessoal pelos Gálatas."
+      "keyTakeaway": "Paulo contrasta a escravidão sob os princípios elementares com a filiação por meio do Filho e do Espírito de Deus, apela contra o retorno às observâncias e expressa angústia pessoal pelos Gálatas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A nossa filiação em Cristo"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "O valor transitório dos ritos judaicos"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A perplexidade de Paulo"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Sara e Agar, alegoria das duas alianças"
+        }
+      ]
     },
     {
       "id": "galatians-5",
@@ -249,7 +313,21 @@
           "note": "Hipérbole forte dirigida aos agitadores que pressionavam pela circuncisão; o verbo significa cortar/mutilar. Paulo usa linguagem deliberadamente chocante."
         }
       ],
-      "keyTakeaway": "Paulo exorta os gálatas a permanecerem firmes na liberdade da lei, alerta contra a circuncisão e os chama a servir uns aos outros com amor."
+      "keyTakeaway": "Paulo exorta os gálatas a permanecerem firmes na liberdade da lei, alerta contra a circuncisão e os chama a servir uns aos outros com amor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ou a lei ou Cristo"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A liberdade é limitada pelo amor"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "As obras da carne e o fruto do Espírito"
+        }
+      ]
     },
     {
       "id": "galatians-6",
@@ -290,7 +368,25 @@
           "note": "Provavelmente se refere ao mandamento de Cristo de amar uns aos outros, o princípio que rege a conduta cristã."
         }
       ],
-      "keyTakeaway": "Paulo instrui os crentes a restaurar os que caíram, carregar os fardos uns dos outros, semear para o Espírito e perseverar em fazer o bem."
+      "keyTakeaway": "Paulo instrui os crentes a restaurar os que caíram, carregar os fardos uns dos outros, semear para o Espírito e perseverar em fazer o bem.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O auxílio mútuo e a responsabilidade pessoal"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "O que o homem semear, isso também ceifará"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Paulo gloria-se na cruz de Cristo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A bênção"
+        }
+      ]
     }
   ]
 }

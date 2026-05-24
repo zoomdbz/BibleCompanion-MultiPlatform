@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">Ayuno de Ester</string>
     <string name="feast_fast_esther_ref">Ester 4:16</string>
 
+    <!-- Fiestas esenias / Rollo del Templo / Jubileos -->
+    <string name="feast_new_wine_name">Fiesta del Vino Nuevo</string>
+    <string name="feast_new_oil_name">Fiesta del Aceite Nuevo</string>
+    <string name="feast_memorial_q2_name">Segundo Día de Memorial</string>
+    <string name="feast_memorial_q4_name">Cuarto Día de Memorial</string>
+    <string name="essene_calendar_label">Esenio</string>
+
     <!-- Prophecy -->
     <string name="prophecy">Profecía</string>
     <string name="prophecy_subtitle">Explora los hilos proféticos tejidos a lo largo de las Escrituras; desde el cumplimiento mesiánico hasta las fiestas del Apocalipsis.</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">Crucifixión</string>
     <string name="feast_typology_unleavened_name">Panes sin levadura (Nisán 15)</string>
     <string name="feast_typology_unleavened_meaning">Sepultura / sin pecado</string>
-    <string name="feast_typology_firstfruits_name">Primicias (Nisán 16)</string>
+    <string name="feast_typology_firstfruits_name">Primicias</string>
     <string name="feast_typology_firstfruits_meaning">Resurrección</string>
-    <string name="feast_typology_weeks_name">Fiesta de las Semanas / Pentecostés (Siván 6)</string>
+    <string name="feast_typology_weeks_name">Fiesta de las Semanas / Pentecostés</string>
     <string name="feast_typology_weeks_meaning">Entrega del Espíritu Santo</string>
     <string name="feast_typology_trumpets_name">Trompetas (Tishri 1)</string>
     <string name="feast_typology_trumpets_meaning">Segunda venida / arrebatamiento</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">Versículo</string>
     <string name="verses_label">Versículos</string>
     <string name="search_searching">Buscando…</string>
+    <string name="intro_short">Intro</string>
+    <string name="intro_section_header">Introducción del Libro</string>
+    <string name="tts_read_intros">TTS lee las introducciones</string>
 </resources>

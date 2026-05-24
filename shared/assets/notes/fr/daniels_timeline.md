@@ -42,7 +42,7 @@ C'est la chronologie messianique la plus précise de la Bible.
 
 L'ange Gabriel dit à Daniel : **"Soixante-dix semaines sont fixées sur ton peuple et sur ta ville sainte"** (Daniel 9:24). Le mot hébreu *shabuim* signifie "septaines", soixante-dix ensembles de sept ans = **490 ans**.
 
-### Le Décret
+**Le Décret**
 "Depuis le moment où la parole a annoncé que Jérusalem sera rebâtie" : c'est le décret d'Artaxerxès à Néhémie en **445 av. J.-C.** (Néhémie 2:1–8).
 
 ### La Chronologie

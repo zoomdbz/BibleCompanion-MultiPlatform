@@ -73,7 +73,13 @@
           "note": "Cesar; el séptimo día es apartado como un don y marcador en el tiempo."
         }
       ],
-      "keyTakeaway": "Dios crea la luz y la separa de las tinieblas, establece el cielo y el mar, produce vegetación, coloca el sol, la luna y las estrellas en el cielo, y crea las criaturas marinas y las aves; luego Dios hace al ser humano a su imagen, hombre y mujer, y les da dominio sobre todos los seres vivos y las plantas como alimento."
+      "keyTakeaway": "Dios crea la luz y la separa de las tinieblas, establece el cielo y el mar, produce vegetación, coloca el sol, la luna y las estrellas en el cielo, y crea las criaturas marinas y las aves; luego Dios hace al ser humano a su imagen, hombre y mujer, y les da dominio sobre todos los seres vivos y las plantas como alimento.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La creación"
+        }
+      ]
     },
     {
       "id": "genesis-2",
@@ -140,7 +146,13 @@
           "note": "Cesar; el séptimo día es apartado como un don y marcador en el tiempo."
         }
       ],
-      "keyTakeaway": "Dios descansa el séptimo día tras completar la creación, luego forma a Adán del polvo, lo coloca en el jardín del Edén con instrucciones de no comer del árbol del conocimiento del bien y del mal, y crea a una mujer de la costilla de Adán como su ayuda idónea. Adán pone nombre a todos los animales, le pone nombre a la mujer, y viven juntos desnudos sin vergüenza."
+      "keyTakeaway": "Dios descansa el séptimo día tras completar la creación, luego forma a Adán del polvo, lo coloca en el jardín del Edén con instrucciones de no comer del árbol del conocimiento del bien y del mal, y crea a una mujer de la costilla de Adán como su ayuda idónea. Adán pone nombre a todos los animales, le pone nombre a la mujer, y viven juntos desnudos sin vergüenza.",
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "El hombre en el huerto de Edén"
+        }
+      ]
     },
     {
       "id": "genesis-3",
@@ -206,7 +218,13 @@
           "note": "Una penalidad o dificultad declarada; no un hechizo mágico."
         }
       ],
-      "keyTakeaway": "Tras comer el fruto prohibido, se anuncian las consecuencias y el hombre y la mujer son expulsados del Edén."
+      "keyTakeaway": "Tras comer el fruto prohibido, se anuncian las consecuencias y el hombre y la mujer son expulsados del Edén.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Desobediencia del hombre"
+        }
+      ]
     },
     {
       "id": "genesis-4",
@@ -290,7 +308,13 @@
           "note": "Padre de Noé, vivió 777 años; distinto de Lamec en la línea de Caín."
         }
       ],
-      "keyTakeaway": "Caín atrae a Abel al campo y lo mata; Dios declara juicio, y las generaciones de la humanidad comienzan a multiplicarse entre violencia y adoración. La línea de Caín desarrolla ciudades y habilidades pero se vuelve violenta; la línea de Adán a través de Set se preserva, con vidas registradas hasta Noé, incluido Enoc, quien caminó con Dios."
+      "keyTakeaway": "Caín atrae a Abel al campo y lo mata; Dios declara juicio, y las generaciones de la humanidad comienzan a multiplicarse entre violencia y adoración. La línea de Caín desarrolla ciudades y habilidades pero se vuelve violenta; la línea de Adán a través de Set se preserva, con vidas registradas hasta Noé, incluido Enoc, quien caminó con Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Caín y Abel"
+        }
+      ]
     },
     {
       "id": "genesis-5",
@@ -359,7 +383,13 @@
           "note": "Registros de linaje o historias familiares."
         }
       ],
-      "keyTakeaway": "La genealogía traza el linaje de Adán hasta Noé, destacando las largas vidas de los patriarcas y el caso singular de Enoc, quien anduvo con Dios."
+      "keyTakeaway": "La genealogía traza el linaje de Adán hasta Noé, destacando las largas vidas de los patriarcas y el caso singular de Enoc, quien anduvo con Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los descendientes de Adán"
+        }
+      ]
     },
     {
       "id": "genesis-6",
@@ -414,7 +444,17 @@
           "note": "Favor, aceptación o bondad concedida por Dios."
         }
       ],
-      "keyTakeaway": "Dios anuncia el juicio mediante un diluvio pero establece a Noé para preservar la vida mediante la obediencia."
+      "keyTakeaway": "Dios anuncia el juicio mediante un diluvio pero establece a Noé para preservar la vida mediante la obediencia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La maldad de los hombres"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Noé construye el arca"
+        }
+      ]
     },
     {
       "id": "genesis-7",
@@ -465,7 +505,13 @@
           "note": "Una embarcación grande en forma de caja; el término también se usa para la canasta del bebé Moisés."
         }
       ],
-      "keyTakeaway": "El diluvio destruye a todos los seres vivos que están fuera del arca; solo Noé, su familia y los animales que están con él sobreviven."
+      "keyTakeaway": "El diluvio destruye a todos los seres vivos que están fuera del arca; solo Noé, su familia y los animales que están con él sobreviven.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El diluvio"
+        }
+      ]
     },
     {
       "id": "genesis-8",
@@ -575,7 +621,17 @@
           "note": "Marcador visible que conmemora una declaración; aquí, el arcoíris para el pacto."
         }
       ],
-      "keyTakeaway": "Dios establece un pacto perpetuo con Noé y todas las criaturas vivientes, da instrucciones sobre el alimento y el linaje continúa a través de los hijos de Noé."
+      "keyTakeaway": "Dios establece un pacto perpetuo con Noé y todas las criaturas vivientes, da instrucciones sobre el alimento y el linaje continúa a través de los hijos de Noé.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pacto de Dios con Noé"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Embriaguez de Noé"
+        }
+      ]
     },
     {
       "id": "genesis-10",
@@ -644,7 +700,13 @@
           "note": "Fuerte o valiente; usado para Nimrod como una figura notable."
         }
       ],
-      "keyTakeaway": "Una genealogía muestra cómo las familias, tierras e idiomas se dispersaron desde los hijos de Noé en naciones distintas. Desde Sem hasta Abram, Dios preserva una línea elegida a través de generaciones y nombres, preparando su pacto con Abraham."
+      "keyTakeaway": "Una genealogía muestra cómo las familias, tierras e idiomas se dispersaron desde los hijos de Noé en naciones distintas. Desde Sem hasta Abram, Dios preserva una línea elegida a través de generaciones y nombres, preparando su pacto con Abraham.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los descendientes de los hijos de Noé"
+        }
+      ]
     },
     {
       "id": "genesis-11",
@@ -709,7 +771,21 @@
           "note": "Reputación o renombre; aquí, la intención humana de establecer identidad."
         }
       ],
-      "keyTakeaway": "Dios confunde el idioma humano y dispersa a la gente desde Babel, deteniendo el proyecto de la ciudad y la torre."
+      "keyTakeaway": "Dios confunde el idioma humano y dispersa a la gente desde Babel, deteniendo el proyecto de la ciudad y la torre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La torre de Babel"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Los descendientes de Sem"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Los descendientes de Taré"
+        }
+      ]
     },
     {
       "id": "genesis-12",
@@ -766,7 +842,17 @@
           "note": "Aflicciones o golpes; aquí, aflicciones divinas sobre la casa de Faraón."
         }
       ],
-      "keyTakeaway": "Abram obedece el llamado de Dios y viaja a Canaán, pero en Egipto Sarai es llevada al palacio del faraón hasta que Dios interviene con plagas."
+      "keyTakeaway": "Abram obedece el llamado de Dios y viaja a Canaán, pero en Egipto Sarai es llevada al palacio del faraón hasta que Dios interviene con plagas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dios llama a Abram"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Abram en Egipto"
+        }
+      ]
     },
     {
       "id": "genesis-13",
@@ -811,7 +897,13 @@
           "note": "Errar el blanco; quedarse corto del estándar que Dios estableció, no simplemente hacer cosas malas."
         }
       ],
-      "keyTakeaway": "Abram y Lot se separan para evitar conflictos; Abram permanece en Canaán y recibe nuevas promesas de tierra."
+      "keyTakeaway": "Abram y Lot se separan para evitar conflictos; Abram permanece en Canaán y recibe nuevas promesas de tierra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abram y Lot se separan"
+        }
+      ]
     },
     {
       "id": "genesis-14",
@@ -862,7 +954,17 @@
           "note": "Una décima parte de los bienes; aquí dada por Abram a Melquisedec."
         }
       ],
-      "keyTakeaway": "Abram rescues a Lot de reyes que lo habían capturado y recibe la bendición de Melquisedec; Abram rechaza la recompensa del rey de Sodoma."
+      "keyTakeaway": "Abram rescues a Lot de reyes que lo habían capturado y recibe la bendición de Melquisedec; Abram rechaza la recompensa del rey de Sodoma.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abram liberta a Lot"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Melquisedec bendice a Abram"
+        }
+      ]
     },
     {
       "id": "genesis-15",
@@ -915,7 +1017,13 @@
           "note": "Mensaje o declaración; la narrativa dice que la palabra del SEÑOR vino en una visión."
         }
       ],
-      "keyTakeaway": "Dios le asegura a Abram una descendencia innumerable y le otorga la tierra mediante un pacto sellado con un ritual solemne."
+      "keyTakeaway": "Dios le asegura a Abram una descendencia innumerable y le otorga la tierra mediante un pacto sellado con un ritual solemne.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dios promete a Abram un hijo"
+        }
+      ]
     },
     {
       "id": "genesis-16",
@@ -963,7 +1071,13 @@
           "note": "Afligir, oprimir o humillar; describe el trato de Sarai hacia Agar."
         }
       ],
-      "keyTakeaway": "Sarai le da Hagar a Abram; cuando Hagar queda embarazada y huye del maltrato, Dios la ve y le promete un hijo llamado Ismael."
+      "keyTakeaway": "Sarai le da Hagar a Abram; cuando Hagar queda embarazada y huye del maltrato, Dios la ve y le promete un hijo llamado Ismael.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Agar e Ismael"
+        }
+      ]
     },
     {
       "id": "genesis-17",
@@ -1022,7 +1136,13 @@
           "note": "Compromiso formal vinculante; aquí, entre Dios y la línea de Abraham con una señal perpetua."
         }
       ],
-      "keyTakeaway": "Dios formaliza el pacto con Abraham, establece la circuncisión como su señal y promete un hijo por medio de Sara que se llamará Isaac."
+      "keyTakeaway": "Dios formaliza el pacto con Abraham, establece la circuncisión como su señal y promete un hijo por medio de Sara que se llamará Isaac.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La circuncisión, señal del pacto"
+        }
+      ]
     },
     {
       "id": "genesis-18",
@@ -1087,7 +1207,17 @@
           "note": "Asombro o reverencia hacia Dios, no terror; aparece como medida de integridad en narrativas relacionadas."
         }
       ],
-      "keyTakeaway": "Se reafirma el hijo prometido a Sara, y Abraham intercede por Sodoma y Gomorra."
+      "keyTakeaway": "Se reafirma el hijo prometido a Sara, y Abraham intercede por Sodoma y Gomorra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Promesa del nacimiento de Isaac"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Abraham intercede por Sodoma"
+        }
+      ]
     },
     {
       "id": "genesis-19",
@@ -1163,7 +1293,13 @@
           "note": "Sustancias ardientes que llueven del cielo como instrumentos de destrucción."
         }
       ],
-      "keyTakeaway": "La corrupción de Sodoma queda expuesta en actos de violencia; Dios destruye las ciudades mientras rescata a Lot, cuya historia familiar continúa con eventos perturbadores."
+      "keyTakeaway": "La corrupción de Sodoma queda expuesta en actos de violencia; Dios destruye las ciudades mientras rescata a Lot, cuya historia familiar continúa con eventos perturbadores.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Destrucción de Sodoma y Gomorra"
+        }
+      ]
     },
     {
       "id": "genesis-20",
@@ -1223,7 +1359,13 @@
           "note": "Una visión nocturna usada por Dios para comunicar advertencias o indicaciones."
         }
       ],
-      "keyTakeaway": "Sara es llevada a la casa de Abimelec, pero Dios interviene antes de que sea tocada; Abimelec la devuelve y es sanado después de que Abraham ora."
+      "keyTakeaway": "Sara es llevada a la casa de Abimelec, pero Dios interviene antes de que sea tocada; Abimelec la devuelve y es sanado después de que Abraham ora.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abraham y Abimelec"
+        }
+      ]
     },
     {
       "id": "genesis-21",
@@ -1284,7 +1426,21 @@
           "note": "Pozo de siete o juramento; sitio del tratado y de un pozo."
         }
       ],
-      "keyTakeaway": "El nacimiento de Isaac cumple la promesa; Agar e Ismael parten bajo el cuidado de Dios; Abraham hace un pacto en Beerseba."
+      "keyTakeaway": "El nacimiento de Isaac cumple la promesa; Agar e Ismael parten bajo el cuidado de Dios; Abraham hace un pacto en Beerseba.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Nacimiento de Isaac"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Agar e Ismael son echados de la casa de Abraham"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Pacto entre Abraham y Abimelec"
+        }
+      ]
     },
     {
       "id": "genesis-22",
@@ -1356,7 +1512,13 @@
           "note": "Región especificada para la prueba."
         }
       ],
-      "keyTakeaway": "Abraham ata a Isaac y toma el cuchillo para sacrificarlo, pero Dios lo detiene y provee un carnero en su lugar."
+      "keyTakeaway": "Abraham ata a Isaac y toma el cuchillo para sacrificarlo, pero Dios lo detiene y provee un carnero en su lugar.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dios ordena a Abraham que sacrifique a Isaac"
+        }
+      ]
     },
     {
       "id": "genesis-23",
@@ -1403,7 +1565,13 @@
           "note": "Una propiedad o heredad."
         }
       ],
-      "keyTakeaway": "Abraham adquiere un lugar de sepultura en Macpela, estableciendo así una posesión legal en la tierra."
+      "keyTakeaway": "Abraham adquiere un lugar de sepultura en Macpela, estableciendo así una posesión legal en la tierra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Muerte y sepultura de Sara"
+        }
+      ]
     },
     {
       "id": "genesis-24",
@@ -1497,7 +1665,13 @@
           "note": "Un animal de carga utilizado para viajes largos; un detalle práctico en la narrativa."
         }
       ],
-      "keyTakeaway": "Rebeca es elegida y llevada ante Isaac en respuesta a la oración y señales providenciales."
+      "keyTakeaway": "Rebeca es elegida y llevada ante Isaac en respuesta a la oración y señales providenciales.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abraham busca esposa para Isaac"
+        }
+      ]
     },
     {
       "id": "genesis-25",
@@ -1570,7 +1744,29 @@
           "note": "Una palabra declarada de Dios respecto a destinos; aquí acerca de los mellizos."
         }
       ],
-      "keyTakeaway": "Abraham muere y es sepultado; los 12 hijos de Ismael se convierten en príncipes de tribus que forman naciones vecinas de Israel. La línea de Isaac continúa con los gemelos Esaú y Jacob, y Esaú vende su primogenitura."
+      "keyTakeaway": "Abraham muere y es sepultado; los 12 hijos de Ismael se convierten en príncipes de tribus que forman naciones vecinas de Israel. La línea de Isaac continúa con los gemelos Esaú y Jacob, y Esaú vende su primogenitura.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los descendientes de Abraham y Cetura"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Muerte y sepultura de Abraham"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Los descendientes de Ismael"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Nacimiento de Jacob y Esaú"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Esaú vende su primogenitura"
+        }
+      ]
     },
     {
       "id": "genesis-26",
@@ -1632,7 +1828,13 @@
           "note": "Un compromiso jurado que obliga a las partes en un tratado."
         }
       ],
-      "keyTakeaway": "Isaac permanece en la tierra, prospera y hace las paces con Abimelec en medio de disputas por pozos."
+      "keyTakeaway": "Isaac permanece en la tierra, prospera y hace las paces con Abimelec en medio de disputas por pozos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Isaac en Gerar"
+        }
+      ]
     },
     {
       "id": "genesis-27",
@@ -1715,7 +1917,17 @@
           "note": "Tratar con traición o engaño; describe el acto de Jacob contra Isaac y Esaú."
         }
       ],
-      "keyTakeaway": "Jacob engaña a Isaac, recibe la bendición de Esaú, y Esaú llora con un grito grande y amargo mientras Isaac confirma que la bendición no puede deshacerse."
+      "keyTakeaway": "Jacob engaña a Isaac, recibe la bendición de Esaú, y Esaú llora con un grito grande y amargo mientras Isaac confirma que la bendición no puede deshacerse.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jacob obtiene la bendición de Isaac"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Jacob huye de Esaú"
+        }
+      ]
     },
     {
       "id": "genesis-28",
@@ -1764,7 +1976,13 @@
           "note": "Una piedra erguida como marcador asociado con un voto o memorial."
         }
       ],
-      "keyTakeaway": "Jacob recibe un sueño de una escalera al cielo y una reafirmación de las promesas; llama al lugar Betel."
+      "keyTakeaway": "Jacob recibe un sueño de una escalera al cielo y una reafirmación de las promesas; llama al lugar Betel.",
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Dios se aparece a Jacob en Bet-el"
+        }
+      ]
     },
     {
       "id": "genesis-29",
@@ -1826,7 +2044,17 @@
           "note": "Traer a la mente con acción; usado cuando Dios se acuerda de Raquel."
         }
       ],
-      "keyTakeaway": "Jacob conoce a Raquel junto a un pozo cerca de Harán, trabaja siete años para casarse con ella, pero Labán lo engaña haciéndolo casar primero con Lea; Jacob trabaja otros siete años por Raquel, y Lea le da cuatro hijos mientras Raquel permanece sin hijos."
+      "keyTakeaway": "Jacob conoce a Raquel junto a un pozo cerca de Harán, trabaja siete años para casarse con ella, pero Labán lo engaña haciéndolo casar primero con Lea; Jacob trabaja otros siete años por Raquel, y Lea le da cuatro hijos mientras Raquel permanece sin hijos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jacob sirve a Labán por Raquel y Lea"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Los hijos de Jacob"
+        }
+      ]
     },
     {
       "id": "genesis-30",
@@ -1896,7 +2124,13 @@
           "note": "Traer a la mente con acción; usado cuando Dios se acuerda de Raquel."
         }
       ],
-      "keyTakeaway": "Raquel le da su sierva Bilhá a Jacob para que le tenga hijos, luego Lea hace lo mismo con su sierva Zilpa; finalmente Raquel queda embarazada y da a luz a José. Tras el nacimiento de José, Jacob negocia con Labán para quedarse con los animales manchados y moteados como pago, luego usa ramas peladas en los abrevaderos para criar animales de los colores acordados, y así acumula riqueza."
+      "keyTakeaway": "Raquel le da su sierva Bilhá a Jacob para que le tenga hijos, luego Lea hace lo mismo con su sierva Zilpa; finalmente Raquel queda embarazada y da a luz a José. Tras el nacimiento de José, Jacob negocia con Labán para quedarse con los animales manchados y moteados como pago, luego usa ramas peladas en los abrevaderos para criar animales de los colores acordados, y así acumula riqueza.",
+      "headings": [
+        {
+          "beforeVerse": 24,
+          "text": "Tretas de Jacob y de Labán"
+        }
+      ]
     },
     {
       "id": "genesis-31",
@@ -1978,7 +2212,13 @@
           "note": "Traer a la mente con acción; usado cuando Dios se acuerda de Raquel."
         }
       ],
-      "keyTakeaway": "Jacob huye del hogar de Labán con sus esposas, hijos y ganado después de que Dios le ordena regresar a Canaán; Labán lo persigue y lo alcanza, pero tras recibir una advertencia divina de no hacerle daño, los dos hombres establecen un pacto marcado por un montón de piedras y acuerdan separarse en paz."
+      "keyTakeaway": "Jacob huye del hogar de Labán con sus esposas, hijos y ganado después de que Dios le ordena regresar a Canaán; Labán lo persigue y lo alcanza, pero tras recibir una advertencia divina de no hacerle daño, los dos hombres establecen un pacto marcado por un montón de piedras y acuerdan separarse en paz.",
+      "headings": [
+        {
+          "beforeVerse": 16,
+          "text": "Jacob huye de Labán"
+        }
+      ]
     },
     {
       "id": "genesis-32",
@@ -2037,7 +2277,17 @@
           "note": "Nombre dado por Jacob: 'rostro de Dios'."
         }
       ],
-      "keyTakeaway": "Jacob se encuentra con ángeles de Dios, envía mensajeros para apaciguar a su hermano Esaú con regalos, y lucha toda la noche con un hombre que lo renombra Israel y lo bendice antes de partir al amanecer."
+      "keyTakeaway": "Jacob se encuentra con ángeles de Dios, envía mensajeros para apaciguar a su hermano Esaú con regalos, y lucha toda la noche con un hombre que lo renombra Israel y lo bendice antes de partir al amanecer.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jacob se prepara para el encuentro con Esaú"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jacob lucha con el ángel en Peniel"
+        }
+      ]
     },
     {
       "id": "genesis-33",
@@ -2084,7 +2334,13 @@
           "note": "Nombre dado por Jacob: 'rostro de Dios'."
         }
       ],
-      "keyTakeaway": "Jacob organiza a su familia para acercarse a Esaú, se inclina ante él repetidamente y Esaú lo abraza con afecto; Jacob insiste en que Esaú acepte un gran regalo, luego rechaza su oferta de viajar juntos, alegando el ritmo de sus hijos y su ganado. Jacob más tarde se establece cerca de Siquén, compra terreno a los hijos de Hamor y construye un altar allí."
+      "keyTakeaway": "Jacob organiza a su familia para acercarse a Esaú, se inclina ante él repetidamente y Esaú lo abraza con afecto; Jacob insiste en que Esaú acepte un gran regalo, luego rechaza su oferta de viajar juntos, alegando el ritmo de sus hijos y su ganado. Jacob más tarde se establece cerca de Siquén, compra terreno a los hijos de Hamor y construye un altar allí.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Reconciliación entre Jacob y Esaú"
+        }
+      ]
     },
     {
       "id": "genesis-34",
@@ -2152,7 +2408,13 @@
           "note": "Un acto vergonzoso; lenguaje de violación y deshonra."
         }
       ],
-      "keyTakeaway": "Dina es tomada y violada por Siquem; sus hermanos engañan y masacran a la ciudad en venganza, poniendo en grave peligro a la familia."
+      "keyTakeaway": "Dina es tomada y violada por Siquem; sus hermanos engañan y masacran a la ciudad en venganza, poniendo en grave peligro a la familia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La deshonra de Dina vengada"
+        }
+      ]
     },
     {
       "id": "genesis-35",
@@ -2223,7 +2485,25 @@
           "note": "Reafirmado por Dios como el nombre de Jacob."
         }
       ],
-      "keyTakeaway": "Dios reafirma a Jacob como Israel en Betel, Raquel muere al dar a luz a Benjamín, Rubén deshonra a Bilha, se enumeran los doce hijos de Jacob e Isaac muere a los 180 años."
+      "keyTakeaway": "Dios reafirma a Jacob como Israel en Betel, Raquel muere al dar a luz a Benjamín, Rubén deshonra a Bilha, se enumeran los doce hijos de Jacob e Isaac muere a los 180 años.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dios bendice a Jacob en Bet-el"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Muerte de Raquel"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Los hijos de Jacob"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Muerte de Isaac"
+        }
+      ]
     },
     {
       "id": "genesis-36",
@@ -2303,7 +2583,13 @@
           "note": "Líder o jefe de clan; título usado para los cabezas tribales de Edom."
         }
       ],
-      "keyTakeaway": "Se registran el linaje de Esaú y los jefes y reyes de Edom con sus territorios."
+      "keyTakeaway": "Se registran el linaje de Esaú y los jefes y reyes de Edom con sus territorios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los descendientes de Esaú"
+        }
+      ]
     },
     {
       "id": "genesis-37",
@@ -2377,7 +2663,13 @@
           "note": "Escapar o correr; José huyó cuando fue agarrado por la esposa de Potifar."
         }
       ],
-      "keyTakeaway": "Los hermanos de José, celosos por el favoritismo de su padre y los sueños de dominio de José, le quitan su ropa y lo venden a unos ismaelitas que van a Egipto; engañan a su padre Jacob con la ropa ensangrentada, haciéndole creer que José ha muerto."
+      "keyTakeaway": "Los hermanos de José, celosos por el favoritismo de su padre y los sueños de dominio de José, le quitan su ropa y lo venden a unos ismaelitas que van a Egipto; engañan a su padre Jacob con la ropa ensangrentada, haciéndole creer que José ha muerto.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "José es vendido por sus hermanos"
+        }
+      ]
     },
     {
       "id": "genesis-38",
@@ -2445,7 +2737,13 @@
           "note": "Escapar o correr; José huyó cuando fue agarrado por la esposa de Potifar."
         }
       ],
-      "keyTakeaway": "Judá se casa con una cananea y tiene tres hijos; cuando su primogénito Er muere, su segundo hijo Onán se niega a darle un heredero a su hermano y también es ejecutado. Años después, Judá se acuesta sin saberlo con su nuera Tamar, quien estaba disfrazada de prostituta; cuando se descubre su embarazo, Judá reconoce que ella es más justa que él y ella da a luz a dos gemelos, Fares y Zera."
+      "keyTakeaway": "Judá se casa con una cananea y tiene tres hijos; cuando su primogénito Er muere, su segundo hijo Onán se niega a darle un heredero a su hermano y también es ejecutado. Años después, Judá se acuesta sin saberlo con su nuera Tamar, quien estaba disfrazada de prostituta; cuando se descubre su embarazo, Judá reconoce que ella es más justa que él y ella da a luz a dos gemelos, Fares y Zera.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Judá y Tamar"
+        }
+      ]
     },
     {
       "id": "genesis-39",
@@ -2506,7 +2804,13 @@
           "note": "Escapar o correr; José huyó cuando fue agarrado por la esposa de Potifar."
         }
       ],
-      "keyTakeaway": "José prospera en la casa de Potifar y es puesto a cargo de todo, pero cuando rechaza las insinuaciones de la esposa de Potifar ella lo acusa falsamente de agresión; Potifar manda encarcelar a José, donde el Señor le concede favor y el carcelero lo pone a cargo de la prisión."
+      "keyTakeaway": "José prospera en la casa de Potifar y es puesto a cargo de todo, pero cuando rechaza las insinuaciones de la esposa de Potifar ella lo acusa falsamente de agresión; Potifar manda encarcelar a José, donde el Señor le concede favor y el carcelero lo pone a cargo de la prisión.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "José y la esposa de Potifar"
+        }
+      ]
     },
     {
       "id": "genesis-40",
@@ -2566,7 +2870,13 @@
           "note": "Nombre egipcio dado a José; posiblemente 'Dios habla y él vive' o 'Revelador de secretos'."
         }
       ],
-      "keyTakeaway": "El copero y el panadero del faraón son encarcelados donde está José; ambos sueñan la misma noche, y José interpreta el sueño del copero como tres días hasta su restitución y el del panadero como tres días hasta su ejecución. Las predicciones se cumplen en el cumpleaños del faraón, pero el copero se olvida de José a pesar de su pedido de ser recordado."
+      "keyTakeaway": "El copero y el panadero del faraón son encarcelados donde está José; ambos sueñan la misma noche, y José interpreta el sueño del copero como tres días hasta su restitución y el del panadero como tres días hasta su ejecución. Las predicciones se cumplen en el cumpleaños del faraón, pero el copero se olvida de José a pesar de su pedido de ser recordado.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "José interpreta dos sueños"
+        }
+      ]
     },
     {
       "id": "genesis-41",
@@ -2660,7 +2970,17 @@
           "note": "Nombre egipcio dado a José; posiblemente 'Dios habla y él vive' o 'Revelador de secretos'."
         }
       ],
-      "keyTakeaway": "Faraón sueña con siete vacas gordas devoradas por siete vacas flacas y siete espigas llenas tragadas por siete espigas marchitas; José las interpreta como siete años de abundancia seguidos de siete de hambre, propone un plan de almacenamiento y es elevado para gobernar todo Egipto. Durante los años de abundancia José almacena enormes cantidades de grano, se casa con Asenat y tiene dos hijos; cuando llega el hambre, solo Egipto tiene alimento y el mundo acude a comprarle grano a José."
+      "keyTakeaway": "Faraón sueña con siete vacas gordas devoradas por siete vacas flacas y siete espigas llenas tragadas por siete espigas marchitas; José las interpreta como siete años de abundancia seguidos de siete de hambre, propone un plan de almacenamiento y es elevado para gobernar todo Egipto. Durante los años de abundancia José almacena enormes cantidades de grano, se casa con Asenat y tiene dos hijos; cuando llega el hambre, solo Egipto tiene alimento y el mundo acude a comprarle grano a José.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "José interpreta el sueño de Faraón"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "José, gobernador de Egipto"
+        }
+      ]
     },
     {
       "id": "genesis-42",
@@ -2731,7 +3051,13 @@
           "note": "Un cáliz de plata; usado por José como objeto de su prueba."
         }
       ],
-      "keyTakeaway": "Jacob envía a diez de sus hijos a Egipto a comprar grano durante la hambruna; José, ahora gobernador, los reconoce pero oculta su identidad, los acusa de espías, los encarcela y exige que traigan a su hermano menor Benjamín. Cuando los hermanos descubren que su plata fue devuelta en sus sacos y que Simeón quedó como rehén, le cuentan todo a Jacob, quien se niega a dejar ir a Benjamín."
+      "keyTakeaway": "Jacob envía a diez de sus hijos a Egipto a comprar grano durante la hambruna; José, ahora gobernador, los reconoce pero oculta su identidad, los acusa de espías, los encarcela y exige que traigan a su hermano menor Benjamín. Cuando los hermanos descubren que su plata fue devuelta en sus sacos y que Simeón quedó como rehén, le cuentan todo a Jacob, quien se niega a dejar ir a Benjamín.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los hermanos de José vienen por alimentos"
+        }
+      ]
     },
     {
       "id": "genesis-43",
@@ -2798,7 +3124,13 @@
           "note": "Un cáliz de plata; usado por José como objeto de su prueba."
         }
       ],
-      "keyTakeaway": "Jacob finalmente consiente en enviar a Benjamín a Egipto; los hermanos regresan ante José con regalos y el doble de plata, y José los recibe en su casa, llorando en privado al ver a Benjamín, antes de agasajarlos en una comida donde Benjamín recibe una porción cinco veces mayor que la de los demás."
+      "keyTakeaway": "Jacob finalmente consiente en enviar a Benjamín a Egipto; los hermanos regresan ante José con regalos y el doble de plata, y José los recibe en su casa, llorando en privado al ver a Benjamín, antes de agasajarlos en una comida donde Benjamín recibe una porción cinco veces mayor que la de los demás.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los hermanos de José regresan con Benjamín"
+        }
+      ]
     },
     {
       "id": "genesis-44",
@@ -2865,7 +3197,17 @@
           "note": "Un cáliz de plata; usado por José como objeto de su prueba."
         }
       ],
-      "keyTakeaway": "José ordena a su mayordomo que esconda su copa de plata en el saco de Benjamín, acusa a los hermanos de robo cuando son descubiertos, y escucha cómo Judá suplica con pasión quedarse como esclavo en lugar de Benjamín antes que regresar a su padre sin él."
+      "keyTakeaway": "José ordena a su mayordomo que esconda su copa de plata en el saco de Benjamín, acusa a los hermanos de robo cuando son descubiertos, y escucha cómo Judá suplica con pasión quedarse como esclavo en lugar de Benjamín antes que regresar a su padre sin él.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La copa de José"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Judá intercede por Benjamín"
+        }
+      ]
     },
     {
       "id": "genesis-45",
@@ -2926,7 +3268,13 @@
           "note": "Un cáliz de plata; usado por José como objeto de su prueba."
         }
       ],
-      "keyTakeaway": "José se revela a sus hermanos, llora con ellos, les asegura que Dios lo envió a Egipto para preservar sus vidas durante el hambre y les ordena traer a su padre Jacob a Egipto. El faraón aprueba el plan y provee carretas y provisiones; los hermanos regresan a Canaán y le dicen a Jacob que José vive y gobierna Egipto."
+      "keyTakeaway": "José se revela a sus hermanos, llora con ellos, les asegura que Dios lo envió a Egipto para preservar sus vidas durante el hambre y les ordena traer a su padre Jacob a Egipto. El faraón aprueba el plan y provee carretas y provisiones; los hermanos regresan a Canaán y le dicen a Jacob que José vive y gobierna Egipto.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "José se da a conocer a sus hermanos"
+        }
+      ]
     },
     {
       "id": "genesis-46",
@@ -2993,7 +3341,13 @@
           "note": "Un cáliz de plata; usado por José como objeto de su prueba."
         }
       ],
-      "keyTakeaway": "Jacob parte de Beerseba después de que Dios le asegura en una visión que se convertirá en una gran nación en Egipto y que será traído de regreso; llega a Gosén con todos sus descendientes y ganado, donde se reúne con José, quien instruye a su familia a decirle al faraón que son pastores para que puedan establecerse en Gosén."
+      "keyTakeaway": "Jacob parte de Beerseba después de que Dios le asegura en una visión que se convertirá en una gran nación en Egipto y que será traído de regreso; llega a Gosén con todos sus descendientes y ganado, donde se reúne con José, quien instruye a su familia a decirle al faraón que son pastores para que puedan establecerse en Gosén.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jacob y su familia en Egipto"
+        }
+      ]
     },
     {
       "id": "genesis-47",
@@ -3112,7 +3466,13 @@
           "note": "Preservar un cuerpo con especias y preparación; práctica de sepultura egipcia."
         }
       ],
-      "keyTakeaway": "José lleva a sus dos hijos Manasés y Efraín ante su padre Jacob, quien está muriendo; Jacob los adopta como hijos propios y los bendice, poniendo deliberadamente su mano derecha sobre la cabeza del menor, Efraín, en lugar de sobre la del primogénito Manasés; José objeta pero Jacob se niega, diciendo que Efraín será el mayor."
+      "keyTakeaway": "José lleva a sus dos hijos Manasés y Efraín ante su padre Jacob, quien está muriendo; Jacob los adopta como hijos propios y los bendice, poniendo deliberadamente su mano derecha sobre la cabeza del menor, Efraín, en lugar de sobre la del primogénito Manasés; José objeta pero Jacob se niega, diciendo que Efraín será el mayor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jacob bendice a Efraín y a Manasés"
+        }
+      ]
     },
     {
       "id": "genesis-49",
@@ -3178,7 +3538,17 @@
           "note": "Preservar un cuerpo con especias y preparación; práctica de sepultura egipcia."
         }
       ],
-      "keyTakeaway": "Jacob reúne a sus hijos y le da a cada uno una bendición o proclama sobre su futuro; luego les instruye que lo entierren en la cueva de Macpela con sus antepasados y muere."
+      "keyTakeaway": "Jacob reúne a sus hijos y le da a cada uno una bendición o proclama sobre su futuro; luego les instruye que lo entierren en la cueva de Macpela con sus antepasados y muere.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Profecía de Jacob acerca de sus hijos"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Muerte y sepelio de Jacob"
+        }
+      ]
     },
     {
       "id": "genesis-50",
@@ -3237,7 +3607,13 @@
           "note": "Preservar un cuerpo con especias y preparación; práctica de sepultura egipcia."
         }
       ],
-      "keyTakeaway": "José embalma a su padre Jacob y lo entierra en Canaán con una gran procesión egipcia y familiar; de regreso en Egipto, los hermanos de José temen represalias, pero José los perdona y dice que Dios convirtió el mal que le hicieron en algo bueno. José llega a los 110 años, ve a sus descendientes y hace jurar a su familia que llevarán sus huesos a Canaán cuando Dios los saque de Egipto."
+      "keyTakeaway": "José embalma a su padre Jacob y lo entierra en Canaán con una gran procesión egipcia y familiar; de regreso en Egipto, los hermanos de José temen represalias, pero José los perdona y dice que Dios convirtió el mal que le hicieron en algo bueno. José llega a los 110 años, ve a sus descendientes y hace jurar a su familia que llevarán sus huesos a Canaán cuando Dios los saque de Egipto.",
+      "headings": [
+        {
+          "beforeVerse": 14,
+          "text": "Muerte de José"
+        }
+      ]
     }
   ]
 }

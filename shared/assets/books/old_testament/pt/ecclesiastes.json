@@ -56,7 +56,21 @@
           "note": "Expressão recorrente para as atividades descritas no livro."
         }
       ],
-      "keyTakeaway": "Coélet enuncia o tema da vaidade, observa ciclos que se repetem, questiona o lucro no trabalho sob o sol e nota o esquecimento que chega com o tempo."
+      "keyTakeaway": "Coélet enuncia o tema da vaidade, observa ciclos que se repetem, questiona o lucro no trabalho sob o sol e nota o esquecimento que chega com o tempo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tudo é vaidade"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "A eterna mesmice"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A experiência do Pregador"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-2",
@@ -115,7 +129,21 @@
           "note": "Fórmula recorrente em Eclesiastes para o prazer simples associado ao trabalho (2:24–25)."
         }
       ],
-      "keyTakeaway": "Coélet relata testes em escala real de sabedoria, prazer e trabalho, os considera efêmeros diante do destino comum e afirma que a alegria no trabalho vem da mão de Deus."
+      "keyTakeaway": "Coélet relata testes em escala real de sabedoria, prazer e trabalho, os considera efêmeros diante do destino comum e afirma que a alegria no trabalho vem da mão de Deus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A vaidade das possessões"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A vaidade da sabedoria"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A vaidade do trabalho"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-3",
@@ -180,7 +208,21 @@
           "note": "Resultado declarado em 3:14 a respeito da obra duradoura de Deus."
         }
       ],
-      "keyTakeaway": "Qohelet lista os tempos determinados, afirma que a obra duradoura de Deus e o dom do prazer coexistem com a incapacidade humana de compreender toda a sua obra."
+      "keyTakeaway": "Qohelet lista os tempos determinados, afirma que a obra duradoura de Deus e o dom do prazer coexistem com a incapacidade humana de compreender toda a sua obra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tempo para tudo"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "O homem não conhece o seu tempo determinado"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Semelhança aparente na morte entre homens e animais"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-4",
@@ -229,7 +271,13 @@
           "note": "Imagem de força no companheirismo (4:12)."
         }
       ],
-      "keyTakeaway": "Coélet observa a injustiça e a opressão, o destino comum da morte, o trabalho movido pela inveja, a vantagem da companhia e o quanto as multidões esquecem rapidamente seus governantes."
+      "keyTakeaway": "Coélet observa a injustiça e a opressão, o destino comum da morte, o trabalho movido pela inveja, a vantagem da companhia e o quanto as multidões esquecem rapidamente seus governantes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "As tribulações da vida"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-5",
@@ -287,7 +335,17 @@
           "note": "Imperativo final em 5:7."
         }
       ],
-      "keyTakeaway": "Na casa de Deus, ouvir e falar pouco são ordenados, e os votos devem ser cumpridos sem desculpas diante do mensageiro."
+      "keyTakeaway": "Na casa de Deus, ouvir e falar pouco são ordenados, e os votos devem ser cumpridos sem desculpas diante do mensageiro.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A loucura de votos precipitados"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A vaidade das riquezas"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-6",
@@ -409,7 +467,21 @@
           "note": "Declaração sobre a natureza inalterável da obra de Deus (7:13)."
         }
       ],
-      "keyTakeaway": "Esta seção apresenta provérbios do tipo \"melhor do que\" sobre luto, repreensão, paciência e ira, e afirma que o que Deus fez torto não pode ser endireitado e que ele faz tanto a prosperidade quanto a adversidade."
+      "keyTakeaway": "Esta seção apresenta provérbios do tipo \"melhor do que\" sobre luto, repreensão, paciência e ira, e afirma que o que Deus fez torto não pode ser endireitado e que ele faz tanto a prosperidade quanto a adversidade.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Comparadas a sabedoria e a loucura"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A moderação em tudo é boa"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Avaliação da mulher enganosa"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-8",
@@ -464,7 +536,17 @@
           "note": "Expressão de que não há isenção; o conflito prende aqueles que estão envolvidos (8:8)."
         }
       ],
-      "keyTakeaway": "Esta passagem instrui a obedecer o comando do rei, afirma que a sabedoria discerne o tempo e o julgamento, e diz que ninguém controla o espírito ou o dia da morte; o poder sobre outros pode resultar em dano para eles."
+      "keyTakeaway": "Esta passagem instrui a obedecer o comando do rei, afirma que a sabedoria discerne o tempo e o julgamento, e diz que ninguém controla o espírito ou o dia da morte; o poder sobre outros pode resultar em dano para eles.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A submissão diante do rei"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "As desigualdades na vida"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-9",
@@ -520,7 +602,21 @@
           "note": "Quinhão/sorte; tema recorrente para o desfrute diário (9:9)."
         }
       ],
-      "keyTakeaway": "Esta unidade declara um destino comum a todos, incentiva uma vida diária alegre e o trabalho dedicado, e afirma que o tempo e o acaso acontecem a todos, com a possibilidade de calamidade repentina."
+      "keyTakeaway": "Esta unidade declara um destino comum a todos, incentiva uma vida diária alegre e o trabalho dedicado, e afirma que o tempo e o acaso acontecem a todos, com a possibilidade de calamidade repentina.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A sorte parece ser a mesma para todos"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Trabalhos sem recompensa"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Exemplo que ilustra esta verdade"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-10",
@@ -578,7 +674,13 @@
           "note": "Imagem em 10:11: uma serpente que morde antes de o encantamento ser proferido não traz nenhuma vantagem."
         }
       ],
-      "keyTakeaway": "Um homem pobre e sábio salva uma cidade, mas é esquecido; provérbios contrastam sabedoria e tolice em governantes, palavras e trabalho, e alertam que conversas privadas podem se tornar públicas."
+      "keyTakeaway": "Um homem pobre e sábio salva uma cidade, mas é esquecido; provérbios contrastam sabedoria e tolice em governantes, palavras e trabalho, e alertam que conversas privadas podem se tornar públicas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A excelência da sabedoria"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-11",
@@ -626,7 +728,17 @@
           "note": "Crescimento no útero citado como exemplo de processo desconhecido (11:5)."
         }
       ],
-      "keyTakeaway": "A passagem exorta à ação contínua e ao trabalho perseverante diante da incerteza, observando que os seres humanos não conhecem as obras de Deus nem seus resultados."
+      "keyTakeaway": "A passagem exorta à ação contínua e ao trabalho perseverante diante da incerteza, observando que os seres humanos não conhecem as obras de Deus nem seus resultados.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O procedimento prudente do sábio"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A mocidade"
+        }
+      ]
     },
     {
       "id": "ecclesiastes-12",
@@ -688,7 +800,17 @@
           "note": "Declaração em 12:7 paralela ao pó que retorna à terra."
         }
       ],
-      "keyTakeaway": "A unidade convoca a alegria na juventude com consciência do julgamento, exorta a lembrar do Criador antes do declínio e retrata o envelhecimento e a morte com imagens, concluindo novamente com \"vaidade das vaidades\"."
+      "keyTakeaway": "A unidade convoca a alegria na juventude com consciência do julgamento, exorta a lembrar do Criador antes do declínio e retrata o envelhecimento e a morte com imagens, concluindo novamente com \"vaidade das vaidades\".",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A velhice"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Conclusão"
+        }
+      ]
     }
   ]
 }

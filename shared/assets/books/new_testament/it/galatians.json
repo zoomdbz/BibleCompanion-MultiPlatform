@@ -46,7 +46,21 @@
           "note": "Si riferisce all'ordine mondiale attuale sotto il dominio del peccato, in contrasto con il secolo a venire."
         }
       ],
-      "keyTakeaway": "Paolo apre con la propria autorità da Dio, il sacrificio di Cristo per i peccati e una lode alla gloria di Dio."
+      "keyTakeaway": "Paolo apre con la propria autorità da Dio, il sacrificio di Cristo per i peccati e una lode alla gloria di Dio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Rifiuto di un altro vangelo"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Origine divina del vangelo di Paolo"
+        }
+      ]
     },
     {
       "id": "galatians-2",
@@ -89,7 +103,17 @@
           "note": "Termine per indicare persone che si spacciavano per credenti ma agivano contro il vangelo."
         }
       ],
-      "keyTakeaway": "Paolo racconta la sua visita a Gerusalemme, dove i leader approvarono il suo vangelo e non gli imposero nulla, se non di ricordarsi dei poveri."
+      "keyTakeaway": "Paolo racconta la sua visita a Gerusalemme, dove i leader approvarono il suo vangelo e non gli imposero nulla, se non di ricordarsi dei poveri.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paolo a Gerusalemme"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Pietro ripreso pubblicamente da Paolo in Antiochia"
+        }
+      ]
     },
     {
       "id": "galatians-3",
@@ -141,7 +165,17 @@
           "note": "Dichiarazione vincolante di condanna o esclusione; Paolo cita Deuteronomio 27:26 e 21:23 per mostrare che Cristo ha portato su di sé la maledizione della legge."
         }
       ],
-      "keyTakeaway": "Paolo afferma che la Scrittura mostra come la giustificazione e lo Spirito vengano dalla fede e non dalla legge, e che Cristo è diventato una maledizione sotto la legge affinché i gentili ricevessero la benedizione di Abramo mediante la fede."
+      "keyTakeaway": "Paolo afferma che la Scrittura mostra come la giustificazione e lo Spirito vengano dalla fede e non dalla legge, e che Cristo è diventato una maledizione sotto la legge affinché i gentili ricevessero la benedizione di Abramo mediante la fede.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La legge e la fede"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La legge e la promessa"
+        }
+      ]
     },
     {
       "id": "galatians-4",
@@ -200,7 +234,13 @@
           "note": "Forma aramaica intima per 'padre', conservata nel testo greco come grido diretto della figliolanza."
         }
       ],
-      "keyTakeaway": "Paolo contrasta la schiavitù sotto i principi elementari con la figliolanza mediante il Figlio e lo Spirito di Dio, esorta a non tornare alle osservanze e manifesta la sua angoscia personale per i Galati."
+      "keyTakeaway": "Paolo contrasta la schiavitù sotto i principi elementari con la figliolanza mediante il Figlio e lo Spirito di Dio, esorta a non tornare alle osservanze e manifesta la sua angoscia personale per i Galati.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dalla schiavitù della legge alla libertà in Cristo"
+        }
+      ]
     },
     {
       "id": "galatians-5",
@@ -249,7 +289,13 @@
           "note": "Iperbole forte rivolta agli agitatori che insistevano sulla circoncisione; il verbo significa tagliare/mutilare. Paolo usa un linguaggio volutamente provocatorio."
         }
       ],
-      "keyTakeaway": "Paolo esorta i Galati a restare saldi nella libertà dalla legge, mette in guardia contro la circoncisione e li chiama a servirsi a vicenda nell'amore."
+      "keyTakeaway": "Paolo esorta i Galati a restare saldi nella libertà dalla legge, mette in guardia contro la circoncisione e li chiama a servirsi a vicenda nell'amore.",
+      "headings": [
+        {
+          "beforeVerse": 13,
+          "text": "La carne e lo Spirito"
+        }
+      ]
     },
     {
       "id": "galatians-6",
@@ -290,7 +336,13 @@
           "note": "Si riferisce probabilmente al comandamento di Cristo di amarsi gli uni gli altri, principio guida della condotta cristiana."
         }
       ],
-      "keyTakeaway": "Paolo esorta i credenti a restaurare chi è caduto, a portare i pesi gli uni degli altri, a seminare nello Spirito e a perseverare nel fare il bene."
+      "keyTakeaway": "Paolo esorta i credenti a restaurare chi è caduto, a portare i pesi gli uni degli altri, a seminare nello Spirito e a perseverare nel fare il bene.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La vita nuova in Cristo"
+        }
+      ]
     }
   ]
 }

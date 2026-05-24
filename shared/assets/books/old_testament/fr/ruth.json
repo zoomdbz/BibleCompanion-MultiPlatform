@@ -56,7 +56,13 @@
           "note": "Bonté engagée par l'alliance ; le dévouement de Ruth envers Noémi illustre le *hesed* (1:8) (1:16)."
         }
       ],
-      "keyTakeaway": "Ruth quitte Moab pour Bethléem, s'engageant auprès de Naomi, du peuple d'Israël et du Dieu d'Israël. Son amour fidèle (*ḥesed*) ouvre un récit de fidélité à l'alliance."
+      "keyTakeaway": "Ruth quitte Moab pour Bethléem, s'engageant auprès de Naomi, du peuple d'Israël et du Dieu d'Israël. Son amour fidèle (*ḥesed*) ouvre un récit de fidélité à l'alliance.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Attachement de Ruth pour Naomi, sa belle-mère"
+        }
+      ]
     },
     {
       "id": "ruth-2",
@@ -112,7 +118,13 @@
           "note": "Parent proche qui restaure les biens et la lignée de la famille (2:20)."
         }
       ],
-      "keyTakeaway": "La providence conduit Ruth chez Boaz. Sa générosité la protège et pourvoit aux besoins de Naomi, introduisant ainsi le thème du racheteur."
+      "keyTakeaway": "La providence conduit Ruth chez Boaz. Sa générosité la protège et pourvoit aux besoins de Naomi, introduisant ainsi le thème du racheteur.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ruth va glaner dans le champ de Boaz"
+        }
+      ]
     },
     {
       "id": "ruth-3",
@@ -219,7 +231,17 @@
           "note": "Fait référence aux matriarches et à la lignée féconde de Juda, anticipant David et le Messie (4:11-12)."
         }
       ],
-      "keyTakeaway": "Boaz rachète Ruth publiquement. Leur fils Obed devient le grand-père de David, rattachant Ruth la Moabite à la lignée du Messie."
+      "keyTakeaway": "Boaz rachète Ruth publiquement. Leur fils Obed devient le grand-père de David, rattachant Ruth la Moabite à la lignée du Messie.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mariage de Ruth avec Boaz"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Généalogie de David"
+        }
+      ]
     }
   ]
 }

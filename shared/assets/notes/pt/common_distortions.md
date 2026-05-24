@@ -338,11 +338,11 @@ Três coisas aconteceram, e a tradição cristã as confunde.
 
 Esses são todos os dados do Novo Testamento. Nada ordena uma mudança de dia.
 
-### A convergência com o culto solar
+**A convergência com o culto solar**
 
 O Império Romano estava saturado de cultos solares. Mitra, Sol Invictus e Apolo tinham associações com o domingo. Quando Constantino emitiu seu edito civil em 7 de março de 321 d.C., decretou que “no venerável dia do Sol, descansem os magistrados e os habitantes das cidades, e que todas as oficinas sejam fechadas.” O texto latino o chama de *venerabili die Solis*, o venerável dia do Sol. Constantino ainda não era claramente cristão quando o emitiu; era devoto de Sol Invictus e suas moedas continuaram exibindo Sol por anos. O edito fez do domingo o dia cívico de descanso do império, e a Igreja, que já vinha se inclinando para o domingo por dois séculos, passou a ter respaldo imperial.
 
-### Concílio de Laodiceia (c. 363–364 d.C.)
+**Concílio de Laodiceia (c. 363–364 d.C.)**
 
 O cânon 29 proíbe explicitamente os cristãos de descansarem no Sábado, ordena-lhes que trabalhem nesse dia e honrem em vez disso “o dia do Senhor”. O texto diz que os cristãos “honrarão especialmente o dia do Senhor; e, como cristãos, se possível, não trabalharão nesse dia. Se, contudo, forem encontrados judaizando, serão excluídos de Cristo.” O Sábado não foi transferido; foi criminalizado dentro da Igreja.
 

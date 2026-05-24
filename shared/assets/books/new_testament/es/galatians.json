@@ -46,7 +46,21 @@
           "note": "Se refiere al orden mundial actual bajo el poder del pecado, en contraste con la era venidera."
         }
       ],
-      "keyTakeaway": "Pablo abre con su autoridad de parte de Dios, la entrega de Cristo por los pecados y alabanza a la gloria de Dios."
+      "keyTakeaway": "Pablo abre con su autoridad de parte de Dios, la entrega de Cristo por los pecados y alabanza a la gloria de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "No hay otro evangelio"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "El ministerio de Pablo"
+        }
+      ]
     },
     {
       "id": "galatians-2",
@@ -89,7 +103,13 @@
           "note": "Término para personas que afirman ser creyentes pero trabajan contra el evangelio."
         }
       ],
-      "keyTakeaway": "Pablo relata su visita a Jerusalén, donde los líderes afirmaron su evangelio y no le exigieron nada, excepto que se acordara de los pobres."
+      "keyTakeaway": "Pablo relata su visita a Jerusalén, donde los líderes afirmaron su evangelio y no le exigieron nada, excepto que se acordara de los pobres.",
+      "headings": [
+        {
+          "beforeVerse": 10,
+          "text": "Pablo reprende a Pedro en Antioquía"
+        }
+      ]
     },
     {
       "id": "galatians-3",
@@ -141,7 +161,21 @@
           "note": "Declaración vinculante de condenación o exclusión; Pablo cita Deuteronomio 27:26 y 21:23 para mostrar que Cristo llevó la maldición de la ley."
         }
       ],
-      "keyTakeaway": "Pablo señala que las Escrituras muestran que la justificación y el Espíritu vienen por la fe y no por la ley, y que Cristo se hizo maldición bajo la ley para que los gentiles recibieran la bendición de Abraham por medio de la fe."
+      "keyTakeaway": "Pablo señala que las Escrituras muestran que la justificación y el Espíritu vienen por la fe y no por la ley, y que Cristo se hizo maldición bajo la ley para que los gentiles recibieran la bendición de Abraham por medio de la fe.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El Espíritu se recibe por la fe"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "El pacto de Dios con Abraham"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "El propósito de la ley"
+        }
+      ]
     },
     {
       "id": "galatians-4",
@@ -200,7 +234,17 @@
           "note": "Forma aramea íntima de 'padre,' conservada en el texto griego como un clamor directo de filiación."
         }
       ],
-      "keyTakeaway": "Pablo contrasta la esclavitud bajo los principios elementales con la condición de hijos mediante el Hijo y el Espíritu de Dios, hace un llamado para que no vuelvan a las observancias y expresa angustia personal por los gálatas."
+      "keyTakeaway": "Pablo contrasta la esclavitud bajo los principios elementales con la condición de hijos mediante el Hijo y el Espíritu de Dios, hace un llamado para que no vuelvan a las observancias y expresa angustia personal por los gálatas.",
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Exhortación contra el volver a la esclavitud"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Alegoría de Sara y Agar"
+        }
+      ]
     },
     {
       "id": "galatians-5",
@@ -249,7 +293,17 @@
           "note": "Fuerte hipérbole dirigida a los agitadores que insisten en la circuncisión; el verbo significa cortar/mutilar. Pablo usa un lenguaje deliberadamente impactante."
         }
       ],
-      "keyTakeaway": "Pablo exhorta a los gálatas a mantenerse firmes en la libertad de la ley, advierte contra la circuncisión y los llama a servirse unos a otros en amor."
+      "keyTakeaway": "Pablo exhorta a los gálatas a mantenerse firmes en la libertad de la ley, advierte contra la circuncisión y los llama a servirse unos a otros en amor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Estad firmes en la libertad"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Las obras de la carne y el fruto del Espíritu"
+        }
+      ]
     },
     {
       "id": "galatians-6",
@@ -290,7 +344,17 @@
           "note": "Probablemente se refiere al mandamiento de Cristo de amarse unos a otros, el principio rector de la conducta cristiana."
         }
       ],
-      "keyTakeaway": "Pablo instructs a los creyentes a restaurar al caído, sobrellevar las cargas del prójimo, sembrar para el Espíritu y perseverar en hacer el bien."
+      "keyTakeaway": "Pablo instructs a los creyentes a restaurar al caído, sobrellevar las cargas del prójimo, sembrar para el Espíritu y perseverar en hacer el bien.",
+      "headings": [
+        {
+          "beforeVerse": 10,
+          "text": "Pablo se gloría en la cruz de Cristo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Bendición final"
+        }
+      ]
     }
   ]
 }

@@ -135,7 +135,7 @@ Das *Buch Henoch* wurde in jüdischen und christlichen Gemeinschaften weit verbr
 
 * **3 Henoch (Hebräisches Henoch)**: Ein später rabbinischer Text (~5.–6. Jahrhundert n. Chr.). Hier wird Henoch in den Engel Metatron verwandelt, den Fürsten des himmlischen Heeres. Spiegelt jüdische Mystik und Kabbala wider, nicht die frühchristliche oder die Tradition des Zweiten Tempels.
 
-### Für die Prophetie ist nur **1 Henoch** maßgeblich in Bezug auf Genesis, Offenbarung und Judas.
+**Für die Prophetie ist nur **1 Henoch** maßgeblich in Bezug auf Genesis, Offenbarung und Judas.**
 
 ---
 
@@ -241,7 +241,7 @@ Henoch ist nicht randständig; er ist zentral. **1 Henoch** klärt Genesis, vert
 
 ---
 
-### **Biblisch festgesetzte Zeiten im Vergleich zu übernommenen Traditionen**
+**Biblisch festgesetzte Zeiten im Vergleich zu übernommenen Traditionen**
 
 Während viele moderne Feste aus religiöser Vermischung entstanden sind, legt die Schrift bestimmte *Moedim* (festgesetzte Zeiten) fest, die von Gott in (3 Mose 23) eingesetzt wurden. Diese sind keine kulturellen Feiertage, sondern göttliche Termine, die das Muster der Erlösung offenbaren, das im Messias erfüllt wurde. Die ersten Gläubigen hielten diese Feste weiterhin als Teil von Gottes Bund ein (Apostelgeschichte 2:1) (Apostelgeschichte 20:6) (Apostelgeschichte 20:16) (1 Korinther 5:8). In den folgenden Jahrhunderten, besonders unter römischer Herrschaft, wurden sie durch bürgerliche und saisonale Feste ersetzt, um sich der Kultur des Reiches statt der Schrift anzupassen.
 
@@ -289,7 +289,7 @@ Gefeiert durch das Bauen und Wohnen in temporären Hütten, gemeinsame Mahlzeite
 
 **Optionale Feste**  
 **Purim** erinnert an die Befreiung von Vernichtung zur Zeit Esthers und wird durch das Lesen des Buches Esther, Freude und das Teilen von Speisen und Geschenken gefeiert.  
-(Esther 9:20–28)  
+(Ester 9:20–28)  
 **Chanukka** erinnert an die Wiedereinweihung des Tempels nach seiner Entweihung; gefeiert durch das Entzünden der Menora über acht Nächte, Dank und das Feiern von Gottes Wundern.  
 (Johannes 10:22–23)
 

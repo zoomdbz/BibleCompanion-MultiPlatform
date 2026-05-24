@@ -54,7 +54,17 @@
           "note": "Expression désignant le message vrai de Dieu ; chez Jacques, elle se réfère à l'Évangile par lequel les croyants reçoivent une vie nouvelle."
         }
       ],
-      "keyTakeaway": "Jacques invite les croyants à se réjouir dans les épreuves, à demander la sagesse avec foi, à résister à la tentation et à reconnaître Dieu comme source de vie et de vérité."
+      "keyTakeaway": "Jacques invite les croyants à se réjouir dans les épreuves, à demander la sagesse avec foi, à résister à la tentation et à reconnaître Dieu comme source de vie et de vérité.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adresse et salutation Les épreuves et les tentations"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Mettre en pratique la parole de Dieu"
+        }
+      ]
     },
     {
       "id": "james-2",
@@ -102,7 +112,17 @@
           "note": "Appelée « royale » parce qu'elle résume le commandement de Dieu sous le Christ roi : aimer son prochain."
         }
       ],
-      "keyTakeaway": "Jacques condamne le favoritisme envers les riches et présente la loi royale de l'amour comme contraignante pour tous, sans partialité."
+      "keyTakeaway": "Jacques condamne le favoritisme envers les riches et présente la loi royale de l'amour comme contraignante pour tous, sans partialité.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’acception de personnes condamnée"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "La foi sans les œuvres"
+        }
+      ]
     },
     {
       "id": "james-3",
@@ -147,7 +167,17 @@
           "note": "Expression désignant la sagesse donnée par Dieu, par opposition à la sagesse terrestre ou démoniaque."
         }
       ],
-      "keyTakeaway": "Jacques souligne le pouvoir destructeur de la langue et oppose la sagesse terrestre à la sagesse d'en haut, qui produit la paix et la justice."
+      "keyTakeaway": "Jacques souligne le pouvoir destructeur de la langue et oppose la sagesse terrestre à la sagesse d'en haut, qui produit la paix et la justice.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La modération dans l’usage de la parole"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La sagesse qui vient d’en haut"
+        }
+      ]
     },
     {
       "id": "james-4",
@@ -191,7 +221,17 @@
           "note": "Image de la fugacité de la vie ; comme un souffle ou une vapeur qui disparaît rapidement."
         }
       ],
-      "keyTakeaway": "Jacques condamne les passions mondaines et l'arrogance, en appelant à l'humilité, à la soumission à Dieu et à la reconnaissance de la brièveté de la vie sous la volonté de Dieu."
+      "keyTakeaway": "Jacques condamne les passions mondaines et l'arrogance, en appelant à l'humilité, à la soumission à Dieu et à la reconnaissance de la brièveté de la vie sous la volonté de Dieu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Résister à l’entraînement des passions"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "À ceux qui forment des projets"
+        }
+      ]
     },
     {
       "id": "james-5",
@@ -233,7 +273,17 @@
           "note": "Instruction à parler simplement et véridiquement sans recourir à des serments ou des jurons."
         }
       ],
-      "keyTakeaway": "Jacques avertit les riches qui oppriment, appelle à la patience jusqu'à la venue du Seigneur et exhorte à la franchise sans recours au serment."
+      "keyTakeaway": "Jacques avertit les riches qui oppriment, appelle à la patience jusqu'à la venue du Seigneur et exhorte à la franchise sans recours au serment.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Aux mauvais riches"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Exhortations diverses: la patience, le serment, la prière, la conversion des pécheurs"
+        }
+      ]
     }
   ]
 }

@@ -341,7 +341,7 @@ Jede Lehre, die Satan mit dem Titel „Morgenstern” gleichsetzt, der Jesus geh
 
 • Ehemann und Ehefrau gehören einander und sind aufgerufen, einander zu dienen (1. Korinther 7:3–5).
 
-• Sexuelle Intimität ist nicht nur erlaubt, sondern gesegnet; die Psalmen beschreiben Ehe, Kinder und Familie als Bundessegen (Psalm 127:3–5) (Psalm 128:1–4), und das Hohelied feiert eheliche Leidenschaft als gut und freudig (Hoheslied 4–7).
+• Sexuelle Intimität ist nicht nur erlaubt, sondern gesegnet; die Psalmen beschreiben Ehe, Kinder und Familie als Bundessegen (Psalmen 127:3–5) (Psalmen 128:1–4), und das Hohelied feiert eheliche Leidenschaft als gut und freudig (Hoheslied 4–7).
 
 • Die eheliche Intimität ist ein Bundessegen, der auf Christus und die Gemeinde hinweist (Epheser 5:25–32).
 

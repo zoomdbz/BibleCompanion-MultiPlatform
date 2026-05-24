@@ -48,7 +48,21 @@
           "note": "Begriffe für Gottes Ruf zum Glauben und seine Erwählung seines Volkes; betonen die Sicherheit im beständigen Glauben und in der Tugend."
         }
       ],
-      "keyTakeaway": "Petrus ermahnt die Gläubigen, in gottgefälligen Tugenden zu wachsen, ihre Berufung und Erwählung zu festigen und auf den Eingang in das ewige Reich Christi zu hoffen."
+      "keyTakeaway": "Petrus ermahnt die Gläubigen, in gottgefälligen Tugenden zu wachsen, ihre Berufung und Erwählung zu festigen und auf den Eingang in das ewige Reich Christi zu hoffen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ein fest gegründeter Glaube Anschrift und Gruß"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Bewährung im Glauben"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Zeugen der Wahrheit"
+        }
+      ]
     },
     {
       "id": "2_peter-2",
@@ -92,7 +106,17 @@
           "note": "Bezieht sich auf spaltende, verderbliche Lehren, die von der Wahrheit abweichen und ins Verderben führen."
         }
       ],
-      "keyTakeaway": "Petrus warnt vor falschen Lehrern, vergleicht sie mit vergangenen Gerichtsbeispielen und deckt ihre Habgier, Ausschweifung und unausweichliche Vernichtung auf."
+      "keyTakeaway": "Petrus warnt vor falschen Lehrern, vergleicht sie mit vergangenen Gerichtsbeispielen und deckt ihre Habgier, Ausschweifung und unausweichliche Vernichtung auf.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Über falsche Lehren und das Leben der Irrlehrer Gottes Gericht über die Irrlehrer"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Gefährliche Folgen der Irrlehre"
+        }
+      ]
     },
     {
       "id": "2_peter-3",
@@ -137,7 +161,21 @@
           "note": "Redewendung, die Gottes andere Beziehung zur Zeit ausdrückt; er ist nicht an das menschliche Maß von Tagen und Jahren gebunden."
         }
       ],
-      "keyTakeaway": "Petrus warnt vor Spöttern, betont die Geduld des Herrn und beschreibt den kommenden Tag des Gerichts sowie die Verheißung der neuen Schöpfung."
+      "keyTakeaway": "Petrus warnt vor Spöttern, betont die Geduld des Herrn und beschreibt den kommenden Tag des Gerichts sowie die Verheißung der neuen Schöpfung.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Wiederkunft von Christus und seine neue Welt Christus kommt wieder"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Ein neuer Himmel und eine neue Erde"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Ermahnungen und Segenswünsche"
+        }
+      ]
     }
   ]
 }

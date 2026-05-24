@@ -42,7 +42,7 @@ Esta é a linha do tempo messiânica mais precisa da Bíblia.
 
 O anjo Gabriel disse a Daniel: **"Setenta semanas estão determinadas sobre o teu povo e sobre a tua santa cidade"** (Daniel 9:24). A palavra hebraica *shabuim* significa "setes", setenta conjuntos de sete anos = **490 anos**.
 
-### O Decreto
+**O Decreto**
 "Desde a saída da ordem para restaurar e edificar Jerusalém": este é o decreto de Artaxerxes a Neemias em **445 a.C.** (Neemias 2:1–8).
 
 ### A Linha do Tempo

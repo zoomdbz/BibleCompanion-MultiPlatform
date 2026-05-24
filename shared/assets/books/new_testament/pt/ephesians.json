@@ -55,7 +55,21 @@
           "note": "Selo: marca de propriedade ou autenticidade. Garantia: penhor ou pagamento inicial; o Espírito como primeira parcela da herança plena."
         }
       ],
-      "keyTakeaway": "Paulo saúda os santos e declara bênçãos em Cristo: eleição, adoção, redenção, revelação do plano de Deus, herança e selo do Espírito."
+      "keyTakeaway": "Paulo saúda os santos e declara bênçãos em Cristo: eleição, adoção, redenção, revelação do plano de Deus, herança e selo do Espírito.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "As bênçãos de Deus em Cristo, autor da nossa redenção"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Paulo ora pelos crentes"
+        }
+      ]
     },
     {
       "id": "ephesians-2",
@@ -109,7 +123,17 @@
           "note": "Literalmente 'algo feito'; usado para descrever os crentes como criação de Deus em Cristo."
         }
       ],
-      "keyTakeaway": "Crentes que antes estavam mortos em pecado são vivificados e exaltados com Cristo; a salvação é pela graça de Deus mediante a fé, não por obras, e resulta em uma vida de boas obras preparadas por Deus."
+      "keyTakeaway": "Crentes que antes estavam mortos em pecado são vivificados e exaltados com Cristo; a salvação é pela graça de Deus mediante a fé, não por obras, e resulta em uma vida de boas obras preparadas por Deus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Do pecado para a salvação pela graça"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Os gentios e os judeus são unidos pela cruz de Cristo"
+        }
+      ]
     },
     {
       "id": "ephesians-3",
@@ -157,7 +181,17 @@
           "note": "Termos para poderes espirituais ou cósmicos; Paulo enfatiza que a sabedoria de Deus é revelada até mesmo a eles por meio da igreja."
         }
       ],
-      "keyTakeaway": "Paulo explica sua responsabilidade como administrador da graça de Deus: o mistério revelado de que os gentios são herdeiros juntamente com Israel em Cristo, proclamado por meio do evangelho, manifestando a sabedoria de Deus às potências celestiais."
+      "keyTakeaway": "Paulo explica sua responsabilidade como administrador da graça de Deus: o mistério revelado de que os gentios são herdeiros juntamente com Israel em Cristo, proclamado por meio do evangelho, manifestando a sabedoria de Deus às potências celestiais.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A vocação dos gentios e o apostolado de Paulo"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Paulo ora novamente"
+        }
+      ]
     },
     {
       "id": "ephesians-4",
@@ -211,7 +245,25 @@
           "note": "Verbos comuns para subir ou descer; Paulo os aplica à descida e à exaltação de Cristo."
         }
       ],
-      "keyTakeaway": "Paulo apela pela unidade no Espírito e explica que Cristo concede dons variados para equipar e fazer a igreja crescer até a maturidade como seu corpo."
+      "keyTakeaway": "Paulo apela pela unidade no Espírito e explica que Cristo concede dons variados para equipar e fazer a igreja crescer até a maturidade como seu corpo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A unidade da fé"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "O santo ministério e o serviço dos santos"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "A santidade cristã oposta à dissolução"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Exortações à santidade"
+        }
+      ]
     },
     {
       "id": "ephesians-5",
@@ -271,7 +323,17 @@
           "note": "Expressão figurativa para aqueles que foram transformados por Cristo e vivem na verdade e na santidade."
         }
       ],
-      "keyTakeaway": "Os crentes devem andar em amor, luz e sabedoria, evitando impureza e idolatria, cheios do Espírito no culto e na submissão mútua."
+      "keyTakeaway": "Os crentes devem andar em amor, luz e sabedoria, evitando impureza e idolatria, cheios do Espírito no culto e na submissão mútua.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "O fruto da luz e as obras das trevas"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "O lar cristão: marido e mulher"
+        }
+      ]
     },
     {
       "id": "ephesians-6",
@@ -322,7 +384,29 @@
           "note": "Expressão de Gênesis 2:24 que descreve a união matrimonial."
         }
       ],
-      "keyTakeaway": "Paulo instrui esposas, maridos, filhos, pais, servos e senhores sobre relacionamentos moldados pelo amor e pela autoridade de Cristo."
+      "keyTakeaway": "Paulo instrui esposas, maridos, filhos, pais, servos e senhores sobre relacionamentos moldados pelo amor e pela autoridade de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O lar cristão: filhos e pais"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "O lar cristão: servos e senhores"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "A armadura de Deus"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Tíquico"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "A bênção"
+        }
+      ]
     }
   ]
 }

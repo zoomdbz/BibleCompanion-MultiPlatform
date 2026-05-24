@@ -41,7 +41,17 @@
           "note": "Podría ser un nombre propio o un título que significa 'mi mensajero' (1:1)."
         }
       ],
-      "keyTakeaway": "Dios reafirma su amor por Israel y anuncia la caída de Edom, mostrando su dominio más allá de las fronteras de Israel."
+      "keyTakeaway": "Dios reafirma su amor por Israel y anuncia la caída de Edom, mostrando su dominio más allá de las fronteras de Israel.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Amor de Jehová por Jacob"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jehová reprende a los sacerdotes"
+        }
+      ]
     },
     {
       "id": "malachi-2",
@@ -85,7 +95,17 @@
           "note": "Un pacto ministerial marcado por el temor de Dios, la enseñanza verdadera y el apartar a muchos del pecado (2:4–8)."
         }
       ],
-      "keyTakeaway": "Dios rechaza la adoración corrupta y advierte a los sacerdotes que profanan su nombre y tergiversan la instrucción; su pacto con Leví exigía verdad y reverencia."
+      "keyTakeaway": "Dios rechaza la adoración corrupta y advierte a los sacerdotes que profanan su nombre y tergiversan la instrucción; su pacto con Leví exigía verdad y reverencia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Reprensión de la infidelidad de Israel"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "El día del juicio se acerca"
+        }
+      ]
     },
     {
       "id": "malachi-3",
@@ -130,7 +150,17 @@
           "note": "Imágenes de purificación de metales preciosos y lavado de tela (3:2)."
         }
       ],
-      "keyTakeaway": "Dios responde a las acusaciones de injusticia: su mensajero prepara el camino, el Señor viene a su templo para purificar y juzgar, y su carácter inmutable explica la supervivencia de Israel."
+      "keyTakeaway": "Dios responde a las acusaciones de injusticia: su mensajero prepara el camino, el Señor viene a su templo para purificar y juzgar, y su carácter inmutable explica la supervivencia de Israel.",
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "El pago de los diezmos"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Diferencia entre el justo y el malo"
+        }
+      ]
     },
     {
       "id": "malachi-4",
@@ -174,7 +204,13 @@
           "note": "Anatema o destrucción total consagrada; la advertencia con que se cierra el libro (4:6)."
         }
       ],
-      "keyTakeaway": "Dios registra los nombres de quienes lo temen, promete un día ardiente para los malvados y sanidad para quienes temen su nombre, ordena recordar la ley de Moisés y promete enviar a Elías antes del gran día."
+      "keyTakeaway": "Dios registra los nombres de quienes lo temen, promete un día ardiente para los malvados y sanidad para quienes temen su nombre, ordena recordar la ley de Moisés y promete enviar a Elías antes del gran día.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El advenimiento del día de Jehová"
+        }
+      ]
     }
   ]
 }

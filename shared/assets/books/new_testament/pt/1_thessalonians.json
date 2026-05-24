@@ -37,7 +37,13 @@
           "note": "Termo para ira ou julgamento; aqui denota o julgamento vindouro de Deus."
         }
       ],
-      "keyTakeaway": "Paulo agradece a Deus pela fé, amor e esperança dos tessalonicenses, pela conversão deles dos ídolos e pelo testemunho que dão enquanto aguardam o retorno de Jesus."
+      "keyTakeaway": "Paulo agradece a Deus pela fé, amor e esperança dos tessalonicenses, pela conversão deles dos ídolos e pelo testemunho que dão enquanto aguardam o retorno de Jesus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação Ação de graças"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-2",
@@ -79,7 +85,21 @@
           "note": "Outro termo hebraico para ira intensa, frequentemente usado em contextos proféticos de julgamento divino."
         }
       ],
-      "keyTakeaway": "Paulo relembra seu ministério sincero, seu cuidado paternal e a imitação dos tessalonicenses às igrejas que sofreram perseguição, mencionando a oposição enfrentada e o julgamento de Deus sobre os que impedem o evangelho."
+      "keyTakeaway": "Paulo relembra seu ministério sincero, seu cuidado paternal e a imitação dos tessalonicenses às igrejas que sofreram perseguição, mencionando a oposição enfrentada e o julgamento de Deus sobre os que impedem o evangelho.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O proceder do apóstolo Paulo e seus cooperadores na evangelização de Tessalônica"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "O proceder fiel dos tessalonicenses nas tribulações"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "O interesse de Paulo pelos tessalonicenses"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-3",
@@ -114,7 +134,17 @@
           "note": "Nome que significa 'adversário'; aqui descreve a obstrução do desejo de Paulo de fazer uma visita."
         }
       ],
-      "keyTakeaway": "Paulo anseia por rever os tessalonicenses, impedido por Satanás, mas se consola com o bom relato de Timóteo e ora para que permaneçam santos e firmes até a vinda de Cristo."
+      "keyTakeaway": "Paulo anseia por rever os tessalonicenses, impedido por Satanás, mas se consola com o bom relato de Timóteo e ora para que permaneçam santos e firmes até a vinda de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo envia-lhes Timóteo. As boas notícias trazidas por este ao apóstolo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Oração de Paulo pelos tessalonicenses"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-4",
@@ -154,7 +184,21 @@
           "note": "Processo de ser separado para Deus; aqui aplicado à vida santa, especialmente na pureza sexual."
         }
       ],
-      "keyTakeaway": "Paulo exorta os tessalonicenses à santidade, à pureza sexual e ao amor fraternal, instruindo-os a viver com tranquilidade e a trabalhar com responsabilidade diante dos de fora."
+      "keyTakeaway": "Paulo exorta os tessalonicenses à santidade, à pureza sexual e ao amor fraternal, instruindo-os a viver com tranquilidade e a trabalhar com responsabilidade diante dos de fora.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Exortação à prática da santidade"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Exortação à prática do amor fraternal"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A situação dos mortos em Cristo e a vinda do Senhor"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-5",
@@ -214,7 +258,29 @@
           "note": "Expressão dos profetas para o tempo decisivo de julgamento e salvação de Deus; usada aqui para o retorno de Cristo."
         }
       ],
-      "keyTakeaway": "Paulo conforta os crentes dizendo que os mortos em Cristo ressuscitarão e os vivos serão arrebatados junto com eles na volta do Senhor, advertindo-os a permanecerem vigilantes e sóbrios até aquele dia."
+      "keyTakeaway": "Paulo conforta os crentes dizendo que os mortos em Cristo ressuscitarão e os vivos serão arrebatados junto com eles na volta do Senhor, advertindo-os a permanecerem vigilantes e sóbrios até aquele dia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A vinda do Senhor é certa e repentina"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "A necessidade de vigilância"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Diversos preceitos"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "O voto do apóstolo"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "A saudação final e a bênção"
+        }
+      ]
     }
   ]
 }

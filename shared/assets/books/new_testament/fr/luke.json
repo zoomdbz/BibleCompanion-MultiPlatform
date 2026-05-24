@@ -112,7 +112,29 @@
           "note": "Assurance concernant les enseignements recus."
         }
       ],
-      "keyTakeaway": "Luc s'adresse à Théophile avec un récit ordonné fondé sur des témoignages oculaires afin que le lecteur puisse avoir une certitude."
+      "keyTakeaway": "Luc s'adresse à Théophile avec un récit ordonné fondé sur des témoignages oculaires afin que le lecteur puisse avoir une certitude.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Introduction"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Prédiction de la naissance de Jean-Baptiste, et de celle de Jésus-Christ"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Visite de Marie à Élisabeth. Cantique de Marie"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Naissance de Jean-Baptiste"
+        },
+        {
+          "beforeVerse": 66,
+          "text": "Cantique de Zacharie"
+        }
+      ]
     },
     {
       "id": "luke-2",
@@ -207,7 +229,33 @@
           "note": "Auge d'alimentation utilisee comme lit pour le bebe (2:7-16)."
         }
       ],
-      "keyTakeaway": "Jésus naît à Bethléem ; des anges annoncent la naissance à des bergers ; le signe est un nouveau-né dans une mangeoire ; les bergers voient et rapportent ce qui leur a été dit."
+      "keyTakeaway": "Jésus naît à Bethléem ; des anges annoncent la naissance à des bergers ; le signe est un nouveau-né dans une mangeoire ; les bergers voient et rapportent ce qui leur a été dit.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Naissance de Jésus-Christ"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Les bergers de Bethléhem"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jésus présenté au Seigneur dans le temple de Jérusalem"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Cantique de Siméon. Anne la prophétesse"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Retour à Nazareth"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Jésus dans le temple à l’âge de douze ans"
+        }
+      ]
     },
     {
       "id": "luke-3",
@@ -283,7 +331,21 @@
           "note": "Imagerie de la moisson pour separer le ble de la paille (3:17)."
         }
       ],
-      "keyTakeaway": "Jean prêche la repentance et le baptême, répond à des questions pratiques, annonce un plus puissant qui baptise avec le Saint-Esprit et le feu, et est emprisonné par Hérode."
+      "keyTakeaway": "Jean prêche la repentance et le baptême, répond à des questions pratiques, annonce un plus puissant qui baptise avec le Saint-Esprit et le feu, et est emprisonné par Hérode.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prédication de Jean-Baptiste"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Baptême de Jésus-Christ"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Généalogie de Jésus-Christ"
+        }
+      ]
     },
     {
       "id": "luke-4",
@@ -360,7 +422,25 @@
           "note": "Formule introduisant les citations de l'Ecriture (4:4-10)."
         }
       ],
-      "keyTakeaway": "Après quarante jours dans le désert, Jésus répond à trois tentations par des citations des Écritures et le diable s'éloigne pour un temps."
+      "keyTakeaway": "Après quarante jours dans le désert, Jésus répond à trois tentations par des citations des Écritures et le diable s'éloigne pour un temps.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tentation de Jésus-Christ"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Ministère de Jésus en Galilée"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Prédication à Nazareth. Hostilité des habitants"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jésus à Capernaüm. Enseignement dans la synagogue. Guérison d’un démoniaque, de la belle-mère de Pierre et de plusieurs malades. Jésus en divers lieux de la Galilée"
+        }
+      ]
     },
     {
       "id": "luke-5",
@@ -431,7 +511,25 @@
           "note": "Simon egalement appele Pierre (5:3-8)."
         }
       ],
-      "keyTakeaway": "Au bord du lac, Jésus dirige une pêche miraculeuse et appelle Simon, Jacques et Jean en disant qu'ils pêcheront des hommes ; ils laissent tout et le suivent."
+      "keyTakeaway": "Au bord du lac, Jésus dirige une pêche miraculeuse et appelle Simon, Jacques et Jean en disant qu'ils pêcheront des hommes ; ils laissent tout et le suivent.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pêche miraculeuse. Vocation de trois disciples"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Guérison d’un lépreux et d’un paralytique"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Vocation de Lévi"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Question sur le jeûne"
+        }
+      ]
     },
     {
       "id": "luke-6",
@@ -512,7 +610,25 @@
           "note": "Titre que Jesus utilise en rapport avec l'autorite sur le sabbat (6:5)."
         }
       ],
-      "keyTakeaway": "Jésus cite David et se déclare seigneur du sabbat ; il guérit la main desséchée d'un homme le jour du sabbat après avoir posé la question du bien ou du mal."
+      "keyTakeaway": "Jésus cite David et se déclare seigneur du sabbat ; il guérit la main desséchée d'un homme le jour du sabbat après avoir posé la question du bien ou du mal.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les épis de blé et le sabbat"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "L’homme à la main sèche"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Choix des douze apôtres"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Sermon sur la montagne. — Les béatitudes. — Préceptes divers: — l’amour des ennemis; — les jugements téméraires; — la paille et la poutre; — l’arbre et son fruit; — la maison bâtie sur le roc"
+        }
+      ]
     },
     {
       "id": "luke-7",
@@ -594,7 +710,29 @@
           "note": "Indique l'enfant unique de la veuve (7:12)."
         }
       ],
-      "keyTakeaway": "Jésus guérit à distance le serviteur d'un centurion après avoir loué sa foi et ressuscite le fils unique d'une veuve à Naïn ; le peuple glorifie Dieu et la nouvelle se répand."
+      "keyTakeaway": "Jésus guérit à distance le serviteur d'un centurion après avoir loué sa foi et ressuscite le fils unique d'une veuve à Naïn ; le peuple glorifie Dieu et la nouvelle se répand.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Guérison du serviteur d’un centenier"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Résurrection du fils de la veuve de Naïn"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Message de Jean-Baptiste auprès de Jésus"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Témoignage sur Jean-Baptiste"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "La pécheresse pardonnée"
+        }
+      ]
     },
     {
       "id": "luke-8",
@@ -682,7 +820,29 @@
           "note": "Verites revelees donnees aux disciples (8:10)."
         }
       ],
-      "keyTakeaway": "Des femmes soutiennent le ministère de Jésus ; il enseigne la parabole du semeur et en donne l'explication, parle de l'ouïe et de la lumière, et désigne comme sa vraie famille ceux qui entendent et mettent en pratique la parole de Dieu."
+      "keyTakeaway": "Des femmes soutiennent le ministère de Jésus ; il enseigne la parabole du semeur et en donne l'explication, parle de l'ouïe et de la lumière, et désigne comme sa vraie famille ceux qui entendent et mettent en pratique la parole de Dieu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parabole du semeur"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "La mère et les frères de Jésus"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Tempête apaisée"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Jésus sur le territoire des Géraséniens. Un démoniaque guéri"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Résurrection de la fille de Jaïrus, et guérison d’une femme malade depuis douze ans"
+        }
+      ]
     },
     {
       "id": "luke-9",
@@ -776,7 +936,53 @@
           "note": "Gouverneur d'un quart ; Herode Antipas (9:7)."
         }
       ],
-      "keyTakeaway": "Les Douze sont envoyés avec des instructions et des restrictions sur leurs provisions ; Hérode est perplexe au sujet de Jésus ; Jésus nourrit environ cinq mille personnes avec cinq pains et deux poissons et il reste douze corbeilles."
+      "keyTakeaway": "Les Douze sont envoyés avec des instructions et des restrictions sur leurs provisions ; Hérode est perplexe au sujet de Jésus ; Jésus nourrit environ cinq mille personnes avec cinq pains et deux poissons et il reste douze corbeilles.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mission des douze apôtres"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Hérode ne sait que penser de Jésus"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Multiplication des pains"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Opinions diverses sur le Christ. Confession de Pierre. Jésus annonce ses souffrances et sa mort"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Comment suivre Jésus"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "La transfiguration"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Guérison d’un démoniaque"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Jésus annonce sa mort et sa résurrection"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Qui est le plus grand?"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "Jésus se rend à Jérusalem. Un bourg des Samaritains"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Comment suivre Jésus"
+        }
+      ]
     },
     {
       "id": "luke-10",
@@ -850,7 +1056,25 @@
           "note": "Declaration de Jesus lorsque les messagers font leur rapport (10:18)."
         }
       ],
-      "keyTakeaway": "Jésus envoie soixante-douze disciples avec des instructions et des salutations de paix, avertit les villes impénitentes, se réjouit que leurs noms soient écrits dans le ciel, et déclare heureux les disciples qui voient et entendent."
+      "keyTakeaway": "Jésus envoie soixante-douze disciples avec des instructions et des salutations de paix, avertit les villes impénitentes, se réjouit que leurs noms soient écrits dans le ciel, et déclare heureux les disciples qui voient et entendent.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mission de soixante-dix disciples. Reproches aux villes impénitentes"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Retour des disciples. Les choses divines révélées aux enfants"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Parabole du Samaritain"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Marthe et Marie"
+        }
+      ]
     },
     {
       "id": "luke-11",
@@ -941,7 +1165,29 @@
           "note": "Le mot peut signifier audace/impudence/perseverance dans la demande (11:8)."
         }
       ],
-      "keyTakeaway": "Jésus enseigne une prière, raconte une histoire d'ami à minuit pour illustrer la persévérance, et encourage à demander, chercher et frapper, le Père donnant l'Esprit Saint à ceux qui demandent."
+      "keyTakeaway": "Jésus enseigne une prière, raconte une histoire d'ami à minuit pour illustrer la persévérance, et encourage à demander, chercher et frapper, le Père donnant l'Esprit Saint à ceux qui demandent.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’oraison dominicale"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "La persévérance dans la prière"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Guérison d’un démoniaque muet. Réponse de Jésus à ses adversaires"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Un miracle refusé"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Les scribes et les pharisiens censurés"
+        }
+      ]
     },
     {
       "id": "luke-12",
@@ -1032,7 +1278,13 @@
           "note": "Parler de maniere impie contre ; ici, contre le Saint-Esprit (12:10)."
         }
       ],
-      "keyTakeaway": "Jésus met en garde contre l'hypocrisie, encourage à craindre Dieu plutôt que les hommes, promet de reconnaître ceux qui le confessent, avertit contre le blasphème contre l'Esprit Saint, et annonce que l'Esprit Saint enseignera ce qu'il faut dire dans les moments difficiles."
+      "keyTakeaway": "Jésus met en garde contre l'hypocrisie, encourage à craindre Dieu plutôt que les hommes, promet de reconnaître ceux qui le confessent, avertit contre le blasphème contre l'Esprit Saint, et annonce que l'Esprit Saint enseignera ce qu'il faut dire dans les moments difficiles.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Instructions de Jésus sur: — l’hypocrisie, — la crainte des hommes, — le blasphème contre le Saint-Esprit, — l’avarice, — la confiance dans les richesses (parabole de l’homme riche), — les inquiétudes, — l’aumône, — la vigilance, — les signes des temps, — la réconciliation"
+        }
+      ]
     },
     {
       "id": "luke-13",
@@ -1099,7 +1351,33 @@
           "note": "Liberation d'un lien/infirmite (13:12-16)."
         }
       ],
-      "keyTakeaway": "Jésus appelle à la repentance, énonce la parabole du figuier accordant un délai pour porter du fruit, libère une femme courbée le jour du sabbat et le défend, puis compare le royaume à une graine de moutarde et au levain."
+      "keyTakeaway": "Jésus appelle à la repentance, énonce la parabole du figuier accordant un délai pour porter du fruit, libère une femme courbée le jour du sabbat et le défend, puis compare le royaume à une graine de moutarde et au levain.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Galiléens massacrés par Pilate"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Parabole du figuier stérile"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Guérison d’une femme le jour du sabbat"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Paraboles du grain de sénevé, et du levain"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "La porte étroite"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Hostilité d’Hérode. Crimes et châtiment de Jérusalem"
+        }
+      ]
     },
     {
       "id": "luke-14",
@@ -1166,7 +1444,25 @@
           "note": "\"Presse fortement d'entrer\" (14:23)."
         }
       ],
-      "keyTakeaway": "Jésus guérit un jour de sabbat, enseigne l'humilité et la générosité lors des repas, et raconte un grand banquet où les invités d'abord conviés refusent et où les pauvres et les étrangers sont accueillis à leur place."
+      "keyTakeaway": "Jésus guérit un jour de sabbat, enseigne l'humilité et la générosité lors des repas, et raconte un grand banquet où les invités d'abord conviés refusent et où les pauvres et les étrangers sont accueillis à leur place.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jésus à table dans la maison d’un pharisien. Guérison d’un hydropique de jour du sabbat"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Instructions sur l’humilité et sur la bienfaisance"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Parabole des conviés"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Conditions à remplir pour être disciple de Jésus"
+        }
+      ]
     },
     {
       "id": "luke-15",
@@ -1230,7 +1526,13 @@
           "note": "Une drachme ; environ un salaire journalier dans certains contextes (15:8)."
         }
       ],
-      "keyTakeaway": "Face aux critiques suscitées par ses repas avec des pécheurs, Jésus raconte deux paraboles de recherche et de joie : un berger qui retrouve une brebis perdue et une femme qui retrouve une pièce perdue."
+      "keyTakeaway": "Face aux critiques suscitées par ses repas avec des pécheurs, Jésus raconte deux paraboles de recherche et de joie : un berger qui retrouve une brebis perdue et une femme qui retrouve une pièce perdue.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paraboles de la brebis égarée, de la drachme perdue, de l’enfant prodigue"
+        }
+      ]
     },
     {
       "id": "luke-16",
@@ -1293,7 +1595,21 @@
           "note": "Terme designant la richesse, personnifiee en 16:9-13."
         }
       ],
-      "keyTakeaway": "Jésus raconte la parabole d'un gérant mis en demeure de rendre compte, souligne l'éloge de sa prudence, et enseigne sur la fidélité dans l'usage des richesses et l'impossibilité de servir à la fois Dieu et l'argent."
+      "keyTakeaway": "Jésus raconte la parabole d'un gérant mis en demeure de rendre compte, souligne l'éloge de sa prudence, et enseigne sur la fidélité dans l'usage des richesses et l'impossibilité de servir à la fois Dieu et l'argent.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parabole de l’économe infidèle"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Reproches aux pharisiens"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Parabole du mauvais riche et du pauvre Lazare"
+        }
+      ]
     },
     {
       "id": "luke-17",
@@ -1350,6 +1666,10 @@
         {
           "ref": "17:36",
           "text": "de deux (hommes qui) seront dans un champ, l'un sera pris et l'autre laissé"
+        },
+        {
+          "ref": "Luke 17:36",
+          "text": "Certains manuscrits tardifs ajoutent ici un verset 36 : « Deux hommes seront dans un champ : l’un sera pris et l’autre laissé. » Il est absent du Codex Sinaïticus, du Vaticanus et des plus anciens manuscrits grecs. La plupart des chercheurs concluent qu’il a été importé du passage parallèle de Matthieu 24:40 pour donner à Luc un troisième exemple correspondant après ses références au lit (v. 34) et au moulin (v. 35)."
         }
       ],
       "translationNotes": [
@@ -1367,6 +1687,24 @@
           "term": "Serviteurs inutiles",
           "original": "Hebrew (sense): עֲבָדִים לֹא־בַעֲלֵי זְכוּת (ʿăbādiym lōʾ-baʿălēy zəkwt) — Greek (NT): δοῦλοι ἀχρεῖοι (doῦloi ἀchreῖoi) — Aramaic (Syriac): ܥܒܕܐ ܒܛܝܠܐ (ʿbdʾ bṭylʾ)",
           "note": "Sans pretention au merite ; declaration de devoir (17:10)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paroles de Jésus sur: — les scandales, — le pardon des offenses, — la puissance de la foi, — les serviteurs inutiles"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Les dix lépreux"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Le royaume de Dieu et l’avènement du Fils de l’homme"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Exhortation à la vigilance"
         }
       ]
     },
@@ -1443,7 +1781,33 @@
           "note": "Declare juste / acquitte en 18:14."
         }
       ],
-      "keyTakeaway": "Deux paraboles : la persévérance d'une veuve devant un juge injuste, et la prière humble d'un collecteur d'impôts mise en contraste avec la confiance en soi d'un pharisien."
+      "keyTakeaway": "Deux paraboles : la persévérance d'une veuve devant un juge injuste, et la prière humble d'un collecteur d'impôts mise en contraste avec la confiance en soi d'un pharisien.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parabole du juge inique"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Parabole du pharisien et du publicain"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Les petits enfants"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "L’homme riche. L’héritage de la vie éternelle"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jésus annonce sa mort et sa résurrection"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Guérison d’un aveugle à Jéricho"
+        }
+      ]
     },
     {
       "id": "luke-19",
@@ -1523,7 +1887,29 @@
           "note": "Declaration programmatique de la mission (19:10)."
         }
       ],
-      "keyTakeaway": "À Jéricho, Jésus appelle Zachée à descendre d'un arbre pour loger chez lui ; Zachée déclare restitution et générosité ; Jésus affirme que le salut est venu et énonce sa mission de chercher et de sauver."
+      "keyTakeaway": "À Jéricho, Jésus appelle Zachée à descendre d'un arbre pour loger chez lui ; Zachée déclare restitution et générosité ; Jésus affirme que le salut est venu et énonce sa mission de chercher et de sauver.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le publicain Zachée"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Parabole des mines"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Entrée de Jésus à Jérusalem"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Jésus pleure sur Jérusalem"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Les vendeurs chassés du temple. Irritation des sacrificateurs"
+        }
+      ]
     },
     {
       "id": "luke-20",
@@ -1602,7 +1988,29 @@
           "note": "Impact de la pierre qui tombe (20:18)."
         }
       ],
-      "keyTakeaway": "Jésus répond à la question sur son autorité par une question sur le baptême de Jean, raconte la parabole des vignerons qui tuent le fils bien-aimé et cite la pierre rejetée devenue pierre angulaire."
+      "keyTakeaway": "Jésus répond à la question sur son autorité par une question sur le baptême de Jean, raconte la parabole des vignerons qui tuent le fils bien-aimé et cite la pierre rejetée devenue pierre angulaire.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’autorité de Jésus"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Parabole des vignerons. La pierre de l’angle"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Questions captieuses proposées à Jésus sur le tribut à César. La résurrection"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "De qui le Christ est-il fils?"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Les scribes censurés par Jésus"
+        }
+      ]
     },
     {
       "id": "luke-21",
@@ -1671,7 +2079,21 @@
           "note": "Litteralement \"toute sa vie / ses moyens de subsistance\" (21:4)."
         }
       ],
-      "keyTakeaway": "Jésus remarque une pauvre veuve qui dépose deux petites pièces dans le trésor et déclare qu'elle a donné plus que tous les autres parce qu'elle a donné tout ce qu'elle avait pour vivre."
+      "keyTakeaway": "Jésus remarque une pauvre veuve qui dépose deux petites pièces dans le trésor et déclare qu'elle a donné plus que tous les autres parce qu'elle a donné tout ce qu'elle avait pour vivre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La pauvre veuve"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "La destruction de Jérusalem et l’avènement du Fils de l’homme"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Exhortation à la vigilance"
+        }
+      ]
     },
     {
       "id": "luke-22",
@@ -1780,7 +2202,37 @@
           "note": "Instruction accompagnant le pain (22:19)."
         }
       ],
-      "keyTakeaway": "Les chefs cherchent à faire mourir Jésus ; Judas accepte de le livrer ; la Pâque est préparée ; à table, Jésus prononce des paroles sur le pain et la coupe et annonce que la main de celui qui le trahit est avec lui."
+      "keyTakeaway": "Les chefs cherchent à faire mourir Jésus ; Judas accepte de le livrer ; la Pâque est préparée ; à table, Jésus prononce des paroles sur le pain et la coupe et annonce que la main de celui qui le trahit est avec lui.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Histoire de la passion. Complot contre Jésus. Trahison de Judas"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Célébration de la Pâque et institution de la sainte cène"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Qui est le plus grand?"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Gethsémané"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Arrestation de Jésus"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "Reniement de Pierre"
+        },
+        {
+          "beforeVerse": 62,
+          "text": "Jésus devant le sanhédrin présidé par Caïphe. Condamnation"
+        }
+      ]
     },
     {
       "id": "luke-23",
@@ -1855,7 +2307,11 @@
       "manuscriptVariants": [
         {
           "ref": "23:17",
-          "text": "inciter… à la révolte subvertir, pervertir pervers détourner et d'abolir la Loi et les Prophètes empêche de payer les impôts et détourne les femmes et les enfants Christ messie , roi un roi consacré par l'onction"
+          "text": "Or, il était obligé de leur relâcher un prisonnier à chaque fête."
+        },
+        {
+          "ref": "Luke 23:17",
+          "text": "Certains manuscrits tardifs ajoutent ici un verset 17 : « Or, il était obligé de leur relâcher un prisonnier à chaque fête. » Il manque dans les Codex Sinaïticus, Vaticanus et Alexandrinus. La note fut probablement insérée par un scribe ancien pour expliquer aux lecteurs pourquoi la foule au v. 18 réclamait la libération d’un prisonnier ; l’explication apparaît plus naturellement dans les parallèles de Matthieu 27:15 et Marc 15:6."
         }
       ],
       "translationNotes": [
@@ -1883,6 +2339,28 @@
           "term": "Note textuelle (23:17)",
           "original": "Greek MSS variation",
           "note": "Certains manuscrits incluent un verset sur la coutume de Pilate de relacher un prisonnier lors de la fete ; de nombreuses editions modernes le mettent entre crochets ou l'omettent dans Luc."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jésus devant Pilate, gouverneur romain"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jésus devant Hérode. Jésus renvoyé par Hérode à Pilate"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Sentence de mort confirmée"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Jésus crucifié"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "Le corps de Jésus mis dans un sépulcre"
         }
       ]
     },
@@ -1974,7 +2452,21 @@
           "note": "Comment le recit apparait d'abord aux apotres (24:11)."
         }
       ],
-      "keyTakeaway": "À l'aube, les femmes trouvent le tombeau ouvert et entendent l'annonce que Jésus est ressuscité ; elles rapportent la nouvelle aux Onze, et Pierre voit les linges."
+      "keyTakeaway": "À l'aube, les femmes trouvent le tombeau ouvert et entendent l'annonce que Jésus est ressuscité ; elles rapportent la nouvelle aux Onze, et Pierre voit les linges.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Résurrection de Jésus-Christ"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Sur le chemin d’Emmaüs"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "L’ascension"
+        }
+      ]
     }
   ]
 }

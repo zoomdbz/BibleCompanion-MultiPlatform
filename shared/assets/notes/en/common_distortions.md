@@ -337,11 +337,11 @@ Three things happened, and Christian tradition conflates them.
 
 That is all the New Testament data. Nothing commands a change of day.
 
-### Sun worship convergence
+**Sun worship convergence**
 
 The Roman Empire was saturated with solar cults. Mithras, Sol Invictus, and Apollo all had Sunday associations. When Constantine issued his civil edict on March 7, 321 AD, he decreed that "on the venerable day of the Sun let the magistrates and people residing in cities rest, and let all workshops be closed." The Latin text calls it *venerabili die Solis*, the venerable day of the Sun. Constantine was not yet clearly Christian when he issued it; he was a Sol Invictus devotee whose coinage continued to feature Sol for years. The edict made Sunday the civic rest day of the empire, and the church, which had been drifting toward Sunday for two centuries, now had imperial backing.
 
-### Council of Laodicea (c. 363–364 AD)
+**Council of Laodicea (c. 363–364 AD)**
 
 Canon 29 explicitly forbids Christians from resting on the Sabbath, commands them to work on that day, and honors "the Lord's Day" instead. The text reads that Christians "shall specially honour the Lord's Day; and, as being Christians, shall, if possible, do no work on that day. If, however, they are found Judaizing, they shall be shut out from Christ." The Sabbath was not moved; it was criminalized within the church.
 

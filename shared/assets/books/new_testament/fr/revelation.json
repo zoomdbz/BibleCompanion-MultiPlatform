@@ -52,7 +52,21 @@
           "note": "Jésus explique qu'elles sont les anges des sept Églises (1:20)."
         }
       ],
-      "keyTakeaway": "Jean reçoit une vision du Christ glorifié au milieu de sept chandeliers, qui lui confie la mission d'écrire aux Églises."
+      "keyTakeaway": "Jean reçoit une vision du Christ glorifié au milieu de sept chandeliers, qui lui confie la mission d'écrire aux Églises.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Titre et sujet du livre"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Dédicace aux sept Églises d’Asie"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Vision de Jean dans l’île de Patmos. Ordre d’écrire ce qu’il a vu, et d’envoyer le livre aux sept Églises d’Asie"
+        }
+      ]
     },
     {
       "id": "revelation-2",
@@ -118,7 +132,25 @@
           "note": "Symbole du Christ lui-même, dispensateur de lumière et souverain des nations ; identifié plus tard comme Jésus (Apocalypse 22:16)."
         }
       ],
-      "keyTakeaway": "Le Christ s'adresse à quatre églises avec des commendations et des avertissements : Éphèse a abandonné son premier amour malgré son rejet des faux apôtres ; Smyrne fait face à la persécution mais est spirituellement riche ; Pergame reste fidèle malgré le trône de Satan en son sein mais tolère de fausses doctrines ; Thyatire pratique l'amour et le service mais permet à la prophétesse Jézabel d'entraîner les croyants dans l'immoralité sexuelle et l'idolâtrie. Des récompenses sont promises à chaque église qui surmonte si elle se repent et persévère."
+      "keyTakeaway": "Le Christ s'adresse à quatre églises avec des commendations et des avertissements : Éphèse a abandonné son premier amour malgré son rejet des faux apôtres ; Smyrne fait face à la persécution mais est spirituellement riche ; Pergame reste fidèle malgré le trône de Satan en son sein mais tolère de fausses doctrines ; Thyatire pratique l'amour et le service mais permet à la prophétesse Jézabel d'entraîner les croyants dans l'immoralité sexuelle et l'idolâtrie. Des récompenses sont promises à chaque église qui surmonte si elle se repent et persévère.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lettres aux sept Églises d’Asie. Première lettre: à l’Église d’Éphèse"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Seconde lettre: à l’Église de Smyrne"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Troisième lettre: à l’Église de Pergame"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Quatrième lettre: à l’Église de Thyatire"
+        }
+      ]
     },
     {
       "id": "revelation-3",
@@ -177,7 +209,21 @@
           "note": "Symbole du Christ lui-même, dispensateur de lumière et souverain des nations ; identifié plus tard comme Jésus (Apocalypse 22:16)."
         }
       ],
-      "keyTakeaway": "Le Christ s'adresse à trois églises : Sardes est spirituellement morte malgré sa réputation et doit se repentir sous peine d'un jugement soudain, bien que quelques-uns y demeurent fidèles ; Philadelphie est faible mais obéissante et sera protégée des épreuves à venir ; Laodicée est tiède et se fait des illusions sur sa pauvreté, et le Christ l'appelle à acquérir un raffinement spirituel et à se repentir."
+      "keyTakeaway": "Le Christ s'adresse à trois églises : Sardes est spirituellement morte malgré sa réputation et doit se repentir sous peine d'un jugement soudain, bien que quelques-uns y demeurent fidèles ; Philadelphie est faible mais obéissante et sera protégée des épreuves à venir ; Laodicée est tiède et se fait des illusions sur sa pauvreté, et le Christ l'appelle à acquérir un raffinement spirituel et à se repentir.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Cinquième lettre: à l’Église de Sardes"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Sixième lettre: à l’Église de Philadelphie"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Septième lettre: à l’Église de Laodicée"
+        }
+      ]
     },
     {
       "id": "revelation-4",
@@ -230,7 +276,13 @@
           "note": "Se prosterner en hommage, « embrasser vers ». Utilisé lorsque les mages adorèrent Jésus (Matthieu 2:11), lorsque Jésus enseigna l'adoration en esprit et en vérité (Jean 4:23-24), lorsque l'aveugle guéri se prosterna devant lui (Jean 9:38), et dans l'Apocalypse où les êtres célestes se prosternent en adoration (Apocalypse 4:10 ; 19:10)."
         }
       ],
-      "keyTakeaway": "Jean est introduit dans la salle du trône céleste, où il contemple la gloire de Dieu, les anciens, les êtres vivants et leur adoration incessante."
+      "keyTakeaway": "Jean est introduit dans la salle du trône céleste, où il contemple la gloire de Dieu, les anciens, les êtres vivants et leur adoration incessante.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le trône de la majesté divine, les vingt-quatre vieillards, et les quatre êtres vivants"
+        }
+      ]
     },
     {
       "id": "revelation-5",
@@ -281,7 +333,13 @@
           "note": "Sept sceaux de cire ou d'argile signifiant la sécurité complète et le caractère caché du décret divin."
         }
       ],
-      "keyTakeaway": "Seul l'Agneau immolé et ressuscité est digne d'ouvrir le rouleau, et toute la création l'adore avec Dieu."
+      "keyTakeaway": "Seul l'Agneau immolé et ressuscité est digne d'ouvrir le rouleau, et toute la création l'adore avec Dieu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le livre scellé de sept sceaux, remis à l’Agneau pour être ouvert"
+        }
+      ]
     },
     {
       "id": "revelation-6",
@@ -335,7 +393,13 @@
           "note": "Image paradoxale du jugement venant de l'Agneau qui a été immolé."
         }
       ],
-      "keyTakeaway": "L'ouverture de six sceaux révèle des cavaliers apportant conquête, guerre, famine, mort, des martyrs réclamant justice, et un bouleversement cosmique avant le jugement."
+      "keyTakeaway": "L'ouverture de six sceaux révèle des cavaliers apportant conquête, guerre, famine, mort, des martyrs réclamant justice, et un bouleversement cosmique avant le jugement.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ouverture des six premiers sceaux"
+        }
+      ]
     },
     {
       "id": "revelation-7",
@@ -384,7 +448,13 @@
           "note": "Période de souffrance intense à travers laquelle les fidèles persévèrent."
         }
       ],
-      "keyTakeaway": "Dieu marque ses serviteurs pour les protéger, montre la multitude des rachetés de toutes nations en train d'adorer, et promet un abri, une subsistance et un réconfort éternels par l'intermédiaire de l'Agneau."
+      "keyTakeaway": "Dieu marque ses serviteurs pour les protéger, montre la multitude des rachetés de toutes nations en train d'adorer, et promet un abri, une subsistance et un réconfort éternels par l'intermédiaire de l'Agneau.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les serviteurs de Dieu, les saints et les martyrs"
+        }
+      ]
     },
     {
       "id": "revelation-8",
@@ -429,7 +499,13 @@
           "note": "Littéralement « deux fois dix mille fois dix mille » ; une armée immense et innombrable."
         }
       ],
-      "keyTakeaway": "L'ouverture du septième sceau est suivie d'un silence ; sept anges reçoivent des trompettes et un ange offre de l'encens avec les prières du peuple de Dieu sur l'autel. Quand les quatre premiers anges sonnent de la trompette, des fléaux dévastateurs frappent la terre : la grêle et le feu brûlent la végétation, une montagne en flammes empoisonne la mer, l'étoile Absinthe contamine les eaux, et les ténèbres couvrent le tiers du ciel ; un aigle annonce trois autres malheurs à venir."
+      "keyTakeaway": "L'ouverture du septième sceau est suivie d'un silence ; sept anges reçoivent des trompettes et un ange offre de l'encens avec les prières du peuple de Dieu sur l'autel. Quand les quatre premiers anges sonnent de la trompette, des fléaux dévastateurs frappent la terre : la grêle et le feu brûlent la végétation, une montagne en flammes empoisonne la mer, l'étoile Absinthe contamine les eaux, et les ténèbres couvrent le tiers du ciel ; un aigle annonce trois autres malheurs à venir.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ouverture du septième sceau. Sept anges avec sept trompettes. Les six premières trompettes"
+        }
+      ]
     },
     {
       "id": "revelation-9",
@@ -524,7 +600,13 @@
           "note": "Le dessein caché de Dieu, annoncé aux prophètes, accompli à la septième trompette."
         }
       ],
-      "keyTakeaway": "Un ange puissant remet à Jean un petit rouleau à manger, symbolisant une prophétie à la fois douce et amère, annonçant jugement et témoignage."
+      "keyTakeaway": "Un ange puissant remet à Jean un petit rouleau à manger, symbolisant une prophétie à la fois douce et amère, annonçant jugement et témoignage.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Avant le son de la septième trompette: un livre apporté du ciel par un ange; les deux témoins"
+        }
+      ]
     },
     {
       "id": "revelation-11",
@@ -575,7 +657,13 @@
           "note": "Coffre sacré symbolisant la présence de Dieu, maintenant révélé dans le temple céleste."
         }
       ],
-      "keyTakeaway": "Deux témoins prophétisent, sont tués, ressuscités puis enlevés au ciel ; la septième trompette retentit, proclamant le règne éternel du Christ."
+      "keyTakeaway": "Deux témoins prophétisent, sont tués, ressuscités puis enlevés au ciel ; la septième trompette retentit, proclamant le règne éternel du Christ.",
+      "headings": [
+        {
+          "beforeVerse": 14,
+          "text": "La septième trompette"
+        }
+      ]
     },
     {
       "id": "revelation-12",
@@ -623,7 +711,13 @@
           "note": "Identifié explicitement comme le diable, Satan et le serpent ancien de la Genèse."
         }
       ],
-      "keyTakeaway": "Jean voit une vision d'une femme, son enfant emporté vers Dieu, et le dragon vaincu dans le ciel mais faisant la guerre à sa descendance sur la terre."
+      "keyTakeaway": "Jean voit une vision d'une femme, son enfant emporté vers Dieu, et le dragon vaincu dans le ciel mais faisant la guerre à sa descendance sur la terre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La femme et le dragon"
+        }
+      ]
     },
     {
       "id": "revelation-13",
@@ -678,7 +772,17 @@
           "note": "Nombre de la bête, associé à l'imperfection et à l'homme ; contraste avec la plénitude divine (7)."
         }
       ],
-      "keyTakeaway": "Jean voit une bête surgir de la mer et une autre de la terre, toutes deux habilitées par le dragon, exigeant l'adoration, persécutant les saints et marquant leurs partisans du chiffre 666."
+      "keyTakeaway": "Jean voit une bête surgir de la mer et une autre de la terre, toutes deux habilitées par le dragon, exigeant l'adoration, persécutant les saints et marquant leurs partisans du chiffre 666.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La bête qui monte de la mer"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "La bête qui monte de la terre"
+        }
+      ]
     },
     {
       "id": "revelation-14",
@@ -735,7 +839,21 @@
           "note": "Ancienne mesure de distance, environ 296 km ; utilisée ici pour l'étendue du jugement."
         }
       ],
-      "keyTakeaway": "Jean voit l'Agneau avec les 144 000, les messages de trois anges sur l'évangile, la chute de Babylone et la colère contre les adorateurs de la bête, puis la moisson de la terre."
+      "keyTakeaway": "Jean voit l'Agneau avec les 144 000, les messages de trois anges sur l'évangile, la chute de Babylone et la colère contre les adorateurs de la bête, puis la moisson de la terre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’agneau et ses rachetés sur la montagne de Sion"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Trois anges proclament les jugements de Dieu"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "La moisson et la vendange"
+        }
+      ]
     },
     {
       "id": "revelation-15",
@@ -785,7 +903,13 @@
           "note": "Littéralement « Mont de Meguiddo » ; lieu symbolique de rassemblement pour la bataille finale."
         }
       ],
-      "keyTakeaway": "Sept anges portant les dernières plaies apparaissent dans le ciel ; ceux qui ont triomphé de la bête chantent des louanges au bord d'une mer de verre tandis que le temple s'ouvre et que les anges reçoivent des coupes d'or remplies de la colère de Dieu."
+      "keyTakeaway": "Sept anges portant les dernières plaies apparaissent dans le ciel ; ceux qui ont triomphé de la bête chantent des louanges au bord d'une mer de verre tandis que le temple s'ouvre et que les anges reçoivent des coupes d'or remplies de la colère de Dieu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sept anges et sept coupes, soit les sept derniers fléaux"
+        }
+      ]
     },
     {
       "id": "revelation-16",
@@ -908,7 +1032,13 @@
           "note": "Festin célébrant l'union entre l'Agneau et son épouse, symbolisant le peuple racheté de Dieu."
         }
       ],
-      "keyTakeaway": "Un ange montre à Jean une femme appelée Babylone la Grande, assise sur une bête écarlate à sept têtes et dix cornes ; l'ange interprète la vision en expliquant que les sept têtes sont sept rois et les dix cornes sont dix rois qui feront la guerre à l'Agneau mais seront finalement vaincus. La bête et les dix cornes détruiront la prostituée, et Dieu se servira d'eux pour accomplir son dessein avant leur propre destruction."
+      "keyTakeaway": "Un ange montre à Jean une femme appelée Babylone la Grande, assise sur une bête écarlate à sept têtes et dix cornes ; l'ange interprète la vision en expliquant que les sept têtes sont sept rois et les dix cornes sont dix rois qui feront la guerre à l'Agneau mais seront finalement vaincus. La bête et les dix cornes détruiront la prostituée, et Dieu se servira d'eux pour accomplir son dessein avant leur propre destruction.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Chute de Babylone"
+        }
+      ]
     },
     {
       "id": "revelation-18",
@@ -1037,7 +1167,13 @@
           "note": "Festin célébrant l'union entre l'Agneau et son épouse, symbolisant le peuple racheté de Dieu."
         }
       ],
-      "keyTakeaway": "Le ciel éclate en louanges tandis que Dieu juge la grande prostituée et que le repas de noces de l'Agneau est annoncé ; puis un cavalier sur un cheval blanc, appelé Fidèle et Véritable, fait la guerre à la bête et aux rois de la terre, capturant la bête et le faux prophète tandis que leurs armées sont défaites par l'épée qui sort de sa bouche."
+      "keyTakeaway": "Le ciel éclate en louanges tandis que Dieu juge la grande prostituée et que le repas de noces de l'Agneau est annoncé ; puis un cavalier sur un cheval blanc, appelé Fidèle et Véritable, fait la guerre à la bête et aux rois de la terre, capturant la bête et le faux prophète tandis que leurs armées sont défaites par l'épée qui sort de sa bouche.",
+      "headings": [
+        {
+          "beforeVerse": 10,
+          "text": "Victoire sur la bête et sur le faux prophète"
+        }
+      ]
     },
     {
       "id": "revelation-20",
@@ -1099,7 +1235,21 @@
           "note": "Lieu de jugement final et de tourment éternel pour Satan, la bête et le faux prophète."
         }
       ],
-      "keyTakeaway": "Satan est lié pendant 1 000 ans tandis que les saints règnent avec Christ ; après une brève libération et une ultime rébellion, il est jeté pour toujours dans l'étang de feu."
+      "keyTakeaway": "Satan est lié pendant 1 000 ans tandis que les saints règnent avec Christ ; après une brève libération et une ultime rébellion, il est jeté pour toujours dans l'étang de feu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Satan lié pour mille ans: règne des fidèles et de Christ"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Satan délié, et vaincu pour toujours"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jugement dernier"
+        }
+      ]
     },
     {
       "id": "revelation-21",
@@ -1173,7 +1323,17 @@
           "note": "Ici identifiée avec le Christ lui-même, dispensateur de lumière et d'espérance éternelle."
         }
       ],
-      "keyTakeaway": "Jean voit un nouveau ciel et une nouvelle terre avec la ville sainte, la nouvelle Jérusalem, descendant de Dieu ; c'est une ville carrée de 12 000 stades de côté, construite d'or et de pierres précieuses, avec douze portes et des fondations portant les noms des tribus d'Israël et des apôtres. Dieu demeure parmi le peuple, essuie toutes les larmes et toute douleur, et les victorieux héritent de cette ville tandis que les lâches et les incrédules sont voués à l'étang de soufre en feu."
+      "keyTakeaway": "Jean voit un nouveau ciel et une nouvelle terre avec la ville sainte, la nouvelle Jérusalem, descendant de Dieu ; c'est une ville carrée de 12 000 stades de côté, construite d'or et de pierres précieuses, avec douze portes et des fondations portant les noms des tribus d'Israël et des apôtres. Dieu demeure parmi le peuple, essuie toutes les larmes et toute douleur, et les victorieux héritent de cette ville tandis que les lâches et les incrédules sont voués à l'étang de soufre en feu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les nouveaux cieux et la nouvelle terre"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "La nouvelle Jérusalem"
+        }
+      ]
     },
     {
       "id": "revelation-22",
@@ -1241,7 +1401,13 @@
           "note": "Ici identifiée avec le Christ lui-même, dispensateur de lumière et d'espérance éternelle."
         }
       ],
-      "keyTakeaway": "L'ange montre à Jean le fleuve de vie, l'arbre de vie et le trône de Dieu dans la ville sainte où les serviteurs de Dieu le serviront et verront sa face ; Jésus déclare qu'il vient bientôt et met en garde contre quiconque ajouterait ou retrancherait des paroles de cette prophétie."
+      "keyTakeaway": "L'ange montre à Jean le fleuve de vie, l'arbre de vie et le trône de Dieu dans la ville sainte où les serviteurs de Dieu le serviront et verront sa face ; Jésus déclare qu'il vient bientôt et met en garde contre quiconque ajouterait ou retrancherait des paroles de cette prophétie.",
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Conclusion du livre"
+        }
+      ]
     }
   ]
 }

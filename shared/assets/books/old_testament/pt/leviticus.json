@@ -75,7 +75,13 @@
           "note": "Proibidos de comer; a gordura das ofertas é queimada ao SENHOR, o sangue é reservado para expiação no altar."
         }
       ],
-      "keyTakeaway": "O Senhor instrui Moisés sobre os holocaustos: animais do rebanho bovino ou ovino devem ser machos e sem defeito, apresentados na tenda do encontro onde o ofertante coloca a mão sobre o animal antes do abate, e o sacerdote queima os pedaços no altar como aroma agradável ao Senhor. Aves também podem ser oferecidas como alternativa, com instruções específicas para o preparo."
+      "keyTakeaway": "O Senhor instrui Moisés sobre os holocaustos: animais do rebanho bovino ou ovino devem ser machos e sem defeito, apresentados na tenda do encontro onde o ofertante coloca a mão sobre o animal antes do abate, e o sacerdote queima os pedaços no altar como aroma agradável ao Senhor. Aves também podem ser oferecidas como alternativa, com instruções específicas para o preparo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os holocaustos"
+        }
+      ]
     },
     {
       "id": "leviticus-2",
@@ -149,7 +155,13 @@
           "note": "Proibidos de comer; a gordura das ofertas é queimada ao SENHOR, o sangue é reservado para expiação no altar."
         }
       ],
-      "keyTakeaway": "As oferendas de cereal ao Senhor são feitas de farinha fina com azeite e incenso; uma porção memorial é queimada no altar enquanto o restante vai para Arão e seus filhos, com variações permitidas para preparações assadas no forno, na chapa ou na frigideira, todas sem fermento e temperadas com sal."
+      "keyTakeaway": "As oferendas de cereal ao Senhor são feitas de farinha fina com azeite e incenso; uma porção memorial é queimada no altar enquanto o restante vai para Arão e seus filhos, com variações permitidas para preparações assadas no forno, na chapa ou na frigideira, todas sem fermento e temperadas com sal.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "As ofertas de manjares"
+        }
+      ]
     },
     {
       "id": "leviticus-3",
@@ -224,7 +236,13 @@
           "note": "Proibidos de comer; a gordura das ofertas é queimada ao SENHOR, o sangue é reservado para expiação no altar."
         }
       ],
-      "keyTakeaway": "Instruções são dadas para ofertas de comunhão com animais do rebanho bovino, ovino ou caprino; o ofertante coloca a mão sobre a cabeça do animal, ele é abatido, e os sacerdotes queimam a gordura e os órgãos no altar como aroma agradável ao SENHOR. Uma ordenança permanente proíbe comer gordura ou sangue."
+      "keyTakeaway": "Instruções são dadas para ofertas de comunhão com animais do rebanho bovino, ovino ou caprino; o ofertante coloca a mão sobre a cabeça do animal, ele é abatido, e os sacerdotes queimam a gordura e os órgãos no altar como aroma agradável ao SENHOR. Uma ordenança permanente proíbe comer gordura ou sangue.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os sacrifícios pacíficos"
+        }
+      ]
     },
     {
       "id": "leviticus-4",
@@ -317,7 +335,25 @@
           "note": "Proibidos de comer; a gordura das ofertas é queimada ao SENHOR, o sangue é reservado para expiação no altar."
         }
       ],
-      "keyTakeaway": "Deus instrui Moisés sobre as ofertas pelo pecado para violações não intencionais de seus mandamentos, prescrevendo animais e procedimentos diferentes conforme o pecador seja o sacerdote ungido, toda a comunidade, um líder ou um membro comum do povo."
+      "keyTakeaway": "Deus instrui Moisés sobre as ofertas pelo pecado para violações não intencionais de seus mandamentos, prescrevendo animais e procedimentos diferentes conforme o pecador seja o sacerdote ungido, toda a comunidade, um líder ou um membro comum do povo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sacrifício pelos pecados por ignorância dos sacerdotes"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Os sacrifícios pelos pecados por ignorância de toda a congregação"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Os sacrifícios pelos pecados por ignorância de um príncipe"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Os sacrifícios pelos pecados por ignorância de qualquer pessoa"
+        }
+      ]
     },
     {
       "id": "leviticus-5",
@@ -394,7 +430,21 @@
           "note": "Proibidos de comer; a gordura das ofertas é queimada ao SENHOR, o sangue é reservado para expiação no altar."
         }
       ],
-      "keyTakeaway": "Leis são estabelecidas para pecados não intencionais: silêncio durante um testemunho, tocar em coisas impuras, juramentos descuidados e violações de coisas sagradas; as ofertas variam conforme a condição financeira de cada um, podendo ser uma cordeira ou cabra, duas rolas ou pombinhos, ou farinha fina, com o sacerdote fazendo a expiação. Quem pecar inadvertidamente contra os mandamentos do Senhor deve trazer um carneiro como oferta pela culpa, fazer restituição acrescida de um quinto do valor e receber o perdão por meio da expiação feita pelo sacerdote."
+      "keyTakeaway": "Leis são estabelecidas para pecados não intencionais: silêncio durante um testemunho, tocar em coisas impuras, juramentos descuidados e violações de coisas sagradas; as ofertas variam conforme a condição financeira de cada um, podendo ser uma cordeira ou cabra, duas rolas ou pombinhos, ou farinha fina, com o sacerdote fazendo a expiação. Quem pecar inadvertidamente contra os mandamentos do Senhor deve trazer um carneiro como oferta pela culpa, fazer restituição acrescida de um quinto do valor e receber o perdão por meio da expiação feita pelo sacerdote.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sacrifício pelos pecados ocultos"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "O sacrifício pelo sacrilégio"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "O sacrifício pelos pecados de ignorância"
+        }
+      ]
     },
     {
       "id": "leviticus-6",
@@ -482,7 +532,29 @@
           "note": "Proibidos de comer; a gordura das ofertas é queimada ao SENHOR, o sangue é reservado para expiação no altar."
         }
       ],
-      "keyTakeaway": "Quando alguém engana o próximo ou faz um juramento falso, deve devolver o que tomou ou achou, acrescentar um quinto do valor e trazer uma oferta pela culpa para ser perdoado. O capítulo detalha ainda as regulamentações para o holocausto, a oferta de cereal, a oferta de cereal do sacerdote ungido e a oferta pelo pecado, especificando como os sacerdotes devem tratar cada sacrifício."
+      "keyTakeaway": "Quando alguém engana o próximo ou faz um juramento falso, deve devolver o que tomou ou achou, acrescentar um quinto do valor e trazer uma oferta pela culpa para ser perdoado. O capítulo detalha ainda as regulamentações para o holocausto, a oferta de cereal, a oferta de cereal do sacerdote ungido e a oferta pelo pecado, especificando como os sacerdotes devem tratar cada sacrifício.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sacrifício pelos pecados voluntários"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A lei do holocausto"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A lei da oferta de manjares"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "A oferta na consagração dos sacerdotes"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "A lei da oferta pelo pecado"
+        }
+      ]
     },
     {
       "id": "leviticus-7",
@@ -578,7 +650,25 @@
           "note": "Proibidos de comer; a gordura das ofertas é queimada ao SENHOR, o sangue é reservado para expiação no altar."
         }
       ],
-      "keyTakeaway": "Deus instrui Moisés sobre as regulamentações para as ofertas pela culpa, as ofertas de comunhão e os sacrifícios relacionados, incluindo quais partes os sacerdotes podem comer, por quanto tempo a carne pode ser guardada e as proibições contra comer gordura e sangue. Ele também especifica as porções das ofertas que pertencem a Arão e seus filhos como parte perpétua deles."
+      "keyTakeaway": "Deus instrui Moisés sobre as regulamentações para as ofertas pela culpa, as ofertas de comunhão e os sacrifícios relacionados, incluindo quais partes os sacerdotes podem comer, por quanto tempo a carne pode ser guardada e as proibições contra comer gordura e sangue. Ele também especifica as porções das ofertas que pertencem a Arão e seus filhos como parte perpétua deles.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A lei da oferta pela culpa"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "A lei das ofertas pacíficas"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Deus proíbe comer gordura e sangue"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "A porção dos sacerdotes"
+        }
+      ]
     },
     {
       "id": "leviticus-8",
@@ -662,7 +752,13 @@
           "note": "Lugar para queimar restos sacrificiais e carregar corpos; simboliza remoção da impureza do acampamento santo."
         }
       ],
-      "keyTakeaway": "Moisés consagra Arão e seus filhos como sacerdotes lavando-os, vestindo-os com as roupas sacerdotais, ungindo-os com óleo e realizando sacrifícios com um touro, dois carneiros e ofertas de pão; Arão e seus filhos devem permanecer na tenda do encontro por sete dias."
+      "keyTakeaway": "Moisés consagra Arão e seus filhos como sacerdotes lavando-os, vestindo-os com as roupas sacerdotais, ungindo-os com óleo e realizando sacrifícios com um touro, dois carneiros e ofertas de pão; Arão e seus filhos devem permanecer na tenda do encontro por sete dias.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A consagração de Arão e de seus filhos"
+        }
+      ]
     },
     {
       "id": "leviticus-9",
@@ -734,7 +830,13 @@
           "note": "Lugar para queimar restos sacrificiais e carregar corpos; simboliza remoção da impureza do acampamento santo."
         }
       ],
-      "keyTakeaway": "Arão realiza os sacrifícios prescritos para si mesmo e para o povo no oitavo dia; fogo vem do SENHOR e consome a oferta, levando o povo a gritar e cair com o rosto em terra."
+      "keyTakeaway": "Arão realiza os sacrifícios prescritos para si mesmo e para o povo no oitavo dia; fogo vem do SENHOR e consome a oferta, levando o povo a gritar e cair com o rosto em terra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Arão oferece sacrifícios por si e pelo povo"
+        }
+      ]
     },
     {
       "id": "leviticus-10",
@@ -802,7 +904,17 @@
           "note": "Lugar para queimar restos sacrificiais e carregar corpos; simboliza remoção da impureza do acampamento santo."
         }
       ],
-      "keyTakeaway": "Nadabe e Abiú oferecem fogo não autorizado diante do SENHOR e são consumidos pelo fogo que sai da sua presença; Moisés então estabelece regras para Arão e seus filhos restantes quanto à conduta na tenda do encontro, às restrições alimentares e ao consumo das ofertas sagradas."
+      "keyTakeaway": "Nadabe e Abiú oferecem fogo não autorizado diante do SENHOR e são consumidos pelo fogo que sai da sua presença; Moisés então estabelece regras para Arão e seus filhos restantes quanto à conduta na tenda do encontro, às restrições alimentares e ao consumo das ofertas sagradas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Nadabe e Abiú morrem diante do Senhor"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Deveres e porções dos sacerdotes"
+        }
+      ]
     },
     {
       "id": "leviticus-11",
@@ -893,7 +1005,13 @@
           "note": "Mencionado novamente nas ofertas de purificação; pão sem fermento, símbolo de pureza e pressa."
         }
       ],
-      "keyTakeaway": "Deus instrui Moisés e Arão sobre quais animais os israelitas podem comer: animais terrestres com cascos fendidos que ruminam, criaturas aquáticas com nadadeiras e escamas, e certos insetos; todos os outros são impuros, e tocar seus cadáveres causa impureza cerimonial até o anoitecer."
+      "keyTakeaway": "Deus instrui Moisés e Arão sobre quais animais os israelitas podem comer: animais terrestres com cascos fendidos que ruminam, criaturas aquáticas com nadadeiras e escamas, e certos insetos; todos os outros são impuros, e tocar seus cadáveres causa impureza cerimonial até o anoitecer.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Leis sobre os animais limpos e os imundos"
+        }
+      ]
     },
     {
       "id": "leviticus-12",
@@ -945,7 +1063,13 @@
           "note": "Mencionado novamente nas ofertas de purificação; pão sem fermento, símbolo de pureza e pressa."
         }
       ],
-      "keyTakeaway": "O SENHOR estabelece períodos de purificação para mulheres após o parto: sete dias mais trinta e três dias para um filho, quatorze dias mais sessenta e seis dias para uma filha; após esse tempo, elas levam um cordeiro e uma ave ao sacerdote para expiação, ou duas aves se não puderem pagar pelo cordeiro."
+      "keyTakeaway": "O SENHOR estabelece períodos de purificação para mulheres após o parto: sete dias mais trinta e três dias para um filho, quatorze dias mais sessenta e seis dias para uma filha; após esse tempo, elas levam um cordeiro e uma ave ao sacerdote para expiação, ou duas aves se não puderem pagar pelo cordeiro.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A purificação da mulher depois do parto"
+        }
+      ]
     },
     {
       "id": "leviticus-13",
@@ -1048,7 +1172,13 @@
           "note": "Mencionado novamente nas ofertas de purificação; pão sem fermento, símbolo de pureza e pressa."
         }
       ],
-      "keyTakeaway": "Moisés e Arão recebem instruções sobre como os sacerdotes devem examinar e pronunciar julgamento sobre diversas doenças de pele e tecidos com mofo, usando a observação de profundidade, cor dos pelos e espalhamento para determinar se algo é puro ou impuro. Os que têm doenças contaminantes devem usar roupas rasgadas, manter o cabelo despenteado, cobrir o rosto e viver fora do acampamento."
+      "keyTakeaway": "Moisés e Arão recebem instruções sobre como os sacerdotes devem examinar e pronunciar julgamento sobre diversas doenças de pele e tecidos com mofo, usando a observação de profundidade, cor dos pelos e espalhamento para determinar se algo é puro ou impuro. Os que têm doenças contaminantes devem usar roupas rasgadas, manter o cabelo despenteado, cobrir o rosto e viver fora do acampamento.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "As leis acerca da lepra"
+        }
+      ]
     },
     {
       "id": "leviticus-14",
@@ -1149,7 +1279,17 @@
           "note": "Mencionado novamente nas ofertas de purificação; pão sem fermento, símbolo de pureza e pressa."
         }
       ],
-      "keyTakeaway": "Deus dá a Moisés os procedimentos para purificar pessoas curadas de doenças de pele, incluindo rituais com pássaros, azeite e ofertas de animais, com uma alternativa mais simples para os que não podem arcar com os sacrifícios padrão. Instruções também são dadas para examinar casas com mofo que se alastra, demoli-las se o mofo persistir e purificá-las com sangue de pássaro se o mofo tiver desaparecido."
+      "keyTakeaway": "Deus dá a Moisés os procedimentos para purificar pessoas curadas de doenças de pele, incluindo rituais com pássaros, azeite e ofertas de animais, com uma alternativa mais simples para os que não podem arcar com os sacrifícios padrão. Instruções também são dadas para examinar casas com mofo que se alastra, demoli-las se o mofo persistir e purificá-las com sangue de pássaro se o mofo tiver desaparecido.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A lei acerca do leproso depois de sarado"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A lei acerca da lepra numa casa"
+        }
+      ]
     },
     {
       "id": "leviticus-15",
@@ -1226,7 +1366,13 @@
           "note": "Mencionado novamente nas ofertas de purificação; pão sem fermento, símbolo de pureza e pressa."
         }
       ],
-      "keyTakeaway": "O SENHOR estabelece regras para diversos tipos de corrimentos corporais; qualquer pessoa ou objeto tocado por alguém com corrimento torna-se impuro e exige lavagem e espera até o anoitecer, com ofertas de purificação exigidas após sete dias de purificação."
+      "keyTakeaway": "O SENHOR estabelece regras para diversos tipos de corrimentos corporais; qualquer pessoa ou objeto tocado por alguém com corrimento torna-se impuro e exige lavagem e espera até o anoitecer, com ofertas de purificação exigidas após sete dias de purificação.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Imundícias do homem e da mulher"
+        }
+      ]
     },
     {
       "id": "leviticus-16",
@@ -1293,7 +1439,25 @@
           "note": "O santuário interior onde a arca e o propiciatório eram guardados; acessado apenas uma vez por ano pelo sumo sacerdote."
         }
       ],
-      "keyTakeaway": "O Dia da Expiação é instituído com o sumo sacerdote entrando no Lugar Santíssimo uma vez por ano com sacrifícios, ritos de purificação com sangue e o bode expiatório carregando os pecados para o deserto."
+      "keyTakeaway": "O Dia da Expiação é instituído com o sumo sacerdote entrando no Lugar Santíssimo uma vez por ano com sacrifícios, ritos de purificação com sangue e o bode expiatório carregando os pecados para o deserto.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Dia da Expiação"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "O sacrifício pelo próprio sumo sacerdote"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "O sacrifício pelo povo"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "A Festa anual das Expiações"
+        }
+      ]
     },
     {
       "id": "leviticus-17",
@@ -1352,7 +1516,17 @@
           "note": "Ser removido do povo, às vezes pela morte, às vezes pela exclusão; o texto nem sempre especifica qual."
         }
       ],
-      "keyTakeaway": "Deus ordena que todos os sacrifícios sejam apresentados na tenda do encontro em vez de oferecidos nos campos ou a ídolos de bodes, e proíbe estritamente comer sangue, pois ele representa a vida e serve para fazer expiação; qualquer um que violar essas regras será eliminado do meio do povo."
+      "keyTakeaway": "Deus ordena que todos os sacrifícios sejam apresentados na tenda do encontro em vez de oferecidos nos campos ou a ídolos de bodes, e proíbe estritamente comer sangue, pois ele representa a vida e serve para fazer expiação; qualquer um que violar essas regras será eliminado do meio do povo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Leis referentes à matança dos animais"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "A proibição de comer sangue"
+        }
+      ]
     },
     {
       "id": "leviticus-18",
@@ -1425,7 +1599,17 @@
           "note": "Ser removido do povo, às vezes pela morte, às vezes pela exclusão; o texto nem sempre especifica qual."
         }
       ],
-      "keyTakeaway": "Deus proíbe os israelitas de terem relações sexuais com parentes próximos, com animais, com a esposa do próximo, durante a menstruação, e de sacrificarem filhos a Moloque; quem praticar essas coisas será excluído do seu povo."
+      "keyTakeaway": "Deus proíbe os israelitas de terem relações sexuais com parentes próximos, com animais, com a esposa do próximo, durante a menstruação, e de sacrificarem filhos a Moloque; quem praticar essas coisas será excluído do seu povo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Casamentos ilícitos"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Uniões abomináveis"
+        }
+      ]
     },
     {
       "id": "leviticus-19",
@@ -1505,7 +1689,17 @@
           "note": "Ser removido do povo, às vezes pela morte, às vezes pela exclusão; o texto nem sempre especifica qual."
         }
       ],
-      "keyTakeaway": "O SENHOR ordena que Israel seja santo e entrega a Moisés um conjunto de leis sobre respeito aos pais e ao sábado, tratamento justo dos pobres e dos trabalhadores contratados, julgamento imparcial, conduta sexual, regras alimentares e honra aos idosos e aos estrangeiros."
+      "keyTakeaway": "O SENHOR ordena que Israel seja santo e entrega a Moisés um conjunto de leis sobre respeito aos pais e ao sábado, tratamento justo dos pobres e dos trabalhadores contratados, julgamento imparcial, conduta sexual, regras alimentares e honra aos idosos e aos estrangeiros.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A repetição de diversas leis"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Pesos e medidas justos"
+        }
+      ]
     },
     {
       "id": "leviticus-20",
@@ -1575,7 +1769,13 @@
           "note": "Ser removido do povo, às vezes pela morte, às vezes pela exclusão; o texto nem sempre especifica qual."
         }
       ],
-      "keyTakeaway": "Deus ordena a Moisés que aplique a pena de morte por sacrifício de filhos a Moloque, consulta a médiuns, amaldiçoamento dos pais, adultério, incesto, bestialidade e certas violações sexuais; Israel deve obedecer a esses decretos e às distinções entre limpo e impuro para permanecer santo e não ser rejeitado pela terra."
+      "keyTakeaway": "Deus ordena a Moisés que aplique a pena de morte por sacrifício de filhos a Moloque, consulta a médiuns, amaldiçoamento dos pais, adultério, incesto, bestialidade e certas violações sexuais; Israel deve obedecer a esses decretos e às distinções entre limpo e impuro para permanecer santo e não ser rejeitado pela terra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "As penas de diversos crimes"
+        }
+      ]
     },
     {
       "id": "leviticus-21",
@@ -1631,7 +1831,13 @@
           "note": "Separar como santo; Deus santifica sacerdotes e ofertas."
         }
       ],
-      "keyTakeaway": "Deus estabelece regras para os sacerdotes quanto a práticas de luto, casamento e aparência física, com exigências mais rígidas para o sumo sacerdote; ele também proíbe que qualquer descendente de Arão com defeitos físicos sirva ao altar, embora possam comer dos alimentos sagrados."
+      "keyTakeaway": "Deus estabelece regras para os sacerdotes quanto a práticas de luto, casamento e aparência física, com exigências mais rígidas para o sumo sacerdote; ele também proíbe que qualquer descendente de Arão com defeitos físicos sirva ao altar, embora possam comer dos alimentos sagrados.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Leis para os sacerdotes"
+        }
+      ]
     },
     {
       "id": "leviticus-22",
@@ -1696,7 +1902,17 @@
           "note": "Separar como santo; Deus santifica sacerdotes e ofertas."
         }
       ],
-      "keyTakeaway": "Moisés recebe instruções para transmitir a Arão e seus filhos que os sacerdotes devem estar cerimonialmente purificados para comer as ofertas sagradas, e que apenas certos membros da família podem consumi-las. Deus também especifica que todos os animais apresentados como ofertas devem ser sem defeito, e estabelece regras sobre o momento certo para os animais recém-nascidos e as ofertas de gratidão."
+      "keyTakeaway": "Moisés recebe instruções para transmitir a Arão e seus filhos que os sacerdotes devem estar cerimonialmente purificados para comer as ofertas sagradas, e que apenas certos membros da família podem consumi-las. Deus também especifica que todos os animais apresentados como ofertas devem ser sem defeito, e estabelece regras sobre o momento certo para os animais recém-nascidos e as ofertas de gratidão.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A lei acerca de comer coisas santas"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Os animais sacrificados devem ser sem defeito"
+        }
+      ]
     },
     {
       "id": "leviticus-23",
@@ -1778,7 +1994,37 @@
           "note": "Um protetor familiar que recompra terras ou liberta parentes da escravidão."
         }
       ],
-      "keyTakeaway": "Deus estabelece as festas que Israel deve observar: a Páscoa e os Pães Sem Fermento no primeiro mês, uma oferta de primícias sete semanas depois, um dia de descanso com sons de trombeta no primeiro dia do sétimo mês, o Dia da Expiação no décimo dia desse mês e a Festa dos Tabernáculos a partir do décimo quinto dia. Moisés anuncia essas festas aos israelitas."
+      "keyTakeaway": "Deus estabelece as festas que Israel deve observar: a Páscoa e os Pães Sem Fermento no primeiro mês, uma oferta de primícias sete semanas depois, um dia de descanso com sons de trombeta no primeiro dia do sétimo mês, o Dia da Expiação no décimo dia desse mês e a Festa dos Tabernáculos a partir do décimo quinto dia. Moisés anuncia essas festas aos israelitas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "As festas solenes do Senhor"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "O Sábado"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "A Páscoa ; ;"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "As Primícias ;"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "O Pentecostes"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "O Dia da Expiação"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A Festa dos Tabernáculos"
+        }
+      ]
     },
     {
       "id": "leviticus-24",
@@ -1839,7 +2085,21 @@
           "note": "Um protetor familiar que recompra terras ou liberta parentes da escravidão."
         }
       ],
-      "keyTakeaway": "Deus instrui Moisés sobre a manutenção do candelabro com azeite e a colocação de doze pães no santuário como ofertas perpétuas. Quando um homem de descendência israelita e egípcia blasfema o nome de Deus, Moisés leva o caso ao SENHOR, que ordena a morte do blasfemador por apedrejamento e estabelece leis que exigem morte por blasfêmia, vida por vida nos casos de homicídio e ferimento equivalente por agressão."
+      "keyTakeaway": "Deus instrui Moisés sobre a manutenção do candelabro com azeite e a colocação de doze pães no santuário como ofertas perpétuas. Quando um homem de descendência israelita e egípcia blasfema o nome de Deus, Moisés leva o caso ao SENHOR, que ordena a morte do blasfemador por apedrejamento e estabelece leis que exigem morte por blasfêmia, vida por vida nos casos de homicídio e ferimento equivalente por agressão.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O azeite para o candelabro"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "O pão para a mesa do Senhor"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "A pena do pecado de blasfêmia"
+        }
+      ]
     },
     {
       "id": "leviticus-25",
@@ -1932,7 +2192,25 @@
           "note": "Um protetor familiar que recompra terras ou liberta parentes da escravidão."
         }
       ],
-      "keyTakeaway": "Deus ordena que Israel observe cada sétimo ano como ano de descanso para a terra, e cada cinquenteavo ano como jubileu, quando todas as terras retornam aos proprietários originais e os israelitas são libertados da servidão; são estabelecidas regras para vendas de terras, resgate de propriedades, tratamento dos pobres e distinções entre servos hebreus e escravos estrangeiros."
+      "keyTakeaway": "Deus ordena que Israel observe cada sétimo ano como ano de descanso para a terra, e cada cinquenteavo ano como jubileu, quando todas as terras retornam aos proprietários originais e os israelitas são libertados da servidão; são estabelecidas regras para vendas de terras, resgate de propriedades, tratamento dos pobres e distinções entre servos hebreus e escravos estrangeiros.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Ano de Descanso"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "O Ano do Jubileu"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Leis a favor dos pobres"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Leis a favor dos escravos"
+        }
+      ]
     },
     {
       "id": "leviticus-26",
@@ -2011,7 +2289,21 @@
           "note": "Um décimo dedicado a Deus, de colheitas ou rebanhos."
         }
       ],
-      "keyTakeaway": "Deus proíbe ídolos e ordena a observância dos sábados e do seu santuário, prometendo colheitas abundantes e vitória militar se Israel obedecer, mas descrevendo maldições progressivas, doenças, fome, animais selvagens, peste, canibalismo, exílio e desolação, caso rejeitem seus mandamentos, embora ele se lembre da sua aliança se confessarem seus pecados e os de seus antepassados."
+      "keyTakeaway": "Deus proíbe ídolos e ordena a observância dos sábados e do seu santuário, prometendo colheitas abundantes e vitória militar se Israel obedecer, mas descrevendo maldições progressivas, doenças, fome, animais selvagens, peste, canibalismo, exílio e desolação, caso rejeitem seus mandamentos, embora ele se lembre da sua aliança se confessarem seus pecados e os de seus antepassados.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Admoestação contra a idolatria"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Bênçãos decorrentes da obediência ;"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Os castigos da desobediência"
+        }
+      ]
     },
     {
       "id": "leviticus-27",
@@ -2078,7 +2370,25 @@
           "note": "Um décimo dedicado a Deus, de colheitas ou rebanhos."
         }
       ],
-      "keyTakeaway": "Deus instrui Moisés sobre como avaliar pessoas, animais, casas e terras dedicados a ele por meio de um voto, com regras específicas de resgate e proibições de substituição. Os dízimos dos produtos da terra e do rebanho são declarados santos ao Senhor e não podem ser resgatados nem trocados."
+      "keyTakeaway": "Deus instrui Moisés sobre como avaliar pessoas, animais, casas e terras dedicados a ele por meio de um voto, com regras específicas de resgate e proibições de substituição. Os dízimos dos produtos da terra e do rebanho são declarados santos ao Senhor e não podem ser resgatados nem trocados.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Votos particulares e a avaliação deles"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Voto de um campo e o resgate dele"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Não há resgate para certas coisas consagradas"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Sobre as dízimas"
+        }
+      ]
     }
   ]
 }

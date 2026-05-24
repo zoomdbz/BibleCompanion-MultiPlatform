@@ -34,7 +34,17 @@
           "note": "Letteralmente 'buona notizia'; la proclamazione della salvezza per mezzo di Gesù Cristo."
         }
       ],
-      "keyTakeaway": "Paolo ringrazia Dio per la fede e l'amore crescenti dei Tessalonicesi, li assicura del giusto giudizio di Dio e del ritorno di Cristo in gloria, e prega per la loro dignità."
+      "keyTakeaway": "Paolo ringrazia Dio per la fede e l'amore crescenti dei Tessalonicesi, li assicura del giusto giudizio di Dio e del ritorno di Cristo in gloria, e prega per la loro dignità.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Costanza dei Tessalonicesi nelle persecuzioni"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-2",
@@ -83,7 +93,17 @@
           "note": "Ciò che frena o trattiene; l'identità esatta non è specificata da Paolo."
         }
       ],
-      "keyTakeaway": "Paolo avverte che il giorno del Signore non è ancora venuto; esso attende la ribellione, la rimozione di colui che trattiene e la rivelazione e distruzione dell'uomo dell'empietà."
+      "keyTakeaway": "Paolo avverte che il giorno del Signore non è ancora venuto; esso attende la ribellione, la rimozione di colui che trattiene e la rivelazione e distruzione dell'uomo dell'empietà.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Apparizione dell’Anticristo"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Esortazione alla fermezza, alla preghiera e al lavoro"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-3",
@@ -123,7 +143,13 @@
           "note": "Descrive una condotta disordinata o indisciplinata; qui si riferisce specificamente al rifiuto di lavorare."
         }
       ],
-      "keyTakeaway": "Paolo chiede preghiera, afferma la fedeltà di Dio, ordina di evitare ogni condotta oziosa e disordinata, e stabilisce il principio che chi non vuole lavorare non ha diritto di mangiare."
+      "keyTakeaway": "Paolo chiede preghiera, afferma la fedeltà di Dio, ordina di evitare ogni condotta oziosa e disordinata, e stabilisce il principio che chi non vuole lavorare non ha diritto di mangiare.",
+      "headings": [
+        {
+          "beforeVerse": 16,
+          "text": "Benedizione e saluti"
+        }
+      ]
     }
   ]
 }

@@ -980,7 +980,7 @@ fun HomeScreen(
               Row(verticalAlignment = Alignment.CenterVertically) {
                 IconButton(
                   onClick = {
-                    platformShareText(ctx, votdLocalRef, "\u201C${votd.text}\u201D\n\u2014 $votdLocalRef")
+                    platformShareText(ctx, votdLocalRef, "${wrapVotdQuotes(votd.text)}\n\u2014 $votdLocalRef")
                   }
                 ) {
                   Icon(
@@ -1026,7 +1026,7 @@ fun HomeScreen(
             }
             Spacer(Modifier.height(4.dp))
             Text(
-              "\u201C${votd.text}\u201D",
+              wrapVotdQuotes(votd.text),
               style = MaterialTheme.typography.bodyMedium,
               fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
               color = MaterialTheme.colorScheme.onTertiaryContainer
@@ -1957,6 +1957,18 @@ fun BookScreen(
                         ) { Text("$v") }
                       }
                     } else if (maxChapter > 0) {
+                      if (book?.intro?.isNotBlank() == true) {
+                        ElevatedButton(
+                          onClick = {
+                            showChapters = false
+                            selectedChapter = null
+                            scope.launch { listState.scrollToItem(0) }
+                          },
+                          modifier = Modifier.size(48.dp),
+                          contentPadding = PaddingValues(0.dp),
+                          shape = RoundedCornerShape(8.dp)
+                        ) { Text(stringResource(Res.string.intro_short)) }
+                      }
                       for (c in 1..maxChapter) {
                         ElevatedButton(
                           onClick = { selectedChapter = c },
@@ -1987,6 +1999,27 @@ fun BookScreen(
                   viewportHeightPx = coords.size.height
                 }
             ) {
+              if (book?.intro?.isNotBlank() == true) {
+                item("intro") {
+                  var introTtsPlaying by remember { mutableStateOf(false) }
+                  IntroCard(
+                    bookTitle = book.title,
+                    intro = book.intro,
+                    prefs = prefs,
+                    isTtsPlaying = introTtsPlaying,
+                    onPlayTts = {
+                      if (introTtsPlaying) {
+                        platformTtsStop(ctx)
+                        introTtsPlaying = false
+                      } else {
+                        val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+                        platformTtsSpeak(ctx, book.intro, lang)
+                        introTtsPlaying = true
+                      }
+                    }
+                  )
+                }
+              }
               items(items = book.stories, key = { it.id }) { story ->
                 val storySelected = remember(selectedBullets, story.id) {
                   selectedBullets.filter { it.first == story.id }.map { it.second }.toSet()
@@ -2486,6 +2519,63 @@ private fun DcBookBanner(
   }
 }
 
+// -------------------------------------- Book intro -------------------------------------
+@Composable
+private fun IntroCard(
+  bookTitle: String,
+  intro: String,
+  prefs: PrefsState,
+  onPlayTts: () -> Unit,
+  isTtsPlaying: Boolean
+) {
+  Card(
+    modifier = Modifier.fillMaxWidth(),
+    colors = CardDefaults.cardColors(
+      containerColor = MaterialTheme.colorScheme.surfaceVariant
+    )
+  ) {
+    Column(modifier = Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+      Row(verticalAlignment = Alignment.CenterVertically) {
+        Text(
+          bookTitle,
+          style = MaterialTheme.typography.headlineSmall,
+          color = MaterialTheme.colorScheme.onSurface,
+          modifier = Modifier.weight(1f)
+        )
+        if (prefs.ttsReadIntros) {
+          IconButton(onClick = onPlayTts) {
+            Icon(
+              if (isTtsPlaying) Icons.Filled.Stop else Icons.Filled.PlayArrow,
+              contentDescription = if (isTtsPlaying)
+                stringResource(Res.string.cd_tts_stop)
+              else stringResource(Res.string.cd_tts_play),
+              tint = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+          }
+        }
+      }
+      Text(
+        stringResource(Res.string.intro_section_header),
+        style = MaterialTheme.typography.labelMedium,
+        color = MaterialTheme.colorScheme.onSurfaceVariant
+      )
+      SelectionContainer {
+        Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+          intro.split("\n\n").forEach { paragraph ->
+            if (paragraph.isNotBlank()) {
+              Text(
+                paragraph.trim(),
+                style = MaterialTheme.typography.bodyLarge,
+                color = MaterialTheme.colorScheme.onSurface
+              )
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
 // -------------------------------------- Story cards ------------------------------------
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
@@ -2633,7 +2723,27 @@ fun StoryCard(
                   val firstGoldIdx = goldFadeBulletIdxs.minOrNull()
                   val vpHeightState = rememberUpdatedState(viewportHeightPx)
                   val vpTopState = rememberUpdatedState(viewportTopY)
+                  // Map (verse number → heading text) so we can render a heading
+                  // BEFORE any bullet whose trailing (ch:v) matches. Bullet count
+                  // and verse-picker behavior stay unchanged.
+                  val headingsByVerse: Map<Int, String> = remember(story.headings) {
+                    story.headings.associate { it.beforeVerse to it.text }
+                  }
                   story.summaryBullets.forEachIndexed { idx, bullet ->
+                    val headingForThisBullet: String? = if (headingsByVerse.isEmpty()) null else {
+                      val m = verseRefPattern.find(bullet)
+                      val v = m?.groupValues?.get(2)?.toIntOrNull()
+                      if (v != null) headingsByVerse[v] else null
+                    }
+                    if (headingForThisBullet != null) {
+                      Text(
+                        headingForThisBullet,
+                        style = MaterialTheme.typography.titleSmall,
+                        fontWeight = FontWeight.SemiBold,
+                        color = MaterialTheme.colorScheme.onSurface,
+                        modifier = Modifier.padding(top = 12.dp, bottom = 4.dp)
+                      )
+                    }
                     val isSelected = idx in selectedBullets
                     val highlightColor = savedVerseColors[idx]
                     val isGoldTarget = idx in goldFadeBulletIdxs
@@ -2992,6 +3102,30 @@ fun StoryCard(
 
 
 private val verseRefPattern = Regex("""(\d+):(\d+)(?:\s*-\s*(\d+))?""")
+
+// Wrap verse text in curly quotation marks for VOTD display/share, but skip
+// quotes that already exist on either edge of the source text. Bible verses
+// often begin or end with quoted speech (~21 / 366 in the EN bank); without
+// this guard those days render as ""..."" in the card.
+//
+// Edge handling: a verse may end with the close-curly-quote followed by
+// sentence punctuation (e.g. `... will see.”` followed by `.`), so detect
+// the close-curly after trimming trailing punctuation. Same on the lead
+// side for occasional leading whitespace bytes.
+private fun wrapVotdQuotes(text: String): String {
+  val t = text.trim()
+  if (t.isEmpty()) return t
+  val leadProbe = t.trimStart(' ', ' ', ' ', ' ')
+  val trailProbe = t.trimEnd('.', '!', '?', ',', ';', ':', ' ')
+  val hasLead = leadProbe.startsWith('“')
+  val hasTrail = trailProbe.endsWith('”')
+  return when {
+    hasLead && hasTrail -> t
+    hasLead -> "$t”"
+    hasTrail -> "“$t"
+    else -> "“$t”"
+  }
+}
 
 private fun findBulletsForVerseRange(bullets: List<String>, startVerse: Int, endVerse: Int): Set<Int> {
   val out = linkedSetOf<Int>()
@@ -4269,6 +4403,9 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       }
       SettingsSwitch(stringResource(Res.string.tts_cross_book), prefs.crossBookTts) {
         scope.launch { repo.setCrossBookTts(it) }
+      }
+      SettingsSwitch(stringResource(Res.string.tts_read_intros), prefs.ttsReadIntros) {
+        scope.launch { repo.setTtsReadIntros(it) }
       }
 
       HorizontalDivider(Modifier.padding(vertical = 8.dp))

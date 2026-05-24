@@ -95,15 +95,15 @@ Les cieux ne sont pas adorés (Deutéronome 4:19), mais ils sont lus; ils procla
 
 ## Autres signes célestes remarquables
 
-### La comète de l'éclipse de 1948 (C/1948 V1)
+**La comète de l'éclipse de 1948 (C/1948 V1)**
 
 Le **1er novembre 1948**, approximativement 1er Kislev 5709, une comète brillante a été découverte pendant une éclipse solaire totale. Elle a atteint une visibilité à l'œil nu avec une queue s'étendant jusqu'à 30 degrés du ciel et est restée visible jusqu'en décembre 1948. C'était la même année où Israël est devenu une nation (14 mai 1948 = 5 Iyyar 5708) après près de 2 000 ans d'exil. La coïncidence d'une comète visible à l'œil nu apparaissant au cours de la première année d'indépendance moderne d'Israël n'a pas échappé aux étudiants d'Ézéchiel 37 et d'Ésaïe 11.
 
-### La Grande Conjonction du 21 décembre 2020
+**La Grande Conjonction du 21 décembre 2020**
 
 Au solstice d'hiver, **21 décembre 2020** (6 Tevet 5781), Jupiter et Saturne se sont écartés de seulement 0,1 degré, la séparation visible la plus proche depuis 1623. Les principaux médias l'ont appelée l'« Étoile de Noël » en raison de sa ressemblance avec les descriptions de l'Étoile de Bethléem. La conjonction est apparue dans le ciel occidental peu après le coucher du soleil, dans la direction de Bethléem vue de Jérusalem. La date hébraïque tombe en Tevet, un mois sans jours de fête, mais la résonance visuelle et symbolique avec l'événement de l'étoile de Bethléem a amené de nombreux croyants messianiques à la noter. Les deux planètes ne seront plus aussi proches avant 2080.
 
-### Comète NEOWISE (2020)
+**Comète NEOWISE (2020)**
 
 **Comète C/2020 F3 (NEOWISE)** a atteint le périhélie le 3 juillet 2020 (~11 Tammuz 5780) et le rapprochement terrestre le 23 juillet 2020 (~2 Av 5780). C'était la comète la plus brillante visible à l'œil nu de l'hémisphère nord depuis la comète Hale-Bopp en 1997. Sa période orbitale estimée est d'environ 4 500 ans, ce qui a amené certains à suggérer que son dernier passage remontait à l'époque d'Abraham ou avant. Le mois d'Av du calendrier hébraïque est un mois de deuil et de jeûne (Tisha B'Av tombe sur 9 Av) ; la comète a atteint son apogée au cours de cette période. Sa signification prophétique est débattue au sein de la communauté messianique.
 
@@ -133,7 +133,7 @@ Des lunes de sang consécutives le même jour de fête pendant des années cons�
 - **2 octobre 2024 :** Éclipse solaire annulaire (« anneau de feu ») le **1er Tishrei 5785, Rosh Hashanah, la Fête des Trompettes (Yom Teruah)**.
 - **12 août 2026 :** Éclipse solaire totale (trajectoire à travers la Péninsule ibérique et l'Afrique du Nord). Date hébraïque : 29 Av, pas d'alignement de fête.
 
-### Tempêtes solaires avant la lune de sang de Pourim 2026
+**Tempêtes solaires avant la lune de sang de Pourim 2026**
 
 Du **1er au 5 février 2026**, la région active AR4366, un groupe de taches solaires 14 fois plus large que la Terre, a éclaté avec six éruptions solaires de classe X en quatre jours, dont deux événements de classe X8.1 parmi les plus puissants du Cycle solaire 25. Une éjection de masse coronale a frappé la Terre le 5 février, déclenchant des tempêtes géomagnétiques et une aurore répandue. Cela s'est produit environ 25 jours avant la lune de sang de Pourim du 3 mars.
 

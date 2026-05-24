@@ -95,7 +95,7 @@ Der Heilige Geist ist voll Gott, dem Vater und dem Sohn gleich.
 
 ---
 
-### Die regionalen Kanonkonzile
+## Die regionalen Kanonkonzile
 
 ### Konzil von Hippo (393 n. Chr.)
 

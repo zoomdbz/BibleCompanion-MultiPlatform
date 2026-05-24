@@ -288,7 +288,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 ## L’inerranza biblica: trasformata in arma
 
-**Versetto usato male:** (2 Timothy 3:16) «Ogni Scrittura è ispirata da Dio ed è utile a insegnare, a riprendere, a correggere, a educare alla giustizia.»
+**Versetto usato male:** (2 Timoteo 3:16) «Ogni Scrittura è ispirata da Dio ed è utile a insegnare, a riprendere, a correggere, a educare alla giustizia.»
 
 **Come viene usato in modo abusivo:** Alcune persone usano l’inerranza come un’arma: «Se non sei d’accordo con la mia esatta definizione, non sei un vero cristiano.» Altri la spingono in un letteralismo rigido che ignora il tipo di scrittura che si sta leggendo. Quando 2 Timothy 3:16 diventa un bastone invece di una verità su cui poggiare, la dottrina è stata distorta.
 
@@ -296,25 +296,25 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 La Scrittura fa questa affermazione su se stessa più e più volte: Salmo 12:6 chiama le parole di Dio «parole pure, argento purificato nel crogiuolo, raffinato sette volte». Proverbi 30:5 dice «ogni parola di Dio è affinata». Gesù stesso ha pregato in Giovanni 17:17: «La tua parola è verità.» Queste non sono affermazioni deboli. La Bibbia si presenta come completamente affidabile, senza errore e con la piena autorità di Dio.
 
-**Cosa significa “senza errore in ciò che afferma”:** La Bibbia talvolta riporta le parole di bugiardi, stolti e persino Satana. Per esempio, Satana disse a Eva «tu non morirai affatto» (Genesis 3:4); quell’affermazione è falsa, ma la Bibbia riporta accuratamente che egli la disse. Il testo è senza errore in ciò che insegna e afferma come vero; non approva ogni affermazione che registra. Questa è una distinzione semplice ma importante.
+**Cosa significa “senza errore in ciò che afferma”:** La Bibbia talvolta riporta le parole di bugiardi, stolti e persino Satana. Per esempio, Satana disse a Eva «tu non morirai affatto» (Genesi 3:4); quell’affermazione è falsa, ma la Bibbia riporta accuratamente che egli la disse. Il testo è senza errore in ciò che insegna e afferma come vero; non approva ogni affermazione che registra. Questa è una distinzione semplice ma importante.
 
 **La distorsione:** Il problema non è mai la dottrina in sé. Il problema è quando le persone la usano per: forzare ogni passo in un letteralismo rigido che ignora se si tratta di poesia, parabola o profezia; negare che Dio ha usato persone reali con stili di scrittura reali per consegnare la Sua Parola; o trasformare una specifica teoria sulla Scrittura in un test per la salvezza. Nessun credente serio sostiene che Dio abbia fisicamente tenuto la penna. L’affermazione è che Dio ha operato attraverso autori umani in modo che ciò che hanno scritto fosse esattamente ciò che Egli intendeva. Questo è ciò che la Bibbia dice di se stessa, e questa è stata la posizione storica della chiesa per duemila anni.
 
 **Passaggi di supporto:**
 
-- (2 Timothy 3:16) «Ogni Scrittura è ispirata da Dio (*theopneustos*) ed è utile a insegnare, a riprendere, a correggere, a educare alla giustizia.»
+- (2 Timoteo 3:16) «Ogni Scrittura è ispirata da Dio (*theopneustos*) ed è utile a insegnare, a riprendere, a correggere, a educare alla giustizia.»
 
-- (2 Peter 1:21) «Uomini hanno parlato da parte di Dio, sospinti dallo Spirito Santo.»
+- (2 Pietro 1:21) «Uomini hanno parlato da parte di Dio, sospinti dallo Spirito Santo.»
 
-- (Psalm 12:6) «Le parole del Signore sono parole pure, argento purificato nel crogiuolo, raffinato sette volte.»
+- (Salmi 12:6) «Le parole del Signore sono parole pure, argento purificato nel crogiuolo, raffinato sette volte.»
 
-- (Proverbs 30:5) «Ogni parola di Dio è affinata; egli è uno scudo per chi si rifugia in lui.»
+- (Proverbi 30:5) «Ogni parola di Dio è affinata; egli è uno scudo per chi si rifugia in lui.»
 
-- (Hebrews 4:12) «La parola di Dio è vivente ed efficace, più affilata di qualunque spada a doppio taglio.»
+- (Ebrei 4:12) «La parola di Dio è vivente ed efficace, più affilata di qualunque spada a doppio taglio.»
 
-- (John 17:17) «Santificali nella verità; la tua parola è verità.»
+- (Giovanni 17:17) «Santificali nella verità; la tua parola è verità.»
 
-- (Genesis 3:4) «Ma il serpente disse alla donna: “Non morirete affatto.”» (Un esempio di come la Scrittura registri accuratamente una menzogna senza approvarla.)
+- (Genesi 3:4) «Ma il serpente disse alla donna: “Non morirete affatto.”» (Un esempio di come la Scrittura registri accuratamente una menzogna senza approvarla.)
 
 ---
 
@@ -338,11 +338,11 @@ Sono accadute tre cose, e la tradizione cristiana le confonde.
 
 Questo è tutto ciò che il Nuovo Testamento offre. Nulla comanda un cambio di giorno.
 
-### La convergenza con il culto solare
+**La convergenza con il culto solare**
 
 L'Impero Romano era saturo di culti solari. Mitra, Sol Invictus e Apollo avevano tutti associazioni con la domenica. Quando Costantino emise il suo editto civile il 7 marzo 321 d.C., decretò che «nel venerabile giorno del Sole i magistrati e le popolazioni residenti nelle città riposino, e tutti i laboratori siano chiusi». Il testo latino lo chiama *venerabili die Solis*, il venerabile giorno del Sole. Costantino non era ancora chiaramente cristiano quando lo emanò; era un devoto del Sol Invictus, le cui monete continuarono a raffigurare Sol per anni. L'editto fece della domenica il giorno di riposo civico dell'impero, e la chiesa, che da due secoli si stava spostando verso la domenica, ebbe ora il sostegno imperiale.
 
-### Concilio di Laodicea (ca. 363–364 d.C.)
+**Concilio di Laodicea (ca. 363–364 d.C.)**
 
 Il canone 29 proibisce esplicitamente ai cristiani di riposare il sabato, comanda loro di lavorare quel giorno e onora invece il «giorno del Signore». Il testo recita che i cristiani «devono onorare specialmente il giorno del Signore; e, in quanto cristiani, se possibile, non lavorare in quel giorno. Se, tuttavia, si scoprono a giudaizzare, saranno esclusi da Cristo.» Il Sabato non fu spostato; fu criminalizzato all'interno della chiesa.
 

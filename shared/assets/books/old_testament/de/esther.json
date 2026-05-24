@@ -54,7 +54,17 @@
           "note": "Hinrichtungsvorrichtung, die als hölzerner Pfahl oder Baum beschrieben wird; die Todesart wird im Text als „Hängen“ bezeichnet."
         }
       ],
-      "keyTakeaway": "König Xerxes stellt seinen Reichtum 180 Tage lang zur Schau und veranstaltet dann ein siebentägiges Gastmahl, bei dem er Königin Vasthi zu sich befiehlt; als sie sich weigert, berät er sich mit seinen Fürsten und lässt sie durch einen königlichen Erlass ihres Amtes entheben."
+      "keyTakeaway": "König Xerxes stellt seinen Reichtum 180 Tage lang zur Schau und veranstaltet dann ein siebentägiges Gastmahl, bei dem er Königin Vasthi zu sich befiehlt; als sie sich weigert, berät er sich mit seinen Fürsten und lässt sie durch einen königlichen Erlass ihres Amtes entheben.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esther wird Königin von Persien Xerxes zeigt seine königliche Macht"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Königin Wasti wird verstoßen"
+        }
+      ]
     },
     {
       "id": "esther-2",
@@ -109,7 +119,21 @@
           "note": "Hinrichtungsvorrichtung, die als hölzerner Pfahl oder Baum beschrieben wird; die Todesart wird im Text als „Hängen“ bezeichnet."
         }
       ],
-      "keyTakeaway": "König Ahasveros sucht eine neue Königin und wählt Esther, eine jüdische Waise, die von ihrem Cousin Mordechai aufgezogen wurde und durch die Gunst des Königs Königin wird. Mordechai deckt später ein Attentat auf den König auf und meldet es durch Esther, wodurch er das Leben des Königs rettet."
+      "keyTakeaway": "König Ahasveros sucht eine neue Königin und wählt Esther, eine jüdische Waise, die von ihrem Cousin Mordechai aufgezogen wurde und durch die Gunst des Königs Königin wird. Mordechai deckt später ein Attentat auf den König auf und meldet es durch Esther, wodurch er das Leben des Königs rettet.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Eine neue Königin wird gesucht"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Xerxes ernennt Esther zur Königin"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Mordechai rettet Xerxes das Leben"
+        }
+      ]
     },
     {
       "id": "esther-3",
@@ -151,7 +175,13 @@
           "note": "Königlicher Stab, der ausgestreckt wird, um einen ungebetenen Bittsteller zu verschonen (4:11) (5:2)."
         }
       ],
-      "keyTakeaway": "König Xerxes erhebt Haman über alle Fürsten; als Mordechai sich weigert, vor ihm niederzufallen, plant Haman die Vernichtung aller Juden im Königreich. Der König billigt den Plan und erlässt ein Edikt, das die Ausrottung aller Juden am dreizehnten Tag des Adar anordnet."
+      "keyTakeaway": "König Xerxes erhebt Haman über alle Fürsten; als Mordechai sich weigert, vor ihm niederzufallen, plant Haman die Vernichtung aller Juden im Königreich. Der König billigt den Plan und erlässt ein Edikt, das die Ausrottung aller Juden am dreizehnten Tag des Adar anordnet.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Haman plant die Vernichtung des jüdischen Volkes Haman wird zum Feind der Juden"
+        }
+      ]
     },
     {
       "id": "esther-4",
@@ -195,7 +225,13 @@
           "note": "Königlicher Stab, der ausgestreckt wird, um einen ungebetenen Bittsteller zu verschonen (4:11) (5:2)."
         }
       ],
-      "keyTakeaway": "Mordechai erfährt von dem Erlass zur Vernichtung der Juden und fordert Ester nach einer Zeit der Trauer im Trauergewand auf, beim König Fürsprache zu tun; Ester verweigert dies zunächst unter Hinweis auf die Gefahr, doch Mordechai warnt sie, dass Schweigen sie nicht retten werde, woraufhin sie sich bereit erklärt zu fasten und trotz des entgegenstehenden Gesetzes vor den König zu treten."
+      "keyTakeaway": "Mordechai erfährt von dem Erlass zur Vernichtung der Juden und fordert Ester nach einer Zeit der Trauer im Trauergewand auf, beim König Fürsprache zu tun; Ester verweigert dies zunächst unter Hinweis auf die Gefahr, doch Mordechai warnt sie, dass Schweigen sie nicht retten werde, woraufhin sie sich bereit erklärt zu fasten und trotz des entgegenstehenden Gesetzes vor den König zu treten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mordechai bittet Esther um Hilfe"
+        }
+      ]
     },
     {
       "id": "esther-5",
@@ -230,7 +266,17 @@
           "note": "Öffentliche Anerkennung durch Gewand, Pferd und Ausrufung (6:9–11)."
         }
       ],
-      "keyTakeaway": "Esther gewinnt die Gunst des Königs und lädt ihn und Haman zu einem Bankett ein, wobei sie ihre Bitte auf ein zweites Bankett am nächsten Tag verschiebt. Haman geht stolz auf seine Stellung weg, gerät aber in Wut, als er Mordechai unbeeindruckt am Tor sieht; seine Frau und seine Freunde raten ihm, Mordechai hinrichten zu lassen, und er lässt einen Pfahl dafür errichten."
+      "keyTakeaway": "Esther gewinnt die Gunst des Königs und lädt ihn und Haman zu einem Bankett ein, wobei sie ihre Bitte auf ein zweites Bankett am nächsten Tag verschiebt. Haman geht stolz auf seine Stellung weg, gerät aber in Wut, als er Mordechai unbeeindruckt am Tor sieht; seine Frau und seine Freunde raten ihm, Mordechai hinrichten zu lassen, und er lässt einen Pfahl dafür errichten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kann Esther ihr Volk retten?"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Haman will Mordechai töten"
+        }
+      ]
     },
     {
       "id": "esther-6",
@@ -265,7 +311,13 @@
           "note": "Öffentliche Anerkennung durch Gewand, Pferd und Ausrufung (6:9–11)."
         }
       ],
-      "keyTakeaway": "König Xerxes erfährt in einer schlaflosen Nacht, dass Mordechai einst ein Attentat auf ihn aufgedeckt und dafür keine Belohnung erhalten hat; er beauftragt Haman, Mordechai öffentlich mit königlichen Gewändern und einem Pferd zu ehren. Haman, der Mordechai hatte hinrichten lassen wollen, muss die Ehrung selbst vollziehen und eilt danach verzweifelt nach Hause, während seine Berater ihm seinen bevorstehenden Untergang ankündigen."
+      "keyTakeaway": "König Xerxes erfährt in einer schlaflosen Nacht, dass Mordechai einst ein Attentat auf ihn aufgedeckt und dafür keine Belohnung erhalten hat; er beauftragt Haman, Mordechai öffentlich mit königlichen Gewändern und einem Pferd zu ehren. Haman, der Mordechai hatte hinrichten lassen wollen, muss die Ehrung selbst vollziehen und eilt danach verzweifelt nach Hause, während seine Berater ihm seinen bevorstehenden Untergang ankündigen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Hamans Pläne werden aufgedeckt Mordechai wird vom König geehrt"
+        }
+      ]
     },
     {
       "id": "esther-7",
@@ -296,7 +348,13 @@
           "note": "Der Ausruf des Königs, als Haman auf Esters Ruhebett fällt (7:8); ein Vorwurf ungebührlicher Annäherung, keine formelle Anklage vor Gericht."
         }
       ],
-      "keyTakeaway": "Beim zweiten Gastmahl der Esther bezeichnet sie Haman als den Feind; Haman wird an dem Pfahl hingerichtet, den er für Mordechai hatte errichten lassen."
+      "keyTakeaway": "Beim zweiten Gastmahl der Esther bezeichnet sie Haman als den Feind; Haman wird an dem Pfahl hingerichtet, den er für Mordechai hatte errichten lassen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Haman wird entlarvt"
+        }
+      ]
     },
     {
       "id": "esther-8",
@@ -345,7 +403,13 @@
           "note": "Fest, benannt nach den Losen (Pur), durch die das Datum bestimmt wurde; gefeiert am 14.–15. Adar mit Festmahl, Geschenken und Gaben an die Armen (9:26–32)."
         }
       ],
-      "keyTakeaway": "Xerxes übergibt Haman Haus und Gut an Esther und seinen Siegelring an Mordechai; Esther überredet den König daraufhin, ein neues Edikt zu erlassen, das den Juden in allen seinen Provinzen erlaubt, sich am dreizehnten Tag des Adar gegen ihre Feinde zu versammeln und zu verteidigen. Mordechai sendet das Edikt durch schnelle Boten aus, und die Juden reagieren mit Freude und Festmählern."
+      "keyTakeaway": "Xerxes übergibt Haman Haus und Gut an Esther und seinen Siegelring an Mordechai; Esther überredet den König daraufhin, ein neues Edikt zu erlassen, das den Juden in allen seinen Provinzen erlaubt, sich am dreizehnten Tag des Adar gegen ihre Feinde zu versammeln und zu verteidigen. Mordechai sendet das Edikt durch schnelle Boten aus, und die Juden reagieren mit Freude und Festmählern.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "König Xerxes hilft den Juden"
+        }
+      ]
     },
     {
       "id": "esther-9",
@@ -409,7 +473,17 @@
           "note": "Fest, benannt nach den Losen (Pur), durch die das Datum bestimmt wurde; gefeiert am 14.–15. Adar mit Festmahl, Geschenken und Gaben an die Armen (9:26–32)."
         }
       ],
-      "keyTakeaway": "Die Juden verteidigen sich gegen ihre Feinde am dreizehnten Adar, töten fünfundsiebzigtausend in den Provinzen und fünfhundert in Susa, darunter die zehn Söhne Hamans; Mordechai setzt daraufhin ein jährliches Fest namens Purim ein, um ihre Errettung zu gedenken."
+      "keyTakeaway": "Die Juden verteidigen sich gegen ihre Feinde am dreizehnten Adar, töten fünfundsiebzigtausend in den Provinzen und fünfhundert in Susa, darunter die zehn Söhne Hamans; Mordechai setzt daraufhin ein jährliches Fest namens Purim ein, um ihre Errettung zu gedenken.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Rettung der Juden und die Einführung des Purimfestes Die Juden rächen sich an ihren Feinden"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Mordechai führt das Purimfest ein"
+        }
+      ]
     },
     {
       "id": "esther-10",
@@ -444,7 +518,13 @@
           "note": "Fest, benannt nach den Losen (Pur), durch die das Datum bestimmt wurde; gefeiert am 14.–15. Adar mit Festmahl, Geschenken und Gaben an die Armen (9:26–32)."
         }
       ],
-      "keyTakeaway": "König Xerxes erhebt Tribute in seinem ganzen Reich, während Mordechai, zum zweiten Rang aufgestiegen, unter den Juden angesehen ist und sich für das Wohl seines Volkes einsetzt."
+      "keyTakeaway": "König Xerxes erhebt Tribute in seinem ganzen Reich, während Mordechai, zum zweiten Rang aufgestiegen, unter den Juden angesehen ist und sich für das Wohl seines Volkes einsetzt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mordechai setzt sich weiterhin für sein Volk ein"
+        }
+      ]
     }
   ]
 }

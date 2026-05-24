@@ -83,15 +83,15 @@ Questa esatta configurazione completa (sole, luna, corona di 12 oggetti, e l'usc
 
 ## Altre Notevoli Apparizioni Celesti
 
-### La Cometa dell'Eclissi del 1948 (C/1948 V1)
+**La Cometa dell'Eclissi del 1948 (C/1948 V1)**
 
 Il **1º novembre 1948**, approssimativamente 1 Kislev 5709, una cometa brillante fu scoperta durante un'eclissi solare totale. Raggiunse la visibilità a occhio nudo con una coda che si estendeva fino a 30 gradi di cielo e rimase visibile fino a dicembre 1948. Questo era lo stesso anno in cui Israele divenne una nazione (14 maggio 1948 = 5 Iyyar 5708) dopo quasi 2.000 anni di esilio. La coincidenza di una cometa visibile a occhio nudo che appariva nel primo anno della statualità moderna di Israele non è sfuggita agli studenti di Ezechiele 37 e Isaia 11.
 
-### La Grande Congiunzione del 21 dicembre 2020
+**La Grande Congiunzione del 21 dicembre 2020**
 
 Nel solstizio d'inverno, **21 dicembre 2020** (6 Tevet 5781), Giove e Saturno apparvero a solo 0,1 gradi di distanza, la separazione visibile più stretta dal 1623. I principali media l'hanno chiamata la "Stella di Natale" per la sua somiglianza con le descrizioni della Stella di Betlemme. La congiunzione apparve nel cielo occidentale poco dopo il tramonto, nella direzione di Betlemme come vista da Gerusalemme. La data ebraica cade in Tevet, un mese senza giorni festivi, ma la risonanza visiva e simbolica con l'evento della stella di Betlemme ha portato molti credenti messianici a notarla. I due pianeti non saranno di nuovo così vicini fino al 2080.
 
-### Cometa NEOWISE (2020)
+**Cometa NEOWISE (2020)**
 
 **La Cometa C/2020 F3 (NEOWISE)** raggiunse il perielio il 3 luglio 2020 (~11 Tammuz 5780) e il punto di massimo avvicinamento alla Terra il 23 luglio 2020 (~2 Av 5780). Fu la cometa più brillante visibile a occhio nudo dall'Emisfero Boreale dal Cometa Hale-Bopp nel 1997. Il suo periodo orbitale stimato è di circa 4.500 anni, portando alcuni a suggerire che la sua ultima apparizione risalga all'era di Abramo o prima. Il mese di Av nel calendario ebraico è un mese di lutto e digiuno (Tisha B'Av cade il 9 Av); la cometa raggiunse il suo picco durante questo periodo. Il suo significato profetico è dibattuto all'interno della comunità messianica.
 
@@ -126,7 +126,7 @@ Le eclissi lunari totali (lune di sangue) si sono verificate a **Purim**, il 14�
 - **14 marzo 2025:** Eclissi lunare totale (~65 minuti di totalità), 14 Adar 5785, **Purim**
 - **3 marzo 2026:** Eclissi lunare totale (~58 minuti di totalità), 14 Adar 5786, **Purim**
 
-Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi non hanno precedenti moderni. Purim non è una festa di Leviticus 23, ma commemora la liberazione di Israele dal genocidio (Esther 9:20–22). Il libro di Esther non nomina mai Dio, eppure la Sua mano è visibile ovunque.
+Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi non hanno precedenti moderni. Purim non è una festa di Leviticus 23, ma commemora la liberazione di Israele dal genocidio (Ester 9:20–22). Il libro di Esther non nomina mai Dio, eppure la Sua mano è visibile ovunque.
 
 ### Eclissi Solari
 
@@ -134,7 +134,7 @@ Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi n
 - **2 ottobre 2024:** Eclissi solare anulare ("anello di fuoco") il **1 Tishrei 5785, Rosh Hashanah, la Festa delle Trombe (Yom Teruah)**.
 - **12 agosto 2026:** Eclissi solare totale (percorso sulla Penisola Iberica e Nord Africa). Data ebraica: 29 Av, nessun allineamento con festività.
 
-### Tempeste Solari Prima della Luna di Sangue di Purim 2026
+**Tempeste Solari Prima della Luna di Sangue di Purim 2026**
 
 Dal **1º al 5 febbraio 2026**, la regione attiva AR4366, un gruppo di macchie solari 14 volte più largo della Terra, è esplosa con sei brillamenti solari di classe X in quattro giorni, inclusi due eventi di classe X8.1 tra i più forti del Ciclo Solare 25. Un'espulsione di massa coronale ha colpito la Terra il 5 febbraio, scatenando tempeste geomagnetiche e aurore diffuse. Ciò si è verificato circa 25 giorni prima della luna di sangue di Purim del 3 marzo.
 

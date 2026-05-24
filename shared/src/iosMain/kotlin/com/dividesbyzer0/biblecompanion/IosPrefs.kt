@@ -58,6 +58,7 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             collapsedStoriesJson = getString("collapsed_stories_json") ?: "{}",
             autoContinueTts = getBool("auto_continue_tts", true),
             crossBookTts = getBool("cross_book_tts", false),
+            ttsReadIntros = getBool("tts_read_intros", false),
             notesExpandedSectionsJson = getString("notes_expanded_sections_json") ?: "{}",
             votdDismissedDate = getString("votd_dismissed_date") ?: "",
             screenshotExpandLanguage = getBool("ss_expand_language", false),
@@ -149,6 +150,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     }
     actual suspend fun setAutoContinueTts(enabled: Boolean) {
         defaults.setBool(enabled, forKey = "auto_continue_tts"); refresh()
+    }
+    actual suspend fun setTtsReadIntros(enabled: Boolean) {
+        defaults.setBool(enabled, forKey = "tts_read_intros"); refresh()
     }
     actual suspend fun setNotesExpandedSections(json: String) {
         defaults.setObject(json, forKey = "notes_expanded_sections_json"); refresh()

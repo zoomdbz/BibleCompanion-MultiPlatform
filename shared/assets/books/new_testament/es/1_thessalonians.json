@@ -37,7 +37,13 @@
           "note": "Término para enojo o juicio; aquí denota el juicio venidero de Dios."
         }
       ],
-      "keyTakeaway": "Pablo da gracias a Dios por la fe, el amor y la esperanza de los tesalonicenses, por su conversión de los ídolos y su testimonio mientras esperan el regreso de Jesús."
+      "keyTakeaway": "Pablo da gracias a Dios por la fe, el amor y la esperanza de los tesalonicenses, por su conversión de los ídolos y su testimonio mientras esperan el regreso de Jesús.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación Ejemplo de los tesalonicenses"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-2",
@@ -79,7 +85,17 @@
           "note": "Otro término hebreo para ira feroz, frecuentemente usado en contextos proféticos de juicio divino."
         }
       ],
-      "keyTakeaway": "Pablo recuerda su ministerio sincero, su cuidado paternal y la imitación de las iglesias que sufren por parte de los tesalonicenses, y señala la oposición y el juicio de Dios sobre quienes obstaculizan el evangelio."
+      "keyTakeaway": "Pablo recuerda su ministerio sincero, su cuidado paternal y la imitación de las iglesias que sufren por parte de los tesalonicenses, y señala la oposición y el juicio de Dios sobre quienes obstaculizan el evangelio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ministerio de Pablo en Tesalónica"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Ausencia de Pablo de la iglesia"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-3",
@@ -154,7 +170,17 @@
           "note": "Proceso de ser apartado para Dios; aquí aplicado a la vida santa, especialmente en pureza sexual."
         }
       ],
-      "keyTakeaway": "Pablo exhorta a los tesalonicenses a la santidad, la pureza sexual y el amor fraternal, instruyéndolos a vivir en calma y trabajar con responsabilidad ante los de afuera."
+      "keyTakeaway": "Pablo exhorta a los tesalonicenses a la santidad, la pureza sexual y el amor fraternal, instruyéndolos a vivir en calma y trabajar con responsabilidad ante los de afuera.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La vida que agrada a Dios"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La venida del Señor"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-5",
@@ -214,7 +240,17 @@
           "note": "Frase de los profetas para el tiempo decisivo de juicio y salvación de Dios; aquí se usa para el regreso de Cristo."
         }
       ],
-      "keyTakeaway": "Pablo consuela a los creyentes diciéndoles que los muertos en Cristo resucitarán y que los vivos serán arrebatados junto con ellos en el regreso del Señor, y los exhorta a mantenerse vigilantes y sobrios hasta ese día."
+      "keyTakeaway": "Pablo consuela a los creyentes diciéndoles que los muertos en Cristo resucitarán y que los vivos serán arrebatados junto con ellos en el regreso del Señor, y los exhorta a mantenerse vigilantes y sobrios hasta ese día.",
+      "headings": [
+        {
+          "beforeVerse": 11,
+          "text": "Pablo exhorta a los hermanos"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Salutaciones y bendición final"
+        }
+      ]
     }
   ]
 }

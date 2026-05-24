@@ -63,6 +63,15 @@ internal fun applyDivineName(text: String, mode: String, lang: String, colorActi
   val r = wrap(base)
   return when (lk) {
     "en" -> text
+      // BSB uses all-caps GOD as the Tetragrammaton in Adonai/Yah constructions
+      // (Hab 3:19, Isa 12:2, Isa 26:4, Ps 109:21, Ps 140:7, Ps 141:8). These
+      // pair-pattern rules MUST run before the bare LORD rules so the right
+      // tokens are tagged. The Acts 17:23 "UNKNOWN GOD" inscription is left
+      // alone by design — it is not the divine name.
+      .replace("LORD GOD", "$r God")
+      .replace("GOD the LORD", "$r the LORD")
+      .replace("GOD the Lord", "$r the Lord")
+      .replace("GOD, the Lord", "$r, the Lord")
       .replace("the LORD", "the $r")
       .replace("The LORD", "The $r")
       .replace("THE LORD", r)
@@ -168,7 +177,8 @@ object ScriptureRefs {
     val canon: String,           // English canonical — used for URL payload
     val displayCanon: String,    // Localized canonical — used for display substitution
     val collection: String,
-    val keys: MutableSet<String>
+    val keys: MutableSet<String>,
+    val strippedKeys: MutableSet<String> = mutableSetOf()
   )
 
   // Backed by a Compose mutableStateOf so that when primeBooks finishes after
@@ -232,16 +242,22 @@ object ScriptureRefs {
         } ?: row.canon
       }
 
-      val entry = BookEntry(englishCanon, row.canon, collection, mutableSetOf())
+      val entry = BookEntry(englishCanon, row.canon, collection, mutableSetOf(), mutableSetOf())
       row.aliases.forEach { alias ->
         addKey(entry.keys, alias)
         val stripped = stripLeadingOrdinal(alias)
-        if (!stripped.equals(alias, ignoreCase = true)) addKey(entry.keys, stripped)
+        if (!stripped.equals(alias, ignoreCase = true)) {
+          addKey(entry.keys, stripped)
+          addKey(entry.strippedKeys, stripped)
+        }
       }
       addKey(entry.keys, row.canon)
       run {
         val stripped = stripLeadingOrdinal(row.canon)
-        if (!stripped.equals(row.canon, ignoreCase = true)) addKey(entry.keys, stripped)
+        if (!stripped.equals(row.canon, ignoreCase = true)) {
+          addKey(entry.keys, stripped)
+          addKey(entry.strippedKeys, stripped)
+        }
       }
       addKey(entry.keys, englishCanon)
       out += entry
@@ -873,20 +889,27 @@ object ScriptureRefs {
 
     var bestEntry: BookEntry? = null
     var bestLen = -1
+    var bestOrdinalMatch = false
 
     for (entry in books) {
       val canonStartsWithDigit = entry.canon.firstOrNull()?.isDigit() == true
-      if (canonStartsWithDigit && ordDigit == null) continue
-      if (ordDigit != null && canonStartsWithDigit && !entry.canon.startsWith("$ordDigit ")) continue
+      if (ordDigit != null && canonStartsWithDigit && !entry.canon.startsWith("$ordDigit ")) {
+        val hasMatchingOrdinalAlias = entry.keys.any { it.startsWith("$ordDigit ") }
+        if (!hasMatchingOrdinalAlias) continue
+      }
 
       for (key in entry.keys) {
         if (rest.length >= key.length && rest.regionMatches(0, key, 0, key.length, ignoreCase = true)) {
           val consumed = ordLen + key.length
           val next = s.getOrNull(i0 + consumed)
           if (next != null && next.isLetter()) continue
-          if (key.length > bestLen) {
+          if (canonStartsWithDigit && ordDigit == null && entry.strippedKeys.contains(key)) continue
+
+          val ordinalMatch = ordDigit != null && canonStartsWithDigit && entry.canon.startsWith("$ordDigit ")
+          if (key.length > bestLen || (key.length == bestLen && ordinalMatch && !bestOrdinalMatch)) {
             bestLen = key.length
             bestEntry = entry
+            bestOrdinalMatch = ordinalMatch
           }
         }
       }

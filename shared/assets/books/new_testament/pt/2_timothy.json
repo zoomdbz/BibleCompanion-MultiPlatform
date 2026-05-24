@@ -45,7 +45,25 @@
           "note": "Refere-se a algo confiado para guarda; aqui, a mensagem do evangelho e o encargo do ministério."
         }
       ],
-      "keyTakeaway": "Paulo agradece a Deus pela fé de Timóteo, exorta coragem e fidelidade na guarda do evangelho e menciona exemplos de abandono e lealdade."
+      "keyTakeaway": "Paulo agradece a Deus pela fé de Timóteo, exorta coragem e fidelidade na guarda do evangelho e menciona exemplos de abandono e lealdade.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Ação de graças"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "A prática do zelo, da firmeza e da fidelidade"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A situação do apóstolo preso e o procedimento de alguns de seus colaboradores"
+        }
+      ]
     },
     {
       "id": "2_timothy-2",
@@ -93,7 +111,17 @@
           "note": "Literalmente 'cortar reto'; sentido figurado para ensinar e aplicar a palavra de Deus corretamente."
         }
       ],
-      "keyTakeaway": "Paulo exorta Timóteo a suportar dificuldades, transmitir o evangelho, evitar discussões e corrigir com gentileza, usando metáforas de soldado, atleta e agricultor."
+      "keyTakeaway": "Paulo exorta Timóteo a suportar dificuldades, transmitir o evangelho, evitar discussões e corrigir com gentileza, usando metáforas de soldado, atleta e agricultor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os estímulos no combate da fé e no sofrimento por Cristo"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "As falsas doutrinas e os falsos crentes. Como corrigi-los"
+        }
+      ]
     },
     {
       "id": "2_timothy-3",
@@ -137,7 +165,21 @@
           "note": "Palavra única que significa 'soprada por Deus'; usada para indicar a origem divina da Escritura."
         }
       ],
-      "keyTakeaway": "Paulo adverte sobre pessoas corruptas nos últimos dias, relembra seu exemplo de perseverança e afirma a inspiração divina e a utilidade de toda a Escritura."
+      "keyTakeaway": "Paulo adverte sobre pessoas corruptas nos últimos dias, relembra seu exemplo de perseverança e afirma a inspiração divina e a utilidade de toda a Escritura.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os males e as corrupções dos últimos dias"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Paulo elogia a Timóteo por sua firmeza e o exorta a permanecer leal à verdade"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A inspiração, valor e utilidade das Santas Escrituras"
+        }
+      ]
     },
     {
       "id": "2_timothy-4",
@@ -186,7 +228,25 @@
           "note": "Imagem de recompensa para os fiéis; a coroa simboliza honra e vindicação concedidas na vinda de Cristo."
         }
       ],
-      "keyTakeaway": "Paulo instrui Timóteo a pregar fielmente, reflete sobre ter concluído sua missão e aguardar uma coroa, menciona companheiros e dificuldades pessoais, e encerra com saudações e bênção."
+      "keyTakeaway": "Paulo instrui Timóteo a pregar fielmente, reflete sobre ter concluído sua missão e aguardar uma coroa, menciona companheiros e dificuldades pessoais, e encerra com saudações e bênção.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A fidelidade e o zelo na pregação"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "O apóstolo prevê o seu martírio"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "O apóstolo abandonado pelos homens, não por Deus"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "As saudações finais e a bênção"
+        }
+      ]
     }
   ]
 }

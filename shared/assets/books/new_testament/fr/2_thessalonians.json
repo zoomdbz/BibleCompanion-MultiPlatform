@@ -34,7 +34,17 @@
           "note": "Signifie littéralement « bonne nouvelle » ; la proclamation du salut par Jésus-Christ."
         }
       ],
-      "keyTakeaway": "Paul rend grâce à Dieu pour la foi et l'amour croissants des Thessaloniciens, les assure du juste jugement de Dieu et du retour glorieux du Christ, et prie pour qu'ils en soient dignes."
+      "keyTakeaway": "Paul rend grâce à Dieu pour la foi et l'amour croissants des Thessaloniciens, les assure du juste jugement de Dieu et du retour glorieux du Christ, et prie pour qu'ils en soient dignes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adresse et salutation"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Progrès des Thessaloniciens dans la foi et dans la charité, malgré les persécutions"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-2",
@@ -83,7 +93,13 @@
           "note": "Ce qui retient ou empêche ; l'identité exacte n'est pas précisée par Paul."
         }
       ],
-      "keyTakeaway": "Paul avertit que le jour du Seigneur n'est pas encore venu ; il attend la rébellion, l'élimination de ce qui retient, et la révélation puis la destruction de l'homme de l'anarchie."
+      "keyTakeaway": "Paul avertit que le jour du Seigneur n'est pas encore venu ; il attend la rébellion, l'élimination de ce qui retient, et la révélation puis la destruction de l'homme de l'anarchie.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sur l’avènement du Seigneur"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-3",
@@ -123,7 +139,17 @@
           "note": "Décrit une conduite désordonnée ou indisciplinée ; ici spécifiquement le refus de travailler."
         }
       ],
-      "keyTakeaway": "Paul demande la prière, affirme la fidélité de Dieu, ordonne d'éviter toute conduite désordonnée et oisive, et pose le principe que celui qui refuse de travailler ne doit pas manger."
+      "keyTakeaway": "Paul demande la prière, affirme la fidélité de Dieu, ordonne d'éviter toute conduite désordonnée et oisive, et pose le principe que celui qui refuse de travailler ne doit pas manger.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Exhortation à prier pour les progrès de l’Évangile, à s’éloigner de ceux qui vivent dans le désordre, et à travailler paisiblement"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Salutation"
+        }
+      ]
     }
   ]
 }

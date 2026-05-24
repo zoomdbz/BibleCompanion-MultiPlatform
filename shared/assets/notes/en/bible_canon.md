@@ -95,7 +95,7 @@ The Holy Spirit is fully God, equal with Father and Son.
 
 ---
 
-### The regional canon councils
+## The regional canon councils
 
 ### Council of Hippo (AD 393)
 

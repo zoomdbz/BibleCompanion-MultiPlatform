@@ -54,7 +54,21 @@
           "note": "Espressione per il vero messaggio di Dio; in Giacomo si riferisce al vangelo mediante il quale i credenti ricevono nuova vita."
         }
       ],
-      "keyTakeaway": "Giacomo esorta i credenti a rallegrarsi nelle prove, a cercare la saggezza con fede, a resistere alla tentazione e a riconoscere Dio come donatore della vita e della verità."
+      "keyTakeaway": "Giacomo esorta i credenti a rallegrarsi nelle prove, a cercare la saggezza con fede, a resistere alla tentazione e a riconoscere Dio come donatore della vita e della verità.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Prove e tentazioni"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Mettere in pratica la Parola di Dio"
+        }
+      ]
     },
     {
       "id": "james-2",
@@ -102,7 +116,17 @@
           "note": "Chiamata 'regale' perché riassume il comandamento di Dio sotto Cristo re: amare il prossimo."
         }
       ],
-      "keyTakeaway": "Giacomo condanna il favoritismo verso i ricchi e afferma che la legge reale dell'amore è vincolante per tutti senza distinzione di persone."
+      "keyTakeaway": "Giacomo condanna il favoritismo verso i ricchi e afferma che la legge reale dell'amore è vincolante per tutti senza distinzione di persone.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Condanna del favoritismo"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La fede e le opere"
+        }
+      ]
     },
     {
       "id": "james-3",
@@ -147,7 +171,17 @@
           "note": "Espressione per la sapienza data da Dio, contrapposta alla sapienza terrena o demoniaca."
         }
       ],
-      "keyTakeaway": "Giacomo mette in guardia sul potere distruttivo della lingua e contrappone la saggezza terrena a quella dall'alto, che produce pace e giustizia."
+      "keyTakeaway": "Giacomo mette in guardia sul potere distruttivo della lingua e contrappone la saggezza terrena a quella dall'alto, che produce pace e giustizia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esortazione a tenere a freno la lingua"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Sapienza umana e sapienza che viene dall’alto"
+        }
+      ]
     },
     {
       "id": "james-4",
@@ -191,7 +225,17 @@
           "note": "Immagine della transitorietà della vita; come un soffio o un vapore che svanisce rapidamente."
         }
       ],
-      "keyTakeaway": "Giacomo condanna le passioni mondane e l'arroganza, esortando all'umiltà, alla sottomissione a Dio e al riconoscimento della brevità della vita secondo la volontà di Dio."
+      "keyTakeaway": "Giacomo condanna le passioni mondane e l'arroganza, esortando all'umiltà, alla sottomissione a Dio e al riconoscimento della brevità della vita secondo la volontà di Dio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’amicizia del mondo è inimicizia verso Dio"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Condanna dei trafficanti e dei ricchi oppressori"
+        }
+      ]
     },
     {
       "id": "james-5",
@@ -233,7 +277,13 @@
           "note": "Istruzione a parlare in modo semplice e veritiero senza invocare giuramenti."
         }
       ],
-      "keyTakeaway": "Giacomo ammonisce i ricchi che opprimono, esorta alla pazienza fino alla venuta del Signore e invita alla sincerità senza ricorrere ai giuramenti."
+      "keyTakeaway": "Giacomo ammonisce i ricchi che opprimono, esorta alla pazienza fino alla venuta del Signore e invita alla sincerità senza ricorrere ai giuramenti.",
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Esortazioni diverse"
+        }
+      ]
     }
   ]
 }

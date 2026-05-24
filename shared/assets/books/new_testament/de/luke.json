@@ -112,7 +112,37 @@
           "note": "Sicherheit über die empfangenen Lehren."
         }
       ],
-      "keyTakeaway": "Lukas richtet sich an Theophilus mit einem geordneten Bericht auf der Grundlage von Augenzeugenberichten, damit der Leser Gewissheit erlangen kann."
+      "keyTakeaway": "Lukas richtet sich an Theophilus mit einem geordneten Bericht auf der Grundlage von Augenzeugenberichten, damit der Leser Gewissheit erlangen kann.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Geburt von Johannes dem Täufer und von Jesus"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Johannes soll das Kommen des Retters vorbereiten"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Ein Engel kündigt Maria die Geburt von Jesus an"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Maria bei Elisabeth"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Maria lobt und dankt Gott"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Johannes wird geboren"
+        },
+        {
+          "beforeVerse": 66,
+          "text": "Zacharias sieht den Auftrag von Johannes voraus"
+        }
+      ]
     },
     {
       "id": "luke-2",
@@ -207,7 +237,25 @@
           "note": "Futtertrog, der als Bett des Kindes dient (2,7–16)."
         }
       ],
-      "keyTakeaway": "Jesus wird in Bethlehem geboren; Engel verkünden die Geburt den Hirten; das Zeichen ist ein Kind in der Krippe; die Hirten sehen das Kind und berichten, wie ihnen gesagt wurde."
+      "keyTakeaway": "Jesus wird in Bethlehem geboren; Engel verkünden die Geburt den Hirten; das Zeichen ist ein Kind in der Krippe; die Hirten sehen das Kind und berichten, wie ihnen gesagt wurde.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus wird geboren"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Die Hirten auf dem Feld"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesus wird als Retter erkannt"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Der zwölfjährige Jesus im Tempel"
+        }
+      ]
     },
     {
       "id": "luke-3",
@@ -283,7 +331,21 @@
           "note": "Erntebild für die Trennung von Weizen und Spreu (3,17)."
         }
       ],
-      "keyTakeaway": "Johannes predigt Buße und Taufe, beantwortet praktische Fragen, verweist auf einen Mächtigeren, der mit dem Heiligen Geist und Feuer tauft, und wird von Herodes gefangen gesetzt."
+      "keyTakeaway": "Johannes predigt Buße und Taufe, beantwortet praktische Fragen, verweist auf einen Mächtigeren, der mit dem Heiligen Geist und Feuer tauft, und wird von Herodes gefangen gesetzt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus wird für seinen Dienst vorbereitet Johannes der Täufer ruft: »Kehrt um zu Gott!«"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesus lässt sich taufen"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Von Adam bis Jesus"
+        }
+      ]
     },
     {
       "id": "luke-4",
@@ -360,7 +422,33 @@
           "note": "Einleitungsformel für Schriftzitate (4,4–10)."
         }
       ],
-      "keyTakeaway": "Nach vierzig Tagen in der Wüste begegnet Jesus drei Versuchungen mit Schriftworten, woraufhin der Teufel für eine Zeit von ihm weicht."
+      "keyTakeaway": "Nach vierzig Tagen in der Wüste begegnet Jesus drei Versuchungen mit Schriftworten, woraufhin der Teufel für eine Zeit von ihm weicht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Wenn du Gottes Sohn bist, beweise es!"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesus verkündigt das Reich Gottes und besiegt Krankheit und Tod Jesus beginnt seinen Auftrag zu erfüllen"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Ein Prophet gilt nichts in seiner Heimatstadt"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jesus erweist seine Macht"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Kranke werden geheilt"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Alle sollen die rettende Botschaft hören"
+        }
+      ]
     },
     {
       "id": "luke-5",
@@ -431,7 +519,29 @@
           "note": "Simon, auch Petrus genannt (5,3–8)."
         }
       ],
-      "keyTakeaway": "Am See weist Jesus einen großen Fischfang an und beruft Simon, Jakobus und Johannes mit den Worten, sie werden Menschen fangen; sie verlassen alles und folgen ihm nach."
+      "keyTakeaway": "Am See weist Jesus einen großen Fischfang an und beruft Simon, Jakobus und Johannes mit den Worten, sie werden Menschen fangen; sie verlassen alles und folgen ihm nach.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus beruft seine ersten Jünger"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Ein Aussätziger wird geheilt"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesus hat die Macht, Sünden zu vergeben"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Der Zolleinnehmer Levi"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Neue Formen für das neue Leben"
+        }
+      ]
     },
     {
       "id": "luke-6",
@@ -512,7 +622,41 @@
           "note": "Titel, den Jesus in Bezug auf die Sabbat-Vollmacht verwendet (6,5)."
         }
       ],
-      "keyTakeaway": "Jesus beruft sich auf David und erklärt den Menschensohn zum Herrn des Sabbats; er heilt am Sabbat die verdorrte Hand eines Mannes, nachdem er gefragt hat, ob man Gutes oder Böses tun soll."
+      "keyTakeaway": "Jesus beruft sich auf David und erklärt den Menschensohn zum Herrn des Sabbats; er heilt am Sabbat die verdorrte Hand eines Mannes, nachdem er gefragt hat, ob man Gutes oder Böses tun soll.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesetzlichkeit oder Liebe?"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Die zwölf Apostel"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesus heilt alle, die zu ihm kommen"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Wer darf sich glücklich nennen?"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Liebe deine Feinde!"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Verurteilt niemanden!"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "An den Früchten erkennt man den Baum"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Ein festes Fundament"
+        }
+      ]
     },
     {
       "id": "luke-7",
@@ -594,7 +738,29 @@
           "note": "Bezeichnet das einzige Kind der Witwe (7,12)."
         }
       ],
-      "keyTakeaway": "Jesus heilt den Knecht eines Hauptmanns aus der Ferne, nachdem er dessen Glauben gelobt hat, und erweckt den einzigen Sohn einer Witwe in Nain; das Volk preist Gott und die Kunde verbreitet sich."
+      "keyTakeaway": "Jesus heilt den Knecht eines Hauptmanns aus der Ferne, nachdem er dessen Glauben gelobt hat, und erweckt den einzigen Sohn einer Witwe in Nain; das Volk preist Gott und die Kunde verbreitet sich.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ein Hauptmann vertraut Jesus"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jesus erweckt einen Toten zum Leben"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jesus und Johannes der Täufer"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Das Urteil von Jesus über seine Zeitgenossen"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Jesus bei dem Pharisäer Simon"
+        }
+      ]
     },
     {
       "id": "luke-8",
@@ -682,7 +848,37 @@
           "note": "Offenbarte Wahrheiten, die den Jüngern gegeben werden (8,10)."
         }
       ],
-      "keyTakeaway": "Frauen unterstützen Jesu Wirken; er lehrt das Gleichnis vom Sämann und erklärt dessen Bedeutung, spricht über das Hören und das Licht und bezeichnet jene als seine wahre Familie, die Gottes Wort hören und tun."
+      "keyTakeaway": "Frauen unterstützen Jesu Wirken; er lehrt das Gleichnis vom Sämann und erklärt dessen Bedeutung, spricht über das Hören und das Licht und bezeichnet jene als seine wahre Familie, die Gottes Wort hören und tun.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Frauen um Jesus"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Das Gleichnis vom Bauern, der Getreide aussät"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Das Beispiel von der Öllampe"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Wer gehört zu Jesus?"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Herr über Wind und Wellen"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Jesus heilt einen Besessenen"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Macht über Krankheit und Tod"
+        }
+      ]
     },
     {
       "id": "luke-9",
@@ -776,7 +972,57 @@
           "note": "Herrscher über ein Viertel; Herodes Antipas (9,7)."
         }
       ],
-      "keyTakeaway": "Die Zwölf werden mit Anweisungen und begrenzter Ausrüstung ausgesandt; Herodes ist ratlos bezüglich Jesus; Jesus speist etwa fünftausend Menschen mit fünf Broten und zwei Fischen, und zwölf Körbe bleiben übrig."
+      "keyTakeaway": "Die Zwölf werden mit Anweisungen und begrenzter Ausrüstung ausgesandt; Herodes ist ratlos bezüglich Jesus; Jesus speist etwa fünftausend Menschen mit fünf Broten und zwei Fischen, und zwölf Körbe bleiben übrig.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Aussendung der Jünger Der Auftrag an die Apostel"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Herodes ist ratlos: Wer ist Jesus?"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Fünftausend werden satt"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Wer ist Jesus?"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jesus kündigt seinen Tod und seine Auferstehung an"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Alles hingeben, um alles zu gewinnen"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Die Jünger erleben die Herrlichkeit von Jesus"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Die Ohnmacht der Jünger und die Vollmacht von Jesus"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Jesus kündigt wieder seinen Tod und seine Auferstehung an"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Gott hat andere Maßstäbe"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "Ablehnung in Samarien"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Nachfolge duldet keinen Aufschub"
+        }
+      ]
     },
     {
       "id": "luke-10",
@@ -850,7 +1096,29 @@
           "note": "Jesu Aussage, als die Boten zurückkehren (10,18)."
         }
       ],
-      "keyTakeaway": "Jesus sendet zweiundsiebzig Jünger mit Anweisungen und Friedensgrüßen aus, warnt unbußfertige Städte, freut sich über die im Himmel eingeschriebenen Namen und preist die Jünger selig wegen dessen, was sie sehen und hören."
+      "keyTakeaway": "Jesus sendet zweiundsiebzig Jünger mit Anweisungen und Friedensgrüßen aus, warnt unbußfertige Städte, freut sich über die im Himmel eingeschriebenen Namen und preist die Jünger selig wegen dessen, was sie sehen und hören.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Arbeiter für Gottes Ernte"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Die Rückkehr der zweiundsiebzig Jünger"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesus dankt dem Vater"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Auseinandersetzungen mit den religiösen Führern Israels und verschiedene Gleichnisse Der barmherzige Samariter – das wichtigste Gebot"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Jesus bei Maria und Marta"
+        }
+      ]
     },
     {
       "id": "luke-11",
@@ -941,7 +1209,41 @@
           "note": "Wort kann Kühnheit/Unverschämtheit/Beharrlichkeit in einer Bitte bedeuten (11,8)."
         }
       ],
-      "keyTakeaway": "Jesus gibt ein Gebet vor, erzählt eine Geschichte über einen Freund um Mitternacht, die Beharrlichkeit betont, und fordert auf zu bitten, zu suchen und anzuklopfen; der Vater gibt den Heiligen Geist denen, die ihn bitten."
+      "keyTakeaway": "Jesus gibt ein Gebet vor, erzählt eine Geschichte über einen Freund um Mitternacht, die Beharrlichkeit betont, und fordert auf zu bitten, zu suchen und anzuklopfen; der Vater gibt den Heiligen Geist denen, die ihn bitten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gott erhört Gebete"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "»Wer nicht für mich ist, der ist gegen mich«"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Die Gefahr des Rückfalls"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Wer darf sich glücklich nennen?"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Die Menschen wollen Beweise"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Licht und Finsternis"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Die Heuchelei der Pharisäer"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Frommer Schein"
+        }
+      ]
     },
     {
       "id": "luke-12",
@@ -1032,7 +1334,33 @@
           "note": "Gotteslästerliches Reden; hier gegen den Heiligen Geist (12,10)."
         }
       ],
-      "keyTakeaway": "Jesus warnt vor Heuchelei, fordert zur Gottesfurcht statt Menschenfurcht auf, verheißt Anerkennung für Bekenner, warnt vor der Lästerung des Heiligen Geistes und kündigt an, dass der Heilige Geist in Bedrängnis die nötigen Worte eingeben wird."
+      "keyTakeaway": "Jesus warnt vor Heuchelei, fordert zur Gottesfurcht statt Menschenfurcht auf, verheißt Anerkennung für Bekenner, warnt vor der Lästerung des Heiligen Geistes und kündigt an, dass der Heilige Geist in Bedrängnis die nötigen Worte eingeben wird.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Habt keine Angst vor den Menschen!"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Der arme Reiche"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Macht euch keine Sorgen"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Der Herr kommt unerwartet: »Seid bereit!«"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "Konsequenzen der Nachfolge"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "Erkennen, was wichtig ist"
+        }
+      ]
     },
     {
       "id": "luke-13",
@@ -1099,7 +1427,29 @@
           "note": "Befreiung von einer Fessel/Krankheit (13,12–16)."
         }
       ],
-      "keyTakeaway": "Jesus fordert zur Umkehr auf, erzählt das Gleichnis vom Feigenbaum, der Zeit zur Frucht erhält, heilt eine gekrümmte Frau am Sabbat und verteidigt dies, und vergleicht das Reich Gottes mit einem Senfkorn und Sauerteig."
+      "keyTakeaway": "Jesus fordert zur Umkehr auf, erzählt das Gleichnis vom Feigenbaum, der Zeit zur Frucht erhält, heilt eine gekrümmte Frau am Sabbat und verteidigt dies, und vergleicht das Reich Gottes mit einem Senfkorn und Sauerteig.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die letzte Gelegenheit zur Umkehr"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Was gilt mehr: der Mensch oder die Vorschrift?"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Die Gleichnisse vom Senfkorn und vom Sauerteig"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Warum nicht alle in Gottes Reich kommen"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Warnung an Jerusalem"
+        }
+      ]
     },
     {
       "id": "luke-14",
@@ -1166,7 +1516,25 @@
           "note": "„Dringend auffordern/nötigen hereinzukommen“ (14,23)."
         }
       ],
-      "keyTakeaway": "Jesus heilt am Sabbat, lehrt Demut und Großzügigkeit bei Mahlzeiten und erzählt von einem großen Gastmahl, bei dem die zuerst Geladenen absagen und stattdessen Arme und Außenstehende hereingebracht werden."
+      "keyTakeaway": "Jesus heilt am Sabbat, lehrt Demut und Großzügigkeit bei Mahlzeiten und erzählt von einem großen Gastmahl, bei dem die zuerst Geladenen absagen und stattdessen Arme und Außenstehende hereingebracht werden.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Helfen verboten?"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Nicht den eigenen Vorteil suchen"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Gott lädt ein zu seinem Fest"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Nachfolge erfordert ganzen Einsatz"
+        }
+      ]
     },
     {
       "id": "luke-15",
@@ -1230,7 +1598,17 @@
           "note": "Eine Drachme; in einigen Zusammenhängen etwa ein Tageslohn (15,8)."
         }
       ],
-      "keyTakeaway": "Auf das Murren über seine Tischgemeinschaft hin erzählt Jesus zwei Gleichnisse vom Suchen und Wiederfinden: ein Hirte findet ein verlorenes Schaf, eine Frau eine verlorene Münze."
+      "keyTakeaway": "Auf das Murren über seine Tischgemeinschaft hin erzählt Jesus zwei Gleichnisse vom Suchen und Wiederfinden: ein Hirte findet ein verlorenes Schaf, eine Frau eine verlorene Münze.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Gleichnisse vom verlorenen Schaf und von der verlorenen Münze"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Das Gleichnis von den zwei Söhnen"
+        }
+      ]
     },
     {
       "id": "luke-16",
@@ -1293,7 +1671,21 @@
           "note": "Bezeichnung für Reichtum/Besitz, personifiziert in 16,9–13."
         }
       ],
-      "keyTakeaway": "Jesus schildert einen zur Rechenschaft gerufenen Verwalter, hebt das Lob für dessen Klugheit hervor und lehrt über Treue im Umgang mit Reichtum sowie die Unmöglichkeit, sowohl Gott als auch dem Mammon zu dienen."
+      "keyTakeaway": "Jesus schildert einen zur Rechenschaft gerufenen Verwalter, hebt das Lob für dessen Klugheit hervor und lehrt über Treue im Umgang mit Reichtum sowie die Unmöglichkeit, sowohl Gott als auch dem Mammon zu dienen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Wie man sein Geld richtig einsetzt"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Neue Maßstäbe"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Der Reiche und der Arme"
+        }
+      ]
     },
     {
       "id": "luke-17",
@@ -1350,6 +1742,10 @@
         {
           "ref": "17:36",
           "text": "Zwei werden auf dem Felde sein; einer wird angenommen, der andere wird verlassen werden."
+        },
+        {
+          "ref": "Luke 17:36",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 36 ein: „Zwei werden auf dem Feld sein; der eine wird angenommen und der andere zurückgelassen werden.“ Er fehlt im Codex Sinaiticus, Vaticanus und den ältesten griechischen Handschriften. Die meisten Forscher schließen, dass er aus der Parallelstelle in Matthäus 24:40 übernommen wurde, um Lukas ein passendes drittes Beispiel nach seinen Hinweisen auf das Bett (V. 34) und die Mühle (V. 35) zu geben."
         }
       ],
       "translationNotes": [
@@ -1367,6 +1763,28 @@
           "term": "Unwürdige Knechte",
           "original": "Hebrew (sense): עֲבָדִים לֹא־בַעֲלֵי זְכוּת (ʿăbādiym lōʾ-baʿălēy zəkwt) — Greek (NT): δοῦλοι ἀχρεῖοι (doῦloi ἀchreῖoi) — Aramaic (Syriac): ܥܒܕܐ ܒܛܝܠܐ (ʿbdʾ bṭylʾ)",
           "note": "Ohne Anspruch auf Verdienst; Aussage über die Pflicht (17,10)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Achtet aufeinander und vergebt!"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Die Macht des Glaubens"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Der selbstverständliche Dienst"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Nur einer dankt"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Wann kommt Gottes Reich?"
         }
       ]
     },
@@ -1443,7 +1861,33 @@
           "note": "Für gerecht erklärt/freigesprochen in 18,14."
         }
       ],
-      "keyTakeaway": "Zwei Gleichnisse: die Beharrlichkeit einer Witwe vor einem ungerechten Richter und das demütige Gebet eines Zöllners im Gegensatz zum Selbstvertrauen eines Pharisäers."
+      "keyTakeaway": "Zwei Gleichnisse: die Beharrlichkeit einer Witwe vor einem ungerechten Richter und das demütige Gebet eines Zöllners im Gegensatz zum Selbstvertrauen eines Pharisäers.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Das Gleichnis vom Richter und der Witwe"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Das Gleichnis vom Pharisäer und vom Zolleinnehmer"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesus und die Kinder"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Die Reichen und das Reich Gottes"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jesus kündigt zum dritten Mal seinen Tod und seine Auferstehung an"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Ein Blinder wird geheilt"
+        }
+      ]
     },
     {
       "id": "luke-19",
@@ -1523,7 +1967,29 @@
           "note": "Grundlegende Aussage über den Auftrag (19,10)."
         }
       ],
-      "keyTakeaway": "In Jericho ruft Jesus den Zachäus vom Baum herab und kehrt bei ihm ein; Zachäus erklärt Wiedergutmachung und Freigebigkeit; Jesus stellt fest, dass Rettung in dieses Haus gekommen ist, und nennt seinen Auftrag, Verlorenes zu suchen und zu retten."
+      "keyTakeaway": "In Jericho ruft Jesus den Zachäus vom Baum herab und kehrt bei ihm ein; Zachäus erklärt Wiedergutmachung und Freigebigkeit; Jesus stellt fest, dass Rettung in dieses Haus gekommen ist, und nennt seinen Auftrag, Verlorenes zu suchen und zu retten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus bei Zachäus"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Beauftragt zu handeln"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Jesus wird als König empfangen"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Tränen über eine Stadt"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Jesus jagt die Händler aus dem Tempel"
+        }
+      ]
     },
     {
       "id": "luke-20",
@@ -1602,7 +2068,33 @@
           "note": "Wirkung des fallenden Steins (20,18)."
         }
       ],
-      "keyTakeaway": "Jesus begegnet der Frage nach seiner Vollmacht mit der Gegenfrage über die Taufe des Johannes und erzählt das Gleichnis von den Pächtern, die den geliebten Sohn töten; er zitiert den verworfenen Stein, der zum Eckstein wird."
+      "keyTakeaway": "Jesus begegnet der Frage nach seiner Vollmacht mit der Gegenfrage über die Taufe des Johannes und erzählt das Gleichnis von den Pächtern, die den geliebten Sohn töten; er zitiert den verworfenen Stein, der zum Eckstein wird.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Frage nach der Vollmacht von Jesus"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Vom Weinbergbesitzer und den Pächtern"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Die Frage nach der Steuer"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Werden die Toten auferstehen?"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Wer ist der Christus?"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Die Heuchelei der Schriftgelehrten"
+        }
+      ]
     },
     {
       "id": "luke-21",
@@ -1671,7 +2163,33 @@
           "note": "Wörtlich „ihr ganzes Leben/ihren ganzen Lebensunterhalt“ (21,4)."
         }
       ],
-      "keyTakeaway": "Jesus beobachtet, wie eine arme Witwe zwei kleine Münzen in den Opferkasten legt, und erklärt, sie habe mehr gegeben als alle anderen, weil sie ihren ganzen Lebensunterhalt gegeben hat."
+      "keyTakeaway": "Jesus beobachtet, wie eine arme Witwe zwei kleine Münzen in den Opferkasten legt, und erklärt, sie habe mehr gegeben als alle anderen, weil sie ihren ganzen Lebensunterhalt gegeben hat.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus spricht über die letzte Zeit Viel Geld, aber kein Opfer"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Jesus kündigt die Zerstörung des Tempels an"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Die Zukunft der Welt"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Die Zerstörung Jerusalems"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Retter und Richter"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "»Bleibt wachsam und betet!«"
+        }
+      ]
     },
     {
       "id": "luke-22",
@@ -1780,7 +2298,57 @@
           "note": "Anweisung beim Brotbrechen (22,19)."
         }
       ],
-      "keyTakeaway": "Führer trachten Jesus nach dem Leben; Judas willigt ein, ihn zu verraten; das Passah wird vorbereitet; beim Mahl spricht Jesus über Brot und Kelch und kündigt an, dass die Hand des Verräters bei ihm am Tisch ist."
+      "keyTakeaway": "Führer trachten Jesus nach dem Leben; Judas willigt ein, ihn zu verraten; das Passah wird vorbereitet; beim Mahl spricht Jesus über Brot und Kelch und kündigt an, dass die Hand des Verräters bei ihm am Tisch ist.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Leiden, Tod und Auferstehung von Jesus Verschwörung gegen Jesus"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Der Verrat"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Vorbereitungen für das Passahfest"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesus feiert mit seinen Jüngern das Passahmahl"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Wer ist der Wichtigste?"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jesus kündigt seine Verleugnung durch Petrus an"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Wie wird es weitergehen?"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Im Garten Gethsemane"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Verrat und Verhaftung"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "Petrus behauptet, Jesus nicht zu kennen"
+        },
+        {
+          "beforeVerse": 62,
+          "text": "Die Soldaten misshandeln Jesus"
+        },
+        {
+          "beforeVerse": 65,
+          "text": "Jesus vor Gericht"
+        }
+      ]
     },
     {
       "id": "luke-23",
@@ -1856,6 +2424,10 @@
         {
           "ref": "23:17",
           "text": "(Denn er mußte ihnen einen nach der Gewohnheit des Festes losgeben.)"
+        },
+        {
+          "ref": "Luke 23:17",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 17 ein: „Er war aber verpflichtet, ihnen am Fest einen Gefangenen freizugeben.“ Er fehlt im Codex Sinaiticus, Vaticanus und Alexandrinus. Die Notiz wurde wahrscheinlich von einem frühen Schreiber eingefügt, um den Lesern zu erklären, warum die Menge in V. 18 die Freilassung eines Gefangenen verlangte; die Erklärung erscheint natürlicher in den Parallelen Matthäus 27:15 und Markus 15:6."
         }
       ],
       "translationNotes": [
@@ -1883,6 +2455,36 @@
           "term": "Textkritischer Hinweis (23,17)",
           "original": "Greek MSS variation",
           "note": "Einige Handschriften enthalten einen Vers über den Brauch des Pilatus, am Fest einen Gefangenen freizulassen; viele moderne Ausgaben klammern ihn ein oder lassen ihn in Lukas weg."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus wird an die Römer ausgeliefert"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jesus wird von Herodes verhört"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Das Todesurteil"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Auf dem Weg zur Hinrichtung"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Die Kreuzigung"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Jesus stirbt am Kreuz"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "Jesus wird begraben"
         }
       ]
     },
@@ -1974,7 +2576,25 @@
           "note": "Wie der Bericht den Aposteln zunächst erscheint (24,11)."
         }
       ],
-      "keyTakeaway": "Bei Tagesanbruch finden die Frauen das Grab geöffnet und hören die Botschaft, dass Jesus auferstanden ist; sie berichten den Elf davon, und Petrus sieht die Leinentücher."
+      "keyTakeaway": "Bei Tagesanbruch finden die Frauen das Grab geöffnet und hören die Botschaft, dass Jesus auferstanden ist; sie berichten den Elf davon, und Petrus sieht die Leinentücher.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus lebt"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesus begegnet zwei Jüngern auf dem Weg nach Emmaus"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Der Auferstandene erscheint seinen Jüngern"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "Jesus kehrt zu seinem Vater zurück"
+        }
+      ]
     }
   ]
 }

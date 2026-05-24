@@ -194,7 +194,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 ## 6. Nordische, griechische und römische Götter  
 **Einfach erklärt:** Viele Kulturen haben viele „Götter”, aber die Bibel sagt, sie sind Götzen oder dämonische Täuschungen.  
 
-- **(Psalm 96,5)** – „Alle Götter der Völker sind nichtig.”  
+- **(Psalmen 96,5)** – „Alle Götter der Völker sind nichtig.”  
 
 - **1. Korinther 8,5–6** – Ein Gott, der Vater, und ein Herr, Jesus Christus.  
 
@@ -207,7 +207,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 - **(Römer 1,22–23)** – Sie vertauschten die Herrlichkeit Gottes mit Bildern.  
 
 
-**Schlussfolgerung (Schrift):** Götter der Völker sind Götzen (Ps 96,5), falscher Gottesdienst mit Satan verbunden (Offb 13,4). Jesus bekräftigt seine Einheit mit dem Vater (Joh 10,30). Paulus nennt die griechisch-römischen Götter „nichtig“ (Apg 14,15).  
+**Schlussfolgerung (Schrift):** Götter der Völker sind Götzen (Psalmen 96,5), falscher Gottesdienst mit Satan verbunden (Offb 13,4). Jesus bekräftigt seine Einheit mit dem Vater (Joh 10,30). Paulus nennt die griechisch-römischen Götter „nichtig“ (Apg 14,15).  
 
 ---  
 
@@ -229,7 +229,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 
 - **(Exodus 20,3)** – „Du sollst keine anderen Götter neben mir haben.”  
 
-- **(Psalm 96,5)** – „Alle Götter der Völker sind nichtig, aber der HERR hat die Himmel gemacht.”  
+- **(Psalmen 96,5)** – „Alle Götter der Völker sind nichtig, aber der HERR hat die Himmel gemacht.”  
 
 - **(Jesaja 42,8)** – „Ich bin der HERR, das ist mein Name; und meine Ehre gebe ich keinem anderen.”  
 
@@ -237,9 +237,9 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 
 **Kontext für heutige Leser:**  
 
-Wenn Gott sagt, dass er „seine Ehre nicht teilt” (Jesaja 42,8), ist das weder kleinlich noch unsicher. Es ist Schutz. Götzen anzubeten bedeutet, auf Dinge zu vertrauen, die nicht retten können, und die Schrift sagt, dass solche Anbetung die Tür zu dämonischer Verführung öffnet (1. Korinther 10,20). Gott allein verdient Ehre, weil er allein der Schöpfer ist (Psalm 96,5); er allein kann Leben, Vergebung und Liebe schenken.  
+Wenn Gott sagt, dass er „seine Ehre nicht teilt” (Jesaja 42,8), ist das weder kleinlich noch unsicher. Es ist Schutz. Götzen anzubeten bedeutet, auf Dinge zu vertrauen, die nicht retten können, und die Schrift sagt, dass solche Anbetung die Tür zu dämonischer Verführung öffnet (1. Korinther 10,20). Gott allein verdient Ehre, weil er allein der Schöpfer ist (Psalmen 96,5); er allein kann Leben, Vergebung und Liebe schenken.  
 
-**Schlussfolgerung (Schrift):** Hinduistische Praktiken zeigen Hingabe an viele Götter, aber die Bibel erklärt, dass Götzen machtlos sind (Psalm 96,5) und Opfer an sie Opfer an Dämonen sind (1. Korinther 10,20). Gott besteht auf alleiniger Anbetung nicht aus menschlicher Eifersucht, sondern aus Liebe; nur er kann retten, schützen und bewahren.  
+**Schlussfolgerung (Schrift):** Hinduistische Praktiken zeigen Hingabe an viele Götter, aber die Bibel erklärt, dass Götzen machtlos sind (Psalmen 96,5) und Opfer an sie Opfer an Dämonen sind (1. Korinther 10,20). Gott besteht auf alleiniger Anbetung nicht aus menschlicher Eifersucht, sondern aus Liebe; nur er kann retten, schützen und bewahren.  
 
 ---  
 
@@ -290,7 +290,7 @@ Der Koran ehrt Jesus (*ʿĪsā*) als Propheten, leugnet jedoch seine Kreuzigung 
 - Viele Muslime behaupten, die Bibel sei verfälscht worden.
 
 
-### Antworten auf häufige Einwände:
+## Antworten auf häufige Einwände:
 
 ### Einwand 1: Die Bibel wurde verfälscht
 Der Koran selbst bekräftigt die Tora und das Evangelium als echte Offenbarungen.
@@ -315,16 +315,16 @@ Die Bibel bezeugt ihre eigene Bewahrung.
 **(1. Petrus 1:25)**
 > „Aber das Wort des Herrn bleibt in Ewigkeit.“
 
-### **Logische Konsequenz:** Wenn Muslime behaupten, die Tora (Altes Testament) und das Evangelium (Neues Testament) seien textlich verfälscht, widerspricht diese Haltung **dem Koran selbst**, der sie „Rechtleitung und Licht“ nennt und Muhammad sogar anweist, ihre Leser zu befragen (siehe Verse oben). Historisch richtete sich die frühe muslimische Polemik auf **Fehlinterpretation** (*taḥrīf al-maʿnā*), nicht auf Textverfälschung (*taḥrīf an-naṣṣ*). Die **Textverfälschungs-These verhärtete sich später**, um Spannungen zu lösen, nachdem Widersprüche im Inhalt und in der Überlieferung des Korans bemerkt wurden.
+**Logische Konsequenz:** Wenn Muslime behaupten, die Tora (Altes Testament) und das Evangelium (Neues Testament) seien textlich verfälscht, widerspricht diese Haltung **dem Koran selbst**, der sie „Rechtleitung und Licht“ nennt und Muhammad sogar anweist, ihre Leser zu befragen (siehe Verse oben). Historisch richtete sich die frühe muslimische Polemik auf **Fehlinterpretation** (*taḥrīf al-maʿnā*), nicht auf Textverfälschung (*taḥrīf an-naṣṣ*). Die **Textverfälschungs-These verhärtete sich später**, um Spannungen zu lösen, nachdem Widersprüche im Inhalt und in der Überlieferung des Korans bemerkt wurden.
 
 ### Historische Handschriftenlage: Bibel vs. Koran
 
-### Die Bibel
+#### Die Bibel
 - **Altes Testament:** Die Schriftrollen vom Toten Meer (3.–1. Jh. v. Chr.) bestätigen die Stabilität der Hebräischen Bibel. Der Große Jesajarolle etwa entspricht weitgehend den späteren masoretischen Texten wie dem Aleppo-Kodex und dem Codex Leningradensis, abgesehen von kleineren orthographischen Unterschieden.
 
 - **Neues Testament:** Es existieren Tausende griechische Handschriften, darunter sehr frühe Fragmente wie Papyrus P52 (~125 n. Chr., aus dem Johannesevangelium), P66 und P75 (2.–3. Jh.). Vollständige Codices wie der Codex Sinaiticus (4. Jh.) stimmen mit diesen überein. Mit über 5.000 Handschriften ist der Text des Neuen Testaments mit bemerkenswerter Genauigkeit rekonstruierbar.
 
-### Der Koran
+#### Der Koran
 - Frühe Muslime fürchteten den Verlust des Korans, nachdem viele Auswendiglerner in der Schlacht von Yamāma gefallen waren. Kalif ʿUthmān schuf eine offizielle Rezension im Quraisch-Dialekt und ließ alle abweichenden Kodizes verbrennen.
 
 - Hadith-Quellen berichten von fehlenden Versen:
@@ -414,12 +414,12 @@ Selbst Historiker, die das Christentum ablehnten, erkannten Jesu Kreuzigung als 
 
 - **(Johannes 14:16–17)** – Jesus betet zum Vater, verheißt den Geist und zeigt drei Personen, die ein Gott sind.
 
-### Die Dreieinigkeit sind nicht drei Götter, sondern ein Gott in drei Personen.
+Die Dreieinigkeit sind nicht drei Götter, sondern ein Gott in drei Personen.
 
 
 ### *Einwand 5: „Es gibt keine Varianten des Korans. Nur Schiiten behaupten das. Der Islam hat sich seit Mohammed kein bisschen verändert.“*
 
-### Das ist historisch falsch. Die Belege sind überwältigend:
+Das ist historisch falsch. Die Belege sind überwältigend:
 
 - Kanonische Hadithe geben fehlende Verse zu.
 
@@ -433,14 +433,14 @@ Selbst Historiker, die das Christentum ablehnten, erkannten Jesu Kreuzigung als 
 
 - Sahih al-Buchārī 4987: „ʿUthmān sandte in jede muslimische Provinz eine Abschrift dessen, was sie geschrieben hatten, und befahl, dass alle anderen koranischen Materialien … verbrannt werden.“
 
-### Wenn es nie Varianten des Korans gab, warum war das Verbrennen nötig?
+Wenn es nie Varianten des Korans gab, warum war das Verbrennen nötig?
 
-### Bibel-Vergleich: Die Schriftrollen vom Toten Meer (150 v. Chr.–70 n. Chr.) und der Codex Leningradensis (1008 n. Chr.) zeigen über 1.000 Jahre treuer Bewahrung mit nur kleineren Schreibvarianten. Das Neue Testament besitzt 5.000+ griechische Handschriften; keine Lehre geht verloren. Der Koran hat weniger Handschriften, eine gezielte Standardisierung und zugegebene fehlende Verse.
+**Bibel-Vergleich:** Die Schriftrollen vom Toten Meer (150 v. Chr.–70 n. Chr.) und der Codex Leningradensis (1008 n. Chr.) zeigen über 1.000 Jahre treuer Bewahrung mit nur kleineren Schreibvarianten. Das Neue Testament besitzt 5.000+ griechische Handschriften; keine Lehre geht verloren. Der Koran hat weniger Handschriften, eine gezielte Standardisierung und zugegebene fehlende Verse.
 
 
 ### *Einwand 6: „Man kann den Koran nicht einfach lesen. Man braucht Hadithe und Gelehrte für den Kontext.“*
 
-### Das erzeugt eine Falle: Es bedeutet, der Koran sei aus sich heraus nicht ausreichend, obwohl er behauptet, klare Rechtleitung zu sein.
+Das erzeugt eine Falle: Es bedeutet, der Koran sei aus sich heraus nicht ausreichend, obwohl er behauptet, klare Rechtleitung zu sein.
 
 Koran 16:89 (Sahih International)
 
@@ -450,30 +450,30 @@ Koran 6:114 (Sahih International)
 
 > „Soll ich denn einen anderen Richter als Allah suchen, wo er es ist, der zu euch das Buch detailliert herabgesandt hat?“
 
-### *Wenn der Koran wirklich eine in sich erklärte, ausreichende „Erklärung für alle Dinge“ ist, warum müssen Laien dann von endlosen Ketten von Hadithen und Gelehrten abhängig sein? Dieser Widerspruch zeigt, dass das Buch nicht ist, was es behauptet.*
+*Wenn der Koran wirklich eine in sich erklärte, ausreichende „Erklärung für alle Dinge“ ist, warum müssen Laien dann von endlosen Ketten von Hadithen und Gelehrten abhängig sein? Dieser Widerspruch zeigt, dass das Buch nicht ist, was es behauptet.*
 
-### Die Bibel bekräftigt demgegenüber Genügsamkeit und Klarheit:
+Die Bibel bekräftigt demgegenüber Genügsamkeit und Klarheit:
 
-### (2. Timotheus 3:16–17)
+**(2. Timotheus 3:16–17)**
 
 > „Alle Schrift ist von Gott eingegeben und nützlich zur Lehre, zur Überführung, zur Zurechtweisung, zur Unterweisung in der Gerechtigkeit, damit der Mensch Gottes richtig sei, zu jedem guten Werk ausgerüstet.“
 
 
 ### *Einwand 7: „Geschichte ist voreingenommen. Jesus wurde zwar gekreuzigt, aber wir glauben, er starb nicht; er ging in den Himmel.“*
 
-### Dieser Einwand bricht sowohl unter der Schrift als auch unter der weltlichen Geschichte zusammen:
+Dieser Einwand bricht sowohl unter der Schrift als auch unter der weltlichen Geschichte zusammen:
 
-### Biblische Prophetie und Zeugnis:
+**Biblische Prophetie und Zeugnis:**
 
-### (Jesaja 53:5)
+**(Jesaja 53:5)**
 
 > „Doch er wurde um unserer Übertretungen willen durchbohrt, um unserer Missetaten willen zerschlagen; die Strafe lag auf ihm zu unserem Frieden, und durch seine Wunden sind wir geheilt.“
 
-### (Johannes 19:33–34)
+**(Johannes 19:33–34)**
 
 > „Als sie aber zu Jesus kamen und sahen, dass er schon gestorben war, brachen sie ihm die Beine nicht; sondern einer der Soldaten durchbohrte mit einem Speer seine Seite, und sogleich kam Blut und Wasser heraus.“
 
-### Weltliche Historiker:
+**Weltliche Historiker:**
 
 - Tacitus (*Annalen* 15,44) – „Christus, von dem der Name seinen Ursprung hat, erlitt während der Herrschaft des Tiberius durch … Pontius Pilatus die äußerste Strafe.“
 
@@ -483,7 +483,7 @@ Koran 6:114 (Sahih International)
 
 ### Rettung: Gesetz vs. Gnade
 
-### Sicht des Islam auf die Rettung
+#### Sicht des Islam auf die Rettung
 Im Islam hängt die Rettung vom Gleichgewicht der Taten ab. Gute Werke müssen die schlechten überwiegen, und letztlich kann Allah Barmherzigkeit gewähren oder versagen.
 
 **Koran 23:102–103 (Sahih International)**
@@ -491,7 +491,7 @@ Im Islam hängt die Rettung vom Gleichgewicht der Taten ab. Gute Werke müssen d
 
 Das spiegelt ein werksbasiertes System der Rettung wider, gemessen an Gesetz und Taten.
 
-### Das Gesetz in der Bibel
+#### Das Gesetz in der Bibel
 Die Bibel zeigt, dass das Gesetz heilig ist und Gottes Maßstäbe offenbart, aber kein Mensch das Gesetz vollkommen gehalten hat. Nur Jesus lebte ohne Sünde.
 
 **(Römer 3:20)**
@@ -512,7 +512,7 @@ Die Bibel zeigt, dass das Gesetz heilig ist und Gottes Maßstäbe offenbart, abe
 **(Hebräer 4:15)**
 > „Denn wir haben nicht einen Hohenpriester, der nicht Mitleid haben könnte mit unseren Schwachheiten, sondern einen, der in allem versucht worden ist in gleicher Weise wie wir, doch ohne Sünde.“
 
-### Gnade durch Jesus
+#### Gnade durch Jesus
 Das Evangelium verkündet die Rettung als Geschenk der Gnade durch den Glauben an Christus, nicht durch Werke.
 
 **(Epheser 2:8–9)**
@@ -527,7 +527,7 @@ Das Evangelium verkündet die Rettung als Geschenk der Gnade durch den Glauben a
 **Kernaussage:** Der Islam lehrt Rettung durch Gesetz und Werke; die Bibel zeigt, dass das Gesetz alle verurteilt, aber auf Christus weist, der allein es vollkommen hielt. Rettung gibt es nur aus Gnade durch den Glauben an Jesus.
 
 
-### Das Verhalten Mohammeds gemessen am Gesetz des Mose
+**Das Verhalten Mohammeds gemessen am Gesetz des Mose**
 
 Die Tora gab klare sexuelle, zwischenmenschliche und moralische Gebote. An ihnen gemessen, verfehlt sich Mohammeds Verhalten.
 
@@ -588,7 +588,7 @@ Die Bibel lehrt das Gegenteil: Jesus ist der ewige Sohn Gottes, gekreuzigt und a
 **(Jesaja 53:5)**
 > „Er ist um unserer Übertretungen willen durchbohrt … durch seine Striemen sind wir geheilt.“
 
-**(Psalm 22:16–18)**
+**(Psalmen 22:16–18)**
 > „… sie durchbohrten meine Hände und meine Füße … sie teilen meine Kleider unter sich und werfen das Los über mein Gewand.“
 
 **(Johannes 3:16)**
@@ -643,7 +643,7 @@ Im Gegensatz dazu erlaubte Mohammed die Vergewaltigung von Gefangenen ohne diese
 
 ---
 
-### Mohammeds persönliche Sonderrechte (Sure 33)
+**Mohammeds persönliche Sonderrechte (Sure 33)**
 
 Sure 33 gewährt Mohammed besondere Ausnahmen und Privilegien.
 
@@ -683,7 +683,7 @@ Der Widerspruch ist auffällig: „zu schüchtern“, um Gäste zum Gehen zu bit
 > „Der Sohn des Menschen ist nicht gekommen, um sich dienen zu lassen, sondern um zu dienen und sein Leben zu geben als Lösegeld für viele.“
 
 
-### Widersprüche und Auslassungen im Koran
+**Widersprüche und Auslassungen im Koran**
 
 Der Islam lehrt, der Koran sei vollkommen und widerspruchslos. Doch bereits im Text und in der islamischen Überlieferung finden sich Konflikte und fehlendes Material.
 
@@ -704,7 +704,7 @@ Zusammengenommen beschreibt Sure 41 acht Tage, nicht sechs. Die Bibel ist konsis
 **Koran 5:90 (Sahih International)**
 > „O ihr, die ihr glaubt, berauschende Getränke … sind ein Gräuel von Satans Werk; meidet es …“
 
-Die Lehre ändert sich im Lauf der Zeit. Die Bibel verurteilt beständig Trunksucht, erlaubt aber Wein in Maßen (Psalm 104:15; Epheser 5:18).
+Die Lehre ändert sich im Lauf der Zeit. Die Bibel verurteilt beständig Trunksucht, erlaubt aber Wein in Maßen (Psalmen 104:15; Epheser 5:18).
 
 ### 3. Gewalt vs. Frieden
 **Koran 2:256 (Sahih International)**
@@ -742,7 +742,7 @@ Der Koran leugnet und bejaht Jesu Tod an verschiedenen Stellen. Die Bibel ist ko
 **(1. Korinther 15:3–4)**
 > „… dass Christus für unsere Sünden gestorben ist … begraben wurde … und am dritten Tag auferweckt worden ist …“
 
-### Weltliche Historiker bestätigen die Kreuzigung:
+**Weltliche Historiker bestätigen die Kreuzigung:**
 - **Tacitus, Annalen 15,44:** „Christus … erlitt die äußerste Strafe während der Regierung des Tiberius durch Pontius Pilatus.“
 
 - **Josephus, Altertümer 18,3,3:** „… Pilatus … verurteilte ihn zum Kreuz.“
@@ -782,7 +782,7 @@ Das Gesetz deckt die Sünde auf, aber nur Christus hat es vollkommen erfüllt.
 **(Johannes 11:25–26)**
 > „Ich bin die Auferstehung und das Leben; wer an mich glaubt, wird leben, auch wenn er stirbt … Glaubst du das?“
 
-### **Kernaussage:**
+**Kernaussage:**
 
 **Der Islam bekennt einen Gott, lehnt aber den Sohn ab. Jesus sagt, er allein ist der Weg (Johannes 14:6). Wer den Sohn leugnet, hat auch den Vater nicht (1. Johannes 2:23). Die Schrift sagt, Gottes Wort bleibt ewig (Jesaja 40:8); es ist nicht verfälscht. Kreuzigung, Auferstehung und Göttlichkeit Jesu sind im Alten Testament vorausgesagt und im Neuen bestätigt.**
 
@@ -792,7 +792,7 @@ Das Gesetz deckt die Sünde auf, aber nur Christus hat es vollkommen erfüllt.
 
 ### Eine Frage von „Kontext“ und Konsequenz
 
-### **Behauptung:** „Alles im Koran ist von Allah. Ein Engel bringt es, der Prophet wiederholt es. Der Kontext ist alles.“
+**Behauptung:** „Alles im Koran ist von Allah. Ein Engel bringt es, der Prophet wiederholt es. Der Kontext ist alles.“
 
 - Wenn *Kontext alles* ist, wo ist dann der Kontext, der Mohammed erlaubt, sich dem moralischen Gesetz Gottes durch Mose zu entziehen?
 
@@ -800,7 +800,7 @@ Das Gesetz deckt die Sünde auf, aber nur Christus hat es vollkommen erfüllt.
 
 **Fazit:** Wenn „Kontext alles“ ist, dann ist die **Übereinstimmung** mit Gottes bereits offenbartem moralischem Gesetz der erste, nicht verhandelbare Kontext.
 
-### * Die Tora ist hier unmissverständlich:
+Die Tora ist hier unmissverständlich:
 
 > **3. Mose 18:15**: „Die Blöße deiner Schwiegertochter sollst du nicht aufdecken; sie ist die Frau deines Sohnes.“
 
@@ -927,39 +927,6 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 ---
 
-### Literaturverzeichnis
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., und Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (ursprünglich 19. Jahrhundert).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Hintergrund zur Saturnverehrung und zum Saturnalienfest.)
-
-- Jewish Encyclopedia (1906). „Magen David.“ Funk and Wagnalls. (Details zur späten Übernahme des Hexagramms als jüdisches Symbol, insbesondere in Prag und Europa des 19. Jahrhunderts.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Zur Rolle des Hexagramms in der jüdischen Mystik des Mittelalters.)
-
----  
-
 ## 10. 三教合基: Der Weg im Fleisch  
 *Die drei Lehren in Christus vereint: der Dao, der Fleisch wurde*  
 
@@ -980,7 +947,7 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 - **(Johannes 14,6)** – „Ich bin der Weg, die Wahrheit und das Leben.“  
 
-- **(Psalm 46,10)** – „Seid still und erkennt, dass ich Gott bin.“  
+- **(Psalmen 46,10)** – „Seid still und erkennt, dass ich Gott bin.“  
 
 - *Bedeutung:* Jesus ist der lebendige Dao, der Weg im Fleisch.  
 
@@ -1006,6 +973,8 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 ---  
 
 ## 11. Falsche Propheten und verfälschte Evangelien
+
+Für eine tiefere systematische Behandlung jeder unten aufgeführten Bewegung (Gründer, strukturelle Kritik, interne Aussteiger, weiterführende Lektüre) siehe die Notizdatei **Falsche Lehre**. Die Diskussion hier konzentriert sich auf die prophetisch-gefälschte Dimension im Rahmen des unsichtbaren Kriegs; jene Datei behandelt die vollständige theologische Architektur jeder Bewegung.
 
 **Einfacher Sinn:** Nicht jeder, der im Namen Gottes redet, redet wirklich von Gott. Die Schrift gibt Prüfungen, um falsche Propheten, falsche Apostel und verfälschte Evangelien zu entlarven.
 
@@ -1172,11 +1141,11 @@ Frühe Christen lehnten es ab – Die Konzilien und Glaubensbekenntnisse dienten
 
 ---
 
-### **Biblische Schlussfolgerung:** Gott befiehlt uns, jeden Lehrer und jeden Geist zu prüfen (1. Johannes 4:1–3).
+**Biblische Schlussfolgerung:** Gott befiehlt uns, jeden Lehrer und jeden Geist zu prüfen (1. Johannes 4:1–3).
 
 ---
 
-### Theologische Systeme, die den klaren Sinn der Schrift umgestalten
+**Theologische Systeme, die den klaren Sinn der Schrift umgestalten**
 
 Nicht jede Lehrdifferenz ist ein falsches Evangelium. Die oben genannten Gruppen leugnen Christi Gottheit, fügen neue Schriften hinzu oder erfinden neue Götter. Das folgende System ist grundlegend anders; es bewegt sich innerhalb des orthodoxen Christentums, bekennt die Dreieinigkeit und die Autorität der Schrift und wird von Millionen aufrichtiger, historisch verwurzelter Gläubiger vertreten. Es wird hier nicht als falsche Religion aufgeführt, sondern als theologisches Rahmenwerk, das unserer Lesart nach den klaren Sinn der Schrift in wesentlichen Punkten umgestaltet.
 
@@ -1204,7 +1173,7 @@ Indem alle Ereignisse gleichermaßen als vorherbestimmt betrachtet werden, läuf
 
 ---
 
-### **Biblische Schlussfolgerung (Fortsetzung):** Gott befiehlt uns, jeden Lehrer und jeden Geist zu prüfen (1. Johannes 4:1–3).
+**Biblische Schlussfolgerung (Fortsetzung):** Gott befiehlt uns, jeden Lehrer und jeden Geist zu prüfen (1. Johannes 4:1–3).
 
 Wenn eine Botschaft verändert, wer Jesus ist, das Evangelium verfälscht oder Sünde mit Hautfarbe verbindet, lehne sie ab (5. Mose 13:1–5) (5. Mose 18:20–22) (Galater 1:8–9) (Matthäus 7:15–20).
 
@@ -1243,5 +1212,39 @@ Halte fest am Glauben, der ein für alle Mal den Heiligen überliefert wurde (Ju
 - **(Philipper 2,10–11)** – Jedes Knie beugt sich vor Jesus.
 
 **Schlussfolgerung (Schrift):** Christus hat die Werke des Teufels zerstört (1 Joh 3,8). Die Gläubigen überwinden durch sein Blut (Offb 12,11). Am Ende wird die ganze Schöpfung Jesus als Herrn bekennen (Phil 2,11).  
+
+---
+
+## 14. Literaturverzeichnis
+
+- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
+
+- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
+
+- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
+
+- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
+
+- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
+
+- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
+
+- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
+
+- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
+
+- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
+
+- Keil, C. F., und Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (ursprünglich 19. Jahrhundert).
+
+- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
+
+- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
+
+- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Hintergrund zur Saturnverehrung und zum Saturnalienfest.)
+
+- Jewish Encyclopedia (1906). „Magen David.“ Funk and Wagnalls. (Details zur späten Übernahme des Hexagramms als jüdisches Symbol, insbesondere in Prag und Europa des 19. Jahrhunderts.)
+
+- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Zur Rolle des Hexagramms in der jüdischen Mystik des Mittelalters.)
 
 ---

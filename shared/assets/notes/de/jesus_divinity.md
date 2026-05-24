@@ -210,11 +210,11 @@ Und
 
 # Der Schrei der Verlassenheit Jesu
 
-Ein entscheidender Moment zum Verständnis der Göttlichkeit Jesu ist sein Schrei vom Kreuz: *„Mein Gott, mein Gott, warum hast du mich verlassen?“* (Matthäus 27:46) (Markus 15:34). Auf den ersten Blick klingt das nach Schwäche oder sogar nach Trennung von Gott, doch in Wahrheit zeigt es sowohl seine volle Menschlichkeit als auch seine göttliche Sendung. Indem er die erste Zeile von Psalm 22 (Psalm 22:1) zitierte, lenkte Jesus die Aufmerksamkeit auf den ganzen Psalm, ein Abschnitt, der mit tiefem Klagen beginnt, aber mit Sieg und weltweitem Gotteslob endet. Dieser Schrei ist kein Verlust der Göttlichkeit; es ist der Sohn Gottes, der vollständig in unsere menschliche Erfahrung von Sünde und Gericht eintritt, um sie zu erlösen.
+Ein entscheidender Moment zum Verständnis der Göttlichkeit Jesu ist sein Schrei vom Kreuz: *„Mein Gott, mein Gott, warum hast du mich verlassen?“* (Matthäus 27:46) (Markus 15:34). Auf den ersten Blick klingt das nach Schwäche oder sogar nach Trennung von Gott, doch in Wahrheit zeigt es sowohl seine volle Menschlichkeit als auch seine göttliche Sendung. Indem er die erste Zeile von Psalm 22 (Psalmen 22:1) zitierte, lenkte Jesus die Aufmerksamkeit auf den ganzen Psalm, ein Abschnitt, der mit tiefem Klagen beginnt, aber mit Sieg und weltweitem Gotteslob endet. Dieser Schrei ist kein Verlust der Göttlichkeit; es ist der Sohn Gottes, der vollständig in unsere menschliche Erfahrung von Sünde und Gericht eintritt, um sie zu erlösen.
 
 ---
 
-Als Jesus schrie *„Mein Gott, mein Gott, warum hast du mich verlassen?“* (Matthäus 27:46) (Markus 15:34), **zitierte er die erste Zeile von Psalm 22** (Psalm 22:1). In der jüdischen Praxis wies das Aussprechen der ersten Zeile den Hörer auf **den gesamten Psalm** hin, nicht nur auf die Anfangsworte.
+Als Jesus schrie *„Mein Gott, mein Gott, warum hast du mich verlassen?“* (Matthäus 27:46) (Markus 15:34), **zitierte er die erste Zeile von Psalm 22** (Psalmen 22:1). In der jüdischen Praxis wies das Aussprechen der ersten Zeile den Hörer auf **den gesamten Psalm** hin, nicht nur auf die Anfangsworte.
 
 ---
 
@@ -224,7 +224,7 @@ Als Jesus schrie *„Mein Gott, mein Gott, warum hast du mich verlassen?“* (Ma
 
 - **Beschreibt die Kreuzigungsszene**: Spott, durchbohrte Hände und Füße, geteilte Kleider.
 
-- **Endet im Triumph**: Gott rettet, die Nationen beten an, und der Psalm schließt mit *„Er hat es getan“* (Psalm 22:31) (ähnlich zu Jesu Worten *„Es ist vollbracht“* (Johannes 19:30)).
+- **Endet im Triumph**: Gott rettet, die Nationen beten an, und der Psalm schließt mit *„Er hat es getan“* (Psalmen 22:31) (ähnlich zu Jesu Worten *„Es ist vollbracht“* (Johannes 19:30)).
 
 ---
 
@@ -271,11 +271,11 @@ Beispiele beinhalten:
 
 - Verraten für dreißig Silberstücke (Sacharja 11:12–13; erfüllt in Matthäus 26:15).
 
-- Durchbohrte Hände und Füße, Lose geworfen über Seine Kleider (Psalm 22:16–18; erfüllt in Johannes 19:23–24).
+- Durchbohrte Hände und Füße, Lose geworfen über Seine Kleider (Psalmen 22:16–18; erfüllt in Johannes 19:23–24).
 
 - Getötet, bevor der Tempel zerstört wurde (Daniel 9:26; erfüllt in den Jahren 30–33 n. Chr.).
 
-- Auferstanden am dritten Tag (Psalm 16:10; Hosea 6:2; erfüllt in Lukas 24:46).
+- Auferstanden am dritten Tag (Psalmen 16:10; Hosea 6:2; erfüllt in Lukas 24:46).
 
 **Um sich diese Wahrscheinlichkeiten vorzustellen:**
 

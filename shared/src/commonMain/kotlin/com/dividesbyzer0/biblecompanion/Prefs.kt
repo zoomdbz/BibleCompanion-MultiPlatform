@@ -31,6 +31,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setCrossBookTts(enabled: Boolean)
     suspend fun setCollapsedStories(json: String)
     suspend fun setAutoContinueTts(enabled: Boolean)
+    suspend fun setTtsReadIntros(enabled: Boolean)
     suspend fun setNotesExpandedSections(json: String)
     suspend fun setVotdDismissedDate(date: String)
     suspend fun setAiSearch(enabled: Boolean)

@@ -211,6 +211,13 @@
     <string name="feast_fast_esther">Fasten Esthers</string>
     <string name="feast_fast_esther_ref">Ester 4:16</string>
 
+    <!-- Essenische Feste / Tempelrolle / Jubiläen -->
+    <string name="feast_new_wine_name">Fest des Neuen Weines</string>
+    <string name="feast_new_oil_name">Fest des Neuen Öls</string>
+    <string name="feast_memorial_q2_name">Zweiter Gedenktag</string>
+    <string name="feast_memorial_q4_name">Vierter Gedenktag</string>
+    <string name="essene_calendar_label">Essenisch</string>
+
     <!-- Prophecy -->
     <string name="prophecy">Prophetie</string>
     <string name="prophecy_subtitle">Entdecke die prophetischen Fäden, die sich durch die Schrift ziehen; von messianischer Erfüllung bis zu den Festen der Offenbarung.</string>
@@ -256,9 +263,9 @@
     <string name="feast_typology_passover_meaning">Kreuzigung</string>
     <string name="feast_typology_unleavened_name">Ungesäuerte Brote (Nisan 15)</string>
     <string name="feast_typology_unleavened_meaning">Grablegung / Sündlosigkeit</string>
-    <string name="feast_typology_firstfruits_name">Erstlinge (Nisan 16)</string>
+    <string name="feast_typology_firstfruits_name">Erstlinge</string>
     <string name="feast_typology_firstfruits_meaning">Auferstehung</string>
-    <string name="feast_typology_weeks_name">Wochenfest / Pfingsten (Siwan 6)</string>
+    <string name="feast_typology_weeks_name">Wochenfest / Pfingsten</string>
     <string name="feast_typology_weeks_meaning">Heiliger Geist gegeben</string>
     <string name="feast_typology_trumpets_name">Posaunenfest (Tischri 1)</string>
     <string name="feast_typology_trumpets_meaning">Wiederkunft / Entrückung</string>
@@ -302,4 +309,7 @@
     <string name="verse_label">Vers</string>
     <string name="verses_label">Verse</string>
     <string name="search_searching">Suche läuft…</string>
+    <string name="intro_short">Intro</string>
+    <string name="intro_section_header">Buch-Einführung</string>
+    <string name="tts_read_intros">TTS liest Buch-Einführungen</string>
 </resources>

@@ -24,7 +24,7 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
 
 - **(2 Corinthiens 12:2–4)** – «Enlevé jusqu’au troisième ciel… dans le paradis.»  
 
-**Conclusion (Écriture):** L’Écriture distingue plusieurs cieux : le ciel visible (Gn 1:8), le domaine du combat spirituel (Dn 10:13; Ép 6:12), et la demeure de Dieu (2 Co 12:2–4).  
+**Conclusion (Écriture):** L’Écriture distingue plusieurs cieux : le ciel visible (Genèse 1:8), le domaine du combat spirituel (Daniel 10:13; Ép 6:12), et la demeure de Dieu (2 Co 12:2–4).  
 
 ---  
 
@@ -37,7 +37,7 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
 
 - **(Colossiens 2:15)** – «Il a dépouillé les dominations et les autorités.»  
 
-**Conclusion (Écriture):** Des dominations invisibles s’opposent au peuple de Dieu (Dn 10:20; Ép 6:12), mais Christ les a dépouillées de leur pouvoir (Col 2:15).  
+**Conclusion (Écriture):** Des dominations invisibles s’opposent au peuple de Dieu (Daniel 10:20; Ép 6:12), mais Christ les a dépouillées de leur pouvoir (Colossiens 2:15).  
 
 ---  
 
@@ -66,7 +66,7 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
   - **(Éphésiens 6:12)** – «Nous luttons contre les esprits du mal.»  
 
 **Pourquoi certains liés et d’autres libres?**  
-1. Certains ont franchi des limites interdites (Gn 6:1–4) et furent immédiatement liés.  
+1. Certains ont franchi des limites interdites (Genèse 6:1–4) et furent immédiatement liés.  
 
 2. D’autres continuent à agir jusqu’au jugement final.  
 
@@ -131,7 +131,7 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
 
 - **(Ésaïe 46:1–2)** – «Bel s’incline, Nebo se courbe.»  
 
-**Conclusion (Écriture):** L’idolâtrie est condamnée (Lv 18:21; Jr 32:35). Israël en Baal fut une rébellion (Jg 2:11–13). Dieu juge les dieux d’Égypte et de Babylone (Ex 12:12; És 46:1–2).  
+**Conclusion (Écriture):** L’idolâtrie est condamnée (Lv 18:21; Jr 32:35). Israël en Baal fut une rébellion (Jg 2:11–13). Dieu juge les dieux d’Égypte et de Babylone (Exode 12:12; És 46:1–2).  
 
 **Développement pour plus de clarté :**  
 
@@ -164,7 +164,7 @@ Même les saints les plus fidèles sont des exemples de foi, non des médiateurs
 
 - **(2 Corinthiens 11:14)** – «Satan lui-même se déguise en ange de lumière.»  
 
-**Conclusion (Écriture):** La sorcellerie et la divination sont des abominations (Dt 18:10–12), punies de mort dans la Loi (Ex 22:18), combattues par les apôtres (Ac 16:16–18) et jugées à la fin (Ap 21:8).  
+**Conclusion (Écriture):** La sorcellerie et la divination sont des abominations (Deutéronome 18:10–12), punies de mort dans la Loi (Exode 22:18), combattues par les apôtres (Actes 16:16–18) et jugées à la fin (Ap 21:8).  
 
 ---  
 
@@ -181,7 +181,7 @@ Même les saints les plus fidèles sont des exemples de foi, non des médiateurs
 
 **Explication:** Babylone et Assyrie héritèrent leurs dieux de Sumer (Enlil, Inanna, Marduk). Les prophètes dénoncèrent les dieux de Babylone (És 46:1; Jr 50:2).  
 
-**Conclusion (Écriture):** Babel = rébellion (Gn 11), Néphilim = unions interdites (Gn 6), sacrifices = aux démons (Dt 32).  
+**Conclusion (Écriture):** Babel = rébellion (Genèse 11), Néphilim = unions interdites (Genèse 6), sacrifices = aux démons (Deutéronome 32).  
 
 ---  
 
@@ -200,7 +200,7 @@ Même les saints les plus fidèles sont des exemples de foi, non des médiateurs
 
 - **(Romains 1:22–23)** – Ils ont changé la gloire de Dieu en images.  
 
-**Conclusion (Écriture):** Les dieux des nations sont des idoles (Ps 96:5), l’adoration fausse est liée à Satan (Ap 13:4). Jésus affirme son unité avec le Père (Jn 10:30). Paul appelle les dieux gréco-romains «choses vaines» (Ac 14:15).  
+**Conclusion (Écriture):** Les dieux des nations sont des idoles (Psaumes 96:5), l’adoration fausse est liée à Satan (Ap 13:4). Jésus affirme son unité avec le Père (Jean 10:30). Paul appelle les dieux gréco-romains «choses vaines» (Actes 14:15).  
 
 ---  
 
@@ -283,7 +283,7 @@ Le Coran honore Jésus (*ʿĪsā*) comme prophète, mais nie sa crucifixion et s
 - Beaucoup de musulmans prétendent que la Bible a été corrompue.
 
 
-### Réponses aux objections courantes :
+## Réponses aux objections courantes :
 
 ### Objection 1 : La Bible a été corrompue
 Le Coran lui-même affirme que la Torah et l’Évangile sont des révélations authentiques.
@@ -308,16 +308,16 @@ La Bible affirme sa propre préservation.
 **(1 Pierre 1:25)**
 > « Mais la parole du Seigneur demeure éternellement. »
 
-### **Conséquence logique :** Si des musulmans soutiennent que la Torah (Ancien Testament) et l’Évangile (Nouveau Testament) sont corrompus textuellement, cette position **contredit le Coran lui-même**, qui les appelle « direction et lumière » et ordonne même à Mahomet de consulter leurs lecteurs (voir les versets ci-dessus). Historiquement, la polémique musulmane ancienne s’est concentrée sur la **mauvaise interprétation** (*taḥrīf al-maʿnā*), non sur la corruption textuelle (*taḥrīf al-naṣṣ*). **L’affirmation d’une corruption du texte s’est durcie plus tard** comme moyen de résoudre des tensions, une fois relevées des contradictions dans le contenu et la transmission du Coran.
+**Conséquence logique :** Si des musulmans soutiennent que la Torah (Ancien Testament) et l’Évangile (Nouveau Testament) sont corrompus textuellement, cette position **contredit le Coran lui-même**, qui les appelle « direction et lumière » et ordonne même à Mahomet de consulter leurs lecteurs (voir les versets ci-dessus). Historiquement, la polémique musulmane ancienne s’est concentrée sur la **mauvaise interprétation** (*taḥrīf al-maʿnā*), non sur la corruption textuelle (*taḥrīf al-naṣṣ*). **L’affirmation d’une corruption du texte s’est durcie plus tard** comme moyen de résoudre des tensions, une fois relevées des contradictions dans le contenu et la transmission du Coran.
 
 ### Données historiques des manuscrits : Bible vs Coran
 
-### La Bible
+#### La Bible
 - **Ancien Testament :** Les Manuscrits de la mer Morte (IIIᵉ–Iᵉ siècle av. J.-C.) confirment la stabilité de la Bible hébraïque. Par exemple, le Grand Rouleau d’Ésaïe correspond de près aux textes massorétiques ultérieurs comme le Codex d’Alep et le Codex de Léningrad, à part des différences mineures d’orthographe.
 
 - **Nouveau Testament :** Des milliers de manuscrits grecs existent, dont des fragments très anciens comme le Papyrus P52 (~125 apr. J.-C., de l’Évangile de Jean), P66 et P75 (IIᵉ–IIIᵉ siècle). Des codex complets comme le Codex Sinaïticus (IVᵉ siècle) s’alignent sur ces témoins. Avec plus de 5 000 manuscrits, le texte du Nouveau Testament est reconstituable avec une remarquable précision.
 
-### Le Coran
+#### Le Coran
 - Les premiers musulmans craignaient la perte du Coran après la mort de nombreux mémorisateurs à la bataille de Yamāma. Le calife ʿUthmān produisit une recension officielle en dialecte qurayshite et ordonna de brûler tous les codex variant.
 
 - Les sources hadithiques mentionnent des versets manquants :
@@ -407,12 +407,12 @@ Même les historiens qui rejetaient le christianisme reconnaissaient la crucifix
 
 - **(Jean 14:16–17)** – Jésus prie le Père, promet l’Esprit, montrant trois Personnes unies en un seul Dieu.
 
-### La Trinité n’est pas trois dieux, mais un seul Dieu en trois Personnes.
+La Trinité n’est pas trois dieux, mais un seul Dieu en trois Personnes.
 
 
 ### *Objection 5 : « Il n’y a pas de variantes du Coran. Seuls les chiites prétendent cela. L’islam n’a pas changé d’un iota depuis Mahomet. »*
 
-### C’est historiquement faux. Les preuves sont accablantes :
+C’est historiquement faux. Les preuves sont accablantes :
 
 - Les hadiths canoniques admettent des versets manquants.
 
@@ -426,14 +426,14 @@ Même les historiens qui rejetaient le christianisme reconnaissaient la crucifix
 
 - **Sahih al-Bukhari 4987** : « ʿUthmān envoya à chaque province musulmane un exemplaire de ce qu’ils avaient copié, et ordonna que tous les autres matériaux coraniques… soient brûlés. »
 
-### Si le Coran n’avait jamais eu de variantes, pourquoi fallait-il brûler ?
+Si le Coran n’avait jamais eu de variantes, pourquoi fallait-il brûler ?
 
-### Comparaison avec la Bible : Les Manuscrits de la mer Morte (150 av. J.-C.–70 apr. J.-C.) et le Codex de Léningrad (1008 apr. J.-C.) montrent plus de 1 000 ans de préservation fidèle avec seulement des différences mineures d’orthographe. Le Nouveau Testament compte plus de 5 000 manuscrits grecs ; aucune doctrine n’est perdue. Le Coran possède moins de manuscrits, une normalisation délibérée, et des versets manquants admis.
+**Comparaison avec la Bible :** Les Manuscrits de la mer Morte (150 av. J.-C.–70 apr. J.-C.) et le Codex de Léningrad (1008 apr. J.-C.) montrent plus de 1 000 ans de préservation fidèle avec seulement des différences mineures d’orthographe. Le Nouveau Testament compte plus de 5 000 manuscrits grecs ; aucune doctrine n’est perdue. Le Coran possède moins de manuscrits, une normalisation délibérée, et des versets manquants admis.
 
 
 ### *Objection 6 : « On ne peut pas simplement lire le Coran. Il faut des hadiths et des savants pour le contexte. »*
 
-### Cela crée un piège : cela suppose que le Coran n’est pas suffisant en lui-même, alors même qu’il prétend être une guidance claire.
+Cela crée un piège : cela suppose que le Coran n’est pas suffisant en lui-même, alors même qu’il prétend être une guidance claire.
 
 **Coran 16:89 (Sahih International)**
 
@@ -443,30 +443,30 @@ Même les historiens qui rejetaient le christianisme reconnaissaient la crucifix
 
 > « Chercherai-je un autre juge qu’Allah, alors que c’est Lui qui a fait descendre vers vous le Livre détaillé ? »
 
-### *Si le Coran est vraiment une « explication de toute chose » suffisante en elle-même, pourquoi les laïcs doivent-ils dépendre de chaînes sans fin de hadiths et de savants ? Cette contradiction montre que le livre n’est pas ce qu’il prétend être.*
+*Si le Coran est vraiment une « explication de toute chose » suffisante en elle-même, pourquoi les laïcs doivent-ils dépendre de chaînes sans fin de hadiths et de savants ? Cette contradiction montre que le livre n’est pas ce qu’il prétend être.*
 
-### La Bible, en revanche, affirme sa suffisance et sa clarté :
+La Bible, en revanche, affirme sa suffisance et sa clarté :
 
-### (2 Timothée 3:16–17)
+**(2 Timothée 3:16–17)**
 
 > « Toute Écriture est inspirée de Dieu, et utile pour enseigner, pour convaincre, pour corriger, pour instruire dans la justice, afin que l’homme de Dieu soit accompli et propre à toute bonne œuvre. »
 
 
 ### *Objection 7 : « L’histoire est partiale. Jésus a été crucifié, mais nous croyons qu’il n’est pas mort ; il est monté au ciel. »*
 
-### Cette objection s’effondre à la fois devant l’Écriture et l’histoire séculière :
+Cette objection s’effondre à la fois devant l’Écriture et l’histoire séculière :
 
-### Prophétie et témoignage bibliques :
+**Prophétie et témoignage bibliques :**
 
-### (Ésaïe 53:5)
+**(Ésaïe 53:5)**
 
 > « Mais il était blessé pour nos transgressions, brisé pour nos iniquités ; le châtiment qui nous donne la paix est tombé sur lui, et c’est par ses meurtrissures que nous sommes guéris. »
 
-### (Jean 19:33–34)
+**(Jean 19:33–34)**
 
 > « S’étant approchés de Jésus et l’ayant vu déjà mort, ils ne lui rompirent pas les jambes ; mais un des soldats lui perça le côté avec une lance, et aussitôt il sortit du sang et de l’eau. »
 
-### Historiens séculiers :
+**Historiens séculiers :**
 
 - Tacite (*Annales* 15.44) – « Christus, dont le nom a pris son origine, subit la peine extrême sous le règne de Tibère, aux mains de… Ponce Pilate. »
 
@@ -476,7 +476,7 @@ Même les historiens qui rejetaient le christianisme reconnaissaient la crucifix
 
 ### Le salut : Loi vs Grâce
 
-### La vision islamique du salut
+#### La vision islamique du salut
 En islam, le salut dépend de l’équilibre des œuvres. Les bonnes actions doivent l’emporter sur les mauvaises, et en fin de compte Allah peut accorder ou refuser sa miséricorde.
 
 **Coran 23:102–103 (Sahih International)**
@@ -484,7 +484,7 @@ En islam, le salut dépend de l’équilibre des œuvres. Les bonnes actions doi
 
 Cela reflète un système de salut fondé sur les œuvres, mesuré par la loi et les actes.
 
-### La Loi dans la Bible
+#### La Loi dans la Bible
 La Bible montre que la Loi est sainte et révèle les normes de Dieu, mais aucun être humain ne l’a gardée parfaitement. Seul Jésus a vécu sans péché.
 
 **(Romains 3:20)**
@@ -505,7 +505,7 @@ La Bible montre que la Loi est sainte et révèle les normes de Dieu, mais aucun
 **(Hébreux 4:15)**
 > « Car nous n’avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesse ; au contraire, il a été tenté comme nous en toutes choses, sans commettre de péché. »
 
-### La grâce par Jésus
+#### La grâce par Jésus
 L’Évangile proclame le salut comme un don de grâce par la foi en Christ, non par les œuvres.
 
 **(Éphésiens 2:8–9)**
@@ -520,7 +520,7 @@ L’Évangile proclame le salut comme un don de grâce par la foi en Christ, non
 **Point clé :** L’islam enseigne le salut par la Loi et les œuvres ; la Bible montre que la Loi condamne tous mais renvoie au Christ, qui seul l’a parfaitement accomplie. Le salut n’est que par la grâce, au moyen de la foi en Jésus.
 
 
-### La conduite de Mahomet mesurée à la Loi de Moïse
+**La conduite de Mahomet mesurée à la Loi de Moïse**
 
 La Torah a donné des lois claires sur le plan sexuel, relationnel et moral. Mesurée à ces lois, la conduite de Mahomet est déficiente.
 
@@ -635,7 +635,7 @@ Par contraste, Mahomet a permis le viol de captives sans ces protections. La Tor
 
 ---
 
-### Privilèges personnels de Mahomet (Sourate 33)
+**Privilèges personnels de Mahomet (Sourate 33)**
 
 La Sourate 33 accorde à Mahomet des exemptions et des privilèges uniques.
 
@@ -675,7 +675,7 @@ L’incohérence est frappante : « trop pudique » pour renvoyer des invités, 
 > « Le Fils de l’homme est venu, non pour être servi, mais pour servir et donner sa vie comme la rançon de beaucoup. »
 
 
-### Contradictions et omissions dans le Coran
+**Contradictions et omissions dans le Coran**
 
 L’islam enseigne que le Coran est parfait et sans contradiction. Pourtant, dans le texte et la tradition islamique, on observe des conflits et des lacunes.
 
@@ -734,7 +734,7 @@ Le Coran nie et affirme la mort de Jésus dans des passages différents. La Bibl
 **(1 Corinthiens 15:3–4)**
 > « Christ est mort pour nos péchés… il a été enseveli… il est ressuscité le troisième jour… »
 
-### Des historiens séculiers confirment la crucifixion :
+**Des historiens séculiers confirment la crucifixion :**
 - **Tacite, Annales 15.44** : « Christus… subit la peine extrême sous Tibère, de la main de Ponce Pilate. »
 
 - **Josèphe, Antiquités 18.3.3** : « … Pilate le condamna à la croix. »
@@ -774,7 +774,7 @@ La Loi met en évidence le péché, mais seul Christ l’a parfaitement accompli
 **(Jean 11:25–26)**
 > « Je suis la résurrection et la vie… Crois-tu cela ? »
 
-### **Point clé :**
+**Point clé :**
 
 **L’islam confesse un seul Dieu, mais rejette le Fils. Jésus dit qu’il est l’unique Chemin (Jean 14:6). Nier le Fils, c’est nier le Père (1 Jean 2:23). L’Écriture déclare que la Parole de Dieu demeure à jamais (Ésaïe 40:8) ; elle n’a pas été corrompue. La crucifixion, la résurrection et la divinité de Jésus sont annoncées dans l’Ancien Testament et confirmées dans le Nouveau.**
 
@@ -784,7 +784,7 @@ La Loi met en évidence le péché, mais seul Christ l’a parfaitement accompli
 
 ### Une question de « contexte » et de cohérence
 
-### **Affirmation :** « Tout dans le Coran vient d’Allah. Un ange le transmet, le prophète le répète. Le contexte est tout. »
+**Affirmation :** « Tout dans le Coran vient d’Allah. Un ange le transmet, le prophète le répète. Le contexte est tout. »
 
 - Si *le contexte est tout*, où est le contexte qui permet à Mahomet de s’exempter de la loi morale de Dieu donnée par Moïse ?
 
@@ -792,7 +792,7 @@ La Loi met en évidence le péché, mais seul Christ l’a parfaitement accompli
 
 **Conclusion :** Si « le contexte est tout », alors la **cohérence** avec la loi morale déjà révélée par Dieu est le premier contexte non négociable.
 
-### * La Torah est catégorique ici :
+La Torah est catégorique ici :
 
 > **Lévitique 18:15** : « Tu ne découvriras point la nudité de ta belle-fille : c’est la femme de ton fils. »
 
@@ -918,39 +918,6 @@ L’« Étoile de David » (hexagramme) ne se trouve nulle part dans l’Écritu
 
 ---
 
-### Bibliographie
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., et Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (XIXe siècle original).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexte sur le culte de Saturne et les Saturnales.)
-
-- Jewish Encyclopedia (1906). « Magen David. » Funk and Wagnalls. (Détails sur l’adoption tardive de l’hexagramme comme symbole juif, en particulier à Prague et en Europe du XIXe siècle.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sur le rôle de l’hexagramme dans le mysticisme juif médiéval.)
-
----  
-
 ## 10. 三教合基 : Le Dao fait chair  
 *Les trois enseignements unis en Christ : le Dao fait chair*  
 
@@ -988,11 +955,13 @@ L’« Étoile de David » (hexagramme) ne se trouve nulle part dans l’Écritu
 
 - **(Colossiens 1:17)** – «En lui tout subsiste.»  
 
-**Conclusion (Écriture) :** La vertu confucéenne (Pr 22:6; Mt 22:39), l’harmonie taoïste (Jn 1:1; Ps 46:10) et la compassion bouddhiste (Jn 15:13; Mt 11:28; Ap 21:4) trouvent leur plénitude en Christ, le Dao fait chair.  
+**Conclusion (Écriture) :** La vertu confucéenne (Proverbes 22:6; Mt 22:39), l’harmonie taoïste (Jean 1:1; Ps 46:10) et la compassion bouddhiste (Jean 15:13; Mt 11:28; Ap 21:4) trouvent leur plénitude en Christ, le Dao fait chair.  
 
 ---  
 
 ## 11. Faux Prophètes et Évangiles Contrefaits
+
+Pour un traitement systématique plus approfondi de chaque mouvement listé ci-dessous (fondateurs, critiques structurelles, dissidents internes, lectures recommandées), consulte le fichier de notes **Fausse Doctrine**. La discussion ici se concentre sur la dimension prophétique-contrefaite dans le cadre de la guerre invisible ; ce fichier couvre l’architecture théologique complète de chaque mouvement.
 
 **Sens simple :** Tous ceux qui parlent au nom de Dieu ne parlent pas vraiment de Dieu. L’Écriture donne des tests pour démasquer les faux prophètes, les faux apôtres et les évangiles contrefaits.
 
@@ -1159,11 +1128,11 @@ Les premiers chrétiens l’ont rejeté – Les conciles et les credo n’étaie
 
 ---
 
-### **Conclusion biblique :** Dieu nous commande d’éprouver tout enseignant et tout esprit (1 Jean 4:1–3).
+**Conclusion biblique :** Dieu nous commande d’éprouver tout enseignant et tout esprit (1 Jean 4:1–3).
 
 ---
 
-### Systèmes théologiques qui reformulent le sens clair de l’Écriture
+**Systèmes théologiques qui reformulent le sens clair de l’Écriture**
 
 Tout désaccord doctrinal n’est pas un faux évangile. Les groupes ci-dessus nient la divinité du Christ, ajoutent de nouvelles écritures ou inventent de nouveaux dieux. Le système ci-dessous est catégoriquement différent; il opère au sein du christianisme orthodoxe, affirme la Trinité et l’autorité de l’Écriture, et est tenu par des millions de croyants sincères et historiquement fondés. Il est inclus ici non comme une fausse religion, mais comme un cadre théologique qui, dans notre lecture, reformule le sens clair de l’Écriture sur des points essentiels.
 
@@ -1191,7 +1160,7 @@ En traitant tous les événements comme étant également décrétés, le calvin
 
 ---
 
-### **Conclusion biblique (suite) :** Dieu nous commande d’éprouver tout enseignant et tout esprit (1 Jean 4:1–3).
+**Conclusion biblique (suite) :** Dieu nous commande d’éprouver tout enseignant et tout esprit (1 Jean 4:1–3).
 
 Si un message change qui est Jésus, change l’évangile, ou lie le péché à la couleur de la peau, rejette-le (Deutéronome 13:1–5) (Deutéronome 18:20–22) (Galates 1:8–9) (Matthieu 7:15–20).
 
@@ -1215,7 +1184,7 @@ Tiens fermement à la foi qui a été transmise une fois pour toutes aux saints 
 
 - **(Colossiens 1:13)** – Transportés dans le royaume de son Fils.  
 
-**Conclusion (Écriture) :** Jésus apporte l’épée et la division (Mt 10:34). Jean 8 montre les enfants de Dieu contre les enfants du diable. Luc 11:23 souligne l’absence de neutralité. Col 1:13 confirme le transfert des croyants dans le royaume du Fils.  
+**Conclusion (Écriture) :** Jésus apporte l’épée et la division (Matthieu 10:34). Jean 8 montre les enfants de Dieu contre les enfants du diable. Luc 11:23 souligne l’absence de neutralité. Col 1:13 confirme le transfert des croyants dans le royaume du Fils.  
 
 ---  
 
@@ -1229,6 +1198,40 @@ Tiens fermement à la foi qui a été transmise une fois pour toutes aux saints 
 
 - **(Philippiens 2:10–11)** – «Tout genou fléchira et toute langue confessera.»  
 
-**Conclusion (Écriture) :** Christ a détruit les œuvres du diable (1 Jn 3:8). Les croyants vainquent par son sang (Ap 12:11). À la fin, toute la création confessera Jésus comme Seigneur (Ph 2:11).  
+**Conclusion (Écriture) :** Christ a détruit les œuvres du diable (1 Jean 3:8). Les croyants vainquent par son sang (Ap 12:11). À la fin, toute la création confessera Jésus comme Seigneur (Ph 2:11).  
+
+---
+
+## 14. Bibliographie
+
+- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
+
+- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
+
+- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
+
+- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
+
+- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
+
+- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
+
+- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
+
+- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
+
+- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
+
+- Keil, C. F., et Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (XIXe siècle original).
+
+- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
+
+- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
+
+- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexte sur le culte de Saturne et les Saturnales.)
+
+- Jewish Encyclopedia (1906). « Magen David. » Funk and Wagnalls. (Détails sur l’adoption tardive de l’hexagramme comme symbole juif, en particulier à Prague et en Europe du XIXe siècle.)
+
+- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sur le rôle de l’hexagramme dans le mysticisme juif médiéval.)
 
 ---

@@ -43,7 +43,21 @@
           "note": "Categorias bíblicas de limpo versus impuro; aqui usadas moral e espiritualmente."
         }
       ],
-      "keyTakeaway": "Paulo instrui Tito a nomear anciãos qualificados e silenciar falsos mestres em Creta, contrastando a pureza da fé com a incredulidade corrompida."
+      "keyTakeaway": "Paulo instrui Tito a nomear anciãos qualificados e silenciar falsos mestres em Creta, contrastando a pureza da fé com a incredulidade corrompida.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Deveres e qualificações dos ministros"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Os falsos mestres e as falsas doutrinas"
+        }
+      ]
     },
     {
       "id": "titus-2",
@@ -85,7 +99,17 @@
           "note": "Refere-se à esperança futura da gloriosa manifestação de Cristo."
         }
       ],
-      "keyTakeaway": "Paulo instrui Tito a ensinar diferentes grupos a viverem de forma piedosa, fundamentados na graça e na redenção de Cristo, que voltará novamente."
+      "keyTakeaway": "Paulo instrui Tito a ensinar diferentes grupos a viverem de forma piedosa, fundamentados na graça e na redenção de Cristo, que voltará novamente.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os deveres das várias classes de pessoas crentes"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Os gloriosos benefícios da graça salvadora de Cristo"
+        }
+      ]
     },
     {
       "id": "titus-3",
@@ -132,7 +156,17 @@
           "note": "Termo para quem causa facções; Paulo instrui a rejeição após advertências repetidas."
         }
       ],
-      "keyTakeaway": "Paulo exorta os crentes a viverem em paz, lembrando a misericórdia salvadora de Deus, e a evitarem controvérsias inúteis e pessoas divisivas."
+      "keyTakeaway": "Paulo exorta os crentes a viverem em paz, lembrando a misericórdia salvadora de Deus, e a evitarem controvérsias inúteis e pessoas divisivas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A obediência às autoridades. A salvação pela graça leva às boas obras"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "As recomendações particulares. As saudações finais. A bênção"
+        }
+      ]
     }
   ]
 }

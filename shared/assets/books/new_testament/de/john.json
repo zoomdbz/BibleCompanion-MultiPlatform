@@ -93,7 +93,29 @@
           "note": "1,5 kann „hat nicht überwunden“ oder „hat nicht begriffen/verstanden“ bedeuten; beide Bedeutungen sind belegt."
         }
       ],
-      "keyTakeaway": "Der Prolog stellt das Wort als Leben und Licht vor; er beschreibt das Zeugnis des Johannes, die Gabe, durch den Glauben an seinen Namen Kinder Gottes zu werden, und das Fleischwerden des Wortes voll Gnade und Wahrheit."
+      "keyTakeaway": "Der Prolog stellt das Wort als Leben und Licht vor; er beschreibt das Zeugnis des Johannes, die Gabe, durch den Glauben an seinen Namen Kinder Gottes zu werden, und das Fleischwerden des Wortes voll Gnade und Wahrheit.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus und sein Zeuge: Johannes der Täufer Jesus Christus – Gottes Wort an die Welt"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Johannes der Täufer weist auf Christus hin"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Das Opferlamm Gottes"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Die ersten Jünger von Jesus"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Jesus beruft Philippus und überzeugt Nathanael"
+        }
+      ]
     },
     {
       "id": "john-2",
@@ -160,7 +182,21 @@
           "note": "Verwalter/Festbeamter, der das Festmahl beaufsichtigt (2,8–9)."
         }
       ],
-      "keyTakeaway": "Bei einer Hochzeit in Galiläa weist Jesus an, Reinigungskrüge zu füllen; das Wasser wird zu Wein, und dieses erste Zeichen wird festgehalten."
+      "keyTakeaway": "Bei einer Hochzeit in Galiläa weist Jesus an, Reinigungskrüge zu füllen; das Wasser wird zu Wein, und dieses erste Zeichen wird festgehalten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus gibt sich in Wort und Tat als Sohn Gottes zu erkennen Jesus auf der Hochzeit in Kana"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesus jagt die Händler aus dem Tempel"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Von wem hat Jesus seine Vollmacht?"
+        }
+      ]
     },
     {
       "id": "john-3",
@@ -238,7 +274,17 @@
           "note": "Leben der kommenden Welt; wiederkehrendes Thema im Johannesevangelium (3,15–16)."
         }
       ],
-      "keyTakeaway": "Nikodemus kommt nachts; Jesus spricht über die Geburt von oben, Wasser und Geist, den Wind/Geist und die Erhöhung des Menschensohnes; der Abschnitt verkündet Gottes Liebe und das Geschenk des ewigen Lebens."
+      "keyTakeaway": "Nikodemus kommt nachts; Jesus spricht über die Geburt von oben, Wasser und Geist, den Wind/Geist und die Erhöhung des Menschensohnes; der Abschnitt verkündet Gottes Liebe und das Geschenk des ewigen Lebens.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus und der Pharisäer Nikodemus"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Johannes der Täufer tritt hinter Jesus zurück"
+        }
+      ]
     },
     {
       "id": "john-4",
@@ -334,7 +380,17 @@
           "note": "In 4,25 erläuterter Titel."
         }
       ],
-      "keyTakeaway": "An Jakobs Brunnen bittet Jesus eine samaritische Frau um Wasser, spricht von lebendigem Wasser und vom Anbeten in Geist und Wahrheit und offenbart ihr seine Identität."
+      "keyTakeaway": "An Jakobs Brunnen bittet Jesus eine samaritische Frau um Wasser, spricht von lebendigem Wasser und vom Anbeten in Geist und Wahrheit und offenbart ihr seine Identität.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Die Frau am Brunnen"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Jesus heilt ein schwer krankes Kind"
+        }
+      ]
     },
     {
       "id": "john-5",
@@ -401,6 +457,10 @@
         {
           "ref": "5:4",
           "text": "(Denn ein Engel fuhr herab zu seiner Zeit in den Teich und bewegte das Wasser.) Welcher nun zuerst, nachdem das Wasser bewegt war, hineinstieg, der ward gesund, mit welcherlei Seuche er behaftet war."
+        },
+        {
+          "ref": "John 5:4",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 4 ein, der den Teich von Betesda erklärt: „denn ein Engel des Herrn fuhr von Zeit zu Zeit hinab in den Teich und bewegte das Wasser. Wer nun zuerst hineinstieg, nachdem das Wasser sich bewegt hatte, der wurde gesund, mit welcher Krankheit er auch behaftet war.“ Er fehlt im Codex Sinaiticus, Vaticanus und den ältesten griechischen Zeugen. Es scheint sich um eine später hinzugefügte volkstümliche Überlieferung zu handeln, die den Kommentar des Kranken in V. 7 erklären sollte."
         }
       ],
       "translationNotes": [
@@ -418,6 +478,20 @@
           "term": "Sabbat",
           "original": "Hebrew: שַׁבָּת (šabāt) — Greek (NT): σάββατον (sάbbaton) — Aramaic (Syriac): ܫܒܬܐ (šbtʾ)",
           "note": "Siebter Ruhetag; Schauplatz der Heilung und des Streits (5,9–10, 16)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der Kranke am Teich Betesda"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Woher nimmt Jesus das Recht für sein Handeln?"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Glaubwürdige Zeugen für den Sohn Gottes"
         }
       ]
     },
@@ -522,7 +596,29 @@
           "note": "Zeitlicher Festmarker (6,4)."
         }
       ],
-      "keyTakeaway": "Nahe dem Passah speist Jesus etwa fünftausend Menschen mit fünf Broten und zwei Fischen; danach kommt er zu den Jüngern, auf dem Meer wandelnd, und sagt: „Ich bin es; fürchtet euch nicht.\""
+      "keyTakeaway": "Nahe dem Passah speist Jesus etwa fünftausend Menschen mit fünf Broten und zwei Fischen; danach kommt er zu den Jüngern, auf dem Meer wandelnd, und sagt: „Ich bin es; fürchtet euch nicht.\"",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Fünftausend werden satt"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesus geht auf dem Wasser"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Wo ist Jesus?"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Das Brot des Lebens"
+        },
+        {
+          "beforeVerse": 58,
+          "text": "Jesus stellt seine Jünger vor die Wahl"
+        }
+      ]
     },
     {
       "id": "john-7",
@@ -602,7 +698,29 @@
           "note": "Jesus sagt, seine Zeit sei noch nicht erfüllt (7,6–8)."
         }
       ],
-      "keyTakeaway": "Vor dem Laubhüttenfest drängen Jesu Brüder ihn, sich öffentlich zu zeigen; er reist später heimlich an, während die Menge still über seine Identität diskutiert."
+      "keyTakeaway": "Vor dem Laubhüttenfest drängen Jesu Brüder ihn, sich öffentlich zu zeigen; er reist später heimlich an, während die Menge still über seine Identität diskutiert.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "»Zeig, was du kannst!«"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jesus auf dem Laubhüttenfest in Jerusalem"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Jesus im Widerstreit der Meinungen"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Leben spendendes Wasser"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Nikodemus spricht für Jesus"
+        }
+      ]
     },
     {
       "id": "john-8",
@@ -683,7 +801,29 @@
           "note": "Jesu Aussage, die an 5. Mose 17,7 erinnert, wonach Zeugen die Bestrafung einleiten (8,7)."
         }
       ],
-      "keyTakeaway": "Eine Frau wird Jesus zum Urteil vorgeführt; nach seinen Worten gehen die Ankläger weg, und er sagt ihr: „Auch ich verurteile dich nicht; geh hin und sündige von nun an nicht mehr.\""
+      "keyTakeaway": "Eine Frau wird Jesus zum Urteil vorgeführt; nach seinen Worten gehen die Ankläger weg, und er sagt ihr: „Auch ich verurteile dich nicht; geh hin und sündige von nun an nicht mehr.\"",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus vergibt der Ehebrecherin"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Das Licht, das zum Leben führt"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "»Wohin ich gehen werde, dahin könnt ihr mir nicht folgen«"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Wer sündigt, ist ein Sklave der Sünde"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "Jesus, ein Gotteslästerer?"
+        }
+      ]
     },
     {
       "id": "john-9",
@@ -751,7 +891,21 @@
           "note": "Substanz aus Speichel und Staub (9,6)."
         }
       ],
-      "keyTakeaway": "Jesus bezeichnet sich als das Licht der Welt, streicht dem Mann Schlamm auf die Augen, schickt ihn nach Siloam, und der Mann kehrt sehend zurück."
+      "keyTakeaway": "Jesus bezeichnet sich als das Licht der Welt, streicht dem Mann Schlamm auf die Augen, schickt ihn nach Siloam, und der Mann kehrt sehend zurück.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus heilt einen Blinden"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Das Verhör der Pharisäer"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Die Blindheit der Sehenden"
+        }
+      ]
     },
     {
       "id": "john-10",
@@ -825,7 +979,17 @@
           "note": "Vollmachtsaussagen über sein Leben (10,17–18)."
         }
       ],
-      "keyTakeaway": "Jesus bezeichnet sich als die Tür und den guten Hirten, der sein Leben hingibt und es wieder nimmt; er spricht von anderen Schafen sowie einer Herde und einem Hirten."
+      "keyTakeaway": "Jesus bezeichnet sich als die Tür und den guten Hirten, der sein Leben hingibt und es wieder nimmt; er spricht von anderen Schafen sowie einer Herde und einem Hirten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der gute Hirte"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jesus im Kreuzverhör"
+        }
+      ]
     },
     {
       "id": "john-11",
@@ -919,7 +1083,17 @@
           "note": "Beschreibung der Grabstätte (11,38–39)."
         }
       ],
-      "keyTakeaway": "Jesus geht nach Bethanien, spricht mit Martha und Maria, erklärt „Ich bin die Auferstehung und das Leben\", betet, ruft Lazarus aus dem Grab, und Lazarus kommt heraus."
+      "keyTakeaway": "Jesus geht nach Bethanien, spricht mit Martha und Maria, erklärt „Ich bin die Auferstehung und das Leben\", betet, ruft Lazarus aus dem Grab, und Lazarus kommt heraus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Auferweckung von Lazarus"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Einer soll für alle sterben"
+        }
+      ]
     },
     {
       "id": "john-12",
@@ -1001,7 +1175,29 @@
           "note": "Behälter für die Mittel der Gruppe (12,6)."
         }
       ],
-      "keyTakeaway": "Maria salbt Jesus mit kostbarem Nardenöl; Jesus verteidigt ihre Handlung und spricht von seinem Begräbnis; viele kommen, um sowohl Jesus als auch Lazarus zu sehen."
+      "keyTakeaway": "Maria salbt Jesus mit kostbarem Nardenöl; Jesus verteidigt ihre Handlung und spricht von seinem Begräbnis; viele kommen, um sowohl Jesus als auch Lazarus zu sehen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ein Vermögen für Jesus"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jesus wird als König empfangen"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "»Wir möchten Jesus kennen lernen!«"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Jesus spricht von seinem nahen Tod"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Nur wenige glauben"
+        }
+      ]
     },
     {
       "id": "john-13",
@@ -1071,7 +1267,25 @@
           "note": "Bezeichnung für das Muster, das Jesus gibt (13,15)."
         }
       ],
-      "keyTakeaway": "Beim Abendmahl wäscht Jesus den Jüngern die Füße und unterweist sie über das Vorbild, das er gegeben hat, sowie über die Seligkeit derer, die es befolgen."
+      "keyTakeaway": "Beim Abendmahl wäscht Jesus den Jüngern die Füße und unterweist sie über das Vorbild, das er gegeben hat, sowie über die Seligkeit derer, die es befolgen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus bereitet die Jünger auf seine Rückkehr zum Vater vor Jesus dient seinen Jüngern"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "»Einer von euch wird mich verraten«"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Das neue Gebot der Liebe"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Jesus kündigt seine Verleugnung durch Petrus an"
+        }
+      ]
     },
     {
       "id": "john-14",
@@ -1134,7 +1348,17 @@
           "note": "Verheissung, die an das Gebet in Jesu Namen geknüpft ist (14,13–14)."
         }
       ],
-      "keyTakeaway": "Jesus weist die Jünger an, sich nicht zu ängstigen, spricht von den vielen Wohnungen im Haus des Vaters, bezeichnet sich als den Weg, die Wahrheit und das Leben und verspricht, das zu tun, was in seinem Namen erbeten wird."
+      "keyTakeaway": "Jesus weist die Jünger an, sich nicht zu ängstigen, spricht von den vielen Wohnungen im Haus des Vaters, bezeichnet sich als den Weg, die Wahrheit und das Leben und verspricht, das zu tun, was in seinem Namen erbeten wird.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ohne Jesus kommt niemand zu Gott"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Vom Geist der Wahrheit"
+        }
+      ]
     },
     {
       "id": "john-15",
@@ -1193,7 +1417,17 @@
           "note": "Status, den Jesus gehorsamen Jüngern gibt (15,13–15)."
         }
       ],
-      "keyTakeaway": "Jesus verwendet das Bild vom Weinstock und den Reben, ruft zum Bleiben auf, um Frucht zu tragen, und gebietet den Jüngern, einander zu lieben."
+      "keyTakeaway": "Jesus verwendet das Bild vom Weinstock und den Reben, ruft zum Bleiben auf, um Frucht zu tragen, und gebietet den Jüngern, einander zu lieben.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der Weinstock und die Reben"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Womit Jünger von Jesus rechnen müssen"
+        }
+      ]
     },
     {
       "id": "john-16",
@@ -1258,7 +1492,21 @@
           "note": "Ausschluss-Begriff, verwendet in 16,2."
         }
       ],
-      "keyTakeaway": "Jesus bereitet die Jünger auf Hass und Verfolgung vor, spricht vom Zeugnis des Beistands und warnt vor Ausschluss und Gewalt, die im Namen Gottes verübt wird."
+      "keyTakeaway": "Jesus bereitet die Jünger auf Hass und Verfolgung vor, spricht vom Zeugnis des Beistands und warnt vor Ausschluss und Gewalt, die im Namen Gottes verübt wird.",
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Jesus lässt seine Jünger nicht allein zurück"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "»Eure Freude wird vollkommen sein«"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Lasst euch nicht entmutigen!"
+        }
+      ]
     },
     {
       "id": "john-17",
@@ -1316,7 +1564,21 @@
           "note": "Abgesondert durch die Wahrheit; „dein Wort ist Wahrheit“ (17,17)."
         }
       ],
-      "keyTakeaway": "Jesus betet für die Herrlichkeit, den Schutz vor dem Bösen, die Heiligung in der Wahrheit und die Einheit seiner Jünger und derer, die durch ihr Wort glauben werden."
+      "keyTakeaway": "Jesus betet für die Herrlichkeit, den Schutz vor dem Bösen, die Heiligung in der Wahrheit und die Einheit seiner Jünger und derer, die durch ihr Wort glauben werden.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus betet … … für sich selbst"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "… für seine Jünger"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "… für alle, die noch zum Glauben finden werden"
+        }
+      ]
     },
     {
       "id": "john-18",
@@ -1388,7 +1650,29 @@
           "note": "Bild, das Jesus für das ihm Bestimmte verwendet (18,11)."
         }
       ],
-      "keyTakeaway": "Jesus bezeichnet sich mit „Ich bin es\", wird verhaftet und verhört, und Petrus verleugnet ihn dreimal, bevor der Hahn kräht."
+      "keyTakeaway": "Jesus bezeichnet sich mit „Ich bin es\", wird verhaftet und verhört, und Petrus verleugnet ihn dreimal, bevor der Hahn kräht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Leiden, Tod und Auferstehung von Jesus Jesus stellt sich seinen Gegnern"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Petrus behauptet, Jesus nicht zu kennen"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Das Verhör vor dem Hohenpriester"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Petrus verleugnet Jesus noch einmal"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Jesus wird von Pilatus verhört"
+        }
+      ]
     },
     {
       "id": "john-19",
@@ -1462,7 +1746,25 @@
           "note": "Ortsname für den Richterstuhl (19,13)."
         }
       ],
-      "keyTakeaway": "Jesus wird gegeißelt und verspottet, Pilatus stellt ihn vor, das Verhör wird fortgesetzt und das Urteil wird an der Gabbatha gesprochen."
+      "keyTakeaway": "Jesus wird gegeißelt und verspottet, Pilatus stellt ihn vor, das Verhör wird fortgesetzt und das Urteil wird an der Gabbatha gesprochen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Das Todesurteil"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Die Kreuzigung"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "»Es ist vollbracht!«"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Jesus wird begraben"
+        }
+      ]
     },
     {
       "id": "john-20",
@@ -1530,7 +1832,25 @@
           "note": "Tuch, das auf Jesu Haupt gelegen hatte, separat zusammengefaltet (20,7)."
         }
       ],
-      "keyTakeaway": "Das Grab wird offen vorgefunden, die Leinentücher liegen zurück; Jesus ruft Maria beim Namen, beauftragt sie, seine Himmelfahrt anzukündigen, und sie berichtet, den Herrn gesehen zu haben."
+      "keyTakeaway": "Das Grab wird offen vorgefunden, die Leinentücher liegen zurück; Jesus ruft Maria beim Namen, beauftragt sie, seine Himmelfahrt anzukündigen, und sie berichtet, den Herrn gesehen zu haben.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus lebt"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jesus begegnet Maria aus Magdala"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Der Auferstandene erscheint seinen Jüngern"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Der Zweck dieses Buches"
+        }
+      ]
     },
     {
       "id": "john-21",
@@ -1592,7 +1912,21 @@
           "note": "Verben im dreifachen Gespräch zwischen Jesus und Petrus (21,15–17)."
         }
       ],
-      "keyTakeaway": "Jesus offenbart sich am See, bewirkt einen großen Fischfang, isst mit den Jüngern, befragt Petrus dreimal und unterweist ihn bezüglich der Herde, sagt „Folge mir nach\", äußert sich über den geliebten Jünger, und das Evangelium schließt mit einem Zeugnis."
+      "keyTakeaway": "Jesus offenbart sich am See, bewirkt einen großen Fischfang, isst mit den Jüngern, befragt Petrus dreimal und unterweist ihn bezüglich der Herde, sagt „Folge mir nach\", äußert sich über den geliebten Jünger, und das Evangelium schließt mit einem Zeugnis.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus begegnet den Jüngern am See Genezareth"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "»Liebst du mich?«"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Schlusswort"
+        }
+      ]
     }
   ]
 }

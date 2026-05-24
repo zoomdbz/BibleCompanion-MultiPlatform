@@ -48,7 +48,17 @@
           "note": "Significa 'ungido'. Mateus identifica Jesus com este título em 1:1-16."
         }
       ],
-      "keyTakeaway": "Mateus traça a genealogia de Jesus desde Abraão, Davi, o exílio e até José e Maria em três conjuntos de quatorze gerações."
+      "keyTakeaway": "Mateus traça a genealogia de Jesus desde Abraão, Davi, o exílio e até José e Maria em três conjuntos de quatorze gerações.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A genealogia de Jesus Cristo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "O nascimento de Jesus Cristo"
+        }
+      ]
     },
     {
       "id": "matthew-2",
@@ -103,7 +113,25 @@
           "note": "Sinal celestial visto pelos magos."
         }
       ],
-      "keyTakeaway": "Os magos seguem uma estrela até Belém, adoram o menino Jesus com presentes e evitam voltar a Herodes após serem avisados em um sonho."
+      "keyTakeaway": "Os magos seguem uma estrela até Belém, adoram o menino Jesus com presentes e evitam voltar a Herodes após serem avisados em um sonho.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A visita dos magos"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A fuga para o Egito"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "A matança dos inocentes"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "A volta do Egito"
+        }
+      ]
     },
     {
       "id": "matthew-3",
@@ -169,7 +197,21 @@
           "note": "Expressão de Mateus paralela a 'reino de Deus', respeitando o uso judaico."
         }
       ],
-      "keyTakeaway": "João prega o arrependimento e batiza no Jordão; Jesus é batizado, o Espírito desce e a voz de Deus o declara o Filho amado."
+      "keyTakeaway": "João prega o arrependimento e batiza no Jordão; Jesus é batizado, o Espírito desce e a voz de Deus o declara o Filho amado.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A pregação de João Batista ;"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "João dá testemunho de Cristo ; ;"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "O batismo de Jesus ; ;"
+        }
+      ]
     },
     {
       "id": "matthew-4",
@@ -227,7 +269,25 @@
           "note": "Fórmula que introduz citações das Escrituras."
         }
       ],
-      "keyTakeaway": "Jesus resiste três tentações com as Escrituras e recusa prestar adoração a qualquer outro que não seja Deus."
+      "keyTakeaway": "Jesus resiste três tentações com as Escrituras e recusa prestar adoração a qualquer outro que não seja Deus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A tentação de Jesus ;"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jesus volta para a Galileia ;"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A vocação de discípulos ;"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jesus prega por toda a Galileia e cura muitos enfermos"
+        }
+      ]
     },
     {
       "id": "matthew-5",
@@ -302,7 +362,45 @@
           "note": "Linguagem de semelhança/reconhecimento familiar."
         }
       ],
-      "keyTakeaway": "Jesus pronuncia bênçãos sobre aqueles que vivem de acordo com os caminhos de Deus, encerrando com a alegria em meio à perseguição."
+      "keyTakeaway": "Jesus pronuncia bênçãos sobre aqueles que vivem de acordo com os caminhos de Deus, encerrando com a alegria em meio à perseguição.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sermão do monte As bem-aventuranças"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Os discípulos, o sal da terra ;"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Os discípulos, a luz do mundo"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesus não veio revogar a Lei, mas cumprir"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesus completa o que foi dito aos antigos Do homicídio"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Do adultério"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Dos juramentos"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Da vingança"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Do amor ao próximo"
+        }
+      ]
     },
     {
       "id": "matthew-6",
@@ -373,7 +471,41 @@
           "note": "A oração pede livramento da tentação/prova e do 'maligno' (τοῦ πονηροῦ)."
         }
       ],
-      "keyTakeaway": "Dê, ore e jejue para os olhos do Pai, não para receber aplausos. Jesus ensina um modelo simples de oração e vincula receber o perdão a perdoar os outros."
+      "keyTakeaway": "Dê, ore e jejue para os olhos do Pai, não para receber aplausos. Jesus ensina um modelo simples de oração e vincula receber o perdão a perdoar os outros.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A prática da justiça Como se deve dar esmolas"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Como se deve orar"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A oração dominical"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Como jejuar"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Os tesouros no céu"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "A luz e as trevas"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Os dois senhores"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "A ansiosa solicitude pela vida"
+        }
+      ]
     },
     {
       "id": "matthew-7",
@@ -434,7 +566,37 @@
           "note": "A Regra de Ouro apresentada como seu resumo ético (7:12)."
         }
       ],
-      "keyTakeaway": "Recuse o julgamento condenatório; pratique o autoexame, o discernimento, a oração persistente e a Regra de Ouro que resume o chamado ético das Escrituras."
+      "keyTakeaway": "Recuse o julgamento condenatório; pratique o autoexame, o discernimento, a oração persistente e a Regra de Ouro que resume o chamado ético das Escrituras.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O juízo temerário é proibido ,"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Não deis o que é santo aos cães"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Jesus incita a orar"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "As duas estradas"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Os falsos profetas"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Os dois fundamentos"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "O fim do sermão do monte"
+        }
+      ]
     },
     {
       "id": "matthew-8",
@@ -500,7 +662,37 @@
           "note": "O relato usa ambos os termos na tradição; ambos indicam o subordinado do centurião em necessidade."
         }
       ],
-      "keyTakeaway": "Jesus cura pelo toque e pela palavra, até à distância, e cumpre a Escritura sobre carregar nossas enfermidades."
+      "keyTakeaway": "Jesus cura pelo toque e pela palavra, até à distância, e cumpre a Escritura sobre carregar nossas enfermidades.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A cura de um leproso ;"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "A cura do criado de um centurião"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A cura da sogra de Pedro ;"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Muitas outras curas ;"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jesus põe à prova os que querem segui-lo"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jesus acalma uma tempestade ;"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "A cura de dois endemoninhados gadarenos ;"
+        }
+      ]
     },
     {
       "id": "matthew-9",
@@ -565,7 +757,49 @@
           "note": "Jesus afirma autoridade delegada real, demonstrada pelo sinal da cura."
         }
       ],
-      "keyTakeaway": "Jesus associa publicamente uma cura visível à sua autoridade de perdoar pecados como o Filho do Homem."
+      "keyTakeaway": "Jesus associa publicamente uma cura visível à sua autoridade de perdoar pecados como o Filho do Homem.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A cura de um paralítico em Cafarnaum ;"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A vocação de Mateus ;"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jesus come com pecadores ;"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Do jejum ;"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "O pedido de um chefe a; a"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "A cura de uma mulher enferma Mc 5.24b-34; Lc 8.42b-48"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "A ressurreição da filha de Jairo ;"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "A cura de dois cegos"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "A cura de um mudo endemoninhado. A blasfêmia dos fariseus"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Jesus ia por toda parte fazendo o bem. A seara e os trabalhadores"
+        }
+      ]
     },
     {
       "id": "matthew-10",
@@ -634,7 +868,33 @@
           "note": "Demônios/espíritos impuros opostos ao governo de Deus."
         }
       ],
-      "keyTakeaway": "Jesus tem compaixão das multidões perdidas, pede oração por trabalhadores e designa os Doze com autoridade sobre demônios e doenças."
+      "keyTakeaway": "Jesus tem compaixão das multidões perdidas, pede oração por trabalhadores e designa os Doze com autoridade sobre demônios e doenças.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A escolha dos doze apóstolos Os seus nomes ;"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "As instruções para os doze ;"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "As admoestações"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Os estímulos"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "As dificuldades"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "As recompensas"
+        }
+      ]
     },
     {
       "id": "matthew-11",
@@ -691,7 +951,29 @@
           "note": "Linguagem de cumprimento de papel; Jesus enquadra João em termos proféticos sem mudar o nome de João."
         }
       ],
-      "keyTakeaway": "Jesus aponta suas obras como evidência para João, abençoa os que não se escandalizarem por sua causa, identifica João com o papel prometido de Elias e repreende uma geração que rejeita tanto João quanto a ele mesmo."
+      "keyTakeaway": "Jesus aponta suas obras como evidência para João, abençoa os que não se escandalizarem por sua causa, identifica João com o papel prometido de Elias e repreende uma geração que rejeita tanto João quanto a ele mesmo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus prega nas cidades João envia mensageiros a Jesus"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Jesus dá testemunho de João"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Ai das cidades impenitentes!"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Jesus, o Salvador dos humildes"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Vinde a mim"
+        }
+      ]
     },
     {
       "id": "matthew-12",
@@ -768,7 +1050,41 @@
           "note": "Citação de Oseias 6:6, corrigindo a condenação legalista."
         }
       ],
-      "keyTakeaway": "Jesus defende seus discípulos, ensina que a misericórdia vale mais que a condenação ritualista, declara senhorio sobre o sábado e cura nesse dia; os opositores começam a tramar sua morte."
+      "keyTakeaway": "Jesus defende seus discípulos, ensina que a misericórdia vale mais que a condenação ritualista, declara senhorio sobre o sábado e cura nesse dia; os opositores começam a tramar sua morte.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus é senhor do sábado ;"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "O homem da mão ressequida ;"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesus se retira"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "A cura de um endemoninhado cego e mudo. A blasfêmia dos fariseus. Jesus se defende ;"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Árvores e seus frutos"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "O sinal de Jonas"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "A estratégia de Satanás"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "A família de Jesus ;"
+        }
+      ]
     },
     {
       "id": "matthew-13",
@@ -852,7 +1168,57 @@
           "note": "Coisas ocultas que Deus revela sobre o reino."
         }
       ],
-      "keyTakeaway": "Jesus descreve as diferentes respostas à palavra e explica por que ensina em parábolas, pedindo que ouçam com atenção e produzam fruto."
+      "keyTakeaway": "Jesus descreve as diferentes respostas à palavra e explica por que ensina em parábolas, pedindo que ouçam com atenção e produzam fruto.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola do semeador ;"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "A explicação da parábola ;"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "A parábola do joio"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "A parábola do grão de mostarda ;"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A parábola do fermento"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Por que Jesus falou por parábolas"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "A explicação da parábola do joio"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "A parábola do tesouro escondido"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "A parábola da pérola"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "A parábola da rede"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "Coisas novas e velhas"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "Jesus prega em Nazaré. É rejeitado pelos seus ;"
+        }
+      ]
     },
     {
       "id": "matthew-14",
@@ -915,7 +1281,25 @@
           "note": "Um voto vinculante; Herodes age \"por causa dos juramentos\" (14:9)."
         }
       ],
-      "keyTakeaway": "João é executado por Herodes após repreender publicamente o casamento do rei; a notícia chega a Jesus."
+      "keyTakeaway": "João é executado por Herodes após repreender publicamente o casamento do rei; a notícia chega a Jesus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A morte de João Batista ;"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A primeira multiplicação de pães e peixes ; ;"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jesus anda por sobre o mar ;"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Jesus em Genesaré"
+        }
+      ]
     },
     {
       "id": "matthew-15",
@@ -986,7 +1370,25 @@
           "note": "Atos morais explícitos nomeados por Jesus como contaminadores."
         }
       ],
-      "keyTakeaway": "Jesus contrasta a tradição humana com o mandamento de Deus e ensina que a impureza vem do coração, não de comer com as mãos sem lavar."
+      "keyTakeaway": "Jesus contrasta a tradição humana com o mandamento de Deus e ensina que a impureza vem do coração, não de comer com as mãos sem lavar.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus e a tradição dos anciãos. O que contamina o homem"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "A mulher cananeia"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Jesus volta para o mar da Galileia e cura muitos enfermos"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "A segunda multiplicação de pães e peixes"
+        }
+      ]
     },
     {
       "id": "matthew-16",
@@ -1041,7 +1443,29 @@
           "note": "Em Mateus 12:40, conectado a 'três dias e três noites'; aqui referido brevemente."
         }
       ],
-      "keyTakeaway": "Jesus recusa dar um sinal, menciona o \"sinal de Jonas\" e alerta contra o ensino dos líderes, usando o \"fermento\" como imagem."
+      "keyTakeaway": "Jesus recusa dar um sinal, menciona o \"sinal de Jonas\" e alerta contra o ensino dos líderes, usando o \"fermento\" como imagem.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os fariseus e os saduceus pedem um sinal do céu"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "O fermento dos fariseus e dos saduceus"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A confissão de Pedro ;"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesus prediz a sua morte e ressurreição ;"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "O discípulo de Cristo deve levar a sua cruz ;"
+        }
+      ]
     },
     {
       "id": "matthew-17",
@@ -1088,6 +1512,10 @@
         {
           "ref": "17:21",
           "text": "Mas esta casta de demônios não se expulsa senão pela oração e pelo jejum."
+        },
+        {
+          "ref": "Matthew 17:21",
+          "text": "Alguns manuscritos tardios acrescentam aqui um versículo 21: «Mas esta casta de demônios não se expulsa senão pela oração e pelo jejum». As testemunhas gregas mais antigas e confiáveis, incluindo o Códice Sinaítico (א), o Códice Vaticano (B) e o Códice Z, o omitem. A maioria dos estudiosos o considera uma harmonização trazida da passagem paralela em Marcos 9:29."
         }
       ],
       "translationNotes": [
@@ -1100,6 +1528,28 @@
           "term": "Filho amado... a ele ouvi",
           "original": "Hebrew (echoes): Psalm 2:7; Deut 18:15 (Psalm 2:7; Deut 18:15) — Greek (here): Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός… ἀκούετε αὐτοῦ (Oὗtόs ἐstin ὁ yἱόs mou ὁ ἀgapētόs… ἀkoύete aὐtoῦ) — Aramaic (concept): ברי חביבא… שמעון ליה (ברי חביבא… שמעון ליה)",
           "note": "Afirmação celestial combinando motivos reais/proféticos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A transfiguração ;"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A vinda de Elias"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A cura de um jovem possesso ;"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "De novo Jesus prediz a sua morte e ressurreição ; Lc 9.43b-45"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Jesus paga imposto"
         }
       ]
     },
@@ -1157,6 +1607,10 @@
         {
           "ref": "18:11",
           "text": "Porque o Filho do Homem veio salvar o que se tinha perdido."
+        },
+        {
+          "ref": "Matthew 18:11",
+          "text": "Alguns manuscritos tardios inserem aqui um versículo 11: «Pois o Filho do Homem veio salvar o que se havia perdido». Está ausente do Códice Sinaítico, do Vaticano e das primeiras testemunhas latinas e coptas. A frase quase certamente migrou para Mateus a partir de Lucas 19:10, onde está firmemente atestada como palavras de Jesus na casa de Zaqueu."
         }
       ],
       "translationNotes": [
@@ -1174,6 +1628,32 @@
           "term": "Pequeninos",
           "original": "Hebrew (concept): קְטַנִּים (qəṭaniym) — Greek: μικροί (mikroί) — Aramaic: זְעֵירִין (זְעֵירִין)",
           "note": "Refere-se aqui aos crentes humildes (18:6-14)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O maior no reino dos céus ;"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Os tropeços ;"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "A parábola da ovelha perdida"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Como se deve tratar a um irmão culpado"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Quantas vezes se deve perdoar a um irmão"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "A parábola do credor incompassivo"
         }
       ]
     },
@@ -1237,7 +1717,29 @@
           "note": "Inclui os fisicamente incapazes de casar e os que escolhem o celibato pelo reino (19:12)."
         }
       ],
-      "keyTakeaway": "Jesus fundamenta o casamento na criação, restringe o divórcio e reconhece aqueles que permanecem solteiros pelo reino."
+      "keyTakeaway": "Jesus fundamenta o casamento na criação, restringe o divórcio e reconhece aqueles que permanecem solteiros pelo reino.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus atravessa o Jordão"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "A questão do divórcio ;"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesus abençoa as crianças ;"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "O jovem rico ;"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "O perigo das riquezas ;"
+        }
+      ]
     },
     {
       "id": "matthew-20",
@@ -1303,7 +1805,25 @@
           "note": "Expressão idiomática para uma perspectiva invejosa/ressentida (20:15)."
         }
       ],
-      "keyTakeaway": "Uma história sobre a liberdade e a generosidade do patrão: todos recebem o salário combinado; os últimos e os primeiros são invertidos."
+      "keyTakeaway": "Uma história sobre a liberdade e a generosidade do patrão: todos recebem o salário combinado; os últimos e os primeiros são invertidos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola dos trabalhadores na vinha"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesus ainda outra vez prediz sua morte e ressurreição ;"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "O pedido da mãe de Tiago e João"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "A cura de dois cegos de Jericó ;"
+        }
+      ]
     },
     {
       "id": "matthew-21",
@@ -1376,7 +1896,37 @@
           "note": "Nome poético para Jerusalém (21:5)."
         }
       ],
-      "keyTakeaway": "Jesus entra em Jerusalém montado em um jumento, enquanto a multidão grita \"Hosana\", ecoando as Escrituras sobre o rei que estava por vir."
+      "keyTakeaway": "Jesus entra em Jerusalém montado em um jumento, enquanto a multidão grita \"Hosana\", ecoando as Escrituras sobre o rei que estava por vir.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A entrada triunfal de Jesus em Jerusalém ; ;"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A purificação do templo ;"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesus efetua curas no templo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A figueira sem fruto ,"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "A autoridade de Jesus e o batismo de João ;"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "A parábola dos dois filhos"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A parábola dos lavradores maus ;"
+        }
+      ]
     },
     {
       "id": "matthew-22",
@@ -1448,7 +1998,29 @@
           "note": "Imagem recorrente de julgamento em Mateus (22:13)."
         }
       ],
-      "keyTakeaway": "Os primeiros convidados recusam e atacam os mensageiros; outros são trazidos. Um sem roupa de casamento é expulso."
+      "keyTakeaway": "Os primeiros convidados recusam e atacam os mensageiros; outros são trazidos. Um sem roupa de casamento é expulso.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola das bodas"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A questão do tributo ;"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Os saduceus e a ressurreição ;"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "O grande mandamento"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "O Cristo, Filho de Davi ;"
+        }
+      ]
     },
     {
       "id": "matthew-23",
@@ -1506,6 +2078,10 @@
         {
           "ref": "23:14",
           "text": "Ai de vós, escribas e fariseus, hipócritas! Pois que devorais as casas das viúvas, sob pretexto de prolongadas orações; por isso, sofrereis mais rigoroso juízo."
+        },
+        {
+          "ref": "Matthew 23:14",
+          "text": "Alguns manuscritos tardios acrescentam aqui um versículo 14: «Ai de vós, escribas e fariseus, hipócritas! pois devorais as casas das viúvas e, sob pretexto, fazeis longas orações; por isso recebereis maior condenação». Falta no Sinaítico, no Vaticano e nas cópias gregas mais antigas, e quase certamente foi inserido posteriormente para harmonizar Mateus com a mesma acusação em Marcos 12:40 e Lucas 20:47."
         }
       ],
       "translationNotes": [
@@ -1518,6 +2094,20 @@
           "term": "Rabi / Pai / Instrutor",
           "original": "Hebrew: רַבִּי (rabbi, ‘my great/teacher’), אָב (’av, ‘father’) — Greek: ῥαββί / πατήρ / καθηγητής (ῥabbί / patήr / kathēgētήs) — Aramaic: רבי / אבא / מַלְפָּנָא (malpānā)",
           "note": "Títulos honoríficos abordados no ensino de Jesus (23:8–10)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus censura os escribas e os fariseus ; ;"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Várias advertências de Jesus"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "O lamento sobre Jerusalém"
         }
       ]
     },
@@ -1602,7 +2192,33 @@
           "note": "Consumação/meta; aqui, da era (24:3–14)."
         }
       ],
-      "keyTakeaway": "Jesus enumera enganos, guerras, desastres, perseguições e o esfriamento do amor como o início das dores de parto; as boas novas serão proclamadas a todas as nações."
+      "keyTakeaway": "Jesus enumera enganos, guerras, desastres, perseguições e o esfriamento do amor como o início das dores de parto; as boas novas serão proclamadas a todas as nações.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sermão profético A destruição do templo ;"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "O princípio das dores ;"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A grande tribulação ;"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "A vinda do Filho do Homem ;"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "A parábola da figueira. Exortação à vigilância ;"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "A parábola do bom servo e do mau"
+        }
+      ]
     },
     {
       "id": "matthew-25",
@@ -1674,7 +2290,21 @@
           "note": "Declaração de não reconhecimento (25:12)."
         }
       ],
-      "keyTakeaway": "Esteja preparado antes da chegada; a correria de última hora encontra uma porta fechada."
+      "keyTakeaway": "Esteja preparado antes da chegada; a correria de última hora encontra uma porta fechada.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola das dez virgens"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A parábola dos talentos"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "O grande julgamento"
+        }
+      ]
     },
     {
       "id": "matthew-26",
@@ -1781,7 +2411,53 @@
           "note": "Provavelmente um sobrenome geográfico; derivação exata debatida (26:14)."
         }
       ],
-      "keyTakeaway": "Líderes planejam matar Jesus. Uma mulher o unge para o sepultamento. Judas recebe prata para traí-lo."
+      "keyTakeaway": "Líderes planejam matar Jesus. Uma mulher o unge para o sepultamento. Judas recebe prata para traí-lo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O plano para tirar a vida de Jesus ; ;"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jesus ungido em Betânia ;"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "O pacto da traição ;"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Os discípulos preparam a Páscoa ;"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "O traidor é indicado ; ;"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "A Ceia do Senhor ; ;"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Pedro é avisado ; ;"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Jesus no Getsêmani ;"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Jesus é preso ; ;"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Jesus perante o Sinédrio ; ; ,"
+        },
+        {
+          "beforeVerse": 68,
+          "text": "Pedro nega a Jesus ; ; ,"
+        }
+      ]
     },
     {
       "id": "matthew-27",
@@ -1874,7 +2550,45 @@
           "note": "Nome associado ao campo comprado (cf. At 1:19)."
         }
       ],
-      "keyTakeaway": "Judas devolve as moedas de prata e morre; o dinheiro compra um campo para sepulturas chamado Campo de Sangue, relacionado a palavras proféticas."
+      "keyTakeaway": "Judas devolve as moedas de prata e morre; o dinheiro compra um campo para sepulturas chamado Campo de Sangue, relacionado a palavras proféticas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus entregue a Pilatos ; ;"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "O suicídio de Judas"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jesus perante Pilatos ; , ;"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Jesus entregue aos soldados ;"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Simão leva a cruz do Senhor ;"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A crucificação ; ;"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "A morte de Jesus ; ;"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "O sepultamento de Jesus ; ;"
+        },
+        {
+          "beforeVerse": 61,
+          "text": "A guarda do sepulcro"
+        }
+      ]
     },
     {
       "id": "matthew-28",
@@ -1926,7 +2640,25 @@
           "note": "Forma idiomática de dizer domingo (28:1)."
         }
       ],
-      "keyTakeaway": "O túmulo é aberto por um anjo; as mulheres são informadas de que Jesus ressuscitou. Jesus aparece a elas e orienta os discípulos a irem para a Galileia."
+      "keyTakeaway": "O túmulo é aberto por um anjo; as mulheres são informadas de que Jesus ressuscitou. Jesus aparece a elas e orienta os discípulos a irem para a Galileia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A ressurreição de Jesus. Seu aparecimento às mulheres ; ;"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Os judeus subornam os guardas"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesus aparece aos discípulos na Galileia"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A Grande Comissão ;"
+        }
+      ]
     }
   ]
 }

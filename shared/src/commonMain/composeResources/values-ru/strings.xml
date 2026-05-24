@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">Пост Есфири</string>
     <string name="feast_fast_esther_ref">Есфирь 4:16</string>
 
+    <!-- Ессейские праздники / Храмовый свиток / Юбилеи -->
+    <string name="feast_new_wine_name">Праздник нового вина</string>
+    <string name="feast_new_oil_name">Праздник нового елея</string>
+    <string name="feast_memorial_q2_name">Второй день памяти</string>
+    <string name="feast_memorial_q4_name">Четвёртый день памяти</string>
+    <string name="essene_calendar_label">Ессейский</string>
+
     <!-- Prophecy -->
     <string name="prophecy">Пророчество</string>
     <string name="prophecy_subtitle">Исследуйте пророческие нити, вплетённые в Писание; от мессианского исполнения до праздников Откровения.</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">Распятие</string>
     <string name="feast_typology_unleavened_name">Опресноки (Нисан 15)</string>
     <string name="feast_typology_unleavened_meaning">Погребение / безгрешность</string>
-    <string name="feast_typology_firstfruits_name">Первые плоды (Нисан 16)</string>
+    <string name="feast_typology_firstfruits_name">Первые плоды</string>
     <string name="feast_typology_firstfruits_meaning">Воскресение</string>
-    <string name="feast_typology_weeks_name">Праздник Седмиц / Пятидесятница (Сиван 6)</string>
+    <string name="feast_typology_weeks_name">Праздник Седмиц / Пятидесятница</string>
     <string name="feast_typology_weeks_meaning">Дарование Святого Духа</string>
     <string name="feast_typology_trumpets_name">Трубы (Тишрей 1)</string>
     <string name="feast_typology_trumpets_meaning">Второе пришествие / восхищение</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">Стих</string>
     <string name="verses_label">Стихи</string>
     <string name="search_searching">Поиск…</string>
+    <string name="intro_short">Интро</string>
+    <string name="intro_section_header">Введение к книге</string>
+    <string name="tts_read_intros">Озвучивать введения к книгам</string>
 </resources>

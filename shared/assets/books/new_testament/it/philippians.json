@@ -52,7 +52,25 @@
           "note": "Due ruoli di conduzione nella chiesa: vescovi (episkopoi, sorveglianti/anziani) e diaconi (servitori/aiutanti)."
         }
       ],
-      "keyTakeaway": "Paolo saluta i Filippesi, ringrazia Dio per la loro partecipazione al vangelo e prega affinché il loro amore, il discernimento e la giustizia abbondino per la gloria di Dio."
+      "keyTakeaway": "Paolo saluta i Filippesi, ringrazia Dio per la loro partecipazione al vangelo e prega affinché il loro amore, il discernimento e la giustizia abbondino per la gloria di Dio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Affetto di Paolo per i Filippesi"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La prigionia di Paolo contribuisce alla causa del vangelo"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Esortazione alla perseveranza"
+        }
+      ]
     },
     {
       "id": "philippians-2",
@@ -104,7 +122,21 @@
           "note": "Significa comunione o vita condivisa prodotta dallo Spirito Santo."
         }
       ],
-      "keyTakeaway": "Paolo esorta i Filippesi a vivere in modo degno del vangelo, a stare saldi insieme, ad affrontare gli oppositori senza timore e a praticare l'umiltà e l'unità nell'amore."
+      "keyTakeaway": "Paolo esorta i Filippesi a vivere in modo degno del vangelo, a stare saldi insieme, ad affrontare gli oppositori senza timore e a praticare l'umiltà e l'unità nell'amore.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Cristo, esempio di umiltà"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Esortazione alla santificazione"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Missione di Timoteo ed Epafròdito"
+        }
+      ]
     },
     {
       "id": "philippians-3",
@@ -157,7 +189,13 @@
           "note": "Descrive l'appartenenza a una comunità; Paolo la applica all'appartenenza al cielo."
         }
       ],
-      "keyTakeaway": "Paolo mette in guardia contro la fiducia nella carne, ripercorre la propria discendenza, dichiara ogni cosa come perdita per Cristo, tende verso la meta celeste e ricorda ai credenti che la loro cittadinanza è nei cieli."
+      "keyTakeaway": "Paolo mette in guardia contro la fiducia nella carne, ripercorre la propria discendenza, dichiara ogni cosa come perdita per Cristo, tende verso la meta celeste e ricorda ai credenti che la loro cittadinanza è nei cieli.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esempio di Paolo nella corsa cristiana"
+        }
+      ]
     },
     {
       "id": "philippians-4",
@@ -202,7 +240,21 @@
           "note": "Significa integrità, benessere, armonia; Paolo sottolinea la pace di Dio che custodisce i credenti."
         }
       ],
-      "keyTakeaway": "Paolo esorta i Filippesi all'unità, alla gioia, alla preghiera, alla meditazione su ciò che è eccellente e a seguire il suo esempio, con la pace di Dio che li custodisce."
+      "keyTakeaway": "Paolo esorta i Filippesi all'unità, alla gioia, alla preghiera, alla meditazione su ciò che è eccellente e a seguire il suo esempio, con la pace di Dio che li custodisce.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Raccomandazioni varie"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Liberalità dei Filippesi e disinteresse di Paolo"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Saluti"
+        }
+      ]
     }
   ]
 }

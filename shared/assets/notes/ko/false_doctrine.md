@@ -465,7 +465,7 @@
 
 그 사람은 삶을 산다. 그들은 회개하라는 명을 받는다(사도행전 17:30). 그들은 주의 이름을 부르는 자는 누구든지 구원받을 것이라고 듣는다(로마서 10:13). 그들은 설교자들에게 간청받고, 성경에 의해 경고받고, "수고하고 무거운 짐 진 자들아 다 내게로 오라"는 언어로(마태복음 11:28) 그리스도를 제공받는다. 제안은 표면상으로는 진짜이다. 제안 뒤에 명령이 서 있다: 이 사람은 목록에 없다. 그들은 제공된 것을 받아들일 수 없다. 그들은 하나님 자신이 그들이 가능하지 않을 것이라고 결정하신 것을 행하라는 명령을 받는다.
 
-그들은 죽는다. 그들은 심판받는다. 그들은 그들에게 결코 이용 가능하지 않았던 구원을 받지 못한 것에 대해, 그들을 위해 결코 죽지 않으신 그리스도를 거부한 것에 대해, 그들에게 결코 오지 않은 성령을 거스른 것에 대해, 불신앙의 죄를 지은 것에 대해—십자가가 다른 모든 것을 지불한 지금 남아있는 유일한 죄인, 이 경우 은혜가 기초에서 보류되었기 때문에 불신앙이 가능했던 유일한 결과였는데—영원한 의식적 고통에 저주받는다.
+그들은 죽는다. 그들은 심판받는다. 그들은 그들에게 결코 이용 가능하지 않았던 구원을 받지 못한 것에 대해, 그들을 위해 결코 죽지 않으신 그리스도를 거부한 것에 대해, 그들에게 결코 오지 않은 성령을 거스른 것에 대해, 불신앙의 죄를 지은 것에 대해, 십자가가 다른 모든 것을 지불한 지금 남아있는 유일한 죄인, 이 경우 은혜가 기초에서 보류되었기 때문에 불신앙이 가능했던 유일한 결과였는데, 영원한 의식적 고통에 저주받는다.
 
 그 그림을 하나님이 누구이신지에 대한 성경의 증거와 대조해 보라:
 
@@ -523,8 +523,7 @@
 **2단계에 속하는 이유:** 조사 심판 교리는 성경적 근거가 없으며 실패한 예언을 구하기 위해 구성되었다. Ellen White의 저술들은 공식적으로는 부정되더라도 성경 옆에 제2의 권위로 기능한다. 구원의 틀로서의 안식일 구조는 은혜의 복음을 왜곡한다. 이것들은 사소한 오류가 아니다. 동시에, 재림교인들은 일반적으로 역사적 복음을 확인하며 많은 이들이 진실한 신자들이다. 위의 오류들은 여기에 포함될 만큼 심각하지만, 1단계에서처럼 복음 자체가 부정되지는 않는다.
 
 ---
-### 새로운 사도적 개혁과 현대 사도 운동들
-### 새로운 사도적 개혁(NAR) (1990년대~현재)
+### 새로운 사도적 개혁(NAR)
 
 **다른 이름:** NAR. 새로운 사도적 개혁(New Apostolic Reformation). 사도적 개혁(Apostolic Reformation). 사도적-예언적 운동(Apostolic-Prophetic Movement). 독립 카리스마 운동(Independent Charismatic Movement). 제3의 물결(Third Wave, NAR을 낳은 더 넓은 20세기 카리스마 흐름). 전략적 영적 전쟁(Strategic Level Spiritual Warfare, C. Peter Wagner 시스템). 동일시적 회개(Identificational Repentance). 영적 지도 제작(Spiritual Mapping). 일곱 산 명령 / 일곱 산 주권(Seven Mountains Mandate / Seven Mountain Dominion, 지배 신학 틀). 지배주의 / 지배 신학(Dominionism / Dominion Theology, 더 넓은 정치-신학적 프로젝트). 영향력의 일곱 산(Seven Mountains of Influence, Loren Cunningham/Bill Bright 기원, NAR이 채택). 재건주의(Reconstructionism, 겹치지만 구별됨, 더 개혁적 기원). 신정론(Theonomy, 겹침). 요엘의 군대(Joel's Army). 엘리야 세대(The Elijah Generation). 신부 운동(The Bride Movement). "사도들과 선지자들" 통치 모델. 주요 인물들: C. Peter Wagner(주요 신학자이자 명칭 제조자; 2016년 사망). Cindy Jacobs. Mike Bickle(International House of Prayer / IHOPKC, 캔자스시티; 2023-2024년 심각한 학대 스캔들). Bill Johnson(캘리포니아 레딩의 Bethel Church). Kris Vallotton(Bethel). Lou Engle. Lance Wallnau. Ché Ahn(Harvest International Ministry). Dutch Sheets. Chuck Pierce. Patricia King. Bob Jones("선지자"). Paul Cain(캔자스시티 예언자들과 연관; 후에 알코올 중독과 동성애를 인정). Rick Joyner(MorningStar Ministries). Paula White(트럼프 관련; NAR과 말씀-믿음의 가교). 네트워크: International Coalition of Apostolic Leaders(ICAL, Wagner의 네트워크). Apostolic Council of Prophetic Elders(ACPE). 미국 개혁 기도 네트워크(U.S. Reformation Prayer Network). 주요 기관: Bethel Church(캘리포니아 레딩). International House of Prayer Kansas City(IHOPKC, 2023-2024년 스캔들 이전). The Pohl Network.
 

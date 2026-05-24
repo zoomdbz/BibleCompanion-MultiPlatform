@@ -32,7 +32,17 @@
           "note": "L'espressione combina 'parola' (messaggio, rivelazione) con 'vita,' riferendosi alla vita eterna rivelata in Cristo."
         }
       ],
-      "keyTakeaway": "Giovanni proclama la Parola della vita manifestata, invitando i credenti alla comunione con il Padre, il Figlio e tra loro."
+      "keyTakeaway": "Giovanni proclama la Parola della vita manifestata, invitando i credenti alla comunione con il Padre, il Figlio e tra loro.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La parola della vita manifestata in carne"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Dio è luce; bisogna camminare nella luce per avere comunione con lui"
+        }
+      ]
     },
     {
       "id": "1_john-2",
@@ -83,7 +93,21 @@
           "note": "Si riferisce al sacrificio espiatorio che rimuove il peccato e ripristina il favore con Dio; legato all'immagine del propiziatorio nel tempio."
         }
       ],
-      "keyTakeaway": "Giovanni contrasta luce e tenebre, assicura il perdono per mezzo di Cristo l'avvocato e chiama i credenti a obbedire e camminare come lui ha camminato."
+      "keyTakeaway": "Giovanni contrasta luce e tenebre, assicura il perdono per mezzo di Cristo l'avvocato e chiama i credenti a obbedire e camminare come lui ha camminato.",
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "L’amore fraterno e la separazione dal mondo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Gli anticristi"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Le caratteristiche dei figli di Dio"
+        }
+      ]
     },
     {
       "id": "1_john-3",
@@ -177,7 +201,17 @@
           "note": "Espressione che descrive l'amore di Dio portato a maturità, che elimina la paura del giudizio."
         }
       ],
-      "keyTakeaway": "Giovanni esorta i credenti a vagliare gli spiriti, a riconoscere la vera confessione di Cristo, e sottolinea che Dio è amore, rivelato nel Figlio, perfezionato nell'amore reciproco."
+      "keyTakeaway": "Giovanni esorta i credenti a vagliare gli spiriti, a riconoscere la vera confessione di Cristo, e sottolinea che Dio è amore, rivelato nel Figlio, perfezionato nell'amore reciproco.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il discernimento degli spiriti"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "L’amore di Dio e l’amore fraterno"
+        }
+      ]
     },
     {
       "id": "1_john-5",
@@ -225,7 +259,13 @@
           "note": "Differenzia tra peccati; alcuni non portano un giudizio immediato e definitivo, mentre altri (alla morte) significano il rifiuto della vita di Dio."
         }
       ],
-      "keyTakeaway": "Giovanni conclude che la vita eterna è nel Figlio, la fede vince il mondo, lo Spirito, l'acqua e il sangue testimoniano, e i credenti devono evitare gli idoli."
+      "keyTakeaway": "Giovanni conclude che la vita eterna è nel Figlio, la fede vince il mondo, lo Spirito, l'acqua e il sangue testimoniano, e i credenti devono evitare gli idoli.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La fede in Gesù e le sue conseguenze"
+        }
+      ]
     }
   ]
 }

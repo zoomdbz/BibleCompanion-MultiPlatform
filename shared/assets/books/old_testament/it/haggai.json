@@ -52,7 +52,13 @@
           "note": "Indicata come divinamente mandata per frustrare il lavoro centrato su sé stessi (1:11)."
         }
       ],
-      "keyTakeaway": "Dio affronta le priorità sbagliate, spiega la siccità, promette la sua presenza e spinge i capi e il popolo a riprendere i lavori del tempio."
+      "keyTakeaway": "Dio affronta le priorità sbagliate, spiega la siccità, promette la sua presenza e spinge i capi e il popolo a riprendere i lavori del tempio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esortazione a ricostruire il tempio di Gerusalemme"
+        }
+      ]
     },
     {
       "id": "haggai-2",
@@ -112,7 +118,21 @@
           "note": "Pienezza e benessere promessi 'in questo luogo' (2:9)."
         }
       ],
-      "keyTakeaway": "A un resto scoraggiato, Dio promette la sua presenza e uno scuotimento futuro che porterà ricchezze, assicurando gloria maggiore e pace nella sua casa."
+      "keyTakeaway": "A un resto scoraggiato, Dio promette la sua presenza e uno scuotimento futuro che porterà ricchezze, assicurando gloria maggiore e pace nella sua casa.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La gloria del secondo tempio"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Promesse di benedizioni"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Promesse per Zorobabele"
+        }
+      ]
     }
   ]
 }

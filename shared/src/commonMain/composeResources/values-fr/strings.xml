@@ -213,6 +213,13 @@
     <string name="feast_fast_esther">Jeûne d’Esther</string>
     <string name="feast_fast_esther_ref">Esther 4:16</string>
 
+    <!-- Fêtes esséniennes / Rouleau du Temple / Jubilés -->
+    <string name="feast_new_wine_name">Fête du Vin Nouveau</string>
+    <string name="feast_new_oil_name">Fête de l’Huile Nouvelle</string>
+    <string name="feast_memorial_q2_name">Deuxième Jour de Commémoration</string>
+    <string name="feast_memorial_q4_name">Quatrième Jour de Commémoration</string>
+    <string name="essene_calendar_label">Essénien</string>
+
     <!-- Prophecy -->
     <string name="prophecy">Prophétie</string>
     <string name="prophecy_subtitle">Explorez les fils prophétiques tissés dans les Écritures; de l'accomplissement messianique aux fêtes de l'Apocalypse.</string>
@@ -258,9 +265,9 @@
     <string name="feast_typology_passover_meaning">Crucifixion</string>
     <string name="feast_typology_unleavened_name">Pains sans levain (Nisan 15)</string>
     <string name="feast_typology_unleavened_meaning">Ensevelissement / sans péché</string>
-    <string name="feast_typology_firstfruits_name">Prémices (Nisan 16)</string>
+    <string name="feast_typology_firstfruits_name">Prémices</string>
     <string name="feast_typology_firstfruits_meaning">Résurrection</string>
-    <string name="feast_typology_weeks_name">Fête des Semaines / Pentecôte (Sivan 6)</string>
+    <string name="feast_typology_weeks_name">Fête des Semaines / Pentecôte</string>
     <string name="feast_typology_weeks_meaning">Don du Saint-Esprit</string>
     <string name="feast_typology_trumpets_name">Trompettes (Tishri 1)</string>
     <string name="feast_typology_trumpets_meaning">Seconde venue / enlèvement</string>
@@ -304,4 +311,7 @@
     <string name="verse_label">Verset</string>
     <string name="verses_label">Versets</string>
     <string name="search_searching">Recherche…</string>
+    <string name="intro_short">Intro</string>
+    <string name="intro_section_header">Introduction du livre</string>
+    <string name="tts_read_intros">Lire les introductions en TTS</string>
 </resources>

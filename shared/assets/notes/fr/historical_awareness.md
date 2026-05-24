@@ -134,7 +134,7 @@ Le *Livre d’Hénoch* était largement lu dans les communautés juives et chré
 
 * **3 Hénoch (Hénoch hébreu)** : Texte rabbinique plus tardif (~Ve–VIe siècle apr. J.-C.). Ici, Hénoch est transformé en l’ange Métatron, chef des armées célestes. Il reflète la mystique juive et la Kabbale, non la tradition chrétienne primitive ou celle du Second Temple.
 
-### Pour la prophétie, seul **1 Hénoch** correspond à la Genèse, à l’Apocalypse et à Jude.
+**Pour la prophétie, seul **1 Hénoch** correspond à la Genèse, à l’Apocalypse et à Jude.**
 
 ---
 
@@ -240,7 +240,7 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 ---
 
-### **Temps fixés par Dieu selon la Bible contre traditions empruntées**
+**Temps fixés par Dieu selon la Bible contre traditions empruntées**
 
 Bien que de nombreuses fêtes modernes proviennent du syncrétisme religieux, les Écritures définissent certains *moedim* (temps fixés) établis par Dieu dans (Lévitique 23). Ce ne sont pas des fêtes culturelles, mais des rendez-vous divins révélant le plan de rédemption accompli dans le Messie. Les premiers croyants ont continué à honorer ces fêtes comme faisant partie du rythme d’alliance de Dieu (Actes 2:1) (Actes 20:6) (Actes 20:16) (1 Corinthiens 5:8). Dans les siècles suivants, surtout sous la domination romaine, elles furent remplacées par des célébrations civiles et saisonnières pour s’adapter à la culture impériale plutôt qu’à l’Écriture.
 

@@ -61,7 +61,17 @@
           "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
         }
       ],
-      "keyTakeaway": "Ein amalekitischer Bote überbringt David die Nachricht vom Tod Sauls und Jonatans und behauptet, Saul auf dessen Bitte hin getötet zu haben; David lässt den Boten hinrichten und verfasst eine ausführliche Klage um Saul und Jonatan."
+      "keyTakeaway": "Ein amalekitischer Bote überbringt David die Nachricht vom Tod Sauls und Jonatans und behauptet, Saul auf dessen Bitte hin getötet zu haben; David lässt den Boten hinrichten und verfasst eine ausführliche Klage um Saul und Jonatan.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David wird König von Juda und ganz Israel David erfährt von Sauls und Jonatans Tod"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Davids Klagelied"
+        }
+      ]
     },
     {
       "id": "2-samuel-2",
@@ -127,7 +137,21 @@
           "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
         }
       ],
-      "keyTakeaway": "David befragt den HERRN, zieht nach Hebron und wird zum König über Juda gesalbt; unterdessen setzt Abner Isch-Boschet als König über die übrigen Stämme ein, woraufhin es bei Gibeon zu einer heftigen Schlacht kommt, in der Davids Truppen siegen und Asahel von Abner getötet wird."
+      "keyTakeaway": "David befragt den HERRN, zieht nach Hebron und wird zum König über Juda gesalbt; unterdessen setzt Abner Isch-Boschet als König über die übrigen Stämme ein, woraufhin es bei Gibeon zu einer heftigen Schlacht kommt, in der Davids Truppen siegen und Asahel von Abner getötet wird.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David wird König von Juda"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Isch-Boschet wird König von Israel"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Beginn des Bürgerkriegs zwischen Israel und Juda"
+        }
+      ]
     },
     {
       "id": "2-samuel-3",
@@ -200,7 +224,29 @@
           "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
         }
       ],
-      "keyTakeaway": "Davids Söhne werden in Hebron geboren, während er erstarkt; Abner wechselt nach dem Streit mit Isch-Boschet wegen Sauls Nebenfrau die Seiten zu David und vermittelt Frieden, doch Joab tötet ihn zur Vergeltung für ihren Bruder Asahel, und David trauert öffentlich, um seine Unschuld zu beweisen."
+      "keyTakeaway": "Davids Söhne werden in Hebron geboren, während er erstarkt; Abner wechselt nach dem Streit mit Isch-Boschet wegen Sauls Nebenfrau die Seiten zu David und vermittelt Frieden, doch Joab tötet ihn zur Vergeltung für ihren Bruder Asahel, und David trauert öffentlich, um seine Unschuld zu beweisen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davids Familie in Hebron"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Abner und Isch-Boschet geraten aneinander"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Abner verhandelt mit David"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Abners Ermordung"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "David trauert um Abner"
+        }
+      ]
     },
     {
       "id": "2-samuel-4",
@@ -246,7 +292,17 @@
           "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
         }
       ],
-      "keyTakeaway": "Rekab und Baana ermorden Isch-Boseth in seinem Bett und bringen seinen Kopf zu David in Erwartung einer Belohnung; David lässt sie stattdessen hinrichten, da er ihre Tat als Mord an einem Unschuldigen und nicht als Dienst an ihm betrachtet."
+      "keyTakeaway": "Rekab und Baana ermorden Isch-Boseth in seinem Bett und bringen seinen Kopf zu David in Erwartung einer Belohnung; David lässt sie stattdessen hinrichten, da er ihre Tat als Mord an einem Unschuldigen und nicht als Dienst an ihm betrachtet.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Isch-Boschet wird ermordet"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "David bestraft die Mörder"
+        }
+      ]
     },
     {
       "id": "2-samuel-5",
@@ -305,7 +361,25 @@
           "note": "Doppelte Bedeutung: David plante ein Gebäude; Gott versprach eine königliche Linie."
         }
       ],
-      "keyTakeaway": "Alle Stämme Israels salben David in Hebron zum König; er erobert Jerusalem von den Jebusitern, nimmt dort seinen Wohnsitz und besiegt die Philister in zwei Schlachten, nachdem er den Herrn befragt hat."
+      "keyTakeaway": "Alle Stämme Israels salben David in Hebron zum König; er erobert Jerusalem von den Jebusitern, nimmt dort seinen Wohnsitz und besiegt die Philister in zwei Schlachten, nachdem er den Herrn befragt hat.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David wird König über ganz Israel"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "David erobert Jerusalem"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "David baut seine Macht aus"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Siege über die Philister"
+        }
+      ]
     },
     {
       "id": "2-samuel-6",
@@ -362,7 +436,13 @@
           "note": "Doppelte Bedeutung: David plante ein Gebäude; Gott versprach eine königliche Linie."
         }
       ],
-      "keyTakeaway": "David versucht, die Lade Gottes mit dreißigtausend Mann nach Jerusalem zu bringen, doch Usza wird erschlagen, als er sie berührt; später bringt David die Lade erfolgreich in die Stadt, begleitet von Jubel und Opfern, und tadelt seine Frau Michal dafür, dass sie seinen Tanz vor dem HERRN verspottet hatte."
+      "keyTakeaway": "David versucht, die Lade Gottes mit dreißigtausend Mann nach Jerusalem zu bringen, doch Usza wird erschlagen, als er sie berührt; später bringt David die Lade erfolgreich in die Stadt, begleitet von Jubel und Opfern, und tadelt seine Frau Michal dafür, dass sie seinen Tanz vor dem HERRN verspottet hatte.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David holt die Bundeslade nach Jerusalem"
+        }
+      ]
     },
     {
       "id": "2-samuel-7",
@@ -425,7 +505,17 @@
           "note": "Doppelte Bedeutung: David plante ein Gebäude; Gott versprach eine königliche Linie."
         }
       ],
-      "keyTakeaway": "David schlägt vor, ein Haus für die Lade Gottes zu bauen, doch Natan übermittelt eine Botschaft des HERRN, dass Davids Sohn es stattdessen bauen wird und Gott Davids Dynastie für immer errichten wird. David antwortet, indem er vor dem HERRN sitzt und ein Gebet des Dankes und der Bitte spricht, dass Gott diese Verheißung bezüglich seines Hauses erfüllen möge."
+      "keyTakeaway": "David schlägt vor, ein Haus für die Lade Gottes zu bauen, doch Natan übermittelt eine Botschaft des HERRN, dass Davids Sohn es stattdessen bauen wird und Gott Davids Dynastie für immer errichten wird. David antwortet, indem er vor dem HERRN sitzt und ein Gebet des Dankes und der Bitte spricht, dass Gott diese Verheißung bezüglich seines Hauses erfüllen möge.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der Herr verheißt David die ewige Königsherrschaft"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Davids Dankgebet"
+        }
+      ]
     },
     {
       "id": "2-samuel-8",
@@ -476,7 +566,17 @@
           "note": "Das Halbrasieren des Bartes und das Entblößen des Gesäßes waren öffentliche Schmach in der altorientalischen Kultur."
         }
       ],
-      "keyTakeaway": "David besiegt die Philister, Moabiter, Hadadeser von Zoba, die Aramäer und die Edomiter in einer Reihe von Feldzügen; er weiht die Beute dem Herrn und errichtet Besatzungen in den eroberten Gebieten. Seine Beamten und Heerführer werden aufgelistet, und der Herr schenkt ihm Sieg, wohin er auch zieht."
+      "keyTakeaway": "David besiegt die Philister, Moabiter, Hadadeser von Zoba, die Aramäer und die Edomiter in einer Reihe von Feldzügen; er weiht die Beute dem Herrn und errichtet Besatzungen in den eroberten Gebieten. Seine Beamten und Heerführer werden aufgelistet, und der Herr schenkt ihm Sieg, wohin er auch zieht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kriege während Davids Herrschaft Davids Siege über die Nachbarvölker"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Davids oberste Beamte"
+        }
+      ]
     },
     {
       "id": "2-samuel-9",
@@ -522,7 +622,13 @@
           "note": "Das Halbrasieren des Bartes und das Entblößen des Gesäßes waren öffentliche Schmach in der altorientalischen Kultur."
         }
       ],
-      "keyTakeaway": "David sucht nach Überlebenden aus dem Haus Sauls, um Jonatan zuliebe Güte zu erweisen, und holt Mephiboseth, Jonatans lahmen Sohn, aus seinem Versteck, um ihm das Land seiner Familie zurückzugeben und ihm einen dauerhaften Platz an der königlichen Tafel zu gewähren."
+      "keyTakeaway": "David sucht nach Überlebenden aus dem Haus Sauls, um Jonatan zuliebe Güte zu erweisen, und holt Mephiboseth, Jonatans lahmen Sohn, aus seinem Versteck, um ihm das Land seiner Familie zurückzugeben und ihm einen dauerhaften Platz an der königlichen Tafel zu gewähren.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David beschenkt Jonatans Sohn"
+        }
+      ]
     },
     {
       "id": "2-samuel-10",
@@ -574,7 +680,21 @@
           "note": "Das Halbrasieren des Bartes und das Entblößen des Gesäßes waren öffentliche Schmach in der altorientalischen Kultur."
         }
       ],
-      "keyTakeaway": "David schickt Boten, um den neuen Ammoniterkönig zu trösten, doch Hanun demütigt sie; die Ammoniter werben aramäische Verbündete an und werden von Joab geschlagen, dann wird ein größeres aramäisches Heer unter Hadadeser von David vernichtend besiegt, woraufhin die Aramäer nicht länger bereit sind, Ammon zu unterstützen."
+      "keyTakeaway": "David schickt Boten, um den neuen Ammoniterkönig zu trösten, doch Hanun demütigt sie; die Ammoniter werben aramäische Verbündete an und werden von Joab geschlagen, dann wird ein größeres aramäisches Heer unter Hadadeser von David vernichtend besiegt, woraufhin die Aramäer nicht länger bereit sind, Ammon zu unterstützen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "König Hanun beleidigt Davids Gesandte"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Es kommt zum Krieg mit den Ammonitern"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Der Krieg gegen die Syrer"
+        }
+      ]
     },
     {
       "id": "2-samuel-11",
@@ -634,7 +754,17 @@
           "note": "Ehrfürchtige Scheu, die vor dem Bösen zurückhält; Urias Weigerung, Komfort zu genießen, während die Lade und das Heer im Feld sind, zeigt diese Haltung."
         }
       ],
-      "keyTakeaway": "David sieht Batseba beim Baden, schläft mit ihr, und als sie schwanger wird, versucht er es zu verbergen, indem er ihren Mann Uria aus dem Krieg zurückruft; als Uria sich weigert, nach Hause zu gehen, lässt David ihn im Kampf töten und nimmt Batseba dann zur Frau."
+      "keyTakeaway": "David sieht Batseba beim Baden, schläft mit ihr, und als sie schwanger wird, versucht er es zu verbergen, indem er ihren Mann Uria aus dem Krieg zurückruft; als Uria sich weigert, nach Hause zu gehen, lässt David ihn im Kampf töten und nimmt Batseba dann zur Frau.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "David und Batseba – Salomos Geburt David begeht Ehebruch"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Uria muss sterben"
+        }
+      ]
     },
     {
       "id": "2-samuel-12",
@@ -698,7 +828,21 @@
           "note": "Ehrfürchtige Scheu, die vor dem Bösen zurückhält; Urias Weigerung, Komfort zu genießen, während die Lade und das Heer im Feld sind, zeigt diese Haltung."
         }
       ],
-      "keyTakeaway": "Nathan konfrontiert David mit einem Gleichnis über einen reichen Mann, der einem armen Mann sein Lamm stiehlt, und enthüllt dann, dass David selbst dieser Mann ist, weil er Urijas Frau genommen und Urijas Tod herbeigeführt hat; David bekennt seine Sünde, das ihm und Batseba geborene Kind stirbt trotz seines Fastens und Betens, und später zeugen David und Batseba Salomo, den der HERR liebt. Joab erobert Rabba der Ammoniter, und David nimmt die Stadt ein, plündert sie und versklavt ihre Bevölkerung."
+      "keyTakeaway": "Nathan konfrontiert David mit einem Gleichnis über einen reichen Mann, der einem armen Mann sein Lamm stiehlt, und enthüllt dann, dass David selbst dieser Mann ist, weil er Urijas Frau genommen und Urijas Tod herbeigeführt hat; David bekennt seine Sünde, das ihm und Batseba geborene Kind stirbt trotz seines Fastens und Betens, und später zeugen David und Batseba Salomo, den der HERR liebt. Joab erobert Rabba der Ammoniter, und David nimmt die Stadt ein, plündert sie und versklavt ihre Bevölkerung.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Du bist der Mann!"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Davids Sohn stirbt"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Die Eroberung der Stadt Rabba"
+        }
+      ]
     },
     {
       "id": "2-samuel-13",
@@ -771,7 +915,17 @@
           "note": "Davids zweite Flucht (nach Saul), diesmal vor seinem eigenen Sohn."
         }
       ],
-      "keyTakeaway": "Amnon überlistet seinen Vater David, Tamar in sein Schlafgemach zu schicken, wo er sie vergewaltigt; zwei Jahre später rächt Absalom seine Schwester, indem er Amnon bei einem Schafschurfest töten lässt, und flieht dann nach Geschur. David trauert um Amnon, sehnt sich aber zugleich danach, seinen flüchtigen Sohn Absalom wiederzusehen."
+      "keyTakeaway": "Amnon überlistet seinen Vater David, Tamar in sein Schlafgemach zu schicken, wo er sie vergewaltigt; zwei Jahre später rächt Absalom seine Schwester, indem er Amnon bei einem Schafschurfest töten lässt, und flieht dann nach Geschur. David trauert um Amnon, sehnt sich aber zugleich danach, seinen flüchtigen Sohn Absalom wiederzusehen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Aufstände gegen David: Absalom und Scheba Tamar wird vergewaltigt"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Absaloms Rache"
+        }
+      ]
     },
     {
       "id": "2-samuel-14",
@@ -838,7 +992,17 @@
           "note": "Davids zweite Flucht (nach Saul), diesmal vor seinem eigenen Sohn."
         }
       ],
-      "keyTakeaway": "Joab veranlasst eine Frau, David wegen eines Familienstreits anzusprechen, was Davids Entfremdung von Absalom widerspiegelt und ihn bewegt, Absaloms Rückkehr aus dem Exil zu erlauben; nach zwei Jahren in Jerusalem, ohne Davids Angesicht zu sehen, lässt Absalom Joabs Feld in Brand stecken, um eine Begegnung mit dem König zu erzwingen, und David empfängt ihn schließlich mit einem Kuss."
+      "keyTakeaway": "Joab veranlasst eine Frau, David wegen eines Familienstreits anzusprechen, was Davids Entfremdung von Absalom widerspiegelt und ihn bewegt, Absaloms Rückkehr aus dem Exil zu erlauben; nach zwei Jahren in Jerusalem, ohne Davids Angesicht zu sehen, lässt Absalom Joabs Feld in Brand stecken, um eine Begegnung mit dem König zu erzwingen, und David empfängt ihn schließlich mit einem Kuss.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Joab setzt sich für Absalom ein"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Absaloms Rückkehr"
+        }
+      ]
     },
     {
       "id": "2-samuel-15",
@@ -909,7 +1073,17 @@
           "note": "Davids zweite Flucht (nach Saul), diesmal vor seinem eigenen Sohn."
         }
       ],
-      "keyTakeaway": "Absalom gewinnt durch sein Auftreten als Richter Volksgunst und erbittet dann die Erlaubnis, nach Hebron zu gehen, wo er einen Aufstand anzettelt und sich zum König ausruft; David erfährt von der Verschwörung und flieht mit seinen Beamten aus Jerusalem, wobei er Zadok, Abjathar und Husai als Spitzel zurückschickt."
+      "keyTakeaway": "Absalom gewinnt durch sein Auftreten als Richter Volksgunst und erbittet dann die Erlaubnis, nach Hebron zu gehen, wo er einen Aufstand anzettelt und sich zum König ausruft; David erfährt von der Verschwörung und flieht mit seinen Beamten aus Jerusalem, wobei er Zadok, Abjathar und Husai als Spitzel zurückschickt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Absalom plant eine Verschwörung"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Davids Flucht aus Jerusalem"
+        }
+      ]
     },
     {
       "id": "2-samuel-16",
@@ -966,7 +1140,21 @@
           "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
         }
       ],
-      "keyTakeaway": "Ziba bringt David Vorräte und behauptet, Mephiboseth sei in Jerusalem geblieben, um Sauls Thron zurückzugewinnen, woraufhin David Ziba den gesamten Besitz Mephiboseths übergibt; Simei verflucht David und bewirft ihn mit Steinen, doch David verweigert jede Vergeltung. Absalom zieht mit seinem Heer und seinen Ratgebern in Jerusalem ein; Husai gewinnt sein Vertrauen durch einen Treueeid, und Ahitofel rät Absalom, öffentlich mit Davids Nebenfrauen zu schlafen, um Israel vollständig gegen seinen Vater aufzubringen."
+      "keyTakeaway": "Ziba bringt David Vorräte und behauptet, Mephiboseth sei in Jerusalem geblieben, um Sauls Thron zurückzugewinnen, woraufhin David Ziba den gesamten Besitz Mephiboseths übergibt; Simei verflucht David und bewirft ihn mit Steinen, doch David verweigert jede Vergeltung. Absalom zieht mit seinem Heer und seinen Ratgebern in Jerusalem ein; Husai gewinnt sein Vertrauen durch einen Treueeid, und Ahitofel rät Absalom, öffentlich mit Davids Nebenfrauen zu schlafen, um Israel vollständig gegen seinen Vater aufzubringen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ziba verleumdet Mefi-Boschet"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Schimi beschimpft David"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Absalom in Jerusalem"
+        }
+      ]
     },
     {
       "id": "2-samuel-17",
@@ -1029,7 +1217,17 @@
           "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
         }
       ],
-      "keyTakeaway": "Ahithopel rät Absalom, David sofort zu verfolgen, doch Huschai schlägt vor, zunächst ganz Israel zu sammeln; Absalom folgt Huschais Rat, sodass David über den Jordan entkommen kann, während Ahithopel sich erhängt. David erreicht Mahanajim, wo einheimische Anführer ihn mit Nahrung und Vorräten versorgen."
+      "keyTakeaway": "Ahithopel rät Absalom, David sofort zu verfolgen, doch Huschai schlägt vor, zunächst ganz Israel zu sammeln; Absalom folgt Huschais Rat, sodass David über den Jordan entkommen kann, während Ahithopel sich erhängt. David erreicht Mahanajim, wo einheimische Anführer ihn mit Nahrung und Vorräten versorgen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ahitofel und Huschai beraten Absalom"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "David erfährt von Absaloms Plan"
+        }
+      ]
     },
     {
       "id": "2-samuel-18",
@@ -1095,7 +1293,21 @@
           "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
         }
       ],
-      "keyTakeaway": "David teilt sein Heer in drei Abteilungen unter Joab, Abisai und Ittai auf und nimmt selbst am Stadttor Stellung, während seine Truppen ausziehen; Absalom bleibt mit seinem Haar in einer Eiche hängen, und Joab tötet ihn mit drei Speeren, obwohl David befohlen hatte, ihn zu schonen. Boten überbringen David die Nachricht vom Sieg, doch als er vom Tod Absaloms erfährt, trauert er tief in der Torwache und klagt, er wünschte, er wäre anstelle seines Sohnes gestorben."
+      "keyTakeaway": "David teilt sein Heer in drei Abteilungen unter Joab, Abisai und Ittai auf und nimmt selbst am Stadttor Stellung, während seine Truppen ausziehen; Absalom bleibt mit seinem Haar in einer Eiche hängen, und Joab tötet ihn mit drei Speeren, obwohl David befohlen hatte, ihn zu schonen. Boten überbringen David die Nachricht vom Sieg, doch als er vom Tod Absaloms erfährt, trauert er tief in der Torwache und klagt, er wünschte, er wäre anstelle seines Sohnes gestorben.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vorbereitungen für die Schlacht"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Absaloms Niederlage"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "David erfährt von Absaloms Tod"
+        }
+      ]
     },
     {
       "id": "2-samuel-19",
@@ -1172,7 +1384,33 @@
           "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
         }
       ],
-      "keyTakeaway": "David trauert so tief um Abschalom, dass seine Truppen den Willen verlieren, ihren Sieg zu feiern; Joab zwingt ihn, vor seine Männer zu treten und ihre Loyalität anzunehmen. David kehrt mit der Unterstützung Judas nach Jerusalem zurück, begnadigt Schimei, teilt Sauls Land zwischen Mephiboseth und Ziba auf und nimmt Barsillais Sohn Kimham in seinen Dienst, obwohl Spannung zwischen den Männern Judas und Israels darüber entbrennt, wer den König heimgebracht hat."
+      "keyTakeaway": "David trauert so tief um Abschalom, dass seine Truppen den Willen verlieren, ihren Sieg zu feiern; Joab zwingt ihn, vor seine Männer zu treten und ihre Loyalität anzunehmen. David kehrt mit der Unterstützung Judas nach Jerusalem zurück, begnadigt Schimei, teilt Sauls Land zwischen Mephiboseth und Ziba auf und nimmt Barsillais Sohn Kimham in seinen Dienst, obwohl Spannung zwischen den Männern Judas und Israels darüber entbrennt, wer den König heimgebracht hat.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Joab weist David zurecht"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Davids Rückkehr nach Jerusalem"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "David begnadigt Schimi"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Die Begegnung mit Mefi-Boschet"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "David und Barsillai"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Israel und Juda streiten um den König"
+        }
+      ]
     },
     {
       "id": "2-samuel-20",
@@ -1232,7 +1470,17 @@
           "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
         }
       ],
-      "keyTakeaway": "Scheba, der Sohn Bichris, verführt Israel zur Abkehr von David; der König schickt Abisai hinter ihm her; Joab tötet Amasa durch Verrat und verfolgt dann Scheba bis Abel-Beth-Maacha, wo eine weise Frau seine Auslieferung aushandelt und die Aufrührer sich zerstreuen."
+      "keyTakeaway": "Scheba, der Sohn Bichris, verführt Israel zur Abkehr von David; der König schickt Abisai hinter ihm her; Joab tötet Amasa durch Verrat und verfolgt dann Scheba bis Abel-Beth-Maacha, wo eine weise Frau seine Auslieferung aushandelt und die Aufrührer sich zerstreuen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Schebas Aufstand"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Die obersten Beamten Davids"
+        }
+      ]
     },
     {
       "id": "2-samuel-21",
@@ -1290,7 +1538,17 @@
           "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
         }
       ],
-      "keyTakeaway": "Eine dreijährige Hungersnot veranlasst David, sieben Nachkommen Sauls hinrichten zu lassen, um die Gibeoniter zu befriedigen, die Saul zu vernichten versucht hatte; nach ordentlicher Bestattung der Gebeine beendet Gott die Hungersnot, und Davids Truppen besiegen in späteren Schlachten mehrere Philistergiganten."
+      "keyTakeaway": "Eine dreijährige Hungersnot veranlasst David, sieben Nachkommen Sauls hinrichten zu lassen, um die Gibeoniter zu befriedigen, die Saul zu vernichten versucht hatte; nach ordentlicher Bestattung der Gebeine beendet Gott die Hungersnot, und Davids Truppen besiegen in späteren Schlachten mehrere Philistergiganten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Weitere Ereignisse aus Davids Regierungszeit Ein Verbrechen von Saul wird gesühnt"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Kriege gegen die Philister"
+        }
+      ]
     },
     {
       "id": "2-samuel-22",
@@ -1377,7 +1635,13 @@
           "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
         }
       ],
-      "keyTakeaway": "David trägt dem HERRN ein Danklied vor für seine Errettung aus der Hand seiner Feinde und Sauls, schildert Gottes Macht anhand eindrücklicher Bilder göttlichen Eingreifens und bekundet seine eigene Gerechtigkeit sowie seine kriegerischen Siege."
+      "keyTakeaway": "David trägt dem HERRN ein Danklied vor für seine Errettung aus der Hand seiner Feinde und Sauls, schildert Gottes Macht anhand eindrücklicher Bilder göttlichen Eingreifens und bekundet seine eigene Gerechtigkeit sowie seine kriegerischen Siege.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davids Danklied"
+        }
+      ]
     },
     {
       "id": "2-samuel-23",
@@ -1452,7 +1716,17 @@
           "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
         }
       ],
-      "keyTakeaway": "David hält seine letzten Worte, bekräftigt Gottes Bund mit ihm und kündigt das Gericht über böse Männer an. Dann catalogisiert er seine Helden, schildert ihre einzelnen Taten und nennt alle siebenunddreißig seiner obersten Kämpfer."
+      "keyTakeaway": "David hält seine letzten Worte, bekräftigt Gottes Bund mit ihm und kündigt das Gericht über böse Männer an. Dann catalogisiert er seine Helden, schildert ihre einzelnen Taten und nennt alle siebenunddreißig seiner obersten Kämpfer.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davids letzte Worte"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Die berühmtesten Soldaten Davids"
+        }
+      ]
     },
     {
       "id": "2-samuel-24",
@@ -1513,7 +1787,13 @@
           "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
         }
       ],
-      "keyTakeaway": "Der HERR veranlasst David, eine Volkszählung durchzuführen; nachdem Joab die Zählung der Kriegsmänner Israels abgeschlossen hat, bereut David und wählt die Pest als Strafe, die siebzigtausend Menschen tötet, bevor sie vor Jerusalem aufhört. David kauft die Tenne Araunas, errichtet einen Altar und bringt Opfer dar, und die Pest hört auf."
+      "keyTakeaway": "Der HERR veranlasst David, eine Volkszählung durchzuführen; nachdem Joab die Zählung der Kriegsmänner Israels abgeschlossen hat, bereut David und wählt die Pest als Strafe, die siebzigtausend Menschen tötet, bevor sie vor Jerusalem aufhört. David kauft die Tenne Araunas, errichtet einen Altar und bringt Opfer dar, und die Pest hört auf.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davids Volkszählung"
+        }
+      ]
     }
   ]
 }

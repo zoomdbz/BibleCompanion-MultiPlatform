@@ -32,7 +32,17 @@
           "note": "Expression combinant « parole » (message, révélation) et « vie », désignant la vie éternelle révélée en Christ."
         }
       ],
-      "keyTakeaway": "Jean proclame la Parole de vie manifestée et invite les croyants à la communion avec le Père, le Fils et entre eux."
+      "keyTakeaway": "Jean proclame la Parole de vie manifestée et invite les croyants à la communion avec le Père, le Fils et entre eux.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La parole de vie"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Dieu est lumière. Marcher dans la lumière. La confession des péchés. Le pardon par Jésus-Christ"
+        }
+      ]
     },
     {
       "id": "1_john-2",
@@ -83,7 +93,21 @@
           "note": "Désigne le sacrifice expiatoire qui ôte le péché et restaure la faveur de Dieu ; lié à l'image du propitiatoire dans le temple."
         }
       ],
-      "keyTakeaway": "Jean oppose la lumière et les ténèbres, assure le pardon par le Christ intercesseur et appelle les croyants à obéir et à marcher comme il a marché."
+      "keyTakeaway": "Jean oppose la lumière et les ténèbres, assure le pardon par le Christ intercesseur et appelle les croyants à obéir et à marcher comme il a marché.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "L’observation des commandements. L’amour fraternel; le détachement du monde"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Les antéchrists"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Les enfants de Dieu"
+        }
+      ]
     },
     {
       "id": "1_john-3",
@@ -177,7 +201,17 @@
           "note": "Expression décrivant l'amour de Dieu parvenu à sa maturité, qui chasse la crainte du jugement."
         }
       ],
-      "keyTakeaway": "Jean invite les croyants à éprouver les esprits, à reconnaître la vraie confession du Christ, et souligne que Dieu est amour, révélé en son Fils et accompli dans l'amour mutuel."
+      "keyTakeaway": "Jean invite les croyants à éprouver les esprits, à reconnaître la vraie confession du Christ, et souligne que Dieu est amour, révélé en son Fils et accompli dans l'amour mutuel.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les faux docteurs"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Dieu est amour. Aimer Dieu et aimer ses frères"
+        }
+      ]
     },
     {
       "id": "1_john-5",
@@ -225,7 +259,17 @@
           "note": "Distingue entre les péchés ; certains n'entraînent pas un jugement immédiat et définitif, tandis que d'autres (menant à la mort) signifient le rejet de la vie de Dieu."
         }
       ],
-      "keyTakeaway": "Jean conclut que la vie éternelle est dans le Fils, que la foi triomphe du monde, que l'Esprit, l'eau et le sang témoignent, et que les croyants doivent se garder des idoles."
+      "keyTakeaway": "Jean conclut que la vie éternelle est dans le Fils, que la foi triomphe du monde, que l'Esprit, l'eau et le sang témoignent, et que les croyants doivent se garder des idoles.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La foi en Jésus, et ses conséquences"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Efficacité de la prière"
+        }
+      ]
     }
   ]
 }

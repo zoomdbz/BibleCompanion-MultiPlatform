@@ -52,7 +52,21 @@
           "note": "Gesù spiega che sono gli angeli delle sette chiese (1:20)."
         }
       ],
-      "keyTakeaway": "Giovanni riceve una visione del Cristo glorificato in mezzo a sette candelabri, che lo incarica di scrivere alle chiese."
+      "keyTakeaway": "Giovanni riceve una visione del Cristo glorificato in mezzo a sette candelabri, che lo incarica di scrivere alle chiese.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Titolo e argomento del libro"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Dedica alle sette chiese dell’Asia"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Il Figlio dell’uomo appare in visione a Giovanni"
+        }
+      ]
     },
     {
       "id": "revelation-2",
@@ -118,7 +132,25 @@
           "note": "Simbolo di Cristo stesso, datore di luce e sovrano sulle nazioni; identificato successivamente come Gesù (Apocalisse 22:16)."
         }
       ],
-      "keyTakeaway": "Cristo si rivolge a quattro chiese con lodi e avvertimenti: Efeso ha abbandonato il suo primo amore nonostante il rifiuto dei falsi apostoli; Smirne affronta la persecuzione ma è spiritualmente ricca; Pergamo rimane fedele nonostante il trono di Satana vi si trovi, ma tollera false dottrine; Tiatira pratica amore e servizio ma permette alla profetessa Gezabele di condurre i credenti all'immoralità sessuale e all'idolatria. A ogni chiesa sono promesse ricompense per chi vince, a condizione che si ravveda e perseveri."
+      "keyTakeaway": "Cristo si rivolge a quattro chiese con lodi e avvertimenti: Efeso ha abbandonato il suo primo amore nonostante il rifiuto dei falsi apostoli; Smirne affronta la persecuzione ma è spiritualmente ricca; Pergamo rimane fedele nonostante il trono di Satana vi si trovi, ma tollera false dottrine; Tiatira pratica amore e servizio ma permette alla profetessa Gezabele di condurre i credenti all'immoralità sessuale e all'idolatria. A ogni chiesa sono promesse ricompense per chi vince, a condizione che si ravveda e perseveri.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lettera alla chiesa di Efeso"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Lettera alla chiesa di Smirne"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Lettera alla chiesa di Pergamo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Lettera alla chiesa di Tiatiri"
+        }
+      ]
     },
     {
       "id": "revelation-3",
@@ -177,7 +209,21 @@
           "note": "Simbolo di Cristo stesso, datore di luce e sovrano sulle nazioni; identificato successivamente come Gesù (Apocalisse 22:16)."
         }
       ],
-      "keyTakeaway": "Cristo si rivolge a tre chiese: Sardi è spiritualmente morta nonostante la sua reputazione e deve pentirsi o affrontare un giudizio improvviso, anche se alcuni rimangono fedeli; Filadelfia è debole ma obbediente e sarà protetta dalle prove imminenti; Laodicea è tiepida e ingannata riguardo alla propria povertà, e Cristo la invita ad acquistare raffinamento spirituale e a pentirsi."
+      "keyTakeaway": "Cristo si rivolge a tre chiese: Sardi è spiritualmente morta nonostante la sua reputazione e deve pentirsi o affrontare un giudizio improvviso, anche se alcuni rimangono fedeli; Filadelfia è debole ma obbediente e sarà protetta dalle prove imminenti; Laodicea è tiepida e ingannata riguardo alla propria povertà, e Cristo la invita ad acquistare raffinamento spirituale e a pentirsi.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lettera alla chiesa di Sardi"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Lettera alla chiesa di Filadelfia"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Lettera alla chiesa di Laodicea"
+        }
+      ]
     },
     {
       "id": "revelation-4",
@@ -230,7 +276,13 @@
           "note": "Prostrarsi in omaggio, 'baciare verso.' Usato quando i Magi adorarono Gesù (Matteo 2:11), quando Gesù insegnò riguardo all'adorazione in spirito e verità (Giovanni 4:23–24), quando il cieco guarito si prostrò davanti a lui (Giovanni 9:38), e nell'Apocalisse dove gli esseri celesti si prostrano in adorazione (Apocalisse 4:10; 19:10)."
         }
       ],
-      "keyTakeaway": "Giovanni viene trasportato nella sala del trono celeste, dove contempla la gloria di Dio, gli anziani, i viventi e il loro incessante culto."
+      "keyTakeaway": "Giovanni viene trasportato nella sala del trono celeste, dove contempla la gloria di Dio, gli anziani, i viventi e il loro incessante culto.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il trono di Dio"
+        }
+      ]
     },
     {
       "id": "revelation-5",
@@ -281,7 +333,13 @@
           "note": "Sette sigilli di cera o argilla che indicano la sicurezza completa e il carattere nascosto del decreto divino."
         }
       ],
-      "keyTakeaway": "Solo l'Agnello ucciso e risorto è degno di aprire il rotolo, e tutta la creazione lo adora insieme a Dio."
+      "keyTakeaway": "Solo l'Agnello ucciso e risorto è degno di aprire il rotolo, e tutta la creazione lo adora insieme a Dio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il libro dei sette sigilli. Solo l’Agnello è degno di aprirlo"
+        }
+      ]
     },
     {
       "id": "revelation-6",
@@ -335,7 +393,13 @@
           "note": "Immagine paradossale del giudizio proveniente dall'Agnello che è stato immolato."
         }
       ],
-      "keyTakeaway": "L'apertura dei sei sigilli rivela cavalieri che portano conquista, guerra, carestia, morte, martiri che chiedono giustizia e sconvolgimenti cosmici prima del giudizio."
+      "keyTakeaway": "L'apertura dei sei sigilli rivela cavalieri che portano conquista, guerra, carestia, morte, martiri che chiedono giustizia e sconvolgimenti cosmici prima del giudizio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’apertura dei primi sei sigilli"
+        }
+      ]
     },
     {
       "id": "revelation-7",
@@ -384,7 +448,13 @@
           "note": "Un periodo di intensa sofferenza attraverso il quale i fedeli perseverano."
         }
       ],
-      "keyTakeaway": "Dio sigilla i suoi servi per proteggerli, mostra la moltitudine dei redenti da ogni nazione che adora, e promette riparo eterno, provvedimento e consolazione per mezzo dell'Agnello."
+      "keyTakeaway": "Dio sigilla i suoi servi per proteggerli, mostra la moltitudine dei redenti da ogni nazione che adora, e promette riparo eterno, provvedimento e consolazione per mezzo dell'Agnello.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I centoquarantaquattromila e la grande folla venuta dalla tribolazione"
+        }
+      ]
     },
     {
       "id": "revelation-8",
@@ -429,7 +499,17 @@
           "note": "Letteralmente 'due volte diecimila volte diecimila'; un esercito immenso e innumerevole."
         }
       ],
-      "keyTakeaway": "Il settimo sigillo si apre nel silenzio; sette angeli ricevono le trombe e un angelo offre incenso con le preghiere del popolo di Dio sull'altare. Quando i primi quattro angeli suonano le loro trombe, piaghe devastanti colpiscono la terra: grandine e fuoco bruciano la vegetazione, una montagna ardente avvelena il mare, la stella Assenzio contamina le riserve d'acqua e le tenebre coprono un terzo del cielo; un'aquila annuncia altri tre guai in arrivo."
+      "keyTakeaway": "Il settimo sigillo si apre nel silenzio; sette angeli ricevono le trombe e un angelo offre incenso con le preghiere del popolo di Dio sull'altare. Quando i primi quattro angeli suonano le loro trombe, piaghe devastanti colpiscono la terra: grandine e fuoco bruciano la vegetazione, una montagna ardente avvelena il mare, la stella Assenzio contamina le riserve d'acqua e le tenebre coprono un terzo del cielo; un'aquila annuncia altri tre guai in arrivo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Apertura del settimo sigillo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Le prime sei trombe"
+        }
+      ]
     },
     {
       "id": "revelation-9",
@@ -524,7 +604,13 @@
           "note": "Il proposito nascosto di Dio, annunciato ai profeti, che si compie alla settima tromba."
         }
       ],
-      "keyTakeaway": "Un potente angelo dà a Giovanni un piccolo rotolo da mangiare, simbolo di profezia dolce e amara, che annuncia giudizio e testimonianza."
+      "keyTakeaway": "Un potente angelo dà a Giovanni un piccolo rotolo da mangiare, simbolo di profezia dolce e amara, che annuncia giudizio e testimonianza.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il libretto dato a Giovanni"
+        }
+      ]
     },
     {
       "id": "revelation-11",
@@ -575,7 +661,17 @@
           "note": "Cassa sacra che simboleggia la presenza di Dio, ora rivelata nel tempio celeste."
         }
       ],
-      "keyTakeaway": "Giovanni vede due testimoni profetizzare, essere uccisi, risuscitati e salire al cielo; suona la settima tromba, che proclama il regno eterno di Cristo."
+      "keyTakeaway": "Giovanni vede due testimoni profetizzare, essere uccisi, risuscitati e salire al cielo; suona la settima tromba, che proclama il regno eterno di Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I due testimoni"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La settima tromba"
+        }
+      ]
     },
     {
       "id": "revelation-12",
@@ -623,7 +719,13 @@
           "note": "Identificato esplicitamente come il diavolo, Satana e l'antico serpente della Genesi."
         }
       ],
-      "keyTakeaway": "Giovanni vede una visione di una donna, del suo bambino rapito verso Dio e del drago sconfitto in cielo ma in guerra contro la sua discendenza sulla terra."
+      "keyTakeaway": "Giovanni vede una visione di una donna, del suo bambino rapito verso Dio e del drago sconfitto in cielo ma in guerra contro la sua discendenza sulla terra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La donna e il dragone"
+        }
+      ]
     },
     {
       "id": "revelation-13",
@@ -678,7 +780,17 @@
           "note": "Numero della bestia, associato all'imperfezione e all'uomo; contrasta con la completezza divina (7)."
         }
       ],
-      "keyTakeaway": "Giovanni vede una bestia dal mare e un'altra dalla terra, potenziate dal drago, che esigono adorazione, perseguitano i santi e marchiano i loro seguaci con il 666."
+      "keyTakeaway": "Giovanni vede una bestia dal mare e un'altra dalla terra, potenziate dal drago, che esigono adorazione, perseguitano i santi e marchiano i loro seguaci con il 666.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La bestia che sale dal mare"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La bestia che sale dalla terra"
+        }
+      ]
     },
     {
       "id": "revelation-14",
@@ -735,7 +847,21 @@
           "note": "Antica unità di misura della distanza, circa 296 km; usata qui per indicare l'estensione del giudizio."
         }
       ],
-      "keyTakeaway": "Giovanni vede l'Agnello con i 144.000, i messaggi di tre angeli sul vangelo, la caduta di Babilonia e l'ira contro chi adora la bestia, seguiti dal raccolto della terra."
+      "keyTakeaway": "Giovanni vede l'Agnello con i 144.000, i messaggi di tre angeli sul vangelo, la caduta di Babilonia e l'ira contro chi adora la bestia, seguiti dal raccolto della terra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’Agnello e i suoi redenti"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Tre angeli proclamano i giudizi di Dio"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La mèsse e la vendemmia"
+        }
+      ]
     },
     {
       "id": "revelation-15",
@@ -785,7 +911,13 @@
           "note": "Letteralmente \"Monte di Megiddo\"; punto di raduno simbolico per la battaglia finale."
         }
       ],
-      "keyTakeaway": "Sette angeli con le ultime piaghe appaiono in cielo; coloro che hanno vinto la bestia cantano lodi accanto a un mare di vetro mentre il tempio si apre e gli angeli ricevono coppe d'oro piene dell'ira di Dio."
+      "keyTakeaway": "Sette angeli con le ultime piaghe appaiono in cielo; coloro che hanno vinto la bestia cantano lodi accanto a un mare di vetro mentre il tempio si apre e gli angeli ricevono coppe d'oro piene dell'ira di Dio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I sette angeli e gli ultimi sette flagelli"
+        }
+      ]
     },
     {
       "id": "revelation-16",
@@ -848,7 +980,13 @@
           "note": "Letteralmente \"Monte di Megiddo\"; punto di raduno simbolico per la battaglia finale."
         }
       ],
-      "keyTakeaway": "Sette angeli versano le coppe dell'ira di Dio sulla terra: piaghe su chi porta il marchio, sangue nel mare e nelle acque, sole cocente, tenebre sul regno della bestia, Eufrate prosciugato e spiriti demoniaci che radunano i re ad Armaghedon; la settima coppa provoca un terremoto catastrofico, il crollo delle città e grandine di proporzioni enormi."
+      "keyTakeaway": "Sette angeli versano le coppe dell'ira di Dio sulla terra: piaghe su chi porta il marchio, sangue nel mare e nelle acque, sole cocente, tenebre sul regno della bestia, Eufrate prosciugato e spiriti demoniaci che radunano i re ad Armaghedon; la settima coppa provoca un terremoto catastrofico, il crollo delle città e grandine di proporzioni enormi.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le sette coppe dell’ira di Dio"
+        }
+      ]
     },
     {
       "id": "revelation-17",
@@ -908,7 +1046,13 @@
           "note": "Banchetto festivo dell'unione tra l'Agnello e la sua sposa, che simboleggia il popolo redento di Dio."
         }
       ],
-      "keyTakeaway": "Un angelo mostra a Giovanni una donna chiamata Babilonia la Grande, seduta su una bestia scarlatta con sette teste e dieci corna; l'angelo interpreta la visione, spiegando che le sette teste sono sette re e le dieci corna sono dieci re che faranno guerra all'Agnello ma saranno alla fine sconfitti. La bestia e le dieci corna distruggeranno la prostituta, e Dio le userà per compiere il suo scopo prima della loro distruzione."
+      "keyTakeaway": "Un angelo mostra a Giovanni una donna chiamata Babilonia la Grande, seduta su una bestia scarlatta con sette teste e dieci corna; l'angelo interpreta la visione, spiegando che le sette teste sono sette re e le dieci corna sono dieci re che faranno guerra all'Agnello ma saranno alla fine sconfitti. La bestia e le dieci corna distruggeranno la prostituta, e Dio le userà per compiere il suo scopo prima della loro distruzione.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La caduta di Babilonia, la grande"
+        }
+      ]
     },
     {
       "id": "revelation-18",
@@ -1037,7 +1181,17 @@
           "note": "Banchetto festivo dell'unione tra l'Agnello e la sua sposa, che simboleggia il popolo redento di Dio."
         }
       ],
-      "keyTakeaway": "Il cielo esplode in lodi mentre Dio giudica la grande prostituta e viene annunciata la cena delle nozze dell'Agnello; un cavaliere su un cavallo bianco chiamato Fedele e Verace muove guerra alla bestia e ai re della terra, catturando la bestia e il falso profeta mentre i loro eserciti vengono sconfitti dalla spada che esce dalla sua bocca."
+      "keyTakeaway": "Il cielo esplode in lodi mentre Dio giudica la grande prostituta e viene annunciata la cena delle nozze dell'Agnello; un cavaliere su un cavallo bianco chiamato Fedele e Verace muove guerra alla bestia e ai re della terra, catturando la bestia e il falso profeta mentre i loro eserciti vengono sconfitti dalla spada che esce dalla sua bocca.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gioia e trionfo nei cieli; le nozze dell’Agnello"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Seconda venuta di Cristo; vittoria sulla bestia e sul falso profeta"
+        }
+      ]
     },
     {
       "id": "revelation-20",
@@ -1099,7 +1253,21 @@
           "note": "Luogo finale di giudizio e tormento eterno per Satana, la bestia e il falso profeta."
         }
       ],
-      "keyTakeaway": "Satana è incatenato per 1.000 anni mentre i santi regnano con Cristo; dopo una breve liberazione e la ribellione finale, viene gettato nello stagno di fuoco per sempre."
+      "keyTakeaway": "Satana è incatenato per 1.000 anni mentre i santi regnano con Cristo; dopo una breve liberazione e la ribellione finale, viene gettato nello stagno di fuoco per sempre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Satana legato; il regno millenario di Cristo"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Satana sciolto; l’ultima rivolta"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Il giudizio finale"
+        }
+      ]
     },
     {
       "id": "revelation-21",
@@ -1173,7 +1341,17 @@
           "note": "Qui identificata con Cristo stesso, datore di luce e speranza eterna."
         }
       ],
-      "keyTakeaway": "Giovanni vede un nuovo cielo e una nuova terra con la santa città, la nuova Gerusalemme, che scende da Dio; è una città quadrata di 12.000 stadi per lato, costruita d'oro e pietre preziose con dodici porte e fondamenta su cui sono iscritti i nomi delle tribù d'Israele e degli apostoli. Dio abita in mezzo al popolo, asciuga ogni lacrima e ogni dolore, e i vittoriosi ereditano questa città mentre i codardi e gli increduli sono destinati allo stagno di fuoco e zolfo."
+      "keyTakeaway": "Giovanni vede un nuovo cielo e una nuova terra con la santa città, la nuova Gerusalemme, che scende da Dio; è una città quadrata di 12.000 stadi per lato, costruita d'oro e pietre preziose con dodici porte e fondamenta su cui sono iscritti i nomi delle tribù d'Israele e degli apostoli. Dio abita in mezzo al popolo, asciuga ogni lacrima e ogni dolore, e i vittoriosi ereditano questa città mentre i codardi e gli increduli sono destinati allo stagno di fuoco e zolfo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I nuovi cieli e la nuova terra"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La nuova Gerusalemme"
+        }
+      ]
     },
     {
       "id": "revelation-22",
@@ -1241,7 +1419,13 @@
           "note": "Qui identificata con Cristo stesso, datore di luce e speranza eterna."
         }
       ],
-      "keyTakeaway": "L'angelo mostra a Giovanni il fiume della vita, l'albero della vita e il trono di Dio nella città santa, dove i servi di Dio lo serviranno e vedranno il suo volto; Gesù dichiara che viene presto e avverte di non aggiungere né togliere parole da questa profezia."
+      "keyTakeaway": "L'angelo mostra a Giovanni il fiume della vita, l'albero della vita e il trono di Dio nella città santa, dove i servi di Dio lo serviranno e vedranno il suo volto; Gesù dichiara che viene presto e avverte di non aggiungere né togliere parole da questa profezia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Conclusione; ultimo messaggio della Bibbia"
+        }
+      ]
     }
   ]
 }

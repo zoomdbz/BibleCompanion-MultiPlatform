@@ -52,7 +52,21 @@
           "note": "Jesus explica que são os anjos das sete igrejas (1:20)."
         }
       ],
-      "keyTakeaway": "João recebe uma visão de Cristo glorificado entre sete candelabros, que o comissiona a escrever para as igrejas."
+      "keyTakeaway": "João recebe uma visão de Cristo glorificado entre sete candelabros, que o comissiona a escrever para as igrejas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O título, o autor e o assunto do livro"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Dedicatória às sete igrejas da Ásia"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A visão de Jesus glorificado"
+        }
+      ]
     },
     {
       "id": "revelation-2",
@@ -118,7 +132,25 @@
           "note": "Um símbolo do próprio Cristo, doador de luz e governante sobre as nações; mais tarde identificado como Jesus (Apocalipse 22:16)."
         }
       ],
-      "keyTakeaway": "Cristo se dirige a quatro igrejas com elogios e advertências: Éfeso abandonou o primeiro amor apesar de rejeitar falsos apóstolos; Esmirna enfrenta perseguição mas é espiritualmente rica; Pérgamo permanece fiel apesar do trono de Satanás ali, mas tolera falsos ensinamentos; Tiatira pratica amor e serviço, mas permite que a profetisa Jezabel leve os crentes à imoralidade sexual e à idolatria. A cada igreja são prometidas recompensas por vencer, se se arrependerem e perseverarem."
+      "keyTakeaway": "Cristo se dirige a quatro igrejas com elogios e advertências: Éfeso abandonou o primeiro amor apesar de rejeitar falsos apóstolos; Esmirna enfrenta perseguição mas é espiritualmente rica; Pérgamo permanece fiel apesar do trono de Satanás ali, mas tolera falsos ensinamentos; Tiatira pratica amor e serviço, mas permite que a profetisa Jezabel leve os crentes à imoralidade sexual e à idolatria. A cada igreja são prometidas recompensas por vencer, se se arrependerem e perseverarem.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Carta à igreja em Éfeso"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Carta à igreja em Esmirna"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Carta à igreja em Pérgamo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Carta à igreja em Tiatira"
+        }
+      ]
     },
     {
       "id": "revelation-3",
@@ -177,7 +209,21 @@
           "note": "Um símbolo do próprio Cristo, doador de luz e governante sobre as nações; mais tarde identificado como Jesus (Apocalipse 22:16)."
         }
       ],
-      "keyTakeaway": "Cristo se dirige a três igrejas: Sardes está espiritualmente morta apesar de sua reputação e deve se arrepender ou enfrentar um julgamento repentino, embora alguns permaneçam fiéis; Filadélfia é fraca mas obediente e será protegida das provações que virão; Laodiceia é morna e autoiludida quanto à sua pobreza, e Cristo a chama a buscar refinamento espiritual e a se arrepender."
+      "keyTakeaway": "Cristo se dirige a três igrejas: Sardes está espiritualmente morta apesar de sua reputação e deve se arrepender ou enfrentar um julgamento repentino, embora alguns permaneçam fiéis; Filadélfia é fraca mas obediente e será protegida das provações que virão; Laodiceia é morna e autoiludida quanto à sua pobreza, e Cristo a chama a buscar refinamento espiritual e a se arrepender.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Carta à igreja em Sardes"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Carta à igreja em Filadélfia"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Carta à igreja em Laodiceia"
+        }
+      ]
     },
     {
       "id": "revelation-4",
@@ -230,7 +276,13 @@
           "note": "Prostrar-se em homenagem, 'beijar em direção a.' Usado quando os magos adoraram Jesus (Mateus 2:11), quando Jesus ensinou sobre adorar em espírito e verdade (João 4:23–24), quando o cego curado se prostrou diante dele (João 9:38) e em Apocalipse, onde seres celestiais se prostram em adoração (Apocalipse 4:10; 19:10)."
         }
       ],
-      "keyTakeaway": "João é levado à sala do trono celestial, onde contempla a glória de Deus, os anciãos, os seres viventes e sua adoração incessante."
+      "keyTakeaway": "João é levado à sala do trono celestial, onde contempla a glória de Deus, os anciãos, os seres viventes e sua adoração incessante.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A visão do trono de Deus"
+        }
+      ]
     },
     {
       "id": "revelation-5",
@@ -281,7 +333,13 @@
           "note": "Sete selos de cera ou argila significando segurança completa e ocultamento do decreto divino."
         }
       ],
-      "keyTakeaway": "Somente o Cordeiro morto e ressurreto é digno de abrir o rolo, e toda a criação o adora junto com Deus."
+      "keyTakeaway": "Somente o Cordeiro morto e ressurreto é digno de abrir o rolo, e toda a criação o adora junto com Deus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A visão do livro selado com sete selos e a do Cordeiro"
+        }
+      ]
     },
     {
       "id": "revelation-6",
@@ -335,7 +393,33 @@
           "note": "Imagem paradoxal de julgamento vindo do Cordeiro que foi morto."
         }
       ],
-      "keyTakeaway": "A abertura dos seis selos revela cavaleiros que trazem conquista, guerra, fome, morte, mártires clamando por justiça e convulsões cósmicas antes do juízo."
+      "keyTakeaway": "A abertura dos seis selos revela cavaleiros que trazem conquista, guerra, fome, morte, mártires clamando por justiça e convulsões cósmicas antes do juízo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Cordeiro abre os selos. O primeiro selo"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "O segundo selo"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "O terceiro selo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "O quarto selo"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "O quinto selo"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "O sexto selo"
+        }
+      ]
     },
     {
       "id": "revelation-7",
@@ -384,7 +468,17 @@
           "note": "Um período de sofrimento intenso pelo qual os fiéis perseveram."
         }
       ],
-      "keyTakeaway": "Deus sela seus servos para proteção, mostra a multidão redimida de todas as nações adorando e promete abrigo eterno, provisão e consolo por meio do Cordeiro."
+      "keyTakeaway": "Deus sela seus servos para proteção, mostra a multidão redimida de todas as nações adorando e promete abrigo eterno, provisão e consolo por meio do Cordeiro.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os cento e quarenta e quatro mil selados de Israel"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A visão dos glorificados"
+        }
+      ]
     },
     {
       "id": "revelation-8",
@@ -429,7 +523,29 @@
           "note": "Literalmente 'duas vezes dez mil vezes dez mil'; um exército imenso e incontável."
         }
       ],
-      "keyTakeaway": "O sétimo selo é aberto em silêncio; sete anjos recebem trombetas e um anjo oferece incenso com as orações do povo de Deus no altar. Quando os primeiros quatro anjos tocam suas trombetas, pragas devastadoras atingem a terra: granizo e fogo queimam a vegetação, uma montanha em chamas envenena o mar, a estrela Absinto contamina os mananciais e trevas cobrem um terço do céu; uma águia anuncia mais três aflições por vir."
+      "keyTakeaway": "O sétimo selo é aberto em silêncio; sete anjos recebem trombetas e um anjo oferece incenso com as orações do povo de Deus no altar. Quando os primeiros quatro anjos tocam suas trombetas, pragas devastadoras atingem a terra: granizo e fogo queimam a vegetação, uma montanha em chamas envenena o mar, a estrela Absinto contamina os mananciais e trevas cobrem um terço do céu; uma águia anuncia mais três aflições por vir.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sétimo selo. Os sete anjos com as suas trombetas"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "A primeira trombeta"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A segunda trombeta"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "A terceira trombeta"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A quarta trombeta"
+        }
+      ]
     },
     {
       "id": "revelation-9",
@@ -482,7 +598,17 @@
           "note": "Literalmente 'duas vezes dez mil vezes dez mil'; um exército imenso e incontável."
         }
       ],
-      "keyTakeaway": "Uma estrela caída abre o Abismo, soltando gafanhotos com poder de escorpião para atormentar os não selados por cinco meses sob seu rei Abadão; então quatro anjos no Eufrates são soltos para matar um terço da humanidade com duzentos milhões de tropas montadas, mas os sobreviventes se recusam a se arrepender de idolatria e maldade."
+      "keyTakeaway": "Uma estrela caída abre o Abismo, soltando gafanhotos com poder de escorpião para atormentar os não selados por cinco meses sob seu rei Abadão; então quatro anjos no Eufrates são soltos para matar um terço da humanidade com duzentos milhões de tropas montadas, mas os sobreviventes se recusam a se arrepender de idolatria e maldade.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A quinta trombeta"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A sexta trombeta"
+        }
+      ]
     },
     {
       "id": "revelation-10",
@@ -524,7 +650,13 @@
           "note": "O propósito oculto de Deus, anunciado aos profetas, cumprido na sétima trombeta."
         }
       ],
-      "keyTakeaway": "Um anjo poderoso entrega a João um pequeno rolo para comer, simbolizando uma profecia ao mesmo tempo doce e amarga, que anuncia julgamento e testemunho."
+      "keyTakeaway": "Um anjo poderoso entrega a João um pequeno rolo para comer, simbolizando uma profecia ao mesmo tempo doce e amarga, que anuncia julgamento e testemunho.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os anjos e os sete trovões. João e o livrinho"
+        }
+      ]
     },
     {
       "id": "revelation-11",
@@ -575,7 +707,21 @@
           "note": "Arca sagrada simbolizando a presença de Deus, agora revelada no templo celestial."
         }
       ],
-      "keyTakeaway": "João vê dois testemunhos profetizar, serem mortos, ressuscitados e levados ao céu; a sétima trombeta soa, declarando o reinado eterno de Cristo."
+      "keyTakeaway": "João vê dois testemunhos profetizar, serem mortos, ressuscitados e levados ao céu; a sétima trombeta soa, declarando o reinado eterno de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ordens para medir o santuário de Deus"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "As duas testemunhas mártires"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A sétima trombeta"
+        }
+      ]
     },
     {
       "id": "revelation-12",
@@ -623,7 +769,21 @@
           "note": "Identificado explicitamente como o diabo, Satanás e a antiga serpente de Gênesis."
         }
       ],
-      "keyTakeaway": "João tem uma visão de uma mulher, seu filho arrebatado para Deus e o dragão derrotado no céu, mas guerreando contra os descendentes dela na terra."
+      "keyTakeaway": "João tem uma visão de uma mulher, seu filho arrebatado para Deus e o dragão derrotado no céu, mas guerreando contra os descendentes dela na terra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A mulher e o dragão"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Anjos pelejam no céu contra o dragão. A vitória de Cristo e do seu povo"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "O dragão persegue a mulher"
+        }
+      ]
     },
     {
       "id": "revelation-13",
@@ -678,7 +838,17 @@
           "note": "Número da besta, associado à imperfeição e ao homem; contrasta com a completude divina (7)."
         }
       ],
-      "keyTakeaway": "João vê uma besta do mar e outra da terra, ambas capacitadas pelo dragão, que exigem adoração, perseguem os santos e marcam seus seguidores com o número 666."
+      "keyTakeaway": "João vê uma besta do mar e outra da terra, ambas capacitadas pelo dragão, que exigem adoração, perseguem os santos e marcam seus seguidores com o número 666.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A besta que emerge do mar"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "A besta que emerge da terra"
+        }
+      ]
     },
     {
       "id": "revelation-14",
@@ -735,7 +905,37 @@
           "note": "Medida antiga de distância, aproximadamente 296 km / 184 milhas; usada aqui para a extensão do julgamento."
         }
       ],
-      "keyTakeaway": "João vê o Cordeiro com 144.000, mensagens de três anjos sobre o evangelho, a queda da Babilônia e a ira contra os adoradores da besta, seguidas pela colheita da terra."
+      "keyTakeaway": "João vê o Cordeiro com 144.000, mensagens de três anjos sobre o evangelho, a queda da Babilônia e a ira contra os adoradores da besta, seguidas pela colheita da terra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Cordeiro e os seus remidos no monte Sião"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "A primeira voz"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A segunda voz"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A terceira voz"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A quarta voz"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A ceifa"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "A vindima"
+        }
+      ]
     },
     {
       "id": "revelation-15",
@@ -785,7 +985,17 @@
           "note": "Literalmente \"Monte de Megido\"; ponto de reunião simbólico para a batalha final."
         }
       ],
-      "keyTakeaway": "Sete anjos com as últimas pragas aparecem no céu; os que venceram a besta cantam louvores à beira de um mar de vidro enquanto o templo se abre e os anjos recebem taças de ouro cheias com a ira de Deus."
+      "keyTakeaway": "Sete anjos com as últimas pragas aparecem no céu; os que venceram a besta cantam louvores à beira de um mar de vidro enquanto o templo se abre e os anjos recebem taças de ouro cheias com a ira de Deus.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os sete flagelos Os remidos entoam o cântico de Moisés e o cântico do Cordeiro"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Deus envia os flagelos"
+        }
+      ]
     },
     {
       "id": "revelation-16",
@@ -848,7 +1058,37 @@
           "note": "Literalmente \"Monte de Megido\"; ponto de reunião simbólico para a batalha final."
         }
       ],
-      "keyTakeaway": "Sete anjos derramam as taças da ira de Deus sobre a terra: feridas nos que têm a marca, sangue no mar e nas águas, sol escaldante, trevas sobre o reino da besta, Eufrates seco, espíritos demoníacos reunindo reis em Armagedom; a sétima taça provoca um terremoto catastrófico, colapso de cidades e enorme queda de pedras de granizo."
+      "keyTakeaway": "Sete anjos derramam as taças da ira de Deus sobre a terra: feridas nos que têm a marca, sangue no mar e nas águas, sol escaldante, trevas sobre o reino da besta, Eufrates seco, espíritos demoníacos reunindo reis em Armagedom; a sétima taça provoca um terremoto catastrófico, colapso de cidades e enorme queda de pedras de granizo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O primeiro flagelo"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "O segundo flagelo"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "O terceiro flagelo"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "O quarto flagelo"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "O quinto flagelo"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "O sexto flagelo"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "O sétimo flagelo"
+        }
+      ]
     },
     {
       "id": "revelation-17",
@@ -908,7 +1148,13 @@
           "note": "Festa celebratória da união entre o Cordeiro e a sua esposa, simbolizando o povo redimido de Deus."
         }
       ],
-      "keyTakeaway": "Um anjo mostra a João uma mulher chamada Babilônia, a Grande, sentada sobre uma besta escarlate com sete cabeças e dez chifres; o anjo interpreta a visão, explicando que as sete cabeças são sete reis e os dez chifres são dez reis que farão guerra contra o Cordeiro, mas serão derrotados. A besta e os dez chifres destruirão a prostituta, e Deus os usará para cumprir seus propósitos antes de destruí-los."
+      "keyTakeaway": "Um anjo mostra a João uma mulher chamada Babilônia, a Grande, sentada sobre uma besta escarlate com sete cabeças e dez chifres; o anjo interpreta a visão, explicando que as sete cabeças são sete reis e os dez chifres são dez reis que farão guerra contra o Cordeiro, mas serão derrotados. A besta e os dez chifres destruirão a prostituta, e Deus os usará para cumprir seus propósitos antes de destruí-los.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A descrição da grande meretriz"
+        }
+      ]
     },
     {
       "id": "revelation-18",
@@ -974,7 +1220,21 @@
           "note": "Festa celebratória da união entre o Cordeiro e a sua esposa, simbolizando o povo redimido de Deus."
         }
       ],
-      "keyTakeaway": "Um anjo anuncia a queda da Babilônia; os reis e mercadores que enriqueceram por meio dela lamentam sua destruição, enquanto os que estão no céu se alegram porque Deus a julgou por seus pecados e pelo sangue dos profetas derramado nela."
+      "keyTakeaway": "Um anjo anuncia a queda da Babilônia; os reis e mercadores que enriqueceram por meio dela lamentam sua destruição, enquanto os que estão no céu se alegram porque Deus a julgou por seus pecados e pelo sangue dos profetas derramado nela.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O anúncio da queda de Babilônia"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Os lamentos dos admiradores de Babilônia"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "A ruína de Babilônia é completa e definitiva"
+        }
+      ]
     },
     {
       "id": "revelation-19",
@@ -1037,7 +1297,17 @@
           "note": "Festa celebratória da união entre o Cordeiro e a sua esposa, simbolizando o povo redimido de Deus."
         }
       ],
-      "keyTakeaway": "O céu irrompe em louvor enquanto Deus julga a grande prostituta, e a ceia das bodas do Cordeiro é anunciada; então um cavaleiro num cavalo branco chamado Fiel e Verdadeiro trava guerra contra a besta e os reis da terra, capturando a besta e o falso profeta enquanto seus exércitos são derrotados pela espada que sai de sua boca."
+      "keyTakeaway": "O céu irrompe em louvor enquanto Deus julga a grande prostituta, e a ceia das bodas do Cordeiro é anunciada; então um cavaleiro num cavalo branco chamado Fiel e Verdadeiro trava guerra contra a besta e os reis da terra, capturando a besta e o falso profeta enquanto seus exércitos são derrotados pela espada que sai de sua boca.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O júbilo no céu"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Cristo, o vencedor da besta e do falso profeta"
+        }
+      ]
     },
     {
       "id": "revelation-20",
@@ -1099,7 +1369,21 @@
           "note": "Lugar final de julgamento e tormento eterno para Satanás, a besta e o falso profeta."
         }
       ],
-      "keyTakeaway": "Satanás é acorrentado por 1.000 anos enquanto os santos reinam com Cristo; após uma breve libertação e rebelião final, ele é lançado no lago de fogo para sempre."
+      "keyTakeaway": "Satanás é acorrentado por 1.000 anos enquanto os santos reinam com Cristo; após uma breve libertação e rebelião final, ele é lançado no lago de fogo para sempre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A prisão de Satanás por mil anos. A primeira ressurreição"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Satanás é solto e derrotado"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "O juízo de Deus"
+        }
+      ]
     },
     {
       "id": "revelation-21",
@@ -1173,7 +1457,17 @@
           "note": "Aqui identificada com o próprio Cristo, doador de luz e esperança eterna."
         }
       ],
-      "keyTakeaway": "João vê um novo céu e uma nova terra com a Cidade Santa, a nova Jerusalém, descendo de Deus; é uma cidade quadrada de 12.000 estádios de cada lado, construída de ouro e pedras preciosas com doze portas e fundações inscritas com os nomes das tribos de Israel e dos apóstolos. Deus habita entre o povo, enxuga todas as lágrimas e dores, e os vitoriosos herdam essa cidade enquanto os covardes e incrédulos são lançados no lago de enxofre em chamas."
+      "keyTakeaway": "João vê um novo céu e uma nova terra com a Cidade Santa, a nova Jerusalém, descendo de Deus; é uma cidade quadrada de 12.000 estádios de cada lado, construída de ouro e pedras preciosas com doze portas e fundações inscritas com os nomes das tribos de Israel e dos apóstolos. Deus habita entre o povo, enxuga todas as lágrimas e dores, e os vitoriosos herdam essa cidade enquanto os covardes e incrédulos são lançados no lago de enxofre em chamas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O novo céu e a nova terra"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A nova Jerusalém"
+        }
+      ]
     },
     {
       "id": "revelation-22",
@@ -1241,7 +1535,25 @@
           "note": "Aqui identificada com o próprio Cristo, doador de luz e esperança eterna."
         }
       ],
-      "keyTakeaway": "O anjo mostra a João o rio da vida, a árvore da vida e o trono de Deus na cidade santa, onde os servos de Deus o servirão e verão seu rosto; Jesus declara que voltará em breve e adverte contra acrescentar ou remover palavras desta profecia."
+      "keyTakeaway": "O anjo mostra a João o rio da vida, a árvore da vida e o trono de Deus na cidade santa, onde os servos de Deus o servirão e verão seu rosto; Jesus declara que voltará em breve e adverte contra acrescentar ou remover palavras desta profecia.",
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "A certeza do cumprimento da profecia deste livro"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "As admoestações e as promessas finais"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A conclusão do livro"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "A bênção"
+        }
+      ]
     }
   ]
 }

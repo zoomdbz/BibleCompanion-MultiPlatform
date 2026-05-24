@@ -56,7 +56,13 @@
           "note": "Benevolenza impegnata nell'alleanza; la devozione di Rut verso Noemi esemplifica l'*hesed* (1:8) (1:16)."
         }
       ],
-      "keyTakeaway": "Rut lascia Moab per Betlemme, legandosi a Naomi, al popolo d'Israele e al Dio d'Israele. Il suo amore fedele (*ḥesed*) dà inizio a una storia di fedeltà all'alleanza."
+      "keyTakeaway": "Rut lascia Moab per Betlemme, legandosi a Naomi, al popolo d'Israele e al Dio d'Israele. Il suo amore fedele (*ḥesed*) dà inizio a una storia di fedeltà all'alleanza.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Affetto di Rut per Naomi, sua suocera"
+        }
+      ]
     },
     {
       "id": "ruth-2",
@@ -112,7 +118,13 @@
           "note": "Parente prossimo che ripristina la proprietà e la discendenza della famiglia (2:20)."
         }
       ],
-      "keyTakeaway": "La provvidenza di Dio guida Rut da Boaz. La sua generosità protegge lei e provvede per Naomi, introducendo il tema del redentore."
+      "keyTakeaway": "La provvidenza di Dio guida Rut da Boaz. La sua generosità protegge lei e provvede per Naomi, introducendo il tema del redentore.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Rut va a spigolare nel campo di Boaz"
+        }
+      ]
     },
     {
       "id": "ruth-3",
@@ -163,7 +175,13 @@
           "note": "Significa donna di valore; Boaz la usa per Rut (3:11), la stessa espressione di Proverbi 31:10."
         }
       ],
-      "keyTakeaway": "Rut chiede il riscatto. Boaz promette di sistemare la questione con integrità, manifestando fedeltà all'alleanza."
+      "keyTakeaway": "Rut chiede il riscatto. Boaz promette di sistemare la questione con integrità, manifestando fedeltà all'alleanza.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Rut nell’aia di Boaz"
+        }
+      ]
     },
     {
       "id": "ruth-4",
@@ -219,7 +237,17 @@
           "note": "Richiama le matriarche e la discendenza feconda di Giuda, anticipando Davide e il Messia (4:11-12)."
         }
       ],
-      "keyTakeaway": "Boaz riscatta Ruth pubblicamente. Il loro figlio Obed diventa il nonno di Davide, collegando Ruth la Moabita alla linea del Messia."
+      "keyTakeaway": "Boaz riscatta Ruth pubblicamente. Il loro figlio Obed diventa il nonno di Davide, collegando Ruth la Moabita alla linea del Messia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Matrimonio di Rut con Boaz"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Nascita di Obed; genealogia di Davide"
+        }
+      ]
     }
   ]
 }

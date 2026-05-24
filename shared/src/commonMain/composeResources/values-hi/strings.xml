@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">एस्तेर का उपवास</string>
     <string name="feast_fast_esther_ref">एस्तेर 4:16</string>
 
+    <!-- एस्सेनी / मन्दिर पुस्तक / जुबली के पर्व -->
+    <string name="feast_new_wine_name">नई दाखमधु का पर्व</string>
+    <string name="feast_new_oil_name">नए तेल का पर्व</string>
+    <string name="feast_memorial_q2_name">द्वितीय स्मरण दिवस</string>
+    <string name="feast_memorial_q4_name">चतुर्थ स्मरण दिवस</string>
+    <string name="essene_calendar_label">एस्सेनी</string>
+
     <!-- Prophecy -->
     <string name="prophecy">भविष्यवाणी</string>
     <string name="prophecy_subtitle">पवित्रशास्त्र में बुनी गई भविष्यवाणी के धागों को जानें; मसीहाई पूर्ति से लेकर प्रकाशितवाक्य के पर्वों तक।</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">क्रूस पर चढ़ाया जाना</string>
     <string name="feast_typology_unleavened_name">अखमीरी रोटी का पर्व (निसान 15)</string>
     <string name="feast_typology_unleavened_meaning">दफन / पापरहितता</string>
-    <string name="feast_typology_firstfruits_name">प्रथम फल का पर्व (निसान 16)</string>
+    <string name="feast_typology_firstfruits_name">प्रथम फल का पर्व</string>
     <string name="feast_typology_firstfruits_meaning">पुनरुत्थान</string>
-    <string name="feast_typology_weeks_name">सप्ताहों का पर्व / पिन्तेकुस्त (सीवान 6)</string>
+    <string name="feast_typology_weeks_name">सप्ताहों का पर्व / पिन्तेकुस्त</string>
     <string name="feast_typology_weeks_meaning">पवित्र आत्मा का उंडेला जाना</string>
     <string name="feast_typology_trumpets_name">तुरहियों का पर्व (तिश्री 1)</string>
     <string name="feast_typology_trumpets_meaning">दूसरा आगमन / उठा लिया जाना</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">पद</string>
     <string name="verses_label">आयतें</string>
     <string name="search_searching">खोज रहा है…</string>
+    <string name="intro_short">परिचय</string>
+    <string name="intro_section_header">पुस्तक का परिचय</string>
+    <string name="tts_read_intros">TTS पुस्तक परिचय पढ़े</string>
 </resources>

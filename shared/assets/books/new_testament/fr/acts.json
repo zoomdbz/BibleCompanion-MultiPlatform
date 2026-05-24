@@ -63,7 +63,17 @@
           "note": "L'ascension est décrite avec une nuée qui dérobe Jésus à leurs yeux (1:9)."
         }
       ],
-      "keyTakeaway": "Le Jésus ressuscité promet le Saint-Esprit, envoie des témoins jusqu'aux extrémités de la terre et monte au ciel sous les yeux des disciples."
+      "keyTakeaway": "Le Jésus ressuscité promet le Saint-Esprit, envoie des témoins jusqu'aux extrémités de la terre et monte au ciel sous les yeux des disciples.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Introduction. Ascension de Jésus-Christ. Retour des apôtres à Jérusalem"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Matthias élu apôtre en remplacement de Judas"
+        }
+      ]
     },
     {
       "id": "acts-2",
@@ -142,7 +152,13 @@
           "note": "L'Esprit remplit ceux qui sont rassemblés (2:4)."
         }
       ],
-      "keyTakeaway": "À la Pentecôte, le Saint-Esprit remplit les disciples rassemblés ; ils parlent en d'autres langues et la foule entend les grandes oeuvres de Dieu dans sa propre langue."
+      "keyTakeaway": "À la Pentecôte, le Saint-Esprit remplit les disciples rassemblés ; ils parlent en d'autres langues et la foule entend les grandes oeuvres de Dieu dans sa propre langue.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Effusion du Saint-Esprit, le jour de la Pentecôte. — Discours de Pierre, et conversion de trois mille personnes. Les premiers chrétiens"
+        }
+      ]
     },
     {
       "id": "acts-3",
@@ -205,7 +221,17 @@
           "note": "Formule d'autorité/d'appel liée à Jésus ; l'action est accomplie en invoquant son nom (3:6)."
         }
       ],
-      "keyTakeaway": "À la porte du temple, un homme boiteux de naissance est guéri quand Pierre parle au nom de Jésus ; il marche, saute et loue Dieu, à la stupéfaction des témoins."
+      "keyTakeaway": "À la porte du temple, un homme boiteux de naissance est guéri quand Pierre parle au nom de Jésus ; il marche, saute et loue Dieu, à la stupéfaction des témoins.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Guérison d’un boiteux"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Discours de Pierre au peuple"
+        }
+      ]
     },
     {
       "id": "acts-4",
@@ -279,7 +305,17 @@
           "note": "Parole ouverte et confiante remarquée par le conseil (4:13-31)."
         }
       ],
-      "keyTakeaway": "Pierre et Jean témoignent devant le sanhédrin que l'homme guéri se trouve en bonne santé par le nom de Jésus et déclarent qu'il n'y a pas d'autre nom donné pour le salut ; ils sont menacés puis relâchés."
+      "keyTakeaway": "Pierre et Jean témoignent devant le sanhédrin que l'homme guéri se trouve en bonne santé par le nom de Jésus et déclarent qu'il n'y a pas d'autre nom donné pour le salut ; ils sont menacés puis relâchés.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pierre et Jean arrêtés et traduits devant le sanhédrin"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Union et charité des croyants"
+        }
+      ]
     },
     {
       "id": "acts-5",
@@ -363,7 +399,21 @@
           "note": "Réaction de l'Église et de tous ceux qui apprennent ces événements (5:5-11)."
         }
       ],
-      "keyTakeaway": "La communauté met ses biens en commun pour subvenir aux besoins ; Barnabas est mentionné pour sa générosité. Ananias et Saphira retiennent une partie du prix et mentent ; tous deux meurent, et une grande crainte saisit toute l'assemblée."
+      "keyTakeaway": "La communauté met ses biens en commun pour subvenir aux besoins ; Barnabas est mentionné pour sa générosité. Ananias et Saphira retiennent une partie du prix et mentent ; tous deux meurent, et une grande crainte saisit toute l'assemblée.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ananias et Saphira"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Succès croissants des apôtres"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Les apôtres jetés en prison et miraculeusement délivrés; — arrêtés de nouveau et conduits devant le sanhédrin; — battus de verges et relâchés d’après l’avis de Gamaliel"
+        }
+      ]
     },
     {
       "id": "acts-6",
@@ -415,7 +465,17 @@
           "note": "Geste de mise en service associé à la prière (6:6)."
         }
       ],
-      "keyTakeaway": "Une plainte concernant la distribution conduit à la sélection et à la mise en place de sept hommes qualifiés ; la parole se répand et beaucoup, dont des prêtres, croient."
+      "keyTakeaway": "Une plainte concernant la distribution conduit à la sélection et à la mise en place de sept hommes qualifiés ; la parole se répand et beaucoup, dont des prêtres, croient.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Institution des diacres"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Étienne accusé de blasphème, traduit devant le sanhédrin, et lapidé par les Juifs"
+        }
+      ]
     },
     {
       "id": "acts-7",
@@ -577,6 +637,10 @@
         {
           "ref": "8:37",
           "text": "Philippe dit : Si tu crois de tout ton cœur, cela est possible. Et (l'eunuque) répondit : Je crois que Jésus-Christ est le Fils de Dieu."
+        },
+        {
+          "ref": "Acts 8:37",
+          "text": "Certains manuscrits tardifs ajoutent ici un verset 37 : « Philippe dit : ‘Si tu crois de tout ton cœur, cela t’est permis.’ Et il répondit : ‘Je crois que Jésus-Christ est le Fils de Dieu.’ » Il est absent du Sinaïticus, du Vaticanus, de l’Alexandrinus et des plus anciens papyrus. L’ajout reflète une formule baptismale primitive de confession, probablement ajoutée par des scribes à partir de la pratique ecclésiale du IIe siècle ; il ne fait pas partie de la narration originale de Luc."
         }
       ],
       "translationNotes": [
@@ -589,6 +653,20 @@
           "term": "Église",
           "original": "Hebrew: קָהָל (qāhāl, ‘assembly’) — Greek: ἐκκλησία (ἐkklēsίa) — Aramaic: עֵדְתָּא (‘assembly’)",
           "note": "Terme désignant la communauté rassemblée des croyants (8:1-3)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Persécution à Jérusalem. Dispersion des disciples dans les contrées voisines. Le diacre Philippe prêche le Christ dans une ville de Samarie. Simon le magicien"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Pierre et Jean en Samarie"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Le diacre Philippe et l’eunuque éthiopien"
         }
       ]
     },
@@ -665,7 +743,17 @@
           "note": "Image utilisée pour ce qui tombe des yeux de Saul (9:18)."
         }
       ],
-      "keyTakeaway": "Sur le chemin de Damas, Saül entend la voix de Jésus, est frappé de cécité et conduit dans la ville. Le Seigneur envoie Ananias ; Saül recouvre la vue, est baptisé et fortifié."
+      "keyTakeaway": "Sur le chemin de Damas, Saül entend la voix de Jésus, est frappé de cécité et conduit dans la ville. Le Seigneur envoie Ananias ; Saül recouvre la vue, est baptisé et fortifié.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Conversion de Saul"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Pierre à Lydde et à Joppé. Guérison du paralytique Énée, et résurrection de Tabitha"
+        }
+      ]
     },
     {
       "id": "acts-10",
@@ -755,7 +843,13 @@
           "note": "Environ 15 h (vision de Corneille) et midi (prière de Pierre) (10:3-9)."
         }
       ],
-      "keyTakeaway": "Un centurion craignant Dieu est dirigé vers Pierre ; Pierre reçoit une vision répétée trois fois concernant ce qui est déclaré commun ou impur, puis se rend chez Corneille pour apprendre pourquoi il a été convoqué."
+      "keyTakeaway": "Un centurion craignant Dieu est dirigé vers Pierre ; Pierre reçoit une vision répétée trois fois concernant ce qui est déclaré commun ou impur, puis se rend chez Corneille pour apprendre pourquoi il a été convoqué.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le centenier Corneille, premier païen converti par le ministère de l’apôtre Pierre. Le Saint-Esprit accordé à d’autres païens"
+        }
+      ]
     },
     {
       "id": "acts-11",
@@ -817,7 +911,21 @@
           "note": "Expression reconnaissant l'octroi de Dieu aux nations (11:18)."
         }
       ],
-      "keyTakeaway": "Pierre relate sa vision et le don de l'Esprit accordé aux non-Juifs ; les croyants de Jérusalem glorifient Dieu que la repentance menant à la vie ait été accordée aux non-Juifs."
+      "keyTakeaway": "Pierre relate sa vision et le don de l'Esprit accordé aux non-Juifs ; les croyants de Jérusalem glorifient Dieu que la repentance menant à la vie ait été accordée aux non-Juifs.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pierre explique sa conduite devant les chrétiens de Jérusalem"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Les chrétiens d’Antioche. Barnabas et Saul à Antioche"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Une famine prédite par Agabus"
+        }
+      ]
     },
     {
       "id": "acts-12",
@@ -874,7 +982,17 @@
           "note": "Messager céleste qui libère Pierre et plus tard frappe Hérode (12:7-23)."
         }
       ],
-      "keyTakeaway": "Jacques est mis à mort ; Pierre est miraculeusement libéré de prison ; Hérode Agrippa I est frappé ; la parole de Dieu se répand."
+      "keyTakeaway": "Jacques est mis à mort ; Pierre est miraculeusement libéré de prison ; Hérode Agrippa I est frappé ; la parole de Dieu se répand.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jacques mis à mort par Hérode. Pierre emprisonné et délivré"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Mort d’Hérode"
+        }
+      ]
     },
     {
       "id": "acts-13",
@@ -958,7 +1076,17 @@
           "note": "« Bar-Jésus » signifie « fils de Josué/Jésus » ; Élymas est appelé μάγος (magicien) (13:6-8)."
         }
       ],
-      "keyTakeaway": "L'Esprit met à part Barnabas et Saul ; à Chypre, Élymas est frappé de cécité et Sergius Paulus croit."
+      "keyTakeaway": "L'Esprit met à part Barnabas et Saul ; à Chypre, Élymas est frappé de cécité et Sergius Paulus croit.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Barnabas et Saul envoyés en mission par l’Église d’Antioche. Dans l’île de Chypre: le magicien Élymas et le proconsul Sergius Paulus"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Perge en Pamphylie. Prédication de Paul à Antioche de Pisidie"
+        }
+      ]
     },
     {
       "id": "acts-14",
@@ -1023,7 +1151,21 @@
           "note": "Expression designant l'acces ouvert par Dieu pour les paiens (14:27)."
         }
       ],
-      "keyTakeaway": "La mission à Iconium, Lystre et Derbé suscite foi, malentendus, hostilité et persévérance ; des anciens sont établis, et un rapport est présenté à Antioche sur une porte ouverte aux non-Juifs."
+      "keyTakeaway": "La mission à Iconium, Lystre et Derbé suscite foi, malentendus, hostilité et persévérance ; des anciens sont établis, et un rapport est présenté à Antioche sur une porte ouverte aux non-Juifs.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Icone: succès et persécutions"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Lystre: guérison d’un impotent"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Derbe et autres lieux. Retour à Antioche"
+        }
+      ]
     },
     {
       "id": "acts-15",
@@ -1084,6 +1226,10 @@
         {
           "ref": "15:34",
           "text": "Toutefois, Silas trouva bon de rester de rester [auprès d'eux], et Judas seul s'en alla [à Jérusalem]"
+        },
+        {
+          "ref": "Acts 15:34",
+          "text": "Certains manuscrits tardifs ajoutent ici un verset 34 : « Toutefois Silas trouva bon de rester là. » Il manque dans le Sinaïticus, le Vaticanus et l’Alexandrinus. Les scribes semblent l’avoir inséré pour harmoniser le récit avec le v. 40, où Paul choisit Silas comme compagnon; choix qui aurait demandé une explication si Silas était déjà retourné à Jérusalem au v. 33."
         }
       ],
       "translationNotes": [
@@ -1106,6 +1252,16 @@
           "term": "Il a semble bon au Saint-Esprit et a nous",
           "original": "Hebrew: נִרְאָה טוֹב לְרוּחַ הַקֹּדֶשׁ וְלָנוּ (nirəʾāh ṭwōb lərwḥa haqōdeš wəlānw, sense) — Greek: ἔδοξεν τῷ ἁγίῳ πνεύματι καὶ ἡμῖν (ἔdoxen tῷ ἁgίῳ pneύmati kaὶ ἡmῖn) — Aramaic: שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא (שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא)",
           "note": "Formulation de la lettre concernant la source de la decision (15:28)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Discussion dans l’Église d’Antioche relativement à l’observation des lois cérémonielles de Moïse par les païens qui embrassent le christianisme. — Conférence de Jérusalem"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Nouveau voyage missionnaire de Paul, accompagné de Silas. Visite aux Églises d’Asie"
         }
       ]
     },
@@ -1179,7 +1335,17 @@
           "note": "Changement narratif indiquant la participation de l'auteur a partir de Troas (16:10)."
         }
       ],
-      "keyTakeaway": "Timothée est ajouté et circoncis en vue du ministère parmi les Juifs ; les décisions de Jérusalem sont transmises ; guidés par l'Esprit, ils sont appelés en Macédoine."
+      "keyTakeaway": "Timothée est ajouté et circoncis en vue du ministère parmi les Juifs ; les décisions de Jérusalem sont transmises ; guidés par l'Esprit, ils sont appelés en Macédoine.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Timothée. Vision de Paul à Troas"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Départ pour la Macédoine. — Paul à Philippes: Lydie, marchande de pourpre; une servante devineresse; Paul et Silas emprisonnés; le geôlier de Philippes; les prisonniers remis en liberté"
+        }
+      ]
     },
     {
       "id": "acts-17",
@@ -1245,7 +1411,17 @@
           "note": "Somme ou garantie prise de Jason et des autres (17:9)."
         }
       ],
-      "keyTakeaway": "À Thessalonique, certains croient tandis que des opposants provoquent une émeute et que Jason verse une caution ; à Bérée, beaucoup croient après avoir examiné les Écritures chaque jour ; Paul est envoyé à Athènes."
+      "keyTakeaway": "À Thessalonique, certains croient tandis que des opposants provoquent une émeute et que Jason verse une caution ; à Bérée, beaucoup croient après avoir examiné les Écritures chaque jour ; Paul est envoyé à Athènes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paul à Thessalonique et à Bérée"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Paul à Athènes: discours à l’Aréopage"
+        }
+      ]
     },
     {
       "id": "acts-18",
@@ -1306,7 +1482,21 @@
           "note": "Plateforme publique de jugement ou les affaires etaient entendues (18:12-17)."
         }
       ],
-      "keyTakeaway": "À Corinthe, Paul travaille avec Aquilas et Priscille, beaucoup croient dont Crispus ; Jésus parle à Paul dans une vision ; Gallion refuse de juger l'affaire et Sosthène est battu."
+      "keyTakeaway": "À Corinthe, Paul travaille avec Aquilas et Priscille, beaucoup croient dont Crispus ; Jésus parle à Paul dans une vision ; Gallion refuse de juger l'affaire et Sosthène est battu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paul à Corinthe: rencontre d’Aquilas et de Priscille. Séjour d’un an et demi"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Voyage de Paul à Jérusalem, par Éphèse. Retour à Antioche"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Troisième voyage missionnaire de Paul. Départ d’Antioche pour les provinces d’Asie. Apollos à Éphèse et à Corinthe"
+        }
+      ]
     },
     {
       "id": "acts-19",
@@ -1384,7 +1574,13 @@
           "note": "Titre utilise pour Sceva dans le recit (19:14)."
         }
       ],
-      "keyTakeaway": "À Éphèse, des disciples reçoivent le Saint-Esprit ; la parole se répand par des entretiens quotidiens ; Dieu accomplit des oeuvres extraordinaires ; le nom de Jésus est honoré et de coûteux livres de magie sont brûlés."
+      "keyTakeaway": "À Éphèse, des disciples reçoivent le Saint-Esprit ; la parole se répand par des entretiens quotidiens ; Dieu accomplit des oeuvres extraordinaires ; le nom de Jésus est honoré et de coûteux livres de magie sont brûlés.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paul à Éphèse: disciples de Jean-Baptiste; enseignement et succès; exorcistes juifs; émeute provoquée par l’orfèvre Démétrius"
+        }
+      ]
     },
     {
       "id": "acts-20",
@@ -1454,7 +1650,21 @@
           "note": "Fete que Paul cherche a atteindre a Jerusalem (20:16)."
         }
       ],
-      "keyTakeaway": "Paul encourage les églises en Macédoine et en Grèce, à Troas un jeune homme nommé Eutychus est ramené à la vie, et Paul poursuit sa route par mer avec l'intention d'arriver à Jérusalem pour la Pentecôte."
+      "keyTakeaway": "Paul encourage les églises en Macédoine et en Grèce, à Troas un jeune homme nommé Eutychus est ramené à la vie, et Paul poursuit sa route par mer avec l'intention d'arriver à Jérusalem pour la Pentecôte.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paul en Macédoine et en Grèce. Départ pour Jérusalem, par la Macédoine"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "À Troas: résurrection d’Eutychus"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "À Milet: discours d’adieu aux anciens d’Éphèse. À Tyr: adieux aux disciples"
+        }
+      ]
     },
     {
       "id": "acts-21",
@@ -1526,7 +1736,25 @@
           "note": "Objet utilise par Agabus pour se lier les mains et les pieds (21:11)."
         }
       ],
-      "keyTakeaway": "Sur la route de Jérusalem, des croyants à Tyr et à Césarée formulent des avertissements ; Agabus donne une prophétie-signe avec la ceinture de Paul ; Paul est résolu à partir, et ils s'en remettent à la volonté du Seigneur."
+      "keyTakeaway": "Sur la route de Jérusalem, des croyants à Tyr et à Césarée formulent des avertissements ; Agabus donne une prophétie-signe avec la ceinture de Paul ; Paul est résolu à partir, et ils s'en remettent à la volonté du Seigneur.",
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "À Ptolémaïs. À Césarée: prédiction d’Agabus. Arrivée à Jérusalem"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Paul à Jérusalem. Entrée dans le temple avec quatre Juifs ayant fait un vœu"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Émeute provoquée par des Juifs d’Asie. Paul saisi et maltraité par le peuple. Intervention du tribun et des soldats. Arrestation de Paul"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Discours de Paul, debout sur les degrés de la forteresse"
+        }
+      ]
     },
     {
       "id": "acts-22",
@@ -1593,7 +1821,17 @@
           "note": "Pratique romaine d'extraction d'informations sous la flagellation ; interrompue a cause de la citoyennete (22:24-29)."
         }
       ],
-      "keyTakeaway": "Paul s'adresse à la foule en dialecte hébreu, retrace son parcours et sa rencontre avec Jésus, mentionne son envoi vers les nations, et invoque sa citoyenneté romaine pour éviter l'examen par flagellation."
+      "keyTakeaway": "Paul s'adresse à la foule en dialecte hébreu, retrace son parcours et sa rencontre avec Jésus, mentionne son envoi vers les nations, et invoque sa citoyenneté romaine pour éviter l'examen par flagellation.",
+      "headings": [
+        {
+          "beforeVerse": 21,
+          "text": "Nouveau tumulte. Sur le point d’être battu de verges, Paul se déclare citoyen romain"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Paul comparaît devant le sanhédrin"
+        }
+      ]
     },
     {
       "id": "acts-23",
@@ -1665,7 +1903,13 @@
           "note": "Residence du gouverneur ou Paul est garde (23:35)."
         }
       ],
-      "keyTakeaway": "La comparution de Paul devant le sanhédrin divise pharisiens et sadducéens ; un complot contre sa vie est découvert ; sous escorte nocturne il est transféré à Césarée avec une lettre adressée au gouverneur Félix."
+      "keyTakeaway": "La comparution de Paul devant le sanhédrin divise pharisiens et sadducéens ; un complot contre sa vie est découvert ; sous escorte nocturne il est transféré à Césarée avec une lettre adressée au gouverneur Félix.",
+      "headings": [
+        {
+          "beforeVerse": 11,
+          "text": "Complot des Juifs contre Paul. Ordre de le conduire à Césarée"
+        }
+      ]
     },
     {
       "id": "acts-24",
@@ -1712,6 +1956,10 @@
         {
           "ref": "24:7",
           "text": "mais le tribun Lysias étant survenu, l’a arraché de nos mains avec une grande violence,"
+        },
+        {
+          "ref": "Acts 24:7",
+          "text": "Certains manuscrits tardifs développent les versets 6–8 en ajoutant : « Mais le tribun Lysias étant survenu, l’a arraché de nos mains avec une grande violence, ordonnant à ses accusateurs de venir devant toi. » Il est absent des manuscrits les plus anciens et les meilleurs. L’ajout semble être une expansion scribale empruntant des détails au récit antérieur de l’arrestation (Actes 21:33 ; 22:24–29)."
         }
       ],
       "translationNotes": [
@@ -1734,6 +1982,16 @@
           "term": "Drusilla",
           "original": "Hebrew: דְּרוּסִלָּה (translit.) — Greek: Δρουσίλλα (Drousίlla) — Aramaic: דְּרוּסִלָּא (דְּרוּסִלָּא)",
           "note": "Femme de Felix, identifiee comme juive (24:24)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paul à Césarée. Accusation et défense devant le gouverneur Félix. Entretien de Paul avec Félix et sa femme Drusille"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Paul détenu deux ans à Césarée. Comparution devant le gouverneur Festus, successeur de Félix. Appel à l’empereur romain"
         }
       ]
     },
@@ -1799,7 +2057,13 @@
           "note": "Deploiement public lors de l'audience devant Agrippa (25:23)."
         }
       ],
-      "keyTakeaway": "Festus instruit l'affaire, Paul en appelle à César, et Agrippa II ainsi que Bérénice arrivent ; Festus cherche un énoncé précis des charges à envoyer avec Paul."
+      "keyTakeaway": "Festus instruit l'affaire, Paul en appelle à César, et Agrippa II ainsi que Bérénice arrivent ; Festus cherche un énoncé précis des charges à envoyer avec Paul.",
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "Le roi Agrippa en visite à Césarée"
+        }
+      ]
     },
     {
       "id": "acts-26",
@@ -1863,7 +2127,17 @@
           "note": "Expression de Luc designant generalement l'arameen (26:14)."
         }
       ],
-      "keyTakeaway": "Paul relate sa mission reçue du Jésus ressuscité, affirme l'espérance de la résurrection, témoigne devant Juifs et non-Juifs, et est jugé par Agrippa et Festus comme ne méritant pas la mort ; son appel à César est maintenu."
+      "keyTakeaway": "Paul relate sa mission reçue du Jésus ressuscité, affirme l'espérance de la résurrection, témoigne devant Juifs et non-Juifs, et est jugé par Agrippa et Festus comme ne méritant pas la mort ; son appel à César est maintenu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Discours de Paul devant Agrippa"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Son innocence reconnue par Agrippa"
+        }
+      ]
     },
     {
       "id": "acts-27",
@@ -1949,7 +2223,13 @@
           "note": "Decompte de Luc : 276 a bord (27:37)."
         }
       ],
-      "keyTakeaway": "Paul navigue sous escorte vers l'Italie ; malgré une violente tempête et un naufrage sur une île inconnue, les 276 personnes à bord parviennent saines et sauves à terre, comme Paul en avait été informé."
+      "keyTakeaway": "Paul navigue sous escorte vers l'Italie ; malgré une violente tempête et un naufrage sur une île inconnue, les 276 personnes à bord parviennent saines et sauves à terre, comme Paul en avait été informé.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Départ de Paul pour Rome. Navigation et naufrage"
+        }
+      ]
     },
     {
       "id": "acts-28",
@@ -2038,6 +2318,12 @@
           "term": "Sans obstacle",
           "original": "Hebrew: בְּלִי מְנִיעָה (bəliy məniyʿāh, sense) — Greek: ἀκωλύτως (ἀkōlύtōs) — Aramaic: בְּלָא כּוֹבְלָא (בְּלָא כּוֹבְלָא)",
           "note": "Description de la proclamation ouverte de Paul durant les deux annees a Rome (28:31)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Trois mois dans l’île de Malte. Arrivée à Rome. Captivité et prédication de Paul à Rome pendant deux ans"
         }
       ]
     }

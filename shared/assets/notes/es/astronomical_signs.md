@@ -86,15 +86,15 @@ Esta configuración completa exacta (sol, luna, corona de 12 objetos, y la salid
 
 ## Otros Signos Celestiales Notables
 
-### El Cometa del Eclipse de 1948 (C/1948 V1)
+**El Cometa del Eclipse de 1948 (C/1948 V1)**
 
 El **1 de noviembre de 1948**, aproximadamente 1 Kislev 5709, un cometa brillante fue descubierto durante un eclipse solar total. Alcanzó visibilidad a ojo desnudo con una cola que abarcaba hasta 30 grados de cielo y permaneció visible hasta diciembre de 1948. Este fue el mismo año en que Israel se convirtió en nación (14 de mayo de 1948 = 5 Iyyar 5708) después de casi 2.000 años de exilio. La coincidencia de un cometa visible a ojo desnudo que aparece dentro del primer año de estatalidad moderna de Israel no ha pasado desapercibida para los estudiosos de Ezequiel 37 e Isaías 11.
 
-### La Gran Conjunción del 21 de diciembre de 2020
+**La Gran Conjunción del 21 de diciembre de 2020**
 
 En el solsticio de invierno, **21 de diciembre de 2020** (6 Tevet 5781), Júpiter y Saturno aparecieron separados solo por 0,1 grados, la separación visible más cercana desde 1623. Los principales medios de comunicación la llamaron la "Estrella de Navidad" debido a su similitud con las descripciones de la Estrella de Belén. La conjunción apareció en el cielo occidental poco después de la puesta del sol, en la dirección de Belén vista desde Jerusalén. La fecha hebrea cae en Tevet, un mes sin días festivos, pero la resonancia visual y simbólica con el evento de la estrella de Belén llevó a muchos creyentes mesiánicos a notarla. Los dos planetas no volverán a estar tan cerca hasta 2080.
 
-### Cometa NEOWISE (2020)
+**Cometa NEOWISE (2020)**
 
 El **Cometa C/2020 F3 (NEOWISE)** alcanzó el perihelio el 3 de julio de 2020 (~11 Tammuz 5780) y la aproximación más cercana a la Tierra el 23 de julio de 2020 (~2 Av 5780). Fue el cometa más brillante visible a ojo desnudo desde el Hemisferio Norte desde el Cometa Hale-Bopp en 1997. Su período orbital estimado es de aproximadamente 4.500 años, lo que llevó a algunos a sugerir que su última aparición fue en la era de Abraham o antes. El mes de Av en el calendario hebreo es un mes de duelo y ayuno (Tisha B'Av cae en 9 Av); el cometa alcanzó su máximo durante este período. Su significado profético se debate dentro de la comunidad mesiánica.
 
@@ -129,7 +129,7 @@ Los eclipses lunares totales (lunas de sangre) cayeron en **Purim**, el 14 de Ad
 - **14 de marzo de 2025:** Eclipse lunar total (~65 minutos de totalidad), 14 Adar 5785, **Purim**
 - **3 de marzo de 2026:** Eclipse lunar total (~58 minutos de totalidad), 14 Adar 5786, **Purim**
 
-Las lunas de sangre consecutivas en la misma festividad en años consecutivos no tienen precedente moderno. Purim no es una festividad de Levítico 23, pero conmemora la liberación de Israel del genocidio (Esther 9:20–22). El libro de Esther nunca menciona el nombre de Dios, sin embargo, Su mano es visible en todo.
+Las lunas de sangre consecutivas en la misma festividad en años consecutivos no tienen precedente moderno. Purim no es una festividad de Levítico 23, pero conmemora la liberación de Israel del genocidio (Ester 9:20–22). El libro de Esther nunca menciona el nombre de Dios, sin embargo, Su mano es visible en todo.
 
 ### Eclipses Solares
 
@@ -137,7 +137,7 @@ Las lunas de sangre consecutivas en la misma festividad en años consecutivos no
 - **2 de octubre de 2024:** Eclipse solar anular ("anillo de fuego") en **1 Tishrei 5785, Rosh Hashanah, la Fiesta de las Trompetas (Yom Teruah)**.
 - **12 de agosto de 2026:** Eclipse solar total (recorrido por la Península Ibérica y África del Norte). Fecha hebrea: 29 Av, sin alineación de festividad.
 
-### Tormentas Solares Antes de la Luna de Sangre de Purim de 2026
+**Tormentas Solares Antes de la Luna de Sangre de Purim de 2026**
 
 El **1–5 de febrero de 2026**, la región activa AR4366, un grupo de manchas solares 14 veces más ancho que la Tierra, estalló con seis erupciones solares de clase X en cuatro días, incluyendo dos eventos de clase X8.1 entre los más fuertes del Ciclo Solar 25. Una eyección de masa coronal golpeó la Tierra el 5 de febrero, desencadenando tormentas geomagnéticas y auroras generalizadas. Esto ocurrió aproximadamente 25 días antes de la luna de sangre de Purim del 3 de marzo.
 

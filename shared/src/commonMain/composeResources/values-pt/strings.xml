@@ -212,6 +212,13 @@
     <string name="feast_fast_esther">Jejum de Ester</string>
     <string name="feast_fast_esther_ref">Ester 4:16</string>
 
+    <!-- Festas essênias / Rolo do Templo / Jubileus -->
+    <string name="feast_new_wine_name">Festa do Vinho Novo</string>
+    <string name="feast_new_oil_name">Festa do Azeite Novo</string>
+    <string name="feast_memorial_q2_name">Segundo Dia de Memorial</string>
+    <string name="feast_memorial_q4_name">Quarto Dia de Memorial</string>
+    <string name="essene_calendar_label">Essênio</string>
+
     <!-- Prophecy -->
     <string name="prophecy">Profecia</string>
     <string name="prophecy_subtitle">Explore os fios proféticos tecidos nas Escrituras; do cumprimento messiânico às festas do Apocalipse.</string>
@@ -257,9 +264,9 @@
     <string name="feast_typology_passover_meaning">Crucificação</string>
     <string name="feast_typology_unleavened_name">Pães Asmos (Nisã 15)</string>
     <string name="feast_typology_unleavened_meaning">Sepultamento / sem pecado</string>
-    <string name="feast_typology_firstfruits_name">Primícias (Nisã 16)</string>
+    <string name="feast_typology_firstfruits_name">Primícias</string>
     <string name="feast_typology_firstfruits_meaning">Ressurreição</string>
-    <string name="feast_typology_weeks_name">Festa das Semanas / Pentecostes (Sivã 6)</string>
+    <string name="feast_typology_weeks_name">Festa das Semanas / Pentecostes</string>
     <string name="feast_typology_weeks_meaning">Espírito Santo concedido</string>
     <string name="feast_typology_trumpets_name">Trombetas (Tisri 1)</string>
     <string name="feast_typology_trumpets_meaning">Segunda vinda / arrebatamento</string>
@@ -303,4 +310,7 @@
     <string name="verse_label">Versículo</string>
     <string name="verses_label">Versículos</string>
     <string name="search_searching">Pesquisando…</string>
+    <string name="intro_short">Intro</string>
+    <string name="intro_section_header">Introdução do Livro</string>
+    <string name="tts_read_intros">TTS lê as introduções</string>
 </resources>

@@ -112,7 +112,33 @@
           "note": "Seguridad acerca de las ensenanzas recibidas."
         }
       ],
-      "keyTakeaway": "Lucas se dirige a Teófilo con un relato ordenado basado en testimonios de testigos presenciales para que el lector tenga certeza."
+      "keyTakeaway": "Lucas se dirige a Teófilo con un relato ordenado basado en testimonios de testigos presenciales para que el lector tenga certeza.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dedicatoria a Teófilo"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Anuncio del nacimiento de Juan"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Anuncio del nacimiento de Jesús"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "María visita a Elisabet"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Nacimiento de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 66,
+          "text": "Profecía de Zacarías"
+        }
+      ]
     },
     {
       "id": "luke-2",
@@ -207,7 +233,29 @@
           "note": "Comedero para animales usado como cuna del bebe (2:7-16)."
         }
       ],
-      "keyTakeaway": "Jesús nace en Belén; los ángeles anuncian el nacimiento a los pastores; la señal es un bebé en un pesebre; los pastores van, ven y cuentan todo lo que se les dijo."
+      "keyTakeaway": "Jesús nace en Belén; los ángeles anuncian el nacimiento a los pastores; la señal es un bebé en un pesebre; los pastores van, ven y cuentan todo lo que se les dijo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Nacimiento de Jesús"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Los ángeles y los pastores"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Presentación de Jesús en el templo"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "El regreso a Nazaret"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "El niño Jesús en el templo"
+        }
+      ]
     },
     {
       "id": "luke-3",
@@ -283,7 +331,21 @@
           "note": "Imagen de la cosecha para separar el trigo de la paja (3:17)."
         }
       ],
-      "keyTakeaway": "Juan predica el arrepentimiento y el bautismo, responde preguntas prácticas, señala a uno más poderoso que bautiza con el Espíritu Santo y fuego, y es encarcelado por Herodes."
+      "keyTakeaway": "Juan predica el arrepentimiento y el bautismo, responde preguntas prácticas, señala a uno más poderoso que bautiza con el Espíritu Santo y fuego, y es encarcelado por Herodes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Predicación de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "El bautismo de Jesús"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Genealogía de Jesús"
+        }
+      ]
     },
     {
       "id": "luke-4",
@@ -360,7 +422,37 @@
           "note": "Formula que introduce citas de la Escritura (4:4-10)."
         }
       ],
-      "keyTakeaway": "Después de cuarenta días en el desierto, Jesús responde a tres tentaciones con las Escrituras y el diablo se aleja por un tiempo."
+      "keyTakeaway": "Después de cuarenta días en el desierto, Jesús responde a tres tentaciones con las Escrituras y el diablo se aleja por un tiempo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tentación de Jesús"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesús principia su ministerio"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesús en Nazaret"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Un hombre que tenía un espíritu inmundo"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Jesús sana a la suegra de Pedro"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Muchos sanados al ponerse el sol"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Jesús recorre Galilea predicando"
+        }
+      ]
     },
     {
       "id": "luke-5",
@@ -431,7 +523,29 @@
           "note": "Simon tambien llamado Pedro (5:3-8)."
         }
       ],
-      "keyTakeaway": "Junto al lago, Jesús dirige una gran pesca y llama a Simón, Jacobo y Juan, diciéndoles que pescarán personas; ellos lo dejan todo y lo siguen."
+      "keyTakeaway": "Junto al lago, Jesús dirige una gran pesca y llama a Simón, Jacobo y Juan, diciéndoles que pescarán personas; ellos lo dejan todo y lo siguen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La pesca milagrosa"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jesús sana a un leproso"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesús sana a un paralítico"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Llamamiento de Leví"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "La pregunta sobre el ayuno"
+        }
+      ]
     },
     {
       "id": "luke-6",
@@ -512,7 +626,45 @@
           "note": "Titulo que Jesus usa en relacion con la autoridad sobre el dia de reposo (6:5)."
         }
       ],
-      "keyTakeaway": "Jesús cita a David y declara que el Hijo del Hombre es señor del sábado; sana la mano seca de un hombre en sábado después de preguntar si es correcto hacer el bien o el mal."
+      "keyTakeaway": "Jesús cita a David y declara que el Hijo del Hombre es señor del sábado; sana la mano seca de un hombre en sábado después de preguntar si es correcto hacer el bien o el mal.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los discípulos recogen espigas en el día de reposo"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "El hombre de la mano seca"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Elección de los doce apóstoles"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesús atiende a una multitud"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Bienaventuranzas y ayes"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "El amor hacia los enemigos, y la regla de oro"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "El juzgar a los demás"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Por sus frutos los conoceréis"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Los dos cimientos"
+        }
+      ]
     },
     {
       "id": "luke-7",
@@ -594,7 +746,25 @@
           "note": "Indica al unico hijo de la viuda (7:12)."
         }
       ],
-      "keyTakeaway": "Jesús sana a distancia al siervo de un centurión tras elogiar su fe y resucita al único hijo de una viuda en Naín; la gente glorifica a Dios y la noticia se difunde."
+      "keyTakeaway": "Jesús sana a distancia al siervo de un centurión tras elogiar su fe y resucita al único hijo de una viuda en Naín; la gente glorifica a Dios y la noticia se difunde.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús sana al siervo de un centurión"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jesús resucita al hijo de la viuda de Naín"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Los mensajeros de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Jesús en el hogar de Simón el fariseo"
+        }
+      ]
     },
     {
       "id": "luke-8",
@@ -682,7 +852,37 @@
           "note": "Verdades reveladas dadas a los discipulos (8:10)."
         }
       ],
-      "keyTakeaway": "Unas mujeres apoyan el ministerio de Jesús; él enseña la parábola del sembrador y su significado, habla sobre escuchar y la luz, e identifica a su verdadera familia como quienes oyen y hacen la palabra de Dios."
+      "keyTakeaway": "Unas mujeres apoyan el ministerio de Jesús; él enseña la parábola del sembrador y su significado, habla sobre escuchar y la luz, e identifica a su verdadera familia como quienes oyen y hacen la palabra de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mujeres que sirven a Jesús"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Parábola del sembrador"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Nada oculto que no haya de ser manifestado"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "La madre y los hermanos de Jesús"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jesús calma la tempestad"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "El endemoniado gadareno"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "La hija de Jairo, y la mujer que tocó el manto de Jesús"
+        }
+      ]
     },
     {
       "id": "luke-9",
@@ -776,7 +976,57 @@
           "note": "Gobernante de un cuarto; Herodes Antipas (9:7)."
         }
       ],
-      "keyTakeaway": "Los Doce son enviados con instrucciones y recursos limitados; Herodes está perplejo ante Jesús; Jesús alimenta a unos cinco mil hombres con cinco panes y dos pescados y quedan doce canastas."
+      "keyTakeaway": "Los Doce son enviados con instrucciones y recursos limitados; Herodes está perplejo ante Jesús; Jesús alimenta a unos cinco mil hombres con cinco panes y dos pescados y quedan doce canastas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Misión de los doce discípulos"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Muerte de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Alimentación de los cinco mil"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "La confesión de Pedro"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesús anuncia su muerte"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "La transfiguración"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Jesús sana a un muchacho endemoniado"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Jesús anuncia otra vez su muerte"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "¿Quién es el mayor?"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "El que no es contra nosotros, por nosotros es"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "Jesús reprende a Jacobo y a Juan"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Los que querían seguir a Jesús"
+        }
+      ]
     },
     {
       "id": "luke-10",
@@ -850,7 +1100,33 @@
           "note": "Declaracion de Jesus cuando los mensajeros informan (10:18)."
         }
       ],
-      "keyTakeaway": "Jesús envía a setenta y dos con instrucciones y saludos de paz, advierte a pueblos impenitentes, se regocija porque los nombres están escritos en el cielo y bendice a los discípulos por lo que ven y oyen."
+      "keyTakeaway": "Jesús envía a setenta y dos con instrucciones y saludos de paz, advierte a pueblos impenitentes, se regocija porque los nombres están escritos en el cielo y bendice a los discípulos por lo que ven y oyen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Misión de los setenta"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Ayes sobre las ciudades impenitentes"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Regreso de los setenta"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesús se regocija"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "El buen samaritano"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Jesús visita a Marta y a María"
+        }
+      ]
     },
     {
       "id": "luke-11",
@@ -941,7 +1217,37 @@
           "note": "La palabra puede significar atrevimiento/importunidad/insistencia en la peticion (11:8)."
         }
       ],
-      "keyTakeaway": "Jesús enseña una oración modelo, cuenta una historia sobre un amigo a medianoche para ilustrar la persistencia, y anima a pedir, buscar y llamar, con el Padre dando el Espíritu Santo a quienes piden."
+      "keyTakeaway": "Jesús enseña una oración modelo, cuenta una historia sobre un amigo a medianoche para ilustrar la persistencia, y anima a pedir, buscar y llamar, con el Padre dando el Espíritu Santo a quienes piden.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús y la oración"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Una casa dividida contra sí misma"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "El espíritu inmundo que vuelve"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Los que en verdad son bienaventurados"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "La generación perversa demanda señal"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "La lámpara del cuerpo"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Jesús acusa a fariseos y a intérpretes de la ley"
+        }
+      ]
     },
     {
       "id": "luke-12",
@@ -1032,7 +1338,53 @@
           "note": "Hablar impiamente contra; aqui del Espiritu Santo (12:10)."
         }
       ],
-      "keyTakeaway": "Jesús advierte contra la hipocresía, insta a temer a Dios en vez de a los hombres, promete reconocer a quienes lo confiesan, advierte sobre la blasfemia contra el Espíritu Santo y dice que el Espíritu Santo enseñará qué decir bajo presión."
+      "keyTakeaway": "Jesús advierte contra la hipocresía, insta a temer a Dios en vez de a los hombres, promete reconocer a quienes lo confiesan, advierte sobre la blasfemia contra el Espíritu Santo y dice que el Espíritu Santo enseñará qué decir bajo presión.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La levadura de los fariseos"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "A quién se debe temer"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "El que me confesare delante de los hombres"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "El rico insensato"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "El afán y la ansiedad"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Tesoro en el cielo"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "El siervo vigilante"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "El siervo infiel"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "Jesús, causa de división"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "¿Cómo no reconocéis este tiempo?"
+        },
+        {
+          "beforeVerse": 56,
+          "text": "Arréglate con tu adversario"
+        }
+      ]
     },
     {
       "id": "luke-13",
@@ -1099,7 +1451,37 @@
           "note": "Liberacion de una ligadura/dolencia (13:12-16)."
         }
       ],
-      "keyTakeaway": "Jesús llama al arrepentimiento, cuenta la parábola de la higuera estéril a la que se le da más tiempo, sana a una mujer encorvada en sábado y lo defiende, y compara el reino con la semilla de mostaza y la levadura."
+      "keyTakeaway": "Jesús llama al arrepentimiento, cuenta la parábola de la higuera estéril a la que se le da más tiempo, sana a una mujer encorvada en sábado y lo defiende, y compara el reino con la semilla de mostaza y la levadura.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Arrepentíos o pereceréis"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Parábola de la higuera estéril"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jesús sana a una mujer en el día de reposo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Parábola de la semilla de mostaza"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Parábola de la levadura"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "La puerta estrecha"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Lamento de Jesús sobre Jerusalén"
+        }
+      ]
     },
     {
       "id": "luke-14",
@@ -1166,7 +1548,29 @@
           "note": "\"Instar fuertemente/presionar a entrar\" (14:23)."
         }
       ],
-      "keyTakeaway": "Jesús sana en sábado, enseña humildad y generosidad en los banquetes, y cuenta la parábola de un gran banquete donde los invitados originales rechazan la invitación y los pobres y marginados son traídos en su lugar."
+      "keyTakeaway": "Jesús sana en sábado, enseña humildad y generosidad en los banquetes, y cuenta la parábola de un gran banquete donde los invitados originales rechazan la invitación y los pobres y marginados son traídos en su lugar.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús sana a un hidrópico"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Los convidados a las bodas"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Parábola de la gran cena"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Lo que cuesta seguir a Cristo"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Cuando la sal pierde su sabor"
+        }
+      ]
     },
     {
       "id": "luke-15",
@@ -1230,7 +1634,21 @@
           "note": "Una dracma; aproximadamente el salario de un dia en algunos contextos (15:8)."
         }
       ],
-      "keyTakeaway": "En respuesta a las quejas por sus comidas con pecadores, Jesús cuenta dos parábolas de búsqueda y celebración: un pastor que encuentra una oveja perdida y una mujer que encuentra una moneda perdida."
+      "keyTakeaway": "En respuesta a las quejas por sus comidas con pecadores, Jesús cuenta dos parábolas de búsqueda y celebración: un pastor que encuentra una oveja perdida y una mujer que encuentra una moneda perdida.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parábola de la oveja perdida"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Parábola de la moneda perdida"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Parábola del hijo pródigo"
+        }
+      ]
     },
     {
       "id": "luke-16",
@@ -1293,7 +1711,25 @@
           "note": "Término para riqueza/bienes, personificado en 16:9-13."
         }
       ],
-      "keyTakeaway": "Jesús habla de un administrador al que le exigen cuentas, señala el elogio que recibió por su astucia, y enseña sobre la fidelidad en el manejo de las riquezas y la imposibilidad de servir a Dios y a las riquezas a la vez."
+      "keyTakeaway": "Jesús habla de un administrador al que le exigen cuentas, señala el elogio que recibió por su astucia, y enseña sobre la fidelidad en el manejo de las riquezas y la imposibilidad de servir a Dios y a las riquezas a la vez.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parábola del mayordomo infiel"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La ley y el reino de Dios"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jesús enseña sobre el divorcio"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "El rico y Lázaro"
+        }
+      ]
     },
     {
       "id": "luke-17",
@@ -1349,6 +1785,10 @@
         {
           "ref": "17:36",
           "text": "Estarán dos hombres en el campo: uno será llevado y el otro será dejado"
+        },
+        {
+          "ref": "Luke 17:36",
+          "text": "Algunos manuscritos posteriores añaden aquí un versículo 36: «Dos estarán en el campo; el uno será tomado, y el otro dejado». Está ausente del Códice Sinaítico, del Vaticano y de los manuscritos griegos más antiguos. La mayoría de los eruditos concluyen que fue importado del pasaje paralelo en Mateo 24:40 para dar a Lucas un tercer ejemplo correspondiente después de sus referencias a la cama (v. 34) y al molino (v. 35)."
         }
       ],
       "translationNotes": [
@@ -1366,6 +1806,28 @@
           "term": "Siervos inútiles",
           "original": "Hebrew (sense): עֲבָדִים לֹא־בַעֲלֵי זְכוּת (ʿăbādiym lōʾ-baʿălēy zəkwt) — Greek (NT): δοῦλοι ἀχρεῖοι (doῦloi ἀchreῖoi) — Aramaic (Syriac): ܥܒܕܐ ܒܛܝܠܐ (ʿbdʾ bṭylʾ)",
           "note": "Sin pretensión de mérito; declaración de deber (17:10)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ocasiones de caer"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Auméntanos la fe"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "El deber del siervo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Diez leprosos son limpiados"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "La venida del Reino"
         }
       ]
     },
@@ -1442,7 +1904,33 @@
           "note": "Declarado justo/absuelto en 18:14."
         }
       ],
-      "keyTakeaway": "Dos parábolas: la persistencia de una viuda ante un juez injusto, y la súplica humilde de un cobrador de impuestos en contraste con la confianza en sí mismo de un fariseo."
+      "keyTakeaway": "Dos parábolas: la persistencia de una viuda ante un juez injusto, y la súplica humilde de un cobrador de impuestos en contraste con la confianza en sí mismo de un fariseo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parábola de la viuda y el juez injusto"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Parábola del fariseo y el publicano"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesús bendice a los niños"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "El joven rico"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Nuevamente Jesús anuncia su muerte"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Un ciego de Jericó recibe la vista"
+        }
+      ]
     },
     {
       "id": "luke-19",
@@ -1522,7 +2010,25 @@
           "note": "Declaración programática de la misión (19:10)."
         }
       ],
-      "keyTakeaway": "En Jericó, Jesús llama a Zaqueo para que baje de un árbol y lo hospeda; Zaqueo declara restitución y generosidad; Jesús afirma que la salvación ha llegado y enuncia su misión de buscar y salvar lo perdido."
+      "keyTakeaway": "En Jericó, Jesús llama a Zaqueo para que baje de un árbol y lo hospeda; Zaqueo declara restitución y generosidad; Jesús afirma que la salvación ha llegado y enuncia su misión de buscar y salvar lo perdido.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús y Zaqueo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Parábola de las diez minas"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "La entrada triunfal en Jerusalén"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Purificación del templo"
+        }
+      ]
     },
     {
       "id": "luke-20",
@@ -1601,7 +2107,33 @@
           "note": "Impacto de la piedra al caer (20:18)."
         }
       ],
-      "keyTakeaway": "Jesús responde la pregunta sobre su autoridad con la pregunta sobre el bautismo de Juan, cuenta la parábola de los labradores que matan al hijo amado y cita la piedra rechazada que llega a ser piedra angular."
+      "keyTakeaway": "Jesús responde la pregunta sobre su autoridad con la pregunta sobre el bautismo de Juan, cuenta la parábola de los labradores que matan al hijo amado y cita la piedra rechazada que llega a ser piedra angular.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La autoridad de Jesús"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Los labradores malvados"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "La cuestión del tributo"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "La pregunta sobre la resurrección"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "¿De quién es hijo el Cristo?"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Jesús acusa a los escribas"
+        }
+      ]
     },
     {
       "id": "luke-21",
@@ -1670,7 +2202,25 @@
           "note": "Literalmente \"toda su vida/sustento\" (21:4)."
         }
       ],
-      "keyTakeaway": "Jesús observa a una viuda pobre que deposita dos monedas pequeñas en el tesoro y dice que ella dio más que todos los demás porque dio todo lo que tenía para vivir."
+      "keyTakeaway": "Jesús observa a una viuda pobre que deposita dos monedas pequeñas en el tesoro y dice que ella dio más que todos los demás porque dio todo lo que tenía para vivir.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La ofrenda de la viuda"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Jesús predice la destrucción del templo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Señales antes del fin"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "La venida del Hijo del Hombre"
+        }
+      ]
     },
     {
       "id": "luke-22",
@@ -1779,7 +2329,49 @@
           "note": "Instrucción dada con el pan (22:19)."
         }
       ],
-      "keyTakeaway": "Los líderes buscan matar a Jesús; Judas acepta traicionarlo; se prepara la Pascua; en la mesa Jesús habla sobre el pan y la copa y anuncia que la mano del traidor está con él."
+      "keyTakeaway": "Los líderes buscan matar a Jesús; Judas acepta traicionarlo; se prepara la Pascua; en la mesa Jesús habla sobre el pan y la copa y anuncia que la mano del traidor está con él.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El complot para matar a Jesús"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Institución de la Cena del Señor"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "La grandeza en el servicio"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jesús anuncia la negación de Pedro"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Bolsa, alforja y espada"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Jesús ora en Getsemaní"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Arresto de Jesús"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "Pedro niega a Jesús"
+        },
+        {
+          "beforeVerse": 62,
+          "text": "Jesús escarnecido y azotado"
+        },
+        {
+          "beforeVerse": 65,
+          "text": "Jesús ante el concilio"
+        }
+      ]
     },
     {
       "id": "luke-23",
@@ -1854,6 +2446,10 @@
         {
           "ref": "23:17",
           "text": "Ahora bien, durante la fiesta tenía la obligación de soltarles un preso"
+        },
+        {
+          "ref": "Luke 23:17",
+          "text": "Algunos manuscritos posteriores añaden aquí un versículo 17: «Y tenía necesidad de soltarles uno en cada fiesta». Falta en los Códices Sinaítico, Vaticano y Alejandrino. La nota fue probablemente insertada por un escriba primitivo para explicar a los lectores por qué la multitud en el v. 18 exigía la liberación de un prisionero; la explicación aparece más naturalmente en los paralelos de Mateo 27:15 y Marcos 15:6."
         }
       ],
       "translationNotes": [
@@ -1881,6 +2477,28 @@
           "term": "Nota textual (23:17)",
           "original": "Greek MSS variation",
           "note": "Algunos manuscritos incluyen un versículo sobre la costumbre de Pilato de soltar a un preso en la fiesta; muchas ediciones modernas lo colocan entre corchetes o lo omiten en Lucas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús ante Pilato"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jesús ante Herodes"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesús sentenciado a muerte"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Crucifixión y muerte de Jesús"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "Jesús es sepultado"
         }
       ]
     },
@@ -1972,7 +2590,25 @@
           "note": "Cómo el informe parece inicialmente a los apóstoles (24:11)."
         }
       ],
-      "keyTakeaway": "Al amanecer las mujeres encuentran la tumba abierta y escuchan el mensaje de que Jesús ha resucitado; se lo comunican a los once, y Pedro ve los lienzos."
+      "keyTakeaway": "Al amanecer las mujeres encuentran la tumba abierta y escuchan el mensaje de que Jesús ha resucitado; se lo comunican a los once, y Pedro ve los lienzos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La resurrección"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "En el camino a Emaús"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Jesús se aparece a los discípulos"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "La ascensión"
+        }
+      ]
     }
   ]
 }

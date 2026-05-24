@@ -47,7 +47,21 @@
           "note": "Una speranza radicata nella risurrezione di Cristo, caratterizzata come viva in contrasto con le aspettative terrene prive di vita."
         }
       ],
-      "keyTakeaway": "Pietro saluta i credenti dispersi, lodando Dio per la nuova nascita in una speranza viva e per la salvezza rivelata mediante Cristo, annunciata dai profeti."
+      "keyTakeaway": "Pietro saluta i credenti dispersi, lodando Dio per la nuova nascita in una speranza viva e per la salvezza rivelata mediante Cristo, annunciata dai profeti.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Sicura speranza della salvezza"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Esortazione a santità di vita"
+        }
+      ]
     },
     {
       "id": "1_peter-2",
@@ -99,7 +113,17 @@
           "note": "Metafora della parola di Dio come cibo nutriente per la crescita nella salvezza."
         }
       ],
-      "keyTakeaway": "Pietro esorta i credenti alla santità, alla redenzione per mezzo del sangue di Cristo, all'amore fraterno e al desiderio della pura parola come nutrimento spirituale."
+      "keyTakeaway": "Pietro esorta i credenti alla santità, alla redenzione per mezzo del sangue di Cristo, all'amore fraterno e al desiderio della pura parola come nutrimento spirituale.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù Cristo, pietra angolare"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La vita cristiana"
+        }
+      ]
     },
     {
       "id": "1_peter-3",
@@ -148,7 +172,13 @@
           "note": "L'espressione collega il battesimo all'appello a Dio per una coscienza pulita, fondato nella risurrezione di Cristo, non nel lavaggio fisico."
         }
       ],
-      "keyTakeaway": "Pietro fornisce istruzioni per mogli, mariti e tutti i credenti, esorta a essere pronti a difendere la fede e spiega la sofferenza di Cristo, la sua proclamazione e il significato del battesimo."
+      "keyTakeaway": "Pietro fornisce istruzioni per mogli, mariti e tutti i credenti, esorta a essere pronti a difendere la fede e spiega la sofferenza di Cristo, la sua proclamazione e il significato del battesimo.",
+      "headings": [
+        {
+          "beforeVerse": 18,
+          "text": "L’esempio di Cristo nelle sue afflizioni"
+        }
+      ]
     },
     {
       "id": "1_peter-4",
@@ -230,7 +260,13 @@
           "note": "Probabilmente usato in senso figurato per Roma, come luogo di esilio e opposizione a Dio."
         }
       ],
-      "keyTakeaway": "Pietro esorta gli anziani a pascere il gregge, i credenti a essere umili e a resistere al diavolo, e chiude con saluti e una benedizione di pace."
+      "keyTakeaway": "Pietro esorta gli anziani a pascere il gregge, i credenti a essere umili e a resistere al diavolo, e chiude con saluti e una benedizione di pace.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Doveri degli anziani e dei giovani; saluti"
+        }
+      ]
     }
   ]
 }

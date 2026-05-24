@@ -47,7 +47,21 @@
           "note": "Una esperanza enraizada en la resurrección de Cristo, caracterizada como viva en contraste con la expectativa terrenal sin vida."
         }
       ],
-      "keyTakeaway": "Pedro saluda a creyentes dispersos, alabando a Dios por el nuevo nacimiento hacia una esperanza viva y la salvación revelada en Cristo, anunciada por los profetas."
+      "keyTakeaway": "Pedro saluda a creyentes dispersos, alabando a Dios por el nuevo nacimiento hacia una esperanza viva y la salvación revelada en Cristo, anunciada por los profetas.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Una esperanza viva"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Llamamiento a una vida santa"
+        }
+      ]
     },
     {
       "id": "1_peter-2",
@@ -99,7 +113,21 @@
           "note": "Metáfora de la palabra de Dios como alimento nutritivo para el crecimiento en la salvación."
         }
       ],
-      "keyTakeaway": "Pedro llama a los creyentes a la santidad, la redención por la sangre de Cristo, el amor fraterno y el anhelo por la palabra pura como alimento espiritual."
+      "keyTakeaway": "Pedro llama a los creyentes a la santidad, la redención por la sangre de Cristo, el amor fraterno y el anhelo por la palabra pura como alimento espiritual.",
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "La piedra viva"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "El pueblo de Dios"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Vivid como siervos de Dios"
+        }
+      ]
     },
     {
       "id": "1_peter-3",
@@ -148,7 +176,17 @@
           "note": "La frase conecta el bautismo con la apelación a Dios por una conciencia limpia, fundamentada en la resurrección de Cristo, no en el lavamiento físico."
         }
       ],
-      "keyTakeaway": "Pedro da instrucciones a esposas, esposos y a todos los creyentes, llama a estar listos para defender la fe y explica el sufrimiento de Cristo, su proclamación y el significado del bautismo."
+      "keyTakeaway": "Pedro da instrucciones a esposas, esposos y a todos los creyentes, llama a estar listos para defender la fe y explica el sufrimiento de Cristo, su proclamación y el significado del bautismo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Deberes conyugales"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Una buena conciencia"
+        }
+      ]
     },
     {
       "id": "1_peter-4",
@@ -189,7 +227,17 @@
           "note": "Imagen de prueba severa, comparada al fuego que refina los metales."
         }
       ],
-      "keyTakeaway": "Pedro exhorta a los creyentes a vivir conforme a la voluntad de Dios, amarse y servirse mutuamente, y alegrarse en las pruebas como participantes de los sufrimientos de Cristo."
+      "keyTakeaway": "Pedro exhorta a los creyentes a vivir conforme a la voluntad de Dios, amarse y servirse mutuamente, y alegrarse en las pruebas como participantes de los sufrimientos de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Buenos administradores de la gracia de Dios"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Padeciendo como cristianos"
+        }
+      ]
     },
     {
       "id": "1_peter-5",
@@ -230,7 +278,17 @@
           "note": "Probablemente usado figuradamente para Roma, como lugar de exilio y oposición a Dios."
         }
       ],
-      "keyTakeaway": "Pedro exhorta a los ancianos a pastorear, a los creyentes a ser humildes y resistir al diablo, y cierra con saludos y una bendición de paz."
+      "keyTakeaway": "Pedro exhorta a los ancianos a pastorear, a los creyentes a ser humildes y resistir al diablo, y cierra con saludos y una bendición de paz.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Apacentad la grey de Dios"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Salutaciones finales"
+        }
+      ]
     }
   ]
 }

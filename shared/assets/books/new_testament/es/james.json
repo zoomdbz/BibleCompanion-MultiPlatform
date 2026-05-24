@@ -54,7 +54,21 @@
           "note": "Expresión para el mensaje verdadero de Dios; en Santiago se refiere al evangelio por el cual los creyentes reciben nueva vida."
         }
       ],
-      "keyTakeaway": "Santiago llama a los creyentes a alegrarse en las pruebas, buscar sabiduría con fe, resistir la tentación y reconocer a Dios como dador de vida y verdad."
+      "keyTakeaway": "Santiago llama a los creyentes a alegrarse en las pruebas, buscar sabiduría con fe, resistir la tentación y reconocer a Dios como dador de vida y verdad.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación La sabiduría que viene de Dios"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Soportando las pruebas"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Hacedores de la palabra"
+        }
+      ]
     },
     {
       "id": "james-2",
@@ -102,7 +116,17 @@
           "note": "Llamada 'real' porque resume el mandamiento de Dios bajo Cristo el rey: amar al prójimo."
         }
       ],
-      "keyTakeaway": "Santiago condena el favoritismo hacia los ricos y sostiene que la ley real del amor es obligatoria para todos sin distinción."
+      "keyTakeaway": "Santiago condena el favoritismo hacia los ricos y sostiene que la ley real del amor es obligatoria para todos sin distinción.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Amonestación contra la parcialidad"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "La fe sin obras es muerta"
+        }
+      ]
     },
     {
       "id": "james-3",
@@ -147,7 +171,17 @@
           "note": "Expresión para la sabiduría dada por Dios, contrastada con la sabiduría terrenal o demoníaca."
         }
       ],
-      "keyTakeaway": "Santiago advierte sobre el poder destructivo de la lengua y contrasta la sabiduría terrenal con la sabiduría de lo alto, que produce paz y justicia."
+      "keyTakeaway": "Santiago advierte sobre el poder destructivo de la lengua y contrasta la sabiduría terrenal con la sabiduría de lo alto, que produce paz y justicia.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La lengua"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La sabiduría de lo alto"
+        }
+      ]
     },
     {
       "id": "james-4",
@@ -191,7 +225,21 @@
           "note": "Imagen de la fugacidad de la vida; como un soplo o vapor que desaparece rápidamente."
         }
       ],
-      "keyTakeaway": "Santiago condena las pasiones mundanas y la arrogancia, e insta a la humildad, la sumisión a Dios y el reconocimiento de la brevedad de la vida bajo la voluntad de Dios."
+      "keyTakeaway": "Santiago condena las pasiones mundanas y la arrogancia, e insta a la humildad, la sumisión a Dios y el reconocimiento de la brevedad de la vida bajo la voluntad de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La amistad con el mundo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Juzgando al hermano"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "No os gloriéis del día de mañana"
+        }
+      ]
     },
     {
       "id": "james-5",
@@ -233,7 +281,17 @@
           "note": "Instrucción de hablar con sencillez y veracidad, sin recurrir a juramentos."
         }
       ],
-      "keyTakeaway": "Santiago advierte a los ricos que oprimen, llama a la paciencia hasta la venida del Señor e instruye sobre la sinceridad sin necesidad de juramentos."
+      "keyTakeaway": "Santiago advierte a los ricos que oprimen, llama a la paciencia hasta la venida del Señor e instruye sobre la sinceridad sin necesidad de juramentos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Contra los ricos opresores"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Sed pacientes y orad"
+        }
+      ]
     }
   ]
 }

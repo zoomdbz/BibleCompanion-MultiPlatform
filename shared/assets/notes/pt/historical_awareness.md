@@ -139,7 +139,7 @@ O *Livro de Enoque* foi amplamente lido nas comunidades judaicas e cristãs, cit
 
 * **3 Enoque (Enoque Hebraico)**: Um texto rabínico posterior (~século V–VI d.C.). Aqui, Enoque é transformado no anjo Metatron, chefe das hostes celestiais. Reflete o misticismo judaico e a Cabala, não a tradição cristã primitiva ou do Segundo Templo.
 
-### Para a profecia, apenas o **1 Enoque** se alinha com Gênesis, Apocalipse e Judas.
+**Para a profecia, apenas o **1 Enoque** se alinha com Gênesis, Apocalipse e Judas.**
 
 ---
 
@@ -245,7 +245,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 ---
 
-### **Tempos Designados por Deus na Bíblia versus Tradições Adotadas**
+**Tempos Designados por Deus na Bíblia versus Tradições Adotadas**
 
 Embora muitas celebrações modernas tenham origem no sincretismo religioso, a Escritura define certos *moedim* (tempos designados) estabelecidos por Deus em (Levítico 23). Estes não são feriados culturais, mas encontros divinos que revelam o plano de redenção cumprido no Messias. Os primeiros crentes continuaram a honrar essas festas como parte do ritmo da aliança de Deus (Atos 2:1) (Atos 20:6) (Atos 20:16) (1 Coríntios 5:8). Nos séculos posteriores, especialmente sob o domínio romano, essas celebrações foram substituídas por feriados civis e sazonais para se alinhar à cultura do império em vez das Escrituras.
 

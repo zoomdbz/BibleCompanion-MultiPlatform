@@ -87,15 +87,15 @@ Esta configuração completa exata (sol, lua, coroa de 12 objetos e a saída de 
 
 ## Outros Sinais Celestes Notáveis
 
-### O Cometa do Eclipse de 1948 (C/1948 V1)
+**O Cometa do Eclipse de 1948 (C/1948 V1)**
 
 Em **1º de novembro de 1948**, aproximadamente 1 Kisleu 5709, um cometa brilhante foi descoberto durante um eclipse solar total. Atingiu visibilidade a olho nu com uma cauda abrangendo até 30 graus do céu e permaneceu visível até dezembro de 1948. Este foi o mesmo ano em que Israel se tornou uma nação (14 de maio de 1948 = 5 Iyyar 5708) após quase 2.000 anos de exílio. A coincidência de um cometa a olho nu aparecer no primeiro ano de Israel como estado moderno não foi ignorada pelos estudiosos de Ezequiel 37 e Isaías 11.
 
-### A Grande Conjunção de 21 de dezembro de 2020
+**A Grande Conjunção de 21 de dezembro de 2020**
 
 No solstício de inverno, **21 de dezembro de 2020** (6 Tevet 5781), Júpiter e Saturno apareceram separados por apenas 0,1 grau, a separação visível mais próxima desde 1623. A grande mídia a chamou de "Estrela de Natal" por sua semelhança com as descrições da Estrela de Belém. A conjunção apareceu no céu ocidental logo após o pôr do sol, na direção de Belém como vista de Jerusalém. A data hebraica cai em Tevet, um mês sem dias de festas, mas a ressonância visual e simbólica com o evento da estrela de Belém levou muitos crentes messiânicos a notá-la. Os dois planetas não estarão tão próximos novamente até 2080.
 
-### Cometa NEOWISE (2020)
+**Cometa NEOWISE (2020)**
 
 **Cometa C/2020 F3 (NEOWISE)** atingiu periélio em 3 de julho de 2020 (~11 Tamuz 5780) e maior aproximação da Terra em 23 de julho de 2020 (~2 Av 5780). Foi o cometa mais brilhante visível a olho nu do Hemisfério Norte desde o Cometa Hale-Bopp em 1997. Seu período orbital estimado é aproximadamente 4.500 anos, levando alguns a sugerir que seu último aparecimento foi na era de Abraão ou antes. O mês de Av no calendário hebraico é um mês de luto e jejum (Tisha B'Av cai em 9 Av); o cometa atingiu seu auge durante este período. Seu significado profético é debatido dentro da comunidade messiânica.
 
@@ -130,7 +130,7 @@ Eclipses lunares totais (luas de sangue) ocorreram em **Purim**, o 14º de Adar,
 - **14 de março de 2025:** Eclipse lunar total (~65 minutos de totalidade), 14 Adar 5785, **Purim**
 - **3 de março de 2026:** Eclipse lunar total (~58 minutos de totalidade), 14 Adar 5786, **Purim**
 
-Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm precedente nos tempos modernos. Purim não é um dia festivo de Levítico 23, mas comemora a libertação de Israel do genocídio (Esther 9:20–22). O livro de Esther nunca nomeia Deus, mas Sua mão é visível em toda parte.
+Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm precedente nos tempos modernos. Purim não é um dia festivo de Levítico 23, mas comemora a libertação de Israel do genocídio (Ester 9:20–22). O livro de Esther nunca nomeia Deus, mas Sua mão é visível em toda parte.
 
 ### Eclipses Solares
 
@@ -138,7 +138,7 @@ Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm 
 - **2 de outubro de 2024:** Eclipse solar anular ("anel de fogo") em **1 Tishrei 5785, Rosh Hashanah, a Festa das Trombetas (Yom Teruah)**.
 - **12 de agosto de 2026:** Eclipse solar total (trajetória através da Península Ibérica e Norte da África). Data hebraica: 29 Av, sem alinhamento festivo.
 
-### Tempestades Solares Antes da Lua de Sangue de Purim de 2026
+**Tempestades Solares Antes da Lua de Sangue de Purim de 2026**
 
 Em **1–5 de fevereiro de 2026**, a região ativa AR4366, um grupo de manchas solares 14 vezes mais largo que a Terra, entrou em erupção com seis erupções solares de classe X em quatro dias, incluindo dois eventos de classe X8.1 entre os mais fortes do Ciclo Solar 25. Uma ejeção de massa coronal atingiu a Terra em 5 de fevereiro, desencadeando tempestades geomagnéticas e aurora generalizada. Isso ocorreu aproximadamente 25 dias antes da lua de sangue de Purim de 3 de março.
 

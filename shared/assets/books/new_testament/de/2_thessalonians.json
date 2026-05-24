@@ -34,7 +34,21 @@
           "note": "Wörtlich „gute Nachricht“; die Verkündigung des Heils durch Jesus Christus."
         }
       ],
-      "keyTakeaway": "Paulus dankt Gott für den wachsenden Glauben und die Liebe der Thessalonicher, versichert ihnen Gottes gerechtes Gericht und Christi Wiederkunft in Herrlichkeit und betet für ihre Würdigkeit."
+      "keyTakeaway": "Paulus dankt Gott für den wachsenden Glauben und die Liebe der Thessalonicher, versichert ihnen Gottes gerechtes Gericht und Christi Wiederkunft in Herrlichkeit und betet für ihre Würdigkeit.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ermutigung für eine verfolgte Gemeinde Anschrift und Gruß"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Christus, der Retter und Richter"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Wir beten für euch"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-2",
@@ -83,7 +97,17 @@
           "note": "Dasjenige, das zurückhält oder hemmt; die genaue Identität wird von Paulus nicht angegeben."
         }
       ],
-      "keyTakeaway": "Paulus warnt, dass der Tag des Herrn noch nicht gekommen ist; er wartet auf den Abfall, die Beseitigung des Aufhalters sowie die Offenbarung und Vernichtung des Menschen der Gesetzlosigkeit."
+      "keyTakeaway": "Paulus warnt, dass der Tag des Herrn noch nicht gekommen ist; er wartet auf den Abfall, die Beseitigung des Aufhalters sowie die Offenbarung und Vernichtung des Menschen der Gesetzlosigkeit.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Christus kommt wieder Der Feind Gottes"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Bleibt fest im Glauben!"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-3",
@@ -123,7 +147,21 @@
           "note": "Beschreibt unordentliches oder undiszipliniertes Verhalten; hier speziell die Weigerung zu arbeiten."
         }
       ],
-      "keyTakeaway": "Paulus bittet um Gebet, versichert Gottes Treue, gebietet die Meidung unordentlichen Müßiggangs und stellt den Grundsatz auf, dass Arbeitsunwilligkeit den Anspruch auf Essen verwirkt."
+      "keyTakeaway": "Paulus bittet um Gebet, versichert Gottes Treue, gebietet die Meidung unordentlichen Müßiggangs und stellt den Grundsatz auf, dass Arbeitsunwilligkeit den Anspruch auf Essen verwirkt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Anweisungen für ein vorbildliches Leben im Alltag Betet für uns"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Wer nicht arbeiten will, der soll auch nicht essen"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Abschließender persönlicher Gruß"
+        }
+      ]
     }
   ]
 }

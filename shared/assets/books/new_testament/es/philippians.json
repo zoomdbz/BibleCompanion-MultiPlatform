@@ -52,7 +52,21 @@
           "note": "Dos roles de liderazgo en la iglesia: obispos (episkopoi, supervisores/ancianos) y diáconos (servidores/ayudantes)."
         }
       ],
-      "keyTakeaway": "Pablo saluda a los filipenses, agradece a Dios por su compañerismo en el evangelio y ora para que su amor, discernimiento y justicia abunden para la gloria de Dios."
+      "keyTakeaway": "Pablo saluda a los filipenses, agradece a Dios por su compañerismo en el evangelio y ora para que su amor, discernimiento y justicia abunden para la gloria de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Oración de Pablo por los creyentes"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Para mí el vivir es Cristo"
+        }
+      ]
     },
     {
       "id": "philippians-2",
@@ -104,7 +118,21 @@
           "note": "Significa comunión o vida compartida producida por el Espíritu Santo."
         }
       ],
-      "keyTakeaway": "Pablo exhorta a los filipenses a vivir de manera digna del evangelio, manteniéndose firmes juntos, sin temor ante la oposición, y practicando la humildad y la unidad en amor."
+      "keyTakeaway": "Pablo exhorta a los filipenses a vivir de manera digna del evangelio, manteniéndose firmes juntos, sin temor ante la oposición, y practicando la humildad y la unidad en amor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Humillación y exaltación de Cristo"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Luminares en el mundo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Timoteo y Epafrodito"
+        }
+      ]
     },
     {
       "id": "philippians-3",
@@ -157,7 +185,13 @@
           "note": "Describe la pertenencia a una comunidad política; Pablo lo aplica a la pertenencia al cielo."
         }
       ],
-      "keyTakeaway": "Pablo advierte contra confiar en la carne, repasa su linaje, declara todo como pérdida por Cristo, avanza hacia la meta celestial y recuerda a los creyentes que su ciudadanía está en el cielo."
+      "keyTakeaway": "Pablo advierte contra confiar en la carne, repasa su linaje, declara todo como pérdida por Cristo, avanza hacia la meta celestial y recuerda a los creyentes que su ciudadanía está en el cielo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prosigo al blanco"
+        }
+      ]
     },
     {
       "id": "philippians-4",
@@ -202,7 +236,25 @@
           "note": "Significa plenitud, bienestar, armonía; Pablo enfatiza la paz de Dios que guarda a los creyentes."
         }
       ],
-      "keyTakeaway": "Pablo exhorta a los filipenses a la unidad, la alegría, la oración, la meditación en lo excelente y la imitación de su ejemplo, con la paz de Dios guardándolos."
+      "keyTakeaway": "Pablo exhorta a los filipenses a la unidad, la alegría, la oración, la meditación en lo excelente y la imitación de su ejemplo, con la paz de Dios guardándolos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Regocijaos en el Señor siempre"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "En esto pensad"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Dádivas de los filipenses"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Salutaciones finales"
+        }
+      ]
     }
   ]
 }

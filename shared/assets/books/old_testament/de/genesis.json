@@ -73,7 +73,13 @@
           "note": "Aufhören; der siebte Tag wird als Gabe und Markierung in der Zeit abgesondert."
         }
       ],
-      "keyTakeaway": "Gott erschafft Licht und trennt es von der Finsternis, scheidet Himmel und Meer voneinander, lässt Vegetation entstehen, setzt Sonne, Mond und Sterne an den Himmel und erschafft Meerestiere und Vögel; dann schafft Gott den Menschen nach seinem Bild als Mann und Frau und gibt ihnen Herrschaft über alle Lebewesen sowie Pflanzen zur Nahrung."
+      "keyTakeaway": "Gott erschafft Licht und trennt es von der Finsternis, scheidet Himmel und Meer voneinander, lässt Vegetation entstehen, setzt Sonne, Mond und Sterne an den Himmel und erschafft Meerestiere und Vögel; dann schafft Gott den Menschen nach seinem Bild als Mann und Frau und gibt ihnen Herrschaft über alle Lebewesen sowie Pflanzen zur Nahrung.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die frühe Geschichte der Menschheit Gott erschafft die Welt"
+        }
+      ]
     },
     {
       "id": "genesis-2",
@@ -140,7 +146,13 @@
           "note": "Aufhören; der siebte Tag wird als Gabe und Markierung in der Zeit abgesondert."
         }
       ],
-      "keyTakeaway": "Gott ruht am siebten Tag nach Abschluss der Schöpfung, formt dann Adam aus Staub, setzt ihn in den Garten Eden mit der Anweisung, nicht vom Baum der Erkenntnis des Guten und Bösen zu essen, und erschafft eine Frau aus Adams Rippe als seine Gehilfin. Adam benennt alle Tiere, gibt der Frau einen Namen, und sie leben nackt miteinander ohne Scham."
+      "keyTakeaway": "Gott ruht am siebten Tag nach Abschluss der Schöpfung, formt dann Adam aus Staub, setzt ihn in den Garten Eden mit der Anweisung, nicht vom Baum der Erkenntnis des Guten und Bösen zu essen, und erschafft eine Frau aus Adams Rippe als seine Gehilfin. Adam benennt alle Tiere, gibt der Frau einen Namen, und sie leben nackt miteinander ohne Scham.",
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Im fruchtbaren Garten"
+        }
+      ]
     },
     {
       "id": "genesis-3",
@@ -206,7 +218,13 @@
           "note": "Eine verkündete Strafe oder Mühsal; kein magischer Zauber."
         }
       ],
-      "keyTakeaway": "Nach dem Essen der verbotenen Frucht werden Konsequenzen verkündet und der Mann und die Frau aus Eden vertrieben."
+      "keyTakeaway": "Nach dem Essen der verbotenen Frucht werden Konsequenzen verkündet und der Mann und die Frau aus Eden vertrieben.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der Mensch zerstört die Gemeinschaft mit Gott"
+        }
+      ]
     },
     {
       "id": "genesis-4",
@@ -290,7 +308,21 @@
           "note": "Vater Noahs, lebte 777 Jahre; verschieden von Lamech in Kains Linie."
         }
       ],
-      "keyTakeaway": "Kain lockt Abel auf das Feld und tötet ihn; Gott spricht das Urteil, und die Menschheit beginnt sich zu mehren mit sowohl Gewalt als auch Gottesverehrung. Kains Linie entwickelt Städte und Fertigkeiten, wird aber gewalttätig; Adams Linie durch Seth bleibt erhalten, mit aufgezeichneten Lebenszeiten bis hin zu Noah, einschließlich Henoch, der mit Gott wandelte."
+      "keyTakeaway": "Kain lockt Abel auf das Feld und tötet ihn; Gott spricht das Urteil, und die Menschheit beginnt sich zu mehren mit sowohl Gewalt als auch Gottesverehrung. Kains Linie entwickelt Städte und Fertigkeiten, wird aber gewalttätig; Adams Linie durch Seth bleibt erhalten, mit aufgezeichneten Lebenszeiten bis hin zu Noah, einschließlich Henoch, der mit Gott wandelte.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Neid und seine Folgen"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Kains Nachkommen"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Set und Enosch"
+        }
+      ]
     },
     {
       "id": "genesis-5",
@@ -359,7 +391,13 @@
           "note": "Aufzeichnungen der Abstammung oder Familiengeschichten."
         }
       ],
-      "keyTakeaway": "Die Genealogie verfolgt Adams Linie bis zu Noah und hebt die langen Lebensspannen sowie den besonderen Fall Henochs hervor, der mit Gott wandelte."
+      "keyTakeaway": "Die Genealogie verfolgt Adams Linie bis zu Noah und hebt die langen Lebensspannen sowie den besonderen Fall Henochs hervor, der mit Gott wandelte.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Von Adam bis Noah"
+        }
+      ]
     },
     {
       "id": "genesis-6",
@@ -414,7 +452,17 @@
           "note": "Gunst, Annahme oder Güte, von Gott gewährt."
         }
       ],
-      "keyTakeaway": "Gott kündigt das Gericht durch eine Flut an, bestimmt aber Noach, das Leben durch Gehorsam zu bewahren."
+      "keyTakeaway": "Gott kündigt das Gericht durch eine Flut an, bestimmt aber Noach, das Leben durch Gehorsam zu bewahren.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Gott greift ein"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Noah soll verschont werden"
+        }
+      ]
     },
     {
       "id": "genesis-7",
@@ -465,7 +513,13 @@
           "note": "Ein großes kastenartiges Gefäß; der Begriff wird auch für den Korb des kleinen Mose verwendet."
         }
       ],
-      "keyTakeaway": "Die Flut vernichtet alle Lebewesen außerhalb der Arche; nur Noah, seine Familie und die Tiere bei ihm überleben."
+      "keyTakeaway": "Die Flut vernichtet alle Lebewesen außerhalb der Arche; nur Noah, seine Familie und die Tiere bei ihm überleben.",
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Die große Flut"
+        }
+      ]
     },
     {
       "id": "genesis-8",
@@ -514,7 +568,17 @@
           "note": "Ein Opfer, das vollständig vom Feuer auf dem Altar verzehrt wird."
         }
       ],
-      "keyTakeaway": "Die Wasser gehen zurück, Noah verlässt die Arche, und Gott verspricht, alles Leben nicht wieder durch eine Flut zu vernichten."
+      "keyTakeaway": "Die Wasser gehen zurück, Noah verlässt die Arche, und Gott verspricht, alles Leben nicht wieder durch eine Flut zu vernichten.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gott denkt an Noah"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Wieder auf festem Boden"
+        }
+      ]
     },
     {
       "id": "genesis-9",
@@ -575,7 +639,17 @@
           "note": "Sichtbares Merkmal, das eine Erklärung in Erinnerung hält; hier der Regenbogen für den Bund."
         }
       ],
-      "keyTakeaway": "Gott schließt einen ewigen Bund mit Noah und allen Lebewesen, gibt Anweisungen zur Nahrung, und die Geschlechtslinie setzt sich durch Noahs Söhne fort."
+      "keyTakeaway": "Gott schließt einen ewigen Bund mit Noah und allen Lebewesen, gibt Anweisungen zur Nahrung, und die Geschlechtslinie setzt sich durch Noahs Söhne fort.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gottes Bund mit Noah"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Noahs Söhne"
+        }
+      ]
     },
     {
       "id": "genesis-10",
@@ -644,7 +718,13 @@
           "note": "Stark oder tapfer; für Nimrod als herausragende Gestalt verwendet."
         }
       ],
-      "keyTakeaway": "Eine Genealogie zeigt, wie Familien, Länder und Sprachen sich von Noahs Söhnen zu eigenständigen Völkern ausbreiteten. Von Sem bis Abram bewahrt Gott eine auserwählte Linie durch Generationen und Namen und bereitet so seinen Bund mit Abraham vor."
+      "keyTakeaway": "Eine Genealogie zeigt, wie Familien, Länder und Sprachen sich von Noahs Söhnen zu eigenständigen Völkern ausbreiteten. Von Sem bis Abram bewahrt Gott eine auserwählte Linie durch Generationen und Namen und bereitet so seinen Bund mit Abraham vor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Völker entstehen aus Noahs Nachkommen"
+        }
+      ]
     },
     {
       "id": "genesis-11",
@@ -709,7 +789,17 @@
           "note": "Ruf oder Ruhm; hier menschliche Absicht, eine Identität zu begründen."
         }
       ],
-      "keyTakeaway": "Gott verwirrt die menschliche Sprache und zerstreut die Menschen von Babel, wodurch das Stadt- und Turmprojekt zum Stillstand kommt."
+      "keyTakeaway": "Gott verwirrt die menschliche Sprache und zerstreut die Menschen von Babel, wodurch das Stadt- und Turmprojekt zum Stillstand kommt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der Wunsch nach Unabhängigkeit"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Von Sem bis Abram"
+        }
+      ]
     },
     {
       "id": "genesis-12",
@@ -766,7 +856,17 @@
           "note": "Heimsuchungen oder Schläge; hier göttliche Heimsuchungen über das Haus des Pharao."
         }
       ],
-      "keyTakeaway": "Abram folgt Gottes Ruf und reist nach Kanaan, doch in Ägypten wird Sarai in Pharaos Haus gebracht, bis Gott durch Plagen eingreift."
+      "keyTakeaway": "Abram folgt Gottes Ruf und reist nach Kanaan, doch in Ägypten wird Sarai in Pharaos Haus gebracht, bis Gott durch Plagen eingreift.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Stammväter Israels: Abraham, Isaak und Jakob Gott erwählt Abram"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Abram fürchtet um sein Leben"
+        }
+      ]
     },
     {
       "id": "genesis-13",
@@ -811,7 +911,17 @@
           "note": "Das Ziel verfehlen; hinter Gottes beabsichtigtem Maßstab zurückbleiben, nicht lediglich schlechte Dinge tun."
         }
       ],
-      "keyTakeaway": "Abram und Lot trennen sich, um den Streit zu beenden; Abram bleibt in Kanaan und empfängt erneuerte Landverheißungen."
+      "keyTakeaway": "Abram und Lot trennen sich, um den Streit zu beenden; Abram bleibt in Kanaan und empfängt erneuerte Landverheißungen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abram und Lot trennen sich"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Gott wiederholt seine Zusage"
+        }
+      ]
     },
     {
       "id": "genesis-14",
@@ -862,7 +972,17 @@
           "note": "Ein Zehntel der Güter; hier von Abram an Melchisedek gegeben."
         }
       ],
-      "keyTakeaway": "Abram befreit Lot aus der Gefangenschaft der Könige und wird von Melchisedek gesegnet; Abram lehnt eine Belohnung vom König von Sodom ab."
+      "keyTakeaway": "Abram befreit Lot aus der Gefangenschaft der Könige und wird von Melchisedek gesegnet; Abram lehnt eine Belohnung vom König von Sodom ab.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abram setzt sich für Lot ein"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Begegnung mit dem König von Salem"
+        }
+      ]
     },
     {
       "id": "genesis-15",
@@ -915,7 +1035,13 @@
           "note": "Botschaft oder Erklärung; die Erzählung sagt, das Wort des HERRN kam in einer Vision."
         }
       ],
-      "keyTakeaway": "Gott versichert Abram zahllose Nachkommen und übereignet ihm das Land durch einen Bund, der mit einem feierlichen Ritual besiegelt wird."
+      "keyTakeaway": "Gott versichert Abram zahllose Nachkommen und übereignet ihm das Land durch einen Bund, der mit einem feierlichen Ritual besiegelt wird.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gottes Bund mit Abram"
+        }
+      ]
     },
     {
       "id": "genesis-16",
@@ -963,7 +1089,13 @@
           "note": "Bedrücken, unterdrücken oder erniedrigen; beschreibt Sarais Behandlung Hagars."
         }
       ],
-      "keyTakeaway": "Sarai gibt Hagar an Abram; als Hagar schwanger wird und vor harter Behandlung flieht, sieht Gott sie und verheißt ihr einen Sohn namens Ismael."
+      "keyTakeaway": "Sarai gibt Hagar an Abram; als Hagar schwanger wird und vor harter Behandlung flieht, sieht Gott sie und verheißt ihr einen Sohn namens Ismael.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Abram und Sarai werden ungeduldig"
+        }
+      ]
     },
     {
       "id": "genesis-17",
@@ -1022,7 +1154,13 @@
           "note": "Formelle bindende Verpflichtung; hier zwischen Gott und Abrahams Linie mit einem ewigen Zeichen."
         }
       ],
-      "keyTakeaway": "Gott schließt den Bund mit Abraham förmlich ab, gibt die Beschneidung als Zeichen und verheißt einen Sohn durch Sara, der Isaak heißen soll."
+      "keyTakeaway": "Gott schließt den Bund mit Abraham förmlich ab, gibt die Beschneidung als Zeichen und verheißt einen Sohn durch Sara, der Isaak heißen soll.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Das Zeichen des Bundes: Die Beschneidung"
+        }
+      ]
     },
     {
       "id": "genesis-18",
@@ -1087,7 +1225,17 @@
           "note": "Ehrfurcht oder Scheu vor Gott, nicht Schrecken; erscheint als Maßstab der Rechtschaffenheit in verwandten Erzählungen."
         }
       ],
-      "keyTakeaway": "Der verheißene Sohn wird Sara bestätigt, und Abraham bittet Gott für Sodom und Gomorra."
+      "keyTakeaway": "Der verheißene Sohn wird Sara bestätigt, und Abraham bittet Gott für Sodom und Gomorra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "»Nächstes Jahr wirst du einen Sohn haben«"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Abraham bittet für Sodom und Gomorra"
+        }
+      ]
     },
     {
       "id": "genesis-19",
@@ -1163,7 +1311,17 @@
           "note": "Brennende Substanzen, die vom Himmel regnen als Werkzeuge der Vernichtung."
         }
       ],
-      "keyTakeaway": "Sodoms Verdorbenheit zeigt sich in gewaltsamer Absicht; Gott vernichtet die Städte und rettet Lot, dessen Familiengeschichte sich in beunruhigenden Ereignissen fortsetzt."
+      "keyTakeaway": "Sodoms Verdorbenheit zeigt sich in gewaltsamer Absicht; Gott vernichtet die Städte und rettet Lot, dessen Familiengeschichte sich in beunruhigenden Ereignissen fortsetzt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sodom und Gomorra werden ausgelöscht"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Lots Töchter"
+        }
+      ]
     },
     {
       "id": "genesis-20",
@@ -1223,7 +1381,13 @@
           "note": "Eine nächtliche Vision, die Gott benutzt, um Warnungen oder Anweisungen zu übermitteln."
         }
       ],
-      "keyTakeaway": "Sara wird in Abimelechs Haus gebracht, doch Gott greift ein, bevor sie berührt wird; Abimelech gibt sie zurück und wird geheilt, nachdem Abraham gebetet hat."
+      "keyTakeaway": "Sara wird in Abimelechs Haus gebracht, doch Gott greift ein, bevor sie berührt wird; Abimelech gibt sie zurück und wird geheilt, nachdem Abraham gebetet hat.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abraham und der Philisterkönig Abimelech"
+        }
+      ]
     },
     {
       "id": "genesis-21",
@@ -1284,7 +1448,21 @@
           "note": "Brunnen der Sieben oder des Eides; Ort des Vertrags und eines Brunnens."
         }
       ],
-      "keyTakeaway": "Isaaks Geburt erfüllt die Verheißung; Hagar und Ismael ziehen unter Gottes Fürsorge fort; Abraham schließt einen Bund in Beerseba."
+      "keyTakeaway": "Isaaks Geburt erfüllt die Verheißung; Hagar und Ismael ziehen unter Gottes Fürsorge fort; Abraham schließt einen Bund in Beerseba.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Isaak"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Hagar und Ismael müssen gehen"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Abraham und Abimelech schließen einen Vertrag"
+        }
+      ]
     },
     {
       "id": "genesis-22",
@@ -1356,7 +1534,13 @@
           "note": "Region, die für die Prüfung bestimmt wurde."
         }
       ],
-      "keyTakeaway": "Abraham bindet Isaak und nimmt das Messer, um ihn zu schlachten, doch Gott hält ihn auf und stellt einen Widder als Ersatz bereit."
+      "keyTakeaway": "Abraham bindet Isaak und nimmt das Messer, um ihn zu schlachten, doch Gott hält ihn auf und stellt einen Widder als Ersatz bereit.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Eine schwere Prüfung für Abraham"
+        }
+      ]
     },
     {
       "id": "genesis-23",
@@ -1403,7 +1587,13 @@
           "note": "Ein Grundbesitz oder Anwesen."
         }
       ],
-      "keyTakeaway": "Abraham erwirbt eine Begräbnisstätte in Machpela und begründet damit einen rechtmäßigen Besitz im Land."
+      "keyTakeaway": "Abraham erwirbt eine Begräbnisstätte in Machpela und begründet damit einen rechtmäßigen Besitz im Land.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Abraham kauft Grundbesitz in Kanaan"
+        }
+      ]
     },
     {
       "id": "genesis-24",
@@ -1497,7 +1687,13 @@
           "note": "Ein Lasttier für lange Reisen; ein praktisches Detail in der Erzählung."
         }
       ],
-      "keyTakeaway": "Rebekah wird auf Gebet und Vorsehungszeichen hin ausgewählt und zu Isaak gebracht."
+      "keyTakeaway": "Rebekah wird auf Gebet und Vorsehungszeichen hin ausgewählt und zu Isaak gebracht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Eine Frau für Isaak"
+        }
+      ]
     },
     {
       "id": "genesis-25",
@@ -1570,7 +1766,29 @@
           "note": "Ein erklärtes Wort Gottes über Schicksale; hier über die Zwillinge."
         }
       ],
-      "keyTakeaway": "Abraham stirbt und wird begraben; Ismaels 12 Söhne werden Fürsten ihrer Stämme und bilden Völker in der Nachbarschaft Israels. Isaaks Linie setzt sich mit den Zwillingen Esau und Jakob fort, und Esau verkauft sein Erstgeburtsrecht."
+      "keyTakeaway": "Abraham stirbt und wird begraben; Ismaels 12 Söhne werden Fürsten ihrer Stämme und bilden Völker in der Nachbarschaft Israels. Isaaks Linie setzt sich mit den Zwillingen Esau und Jakob fort, und Esau verkauft sein Erstgeburtsrecht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Weitere Nachkommen Abrahams"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Abrahams Tod"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Ismaels Nachkommen"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Esau und Jakob"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Esau verkauft sein Erstgeburtsrecht"
+        }
+      ]
     },
     {
       "id": "genesis-26",
@@ -1632,7 +1850,25 @@
           "note": "Ein geschworenes Versprechen, das die Parteien in einem Vertrag bindet."
         }
       ],
-      "keyTakeaway": "Isaak bleibt im Land, gedeiht und schließt Frieden mit Abimelech inmitten von Streitigkeiten um Brunnen."
+      "keyTakeaway": "Isaak bleibt im Land, gedeiht und schließt Frieden mit Abimelech inmitten von Streitigkeiten um Brunnen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Isaak fürchtet um sein Leben"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Streit mit den Philistern"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Ein Bündnis mit Abimelech"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Esaus Frauen"
+        }
+      ]
     },
     {
       "id": "genesis-27",
@@ -1715,7 +1951,17 @@
           "note": "Treulos handeln oder irreführen; beschreibt Jakobs Tat gegen Isaak und Esau."
         }
       ],
-      "keyTakeaway": "Jakob betrügt Isaak, empfängt den Segen Esaus, und Esau weint mit lautem und bitterem Geschrei, während Isaak bestätigt, dass der Segen nicht rückgängig gemacht werden kann."
+      "keyTakeaway": "Jakob betrügt Isaak, empfängt den Segen Esaus, und Esau weint mit lautem und bitterem Geschrei, während Isaak bestätigt, dass der Segen nicht rückgängig gemacht werden kann.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jakob gebraucht eine List"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Jakob muss fliehen"
+        }
+      ]
     },
     {
       "id": "genesis-28",
@@ -1764,7 +2010,13 @@
           "note": "Ein aufgerichteter Gedenkstein, verbunden mit einem Gelübde oder Gedenken."
         }
       ],
-      "keyTakeaway": "Jakob empfängt einen Traum von einer Himmelsleiter und eine Erneuerung der Verheißungen; er nennt den Ort Bethel."
+      "keyTakeaway": "Jakob empfängt einen Traum von einer Himmelsleiter und eine Erneuerung der Verheißungen; er nennt den Ort Bethel.",
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Gott begegnet Jakob"
+        }
+      ]
     },
     {
       "id": "genesis-29",
@@ -1826,7 +2078,21 @@
           "note": "Sich mit einer Handlung erinnern; für Gott bezüglich Rahel verwendet."
         }
       ],
-      "keyTakeaway": "Jakob begegnet Rahel an einem Brunnen in der Nähe von Haran, arbeitet sieben Jahre, um sie zu heiraten, doch Laban betrügt ihn und gibt ihm zuerst Lea zur Frau; Jakob arbeitet daraufhin weitere sieben Jahre für Rahel, und Lea gebiert ihm vier Söhne, während Rahel kinderlos bleibt."
+      "keyTakeaway": "Jakob begegnet Rahel an einem Brunnen in der Nähe von Haran, arbeitet sieben Jahre, um sie zu heiraten, doch Laban betrügt ihn und gibt ihm zuerst Lea zur Frau; Jakob arbeitet daraufhin weitere sieben Jahre für Rahel, und Lea gebiert ihm vier Söhne, während Rahel kinderlos bleibt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jakob in Haran"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jakob muss sich seine Frauen verdienen"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Jakobs Kinder"
+        }
+      ]
     },
     {
       "id": "genesis-30",
@@ -1896,7 +2162,13 @@
           "note": "Sich mit einer Handlung erinnern; für Gott bezüglich Rahel verwendet."
         }
       ],
-      "keyTakeaway": "Rahel gibt Jakob ihre Magd Bilha zur Frau, damit sie für sie Kinder gebäre; danach tut Lea dasselbe mit ihrer Magd Silpa; schließlich empfängt Rahel selbst und gebiert Joseph. Nach Josephs Geburt handelt Jakob mit Laban aus, die gefleckten und gesprenkelten Tiere als Lohn zu erhalten, und verwendet dann geschälte Zweige an den Tränken, um Tiere in den vereinbarten Farben zu züchten, wodurch er reich wird."
+      "keyTakeaway": "Rahel gibt Jakob ihre Magd Bilha zur Frau, damit sie für sie Kinder gebäre; danach tut Lea dasselbe mit ihrer Magd Silpa; schließlich empfängt Rahel selbst und gebiert Joseph. Nach Josephs Geburt handelt Jakob mit Laban aus, die gefleckten und gesprenkelten Tiere als Lohn zu erhalten, und verwendet dann geschälte Zweige an den Tränken, um Tiere in den vereinbarten Farben zu züchten, wodurch er reich wird.",
+      "headings": [
+        {
+          "beforeVerse": 24,
+          "text": "Jakobs Handel mit Laban"
+        }
+      ]
     },
     {
       "id": "genesis-31",
@@ -1977,7 +2249,17 @@
           "note": "Sich mit einer Handlung erinnern; für Gott bezüglich Rahel verwendet."
         }
       ],
-      "keyTakeaway": "Jakob flieht mit seinen Frauen, Kindern und seinem Vieh aus Labans Haushalt, nachdem Gott ihm befohlen hat, nach Kanaan zurückzukehren; Laban verfolgt und stellt ihn, doch nachdem Gott Laban gewarnt hat, Jakob nichts anzutun, schließen die beiden Männer einen Bund, der durch einen Steinhaufen besiegelt wird, und einigen sich auf eine friedliche Trennung."
+      "keyTakeaway": "Jakob flieht mit seinen Frauen, Kindern und seinem Vieh aus Labans Haushalt, nachdem Gott ihm befohlen hat, nach Kanaan zurückzukehren; Laban verfolgt und stellt ihn, doch nachdem Gott Laban gewarnt hat, Jakob nichts anzutun, schließen die beiden Männer einen Bund, der durch einen Steinhaufen besiegelt wird, und einigen sich auf eine friedliche Trennung.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Flucht"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Jakob und Laban einigen sich"
+        }
+      ]
     },
     {
       "id": "genesis-32",
@@ -2036,7 +2318,17 @@
           "note": "Von Jakob gegebener Name: „Angesicht Gottes.“"
         }
       ],
-      "keyTakeaway": "Jakob begegnet Gottes Engeln, schickt Boten mit Geschenken aus, um seinen Bruder Esau zu besänftigen, und ringt eine ganze Nacht mit einem Mann, der ihn Israel nennt und ihn beim Morgengrauen segnet, bevor er geht."
+      "keyTakeaway": "Jakob begegnet Gottes Engeln, schickt Boten mit Geschenken aus, um seinen Bruder Esau zu besänftigen, und ringt eine ganze Nacht mit einem Mann, der ihn Israel nennt und ihn beim Morgengrauen segnet, bevor er geht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jakob bereitet sich auf die Begegnung mit Esau vor"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jakob muss kämpfen"
+        }
+      ]
     },
     {
       "id": "genesis-33",
@@ -2083,7 +2375,17 @@
           "note": "Von Jakob gegebener Name: „Angesicht Gottes.“"
         }
       ],
-      "keyTakeaway": "Jakob ordnet seine Familie für die Begegnung mit Esau, verbeugt sich mehrmals vor ihm, und Esau empfängt ihn herzlich; Jakob besteht darauf, dass Esau ein großes Geschenk annimmt, lehnt dann aber Esaus Angebot ab, gemeinsam zu reisen, und verweist auf das Tempo seiner Kinder und seines Viehs. Jakob lässt sich später bei Sichem nieder, kauft Land von den Söhnen Hamors und errichtet dort einen Altar."
+      "keyTakeaway": "Jakob ordnet seine Familie für die Begegnung mit Esau, verbeugt sich mehrmals vor ihm, und Esau empfängt ihn herzlich; Jakob besteht darauf, dass Esau ein großes Geschenk annimmt, lehnt dann aber Esaus Angebot ab, gemeinsam zu reisen, und verweist auf das Tempo seiner Kinder und seines Viehs. Jakob lässt sich später bei Sichem nieder, kauft Land von den Söhnen Hamors und errichtet dort einen Altar.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die Versöhnung"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jakob in Sichem"
+        }
+      ]
     },
     {
       "id": "genesis-34",
@@ -2151,7 +2453,13 @@
           "note": "Eine schändliche Tat; Sprache der Schändung und Entehrung."
         }
       ],
-      "keyTakeaway": "Dina wird von Sichem entführt und geschändet; ihre Brüder täuschen die Stadt und massakrieren sie aus Rache, was die Familie in große Gefahr bringt."
+      "keyTakeaway": "Dina wird von Sichem entführt und geschändet; ihre Brüder täuschen die Stadt und massakrieren sie aus Rache, was die Familie in große Gefahr bringt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ein Verbrechen wird gerächt"
+        }
+      ]
     },
     {
       "id": "genesis-35",
@@ -2222,7 +2530,25 @@
           "note": "Von Gott als Jakobs Name bestätigt."
         }
       ],
-      "keyTakeaway": "Gott bestätigt Jakob als Israel in Bethel, Rahel stirbt bei der Geburt Benjamins, Ruben schändet Bilha, Jakobs zwölf Söhne werden aufgelistet, und Isaak stirbt mit 180 Jahren."
+      "keyTakeaway": "Gott bestätigt Jakob als Israel in Bethel, Rahel stirbt bei der Geburt Benjamins, Ruben schändet Bilha, Jakobs zwölf Söhne werden aufgelistet, und Isaak stirbt mit 180 Jahren.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jakob in Bethel"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Rahels Tod"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jakobs Söhne"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Isaaks Tod"
+        }
+      ]
     },
     {
       "id": "genesis-36",
@@ -2302,7 +2628,21 @@
           "note": "Anführer oder Sippenoberhaupt; Titel für Stammeshäupter Edoms."
         }
       ],
-      "keyTakeaway": "Esaus Nachkommenschaft sowie die Stammesfürsten und Könige Edoms werden mit ihren Gebieten aufgeführt."
+      "keyTakeaway": "Esaus Nachkommenschaft sowie die Stammesfürsten und Könige Edoms werden mit ihren Gebieten aufgeführt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esaus Nachkommen"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Seïrs Nachkommen"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Könige und Oberhäupter der Edomiter"
+        }
+      ]
     },
     {
       "id": "genesis-37",
@@ -2376,7 +2716,17 @@
           "note": "Entkommen oder weglaufen; Josef floh, als Potifars Frau ihn ergriff."
         }
       ],
-      "keyTakeaway": "Die Brüder Josefs, eifersüchtig auf die Bevorzugung durch ihren Vater und Josefs Träume von der Herrschaft, rauben ihm seinen Rock und verkaufen ihn an Ismaeliter, die nach Ägypten ziehen; sie täuschen ihren Vater Jakob mit dem blutbefleckten Rock und bringen ihn dazu zu glauben, Josef sei tot."
+      "keyTakeaway": "Die Brüder Josefs, eifersüchtig auf die Bevorzugung durch ihren Vater und Josefs Träume von der Herrschaft, rauben ihm seinen Rock und verkaufen ihn an Ismaeliter, die nach Ägypten ziehen; sie täuschen ihren Vater Jakob mit dem blutbefleckten Rock und bringen ihn dazu zu glauben, Josef sei tot.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Josef und seine Brüder Josefs Träume"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Josef soll verschwinden"
+        }
+      ]
     },
     {
       "id": "genesis-38",
@@ -2444,7 +2794,13 @@
           "note": "Entkommen oder weglaufen; Josef floh, als Potifars Frau ihn ergriff."
         }
       ],
-      "keyTakeaway": "Juda heiratet eine Kanaaniterin und zeugt drei Söhne; als sein Erstgeborener Er stirbt, weigert sich sein zweiter Sohn Onan, seinem Bruder Nachkommen zu erwecken, und wird ebenfalls getötet. Jahre später schläft Juda unwissentlich mit seiner als Prostituierte verkleideten Schwiegertochter Tamar; als ihre Schwangerschaft entdeckt wird, erkennt Juda an, dass sie gerechter ist als er, und sie gebiert zwei Zwillingssöhne, Perez und Serach."
+      "keyTakeaway": "Juda heiratet eine Kanaaniterin und zeugt drei Söhne; als sein Erstgeborener Er stirbt, weigert sich sein zweiter Sohn Onan, seinem Bruder Nachkommen zu erwecken, und wird ebenfalls getötet. Jahre später schläft Juda unwissentlich mit seiner als Prostituierte verkleideten Schwiegertochter Tamar; als ihre Schwangerschaft entdeckt wird, erkennt Juda an, dass sie gerechter ist als er, und sie gebiert zwei Zwillingssöhne, Perez und Serach.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tamar kämpft um ihr Recht"
+        }
+      ]
     },
     {
       "id": "genesis-39",
@@ -2505,7 +2861,17 @@
           "note": "Entkommen oder weglaufen; Josef floh, als Potifars Frau ihn ergriff."
         }
       ],
-      "keyTakeaway": "Josef gedeiht im Haushalt Potifars und wird über alles eingesetzt; als er jedoch die Annäherungsversuche von Potifars Frau zurückweist, beschuldigt sie ihn fälschlicherweise des Übergriffs. Potifar lässt Josef ins Gefängnis werfen, wo der Herr ihm Gunst verschafft und der Gefängnisaufseher ihn über das ganze Gefängnis stellt."
+      "keyTakeaway": "Josef gedeiht im Haushalt Potifars und wird über alles eingesetzt; als er jedoch die Annäherungsversuche von Potifars Frau zurückweist, beschuldigt sie ihn fälschlicherweise des Übergriffs. Potifar lässt Josef ins Gefängnis werfen, wo der Herr ihm Gunst verschafft und der Gefängnisaufseher ihn über das ganze Gefängnis stellt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Josef bei Potifar"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Im Gefängnis"
+        }
+      ]
     },
     {
       "id": "genesis-40",
@@ -2565,7 +2931,13 @@
           "note": "Ägyptischer Name für Josef; möglicherweise „Gott spricht und er lebt“ oder „Offenbarer der Geheimnisse.“"
         }
       ],
-      "keyTakeaway": "Der Mundschenk und der Bäcker des Pharao werden in dasselbe Gefängnis gebracht, in dem Josef gehalten wird; beide träumen in derselben Nacht, und Josef deutet den Traum des Mundschenken als drei Tage bis zu seiner Wiedereinsetzung und den des Bäckers als drei Tage bis zu seiner Hinrichtung. Die Vorhersagen erfüllen sich am Geburtstag des Pharao, doch der Mundschenk vergisst Josef trotz seiner Bitte, an ihn zu denken."
+      "keyTakeaway": "Der Mundschenk und der Bäcker des Pharao werden in dasselbe Gefängnis gebracht, in dem Josef gehalten wird; beide träumen in derselben Nacht, und Josef deutet den Traum des Mundschenken als drei Tage bis zu seiner Wiedereinsetzung und den des Bäckers als drei Tage bis zu seiner Hinrichtung. Die Vorhersagen erfüllen sich am Geburtstag des Pharao, doch der Mundschenk vergisst Josef trotz seiner Bitte, an ihn zu denken.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Josef deutet Träume"
+        }
+      ]
     },
     {
       "id": "genesis-41",
@@ -2659,7 +3031,25 @@
           "note": "Ägyptischer Name für Josef; möglicherweise „Gott spricht und er lebt“ oder „Offenbarer der Geheimnisse.“"
         }
       ],
-      "keyTakeaway": "Pharao träumt von sieben fetten Kühen, die von sieben mageren verschlungen werden, und von sieben vollen Ähren, die von sieben dürren verschluckt werden; Josef deutet dies als sieben fruchtbare Jahre, gefolgt von sieben Hungerjahren, schlägt einen Vorratplan vor und wird zum Herrscher über ganz Ägypten erhoben. In den fruchtbaren Jahren legt Josef gewaltige Getreidemengen an, heiratet Asenat und zeugt zwei Söhne; als die Hungersnot kommt, hat allein Ägypten Getreide, und die ganze Welt kommt, um es bei Josef zu kaufen."
+      "keyTakeaway": "Pharao träumt von sieben fetten Kühen, die von sieben mageren verschlungen werden, und von sieben vollen Ähren, die von sieben dürren verschluckt werden; Josef deutet dies als sieben fruchtbare Jahre, gefolgt von sieben Hungerjahren, schlägt einen Vorratplan vor und wird zum Herrscher über ganz Ägypten erhoben. In den fruchtbaren Jahren legt Josef gewaltige Getreidemengen an, heiratet Asenat und zeugt zwei Söhne; als die Hungersnot kommt, hat allein Ägypten Getreide, und die ganze Welt kommt, um es bei Josef zu kaufen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der Pharao weiß nicht weiter"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Josef kann helfen"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Josef wird der Stellvertreter des Pharaos"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Die Regierungsmaßnahmen Josefs"
+        }
+      ]
     },
     {
       "id": "genesis-42",
@@ -2730,7 +3120,13 @@
           "note": "Ein silberner Kelch; von Josef als Gegenstand seiner Prüfung verwendet."
         }
       ],
-      "keyTakeaway": "Jakob schickt zehn seiner Söhne wegen der Hungersnot nach Ägypten, um Getreide zu kaufen; Josef, nun der Statthalter, erkennt sie, verbirgt aber seine Identität, beschuldigt sie der Spionage, lässt sie einsperren und fordert, dass sie ihren jüngsten Bruder Benjamin mitbringen. Als die Brüder ihr Silber in ihren Säcken wiederfinden und erfahren, dass Simeon als Geisel zurückgehalten wird, berichten sie Jakob alles, der sich weigert, Benjamin ziehen zu lassen."
+      "keyTakeaway": "Jakob schickt zehn seiner Söhne wegen der Hungersnot nach Ägypten, um Getreide zu kaufen; Josef, nun der Statthalter, erkennt sie, verbirgt aber seine Identität, beschuldigt sie der Spionage, lässt sie einsperren und fordert, dass sie ihren jüngsten Bruder Benjamin mitbringen. Als die Brüder ihr Silber in ihren Säcken wiederfinden und erfahren, dass Simeon als Geisel zurückgehalten wird, berichten sie Jakob alles, der sich weigert, Benjamin ziehen zu lassen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Josefs Brüder in Ägypten"
+        }
+      ]
     },
     {
       "id": "genesis-43",
@@ -2797,7 +3193,13 @@
           "note": "Ein silberner Kelch; von Josef als Gegenstand seiner Prüfung verwendet."
         }
       ],
-      "keyTakeaway": "Jakob willigt schließlich ein, Benjamin nach Ägypten zu schicken; die Brüder kehren mit Geschenken und doppeltem Silber zu Josef zurück, der sie in seinem Haus empfängt und beim Anblick Benjamins heimlich weint, bevor er sie bei einem Mahl bewirtet, bei dem Benjamin einen fünfmal so großen Anteil erhält wie die anderen."
+      "keyTakeaway": "Jakob willigt schließlich ein, Benjamin nach Ägypten zu schicken; die Brüder kehren mit Geschenken und doppeltem Silber zu Josef zurück, der sie in seinem Haus empfängt und beim Anblick Benjamins heimlich weint, bevor er sie bei einem Mahl bewirtet, bei dem Benjamin einen fünfmal so großen Anteil erhält wie die anderen.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Zweite Reise nach Ägypten"
+        }
+      ]
     },
     {
       "id": "genesis-44",
@@ -2864,7 +3266,13 @@
           "note": "Ein silberner Kelch; von Josef als Gegenstand seiner Prüfung verwendet."
         }
       ],
-      "keyTakeaway": "Josef lässt seinen Haushalter seinen silbernen Becher in Benjamins Sack legen, beschuldigt die Brüder des Diebstahls, als sie ertappt werden, und hört dann zu, wie Juda leidenschaftlich darum bittet, an Benjamins Stelle als Sklave zu bleiben, anstatt ohne ihn zum Vater zurückzukehren."
+      "keyTakeaway": "Josef lässt seinen Haushalter seinen silbernen Becher in Benjamins Sack legen, beschuldigt die Brüder des Diebstahls, als sie ertappt werden, und hört dann zu, wie Juda leidenschaftlich darum bittet, an Benjamins Stelle als Sklave zu bleiben, anstatt ohne ihn zum Vater zurückzukehren.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Der verhängnisvolle Becher"
+        }
+      ]
     },
     {
       "id": "genesis-45",
@@ -2925,7 +3333,13 @@
           "note": "Ein silberner Kelch; von Josef als Gegenstand seiner Prüfung verwendet."
         }
       ],
-      "keyTakeaway": "Josef gibt sich seinen Brüdern zu erkennen, weint mit ihnen, versichert ihnen, dass Gott ihn nach Ägypten gesandt hat, um ihr Leben während der Hungersnot zu erhalten, und fordert sie auf, ihren Vater Jakob nach Ägypten zu bringen. Pharao billigt den Plan und stellt Wagen und Vorräte bereit; die Brüder kehren nach Kanaan zurück und teilen Jakob mit, dass Josef lebt und über Ägypten herrscht."
+      "keyTakeaway": "Josef gibt sich seinen Brüdern zu erkennen, weint mit ihnen, versichert ihnen, dass Gott ihn nach Ägypten gesandt hat, um ihr Leben während der Hungersnot zu erhalten, und fordert sie auf, ihren Vater Jakob nach Ägypten zu bringen. Pharao billigt den Plan und stellt Wagen und Vorräte bereit; die Brüder kehren nach Kanaan zurück und teilen Jakob mit, dass Josef lebt und über Ägypten herrscht.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Josef gibt sich zu erkennen"
+        }
+      ]
     },
     {
       "id": "genesis-46",
@@ -2992,7 +3406,17 @@
           "note": "Ein silberner Kelch; von Josef als Gegenstand seiner Prüfung verwendet."
         }
       ],
-      "keyTakeaway": "Jakob verlässt Beerscheba, nachdem Gott ihm in einer Vision versichert hat, dass er in Ägypten zu einem großen Volk werden und zurückgebracht werden wird; er kommt mit all seinen Nachkommen und seinem Vieh in Goschen an, wo er sich mit Josef vereint, der seiner Familie anweist, dem Pharao zu sagen, dass sie Hirten sind, damit sie sich in Goschen niederlassen können."
+      "keyTakeaway": "Jakob verlässt Beerscheba, nachdem Gott ihm in einer Vision versichert hat, dass er in Ägypten zu einem großen Volk werden und zurückgebracht werden wird; er kommt mit all seinen Nachkommen und seinem Vieh in Goschen an, wo er sich mit Josef vereint, der seiner Familie anweist, dem Pharao zu sagen, dass sie Hirten sind, damit sie sich in Goschen niederlassen können.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jakobs Familie zieht nach Ägypten"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Das Wiedersehen"
+        }
+      ]
     },
     {
       "id": "genesis-47",
@@ -3056,7 +3480,21 @@
           "note": "Ein silberner Kelch; von Josef als Gegenstand seiner Prüfung verwendet."
         }
       ],
-      "keyTakeaway": "Josef erwirkt bei Pharao die Erlaubnis, seine Familie in Goshen ansiedeln zu lassen, stellt seinen Vater Jakob dem Pharao vor und versorgt sie mit Nahrung und Land. Während der schweren Hungersnot sammelt Josef alles ägyptische Geld und Vieh für Pharao ein und kauft dann das Volk selbst samt seinem Land in die Knechtschaft, wobei er einen Fünftel-Abgabe auf künftige Ernten festsetzt; Jakob lebt noch siebzehn weitere Jahre in Ägypten und lässt Josef schwören, ihn bei seinen Vätern in Kanaan zu begraben."
+      "keyTakeaway": "Josef erwirkt bei Pharao die Erlaubnis, seine Familie in Goshen ansiedeln zu lassen, stellt seinen Vater Jakob dem Pharao vor und versorgt sie mit Nahrung und Land. Während der schweren Hungersnot sammelt Josef alles ägyptische Geld und Vieh für Pharao ein und kauft dann das Volk selbst samt seinem Land in die Knechtschaft, wobei er einen Fünftel-Abgabe auf künftige Ernten festsetzt; Jakob lebt noch siebzehn weitere Jahre in Ägypten und lässt Josef schwören, ihn bei seinen Vätern in Kanaan zu begraben.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Jakob beim Pharao"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Die Verwaltung des Landes"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Jakobs letzter Wunsch"
+        }
+      ]
     },
     {
       "id": "genesis-48",
@@ -3111,7 +3549,13 @@
           "note": "Einen Körper mit Gewürzen und Zubereitungen konservieren; ägyptische Bestattungspraxis."
         }
       ],
-      "keyTakeaway": "Josef bringt seine beiden Söhne Manasse und Ephraim zu seinem sterbenden Vater Jakob, der sie als eigene Söhne annimmt und segnet; Jakob legt dabei bewusst seine rechte Hand auf das Haupt des jüngeren Ephraim statt auf das des Erstgeborenen Manasse, und obwohl Josef widerspricht, bleibt Jakob dabei und erklärt, Ephraim werde größer sein."
+      "keyTakeaway": "Josef bringt seine beiden Söhne Manasse und Ephraim zu seinem sterbenden Vater Jakob, der sie als eigene Söhne annimmt und segnet; Jakob legt dabei bewusst seine rechte Hand auf das Haupt des jüngeren Ephraim statt auf das des Erstgeborenen Manasse, und obwohl Josef widerspricht, bleibt Jakob dabei und erklärt, Ephraim werde größer sein.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jakob segnet Ephraim und Manasse"
+        }
+      ]
     },
     {
       "id": "genesis-49",
@@ -3177,7 +3621,13 @@
           "note": "Einen Körper mit Gewürzen und Zubereitungen konservieren; ägyptische Bestattungspraxis."
         }
       ],
-      "keyTakeaway": "Jakob versammelt seine Söhne und spricht über jeden einen Segen oder eine Verheißung aus; dann befiehlt er ihnen, ihn in der Höhle Machpela bei seinen Vorfahren zu begraben, und stirbt."
+      "keyTakeaway": "Jakob versammelt seine Söhne und spricht über jeden einen Segen oder eine Verheißung aus; dann befiehlt er ihnen, ihn in der Höhle Machpela bei seinen Vorfahren zu begraben, und stirbt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jakobs Segen für seine Söhne"
+        }
+      ]
     },
     {
       "id": "genesis-50",
@@ -3236,7 +3686,21 @@
           "note": "Einen Körper mit Gewürzen und Zubereitungen konservieren; ägyptische Bestattungspraxis."
         }
       ],
-      "keyTakeaway": "Josef lässt seinen Vater Jakob einbalsamieren und begräbt ihn in Kanaan unter großem ägyptischem und familiärem Geleit; zurück in Ägypten fürchten Josefs Brüder Vergeltung, doch Josef vergibt ihnen und erklärt, Gott habe das Böse zum Guten gewendet. Josef erreicht ein Alter von 110 Jahren, erlebt seine Nachkommen und lässt seine Familie schwören, seine Gebeine nach Kanaan zu bringen, wenn Gott sie aus Ägypten herausführt."
+      "keyTakeaway": "Josef lässt seinen Vater Jakob einbalsamieren und begräbt ihn in Kanaan unter großem ägyptischem und familiärem Geleit; zurück in Ägypten fürchten Josefs Brüder Vergeltung, doch Josef vergibt ihnen und erklärt, Gott habe das Böse zum Guten gewendet. Josef erreicht ein Alter von 110 Jahren, erlebt seine Nachkommen und lässt seine Familie schwören, seine Gebeine nach Kanaan zu bringen, wenn Gott sie aus Ägypten herausführt.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Trauer um Jakob"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Was Gott beschlossen hat, das steht fest"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Josefs Tod"
+        }
+      ]
     }
   ]
 }

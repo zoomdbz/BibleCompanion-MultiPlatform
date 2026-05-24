@@ -93,7 +93,21 @@
           "note": "1:5 può significare \"non ha sopraffatto\" o \"non ha compreso\"; entrambi i significati sono attestati nell'uso."
         }
       ],
-      "keyTakeaway": "Il prologo presenta il Verbo come vita e luce, la testimonianza di Giovanni, il dono di diventare figli di Dio credendo nel suo nome e il Verbo che si fa carne, pieno di grazia e verità."
+      "keyTakeaway": "Il prologo presenta il Verbo come vita e luce, la testimonianza di Giovanni, il dono di diventare figli di Dio credendo nel suo nome e il Verbo che si fa carne, pieno di grazia e verità.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prologo"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Testimonianza di Giovanni il battista"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "I primi discepoli"
+        }
+      ]
     },
     {
       "id": "john-2",
@@ -160,7 +174,17 @@
           "note": "Sovrintendente/responsabile che presiede al banchetto (2:8–9)."
         }
       ],
-      "keyTakeaway": "A un matrimonio in Galilea, Gesù ordina di riempire delle giare per la purificazione, l'acqua diventa vino e questo primo segno viene annotato."
+      "keyTakeaway": "A un matrimonio in Galilea, Gesù ordina di riempire delle giare per la purificazione, l'acqua diventa vino e questo primo segno viene annotato.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Primo miracolo a Cana"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Gesù nel tempio"
+        }
+      ]
     },
     {
       "id": "john-3",
@@ -238,7 +262,17 @@
           "note": "Vita del secolo; tema ricorrente in Giovanni (3:15–16)."
         }
       ],
-      "keyTakeaway": "Nicodemo viene di notte; Gesù parla della nascita dall'alto, dell'acqua e dello Spirito, del vento/Spirito e dell'innalzamento del Figlio dell'uomo; il brano dichiara l'amore di Dio e il dono della vita eterna."
+      "keyTakeaway": "Nicodemo viene di notte; Gesù parla della nascita dall'alto, dell'acqua e dello Spirito, del vento/Spirito e dell'innalzamento del Figlio dell'uomo; il brano dichiara l'amore di Dio e il dono della vita eterna.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù e Nicodemo: la nuova nascita"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Nuova testimonianza di Giovanni il battista"
+        }
+      ]
     },
     {
       "id": "john-4",
@@ -334,7 +368,17 @@
           "note": "Titolo spiegato in 4:25."
         }
       ],
-      "keyTakeaway": "Al pozzo di Giacobbe, Gesù chiede da bere a una donna samaritana, parla di acqua viva e del culto in spirito e verità, e si rivela a lei."
+      "keyTakeaway": "Al pozzo di Giacobbe, Gesù chiede da bere a una donna samaritana, parla di acqua viva e del culto in spirito e verità, e si rivela a lei.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù e la donna samaritana"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Gesù in Galilea; guarigione del figlio di un ufficiale"
+        }
+      ]
     },
     {
       "id": "john-5",
@@ -401,6 +445,10 @@
         {
           "ref": "5:4",
           "text": "Perciocchè di tempo in tempo un angelo scendeva nella pescina, ed intorbidava l'acqua; e il primo che vi entrava, dopo l'intorbidamento dell'acqua, era sanato, di qualunque malattia egli fosse tenuto."
+        },
+        {
+          "ref": "John 5:4",
+          "text": "Alcuni manoscritti tardivi aggiungono qui un versetto 4, che spiega la piscina di Betesda: «poiché un angelo del Signore scendeva di tanto in tanto nella piscina e agitava l’acqua; il primo che vi scendeva dopo che l’acqua era stata agitata guariva di qualunque malattia fosse afflitto». È assente nel Codice Sinaitico, nel Vaticano e nei più antichi testimoni greci. Sembra essere una tradizione popolare aggiunta in seguito per spiegare il commento del malato al v. 7."
         }
       ],
       "translationNotes": [
@@ -418,6 +466,20 @@
           "term": "Sabato",
           "original": "Hebrew: שַׁבָּת (šabāt) — Greek (NT): σάββατον (sάbbaton) — Aramaic (Syriac): ܫܒܬܐ (šbtʾ)",
           "note": "Riposo del settimo giorno; contesto della guarigione e della controversia (5:9–10, 16)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù guarisce un paralitico a Betesda"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Gesù dichiara la sua uguaglianza con il Padre"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Testimonianze che confermano quella di Gesù"
         }
       ]
     },
@@ -522,7 +584,25 @@
           "note": "Indicatore cronologico della festa (6:4)."
         }
       ],
-      "keyTakeaway": "In prossimità della Pasqua, Gesù sfama circa cinquemila persone con cinque pani e due pesci; in seguito raggiunge i discepoli camminando sul mare e dice: «Sono io; non abbiate paura.»"
+      "keyTakeaway": "In prossimità della Pasqua, Gesù sfama circa cinquemila persone con cinque pani e due pesci; in seguito raggiunge i discepoli camminando sul mare e dice: «Sono io; non abbiate paura.»",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Moltiplicazione dei pani per cinquemila uomini"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Gesù cammina sul mare"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Gesù, il pane della vita"
+        },
+        {
+          "beforeVerse": 60,
+          "text": "Gesù mette alla prova la lealtà dei discepoli"
+        }
+      ]
     },
     {
       "id": "john-7",
@@ -602,7 +682,25 @@
           "note": "Gesù dice che il suo tempo non è ancora compiuto (7:6–8)."
         }
       ],
-      "keyTakeaway": "Prima della Festa delle Capanne, i fratelli di Gesù lo spingono ad andare pubblicamente; lui poi va in segreto mentre le folle discutono sottovoce della sua identità."
+      "keyTakeaway": "Prima della Festa delle Capanne, i fratelli di Gesù lo spingono ad andare pubblicamente; lui poi va in segreto mentre le folle discutono sottovoce della sua identità.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I fratelli di Gesù non credono in lui"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Gesù alla festa delle Capanne"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Fiumi d’acqua viva"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Quel che la gente dice di Gesù"
+        }
+      ]
     },
     {
       "id": "john-8",
@@ -683,7 +781,21 @@
           "note": "Dichiarazione di Gesù che richiama Deuteronomio 17:7 sui testimoni che avviano la punizione (8:7)."
         }
       ],
-      "keyTakeaway": "Una donna viene portata a Gesù per essere giudicata; dopo le sue parole gli accusatori se ne vanno, e lui le dice: «Neanch'io ti condanno; va', e d'ora in poi non peccare più»."
+      "keyTakeaway": "Una donna viene portata a Gesù per essere giudicata; dopo le sue parole gli accusatori se ne vanno, e lui le dice: «Neanch'io ti condanno; va', e d'ora in poi non peccare più».",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La donna adultera"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Gesù, la luce del mondo"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "Gesù e Abraamo"
+        }
+      ]
     },
     {
       "id": "john-9",
@@ -751,7 +863,13 @@
           "note": "Sostanza fatta di saliva e polvere (9:6)."
         }
       ],
-      "keyTakeaway": "Gesù si dichiara la luce del mondo, pone del fango sugli occhi dell'uomo, lo manda a Siloe e l'uomo torna a vedere."
+      "keyTakeaway": "Gesù si dichiara la luce del mondo, pone del fango sugli occhi dell'uomo, lo manda a Siloe e l'uomo torna a vedere.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù guarisce un uomo cieco fin dalla nascita"
+        }
+      ]
     },
     {
       "id": "john-10",
@@ -825,7 +943,17 @@
           "note": "Dichiarazioni di autorità sulla propria vita (10:17–18)."
         }
       ],
-      "keyTakeaway": "Gesù si identifica come la porta e il buon pastore che dà la sua vita e la riprende; parla di altre pecore, un solo gregge e un solo pastore."
+      "keyTakeaway": "Gesù si identifica come la porta e il buon pastore che dà la sua vita e la riprende; parla di altre pecore, un solo gregge e un solo pastore.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù, il buon pastore"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Gesù afferma la sua divinità"
+        }
+      ]
     },
     {
       "id": "john-11",
@@ -919,7 +1047,17 @@
           "note": "Descrizione del luogo di sepoltura (11:38–39)."
         }
       ],
-      "keyTakeaway": "Gesù va a Betania, parla con Marta e Maria, dichiara «Io sono la risurrezione e la vita», prega, chiama Lazzaro fuori dalla tomba e Lazzaro esce."
+      "keyTakeaway": "Gesù va a Betania, parla con Marta e Maria, dichiara «Io sono la risurrezione e la vita», prega, chiama Lazzaro fuori dalla tomba e Lazzaro esce.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù risuscita Lazzaro di Betania"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "Congiura contro Gesù"
+        }
+      ]
     },
     {
       "id": "john-12",
@@ -1001,7 +1139,25 @@
           "note": "Contenitore per i fondi portato dal gruppo (12:6)."
         }
       ],
-      "keyTakeaway": "Maria unge Gesù con del nardo prezioso; Gesù difende il suo gesto e parla della propria sepoltura; molti accorrono per vedere sia Gesù che Lazzaro."
+      "keyTakeaway": "Maria unge Gesù con del nardo prezioso; Gesù difende il suo gesto e parla della propria sepoltura; molti accorrono per vedere sia Gesù che Lazzaro.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Maria di Betania unge i piedi di Gesù"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Ingresso trionfale di Gesù a Gerusalemme"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Alcuni Greci desiderano vedere Gesù"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Gesù annuncia la sua crocifissione"
+        }
+      ]
     },
     {
       "id": "john-13",
@@ -1071,7 +1227,21 @@
           "note": "Termine per il modello dato da Gesù (13:15)."
         }
       ],
-      "keyTakeaway": "Durante la cena, Gesù lava i piedi ai discepoli e li istruisce riguardo all'esempio che ha dato e alla beatitudine del metterlo in pratica."
+      "keyTakeaway": "Durante la cena, Gesù lava i piedi ai discepoli e li istruisce riguardo all'esempio che ha dato e alla beatitudine del metterlo in pratica.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’ultima cena; Gesù lava i piedi ai suoi discepoli"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Gesù annuncia il tradimento di Giuda"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Gesù annuncia il rinnegamento di Pietro"
+        }
+      ]
     },
     {
       "id": "john-14",
@@ -1134,7 +1304,17 @@
           "note": "Promessa legata alla preghiera nel nome di Gesù (14:13–14)."
         }
       ],
-      "keyTakeaway": "Gesù esorta i discepoli a non turbarsi, parla delle molte dimore nella casa del Padre, si identifica come la via, la verità e la vita, e promette di esaudire ciò che viene chiesto nel suo nome."
+      "keyTakeaway": "Gesù esorta i discepoli a non turbarsi, parla delle molte dimore nella casa del Padre, si identifica come la via, la verità e la vita, e promette di esaudire ciò che viene chiesto nel suo nome.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù consola gli apostoli: egli ritornerà da loro"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Gesù promette lo Spirito Santo"
+        }
+      ]
     },
     {
       "id": "john-15",
@@ -1193,7 +1373,17 @@
           "note": "Condizione che Gesù attribuisce ai discepoli obbedienti (15:13–15)."
         }
       ],
-      "keyTakeaway": "Gesù usa l'immagine della vite e dei tralci, chiede di rimanere in lui per portare frutto e comanda ai discepoli di amarsi a vicenda."
+      "keyTakeaway": "Gesù usa l'immagine della vite e dei tralci, chiede di rimanere in lui per portare frutto e comanda ai discepoli di amarsi a vicenda.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La vite e i tralci"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "L’odio del mondo verso coloro che credono in Cristo"
+        }
+      ]
     },
     {
       "id": "john-16",
@@ -1258,7 +1448,21 @@
           "note": "Termine di espulsione usato in 16:2."
         }
       ],
-      "keyTakeaway": "Gesù prepara i discepoli all'odio e alla persecuzione, parla della testimonianza del Consolatore e avverte dell'espulsione e della violenza compiuta in nome di Dio."
+      "keyTakeaway": "Gesù prepara i discepoli all'odio e alla persecuzione, parla della testimonianza del Consolatore e avverte dell'espulsione e della violenza compiuta in nome di Dio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù avverte i suoi delle persecuzioni future"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Lo Spirito agisce nel mondo e nei discepoli"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Gesù parla della sua morte, della sua risurrezione e della sua venuta"
+        }
+      ]
     },
     {
       "id": "john-17",
@@ -1316,7 +1520,13 @@
           "note": "Messi a parte mediante la verità; \"la tua parola è verità\" (17:17)."
         }
       ],
-      "keyTakeaway": "Gesù prega per la gloria, la protezione dal maligno, la santificazione nella verità e l'unità per i suoi discepoli e per coloro che crederanno per mezzo della loro parola."
+      "keyTakeaway": "Gesù prega per la gloria, la protezione dal maligno, la santificazione nella verità e l'unità per i suoi discepoli e per coloro che crederanno per mezzo della loro parola.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La preghiera sacerdotale"
+        }
+      ]
     },
     {
       "id": "john-18",
@@ -1388,7 +1598,29 @@
           "note": "Figura che Gesù usa per ciò che gli è destinato (18:11)."
         }
       ],
-      "keyTakeaway": "Gesù si identifica con «Io sono», viene arrestato e interrogato, e Pietro lo rinnega tre volte prima che il gallo canti."
+      "keyTakeaway": "Gesù si identifica con «Io sono», viene arrestato e interrogato, e Pietro lo rinnega tre volte prima che il gallo canti.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù viene tradito e arrestato"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Gesù è fatto comparire davanti al sommo sacerdote"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Gesù rinnegato tre volte da Pietro"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Gesù davanti a Pilato"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Liberazione di Barabba; condanna di Gesù"
+        }
+      ]
     },
     {
       "id": "john-19",
@@ -1462,7 +1694,21 @@
           "note": "Nome del luogo del seggio del giudizio (19:13)."
         }
       ],
-      "keyTakeaway": "Gesù è flagellato e deriso, Pilato lo presenta alla folla, l'interrogatorio continua e la sentenza viene emessa a Gabbatà."
+      "keyTakeaway": "Gesù è flagellato e deriso, Pilato lo presenta alla folla, l'interrogatorio continua e la sentenza viene emessa a Gabbatà.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù coronato di spine"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "La crocifissione di Gesù"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Il seppellimento di Gesù"
+        }
+      ]
     },
     {
       "id": "john-20",
@@ -1530,7 +1776,29 @@
           "note": "Fazzoletto/telo che era stato sul capo di Gesù, piegato a parte (20:7)."
         }
       ],
-      "keyTakeaway": "La tomba è trovata aperta con le bende rimaste; Gesù chiama Maria per nome, le dice di annunciare la sua ascesa, e lei riferisce di aver visto il Signore."
+      "keyTakeaway": "La tomba è trovata aperta con le bende rimaste; Gesù chiama Maria per nome, le dice di annunciare la sua ascesa, e lei riferisce di aver visto il Signore.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La risurrezione di Gesù"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Gesù appare a Maria Maddalena"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Gesù appare ai discepoli; Tommaso non è con loro"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Gesù appare ai discepoli, tra i quali è Tommaso"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Lo scopo del Vangelo secondo Giovanni"
+        }
+      ]
     },
     {
       "id": "john-21",
@@ -1592,7 +1860,21 @@
           "note": "Verbi usati nel triplice scambio di Gesù con Pietro (21:15–17)."
         }
       ],
-      "keyTakeaway": "Gesù si manifesta presso il mare, procura una grande pesca, mangia con i discepoli, interroga Pietro tre volte e lo istruisce riguardo al gregge, dice \"Seguimi\", affronta un detto sul discepolo amato e il Vangelo si chiude con una testimonianza."
+      "keyTakeaway": "Gesù si manifesta presso il mare, procura una grande pesca, mangia con i discepoli, interroga Pietro tre volte e lo istruisce riguardo al gregge, dice \"Seguimi\", affronta un detto sul discepolo amato e il Vangelo si chiude con una testimonianza.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gesù appare in riva al mare di Galilea"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Gesù e Pietro"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Il discepolo che Gesù amava"
+        }
+      ]
     }
   ]
 }

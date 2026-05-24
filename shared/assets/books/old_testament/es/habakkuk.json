@@ -54,7 +54,21 @@
           "note": "Rampas de asedio apiladas para abrir brecha en las murallas de la ciudad (1:10)."
         }
       ],
-      "keyTakeaway": "Habacuc protesta por la injusticia local; Dios responde que usará a los babilonios como instrumento de juicio."
+      "keyTakeaway": "Habacuc protesta por la injusticia local; Dios responde que usará a los babilonios como instrumento de juicio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Habacuc se queja de injusticia"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Los caldeos castigarán a Judá"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Protesta de Habacuc"
+        }
+      ]
     },
     {
       "id": "habakkuk-2",
@@ -111,7 +125,17 @@
           "note": "Morada de los muertos; usado figurativamente para el apetito insaciable (2:5)."
         }
       ],
-      "keyTakeaway": "Habacuc desafía a Dios respecto a Babilonia; Dios ordena escribir la visión, promete que llegará a su tiempo y contrasta al orgulloso con el justo que vive por la fe."
+      "keyTakeaway": "Habacuc desafía a Dios respecto a Babilonia; Dios ordena escribir la visión, promete que llegará a su tiempo y contrasta al orgulloso con el justo que vive por la fe.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jehová responde a Habacuc"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Ayes contra los injustos"
+        }
+      ]
     },
     {
       "id": "habakkuk-3",
@@ -172,7 +196,13 @@
           "note": "Estabilidad de paso firme en los lugares altos (3:19)."
         }
       ],
-      "keyTakeaway": "Habacuc entona una oración al estilo de los salmos del templo que recuerda los poderosos actos pasados de Dios, aguarda el día venidero y resuelve regocijarse en Dios aunque todo fracase."
+      "keyTakeaway": "Habacuc entona una oración al estilo de los salmos del templo que recuerda los poderosos actos pasados de Dios, aguarda el día venidero y resuelve regocijarse en Dios aunque todo fracase.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Oración de Habacuc"
+        }
+      ]
     }
   ]
 }

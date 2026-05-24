@@ -52,7 +52,25 @@
           "note": "Deux fonctions de direction dans l'Église : les évêques (episkopoi, surveillants/anciens) et les diacres (serviteurs/aides)."
         }
       ],
-      "keyTakeaway": "Paul salue les Philippiens, rend grâce à Dieu pour leur participation à l'Évangile, et prie pour que leur amour, leur discernement et leur justice croissent à la gloire de Dieu."
+      "keyTakeaway": "Paul salue les Philippiens, rend grâce à Dieu pour leur participation à l'Évangile, et prie pour que leur amour, leur discernement et leur justice croissent à la gloire de Dieu.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adresse et salutation"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Sentiments affectueux de Paul pour les Philippiens, à cause de leur attachement à l’Évangile"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La captivité de l’apôtre utile aux progrès de l’Évangile"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Exhortation à la persévérance, à l’union fraternelle, à l’humilité, et à la sainteté"
+        }
+      ]
     },
     {
       "id": "philippians-2",
@@ -104,7 +122,13 @@
           "note": "Désigne la communion ou la vie partagée produite par le Saint-Esprit."
         }
       ],
-      "keyTakeaway": "Paul invite les Philippiens à mener une vie digne de l'Évangile, à tenir ferme ensemble, à faire face à l'opposition sans crainte et à pratiquer l'humilité et l'unité dans l'amour."
+      "keyTakeaway": "Paul invite les Philippiens à mener une vie digne de l'Évangile, à tenir ferme ensemble, à faire face à l'opposition sans crainte et à pratiquer l'humilité et l'unité dans l'amour.",
+      "headings": [
+        {
+          "beforeVerse": 18,
+          "text": "Éloge de Timothée et d’Épaphrodite, que Paul se propose d’envoyer aux Philippiens"
+        }
+      ]
     },
     {
       "id": "philippians-3",
@@ -157,7 +181,13 @@
           "note": "Décrit l'appartenance à une communauté politique ; Paul l'applique à l'appartenance au ciel."
         }
       ],
-      "keyTakeaway": "Paul met en garde contre la confiance dans la chair, rappelle ses origines, déclare toutes choses comme une perte pour Christ, s'élance vers le but céleste et rappelle aux croyants que leur citoyenneté est dans les cieux."
+      "keyTakeaway": "Paul met en garde contre la confiance dans la chair, rappelle ses origines, déclare toutes choses comme une perte pour Christ, s'élance vers le but céleste et rappelle aux croyants que leur citoyenneté est dans les cieux.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Se tenir en garde contre les faux docteurs, et tendre à la perfection en s’attachant à Jésus-Christ. Suivre l’exemple de Paul"
+        }
+      ]
     },
     {
       "id": "philippians-4",
@@ -202,7 +232,17 @@
           "note": "Signifie plénitude, bien-être, harmonie ; Paul souligne la paix de Dieu qui garde les croyants."
         }
       ],
-      "keyTakeaway": "Paul exhort les Philippiens à l'unité, à la joie, à la prière, à la méditation sur ce qui est excellent et à l'imitation de son exemple, avec la paix de Dieu qui les garde."
+      "keyTakeaway": "Paul exhort les Philippiens à l'unité, à la joie, à la prière, à la méditation sur ce qui est excellent et à l'imitation de son exemple, avec la paix de Dieu qui les garde.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Recommandations, exhortations diverses"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Remerciements de Paul aux Philippiens pour les dons qu’il a reçus d’eux. Salutations"
+        }
+      ]
     }
   ]
 }

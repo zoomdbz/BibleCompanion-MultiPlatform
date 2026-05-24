@@ -52,7 +52,13 @@
           "note": "Nombrada como divinamente convocada para frustrar el trabajo centrado en uno mismo (1:11)."
         }
       ],
-      "keyTakeaway": "Dios confronta las prioridades equivocadas, explica la sequía, promete su presencia y motiva a los líderes y al pueblo a retomar la construcción del templo."
+      "keyTakeaway": "Dios confronta las prioridades equivocadas, explica la sequía, promete su presencia y motiva a los líderes y al pueblo a retomar la construcción del templo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Exhortación a edificar el templo"
+        }
+      ]
     },
     {
       "id": "haggai-2",
@@ -112,7 +118,21 @@
           "note": "Plenitud y bienestar prometidos «en este lugar» (2:9)."
         }
       ],
-      "keyTakeaway": "A un remanente desanimado, Dios promete su presencia y una conmoción futura que traerá recursos, asegurando mayor gloria y paz en su templo."
+      "keyTakeaway": "A un remanente desanimado, Dios promete su presencia y una conmoción futura que traerá recursos, asegurando mayor gloria y paz en su templo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La gloria del nuevo templo"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La infidelidad del pueblo es reprendida"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Promesa de Jehová a Zorobabel"
+        }
+      ]
     }
   ]
 }

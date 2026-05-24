@@ -47,7 +47,21 @@
           "note": "Espérance enracinée dans la résurrection de Christ, qualifiée de vivante par opposition aux attentes terrestres sans vie."
         }
       ],
-      "keyTakeaway": "Pierre salue des croyants dispersés, louant Dieu pour la nouvelle naissance à une espérance vivante et le salut révélé par Christ, annoncé par les prophètes."
+      "keyTakeaway": "Pierre salue des croyants dispersés, louant Dieu pour la nouvelle naissance à une espérance vivante et le salut révélé par Christ, annoncé par les prophètes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adresse et salutation"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Actions de grâces au sujet de l’espérance du salut"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Exhortation à la sainteté"
+        }
+      ]
     },
     {
       "id": "1_peter-2",
@@ -99,7 +113,13 @@
           "note": "Métaphore de la parole de Dieu comme nourriture pour la croissance dans le salut."
         }
       ],
-      "keyTakeaway": "Pierre appelle les croyants à la sainteté, à la rédemption par le sang du Christ, à l'amour et au désir de la parole pure comme nourriture spirituelle."
+      "keyTakeaway": "Pierre appelle les croyants à la sainteté, à la rédemption par le sang du Christ, à l'amour et au désir de la parole pure comme nourriture spirituelle.",
+      "headings": [
+        {
+          "beforeVerse": 10,
+          "text": "Exhortations diverses: la bonne conduite au milieu des païens, la soumission aux autorités, les devoirs des serviteurs, les devoirs des femmes et des maris, le support et la paix, la patience dans les épreuves"
+        }
+      ]
     },
     {
       "id": "1_peter-3",
@@ -148,7 +168,13 @@
           "note": "Expression reliant le baptême à l'engagement envers Dieu d'une bonne conscience, fondé sur la résurrection de Christ et non sur le lavage physique."
         }
       ],
-      "keyTakeaway": "Pierre donne des instructions aux femmes, aux maris et à tous les croyants, appelle à se tenir prêts à rendre compte de leur foi, et explique la souffrance du Christ, sa proclamation et la signification du baptême."
+      "keyTakeaway": "Pierre donne des instructions aux femmes, aux maris et à tous les croyants, appelle à se tenir prêts à rendre compte de leur foi, et explique la souffrance du Christ, sa proclamation et la signification du baptême.",
+      "headings": [
+        {
+          "beforeVerse": 17,
+          "text": "Exemple de Jésus-Christ, qui a souffert pour nous: conduite à tenir; consolations à espérer"
+        }
+      ]
     },
     {
       "id": "1_peter-4",
@@ -230,7 +256,21 @@
           "note": "Probablement employé au sens figuré pour Rome, comme lieu d'exil et d'opposition à Dieu."
         }
       ],
-      "keyTakeaway": "Pierre exhorte les anciens à paître le troupeau, les croyants à l'humilité et à résister au diable, et conclut par des salutations et une bénédiction de paix."
+      "keyTakeaway": "Pierre exhorte les anciens à paître le troupeau, les croyants à l'humilité et à résister au diable, et conclut par des salutations et une bénédiction de paix.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Aux anciens"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Humilité et vigilance"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Vœux et salutations"
+        }
+      ]
     }
   ]
 }

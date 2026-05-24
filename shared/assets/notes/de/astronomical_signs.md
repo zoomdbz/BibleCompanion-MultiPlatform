@@ -86,7 +86,7 @@ Das hebräische Wort *moadim* verbindet die Himmelskörper direkt mit Gottes fes
 - Das Posaunenfest hängt von der **Neumondsichtung** ab (Tischri 1)
 - Die Frühlings-Tagundnachtgleiche bestimmt den Beginn des biblischen Jahres
 
-Die Himmel werden nicht angebetet (5. Mose 4,19), aber sie werden gelesen; sie verkünden die Herrlichkeit Gottes (Psalm 19,2) und markieren Seine festgesetzten Zeiten.
+Die Himmel werden nicht angebetet (5. Mose 4,19), aber sie werden gelesen; sie verkünden die Herrlichkeit Gottes (Psalmen 19,2) und markieren Seine festgesetzten Zeiten.
 
 ---
 
@@ -95,15 +95,15 @@ Die Himmel werden nicht angebetet (5. Mose 4,19), aber sie werden gelesen; sie v
 
 ## Weitere bemerkenswerte himmlische Zeichen
 
-### Der Finsternis-Komet von 1948 (C/1948 V1)
+**Der Finsternis-Komet von 1948 (C/1948 V1)**
 
 Am **1. November 1948**, ungefähr 1. Kislev 5709, wurde ein glänzender Komet während einer totalen Sonnenfinsternis entdeckt. Er erreichte Sichtbarkeit mit bloßem Auge mit einem Schweif, der sich über bis zu 30 Grad des Himmels erstreckte, und blieb bis Dezember 1948 sichtbar. Dies war das gleiche Jahr, in dem Israel nach fast 2.000 Jahren der Zerstreuung ein Staat wurde (14. Mai 1948 = 5. Ijjar 5708). Der Zufall, dass ein Komet mit bloßem Auge in Israels erstem Jahr der modernen Staatlichkeit erschien, ist für Studenten von Hesekiel 37 und Jesaja 11 nicht verborgen geblieben.
 
-### Die Große Konjunktion vom 21. Dezember 2020
+**Die Große Konjunktion vom 21. Dezember 2020**
 
 Zur Wintersonnenwende am **21. Dezember 2020** (6. Tevet 5781) erschienen Jupiter und Saturn nur 0,1 Grad auseinander, die engste sichtbare Trennung seit 1623. Große Medien nannten sie den „Weihnachtsstern", weil sie den Beschreibungen des Sterns von Bethlehem ähnelt. Die Konjunktion erschien kurz nach Sonnenuntergang am westlichen Himmel in der Richtung Bethlehems von Jerusalem aus gesehen. Das hebräische Datum fällt in Tevet, einen Monat ohne Feiertage, aber die visuelle und symbolische Resonanz mit dem Bethlehem-Stern-Ereignis veranlasste viele messianische Gläubige, dies zu beachten. Die beiden Planeten werden sich bis 2080 nicht wieder so nahekommen.
 
-### Komet NEOWISE (2020)
+**Komet NEOWISE (2020)**
 
 Der **Komet C/2020 F3 (NEOWISE)** erreichte sein Perihel am 3. Juli 2020 (~11. Tammuz 5780) und größte Annäherung an die Erde am 23. Juli 2020 (~2. Av 5780). Er war der hellste mit bloßem Auge sichtbare Komet von der Nordhalbkugel aus seit Komet Hale-Bopp 1997. Seine geschätzte Umlaufperiode beträgt ungefähr 4.500 Jahre, was einige veranlasst, zu vermuten, dass sein letztes Erscheinen in der Ära Abrahams oder davor war. Der Monat Av im hebräischen Kalender ist ein Monat der Trauer und des Fastens (Tischa B'Av fällt auf den 9. Av); der Komet erreichte seinen Höhepunkt in diesem Zeitraum. Seine prophetische Bedeutung wird in der messianischen Gemeinde diskutiert.
 
@@ -133,7 +133,7 @@ Aufeinanderfolgende Blutmonde am selben Fest in aufeinanderfolgenden Jahren habe
 - **2. Oktober 2024:** Ringförmige („Feuerring") Sonnenfinsternis auf **1 Tischrei 5785, Rosh Hashanah, das Fest der Posaunen (Yom Teruah)**.
 - **12. August 2026:** Totale Sonnenfinsternis (Bahn über der Iberischen Halbinsel und Nordafrika). Hebräisches Datum: 29 Av, keine Festübereinstimmung.
 
-### Sonnenstürme vor dem Purim-Blutmond 2026
+**Sonnenstürme vor dem Purim-Blutmond 2026**
 
 Am **1.–5. Februar 2026** brach die aktive Region AR4366, eine Sonnenfleckengruppe 14-mal breiter als die Erde, mit sechs X-Klasse-Sonneneruptionen in vier Tagen aus, einschließlich zweier X8,1-Klasse-Ereignisse unter den stärksten des Sonnenzyklus 25. Eine koronale Massenauswurfung traf die Erde am 5. Februar und löste geomagnetische Stürme und weit verbreitete Polarlichter aus. Dies ereignete sich etwa 25 Tage vor dem Purim-Blutmond am 3. März.
 

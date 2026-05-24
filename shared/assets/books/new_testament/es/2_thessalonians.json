@@ -34,7 +34,17 @@
           "note": "Literalmente 'buenas nuevas'; la proclamación de la salvación por medio de Jesucristo."
         }
       ],
-      "keyTakeaway": "Pablo da gracias a Dios por la fe y el amor crecientes de los tesalonicenses, les asegura el justo juicio de Dios y la venida gloriosa de Cristo, y ora por la dignidad de ellos."
+      "keyTakeaway": "Pablo da gracias a Dios por la fe y el amor crecientes de los tesalonicenses, les asegura el justo juicio de Dios y la venida gloriosa de Cristo, y ora por la dignidad de ellos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Dios juzgará a los pecadores en la venida de Cristo"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-2",
@@ -83,7 +93,17 @@
           "note": "Aquello que retiene o detiene; la identidad exacta no es especificada por Pablo."
         }
       ],
-      "keyTakeaway": "Pablo advierte que el día del Señor aún no ha llegado; espera la rebelión, la remoción del que retiene y la revelación y destrucción del hombre de maldad."
+      "keyTakeaway": "Pablo advierte que el día del Señor aún no ha llegado; espera la rebelión, la remoción del que retiene y la revelación y destrucción del hombre de maldad.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Manifestación del hombre de pecado"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Escogidos para salvación"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-3",
@@ -123,7 +143,21 @@
           "note": "Describe una conducta desordenada o indisciplinada; aquí se refiere específicamente a negarse a trabajar."
         }
       ],
-      "keyTakeaway": "Pablo pide oración, afirma la fidelidad de Dios, ordena evitar la conducta ociosa y desordenada, y establece el principio de que quien no quiere trabajar tampoco debe comer."
+      "keyTakeaway": "Pablo pide oración, afirma la fidelidad de Dios, ordena evitar la conducta ociosa y desordenada, y establece el principio de que quien no quiere trabajar tampoco debe comer.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Que la palabra de Dios sea glorificada"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "El deber de trabajar"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Bendición final"
+        }
+      ]
     }
   ]
 }

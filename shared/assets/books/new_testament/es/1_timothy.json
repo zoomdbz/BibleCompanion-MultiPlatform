@@ -42,7 +42,21 @@
           "note": "Metáfora de ruina total; describe el abandono de la fe y la conciencia como un barco naufragado."
         }
       ],
-      "keyTakeaway": "Pablo encarga a Timoteo que se oponga a las falsas enseñanzas, use la ley correctamente, recuerde el ejemplo de misericordia de Pablo, y mantenga la fe y la conciencia para evitar el naufragio."
+      "keyTakeaway": "Pablo encarga a Timoteo que se oponga a las falsas enseñanzas, use la ley correctamente, recuerde el ejemplo de misericordia de Pablo, y mantenga la fe y la conciencia para evitar el naufragio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Advertencia contra falsas doctrinas"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "El ministerio de Pablo"
+        }
+      ]
     },
     {
       "id": "1_timothy-2",
@@ -79,7 +93,13 @@
           "note": "Quien interviene entre dos partes; en el Nuevo Testamento se usa de manera única para Cristo como el único mediador entre Dios y los hombres."
         }
       ],
-      "keyTakeaway": "Pablo exhorta a orar por todos, afirma que Cristo es el único mediador, da instrucciones sobre la oración de los hombres y la conducta de las mujeres, basándolas en el orden de la creación y la caída."
+      "keyTakeaway": "Pablo exhorta a orar por todos, afirma que Cristo es el único mediador, da instrucciones sobre la oración de los hombres y la conducta de las mujeres, basándolas en el orden de la creación y la caída.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Instrucciones sobre la oración"
+        }
+      ]
     },
     {
       "id": "1_timothy-3",
@@ -127,7 +147,21 @@
           "note": "Confesión que resume la encarnación, vindicación, proclamación, creencia y exaltación de Cristo."
         }
       ],
-      "keyTakeaway": "Pablo enumera los requisitos para obispos y diáconos, describe la iglesia como la familia de Dios y confiesa el misterio de la piedad centrado en Cristo."
+      "keyTakeaway": "Pablo enumera los requisitos para obispos y diáconos, describe la iglesia como la familia de Dios y confiesa el misterio de la piedad centrado en Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Requisitos de los obispos"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Requisitos de los diáconos"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "El misterio de la piedad"
+        }
+      ]
     },
     {
       "id": "1_timothy-4",
@@ -165,7 +199,17 @@
           "note": "Significa rebelión, abandono o deserción; se usa aquí para referirse a dejar la fe para seguir enseñanzas engañosas."
         }
       ],
-      "keyTakeaway": "Pablo advierte contra la apostasía provocada por enseñanzas ascéticas falsas y encarga a Timoteo que se ejercite en la piedad, sea un ejemplo, use su don y cuide su enseñanza."
+      "keyTakeaway": "Pablo advierte contra la apostasía provocada por enseñanzas ascéticas falsas y encarga a Timoteo que se ejercite en la piedad, sea un ejemplo, use su don y cuide su enseñanza.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Predicción de la apostasía"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Un buen ministro de Jesucristo"
+        }
+      ]
     },
     {
       "id": "1_timothy-5",
@@ -212,7 +256,13 @@
           "note": "Expresión que significa tanto respeto como sustento material; se aplica a los ancianos que trabajan en la predicación y la enseñanza."
         }
       ],
-      "keyTakeaway": "Se instruye a Timoteo sobre cómo tratar a distintos grupos en la iglesia: ancianos, viudas y líderes, con orientación para reconocer a las viudas dignas de apoyo, el deber de los familiares de sostenerlas, la compensación a los ancianos que trabajan bien y el manejo de acusaciones contra líderes. También se le encarga mantener imparcialidad e integridad personal al aplicar estas instrucciones."
+      "keyTakeaway": "Se instruye a Timoteo sobre cómo tratar a distintos grupos en la iglesia: ancianos, viudas y líderes, con orientación para reconocer a las viudas dignas de apoyo, el deber de los familiares de sostenerlas, la compensación a los ancianos que trabajan bien y el manejo de acusaciones contra líderes. También se le encarga mantener imparcialidad e integridad personal al aplicar estas instrucciones.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Deberes hacia los demás"
+        }
+      ]
     },
     {
       "id": "1_timothy-6",
@@ -255,7 +305,21 @@
           "note": "Expresión que significa tanto respeto como sustento material; se aplica a los ancianos que trabajan en la predicación y la enseñanza."
         }
       ],
-      "keyTakeaway": "Pablo instructs a Timoteo sobre la conducta apropiada entre esclavos y amos, advierte contra los falsos maestros que promueven controversias y codicia, y le exhorta a buscar la justicia mientras ordena a los ricos a ser generosos en lugar de arrogantes. Enfatiza que la piedad con contentamiento es ganancia, que el amor al dinero lleva a la ruina, y urge a Timoteo a guardar la fe contra el falso conocimiento."
+      "keyTakeaway": "Pablo instructs a Timoteo sobre la conducta apropiada entre esclavos y amos, advierte contra los falsos maestros que promueven controversias y codicia, y le exhorta a buscar la justicia mientras ordena a los ricos a ser generosos en lugar de arrogantes. Enfatiza que la piedad con contentamiento es ganancia, que el amor al dinero lleva a la ruina, y urge a Timoteo a guardar la fe contra el falso conocimiento.",
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Piedad y contentamiento"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "La buena batalla de la fe"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Encargo final de Pablo a Timoteo"
+        }
+      ]
     }
   ]
 }

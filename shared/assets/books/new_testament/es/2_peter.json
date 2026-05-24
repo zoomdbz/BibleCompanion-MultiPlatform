@@ -48,7 +48,21 @@
           "note": "Términos para el llamado de Dios a la fe y su elección de su pueblo; enfatizan la seguridad al continuar en fe y virtud."
         }
       ],
-      "keyTakeaway": "Pedro exhorta a los creyentes a crecer en virtudes piadosas, confirmando su llamado y elección, con la esperanza de entrar en el reino eterno de Cristo."
+      "keyTakeaway": "Pedro exhorta a los creyentes a crecer en virtudes piadosas, confirmando su llamado y elección, con la esperanza de entrar en el reino eterno de Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Partícipes de la naturaleza divina"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Testigos presenciales de la gloria de Cristo"
+        }
+      ]
     },
     {
       "id": "2_peter-2",
@@ -92,7 +106,13 @@
           "note": "Se refiere a enseñanzas divisivas y destructivas que se desvían de la verdad, llevando a la ruina."
         }
       ],
-      "keyTakeaway": "Pedro advierte sobre falsos maestros, comparándolos con ejemplos pasados de juicio, y expone su codicia, sensualidad y destrucción inevitable."
+      "keyTakeaway": "Pedro advierte sobre falsos maestros, comparándolos con ejemplos pasados de juicio, y expone su codicia, sensualidad y destrucción inevitable.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Falsos profetas y falsos maestros"
+        }
+      ]
     },
     {
       "id": "2_peter-3",
@@ -137,7 +157,13 @@
           "note": "Figura que expresa la relación diferente de Dios con el tiempo; no está limitado a la escala humana de días y años."
         }
       ],
-      "keyTakeaway": "Pedro advierte sobre burladores, afirma la paciencia del Señor y describe el día del juicio venidero y la promesa de una nueva creación."
+      "keyTakeaway": "Pedro advierte sobre burladores, afirma la paciencia del Señor y describe el día del juicio venidero y la promesa de una nueva creación.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El día del Señor vendrá"
+        }
+      ]
     }
   ]
 }

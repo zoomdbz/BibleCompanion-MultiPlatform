@@ -34,7 +34,17 @@
           "note": "Literalmente 'boa nova'; a proclamação da salvação por meio de Jesus Cristo."
         }
       ],
-      "keyTakeaway": "Paulo agradece a Deus pela fé e pelo amor crescentes dos tessalonicenses, assegura-lhes o julgamento justo de Deus e a vinda de Cristo em glória, e ora pela dignidade deles."
+      "keyTakeaway": "Paulo agradece a Deus pela fé e pelo amor crescentes dos tessalonicenses, assegura-lhes o julgamento justo de Deus e a vinda de Cristo em glória, e ora pela dignidade deles.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prefácio e saudação"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Ação de graças"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-2",
@@ -83,7 +93,21 @@
           "note": "Aquele ou aquilo que retém ou restringe; a identidade exata não é especificada por Paulo."
         }
       ],
-      "keyTakeaway": "Paulo avisa que o dia do Senhor ainda não chegou; ele aguarda a rebelião, a remoção do que detém e a revelação e destruição do homem da iniquidade."
+      "keyTakeaway": "Paulo avisa que o dia do Senhor ainda não chegou; ele aguarda a rebelião, a remoção do que detém e a revelação e destruição do homem da iniquidade.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A vinda do Senhor. A revelação da apostasia. O homem da iniquidade"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "O caráter do homem da iniquidade e a sua derrota"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Ação de graças e exortação"
+        }
+      ]
     },
     {
       "id": "2_thessalonians-3",
@@ -123,7 +147,21 @@
           "note": "Descreve conduta desordenada ou indisciplinada; aqui especificamente recusar-se a trabalhar."
         }
       ],
-      "keyTakeaway": "Paulo pede orações, assegura a fidelidade de Deus, ordena que se evite a conduta ociosa e desordenada e estabelece o princípio de que quem não quer trabalhar também não deve comer."
+      "keyTakeaway": "Paulo pede orações, assegura a fidelidade de Deus, ordena que se evite a conduta ociosa e desordenada e estabelece o princípio de que quem não quer trabalhar também não deve comer.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo pede as orações dos tessalonicenses"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Exortação à prática de vários deveres cristãos pessoais, sociais e coletivos"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "A saudação final e a bênção"
+        }
+      ]
     }
   ]
 }

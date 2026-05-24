@@ -24,7 +24,7 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 
 - **(2 Corinzi 12:2–4)** – “Fu rapito fino al terzo cielo… nel Paradiso.”  
 
-**Conclusione (Scrittura):** La Bibbia identifica più cieli: il cielo visibile (Gen 1:8), la sfera di conflitto spirituale (Dan 10:13; Ef 6:12) e il luogo della dimora di Dio (2 Cor 12:2–4).  
+**Conclusione (Scrittura):** La Bibbia identifica più cieli: il cielo visibile (Genesi 1:8), la sfera di conflitto spirituale (Daniele 10:13; Ef 6:12) e il luogo della dimora di Dio (2 Corinzi 12:2–4).  
 
 ---  
 
@@ -37,7 +37,7 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 
 - **(Daniele 10:20)** – “Il principe di Persia… il principe di Grecia.”  
 
-**Conclusione (Scrittura):** La Bibbia dichiara che i dominatori invisibili si oppongono al popolo di Dio (Ef 6:12; Dan 10:20), ma Cristo ha tolto loro il potere finale (Col 2:15).  
+**Conclusione (Scrittura):** La Bibbia dichiara che i dominatori invisibili si oppongono al popolo di Dio (Ef 6:12; Dan 10:20), ma Cristo ha tolto loro il potere finale (Colossesi 2:15).  
 
 ---  
 
@@ -66,7 +66,7 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
   - **(Efesini 6:12)** – “Lottiamo contro le forze spirituali.”  
 
 **Perché alcuni incatenati e altri no?**  
-1. Quelli che hanno oltrepassato i limiti proibiti (Gen 6:1–4) furono subito legati.  
+1. Quelli che hanno oltrepassato i limiti proibiti (Genesi 6:1–4) furono subito legati.  
 
 2. Gli altri sono ancora attivi fino al giudizio finale.  
 
@@ -131,7 +131,7 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 
 - **(Isaia 46:1–2)** – “Bel si abbassa, Nebo cade.”  
 
-**Conclusione (Scrittura):** L’idolatria è condannata nella Legge e nei Profeti (Lev 18:21; Ger 32:35). Il culto di Baal e Astarte fu ribellione (Gdc 2:11–13). Dio annunciò giudizio sugli dèi d’Egitto (Es 12:12) e sugli idoli di Babilonia (Is 46:1–2).  
+**Conclusione (Scrittura):** L’idolatria è condannata nella Legge e nei Profeti (Levitico 18:21; Ger 32:35). Il culto di Baal e Astarte fu ribellione (Gdc 2:11–13). Dio annunciò giudizio sugli dèi d’Egitto (Es 12:12) e sugli idoli di Babilonia (Isaia 46:1–2).  
 
 **Approfondimento per chiarezza:**  
 
@@ -164,7 +164,7 @@ Anche i santi più fedeli sono esempi di fede, non mediatori. L’adorazione, la
 
 - **(2 Corinzi 11:14)** – “Satana si traveste da angelo di luce.”  
 
-**Conclusione (Scrittura):** La stregoneria è chiamata abominio (Deut 18:10–12), condannata a morte (Es 22:18), contrastata dagli apostoli (At 16:16–18) e giudicata alla fine (Ap 21:8). Ap 18:23 e 2 Cor 11:14 la collegano direttamente a Satana.  
+**Conclusione (Scrittura):** La stregoneria è chiamata abominio (Deuteronomio 18:10–12), condannata a morte (Es 22:18), contrastata dagli apostoli (At 16:16–18) e giudicata alla fine (Ap 21:8). Ap 18:23 e 2 Cor 11:14 la collegano direttamente a Satana.  
 
 ---  
 
@@ -179,9 +179,9 @@ Anche i santi più fedeli sono esempi di fede, non mediatori. L’adorazione, la
 
 - **(Deuteronomio 32:17)** – “Sacrificarono ai demoni che non sono Dio.”  
 
-**Chiarimento:** Babilonia e Assiria ereditarono i loro dèi dai Sumeri (Enlil, Inanna, Marduk). I profeti denunciarono gli dèi di Babilonia (Is 46:1–2; Ger 50:2).  
+**Chiarimento:** Babilonia e Assiria ereditarono i loro dèi dai Sumeri (Enlil, Inanna, Marduk). I profeti denunciarono gli dèi di Babilonia (Isaia 46:1–2; Ger 50:2).  
 
-**Conclusione (Scrittura):** Babele = ribellione (Gen 11), Nephilim = unione proibita (Gen 6), sacrifici = ai demoni (Deut 32).  
+**Conclusione (Scrittura):** Babele = ribellione (Genesi 11), Nephilim = unione proibita (Genesi 6), sacrifici = ai demoni (Deuteronomio 32).  
 
 ---  
 
@@ -283,7 +283,7 @@ Il Corano onora Gesù (*ʿĪsā*) come profeta, ma nega la sua crocifissione e r
 - Molti musulmani affermano che la Bibbia sia stata corrotta.
 
 
-### Risposte alle obiezioni comuni:
+## Risposte alle obiezioni comuni:
 
 ### Obiezione 1: La Bibbia è stata corrotta
 Il Corano stesso conferma la Torà e il Vangelo come rivelazioni autentiche.
@@ -308,16 +308,16 @@ La Bibbia afferma la propria conservazione.
 **(1 Pietro 1:25)**
 > “Ma la parola del Signore rimane in eterno.”
 
-### **Conseguenza logica:** Se qualcuno sostiene che la Torà (Antico Testamento) e il Vangelo (Nuovo Testamento) siano stati testualmente corrotti, ciò **contraddice il Corano stesso**, che li chiama “guida e luce” e ordina persino a Maometto di consultarne i lettori. Storicamente, la polemica musulmana iniziale si concentrava sulla **cattiva interpretazione** (*taḥrīf al-maʿnā*), non sulla **corruzione del testo** (*taḥrīf al-naṣṣ*); l’accusa di corruzione testuale si è irrigidita più tardi per gestire le tensioni emerse attorno a contraddizioni di contenuto e trasmissione del Corano.
+**Conseguenza logica:** Se qualcuno sostiene che la Torà (Antico Testamento) e il Vangelo (Nuovo Testamento) siano stati testualmente corrotti, ciò **contraddice il Corano stesso**, che li chiama “guida e luce” e ordina persino a Maometto di consultarne i lettori. Storicamente, la polemica musulmana iniziale si concentrava sulla **cattiva interpretazione** (*taḥrīf al-maʿnā*), non sulla **corruzione del testo** (*taḥrīf al-naṣṣ*); l’accusa di corruzione testuale si è irrigidita più tardi per gestire le tensioni emerse attorno a contraddizioni di contenuto e trasmissione del Corano.
 
 ### Evidenza manoscritta: Bibbia vs. Corano
 
-### La Bibbia
+#### La Bibbia
 - **Antico Testamento:** I Rotoli del Mar Morto (III–I sec. a.C.) confermano la stabilità della Bibbia ebraica; il Grande Rotolo di Isaia concorda strettamente con i testi masoretici successivi (Aleppo, Leningrado), salvo minime differenze ortografiche.
 
 - **Nuovo Testamento:** Esistono migliaia di manoscritti greci, inclusi frammenti molto antichi come P52 (~125 d.C., Vangelo di Giovanni), P66 e P75 (II–III sec.). Codici completi come il Sinaitico (IV sec.) concordano con questi. Con oltre 5.000 manoscritti, il testo è ricostruibile con notevole accuratezza.
 
-### Il Corano
+#### Il Corano
 - Dopo la battaglia di Yamāma, la morte di molti memorizzatori generò timore di perdita. Il califfo ʿUthmān produsse una recensione ufficiale nel dialetto dei Quraysh e ordinò di bruciare i codici varianti.
 
 - Le fonti hadith menzionano versetti mancanti:
@@ -408,12 +408,12 @@ Anche gli storici ostili al cristianesimo riconobbero la crocifissione come fatt
 
 - **(Giovanni 14:16–17)** – Gesù prega il Padre e promette lo Spirito: tre Persone in un solo Dio.
 
-### La Trinità non è tre dèi, ma un solo Dio in tre Persone.
+La Trinità non è tre dèi, ma un solo Dio in tre Persone.
 
 
 ### *Obiezione 5: “Non esistono varianti del Corano. Lo dicono solo gli sciiti. L’Islam non è cambiato di un millimetro da Maometto.”*
 
-### Questo è storicamente falso. Le prove sono schiaccianti:
+Questo è storicamente falso. Le prove sono schiaccianti:
 
 - Gli hadith canonici ammettono versetti mancanti.
 
@@ -427,14 +427,14 @@ Anche gli storici ostili al cristianesimo riconobbero la crocifissione come fatt
 
 - **Sahih al-Bukhari 4987**: “ʿUthmān inviò a ogni provincia musulmana una copia di ciò che avevano trascritto e ordinò che tutto il restante materiale coranico… fosse bruciato.”
 
-### Se il Corano non avesse mai avuto varianti, perché era necessario bruciare?
+Se il Corano non avesse mai avuto varianti, perché era necessario bruciare?
 
-### Confronto con la Bibbia: i Rotoli del Mar Morto (150 a.C.–70 d.C.) e il Codice di Leningrado (1008 d.C.) mostrano oltre 1000 anni di preservazione fedele con minime differenze ortografiche. Il Nuovo Testamento ha 5.000+ manoscritti greci; nessuna dottrina è perduta. Il Corano ha meno manoscritti, standardizzazione deliberata e versetti mancanti ammessi.
+**Confronto con la Bibbia:** i Rotoli del Mar Morto (150 a.C.–70 d.C.) e il Codice di Leningrado (1008 d.C.) mostrano oltre 1000 anni di preservazione fedele con minime differenze ortografiche. Il Nuovo Testamento ha 5.000+ manoscritti greci; nessuna dottrina è perduta. Il Corano ha meno manoscritti, standardizzazione deliberata e versetti mancanti ammessi.
 
 
 ### *Obiezione 6: “Non puoi semplicemente leggere il Corano. Servono Hadith e dotti per il contesto.”*
 
-### Questo crea una trappola: implica che il Corano non sia sufficiente in sé, benché affermi di essere guida chiara.
+Questo crea una trappola: implica che il Corano non sia sufficiente in sé, benché affermi di essere guida chiara.
 
 **Corano 16:89 (Sahih International)**
 
@@ -444,30 +444,30 @@ Anche gli storici ostili al cristianesimo riconobbero la crocifissione come fatt
 
 > “Cercherò forse un altro giudice all’infuori di Allah, mentre è Lui che vi ha rivelato il Libro spiegato in dettaglio?”
 
-### *Se il Corano è davvero un “chiarimento di ogni cosa”, perché i laici devono dipendere da catene infinite di hadith e studiosi? Questa contraddizione mostra che il libro non è ciò che pretende di essere.*
+*Se il Corano è davvero un “chiarimento di ogni cosa”, perché i laici devono dipendere da catene infinite di hadith e studiosi? Questa contraddizione mostra che il libro non è ciò che pretende di essere.*
 
-### La Bibbia, al contrario, afferma sufficienza e chiarezza:
+La Bibbia, al contrario, afferma sufficienza e chiarezza:
 
-### (2 Timoteo 3:16–17)
+**(2 Timoteo 3:16–17)**
 
 > “Tutta la Scrittura è ispirata da Dio ed è utile a insegnare, a riprendere, a correggere, a educare alla giustizia, affinché l’uomo di Dio sia completo e ben preparato per ogni opera buona.”
 
 
 ### *Obiezione 7: “La storia è faziosa. Gesù fu crocifisso, ma non morì; salì in cielo.”*
 
-### Questa obiezione crolla di fronte sia alla Scrittura sia alla storia laica:
+Questa obiezione crolla di fronte sia alla Scrittura sia alla storia laica:
 
-### Profezia e testimonianza biblica:
+**Profezia e testimonianza biblica:**
 
-### (Isaia 53:5)
+**(Isaia 53:5)**
 
 > “Egli è stato trafitto per le nostre trasgressioni, schiacciato per le nostre iniquità; il castigo, per cui abbiamo pace, è stato su di lui, e per le sue lividure noi siamo stati guariti.”
 
-### (Giovanni 19:33–34)
+**(Giovanni 19:33–34)**
 
 > “Gesù era già morto… ma uno dei soldati gli trafisse il costato con una lancia, e subito ne uscì sangue e acqua.”
 
-### Storici laici:
+**Storici laici:**
 
 - Tacito (*Annales* 15.44) – “Cristo… subì la pena estrema durante il regno di Tiberio per mano di… Ponzio Pilato.”
 
@@ -477,7 +477,7 @@ Anche gli storici ostili al cristianesimo riconobbero la crocifissione come fatt
 
 ### Salvezza: Legge vs. Grazia
 
-### Visione dell’Islam
+#### Visione dell’Islam
 Nell’Islam la salvezza dipende dalla bilancia delle opere; le buone devono pesare più delle cattive, e in definitiva Allah può concedere o negare misericordia.
 
 **Corano 23:102–103 (Sahih International)**
@@ -485,7 +485,7 @@ Nell’Islam la salvezza dipende dalla bilancia delle opere; le buone devono pes
 
 Questo riflette un sistema di salvezza basato sulle opere.
 
-### La Legge nella Bibbia
+#### La Legge nella Bibbia
 La Legge è santa e rivela lo standard di Dio; ma nessun uomo l’ha adempiuta perfettamente; solo Gesù è senza peccato.
 
 **(Romani 3:20)**
@@ -506,7 +506,7 @@ La Legge è santa e rivela lo standard di Dio; ma nessun uomo l’ha adempiuta p
 **(Ebrei 4:15)**
 > “Non abbiamo un sommo sacerdote che non possa simpatizzare con le nostre debolezze; anzi, uno che è stato tentato come noi in ogni cosa, senza peccare.”
 
-### Grazia mediante Gesù
+#### Grazia mediante Gesù
 Il vangelo annuncia la salvezza come dono di grazia mediante la fede in Cristo, non per opere.
 
 **(Efesini 2:8–9)**
@@ -521,7 +521,7 @@ Il vangelo annuncia la salvezza come dono di grazia mediante la fede in Cristo, 
 **Punto chiave:** L’Islam insegna la salvezza per Legge e opere; la Bibbia mostra che la Legge condanna tutti e rimanda a Cristo, che solo l’ha adempiuta. La salvezza è solo per grazia mediante la fede in Gesù.
 
 
-### La condotta di Maometto alla prova della Legge di Mosè
+**La condotta di Maometto alla prova della Legge di Mosè**
 
 La Torà dà leggi chiare su sessualità, relazioni e morale; misurando Maometto su queste, egli non regge.
 
@@ -630,7 +630,7 @@ Al contrario, Maometto permise lo stupro delle prigioniere senza queste protezio
 
 ---
 
-### Privilegi personali di Maometto (Sura 33)
+**Privilegi personali di Maometto (Sura 33)**
 
 La Sura 33 concede a Maometto esenzioni uniche.
 
@@ -670,7 +670,7 @@ Contrasto evidente.
 > “Il Figlio dell’uomo è venuto non per essere servito, ma per servire e dare la sua vita come prezzo di riscatto per molti.”
 
 
-### Contraddizioni e omissioni nel Corano
+**Contraddizioni e omissioni nel Corano**
 
 L’Islam dichiara il Corano privo di contraddizioni; tuttavia compaiono conflitti nel testo e nella tradizione.
 
@@ -705,7 +705,7 @@ Molti studiosi musulmani considerano le seconde ayat abroganti delle prime. Ges�
 
 **Corano 16:93**: “Allah svia chi vuole e guida chi vuole…”
 
-La Bibbia tiene insieme sovranità divina e responsabilità umana (Rom 9:19–21; Gs 24:15).
+La Bibbia tiene insieme sovranità divina e responsabilità umana (Romani 9:19–21; Gs 24:15).
 
 ### 5) Morte di Gesù
 **Corano 4:157**: negazione.
@@ -717,7 +717,7 @@ La Bibbia: coerente:
 **(1 Corinzi 15:3–4)**
 > “Cristo è morto per i nostri peccati… è stato sepolto… è risuscitato il terzo giorno…”
 
-### Storici a conferma:
+**Storici a conferma:**
 - **Tacito, Annales 15.44**: “Cristo… subì la pena sotto Pilato.”
 
 - **Giuseppe Flavio, Antichità 18.3.3**: “Pilato… lo condannò alla croce.”
@@ -755,7 +755,7 @@ La Legge smaschera il peccato; solo Cristo l’ha adempiuta perfettamente.
 **(Giovanni 11:25–26)**
 > “Io sono la risurrezione e la vita… Credi tu questo?”
 
-### **Punto chiave:**
+**Punto chiave:**
 
 **L’Islam confessa un solo Dio, ma nega il Figlio. Gesù dice che solo Lui è la Via (Giovanni 14:6). Negare il Figlio è negare il Padre (1 Giovanni 2:23). La parola di Dio dura per sempre (Isaia 40:8); non è stata corrotta. Crocifissione, risurrezione e divinità di Gesù sono preannunciate nell’Antico Testamento e confermate nel Nuovo.**
 
@@ -765,7 +765,7 @@ La Legge smaschera il peccato; solo Cristo l’ha adempiuta perfettamente.
 
 ### Una questione di “contesto” e coerenza
 
-### **Affermazione:** “Ogni cosa nel Corano viene da Allah. Un angelo la porta, il profeta la ripete. Il contesto è tutto.”
+**Affermazione:** “Ogni cosa nel Corano viene da Allah. Un angelo la porta, il profeta la ripete. Il contesto è tutto.”
 
 - Se *il contesto è tutto*, dov’è il contesto che permette a Maometto di esentarsi dalla legge morale data da Mosè?
 
@@ -773,7 +773,7 @@ La Legge smaschera il peccato; solo Cristo l’ha adempiuta perfettamente.
 
 **Conclusione:** Se “il contesto è tutto”, la **coerenza** con la legge morale già rivelata è il primo contesto non negoziabile.
 
-### * La Torà qui è schietta:
+La Torà qui è schietta:
 
 > **Levitico 18:15**: “Non scoprirai la nudità di tua nuora; è la moglie di tuo figlio.”
 
@@ -899,39 +899,6 @@ La “Stella di David” (esagramma) non si trova da nessuna parte nella Scrittu
 
 ---
 
-### Bibliografia
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., e Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (originale XIX secolo).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contesto sul culto di Saturno e i Saturnali.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Dettagli sull’adozione tardiva dell’esagramma come simbolo ebraico, in particolare a Praga e nell’Europa del XIX secolo.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sul ruolo dell’esagramma nel misticismo ebraico medievale.)
-
----  
-
 ## 10. 三教合基 : La Via del Dao fatto carne  
 *Le Tre Dottrine unite in Cristo: la Via fatta carne*  
 
@@ -969,11 +936,13 @@ La “Stella di David” (esagramma) non si trova da nessuna parte nella Scrittu
 
 - **(Colossesi 1:17)** – “Tutte le cose sussistono in lui.”  
 
-**Conclusione (Scrittura):** Virtù confuciana (Prov 22:6; Mt 22:39), armonia taoista (Gv 1:1; Sal 46:10), compassione buddhista (Gv 15:13; Mt 11:28; Ap 21:4) trovano il loro compimento in Cristo, la Via fatta carne.  
+**Conclusione (Scrittura):** Virtù confuciana (Proverbi 22:6; Mt 22:39), armonia taoista (Gv 1:1; Sal 46:10), compassione buddhista (Gv 15:13; Mt 11:28; Ap 21:4) trovano il loro compimento in Cristo, la Via fatta carne.  
 
 ---  
 
 ## 11. Falsi Profeti e Vangeli Contraffatti
+
+Per un trattamento sistematico più approfondito di ciascun movimento elencato qui sotto (fondatori, critiche strutturali, dissidenti interni, letture consigliate), consulta il file di note **Falsa Dottrina**. La discussione qui si concentra sulla dimensione profetica-contraffatta nella cornice della guerra invisibile; quel file copre l’architettura teologica completa di ogni movimento.
 
 **Senso semplice:** Non tutti coloro che parlano nel nome di Dio parlano davvero da parte di Dio. La Scrittura fornisce prove per smascherare falsi profeti, falsi apostoli e vangeli contraffatti.
 
@@ -1139,11 +1108,11 @@ I primi cristiani lo respinsero – I concili e i credi non riguardavano la filo
 
 ---
 
-### **Conclusione biblica:** Dio ci comanda di mettere alla prova ogni maestro e ogni spirito (1 Giovanni 4:1–3).
+**Conclusione biblica:** Dio ci comanda di mettere alla prova ogni maestro e ogni spirito (1 Giovanni 4:1–3).
 
 ---
 
-### Sistemi teologici che riformulano il senso chiaro della Scrittura
+**Sistemi teologici che riformulano il senso chiaro della Scrittura**
 
 Non ogni disaccordo dottrinale è un falso vangelo. I gruppi sopra elencati negano la divinità di Cristo, aggiungono nuove scritture o inventano nuovi dèi. Il sistema seguente è categoricamente diverso; opera all’interno del cristianesimo ortodosso, afferma la Trinità e l’autorità della Scrittura, ed è sostenuto da milioni di credenti sinceri e storicamente fondati. È incluso qui non come una falsa religione, ma come un sistema teologico che, nella nostra lettura, riformula il senso chiaro della Scrittura su punti chiave.
 
@@ -1171,7 +1140,7 @@ Trattando tutti gli eventi come ugualmente decretati, il calvinismo rischia di r
 
 ---
 
-### **Conclusione biblica (continuazione):** Dio ci comanda di mettere alla prova ogni maestro e ogni spirito (1 Giovanni 4:1–3).
+**Conclusione biblica (continuazione):** Dio ci comanda di mettere alla prova ogni maestro e ogni spirito (1 Giovanni 4:1–3).
 
 Se un messaggio cambia chi è Gesù, cambia il vangelo o lega il peccato al colore della pelle, rifiutalo (Deuteronomio 13:1–5) (Deuteronomio 18:20–22) (Galati 1:8–9) (Matteo 7:15–20).
 
@@ -1195,7 +1164,7 @@ Tieni saldamente la fede che è stata trasmessa una volta per sempre ai santi (G
 
 - **(Colossesi 1:13)** – “Egli ci ha liberati dal potere delle tenebre.”  
 
-**Conclusione (Scrittura):** Gesù porta divisione (Mt 10:34). Giovanni 8 mostra il contrasto fra figli di Dio e figli del diavolo. Lc 11:23 elimina ogni neutralità. Col 1:13 assicura che i credenti sono trasferiti nella luce.  
+**Conclusione (Scrittura):** Gesù porta divisione (Matteo 10:34). Giovanni 8 mostra il contrasto fra figli di Dio e figli del diavolo. Lc 11:23 elimina ogni neutralità. Col 1:13 assicura che i credenti sono trasferiti nella luce.  
 
 ---  
 
@@ -1210,5 +1179,39 @@ Tieni saldamente la fede che è stata trasmessa una volta per sempre ai santi (G
 - **(Filippesi 2:10–11)** – Ogni ginocchio si piegherà e ogni lingua confesserà Gesù.  
 
 **Conclusione (Scrittura):** Cristo ha distrutto le opere del diavolo (1 Gv 3:8). I credenti vincono tramite il suo sangue (Ap 12:11). Alla fine tutta la creazione confesserà Gesù come Signore (Fil 2:11).  
+
+---
+
+## 14. Bibliografia
+
+- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
+
+- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
+
+- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
+
+- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
+
+- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
+
+- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
+
+- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
+
+- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
+
+- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
+
+- Keil, C. F., e Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (originale XIX secolo).
+
+- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
+
+- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
+
+- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contesto sul culto di Saturno e i Saturnali.)
+
+- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Dettagli sull’adozione tardiva dell’esagramma come simbolo ebraico, in particolare a Praga e nell’Europa del XIX secolo.)
+
+- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sul ruolo dell’esagramma nel misticismo ebraico medievale.)
 
 ---

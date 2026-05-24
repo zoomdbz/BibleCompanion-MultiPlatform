@@ -42,7 +42,7 @@ Dies ist die präziseste messianische Zeitlinie in der Bibel.
 
 Der Engel Gabriel sagte zu Daniel: **"Siebzig Wochen sind über dein Volk und deine heilige Stadt bestimmt"** (Daniel 9,24). Das hebräische Wort *schabuim* bedeutet "Siebener", siebzig Sätze von sieben Jahren = **490 Jahre**.
 
-### Der Erlass
+**Der Erlass**
 "Von dem Zeitpunkt an, als das Wort erging, Jerusalem wiederherzustellen und aufzubauen": dies ist der Erlass des Artaxerxes an Nehemia im Jahr **445 v. Chr.** (Nehemia 2,1–8).
 
 ### Die Zeitlinie

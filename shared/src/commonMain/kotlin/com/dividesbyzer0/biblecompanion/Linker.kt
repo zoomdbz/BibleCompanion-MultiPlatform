@@ -40,7 +40,7 @@ object Linker {
     "NR94" to 123, "NR06" to 122, "NR1994" to 123, "NR2006" to 122, "IRB20" to 3368,
     "DB1885" to 54, "ICL00P" to 1197, "ICL00D" to 1196, "RDV24" to 141,
     // Russian
-    "RST" to 90, "DROT" to 3873, "CSLAV" to 45, "BTI" to 313, "CARS" to 385,
+    "RST" to 400, "DROT" to 3873, "CSLAV" to 45, "BTI" to 313, "CARS" to 385,
     "CARSA" to 840, "CARST" to 4027, "CASS70" to 480, "RSP" to 201, "CAROS" to 3830,
     "SYNO" to 400, "ROT" to 3764, "RU167" to 167, "NRT" to 143,
     // Portuguese
@@ -49,11 +49,11 @@ object Linker {
     "NVT" to 1930, "VFL" to 200, "NAA" to 1840, "NTLH" to 211,
     "MZNVI" to 4094, "RC60DO" to 3658, "TB" to 277, "BPT09DC" to 228, "AVM" to 4542,
     // German
-    "LUT" to 84, "ELB" to 57, "SCH2000" to 157, "GANTP" to 65, "BIBELHEUTE" to 877,
+    "LUT" to 3100, "ELB" to 57, "SCH2000" to 157, "GANTP" to 65, "BIBELHEUTE" to 877,
     "SCH1951" to 158, "ELB71" to 58, "ELBBK" to 2351, "HFA" to 73, "LUTHEUTE" to 3100,
     "DELUT" to 51, "NGU2011" to 108, "TKW" to 2200,
     // Chinese
-    "CUVS" to 46, "CSBS" to 43, "RCUVSS" to 140, "CCB" to 36, "CUNPSS" to 48, "CNVS" to 41,
+    "CUVS" to 48, "CSBS" to 43, "RCUVSS" to 140, "CCB" to 36, "CUNPSS" to 48, "CNVS" to 41,
     "TCV2019T" to 3283, "CSBT" to 312, "RCUV" to 139, "CCCBST" to 2361, "CUNP" to 414,
     "CNV" to 40, "CCB_T" to 1392, "ZHDC1889" to 1889,
     // Japanese (removed AB=2040, id 2040 serves English NIV on bible.com;

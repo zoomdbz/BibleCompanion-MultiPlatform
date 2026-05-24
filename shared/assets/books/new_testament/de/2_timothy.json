@@ -45,7 +45,25 @@
           "note": "Bezieht sich auf etwas, das zur Aufbewahrung anvertraut wurde; hier die Evangeliumsbotschaft und der Dienstauftrag."
         }
       ],
-      "keyTakeaway": "Paulus dankt Gott für Timotheus' Glauben, ermahnt ihn zu Mut und Treue in der Bewahrung des Evangeliums und erinnert an Beispiele von Abfall und Treue."
+      "keyTakeaway": "Paulus dankt Gott für Timotheus' Glauben, ermahnt ihn zu Mut und Treue in der Bewahrung des Evangeliums und erinnert an Beispiele von Abfall und Treue.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ein standhafter Glaube, auch in Leid und Verfolgung Anschrift und Gruß"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Gott hat uns viel gegeben"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Bekenntnis zu Christus auch im Leiden"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Lob für einen treuen Mitarbeiter"
+        }
+      ]
     },
     {
       "id": "2_timothy-2",
@@ -93,7 +111,17 @@
           "note": "Wörtlich „gerade schneiden“; bildlich für das korrekte Lehren und Anwenden von Gottes Wort."
         }
       ],
-      "keyTakeaway": "Paulus ermahnt Timotheus, Mühsal zu erdulden, das Evangelium weiterzugeben, Streit zu meiden und sanft zurechtzuweisen; dabei verwendet er die Bilder des Soldaten, Athleten und Landwirts."
+      "keyTakeaway": "Paulus ermahnt Timotheus, Mühsal zu erdulden, das Evangelium weiterzugeben, Streit zu meiden und sanft zurechtzuweisen; dabei verwendet er die Bilder des Soldaten, Athleten und Landwirts.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Für Christus kämpfen und leiden"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Falsche Lehren und Rücksichtslosigkeit als Zeichen der letzten Zeit Warnung vor Irrlehrern"
+        }
+      ]
     },
     {
       "id": "2_timothy-3",
@@ -137,7 +165,17 @@
           "note": "Einzigartiges Wort mit der Bedeutung „von Gott ausgeatmet“; verwendet für den göttlichen Ursprung der Schrift."
         }
       ],
-      "keyTakeaway": "Paulus warnt vor verdorbenen Menschen in den letzten Tagen, ruft sein eigenes Beispiel der Ausdauer in Erinnerung und bekräftigt die göttliche Eingebung und den Nutzen der gesamten Schrift."
+      "keyTakeaway": "Paulus warnt vor verdorbenen Menschen in den letzten Tagen, ruft sein eigenes Beispiel der Ausdauer in Erinnerung und bekräftigt die göttliche Eingebung und den Nutzen der gesamten Schrift.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Zeichen der letzten Zeit"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Wer glaubt, muss mit Widerstand rechnen"
+        }
+      ]
     },
     {
       "id": "2_timothy-4",
@@ -186,7 +224,17 @@
           "note": "Lohnbild für die Treuen; die Krone symbolisiert Ehre und Rechtfertigung, die bei der Erscheinung Christi verliehen wird."
         }
       ],
-      "keyTakeaway": "Paulus ermahnt Timotheus zur treuen Verkündigung, blickt auf seinen vollendeten Lauf und die wartende Krone zurück, berichtet von Mitarbeitern und Schwierigkeiten und schließt mit Grüßen und Segenswunsch."
+      "keyTakeaway": "Paulus ermahnt Timotheus zur treuen Verkündigung, blickt auf seinen vollendeten Lauf und die wartende Krone zurück, berichtet von Mitarbeitern und Schwierigkeiten und schließt mit Grüßen und Segenswunsch.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Letzte Anweisungen und Briefschluss Der Auftrag und das Vermächtnis von Paulus"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Persönliche Bitten und Anliegen"
+        }
+      ]
     }
   ]
 }

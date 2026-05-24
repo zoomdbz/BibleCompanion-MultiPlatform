@@ -45,7 +45,17 @@
           "note": "Désigne quelque chose confié pour être gardé ; ici le message de l'Évangile et la charge ministérielle."
         }
       ],
-      "keyTakeaway": "Paul rend grâce à Dieu pour la foi de Timothée, l'exhorte au courage et à la fidélité dans la garde de l'Évangile, et rappelle des exemples d'abandon et de loyauté."
+      "keyTakeaway": "Paul rend grâce à Dieu pour la foi de Timothée, l'exhorte au courage et à la fidélité dans la garde de l'Évangile, et rappelle des exemples d'abandon et de loyauté.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adresse et salutation"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Affection de Paul pour Timothée. Exhortation à la fermeté dans la foi et à la constance dans les travaux du ministère"
+        }
+      ]
     },
     {
       "id": "2_timothy-2",
@@ -93,7 +103,13 @@
           "note": "Signifie littéralement « couper droit » ; image pour enseigner et appliquer correctement la parole de Dieu."
         }
       ],
-      "keyTakeaway": "Paul exhorte Timothée à endurer les souffrances, à transmettre l'Évangile, à éviter les disputes et à corriger avec douceur, en utilisant les métaphores du soldat, de l'athlète et du cultivateur."
+      "keyTakeaway": "Paul exhorte Timothée à endurer les souffrances, à transmettre l'Évangile, à éviter les disputes et à corriger avec douceur, en utilisant les métaphores du soldat, de l'athlète et du cultivateur.",
+      "headings": [
+        {
+          "beforeVerse": 13,
+          "text": "Conduite à tenir à l’égard de ceux qui s’écartent de la saine doctrine et de la pureté chrétienne"
+        }
+      ]
     },
     {
       "id": "2_timothy-3",
@@ -186,7 +202,17 @@
           "note": "Image de la récompense pour les fidèles ; la couronne symbolise l'honneur et la vindication accordés lors de l'apparition de Christ."
         }
       ],
-      "keyTakeaway": "Paul charge Timothée de prêcher fidèlement, évoque l'achèvement de sa course et l'attente d'une couronne, mentionne ses compagnons et ses épreuves, et conclut par des salutations et une bénédiction."
+      "keyTakeaway": "Paul charge Timothée de prêcher fidèlement, évoque l'achèvement de sa course et l'attente d'une couronne, mentionne ses compagnons et ses épreuves, et conclut par des salutations et une bénédiction.",
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Pensées de Paul à la perspective de sa mort prochaine. Timothée invité à se rendre auprès de lui. Communications sur diverses personnes"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Salutations"
+        }
+      ]
     }
   ]
 }

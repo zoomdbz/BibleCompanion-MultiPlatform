@@ -93,7 +93,21 @@
           "note": "1:5 peut signifier « n'a pas vaincu » ou « n'a pas saisi/compris » ; les deux sens sont attestés dans l'usage."
         }
       ],
-      "keyTakeaway": "Le prologue présente le Verbe comme vie et lumière, le témoignage de Jean, le don de devenir enfants de Dieu en croyant en son nom, et le Verbe devenant chair, plein de grâce et de vérité."
+      "keyTakeaway": "Le prologue présente le Verbe comme vie et lumière, le témoignage de Jean, le don de devenir enfants de Dieu en croyant en son nom, et le Verbe devenant chair, plein de grâce et de vérité.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La Parole faite chair"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Témoignage de Jean-Baptiste"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Les premiers disciples"
+        }
+      ]
     },
     {
       "id": "john-2",
@@ -160,7 +174,25 @@
           "note": "Intendant/responsable officiel supervisant le banquet (2:8-9)."
         }
       ],
-      "keyTakeaway": "Lors d'un mariage en Galilée, Jésus ordonne de remplir des jarres de purification, l'eau devient du vin, et ce premier signe est mentionné."
+      "keyTakeaway": "Lors d'un mariage en Galilée, Jésus ordonne de remplir des jarres de purification, l'eau devient du vin, et ce premier signe est mentionné.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Premier miracle de Jésus aux noces de Cana"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jésus à Jérusalem. Les vendeurs chassés du temple"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Le temple relevé en trois jours"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Ce que pense Jésus de ceux qui croient en son nom"
+        }
+      ]
     },
     {
       "id": "john-3",
@@ -238,7 +270,17 @@
           "note": "Vie du siècle à venir ; thème récurrent dans Jean (3:15-16)."
         }
       ],
-      "keyTakeaway": "Nicodème rend visite à Jésus de nuit ; Jésus parle de la naissance d'en haut, de l'eau et de l'Esprit, du vent et de l'Esprit, et de l'élévation du Fils de l'homme ; le passage proclame l'amour de Dieu et le don de la vie éternelle."
+      "keyTakeaway": "Nicodème rend visite à Jésus de nuit ; Jésus parle de la naissance d'en haut, de l'eau et de l'Esprit, du vent et de l'Esprit, et de l'élévation du Fils de l'homme ; le passage proclame l'amour de Dieu et le don de la vie éternelle.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Entretien de Jésus avec Nicodème"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Nouveau témoignage de Jean-Baptiste"
+        }
+      ]
     },
     {
       "id": "john-4",
@@ -334,7 +376,21 @@
           "note": "Titre expliqué en 4:25."
         }
       ],
-      "keyTakeaway": "Au puits de Jacob, Jésus demande à boire à une femme samaritaine, parle d'eau vive et d'adoration en esprit et en vérité, et se révèle à elle."
+      "keyTakeaway": "Au puits de Jacob, Jésus demande à boire à une femme samaritaine, parle d'eau vive et d'adoration en esprit et en vérité, et se révèle à elle.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La femme samaritaine"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Retour de Jésus en Galilée"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Guérison du fils d’un officier du roi"
+        }
+      ]
     },
     {
       "id": "john-5",
@@ -401,6 +457,10 @@
         {
           "ref": "5:4",
           "text": "car un ange descendait de temps en temps dans la piscine, et agitait l’eau; et celui qui y descendait le premier après que l’eau avait été agitée était guéri, quelle que fût sa maladie."
+        },
+        {
+          "ref": "John 5:4",
+          "text": "Certains manuscrits tardifs ajoutent ici un verset 4, expliquant la piscine de Béthesda : « car un ange descendait de temps en temps dans la piscine et agitait l’eau ; et celui qui y entrait le premier après que l’eau eut été agitée était guéri, quelle que fût sa maladie. » Il est absent du Codex Sinaïticus, du Vaticanus et des plus anciens témoins grecs. Il semble s’agir d’une tradition populaire ajoutée plus tard pour expliquer le commentaire du malade au v. 7."
         }
       ],
       "translationNotes": [
@@ -418,6 +478,16 @@
           "term": "Sabbat",
           "original": "Hebrew: שַׁבָּת (šabāt) — Greek (NT): σάββατον (sάbbaton) — Aramaic (Syriac): ܫܒܬܐ (šbtʾ)",
           "note": "Repos du septième jour ; cadre de la guérison et de la controverse (5:9-10, 16)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jésus à Jérusalem. Guérison d’un malade à la piscine de Béthesda"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Accusations des Juifs, et réponses de Jésus"
         }
       ]
     },
@@ -522,7 +592,25 @@
           "note": "Indication du temps de la fête (6:4)."
         }
       ],
-      "keyTakeaway": "Près de la Pâque, Jésus nourrit environ cinq mille personnes avec cinq pains et deux poissons ; plus tard, il rejoint les disciples en marchant sur la mer et leur dit : « C'est moi ; n'ayez pas peur. »"
+      "keyTakeaway": "Près de la Pâque, Jésus nourrit environ cinq mille personnes avec cinq pains et deux poissons ; plus tard, il rejoint les disciples en marchant sur la mer et leur dit : « C'est moi ; n'ayez pas peur. »",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jésus en Galilée. Multiplication des pains"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jésus marche sur les eaux"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Le pain de vie. Abandon de quelques disciples"
+        },
+        {
+          "beforeVerse": 59,
+          "text": "Confession de Pierre"
+        }
+      ]
     },
     {
       "id": "john-7",
@@ -602,7 +690,25 @@
           "note": "Jésus dit que son temps n'est pas encore pleinement venu (7:6-8)."
         }
       ],
-      "keyTakeaway": "Avant la fête des Tentes, les frères de Jésus l'invitent à se montrer publiquement ; il s'y rend ensuite en secret tandis que les foules débattent discrètement de son identité."
+      "keyTakeaway": "Avant la fête des Tentes, les frères de Jésus l'invitent à se montrer publiquement ; il s'y rend ensuite en secret tandis que les foules débattent discrètement de son identité.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Incrédulité des frères de Jésus"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jésus à Jérusalem. Son enseignement dans le temple, à la fête des Tabernacles"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Opinions diverses chez les Juifs. Projets d’arrestation"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "La femme adultère"
+        }
+      ]
     },
     {
       "id": "john-8",
@@ -683,7 +789,13 @@
           "note": "Déclaration de Jésus rappelant Deutéronome 17:7 sur les témoins qui initient le châtiment (8:7)."
         }
       ],
-      "keyTakeaway": "Une femme est amenée à Jésus pour être jugée ; après sa parole, les accusateurs partent, et il lui dit : « Moi non plus, je ne te condamne pas ; va, et désormais ne pèche plus. »"
+      "keyTakeaway": "Une femme est amenée à Jésus pour être jugée ; après sa parole, les accusateurs partent, et il lui dit : « Moi non plus, je ne te condamne pas ; va, et désormais ne pèche plus. »",
+      "headings": [
+        {
+          "beforeVerse": 11,
+          "text": "Discours de Jésus sur sa mission divine"
+        }
+      ]
     },
     {
       "id": "john-9",
@@ -751,7 +863,13 @@
           "note": "Substance faite de salive et de poussière (9:6)."
         }
       ],
-      "keyTakeaway": "Jésus se déclare la lumière du monde, met de la boue sur les yeux de l'homme, l'envoie à Siloé, et l'homme revient voyant."
+      "keyTakeaway": "Jésus se déclare la lumière du monde, met de la boue sur les yeux de l'homme, l'envoie à Siloé, et l'homme revient voyant.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Guérison d’un aveugle-né"
+        }
+      ]
     },
     {
       "id": "john-10",
@@ -825,7 +943,17 @@
           "note": "Déclarations d'autorité sur sa vie (10:17-18)."
         }
       ],
-      "keyTakeaway": "Jésus se présente comme la porte et le bon berger qui donne sa vie et la reprend ; il parle d'autres brebis, d'un seul troupeau et d'un seul berger."
+      "keyTakeaway": "Jésus se présente comme la porte et le bon berger qui donne sa vie et la reprend ; il parle d'autres brebis, d'un seul troupeau et d'un seul berger.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le bon berger"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jésus à Jérusalem pendant la fête de la Dédicace. — Discours sur ses rapports avec Dieu. — Nouvelles hostilités de la part des Juifs. Départ, et séjour dans la Pérée"
+        }
+      ]
     },
     {
       "id": "john-11",
@@ -919,7 +1047,21 @@
           "note": "Description du lieu de sépulture (11:38-39)."
         }
       ],
-      "keyTakeaway": "Jésus se rend à Béthanie, s'entretient avec Marthe et Marie, déclare « Je suis la résurrection et la vie », prie, appelle Lazare hors du tombeau, et Lazare sort."
+      "keyTakeaway": "Jésus se rend à Béthanie, s'entretient avec Marthe et Marie, déclare « Je suis la résurrection et la vie », prie, appelle Lazare hors du tombeau, et Lazare sort.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jésus retourne en Judée. Résurrection de Lazare à Béthanie"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Assemblée du sanhédrin et décision contre Jésus. Séjour à Éphraïm"
+        },
+        {
+          "beforeVerse": 54,
+          "text": "Approche de la Pâque. Jésus attendu à Jérusalem"
+        }
+      ]
     },
     {
       "id": "john-12",
@@ -1001,7 +1143,25 @@
           "note": "Récipient pour les fonds portés par le groupe (12:6)."
         }
       ],
-      "keyTakeaway": "Marie oint Jésus avec un nard de grand prix ; Jésus défend son geste et parle de sa sépulture ; beaucoup viennent voir à la fois Jésus et Lazare."
+      "keyTakeaway": "Marie oint Jésus avec un nard de grand prix ; Jésus défend son geste et parle de sa sépulture ; beaucoup viennent voir à la fois Jésus et Lazare.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Son arrivée à Béthanie. Parfum répandu sur ses pieds par Marie"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Entrée de Jésus à Jérusalem"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Jésus parle de sa mort prochaine"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Incrédulité des Juifs"
+        }
+      ]
     },
     {
       "id": "john-13",
@@ -1071,7 +1231,21 @@
           "note": "Terme pour le modèle que Jésus donne (13:15)."
         }
       ],
-      "keyTakeaway": "Pendant le repas, Jésus lave les pieds de ses disciples et leur explique l'exemple qu'il vient de donner ainsi que la bénédiction attachée à le mettre en pratique."
+      "keyTakeaway": "Pendant le repas, Jésus lave les pieds de ses disciples et leur explique l'exemple qu'il vient de donner ainsi que la bénédiction attachée à le mettre en pratique.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Célébration de la Pâque. Jésus lave les pieds de ses disciples"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "La trahison de Judas dévoilée"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Derniers entretiens et discours de Jésus avec ses disciples. — Questions des apôtres Pierre, Thomas, Philippe, Jude. — Instructions, consolations et promesses: l’amour fraternel; l’envoi du Saint-Esprit; la paix de Jésus; le cep et les sarments; la haine du monde; les persécutions; la tristesse changée en joie; le revoir. Les adieux du départ. — Foi des disciples"
+        }
+      ]
     },
     {
       "id": "john-14",
@@ -1316,7 +1490,13 @@
           "note": "Mis à part par la vérité ; « ta parole est la vérité » (17:17)."
         }
       ],
-      "keyTakeaway": "Jésus prie pour sa gloire, la protection de ses disciples contre le Malin, leur sanctification dans la vérité et l'unité de ceux qui croiront par leur parole."
+      "keyTakeaway": "Jésus prie pour sa gloire, la protection de ses disciples contre le Malin, leur sanctification dans la vérité et l'unité de ceux qui croiront par leur parole.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La prière sacerdotale"
+        }
+      ]
     },
     {
       "id": "john-18",
@@ -1388,7 +1568,21 @@
           "note": "Figure que Jésus utilise pour ce qui lui est destiné (18:11)."
         }
       ],
-      "keyTakeaway": "Jésus se désigne par « c'est moi », est arrêté et interrogé, et Pierre le renie trois fois avant que le coq chante."
+      "keyTakeaway": "Jésus se désigne par « c'est moi », est arrêté et interrogé, et Pierre le renie trois fois avant que le coq chante.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Arrestation de Jésus"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jésus devant Anne et Caïphe. Reniement de Pierre"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Jésus devant Pilate, gouverneur romain"
+        }
+      ]
     },
     {
       "id": "john-19",
@@ -1462,7 +1656,25 @@
           "note": "Nom du lieu du tribunal (19:13)."
         }
       ],
-      "keyTakeaway": "Jésus est flagellé et bafoué, Pilate le présente à la foule, l'interrogatoire se poursuit, et la sentence est prononcée à Gabbatha."
+      "keyTakeaway": "Jésus est flagellé et bafoué, Pilate le présente à la foule, l'interrogatoire se poursuit, et la sentence est prononcée à Gabbatha.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Outrages des soldats. Jésus livré aux Juifs par Pilate"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jésus crucifié"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "La mort de Jésus constatée"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Mise au sépulcre"
+        }
+      ]
     },
     {
       "id": "john-20",
@@ -1530,7 +1742,17 @@
           "note": "Mouchoir/linge qui avait été sur la tête de Jésus, roulé à part (20:7)."
         }
       ],
-      "keyTakeaway": "Le tombeau est trouvé ouvert avec les linges laissés sur place ; Jésus appelle Marie par son nom, lui dit d'annoncer son ascension, et elle rapporte avoir vu le Seigneur."
+      "keyTakeaway": "Le tombeau est trouvé ouvert avec les linges laissés sur place ; Jésus appelle Marie par son nom, lui dit d'annoncer son ascension, et elle rapporte avoir vu le Seigneur.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Résurrection de Jésus-Christ"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Conclusion"
+        }
+      ]
     },
     {
       "id": "john-21",
@@ -1592,7 +1814,13 @@
           "note": "Verbes utilisés dans le triple échange de Jésus avec Pierre (21:15-17)."
         }
       ],
-      "keyTakeaway": "Jésus se manifeste au bord du lac, procure une pêche abondante, mange avec les disciples, interroge Pierre trois fois et lui donne des instructions concernant le troupeau, dit « Suis-moi », commente un propos sur le disciple bien-aimé, et l'Évangile se clôt par un témoignage."
+      "keyTakeaway": "Jésus se manifeste au bord du lac, procure une pêche abondante, mange avec les disciples, interroge Pierre trois fois et lui donne des instructions concernant le troupeau, dit « Suis-moi », commente un propos sur le disciple bien-aimé, et l'Évangile se clôt par un témoignage.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Appendice: apparition de Jésus près de la mer de Tibériade"
+        }
+      ]
     }
   ]
 }

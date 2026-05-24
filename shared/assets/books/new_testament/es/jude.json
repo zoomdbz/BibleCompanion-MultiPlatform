@@ -52,7 +52,25 @@
           "note": "Describe a quienes viven sin reverencia a Dios, violando su pacto y su orden moral."
         }
       ],
-      "keyTakeaway": "Judas exhorta a los creyentes a defender la fe frente a intrusos impíos que pervierten la gracia y niegan a Cristo."
+      "keyTakeaway": "Judas exhorta a los creyentes a defender la fe frente a intrusos impíos que pervierten la gracia y niegan a Cristo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutación"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Falsas doctrinas y falsos maestros"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Amonestaciones y exhortaciones"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Doxología"
+        }
+      ]
     }
   ]
 }

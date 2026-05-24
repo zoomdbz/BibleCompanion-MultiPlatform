@@ -93,7 +93,29 @@
           "note": "1:5 puede significar \"no venció\" o \"no comprendió\"; ambos sentidos están atestiguados en el uso."
         }
       ],
-      "keyTakeaway": "El prólogo presenta al Verbo como vida y luz, el testimonio de Juan, el don de llegar a ser hijos de Dios al creer en su nombre, y el Verbo hecho carne, lleno de gracia y de verdad."
+      "keyTakeaway": "El prólogo presenta al Verbo como vida y luz, el testimonio de Juan, el don de llegar a ser hijos de Dios al creer en su nombre, y el Verbo hecho carne, lleno de gracia y de verdad.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El Verbo hecho carne"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Testimonio de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "El Cordero de Dios"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Los primeros discípulos"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Jesús llama a Felipe y a Natanael"
+        }
+      ]
     },
     {
       "id": "john-2",
@@ -160,7 +182,21 @@
           "note": "Mayordomo/oficial que supervisa el banquete (2:8–9)."
         }
       ],
-      "keyTakeaway": "En una boda en Galilea, Jesús ordena llenar tinajas de purificación, el agua se convierte en vino y se registra esta primera señal."
+      "keyTakeaway": "En una boda en Galilea, Jesús ordena llenar tinajas de purificación, el agua se convierte en vino y se registra esta primera señal.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Las bodas de Caná"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesús purifica el templo"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jesús conoce a todos los hombres"
+        }
+      ]
     },
     {
       "id": "john-3",
@@ -238,7 +274,25 @@
           "note": "Vida del siglo venidero; tema recurrente en Juan (3:15–16)."
         }
       ],
-      "keyTakeaway": "Nicodemo visita de noche; Jesús habla sobre nacer de arriba, del agua y del Espíritu, del viento y el Espíritu, y de la elevación del Hijo del Hombre; el pasaje declara el amor de Dios y el don de la vida eterna."
+      "keyTakeaway": "Nicodemo visita de noche; Jesús habla sobre nacer de arriba, del agua y del Espíritu, del viento y el Espíritu, y de la elevación del Hijo del Hombre; el pasaje declara el amor de Dios y el don de la vida eterna.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús y Nicodemo"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "De tal manera amó Dios al mundo"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "El amigo del esposo"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "El que viene de arriba"
+        }
+      ]
     },
     {
       "id": "john-4",
@@ -334,7 +388,17 @@
           "note": "Título explicado en 4:25."
         }
       ],
-      "keyTakeaway": "En el pozo de Jacob, Jesús le pide agua a una mujer samaritana, habla del agua viva y de adorar en espíritu y en verdad, y se le revela a ella."
+      "keyTakeaway": "En el pozo de Jacob, Jesús le pide agua a una mujer samaritana, habla del agua viva y de adorar en espíritu y en verdad, y se le revela a ella.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús y la mujer samaritana"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Jesús sana al hijo de un noble"
+        }
+      ]
     },
     {
       "id": "john-5",
@@ -400,6 +464,10 @@
         {
           "ref": "5:4",
           "text": "paralíticos, que esperaban el movimiento del agua. De cuando en cuando un ángel del Señor bajaba al estanque y agitaba el agua. El primero que entraba en el estanque después de cada agitación del agua quedaba sano de cualquier enfermedad que tuviera."
+        },
+        {
+          "ref": "John 5:4",
+          "text": "Algunos manuscritos posteriores añaden aquí un versículo 4, explicando el estanque de Betesda: «porque un ángel descendía de tiempo en tiempo al estanque, y agitaba el agua; y el que primero descendía al estanque después del movimiento del agua, quedaba sano de cualquier enfermedad que tuviese». Está ausente del Códice Sinaítico, del Vaticano y de los testigos griegos más antiguos. Parece ser una tradición popular añadida posteriormente para explicar el comentario del enfermo en el v. 7."
         }
       ],
       "translationNotes": [
@@ -417,6 +485,20 @@
           "term": "Sábado",
           "original": "Hebrew: שַׁבָּת (šabāt) — Greek (NT): σάββατον (sάbbaton) — Aramaic (Syriac): ܫܒܬܐ (šbtʾ)",
           "note": "Reposo del séptimo día; contexto de la sanidad y la controversia (5:9–10, 16)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El paralítico de Betesda"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "La autoridad del Hijo"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Testigos de Cristo"
         }
       ]
     },
@@ -521,7 +603,29 @@
           "note": "Marcador temporal de la fiesta (6:4)."
         }
       ],
-      "keyTakeaway": "Cerca de la Pascua, Jesús alimenta a unos cinco mil con cinco panes y dos pescados; más tarde se acerca a los discípulos caminando sobre el mar y les dice: \"Soy yo; no tengan miedo.\""
+      "keyTakeaway": "Cerca de la Pascua, Jesús alimenta a unos cinco mil con cinco panes y dos pescados; más tarde se acerca a los discípulos caminando sobre el mar y les dice: \"Soy yo; no tengan miedo.\"",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Alimentación de los cinco mil"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesús anda sobre el mar"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "La gente busca a Jesús"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Jesús, el pan de vida"
+        },
+        {
+          "beforeVerse": 59,
+          "text": "Palabras de vida eterna"
+        }
+      ]
     },
     {
       "id": "john-7",
@@ -601,7 +705,41 @@
           "note": "Jesús dice que su tiempo aún no se ha cumplido (7:6–8)."
         }
       ],
-      "keyTakeaway": "Antes de la Fiesta de los Tabernáculos, los hermanos de Jesús lo presionan para que se muestre en público; él va en secreto mientras la gente debate en voz baja sobre su identidad."
+      "keyTakeaway": "Antes de la Fiesta de los Tabernáculos, los hermanos de Jesús lo presionan para que se muestre en público; él va en secreto mientras la gente debate en voz baja sobre su identidad.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Incredulidad de los hermanos de Jesús"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jesús en la fiesta de los tabernáculos"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "¿Es este el Cristo?"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Los fariseos envían alguaciles para prender a Jesús"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Ríos de agua viva"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "División entre la gente"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "¡Nunca ha hablado hombre así!"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "La mujer adúltera"
+        }
+      ]
     },
     {
       "id": "john-8",
@@ -682,7 +820,29 @@
           "note": "Declaración de Jesús que recuerda Deuteronomio 17:7 sobre los testigos que inician el castigo (8:7)."
         }
       ],
-      "keyTakeaway": "Una mujer es llevada ante Jesús para ser juzgada; tras sus palabras, los acusadores se van, y él le dice: \"Tampoco yo te condeno; vete, y de ahora en adelante no vuelvas a pecar.\""
+      "keyTakeaway": "Una mujer es llevada ante Jesús para ser juzgada; tras sus palabras, los acusadores se van, y él le dice: \"Tampoco yo te condeno; vete, y de ahora en adelante no vuelvas a pecar.\"",
+      "headings": [
+        {
+          "beforeVerse": 11,
+          "text": "Jesús, la luz del mundo"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "A donde yo voy, vosotros no podéis venir"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "La verdad os hará libres"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Sois de vuestro padre el diablo"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "La preexistencia de Cristo"
+        }
+      ]
     },
     {
       "id": "john-9",
@@ -750,7 +910,21 @@
           "note": "Sustancia hecha de saliva y polvo (9:6)."
         }
       ],
-      "keyTakeaway": "Jesús se declara la luz del mundo, pone barro en los ojos del hombre, lo envía a Siloé, y el hombre regresa viendo."
+      "keyTakeaway": "Jesús se declara la luz del mundo, pone barro en los ojos del hombre, lo envía a Siloé, y el hombre regresa viendo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús sana a un ciego de nacimiento"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Los fariseos interrogan al ciego sanado"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Ceguera espiritual"
+        }
+      ]
     },
     {
       "id": "john-10",
@@ -824,7 +998,21 @@
           "note": "Declaraciones de autoridad sobre su vida (10:17–18)."
         }
       ],
-      "keyTakeaway": "Jesús se identifica como la puerta y el buen pastor que da su vida y la vuelve a tomar; habla de otras ovejas y de un solo rebaño con un solo pastor."
+      "keyTakeaway": "Jesús se identifica como la puerta y el buen pastor que da su vida y la vuelve a tomar; habla de otras ovejas y de un solo rebaño con un solo pastor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parábola del redil"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Jesús, el buen pastor"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Los judíos rechazan a Jesús"
+        }
+      ]
     },
     {
       "id": "john-11",
@@ -918,7 +1106,29 @@
           "note": "Descripción del lugar de sepultura (11:38–39)."
         }
       ],
-      "keyTakeaway": "Jesús va a Betania, habla con Marta y María, declara \"Yo soy la resurrección y la vida\", ora, llama a Lázaro desde la tumba y Lázaro sale."
+      "keyTakeaway": "Jesús va a Betania, habla con Marta y María, declara \"Yo soy la resurrección y la vida\", ora, llama a Lázaro desde la tumba y Lázaro sale.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Muerte de Lázaro"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesús, la resurrección y la vida"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Jesús llora ante la tumba de Lázaro"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Resurrección de Lázaro"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "El complot para matar a Jesús"
+        }
+      ]
     },
     {
       "id": "john-12",
@@ -1000,7 +1210,37 @@
           "note": "Recipiente para los fondos que el grupo llevaba (12:6)."
         }
       ],
-      "keyTakeaway": "María unge a Jesús con nardo costoso; Jesús defiende su acción y habla sobre su sepultura; mucha gente viene a ver tanto a Jesús como a Lázaro."
+      "keyTakeaway": "María unge a Jesús con nardo costoso; Jesús defiende su acción y habla sobre su sepultura; mucha gente viene a ver tanto a Jesús como a Lázaro.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús es ungido en Betania"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "El complot contra Lázaro"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La entrada triunfal en Jerusalén"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Unos griegos buscan a Jesús"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Jesús anuncia su muerte"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Incredulidad de los judíos"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Las palabras de Jesús juzgarán a los hombres"
+        }
+      ]
     },
     {
       "id": "john-13",
@@ -1070,7 +1310,25 @@
           "note": "Término para el modelo que Jesús da (13:15)."
         }
       ],
-      "keyTakeaway": "En la cena, Jesús lava los pies a sus discípulos y les enseña sobre el ejemplo que ha dado y la dicha de ponerlo en práctica."
+      "keyTakeaway": "En la cena, Jesús lava los pies a sus discípulos y les enseña sobre el ejemplo que ha dado y la dicha de ponerlo en práctica.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús lava los pies de sus discípulos"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesús anuncia la traición de Judas"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "El nuevo mandamiento"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Jesús anuncia la negación de Pedro"
+        }
+      ]
     },
     {
       "id": "john-14",
@@ -1133,7 +1391,17 @@
           "note": "Promesa vinculada a la oración en el nombre de Jesús (14:13–14)."
         }
       ],
-      "keyTakeaway": "Jesús les dice a los discípulos que no se angustien, habla de los muchos cuartos en la casa del Padre, se identifica como el camino, la verdad y la vida, y promete hacer lo que se le pida en su nombre."
+      "keyTakeaway": "Jesús les dice a los discípulos que no se angustien, habla de los muchos cuartos en la casa del Padre, se identifica como el camino, la verdad y la vida, y promete hacer lo que se le pida en su nombre.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús, el camino al Padre"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La promesa del Espíritu Santo"
+        }
+      ]
     },
     {
       "id": "john-15",
@@ -1192,7 +1460,17 @@
           "note": "Condición que Jesús otorga a los discípulos obedientes (15:13–15)."
         }
       ],
-      "keyTakeaway": "Jesús usa la imagen de la vid y los pámpanos, llama a permanecer en él para dar fruto y manda a los discípulos a amarse unos a otros."
+      "keyTakeaway": "Jesús usa la imagen de la vid y los pámpanos, llama a permanecer en él para dar fruto y manda a los discípulos a amarse unos a otros.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús, la vid verdadera"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "El mundo os aborrecerá"
+        }
+      ]
     },
     {
       "id": "john-16",
@@ -1257,7 +1535,21 @@
           "note": "Término de expulsión usado en 16:2."
         }
       ],
-      "keyTakeaway": "Jesús prepara a los discípulos para el odio y la persecución, habla del testimonio del Consolador y advierte sobre la expulsión y la violencia cometida en nombre de Dios."
+      "keyTakeaway": "Jesús prepara a los discípulos para el odio y la persecución, habla del testimonio del Consolador y advierte sobre la expulsión y la violencia cometida en nombre de Dios.",
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "La obra del Espíritu Santo"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La tristeza se convertirá en gozo"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Yo he vencido al mundo"
+        }
+      ]
     },
     {
       "id": "john-17",
@@ -1315,7 +1607,13 @@
           "note": "Apartados por la verdad; «tu palabra es verdad» (17:17)."
         }
       ],
-      "keyTakeaway": "Jesús ora por gloria, protección del maligno, santificación en la verdad y unidad para sus discípulos y los que creerán por medio de su palabra."
+      "keyTakeaway": "Jesús ora por gloria, protección del maligno, santificación en la verdad y unidad para sus discípulos y los que creerán por medio de su palabra.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús ora por sus discípulos"
+        }
+      ]
     },
     {
       "id": "john-18",
@@ -1387,7 +1685,33 @@
           "note": "Figura que Jesús usa para lo que le ha sido asignado (18:11)."
         }
       ],
-      "keyTakeaway": "Jesús se identifica con \"Yo soy\", es arrestado e interrogado, y Pedro lo niega tres veces antes de que cante el gallo."
+      "keyTakeaway": "Jesús se identifica con \"Yo soy\", es arrestado e interrogado, y Pedro lo niega tres veces antes de que cante el gallo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Arresto de Jesús"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jesús ante el sumo sacerdote"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Pedro en el patio de Anás"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Anás interroga a Jesús"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Pedro niega a Jesús"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Jesús ante Pilato"
+        }
+      ]
     },
     {
       "id": "john-19",
@@ -1461,7 +1785,21 @@
           "note": "Nombre del lugar donde estaba el tribunal (19:13)."
         }
       ],
-      "keyTakeaway": "Jesús es azotado y burlado, Pilato lo presenta, el interrogatorio continúa y la sentencia se dicta en Gábata."
+      "keyTakeaway": "Jesús es azotado y burlado, Pilato lo presenta, el interrogatorio continúa y la sentencia se dicta en Gábata.",
+      "headings": [
+        {
+          "beforeVerse": 16,
+          "text": "Crucifixión y muerte de Jesús"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "El costado de Jesús traspasado"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Jesús es sepultado"
+        }
+      ]
     },
     {
       "id": "john-20",
@@ -1529,7 +1867,29 @@
           "note": "Paño que había estado sobre la cabeza de Jesús, enrollado aparte (20:7)."
         }
       ],
-      "keyTakeaway": "La tumba aparece abierta con las vendas abandonadas; Jesús llama a María por su nombre, le pide que anuncie su ascenso, y ella reporta haber visto al Señor."
+      "keyTakeaway": "La tumba aparece abierta con las vendas abandonadas; Jesús llama a María por su nombre, le pide que anuncie su ascenso, y ella reporta haber visto al Señor.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La resurrección"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jesús se aparece a María Magdalena"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Jesús se aparece a los discípulos"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Incredulidad de Tomás"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "El propósito del libro"
+        }
+      ]
     },
     {
       "id": "john-21",
@@ -1591,7 +1951,21 @@
           "note": "Verbos usados en el triple intercambio de Jesús con Pedro (21:15–17)."
         }
       ],
-      "keyTakeaway": "Jesús se revela junto al mar, provee una gran pesca, come con los discípulos, interroga a Pedro tres veces y le da instrucciones sobre el rebaño, dice \"Sígueme\", aclara un dicho sobre el discípulo amado, y el Evangelio cierra con un testimonio."
+      "keyTakeaway": "Jesús se revela junto al mar, provee una gran pesca, come con los discípulos, interroga a Pedro tres veces y le da instrucciones sobre el rebaño, dice \"Sígueme\", aclara un dicho sobre el discípulo amado, y el Evangelio cierra con un testimonio.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús se aparece a siete de sus discípulos"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Apacienta mis ovejas"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "El discípulo amado"
+        }
+      ]
     }
   ]
 }

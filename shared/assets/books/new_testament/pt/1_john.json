@@ -32,7 +32,17 @@
           "note": "Expressão que combina 'palavra' (mensagem, revelação) com 'vida', referindo-se à vida eterna revelada em Cristo."
         }
       ],
-      "keyTakeaway": "João proclama o Verbo da vida manifestado, convidando os crentes à comunhão com o Pai, o Filho e uns com os outros."
+      "keyTakeaway": "João proclama o Verbo da vida manifestado, convidando os crentes à comunhão com o Pai, o Filho e uns com os outros.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prólogo. O Verbo da vida e a comunhão com Deus"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Deus é luz. O pecado, a confissão, o perdão, a propiciação"
+        }
+      ]
     },
     {
       "id": "1_john-2",
@@ -83,7 +93,29 @@
           "note": "Refere-se ao sacrifício expiatório que remove o pecado e restaura o favor junto a Deus; ligado à imagem do propiciatório no templo."
         }
       ],
-      "keyTakeaway": "João contrasta luz e trevas, garante o perdão por meio de Cristo o advogado e chama os crentes a obedecer e andar como ele andou."
+      "keyTakeaway": "João contrasta luz e trevas, garante o perdão por meio de Cristo o advogado e chama os crentes a obedecer e andar como ele andou.",
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "O antigo e o novo mandamentos: o amor fraternal"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A vitória sobre o Maligno"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Não se deve amar o mundo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Os anticristos"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "A unção do Espírito Santo"
+        }
+      ]
     },
     {
       "id": "1_john-3",
@@ -129,7 +161,21 @@
           "note": "Significa violação deliberada da lei de Deus; usado aqui para equiparar o pecado à rebelião contra o padrão de Deus."
         }
       ],
-      "keyTakeaway": "João contrasta os filhos de Deus, que amam e praticam a justiça, com os filhos do diabo, que pecam e odeiam; os crentes conhecem o amor pelo fato de Cristo ter dado sua vida."
+      "keyTakeaway": "João contrasta os filhos de Deus, que amam e praticam a justiça, com os filhos do diabo, que pecam e odeiam; os crentes conhecem o amor pelo fato de Cristo ter dado sua vida.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Deus é Pai e é santo. Seus filhos são também santos"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Os filhos de Deus e os filhos do Maligno"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "O amor aos irmãos e o ódio ao mundo"
+        }
+      ]
     },
     {
       "id": "1_john-4",
@@ -177,7 +223,17 @@
           "note": "Expressão que descreve o amor de Deus levado à maturidade, removendo o temor do juízo."
         }
       ],
-      "keyTakeaway": "João instrui os crentes a testar os espíritos, reconhecer a verdadeira confissão de Cristo, e enfatiza que Deus é amor, revelado em seu Filho e aperfeiçoado no amor mútuo."
+      "keyTakeaway": "João instrui os crentes a testar os espíritos, reconhecer a verdadeira confissão de Cristo, e enfatiza que Deus é amor, revelado em seu Filho e aperfeiçoado no amor mútuo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os falsos profetas e os verdadeiros crentes"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Deus é amor"
+        }
+      ]
     },
     {
       "id": "1_john-5",
@@ -225,7 +281,25 @@
           "note": "Diferencia entre pecados; alguns não trazem juízo imediato e final, enquanto outros (para morte) significam rejeição da vida de Deus."
         }
       ],
-      "keyTakeaway": "João conclui que a vida eterna está no Filho, a fé vence o mundo, o Espírito, a água e o sangue testemunham, e os crentes devem se afastar dos ídolos."
+      "keyTakeaway": "João conclui que a vida eterna está no Filho, a fé vence o mundo, o Espírito, a água e o sangue testemunham, e os crentes devem se afastar dos ídolos.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A fé que vence o mundo"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "O tríplice testemunho sobre Cristo"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "O poder da intercessão"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Cristo é verdadeiro Deus e deve ser adorado"
+        }
+      ]
     }
   ]
 }
