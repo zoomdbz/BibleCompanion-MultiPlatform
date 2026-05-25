@@ -48,15 +48,31 @@ import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import org.jetbrains.compose.resources.stringResource
 
-internal fun applyDivineName(text: String, mode: String, lang: String, colorActive: Boolean): String {
+// Unicode-aware word boundary: \b in Kotlin Regex is ASCII-only, so non-ASCII tokens
+// (Arabic, Cyrillic, accented Latin) never match \bX\b. Use lookarounds against
+// \p{L} (any Unicode letter) plus \p{Mn} (combining marks) instead.
+private fun uwb(literal: String): Regex =
+  Regex("(?<![\\p{L}\\p{Mn}])" + Regex.escape(literal) + "(?![\\p{L}\\p{Mn}])")
+
+internal fun applyDivineName(
+  text: String,
+  mode: String,
+  lang: String,
+  colorActive: Boolean,
+  collection: String = "old_testament"
+): String {
   val lk = if (lang.startsWith("zh")) lang else lang.substringBefore('-')
+  val isOt = collection == "old_testament" ||
+    collection == "deuterocanonical" ||
+    collection == "apocrypha" ||
+    collection == "pseudepigrapha"
 
   fun wrap(name: String): String =
     if (colorActive) "[DN]$name[/DN]" else name
 
   if (mode == "traditional") {
     if (!colorActive) return text
-    return highlightTraditionalName(text, lk)
+    return highlightTraditionalName(text, lk, isOt)
   }
 
   val base = if (mode == "yhwh") "YHWH" else "Yahweh"
@@ -77,20 +93,29 @@ internal fun applyDivineName(text: String, mode: String, lang: String, colorActi
       .replace("THE LORD", r)
       .replace(Regex("\\bLORD\\b"), r)
       .replace("Lord GOD", "${wrap(base)} God")
+      .replace(Regex("\\b(?:Yahweh|YHWH|Yahuah|Yah)\\b"), r)
     "es" -> text
       .replace("el SEÑOR", "el $r")
       .replace("El SEÑOR", "El $r")
-      .replace(Regex("\\bSEÑOR\\b"), r)
-    "pt" -> text
-      .replace("o SENHOR", "o $r")
-      .replace("O SENHOR", "O $r")
-      .replace(Regex("\\bSENHOR\\b"), r)
+      .replace(uwb("SEÑOR"), r)
+      .replace(uwb("Jehová"), r)
+      .replace(uwb("Yahveh"), r)
+    "pt" -> {
+      var t = text
+        .replace("o SENHOR", "o $r")
+        .replace("O SENHOR", "O $r")
+        .replace(uwb("SENHOR"), r)
+        .replace(uwb("Javé"), r)
+      if (isOt) t = t.replace(uwb("Senhor"), r)
+      t
+    }
     "fr" -> text
       .replace("l\u2019ÉTERNEL", "l\u2019$r")
       .replace("l'ÉTERNEL", "l'$r")
       .replace("L\u2019ÉTERNEL", "L\u2019$r")
       .replace("L'ÉTERNEL", "L'$r")
-      .replace(Regex("\\bÉTERNEL\\b"), r)
+      .replace(uwb("ÉTERNEL"), r)
+      .replace(uwb("Éternel"), r)
       .replace(Regex("\\bSEIGNEUR\\b"), r)
     "de" -> text
       .replace("der HERR", "der $r")
@@ -98,41 +123,135 @@ internal fun applyDivineName(text: String, mode: String, lang: String, colorActi
       .replace("dem HERRN", "dem $r")
       .replace("des HERRN", "des $r")
       .replace(Regex("\\bHERRN?\\b"), r)
-    "it" -> text
-      .replace("il SIGNORE", "il $r")
-      .replace("Il SIGNORE", "Il $r")
-      .replace("del SIGNORE", "del $r")
-      .replace("al SIGNORE", "al $r")
-      .replace(Regex("\\bSIGNORE\\b"), r)
-    "ru" -> text
-      .replace("ГОСПОДЬ", r).replace("ГОСПОДА", r)
-      .replace("ГОСПОДУ", r).replace("ГОСПОДОМ", r)
-      .replace("Господь", r)
-    "ar" -> text
-      .replace("الرَّبُّ", r).replace("الرَّبِّ", r).replace("الرَّبَّ", r)
+      .replace(Regex("\\bJahwe\\b"), r)
+    "it" -> {
+      var t = text
+        .replace("il SIGNORE", "il $r")
+        .replace("Il SIGNORE", "Il $r")
+        .replace("del SIGNORE", "del $r")
+        .replace("al SIGNORE", "al $r")
+        .replace(Regex("\\bSIGNORE\\b"), r)
+      if (isOt) t = t.replace(Regex("\\bSignore\\b"), r)
+      t
+    }
+    "ru" -> {
+      var t = text
+        .replace("ГОСПОДЬ", r).replace("ГОСПОДА", r)
+        .replace("ГОСПОДУ", r).replace("ГОСПОДОМ", r)
+        .replace(uwb("Яхве"), r)
+      if (isOt) {
+        // Unicode-boundary regex covering all Russian Господь declensions including
+        // long-form possessive adjectives (Господней, Господнего, Господним, etc.)
+        // without substring-eating into Господин (gentleman).
+        val ruYhwh = Regex(
+          "(?<![\\p{L}\\p{Mn}])Господ(?:ь|а|у|ом|е|нее|него|нему|ним|нем|них|няя|нюю|ней|ня|ню|не|ни)(?![\\p{L}\\p{Mn}])"
+        )
+        t = t.replace(ruYhwh, r)
+      }
+      t
+    }
+    "ar" -> {
+      var t = text
+        .replace("الرَّبُّ", r).replace("الرَّبِّ", r).replace("الرَّبَّ", r)
+        .replace("يَهوَهْ", r).replace("يهوه", r)
+      if (isOt) t = t.replace(uwb("الرب"), r)
+      t
+    }
+    "hi" -> text.replace("यहोवा", r)
+    "ko" -> {
+      var t = text.replace("여호와", r).replace("야훼", r)
+      if (isOt) t = t.replace(Regex("주님?"), r)
+      t
+    }
+    "ja" -> {
+      var t = text.replace("ヤハウェ", r).replace("ヱホバ", r)
+      if (isOt) t = t.replace("主", r)
+      t
+    }
+    "zh-Hans" -> {
+      var t = text.replace("耶和华", r).replace("雅威", r)
+      if (isOt) t = t.replace("主", r)
+      t
+    }
+    "zh-Hant" -> {
+      var t = text.replace("耶和華", r).replace("雅威", r)
+      if (isOt) t = t.replace("主", r)
+      t
+    }
     else -> text
   }
 }
 
-private fun highlightTraditionalName(text: String, lang: String): String {
+private fun highlightTraditionalName(text: String, lang: String, isOt: Boolean): String {
   fun w(s: String) = "[DN]$s[/DN]"
   return when (lang) {
     "en" -> text
       .replace(Regex("\\bLORD\\b")) { w(it.value) }
       .replace(Regex("\\bGOD\\b")) { w(it.value) }
-    "es" -> text.replace(Regex("\\bSEÑOR\\b")) { w(it.value) }
-    "pt" -> text.replace(Regex("\\bSENHOR\\b")) { w(it.value) }
-    "fr" -> text.replace(Regex("\\bÉTERNEL\\b")) { w(it.value) }
+      .replace(Regex("\\b(?:Yahweh|YHWH|Yahuah|Yah)\\b")) { w(it.value) }
+    "es" -> text
+      .replace(uwb("SEÑOR")) { w(it.value) }
+      .replace(uwb("Jehová")) { w(it.value) }
+      .replace(uwb("Yahveh")) { w(it.value) }
+    "pt" -> {
+      var t = text
+        .replace(Regex("\\bSENHOR\\b")) { w(it.value) }
+        .replace(uwb("Javé")) { w(it.value) }
+      if (isOt) t = t.replace(Regex("\\bSenhor\\b")) { w(it.value) }
+      t
+    }
+    "fr" -> text
+      .replace(uwb("ÉTERNEL")) { w(it.value) }
+      .replace(uwb("Éternel")) { w(it.value) }
       .replace(Regex("\\bSEIGNEUR\\b")) { w(it.value) }
-    "de" -> text.replace(Regex("\\bHERRN?\\b")) { w(it.value) }
-    "it" -> text.replace(Regex("\\bSIGNORE\\b")) { w(it.value) }
-    "ru" -> text.replace(Regex("ГОСПОДЬ|ГОСПОДА|ГОСПОДУ|ГОСПОДОМ|Господь")) { w(it.value) }
-    "ar" -> text.replace(Regex("الرَّبُّ|الرَّبِّ|الرَّبَّ")) { w(it.value) }
+    "de" -> text
+      .replace(Regex("\\bHERRN?\\b")) { w(it.value) }
+      .replace(Regex("\\bJahwe\\b")) { w(it.value) }
+    "it" -> {
+      var t = text.replace(Regex("\\bSIGNORE\\b")) { w(it.value) }
+      if (isOt) t = t.replace(Regex("\\bSignore\\b")) { w(it.value) }
+      t
+    }
+    "ru" -> {
+      var t = text
+        .replace(Regex("ГОСПОДЬ|ГОСПОДА|ГОСПОДУ|ГОСПОДОМ")) { w(it.value) }
+        .replace(uwb("Яхве")) { w(it.value) }
+      if (isOt) {
+        val ruYhwh = Regex(
+          "(?<![\\p{L}\\p{Mn}])Господ(?:ь|а|у|ом|е|нее|него|нему|ним|нем|них|няя|нюю|ней|ня|ню|не|ни)(?![\\p{L}\\p{Mn}])"
+        )
+        t = t.replace(ruYhwh) { w(it.value) }
+      }
+      t
+    }
+    "ar" -> {
+      var t = text
+        .replace(Regex("الرَّبُّ|الرَّبِّ|الرَّبَّ")) { w(it.value) }
+        .replace(Regex("يَهوَهْ|يهوه")) { w(it.value) }
+      if (isOt) t = t.replace(uwb("الرب")) { w(it.value) }
+      t
+    }
     "hi" -> text.replace(Regex("यहोवा")) { w(it.value) }
-    "ko" -> text.replace(Regex("여호와")) { w(it.value) }
-    "ja" -> text
-    "zh-Hans" -> text.replace(Regex("耶和华")) { w(it.value) }
-    "zh-Hant" -> text.replace(Regex("耶和華")) { w(it.value) }
+    "ko" -> {
+      var t = text.replace(Regex("여호와|야훼")) { w(it.value) }
+      if (isOt) t = t.replace(Regex("주님?")) { w(it.value) }
+      t
+    }
+    "ja" -> {
+      var t = text.replace(Regex("ヤハウェ|ヱホバ")) { w(it.value) }
+      if (isOt) t = t.replace(Regex("主")) { w(it.value) }
+      t
+    }
+    "zh-Hans" -> {
+      var t = text.replace(Regex("耶和华|雅威")) { w(it.value) }
+      if (isOt) t = t.replace(Regex("主")) { w(it.value) }
+      t
+    }
+    "zh-Hant" -> {
+      var t = text.replace(Regex("耶和華|雅威")) { w(it.value) }
+      if (isOt) t = t.replace(Regex("主")) { w(it.value) }
+      t
+    }
     else -> text
   }
 }
@@ -178,7 +297,8 @@ object ScriptureRefs {
     val displayCanon: String,    // Localized canonical — used for display substitution
     val collection: String,
     val keys: MutableSet<String>,
-    val strippedKeys: MutableSet<String> = mutableSetOf()
+    val strippedKeys: MutableSet<String> = mutableSetOf(),
+    val foldAsciiOnlyKeys: MutableSet<String> = mutableSetOf()
   )
 
   // Backed by a Compose mutableStateOf so that when primeBooks finishes after
@@ -219,13 +339,19 @@ object ScriptureRefs {
 
     val out = mutableListOf<BookEntry>()
 
-    fun addKey(dst: MutableSet<String>, raw: String) {
+    fun addKey(dst: MutableSet<String>, raw: String, foldDst: MutableSet<String>? = null) {
       val t = raw.trim()
       if (t.isEmpty()) return
       dst += t
-      dst += t.replace("\\s+".toRegex(), " ")
-      dst += t.noSpaces()
-      dst += t.foldAscii()
+      val normSpaces = t.replace("\\s+".toRegex(), " ")
+      dst += normSpaces
+      val noSp = t.noSpaces()
+      dst += noSp
+      val folded = t.foldAscii()
+      dst += folded
+      if (foldDst != null && folded != t && folded != normSpaces && folded != noSp) {
+        foldDst += folded
+      }
     }
 
     for (row in rows) {
@@ -242,25 +368,46 @@ object ScriptureRefs {
         } ?: row.canon
       }
 
-      val entry = BookEntry(englishCanon, row.canon, collection, mutableSetOf(), mutableSetOf())
+      val entry = BookEntry(englishCanon, row.canon, collection, mutableSetOf(), mutableSetOf(), mutableSetOf())
       row.aliases.forEach { alias ->
-        addKey(entry.keys, alias)
+        addKey(entry.keys, alias, entry.foldAsciiOnlyKeys)
         val stripped = stripLeadingOrdinal(alias)
         if (!stripped.equals(alias, ignoreCase = true)) {
-          addKey(entry.keys, stripped)
+          addKey(entry.keys, stripped, entry.foldAsciiOnlyKeys)
           addKey(entry.strippedKeys, stripped)
         }
       }
-      addKey(entry.keys, row.canon)
+      addKey(entry.keys, row.canon, entry.foldAsciiOnlyKeys)
       run {
         val stripped = stripLeadingOrdinal(row.canon)
         if (!stripped.equals(row.canon, ignoreCase = true)) {
-          addKey(entry.keys, stripped)
+          addKey(entry.keys, stripped, entry.foldAsciiOnlyKeys)
           addKey(entry.strippedKeys, stripped)
         }
       }
-      addKey(entry.keys, englishCanon)
+      addKey(entry.keys, englishCanon, entry.foldAsciiOnlyKeys)
       out += entry
+    }
+
+    // Post-pass: remove foldAscii-derived keys from one entry when the same key
+    // appears as a non-foldAscii (primary) key of a different entry. This prevents
+    // diacritic collisions like Portuguese "Jó" (foldAscii -> "Jo") from hijacking
+    // the explicit "Jo" alias of "João".
+    val primaryOwnerLower = mutableMapOf<String, BookEntry>()
+    for (entry in out) {
+      val nonFold = entry.keys - entry.foldAsciiOnlyKeys
+      for (k in nonFold) {
+        primaryOwnerLower.putIfAbsent(k.lowercase(), entry)
+      }
+    }
+    for (entry in out) {
+      val toRemove = mutableSetOf<String>()
+      for (foldKey in entry.foldAsciiOnlyKeys) {
+        val owner = primaryOwnerLower[foldKey.lowercase()]
+        if (owner != null && owner != entry) toRemove += foldKey
+      }
+      entry.keys -= toRemove
+      entry.foldAsciiOnlyKeys -= toRemove
     }
 
     books = out
@@ -398,7 +545,7 @@ object ScriptureRefs {
       .replace('\u2009', ' ')
       .replace('\u2002', ' ')
       .replace('\u2003', ' ')
-      .let { applyDivineName(it, prefs.divineName, effectiveLang, prefs.divineNameColor != "default") }
+      .let { applyDivineName(it, prefs.divineName, effectiveLang, prefs.divineNameColor != "default", collection) }
 
     // Scan text: additionally convert CJK ideographic comma (、) to ASCII comma
     // for ref-tail matching. This is 1:1 so positions stay aligned with displayText.

@@ -6,29 +6,31 @@
       "id": "psalm-151-1",
       "title": "🎵 Salmo 151",
       "refs": [
-        "Psalm 151 1"
+        "Psalm 151 1:1-7"
       ],
       "summaryBullets": [
-        "Este salmo se atribuye a David, pero no forma parte del texto hebreo masorético estándar.",
-        "David recuerda sus humildes comienzos como el menor de sus hermanos, cuidando ovejas en los campos.",
-        "Dios lo eligió de entre sus hermanos y envió a Samuel para ungirlo con aceite santo.",
-        "David recuerda cómo, a pesar de ser pequeño, derrotó a Goliat con una honda y le cortó la cabeza con la espada.",
-        "El salmo destaca la elección divina de los humildes y la liberación de Dios por medio de la fe y la obediencia de David."
+        "Yo era pequeño entre mis hermanos y el más joven en la casa de mi padre; apacentaba las ovejas de mi padre. (1:1).",
+        "Mis manos hicieron un arpa; mis dedos modelaron una lira. (1:2).",
+        "¿Y quién se lo dirá a mi Señor? El Señor mismo; él es quien escucha. (1:3).",
+        "Él envió a su mensajero y me tomó de las ovejas de mi padre, y me ungió con su aceite de unción. (1:4).",
+        "Mis hermanos eran apuestos y altos, pero el Señor no se complació en ellos. (1:5).",
+        "Salí al encuentro del extranjero, y él me maldijo por sus ídolos. (1:6).",
+        "Pero yo desenvainé su propia espada; le corté la cabeza y quité el oprobio del pueblo de Israel. (1:7)."
       ],
       "crossRefs": [
-        "1 Samuel 16:11–13 — David es ungido por Samuel mientras cuida las ovejas.",
-        "1 Samuel 17:34–51 — David derrota a Goliat con honda y espada.",
-        "Hechos 13:22 — David es descrito como un hombre conforme al corazón de Dios, elegido para cumplir su voluntad."
+        "1 Samuel 16:11–13: David es ungido por Samuel mientras cuida las ovejas.",
+        "1 Samuel 17:34–51: David derrota a Goliat con honda y espada.",
+        "Hechos 13:22: David es descrito como un hombre conforme al corazón de Dios, elegido para cumplir su voluntad."
       ],
       "translationNotes": [
         {
           "term": "Ungido",
-          "original": "Hebrew: מָשַׁח (mashach) — Greek: χρίω (chriō) — Aramaic/Syriac: משח (meshaḥ)",
+          "original": "Hebrew: מָשַׁח (mashach), Greek: χρίω (chriō), Aramaic/Syriac: משח (meshaḥ)",
           "note": "Derramar aceite sobre alguien, apartándolo para el propósito de Dios; se usaba para reyes y sacerdotes."
         },
         {
           "term": "Honda",
-          "original": "Hebrew: קָלַע (qalaʿ) — Greek: σφενδόνη (sphendonē) — Aramaic: קלעא (qelaʿa)",
+          "original": "Hebrew: קָלַע (qalaʿ), Greek: σφενδόνη (sphendonē), Aramaic: קלעא (qelaʿa)",
           "note": "Un arma que usa una correa de cuero para lanzar piedras; el arma de David contra Goliat."
         }
       ],

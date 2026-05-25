@@ -4500,6 +4500,20 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         Spacer(Modifier.height(8.dp))
       }
 
+      OutlinedButton(
+        onClick = {
+          val url = if (isApplePlatform)
+            "https://apps.apple.com/us/app/bible-companion-offline/id6763134690"
+          else
+            "https://play.google.com/store/apps/details?id=com.dividesbyzer0.biblecompanion"
+          platformOpenUrl(ctx, url)
+        }
+      ) {
+        Icon(Icons.Filled.Star, contentDescription = null, modifier = Modifier.size(18.dp))
+        Spacer(Modifier.width(8.dp))
+        Text(stringResource(Res.string.rate_app))
+      }
+
       val shareAppSubject = stringResource(Res.string.app_name)
       OutlinedButton(
         onClick = {

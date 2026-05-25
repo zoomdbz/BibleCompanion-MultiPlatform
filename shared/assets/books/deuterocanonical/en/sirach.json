@@ -3,19 +3,47 @@
   "title": "Sirach (Ecclesiasticus)",
   "stories": [
     {
+      "id": "sirach-prologue",
+      "title": "📜 Sirach (Ecclesiasticus) Prologue",
+      "refs": [
+        "Sirach Prologue"
+      ],
+      "summaryBullets": [
+        "Prologue: Many great teachings have been given to us through the Law and the Prophets and the others that followed them, for which we should praise Israel for instruction and wisdom. (Prologue).",
+        "Prologue: Those who read the Scriptures must not only become learned themselves, but must also as lovers of learning be able through speech and writing to help outsiders. (Prologue).",
+        "Prologue: So my grandfather Jesus, who had devoted himself especially to the reading of the Law and the Prophets and the other books of our ancestors, and had acquired considerable proficiency in them, was himself moved to write something pertaining to instruction and wisdom. (Prologue).",
+        "Prologue: He did this so that, by becoming familiar with this book also, those who love learning might make even greater progress in living according to the law. (Prologue).",
+        "Prologue: You are urged therefore to read it with goodwill and attention and to be indulgent in cases where, despite our diligent labor in translating, we may seem to have rendered some phrases imperfectly. (Prologue).",
+        "Prologue: For what was originally expressed in Hebrew does not have exactly the same sense when translated into another language; not only this book but even the Law itself, the Prophecies, and the rest of the books differ not a little when read in the original. (Prologue).",
+        "Prologue: When I came to Egypt in the thirty-eighth year of the reign of Euergetes and stayed for some time, I found opportunity for no little instruction. (Prologue).",
+        "Prologue: It seemed highly necessary that I should myself devote some diligence and labor to translate this book, applying much watchfulness and skill in that period of time to complete and publish the book for those living abroad who wish to gain learning and are preparing to live according to the law. (Prologue)."
+      ],
+      "crossRefs": [
+        "Proverbs 1:1-7: The purpose of wisdom literature.",
+        "2 Timothy 3:16: All Scripture is profitable for instruction.",
+        "Luke 1:1-4: A careful author addresses his readers."
+      ],
+      "translationNotes": [
+        {
+          "term": "Translator's Prologue",
+          "original": "Greek: Πρόλογος (prologos); the translator's name is traditionally given as Ben Sira's grandson, working under Ptolemy VIII Euergetes II in Egypt c. 132 BCE.",
+          "note": "The Prologue is unnumbered in the original manuscripts and in NRSVUE; it precedes chapter 1 and explains how the grandson translated his grandfather's Hebrew work into Greek."
+        }
+      ],
+      "keyTakeaway": "Ben Sira's grandson explains why he translated his grandfather's Hebrew wisdom collection into Greek; he asks readers to pardon imperfect renderings, since Hebrew does not carry the same sense once translated."
+    },
+    {
       "id": "sirach-1",
       "title": "📜 Sirach (Ecclesiasticus) 1",
       "refs": [
-        "Sirach 1:1-36"
+        "Sirach 1:1-30"
       ],
       "summaryBullets": [
         "All wisdom is from the Lord, and with him it remains forever. (1:1).",
         "The sand of the sea, the drops of rain, and the days of eternity—who can count them? (1:2).",
         "The height of heaven, the breadth of the earth, the abyss, and wisdom —who can search them out? (1:3).",
         "Wisdom was created before all things and prudent understanding from eternity. (1:4).",
-        "but must also as lovers of learning be able through (1:5).",
         "The root of wisdom—to whom has it been revealed? Her subtleties—who knows them? (1:6).",
-        "So my grandfather Jesus, who had devoted himself especially (1:7).",
         "There is but one who is wise, greatly to be feared, seated upon his throne: the Lord. (1:8).",
         "It is he who created her; he saw her and took her measure; he poured her out upon all his works, (1:9).",
         "upon all the living according to his gift; he lavished her upon those who love him. (1:10).",
@@ -29,6 +57,7 @@
         "The fear of the Lord is the crown of wisdom, making peace and perfect health to flourish. (1:18).",
         "She rained down knowledge and discerning comprehension, and she heightened the glory of those who held her fast. (1:19).",
         "To fear the Lord is the root of wisdom, and her branches are long life. (1:20).",
+        "The fear of the Lord drives away sins, and where it abides, it will turn away all anger. (1:21).",
         "Unjust anger cannot be justified, for anger tips the scale to one’s ruin. (1:22).",
         "Those who are patient stay calm until the right moment, and then cheerfulness comes back to them. (1:23).",
         "They hold back their words until the right moment, and then the lips of many tell of their good sense. (1:24).",
@@ -37,21 +66,17 @@
         "For the fear of the Lord is wisdom and discipline; fidelity and humility are his delight. (1:27).",
         "Do not disobey the fear of the Lord; do not approach him with a divided mind. (1:28).",
         "Do not be a hypocrite before others, and keep watch over your lips. (1:29).",
-        "Do not exalt yourself, or you may fall and bring dishonor upon yourself. The Lord will reveal your secrets and overthrow you before the whole congregation, because you did not come in the fear of the Lord, and your heart was full of deceit. (1:30).",
-        "to complete and publish the book (1:33).",
-        "for those living abroad who wish to gain learning and are (1:34).",
-        "preparing (1:35).",
-        "to live according to the law. (1:36)."
+        "Do not exalt yourself, or you may fall and bring dishonor upon yourself. The Lord will reveal your secrets and overthrow you before the whole congregation, because you did not come in the fear of the Lord, and your heart was full of deceit. (1:30)."
       ],
       "crossRefs": [
-        "Proverbs 1:7 — Fear of the Lord is beginning of knowledge.",
-        "Job 28:28 — Fear of the Lord is wisdom.",
-        "Hebrews 12:6 — The Lord disciplines whom He loves."
+        "Proverbs 1:7: Fear of the Lord is beginning of knowledge.",
+        "Job 28:28: Fear of the Lord is wisdom.",
+        "Hebrews 12:6: The Lord disciplines whom He loves."
       ],
       "translationNotes": [
         {
           "term": "Fear of the Lord",
-          "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH) — Greek: φόβος Κυρίου (phobos Kyriou) — Aramaic: דְּחַל יוי (deḥal YHWH)",
+          "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH), Greek: φόβος Κυρίου (phobos Kyriou), Aramaic: דְּחַל יוי (deḥal YHWH)",
           "note": "Not terror, but reverence, awe, and faithful obedience to God’s authority."
         }
       ],
@@ -84,14 +109,14 @@
         "Let us fall into the hands of the Lord but not into the hands of mortals, for equal to his majesty is his mercy. (2:18)."
       ],
       "crossRefs": [
-        "Proverbs 1:7 — Fear of the Lord is beginning of knowledge.",
-        "Job 28:28 — Fear of the Lord is wisdom.",
-        "Hebrews 12:6 — The Lord disciplines whom He loves."
+        "Proverbs 1:7: Fear of the Lord is beginning of knowledge.",
+        "Job 28:28: Fear of the Lord is wisdom.",
+        "Hebrews 12:6: The Lord disciplines whom He loves."
       ],
       "translationNotes": [
         {
           "term": "Fear of the Lord",
-          "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH) — Greek: φόβος Κυρίου (phobos Kyriou) — Aramaic: דְּחַל יוי (deḥal YHWH)",
+          "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH), Greek: φόβος Κυρίου (phobos Kyriou), Aramaic: דְּחַל יוי (deḥal YHWH)",
           "note": "Not terror, but reverence, awe, and faithful obedience to God’s authority."
         }
       ],
@@ -136,14 +161,14 @@
         "Those who repay favors give thought to the future; when they fall they will find support. (3:31)."
       ],
       "crossRefs": [
-        "Exodus 20:12 — Honor father and mother.",
-        "Luke 14:11 — Whoever exalts himself will be humbled.",
-        "James 1:27 — True religion: care for orphans and widows."
+        "Exodus 20:12: Honor father and mother.",
+        "Luke 14:11: Whoever exalts himself will be humbled.",
+        "James 1:27: True religion: care for orphans and widows."
       ],
       "translationNotes": [
         {
           "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh) — Greek: ἐλεημοσύνη (eleēmosýnē) — Aramaic: זדקתא (zdaqātā)",
+          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
           "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
         }
       ],
@@ -189,14 +214,14 @@
         "Do not let your hand be stretched out to receive and closed when it is time to give back. (4:31)."
       ],
       "crossRefs": [
-        "Exodus 20:12 — Honor father and mother.",
-        "Luke 14:11 — Whoever exalts himself will be humbled.",
-        "James 1:27 — True religion: care for orphans and widows."
+        "Exodus 20:12: Honor father and mother.",
+        "Luke 14:11: Whoever exalts himself will be humbled.",
+        "James 1:27: True religion: care for orphans and widows."
       ],
       "translationNotes": [
         {
           "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh) — Greek: ἐλεημοσύνη (eleēmosýnē) — Aramaic: זדקתא (zdaqātā)",
+          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
           "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
         }
       ],
@@ -226,14 +251,14 @@
         "In great and small matters cause no harm, (5:15)."
       ],
       "crossRefs": [
-        "Exodus 20:12 — Honor father and mother.",
-        "Luke 14:11 — Whoever exalts himself will be humbled.",
-        "James 1:27 — True religion: care for orphans and widows."
+        "Exodus 20:12: Honor father and mother.",
+        "Luke 14:11: Whoever exalts himself will be humbled.",
+        "James 1:27: True religion: care for orphans and widows."
       ],
       "translationNotes": [
         {
           "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh) — Greek: ἐλεημοσύνη (eleēmosýnē) — Aramaic: זדקתא (zdaqātā)",
+          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
           "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
         }
       ],
@@ -285,14 +310,14 @@
         "Reflect on the statutes of the Lord, and meditate at all times on his commandments. It is he who will give insight to your mind, and your desire for wisdom will be granted. (6:37)."
       ],
       "crossRefs": [
-        "Exodus 20:12 — Honor father and mother.",
-        "Luke 14:11 — Whoever exalts himself will be humbled.",
-        "James 1:27 — True religion: care for orphans and widows."
+        "Exodus 20:12: Honor father and mother.",
+        "Luke 14:11: Whoever exalts himself will be humbled.",
+        "James 1:27: True religion: care for orphans and widows."
       ],
       "translationNotes": [
         {
           "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh) — Greek: ἐλεημοσύνη (eleēmosýnē) — Aramaic: זדקתא (zdaqātā)",
+          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
           "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
         }
       ],
@@ -343,14 +368,14 @@
         "In all you do, remember the end of your life, and then you will never sin. (7:36)."
       ],
       "crossRefs": [
-        "Exodus 20:12 — Honor father and mother.",
-        "Luke 14:11 — Whoever exalts himself will be humbled.",
-        "James 1:27 — True religion: care for orphans and widows."
+        "Exodus 20:12: Honor father and mother.",
+        "Luke 14:11: Whoever exalts himself will be humbled.",
+        "James 1:27: True religion: care for orphans and widows."
       ],
       "translationNotes": [
         {
           "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh) — Greek: ἐλεημοσύνη (eleēmosýnē) — Aramaic: זדקתא (zdaqātā)",
+          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
           "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
         }
       ],
@@ -384,14 +409,14 @@
         "Do not reveal your thoughts to anyone, or you may drive away your happiness. (8:19)."
       ],
       "crossRefs": [
-        "Proverbs 13:20 — Companion of fools suffers harm.",
-        "Matthew 5:27–28 — Warning against lust.",
-        "James 3:5–8 — The tongue’s power."
+        "Proverbs 13:20: Companion of fools suffers harm.",
+        "Matthew 5:27–28: Warning against lust.",
+        "James 3:5–8: The tongue’s power."
       ],
       "translationNotes": [
         {
           "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān) — Greek: φίλος πιστός (phílos pistós) — Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
+          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
           "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
         }
       ],
@@ -424,14 +449,14 @@
         "The loud of mouth are feared in their city, and the one who is reckless in speech is hated. (9:18)."
       ],
       "crossRefs": [
-        "Proverbs 13:20 — Companion of fools suffers harm.",
-        "Matthew 5:27–28 — Warning against lust.",
-        "James 3:5–8 — The tongue’s power."
+        "Proverbs 13:20: Companion of fools suffers harm.",
+        "Matthew 5:27–28: Warning against lust.",
+        "James 3:5–8: The tongue’s power."
       ],
       "translationNotes": [
         {
           "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān) — Greek: φίλος πιστός (phílos pistós) — Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
+          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
           "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
         }
       ],
@@ -476,14 +501,14 @@
         "One who is honored in poverty, how much more in wealth! And one dishonored in wealth, how much more in poverty! (10:31)."
       ],
       "crossRefs": [
-        "Proverbs 13:20 — Companion of fools suffers harm.",
-        "Matthew 5:27–28 — Warning against lust.",
-        "James 3:5–8 — The tongue’s power."
+        "Proverbs 13:20: Companion of fools suffers harm.",
+        "Matthew 5:27–28: Warning against lust.",
+        "James 3:5–8: The tongue’s power."
       ],
       "translationNotes": [
         {
           "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān) — Greek: φίλος πιστός (phílos pistós) — Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
+          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
           "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
         }
       ],
@@ -530,14 +555,14 @@
         "Receive strangers into your home, and they will stir up trouble for you and will make you a stranger to your own family. (11:34)."
       ],
       "crossRefs": [
-        "Proverbs 13:20 — Companion of fools suffers harm.",
-        "Matthew 5:27–28 — Warning against lust.",
-        "James 3:5–8 — The tongue’s power."
+        "Proverbs 13:20: Companion of fools suffers harm.",
+        "Matthew 5:27–28: Warning against lust.",
+        "James 3:5–8: The tongue’s power."
       ],
       "translationNotes": [
         {
           "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān) — Greek: φίλος πιστός (phílos pistós) — Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
+          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
           "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
         }
       ],
@@ -570,14 +595,14 @@
         "Then they will shake their heads and clap their hands and whisper much and show their true faces. (12:18)."
       ],
       "crossRefs": [
-        "Proverbs 13:20 — Companion of fools suffers harm.",
-        "Matthew 5:27–28 — Warning against lust.",
-        "James 3:5–8 — The tongue’s power."
+        "Proverbs 13:20: Companion of fools suffers harm.",
+        "Matthew 5:27–28: Warning against lust.",
+        "James 3:5–8: The tongue’s power."
       ],
       "translationNotes": [
         {
           "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān) — Greek: φίλος πιστός (phílos pistós) — Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
+          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
           "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
         }
       ],
@@ -617,14 +642,14 @@
         "The sign of a happy heart is a cheerful face, but to devise proverbs requires strenuous thinking. (13:26)."
       ],
       "crossRefs": [
-        "Proverbs 13:20 — Companion of fools suffers harm.",
-        "Matthew 5:27–28 — Warning against lust.",
-        "James 3:5–8 — The tongue’s power."
+        "Proverbs 13:20: Companion of fools suffers harm.",
+        "Matthew 5:27–28: Warning against lust.",
+        "James 3:5–8: The tongue’s power."
       ],
       "translationNotes": [
         {
           "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān) — Greek: φίλος πιστός (phílos pistós) — Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
+          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
           "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
         }
       ],
@@ -666,14 +691,14 @@
         "who are sheltered by her from the heat and dwell in the midst of her glory. (14:27)."
       ],
       "crossRefs": [
-        "Proverbs 13:20 — Companion of fools suffers harm.",
-        "Matthew 5:27–28 — Warning against lust.",
-        "James 3:5–8 — The tongue’s power."
+        "Proverbs 13:20: Companion of fools suffers harm.",
+        "Matthew 5:27–28: Warning against lust.",
+        "James 3:5–8: The tongue’s power."
       ],
       "translationNotes": [
         {
           "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān) — Greek: φίλος πιστός (phílos pistós) — Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
+          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
           "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
         }
       ],
@@ -708,14 +733,14 @@
         "He has not commanded anyone to be ungodly, and he has not given anyone permission to sin. (15:20)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19 — Choose life or death.",
-        "James 1:13 — God does not tempt with evil.",
-        "Psalm 103:8 — The Lord is merciful and gracious."
+        "Deuteronomy 30:19: Choose life or death.",
+        "James 1:13: God does not tempt with evil.",
+        "Psalm 103:8: The Lord is merciful and gracious."
       ],
       "translationNotes": [
         {
           "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense) — Greek: ἐξουσία προαιρέσεως (exousía proairéseōs) — Aramaic: רשות בחירה (rešut beḥīrā)",
+          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
           "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
         }
       ],
@@ -758,14 +783,14 @@
         "With all kinds of living beings he covered its surface, and into it they must return. (16:30)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19 — Choose life or death.",
-        "James 1:13 — God does not tempt with evil.",
-        "Psalm 103:8 — The Lord is merciful and gracious."
+        "Deuteronomy 30:19: Choose life or death.",
+        "James 1:13: God does not tempt with evil.",
+        "Psalm 103:8: The Lord is merciful and gracious."
       ],
       "translationNotes": [
         {
           "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense) — Greek: ἐξουσία προαιρέσεως (exousía proairéseōs) — Aramaic: רשות בחירה (rešut beḥīrā)",
+          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
           "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
         }
       ],
@@ -808,14 +833,14 @@
         "He marshals the host of the height of heaven, but all humans are dust and ashes. (17:32)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19 — Choose life or death.",
-        "James 1:13 — God does not tempt with evil.",
-        "Psalm 103:8 — The Lord is merciful and gracious."
+        "Deuteronomy 30:19: Choose life or death.",
+        "James 1:13: God does not tempt with evil.",
+        "Psalm 103:8: The Lord is merciful and gracious."
       ],
       "translationNotes": [
         {
           "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense) — Greek: ἐξουσία προαιρέσεως (exousía proairéseōs) — Aramaic: רשות בחירה (rešut beḥīrā)",
+          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
           "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
         }
       ],
@@ -862,14 +887,14 @@
         "Do not become a beggar by feasting with borrowed money, when you have nothing in your purse. (18:33)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19 — Choose life or death.",
-        "James 1:13 — God does not tempt with evil.",
-        "Psalm 103:8 — The Lord is merciful and gracious."
+        "Deuteronomy 30:19: Choose life or death.",
+        "James 1:13: God does not tempt with evil.",
+        "Psalm 103:8: The Lord is merciful and gracious."
       ],
       "translationNotes": [
         {
           "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense) — Greek: ἐξουσία προαιρέσεως (exousía proairéseōs) — Aramaic: רשות בחירה (rešut beḥīrā)",
+          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
           "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
         }
       ],
@@ -911,14 +936,14 @@
         "People’s attire and hearty laughter and the way they walk proclaim things about them. (19:30)."
       ],
       "crossRefs": [
-        "Proverbs 10:19 — In many words transgression.",
-        "Matthew 12:36 — Account for every careless word.",
-        "James 1:26 — Control of the tongue marks true religion."
+        "Proverbs 10:19: In many words transgression.",
+        "Matthew 12:36: Account for every careless word.",
+        "James 1:26: Control of the tongue marks true religion."
       ],
       "translationNotes": [
         {
           "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf) — Greek: ὑπόκρισις (hypókrisis) — Aramaic: חנופא (ḥănūfāʾ)",
+          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
           "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
         }
       ],
@@ -964,14 +989,14 @@
         "Better are those who hide their folly than those who hide their wisdom. (20:31)."
       ],
       "crossRefs": [
-        "Proverbs 10:19 — In many words transgression.",
-        "Matthew 12:36 — Account for every careless word.",
-        "James 1:26 — Control of the tongue marks true religion."
+        "Proverbs 10:19: In many words transgression.",
+        "Matthew 12:36: Account for every careless word.",
+        "James 1:26: Control of the tongue marks true religion."
       ],
       "translationNotes": [
         {
           "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf) — Greek: ὑπόκρισις (hypókrisis) — Aramaic: חנופא (ḥănūfāʾ)",
+          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
           "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
         }
       ],
@@ -1014,14 +1039,14 @@
         "Whisperers degrade themselves and are hated in their neighborhoods. (21:28)."
       ],
       "crossRefs": [
-        "Proverbs 10:19 — In many words transgression.",
-        "Matthew 12:36 — Account for every careless word.",
-        "James 1:26 — Control of the tongue marks true religion."
+        "Proverbs 10:19: In many words transgression.",
+        "Matthew 12:36: Account for every careless word.",
+        "James 1:26: Control of the tongue marks true religion."
       ],
       "translationNotes": [
         {
           "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf) — Greek: ὑπόκρισις (hypókrisis) — Aramaic: חנופא (ḥănūfāʾ)",
+          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
           "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
         }
       ],
@@ -1061,14 +1086,14 @@
         "Who will set a guard over my mouth and an effective seal upon my lips, so that I may not fall because of them and my tongue may not destroy me? (22:27)."
       ],
       "crossRefs": [
-        "Proverbs 10:19 — In many words transgression.",
-        "Matthew 12:36 — Account for every careless word.",
-        "James 1:26 — Control of the tongue marks true religion."
+        "Proverbs 10:19: In many words transgression.",
+        "Matthew 12:36: Account for every careless word.",
+        "James 1:26: Control of the tongue marks true religion."
       ],
       "translationNotes": [
         {
           "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf) — Greek: ὑπόκρισις (hypókrisis) — Aramaic: חנופא (ḥănūfāʾ)",
+          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
           "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
         }
       ],
@@ -1110,14 +1135,14 @@
         "Those who survive her will recognize that nothing is better than the fear of the Lord and nothing sweeter than to heed the commandments of the Lord. (23:27)."
       ],
       "crossRefs": [
-        "Proverbs 10:19 — In many words transgression.",
-        "Matthew 12:36 — Account for every careless word.",
-        "James 1:26 — Control of the tongue marks true religion."
+        "Proverbs 10:19: In many words transgression.",
+        "Matthew 12:36: Account for every careless word.",
+        "James 1:26: Control of the tongue marks true religion."
       ],
       "translationNotes": [
         {
           "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf) — Greek: ὑπόκρισις (hypókrisis) — Aramaic: חנופא (ḥănūfāʾ)",
+          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
           "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
         }
       ],
@@ -1164,14 +1189,14 @@
         "Observe that I have not labored for myself alone but for all who seek wisdom. (24:34)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1211,14 +1236,14 @@
         "If she does not go as you direct, separate her from yourself. (25:26)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1262,14 +1287,14 @@
         "A merchant can hardly keep from wrongdoing, nor is a tradesman innocent of sin. (26:29)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1314,14 +1339,14 @@
         "Anger and wrath, these also are abominations, yet a sinner holds on to them. (27:30)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1362,14 +1387,14 @@
         "Take care not to err with your tongue and fall victim to one lying in wait. (28:26)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1412,14 +1437,14 @@
         "It is hard for a sensible person to bear scolding about lodging and the insults of the moneylender. (29:28)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1459,14 +1484,14 @@
         "Those who are cheerful and merry at table will benefit from their food. (30:25)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1512,14 +1537,14 @@
         "Do not reprove your neighbors at a banquet of wine, and do not despise them in their merrymaking; speak no word of reproach to them, and do not distress them by making demands of them. (31:31)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1558,14 +1583,14 @@
         "The one who keeps the law preserves himself, and the one who trusts the Lord will not suffer loss. (32:24)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6 — Wisdom and understanding in the Law.",
-        "Proverbs 9:5 — Eat my bread, drink my wine.",
-        "Luke 14:10 — Humility at the banquet."
+        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
+        "Proverbs 9:5: Eat my bread, drink my wine.",
+        "Luke 14:10: Humility at the banquet."
       ],
       "translationNotes": [
         {
           "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh) — Greek: νόμος (nómos) / σοφία (sophía) — Aramaic: אוריתא (ʾoraytāʾ)",
+          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
           "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
         }
       ],
@@ -1613,14 +1638,14 @@
         "which way will you go to seek him? (33:33)."
       ],
       "crossRefs": [
-        "Proverbs 22:2 — Rich and poor meet together.",
-        "Luke 16:9 — Use unrighteous wealth for eternal purposes.",
-        "James 1:5 — Ask God for wisdom."
+        "Proverbs 22:2: Rich and poor meet together.",
+        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
+        "James 1:5: Ask God for wisdom."
       ],
       "translationNotes": [
         {
           "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh) — Greek: βουλή (boulḗ) — Aramaic: מלכתא (melaktā, sense)",
+          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
           "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
         }
       ],
@@ -1666,14 +1691,14 @@
         "So if one fasts for his sins and goes again and does the same things, who will listen to his prayer? And what has he gained by humbling himself? (34:31)."
       ],
       "crossRefs": [
-        "Proverbs 22:2 — Rich and poor meet together.",
-        "Luke 16:9 — Use unrighteous wealth for eternal purposes.",
-        "James 1:5 — Ask God for wisdom."
+        "Proverbs 22:2: Rich and poor meet together.",
+        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
+        "James 1:5: Ask God for wisdom."
       ],
       "translationNotes": [
         {
           "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh) — Greek: βουλή (boulḗ) — Aramaic: מלכתא (melaktā, sense)",
+          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
           "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
         }
       ],
@@ -1714,14 +1739,14 @@
         "His mercy is as welcome in time of distress as clouds of rain in time of drought. (35:26)."
       ],
       "crossRefs": [
-        "Proverbs 22:2 — Rich and poor meet together.",
-        "Luke 16:9 — Use unrighteous wealth for eternal purposes.",
-        "James 1:5 — Ask God for wisdom."
+        "Proverbs 22:2: Rich and poor meet together.",
+        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
+        "James 1:5: Ask God for wisdom."
       ],
       "translationNotes": [
         {
           "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh) — Greek: βουλή (boulḗ) — Aramaic: מלכתא (melaktā, sense)",
+          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
           "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
         }
       ],
@@ -1765,14 +1790,14 @@
         "For who will trust a nimble robber who skips from city to city? So who will trust a man who has no nest but lodges wherever nighttime finds him? (36:31)."
       ],
       "crossRefs": [
-        "Proverbs 22:2 — Rich and poor meet together.",
-        "Luke 16:9 — Use unrighteous wealth for eternal purposes.",
-        "James 1:5 — Ask God for wisdom."
+        "Proverbs 22:2: Rich and poor meet together.",
+        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
+        "James 1:5: Ask God for wisdom."
       ],
       "translationNotes": [
         {
           "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh) — Greek: βουλή (boulḗ) — Aramaic: מלכתא (melaktā, sense)",
+          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
           "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
         }
       ],
@@ -1818,14 +1843,14 @@
         "Many have died of gluttony, but those who guard against it prolong their lives. (37:31)."
       ],
       "crossRefs": [
-        "Proverbs 22:2 — Rich and poor meet together.",
-        "Luke 16:9 — Use unrighteous wealth for eternal purposes.",
-        "James 1:5 — Ask God for wisdom."
+        "Proverbs 22:2: Rich and poor meet together.",
+        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
+        "James 1:5: Ask God for wisdom."
       ],
       "translationNotes": [
         {
           "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh) — Greek: βουλή (boulḗ) — Aramaic: מלכתא (melaktā, sense)",
+          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
           "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
         }
       ],
@@ -1874,14 +1899,14 @@
         "But they maintain the fabric of the world, and their concern is for the exercise of their trade. How different the one who devotes himself to the study of the law of the Most High! (38:34)."
       ],
       "crossRefs": [
-        "Exodus 15:26 — The Lord your healer.",
-        "Luke 4:23 — Physician, heal yourself.",
-        "1 Thessalonians 4:13 — Do not grieve as others without hope."
+        "Exodus 15:26: The Lord your healer.",
+        "Luke 4:23: Physician, heal yourself.",
+        "1 Thessalonians 4:13: Do not grieve as others without hope."
       ],
       "translationNotes": [
         {
           "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ) — Greek: ἰατρός (iatrós) — Aramaic: אסיא (ʾasyāʾ)",
+          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
           "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
         }
       ],
@@ -1931,14 +1956,14 @@
         "So now sing praise with all your heart and voice, and bless the name of the Lord. (39:35)."
       ],
       "crossRefs": [
-        "Exodus 15:26 — The Lord your healer.",
-        "Luke 4:23 — Physician, heal yourself.",
-        "1 Thessalonians 4:13 — Do not grieve as others without hope."
+        "Exodus 15:26: The Lord your healer.",
+        "Luke 4:23: Physician, heal yourself.",
+        "1 Thessalonians 4:13: Do not grieve as others without hope."
       ],
       "translationNotes": [
         {
           "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ) — Greek: ἰατρός (iatrós) — Aramaic: אסיא (ʾasyāʾ)",
+          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
           "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
         }
       ],
@@ -1983,14 +2008,14 @@
         "In the mouth of the shameless begging is sweet, but it kindles a fire inside them. (40:30)."
       ],
       "crossRefs": [
-        "Exodus 15:26 — The Lord your healer.",
-        "Luke 4:23 — Physician, heal yourself.",
-        "1 Thessalonians 4:13 — Do not grieve as others without hope."
+        "Exodus 15:26: The Lord your healer.",
+        "Luke 4:23: Physician, heal yourself.",
+        "1 Thessalonians 4:13: Do not grieve as others without hope."
       ],
       "translationNotes": [
         {
           "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ) — Greek: ἰατρός (iatrós) — Aramaic: אסיא (ʾasyāʾ)",
+          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
           "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
         }
       ],
@@ -2027,14 +2052,14 @@
         "of meddling with his female servant— and do not approach her bed; of abusive words, before friends— and do not be insulting after making a gift. (41:22)."
       ],
       "crossRefs": [
-        "Exodus 15:26 — The Lord your healer.",
-        "Luke 4:23 — Physician, heal yourself.",
-        "1 Thessalonians 4:13 — Do not grieve as others without hope."
+        "Exodus 15:26: The Lord your healer.",
+        "Luke 4:23: Physician, heal yourself.",
+        "1 Thessalonians 4:13: Do not grieve as others without hope."
       ],
       "translationNotes": [
         {
           "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ) — Greek: ἰατρός (iatrós) — Aramaic: אסיא (ʾasyāʾ)",
+          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
           "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
         }
       ],
@@ -2072,7 +2097,8 @@
         "All these things live and remain forever; each creature is preserved to meet a particular need. (42:23).",
         "All things come in pairs, one opposite the other, and he has made nothing incomplete. (42:24).",
         "Each supplements the virtues of the other. Who could ever tire of seeing his glory? (42:25)."
-      ]
+      ],
+      "keyTakeaway": "Ben Sira distinguishes false shame from true shame, urges proper conduct in household and business matters, then pivots to praise God's works: the universe is ordered by his word, and every creature serves his purpose."
     },
     {
       "id": "sirach-43",
@@ -2114,7 +2140,8 @@
         "Who has seen him and can describe him? Or who can extol him as he is? (43:31).",
         "Many things greater than these lie hidden, for I have seen but few of his works. (43:32).",
         "For the Lord has made all things, and to the godly he has given wisdom. (43:33)."
-      ]
+      ],
+      "keyTakeaway": "An extended hymn of creation: the sky, sun, moon, stars, rainbow, lightning, snow, frost, sea, and storms all proclaim the Lord's glory; the more we praise him, the more he surpasses our words."
     },
     {
       "id": "sirach-44",
@@ -2148,14 +2175,14 @@
         "he made to rest on the head of Jacob; he acknowledged him with his blessings and gave him his inheritance; he divided his portions and distributed them among twelve tribes. From his descendants the Lord brought forth a man of compassion who found favor in the sight of all (44:23)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40 — Hall of faith.",
-        "Psalm 105:6–10 — Covenant remembered.",
-        "Acts 7:2–53 — Stephen’s review of Israel’s history."
+        "Hebrews 11:1–40: Hall of faith.",
+        "Psalm 105:6–10: Covenant remembered.",
+        "Acts 7:2–53: Stephen’s review of Israel’s history."
       ],
       "translationNotes": [
         {
           "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt) — Greek: πατέρες (patéres) — Aramaic: אבהתא (ʾăbāhātā)",
+          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
           "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
         }
       ],
@@ -2196,14 +2223,14 @@
         "And now bless the Lord who has crowned you with glory. May the Lord grant you wisdom of mind to judge his people with justice, so that their prosperity may not vanish and that their glory may endure through all their generations. (45:26)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40 — Hall of faith.",
-        "Psalm 105:6–10 — Covenant remembered.",
-        "Acts 7:2–53 — Stephen’s review of Israel’s history."
+        "Hebrews 11:1–40: Hall of faith.",
+        "Psalm 105:6–10: Covenant remembered.",
+        "Acts 7:2–53: Stephen’s review of Israel’s history."
       ],
       "translationNotes": [
         {
           "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt) — Greek: πατέρες (patéres) — Aramaic: אבהתא (ʾăbāhātā)",
+          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
           "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
         }
       ],
@@ -2238,14 +2265,14 @@
         "Even after he had fallen asleep, he prophesied and made known to the king his death and lifted up his voice from the ground in prophecy, to blot out the lawlessness of the people. (46:20)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40 — Hall of faith.",
-        "Psalm 105:6–10 — Covenant remembered.",
-        "Acts 7:2–53 — Stephen’s review of Israel’s history."
+        "Hebrews 11:1–40: Hall of faith.",
+        "Psalm 105:6–10: Covenant remembered.",
+        "Acts 7:2–53: Stephen’s review of Israel’s history."
       ],
       "translationNotes": [
         {
           "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt) — Greek: πατέρες (patéres) — Aramaic: אבהתא (ʾăbāhātā)",
+          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
           "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
         }
       ],
@@ -2285,14 +2312,14 @@
         "For they sought out every kind of wickedness until vengeance came upon them. (47:25)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40 — Hall of faith.",
-        "Psalm 105:6–10 — Covenant remembered.",
-        "Acts 7:2–53 — Stephen’s review of Israel’s history."
+        "Hebrews 11:1–40: Hall of faith.",
+        "Psalm 105:6–10: Covenant remembered.",
+        "Acts 7:2–53: Stephen’s review of Israel’s history."
       ],
       "translationNotes": [
         {
           "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt) — Greek: πατέρες (patéres) — Aramaic: אבהתא (ʾăbāhātā)",
+          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
           "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
         }
       ],
@@ -2332,14 +2359,14 @@
         "He revealed what was to occur to the end of time and the hidden things before they happened. (48:25)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40 — Hall of faith.",
-        "Psalm 105:6–10 — Covenant remembered.",
-        "Acts 7:2–53 — Stephen’s review of Israel’s history."
+        "Hebrews 11:1–40: Hall of faith.",
+        "Psalm 105:6–10: Covenant remembered.",
+        "Acts 7:2–53: Stephen’s review of Israel’s history."
       ],
       "translationNotes": [
         {
           "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt) — Greek: πατέρες (patéres) — Aramaic: אבהתא (ʾăbāhātā)",
+          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
           "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
         }
       ],
@@ -2370,14 +2397,14 @@
         "Shem and Seth and Enosh were honored, but above every other created living being was Adam. (49:16)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40 — Hall of faith.",
-        "Psalm 105:6–10 — Covenant remembered.",
-        "Acts 7:2–53 — Stephen’s review of Israel’s history."
+        "Hebrews 11:1–40: Hall of faith.",
+        "Psalm 105:6–10: Covenant remembered.",
+        "Acts 7:2–53: Stephen’s review of Israel’s history."
       ],
       "translationNotes": [
         {
           "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt) — Greek: πατέρες (patéres) — Aramaic: אבהתא (ʾăbāhātā)",
+          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
           "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
         }
       ],
@@ -2421,14 +2448,14 @@
         "For if they put them into practice, they will be equal to anything, for the fear of the Lord is their path. (50:29)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40 — Hall of faith.",
-        "Psalm 105:6–10 — Covenant remembered.",
-        "Acts 7:2–53 — Stephen’s review of Israel’s history."
+        "Hebrews 11:1–40: Hall of faith.",
+        "Psalm 105:6–10: Covenant remembered.",
+        "Acts 7:2–53: Stephen’s review of Israel’s history."
       ],
       "translationNotes": [
         {
           "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt) — Greek: πατέρες (patéres) — Aramaic: אבהתא (ʾăbāhātā)",
+          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
           "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
         }
       ],
@@ -2473,14 +2500,14 @@
         "Do your work in good time, and in his own time God will give you your reward. (51:30)."
       ],
       "crossRefs": [
-        "Psalm 18:1–19 — Thanksgiving for deliverance.",
-        "Matthew 11:29 — Take my yoke and find rest.",
-        "Colossians 2:3 — Treasures of wisdom in Christ."
+        "Psalm 18:1–19: Thanksgiving for deliverance.",
+        "Matthew 11:29: Take my yoke and find rest.",
+        "Colossians 2:3: Treasures of wisdom in Christ."
       ],
       "translationNotes": [
         {
           "term": "Yoke of wisdom",
-          "original": "Hebrew: עֹל חָכְמָה (ʿōl ḥokmāh, sense) — Greek: ζυγὸς σοφίας (zygòs sophías) — Aramaic: טול דחכמתא (ṭōl deḥokmātā)",
+          "original": "Hebrew: עֹל חָכְמָה (ʿōl ḥokmāh, sense), Greek: ζυγὸς σοφίας (zygòs sophías), Aramaic: טול דחכמתא (ṭōl deḥokmātā)",
           "note": "Metaphor of yoke as discipline and guidance; wisdom’s yoke brings rest and joy."
         }
       ],
