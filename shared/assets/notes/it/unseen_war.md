@@ -283,7 +283,7 @@ Il Corano onora Gesù (*ʿĪsā*) come profeta, ma nega la sua crocifissione e r
 - Molti musulmani affermano che la Bibbia sia stata corrotta.
 
 
-## Risposte alle obiezioni comuni:
+**Risposte alle obiezioni comuni:**
 
 ### Obiezione 1: La Bibbia è stata corrotta
 Il Corano stesso conferma la Torà e il Vangelo come rivelazioni autentiche.

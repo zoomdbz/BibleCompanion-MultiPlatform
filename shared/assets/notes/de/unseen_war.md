@@ -290,7 +290,7 @@ Der Koran ehrt Jesus (*ʿĪsā*) als Propheten, leugnet jedoch seine Kreuzigung 
 - Viele Muslime behaupten, die Bibel sei verfälscht worden.
 
 
-## Antworten auf häufige Einwände:
+**Antworten auf häufige Einwände:**
 
 ### Einwand 1: Die Bibel wurde verfälscht
 Der Koran selbst bekräftigt die Tora und das Evangelium als echte Offenbarungen.

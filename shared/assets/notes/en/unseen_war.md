@@ -283,7 +283,7 @@ The Qur’an honors Jesus (*ʿĪsā*) as a prophet, but denies His crucifixion a
  
 - Many Muslims claim the Bible has been corrupted.  
 
-## Answering common objections:
+**Answering common objections:**
 
 ### Objection 1: The Bible Has Been Corrupted
 The Qur’an itself affirms the Torah and Gospel as genuine revelations.

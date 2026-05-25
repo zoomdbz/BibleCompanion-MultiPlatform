@@ -1477,7 +1477,10 @@ fun BookScreen(
   }
 
   val index = remember(book) { book?.let { ChapterLocator.build(it) } }
-  val storyIndex = remember(book) { book?.stories?.mapIndexed { i, s -> s.id to i }?.toMap().orEmpty() }
+  val storyIndex = remember(book) {
+    val introOffset = if (book?.intro?.isNotBlank() == true) 1 else 0
+    book?.stories?.mapIndexed { i, s -> s.id to (i + introOffset) }?.toMap().orEmpty()
+  }
 
   val listState = remember(col, bookId) { LazyListState() }
 
@@ -1574,8 +1577,9 @@ fun BookScreen(
       expandedStoryIds = expandedStoryIds + story.id
     }
 
-    // Scroll to the chapter being read
-    listState.animateScrollToItem(storyIdx)
+    // Scroll to the chapter being read. Add intro offset so LazyColumn index matches.
+    val introOffset = if (book.intro.isNotBlank()) 1 else 0
+    listState.animateScrollToItem(storyIdx + introOffset)
 
     val text = ttsBuildChapterText(story, prefs.appLanguage)
 
@@ -1737,11 +1741,12 @@ fun BookScreen(
     if (book == null) return@LaunchedEffect
     val titlesMap = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
     val title = titlesMap[bookId] ?: book.title
+    val introOffset = if (book.intro.isNotBlank()) 1 else 0
     snapshotFlow { listState.firstVisibleItemIndex }
       .distinctUntilChanged()
       .collectLatest { idx ->
         delay(500)
-        val storyId = book.stories.getOrNull(idx)?.id
+        val storyId = book.stories.getOrNull(idx - introOffset)?.id
         repo.setLastRead(col, bookId, title, storyId)
       }
   }
@@ -4934,50 +4939,54 @@ private fun GenericNotesScreen(
                     contentDescription = null
                   )
                 }
-                AnimatedVisibility(visible = isExpanded) {
+                if (isExpanded) {
                   val subSections = remember(sectionBody) { splitMarkdownSections(sectionBody, "### ") }
                   val hasSubHeadings = subSections.any { it.first != null }
                   if (hasSubHeadings) {
                     Column(Modifier.padding(top = 8.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
-                      for (sub in subSections) {
+                      for ((subIdx, sub) in subSections.withIndex()) {
                         val (subHeader, subBody) = sub
                         if (subHeader != null) {
                           val subKey = "$header/$subHeader"
-                          val subExpanded = subKey in innerExpandedHeaders
-                          Card(
-                            modifier = Modifier.fillMaxWidth(),
-                            shape = RoundedCornerShape(8.dp),
-                            colors = CardDefaults.cardColors(
-                              containerColor = MaterialTheme.colorScheme.surface.copy(alpha = 0.7f)
-                            )
-                          ) {
-                            Column(Modifier.padding(10.dp)) {
-                              Row(
-                                Modifier.fillMaxWidth().clickable {
-                                  innerExpandedHeaders = if (subExpanded) innerExpandedHeaders - subKey else innerExpandedHeaders + subKey
-                                },
-                                verticalAlignment = Alignment.CenterVertically
-                              ) {
-                                Text(
-                                  mdInline(subHeader),
-                                  style = MaterialTheme.typography.titleSmall,
-                                  modifier = Modifier.weight(1f)
-                                )
-                                Icon(
-                                  if (subExpanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
-                                  contentDescription = null,
-                                  modifier = Modifier.size(20.dp)
-                                )
-                              }
-                              AnimatedVisibility(visible = subExpanded) {
-                                Column(Modifier.padding(top = 6.dp)) {
-                                  RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                          key(subKey) {
+                            val subExpanded = subKey in innerExpandedHeaders
+                            Card(
+                              modifier = Modifier.fillMaxWidth(),
+                              shape = RoundedCornerShape(8.dp),
+                              colors = CardDefaults.cardColors(
+                                containerColor = MaterialTheme.colorScheme.surface.copy(alpha = 0.7f)
+                              )
+                            ) {
+                              Column(Modifier.padding(10.dp)) {
+                                Row(
+                                  Modifier.fillMaxWidth().clickable {
+                                    innerExpandedHeaders = if (subExpanded) innerExpandedHeaders - subKey else innerExpandedHeaders + subKey
+                                  },
+                                  verticalAlignment = Alignment.CenterVertically
+                                ) {
+                                  Text(
+                                    mdInline(subHeader),
+                                    style = MaterialTheme.typography.titleSmall,
+                                    modifier = Modifier.weight(1f)
+                                  )
+                                  Icon(
+                                    if (subExpanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                                    contentDescription = null,
+                                    modifier = Modifier.size(20.dp)
+                                  )
+                                }
+                                if (subExpanded) {
+                                  Column(Modifier.padding(top = 6.dp)) {
+                                    RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                                  }
                                 }
                               }
                             }
                           }
                         } else if (subBody.isNotBlank()) {
-                          RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                          key("$header/inline_$subIdx") {
+                            RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                          }
                         }
                       }
                     }

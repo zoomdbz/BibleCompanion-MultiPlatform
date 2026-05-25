@@ -283,7 +283,7 @@ Le Coran honore Jésus (*ʿĪsā*) comme prophète, mais nie sa crucifixion et s
 - Beaucoup de musulmans prétendent que la Bible a été corrompue.
 
 
-## Réponses aux objections courantes :
+**Réponses aux objections courantes :**
 
 ### Objection 1 : La Bible a été corrompue
 Le Coran lui-même affirme que la Torah et l’Évangile sont des révélations authentiques.

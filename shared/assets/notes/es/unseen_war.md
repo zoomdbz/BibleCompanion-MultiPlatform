@@ -282,7 +282,7 @@ El Corán honra a Jesús (*ʿĪsā*) como profeta, pero niega su crucifixión y 
 - Muchos musulmanes afirman que la Biblia fue corrompida.
 
 
-## Respondiendo objeciones comunes
+**Respondiendo objeciones comunes:**
 
 ### Objeción 1: La Biblia fue corrompida
 El Corán mismo afirma que la Torá y el Evangelio fueron revelaciones genuinas.
@@ -720,7 +720,7 @@ Jesús nunca buscó privilegio, sino que vino a servir.
 
 ---
 
-## Contradicciones y omisiones en el Corán
+**Contradicciones y omisiones en el Corán**
 
 ### 1. Cronología de la creación
 **Corán 7:54**: seis días.  

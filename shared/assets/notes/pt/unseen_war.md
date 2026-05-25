@@ -283,7 +283,7 @@ O Alcorão honra Jesus (*ʿĪsā*) como profeta, mas nega sua crucificação e r
 - Muitos muçulmanos afirmam que a Bíblia foi corrompida.
 
 
-## Respondendo a objeções comuns:
+**Respondendo a objeções comuns:**
 
 ### Objeção 1: A Bíblia foi corrompida
 O próprio Alcorão reconhece a Torá e o Evangelho como revelações genuínas.

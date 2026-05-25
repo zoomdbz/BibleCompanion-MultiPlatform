@@ -397,7 +397,8 @@ object ScriptureRefs {
     for (entry in out) {
       val nonFold = entry.keys - entry.foldAsciiOnlyKeys
       for (k in nonFold) {
-        primaryOwnerLower.putIfAbsent(k.lowercase(), entry)
+        val lk = k.lowercase()
+        if (lk !in primaryOwnerLower) primaryOwnerLower[lk] = entry
       }
     }
     for (entry in out) {
