@@ -925,6 +925,8 @@ De qualquer forma, o Islã não escapa do problema. O Islã é falso. Ele precis
 
 **Por que está nesta lista:** O Islã nega a divindade de Cristo, a crucificação de Cristo, a ressurreição de Cristo e a suficiência das Escrituras. Estas são as afirmações centrais do evangelho. Aos muçulmanos que estão lendo: isto não é hostilidade pessoal. Os cristãos que escrevem criticamente sobre o Islã o fazem porque a questão de quem Jesus é importa mais do que delicadezas diplomáticas. Se Jesus é quem afirmou ser (e a evidência histórica apoia de forma esmagadora o testemunho primitivo e ocular de Sua divindade, morte e ressurreição), então o Islã está errado quanto à questão mais importante que um ser humano pode responder. (Atos 4:12).
 
+*Veja também: a seção A guerra invisível para um tratamento mais aprofundado do islã.*
+
 ---
 
 ### Novo Cristianismo da Era de Aquário, Consciência Crística e Reavivamento Gnóstico

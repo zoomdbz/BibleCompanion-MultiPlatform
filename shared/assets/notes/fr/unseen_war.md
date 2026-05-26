@@ -283,9 +283,9 @@ Le Coran honore Jésus (*ʿĪsā*) comme prophète, mais nie sa crucifixion et s
 - Beaucoup de musulmans prétendent que la Bible a été corrompue.
 
 
-**Réponses aux objections courantes :**
+### Réponses aux objections courantes
 
-### Objection 1 : La Bible a été corrompue
+#### Objection 1 : La Bible a été corrompue
 Le Coran lui-même affirme que la Torah et l’Évangile sont des révélations authentiques.
 
 **Coran 5:44 (Sahih International)**
@@ -330,7 +330,7 @@ La Bible affirme sa propre préservation.
 **Contraste :** La tradition manuscrite de la Bible est ancienne, abondante et stable. Le texte du Coran, au contraire, a été standardisé par l’autorité de l’État, avec des indices de matériel manquant et de variantes supprimées.
 
 
-### Objection 2 : Jésus n’était qu’un prophète, pas Dieu.
+#### Objection 2 : Jésus n’était qu’un prophète, pas Dieu.
 
 L’islam respecte Jésus (*ʿĪsā*) comme prophète mais nie sa divinité, sa filiation et sa crucifixion.
 
@@ -366,7 +366,7 @@ La doctrine de la Trinité affirme un seul Dieu en trois Personnes.
 **Résumé :** L’islam honore Jésus comme prophète mais lui retire sa filiation divine, sa crucifixion et son rôle de Sauveur. La Bible l’identifie constamment comme le Fils éternel de Dieu, l’unique chemin du salut.
 
 
-### Objection 3 : Jésus n’est pas mort sur la croix.
+#### Objection 3 : Jésus n’est pas mort sur la croix.
 
 Le Coran nie la crucifixion en **Coran 4:157**, mais l’événement est si bien attesté dans des **sources historiques non chrétiennes et séculières** que même des historiens sceptiques l’acceptent comme un fait.
 
@@ -399,7 +399,7 @@ L’islam enseigne que Jésus n’a pas été crucifié. Mais la Bible et les hi
 Même les historiens qui rejetaient le christianisme reconnaissaient la crucifixion de Jésus comme un fait historique.
 
 
-### *Objection 4 : La Trinité est du polythéisme.*
+#### *Objection 4 : La Trinité est du polythéisme.*
 
 - **(Deutéronome 6:4)** – « L’Éternel, notre Dieu, l’Éternel est un. »
 
@@ -410,7 +410,7 @@ Même les historiens qui rejetaient le christianisme reconnaissaient la crucifix
 La Trinité n’est pas trois dieux, mais un seul Dieu en trois Personnes.
 
 
-### *Objection 5 : « Il n’y a pas de variantes du Coran. Seuls les chiites prétendent cela. L’islam n’a pas changé d’un iota depuis Mahomet. »*
+#### *Objection 5 : « Il n’y a pas de variantes du Coran. Seuls les chiites prétendent cela. L’islam n’a pas changé d’un iota depuis Mahomet. »*
 
 C’est historiquement faux. Les preuves sont accablantes :
 
@@ -431,7 +431,7 @@ Si le Coran n’avait jamais eu de variantes, pourquoi fallait-il brûler ?
 **Comparaison avec la Bible :** Les Manuscrits de la mer Morte (150 av. J.-C.–70 apr. J.-C.) et le Codex de Léningrad (1008 apr. J.-C.) montrent plus de 1 000 ans de préservation fidèle avec seulement des différences mineures d’orthographe. Le Nouveau Testament compte plus de 5 000 manuscrits grecs ; aucune doctrine n’est perdue. Le Coran possède moins de manuscrits, une normalisation délibérée, et des versets manquants admis.
 
 
-### *Objection 6 : « On ne peut pas simplement lire le Coran. Il faut des hadiths et des savants pour le contexte. »*
+#### *Objection 6 : « On ne peut pas simplement lire le Coran. Il faut des hadiths et des savants pour le contexte. »*
 
 Cela crée un piège : cela suppose que le Coran n’est pas suffisant en lui-même, alors même qu’il prétend être une guidance claire.
 
@@ -452,7 +452,7 @@ La Bible, en revanche, affirme sa suffisance et sa clarté :
 > « Toute Écriture est inspirée de Dieu, et utile pour enseigner, pour convaincre, pour corriger, pour instruire dans la justice, afin que l’homme de Dieu soit accompli et propre à toute bonne œuvre. »
 
 
-### *Objection 7 : « L’histoire est partiale. Jésus a été crucifié, mais nous croyons qu’il n’est pas mort ; il est monté au ciel. »*
+#### *Objection 7 : « L’histoire est partiale. Jésus a été crucifié, mais nous croyons qu’il n’est pas mort ; il est monté au ciel. »*
 
 Cette objection s’effondre à la fois devant l’Écriture et l’histoire séculière :
 
@@ -520,11 +520,11 @@ L’Évangile proclame le salut comme un don de grâce par la foi en Christ, non
 **Point clé :** L’islam enseigne le salut par la Loi et les œuvres ; la Bible montre que la Loi condamne tous mais renvoie au Christ, qui seul l’a parfaitement accomplie. Le salut n’est que par la grâce, au moyen de la foi en Jésus.
 
 
-**La conduite de Mahomet mesurée à la Loi de Moïse**
+### La conduite de Mahomet mesurée à la Loi de Moïse
 
 La Torah a donné des lois claires sur le plan sexuel, relationnel et moral. Mesurée à ces lois, la conduite de Mahomet est déficiente.
 
-### 1. Mariage d’enfant (Aïcha)
+#### 1. Mariage d’enfant (Aïcha)
 Mahomet épousa Aïcha à six ans et consomma le mariage à neuf ans (Sahih al-Bukhari 5133, 5134).
 
 La Loi de Moïse interdit l’exploitation sexuelle des enfants et la tient pour une perversité.
@@ -534,7 +534,7 @@ La Loi de Moïse interdit l’exploitation sexuelle des enfants et la tient pour
 
 Les enfants ne peuvent consentir ; consommer un mariage avec une enfant relève donc de l’exploitation et de la contrainte.
 
-### 2. Polygamie au-delà des limites
+#### 2. Polygamie au-delà des limites
 **Coran 4:3 (Sahih International)**
 > « Épousez, parmi les femmes qui vous plaisent, deux, trois ou quatre. Mais si vous craignez de n’être pas équitables, une seule… »
 
@@ -543,7 +543,7 @@ Mahomet prit cependant plus de quatre épouses, dépassant la norme coranique el
 **(Deutéronome 17:17)**
 > « Qu’il n’ait pas un grand nombre de femmes, afin que son cœur ne se détourne point ; et qu’il ne fasse pas de grandes amasses d’argent et d’or. »
 
-### 3. Mariage avec la femme d’un fils adopté
+#### 3. Mariage avec la femme d’un fils adopté
 **Coran 33:37 (Sahih International)**
 > « Quand Zayd eut cessé toute relation avec elle, Nous te la fîmes épouser, afin qu’il n’y ait pas de gêne pour les croyants à propos des femmes de leurs fils adoptifs… »
 
@@ -552,7 +552,7 @@ La Loi de Moïse interdit une telle union.
 **(Lévitique 18:15)**
 > « Tu ne découvriras point la nudité de ta belle-fille : c’est la femme de ton fils. »
 
-### 4. Violence et conversions forcées
+#### 4. Violence et conversions forcées
 **Coran 9:5 (Sahih International)**
 > « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez ; capturez-les, assiégez-les… Mais s’ils se repentent, accomplissent la prière et acquittent l’aumône légale, laissez-leur la voie libre. »
 
@@ -564,7 +564,7 @@ Par contraste, la Loi de Moïse condamne le meurtre, et Jésus rejette la violen
 **(Matthieu 26:52)**
 > « Remets ton épée à sa place ; car tous ceux qui prendront l’épée périront par l’épée. »
 
-### 5. Négation du Christ
+#### 5. Négation du Christ
 Le Coran nie la filiation et la crucifixion de Jésus.
 
 **Coran 4:171 (Sahih International)**
@@ -590,7 +590,7 @@ La Bible enseigne l’inverse : Jésus est le Fils éternel de Dieu, crucifié e
 **(1 Corinthiens 15:3–4)**
 > « Christ est mort pour nos péchés, selon les Écritures ; il a été enseveli, et il est ressuscité le troisième jour, selon les Écritures. »
 
-### 6. Esclavage et Viol
+#### 6. Esclavage et Viol
 
 De multiples sources islamiques rapportent que Mahomet possédait des esclaves et permettait le viol de captives féminines.
 
@@ -635,11 +635,11 @@ Par contraste, Mahomet a permis le viol de captives sans ces protections. La Tor
 
 ---
 
-**Privilèges personnels de Mahomet (Sourate 33)**
+### Privilèges personnels de Mahomet (Sourate 33)
 
 La Sourate 33 accorde à Mahomet des exemptions et des privilèges uniques.
 
-### Épouses et concubines illimitées
+#### Épouses et concubines illimitées
 **Coran 33:50 (Sahih International)**
 > « Ô Prophète ! Nous t’avons rendues licites tes épouses auxquelles tu as donné leur dot… et toute femme croyante si elle fait don de sa personne au Prophète… exclusivement pour toi et non pour les croyants. »
 
@@ -650,13 +650,13 @@ La Torah interdit de multiplier les femmes.
 **(Deutéronome 17:17)**
 > « Qu’il n’ait pas un grand nombre de femmes… »
 
-### Restrictions exclusives
+#### Restrictions exclusives
 **Coran 33:52 (Sahih International)**
 > « Il ne t’est pas permis [ô Mahomet] de prendre d’autres femmes… même si leur beauté te séduit, à l’exception de celles que possède ta main droite. »
 
 Cela montre des règles créées uniquement pour la situation conjugale de Mahomet.
 
-### Révélation d’étiquette de table
+#### Révélation d’étiquette de table
 **Coran 33:53 (Sahih International)**
 > « Ô vous qui croyez ! N’entrez pas dans les maisons du Prophète pour un repas avant qu’il ne soit prêt… Quand vous avez mangé, dispersez-vous sans vous attarder à la conversation. Cela importunait le Prophète, et il avait honte de vous le dire ; mais Allah ne craint pas de dire la vérité… »
 
@@ -667,7 +667,7 @@ On élève ainsi un désagrément personnel de Mahomet au rang de loi, en le dé
 
 L’incohérence est frappante : « trop pudique » pour renvoyer des invités, mais pas trop pour se vanter d’avoir couché avec neuf femmes en une nuit.
 
-### Contraste avec le Christ
+#### Contraste avec le Christ
 
 - Jésus n’a jamais recherché des privilèges, mais il est venu pour servir.
 
@@ -675,11 +675,11 @@ L’incohérence est frappante : « trop pudique » pour renvoyer des invités, 
 > « Le Fils de l’homme est venu, non pour être servi, mais pour servir et donner sa vie comme la rançon de beaucoup. »
 
 
-**Contradictions et omissions dans le Coran**
+### Contradictions et omissions dans le Coran
 
 L’islam enseigne que le Coran est parfait et sans contradiction. Pourtant, dans le texte et la tradition islamique, on observe des conflits et des lacunes.
 
-### 1. Chronologie de la création
+#### 1. Chronologie de la création
 **Coran 7:54 (Sahih International)**
 > « Votre Seigneur est Allah qui a créé les cieux et la terre en six jours… »
 
@@ -689,7 +689,7 @@ L’islam enseigne que le Coran est parfait et sans contradiction. Pourtant, dan
 
 Pris ensemble, cela décrit huit jours, non six. La Bible est cohérente : Dieu créa en six jours et se reposa le septième (Genèse 1:31–2:2).
 
-### 2. Vin : bénédiction ou souillure ?
+#### 2. Vin : bénédiction ou souillure ?
 **Coran 16:67 (Sahih International)**
 > « Et des fruits des palmiers et des vignes, vous retirez des boissons enivrantes et une bonne subsistance… »
 
@@ -698,7 +698,7 @@ Pris ensemble, cela décrit huit jours, non six. La Bible est cohérente : Dieu 
 
 L’enseignement change avec le temps. La Bible condamne constamment l’ivresse tout en permettant le vin avec modération (Psaume 104:15 ; Éphésiens 5:18).
 
-### 3. Violence vs paix
+#### 3. Violence vs paix
 **Coran 2:256 (Sahih International)**
 > « Nulle contrainte en religion… »
 
@@ -713,7 +713,7 @@ Le verset pacifique est ancien ; le verset violent est postérieur et considér�
 **(Matthieu 5:44)**
 > « Aimez vos ennemis, bénissez ceux qui vous maudissent… »
 
-### 4. Destin vs libre arbitre
+#### 4. Destin vs libre arbitre
 **Coran 18:29 (Sahih International)**
 > « Que celui qui veut croie, et que celui qui veut mécroie. »
 
@@ -722,7 +722,7 @@ Le verset pacifique est ancien ; le verset violent est postérieur et considér�
 
 Le Coran affirme le libre arbitre en un endroit et le nie ailleurs. La Bible équilibre la souveraineté de Dieu et la responsabilité humaine (Romains 9:19–21 ; Josué 24:15).
 
-### 5. Mort de Jésus
+#### 5. Mort de Jésus
 **Coran 4:157 (Sahih International)**
 > « Ils ne l’ont ni tué ni crucifié… »
 
@@ -743,7 +743,7 @@ Le Coran nie et affirme la mort de Jésus dans des passages différents. La Bibl
 
 - **Mara bar-Serapion** : parle des Juifs ayant exécuté leur « roi sage ».
 
-### 6. Versets manquants
+#### 6. Versets manquants
 Les sources islamiques elles-mêmes rapportent des versets perdus :
 - Le « verset de la lapidation » ordonnant la lapidation pour adultère (Sunan Ibn Mâjah 1944).
 
@@ -756,7 +756,7 @@ Les sources islamiques elles-mêmes rapportent des versets perdus :
 La Bible, en revanche, possède des milliers de manuscrits sur des siècles, permettant une reconstitution hautement fiable. Des variations mineures existent, mais aucune doctrine n’est perdue.
 
 
-### Conclusion
+#### Conclusion
 
 L’islam proclame un Dieu unique et vénère Jésus comme prophète. Mais il nie sa filiation, sa crucifixion et sa résurrection. Le Coran contient des contradictions et des versets manquants, tandis que la Bible est constamment préservée et soutenue historiquement.
 

@@ -1,0 +1,15 @@
+# The Bar, the Bill, and the Gift
+
+Gospel is an old word that means good news. Start with the bad news, because the good news makes no sense without it.
+
+God keeps one standard, and the standard is perfect. Not "did your best." Not "more good days than bad." Perfect. James put it where nobody can dodge it: "whoever shall keep the whole law, and yet stumble in one point, he is guilty of all" (James 2:10). Read that twice. One slip drops you in the same room as the person who broke every rule on the books. Pass or fail, the passing score is one hundred, and the score does not curve. Being good enough was never the test; nobody passes it anyway, not you, not me, not the saint two pews over.
+
+Now the bill. Paul names the price in seven words: "the wages of sin is death" (Romans 6:23). A wage is something you earn, and this is the paycheck sin cuts. It comes due, and it does not bounce. That is the hole every one of us stands in, and we cannot climb out, because the same hands that dug it cannot fill it.
+
+Then the turn. The rest of that same verse swings the door open: "the gift of God is eternal life in Christ Jesus our Lord" (Romans 6:23). Watch the two words sitting side by side. Wage and gift. One you earn, one you never could. You do not buy your way out of the hole with church attendance or by being kinder than your neighbor. Paul shuts that door too: "by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast" (Ephesians 2:8-9). Grace means a gift you never earned and could never afford. Faith means you trust the one handing it over. Jesus already paid the bill from the paragraph above, in full, which leaves you nothing to brag about and nothing left to pay.
+
+Here is where people try to get cute. If the gift is free, the clever move is to keep sinning and let grace keep covering the tab. Paul saw that coming: "Shall we continue in sin that grace may abound? Certainly not. How shall we who died to sin live any longer in it?" (Romans 6:1-2). The gift is not a hall pass. You walked out of that house; you do not move back in and call it home. Grace changes who you are, not just what your record says.
+
+Then comes your part, and it costs one honest move. "If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved" (Romans 10:9). Lord means the one who runs your life now, hands on the wheel. Believe means you stake everything on a tomb that came up empty. Repent means you turn around, walk the other way, and mean it.
+
+The bar you cannot clear. The bill you cannot pay. The gift you cannot earn. The life you cannot fake. The door you can walk through. That is the whole thing, and it has always been this short.

@@ -58,6 +58,7 @@
     <string name="about_free_text">Бесплатно, без рекламы и монетизации. Вся слава Богу.</string>
     <!-- values-ru/strings.xml (Russian) -->
     <string name="jesus_divinity">Божественность Иисуса</string>
+    <string name="gospel">Евангелие</string>
     <string name="dc_not_available_title">В «%1$s» нет второканонических книг</string>
     <string name="dc_not_available_body">Эта глава недоступна в %1$s. Переключиться на %2$s для второканонических книг?</string>
     <string name="dc_swap">Переключить</string>

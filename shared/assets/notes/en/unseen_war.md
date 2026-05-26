@@ -283,9 +283,9 @@ The Qur’an honors Jesus (*ʿĪsā*) as a prophet, but denies His crucifixion a
  
 - Many Muslims claim the Bible has been corrupted.  
 
-**Answering common objections:**
+### Answering common objections
 
-### Objection 1: The Bible Has Been Corrupted
+#### Objection 1: The Bible Has Been Corrupted
 The Qur’an itself affirms the Torah and Gospel as genuine revelations.
 
 **Qur’an 5:44 (Sahih International)**
@@ -328,7 +328,7 @@ The Bible affirms its own preservation.
 
 **Contrast:** The Bible’s manuscript tradition is early, abundant, and stable. The Qur’an’s text, by contrast, was standardized through state enforcement, with evidence of missing material and suppressed variants.
 
-### Objection 2: Jesus was only a prophet, not God.
+#### Objection 2: Jesus was only a prophet, not God.
 
 Islam respects Jesus (ʿIsa) as a prophet but denies His divinity, Sonship, and crucifixion.
 
@@ -364,7 +364,7 @@ The doctrine of the Trinity affirms one God in three Persons.
 **Summary:** Islam honors Jesus as a prophet but strips Him of His divine Sonship, crucifixion, and role as Savior. The Bible consistently identifies Him as God’s eternal Son, the only way of salvation.
 
 
-### Objection 3: Jesus did not die on the cross.*
+#### Objection 3: Jesus did not die on the cross.*
 
 The Qur’an denies the crucifixion in **Qur’an 4:157**, but the event is so well-attested in **non-Christian, secular historical sources** that even skeptical historians accept it as fact.
 
@@ -397,7 +397,7 @@ Islam teaches that Jesus was not crucified. But both the Bible and secular histo
 Even historians who rejected Christianity acknowledged Jesus’ crucifixion as a historical fact.
 
 
-### *Objection 4: The Trinity is polytheism.*
+#### *Objection 4: The Trinity is polytheism.*
 
   - **(Deuteronomy 6:4)** – “Hear, O Israel: The LORD our God, the LORD is one.”  
   
@@ -407,7 +407,7 @@ Even historians who rejected Christianity acknowledged Jesus’ crucifixion as a
   
 The Trinity is not three gods, but one God in three Persons.  
 
-### *Objection 5: “There are no variants of the Qur’an. Only Shias claim that. Islam has not changed 1 bit since Muhammad.”*
+#### *Objection 5: “There are no variants of the Qur’an. Only Shias claim that. Islam has not changed 1 bit since Muhammad.”*
 
 This is historically false. The evidence is overwhelming:
 
@@ -428,7 +428,7 @@ If the Qur’an never had variants, why was burning necessary?
 **Bible comparison:** The Dead Sea Scrolls (150 BC–70 AD) and Codex Leningrad (1008 AD) show over 1,000 years of faithful preservation with only minor spelling differences. The New Testament has 5,000+ Greek manuscripts; no doctrine is lost. The Qur’an has fewer manuscripts, deliberate standardization, and admitted missing verses.
 
 
-### *Objection 6: “You can’t just read the Qur’an. You need Hadiths and scholars for context.”*
+#### *Objection 6: “You can’t just read the Qur’an. You need Hadiths and scholars for context.”*
 
 This creates a trap: it means the Qur’an is not sufficient by itself, despite it claiming to be clear guidance.
 
@@ -449,7 +449,7 @@ The Bible, by contrast, affirms sufficiency and clarity:
 > “All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.”
 
 
-### *Objection 7: “History is biased. Jesus was crucified, but we believe he didn’t die; he went to heaven.”*
+#### *Objection 7: “History is biased. Jesus was crucified, but we believe he didn’t die; he went to heaven.”*
 
 This objection collapses under both Scripture and secular history:
 
@@ -517,11 +517,11 @@ The gospel proclaims salvation as a gift of grace through faith in Christ, not b
 **Key Point:** Islam teaches salvation by Law and deeds; the Bible shows the Law condemns all but points to Christ, who alone kept it perfectly. Salvation is only by grace through faith in Jesus.
 
 
-**The Conduct of Muhammad Measured Against the Law of Moses**
+### The Conduct of Muhammad Measured Against the Law of Moses
 
 The Torah gave clear sexual, relational, and moral laws. When Muhammad’s conduct is measured against them, it falls short.
 
-### 1. Child Marriage (Aisha)
+#### 1. Child Marriage (Aisha)
 Muhammad married Aisha at six and consummated the marriage at nine (Sahih al-Bukhari 5133, 5134).
 
 The Law of Moses forbids sexual exploitation of children, treating it as wickedness.
@@ -531,7 +531,7 @@ The Law of Moses forbids sexual exploitation of children, treating it as wickedn
 
 Children cannot consent, so consummating marriage with a child falls under exploitation and coercion.
 
-### 2. Polygamy Beyond Limits
+#### 2. Polygamy Beyond Limits
 **Qur’an 4:3 (Sahih International)**
 > “And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hand possesses. That is more suitable that you may not incline [to injustice].”
 
@@ -540,7 +540,7 @@ Muhammad, however, took more than four wives, exceeding the Qur’an’s own sta
 **(Deuteronomy 17:17)**
 > “And he shall not acquire many wives for himself, lest his heart turn away, nor shall he acquire for himself excessive silver and gold.”
 
-### 3. Marriage to an Adopted Son’s Wife
+#### 3. Marriage to an Adopted Son’s Wife
 **Qur’an 33:37 (Sahih International)**
 > “And [remember, O Muhammad], when you said to the one on whom Allah bestowed favor and you bestowed favor, ‘Keep your wife and fear Allah,’ while you concealed within yourself that which Allah is to disclose. And you feared the people, while Allah has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort concerning the wives of their adopted sons when they no longer have need of them. And ever is the command of Allah accomplished.”
 
@@ -549,7 +549,7 @@ The Law of Moses forbids such unions.
 **(Leviticus 18:15)**
 > “You shall not uncover the nakedness of your daughter-in-law; she is your son’s wife, you shall not uncover her nakedness.”
 
-### 4. Violence and Forced Conversions
+#### 4. Violence and Forced Conversions
 **Qur’an 9:5 (Sahih International)**
 > “And when the sacred months have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush. But if they should repent, establish prayer, and give zakah, let them [go] on their way. Indeed, Allah is Forgiving and Merciful.”
 
@@ -561,7 +561,7 @@ By contrast, the Law of Moses condemns murder, and Jesus rejected violence for f
 **(Matthew 26:52)**
 > “Then Jesus said to him, ‘Put your sword back into its place. For all who take the sword will perish by the sword.’”
 
-### 5. Denial of Christ
+#### 5. Denial of Christ
 The Qur’an denies the Sonship and crucifixion of Jesus.
 
 **Qur’an 4:171 (Sahih International)**
@@ -587,7 +587,7 @@ The Bible teaches the opposite: that Jesus is the eternal Son of God, crucified 
 **(1 Corinthians 15:3–4)**
 > “For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures.”
 
-### 6. Slavery and Rape
+#### 6. Slavery and Rape
 
 Multiple Islamic sources record Muhammad as owning slaves and permitting the rape of female captives.
 
@@ -632,11 +632,11 @@ By contrast, Muhammad permitted rape of captives without these protections. The 
 
 ---
 
-**Muhammad’s Personal Privileges (Surah 33)**
+### Muhammad’s Personal Privileges (Surah 33)
 
 Surah 33 grants Muhammad unique exemptions and privileges.
 
-### Unlimited Wives and Concubines
+#### Unlimited Wives and Concubines
 **Qur’an 33:50 (Sahih International)**
 > “O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her, [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, but [this is for you] in order that there will be upon you no discomfort. And ever is Allah Forgiving and Merciful.”
 
@@ -647,13 +647,13 @@ The Torah forbids multiplying wives.
 **(Deuteronomy 17:17)**
 > “And he shall not acquire many wives for himself, lest his heart turn away, nor shall he acquire for himself excessive silver and gold.”
 
-### Exclusive Restrictions
+#### Exclusive Restrictions
 **Qur’an 33:52 (Sahih International)**
 > “Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty impresses you, except what your right hand possesses. And ever is Allah, over all things, an Observer.”
 
 This shows rules created uniquely for Muhammad’s marriage situation.
 
-### Dining Etiquette Revelation
+#### Dining Etiquette Revelation
 **Qur’an 33:53 (Sahih International)**
 > “O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allah is not shy of the truth…”
 
@@ -664,18 +664,18 @@ This elevates Muhammad’s personal discomfort into law, described as him being 
 
 The inconsistency is striking: “too shy” to tell guests to leave, but not too shy to boast of sleeping with nine women in one night.
 
-### Contrast with Christ
+#### Contrast with Christ
 
 - Jesus never sought privilege but came to serve.
 
 **(Matthew 20:28)**
 > “Even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
 
-**Contradictions and Omissions in the Qur’an**
+### Contradictions and Omissions in the Qur’an
 
 Islam teaches that the Qur’an is perfect and without contradiction. However, even within the text and Islamic tradition, we see conflicts and missing material.
 
-### 1. Creation Timeline
+#### 1. Creation Timeline
 **Qur’an 7:54 (Sahih International)**
 > "Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne."
 
@@ -684,7 +684,7 @@ Islam teaches that the Qur’an is perfect and without contradiction. However, e
 
 Taken together, Surah 41 describes eight days, not six. The Bible is consistent: God created in six days and rested on the seventh (Genesis 1:31–2:2).
 
-### 2. Wine: Blessed or Cursed?
+#### 2. Wine: Blessed or Cursed?
 **Qur’an 16:67 (Sahih International)**
 > "And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason."
 
@@ -693,7 +693,7 @@ Taken together, Surah 41 describes eight days, not six. The Bible is consistent:
 
 The teaching changes over time. The Bible consistently condemns drunkenness while allowing wine in moderation (Psalm 104:15; Ephesians 5:18).
 
-### 3. Violence vs. Peace
+#### 3. Violence vs. Peace
 **Qur’an 2:256 (Sahih International)**
 > "There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing.”
 
@@ -709,7 +709,7 @@ The peaceful verse is early; the violent verse is later and considered by Muslim
 **(Matthew 5:44)**
 > "But I say to you, Love your enemies and pray for those who persecute you."
 
-### 4. Fate vs. Free Will
+#### 4. Fate vs. Free Will
 **Qur’an 18:29 (Sahih International)**
 > "And say, 'The truth is from your Lord, so whoever wills – let him believe; and whoever wills – let him disbelieve.'"
 
@@ -718,7 +718,7 @@ The peaceful verse is early; the violent verse is later and considered by Muslim
 
 The Qur’an affirms free will in one place and denies it in another. The Bible balances God’s sovereignty with human responsibility (Romans 9:19–21; Joshua 24:15).
 
-### 5. Jesus’ Death
+#### 5. Jesus’ Death
 **Qur’an 4:157 (Sahih International)**
 > "And [for] their saying, 'Indeed, we have killed the Messiah, Jesus, the son of Mary, the messenger of Allah.' And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them…"
 
@@ -739,7 +739,7 @@ The Qur’an denies and affirms Jesus’ death in different passages. The Bible 
 
 - **Mara bar-Serapion**: wrote of the Jews executing their “wise king.”
 
-### 6. Missing Verses
+#### 6. Missing Verses
 Islamic sources themselves record lost verses:
 - The “verse of stoning” once commanded stoning for adultery (Sunan Ibn Majah 1944).
 
@@ -751,7 +751,7 @@ Islamic sources themselves record lost verses:
 
 The Bible, by contrast, has thousands of manuscripts across centuries that allow reconstruction with high confidence. Minor variations exist, but no doctrines are lost.
 
-### Conclusion
+#### Conclusion
 
 Islam proclaims one God and reveres Jesus as a prophet. But it denies His Sonship, crucifixion, and resurrection. The Qur’an contains contradictions and missing verses, while the Bible is consistently preserved and historically supported.
 

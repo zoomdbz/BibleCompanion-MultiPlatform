@@ -58,6 +58,7 @@
     <string name="about_free_text"><![CDATA[مجاني بلا إعلانات أو ربح. كل المجد لله.]]></string>
     <!-- values-ar/strings.xml (Arabic) -->
     <string name="jesus_divinity">ألوهية يسوع</string>
+    <string name="gospel">الإنجيل</string>
     <string name="dc_not_available_title">الأسفار القانونية الثانية غير موجودة في “%1$s”</string>
     <string name="dc_not_available_body">هذا الإصحاح غير متوفر في %1$s. هل تريد التبديل إلى %2$s للأسفار القانونية الثانية؟</string>
     <string name="dc_swap">تبديل</string>

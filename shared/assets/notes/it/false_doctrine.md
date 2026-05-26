@@ -925,6 +925,8 @@ In ogni caso, l'Islam non può sfuggire al problema. L'Islam è falso. Deve o fi
 
 **Perché è in questo elenco:** L'Islam nega la divinità di Cristo, la crocifissione di Cristo, la risurrezione di Cristo e la sufficienza della Scrittura. Queste sono le affermazioni centrali del vangelo. Ai musulmani che leggono: questo non è ostilità personale. I cristiani che scrivono criticamente dell'Islam lo fanno perché la questione di chi sia Gesù conta più delle convenienze diplomatiche. Se Gesù è chi affermava di essere (e le prove storiche supportano in modo schiacciante la testimonianza precoce e oculare della sua divinità, morte e risurrezione), allora l'Islam sbaglia sulla domanda più importante che un essere umano possa affrontare. (Atti 4:12).
 
+*Vedi anche: la sezione La guerra invisibile per un'analisi più approfondita dell'islam.*
+
 ---
 
 ### Nuovo Cristianesimo New Age, Cristo Coscienza e Rinascita Gnostica

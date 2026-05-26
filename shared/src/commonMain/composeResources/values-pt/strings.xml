@@ -58,6 +58,7 @@
     <string name="about_free_text">Gratuito, sem anúncios nem monetização. Toda a glória a Deus.</string>
     <!-- values-pt/strings.xml (Portuguese) -->
     <string name="jesus_divinity">A divindade de Jesus</string>
+    <string name="gospel">O Evangelho</string>
     <string name="dc_not_available_title">Deuterocanônico não em “%1$s”</string>
     <string name="dc_not_available_body">Este capítulo não está disponível em %1$s. Deseja mudar para %2$s para os deuterocanônicos?</string>
     <string name="dc_swap">Mudar</string>

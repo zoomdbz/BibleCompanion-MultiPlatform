@@ -58,6 +58,7 @@
     <string name="about_free_text">免費，無廣告、無商業化。榮耀歸於上帝。</string>
     <!-- values-zh-rTW/strings.xml (Chinese – Traditional) -->
     <string name="jesus_divinity">耶穌的神性</string>
+    <string name="gospel">福音</string>
     <string name="dc_not_available_title">「%1$s」中沒有次經</string>
     <string name="dc_not_available_body">%1$s 中此章不可用。是否切換到 %2$s 以查看次經？</string>
     <string name="dc_swap">切換</string>

@@ -23,6 +23,7 @@
     <string name="faqs">FAQs</string>
     <!-- values/strings.xml (English) -->
     <string name="jesus_divinity">The Divinity of Jesus</string>
+    <string name="gospel">The Gospel</string>
     <string name="dc_not_available_title">Deuterocanon not in “%1$s”</string>
     <string name="dc_not_available_body">This chapter is not available in %1$s. Swap to %2$s for Deuterocanon?</string>
     <string name="dc_swap">Swap</string>

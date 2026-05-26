@@ -290,9 +290,9 @@ Der Koran ehrt Jesus (*ʿĪsā*) als Propheten, leugnet jedoch seine Kreuzigung 
 - Viele Muslime behaupten, die Bibel sei verfälscht worden.
 
 
-**Antworten auf häufige Einwände:**
+### Antworten auf häufige Einwände
 
-### Einwand 1: Die Bibel wurde verfälscht
+#### Einwand 1: Die Bibel wurde verfälscht
 Der Koran selbst bekräftigt die Tora und das Evangelium als echte Offenbarungen.
 
 **Koran 5:44 (Sahih International)**
@@ -337,7 +337,7 @@ Die Bibel bezeugt ihre eigene Bewahrung.
 **Kontrast:** Die Handschriftentradition der Bibel ist früh, reichhaltig und stabil. Der Korantext hingegen wurde staatlich vereinheitlicht; es gibt Hinweise auf fehlendes Material und unterdrückte Varianten.
 
 
-### Einwand 2: Jesus war nur ein Prophet, nicht Gott.
+#### Einwand 2: Jesus war nur ein Prophet, nicht Gott.
 
 Der Islam achtet Jesus (*ʿĪsā*) als Propheten, leugnet jedoch seine Göttlichkeit, seine Gottessohnschaft und seine Kreuzigung.
 
@@ -373,7 +373,7 @@ Die Lehre von der Dreieinigkeit bekennt einen Gott in drei Personen.
 **Zusammenfassung:** Der Islam ehrt Jesus als Propheten, nimmt ihm aber seine göttliche Sohnschaft, seine Kreuzigung und seine Rolle als Retter. Die Bibel bekennt ihn beständig als den ewigen Sohn Gottes – den einzigen Weg zum Heil.
 
 
-### Einwand 3: Jesus starb nicht am Kreuz.
+#### Einwand 3: Jesus starb nicht am Kreuz.
 
 Der Koran bestreitet die Kreuzigung in **Koran 4:157**, doch das Ereignis ist in **nichtchristlichen, weltlichen historischen Quellen** so gut bezeugt, dass selbst skeptische Historiker es als Fakt anerkennen.
 
@@ -406,7 +406,7 @@ Der Islam lehrt, Jesus sei nicht gekreuzigt worden. Doch sowohl die Bibel als au
 Selbst Historiker, die das Christentum ablehnten, erkannten Jesu Kreuzigung als historische Tatsache an.
 
 
-### *Einwand 4: Die Dreieinigkeit ist Polytheismus.*
+#### *Einwand 4: Die Dreieinigkeit ist Polytheismus.*
 
 - **(Deuteronomium 6:4)** – „Höre, Israel: Der HERR, unser Gott, der HERR ist einer.“
 
@@ -417,7 +417,7 @@ Selbst Historiker, die das Christentum ablehnten, erkannten Jesu Kreuzigung als 
 Die Dreieinigkeit sind nicht drei Götter, sondern ein Gott in drei Personen.
 
 
-### *Einwand 5: „Es gibt keine Varianten des Korans. Nur Schiiten behaupten das. Der Islam hat sich seit Mohammed kein bisschen verändert.“*
+#### *Einwand 5: „Es gibt keine Varianten des Korans. Nur Schiiten behaupten das. Der Islam hat sich seit Mohammed kein bisschen verändert.“*
 
 Das ist historisch falsch. Die Belege sind überwältigend:
 
@@ -438,7 +438,7 @@ Wenn es nie Varianten des Korans gab, warum war das Verbrennen nötig?
 **Bibel-Vergleich:** Die Schriftrollen vom Toten Meer (150 v. Chr.–70 n. Chr.) und der Codex Leningradensis (1008 n. Chr.) zeigen über 1.000 Jahre treuer Bewahrung mit nur kleineren Schreibvarianten. Das Neue Testament besitzt 5.000+ griechische Handschriften; keine Lehre geht verloren. Der Koran hat weniger Handschriften, eine gezielte Standardisierung und zugegebene fehlende Verse.
 
 
-### *Einwand 6: „Man kann den Koran nicht einfach lesen. Man braucht Hadithe und Gelehrte für den Kontext.“*
+#### *Einwand 6: „Man kann den Koran nicht einfach lesen. Man braucht Hadithe und Gelehrte für den Kontext.“*
 
 Das erzeugt eine Falle: Es bedeutet, der Koran sei aus sich heraus nicht ausreichend, obwohl er behauptet, klare Rechtleitung zu sein.
 
@@ -459,7 +459,7 @@ Die Bibel bekräftigt demgegenüber Genügsamkeit und Klarheit:
 > „Alle Schrift ist von Gott eingegeben und nützlich zur Lehre, zur Überführung, zur Zurechtweisung, zur Unterweisung in der Gerechtigkeit, damit der Mensch Gottes richtig sei, zu jedem guten Werk ausgerüstet.“
 
 
-### *Einwand 7: „Geschichte ist voreingenommen. Jesus wurde zwar gekreuzigt, aber wir glauben, er starb nicht; er ging in den Himmel.“*
+#### *Einwand 7: „Geschichte ist voreingenommen. Jesus wurde zwar gekreuzigt, aber wir glauben, er starb nicht; er ging in den Himmel.“*
 
 Dieser Einwand bricht sowohl unter der Schrift als auch unter der weltlichen Geschichte zusammen:
 
@@ -527,11 +527,11 @@ Das Evangelium verkündet die Rettung als Geschenk der Gnade durch den Glauben a
 **Kernaussage:** Der Islam lehrt Rettung durch Gesetz und Werke; die Bibel zeigt, dass das Gesetz alle verurteilt, aber auf Christus weist, der allein es vollkommen hielt. Rettung gibt es nur aus Gnade durch den Glauben an Jesus.
 
 
-**Das Verhalten Mohammeds gemessen am Gesetz des Mose**
+### Das Verhalten Mohammeds gemessen am Gesetz des Mose
 
 Die Tora gab klare sexuelle, zwischenmenschliche und moralische Gebote. An ihnen gemessen, verfehlt sich Mohammeds Verhalten.
 
-### 1. Kinderehe (Aischa)
+#### 1. Kinderehe (Aischa)
 Mohammed heiratete Aischa mit sechs Jahren und vollzog die Ehe mit neun (Sahih al-Buchārī 5133, 5134).
 
 Das mosaische Gesetz verbietet die sexuelle Ausbeutung von Kindern und verurteilt sie als Bosheit.
@@ -541,7 +541,7 @@ Das mosaische Gesetz verbietet die sexuelle Ausbeutung von Kindern und verurteil
 
 Kinder können nicht einwilligen; daher fällt der Vollzug der Ehe mit einem Kind unter Ausbeutung und Nötigung.
 
-### 2. Polygamie über das Maß hinaus
+#### 2. Polygamie über das Maß hinaus
 **Koran 4:3 (Sahih International)**
 > „… dann heiratet, was euch an Frauen gut erscheint, zwei, drei oder vier. Wenn ihr aber fürchtet, nicht gerecht zu sein, dann (nur) eine …“
 
@@ -550,7 +550,7 @@ Mohammed nahm jedoch mehr als vier Frauen und überschritt damit sowohl den eige
 **(Deuteronomium 17:17)**
 > „Auch soll er sich nicht viele Frauen nehmen, damit sein Herz nicht abgelenkt werde; und Silber und Gold soll er sich nicht sehr mehren.“
 
-### 3. Ehe mit der Frau des Adoptivsohnes
+#### 3. Ehe mit der Frau des Adoptivsohnes
 **Koran 33:37 (Sahih International)**
 > „… Als aber Zaid kein Bedürfnis mehr nach ihr hatte, gaben Wir sie dir zur Frau, damit für die Gläubigen kein Bedenken entstehe in Bezug auf die Frauen ihrer Adoptivsöhne …“
 
@@ -559,7 +559,7 @@ Das Gesetz des Mose verbietet solche Verbindungen.
 **(3. Mose 18:15)**
 > „Die Blöße deiner Schwiegertochter sollst du nicht aufdecken; sie ist die Frau deines Sohnes.“
 
-### 4. Gewalt und Zwangsbekehrungen
+#### 4. Gewalt und Zwangsbekehrungen
 **Koran 9:5 (Sahih International)**
 > „Wenn dann die heiligen Monate abgelaufen sind, tötet die Götzendiener, wo immer ihr sie findet …“
 
@@ -571,7 +571,7 @@ Im Gegensatz dazu verurteilt das mosaische Gesetz Mord, und Jesus lehnte Gewalt 
 **(Matthäus 26:52)**
 > „Steck dein Schwert an seinen Platz; denn alle, die zum Schwert greifen, werden durch das Schwert umkommen.“
 
-### 5. Verleugnung Christi
+#### 5. Verleugnung Christi
 Der Koran leugnet die Sohnschaft und die Kreuzigung Jesu.
 
 **Koran 4:171 (Sahih International)**
@@ -598,7 +598,7 @@ Die Bibel lehrt das Gegenteil: Jesus ist der ewige Sohn Gottes, gekreuzigt und a
 > „… dass Christus für unsere Sünden gestorben ist nach den Schriften, und dass er begraben wurde, und dass er auferweckt worden ist am dritten Tag nach den Schriften.“
 
 
-### 6. Sklaverei und Vergewaltigung
+#### 6. Sklaverei und Vergewaltigung
 
 Mehrere islamische Quellen berichten, dass Mohammed Sklaven besaß und die Vergewaltigung weiblicher Gefangener erlaubte.
 
@@ -643,11 +643,11 @@ Im Gegensatz dazu erlaubte Mohammed die Vergewaltigung von Gefangenen ohne diese
 
 ---
 
-**Mohammeds persönliche Sonderrechte (Sure 33)**
+### Mohammeds persönliche Sonderrechte (Sure 33)
 
 Sure 33 gewährt Mohammed besondere Ausnahmen und Privilegien.
 
-### Unbegrenzte Ehefrauen und Konkubinen
+#### Unbegrenzte Ehefrauen und Konkubinen
 **Koran 33:50 (Sahih International)**
 > „O Prophet, Wir haben dir erlaubt … und eine gläubige Frau, wenn sie sich dem Propheten schenkt … nur dir, nicht den (anderen) Gläubigen …“
 
@@ -658,13 +658,13 @@ Die Tora verbietet das Mehren der Frauen.
 **(Deuteronomium 17:17)**
 > „Er soll sich nicht viele Frauen nehmen …“
 
-### Exklusive Beschränkungen
+#### Exklusive Beschränkungen
 **Koran 33:52 (Sahih International)**
 > „Es ist dir (o Mohammed) nicht erlaubt, darüber hinaus (weitere) Frauen zu nehmen … außer was deine rechte Hand besitzt.“
 
 Das zeigt eigens für Mohammed geschaffene Regeln in seiner Ehefrage.
 
-### Offenbarung über Benimmregeln beim Essen
+#### Offenbarung über Benimmregeln beim Essen
 **Koran 33:53 (Sahih International)**
 > „O ihr, die ihr glaubt, tretet nicht in die Häuser des Propheten ein, außer wenn euch zum Mahl die Erlaubnis gegeben ist … Wenn ihr gegessen habt, dann geht auseinander …“
 
@@ -675,7 +675,7 @@ Hier wird Mohammeds persönliches Unbehagen zum Gesetz erhoben, er sei „zu sch
 
 Der Widerspruch ist auffällig: „zu schüchtern“, um Gäste zum Gehen zu bitten, aber nicht zu schüchtern, um sich rühmen zu lassen, in einer Nacht mit neun Frauen zu schlafen.
 
-### Kontrast zu Christus
+#### Kontrast zu Christus
 
 - Jesus suchte nie Privilegien, sondern kam, um zu dienen.
 
@@ -683,11 +683,11 @@ Der Widerspruch ist auffällig: „zu schüchtern“, um Gäste zum Gehen zu bit
 > „Der Sohn des Menschen ist nicht gekommen, um sich dienen zu lassen, sondern um zu dienen und sein Leben zu geben als Lösegeld für viele.“
 
 
-**Widersprüche und Auslassungen im Koran**
+### Widersprüche und Auslassungen im Koran
 
 Der Islam lehrt, der Koran sei vollkommen und widerspruchslos. Doch bereits im Text und in der islamischen Überlieferung finden sich Konflikte und fehlendes Material.
 
-### 1. Schöpfungszeitplan
+#### 1. Schöpfungszeitplan
 **Koran 7:54 (Sahih International)**
 > „Euer Herr ist Allah, der die Himmel und die Erde in sechs Tagen schuf …“
 
@@ -697,7 +697,7 @@ Der Islam lehrt, der Koran sei vollkommen und widerspruchslos. Doch bereits im T
 
 Zusammengenommen beschreibt Sure 41 acht Tage, nicht sechs. Die Bibel ist konsistent: Gott schuf in sechs Tagen und ruhte am siebten (1. Mose 1:31–2:2).
 
-### 2. Wein: gesegnet oder verflucht?
+#### 2. Wein: gesegnet oder verflucht?
 **Koran 16:67 (Sahih International)**
 > „Und von den Früchten der Palmen und der Weinstöcke gewinnt ihr berauschendes Getränk und guten Lebensunterhalt …“
 
@@ -706,7 +706,7 @@ Zusammengenommen beschreibt Sure 41 acht Tage, nicht sechs. Die Bibel ist konsis
 
 Die Lehre ändert sich im Lauf der Zeit. Die Bibel verurteilt beständig Trunksucht, erlaubt aber Wein in Maßen (Psalmen 104:15; Epheser 5:18).
 
-### 3. Gewalt vs. Frieden
+#### 3. Gewalt vs. Frieden
 **Koran 2:256 (Sahih International)**
 > „Es gibt keinen Zwang im Glauben …“
 
@@ -721,7 +721,7 @@ Der friedliche Vers ist früh; der gewalttätige später und gilt in der islamis
 **(Matthäus 5:44)**
 > „Liebt eure Feinde und betet für die, die euch verfolgen.“
 
-### 4. Vorsehung vs. freier Wille
+#### 4. Vorsehung vs. freier Wille
 **Koran 18:29 (Sahih International)**
 > „Die Wahrheit ist von eurem Herrn: Wer will, der glaube; und wer will, der verleugne.“
 
@@ -730,7 +730,7 @@ Der friedliche Vers ist früh; der gewalttätige später und gilt in der islamis
 
 Der Koran bejaht an einer Stelle den freien Willen und verneint ihn an anderer. Die Bibel hält Gottes Souveränität und menschliche Verantwortung im Gleichgewicht (Römer 9:19–21; Josua 24:15).
 
-### 5. Jesu Tod
+#### 5. Jesu Tod
 **Koran 4:157 (Sahih International)**
 > „… sie töteten ihn nicht und kreuzigten ihn nicht …“
 
@@ -751,7 +751,7 @@ Der Koran leugnet und bejaht Jesu Tod an verschiedenen Stellen. Die Bibel ist ko
 
 - **Mara bar-Serapion:** schrieb, die Juden hätten ihren „weisen König“ hingerichtet.
 
-### 6. Fehlende Verse
+#### 6. Fehlende Verse
 Islamische Quellen selbst berichten von verlorenen Versen:
 - Der „Steinigungsvers“ ordnete einst Steinigung bei Ehebruch an (Sunan Ibn Mādscha 1944).
 
@@ -764,7 +764,7 @@ Islamische Quellen selbst berichten von verlorenen Versen:
 Die Bibel dagegen besitzt Tausende Handschriften über Jahrhunderte, wodurch sich der Text mit hoher Zuverlässigkeit rekonstruieren lässt. Es gibt kleinere Varianten, aber keine Lehre geht verloren.
 
 
-### Schlussfolgerung
+#### Schlussfolgerung
 
 Der Islam bekennt einen Gott und ehrt Jesus als Propheten. Aber er leugnet seine Gottessohnschaft, Kreuzigung und Auferstehung. Der Koran enthält Widersprüche und fehlende Verse, während die Bibel beständig bewahrt und historisch gut belegt ist.
 

@@ -297,6 +297,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             onSettings = { nav.navigate(Dest.Settings.route) { launchSingleTop = true } },
             onGenealogy = { nav.navigate(Dest.Genealogy.route) { launchSingleTop = true } },
             onJesusDivinity = { nav.navigate(Dest.JesusDivinity.route) { launchSingleTop = true } },
+            onGospel = { nav.navigate(Dest.Gospel.route) { launchSingleTop = true } },
             onGrace = { nav.navigate(Dest.Grace.route) { launchSingleTop = true } },
             onChristianSymbolism = { nav.navigate(Dest.ChristianSymbolism.route) { launchSingleTop = true } },
             onUnseenWar = { nav.navigate(Dest.UnseenWar.route) { launchSingleTop = true } },
@@ -347,6 +348,9 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
         }
         composable(Dest.JesusDivinity.route) {
           GenericNotesScreen(Res.string.jesus_divinity, "jesus_divinity.md", prefs, repo, collapsible = true) { navBack() }
+        }
+        composable(Dest.Gospel.route) {
+          GenericNotesScreen(Res.string.gospel, "gospel.md", prefs, repo) { navBack() }
         }
         composable(Dest.Grace.route) {
           GenericNotesScreen(Res.string.grace, "grace.md", prefs, repo) { navBack() }
@@ -606,6 +610,7 @@ fun HomeScreen(
   onSettings: () -> Unit,
   onGenealogy: () -> Unit,
   onJesusDivinity: () -> Unit,
+  onGospel: () -> Unit,
   onGrace: () -> Unit,
   onChristianSymbolism: () -> Unit,
   onUnseenWar: () -> Unit,
@@ -1213,6 +1218,7 @@ fun HomeScreen(
               Column(Modifier.padding(bottom = 8.dp)) {
                 StudyItem(stringResource(Res.string.genealogy), !navBusy) { safeNav { onGenealogy() } }
                 StudyItem(stringResource(Res.string.jesus_divinity), !navBusy) { safeNav { onJesusDivinity() } }
+                StudyItem(stringResource(Res.string.gospel), !navBusy) { safeNav { onGospel() } }
                 StudyItem(stringResource(Res.string.grace), !navBusy) { safeNav { onGrace() } }
                 StudyItem(stringResource(Res.string.prophecy), !navBusy) { safeNav { onProphecy() } }
                 StudyItem(stringResource(Res.string.feast_calendar), !navBusy) { safeNav { onFeastCalendar() } }
@@ -4939,7 +4945,7 @@ private fun GenericNotesScreen(
                     contentDescription = null
                   )
                 }
-                if (isExpanded) {
+                AnimatedVisibility(visible = isExpanded) {
                   val subSections = remember(sectionBody) { splitMarkdownSections(sectionBody, "### ") }
                   val hasSubHeadings = subSections.any { it.first != null }
                   if (hasSubHeadings) {
@@ -4977,7 +4983,59 @@ private fun GenericNotesScreen(
                                 }
                                 if (subExpanded) {
                                   Column(Modifier.padding(top = 6.dp)) {
-                                    RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                                    val subSubSections = remember(subBody) { splitMarkdownSections(subBody, "#### ") }
+                                    val hasSubSubHeadings = subSubSections.any { it.first != null }
+                                    if (hasSubSubHeadings) {
+                                      Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                                        for ((ssIdx, ss) in subSubSections.withIndex()) {
+                                          val (ssHeader, ssBody) = ss
+                                          if (ssHeader != null) {
+                                            val ssKey = "$header/$subHeader/$ssHeader"
+                                            key(ssKey) {
+                                              val ssExpanded = ssKey in innerExpandedHeaders
+                                              Card(
+                                                modifier = Modifier.fillMaxWidth(),
+                                                shape = RoundedCornerShape(6.dp),
+                                                colors = CardDefaults.cardColors(
+                                                  containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.4f)
+                                                )
+                                              ) {
+                                                Column(Modifier.padding(8.dp)) {
+                                                  Row(
+                                                    Modifier.fillMaxWidth().clickable {
+                                                      innerExpandedHeaders = if (ssExpanded) innerExpandedHeaders - ssKey else innerExpandedHeaders + ssKey
+                                                    },
+                                                    verticalAlignment = Alignment.CenterVertically
+                                                  ) {
+                                                    Text(
+                                                      mdInline(ssHeader),
+                                                      style = MaterialTheme.typography.labelLarge,
+                                                      modifier = Modifier.weight(1f)
+                                                    )
+                                                    Icon(
+                                                      if (ssExpanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+                                                      contentDescription = null,
+                                                      modifier = Modifier.size(18.dp)
+                                                    )
+                                                  }
+                                                  if (ssExpanded) {
+                                                    Column(Modifier.padding(top = 4.dp)) {
+                                                      RenderNotesMarkdown(body = ssBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          } else if (ssBody.isNotBlank()) {
+                                            key("$header/$subHeader/inline_$ssIdx") {
+                                              RenderNotesMarkdown(body = ssBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                                            }
+                                          }
+                                        }
+                                      }
+                                    } else {
+                                      RenderNotesMarkdown(body = subBody, prefs = prefs, selectionResetKey = selectionResetKey)
+                                    }
                                   }
                                 }
                               }

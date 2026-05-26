@@ -925,6 +925,8 @@ De cualquier manera, el Islam no puede escapar del problema. El Islam es falso. 
 
 **Por qué está en esta lista:** El Islam niega la deidad de Cristo, la crucifixión de Cristo, la resurrección de Cristo y la suficiencia de las Escrituras. Estas son las afirmaciones centrales del evangelio. A los musulmanes que leen esto: esto no es hostilidad personal. Los cristianos que escriben críticamente sobre el Islam lo hacen porque la pregunta de quién es Jesús importa más que las diplomacias corteses. Si Jesús es quien afirmó ser (y la evidencia histórica apoya de manera abrumadora el testimonio temprano y de testigos presenciales sobre Su deidad, muerte y resurrección), entonces el Islam está equivocado sobre la pregunta más importante que un ser humano puede responder. (Hechos 4:12).
 
+*Véase también: la sección La guerra invisible para un tratamiento más profundo del islam.*
+
 ---
 
 ### Nuevo Cristianismo de la Era Nueva, Conciencia Crística y Renacimiento Gnóstico

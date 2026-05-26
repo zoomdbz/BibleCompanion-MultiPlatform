@@ -932,6 +932,8 @@ Either way, Islam cannot escape the problem. Islam is False. It must either trus
 
 **Why it is in this list:** Islam denies the deity of Christ, the crucifixion of Christ, the resurrection of Christ, and the sufficiency of Scripture. These are the central claims of the gospel. To Muslims who are reading: this is not personal hostility. Christians who write critically about Islam do so because the question of who Jesus is matters more than diplomatic niceties. If Jesus is who He claimed to be (and the historical evidence overwhelmingly supports the early, eyewitness testimony to His deity, death, and resurrection), then Islam is wrong about the most important question a human being can answer. (Acts 4:12).
 
+*See also: the Unseen War section for a deeper treatment of Islam.*
+
 ---
 
 ### New Age Christianity, Christ Consciousness, and Gnostic Revival

@@ -925,6 +925,8 @@ Dans un cas comme dans l'autre, l'islam ne peut échapper au problème. L'islam 
 
 **Pourquoi c'est dans cette liste :** L'islam nie la divinité du Christ, la crucifixion du Christ, la résurrection du Christ et la suffisance des Écritures. Ce sont les affirmations centrales de l'évangile. Aux musulmans qui lisent ceci : ce n'est pas de l'hostilité personnelle. Les chrétiens qui écrivent de manière critique sur l'islam le font parce que la question de l'identité de Jésus importe davantage que les politesses diplomatiques. Si Jésus est celui qu'Il a affirmé être (et les preuves historiques soutiennent massivement le témoignage précoce et oculaire de Sa divinité, de Sa mort et de Sa résurrection), alors l'islam se trompe sur la question la plus importante à laquelle un être humain puisse répondre. (Actes 4:12).
 
+*Voir aussi : la section La guerre invisible pour un traitement plus approfondi de l'islam.*
+
 ---
 
 ### Christianisme Nouvel Âge, Conscience Christique et Renaissance Gnostique

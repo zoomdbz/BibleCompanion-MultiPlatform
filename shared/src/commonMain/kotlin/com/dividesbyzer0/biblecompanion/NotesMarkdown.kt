@@ -55,6 +55,14 @@ fun RenderNotesMarkdown(
         }
 
         when {
+          raw.startsWith("#### ") -> {
+            Text(
+              mdInline(raw.removePrefix("#### ").trim()),
+              style = MaterialTheme.typography.labelLarge,
+              fontWeight = FontWeight.SemiBold
+            )
+            Spacer(Modifier.height(4.dp)); i++; continue
+          }
           raw.startsWith("### ") -> {
             Text(
               mdInline(raw.removePrefix("### ").trim()),

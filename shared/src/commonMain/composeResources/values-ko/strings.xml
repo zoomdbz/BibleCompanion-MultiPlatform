@@ -58,6 +58,7 @@
     <string name="about_free_text">무료, 광고와 수익화 없음. 모든 영광을 하나님께.</string>
     <!-- values-ko/strings.xml (Korean) -->
     <string name="jesus_divinity">예수의 신성</string>
+    <string name="gospel">복음</string>
     <string name="dc_not_available_title">“%1$s”에 외경이 없음</string>
     <string name="dc_not_available_body">%1$s에서 이 장을 사용할 수 없습니다. 외경을 위해 %2$s로 전환하시겠습니까?</string>
     <string name="dc_swap">전환</string>

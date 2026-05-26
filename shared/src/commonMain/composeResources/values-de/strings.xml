@@ -58,6 +58,7 @@
     <string name="about_free_text"><![CDATA[Kostenlos, ohne Werbung oder Monetarisierung. Gott allein die Ehre.]]></string>
     <!-- values-de/strings.xml (German) -->
     <string name="jesus_divinity">Die Gottheit Jesu</string>
+    <string name="gospel">Das Evangelium</string>
     <string name="dc_not_available_title">Deuterokanon nicht in „%1$s“</string>
     <string name="dc_not_available_body">Dieses Kapitel ist in %1$s nicht verfügbar. Zu %2$s wechseln für Deuterokanon?</string>
     <string name="dc_swap">Wechseln</string>

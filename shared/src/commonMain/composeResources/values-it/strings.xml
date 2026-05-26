@@ -58,6 +58,7 @@
     <string name="about_free_text"><![CDATA[Gratuito, senza pubblicità né monetizzazione. A Dio tutta la gloria.]]></string>
     <!-- values-it/strings.xml (Italian) -->
     <string name="jesus_divinity">La divinità di Gesù</string>
+    <string name="gospel">Il Vangelo</string>
     <string name="dc_not_available_title">Deuterocanonici non in “%1$s”</string>
     <string name="dc_not_available_body">Questo capitolo non è disponibile in %1$s. Passare a %2$s per i deuterocanonici?</string>
     <string name="dc_swap">Cambia</string>

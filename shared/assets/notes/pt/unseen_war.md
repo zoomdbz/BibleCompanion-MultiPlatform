@@ -283,9 +283,9 @@ O Alcorão honra Jesus (*ʿĪsā*) como profeta, mas nega sua crucificação e r
 - Muitos muçulmanos afirmam que a Bíblia foi corrompida.
 
 
-**Respondendo a objeções comuns:**
+### Respondendo a objeções comuns
 
-### Objeção 1: A Bíblia foi corrompida
+#### Objeção 1: A Bíblia foi corrompida
 O próprio Alcorão reconhece a Torá e o Evangelho como revelações genuínas.
 
 **Alcorão 5:44 (Sahih International)**
@@ -331,7 +331,7 @@ A Bíblia afirma sua própria preservação.
 **Contraste:** A tradição manuscrita bíblica é antiga, abundante e estável. O texto do Alcorão, em contraste, foi padronizado por ação estatal, havendo evidências de material perdido e variantes suprimidas.
 
 
-### Objeção 2: Jesus foi apenas um profeta, não Deus
+#### Objeção 2: Jesus foi apenas um profeta, não Deus
 
 O Islã respeita Jesus (*ʿIsa*) como profeta, mas nega sua divindade, filiação e crucificação.
 
@@ -367,7 +367,7 @@ A doutrina da Trindade afirma um só Deus em três Pessoas.
 **Resumo:** O Islã honra Jesus como profeta, mas lhe retira a filiação divina, a crucificação e o papel de Salvador. A Bíblia o identifica de forma consistente como o eterno Filho de Deus, o único caminho de salvação.
 
 
-### Objeção 3: Jesus não morreu na cruz
+#### Objeção 3: Jesus não morreu na cruz
 
 O Alcorão **4:157** nega a crucificação, mas o evento é **amplamente atestado por fontes históricas seculares não cristãs**, de modo que até historiadores céticos o aceitam como fato.
 
@@ -400,7 +400,7 @@ O Islã ensina que Jesus não foi crucificado. Mas tanto a Bíblia quanto histor
 Até historiadores hostis ao cristianismo reconheceram a crucificação de Jesus como fato histórico.
 
 
-### *Objeção 4: A Trindade é politeísmo*
+#### *Objeção 4: A Trindade é politeísmo*
 
 - **(Deuteronômio 6:4)** – “Ouve, ó Israel: O Senhor nosso Deus é o único Senhor.”
 
@@ -411,7 +411,7 @@ Até historiadores hostis ao cristianismo reconheceram a crucificação de Jesus
 A Trindade não são três deuses, mas um único Deus em três Pessoas.
 
 
-### *Objeção 5: “Não há variantes do Alcorão. Só xiitas dizem isso. O Islã não mudou nada desde Maomé.”*
+#### *Objeção 5: “Não há variantes do Alcorão. Só xiitas dizem isso. O Islã não mudou nada desde Maomé.”*
 
 Isso é historicamente falso. As evidências são contundentes:
 
@@ -432,7 +432,7 @@ Se nunca houve variantes, por que a queima foi necessária?
 **Comparação com a Bíblia:** Os Manuscritos do Mar Morto (150 a.C.–70 d.C.) e o Códice de Leningrado (1008 d.C.) mostram mais de 1000 anos de preservação fiel com diferenças sobretudo ortográficas. O Novo Testamento tem 5.000+ manuscritos gregos; nenhuma doutrina se perdeu. O Alcorão possui menos manuscritos, padronização deliberada e versículos reconhecidamente ausentes.
 
 
-### *Objeção 6: “Você não pode simplesmente ler o Alcorão. Precisa dos hadiths e de estudiosos para o contexto.”*
+#### *Objeção 6: “Você não pode simplesmente ler o Alcorão. Precisa dos hadiths e de estudiosos para o contexto.”*
 
 Isso cria uma armadilha: significa que o Alcorão não é suficiente por si, apesar de afirmar ser guia claro.
 
@@ -453,7 +453,7 @@ A Bíblia, por contraste, afirma suficiência e clareza:
 > “Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a instrução em justiça, a fim de que o homem de Deus seja perfeito e perfeitamente habilitado para toda boa obra.”
 
 
-### *Objeção 7: “A história é tendenciosa. Jesus foi crucificado, mas cremos que não morreu; ele foi para o céu.”*
+#### *Objeção 7: “A história é tendenciosa. Jesus foi crucificado, mas cremos que não morreu; ele foi para o céu.”*
 
 Essa objeção desaba diante da Escritura e da história secular:
 
@@ -522,11 +522,11 @@ O evangelho proclama a salvação como dom da graça mediante a fé em Cristo, n
 **Ponto-chave:** O Islã ensina salvação pela lei e obras; a Bíblia mostra que a lei condena a todos e aponta para Cristo, o único perfeito. A salvação é somente pela graça mediante a fé em Jesus.
 
 
-**A conduta de Maomé à luz da Lei de Moisés**
+### A conduta de Maomé à luz da Lei de Moisés
 
 A Torá traz normas claras sexuais, relacionais e morais. Medida por elas, a conduta de Maomé apresenta problemas.
 
-### 1) Casamento infantil (Aisha)
+#### 1) Casamento infantil (Aisha)
 Relata-se que Maomé desposou Aisha aos seis anos e consumou o casamento aos nove (Sahih al-Bukhari 5133, 5134).
 
 A Torá proíbe a exploração sexual de crianças e a trata como maldade.
@@ -536,7 +536,7 @@ A Torá proíbe a exploração sexual de crianças e a trata como maldade.
 
 Crianças não podem consentir; consumar casamento com criança é exploração e coerção.
 
-### 2) Poligamia além do limite
+#### 2) Poligamia além do limite
 **Alcorão 4:3 (Sahih International)**
 > “Casai com duas, três ou quatro… se temerdes não ser justos, então com uma só…”
 
@@ -545,7 +545,7 @@ Maomé tomou mais de quatro esposas, excedendo o próprio padrão corânico e co
 **(Deuteronômio 17:17)**
 > “Não multiplicará para si mulheres, para que seu coração não se desvie.”
 
-### 3) Casamento com a esposa do filho adotivo
+#### 3) Casamento com a esposa do filho adotivo
 **Alcorão 33:37 (Sahih International)**
 > “… quando Zayd não mais teve necessidade dela, Nós te casamos com ela…”
 
@@ -554,7 +554,7 @@ A Torá proíbe tais uniões.
 **(Levítico 18:15)**
 > “A nudez de tua nora não descobrirás; ela é mulher de teu filho.”
 
-### 4) Violência e conversões forçadas
+#### 4) Violência e conversões forçadas
 **Alcorão 9:5 (Sahih International)**
 > “Quando os meses sagrados passarem, matai os politeístas onde quer que os encontreis… se se arrependerem, estabelecerem a oração e derem o zakat, deixai-os ir.”
 
@@ -566,7 +566,7 @@ Em contraste, a Lei condena o homicídio, e Jesus rejeitou violência pela fé.
 **(Mateus 26:52)**
 > “Todos os que lançam mão da espada, à espada perecerão.”
 
-### 5) Negação de Cristo
+#### 5) Negação de Cristo
 O Alcorão nega a filiação e a crucificação de Jesus.
 
 **Alcorão 4:171; 112:3; 4:157 (Sahih International)**
@@ -586,7 +586,7 @@ A Bíblia ensina o oposto: Jesus é o eterno Filho de Deus, crucificado e ressus
 **(1 Coríntios 15:3–4)**
 > “Cristo morreu pelos nossos pecados… foi sepultado e ressuscitou ao terceiro dia.”
 
-### 6. Escravidão e Estupro
+#### 6. Escravidão e Estupro
 
 Múltiplas fontes islâmicas registram que Maomé possuía escravos e permitia o estupro de cativas femininas.
 
@@ -631,11 +631,11 @@ Em contraste, Maomé permitiu o estupro de cativas sem essas proteções. A Tor�
 
 ---
 
-**Privilégios pessoais de Maomé (sura 33)**
+### Privilégios pessoais de Maomé (sura 33)
 
 A sura 33 concede isenções e privilégios exclusivos a Maomé.
 
-### Esposas e concubinas, na prática, ilimitadas
+#### Esposas e concubinas, na prática, ilimitadas
 **Alcorão 33:50 (Sahih International)**
 > “Ó Profeta! Permitimos-te tuas esposas… e a crente que se der ao Profeta, se o Profeta desejar casar-se com ela; isto é apenas para ti, excluindo os demais crentes…”
 
@@ -646,13 +646,13 @@ A Torá proíbe multiplicar esposas.
 **(Deuteronômio 17:17)**
 > “Não multiplicará para si mulheres.”
 
-### Restrições exclusivas
+#### Restrições exclusivas
 **Alcorão 33:52 (Sahih International)**
 > “Não te são lícitas [ó Maomé] outras mulheres depois disto, nem te é permitido trocá-las por outras, ainda que sua beleza te agrade, exceto o que possuir tua mão direita.”
 
 Regras feitas unicamente para a situação conjugal de Maomé.
 
-### “Revelação” sobre etiqueta de refeição
+#### “Revelação” sobre etiqueta de refeição
 **Alcorão 33:53 (Sahih International)**
 > “Ó vós que credes! Não entreis nas casas do Profeta, a menos que vos seja permitido para uma refeição… depois de comer, retirai-vos sem prolongar a conversa; isso importunava o Profeta, e ele se envergonhava [de dizer-vos]; mas Allah não se envergonha da verdade…”
 
@@ -663,7 +663,7 @@ O incômodo pessoal do profeta é elevado a lei. Enquanto isso, um hadith relata
 
 O contraste é gritante.
 
-### Contraste com Cristo
+#### Contraste com Cristo
 
 - Jesus não buscou privilégios, mas veio para servir.
 
@@ -671,11 +671,11 @@ O contraste é gritante.
 > “O Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos.”
 
 
-**Contradições e omissões no Alcorão**
+### Contradições e omissões no Alcorão
 
 O Islã ensina que o Alcorão é perfeito e sem contradição; porém, no próprio texto e na tradição islâmica, veem-se conflitos e perdas.
 
-### 1) Cronologia da criação
+#### 1) Cronologia da criação
 **Alcorão 7:54**: seis dias.
 
 **Qur’an 41:9–12 (Português)**
@@ -684,14 +684,14 @@ O Islã ensina que o Alcorão é perfeito e sem contradição; porém, no própr
 
 A Bíblia: seis dias de criação e o sétimo de descanso (Gênesis 1:31–2:2).
 
-### 2) Vinho: bênção ou imundície
+#### 2) Vinho: bênção ou imundície
 **Alcorão 16:67**: “bebida inebriante e bom sustento”.
 
 **Alcorão 5:90**: “as bebidas inebriantes são imundície das obras de Satanás; evitai-as”.
 
 O ensino muda ao longo do tempo. A Bíblia condena a embriaguez de modo consistente e permite o vinho com moderação (Salmo 104:15; Efésios 5:18).
 
-### 3) Violência versus paz
+#### 3) Violência versus paz
 **Alcorão 2:256**: “Não há compulsão na religião.”
 
 **Alcorão 9:5; 9:29**: “matai os politeístas…”; “lutai contra o Povo do Livro… até que paguem a jizya, humilhados.”
@@ -701,14 +701,14 @@ Muitos estudiosos muçulmanos consideram que os versículos posteriores **abroga
 **(Mateus 5:44)**
 > “Amai os vossos inimigos e orai pelos que vos perseguem.”
 
-### 4) Destino contra livre-arbítrio
+#### 4) Destino contra livre-arbítrio
 **Alcorão 18:29**: “Quem quiser, creia; quem quiser, não creia.”
 
 **Alcorão 16:93**: “Allah descaminha a quem quer e guia a quem quer.”
 
 A Bíblia mantém juntos a soberania de Deus e a responsabilidade humana (Romanos 9:19–21; Josué 24:15).
 
-### 5) A morte de Jesus
+#### 5) A morte de Jesus
 **Alcorão 4:157**: nega.
 
 **Alcorão 19:33**: “paz sobre mim no dia em que nasci, no dia em que morrerei e no dia em que serei ressuscitado”, soa como afirmação.
@@ -725,7 +725,7 @@ A Bíblia é consistente.
 
 - **Luciano de Samósata**, **Mara bar-Serapião**: referências ao crucificado.
 
-### 6) Versos ausentes
+#### 6) Versos ausentes
 Fontes islâmicas registram perdas:
 - “Verso do apedrejamento” (Sunan Ibn Majah 1944).
 
@@ -738,7 +738,7 @@ Fontes islâmicas registram perdas:
 A Bíblia, ao contrário, possui milhares de manuscritos ao longo de séculos que permitem reconstrução segura; as variações são menores e não afetam doutrinas.
 
 
-### Conclusão
+#### Conclusão
 
 O Islã proclama um só Deus e reverencia Jesus como profeta, mas nega sua filiação, crucificação e ressurreição. O Alcorão contém contradições e perdas, enquanto a Bíblia é preservada de forma consistente e sustentada historicamente.
 

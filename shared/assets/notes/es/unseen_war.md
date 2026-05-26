@@ -282,9 +282,9 @@ El Corán honra a Jesús (*ʿĪsā*) como profeta, pero niega su crucifixión y 
 - Muchos musulmanes afirman que la Biblia fue corrompida.
 
 
-**Respondiendo objeciones comunes:**
+### Respondiendo objeciones comunes
 
-### Objeción 1: La Biblia fue corrompida
+#### Objeción 1: La Biblia fue corrompida
 El Corán mismo afirma que la Torá y el Evangelio fueron revelaciones genuinas.
 
 **Corán 5:44**
@@ -328,7 +328,7 @@ La Biblia afirma su propia preservación.
 **Contraste:** La tradición manuscrita de la Biblia es temprana, abundante y estable. El texto del Corán, en cambio, fue estandarizado mediante imposición estatal, con evidencias de material perdido y variantes suprimidas.
 
 
-### Objeción 2: Jesús fue solo un profeta, no Dios
+#### Objeción 2: Jesús fue solo un profeta, no Dios
 
 El islam respeta a Jesús (*ʿĪsā*) como profeta, pero niega su divinidad, filiación y crucifixión.
 
@@ -362,7 +362,7 @@ La doctrina de la Trinidad afirma un solo Dios en tres Personas.
 
 **Resumen:** El islam honra a Jesús como profeta pero le quita su filiación divina, crucifixión y papel de Salvador. La Biblia lo identifica de manera consistente como el Hijo eterno de Dios, el único camino de salvación.
 
-### Objeción 3: Jesús no murió en la cruz
+#### Objeción 3: Jesús no murió en la cruz
 
 El Corán niega la crucifixión en **Corán 4:157**, pero el hecho está tan bien atestiguado en **fuentes históricas no cristianas** que incluso historiadores escépticos lo aceptan como un hecho.
 
@@ -389,7 +389,7 @@ El Corán niega la crucifixión en **Corán 4:157**, pero el hecho está tan bie
 
 Incluso quienes rechazaban el cristianismo reconocían la crucifixión de Jesús como un hecho histórico.
 
-### Objeción 4: La Trinidad es politeísmo
+#### Objeción 4: La Trinidad es politeísmo
 
 - **(Deuteronomio 6:4)** – “Oye, Israel: Jehová nuestro Dios, Jehová uno es.”
 
@@ -399,7 +399,7 @@ Incluso quienes rechazaban el cristianismo reconocían la crucifixión de Jesús
 
 **La Trinidad no son tres dioses, sino un solo Dios en tres Personas.**
 
-### Objeción 5: “No hay variantes del Corán. Solo los chiitas lo dicen. El islam no ha cambiado ni una coma desde Mahoma.”
+#### Objeción 5: “No hay variantes del Corán. Solo los chiitas lo dicen. El islam no ha cambiado ni una coma desde Mahoma.”
 
 **Esto es históricamente falso. La evidencia es abrumadora:**
 
@@ -419,7 +419,7 @@ Incluso quienes rechazaban el cristianismo reconocían la crucifixión de Jesús
 
 **Comparación con la Biblia:** Los Rollos del Mar Muerto (150 a.C.–70 d.C.) y el Códice de Leningrado (1008 d.C.) muestran más de mil años de preservación fiel con solo diferencias mínimas de ortografía. El Nuevo Testamento tiene más de 5,000 manuscritos griegos; ninguna doctrina se pierde. El Corán tiene menos manuscritos, una estandarización forzada y evidencia de versículos faltantes.
 
-### Objeción 6: “No puedes leer el Corán por ti mismo. Necesitas hadices y eruditos para el contexto.”
+#### Objeción 6: “No puedes leer el Corán por ti mismo. Necesitas hadices y eruditos para el contexto.”
 
 **Esto crea una trampa:** significa que el Corán no es suficiente por sí mismo, aunque afirma ser guía clara.
 
@@ -436,7 +436,7 @@ Incluso quienes rechazaban el cristianismo reconocían la crucifixión de Jesús
 **2 Timoteo 3:16–17**
 > “Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.”
 
-### Objeción 7: “La historia es sesgada. Jesús fue crucificado, pero creemos que no murió; fue llevado al cielo.”
+#### Objeción 7: “La historia es sesgada. Jesús fue crucificado, pero creemos que no murió; fue llevado al cielo.”
 
 **Esta objeción se derrumba tanto por la Escritura como por la historia secular:**
 
@@ -456,7 +456,7 @@ Incluso quienes rechazaban el cristianismo reconocían la crucifixión de Jesús
 
 - Ningún historiador, judío, romano o cristiano, dijo que Jesús no fue crucificado. Solo el Corán (4:157), escrito 600 años después sin testigos presenciales, lo niega.
 
-### Salvación: Ley vs. Gracia
+#### Salvación: Ley vs. Gracia
 
 **Visión del islam sobre la salvación**  
 En el islam, la salvación depende del balance de obras. Las buenas deben pesar más que las malas, y finalmente Alá puede dar o negar misericordia.
@@ -548,11 +548,11 @@ El evangelio proclama la salvación como un don de gracia mediante la fe en Cris
 
 ---
 
-**La conducta de Mahoma medida por la Ley de Moisés**
+### La conducta de Mahoma medida por la Ley de Moisés
 
 La Torá dio leyes claras sexuales, relacionales y morales. Cuando la conducta de Mahoma se mide frente a ellas, queda en falta.
 
-### 1. Matrimonio infantil (Aisha)
+#### 1. Matrimonio infantil (Aisha)
 Mahoma se casó con Aisha a los seis años y consumó el matrimonio a los nueve (Sahih al-Bujari 5133, 5134).
 
 La Ley de Moisés prohíbe la explotación sexual de los niños, tratándola como perversidad.
@@ -563,7 +563,7 @@ La Ley de Moisés prohíbe la explotación sexual de los niños, tratándola com
 
 Los niños no pueden consentir, así que consumar matrimonio con una niña cae bajo explotación y coerción.
 
-### 2. Poligamia más allá de los límites
+#### 2. Poligamia más allá de los límites
 **Corán 4:3 (Sahih International)**
 
 > “Y si teméis no ser justos con los huérfanos, casaos con las que os gusten de [otras] mujeres, dos, tres o cuatro; pero si teméis no ser equitativos, entonces solo una, o lo que vuestras diestras posean. Esto será más adecuado para evitar que os inclinéis a la injusticia.”
@@ -574,7 +574,7 @@ Sin embargo, Mahoma tomó más de cuatro esposas, excediendo el mismo estándar 
 
 > “Ni tomará para sí muchas mujeres, para que su corazón no se desvíe; ni plata ni oro amontonará para sí en abundancia.”
 
-### 3. Matrimonio con la esposa del hijo adoptivo
+#### 3. Matrimonio con la esposa del hijo adoptivo
 **Corán 33:37 (Sahih International)**
 
 > “…Cuando Zayd dejó de tener necesidad de ella, la casamos contigo, para que no haya dificultad para los creyentes en cuanto a las esposas de sus hijos adoptivos cuando ellos ya no tengan necesidad de ellas…”
@@ -585,7 +585,7 @@ La Ley de Moisés prohíbe tales uniones.
 
 > “La desnudez de tu nuera no descubrirás; mujer es de tu hijo; no descubrirás la desnudez de ella.”
 
-### 4. Violencia y conversiones forzadas
+#### 4. Violencia y conversiones forzadas
 **Corán 9:5 (Sahih International)**
 
 > “Y cuando hayan transcurrido los meses sagrados, entonces matad a los idólatras dondequiera que los halléis, y tomadlos, y sitiadlos, y acechadlos en toda emboscada. Pero si se arrepienten, establecen la oración y dan el zakat, dejadlos en libertad. Ciertamente, Alá es Perdonador, Misericordioso.”
@@ -600,7 +600,7 @@ En contraste, la Ley de Moisés condena el asesinato, y Jesús rechazó la viole
 
 > “Entonces Jesús le dijo: Vuelve tu espada a su lugar; porque todos los que tomen espada, a espada perecerán.”
 
-### 5. Negación de Cristo
+#### 5. Negación de Cristo
 El Corán niega la filiación y la crucifixión de Jesús.
 
 **Corán 4:171 (Sahih International)**
@@ -635,7 +635,7 @@ La Biblia enseña lo contrario: que Jesús es el Hijo eterno de Dios, crucificad
 
 ---
 
-### 6. Esclavitud y Violación
+#### 6. Esclavitud y Violación
 
 Múltiples fuentes islámicas registran que Mahoma poseía esclavos y permitía la violación de cautivas femeninas.
 
@@ -680,11 +680,11 @@ En contraste, Mahoma permitió la violación de cautivas sin estas protecciones.
 
 ---
 
-**Privilegios personales de Mahoma (Sura 33)**
+### Privilegios personales de Mahoma (Sura 33)
 
 La Sura 33 otorga a Mahoma exenciones y privilegios únicos.
 
-### Esposas y concubinas ilimitadas
+#### Esposas y concubinas ilimitadas
 **Corán 33:50 (Sahih International)**
 
 > “…Esto es solo para ti, excluyendo a los demás creyentes…”
@@ -695,12 +695,12 @@ Aquí Mahoma recibe permiso de esposas y concubinas ilimitadas, a diferencia de 
 
 > “Ni tomará para sí muchas mujeres, para que su corazón no se desvíe…”
 
-### Restricciones exclusivas
+#### Restricciones exclusivas
 **Corán 33:52 (Sahih International)**
 
 > “No te es lícito, oh Mahoma, tomar más mujeres después de estas…”
 
-### Revelación sobre etiqueta en las comidas
+#### Revelación sobre etiqueta en las comidas
 **Corán 33:53 (Sahih International)**
 
 > “…No entréis en las casas del Profeta salvo cuando se os permita para una comida…”
@@ -711,7 +711,7 @@ Se convierte la incomodidad personal de Mahoma en ley. Sin embargo, los hadices 
 
 > “El Profeta solía visitar a todas sus esposas en una sola noche, y tenía nueve esposas en ese tiempo.”
 
-### Contraste con Cristo
+#### Contraste con Cristo
 Jesús nunca buscó privilegio, sino que vino a servir.
 
 **(Mateo 20:28)**
@@ -720,9 +720,9 @@ Jesús nunca buscó privilegio, sino que vino a servir.
 
 ---
 
-**Contradicciones y omisiones en el Corán**
+### Contradicciones y omisiones en el Corán
 
-### 1. Cronología de la creación
+#### 1. Cronología de la creación
 **Corán 7:54**: seis días.  
 
 **Qur’an 41:9–12 (Español)**
@@ -731,26 +731,26 @@ Jesús nunca buscó privilegio, sino que vino a servir.
 
 La Biblia es consistente: seis días y reposo al séptimo (Génesis 1:31–2:2).
 
-### 2. Vino: ¿bendito o maldito?
+#### 2. Vino: ¿bendito o maldito?
 **Corán 16:67**: bendecido.  
 
 **Corán 5:90**: maldito.  
 
 La Biblia: nunca borracha, sí moderación (Salmo 104:15; Efesios 5:18).
 
-### 3. Violencia vs. paz
+#### 3. Violencia vs. paz
 **Corán 2:256**: “No hay coacción en religión.”  
 
 **Corán 9:5, 9:29**: orden de matar y someter.  
 
 La Biblia: **(Mateo 5:44)**: “Amad a vuestros enemigos.”
 
-### 4. Destino vs. libre albedrío
+#### 4. Destino vs. libre albedrío
 **Corán 18:29**: libre elección.  
 **Corán 16:93**: todo depende de la voluntad de Alá.  
 La Biblia mantiene ambos en tensión (Romanos 9:19–21; Josué 24:15).
 
-### 5. Muerte de Jesús
+#### 5. Muerte de Jesús
 **Corán 4:157**: niega la crucifixión.  
 
 **Corán 19:33**: la afirma.  
@@ -759,7 +759,7 @@ La Biblia: **(1 Corintios 15:3–4)**: Cristo murió, fue sepultado y resucitó.
 
 Fuentes seculares (Tácito, Josefo, Luciano, Mara bar-Serapión) también confirman la crucifixión.
 
-### 6. Versos faltantes
+#### 6. Versos faltantes
 - Verso de lapidación.
 
 - Verso de amamantamiento.
@@ -772,7 +772,7 @@ La Biblia, en contraste, tiene miles de manuscritos y ninguna doctrina perdida.
 
 ---
 
-### Conclusión
+#### Conclusión
 
 El islam proclama un solo Dios y respeta a Jesús como profeta. Pero niega su filiación, crucifixión y resurrección. El Corán contiene contradicciones y versos perdidos. La Biblia es consistente y preservada.
 

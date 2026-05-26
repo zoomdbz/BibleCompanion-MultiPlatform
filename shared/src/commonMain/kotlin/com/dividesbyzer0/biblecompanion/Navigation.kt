@@ -22,6 +22,7 @@ sealed class Dest(val route: String) {
     data object CommonDistortions : Dest("common_distortions")
     data object Genealogy : Dest("genealogy")
     data object JesusDivinity : Dest("jesus_divinity")
+    data object Gospel : Dest("gospel")
     data object Grace : Dest("grace")
     data object ChristianSymbolism : Dest("christian_symbolism")
     data object Christophanies : Dest("christophanies")

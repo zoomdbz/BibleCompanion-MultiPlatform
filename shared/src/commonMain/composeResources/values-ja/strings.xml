@@ -58,6 +58,7 @@
     <string name="about_free_text">無料、広告も収益化もありません。すべての栄光を神に。</string>
     <!-- values-ja/strings.xml (Japanese) -->
     <string name="jesus_divinity">イエスの神性</string>
+    <string name="gospel">福音</string>
     <string name="dc_not_available_title">申命外典は「%1$s」にありません</string>
     <string name="dc_not_available_body">%1$s ではこの章は利用できません。外典のために %2$s に切り替えますか？</string>
     <string name="dc_swap">切り替え</string>

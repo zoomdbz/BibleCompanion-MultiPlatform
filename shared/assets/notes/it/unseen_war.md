@@ -283,9 +283,9 @@ Il Corano onora Gesù (*ʿĪsā*) come profeta, ma nega la sua crocifissione e r
 - Molti musulmani affermano che la Bibbia sia stata corrotta.
 
 
-**Risposte alle obiezioni comuni:**
+### Risposte alle obiezioni comuni
 
-### Obiezione 1: La Bibbia è stata corrotta
+#### Obiezione 1: La Bibbia è stata corrotta
 Il Corano stesso conferma la Torà e il Vangelo come rivelazioni autentiche.
 
 **Corano 5:44 (Sahih International)**
@@ -331,7 +331,7 @@ La Bibbia afferma la propria conservazione.
 **Contrasto:** La tradizione manoscritta biblica è antica, abbondante e stabile; il testo coranico fu standardizzato per via statale, con prove di materiale mancante e varianti soppresse.
 
 
-### Obiezione 2: Gesù era solo un profeta, non Dio.
+#### Obiezione 2: Gesù era solo un profeta, non Dio.
 
 L’Islam rispetta Gesù (*ʿĪsā*) come profeta, ma nega la sua divinità, la sua figliolanza e la crocifissione.
 
@@ -367,7 +367,7 @@ La dottrina della Trinità afferma un solo Dio in tre Persone.
 **Sintesi:** L’Islam onora Gesù come profeta, ma gli toglie la figliolanza divina, la croce e il ruolo di Salvatore; la Bibbia lo identifica costantemente come il Figlio eterno di Dio, l’unica via di salvezza.
 
 
-### Obiezione 3: Gesù non è morto sulla croce.
+#### Obiezione 3: Gesù non è morto sulla croce.
 
 Il Corano **4:157** nega la crocifissione, ma l’evento è così ben attestato da **fonti storiche laiche non cristiane** che persino storici scettici lo accettano come fatto.
 
@@ -400,7 +400,7 @@ L’Islam insegna che Gesù non fu crocifisso. Ma la Bibbia e gli storici lo tes
 Anche gli storici ostili al cristianesimo riconobbero la crocifissione come fatto storico.
 
 
-### *Obiezione 4: La Trinità è politeismo.*
+#### *Obiezione 4: La Trinità è politeismo.*
 
 - **(Deuteronomio 6:4)** – “Il SIGNORE, il nostro Dio, è l’unico SIGNORE.”
 
@@ -411,7 +411,7 @@ Anche gli storici ostili al cristianesimo riconobbero la crocifissione come fatt
 La Trinità non è tre dèi, ma un solo Dio in tre Persone.
 
 
-### *Obiezione 5: “Non esistono varianti del Corano. Lo dicono solo gli sciiti. L’Islam non è cambiato di un millimetro da Maometto.”*
+#### *Obiezione 5: “Non esistono varianti del Corano. Lo dicono solo gli sciiti. L’Islam non è cambiato di un millimetro da Maometto.”*
 
 Questo è storicamente falso. Le prove sono schiaccianti:
 
@@ -432,7 +432,7 @@ Se il Corano non avesse mai avuto varianti, perché era necessario bruciare?
 **Confronto con la Bibbia:** i Rotoli del Mar Morto (150 a.C.–70 d.C.) e il Codice di Leningrado (1008 d.C.) mostrano oltre 1000 anni di preservazione fedele con minime differenze ortografiche. Il Nuovo Testamento ha 5.000+ manoscritti greci; nessuna dottrina è perduta. Il Corano ha meno manoscritti, standardizzazione deliberata e versetti mancanti ammessi.
 
 
-### *Obiezione 6: “Non puoi semplicemente leggere il Corano. Servono Hadith e dotti per il contesto.”*
+#### *Obiezione 6: “Non puoi semplicemente leggere il Corano. Servono Hadith e dotti per il contesto.”*
 
 Questo crea una trappola: implica che il Corano non sia sufficiente in sé, benché affermi di essere guida chiara.
 
@@ -453,7 +453,7 @@ La Bibbia, al contrario, afferma sufficienza e chiarezza:
 > “Tutta la Scrittura è ispirata da Dio ed è utile a insegnare, a riprendere, a correggere, a educare alla giustizia, affinché l’uomo di Dio sia completo e ben preparato per ogni opera buona.”
 
 
-### *Obiezione 7: “La storia è faziosa. Gesù fu crocifisso, ma non morì; salì in cielo.”*
+#### *Obiezione 7: “La storia è faziosa. Gesù fu crocifisso, ma non morì; salì in cielo.”*
 
 Questa obiezione crolla di fronte sia alla Scrittura sia alla storia laica:
 
@@ -521,11 +521,11 @@ Il vangelo annuncia la salvezza come dono di grazia mediante la fede in Cristo, 
 **Punto chiave:** L’Islam insegna la salvezza per Legge e opere; la Bibbia mostra che la Legge condanna tutti e rimanda a Cristo, che solo l’ha adempiuta. La salvezza è solo per grazia mediante la fede in Gesù.
 
 
-**La condotta di Maometto alla prova della Legge di Mosè**
+### La condotta di Maometto alla prova della Legge di Mosè
 
 La Torà dà leggi chiare su sessualità, relazioni e morale; misurando Maometto su queste, egli non regge.
 
-### 1) Matrimonio infantile (Aisha)
+#### 1) Matrimonio infantile (Aisha)
 Maometto sposò Aisha a sei anni e consumò a nove (Sahih al-Bukhari 5133, 5134).
 
 La Torà proibisce lo sfruttamento dei minori, chiamandolo malvagio.
@@ -535,7 +535,7 @@ La Torà proibisce lo sfruttamento dei minori, chiamandolo malvagio.
 
 I bambini non possono acconsentire; la consumazione è sfruttamento e coercizione.
 
-### 2) Poligamia oltre i limiti
+#### 2) Poligamia oltre i limiti
 **Corano 4:3 (Sahih International)**
 > “Sposate due, tre o quattro… ma se temete di non essere giusti, una sola…”
 
@@ -544,7 +544,7 @@ Maometto prese più di quattro mogli, superando il limite del Corano e la proibi
 **(Deuteronomio 17:17)**
 > “Non abbia molte mogli, affinché il suo cuore non si svii…”
 
-### 3) Moglie del figlio adottivo
+#### 3) Moglie del figlio adottivo
 **Corano 33:37 (Sahih International)**
 > “Quando Zayd non ebbe più bisogno di lei, te l’abbiamo data in moglie…”
 
@@ -553,7 +553,7 @@ La Torà proibisce unione del genere.
 **(Levitico 18:15)**
 > “Non scoprirai la nudità di tua nuora: è la moglie di tuo figlio.”
 
-### 4) Violenza e conversioni forzate
+#### 4) Violenza e conversioni forzate
 **Corano 9:5 (Sahih International)**
 > “Uccidete i politeisti ovunque li troviate… se si pentono, stabiliscono la preghiera e danno la zakat, lasciateli andare.”
 
@@ -565,7 +565,7 @@ Invece la Legge condanna l’omicidio e Gesù rifiutò la violenza per la fede.
 **(Matteo 26:52)**
 > “Rimetti la tua spada… tutti quelli che mettono mano alla spada periranno di spada.”
 
-### 5) Negazione di Cristo
+#### 5) Negazione di Cristo
 Il Corano nega la figliolanza e la croce.
 
 **Corano 4:171; 112:3; 4:157 (Sahih International)**
@@ -585,7 +585,7 @@ La Bibbia insegna l’opposto: Gesù è il Figlio eterno di Dio, crocifisso e ri
 **(1 Corinzi 15:3–4)**
 > “Cristo morì per i nostri peccati… fu sepolto… risuscitò il terzo giorno…”
 
-### 6. Schiavitù e Stupro
+#### 6. Schiavitù e Stupro
 
 Molte fonti islamiche riportano che Maometto possedeva schiavi e permetteva lo stupro delle prigioniere di guerra.
 
@@ -630,11 +630,11 @@ Al contrario, Maometto permise lo stupro delle prigioniere senza queste protezio
 
 ---
 
-**Privilegi personali di Maometto (Sura 33)**
+### Privilegi personali di Maometto (Sura 33)
 
 La Sura 33 concede a Maometto esenzioni uniche.
 
-### Mogli e concubine illimitate
+#### Mogli e concubine illimitate
 **Corano 33:50 (Sahih International)**
 > “O Profeta! Ti abbiamo reso lecite le tue mogli… e qualsiasi credente che si doni al Profeta… solo per te, non per i credenti.”
 
@@ -645,13 +645,13 @@ La Torà vieta moltiplicare le mogli.
 **(Deuteronomio 17:17)**
 > “Non abbia molte mogli…”
 
-### Restrizioni esclusive
+#### Restrizioni esclusive
 **Corano 33:52 (Sahih International)**
 > “Non ti sono lecite altre donne dopo queste, né cambiarle con altre, anche se la loro bellezza ti piace, eccetto quelle che la tua destra possiede.”
 
 Regole fatte su misura per la situazione matrimoniale di Maometto.
 
-### Rivelazione sull’etichetta a tavola
+#### Rivelazione sull’etichetta a tavola
 **Corano 33:53 (Sahih International)**
 > “O voi che credete! Non entrate nelle case del Profeta per il pasto finché non vi sia dato il permesso… mangiate e andatevene senza intrattenervi a conversare. Questo lo infastidiva; egli si vergognava a dirvelo, ma Allah non si vergogna della verità…”
 
@@ -662,7 +662,7 @@ Disagio personale trasformato in legge; eppure un hadith riporta che egli visita
 
 Contrasto evidente.
 
-### Contrasto con Cristo
+#### Contrasto con Cristo
 
 - Gesù non cercò privilegi; venne per servire.
 
@@ -670,11 +670,11 @@ Contrasto evidente.
 > “Il Figlio dell’uomo è venuto non per essere servito, ma per servire e dare la sua vita come prezzo di riscatto per molti.”
 
 
-**Contraddizioni e omissioni nel Corano**
+### Contraddizioni e omissioni nel Corano
 
 L’Islam dichiara il Corano privo di contraddizioni; tuttavia compaiono conflitti nel testo e nella tradizione.
 
-### 1) Cronologia della creazione
+#### 1) Cronologia della creazione
 **Corano 7:54**: sei giorni.
 
 **Qur’an 41:9–12 (Italiano)**
@@ -683,14 +683,14 @@ L’Islam dichiara il Corano privo di contraddizioni; tuttavia compaiono conflit
 
 La Bibbia: sei giorni di creazione, settimo di riposo (Genesi 1:31–2:2).
 
-### 2) Vino: benedizione o impurità?
+#### 2) Vino: benedizione o impurità?
 **Corano 16:67**: bevanda inebriante e buon sostentamento.
 
 **Corano 5:90**: gli inebrianti sono opera di Satana; evitateli.
 
 La Bibbia: condanna l’ubriachezza, ammette il vino con moderazione (Sal 104:15; Ef 5:18).
 
-### 3) Violenza vs. Pace
+#### 3) Violenza vs. Pace
 **Corano 2:256**: “Nessuna costrizione nella religione.”
 
 **Corano 9:5; 9:29**: uccidete i politeisti… prendete la jizya dagli ebrei e cristiani…
@@ -700,14 +700,14 @@ Molti studiosi musulmani considerano le seconde ayat abroganti delle prime. Ges�
 **(Matteo 5:44)**
 > “Amate i vostri nemici e pregate per quelli che vi perseguitano.”
 
-### 4) Destino vs. Libero arbitrio
+#### 4) Destino vs. Libero arbitrio
 **Corano 18:29**: “Chi vuole creda, chi vuole rinneghi.”
 
 **Corano 16:93**: “Allah svia chi vuole e guida chi vuole…”
 
 La Bibbia tiene insieme sovranità divina e responsabilità umana (Romani 9:19–21; Gs 24:15).
 
-### 5) Morte di Gesù
+#### 5) Morte di Gesù
 **Corano 4:157**: negazione.
 
 **Corano 19:33**: “Pace su di me il giorno in cui morirò…”: sembra affermarla.
@@ -724,7 +724,7 @@ La Bibbia: coerente:
 
 - **Luciano**, **Mara bar-Serapion**: riferimenti alla croce.
 
-### 6) Versi mancanti
+#### 6) Versi mancanti
 Fonti islamiche affermano:
 - **Verso della lapidazione** (adulterio): (Sunan Ibn Majah 1944).
 
@@ -737,7 +737,7 @@ Fonti islamiche affermano:
 La Bibbia: migliaia di manoscritti, alta affidabilità di ricostruzione; varianti minori, nessuna dottrina perduta.
 
 
-### Conclusione
+#### Conclusione
 
 L’Islam proclama un Dio unico e onora Gesù come profeta, ma nega la sua figliolanza, crocifissione e risurrezione. Il Corano presenta contraddizioni e lacune; la Bibbia è storicamente conservata con coerenza.
 

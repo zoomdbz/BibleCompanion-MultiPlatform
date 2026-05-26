@@ -924,6 +924,8 @@ So oder so kann der Islam dem Problem nicht entkommen. Der Islam ist falsch. Er 
 
 **Warum es in dieser Liste steht:** Der Islam leugnet die Gottheit Christi, die Kreuzigung Christi, die Auferstehung Christi und die Hinlänglichkeit der Schrift. Das sind die zentralen Behauptungen des Evangeliums. An Muslime, die dies lesen: Das ist keine persönliche Feindseligkeit. Christen, die kritisch über den Islam schreiben, tun dies, weil die Frage, wer Jesus ist, mehr zählt als diplomatische Höflichkeiten. Wenn Jesus der ist, der er behauptete zu sein (und die historischen Beweise überwältigend das frühe Augenzeugentzeugnis für seine Gottheit, seinen Tod und seine Auferstehung stützen), dann liegt der Islam in der wichtigsten Frage falsch, die ein Mensch beantworten kann. (Apostelgeschichte 4:12).
 
+*Siehe auch: den Abschnitt Der unsichtbare Krieg für eine tiefere Behandlung des Islam.*
+
 ---
 
 ### New-Age-Christentum, Christusbewusstsein und Gnostische Wiederbelebung
