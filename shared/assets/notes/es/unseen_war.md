@@ -309,14 +309,14 @@ La Biblia afirma su propia preservación.
 
 **Consecuencia lógica:** Si los musulmanes dicen que la Torá y el Evangelio fueron corrompidos, esa postura contradice al mismo Corán, que los llama “guía y luz” y hasta instruye a Mahoma a consultar a quienes los leen. Históricamente, las primeras críticas musulmanas hablaban de **mala interpretación** (*taḥrīf al-maʿnā*), no de corrupción textual (*taḥrīf al-naṣṣ*). La idea de corrupción textual se endureció después como salida ante las contradicciones del Corán.
 
-### Evidencia histórica de manuscritos: Biblia vs. Corán
+**Evidencia histórica de manuscritos: Biblia vs. Corán**
 
-#### La Biblia
+**La Biblia**
 - **Antiguo Testamento:** Los Rollos del Mar Muerto (siglo III–I a.C.) confirman la estabilidad del texto hebreo. El Gran Rollo de Isaías concuerda ampliamente con los textos masoréticos posteriores como el Códice de Alepo y el Códice de Leningrado, aparte de diferencias menores de ortografía.
 
 - **Nuevo Testamento:** Existen miles de manuscritos griegos, incluyendo fragmentos muy tempranos como el Papiro P52 (~125 d.C., del Evangelio de Juan), P66 y P75 (siglos II–III). Códices completos como el Sinaítico (siglo IV) concuerdan con ellos. Con más de 5,000 manuscritos, el texto del NT se reconstruye con notable exactitud.
 
-#### El Corán
+**El Corán**
 - Los primeros musulmanes temían la pérdida del Corán después de que muchos memorizadores murieron en la batalla de Yamama. El califa Uthmán creó una recensión oficial en dialecto de Quraish y ordenó quemar todas las copias variantes.
 
 - Los hadices registran versículos faltantes:

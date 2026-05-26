@@ -310,14 +310,14 @@ La Bible affirme sa propre préservation.
 
 **Conséquence logique :** Si des musulmans soutiennent que la Torah (Ancien Testament) et l’Évangile (Nouveau Testament) sont corrompus textuellement, cette position **contredit le Coran lui-même**, qui les appelle « direction et lumière » et ordonne même à Mahomet de consulter leurs lecteurs (voir les versets ci-dessus). Historiquement, la polémique musulmane ancienne s’est concentrée sur la **mauvaise interprétation** (*taḥrīf al-maʿnā*), non sur la corruption textuelle (*taḥrīf al-naṣṣ*). **L’affirmation d’une corruption du texte s’est durcie plus tard** comme moyen de résoudre des tensions, une fois relevées des contradictions dans le contenu et la transmission du Coran.
 
-### Données historiques des manuscrits : Bible vs Coran
+**Données historiques des manuscrits : Bible vs Coran**
 
-#### La Bible
+**La Bible**
 - **Ancien Testament :** Les Manuscrits de la mer Morte (IIIᵉ–Iᵉ siècle av. J.-C.) confirment la stabilité de la Bible hébraïque. Par exemple, le Grand Rouleau d’Ésaïe correspond de près aux textes massorétiques ultérieurs comme le Codex d’Alep et le Codex de Léningrad, à part des différences mineures d’orthographe.
 
 - **Nouveau Testament :** Des milliers de manuscrits grecs existent, dont des fragments très anciens comme le Papyrus P52 (~125 apr. J.-C., de l’Évangile de Jean), P66 et P75 (IIᵉ–IIIᵉ siècle). Des codex complets comme le Codex Sinaïticus (IVᵉ siècle) s’alignent sur ces témoins. Avec plus de 5 000 manuscrits, le texte du Nouveau Testament est reconstituable avec une remarquable précision.
 
-#### Le Coran
+**Le Coran**
 - Les premiers musulmans craignaient la perte du Coran après la mort de nombreux mémorisateurs à la bataille de Yamāma. Le calife ʿUthmān produisit une recension officielle en dialecte qurayshite et ordonna de brûler tous les codex variant.
 
 - Les sources hadithiques mentionnent des versets manquants :

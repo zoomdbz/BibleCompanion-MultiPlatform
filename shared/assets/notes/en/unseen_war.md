@@ -310,14 +310,14 @@ The Bible affirms its own preservation.
 
 **Logical consequence:** If Muslims claim the Torah (Old Testament) and the Gospel (New Testament) are textually corrupted, that stance **contradicts the Qur’an itself**, which calls them “guidance and light” and even instructs Muhammad to consult their readers (see verses above). Historically, early Muslim polemic focused on **misinterpretation** (*taḥrīf al-maʿnā*), not textual corruption (*taḥrīf al-naṣṣ*). The **text-corruption claim hardened later** as a way to resolve tensions once contradictions in the Qur’an’s content and transmission were noticed.
 
-### Historical Manuscript Evidence: Bible vs. Qur’an
+**Historical Manuscript Evidence: Bible vs. Qur’an**
 
-#### The Bible
+**The Bible**
 - **Old Testament:** The Dead Sea Scrolls (3rd–1st century BC) confirm the stability of the Hebrew Bible. For example, the Great Isaiah Scroll matches closely with the later Masoretic Texts such as the Aleppo Codex and Codex Leningradensis, apart from minor spelling differences.
 
 - **New Testament:** Thousands of Greek manuscripts exist, including very early fragments like Papyrus P52 (~125 AD, from the Gospel of John), P66, and P75 (2nd–3rd century). Complete codices like Codex Sinaiticus (4th century) align with these. With over 5,000 manuscripts, the New Testament text is reconstructable with remarkable accuracy.
 
-#### The Qur’an
+**The Qur’an**
 - Early Muslims feared loss of the Qur’an after many memorizers died in battle at Yamāma. Caliph Uthman created an official recension in the Quraysh dialect and ordered all variant codices burned.
 
 - Hadith sources record missing verses:

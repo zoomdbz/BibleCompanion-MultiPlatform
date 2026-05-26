@@ -317,14 +317,14 @@ Die Bibel bezeugt ihre eigene Bewahrung.
 
 **Logische Konsequenz:** Wenn Muslime behaupten, die Tora (Altes Testament) und das Evangelium (Neues Testament) seien textlich verfälscht, widerspricht diese Haltung **dem Koran selbst**, der sie „Rechtleitung und Licht“ nennt und Muhammad sogar anweist, ihre Leser zu befragen (siehe Verse oben). Historisch richtete sich die frühe muslimische Polemik auf **Fehlinterpretation** (*taḥrīf al-maʿnā*), nicht auf Textverfälschung (*taḥrīf an-naṣṣ*). Die **Textverfälschungs-These verhärtete sich später**, um Spannungen zu lösen, nachdem Widersprüche im Inhalt und in der Überlieferung des Korans bemerkt wurden.
 
-### Historische Handschriftenlage: Bibel vs. Koran
+**Historische Handschriftenlage: Bibel vs. Koran**
 
-#### Die Bibel
+**Die Bibel**
 - **Altes Testament:** Die Schriftrollen vom Toten Meer (3.–1. Jh. v. Chr.) bestätigen die Stabilität der Hebräischen Bibel. Der Große Jesajarolle etwa entspricht weitgehend den späteren masoretischen Texten wie dem Aleppo-Kodex und dem Codex Leningradensis, abgesehen von kleineren orthographischen Unterschieden.
 
 - **Neues Testament:** Es existieren Tausende griechische Handschriften, darunter sehr frühe Fragmente wie Papyrus P52 (~125 n. Chr., aus dem Johannesevangelium), P66 und P75 (2.–3. Jh.). Vollständige Codices wie der Codex Sinaiticus (4. Jh.) stimmen mit diesen überein. Mit über 5.000 Handschriften ist der Text des Neuen Testaments mit bemerkenswerter Genauigkeit rekonstruierbar.
 
-#### Der Koran
+**Der Koran**
 - Frühe Muslime fürchteten den Verlust des Korans, nachdem viele Auswendiglerner in der Schlacht von Yamāma gefallen waren. Kalif ʿUthmān schuf eine offizielle Rezension im Quraisch-Dialekt und ließ alle abweichenden Kodizes verbrennen.
 
 - Hadith-Quellen berichten von fehlenden Versen:

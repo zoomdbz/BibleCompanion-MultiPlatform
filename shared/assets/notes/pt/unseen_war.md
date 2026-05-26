@@ -310,14 +310,14 @@ A Bíblia afirma sua própria preservação.
 
 **Consequência lógica:** Se muçulmanos afirmam que a Torá (Antigo Testamento) e o Evangelho (Novo Testamento) foram corrompidos textualmente, essa posição **contradiz o próprio Alcorão**, que os chama de “orientação e luz” e até instrui Maomé a consultar seus leitores (veja os versículos acima). Historicamente, a polêmica muçulmana inicial focou **distorção de interpretação** (*taḥrīf al-maʿnā*), não **corrupção textual** (*taḥrīf an-naṣṣ*). A **tese de corrupção textual se fortaleceu mais tarde** como forma de resolver tensões quando vieram à tona contradições no conteúdo e na transmissão do Alcorão.
 
-### Evidência manuscrita histórica: Bíblia x Alcorão
+**Evidência manuscrita histórica: Bíblia x Alcorão**
 
-#### A Bíblia
+**A Bíblia**
 - **Antigo Testamento:** Os Manuscritos do Mar Morto (séculos III–I a.C.) confirmam a estabilidade do texto hebraico. Por exemplo, o Grande Rolo de Isaías coincide de perto com os posteriores textos massoréticos (Códice de Alepo e Códice de Leningrado), salvo diferenças ortográficas menores.
 
 - **Novo Testamento:** Existem milhares de manuscritos gregos, incluindo fragmentos muito antigos, como o Papiro P52 (~125 d.C., do Evangelho de João), P66 e P75 (sécs. II–III). Códices completos do século IV (como o Sinaítico) concordam com esses testemunhos. Com mais de 5.000 manuscritos, o texto do Novo Testamento é reconstruível com notável precisão.
 
-#### O Alcorão
+**O Alcorão**
 - Após a batalha de Yamama, muitos memorizadores do Alcorão morreram, gerando temor de perda. O califa Uthman produziu uma recensão oficial no dialeto coraixita e ordenou que os códices variantes fossem queimados.
 
 - As fontes de hadith registram versículos ausentes hoje:

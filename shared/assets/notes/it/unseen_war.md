@@ -310,14 +310,14 @@ La Bibbia afferma la propria conservazione.
 
 **Conseguenza logica:** Se qualcuno sostiene che la Torà (Antico Testamento) e il Vangelo (Nuovo Testamento) siano stati testualmente corrotti, ciò **contraddice il Corano stesso**, che li chiama “guida e luce” e ordina persino a Maometto di consultarne i lettori. Storicamente, la polemica musulmana iniziale si concentrava sulla **cattiva interpretazione** (*taḥrīf al-maʿnā*), non sulla **corruzione del testo** (*taḥrīf al-naṣṣ*); l’accusa di corruzione testuale si è irrigidita più tardi per gestire le tensioni emerse attorno a contraddizioni di contenuto e trasmissione del Corano.
 
-### Evidenza manoscritta: Bibbia vs. Corano
+**Evidenza manoscritta: Bibbia vs. Corano**
 
-#### La Bibbia
+**La Bibbia**
 - **Antico Testamento:** I Rotoli del Mar Morto (III–I sec. a.C.) confermano la stabilità della Bibbia ebraica; il Grande Rotolo di Isaia concorda strettamente con i testi masoretici successivi (Aleppo, Leningrado), salvo minime differenze ortografiche.
 
 - **Nuovo Testamento:** Esistono migliaia di manoscritti greci, inclusi frammenti molto antichi come P52 (~125 d.C., Vangelo di Giovanni), P66 e P75 (II–III sec.). Codici completi come il Sinaitico (IV sec.) concordano con questi. Con oltre 5.000 manoscritti, il testo è ricostruibile con notevole accuratezza.
 
-#### Il Corano
+**Il Corano**
 - Dopo la battaglia di Yamāma, la morte di molti memorizzatori generò timore di perdita. Il califfo ʿUthmān produsse una recensione ufficiale nel dialetto dei Quraysh e ordinò di bruciare i codici varianti.
 
 - Le fonti hadith menzionano versetti mancanti:
