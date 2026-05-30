@@ -361,13 +361,13 @@ Instituciones aman simple.
 
 Enoc no es simple.
 
-### Pero por qué es importante:
+**Pero por qué es importante:**
 La carta de la Epístola de Judas directamente cita Enoc como profecía.
 
 No "como una ilustración."
 No "como una historia."
 
-### Como profecía.
+**Como profecía.**
 
 Lo cual te dice primeros cristianos claramente lo respetaban.
 

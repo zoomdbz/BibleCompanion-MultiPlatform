@@ -418,7 +418,7 @@ Not every phrase people quote as “biblical truth” is actually in the Bible. 
 
 ---
 
-### **Takeaway:**
+## **Takeaway:**
 The Bible must be read in full context. Distortions arise when verses are twisted or when cultural sayings masquerade as Scripture. God’s Word does not serve nationalism, coercion, corruption, prosperity preaching, or false gospels; it points to Christ, who is Lord over every nation, culture, leader, and individual life.
 
 **Pattern:**  

@@ -360,13 +360,13 @@ Instituições amam o simples.
 
 Enoque não é simples.
 
-### Mas por que é importante:
+**Mas por que é importante:**
 A carta da Epístola de Judas cita Enoque diretamente como profecia.
 
 Não "como uma ilustração."
 Não "como uma história."
 
-### Como profecia.
+**Como profecia.**
 
 O que te diz que os primeiros cristãos claramente o respeitavam.
 

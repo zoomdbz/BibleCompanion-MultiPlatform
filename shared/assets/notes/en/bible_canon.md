@@ -361,13 +361,13 @@ Institutions love simple.
 
 Enoch is not simple.
 
-### But why it's important:
+**But why it's important:**
 The letter of Epistle of Jude straight up quotes Enoch as prophecy.
 
 Not "as an illustration."
 Not "as a story."
 
-### As prophecy.
+**As prophecy.**
 
 Which tells you early Christians clearly respected it.
 

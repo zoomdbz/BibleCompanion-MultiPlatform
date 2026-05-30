@@ -4890,16 +4890,22 @@ private fun GenericNotesScreen(
   ) { pad ->
     Box(Modifier.fillMaxSize().pointerInput(Unit) {
       awaitEachGesture {
-        awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+        val down = awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+        val startPos = down.position
+        var scrolled = false
         try {
           withTimeout(viewConfiguration.longPressTimeoutMillis) {
             while (true) {
               val event = awaitPointerEvent(PointerEventPass.Initial)
               if (event.changes.all { !it.pressed }) break
+              if (event.changes.any { (it.position - startPos).getDistance() > viewConfiguration.touchSlop }) {
+                scrolled = true
+                break
+              }
             }
           }
         } catch (_: PointerEventTimeoutCancellationException) {
-          showDismissButton = true
+          if (!scrolled) showDismissButton = true
         }
       }
     }) {

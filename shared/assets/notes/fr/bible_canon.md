@@ -361,13 +361,13 @@ Les institutions aiment le simple.
 
 Hénoch n’est pas simple.
 
-### Mais pourquoi c’est important :
+**Mais pourquoi c’est important :**
 L’épître de Jude cite Hénoch directement comme prophétie.
 
 Pas « comme une illustration ».
 Pas « comme une histoire ».
 
-### Comme prophétie.
+**Comme prophétie.**
 
 Ce qui te dit que les premiers chrétiens le respectaient clairement.
 

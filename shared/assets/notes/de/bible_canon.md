@@ -361,13 +361,13 @@ Institutionen lieben Einfaches.
 
 Henoch ist nicht einfach.
 
-### Aber warum es wichtig ist:
+**Aber warum es wichtig ist:**
 Der Judasbrief zitiert Henoch direkt als Prophezeiung.
 
 Nicht „als Illustration“.
 Nicht „als Geschichte“.
 
-### Als Prophezeiung.
+**Als Prophezeiung.**
 
 Das zeigt dir, dass frühe Christen es eindeutig respektierten.
 

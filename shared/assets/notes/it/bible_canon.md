@@ -361,13 +361,13 @@ Le istituzioni amano il semplice.
 
 Enoch non è semplice.
 
-### Ma perché è importante:
+**Ma perché è importante:**
 La lettera dell’Epistola di Giuda cita direttamente Enoch come profezia.
 
 Non "come un’illustrazione."
 Non "come una storia."
 
-### Come profezia.
+**Come profezia.**
 
 Questo ti dice che i primi cristiani chiaramente lo rispettavano.
 
