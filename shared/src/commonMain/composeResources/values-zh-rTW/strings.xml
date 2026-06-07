@@ -163,6 +163,7 @@
     <string name="pref_divine_name_desc">如何顯示四字聖名（יהוה）。大多數譯本將其譯為耶和華。</string>
     <string name="divine_name_traditional">耶和華</string>
     <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yhvh">YHVH</string>
     <string name="divine_name_yahweh">雅威</string>
     <string name="pref_divine_name_color_title">聖名高亮顏色</string>
 

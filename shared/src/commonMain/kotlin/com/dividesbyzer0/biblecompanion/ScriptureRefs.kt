@@ -75,7 +75,11 @@ internal fun applyDivineName(
     return highlightTraditionalName(text, lk, isOt)
   }
 
-  val base = if (mode == "yhwh") "YHWH" else "Yahweh"
+  val base = when (mode) {
+    "yhwh" -> "YHWH"
+    "yhvh" -> "YHVH"
+    else -> "Yahweh"
+  }
   val r = wrap(base)
   // Universal pass: the Latin/English Tetragrammaton tokens (LORD constructs,
   // YHWH, YHVH, Yahweh, Yahuah, Yah) appear as transliterations in EVERY
@@ -187,14 +191,35 @@ internal fun applyDivineName(
 
 private fun highlightTraditionalName(text: String, lang: String, isOt: Boolean): String {
   fun w(s: String) = "[DN]$s[/DN]"
-  // Universal pass: color the Latin/English Tetragrammaton tokens (LORD, GOD,
-  // YHWH, YHVH, Yahweh, Yahuah, Yah) for every language, since study notes use
-  // these transliterations regardless of locale. Each language then colors its
-  // own localized token on top of this result.
-  val latin = text
+  // Study notes write the Tetragrammaton as the Latin "YHWH"/"Yahweh"/etc. In
+  // traditional mode the user wants this language's traditional rendering (the
+  // LORD, SEÑOR, ...), so convert those Latin tokens to it FIRST (bare); the
+  // coloring passes below then wrap it once like any other traditional token.
+  // The app's verse text already stores the traditional token (no Latin YHWH),
+  // so it is unaffected by this conversion.
+  val tradWord = when (lang) {
+    "en" -> "the LORD"
+    "es" -> "SEÑOR"
+    "pt" -> "SENHOR"
+    "fr" -> "ÉTERNEL"
+    "de" -> "HERR"
+    "it" -> "SIGNORE"
+    "ru" -> "Господь"
+    "ar" -> "الرب"
+    "hi" -> "यहोवा"
+    "ko" -> "주"
+    "ja" -> "主"
+    "zh-Hans" -> "耶和华"
+    "zh-Hant" -> "耶和華"
+    else -> "the LORD"
+  }
+  var converted = text.replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b"), tradWord)
+  if (lang == "en") converted = converted.replace("the the LORD", "the LORD")
+  // Color the universal English tokens; the converted tradWord is colored here
+  // (en) or by the localized branch below (other languages).
+  val latin = converted
     .replace(Regex("\\bLORD\\b")) { w(it.value) }
     .replace(Regex("\\bGOD\\b")) { w(it.value) }
-    .replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b")) { w(it.value) }
   return when (lang) {
     "en" -> latin
     "es" -> latin

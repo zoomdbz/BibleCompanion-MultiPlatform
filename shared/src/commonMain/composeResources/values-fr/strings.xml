@@ -164,6 +164,7 @@
     <string name="pref_divine_name_desc">Comment afficher le Tétragramme (יהוה). La plupart des traductions le rendent par ÉTERNEL ou SEIGNEUR.</string>
     <string name="divine_name_traditional">ÉTERNEL</string>
     <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yhvh">YHVH</string>
     <string name="divine_name_yahweh">Yahvé</string>
     <string name="pref_divine_name_color_title">Couleur de mise en évidence du Nom Divin</string>
 

@@ -90,6 +90,7 @@
     <string name="pref_divine_name_desc">How to display the Tetragrammaton (יהוה). Most translations render it as LORD in small capitals.</string>
     <string name="divine_name_traditional">LORD</string>
     <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yhvh">YHVH</string>
     <string name="divine_name_yahweh">Yahweh</string>
     <string name="pref_divine_name_color_title">Divine Name highlight color</string>
 

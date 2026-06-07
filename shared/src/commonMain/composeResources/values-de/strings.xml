@@ -162,6 +162,7 @@
     <string name="pref_divine_name_desc">Wie das Tetragrammaton (יהוה) angezeigt wird. Die meisten Übersetzungen geben es als HERR wieder.</string>
     <string name="divine_name_traditional">HERR</string>
     <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yhvh">YHVH</string>
     <string name="divine_name_yahweh">Jahwe</string>
     <string name="pref_divine_name_color_title">Hervorhebungsfarbe des Gottesnamens</string>
 

@@ -163,6 +163,7 @@
     <string name="pref_divine_name_desc">테트라그라마톤(יהוה)을 어떻게 표시할지 선택합니다. 대부분의 번역에서는 여호와로 표기합니다.</string>
     <string name="divine_name_traditional">여호와</string>
     <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yhvh">YHVH</string>
     <string name="divine_name_yahweh">야훼</string>
     <string name="pref_divine_name_color_title">하나님 이름 강조 색상</string>
 

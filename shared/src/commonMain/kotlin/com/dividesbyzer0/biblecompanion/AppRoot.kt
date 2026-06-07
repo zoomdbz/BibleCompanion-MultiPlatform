@@ -4178,6 +4178,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       val divineNameOptions = listOf(
         "traditional" to stringResource(Res.string.divine_name_traditional),
         "yhwh"        to stringResource(Res.string.divine_name_yhwh),
+        "yhvh"        to stringResource(Res.string.divine_name_yhvh),
         "yahweh"      to stringResource(Res.string.divine_name_yahweh)
       )
       Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
