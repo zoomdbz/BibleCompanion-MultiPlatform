@@ -94,3 +94,225 @@
     <string name="christophanies">मसीह के प्राकट्य</string>
     <string name="faqs">अक्सर पूछे जाने वाले प्रश्न</string>
     <string name="bibliography">ग्रंथसूची</string>
+    <string name="version_label">संस्करण %1$s</string>
+    <string name="rate_app">इस ऐप को रेट करें</string>
+    <string name="share_app">इस ऐप को शेयर करें</string>
+    <string name="study_reference">अध्ययन &amp; संदर्भ</string>
+    <string name="continue_reading">पढ़ना जारी रखें</string>
+    <string name="saved_items">बुकमार्क और सहेजे गए पद</string>
+    <string name="bookmarks_tab">बुकमार्क</string>
+    <string name="saved_verses_tab">सहेजे गए पद</string>
+    <string name="labels_tab">लेबल</string>
+    <string name="new_label">नया लेबल</string>
+    <string name="label_name">लेबल का नाम</string>
+    <string name="no_labels_yet">अभी कोई लेबल नहीं</string>
+    <string name="add_label">लेबल जोड़ें</string>
+    <string name="edit_label">लेबल संपादित करें</string>
+    <string name="delete_label">लेबल हटाएँ</string>
+    <string name="delete_label_confirm">क्या आप "%1$s" को हटाना चाहते हैं? यह %1$d सहेजे गए पदों से जुड़ा है। पद हटाए नहीं जाएंगे, लेकिन लेबल हटा दिया जाएगा।</string>
+    <string name="dont_ask_again">दोबारा न पूछें</string>
+    <string name="show_more">और दिखाएँ</string>
+    <string name="show_less">कम दिखाएँ</string>
+    <string name="cross_references">क्रॉस संदर्भ</string>
+    <string name="manuscript_variants_header">पांडुलिपि रूपांतर</string>
+    <string name="translation_notes_header">अनुवाद टिप्पणियाँ</string>
+    <string name="key_takeaway">मुख्य निष्कर्ष</string>
+    <string name="share">साझा करें</string>
+    <string name="text_size">पाठ का आकार</string>
+    <string name="text_small">छोटा</string>
+    <string name="text_medium">मध्यम</string>
+    <string name="text_large">बड़ा</string>
+
+    <!-- Search -->
+    <string name="search_section">खोज</string>
+    <string name="ai_search">AI खोज</string>
+    <string name="ai_search_desc">संबंधित अनुच्छेद खोजें, भले ही सटीक शब्द मेल न खाएं। कीवर्ड नहीं, अवधारणा से खोजता है। पूरी तरह आपके डिवाइस पर चलता है।</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_section">सुगम्यता</string>
+    <string name="haptic_feedback">स्पर्श प्रतिक्रिया</string>
+    <string name="expand_notes_default">डिफ़ॉल्ट रूप से नोट्स विस्तृत करें</string>
+    <string name="tts_section">पाठ से वाणी</string>
+    <string name="tts_auto_continue">स्वतः वाचन जारी रखें</string>
+    <string name="tts_cross_book">पुस्तकों के बीच जारी रखें</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">%1$s पर जारी रखें</string>
+
+    <!-- Settings sections -->
+    <string name="appearance">दिखावट</string>
+    <string name="content_section">सामग्री</string>
+    <string name="support">सहायता</string>
+    <string name="onboarding_1_title">किसी भी विषय को खोजें</string>
+    <string name="onboarding_1_text">पूरी बाइबल में अध्याय, पद और विषय खोजें।</string>
+    <string name="onboarding_2_title">संदर्भ पर टैप करें</string>
+    <string name="onboarding_2_text">किसी भी शास्त्र संदर्भ पर टैप करके उसे अपने बाइबल ऐप में पढ़ें।</string>
+    <string name="onboarding_3_title">इसे अपना बनाएँ</string>
+    <string name="onboarding_3_text">सेटिंग्स में थीम, भाषा, फ़ॉन्ट और बाइबल संस्करण को अनुकूलित करें।</string>
+    <string name="get_started">शुरू करें</string>
+    <string name="next_button">अगला</string>
+    <string name="skip">छोड़ें</string>
+    <string name="verse_of_the_day">आज का वचन</string>
+    <string name="votd_dismiss_today">आज के लिए छिपाएं</string>
+    <string name="feast_verse_label">पर्व का वचन</string>
+
+    <string name="no_books_found"><![CDATA[वर्तमान भाषा में इस अनुभाग के लिए कोई सामग्री उपलब्ध नहीं है। सेटिंग्स में अंग्रेज़ी पर स्विच करके देखें।]]></string>
+
+    <!-- Divine Name (Tetragrammaton) setting -->
+    <string name="pref_divine_name_title">परमेश्वर का नाम (YHWH)</string>
+    <string name="pref_divine_name_desc">टेट्राग्रामेटन (יהוה) कैसे प्रदर्शित करें। अधिकांश अनुवाद इसे यहोवा या प्रभु के रूप में प्रस्तुत करते हैं।</string>
+    <string name="divine_name_traditional">यहोवा</string>
+    <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yahweh">याहवे</string>
+    <string name="pref_divine_name_color_title">परमेश्वर के नाम का हाइलाइट रंग</string>
+
+    <!-- Feast Calendar -->
+    <string name="feast_calendar">बाइबल कैलेंडर</string>
+    <string name="feast_about_heading">कैलेंडर के बारे में</string>
+    <string name="feast_today">आज</string>
+    <string name="feast_this_month">इस महीने के पर्व</string>
+    <string name="feast_typology_title">पर्व प्रतिरूपण: मसीह की छायाएँ</string>
+    <string name="feast_spring_heading">वसंत पर्व; पहला आगमन</string>
+    <string name="feast_fall_heading">शरद पर्व; दूसरा आगमन</string>
+    <string name="feast_idiom_note">"उस दिन और उस घड़ी के बारे में कोई नहीं जानता" (मत्ती 24:36); तुरही के पर्व के लिए एक प्रसिद्ध मुहावरा।</string>
+
+    <!-- Ordained Feasts section -->
+    <string name="ordained_feasts_heading">नियुक्त पर्व</string>
+    <string name="ordained_commanded_heading">तोराह में आदेशित</string>
+    <string name="ordained_tradition_heading">परंपरा (आदेशित नहीं)</string>
+    <string name="feast_passover">फसह (पेसाख)</string>
+    <string name="feast_passover_ref">लैव्यव्यवस्था 23:5</string>
+    <string name="feast_unleavened">अखमीरी रोटी का पर्व</string>
+    <string name="feast_unleavened_ref">लैव्यव्यवस्था 23:6–8</string>
+    <string name="feast_firstfruits">पहले फलों का पर्व</string>
+    <string name="feast_firstfruits_ref">लैव्यव्यवस्था 23:9–14</string>
+    <string name="feast_second_passover">दूसरा फसह (पेसख शेनी)</string>
+    <string name="feast_second_passover_ref">गिनती 9:9–14</string>
+    <string name="feast_weeks">सप्ताहों का पर्व (शावुओत/पेन्तेकुस्त)</string>
+    <string name="feast_weeks_ref">लैव्यव्यवस्था 23:15–22</string>
+    <string name="feast_trumpets">तुरही का पर्व (योम तरुआ)</string>
+    <string name="feast_trumpets_ref">लैव्यव्यवस्था 23:23–25</string>
+    <string name="feast_atonement">प्रायश्चित का दिन (योम किप्पुर)</string>
+    <string name="feast_atonement_note">(उपवास)</string>
+    <string name="feast_atonement_ref">लैव्यव्यवस्था 23:26–32</string>
+    <string name="feast_tabernacles">झोपड़ियों का पर्व (सुक्कोत)</string>
+    <string name="feast_tabernacles_ref">लैव्यव्यवस्था 23:33–43</string>
+    <string name="feast_shemini_atzeret">शेमिनी अत्ज़ेरेत (आठवें दिन की सभा)</string>
+    <string name="feast_shemini_atzeret_ref">लैव्यव्यवस्था 23:36; गिनती 29:35</string>
+    <string name="feast_purim">पूरीम</string>
+    <string name="feast_purim_ref">एस्तेर 9:20–32</string>
+    <string name="feast_hanukkah">हनुक्का (समर्पण का पर्व)</string>
+    <string name="feast_hanukkah_ref">यूहन्ना 10:22–23; 1 मक्काबीज़ 4:52–59</string>
+    <string name="feast_fast_tammuz">तम्मूज़ की सत्रह तारीख (उपवास)</string>
+    <string name="feast_fast_tammuz_ref">जकर्याह 8:19</string>
+    <string name="feast_tisha_bav">तिशा बे-आव (उपवास)</string>
+    <string name="feast_tisha_bav_ref">जकर्याह 8:19</string>
+    <string name="feast_fast_gedaliah">गदल्याह का उपवास</string>
+    <string name="feast_fast_gedaliah_ref">जकर्याह 8:19; 2 राजा 25:25</string>
+    <string name="feast_fast_tevet">तेवेत का दसवां (उपवास)</string>
+    <string name="feast_fast_tevet_ref">जकर्याह 8:19; 2 राजा 25:1</string>
+    <string name="feast_fast_esther">एस्तेर का उपवास</string>
+    <string name="feast_fast_esther_ref">एस्तेर 4:16</string>
+
+    <!-- एस्सेनी / मन्दिर पुस्तक / जुबली के पर्व -->
+    <string name="feast_new_wine_name">नई दाखमधु का पर्व</string>
+    <string name="feast_new_oil_name">नए तेल का पर्व</string>
+    <string name="feast_memorial_q2_name">द्वितीय स्मरण दिवस</string>
+    <string name="feast_memorial_q4_name">चतुर्थ स्मरण दिवस</string>
+    <string name="essene_calendar_label">एस्सेनी</string>
+
+    <!-- Prophecy -->
+    <string name="prophecy">भविष्यवाणी</string>
+    <string name="prophecy_subtitle">पवित्रशास्त्र में बुनी गई भविष्यवाणी के धागों को जानें; मसीहाई पूर्ति से लेकर प्रकाशितवाक्य के पर्वों तक।</string>
+    <string name="prophecy_messianic">मसीहाई भविष्यवाणी मानचित्र</string>
+    <string name="prophecy_messianic_desc">पुराने नियम की भविष्यवाणियाँ → नए नियम में पूर्ति</string>
+    <string name="prophecy_daniel">दानिय्येल की समयरेखा</string>
+    <string name="prophecy_daniel_desc">मूर्ति, चार पशु, 70 सप्ताह और मनुष्य का पुत्र</string>
+    <string name="prophecy_astronomical">खगोलीय चिह्न</string>
+    <string name="prophecy_astronomical_desc">रक्त चंद्रमा, ग्रहण और बेथलहम का तारा</string>
+    <string name="prophecy_revelation">प्रकाशितवाक्य सिंहावलोकन</string>
+    <string name="prophecy_revelation_desc">इब्रानी मुहावरों और पर्व संबंधों के साथ संरचित पठन मार्गदर्शिका</string>
+    <!-- Data -->
+    <string name="data_section">डेटा</string>
+    <string name="data_section_desc">बुकमार्क, सहेजे गए पद, हाइलाइट और लेबल को उपकरणों के बीच स्थानांतरित करें। डेटा को क्लिपबोर्ड पर कॉपी करने के लिए निर्यात पर टैप करें, फिर दूसरे उपकरण पर आयात में चिपकाएं। सेटिंग और प्राथमिकताएं शामिल नहीं हैं।</string>
+    <string name="export_data">निर्यात करें</string>
+    <string name="import_data">आयात करें</string>
+    <string name="import_paste_hint">बैकअप JSON यहाँ चिपकाएँ</string>
+    <string name="import_confirm">पुनर्स्थापित करें</string>
+    <string name="select_all">सभी चुनें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="copied_to_clipboard">क्लिपबोर्ड पर कॉपी किया गया</string>
+    <string name="import_success">सफल: डेटा पुनर्स्थापित</string>
+    <string name="import_error">त्रुटि: अमान्य बैकअप डेटा</string>
+    <string name="cd_bookmark">बुकमार्क</string>
+    <string name="cd_highlight">हाइलाइट</string>
+    <string name="cd_label">लेबल</string>
+    <string name="cd_toggle_bookmark">बुकमार्क टॉगल करें</string>
+    <string name="cd_remove_bookmark">बुकमार्क हटाएं</string>
+    <string name="cd_remove_saved_verse">सहेजा गया पद हटाएं</string>
+    <string name="cd_remove_label">लेबल हटाएं</string>
+    <string name="cd_remove_verse_label">पद से लेबल हटाएं</string>
+    <string name="cd_copy">कॉपी</string>
+    <string name="cd_tts_play">चलाएँ</string>
+    <string name="cd_tts_pause">रोकें</string>
+    <string name="cd_tts_stop">रोक दें</string>
+    <string name="cd_tts_resume">पुनः आरंभ करें</string>
+    <string name="search_no_results">“%1$s” के लिए कोई परिणाम नहीं</string>
+    <string name="snack_undo">पूर्ववत करें</string>
+    <string name="snack_highlight_cleared">हाइलाइट हटाया गया</string>
+    <string name="snack_verse_removed">सहेजा गया पद हटाया गया</string>
+    <string name="snack_bookmark_removed">बुकमार्क हटाया गया</string>
+    <string name="feast_typology_passover_name">फसह (निसान 14)</string>
+    <string name="feast_typology_passover_meaning">क्रूस पर चढ़ाया जाना</string>
+    <string name="feast_typology_unleavened_name">अखमीरी रोटी का पर्व (निसान 15)</string>
+    <string name="feast_typology_unleavened_meaning">दफन / पापरहितता</string>
+    <string name="feast_typology_firstfruits_name">प्रथम फल का पर्व</string>
+    <string name="feast_typology_firstfruits_meaning">पुनरुत्थान</string>
+    <string name="feast_typology_weeks_name">सप्ताहों का पर्व / पिन्तेकुस्त</string>
+    <string name="feast_typology_weeks_meaning">पवित्र आत्मा का उंडेला जाना</string>
+    <string name="feast_typology_trumpets_name">तुरहियों का पर्व (तिश्री 1)</string>
+    <string name="feast_typology_trumpets_meaning">दूसरा आगमन / उठा लिया जाना</string>
+    <string name="feast_typology_atonement_name">प्रायश्चित्त का दिन (तिश्री 10) (उपवास)</string>
+    <string name="feast_typology_atonement_meaning">अंतिम न्याय</string>
+    <string name="feast_typology_tabernacles_name">मंडप का पर्व (तिश्री 15–21)</string>
+    <string name="feast_typology_tabernacles_meaning">परमेश्वर मनुष्य के साथ वास करता है</string>
+    <string name="hebrew_month_nisan">नीसान</string>
+    <string name="hebrew_month_iyar">इय्यार</string>
+    <string name="hebrew_month_sivan">सीवान</string>
+    <string name="hebrew_month_tammuz">तम्मूज</string>
+    <string name="hebrew_month_av">आब</string>
+    <string name="hebrew_month_elul">एलूल</string>
+    <string name="hebrew_month_tishrei">तिश्री</string>
+    <string name="hebrew_month_cheshvan">चेश्वान</string>
+    <string name="hebrew_month_kislev">किसलेव</string>
+    <string name="hebrew_month_tevet">तेबेत</string>
+    <string name="hebrew_month_shevat">शबात</string>
+    <string name="hebrew_month_adar">अदार</string>
+    <string name="hebrew_month_adar_i">अदार I</string>
+    <string name="hebrew_month_adar_ii">अदार II</string>
+    <string name="widget_today">आज!</string>
+    <string name="nav_today">आज</string>
+    <string name="widget_tomorrow">कल</string>
+    <string name="widget_days_short">%1$dदिन</string>
+    <string name="widget_feasts">पर्व</string>
+    <string name="widget_cal_hebrew">हिब्रू</string>
+    <string name="widget_cal_essene">एसेनी</string>
+    <string name="widget_cal_karaite">कराई</string>
+    <string name="widget_cal_all">सभी</string>
+    <string name="widget_cal_both">दोनों</string>
+    <string name="widget_no_feasts">कोई आगामी पर्व नहीं</string>
+    <string name="widget_day_of_feast">दिन %1$d</string>
+    <string name="widget_list_display_name">बाइबिल कैलेंडर</string>
+    <string name="widget_list_description">हिब्रू और एसेनी कैलेंडर चिह्नों के साथ आगामी बाइबिल पर्व की तारीखें दिखाता है</string>
+    <string name="widget_grid_display_name">बाइबिल कैलेंडर</string>
+    <string name="widget_grid_description">बाइबिल पर्व तिथियों के साथ मासिक कैलेंडर</string>
+    <string name="dc_read_in_app">ऐप में पढ़ें</string>
+    <string name="dc_unavailable_body">इस भाषा में Bible.com या BibleGateway पर उपलब्ध नहीं है। ऐप में पढ़ें, या ऐप की भाषा बदलें।</string>
+    <string name="chapters_label">अध्याय</string>
+    <string name="verse_label">पद</string>
+    <string name="verses_label">आयतें</string>
+    <string name="search_searching">खोज रहा है…</string>
+    <string name="intro_short">परिचय</string>
+    <string name="intro_section_header">पुस्तक का परिचय</string>
+    <string name="tts_read_intros">TTS पुस्तक परिचय पढ़े</string>
+</resources>

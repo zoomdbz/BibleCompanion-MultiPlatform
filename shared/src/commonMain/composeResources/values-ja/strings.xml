@@ -94,3 +94,225 @@
     <string name="christophanies">キリストの顕現</string>
     <string name="faqs">よくある質問</string>
     <string name="bibliography">参考文献</string>
+    <string name="version_label">バージョン %1$s</string>
+    <string name="rate_app">このアプリを評価する</string>
+    <string name="share_app">このアプリを共有する</string>
+    <string name="study_reference">学び &amp; 参照</string>
+    <string name="continue_reading">読み続ける</string>
+    <string name="saved_items">ブックマークと保存した聖句</string>
+    <string name="bookmarks_tab">ブックマーク</string>
+    <string name="saved_verses_tab">保存した聖句</string>
+    <string name="labels_tab">ラベル</string>
+    <string name="new_label">新しいラベル</string>
+    <string name="label_name">ラベル名</string>
+    <string name="no_labels_yet">ラベルはまだありません</string>
+    <string name="add_label">ラベルを追加</string>
+    <string name="edit_label">ラベルを編集</string>
+    <string name="delete_label">ラベルを削除</string>
+    <string name="delete_label_confirm">"%1$s"を削除しますか？%1$d件の保存された聖句に付いています。聖句は削除されませんが、ラベルは外されます。</string>
+    <string name="dont_ask_again">今後表示しない</string>
+    <string name="show_more">もっと見る</string>
+    <string name="show_less">閉じる</string>
+    <string name="cross_references">クロスリファレンス</string>
+    <string name="manuscript_variants_header">写本異読</string>
+    <string name="translation_notes_header">翻訳ノート</string>
+    <string name="key_takeaway">重要なポイント</string>
+    <string name="share">共有</string>
+    <string name="text_size">文字サイズ</string>
+    <string name="text_small">小</string>
+    <string name="text_medium">中</string>
+    <string name="text_large">大</string>
+
+    <!-- Search -->
+    <string name="search_section">検索</string>
+    <string name="ai_search">AI検索</string>
+    <string name="ai_search_desc">正確な言葉が一致しなくても関連する箇所を見つけます。キーワードではなく概念で検索します。完全にデバイス上で動作します。</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_section">アクセシビリティ</string>
+    <string name="haptic_feedback">触覚フィードバック</string>
+    <string name="expand_notes_default">デフォルトでノートを展開</string>
+    <string name="tts_section">テキスト読み上げ</string>
+    <string name="tts_auto_continue">自動で読み上げを継続</string>
+    <string name="tts_cross_book">書を越えて続ける</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">%1$s に進む</string>
+
+    <!-- Settings sections -->
+    <string name="appearance">外観</string>
+    <string name="content_section">コンテンツ</string>
+    <string name="support">サポート</string>
+    <string name="onboarding_1_title">あらゆるテーマを検索</string>
+    <string name="onboarding_1_text">聖書全体から章、聖句、テーマを見つけましょう。</string>
+    <string name="onboarding_2_title">参照をタップ</string>
+    <string name="onboarding_2_text">聖句の参照をタップして、お使いの聖書アプリで読めます。</string>
+    <string name="onboarding_3_title">自分好みにカスタマイズ</string>
+    <string name="onboarding_3_text">設定でテーマ、言語、フォント、聖書の版をカスタマイズできます。</string>
+    <string name="get_started">はじめる</string>
+    <string name="next_button">次へ</string>
+    <string name="skip">スキップ</string>
+    <string name="verse_of_the_day">今日の聖句</string>
+    <string name="votd_dismiss_today">今日は表示しない</string>
+    <string name="feast_verse_label">祭日の聖句</string>
+
+    <string name="no_books_found"><![CDATA[現在の言語ではこのセクションのコンテンツがありません。設定から英語に切り替えてみてください。]]></string>
+
+    <!-- Divine Name (Tetragrammaton) setting -->
+    <string name="pref_divine_name_title">神の御名（YHWH）</string>
+    <string name="pref_divine_name_desc">テトラグラマトン（יהוה）の表示方法。多くの翻訳では「主」と表記されています。</string>
+    <string name="divine_name_traditional">主</string>
+    <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yahweh">ヤハウェ</string>
+    <string name="pref_divine_name_color_title">神の御名のハイライト色</string>
+
+    <!-- Feast Calendar -->
+    <string name="feast_calendar">聖書カレンダー</string>
+    <string name="feast_about_heading">暦について</string>
+    <string name="feast_today">今日</string>
+    <string name="feast_this_month">今月の祭り</string>
+    <string name="feast_typology_title">祭りの予型：キリストの影</string>
+    <string name="feast_spring_heading">春の祭り; 初臨</string>
+    <string name="feast_fall_heading">秋の祭り; 再臨</string>
+    <string name="feast_idiom_note">「その日、その時は、だれも知りません」（マタイ24:36）; これはラッパの祭りを指す有名な慣用句で、新月の目視確認で始まります。1世紀のユダヤ人聴衆はこの言い回しをすぐに理解したでしょう。</string>
+
+    <!-- Ordained Feasts section -->
+    <string name="ordained_feasts_heading">定められた祭り</string>
+    <string name="ordained_commanded_heading">トーラーで命じられた祭り</string>
+    <string name="ordained_tradition_heading">伝統（命じられていない）</string>
+    <string name="feast_passover">過越の祭り（ペサハ）</string>
+    <string name="feast_passover_ref">レビ記 23:5</string>
+    <string name="feast_unleavened">除酵祭</string>
+    <string name="feast_unleavened_ref">レビ記 23:6–8</string>
+    <string name="feast_firstfruits">初穂の祭り</string>
+    <string name="feast_firstfruits_ref">レビ記 23:9–14</string>
+    <string name="feast_second_passover">第二の過越（ペサハ・シェニ）</string>
+    <string name="feast_second_passover_ref">民数記 9:9–14</string>
+    <string name="feast_weeks">七週の祭り（シャブオット/ペンテコステ）</string>
+    <string name="feast_weeks_ref">レビ記 23:15–22</string>
+    <string name="feast_trumpets">ラッパの祭り（ヨム・テルア）</string>
+    <string name="feast_trumpets_ref">レビ記 23:23–25</string>
+    <string name="feast_atonement">贖罪の日（ヨム・キプル）</string>
+    <string name="feast_atonement_note">（断食）</string>
+    <string name="feast_atonement_ref">レビ記 23:26–32</string>
+    <string name="feast_tabernacles">仮庵の祭り（スコット）</string>
+    <string name="feast_tabernacles_ref">レビ記 23:33–43</string>
+    <string name="feast_shemini_atzeret">シェミニ・アツェレト（第八日の聖会）</string>
+    <string name="feast_shemini_atzeret_ref">レビ記 23:36；民数記 29:35</string>
+    <string name="feast_purim">プリム</string>
+    <string name="feast_purim_ref">エステル記 9:20–32</string>
+    <string name="feast_hanukkah">ハヌカ（宮きよめの祭り）</string>
+    <string name="feast_hanukkah_ref">ヨハネ 10:22–23; 1マカバイ 4:52–59</string>
+    <string name="feast_fast_tammuz">タンムズの17日（断食）</string>
+    <string name="feast_fast_tammuz_ref">ゼカリヤ 8:19</string>
+    <string name="feast_tisha_bav">ティシャ・ベアヴ（断食）</string>
+    <string name="feast_tisha_bav_ref">ゼカリヤ 8:19</string>
+    <string name="feast_fast_gedaliah">ゲダリヤの断食</string>
+    <string name="feast_fast_gedaliah_ref">ゼカリヤ 8:19; 列王記下 25:25</string>
+    <string name="feast_fast_tevet">テベトの10日（断食）</string>
+    <string name="feast_fast_tevet_ref">ゼカリヤ 8:19; 列王記下 25:1</string>
+    <string name="feast_fast_esther">エステルの断食</string>
+    <string name="feast_fast_esther_ref">エステル記 4:16</string>
+
+    <!-- エッセネ派・神殿の巻物・ヨベル書の祭 -->
+    <string name="feast_new_wine_name">新しいぶどう酒の祭</string>
+    <string name="feast_new_oil_name">新しい油の祭</string>
+    <string name="feast_memorial_q2_name">第二記念日</string>
+    <string name="feast_memorial_q4_name">第四記念日</string>
+    <string name="essene_calendar_label">エッセネ派</string>
+
+    <!-- Prophecy -->
+    <string name="prophecy">預言</string>
+    <string name="prophecy_subtitle">メシア成就から黙示録の祭りまで; 聖書に織り込まれた預言の糸を探求します。</string>
+    <string name="prophecy_messianic">メシア預言マップ</string>
+    <string name="prophecy_messianic_desc">旧約の預言 → 新約での成就（節ごと）</string>
+    <string name="prophecy_daniel">ダニエルの年表</string>
+    <string name="prophecy_daniel_desc">像、四つの獣、70週、人の子</string>
+    <string name="prophecy_astronomical">天文学的しるし</string>
+    <string name="prophecy_astronomical_desc">ブラッドムーン、日食、ベツレヘムの星</string>
+    <string name="prophecy_revelation">黙示録概要</string>
+    <string name="prophecy_revelation_desc">ヘブライ語の慣用句と祭りの関連を含む体系的読書ガイド</string>
+    <!-- Data -->
+    <string name="data_section">データ</string>
+    <string name="data_section_desc">ブックマーク・保存した節・ハイライト・ラベルを端末間で転送できます。エクスポートをタップしてクリップボードにコピーし、もう一方の端末でインポートに貼り付けてください。設定や環境設定は含まれません。</string>
+    <string name="export_data">エクスポート</string>
+    <string name="import_data">インポート</string>
+    <string name="import_paste_hint">バックアップ JSON をここに貼り付け</string>
+    <string name="import_confirm">復元</string>
+    <string name="select_all">すべて選択</string>
+    <string name="cancel">キャンセル</string>
+    <string name="copied_to_clipboard">クリップボードにコピーしました</string>
+    <string name="import_success">成功：データを復元しました</string>
+    <string name="import_error">エラー：無効なバックアップデータ</string>
+    <string name="cd_bookmark">ブックマーク</string>
+    <string name="cd_highlight">ハイライト</string>
+    <string name="cd_label">ラベル</string>
+    <string name="cd_toggle_bookmark">ブックマークを切り替え</string>
+    <string name="cd_remove_bookmark">ブックマークを削除</string>
+    <string name="cd_remove_saved_verse">保存した聖句を削除</string>
+    <string name="cd_remove_label">ラベルを削除</string>
+    <string name="cd_remove_verse_label">聖句からラベルを削除</string>
+    <string name="cd_copy">コピー</string>
+    <string name="cd_tts_play">再生</string>
+    <string name="cd_tts_pause">一時停止</string>
+    <string name="cd_tts_stop">停止</string>
+    <string name="cd_tts_resume">再開</string>
+    <string name="search_no_results">「%1$s」に一致する結果はありません</string>
+    <string name="snack_undo">元に戻す</string>
+    <string name="snack_highlight_cleared">ハイライトを削除しました</string>
+    <string name="snack_verse_removed">保存した節を削除しました</string>
+    <string name="snack_bookmark_removed">ブックマークを削除しました</string>
+    <string name="feast_typology_passover_name">過越の祭（ニサン14日）</string>
+    <string name="feast_typology_passover_meaning">十字架</string>
+    <string name="feast_typology_unleavened_name">種入れぬパンの祭（ニサン15日）</string>
+    <string name="feast_typology_unleavened_meaning">埋葬・無罪性</string>
+    <string name="feast_typology_firstfruits_name">初穂の祭</string>
+    <string name="feast_typology_firstfruits_meaning">復活</string>
+    <string name="feast_typology_weeks_name">七週の祭・ペンテコステ</string>
+    <string name="feast_typology_weeks_meaning">聖霊降臨</string>
+    <string name="feast_typology_trumpets_name">ラッパの祭（ティシュリ1日）</string>
+    <string name="feast_typology_trumpets_meaning">再臨・携挙</string>
+    <string name="feast_typology_atonement_name">贖罪の日（ティシュリ10日、断食）</string>
+    <string name="feast_typology_atonement_meaning">最後の審判</string>
+    <string name="feast_typology_tabernacles_name">仮庵の祭（ティシュリ15–21日）</string>
+    <string name="feast_typology_tabernacles_meaning">神が人と共に住まれる</string>
+    <string name="hebrew_month_nisan">ニサン</string>
+    <string name="hebrew_month_iyar">イヤル</string>
+    <string name="hebrew_month_sivan">シワン</string>
+    <string name="hebrew_month_tammuz">タンムズ</string>
+    <string name="hebrew_month_av">アブ</string>
+    <string name="hebrew_month_elul">エルル</string>
+    <string name="hebrew_month_tishrei">ティシュリ</string>
+    <string name="hebrew_month_cheshvan">ヘシュワン</string>
+    <string name="hebrew_month_kislev">キスレウ</string>
+    <string name="hebrew_month_tevet">テベト</string>
+    <string name="hebrew_month_shevat">シェバト</string>
+    <string name="hebrew_month_adar">アダル</string>
+    <string name="hebrew_month_adar_i">アダル I</string>
+    <string name="hebrew_month_adar_ii">アダル II</string>
+    <string name="widget_today">今日！</string>
+    <string name="nav_today">今日</string>
+    <string name="widget_tomorrow">明日</string>
+    <string name="widget_days_short">%1$d日</string>
+    <string name="widget_feasts">祭り</string>
+    <string name="widget_cal_hebrew">ヘブライ</string>
+    <string name="widget_cal_essene">エッセネ</string>
+    <string name="widget_cal_karaite">カライ派</string>
+    <string name="widget_cal_all">すべて</string>
+    <string name="widget_cal_both">両方</string>
+    <string name="widget_no_feasts">近日中の祭りはありません</string>
+    <string name="widget_day_of_feast">第%1$d日</string>
+    <string name="widget_list_display_name">聖書カレンダー</string>
+    <string name="widget_list_description">ヘブライ・エッセネ両暦の目印とともに、今後の聖書の祭りを表示します</string>
+    <string name="widget_grid_display_name">聖書カレンダー</string>
+    <string name="widget_grid_description">聖書の祭りの日付を示す月間カレンダー</string>
+    <string name="dc_read_in_app">アプリ内で読む</string>
+    <string name="dc_unavailable_body">この言語ではBible.comまたはBibleGatewayでは利用できません。アプリ内で読むか、アプリの言語を切り替えてください。</string>
+    <string name="chapters_label">章</string>
+    <string name="verse_label">節</string>
+    <string name="verses_label">節</string>
+    <string name="search_searching">検索中…</string>
+    <string name="intro_short">序文</string>
+    <string name="intro_section_header">書の序文</string>
+    <string name="tts_read_intros">TTSで序文を読む</string>
+</resources>

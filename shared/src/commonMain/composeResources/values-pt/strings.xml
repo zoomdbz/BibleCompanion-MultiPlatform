@@ -94,3 +94,225 @@
     <string name="christophanies">Cristofanias</string>
     <string name="faqs">Perguntas frequentes</string>
     <string name="bibliography">Bibliografia</string>
+    <string name="version_label">Versão %1$s</string>
+    <string name="rate_app">Avaliar este app</string>
+    <string name="share_app">Compartilhar este app</string>
+    <string name="study_reference">Estudo &amp; referência</string>
+    <string name="continue_reading">Continuar lendo</string>
+    <string name="saved_items">Marcadores &amp; versículos salvos</string>
+    <string name="bookmarks_tab">Marcadores</string>
+    <string name="saved_verses_tab">Versículos salvos</string>
+    <string name="labels_tab">Marcadores</string>
+    <string name="new_label">Novo marcador</string>
+    <string name="label_name">Nome do marcador</string>
+    <string name="no_labels_yet">Nenhum marcador ainda</string>
+    <string name="add_label">Adicionar marcador</string>
+    <string name="edit_label">Editar marcador</string>
+    <string name="delete_label">Excluir marcador</string>
+    <string name="delete_label_confirm">Tem certeza que deseja excluir "%1$s"? Está vinculado a %1$d versículos salvos. Os versículos não serão excluídos, mas o marcador será removido.</string>
+    <string name="dont_ask_again">Não perguntar novamente</string>
+    <string name="show_more">Mostrar mais</string>
+    <string name="show_less">Mostrar menos</string>
+    <string name="cross_references">Referências cruzadas</string>
+    <string name="manuscript_variants_header">Variantes de manuscritos</string>
+    <string name="translation_notes_header">Notas de tradução</string>
+    <string name="key_takeaway">Ponto principal</string>
+    <string name="share">Compartilhar</string>
+    <string name="text_size">Tamanho do texto</string>
+    <string name="text_small">Pequeno</string>
+    <string name="text_medium">Médio</string>
+    <string name="text_large">Grande</string>
+
+    <!-- Search -->
+    <string name="search_section">Pesquisa</string>
+    <string name="ai_search">Pesquisa IA</string>
+    <string name="ai_search_desc">Encontre passagens relacionadas mesmo quando as palavras exatas nao correspondam. Pesquisa por conceito, nao apenas por palavras-chave. Funciona inteiramente no seu dispositivo.</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_section">Acessibilidade</string>
+    <string name="haptic_feedback">Resposta háptica</string>
+    <string name="expand_notes_default">Expandir notas por padrão</string>
+    <string name="tts_section">Texto para fala</string>
+    <string name="tts_auto_continue">Leitura contínua automática</string>
+    <string name="tts_cross_book">Continuar entre livros</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">Continuar para %1$s</string>
+
+    <!-- Settings sections -->
+    <string name="appearance">Aparência</string>
+    <string name="content_section">Conteúdo</string>
+    <string name="support">Suporte</string>
+    <string name="onboarding_1_title">Pesquise qualquer tema</string>
+    <string name="onboarding_1_text">Encontre capítulos, versículos e temas em toda a Bíblia.</string>
+    <string name="onboarding_2_title">Toque nas referências</string>
+    <string name="onboarding_2_text">Toque em qualquer referência bíblica para lê-la no seu app da Bíblia.</string>
+    <string name="onboarding_3_title">Personalize</string>
+    <string name="onboarding_3_text">Personalize tema, idioma, fonte e versão da Bíblia nas Configurações.</string>
+    <string name="get_started">Começar</string>
+    <string name="next_button">Próximo</string>
+    <string name="skip">Pular</string>
+    <string name="verse_of_the_day">Versículo do dia</string>
+    <string name="votd_dismiss_today">Ocultar por hoje</string>
+    <string name="feast_verse_label">Versículo da festa</string>
+
+    <string name="no_books_found"><![CDATA[Nenhum conteúdo disponível para esta seção no idioma atual. Tente mudar para inglês nas Configurações.]]></string>
+
+    <!-- Divine Name (Tetragrammaton) setting -->
+    <string name="pref_divine_name_title">Nome Divino (YHWH)</string>
+    <string name="pref_divine_name_desc">Como exibir o Tetragrama (יהוה). A maioria das traduções o apresenta como SENHOR em versalete.</string>
+    <string name="divine_name_traditional">SENHOR</string>
+    <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yahweh">Javé</string>
+    <string name="pref_divine_name_color_title">Cor de destaque do Nome Divino</string>
+
+    <!-- Feast Calendar -->
+    <string name="feast_calendar">Calendário Bíblico</string>
+    <string name="feast_about_heading">Sobre os calendários</string>
+    <string name="feast_today">Hoje</string>
+    <string name="feast_this_month">Festas deste mês</string>
+    <string name="feast_typology_title">Tipologia das festas: Sombras de Cristo</string>
+    <string name="feast_spring_heading">Festas da primavera; Primeira vinda</string>
+    <string name="feast_fall_heading">Festas do outono; Segunda vinda</string>
+    <string name="feast_idiom_note">"Ninguém sabe o dia nem a hora" (Mateus 24:36); um ditado conhecido para a Festa das Trombetas, que começa com a observação da lua nova. Uma audiência judaica do século I teria reconhecido a referência imediatamente.</string>
+
+    <!-- Ordained Feasts section -->
+    <string name="ordained_feasts_heading">Festas Ordenadas</string>
+    <string name="ordained_commanded_heading">Ordenadas na Torá</string>
+    <string name="ordained_tradition_heading">Tradição (não ordenadas)</string>
+    <string name="feast_passover">Páscoa (Pessach)</string>
+    <string name="feast_passover_ref">Levítico 23:5</string>
+    <string name="feast_unleavened">Festa dos Pães Asmos</string>
+    <string name="feast_unleavened_ref">Levítico 23:6–8</string>
+    <string name="feast_firstfruits">Festa das Primícias</string>
+    <string name="feast_firstfruits_ref">Levítico 23:9–14</string>
+    <string name="feast_second_passover">Segunda Páscoa (Pessach Sheni)</string>
+    <string name="feast_second_passover_ref">Números 9:9–14</string>
+    <string name="feast_weeks">Festa das Semanas (Shavuot/Pentecostes)</string>
+    <string name="feast_weeks_ref">Levítico 23:15–22</string>
+    <string name="feast_trumpets">Festa das Trombetas (Yom Teruá)</string>
+    <string name="feast_trumpets_ref">Levítico 23:23–25</string>
+    <string name="feast_atonement">Dia da Expiação (Yom Kipur)</string>
+    <string name="feast_atonement_note">(jejum)</string>
+    <string name="feast_atonement_ref">Levítico 23:26–32</string>
+    <string name="feast_tabernacles">Festa dos Tabernáculos (Sucot)</string>
+    <string name="feast_tabernacles_ref">Levítico 23:33–43</string>
+    <string name="feast_shemini_atzeret">Shemini Atzeret (Assembleia do Oitavo Dia)</string>
+    <string name="feast_shemini_atzeret_ref">Levítico 23:36; Números 29:35</string>
+    <string name="feast_purim">Purim</string>
+    <string name="feast_purim_ref">Ester 9:20–32</string>
+    <string name="feast_hanukkah">Chanucá (Festa da Dedicação)</string>
+    <string name="feast_hanukkah_ref">João 10:22–23; 1 Macabeus 4:52–59</string>
+    <string name="feast_fast_tammuz">Dezessete de Tamuz (jejum)</string>
+    <string name="feast_fast_tammuz_ref">Zacarias 8:19</string>
+    <string name="feast_tisha_bav">Tishá B’Av (jejum)</string>
+    <string name="feast_tisha_bav_ref">Zacarias 8:19</string>
+    <string name="feast_fast_gedaliah">Jejum de Guedalias</string>
+    <string name="feast_fast_gedaliah_ref">Zacarias 8:19; 2 Reis 25:25</string>
+    <string name="feast_fast_tevet">Dez de Tevet (jejum)</string>
+    <string name="feast_fast_tevet_ref">Zacarias 8:19; 2 Reis 25:1</string>
+    <string name="feast_fast_esther">Jejum de Ester</string>
+    <string name="feast_fast_esther_ref">Ester 4:16</string>
+
+    <!-- Festas essênias / Rolo do Templo / Jubileus -->
+    <string name="feast_new_wine_name">Festa do Vinho Novo</string>
+    <string name="feast_new_oil_name">Festa do Azeite Novo</string>
+    <string name="feast_memorial_q2_name">Segundo Dia de Memorial</string>
+    <string name="feast_memorial_q4_name">Quarto Dia de Memorial</string>
+    <string name="essene_calendar_label">Essênio</string>
+
+    <!-- Prophecy -->
+    <string name="prophecy">Profecia</string>
+    <string name="prophecy_subtitle">Explore os fios proféticos tecidos nas Escrituras; do cumprimento messiânico às festas do Apocalipse.</string>
+    <string name="prophecy_messianic">Mapa de profecias messiânicas</string>
+    <string name="prophecy_messianic_desc">Profecias do AT → Cumprimento no NT, versículo a versículo</string>
+    <string name="prophecy_daniel">Linha do tempo de Daniel</string>
+    <string name="prophecy_daniel_desc">A estátua, as quatro bestas, as 70 semanas e o Filho do Homem</string>
+    <string name="prophecy_astronomical">Sinais astronômicos</string>
+    <string name="prophecy_astronomical_desc">Luas de sangue, eclipses e a Estrela de Belém</string>
+    <string name="prophecy_revelation">Panorama do Apocalipse</string>
+    <string name="prophecy_revelation_desc">Guia de leitura estruturado com expressões hebraicas e conexões com as festas</string>
+    <!-- Data -->
+    <string name="data_section">Dados</string>
+    <string name="data_section_desc">Transfira seus marcadores, versículos salvos, realces e rótulos entre dispositivos. Toque em Exportar para copiar seus dados para a área de transferência e depois cole em Importar no outro dispositivo. Configurações e preferências não estão incluídas.</string>
+    <string name="export_data">Exportar</string>
+    <string name="import_data">Importar</string>
+    <string name="import_paste_hint">Cole o JSON de backup aqui</string>
+    <string name="import_confirm">Restaurar</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="copied_to_clipboard">Copiado para a área de transferência</string>
+    <string name="import_success">Sucesso: dados restaurados</string>
+    <string name="import_error">Erro: dados de backup inválidos</string>
+    <string name="cd_bookmark">Marcador</string>
+    <string name="cd_highlight">Destacar</string>
+    <string name="cd_label">Rótulo</string>
+    <string name="cd_toggle_bookmark">Alternar marcador</string>
+    <string name="cd_remove_bookmark">Remover marcador</string>
+    <string name="cd_remove_saved_verse">Remover versículo salvo</string>
+    <string name="cd_remove_label">Remover rótulo</string>
+    <string name="cd_remove_verse_label">Remover versículo do rótulo</string>
+    <string name="cd_copy">Copiar</string>
+    <string name="cd_tts_play">Reproduzir</string>
+    <string name="cd_tts_pause">Pausar</string>
+    <string name="cd_tts_stop">Parar</string>
+    <string name="cd_tts_resume">Retomar</string>
+    <string name="search_no_results">Sem resultados para “%1$s”</string>
+    <string name="snack_undo">Desfazer</string>
+    <string name="snack_highlight_cleared">Destaque removido</string>
+    <string name="snack_verse_removed">Versículo salvo removido</string>
+    <string name="snack_bookmark_removed">Marcador removido</string>
+    <string name="feast_typology_passover_name">Páscoa (Nisã 14)</string>
+    <string name="feast_typology_passover_meaning">Crucificação</string>
+    <string name="feast_typology_unleavened_name">Pães Asmos (Nisã 15)</string>
+    <string name="feast_typology_unleavened_meaning">Sepultamento / sem pecado</string>
+    <string name="feast_typology_firstfruits_name">Primícias</string>
+    <string name="feast_typology_firstfruits_meaning">Ressurreição</string>
+    <string name="feast_typology_weeks_name">Festa das Semanas / Pentecostes</string>
+    <string name="feast_typology_weeks_meaning">Espírito Santo concedido</string>
+    <string name="feast_typology_trumpets_name">Trombetas (Tisri 1)</string>
+    <string name="feast_typology_trumpets_meaning">Segunda vinda / arrebatamento</string>
+    <string name="feast_typology_atonement_name">Dia da Expiação (Tisri 10) (jejum)</string>
+    <string name="feast_typology_atonement_meaning">Juízo final</string>
+    <string name="feast_typology_tabernacles_name">Tabernáculos (Tisri 15–21)</string>
+    <string name="feast_typology_tabernacles_meaning">Deus habita com os homens</string>
+    <string name="hebrew_month_nisan">Nisã</string>
+    <string name="hebrew_month_iyar">Iyar</string>
+    <string name="hebrew_month_sivan">Sivã</string>
+    <string name="hebrew_month_tammuz">Tamuz</string>
+    <string name="hebrew_month_av">Av</string>
+    <string name="hebrew_month_elul">Elul</string>
+    <string name="hebrew_month_tishrei">Tisri</string>
+    <string name="hebrew_month_cheshvan">Cheshvã</string>
+    <string name="hebrew_month_kislev">Kislev</string>
+    <string name="hebrew_month_tevet">Tevet</string>
+    <string name="hebrew_month_shevat">Shevat</string>
+    <string name="hebrew_month_adar">Adar</string>
+    <string name="hebrew_month_adar_i">Adar I</string>
+    <string name="hebrew_month_adar_ii">Adar II</string>
+    <string name="widget_today">Hoje!</string>
+    <string name="nav_today">Hoje</string>
+    <string name="widget_tomorrow">Amanhã</string>
+    <string name="widget_days_short">%1$dd</string>
+    <string name="widget_feasts">Festas</string>
+    <string name="widget_cal_hebrew">Hebraico</string>
+    <string name="widget_cal_essene">Essênio</string>
+    <string name="widget_cal_karaite">Caraíta</string>
+    <string name="widget_cal_all">Todos</string>
+    <string name="widget_cal_both">Ambos</string>
+    <string name="widget_no_feasts">Sem festas próximas</string>
+    <string name="widget_day_of_feast">Dia %1$d</string>
+    <string name="widget_list_display_name">Calendário bíblico</string>
+    <string name="widget_list_description">Mostra próximas festas bíblicas com marcadores dos calendários hebraico e essênio</string>
+    <string name="widget_grid_display_name">Calendário bíblico</string>
+    <string name="widget_grid_description">Calendário mensal com datas das festas bíblicas</string>
+    <string name="dc_read_in_app">Ler no app</string>
+    <string name="dc_unavailable_body">Não disponível em Bible.com ou BibleGateway neste idioma. Leia no aplicativo ou mude o idioma do app.</string>
+    <string name="chapters_label">Capítulos</string>
+    <string name="verse_label">Versículo</string>
+    <string name="verses_label">Versículos</string>
+    <string name="search_searching">Pesquisando…</string>
+    <string name="intro_short">Intro</string>
+    <string name="intro_section_header">Introdução do Livro</string>
+    <string name="tts_read_intros">TTS lê as introduções</string>
+</resources>
