@@ -1,6 +1,6 @@
 # La Guerra Invisible
 
-### Introducción
+## Introducción
 La Biblia enseña que la realidad es más que lo que vemos. Desde la primera página de Génesis hasta la última página de Apocalipsis, la Escritura muestra que la humanidad está atrapada en un conflicto cósmico.
 
 > “Porque no tenemos lucha contra sangre y carne, sino contra los gobernadores, contra las autoridades, contra los poderes cósmicos de esta oscuridad presente, contra las fuerzas espirituales del mal en las regiones celestiales.” (Efesios 6:12)
@@ -1200,39 +1200,3 @@ Aférrate a la fe que fue entregada una vez a los santos (Judas 3).
 - **(Filipenses 2:10–11)** – “Para que en el nombre de Jesús se doble toda rodilla… y toda lengua confiese que Jesucristo es Señor.”
 
 **Conclusión clave (Escritura):** Cristo vino a destruir las obras del diablo (1 Juan 3:8). Los creyentes vencen por su sangre y por un testimonio fiel (Apocalipsis 12:10–11). Al final, toda la creación se postrará y confesará que Jesucristo es el Señor (Filipenses 2:10–11).
-
----
-
-## 14. Bibliografía
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., y Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (original siglo XIX).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexto sobre la adoración a Saturno y Saturnalia.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Detalles sobre la adopción tardía del hexagrama como símbolo judío, especialmente en Praga y en la Europa del siglo XIX.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sobre el papel del hexagrama en el misticismo judío medieval.)
-
----

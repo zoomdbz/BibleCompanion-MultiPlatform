@@ -34,7 +34,12 @@ data class Story(
   val crossRefs: List<String> = emptyList(),
   val manuscriptVariants: List<ManuscriptVariant> = emptyList(),
   val translationNotes: List<TransNote> = emptyList(),
-  val headings: List<Heading> = emptyList()
+  val headings: List<Heading> = emptyList(),
+  // Psalm superscription (e.g. "To the choirmaster. A Psalm of David."). Part
+  // of the inspired text, but a heading-style preface, not a numbered verse, so
+  // it is stored separately and rendered as an italic superscription above the
+  // verses instead of bleeding into verse 1. Empty for books without one.
+  val superscription: String = ""
 )
 
 @Serializable

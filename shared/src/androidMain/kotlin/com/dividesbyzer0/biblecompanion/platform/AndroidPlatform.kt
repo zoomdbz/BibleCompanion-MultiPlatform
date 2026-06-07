@@ -266,6 +266,10 @@ actual fun platformAppBuild(context: PlatformContext): String = runCatching {
 @Volatile private var ttsLastText: String? = null
 @Volatile private var ttsLastLocale: Locale? = null
 @Volatile private var ttsPaused: Boolean = false
+// The utteranceId of the final queued chunk. onDone fires the UI callback only
+// when this one completes, so multi-chunk chapters do not report "finished"
+// after the first chunk. See doSpeak / ttsChunks.
+@Volatile private var ttsFinalUtteranceId: String? = null
 private val mainHandler = Handler(Looper.getMainLooper())
 private val ttsLock = Any()
 
@@ -290,6 +294,39 @@ private fun ttsLocale(languageTag: String): Locale {
     return Locale.forLanguageTag(mapped)
 }
 
+// Android's TextToSpeech.speak() silently returns ERROR (nothing plays) when
+// the input exceeds TextToSpeech.getMaxSpeechInputLength(), typically 4000
+// characters. Long chapters (Matthew 5 at ~5200 chars, Psalm 119, 1 Enoch,
+// Jubilees, and hundreds of others) tripped this and produced dead air while
+// shorter neighbors worked. Split oversized text into engine-sized chunks at
+// sentence or clause boundaries and queue them in order.
+private fun ttsChunks(text: String, maxLen: Int): List<String> {
+    if (text.length <= maxLen) return listOf(text)
+    val breakChars = charArrayOf('.', '!', '?', '。', '！', '？', '；', ';', '\n')
+    val out = ArrayList<String>()
+    var start = 0
+    val n = text.length
+    while (start < n) {
+        var end = minOf(start + maxLen, n)
+        if (end < n) {
+            val window = text.substring(start, end)
+            val half = maxLen / 2
+            val sentenceAt = window.lastIndexOfAny(breakChars)
+            val spaceAt = window.lastIndexOf(' ')
+            val cut = when {
+                sentenceAt >= half -> sentenceAt + 1
+                spaceAt >= half -> spaceAt + 1
+                else -> window.length // no good boundary; hard cut
+            }
+            end = start + cut
+        }
+        val piece = text.substring(start, end).trim()
+        if (piece.isNotEmpty()) out.add(piece)
+        start = end
+    }
+    return if (out.isEmpty()) listOf(text.take(maxLen)) else out
+}
+
 private fun doSpeak(engine: TextToSpeech, text: String, locale: Locale) {
     ttsLastText = text
     ttsLastLocale = locale
@@ -298,8 +335,16 @@ private fun doSpeak(engine: TextToSpeech, text: String, locale: Locale) {
     if (langResult < TextToSpeech.LANG_AVAILABLE) {
         engine.setLanguage(Locale.US)
     }
-    val speakResult = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "votd")
-    if (speakResult == TextToSpeech.ERROR) {
+    val maxLen = (TextToSpeech.getMaxSpeechInputLength() - 50).coerceAtLeast(500)
+    val chunks = ttsChunks(text, maxLen)
+    ttsFinalUtteranceId = "tts-${chunks.size - 1}"
+    var anyError = false
+    chunks.forEachIndexed { i, chunk ->
+        val mode = if (i == 0) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD
+        val result = engine.speak(chunk, mode, null, "tts-$i")
+        if (result == TextToSpeech.ERROR) anyError = true
+    }
+    if (anyError) {
         mainHandler.post { ttsOnDone?.invoke() }
     }
 }
@@ -323,7 +368,11 @@ private fun ensureTtsEngine(context: PlatformContext) {
                     val engine = ttsInstance ?: return@synchronized
                     engine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
                         override fun onStart(utteranceId: String?) {}
-                        override fun onDone(utteranceId: String?) { mainHandler.post { ttsOnDone?.invoke() } }
+                        // Fire the UI "done" callback only when the LAST queued
+                        // chunk finishes; intermediate chunks keep playback alive.
+                        override fun onDone(utteranceId: String?) {
+                            if (utteranceId == ttsFinalUtteranceId) mainHandler.post { ttsOnDone?.invoke() }
+                        }
                         override fun onError(utteranceId: String?, errorCode: Int) { mainHandler.post { ttsOnDone?.invoke() } }
                         @Deprecated("Deprecated in Java")
                         override fun onError(utteranceId: String?) { mainHandler.post { ttsOnDone?.invoke() } }

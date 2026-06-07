@@ -1,6 +1,6 @@
 # Невидимая Война  
 
-### Введение
+## Введение
 Библия учит, что реальность глубже, чем то, что мы видим глазами. От первой страницы Бытия до последней страницы Откровения Писание показывает, что человечество вовлечено в космический конфликт.  
 
 > «Потому что наша брань не против крови и плоти, но против начальств, против властей, против мироправителей тьмы века сего, против духов злобы поднебесных.» (Ефесянам 6:12)  
@@ -1177,40 +1177,4 @@
 
 - **(Филиппийцам 2:10–11)** – «Дабы пред именем Иисуса преклонилось всякое колено.»  
 
-**Итог (Писание):** Христос пришёл, чтобы разрушить дела диавола (1 Ин 3:8). Верующие побеждают кровью Агнца (Откр 12:11). В конце всякая тварь исповедает Иисуса Господом (Флп 2:10–11).  
-
----
-
-## 14. Библиография
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., и Делицш, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (оригинал XIX века).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Контекст поклонения Сатурну и Сатурналии.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Подробности о позднем принятии гексаграммы как еврейского символа, особенно в Праге и в Европе XIX века.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (О роли гексаграммы в еврейском мистицизме средневековья.)
-
----
+**Итог (Писание):** Христос пришёл, чтобы разрушить дела диавола (1 Ин 3:8). Верующие побеждают кровью Агнца (Откр 12:11). В конце всякая тварь исповедает Иисуса Господом (Флп 2:10–11).

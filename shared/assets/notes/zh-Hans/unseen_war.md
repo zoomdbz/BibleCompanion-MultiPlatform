@@ -1,6 +1,6 @@
 # 看不见的战争  
 
-### 引言
+## 引言
 圣经教导我们，现实比眼睛所见的更深。从创世记的第一页到启示录的最后一页，圣经揭示人类正处于一场宇宙性的冲突之中。  
 
 > “因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。”（以弗所书 6:12）  
@@ -1181,40 +1181,4 @@
 
 - **(腓立比书 2:10–11)** – “无不口称耶稣基督为主，使荣耀归与父神。”  
 
-**总结（经文）：** 基督来是要除灭魔鬼的作为（约一 3:8）。信徒靠羔羊的血得胜（启 12:11）。最后，全宇宙都要承认耶稣基督是主（腓 2:10–11）。  
-
----
-
-## 14. 参考文献
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996（原版19世纪）.
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. （关于土星崇拜和农神节的背景）
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. （关于六芒星在犹太教中迟至19世纪才被采纳的细节，尤其是在布拉格和欧洲）
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. （关于六芒星在中世纪犹太神秘主义中的作用）
-
----
+**总结（经文）：** 基督来是要除灭魔鬼的作为（约一 3:8）。信徒靠羔羊的血得胜（启 12:11）。最后，全宇宙都要承认耶稣基督是主（腓 2:10–11）。

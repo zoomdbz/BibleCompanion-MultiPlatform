@@ -77,31 +77,34 @@ internal fun applyDivineName(
 
   val base = if (mode == "yhwh") "YHWH" else "Yahweh"
   val r = wrap(base)
+  // Universal pass: the Latin/English Tetragrammaton tokens (LORD constructs,
+  // YHWH, YHVH, Yahweh, Yahuah, Yah) appear as transliterations in EVERY
+  // language's study notes (Christophanies etc.), so they must transform for
+  // any `lk`, not just English. BSB all-caps GOD pair-rules (Hab 3:19, Isa
+  // 12:2, Isa 26:4, Ps 109:21, Ps 140:7, Ps 141:8) run first; the Acts 17:23
+  // "UNKNOWN GOD" inscription is left alone. Each language adds its localized
+  // token to `latin` below.
+  val latin = text
+    .replace("LORD GOD", "$r God")
+    .replace("GOD the LORD", "$r the LORD")
+    .replace("GOD the Lord", "$r the Lord")
+    .replace("GOD, the Lord", "$r, the Lord")
+    .replace("the LORD", "the $r")
+    .replace("The LORD", "The $r")
+    .replace("THE LORD", r)
+    .replace(Regex("\\bLORD\\b"), r)
+    .replace("Lord GOD", "${wrap(base)} God")
+    .replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b"), r)
   return when (lk) {
-    "en" -> text
-      // BSB uses all-caps GOD as the Tetragrammaton in Adonai/Yah constructions
-      // (Hab 3:19, Isa 12:2, Isa 26:4, Ps 109:21, Ps 140:7, Ps 141:8). These
-      // pair-pattern rules MUST run before the bare LORD rules so the right
-      // tokens are tagged. The Acts 17:23 "UNKNOWN GOD" inscription is left
-      // alone by design — it is not the divine name.
-      .replace("LORD GOD", "$r God")
-      .replace("GOD the LORD", "$r the LORD")
-      .replace("GOD the Lord", "$r the Lord")
-      .replace("GOD, the Lord", "$r, the Lord")
-      .replace("the LORD", "the $r")
-      .replace("The LORD", "The $r")
-      .replace("THE LORD", r)
-      .replace(Regex("\\bLORD\\b"), r)
-      .replace("Lord GOD", "${wrap(base)} God")
-      .replace(Regex("\\b(?:Yahweh|YHWH|Yahuah|Yah)\\b"), r)
-    "es" -> text
+    "en" -> latin
+    "es" -> latin
       .replace("el SEÑOR", "el $r")
       .replace("El SEÑOR", "El $r")
       .replace(uwb("SEÑOR"), r)
       .replace(uwb("Jehová"), r)
       .replace(uwb("Yahveh"), r)
     "pt" -> {
-      var t = text
+      var t = latin
         .replace("o SENHOR", "o $r")
         .replace("O SENHOR", "O $r")
         .replace(uwb("SENHOR"), r)
@@ -109,7 +112,7 @@ internal fun applyDivineName(
       if (isOt) t = t.replace(uwb("Senhor"), r)
       t
     }
-    "fr" -> text
+    "fr" -> latin
       .replace("l\u2019ÉTERNEL", "l\u2019$r")
       .replace("l'ÉTERNEL", "l'$r")
       .replace("L\u2019ÉTERNEL", "L\u2019$r")
@@ -117,7 +120,7 @@ internal fun applyDivineName(
       .replace(uwb("ÉTERNEL"), r)
       .replace(uwb("Éternel"), r)
       .replace(Regex("\\bSEIGNEUR\\b"), r)
-    "de" -> text
+    "de" -> latin
       .replace("der HERR", "der $r")
       .replace("Der HERR", "Der $r")
       .replace("dem HERRN", "dem $r")
@@ -125,7 +128,7 @@ internal fun applyDivineName(
       .replace(Regex("\\bHERRN?\\b"), r)
       .replace(Regex("\\bJahwe\\b"), r)
     "it" -> {
-      var t = text
+      var t = latin
         .replace("il SIGNORE", "il $r")
         .replace("Il SIGNORE", "Il $r")
         .replace("del SIGNORE", "del $r")
@@ -135,7 +138,7 @@ internal fun applyDivineName(
       t
     }
     "ru" -> {
-      var t = text
+      var t = latin
         .replace("ГОСПОДЬ", r).replace("ГОСПОДА", r)
         .replace("ГОСПОДУ", r).replace("ГОСПОДОМ", r)
         .replace(uwb("Яхве"), r)
@@ -151,69 +154,74 @@ internal fun applyDivineName(
       t
     }
     "ar" -> {
-      var t = text
+      var t = latin
         .replace("الرَّبُّ", r).replace("الرَّبِّ", r).replace("الرَّبَّ", r)
         .replace("يَهوَهْ", r).replace("يهوه", r)
       if (isOt) t = t.replace(uwb("الرب"), r)
       t
     }
-    "hi" -> text.replace("यहोवा", r)
+    "hi" -> latin.replace("यहोवा", r)
     "ko" -> {
-      var t = text.replace("여호와", r).replace("야훼", r)
+      var t = latin.replace("여호와", r).replace("야훼", r)
       if (isOt) t = t.replace(Regex("주님?"), r)
       t
     }
     "ja" -> {
-      var t = text.replace("ヤハウェ", r).replace("ヱホバ", r)
+      var t = latin.replace("ヤハウェ", r).replace("ヱホバ", r)
       if (isOt) t = t.replace("主", r)
       t
     }
     "zh-Hans" -> {
-      var t = text.replace("耶和华", r).replace("雅威", r)
+      var t = latin.replace("耶和华", r).replace("雅威", r)
       if (isOt) t = t.replace("主", r)
       t
     }
     "zh-Hant" -> {
-      var t = text.replace("耶和華", r).replace("雅威", r)
+      var t = latin.replace("耶和華", r).replace("雅威", r)
       if (isOt) t = t.replace("主", r)
       t
     }
-    else -> text
+    else -> latin
   }
 }
 
 private fun highlightTraditionalName(text: String, lang: String, isOt: Boolean): String {
   fun w(s: String) = "[DN]$s[/DN]"
+  // Universal pass: color the Latin/English Tetragrammaton tokens (LORD, GOD,
+  // YHWH, YHVH, Yahweh, Yahuah, Yah) for every language, since study notes use
+  // these transliterations regardless of locale. Each language then colors its
+  // own localized token on top of this result.
+  val latin = text
+    .replace(Regex("\\bLORD\\b")) { w(it.value) }
+    .replace(Regex("\\bGOD\\b")) { w(it.value) }
+    .replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b")) { w(it.value) }
   return when (lang) {
-    "en" -> text
-      .replace(Regex("\\bLORD\\b")) { w(it.value) }
-      .replace(Regex("\\bGOD\\b")) { w(it.value) }
-      .replace(Regex("\\b(?:Yahweh|YHWH|Yahuah|Yah)\\b")) { w(it.value) }
-    "es" -> text
+    "en" -> latin
+    "es" -> latin
       .replace(uwb("SEÑOR")) { w(it.value) }
       .replace(uwb("Jehová")) { w(it.value) }
       .replace(uwb("Yahveh")) { w(it.value) }
     "pt" -> {
-      var t = text
+      var t = latin
         .replace(Regex("\\bSENHOR\\b")) { w(it.value) }
         .replace(uwb("Javé")) { w(it.value) }
       if (isOt) t = t.replace(Regex("\\bSenhor\\b")) { w(it.value) }
       t
     }
-    "fr" -> text
+    "fr" -> latin
       .replace(uwb("ÉTERNEL")) { w(it.value) }
       .replace(uwb("Éternel")) { w(it.value) }
       .replace(Regex("\\bSEIGNEUR\\b")) { w(it.value) }
-    "de" -> text
+    "de" -> latin
       .replace(Regex("\\bHERRN?\\b")) { w(it.value) }
       .replace(Regex("\\bJahwe\\b")) { w(it.value) }
     "it" -> {
-      var t = text.replace(Regex("\\bSIGNORE\\b")) { w(it.value) }
+      var t = latin.replace(Regex("\\bSIGNORE\\b")) { w(it.value) }
       if (isOt) t = t.replace(Regex("\\bSignore\\b")) { w(it.value) }
       t
     }
     "ru" -> {
-      var t = text
+      var t = latin
         .replace(Regex("ГОСПОДЬ|ГОСПОДА|ГОСПОДУ|ГОСПОДОМ")) { w(it.value) }
         .replace(uwb("Яхве")) { w(it.value) }
       if (isOt) {
@@ -225,34 +233,34 @@ private fun highlightTraditionalName(text: String, lang: String, isOt: Boolean):
       t
     }
     "ar" -> {
-      var t = text
+      var t = latin
         .replace(Regex("الرَّبُّ|الرَّبِّ|الرَّبَّ")) { w(it.value) }
         .replace(Regex("يَهوَهْ|يهوه")) { w(it.value) }
       if (isOt) t = t.replace(uwb("الرب")) { w(it.value) }
       t
     }
-    "hi" -> text.replace(Regex("यहोवा")) { w(it.value) }
+    "hi" -> latin.replace(Regex("यहोवा")) { w(it.value) }
     "ko" -> {
-      var t = text.replace(Regex("여호와|야훼")) { w(it.value) }
+      var t = latin.replace(Regex("여호와|야훼")) { w(it.value) }
       if (isOt) t = t.replace(Regex("주님?")) { w(it.value) }
       t
     }
     "ja" -> {
-      var t = text.replace(Regex("ヤハウェ|ヱホバ")) { w(it.value) }
+      var t = latin.replace(Regex("ヤハウェ|ヱホバ")) { w(it.value) }
       if (isOt) t = t.replace(Regex("主")) { w(it.value) }
       t
     }
     "zh-Hans" -> {
-      var t = text.replace(Regex("耶和华|雅威")) { w(it.value) }
+      var t = latin.replace(Regex("耶和华|雅威")) { w(it.value) }
       if (isOt) t = t.replace(Regex("主")) { w(it.value) }
       t
     }
     "zh-Hant" -> {
-      var t = text.replace(Regex("耶和華|雅威")) { w(it.value) }
+      var t = latin.replace(Regex("耶和華|雅威")) { w(it.value) }
       if (isOt) t = t.replace(Regex("主")) { w(it.value) }
       t
     }
-    else -> text
+    else -> latin
   }
 }
 

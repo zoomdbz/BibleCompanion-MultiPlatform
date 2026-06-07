@@ -1,6 +1,6 @@
 # 見えない戦い  
 
-### 序論
+## 序論
 聖書は、現実は目に見えるもの以上に深いと教えています。創世記の最初のページから黙示録の最後のページまで、聖書は人類が宇宙的な戦いに巻き込まれていることを示しています。  
 
 > 「私たちの戦いは血肉に対するものではなく、支配者、権威、この暗闇の世界の支配者、天上にいる悪の霊に対するものです。」（エペソ 6:12）  
@@ -1178,40 +1178,4 @@
 
 - **(ピリピ 2:10–11)** – すべての膝がかがめられ、すべての口が告白する。  
 
-**結論（聖書）：** キリストは悪魔の業を滅ぼした（1ヨハ 3:8）。信者は小羊の血によって勝利する（黙 12:11）。最後にはすべての被造物がイエスを主と告白する（ピリ 2:11）。  
-
----
-
-## 14. 参考文献
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F.、と Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996（19世紀原典）。
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998.（土星崇拝とサトゥルナリアの背景。）
-
-- Jewish Encyclopedia (1906). 「Magen David.」Funk and Wagnalls.（19世紀ヨーロッパ、特にプラハにおける六芒星のユダヤ的シンボルとしての遅い採用に関する詳細。）
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974.（中世ユダヤ神秘主義における六芒星の役割について。）
-
----
+**結論（聖書）：** キリストは悪魔の業を滅ぼした（1ヨハ 3:8）。信者は小羊の血によって勝利する（黙 12:11）。最後にはすべての被造物がイエスを主と告白する（ピリ 2:11）。

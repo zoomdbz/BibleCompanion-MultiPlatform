@@ -32,7 +32,7 @@ A Bíblia fornece testes claros para identificar falsos profetas, falsos mestres
 
 ---
 
-## Conclusão bíblica
+### Conclusão bíblica
 
 A Escritura ordena testar todo mestre e toda mensagem.
 

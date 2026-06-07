@@ -1,6 +1,6 @@
 # La Guerra Invisibile  
 
-### Introduzione
+## Introduzione
 La Bibbia insegna che la realtà è più profonda di ciò che vediamo. Dalla prima pagina della Genesi all’ultima dell’Apocalisse, la Scrittura mostra che l’umanità è coinvolta in un conflitto cosmico.  
 
 > “Il nostro combattimento infatti non è contro sangue e carne, ma contro i principati, contro le potestà, contro i dominatori di questo mondo di tenebre, contro le forze spirituali della malvagità che sono nei luoghi celesti.” (Efesini 6:12)  
@@ -1178,40 +1178,4 @@ Tieni saldamente la fede che è stata trasmessa una volta per sempre ai santi (G
 
 - **(Filippesi 2:10–11)** – Ogni ginocchio si piegherà e ogni lingua confesserà Gesù.  
 
-**Conclusione (Scrittura):** Cristo ha distrutto le opere del diavolo (1 Gv 3:8). I credenti vincono tramite il suo sangue (Ap 12:11). Alla fine tutta la creazione confesserà Gesù come Signore (Fil 2:11).  
-
----
-
-## 14. Bibliografia
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., e Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (originale XIX secolo).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contesto sul culto di Saturno e i Saturnali.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Dettagli sull’adozione tardiva dell’esagramma come simbolo ebraico, in particolare a Praga e nell’Europa del XIX secolo.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sul ruolo dell’esagramma nel misticismo ebraico medievale.)
-
----
+**Conclusione (Scrittura):** Cristo ha distrutto le opere del diavolo (1 Gv 3:8). I credenti vincono tramite il suo sangue (Ap 12:11). Alla fine tutta la creazione confesserà Gesù come Signore (Fil 2:11).

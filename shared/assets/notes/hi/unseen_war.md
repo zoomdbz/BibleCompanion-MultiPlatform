@@ -1,6 +1,6 @@
 # अदृश्य युद्ध  
 
-### परिचय
+## परिचय
 बाइबल सिखाती है कि वास्तविकता हमारी आँखों से दिखाई देने से कहीं अधिक गहरी है। उत्पत्ति के पहले पृष्ठ से लेकर प्रकाशितवाक्य के अंतिम पृष्ठ तक, पवित्रशास्त्र प्रकट करता है कि मानवता एक ब्रह्माण्डीय संघर्ष में फँसी हुई है।  
 
 > “क्योंकि हमारा मल्लयुद्ध रक्त और मांस से नहीं, परन्तु प्रधानों से, अधिकारियों से, इस अन्धकारमय संसार के हाकिमों से, और आकाश में होनेवाली दुष्टात्मिक सेनाओं से है।” (इफिसियों 6:12)  
@@ -1178,40 +1178,4 @@
 
 - **(फिलिप्पियों 2:10–11)** – हर घुटना झुकेगा और हर जीभ स्वीकार करेगी।  
 
-**मुख्य निष्कर्ष (शास्त्र):** मसीह ने शैतान के काम नष्ट किए (1 योह 3:8)। विश्वासियों की जय उसकी लहू से होती है (प्रका 12:11)। अन्त में सारी सृष्टि यीशु को प्रभु स्वीकार करेगी (फिलि 2:11)।  
-
----
-
-## 14. ग्रंथसूची
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., और Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (मूल 19वीं शताब्दी)।
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (शनि की उपासना और सैटर्नालिया पर पृष्ठभूमि।)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (षट्कोण के यहूदी प्रतीक के रूप में देर से अपनाये जाने का विवरण, विशेषकर प्राग और 19वीं शताब्दी की यूरोप में।)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (मध्यकालीन यहूदी रहस्यवाद में षट्कोण की भूमिका पर।)
-
----
+**मुख्य निष्कर्ष (शास्त्र):** मसीह ने शैतान के काम नष्ट किए (1 योह 3:8)। विश्वासियों की जय उसकी लहू से होती है (प्रका 12:11)। अन्त में सारी सृष्टि यीशु को प्रभु स्वीकार करेगी (फिलि 2:11)।

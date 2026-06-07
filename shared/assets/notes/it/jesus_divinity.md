@@ -254,7 +254,7 @@ Gesù non fu abbandonato nella sua divinità. Egli **scelse di entrare nel nostr
 
 ---
 
-### Gesù e il Compimento delle Profezie
+## Gesù e il Compimento delle Profezie
 Gesù non ha adempiuto solo una o due profezie. Gli studiosi contano **oltre 300 profezie messianiche** nell’Antico Testamento che si riferiscono a Lui. Queste includono la Sua nascita, genealogia, ministero, tradimento, crocifissione, resurrezione ed esaltazione.
 
 - Statisticamente, la probabilità che un solo uomo adempia anche solo 8 profezie è circa **1 su 10^17** (cento quadrilioni).

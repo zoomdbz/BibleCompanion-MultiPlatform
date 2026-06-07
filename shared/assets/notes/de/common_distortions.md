@@ -31,7 +31,7 @@ Die Bibel gibt klare Prüfsteine zur Erkennung falscher Propheten, falscher Lehr
 
 ---
 
-## Biblische Schlussfolgerung
+### Biblische Schlussfolgerung
 
 Die Schrift gebietet, jeden Lehrer und jede Botschaft zu prüfen.
 

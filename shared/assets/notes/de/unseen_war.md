@@ -1,6 +1,6 @@
 # Der unsichtbare Krieg  
 
-### Einleitung
+## Einleitung
 Die Bibel lehrt, dass die Realität tiefer ist, als das Auge sieht. Von der ersten Seite der Genesis bis zur letzten Seite der Offenbarung zeigt die Schrift, dass die Menschheit in einen kosmischen Konflikt verwickelt ist.  
 
 > „Denn unser Kampf ist nicht gegen Fleisch und Blut, sondern gegen die Herrschaften, gegen die Gewalten, gegen die Weltbeherrscher dieser Finsternis, gegen die geistigen Mächte der Bosheit in den Himmeln.“ (Epheser 6,12)  
@@ -1211,40 +1211,4 @@ Halte fest am Glauben, der ein für alle Mal den Heiligen überliefert wurde (Ju
 
 - **(Philipper 2,10–11)** – Jedes Knie beugt sich vor Jesus.
 
-**Schlussfolgerung (Schrift):** Christus hat die Werke des Teufels zerstört (1 Joh 3,8). Die Gläubigen überwinden durch sein Blut (Offb 12,11). Am Ende wird die ganze Schöpfung Jesus als Herrn bekennen (Phil 2,11).  
-
----
-
-## 14. Literaturverzeichnis
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., und Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (ursprünglich 19. Jahrhundert).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Hintergrund zur Saturnverehrung und zum Saturnalienfest.)
-
-- Jewish Encyclopedia (1906). „Magen David.“ Funk and Wagnalls. (Details zur späten Übernahme des Hexagramms als jüdisches Symbol, insbesondere in Prag und Europa des 19. Jahrhunderts.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Zur Rolle des Hexagramms in der jüdischen Mystik des Mittelalters.)
-
----
+**Schlussfolgerung (Schrift):** Christus hat die Werke des Teufels zerstört (1 Joh 3,8). Die Gläubigen überwinden durch sein Blut (Offb 12,11). Am Ende wird die ganze Schöpfung Jesus als Herrn bekennen (Phil 2,11).

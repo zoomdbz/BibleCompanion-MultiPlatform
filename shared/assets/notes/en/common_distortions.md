@@ -31,7 +31,7 @@ The Bible provides clear tests for identifying false prophets, false teachers, a
 
 ---
 
-## Biblical conclusion
+### Biblical conclusion
 
 Scripture commands believers to test every teacher and every message.
 

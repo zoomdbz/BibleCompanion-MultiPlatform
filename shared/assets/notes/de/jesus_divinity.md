@@ -254,7 +254,7 @@ Jesus wurde in seiner Göttlichkeit nicht verlassen. Er **entschied sich, in uns
 
 ---
 
-### Jesus und die Erfüllung von Prophezeiungen
+## Jesus und die Erfüllung von Prophezeiungen
 Jesus erfüllte nicht nur eine oder zwei Prophezeiungen. Gelehrte zählen **über 300 messianische Prophezeiungen** im Alten Testament, die auf Ihn hinweisen. Dazu gehören Seine Geburt, Abstammung, Sein Dienst, Verrat, Kreuzigung, Auferstehung und Erhöhung.
 
 - Statistisch gesehen liegt die Wahrscheinlichkeit, dass ein Mensch auch nur 8 Prophezeiungen erfüllt, bei etwa **1 zu 10^17** (hundert Billiarden).

@@ -254,7 +254,7 @@ Jésus n’a pas été abandonné dans sa divinité. Il a **choisi d’entrer da
 
 ---
 
-### Jésus et l’Accomplissement des Prophéties
+## Jésus et l’Accomplissement des Prophéties
 Jésus n’a pas seulement accompli une ou deux prophéties. Les érudits comptent **plus de 300 prophéties messianiques** dans l’Ancien Testament qui pointent vers Lui. Celles-ci incluent Sa naissance, Sa lignée, Son ministère, Sa trahison, Sa crucifixion, Sa résurrection et Son exaltation.
 
 - Statistiquement, la probabilité qu’un seul homme accomplisse même 8 prophéties est d’environ **1 sur 10^17** (cent quadrillions).

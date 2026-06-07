@@ -31,7 +31,7 @@ La Biblia proporciona pruebas claras para identificar falsos profetas, falsos ma
 
 ---
 
-## Conclusión bíblica
+### Conclusión bíblica
 
 La Escritura ordena probar a todo maestro y todo mensaje.
 

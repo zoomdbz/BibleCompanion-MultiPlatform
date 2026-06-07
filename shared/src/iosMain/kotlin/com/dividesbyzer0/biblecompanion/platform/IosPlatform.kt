@@ -404,6 +404,10 @@ actual fun platformAppBuild(context: PlatformContext): String {
 }
 
 @Volatile private var ttsOnDone: (() -> Unit)? = null
+// The last utterance queued for the current speak request. didFinish/didCancel
+// fire the UI "done" callback only for THIS utterance, so a multi-chunk chapter
+// reports done once (at the very end), not after each chunk.
+@Volatile private var ttsFinalUtterance: AVSpeechUtterance? = null
 
 private class TtsDelegate : NSObject(), AVSpeechSynthesizerDelegateProtocol {
     @ObjCSignatureOverride
@@ -411,7 +415,7 @@ private class TtsDelegate : NSObject(), AVSpeechSynthesizerDelegateProtocol {
         synthesizer: AVSpeechSynthesizer,
         didFinishSpeechUtterance: AVSpeechUtterance
     ) {
-        ttsOnDone?.invoke()
+        if (didFinishSpeechUtterance == ttsFinalUtterance) ttsOnDone?.invoke()
     }
 
     @ObjCSignatureOverride
@@ -419,7 +423,7 @@ private class TtsDelegate : NSObject(), AVSpeechSynthesizerDelegateProtocol {
         synthesizer: AVSpeechSynthesizer,
         didCancelSpeechUtterance: AVSpeechUtterance
     ) {
-        ttsOnDone?.invoke()
+        if (didCancelSpeechUtterance == ttsFinalUtterance) ttsOnDone?.invoke()
     }
 }
 
@@ -442,14 +446,54 @@ actual fun platformTtsInit(context: PlatformContext) {
     // Delegate is wired at property init; nothing else needed.
 }
 
+// AVSpeechSynthesizer hangs / freezes the app when handed a very long utterance
+// (a whole chapter at 2000+ chars), even though short text like the Verse of the
+// Day plays fine. Split long text into small utterances at sentence/clause
+// boundaries and queue them; AVSpeechSynthesizer plays a queue back-to-back, so
+// reading stays continuous. Kept conservative (700) because iOS chokes well below
+// Android's 4000-char limit.
+private fun ttsChunksIos(text: String, maxLen: Int = 700): List<String> {
+    if (text.length <= maxLen) return listOf(text)
+    val breakChars = charArrayOf('.', '!', '?', '。', '！', '？', '；', ';', '\n')
+    val out = ArrayList<String>()
+    var start = 0
+    val n = text.length
+    while (start < n) {
+        var end = minOf(start + maxLen, n)
+        if (end < n) {
+            val window = text.substring(start, end)
+            val half = maxLen / 2
+            val sentenceAt = window.lastIndexOfAny(breakChars)
+            val spaceAt = window.lastIndexOf(' ')
+            val cut = when {
+                sentenceAt >= half -> sentenceAt + 1
+                spaceAt >= half -> spaceAt + 1
+                else -> window.length
+            }
+            end = start + cut
+        }
+        val piece = text.substring(start, end).trim()
+        if (piece.isNotEmpty()) out.add(piece)
+        start = end
+    }
+    return if (out.isEmpty()) listOf(text.take(maxLen)) else out
+}
+
 actual fun platformTtsSpeak(context: PlatformContext, text: String, languageTag: String) {
     synthesizer.stopSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
-    val utterance = AVSpeechUtterance(string = text)
     val mapped = ttsLanguageTag(languageTag)
-    utterance.voice = AVSpeechSynthesisVoice.voiceWithLanguage(mapped)
+    val voice = AVSpeechSynthesisVoice.voiceWithLanguage(mapped)
         ?: AVSpeechSynthesisVoice.voiceWithLanguage("en-US")
-    utterance.rate = 0.5f
-    synthesizer.speakUtterance(utterance)
+    var last: AVSpeechUtterance? = null
+    ttsChunksIos(text).forEach { chunk ->
+        val utterance = AVSpeechUtterance(string = chunk)
+        utterance.voice = voice
+        utterance.rate = 0.5f
+        synthesizer.speakUtterance(utterance)
+        last = utterance
+    }
+    // Tag the last queued utterance so onDone fires only once, after it finishes.
+    ttsFinalUtterance = last
 }
 
 actual fun platformTtsStop(context: PlatformContext) {

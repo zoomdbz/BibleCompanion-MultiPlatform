@@ -27,6 +27,7 @@ sealed class Dest(val route: String) {
     data object ChristianSymbolism : Dest("christian_symbolism")
     data object Christophanies : Dest("christophanies")
     data object FAQs : Dest("faqs")
+    data object Bibliography : Dest("bibliography")
     data object UnseenWar : Dest("unseen_war")
     data object FeastCalendar : Dest("feast_calendar")
     data object Prophecy : Dest("prophecy")

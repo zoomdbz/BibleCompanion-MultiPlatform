@@ -1,6 +1,6 @@
 # A Guerra Invisível  
 
-### Introdução
+## Introdução
 A Bíblia ensina que a realidade é mais profunda do que aquilo que vemos. Desde a primeira página de Gênesis até a última de Apocalipse, as Escrituras mostram que a humanidade está envolvida em um conflito cósmico.  
 
 > “Pois a nossa luta não é contra carne e sangue, mas contra os principados, contra as potestades, contra os dominadores deste mundo tenebroso, contra as forças espirituais do mal nas regiões celestiais.” (Efésios 6:12)  
@@ -1179,40 +1179,4 @@ Apega-te à fé que uma vez por todas foi entregue aos santos (Judas 3).
 
 - **(Filipenses 2:10–11)** – “Ao nome de Jesus se dobrará todo joelho.”  
 
-**Resumo (Escritura):** Cristo veio para destruir as obras do diabo (1 Jo 3:8). Os crentes vencem pelo sangue do Cordeiro (Ap 12:11). No fim, toda criatura confessará que Jesus Cristo é Senhor (Fp 2:10–11).  
-
----
-
-## 14. Bibliografia
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., e Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (século XIX original).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (Contexto sobre o culto a Saturno e a Saturnália.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (Detalhes sobre a adoção tardia do hexagrama como símbolo judaico, especialmente em Praga e na Europa do século XIX.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (Sobre o papel do hexagrama no misticismo judaico medieval.)
-
----
+**Resumo (Escritura):** Cristo veio para destruir as obras do diabo (1 Jo 3:8). Os crentes vencem pelo sangue do Cordeiro (Ap 12:11). No fim, toda criatura confessará que Jesus Cristo é Senhor (Fp 2:10–11).

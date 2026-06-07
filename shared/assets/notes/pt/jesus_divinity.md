@@ -254,7 +254,7 @@ Jesus não foi abandonado em sua divindade. Ele **escolheu entrar em nosso senso
 
 ---
 
-### Jesus e o Cumprimento das Profecias
+## Jesus e o Cumprimento das Profecias
 Jesus não cumpriu apenas uma ou duas profecias. Os estudiosos contam **mais de 300 profecias messiânicas** no Antigo Testamento que apontam para Ele. Estas incluem Seu nascimento, linhagem, ministério, traição, crucificação, ressurreição e exaltação.
 
 - Estatisticamente, a probabilidade de um homem cumprir apenas 8 profecias é de aproximadamente **1 em 10^17** (cem quatrilhões).

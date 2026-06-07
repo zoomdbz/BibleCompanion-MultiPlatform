@@ -32,7 +32,7 @@ La Bibbia fornisce criteri chiari per identificare falsi profeti, falsi insegnan
 
 ---
 
-## Conclusione biblica
+### Conclusione biblica
 
 La Scrittura comanda di mettere alla prova ogni insegnante e ogni messaggio.
 

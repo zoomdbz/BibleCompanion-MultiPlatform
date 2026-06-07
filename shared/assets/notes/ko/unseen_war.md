@@ -1,6 +1,6 @@
 # 보이지 않는 전쟁  
 
-### 서론
+## 서론
 성경은 우리가 보는 현실보다 훨씬 깊은 차원이 있다고 가르칩니다. 창세기의 첫 장부터 요한계시록의 마지막 장까지, 인류는 우주적 전쟁 속에 있음을 보여줍니다.  
 
 > “우리의 씨름은 혈과 육에 대한 것이 아니요, 통치자들과 권세들과 이 어둠의 세상 주관자들과 하늘에 있는 악의 영들에 대함이라.” (에베소서 6:12)  
@@ -1179,40 +1179,4 @@
 
 - **(빌립보서 2:10–11)** – 모든 무릎이 꿇고 모든 입이 예수를 주라 시인한다.  
 
-**핵심 요약 (성경):** 그리스도는 마귀의 일을 멸하셨다(요일 3:8). 믿는 자들은 어린 양의 피로 이긴다(계 12:11). 마지막에는 모든 피조물이 예수를 주라 고백한다(빌 2:11).  
-
----
-
-## 14. 참고문헌
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan ; Eynikel, Erik ; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., 와 Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (19세기 원본).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary ; North, John ; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (토성 숭배와 사투르날리아 배경.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (19세기 유럽, 특히 프라하에서 육망성이 유대 상징으로 늦게 채택된 것에 대한 세부사항.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (중세 유대 신비주의에서 육망성의 역할.)
-
----
+**핵심 요약 (성경):** 그리스도는 마귀의 일을 멸하셨다(요일 3:8). 믿는 자들은 어린 양의 피로 이긴다(계 12:11). 마지막에는 모든 피조물이 예수를 주라 고백한다(빌 2:11).

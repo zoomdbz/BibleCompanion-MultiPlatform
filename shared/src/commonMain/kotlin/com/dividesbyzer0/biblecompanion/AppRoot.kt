@@ -308,6 +308,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             onHistoricalAwareness = { nav.navigate(Dest.HistoricalAwareness.route) { launchSingleTop = true } },
             onBibleCanon = { nav.navigate(Dest.BibleCanon.route) { launchSingleTop = true } },
             onFaqs = { nav.navigate(Dest.FAQs.route) { launchSingleTop = true } },
+            onBibliography = { nav.navigate(Dest.Bibliography.route) { launchSingleTop = true } },
             onFeastCalendar = { nav.navigate(Dest.FeastCalendar.route) { launchSingleTop = true } },
             onProphecy = { nav.navigate(Dest.Prophecy.route) { launchSingleTop = true } },
             onAbout = { nav.navigate(Dest.About.route) { launchSingleTop = true } },
@@ -375,6 +376,9 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             Res.string.faqs, "faqs.md", prefs, repo,
             collapsible = true, headingPrefix = "### "
           ) { navBack() }
+        }
+        composable(Dest.Bibliography.route) {
+          GenericNotesScreen(Res.string.bibliography, "bibliography.md", prefs, repo, collapsible = true) { navBack() }
         }
         composable(Dest.Genealogy.route) {
           GenealogyScreen(prefs = prefs, onBack = { navBack() })
@@ -621,6 +625,7 @@ fun HomeScreen(
   onHistoricalAwareness: () -> Unit,
   onBibleCanon: () -> Unit,
   onFaqs: () -> Unit,
+  onBibliography: () -> Unit,
   onFeastCalendar: () -> Unit,
   onProphecy: () -> Unit,
   onAbout: () -> Unit,
@@ -964,10 +969,20 @@ fun HomeScreen(
         // Verse of the Day — state hoisted above LazyColumn (see top of body)
         if (!votdDismissed) {
           item("votd") {
+        // Dynamic (Material You) dark palettes give tertiaryContainer a vivid
+        // accent that makes the persistent VOTD card strain the eye. Under the
+        // Dynamic preset, back it with the calmer secondaryContainer so it sits
+        // in the same family as the other home cards. Hand-tuned presets keep
+        // their intended tertiary accent.
+        val votdDynamic = ThemePreset.fromKey(prefs.themePreset) == ThemePreset.Dynamic
+        val votdContainer = if (votdDynamic) MaterialTheme.colorScheme.secondaryContainer
+                            else MaterialTheme.colorScheme.tertiaryContainer
+        val votdOnContainer = if (votdDynamic) MaterialTheme.colorScheme.onSecondaryContainer
+                              else MaterialTheme.colorScheme.onTertiaryContainer
         Card(
           modifier = Modifier.fillMaxWidth(),
           colors = CardDefaults.cardColors(
-            containerColor = MaterialTheme.colorScheme.tertiaryContainer
+            containerColor = votdContainer
           )
         ) {
           Column(Modifier.padding(16.dp)) {
@@ -980,7 +995,7 @@ fun HomeScreen(
                 if (votd.isFeastOverride) stringResource(Res.string.feast_verse_label)
                 else stringResource(Res.string.verse_of_the_day),
                 style = MaterialTheme.typography.labelMedium,
-                color = MaterialTheme.colorScheme.onTertiaryContainer.copy(alpha = 0.7f)
+                color = votdOnContainer.copy(alpha = 0.7f)
               )
               Row(verticalAlignment = Alignment.CenterVertically) {
                 IconButton(
@@ -991,7 +1006,7 @@ fun HomeScreen(
                   Icon(
                     Icons.Filled.Share,
                     contentDescription = stringResource(Res.string.share),
-                    tint = MaterialTheme.colorScheme.onTertiaryContainer,
+                    tint = votdOnContainer,
                     modifier = Modifier.size(18.dp)
                   )
                 }
@@ -1010,7 +1025,7 @@ fun HomeScreen(
                   Icon(
                     if (ttsPlaying) Icons.Filled.Stop else Icons.Filled.PlayArrow,
                     contentDescription = if (ttsPlaying) stringResource(Res.string.cd_tts_stop) else stringResource(Res.string.cd_tts_play),
-                    tint = MaterialTheme.colorScheme.onTertiaryContainer,
+                    tint = votdOnContainer,
                     modifier = Modifier.size(18.dp)
                   )
                 }
@@ -1023,7 +1038,7 @@ fun HomeScreen(
                   Icon(
                     Icons.Filled.Close,
                     contentDescription = stringResource(Res.string.votd_dismiss_today),
-                    tint = MaterialTheme.colorScheme.onTertiaryContainer.copy(alpha = 0.6f),
+                    tint = votdOnContainer.copy(alpha = 0.6f),
                     modifier = Modifier.size(18.dp)
                   )
                 }
@@ -1034,14 +1049,14 @@ fun HomeScreen(
               wrapVotdQuotes(votd.text),
               style = MaterialTheme.typography.bodyMedium,
               fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
-              color = MaterialTheme.colorScheme.onTertiaryContainer
+              color = votdOnContainer
             )
             ScriptureRefs.ClickableRefsTextSmart(
               text = "\u2014 $votdLocalRef",
               prefs = prefs,
               modifier = Modifier.padding(top = 4.dp),
               textStyle = MaterialTheme.typography.labelSmall.copy(
-                color = MaterialTheme.colorScheme.onTertiaryContainer.copy(alpha = 0.7f)
+                color = votdOnContainer.copy(alpha = 0.7f)
               )
             )
           }
@@ -1231,6 +1246,7 @@ fun HomeScreen(
                 StudyItem(stringResource(Res.string.historical_awareness), !navBusy) { safeNav { onHistoricalAwareness() } }
                 StudyItem(stringResource(Res.string.bible_canon), !navBusy) { safeNav { onBibleCanon() } }
                 StudyItem(stringResource(Res.string.faqs), !navBusy) { safeNav { onFaqs() } }
+                StudyItem(stringResource(Res.string.bibliography), !navBusy) { safeNav { onBibliography() } }
               }
             }
           }
@@ -2739,6 +2755,18 @@ fun StoryCard(
                   // and verse-picker behavior stay unchanged.
                   val headingsByVerse: Map<Int, String> = remember(story.headings) {
                     story.headings.associate { it.beforeVerse to it.text }
+                  }
+                  // Psalm superscription renders as an italic preface above the
+                  // verses, distinct from numbered verse text so it does not
+                  // bleed into verse 1.
+                  if (story.superscription.isNotBlank()) {
+                    Text(
+                      story.superscription,
+                      style = MaterialTheme.typography.bodyMedium,
+                      fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
+                      color = MaterialTheme.colorScheme.onSurfaceVariant,
+                      modifier = Modifier.padding(start = 4.dp, end = 4.dp, bottom = 6.dp)
+                    )
                   }
                   story.summaryBullets.forEachIndexed { idx, bullet ->
                     val headingForThisBullet: String? = if (headingsByVerse.isEmpty()) null else {

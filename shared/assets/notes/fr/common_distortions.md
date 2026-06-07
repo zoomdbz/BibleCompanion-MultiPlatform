@@ -32,7 +32,7 @@ La Bible fournit des critères clairs pour identifier les faux prophètes, les f
 
 ---
 
-## Conclusion biblique
+### Conclusion biblique
 
 L’Écriture ordonne d’éprouver tout enseignant et tout message.
 

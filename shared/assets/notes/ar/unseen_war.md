@@ -1,6 +1,6 @@
 # الحرب غير المنظورة  
 
-### المقدمة
+## المقدمة
 يعلّمنا الكتاب المقدس أنّ الواقع أعمق مما تراه العيون. من أول صفحة في التكوين إلى آخر صفحة في الرؤيا، يبيّن الوحي أنّ البشرية واقعة في صراع كوني.  
 
 > «فَإِنَّ مُصَارَعَتَنَا لَيْسَتْ مَعَ دَمٍ وَلَحْمٍ، بَلْ مَعَ الرُّؤَسَاءِ، مَعَ السَّلاطِينِ، مَعَ وُلَاةِ الْعَالَمِ عَلَى ظُلْمَةِ هذَا الدَّهْرِ، مَعَ أَجْنَادِ الشَّرِّ الرُّوحِيَّةِ فِي السَّمَاوِيَّاتِ.» (أفسس 6:12)  
@@ -1192,40 +1192,4 @@
 
 - **(فيلبي 2:10–11)** – «لكي تجثو باسم يسوع كل ركبة… ويعترف كل لسان.»  
 
-**الخلاصة (الكتاب):** المسيح أبطل أعمال إبليس (1 يو 3:8). المؤمنون يغلبون بدمه (رؤ 12:11). وفي النهاية كل الخليقة تعترف بيسوع رباً (في 2:11).  
-
----
-
-## 14. المراجع
-
-- Stoner, Peter W. *Science Speaks: Scientific Proof of the Accuracy of Prophecy and the Bible.* Moody Press, 1958.
-
-- McDowell, Josh. *Evidence That Demands a Verdict.* Thomas Nelson, 1999.
-
-- Kaiser, Walter C. *The Messiah in the Old Testament.* Zondervan, 1995.
-
-- Archer, Gleason L. *Encyclopedia of Bible Difficulties.* Zondervan, 1982.
-
-- Jeremiah, David. *The Handwriting on the Wall.* Word Publishing, 1992.
-
-- Brown, Michael L. *Answering Jewish Objections to Jesus, Vol. 1–5.* Baker Academic, 2000–2015.
-
-- Bruce, F. F. *The Book of the Acts.* New International Commentary on the New Testament. Eerdmans, 1988.
-
-- Tov, Emanuel. *Textual Criticism of the Hebrew Bible.* Fortress Press, 1992.
-
-- Lust, Johan; Eynikel, Erik; Hauspie, Katrin. *A Greek-English Lexicon of the Septuagint.* Deutsche Bibelgesellschaft, 2003.
-
-- Keil, C. F., and Delitzsch, F. *Commentary on the Old Testament: The Twelve Minor Prophets.* Hendrickson, 1996 (original 19th century).
-
-- Smith, William Robertson. *The Religion of the Semites.* Adam and Charles Black, 1889.
-
-- Walton, John H. *Ancient Near Eastern Thought and the Old Testament.* Baker Academic, 2006.
-
-- Beard, Mary; North, John; Price, Simon. *Religions of Rome: Volume 1, A History.* Cambridge University Press, 1998. (خلفية عن عبادة زحل وعيد ساتورناليا.)
-
-- Jewish Encyclopedia (1906). “Magen David.” Funk and Wagnalls. (تفاصيل عن تبني المسدس كرمز يهودي في أواخر القرن التاسع عشر، خاصة في براغ وأوروبا.)
-
-- Scholem, Gershom. *Kabbalah.* Keter Publishing, 1974. (عن دور المسدس في التصوف اليهودي في العصور الوسطى.)
-
----  
+**الخلاصة (الكتاب):** المسيح أبطل أعمال إبليس (1 يو 3:8). المؤمنون يغلبون بدمه (رؤ 12:11). وفي النهاية كل الخليقة تعترف بيسوع رباً (في 2:11).
