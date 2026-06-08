@@ -86,6 +86,6 @@
 
 - Beard, Mary, John North, and Simon Price. *Religions of Rome, Volume 1: A History.* Cambridge: Cambridge University Press, 1998.
 
-- *The Jewish Encyclopedia* (1901-1906), s.v. "Magen Dawid." New York: Funk and Wagnalls.
+- *The Jewish Encyclopedia* (1901-1906), s.v. 「Magen Dawid.」 New York: Funk and Wagnalls.
 
 - Scholem, Gershom. *Kabbalah.* Jerusalem: Keter Publishing House, 1974.

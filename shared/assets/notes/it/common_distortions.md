@@ -43,27 +43,35 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 ---
 
 ## Una volta salvati, sempre salvati
-(Giovanni 10:28–29): "Io do loro la vita eterna; e non periranno mai e nessuno le rapirà dalla mia mano. Il Padre mio che me le ha date è più grande di tutti; e nessuno può rapirle dalla mano del Padre."
+(Giovanni 10:28–29): «Io do loro la vita eterna; e non periranno mai e nessuno le rapirà dalla mia mano. Il Padre mio che me le ha date è più grande di tutti; e nessuno può rapirle dalla mano del Padre.»
 
 - Come viene usato: Questo versetto e altri vengono citati per affermare che un singolo momento di fede garantisce la salvezza per sempre, a prescindere da come una persona viva in seguito. Spesso viene usato per scusare il peccato e dare una falsa sicurezza a coloro che camminano nella disobbedienza.
 
-- La verità: Gesù promette sicurezza a coloro che rimangono in Lui, ma la Scrittura è piena di avvertimenti contro l’apostasia, il perseverare nel peccato o l’abbandonare la fede. La salvezza è una relazione vivente che richiede perseveranza, obbedienza e una fede che produca opere.
+- La verità: La Scrittura insegna davvero la sicurezza del vero credente. Gesù disse che nessuno può rapire le sue pecore dalla sua mano (Giovanni 10:28–29); non perde nessuno di coloro che il Padre gli ha dato (Giovanni 6:39); e i credenti sono custoditi dalla potenza di Dio, non dalla loro (1 Pietro 1:5; Filippesi 1:6). Dunque, nel senso vero, sì: una volta veramente salvati, sempre salvati, perché Cristo stesso li tiene. La distorsione non è la sicurezza eterna; è usare una singola professione di fede per scusare una vita di peccato impenitente. Gli avvertimenti della Scrittura non minacciano il vero credente di perdita; smascherano una professione vuota o falsa. Coloro che cadono mostrano di non essere mai stati veramente nella fede. La vera fede salvifica persevera e porta frutto.
 
-- (Giacomo 2:17): "Così anche la fede, se non ha opere, è per se stessa morta."
+- (Giovanni 6:39): «Questa è la volontà di colui che mi ha mandato: che io non perda nessuno di tutti quelli che egli mi ha dato, ma che li risusciti nell’ultimo giorno.»
 
-- (Ebrei 6:4–6): "Infatti è impossibile che quelli che sono stati una volta illuminati, che hanno gustato il dono celeste, che sono stati fatti partecipi dello Spirito Santo, che hanno gustato la buona parola di Dio e le potenze del mondo futuro, e poi sono caduti, siano di nuovo rinnovati a ravvedimento, poiché crocifiggono di nuovo per conto loro il Figlio di Dio e lo espongono a infamia."
+- (1 Pietro 1:5): «Voi siete custoditi dalla potenza di Dio, mediante la fede, per la salvezza che sta per essere rivelata negli ultimi tempi.»
 
-- (Ebrei 10:26–27): "Infatti, se pecchiamo volontariamente dopo aver ricevuto la conoscenza della verità, non rimane più alcun sacrificio per i peccati, ma una terribile attesa del giudizio e l’ardore di un fuoco che divorerà gli avversari."
+- (1 Giovanni 2:19): «Sono usciti di mezzo a noi, ma non erano dei nostri; perché, se fossero stati dei nostri, sarebbero rimasti con noi; ma ciò è avvenuto affinché fosse manifestato che non tutti sono dei nostri.»
 
-- (Matteo 7:21–23): "Non chiunque mi dice: “Signore, Signore” entrerà nel regno dei cieli, ma chi fa la volontà del Padre mio che è nei cieli. Molti mi diranno in quel giorno: “Signore, Signore, non abbiamo noi profetizzato nel tuo nome? E nel tuo nome non abbiamo cacciato demoni? E nel tuo nome non abbiamo fatto molte opere potenti?” Allora dichiarerò loro: “Io non vi ho mai conosciuti; allontanatevi da me, voi tutti operatori di iniquità.”"
+- Gli avvertimenti che seguono non sono una minaccia contro le pecore sicure di Cristo, ma un invito a esaminare se la propria fede sia reale e perseverante, poiché la vera fede porta sempre frutto:
 
-- (Giovanni 15:6): "Se uno non rimane in me, è gettato via come il tralcio e si secca; poi si raccolgono, si gettano nel fuoco e si bruciano."
+- (Giacomo 2:17): «Così anche la fede, se non ha opere, è per se stessa morta.»
 
-- (1 Corinzi 9:27): "Anzi, tratto duramente il mio corpo e lo riduco in schiavitù, affinché, dopo aver predicato agli altri, io stesso non sia squalificato."
+- (Ebrei 6:4–6): «Infatti è impossibile che quelli che sono stati una volta illuminati, che hanno gustato il dono celeste, che sono stati fatti partecipi dello Spirito Santo, che hanno gustato la buona parola di Dio e le potenze del mondo futuro, e poi sono caduti, siano di nuovo rinnovati a ravvedimento, poiché crocifiggono di nuovo per conto loro il Figlio di Dio e lo espongono a infamia.»
 
-- (Galati 5:19–21): "Or sono manifeste le opere della carne, che sono: fornicazione, impurità, dissolutezza, idolatria, stregoneria, inimicizie, discordie, gelosie, ire, contese, divisioni, sette, invidie, ubriachezze, orge e cose simili. Vi preavviso, come vi ho già detto, che coloro che fanno tali cose non erediteranno il regno di Dio."
+- (Ebrei 10:26–27): «Infatti, se pecchiamo volontariamente dopo aver ricevuto la conoscenza della verità, non rimane più alcun sacrificio per i peccati, ma una terribile attesa del giudizio e l’ardore di un fuoco che divorerà gli avversari.»
 
-- (Apocalisse 3:5): "Chi vince sarà dunque vestito di vesti bianche, e io non cancellerò il suo nome dal libro della vita e confesserò il suo nome davanti al Padre mio e davanti ai suoi angeli."
+- (Matteo 7:21–23): «Non chiunque mi dice: »Signore, Signore« entrerà nel regno dei cieli, ma chi fa la volontà del Padre mio che è nei cieli. Molti mi diranno in quel giorno: »Signore, Signore, non abbiamo noi profetizzato nel tuo nome? E nel tuo nome non abbiamo cacciato demoni? E nel tuo nome non abbiamo fatto molte opere potenti?« Allora dichiarerò loro: »Io non vi ho mai conosciuti; allontanatevi da me, voi tutti operatori di iniquità.«»
+
+- (Giovanni 15:6): «Se uno non rimane in me, è gettato via come il tralcio e si secca; poi si raccolgono, si gettano nel fuoco e si bruciano.»
+
+- (1 Corinzi 9:27): «Anzi, tratto duramente il mio corpo e lo riduco in schiavitù, affinché, dopo aver predicato agli altri, io stesso non sia squalificato.»
+
+- (Galati 5:19–21): «Or sono manifeste le opere della carne, che sono: fornicazione, impurità, dissolutezza, idolatria, stregoneria, inimicizie, discordie, gelosie, ire, contese, divisioni, sette, invidie, ubriachezze, orge e cose simili. Vi preavviso, come vi ho già detto, che coloro che fanno tali cose non erediteranno il regno di Dio.»
+
+- (Apocalisse 3:5): «Chi vince sarà dunque vestito di vesti bianche, e io non cancellerò il suo nome dal libro della vita e confesserò il suo nome davanti al Padre mio e davanti ai suoi angeli.»
 
 ---
 
@@ -270,7 +278,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 ## Appartenenza segreta/selezionata/speciale/eletta
 
-**Versetto usato male:** (Giovanni 15:19) “Se foste del mondo, il mondo amerebbe ciò che è suo; ma siccome non siete del mondo, ma io vi ho scelti dal mondo, per questo il mondo vi odia.”
+**Versetto usato male:** (Giovanni 15:19) «Se foste del mondo, il mondo amerebbe ciò che è suo; ma siccome non siete del mondo, ma io vi ho scelti dal mondo, per questo il mondo vi odia.»
 
 **Come viene usato:** Alcuni gruppi affermano che solo una cerchia ristretta e nascosta rappresenti la vera comunità cristiana.
 
@@ -278,11 +286,11 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 **Passaggi di supporto:**
 
-- (Matteo 5:14–16) “Voi siete la luce del mondo… la vostra luce risplenda davanti agli uomini.”
+- (Matteo 5:14–16) «Voi siete la luce del mondo… la vostra luce risplenda davanti agli uomini.»
 
-- (Giovanni 3:16) “Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito.”
+- (Giovanni 3:16) «Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito.»
 
-- (Galati 3:28) “Non c’è né Giudeo né Greco… tutti voi siete uno in Cristo Gesù.”
+- (Galati 3:28) «Non c’è né Giudeo né Greco… tutti voi siete uno in Cristo Gesù.»
 
 ---
 
@@ -296,7 +304,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 La Scrittura fa questa affermazione su se stessa più e più volte: Salmo 12:6 chiama le parole di Dio «parole pure, argento purificato nel crogiuolo, raffinato sette volte». Proverbi 30:5 dice «ogni parola di Dio è affinata». Gesù stesso ha pregato in Giovanni 17:17: «La tua parola è verità.» Queste non sono affermazioni deboli. La Bibbia si presenta come completamente affidabile, senza errore e con la piena autorità di Dio.
 
-**Cosa significa “senza errore in ciò che afferma”:** La Bibbia talvolta riporta le parole di bugiardi, stolti e persino Satana. Per esempio, Satana disse a Eva «tu non morirai affatto» (Genesi 3:4); quell’affermazione è falsa, ma la Bibbia riporta accuratamente che egli la disse. Il testo è senza errore in ciò che insegna e afferma come vero; non approva ogni affermazione che registra. Questa è una distinzione semplice ma importante.
+**Cosa significa «senza errore in ciò che afferma»:** La Bibbia talvolta riporta le parole di bugiardi, stolti e persino Satana. Per esempio, Satana disse a Eva «tu non morirai affatto» (Genesi 3:4); quell’affermazione è falsa, ma la Bibbia riporta accuratamente che egli la disse. Il testo è senza errore in ciò che insegna e afferma come vero; non approva ogni affermazione che registra. Questa è una distinzione semplice ma importante.
 
 **La distorsione:** Il problema non è mai la dottrina in sé. Il problema è quando le persone la usano per: forzare ogni passo in un letteralismo rigido che ignora se si tratta di poesia, parabola o profezia; negare che Dio ha usato persone reali con stili di scrittura reali per consegnare la Sua Parola; o trasformare una specifica teoria sulla Scrittura in un test per la salvezza. Nessun credente serio sostiene che Dio abbia fisicamente tenuto la penna. L’affermazione è che Dio ha operato attraverso autori umani in modo che ciò che hanno scritto fosse esattamente ciò che Egli intendeva. Questo è ciò che la Bibbia dice di se stessa, e questa è stata la posizione storica della chiesa per duemila anni.
 

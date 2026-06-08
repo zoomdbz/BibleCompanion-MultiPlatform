@@ -99,7 +99,7 @@
 
 ### 摩門教 / 耶穌基督後期聖徒教會
 
-**又稱為：** LDS。LDS Church。The Church of Jesus Christ of Latter-day Saints。Latter-day Saints。Saints（成員自稱）。Mormons。The Brethren（指最高領導層）。The Quorum of the Twelve Apostles。The First Presidency。The Brighamites（歷史用語，用以區分猶他州教會）。The "Brighton Young Church"（非正式歷史稱呼）。相關及分裂團體包括 Community of Christ（前身為 Reorganized LDS Church，即 RLDS，總部位於密蘇裏州獨立城；其神學立場比猶他州 LDS 更接近主流基督教）、Fundamentalist Church of Jesus Christ of Latter-Day Saints（FLDS，即 Warren Jeffs 領導的多妻制分裂羣體）、Apostolic United Brethren（AUB），以及 Kingston Group（Davis County Cooperative Society）。猶他州主流教會自 2018 年在主席 Russell M. Nelson 領導下，持續反對「Mormon」此一暱稱，並要求媒體使用教會全名。
+**又稱為：** LDS。LDS Church。The Church of Jesus Christ of Latter-day Saints。Latter-day Saints。Saints（成員自稱）。Mormons。The Brethren（指最高領導層）。The Quorum of the Twelve Apostles。The First Presidency。The Brighamites（歷史用語，用以區分猶他州教會）。The 「Brighton Young Church」（非正式歷史稱呼）。相關及分裂團體包括 Community of Christ（前身為 Reorganized LDS Church，即 RLDS，總部位於密蘇裏州獨立城；其神學立場比猶他州 LDS 更接近主流基督教）、Fundamentalist Church of Jesus Christ of Latter-Day Saints（FLDS，即 Warren Jeffs 領導的多妻制分裂羣體）、Apostolic United Brethren（AUB），以及 Kingston Group（Davis County Cooperative Society）。猶他州主流教會自 2018 年在主席 Russell M. Nelson 領導下，持續反對「Mormon」此一暱稱，並要求媒體使用教會全名。
 
 **創立者：** Joseph Smith Jr.，1830 年。創立於紐約州 Fayette；Smith 聲稱一位名為 Moroni 的天使引領他找到埋藏在紐約州 Palmyra 附近的金頁片，並將其透過放置在帽中的「觀石」翻譯成摩門經。
 
@@ -346,7 +346,7 @@
 ---
 ### 統一教
 
-**又稱為：** Moonies（口語，有時帶貶義；成員反對此稱呼）。統一教。統一運動。世界基督教統一神靈協會（HSA-UWC，原始名稱）。世界和平與統一家庭聯合會（FFWPU，1996 年後的更名）。Sanctuary Church（由 Sun Myung Moon 之子 Hyung Jin "Sean" Moon 領導的分裂派別；此派系推崇 AR-15 為「鐵杖」，與統一運動主流有所區別）。真家庭。旗下外圍組織包括：《華盛頓時報》報紙、世界媒體協會、國際宗教基金會、CAUSA International、美國自由聯盟、世界和平聯合會、世界女性和平聯合會，以及（歷史上的）原則研究大學生聯合會（CARP，校園招募部門）。
+**又稱為：** Moonies（口語，有時帶貶義；成員反對此稱呼）。統一教。統一運動。世界基督教統一神靈協會（HSA-UWC，原始名稱）。世界和平與統一家庭聯合會（FFWPU，1996 年後的更名）。Sanctuary Church（由 Sun Myung Moon 之子 Hyung Jin 「Sean」 Moon 領導的分裂派別；此派系推崇 AR-15 為「鐵杖」，與統一運動主流有所區別）。真家庭。旗下外圍組織包括：《華盛頓時報》報紙、世界媒體協會、國際宗教基金會、CAUSA International、美國自由聯盟、世界和平聯合會、世界女性和平聯合會，以及（歷史上的）原則研究大學生聯合會（CARP，校園招募部門）。
 
 **創始人：** Sun Myung Moon（1920-2012），韓國人。創立於 1954 年。
 
@@ -624,7 +624,7 @@
 
 **又稱：** 十二部族（The Twelve Tribes）。十二部族社區（The Twelve Tribes Communities）。以色列十二部族（Twelve Tribes of Israel，他們的自我稱謂，宣稱血緣上的或接枝式的歸屬）。彌賽亞社區（Messianic Communities）。雅書亞社區（Communities of Yahshua，他們偏好的「Yeshua/耶穌」形式）。對外的商業品牌：黃色餐廳（Yellow Deli，一連鎖咖啡廳，主要的招募媒介，設於大學城和旅遊區）。共同基礎咖啡館（Common Ground Cafe）。共同感覺咖啡館（Common Sense Café）。Mate Factor（有機馬黛茶品牌）。常識農場（Common Sense Farm）。各種有機農場、建築公司、木工坊和手工藝品展銷。他們曾出現在彩虹聚會（Rainbow Gatherings）和各類節慶活動中。在美國、加拿大、阿根廷、巴西、法國、西班牙、德國、英國、澳大利亞等地設有國際社區。
 
-**創始人：** 埃爾伯特·尤金·「基因」·斯普里格斯（Elbert Eugene "Gene" Spriggs，1937-2021）及其妻瑪莎（Marsha）。創立於田納西州查塔努加。
+**創始人：** 埃爾伯特·尤金·「基因」·斯普里格斯（Elbert Eugene 「Gene」 Spriggs，1937-2021）及其妻瑪莎（Marsha）。創立於田納西州查塔努加。
 
 **核心教導：**
 

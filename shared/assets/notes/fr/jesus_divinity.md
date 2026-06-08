@@ -19,13 +19,13 @@ Et
 
 -  Matthieu 17:5 ; Marc 9:7 ; Luc 9:35 : Transfiguration. La voix l’appelle le Fils bien-aimé.  
 
--  Matthieu 4:3-6 ; Luc 4:3-9 : Tentation. Satan le défie : « Si tu es le Fils de Dieu. »  
+-  Matthieu 4:3-6 ; Luc 4:3-9 : Tentation. Satan le défie : « Si tu es le Fils de Dieu. »  
 
 -  Matthieu 8:29 ; Marc 3:11 ; Luc 4:41 : Les démons le reconnaissent comme le Fils de Dieu.  
 
--  Matthieu 14:33 : Les disciples l’adorent et disent : « Tu es vraiment le Fils de Dieu. »  
+-  Matthieu 14:33 : Les disciples l’adorent et disent : « Tu es vraiment le Fils de Dieu. »  
 
--  Matthieu 16:16 : Pierre : « Tu es le Messie, le Fils du Dieu vivant. »  
+-  Matthieu 16:16 : Pierre : « Tu es le Messie, le Fils du Dieu vivant. »  
 
 -  Matthieu 26:63–64 ; Marc 14:61–62 ; Luc 22:70 : Scènes de procès sur son identité comme Fils de Dieu.  
 
@@ -51,23 +51,23 @@ Et
   - Hébreu : בֵּן (*ben*)  
   - Grec (LXX) : υἱός (*huios*)  
   - Araméen : בַּר (*bar*)  
-  - **Français :** « Fils »  
+  - **Français :** « Fils »  
   - *Contexte : Le roi davidique est appelé fils de Dieu ; appliqué à Jésus comme véritable Fils de Dieu.*  
 
--  Psaume 2:7 : « Tu es mon fils ; je t’ai engendré aujourd’hui. »  
+-  Psaume 2:7 : « Tu es mon fils ; je t’ai engendré aujourd’hui. »  
 
   - Hébreu : בְּנִי אַתָּה (*beni attah*)  
   - Grec (LXX) : υἱός μου εἶ σύ (*huios mou ei sy*)  
   - Araméen : אַתְּ בְּרִי (*att bri*)  
-  - **Français :** « Tu es mon fils »  
+  - **Français :** « Tu es mon fils »  
   - *Contexte : Psaume d’intronisation royale identifiant le Messie comme Fils de Dieu.*  
 
--  Psaume 110:1 : « Le Seigneur a dit à mon Seigneur. »  
+-  Psaume 110:1 : « Le Seigneur a dit à mon Seigneur. »  
 
   - Hébreu : לַאדֹנִי (*la’adoni*)  
   - Grec (LXX) : τῷ κυρίῳ μου (*tō kyriō mou*)  
   - Araméen : לְמָרִי (*l’mari*)  
-  - **Français :** « Mon Seigneur »  
+  - **Français :** « Mon Seigneur »  
   - *Contexte : Un second Seigneur est intronisé avec une autorité divine ; Jésus cite ce verset à son sujet.*  
 
 -  Isaïe 9:6 : L’enfant avec des titres divins, trône de David.  
@@ -75,15 +75,15 @@ Et
   - Hébreu : אֵל גִּבּוֹר (*El Gibbor*)  
   - Grec (LXX) : ἄγγελος μεγάλης βουλῆς (*angelos megalēs boulēs*)  
   - Araméen : אֱלָהּ גִּבָּר (*elah gibbar*)  
-  - **Français :** « Dieu puissant »  
+  - **Français :** « Dieu puissant »  
   - *Contexte : Prophétie d’un enfant divin régnant sur le trône de David ; les titres appartiennent à Dieu seul.*  
 
--  Daniel 7:13 : « Quelqu’un comme un fils d’homme » reçoit la domination.  
+-  Daniel 7:13 : « Quelqu’un comme un fils d’homme » reçoit la domination.  
 
   - Hébreu/Araméen : כְּבַר אֱנָשׁ (*ke-bar enash*)  
   - Grec (LXX/OG) : ὡς υἱὸς ἀνθρώπου (*hōs huios anthrōpou*)  
   - Araméen (original) : בַּר אֱנָשׁ (*bar enash*)  
-  - **Français :** « Fils de l’homme »  
+  - **Français :** « Fils de l’homme »  
   - *Contexte : Vision d’une figure céleste intronisée avec une domination éternelle ; Jésus a appliqué ce titre à lui-même.*  
 
 **Références du Nouveau Testament en dehors des Évangiles**  
@@ -97,7 +97,7 @@ Et
 
 
 **Notes pour les lecteurs**  
--  « Fils de Dieu » dans le cadre royal-messianique équivaut au Roi oint qui porte le règne de Dieu. Dans les Évangiles, ce titre va au-delà de la métaphore royale. La parole directe du Père, la relation unique de Jésus et ses œuvres divines redéfinissent le titre avec une solidarité divine.  
+-  « Fils de Dieu » dans le cadre royal-messianique équivaut au Roi oint qui porte le règne de Dieu. Dans les Évangiles, ce titre va au-delà de la métaphore royale. La parole directe du Père, la relation unique de Jésus et ses œuvres divines redéfinissent le titre avec une solidarité divine.  
 
 
 ---
@@ -106,36 +106,36 @@ Et
 
 **Déclarations directes d’identité et d’unité par ou sur Jésus**  
 
--  Jean 1:1 : « Le Verbe était Dieu. »  
+-  Jean 1:1 : « Le Verbe était Dieu. »  
 
   - Hébreu : דְּבַר יְהוָה (*d’var YHWH*)  
   - Grec : λόγος (*logos*)  
   - Araméen : מֵימְרָא (*memra*)  
-  - **Français :** « Verbe/Parole »  
+  - **Français :** « Verbe/Parole »  
   - *Contexte : Le Logos/Verbe est identifié comme Dieu et devient chair en Jésus.*  
 
--  Jean 8:58 : « Avant qu’Abraham fût, Je Suis. »  
+-  Jean 8:58 : « Avant qu’Abraham fût, Je Suis. »  
 
   - Hébreu (Exode 3:14) : אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Grec : ἐγώ εἰμι (*egō eimi*)  
   - Araméen : אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
-  - **Français :** « JE SUIS »  
+  - **Français :** « JE SUIS »  
   - *Contexte : Jésus applique à lui-même le nom divin de l’auto-révélation de l’Exode.*  
 
--  Jean 10:30 : « Le Père et moi, nous sommes un. »  
+-  Jean 10:30 : « Le Père et moi, nous sommes un. »  
 
   - Hébreu : אֶחָד (*echad*)  
   - Grec : ἕν (*hen*)  
   - Araméen : חַד (*chad*)  
-  - **Français :** « Un »  
+  - **Français :** « Un »  
   - *Contexte : Déclaration d’unité avec le Père ; les auditeurs l’accusent de blasphème.*  
 
--  Jean 20:28 : « Mon Seigneur et mon Dieu ! »  
+-  Jean 20:28 : « Mon Seigneur et mon Dieu ! »  
 
   - Hébreu : אֲדֹנִי וֵאלֹהַי (*adonai v’elohai*)  
   - Grec : ὁ κύριός μου καὶ ὁ θεός μου (*ho kurios mou kai ho theos mou*)  
   - Araméen : מָרִי וֵאלָהִי (*mari v’elahi*)  
-  - **Français :** « Mon Seigneur et mon Dieu »  
+  - **Français :** « Mon Seigneur et mon Dieu »  
   - *Contexte : Thomas confesse directement Jésus ressuscité comme Seigneur et Dieu.*  
 
 **Prérogatives et actions divines qui impliquent la divinité**  
@@ -148,12 +148,12 @@ Et
 
 **Cadre trinitaire**  
 
--  Matthieu 28:18–20 : « Les baptisant au nom du Père, du Fils et du Saint-Esprit. »  
+-  Matthieu 28:18–20 : « Les baptisant au nom du Père, du Fils et du Saint-Esprit. »  
 
   - Hébreu : בְּשֵׁם (*b’shem*)  
   - Grec : ὄνομα (*onoma*)  
   - Araméen : שְׁמָא (*shema*)  
-  - **Français :** « Nom (singulier) »  
+  - **Français :** « Nom (singulier) »  
   - *Contexte : Un seul nom partagé par le Père, le Fils et l’Esprit, unité divine.*  
 
 -  Jean 14–16 : Jésus envoie le Paraclet ; le Père, le Fils et l’Esprit agissent dans une seule mission.  
@@ -161,12 +161,12 @@ Et
 
 **Nom divin et références d’identité dans l’Ancien Testament**  
 
--  Exode 3:14 : « JE SUIS QUI JE SUIS. »  
+-  Exode 3:14 : « JE SUIS QUI JE SUIS. »  
 
   - Hébreu : אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Grec (LXX) : ἐγώ εἰμι ὁ ὤν (*egō eimi ho ōn*)  
   - Araméen : אֲנָא הוּא (*ana hu*)  
-  - **Français :** « JE SUIS »  
+  - **Français :** « JE SUIS »  
   - *Contexte : Auto-identification de Dieu ; Jésus reprend cela dans Jean 8:58 et Apocalypse.*  
 
 -  Deutéronome 32:39 ; Isaïe 41:4 ; 43:10–11 ; 44:6 ; 48:12 : Dieu comme le Premier et le Dernier ; reflété dans Apocalypse 1:17–18.  
@@ -210,11 +210,11 @@ Et
 
 # Le Cri d’Abandon de Jésus
 
-Un moment essentiel pour comprendre la divinité de Jésus est son cri depuis la croix : *« Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné ? »* (Matthieu 27:46) (Marc 15:34). À première vue, cela peut sembler être de la faiblesse ou même une séparation d’avec Dieu, mais en réalité cela révèle à la fois son humanité complète et sa mission divine. En citant la première ligne du Psaume 22 (Psaume 22:1), Jésus attira l’attention sur tout le psaume, un passage qui commence par un profond lamento mais se termine par la victoire et l’adoration universelle. Ce cri n’est pas une perte de divinité ; c’est le Fils de Dieu entrant pleinement dans notre expérience humaine du péché et du jugement afin de la racheter.
+Un moment essentiel pour comprendre la divinité de Jésus est son cri depuis la croix : *« Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné ? »* (Matthieu 27:46) (Marc 15:34). À première vue, cela peut sembler être de la faiblesse ou même une séparation d’avec Dieu, mais en réalité cela révèle à la fois son humanité complète et sa mission divine. En citant la première ligne du Psaume 22 (Psaume 22:1), Jésus attira l’attention sur tout le psaume, un passage qui commence par un profond lamento mais se termine par la victoire et l’adoration universelle. Ce cri n’est pas une perte de divinité ; c’est le Fils de Dieu entrant pleinement dans notre expérience humaine du péché et du jugement afin de la racheter.
 
 ---
 
-Quand Jésus cria *« Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné ? »* (Matthieu 27:46) (Marc 15:34), il **cita la première ligne du Psaume 22** (Psaume 22:1). Dans la pratique juive, citer la première ligne dirigeait l’auditeur vers **tout le psaume**, et non seulement vers les premiers mots.
+Quand Jésus cria *« Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné ? »* (Matthieu 27:46) (Marc 15:34), il **cita la première ligne du Psaume 22** (Psaume 22:1). Dans la pratique juive, citer la première ligne dirigeait l’auditeur vers **tout le psaume**, et non seulement vers les premiers mots.
 
 ---
 
@@ -224,17 +224,17 @@ Quand Jésus cria *« Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné ? »* (M
 
 - **Décrit la scène de la crucifixion** : moqueries, mains et pieds percés, partage des vêtements.
 
-- **Se termine dans le triomphe** : Dieu délivre, les nations adoreront, et le psaume se conclut par *« Il a accompli »* (Psaume 22:31) (similaire aux paroles de Jésus *« Tout est accompli »* (Jean 19:30)).
+- **Se termine dans le triomphe** : Dieu délivre, les nations adoreront, et le psaume se conclut par *« Il a accompli »* (Psaume 22:31) (similaire aux paroles de Jésus *« Tout est accompli »* (Jean 19:30)).
 
 ---
 
-### Que signifie « abandonné »
+### Que signifie « abandonné »
 
 - **Jésus a vraiment ressenti la distance humaine d’avec Dieu.** Il est entré dans tout le poids de notre péché et de notre malédiction.
 
-- **Pas de rupture dans la Trinité.** Le Père et le Fils n’ont jamais été divisés dans leur être. Jésus faisait toujours confiance au Père : ses dernières paroles furent, *« Père, je remets mon esprit entre tes mains. »* (Luc 23:46)
+- **Pas de rupture dans la Trinité.** Le Père et le Fils n’ont jamais été divisés dans leur être. Jésus faisait toujours confiance au Père : ses dernières paroles furent, *« Père, je remets mon esprit entre tes mains. »* (Luc 23:46)
 
-- **Il a porté le jugement de l’alliance.** À la croix, il porta la peine du péché (Galates 3:13) (2 Corinthiens 5:21). L’« abandon » est judiciaire, non relationnel.
+- **Il a porté le jugement de l’alliance.** À la croix, il porta la peine du péché (Galates 3:13) (2 Corinthiens 5:21). L’« abandon » est judiciaire, non relationnel.
 
 ---
 

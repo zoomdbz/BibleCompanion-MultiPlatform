@@ -23,7 +23,7 @@ The Bible provides clear tests for identifying false prophets, false teachers, a
 **Common warning signs include:**
 
 - New revelation that overrides or revises Scripture
-- Denial of Jesus’ full deity or true humanity
+- Denial of Jesus' full deity or true humanity
 - Date-setting or secret timelines for the end
 - Salvation tied to a group, rituals, secret knowledge, or works
 - Group-controlled translations of Scripture
@@ -42,11 +42,19 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 ---
 
 ## Once Saved Always Saved
-(John 10:28–29): "I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand."
+(John 10:28–29): "I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father's hand."
 
-- How it’s used: This verse and others are quoted to claim that a single moment of belief guarantees salvation forever, no matter how a person lives afterward. It is often used to excuse sin and give false comfort to those who walk in disobedience.
+- How it's used: This verse and others are quoted to claim that a single moment of belief guarantees salvation forever, no matter how a person lives afterward. It is often used to excuse sin and give false comfort to those who walk in disobedience.
 
-- The truth: Jesus promises security for those who remain in Him, but Scripture is filled with warnings against falling away, continuing in sin, or abandoning the faith. Salvation is a living relationship that requires perseverance, obedience, and faith that produces works.
+- The truth: Scripture genuinely teaches the security of the true believer. Jesus said no one can snatch His sheep out of His hand (John 10:28–29); He loses none of those the Father gives Him (John 6:39); and believers are kept by God's power, not their own (1 Peter 1:5; Philippians 1:6). So in the true sense, yes: once truly saved, always saved, because Christ Himself holds them. The distortion is not eternal security; it is using a single profession to excuse a life of unrepentant sin. The warnings of Scripture do not threaten the genuinely saved with loss; they expose empty or false profession. Those who fall away show they were never truly of the faith. Genuine saving faith perseveres and bears fruit.
+
+- (John 6:39): "And this is the will of Him who sent Me, that I shall lose none of all those He has given Me, but raise them up at the last day."
+
+- (1 Peter 1:5): "who through faith are shielded by God's power until the coming of the salvation that is ready to be revealed in the last time."
+
+- (1 John 2:19): "They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us."
+
+- The warnings below are not a threat against Christ's secure sheep but a summons to examine whether one's faith is real and persevering, since true faith always bears fruit:
 
 - (James 2:17): "So also faith by itself, if it does not have works, is dead."
 
@@ -54,7 +62,7 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - (Hebrews 10:26–27): "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries."
 
-- (Matthew 7:21–23): "Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’"
+- (Matthew 7:21–23): "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"
 
 - (John 15:6): "If anyone does not abide in me he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned."
 
@@ -69,7 +77,7 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 ## Nationalism and Jeremiah 29:7
 (Jeremiah 29:7): "But seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare."
 
-- How it’s used: Quoted to promote nationalism, as if God blesses one nation above others.
+- How it's used: Quoted to promote nationalism, as if God blesses one nation above others.
 
 - The truth: Jeremiah was addressing Jewish exiles in **Babylon**, telling them to pray for a *foreign* land that had conquered them. The call was humility and faithfulness in exile, not national supremacy.
 
@@ -84,28 +92,28 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 ## Authority and Romans 13:1–2
 (Romans 13:1–2): "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment."
 
-- How it’s used: To demand blind obedience to government, even unjust regimes.
+- How it's used: To demand blind obedience to government, even unjust regimes.
 
-- The truth: Paul affirms God’s order of authority, but rulers themselves are accountable to God. Christians obey government unless obedience means disobedience to God.
+- The truth: Paul affirms God's order of authority, but rulers themselves are accountable to God. Christians obey government unless obedience means disobedience to God.
 
-- (Acts 5:29): "But Peter and the apostles answered, “We must obey God rather than men."
+- (Acts 5:29): "But Peter and the apostles answered, "We must obey God rather than men."
 
-- (Daniel 3:16–18): "Shadrach, Meshach, and Abednego answered and said to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If this be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.”"
+- (Daniel 3:16–18): "Shadrach, Meshach, and Abednego answered and said to the king, "O Nebuchadnezzar, we have no need to answer you in this matter. If this be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.""
 
 - (Daniel 6:10): "When Daniel knew that the document had been signed, he went to his house where he had windows in his upper chamber open toward Jerusalem. He got down on his knees three times a day and prayed and gave thanks before his God, as he had done previously."
 
-- (Revelation 13:4–8): "And they worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can fight against it?” And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months. It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven. Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation, and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain."
+- (Revelation 13:4–8): "And they worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, "Who is like the beast, and who can fight against it?" And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months. It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven. Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation, and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain."
 
-- Obedience to authority is conditional: God’s law is higher than human law.
+- Obedience to authority is conditional: God's law is higher than human law.
 
 ---
 
-## Leadership and “Do Not Touch the Lord’s Anointed”
-(Psalm 105:15): "saying, “Touch not my anointed ones, do my prophets no harm!”"  
+## Leadership and "Do Not Touch the Lord's Anointed"
+(Psalm 105:15): "saying, "Touch not my anointed ones, do my prophets no harm!""  
 
-(1 Samuel 24:6): "He said to his men, “The LORD forbid that I should do this thing to my lord, the LORD's anointed, to put out my hand against him, seeing he is the LORD's anointed.”"
+(1 Samuel 24:6): "He said to his men, "The LORD forbid that I should do this thing to my lord, the LORD's anointed, to put out my hand against him, seeing he is the LORD's anointed.""
 
-- How it’s used: Authoritarian pastors and leaders quote this to silence criticism, claiming they are untouchable.
+- How it's used: Authoritarian pastors and leaders quote this to silence criticism, claiming they are untouchable.
 
 - The truth: These verses warn against **physical violence**, not honest accountability. Leaders must still be corrected when they sin.
 
@@ -113,9 +121,9 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - (Galatians 2:11): "But when Cephas came to Antioch, I opposed him to his face, because he stood condemned."
 
-- (Ezekiel 34:2–4): "“Son of man, prophesy against the shepherds of Israel; prophesy, and say to them, even to the shepherds, Thus says the Lord GOD: Ah, shepherds of Israel who have been feeding yourselves! Should not shepherds feed the sheep? You eat the fat, you clothe yourselves with the wool, you slaughter the fat ones, but you do not feed the sheep. The weak you have not strengthened, the sick you have not healed, the injured you have not bound up, the strayed you have not brought back, the lost you have not sought, and with force and harshness you have ruled them."
+- (Ezekiel 34:2–4): ""Son of man, prophesy against the shepherds of Israel; prophesy, and say to them, even to the shepherds, Thus says the Lord GOD: Ah, shepherds of Israel who have been feeding yourselves! Should not shepherds feed the sheep? You eat the fat, you clothe yourselves with the wool, you slaughter the fat ones, but you do not feed the sheep. The weak you have not strengthened, the sick you have not healed, the injured you have not bound up, the strayed you have not brought back, the lost you have not sought, and with force and harshness you have ruled them."
 
-- (Mark 10:42–45): "And Jesus called them to him and said to them, “You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be slave of all. For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”"
+- (Mark 10:42–45): "And Jesus called them to him and said to them, "You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be slave of all. For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.""
 
 - Scripture never grants leaders immunity from correction. True shepherds are servants, not dictators.
 
@@ -123,39 +131,39 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 ## Holy Wars and Forced Conversions
 
-- How it’s used: Passages about Israel’s conquest (Deuteronomy 20:16–18; Joshua 6:21) were used to justify the Crusades, while Luke 14:23 (“Compel them to come in”) was used in the Inquisition to excuse forced conversions.
+- How it's used: Passages about Israel's conquest (Deuteronomy 20:16–18; Joshua 6:21) were used to justify the Crusades, while Luke 14:23 ("Compel them to come in") was used in the Inquisition to excuse forced conversions.
 
-- The truth: Israel’s conquest was a one-time act of God’s judgment, not a model for Christian warfare. Jesus explicitly rejected advancing His kingdom by violence. The parable in Luke 14 is about God’s invitation, not literal compulsion.
+- The truth: Israel's conquest was a one-time act of God's judgment, not a model for Christian warfare. Jesus explicitly rejected advancing His kingdom by violence. The parable in Luke 14 is about God's invitation, not literal compulsion.
 
-- (John 18:36): "Jesus answered, “My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.”"
+- (John 18:36): "Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.""
 
 - (2 Corinthians 10:4): "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds."
 
 - (Ephesians 6:12): "For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places."
 
-- (Matthew 28:19–20): "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”"
+- (Matthew 28:19–20): "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.""
 
 ---
 
 ## Greed and 1 Timothy 6:10
 (1 Timothy 6:10): "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs."
 
-- How it’s used: Misquoted as “money is the root of all evil,” blaming wealth itself.
+- How it's used: Misquoted as "money is the root of all evil," blaming wealth itself.
 
 - The truth: Paul warns against the *love* of money, greed that leads people away from faith. Money itself can be used for good or evil. Other passages confirm this balance.
 
 - (Ecclesiastes 5:10): "He who loves money will not be satisfied with money, nor he who loves wealth with his income; this also is vanity."
 
-- (Proverbs 30:8–9): "Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, “Who is the LORD?” or lest I be poor and steal and profane the name of my God."
+- (Proverbs 30:8–9): "Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, "Who is the LORD?" or lest I be poor and steal and profane the name of my God."
 
-- (Luke 12:15): "And he said to them, “Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions.”"
+- (Luke 12:15): "And he said to them, "Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions.""
 
 ---
 
 ## Judgment and Matthew 7:1
-(Matthew 7:1): "“Judge not, that you be not judged."
+(Matthew 7:1): ""Judge not, that you be not judged."
 
-- How it’s used: Quoted to silence Christians from calling out sin, as if all judgment is forbidden.
+- How it's used: Quoted to silence Christians from calling out sin, as if all judgment is forbidden.
 
 - The truth: Jesus condemns **hypocritical judgment** (Matthew 7:2–5), not discernment. The Bible distinguishes between rebuke, discernment, and condemnation.
 
@@ -169,37 +177,37 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - **Leave condemnation to God**: (James 4:12): "There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor?"
 
-- So judgment = discerning truth and rebuking (disapprove of) sin, while leaving final condemnation in God’s hands.
+- So judgment = discerning truth and rebuking (disapprove of) sin, while leaving final condemnation in God's hands.
 
 ---
 
 ## Success and Philippians 4:13
 (Philippians 4:13): "I can do all things through him who strengthens me."
 
-- How it’s used: As a slogan for personal achievement in sports, career, or ambition.
+- How it's used: As a slogan for personal achievement in sports, career, or ambition.
 
 - The truth: Paul is speaking about **contentment in hardship**, not unlimited success.
 
 - (Philippians 4:11–12): "Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need."
 
-- (2 Corinthians 12:9–10): "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me. For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong."
+- (2 Corinthians 12:9–10): "But he said to me, "My grace is sufficient for you, for my power is made perfect in weakness." Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me. For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong."
 
 - (John 16:33): "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world."
 
-- Philippians 4:13 is not about guaranteed success; it’s about strength to remain faithful in suffering.
+- Philippians 4:13 is not about guaranteed success; it's about strength to remain faithful in suffering.
 
 ---
 
 ## Prosperity and Jeremiah 29:11
 (Jeremiah 29:11): "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."
 
-- How it’s used: Claimed as a personal promise of wealth, comfort, or guaranteed success.
+- How it's used: Claimed as a personal promise of wealth, comfort, or guaranteed success.
 
-- The truth: This was a letter to the **exiles in Babylon**, assuring them that after seventy years, God would restore them. It is about God’s covenant faithfulness to Israel, not individual financial blessing.
+- The truth: This was a letter to the **exiles in Babylon**, assuring them that after seventy years, God would restore them. It is about God's covenant faithfulness to Israel, not individual financial blessing.
 
 - (Jeremiah 29:10): "For thus says the LORD: When seventy years are completed for Babylon, I will visit you, and I will fulfill to you my promise and bring you back to this place."
 
-- (Jeremiah 23:16–17): "Thus says the LORD of hosts: “Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the LORD. They say continually to those who despise the word of the LORD, ‘It shall be well with you’; and to everyone who stubbornly follows his own heart, they say, ‘No disaster shall come upon you.’”"
+- (Jeremiah 23:16–17): "Thus says the LORD of hosts: "Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the LORD. They say continually to those who despise the word of the LORD, 'It shall be well with you'; and to everyone who stubbornly follows his own heart, they say, 'No disaster shall come upon you.'""
 
 - (Romans 8:18): "For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us."
 
@@ -208,9 +216,9 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 ## Prosperity and 3 John 2
 (3 John 1:2): "Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul."
 
-- How it’s used: Quoted as proof that God promises every believer health and wealth.
+- How it's used: Quoted as proof that God promises every believer health and wealth.
 
-- The truth: This is a **personal greeting** to Gaius, not a universal guarantee. It reflects John’s prayer for his friend’s well-being, not a doctrinal promise. The broader New Testament consistently emphasizes endurance in hardship, not escape from it.
+- The truth: This is a **personal greeting** to Gaius, not a universal guarantee. It reflects John's prayer for his friend's well-being, not a doctrinal promise. The broader New Testament consistently emphasizes endurance in hardship, not escape from it.
 
 - (2 Corinthians 11:23–27): "Are they servants of Christ? I am a better one; I am talking like a madman; with far greater labors, far more imprisonments, with countless beatings, and often near death. Five times I received at the hands of the Jews the forty lashes less one. Three times I was beaten with rods. Once I was stoned. Three times I was shipwrecked; a night and a day I was adrift at sea; on frequent journeys, in danger from rivers, danger from robbers, danger from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger from false brothers; in toil and hardship, through many a sleepless night, in hunger and thirst, often without food, in cold and exposure."
 
@@ -223,13 +231,13 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 ## Prosperity and Malachi 3:10
 (Malachi 3:10): "Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need."
 
-- How it’s used: Preachers twist this into a money-for-blessing formula, promising guaranteed financial return if you give to their ministry.
+- How it's used: Preachers twist this into a money-for-blessing formula, promising guaranteed financial return if you give to their ministry.
 
 - The truth: Malachi was addressing covenant-breaking Israel under the Law, calling them back to obedience in tithing to support the Levites and temple worship. This is not a universal promise of wealth for Christians. In the New Testament, giving is voluntary and cheerful, not coerced with promises of riches.
 
 - (2 Corinthians 9:7–8): "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver. And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work."
 
-- (Acts 8:18–20): "Now when Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money, saying, “Give me this power also, so that anyone on whom I lay my hands may receive the Holy Spirit.” But Peter said to him, “May your silver perish with you, because you thought you could obtain the gift of God with money!"
+- (Acts 8:18–20): "Now when Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money, saying, "Give me this power also, so that anyone on whom I lay my hands may receive the Holy Spirit." But Peter said to him, "May your silver perish with you, because you thought you could obtain the gift of God with money!"
 
 - (1 Timothy 6:6–8): "But godliness with contentment is great gain, for we brought nothing into the world, and we cannot take anything out of the world. But if we have food and clothing, with these we will be content."
 
@@ -239,21 +247,21 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 ## Tithing and Corruption
 
-- How it’s used: Churches and leaders have historically used verses like Malachi 3:10 and Matthew 23:23 to demand tithes while enriching themselves.
+- How it's used: Churches and leaders have historically used verses like Malachi 3:10 and Matthew 23:23 to demand tithes while enriching themselves.
 
 - The truth: Jesus rebuked the Pharisees for tithing while neglecting justice and mercy. New Testament giving is never coercive or self-serving for leaders.
 
-- (Matthew 23:23): "“Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness. These you ought to have done, without neglecting the others."
+- (Matthew 23:23): ""Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness. These you ought to have done, without neglecting the others."
 
 - (1 Peter 5:2): "shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly;"
 
-- (Acts 20:33–35): "I coveted no one's silver or gold or apparel. You yourselves know that these hands ministered to my necessities and to those who were with me. In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, ‘It is more blessed to give than to receive.’”"
+- (Acts 20:33–35): "I coveted no one's silver or gold or apparel. You yourselves know that these hands ministered to my necessities and to those who were with me. In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, 'It is more blessed to give than to receive.'""
 
 ---
 
 ## False Gospels of License
 
-- How it’s used: False teachers dismiss sexual sin, preaching a “different gospel” that excuses fornication or sensuality.
+- How it's used: False teachers dismiss sexual sin, preaching a "different gospel" that excuses fornication or sensuality.
 
 - The truth: Scripture repeatedly warns against twisting grace into license.
 
@@ -269,51 +277,51 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 ## Secret / Select / Special / Elect Membership
 
-**Misused verse:** (John 15:19) “If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you.”
+**Misused verse:** (John 15:19) "If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you."
 
-**How it’s used:** To claim only those in a hidden, private, or exclusive group are the “real” believers, using secrecy or exclusivity as proof of being chosen.
+**How it's used:** To claim only those in a hidden, private, or exclusive group are the "real" believers, using secrecy or exclusivity as proof of being chosen.
 
 **The truth:** Jesus called His followers to be the light of the world, visible to all, not hidden in private clubs or selective memberships. Belonging to Christ is open to anyone who believes, not restricted to a secret society.
 
 **Supporting passages:**
 
-- (Matthew 5:14–16) “You are the light of the world… a city set on a hill cannot be hidden.”
+- (Matthew 5:14–16) "You are the light of the world… a city set on a hill cannot be hidden."
 
-- (John 3:16) “For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life.”
+- (John 3:16) "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life."
 
-- (Galatians 3:28) “There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus.”
+- (Galatians 3:28) "There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus."
 
 ---
 
 ## Biblical Inerrancy: Weaponized
 
-**Misused verse:** (2 Timothy 3:16) “All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.”
+**Misused verse:** (2 Timothy 3:16) "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness."
 
-**How it’s misused:** Some people use inerrancy as a weapon: “If you don’t agree with my exact definition, you’re not a real Christian.” Others push it into a rigid literalism that ignores the kind of writing being read. When 2 Timothy 3:16 becomes a club instead of a truth to stand on, the doctrine has been twisted.
+**How it's misused:** Some people use inerrancy as a weapon: "If you don't agree with my exact definition, you're not a real Christian." Others push it into a rigid literalism that ignores the kind of writing being read. When 2 Timothy 3:16 becomes a club instead of a truth to stand on, the doctrine has been twisted.
 
-**Let’s be clear first: the Bible is the Word of God.** The Greek word in 2 Timothy 3:16 is *theopneustos*, which literally means “God-breathed.” This does not mean the authors simply felt inspired the way a poet feels creative. It means God Himself breathed out the words through human writers. He guided them so that what they wrote was exactly what He wanted said. 2 Peter 1:21 puts it plainly: “men spoke from God as they were carried along by the Holy Spirit.” The Bible is not a human book with God’s stamp on it; it is God’s book written through human hands.
+**Let's be clear first: the Bible is the Word of God.** The Greek word in 2 Timothy 3:16 is *theopneustos*, which literally means "God-breathed." This does not mean the authors simply felt inspired the way a poet feels creative. It means God Himself breathed out the words through human writers. He guided them so that what they wrote was exactly what He wanted said. 2 Peter 1:21 puts it plainly: "men spoke from God as they were carried along by the Holy Spirit." The Bible is not a human book with God's stamp on it; it is God's book written through human hands.
 
-Scripture makes this claim about itself over and over: Psalm 12:6 calls God’s words “pure words, like silver refined in a furnace on the ground, purified seven times.” Proverbs 30:5 says “every word of God proves true.” Jesus Himself prayed in John 17:17, “your word is truth.” These are not weak claims. The Bible presents itself as completely trustworthy, without error, and carrying the full authority of God.
+Scripture makes this claim about itself over and over: Psalm 12:6 calls God's words "pure words, like silver refined in a furnace on the ground, purified seven times." Proverbs 30:5 says "every word of God proves true." Jesus Himself prayed in John 17:17, "your word is truth." These are not weak claims. The Bible presents itself as completely trustworthy, without error, and carrying the full authority of God.
 
-**What “without error in what it affirms” means:** The Bible sometimes records the words of liars, fools, and even Satan. For example, Satan told Eve “you will not surely die” (Genesis 3:4); that statement is false, but the Bible accurately reports that he said it. The text is without error in what it teaches and affirms as true; it does not endorse every statement it records. This is a simple but important distinction.
+**What "without error in what it affirms" means:** The Bible sometimes records the words of liars, fools, and even Satan. For example, Satan told Eve "you will not surely die" (Genesis 3:4); that statement is false, but the Bible accurately reports that he said it. The text is without error in what it teaches and affirms as true; it does not endorse every statement it records. This is a simple but important distinction.
 
 **The distortion:** The problem is never the doctrine itself. The problem is when people use it to: force every passage into rigid literalism that ignores whether it is poetry, parable, or prophecy; deny that God used real people with real writing styles to deliver His Word; or turn a specific theory about Scripture into a test for salvation. No serious believer claims God physically held the pen. The claim is that God worked through human authors so that what they wrote was exactly what He intended. That is what the Bible says about itself, and it has been the historic position of the church for two thousand years.
 
 **Supporting passages:**
 
-- (2 Timothy 3:16) “All Scripture is God-breathed (*theopneustos*) and profitable for teaching, for reproof, for correction, and for training in righteousness.”
+- (2 Timothy 3:16) "All Scripture is God-breathed (*theopneustos*) and profitable for teaching, for reproof, for correction, and for training in righteousness."
 
-- (2 Peter 1:21) “Men spoke from God as they were carried along by the Holy Spirit.”
+- (2 Peter 1:21) "Men spoke from God as they were carried along by the Holy Spirit."
 
-- (Psalm 12:6) “The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times.”
+- (Psalm 12:6) "The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times."
 
-- (Proverbs 30:5) “Every word of God proves true; he is a shield to those who take refuge in him.”
+- (Proverbs 30:5) "Every word of God proves true; he is a shield to those who take refuge in him."
 
-- (Hebrews 4:12) “The word of God is living and active, sharper than any two-edged sword.”
+- (Hebrews 4:12) "The word of God is living and active, sharper than any two-edged sword."
 
-- (John 17:17) “Sanctify them in the truth; your word is truth.”
+- (John 17:17) "Sanctify them in the truth; your word is truth."
 
-- (Genesis 3:4) “But the serpent said to the woman, ‘You will not surely die.’” (An example of Scripture accurately recording a lie without endorsing it.)
+- (Genesis 3:4) "But the serpent said to the woman, 'You will not surely die.'" (An example of Scripture accurately recording a lie without endorsing it.)
 
 ---
 
@@ -356,13 +364,13 @@ The Roman Catholic Church has been transparent about this. The Catechism of the 
 ## • Sayings Mistaken for Scripture
 
 **Introduction:**  
-Not every phrase people quote as “biblical truth” is actually in the Bible. Some come from ancient fables, Shakespeare, or cultural proverbs. This section highlights common sayings people mistake for Scripture, showing where they come from and what the Bible really teaches.
+Not every phrase people quote as "biblical truth" is actually in the Bible. Some come from ancient fables, Shakespeare, or cultural proverbs. This section highlights common sayings people mistake for Scripture, showing where they come from and what the Bible really teaches.
 
 ---
 
-## Self-Reliance and “God Helps Those Who Help Themselves”
+## Self-Reliance and "God Helps Those Who Help Themselves"
 
-- Origin: **Aesop’s Fables**, popularized by Benjamin Franklin.
+- Origin: **Aesop's Fables**, popularized by Benjamin Franklin.
 
 - The truth: God helps the helpless.
 
@@ -374,7 +382,7 @@ Not every phrase people quote as “biblical truth” is actually in the Bible. 
 
 ---
 
-## Cleanliness and “Next to Godliness”
+## Cleanliness and "Next to Godliness"
 
 - Origin: Francis Bacon, later John Wesley.
 
@@ -388,7 +396,7 @@ Not every phrase people quote as “biblical truth” is actually in the Bible. 
 
 ---
 
-## Fate and “This Too Shall Pass”
+## Fate and "This Too Shall Pass"
 
 - Origin: Persian proverb, used by Abraham Lincoln.
 
@@ -402,7 +410,7 @@ Not every phrase people quote as “biblical truth” is actually in the Bible. 
 
 ---
 
-## Shakespeare and “The Powers That Be”
+## Shakespeare and "The Powers That Be"
 
 - Origin: Shakespeare, rooted in KJV Romans 13:1.
 
@@ -414,12 +422,12 @@ Not every phrase people quote as “biblical truth” is actually in the Bible. 
 
 - (Psalm 22:28): "For kingship belongs to the LORD, and he rules over the nations."
 
-- (Acts 5:29): "But Peter and the apostles answered, “We must obey God rather than men."
+- (Acts 5:29): "But Peter and the apostles answered, "We must obey God rather than men."
 
 ---
 
 ## **Takeaway:**
-The Bible must be read in full context. Distortions arise when verses are twisted or when cultural sayings masquerade as Scripture. God’s Word does not serve nationalism, coercion, corruption, prosperity preaching, or false gospels; it points to Christ, who is Lord over every nation, culture, leader, and individual life.
+The Bible must be read in full context. Distortions arise when verses are twisted or when cultural sayings masquerade as Scripture. God's Word does not serve nationalism, coercion, corruption, prosperity preaching, or false gospels; it points to Christ, who is Lord over every nation, culture, leader, and individual life.
 
 **Pattern:**  
 Nearly every distortion follows the same path: a verse or phrase is lifted out of its covenant, historical, or literary context, or imported from outside Scripture altogether, then turned into a tool for human power, control, or comfort. Reading carefully in context protects against these distortions and keeps the focus on Jesus.  

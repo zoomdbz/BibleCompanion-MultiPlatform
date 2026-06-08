@@ -35,10 +35,10 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 
 ## 2. Problemi di traduzione e interpretazione
 
-**(Neemia 8:8)**: "Leggevano chiaramente dal libro della legge di Dio, spiegandone il senso, così che la gente capisse ciò che veniva letto."  
+**(Neemia 8:8)**: «Leggevano chiaramente dal libro della legge di Dio, spiegandone il senso, così che la gente capisse ciò che veniva letto.»  
 ➡ La Scrittura è sempre stata destinata a essere compresa.
 
-**Storia:** L’Antico Testamento fu tradotto in greco (Settanta) nei secoli III–II a.C. Più tardi, la Vulgata latina di Girolamo dominò, introducendo talvolta distorsioni ("convertitevi" divenne "fate penitenza"). Nel 1611, re Giacomo approvò la Bibbia inglese, influenzata dalla politica. I Rotoli del Mar Morto confermarono la varietà dei testi ebraici.
+**Storia:** L’Antico Testamento fu tradotto in greco (Settanta) nei secoli III–II a.C. Più tardi, la Vulgata latina di Girolamo dominò, introducendo talvolta distorsioni («convertitevi» divenne «fate penitenza»). Nel 1611, re Giacomo approvò la Bibbia inglese, influenzata dalla politica. I Rotoli del Mar Morto confermarono la varietà dei testi ebraici.
 
 **Conclusione:** Le traduzioni contano. Le scelte linguistiche possono cambiare intere credenze.
 
@@ -71,7 +71,7 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 
 ## 4. Persecuzioni e riforme
 
-**(Giovanni 16:2)**: "Verrà il tempo in cui chiunque vi ucciderà penserà di rendere un servizio a Dio."  
+**(Giovanni 16:2)**: «Verrà il tempo in cui chiunque vi ucciderà penserà di rendere un servizio a Dio.»  
 ➡ Gesù predisse la persecuzione.
 
 **Storia:** I riformatori cercarono di restituire la Bibbia al popolo. John Wycliffe tradusse in inglese e fu condannato persino dopo la morte. William Tyndale fu giustiziato nel 1536 per la sua traduzione. Le 95 tesi di Lutero del 1517 scatenarono la Riforma. Il Concilio di Trento (1545–1563) rafforzò il controllo della Chiesa.
@@ -82,10 +82,10 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 
 ## 5. Testi perduti e soppressi
 
-**(Giuda 1:14–15)**: "Enoch, il settimo da Adamo, profetizzò..."  
+**(Giuda 1:14–15)**: «Enoch, il settimo da Adamo, profetizzò...»  
 ➡ Giuda cita direttamente Enoch.
 
-**(Colossesi 4:16)**: "Leggete questa lettera anche nella chiesa dei Laodicesi, e leggete quella che arriva da Laodicea."  
+**(Colossesi 4:16)**: «Leggete questa lettera anche nella chiesa dei Laodicesi, e leggete quella che arriva da Laodicea.»  
 ➡ Paolo menziona una lettera perduta.
 
 **Storia:** Il Libro di Enoch fu prezioso per i primi cristiani ma poi escluso. La scoperta di Nag Hammadi (1945) rivelò il Vangelo di Tommaso e altri testi. I Rotoli del Mar Morto (1947) mostrarono manoscritti alternativi. Molti scritti furono soppressi perché minacciavano l’autorità istituzionale.
@@ -103,13 +103,13 @@ Il *Libro di Enoch* era ampiamente letto nelle comunità ebraiche e cristiane, c
 
 ### **Perché è importante**
 
-* **Colma le lacune della Genesi**: Spiega Genesi 6: chi erano i “figli di Dio” e i “Nephilim”, come gli angeli caduti (i Vigilanti) corrompevano la creazione e l’origine dei demoni.
+* **Colma le lacune della Genesi**: Spiega Genesi 6: chi erano i «figli di Dio» e i «Nephilim», come gli angeli caduti (i Vigilanti) corrompevano la creazione e l’origine dei demoni.
 
 * **Echi dell’Apocalisse**: Descrive segni cosmici (sole oscurato, stelle che cadono, terra che trema), giudizi angelici e la distruzione finale degli empi, in stretto parallelismo con i sigilli e le trombe dell’Apocalisse.
 
 * **Il Figlio dell’uomo rivelato**: Profetizza il Figlio dell’uomo preesistente, intronizzato nei cieli, che viene a giudicare re e nazioni, linguaggio che Gesù riprende direttamente in Matteo 24–25.
 
-* **“A nostra immagine” spiegato**: Mostra che Gesù esisteva fin dal principio con il Padre, collegandosi a Genesi 1:26 (“Facciamo l’uomo a nostra immagine”).
+* **«A nostra immagine» spiegato**: Mostra che Gesù esisteva fin dal principio con il Padre, collegandosi a Genesi 1:26 («Facciamo l’uomo a nostra immagine»).
 
 * **Ponte tra Antico e Nuovo**: Collega l’attesa apocalittica ebraica con la profezia del Nuovo Testamento, rendendo più chiara l’Apocalisse.
 
@@ -121,7 +121,7 @@ Il *Libro di Enoch* era ampiamente letto nelle comunità ebraiche e cristiane, c
 
 * I concili ecclesiastici (IV secolo) lo esclusero, sostenendo che mancasse di autorità apostolica al di fuori della Lettera di Giuda.
 
-* Le sue descrizioni dettagliate di angeli, demoni e giudizio furono considerate “troppo pericolose” per il controllo sotto Roma.
+* Le sue descrizioni dettagliate di angeli, demoni e giudizio furono considerate «troppo pericolose» per il controllo sotto Roma.
 
 * La Chiesa etiope, non toccata dalla politica romana, lo conservò come Scrittura fino ad oggi.
 
@@ -161,7 +161,7 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 ## 6. Feste prese in prestito (Sincretismo)
 
-**(Geremia 10:2–4)**: "Non imparate la via delle nazioni... Tagliano un albero dal bosco, opera delle mani dell’artigiano con la scure. Lo adornano con argento e oro; lo fissano con chiodi e martello perché non vacilli."
+**(Geremia 10:2–4)**: «Non imparate la via delle nazioni... Tagliano un albero dal bosco, opera delle mani dell’artigiano con la scure. Lo adornano con argento e oro; lo fissano con chiodi e martello perché non vacilli.»
 
 ➡ Un avvertimento contro l’adozione delle usanze pagane.
 
@@ -175,15 +175,15 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 - Giuseppe Flavio (*Antichità Giudaiche* 17.6–9) descrive l’ultima malattia di Erode, l’eclissi e la Pasqua. La maggior parte degli studiosi sostiene il 4 a.C. come anno della morte, mentre una minoranza propone il 1 a.C., basandosi su un’eclissi successiva.
 
-- Luca 2 collega la nascita a un censimento. Il censimento famoso di Quirinio fu nel 6 d.C., troppo tardi, ma sono state avanzate diverse ipotesi: (1) Luca si riferisce a un’iscrizione locale precedente, (2) il testo greco può essere letto come “prima che Quirinio fosse governatore della Siria.” Nessuna di queste ipotesi modifica l’ancoraggio storico del 6–4 a.C.
+- Luca 2 collega la nascita a un censimento. Il censimento famoso di Quirinio fu nel 6 d.C., troppo tardi, ma sono state avanzate diverse ipotesi: (1) Luca si riferisce a un’iscrizione locale precedente, (2) il testo greco può essere letto come «prima che Quirinio fosse governatore della Siria.» Nessuna di queste ipotesi modifica l’ancoraggio storico del 6–4 a.C.
 
 - Luca 2:8 menziona pastori che vivevano nei campi con i loro greggi di notte. Gli inverni nelle colline della Giudea sono freddi e umidi (temperature notturne spesso tra 4–7 °C, con gelate e piogge occasionali). La sorveglianza notturna all’aperto si addice meglio alla primavera (stagione degli agnelli) o all’autunno (pascere dopo il raccolto), non al pieno inverno.
 
 - Roma celebrava i **Saturnalia** in dicembre con verde ornamentale, banchetti e inversioni di ruoli sociali.
 
-- L’imperatore Aureliano istituì il 25 dicembre dell’anno 274 d.C. come festa di *Sol Invictus* (“il Sole Invitto”), celebrando la rinascita del sole dopo il solstizio d’inverno.
+- L’imperatore Aureliano istituì il 25 dicembre dell’anno 274 d.C. come festa di *Sol Invictus* («il Sole Invitto»), celebrando la rinascita del sole dopo il solstizio d’inverno.
 
-- Nel IV secolo, i cristiani fissarono la festa della Natività in questa stessa data, reinterpretandola come la venuta di Cristo, la “vera luce del mondo” (Giovanni 8:12).
+- Nel IV secolo, i cristiani fissarono la festa della Natività in questa stessa data, reinterpretandola come la venuta di Cristo, la «vera luce del mondo» (Giovanni 8:12).
 
 - Le prime voci cristiane erano diverse: Origene respinse le feste di compleanno; Ippolito propose il 25 dicembre già nel III secolo; Giovanni Crisostomo (386 d.C.) attestò la sua accettazione generale. Questa scelta era simbolica e non una data storica conservata.
 
@@ -205,7 +205,7 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 - Questi sono i candidati più forti perché uniscono Pasqua, venerdì e il governo di Pilato.
 
-- Le prove astronomiche rafforzano il 33 d.C.: il **3 aprile 33 d.C.** si verificò un’eclissi parziale di luna al sorgere della luna a Gerusalemme. Questa “luna di sangue” può ricordare Atti 2:20 (“la luna si cambierà in sangue”). Humphreys e Waddington (1985) sottolinearono questa coincidenza come un forte supporto.
+- Le prove astronomiche rafforzano il 33 d.C.: il **3 aprile 33 d.C.** si verificò un’eclissi parziale di luna al sorgere della luna a Gerusalemme. Questa «luna di sangue» può ricordare Atti 2:20 («la luna si cambierà in sangue»). Humphreys e Waddington (1985) sottolinearono questa coincidenza come un forte supporto.
 
 - Così, la maggior parte degli studiosi colloca la crocifissione al **7 aprile 30 d.C.** o al **3 aprile 33 d.C.**, con una preferenza per quest’ultima.
 
@@ -217,7 +217,7 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 - In Europa, in seguito, furono assorbiti simboli stagionali: uova, lepri e immagini di fertilità legate alla primavera.
 
-- Il nome inglese “Easter” proviene da Beda, che menzionò un nome di mese locale (*Eosturmonath*). La maggior parte delle lingue conserva forme di “Pascha.” Le affermazioni popolari su Ishtar sono diffuse ma discusse; non ci sono testi antichi diretti, sebbene l’adozione di simboli di fertilità fosse comune.
+- Il nome inglese «Easter» proviene da Beda, che menzionò un nome di mese locale (*Eosturmonath*). La maggior parte delle lingue conserva forme di «Pascha.» Le affermazioni popolari su Ishtar sono diffuse ma discusse; non ci sono testi antichi diretti, sebbene l’adozione di simboli di fertilità fosse comune.
 
 ---
 
@@ -233,7 +233,7 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 - Roma celebrava i **Saturnalia** con verde e banchetti.
 
-- Il “compleanno del sole” (*Sol Invictus*, 25 dicembre) fu associato al Natale.
+- Il «compleanno del sole» (*Sol Invictus*, 25 dicembre) fu associato al Natale.
 
 - La Pasqua accumulò immagini primaverili e di fertilità (uova, lepri) da **usanze regionali europee**; l'affermazione popolare che la collega a **Ishtar** è etimologicamente infondata.
 
@@ -302,7 +302,7 @@ Non comandato nella Scrittura; il 25 dicembre fu adottato dalle feste romane *So
 (Geremia 10:2–4) (Deuteronomio 12:29–32) (Marco 7:8–9)
 
 **Pasqua (Easter)**  
-Originariamente la festa pasquale della risurrezione (*Pesach*); successivamente mescolata con simboli di fertilità e solari dopo il Concilio di Nicea. Il termine inglese “Easter” deriva da usanze primaverili locali, non dalla Scrittura.  
+Originariamente la festa pasquale della risurrezione (*Pesach*); successivamente mescolata con simboli di fertilità e solari dopo il Concilio di Nicea. Il termine inglese «Easter» deriva da usanze primaverili locali, non dalla Scrittura.  
 (Esodo 12:14) (1 Corinzi 5:7–8) (Atti 12:4) (Colossesi 2:16–17)
 
 **Halloween (Vigilia di Tutti i Santi)**  
@@ -336,19 +336,19 @@ I credenti che desiderano camminare in conformità con la Bibbia devono onorare 
 
 - Finegan, Jack. *Handbook of Biblical Chronology*. Ed. riv. Peabody: Hendrickson, 1998.
 
-- Humphreys, C. J., & Waddington, W. G. “The Date of the Crucifixion.” *Journal of the American Scientific Affiliation* 37, n. 1 (1985): 2–10.
+- Humphreys, C. J., & Waddington, W. G. «The Date of the Crucifixion.» *Journal of the American Scientific Affiliation* 37, n. 1 (1985): 2–10.
 
-- Encyclopaedia Britannica. “Saturnalia.” Consultato nel 2025.
+- Encyclopaedia Britannica. «Saturnalia.» Consultato nel 2025.
 
-- Encyclopaedia Britannica. “Sol Invictus.” Consultato nel 2025.
+- Encyclopaedia Britannica. «Sol Invictus.» Consultato nel 2025.
 
-- Encyclopaedia Britannica. “Easter.” Consultato nel 2025.
+- Encyclopaedia Britannica. «Easter.» Consultato nel 2025.
 
 - Origene. *Omelie sul Levitico*. III secolo.
 
 - Giovanni Crisostomo. *Omelia sulla Natività*. 386 d.C.
 
-- Talmon, Shemaryahu. “The Concept of the Calendar and the Chronology of the Crucifixion.” *Biblical Archaeologist* 28, n. 3 (1965).
+- Talmon, Shemaryahu. «The Concept of the Calendar and the Chronology of the Crucifixion.» *Biblical Archaeologist* 28, n. 3 (1965).
 
 - Beda il Venerabile. *De temporum ratione* (Il calcolo del tempo), cap. 15 (Eostre).
 
@@ -358,10 +358,10 @@ I credenti che desiderano camminare in conformità con la Bibbia devono onorare 
 
 ## 7. Potere e controllo
 
-**(Osea 4:6)**: "Il mio popolo muore per mancanza di conoscenza."  
+**(Osea 4:6)**: «Il mio popolo muore per mancanza di conoscenza.»  
 ➡ La gente soffre quando è privata della verità.
 
-**(Matteo 23:13)**: "Voi chiudete il regno dei cieli davanti alla gente."  
+**(Matteo 23:13)**: «Voi chiudete il regno dei cieli davanti alla gente.»  
 ➡ I leader impedirono l’accesso a Dio.
 
 **Storia:** Per secoli, solo il latino era permesso. Al popolo fu proibito leggere. Nel 1559 la Chiesa pubblicò l’Indice dei libri proibiti. Si vendevano indulgenze per denaro. La stampa ruppe questo monopolio e diffuse la Bibbia nelle lingue comuni.
@@ -375,7 +375,7 @@ I credenti che desiderano camminare in conformità con la Bibbia devono onorare 
 **(2 Timoteo 4:3–4)**: « Verrà il tempo che non sopporteranno la sana dottrina… si cercheranno maestri secondo le proprie voglie. »  
 ➡ La Scrittura avverte della distorsione per comodità e potere.
 
-**Storia:** I dibattiti moderni su traduzioni, linguaggio inclusivo e sessualità riflettono antiche lotte per il controllo. Il vangelo della prosperità insegna che la ricchezza è volontà di Dio, simile a quando la chiesa medievale vendeva indulgenze (in pratica “biglietti per il cielo” in cambio di denaro). Il cristianesimo oggi è diviso in decine di migliaia di denominazioni, spesso più plasmate da cultura, tradizione o politica che dalle parole di Gesù stesso. In tutto il mondo, la persecuzione cresce di nuovo e la verità biblica viene ignorata o piegata ai desideri della società.
+**Storia:** I dibattiti moderni su traduzioni, linguaggio inclusivo e sessualità riflettono antiche lotte per il controllo. Il vangelo della prosperità insegna che la ricchezza è volontà di Dio, simile a quando la chiesa medievale vendeva indulgenze (in pratica «biglietti per il cielo» in cambio di denaro). Il cristianesimo oggi è diviso in decine di migliaia di denominazioni, spesso più plasmate da cultura, tradizione o politica che dalle parole di Gesù stesso. In tutto il mondo, la persecuzione cresce di nuovo e la verità biblica viene ignorata o piegata ai desideri della società.
 
 **Conclusione:** Il ciclo di distorsione, potere e divisione continua oggi. Eppure il risveglio è ancora possibile. Il risveglio non inizia con programmi o movimenti ma quando il popolo di Dio si pente, abbandona i compromessi e ritorna all’autorità della sua Parola. Lo stesso Spirito che ha risuscitato Gesù dai morti chiama ancora la chiesa a svegliarsi, a camminare nella verità e a essere luce in un mondo oscuro.
 

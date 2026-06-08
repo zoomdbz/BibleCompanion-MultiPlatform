@@ -14,7 +14,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Umkehren / Buße
-**Original:** Hebrew: שׁוּב (shuv, “turn back”); Greek: μετάνοια (metanoia); Aramaic: תיבוּתא (tēbutha)  
+**Original:** Hebrew: שׁוּב (shuv, „turn back“); Greek: μετάνοια (metanoia); Aramaic: תיבוּתא (tēbutha)  
 
 **Hinweis:** Nicht nur „sich schlecht fühlen“. Hebräisch betont das Umkehren/Zurückkehren; Griechisch die Sinnesänderung. Wahre Buße = Neu­ausrichtung auf Gott.
 
@@ -35,7 +35,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Lästerung (besonders gegen den Heiligen Geist) 
-**Original:** Hebräisch: נָקַב (*naqav*, “fluchen, durchbohren, verunglimpfen”; vgl. 3. Mose 24:11-16); Griechisch: βλασφημία (*blasphēmía*) < βλάπτω (*blaptō*, “schaden”) + φήμη (*phēmē*, “Rede/Ruf”); Aramäisch: גדף (*gaddēf*, “verhöhnen, beleidigen”; vgl. Daniel 3:29 im Targum/Syrisch)  
+**Original:** Hebräisch: נָקַב (*naqav*, „fluchen, durchbohren, verunglimpfen“; vgl. 3. Mose 24:11-16); Griechisch: βλασφημία (*blasphēmía*) < βλάπτω (*blaptō*, „schaden“) + φήμη (*phēmē*, „Rede/Ruf“); Aramäisch: גדף (*gaddēf*, „verhöhnen, beleidigen“; vgl. Daniel 3:29 im Targum/Syrisch)  
 
 **Hinweis:** Grundbedeutung = *„Rede, die verletzt; Verleumdung, Verachtung.“* In der Schrift nicht bloß Unhöflichkeit, sondern **bewusste Verachtung gegenüber Gott**.  
 
@@ -46,7 +46,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Götzenbild (gemeißelt)
-**Original:** Hebrew: פֶּסֶל (pesel) < root פ־ס־ל “to carve”; Greek: γλυπτόν (glypton) / εἴδωλον (eidolon); Aramaic: פסל (pesal)  
+**Original:** Hebrew: פֶּסֶל (pesel) < root פ־ס־ל „to carve“; Greek: γλυπτόν (glypton) / εἴδωλον (eidolon); Aramaic: פסל (pesal)  
 
 **Hinweis:** Aus Holz oder Stein gemeißeltes Bild. Verboten, wenn zum Kult gemacht und mit Niederfallen/Dienen verbunden.
 
@@ -55,7 +55,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Götzenbild (gegossen)
-**Original:** Hebrew: מַסֵּכָה (massekah) < root נ־ס־ךְ “to pour/cast”; Greek: χωνευτόν (chōneuton); Aramaic: מסכא (maskā)  
+**Original:** Hebrew: מַסֵּכָה (massekah) < root נ־ס־ךְ „to pour/cast“; Greek: χωνευτόν (chōneuton); Aramaic: מסכא (maskā)  
 
 **Hinweis:** Aus gegossenem Metall hergestelltes Bild. Verurteilt, wenn es zur Anbetung dient.
 
@@ -64,7 +64,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Götzendienst (Kinderopfer für Moloch)
-**Original:** Hebrew: מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, “cause to pass through the fire”); Greek: Μολόχ (Moloch); διαβιβάζειν ἐν πυρί; Aramaic: מולך (molekh)  
+**Original:** Hebrew: מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, „cause to pass through the fire“); Greek: Μολόχ (Moloch); διαβιβάζειν ἐν πυρί; Aramaic: מולך (molekh)  
 
 **Hinweis:** Ausdrücklich verurteilte Rituale bestimmter Kulte.
 
@@ -73,7 +73,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Eifersüchtig (Gott)
-**Original:** Hebrew: קַנָּא (qannāʾ, “jealous/zealous”); Greek: ζηλωτής (zēlōtēs), ζῆλος (zēlos); Aramaic: קנאה (qināʾā)  
+**Original:** Hebrew: קַנָּא (qannāʾ, „jealous/zealous“); Greek: ζηλωτής (zēlōtēs), ζῆλος (zēlos); Aramaic: קנאה (qināʾā)  
 
 **Hinweis:** Gottes „Eifersucht“ = Bundes-Eifer für ausschließliche Treue, besonders gegen Götzendienst; besser als „eifernde“ Liebe zu seinem Volk verstanden.
 
@@ -93,7 +93,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ## Zungen (Sprachen)
 **Original:** Hebräisch: לָשׁוֹן (lashon); Griechisch: γλῶσσα (glōssa, NT); Aramäisch: לִשָּׁן (lishān)  
 
-**Anmerkung:** Wörtlich *„Zunge, Sprache”.* In Apostelgeschichte 2 befähigte der Geist die Gläubigen, in fremden menschlichen Sprachen zu sprechen, die von anderen verstanden wurden, eindeutig bekannte Sprachen. In 1. Korinther 12–14 beschreibt dasselbe Wort vom Geist gegebene Rede, die übernatürliche Auslegung erfordert, gerade weil sie von den Hörern nicht natürlich verstanden wird (1. Korinther 14:2: „wer in Zungen redet, redet nicht zu Menschen, sondern zu Gott; denn niemand versteht ihn, er redet aber im Geist Geheimnisse”). Die entscheidende Anforderung der Schrift ist Erbauung und Ordnung: Zungenrede in der Versammlung muss ausgelegt werden, und wenn kein Ausleger da ist, soll der Redner schweigen (1. Korinther 14:26–28). Ob es sich um eine bekannte Sprache oder ein vom Geist gegebenes Geheimnis handelt, der Maßstab ist derselbe: es muss den Leib aufbauen, nicht Verwirrung stiften (1. Korinther 14:33).  
+**Anmerkung:** Wörtlich *„Zunge, Sprache“.* In Apostelgeschichte 2 befähigte der Geist die Gläubigen, in fremden menschlichen Sprachen zu sprechen, die von anderen verstanden wurden, eindeutig bekannte Sprachen. In 1. Korinther 12–14 beschreibt dasselbe Wort vom Geist gegebene Rede, die übernatürliche Auslegung erfordert, gerade weil sie von den Hörern nicht natürlich verstanden wird (1. Korinther 14:2: „wer in Zungen redet, redet nicht zu Menschen, sondern zu Gott; denn niemand versteht ihn, er redet aber im Geist Geheimnisse“). Die entscheidende Anforderung der Schrift ist Erbauung und Ordnung: Zungenrede in der Versammlung muss ausgelegt werden, und wenn kein Ausleger da ist, soll der Redner schweigen (1. Korinther 14:26–28). Ob es sich um eine bekannte Sprache oder ein vom Geist gegebenes Geheimnis handelt, der Maßstab ist derselbe: es muss den Leib aufbauen, nicht Verwirrung stiften (1. Korinther 14:33).  
 
 **Schrift:** 1. Mose 10:5; Apostelgeschichte 2:4–11; 1. Korinther 12–14; 1. Korinther 14:26–28.
 
@@ -116,7 +116,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Gnade
-**Original:** Hebrew: חֵן (ḥen, “favor”); Greek: χάρις (charis); Aramaic: טיבותא (ṭivutha)  
+**Original:** Hebrew: חֵן (ḥen, „favor“); Greek: χάρις (charis); Aramaic: טיבותא (ṭivutha)  
 
 **Hinweis:** Unverdiente Gunst. Gottes Initiative zu segnen, vergeben und befähigen – ohne Verdienst.
 
@@ -165,7 +165,7 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Hölle / Gehenna
-**Original:** Hebrew: גֵּי־הִנֹּם (Gē-Hinnom, “Valley of Hinnom”); Greek: γέεννα (Gehenna); Aramaic: גֵיהִנָּם (Gehinnam)  
+**Original:** Hebrew: גֵּי־הִנֹּם (Gē-Hinnom, „Valley of Hinnom“); Greek: γέεννα (Gehenna); Aramaic: גֵיהִנָּם (Gehinnam)  
 
 **Hinweis:** Reales Tal südlich Jerusalems, verbunden mit Kinderopfern; wurde zum Bild des Endgerichts. Unterschieden von Scheol/Hades.
 
@@ -263,31 +263,31 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 
 **Anmerkung:**
 
-- In (Jesaja 14:12) bedeutet das hebräische Wort *Helel* „Der Leuchtende”. Es ist nicht derselbe Begriff wie „Morgenstern”, der im Neuen Testament für Jesus verwendet wird.
+- In (Jesaja 14:12) bedeutet das hebräische Wort *Helel* „Der Leuchtende“. Es ist nicht derselbe Begriff wie „Morgenstern“, der im Neuen Testament für Jesus verwendet wird.
 
-- Der unmittelbare Kontext richtet sich an den König von Babylon. Doch die Sprache übersteigt jeden menschlichen Herrscher: „Ich will auffahren über die hohen Wolken und gleich sein dem Allerhöchsten” (Jesaja 14:14), weshalb die christliche Tradition seit langem eine doppelte Bezugnahme liest: den menschlichen König als Vorbild der geistlichen Rebellion hinter ihm. Dies entspricht Hesekiel 28, wo der König von Tyrus in Worten angesprochen wird, die jeden Sterblichen übersteigen („du warst der gesalbte, schirmende Cherub… du warst auf dem heiligen Berg Gottes”).
+- Der unmittelbare Kontext richtet sich an den König von Babylon. Doch die Sprache übersteigt jeden menschlichen Herrscher: „Ich will auffahren über die hohen Wolken und gleich sein dem Allerhöchsten“ (Jesaja 14:14), weshalb die christliche Tradition seit langem eine doppelte Bezugnahme liest: den menschlichen König als Vorbild der geistlichen Rebellion hinter ihm. Dies entspricht Hesekiel 28, wo der König von Tyrus in Worten angesprochen wird, die jeden Sterblichen übersteigen („du warst der gesalbte, schirmende Cherub… du warst auf dem heiligen Berg Gottes“).
 
-- Lukas 10:18 („Ich sah den Satan vom Himmel fallen wie einen Blitz”) spiegelt die Bildsprache von Jesaja 14 wider. Jesus zitierte es nicht als direkten Beweis, aber die Resonanz ist vorhanden und von den Kirchenvätern anerkannt.
+- Lukas 10:18 („Ich sah den Satan vom Himmel fallen wie einen Blitz“) spiegelt die Bildsprache von Jesaja 14 wider. Jesus zitierte es nicht als direkten Beweis, aber die Resonanz ist vorhanden und von den Kirchenvätern anerkannt.
 
 - Das Wort *Helel* kommt nur einmal in der hebräischen Bibel vor und wird nie für Jesus verwendet.
 
-- Die lateinische Vulgata übersetzte *Helel* als *Lucifer* („Lichtträger”), was in der Volksüberlieferung später zu einem Eigennamen für Satan wurde. Die Verwirrung entstand, weil das lateinische Wort eine Übersetzung war, kein Titel.
+- Die lateinische Vulgata übersetzte *Helel* als *Lucifer* („Lichtträger“), was in der Volksüberlieferung später zu einem Eigennamen für Satan wurde. Die Verwirrung entstand, weil das lateinische Wort eine Übersetzung war, kein Titel.
 
-- Im Neuen Testament wird der Titel „Morgenstern” ausschließlich für Jesus verwendet.
+- Im Neuen Testament wird der Titel „Morgenstern“ ausschließlich für Jesus verwendet.
 
-- (2 Petrus 1:19) nennt ihn *Phōsphoros* („Lichtbringer”).
+- (2 Petrus 1:19) nennt ihn *Phōsphoros* („Lichtbringer“).
 
-- (Offenbarung 2:28) und (Offenbarung 22:16) nennen ihn „den hellen Morgenstern”.
+- (Offenbarung 2:28) und (Offenbarung 22:16) nennen ihn „den hellen Morgenstern“.
 
 - Diese Titel sind positiv, messianisch und beschreiben Christi Herrlichkeit, Licht und Hoffnung.
 
 **Schriftstellen:**
 
-- Jesaja 14:12–15: „Helel ben Shachar” = Der Leuchtende, Sohn der Morgenröte (an den König von Babylon gerichtet; traditionell auch als Vorbild für Satans Stolz und Fall gelesen).
+- Jesaja 14:12–15: „Helel ben Shachar“ = Der Leuchtende, Sohn der Morgenröte (an den König von Babylon gerichtet; traditionell auch als Vorbild für Satans Stolz und Fall gelesen).
 
 - Hesekiel 28:12–17: Der König von Tyrus wird in Sprache beschrieben, die jeden sterblichen Herrscher übersteigt, parallel zu Jesaja 14.
 
-- Lukas 10:18: „Ich sah den Satan vom Himmel fallen wie einen Blitz.”
+- Lukas 10:18: „Ich sah den Satan vom Himmel fallen wie einen Blitz.“
 
 - 2 Petrus 1:19: Jesus als *Phōsphoros* (Lichtbringer).
 
@@ -297,22 +297,22 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 
 **Klarstellung:**
 
-Das hebräische Wort in (Jesaja 14:12) ist *Helel* („Der Leuchtende”), das sich sprachlich vom griechischen Begriff „Morgenstern” unterscheidet, der im Neuen Testament für Jesus verwendet wird. Satan und Jesus tragen nicht denselben Titel.
+Das hebräische Wort in (Jesaja 14:12) ist *Helel* („Der Leuchtende“), das sich sprachlich vom griechischen Begriff „Morgenstern“ unterscheidet, der im Neuen Testament für Jesus verwendet wird. Satan und Jesus tragen nicht denselben Titel.
 
 Der unmittelbare Adressat des Textes ist der König von Babylon, doch die Kirche hat historisch eine tiefere Bezugnahme auf den geistlichen Hochmut und Fall hinter dem irdischen Herrscher erkannt. Beide Lesarten, die historische und die typologische, sind in der orthodoxen christlichen Auslegung bezeugt.
 
-Jede Lehre, die Satan mit dem Titel „Morgenstern” gleichsetzt, der Jesus gehört, beruht auf einer Vermischung zweier verschiedener Wörter in zwei verschiedenen Sprachen, nicht auf dem Originaltext.  
+Jede Lehre, die Satan mit dem Titel „Morgenstern“ gleichsetzt, der Jesus gehört, beruht auf einer Vermischung zweier verschiedener Wörter in zwei verschiedenen Sprachen, nicht auf dem Originaltext.  
 
 ---
 
 ## Sexuelle Unmoral
 
 **Original:**  
-• Hebräisch: זִמָּה (*zimmah*, "Schändlichkeit, Bosheit, Plan"); עֶרְוָה (*ervah*, "Blöße, unanständige Enthüllung")
+• Hebräisch: זִמָּה (*zimmah*, „Schändlichkeit, Bosheit, Plan“); עֶרְוָה (*ervah*, „Blöße, unanständige Enthüllung“)
 
-• Griechisch: πορνεία (*porneia*, "Unzucht, sexuelle Unmoral, Prostitution")
+• Griechisch: πορνεία (*porneia*, „Unzucht, sexuelle Unmoral, Prostitution“)
 
-• Aramäisch: זִנְיָא (*zinya*, "Unzucht, Hurerei")
+• Aramäisch: זִנְיָא (*zinya*, „Unzucht, Hurerei“)
 
 **Hinweis:**  
 *Porneia* umfasst unrechtmäßige Sexualität außerhalb von Gottes Bund. Die Schrift definiert Unmoral durch **verbotene Beziehungen und Handlungen**, nicht durch eine Regulierung ehelicher Intimität.
@@ -337,7 +337,7 @@ Jede Lehre, die Satan mit dem Titel „Morgenstern” gleichsetzt, der Jesus geh
 
 **Innerhalb der Ehe:**
 
-• Das Ehebett ist „unbefleckt" und von Gott geehrt (Hebräer 13:4).
+• Das Ehebett ist „unbefleckt“ und von Gott geehrt (Hebräer 13:4).
 
 • Ehemann und Ehefrau gehören einander und sind aufgerufen, einander zu dienen (1. Korinther 7:3–5).
 
@@ -353,7 +353,7 @@ Jede Lehre, die Satan mit dem Titel „Morgenstern” gleichsetzt, der Jesus geh
 
 • Selbstbefriedigung wird in der Schrift nie ausdrücklich benannt, doch die Handlung fällt eindeutig in die biblischen Kategorien der sexuellen Unreinheit (akatharsia) und des Mangels an Selbstbeherrschung (egkrateia); die Schrift beschränkt jede sexuelle Betätigung auf den Ehebund (1. Korinther 7:2–5), gebietet den Gläubigen, ihren Leib in Heiligung zu beherrschen, anstatt der Leidenschaft nachzugeben (1. Thessalonicher 4:3–5), weist uns an, vor jugendlichen Begierden zu fliehen statt sie zu verwalten (2. Timotheus 2:22), verbietet, dem Fleisch Vorsorge zu treffen zur Erfüllung seiner Begierden (Römer 13:14), und ruft uns auf, unsere Glieder als Werkzeuge der Gerechtigkeit darzustellen (Römer 6:13). Das Schweigen über die konkrete Handlung ist keine Erlaubnis; es ist dasselbe Schweigen, das die Schrift über Pornografie bewahrt, das kein ernsthafter Gläubiger als Billigung missversteht.
 
-• Polygamie kommt im Alten Testament unter Patriarchen und Königen vor und wurde in der Geschichte Israels geduldet, wobei Erbregeln erlassen wurden (5. Mose 21:15–17). Aber sie wurde nie als Gottes Plan gebilligt. Von Anfang an war die Ehe ein Mann und eine Frau, vereint zu „einem Fleisch" (1. Mose 2:24) (Matthäus 19:4–6). Könige wurden gewarnt, nicht viele Frauen zu nehmen (5. Mose 17:17), und Salomos Untergang kam durch seine vielen Frauen (1. Könige 11:1–4). Das Neue Testament verschärft den Maßstab: Gemeindeleiter müssen „Mann einer einzigen Frau" sein (1. Timotheus 3:2) (Titus 1:6), was die Rückkehr zu Gottes ursprünglicher Absicht widerspiegelt.
+• Polygamie kommt im Alten Testament unter Patriarchen und Königen vor und wurde in der Geschichte Israels geduldet, wobei Erbregeln erlassen wurden (5. Mose 21:15–17). Aber sie wurde nie als Gottes Plan gebilligt. Von Anfang an war die Ehe ein Mann und eine Frau, vereint zu „einem Fleisch“ (1. Mose 2:24) (Matthäus 19:4–6). Könige wurden gewarnt, nicht viele Frauen zu nehmen (5. Mose 17:17), und Salomos Untergang kam durch seine vielen Frauen (1. Könige 11:1–4). Das Neue Testament verschärft den Maßstab: Gemeindeleiter müssen „Mann einer einzigen Frau“ sein (1. Timotheus 3:2) (Titus 1:6), was die Rückkehr zu Gottes ursprünglicher Absicht widerspiegelt.
 
 • Scheidung; Jesus lehrte, dass die Scheidung aus anderen Gründen als sexueller Unmoral Ehebruch verursacht (Matthäus 19:9).
 

@@ -59,14 +59,14 @@ Jesus is eternally God, of the same divine essence as the Father.
 **Result:**  
 - Arianism was condemned
 
-- Jesus’ full divinity was affirmed
+- Jesus' full divinity was affirmed
 
 - An early creed was written
 
 **What it did NOT do:**  
 - Did not choose Bible books
 
-- Did not invent Jesus’ divinity
+- Did not invent Jesus' divinity
 
 - Did not remove texts
 
@@ -119,7 +119,7 @@ These councils **ratified**, not invented, the canon.
 Is Jesus one person or two persons?
 
 **Issue:**  
-Nestorian teaching separated Jesus’ human and divine natures too strongly.
+Nestorian teaching separated Jesus' human and divine natures too strongly.
 
 **Decision:**  
 Jesus is one unified person, fully God and fully human.
@@ -139,7 +139,7 @@ Jesus is one unified person, fully God and fully human.
 ### Council of Chalcedon (AD 451)
 
 **Question addressed:**  
-How do Jesus’ divine and human natures coexist?
+How do Jesus' divine and human natures coexist?
 
 **Issue:**  
 Some teachings merged or erased one nature.
@@ -168,7 +168,7 @@ Did Chalcedon accidentally allow a split view of Christ?
 Some teachings reintroduced Nestorian-style separation.
 
 **Decision:**  
-Christ’s unity was reaffirmed without weakening either nature.
+Christ's unity was reaffirmed without weakening either nature.
 
 **Result:**  
 
@@ -235,7 +235,7 @@ By the early second century (early 100s), churches widely used:
 
 - The four Gospels
 
-- Paul’s letters
+- Paul's letters
 
 - Acts
 
@@ -263,7 +263,7 @@ In the late 300s, leaders like Athanasius of Alexandria listed the exact 27 New 
 
 Soon after, regional councils in North Africa affirmed the same list.
 
-This didn’t create the canon.
+This didn't create the canon.
 It ratified what had already become dominant.
 
 Think court ruling, not invention.
@@ -278,7 +278,7 @@ Some used Shepherd of Hermas.
 Some used 1 Clement.
 Some doubted Revelation.
 
-An empire can’t run on theological buffet style.
+An empire can't run on theological buffet style.
 
 So bishops pushed for:
 
@@ -345,7 +345,7 @@ As theology became more systematized, Enoch became less convenient.
 
 It shattered the tidy "mostly human problem" theology that developed later.
 
-Enoch says humanity didn’t just fall.
+Enoch says humanity didn't just fall.
 
 Humanity got invaded.
 
@@ -371,7 +371,7 @@ Not "as a story."
 
 Which tells you early Christians clearly respected it.
 
-It wasn’t fringe.
+It wasn't fringe.
 
 It was part of their mental library.
 
@@ -387,19 +387,19 @@ They never dropped Enoch.
 
 To them, it was always Scripture.
 
-And because Ethiopia wasn’t under Roman theological politics, it never got purged.
+And because Ethiopia wasn't under Roman theological politics, it never got purged.
 
-Enoch survived where politics couldn’t reach. Which is why it still whispers from Ethiopia while the West pretends it never existed.
+Enoch survived where politics couldn't reach. Which is why it still whispers from Ethiopia while the West pretends it never existed.
 
 ---
 
 ## The big picture
 
-Enoch doesn’t compete with the Bible.
+Enoch doesn't compete with the Bible.
 
 It completes the ancient worldview the Bible assumes you already understand.
 
-It’s like reading only the last movie in a trilogy and wondering why the villain feels underdeveloped.
+It's like reading only the last movie in a trilogy and wondering why the villain feels underdeveloped.
 
 Genesis gives the spark.
 Enoch gives the backstory.

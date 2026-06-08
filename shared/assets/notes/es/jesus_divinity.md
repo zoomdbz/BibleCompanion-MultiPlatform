@@ -19,13 +19,13 @@ Y
 
 -  Mateo 17:5; Marcos 9:7; Lucas 9:35: Transfiguración. La voz lo llama el Hijo amado.  
 
--  Mateo 4:3-6; Lucas 4:3-9: Tentación. Satanás lo desafía: "Si eres el Hijo de Dios."  
+-  Mateo 4:3-6; Lucas 4:3-9: Tentación. Satanás lo desafía: «Si eres el Hijo de Dios.»  
 
 -  Mateo 8:29; Marcos 3:11; Lucas 4:41: Los demonios lo reconocen como el Hijo de Dios.  
 
--  Mateo 14:33: Los discípulos lo adoran y dicen: "Verdaderamente eres el Hijo de Dios."  
+-  Mateo 14:33: Los discípulos lo adoran y dicen: «Verdaderamente eres el Hijo de Dios.»  
 
--  Mateo 16:16: Pedro: "Tú eres el Mesías, el Hijo del Dios viviente."  
+-  Mateo 16:16: Pedro: «Tú eres el Mesías, el Hijo del Dios viviente.»  
 
 -  Mateo 26:63–64; Marcos 14:61–62; Lucas 22:70: Escenas de juicio sobre su identidad como Hijo de Dios.  
 
@@ -51,23 +51,23 @@ Y
   - Hebreo: בֵּן (*ben*)  
   - Griego (LXX): υἱός (*huios*)  
   - Arameo: בַּר (*bar*)  
-  - **Español:** “Hijo”  
+  - **Español:** «Hijo»  
   - *Contexto: El rey davídico es llamado hijo de Dios; aplicado a Jesús como verdadero Hijo de Dios.*  
 
--  Salmo 2:7: "Tú eres mi hijo; yo te he engendrado hoy."  
+-  Salmo 2:7: «Tú eres mi hijo; yo te he engendrado hoy.»  
 
   - Hebreo: בְּנִי אַתָּה (*beni attah*)  
   - Griego (LXX): υἱός μου εἶ σύ (*huios mou ei sy*)  
   - Arameo: אַתְּ בְּרִי (*att bri*)  
-  - **Español:** “Tú eres mi hijo”  
+  - **Español:** «Tú eres mi hijo»  
   - *Contexto: Salmo de entronización real que identifica al Mesías como Hijo de Dios.*  
 
--  Salmo 110:1: "El Señor dijo a mi Señor."  
+-  Salmo 110:1: «El Señor dijo a mi Señor.»  
 
   - Hebreo: לַאדֹנִי (*la’adoni*)  
   - Griego (LXX): τῷ κυρίῳ μου (*tō kyriō mou*)  
   - Arameo: לְמָרִי (*l’mari*)  
-  - **Español:** “Mi Señor”  
+  - **Español:** «Mi Señor»  
   - *Contexto: Un segundo Señor es entronizado con autoridad divina; Jesús lo cita acerca de sí mismo.*  
 
 -  Isaías 9:6: El niño con títulos divinos, trono de David.  
@@ -75,15 +75,15 @@ Y
   - Hebreo: אֵל גִּבּוֹר (*El Gibbor*)  
   - Griego (LXX): ἄγγελος μεγάλης βουλῆς (*angelos megalēs boulēs*)  
   - Arameo: אֱלָהּ גִּבָּר (*elah gibbar*)  
-  - **Español:** “Dios fuerte”  
+  - **Español:** «Dios fuerte»  
   - *Contexto: Profecía de un niño divino que reinará en el trono de David; los títulos pertenecen solo a Dios.*  
 
--  Daniel 7:13: "Uno como hijo de hombre" recibe dominio.  
+-  Daniel 7:13: «Uno como hijo de hombre» recibe dominio.  
 
   - Hebreo/Arameo: כְּבַר אֱנָשׁ (*ke-bar enash*)  
   - Griego (LXX/OG): ὡς υἱὸς ἀνθρώπου (*hōs huios anthrōpou*)  
   - Arameo (original): בַּר אֱנָשׁ (*bar enash*)  
-  - **Español:** “Hijo de Hombre”  
+  - **Español:** «Hijo de Hombre»  
   - *Contexto: Visión de una figura celestial entronizada con dominio eterno; Jesús aplicó este título a sí mismo.*  
 
 **Referencias del Nuevo Testamento fuera de los Evangelios**  
@@ -97,7 +97,7 @@ Y
 
 
 **Notas para lectores**  
--  "Hijo de Dios" en el marco real-mesiánico significa el Rey ungido que lleva el gobierno de Dios. En los Evangelios, este título va más allá de la metáfora real. La voz directa del Padre, la relación única de Jesús y sus obras divinas redefinen el título con solidaridad divina.  
+-  «Hijo de Dios» en el marco real-mesiánico significa el Rey ungido que lleva el gobierno de Dios. En los Evangelios, este título va más allá de la metáfora real. La voz directa del Padre, la relación única de Jesús y sus obras divinas redefinen el título con solidaridad divina.  
 
 
 ---
@@ -106,36 +106,36 @@ Y
 
 **Declaraciones directas de identidad y unidad por o sobre Jesús**  
 
--  Juan 1:1: "El Verbo era Dios."  
+-  Juan 1:1: «El Verbo era Dios.»  
 
   - Hebreo: דְּבַר יְהוָה (*d’var YHWH*)  
   - Griego: λόγος (*logos*)  
   - Arameo: מֵימְרָא (*memra*)  
-  - **Español:** “Verbo/Palabra”  
+  - **Español:** «Verbo/Palabra»  
   - *Contexto: El Logos/Verbo es identificado como Dios y se hace carne en Jesús.*  
 
--  Juan 8:58: "Antes que Abraham fuese, Yo Soy."  
+-  Juan 8:58: «Antes que Abraham fuese, Yo Soy.»  
 
   - Hebreo (Éxodo 3:14): אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Griego: ἐγώ εἰμι (*egō eimi*)  
   - Arameo: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
-  - **Español:** “YO SOY”  
+  - **Español:** «YO SOY»  
   - *Contexto: Jesús aplica a sí mismo el nombre divino de auto-revelación de Éxodo.*  
 
--  Juan 10:30: "El Padre y yo somos uno."  
+-  Juan 10:30: «El Padre y yo somos uno.»  
 
   - Hebreo: אֶחָד (*echad*)  
   - Griego: ἕν (*hen*)  
   - Arameo: חַד (*chad*)  
-  - **Español:** “Uno”  
+  - **Español:** «Uno»  
   - *Contexto: Declaración de unidad con el Padre; los oyentes lo acusan de blasfemia.*  
 
--  Juan 20:28: "¡Mi Señor y mi Dios!"  
+-  Juan 20:28: «¡Mi Señor y mi Dios!»  
 
   - Hebreo: אֲדֹנִי וֵאלֹהַי (*adonai v’elohai*)  
   - Griego: ὁ κύριός μου καὶ ὁ θεός μου (*ho kurios mou kai ho theos mou*)  
   - Arameo: מָרִי וֵאלָהִי (*mari v’elahi*)  
-  - **Español:** “Mi Señor y mi Dios”  
+  - **Español:** «Mi Señor y mi Dios»  
   - *Contexto: Tomás confiesa directamente al Jesús resucitado como Señor y Dios.*  
 
 **Prerrogativas y acciones divinas que implican deidad**  
@@ -148,12 +148,12 @@ Y
 
 **Marco trinitario**  
 
--  Mateo 28:18–20: "Bautizándolos en el nombre del Padre, del Hijo y del Espíritu Santo."  
+-  Mateo 28:18–20: «Bautizándolos en el nombre del Padre, del Hijo y del Espíritu Santo.»  
 
   - Hebreo: בְּשֵׁם (*b’shem*)  
   - Griego: ὄνομα (*onoma*)  
   - Arameo: שְׁמָא (*shema*)  
-  - **Español:** “Nombre (singular)”  
+  - **Español:** «Nombre (singular)»  
   - *Contexto: Un solo nombre compartido por el Padre, el Hijo y el Espíritu: unidad divina.*  
 
 -  Juan 14–16: Jesús envía al Paráclito; el Padre, el Hijo y el Espíritu actúan en una sola misión.  
@@ -161,12 +161,12 @@ Y
 
 **Nombre divino y referencias de identidad en el Antiguo Testamento**  
 
--  Éxodo 3:14: "YO SOY EL QUE SOY."  
+-  Éxodo 3:14: «YO SOY EL QUE SOY.»  
 
   - Hebreo: אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Griego (LXX): ἐγώ εἰμι ὁ ὤν (*egō eimi ho ōn*)  
   - Arameo: אֲנָא הוּא (*ana hu*)  
-  - **Español:** “YO SOY”  
+  - **Español:** «YO SOY»  
   - *Contexto: Auto-identificación de Dios; Jesús retoma esto en Juan 8:58 y Apocalipsis.*  
 
 -  Deuteronomio 32:39; Isaías 41:4; 43:10–11; 44:6; 48:12: Dios como el Primero y el Último; reflejado en Apocalipsis 1:17–18.  
@@ -210,11 +210,11 @@ Y
 
 # El Grito de Desamparo de Jesús
 
-Un momento vital para comprender la divinidad de Jesús es su grito desde la cruz: *“Dios mío, Dios mío, ¿por qué me has desamparado?”* (Mateo 27:46) (Marcos 15:34). A primera vista, puede sonar como debilidad o incluso separación de Dios, pero en realidad revela tanto su plena humanidad como su misión divina. Al citar la primera línea del Salmo 22 (Salmo 22:1), Jesús llamó la atención sobre todo el salmo: un pasaje que comienza en profundo lamento pero termina en victoria y adoración mundial. Este grito no es una pérdida de divinidad; es el Hijo de Dios entrando plenamente en nuestra experiencia humana de pecado y juicio para redimirla.
+Un momento vital para comprender la divinidad de Jesús es su grito desde la cruz: *«Dios mío, Dios mío, ¿por qué me has desamparado?»* (Mateo 27:46) (Marcos 15:34). A primera vista, puede sonar como debilidad o incluso separación de Dios, pero en realidad revela tanto su plena humanidad como su misión divina. Al citar la primera línea del Salmo 22 (Salmo 22:1), Jesús llamó la atención sobre todo el salmo: un pasaje que comienza en profundo lamento pero termina en victoria y adoración mundial. Este grito no es una pérdida de divinidad; es el Hijo de Dios entrando plenamente en nuestra experiencia humana de pecado y juicio para redimirla.
 
 ---
 
-Cuando Jesús gritó *“Dios mío, Dios mío, ¿por qué me has desamparado?”* (Mateo 27:46) (Marcos 15:34), estaba **citando la primera línea del Salmo 22** (Salmo 22:1). En la práctica judía, citar la primera línea señalaba al oyente hacia **todo el salmo**, no solo las palabras iniciales.
+Cuando Jesús gritó *«Dios mío, Dios mío, ¿por qué me has desamparado?»* (Mateo 27:46) (Marcos 15:34), estaba **citando la primera línea del Salmo 22** (Salmo 22:1). En la práctica judía, citar la primera línea señalaba al oyente hacia **todo el salmo**, no solo las palabras iniciales.
 
 ---
 
@@ -224,17 +224,17 @@ Cuando Jesús gritó *“Dios mío, Dios mío, ¿por qué me has desamparado?”
 
 - **Describe la escena de la crucifixión**: burlas, manos y pies traspasados, reparto de vestiduras.
 
-- **Termina en triunfo**: Dios libera, las naciones adorarán, y el salmo concluye con *“Él lo ha hecho”* (Salmo 22:31) (similar a las palabras de Jesús *“Consumado es”* (Juan 19:30)).
+- **Termina en triunfo**: Dios libera, las naciones adorarán, y el salmo concluye con *«Él lo ha hecho»* (Salmo 22:31) (similar a las palabras de Jesús *«Consumado es»* (Juan 19:30)).
 
 ---
 
-### Qué significa “desamparado”
+### Qué significa «desamparado»
 
 - **Jesús realmente sintió la distancia humana de Dios.** Entró en todo el peso de nuestro pecado y maldición.
 
-- **No es una ruptura en la Trinidad.** El Padre y el Hijo nunca estuvieron divididos en su ser. Jesús aún confió en el Padre: sus últimas palabras fueron, *“Padre, en tus manos encomiendo mi espíritu.”* (Lucas 23:46)
+- **No es una ruptura en la Trinidad.** El Padre y el Hijo nunca estuvieron divididos en su ser. Jesús aún confió en el Padre: sus últimas palabras fueron, *«Padre, en tus manos encomiendo mi espíritu.»* (Lucas 23:46)
 
-- **Él llevó el juicio del pacto.** En la cruz cargó con la pena del pecado (Gálatas 3:13) (2 Corintios 5:21). El “desamparo” es judicial, no relacional.
+- **Él llevó el juicio del pacto.** En la cruz cargó con la pena del pecado (Gálatas 3:13) (2 Corintios 5:21). El «desamparo» es judicial, no relacional.
 
 ---
 

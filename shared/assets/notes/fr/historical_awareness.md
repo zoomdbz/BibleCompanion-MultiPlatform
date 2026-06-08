@@ -6,10 +6,10 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 1. Comment nous avons obtenu la Bible
 
-**(Luc 1:1–4)** : « Plusieurs ont entrepris de composer un récit… j’ai tout examiné avec soin… afin que tu reconnaisses l’exactitude des enseignements. »  
+**(Luc 1:1–4)** : « Plusieurs ont entrepris de composer un récit… j’ai tout examiné avec soin… afin que tu reconnaisses l’exactitude des enseignements. »  
 ➡ Luc montre que les premiers chrétiens ont soigneusement documenté les événements.
 
-**(2 Timothée 3:16)** : « Toute Écriture est inspirée de Dieu et utile pour enseigner, convaincre, corriger et instruire dans la justice. »  
+**(2 Timothée 3:16)** : « Toute Écriture est inspirée de Dieu et utile pour enseigner, convaincre, corriger et instruire dans la justice. »  
 ➡ L’Écriture affirme son origine divine.
 
 **Histoire :** Les premières listes (Fragment de Muratori, vers 170 ap. J.-C.) montraient déjà des débats sur les livres à inclure. Les conciles d’Hippone (393) et de Carthage (397) ont approuvé officiellement le canon. Jérôme a traduit la Vulgate latine vers 382, qui est devenue la norme pendant plus de mille ans. L’imprimerie dans les années 1440 a donné au peuple un accès direct pour la première fois.
@@ -35,10 +35,10 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 2. Problèmes de traduction et d’interprétation
 
-**(Néhémie 8:8)** : "Ils lisaient distinctement dans le livre de la loi de Dieu et en donnaient le sens pour faire comprendre la lecture."  
+**(Néhémie 8:8)** : « Ils lisaient distinctement dans le livre de la loi de Dieu et en donnaient le sens pour faire comprendre la lecture. »  
 ➡ La Bible a toujours été destinée à être comprise.
 
-**Histoire :** L’Ancien Testament fut traduit en grec (Septante) aux IIIe–IIe siècles av. J.-C. Plus tard, la Vulgate latine de Jérôme domina, introduisant parfois des distorsions ("repentez-vous" devint "faites pénitence"). En 1611, le roi Jacques approuva la Bible anglaise, influencée par la politique. Les Manuscrits de la mer Morte confirmèrent la variété des textes hébreux.
+**Histoire :** L’Ancien Testament fut traduit en grec (Septante) aux IIIe–IIe siècles av. J.-C. Plus tard, la Vulgate latine de Jérôme domina, introduisant parfois des distorsions (« repentez-vous » devint « faites pénitence »). En 1611, le roi Jacques approuva la Bible anglaise, influencée par la politique. Les Manuscrits de la mer Morte confirmèrent la variété des textes hébreux.
 
 **Conclusion :** Les traductions comptent. Le choix des mots peut transformer des croyances entières.
 
@@ -46,10 +46,10 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 3. Église et politique
 
-**(Matthieu 23:27–28)** : « Malheur à vous, scribes et pharisiens… vous êtes semblables à des sépulcres blanchis. »  
+**(Matthieu 23:27–28)** : « Malheur à vous, scribes et pharisiens… vous êtes semblables à des sépulcres blanchis. »  
 ➡ Jésus a condamné les chefs religieux qui semblaient saints à l’extérieur mais étaient corrompus à l’intérieur.
 
-**(Actes 5:29)** : « Il faut obéir à Dieu plutôt qu’aux hommes. »  
+**(Actes 5:29)** : « Il faut obéir à Dieu plutôt qu’aux hommes. »  
 ➡ Les apôtres ont résisté au contrôle politico-religieux.
 
 **Histoire :**
@@ -70,7 +70,7 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 4. Persécution et réformes
 
-**(Jean 16:2)** : "L’heure vient où quiconque vous tuera pensera rendre un culte à Dieu."  
+**(Jean 16:2)** : « L’heure vient où quiconque vous tuera pensera rendre un culte à Dieu. »  
 ➡ Jésus annonça la persécution.
 
 **Histoire :** Les réformateurs voulurent rendre la Bible au peuple. John Wycliffe traduisit en anglais et fut condamné même après sa mort. William Tyndale fut exécuté en 1536 pour sa traduction. Les 95 thèses de Luther en 1517 déclenchèrent la Réforme. Le Concile de Trente (1545–1563) renforça l’autorité de l’Église.
@@ -81,10 +81,10 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 5. Textes perdus et supprimés
 
-**(Jude 1:14–15)** : "Hénoc, le septième après Adam, a prophétisé..."  
+**(Jude 1:14–15)** : « Hénoc, le septième après Adam, a prophétisé... »  
 ➡ Jude cite directement Hénoc.
 
-**(Colossiens 4:16)** : "Lisez aussi cette lettre dans l’église des Laodicéens, et vous-mêmes lisez celle de Laodicée."  
+**(Colossiens 4:16)** : « Lisez aussi cette lettre dans l’église des Laodicéens, et vous-mêmes lisez celle de Laodicée. »  
 ➡ Paul mentionne une lettre perdue.
 
 **Histoire :** Le Livre d’Hénoc fut précieux pour les premiers chrétiens mais fut plus tard exclu. La découverte de Nag Hammadi (1945) révéla l’Évangile de Thomas et d’autres écrits. Les Manuscrits de la mer Morte (1947) montrèrent des textes alternatifs. Beaucoup furent supprimés car ils menaçaient l’autorité institutionnelle.
@@ -102,13 +102,13 @@ Le *Livre d’Hénoch* était largement lu dans les communautés juives et chré
 
 ### **Pourquoi il est important**
 
-* **Comble les lacunes de la Genèse** : Explique Genèse 6 : qui étaient les « fils de Dieu » et les « Nephilim », comment les anges déchus (les Veilleurs) ont corrompu la création, et l’origine des démons.
+* **Comble les lacunes de la Genèse** : Explique Genèse 6 : qui étaient les « fils de Dieu » et les « Nephilim », comment les anges déchus (les Veilleurs) ont corrompu la création, et l’origine des démons.
 
 * **Échos de l’Apocalypse** : Décrit des signes cosmiques (soleil obscurci, étoiles tombant, terre tremblante), des jugements angéliques et la destruction finale des méchants, correspondant étroitement aux sceaux et aux trompettes de l’Apocalypse.
 
 * **Le Fils de l’homme révélé** : Prophétise le Fils de l’homme préexistant, intronisé dans le ciel, venant juger les rois et les nations, un langage que Jésus reprend directement dans Matthieu 24–25.
 
-* **« À notre image » expliqué** : Montre que Jésus existait dès le commencement avec le Père, en lien avec Genèse 1:26 (« Faisons l’homme à notre image »).
+* **« À notre image » expliqué** : Montre que Jésus existait dès le commencement avec le Père, en lien avec Genèse 1:26 (« Faisons l’homme à notre image »).
 
 * **Fait le pont entre l’Ancien et le Nouveau** : Relie l’attente apocalyptique juive ancienne aux prophéties du Nouveau Testament, clarifiant l’Apocalypse.
 
@@ -120,7 +120,7 @@ Le *Livre d’Hénoch* était largement lu dans les communautés juives et chré
 
 * Les conciles de l’Église (IVe siècle) l’ont exclu, affirmant qu’il manquait d’autorité apostolique au-delà de Jude.
 
-* Ses descriptions détaillées des anges, des démons et du jugement ont été jugées « trop dangereuses » pour le contrôle sous Rome.
+* Ses descriptions détaillées des anges, des démons et du jugement ont été jugées « trop dangereuses » pour le contrôle sous Rome.
 
 * L’Église éthiopienne, restée à l’écart de la politique romaine, l’a conservé comme Écriture jusqu’à aujourd’hui.
 
@@ -160,7 +160,7 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 ## 6. Fêtes Empruntées (Syncrétisme)
 
-**(Jérémie 10:2–4)** : "N’imitez pas la voie des nations… On coupe un arbre dans la forêt, l’ouvrage des mains d’un artisan avec la hache. On l’orne d’argent et d’or, on le fixe avec des clous et un marteau pour qu’il ne branle pas."
+**(Jérémie 10:2–4)** : « N’imitez pas la voie des nations… On coupe un arbre dans la forêt, l’ouvrage des mains d’un artisan avec la hache. On l’orne d’argent et d’or, on le fixe avec des clous et un marteau pour qu’il ne branle pas. »
 
 ➡ Un avertissement contre l’adoption des coutumes païennes.
 
@@ -174,15 +174,15 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 - Josèphe (*Antiquités Juives* 17.6–9) décrit la dernière maladie d’Hérode, l’éclipse et la Pâque. La majorité des chercheurs retiennent 4 av. J.-C. comme année de sa mort, tandis qu’une minorité défend 1 av. J.-C. en se basant sur une autre éclipse ultérieure.
 
-- Luc 2 associe la naissance à un recensement. Le recensement bien connu de Quirinius eut lieu en l’an 6 apr. J.-C., trop tard, mais plusieurs hypothèses existent : (1) Luc se réfère à un enregistrement local antérieur, (2) le texte grec peut être lu « avant que Quirinius ne soit gouverneur de Syrie. » Aucune de ces propositions ne modifie l’ancrage chronologique 6–4 av. J.-C. pour la naissance.
+- Luc 2 associe la naissance à un recensement. Le recensement bien connu de Quirinius eut lieu en l’an 6 apr. J.-C., trop tard, mais plusieurs hypothèses existent : (1) Luc se réfère à un enregistrement local antérieur, (2) le texte grec peut être lu « avant que Quirinius ne soit gouverneur de Syrie. » Aucune de ces propositions ne modifie l’ancrage chronologique 6–4 av. J.-C. pour la naissance.
 
 - Luc 2:8 mentionne des bergers vivant dans les champs avec leurs troupeaux la nuit. Les hivers dans les collines de Judée sont froids et humides (températures nocturnes souvent de 4–7 °C, avec gelées et pluies). La garde nocturne en plein air correspond mieux au printemps (agnelage) ou à l’automne (pâturage après la récolte) qu’au plein hiver.
 
 - Rome célébrait les **Saturnales** en décembre avec du feuillage décoré, des festins et des inversions sociales.
 
-- L’empereur Aurélien institua le 25 décembre en l’an 274 apr. J.-C. comme fête de *Sol Invictus* (« le Soleil Invaincu »), célébrant la renaissance du soleil après le solstice d’hiver.
+- L’empereur Aurélien institua le 25 décembre en l’an 274 apr. J.-C. comme fête de *Sol Invictus* (« le Soleil Invaincu »), célébrant la renaissance du soleil après le solstice d’hiver.
 
-- Au IVe siècle, les chrétiens fixèrent la fête de la Nativité à cette même date, la réinterprétant comme la venue du Christ, la « vraie lumière du monde » (Jean 8:12).
+- Au IVe siècle, les chrétiens fixèrent la fête de la Nativité à cette même date, la réinterprétant comme la venue du Christ, la « vraie lumière du monde » (Jean 8:12).
 
 - Les voix chrétiennes anciennes furent diverses : Origène rejeta toute célébration d’anniversaire ; Hippolyte proposa le 25 décembre dès le IIIe siècle ; Jean Chrysostome (386 apr. J.-C.) attesta de son acceptation. Ce choix était symbolique et non une date historique conservée.
 
@@ -204,7 +204,7 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 - Ce sont les candidats les plus solides car ils réunissent Pessa’h, vendredi et le gouvernement de Pilate.
 
-- Les preuves astronomiques renforcent 33 apr. J.-C. : le **3 avril 33 apr. J.-C.**, une éclipse partielle de lune eut lieu au lever de la lune à Jérusalem. Cette « lune de sang » peut rappeler Actes 2:20 (« la lune se changera en sang »). Humphreys et Waddington (1985) soulignèrent cette coïncidence comme un appui fort.
+- Les preuves astronomiques renforcent 33 apr. J.-C. : le **3 avril 33 apr. J.-C.**, une éclipse partielle de lune eut lieu au lever de la lune à Jérusalem. Cette « lune de sang » peut rappeler Actes 2:20 (« la lune se changera en sang »). Humphreys et Waddington (1985) soulignèrent cette coïncidence comme un appui fort.
 
 - Ainsi, la plupart des chercheurs situent la crucifixion soit le **7 avril 30 apr. J.-C.**, soit le **3 avril 33 apr. J.-C.**, la dernière étant souvent privilégiée.
 
@@ -216,7 +216,7 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 - En Europe, on incorpora plus tard des symboles saisonniers : œufs, lièvres et images de fécondité liées au printemps.
 
-- Le nom anglais « Easter » vient de Bède, qui mentionna un nom de mois local (*Eosturmonath*). La plupart des langues gardent des formes de « Pascha. » Les affirmations populaires sur Ishtar sont répandues mais discutées ; il n’existe pas de textes antiques directs, bien que l’intégration de symboles de fécondité fût courante.
+- Le nom anglais « Easter » vient de Bède, qui mentionna un nom de mois local (*Eosturmonath*). La plupart des langues gardent des formes de « Pascha. » Les affirmations populaires sur Ishtar sont répandues mais discutées ; il n’existe pas de textes antiques directs, bien que l’intégration de symboles de fécondité fût courante.
 
 ---
 
@@ -232,7 +232,7 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 - Rome célébrait les **Saturnales** avec du feuillage et des festins.
 
-- L’« anniversaire du soleil » (*Sol Invictus*, 25 décembre) fut associé à Noël.
+- L’« anniversaire du soleil » (*Sol Invictus*, 25 décembre) fut associé à Noël.
 
 - Pâques accumula des images printanières et de fécondité (œufs, lièvres) issues de **coutumes régionales européennes** ; l'affirmation populaire la reliant à **Ishtar** est étymologiquement infondée.
 
@@ -301,7 +301,7 @@ Non ordonné dans l’Écriture; le 25 décembre a été adopté des fêtes roma
 (Jérémie 10:2–4) (Deutéronome 12:29–32) (Marc 7:8–9)
 
 **Pâques (Easter)**  
-À l’origine la fête de la Pâque et de la Résurrection (*Pessa’h*); plus tard mêlée à des symboles solaires et de fertilité après le Concile de Nicée. Le mot anglais “Easter” vient de coutumes printanières locales et non de l’Écriture.  
+À l’origine la fête de la Pâque et de la Résurrection (*Pessa’h*); plus tard mêlée à des symboles solaires et de fertilité après le Concile de Nicée. Le mot anglais « Easter » vient de coutumes printanières locales et non de l’Écriture.  
 (Exode 12:14) (1 Corinthiens 5:7–8) (Actes 12:4) (Colossiens 2:16–17)
 
 **Halloween (Veille de la Toussaint)**  
@@ -335,19 +335,19 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 
 - Finegan, Jack. *Handbook of Biblical Chronology*. Éd. révisée. Peabody : Hendrickson, 1998.
 
-- Humphreys, C. J., & Waddington, W. G. « The Date of the Crucifixion. » *Journal of the American Scientific Affiliation* 37, no. 1 (1985): 2–10.
+- Humphreys, C. J., & Waddington, W. G. « The Date of the Crucifixion. » *Journal of the American Scientific Affiliation* 37, no. 1 (1985): 2–10.
 
-- Encyclopaedia Britannica. « Saturnalia. » Consulté en 2025.
+- Encyclopaedia Britannica. « Saturnalia. » Consulté en 2025.
 
-- Encyclopaedia Britannica. « Sol Invictus. » Consulté en 2025.
+- Encyclopaedia Britannica. « Sol Invictus. » Consulté en 2025.
 
-- Encyclopaedia Britannica. « Easter. » Consulté en 2025.
+- Encyclopaedia Britannica. « Easter. » Consulté en 2025.
 
 - Origène. *Homélies sur le Lévitique*. IIIe siècle.
 
 - Jean Chrysostome. *Homélie sur la Nativité*. 386 apr. J.-C.
 
-- Talmon, Shemaryahu. « The Concept of the Calendar and the Chronology of the Crucifixion. » *Biblical Archaeologist* 28, no. 3 (1965).
+- Talmon, Shemaryahu. « The Concept of the Calendar and the Chronology of the Crucifixion. » *Biblical Archaeologist* 28, no. 3 (1965).
 
 - Bède le Vénérable. *De temporum ratione* (Le calcul du temps), chap. 15 (Eostre).
 
@@ -358,10 +358,10 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 
 ## 7. Pouvoir et contrôle
 
-**(Osée 4:6)** : "Mon peuple est détruit faute de connaissance."  
+**(Osée 4:6)** : « Mon peuple est détruit faute de connaissance. »  
 ➡ Le peuple souffre sans vérité.
 
-**(Matthieu 23:13)** : "Vous fermez aux gens le royaume des cieux."  
+**(Matthieu 23:13)** : « Vous fermez aux gens le royaume des cieux. »  
 ➡ Les chefs religieux bloquaient l’accès à Dieu.
 
 **Histoire :** Pendant des siècles, seule la lecture en latin était permise. Le peuple ne pouvait y accéder. En 1559, l’Église publia l’Index des livres interdits. On vendait des indulgences contre de l’argent. L’imprimerie brisa ce monopole et diffusa la Bible dans les langues communes.
@@ -372,10 +372,10 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 
 ## 8. Échos modernes
 
-**(2 Timothée 4:3–4)** : « Car il viendra un temps où les hommes ne supporteront pas la saine doctrine… ils se donneront une foule de docteurs selon leurs propres désirs. »  
+**(2 Timothée 4:3–4)** : « Car il viendra un temps où les hommes ne supporteront pas la saine doctrine… ils se donneront une foule de docteurs selon leurs propres désirs. »  
 ➡ L’Écriture avertit contre la déformation par confort et par pouvoir.
 
-**Histoire :** Les débats actuels sur les traductions, le langage inclusif et la sexualité rappellent les luttes anciennes pour le contrôle. L’évangile de prospérité enseigne que la richesse est la volonté de Dieu, semblable à l’époque médiévale où l’Église vendait des indulgences (en réalité des « billets pour le ciel » contre de l’argent). Le christianisme est aujourd’hui divisé en des dizaines de milliers de dénominations, souvent plus façonnées par la culture, la tradition ou la politique que par les paroles mêmes de Jésus. Partout dans le monde, la persécution augmente de nouveau, et la vérité biblique est ignorée ou adaptée aux désirs de la société.
+**Histoire :** Les débats actuels sur les traductions, le langage inclusif et la sexualité rappellent les luttes anciennes pour le contrôle. L’évangile de prospérité enseigne que la richesse est la volonté de Dieu, semblable à l’époque médiévale où l’Église vendait des indulgences (en réalité des « billets pour le ciel » contre de l’argent). Le christianisme est aujourd’hui divisé en des dizaines de milliers de dénominations, souvent plus façonnées par la culture, la tradition ou la politique que par les paroles mêmes de Jésus. Partout dans le monde, la persécution augmente de nouveau, et la vérité biblique est ignorée ou adaptée aux désirs de la société.
 
 **Conclusion :** Le cycle de déformation, de pouvoir et de division continue aujourd’hui. Pourtant, le réveil est toujours possible. Le réveil ne commence pas par des programmes ou des mouvements mais lorsque le peuple de Dieu se repent, se détourne des compromis et revient à l’autorité de sa Parole. Le même Esprit qui a ressuscité Jésus d’entre les morts appelle encore l’Église à s’éveiller, à marcher dans la vérité et à être lumière dans un monde sombre.
 
@@ -384,10 +384,10 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 
 ## 9. Pourquoi la Bible est toujours fiable
 
-**(Ésaïe 40:8)** : « L’herbe sèche, la fleur tombe, mais la parole de notre Dieu subsiste éternellement. »  
+**(Ésaïe 40:8)** : « L’herbe sèche, la fleur tombe, mais la parole de notre Dieu subsiste éternellement. »  
 ➡ Dieu a promis de préserver sa parole.
 
-**(Matthieu 24:35)** : « Le ciel et la terre passeront, mais mes paroles ne passeront point. »  
+**(Matthieu 24:35)** : « Le ciel et la terre passeront, mais mes paroles ne passeront point. »  
 ➡ Jésus a garanti la permanence de ses paroles.
 
 **Histoire :**

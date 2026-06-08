@@ -41,7 +41,7 @@ As Escrituras Hebraicas contêm mais de 300 profecias que apontam para o Messias
 - **Nenhum osso quebrado**: Salmo 34:20; Êxodo 12:46 → João 19:33–36
 - **Lado traspassado**: Zacarias 12:10 → João 19:34, 37
 - **Trevas sobre a terra**: Amós 8:9 → Mateus 27:45
-- **"Deus meu, Deus meu, por que me desamparaste?"**: Salmo 22:1 → Mateus 27:46
+- **«Deus meu, Deus meu, por que me desamparaste?»**: Salmo 22:1 → Mateus 27:46
 
 ## Morte e Sepultamento
 

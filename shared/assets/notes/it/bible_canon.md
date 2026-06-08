@@ -4,7 +4,7 @@ Questa pagina spiega come si è formata la Bibbia, che cosa hanno deciso davvero
 
 ---
 
-## Cosa significa "canone"?
+## Cosa significa «canone»?
 
 La parola *canone* significa una barra di misura o una regola.
 
@@ -286,7 +286,7 @@ Quindi i vescovi spinsero per:
 
 - libri ampiamente usati tra regioni
 
-- libri che si adattassero a ciò che vedevano come "insegnamento ortodosso"
+- libri che si adattassero a ciò che vedevano come «insegnamento ortodosso»
 
 Quest’ultima parte è dove politica e teologia si mescolarono.
 La politica non riscrisse la Scrittura, ma influenzò la sopravvivenza.
@@ -316,7 +316,7 @@ Il Libro di Enoch era antico, rispettato, e ampiamente conosciuto.
 
 - Descrive ribellione cosmica e giudizio
 
-- Presenta un "Figlio dell’Uomo" preesistente
+- Presenta un «Figlio dell’Uomo» preesistente
 
 - Influenzò fortemente l’immaginario del Nuovo Testamento
 
@@ -343,7 +343,7 @@ Fu escluso principalmente perché:
 
 Man mano che la teologia divenne più sistematizzata, Enoch divenne meno conveniente.
 
-Distrusse la teologia ordinata del "problema per lo più umano" che si sviluppò più tardi.
+Distrusse la teologia ordinata del «problema per lo più umano» che si sviluppò più tardi.
 
 Enoch dice che l’umanità non solo cadde.
 
@@ -364,8 +364,8 @@ Enoch non è semplice.
 **Ma perché è importante:**
 La lettera dell’Epistola di Giuda cita direttamente Enoch come profezia.
 
-Non "come un’illustrazione."
-Non "come una storia."
+Non «come un’illustrazione.»
+Non «come una storia.»
 
 **Come profezia.**
 

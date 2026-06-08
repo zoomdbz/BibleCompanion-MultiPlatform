@@ -99,7 +99,7 @@
 
 ### モルモン教／末日聖徒イエス・キリスト教会
 
-**別名：** LDS。LDS Church。The Church of Jesus Christ of Latter-day Saints。Latter-day Saints。Saints（メンバーの自称）。Mormons。The Brethren（最高指導部を指す）。The Quorum of the Twelve Apostles。The First Presidency。The Brighamites（歴史的呼称；ユタ州の教会を区別するため）。"Brighton Young Church"（非公式の歴史的呼称）。関連グループおよび分派には、Community of Christ（旧Reorganized LDS Church、RLDS、ミズーリ州Independence本部；ユタLDSよりも主流キリスト教に近い）、Fundamentalist Church of Jesus Christ of Latter-Day Saints（FLDS；Warren Jeffsのもとで分裂した一夫多妻制グループ）、Apostolic United Brethren（AUB）、Kingston Group（Davis County Cooperative Society）が含まれる。主流のユタ州拠点の教会は、2018年以降、議長 Russell M. Nelson のもとで「Mormon」という呼称に異議を唱え、メディアに対して正式な教会名を使用するよう求めている。
+**別名：** LDS。LDS Church。The Church of Jesus Christ of Latter-day Saints。Latter-day Saints。Saints（メンバーの自称）。Mormons。The Brethren（最高指導部を指す）。The Quorum of the Twelve Apostles。The First Presidency。The Brighamites（歴史的呼称；ユタ州の教会を区別するため）。「Brighton Young Church」（非公式の歴史的呼称）。関連グループおよび分派には、Community of Christ（旧Reorganized LDS Church、RLDS、ミズーリ州Independence本部；ユタLDSよりも主流キリスト教に近い）、Fundamentalist Church of Jesus Christ of Latter-Day Saints（FLDS；Warren Jeffsのもとで分裂した一夫多妻制グループ）、Apostolic United Brethren（AUB）、Kingston Group（Davis County Cooperative Society）が含まれる。主流のユタ州拠点の教会は、2018年以降、議長 Russell M. Nelson のもとで「Mormon」という呼称に異議を唱え、メディアに対して正式な教会名を使用するよう求めている。
 
 **創設者：** Joseph Smith Jr.、1830年。ニューヨーク州Fayetteで設立；Smithは、Moroniという名の天使がニューヨーク州Palmyra近郊に埋められた金版の場所を告げたと主張し、「透視石」を帽子の中に入れる方法でそれをモルモン書に翻訳したとされる。
 
@@ -249,7 +249,7 @@
 - Inspiration Network（INSP）：歴史的に繁栄派寄り。
 - Christian Broadcasting Network（CBN、Pat Robertson）：積極的な繁栄の教えは少ないが「シード・フェイス」献金で隣接。
 - Kenneth Copeland Ministries（KCM）：Eagle Mountain International Church、テキサス州ニューアーク。私用飛行滑走路と複数の航空機を含むCopeland帝国の本部。
-- Joel Osteen Ministries / Lakewood Church（ヒューストン）：出席者数アメリカ最大の教会、穏やかな繁栄（"Your Best Life Now"）パッケージ。
+- Joel Osteen Ministries / Lakewood Church（ヒューストン）：出席者数アメリカ最大の教会、穏やかな繁栄（「Your Best Life Now」）パッケージ。
 - Creflo Dollar Ministries / World Changers Church International（ジョージア州カレッジパーク）。
 - Jesse Duplantis Ministries（ルイジアナ州デストレハン）。2018年に5,400万ドルのDassault Falcon 7Xジェット機の資金を寄付者に求めたことで有名。
 - Joyce Meyer Ministries（ミズーリ州フェントン）。
@@ -346,7 +346,7 @@
 ---
 ### 統一教会
 
-**別名：** ムーニー（口語的、時に侮蔑的；信者はこの呼称に異議を唱える）。統一教会。統一運動。世界基督教統一神霊協会（HSA-UWC、原名）。世界平和統一家庭連合（FFWPU、1996年からの改称）。Sanctuary Church（Sun Myung Moonの息子Hyung Jin "Sean" Moonのもとでの分派；この分派はAR-15を「鉄の杖」として推進しており、統一運動の本流とは区別される）。真の家庭。フロント組織には、ワシントン・タイムズ紙、世界メディア協会、国際宗教財団、CAUSA International、アメリカ自由連合、天宙平和連合、世界平和女性連合、および（歴史的に）原理研究会（CARP、大学キャンパスでの勧誘部門）が含まれる。
+**別名：** ムーニー（口語的、時に侮蔑的；信者はこの呼称に異議を唱える）。統一教会。統一運動。世界基督教統一神霊協会（HSA-UWC、原名）。世界平和統一家庭連合（FFWPU、1996年からの改称）。Sanctuary Church（Sun Myung Moonの息子Hyung Jin 「Sean」 Moonのもとでの分派；この分派はAR-15を「鉄の杖」として推進しており、統一運動の本流とは区別される）。真の家庭。フロント組織には、ワシントン・タイムズ紙、世界メディア協会、国際宗教財団、CAUSA International、アメリカ自由連合、天宙平和連合、世界平和女性連合、および（歴史的に）原理研究会（CARP、大学キャンパスでの勧誘部門）が含まれる。
 
 **創設者：** Sun Myung Moon（1920-2012）、韓国人。1954年創設。
 

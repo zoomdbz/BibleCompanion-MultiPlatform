@@ -1,14 +1,14 @@
 # Astronomische Zeichen
 
-"Und Gott sprach: Es sollen Lichter an der Himmelsausdehnung sein, um den Tag von der Nacht zu scheiden. Und sie sollen zu **Zeichen** und **Zeiten** dienen und zu Tagen und Jahren" (1. Mose 1,14).
+„Und Gott sprach: Es sollen Lichter an der Himmelsausdehnung sein, um den Tag von der Nacht zu scheiden. Und sie sollen zu **Zeichen** und **Zeiten** dienen und zu Tagen und Jahren“ (1. Mose 1,14).
 
-Das hebräische Wort für "Zeichen" ist *otot*, dasselbe Wort, das für die Zeichen verwendet wird, die Gott Mose gab (2. Mose 4,8–9). Das Wort für "Zeiten" ist *moadim*, die festgesetzten Feste. Gott hat die Himmelskörper als Markierungen Seines prophetischen Kalenders entworfen.
+Das hebräische Wort für „Zeichen“ ist *otot*, dasselbe Wort, das für die Zeichen verwendet wird, die Gott Mose gab (2. Mose 4,8–9). Das Wort für „Zeiten“ ist *moadim*, die festgesetzten Feste. Gott hat die Himmelskörper als Markierungen Seines prophetischen Kalenders entworfen.
 
 ---
 
 ## Blutmonde und Mondfinsternisse
 
-Ein "Blutmond" entsteht bei einer totalen Mondfinsternis, wenn der Mond sich rot färbt. Joel 3,4 sagt: "Die Sonne wird in Finsternis verwandelt werden und der Mond in Blut, ehe der große und furchtbare Tag des HERRN kommt" (vgl. Apostelgeschichte 2,20; Offenbarung 6,12).
+Ein „Blutmond“ entsteht bei einer totalen Mondfinsternis, wenn der Mond sich rot färbt. Joel 3,4 sagt: „Die Sonne wird in Finsternis verwandelt werden und der Mond in Blut, ehe der große und furchtbare Tag des HERRN kommt“ (vgl. Apostelgeschichte 2,20; Offenbarung 6,12).
 
 ### Blutmond-Tetrade und Fest-Finsternisse (1493 bis 2033)
 
@@ -20,8 +20,8 @@ Eine Tetrade ist eine Folge von vier aufeinanderfolgenden totalen Mondfinsternis
 | 1949–1950 | Tetrade (4 totale Lunare) | Staat Israel wiedergeboren (14. Mai 1948) | Passover und Sukkot, beide Jahre |
 | 1967–1968 | Tetrade (4 totale Lunare) | Sechstagekrieg; Jerusalem wiedervereint | Passover und Sukkot, beide Jahre |
 | 2014–2015 | Tetrade plus 2 Sonnenfinsternisse | Am häufigsten zitierte moderne Ausrichtung | Passover und Sukkot, beide Jahre |
-| 2024 | Totale Sonnenfinsternis | "Große amerikanische Finsternis", von Küste zu Küste | Nacht vor Nisan 1 (8. Apr., 29 Adar II 5784) |
-| 2024 | Ringförmige Sonnenfinsternis | "Feuerring"-Pfad über Amerika | Rosh Hashanah (2. Okt., 1 Tishrei 5785) |
+| 2024 | Totale Sonnenfinsternis | „Große amerikanische Finsternis“, von Küste zu Küste | Nacht vor Nisan 1 (8. Apr., 29 Adar II 5784) |
+| 2024 | Ringförmige Sonnenfinsternis | „Feuerring“-Pfad über Amerika | Rosh Hashanah (2. Okt., 1 Tishrei 5785) |
 | 2025 | Totale Mondfinsternis (Blutmond) | Erste von zwei aufeinanderfolgenden Purim-Blutmonden | Purim (14. März, 14 Adar 5785) |
 | 2026 | Totale Mondfinsternis (Blutmond) | Zweiter aufeinanderfolgender Purim-Blutmond | Purim (3. März, 14 Adar 5786) |
 | 2032 | Totale Mondfinsternis (Blutmond) | Sichtbar von Israel; zweite Passover-Begehung | Pesach Scheni (25. Apr., 14 Iyyar 5792) |
@@ -38,38 +38,38 @@ Die historischen Tetraden fallen mit großen Wendepunkten der jüdischen Geschic
 Sonnenfinsternisse gelten in der jüdischen Tradition als Zeichen für die Völker (Sukka 29a). Mehrere bemerkenswerte Finsternisse fallen mit bedeutsamen Daten zusammen:
 - **20. März 2015:** Totale Sonnenfinsternis auf **Nisan 1** (das biblische Neujahr der Monate, 2. Mose 12:2), in der Mitte der Blutmond-Tetrade 2014–2015
 - **13. September 2015:** Partielle Sonnenfinsternis auf **1. Tischrei 5776, Rosh Hashanah**. Zusammen mit der Finsternis vom 20. März fielen diese beiden Sonnenfinsternisse auf die ersten Tage der zwei bedeutsamsten Monate des hebräischen Kalenders (Nisan und Tischrei) und rahmten die Blutmond-Tetrade 2014–2015 innerhalb eines einzigen Jahres ein. Die Prophezeiungslehrer Mark Biltz und John Hagee behandeln alle sechs Ereignisse (vier Blutmonde + zwei Sonnenfinsternisse) als einen einzigen Komplex.
-- **21. August 2017:** „Great American Eclipse", erste Totalfinsternis, die von Küste zu Küste in den USA sichtbar ist, seit 99 Jahren. Hebräisches Datum: **29. Av 5777**, der letzte Tag des Monats Av und die Vigil von Elul 1. Elul ist die 40-tägige Bußzeit, die zu Rosh Hashanah führt; viele messianische Lehrer bemerkten das Timing.
+- **21. August 2017:** „Great American Eclipse“, erste Totalfinsternis, die von Küste zu Küste in den USA sichtbar ist, seit 99 Jahren. Hebräisches Datum: **29. Av 5777**, der letzte Tag des Monats Av und die Vigil von Elul 1. Elul ist die 40-tägige Bußzeit, die zu Rosh Hashanah führt; viele messianische Lehrer bemerkten das Timing.
 - **8. April 2024:** Zweite Great American Eclipse; die beiden Pfade (2017 und 2024) bilden ein X über den Vereinigten Staaten
 ---
 
 ## Der Stern von Bethlehem
 
-Die Weisen sahen "seinen Stern" (Matthäus 2,2). Mehrere astronomische Ereignisse um 3–2 v. Chr. wurden vorgeschlagen:
+Die Weisen sahen „seinen Stern“ (Matthäus 2,2). Mehrere astronomische Ereignisse um 3–2 v. Chr. wurden vorgeschlagen:
 
-- **Jupiter-Regulus-Dreifachkonjunktion** (3–2 v. Chr.): Jupiter (der "Königsplanet") passierte den Stern Regulus (lateinisch für "kleiner König") im Sternbild Löwe (der Löwe = Juda) drei Mal aufgrund der Rückläufigkeit
-- **Jupiter-Venus-Konjunktion** (17. Juni 2 v. Chr.): Die zwei hellsten Planeten verschmolzen zu einem einzigen strahlenden "Stern," von Babylon aus in Richtung Judäa sichtbar
-- **Jupiters rückläufiges "Stehenbleiben"** (25. Dezember 2 v. Chr.): Von Jerusalem aus gesehen schien Jupiter direkt über Bethlehem im Süden am Himmel stillzustehen, passend zu Matthäus 2,9: "der Stern... zog vor ihnen her... und kam und stand still über dem Ort, wo das Kind war"
+- **Jupiter-Regulus-Dreifachkonjunktion** (3–2 v. Chr.): Jupiter (der „Königsplanet“) passierte den Stern Regulus (lateinisch für „kleiner König“) im Sternbild Löwe (der Löwe = Juda) drei Mal aufgrund der Rückläufigkeit
+- **Jupiter-Venus-Konjunktion** (17. Juni 2 v. Chr.): Die zwei hellsten Planeten verschmolzen zu einem einzigen strahlenden „Stern,“ von Babylon aus in Richtung Judäa sichtbar
+- **Jupiters rückläufiges „Stehenbleiben“** (25. Dezember 2 v. Chr.): Von Jerusalem aus gesehen schien Jupiter direkt über Bethlehem im Süden am Himmel stillzustehen, passend zu Matthäus 2,9: „der Stern... zog vor ihnen her... und kam und stand still über dem Ort, wo das Kind war“
 
-Dies sind keine Spekulationen; sie sind durch moderne Astronomiesoftware (z. B. Stellarium) verifiziert. Ob eines oder eine Kombination dieser Ereignisse "der Stern" war, die Übereinstimmung mit der Prophezeiung aus 4. Mose 24,17 ("Es wird ein Stern aus Jakob aufgehen") ist beeindruckend.
+Dies sind keine Spekulationen; sie sind durch moderne Astronomiesoftware (z. B. Stellarium) verifiziert. Ob eines oder eine Kombination dieser Ereignisse „der Stern“ war, die Übereinstimmung mit der Prophezeiung aus 4. Mose 24,17 („Es wird ein Stern aus Jakob aufgehen“) ist beeindruckend.
 
 ---
 
 ## Die Finsternis bei der Kreuzigung
 
-"Von der sechsten Stunde an kam eine Finsternis über das ganze Land bis zur neunten Stunde" (Matthäus 27,45; Markus 15,33; Lukas 23,44–45).
+„Von der sechsten Stunde an kam eine Finsternis über das ganze Land bis zur neunten Stunde“ (Matthäus 27,45; Markus 15,33; Lukas 23,44–45).
 
 Dies war keine Sonnenfinsternis; Passah fällt auf Vollmond, wenn Sonnenfinsternisse astronomisch unmöglich sind. Die Finsternis war übernatürlich. Allerdings versuchte der Historiker Thallus aus dem 2. Jahrhundert (zitiert von Julius Africanus), sie als Sonnenfinsternis zu erklären, und bestätigte damit unbeabsichtigt, dass die Finsternis ein weithin bekanntes historisches Ereignis war.
 
-Amos 8,9: "An jenem Tag, spricht Gott der HERR, will ich die Sonne am Mittag untergehen lassen und das Land am hellen Tag verfinstern."
+Amos 8,9: „An jenem Tag, spricht Gott der HERR, will ich die Sonne am Mittag untergehen lassen und das Land am hellen Tag verfinstern.“
 
 ---
 
 ## Das Zeichen von Offenbarung 12
 
-"Und ein großes Zeichen erschien im Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen und auf ihrem Haupt eine Krone von zwölf Sternen" (Offenbarung 12,1).
+„Und ein großes Zeichen erschien im Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen und auf ihrem Haupt eine Krone von zwölf Sternen“ (Offenbarung 12,1).
 
 REV12 BODY:
-Am **23. September 2017** war die Konstellation Jungfrau von der Sonne „bekleidet" mit dem Mond an ihren Füßen. Über ihrem Kopf bildeten die neun Sterne des Löwen plus die Planeten Merkur, Venus und Mars eine Krone aus zwölf. Der Jupiter befand sich aufgrund einer Rückläufigkeit etwa 42 Wochen lang, die Dauer der menschlichen Schwangerschaft, in Jungfraus Bauchbereich, bevor er am 9. September 2017 „austrat". Der Jupiter wird historisch als der „König-Planet" bezeichnet. Die 42-Wochen-Periode entspricht präzise den „42 Monaten" von Offenbarung 13,5 und Offenbarung 12,6 (1.260 Tage). Der Jupiter betrat Jungfraus Bauchregion am 20. November 2016.
+Am **23. September 2017** war die Konstellation Jungfrau von der Sonne „bekleidet“ mit dem Mond an ihren Füßen. Über ihrem Kopf bildeten die neun Sterne des Löwen plus die Planeten Merkur, Venus und Mars eine Krone aus zwölf. Der Jupiter befand sich aufgrund einer Rückläufigkeit etwa 42 Wochen lang, die Dauer der menschlichen Schwangerschaft, in Jungfraus Bauchbereich, bevor er am 9. September 2017 „austrat“. Der Jupiter wird historisch als der „König-Planet“ bezeichnet. Die 42-Wochen-Periode entspricht präzise den „42 Monaten“ von Offenbarung 13,5 und Offenbarung 12,6 (1.260 Tage). Der Jupiter betrat Jungfraus Bauchregion am 20. November 2016.
 
 Das hebräische Datum war **3. Tischrei 5778**, das Fasten des Gedalja, der Tag nach Rosh Hashanah.
 
@@ -101,7 +101,7 @@ Am **1. November 1948**, ungefähr 1. Kislev 5709, wurde ein glänzender Komet w
 
 **Die Große Konjunktion vom 21. Dezember 2020**
 
-Zur Wintersonnenwende am **21. Dezember 2020** (6. Tevet 5781) erschienen Jupiter und Saturn nur 0,1 Grad auseinander, die engste sichtbare Trennung seit 1623. Große Medien nannten sie den „Weihnachtsstern", weil sie den Beschreibungen des Sterns von Bethlehem ähnelt. Die Konjunktion erschien kurz nach Sonnenuntergang am westlichen Himmel in der Richtung Bethlehems von Jerusalem aus gesehen. Das hebräische Datum fällt in Tevet, einen Monat ohne Feiertage, aber die visuelle und symbolische Resonanz mit dem Bethlehem-Stern-Ereignis veranlasste viele messianische Gläubige, dies zu beachten. Die beiden Planeten werden sich bis 2080 nicht wieder so nahekommen.
+Zur Wintersonnenwende am **21. Dezember 2020** (6. Tevet 5781) erschienen Jupiter und Saturn nur 0,1 Grad auseinander, die engste sichtbare Trennung seit 1623. Große Medien nannten sie den „Weihnachtsstern“, weil sie den Beschreibungen des Sterns von Bethlehem ähnelt. Die Konjunktion erschien kurz nach Sonnenuntergang am westlichen Himmel in der Richtung Bethlehems von Jerusalem aus gesehen. Das hebräische Datum fällt in Tevet, einen Monat ohne Feiertage, aber die visuelle und symbolische Resonanz mit dem Bethlehem-Stern-Ereignis veranlasste viele messianische Gläubige, dies zu beachten. Die beiden Planeten werden sich bis 2080 nicht wieder so nahekommen.
 
 **Komet NEOWISE (2020)**
 
@@ -113,7 +113,7 @@ Der Frühling und Sommer 2026 bringen zusätzliche Ausrichtungen:
 
 - **9. Juni 2026:** Jupiter-Venus-Konjunktion am Abendhimmel. Jupiter-Venus-Konjunktionen sind die Klasse von Ereignissen, die am häufigsten als Kandidaten für den Stern von Bethlehem vorgeschlagen werden.
 - **12. Juni 2026:** Merkur, Venus und Jupiter in Ausrichtung am Abendhimmel sichtbar.
-- **20. Februar 2026:** Saturn-Neptun-Konjunktion bei 0° Widder, dem Zodiakus-„Rücksetzen-Punkt". Diese Konjunktion tritt alle 36 Jahre auf; die exakte Ausrichtung am Anfang des Widders ist selten.
+- **20. Februar 2026:** Saturn-Neptun-Konjunktion bei 0° Widder, dem Zodiakus-„Rücksetzen-Punkt“. Diese Konjunktion tritt alle 36 Jahre auf; die exakte Ausrichtung am Anfang des Widders ist selten.
 ## 2024–2026: Eine Häufung himmlischer Zeichen
 
 Eine ungewöhnliche Konzentration von Finsternissen, die mit hebräischen Festtagen übereinstimmen, trat in den Jahren 2024–2026 auf. Die folgenden Daten sind durch den Finsternis-Katalog der NASA und den hebräischen Kalender Hebcal verifiziert.
@@ -130,7 +130,7 @@ Aufeinanderfolgende Blutmonde am selben Fest in aufeinanderfolgenden Jahren habe
 ### Sonnenfinsternisse
 
 - **8. April 2024:** Totale Sonnenfinsternis über Nordamerika. Hebräisches Datum: 29 Adar II, der letzte Tag vor Nisan 1 (das biblische Neujahr), das bei Sonnenuntergang begann.
-- **2. Oktober 2024:** Ringförmige („Feuerring") Sonnenfinsternis auf **1 Tischrei 5785, Rosh Hashanah, das Fest der Posaunen (Yom Teruah)**.
+- **2. Oktober 2024:** Ringförmige („Feuerring“) Sonnenfinsternis auf **1 Tischrei 5785, Rosh Hashanah, das Fest der Posaunen (Yom Teruah)**.
 - **12. August 2026:** Totale Sonnenfinsternis (Bahn über der Iberischen Halbinsel und Nordafrika). Hebräisches Datum: 29 Av, keine Festübereinstimmung.
 
 **Sonnenstürme vor dem Purim-Blutmond 2026**
@@ -141,4 +141,4 @@ Am **1.–5. Februar 2026** brach die aktive Region AR4366, eine Sonnenfleckengr
 
 Dieser Zeitraum erzeugt keine Tetrade (vier aufeinanderfolgende totale Mondfinsternisse an Pessach und Sukkot, die letzte war 2014–2015). Was 2024–2026 bietet, ist ein eigenständiges Muster: eine Sonnenfinsternis an Rosh Hashanah, zwei aufeinanderfolgende Purim-Blutmonde und ein außergewöhnlicher Sonnensturm vor dem zweiten.
 
-Lukas 21:25, *„Es werden Zeichen geschehen an Sonne und Mond und Sternen."* Diese Übereinstimmungen sind dokumentierte Fakten. Ihre letztendliche Bedeutung gehört Gott allein.
+Lukas 21:25, *„Es werden Zeichen geschehen an Sonne und Mond und Sternen.“* Diese Übereinstimmungen sind dokumentierte Fakten. Ihre letztendliche Bedeutung gehört Gott allein.

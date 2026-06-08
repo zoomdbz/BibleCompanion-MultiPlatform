@@ -81,64 +81,108 @@ internal fun applyDivineName(
     else -> "Yahweh"
   }
   val r = wrap(base)
-  // Universal pass: the Latin/English Tetragrammaton tokens (LORD constructs,
-  // YHWH, YHVH, Yahweh, Yahuah, Yah) appear as transliterations in EVERY
-  // language's study notes (Christophanies etc.), so they must transform for
-  // any `lk`, not just English. BSB all-caps GOD pair-rules (Hab 3:19, Isa
-  // 12:2, Isa 26:4, Ps 109:21, Ps 140:7, Ps 141:8) run first; the Acts 17:23
-  // "UNKNOWN GOD" inscription is left alone. Each language adds its localized
-  // token to `latin` below.
+  // Universal pass for the Latin/English Tetragrammaton (appears in study notes
+  // of every language, and in English verses). The name is a proper noun, so the
+  // definite article that "the LORD" carries is DROPPED in the name modes
+  // ("the angel of the LORD" -> "the angel of Yahweh"). The bare-name regex runs
+  // FIRST so the wrapped name inserted by later rules is never re-matched (no
+  // double [DN] wrap). BSB pair constructions: "Lord GOD" = Adonai + the
+  // Tetragrammaton, so "Lord" stays and GOD becomes the name ("Lord Yahweh");
+  // "GOD the Lord" = Tetragrammaton + Adonai; the rare Yah-YHWH doublings
+  // (Isa 12:2; 26:4) collapse to one name. Acts 17:23 "UNKNOWN GOD" is untouched.
   val latin = text
-    .replace("LORD GOD", "$r God")
-    .replace("GOD the LORD", "$r the LORD")
+    .replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b"), r)
+    .replace("the LORD GOD", r)
+    .replace("GOD the LORD", r)
+    .replace("LORD GOD", r)
     .replace("GOD the Lord", "$r the Lord")
     .replace("GOD, the Lord", "$r, the Lord")
-    .replace("the LORD", "the $r")
-    .replace("The LORD", "The $r")
+    .replace("Lord GOD", "Lord $r")
+    .replace("the LORD", r)
+    .replace("The LORD", r)
     .replace("THE LORD", r)
     .replace(Regex("\\bLORD\\b"), r)
-    .replace("Lord GOD", "${wrap(base)} God")
-    .replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b"), r)
   return when (lk) {
     "en" -> latin
     "es" -> latin
-      .replace("el SEÑOR", "el $r")
-      .replace("El SEÑOR", "El $r")
+      .replace("del SEÑOR", "de $r")
+      .replace("al SEÑOR", "a $r")
+      .replace("El SEÑOR", r)
+      .replace("el SEÑOR", r)
       .replace(uwb("SEÑOR"), r)
       .replace(uwb("Jehová"), r)
       .replace(uwb("Yahveh"), r)
     "pt" -> {
       var t = latin
-        .replace("o SENHOR", "o $r")
-        .replace("O SENHOR", "O $r")
+        .replace("do SENHOR", "de $r")
+        .replace("ao SENHOR", "a $r")
+        .replace("O SENHOR", r)
+        .replace("o SENHOR", r)
         .replace(uwb("SENHOR"), r)
         .replace(uwb("Javé"), r)
-      if (isOt) t = t.replace(uwb("Senhor"), r)
+      // "Senhor" (mixed case) is overloaded: the Tetragrammaton in the OT but
+      // "the Lord (Jesus)" in the NT, so only convert it in OT context. Drop the
+      // article and fix the Portuguese contractions (do/ao/no).
+      if (isOt) t = t
+        .replace("do Senhor", "de $r")
+        .replace("ao Senhor", "a $r")
+        .replace("no Senhor", "em $r")
+        .replace("O Senhor", r)
+        .replace("o Senhor", r)
+        .replace(uwb("Senhor"), r)
       t
     }
     "fr" -> latin
-      .replace("l\u2019ÉTERNEL", "l\u2019$r")
-      .replace("l'ÉTERNEL", "l'$r")
-      .replace("L\u2019ÉTERNEL", "L\u2019$r")
-      .replace("L'ÉTERNEL", "L'$r")
+      // French stores the divine name as mixed-case "l'Éternel"; the elided
+      // article l' is part of the token, so dropping it leaves any preposition
+      // intact ("de l'Éternel" -> "de Yahweh"). Cover straight (') and curly
+      // (U+2019) apostrophes. The all-caps ÉTERNEL forms are legacy.
+      .replace("l'Éternel", r)
+      .replace("l’Éternel", r)
+      .replace("L'Éternel", r)
+      .replace("L’Éternel", r)
+      .replace("l'ÉTERNEL", r)
+      .replace("l’ÉTERNEL", r)
+      .replace("L'ÉTERNEL", r)
+      .replace("L’ÉTERNEL", r)
       .replace(uwb("ÉTERNEL"), r)
       .replace(uwb("Éternel"), r)
+      .replace("du SEIGNEUR", "de $r")
+      .replace("au SEIGNEUR", "à $r")
+      .replace("Le SEIGNEUR", r)
+      .replace("le SEIGNEUR", r)
       .replace(Regex("\\bSEIGNEUR\\b"), r)
     "de" -> latin
-      .replace("der HERR", "der $r")
-      .replace("Der HERR", "Der $r")
-      .replace("dem HERRN", "dem $r")
-      .replace("des HERRN", "des $r")
+      // Drop the German article; the name is uninflected except the genitive
+      // "des HERRN" -> "Yahwehs" (Saxon genitive), and the dem/zum/vom/am
+      // contractions keep their preposition ("zum HERRN" -> "zu Yahweh").
+      .replace("des HERRN", "${r}s")
+      .replace("zum HERRN", "zu $r")
+      .replace("vom HERRN", "von $r")
+      .replace("am HERRN", "an $r")
+      .replace("Der HERR", r)
+      .replace("der HERR", r)
+      .replace("dem HERRN", r)
+      .replace("den HERRN", r)
       .replace(Regex("\\bHERRN?\\b"), r)
       .replace(Regex("\\bJahwe\\b"), r)
     "it" -> {
       var t = latin
-        .replace("il SIGNORE", "il $r")
-        .replace("Il SIGNORE", "Il $r")
-        .replace("del SIGNORE", "del $r")
-        .replace("al SIGNORE", "al $r")
+        .replace("del SIGNORE", "di $r")
+        .replace("al SIGNORE", "a $r")
+        .replace("Il SIGNORE", r)
+        .replace("il SIGNORE", r)
         .replace(Regex("\\bSIGNORE\\b"), r)
-      if (isOt) t = t.replace(Regex("\\bSignore\\b"), r)
+      // "Signore" (mixed case) is overloaded (NT "il Signore Gesù"), so only in
+      // OT context. Drop the article and fix contractions (del/dal/nel/al).
+      if (isOt) t = t
+        .replace("del Signore", "di $r")
+        .replace("dal Signore", "da $r")
+        .replace("nel Signore", "in $r")
+        .replace("al Signore", "a $r")
+        .replace("Il Signore", r)
+        .replace("il Signore", r)
+        .replace(Regex("\\bSignore\\b"), r)
       t
     }
     "ru" -> {

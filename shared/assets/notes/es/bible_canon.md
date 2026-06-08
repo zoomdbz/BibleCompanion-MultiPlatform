@@ -4,7 +4,7 @@ Esta página explica cómo se formó la Biblia, qué decidieron realmente los pr
 
 ---
 
-## ¿Qué significa "canon"?
+## ¿Qué significa «canon»?
 
 La palabra *canon* significa una vara de medir o una regla.
 
@@ -286,7 +286,7 @@ Entonces obispos empujaron por:
 
 - libros ampliamente usados entre regiones
 
-- libros que encajaran con lo que ellos veían como "enseñanza ortodoxa"
+- libros que encajaran con lo que ellos veían como «enseñanza ortodoxa»
 
 Esa última parte es donde política y teología se mezclaron.
 La política no reescribió la Escritura, pero influyó en la supervivencia.
@@ -316,7 +316,7 @@ El Libro de Enoc era antiguo, respetado, y ampliamente conocido.
 
 - Describe rebelión cósmica y juicio
 
-- Presenta un "Hijo del Hombre" preexistente
+- Presenta un «Hijo del Hombre» preexistente
 
 - Influyó fuertemente imaginería del Nuevo Testamento
 
@@ -343,7 +343,7 @@ Fue excluido principalmente porque:
 
 A medida que la teología se volvió más sistematizada, Enoc se volvió menos conveniente.
 
-Destrozó la teología ordenada del "problema mayormente humano" que se desarrolló después.
+Destrozó la teología ordenada del «problema mayormente humano» que se desarrolló después.
 
 Enoc dice humanidad no solo cayó.
 
@@ -364,8 +364,8 @@ Enoc no es simple.
 **Pero por qué es importante:**
 La carta de la Epístola de Judas directamente cita Enoc como profecía.
 
-No "como una ilustración."
-No "como una historia."
+No «como una ilustración.»
+No «como una historia.»
 
 **Como profecía.**
 

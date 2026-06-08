@@ -6,10 +6,10 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 1. Como recebemos a Bíblia
 
-**(Lucas 1:1–4)**: “Muitos empreenderam compor uma narrativa… eu mesmo investiguei tudo cuidadosamente… para que saibas a certeza das coisas que te foram ensinadas.”  
+**(Lucas 1:1–4)**: «Muitos empreenderam compor uma narrativa… eu mesmo investiguei tudo cuidadosamente… para que saibas a certeza das coisas que te foram ensinadas.»  
 ➡ Lucas mostra que os primeiros cristãos documentaram cuidadosamente os acontecimentos.
 
-**(2 Timóteo 3:16)**: “Toda a Escritura é inspirada por Deus e útil para ensinar, repreender, corrigir e instruir em justiça.”  
+**(2 Timóteo 3:16)**: «Toda a Escritura é inspirada por Deus e útil para ensinar, repreender, corrigir e instruir em justiça.»  
 ➡ A Escritura afirma sua origem divina.
 
 **História:** As primeiras listas de coleção (Fragmento Muratoriano, cerca de 170 d.C.) já mostravam debates sobre quais livros incluir. Os concílios de Hipona (393) e Cartago (397) aprovaram formalmente o cânon. Jerônimo traduziu a Vulgata Latina por volta de 382, que se tornou o padrão por mais de mil anos. A imprensa na década de 1440 deu às pessoas comuns acesso direto pela primeira vez.
@@ -35,11 +35,11 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 2. Problemas de tradução e interpretação
 
-- **(Neemias 8:8)**: "Liam claramente no livro da Lei de Deus e explicavam o sentido, para que o povo entendesse."
+- **(Neemias 8:8)**: «Liam claramente no livro da Lei de Deus e explicavam o sentido, para que o povo entendesse.»
 
 - ➡ A Bíblia foi dada para ser compreendida.
 
-- **História:** A Septuaginta (séculos III–II a.C.), a Vulgata com distorções ("arrepender-se" tornou-se "fazer penitência"), a KJV de 1611 influenciada pela política, e os Manuscritos do Mar Morto mostraram diversidade textual.
+- **História:** A Septuaginta (séculos III–II a.C.), a Vulgata com distorções («arrepender-se» tornou-se «fazer penitência»), a KJV de 1611 influenciada pela política, e os Manuscritos do Mar Morto mostraram diversidade textual.
 
 - **Conclusão:** Traduções importam. Palavras moldam doutrinas inteiras.
 
@@ -47,10 +47,10 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 3. Igreja e política
 
-**(Mateus 23:27–28)**: “Ai de vós, escribas e fariseus… sois como sepulcros caiados.”  
+**(Mateus 23:27–28)**: «Ai de vós, escribas e fariseus… sois como sepulcros caiados.»  
 ➡ Jesus condenou líderes religiosos que pareciam santos por fora mas eram corruptos por dentro.
 
-**(Atos 5:29)**: “Antes importa obedecer a Deus do que aos homens.”  
+**(Atos 5:29)**: «Antes importa obedecer a Deus do que aos homens.»  
 ➡ Os apóstolos resistiram ao controle político-religioso.
 
 **História:**
@@ -72,7 +72,7 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 4. Perseguição e movimentos de reforma
 
-- **(João 16:2)**: "Quem vos matar pensará que está prestando culto a Deus."
+- **(João 16:2)**: «Quem vos matar pensará que está prestando culto a Deus.»
 
 - ➡ Jesus previu perseguição.
 
@@ -84,11 +84,11 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 5. Textos perdidos e suprimidos
 
-- **(Judas 1:14–15)**: "Enoque profetizou..."
+- **(Judas 1:14–15)**: «Enoque profetizou...»
 
 - ➡ Judas cita Enoque.
 
-- **(Colossenses 4:16)**: "Leiam também a carta de Laodiceia."
+- **(Colossenses 4:16)**: «Leiam também a carta de Laodiceia.»
 
 - ➡ Uma carta perdida é mencionada.
 
@@ -107,13 +107,13 @@ O *Livro de Enoque* foi amplamente lido nas comunidades judaicas e cristãs, cit
 
 ### **Por que é importante**
 
-* **Preenche lacunas do Gênesis**: Explica Gênesis 6: quem eram os “filhos de Deus” e os “Nephilim”, como os anjos caídos (os Vigilantes) corromperam a criação e a origem dos demônios.
+* **Preenche lacunas do Gênesis**: Explica Gênesis 6: quem eram os «filhos de Deus» e os «Nephilim», como os anjos caídos (os Vigilantes) corromperam a criação e a origem dos demônios.
 
 * **Ecos do Apocalipse**: Descreve sinais cósmicos (sol escurecido, estrelas caindo, terra tremendo), juízos angélicos e a destruição final dos ímpios, alinhando-se de perto com os selos e trombetas do Apocalipse.
 
 * **O Filho do Homem revelado**: Profetiza o Filho do Homem pré-existente, entronizado nos céus, vindo para julgar reis e nações, linguagem que Jesus ecoa diretamente em Mateus 24–25.
 
-* **“À nossa imagem” explicado**: Mostra que Jesus existia desde o princípio com o Pai, conectando-se a Gênesis 1:26 (“Façamos o homem à nossa imagem”).
+* **«À nossa imagem» explicado**: Mostra que Jesus existia desde o princípio com o Pai, conectando-se a Gênesis 1:26 («Façamos o homem à nossa imagem»).
 
 * **Ponte entre Antigo e Novo**: Conecta a expectativa apocalíptica judaica inicial com a profecia do Novo Testamento, tornando o Apocalipse mais claro.
 
@@ -125,7 +125,7 @@ O *Livro de Enoque* foi amplamente lido nas comunidades judaicas e cristãs, cit
 
 * Os concílios da igreja (século IV) o excluíram, alegando falta de autoridade apostólica além de Judas.
 
-* Suas descrições detalhadas de anjos, demônios e juízo foram vistas como “muito perigosas” para o controle sob Roma.
+* Suas descrições detalhadas de anjos, demônios e juízo foram vistas como «muito perigosas» para o controle sob Roma.
 
 * A Igreja Etíope, intocada pela política romana, o preservou como Escritura até hoje.
 
@@ -165,7 +165,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 ## 6. Festas Tomadas Emprestadas (Sincretismo)
 
-**(Jeremias 10:2–4)**: "Não aprendais o caminho das nações... Pois um corta do bosque um madeiro, obra das mãos do artífice com machado. Com prata e com ouro o enfeitam; com pregos e com martelo o fixam, para que não oscile."
+**(Jeremias 10:2–4)**: «Não aprendais o caminho das nações... Pois um corta do bosque um madeiro, obra das mãos do artífice com machado. Com prata e com ouro o enfeitam; com pregos e com martelo o fixam, para que não oscile.»
 
 ➡ Um aviso contra a adoção de costumes pagãos.
 
@@ -179,15 +179,15 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - Josefo (*Antiguidades Judaicas* 17.6–9) descreve a doença final de Herodes, o eclipse e a Páscoa. A maioria dos estudiosos considera 4 a.C. como o ano da morte, enquanto uma minoria defende 1 a.C., baseando-se em um eclipse posterior.
 
-- Lucas 2 associa o nascimento a um recenseamento. O famoso recenseamento de Quirino ocorreu no ano 6 d.C., o que é muito tarde, mas algumas hipóteses são propostas: (1) Lucas refere-se a um recenseamento local anterior, (2) o texto grego pode ser lido como “antes de Quirino ser governador da Síria.” Nenhuma dessas propostas altera o marco histórico de 6–4 a.C.
+- Lucas 2 associa o nascimento a um recenseamento. O famoso recenseamento de Quirino ocorreu no ano 6 d.C., o que é muito tarde, mas algumas hipóteses são propostas: (1) Lucas refere-se a um recenseamento local anterior, (2) o texto grego pode ser lido como «antes de Quirino ser governador da Síria.» Nenhuma dessas propostas altera o marco histórico de 6–4 a.C.
 
 - Lucas 2:8 menciona pastores vivendo nos campos com seus rebanhos durante a noite. Os invernos nas colinas da Judeia são frios e úmidos (temperaturas noturnas frequentemente de 4–7 °C, com geadas e chuvas ocasionais). A vigília noturna ao ar livre corresponde melhor à primavera (época do nascimento dos cordeiros) ou ao outono (pastoreio pós-colheita), não ao inverno.
 
 - Roma celebrava a **Saturnália** em dezembro com enfeites de vegetação, banquetes e inversões de papéis sociais.
 
-- O imperador Aureliano instituiu 25 de dezembro no ano 274 d.C. como a festa de *Sol Invictus* (“o Sol Invicto”), celebrando o renascimento do sol após o solstício de inverno.
+- O imperador Aureliano instituiu 25 de dezembro no ano 274 d.C. como a festa de *Sol Invictus* («o Sol Invicto»), celebrando o renascimento do sol após o solstício de inverno.
 
-- No século IV, os cristãos colocaram a festa do Nascimento de Cristo nessa mesma data, reinterpretando-a como a vinda de Cristo, a “luz verdadeira do mundo” (João 8:12).
+- No século IV, os cristãos colocaram a festa do Nascimento de Cristo nessa mesma data, reinterpretando-a como a vinda de Cristo, a «luz verdadeira do mundo» (João 8:12).
 
 - As vozes cristãs primitivas foram diversas: Orígenes rejeitou totalmente a celebração de aniversários; Hipólito já propusera 25 de dezembro no século III; João Crisóstomo (386 d.C.) testemunhou a aceitação geral. A escolha foi simbólica, não uma data histórica preservada.
 
@@ -209,7 +209,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - Estes são os candidatos mais fortes porque unem Páscoa, sexta-feira e o governo de Pilatos.
 
-- As evidências astronômicas reforçam o ano 33: em **3 de abril de 33 d.C.**, ocorreu um eclipse lunar parcial ao pôr da lua em Jerusalém. Esta “lua de sangue” pode remeter a Atos 2:20 (“a lua se tornará em sangue”). Humphreys e Waddington (1985) destacaram essa coincidência como um forte apoio.
+- As evidências astronômicas reforçam o ano 33: em **3 de abril de 33 d.C.**, ocorreu um eclipse lunar parcial ao pôr da lua em Jerusalém. Esta «lua de sangue» pode remeter a Atos 2:20 («a lua se tornará em sangue»). Humphreys e Waddington (1985) destacaram essa coincidência como um forte apoio.
 
 - Assim, a maioria dos estudiosos restringe a crucificação a **7 de abril de 30 d.C.** ou **3 de abril de 33 d.C.**, sendo a última geralmente preferida.
 
@@ -221,7 +221,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - Posteriormente, a Europa incorporou símbolos sazonais: ovos, lebres e imagens de fertilidade ligadas à primavera.
 
-- O nome inglês “Easter” vem de Beda, que mencionou um nome de mês local (*Eosturmonath*). A maioria das línguas mantém formas de “Pascha.” As alegações populares sobre Ishtar são difundidas, mas debatidas; não existem textos antigos diretos, embora a adoção de símbolos de fertilidade fosse comum.
+- O nome inglês «Easter» vem de Beda, que mencionou um nome de mês local (*Eosturmonath*). A maioria das línguas mantém formas de «Pascha.» As alegações populares sobre Ishtar são difundidas, mas debatidas; não existem textos antigos diretos, embora a adoção de símbolos de fertilidade fosse comum.
 
 ---
 
@@ -237,7 +237,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - Roma celebrava a **Saturnália** com vegetação e banquetes.
 
-- O “aniversário do sol” (*Sol Invictus*, 25 de dezembro) foi associado ao Natal.
+- O «aniversário do sol» (*Sol Invictus*, 25 de dezembro) foi associado ao Natal.
 
 - A Páscoa acumulou imagens primaverais e de fertilidade (ovos, lebres) de **costumes regionais europeus**; a alegação popular que a vincula a **Ishtar** é etimologicamente infundada.
 
@@ -306,7 +306,7 @@ Não é ordenado nas Escrituras; 25 de dezembro foi adotado dos festivais romano
 (Jeremias 10:2–4) (Deuteronômio 12:29–32) (Marcos 7:8–9)
 
 **Páscoa (Easter)**  
-Originalmente a festa da ressurreição da Páscoa (*Pesach*); mais tarde misturada com símbolos de fertilidade e solares após o Concílio de Niceia. O nome inglês “Easter” vem de costumes locais da primavera, não das Escrituras.  
+Originalmente a festa da ressurreição da Páscoa (*Pesach*); mais tarde misturada com símbolos de fertilidade e solares após o Concílio de Niceia. O nome inglês «Easter» vem de costumes locais da primavera, não das Escrituras.  
 (Êxodo 12:14) (1 Coríntios 5:7–8) (Atos 12:4) (Colossenses 2:16–17)
 
 **Halloween (Véspera de Todos os Santos)**  
@@ -340,19 +340,19 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 - Finegan, Jack. *Handbook of Biblical Chronology*. Ed. revisada. Peabody: Hendrickson, 1998.
 
-- Humphreys, C. J., & Waddington, W. G. “The Date of the Crucifixion.” *Journal of the American Scientific Affiliation* 37, no. 1 (1985): 2–10.
+- Humphreys, C. J., & Waddington, W. G. «The Date of the Crucifixion.» *Journal of the American Scientific Affiliation* 37, no. 1 (1985): 2–10.
 
-- Encyclopaedia Britannica. “Saturnalia.” Consultado em 2025.
+- Encyclopaedia Britannica. «Saturnalia.» Consultado em 2025.
 
-- Encyclopaedia Britannica. “Sol Invictus.” Consultado em 2025.
+- Encyclopaedia Britannica. «Sol Invictus.» Consultado em 2025.
 
-- Encyclopaedia Britannica. “Easter.” Consultado em 2025.
+- Encyclopaedia Britannica. «Easter.» Consultado em 2025.
 
 - Orígenes. *Homilias sobre Levítico*. Século III.
 
 - João Crisóstomo. *Homilia sobre a Natividade*. 386 d.C.
 
-- Talmon, Shemaryahu. “The Concept of the Calendar and the Chronology of the Crucifixion.” *Biblical Archaeologist* 28, no. 3 (1965).
+- Talmon, Shemaryahu. «The Concept of the Calendar and the Chronology of the Crucifixion.» *Biblical Archaeologist* 28, no. 3 (1965).
 
 - Beda, o Venerável. *De temporum ratione* (O cálculo do tempo), cap. 15 (Eostre).
 
@@ -362,11 +362,11 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 ## 7. Mecanismos de controle
 
-- **(Oseias 4:6)**: "Meu povo perece por falta de conhecimento."
+- **(Oseias 4:6)**: «Meu povo perece por falta de conhecimento.»
 
 - ➡ Falta de verdade destrói.
 
-- **(Mateus 23:13)**: "Vocês fecham o Reino dos céus diante dos homens."
+- **(Mateus 23:13)**: «Vocês fecham o Reino dos céus diante dos homens.»
 
 - ➡ Líderes bloquearam o acesso a Deus.
 
@@ -378,10 +378,10 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 ## 8. Ecos modernos
 
-**(2 Timóteo 4:3–4)**: “Pois virá tempo em que não suportarão a sã doutrina… amontoarão mestres segundo as suas próprias cobiças.”  
+**(2 Timóteo 4:3–4)**: «Pois virá tempo em que não suportarão a sã doutrina… amontoarão mestres segundo as suas próprias cobiças.»  
 ➡ A Escritura adverte contra a distorção por conforto e poder.
 
-**História:** Os debates modernos sobre traduções, linguagem inclusiva e sexualidade refletem antigas lutas por controle. O evangelho da prosperidade ensina que a riqueza é vontade de Deus, semelhante à época medieval em que a igreja vendia indulgências (basicamente “ingressos para o céu” em troca de dinheiro). Hoje o cristianismo está dividido em dezenas de milhares de denominações, muitas mais moldadas por cultura, tradição ou política do que pelas palavras do próprio Jesus. Em todo o mundo a perseguição volta a crescer, e a verdade bíblica é ignorada ou moldada aos desejos da sociedade.
+**História:** Os debates modernos sobre traduções, linguagem inclusiva e sexualidade refletem antigas lutas por controle. O evangelho da prosperidade ensina que a riqueza é vontade de Deus, semelhante à época medieval em que a igreja vendia indulgências (basicamente «ingressos para o céu» em troca de dinheiro). Hoje o cristianismo está dividido em dezenas de milhares de denominações, muitas mais moldadas por cultura, tradição ou política do que pelas palavras do próprio Jesus. Em todo o mundo a perseguição volta a crescer, e a verdade bíblica é ignorada ou moldada aos desejos da sociedade.
 
 **Conclusão:** O ciclo de distorção, poder e divisão continua hoje. Mas o avivamento ainda é possível. O avivamento não começa com programas ou movimentos, mas quando o povo de Deus se arrepende, abandona o compromisso e retorna à autoridade de sua Palavra. O mesmo Espírito que ressuscitou Jesus dentre os mortos ainda chama a igreja a despertar, a andar na verdade e a brilhar como luz em um mundo escuro.
 
@@ -389,10 +389,10 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 ## 9. Por que a Bíblia ainda é confiável
 
-**(Isaías 40:8)**: “A relva seca e a flor cai, mas a palavra do nosso Deus permanece para sempre.”  
+**(Isaías 40:8)**: «A relva seca e a flor cai, mas a palavra do nosso Deus permanece para sempre.»  
 ➡ Deus prometeu preservar a sua palavra.
 
-**(Mateus 24:35)**: “O céu e a terra passarão, mas as minhas palavras jamais passarão.”  
+**(Mateus 24:35)**: «O céu e a terra passarão, mas as minhas palavras jamais passarão.»  
 ➡ Jesus garantiu a permanência das suas palavras.
 
 **História:**

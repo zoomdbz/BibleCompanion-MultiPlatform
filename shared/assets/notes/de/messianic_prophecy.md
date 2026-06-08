@@ -41,7 +41,7 @@ Die hebräischen Schriften enthalten über 300 Prophezeiungen, die auf den Messi
 - **Kein Knochen gebrochen**: Psalm 34,21; 2. Mose 12,46 → Johannes 19,33–36
 - **Seite durchbohrt**: Sacharja 12,10 → Johannes 19,34.37
 - **Finsternis über dem Land**: Amos 8,9 → Matthäus 27,45
-- **"Mein Gott, mein Gott, warum hast du mich verlassen?"**: Psalm 22,2 → Matthäus 27,46
+- **„Mein Gott, mein Gott, warum hast du mich verlassen?“**: Psalm 22,2 → Matthäus 27,46
 
 ## Tod und Begräbnis
 

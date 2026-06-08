@@ -51,7 +51,7 @@ E
   - Hebraico: בֵּן (*ben*)  
   - Grego (LXX): υἱός (*huios*)  
   - Aramaico: בַּר (*bar*)  
-  - **Português:** “Filho”  
+  - **Português:** «Filho»  
   - *Contexto: O rei davídico é chamado de filho de Deus; aplicado a Jesus como verdadeiro Filho de Deus.*  
 
 -  Salmo 2:7: «Tu és meu filho; hoje eu te gerei».  
@@ -59,7 +59,7 @@ E
   - Hebraico: בְּנִי אַתָּה (*beni attah*)  
   - Grego (LXX): υἱός μου εἶ σύ (*huios mou ei sy*)  
   - Aramaico: אַתְּ בְּרִי (*att bri*)  
-  - **Português:** “Tu és meu filho”  
+  - **Português:** «Tu és meu filho»  
   - *Contexto: Salmo de entronização real que identifica o Messias como Filho de Deus.*  
 
 -  Salmo 110:1: «O Senhor disse ao meu Senhor».  
@@ -67,7 +67,7 @@ E
   - Hebraico: לַאדֹנִי (*la’adoni*)  
   - Grego (LXX): τῷ κυρίῳ μου (*tō kyriō mou*)  
   - Aramaico: לְמָרִי (*l’mari*)  
-  - **Português:** “Meu Senhor”  
+  - **Português:** «Meu Senhor»  
   - *Contexto: Um segundo Senhor é entronizado com autoridade divina; Jesus aplica isso a si mesmo.*  
 
 -  Isaías 9:6: A criança com títulos divinos, trono de Davi.  
@@ -75,7 +75,7 @@ E
   - Hebraico: אֵל גִּבּוֹר (*El Gibbor*)  
   - Grego (LXX): ἄγγελος μεγάλης βουλῆς (*angelos megalēs boulēs*)  
   - Aramaico: אֱלָהּ גִּבָּר (*elah gibbar*)  
-  - **Português:** “Deus Poderoso”  
+  - **Português:** «Deus Poderoso»  
   - *Contexto: Profecia de uma criança divina que reinará no trono de Davi; os títulos pertencem somente a Deus.*  
 
 -  Daniel 7:13: «Um como filho de homem» recebe domínio.  
@@ -83,7 +83,7 @@ E
   - Hebraico/Aramaico: כְּבַר אֱנָשׁ (*ke-bar enash*)  
   - Grego (LXX/OG): ὡς υἱὸς ἀνθρώπου (*hōs huios anthrōpou*)  
   - Aramaico (original): בַּר אֱנָשׁ (*bar enash*)  
-  - **Português:** “Filho do Homem”  
+  - **Português:** «Filho do Homem»  
   - *Contexto: Visão de uma figura celestial entronizada com domínio eterno; Jesus aplica esse título a si mesmo.*  
 
 **Referências do Novo Testamento fora dos Evangelhos**  
@@ -97,7 +97,7 @@ E
 
 
 **Notas para leitores**  
--  “Filho de Deus” no quadro real-messiânico equivale ao Rei ungido que traz o governo de Deus. Nos Evangelhos, este título vai além da metáfora real. A voz direta do Pai, o relacionamento único de Jesus e suas obras divinas redefinem o título com solidariedade divina.  
+-  «Filho de Deus» no quadro real-messiânico equivale ao Rei ungido que traz o governo de Deus. Nos Evangelhos, este título vai além da metáfora real. A voz direta do Pai, o relacionamento único de Jesus e suas obras divinas redefinem o título com solidariedade divina.  
 
 
 ---
@@ -111,7 +111,7 @@ E
   - Hebraico: דְּבַר יְהוָה (*d’var YHWH*)  
   - Grego: λόγος (*logos*)  
   - Aramaico: מֵימְרָא (*memra*)  
-  - **Português:** “Verbo/Palavra”  
+  - **Português:** «Verbo/Palavra»  
   - *Contexto: O Logos/Verbo é identificado como Deus e se fez carne em Jesus.*  
 
 -  João 8:58: «Antes que Abraão existisse, Eu Sou».  
@@ -119,7 +119,7 @@ E
   - Hebraico (Êxodo 3:14): אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Grego: ἐγώ εἰμι (*egō eimi*)  
   - Aramaico: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
-  - **Português:** “EU SOU”  
+  - **Português:** «EU SOU»  
   - *Contexto: Jesus aplica a si mesmo o nome divino da auto-revelação do Êxodo.*  
 
 -  João 10:30: «O Pai e eu somos um».  
@@ -127,7 +127,7 @@ E
   - Hebraico: אֶחָד (*echad*)  
   - Grego: ἕν (*hen*)  
   - Aramaico: חַד (*chad*)  
-  - **Português:** “Um”  
+  - **Português:** «Um»  
   - *Contexto: Declaração de unidade com o Pai; os ouvintes o acusam de blasfêmia.*  
 
 -  João 20:28: «Meu Senhor e meu Deus!»  
@@ -135,7 +135,7 @@ E
   - Hebraico: אֲדֹנִי וֵאלֹהַי (*adonai v’elohai*)  
   - Grego: ὁ κύριός μου καὶ ὁ θεός μου (*ho kurios mou kai ho theos mou*)  
   - Aramaico: מָרִי וֵאלָהִי (*mari v’elahi*)  
-  - **Português:** “Meu Senhor e meu Deus”  
+  - **Português:** «Meu Senhor e meu Deus»  
   - *Contexto: Tomé confessa diretamente o Jesus ressuscitado como Senhor e Deus.*  
 
 **Prerrogativas e ações divinas que implicam a divindade**  
@@ -153,7 +153,7 @@ E
   - Hebraico: בְּשֵׁם (*b’shem*)  
   - Grego: ὄνομα (*onoma*)  
   - Aramaico: שְׁמָא (*shema*)  
-  - **Português:** “Nome (singular)”  
+  - **Português:** «Nome (singular)»  
   - *Contexto: Um único nome compartilhado pelo Pai, Filho e Espírito: unidade divina.*  
 
 -  João 14–16: Jesus envia o Paráclito; Pai, Filho e Espírito atuam numa só missão.  
@@ -166,7 +166,7 @@ E
   - Hebraico: אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Grego (LXX): ἐγώ εἰμι ὁ ὤν (*egō eimi ho ōn*)  
   - Aramaico: אֲנָא הוּא (*ana hu*)  
-  - **Português:** “EU SOU”  
+  - **Português:** «EU SOU»  
   - *Contexto: Auto-identificação de Deus; Jesus retoma isso em João 8:58 e Apocalipse.*  
 
 -  Deuteronômio 32:39; Isaías 41:4; 43:10–11; 44:6; 48:12: Deus como o Primeiro e o Último; refletido em Apocalipse 1:17–18.  
@@ -210,11 +210,11 @@ E
 
 # O Grito de Abandono de Jesus
 
-Um momento vital para compreender a divindade de Jesus é o seu grito na cruz: *“Deus meu, Deus meu, por que me desamparaste?”* (Mateus 27:46) (Marcos 15:34). À primeira vista, isso pode soar como fraqueza ou até separação de Deus, mas na verdade revela tanto a sua plena humanidade como a sua missão divina. Ao citar a primeira linha do Salmo 22 (Salmo 22:1), Jesus chamou a atenção para todo o salmo: um trecho que começa em profundo lamento, mas termina em vitória e adoração mundial. Esse grito não é uma perda de divindade; é o Filho de Deus entrando plenamente em nossa experiência humana de pecado e julgamento para redimi-la.
+Um momento vital para compreender a divindade de Jesus é o seu grito na cruz: *«Deus meu, Deus meu, por que me desamparaste?»* (Mateus 27:46) (Marcos 15:34). À primeira vista, isso pode soar como fraqueza ou até separação de Deus, mas na verdade revela tanto a sua plena humanidade como a sua missão divina. Ao citar a primeira linha do Salmo 22 (Salmo 22:1), Jesus chamou a atenção para todo o salmo: um trecho que começa em profundo lamento, mas termina em vitória e adoração mundial. Esse grito não é uma perda de divindade; é o Filho de Deus entrando plenamente em nossa experiência humana de pecado e julgamento para redimi-la.
 
 ---
 
-Quando Jesus gritou *“Deus meu, Deus meu, por que me desamparaste?”* (Mateus 27:46) (Marcos 15:34), ele estava **citando a primeira linha do Salmo 22** (Salmo 22:1). Na prática judaica, citar a primeira linha apontava o ouvinte para **todo o salmo**, não apenas para as palavras iniciais.
+Quando Jesus gritou *«Deus meu, Deus meu, por que me desamparaste?»* (Mateus 27:46) (Marcos 15:34), ele estava **citando a primeira linha do Salmo 22** (Salmo 22:1). Na prática judaica, citar a primeira linha apontava o ouvinte para **todo o salmo**, não apenas para as palavras iniciais.
 
 ---
 
@@ -224,17 +224,17 @@ Quando Jesus gritou *“Deus meu, Deus meu, por que me desamparaste?”* (Mateus
 
 - **Descreve a cena da crucificação**: zombaria, mãos e pés perfurados, roupas divididas.
 
-- **Termina em triunfo**: Deus liberta, as nações adorarão, e o salmo conclui com *“Ele o fez”* (Salmo 22:31) (semelhante às palavras de Jesus *“Está consumado”* (João 19:30)).
+- **Termina em triunfo**: Deus liberta, as nações adorarão, e o salmo conclui com *«Ele o fez»* (Salmo 22:31) (semelhante às palavras de Jesus *«Está consumado»* (João 19:30)).
 
 ---
 
-### O que significa “desamparado”
+### O que significa «desamparado»
 
 - **Jesus realmente sentiu a distância humana de Deus.** Ele assumiu todo o peso do nosso pecado e maldição.
 
-- **Não é uma ruptura na Trindade.** O Pai e o Filho nunca estiveram divididos em seu ser. Jesus ainda confiou no Pai: suas últimas palavras foram, *“Pai, em tuas mãos entrego o meu espírito.”* (Lucas 23:46)
+- **Não é uma ruptura na Trindade.** O Pai e o Filho nunca estiveram divididos em seu ser. Jesus ainda confiou no Pai: suas últimas palavras foram, *«Pai, em tuas mãos entrego o meu espírito.»* (Lucas 23:46)
 
-- **Ele levou o julgamento da aliança.** Na cruz ele carregou a pena do pecado (Gálatas 3:13) (2 Coríntios 5:21). O “desamparo” é judicial, não relacional.
+- **Ele levou o julgamento da aliança.** Na cruz ele carregou a pena do pecado (Gálatas 3:13) (2 Coríntios 5:21). O «desamparo» é judicial, não relacional.
 
 ---
 

@@ -41,7 +41,7 @@ Le Scritture ebraiche contengono oltre 300 profezie che indicano il Messia. Di s
 - **Nessun osso spezzato**: Salmo 34:20; Esodo 12:46 → Giovanni 19:33–36
 - **Fianco trafitto**: Zaccaria 12:10 → Giovanni 19:34, 37
 - **Tenebre sul paese**: Amos 8:9 → Matteo 27:45
-- **"Dio mio, Dio mio, perché mi hai abbandonato?"**: Salmo 22:1 → Matteo 27:46
+- **«Dio mio, Dio mio, perché mi hai abbandonato?»**: Salmo 22:1 → Matteo 27:46
 
 ## Morte e sepoltura
 

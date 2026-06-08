@@ -42,27 +42,35 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 ---
 
 ## Einmal gerettet, immer gerettet
-(Johannes 10:28–29): "Ich gebe ihnen ewiges Leben, und sie werden in Ewigkeit nicht verloren gehen, und niemand wird sie aus meiner Hand reißen. Mein Vater, der sie mir gegeben hat, ist größer als alle, und niemand kann sie aus der Hand des Vaters reißen."
+(Johannes 10:28–29): „Ich gebe ihnen ewiges Leben, und sie werden in Ewigkeit nicht verloren gehen, und niemand wird sie aus meiner Hand reißen. Mein Vater, der sie mir gegeben hat, ist größer als alle, und niemand kann sie aus der Hand des Vaters reißen.“
 
 - Wie es verwendet wird: Dieser Vers und andere werden zitiert, um zu behaupten, dass ein einziger Moment des Glaubens die Rettung für immer garantiert, egal wie ein Mensch danach lebt. Oft wird dies benutzt, um Sünde zu entschuldigen und denen eine falsche Sicherheit zu geben, die in Ungehorsam leben.
 
-- Die Wahrheit: Jesus verspricht Sicherheit für diejenigen, die in Ihm bleiben, aber die Schrift ist voller Warnungen vor dem Abfall, dem fortgesetzten Leben in der Sünde oder dem Verlassen des Glaubens. Rettung ist eine lebendige Beziehung, die Ausdauer, Gehorsam und einen Glauben erfordert, der Werke hervorbringt.
+- Die Wahrheit: Die Schrift lehrt tatsächlich die Sicherheit des wahren Gläubigen. Jesus sagte, dass niemand seine Schafe aus seiner Hand reißen kann (Johannes 10:28–29); er verliert keinen von denen, die der Vater ihm gegeben hat (Johannes 6:39); und die Gläubigen werden durch Gottes Kraft bewahrt, nicht durch ihre eigene (1. Petrus 1:5; Philipper 1:6). Im wahren Sinn gilt also: ja, einmal wahrhaft gerettet, immer gerettet, weil Christus selbst sie hält. Die Verzerrung ist nicht die ewige Sicherheit; sie besteht darin, ein einziges Bekenntnis zu benutzen, um ein Leben in unbußfertiger Sünde zu entschuldigen. Die Warnungen der Schrift bedrohen den wahrhaft Geretteten nicht mit Verlust; sie entlarven leeres oder falsches Bekenntnis. Wer abfällt, zeigt damit, dass er nie wahrhaft zum Glauben gehörte. Echter rettender Glaube hält durch und bringt Frucht.
 
-- (Jakobus 2:17): "So ist auch der Glaube, wenn er keine Werke hat, in sich selbst tot."
+- (Johannes 6:39): „Das aber ist der Wille dessen, der mich gesandt hat, dass ich nichts verliere von allem, was er mir gegeben hat, sondern dass ich es auferwecke am letzten Tag.“
 
-- (Hebräer 6:4–6): "Denn es ist unmöglich, diejenigen, die einmal erleuchtet worden sind, die die himmlische Gabe geschmeckt haben, die des Heiligen Geistes teilhaftig geworden sind und das gute Wort Gottes und die Kräfte der zukünftigen Welt geschmeckt haben und dann abgefallen sind, wieder zur Buße zu erneuern, da sie den Sohn Gottes für sich selbst wieder kreuzigen und zum Spott machen."
+- (1. Petrus 1:5): „die ihr aus Gottes Macht durch den Glauben bewahrt werdet zum Heil, das bereit ist, offenbart zu werden in der letzten Zeit.“
 
-- (Hebräer 10:26–27): "Denn wenn wir mutwillig sündigen, nachdem wir die Erkenntnis der Wahrheit empfangen haben, bleibt kein Opfer für die Sünden mehr übrig, sondern ein furchtbares Erwarten des Gerichts und ein Eifer des Feuers, das die Widersacher verzehren wird."
+- (1. Johannes 2:19): „Sie sind von uns ausgegangen, aber sie waren nicht von uns; denn wenn sie von uns gewesen wären, so wären sie ja bei uns geblieben. Aber sie sollten offenbar werden, dass sie alle nicht von uns sind.“
 
-- (Matthäus 7:21–23): "Nicht jeder, der zu mir sagt: Herr, Herr!, wird in das Reich der Himmel eingehen, sondern wer den Willen meines Vaters tut, der in den Himmeln ist. Viele werden an jenem Tag zu mir sagen: Herr, Herr, haben wir nicht in deinem Namen geweissagt und in deinem Namen Dämonen ausgetrieben und in deinem Namen viele Wunderwerke getan? Und dann werde ich ihnen bekennen: Ich habe euch niemals gekannt; weicht von mir, ihr Übeltäter!"
+- Die folgenden Warnungen sind keine Drohung gegen die sicheren Schafe Christi, sondern ein Aufruf zu prüfen, ob der eigene Glaube echt ist und durchhält, denn wahrer Glaube bringt immer Frucht:
 
-- (Johannes 15:6): "Wenn jemand nicht in mir bleibt, wird er hinausgeworfen wie die Rebe und verdorrt; und man sammelt sie und wirft sie ins Feuer, und sie werden verbrannt."
+- (Jakobus 2:17): „So ist auch der Glaube, wenn er keine Werke hat, in sich selbst tot.“
 
-- (1. Korinther 9:27): "Sondern ich bezwinge meinen Leib und beherrsche ihn, damit ich nicht, nachdem ich anderen gepredigt habe, selbst verwerflich werde."
+- (Hebräer 6:4–6): „Denn es ist unmöglich, diejenigen, die einmal erleuchtet worden sind, die die himmlische Gabe geschmeckt haben, die des Heiligen Geistes teilhaftig geworden sind und das gute Wort Gottes und die Kräfte der zukünftigen Welt geschmeckt haben und dann abgefallen sind, wieder zur Buße zu erneuern, da sie den Sohn Gottes für sich selbst wieder kreuzigen und zum Spott machen.“
 
-- (Galater 5:19–21): "Offenbar sind aber die Werke des Fleisches, welche sind: Unzucht, Unreinheit, Ausschweifung, Götzendienst, Zauberei, Feindschaften, Streit, Eifersucht, Zorn, Selbstsucht, Zwietracht, Spaltungen, Neid, Trunkenheit, Völlerei und dergleichen. Von diesen sage ich euch voraus, wie ich zuvor gesagt habe, dass die, die so etwas tun, das Reich Gottes nicht erben werden."
+- (Hebräer 10:26–27): „Denn wenn wir mutwillig sündigen, nachdem wir die Erkenntnis der Wahrheit empfangen haben, bleibt kein Opfer für die Sünden mehr übrig, sondern ein furchtbares Erwarten des Gerichts und ein Eifer des Feuers, das die Widersacher verzehren wird.“
 
-- (Offenbarung 3:5): "Wer überwindet, der wird mit weißen Kleidern bekleidet werden, und ich werde seinen Namen nicht auslöschen aus dem Buch des Lebens und werde seinen Namen bekennen vor meinem Vater und vor seinen Engeln."
+- (Matthäus 7:21–23): „Nicht jeder, der zu mir sagt: Herr, Herr!, wird in das Reich der Himmel eingehen, sondern wer den Willen meines Vaters tut, der in den Himmeln ist. Viele werden an jenem Tag zu mir sagen: Herr, Herr, haben wir nicht in deinem Namen geweissagt und in deinem Namen Dämonen ausgetrieben und in deinem Namen viele Wunderwerke getan? Und dann werde ich ihnen bekennen: Ich habe euch niemals gekannt; weicht von mir, ihr Übeltäter!“
+
+- (Johannes 15:6): „Wenn jemand nicht in mir bleibt, wird er hinausgeworfen wie die Rebe und verdorrt; und man sammelt sie und wirft sie ins Feuer, und sie werden verbrannt.“
+
+- (1. Korinther 9:27): „Sondern ich bezwinge meinen Leib und beherrsche ihn, damit ich nicht, nachdem ich anderen gepredigt habe, selbst verwerflich werde.“
+
+- (Galater 5:19–21): „Offenbar sind aber die Werke des Fleisches, welche sind: Unzucht, Unreinheit, Ausschweifung, Götzendienst, Zauberei, Feindschaften, Streit, Eifersucht, Zorn, Selbstsucht, Zwietracht, Spaltungen, Neid, Trunkenheit, Völlerei und dergleichen. Von diesen sage ich euch voraus, wie ich zuvor gesagt habe, dass die, die so etwas tun, das Reich Gottes nicht erben werden.“
+
+- (Offenbarung 3:5): „Wer überwindet, der wird mit weißen Kleidern bekleidet werden, und ich werde seinen Namen nicht auslöschen aus dem Buch des Lebens und werde seinen Namen bekennen vor meinem Vater und vor seinen Engeln.“
 
 ---
 
@@ -287,33 +295,33 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 ## Biblische Irrtumslosigkeit: als Waffe missbraucht
 
-**Falsch verwendeter Vers:** (2. Timotheus 3:16) „Alle Schrift ist von Gott eingegeben und nütze zur Lehre, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit.”
+**Falsch verwendeter Vers:** (2. Timotheus 3:16) „Alle Schrift ist von Gott eingegeben und nütze zur Lehre, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit.“
 
-**Wie es missbraucht wird:** Manche Menschen benutzen die Irrtumslosigkeit als Waffe: „Wenn du nicht genau meiner Definition zustimmst, bist du kein wahrer Christ.” Andere treiben sie in einen starren Literalismus, der die Art des gelesenen Textes ignoriert. Wenn 2. Timotheus 3:16 zur Keule wird statt zu einer Wahrheit, auf der man steht, ist die Lehre verdreht worden.
+**Wie es missbraucht wird:** Manche Menschen benutzen die Irrtumslosigkeit als Waffe: „Wenn du nicht genau meiner Definition zustimmst, bist du kein wahrer Christ.“ Andere treiben sie in einen starren Literalismus, der die Art des gelesenen Textes ignoriert. Wenn 2. Timotheus 3:16 zur Keule wird statt zu einer Wahrheit, auf der man steht, ist die Lehre verdreht worden.
 
-**Zunächst Klarheit: Die Bibel ist das Wort Gottes.** Das griechische Wort in 2. Timotheus 3:16 ist *theopneustos*, was wörtlich „von Gott gehaucht” bedeutet. Das heißt nicht, dass die Autoren sich einfach inspiriert fühlten, wie ein Dichter sich kreativ fühlt; es bedeutet, dass Gott selbst die Worte durch menschliche Schreiber aushauchte. Er leitete sie so, dass das, was sie schrieben, genau das war, was Er sagen wollte. 2. Petrus 1:21 sagt es klar: „getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet.” Die Bibel ist kein menschliches Buch mit Gottes Stempel darauf; sie ist Gottes Buch, geschrieben durch menschliche Hände.
+**Zunächst Klarheit: Die Bibel ist das Wort Gottes.** Das griechische Wort in 2. Timotheus 3:16 ist *theopneustos*, was wörtlich „von Gott gehaucht“ bedeutet. Das heißt nicht, dass die Autoren sich einfach inspiriert fühlten, wie ein Dichter sich kreativ fühlt; es bedeutet, dass Gott selbst die Worte durch menschliche Schreiber aushauchte. Er leitete sie so, dass das, was sie schrieben, genau das war, was Er sagen wollte. 2. Petrus 1:21 sagt es klar: „getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet.“ Die Bibel ist kein menschliches Buch mit Gottes Stempel darauf; sie ist Gottes Buch, geschrieben durch menschliche Hände.
 
-Die Schrift erhebt diesen Anspruch immer wieder: Psalm 12:7 nennt Gottes Worte „lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.” Sprüche 30:5 sagt: „Alle Rede Gottes ist geläutert.” Jesus selbst betete in Johannes 17:17: „Dein Wort ist Wahrheit.” Das sind keine schwachen Aussagen; die Bibel stellt sich selbst als vollkommen vertrauenswürdig dar, ohne Irrtum und mit der vollen Autorität Gottes.
+Die Schrift erhebt diesen Anspruch immer wieder: Psalm 12:7 nennt Gottes Worte „lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.“ Sprüche 30:5 sagt: „Alle Rede Gottes ist geläutert.“ Jesus selbst betete in Johannes 17:17: „Dein Wort ist Wahrheit.“ Das sind keine schwachen Aussagen; die Bibel stellt sich selbst als vollkommen vertrauenswürdig dar, ohne Irrtum und mit der vollen Autorität Gottes.
 
-**Was „ohne Irrtum in dem, was sie aussagt” bedeutet:** Die Bibel gibt manchmal die Worte von Lügnern, Narren und sogar des Satans wieder. Zum Beispiel sagte Satan zu Eva: „Ihr werdet keineswegs des Todes sterben” (1. Mose 3:4); diese Aussage ist falsch, aber die Bibel berichtet korrekt, dass er sie gesagt hat. Der Text ist ohne Irrtum in dem, was er lehrt und als wahr bekräftigt; er billigt nicht jede Aussage, die er wiedergibt. Das ist ein einfacher, aber wichtiger Unterschied.
+**Was „ohne Irrtum in dem, was sie aussagt“ bedeutet:** Die Bibel gibt manchmal die Worte von Lügnern, Narren und sogar des Satans wieder. Zum Beispiel sagte Satan zu Eva: „Ihr werdet keineswegs des Todes sterben“ (1. Mose 3:4); diese Aussage ist falsch, aber die Bibel berichtet korrekt, dass er sie gesagt hat. Der Text ist ohne Irrtum in dem, was er lehrt und als wahr bekräftigt; er billigt nicht jede Aussage, die er wiedergibt. Das ist ein einfacher, aber wichtiger Unterschied.
 
 **Die Verzerrung:** Das Problem ist niemals die Lehre selbst; das Problem entsteht, wenn Menschen sie benutzen, um: jede Stelle in starren Literalismus zu zwingen, der ignoriert, ob es Dichtung, Gleichnis oder Prophetie ist; zu leugnen, dass Gott echte Menschen mit echtem Schreibstil benutzte, um sein Wort zu übermitteln; oder eine bestimmte Theorie über die Schrift zu einem Prüfstein des Heils zu machen. Kein ernsthafter Gläubiger behauptet, Gott habe physisch den Stift gehalten; die Behauptung ist, dass Gott durch menschliche Autoren wirkte, sodass das, was sie schrieben, genau das war, was Er beabsichtigte. Das sagt die Bibel über sich selbst, und es ist die historische Position der Kirche seit zweitausend Jahren.
 
 **Unterstützende Bibelstellen:**
 
-- (2. Timotheus 3:16) „Alle Schrift ist von Gott eingegeben (*theopneustos*) und nütze zur Lehre, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit.”
+- (2. Timotheus 3:16) „Alle Schrift ist von Gott eingegeben (*theopneustos*) und nütze zur Lehre, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit.“
 
-- (2. Petrus 1:21) „Getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet.”
+- (2. Petrus 1:21) „Getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet.“
 
-- (Psalmen 12:7) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.”
+- (Psalmen 12:7) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.“
 
-- (Sprüche 30:5) „Alle Rede Gottes ist geläutert; er ist ein Schild denen, die auf ihn trauen.”
+- (Sprüche 30:5) „Alle Rede Gottes ist geläutert; er ist ein Schild denen, die auf ihn trauen.“
 
-- (Hebräer 4:12) „Denn das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert.”
+- (Hebräer 4:12) „Denn das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert.“
 
-- (Johannes 17:17) „Heilige sie in der Wahrheit; dein Wort ist Wahrheit.”
+- (Johannes 17:17) „Heilige sie in der Wahrheit; dein Wort ist Wahrheit.“
 
-- (1. Mose 3:4) „Aber die Schlange sprach zu der Frau: ,Ihr werdet keineswegs des Todes sterben.'” (Ein Beispiel dafür, dass die Schrift eine Lüge korrekt wiedergibt, ohne sie zu billigen.)
+- (1. Mose 3:4) „Aber die Schlange sprach zu der Frau: ‚Ihr werdet keineswegs des Todes sterben.‘“ (Ein Beispiel dafür, dass die Schrift eine Lüge korrekt wiedergibt, ohne sie zu billigen.)
 
 ---
 
@@ -321,33 +329,33 @@ Die Schrift erhebt diesen Anspruch immer wieder: Psalm 12:7 nennt Gottes Worte �
 
 ### Der Sabbat, den die Bibel tatsächlich gebietet
 
-1. Mose 2:2–3 legt das Muster fest: Elohim ruhte am siebten Tag, segnete ihn und heiligte ihn. 2. Mose 20:8–11, das vierte Gebot, verpflichtet Israel, „des Sabbattages zu gedenken, dass du ihn heiligest”, und begründet ihn in der Schöpfungswoche. 3. Mose 23:3 nennt ihn eine „heilige Versammlung” und ordnet an, nicht zu arbeiten. Das Hebräische ist *shabbat*, vom Verb *shavat*, aufhören. Er erstreckt sich von Sonnenuntergang zu Sonnenuntergang gemäß 1. Mose 1:5 („da ward aus Abend und Morgen der erste Tag”) und 3. Mose 23:32 („von einem Abend bis zum anderen Abend sollt ihr euren Sabbat halten”). Der *shabbat* beginnt am Freitag bei Sonnenuntergang und endet am Samstag bei Sonnenuntergang. Das ist der siebte Tag. Es gibt keine Mehrdeutigkeit im hebräischen Text.
+1. Mose 2:2–3 legt das Muster fest: Elohim ruhte am siebten Tag, segnete ihn und heiligte ihn. 2. Mose 20:8–11, das vierte Gebot, verpflichtet Israel, „des Sabbattages zu gedenken, dass du ihn heiligest“, und begründet ihn in der Schöpfungswoche. 3. Mose 23:3 nennt ihn eine „heilige Versammlung“ und ordnet an, nicht zu arbeiten. Das Hebräische ist *shabbat*, vom Verb *shavat*, aufhören. Er erstreckt sich von Sonnenuntergang zu Sonnenuntergang gemäß 1. Mose 1:5 („da ward aus Abend und Morgen der erste Tag“) und 3. Mose 23:32 („von einem Abend bis zum anderen Abend sollt ihr euren Sabbat halten“). Der *shabbat* beginnt am Freitag bei Sonnenuntergang und endet am Samstag bei Sonnenuntergang. Das ist der siebte Tag. Es gibt keine Mehrdeutigkeit im hebräischen Text.
 
-Jeschua hielt ihn. Lukas 4:16 sagt: „wie es seine Gewohnheit war, ging er am Sabbattag in die Synagoge.” Er korrigierte legalistische Auslegungen des Sabbats (Markus 2:27, „der Sabbat ist um des Menschen willen gemacht und nicht der Mensch um des Sabbats willen”), schaffte ihn aber nie ab. Die Apostel hielten ihn: Apostelgeschichte 17:2, es war die „Gewohnheit” des Paulus, drei Wochen lang am Sabbat in der Synagoge in Thessalonich zu reden.
+Jeschua hielt ihn. Lukas 4:16 sagt: „wie es seine Gewohnheit war, ging er am Sabbattag in die Synagoge.“ Er korrigierte legalistische Auslegungen des Sabbats (Markus 2:27, „der Sabbat ist um des Menschen willen gemacht und nicht der Mensch um des Sabbats willen“), schaffte ihn aber nie ab. Die Apostel hielten ihn: Apostelgeschichte 17:2, es war die „Gewohnheit“ des Paulus, drei Wochen lang am Sabbat in der Synagoge in Thessalonich zu reden.
 
 ### Woher der Sonntag kam
 
 Drei Dinge geschahen, und die christliche Tradition vermischt sie.
 
-**1. Die Auferstehungsberichte.** Matthäus 28:1, Markus 16:2, Lukas 24:1, Johannes 20:1 legen die Auferstehung auf „den ersten Tag der Woche”, *mia ton sabbaton* im Griechischen, wörtlich „einer der Sabbate” oder „der erste vom Sabbat an”. Johannes 20:19 berichtet, dass Jeschua den Jüngern am selben Abend erschien. Johannes 20:26 sagt „nach acht Tagen” erschien er erneut, was manche als den folgenden Sonntag lesen.
+**1. Die Auferstehungsberichte.** Matthäus 28:1, Markus 16:2, Lukas 24:1, Johannes 20:1 legen die Auferstehung auf „den ersten Tag der Woche“, *mia ton sabbaton* im Griechischen, wörtlich „einer der Sabbate“ oder „der erste vom Sabbat an“. Johannes 20:19 berichtet, dass Jeschua den Jüngern am selben Abend erschien. Johannes 20:26 sagt „nach acht Tagen“ erschien er erneut, was manche als den folgenden Sonntag lesen.
 
-**2. Zwei Versammlungsstellen.** Apostelgeschichte 20:7 berichtet, dass die Gläubigen in Troas am ersten Tag der Woche zusammenkamen, um das Brot zu brechen und Paulus predigen zu hören. 1. Korinther 16:2 weist die Gläubigen in Korinth an, am ersten Tag der Woche Gelder für die Sammlung für Jerusalem zurückzulegen. Dies sind die beiden am häufigsten zitierten Stellen zur Rechtfertigung des Sonntagsgottesdienstes. Keine gebietet ihn, keine schafft den Sabbat ab, und keine nennt den ersten Tag „den Sabbat”. Sie bezeugen ein Versammlungsmuster, nichts weiter. Die Stelle in 1. Korinther 16:2 betrifft häusliche Buchführung, keine Liturgie.
+**2. Zwei Versammlungsstellen.** Apostelgeschichte 20:7 berichtet, dass die Gläubigen in Troas am ersten Tag der Woche zusammenkamen, um das Brot zu brechen und Paulus predigen zu hören. 1. Korinther 16:2 weist die Gläubigen in Korinth an, am ersten Tag der Woche Gelder für die Sammlung für Jerusalem zurückzulegen. Dies sind die beiden am häufigsten zitierten Stellen zur Rechtfertigung des Sonntagsgottesdienstes. Keine gebietet ihn, keine schafft den Sabbat ab, und keine nennt den ersten Tag „den Sabbat“. Sie bezeugen ein Versammlungsmuster, nichts weiter. Die Stelle in 1. Korinther 16:2 betrifft häusliche Buchführung, keine Liturgie.
 
-**3. Offenbarung 1:10.** Johannes war „im Geist am Tag des Herrn,” *te kyriake hemera*. Die christliche Tradition ab Mitte des zweiten Jahrhunderts las dies als Sonntag. Vertreter des siebten Tages lesen es als den prophetischen Tag des Herrn, *yom YHWH*, aus Jesaja 13, Joel 2, Amos 5 und anderen. Das Griechische entscheidet die Frage nicht.
+**3. Offenbarung 1:10.** Johannes war „im Geist am Tag des Herrn,“ *te kyriake hemera*. Die christliche Tradition ab Mitte des zweiten Jahrhunderts las dies als Sonntag. Vertreter des siebten Tages lesen es als den prophetischen Tag des Herrn, *yom YHWH*, aus Jesaja 13, Joel 2, Amos 5 und anderen. Das Griechische entscheidet die Frage nicht.
 
 Das sind alle Daten des Neuen Testaments. Nichts gebietet einen Wechsel des Tages.
 
 **Verbindung zum Sonnenkult**
 
-Das Römische Reich war von Sonnenkulten durchdrungen. Mithras, Sol Invictus und Apollo hatten Verbindungen zum Sonntag. Als Konstantin am 7. März 321 n. Chr. sein ziviles Edikt erließ, verfügte er, dass „am verehrungswürdigen Tag der Sonne die Beamten und die Stadtbewohner ruhen sollen und alle Werkstätten geschlossen werden.” Der lateinische Text nennt ihn *venerabili die Solis*, den verehrungswürdigen Tag der Sonne. Konstantin war noch nicht eindeutig Christ, als er es erließ; er war ein Anhänger des Sol Invictus, dessen Münzen noch jahrelang Sol zeigten. Das Edikt machte den Sonntag zum bürgerlichen Ruhetag des Reiches, und die Kirche, die sich bereits seit zwei Jahrhunderten dem Sonntag zugewandt hatte, erhielt nun kaiserliche Unterstützung.
+Das Römische Reich war von Sonnenkulten durchdrungen. Mithras, Sol Invictus und Apollo hatten Verbindungen zum Sonntag. Als Konstantin am 7. März 321 n. Chr. sein ziviles Edikt erließ, verfügte er, dass „am verehrungswürdigen Tag der Sonne die Beamten und die Stadtbewohner ruhen sollen und alle Werkstätten geschlossen werden.“ Der lateinische Text nennt ihn *venerabili die Solis*, den verehrungswürdigen Tag der Sonne. Konstantin war noch nicht eindeutig Christ, als er es erließ; er war ein Anhänger des Sol Invictus, dessen Münzen noch jahrelang Sol zeigten. Das Edikt machte den Sonntag zum bürgerlichen Ruhetag des Reiches, und die Kirche, die sich bereits seit zwei Jahrhunderten dem Sonntag zugewandt hatte, erhielt nun kaiserliche Unterstützung.
 
 **Konzil von Laodizea (ca. 363–364 n. Chr.)**
 
-Kanon 29 verbietet Christen ausdrücklich, am Sabbat zu ruhen, gebietet ihnen, an diesem Tag zu arbeiten, und ehrt stattdessen „den Tag des Herrn”. Der Text besagt, dass Christen „besonders den Tag des Herrn ehren sollen; und als Christen, wenn möglich, an diesem Tag nicht arbeiten sollen. Werden sie jedoch beim Judaisieren ertappt, sollen sie von Christus ausgeschlossen werden.” Der Sabbat wurde nicht verlegt; er wurde innerhalb der Kirche kriminalisiert.
+Kanon 29 verbietet Christen ausdrücklich, am Sabbat zu ruhen, gebietet ihnen, an diesem Tag zu arbeiten, und ehrt stattdessen „den Tag des Herrn“. Der Text besagt, dass Christen „besonders den Tag des Herrn ehren sollen; und als Christen, wenn möglich, an diesem Tag nicht arbeiten sollen. Werden sie jedoch beim Judaisieren ertappt, sollen sie von Christus ausgeschlossen werden.“ Der Sabbat wurde nicht verlegt; er wurde innerhalb der Kirche kriminalisiert.
 
 ### Die katholische Tradition beansprucht es ausdrücklich
 
-Die Römisch-Katholische Kirche war in dieser Hinsicht transparent. Der Katechismus der Katholischen Kirche, Paragraph 2175, erklärt, dass „der Sonntag sich ausdrücklich vom Sabbat unterscheidet, dem er chronologisch jede Woche folgt; für die Christen ersetzt seine zeremonielle Beachtung die des Sabbats.” Katholische Katechismen, die bis zum Konzil von Trient zurückreichen, und verschiedene Werke des 19. Jahrhunderts (wie *Der Glaube unserer Väter* von Kardinal James Gibbons, der *Katholische Konvertiten-Katechismus*) nennen offen den Wechsel vom Sabbat zum Sonntag als Beweis für die Autorität der Kirche, das göttliche Gebot abzuändern. Die Protestanten erbten den Sonntag von Rom, ohne das Argument zu erben.
+Die Römisch-Katholische Kirche war in dieser Hinsicht transparent. Der Katechismus der Katholischen Kirche, Paragraph 2175, erklärt, dass „der Sonntag sich ausdrücklich vom Sabbat unterscheidet, dem er chronologisch jede Woche folgt; für die Christen ersetzt seine zeremonielle Beachtung die des Sabbats.“ Katholische Katechismen, die bis zum Konzil von Trient zurückreichen, und verschiedene Werke des 19. Jahrhunderts (wie *Der Glaube unserer Väter* von Kardinal James Gibbons, der *Katholische Konvertiten-Katechismus*) nennen offen den Wechsel vom Sabbat zum Sonntag als Beweis für die Autorität der Kirche, das göttliche Gebot abzuändern. Die Protestanten erbten den Sonntag von Rom, ohne das Argument zu erben.
 
 **Kernaussage:** Der Sabbat des siebten Tages ist in der Schöpfung begründet, in den Zehn Geboten festgeschrieben, von Jeschua und den Aposteln gehalten und im Neuen Testament nie abgeschafft worden. Die Sonntagsfeier kam durch nachapostolische Tradition, kaiserliche Gesetzgebung und Konzilsbeschlüsse, nicht durch die Schrift.
 

@@ -6,10 +6,10 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 1. Cómo obtuvimos la Biblia
 
-**(Lucas 1:1–4)**: “Muchos han emprendido la tarea de elaborar un relato… yo mismo he investigado todo cuidadosamente… para que conozcas la certeza de las enseñanzas que has recibido.”  
+**(Lucas 1:1–4)**: «Muchos han emprendido la tarea de elaborar un relato… yo mismo he investigado todo cuidadosamente… para que conozcas la certeza de las enseñanzas que has recibido.»  
 ➡ Lucas muestra que los primeros cristianos documentaron cuidadosamente lo que sucedió.
 
-**(2 Timoteo 3:16)**: “Toda la Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir y para instruir en la justicia.”  
+**(2 Timoteo 3:16)**: «Toda la Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir y para instruir en la justicia.»  
 ➡ La Escritura afirma su origen divino.
 
 **Historia:** Las primeras listas de colecciones (Fragmento Muratoriano, ca. 170 d. C.) ya mostraban debates sobre qué libros incluir. Los Concilios de Hipona (393) y Cartago (397) aprobaron formalmente el canon. Jerónimo tradujo la Vulgata latina alrededor del año 382, que se convirtió en el estándar durante más de mil años. La imprenta en la década de 1440 dio a la gente común acceso directo por primera vez.
@@ -35,10 +35,10 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 2. Problemas de traducción e interpretación
 
-**(Nehemías 8:8)**: "Leían en el libro de la ley de Dios claramente, y explicaban el sentido para que la gente entendiera la lectura."  
+**(Nehemías 8:8)**: «Leían en el libro de la ley de Dios claramente, y explicaban el sentido para que la gente entendiera la lectura.»  
 ➡ La Biblia siempre fue destinada a ser entendida.
 
-**Historia:** El Antiguo Testamento se tradujo al griego (Septuaginta) en los siglos III–II a.C. Después, la Vulgata latina de Jerónimo dominó, introduciendo a veces distorsiones ("arrepentíos" se volvió "hacer penitencia"). En 1611, el rey Jacobo aprobó la Biblia inglesa, con elecciones influenciadas por la política. Los Rollos del Mar Muerto confirmaron la variedad de textos hebreos.
+**Historia:** El Antiguo Testamento se tradujo al griego (Septuaginta) en los siglos III–II a.C. Después, la Vulgata latina de Jerónimo dominó, introduciendo a veces distorsiones («arrepentíos» se volvió «hacer penitencia»). En 1611, el rey Jacobo aprobó la Biblia inglesa, con elecciones influenciadas por la política. Los Rollos del Mar Muerto confirmaron la variedad de textos hebreos.
 
 **Conclusión:** Las traducciones importan. La elección de palabras puede cambiar doctrinas enteras.
 
@@ -46,10 +46,10 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 3. Iglesia y política
 
-**(Mateo 23:27–28)**: “¡Ay de ustedes, maestros de la ley… son como sepulcros blanqueados!”  
+**(Mateo 23:27–28)**: «¡Ay de ustedes, maestros de la ley… son como sepulcros blanqueados!»  
 ➡ Jesús condenó a los líderes religiosos que parecían santos por fuera pero eran corruptos por dentro.
 
-**(Hechos 5:29)**: “Es necesario obedecer a Dios antes que a los hombres.”  
+**(Hechos 5:29)**: «Es necesario obedecer a Dios antes que a los hombres.»  
 ➡ Los apóstoles resistieron el control religioso-político.
 
 **Historia:**
@@ -71,7 +71,7 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 4. Persecución y movimientos de reforma
 
-**(Juan 16:2)**: "Llega el momento en que cualquiera que los mate pensará que ofrece un servicio a Dios."  
+**(Juan 16:2)**: «Llega el momento en que cualquiera que los mate pensará que ofrece un servicio a Dios.»  
 ➡ Jesús predijo persecución.
 
 **Historia:** Los reformadores buscaron devolver la Biblia al pueblo. John Wycliffe tradujo al inglés y fue condenado incluso después de muerto. William Tyndale fue ejecutado en 1536 por su traducción. Las 95 tesis de Lutero en 1517 iniciaron la Reforma. El Concilio de Trento (1545–1563) reforzó el control.
@@ -82,10 +82,10 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 5. Textos perdidos y suprimidos
 
-**(Judas 1:14–15)**: "También profetizó acerca de ellos Enoc, el séptimo desde Adán..."  
+**(Judas 1:14–15)**: «También profetizó acerca de ellos Enoc, el séptimo desde Adán...»  
 ➡ Judas cita directamente a Enoc.
 
-**(Colosenses 4:16)**: "Lean también esta carta en la iglesia de Laodicea, y lean ustedes la carta que viene de Laodicea."  
+**(Colosenses 4:16)**: «Lean también esta carta en la iglesia de Laodicea, y lean ustedes la carta que viene de Laodicea.»  
 ➡ Pablo menciona una carta perdida.
 
 **Historia:** El Libro de Enoc fue valioso para los primeros cristianos pero fue excluido más tarde. El hallazgo de Nag Hammadi (1945) reveló el Evangelio de Tomás y otros textos. Los Rollos del Mar Muerto (1947) mostraron manuscritos alternativos. Muchos escritos fueron suprimidos porque amenazaban la autoridad de la iglesia.
@@ -103,13 +103,13 @@ El *Libro de Enoc* fue ampliamente leído en comunidades judías y cristianas, c
 
 ### **Por Qué Es Importante**
 
-* **Llena vacíos en Génesis**: Explica Génesis 6: quiénes eran los “hijos de Dios” y los “Nefilim”, cómo los ángeles caídos (Vigilantes) corrompieron la creación y el origen de los demonios.
+* **Llena vacíos en Génesis**: Explica Génesis 6: quiénes eran los «hijos de Dios» y los «Nefilim», cómo los ángeles caídos (Vigilantes) corrompieron la creación y el origen de los demonios.
 
 * **Hace eco de Apocalipsis**: Describe señales cósmicas (sol oscurecido, estrellas cayendo, tierra temblando), juicios angelicales y la destrucción final de los malvados, alineándose estrechamente con los sellos y trompetas de Apocalipsis.
 
 * **El Hijo del Hombre revelado**: Profetiza al Hijo del Hombre preexistente, entronizado en el cielo, que vendrá a juzgar a reyes y naciones: lenguaje que Jesús repite directamente en Mateo 24–25.
 
-* **“A Nuestra Imagen” explicado**: Muestra que Jesús existía desde el principio con el Padre, conectando con Génesis 1:26 (“Hagamos al hombre a nuestra imagen”).
+* **«A Nuestra Imagen» explicado**: Muestra que Jesús existía desde el principio con el Padre, conectando con Génesis 1:26 («Hagamos al hombre a nuestra imagen»).
 
 * **Puente entre Antiguo y Nuevo**: Conecta la expectativa apocalíptica judía temprana con la profecía del Nuevo Testamento, aclarando el Apocalipsis.
 
@@ -121,7 +121,7 @@ El *Libro de Enoc* fue ampliamente leído en comunidades judías y cristianas, c
 
 * Los concilios de la iglesia (siglo IV) lo excluyeron, alegando falta de autoridad apostólica más allá de Judas.
 
-* Sus descripciones detalladas de ángeles, demonios y juicio fueron vistas como “demasiado peligrosas” para el control bajo Roma.
+* Sus descripciones detalladas de ángeles, demonios y juicio fueron vistas como «demasiado peligrosas» para el control bajo Roma.
 
 * La Iglesia Etíope, intacta de la política romana, lo preservó como Escritura hasta el día de hoy.
 
@@ -161,7 +161,7 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 ## 6. Fiestas Tomadas (Sincretismo)
 
-**(Jeremías 10:2–4)**: "No aprendáis el camino de las naciones... Cortan un árbol del bosque, obra de manos de artífice con azuela. Lo adornan con plata y oro; lo afirman con clavos y martillo para que no se mueva."
+**(Jeremías 10:2–4)**: «No aprendáis el camino de las naciones... Cortan un árbol del bosque, obra de manos de artífice con azuela. Lo adornan con plata y oro; lo afirman con clavos y martillo para que no se mueva.»
 
 ➡ Una advertencia contra la adopción de costumbres paganas.
 
@@ -175,15 +175,15 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 - Josefo (*Antigüedades de los Judíos* 17.6–9) describe la última enfermedad de Herodes, el eclipse y la Pascua. La mayoría de los eruditos favorece el 4 a. C. como año de la muerte, mientras que una minoría argumenta por el 1 a. C. basándose en otro eclipse posterior.
 
-- Lucas 2 asocia el nacimiento con un censo. El conocido censo de Quirinio fue en el año 6 d. C., demasiado tarde, pero se han propuesto explicaciones: (1) Lucas se refiere a un registro local anterior, (2) el texto griego puede leerse como “antes de que Quirinio fuera gobernador de Siria.” Ninguna de estas teorías altera el marco de referencia del nacimiento en los años 6–4 a. C.
+- Lucas 2 asocia el nacimiento con un censo. El conocido censo de Quirinio fue en el año 6 d. C., demasiado tarde, pero se han propuesto explicaciones: (1) Lucas se refiere a un registro local anterior, (2) el texto griego puede leerse como «antes de que Quirinio fuera gobernador de Siria.» Ninguna de estas teorías altera el marco de referencia del nacimiento en los años 6–4 a. C.
 
 - Lucas 2:8 menciona pastores que vivían al aire libre con sus rebaños durante la noche. Los inviernos en la región montañosa de Judea son fríos y húmedos (mínimas nocturnas a menudo de 4–7 °C, con heladas y lluvias ocasionales). La vigilancia nocturna en campo abierto encaja mejor con la estación de parto de corderos en primavera o el pastoreo tras la cosecha en otoño, no con el pleno invierno.
 
 - Roma celebraba la **Saturnalia** en diciembre con vegetación decorada, banquetes e inversión de roles sociales.
 
-- El emperador Aureliano estableció el 25 de diciembre en el año 274 d. C. como fiesta de *Sol Invictus* (“el Sol Invicto”), celebrando el renacimiento del sol después del solsticio de invierno.
+- El emperador Aureliano estableció el 25 de diciembre en el año 274 d. C. como fiesta de *Sol Invictus* («el Sol Invicto»), celebrando el renacimiento del sol después del solsticio de invierno.
 
-- En el siglo IV, los cristianos fijaron la fiesta del Nacimiento de Cristo en esa misma fecha, reinterpretándola como la venida de Cristo, la “luz verdadera del mundo” (Juan 8:12).
+- En el siglo IV, los cristianos fijaron la fiesta del Nacimiento de Cristo en esa misma fecha, reinterpretándola como la venida de Cristo, la «luz verdadera del mundo» (Juan 8:12).
 
 - Voces cristianas tempranas fueron diversas: Orígenes rechazó las celebraciones de cumpleaños; Hipólito propuso el 25 de diciembre ya en el siglo III; Juan Crisóstomo (386 d. C.) atestiguó su aceptación general. La elección fue simbólica, no un recuerdo histórico del nacimiento.
 
@@ -205,7 +205,7 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 - Estos son los candidatos más sólidos porque combinan Pascua, viernes y el mandato de Pilato.
 
-- La evidencia astronómica refuerza el año 33: el **3 de abril del 33 d. C.** ocurrió un eclipse lunar parcial al anochecer en Jerusalén. Este “luna de sangre” puede relacionarse con Hechos 2:20 (“la luna se convertirá en sangre”). Humphreys y Waddington (1985) destacaron esta coincidencia como un apoyo convincente.
+- La evidencia astronómica refuerza el año 33: el **3 de abril del 33 d. C.** ocurrió un eclipse lunar parcial al anochecer en Jerusalén. Este «luna de sangre» puede relacionarse con Hechos 2:20 («la luna se convertirá en sangre»). Humphreys y Waddington (1985) destacaron esta coincidencia como un apoyo convincente.
 
 - Así, la mayoría de los eruditos sitúa la crucifixión en el **7 de abril del 30 d. C.** o el **3 de abril del 33 d. C.**, favoreciendo a menudo esta última.
 
@@ -217,7 +217,7 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 - En Europa, más tarde, se absorbieron símbolos estacionales: huevos, liebres e imágenes de fertilidad asociadas con la primavera.
 
-- El nombre inglés “Easter” proviene de Beda, que mencionó un nombre de mes local (*Eosturmonath*). La mayoría de los idiomas conserva formas de “Pascua.” Las afirmaciones populares sobre Ishtar son muy difundidas pero discutidas; no hay textos antiguos directos, aunque la adopción de símbolos de fertilidad fue común.
+- El nombre inglés «Easter» proviene de Beda, que mencionó un nombre de mes local (*Eosturmonath*). La mayoría de los idiomas conserva formas de «Pascua.» Las afirmaciones populares sobre Ishtar son muy difundidas pero discutidas; no hay textos antiguos directos, aunque la adopción de símbolos de fertilidad fue común.
 
 ---
 
@@ -233,7 +233,7 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 - Roma celebraba la **Saturnalia** con vegetación y banquetes.
 
-- El “cumpleaños del sol” (*Sol Invictus*, 25 de diciembre) se asoció con la Navidad.
+- El «cumpleaños del sol» (*Sol Invictus*, 25 de diciembre) se asoció con la Navidad.
 
 - La Pascua acumuló imágenes primaverales y de fertilidad (huevos, liebres) de **costumbres regionales europeas**; la afirmación popular que la vincula a **Ishtar** carece de fundamento etimológico.
 
@@ -302,7 +302,7 @@ No está ordenada en la Escritura; el 25 de diciembre fue adoptado de las fiesta
 (Jeremías 10:2–4) (Deuteronomio 12:29–32) (Marcos 7:8–9)
 
 **Pascua (Easter)**  
-Originalmente la fiesta de la Pascua y resurrección (*Pésaj*); más tarde se mezcló con símbolos solares y de fertilidad después del Concilio de Nicea. El término inglés “Easter” proviene de costumbres primaverales locales y no de la Escritura.  
+Originalmente la fiesta de la Pascua y resurrección (*Pésaj*); más tarde se mezcló con símbolos solares y de fertilidad después del Concilio de Nicea. El término inglés «Easter» proviene de costumbres primaverales locales y no de la Escritura.  
 (Éxodo
 
 **Halloween (Víspera de Todos los Santos)**  
@@ -336,19 +336,19 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 
 - Finegan, Jack. *Manual de Cronología Bíblica*. Ed. revisada. Peabody: Hendrickson, 1998.
 
-- Humphreys, C. J., & Waddington, W. G. “La Fecha de la Crucifixión.” *Journal of the American Scientific Affiliation* 37, núm. 1 (1985): 2–10.
+- Humphreys, C. J., & Waddington, W. G. «La Fecha de la Crucifixión.» *Journal of the American Scientific Affiliation* 37, núm. 1 (1985): 2–10.
 
-- Encyclopaedia Britannica. “Saturnalia.” Consultado 2025.
+- Encyclopaedia Britannica. «Saturnalia.» Consultado 2025.
 
-- Encyclopaedia Britannica. “Sol Invictus.” Consultado 2025.
+- Encyclopaedia Britannica. «Sol Invictus.» Consultado 2025.
 
-- Encyclopaedia Britannica. “Easter.” Consultado 2025.
+- Encyclopaedia Britannica. «Easter.» Consultado 2025.
 
 - Orígenes. *Homilías sobre Levítico*. Siglo III.
 
 - Juan Crisóstomo. *Homilía sobre la Natividad*. Año 386 d. C.
 
-- Talmon, Shemaryahu. “El Concepto del Calendario y la Cronología de la Crucifixión.” *Biblical Archaeologist* 28, núm. 3 (1965).
+- Talmon, Shemaryahu. «El Concepto del Calendario y la Cronología de la Crucifixión.» *Biblical Archaeologist* 28, núm. 3 (1965).
 
 - Beda el Venerable. *De temporum ratione* (El Cómputo del Tiempo), cap. 15 (Eostre).
 
@@ -359,13 +359,13 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 
 ## 7. Mecanismos de control
 
-**(Oseas 4:6)**: "Mi pueblo perece por falta de conocimiento."  
+**(Oseas 4:6)**: «Mi pueblo perece por falta de conocimiento.»  
 ➡ La gente sufre cuando carece de verdad.
 
-**(Mateo 23:13)**: "Ustedes cierran la entrada al reino de los cielos delante de la gente."  
+**(Mateo 23:13)**: «Ustedes cierran la entrada al reino de los cielos delante de la gente.»  
 ➡ Los líderes bloquearon el acceso a Dios.
 
-**Historia:** Durante siglos, solo el latín estaba permitido. Al pueblo se le prohibió leer. En 1559 la iglesia publicó el "Índice de libros prohibidos". Se vendían indulgencias por dinero. La imprenta rompió ese monopolio y difundió la Biblia en lenguas comunes.
+**Historia:** Durante siglos, solo el latín estaba permitido. Al pueblo se le prohibió leer. En 1559 la iglesia publicó el «Índice de libros prohibidos». Se vendían indulgencias por dinero. La imprenta rompió ese monopolio y difundió la Biblia en lenguas comunes.
 
 **Conclusión:** Las instituciones controlaron el conocimiento para proteger su poder.
 
@@ -373,10 +373,10 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 
 ## 8. Ecos modernos
 
-**(2 Timoteo 4:3–4)**: “Vendrá tiempo cuando no soportarán la sana doctrina… se amontonarán maestros conforme a sus propios deseos.”  
+**(2 Timoteo 4:3–4)**: «Vendrá tiempo cuando no soportarán la sana doctrina… se amontonarán maestros conforme a sus propios deseos.»  
 ➡ La Escritura advierte sobre la distorsión por comodidad y poder.
 
-**Historia:** Los debates actuales sobre traducciones, lenguaje inclusivo y sexualidad reflejan antiguas luchas por el control. El evangelio de la prosperidad enseña que la riqueza es la voluntad de Dios, parecido a cuando la iglesia medieval vendía indulgencias (básicamente “boletos al cielo” por dinero). El cristianismo hoy está dividido en decenas de miles de denominaciones, muchas más moldeadas por la cultura, la tradición o la política que por las palabras de Jesús mismo. En todo el mundo, la persecución vuelve a crecer, y la verdad bíblica es ignorada o adaptada a los deseos de la sociedad.
+**Historia:** Los debates actuales sobre traducciones, lenguaje inclusivo y sexualidad reflejan antiguas luchas por el control. El evangelio de la prosperidad enseña que la riqueza es la voluntad de Dios, parecido a cuando la iglesia medieval vendía indulgencias (básicamente «boletos al cielo» por dinero). El cristianismo hoy está dividido en decenas de miles de denominaciones, muchas más moldeadas por la cultura, la tradición o la política que por las palabras de Jesús mismo. En todo el mundo, la persecución vuelve a crecer, y la verdad bíblica es ignorada o adaptada a los deseos de la sociedad.
 
 **Conclusión:** El ciclo de distorsión, poder y división continúa hoy. Sin embargo, el avivamiento aún es posible. El avivamiento no comienza con programas ni movimientos, sino cuando el pueblo de Dios se arrepiente, se aparta del compromiso y vuelve a la autoridad de su Palabra. El mismo Espíritu que resucitó a Jesús de los muertos todavía llama a la iglesia a despertar, a caminar en la verdad y a ser luz en un mundo oscuro.
 
@@ -384,10 +384,10 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 
 ## 9. Por qué la Biblia sigue siendo confiable
 
-**(Isaías 40:8)**: “La hierba se seca y la flor se marchita, pero la palabra de nuestro Dios permanece para siempre.”  
+**(Isaías 40:8)**: «La hierba se seca y la flor se marchita, pero la palabra de nuestro Dios permanece para siempre.»  
 ➡ Dios prometió preservar su palabra.
 
-**(Mateo 24:35)**: “El cielo y la tierra pasarán, pero mis palabras no pasarán.”  
+**(Mateo 24:35)**: «El cielo y la tierra pasarán, pero mis palabras no pasarán.»  
 ➡ Jesús garantizó la permanencia de sus palabras.
 
 **Historia:**

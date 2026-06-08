@@ -41,7 +41,7 @@ Las Escrituras Hebreas contienen más de 300 profecías que apuntan al Mesías. 
 - **Ningún hueso quebrado**: Salmo 34:20; Éxodo 12:46 → Juan 19:33–36
 - **Costado traspasado**: Zacarías 12:10 → Juan 19:34, 37
 - **Oscuridad sobre la tierra**: Amós 8:9 → Mateo 27:45
-- **"Dios mío, Dios mío, ¿por qué me has desamparado?"**: Salmo 22:1 → Mateo 27:46
+- **«Dios mío, Dios mío, ¿por qué me has desamparado?»**: Salmo 22:1 → Mateo 27:46
 
 ## Muerte y Sepultura
 

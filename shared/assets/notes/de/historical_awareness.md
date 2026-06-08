@@ -35,10 +35,10 @@ Ein Leitfaden, um zu verstehen, wie die Bibel, die wir heute haben, durch Übers
 
 ## 2. Übersetzungs- und Auslegungsfragen
 
-**(Nehemia 8:8)**: "Sie lasen aus dem Gesetz Gottes klar vor, erklärten es und gaben die Bedeutung an, sodass das Volk verstand."  
+**(Nehemia 8:8)**: „Sie lasen aus dem Gesetz Gottes klar vor, erklärten es und gaben die Bedeutung an, sodass das Volk verstand.“  
 ➡ Die Schrift war immer für das Verständnis gedacht.
 
-**Geschichte:** Das Alte Testament wurde im 3.–2. Jh. v. Chr. ins Griechische übersetzt (Septuaginta). Später dominierte die Vulgata von Hieronymus, die Verzerrungen einführte ("Tut Buße" statt "Ändert euren Sinn"). 1611 ließ König Jakob eine englische Bibel anfertigen, geprägt von Politik. Die Schriftrollen vom Toten Meer bestätigten die Vielfalt der Texte.
+**Geschichte:** Das Alte Testament wurde im 3.–2. Jh. v. Chr. ins Griechische übersetzt (Septuaginta). Später dominierte die Vulgata von Hieronymus, die Verzerrungen einführte („Tut Buße“ statt „Ändert euren Sinn“). 1611 ließ König Jakob eine englische Bibel anfertigen, geprägt von Politik. Die Schriftrollen vom Toten Meer bestätigten die Vielfalt der Texte.
 
 **Fazit:** Übersetzungen sind entscheidend. Wörter formen Glauben.
 
@@ -71,7 +71,7 @@ Ein Leitfaden, um zu verstehen, wie die Bibel, die wir heute haben, durch Übers
 
 ## 4. Verfolgung und Reform
 
-**(Johannes 16:2)**: "Die Zeit kommt, in der jeder, der euch tötet, denkt, er dient Gott."  
+**(Johannes 16:2)**: „Die Zeit kommt, in der jeder, der euch tötet, denkt, er dient Gott.“  
 ➡ Jesus sagte Verfolgung voraus.
 
 **Geschichte:** Reformatoren wollten die Bibel zurück zum Volk bringen. John Wycliffe übersetzte ins Englische und wurde selbst nach dem Tod verurteilt. William Tyndale wurde 1536 hingerichtet. Luthers 95 Thesen 1517 lösten die Reformation aus. Das Konzil von Trient (1545–1563) stärkte die Kontrolle.
@@ -82,10 +82,10 @@ Ein Leitfaden, um zu verstehen, wie die Bibel, die wir heute haben, durch Übers
 
 ## 5. Verlorene und unterdrückte Texte
 
-**(Judas 1:14–15)**: "Henoch, der siebte nach Adam, hat geweissagt..."  
+**(Judas 1:14–15)**: „Henoch, der siebte nach Adam, hat geweissagt...“  
 ➡ Judas zitiert Henoch.
 
-**(Kolosser 4:16)**: "Lest diesen Brief auch in Laodizea und lest den aus Laodizea."  
+**(Kolosser 4:16)**: „Lest diesen Brief auch in Laodizea und lest den aus Laodizea.“  
 ➡ Paulus erwähnt einen verlorenen Brief.
 
 **Geschichte:** Das Buch Henoch war wichtig, wurde aber ausgeschlossen. Nag Hammadi (1945) enthüllte das Thomasevangelium. Die Schriftrollen vom Toten Meer (1947) zeigten alternative Texte. Viele Schriften wurden unterdrückt, weil sie Macht bedrohten.
@@ -103,7 +103,7 @@ Das *Buch Henoch* wurde in jüdischen und christlichen Gemeinschaften weit verbr
 
 ### **Warum es wichtig ist**
 
-* **Füllt Lücken in Genesis**: Erklärt Genesis 6: wer die „Söhne Gottes” und die „Nephilim“ waren, wie die gefallenen Engel (die Wächter) die Schöpfung verdarben und den Ursprung der Dämonen.
+* **Füllt Lücken in Genesis**: Erklärt Genesis 6: wer die „Söhne Gottes“ und die „Nephilim“ waren, wie die gefallenen Engel (die Wächter) die Schöpfung verdarben und den Ursprung der Dämonen.
 
 * **Echos der Offenbarung**: Beschreibt kosmische Zeichen (verfinsterte Sonne, fallende Sterne, bebende Erde), Engelgerichte und die endgültige Vernichtung der Gottlosen, was eng mit den Siegeln und Posaunen der Offenbarung übereinstimmt.
 
@@ -161,7 +161,7 @@ Henoch ist nicht randständig; er ist zentral. **1 Henoch** klärt Genesis, vert
 
 ## 6. Entlehnte Feste (Synkretismus)
 
-**(Jeremia 10:2–4)**: "Lernt nicht den Weg der Nationen... Sie schlagen einen Baum aus dem Wald, den der Handwerker mit dem Meißel bearbeitet. Sie schmücken ihn mit Silber und Gold, befestigen ihn mit Hammer und Nägeln, damit er nicht wackelt."
+**(Jeremia 10:2–4)**: „Lernt nicht den Weg der Nationen... Sie schlagen einen Baum aus dem Wald, den der Handwerker mit dem Meißel bearbeitet. Sie schmücken ihn mit Silber und Gold, befestigen ihn mit Hammer und Nägeln, damit er nicht wackelt.“
 
 ➡ Eine Warnung davor, die Bräuche heidnischer Völker zu übernehmen.
 
@@ -302,7 +302,7 @@ Nicht in der Schrift geboten; der 25. Dezember wurde von den römischen Festen *
 (Jeremia 10:2–4) (5 Mose 12:29–32) (Markus 7:8–9)
 
 **Ostern**  
-Ursprünglich das Passah- und Auferstehungsfest (*Pascha*); später mit Fruchtbarkeits- und Sonnensymbolen nach dem Konzil von Nicäa vermischt. Das englische Wort "Easter" stammt aus regionalen Frühlingsbräuchen und nicht aus der Schrift.  
+Ursprünglich das Passah- und Auferstehungsfest (*Pascha*); später mit Fruchtbarkeits- und Sonnensymbolen nach dem Konzil von Nicäa vermischt. Das englische Wort „Easter“ stammt aus regionalen Frühlingsbräuchen und nicht aus der Schrift.  
 (2 Mose 12:14) (1 Korinther 5:7–8) (Apostelgeschichte 12:4) (Kolosser 2:16–17)
 
 **Halloween (Allerheiligenabend)**  
@@ -358,10 +358,10 @@ Gläubige, die biblische Übereinstimmung suchen, sollten die von Gott in (3 Mos
 
 ## 7. Kontrolle und Macht
 
-**(Hosea 4:6)**: "Mein Volk geht zugrunde, weil es keine Erkenntnis hat."  
+**(Hosea 4:6)**: „Mein Volk geht zugrunde, weil es keine Erkenntnis hat.“  
 ➡ Menschen leiden ohne Wahrheit.
 
-**(Matthäus 23:13)**: "Ihr verschließt das Himmelreich vor den Menschen."  
+**(Matthäus 23:13)**: „Ihr verschließt das Himmelreich vor den Menschen.“  
 ➡ Führer hielten Menschen fern von Gott.
 
 **Geschichte:** Jahrhunderte lang war die Bibel nur lateinisch. Das Volk durfte sie nicht lesen. 1559 erstellte die Kirche den Index verbotener Bücher. Ablasshandel verkaufte Vergebung. Der Buchdruck verbreitete die Schrift in Volkssprachen.

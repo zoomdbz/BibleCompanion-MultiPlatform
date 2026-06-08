@@ -51,7 +51,7 @@ E
   - Ebraico: בֵּן (*ben*)  
   - Greco (LXX): υἱός (*huios*)  
   - Aramaico: בַּר (*bar*)  
-  - **Italiano:** “Figlio”  
+  - **Italiano:** «Figlio»  
   - *Contesto: Il re davidico è chiamato figlio di Dio; applicato a Gesù come vero Figlio di Dio.*  
 
 -  Salmo 2:7: «Tu sei mio figlio; oggi ti ho generato».  
@@ -59,7 +59,7 @@ E
   - Ebraico: בְּנִי אַתָּה (*beni attah*)  
   - Greco (LXX): υἱός μου εἶ σύ (*huios mou ei sy*)  
   - Aramaico: אַתְּ בְּרִי (*att bri*)  
-  - **Italiano:** “Tu sei mio figlio”  
+  - **Italiano:** «Tu sei mio figlio»  
   - *Contesto: Salmo di intronizzazione reale che identifica il Messia come Figlio di Dio.*  
 
 -  Salmo 110:1: «Il Signore ha detto al mio Signore».  
@@ -67,7 +67,7 @@ E
   - Ebraico: לַאדֹנִי (*la’adoni*)  
   - Greco (LXX): τῷ κυρίῳ μου (*tō kyriō mou*)  
   - Aramaico: לְמָרִי (*l’mari*)  
-  - **Italiano:** “Il mio Signore”  
+  - **Italiano:** «Il mio Signore»  
   - *Contesto: Un secondo Signore è intronizzato con autorità divina; Gesù cita questo passo a proposito di sé.*  
 
 -  Isaia 9:6: Il bambino con titoli divini, trono di Davide.  
@@ -75,7 +75,7 @@ E
   - Ebraico: אֵל גִּבּוֹר (*El Gibbor*)  
   - Greco (LXX): ἄγγελος μεγάλης βουλῆς (*angelos megalēs boulēs*)  
   - Aramaico: אֱלָהּ גִּבָּר (*elah gibbar*)  
-  - **Italiano:** “Dio potente”  
+  - **Italiano:** «Dio potente»  
   - *Contesto: Profezia di un bambino divino che regnerà sul trono di Davide; i titoli appartengono solo a Dio.*  
 
 -  Daniele 7:13: «Uno simile a un figlio d’uomo» riceve il dominio.  
@@ -83,7 +83,7 @@ E
   - Ebraico/Aramaico: כְּבַר אֱנָשׁ (*ke-bar enash*)  
   - Greco (LXX/OG): ὡς υἱὸς ἀνθρώπου (*hōs huios anthrōpou*)  
   - Aramaico (originale): בַּר אֱנָשׁ (*bar enash*)  
-  - **Italiano:** “Figlio dell’uomo”  
+  - **Italiano:** «Figlio dell’uomo»  
   - *Contesto: Visione di una figura celeste intronizzata con dominio eterno; Gesù ha applicato questo titolo a sé stesso.*  
 
 **Riferimenti del Nuovo Testamento al di fuori dei Vangeli**  
@@ -97,7 +97,7 @@ E
 
 
 **Note per i lettori**  
--  “Figlio di Dio” nel quadro regale-messianico equivale al Re unto che porta il governo di Dio. Nei Vangeli, questo titolo va oltre la metafora reale. La parola diretta del Padre, la relazione unica di Gesù e le sue opere divine ridefiniscono il titolo con solidarietà divina.  
+-  «Figlio di Dio» nel quadro regale-messianico equivale al Re unto che porta il governo di Dio. Nei Vangeli, questo titolo va oltre la metafora reale. La parola diretta del Padre, la relazione unica di Gesù e le sue opere divine ridefiniscono il titolo con solidarietà divina.  
 
 
 ---
@@ -111,7 +111,7 @@ E
   - Ebraico: דְּבַר יְהוָה (*d’var YHWH*)  
   - Greco: λόγος (*logos*)  
   - Aramaico: מֵימְרָא (*memra*)  
-  - **Italiano:** “Verbo/Parola”  
+  - **Italiano:** «Verbo/Parola»  
   - *Contesto: Il Logos/Verbo è identificato come Dio e diventa carne in Gesù.*  
 
 -  Giovanni 8:58: «Prima che Abramo fosse, Io Sono».  
@@ -119,7 +119,7 @@ E
   - Ebraico (Esodo 3:14): אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Greco: ἐγώ εἰμι (*egō eimi*)  
   - Aramaico: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
-  - **Italiano:** “IO SONO”  
+  - **Italiano:** «IO SONO»  
   - *Contesto: Gesù applica a sé stesso il nome divino dell’auto-rivelazione di Esodo.*  
 
 -  Giovanni 10:30: «Il Padre ed io siamo uno».  
@@ -127,7 +127,7 @@ E
   - Ebraico: אֶחָד (*echad*)  
   - Greco: ἕν (*hen*)  
   - Aramaico: חַד (*chad*)  
-  - **Italiano:** “Uno”  
+  - **Italiano:** «Uno»  
   - *Contesto: Affermazione di unità con il Padre; gli ascoltatori lo accusano di bestemmia.*  
 
 -  Giovanni 20:28: «Mio Signore e mio Dio!»  
@@ -135,7 +135,7 @@ E
   - Ebraico: אֲדֹנִי וֵאלֹהַי (*adonai v’elohai*)  
   - Greco: ὁ κύριός μου καὶ ὁ θεός μου (*ho kurios mou kai ho theos mou*)  
   - Aramaico: מָרִי וֵאלָהִי (*mari v’elahi*)  
-  - **Italiano:** “Mio Signore e mio Dio”  
+  - **Italiano:** «Mio Signore e mio Dio»  
   - *Contesto: Tommaso confessa direttamente Gesù risorto come Signore e Dio.*  
 
 **Prerogative e azioni divine che implicano la divinità**  
@@ -153,7 +153,7 @@ E
   - Ebraico: בְּשֵׁם (*b’shem*)  
   - Greco: ὄνομα (*onoma*)  
   - Aramaico: שְׁמָא (*shema*)  
-  - **Italiano:** “Nome (singolare)”  
+  - **Italiano:** «Nome (singolare)»  
   - *Contesto: Un unico nome condiviso dal Padre, dal Figlio e dallo Spirito: unità divina.*  
 
 -  Giovanni 14–16: Gesù manda il Paraclito; Padre, Figlio e Spirito agiscono in una sola missione.  
@@ -166,7 +166,7 @@ E
   - Ebraico: אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Greco (LXX): ἐγώ εἰμι ὁ ὤν (*egō eimi ho ōn*)  
   - Aramaico: אֲנָא הוּא (*ana hu*)  
-  - **Italiano:** “IO SONO”  
+  - **Italiano:** «IO SONO»  
   - *Contesto: Auto-identificazione di Dio; Gesù riprende questo in Giovanni 8:58 e Apocalisse.*  
 
 -  Deuteronomio 32:39; Isaia 41:4; 43:10–11; 44:6; 48:12: Dio come il Primo e l’Ultimo; riflesso in Apocalisse 1:17–18.  
@@ -210,11 +210,11 @@ E
 
 # Il Grido di Abbandono di Gesù
 
-Un momento vitale per comprendere la divinità di Gesù è il suo grido dalla croce: *“Dio mio, Dio mio, perché mi hai abbandonato?”* (Matteo 27:46) (Marco 15:34). A prima vista, può sembrare debolezza o persino separazione da Dio, ma in realtà rivela sia la sua piena umanità sia la sua missione divina. Citando la prima riga del Salmo 22 (Salmo 22:1), Gesù attirò l’attenzione sull’intero salmo: un passaggio che inizia con un profondo lamento ma termina con la vittoria e l’adorazione universale. Questo grido non è una perdita di divinità; è il Figlio di Dio che entra pienamente nella nostra esperienza umana di peccato e giudizio per redimerla.
+Un momento vitale per comprendere la divinità di Gesù è il suo grido dalla croce: *«Dio mio, Dio mio, perché mi hai abbandonato?»* (Matteo 27:46) (Marco 15:34). A prima vista, può sembrare debolezza o persino separazione da Dio, ma in realtà rivela sia la sua piena umanità sia la sua missione divina. Citando la prima riga del Salmo 22 (Salmo 22:1), Gesù attirò l’attenzione sull’intero salmo: un passaggio che inizia con un profondo lamento ma termina con la vittoria e l’adorazione universale. Questo grido non è una perdita di divinità; è il Figlio di Dio che entra pienamente nella nostra esperienza umana di peccato e giudizio per redimerla.
 
 ---
 
-Quando Gesù gridò *“Dio mio, Dio mio, perché mi hai abbandonato?”* (Matteo 27:46) (Marco 15:34), stava **citando la prima riga del Salmo 22** (Salmo 22:1). Nella pratica ebraica, citare la prima riga indirizzava l’ascoltatore all’**intero salmo**, non solo alle parole iniziali.
+Quando Gesù gridò *«Dio mio, Dio mio, perché mi hai abbandonato?»* (Matteo 27:46) (Marco 15:34), stava **citando la prima riga del Salmo 22** (Salmo 22:1). Nella pratica ebraica, citare la prima riga indirizzava l’ascoltatore all’**intero salmo**, non solo alle parole iniziali.
 
 ---
 
@@ -224,17 +224,17 @@ Quando Gesù gridò *“Dio mio, Dio mio, perché mi hai abbandonato?”* (Matte
 
 - **Descrive la scena della crocifissione**: scherni, mani e piedi trafitti, divisione delle vesti.
 
-- **Termina con il trionfo**: Dio libera, le nazioni adoreranno, e il salmo si conclude con *“Egli ha compiuto”* (Salmo 22:31) (simile alle parole di Gesù *“È compiuto”* (Giovanni 19:30)).
+- **Termina con il trionfo**: Dio libera, le nazioni adoreranno, e il salmo si conclude con *«Egli ha compiuto»* (Salmo 22:31) (simile alle parole di Gesù *«È compiuto»* (Giovanni 19:30)).
 
 ---
 
-### Cosa significa “abbandonato”
+### Cosa significa «abbandonato»
 
 - **Gesù provò davvero la distanza umana da Dio.** Entrò in tutto il peso del nostro peccato e della nostra maledizione.
 
-- **Non è una rottura nella Trinità.** Il Padre e il Figlio non furono mai divisi nell’essere. Gesù confidò ancora nel Padre: le sue ultime parole furono, *“Padre, nelle tue mani rimetto il mio spirito.”* (Luca 23:46)
+- **Non è una rottura nella Trinità.** Il Padre e il Figlio non furono mai divisi nell’essere. Gesù confidò ancora nel Padre: le sue ultime parole furono, *«Padre, nelle tue mani rimetto il mio spirito.»* (Luca 23:46)
 
-- **Egli portò il giudizio dell’alleanza.** Sulla croce subì la pena del peccato (Galati 3:13) (2 Corinzi 5:21). L’“abbandono” è giudiziario, non relazionale.
+- **Egli portò il giudizio dell’alleanza.** Sulla croce subì la pena del peccato (Galati 3:13) (2 Corinzi 5:21). L’«abbandono» è giudiziario, non relazionale.
 
 ---
 

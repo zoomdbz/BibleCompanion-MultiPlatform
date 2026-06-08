@@ -153,11 +153,11 @@ Gottes Gerechtigkeit fehlte nie; sie entfaltete sich. Der Gerechte mag eine Zeit
 Sein Schweigen ist keine Abwesenheit; es ist Einladung. Er spricht am klarsten durch Ausdauer, Verwandlung und Liebe, die in der Dunkelheit bleibt.  
 Gebet informiert Gott nicht; es richtet das Herz auf seinen Willen aus. Wenn er zu schweigen scheint, verfeinert er oft Geduld und Glauben. Gottes Schweigen ist nie Gleichgültigkeit; es ist Schulung.
 
-- **Psalm 13,2–3**: „Wie lange, HERR? Willst du mich auf ewig vergessen?” Davids Klage zeigt: Schweigen kann den Glauben begleiten.
+- **Psalm 13,2–3**: „Wie lange, HERR? Willst du mich auf ewig vergessen?“ Davids Klage zeigt: Schweigen kann den Glauben begleiten.
 
-- **Jesaja 55,8–9**: „Meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege, spricht der HERR.”
+- **Jesaja 55,8–9**: „Meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege, spricht der HERR.“
 
-- **Matthäus 7,7–8**: „Bittet, so wird euch gegeben; sucht, so werdet ihr finden; klopft an, so wird euch aufgetan.”  
+- **Matthäus 7,7–8**: „Bittet, so wird euch gegeben; sucht, so werdet ihr finden; klopft an, so wird euch aufgetan.“  
   Beharrlichkeit bezeugt Vertrauen.
 
 Die Schrift nennt mehrere Gründe für verspätete, andere oder verweigerte Ergebnisse.
@@ -303,7 +303,7 @@ Die Schrift rahmt diese Befehle als **begrenzte Gerichte**, **Schutz vor zersetz
 
 ### **8. Wie kann ein liebender Gott Menschen in die Hölle schicken?**
 
-Zunächst: Die Hölle wurde nie für Menschen geschaffen. Jesus selbst sagt in **Matthäus 25,41**: „Geht weg von mir, ihr Verfluchten, in das ewige Feuer, das **bereitet ist dem Teufel und seinen Engeln**." Die Hölle wurde als Gericht über Satan und die gefallenen Engel geschaffen, die gegen Gott rebellierten; sie war nie als Bestimmungsort für einen Menschen gedacht.
+Zunächst: Die Hölle wurde nie für Menschen geschaffen. Jesus selbst sagt in **Matthäus 25,41**: „Geht weg von mir, ihr Verfluchten, in das ewige Feuer, das **bereitet ist dem Teufel und seinen Engeln**.“ Die Hölle wurde als Gericht über Satan und die gefallenen Engel geschaffen, die gegen Gott rebellierten; sie war nie als Bestimmungsort für einen Menschen gedacht.
 
 Die Schrift zeigt die Hölle nicht als göttliche Grausamkeit; sondern als Endfolge menschlicher Entscheidung. Gott ehrt die Freiheit, die er gab; Liebe kann nicht erzwungen werden, und die Ablehnung seiner Gegenwart führt natürlich zur Trennung von ihm. Die Hölle ist diese Trennung in Permanenz.
 
@@ -464,7 +464,7 @@ Zugleich bezeugt die Schrift, dass Gott sich unter den Völkern nie ohne Zeugnis
 
 Von Anfang an wollte Gott, dass alle Völker ihn erkennen. Israel wurde erwählt, um die Offenbarung zu bewahren und den Messias hervorzubringen, durch den alle Nationen gesegnet werden (**1. Mose 12,3**). Jesus erklärte, dass er die Fülle dieser Offenbarung ist; das Licht, an dem alle kleineren Lichter gemessen werden.
 
-Die Schrift zeigt jedoch auch: Falscher Gottesdienst ist nicht nur menschliche Verwirrung; oft steht geistliche Rebellion dahinter. Gefallene Mächte, „Fürstentümer und Gewalten”, verdrehen Gottes Wahrheit und ziehen Menschen in Götzendienst und Verderben.  
+Die Schrift zeigt jedoch auch: Falscher Gottesdienst ist nicht nur menschliche Verwirrung; oft steht geistliche Rebellion dahinter. Gefallene Mächte, „Fürstentümer und Gewalten“, verdrehen Gottes Wahrheit und ziehen Menschen in Götzendienst und Verderben.  
 Diese Einflüsse geben sich als Götter aus, fordern Opfer, verkehren Moral und widersetzen sich der Wahrheit.
 
 **Biblische Belege:**

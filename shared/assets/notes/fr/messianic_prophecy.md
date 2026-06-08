@@ -41,7 +41,7 @@ Les Écritures Hébraïques contiennent plus de 300 prophéties pointant vers le
 - **Aucun os brisé** : Psaume 34:20 ; Exode 12:46 → Jean 19:33–36
 - **Côté percé** : Zacharie 12:10 → Jean 19:34, 37
 - **Ténèbres sur la terre** : Amos 8:9 → Matthieu 27:45
-- **"Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ?"** : Psaume 22:1 → Matthieu 27:46
+- **« Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ? »** : Psaume 22:1 → Matthieu 27:46
 
 ## Mort et Sépulture
 

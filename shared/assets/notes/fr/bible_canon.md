@@ -4,7 +4,7 @@ Cette page explique comment la Bible s’est formée, ce que les premiers concil
 
 ---
 
-## Que signifie « canon » ?
+## Que signifie « canon » ?
 
 Le mot *canon* signifie une règle de mesure ou une norme.
 
@@ -286,7 +286,7 @@ Alors des évêques ont poussé pour :
 
 - des livres largement utilisés à travers les régions
 
-- des livres qui correspondaient à ce qu’ils considéraient comme « l’enseignement orthodoxe »
+- des livres qui correspondaient à ce qu’ils considéraient comme « l’enseignement orthodoxe »
 
 C’est cette dernière partie où la politique et la théologie se sont mêlées.
 La politique n’a pas réécrit l’Écriture, mais elle a influencé la survie.
@@ -316,7 +316,7 @@ Le Livre d’Hénoch était ancien, respecté, et largement connu.
 
 - Il décrit une rébellion cosmique et le jugement
 
-- Il présente un « Fils de l’homme » préexistant
+- Il présente un « Fils de l’homme » préexistant
 
 - Il a fortement influencé l’imagerie du Nouveau Testament
 
@@ -343,7 +343,7 @@ Il a été exclu principalement parce que :
 
 À mesure que la théologie s’est systématisée, Hénoch est devenu moins commode.
 
-Il a brisé la théologie bien rangée du « problème surtout humain » qui s’est développée plus tard.
+Il a brisé la théologie bien rangée du « problème surtout humain » qui s’est développée plus tard.
 
 Hénoch dit que l’humanité n’est pas seulement tombée.
 
@@ -364,8 +364,8 @@ Hénoch n’est pas simple.
 **Mais pourquoi c’est important :**
 L’épître de Jude cite Hénoch directement comme prophétie.
 
-Pas « comme une illustration ».
-Pas « comme une histoire ».
+Pas « comme une illustration ».
+Pas « comme une histoire ».
 
 **Comme prophétie.**
 

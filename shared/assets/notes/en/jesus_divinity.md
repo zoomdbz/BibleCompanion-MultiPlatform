@@ -10,7 +10,7 @@ And
 
 ---
 
-*Note: Translation notes in this document show how the original texts (Hebrew, Greek, and Aramaic) express the terms directly connected to Jesus’ divine identity. They are not English-to-Hebrew translations, but the earliest linguistic evidence supporting Jesus’ divinity.*  
+*Note: Translation notes in this document show how the original texts (Hebrew, Greek, and Aramaic) express the terms directly connected to Jesus' divine identity. They are not English-to-Hebrew translations, but the earliest linguistic evidence supporting Jesus' divinity.*  
 
 ---
 
@@ -39,11 +39,11 @@ And
 
 -  John 10:36: Jesus says the Father consecrated and sent him as Son of God.  
 
--  John 11:4; 11:27: Raising Lazarus links to the Son of God; Martha’s confession.  
+-  John 11:4; 11:27: Raising Lazarus links to the Son of God; Martha's confession.  
 
 -  John 19:7: Charge of making himself Son of God.  
 
--  John 20:31: John’s purpose statement: that you may believe Jesus is the Messiah, the Son of God.  
+-  John 20:31: John's purpose statement: that you may believe Jesus is the Messiah, the Son of God.  
 
 
 **Old Testament anchors and royal-messianic cross references**  
@@ -53,23 +53,23 @@ And
   - Hebrew: בֵּן (*ben*)  
   - Greek (LXX): υἱός (*huios*)  
   - Aramaic: בַּר (*bar*)  
-  - **English:** “Son”  
-  - *Context: The Davidic king is called God’s son; applied to Jesus as true Son of God.*  
+  - **English:** "Son"  
+  - *Context: The Davidic king is called God's son; applied to Jesus as true Son of God.*  
 
 -  Psalm 2:7: "You are my son; today I have begotten you."  
 
   - Hebrew: בְּנִי אַתָּה (*beni attah*)  
   - Greek (LXX): υἱός μου εἶ σύ (*huios mou ei sy*)  
   - Aramaic: אַתְּ בְּרִי (*att bri*)  
-  - **English:** “You are my son”  
-  - *Context: Royal enthronement psalm identifying the Messiah as God’s Son.*  
+  - **English:** "You are my son"  
+  - *Context: Royal enthronement psalm identifying the Messiah as God's Son.*  
 
 -  Psalm 110:1: "The Lord says to my Lord."  
 
-  - Hebrew: לַאדֹנִי (*la’adoni*)  
+  - Hebrew: לַאדֹנִי (*la'adoni*)  
   - Greek (LXX): τῷ κυρίῳ μου (*tō kyriō mou*)  
-  - Aramaic: לְמָרִי (*l’mari*)  
-  - **English:** “My Lord”  
+  - Aramaic: לְמָרִי (*l'mari*)  
+  - **English:** "My Lord"  
   - *Context: A second Lord is enthroned with divine authority; Jesus cites this of himself.*  
 
 -  Isaiah 9:6: The child with divine titles, throne of David.  
@@ -77,15 +77,15 @@ And
   - Hebrew: אֵל גִּבּוֹר (*El Gibbor*)  
   - Greek (LXX): ἄγγελος μεγάλης βουλῆς (*angelos megalēs boulēs*)  
   - Aramaic: אֱלָהּ גִּבָּר (*elah gibbar*)  
-  - **English:** “Mighty God”  
-  - *Context: Prophecy of a divine child ruling on David’s throne; titles belong to God alone.*  
+  - **English:** "Mighty God"  
+  - *Context: Prophecy of a divine child ruling on David's throne; titles belong to God alone.*  
 
 -  Daniel 7:13: "One like a son of man" receiving dominion.  
 
   - Hebrew/Aramaic: כְּבַר אֱנָשׁ (*ke-bar enash*)  
   - Greek (LXX/OG): ὡς υἱὸς ἀνθρώπου (*hōs huios anthrōpou*)  
   - Aramaic (original): בַּר אֱנָשׁ (*bar enash*)  
-  - **English:** “Son of Man”  
+  - **English:** "Son of Man"  
   - *Context: Vision of a heavenly figure enthroned with eternal dominion; Jesus applied this title to himself.*  
 
 **New Testament cross references outside the Gospels**  
@@ -99,7 +99,7 @@ And
 
 
 **Notes for readers**  
--  "Son of God" in the royal-messianic frame equals the anointed King who bears God’s rule. In the Gospels, this title escalates beyond royal metaphor. The Father’s direct speech, Jesus’ unique relationship, and his divine works redefine the title with divine solidarity.  
+-  "Son of God" in the royal-messianic frame equals the anointed King who bears God's rule. In the Gospels, this title escalates beyond royal metaphor. The Father's direct speech, Jesus' unique relationship, and his divine works redefine the title with divine solidarity.  
 
 
 ---
@@ -111,10 +111,10 @@ And
 
 -  John 1:1: "The Word was God."  
 
-  - Hebrew: דְּבַר יְהוָה (*d’var YHWH*)  
+  - Hebrew: דְּבַר יְהוָה (*d'var YHWH*)  
   - Greek: λόγος (*logos*)  
   - Aramaic: מֵימְרָא (*memra*)  
-  - **English:** “Word”  
+  - **English:** "Word"  
   - *Context: Logos/Word is identified as God and becomes flesh in Jesus.*  
 
 -  John 8:58: "Before Abraham was, I am."  
@@ -122,7 +122,7 @@ And
   - Hebrew (Exodus 3:14): אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Greek: ἐγώ εἰμι (*egō eimi*)  
   - Aramaic: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
-  - **English:** “I AM”  
+  - **English:** "I AM"  
   - *Context: Jesus applies the divine self-revelation of Exodus directly to himself.*  
 
 -  John 10:30: "The Father and I are one."  
@@ -130,15 +130,15 @@ And
   - Hebrew: אֶחָד (*echad*)  
   - Greek: ἕν (*hen*)  
   - Aramaic: חַד (*chad*)  
-  - **English:** “One”  
+  - **English:** "One"  
   - *Context: Unity claim with the Father; hearers charge him with blasphemy.*  
 
 -  John 20:28: "My Lord and my God."  
 
-  - Hebrew: אֲדֹנִי וֵאלֹהַי (*adonai v’elohai*)  
+  - Hebrew: אֲדֹנִי וֵאלֹהַי (*adonai v'elohai*)  
   - Greek: ὁ κύριός μου καὶ ὁ θεός μου (*ho kurios mou kai ho theos mou*)  
-  - Aramaic: מָרִי וֵאלָהִי (*mari v’elahi*)  
-  - **English:** “My Lord and my God”  
+  - Aramaic: מָרִי וֵאלָהִי (*mari v'elahi*)  
+  - **English:** "My Lord and my God"  
   - *Context: Thomas directly confesses the risen Jesus as both Lord and God.*  
 
 **Divine prerogatives and actions that imply deity**  
@@ -153,10 +153,10 @@ And
 
 -  Matthew 28:18–20: "Baptizing them in the name of the Father, the Son, and the Holy Spirit."  
 
-  - Hebrew: בְּשֵׁם (*b’shem*)  
+  - Hebrew: בְּשֵׁם (*b'shem*)  
   - Greek: ὄνομα (*onoma*)  
   - Aramaic: שְׁמָא (*shema*)  
-  - **English:** “Name (singular)”  
+  - **English:** "Name (singular)"  
   - *Context: One name shared by Father, Son, and Spirit: divine unity.*  
 
 -  John 14–16: Jesus sends the Paraclete; Father, Son, and Spirit act in one mission.  
@@ -169,8 +169,8 @@ And
   - Hebrew: אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*)  
   - Greek (LXX): ἐγώ εἰμι ὁ ὤν (*egō eimi ho ōn*)  
   - Aramaic: אֲנָא הוּא (*ana hu*)  
-  - **English:** “I AM”  
-  - *Context: God’s self-identification; Jesus echoes this in John 8:58 and Revelation.*  
+  - **English:** "I AM"  
+  - *Context: God's self-identification; Jesus echoes this in John 8:58 and Revelation.*  
 
 -  Deuteronomy 32:39; Isaiah 41:4; 43:10–11; 44:6; 48:12: God as the First and Last; mirrored in Revelation 1:17–18.  
 
@@ -184,7 +184,7 @@ And
 
 -  Titus 2:13: Our great God and Savior, Jesus Christ.  
 
--  Hebrews 1:3; Hebrews 1:8–12: The Son as radiance of God’s glory; divine psalms applied to him.  
+-  Hebrews 1:3; Hebrews 1:8–12: The Son as radiance of God's glory; divine psalms applied to him.  
 
 -  Revelation 1:8; 1:17–18; 22:13: Alpha and Omega; First and Last; living one who was dead and lives forever.  
 
@@ -212,13 +212,13 @@ And
 
 ---
 
-# Jesus’ Cry of Forsakenness
+# Jesus' Cry of Forsakenness
 
-A vital moment in understanding Jesus’ divinity is His cry from the cross: *“My God, my God, why have you forsaken me?”* (Matthew 27:46) (Mark 15:34). At first glance, this can sound like weakness or even separation from God, but in truth it reveals both His full humanity and His divine mission. By quoting the opening line of Psalm 22 (Psalm 22:1), Jesus drew attention to the entire psalm, a passage that begins in deep lament but ends in victory and worldwide worship. This cry is not a loss of divinity; it is the Son of God entering fully into our human experience of sin and judgment so that He could redeem it.
+A vital moment in understanding Jesus' divinity is His cry from the cross: *"My God, my God, why have you forsaken me?"* (Matthew 27:46) (Mark 15:34). At first glance, this can sound like weakness or even separation from God, but in truth it reveals both His full humanity and His divine mission. By quoting the opening line of Psalm 22 (Psalm 22:1), Jesus drew attention to the entire psalm, a passage that begins in deep lament but ends in victory and worldwide worship. This cry is not a loss of divinity; it is the Son of God entering fully into our human experience of sin and judgment so that He could redeem it.
 
 ---
 
-When Jesus cried out *“My God, my God, why have you forsaken me?”* (Matthew 27:46) (Mark 15:34), He was **quoting the first line of Psalm 22** (Psalm 22:1). In Jewish practice, saying the opening line points the listener to the **whole psalm**, not just the opening words.
+When Jesus cried out *"My God, my God, why have you forsaken me?"* (Matthew 27:46) (Mark 15:34), He was **quoting the first line of Psalm 22** (Psalm 22:1). In Jewish practice, saying the opening line points the listener to the **whole psalm**, not just the opening words.
 
 ---
 
@@ -228,17 +228,17 @@ When Jesus cried out *“My God, my God, why have you forsaken me?”* (Matthew 
 
 - **Describes the crucifixion scene**: mockery, pierced hands and feet, divided garments.
 
-- **Ends in triumph**: God delivers, nations will worship, and the psalm closes with *“He has done it”* (Psalm 22:31) (similar to Jesus’ *“It is finished”* (John 19:30)).
+- **Ends in triumph**: God delivers, nations will worship, and the psalm closes with *"He has done it"* (Psalm 22:31) (similar to Jesus' *"It is finished"* (John 19:30)).
 
 ---
 
-### What “Forsaken” Means
+### What "Forsaken" Means
 
 - **Jesus truly felt human God-distance.** He entered the full weight of our sin and curse.
 
-- **Not a break in the Trinity.** The Father and Son were never divided in being. Jesus still trusted the Father: His last words were, *“Father, into your hands I commit my spirit.”* (Luke 23:46)
+- **Not a break in the Trinity.** The Father and Son were never divided in being. Jesus still trusted the Father: His last words were, *"Father, into your hands I commit my spirit."* (Luke 23:46)
 
-- **He bore covenant judgment.** On the cross He carried the penalty of sin (Galatians 3:13) (2 Corinthians 5:21). The “forsakenness” is judicial, not relational.
+- **He bore covenant judgment.** On the cross He carried the penalty of sin (Galatians 3:13) (2 Corinthians 5:21). The "forsakenness" is judicial, not relational.
 
 ---
 
@@ -254,7 +254,7 @@ When Jesus cried out *“My God, my God, why have you forsaken me?”* (Matthew 
 
 ### Key Insight
 
-Jesus was not abandoned in His divinity. He **chose to step into our sense of abandonment** so He could carry it, redeem it, and lead it into victory. His cry of forsakenness becomes the bridge from our darkest moments to God’s saving power.
+Jesus was not abandoned in His divinity. He **chose to step into our sense of abandonment** so He could carry it, redeem it, and lead it into victory. His cry of forsakenness becomes the bridge from our darkest moments to God's saving power.
 
 ---
 

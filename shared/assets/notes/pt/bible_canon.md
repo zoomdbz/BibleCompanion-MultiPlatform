@@ -3,7 +3,7 @@ Esta página explica como a Bíblia se formou, o que os primeiros concílios da 
 
 ---
 
-## O que significa "cânon"?
+## O que significa «cânon»?
 
 A palavra *cânon* significa uma vara de medir ou uma regra.
 
@@ -285,7 +285,7 @@ Então bispos pressionaram por:
 
 - livros amplamente usados entre regiões
 
-- livros que se encaixassem no que eles viam como "ensino ortodoxo"
+- livros que se encaixassem no que eles viam como «ensino ortodoxo»
 
 Essa última parte é onde política e teologia se misturaram.
 A política não reescreveu a Escritura, mas influenciou a sobrevivência.
@@ -315,7 +315,7 @@ O Livro de Enoque era antigo, respeitado, e amplamente conhecido.
 
 - Ele descreve rebelião cósmica e julgamento
 
-- Ele apresenta um "Filho do Homem" preexistente
+- Ele apresenta um «Filho do Homem» preexistente
 
 - Ele influenciou fortemente a imagética do Novo Testamento
 
@@ -342,7 +342,7 @@ Ele foi excluído principalmente porque:
 
 À medida que a teologia ficou mais sistematizada, Enoque ficou menos conveniente.
 
-Ele destruiu a teologia arrumada do "problema principalmente humano" que se desenvolveu depois.
+Ele destruiu a teologia arrumada do «problema principalmente humano» que se desenvolveu depois.
 
 Enoque diz que a humanidade não apenas caiu.
 
@@ -363,8 +363,8 @@ Enoque não é simples.
 **Mas por que é importante:**
 A carta da Epístola de Judas cita Enoque diretamente como profecia.
 
-Não "como uma ilustração."
-Não "como uma história."
+Não «como uma ilustração.»
+Não «como uma história.»
 
 **Como profecia.**
 

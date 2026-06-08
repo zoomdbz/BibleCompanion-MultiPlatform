@@ -14,9 +14,9 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 ---  
 
 ## 1. Die drei Himmel  
-**Einfach erklärt:** Die Bibel verwendet „Himmel” in mehr als einem Sinn.  
+**Einfach erklärt:** Die Bibel verwendet „Himmel“ in mehr als einem Sinn.  
 
-- **(Genesis 1,8)** – „Und Gott nannte die Ausdehnung Himmel.”  
+- **(Genesis 1,8)** – „Und Gott nannte die Ausdehnung Himmel.“  
 
 - **(Daniel 10,13)** – „Der Fürst des Königreichs Persien widerstand mir einundzwanzig Tage.“  
 
@@ -32,7 +32,7 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 ## 2. Mächte und Gewalten  
 **Einfach erklärt:** Es gibt organisierte böse Mächte, die sich Gottes Volk widersetzen; Christus hat die höchste Autorität über sie.  
 
-- **(Epheser 6,12)** – „Unser Kampf… ist gegen die Herrschaften… die Weltbeherrscher dieser Finsternis.”  
+- **(Epheser 6,12)** – „Unser Kampf… ist gegen die Herrschaften… die Weltbeherrscher dieser Finsternis.“  
 
 - **(Daniel 10,20)** – „Der Fürst von Griechenland wird kommen.“  
 
@@ -113,11 +113,11 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 
 - **(Epheser 6,13–18)** – Die volle Waffenrüstung Gottes.  
 
-- **(Jakobus 4,7)** – „Widersteht dem Teufel, so flieht er von euch."  
+- **(Jakobus 4,7)** – „Widersteht dem Teufel, so flieht er von euch.“  
 
-- **(2. Korinther 10,3–5)** – „Unsere Waffen sind mächtig durch Gott zur Zerstörung von Festungen."  
+- **(2. Korinther 10,3–5)** – „Unsere Waffen sind mächtig durch Gott zur Zerstörung von Festungen.“  
 
-- **(1. Johannes 4,4)** – „Der in euch ist, ist größer als der, der in der Welt ist."  
+- **(1. Johannes 4,4)** – „Der in euch ist, ist größer als der, der in der Welt ist.“  
 
 ---  
 
@@ -141,11 +141,11 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 
 Götzendienst in der Schrift betrifft nicht nur antike Götter, sondern auch die Überhöhung menschlicher oder geistlicher Gestalten über ihren rechtmäßigen Platz hinaus. In späteren Traditionen haben einige zu Heiligen wie Lazarus, Christophorus oder sogar Maria unter Titeln wie *Unsere Liebe Frau der Barmherzigkeit* oder *Mariä Himmelfahrt* gebetet oder sie verehrt. Doch die Bibel ist klar:  
 
-- **(1. Timotheus 2,5)** – „Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, nämlich der Mensch Christus Jesus."  
+- **(1. Timotheus 2,5)** – „Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, nämlich der Mensch Christus Jesus.“  
 
-- **(Apostelgeschichte 10,25–26)** – Als Kornelius vor Petrus niederfiel, richtete Petrus ihn auf und sprach: „Steh auf; auch ich bin ein Mensch."  
+- **(Apostelgeschichte 10,25–26)** – Als Kornelius vor Petrus niederfiel, richtete Petrus ihn auf und sprach: „Steh auf; auch ich bin ein Mensch.“  
 
-- **(Exodus 20,4–5)** – „Du sollst dir kein geschnitztes Bild machen… du sollst dich nicht vor ihnen niederwerfen noch ihnen dienen."  
+- **(Exodus 20,4–5)** – „Du sollst dir kein geschnitztes Bild machen… du sollst dich nicht vor ihnen niederwerfen noch ihnen dienen.“  
 
 Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetung, Gebet und Hingabe gehören Gott allein.  
 
@@ -154,7 +154,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 ## 4. Zauberei, Hexerei und Wahrsagerei  
 **Einfach erklärt:** Praktiken, die verborgenes Wissen oder Kraft außerhalb Gottes suchen, sind verboten.  
 
-- **(Exodus 22,18)** – „Eine Zauberin sollst du nicht am Leben lassen.”  
+- **(Exodus 22,18)** – „Eine Zauberin sollst du nicht am Leben lassen.“  
 
 - **3. Mose 19,26** – „Ihr sollt nicht wahrsagen.“  
 
@@ -174,7 +174,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 ---  
 
 ## 5. Sumerische Mythen und die Nephilim  
-**Einfach erklärt:** Die Bibel nennt „Sumer" nicht beim Namen, aber sie benennt **Babel** und verbindet frühe Reiche und Rebellion mit geistlicher Verderbnis.  
+**Einfach erklärt:** Die Bibel nennt „Sumer“ nicht beim Namen, aber sie benennt **Babel** und verbindet frühe Reiche und Rebellion mit geistlicher Verderbnis.  
 
 - **(Genesis 6,1–4)** – Söhne Gottes und Nephilim.  
 
@@ -192,9 +192,9 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 ---  
 
 ## 6. Nordische, griechische und römische Götter  
-**Einfach erklärt:** Viele Kulturen haben viele „Götter”, aber die Bibel sagt, sie sind Götzen oder dämonische Täuschungen.  
+**Einfach erklärt:** Viele Kulturen haben viele „Götter“, aber die Bibel sagt, sie sind Götzen oder dämonische Täuschungen.  
 
-- **(Psalmen 96,5)** – „Alle Götter der Völker sind nichtig.”  
+- **(Psalmen 96,5)** – „Alle Götter der Völker sind nichtig.“  
 
 - **1. Korinther 8,5–6** – Ein Gott, der Vater, und ein Herr, Jesus Christus.  
 
@@ -227,17 +227,17 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 
 **Was die Schrift sagt:**  
 
-- **(Exodus 20,3)** – „Du sollst keine anderen Götter neben mir haben.”  
+- **(Exodus 20,3)** – „Du sollst keine anderen Götter neben mir haben.“  
 
-- **(Psalmen 96,5)** – „Alle Götter der Völker sind nichtig, aber der HERR hat die Himmel gemacht.”  
+- **(Psalmen 96,5)** – „Alle Götter der Völker sind nichtig, aber der HERR hat die Himmel gemacht.“  
 
-- **(Jesaja 42,8)** – „Ich bin der HERR, das ist mein Name; und meine Ehre gebe ich keinem anderen.”  
+- **(Jesaja 42,8)** – „Ich bin der HERR, das ist mein Name; und meine Ehre gebe ich keinem anderen.“  
 
-- **(1. Korinther 10,20)** – „Was die Heiden opfern, das opfern sie den Dämonen und nicht Gott.”  
+- **(1. Korinther 10,20)** – „Was die Heiden opfern, das opfern sie den Dämonen und nicht Gott.“  
 
 **Kontext für heutige Leser:**  
 
-Wenn Gott sagt, dass er „seine Ehre nicht teilt” (Jesaja 42,8), ist das weder kleinlich noch unsicher. Es ist Schutz. Götzen anzubeten bedeutet, auf Dinge zu vertrauen, die nicht retten können, und die Schrift sagt, dass solche Anbetung die Tür zu dämonischer Verführung öffnet (1. Korinther 10,20). Gott allein verdient Ehre, weil er allein der Schöpfer ist (Psalmen 96,5); er allein kann Leben, Vergebung und Liebe schenken.  
+Wenn Gott sagt, dass er „seine Ehre nicht teilt“ (Jesaja 42,8), ist das weder kleinlich noch unsicher. Es ist Schutz. Götzen anzubeten bedeutet, auf Dinge zu vertrauen, die nicht retten können, und die Schrift sagt, dass solche Anbetung die Tür zu dämonischer Verführung öffnet (1. Korinther 10,20). Gott allein verdient Ehre, weil er allein der Schöpfer ist (Psalmen 96,5); er allein kann Leben, Vergebung und Liebe schenken.  
 
 **Schlussfolgerung (Schrift):** Hinduistische Praktiken zeigen Hingabe an viele Götter, aber die Bibel erklärt, dass Götzen machtlos sind (Psalmen 96,5) und Opfer an sie Opfer an Dämonen sind (1. Korinther 10,20). Gott besteht auf alleiniger Anbetung nicht aus menschlicher Eifersucht, sondern aus Liebe; nur er kann retten, schützen und bewahren.  
 
@@ -629,7 +629,7 @@ Im Gegensatz dazu erlaubte Mohammed die Vergewaltigung von Gefangenen ohne diese
 
 - Mohammed hingegen wurde einzigartig entschuldigt, indem er sogar „Offenbarungen“ erhielt, die seine Handlungen rechtfertigten (Koran 33:37; 33:50).
 
-- Dies verstößt gegen Maleachi 3:6: *„Denn ich, der HERR, verändere mich nicht.”* Gott ändert Sein moralisches Gesetz nicht zum Vorteil eines Propheten.
+- Dies verstößt gegen Maleachi 3:6: *„Denn ich, der HERR, verändere mich nicht.“* Gott ändert Sein moralisches Gesetz nicht zum Vorteil eines Propheten.
 
 **Kontrast zu Christus:**
 
