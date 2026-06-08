@@ -1,6 +1,6 @@
 ## Literaturverzeichnis
 
-Dies sind die primären, patristischen und wissenschaftlichen Quellen, auf denen die Studiennotizen und Bucheinleitungen dieser App beruhen. Jeder Eintrag wurde anhand einer veröffentlichten Ausgabe geprüft.
+Dies sind die primären, patristischen und wissenschaftlichen Quellen, auf denen die Studiennotizen und Bucheinleitungen dieser App beruhen.
 
 ## Antike Primärquellen (griechische und römische Historiker)
 

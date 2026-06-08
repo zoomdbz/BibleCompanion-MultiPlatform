@@ -1,6 +1,6 @@
 ## Bibliography
 
-These are the primary, patristic, and scholarly sources behind this app's study notes and book introductions. Each entry has been checked against a published edition.
+These are the primary, patristic, and scholarly sources behind this app's study notes and book introductions.
 
 ## Primary Ancient Sources (Greek and Roman Historians)
 

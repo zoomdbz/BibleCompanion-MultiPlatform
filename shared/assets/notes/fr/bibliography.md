@@ -1,6 +1,6 @@
 ## Bibliographie
 
-Voici les sources primaires, patristiques et savantes qui sous-tendent les notes d'étude et les introductions aux livres de cette application. Chaque entrée a été vérifiée par rapport à une édition publiée.
+Voici les sources primaires, patristiques et savantes qui sous-tendent les notes d'étude et les introductions aux livres de cette application.
 
 ## Sources antiques primaires (historiens grecs et romains)
 

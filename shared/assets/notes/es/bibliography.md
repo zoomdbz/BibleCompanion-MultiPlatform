@@ -1,6 +1,6 @@
 ## Bibliografía
 
-Estas son las fuentes primarias, patrísticas y académicas que respaldan las notas de estudio y las introducciones a los libros de esta aplicación. Cada entrada ha sido cotejada con una edición publicada.
+Estas son las fuentes primarias, patrísticas y académicas que respaldan las notas de estudio y las introducciones a los libros de esta aplicación.
 
 ## Fuentes antiguas primarias (historiadores griegos y romanos)
 

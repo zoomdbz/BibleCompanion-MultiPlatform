@@ -1,6 +1,6 @@
 ## Bibliografia
 
-Estas sao as fontes primarias, patristicas e academicas que fundamentam as notas de estudo e as introducoes aos livros deste aplicativo. Cada entrada foi cotejada com uma edicao publicada.
+Estas sao as fontes primarias, patristicas e academicas que fundamentam as notas de estudo e as introducoes aos livros deste aplicativo.
 
 ## Fontes antigas primarias (historiadores gregos e romanos)
 

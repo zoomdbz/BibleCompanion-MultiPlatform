@@ -1,6 +1,6 @@
 ## Bibliografia
 
-Queste sono le fonti primarie, patristiche e accademiche alla base delle note di studio e delle introduzioni ai libri di questa applicazione. Ogni voce e stata verificata rispetto a un'edizione pubblicata.
+Queste sono le fonti primarie, patristiche e accademiche alla base delle note di studio e delle introduzioni ai libri di questa applicazione.
 
 ## Fonti antiche primarie (storici greci e romani)
 
