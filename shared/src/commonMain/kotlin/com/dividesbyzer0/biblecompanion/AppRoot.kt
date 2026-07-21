@@ -3332,59 +3332,98 @@ fun SavedItemsScreen(
               }
             }
           } else {
+            // Sort: sortOrder=0 items first by timestamp desc; user-ordered items (sortOrder>0) by sortOrder asc.
+            // Same SnapshotStateList-inside-remember pattern as saved verses below; see that comment for why.
+            val displayBookmarks = remember(bookmarks) {
+              bookmarks.sortedWith(compareBy<Bookmark> { it.sortOrder }.thenByDescending { it.timestamp })
+                .toMutableStateList()
+            }
+            val displayBookmarksRef = rememberUpdatedState(displayBookmarks)
+            var needsPersist by remember { mutableStateOf(false) }
+            val lazyListState = rememberLazyListState()
+            val reorderState = rememberReorderableLazyListState(lazyListState) { from, to ->
+              val list = displayBookmarksRef.value
+              val moved = list.removeAt(from.index)
+              list.add(to.index, moved)
+              needsPersist = true
+            }
+            LaunchedEffect(reorderState.isAnyItemDragging) {
+              if (!reorderState.isAnyItemDragging && needsPersist) {
+                needsPersist = false
+                val reordered = displayBookmarks.mapIndexed { idx, bm -> bm.copy(sortOrder = idx + 1) }
+                repo.reorderBookmarks(reordered)
+              }
+            }
             LazyColumn(
+              state = lazyListState,
               contentPadding = PaddingValues(16.dp),
               verticalArrangement = Arrangement.spacedBy(8.dp)
             ) {
               items(
-                items = bookmarks.sortedByDescending { it.timestamp },
+                items = displayBookmarks,
                 key = { "${it.collection}/${it.bookId}/${it.storyId}" }
               ) { bm ->
-                val bmColor = if (bm.collection == "old_testament" || bm.collection == "pseudepigrapha")
-                  MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.error
-                Card(
-                  modifier = Modifier.fillMaxWidth().clickable {
-                    onOpenBook(bm.collection, bm.bookId, bm.storyId)
-                  }
-                ) {
-                  Row(
-                    Modifier.padding(start = 16.dp, top = 12.dp, bottom = 12.dp, end = 4.dp),
-                    verticalAlignment = Alignment.Top
+                ReorderableItem(reorderState, key = "${bm.collection}/${bm.bookId}/${bm.storyId}") { isDragging ->
+                  val bmColor = if (bm.collection == "old_testament" || bm.collection == "pseudepigrapha")
+                    MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.error
+                  val elevation = if (isDragging) 8.dp else 0.dp
+                  Card(
+                    modifier = Modifier.fillMaxWidth().clickable {
+                      onOpenBook(bm.collection, bm.bookId, bm.storyId)
+                    },
+                    elevation = CardDefaults.cardElevation(defaultElevation = elevation)
                   ) {
-                    Icon(
-                      Icons.Filled.Bookmark,
-                      contentDescription = null,
-                      tint = bmColor,
-                      modifier = Modifier.size(24.dp).padding(top = 2.dp)
-                    )
-                    Spacer(Modifier.width(12.dp))
-                    Column(Modifier.weight(1f)) {
-                      Text(bm.storyTitle, style = MaterialTheme.typography.titleSmall)
-                      Text(
-                        bm.bookTitle,
-                        style = MaterialTheme.typography.bodySmall,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                    Row(
+                      Modifier.padding(start = 16.dp, top = 12.dp, bottom = 12.dp, end = 4.dp),
+                      verticalAlignment = Alignment.Top
+                    ) {
+                      Icon(
+                        Icons.Filled.Bookmark,
+                        contentDescription = null,
+                        tint = bmColor,
+                        modifier = Modifier.size(24.dp).padding(top = 2.dp)
                       )
-                      if (bm.snippet.isNotBlank()) {
+                      Spacer(Modifier.width(12.dp))
+                      Column(Modifier.weight(1f)) {
+                        Text(bm.storyTitle, style = MaterialTheme.typography.titleSmall)
                         Text(
-                          bm.snippet,
+                          bm.bookTitle,
                           style = MaterialTheme.typography.bodySmall,
-                          color = MaterialTheme.colorScheme.onSurfaceVariant,
-                          maxLines = 2,
-                          overflow = TextOverflow.Ellipsis,
-                          modifier = Modifier.padding(top = 4.dp)
+                          color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
+                        if (bm.snippet.isNotBlank()) {
+                          Text(
+                            bm.snippet,
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            maxLines = 2,
+                            overflow = TextOverflow.Ellipsis,
+                            modifier = Modifier.padding(top = 4.dp)
+                          )
+                        }
+                      }
+                      // Drag handle on trailing edge; long-press or touch to drag
+                      IconButton(
+                        modifier = Modifier.draggableHandle(),
+                        onClick = {}
+                      ) {
+                        Icon(
+                          Icons.Filled.DragHandle,
+                          contentDescription = null,
+                          modifier = Modifier.size(18.dp),
+                          tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
                         )
                       }
-                    }
-                    IconButton(onClick = {
-                      scope.launch { repo.removeBookmark(bm.collection, bm.bookId, bm.storyId) }
-                    }) {
-                      Icon(
-                        Icons.Filled.Close,
-                        contentDescription = stringResource(Res.string.cd_remove_bookmark),
-                        modifier = Modifier.size(16.dp),
-                        tint = MaterialTheme.colorScheme.error
-                      )
+                      IconButton(onClick = {
+                        scope.launch { repo.removeBookmark(bm.collection, bm.bookId, bm.storyId) }
+                      }) {
+                        Icon(
+                          Icons.Filled.Close,
+                          contentDescription = stringResource(Res.string.cd_remove_bookmark),
+                          modifier = Modifier.size(16.dp),
+                          tint = MaterialTheme.colorScheme.error
+                        )
+                      }
                     }
                   }
                 }

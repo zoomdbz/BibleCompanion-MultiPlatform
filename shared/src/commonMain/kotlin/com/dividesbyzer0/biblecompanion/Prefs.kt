@@ -40,6 +40,7 @@ expect class PrefsRepo(context: PlatformContext) {
     val savedVersesFlow: Flow<List<SavedVerse>>
     suspend fun addBookmark(bookmark: Bookmark)
     suspend fun removeBookmark(collection: String, bookId: String, storyId: String)
+    suspend fun reorderBookmarks(bookmarks: List<Bookmark>)
     suspend fun addSavedVerse(verse: SavedVerse)
     suspend fun removeSavedVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int)
     suspend fun updateVerseHighlight(collection: String, bookId: String, storyId: String, bulletIndex: Int, color: String?)

@@ -37,7 +37,7 @@ kotlin {
 
 android {
   namespace = "com.dividesbyzer0.biblecompanion"
-  compileSdk = 35
+  compileSdk = 36
 
   sourceSets {
     getByName("main") {
@@ -51,9 +51,9 @@ android {
   defaultConfig {
     applicationId = "com.dividesbyzer0.biblecompanion"
     minSdk = 24
-    targetSdk = 35
-    versionCode = 41
-    versionName = "4.1.0"
+    targetSdk = 36
+    versionCode = 42
+    versionName = "4.2.0"
     vectorDrawables.useSupportLibrary = true
     ndk {
       abiFilters += listOf("arm64-v8a", "x86_64")

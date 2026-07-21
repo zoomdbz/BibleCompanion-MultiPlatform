@@ -116,7 +116,9 @@ data class Bookmark(
   val storyId: String,
   val storyTitle: String,
   val snippet: String = "",
-  val timestamp: Long
+  val timestamp: Long,
+  // 0 = not manually ordered (sorts to top by timestamp); positive = explicit user position.
+  val sortOrder: Int = 0
 )
 
 @Serializable

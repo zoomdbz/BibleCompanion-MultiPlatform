@@ -67,7 +67,7 @@ compose.resources {
 
 android {
   namespace = "com.dividesbyzer0.biblecompanion.shared"
-  compileSdk = 35
+  compileSdk = 36
 
   defaultConfig {
     minSdk = 24

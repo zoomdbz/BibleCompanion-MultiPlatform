@@ -205,6 +205,10 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         })
     }
 
+    actual suspend fun reorderBookmarks(bookmarks: List<Bookmark>) {
+        persistBookmarks(bookmarks)
+    }
+
     actual suspend fun addSavedVerse(verse: SavedVerse) {
         val list = loadSavedVerses().filter {
             !(it.collection == verse.collection && it.bookId == verse.bookId &&

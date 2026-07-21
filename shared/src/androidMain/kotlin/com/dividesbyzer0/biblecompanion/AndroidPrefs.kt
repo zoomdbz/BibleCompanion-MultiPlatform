@@ -229,6 +229,12 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         }
     }
 
+    actual suspend fun reorderBookmarks(bookmarks: List<Bookmark>) {
+        context.dataStore.edit { p ->
+            p[Keys.BOOKMARKS_JSON] = json.encodeToString(bookmarks)
+        }
+    }
+
     actual suspend fun addSavedVerse(verse: SavedVerse) {
         context.dataStore.edit { p ->
             val list = p[Keys.SAVED_VERSES_JSON]?.let {

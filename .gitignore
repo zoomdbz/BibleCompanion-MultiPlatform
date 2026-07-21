@@ -2,6 +2,9 @@
 .claude/
 !.claude/settings.json
 
+# Codex
+.codex/
+
 # IntelliJ / Android Studio
 .idea/
 *.iml
@@ -15,6 +18,7 @@ build/
 */build/
 **/build/
 .gradle/
+.gradle-cache/
 .kotlin/
 captures/
 .externalNativeBuild/
