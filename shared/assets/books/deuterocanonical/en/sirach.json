@@ -19,18 +19,34 @@
         "Prologue: It seemed highly necessary that I should myself devote some diligence and labor to translate this book, applying much watchfulness and skill in that period of time to complete and publish the book for those living abroad who wish to gain learning and are preparing to live according to the law. (Prologue)."
       ],
       "crossRefs": [
-        "Proverbs 1:1-7: The purpose of wisdom literature.",
-        "2 Timothy 3:16: All Scripture is profitable for instruction.",
-        "Luke 1:1-4: A careful author addresses his readers."
+        "Proverbs 1:1-7: The stated purpose of a collection of wisdom instruction.",
+        "Luke 1:1-4: A writer explains to his reader why and how he compiled his work.",
+        "Nehemiah 8:8: The reading of the law made clear so the people understood it.",
+        "2 Timothy 3:16: All Scripture is profitable for teaching and training."
       ],
       "translationNotes": [
         {
-          "term": "Translator's Prologue",
-          "original": "Greek: Πρόλογος (prologos); the translator's name is traditionally given as Ben Sira's grandson, working under Ptolemy VIII Euergetes II in Egypt c. 132 BCE.",
-          "note": "The Prologue is unnumbered in the original manuscripts and in NRSVUE; it precedes chapter 1 and explains how the grandson translated his grandfather's Hebrew work into Greek."
+          "term": "The Law and the Prophets and the others",
+          "original": "Hebrew: תּוֹרָה נְבִיאִים כְּתוּבִים (Torah, Neviim, Ketuvim) - Greek: ὁ νόμος καὶ οἱ προφῆται καὶ τὰ ἄλλα (ho nomos kai hoi prophetai kai ta alla)",
+          "note": "The threefold division of the Hebrew Scriptures: the five books of Moses, the prophetic books, and the remaining writings."
+        },
+        {
+          "term": "The thirty-eighth year of Euergetes",
+          "original": "Greek: ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει ἐπὶ τοῦ Εὐεργέτου βασιλέως (en to ogdoo kai triakosto etei epi tou Euergetou basileos)",
+          "note": "Dates were fixed by counting years from a ruler's accession. Euergetes, meaning benefactor, was a title borne by Greek kings of Egypt."
+        },
+        {
+          "term": "Those living abroad",
+          "original": "Greek: ἐν τῇ παροικίᾳ (en te paroikia)",
+          "note": "Jews settled outside the land, here in Egypt, who spoke and read Greek rather than Hebrew. The word means residing as a foreigner."
+        },
+        {
+          "term": "Rendered some phrases imperfectly",
+          "original": "Greek: ἀδυναμεῖν (adynamein), literally to lack power",
+          "note": "The translator says a Hebrew phrase loses force in another language. This is a working note about translation, not a claim about the content."
         }
       ],
-      "keyTakeaway": "Ben Sira's grandson explains why he translated his grandfather's Hebrew wisdom collection into Greek; he asks readers to pardon imperfect renderings, since Hebrew does not carry the same sense once translated."
+      "keyTakeaway": "The translator praises Israel's instruction through the Law, the Prophets, and the other books, says his grandfather Jesus wrote this book after long study of them, and asks indulgence for imperfect renderings; he came to Egypt in the thirty-eighth year of Euergetes and translated it there."
     },
     {
       "id": "sirach-1",
@@ -69,18 +85,35 @@
         "Do not exalt yourself, or you may fall and bring dishonor upon yourself. The Lord will reveal your secrets and overthrow you before the whole congregation, because you did not come in the fear of the Lord, and your heart was full of deceit. (1:30)."
       ],
       "crossRefs": [
-        "Proverbs 1:7: Fear of the Lord is beginning of knowledge.",
-        "Job 28:28: Fear of the Lord is wisdom.",
-        "Hebrews 12:6: The Lord disciplines whom He loves."
+        "Proverbs 9:10: The fear of the Lord is the beginning of wisdom.",
+        "Proverbs 8:22-31: Wisdom brought forth before the earth was made.",
+        "Job 28:12-28: Where wisdom is found, and the fear of the Lord as wisdom.",
+        "James 1:5: Ask God, who gives wisdom generously to all.",
+        "Psalm 111:10: The fear of the Lord is the beginning of wisdom; His praise endures forever."
       ],
       "translationNotes": [
         {
           "term": "Fear of the Lord",
-          "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH), Greek: φόβος Κυρίου (phobos Kyriou), Aramaic: דְּחַל יוי (deḥal YHWH)",
-          "note": "Not terror, but reverence, awe, and faithful obedience to God’s authority."
+          "original": "Hebrew: יִרְאַת יְהוָה (yirat YHWH) - Greek: φόβος Κυρίου (phobos Kyriou)",
+          "note": "Not terror or dread, but reverence and faithful obedience toward God's authority. The phrase runs through the whole book as its governing term."
+        },
+        {
+          "term": "Wisdom",
+          "original": "Hebrew: חָכְמָה (chokhmah) - Greek: σοφία (sophia)",
+          "note": "Both words name practical skill before anything abstract: the competence of a craftsman, a navigator, or a judge deciding a case. The word is grammatically feminine, which is why the text says her and she."
+        },
+        {
+          "term": "Crown of rejoicing",
+          "original": "Greek: στέφανος ἀγαλλιάματος (stephanos agalliamatos)",
+          "note": "A stephanos was a woven wreath placed on the head of a victor or a banquet guest, not a royal crown. It marked public honor."
+        },
+        {
+          "term": "Insightful analogy",
+          "original": "Hebrew: מָשָׁל (mashal) - Greek: παραβολή (parabole)",
+          "note": "A comparison, proverb, or riddle. The same Greek word is translated parable in the Gospels; the form teaches by setting one thing beside another."
         }
       ],
-      "keyTakeaway": "Wisdom comes from God and is rooted in fearing Him; those who serve and trust Him will be upheld."
+      "keyTakeaway": "All wisdom comes from the Lord, who created her before all things and poured her out on his works. Fear of the Lord is called the beginning, the crown, and the root of wisdom, and it drives away sin. Ben Sira warns against unjust anger, hypocrisy, and a divided mind."
     },
     {
       "id": "sirach-2",
@@ -109,18 +142,35 @@
         "Let us fall into the hands of the Lord but not into the hands of mortals, for equal to his majesty is his mercy. (2:18)."
       ],
       "crossRefs": [
-        "Proverbs 1:7: Fear of the Lord is beginning of knowledge.",
-        "Job 28:28: Fear of the Lord is wisdom.",
-        "Hebrews 12:6: The Lord disciplines whom He loves."
+        "Proverbs 17:3: The crucible for silver and the furnace for gold, but the Lord tests hearts.",
+        "Job 23:10: When He has tested me, I shall come out as gold.",
+        "2 Samuel 24:14: David chooses to fall into the hand of the Lord rather than into human hands.",
+        "Malachi 3:2-3: He sits as a refiner and purifier of silver.",
+        "1 Peter 1:6-7: Faith tested by fire and found genuine."
       ],
       "translationNotes": [
         {
-          "term": "Fear of the Lord",
-          "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH), Greek: φόβος Κυρίου (phobos Kyriou), Aramaic: דְּחַל יוי (deḥal YHWH)",
-          "note": "Not terror, but reverence, awe, and faithful obedience to God’s authority."
+          "term": "Furnace of humiliation",
+          "original": "Greek: ἐν καμίνῳ ταπεινώσεως (en kamino tapeinoseos)",
+          "note": "A metalworker's smelting furnace. Ore was heated until the impurities separated out, which is why refining was the standard image for testing a person."
+        },
+        {
+          "term": "My child",
+          "original": "Hebrew: בְּנִי (beni) - Greek: τέκνον (teknon)",
+          "note": "The standard address of a teacher to a student in wisdom instruction. It does not mean the hearer is the speaker's own son."
+        },
+        {
+          "term": "Woe",
+          "original": "Hebrew: הוֹי (hoy) - Greek: οὐαί (ouai)",
+          "note": "A cry of lament raised over the dead or over a doomed city, borrowed here to open a warning. It is a wail, not a curse formula."
+        },
+        {
+          "term": "Walks a double path",
+          "original": "Greek: ἐπιβαίνοντι ἐπὶ δύο τρίβους (epibainonti epi duo tribous)",
+          "note": "The two-roads image common in this literature: a traveler trying to keep a foot on each of two tracks makes progress on neither."
         }
       ],
-      "keyTakeaway": "Wisdom comes from God and is rooted in fearing Him; those who serve and trust Him will be upheld."
+      "keyTakeaway": "Ben Sira tells whoever comes to serve the Lord to prepare for testing, since gold is tried in fire and people in the furnace of humiliation. He cites the generations of old as proof no one who trusted the Lord was forsaken, and prefers the Lord's hands to human hands."
     },
     {
       "id": "sirach-3",
@@ -161,18 +211,35 @@
         "Those who repay favors give thought to the future; when they fall they will find support. (3:31)."
       ],
       "crossRefs": [
-        "Exodus 20:12: Honor father and mother.",
-        "Luke 14:11: Whoever exalts himself will be humbled.",
-        "James 1:27: True religion: care for orphans and widows."
+        "Exodus 20:12: Honor your father and your mother, that your days may be long.",
+        "Deuteronomy 27:16: Cursed is anyone who dishonors father or mother.",
+        "Proverbs 23:22: Do not despise your mother when she is old.",
+        "Deuteronomy 29:29: The secret things belong to the Lord our God.",
+        "Ephesians 6:2-3: The first commandment with a promise attached."
       ],
       "translationNotes": [
         {
           "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
-          "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
+          "original": "Hebrew: צְדָקָה (tsedaqah) - Greek: ἐλεημοσύνη (eleemosyne)",
+          "note": "The Hebrew word means right dealing or righteousness and came to mean charitable giving to the poor. The English word alms descends from the Greek term."
+        },
+        {
+          "term": "A father's blessing, a mother's curse",
+          "original": "Hebrew: בְּרָכָה / קְלָלָה (berakhah / qelalah) - Greek: εὐλογία / κατάρα (eulogia / katara)",
+          "note": "A parent's spoken blessing or curse was treated as a binding act within the household, affecting inheritance and standing, not merely as strong words."
+        },
+        {
+          "term": "Atone for sins",
+          "original": "Hebrew: כִּפֵּר (kipper) - Greek: ἐξιλάσκομαι (exilaskomai)",
+          "note": "The verb used for the temple rites of covering or wiping away. Applied here to honoring parents and to giving alms."
+        },
+        {
+          "term": "Serve their parents as their masters",
+          "original": "Greek: δουλεύσει τοῖς γεννήσασιν (douleusei tois gennesasin)",
+          "note": "Household service language. In this society the head of the family held standing authority over grown children living under his roof."
         }
       ],
-      "keyTakeaway": "Honor, humility, almsgiving, and wisdom are exhorted as paths of life, while arrogance and sin bring ruin."
+      "keyTakeaway": "Ben Sira commands children to honor father and mother, promising long life and forgiveness, and to support a father in old age even when his mind fails. He calls for humility from the great, warns against probing what lies beyond reach, and says almsgiving quenches sin like water on fire."
     },
     {
       "id": "sirach-4",
@@ -214,18 +281,35 @@
         "Do not let your hand be stretched out to receive and closed when it is time to give back. (4:31)."
       ],
       "crossRefs": [
-        "Exodus 20:12: Honor father and mother.",
-        "Luke 14:11: Whoever exalts himself will be humbled.",
-        "James 1:27: True religion: care for orphans and widows."
+        "Deuteronomy 15:7-8: Do not harden your heart or shut your hand against your needy brother.",
+        "Exodus 22:22-24: God hears the cry of the widow and the orphan and answers it.",
+        "Isaiah 1:17: Defend the orphan and plead for the widow.",
+        "Proverbs 3:27: Do not withhold good from those to whom it is due.",
+        "James 1:27: Pure religion visits orphans and widows in their affliction."
       ],
       "translationNotes": [
         {
-          "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
-          "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
+          "term": "Suppliant",
+          "original": "Greek: ἱκέτης (hiketes)",
+          "note": "A person who formally begs protection, approaching with a fixed gesture of appeal. Turning one away in public brought disgrace on the one refusing."
+        },
+        {
+          "term": "Be a father to orphans, like a husband to their mother",
+          "original": "Greek: γίνου ὀρφανοῖς ὡς πατήρ (ginou orphanois hos pater)",
+          "note": "Describes taking legal responsibility for a fatherless household. A widow had no independent standing to press a claim in court."
+        },
+        {
+          "term": "Shame",
+          "original": "Hebrew: בּוּשָׁה (bushah) - Greek: αἰσχύνη (aischyne)",
+          "note": "Honor and shame governed public life. Ben Sira separates the shame that stops a person from doing right from the shame that restrains him from sin."
+        },
+        {
+          "term": "Bow your head low to the great",
+          "original": "Greek: μεγιστᾶνι ταπείνου τὴν κεφαλήν σου (megistani tapeinou ten kephalen sou)",
+          "note": "A deference gesture used before a magnate. Standing and rank were displayed physically at the gate assembly where cases were heard."
         }
       ],
-      "keyTakeaway": "Honor, humility, almsgiving, and wisdom are exhorted as paths of life, while arrogance and sin bring ruin."
+      "keyTakeaway": "Ben Sira orders open hands toward the poor, the hungry, and the orphan, warning that the Creator hears the curse of the destitute. He describes Wisdom testing her followers in disguise before she reveals her secrets, and tells the reader to speak at the right moment and fight to the death for truth."
     },
     {
       "id": "sirach-5",
@@ -251,18 +335,35 @@
         "In great and small matters cause no harm, (5:15)."
       ],
       "crossRefs": [
-        "Exodus 20:12: Honor father and mother.",
-        "Luke 14:11: Whoever exalts himself will be humbled.",
-        "James 1:27: True religion: care for orphans and widows."
+        "Proverbs 11:28: Whoever trusts in his riches will fall.",
+        "Psalm 1:4: The wicked are like chaff that the wind drives away.",
+        "Isaiah 55:6-7: Seek the Lord while He may be found; let the wicked forsake his way.",
+        "Romans 2:4-5: Presuming on the riches of God's kindness and storing up wrath.",
+        "James 1:19: Be quick to hear, slow to speak, slow to anger."
       ],
       "translationNotes": [
         {
-          "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
-          "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
+          "term": "Winnow in every wind",
+          "original": "Hebrew: זָרָה (zarah) - Greek: λίκμα (likma)",
+          "note": "Threshed grain was tossed into the breeze so the light chaff blew away. A farmer waited for a steady wind; working every wind scatters the crop."
+        },
+        {
+          "term": "Double-tongued",
+          "original": "Greek: δίγλωσσος (diglossos)",
+          "note": "Literally two-tongued: a person who tells different stories to different people. The word carried a legal edge, since witness testimony was oral."
+        },
+        {
+          "term": "Put your hand over your mouth",
+          "original": "Hebrew: יָד לְפֶה (yad le-feh) - Greek: χεὶρ ἐπὶ στόματι (cheir epi stomati)",
+          "note": "A recognized gesture of deliberate silence, used when a speaker had no answer or no right to speak in the assembly."
+        },
+        {
+          "term": "Slow to anger",
+          "original": "Hebrew: אֶרֶךְ אַפַּיִם (erek appayim) - Greek: μακρόθυμος (makrothymos)",
+          "note": "The Hebrew idiom is literally long of nostrils, since flared nostrils signaled rage. A long approach to anger means patience."
         }
       ],
-      "keyTakeaway": "Honor, humility, almsgiving, and wisdom are exhorted as paths of life, while arrogance and sin bring ruin."
+      "keyTakeaway": "Ben Sira warns against trusting wealth or presuming on God's mercy while adding sin to sin. He tells the reader not to postpone turning back to the Lord, not to drift with every wind, to be quick to hear and patient in answering, and never to be called double-tongued."
     },
     {
       "id": "sirach-6",
@@ -310,18 +411,35 @@
         "Reflect on the statutes of the Lord, and meditate at all times on his commandments. It is he who will give insight to your mind, and your desire for wisdom will be granted. (6:37)."
       ],
       "crossRefs": [
-        "Exodus 20:12: Honor father and mother.",
-        "Luke 14:11: Whoever exalts himself will be humbled.",
-        "James 1:27: True religion: care for orphans and widows."
+        "Proverbs 18:24: There is a friend who sticks closer than a brother.",
+        "Proverbs 17:17: A friend loves at all times, and a brother is born for adversity.",
+        "Ruth 1:16-17: Loyalty that holds through hardship and poverty.",
+        "Lamentations 3:27: It is good for a man to bear the yoke in his youth.",
+        "Proverbs 13:20: Whoever walks with the wise becomes wise."
       ],
       "translationNotes": [
         {
-          "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
-          "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
+          "term": "Yoke",
+          "original": "Hebrew: עֹל (ol) - Greek: ζυγός (zygos)",
+          "note": "The wooden bar laid across the necks of a plow team so two animals pull together. It stood for submission to an owner or a discipline."
+        },
+        {
+          "term": "Fetters and collar",
+          "original": "Greek: πέδαι (pedai) and κλοιός (kloios)",
+          "note": "Leg irons and the neck iron worn by prisoners and slaves. Ben Sira takes the hardware of captivity and turns it into jewelry."
+        },
+        {
+          "term": "Purple cord",
+          "original": "Hebrew: תְּכֵלֶת (tekhelet) - Greek: κλῶσμα ὑακίνθινον (klosma hyakinthinon)",
+          "note": "Violet-blue thread dyed with secretions of the murex sea snail. The dye was extremely costly, so the color marked rank."
+        },
+        {
+          "term": "Gain them through testing",
+          "original": "Greek: δοκιμασία (dokimasia)",
+          "note": "The word used for assaying metal to check its purity. Applied to friendship, it means proving a person before trusting him."
         }
       ],
-      "keyTakeaway": "Honor, humility, almsgiving, and wisdom are exhorted as paths of life, while arrogance and sin bring ruin."
+      "keyTakeaway": "Ben Sira warns that uncontrolled passion leaves a person like a withered tree and that table friends vanish in trouble, while a faithful friend is a sturdy shelter and life-saving medicine. He tells the young to accept wisdom's fetters and yoke, which turn into a golden ornament."
     },
     {
       "id": "sirach-7",
@@ -368,18 +486,35 @@
         "In all you do, remember the end of your life, and then you will never sin. (7:36)."
       ],
       "crossRefs": [
-        "Exodus 20:12: Honor father and mother.",
-        "Luke 14:11: Whoever exalts himself will be humbled.",
-        "James 1:27: True religion: care for orphans and widows."
+        "Deuteronomy 18:3-4: The priest's due, the shoulder and the first of the grain, wine, and oil.",
+        "Numbers 18:8-12: The offerings assigned to Aaron and his sons as their portion.",
+        "Leviticus 19:13: Do not keep back the wages of a hired worker overnight.",
+        "Proverbs 22:6: Train up a child in the way he should go.",
+        "Romans 12:15: Rejoice with those who rejoice, weep with those who weep."
       ],
       "translationNotes": [
         {
-          "term": "Almsgiving",
-          "original": "Hebrew: צְדָקָה (ṣĕdāqāh), Greek: ἐλεημοσύνη (eleēmosýnē), Aramaic: זדקתא (zdaqātā)",
-          "note": "Giving to the poor as an act of righteousness, seen as delivering from sin and storing treasure before God."
+          "term": "The gift of the shoulders",
+          "original": "Hebrew: זְרוֹעַ (zeroa) - Greek: βραχίων (brachion)",
+          "note": "The foreleg and shoulder cut of a sacrificed animal, assigned by law to the officiating priest as his share of the meat."
+        },
+        {
+          "term": "First fruits",
+          "original": "Hebrew: בִּכּוּרִים (bikkurim) - Greek: ἀπαρχή (aparche)",
+          "note": "The earliest ripe produce of a harvest, brought to the sanctuary before the rest of the crop could be used."
+        },
+        {
+          "term": "Purification offering",
+          "original": "Hebrew: חַטָּאת (chattat) - Greek: θυσία περὶ ἁμαρτίας (thysia peri hamartias)",
+          "note": "The sacrifice that removed ritual impurity and cleansed the sanctuary. English versions often render it sin offering."
+        },
+        {
+          "term": "The gold of Ophir",
+          "original": "Hebrew: אוֹפִיר (Ophir) - Greek: χρυσίον Σουφιρ (chrysion Souphir)",
+          "note": "A distant trading source of the finest gold reaching Israel by sea. The name functions as shorthand for top-grade gold."
         }
       ],
-      "keyTakeaway": "Honor, humility, almsgiving, and wisdom are exhorted as paths of life, while arrogance and sin bring ruin."
+      "keyTakeaway": "Ben Sira warns against seeking office or a judge's seat, and commands steady prayer and almsgiving, fair treatment of slaves and hired workers, discipline of children, honor for parents, the priests' portion of first fruits and offerings, mourning with the bereaved, and visiting the sick."
     },
     {
       "id": "sirach-8",
@@ -409,18 +544,35 @@
         "Do not reveal your thoughts to anyone, or you may drive away your happiness. (8:19)."
       ],
       "crossRefs": [
-        "Proverbs 13:20: Companion of fools suffers harm.",
-        "Matthew 5:27–28: Warning against lust.",
-        "James 3:5–8: The tongue’s power."
+        "Proverbs 6:1-5: Warning to the one who has given a pledge for a neighbor.",
+        "Proverbs 22:26: Do not be one of those who give pledges for debts.",
+        "Leviticus 19:32: Rise before the gray head and honor the face of an old man.",
+        "Proverbs 24:17: Do not rejoice when your enemy falls.",
+        "Proverbs 13:20: The companion of fools suffers harm."
       ],
       "translationNotes": [
         {
-          "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
-          "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
+          "term": "Surety",
+          "original": "Hebrew: עָרַב (arav) - Greek: ἐγγυάομαι (engyaomai)",
+          "note": "Pledging yourself as guarantor of another person's debt. If the borrower defaulted the guarantor paid in full and could be seized for the balance."
+        },
+        {
+          "term": "Go to law against a judge",
+          "original": "Greek: μὴ δικάζου μετὰ κριτοῦ (me dikazou meta kritou)",
+          "note": "Cases were heard by local elders sitting at the city gate. A defendant who sat on that body effectively presided over his own case."
+        },
+        {
+          "term": "Kindle the coals of sinners",
+          "original": "Greek: μὴ ἔκκαιε ἄνθρακας ἁμαρτωλοῦ (me ekkaie anthrakas hamartolou)",
+          "note": "Household fires were banked overnight under ash and stirred back to life in the morning. Poking someone else's coals spreads the fire to you."
+        },
+        {
+          "term": "Maxims of the sages",
+          "original": "Hebrew: מְשָׁלִים (meshalim) - Greek: παροιμίαι (paroimiai)",
+          "note": "Memorized collections of sayings. Working through a master's proverb list was the standard curriculum for a scribe in training."
         }
       ],
-      "keyTakeaway": "Wisdom governs speech, friendships, and desires; almsgiving and humility bring life, while pride and lust bring downfall."
+      "keyTakeaway": "Ben Sira advises against contests with the powerful, the rich, and the loud, and against mocking the uneducated, the aged, or the dead. He warns off lending above your station, standing surety beyond your means, suing a judge, traveling with the reckless, and speaking secrets in front of strangers."
     },
     {
       "id": "sirach-9",
@@ -449,18 +601,35 @@
         "The loud of mouth are feared in their city, and the one who is reckless in speech is hated. (9:18)."
       ],
       "crossRefs": [
-        "Proverbs 13:20: Companion of fools suffers harm.",
-        "Matthew 5:27–28: Warning against lust.",
-        "James 3:5–8: The tongue’s power."
+        "Proverbs 5:3-8: Keep your way far from the loose woman and do not go near her door.",
+        "Proverbs 6:32-35: The jealousy of a husband and the ruin brought by adultery.",
+        "Job 31:1: A covenant made with the eyes not to gaze on a virgin.",
+        "Exodus 20:17: Do not covet your neighbor's wife.",
+        "Psalm 1:1: Blessed is the one who does not sit in the seat of scoffers."
       ],
       "translationNotes": [
         {
-          "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
-          "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
+          "term": "Female singer",
+          "original": "Greek: ψάλτρια (psaltria)",
+          "note": "A hired woman musician who performed at drinking parties. Such entertainers had low legal standing and were widely assumed to be available."
+        },
+        {
+          "term": "Hades",
+          "original": "Hebrew: שְׁאוֹל (Sheol) - Greek: ᾅδης (Hades)",
+          "note": "The realm of the dead. The Greek translators used the name of the Greek underworld to render the Hebrew word for the grave-world of all the dead."
+        },
+        {
+          "term": "Walking on the city battlements",
+          "original": "Greek: ἐπὶ ἐπάλξεων πόλεως (epi epalxeon poleos)",
+          "note": "The walkway on top of a city wall had no rail. It names a place where one wrong step is fatal, not merely dangerous."
+        },
+        {
+          "term": "New wine",
+          "original": "Hebrew: תִּירוֹשׁ (tirosh) - Greek: οἶνος νέος (oinos neos)",
+          "note": "Freshly pressed juice, still fermenting and harsh. Wine needed years sealed in a jar before it was worth drinking, which is the point of the comparison."
         }
       ],
-      "keyTakeaway": "Wisdom governs speech, friendships, and desires; almsgiving and humility bring life, while pride and lust bring downfall."
+      "keyTakeaway": "Ben Sira warns the husband against jealousy and against entanglement with prostitutes, singing girls, and another man's wife, since many have been ruined by beauty. He says to keep old friends like aged wine, stay clear of men with power to kill, and take meals among the righteous and wise."
     },
     {
       "id": "sirach-10",
@@ -501,18 +670,35 @@
         "One who is honored in poverty, how much more in wealth! And one dishonored in wealth, how much more in poverty! (10:31)."
       ],
       "crossRefs": [
-        "Proverbs 13:20: Companion of fools suffers harm.",
-        "Matthew 5:27–28: Warning against lust.",
-        "James 3:5–8: The tongue’s power."
+        "Proverbs 16:18: Pride goes before destruction and a haughty spirit before a fall.",
+        "Daniel 2:21: He removes kings and sets up kings.",
+        "1 Samuel 2:7-8: The Lord raises the poor from the dust and seats them with princes.",
+        "Genesis 18:27: Abraham speaks as one who is but dust and ashes.",
+        "Proverbs 29:2: When the righteous increase, the people rejoice."
       ],
       "translationNotes": [
         {
-          "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
-          "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
+          "term": "Magistrate",
+          "original": "Hebrew: שֹׁפֵט (shofet) - Greek: κριτής (krites)",
+          "note": "The office covered governing as well as trying cases. A shofet ran the community, so a bad one damaged more than the courtroom."
+        },
+        {
+          "term": "Dust and ashes",
+          "original": "Hebrew: עָפָר וָאֵפֶר (afar va-efer) - Greek: γῆ καὶ σποδός (ge kai spodos)",
+          "note": "A set phrase for human frailty. The same two substances were used in mourning, poured or smeared on the head."
+        },
+        {
+          "term": "Free people will serve a wise slave",
+          "original": "Greek: οἰκέτῃ σοφῷ ἐλεύθεροι λειτουργήσουσιν (oikete sopho eleutheroi leitourgesousin)",
+          "note": "Household slaves could hold managerial authority over free dependents and property. Legal status and actual power were not the same thing."
+        },
+        {
+          "term": "Sovereignty passes from nation to nation",
+          "original": "Greek: βασιλεία ἀπὸ ἔθνους εἰς ἔθνος (basileia apo ethnous eis ethnos)",
+          "note": "Basileia means kingship or rule. The line describes imperial power changing hands between peoples, a lived experience in this period."
         }
       ],
-      "keyTakeaway": "Wisdom governs speech, friendships, and desires; almsgiving and humility bring life, while pride and lust bring downfall."
+      "keyTakeaway": "Ben Sira says a city takes the character of its ruler and that God holds the government of the earth, shifting sovereignty from nation to nation because of injustice and pride. He calls pride the beginning of sin, and says the Lord overturns thrones and seats the lowly in their place."
     },
     {
       "id": "sirach-11",
@@ -555,18 +741,35 @@
         "Receive strangers into your home, and they will stir up trouble for you and will make you a stranger to your own family. (11:34)."
       ],
       "crossRefs": [
-        "Proverbs 13:20: Companion of fools suffers harm.",
-        "Matthew 5:27–28: Warning against lust.",
-        "James 3:5–8: The tongue’s power."
+        "1 Samuel 16:7: The Lord looks on the heart, not on outward appearance.",
+        "Luke 12:16-21: The man who stores up goods and is required to give up his life that night.",
+        "Proverbs 18:13: To answer before listening is folly and shame.",
+        "Job 2:10: Job asks whether we should receive good from God and not trouble.",
+        "Ecclesiastes 7:8: Better is the end of a thing than its beginning."
       ],
       "translationNotes": [
         {
-          "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
-          "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
+          "term": "Decoy partridge in a cage",
+          "original": "Greek: πέρδιξ θηρευτὴς ἐν καρτάλλῳ (perdix thereutes en kartallo)",
+          "note": "Fowlers kept a caged partridge whose calls drew wild birds within reach of the net. The bird looks like company and works as a trap."
+        },
+        {
+          "term": "Loincloth",
+          "original": "Greek: περίζωμα (perizoma)",
+          "note": "The single wrapped garment of a laborer. Appearing in public wearing nothing else marked a man as destitute."
+        },
+        {
+          "term": "Call no one happy before his death",
+          "original": "Greek: μακάριος (makarios)",
+          "note": "Makarios describes a life that can be judged fortunate as a whole. The verdict was withheld until the life was finished."
+        },
+        {
+          "term": "Stand by your agreement",
+          "original": "Hebrew: בְּרִית (berit) - Greek: διαθήκη (diatheke)",
+          "note": "The word covers a covenant, a contract, and a will. Here it is a working agreement a man is told to honor and grow old in."
         }
       ],
-      "keyTakeaway": "Wisdom governs speech, friendships, and desires; almsgiving and humility bring life, while pride and lust bring downfall."
+      "keyTakeaway": "Ben Sira warns against judging by appearance, since the bee is small yet makes what is sweet and the oppressed have sat on thrones. He says good and bad, poverty and wealth come from the Lord, that the man who plans to feast on his goods dies, and that no one is happy before death."
     },
     {
       "id": "sirach-12",
@@ -595,18 +798,35 @@
         "Then they will shake their heads and clap their hands and whisper much and show their true faces. (12:18)."
       ],
       "crossRefs": [
-        "Proverbs 13:20: Companion of fools suffers harm.",
-        "Matthew 5:27–28: Warning against lust.",
-        "James 3:5–8: The tongue’s power."
+        "Proverbs 25:19: Trusting a treacherous man in time of trouble is like a bad tooth.",
+        "Psalm 55:21: His speech was smooth as butter, yet war was in his heart.",
+        "Proverbs 26:24-26: An enemy disguises himself with his lips and hides deceit within.",
+        "Jeremiah 9:8: The tongue speaks peace to a neighbor while laying an ambush.",
+        "2 Samuel 20:9-10: Joab takes Amasa by the beard to greet him and strikes him down."
       ],
       "translationNotes": [
         {
-          "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
-          "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
+          "term": "At your right hand",
+          "original": "Hebrew: לִימִינְךָ (li-yminekha) - Greek: ἐκ δεξιῶν σου (ek dexion sou)",
+          "note": "The place at a host's right was the highest seat at table and in council. Seating decided rank in public, so the warning is about position, not furniture."
+        },
+        {
+          "term": "Corrosion in copper",
+          "original": "Greek: ὡς ὁ χαλκὸς ἰοῦται (hos ho chalkos ioutai)",
+          "note": "Copper and bronze corrode from within and under the surface. Wiping off the green film does not stop the process underneath."
+        },
+        {
+          "term": "Snake charmer",
+          "original": "Greek: ἐπᾴδων ὄφιν (epadon ophin)",
+          "note": "A paid handler who worked with live snakes before crowds. It was a recognized trade, so the risk was taken knowingly."
+        },
+        {
+          "term": "Shake their heads and clap their hands",
+          "original": "Hebrew: נוּד רֹאשׁ (nud rosh) - Greek: κινήσουσιν τὴν κεφαλὴν αὐτῶν (kinesousin ten kephalen auton)",
+          "note": "Public gestures of mockery over someone who has fallen. Both appear elsewhere as the crowd's response to a ruined man."
         }
       ],
-      "keyTakeaway": "Wisdom governs speech, friendships, and desires; almsgiving and humility bring life, while pride and lust bring downfall."
+      "keyTakeaway": "Ben Sira tells the reader to weigh who receives his charity, giving to the devout and holding back from the ungodly. He says prosperity hides who is a friend, that an enemy's malice works like corrosion in copper even when he bows low, and that such a man must never be seated at your right hand."
     },
     {
       "id": "sirach-13",
@@ -642,18 +862,35 @@
         "The sign of a happy heart is a cheerful face, but to devise proverbs requires strenuous thinking. (13:26)."
       ],
       "crossRefs": [
-        "Proverbs 13:20: Companion of fools suffers harm.",
-        "Matthew 5:27–28: Warning against lust.",
-        "James 3:5–8: The tongue’s power."
+        "Proverbs 22:7: The rich rule over the poor, and the borrower is slave to the lender.",
+        "Proverbs 18:23: The poor use pleading, but the rich answer roughly.",
+        "James 2:2-6: Partiality shown to the man with a gold ring in the assembly.",
+        "Proverbs 15:13: A glad heart makes a cheerful face.",
+        "Amos 2:6-7: The needy sold for a pair of sandals and trampled into the dust."
       ],
       "translationNotes": [
         {
-          "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
-          "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
+          "term": "Pitch",
+          "original": "Hebrew: זֶפֶת (zefet) - Greek: πίσσα (pissa)",
+          "note": "Bitumen used to seal boats, roofs, and jars. It blackens skin on contact and will not wash off with water, which makes the proverb literal before it is moral."
+        },
+        {
+          "term": "Clay pot and iron kettle",
+          "original": "Greek: χύτρα πρὸς λέβητα (chytra pros lebeta)",
+          "note": "Two ordinary cooking vessels of wildly unequal strength. Earthenware shattered on contact with metal, so the mismatch was fixed before the contest began."
+        },
+        {
+          "term": "Hyena and dog",
+          "original": "Hebrew: צָבוֹעַ (tsavoa) - Greek: ὕαινα (hyaina)",
+          "note": "Scavengers that fought over the same carcasses on the edge of settlements. The pairing was proverbial for natural enmity."
+        },
+        {
+          "term": "Wild asses in the wilderness",
+          "original": "Hebrew: פֶּרֶא (pere) - Greek: ὄναγροι (onagroi)",
+          "note": "The untamed onager of the desert margins, the standard prey animal for lions in this region and a stock image for the defenseless."
         }
       ],
-      "keyTakeaway": "Wisdom governs speech, friendships, and desires; almsgiving and humility bring life, while pride and lust bring downfall."
+      "keyTakeaway": "Ben Sira warns that whoever touches pitch is stained and a clay pot shatters against an iron kettle, so the poor should keep clear of the rich, who flatter and drain them. Every creature keeps to its own kind, and the rich man's slip is excused while the poor man's is condemned."
     },
     {
       "id": "sirach-14",
@@ -691,18 +928,35 @@
         "who are sheltered by her from the heat and dwell in the midst of her glory. (14:27)."
       ],
       "crossRefs": [
-        "Proverbs 13:20: Companion of fools suffers harm.",
-        "Matthew 5:27–28: Warning against lust.",
-        "James 3:5–8: The tongue’s power."
+        "Ecclesiastes 5:13-15: Riches hoarded by their owner to his own hurt.",
+        "Psalm 103:15-16: The days of man are like grass; the wind passes over it and it is gone.",
+        "Isaiah 40:6-8: All flesh is grass, and its beauty like the flower of the field.",
+        "Proverbs 8:34: Blessed is the one who watches daily at wisdom's gates.",
+        "Job 14:1-2: Man comes up like a flower and withers, and flees like a shadow."
       ],
       "translationNotes": [
         {
-          "term": "Faithful friend",
-          "original": "Hebrew: רֵעַ נֶאֱמָן (rēaʿ neʾĕmān), Greek: φίλος πιστός (phílos pistós), Aramaic: רֵעָא מְהֵימְנָא (rēʿāʾ məhēmnāʾ)",
-          "note": "Sirach extols the rarity and value of a true friend, contrasting with false companions."
+          "term": "The grudging eye",
+          "original": "Hebrew: רַע עַיִן (ra ayin) - Greek: ὀφθαλμὸς πονηρός (ophthalmos poneros)",
+          "note": "An evil eye meant stinginess and envy; a good eye meant generosity. The idiom is about an open or closed hand, not a curse."
+        },
+        {
+          "term": "Fasten their tent pegs to her walls",
+          "original": "Greek: πήσσων πάσσαλον ἐν τοῖς τοίχοις αὐτῆς (pesson passalon en tois toichois autes)",
+          "note": "A tent was pitched by driving pegs and roping the fabric to something fixed. Attaching your ropes to a house wall is how a dependent joined a household."
+        },
+        {
+          "term": "The decree of Hades",
+          "original": "Greek: διαθήκη ᾅδου (diatheke hadou)",
+          "note": "The fixed sentence of death, described with the same word used for a covenant or a will. It is presented as terms already set and not disclosed."
+        },
+        {
+          "term": "Become old like a garment",
+          "original": "Hebrew: כַּבֶּגֶד יִבְלֶה (ka-beged yivleh) - Greek: ὡς ἱμάτιον παλαιοῦται (hos himation palaioutai)",
+          "note": "Cloth was costly and handed down until it wore out. A worn garment was the everyday image for something used up over a lifetime."
         }
       ],
-      "keyTakeaway": "Wisdom governs speech, friendships, and desires; almsgiving and humility bring life, while pride and lust bring downfall."
+      "keyTakeaway": "Ben Sira says the miser collects for others what he denies himself and never enjoys his own wealth. He urges doing good to friends before you die, since death does not delay and generations fall like leaves, and calls happy the one who hunts wisdom and camps beside her house."
     },
     {
       "id": "sirach-15",
@@ -733,18 +987,35 @@
         "He has not commanded anyone to be ungodly, and he has not given anyone permission to sin. (15:20)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19: Choose life or death.",
-        "James 1:13: God does not tempt with evil.",
-        "Psalm 103:8: The Lord is merciful and gracious."
+        "Deuteronomy 30:15-19: Life and death, blessing and curse set before you; therefore choose life.",
+        "Joshua 24:15: Choose this day whom you will serve.",
+        "Genesis 4:7: Sin is crouching at the door, and you must rule over it.",
+        "James 1:13-14: God tempts no one; each is lured by his own desire.",
+        "Proverbs 9:1-5: Wisdom builds her house, sets her table, and calls the simple in."
       ],
       "translationNotes": [
         {
-          "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
-          "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
+          "term": "Fire and water",
+          "original": "Hebrew: אֵשׁ וָמַיִם (esh va-mayim) - Greek: πῦρ καὶ ὕδωρ (pyr kai hydor)",
+          "note": "The two elements every household handled daily, at the hearth and at the well. The pair frames the choice as ordinary and within reach, not remote."
+        },
+        {
+          "term": "Inclination",
+          "original": "Hebrew: יֵצֶר (yetser) - Greek: διαβούλιον (diaboulion)",
+          "note": "The Hebrew word means the thing shaped or formed, as by a potter, and came to mean a person's bent. The Greek term means deliberation or choice."
+        },
+        {
+          "term": "Bread of understanding, water of wisdom",
+          "original": "Greek: ἄρτον συνέσεως καὶ ὕδωρ σοφίας (arton syneseos kai hydor sophias)",
+          "note": "Bread and water were the two staples of a plain diet. The picture is basic daily sustenance, not a banquet."
+        },
+        {
+          "term": "Like a young bride",
+          "original": "Hebrew: אֵשֶׁת נְעוּרִים (eshet neurim) - Greek: γυνὴ παρθενίας (gyne parthenias)",
+          "note": "The wife of one's youth. Marriage was arranged between families and marked by a formal reception of the bride into the husband's household."
         }
       ],
-      "keyTakeaway": "God grants free will and calls all to repentance; wisdom and mercy are found in fearing Him."
+      "keyTakeaway": "Ben Sira pictures Wisdom meeting the God-fearing like a mother and a bride, feeding him the bread of understanding, while fools and liars never find her. He denies that God causes anyone to sin: the Lord left humans to their own inclination and set fire and water, life and death, before them."
     },
     {
       "id": "sirach-16",
@@ -783,18 +1054,35 @@
         "With all kinds of living beings he covered its surface, and into it they must return. (16:30)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19: Choose life or death.",
-        "James 1:13: God does not tempt with evil.",
-        "Psalm 103:8: The Lord is merciful and gracious."
+        "Genesis 6:4: The Nephilim were on the earth in those days.",
+        "Genesis 19:24-25: The overthrow of Sodom and Gomorrah where Lot had settled.",
+        "Numbers 14:29-30: The whole number counted from twenty years old falls in the wilderness.",
+        "Exodus 12:37: About six hundred thousand men on foot leave Egypt.",
+        "Psalm 139:7-12: There is nowhere to go from the presence of God."
       ],
       "translationNotes": [
         {
-          "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
-          "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
+          "term": "The ancient giants",
+          "original": "Hebrew: נְפִילִים (Nephilim) / גִּבֹּרִים (gibborim) - Greek: γίγαντες (gigantes)",
+          "note": "The Greek translators rendered the Hebrew terms for the mighty men before the flood with gigantes, their own word for giants. The loan word carries Greek associations the Hebrew does not."
+        },
+        {
+          "term": "The neighbors of Lot",
+          "original": "Greek: τοὺς παροίκους Λωτ (tous paroikous Lot)",
+          "note": "The cities of the plain among which Lot settled. Paroikos means a resident alien, which is exactly Lot's legal position there."
+        },
+        {
+          "term": "Stiff-necked",
+          "original": "Hebrew: קְשֵׁה עֹרֶף (qesheh oref) - Greek: σκληροτράχηλος (sklerotrachelos)",
+          "note": "A plow animal that braces its neck against the yoke and refuses the driver's turn. The image is a working ox, not an attitude in the abstract."
+        },
+        {
+          "term": "Assembly of sinners",
+          "original": "Hebrew: קָהָל (qahal) - Greek: συναγωγή (synagoge)",
+          "note": "Synagoge simply means a gathering of people. Only later did the word attach to the building where a community met."
         }
       ],
-      "keyTakeaway": "God grants free will and calls all to repentance; wisdom and mercy are found in fearing Him."
+      "keyTakeaway": "Ben Sira says one godly child outweighs a thousand ungodly ones and recalls that God did not spare the ancient giants, the neighbors of Lot, or the six hundred thousand who assembled in stubbornness. He answers anyone who thinks he is hidden in so vast a creation."
     },
     {
       "id": "sirach-17",
@@ -833,18 +1121,35 @@
         "He marshals the host of the height of heaven, but all humans are dust and ashes. (17:32)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19: Choose life or death.",
-        "James 1:13: God does not tempt with evil.",
-        "Psalm 103:8: The Lord is merciful and gracious."
+        "Genesis 1:26-28: God makes humankind in His image and gives dominion over the creatures.",
+        "Genesis 2:7: The Lord forms the man from the dust of the ground.",
+        "Deuteronomy 32:8-9: Boundaries fixed for the peoples; the Lord's portion is His people.",
+        "Psalm 6:5: In death there is no remembrance of You, and none give thanks from the grave.",
+        "Ezekiel 18:21-23: God takes no pleasure in the death of the wicked who turns back."
       ],
       "translationNotes": [
         {
-          "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
-          "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
+          "term": "Signet ring",
+          "original": "Hebrew: חוֹתָם (chotam) - Greek: σφραγίς (sphragis)",
+          "note": "An engraved ring pressed into wax or wet clay to seal documents and storage jars. It carried the owner's identity and authority and was never lent out."
+        },
+        {
+          "term": "The apple of his eye",
+          "original": "Hebrew: אִישׁוֹן עַיִן (ishon ayin) - Greek: κόρη ὀφθαλμοῦ (kore ophthalmou)",
+          "note": "Both languages name the pupil by the tiny figure reflected in it. It stands for the most instinctively guarded part of the body."
+        },
+        {
+          "term": "Portion",
+          "original": "Hebrew: חֵלֶק (cheleq) - Greek: μερίς (meris)",
+          "note": "The allotted share of an inheritance, the same word used for the land assigned to a tribe. It means legal title, not a preference."
+        },
+        {
+          "term": "Allotted to them the law of life",
+          "original": "Hebrew: תּוֹרָה (torah) - Greek: νόμος ζωῆς (nomos zoes)",
+          "note": "Torah means instruction or teaching before it means legislation. The Greek nomos narrows it toward law in the civic sense."
         }
       ],
-      "keyTakeaway": "God grants free will and calls all to repentance; wisdom and mercy are found in fearing Him."
+      "keyTakeaway": "Ben Sira recounts God making humans from earth with a fixed span, dominion over the animals, knowledge of good and evil, and a covenant with commandments. He says God set a ruler over every nation but kept Israel as his portion, and grants a return to those who repent while they live."
     },
     {
       "id": "sirach-18",
@@ -887,18 +1192,35 @@
         "Do not become a beggar by feasting with borrowed money, when you have nothing in your purse. (18:33)."
       ],
       "crossRefs": [
-        "Deuteronomy 30:19: Choose life or death.",
-        "James 1:13: God does not tempt with evil.",
-        "Psalm 103:8: The Lord is merciful and gracious."
+        "Psalm 90:4-6: A thousand years in Your sight are like yesterday when it is past.",
+        "Isaiah 40:15: The nations are like a drop from a bucket and dust on the scales.",
+        "Ezekiel 34:11-16: The Lord searches for His flock and tends them like a shepherd.",
+        "Deuteronomy 23:21: When you make a vow, do not delay to fulfill it.",
+        "Ecclesiastes 5:4-5: Better not to vow than to vow and not pay."
       ],
       "translationNotes": [
         {
-          "term": "Free will",
-          "original": "Hebrew: בְּחִירָה חָפְשִׁית (beḥîrā ḥopšît, sense), Greek: ἐξουσία προαιρέσεως (exousía proairéseōs), Aramaic: רשות בחירה (rešut beḥīrā)",
-          "note": "Concept expressed in Sirach 15: God grants humans freedom to choose good or evil, placing responsibility on them."
+          "term": "Vow",
+          "original": "Hebrew: נֶדֶר (neder) - Greek: εὐχή (euche)",
+          "note": "A voluntary promise to give something to God. Once spoken it became an enforceable debt payable at the sanctuary, which is why delay is treated as a legal failure."
+        },
+        {
+          "term": "Dew",
+          "original": "Hebrew: טַל (tal) - Greek: δρόσος (drosos)",
+          "note": "Through the rainless summer months overnight dew was the only moisture crops received. It arrives without cost and without being asked for."
+        },
+        {
+          "term": "Put the Lord to the test",
+          "original": "Hebrew: נִסָּה (nissah) - Greek: πειράζω (peirazo)",
+          "note": "To probe someone to find out what they will do. Used of taking a rash vow to see whether God will hold you to it."
+        },
+        {
+          "term": "A word is better than a gift",
+          "original": "Greek: λόγος ὑπὲρ δόμα ἀγαθόν (logos hyper doma agathon)",
+          "note": "In a society run on patronage, a gift created a standing obligation in the receiver. A kind word carried no debt with it."
         }
       ],
-      "keyTakeaway": "God grants free will and calls all to repentance; wisdom and mercy are found in fearing Him."
+      "keyTakeaway": "Ben Sira contrasts the eternal Creator, whose works no one can measure, with a human life that is a drop from the sea, and says God's mercy reaches every living thing as a shepherd handles his flock. He tells the reader to give without reproach and to pay vows promptly."
     },
     {
       "id": "sirach-19",
@@ -936,18 +1258,35 @@
         "People’s attire and hearty laughter and the way they walk proclaim things about them. (19:30)."
       ],
       "crossRefs": [
-        "Proverbs 10:19: In many words transgression.",
-        "Matthew 12:36: Account for every careless word.",
-        "James 1:26: Control of the tongue marks true religion."
+        "Proverbs 17:9: Whoever repeats a matter separates close friends.",
+        "Proverbs 20:1: Wine is a mocker, strong drink a brawler.",
+        "Matthew 18:15: Go and tell him his fault between the two of you alone.",
+        "James 3:2: Anyone who makes no mistakes in what he says is perfect.",
+        "Proverbs 26:20: Without a whisperer, quarreling ceases."
       ],
       "translationNotes": [
         {
-          "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
-          "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
+          "term": "Like an arrow stuck in a thigh",
+          "original": "Greek: βέλος πεπηγὸς ἐν μηρῷ σαρκός (belos pepegos en mero sarkos)",
+          "note": "Barbed arrowheads could not be pulled straight back out; the shaft had to be pushed through or cut free. The point is that the thing works its way out painfully."
+        },
+        {
+          "term": "Slander",
+          "original": "Hebrew: לָשׁוֹן הָרַע (lashon ha-ra) - Greek: διαβολή (diabole)",
+          "note": "A damaging report carried to a third party. The related Greek noun diabolos means accuser."
+        },
+        {
+          "term": "There is a cleverness that is detestable",
+          "original": "Greek: πανουργία (panourgia)",
+          "note": "Panourgia is technical skill in getting things done, with no moral direction attached. Ben Sira uses it for competence turned to bad ends."
+        },
+        {
+          "term": "Attire, laughter, and gait",
+          "original": "Greek: στολισμὸς ἀνδρὸς καὶ γέλως ὀδόντων καὶ βῆμα ἀνθρώπου (stolismos andros kai gelos odonton kai bema anthropou)",
+          "note": "In a face-to-face society, dress, walk, and manner of laughing were read as public markers of rank and character."
         }
       ],
-      "keyTakeaway": "Sinful speech, lust, and folly ruin lives, but wisdom exalts the humble and disciplines words and desires."
+      "keyTakeaway": "Ben Sira says small carelessness ruins a person by degrees and that wine and prostitutes wreck intelligent men. He tells the reader to bury what he hears rather than repeat it, and separates wisdom, which is fear of the Lord, from a shrewdness that is exact but unjust."
     },
     {
       "id": "sirach-20",
@@ -989,18 +1328,35 @@
         "Better are those who hide their folly than those who hide their wisdom. (20:31)."
       ],
       "crossRefs": [
-        "Proverbs 10:19: In many words transgression.",
-        "Matthew 12:36: Account for every careless word.",
-        "James 1:26: Control of the tongue marks true religion."
+        "Proverbs 17:28: Even a fool who keeps silent is considered wise.",
+        "Ecclesiastes 3:7: A time to keep silence and a time to speak.",
+        "Proverbs 15:23: A word spoken at the right time, how good it is.",
+        "Exodus 23:8: A bribe blinds the clear-sighted and subverts the cause of the righteous.",
+        "Matthew 5:15: No one lights a lamp and puts it under a basket."
       ],
       "translationNotes": [
         {
-          "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
-          "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
+          "term": "Eunuch",
+          "original": "Hebrew: סָרִיס (saris) - Greek: εὐνοῦχος (eunouchos)",
+          "note": "A castrated male official. Such men held trusted royal posts over the women's quarters and the treasury, since they could father no rival line."
+        },
+        {
+          "term": "Sevenfold recompense",
+          "original": "Hebrew: שִׁבְעָתַיִם (shivatayim) - Greek: ἑπταπλάσια (heptaplasia)",
+          "note": "Seven functions as a round number meaning a full or complete measure. It is not an arithmetic figure."
+        },
+        {
+          "term": "A slip on the pavement",
+          "original": "Greek: ὀλίσθημα ἀπὸ ἐδάφους (olisthema apo edaphous)",
+          "note": "The paved street of a Hellenistic town. The saying turns on a literal stumble doing less damage than a verbal one."
+        },
+        {
+          "term": "Town crier",
+          "original": "Greek: κῆρυξ (keryx)",
+          "note": "The official who shouted public announcements in the street and marketplace. The comparison is to volume and repetition, not to the message."
         }
       ],
-      "keyTakeaway": "Sinful speech, lust, and folly ruin lives, but wisdom exalts the humble and disciplines words and desires."
+      "keyTakeaway": "Ben Sira weighs speech against silence, noting that some keep quiet from wisdom and others because they have nothing to say, and that a timely rebuke beats simmering anger. He describes gifts that cost more than they give, and says hidden wisdom is as useless as buried treasure."
     },
     {
       "id": "sirach-21",
@@ -1039,18 +1395,35 @@
         "Whisperers degrade themselves and are hated in their neighborhoods. (21:28)."
       ],
       "crossRefs": [
-        "Proverbs 10:19: In many words transgression.",
-        "Matthew 12:36: Account for every careless word.",
-        "James 1:26: Control of the tongue marks true religion."
+        "Genesis 3:1: The serpent was more crafty than any other beast of the field.",
+        "Exodus 22:23: If they cry out to Me, I will surely hear their cry.",
+        "Habakkuk 2:9-11: Woe to him who gets evil gain for his house.",
+        "Proverbs 14:12: There is a way that seems right, but its end is the way to death.",
+        "Proverbs 17:24: The eyes of a fool are on the ends of the earth."
       ],
       "translationNotes": [
         {
-          "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
-          "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
+          "term": "Burial mounds",
+          "original": "Hebrew: גַּל (gal) - Greek: χῶμα (choma)",
+          "note": "A heap of stones piled over a grave. Field stones cleared during plowing were the usual material, so gathering stones for one was ordinary labor."
+        },
+        {
+          "term": "A broken jar",
+          "original": "Greek: ἀγγεῖον συντετριμμένον (angeion syntetrimmenon)",
+          "note": "Pottery held the household's grain, oil, water, and wine. A cracked jar drained itself and could not be repaired, only discarded."
+        },
+        {
+          "term": "Listening at a door",
+          "original": "Greek: ἀκροᾶσθαι ἐν θύρᾳ (akroasthai en thyra)",
+          "note": "Houses opened onto shared courtyards and conversation carried. Hovering at another family's doorway was a recognized social offense."
+        },
+        {
+          "term": "Two-edged sword",
+          "original": "Hebrew: חֶרֶב פִּיפִיּוֹת (cherev pifiyot) - Greek: ῥομφαία δίστομος (rhomphaia distomos)",
+          "note": "Literally a sword of two mouths. Both edges cut, so the backswing is as dangerous as the stroke, and the wound cannot be closed cleanly."
         }
       ],
-      "keyTakeaway": "Sinful speech, lust, and folly ruin lives, but wisdom exalts the humble and disciplines words and desires."
+      "keyTakeaway": "Ben Sira tells the sinner to stop and ask pardon, comparing sin to a snake with lion's teeth and lawlessness to a two-edged sword. He says the prayer of the poor reaches God quickly, that houses built with other people's money become burial mounds, and calls the fool a cracked jar."
     },
     {
       "id": "sirach-22",
@@ -1086,18 +1459,35 @@
         "Who will set a guard over my mouth and an effective seal upon my lips, so that I may not fall because of them and my tongue may not destroy me? (22:27)."
       ],
       "crossRefs": [
-        "Proverbs 10:19: In many words transgression.",
-        "Matthew 12:36: Account for every careless word.",
-        "James 1:26: Control of the tongue marks true religion."
+        "Genesis 50:10: Joseph observes seven days of mourning for his father.",
+        "1 Samuel 31:13: The men of Jabesh bury the bones and fast seven days.",
+        "Proverbs 26:11: As a dog returns to its vomit, so a fool repeats his folly.",
+        "Proverbs 6:6-11: The sluggard sent to the ant to learn from her ways.",
+        "Proverbs 25:9-10: Do not reveal another's secret, or you will never lose the disgrace."
       ],
       "translationNotes": [
         {
-          "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
-          "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
+          "term": "Seven days of mourning",
+          "original": "Hebrew: שִׁבְעָה (shivah) - Greek: ἑπτὰ ἡμέραι (hepta hemerai)",
+          "note": "The fixed week of formal mourning that followed a burial, still called shivah. Ordinary work and business stopped for its duration."
+        },
+        {
+          "term": "Potsherds",
+          "original": "Hebrew: חֶרֶשׂ (cheres) - Greek: ὄστρακον (ostrakon)",
+          "note": "Broken pottery fragments. They were reused as scrap writing surfaces but could never be rejoined into a working vessel."
+        },
+        {
+          "term": "The idler",
+          "original": "Hebrew: עָצֵל (atsel) - Greek: ὀκνηρός (okneros)",
+          "note": "The shirker or sluggard, a stock figure in wisdom instruction, defined by avoiding work rather than by lacking it."
+        },
+        {
+          "term": "Plaster decoration on a wall",
+          "original": "Greek: κοσμὸς ψηφῖνος ἐπὶ ξυστοῦ τοίχου (kosmos psephinos epi xystou toichou)",
+          "note": "Mud-brick walls were finished with a lime coat and molded or set decoration. The finish both ornamented the wall and protected the brick from rain."
         }
       ],
-      "keyTakeaway": "Sinful speech, lust, and folly ruin lives, but wisdom exalts the humble and disciplines words and desires."
+      "keyTakeaway": "Ben Sira calls the idler a filthy stone, says teaching a fool is like gluing potsherds, and sets seven days of mourning for the dead against a lifetime of grief over a fool. He names reviling, betrayed secrets, and a treacherous blow as the wounds no friendship survives."
     },
     {
       "id": "sirach-23",
@@ -1135,18 +1525,35 @@
         "Those who survive her will recognize that nothing is better than the fear of the Lord and nothing sweeter than to heed the commandments of the Lord. (23:27)."
       ],
       "crossRefs": [
-        "Proverbs 10:19: In many words transgression.",
-        "Matthew 12:36: Account for every careless word.",
-        "James 1:26: Control of the tongue marks true religion."
+        "Exodus 20:7: You shall not take the name of the Lord your God in vain.",
+        "Leviticus 19:12: You shall not swear falsely by My name and profane it.",
+        "Job 24:15: The eye of the adulterer waits for twilight, saying no eye will see me.",
+        "Proverbs 15:3: The eyes of the Lord are in every place, keeping watch.",
+        "Matthew 5:34-37: Do not swear at all; let your yes be yes and your no be no."
       ],
       "translationNotes": [
         {
-          "term": "Hypocrisy",
-          "original": "Hebrew: חָנֵף (ḥānēf), Greek: ὑπόκρισις (hypókrisis), Aramaic: חנופא (ḥănūfāʾ)",
-          "note": "Pretending righteousness while practicing sin; Sirach condemns hypocrisy as destructive."
+          "term": "The Name",
+          "original": "Hebrew: הַשֵּׁם (ha-Shem) - Greek: τὸ ὄνομα τοῦ ἁγίου (to onoma tou hagiou)",
+          "note": "By this period the divine name was not spoken in ordinary conversation, and substitutes were used in its place. Casual swearing by it was treated as a grave offense."
+        },
+        {
+          "term": "Brought before the assembly",
+          "original": "Hebrew: קָהָל (qahal) - Greek: ἐκκλησία (ekklesia)",
+          "note": "The gathered community that heard capital and family cases in public. A verdict there was a matter of permanent public record."
+        },
+        {
+          "term": "Master of my life",
+          "original": "Greek: δέσποτα τῆς ζωῆς μου (despota tes zoes mou)",
+          "note": "Despotes is the head of a household with full legal authority over everyone in it. The prayer addresses God with that everyday title alongside Father."
+        },
+        {
+          "term": "Sins against his marriage bed",
+          "original": "Hebrew: מִשְׁכָּב (mishkav) - Greek: κοίτη (koite)",
+          "note": "The word stands for the marriage relationship itself. An offense against it was prosecutable, affecting inheritance and the standing of children."
         }
       ],
-      "keyTakeaway": "Sinful speech, lust, and folly ruin lives, but wisdom exalts the humble and disciplines words and desires."
+      "keyTakeaway": "Ben Sira prays that God keep him from haughty eyes and shameless passion, then instructs on the mouth: no habitual oaths, no swearing by the Name, no lewd talk. He warns the adulterer who thinks walls hide him that the eyes of the Lord are far brighter than the sun."
     },
     {
       "id": "sirach-24",
@@ -1189,18 +1596,35 @@
         "Observe that I have not labored for myself alone but for all who seek wisdom. (24:34)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Proverbs 8:22-31: Wisdom present before the deeps and rejoicing in the inhabited world.",
+        "Genesis 2:11-14: The Pishon, Gihon, Tigris, and Euphrates flowing out of Eden.",
+        "Exodus 13:21: The Lord goes before them in a pillar of cloud by day.",
+        "Deuteronomy 33:4: Moses commanded us a law, the possession of the assembly of Jacob.",
+        "Proverbs 9:5: Come, eat of my bread and drink of the wine I have mixed."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "Galbanum, onycha, and stacte",
+          "original": "Hebrew: חֶלְבְּנָה / שְׁחֵלֶת / נָטָף (chelbenah / shecheleth / nataf) - Greek: χαλβάνη / ὄνυξ / στακτή (chalbane / onyx / stakte)",
+          "note": "Three aromatic gums prescribed for the sacred incense of the sanctuary, blended with frankincense. Naming them places Wisdom inside the temple's own materials."
+        },
+        {
+          "term": "En-gedi and Jericho",
+          "original": "Hebrew: עֵין גֶּדִי / יְרִיחוֹ (Ein Gedi / Yericho) - Greek: Ἐγγαδδι / Ἰεριχω (Engaddi / Iericho)",
+          "note": "Two spring-fed oases near the Dead Sea, both famous for irrigated date palms and balsam groves growing in otherwise barren country."
+        },
+        {
+          "term": "Terebinth",
+          "original": "Hebrew: אֵלָה (elah) - Greek: τερέβινθος (terebinthos)",
+          "note": "A broad, long-lived tree of the Levantine hills. Individual terebinths served as landmarks and boundary markers."
+        },
+        {
+          "term": "Pitched my tent",
+          "original": "Hebrew: שָׁכַן (shakhan) - Greek: κατασκηνόω (kataskenoo)",
+          "note": "The verb used for the tabernacle, the tent shrine carried through the wilderness. It means to settle in as a resident, not to camp briefly."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Wisdom speaks in her own voice: she came from the mouth of the Most High, covered the earth like mist, and was told by her Creator to encamp in Jacob and take root in Zion. She calls herself cedar, palm, vine, and spice and invites all to eat of her. Ben Sira names her the law Moses commanded."
     },
     {
       "id": "sirach-25",
@@ -1236,18 +1660,35 @@
         "If she does not go as you direct, separate her from yourself. (25:26)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Psalm 133:1: How good and pleasant it is when brothers dwell together in unity.",
+        "Proverbs 21:9: Better to live on a corner of the roof than in a house shared with a quarrelsome wife.",
+        "Proverbs 16:31: Gray hair is a crown of glory, gained in a righteous life.",
+        "Proverbs 6:16-19: Six things the Lord hates, seven that are an abomination to Him.",
+        "Deuteronomy 24:1: The written certificate placed in the wife's hand."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "Three things, and a tenth",
+          "original": "Hebrew: the x / x+1 numerical pattern - Greek: ἐν τρισὶν ὡραΐσθην (en trisin horaisthen)",
+          "note": "A standard wisdom form that counts up a list and drops the weight on the final item. The last entry is the one the saying is actually about."
+        },
+        {
+          "term": "Plow with ox and ass together",
+          "original": "Hebrew: לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר יַחְדָּו (lo tacharosh be-shor u-va-chamor yachdav) - Greek: ἐν βοῒ καὶ ὄνῳ (en boi kai ono)",
+          "note": "The law forbade yoking an ox and a donkey to one plow, since the mismatched pair pulls unevenly and injures both. The phrase became an idiom for an ill-matched marriage."
+        },
+        {
+          "term": "Separate her from yourself",
+          "original": "Hebrew: כְּרִיתוּת (keritut) - Greek: ἀπότεμε αὐτὴν ἀπὸ τῶν σαρκῶν σου (apoteme auten apo ton sarkon sou)",
+          "note": "The vocabulary of formal divorce, which required a written certificate handed to the wife before she was free of the household."
+        },
+        {
+          "term": "A garrulous wife to a quiet husband",
+          "original": "Greek: ἀνάβασις ἀμμώδης (anabasis ammodes)",
+          "note": "The comparison is a sandy slope under an old man's feet: each step slides back. It describes exhausting, unending effort rather than a single injury."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira lists three sights that please God and people, three kinds of people he loathes, and nine he calls happy capped by a tenth, ranking the God-fearing above them all. He praises judgment in the aged, then details the misery an evil wife brings her husband."
     },
     {
       "id": "sirach-26",
@@ -1287,18 +1728,35 @@
         "A merchant can hardly keep from wrongdoing, nor is a tradesman innocent of sin. (26:29)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Proverbs 31:10-12: A capable wife is far more precious than jewels.",
+        "Proverbs 12:4: An excellent wife is the crown of her husband.",
+        "Exodus 25:31-37: The lampstand of hammered gold with its seven lamps.",
+        "Proverbs 19:13: A quarrelsome wife is a continual dripping of rain.",
+        "Leviticus 19:16: Do not go about as a slanderer among your people."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "The holy lampstand",
+          "original": "Hebrew: מְנוֹרָה (menorah) - Greek: λυχνία ἁγία (lychnia hagia)",
+          "note": "The seven-branched gold lampstand kept burning in the sanctuary. It was the brightest fixed indoor light any reader would have known."
+        },
+        {
+          "term": "Golden pillars on silver bases",
+          "original": "Hebrew: אֲדָנִים (adanim) - Greek: στῦλοι χρύσεοι ἐπὶ βάσεως ἀργυρᾶς (styloi chryseoi epi baseos argyras)",
+          "note": "The tabernacle's gilded columns stood in cast silver sockets. The compliment borrows sanctuary architecture."
+        },
+        {
+          "term": "Merchant and tradesman",
+          "original": "Greek: ἔμπορος (emporos) and κάπηλος (kapelos)",
+          "note": "The emporos ran long-distance trade; the kapelos sold retail. The retailer in particular had a standing reputation for watering wine and shorting measures."
+        },
+        {
+          "term": "A warrior in want through poverty",
+          "original": "Greek: ἄνδρα πολεμιστὴν ὑστεροῦντα δι᾽ ἔνδειαν (andra polemisten hysterounta di endeian)",
+          "note": "Fighting men were paid from campaign wages and plunder. There was no pension, so a veteran without land or family fell straight into destitution."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira praises the good wife as a doubled life, a sunrise over a well-ordered home, and a lamp on the holy lampstand, and calls the bad wife a chafing yoke. He names slander, mobs, and false accusation as worse than death, and says a merchant is hardly free of wrongdoing."
     },
     {
       "id": "sirach-27",
@@ -1339,18 +1797,35 @@
         "Anger and wrath, these also are abominations, yet a sinner holds on to them. (27:30)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Proverbs 26:27: Whoever digs a pit will fall into it, and a stone rolls back on the one who starts it.",
+        "Psalm 7:15: He makes a pit and falls into the hole he has made.",
+        "Deuteronomy 25:13-16: Do not carry two kinds of weights in your bag.",
+        "Micah 6:11: The Lord will not acquit dishonest scales and a bag of false weights.",
+        "Matthew 12:34: Out of the abundance of the heart the mouth speaks."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "Sieve",
+          "original": "Hebrew: כְּבָרָה (kevarah) - Greek: κόσκινον (koskinon)",
+          "note": "Threshed grain was shaken in a sieve so husks, grit, and stones worked to the top to be skimmed off. Agitation is what makes the refuse visible."
+        },
+        {
+          "term": "Kiln",
+          "original": "Greek: κάμινος (kaminos)",
+          "note": "Pottery was fired in an enclosed kiln at high heat. Vessels with hidden flaws cracked in the firing, so the kiln served as the trade's quality test."
+        },
+        {
+          "term": "Whoever winks the eye",
+          "original": "Hebrew: קֹרֵץ עַיִן (qorets ayin) - Greek: διανεύων ὀφθαλμῷ (dianeuon ophthalmo)",
+          "note": "A signal passed between conspirators in company. It names plotting done in plain sight of the person being cheated."
+        },
+        {
+          "term": "Escaped like a gazelle from a snare",
+          "original": "Hebrew: צְבִי (tsevi) - Greek: δορκὰς ἐκ παγίδος (dorkas ek pagidos)",
+          "note": "Gazelle were taken with nets and foot snares rather than run down. Once loose the animal outran any pursuit, so the loss was final."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira says the pursuit of profit wedges sin between buyer and seller, and that speech tests a person as a shaken sieve shows the refuse. He warns that betraying a secret drives a friend off like a released bird, and that whoever digs a pit or sets a snare falls into it himself."
     },
     {
       "id": "sirach-28",
@@ -1387,18 +1862,35 @@
         "Take care not to err with your tongue and fall victim to one lying in wait. (28:26)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Leviticus 19:18: Do not take vengeance or bear a grudge, but love your neighbor as yourself.",
+        "Matthew 6:14-15: If you forgive others, your heavenly Father will also forgive you.",
+        "Matthew 18:23-35: The servant forgiven a great debt who refuses to forgive a small one.",
+        "Psalm 141:3: Set a guard over my mouth, O Lord; keep watch over the door of my lips.",
+        "James 3:5-6: The tongue is a small member that sets a great forest ablaze."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "Fence in your property with thorns",
+          "original": "Greek: περίφραξον τὸ κτῆμά σου ἀκάνθαις (periphraxon to ktema sou akanthais)",
+          "note": "Fields and vineyards were bounded with cut thorn hedges to stop livestock and thieves. The point is that a mouth deserves the same physical guarding as land and silver."
+        },
+        {
+          "term": "Gossips and whisperers",
+          "original": "Hebrew: רָכִיל (rakhil) - Greek: ψίθυρος (psithyros)",
+          "note": "The one who carries private talk from household to household. In a small community the whisperer functioned as an unaccountable news network."
+        },
+        {
+          "term": "Yoke of iron and fetters of bronze",
+          "original": "Greek: ζυγὸς σιδηροῦς καὶ δεσμοὶ χάλκειοι (zygos siderous kai desmoi chalkeioi)",
+          "note": "Captives and convicts were bound with bronze shackles and driven under a wooden bar. The image is the hardware of actual imprisonment."
+        },
+        {
+          "term": "Slander has driven women from their homes",
+          "original": "Greek: γυναῖκας ἀνδρείας ἐξέβαλεν (gynaikas andreias exebalen)",
+          "note": "A woman's standing rested on her reputation. A rumor could end a marriage and strip her of the household and the work she had built."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira says the man who nurses a grudge cannot expect healing or pardon, and tells the reader to forgive his neighbor and remember death and the commandments. He then attacks the tongue: slander has scattered nations and toppled great houses, and its blow crushes bones."
     },
     {
       "id": "sirach-29",
@@ -1437,18 +1929,35 @@
         "It is hard for a sensible person to bear scolding about lodging and the insults of the moneylender. (29:28)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Leviticus 25:35-37: Support your brother who becomes poor, and take no interest from him.",
+        "Exodus 22:25: Do not act as a creditor toward the poor of My people.",
+        "Psalm 37:21: The wicked borrow and do not repay, but the righteous give generously.",
+        "Proverbs 11:15: Whoever gives surety for a stranger will suffer for it.",
+        "Matthew 6:19-20: Store up treasure where moth and rust do not destroy."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "Kisses another's hands",
+          "original": "Greek: καταφιλήσει χεῖρας αὐτοῦ (kataphilesei cheiras autou)",
+          "note": "The gesture of a client asking a favor of a patron. It publicly acknowledged dependence, which is why dropping it after the loan is such a visible insult."
+        },
+        {
+          "term": "Treasury",
+          "original": "Hebrew: אוֹצָר (otsar) - Greek: θησαυρός (thesauros)",
+          "note": "A strongroom or storehouse holding grain, coin, and valuables. The instruction pictures alms as a physical deposit made into that room."
+        },
+        {
+          "term": "The necessities of life",
+          "original": "Greek: ἀρχὴ ζωῆς ὕδωρ καὶ ἄρτος καὶ ἱμάτιον καὶ οἶκος (arche zoes hydor kai artos kai himation kai oikos)",
+          "note": "Water, bread, clothing, and a house define the subsistence floor in this society. Below that line a person is destitute, not merely poor."
+        },
+        {
+          "term": "Going from house to house",
+          "original": "Greek: ἀπὸ οἰκίας εἰς οἰκίαν (apo oikias eis oikian)",
+          "note": "Travelers depended on private hospitality because inns were few and disreputable. A guest who outstayed his welcome had nowhere else to go."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira treats lending as a commandment and repayment as a duty, describing borrowers who kiss the lender's hands and then pay in excuses. He tells the reader to store alms as treasure that fights for him, warns that surety has ruined many, and says a poor man's own roof beats a stranger's table."
     },
     {
       "id": "sirach-30",
@@ -1484,18 +1993,35 @@
         "Those who are cheerful and merry at table will benefit from their food. (30:25)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Proverbs 13:24: Whoever spares the rod hates his son.",
+        "Proverbs 22:15: Folly is bound up in the heart of a child.",
+        "Proverbs 29:17: Discipline your son, and he will give you rest.",
+        "Proverbs 17:22: A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+        "Hebrews 12:7-11: God deals with you as with sons whom a father disciplines."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "An unbroken horse",
+          "original": "Greek: ἵππος ἀδάμαστος (hippos adamastos)",
+          "note": "Horses were broken to harness while young. An animal left untrained past that window was considered permanently unusable, not merely difficult."
+        },
+        {
+          "term": "Offerings of food placed upon a grave",
+          "original": "Greek: θέματα βρωμάτων παρακείμενα τάφῳ (themata bromaton parakeimena tapho)",
+          "note": "Food was set out at tombs for the dead in surrounding cultures. Ben Sira uses it as the image of waste, since the recipient cannot eat."
+        },
+        {
+          "term": "Idol",
+          "original": "Hebrew: אֱלִיל (elil) - Greek: εἴδωλον (eidolon)",
+          "note": "A carved or cast image. The argument here is mechanical rather than theological: the object has a mouth and nose that do not function."
+        },
+        {
+          "term": "Health and fitness",
+          "original": "Hebrew: מָתְנַיִם (motnayim, loins) - Greek: ὑγίεια καὶ εὐεξία (hygieia kai euexia)",
+          "note": "Euexia is the trained good condition of the body, a term from the gymnasium. The pairing values working strength, not appearance."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira presses hard discipline of sons, comparing an unchecked boy to an unbroken horse and saying a well-taught son keeps his father's name alive. He then ranks health above gold, says chronic sickness is worse than death, and says a joyful heart lengthens life."
     },
     {
       "id": "sirach-31",
@@ -1537,18 +2063,35 @@
         "Do not reprove your neighbors at a banquet of wine, and do not despise them in their merrymaking; speak no word of reproach to them, and do not distress them by making demands of them. (31:31)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Proverbs 23:1-3: When you sit down with a ruler, consider carefully what is before you.",
+        "Proverbs 23:29-35: Woe and wounds for those who linger long over wine.",
+        "Ecclesiastes 5:12: Sweet is the sleep of a laborer, but the full stomach of the rich will not let him sleep.",
+        "Psalm 104:15: Wine to gladden the heart of man and bread to strengthen it.",
+        "1 Timothy 6:9-10: Those who desire to be rich fall into a snare and many harmful desires."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "The table of the great",
+          "original": "Greek: ἐπὶ τραπέζης μεγάλης (epi trapezes megales)",
+          "note": "Guests reclined on couches around shared serving dishes and took food by hand from a common platter. Reaching across another guest was a visible offense against him."
+        },
+        {
+          "term": "Get up to vomit",
+          "original": "Greek: ἀνάστα ἔμεσον (anasta emeson)",
+          "note": "At a long banquet leaving the room to relieve an overloaded stomach was accepted practice. The advice is practical medicine, not a moral point."
+        },
+        {
+          "term": "Wine drunk in moderation",
+          "original": "Hebrew: יַיִן (yayin) - Greek: οἶνος (oinos)",
+          "note": "Wine at these meals was mixed with water before serving. Drinking it unmixed marked a man as either a foreigner or a drunk."
+        },
+        {
+          "term": "Wine tests hearts when the insolent quarrel",
+          "original": "Greek: κάμινος δοκιμάζει στόμωμα (kaminos dokimazei stomoma)",
+          "note": "The comparison is to a smith's furnace, which reveals whether tempered steel holds. Drinking parties ran to a fixed order of toasts, and quarrels there were a known hazard."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira says anxiety over wealth costs sleep and that gold has ruined many, calling blessed the rich man who could have cheated and did not. He then gives banquet manners: do not grab, do not crowd your neighbor at the dish, stop eating first, and drink wine in measure."
     },
     {
       "id": "sirach-32",
@@ -1583,18 +2126,35 @@
         "The one who keeps the law preserves himself, and the one who trusts the Lord will not suffer loss. (32:24)."
       ],
       "crossRefs": [
-        "Deuteronomy 4:6: Wisdom and understanding in the Law.",
-        "Proverbs 9:5: Eat my bread, drink my wine.",
-        "Luke 14:10: Humility at the banquet."
+        "Luke 14:8-11: Take the lowest place at a banquet and let the host invite you higher.",
+        "Proverbs 25:6-7: Do not put yourself forward in the king's presence.",
+        "Job 32:4-7: Elihu waits to speak because the others are older than he.",
+        "Proverbs 17:27: Whoever restrains his words has knowledge.",
+        "Proverbs 4:26-27: Ponder the path of your feet and do not swerve to right or left."
       ],
       "translationNotes": [
         {
-          "term": "Wisdom identified with the Law",
-          "original": "Hebrew: תּוֹרָה (tôrāh), Greek: νόμος (nómos) / σοφία (sophía), Aramaic: אוריתא (ʾoraytāʾ)",
-          "note": "Sirach equates Wisdom’s dwelling with the giving of the Law, linking divine wisdom with Torah instruction."
+          "term": "Master of the feast",
+          "original": "Greek: ἡγούμενον κατέστησάν σε (hegoumenon katestesan se)",
+          "note": "The guest chosen to preside over a banquet. He set the order of drinking and the entertainment and answered publicly for how the evening went."
+        },
+        {
+          "term": "Receive a wreath",
+          "original": "Greek: στέφανος (stephanos)",
+          "note": "Guests and the presider at a banquet were crowned with woven garlands. The wreath was the actual award for a well-run evening, not a figure of speech."
+        },
+        {
+          "term": "Do not interrupt the music",
+          "original": "Greek: μὴ ἐμποδίσῃς μουσικά (me empodises mousika)",
+          "note": "Hired musicians performed between courses. Talking over them insulted the performers and the host who had paid for them."
+        },
+        {
+          "term": "A ruby seal in a setting of gold",
+          "original": "Hebrew: חוֹתָם (chotam) - Greek: σφραγὶς ἄνθρακος ἐν κόσμῳ χρυσῷ (sphragis anthrakos en kosmo chryso)",
+          "note": "An engraved gemstone mounted in a gold ring. For most people this was the most valuable small object they would ever see, which is the force of the comparison."
         }
       ],
-      "keyTakeaway": "Wisdom dwells in the Law; guidance is given for social conduct, leadership, and obedience to God."
+      "keyTakeaway": "Ben Sira tells the man made master of the feast to serve the guests before he sits, lets the elders speak with knowledge, limits the young to two remarks and only if asked, forbids talking over the music, and says to leave in good time rather than last."
     },
     {
       "id": "sirach-33",
@@ -1638,18 +2198,35 @@
         "which way will you go to seek him? (33:33)."
       ],
       "crossRefs": [
-        "Proverbs 22:2: Rich and poor meet together.",
-        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
-        "James 1:5: Ask God for wisdom."
+        "Jeremiah 18:1-6: Like clay in the potter's hand, so are you in My hand.",
+        "Isaiah 64:8: We are the clay, and You are our potter.",
+        "Genesis 1:14: Lights in the expanse to mark seasons, days, and years.",
+        "Leviticus 23:1-4: The appointed festivals of the Lord, proclaimed at their fixed times.",
+        "Deuteronomy 15:12-15: Release the Hebrew slave in the seventh year and supply him liberally."
       ],
       "translationNotes": [
         {
-          "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
-          "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
+          "term": "Gleaner",
+          "original": "Hebrew: לָקַט (laqat) - Greek: ἐπιφυλλίς (epiphyllis)",
+          "note": "The one who follows the harvesters and gathers what they leave behind. The law reserved gleanings for the poor, the widow, and the resident foreigner."
+        },
+        {
+          "term": "Winepress",
+          "original": "Hebrew: גַּת (gat) - Greek: ληνός (lenos)",
+          "note": "A rock-cut treading floor draining through a channel into a lower collecting vat. Grapes were crushed underfoot and the juice ran down by gravity."
+        },
+        {
+          "term": "Seasons and festivals",
+          "original": "Hebrew: מוֹעֲדִים (moadim) - Greek: καιροὶ καὶ ἑορταί (kairoi kai heortai)",
+          "note": "The Hebrew word means appointed times. It covers the fixed feast days of the calendar rather than seasons in the weather sense."
+        },
+        {
+          "term": "You have bought him with blood",
+          "original": "Greek: ἐν αἵματι ἐκτήσω αὐτόν (en haimati ektheso auton)",
+          "note": "A slave was purchased property, and the phrase points to the price paid for him. The instruction that follows runs against the ordinary handling of that property."
         }
       ],
-      "keyTakeaway": "Wealth, poverty, and counsel are all to be governed by fear of the Lord; stewardship and discernment are exhorted."
+      "keyTakeaway": "Ben Sira says the Lord set apart days, seasons, and festivals as he set apart people, all of them clay in the potter's hand. He compares himself to a gleaner who filled a winepress, tells a householder to keep his property until death, and says to treat a lone slave as a brother."
     },
     {
       "id": "sirach-34",
@@ -1691,18 +2268,35 @@
         "So if one fasts for his sins and goes again and does the same things, who will listen to his prayer? And what has he gained by humbling himself? (34:31)."
       ],
       "crossRefs": [
-        "Proverbs 22:2: Rich and poor meet together.",
-        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
-        "James 1:5: Ask God for wisdom."
+        "Deuteronomy 18:10-12: No diviner, soothsayer, augur, or sorcerer among you.",
+        "Jeremiah 23:25-32: Prophets who tell their own dreams and call them My word.",
+        "Isaiah 1:11-15: I take no delight in your sacrifices; your hands are full of blood.",
+        "Deuteronomy 24:14-15: Pay the hired worker his wages the same day, before sunset.",
+        "James 5:4: The wages you kept back cry out against you."
       ],
       "translationNotes": [
         {
-          "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
-          "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
+          "term": "Divinations and omens",
+          "original": "Hebrew: נַחַשׁ / קֶסֶם (nachash / qesem) - Greek: μαντεῖαι καὶ οἰωνισμοί (manteiai kai oionismoi)",
+          "note": "Reading outcomes from bird flight, animal organs, and cast lots. It was a professional trade across the ancient Near East and forbidden outright in the law."
+        },
+        {
+          "term": "Washing after touching a corpse",
+          "original": "Hebrew: טָמֵא (tame) - Greek: βαπτιζόμενος ἀπὸ νεκροῦ (baptizomenos apo nekrou)",
+          "note": "Contact with a dead body made a person ritually unclean for seven days, cleared by washing and sprinkling. Touching the body again restarted the whole count."
+        },
+        {
+          "term": "Fasting",
+          "original": "Hebrew: צוֹם (tsom) - Greek: νηστεία (nesteia)",
+          "note": "Going without food as a sign of mourning or repentance, usually from dawn until nightfall rather than for a full day."
+        },
+        {
+          "term": "Ill-gotten goods",
+          "original": "Greek: θυσιάζων ἐξ ἀδίκου (thysiazon ex adikou)",
+          "note": "A sacrifice required an animal or produce the offerer legally owned. An offering from stolen property failed on ownership grounds before anything else was considered."
         }
       ],
-      "keyTakeaway": "Wealth, poverty, and counsel are all to be governed by fear of the Lord; stewardship and discernment are exhorted."
+      "keyTakeaway": "Ben Sira dismisses dreams, omens, and divination as shadows unless the Most High sends them, and credits travel and experience for what he knows. He rejects sacrifice bought with stolen goods, calling an offering from the property of the poor a murder and withheld wages bloodshed."
     },
     {
       "id": "sirach-35",
@@ -1739,18 +2333,35 @@
         "His mercy is as welcome in time of distress as clouds of rain in time of drought. (35:26)."
       ],
       "crossRefs": [
-        "Proverbs 22:2: Rich and poor meet together.",
-        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
-        "James 1:5: Ask God for wisdom."
+        "1 Samuel 15:22: To obey is better than sacrifice, and to listen than the fat of rams.",
+        "Deuteronomy 16:16-17: No one shall appear before the Lord empty-handed.",
+        "Deuteronomy 10:17-18: God is not partial and takes no bribe; He executes justice for the orphan and widow.",
+        "Psalm 68:5: Father of the fatherless and protector of widows.",
+        "Hosea 6:6: I desire steadfast love and not sacrifice."
       ],
       "translationNotes": [
         {
-          "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
-          "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
+          "term": "Offering of well-being",
+          "original": "Hebrew: שְׁלָמִים (shelamim) - Greek: θυσία σωτηρίου (thysia soteriou)",
+          "note": "The shared sacrifice whose meat was eaten by the offerer and his household at the sanctuary. English versions also render it peace offering or fellowship offering."
+        },
+        {
+          "term": "Choice flour",
+          "original": "Hebrew: סֹלֶת (solet) - Greek: σεμίδαλις (semidalis)",
+          "note": "Finely sifted wheat flour, the most expensive grade. It was the required material for grain offerings, so naming it signals real cost."
+        },
+        {
+          "term": "Tithe",
+          "original": "Hebrew: מַעֲשֵׂר (maaser) - Greek: δεκάτη (dekate)",
+          "note": "A tenth of crops, produce, and herds set aside for the sanctuary and those who served it. It was assessed on yield, not on surplus."
+        },
+        {
+          "term": "Thank offering",
+          "original": "Hebrew: תּוֹדָה (todah) - Greek: θυσία αἰνέσεως (thysia aineseos)",
+          "note": "The sacrifice brought in acknowledgment of a specific rescue or benefit received, distinct from the regular calendar offerings."
         }
       ],
-      "keyTakeaway": "Wealth, poverty, and counsel are all to be governed by fear of the Lord; stewardship and discernment are exhorted."
+      "keyTakeaway": "Ben Sira equates keeping the law with sacrifice: obedience is an offering of well-being, a returned kindness is choice flour, and almsgiving is a thank offering. He tells the worshiper to bring tithes gladly and never empty-handed, and says God takes no bribe and hears the orphan and widow."
     },
     {
       "id": "sirach-36",
@@ -1790,18 +2401,35 @@
         "For who will trust a nimble robber who skips from city to city? So who will trust a man who has no nest but lodges wherever nighttime finds him? (36:31)."
       ],
       "crossRefs": [
-        "Proverbs 22:2: Rich and poor meet together.",
-        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
-        "James 1:5: Ask God for wisdom."
+        "Isaiah 11:12: He will gather the outcasts of Israel from the four corners of the earth.",
+        "Ezekiel 37:21-22: I will gather them and make them one nation in the land.",
+        "Exodus 4:22: Israel is My firstborn son.",
+        "Psalm 79:1: The nations have come into Your inheritance and defiled Your holy temple.",
+        "Genesis 2:18: I will make him a helper fit for him."
       ],
       "translationNotes": [
         {
-          "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
-          "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
+          "term": "Firstborn",
+          "original": "Hebrew: בְּכוֹר (bekhor) - Greek: πρωτότοκος (prototokos)",
+          "note": "The eldest son, who received a double share of the inheritance and headship of the family. The word marks rank and legal claim, not merely birth order."
+        },
+        {
+          "term": "New signs and other wonders",
+          "original": "Hebrew: אוֹתוֹת וּמוֹפְתִים (otot u-mofetim) - Greek: σημεῖα καὶ τέρατα (semeia kai terata)",
+          "note": "The standard fixed pair used for the acts of God at the exodus. Asking for new ones is asking for a repeat of that deliverance."
+        },
+        {
+          "term": "A helper and a pillar of support",
+          "original": "Hebrew: עֵזֶר כְּנֶגְדּוֹ (ezer kenegdo) - Greek: βοηθὸς κατ᾽ αὐτὸν καὶ στῦλος ἀναπαύσεως (boethos kat auton kai stylos anapauseos)",
+          "note": "The terms describe a working partner in the household economy. A stylos is a load-bearing column, not a decoration."
+        },
+        {
+          "term": "Where there is no fence, the property is plundered",
+          "original": "Greek: οὗ οὐκ ἔστιν φραγμός (hou ouk estin phragmos)",
+          "note": "Unenclosed fields and vineyards were routinely stripped by animals and thieves. A household without a wife is compared to land with no boundary hedge."
         }
       ],
-      "keyTakeaway": "Wealth, poverty, and counsel are all to be governed by fear of the Lord; stewardship and discernment are exhorted."
+      "keyTakeaway": "Ben Sira prays that God show his power to the nations, gather the tribes of Jacob, have pity on Jerusalem, fill the temple with glory, and prove his prophets true. The chapter then compares a mind that detects false words to a palate judging food, and calls a good wife a man's best possession."
     },
     {
       "id": "sirach-37",
@@ -1843,18 +2471,35 @@
         "Many have died of gluttony, but those who guard against it prolong their lives. (37:31)."
       ],
       "crossRefs": [
-        "Proverbs 22:2: Rich and poor meet together.",
-        "Luke 16:9: Use unrighteous wealth for eternal purposes.",
-        "James 1:5: Ask God for wisdom."
+        "Proverbs 15:22: Without counsel plans fail, but with many advisers they succeed.",
+        "1 Kings 12:6-14: Rehoboam rejects the elders and follows the young men's advice.",
+        "Proverbs 27:6: Faithful are the wounds of a friend.",
+        "Proverbs 23:20-21: Do not join the drunkards and gluttons, for they come to poverty.",
+        "Psalm 32:8: I will instruct you and counsel you with My eye upon you."
       ],
       "translationNotes": [
         {
-          "term": "Counsel",
-          "original": "Hebrew: עֵצָה (ʿēṣāh), Greek: βουλή (boulḗ), Aramaic: מלכתא (melaktā, sense)",
-          "note": "Advice or plan; Sirach urges discernment in choosing counselors, testing motives and outcomes."
+          "term": "Seven sentinels on a watchtower",
+          "original": "Greek: ἑπτὰ σκοποὶ ἐπὶ μετεώρου καθήμενοι (hepta skopoi epi meteorou kathemenoi)",
+          "note": "Walled towns posted watchmen in shifts on raised towers. Seven stands for a full complement of guards, so the comparison claims complete coverage."
+        },
+        {
+          "term": "In battle they will carry his shield",
+          "original": "Greek: ἐν πολέμῳ λήψεται ἀσπίδα (en polemo lepsetai aspida)",
+          "note": "The shield-bearer stood beside a fighter in the line and was the one man who could not run. It was the most concrete test of loyalty available."
+        },
+        {
+          "term": "Cast the lot against you",
+          "original": "Hebrew: גּוֹרָל (goral) - Greek: κλῆρος (kleros)",
+          "note": "Lots were cast to divide property and settle disputed claims. A rigged draw decided the matter before any argument could be made."
+        },
+        {
+          "term": "Delicacies",
+          "original": "Greek: τρυφή (tryphe)",
+          "note": "Luxury foods served at wealthy tables. The warning that follows is dietary and practical, tied to sickness rather than to expense."
         }
       ],
-      "keyTakeaway": "Wealth, poverty, and counsel are all to be governed by fear of the Lord; stewardship and discernment are exhorted."
+      "keyTakeaway": "Ben Sira separates friends in name only from those who stand by you, and lists advisers to avoid: a woman about her rival, a coward about war, a merchant about a sale, a miser about generosity, an idler about work. He points instead to a godly counselor, your own heart, and prayer."
     },
     {
       "id": "sirach-38",
@@ -1899,18 +2544,35 @@
         "But they maintain the fabric of the world, and their concern is for the exercise of their trade. How different the one who devotes himself to the study of the law of the Most High! (38:34)."
       ],
       "crossRefs": [
-        "Exodus 15:26: The Lord your healer.",
-        "Luke 4:23: Physician, heal yourself.",
-        "1 Thessalonians 4:13: Do not grieve as others without hope."
+        "Exodus 15:23-25: Moses throws a piece of wood into the bitter water and it becomes sweet.",
+        "Isaiah 38:21: Isaiah orders a cake of figs applied to Hezekiah's boil.",
+        "2 Chronicles 16:12: Asa in his disease seeks physicians and not the Lord.",
+        "Deuteronomy 34:8: Israel weeps for Moses thirty days, and the days of mourning end.",
+        "Jeremiah 18:3-4: The potter working at his wheel, reworking the spoiled vessel."
       ],
       "translationNotes": [
         {
+          "term": "Pharmacist",
+          "original": "Greek: μυρεψός (myrepsos)",
+          "note": "Literally an ointment boiler. This tradesman compounded oils, salves, and perfumes, so the same shop supplied medicine and incense."
+        },
+        {
           "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
-          "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
+          "original": "Hebrew: רֹפֵא (rofe) - Greek: ἰατρός (iatros)",
+          "note": "A paid practitioner who set bones, dressed wounds, and prescribed compounded drugs. The better ones were retained by courts and wealthy households."
+        },
+        {
+          "term": "Goad",
+          "original": "Hebrew: מַלְמָד (malmad) - Greek: βούκεντρον (boukentron)",
+          "note": "A long pole tipped with iron used to drive plow oxen. It was the plowman's working tool and the badge of his trade."
+        },
+        {
+          "term": "Scribe",
+          "original": "Hebrew: סוֹפֵר (sofer) - Greek: γραμματεύς (grammateus)",
+          "note": "A trained writer and legal expert, not merely a copyist. The training took years, so the office belonged to those free of daily manual labor."
         }
       ],
-      "keyTakeaway": "Sirach commends physicians, proper mourning, honest labor, and wise reflection on death and God’s order."
+      "keyTakeaway": "Ben Sira tells the sick to pray and then call the physician, since the Lord created medicine from the earth and gave the pharmacist his mixtures. He limits mourning to a day or two, then describes the plowman, seal-cutter, smith, and potter who hold the world together yet never sit in council."
     },
     {
       "id": "sirach-39",
@@ -1956,18 +2618,35 @@
         "So now sing praise with all your heart and voice, and bless the name of the Lord. (39:35)."
       ],
       "crossRefs": [
-        "Exodus 15:26: The Lord your healer.",
-        "Luke 4:23: Physician, heal yourself.",
-        "1 Thessalonians 4:13: Do not grieve as others without hope."
+        "Ezra 7:6: Ezra, a scribe skilled in the law of Moses.",
+        "Genesis 1:31: God saw everything He had made, and it was very good.",
+        "Exodus 15:8: At the blast of Your nostrils the waters piled up in a heap.",
+        "Psalm 148:8: Fire and hail, snow and mist, stormy wind fulfilling His word.",
+        "Ecclesiastes 3:1: For everything there is a season and a time for every matter."
       ],
       "translationNotes": [
         {
-          "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
-          "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
+          "term": "The blood of the grape",
+          "original": "Hebrew: דַּם עֲנָב (dam anav) - Greek: αἷμα σταφυλῆς (haima staphyles)",
+          "note": "A fixed phrase for wine, taken from the dark juice running out of the treading floor. It is a description of the press, not a figure about sacrifice."
+        },
+        {
+          "term": "Iron and salt among the necessities",
+          "original": "Hebrew: בַּרְזֶל וּמֶלַח (barzel u-melach) - Greek: σίδηρος καὶ ἅλας (sideros kai halas)",
+          "note": "Iron for tools and salt for preserving and seasoning food both had to be bought in. A household could produce neither, which is why they head the list beside water and fire."
+        },
+        {
+          "term": "Turned a watered land into salt",
+          "original": "Hebrew: מֶלַח (melach) - Greek: εἰς ἅλμην (eis halmen)",
+          "note": "Salt-crusted ground grows nothing and does not recover. For a farming people this named the worst outcome that could befall land."
+        },
+        {
+          "term": "Spirit of understanding",
+          "original": "Hebrew: רוּחַ בִּינָה (ruach binah) - Greek: πνεῦμα συνέσεως (pneuma syneseos)",
+          "note": "The phrase names a granted capacity for insight. The same wording is used elsewhere for skilled craftsmen and for rulers deciding cases."
         }
       ],
-      "keyTakeaway": "Sirach commends physicians, proper mourning, honest labor, and wise reflection on death and God’s order."
+      "keyTakeaway": "Ben Sira describes the scribe who studies the ancients, prophecies, and parables, serves rulers, travels, and rises early to pray. He then calls for a hymn declaring every work of the Lord good in its own time, and names wind, fire, hail, famine, and plague as instruments of judgment."
     },
     {
       "id": "sirach-40",
@@ -2008,18 +2687,35 @@
         "In the mouth of the shameless begging is sweet, but it kindles a fire inside them. (40:30)."
       ],
       "crossRefs": [
-        "Exodus 15:26: The Lord your healer.",
-        "Luke 4:23: Physician, heal yourself.",
-        "1 Thessalonians 4:13: Do not grieve as others without hope."
+        "Genesis 3:17-19: In toil you shall eat of it, until you return to the ground.",
+        "Ecclesiastes 1:13: An unhappy business that God has given to the children of man.",
+        "Job 14:1: Man born of woman is of few days and full of trouble.",
+        "Proverbs 15:16: Better is a little with the fear of the Lord than great treasure with turmoil.",
+        "Proverbs 16:8: Better a little with righteousness than great revenues with injustice."
       ],
       "translationNotes": [
         {
-          "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
-          "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
+          "term": "Burlap",
+          "original": "Hebrew: שַׂק (saq) - Greek: σάκκος (sakkos)",
+          "note": "Coarse cloth woven from goat hair, the cheapest fabric available. It was worn by the destitute and put on deliberately by mourners."
+        },
+        {
+          "term": "Purple and a crown",
+          "original": "Hebrew: אַרְגָּמָן (argaman) - Greek: πορφύρα καὶ στέφανος (porphyra kai stephanos)",
+          "note": "Purple cloth was dyed with murex shellfish secretions at enormous cost, so the color was restricted in practice to royalty and high office."
+        },
+        {
+          "term": "Return to the mother of all the living",
+          "original": "Hebrew: אֵם כָּל־חָי (em kol chai) - Greek: μητέρα πάντων (metera panton)",
+          "note": "The phrase names the ground itself, the earth from which the first man was formed and to which the body returns."
+        },
+        {
+          "term": "Better than either",
+          "original": "Hebrew: טוֹב ... מִן (tov ... min) - Greek: ὑπὲρ ἀμφότερα (hyper amphotera)",
+          "note": "A comparison form that names two acknowledged goods and then ranks a third above both. The pattern repeats through this chapter as a ladder."
         }
       ],
-      "keyTakeaway": "Sirach commends physicians, proper mourning, honest labor, and wise reflection on death and God’s order."
+      "keyTakeaway": "Ben Sira says a heavy yoke rests on everyone from the man on the throne to the man in ashes, with anxiety and broken sleep for all. He runs a chain of comparisons in which wisdom, a good wife, almsgiving, and the fear of the Lord each beat wealth, and calls begging worse than death."
     },
     {
       "id": "sirach-41",
@@ -2052,18 +2748,35 @@
         "of meddling with his female servant— and do not approach her bed; of abusive words, before friends— and do not be insulting after making a gift. (41:22)."
       ],
       "crossRefs": [
-        "Exodus 15:26: The Lord your healer.",
-        "Luke 4:23: Physician, heal yourself.",
-        "1 Thessalonians 4:13: Do not grieve as others without hope."
+        "Ecclesiastes 7:1: A good name is better than precious ointment.",
+        "Proverbs 22:1: A good name is to be chosen rather than great riches.",
+        "Job 3:20-22: Light is given to the bitter in soul, who long for death and do not find it.",
+        "Genesis 3:19: You are dust, and to dust you shall return.",
+        "Hebrews 9:27: It is appointed for mortals to die once, and after that comes judgment."
       ],
       "translationNotes": [
         {
-          "term": "Physician",
-          "original": "Hebrew: רוֹפֵא (rōp̄ēʾ), Greek: ἰατρός (iatrós), Aramaic: אסיא (ʾasyāʾ)",
-          "note": "Sirach affirms the role of physicians and medicines as God’s provision for healing."
+          "term": "Leaning on your elbow at meals",
+          "original": "Greek: ἀπὸ ἐπιθέσεως ἀγκῶνος ἐπ᾽ ἄρτοις (apo epitheseos ankonos ep artois)",
+          "note": "Diners reclined on couches propped on the left arm. Slumping forward onto the table with the elbow among the bread broke the posture and marked poor breeding."
+        },
+        {
+          "term": "A good name",
+          "original": "Hebrew: שֵׁם טוֹב (shem tov) - Greek: ὄνομα ἀγαθόν (onoma agathon)",
+          "note": "Reputation was the durable asset in a face-to-face society. It determined marriage prospects, access to credit, and standing in the assembly."
+        },
+        {
+          "term": "Prince or ruler",
+          "original": "Greek: δυνάστης (dynastes)",
+          "note": "A local magnate holding power over land, revenue, and courts. Lying to one carried legal exposure, not merely social embarrassment."
+        },
+        {
+          "term": "Breach of the law before the congregation",
+          "original": "Hebrew: עֵדָה (edah) - Greek: πλῆθος καὶ λαός (plethos kai laos)",
+          "note": "Offenses were tried before the assembled community. A conviction there entered permanent public memory, which is why the shame list is ordered by audience."
         }
       ],
-      "keyTakeaway": "Sirach commends physicians, proper mourning, honest labor, and wise reflection on death and God’s order."
+      "keyTakeaway": "Ben Sira weighs death as bitter to a prosperous man and welcome to one worn down by age and pain, and says the decree is fixed for all flesh. A good name outlasts a thousand hoards of gold. He then begins a catalogue of what deserves shame: lying before a ruler, theft, and broken oaths."
     },
     {
       "id": "sirach-42",
@@ -2098,7 +2811,36 @@
         "All things come in pairs, one opposite the other, and he has made nothing incomplete. (42:24).",
         "Each supplements the virtues of the other. Who could ever tire of seeing his glory? (42:25)."
       ],
-      "keyTakeaway": "Ben Sira distinguishes false shame from true shame, urges proper conduct in household and business matters, then pivots to praise God's works: the universe is ordered by his word, and every creature serves his purpose."
+      "keyTakeaway": "Ben Sira finishes his list of shame by naming what is not shameful: the law, honest accounts with partners, accurate scales and weights, and disciplining children. He tells a father to watch a daughter, then turns to the works of the Lord, who searches the abyss and the human heart.",
+      "crossRefs": [
+        "Leviticus 19:35-36: Honest balances, honest weights, and honest measures.",
+        "Proverbs 11:1: A false balance is an abomination to the Lord.",
+        "Psalm 33:6: By the word of the Lord the heavens were made.",
+        "Psalm 139:1-4: You search me and know my thoughts from far away.",
+        "Isaiah 46:9-10: Declaring the end from the beginning and what is not yet done."
+      ],
+      "translationNotes": [
+        {
+          "term": "Scales and weights",
+          "original": "Hebrew: אֶבֶן וָאֶבֶן (even va-even, stone and stone) - Greek: στάθμια καὶ ζυγά (stathmia kai zyga)",
+          "note": "Trade used carved stone weights on a beam balance. A dishonest merchant carried a heavy set for buying and a light set for selling, which is why the law demanded one standard."
+        },
+        {
+          "term": "Put it all in writing",
+          "original": "Greek: ἐν γραφῇ (en graphe)",
+          "note": "Deposits, dowries, and partnerships were recorded on papyrus before witnesses and sealed. A written record was the only workable defense in a dispute."
+        },
+        {
+          "term": "No lattice in her room",
+          "original": "Hebrew: אֶשְׁנָב (eshnav) - Greek: θυρὶς διαφανής (thyris diaphanes)",
+          "note": "Windows were small openings closed with wooden lattice screens. The instruction concerns a room with no view of the street or the approaches to the house."
+        },
+        {
+          "term": "The abyss",
+          "original": "Hebrew: תְּהוֹם (tehom) - Greek: ἄβυσσος (abyssos)",
+          "note": "The unmeasured deep beneath the earth and sea. It is paired here with the human heart as the two places thought to be beyond reach."
+        }
+      ]
     },
     {
       "id": "sirach-43",
@@ -2141,7 +2883,36 @@
         "Many things greater than these lie hidden, for I have seen but few of his works. (43:32).",
         "For the Lord has made all things, and to the godly he has given wisdom. (43:33)."
       ],
-      "keyTakeaway": "An extended hymn of creation: the sky, sun, moon, stars, rainbow, lightning, snow, frost, sea, and storms all proclaim the Lord's glory; the more we praise him, the more he surpasses our words."
+      "keyTakeaway": "Ben Sira surveys the sky as the Maker's work: the sun that scorches at noon, the moon that fixes the festivals, the stars keeping their appointed watches, the rainbow, snow, frost, hail, thunder, and the sea with its monsters. He ends saying no one can praise the Lord enough.",
+      "crossRefs": [
+        "Genesis 1:14-18: Lights in the expanse to separate day from night and to mark seasons.",
+        "Psalm 19:1-6: The heavens declare the glory of God, and the sun runs its course.",
+        "Genesis 9:13-16: The bow set in the cloud as the sign of the covenant.",
+        "Job 38:22-30: The storehouses of snow and hail, and the waters turned to stone.",
+        "Psalm 147:16-17: He gives snow like wool and scatters frost like ashes."
+      ],
+      "translationNotes": [
+        {
+          "term": "The new moon",
+          "original": "Hebrew: חֹדֶשׁ (chodesh) - Greek: νουμηνία (noumenia)",
+          "note": "The same Hebrew word means both month and new moon. The month began at the first sighting of the crescent, which is why the moon fixes the festival dates."
+        },
+        {
+          "term": "Storehouses",
+          "original": "Hebrew: אוֹצָרוֹת (otsarot) - Greek: θησαυροί (thesauroi)",
+          "note": "Locked chambers where grain and valuables were kept under seal. The sky is pictured as holding snow, hail, and wind in rooms of the same kind."
+        },
+        {
+          "term": "Mighty sea monsters",
+          "original": "Hebrew: תַּנִּינִים (tanninim) - Greek: κήτη (kete)",
+          "note": "The great sea creatures named in the creation account. Sailors' reports of whales and other large animals stood behind the word."
+        },
+        {
+          "term": "The water puts on ice like a breastplate",
+          "original": "Hebrew: שִׁרְיוֹן (shiryon) - Greek: θώραξ (thorax)",
+          "note": "A thorax was the scale or plate armor worn over the chest. The frozen surface of a pool is described as armor plating fitted over the water."
+        }
+      ]
     },
     {
       "id": "sirach-44",
@@ -2175,18 +2946,35 @@
         "he made to rest on the head of Jacob; he acknowledged him with his blessings and gave him his inheritance; he divided his portions and distributed them among twelve tribes. From his descendants the Lord brought forth a man of compassion who found favor in the sight of all (44:23)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40: Hall of faith.",
-        "Psalm 105:6–10: Covenant remembered.",
-        "Acts 7:2–53: Stephen’s review of Israel’s history."
+        "Genesis 5:24: Enoch walked with God, and he was not, for God took him.",
+        "Genesis 9:8-17: The covenant that never again will a flood destroy all flesh.",
+        "Genesis 17:1-11: The covenant of circumcision established with Abraham.",
+        "Genesis 22:16-18: The Lord swears by Himself to bless Abraham's offspring.",
+        "Genesis 49:28: All these are the twelve tribes of Israel, blessed by their father."
       ],
       "translationNotes": [
         {
-          "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
-          "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
+          "term": "Famous men",
+          "original": "Hebrew: אַנְשֵׁי (anshei, men of) - Greek: ἄνδρες ἔνδοξοι (andres endoxoi)",
+          "note": "Literally men of repute or of glory. The phrase opens a praise poem, a recognized form that recites a community's ancestors by name."
+        },
+        {
+          "term": "He certified the covenant in his flesh",
+          "original": "Hebrew: בְּרִית מִילָה (brit milah) - Greek: διαθήκην ἐν σαρκὶ αὐτοῦ (diatheken en sarki autou)",
+          "note": "Circumcision, the physical sign of the covenant made with Abraham and required of every male in his household."
+        },
+        {
+          "term": "Taken up",
+          "original": "Hebrew: לָקַח (laqach) - Greek: μετετέθη (metetethe)",
+          "note": "The Greek verb means transferred or removed from one place to another. It is the same word used of Enoch in the Greek text of Genesis."
+        },
+        {
+          "term": "As numerous as the dust of the earth and the stars",
+          "original": "Hebrew: כַּעֲפַר הָאָרֶץ / כְּכוֹכְבֵי הַשָּׁמַיִם (ka-afar ha-arets / ke-khokhvei ha-shamayim) - Greek: ὡς χοῦν τῆς γῆς (hos choun tes ges)",
+          "note": "The two standard measures of an uncountable multitude in the promises to Abraham, one taken from the ground and one from the sky."
         }
       ],
-      "keyTakeaway": "Sirach honors the great ancestors of Israel, recounting God’s faithfulness through their lives."
+      "keyTakeaway": "Ben Sira opens his praise of the ancestors, naming the kinds of men who earned glory and admitting others left no memory. He then begins the roll: Enoch taken up, Noah kept alive through the flood, Abraham marked in his flesh and confirmed by oath, Isaac, and Jacob divided into twelve tribes."
     },
     {
       "id": "sirach-45",
@@ -2223,18 +3011,35 @@
         "And now bless the Lord who has crowned you with glory. May the Lord grant you wisdom of mind to judge his people with justice, so that their prosperity may not vanish and that their glory may endure through all their generations. (45:26)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40: Hall of faith.",
-        "Psalm 105:6–10: Covenant remembered.",
-        "Acts 7:2–53: Stephen’s review of Israel’s history."
+        "Exodus 20:21: Moses drew near to the thick darkness where God was.",
+        "Exodus 28:31-38: The robe with bells and pomegranates and the gold plate on the turban.",
+        "Exodus 28:15-21: The breastpiece set with twelve stones engraved with the names of the tribes.",
+        "Numbers 16:1-35: Korah, Dathan, and Abiram and the fire that consumed their company.",
+        "Numbers 25:10-13: The covenant of peace and perpetual priesthood given to Phinehas."
       ],
       "translationNotes": [
         {
-          "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
-          "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
+          "term": "Ephod",
+          "original": "Hebrew: אֵפוֹד (efod) - Greek: ἐπωμίς (epomis)",
+          "note": "The high priest's shoulder garment of gold, blue, purple, and crimson thread, to which the breastpiece was tied. The Greek name simply means the shoulder piece."
+        },
+        {
+          "term": "The oracle of judgment, the manifestations of truth",
+          "original": "Hebrew: אוּרִים וְתֻמִּים (Urim ve-Tummim) - Greek: δήλωσις καὶ ἀλήθεια (delosis kai aletheia)",
+          "note": "Objects kept in the high priest's breastpiece and used to obtain a decision. The Greek renders the two Hebrew words as manifestation and truth."
+        },
+        {
+          "term": "Golden bells and pomegranates",
+          "original": "Hebrew: פַּעֲמֹנֵי זָהָב וְרִמּוֹנִים (paamonei zahav ve-rimmonim) - Greek: κώδωνες χρυσοῖ (kodones chrysoi)",
+          "note": "The hem of the robe carried alternating cast bells and woven pomegranate tassels, so the priest could be heard entering and leaving the sanctuary."
+        },
+        {
+          "term": "Anointed with holy oil",
+          "original": "Hebrew: שֶׁמֶן הַמִּשְׁחָה (shemen ha-mishchah) - Greek: ἔλαιον ἅγιον (elaion hagion)",
+          "note": "A specially compounded olive oil poured over the head to install a man in office. The formula was reserved and could not be reproduced for private use."
         }
       ],
-      "keyTakeaway": "Sirach honors the great ancestors of Israel, recounting God’s faithfulness through their lives."
+      "keyTakeaway": "Ben Sira praises Moses, who heard God's voice in the dark cloud and received the commandments, then Aaron, given an everlasting priesthood and vested in ephod, bells, engraved stones for the twelve tribes, and a gold crown. Korah, Dathan, and Abiram are consumed, and Phinehas ranks third."
     },
     {
       "id": "sirach-46",
@@ -2265,18 +3070,35 @@
         "Even after he had fallen asleep, he prophesied and made known to the king his death and lifted up his voice from the ground in prophecy, to blot out the lawlessness of the people. (46:20)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40: Hall of faith.",
-        "Psalm 105:6–10: Covenant remembered.",
-        "Acts 7:2–53: Stephen’s review of Israel’s history."
+        "Joshua 10:11-14: Hailstones on the fleeing armies and the sun standing still over Gibeon.",
+        "Numbers 14:30: None shall enter the land except Caleb son of Jephunneh and Joshua son of Nun.",
+        "Joshua 14:10-12: Caleb at eighty-five asks for the hill country promised him.",
+        "1 Samuel 7:10: The Lord thundered with a mighty sound against the Philistines.",
+        "1 Samuel 12:3-5: Samuel challenges the people to name anything he has taken from them."
       ],
       "translationNotes": [
         {
-          "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
-          "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
+          "term": "As his name implies, a great savior",
+          "original": "Hebrew: יְהוֹשֻׁעַ (Yehoshua) - Greek: Ἰησοῦς (Iesous)",
+          "note": "The name means the Lord saves. Its Greek form is the same spelling rendered Jesus in the New Testament, which is why the wordplay works in the Greek text."
+        },
+        {
+          "term": "Not so much as a pair of shoes",
+          "original": "Hebrew: נַעֲלַיִם (naalayim) - Greek: ὑπόδημα (hypodema)",
+          "note": "Sandals stood for the smallest item of value. Handing over a sandal also sealed property transfers, so the phrase covers both petty theft and crooked dealing."
+        },
+        {
+          "term": "Trustworthy seer",
+          "original": "Hebrew: רֹאֶה (roeh) - Greek: προφήτης (prophetes)",
+          "note": "Seer was the older title for a prophet, naming the one to whom something is shown. Samuel is given both titles in the same passage."
+        },
+        {
+          "term": "Anointed rulers",
+          "original": "Hebrew: מָשִׁיחַ (mashiach) - Greek: χριστός (christos)",
+          "note": "Both words mean anointed one. Pouring oil on the head installed a king in office, and the participle became a title for the man so installed."
         }
       ],
-      "keyTakeaway": "Sirach honors the great ancestors of Israel, recounting God’s faithfulness through their lives."
+      "keyTakeaway": "Ben Sira praises Joshua son of Nun, Moses' successor, for whom the sun stood still and hailstones fell, and Caleb son of Jephunneh, the only two of six hundred thousand to enter the land. He blesses the judges, then Samuel, who anointed rulers and called down thunder on the Philistines."
     },
     {
       "id": "sirach-47",
@@ -2312,18 +3134,35 @@
         "For they sought out every kind of wickedness until vengeance came upon them. (47:25)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40: Hall of faith.",
-        "Psalm 105:6–10: Covenant remembered.",
-        "Acts 7:2–53: Stephen’s review of Israel’s history."
+        "1 Samuel 17:49-51: David strikes Goliath with a stone from his sling and cuts off his head.",
+        "1 Samuel 18:7: Saul has struck down his thousands, and David his tens of thousands.",
+        "2 Samuel 7:12-16: The Lord establishes the throne of David's kingdom forever.",
+        "1 Kings 11:1-11: Solomon's foreign wives turn his heart, and the kingdom is torn away.",
+        "1 Kings 12:16-20: Rehoboam's harsh answer and the revolt that made Jeroboam king."
       ],
       "translationNotes": [
         {
-          "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
-          "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
+          "term": "Set apart like the fat of the offering",
+          "original": "Hebrew: חֵלֶב (chelev) - Greek: στέαρ ἀπὸ σωτηρίου (stear apo soteriou)",
+          "note": "The fat of a sacrifice was burned on the altar and never eaten, being the portion reserved for God. The comparison marks David as selected out of the whole."
+        },
+        {
+          "term": "The glorious diadem",
+          "original": "Hebrew: נֵזֶר (nezer) - Greek: διάδημα δόξης (diadema doxes)",
+          "note": "A band bound around the head as the mark of kingship, distinct from a jeweled crown. It was tied on, not set on."
+        },
+        {
+          "term": "Gold like tin and silver like lead",
+          "original": "Greek: ὡς κασσίτερον ... ὡς μόλιβον (hos kassiteron ... hos molibon)",
+          "note": "The comparison ranks metals by market price. The claim is that he stockpiled the precious metals in the bulk quantities normally seen only in cheap ones."
+        },
+        {
+          "term": "A rebel kingdom out of Ephraim",
+          "original": "Hebrew: אֶפְרַיִם (Ephraim) - Greek: ἐξ Εφραιμ (ex Ephraim)",
+          "note": "Ephraim was the leading tribe of the north, so its name is used for the northern kingdom as a whole."
         }
       ],
-      "keyTakeaway": "Sirach honors the great ancestors of Israel, recounting God’s faithfulness through their lives."
+      "keyTakeaway": "Ben Sira praises David, who killed Goliath with a slung stone, set singers before the altar, and received a covenant of kingship, then Solomon, who reigned in peace and built the temple. He records that Solomon's women divided the kingdom, and Rehoboam's folly and Jeroboam's sin ended in exile."
     },
     {
       "id": "sirach-48",
@@ -2359,18 +3198,35 @@
         "He revealed what was to occur to the end of time and the hidden things before they happened. (48:25)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40: Hall of faith.",
-        "Psalm 105:6–10: Covenant remembered.",
-        "Acts 7:2–53: Stephen’s review of Israel’s history."
+        "1 Kings 17:1: There shall be neither dew nor rain these years except by my word.",
+        "2 Kings 2:11: A chariot of fire and horses of fire, and Elijah went up in a whirlwind.",
+        "2 Kings 13:20-21: A dead man revives when he touches the bones of Elisha.",
+        "2 Kings 20:20: Hezekiah made the pool and the conduit and brought water into the city.",
+        "2 Kings 19:35: The angel of the Lord struck down the camp of the Assyrians."
       ],
       "translationNotes": [
         {
-          "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
-          "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
+          "term": "Tunneled the rock with iron tools",
+          "original": "Greek: ὤρυξεν σιδήρῳ ἀκρότομον (oryxen sidero akrotomon)",
+          "note": "A channel cut through bedrock to carry a spring from outside the wall to a reservoir inside it, so a besieging army could not cut the city off from water."
+        },
+        {
+          "term": "Twice as many signs",
+          "original": "Hebrew: פִּי שְׁנַיִם (pi shnayim) - Greek: διπλάσια (diplasia)",
+          "note": "The Hebrew phrase is literally a double mouth or double portion, the firstborn's extra share of an inheritance. Elisha asked for that share of Elijah's spirit."
+        },
+        {
+          "term": "Whirlwind",
+          "original": "Hebrew: סְעָרָה (searah) - Greek: λαῖλαψ (lailaps)",
+          "note": "A violent storm wind rather than a rotating column of air. It is the same word used for Elijah's departure in the book of Kings."
+        },
+        {
+          "term": "To turn the hearts of parents to their children",
+          "original": "Hebrew: לְהָשִׁיב לֵב־אָבוֹת עַל־בָּנִים (lehashiv lev avot al banim) - Greek: ἐπιστρέψαι καρδίαν πατρὸς πρὸς υἱόν (epistrepsai kardian patros pros huion)",
+          "note": "The line is quoted from the closing verses of Malachi, which assign this work to the prophet who is to come."
         }
       ],
-      "keyTakeaway": "Sirach honors the great ancestors of Israel, recounting God’s faithfulness through their lives."
+      "keyTakeaway": "Ben Sira praises Elijah, who shut the heavens, called down fire, raised a corpse, and was carried off in a chariot of fire, and Elisha, whose body prophesied after his death. He then names Hezekiah, who tunneled rock to bring water into the city, and Isaiah, who saw the Assyrian camp struck."
     },
     {
       "id": "sirach-49",
@@ -2397,18 +3253,35 @@
         "Shem and Seth and Enosh were honored, but above every other created living being was Adam. (49:16)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40: Hall of faith.",
-        "Psalm 105:6–10: Covenant remembered.",
-        "Acts 7:2–53: Stephen’s review of Israel’s history."
+        "2 Kings 23:1-25: Josiah's reform and the removal of the idolatrous shrines.",
+        "Jeremiah 1:5: Before I formed you in the womb I knew you and appointed you a prophet.",
+        "Ezekiel 1:4-28: The vision of the living creatures, the wheels, and the throne above them.",
+        "Ezra 3:8-11: Zerubbabel and Jeshua son of Jozadak lay the foundation of the temple.",
+        "Nehemiah 6:15: The wall was finished in fifty-two days."
       ],
       "translationNotes": [
         {
-          "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
-          "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
+          "term": "Blended incense",
+          "original": "Hebrew: קְטֹרֶת סַמִּים (qetoret sammim) - Greek: θυμίαμα εὐωδίας (thymiama euodias)",
+          "note": "The compounded sanctuary incense, mixed by a trained perfumer to a fixed formula. Copying the blend for private use was forbidden, so the comparison marks something set apart."
+        },
+        {
+          "term": "The Twelve Prophets",
+          "original": "Hebrew: תְּרֵי עָשָׂר (Trei Asar) - Greek: οἱ δώδεκα προφῆται (hoi dodeka prophetai)",
+          "note": "The twelve shorter prophetic books were counted and copied as a single scroll, which is why they are named together as one group."
+        },
+        {
+          "term": "Even his bones were cared for",
+          "original": "Hebrew: עַצְמוֹת (atsmot) - Greek: τὰ ὀστᾶ αὐτοῦ (ta osta autou)",
+          "note": "Joseph made Israel swear to carry his bones out of Egypt. Burial in ancestral ground was a binding obligation on the survivors, not a sentiment."
+        },
+        {
+          "term": "The chariot of the cherubim",
+          "original": "Hebrew: מֶרְכָּבָה (merkavah) - Greek: ἅρμα χερουβιν (harma cheroubin)",
+          "note": "The Hebrew word simply means chariot. It names the wheeled throne-carriage seen beneath the glory in Ezekiel's opening vision."
         }
       ],
-      "keyTakeaway": "Sirach honors the great ancestors of Israel, recounting God’s faithfulness through their lives."
+      "keyTakeaway": "Ben Sira likens Josiah's memory to blended incense for reforming the people, names David and Hezekiah as the only other kings who kept the law, and records the burning of Jerusalem that Jeremiah foretold. He credits Ezekiel with the cherubim chariot and honors Zerubbabel, Nehemiah, and Adam."
     },
     {
       "id": "sirach-50",
@@ -2448,18 +3321,35 @@
         "For if they put them into practice, they will be equal to anything, for the fear of the Lord is their path. (50:29)."
       ],
       "crossRefs": [
-        "Hebrews 11:1–40: Hall of faith.",
-        "Psalm 105:6–10: Covenant remembered.",
-        "Acts 7:2–53: Stephen’s review of Israel’s history."
+        "Numbers 6:22-27: The blessing Aaron and his sons pronounce over the people.",
+        "Leviticus 9:22-24: Aaron lifts his hands toward the people and blesses them.",
+        "Numbers 10:1-10: Two silver trumpets of hammered work, sounded by the priests.",
+        "Exodus 26:31-33: The curtain separating the holy place from the most holy place.",
+        "Numbers 28:7: The drink offering poured out in the sanctuary with the daily offering."
       ],
       "translationNotes": [
         {
-          "term": "Ancestors",
-          "original": "Hebrew: אָבוֹת (ʾāḇōt), Greek: πατέρες (patéres), Aramaic: אבהתא (ʾăbāhātā)",
-          "note": "The patriarchs and leaders of Israel’s history, celebrated for faith and covenant loyalty."
+          "term": "The house of the curtain",
+          "original": "Hebrew: פָּרֹכֶת (parokhet) - Greek: καταπέτασμα (katapetasma)",
+          "note": "The woven veil screening the innermost room of the sanctuary. Coming out from behind it marked the end of the priest's service inside."
+        },
+        {
+          "term": "Drink offering of the blood of the grape",
+          "original": "Hebrew: נֶסֶךְ (nesekh) - Greek: σπονδή (sponde)",
+          "note": "Wine poured out at the base of the altar as a fixed part of the daily offering. It was poured, never drunk by the priest."
+        },
+        {
+          "term": "Trumpets of hammered metal",
+          "original": "Hebrew: חֲצֹצְרֹת מִקְשָׁה (chatsotserot miqshah) - Greek: σάλπιγγες ἐλαταί (salpinges elatai)",
+          "note": "Two silver trumpets beaten from a single piece rather than cast. Priests sounded them to assemble the people and to mark the offerings."
+        },
+        {
+          "term": "Morning star",
+          "original": "Greek: ἑωσφόρος (heosphoros)",
+          "note": "The planet Venus seen just before sunrise. It is the brightest object in the dawn sky, which is the force of the comparison."
         }
       ],
-      "keyTakeaway": "Sirach honors the great ancestors of Israel, recounting God’s faithfulness through their lives."
+      "keyTakeaway": "Ben Sira describes the high priest Simon son of Onias, who repaired the temple, dug a reservoir, and fortified the city, and pictures him coming out from the curtain like the morning star. The people fall on their faces, Simon blesses the congregation, and the author names himself son of Sirach."
     },
     {
       "id": "sirach-51",
@@ -2500,18 +3390,35 @@
         "Do your work in good time, and in his own time God will give you your reward. (51:30)."
       ],
       "crossRefs": [
-        "Psalm 18:1–19: Thanksgiving for deliverance.",
-        "Matthew 11:29: Take my yoke and find rest.",
-        "Colossians 2:3: Treasures of wisdom in Christ."
+        "Psalm 18:4-6: The cords of death encompassed me, and I called upon the Lord.",
+        "Psalm 136:1: Give thanks to the Lord, for He is good, for His steadfast love endures forever.",
+        "Isaiah 55:1: Come, buy wine and milk without money and without price.",
+        "Proverbs 8:17: I love those who love me, and those who seek me diligently find me.",
+        "Matthew 11:28-30: Take My yoke upon you and learn from Me."
       ],
       "translationNotes": [
         {
-          "term": "Yoke of wisdom",
-          "original": "Hebrew: עֹל חָכְמָה (ʿōl ḥokmāh, sense), Greek: ζυγὸς σοφίας (zygòs sophías), Aramaic: טול דחכמתא (ṭōl deḥokmātā)",
-          "note": "Metaphor of yoke as discipline and guidance; wisdom’s yoke brings rest and joy."
+          "term": "House of instruction",
+          "original": "Hebrew: בֵּית מִדְרָשׁ (beit midrash) - Greek: οἶκος παιδείας (oikos paideias)",
+          "note": "The room where a teacher gathered students for study. The Hebrew term is the ancestor of the later name for a study hall."
+        },
+        {
+          "term": "Slander of an unrighteous tongue to the king",
+          "original": "Greek: διαβολῆς γλώσσης ἀδίκου παρὰ βασιλεῖ (diaboles glosses adikou para basilei)",
+          "note": "A denunciation carried to the ruler. A charge brought that way could cost a man his property or his life before he ever answered it."
+        },
+        {
+          "term": "From the first blossom to the ripening grape",
+          "original": "Greek: ἀπὸ ἄνθους ὡς περκαζούσης σταφυλῆς (apo anthous hos perkazouses staphyles)",
+          "note": "The span of a vineyard's growing season, from flowering to the darkening of the fruit. It marks a full stretch of time, not a moment."
+        },
+        {
+          "term": "Acquire wisdom without money",
+          "original": "Greek: κτήσασθε ἑαυτοῖς ἄνευ ἀργυρίου (ktesasthe heautois aneu argyriou)",
+          "note": "Paid instruction was normal in the Greek-speaking world, where teachers charged fees per course. This invitation is issued without one."
         }
       ],
-      "keyTakeaway": "Sirach closes with thanksgiving for God’s deliverance and an exhortation to pursue wisdom faithfully."
+      "keyTakeaway": "Ben Sira gives thanks for rescue from slander carried to the king and from the brink of Hades, recalling that he prayed and was heard. He tells how he sought wisdom from his youth before the temple, and calls the untaught into the house of instruction to acquire wisdom without money."
     }
   ]
 }

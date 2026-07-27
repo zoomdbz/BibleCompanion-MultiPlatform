@@ -22,18 +22,35 @@
         "Mordecai saw in this dream what God had determined to do, and after he awoke he had it on his mind, seeking all day to understand it in every detail. (1:12)."
       ],
       "crossRefs": [
-        "Genesis 41:1–32: Dreams as divine foreshadowing.",
-        "Daniel 2:28: God reveals mysteries.",
-        "Esther 6:1–3: Mordecai’s loyalty remembered later."
+        "Daniel 7:2-3: Great beasts rise while the winds stir the sea and the nations are shaken.",
+        "Joel 2:1-2: A day of darkness and gloom, of clouds and thick darkness.",
+        "2 Kings 24:14-15: Jeconiah and the people of Jerusalem are carried captive to Babylon.",
+        "1 Samuel 2:7-8: The Lord brings low and lifts up, raising the poor from the dust.",
+        "Genesis 41:8: Pharaoh's spirit is troubled by a dream no one can interpret for him."
       ],
       "translationNotes": [
         {
-          "term": "Dragons in the dream",
-          "original": "Hebrew: תַּנִּין (tannîn, 'dragon/serpent'), Greek: δράκοντες (drákontes), Aramaic: תניניא (tannīnyā)",
-          "note": "Symbolic figures representing opposing forces in Mordecai’s vision, later understood as Haman and Mordecai."
+          "term": "Nisan",
+          "original": "Hebrew: נִיסָן (nisan) - Greek: Νισαν (Nisan)",
+          "note": "The first month of the Hebrew religious year, falling across March and April; Passover falls on its fourteenth day. The name entered Hebrew from Babylonian usage during the exile."
+        },
+        {
+          "term": "Dragons",
+          "original": "Greek: δράκοντες (drakontes) - Hebrew: תַּנִּין (tannin)",
+          "note": "In the Greek Old Testament drakon renders the Hebrew tannin, a great serpent or sea creature. It does not carry the winged, fire-breathing sense that dragon has for a modern English reader."
+        },
+        {
+          "term": "Artaxerxes",
+          "original": "Greek: Ἀρταξέρξης (Artaxerxes) - Hebrew: אֲחַשְׁוֵרוֹשׁ (Achashverosh, Ahasuerus)",
+          "note": "The Greek text of Esther names the king Artaxerxes throughout, where the Hebrew text names him Ahasuerus. A reader comparing the two versions will meet two different names for the same king."
+        },
+        {
+          "term": "Jeconiah",
+          "original": "Greek: Ιεχονιας (Iechonias) - Hebrew: יְכָנְיָה (Yekonyah)",
+          "note": "One king of Judah appears in Scripture under three names: Jehoiachin, Coniah, and Jeconiah. He was taken to Babylon in the deportation that carried off the court, the officials, and the craftsmen."
         }
       ],
-      "keyTakeaway": "Mordecai’s dream foreshadows Israel’s coming danger and deliverance, and his loyalty to the king is established."
+      "keyTakeaway": "Mordecai, a Benjaminite exile serving in the court at Susa, dreams of thunder, earthquake, and two roaring dragons that set every nation against a righteous people. They cry to God, a tiny spring becomes a great river, and the lowly devour the honored. He sees in it what God has determined to do."
     },
     {
       "id": "esther_greek-2",
@@ -50,18 +67,34 @@
         "But Haman son of Hammedatha, a Bougean, who was in great honor with the king, determined to injure Mordecai and his people because of the two eunuchs of the king. (2:6)."
       ],
       "crossRefs": [
-        "1 Samuel 19:11-12: Loyalty that warns the king of a plot.",
-        "Proverbs 25:13: A faithful messenger refreshes his masters.",
-        "2 Kings 11:14-16: Conspirators inside the royal court."
+        "2 Kings 12:20-21: Servants of the king conspire against him and strike him down in his own house.",
+        "Ezra 4:15: Search is ordered in the book of the records, where the Persian archives are kept.",
+        "Ecclesiastes 10:20: A bird of the air may carry the voice, and what has wings may tell the matter.",
+        "1 Samuel 18:8-9: From that day on Saul eyed David with suspicion."
       ],
       "translationNotes": [
         {
-          "term": "Eunuchs of the courtyard",
-          "original": "Greek: εὐνοῦχοι (eunouchoi); Hebrew background: סָרִיס (sārîs), a chamber officer.",
-          "note": "Persian court eunuchs held trusted positions near the throne; their conspiracy here parallels the later canonical account of Bigthan and Teresh (Esther 2:21-23 MT)."
+          "term": "Eunuch",
+          "original": "Greek: εὐνοῦχος (eunouchos) - Hebrew: סָרִיס (saris)",
+          "note": "A household officer of the royal court, set over the chambers, the women's quarters, or the king's person. The Persian court used such officers as chamberlains, guards, and messengers, so the word names an office of trust close to the throne."
+        },
+        {
+          "term": "Bougean",
+          "original": "Greek: Βουγαῖος (Bougaios) - Hebrew: אֲגָגִי (Agagi, Agagite)",
+          "note": "The Greek text labels Haman a Bougean where the Hebrew text labels him an Agagite. A reader comparing the versions will find two different descriptors attached to the same man."
+        },
+        {
+          "term": "Commemoration",
+          "original": "Greek: μνημόσυνον (mnemosynon)",
+          "note": "A written memorandum entered into the court record. The Persian kings kept daily registers of business, the same archives that Ezra 4:15 and 6:1-2 describe being searched years afterward."
+        },
+        {
+          "term": "Lay hands on",
+          "original": "Greek: ἐπιβαλεῖν χεῖρας (epibalein cheiras)",
+          "note": "A fixed idiom for violent seizure, here an attempt on the king's life. It has no connection to the laying on of hands in blessing or appointment."
         }
       ],
-      "keyTakeaway": "Mordecai overhears a plot by two royal eunuchs against King Artaxerxes and reports it; his loyalty is rewarded, while Haman quietly resolves to harm him because of it."
+      "keyTakeaway": "Mordecai overhears the eunuchs Gabatha and Tharra plotting to lay hands on King Artaxerxes and reports them; the two confess and are led away. The king records the matter and rewards Mordecai with a place in the court, and Haman the Bougean resolves to injure Mordecai and his people over it."
     },
     {
       "id": "esther_greek-3",
@@ -87,18 +120,35 @@
         "and told him what, according to the law, was to be done to Queen Vashti for not obeying the order that the king had sent her by the eunuchs. (3:15)."
       ],
       "crossRefs": [
-        "Ezra 9:6–15: Confession of national sin.",
-        "Daniel 9:4–19: Prayer of intercession in exile.",
-        "Hebrews 4:16: Approach God’s throne with boldness."
+        "Daniel 5:1-4: A king holds a great feast and calls for the gold and silver vessels to drink from.",
+        "Daniel 6:1-2: Satraps are set over the whole kingdom, with higher officials placed above them.",
+        "Ezra 7:14: A Persian king acts together with his seven counselors.",
+        "1 Kings 10:18-21: Solomon's throne and drinking vessels, all of gold, as a display of royal wealth.",
+        "Proverbs 31:4-5: It is not for kings to drink wine, lest they forget what has been decreed."
       ],
       "translationNotes": [
         {
-          "term": "Artaxerxes and the satrapies",
-          "original": "Greek: Ἀρταξέρξης (Artaxerxes); Persian: Khshayarsha, ruling 127 provinces from India (Ἰνδική) to Ethiopia (Αἰθιοπία).",
-          "note": "The Greek Esther names Artaxerxes where the Hebrew names Ahasuerus; the LXX recasts the king under a more familiar Greek dynastic name."
+          "term": "Satrapy",
+          "original": "Greek: σατραπεία (satrapeia)",
+          "note": "From the Old Persian for protector of the realm. The empire was divided into large provinces, each under a satrap who collected tribute, kept troops, and answered directly to the king."
+        },
+        {
+          "term": "Talent",
+          "original": "Greek: τάλαντον (talanton) - Hebrew: כִּכָּר (kikkar)",
+          "note": "A unit of weight and money, not a skill or ability. One talent ran roughly 30 kilograms, about 66 pounds, of silver, so a cup valued at thirty thousand talents names an enormous sum."
+        },
+        {
+          "term": "Friends of the king",
+          "original": "Greek: οἱ φίλοι (hoi philoi)",
+          "note": "A formal rank at the Persian and later Greek courts, a standing body of official advisers. These were officeholders summoned to give rulings, not personal companions."
+        },
+        {
+          "term": "Purple",
+          "original": "Hebrew: אַרְגָּמָן (argaman) - Greek: πορφύρα (porphyra)",
+          "note": "A dye drawn drop by drop from murex sea snails. The cost of the process kept purple cloth restricted to royalty and the very wealthy, which is why it turns up in inventories of royal furnishings."
         }
       ],
-      "keyTakeaway": "Artaxerxes hosts a vast banquet displaying the wealth of his empire; on the seventh day he commands Queen Vashti to appear before his guests, and her refusal triggers the king's fury and a search for legal recourse."
+      "keyTakeaway": "Artaxerxes, ruler of 127 provinces from India to Ethiopia, displays his wealth for 180 days and then holds a six-day drinking party at Susa. On the seventh day he sends seven eunuchs to bring Queen Vashti before his guests; she refuses, he turns furious, and asks his lawmen for a ruling."
     },
     {
       "id": "esther_greek-4",
@@ -126,18 +176,35 @@
         "And the king loved Esther passionately, and she found favor beyond all the other virgins, and he put on her the queen’s diadem. (4:17)."
       ],
       "crossRefs": [
-        "Genesis 39:21: Joseph found favor in foreign service.",
-        "Daniel 1:9: God grants favor to his exiles before pagan officials.",
-        "1 Samuel 16:7: The Lord chooses according to the heart."
+        "Daniel 1:3-5: Youths of good appearance are selected for palace service and given a fixed training period.",
+        "Daniel 1:9: God grants his exile favor and compassion before the chief of the eunuchs.",
+        "Genesis 39:21: Joseph is given favor in the sight of the keeper who held him.",
+        "1 Samuel 9:1: Kish, a man of Benjamin, in the line through which Mordecai is traced.",
+        "Exodus 30:23: Liquid myrrh weighed out among the finest of spices."
       ],
       "translationNotes": [
         {
-          "term": "Foster daughter and queen",
-          "original": "Greek: θυγάτηρ θετή (thygatēr thetē, 'adopted daughter'); the Hebrew has בַּת־דֹּדוֹ (bat-dōdô, 'cousin').",
-          "note": "The LXX reads that Mordecai raised Esther 'as a wife for himself,' a unique Greek variant softened in many later traditions; the Hebrew simply says he raised her as his own daughter."
+          "term": "Harem",
+          "original": "Greek: γυναικών (gynaikon)",
+          "note": "The women's quarters of the palace, a separate guarded household run by eunuch officers. The second harem named here held the women who had already been presented to the king."
+        },
+        {
+          "term": "Adar",
+          "original": "Hebrew: אֲדָר (adar) - Greek: Αδαρ (Adar)",
+          "note": "The twelfth and last month of the Hebrew calendar, falling across February and March, immediately before the spring new year."
+        },
+        {
+          "term": "Oil of myrrh",
+          "original": "Hebrew: מֹר (mor) - Greek: σμύρνα (smyrna)",
+          "note": "Myrrh is the dried resin of a thorny shrub, imported from Arabia and East Africa. Steeped in oil it made a costly perfume; it was also an ingredient of anointing oil and was used in preparing the dead."
+        },
+        {
+          "term": "Diadem",
+          "original": "Greek: διάδημα (diadema)",
+          "note": "A band of cloth tied around the head. The Persian royal headpiece was a wrapped fillet rather than the rigid jeweled crown a modern reader pictures."
         }
       ],
-      "keyTakeaway": "After the king's officers gather beautiful young women from across the empire, Esther wins favor in the harem and is brought before Artaxerxes; he loves her above all the others and sets the queen's diadem on her head."
+      "keyTakeaway": "The king's officers gather young women across the empire into the harem at Susa. Mordecai's orphaned cousin Esther is placed under the eunuch Gai and hides her people at his order. After twelve months of ointments she goes in to Artaxerxes, who loves her above all and sets the diadem on her head."
     },
     {
       "id": "esther_greek-5",
@@ -161,18 +228,35 @@
         "Instructions were sent by couriers throughout all the empire of Artaxerxes to destroy the Jewish people in a single day of the twelfth month, which is Adar, and to plunder their goods. ——— (5:13)."
       ],
       "crossRefs": [
-        "Genesis 32:11: Jacob fears but prays for deliverance.",
-        "Nehemiah 2:1–5: Cupbearer’s fear before the king.",
-        "Proverbs 21:1: King’s heart in God’s hand."
+        "Proverbs 16:33: The lot is cast into the lap, but its every decision is from the Lord.",
+        "Genesis 41:42: Pharaoh takes the signet ring off his own hand and puts it on Joseph's.",
+        "Daniel 3:8-12: Officials accuse certain Jews before the king of ignoring his decree.",
+        "Ezra 4:12-16: A letter to a Persian king charging a people with disobedience to royal law.",
+        "Psalm 83:2-4: The enemies say, come, let us wipe them out as a nation."
       ],
       "translationNotes": [
         {
-          "term": "Golden scepter",
-          "original": "Hebrew: שַׁרְבִיט זָהָב (šarbîṭ zahāb), Greek: σκῆπτρον χρυσοῦν (skēptron chrysoûn), Aramaic: שרביטא דדהבא (šarbīṭā d’dahabā)",
-          "note": "Symbol of royal authority; Esther’s life depended on the king’s gesture of acceptance."
+          "term": "Pur, the lot",
+          "original": "Hebrew: פּוּר (pur), plural פּוּרִים (purim) - Greek: κλῆρος (kleros)",
+          "note": "A pur was a marked die or pebble cast to settle a question. The Hebrew text of Esther glosses pur with the ordinary Hebrew word for lot, and the festival of Purim takes its name from it."
+        },
+        {
+          "term": "Signet ring",
+          "original": "Hebrew: טַבַּעַת (tabbaat) - Greek: δακτύλιος (daktylios)",
+          "note": "A ring carved with the king's own device. Pressed into clay or wax it made a document legally the king's act, so handing the ring over transferred the power to issue orders in his name."
+        },
+        {
+          "term": "Obeisance",
+          "original": "Greek: προσκυνέω (proskyneo)",
+          "note": "The Persian court required a full prostration when greeting a superior. The Greek verb covers the whole range from a deep bow to lying face down on the ground."
+        },
+        {
+          "term": "Couriers",
+          "original": "Greek: βιβλιαφόροι (bibliaphoroi)",
+          "note": "Literally letter-bearers. The empire ran a relay post along its royal roads, with fresh riders and horses stationed at intervals, so a sealed order could cross the whole realm in days."
         }
       ],
-      "keyTakeaway": "Esther risks her life before the king, but God grants her favor as Haman’s plot continues."
+      "keyTakeaway": "Artaxerxes exalts Haman above his Friends and commands obeisance, but Mordecai, who has told the court he is a Jew, will not bow. Haman resolves to destroy every Jew in the realm and casts lots for the day; the king hands him the signet ring, and couriers carry the sealed decree to 127 provinces."
     },
     {
       "id": "esther_greek-6",
@@ -190,18 +274,34 @@
         "so that those who have long been hostile and remain so may in a single day go down in violence to Hades and leave our interests secure and untroubled hereafter.” (6:7)."
       ],
       "crossRefs": [
-        "Daniel 6:8: A Persian edict, once sealed, cannot be revoked.",
-        "Proverbs 26:24-26: Honeyed lips conceal a hateful heart.",
-        "Psalm 64:2-6: The plots of evildoers against the righteous."
+        "Daniel 6:8-9: A decree signed under the law of the Medes and Persians cannot afterward be altered.",
+        "Ezra 4:17-22: A Persian king writes back to his officials ordering a people's work stopped by force.",
+        "Exodus 1:15-22: A king issues a standing order to kill the children of a whole people.",
+        "Proverbs 26:24-26: An enemy disguises himself with his lips while holding deceit inside."
       ],
       "translationNotes": [
         {
-          "term": "Addition B: The edict of Artaxerxes",
-          "original": "Greek: ἀντίγραφον τῆς ἐπιστολῆς (antigraphon tēs epistolēs, 'copy of the letter'); LXX expansion not present in the Hebrew text.",
-          "note": "Addition B preserves what later tradition supplied as the actual text of Haman's decree, framed as royal propaganda; it dresses bloodthirsty intent in the language of imperial reasonableness."
+          "term": "Copy of the letter",
+          "original": "Greek: ἀντίγραφον τῆς ἐπιστολῆς (antigraphon tes epistoles)",
+          "note": "Antigraphon is the technical term for a certified transcript of an official document. Royal decrees went out as sealed originals with exact copies posted in public places for the population to read."
+        },
+        {
+          "term": "Master of the whole world",
+          "original": "Greek: κύριος τῆς οἰκουμένης (kyrios tes oikoumenes)",
+          "note": "Oikoumene means the inhabited world, in practice the lands a king ruled or knew of. The phrase is standard court titulature for a great king, not a geographic claim about the globe."
+        },
+        {
+          "term": "Our second father",
+          "original": "Greek: δεύτερος πατήρ (deuteros pater)",
+          "note": "A court honorific for the king's highest minister. It ranks an office, marking the man who stands next to the throne, and says nothing about family."
+        },
+        {
+          "term": "Hades",
+          "original": "Greek: ᾅδης (hades)",
+          "note": "The realm of the dead. Saying a people should go down to Hades in a single day is formal language for ordering their deaths, in the elevated style expected of a royal decree."
         }
       ],
-      "keyTakeaway": "Addition B records the supposed text of Haman's royal letter; Artaxerxes claims to act for the empire's peace while authorizing the slaughter of the Jewish people on a single day in Adar."
+      "keyTakeaway": "The royal letter is quoted in full. Artaxerxes tells the governors of his 127 provinces that he intends a peaceable empire, that Haman, second in honor, has named a scattered people whose laws oppose every nation, and orders them destroyed with their wives and children on the fourteenth of Adar."
     },
     {
       "id": "esther_greek-7",
@@ -222,18 +322,34 @@
         "So Haman was hung on the pole that had been prepared for Mordecai. With that the anger of the king abated. (7:10)."
       ],
       "crossRefs": [
-        "Psalm 7:15-16: The wicked falls into the pit he dug.",
-        "Proverbs 26:27: He who digs a pit will fall into it.",
-        "Esther 9:25: Haman's plot returns upon his own head."
+        "Mark 6:22-23: A king at a banquet swears to give whatever is asked, up to half his kingdom.",
+        "Psalm 7:15-16: He digs a pit and falls into the hole he has made.",
+        "Proverbs 26:27: Whoever digs a pit will fall into it, and a stone rolls back on the one who starts it.",
+        "Daniel 6:24: Those who accused Daniel are thrown into the den they intended for him."
       ],
       "translationNotes": [
         {
-          "term": "Impalement pole",
-          "original": "Greek: ξύλον (xylon, 'wood, pole'); Hebrew: עֵץ (ʿētz, 'tree, gallows').",
-          "note": "Persian execution used a tall wooden stake on which the condemned was impaled, not the later Roman gallows; the symbolic reversal places Haman on the very stake he prepared for Mordecai."
+          "term": "Half of my kingdom",
+          "original": "Greek: ἕως τοῦ ἡμίσους τῆς βασιλείας μου (heos tou hemisous tes basileias mou)",
+          "note": "A set court formula inviting a petition and signaling that it will be granted. No king was offering to partition his empire; the phrase announces extravagant favor."
+        },
+        {
+          "term": "Cubit",
+          "original": "Hebrew: אַמָּה (ammah) - Greek: πῆχυς (pechys)",
+          "note": "The length from elbow to fingertip, about 18 inches or 45 centimeters. A pole of fifty cubits stands roughly 75 feet, some 23 meters, tall enough to be seen across the city."
+        },
+        {
+          "term": "The couch",
+          "original": "Greek: κλίνη (kline)",
+          "note": "Guests at a royal banquet ate lying on couches, propped on one elbow. Haman throwing himself on Esther's couch to beg put him across the queen's body, which is why the king read it as an assault."
+        },
+        {
+          "term": "Pole",
+          "original": "Hebrew: עֵץ (ets) - Greek: ξύλον (xylon)",
+          "note": "The word means wood or timber of any shape. Persian execution set the condemned on a tall stake; older English versions render it gallows, which suggests a hanging rope the word does not require."
         }
       ],
-      "keyTakeaway": "At Esther's second banquet she exposes Haman as the enemy who has bought her people's destruction; the king, returning from the garden in fury, orders Haman hanged on the very pole he prepared for Mordecai."
+      "keyTakeaway": "On the second day of drinking the king offers Esther half his kingdom; she asks for her own life and her people's and names Haman as the enemy. The king storms out to the garden, returns to find Haman on her couch, and on the eunuch Bugathan's word has him hanged on the pole built for Mordecai."
     },
     {
       "id": "esther_greek-8",
@@ -260,18 +376,34 @@
         "So Mordecai went away and did what Esther had told him to do. (8:17)."
       ],
       "crossRefs": [
-        "Exodus 17:9–14: Israel defends against Amalek.",
-        "Isaiah 54:17: No weapon formed shall prosper.",
-        "Romans 8:31: If God is for us, who can be against us?"
+        "Genesis 37:34: Jacob tears his garments and puts sackcloth on his loins in mourning.",
+        "Jonah 3:5-8: A city proclaims a fast and puts on sackcloth, from the greatest of them to the least.",
+        "Joel 2:12-15: Return with fasting, weeping, and mourning; sanctify a fast and call a solemn assembly.",
+        "Nehemiah 2:1-5: A Jew serving in the Persian court gathers his courage to make a request of the king."
       ],
       "translationNotes": [
         {
-          "term": "Edict",
-          "original": "Hebrew: גְּזֵרָה (gəzērāh, 'decree'), Greek: διάταγμα (diátagma), Aramaic: גזרתא (gəzerātā)",
-          "note": "An official royal decree, written and sealed, considered irrevocable in Persian law."
+          "term": "Sackcloth and ashes",
+          "original": "Hebrew: שַׂק וָאֵפֶר (saq vaefer) - Greek: σάκκος καὶ σποδός (sakkos kai spodos)",
+          "note": "Coarse goat-hair cloth worn against the skin with ash poured over the head. It was a recognized public sign of grief or urgent petition, meant to be read at a glance by everyone in the street."
+        },
+        {
+          "term": "The king's gate",
+          "original": "Greek: ἡ πύλη τοῦ βασιλέως (he pyle tou basileos)",
+          "note": "The gatehouse of a Persian palace was its administrative entrance, where officials sat and business was transacted. Serving at the king's gate meant holding a post, and dress rules governed who could pass through."
+        },
+        {
+          "term": "The inner court",
+          "original": "Greek: ἡ αὐλὴ ἡ ἐσωτέρα (he aule he esotera)",
+          "note": "The guarded courtyard directly before the throne room. Persian protocol barred anyone from entering it without a summons, on pain of death, as a guard against assassination."
+        },
+        {
+          "term": "The golden sceptre",
+          "original": "Hebrew: שַׁרְבִיט הַזָּהָב (sharvit hazahav) - Greek: ἡ χρυσῆ ῥάβδος (he chryse rhabdos)",
+          "note": "The Greek word is rhabdos, a rod or staff: a long gilded shaft held by the enthroned king. Extending it toward a person granted the audience and cancelled the penalty for entering unsummoned."
         }
       ],
-      "keyTakeaway": "Mordecai’s counter-edict reverses Haman’s plot, bringing relief and honor to the Jews."
+      "keyTakeaway": "Mordecai puts on sackcloth and ashes and cries through Susa that an innocent nation is being destroyed, halting at the king's gate. He sends Esther the decree by his messenger, saying she may have been made queen for such a time as this. She calls a three-day fast and will go to the king uncalled."
     },
     {
       "id": "esther_greek-9",
@@ -300,18 +432,35 @@
         "And all Israel cried out with all their might, for their death was before their eyes. (9:18)."
       ],
       "crossRefs": [
-        "Daniel 9:3-19: Daniel's prayer of fasting and confession.",
-        "Exodus 32:11-13: Moses appeals to God's covenant with the patriarchs.",
-        "Psalm 79:9-10: Help us, O God of our salvation, for the glory of your name."
+        "Deuteronomy 9:26: Do not destroy your people, your inheritance, whom you redeemed and brought out of Egypt.",
+        "2 Chronicles 20:6: Power and might are in your hand, and none is able to withstand you.",
+        "Psalm 30:11-12: You have turned my mourning into dancing, that my soul may sing praise to you.",
+        "Exodus 32:11-13: Moses appeals to God's oath to Abraham, Isaac, and Israel to spare the people.",
+        "Daniel 9:3-19: Prayer made with fasting, sackcloth, and ashes on behalf of a whole people."
       ],
       "translationNotes": [
         {
-          "term": "Addition C: Prayer of Mordecai",
-          "original": "Greek: προσευχὴ Μαρδοχαίου (proseuchē Mardochaiou); an LXX expansion preserved only in the Greek tradition.",
-          "note": "Addition C inserts a theological prayer absent from the Hebrew Esther, giving Mordecai's refusal to bow to Haman a religious motive: he would not place human glory above God's."
+          "term": "Inheritance and portion",
+          "original": "Hebrew: נַחֲלָה (nachalah) and חֵלֶק (cheleq) - Greek: κληρονομία (kleronomia) and μερίς (meris)",
+          "note": "These are land words. A nachalah is the allotted share a family holds and passes down; a cheleq is a measured portion. Applied to a people they name them as an allotted possession, the way a tribe held its assigned territory."
+        },
+        {
+          "term": "Kiss the soles of his feet",
+          "original": "Greek: καταφιλῆσαι τὰ ἴχνη ποδῶν αὐτοῦ (kataphilesai ta ichne podon autou)",
+          "note": "Prostration before a Persian great man could extend to kissing the ground at his feet, or the feet themselves. Naming that act marks the furthest extreme of submission a person could offer."
+        },
+        {
+          "term": "Seed",
+          "original": "Hebrew: זֶרַע (zera) - Greek: σπέρμα (sperma)",
+          "note": "A collective noun in both languages. The seed of Abraham means his descendants taken as one body, not a single individual offspring."
+        },
+        {
+          "term": "Stretched out his hands",
+          "original": "Greek: ἐκτείνω τὰς χεῖρας (ekteino tas cheiras)",
+          "note": "The ordinary posture of prayer in that world was standing upright with the arms raised and the palms open toward heaven. Folded hands and a bowed head are a much later custom."
         }
       ],
-      "keyTakeaway": "While the Jews fast across the empire, Mordecai goes apart to pray, confessing that his refusal to bow to Haman was not pride but loyalty to God alone; he begs the Lord to spare his people for the sake of the covenant."
+      "keyTakeaway": "Jews across the empire fast in sackcloth and ashes. Mordecai sheds his royal garments, covers his head in ashes, and prays all night that he refused to bow to Haman not from pride but so as not to set human glory above God's; he begs God to spare his inheritance and turn their mourning to feasting."
     },
     {
       "id": "esther_greek-10",
@@ -341,18 +490,35 @@
         "O God, whose might is over all, hear the voice of the despairing, and save us from the hands of evildoers. And save me from my fear!” (10:19)."
       ],
       "crossRefs": [
-        "Daniel 1:8: Refusing to defile oneself with the king's food.",
-        "Psalm 22:11: There is none to help; God alone is hope.",
-        "Esther 4:16: If I perish, I perish."
+        "Daniel 1:8: Daniel resolves not to defile himself with the king's food and wine.",
+        "Exodus 4:12: I will be with your mouth and teach you what you are to speak.",
+        "Proverbs 21:1: The king's heart is a stream of water in the hand of the Lord; he turns it where he will.",
+        "Isaiah 64:6: All our righteous deeds are like a filthy cloth.",
+        "Psalm 22:11: Trouble is near and there is no one to help."
       ],
       "translationNotes": [
         {
-          "term": "Addition C: Prayer of Esther",
-          "original": "Greek: προσευχὴ Ἐσθήρ (proseuchē Esthēr); LXX expansion paired with the prayer of Mordecai.",
-          "note": "Esther's prayer protests her piety: she has not enjoyed the splendor of the Persian court, has not eaten at Haman's table, and has not drunk the wine of pagan libations; the Greek shapes her as a Daniel-figure inside the harem."
+          "term": "The lion",
+          "original": "Greek: λέων (leon)",
+          "note": "The lion here is the king himself. Persian royal art used the lion as an emblem of the throne, and Proverbs 19:12 likewise compares a king's wrath to the growling of a lion."
+        },
+        {
+          "term": "Wine of libations",
+          "original": "Greek: οἶνος σπονδῶν (oinos spondon)",
+          "note": "At Persian and Greek royal feasts a measure of wine was poured out to the gods before the drinking began, which made the whole serving part of that offering. Refusing the cup meant refusing a share in the rite."
+        },
+        {
+          "term": "Ashes and dung",
+          "original": "Greek: σποδὸς καὶ κοπρία (spodos kai kopria)",
+          "note": "Kopria is a dung heap or refuse pile. Covering the head with refuse rather than ash alone was the extreme form of the mourning rite; it is the same heap Job sits on in the Greek text of Job 2:8."
+        },
+        {
+          "term": "Filthy rag",
+          "original": "Greek: ῥάκος (rakos)",
+          "note": "A rakos is a torn scrap of cast-off cloth, the sort kept for wiping and then thrown out. Esther compares the queen's headpiece she wears in public to that."
         }
       ],
-      "keyTakeaway": "Esther strips off her royal garments, covers herself in ashes, and pours out her prayer to the God of Abraham; she confesses that the throne disgusts her, that she has refused Haman's table and the king's libations, and she begs God for courage before the lion."
+      "keyTakeaway": "Esther strips off her royal garments, covers her head with ashes, and prays to the God of Abraham. She confesses Israel's sin, says she abhors the diadem she must wear in public, has not eaten at Haman's table or drunk the king's libations, and begs God for eloquence and courage before the lion."
     }
   ]
 }

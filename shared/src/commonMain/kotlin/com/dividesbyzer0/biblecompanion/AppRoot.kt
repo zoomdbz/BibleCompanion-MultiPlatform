@@ -1890,7 +1890,11 @@ fun BookScreen(
       }
       else -> {
         val effLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+        // Only matters when a tap leaves the app for bible.com or BibleGateway,
+        // where the selected translation may not carry the deuterocanon. The
+        // internal reader serves the bundled text, so there is nothing to swap.
         val needsDcWarning = col == "deuterocanonical" &&
+                prefs.readerMode != "internal" &&
                 !Linker.hasApocryphaSupport(prefs.translation, effLang)
         val dcCandidates = remember(effLang) {
           Linker.apocryphaCandidates(effLang)

@@ -220,7 +220,9 @@ object Linker {
       if (isBibleComChapterLikelyAvailable(u)) return v to u
     }
     findWorkingDcVersionOnBibleGateway(lang, ref)?.let { (v, url) -> return v to url }
-    val v = "NRSVUE"
+    // Last resort. Stay in the reader's language; only fall back to English
+    // when that language has no deuterocanon-bearing edition mapped at all.
+    val v = pickApocryphaFallback(appLanguage)
     val url = buildBibleComUrl(ref, v) ?: buildBibleGatewayUrl(ref, v)
     return v to url
   }
