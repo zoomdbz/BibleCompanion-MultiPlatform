@@ -46,18 +46,34 @@
         "Denn die Leidenschaften der Appetite werden zurückgehalten, durch den maßvollen Geist im Zaum gehalten, und alle Triebe des Leibes werden durch die Vernunft gezügelt. (1:35)."
       ],
       "crossRefs": [
-        "Sprüche 16,32: Selbstbeherrschung ist besser als die Eroberung einer Stadt.",
-        "Daniel 1,8: Daniel weigert sich, sich durch Speise zu verunreinigen.",
-        "Römer 7,22–23: Gesetz Gottes gegen das Gesetz der Sünde."
+        "Sprüche 16:32: Den eigenen Geist zu beherrschen ist besser, als eine Stadt zu erobern.",
+        "Sprüche 9:10: Die Furcht des HERRN ist der Anfang der Weisheit.",
+        "Levitikus 11:1-8: Die Tiere, die Israel nicht essen darf.",
+        "Deuteronomium 6:6-7: Israel wird geboten, seinen Kindern das Gesetz mit Eifer einzuschärfen."
       ],
       "translationNotes": [
         {
+          "term": "Leidenschaften",
+          "original": "Greek: πάθη (pathe)",
+          "note": "Einzahl pathos. Nicht Leidenschaft im heutigen romantischen Sinn; das Wort meint alles, was auf einen Menschen einwirkt, und umfasst darum Begierde, Zorn, Furcht und Trauer gleichermaßen."
+        },
+        {
           "term": "Vernunft",
-          "original": "Hebrew: שֵׂכֶל (śēkhel), Greek: λογισμός (logismós), Aramaic: רעיונא (raʿyonāʾ)",
-          "note": "Hier als rationale Fähigkeit des Geistes verwendet; in 4 Makkabäer bezeichnet es die fromme Vernunft, die durch Gottes Gesetz geformt ist."
+          "original": "Greek: λογισμός (logismos)",
+          "note": "Wörtlich eine Rechnung oder Berechnung. Es benennt den Verstand, der eine Entscheidung tatsächlich abwägt, und keine abstrakte Fähigkeit; darum kann das Buch davon reden, dass die Vernunft herrscht oder unterliegt."
+        },
+        {
+          "term": "Philosophie",
+          "original": "Greek: φιλοσοφία (philosophia)",
+          "note": "In diesem Buch meint Philosophie eine ganze Lebensweise unter dem Gesetz und kein Schulstudium. Jüdische Schriftsteller jener Zeit nannten die Übung des Gesetzes regelmäßig ihre Philosophie."
+        },
+        {
+          "term": "Die vier Arten der Weisheit",
+          "original": "Greek: φρόνησις, δικαιοσύνη, ανδρεία, σωφροσύνη (phronesis, dikaiosyne, andreia, sophrosyne)",
+          "note": "Vernünftige Einsicht, Gerechtigkeit, Tapferkeit und Selbstbeherrschung waren die vier Grundtugenden der griechischen Ethik. Der Verfasser führt sie als die Teile der Weisheit auf, die das Gesetz lehrt."
         }
       ],
-      "keyTakeaway": "Die Einleitung stellt fest, dass die vom Gesetz geleitete Vernunft Macht über die Leidenschaften hat und die Treue zu Gott sichert."
+      "keyTakeaway": "Der Verfasser beginnt mit der Frage, ob die fromme Vernunft Herrscherin über die Leidenschaften ist, bestimmt Vernunft, Weisheit und die vier Arten der Tugend, ordnet alle Leidenschaften der Lust und dem Schmerz zu und nennt Eleazar, die sieben Brüder und ihre Mutter als seinen Beweis."
     },
     {
       "id": "4_maccabees-2",
@@ -92,18 +108,35 @@
         "Wie kommt es dann, könnte einer sagen, dass, wenn die Vernunft Herrin der Leidenschaften ist, sie das Vergessen und die Unwissenheit nicht beherrscht? (2:24)."
       ],
       "crossRefs": [
-        "Sprüche 16,32: Selbstbeherrschung ist besser als die Eroberung einer Stadt.",
-        "Daniel 1,8: Daniel weigert sich, sich durch Speise zu verunreinigen.",
-        "Römer 7,22–23: Gesetz Gottes gegen das Gesetz der Sünde."
+        "Genesis 39:7-12: Josef weist die Frau Potifars ab und flieht aus dem Haus.",
+        "Exodus 20:17: Das Gebot, die Frau und das Gut des Nächsten nicht zu begehren.",
+        "Levitikus 19:9-10: Nachlese und heruntergefallene Trauben bleiben den Armen und den Fremden.",
+        "Deuteronomium 20:19: Die Fruchtbäume eines Feindes dürfen bei einer Belagerung nicht gefällt werden.",
+        "Genesis 49:5-7: Jakob verflucht den Zorn Simeons und Levis."
       ],
       "translationNotes": [
         {
-          "term": "Vernunft",
-          "original": "Hebrew: שֵׂכֶל (śēkhel), Greek: λογισμός (logismós), Aramaic: רעיונא (raʿyonāʾ)",
-          "note": "Hier als rationale Fähigkeit des Geistes verwendet; in 4 Makkabäer bezeichnet es die fromme Vernunft, die durch Gottes Gesetz geformt ist."
+          "term": "Besonnen",
+          "original": "Greek: σώφρων (sophron)",
+          "note": "Das Eigenschaftswort hinter der Selbstbeherrschung. Das deutsche besonnen legt heute eine milde Wesensart nahe; das Griechische beschreibt einen Menschen, dessen Begierden unter Befehl stehen."
+        },
+        {
+          "term": "Du sollst nicht begehren",
+          "original": "Greek: ουκ επιθυμήσεις (ouk epithymeseis)",
+          "note": "Das Zeitwort epithymeo heißt, sein Herz auf etwas zu setzen. Sein Hauptwort epithymia ist dasselbe Wort, das dieses Buch mit Begierde wiedergibt und als Leidenschaft behandelt."
+        },
+        {
+          "term": "Die Schuld im siebten Jahr erlassen",
+          "original": "Greek: άφεσις (aphesis)",
+          "note": "Aphesis heißt Freilassung. In jedem siebten Jahr mussten Gläubiger erlassen, was man ihnen schuldete, und das griechische Alte Testament gebraucht dasselbe Wort für die Freilassung, die im Jubeljahr ausgerufen wird."
+        },
+        {
+          "term": "Verflucht sei ihr Zorn",
+          "original": "Greek: επικατάρατος ο θυμός αυτών (epikataratos ho thymos auton)",
+          "note": "Jakobs Worte auf dem Sterbebett in 1. Mose 49,7. Der Fluch trifft den Zorn und nicht die beiden Männer selbst, und das ist der Punkt, den der Verfasser daraus zieht."
         }
       ],
-      "keyTakeaway": "Die Einleitung stellt fest, dass die vom Gesetz geleitete Vernunft Macht über die Leidenschaften hat und die Treue zu Gott sichert."
+      "keyTakeaway": "Der Verfasser zeigt am Gesetz, dass die Vernunft Begierde und Zorn meistert, und führt Josefs Selbstbeherrschung an, die Gebote über Zinsen, Nachlese und die Fruchtbäume eines Feindes, Mose, der sich gegenüber Datan und Abiram beherrscht, und Jakob, der den Zorn Simeons und Levis verflucht."
     },
     {
       "id": "4_maccabees-3",
@@ -135,18 +168,34 @@
         "genau zu jener Zeit versuchten gewisse Personen, die öffentliche Eintracht zu erschüttern, und verursachten viele und verschiedenartige Unglücke. (3:21)."
       ],
       "crossRefs": [
-        "Sprüche 16,32: Selbstbeherrschung ist besser als die Eroberung einer Stadt.",
-        "Daniel 1,8: Daniel weigert sich, sich durch Speise zu verunreinigen.",
-        "Römer 7,22–23: Gesetz Gottes gegen das Gesetz der Sünde."
+        "2 Samuel 23:15-17: David gießt das Wasser aus, das drei Helden aus dem Brunnen von Betlehem geschöpft haben.",
+        "1 Chronik 11:17-19: Derselbe Bericht davon, dass David sich weigert, das Wasser zu trinken.",
+        "Levitikus 17:10-12: Israel ist verboten, Blut zu genießen, denn das Leben ist im Blut.",
+        "2 Samuel 5:22-25: David schlägt die Philister in der Ebene Refaïm."
       ],
       "translationNotes": [
         {
-          "term": "Vernunft",
-          "original": "Hebrew: שֵׂכֶל (śēkhel), Greek: λογισμός (logismós), Aramaic: רעיונא (raʿyonāʾ)",
-          "note": "Hier als rationale Fähigkeit des Geistes verwendet; in 4 Makkabäer bezeichnet es die fromme Vernunft, die durch Gottes Gesetz geformt ist."
+          "term": "Dem Blut gleich",
+          "original": "Greek: αἷμα (haima)",
+          "note": "Das Gesetz verbietet, Blut zu genießen, weil das Leben darin ist. David behandelt Wasser, das um den Einsatz zweier Menschenleben erkauft ist, als wäre es ihr Blut; es zu trinken wäre darum eine Übertretung."
+        },
+        {
+          "term": "Er goss den Trank als Opfer aus",
+          "original": "Greek: σπονδή (sponde)",
+          "note": "Ein Trankopfer: Wein oder Wasser, auf den Boden oder auf den Altar gegossen, statt getrunken zu werden. Es gehörte zu den regelmäßigen Opfern, und so macht die Gebärde aus einem zurückgewiesenen Trunk einen Akt der Anbetung."
+        },
+        {
+          "term": "König von Asien",
+          "original": "Greek: Ασία (Asia)",
+          "note": "Asien meint hier das Reich der Seleukiden, von Antiochia aus über Syrien und die Länder im Osten beherrscht, und nicht den heutigen Erdteil. Seine Könige bezahlten den Tempeldienst in Jerusalem bisweilen aus königlichen Mitteln."
+        },
+        {
+          "term": "Er versuchte einen Umsturz",
+          "original": "Greek: νεωτερίζω (neoterizo)",
+          "note": "Das Zeitwort heißt, etwas neu zu machen. In der griechischen politischen Sprache bedeutete es immer, die bestehende Ordnung umzustoßen, und so trug Neuerung den Sinn von Aufruhr."
         }
       ],
-      "keyTakeaway": "Die Einleitung stellt fest, dass die vom Gesetz geleitete Vernunft Macht über die Leidenschaften hat und die Treue zu Gott sichert."
+      "keyTakeaway": "Der Verfasser antwortet, die Vernunft reiße die Leidenschaften nicht aus, sondern trete ihnen entgegen, und erzählt, wie David, den nach Wasser aus dem Lager des Feindes verlangt, ausgießt, was zwei Krieger unter Lebensgefahr holen; dann wendet er sich dem Frieden unter Seleukus zu und dem Aufruhr, der ihn brach."
     },
     {
       "id": "4_maccabees-4",
@@ -183,18 +232,35 @@
         "als, sage ich, seine Dekrete vom Volk verachtet wurden, versuchte er selbst durch Folter, jeden in der Nation zu zwingen, das Judentum zu verleugnen, indem er verunreinigende Speisen ass. (4:26)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "2 Makkabäer 3:1-40: Simon zeigt die Tempelgelder an, und Heliodor wird in der Schatzkammer niedergestreckt.",
+        "2 Makkabäer 4:7-17: Jason erkauft das Hohepriestertum und baut ein Gymnasium in Jerusalem.",
+        "1 Makkabäer 1:41-50: Antiochus verordnet einen einzigen Brauch für sein Reich und verbietet das Gesetz.",
+        "1 Makkabäer 1:60-61: Frauen, die ihre Kinder beschneiden ließen, werden samt ihren Säuglingen getötet.",
+        "Genesis 17:9-14: Die Beschneidung als Zeichen des Bundes geboten."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Talent",
+          "original": "Greek: τάλαντον (talanton)",
+          "note": "Ein Maß für Gewicht und Geld von etwa 75 Pfund Silber, im Wert von rund 6.000 Drachmen oder vielen Jahren Arbeitslohn. Der heutige Sinn einer natürlichen Begabung kommt aus dem Gleichnis in Matthäus 25 und nicht aus dem Wort selbst."
+        },
+        {
+          "term": "Gymnasium",
+          "original": "Greek: γυμνάσιον (gymnasion)",
+          "note": "Von gymnos, nackt. Eine griechische Bürgerschule, in der Männer unbekleidet übten und wetteiferten. Eines an der Burg zu bauen brachte griechische Schulung, griechischen Wettkampf und griechische Staatsreligion nach Jerusalem."
+        },
+        {
+          "term": "Hohepriestertum",
+          "original": "Greek: αρχιερωσύνη (archierosyne)",
+          "note": "Das Amt wurde auf Lebenszeit und durch Abstammung innerhalb der Linie Aarons gehalten. Dem König jährlich eine Summe dafür zu zahlen machte aus einem ererbten Priestertum ein königliches Amt, das man kaufen konnte."
+        },
+        {
+          "term": "Statthalter",
+          "original": "Greek: στρατηγός (strategos)",
+          "note": "Der königliche Beamte, der über eine Provinz gesetzt war und neben der bürgerlichen Gewalt auch den militärischen Befehl innehatte. Das deutsche Statthalter verschweigt, dass er mit einem Heer anrückt."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Simon verrät die Tempelkasse an Apollonius, den Engel zu Pferd niederstrecken, bis Onias für ihn betet; dann folgt Antiochus Epiphanes dem Seleukus nach, verkauft das Priestertum an Jason, der ein Gymnasium baut, und verbietet das Gesetz der Väter bei Todesstrafe."
     },
     {
       "id": "4_maccabees-5",
@@ -243,18 +309,34 @@
         "Du magst über die Gottlosen tyrannisieren, aber du wirst meine Überlegungen um der Frömmigkeit willen weder durch Worte noch durch Taten beherrschen.\" (5:38)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "Levitikus 11:7-8: Das Schwein für unrein erklärt, sein Fleisch darf nicht gegessen werden.",
+        "Daniel 1:8-16: Daniel nimmt sich vor, sich nicht mit der Speise des Königs unrein zu machen.",
+        "Exodus 34:15: Israel wird gewarnt, nicht von dem zu essen, was anderen Göttern geopfert wurde.",
+        "2 Makkabäer 6:18-20: Eleazar, ein hochbetagter Schriftgelehrter, soll den Mund zum Schweinefleisch auftun."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Auf dem Rad gebrochen",
+          "original": "Greek: τροχός (trochos)",
+          "note": "Kein Wagenrad, sondern ein Foltergestell. Das Opfer wurde über ein Rad gebunden und gedreht, bis die Gelenke auseinandergezogen waren, und darunter konnte Feuer gelegt werden."
+        },
+        {
+          "term": "Götzenopferfleisch",
+          "original": "Greek: ειδωλόθυτον (eidolothyton)",
+          "note": "Fleisch von einem Tier, das in einem heidnischen Tempel geschlachtet und zum großen Teil auf dem öffentlichen Markt weiterverkauft wurde. Davon zu essen galt als Anteilnahme am Opfer selbst."
+        },
+        {
+          "term": "Frömmigkeit",
+          "original": "Greek: εὐσέβεια (eusebeia)",
+          "note": "Ehrfurcht vor Gott zusammen mit den Pflichten gegenüber Familie und Vaterland. Das deutsche Frömmigkeit legt heute ein privates Gefühl nahe; eusebeia meinte Treue, die man öffentlich übte."
+        },
+        {
+          "term": "Tapferkeit",
+          "original": "Greek: ανδρεία (andreia)",
+          "note": "Wörtlich Mannhaftigkeit, von aner, Mann. In der griechischen Ethik benannte es die Tugend, unter Gefahr auf dem Posten zu bleiben, und sie gehörte jedem, der sie hatte."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Antiochus befiehlt, jeden Hebräer zu zwingen, Schweinefleisch zu essen oder auf dem Rad gebrochen zu werden, und drängt den greisen Priester Eleazar, sich zu retten; Eleazar antwortet, das Gesetz lehre Selbstbeherrschung, Tapferkeit, Gerechtigkeit und Frömmigkeit, weigert sich und heißt den König seine Räder und sein Feuer bereitmachen."
     },
     {
       "id": "4_maccabees-6",
@@ -300,18 +382,34 @@
         "Ich habe nicht nur bewiesen, dass die Vernunft die Qualen gemeistert hat, sondern auch, dass sie die Lüste meistert und ihnen in keiner Hinsicht nachgibt. (6:35)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "2 Makkabäer 6:21-28: Eleazar weigert sich vorzutäuschen, er esse das erlaubte Fleisch, das ihm statt des Schweinefleischs angeboten wird.",
+        "Deuteronomium 25:2-3: Die Geißelung auf vierzig Schläge begrenzt, damit der Bestrafte nicht entehrt wird.",
+        "Exodus 32:30-32: Mose bittet, aus dem Buch Gottes getilgt zu werden anstelle des sündigen Volkes.",
+        "Levitikus 16:30: Der Versöhnungstag schafft dem Volk Reinigung."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Geißeln",
+          "original": "Greek: μάστιξ (mastix)",
+          "note": "Eine Peitsche aus Lederriemen, bisweilen mit Metall oder Knochen beschwert. Das israelitische Gesetz begrenzte die Züchtigung auf vierzig Schläge, aber die Folterknechte eines griechischen Königs band keine solche Grenze."
+        },
+        {
+          "term": "Herold",
+          "original": "Greek: κήρυξ (keryx)",
+          "note": "Ein Beamter, der die Befehle des Königs laut ausrief. Sein Rufen während der Geißelung machte aus den Schlägen eine öffentliche Forderung nach Gehorsam und keine private Strafe."
+        },
+        {
+          "term": "Mache mein Blut zu ihrer Reinigung",
+          "original": "Greek: καθάρσιον (katharsion)",
+          "note": "Das Wort benennt das Mittel, durch das ein Ritus reinigt. Eleazar bittet, sein eigener Tod möge die Reinigung leisten, die sein Volk braucht."
+        },
+        {
+          "term": "Nimm mein Leben im Austausch für ihres",
+          "original": "Greek: αντίψυχον (antipsychon)",
+          "note": "Eine seltene Zusammensetzung, die ein Leben meint, das anstelle eines Lebens gegeben wird. Sie steht in diesem Buch und bei einigen späteren griechischen Schriftstellern und benennt einen geraden Tausch."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Wachen entkleiden Eleazar, geißeln und brennen ihn, während ein Herold ihn zum Gehorsam ruft; er weigert sich, das Essen von Schweinefleisch auch nur vorzutäuschen, betet, sein Blut möge sein Volk reinigen und sein Leben im Austausch für ihres genommen werden, und stirbt; der Verfasser rechnet das als Beweis, dass die fromme Vernunft herrscht."
     },
     {
       "id": "4_maccabees-7",
@@ -345,18 +443,34 @@
         "Denn nur die Weisen und Mutigen sind Herren über ihre Leidenschaften. (7:23)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "Numeri 16:46-48: Aaron läuft mit dem Räuchergefäß und tritt zwischen die Toten und die Lebenden.",
+        "Numeri 20:25-28: Eleasar folgt Aaron nach und empfängt die priesterlichen Gewänder.",
+        "Genesis 22:9-12: Isaak auf dem Altar gebunden und im letzten Augenblick verschont.",
+        "Lukas 20:37-38: Gott ist der Gott Abrahams, Isaaks und Jakobs, denn ihm leben sie alle."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Steuermann",
+          "original": "Greek: κυβερνήτης (kybernetes)",
+          "note": "Der Mann am Ruder, der ein Schiff lenkt, und die Wurzel des Wortes Gouverneur. Antike Schriftsteller gebrauchten ihn als das übliche Bild für einen Verstand, der ein Leben lenkt."
+        },
+        {
+          "term": "Räuchergefäß",
+          "original": "Greek: πυρεῖον (pyreion)",
+          "note": "Eine Feuerpfanne aus Metall, um glühende Kohlen und Räucherwerk zu tragen. 4. Mose 16 berichtet, dass Aaron mit einer solchen mitten unter das Volk lief, um die Plage aufzuhalten."
+        },
+        {
+          "term": "Foltergestell",
+          "original": "Greek: ὄργανον (organon)",
+          "note": "Organon heißt jedes Werkzeug und jede Maschine. Auf die Folter angewandt umfasst es die eigens dafür gebauten Gestelle und Winden, und ein vielarmiges Gestell ist eines, an dem mehrere Arme zugleich arbeiten."
+        },
+        {
+          "term": "Sie leben für Gott",
+          "original": "Greek: ζῶσιν τῷ θεῷ (zosin to theo)",
+          "note": "Eine feste jüdische Redeweise dafür, dass die Väter vor Gott am Leben bleiben. Jesus schließt in Lukas 20,37-38 aus derselben Voraussetzung."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Der Verfasser preist Eleazar in den Bildern eines Steuermanns, einer belagerten Stadt und eines vorspringenden Felsens, vergleicht ihn mit Aaron, der mit dem Räuchergefäß gegen den feurigen Engel lief, und antwortet auf den Einwand, nicht alle beherrschten ihre Leidenschaften, allein die ganz Frommen täten es."
     },
     {
       "id": "4_maccabees-8",
@@ -396,18 +510,34 @@
         "sodass, sobald der Tyrann aufgehört hatte, sie zu beraten, verunreinigende Speisen zu essen, alle mit einer Stimme zusammen, wie aus einem Geist, sprachen: (8:29)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "2 Makkabäer 7:1-2: Sieben Brüder werden mit ihrer Mutter verhaftet und zum Essen von Schweinefleisch gedrängt.",
+        "1 Makkabäer 1:11-15: Israeliten nehmen griechische Sitten an und bauen ein Gymnasium in Jerusalem.",
+        "Daniel 3:13-15: Nebukadnezzar lässt drei junge Männer holen und droht ihnen mit dem Ofen.",
+        "Hebräer 11:35: Einige wurden gefoltert und nahmen die Freilassung nicht an."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Die griechische Lebensweise",
+          "original": "Greek: ελληνίζω (hellenizo)",
+          "note": "Wie ein Grieche zu leben: griechische Kleidung, Sprache, Schulung, Wettkampf und Staatsreligion zusammen. Das Angebot betrifft die ganze öffentliche Lebensweise und nicht bloß eine Meinung."
+        },
+        {
+          "term": "Katapult",
+          "original": "Greek: καταπέλτης (katapeltes)",
+          "note": "Eine Belagerungsmaschine, die mit verdrillten Seilen unter Spannung arbeitet. Dieselben Winden, die Geschosse schleuderten, konnten einen menschlichen Körper strecken und halten, und darum steht die Maschine hier unter den Folterwerkzeugen."
+        },
+        {
+          "term": "Eisenkrallen",
+          "original": "Greek: χεῖρες σιδηραῖ (cheires siderai)",
+          "note": "Wörtlich eiserne Hände: mit Haken versehene Metallgestelle, die über die Hände des Folterknechts geschnallt und zum Abreißen des Fleisches gebraucht wurden."
+        },
+        {
+          "term": "Führende Stellungen",
+          "original": "Greek: ηγεμονία (hegemonia)",
+          "note": "Hellenistische Könige verliehen Hofrang und Statthalterschaften als persönliche Gunst. Das Angebot ist ein besoldeter Platz in der königlichen Verwaltung."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Sieben Brüder und ihre betagte Mutter werden vor Antiochus geführt, der ihnen Rang und die griechische Lebensweise anbietet und dann Räder, Foltergestelle, Haken, Kessel und Eisenkrallen vorführen lässt; der Verfasser trägt die feige Rede vor, die sie hätten halten können, und sie weisen sie mit einer Stimme zurück."
     },
     {
       "id": "4_maccabees-9",
@@ -450,18 +580,34 @@
         "aber du erleidest Folter durch die Drohungen, die aus der Gottlosigkeit kommen. Du wirst nicht entkommen, du abscheulichster Tyrann, den Strafen des göttlichen Zornes.\" (9:32)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "2 Makkabäer 7:3-9: Die ersten beiden Brüder werden verstümmelt und getötet, weil sie dem König nicht gehorchen.",
+        "Daniel 3:16-18: Drei Männer sagen dem König, sie würden seinen Göttern nicht dienen, auch wenn sie nicht gerettet werden.",
+        "Deuteronomium 32:35: Die Rache gehört Gott, der zu seiner Zeit vergelten wird.",
+        "Deuteronomium 4:1-2: Mose trägt Israel auf, die Satzungen zu halten und nichts hinzuzufügen."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Die Gebote der Väter",
+          "original": "Greek: πάτριος νόμος (patrios nomos)",
+          "note": "Griechische Schriftsteller gebrauchten das Gesetz der Väter für die überkommene Verfassung und Religion eines Volkes zusammen. Könige bestätigten es gewöhnlich, darum nahm es einem Volk seinen Rechtsstand, wenn man es aufhob."
+        },
+        {
+          "term": "Göttliche Gerechtigkeit",
+          "original": "Greek: δίκη (dike)",
+          "note": "Dike meint sowohl den Rechtsstreit als auch die Strafe, die er zuspricht. Wenn die Brüder sagen, die Gerechtigkeit werde dem Tyrannen vergelten, trägt das Wort den Sinn eines Urteils, das vollstreckt wird."
+        },
+        {
+          "term": "Unsterblichkeit",
+          "original": "Greek: αθανασία (athanasia)",
+          "note": "Todlosigkeit. Das Buch gebraucht es für den bleibenden Zustand derer, die im Festhalten am Gesetz sterben und von denen es heißt, sie leben für Gott."
+        },
+        {
+          "term": "Mose, unser Ratgeber",
+          "original": "Greek: σύμβουλος (symboulos)",
+          "note": "Ein Ratgeber war ein Berater, auf den ein Herrscher hören musste. Mose ihren Ratgeber zu nennen stellt ihn den Ratgebern gegenüber, die früher im Buch bei Antiochus sitzen."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Die Brüder antworten, sie seien bereit zu sterben, und der Älteste wird gegeißelt, auf dem Rad gebrochen und verbrannt und ruft seinen Brüdern zu, es ihm gleichzutun, bevor er stirbt; der zweite wird mit eisernen Haken zerrissen und geschunden und sagt Antiochus, der Tyrann leide mehr als er."
     },
     {
       "id": "4_maccabees-10",
@@ -492,18 +638,34 @@
         "Gott wird dich bald heimsuchen, denn du schneidest eine Zunge heraus, die mit göttlichen Hymnen geklungen hat.\" (10:21)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "2 Makkabäer 7:10-12: Ein Bruder streckt Zunge und Hände heraus, und die Leute des Königs staunen über ihn.",
+        "Kolosser 3:11: Grieche und Jude, Barbar und Skythe zusammen genannt.",
+        "Exodus 4:11: Der HERR sagt, er mache den Stummen und den Tauben, den Sehenden und den Blinden.",
+        "1 Makkabäer 2:49-50: Ein sterbender Vater trägt seinen Söhnen auf, für das Gesetz zu eifern und ihr Leben für den Bund hinzugeben."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Auf skythische Weise skalpiert",
+          "original": "Greek: αποσκυθίζω (aposkythizo)",
+          "note": "Das Zeitwort heißt wörtlich skythisch handeln. Griechische Geschichtsschreiber berichteten, dass skythische Krieger ihren Feinden die Kopfhaut abzogen, und so kam das Wort dazu, geradezu skalpieren zu heißen."
+        },
+        {
+          "term": "Zunge",
+          "original": "Greek: γλῶσσα (glossa)",
+          "note": "Dasselbe Wort meint das Glied und eine Sprache. Die Zunge herauszuschneiden war eine anerkannte Strafe für trotzige Rede und zielte darauf, das Vergehen ebenso zum Schweigen zu bringen wie den Täter."
+        },
+        {
+          "term": "Beim seligen Tod meiner Brüder",
+          "original": "Greek: μά (ma)",
+          "note": "Griechische Eide wurden bei etwas Heiligem geschworen und mit der Partikel ma bezeichnet. Hier wird beim Tod seiner Brüder und beim ewigen Leben der Frommen geschworen."
+        },
+        {
+          "term": "Gott wird dich bald heimsuchen",
+          "original": "Greek: επισκέπτομαι (episkeptomai)",
+          "note": "Das Zeitwort heißt, zu kommen und eine Sache zu prüfen. Von Gott gesagt beschreibt es eine amtliche Nachschau, die mit Lohn oder Strafe endet, und keinen Besuch."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Der dritte Bruder weigert sich, die Verwandtschaft zu brechen, die er mit seinen Brüdern teilt, und wird zerstückelt, skalpiert und auf dem Rad gebrochen; der vierte sagt Antiochus, kein Feuer sei heiß genug, ihn feige zu machen, und als der König befiehlt, ihm die Zunge herauszuschneiden, streckt er sie selbst heraus."
     },
     {
       "id": "4_maccabees-11",
@@ -539,18 +701,34 @@
         "Denn nicht die Wächter des Tyrannen, sondern die des göttlichen Gesetzes sind über uns gesetzt; darum halten wir fest an der unbesiegbaren Vernunft.\" (11:27)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "2 Makkabäer 7:15-19: Der fünfte Bruder warnt den König, Gottes Macht über sein Haus sei noch nicht am Ende.",
+        "Nehemia 9:6: Der HERR allein hat Himmel und Erde gemacht und erhält sie alle.",
+        "Römer 12:19: Rächt euch nicht selbst; die Rache gehört Gott.",
+        "Psalmen 66:10-12: Gott prüft sein Volk und führt es durch Feuer und Wasser hinaus ins Weite."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Wie ein Skorpion zusammengekrümmt",
+          "original": "Greek: σκορπίος (skorpios)",
+          "note": "Das Wort benennt das Tier, dessen Schwanz sich über den Körper zurückbiegt. Griechische und römische Heere gaben denselben Namen Skorpion auch einem kleinen Torsionskatapult von der hier beschriebenen Art."
+        },
+        {
+          "term": "Im Feuer erhitzte Spieße",
+          "original": "Greek: οβελίσκος (obeliskos)",
+          "note": "Eiserne Stäbe, mit denen Fleisch über dem Feuer gebraten wurde. Hier wird das Hausgerät erhitzt und in den Leib getrieben."
+        },
+        {
+          "term": "Wettkampf und Arena",
+          "original": "Greek: αγών (agon)",
+          "note": "Ein agon war ein öffentlicher Wettstreit, sportlich oder dramatisch, vor Zuschauern ausgetragen und um einen Preis entschieden. Aus dem Wort kommt die Agonie, über die Anstrengung des Wettkampfs."
+        },
+        {
+          "term": "Tyrann",
+          "original": "Greek: τύραννος (tyrannos)",
+          "note": "Im griechischen Sprachgebrauch ist ein Tyrann ein Herrscher, der die Macht ohne rechtmäßigen Titel hält, ob er grausam ist oder nicht. Das Buch nennt Antiochus durchweg tyrannos und kennzeichnet damit die Herrschaft selbst als unrechtmäßig."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Der fünfte Bruder tritt von sich aus vor und wird auf dem Katapult verdreht, bis seine Glieder ausgerenkt sind, und nennt die Folter eine Gunst; der sechste, noch ein Knabe, wird auf dem Rad gestreckt, geröstet und mit glühenden Spießen durchbohrt und sagt Antiochus, sechs Knaben hätten seine Tyrannei gestürzt."
     },
     {
       "id": "4_maccabees-12",
@@ -580,18 +758,34 @@
         "Nachdem er diese Verwünschungen ausgesprochen hatte, stürzte er sich in die Feuerroste und beendete so sein Leben. (12:19)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "2 Makkabäer 7:24-26: Der König drängt den Jüngsten mit Eiden und bittet die Mutter, ihn zu überreden.",
+        "Daniel 1:3-5: Junge Männer aus königlichem Geschlecht werden für den Dienst im Palast des Königs ausgebildet.",
+        "Sprüche 1:10: Mein Sohn, wenn Sünder dich locken, so folge ihnen nicht.",
+        "Apostelgeschichte 21:40: Paulus redet zu der Menge in hebräischer Sprache."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Freunde",
+          "original": "Greek: φίλοι (philoi)",
+          "note": "Freunde des Königs war an den hellenistischen Höfen ein förmlicher Rang, eine Körperschaft von Beratern und Beamten mit Titeln und Vorrechten. Das Wort benennt hier ein Amt und keine Zuneigung."
+        },
+        {
+          "term": "Die hebräische Sprache",
+          "original": "Greek: Εβραΐς (Hebrais)",
+          "note": "Die Wendung benennt die Sprache der Juden, was in dieser Zeit Hebräisch oder das damals in Judäa gesprochene Aramäisch meinen konnte. So oder so blieb der Wortwechsel dem griechisch sprechenden Hof verborgen."
+        },
+        {
+          "term": "Glutpfannen",
+          "original": "Greek: τήγανον (teganon)",
+          "note": "Eine offene Metallpfanne, über glühende Kohlen gesetzt oder mit ihnen gefüllt, zum Kochen und zum Heizen eines Raumes gebraucht. Hier wird dasselbe Gerät zur Hinrichtung verwendet; diese Übersetzung sagt dafür Feuerroste."
+        },
+        {
+          "term": "Verwünschungen",
+          "original": "Greek: αρά (ara)",
+          "note": "Ein förmlicher Fluch, der Gott anruft, eine Strafe zu vollstrecken, und der von Beschimpfung zu unterscheiden ist. Verträge und Eide jener Zeit schlossen mit solchen Flüchen als bindenden Klauseln."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Antiochus versucht, den siebten und jüngsten Bruder mit Freundschaft und einem Platz in seiner Regierung zu gewinnen, und lässt seine Mutter holen; nachdem sie aber auf Hebräisch zu ihm gesprochen hat, klagt der Knabe den König an, ruft Gott an, das Volk zu rächen, und stürzt sich in die Feuerroste."
     },
     {
       "id": "4_maccabees-13",
@@ -629,18 +823,34 @@
         "Aber obwohl Natur und Gesellschaft und tugendhafte Gewohnheiten die Zuneigung der Familienbande vermehrt hatten, hielten die Zurückgebliebenen um der Frömmigkeit willen aus, indem sie zusahen, wie ihre Brüder misshandelt und zu Tode gefoltert wurden. (13:27)."
       ],
       "crossRefs": [
-        "2. Makkabäer 6,18–31: Das Martyrium Eleasars.",
-        "2. Makkabäer 7,1–42: Die sieben Brüder und ihre Mutter.",
-        "Hebräer 11,35: Märtyrer hoffen auf die Auferstehung."
+        "Daniel 3:19-27: Drei junge Männer in den Ofen geworfen und vom Feuer unversehrt gelassen.",
+        "Hebräer 11:17-19: Abraham bringt Isaak dar und rechnet damit, dass Gott Tote auferwecken kann.",
+        "Epheser 6:11-13: Legt die volle Rüstung Gottes an, um den Mächten standzuhalten.",
+        "Psalmen 133:1: Wie gut ist es, wenn Brüder einträchtig beieinander wohnen."
       ],
       "translationNotes": [
         {
-          "term": "Märtyrer",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Ursprünglich „Zeuge“; in der jüdischen und christlichen Tradition jemand, der durch treues Erdulden des Todes für Gott Zeugnis ablegt."
+          "term": "Die drei jungen Männer in Assyrien",
+          "original": "Greek: Ασσυρία (Assyria)",
+          "note": "Daniel 3 setzt den Ofen in Babylon unter Nebukadnezzar an. Griechische Schriftsteller dieser Zeit gebrauchten Assyrien oft als weiten Namen für ganz Mesopotamien und seine Reiche."
+        },
+        {
+          "term": "Volle Rüstung",
+          "original": "Greek: πανοπλία (panoplia)",
+          "note": "Die vollständige Ausrüstung eines schweren Fußsoldaten: Helm, Panzer, Beinschienen, Schild, Speer und Schwert. Das Wort meint das ganze Gerät, und Epheser 6,11 gebraucht es ebenso."
+        },
+        {
+          "term": "Siebentürmig",
+          "original": "Greek: επτάπυργος (heptapyrgos)",
+          "note": "Antike Häfen wurden durch Wellenbrecher geschützt, auf denen Türme standen. Ihre Vernunft siebentürmig zu nennen zählt einen Turm für jeden Bruder."
+        },
+        {
+          "term": "Zuneigung der Geschwister",
+          "original": "Greek: φιλαδελφία (philadelphia)",
+          "note": "Wörtlich Bruderliebe. Im Griechischen meinte es die Bindung zwischen wirklichen Geschwistern und nicht allgemeines Wohlwollen, und darum behandelt der Verfasser sie als eine eigene Leidenschaft."
         }
       ],
-      "keyTakeaway": "Eleasar, die sieben Brüder und ihre Mutter werden zu Vorbildern des Triumphes der Vernunft über Furcht und Schmerz durch den Glauben an Gott."
+      "keyTakeaway": "Der Verfasser zeigt an den sieben Brüdern, dass die rechte Vernunft herrscht, vergleicht sie mit Türmen, die einen Hafen schützen, erzählt, wie sie einander mit den drei jungen Männern im Ofen und mit Isaak zusprachen, und führt ihre brüderliche Liebe auf denselben Mutterleib, dieselbe Nahrung und dieselbe Erziehung im Gesetz zurück."
     },
     {
       "id": "4_maccabees-14",
@@ -671,18 +881,34 @@
         "Aber das Mitleid mit ihren Kindern schwankte die Mutter der jungen Männer nicht; sie hatte denselben Sinn wie Abraham. (14:20)."
       ],
       "crossRefs": [
-        "Weisheit 3,1–9: Die Seelen der Gerechten sind in Gottes Hand.",
-        "Offenbarung 12,11: Sie haben überwunden durch das Wort ihres Zeugnisses.",
-        "Johannes 16,33: Seid getrost, denn Christus hat die Welt überwunden."
+        "Genesis 2:1-3: Die sieben Tage der Schöpfung vollendet und der siebte geheiligt.",
+        "Deuteronomium 32:11: Ein Adler stört sein Nest auf und schwebt über seinen Jungen.",
+        "Matthäus 23:37: Eine Henne, die ihre Küken unter ihre Flügel sammelt.",
+        "Genesis 22:1-3: Abraham steht früh auf und bricht auf, um Isaak auf Gottes Wort hin darzubringen."
       ],
       "translationNotes": [
         {
-          "term": "Fromme Vernunft",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Ausdruck für den frommen Gebrauch des vernünftigen Denkens unter dem Gesetz Gottes; das zentrale Konzept des Buches."
+          "term": "Chor",
+          "original": "Greek: χορός (choros)",
+          "note": "Im griechischen Drama sang und bewegte sich der Chor als ein eingeübter Leib. Das Bild sagt, dass die sieben mit einer einzigen eingeübten Stimme handelten und nicht bloß einer Meinung waren."
+        },
+        {
+          "term": "Vernunftlose Tiere",
+          "original": "Greek: άλογος (alogos)",
+          "note": "Ein einziges griechisches Wort, die Verneinung von logos. Es heißt ohne Vernunft oder ohne Sprache und ist der übliche Ausdruck für die Tiere im Gegensatz zum Menschen."
+        },
+        {
+          "term": "Bienen, die den Stock verteidigen",
+          "original": "Greek: μέλισσα (melissa)",
+          "note": "Griechische Schriftsteller behandelten die Bienen als das übliche Beispiel einer geordneten Gemeinschaft, die sich bis zum Tod verteidigt. Der eiserne Stachel ist ihr Stich."
+        },
+        {
+          "term": "Mitgefühl",
+          "original": "Greek: συμπάθεια (sympatheia)",
+          "note": "Wörtlich Mitfühlen. Das griechische Denken gebrauchte es für die natürliche Bindung, durch die die Teile eines Leibes einander beeinflussen, und so erklärt der Verfasser den Zug eines Elternteils zum Kind."
         }
       ],
-      "keyTakeaway": "Die abschließenden Betrachtungen erheben die Märtyrer zu ewigen Vorbildern des Sieges der Vernunft und der Rechtfertigung der Gläubigen durch Gott."
+      "keyTakeaway": "Der Verfasser preist die sieben Brüder als einen Chor im Einklang, von denen keiner vor dem Tod zurückweicht, wendet sich dann ihrer Mutter zu, zeigt die Elternliebe an Vögeln, die ihre Nester hüten, und an Bienen, die ihren Stock verteidigen, und sagt, sie habe denselben Sinn wie Abraham."
     },
     {
       "id": "4_maccabees-15",
@@ -725,18 +951,34 @@
         "so hast auch du, o Hüterin des Gesetzes, von allen Seiten überwältigt von der Flut deiner Leidenschaften und den heftigen Stürmen – der Folterung deiner Söhne – standhaft ausgehalten und den tobenden Wintersturm um der Frömmigkeit willen überstanden. (15:32)."
       ],
       "crossRefs": [
-        "Weisheit 3,1–9: Die Seelen der Gerechten sind in Gottes Hand.",
-        "Offenbarung 12,11: Sie haben überwunden durch das Wort ihres Zeugnisses.",
-        "Johannes 16,33: Seid getrost, denn Christus hat die Welt überwunden."
+        "Genesis 7:17-18: Die Arche wird emporgehoben und auf den Wassern der Flut getragen.",
+        "Genesis 22:15-18: Weil Abraham seinen Sohn nicht vorenthalten hat, schwört Gott, ihn zu segnen.",
+        "Jesaja 49:15: Eine Mutter wird gefragt, ob sie ihren Säugling vergessen kann.",
+        "1 Samuel 1:27-28: Hanna gibt dem HERRN den Sohn zurück, um den sie gebeten hat."
       ],
       "translationNotes": [
         {
-          "term": "Fromme Vernunft",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Ausdruck für den frommen Gebrauch des vernünftigen Denkens unter dem Gesetz Gottes; das zentrale Konzept des Buches."
+          "term": "Zwei Stimmsteine",
+          "original": "Greek: ψῆφος (psephos)",
+          "note": "Ein psephos war der Kiesel oder das Zeichen, das ein griechischer Richter in die Urne warf, um abzustimmen. Zwei Stimmsteine zu halten zeichnet die Mutter als Richterin, die zwischen zwei Urteilen über ihre Söhne wählt; diese Übersetzung nennt sie Lose."
+        },
+        {
+          "term": "Ratsversammlung",
+          "original": "Greek: βουλευτήριον (bouleuterion)",
+          "note": "Das Gebäude, in dem der Rat einer griechischen Stadt zusammentrat, um Reden zu hören und zu entscheiden. Ihre Seele wird als ein solcher Saal gezeichnet, in dem Natur und Familie als Fürsprecher vor ihr auftreten."
+        },
+        {
+          "term": "Sirenen und Schwäne",
+          "original": "Greek: Σειρῆνες (Seirenes), κύκνος (kyknos)",
+          "note": "In den griechischen Erzählungen zog der Gesang der Sirenen die Seeleute in den Tod, und von den Schwänen hieß es, sie sängen im Sterben. Beide standen sprichwörtlich für einen Klang, dem kein Hörer sich verschließen konnte."
+        },
+        {
+          "term": "Arche",
+          "original": "Greek: κιβωτός (kibotos)",
+          "note": "Das griechische Wort meint eine Truhe oder einen Kasten, und das griechische Alte Testament gebraucht es für das Fahrzeug Noahs ebenso wie für die Bundeslade. Das Bild ist ein Behälter, der seine Ladung unversehrt durch eine Flut trägt."
         }
       ],
-      "keyTakeaway": "Die abschließenden Betrachtungen erheben die Märtyrer zu ewigen Vorbildern des Sieges der Vernunft und der Rechtfertigung der Gläubigen durch Gott."
+      "keyTakeaway": "Vor die Wahl gestellt zwischen der Frömmigkeit und dem Wunsch, ihre Söhne noch eine Weile am Leben zu halten, wählt die Mutter die Frömmigkeit, treibt jeden Sohn zum Tod und sieht ihr Fleisch brennen, ohne zu weinen; der Verfasser zeichnet sie, wie sie zwei Lose in den Händen hält und wie die Arche Noahs gegen die Flut steht."
     },
     {
       "id": "4_maccabees-16",
@@ -772,18 +1014,35 @@
         "Sie wussten auch, dass die, welche um Gottes willen sterben, für Gott leben, wie Abraham und Isaak und Jakob und alle Patriarchen. (16:25)."
       ],
       "crossRefs": [
-        "Weisheit 3,1–9: Die Seelen der Gerechten sind in Gottes Hand.",
-        "Offenbarung 12,11: Sie haben überwunden durch das Wort ihres Zeugnisses.",
-        "Johannes 16,33: Seid getrost, denn Christus hat die Welt überwunden."
+        "Daniel 6:16-23: Daniel in die Löwengrube geworfen und unversehrt herausgeholt.",
+        "Daniel 1:6-7: Hananja, Misael und Asarja erhalten die babylonischen Namen, unter denen deutsche Leser sie kennen.",
+        "Genesis 22:6-8: Abraham trägt das Feuer und das Messer, während Isaak neben ihm geht.",
+        "Rut 1:20-21: Noomi bittet, man solle sie Mara nennen; sie sei voll ausgezogen und leer zurückgekommen.",
+        "Matthäus 22:31-32: Gott ist der Gott Abrahams, Isaaks und Jakobs und nicht der Gott der Toten."
       ],
       "translationNotes": [
         {
-          "term": "Fromme Vernunft",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Ausdruck für den frommen Gebrauch des vernünftigen Denkens unter dem Gesetz Gottes; das zentrale Konzept des Buches."
+          "term": "Hananja, Asarja und Misael",
+          "original": "Hebrew: חֲנַנְיָה, עֲזַרְיָה, מִישָׁאֵל (Hananyah, Azaryah, Mishael) - Greek: Ανανίας, Αζαρίας, Μισαήλ (Ananias, Azarias, Misael)",
+          "note": "Das sind die hebräischen Namen der drei Männer. Daniel 1,7 hält die babylonischen Namen fest, die man ihnen am Hof gab, Schadrach, Meschach und Abed-Nego, und unter diesen begegnen sie den meisten deutschen Lesern."
+        },
+        {
+          "term": "Ein Sinn wie Diamant",
+          "original": "Greek: αδάμας (adamas)",
+          "note": "Wörtlich unbezwingbar. Griechische Schriftsteller gebrauchten es für den härtesten Stoff, den sie kannten, und das Wort ging als Diamant ins Deutsche über."
+        },
+        {
+          "term": "Zeugnis ablegen",
+          "original": "Greek: μάρτυς (martys)",
+          "note": "Das Wort stammt aus dem Gerichtswesen und meint einen Zeugen, der aussagt. Aus ihm kommt das Wort Märtyrer, weil man die, die unter Bedrohung aussagten, für ihre Aussage tötete."
+        },
+        {
+          "term": "Feuerofen",
+          "original": "Greek: κάμινος (kaminos)",
+          "note": "Ein Brennofen oder Schmelzofen für Töpferware, Kalk oder Metall und kein Backofen im Haus. Solche Öfen waren groß genug gebaut, dass man einen Menschen hineinwerfen konnte."
         }
       ],
-      "keyTakeaway": "Die abschließenden Betrachtungen erheben die Märtyrer zu ewigen Vorbildern des Sieges der Vernunft und der Rechtfertigung der Gläubigen durch Gott."
+      "keyTakeaway": "Der Verfasser stellt die Löwen Daniels und den Ofen Misaels der Elternliebe der Mutter gegenüber, dichtet die Klage, die sie nie gesprochen hat, und berichtet ihren Auftrag an die Söhne auf Hebräisch, für das Gesetz der Väter zu kämpfen wie Abraham, Daniel und die drei Männer im Feuer."
     },
     {
       "id": "4_maccabees-17",
@@ -818,18 +1077,34 @@
         "und dies machte sie hochgesinnt und mutig für den Infanteriekampf und die Belagerung, und er verwüstete und besiegte alle seine Feinde. (17:24)."
       ],
       "crossRefs": [
-        "Weisheit 3,1–9: Die Seelen der Gerechten sind in Gottes Hand.",
-        "Offenbarung 12,11: Sie haben überwunden durch das Wort ihres Zeugnisses.",
-        "Johannes 16,33: Seid getrost, denn Christus hat die Welt überwunden."
+        "Deuteronomium 33:3: Alle seine Heiligen sind in deiner Hand.",
+        "Genesis 15:5: Abraham soll die Sterne zählen, denn so zahlreich sollen seine Nachkommen sein.",
+        "1 Korinther 9:24-25: Läufer im Stadion kämpfen, und jeder Wettkämpfer übt Selbstbeherrschung um eines vergänglichen Kranzes willen.",
+        "Jesaja 53:10-12: Das Leben des Knechtes zum Schuldopfer gemacht, der die Sünde vieler trägt."
       ],
       "translationNotes": [
         {
-          "term": "Fromme Vernunft",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Ausdruck für den frommen Gebrauch des vernünftigen Denkens unter dem Gesetz Gottes; das zentrale Konzept des Buches."
+          "term": "Athleten und der Kranz",
+          "original": "Greek: αθλητής (athletes), στέφανος (stephanos)",
+          "note": "Ein Athlet ist einer, der um einen Preis kämpft, von athlon, Preis. Der stephanos war ein geflochtener Kranz und keine Krone aus Metall, dem Sieger vom Kampfrichter aufgesetzt."
+        },
+        {
+          "term": "Ein Sühnopfer",
+          "original": "Greek: ιλαστήριον (hilasterion)",
+          "note": "Das Wort benennt den Ort oder das Mittel der Sühne. Das griechische Alte Testament gebraucht es für die Deckplatte der Bundeslade, auf die am Versöhnungstag das Blut gesprengt wurde."
+        },
+        {
+          "term": "Auf ihr Grab schreiben",
+          "original": "Greek: επίγραμμα (epigramma)",
+          "note": "Griechische und jüdische Gräber trugen kurze öffentliche Inschriften, die die Toten nannten und den Grund ihrer Ehrung. Eine Grabinschrift war die Art, wie eine Stadt ein Andenken festhielt."
+        },
+        {
+          "term": "Alle, die geheiligt sind",
+          "original": "Greek: ηγιασμένοι (hegiasmenoi)",
+          "note": "Das Zitat folgt der griechischen Fassung von 5. Mose 33,3. Geheiligt gibt ein Mittelwort wieder, das die meint, die heilig gemacht, also für Gott ausgesondert worden sind."
         }
       ],
-      "keyTakeaway": "Die abschließenden Betrachtungen erheben die Märtyrer zu ewigen Vorbildern des Sieges der Vernunft und der Rechtfertigung der Gläubigen durch Gott."
+      "keyTakeaway": "Wachen berichten, die Mutter habe sich in die Flammen gestürzt, statt sich anrühren zu lassen; der Verfasser schlägt eine Grabinschrift für den Priester, die Frau und die sieben Kinder vor, stellt ihre Prüfung als einen Wettkampf dar, in dem Gott der Sieger ist, und sagt, ihr Tod habe das Volk losgekauft und gereinigt."
     },
     {
       "id": "4_maccabees-18",
@@ -864,18 +1139,35 @@
         "dem sei Ehre von Ewigkeit zu Ewigkeit. Amen. (18:24)."
       ],
       "crossRefs": [
-        "Weisheit 3,1–9: Die Seelen der Gerechten sind in Gottes Hand.",
-        "Offenbarung 12,11: Sie haben überwunden durch das Wort ihres Zeugnisses.",
-        "Johannes 16,33: Seid getrost, denn Christus hat die Welt überwunden."
+        "Jesaja 43:2: Wenn du durch Feuer gehst, wirst du nicht verbrennen.",
+        "Psalmen 34:19: Viele Leiden treffen den Gerechten, aber der HERR reißt ihn aus ihnen allen heraus.",
+        "Hesekiel 37:3: Der HERR fragt, ob diese verdorrten Gebeine leben können.",
+        "Deuteronomium 32:39: Ich töte und mache lebendig; ich verwunde und heile.",
+        "1 Makkabäer 6:1-4: Antiochus zieht nach Persien und wird vom Tempel in Elymaïs zurückgeschlagen."
       ],
       "translationNotes": [
         {
-          "term": "Fromme Vernunft",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Ausdruck für den frommen Gebrauch des vernünftigen Denkens unter dem Gesetz Gottes; das zentrale Konzept des Buches."
+          "term": "Die Rippe, aus der die Frau gemacht wurde",
+          "original": "Greek: πλευρά (pleura)",
+          "note": "Die Wendung blickt auf 1. Mose 2,21-22 zurück. Das griechische Wort meint sowohl Rippe als auch Seite, und so deckt derselbe Ausdruck den Knochen und die Flanke, aus der er stammt."
+        },
+        {
+          "term": "Er zog gegen die Perser",
+          "original": "Greek: Πέρσαι (Persai)",
+          "note": "Perser benennt die Völker der östlichen Satrapien des Seleukidenreiches. Antiochus zog dorthin zu Felde, um aus den Tempelschätzen der Provinzen Geld einzutreiben."
+        },
+        {
+          "term": "Das Gesetz und die Propheten",
+          "original": "Greek: ο νόμος και οι προφῆται (ho nomos kai hoi prophetai)",
+          "note": "Der übliche jüdische Name für die Schriften in zwei Teilen: die fünf Bücher des Mose und die prophetischen Bücher. Die Aufzählung des Vaters schöpft aus beiden, dazu aus den Psalmen und den Sprüchen."
+        },
+        {
+          "term": "Eifer",
+          "original": "Greek: ζῆλος (zelos)",
+          "note": "Brennende Hingabe an eine Sache. 4. Mose 25,7-13 berichtet die Tat des Pinhas, auf die das Wort hier zielt, und dasselbe griechische Wort deckt sowohl Eifer als auch Eifersucht."
         }
       ],
-      "keyTakeaway": "Die abschließenden Betrachtungen erheben die Märtyrer zu ewigen Vorbildern des Sieges der Vernunft und der Rechtfertigung der Gläubigen durch Gott."
+      "keyTakeaway": "Der Verfasser schließt, indem er die Kinder Israels auffordert, das Gesetz zu halten, und berichtet, dass Antiochus, der sie nicht zwingen konnte, Jerusalem verlässt und gegen die Perser zieht; die Mutter erinnert an ihre eigene Reinheit und an den Mann, der ihre Söhne von Abel, Isaak, Josef, Pinhas und Daniel lehrte."
     }
   ]
 }

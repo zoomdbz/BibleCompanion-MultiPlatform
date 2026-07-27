@@ -66,18 +66,35 @@
         "diciendo: «Hasta que la tierra haya disfrutado de sus sábados, guardará sábado todo el tiempo de su desolación, hasta el cumplimiento de setenta años». (1:55)."
       ],
       "crossRefs": [
-        "2 Reyes 23:21–25: La Pascua de Josías.",
-        "2 Crónicas 35:1–19: La Pascua y la muerte de Josías.",
-        "Jeremías 22:10–12: Lamento por Josías."
+        "2 Crónicas 35:1-19: La Pascua de Josías celebrada con los sacerdotes en sus turnos.",
+        "2 Crónicas 35:20-25: Josías herido en Meguido, llevado de regreso a Jerusalén y llorado por Jeremías.",
+        "2 Reyes 24:8-17: Joaquín reina tres meses y es llevado a Babilonia con los tesoros del templo.",
+        "2 Reyes 25:8-10: La casa del SEÑOR quemada y los muros de Jerusalén derribados.",
+        "2 Crónicas 36:21: La tierra disfruta de sus sábados hasta que se cumplen setenta años."
       ],
       "translationNotes": [
         {
           "term": "Pascua",
-          "original": "Hebrew: פֶּסַח (pesach), Greek: πάσχα (páscha), Aramaic: פסחא (paskhā)",
-          "note": "Fiesta anual que conmemora la liberación de Israel de Egipto, celebrada con sacrificio de cordero y pan sin levadura."
+          "original": "Greek: πάσχα (pascha)",
+          "note": "El nombre griego traslada el nombre más antiguo de la fiesta en lugar de traducirlo. Cae el día catorce del primer mes, con el cordero degollado al atardecer y comido esa misma noche."
+        },
+        {
+          "term": "turnos de los sacerdotes",
+          "original": "Greek: ἐφημερία (ephemeria)",
+          "note": "Un rol de servicio. El sacerdocio estaba repartido en grupos que servían por turno en días señalados y no todos a la vez, así que estar en sus turnos significa que cada grupo tomaba la guardia que le tocaba."
+        },
+        {
+          "term": "talento",
+          "original": "Greek: τάλαντον (talanton)",
+          "note": "Una unidad de peso y de dinero, unas 75 libras de plata. Los cien talentos de plata y el talento de oro de aquí son una multa impuesta a toda la nación. El sentido moderno de talento como capacidad natural viene de la parábola de Mateo 25, no de la palabra misma."
+        },
+        {
+          "term": "la tierra guarda sábado",
+          "original": "Greek: σαββατίζω (sabbatizo)",
+          "note": "Guardar sábado. La ley apartaba cada séptimo año como descanso para los campos, cuando la tierra se dejaba sin sembrar. Los años de desolación se cuentan aquí como el descanso que se le debía a la tierra."
         }
       ],
-      "keyTakeaway": "Josías restaura la adoración correcta con una gran Pascua, pero tras su muerte, Judá declina bajo sus sucesores."
+      "keyTakeaway": "Josías celebra una Pascua sin igual desde Samuel y abastece al pueblo con sus propios rebaños; luego muere de las heridas recibidas peleando contra el faraón en Meguido. Jeconías, Joaquim, Joaquín y Sedequías hacen todos lo malo; los caldeos queman el templo, se llevan sus utensilios, y la tierra guarda sábado setenta años."
     },
     {
       "id": "1_esdras-2",
@@ -113,18 +130,34 @@
         "Entonces, cuando la carta del rey Artajerjes fue leída, Rehum y el escriba Simsai y sus asociados fueron rápidamente a Jerusalén, con caballería y un gran número de tropas armadas, y comenzaron a estorbar a los edificadores. Y la edificación del templo en Jerusalén se detuvo hasta el segundo año del reinado del rey Darío de los persas. (2:25)."
       ],
       "crossRefs": [
-        "2 Reyes 25:8–21: Destrucción de Jerusalén.",
-        "Esdras 1:1–11: El decreto de Ciro para reconstruir.",
-        "Isaías 44:28: Profecía sobre Ciro."
+        "Esdras 1:1-11: La proclama de Ciro y los utensilios del templo contados para el regreso.",
+        "2 Crónicas 36:22-23: La misma proclama de Ciro cierra el registro de los reyes.",
+        "Isaías 44:28: Ciro nombrado como aquel que dice que Jerusalén será edificada.",
+        "Esdras 4:7-24: La carta a Artajerjes y la orden que detuvo la construcción."
       ],
       "translationNotes": [
         {
-          "term": "Sesbasar",
-          "original": "Hebrew: שֵׁשְׁבַּצַּר (Šēšbaṣṣar), Greek: Σασαβασσάρ (Sasabassár), Aramaic: ששבצר (Šēšbaṣṣar)",
-          "note": "Gobernador de Judá designado por Ciro, encargado de devolver los utensilios del Templo y comenzar la reconstrucción."
+          "term": "tesorero",
+          "original": "Greek: γαζοφύλαξ (gazophylax)",
+          "note": "Literalmente el guardián del tesoro, formado sobre una palabra persa que designa un almacén real. El cargo movía los bienes de entrada y de salida por inventario escrito, y por eso los utensilios del templo se cuentan pieza por pieza."
+        },
+        {
+          "term": "incensario",
+          "original": "Greek: θυΐσκη (thyiske)",
+          "note": "Una bandeja o platillo pequeño para quemar incienso en el santuario. Figura entre los utensilios del servicio del templo junto a las copas y los tazones porque el incienso era parte de la ofrenda diaria."
+        },
+        {
+          "term": "Celesiria y Fenicia",
+          "original": "Greek: Κοίλη Συρία (Koile Syria)",
+          "note": "Siria hueca, el nombre administrativo del territorio situado entre las cordilleras del Líbano y a lo largo de la costa. Judea quedaba dentro de esta provincia, así que sus asuntos pasaban por funcionarios asentados fuera de ella."
+        },
+        {
+          "term": "tributo",
+          "original": "Greek: φόρος (phoros)",
+          "note": "El pago anual fijo que un territorio sujeto debía a la corona, tasado sobre el distrito y cobrado en plata y en especie. La queja al rey es que una ciudad amurallada podría negarse a pagarlo."
         }
       ],
-      "keyTakeaway": "Jerusalén cae en el exilio, pero Ciro decreta la reconstrucción del Templo y restituye sus utensilios."
+      "keyTakeaway": "Ciro proclama que se reedifique la casa en Jerusalén y envía 5.469 utensilios de oro y de plata por medio de su tesorero Mitrídates a Sesbasar, gobernador de Judea. Más tarde Rehum y el escriba Simsai escriben a Artajerjes, que hace buscar en los registros y detiene la obra hasta el segundo año de Darío."
     },
     {
       "id": "1_esdras-3",
@@ -158,18 +191,34 @@
         "Señores, ¿no es el vino lo más fuerte, ya que obliga a la gente a hacer estas cosas?». Cuando hubo dicho esto, dejó de hablar. (3:23)."
       ],
       "crossRefs": [
-        "Salmo 119:160: La palabra de Dios es verdad.",
-        "Juan 14:6: Jesús dice: «Yo soy la verdad».",
-        "Zacarías 8:16: Hablad verdad cada uno con su prójimo."
+        "Ester 1:1-8: Un rey persa gobierna ciento veintisiete provincias y da un banquete a sus funcionarios.",
+        "Daniel 6:1-3: Darío pone sátrapas sobre el reino y eleva a un hombre por encima de ellos.",
+        "Génesis 41:42: El faraón viste a José de lino fino y le pone un collar de oro por su sabiduría.",
+        "Proverbios 23:29-35: La confusión, las riñas y el olvido que vienen de demorarse con el vino."
       ],
       "translationNotes": [
         {
-          "term": "Verdad",
-          "original": "Hebrew: אֱמֶת (ʾĕmet), Greek: ἀλήθεια (alḗtheia), Aramaic: קושטא (quštā)",
-          "note": "En el debate, la verdad se presenta como perdurable, incorruptible y más fuerte que los reyes, el vino o las mujeres."
+          "term": "satrapía",
+          "original": "Greek: σατραπεία (satrapeia)",
+          "note": "La principal división administrativa del imperio persa, de un título persa antiguo que significa protector del reino. Cada una debía un tributo fijado, mantenía una guarnición y respondía ante el rey por medio de su sátrapa."
+        },
+        {
+          "term": "Pariente del rey",
+          "original": "Greek: συγγενής (syngenes)",
+          "note": "Un rango de corte, no un parentesco de sangre. Las cortes de la época graduaban a sus funcionarios, y Pariente era el grado más alto, con acceso directo al rey y un puesto cerca de él a la mesa."
+        },
+        {
+          "term": "vestido de púrpura",
+          "original": "Greek: πορφύρα (porphyra)",
+          "note": "Tela teñida con la secreción del caracol marino múrice. Miles de conchas hacían falta para una cantidad pequeña de tinte, así que la púrpura la vestían los gobernantes y aquellos a quienes un gobernante quería honrar."
+        },
+        {
+          "term": "guardia personal",
+          "original": "Greek: σωματοφύλαξ (somatophylax)",
+          "note": "Literalmente guardia del cuerpo. Los hombres escogidos que dormían a la puerta de la cámara del rey eran nobles jóvenes, y el puesto abría camino a los altos cargos, así que su certamen es una apuesta por el ascenso."
         }
       ],
-      "keyTakeaway": "Zorobabel gana el debate al declarar que la verdad es lo más fuerte, obteniendo el favor real para la reconstrucción de Jerusalén."
+      "keyTakeaway": "Darío da un banquete a los sátrapas de sus ciento veintisiete provincias y luego se duerme. Tres hombres de la guardia personal sellan bajo su almohada sus respuestas a qué es lo más fuerte: el vino, el rey, y las mujeres con la verdad por encima de todo, y se juegan la púrpura, el oro y el rango de Pariente. El primero alega que el vino iguala al rey con el huérfano."
     },
     {
       "id": "1_esdras-4",
@@ -243,18 +292,35 @@
         "para subir y edificar Jerusalén y el templo que es llamado por su nombre; y festejaron, con música y regocijo, por siete días. (4:63)."
       ],
       "crossRefs": [
-        "Salmo 119:160: La palabra de Dios es verdad.",
-        "Juan 14:6: Jesús dice: «Yo soy la verdad».",
-        "Zacarías 8:16: Hablad verdad cada uno con su prójimo."
+        "Génesis 2:24: El hombre deja a su padre y a su madre y se une a su mujer.",
+        "Salmos 117:2: La verdad del SEÑOR permanece para siempre.",
+        "Zacarías 8:16: Hablad verdad cada uno con su prójimo y dictad juicios verdaderos.",
+        "1 Reyes 5:6-10: Cedro cortado en el Líbano y suministrado por tratado para construir en Jerusalén.",
+        "Jeremías 27:21-22: Los utensilios del templo llevados a Babilonia para quedar allí hasta que el SEÑOR los devuelva."
       ],
       "translationNotes": [
         {
-          "term": "Verdad",
-          "original": "Hebrew: אֱמֶת (ʾĕmet), Greek: ἀλήθεια (alḗtheia), Aramaic: קושטא (quštā)",
-          "note": "En el debate, la verdad se presenta como perdurable, incorruptible y más fuerte que los reyes, el vino o las mujeres."
+          "term": "concubina",
+          "original": "Greek: παλλακή (pallake)",
+          "note": "Una esposa secundaria de posición reconocida, y no una mujer sin rango alguno. A Apame se la nombra con el nombre de su padre y se la sienta a la diestra del rey, lo cual señala su rango en la corte."
+        },
+        {
+          "term": "holocausto",
+          "original": "Greek: ὁλοκαύτωμα (holokautoma)",
+          "note": "Literalmente quemado por entero. A diferencia de las ofrendas que se compartían como comida, esta se consumía del todo sobre el altar, y se hacía cada día por la mañana y por la tarde, y por eso necesitaba una asignación anual fija."
+        },
+        {
+          "term": "idumeos",
+          "original": "Greek: Ἰδουμαῖοι (Idoumaioi)",
+          "note": "El nombre griego del pueblo de Edom, vecinos de Judá por el sur, que ocupaban aldeas en la serranía meridional después de la caída de Jerusalén. Darío manda que devuelvan esas aldeas."
+        },
+        {
+          "term": "Grande es la verdad y más fuerte que todo",
+          "original": "Greek: μεγάλη ἡ ἀλήθεια καὶ ὑπερισχύει (megale he aletheia kai hyperischyei)",
+          "note": "Una aclamación pública, la forma fija con que una multitud confirmaba en voz alta un veredicto. Hechos 19:34 registra la misma forma de grito en el teatro de Éfeso."
         }
       ],
-      "keyTakeaway": "Zorobabel gana el debate al declarar que la verdad es lo más fuerte, obteniendo el favor real para la reconstrucción de Jerusalén."
+      "keyTakeaway": "El segundo de la guardia alega que el rey es el más fuerte; el tercero, Zorobabel, alega por las mujeres y cita a Apame, que le quita la corona al rey, y luego declara que la verdad es la más grande de todas, y la asamblea lo aclama a gritos. Cuando le ofrecen cualquier cosa, pide a Darío que cumpla su voto de reedificar Jerusalén; el rey le concede salvoconducto, cedro, exención de tributos y los utensilios."
     },
     {
       "id": "1_esdras-5",
@@ -335,18 +401,35 @@
         "y con intrigas, demagogia y motines impidieron la finalización de la edificación todo el tiempo que vivió el rey Ciro. Fueron impedidos de edificar por dos años, hasta el reinado de Darío. (5:70)."
       ],
       "crossRefs": [
-        "Esdras 2:1–70: Lista de los que regresaron.",
-        "Esdras 3:1–13: Reconstrucción del altar, colocación de los cimientos del Templo.",
-        "Esdras 6:13–22: Conclusión del Templo."
+        "Esdras 2:1-70: El mismo registro de las familias que regresan, con sus totales y su ganado.",
+        "Esdras 3:1-13: El altar levantado, los Tabernáculos guardados y los cimientos puestos entre llanto y gritos.",
+        "Éxodo 28:30: El Urim y el Tumim puestos en el pectoral del sumo sacerdote.",
+        "Levítico 23:33-43: La fiesta de los Tabernáculos mandada por siete días en el séptimo mes.",
+        "2 Crónicas 2:16: Cedro llevado por mar hasta Jope para la construcción en Jerusalén."
       ],
       "translationNotes": [
         {
-          "term": "Pascua",
-          "original": "Hebrew: פֶּסַח (pesach), Greek: πάσχα (páscha), Aramaic: פסחא (paskhā)",
-          "note": "Fiesta que conmemora la liberación de Egipto, celebrada en la dedicación del Templo."
+          "term": "mina",
+          "original": "Greek: μνᾶ (mna)",
+          "note": "Un peso de plata o de oro, sesenta por talento y calculado en cien dracmas, aproximadamente 1,25 libras. Una promesa de mil minas de oro es un peso de metal, no una cuenta de monedas."
+        },
+        {
+          "term": "Urim y Tumim",
+          "original": "Greek: δήλωσις καὶ ἀλήθεια (delosis kai aletheia)",
+          "note": "El griego vierte los dos objetos que el sumo sacerdote llevaba en el pectoral como la manifestación y la verdad. Servían para obtener una decisión, así que, sin un sumo sacerdote que los llevara, las reclamaciones sacerdotales en disputa tuvieron que esperar."
+        },
+        {
+          "term": "servidores del templo",
+          "original": "Greek: ἱερόδουλοι (hierodouloi)",
+          "note": "Una clase hereditaria destinada al trabajo pesado del santuario, acarrear agua y leña. Aparecen en lista aparte de los sacerdotes, los levitas, los cantores y los porteros, y los registros más antiguos los llaman los entregados."
+        },
+        {
+          "term": "fiesta de los Tabernáculos",
+          "original": "Greek: σκηνοπηγία (skenopegia)",
+          "note": "Literalmente el plantar de tiendas. La fiesta otoñal de siete días de Levítico 23, guardada en cobertizos temporales, que cae en el séptimo mes, cuando la cosecha ya está recogida."
         }
       ],
-      "keyTakeaway": "Los exiliados que regresan reconstruyen el altar y el Templo, enfrentando oposición pero completándolo con el apoyo divino y real."
+      "keyTakeaway": "Los desterrados vuelven por familias con escolta de caballería, 42.360 en total; los hombres que no pueden probar su linaje pierden el sacerdocio. Levantan el altar, guardan la fiesta de los Tabernáculos y ponen los cimientos con trompetas, mientras lloran los ancianos que vieron la primera casa. Zorobabel y Jesúa rechazan la ayuda de fuera y la obra se detiene."
     },
     {
       "id": "1_esdras-6",
@@ -390,18 +473,35 @@
         "«Yo, el rey Darío, he decretado que se haga con toda diligencia como aquí se prescribe». (6:33)."
       ],
       "crossRefs": [
-        "Esdras 2:1–70: Lista de los que regresaron.",
-        "Esdras 3:1–13: Reconstrucción del altar, colocación de los cimientos del Templo.",
-        "Esdras 6:13–22: Conclusión del Templo."
+        "Esdras 5:1-17: El gobernador interroga a los constructores y escribe a Darío pidiendo una resolución.",
+        "Esdras 6:1-12: El rollo hallado en Ecbatana y el decreto de Darío que costea la obra.",
+        "Hageo 1:1-15: Hageo llama a Zorobabel y a Josué a edificar la casa en el segundo año de Darío.",
+        "Zacarías 1:1-6: Zacarías recibe la palabra del SEÑOR en el segundo año de Darío.",
+        "Ester 6:1: Un rey persa manda que le lean el libro de las memorias."
       ],
       "translationNotes": [
         {
-          "term": "Pascua",
-          "original": "Hebrew: פֶּסַח (pesach), Greek: πάσχα (páscha), Aramaic: פסחא (paskhā)",
-          "note": "Fiesta que conmemora la liberación de Egipto, celebrada en la dedicación del Templo."
+          "term": "codo",
+          "original": "Greek: πῆχυς (pechys)",
+          "note": "Una medida del antebrazo, del codo a la punta de los dedos, unas 18 pulgadas. Una casa de sesenta codos de alto y sesenta de ancho se levanta unos noventa pies en cada dirección."
+        },
+        {
+          "term": "archivos reales",
+          "original": "Greek: βιβλιοφυλάκιον (bibliophylakion)",
+          "note": "Literalmente una casa de guarda de libros. La corona guardaba sus decretos en rollos, en casas de registro de más de una capital, y por eso la orden de Ciro apareció en la fortaleza de Ecbatana, en Media, y no en Babilonia."
+        },
+        {
+          "term": "piedra labrada",
+          "original": "Greek: λίθος ξυστός (lithos xystos)",
+          "note": "Bloques desbastados y escuadrados en la cantera, frente a la piedra de campo sin trabajar. Alternar hiladas de piedra labrada con hiladas de madera era práctica corriente en los grandes edificios públicos, y el decreto lo especifica."
+        },
+        {
+          "term": "libación",
+          "original": "Greek: σπονδή (sponde)",
+          "note": "Una ofrenda de bebida, vino derramado en lugar de bebido. Darío costea vino y aceite para que se ofrezcan libaciones y oraciones por él y por sus hijos, lo que siempre se esperaba de un templo que la corona pagaba por mantener."
         }
       ],
-      "keyTakeaway": "Los exiliados que regresan reconstruyen el altar y el Templo, enfrentando oposición pero completándolo con el apoyo divino y real."
+      "keyTakeaway": "En el segundo año de Darío, Hageo y Zacarías profetizan, y Zorobabel y Jesúa reanudan la construcción. Sisines escribe a Darío, que manda buscar en los archivos; el rollo de Ciro aparece en Ecbatana y ordena edificar la casa a costa del rey. Darío costea la obra con el tributo de la provincia y fija el empalamiento como pena para quien la estorbe."
     },
     {
       "id": "1_esdras-7",
@@ -427,18 +527,35 @@
         "porque él había cambiado la voluntad del rey de los asirios respecto a ellos, para fortalecer sus manos para el servicio del Señor, Dios de Israel. (7:15)."
       ],
       "crossRefs": [
-        "Esdras 2:1–70: Lista de los que regresaron.",
-        "Esdras 3:1–13: Reconstrucción del altar, colocación de los cimientos del Templo.",
-        "Esdras 6:13–22: Conclusión del Templo."
+        "Esdras 6:13-22: El templo acabado en el sexto año de Darío y la Pascua guardada después.",
+        "1 Reyes 8:62-64: Las ofrendas de Salomón en la dedicación de la primera casa.",
+        "Números 7:87-88: Las ofrendas de dedicación contadas por los doce jefes de las tribus.",
+        "Éxodo 12:1-11: El cordero pascual degollado el día catorce del primer mes.",
+        "Éxodo 12:15-20: Siete días de panes sin levadura mandados junto con la Pascua."
       ],
       "translationNotes": [
         {
-          "term": "Pascua",
-          "original": "Hebrew: פֶּסַח (pesach), Greek: πάσχα (páscha), Aramaic: פסחא (paskhā)",
-          "note": "Fiesta que conmemora la liberación de Egipto, celebrada en la dedicación del Templo."
+          "term": "Adar",
+          "original": "Greek: Ἀδάρ (Adar)",
+          "note": "El mes duodécimo del calendario en uso después del destierro, que cae a finales del invierno, aproximadamente entre febrero y marzo. El primer mes, cuando cae la Pascua, comienza unas semanas más tarde."
+        },
+        {
+          "term": "por el pecado de todo Israel",
+          "original": "Greek: περὶ ἁμαρτίας (peri hamartias)",
+          "note": "La expresión fija para una ofrenda por el pecado, un animal entregado para cubrir una ofensa, con su sangre aplicada al altar. Doce machos cabríos, uno por cada tribu, cubren a la nación entera y no a ningún individuo."
+        },
+        {
+          "term": "purificados",
+          "original": "Greek: καθαρίζω (katharizo)",
+          "note": "Purificación ritual: lavarse, lavar la ropa y esperar un plazo fijo antes de que una persona pudiera manejar cosas santas o comer la Pascua. Se trata de la aptitud para acercarse al santuario, no de higiene ni de moral."
+        },
+        {
+          "term": "rey de los asirios",
+          "original": "Greek: βασιλεὺς Ἀσσυρίων (basileus Assyrion)",
+          "note": "Asiria, Babilonia y Persia ocuparon por turno la misma sede imperial, y el nombre más antiguo siguió en uso para la gran potencia del nordeste. Aquí nombra al rey cuya voluntad fue cambiada a favor de los constructores."
         }
       ],
-      "keyTakeaway": "Los exiliados que regresan reconstruyen el altar y el Templo, enfrentando oposición pero completándolo con el apoyo divino y real."
+      "keyTakeaway": "Sisines y Satrabuzanes cumplen las órdenes del rey y ayudan a los ancianos, y la casa se acaba el día veintitrés de Adar, en el sexto año de Darío. En su dedicación ofrecen cien toros, doscientos carneros, cuatrocientos corderos y doce machos cabríos, uno por tribu, y luego guardan la Pascua y siete días de los panes sin levadura."
     },
     {
       "id": "1_esdras-8",
@@ -541,18 +658,35 @@
         "Entonces Esdras se levantó e hizo jurar a los jefes de los sacerdotes y levitas de todo Israel que harían esto. Y juraron sobre ello. (8:92)."
       ],
       "crossRefs": [
-        "Esdras 7:1–28: La comisión de Esdras.",
-        "Nehemías 8:1–12: Lectura pública de la Ley.",
-        "Malaquías 2:11: Condenación de los matrimonios infieles."
+        "Esdras 7:1-10: La descendencia de Esdras desde Aarón y su viaje en el séptimo año de Artajerjes.",
+        "Esdras 8:21-23: Un ayuno proclamado junto al río, sin pedir escolta al rey.",
+        "Esdras 8:24-30: Plata, oro y utensilios pesados y entregados a doce de los principales sacerdotes.",
+        "Esdras 9:1-15: El informe sobre los matrimonios con extranjeras, la vestidura rasgada y la confesión de Esdras.",
+        "Deuteronomio 7:1-4: A Israel se le prohíbe dar sus hijas a las naciones de la tierra o tomar las de ellas."
       ],
       "translationNotes": [
         {
-          "term": "Matrimonios con extranjeras",
-          "original": "Hebrew: נָשִׁים נָכְרִיּוֹת (nāšîm nokhrīyōt), Greek: γυναῖκες ἀλλότριαι (gynaíkes allótriai), Aramaic: נשין נכרייתא (nāšīn nokhrayyātā)",
-          "note": "Matrimonios con mujeres fuera de la comunidad del pacto; considerados una violación de la santidad y las obligaciones del pacto de Israel."
+          "term": "escriba",
+          "original": "Greek: γραμματεύς (grammateus)",
+          "note": "No un copista, sino un secretario y funcionario legal. Esdras lleva una comisión real, así que su pericia en la ley viene con autoridad para nombrar jueces y hacer cumplir sentencias en la provincia."
+        },
+        {
+          "term": "coros y batos",
+          "original": "Greek: κόρος (koros), βάτος (batos)",
+          "note": "Medidas de capacidad. Un coro es una medida de áridos de unas seis fanegas y media de grano; un bato es su equivalente para líquidos, unos seis galones. Ambas son las formas griegas de las medidas antiguas usadas en Israel."
+        },
+        {
+          "term": "los siete Amigos que son mis consejeros",
+          "original": "Greek: φίλοι (philoi)",
+          "note": "Amigo era un grado formal de la corte, no una declaración de afecto. Los siete consejeros forman el consejo interior permanente del rey persa, el mismo cuerpo de siete que aparece en el libro de Ester."
+        },
+        {
+          "term": "rasgué mis vestidos",
+          "original": "Greek: διαρρήγνυμι τὰ ἱμάτια (diarregnymi ta himatia)",
+          "note": "La señal pública reconocida de duelo o de indignación, hecha rasgando la vestidura por el cuello. Arrancarse pelo de la cabeza y de la barba llevaba esa misma señal a su extremo."
         }
       ],
-      "keyTakeaway": "Esdras llega a Jerusalén, enseña la Ley, confronta los matrimonios ilegítimos y lidera la renovación del pacto con el pueblo."
+      "keyTakeaway": "Esdras, sacerdote y escriba, sube de Babilonia en el séptimo año de Artajerjes con un decreto que concede fondos, exención de impuestos para el personal del templo y autoridad judicial. Ayuna junto al río Theras y pesa la plata, el oro y los utensilios para entregarlos a doce sacerdotes. Cuando le dicen que el pueblo ha tomado mujeres extranjeras, rasga sus vestidos, confiesa y pone bajo juramento a los jefes."
     },
     {
       "id": "1_esdras-9",
@@ -618,18 +752,35 @@
         "porque fueron inspirados por las palabras que les habían sido enseñadas. Y se juntaron. (9:55)."
       ],
       "crossRefs": [
-        "Esdras 7:1–28: La comisión de Esdras.",
-        "Nehemías 8:1–12: Lectura pública de la Ley.",
-        "Malaquías 2:11: Condenación de los matrimonios infieles."
+        "Esdras 10:1-17: La asamblea bajo la lluvia y la comisión nombrada para examinar los matrimonios.",
+        "Nehemías 8:1-8: Esdras lee la ley desde un estrado de madera mientras los levitas dan el sentido.",
+        "Nehemías 8:9-12: Al pueblo se le dice que el día es santo, que coma, beba y envíe porciones.",
+        "Deuteronomio 31:10-13: Se manda leer la ley en voz alta a hombres, mujeres y niños.",
+        "Levítico 5:15-16: Un carnero traído en reparación por una ofensa en las cosas santas."
       ],
       "translationNotes": [
         {
-          "term": "Matrimonios con extranjeras",
-          "original": "Hebrew: נָשִׁים נָכְרִיּוֹת (nāšîm nokhrīyōt), Greek: γυναῖκες ἀλλότριαι (gynaíkes allótriai), Aramaic: נשין נכרייתא (nāšīn nokhrayyātā)",
-          "note": "Matrimonios con mujeres fuera de la comunidad del pacto; considerados una violación de la santidad y las obligaciones del pacto de Israel."
+          "term": "luna nueva",
+          "original": "Greek: νουμηνία (noumenia)",
+          "note": "El primer día de un mes, contado desde la aparición de la luna nueva. Una fecha como la luna nueva del décimo mes nombra el día en que el mes abre, no una estación del año."
+        },
+        {
+          "term": "estrado de madera",
+          "original": "Greek: βῆμα (bema)",
+          "note": "Una tarima levantada, construida para la ocasión, para que a quien hablaba lo vieran y lo oyeran los que estaban de pie. La misma palabra nombra el tribunal de una ciudad griega, como en Hechos 18:12."
+        },
+        {
+          "term": "explicando lo que se leía",
+          "original": "Greek: ἀνάγνωσις (anagnosis)",
+          "note": "Anagnosis es la lectura pública en voz alta. Los levitas no solo leían; partían el texto en porciones y daban el sentido a la multitud, lo cual importaba después del destierro, cuando el arameo era el habla diaria de muchos."
+        },
+        {
+          "term": "comed la grosura y bebed lo dulce",
+          "original": "Greek: λιπάσματα καὶ γλυκάσματα (lipasmata kai glykasmata)",
+          "note": "Comida rica y bebida dulce. La pareja es un modismo para una comida de fiesta y no dos platos concretos, y enviar porciones a los que no tenían hacía de esa comida algo público."
         }
       ],
-      "keyTakeaway": "Esdras llega a Jerusalén, enseña la Ley, confronta los matrimonios ilegítimos y lidera la renovación del pacto con el pueblo."
+      "keyTakeaway": "Esdras hace duelo toda la noche y convoca a los desterrados, que se reúnen en tres días y se sientan tiritando en la plaza mientras él les manda apartar a sus mujeres extranjeras. Unos comisionados oyen los casos durante el invierno y los nombrados obedecen. En el séptimo mes Esdras lee la ley desde un estrado de madera, los levitas la explican, y al pueblo que llora se le dice que el día es santo."
     }
   ]
 }

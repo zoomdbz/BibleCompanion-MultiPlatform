@@ -46,18 +46,34 @@
         "Pues las pasiones del apetito son refrenadas, contenidas por la mente templada, y todos los impulsos del cuerpo son frenados por la razón. (1:35)."
       ],
       "crossRefs": [
-        "Proverbios 16:32: Dominar el espíritu es mejor que conquistar una ciudad.",
-        "Daniel 1:8: Daniel rechaza contaminarse con la comida.",
-        "Romanos 7:22–23: La ley de Dios contra la ley del pecado."
+        "Proverbios 16:32: Gobernar el propio espíritu vale más que conquistar una ciudad.",
+        "Proverbios 9:10: El temor del Señor es el principio de la sabiduría.",
+        "Levítico 11:1-8: Los animales que a Israel le está prohibido comer.",
+        "Deuteronomio 6:6-7: A Israel se le manda enseñar la ley con diligencia a sus hijos."
       ],
       "translationNotes": [
         {
+          "term": "Pasiones",
+          "original": "Greek: πάθη (pathe)",
+          "note": "En singular pathos. No es pasión en el sentido romántico moderno; la palabra significa todo aquello que actúa sobre una persona, así que abarca por igual el apetito, la ira, el miedo y el dolor."
+        },
+        {
           "term": "Razón",
-          "original": "Hebrew: שֵׂכֶל (śēkhel), Greek: λογισμός (logismós), Aramaic: רעיונא (raʿyonāʾ)",
-          "note": "Se usa aquí como la facultad racional de la mente; en 4 Macabeos significa el razonamiento devoto formado por la Ley de Dios."
+          "original": "Greek: λογισμός (logismos)",
+          "note": "Literalmente una cuenta o un cálculo. Nombra a la mente que pesa activamente una decisión y no a una facultad abstracta, y por eso el libro puede hablar de una razón que gobierna o que pierde."
+        },
+        {
+          "term": "Filosofía",
+          "original": "Greek: φιλοσοφία (philosophia)",
+          "note": "En este libro filosofía significa toda una manera de vivir bajo la ley, no un estudio de aula. Los escritores judíos de la época llamaban con regularidad filosofía suya a la práctica de la ley."
+        },
+        {
+          "term": "Las cuatro clases de sabiduría",
+          "original": "Greek: φρόνησις, δικαιοσύνη, ανδρεία, σωφροσύνη (phronesis, dikaiosyne, andreia, sophrosyne)",
+          "note": "El juicio racional, la justicia, el valor y el dominio propio eran las cuatro virtudes corrientes de la ética griega. El autor las enumera como las partes de la sabiduría que enseña la ley."
         }
       ],
-      "keyTakeaway": "La introducción establece que la razón, guiada por la Ley, tiene poder sobre las pasiones y asegura la fidelidad a Dios."
+      "keyTakeaway": "El autor abre preguntando si la razón piadosa es soberana sobre las pasiones, define la razón, la sabiduría y las cuatro clases de virtud, ordena todas las pasiones bajo el placer y el dolor, y nombra a Eleazar, a los siete hermanos y a su madre como su prueba."
     },
     {
       "id": "4_maccabees-2",
@@ -92,18 +108,35 @@
         "¿Cómo es entonces, podría decir alguien, que si la razón es señora de las pasiones, no controla el olvido y la ignorancia? (2:24)."
       ],
       "crossRefs": [
-        "Proverbios 16:32: Dominar el espíritu es mejor que conquistar una ciudad.",
-        "Daniel 1:8: Daniel rechaza contaminarse con la comida.",
-        "Romanos 7:22–23: La ley de Dios contra la ley del pecado."
+        "Génesis 39:7-12: José rechaza a la mujer de Potifar y huye de la casa.",
+        "Éxodo 20:17: El mandamiento de no codiciar la mujer ni los bienes del prójimo.",
+        "Levítico 19:9-10: El rebusco y las uvas caídas se dejan para el pobre y para el extranjero.",
+        "Deuteronomio 20:19: Los árboles frutales del enemigo no se han de cortar en un asedio.",
+        "Génesis 49:5-7: Jacob maldice la ira de Simeón y Leví."
       ],
       "translationNotes": [
         {
-          "term": "Razón",
-          "original": "Hebrew: שֵׂכֶל (śēkhel), Greek: λογισμός (logismós), Aramaic: רעיונא (raʿyonāʾ)",
-          "note": "Se usa aquí como la facultad racional de la mente; en 4 Macabeos significa el razonamiento devoto formado por la Ley de Dios."
+          "term": "Templado",
+          "original": "Greek: σώφρων (sophron)",
+          "note": "El adjetivo que está detrás del dominio propio. La palabra templado sugiere hoy un carácter apacible; el griego describe a la persona que tiene sus apetitos bajo mando."
+        },
+        {
+          "term": "No codiciarás",
+          "original": "Greek: ουκ επιθυμήσεις (ouk epithymeseis)",
+          "note": "El verbo epithymeo significa poner el corazón en algo. Su sustantivo, epithymia, es la misma palabra que este libro expresa como deseo y trata como una pasión."
+        },
+        {
+          "term": "Cancelar la deuda en el año séptimo",
+          "original": "Greek: άφεσις (aphesis)",
+          "note": "Aphesis significa liberación. Cada siete años los acreedores tenían que soltar lo que se les debía, y el Antiguo Testamento griego usa esta misma palabra para la liberación proclamada en el jubileo."
+        },
+        {
+          "term": "Maldita sea su ira",
+          "original": "Greek: επικατάρατος ο θυμός αυτών (epikataratos ho thymos auton)",
+          "note": "Las palabras de Jacob en su lecho de muerte, en Génesis 49:7. La maldición cae sobre la ira y no sobre los dos hombres mismos, que es lo que el autor saca de ahí."
         }
       ],
-      "keyTakeaway": "La introducción establece que la razón, guiada por la Ley, tiene poder sobre las pasiones y asegura la fidelidad a Dios."
+      "keyTakeaway": "El autor argumenta desde la ley que la razón domina el deseo y la ira, y cita la templanza de José, los mandatos sobre el interés, el rebusco y los árboles frutales del enemigo, a Moisés contenido frente a Datán y Abirán, y a Jacob maldiciendo la ira de Simeón y Leví."
     },
     {
       "id": "4_maccabees-3",
@@ -135,18 +168,34 @@
         "precisamente en ese momento algunas personas intentaron una revolución contra la armonía pública y causaron numerosos y diversos desastres. (3:21)."
       ],
       "crossRefs": [
-        "Proverbios 16:32: Dominar el espíritu es mejor que conquistar una ciudad.",
-        "Daniel 1:8: Daniel rechaza contaminarse con la comida.",
-        "Romanos 7:22–23: La ley de Dios contra la ley del pecado."
+        "2 Samuel 23:15-17: David derrama el agua que tres guerreros sacaron del pozo de Belén.",
+        "1 Crónicas 11:17-19: El mismo relato de David negándose a beber el agua.",
+        "Levítico 17:10-12: A Israel se le prohíbe consumir sangre, porque la vida está en la sangre.",
+        "2 Samuel 5:22-25: David derrota a los filisteos en el valle de Refaim."
       ],
       "translationNotes": [
         {
-          "term": "Razón",
-          "original": "Hebrew: שֵׂכֶל (śēkhel), Greek: λογισμός (logismós), Aramaic: רעיונא (raʿyonāʾ)",
-          "note": "Se usa aquí como la facultad racional de la mente; en 4 Macabeos significa el razonamiento devoto formado por la Ley de Dios."
+          "term": "Equivalente a sangre",
+          "original": "Greek: αἷμα (haima)",
+          "note": "La ley prohíbe consumir sangre porque en ella está la vida. David trata el agua comprada al riesgo de la vida de dos hombres como si fuera la sangre de ellos, así que beberla sería una transgresión."
+        },
+        {
+          "term": "Derramó la bebida como ofrenda",
+          "original": "Greek: σπονδή (sponde)",
+          "note": "Una libación: vino o agua derramados sobre el suelo o sobre el altar en vez de beberse. Acompañaba a los sacrificios regulares, así que el gesto convierte una bebida rechazada en un acto de culto."
+        },
+        {
+          "term": "Rey de Asia",
+          "original": "Greek: Ασία (Asia)",
+          "note": "Asia significa aquí el reino seléucida gobernado desde Antioquía sobre Siria y las tierras del oriente, no el continente moderno. Sus reyes a veces pagaban el culto del templo de Jerusalén con fondos reales."
+        },
+        {
+          "term": "Intentó una revolución",
+          "original": "Greek: νεωτερίζω (neoterizo)",
+          "note": "El verbo significa hacer algo nuevo. En el lenguaje político griego significaba siempre trastornar el orden establecido, así que innovar llevaba el sentido de sedición."
         }
       ],
-      "keyTakeaway": "La introducción establece que la razón, guiada por la Ley, tiene poder sobre las pasiones y asegura la fidelidad a Dios."
+      "keyTakeaway": "El autor responde que la razón no arranca de raíz las pasiones, sino que se les opone, y cuenta cómo David, con ansia del agua del campamento enemigo, derrama lo que dos soldados arriesgan la vida por traerle; luego pasa a la paz bajo Seleuco y a la revuelta que la rompió."
     },
     {
       "id": "4_maccabees-4",
@@ -183,18 +232,35 @@
         "cuando, digo, sus decretos eran despreciados por el pueblo, él mismo intentó, por medio de la tortura, obligar a todos en la nación a renunciar al judaísmo comiendo alimentos contaminantes. (4:26)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "2 Macabeos 3:1-40: Simón informa sobre los fondos del templo y Heliodoro es derribado en la tesorería.",
+        "2 Macabeos 4:7-17: Jasón compra el sumo sacerdocio y construye un gimnasio en Jerusalén.",
+        "1 Macabeos 1:41-50: Antíoco decreta una sola costumbre para su reino y prohíbe la ley.",
+        "1 Macabeos 1:60-61: Las mujeres que circuncidaban a sus hijos son ejecutadas junto con sus criaturas.",
+        "Génesis 17:9-14: La circuncisión mandada como señal de la alianza."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Talento",
+          "original": "Greek: τάλαντον (talanton)",
+          "note": "Una unidad de peso y de dinero de unas 75 libras de plata, que valía unas 6.000 dracmas, o muchos años de paga de un jornalero. El sentido moderno de una habilidad natural viene de la parábola de Mateo 25, no de la palabra misma."
+        },
+        {
+          "term": "Gimnasio",
+          "original": "Greek: γυμνάσιον (gymnasion)",
+          "note": "De gymnos, desnudo. Una escuela cívica griega donde los hombres se entrenaban y competían sin ropa. Construir uno en la ciudadela metió en Jerusalén la enseñanza, el atletismo y la religión cívica de los griegos."
+        },
+        {
+          "term": "Sumo sacerdocio",
+          "original": "Greek: αρχιερωσύνη (archierosyne)",
+          "note": "El cargo se tenía de por vida y por descendencia dentro de la línea de Aarón. Pagar al rey una suma anual por él convirtió un sacerdocio heredado en un nombramiento real que se podía comprar."
+        },
+        {
+          "term": "Gobernador",
+          "original": "Greek: στρατηγός (strategos)",
+          "note": "El funcionario real puesto sobre una provincia, que tenía el mando militar además de la autoridad civil. La palabra gobernador se queda corta ante el hecho de que llega con un ejército."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "Simón delata la tesorería del templo a Apolonio, a quien unos ángeles a caballo derriban hasta que Onías ora por él; después Antíoco Epífanes sucede a Seleuco, vende el sacerdocio a Jasón, que construye un gimnasio, y prohíbe la ley de los antepasados bajo pena de muerte."
     },
     {
       "id": "4_maccabees-5",
@@ -243,18 +309,34 @@
         "Tiranizarás a los impíos, pero no dominarás mis razonamientos en defensa de la piedad, ni con palabras ni con hechos.\" (5:38)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "Levítico 11:7-8: El cerdo declarado impuro, y su carne no se ha de comer.",
+        "Daniel 1:8-16: Daniel resuelve no contaminarse con la comida del rey.",
+        "Éxodo 34:15: A Israel se le advierte que no coma lo que ha sido sacrificado a otros dioses.",
+        "2 Macabeos 6:18-20: A Eleazar, escriba entrado en años, lo obligan a abrir la boca para recibir carne de cerdo."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "El tormento de la rueda",
+          "original": "Greek: τροχός (trochos)",
+          "note": "No la rueda de un carro, sino un armazón de tortura. Ataban a la víctima sobre una rueda y la hacían girar hasta que las articulaciones se separaban, y debajo se podía encender fuego."
+        },
+        {
+          "term": "Alimentos sacrificados a los ídolos",
+          "original": "Greek: ειδωλόθυτον (eidolothyton)",
+          "note": "Carne de un animal matado en un templo pagano, buena parte de la cual se revendía después en el mercado público. Comerla contaba como tomar parte en el sacrificio mismo."
+        },
+        {
+          "term": "Piedad",
+          "original": "Greek: εὐσέβεια (eusebeia)",
+          "note": "Reverencia hacia Dios junto con los deberes que se deben a la familia y a la patria. La palabra piedad sugiere hoy un sentimiento privado; eusebeia significaba lealtad practicada en público."
+        },
+        {
+          "term": "Valor",
+          "original": "Greek: ανδρεία (andreia)",
+          "note": "Literalmente hombría, de aner, hombre. En la ética griega nombraba la virtud de mantener el puesto en el peligro, y pertenecía a cualquiera que la tuviera."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "Antíoco ordena que a todo hebreo se le obligue a comer carne de cerdo o se le dé muerte en la rueda, e insta al anciano sacerdote Eleazar a salvarse; Eleazar responde que la ley enseña dominio propio, valor, justicia y piedad, se niega, y le dice al rey que prepare sus ruedas y su fuego."
     },
     {
       "id": "4_maccabees-6",
@@ -300,18 +382,34 @@
         "He demostrado no solo que la razón ha dominado las agonías, sino también que domina los placeres y de ninguna manera cede ante ellos. (6:35)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "2 Macabeos 6:21-28: Eleazar se niega a fingir que come la carne lícita que le ofrecen en lugar del cerdo.",
+        "Deuteronomio 25:2-3: Los azotes limitados a cuarenta golpes para que el reo no quede degradado.",
+        "Éxodo 32:30-32: Moisés pide ser borrado del libro de Dios en lugar del pueblo que pecó.",
+        "Levítico 16:30: El día de la expiación hace purificación por el pueblo."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Azotes",
+          "original": "Greek: μάστιξ (mastix)",
+          "note": "Un látigo de correas de cuero, a veces cargado con metal o con hueso. La ley israelita limitaba la flagelación a cuarenta golpes, pero ningún límite así frenaba a los torturadores de un rey griego."
+        },
+        {
+          "term": "Heraldo",
+          "original": "Greek: κήρυξ (keryx)",
+          "note": "Un funcionario que anunciaba en voz alta las órdenes del rey. Su grito durante la flagelación hacía de la paliza una exigencia pública de obediencia y no un castigo privado."
+        },
+        {
+          "term": "Haz que mi sangre sea su purificación",
+          "original": "Greek: καθάρσιον (katharsion)",
+          "note": "La palabra nombra el medio por el cual un rito limpia. Eleazar pide que su propia muerte sirva de limpieza que su pueblo necesita."
+        },
+        {
+          "term": "Toma mi vida en lugar de la suya",
+          "original": "Greek: αντίψυχον (antipsychon)",
+          "note": "Un compuesto raro que significa una vida entregada en lugar de otra vida. Aparece en este libro y en unos pocos escritores griegos posteriores, y nombra una sustitución directa."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "Los guardias desnudan, azotan y queman a Eleazar mientras un heraldo lo llama a obedecer; él se niega incluso a fingir que come carne de cerdo, ora para que su sangre purifique a su pueblo y para que su vida sea tomada a cambio de la de ellos, y muere; el autor lo cuenta como prueba de que la razón piadosa gobierna."
     },
     {
       "id": "4_maccabees-7",
@@ -345,18 +443,34 @@
         "Porque solo los sabios y valientes son dueños de sus pasiones. (7:23)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "Números 16:46-48: Aarón corre con el incensario y se pone entre los muertos y los vivos.",
+        "Números 20:25-28: Eleazar sucede a Aarón y recibe las vestiduras sacerdotales.",
+        "Génesis 22:9-12: Isaac atado sobre el altar y librado en el último momento.",
+        "Lucas 20:37-38: Dios es Dios de Abraham, de Isaac y de Jacob, porque para él todos viven."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Piloto",
+          "original": "Greek: κυβερνήτης (kybernetes)",
+          "note": "El timonel que gobierna una nave, y la raíz de la palabra gobernar. Los escritores antiguos lo usaban como la imagen corriente de una mente que dirige una vida."
+        },
+        {
+          "term": "Incensario",
+          "original": "Greek: πυρεῖον (pyreion)",
+          "note": "Una paila de metal para llevar brasas encendidas e incienso. Números 16 registra que Aarón corrió con uno hasta en medio del pueblo para detener la plaga."
+        },
+        {
+          "term": "Potro",
+          "original": "Greek: ὄργανον (organon)",
+          "note": "Organon significa cualquier herramienta o máquina. Aplicado a la tortura abarca los armazones y los tornos construidos para ese fin, y un potro de muchas cabezas es uno con varios brazos trabajando a la vez."
+        },
+        {
+          "term": "Viven para Dios",
+          "original": "Greek: ζῶσιν τῷ θεῷ (zosin to theo)",
+          "note": "Una manera judía establecida de decir que los patriarcas siguen vivos a los ojos de Dios. Jesús argumenta desde la misma premisa en Lucas 20:37-38."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "El autor alaba a Eleazar con figuras de piloto, de ciudad sitiada y de peñasco saliente, lo compara con Aarón, que corrió con el incensario contra el ángel de fuego, y responde a la objeción de que no todos dominan sus pasiones diciendo que solo lo hacen los del todo piadosos."
     },
     {
       "id": "4_maccabees-8",
@@ -396,18 +510,34 @@
         "de modo que tan pronto como el tirano dejó de aconsejarles que comieran alimentos impuros, todos a una voz, como de una sola mente, dijeron: (8:29)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "2 Macabeos 7:1-2: Siete hermanos con su madre son arrestados y presionados a comer carne de cerdo.",
+        "1 Macabeos 1:11-15: Unos israelitas adoptan las costumbres griegas y construyen un gimnasio en Jerusalén.",
+        "Daniel 3:13-15: Nabucodonosor manda llamar a tres jóvenes y los amenaza con el horno.",
+        "Hebreos 11:35: Algunos fueron torturados y no aceptaron ser puestos en libertad."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "El modo de vida griego",
+          "original": "Greek: ελληνίζω (hellenizo)",
+          "note": "Vivir como griego: el vestido, la lengua, la enseñanza, el atletismo y la religión cívica de los griegos, todo junto. Lo que se ofrece es un cambio de vida pública, no solo de opinión."
+        },
+        {
+          "term": "Catapulta",
+          "original": "Greek: καταπέλτης (katapeltes)",
+          "note": "Una máquina de asedio movida por cuerda retorcida en tensión. Los mismos tornos que lanzaban proyectiles podían estirar y sostener un cuerpo humano, y por eso la máquina aparece aquí entre los instrumentos de tortura."
+        },
+        {
+          "term": "Garras de hierro",
+          "original": "Greek: χεῖρες σιδηραῖ (cheires siderai)",
+          "note": "Literalmente manos de hierro: armazones metálicos con ganchos, atados sobre las manos del torturador y usados para arrancar la carne."
+        },
+        {
+          "term": "Puestos de autoridad",
+          "original": "Greek: ηγεμονία (hegemonia)",
+          "note": "Los reyes helenísticos concedían el rango de corte y el mando de provincia como favores personales. Lo que se ofrece es un puesto asalariado en la administración real."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "Siete hermanos y su anciana madre son llevados ante Antíoco, que les ofrece rango y el modo de vida griego, y luego les muestra ruedas, potros, garfios, calderos y garras de hierro; el autor repasa el discurso cobarde que podrían haber hecho, y ellos lo rechazan a una sola voz."
     },
     {
       "id": "4_maccabees-9",
@@ -450,18 +580,34 @@
         "pero tú sufres tormento por las amenazas que provienen de la impiedad. No escaparás, tú, el más abominable de los tiranos, de los castigos de la ira divina.» (9:32)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "2 Macabeos 7:3-9: Los dos primeros hermanos son mutilados y muertos por negarse ante el rey.",
+        "Daniel 3:16-18: Tres hombres le dicen al rey que no servirán a sus dioses aunque no sean librados.",
+        "Deuteronomio 32:35: La venganza pertenece a Dios, que pagará a su debido tiempo.",
+        "Deuteronomio 4:1-2: Moisés encarga a Israel guardar los mandatos y no añadirles nada."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Mandamientos de los antepasados",
+          "original": "Greek: πάτριος νόμος (patrios nomos)",
+          "note": "Los escritores griegos usaban la ley ancestral para nombrar juntas la constitución heredada y la religión de un pueblo. Los reyes solían confirmarla, así que revocarla dejaba a una nación sin condición legal."
+        },
+        {
+          "term": "La justicia divina",
+          "original": "Greek: δίκη (dike)",
+          "note": "Dike significa a la vez un pleito y la pena que ese pleito impone. Cuando los hermanos dicen que la justicia le pagará al tirano, la palabra lleva el sentido de una sentencia que se ejecuta."
+        },
+        {
+          "term": "Inmortalidad",
+          "original": "Greek: αθανασία (athanasia)",
+          "note": "Ausencia de muerte. El libro la usa para la condición firme de los que mueren aferrados a la ley y de los que se dice que viven para Dios."
+        },
+        {
+          "term": "Moisés, nuestro consejero",
+          "original": "Greek: σύμβουλος (symboulos)",
+          "note": "Un consejero era el asesor a quien un gobernante estaba obligado a escuchar, lo que esta traducción expresa como nuestro guía. Llamar a Moisés su consejero lo pone frente a los consejeros sentados con Antíoco antes en el libro."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "Los hermanos responden que están dispuestos a morir, y al mayor lo azotan, lo descoyuntan en la rueda y lo queman, mientras él exhorta a sus hermanos a imitarlo antes de morir; al segundo lo desgarran con garfios de hierro y lo desuellan, y él le dice a Antíoco que el tirano sufre más que él."
     },
     {
       "id": "4_maccabees-10",
@@ -492,18 +638,34 @@
         "Dios te visitará pronto, porque estás cortando una lengua que ha resonado con melodiosos himnos divinos.» (10:21)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "2 Macabeos 7:10-12: Un hermano saca la lengua y las manos, y los hombres del rey se admiran de él.",
+        "Colosenses 3:11: Griego y judío, bárbaro y escita nombrados juntos.",
+        "Éxodo 4:11: El Señor dice que él hace al mudo y al sordo, al que ve y al ciego.",
+        "1 Macabeos 2:49-50: Un padre moribundo encarga a sus hijos ser celosos por la ley y dar la vida por la alianza."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Le arrancaron el cuero cabelludo al estilo escita",
+          "original": "Greek: αποσκυθίζω (aposkythizo)",
+          "note": "El verbo significa literalmente escitizar. Los historiadores griegos contaban que los guerreros escitas arrancaban el cuero cabelludo a sus enemigos, así que la palabra pasó a significar sin más ese acto."
+        },
+        {
+          "term": "Lengua",
+          "original": "Greek: γλῶσσα (glossa)",
+          "note": "La misma palabra significa el órgano y un idioma. Cortar la lengua era un castigo reconocido para la palabra desafiante, dirigido a acallar la ofensa además del ofensor."
+        },
+        {
+          "term": "Por la bienaventurada muerte de mis hermanos",
+          "original": "Greek: μά (ma)",
+          "note": "Los juramentos griegos se hacían por algo tenido por sagrado, señalado con la partícula ma. Aquí el juramento se hace sobre la muerte de sus hermanos y sobre la vida eterna de los piadosos."
+        },
+        {
+          "term": "Dios te visitará pronto",
+          "original": "Greek: επισκέπτομαι (episkeptomai)",
+          "note": "El verbo significa venir a mirar un asunto. Dicho de Dios describe una inspección oficial que termina en premio o en castigo, no una visita de cortesía."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "El tercer hermano se niega a romper el parentesco que comparte con sus hermanos y lo desmiembran, le arrancan el cuero cabelludo y lo descoyuntan en la rueda; el cuarto le dice a Antíoco que no hay fuego bastante caliente para hacerlo cobarde, y cuando el rey manda cortarle la lengua, él mismo la saca."
     },
     {
       "id": "4_maccabees-11",
@@ -539,18 +701,34 @@
         "Porque no son los guardias del tirano sino los de la ley divina los que están sobre nosotros; por eso nos aferramos a la razón invencible.» (11:27)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "2 Macabeos 7:15-19: El quinto hermano advierte al rey que el poder de Dios sobre su casa no ha terminado.",
+        "Nehemías 9:6: Solo el Señor hizo el cielo y la tierra, y a todos los conserva.",
+        "Romanos 12:19: No se venguen ustedes mismos; la venganza pertenece a Dios.",
+        "Salmos 66:10-12: Dios prueba a su pueblo y lo lleva por el fuego y el agua hasta un lugar espacioso."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Encorvado como un escorpión",
+          "original": "Greek: σκορπίος (skorpios)",
+          "note": "La palabra nombra al animal, cuya cola se arquea hacia atrás sobre su propio cuerpo. Los ejércitos griegos y romanos daban además el nombre de escorpión a una catapulta pequeña de torsión, de la clase que aquí se describe."
+        },
+        {
+          "term": "Asadores calentados en el fuego",
+          "original": "Greek: οβελίσκος (obeliskos)",
+          "note": "Varillas de hierro usadas para asar carne sobre el fuego, lo que esta traducción expresa como punzones. Aquí el utensilio de la casa se calienta y se clava en el cuerpo."
+        },
+        {
+          "term": "Combate y arena",
+          "original": "Greek: αγών (agon)",
+          "note": "Un agon era una competencia pública, atlética o dramática, celebrada ante espectadores y juzgada por un premio. La palabra agonía viene de ahí, por el esfuerzo de competir."
+        },
+        {
+          "term": "Tirano",
+          "original": "Greek: τύραννος (tyrannos)",
+          "note": "En el uso griego un tirano es un gobernante que tiene el poder sin título legítimo, sea cruel o no. El libro llama tyrannos a Antíoco de principio a fin, y señala así el gobierno mismo como ilegítimo."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "El quinto hermano se adelanta por su propia voluntad y lo retuercen en la catapulta hasta descoyuntarle los miembros, y él llama favor a la tortura; al sexto, todavía un muchacho, lo estiran en la rueda, lo asan y lo atraviesan con punzones al rojo, y le dice a Antíoco que seis muchachos han derrocado su tiranía."
     },
     {
       "id": "4_maccabees-12",
@@ -580,18 +758,34 @@
         "Después de haber pronunciado estas imprecaciones, se arrojó a los braseros y así terminó su vida. (12:19)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "2 Macabeos 7:24-26: El rey insta con juramentos al más joven y pide a la madre que lo convenza.",
+        "Daniel 1:3-5: Jóvenes de linaje real son preparados para el servicio en el palacio del rey.",
+        "Proverbios 1:10: Hijo mío, si los pecadores te quieren engañar, no consientas.",
+        "Hechos 21:40: Pablo se dirige a la multitud en lengua hebrea."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Amigos",
+          "original": "Greek: φίλοι (philoi)",
+          "note": "Amigos del Rey era un rango formal en las cortes helenísticas, un cuerpo de consejeros y oficiales con títulos y privilegios. La mayúscula señala un cargo, no un afecto."
+        },
+        {
+          "term": "La lengua hebrea",
+          "original": "Greek: Εβραΐς (Hebrais)",
+          "note": "La expresión nombra la lengua de los judíos, que en esta época podía ser el hebreo o el arameo que entonces se hablaba en Judea. En cualquier caso mantuvo la conversación fuera del alcance de la corte de habla griega."
+        },
+        {
+          "term": "Braseros",
+          "original": "Greek: τήγανον (teganon)",
+          "note": "Una paila de metal abierta, puesta sobre brasas encendidas o llena de ellas, usada para cocinar y para calentar una habitación. Aquí ese mismo equipo se vuelve instrumento de ejecución."
+        },
+        {
+          "term": "Imprecaciones",
+          "original": "Greek: αρά (ara)",
+          "note": "Una maldición formal que llama a Dios a ejecutar una pena, distinta del insulto y de la injuria. Los tratados y los juramentos de la época se cerraban con maldiciones así, como cláusulas obligatorias."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "Antíoco intenta ganarse al séptimo y más joven de los hermanos con su amistad y un puesto en su gobierno, y manda llamar a la madre, pero después de que ella le habla en lengua hebrea el muchacho denuncia al rey, llama a Dios para que vengue a la nación y se arroja a los braseros."
     },
     {
       "id": "4_maccabees-13",
@@ -629,18 +823,34 @@
         "Pero aunque la naturaleza, la compañía y los hábitos virtuosos habían aumentado el afecto de los lazos familiares, los que quedaban resistieron por causa de la piedad, viendo a sus hermanos maltratados y torturados hasta la muerte. (13:27)."
       ],
       "crossRefs": [
-        "2 Macabeos 6:18–31: El martirio de Eleazar.",
-        "2 Macabeos 7:1–42: Los siete hermanos y su madre.",
-        "Hebreos 11:35: Los mártires esperan la resurrección."
+        "Daniel 3:19-27: Tres jóvenes arrojados al horno y sin daño alguno por el fuego.",
+        "Hebreos 11:17-19: Abraham ofrece a Isaac, contando con que Dios puede resucitar a los muertos.",
+        "Efesios 6:11-13: Vístanse de toda la armadura de Dios para estar firmes contra los poderes.",
+        "Salmos 133:1: Qué bueno es que los hermanos vivan juntos en armonía."
       ],
       "translationNotes": [
         {
-          "term": "Mártir",
-          "original": "Hebrew: עֵד (ʿēd, 'witness'), Greek: μάρτυς (mártys), Aramaic: סהדא (sahdāʾ)",
-          "note": "Originalmente significa «testigo»; en la tradición judía y cristiana, aquel que da testimonio de Dios soportando fielmente la muerte."
+          "term": "Los tres jóvenes en Asiria",
+          "original": "Greek: Ασσυρία (Assyria)",
+          "note": "Daniel 3 sitúa el horno en Babilonia, bajo Nabucodonosor. Los escritores griegos de esta época usaban a menudo Asiria como nombre amplio para toda Mesopotamia y sus imperios."
+        },
+        {
+          "term": "Toda la armadura",
+          "original": "Greek: πανοπλία (panoplia)",
+          "note": "El equipo completo de un soldado de infantería pesada: casco, coraza, grebas, escudo, lanza y espada. La palabra significa todo el equipo, y Efesios 6:11 la usa del mismo modo."
+        },
+        {
+          "term": "De siete torres",
+          "original": "Greek: επτάπυργος (heptapyrgos)",
+          "note": "Los puertos antiguos se protegían con rompeolas que llevaban torres construidas a lo largo. Llamar a su razón de siete torres cuenta una torre por cada hermano."
+        },
+        {
+          "term": "El afecto de los lazos familiares",
+          "original": "Greek: φιλαδελφία (philadelphia)",
+          "note": "Literalmente amor de hermano. En el uso griego significaba el vínculo entre hermanos de verdad y no una buena voluntad general, y por eso el autor lo trata como una pasión propia."
         }
       ],
-      "keyTakeaway": "Eleazar, los siete hermanos y su madre se convierten en modelos del triunfo de la razón sobre el miedo y el dolor mediante la fe en Dios."
+      "keyTakeaway": "El autor argumenta desde los siete hermanos que la recta razón gobierna, y la compara con torres que guardan un puerto, cuenta cómo se alentaban unos a otros con los tres jóvenes en el horno y con Isaac, y remonta su afecto fraterno a un mismo vientre, una misma crianza y una misma formación en la ley."
     },
     {
       "id": "4_maccabees-14",
@@ -671,18 +881,34 @@
         "Pero la simpatía por sus hijos no conmovió a la madre de los jóvenes; ella tenía la misma mente que Abraham. (14:20)."
       ],
       "crossRefs": [
-        "Sabiduría 3:1–9: Las almas de los justos están en la mano de Dios.",
-        "Apocalipsis 12:11: Vencieron por la palabra de su testimonio.",
-        "Juan 16:33: Ánimo, porque Cristo ha vencido al mundo."
+        "Génesis 2:1-3: Los siete días de la creación terminados y el séptimo santificado.",
+        "Deuteronomio 32:11: Un águila revuelve su nido y revolotea sobre sus polluelos.",
+        "Mateo 23:37: Una gallina que junta a sus pollitos bajo sus alas.",
+        "Génesis 22:1-3: Abraham se levanta temprano y sale a ofrecer a Isaac por orden de Dios."
       ],
       "translationNotes": [
         {
-          "term": "Razón devota",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Expresión que significa el uso piadoso del pensamiento racional bajo la Ley de Dios; el concepto central del libro."
+          "term": "Coro",
+          "original": "Greek: χορός (choros)",
+          "note": "En el teatro griego el coro cantaba y se movía como un solo cuerpo entrenado. La imagen dice que los siete actuaron con una sola voz ensayada y no que simplemente estuvieran de acuerdo."
+        },
+        {
+          "term": "Animales irracionales",
+          "original": "Greek: άλογος (alogos)",
+          "note": "Una sola palabra griega, la negación de logos. Significa sin razón o sin palabra, y es el término corriente para los animales frente a los seres humanos."
+        },
+        {
+          "term": "Las abejas que defienden la colmena",
+          "original": "Greek: μέλισσα (melissa)",
+          "note": "Los escritores griegos tomaban a las abejas como el ejemplo corriente de una comunidad ordenada que se defiende hasta la muerte. El dardo de hierro es el aguijón."
+        },
+        {
+          "term": "Simpatía",
+          "original": "Greek: συμπάθεια (sympatheia)",
+          "note": "Literalmente sentir con. El pensamiento griego la usaba para el vínculo natural por el cual las partes de un mismo cuerpo se afectan entre sí, que es como el autor explica la atracción de un padre hacia su hijo."
         }
       ],
-      "keyTakeaway": "Las reflexiones finales exaltan a los mártires como ejemplos eternos de la victoria de la razón y la vindicación de Dios sobre los fieles."
+      "keyTakeaway": "El autor alaba a los siete hermanos como un coro en armonía, sin que ninguno rehúya la muerte, y luego pasa a su madre, ilustra el amor de los padres con las aves que guardan sus nidos y las abejas que defienden la colmena, y dice que ella es del mismo sentir que Abraham."
     },
     {
       "id": "4_maccabees-15",
@@ -725,18 +951,34 @@
         "así tú, oh guardiana de la ley, abrumada por todos lados por el torrente de tus pasiones y los vientos violentos,el tormento de tus hijos, soportaste noblemente y resististe las tormentas invernales que arreciaban por causa de la piedad. (15:32)."
       ],
       "crossRefs": [
-        "Sabiduría 3:1–9: Las almas de los justos están en la mano de Dios.",
-        "Apocalipsis 12:11: Vencieron por la palabra de su testimonio.",
-        "Juan 16:33: Ánimo, porque Cristo ha vencido al mundo."
+        "Génesis 7:17-18: El arca levantada y llevada sobre las aguas del diluvio.",
+        "Génesis 22:15-18: Porque Abraham no retuvo a su hijo, Dios jura bendecirlo.",
+        "Isaías 49:15: Se le pregunta a una madre si puede olvidar al hijo que amamanta.",
+        "1 Samuel 1:27-28: Ana le devuelve al Señor el hijo que había pedido."
       ],
       "translationNotes": [
         {
-          "term": "Razón devota",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Expresión que significa el uso piadoso del pensamiento racional bajo la Ley de Dios; el concepto central del libro."
+          "term": "Dos votos",
+          "original": "Greek: ψῆφος (psephos)",
+          "note": "Un psephos era la piedrecilla o la ficha que un juez griego echaba en una urna para votar. Sostener dos votos pinta a la madre como una jueza que escoge entre dos sentencias para sus hijos."
+        },
+        {
+          "term": "Sala del consejo",
+          "original": "Greek: βουλευτήριον (bouleuterion)",
+          "note": "El edificio donde se reunía el consejo de una ciudad griega para oír los alegatos y decidir. Su alma se dibuja como una sala así, con la naturaleza y la familia alegando ante ella como abogados."
+        },
+        {
+          "term": "Sirenas y cisnes",
+          "original": "Greek: Σειρῆνες (Seirenes), κύκνος (kyknos)",
+          "note": "En los relatos griegos el canto de las sirenas atraía a los marineros a la muerte, y se decía que los cisnes cantaban a la hora de morir. Los dos eran proverbio de un sonido que ningún oyente podía dejar de escuchar."
+        },
+        {
+          "term": "Arca",
+          "original": "Greek: κιβωτός (kibotos)",
+          "note": "La palabra griega significa un cofre o una caja, y el Antiguo Testamento griego la usa por igual para la nave de Noé y para el arca de la alianza. La imagen es la de un recipiente que mantiene intacta su carga a través de un diluvio."
         }
       ],
-      "keyTakeaway": "Las reflexiones finales exaltan a los mártires como ejemplos eternos de la victoria de la razón y la vindicación de Dios sobre los fieles."
+      "keyTakeaway": "Puesta a escoger entre la piedad y conservar vivos a sus hijos un poco más, la madre escoge la piedad, alienta a cada hijo hacia la muerte y ve quemar su carne sin llorar; el autor la pinta sosteniendo dos votos y firme como el arca de Noé contra el diluvio."
     },
     {
       "id": "4_maccabees-16",
@@ -772,18 +1014,35 @@
         "Sabían también que quienes mueren por causa de Dios viven para Dios, como Abraham, Isaac, Jacob y todos los patriarcas. (16:25)."
       ],
       "crossRefs": [
-        "Sabiduría 3:1–9: Las almas de los justos están en la mano de Dios.",
-        "Apocalipsis 12:11: Vencieron por la palabra de su testimonio.",
-        "Juan 16:33: Ánimo, porque Cristo ha vencido al mundo."
+        "Daniel 6:16-23: Daniel arrojado al foso de los leones y sacado sin daño.",
+        "Daniel 1:6-7: A Ananías, Misael y Azarías se les dan los nombres babilonios por los que se los conoce.",
+        "Génesis 22:6-8: Abraham lleva el fuego y el cuchillo mientras Isaac camina a su lado.",
+        "Rut 1:20-21: Noemí pide que la llamen Mara, y dice que salió llena y volvió vacía.",
+        "Mateo 22:31-32: Dios es el Dios de Abraham, de Isaac y de Jacob, y no es Dios de muertos."
       ],
       "translationNotes": [
         {
-          "term": "Razón devota",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Expresión que significa el uso piadoso del pensamiento racional bajo la Ley de Dios; el concepto central del libro."
+          "term": "Ananías, Azarías y Misael",
+          "original": "Hebrew: חֲנַנְיָה, עֲזַרְיָה, מִישָׁאֵל (Hananyah, Azaryah, Mishael) - Greek: Ανανίας, Αζαρίας, Μισαήλ (Ananias, Azarias, Misael)",
+          "note": "Estos son los nombres hebreos de los tres hombres. Daniel 1:7 registra los nombres babilonios que les dieron en la corte, Sadrac, Mesac y Abed-nego, que es como la mayoría de los lectores los conocen."
+        },
+        {
+          "term": "Una mente como el diamante",
+          "original": "Greek: αδάμας (adamas)",
+          "note": "Literalmente invencible. Los escritores griegos la usaban para la sustancia más dura que conocían, y la palabra pasó al español como adamantino y como diamante."
+        },
+        {
+          "term": "Dar testimonio",
+          "original": "Greek: μάρτυς (martys)",
+          "note": "La palabra es un término de tribunal para el testigo que declara. De ella viene la palabra mártir, porque a los que declaraban bajo amenaza los mataban por ese testimonio."
+        },
+        {
+          "term": "Horno de fuego",
+          "original": "Greek: κάμινος (kaminos)",
+          "note": "Un horno de cocer o de fundir, para cerámica, cal o metal, no un horno de casa. Esos hornos se construían bastante grandes como para arrojar dentro a una persona."
         }
       ],
-      "keyTakeaway": "Las reflexiones finales exaltan a los mártires como ejemplos eternos de la victoria de la razón y la vindicación de Dios sobre los fieles."
+      "keyTakeaway": "El autor pone los leones de Daniel y el horno de Misael frente al amor materno de aquella madre, compone el lamento que ella nunca dijo, e informa de su encargo a sus hijos, en lengua hebrea, de pelear por la ley de los antepasados como Abraham, Daniel y los tres hombres en el fuego."
     },
     {
       "id": "4_maccabees-17",
@@ -818,18 +1077,34 @@
         "y esto los hizo magnánimos y valientes para la batalla de infantería y el asedio, y devastó y conquistó a todos sus enemigos. (17:24)."
       ],
       "crossRefs": [
-        "Sabiduría 3:1–9: Las almas de los justos están en la mano de Dios.",
-        "Apocalipsis 12:11: Vencieron por la palabra de su testimonio.",
-        "Juan 16:33: Ánimo, porque Cristo ha vencido al mundo."
+        "Deuteronomio 33:3: Todos sus santos están en tu mano.",
+        "Génesis 15:5: A Abraham se le manda contar las estrellas, porque así será su descendencia.",
+        "1 Corintios 9:24-25: Los corredores compiten en el estadio, y todo atleta se domina a sí mismo por una corona perecedera.",
+        "Isaías 53:10-12: La vida del siervo hecha ofrenda por el pecado, llevando el pecado de muchos."
       ],
       "translationNotes": [
         {
-          "term": "Razón devota",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Expresión que significa el uso piadoso del pensamiento racional bajo la Ley de Dios; el concepto central del libro."
+          "term": "Los atletas y la corona",
+          "original": "Greek: αθλητής (athletes), στέφανος (stephanos)",
+          "note": "Un atleta es el que compite por un premio, de athlon, premio. El stephanos era una corona tejida, no una corona de metal, y se la ponía al vencedor el juez de los juegos."
+        },
+        {
+          "term": "Sacrificio expiatorio",
+          "original": "Greek: ιλαστήριον (hilasterion)",
+          "note": "La palabra nombra el lugar o el medio de la expiación. El Antiguo Testamento griego la usa para la cubierta del arca de la alianza, donde se rociaba la sangre en el día de la expiación."
+        },
+        {
+          "term": "Inscribir en su tumba",
+          "original": "Greek: επίγραμμα (epigramma)",
+          "note": "Las tumbas griegas y judías llevaban inscripciones públicas breves con el nombre de los muertos y la razón por la que se los honraba. Un epitafio era el modo en que una ciudad dejaba registrada una memoria."
+        },
+        {
+          "term": "Todos los consagrados",
+          "original": "Greek: ηγιασμένοι (hegiasmenoi)",
+          "note": "La cita sigue la forma griega de Deuteronomio 33:3. Consagrados expresa un participio que significa los que han sido hechos santos, es decir, apartados para Dios."
         }
       ],
-      "keyTakeaway": "Las reflexiones finales exaltan a los mártires como ejemplos eternos de la victoria de la razón y la vindicación de Dios sobre los fieles."
+      "keyTakeaway": "Los guardias informan de que la madre se arrojó a las llamas antes que dejarse tocar; el autor propone un epitafio para el sacerdote, la mujer y los siete hijos, presenta su prueba como un combate en el que Dios es el vencedor, y dice que la muerte de ellos rescató y purificó a la nación."
     },
     {
       "id": "4_maccabees-18",
@@ -864,18 +1139,35 @@
         "a quien sea la gloria por los siglos de los siglos. Amén. (18:24)."
       ],
       "crossRefs": [
-        "Sabiduría 3:1–9: Las almas de los justos están en la mano de Dios.",
-        "Apocalipsis 12:11: Vencieron por la palabra de su testimonio.",
-        "Juan 16:33: Ánimo, porque Cristo ha vencido al mundo."
+        "Isaías 43:2: Aunque pases por el fuego, no te quemarás.",
+        "Salmos 34:19: Muchas son las aflicciones del justo, pero el Señor lo libra de todas ellas.",
+        "Ezequiel 37:3: El Señor pregunta si estos huesos secos pueden vivir.",
+        "Deuteronomio 32:39: Yo doy la muerte y doy la vida; yo hiero y yo sano.",
+        "1 Macabeos 6:1-4: Antíoco marcha a Persia y es rechazado del templo de Elimaida."
       ],
       "translationNotes": [
         {
-          "term": "Razón devota",
-          "original": "Hebrew: חָכְמָה (ḥokmāh, 'wisdom'), Greek: εὐσεβὴς λογισμός (eusebḗs logismós), Aramaic: רעיונא חסידא (raʿyonāʾ ḥasīdāʾ)",
-          "note": "Expresión que significa el uso piadoso del pensamiento racional bajo la Ley de Dios; el concepto central del libro."
+          "term": "La costilla de la que fue formada la mujer",
+          "original": "Greek: πλευρά (pleura)",
+          "note": "La expresión mira atrás a Génesis 2:21-22. La palabra griega significa a la vez costilla y costado, así que el mismo término cubre el hueso y el flanco del que sale."
+        },
+        {
+          "term": "Marchó contra los persas",
+          "original": "Greek: Πέρσαι (Persai)",
+          "note": "Persas nombra a los pueblos de las satrapías orientales del reino seléucida. Antíoco hizo campaña allí para sacar dinero de las tesorerías de los templos de provincia."
+        },
+        {
+          "term": "La Ley y los Profetas",
+          "original": "Greek: ο νόμος και οι προφῆται (ho nomos kai hoi prophetai)",
+          "note": "El nombre judío corriente para las Escrituras en dos partes: los cinco libros de Moisés y los libros proféticos. La lista de lecciones del padre toma de las dos, y además de los salmos y los proverbios."
+        },
+        {
+          "term": "Celo",
+          "original": "Greek: ζῆλος (zelos)",
+          "note": "Ardor encendido por una causa. Números 25:7-13 registra el acto de Fineés al que apunta aquí la palabra, y la misma raíz griega da en español tanto celo como celos."
         }
       ],
-      "keyTakeaway": "Las reflexiones finales exaltan a los mártires como ejemplos eternos de la victoria de la razón y la vindicación de Dios sobre los fieles."
+      "keyTakeaway": "El autor cierra encargando a los hijos de Israel que guarden la ley e informa de que Antíoco, incapaz de forzarlos, deja Jerusalén y marcha contra los persas; la madre recuerda su propia pureza y al marido que enseñó a sus hijos acerca de Abel, Isaac, José, Fineés y Daniel."
     }
   ]
 }
