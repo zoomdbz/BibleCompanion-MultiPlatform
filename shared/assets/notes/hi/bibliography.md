@@ -34,7 +34,7 @@
 
 - *Septuaginta: id est Vetus Testamentum Graece iuxta LXX interpretes.* Edited by Alfred Rahlfs; revised by Robert Hanhart. Editio altera. Stuttgart: Deutsche Bibelgesellschaft, 2006. Original Rahlfs edition published 1935. [German Bible Society edition page](https://www.die-bibel.de/en/septuagint-lxx-publications)
 
-## पितृसत्तात्मक एवं आरंभिक मसीही स्रोत
+## कलीसियाई पिताओं के एवं आरंभिक मसीही स्रोत
 
 - Eusebius of Caesarea. *Ecclesiastical History.* 2 vols. Vol. I, Books 1-5, translated by Kirsopp Lake, Loeb Classical Library 153, 1926; Vol. II, Books 6-10, translated by J. E. L. Oulton, Loeb Classical Library 265, 1932. Cambridge, MA: Harvard University Press. [Vol. I](https://www.loebclassics.com/abstract/LCL153/1926/volume.xml) | [Vol. II](https://www.loebclassics.com/abstract/LCL265/1932/volume.xml) | [Free older translation](https://www.newadvent.org/fathers/2501.htm)
 
