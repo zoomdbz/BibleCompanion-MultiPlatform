@@ -43,14 +43,25 @@
       ],
       "crossRefs": [
         "Salmos 33:6: Pela *palavra* do SENHOR os céus foram feitos.",
-        "João 1:1–3: No princípio era a *palavra* (logos); todas as coisas vieram a existir por meio da *palavra*.",
-        "Hebreus 11:3: Pela fé entendemos que o universo foi formado pela *palavra* de Deus."
+        "João 1:1-3: No princípio era a *palavra* (logos); todas as coisas vieram a existir por meio da *palavra*.",
+        "Hebreus 11:3: Pela fé entendemos que o universo foi formado pela *palavra* de Deus.",
+        "João 1:1: No princípio era a Palavra, a Palavra estava com Deus, e a Palavra era Deus. João retoma deliberadamente Bereshit (בְּרֵאשִׁית) com a expressão grega Ἐν ἀρχῇ."
       ],
       "translationNotes": [
         {
-          "term": "*palavra*",
-          "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
-          "note": "Mensagem, razão ou comunicação ordenada; não meramente sons falados."
+          "term": "Bereshit / No princípio",
+          "original": "Hebrew: בְּרֵאשִׁית (Bereshit), Greek (LXX): Ἐν ἀρχῇ (En archē), Aramaic: בְּקַדְמִין (b'qadmin)",
+          "note": "A palavra de abertura da Bíblia Hebraica. Ela é formada pelo prefixo ב (bet, 'em') ligado a רֵאשִׁית (reshit, 'princípio, primeiro, principal'), que por sua vez deriva de רֹאשׁ (rosh, 'cabeça'). A Septuaginta traduz a expressão por Ἐν ἀρχῇ (En archē), exatamente a abertura que João reutiliza em João 1:1. Uma tradição interpretativa messiânica e do movimento Raízes Hebraicas lê os seis pictogramas paleo-hebraicos de Bereshit como uma mensagem cristológica oculta: ב (Bet) = tenda ou casa; ר (Resh) = cabeça ou pessoa; א (Aleph) = Deus, o Forte; ש (Shin) = destruir ou consumir; י (Yod) = mão ou obra; ת (Tav) = cruz ou aliança. Lidas em conjunto, as letras podem ser parafraseadas assim: 'O Filho de Deus é destruído por Sua própria mão sobre uma cruz.' Essa leitura pictográfica não é a tradução acadêmica predominante; a lexicografia hebraica padrão analisa Bereshit como prefixo mais substantivo, não como uma sequência de ícones. A tradição, porém, tem interesse hermenêutico porque destaca temas, como Filho, sacrifício e aliança, que o restante das Escrituras associa explicitamente a Gênesis 1, onde o Espírito paira, a Palavra fala, e a criação começa por meio daquele que o Novo Testamento identifica como Cristo (João 1:3; Colossenses 1:16; Hebreus 1:2). Essa leitura deve ser entendida como um midrash devocional que conduz o leitor à cruz já prenunciada no primeiro versículo da Bíblia."
+        },
+        {
+          "term": "Sem forma e vazia",
+          "original": "Hebrew: תֹהוּ וָבֹהוּ (tohu va-vohu) - מְרַחֶפֶת (merachepheth, hovering)",
+          "note": "As duas palavras formam um par rimado e aparecem juntas somente aqui e em Jeremias 4:23. Tohu, isoladamente, indica uma extensão desolada e sem caminhos; é a palavra usada em Isaías 45:18 quando o texto diz que Deus não criou a terra para ser assim. Merachepheth, o pairar do Espírito sobre as águas em 1:2, aparece apenas mais uma vez em toda a Bíblia, em Deuteronômio 32:11, para descrever uma águia que adeja sobre o ninho."
+        },
+        {
+          "term": "Expansão",
+          "original": "Hebrew: רָקִיעַ (raqia)",
+          "note": "Raqia vem de raqa, 'bater ou martelar até tornar fino', o verbo usado para martelar ouro em lâminas para o éfode (Êxodo 39:3) e para transformar incensários em revestimento para o altar (Números 16:38-39). O grego da Septuaginta traduziu o termo por stereoma, algo tornado sólido, e o latim por firmamentum, origem da palavra portuguesa 'firmamento'. Gênesis 1:6-8 coloca essa expansão entre as águas e a chama de céu."
         },
         {
           "term": "Dia",
@@ -58,9 +69,19 @@
           "note": "Um período de tempo que pode significar um dia literal de 24 horas, a luz do dia, ou uma era, idade ou época. Em Gênesis 1, yom é acompanhado da expressão וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר (vayehi-erev vayehi-boker, “e houve tarde e houve manhã”) para os Dias 1 a 6, marcando-os como períodos completos. No Dia 7, porém, essa expressão está ausente, deixando o sétimo dia em aberto. Em outros lugares, yom pode descrever um único dia (Gênesis 1:5), um período indefinido (Gênesis 2:4), ou uma era profética como “o dia do Senhor” (Salmo 95:8; Joel 2:31). Essa amplitude de significado é a razão pela qual alguns leem os dias da criação como períodos literais de 24 horas enquanto outros os entendem como longas épocas consistentes com a idade antiga da Terra."
         },
         {
+          "term": "Para sinais e para tempos determinados",
+          "original": "Hebrew: לְאֹתֹת וּלְמוֹעֲדִים (le-othoth u-le-mo'adim)",
+          "note": "Mo'ed não significa clima nem as quatro estações do ano. É um tempo marcado para encontro e a palavra que Levítico 23 usa para cada festa do calendário, os tempos determinados do SENHOR. Assim, em 1:14, os luminares recebem uma função: servem de relógio para o ano festivo. Por isso a Páscoa ocorre na lua cheia, e o mês começa quando a lua nova é avistada."
+        },
+        {
           "term": "Céus",
           "original": "Hebrew: שָׁמַיִם (shamayim) - Greek: οὐρανοί (ouranoi) - Aramaic: ܫܡܝܐ (shmayya)",
           "note": "Céus ou expansão cósmica; um termo amplo, não um local único."
+        },
+        {
+          "term": "Grandes criaturas marinhas",
+          "original": "Hebrew: תַּנִּינִם (tanninim)",
+          "note": "Em outras passagens, tannin significa serpente ou grande criatura aquática: a vara de Arão se torna uma diante do faraó (Êxodo 7:9-12), o Salmo 74:13 diz que Deus quebra as cabeças dos tanninim nas águas, e Isaías 27:1 menciona a serpente fugitiva. Gênesis 1:21 é o único ponto do relato em que um tipo específico de animal é destacado e nomeado no momento de sua criação; o verbo empregado é bara, o mesmo de 1:1."
         },
         {
           "term": "Imagem",
@@ -68,9 +89,9 @@
           "note": "Representação ou semelhança ligada a governo e administração, não uma forma física."
         },
         {
-          "term": "Descanso",
-          "original": "Hebrew: שָׁבַת / שַׁבָּת (shavat / shabbat) - Greek: σάββατον (sabbaton) - Aramaic: שבתא (shabta)",
-          "note": "Cessar; o sétimo dia é separado como presente e marco no tempo."
+          "term": "*palavra*",
+          "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
+          "note": "Mensagem, razão ou comunicação ordenada; não meramente sons falados."
         }
       ],
       "keyTakeaway": "Deus cria a luz e a separa das trevas, estabelece o céu e o mar, produz a vegetação, coloca o sol, a lua e as estrelas no céu e cria as criaturas marinhas e as aves; depois Deus faz a humanidade à sua imagem, homem e mulher, e lhes dá domínio sobre todos os seres vivos e plantas para alimento.",
@@ -116,34 +137,49 @@
       ],
       "crossRefs": [
         "Salmos 33:6: Pela *palavra* do SENHOR os céus foram feitos.",
-        "João 1:1–3: No princípio era a *palavra* (logos); todas as coisas vieram a existir por meio da *palavra*.",
+        "João 1:1-3: No princípio era a *palavra* (logos); todas as coisas vieram a existir por meio da *palavra*.",
         "Hebreus 11:3: Pela fé entendemos que o universo foi formado pela *palavra* de Deus."
       ],
       "translationNotes": [
         {
-          "term": "*palavra*",
-          "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
-          "note": "Mensagem, razão ou comunicação ordenada; não meramente sons falados."
-        },
-        {
-          "term": "Dia",
-          "original": "Hebrew: יוֹם (yom) - Greek: ἡμέρα (hemera) - Aramaic: ܝܘܡܐ (yoma)",
-          "note": "Um período de tempo que pode significar um dia literal de 24 horas, a luz do dia, ou uma era, idade ou época. Em Gênesis 1, yom é acompanhado da expressão וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר (vayehi-erev vayehi-boker, “e houve tarde e houve manhã”) para os Dias 1 a 6, marcando-os como períodos completos. No Dia 7, porém, essa expressão está ausente, deixando o sétimo dia em aberto. Em outros lugares, yom pode descrever um único dia (Gênesis 1:5), um período indefinido (Gênesis 2:4), ou uma era profética como “o dia do Senhor” (Salmo 95:8; Joel 2:31). Essa amplitude de significado é a razão pela qual alguns leem os dias da criação como períodos literais de 24 horas enquanto outros os entendem como longas épocas consistentes com a idade antiga da Terra."
-        },
-        {
-          "term": "Céus",
-          "original": "Hebrew: שָׁמַיִם (shamayim) - Greek: οὐρανοί (ouranoi) - Aramaic: ܫܡܝܐ (shmayya)",
-          "note": "Céus ou expansão cósmica; um termo amplo, não um local único."
-        },
-        {
-          "term": "Imagem",
-          "original": "Hebrew: צֶלֶם (tselem) - Greek: εἰκών (eikon) - Aramaic: ܨܠܡܐ (tsalma)",
-          "note": "Representação ou semelhança ligada a governo e administração, não uma forma física."
-        },
-        {
           "term": "Descanso",
           "original": "Hebrew: שָׁבַת / שַׁבָּת (shavat / shabbat) - Greek: σάββατον (sabbaton) - Aramaic: שבתא (shabta)",
           "note": "Cessar; o sétimo dia é separado como presente e marco no tempo."
+        },
+        {
+          "term": "Adão e adamah",
+          "original": "Hebrew: אָדָם (adam) - אֲדָמָה (adamah, ground)",
+          "note": "Em 2:7, ha-adam, 'o homem', é formado do pó de ha-adamah, 'a terra', e as duas palavras têm a mesma raiz. O português não reproduz esse vínculo, de modo que o leitor não percebe no nome a matéria da qual o homem foi formado. O mesmo par reaparece na sentença de 3:19: ele volta à adamah porque dela foi tirado."
+        },
+        {
+          "term": "O fôlego de vida",
+          "original": "Hebrew: נִשְׁמַת חַיִּים (nishmath chayyim) - נֶפֶשׁ חַיָּה (nephesh chayyah)",
+          "note": "Neshamah é o fôlego aspirado pelo nariz, e 2:7 diz que ele foi soprado nas narinas. Nephesh chayyah, aquilo em que o homem então se torna, é traduzido como 'alma vivente' ou 'ser vivente'; a mesma expressão já havia sido usada para os animais em 1:20-21 e 1:24. O que distingue o homem em 2:7 não é a expressão no fim do versículo, mas o sopro no início."
+        },
+        {
+          "term": "Os quatro rios",
+          "original": "Hebrew: פִּישׁוֹן (Pishon) - גִּיחוֹן (Gichon) - חִדֶּקֶל (Chiddeqel, Tigris) - פְּרָת (Perath, Euphrates)",
+          "note": "Gênesis 2:10-14 nomeia quatro rios e situa cada um deles. Dois ainda aparecem no mapa: o Hidequel é o Tigre, que o texto coloca a leste de Assur, e o Perate é o Eufrates. O Pisom contorna Havilá, onde o texto menciona ouro, bdélio e ônix, e o Giom contorna Cuxe; hoje não é possível traçar no terreno o curso desses dois rios. O bdélio é uma resina aromática clara, mencionada novamente em Números 11:7 para descrever a cor do maná."
+        },
+        {
+          "term": "Cultivá-lo e guardá-lo",
+          "original": "Hebrew: לְעָבְדָהּ וּלְשָׁמְרָהּ (le-ovdah u-le-shomrah)",
+          "note": "Avad significa trabalhar ou servir, e shamar significa guardar ou vigiar. Os dois verbos voltam a aparecer juntos em Números 3:7-8 e 18:5-6, onde descrevem o dever dos levitas para com o tabernáculo: servi-lo e guardá-lo. Em 2:15, o homem recebe uma tarefa expressa por essas mesmas duas palavras antes que algo tenha dado errado."
+        },
+        {
+          "term": "Uma ajuda que lhe corresponda",
+          "original": "Hebrew: עֵזֶר כְּנֶגְדּוֹ (ezer kenegdo)",
+          "note": "A palavra portuguesa 'ajuda' pode sugerir um assistente subordinado, mas o hebraico não traz essa ideia. Ezer aparece cerca de vinte vezes no Antigo Testamento, e na maioria delas se refere ao próprio Deus: 'meu auxílio e meu escudo' (Salmo 33:20), 'o Deus de seu pai, que o ajuda' (Gênesis 49:25) e 'o nosso auxílio está no nome do SENHOR' (Salmo 124:8). Kenegdo significa 'correspondente a ele', alguém diante dele. Em 2:18 e 2:20, uma palavra de força é unida a uma palavra de correspondência."
+        },
+        {
+          "term": "Ish e ishshah",
+          "original": "Hebrew: אִישׁ (ish, man) - אִשָּׁה (ishshah, woman)",
+          "note": "Gênesis 2:23 constrói uma frase pelo som: ela será chamada ishshah porque foi tirada do ish. As duas palavras hebraicas diferem apenas por uma terminação; assim, o nome e sua razão podem ser ouvidos de uma forma que nenhum par de palavras em português reproduz. Em 2:24 vem a conclusão sobre deixar os pais e unir-se à mulher, citada por Jesus em Mateus 19:5 e por Paulo em Efésios 5:31."
+        },
+        {
+          "term": "Nus e sem vergonha",
+          "original": "Hebrew: עֲרוּמִּים (arummim, naked) - עָרוּם (arum, shrewd)",
+          "note": "A última palavra de 2:25 e uma das primeiras de 3:1 são quase gêmeas em hebraico. O casal está arummim, 'nu', e a serpente é arum, 'astuta'. A divisão entre capítulos fica no meio, mas em um rolo as palavras aparecem lado a lado; esse jogo de palavras funciona como a dobradiça que o leitor em português não consegue perceber."
         }
       ],
       "keyTakeaway": "Deus descansa no sétimo dia após concluir a criação, forma Adão do pó e o coloca no jardim do Éden com a instrução de não comer da árvore do conhecimento do bem e do mal, e cria uma mulher da costela de Adão como sua auxiliadora. Adão dá nome a todos os animais, dá nome à mulher, e os dois vivem juntos nus sem sentir vergonha.",
@@ -214,12 +250,12 @@
         {
           "term": "Comer pó",
           "original": "Hebrew: עָפָר תֹּאכַל (ʿafar toʾkhal), Greek (LXX): γῆν φάγῃ (gēn phagēi), Aramaic (Targum): תיכול עפרא (tekhol ʿafra)",
-          "note": "Uma expressão idiomática do antigo Oriente Próximo que significa humilhação, derrota ou ser rebaixado. É simbólico, não zoológico."
+          "note": "Uma expressão idiomática do antigo Oriente Próximo que significa humilhação, derrota ou ser rebaixado. É uma imagem simbólica, não uma descrição zoológica."
         },
         {
           "term": "Maldição",
           "original": "Hebrew: אָרַר (arar) - Greek: κατάρα (katara) - Aramaic: ܠܘܛܐ (luta)",
-          "note": "Uma penalidade ou dificuldade declarada; não um feitiço mágico."
+          "note": "Uma penalidade ou dificuldade declarada; não um feitiço."
         }
       ],
       "keyTakeaway": "Após comer o fruto proibido, as consequências são anunciadas e o homem e a mulher são expulsos do Éden.",
@@ -370,7 +406,7 @@
       ],
       "crossRefs": [
         "Hebreus 11:5: Pela fé Enoque foi trasladado para que não visse a morte.",
-        "Judas 1:14–15: Enoque profetizou sobre o julgamento.",
+        "Judas 1:14-15: Enoque profetizou sobre o julgamento.",
         "Gênesis 6:8: Noé acha graça aos olhos do SENHOR."
       ],
       "translationNotes": [
@@ -437,7 +473,7 @@
         "2 Pedro 2:5: Noé é chamado de pregador da justiça.",
         "Hebreus 11:7: Pela fé Noé construiu a arca.",
         "Gênesis 7:1: Deus diz a Noé para entrar na arca com sua família.",
-        "1 Enoque 6–11: História dos Vigilantes, gigantes e corrupção antes do dilúvio."
+        "1 Enoque 6-11: Relato dos Vigilantes, gigantes e corrupção antes do dilúvio."
       ],
       "translationNotes": [
         {
@@ -454,6 +490,11 @@
           "term": "Graça",
           "original": "Hebrew: חֵן (chen) - Greek: χάρις (charis) - Aramaic: ܛܝܒܘܬܐ (ṭayyebuta)",
           "note": "Graça, aceitação ou bondade concedida por Deus."
+        },
+        {
+          "term": "côvado",
+          "original": "Hebrew: אַמָּה (ammah); Greek: πῆχυς (pechus)",
+          "note": "A distância do cotovelo à ponta dos dedos, cerca de 18 polegadas (45 cm). A medida bíblica padrão para edifícios, como a arca de Noé, o tabernáculo e o templo de Salomão, e para corpos. Golias tinha 'seis côvados e um palmo' de altura, cerca de 9 pés e 9 polegadas. Um 'côvado longo' (Ezequiel 40:5) acrescentava a largura de uma mão."
         }
       ],
       "keyTakeaway": "Deus anuncia o julgamento por meio de um dilúvio, mas escolhe Noé para preservar a vida por meio da obediência.",
@@ -501,7 +542,7 @@
         "E as águas do dilúvio cobriram a terra por 150 dias. (7:24)."
       ],
       "crossRefs": [
-        "Mateus 24:38–39: As pessoas estavam comendo e bebendo até que veio o dilúvio e as levou.",
+        "Mateus 24:38-39: As pessoas estavam comendo e bebendo até que veio o dilúvio e as levou.",
         "2 Pedro 3:6: O mundo foi inundado com água e pereceu.",
         "Gênesis 8:1: Deus se lembra de Noé e faz as águas baixarem."
       ],
@@ -515,6 +556,16 @@
           "term": "Arca",
           "original": "Hebrew: תֵּבָה (tebah) - Greek: κιβωτός (kibotos) - Aramaic: ܬܝܒܬܐ (taybta)",
           "note": "Uma grande embarcação em forma de caixa; o termo também é usado para o cesto do bebê Moisés."
+        },
+        {
+          "term": "Quinze côvados",
+          "original": "Hebrew: חֲמֵשׁ עֶשְׂרֵה אַמָּה (chamesh esreh ammah)",
+          "note": "Um côvado mede cerca de 18 polegadas; portanto, quinze côvados correspondem a aproximadamente 22 pés, ou 6,8 metros. Gênesis 6:15 informa que a arca tinha 30 côvados de altura, exatamente o dobro dessa medida. O versículo 20 indica quanto as águas ficaram acima do terreno elevado, não a profundidade total do dilúvio."
+        },
+        {
+          "term": "O décimo sétimo dia do segundo mês",
+          "original": "Hebrew: בְּשִׁבְעָה עָשָׂר יוֹם לַחֹדֶשׁ הַשֵּׁנִי (be-shivah asar yom la-chodesh ha-sheni)",
+          "note": "Gênesis data o dilúvio por mês e dia, e os números são internamente coerentes. As águas começam a subir no décimo sétimo dia do segundo mês (7:11), e a arca repousa no décimo sétimo dia do sétimo mês (8:4). São cinco meses, e tanto 7:24 quanto 8:3 atribuem 150 dias ao mesmo período, o que corresponde a meses de exatamente 30 dias. O ano é contado a partir da idade de Noé, não de um calendário nacional."
         }
       ],
       "keyTakeaway": "O dilúvio destrói todos os seres vivos fora da arca; apenas Noé, sua família e os animais que estavam com ele sobrevivem.",
@@ -562,7 +613,7 @@
       "crossRefs": [
         "Isaías 54:9: Como nos dias de Noé, Deus jura não cobrir a terra com águas de dilúvio novamente.",
         "Hebreus 11:7: A obediência de Noé condenou o mundo e salvou sua família.",
-        "Gênesis 9:11: Deus estabelece uma aliança de nunca mais destruir com um dilúvio."
+        "Gênesis 9:11: Deus estabelece uma aliança pela qual promete nunca mais destruir a terra com um dilúvio."
       ],
       "translationNotes": [
         {
@@ -574,6 +625,16 @@
           "term": "Holocausto",
           "original": "Hebrew: עֹלָה (olah) - Greek: ὁλοκαύτωμα (holokautōma) - Aramaic: ܩܘܪܒܢܐ ܕܡܘܩܕܐ (qurbana d-muqda)",
           "note": "Uma oferta totalmente consumida pelo fogo sobre o altar."
+        },
+        {
+          "term": "Os montes de Ararate",
+          "original": "Hebrew: הָרֵי אֲרָרָט (harei Ararat)",
+          "note": "Ararate é uma região, não um único pico. O nome hebraico corresponde a Urartu, o reino que os assírios combateram ao redor do lago Van, no leste da Anatólia. A Bíblia usa o nome dessa forma em outras duas passagens: os filhos de Senaqueribe fogem para a terra de Ararate (2 Reis 19:37), e Ararate é convocado como reino contra a Babilônia (Jeremias 51:27). O plural 'montes' indica uma cadeia montanhosa. O pico isolado no leste da Turquia hoje chamado monte Ararate recebeu o nome da região; Gênesis nomeia a cadeia."
+        },
+        {
+          "term": "Aroma agradável",
+          "original": "Hebrew: רֵיחַ הַנִּיחֹחַ (reyach hannichoach)",
+          "note": "Uma fórmula sacrificial fixa, não apenas uma descrição de cheiro. Nichoach vem da raiz nuach, 'descansar' ou 'repousar', a mesma raiz ligada ao nome de Noé. Essa é a expressão habitual para uma oferta aceita em Levítico e Números, e esta é sua primeira ocorrência."
         }
       ],
       "keyTakeaway": "As águas recuam, Noé deixa a arca e Deus promete não destruir toda a vida com um dilúvio novamente.",
@@ -634,15 +695,17 @@
         "Viveu, ao todo, 950 anos e morreu. (9:29)."
       ],
       "crossRefs": [
-        "Isaías 54:9: Deus relembra as águas de Noé e promete não inundar a terra novamente.",
-        "Atos 15:20: A instrução de abster-se de sangue aparece nas diretivas da igreja primitiva.",
-        "Gênesis 8:21–22: A promessa de que as estações regulares continuarão."
+        "Gênesis 8:21-22: A promessa do SENHOR depois do dilúvio de que a semeadura e a colheita, o frio e o calor, o verão e o inverno, o dia e a noite jamais cessarão.",
+        "Gênesis 10:6: Os quatro filhos de Cam são enumerados como Cuxe, Mizraim, Pute e Canaã; a maldição de 9:25 recai exatamente sobre um dos quatro e o nomeia.",
+        "Gênesis 10:15-19: A linhagem de Canaã é apresentada: Sidom, os hititas, os jebuseus, os amorreus, os girgaseus e os heveus, que ocupavam a região de Sidom a Gaza e até Sodoma; esse é o território atingido pela sentença de 9:25.",
+        "Atos dos Apóstolos 15:20: A carta enviada de Jerusalém ordena aos gentios que creem que se abstenham de sangue, a mesma restrição dada a Noé em 9:4.",
+        "Isaías 54:9: Deus relembra as águas de Noé e o juramento de que elas nunca mais cobririam a terra."
       ],
       "translationNotes": [
         {
           "term": "*aliança*",
           "original": "Hebrew: בְּרִית (berit) - Greek: διαθήκη (diathēkē) - Aramaic: ܕܝܬܝܩܐ (dyathiqa)",
-          "note": "Um compromisso formal e vinculante com obrigações e sinais; aqui feita com a humanidade e todas as criaturas vivas."
+          "note": "Um compromisso formal e vinculante com obrigações e sinais; aqui firmado com a humanidade e todas as criaturas vivas."
         },
         {
           "term": "Sangue",
@@ -653,6 +716,21 @@
           "term": "Sinal",
           "original": "Hebrew: אוֹת (ot) - Greek: σημεῖον (sēmeion) - Aramaic: ܐܬܐ (atha)",
           "note": "Marcador visível que memorializa uma declaração; aqui, o arco-íris para a aliança."
+        },
+        {
+          "term": "O arco na nuvem",
+          "original": "Hebrew: קֶשֶׁת (qeshet), bow",
+          "note": "A palavra usada em Gênesis 9:13 para o arco-íris é a palavra hebraica comum para o arco de guerra, a arma; não existe outra palavra para o arco visto no céu. Em todas as demais passagens das Escrituras, qeshet significa aquilo que o arqueiro retesa, como em Gênesis 21:20 e 2 Reis 13:15. O sinal colocado na nuvem é uma arma pendurada, apontada para longe do solo."
+        },
+        {
+          "term": "Quem derramar sangue humano",
+          "original": "Hebrew: דַּם (dam), blood",
+          "note": "Gênesis 9:5-6 é a primeira declaração nas Escrituras de que a comunidade deve responder a um homicídio. A razão é fundamentada no fato de o ser humano ter sido feito à imagem de Deus, não na posição social da vítima. Toda lei posterior sobre o assunto se apoia nisso: as cidades de refúgio em Números 35 e Deuteronômio 19, a exigência de duas testemunhas em Deuteronômio 17:6 e a regra de que não se aceite resgate por um homicida em Números 35:31."
+        },
+        {
+          "term": "Maldito seja Canaã",
+          "original": "Hebrew: כְּנַעַן (Kenaan) - חָם (Cham)",
+          "note": "A sentença de 9:25 nomeia Canaã. Gênesis 9:24 diz que Noé soube o que seu filho mais novo lhe havia feito, e as palavras seguintes recaem sobre o filho desse filho, um dos quatro filhos de Cam, já nomeado duas vezes antes do episódio (9:18, 9:22). Os outros três filhos de Cam são Cuxe, Mizraim e Pute (Gênesis 10:6), e nenhum deles é citado na maldição. A linhagem de Canaã é então enumerada em Gênesis 10:15-19: Sidom, hititas, jebuseus, amorreus, girgaseus e heveus, ocupando a terra de Sidom a Gaza e até Sodoma. Esse é o país e esses são os povos nomeados em Deuteronômio 20:17."
         }
       ],
       "keyTakeaway": "Deus estabelece uma aliança perpétua com Noé e todas as criaturas vivas, dá instruções sobre alimentação e a linhagem familiar continua pelos filhos de Noé.",
@@ -709,8 +787,8 @@
       ],
       "crossRefs": [
         "Deuteronômio 32:8: As nações são repartidas segundo o número dos filhos de Israel (ou de Deus, em alguns manuscritos).",
-        "1 Crônicas 1:5–23: Genealogias paralelas das nações.",
-        "Atos 17:26: Todas as nações feitas de um só ancestral para habitar sobre a terra."
+        "1 Crônicas 1:5-23: Genealogias paralelas das nações.",
+        "Atos dos Apóstolos 17:26: Todas as nações feitas de um só ancestral para habitar sobre a terra."
       ],
       "translationNotes": [
         {
@@ -732,6 +810,16 @@
           "term": "Poderoso",
           "original": "Hebrew: גִּבּוֹר (gibbor) - Greek: δυνατός (dynatos) - Aramaic: ܚܝܠܬܢܐ (ḥayltana)",
           "note": "Forte ou valente; usado para Ninrode como figura notável."
+        },
+        {
+          "term": "Babel, Ereque, Acade, Nínive e Calá",
+          "original": "Hebrew: שִׁנְעָר (Shinar), the plain of southern Mesopotamia",
+          "note": "Gênesis 10:10-12 enumera cidades reais que foram encontradas e escavadas. Babel é a Babilônia, junto ao Eufrates; Ereque é Uruk, uma das cidades mais antigas do mundo; Acade deu seu nome à língua acadiana, mais tarde usada em todo o Oriente Próximo na diplomacia. Nínive e Calá, ambas junto ao Tigre, tornaram-se capitais da Assíria, e foi no palácio de Nínive que se encontraram os relevos murais de Senaqueribe. O texto acompanha o movimento da planície meridional de Sinar para o norte, em direção à Assíria."
+        },
+        {
+          "term": "Os filisteus e Caftor",
+          "original": "Hebrew: כַּפְתֹּר (Kaftor)",
+          "note": "Gênesis 10:14 situa os filisteus na linhagem dos casluítas e menciona os caftoritas na mesma frase. Amós 9:7 diz que o SENHOR trouxe os filisteus de Caftor, e Jeremias 47:4 os chama de remanescente do litoral de Caftor. Caftor é um lugar além do mar, não outra cidade nas colinas de Canaã. Isso ajuda a explicar por que os filisteus de Juízes e Samuel têm aparência e modo de guerrear diferentes dos outros vizinhos de Israel: cinco cidades confederadas na planície costeira, o trabalho com ferro mantido sob seu controle (1 Samuel 13:19-22) e a incircuncisão, usada repetidamente como insulto contra eles."
         }
       ],
       "keyTakeaway": "Uma genealogia traça como famílias, terras e línguas se espalharam dos filhos de Noé em nações distintas. De Sem até Abrão, Deus preserva uma linhagem escolhida através de gerações e nomes, preparando sua aliança com Abraão.",
@@ -785,8 +873,8 @@
       "crossRefs": [
         "Deuteronômio 32:8: A divisão das nações é relembrada no cântico de Israel.",
         "Salmos 55:9: Uma oração para confundir a fala na cidade.",
-        "Jubileus 10:18–27: Os filhos de Noé dividem a terra; a Torre de Babel é ligada à influência demoníaca.",
-        "Atos 2:6–11: Muitas línguas são ouvidas por uma só multidão (uma cena posterior de línguas diversas)."
+        "Jubileus 10:18-27: Os filhos de Noé dividem a terra; a Torre de Babel é ligada à influência demoníaca.",
+        "Atos dos Apóstolos 2:6-11: Muitas línguas são ouvidas por uma só multidão (uma cena posterior de línguas diversas)."
       ],
       "translationNotes": [
         {
@@ -803,6 +891,16 @@
           "term": "Nome",
           "original": "Hebrew: שֵׁם (shem) - Greek: ὄνομα (onoma) - Aramaic: ܫܡܐ (shma)",
           "note": "Reputação ou renome; aqui, a intenção humana de estabelecer identidade."
+        },
+        {
+          "term": "Ur dos caldeus",
+          "original": "Hebrew: אוּר כַּשְׂדִּים (Ur Kasdim)",
+          "note": "Ur era uma cidade portuária real no baixo Eufrates, no sul do atual Iraque, e seu falso deus padroeiro era Nana, o deus-lua. Leonard Woolley a escavou para a Universidade da Pensilvânia e o Museu Britânico entre 1922 e 1934. Ali encontrou a grande torre-templo em degraus, construída por volta de 2100 a.C. por Ur-Namu para esse falso deus; ela continua sendo a estrutura de seu tipo mais bem preservada. Josué 24:2 afirma claramente que Terá, pai de Abraão, servia a outros falsos deuses do outro lado do rio. Gênesis 11:31 relata que Terá tirou a família de Ur em direção a Canaã."
+        },
+        {
+          "term": "Harã",
+          "original": "Hebrew: חָרָן (Charan)",
+          "note": "Harã fica muito acima no sistema do Eufrates, no atual sudeste da Turquia, junto à estrada de caravanas que seguia para o oeste, rumo ao Mediterrâneo. Como Ur, era um centro de adoração ao falso deus-lua, com um templo famoso dedicado ao mesmo falso deus sob seu nome acadiano, Sin. Terá estabeleceu-se e morreu ali (11:31-32), e a família manteve vínculos com o lugar: Abraão envia seu servo de volta a Harã para buscar esposa para Isaque (24:4, 24:10), e Jacó foge para lá, para junto de Labão (28:10)."
         }
       ],
       "keyTakeaway": "Deus confunde a linguagem humana e dispersa os povos de Babel, interrompendo o projeto da cidade e da torre.",
@@ -847,7 +945,7 @@
       ],
       "crossRefs": [
         "Hebreus 11:8: Abrão obedece e vai, sem saber para onde se dirige.",
-        "Salmos 105:42–44: Deus se lembra das promessas e dá terras ao Seu povo.",
+        "Salmos 105:42-44: Deus se lembra das promessas e dá terras ao Seu povo.",
         "Gálatas 3:8: A Escritura anunciou que todas as nações seriam abençoadas (declarado como promessa)."
       ],
       "translationNotes": [
@@ -870,9 +968,14 @@
           "term": "Pragas",
           "original": "Hebrew: נְגָעִים (negaʿim) - Greek: πληγαί (plēgai) - Aramaic: ܡܚܘ̈ܬܐ (maḥwāthā)",
           "note": "Aflições ou golpes; aqui, aflições divinas sobre a casa de Faraó."
+        },
+        {
+          "term": "O caminho percorrido por Abrão",
+          "original": "Hebrew: אֵלוֹן מוֹרֶה (Elon Moreh), the Oak of Moreh",
+          "note": "Gênesis 12:6-9 descreve uma rota, não uma caminhada sem rumo. Siquém fica na única passagem fácil pela região montanhosa central. Betel e Ai ficam cerca de vinte milhas ao sul, sobre a serra, e o Neguebe é o sul árido. A linha entre esses lugares é a estrada da serra que atravessa Canaã de norte a sul, a principal rota do país; Abrão constrói altares ao longo dela, em Siquém e Betel. Mais tarde, Deuteronômio 11:29-30 situa a cerimônia da aliança no mesmo marco de Siquém, o carvalho de Moré."
         }
       ],
-      "keyTakeaway": "Abraão obedece ao chamado de Deus e viaja para Canaã, mas no Egito Sarai é levada para o palácio do Faraó até que Deus intervém com pragas.",
+      "keyTakeaway": "Abrão obedece ao chamado de Deus e viaja para Canaã, mas, no Egito, Sarai é levada para a casa do faraó até que Deus intervenha com pragas.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -911,7 +1014,7 @@
         "Então Abrão mudou seu acampamento para Hebrom e se estabeleceu junto ao bosque de carvalhos que pertencia a Manre. Ali, construiu mais um altar ao Senhor. (13:18)."
       ],
       "crossRefs": [
-        "Salmos 37:3: Habita na terra e alimenta-te da fidelidade.",
+        "Salmos 37:3: Habite na terra e cultive a fidelidade.",
         "Hebreus 11:9: Abrão vive na terra prometida como em terra estrangeira.",
         "Gênesis 15:18: Os limites da terra prometida são posteriormente especificados."
       ],
@@ -922,9 +1025,14 @@
           "note": "Uma cidade na região montanhosa de Judá onde Abrão habita e constrói um altar."
         },
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥattāʼt) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܝܬܐ (ḥṭīṯā)",
-          "note": "Errar o alvo; ficar aquém do padrão pretendido por Deus, não meramente fazer coisas ruins."
+          "term": "O Neguebe",
+          "original": "Hebrew: הַנֶּגֶב (ha-Negev)",
+          "note": "A princípio, a palavra não indica um ponto da bússola. Ela significa 'terra ressequida' ou 'região seca', a faixa árida ao sul das colinas da Judeia. Como essa região ficava ao sul, o termo também passou a significar 'sul'. Abrão 'subiu' do Egito (13:1) porque a viagem do delta do Nilo ao Neguebe e à região montanhosa é uma subida real; Hebrom fica cerca de 3.000 pés acima do nível do mar."
+        },
+        {
+          "term": "A planície do Jordão",
+          "original": "Hebrew: כִּכַּר הַיַּרְדֵּן (kikkar ha-Yarden)",
+          "note": "Kikkar significa um disco redondo ou plano, e a mesma palavra cumpre três funções em hebraico: um pão redondo, um talento de metal pesado como uma peça achatada e a bacia oval do baixo Jordão, ao redor da extremidade norte do mar Morto. O português usa três palavras sem relação entre si. Ló escolhe essa extensão de terra bem regada junto à foz do rio."
         }
       ],
       "keyTakeaway": "Abrão e Ló se separam para acabar com os conflitos; Abrão permanece em Canaã e recebe novas promessas de terra.",
@@ -973,19 +1081,29 @@
       ],
       "crossRefs": [
         "Salmos 110:4: Sacerdote para sempre segundo a ordem de Melquisedeque.",
-        "Hebreus 7:1–2: Melquisedeque descrito como rei de justiça e rei de paz; Abrão dá o dízimo.",
+        "Hebreus 7:1-2: Melquisedeque descrito como rei de justiça e rei de paz; Abrão dá o dízimo.",
         "2 Samuel 8:11: Despojos separados para o SENHOR em narrativas posteriores."
       ],
       "translationNotes": [
         {
           "term": "Sacerdote",
-          "original": "Hebrew: כֹּהֵן (kohen) - Greek: ἱερεύς (hiereus) - Aramaic: ܟܗܢܐ (kahana)",
-          "note": "Um ministro/oficiante autorizado de adoração e bênção."
+          "original": "Hebrew: כֹּהֵן (kohen) - Greek: ἱερεύς (hiereus) - Aramaic: ܟܗܢܐ (kahana)",
+          "note": "Ministro autorizado que oficia o culto e pronuncia bênçãos."
         },
         {
-          "term": "Dízimo (décima parte)",
-          "original": "Hebrew: מַעֲשֵׂר (maʿaser) - Greek: δεκάτη (dekatē) - Aramaic: ܥܣܝܪܬܐ (ʿasirta)",
-          "note": "Uma décima parte dos bens; aqui dada por Abrão a Melquisedeque."
+          "term": "Décima parte (dízimo)",
+          "original": "Hebrew: מַעֲשֵׂר (maʿaser) - Greek: δεκάτη (dekatē) - Aramaic: ܥܣܝܪܬܐ (ʿasirta)",
+          "note": "A décima parte dos bens; aqui, entregue por Abrão a Melquisedeque."
+        },
+        {
+          "term": "Homens treinados",
+          "original": "Hebrew: חֲנִיכִים (chanikim)",
+          "note": "A palavra aparece somente aqui na Bíblia Hebraica e significa homens treinados ou provados no serviço. Esses 318 não eram soldados contratados, mas servos nascidos na própria casa de Abrão. Isso mostra a dimensão de sua casa: uma força particular grande o bastante para perseguir uma coalizão de exércitos por mais de 150 milhas ao norte, desde Manre, perto de Hebrom, até além de Damasco, e derrotá-la em um ataque noturno."
+        },
+        {
+          "term": "Poços de betume",
+          "original": "Hebrew: בֶּאֱרֹת חֵמָר (be'erot chemar, 'wells of bitumen')",
+          "note": "Afloramentos naturais de asfalto, parte da geologia real da extremidade sul do mar Morto, onde pedaços de betume ainda chegam à superfície depois de terremotos. O betume era uma mercadoria comercializada e servia como cola impermeável. A mesma substância une os tijolos de Babel (Gênesis 11:3), veda a arca de Noé (Gênesis 6:14) e reveste o cesto que leva o bebê Moisés (Êxodo 2:3)."
         }
       ],
       "keyTakeaway": "Abrão resgata Ló dos reis que o capturaram e recebe a bênção de Melquisedeque; Abrão recusa a recompensa oferecida pelo rei de Sodoma.",
@@ -1034,7 +1152,7 @@
         "amorreus, cananeus, girgaseus e jebuseus”. (15:21)."
       ],
       "crossRefs": [
-        "Neemias 9:7–8: Deus escolheu Abrão, achou seu coração fiel e fez aliança para dar a terra.",
+        "Neemias 9:7-8: Deus escolheu Abrão, achou seu coração fiel e fez aliança para dar a terra.",
         "Romanos 4:3: É declarado que Abrão creu, e isso lhe foi imputado como justiça.",
         "Jeremias 34:18: Passar entre as partes aparece em contextos de aliança."
       ],
@@ -1053,9 +1171,19 @@
           "term": "*palavra*",
           "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
           "note": "Mensagem ou declaração; a narrativa declara que a palavra do SENHOR veio em uma visão."
+        },
+        {
+          "term": "Cortar uma aliança",
+          "original": "Hebrew: כָּרַת בְּרִית (karat berit), to cut a covenant",
+          "note": "A expressão hebraica para estabelecer um acordo é literalmente 'cortá-lo', e Gênesis 15:9-18 mostra a razão. Animais eram mortos e divididos; as metades eram colocadas uma diante da outra, deixando uma passagem no meio, e as partes atravessavam essa passagem. Era uma maldição contra si mesmo representada em ato: 'Que isto seja feito comigo se eu quebrar a aliança.' Jeremias 34:18-19 descreve autoridades de Judá fazendo exatamente isso com um bezerro. Em Gênesis 15, somente o braseiro fumegante e a tocha passam entre os pedaços; Abrão não atravessa."
+        },
+        {
+          "term": "Quatrocentos anos e a quarta geração",
+          "original": "Hebrew: דּוֹר רְבִיעִי (dor revii), fourth generation",
+          "note": "Gênesis 15:13-16 apresenta a futura permanência no Egito como quatrocentos anos e depois diz que o retorno ocorrerá na quarta geração. Nesse contexto, uma geração é contada como aproximadamente um século, de acordo com a duração das vidas nesses capítulos. Êxodo 12:40 apresenta o número de 430 anos. A razão da demora é declarada em 15:16: a maldade dos amorreus ainda não chegou ao limite."
         }
       ],
-      "keyTakeaway": "Deus garante a Abraão uma descendência inumerável e concede a terra por meio de uma aliança selada com um ritual solene.",
+      "keyTakeaway": "Deus garante a Abrão uma descendência inumerável e concede a terra por meio de uma aliança selada com um ritual solene.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1111,6 +1239,16 @@
           "term": "Tratar com severidade",
           "original": "Hebrew: עָנָה (ʿanah) - Greek: ταπεινόω (tapeinoō) - Aramaic: ܐܢܐ (ʿana)",
           "note": "Afligir, oprimir ou humilhar; descreve o tratamento de Sarai para com Agar."
+        },
+        {
+          "term": "A serva dada ao marido",
+          "original": "Hebrew: שִׁפְחָה (shifchah), a female servant",
+          "note": "A proposta de Sarai em Gênesis 16:2 era um arranjo jurídico reconhecido no antigo Oriente Próximo, não uma invenção dela: a esposa estéril fornecia sua própria serva, e o filho nascido era contado como filho da esposa. Contratos matrimoniais da Mesopotâmia registram esse tipo de arranjo e suas condições. Raquel e Lia fazem o mesmo com Bila e Zilpa em Gênesis 30:3-13, e quatro das doze tribos descendem dessas uniões."
+        },
+        {
+          "term": "Beer-Laai-Roi e o caminho de Sur",
+          "original": "Hebrew: בְּאֵר לַחַי רֹאִי (Beer Lachai Roi), the well of the Living One who sees me",
+          "note": "Agar é encontrada junto a uma fonte no caminho de Sur (16:7), que segue para o sudoeste de Canaã em direção à fronteira egípcia. Ela era egípcia (16:1) e voltava para sua terra. O poço que ela nomeia fica no Neguebe, entre Cades e Berede (16:14). Mais tarde, Isaque vive junto ao mesmo poço, em Gênesis 24:62 e 25:11."
         }
       ],
       "keyTakeaway": "Sarai dá Hagar a Abrão; quando Hagar engravida e foge dos maus-tratos, Deus a vê e promete um filho chamado Ismael.",
@@ -1163,7 +1301,7 @@
       "crossRefs": [
         "Romanos 4:11: A circuncisão descrita como sinal e selo em discussão posterior.",
         "Josué 5:2: A circuncisão é renovada antes de entrar na terra.",
-        "Gênesis 21:3–4: Isaque nasce e é circuncidado no oitavo dia."
+        "Gênesis 21:3-4: Isaque nasce e é circuncidado no oitavo dia."
       ],
       "translationNotes": [
         {
@@ -1180,6 +1318,11 @@
           "term": "*aliança*",
           "original": "Hebrew: בְּרִית (berit) - Greek: διαθήκη (diathēkē) - Aramaic: ܕܝܬܝܩܐ (dyathiqa)",
           "note": "Compromisso formal vinculante; aqui, entre Deus e a linhagem de Abraão com um sinal perpétuo."
+        },
+        {
+          "term": "A circuncisão no mundo antigo",
+          "original": "Hebrew: מוּל (mul), to circumcise",
+          "note": "Israel não era o único povo que a praticava. Jeremias 9:25-26 menciona Egito, Edom, Amom, Moabe e as tribos do deserto junto com Judá como povos circuncidados. Relevos de túmulos egípcios mostram a operação realizada em jovens; ali ela estava ligada à passagem para a vida adulta e à entrada no serviço sacerdotal. Duas características distinguem a ordem de Gênesis 17: ela é cumprida no oitavo dia de vida, antes que a criança possa consentir ou merecê-la (17:12), e se aplica a todo homem da casa, inclusive servos nascidos no estrangeiro (17:12-13). Os filisteus não a praticavam, por isso 'incircuncisos' se torna a designação constante deles a partir de Juízes 14:3."
         }
       ],
       "keyTakeaway": "Deus formaliza a aliança com Abraão, institui a circuncisão como seu sinal e promete um filho por meio de Sara, que se chamará Isaque.",
@@ -1245,8 +1388,8 @@
       ],
       "crossRefs": [
         "Hebreus 13:2: Alguns hospedaram anjos sem o saber.",
-        "Romanos 4:19–21: Abraão é descrito como confiante na promessa de um filho.",
-        "Ezequiel 16:49–50: Os pecados de Sodoma listados como orgulho, excesso e abominação."
+        "Romanos 4:19-21: Abraão é descrito como confiante na promessa de um filho.",
+        "Ezequiel 16:49-50: Os pecados de Sodoma listados como orgulho, excesso e abominação."
       ],
       "translationNotes": [
         {
@@ -1263,6 +1406,11 @@
           "term": "*temor de Deus*",
           "original": "Hebrew: יִרְאַת אֱלֹהִים (yir’at ʾElohim) - Greek: φόβος θεοῦ (phobos theou) - Aramaic: ܕܚܠܬ ܐܠܗܐ (deḥlath alaha)",
           "note": "Reverência ou temor respeitoso para com Deus, não terror; aparece como medida de integridade em narrativas relacionadas."
+        },
+        {
+          "term": "seá",
+          "original": "Hebrew: סְאָה (seah)",
+          "note": "Cerca de 7 quartos de galão (7 litros); um terço de uma efa. As 'três medidas de farinha' na parábola do fermento (Mateus 13:33) correspondem a três seás, aproximadamente 30 a 40 libras (14 a 18 kg) de farinha, o bastante para alimentar uma família numerosa por vários dias."
         }
       ],
       "keyTakeaway": "O filho prometido é reafirmado a Sara, e Abraão intercede em favor de Sodoma e Gomorra.",
@@ -1329,9 +1477,9 @@
       ],
       "crossRefs": [
         "Juízes 19:22: Os homens de Gibeá exigem “conhecer” um hóspede, ecoando o pecado de Sodoma.",
-        "Ezequiel 16:49–50: Os pecados de Sodoma descritos como orgulho, excesso e abominação.",
-        "Lucas 17:28–32: Jesus relembra o dia de Ló e adverte: “Lembrai-vos da mulher de Ló”.",
-        "2 Pedro 2:6–8: Sodoma e Gomorra como exemplos de julgamento; Ló é chamado de “atormentado por seus atos iníquos”."
+        "Ezequiel 16:49-50: Os pecados de Sodoma descritos como orgulho, excesso e abominação.",
+        "Lucas 17:28-32: Jesus recorda os dias de Ló e adverte: 'Lembrem-se da mulher de Ló.'",
+        "2 Pedro 2:6-8: Sodoma e Gomorra como exemplos de julgamento; Ló é chamado de “atormentado por seus atos iníquos”."
       ],
       "translationNotes": [
         {
@@ -1353,6 +1501,16 @@
           "term": "Enxofre e fogo",
           "original": "Hebrew: גָּפְרִית וָאֵשׁ (gophrith va-ʾesh) - Greek: θεῖον καὶ πῦρ (theion kai pyr) - Aramaic: ܓܦܪܝܬܐ ܘܢܘܪܐ (gophritha w-nura)",
           "note": "Substâncias ardentes chovendo do céu como instrumentos de destruição."
+        },
+        {
+          "term": "O hóspede sob meu teto",
+          "original": "Hebrew: בְּצֵל קֹרָתִי (betsel qorati), in the shadow of my roof",
+          "note": "No antigo Oriente Próximo, o anfitrião tinha a obrigação de defender o hóspede com a própria vida, e o viajante não dispunha de outra proteção na estrada. É a esse dever que Ló apela em Gênesis 19:8 quando diz que aqueles homens entraram sob a proteção de seu teto. Isso também explica por que ele estava sentado à porta da cidade ao anoitecer (19:1): ali se tratavam os negócios da cidade e se recebiam os estrangeiros que chegavam. Os homens da cidade exigem os hóspedes e depois se voltam contra Ló por agir como juiz deles. Juízes 19:15-24 registra a mesma exigência feita em uma cidade israelita, Gibeá."
+        },
+        {
+          "term": "As cidades da planície e os poços de betume",
+          "original": "Hebrew: כִּכַּר הַיַּרְדֵּן (kikkar ha-Yarden), the round of the Jordan",
+          "note": "O vale escolhido por Ló é a profunda fenda no extremo inferior do Jordão, que se estende até o mar Morto. Sua superfície fica cerca de 1.400 pés abaixo do nível do mar, a terra seca exposta mais baixa do planeta. Gênesis 14:10 diz que o vale estava cheio de poços de betume, e o betume natural ainda chega à superfície nessa região; a mesma substância vedou a arca em Gênesis 6:14 e o cesto em Êxodo 2:3. Gênesis 19:24 relata enxofre e fogo sobre Sodoma e Gomorra, e 19:26 menciona a coluna de sal, em uma bacia cuja água tem cerca de dez vezes a salinidade do mar."
         }
       ],
       "keyTakeaway": "A corrupção de Sodoma se revela em intenções violentas; Deus destrói as cidades enquanto resgata Ló, cuja história familiar continua com eventos perturbadores.",
@@ -1398,9 +1556,9 @@
         "pois o Senhor havia tornado estéreis todas as mulheres do harém de Abimeleque por causa do que tinha acontecido com Sara, mulher de Abraão. (20:18)."
       ],
       "crossRefs": [
-        "Gênesis 12:10–20: Um relato semelhante no Egito com Faraó.",
-        "Salmos 105:14–15: Deus repreendeu reis por causa deles: “Não toqueis nos meus ungidos”.",
-        "Jó 42:8–10: Intercessão seguida de restauração (tema paralelo)."
+        "Gênesis 12:10-20: Um relato semelhante no Egito com Faraó.",
+        "Salmos 105:14-15: Deus repreendeu reis por causa deles: 'Não toquem nos meus ungidos.'",
+        "Jó 42:8-10: Intercessão seguida de restauração (tema paralelo)."
       ],
       "translationNotes": [
         {
@@ -1481,7 +1639,7 @@
       ],
       "crossRefs": [
         "Gênesis 16:11: O nome de Ismael explicado: “Deus ouve”.",
-        "Gênesis 17:10–12: A circuncisão como sinal da aliança no oitavo dia.",
+        "Gênesis 17:10-12: A circuncisão como sinal da aliança no oitavo dia.",
         "Salmos 34:17: O SENHOR ouve e livra os aflitos."
       ],
       "translationNotes": [
@@ -1494,9 +1652,19 @@
           "term": "Berseba",
           "original": "Hebrew: בְּאֵר שֶׁבַע (Beʾer Shevaʿ) - Greek: Βηρσαβεέ (Bēr-sabee) - Aramaic: ܒܐܪ ܫܒܥ (Beʾar Shevaʿ)",
           "note": "Poço do juramento ou poço dos sete; local do tratado e de um poço."
+        },
+        {
+          "term": "Circuncidado ao oitavo dia",
+          "original": "Hebrew: בֶּן־שְׁמֹנַת יָמִים (ben shemonat yamim)",
+          "note": "A circuncisão era praticada no Egito e em outros lugares da região, em geral na adolescência. Gênesis 17:10-12 estabelece uma regra diferente: o oitavo dia depois do nascimento, antes que a criança possa consentir ou merecer o sinal, e sua aplicação a todo homem da casa, inclusive os escravos comprados. O oitavo dia é o sinal da aliança, não um rito de passagem para a vida adulta."
+        },
+        {
+          "term": "Desmamado",
+          "original": "Hebrew: גָּמַל (gamal)",
+          "note": "Nesse período, o desmame ocorria aproximadamente entre os dois e três anos de idade, não depois de poucos meses. Ana amamentou Samuel até desmamá-lo e somente então o levou a Siló (1 Samuel 1:22-24). Uma festa de desmame marcava o momento em que a criança havia sobrevivido aos anos de maior risco; por isso Abraão ofereceu 'um grande banquete' nessa ocasião (21:8)."
         }
       ],
-      "keyTakeaway": "O nascimento de Isaque cumpre a promessa; Hagar e Ismael partem sob o cuidado de Deus; Abraão firma um acordo em Berseba.",
+      "keyTakeaway": "O nascimento de Isaque cumpre a promessa; Agar e Ismael partem sob o cuidado de Deus; Abraão firma um acordo em Berseba.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1546,8 +1714,8 @@
       ],
       "crossRefs": [
         "2 Crônicas 3:1: Moriá é nomeado como local do monte do templo na história posterior.",
-        "Hebreus 11:17–19: A fé de Abraão é demonstrada ao oferecer Isaque.",
-        "Tiago 2:21–23: As ações de Abraão são descritas juntamente com a declaração de que ele creu em Deus.",
+        "Hebreus 11:17-19: A fé de Abraão é demonstrada ao oferecer Isaque.",
+        "Tiago 2:21-23: As ações de Abraão são descritas juntamente com a declaração de que ele creu em Deus.",
         "João 1:29: Jesus é chamado o Cordeiro de Deus que tira o pecado do mundo."
       ],
       "translationNotes": [
@@ -1623,9 +1791,9 @@
         "O campo e a caverna foram transferidos dos hititas para Abraão como sepultura permanente. (23:20)."
       ],
       "crossRefs": [
-        "Gênesis 49:29–32: O local de sepultura patriarcal identificado como Macpela.",
-        "Atos 7:16: Menção de propriedades para sepultura em relatos posteriores.",
-        "Jeremias 32:10: Escrituras e compras registradas com testemunhas (prática paralela)."
+        "Gênesis 49:29-32: O local de sepultura patriarcal identificado como Macpela.",
+        "Atos dos Apóstolos 7:16: Menção de propriedades para sepultura em relatos posteriores.",
+        "Jeremias 32:10: Documentos de propriedade e compras registrados diante de testemunhas, em uma prática paralela."
       ],
       "translationNotes": [
         {
@@ -1637,6 +1805,26 @@
           "term": "Propriedade",
           "original": "Hebrew: אֲחֻזָּה (ʾaḥuzzah) - Greek: κτῆσις (ktēsis) - Aramaic: ܐܚܘܙܬܐ (aḥuzta)",
           "note": "Uma posse ou propriedade imobiliária."
+        },
+        {
+          "term": "Quatrocentos siclos de prata",
+          "original": "Hebrew: אַרְבַּע מֵאֹת שֶׁקֶל כֶּסֶף (arba me'ot sheqel kesef)",
+          "note": "O siclo era uma medida de peso, cerca de 11,4 gramas ou quatro décimos de onça, segundo os pesos de pedra com a inscrição 'siclo' escavados em Judá. Quatrocentos siclos correspondem a aproximadamente 10 libras de prata. Em comparação com outros preços de terras nas Escrituras, o valor é alto: Jeremias comprou um campo por 17 siclos (Jeremias 32:9), Davi comprou a eira e os bois por 50 (2 Samuel 24:24), e Onri comprou toda a colina de Samaria por 6.000 (1 Reis 16:24). Efrom apresenta como cortesia um preço que nenhum negociador trataria como simbólico, e Abraão o paga sem barganhar."
+        },
+        {
+          "term": "Pesou ... conforme o padrão dos mercadores",
+          "original": "Hebrew: שָׁקַל (shaqal, 'to weigh')",
+          "note": "Ainda não havia moedas. A prata circulava em barras, pedaços ou anéis, e cada pagamento era colocado em uma balança contra pesos de pedra. Por isso, a mesma raiz hebraica dá origem ao verbo 'pesar' e ao substantivo 'siclo'. A expressão 'conforme o padrão dos mercadores' indica o conjunto de pesos comerciais aceito pelas duas partes. Séculos depois, Jeremias faz o mesmo: pesa a prata na balança diante de testemunhas (Jeremias 32:10)."
+        },
+        {
+          "term": "A porta de sua cidade",
+          "original": "Hebrew: שַׁעַר עִירוֹ (sha'ar iro)",
+          "note": "A porta da cidade funcionava como tribunal e cartório. Em suas câmaras os anciãos se sentavam, os contratos eram firmados e a propriedade mudava de mãos diante de testemunhas. Boaz resgata a terra de Rute junto à porta, diante de dez anciãos (Rute 4:1-2), e as causas judiciais são levadas aos anciãos na porta (Deuteronômio 21:19). Efrom vende 'na presença de todos os hititas que haviam vindo à porta' (23:18), o que confere validade ao negócio."
+        },
+        {
+          "term": "Hebrom e Manre",
+          "original": "Hebrew: חֶבְרוֹן (Chevron) - קִרְיַת אַרְבַּע (Qiryat Arba)",
+          "note": "Hebrom fica cerca de dezenove milhas ao sul de Jerusalém, na estrada da serra, a aproximadamente 3.000 pés de altitude, sendo a cidade mais elevada de Judá. Seu nome antigo era Quiriate-Arba (23:2). Abraão já vivia junto aos carvalhos de Manre, nas proximidades (13:18, 18:1), e a caverna comprada aqui se torna o sepulcro da família. Gênesis 49:31 enumera Abraão e Sara, Isaque e Rebeca, e Lia como sepultados ali; 50:13 acrescenta Jacó. Mais tarde, Davi reinou em Hebrom por sete anos antes de conquistar Jerusalém (2 Samuel 5:5)."
         }
       ],
       "keyTakeaway": "Abraão adquire um local para sepultura em Macpela, estabelecendo uma posse legal na terra.",
@@ -1737,6 +1925,21 @@
           "term": "Camelo",
           "original": "Hebrew: גָּמָל (gamal) - Greek: κάμηλος (kamēlos) - Aramaic: ܓܡܠܐ (gamla)",
           "note": "Um animal de carga usado para longas viagens; um detalhe prático na narrativa."
+        },
+        {
+          "term": "Ponha a mão debaixo da minha coxa",
+          "original": "Hebrew: שִׂים־נָא יָדְךָ תַּחַת יְרֵכִי (sim na yadekha tachat yerekhi)",
+          "note": "Um gesto de juramento que aparece exatamente duas vezes nas Escrituras, aqui e em Gênesis 47:29. Nas duas ocasiões, o compromisso diz respeito à continuidade da família: obter uma esposa para Isaque e sepultar Jacó na terra da promessa. Yerekh é a parte superior da coxa e os lombos, que o hebraico trata como sede da descendência, como na expressão 'os que saíram dos lombos de Jacó' (Êxodo 1:5). O homem jura sobre a própria linhagem."
+        },
+        {
+          "term": "Um anel de ouro pesando um beca",
+          "original": "Hebrew: בֶּקַע (beka) - שֶׁקֶל (sheqel)",
+          "note": "Um beca é meio siclo, como Êxodo 38:26 declara expressamente, portanto cerca de 5,7 gramas de ouro. Um peso de pedra com a inscrição 'beca' foi encontrado em Jerusalém em 2018. As duas pulseiras, com dez siclos, somam aproximadamente 114 gramas. O 'anel' se revela um anel de nariz: o versículo 47 diz que ele o colocou no nariz dela. O hebraico nezem abrange adornos tanto do nariz quanto da orelha; por isso, sem a especificação do versículo, os tradutores precisam decidir pelo contexto."
+        },
+        {
+          "term": "Como se acertava um casamento",
+          "original": "Hebrew: מֹהַר (mohar), the bride price",
+          "note": "A negociação de Gênesis 24 segue o curso habitual: a família do noivo envia um representante; presentes de prata, ouro e roupas são entregues à família da noiva (24:53); e as famílias chegam a um acordo antes que o casal se encontre. Dois detalhes se destacam nesse padrão. A própria Rebeca é consultada e responde em 24:57-58. Além disso, o anel de nariz e as duas pulseiras são pesados e avaliados em 24:22, a forma de indicar valor antes da existência de moedas; a cunhagem só chega a essa parte do mundo no período persa."
         }
       ],
       "keyTakeaway": "Rebeca é escolhida e levada a Isaque em resposta à oração e a sinais providenciais.",
@@ -1799,10 +2002,10 @@
       ],
       "crossRefs": [
         "Hebreus 12:16: Esaú descrito como profano por vender seu direito de primogenitura.",
-        "Malaquias 1:2–3: Jacó e Esaú contrastados em linguagem profética posterior.",
+        "Malaquias 1:2-3: Jacó e Esaú contrastados em linguagem profética posterior.",
         "Hebreus 12:16: Esaú vendeu seu direito de primogenitura por uma única refeição.",
-        "Romanos 9:10–13: Deus escolheu Jacó acima de Esaú antes de nascerem.",
-        "Gênesis 36:1–8: Os assentamentos posteriores de Esaú são registrados."
+        "Romanos 9:10-13: Deus escolheu Jacó acima de Esaú antes de nascerem.",
+        "Gênesis 36:1-8: Os assentamentos posteriores de Esaú são registrados."
       ],
       "translationNotes": [
         {
@@ -1894,7 +2097,7 @@
         "Essas duas mulheres causaram grande desgosto a Isaque e Rebeca. (26:35)."
       ],
       "crossRefs": [
-        "Gênesis 21:22–34: Tratado anterior em Berseba com Abimeleque.",
+        "Gênesis 21:22-34: Tratado anterior em Berseba com Abimeleque.",
         "Salmos 105:44: Receber terras e o fruto do trabalho alheio (tema geral posterior).",
         "Hebreus 11:9: Isaque como herdeiro da mesma promessa."
       ],
@@ -1908,6 +2111,16 @@
           "term": "Juramento",
           "original": "Hebrew: שְׁבֻעָה (shevuʿah) - Greek: ὅρκος (horkos) - Aramaic: ܡܘܡܬܐ (mowmta)",
           "note": "Um compromisso jurado que vincula as partes em um tratado."
+        },
+        {
+          "term": "Eseque, Sitna e Reobote",
+          "original": "Hebrew: עֵשֶׂק (Esek) - שִׂטְנָה (Sitnah) - רְחֹבוֹת (Rehovot)",
+          "note": "Os nomes dos poços formam frases, mas as traduções costumam deixá-los sem tradução. Eseque significa 'contenda'. Sitna significa 'hostilidade' ou 'acusação' e vem da raiz satan, 'opor-se' ou 'acusar'; Esdras 4:6 usa o mesmo substantivo para uma acusação escrita apresentada contra Judá. Reobote significa 'lugares espaçosos'; por isso Isaque acrescenta: 'O SENHOR abriu espaço para nós.' Lidos em sequência, os três nomes contam sozinhos a história."
+        },
+        {
+          "term": "Colheu cem vezes mais",
+          "original": "Hebrew: מֵאָה שְׁעָרִים (me'ah she'arim)",
+          "note": "Uma produção cem vezes maior representa o ponto mais alto da escala, não uma colheita comum. Quando Jesus descreve uma boa colheita, apresenta a faixa como cem, sessenta ou trinta vezes mais (Mateus 13:8), com cem no topo. O detalhe também importa porque Isaque está semeando cereal: ele é um pastor que planta em um ano de fome, em uma terra que não lhe pertence."
         }
       ],
       "keyTakeaway": "Isaque permanece na terra, prospera e faz paz com Abimeleque em meio a disputas por poços.",
@@ -2056,6 +2269,21 @@
           "term": "Coluna",
           "original": "Hebrew: מַצֵּבָה (matseivah) - Greek: στήλη (stēlē) - Aramaic: ܢܨܝܒܐ (naṣība)",
           "note": "Uma pedra erigida como marco associado a um voto ou memorial."
+        },
+        {
+          "term": "Escada",
+          "original": "Hebrew: סֻלָּם (sullam)",
+          "note": "A palavra aparece apenas aqui em toda a Bíblia Hebraica, de modo que seu sentido exato precisa ser deduzido de sua raiz, salal, que significa amontoar ou levantar uma estrada. Isso aponta para uma rampa ou escadaria, e não para uma escada com travessas, e o movimento da visão confirma essa leitura: anjos sobem e descem ao mesmo tempo, nos dois sentidos."
+        },
+        {
+          "term": "Padã-Arã",
+          "original": "Hebrew: פַּדַּן אֲרָם (Paddan Aram) - אֲרַם נַהֲרַיִם (Aram Naharayim, 'Aram of the two rivers')",
+          "note": "A região ao redor de Harã, na alta Mesopotâmia, junto ao rio Balique, ao norte do Eufrates, no que hoje é o sudeste da Turquia. De Berseba até lá são cerca de 450 milhas em linha reta, e mais pela rota das caravanas, que precisava seguir para o norte, passando por Damasco e pelo Crescente Fértil, em vez de atravessar o deserto. Jacó deixa a terra por vinte anos (31:41); não está fazendo uma visita a parentes próximos."
+        },
+        {
+          "term": "Betel e aquilo em que se tornou",
+          "original": "Hebrew: בֵּית־אֵל (Beit-El), house of God - לוּז (Luz), the old name",
+          "note": "Betel fica cerca de onze milhas ao norte de Jerusalém, na estrada da serra, em um entroncamento com a rota que desce até o litoral. Jacó muda o nome do lugar, antes chamado Luz (28:19), ergue como coluna a pedra sobre a qual dormira e derrama óleo sobre ela. Séculos depois, Jeroboão colocou um de seus dois bezerros de ouro idólatras nessa mesma Betel e o outro em Dã, para que o reino do norte não subisse a Jerusalém para adorar (1 Reis 12:28-29); Amós 7:13 chama o lugar de santuário do rei."
         }
       ],
       "keyTakeaway": "Jacó recebe um sonho com uma escada até o céu e a reafirmação das promessas; ele dá ao lugar o nome de Betel.",
@@ -2118,20 +2346,32 @@
         "Lia engravidou mais uma vez e deu à luz outro filho. Chamou-o de Judá, pois disse: “Agora louvarei ao Senhor!”. Então, parou de ter filhos. (29:35)."
       ],
       "crossRefs": [
-        "Rute 4:11: A bênção menciona Raquel e Lia que edificaram a casa de Israel.",
-        "Gênesis 35:22–26: A lista dos filhos de Jacó é registrada.",
-        "Oséias 12:12: Jacó serviu por uma esposa e guardou rebanhos."
+        "Gênesis 24:11-20: O servo de Abraão encontra Rebeca junto a um poço fora da cidade, e ela dá água aos camelos dele.",
+        "Oséias 12:12: Jacó fugiu para a terra de Arã e trabalhou por uma esposa; por uma esposa cuidou de ovelhas.",
+        "Êxodo 2:15-21: Moisés encontra as filhas do sacerdote de Midiã junto a um poço, dá água ao rebanho delas e recebe Zípora como esposa.",
+        "Deuteronômio 21:15-17: Um homem que tenha uma esposa amada e outra não amada não pode preterir o filho primogênito da esposa não amada.",
+        "Gênesis 49:3-4: Rúben, o primogênito que nasce aqui, perde sua posição nas palavras finais de Jacó."
       ],
       "translationNotes": [
         {
-          "term": "Aliança/Monte de testemunho",
-          "original": "Hebrew: גַּלְעֵד (Galʿed) - Greek: Γαλαάδ (Galaad) - Aramaic: יְגַר שָׂהֲדוּתָא (Yegar-Sahaduta)",
-          "note": "Nomes em duas línguas para o monte que marca a aliança entre Jacó e Labão."
+          "term": "Preço da noiva",
+          "original": "Hebrew: מֹהַר (mohar)",
+          "note": "O mohar era pago pelo noivo ao pai da noiva, no sentido oposto ao de um dote. Êxodo 22:16-17 o trata como o valor corrente fixo por uma virgem, e Saul exigiu cem prepúcios de filisteus em seu lugar (1 Samuel 18:25). Jacó chegou a Harã sem nada para pesar como pagamento, por isso pagou com trabalho: sete anos, depois mais sete, catorze anos de trabalho como pastor pelo preço nupcial de duas esposas."
         },
         {
-          "term": "Lembrar",
-          "original": "Hebrew: זָכַר (zakhar) - Greek: μιμνῄσκομαι (mimnēiskomai) - Aramaic: ܕܟܪ (dakar)",
-          "note": "Trazer à mente com ação; usado para Deus em relação a Raquel."
+          "term": "A semana desta celebração",
+          "original": "Hebrew: שָׁבֻעַ (shavua, 'a seven, a week')",
+          "note": "A festa de casamento durava sete dias. A de Sansão durou os mesmos sete (Juízes 14:12). Labão diz a Jacó que termine a semana de Lia antes de receber Raquel; assim, o segundo casamento ocorreu cerca de sete dias depois do primeiro, e os outros sete anos de serviço foram cumpridos depois, não antecipadamente."
+        },
+        {
+          "term": "Serva",
+          "original": "Hebrew: שִׁפְחָה (shiphchah)",
+          "note": "Zilpa e Bila são entregues com as noivas (29:24, 29:29) como a contribuição do pai para a nova casa de cada filha. A serva continuava sendo propriedade da esposa; por isso, cada irmã podia entregar sua própria serva a Jacó e considerar como seus os filhos resultantes (30:3-4, 30:9). Sarai havia usado o mesmo arranjo com Agar (16:1-4)."
+        },
+        {
+          "term": "Rúben, Simeão, Levi e Judá",
+          "original": "Hebrew: רְאוּבֵן (Reuven) - שִׁמְעוֹן (Shimon) - לֵוִי (Levi) - יְהוּדָה (Yehudah)",
+          "note": "Cada nome forma um trocadilho com a frase dita por Lia ao escolhê-lo, mas o português conserva o nome e perde o jogo de palavras. Reuven soa como ra'ah ben, 'vejam, um filho', e ela diz que o SENHOR viu sua aflição. Shimon vem de shama, ouvir. Levi vem de lavah, unir ou ligar. Yehudah vem de yadah, louvar."
         }
       ],
       "keyTakeaway": "Jacó conhece Raquel num poço perto de Harã, trabalha sete anos para se casar com ela, mas Labão o engana fazendo-o casar com Lia primeiro; Jacó então trabalha mais sete anos por Raquel, e Lia lhe dá quatro filhos enquanto Raquel permanece sem filhos.",
@@ -2202,20 +2442,32 @@
         "O resultado foi que Jacó se tornou muito rico, dono de grandes rebanhos e também de servos e servas e muitos camelos e jumentos. (30:43)."
       ],
       "crossRefs": [
-        "Rute 4:11: A bênção menciona Raquel e Lia que edificaram a casa de Israel.",
-        "Gênesis 35:22–26: A lista dos filhos de Jacó é registrada.",
-        "Oséias 12:12: Jacó serviu por uma esposa e guardou rebanhos."
+        "Gênesis 16:1-4: Sarai entrega sua serva Agar a Abrão para constituir uma família por meio dela.",
+        "Cantares de Salomão 7:13: As mandrágoras exalam sua fragrância, a única outra menção da planta nas Escrituras.",
+        "Gênesis 31:8-12: Jacó diz a suas esposas que foi Deus, e não os galhos, quem transferiu os rebanhos de Labão para suas mãos.",
+        "Gênesis 35:23-26: A lista completa dos doze filhos de Jacó por Lia, Raquel, Bila e Zilpa.",
+        "Gênesis 35:16-19: Raquel dá à luz o segundo filho que pede aqui, Benjamim, e morre ao dar à luz."
       ],
       "translationNotes": [
-        {
-          "term": "Aliança/Monte de testemunho",
-          "original": "Hebrew: גַּלְעֵד (Galʿed) - Greek: Γαλαάδ (Galaad) - Aramaic: יְגַר שָׂהֲדוּתָא (Yegar-Sahaduta)",
-          "note": "Nomes em duas línguas para o monte que marca a aliança entre Jacó e Labão."
-        },
         {
           "term": "Lembrar",
           "original": "Hebrew: זָכַר (zakhar) - Greek: μιμνῄσκομαι (mimnēiskomai) - Aramaic: ܕܟܪ (dakar)",
           "note": "Trazer à mente com ação; usado para Deus em relação a Raquel."
+        },
+        {
+          "term": "Mandrágoras",
+          "original": "Hebrew: דּוּדָאִים (dudaim)",
+          "note": "Mandragora officinarum, uma planta mediterrânea baixa, de raiz grossa e bifurcada e fruto pequeno e amarelo que amadurece no fim da primavera; por isso, Rúben as encontra durante a colheita do trigo (30:14). Em todo o mundo antigo, o fruto ganhou longa reputação como auxílio para o amor e a concepção. O nome hebraico compartilha suas consoantes com dod, 'amor', e a única outra ocorrência está em Cântico dos Cânticos 7:13, onde aparece junto à porta dos amantes."
+        },
+        {
+          "term": "Para que ela tenha filhos por mim",
+          "original": "Hebrew: עַל־בִּרְכַּי (al birkai, 'on my knees')",
+          "note": "As palavras de Raquel em 30:3 dizem literalmente: 'ela dará à luz sobre os meus joelhos'. Colocar um recém-nascido sobre os joelhos de alguém era o ato que tornava a criança sua. José faz o mesmo com os filhos de Maquir no fim do livro (50:23). A serva dava à luz, a senhora recebia a criança sobre os joelhos, e ela passava a integrar a linhagem da senhora."
+        },
+        {
+          "term": "José",
+          "original": "Hebrew: יוֹסֵף (Yosef) - from אָסַף (asaph, 'take away') and יָסַף (yasaph, 'add')",
+          "note": "O nome traz dois trocadilhos ao mesmo tempo, e o texto apresenta ambos. Raquel diz que Deus tirou (asaph) sua desonra e depois pede ao SENHOR que acrescente (yasaph) outro filho (30:23-24). O português pode conservar um dos dois, nunca ambos."
         }
       ],
       "keyTakeaway": "Raquel dá sua serva Bila a Jacó para ter filhos por ela, e Lia faz o mesmo com sua serva Zilpa; por fim, Raquel engravida e dá à luz José. Após o nascimento de José, Jacó negocia com Labão para receber os animais malhados e salpicados como salário, depois usa galhos descascados nos bebedouros para criar animais das cores combinadas, enriquecendo no processo.",
@@ -2294,9 +2546,11 @@
         "Na manhã seguinte, Labão se levantou cedo, beijou seus netos e suas filhas e os abençoou. Depois, partiu e voltou para casa. (31:55)."
       ],
       "crossRefs": [
-        "Rute 4:11: A bênção menciona Raquel e Lia que edificaram a casa de Israel.",
-        "Gênesis 35:22–26: A lista dos filhos de Jacó é registrada.",
-        "Oséias 12:12: Jacó serviu por uma esposa e guardou rebanhos."
+        "Gênesis 28:20-22: O voto em Betel, onde Jacó ungiu a coluna, que Deus agora lhe ordena cumprir.",
+        "1 Samuel 19:13: Mical coloca um ídolo doméstico na cama para fazê-lo passar por Davi adormecido.",
+        "Gênesis 35:2-4: Mais tarde, Jacó reúne todos os falsos deuses estrangeiros de sua casa e os enterra debaixo do carvalho em Siquém.",
+        "Josué 24:2: Terá e seus filhos viviam além do Eufrates e serviam a falsos deuses.",
+        "Gênesis 26:26-31: Isaque e Abimeleque fazem um juramento mútuo, comem juntos e se separam em paz."
       ],
       "translationNotes": [
         {
@@ -2305,9 +2559,29 @@
           "note": "Nomes em duas línguas para o monte que marca a aliança entre Jacó e Labão."
         },
         {
-          "term": "Lembrar",
-          "original": "Hebrew: זָכַר (zakhar) - Greek: μιμνῄσκομαι (mimnēiskomai) - Aramaic: ܕܟܪ (dakar)",
-          "note": "Trazer à mente com ação; usado para Deus em relação a Raquel."
+          "term": "Ídolos domésticos",
+          "original": "Hebrew: תְּרָפִים (teraphim)",
+          "note": "Figuras mantidas em uma casa. Pelo menos algumas eram grandes: Mical colocou uma na cama, e ela passou por um homem adulto (1 Samuel 19:13). Em 1937, Cyrus H. Gordon argumentou, com base nas tabuinhas de Nuzi escavadas no norte do Iraque, que, naquela região e naquele período, possuir os ídolos domésticos acompanhava o direito à propriedade da família. Segundo essa interpretação, Raquel levou a escritura, não uma lembrança, o que explicaria por que Labão a persegue por sete dias e os chama simplesmente de 'meus deuses' (31:30)."
+        },
+        {
+          "term": "O Temor de Isaque",
+          "original": "Hebrew: פַּחַד יִצְחָק (Pachad Yitzchaq)",
+          "note": "Um título de Deus encontrado apenas neste capítulo, em 31:42 e 31:53. Pachad significa temor, ou aquilo que o inspira. Em 31:53, Labão invoca ao mesmo tempo o Deus de Abraão e o falso deus de Naor; Jacó responde jurando somente pelo Temor de seu pai Isaque."
+        },
+        {
+          "term": "Mudou meu salário dez vezes",
+          "original": "Hebrew: עֲשֶׂרֶת מֹנִים (aseret monim)",
+          "note": "Uma expressão idiomática fixa para 'repetidas vezes', não uma contagem. Israel é acusado de pôr Deus à prova 'estas dez vezes' no deserto (Números 14:22), e Jó diz a seus amigos: 'já dez vezes vocês me insultaram' (Jó 19:3). Jacó está dizendo que Labão reescrevia as condições sempre que começavam a favorecê-lo, exatamente como 31:8 descreve."
+        },
+        {
+          "term": "quanto valiam os ídolos domésticos",
+          "original": "Hebrew: תְּרָפִים (teraphim)",
+          "note": "Os terafins eram imagens mantidas em uma casa, e podiam ser objetos grandes: Mical coloca um deles na cama e o faz passar por um homem adormecido (1 Samuel 19:13). Em Juízes 17:5, Mica os mantém em um santuário particular, com um éfode e um sacerdote contratado, e os danitas roubam o conjunto inteiro porque possuí-lo tinha importância (Juízes 18:17-20). Esse é o pano de fundo da reação de Labão aqui. Ele os chama de 'meus deuses' (31:30), persegue Jacó por sete dias e revista todas as tendas; Raquel os esconde no alforje de um camelo e permanece sentada sobre eles."
+        },
+        {
+          "term": "o monte de testemunho",
+          "original": "Hebrew: גַּלְעֵד (Galed) - Aramaic: יְגַר שָׂהֲדוּתָא (Yegar Sahaduta)",
+          "note": "Gênesis 31:47 apresenta o mesmo nome duas vezes, uma no hebraico de Jacó e outra no aramaico de Labão, e ambos significam 'monte de testemunho'. Uma pilha de pedras erguida sobre uma fronteira era a maneira comum de registrar um tratado quando nenhum dos lados podia ler os documentos do outro, e 31:52 declara os termos: nenhum dos dois homens passaria desse monte para ferir o outro. Este é o aramaico mais antigo das Escrituras; mais tarde, o aramaico se tornou a língua comum de toda a região."
         }
       ],
       "keyTakeaway": "Jacó foge da casa de Labão com suas esposas, filhos e rebanhos após Deus instruí-lo a voltar para Canaã; Labão o persegue e o alcança, mas depois que Deus adverte Labão a não machucar Jacó, os dois homens firmam uma aliança marcada por um monte de pedras e concordam em se separar em paz.",
@@ -2367,9 +2641,11 @@
         "(Até hoje, o povo de Israel não come o tendão perto da articulação do quadril, por causa do que aconteceu naquela noite em que o homem feriu o tendão do quadril de Jacó.) (32:32)."
       ],
       "crossRefs": [
-        "Oséias 12:3–4: Jacó lutou com Deus e prevaleceu; ele chorou e buscou favor.",
-        "Gênesis 35:10: O nome Israel é posteriormente reafirmado.",
-        "Salmos 34:4: Busquei o SENHOR e fui livrado de todos os meus temores (eco temático)."
+        "Gênesis 27:41-45: Esaú havia jurado matar Jacó depois do luto por seu pai; por isso, Rebeca o mandou embora.",
+        "Gênesis 28:13-15: A promessa de Betel que Jacó repete a Deus em sua oração.",
+        "Oséias 12:3-4: No ventre ele agarrou o calcanhar do irmão e, em seu vigor, lutou com Deus e prevaleceu.",
+        "Gênesis 35:9-10: Deus confirma o nome Israel quando Jacó volta a Betel.",
+        "2 Samuel 17:24: Maanaim, nomeada aqui, é uma cidade real a leste do Jordão, onde Davi se refugia de Absalão."
       ],
       "translationNotes": [
         {
@@ -2381,9 +2657,29 @@
           "term": "Peniel/Penuel",
           "original": "Hebrew: פְּנִיאֵל / פְּנוּאֵל (Peniel/Penuel) - Greek: Φανουήλ (Phanouēl) - Aramaic: ܦܢܘܐܝܠ (Penuel)",
           "note": "Nome dado por Jacó: “face de Deus”."
+        },
+        {
+          "term": "Um presente",
+          "original": "Hebrew: מִנְחָה (minchah)",
+          "note": "A palavra padrão para o tributo entregue por um inferior a um senhor, o mesmo termo usado quando Eúde leva tributo a Eglom, rei de Moabe (Juízes 3:15). Jacó faz a contagem em 32:14-15: 200 cabras, 20 bodes, 200 ovelhas, 20 carneiros, 30 camelas que amamentavam com suas crias, 40 vacas, 10 touros, 20 jumentas e 10 jumentos. São 550 animais, e a grande diferença entre o número de fêmeas e machos corresponde às proporções de reprodução. Ele não envia carne; envia rebanhos que continuarão produzindo."
+        },
+        {
+          "term": "O vau do Jaboque",
+          "original": "Hebrew: יַבֹּק (Yabboq) - יֵאָבֵק (ye'aveq, 'he wrestled') - יַעֲקֹב (Ya'aqov, 'Jacob')",
+          "note": "Três palavras formadas quase pelas mesmas consoantes se encontram em um único versículo, e nenhuma tradução portuguesa consegue reproduzir o efeito. O Jaboque é o atual Nahr ez-Zarqa, um desfiladeiro íngreme que corre para oeste até o Jordão, cerca de vinte e cinco milhas ao norte do mar Morto. Mais tarde, serviu como fronteira nacional (Números 21:24). Ao atravessá-lo, Jacó voltou ao território do qual havia fugido vinte anos antes."
+        },
+        {
+          "term": "O tendão ligado à cavidade do quadril",
+          "original": "Hebrew: גִּיד הַנָּשֶׁה (gid hannasheh)",
+          "note": "O nervo ciático e o tecido que o acompanha na articulação do quadril. O versículo 32 registra um costume alimentar surgido naquela noite e ainda observado: retirar esse tendão de um animal abatido exige trabalho minucioso, por isso açougueiros kosher costumam vender os quartos traseiros em vez de removê-lo. A prática nunca é reafirmada na lei de Moisés. Gênesis 32:32 é o único lugar das Escrituras que a declara."
+        },
+        {
+          "term": "o Jaboque e Penuel",
+          "original": "Hebrew: יַבֹּק (Yabboq) - פְּנוּאֵל (Penuel), the face of God",
+          "note": "O Jaboque é um rio real que corta um desfiladeiro profundo em direção às terras altas a leste e corre para oeste até o Jordão; era a fronteira do reino de Seom (Números 21:24), e o vau é o ponto natural de travessia. Penuel, onde Jacó dá nome ao lugar depois do encontro, manteve sua importância: Gideão derrubou sua torre e matou seus homens (Juízes 8:8-9, 8:17), e Jeroboão a reconstruiu como fortaleza (1 Reis 12:25)."
         }
       ],
-      "keyTakeaway": "Jacó encontra anjos de Deus, envia mensageiros com presentes para agradar seu irmão Esaú e luta com um homem a noite toda, que o renomeia Israel e o abençoa antes de partir ao amanhecer.",
+      "keyTakeaway": "Jacó encontra anjos de Deus, envia mensageiros com presentes para apaziguar seu irmão Esaú e luta a noite inteira com um homem, que lhe dá o nome Israel e o abençoa antes de partir ao amanhecer.",
       "headings": [
         {
           "beforeVerse": 2,
@@ -2424,20 +2720,32 @@
         "Ali, construiu um altar e o chamou de El-Elohe-Israel. (33:20)."
       ],
       "crossRefs": [
-        "Oséias 12:3–4: Jacó lutou com Deus e prevaleceu; ele chorou e buscou favor.",
-        "Gênesis 35:10: O nome Israel é posteriormente reafirmado.",
-        "Salmos 34:4: Busquei o SENHOR e fui livrado de todos os meus temores (eco temático)."
+        "Gênesis 32:6-8: A notícia de que Esaú vinha com quatrocentos homens, que gerou o temor por trás desse encontro.",
+        "Josué 24:32: Os ossos de José são sepultados nesse mesmo terreno em Siquém, comprado por cem peças de prata.",
+        "Jó 42:11: Cada um dos visitantes de Jó lhe dá uma quesita; essa é a única outra passagem que usa a unidade nomeada aqui.",
+        "João 4:5-6: Jesus se senta junto ao poço de Jacó, perto do terreno que Jacó deu a seu filho José.",
+        "Gênesis 34:1-2: Diná sai para encontrar as mulheres de Siquém, a cidade junto à qual Jacó acabara de acampar."
       ],
       "translationNotes": [
         {
-          "term": "Israel",
-          "original": "Hebrew: יִשְׂרָאֵל (Yisraʾel) - Greek: Ἰσραήλ (Israēl) - Aramaic: ܐܝܣܪܝܠ (Israʾil)",
-          "note": "Interpretado no texto como “ele luta com Deus”."
+          "term": "Prostrou-se até o chão sete vezes",
+          "original": "Hebrew: וַיִּשְׁתַּחוּ אַרְצָה שֶׁבַע פְּעָמִים (vayishtachu artsah sheva pe'amim)",
+          "note": "Protocolo da corte, não simples cortesia. As cartas de Amarna, correspondência diplomática enviada ao Egito por governantes cananeus no século XIV a.C., começam palavra por palavra com a mesma fórmula: 'aos pés do meu senhor, o rei, caio sete vezes e sete vezes'. Jacó se aproxima do próprio irmão como um vassalo se aproxima de um soberano e, em todo o capítulo, chama Esaú de 'meu senhor' e a si mesmo de 'seu servo'."
         },
         {
-          "term": "Peniel/Penuel",
-          "original": "Hebrew: פְּנִיאֵל / פְּנוּאֵל (Peniel/Penuel) - Greek: Φανουήλ (Phanouēl) - Aramaic: ܦܢܘܐܝܠ (Penuel)",
-          "note": "Nome dado por Jacó: “face de Deus”."
+          "term": "Cem peças de prata",
+          "original": "Hebrew: קְשִׂיטָה (qesitah)",
+          "note": "Uma unidade monetária usada apenas três vezes em toda a Bíblia: aqui, em Josué 24:32 e em Jó 42:11. Seu peso é desconhecido, e nenhum peso marcado como quesita jamais foi identificado; portanto, qualquer conversão moderna é uma estimativa. Tanto a Septuaginta quanto o Targum aramaico a traduzem como 'cordeiros', o que aponta para prata calculada segundo o preço de uma ovelha. A palavra 'prata' nas traduções é acrescentada; o hebraico apresenta apenas o número e a unidade."
+        },
+        {
+          "term": "Sucote",
+          "original": "Hebrew: סֻכּוֹת (Sukkot, 'shelters, booths')",
+          "note": "O nome do lugar é o plural da palavra usada para os abrigos de galhos que Jacó ergueu para o gado, e o próprio versículo explica isso. É a mesma palavra da Festa dos Tabernáculos, na qual Israel recebe a ordem de morar em sukkot por sete dias (Levítico 23:42)."
+        },
+        {
+          "term": "El-Eloé-Israel",
+          "original": "Hebrew: אֵל אֱלֹהֵי יִשְׂרָאֵל (El Elohe Yisrael)",
+          "note": "A maioria das Bíblias em português não traduz a expressão. Ela significa 'Deus, o Deus de Israel'. Jacó dá ao altar o nome que ele próprio havia recebido em Peniel um capítulo antes (32:28), a primeira vez que esse nome fica ligado a um lugar de adoração."
         }
       ],
       "keyTakeaway": "Jacó organiza sua família para se aproximar de Esaú, prostra-se diante dele várias vezes e Esaú o abraça com afeto; Jacó insiste para que Esaú aceite um grande presente e recusa a oferta de viajarem juntos, alegando o ritmo de seus filhos e rebanhos. Jacó depois se instala perto de Siquém, compra um terreno dos filhos de Hamor e constrói um altar ali.",
@@ -2492,7 +2800,7 @@
         "Mas eles responderam: “Por acaso deveríamos permitir que nossa irmã fosse tratada como prostituta?”. (34:31)."
       ],
       "crossRefs": [
-        "Gênesis 49:5–7: Jacó relembra posteriormente a violência de Simeão e Levi.",
+        "Gênesis 49:5-7: Jacó relembra posteriormente a violência de Simeão e Levi.",
         "Deuteronômio 32:35: A vingança pertence a Deus (princípio posterior).",
         "Provérbios 20:22: Não digas: “Eu retribuirei o mal”; espera pelo SENHOR (provérbio sábio)."
       ],
@@ -2569,14 +2877,14 @@
       ],
       "crossRefs": [
         "Gênesis 28:19: Betel nomeada anteriormente por Jacó.",
-        "Gênesis 49:3–4: A transgressão de Rúben mencionada nas palavras finais de Jacó.",
+        "Gênesis 49:3-4: A transgressão de Rúben mencionada nas palavras finais de Jacó.",
         "1 Samuel 10:3: O túmulo de Raquel mencionado perto de Belém (referência posterior)."
       ],
       "translationNotes": [
         {
-          "term": "Deuses estrangeiros",
+          "term": "Falsos deuses estrangeiros",
           "original": "Hebrew: אֱלֹהֵי נֵכָר (ʾelohei nekhar) - Greek: θεοὶ ἀλλότριοι (theoi allotrioi) - Aramaic: ܐܠܗܐ ܢܟܪ̈ܝܐ (alehe nokhraye)",
-          "note": "Ídolos domésticos ou deidades; removidos e enterrados antes da adoração em Betel."
+          "note": "Ídolos domésticos ou falsos deuses; removidos e enterrados antes da adoração em Betel."
         },
         {
           "term": "Benjamim",
@@ -2667,8 +2975,8 @@
         "Magdiel e Irã. Esses são os chefes dos clãs de Edom, relacionados de acordo com seus assentamentos na terra que ocupavam. Todos eles foram descendentes de Esaú, antepassado dos edomitas. (36:43)."
       ],
       "crossRefs": [
-        "Deuteronômio 2:4–5: O território de Edom não deve ser tomado por Israel.",
-        "1 Crônicas 1:35–54: Genealogias paralelas de Esaú/Edom.",
+        "Deuteronômio 2:4-5: O território de Edom não deve ser tomado por Israel.",
+        "1 Crônicas 1:35-54: Genealogias paralelas de Esaú/Edom.",
         "Obadias 1:1: Uma profecia posterior sobre Edom."
       ],
       "translationNotes": [
@@ -2754,16 +3062,17 @@
         "Enquanto isso, os negociantes midianitas chegaram ao Egito, onde venderam José a Potifar, oficial e capitão da guarda do faraó. (37:36)."
       ],
       "crossRefs": [
-        "Atos 7:9: Os patriarcas, com inveja de José, o venderam ao Egito.",
-        "Gênesis 49:10: De Judá virá o cetro; Perez e Zerá traçam a linhagem de Judá adiante.",
-        "2 Samuel 7:14: A constância de Deus mesmo quando os homens cometem iniquidade.",
-        "1 Coríntios 10:13: Deus provê uma saída da tentação; José fugiu."
+        "Gênesis 42:6-9: Os irmãos se prostram até o chão diante de José no Egito, e ele se lembra dos sonhos relatados aqui.",
+        "Levítico 27:5: Vinte siclos correspondem à avaliação do santuário para um homem entre cinco e vinte anos.",
+        "2 Samuel 13:18: A túnica de muitas cores era a roupa usada pelas filhas virgens do rei, a única outra ocorrência da expressão.",
+        "Atos dos Apóstolos 7:9-10: Estêvão diz que os patriarcas venderam José por ciúme, mas Deus estava com ele.",
+        "Gênesis 44:30-34: Judá se oferece como escravo para não ver seu pai perder um segundo filho."
       ],
       "translationNotes": [
         {
           "term": "Vender",
           "original": "Hebrew: מָכַר (makhar) - Greek: πιπράσκω (pipraskō) - Aramaic: זבן (zavan)",
-          "note": "Trocar por dinheiro; José foi vendido por vinte peças de prata."
+          "note": "Trocar por dinheiro; José foi vendido por vinte siclos de prata."
         },
         {
           "term": "Prostituta",
@@ -2779,6 +3088,31 @@
           "term": "Fugir",
           "original": "Hebrew: נוּס (nus) - Greek: φεύγω (pheugō) - Aramaic: ܥܪܩ (ʿraq)",
           "note": "Escapar ou correr; José fugiu quando foi agarrado pela mulher de Potifar."
+        },
+        {
+          "term": "pano de saco",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Tecido áspero e escuro de pelo de cabra, usado diretamente sobre a pele como sinal universal de luto, arrependimento ou aflição (1 Reis 21:27; Jonas 3:5; Mateus 11:21). Vesti-lo em público anunciava dor ou contrição; o próprio desconforto fazia parte do simbolismo."
+        },
+        {
+          "term": "mirra",
+          "original": "Hebrew: מֹר (mor); Greek: σμύρνα (smurna)",
+          "note": "Resina aromática da árvore Commiphora, da Arábia e do leste da África. Era usada no óleo santo da unção (Êxodo 30:23), como perfume, especiaria funerária (João 19:39) e, misturada ao vinho, bebida para diminuir a dor (Marcos 15:23). Foi um dos presentes dos magos."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "O domínio dos mortos no Antigo Testamento, um mundo inferior sombrio ao qual descem tanto justos quanto ímpios (Gênesis 37:35; Salmos 16:10). Não é necessariamente um lugar de tormento; corresponde mais a um estado de cessação e silêncio. A Septuaginta e o Novo Testamento o traduzem pela palavra grega Hades."
+        },
+        {
+          "term": "vinte siclos de prata",
+          "original": "Hebrew: עֶשְׂרִים כֶּסֶף (esrim kesef)",
+          "note": "Gênesis 37:28 informa o preço pago por José, e Levítico 27:5 fixa exatamente vinte siclos como a avaliação de um homem entre cinco e vinte anos. José tinha dezessete anos (37:2). O valor não é arbitrário; era o preço corrente de um rapaz daquela idade. Mais tarde, Êxodo 21:32 estabelece trinta siclos por um escravo atingido pelos chifres de um boi, a avaliação de uma mulher adulta em Levítico 27:4; as mesmas trinta peças aparecem em Zacarias 11:12-13 e Mateus 26:15."
+        },
+        {
+          "term": "a caravana vinda de Gileade",
+          "original": "Hebrew: נְכֹאת וּצְרִי וָלֹט (nekhot uts'ri valot), gum, balm, and resin",
+          "note": "Gênesis 37:25 coloca uma caravana carregada na estrada de Dotã, exatamente onde passava essa rota. Dotã fica na extremidade norte da região montanhosa, onde a rota de Gileade atravessa em direção à planície costeira e vira para o sul rumo ao Egito; todo o comércio oriental de resinas aromáticas seguia por ela. O bálsamo de Gileade era uma resina medicinal tão famosa que se tornou imagem de cura em Jeremias 8:22 e 46:11, e a mirra volta a aparecer como especiaria funerária em João 19:39."
         }
       ],
       "keyTakeaway": "Os irmãos de José, enciumados pelo favoritismo do pai e pelos sonhos de domínio de José, tiram-lhe a túnica e o vendem a ismaelitas que seguem para o Egito; eles enganam seu pai Jacó com a túnica ensanguentada, levando-o a crer que José está morto.",
@@ -2828,34 +3162,45 @@
         "Logo depois, o bebê com o fio vermelho no pulso nasceu e recebeu o nome de Zerá. (38:30)."
       ],
       "crossRefs": [
-        "Atos 7:9: Os patriarcas, com inveja de José, o venderam ao Egito.",
-        "Gênesis 49:10: De Judá virá o cetro; Perez e Zerá traçam a linhagem de Judá adiante.",
-        "2 Samuel 7:14: A constância de Deus mesmo quando os homens cometem iniquidade.",
-        "1 Coríntios 10:13: Deus provê uma saída da tentação; José fugiu."
+        "Deuteronômio 25:5-10: A lei do levirato: um irmão deve gerar um filho para o homem que morreu sem filhos, ou será envergonhado junto à porta da cidade.",
+        "Rute 4:12: Os anciãos abençoam a casa de Boaz para que seja como a casa de Perez, que Tamar deu a Judá.",
+        "Mateus 1:3: Judá gerou Perez e Zerá por meio de Tamar, na genealogia de Jesus.",
+        "Gênesis 49:10: O cetro não se afastará de Judá, a linhagem que prossegue por Perez.",
+        "Gênesis 37:31-33: Um cabrito e uma roupa foram usados para enganar Jacó no capítulo anterior."
       ],
       "translationNotes": [
         {
-          "term": "Vender",
-          "original": "Hebrew: מָכַר (makhar) - Greek: πιπράσκω (pipraskō) - Aramaic: זבן (zavan)",
-          "note": "Trocar por dinheiro; José foi vendido por vinte peças de prata."
+          "term": "Cumpra seu dever de cunhado",
+          "original": "Hebrew: יָבַם (yabam)",
+          "note": "No hebraico, esta é uma única palavra verbal, e ela nomeia um dever legal mais tarde registrado na lei. Deuteronômio 25:5-10 exige que, quando irmãos moram juntos e um deles morre sem deixar filho, o irmão sobrevivente se case com a viúva; o primeiro filho que ela der à luz recebe o nome do morto, para que esse nome não seja apagado de Israel. O irmão que se recusa é levado aos anciãos; a viúva tira a sandália do pé dele, cospe em seu rosto, e dali em diante sua família é chamada de casa do descalçado. Rute 4 aplica a mesma obrigação por meio de um resgatador da família."
         },
         {
-          "term": "Prostituta",
-          "original": "Hebrew: זוֹנָה (zonah) - Greek: πόρνη (pornē) - Aramaic: ܙܢܝܬܐ (zanita)",
-          "note": "Uma mulher que oferece sexo por pagamento; Tamar se disfarçou desta forma."
+          "term": "A tosquia das ovelhas em Timna",
+          "original": "Hebrew: גָּזַז (gazaz)",
+          "note": "A tosquia era o pagamento anual do proprietário do rebanho e vinha acompanhada de uma festa, trabalhadores contratados, comida e bebida. A festa da tosquia de Nabal em 1 Samuel 25:2-8 e a de Absalão em Baal-Hazor, em 2 Samuel 13:23-29, mostram sua dimensão. Timna ficava na Sefelá, a região de colinas baixas entre os montes de Judá e a planície costeira; por isso, Judá descia das colinas para seus rebanhos."
         },
         {
-          "term": "Deitar-se com",
-          "original": "Hebrew: שָׁכַב (shakav) - Greek: κοιμάομαι (koimaomai) - Aramaic: ܫܟܒ (shakab)",
-          "note": "Deitar-se sexualmente; a mulher de Potifar exigiu que José deitasse com ela."
+          "term": "Seu selo, seu cordão e seu cajado",
+          "original": "Hebrew: חֹתָם (chotam)",
+          "note": "Um selo era uma pequena pedra gravada, um cilindro ou um sinete usado em um cordão ao redor do pescoço; pressioná-lo sobre argila úmida era a forma de um homem assinar um documento ou lacrar um recipiente de armazenamento. Era sua identidade legal materializada em um objeto. Entregar o selo, o cordão e o cajado pessoal equivalia a entregar a prova exata de sua identidade, o que torna irrefutável o versículo 25."
         },
         {
-          "term": "Fugir",
-          "original": "Hebrew: נוּס (nus) - Greek: φεύγω (pheugō) - Aramaic: ܥܪܩ (ʿraq)",
-          "note": "Escapar ou correr; José fugiu quando foi agarrado pela mulher de Potifar."
+          "term": "Prostituta de santuário",
+          "original": "Hebrew: קְדֵשָׁה (qedeshah) - Hebrew: זוֹנָה (zonah)",
+          "note": "O capítulo usa duas palavras diferentes. No versículo 15, Judá pensa que ela é uma zonah, uma prostituta comum. Quando seu amigo pergunta por ela na cidade, nos versículos 21 e 22, a palavra muda para qedeshah, uma mulher consagrada, isto é, ligada a um santuário idólatra no qual o sexo fazia parte do culto. Deuteronômio 23:17-18 proíbe terminantemente em Israel tanto a qedeshah quanto seu equivalente masculino e proíbe levar os ganhos deles à casa do SENHOR."
+        },
+        {
+          "term": "Que ela seja queimada até a morte",
+          "original": "Hebrew: שְׂרֵפָה (serephah)",
+          "note": "A morte pelo fogo era a pena mais severa na lei israelita e estava reservada a uma lista curta: a filha de um sacerdote que se prostituísse (Levítico 21:9) e um homem que tomasse como esposas tanto uma mulher quanto a mãe dela (Levítico 20:14). A pena comum para o adultério era o apedrejamento (Deuteronômio 22:23-24). Judá profere a sentença como chefe do clã, por sua própria palavra, antes que qualquer parte dessa lei tivesse sido escrita."
+        },
+        {
+          "term": "Perez e Zerá",
+          "original": "Hebrew: פֶּרֶץ (Perets) - Hebrew: זֶרַח (Zerach)",
+          "note": "Os dois nomes surgem do próprio parto. Perez vem de parats, romper ou abrir uma brecha, exatamente o que a parteira exclama no versículo 29. Zerá vem de zarach, erguer-se ou brilhar, e transmite a ideia do fio escarlate que apareceu primeiro. Rute 4:18-22 traça a linhagem de Davi a partir de Perez, e Mateus 1:3 cita Perez, Zerá e Tamar na genealogia de Jesus."
         }
       ],
-      "keyTakeaway": "Judá se casa com uma mulher cananeia e tem três filhos; quando seu primogênito Er morre, seu segundo filho Onã se recusa a gerar um herdeiro para o irmão e também é morto. Anos depois, Judá dorme sem saber com sua nora Tamar, que estava disfarçada de prostituta; quando a gravidez é descoberta, Judá reconhece que ela é mais justa do que ele, e ela dá à luz dois gêmeos, Perez e Zerá.",
+      "keyTakeaway": "Judá se casa com uma mulher cananeia e tem três filhos; quando seu primogênito Er morre, seu segundo filho Onã se recusa a gerar um herdeiro para o irmão e também é morto. Anos depois, sem saber, Judá se deita com sua nora Tamar, disfarçada de prostituta; quando a gravidez é descoberta, Judá reconhece que ela é mais justa do que ele, e ela dá à luz gêmeos, Perez e Zerá.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2895,16 +3240,17 @@
         "O carcereiro não precisava mais se preocupar com nada, pois José cuidava de tudo. O Senhor estava com ele e lhe dava sucesso em tudo que ele fazia. (39:23)."
       ],
       "crossRefs": [
-        "Atos 7:9: Os patriarcas, com inveja de José, o venderam ao Egito.",
-        "Gênesis 49:10: De Judá virá o cetro; Perez e Zerá traçam a linhagem de Judá adiante.",
-        "2 Samuel 7:14: A constância de Deus mesmo quando os homens cometem iniquidade.",
-        "1 Coríntios 10:13: Deus provê uma saída da tentação; José fugiu."
+        "Gênesis 37:36: Os midianitas vendem José no Egito a Potifar, oficial de Faraó e capitão da guarda.",
+        "Salmos 105:17-19: José, vendido como escravo, teve os pés presos em grilhões e o pescoço em ferros até que sua palavra se cumpriu.",
+        "Gênesis 40:1-4: O capitão da guarda coloca o copeiro e o padeiro de Faraó nessa mesma prisão e os entrega aos cuidados de José.",
+        "Gênesis 41:9-14: Por fim, o copeiro se lembra do jovem hebreu naquela prisão, e Faraó manda buscá-lo.",
+        "Gênesis 49:23-24: A bênção de Jacó relembra arqueiros que atacaram José com hostilidade e um arco que permaneceu firme."
       ],
       "translationNotes": [
         {
           "term": "Vender",
           "original": "Hebrew: מָכַר (makhar) - Greek: πιπράσκω (pipraskō) - Aramaic: זבן (zavan)",
-          "note": "Trocar por dinheiro; José foi vendido por vinte peças de prata."
+          "note": "Trocar por dinheiro; José foi vendido por vinte siclos de prata."
         },
         {
           "term": "Prostituta",
@@ -2922,7 +3268,7 @@
           "note": "Escapar ou correr; José fugiu quando foi agarrado pela mulher de Potifar."
         }
       ],
-      "keyTakeaway": "José prospera na casa de Potifar e é colocado no comando de tudo, mas quando recusa as investidas da mulher de Potifar ela o acusa falsamente de assédio; Potifar manda José para a prisão, onde o Senhor lhe concede favor e o carcereiro o coloca no comando da prisão.",
+      "keyTakeaway": "José prospera na casa de Potifar e recebe autoridade sobre tudo, mas, quando rejeita as investidas da mulher de Potifar, ela o acusa falsamente de agressão. Potifar manda José para a prisão, onde o Senhor lhe concede favor, e o carcereiro lhe dá autoridade sobre a prisão.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2962,30 +3308,47 @@
         "O chefe dos copeiros, porém, se esqueceu completamente de José e não pensou mais nele. (40:23)."
       ],
       "crossRefs": [
-        "Daniel 2:27–28: Daniel também declara que Deus revela mistérios, não os magos.",
-        "Salmos 105:20–22: Faraó fez José senhor de sua casa e governante de todos os seus bens.",
-        "Atos 7:10: Deus resgatou José de todas as aflições e lhe deu favor diante de Faraó."
+        "Neemias 2:1-5: Um copeiro real entrega seu vinho ao rei e recebe imediatamente o que pede.",
+        "Gênesis 41:9-13: Por fim, o chefe dos copeiros conta a Faraó sobre o hebreu que interpretou os dois sonhos.",
+        "Daniel 2:27-28: Daniel diz ao rei que nenhum sábio ou mago pode revelar o mistério, mas o Deus dos céus pode.",
+        "Gênesis 41:16: José volta a recusar o mérito e diz que Deus dará a resposta a Faraó.",
+        "Deuteronômio 21:22-23: Um corpo pendurado em uma árvore deve ser sepultado no mesmo dia, sem permanecer ali durante a noite."
       ],
       "translationNotes": [
+        {
+          "term": "Copeiro e padeiro",
+          "original": "Hebrew: מַשְׁקֶה (mashqeh, one who gives drink) - אֹפֶה (opheh, baker)",
+          "note": "Esses eram cargos da corte, não trabalhos de cozinha. O copeiro servia e provava o vinho do rei, o que o mantinha todos os dias ao lado do rei e fazia dele um dos homens de maior confiança do palácio; Neemias ocupou o mesmo cargo sob Artaxerxes (Neemias 1:11). O chefe dos padeiros administrava a padaria real. Ambos tinham nas mãos a comida do rei; por isso, 40:1 os mostra presos juntos por uma ofensa contra ele."
+        },
+        {
+          "term": "Levantará sua cabeça",
+          "original": "Hebrew: יִשָּׂא פַרְעֹה אֶת־רֹאשֶׁךָ (yissa Phar'oh eth roshekha)",
+          "note": "José usa a mesma expressão para os dois homens, mas ela tem sentidos opostos. Em 40:13, Faraó levantará a cabeça do copeiro, isto é, o chamará da prisão e o restaurará ao cargo. Em 40:19, Faraó levantará a cabeça do padeiro para fora dele, quatro palavras adicionais no hebraico que indicam uma decapitação. A tradução portuguesa precisa apresentar as duas frases de modos diferentes, e o leitor deixa de perceber que uma única expressão foi invertida."
+        },
         {
           "term": "Interpretação",
           "original": "Hebrew: פִּתְרוֹן (pitron) - Greek: ἑρμηνεία (hermēneia) - Aramaic: פִּשְׁרָא (pishra)",
           "note": "Explicação do significado de um sonho; José insiste que isso pertence a Deus."
         },
         {
-          "term": "Enforcar",
-          "original": "Hebrew: תָּלָה (talah) - Greek: κρεμάννυμι (kremannymi) - Aramaic: תלה (talah)",
-          "note": "Suspender; o padeiro foi executado por enforcamento, com aves consumindo sua carne."
+          "term": "As interpretações não pertencem a Deus?",
+          "original": "Hebrew: הֲלוֹא לֵאלֹהִים פִּתְרֹנִים (halo l'Elohim pithronim)",
+          "note": "O Egito tinha uma profissão treinada para isso. Sobreviveram manuais de sonhos que associavam imagens fixas a resultados determinados, e os sacerdotes dos rituais idólatras que os consultavam faziam parte da estrutura dos templos. Em 40:8, os dois prisioneiros reclamam que não há ninguém para interpretar, isto é, nenhum profissional está disponível na prisão. A resposta de José retira por completo essa profissão da questão."
         },
         {
-          "term": "Fome",
-          "original": "Hebrew: רָעָב (raʿav) - Greek: λιμός (limos) - Aramaic: ܟܦܢܐ (kefna)",
-          "note": "Escassez severa de alimentos; aqui descrita como cobrindo todas as terras."
+          "term": "Pendurado em uma árvore",
+          "original": "Hebrew: תָּלָה (talah)",
+          "note": "Talah significa pendurar ou suspender e abrange tanto suspender um corpo depois da execução quanto empalá-lo em uma estaca. O que 40:19 acrescenta é a parte decisiva: aves comendo a carne, portanto nenhuma sepultura. Mais tarde, Deuteronômio 21:22-23 exige que um corpo pendurado em uma árvore seja retirado antes do pôr do sol, e Josué 8:29 e 10:26-27 mostram isso sendo feito."
         },
         {
-          "term": "Zafenate-Paneia",
-          "original": "Egyptian (likely) - rendered in Hebrew: צָפְנַת פַּעְנֵחַ (Tsaphenath-paʿneach) - Greek: Ψονθομφανήχ (Psonthomphanēch)",
-          "note": "Nome egípcio dado a José; possivelmente “Deus fala e ele vive” ou “Revelador de segredos”."
+          "term": "O aniversário de Faraó",
+          "original": "Hebrew: יוֹם הֻלֶּדֶת אֶת־פַּרְעֹה (yom hulledeth eth Par'oh)",
+          "note": "40:20 é o primeiro aniversário citado nas Escrituras, e é o de um rei egípcio. Um dia de banquete real era uma ocasião em que o rei resolvia assuntos pendentes; por isso, perdões e execuções eram anunciados juntos, exatamente como acontece com os dois prisioneiros. Em Marcos 6:21, o aniversário de Herodes funciona da mesma forma."
+        },
+        {
+          "term": "A casa do capitão da guarda",
+          "original": "Hebrew: בֵּית שַׂר הַטַּבָּחִים (beth sar ha-tabbachim)",
+          "note": "Tabbach significa açougueiro ou cozinheiro; assim, o título diz literalmente 'chefe dos açougueiros' e era o nome habitual do comandante da guarda pessoal do rei, o mesmo cargo ocupado por Nebuzaradã em 2 Reis 25:8. Sua casa abrigava os prisioneiros do rei (39:20); por isso, José é ao mesmo tempo escravo, condenado e o homem encarregado dos outros condenados (40:4)."
         }
       ],
       "keyTakeaway": "O copeiro e o padeiro do faraó são presos no mesmo lugar onde José está detido; ambos têm sonhos na mesma noite, e José interpreta o sonho do copeiro como três dias até sua restauração e o do padeiro como três dias até sua execução. As previsões se cumprem no aniversário do faraó, mas o copeiro se esquece de José apesar de seu pedido para ser lembrado.",
@@ -3070,20 +3433,27 @@
         "Gente de todos os lugares ia ao Egito comprar cereais de José, pois a fome era terrível no mundo inteiro. (41:57)."
       ],
       "crossRefs": [
-        "Daniel 2:27–28: Daniel também declara que Deus revela mistérios, não os magos.",
-        "Salmos 105:20–22: Faraó fez José senhor de sua casa e governante de todos os seus bens.",
-        "Atos 7:10: Deus resgatou José de todas as aflições e lhe deu favor diante de Faraó."
+        "Salmos 105:20-22: O rei mandou soltá-lo e o tornou senhor de sua casa e governante de todos os seus bens.",
+        "Ester 8:2: Um rei entrega seu anel de sinete para transferir sua autoridade a um súdito.",
+        "Daniel 5:29: Daniel recebe roupas de púrpura e uma corrente de ouro e é proclamado o terceiro governante do reino.",
+        "Gênesis 47:13-26: A política de armazenamento de grãos iniciada aqui termina com as terras e o povo do Egito pertencendo a Faraó.",
+        "Atos dos Apóstolos 7:10: Deus concedeu a José favor e sabedoria diante de Faraó, que o nomeou governante do Egito."
       ],
       "translationNotes": [
+        {
+          "term": "Vacas saindo do Nilo",
+          "original": "Hebrew: יְאֹר (ye'or, the Nile)",
+          "note": "Ye'or é uma palavra emprestada do egípcio e significa o rio, especificamente o Nilo. O Egito vivia de sua cheia anual: a água subia a partir de julho, depositava lodo sobre os campos, e a altura da cheia determinava o tamanho da colheita, medida em escalas entalhadas nas margens. O gado fica no rio para escapar do calor e das moscas, a cena de 41:2-3. Sete anos de águas baixas correspondem à fome anunciada pelo sonho."
+        },
+        {
+          "term": "Os magos do Egito",
+          "original": "Hebrew: חַרְטֻמִּים (chartummim)",
+          "note": "A palavra vem do egípcio e designa os especialistas em rituais idólatras ligados aos templos, homens que liam e recitavam seus textos religiosos. Eles mantinham manuais escritos de sonhos que associavam imagens fixas a resultados determinados. Em 41:8, Faraó manda chamar todos eles, mas nenhum consegue responder. A mesma palavra volta a designar os homens que imitam Moisés em Êxodo 7:11 e depois fracassam em Êxodo 8:18."
+        },
         {
           "term": "Interpretação",
           "original": "Hebrew: פִּתְרוֹן (pitron) - Greek: ἑρμηνεία (hermēneia) - Aramaic: פִּשְׁרָא (pishra)",
           "note": "Explicação do significado de um sonho; José insiste que isso pertence a Deus."
-        },
-        {
-          "term": "Enforcar",
-          "original": "Hebrew: תָּלָה (talah) - Greek: κρεμάννυμι (kremannymi) - Aramaic: תלה (talah)",
-          "note": "Suspender; o padeiro foi executado por enforcamento, com aves consumindo sua carne."
         },
         {
           "term": "Fome",
@@ -3094,6 +3464,21 @@
           "term": "Zafenate-Paneia",
           "original": "Egyptian (likely) - rendered in Hebrew: צָפְנַת פַּעְנֵחַ (Tsaphenath-paʿneach) - Greek: Ψονθομφανήχ (Psonthomphanēch)",
           "note": "Nome egípcio dado a José; possivelmente “Deus fala e ele vive” ou “Revelador de segredos”."
+        },
+        {
+          "term": "o anel, o linho e a corrente de ouro",
+          "original": "Hebrew: שֵׁשׁ (shesh), fine linen, an Egyptian loanword",
+          "note": "Gênesis 41:42-43 descreve uma cerimônia egípcia de investidura, item por item. O anel de sinete trazia o selo que tornava oficial um documento; entregá-lo transferia o poder de agir em nome do rei. O linho fino era o tecido usado por sacerdotes e oficiais egípcios; a palavra hebraica empregada aqui veio do egípcio. Um pesado colar de ouro colocado ao redor do pescoço era a recompensa real egípcia habitual por serviços prestados, como mostram pinturas em tumbas. Viajar no segundo carro, com homens anunciando sua passagem, apresenta José publicamente como o segundo homem do reino."
+        },
+        {
+          "term": "Abreque",
+          "original": "Hebrew: אַבְרֵךְ (avrekh)",
+          "note": "A palavra gritada diante do carro de José em 41:43 não aparece em nenhum outro lugar das Escrituras, e seu significado não foi estabelecido. As versões a traduzem como 'ajoelhem-se' ou 'abram caminho', ou a deixam sem tradução. O próprio versículo estabelece o cenário: um arauto segue diante do segundo carro do reino em uma instalação pública no cargo."
+        },
+        {
+          "term": "Asenate, filha do sacerdote de Om",
+          "original": "Hebrew: אֹן (On) - Greek: Heliopolis, city of the sun",
+          "note": "Om é a cidade egípcia que os gregos chamavam Heliópolis, na extremidade sul do delta do Nilo, perto do Cairo atual, e era o principal centro de culto ao falso deus solar Rá. Seu sumo sacerdote era um dos homens mais poderosos do Egito. Em Gênesis 41:45, José se casa com alguém dessa família, o que torna um antigo prisioneiro estrangeiro aceitável para a estrutura de poder egípcia. Jeremias 43:13 cita o mesmo lugar e seus obeliscos pela forma hebraica Bete-Semes, 'casa do sol'."
         }
       ],
       "keyTakeaway": "Faraó sonha com sete vacas gordas devoradas por sete vacas magras e sete espigas saudáveis engolidas por sete murchas; José interpreta os sonhos como sete anos de abundância seguidos de sete anos de fome, propõe um plano de armazenamento e é elevado ao governo de todo o Egito. Durante os anos de abundância, José armazena grandes quantidades de grãos, casa-se com Asenate e tem dois filhos; quando a fome chega, só o Egito tem alimento e o mundo vem comprar grãos de José.",
@@ -3155,16 +3540,27 @@
         "Jacó, porém, respondeu: “Meu filho não descerá com vocês. Seu irmão José morreu, e Benjamim é tudo que me resta. Se alguma coisa acontecesse com ele na viagem, vocês me mandariam velho e infeliz para a sepultura”. (42:38)."
       ],
       "crossRefs": [
-        "Gênesis 37:7: O sonho de José sobre os feixes se curvando se cumpre quando os irmãos se prostram diante dele.",
-        "Gênesis 45:7: José diz que Deus o enviou para preservar vidas.",
-        "Atos 7:11–15: Estêvão relata a fome e a descida de Jacó ao Egito.",
-        "Êxodo 1:7: O povo de Israel foi fecundo e se multiplicou grandemente no Egito."
+        "Gênesis 37:5-8: O sonho dos feixes que se curvam, do qual José se lembra no momento em que seus irmãos se prostram.",
+        "Gênesis 37:21-22: Rúben tentou impedir que os irmãos matassem José; por isso, diz que eles precisam responder pelo sangue dele.",
+        "Atos dos Apóstolos 7:12: Jacó ouviu que havia trigo no Egito e enviou nossos antepassados em sua primeira viagem.",
+        "Gênesis 43:8-9: Judá, não Rúben, finalmente oferece a garantia que leva Jacó a liberar Benjamim.",
+        "Gênesis 44:1-13: A prata é colocada nos sacos deles uma segunda vez, agora acompanhada de um cálice de prata."
       ],
       "translationNotes": [
+        {
+          "term": "Desçam ao Egito",
+          "original": "Hebrew: שֶׁבֶר (shever, grain for purchase)",
+          "note": "Jacó manda seus filhos descerem em 42:1-2 porque Canaã cultivava encostas regadas pela chuva, e uma estação chuvosa fracassada a deixava sem colheita; o Egito, porém, era irrigado por um rio alimentado muito além da região e ainda podia ter grãos quando Canaã não tinha. Por isso, em tempos de fome, o movimento segue sempre nessa direção; Abraão (12:10) e, mais tarde, toda a casa de Jacó fazem o mesmo caminho. Shever é o grão comprado como provisão, e o verbo derivado dessa palavra aparece ao longo desses capítulos para a compra de alimento."
+        },
         {
           "term": "Espião",
           "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
           "note": "Aquele que anda secretamente para descobrir fraquezas; José acusa seus irmãos disso."
+        },
+        {
+          "term": "A nudez da terra",
+          "original": "Hebrew: עֶרְוַת הָאָרֶץ (erwath ha-arets)",
+          "note": "A acusação em 42:9 e 42:12 é que eles vieram descobrir onde o país estava indefeso. O Egito fortificou exatamente essa fronteira: uma cadeia de postos guardava a estrada costeira vinda de Canaã, e o texto do Reino Médio conhecido como Conto de Sinué cita uma barreira chamada Muralhas do Governante, construída para impedir a entrada de asiáticos. Dez homens de Canaã chegando juntos à fronteira oriental formavam exatamente o tipo de movimento que esses postos deviam barrar."
         },
         {
           "term": "*pecado*",
@@ -3172,9 +3568,19 @@
           "note": "Errar o alvo do mandamento de Deus; Rúben relembra o pecado deles contra José."
         },
         {
-          "term": "Copo de prata",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "Uma taça de prata; usada por José como objeto de seu teste."
+          "term": "Havia um intérprete entre eles",
+          "original": "Hebrew: הַמֵּלִיץ (ha-melits)",
+          "note": "42:23 explica toda a cena em uma única frase. José fala egípcio, e os irmãos, hebraico, com um tradutor trabalhando entre eles; assim, quando conversam diante dele sobre o que lhe fizeram, pensam estar seguros. José ouve cada palavra e se afasta para chorar. Melits designa um intermediário, a palavra que Jó 33:23 usa para mediador."
+        },
+        {
+          "term": "Simeão preso diante dos olhos deles",
+          "original": "Hebrew: וַיֶּאֱסֹר אֹתוֹ לְעֵינֵיהֶם (va-ye'esor otho le-enehem)",
+          "note": "José escolhe o segundo mais velho, não o primogênito. Rúben acaba de lembrá-los, em 42:22, de que lhes disse para não ferirem o rapaz, e 34:25 apresenta Simeão à frente do massacre em Siquém; assim, o irmão deixado em correntes é aquele que nunca defendeu misericórdia. Manter um refém para garantir o retorno de um grupo era prática comum de um Estado que lidava com estrangeiros."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "O domínio dos mortos no Antigo Testamento, um mundo inferior sombrio ao qual descem tanto justos quanto ímpios (Gênesis 37:35; Salmos 16:10). Não é necessariamente um lugar de tormento; corresponde mais a um estado de cessação e silêncio. A Septuaginta e o Novo Testamento o traduzem pela palavra grega Hades."
         }
       ],
       "keyTakeaway": "Jacó envia dez de seus filhos ao Egito para comprar grãos durante a fome; José, agora governador, os reconhece mas esconde sua identidade, os acusa de espionagem, os prende e exige que tragam o irmão mais novo, Benjamim. Quando os irmãos descobrem a prata devolvida em seus sacos e Simeão retido como refém, relatam tudo a Jacó, que se recusa a deixar Benjamim partir.",
@@ -3232,26 +3638,42 @@
         "Mandou encher os pratos deles com comida de sua própria mesa, e deram a Benjamim uma porção cinco vezes maior que a dos outros. E eles comeram e beberam à vontade com José. (43:34)."
       ],
       "crossRefs": [
-        "Gênesis 37:7: O sonho de José sobre os feixes se curvando se cumpre quando os irmãos se prostram diante dele.",
-        "Gênesis 45:7: José diz que Deus o enviou para preservar vidas.",
-        "Atos 7:11–15: Estêvão relata a fome e a descida de Jacó ao Egito.",
-        "Êxodo 1:7: O povo de Israel foi fecundo e se multiplicou grandemente no Egito."
+        "Gênesis 42:19-20: A condição que José estabeleceu na primeira viagem: eles deveriam trazer o irmão mais novo ao Egito.",
+        "Gênesis 37:25: A caravana que levou José ao Egito transportava o mesmo bálsamo, as mesmas especiarias e a mesma mirra enviados aqui como presente.",
+        "Gênesis 46:34: Os pastores eram detestáveis para os egípcios, o que explica as mesas separadas.",
+        "Gênesis 44:32-34: Judá cumpre a garantia que oferece ao pai neste capítulo.",
+        "Gênesis 45:22: Benjamim volta a receber tratamento especial, com trezentos siclos de prata e cinco mudas de roupa."
       ],
       "translationNotes": [
         {
-          "term": "Espião",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "Aquele que anda secretamente para descobrir fraquezas; José acusa seus irmãos disso."
+          "term": "O presente de 43:11",
+          "original": "Hebrew: צֳרִי (tsori, balm) - דְּבַשׁ (devash, honey) - נְכֹאת (nekhoth, gum) - לֹט (lot) - בָּטְנִים (botnim, pistachios) - שְׁקֵדִים (sheqedim, almonds)",
+          "note": "O presente que Jacó prepara em 43:11 contém as únicas coisas que Canaã tinha e o Egito não: resinas, nozes e xarope, todos leves, secos e valiosos o bastante para transportar. É a mesma carga levada pela caravana quando os irmãos tiraram José da cisterna e o venderam, em 37:25. Tsori, o bálsamo, era o produto de exportação pelo qual Gileade se tornou conhecida e o que Jeremias 8:22 cita pelo nome."
         },
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "Errar o alvo do mandamento de Deus; Rúben relembra o pecado deles contra José."
+          "term": "Mirra que não é mirra",
+          "original": "Hebrew: לֹט (lot) - מֹר (mor)",
+          "note": "O texto português traz 'mirra' em 43:11 e 37:25, mas a palavra hebraica nos dois lugares é lot, não mor. Mor é a mirra verdadeira, a resina da árvore Commiphora e um ingrediente do óleo santo da unção em Êxodo 30:23. Lot é outra resina, geralmente identificada como lábdano, a goma pegajosa retirada das folhas da esteva. São duas palavras originais traduzidas por uma só, e elas nunca aparecem juntas para mostrar a diferença."
         },
         {
-          "term": "Copo de prata",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "Uma taça de prata; usada por José como objeto de seu teste."
+          "term": "Deus Todo-Poderoso",
+          "original": "Hebrew: אֵל שַׁדַּי (El Shaddai)",
+          "note": "Jacó usa esse nome em 43:14 quando entrega Benjamim, e em Gênesis ele acompanha promessas feitas quando a situação parecia sem saída: em 17:1, a um homem de noventa e nove anos sem filhos; em 28:3 e 35:11, sobre a mesma linhagem familiar; e em 48:3, quando Jacó está morrendo. Êxodo 6:3 olha para trás e diz que os pais conheciam Deus como El Shaddai. O sentido de Shaddai não foi estabelecido; seu uso, sim."
+        },
+        {
+          "term": "Os egípcios não comiam com os hebreus",
+          "original": "Hebrew: תּוֹעֵבָה הִוא לְמִצְרָיִם (to'evah hi le-Mitsrayim)",
+          "note": "43:32 dispõe três mesas: uma para José, uma para os egípcios e uma para os irmãos, e diz que comer com hebreus era abominação para os egípcios. Heródoto, escrevendo no século V a.C., relata que a mesma separação ainda existia em seus dias: os egípcios se recusavam a usar a faca ou a panela de um grego ou a comer carne cortada com uma delas. 46:34 apresenta a forma específica dessa aversão: todo pastor era detestável para eles."
+        },
+        {
+          "term": "Sentados por ordem de idade",
+          "original": "Hebrew: הַבְּכֹר כִּבְכֹרָתוֹ (ha-bekhor ki-vkhorotho, the firstborn by his birthright)",
+          "note": "Os lugares à mesa eram distribuídos por posição social, e a ordem de nascimento definia essa posição; portanto, colocar corretamente onze homens, do mais velho ao mais novo, em 43:33 exigia uma informação que nenhum oficial egípcio deveria ter. O texto diz que eles olharam uns para os outros, espantados. Em seguida, 43:34 quebra de propósito a mesma regra e dá a Benjamim cinco vezes o que qualquer outro recebeu."
+        },
+        {
+          "term": "Encarregado da casa",
+          "original": "Hebrew: אֲשֶׁר עַל־בֵּיתוֹ (asher al betho)",
+          "note": "O homem que recebe os irmãos à porta (43:16, 43:19) ocupa um cargo egípcio real: o administrador que cuidava dos depósitos, dos empregados e das contas de uma grande casa e respondia apenas a seu proprietário. É o mesmo cargo que José havia ocupado na casa de Potifar, em 39:4. Pinturas em tumbas egípcias mostram administradores registrando entregas nos celeiros, exatamente o que esse homem faz com a prata devolvida."
         }
       ],
       "keyTakeaway": "Jacó finalmente consente em enviar Benjamim ao Egito; os irmãos voltam a José com presentes e o dobro de prata, e José os recebe em sua casa, chorando em particular ao ver Benjamim, antes de recebê-los em uma refeição em que Benjamim recebe uma porção cinco vezes maior que a dos outros.",
@@ -3309,16 +3731,27 @@
         "Pois, como poderei voltar a meu pai sem o rapaz? Não suportaria ver a angústia que isso lhe causaria!”. (44:34)."
       ],
       "crossRefs": [
-        "Gênesis 37:7: O sonho de José sobre os feixes se curvando se cumpre quando os irmãos se prostram diante dele.",
-        "Gênesis 45:7: José diz que Deus o enviou para preservar vidas.",
-        "Atos 7:11–15: Estêvão relata a fome e a descida de Jacó ao Egito.",
-        "Êxodo 1:7: O povo de Israel foi fecundo e se multiplicou grandemente no Egito."
+        "Gênesis 43:8-9: A garantia que Judá deu ao pai e que agora precisa cumprir.",
+        "Gênesis 37:26-27: Judá foi o irmão que propôs vender José aos mercadores.",
+        "Gênesis 42:38: As palavras de Jacó sobre seus cabelos grisalhos descerem ao Seol, que Judá repete a José.",
+        "Deuteronômio 18:10-11: A adivinhação e a interpretação de presságios são proibidas em Israel.",
+        "Gênesis 45:1-4: José perde o controle e revela sua identidade assim que Judá termina de falar."
       ],
       "translationNotes": [
         {
-          "term": "Espião",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "Aquele que anda secretamente para descobrir fraquezas; José acusa seus irmãos disso."
+          "term": "Taça de prata",
+          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
+          "note": "Uma taça de prata; usada por José como objeto de seu teste."
+        },
+        {
+          "term": "A taça pela qual ele adivinha",
+          "original": "Hebrew: נַחֵשׁ יְנַחֵשׁ (nachesh yenachesh, he surely divines)",
+          "note": "Em 44:5 e 44:15, o administrador diz que a taça é aquela pela qual seu senhor interpreta presságios. A prática é conhecida: despejava-se líquido em uma tigela e pingava-se óleo sobre ele; as formas criadas pela película eram lidas como respostas, método registrado em textos mesopotâmicos de instrução. Mais tarde, a lei proíbe pelo nome essa prática, nachash (Levítico 19:26, Deuteronômio 18:10). A acusação foi formulada para tornar esse objeto a pior coisa que os irmãos poderiam ter roubado."
+        },
+        {
+          "term": "Revistados do mais velho ao mais novo",
+          "original": "Hebrew: בַּגָּדוֹל הֵחֵל וּבַקָּטֹן כִּלָּה (ba-gadol hechel u-va-qaton killah)",
+          "note": "44:12 prolonga a busca de propósito. Seguir a ordem de idade faz com que dez sacos sejam encontrados limpos antes da abertura do último, e em 44:9 os irmãos já haviam apostado a vida e a liberdade no resultado. Rasgar as roupas em 44:13 era o sinal comum de luto e desastre em Israel, usado diante de uma morte (37:34) e da ruína (2 Reis 19:1)."
         },
         {
           "term": "*pecado*",
@@ -3326,12 +3759,17 @@
           "note": "Errar o alvo do mandamento de Deus; Rúben relembra o pecado deles contra José."
         },
         {
-          "term": "Copo de prata",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "Uma taça de prata; usada por José como objeto de seu teste."
+          "term": "Deixe-me ficar no lugar do rapaz",
+          "original": "Hebrew: יֵשֶׁב־נָא עַבְדְּךָ תַּחַת הַנַּעַר (yeshev na avdekha tachath ha-na'ar)",
+          "note": "O discurso de Judá em 44:18-34 é o mais longo pronunciado por uma pessoa em Gênesis, e a oferta final é exata: ele será o escravo, e Benjamim voltará para casa. Tachath significa 'no lugar de', uma pessoa ocupando a posição que caberia a outra. Esse é o mesmo Judá que propôs vender José por prata em 37:26-27 e que, em 43:9, já havia se oferecido como fiador do rapaz."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "O domínio dos mortos no Antigo Testamento, um mundo inferior sombrio ao qual descem tanto justos quanto ímpios (Gênesis 37:35; Salmos 16:10). Não é necessariamente um lugar de tormento; corresponde mais a um estado de cessação e silêncio. A Septuaginta e o Novo Testamento o traduzem pela palavra grega Hades."
         }
       ],
-      "keyTakeaway": "José manda seu mordomo esconder sua taça de prata na sacola de Benjamim, acusa os irmãos de roubo quando são pegos, e então ouve Judá suplicar apaixonadamente para ficar como escravo no lugar de Benjamim em vez de voltar ao pai sem ele.",
+      "keyTakeaway": "José manda seu administrador esconder sua taça de prata no saco de Benjamim, acusa os irmãos de roubo quando são detidos e depois ouve Judá suplicar com fervor para permanecer como escravo no lugar de Benjamim, em vez de voltar ao pai sem ele.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -3380,26 +3818,37 @@
         "Então Jacó exclamou: “Deve ser verdade! Meu filho José está vivo! Preciso ir e vê-lo antes que eu morra!”. (45:28)."
       ],
       "crossRefs": [
-        "Gênesis 37:7: O sonho de José sobre os feixes se curvando se cumpre quando os irmãos se prostram diante dele.",
-        "Gênesis 45:7: José diz que Deus o enviou para preservar vidas.",
-        "Atos 7:11–15: Estêvão relata a fome e a descida de Jacó ao Egito.",
-        "Êxodo 1:7: O povo de Israel foi fecundo e se multiplicou grandemente no Egito."
+        "Gênesis 37:26-28: Os irmãos vendem José a mercadores que seguiam para o Egito, o ato que ele agora menciona diante deles.",
+        "Gênesis 50:19-20: Depois da morte de Jacó, José repete: vocês planejaram o mal contra mim, mas Deus o planejou para o bem.",
+        "Gênesis 41:46-49: Os sete anos de armazenamento de grãos que colocaram o alimento do Egito nas mãos de José.",
+        "Atos dos Apóstolos 7:13-14: Na segunda viagem, José revela sua identidade e manda buscar o pai e todos os seus parentes.",
+        "Gênesis 46:28-30: Jacó chega a Gósen e finalmente vê o rosto de José."
       ],
       "translationNotes": [
         {
-          "term": "Espião",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "Aquele que anda secretamente para descobrir fraquezas; José acusa seus irmãos disso."
+          "term": "Mais cinco anos sem arar nem colher",
+          "original": "Hebrew: רָעָב (raav)",
+          "note": "A agricultura egípcia não dependia da chuva. Todo verão, o Nilo transbordava, espalhava-se pelo vale e deixava uma camada de lodo da qual dependia toda a colheita; a altura da cheia era medida e registrada porque tudo decorria dela. Uma sequência de cheias baixas significava ausência de plantio e colheita para o país inteiro; por isso, os celeiros que José encheu em Gênesis 41:47-49 podiam alimentar o Egito e seus vizinhos durante a fome."
         },
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "Errar o alvo do mandamento de Deus; Rúben relembra o pecado deles contra José."
+          "term": "Um pai para Faraó",
+          "original": "Hebrew: אָב לְפַרְעֹה (av le-Pharoh)",
+          "note": "Um título de honra para o principal conselheiro, não uma relação familiar. O cargo aparece em Gênesis 41:40-45: Faraó entrega a José seu anel de sinete, veste-o de linho fino, coloca uma corrente de ouro em seu pescoço, põe-no no segundo carro e lhe dá autoridade sobre toda a terra, tendo acima dele apenas o próprio trono. Essa é a posição de vizir, o homem que administrava o governo, os celeiros e os tribunais."
         },
         {
-          "term": "Copo de prata",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "Uma taça de prata; usada por José como objeto de seu teste."
+          "term": "A terra de Gósen",
+          "original": "Hebrew: גֹּשֶׁן (Goshen)",
+          "note": "Uma região no leste do delta do Nilo, boa para pastagem, situada no lado fronteiriço do Egito e distante da capital. Gênesis 47:11 também a chama de terra de Ramessés. Israel permaneceu ali durante toda sua estadia, e Êxodo 8:22 e 9:26 registram que Gósen foi o único lugar que as pragas não atingiram."
+        },
+        {
+          "term": "Carroças",
+          "original": "Hebrew: עֲגָלוֹת (agalot)",
+          "note": "As famílias de pastores em Canaã viajavam com jumentos; carroças com rodas puxadas por bois eram equipamento do Estado, e Faraó enviá-las constitui um ato oficial, não mera cortesia. Por isso, o versículo 27 as apresenta como aquilo que convence Jacó: ele não acredita no relato até ver as carroças."
+        },
+        {
+          "term": "Trezentos siclos de prata e cinco mudas de roupa",
+          "original": "Hebrew: שֶׁקֶל (sheqel)",
+          "note": "O siclo era uma medida de peso, cerca de 11,4 gramas, não uma moeda; assim, trezentos siclos correspondem a aproximadamente sete libras e meia de prata. Para comparação, o próprio José havia sido vendido por vinte siclos (Gênesis 37:28), exatamente a avaliação que Levítico 27:5 estabelece para um homem entre cinco e vinte anos, e Abraão pagou quatrocentos siclos pelo campo e pela caverna de Macpela (Gênesis 23:15-16). As roupas eram fiadas e tecidas à mão, portanto conjuntos de vestes também representavam riqueza real; Sansão aposta trinta deles em Juízes 14:12."
         }
       ],
       "keyTakeaway": "José se revela aos seus irmãos, chora com eles, garante que Deus o enviou ao Egito para preservar suas vidas durante a fome e os instrui a trazerem seu pai Jacó ao Egito. Faraó aprova o plano e fornece carroças e provisões; os irmãos retornam a Canaã e contam a Jacó que José está vivo e governa o Egito.",
@@ -3457,26 +3906,37 @@
         "digam o seguinte: ‘Durante toda a vida, nós, seus servos, criamos rebanhos e gado, como sempre fizeram nossos antepassados’. Quando lhe disserem isso, ele permitirá que vivam aqui na região de Gósen, pois os egípcios desprezam os pastores”. (46:34)."
       ],
       "crossRefs": [
-        "Gênesis 37:7: O sonho de José sobre os feixes se curvando se cumpre quando os irmãos se prostram diante dele.",
-        "Gênesis 45:7: José diz que Deus o enviou para preservar vidas.",
-        "Atos 7:11–15: Estêvão relata a fome e a descida de Jacó ao Egito.",
-        "Êxodo 1:7: O povo de Israel foi fecundo e se multiplicou grandemente no Egito."
+        "Êxodo 1:1-5: Os mesmos nomes abrem Êxodo, e os descendentes de Jacó são contados como setenta ao todo.",
+        "Deuteronômio 10:22: Seus antepassados desceram ao Egito, setenta ao todo, e Deus os tornou tão numerosos quanto as estrelas.",
+        "Gênesis 15:13-14: Deus disse a Abrão que seus descendentes seriam estrangeiros em uma terra que não lhes pertencia e sairiam dela com muitos bens.",
+        "Gênesis 28:13-15: A promessa feita em Betel de que Deus traria Jacó de volta a esta terra, renovada aqui em Berseba.",
+        "Números 26:5-51: Os clãs citados nesta lista são contados como as famílias de Israel uma geração depois."
       ],
       "translationNotes": [
         {
-          "term": "Espião",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "Aquele que anda secretamente para descobrir fraquezas; José acusa seus irmãos disso."
+          "term": "Berseba",
+          "original": "Hebrew: בְּאֵר שֶׁבַע (Beer Sheva)",
+          "note": "O nome significa 'poço dos sete' ou 'poço do juramento', e os dois sentidos aparecem em Gênesis 21:27-31, onde Abraão dá a Abimeleque sete cordeiras como testemunho de um acordo jurado sobre um poço. Berseba fica na extremidade sul da região habitada, a última parada antes da estrada do deserto que desce ao Egito; por isso, Jacó para e oferece sacrifícios ali. Isaque havia cavado um poço e construído um altar no mesmo lugar (Gênesis 26:23-25), e 'de Dã a Berseba' se tornou a expressão habitual para toda a terra (Juízes 20:1)."
         },
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "Errar o alvo do mandamento de Deus; Rúben relembra o pecado deles contra José."
+          "term": "As próprias mãos de José fecharão seus olhos",
+          "original": "Hebrew: יָשִׁית יָדוֹ עַל־עֵינֶיךָ (yashit yado al eyneykha)",
+          "note": "Fechar os olhos de um homem morto era dever do filho mais próximo, e ter um filho presente para fazê-lo fazia parte de uma boa morte. A promessa responde ao medo de Jacó de morrer sem voltar a ver José. Gênesis 50:1 registra o momento: José se lança sobre o rosto do pai, chora sobre ele e o beija."
         },
         {
-          "term": "Copo de prata",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "Uma taça de prata; usada por José como objeto de seu teste."
+          "term": "Potífera, sacerdote de Om",
+          "original": "Hebrew: אֹן (On)",
+          "note": "Om é Heliópolis, a cidade-templo do falso deus solar Rá, a nordeste do Cairo atual, sede de um dos sacerdócios mais antigos e ricos do Egito. Jeremias 43:13 a cita pelo nome hebraico Bete-Semes, 'casa do sol', e promete a destruição de seus pilares religiosos, os altos obeliscos que ficavam diante do templo. A esposa de José, dada a ele por Faraó em Gênesis 41:45, era filha do sacerdote desse templo."
+        },
+        {
+          "term": "Sessenta e seis, e setenta ao todo",
+          "original": "Hebrew: שִׁבְעִים נֶפֶשׁ (shivim nephesh)",
+          "note": "Os dois números contam grupos diferentes. O versículo 26 conta os sessenta e seis descendentes diretos que realmente fizeram a viagem, sem incluir as esposas dos filhos de Jacó; o versículo 27 acrescenta José e seus dois filhos, que já estavam no Egito, além do próprio Jacó, chegando a setenta. A Septuaginta grega registra setenta e cinco aqui e em Êxodo 1:5, número que Estêvão usa em Atos 7:14."
+        },
+        {
+          "term": "Todos os pastores são detestáveis para os egípcios",
+          "original": "Hebrew: תּוֹעֵבָה (toevah)",
+          "note": "Toevah é a palavra mais forte para algo que um povo não tolera perto de si. Gênesis 43:32 registra a mesma barreira à mesa: os egípcios não comiam pão com os hebreus, pois isso também era toevah para eles. O texto declara o fato, mas não explica a razão. Ele mostra, porém, José usando essa aversão: a família recebe instruções para declarar seu ofício, de modo que Faraó os estabeleça separados em Gósen."
         }
       ],
       "keyTakeaway": "Jacó parte de Berseba após Deus assegurá-lo em uma visão de que se tornará uma grande nação no Egito e será trazido de volta; ele chega a Gósen com todos os seus descendentes e rebanhos, onde se reencontra com José, que orienta sua família a dizer ao Faraó que são pastores para que possam se estabelecer em Gósen.",
@@ -3531,26 +3991,42 @@
         "“Jure que o fará”, insistiu. José fez o juramento, e Jacó se curvou humildemente à cabeceira de sua cama. (47:31)."
       ],
       "crossRefs": [
-        "Gênesis 37:7: O sonho de José sobre os feixes se curvando se cumpre quando os irmãos se prostram diante dele.",
-        "Gênesis 45:7: José diz que Deus o enviou para preservar vidas.",
-        "Atos 7:11–15: Estêvão relata a fome e a descida de Jacó ao Egito.",
-        "Êxodo 1:7: O povo de Israel foi fecundo e se multiplicou grandemente no Egito."
+        "Gênesis 41:34-36: O plano de José de recolher a quinta parte da colheita durante os sete anos de fartura.",
+        "Êxodo 1:7: Em Gósen, os israelitas foram fecundos, multiplicaram-se e se tornaram extremamente numerosos.",
+        "Gênesis 24:2-9: O servo de Abraão faz o juramento da mesma maneira, colocando a mão debaixo da coxa de seu senhor.",
+        "Gênesis 50:4-6: José pede a Faraó permissão para cumprir esse juramento e levar o pai de volta a Canaã.",
+        "Gênesis 25:7-8: Abraão viveu 175 anos, mais que os 147 anos registrados aqui para Jacó."
       ],
       "translationNotes": [
         {
-          "term": "Espião",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "Aquele que anda secretamente para descobrir fraquezas; José acusa seus irmãos disso."
+          "term": "Gósen",
+          "original": "Hebrew: גֹּשֶׁן (Goshen)",
+          "note": "Gósen fica no leste do delta do Nilo, na melhor região de pastagem do Egito e na primeira faixa do país alcançada por um viajante vindo de Canaã. Gênesis 47:11 também a chama de terra de Ramessés. Estabelecer a família ali a manteve na fronteira, não no coração do Egito, o que convinha aos dois lados, pois Gênesis 46:34 diz que todo pastor era detestável para os egípcios. Israel mais tarde saiu dessa mesma região, e Êxodo 8:22 e 9:26 mostram Gósen protegida das pragas."
         },
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "Errar o alvo do mandamento de Deus; Rúben relembra o pecado deles contra José."
+          "term": "Poucos e difíceis foram os dias da minha vida",
+          "original": "Hebrew: מְעַט וְרָעִים (me'at ve-ra'im)",
+          "note": "Em 47:9, Jacó diz a Faraó que seus anos de peregrinação são cento e trinta, poucos e difíceis, e não alcançam os de seus pais. Escritos egípcios apresentam cento e dez anos como a duração ideal de uma vida, o número redondo que um escriba escolheria, e essa é exatamente a idade que José alcança em 50:22. Jacó está diante do rei do Egito e chama cento e trinta anos de poucos."
         },
         {
-          "term": "Copo de prata",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "Uma taça de prata; usada por José como objeto de seu teste."
+          "term": "a quinta parte para Faraó",
+          "original": "Hebrew: חֲמִישִׁית (chamishit), a fifth",
+          "note": "Gênesis 47:20-26 registra uma mudança permanente no sistema fundiário do Egito: a coroa passa a possuir as terras agrícolas, os agricultores as cultivam como arrendatários, e a quinta parte da colheita vai para Faraó todos os anos. Os sacerdotes ficam isentos porque recebem do rei uma provisão fixa (47:22). Vinte por cento era uma taxa suportável; em contraste, 1 Samuel 8:11-17 adverte Israel de que seu próprio rei tomaria seus filhos para os carros, suas filhas para as cozinhas, o melhor de seus campos e a décima parte tanto dos grãos quanto dos rebanhos."
+        },
+        {
+          "term": "Ponha a mão debaixo da minha coxa",
+          "original": "Hebrew: שִׂים־נָא יָדְךָ תַּחַת יְרֵכִי (sim na yadekha tachath yerekhi)",
+          "note": "O gesto de 47:29 aparece apenas mais uma vez nas Escrituras, em 24:2, e nas duas ocasiões sela um juramento sobre a continuidade da família: um lugar de sepultamento e uma esposa para o filho. Yarekh designa a parte superior da coxa e os lombos, a parte do corpo que Gênesis usa para falar de descendência, como em 46:26: os que saíram dos lombos de Jacó. O juramento é feito sobre a própria linhagem."
+        },
+        {
+          "term": "Não me sepulte no Egito",
+          "original": "Hebrew: וּקְבַרְתַּנִי בִּקְבֻרָתָם (u-qevartani bi-qvurotham, bury me in their burying place)",
+          "note": "Em 47:29-30, Jacó faz José jurar que o levará para fora do Egito, até o túmulo da família. Esse túmulo é a caverna de Macpela, em Hebrom, comprada diretamente por Abraão por quatrocentos siclos de prata (23:16), a única terra que a família possuía em Canaã. Ser levado de volta para lá constitui uma reivindicação da terra feita enquanto toda a casa vive em outro país."
+        },
+        {
+          "term": "A cama ou o cajado",
+          "original": "Hebrew: הַמִּטָּה (ha-mittah, the bed) - הַמַּטֶּה (ha-matteh, the staff)",
+          "note": "47:31 diz que Israel se curvou à cabeceira da cama. Sem os sinais vocálicos, as letras hebraicas para 'cama' e 'cajado' são idênticas, e a Septuaginta leu a segunda opção: 'sobre a ponta de seu cajado'. Hebreus 11:21 cita o texto dessa forma. Nenhum dos textos está corrompido; o mesmo conjunto de consoantes comporta as duas palavras, e este é um dos lugares mais claros para observar isso."
         }
       ],
       "keyTakeaway": "José obtém permissão do Faraó para que sua família se estabeleça em Gósen, apresenta seu pai Jacó ao Faraó e os abastece com alimentos e terra. Durante a grave fome, José recolhe todo o dinheiro e o gado dos egípcios para o Faraó, depois compra o próprio povo e suas terras em servidão, estabelecendo um imposto de um quinto sobre as colheitas futuras; Jacó vive mais dezessete anos no Egito e pede a José que jure enterrá-lo com seus antepassados em Canaã.",
@@ -3596,10 +4072,11 @@
         "Em razão de sua autoridade sobre seus irmãos, eu lhe dou uma porção a mais da terra, que tomei dos amorreus com a minha espada e o meu arco”. (48:22)."
       ],
       "crossRefs": [
-        "Hebreus 11:21–22: Jacó abençoa os filhos de José; José fala do Êxodo e de seus ossos.",
-        "Êxodo 13:19: Moisés leva os ossos de José do Egito.",
-        "Josué 24:32: Os ossos de José são sepultados em Siquém.",
-        "Gênesis 15:13–14: Deus predisse a Abraão que seus descendentes seriam estrangeiros em outra terra antes da libertação."
+        "Gênesis 41:50-52: Manassés e Efraim nasceram de José no Egito por meio de Asenate, antes dos anos de fome.",
+        "Hebreus 11:21: Pela fé, Jacó, à beira da morte, abençoou cada um dos filhos de José e adorou apoiado em seu cajado.",
+        "Deuteronômio 21:15-17: O direito do primogênito corresponde a uma porção dupla da herança.",
+        "Josué 16:4-5: Efraim e Manassés recebem sua herança como duas tribos distintas na terra.",
+        "Gênesis 35:16-20: Raquel morreu no caminho para Efrata e foi sepultada ali, fato que Jacó relembra em 48:7."
       ],
       "translationNotes": [
         {
@@ -3608,17 +4085,32 @@
           "note": "Proferir palavras de favor e prosperidade; consideradas vinculantes e proféticas."
         },
         {
-          "term": "Cetro",
-          "original": "Hebrew: שֵׁבֶט (shevet) - Greek: σκῆπτρον (skēptron) - Aramaic: שבטא (shevta)",
-          "note": "Uma vara ou bastão que simboliza autoridade; Jacó diz que o cetro não se afastará de Judá."
+          "term": "Eles são meus, como Rúben e Simeão",
+          "original": "Hebrew: לִי־הֵם (li hem, they are mine)",
+          "note": "48:5 registra um ato legal, não uma expressão de carinho. Jacó adota como seus os dois filhos de José; por isso, as listas tribais posteriores incluem Efraim e Manassés, mas nenhuma tribo de José, e o total ainda chega a doze quando Levi é separado para o santuário sem receber território próprio (Josué 13:14). José recebe a porção dupla do primogênito na forma de duas tribos."
         },
         {
-          "term": "Embalsamar",
-          "original": "Hebrew: חָנַט (ḥanat) - Greek: ταριχεύω (taricheuō) - Aramaic: חנט (ḥanat)",
-          "note": "Preservar um corpo com especiarias e preparação; prática funerária egípcia."
+          "term": "De entre seus joelhos",
+          "original": "Hebrew: מֵעִם בִּרְכָּיו (me'im birkav)",
+          "note": "Colocar uma criança sobre os joelhos era um ato formal de reconhecimento, a maneira pela qual uma família a recebia como sua. Raquel usa a expressão em 30:3, para que Bila dê à luz sobre seus joelhos, e 50:23 diz que os filhos de Maquir nasceram sobre os joelhos de José. Assim, os meninos colocados junto aos joelhos de Jacó em 48:12 são recebidos antes de serem abençoados."
+        },
+        {
+          "term": "A mão direita",
+          "original": "Hebrew: יָמִין (yamin)",
+          "note": "A mão direita transmitia a bênção maior; por isso, José posiciona Manassés diante dela e segura a mão do pai para mudá-la em 48:17-18. Jacó cruza os braços de propósito, e 48:14 usa um verbo raro, sikkel, para esse cruzamento. Efraim, o mais novo, recebe a mão direita, a quarta vez em Gênesis que o segundo filho ocupa o lugar do primeiro."
+        },
+        {
+          "term": "O Anjo que me resgatou",
+          "original": "Hebrew: הַמַּלְאָךְ הַגֹּאֵל אֹתִי (ha-mal'akh ha-go'el othi)",
+          "note": "Go'el é o resgatador da família, o parente mais próximo legalmente obrigado a recomprar um familiar vendido como escravo ou um campo perdido e a responder por um homicídio (Levítico 25:25, 25:47-49, Números 35:19). É o papel assumido por Boaz em Rute 4. 48:16 é a primeira vez nas Escrituras que a palavra se aplica a Deus, e Jacó é quem a usa."
+        },
+        {
+          "term": "Uma porção, shekhem, a mais que seus irmãos",
+          "original": "Hebrew: שְׁכֶם אַחַד (shekhem achad)",
+          "note": "Shekhem significa 'ombro' e, por extensão, uma serra e uma porção de terra; também é o nome de uma cidade. Em 48:22, José recebe um shekhem a mais que seus irmãos. Jacó havia comprado em Siquém um campo por cem peças de prata (33:19), e Josué 24:32 sepulta os ossos de José exatamente nesse terreno, que a nação retornada ainda conserva como sua herança."
         }
       ],
-      "keyTakeaway": "Josué leva seus dois filhos Manassés e Efraim ao pai Jacó, que está morrendo; Jacó os adota como filhos e os abençoa, colocando deliberadamente a mão direita sobre a cabeça do mais novo, Efraim, em vez do primogênito Manassés; Josué objeta, mas Jacó recusa mudar, dizendo que Efraim será o maior.",
+      "keyTakeaway": "José leva seus dois filhos, Manassés e Efraim, ao pai Jacó, que está morrendo; Jacó os adota como filhos e os abençoa. Deliberadamente, ele põe a mão direita sobre a cabeça do mais novo, Efraim, em vez de sobre o primogênito, Manassés. José contesta, mas Jacó se recusa a mudar as mãos e diz que Efraim será maior.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -3672,10 +4164,11 @@
         "Quando Jacó terminou de dar essa instrução a seus filhos, deitou-se em sua cama, deu o último suspiro e, ao morrer, reuniu-se a seus antepassados. (49:33)."
       ],
       "crossRefs": [
-        "Hebreus 11:21–22: Jacó abençoa os filhos de José; José fala do Êxodo e de seus ossos.",
-        "Êxodo 13:19: Moisés leva os ossos de José do Egito.",
-        "Josué 24:32: Os ossos de José são sepultados em Siquém.",
-        "Gênesis 15:13–14: Deus predisse a Abraão que seus descendentes seriam estrangeiros em outra terra antes da libertação."
+        "Deuteronômio 33:1-29: Moisés abençoa as mesmas tribos, uma por uma, antes de sua própria morte.",
+        "Gênesis 35:22: Rúben se deitou com Bila, concubina de seu pai, o ato citado em 49:4.",
+        "Números 24:17: Uma estrela sairá de Jacó, e um cetro se levantará de Israel.",
+        "Apocalipse 5:5: O Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o livro.",
+        "Gênesis 23:16-20: O campo e a caverna de Macpela, que Jacó indica como seu lugar de sepultamento, foram comprados por Abraão."
       ],
       "translationNotes": [
         {
@@ -3684,14 +4177,39 @@
           "note": "Proferir palavras de favor e prosperidade; consideradas vinculantes e proféticas."
         },
         {
+          "term": "Você subiu à cama de seu pai",
+          "original": "Hebrew: פַּחַז כַּמַּיִם (pachaz ka-mayim, unstable as water)",
+          "note": "49:3-4 retira do primogênito sua posição e apresenta a razão sem suavizá-la: ele subiu à cama de seu pai. 35:22 registra o ato em uma frase, Rúben se deitando com Bila, e diz que Israel soube disso. 1 Crônicas 5:1 declara diretamente a consequência: o direito de primogenitura passou aos filhos de José."
+        },
+        {
+          "term": "Eu os espalharei em Israel",
+          "original": "Hebrew: אֲחַלְּקֵם בְּיַעֲקֹב וַאֲפִיצֵם בְּיִשְׂרָאֵל (achalleqem be-Ya'aqov va-aphitsem be-Yisra'el)",
+          "note": "49:5-7 sentencia Simeão e Levi pela matança em Siquém, no capítulo 34, e a sentença é a dispersão. Ela pode ser acompanhada no mapa: Levi não recebeu território algum, apenas quarenta e oito cidades espalhadas entre as outras tribos (Josué 21); a parte de Simeão ficou dentro das fronteiras de Judá, pois a porção de Judá era grande demais para ele (Josué 19:1, 19:9)."
+        },
+        {
           "term": "Cetro",
           "original": "Hebrew: שֵׁבֶט (shevet) - Greek: σκῆπτρον (skēptron) - Aramaic: שבטא (shevta)",
           "note": "Uma vara ou bastão que simboliza autoridade; Jacó diz que o cetro não se afastará de Judá."
         },
         {
-          "term": "Embalsamar",
-          "original": "Hebrew: חָנַט (ḥanat) - Greek: ταριχεύω (taricheuō) - Aramaic: חנט (ḥanat)",
-          "note": "Preservar um corpo com especiarias e preparação; prática funerária egípcia."
+          "term": "Ele lava suas roupas no vinho",
+          "original": "Hebrew: בַּיַּיִן לְבֻשׁוֹ (ba-yayin levusho)",
+          "note": "49:11-12 retrata uma terra tão carregada de videiras que um homem amarra seu jumento a uma delas e lava a roupa em vinho. Prender um animal a uma videira normalmente a destruiria, e o vinho era valioso demais para ser desperdiçado; portanto, as duas imagens expressam abundância deliberadamente exagerada. As uvas eram pisadas com os pés descalços em um tanque de pedra, e o suco corria para uma bacia inferior, origem das roupas manchadas na imagem."
+        },
+        {
+          "term": "Zebulom junto ao mar, Issacar no trabalho forçado",
+          "original": "Hebrew: מַס־עֹבֵד (mas oved, a labour gang)",
+          "note": "Duas tribos são situadas geograficamente. 49:13 coloca Zebulom em direção ao mar, junto a um porto para navios, com sua fronteira em Sidom, o porto fenício. 49:14-15 mostra Issacar estabelecido em boas terras no vale e curvando os ombros para carregar, tornando-se mas oved. Mas é a corveia, uma convocação de trabalho forçado imposta por um governante; Salomão recrutou uma de trinta mil homens (1 Reis 5:13-14)."
+        },
+        {
+          "term": "O Pastor, a Pedra de Israel",
+          "original": "Hebrew: רֹעֶה אֶבֶן יִשְׂרָאֵל (ro'eh even Yisra'el)",
+          "note": "49:24-25 acumula títulos de Deus em quatro linhas: o Poderoso de Jacó, o Pastor, a Pedra de Israel e El Shaddai. Esta é a primeira vez nas Escrituras que Deus recebe diretamente o título de Pastor, e Jacó já havia usado a ideia em 48:15: o Deus que foi meu pastor durante toda a minha vida. As bênçãos seguintes citam o céu acima, as profundezas abaixo, os seios e o ventre."
+        },
+        {
+          "term": "A caverna de Macpela",
+          "original": "Hebrew: מְעָרַת הַמַּכְפֵּלָה (me'arath ha-Makhpelah)",
+          "note": "49:29-32 cita todas as pessoas no túmulo da família: Abraão e Sara, Isaque e Rebeca, Lia e, agora, Jacó. Também cita o título de propriedade, o campo comprado de Efrom, o hitita, com a caverna, e 23:16 informa o preço: quatrocentos siclos de prata pesados diante de testemunhas à porta da cidade. É a única parte de Canaã que a família possui, e é uma sepultura."
         }
       ],
       "keyTakeaway": "Jacó reúne seus filhos e pronuncia sobre cada um uma bênção ou declaração a respeito do futuro; em seguida instrui que o enterrem na caverna de Macpela com seus antepassados e morre.",
@@ -3737,26 +4255,47 @@
         "José morreu com 110 anos. Os egípcios o embalsamaram e o colocaram em um caixão no Egito. (50:26)."
       ],
       "crossRefs": [
-        "Hebreus 11:21–22: Jacó abençoa os filhos de José; José fala do Êxodo e de seus ossos.",
-        "Êxodo 13:19: Moisés leva os ossos de José do Egito.",
-        "Josué 24:32: Os ossos de José são sepultados em Siquém.",
-        "Gênesis 15:13–14: Deus predisse a Abraão que seus descendentes seriam estrangeiros em outra terra antes da libertação."
+        "Êxodo 13:19: Moisés leva os ossos de José para fora do Egito, cumprindo o juramento feito no fim deste capítulo.",
+        "Josué 24:32: Os ossos de José são sepultados em Siquém, no terreno que Jacó havia comprado.",
+        "Hebreus 11:22: Pela fé, José, quando seu fim se aproximava, falou do êxodo e deu instruções sobre seus ossos.",
+        "Gênesis 23:16-20: Abraão pesou quatrocentos siclos pelo campo e pela caverna onde Jacó agora é sepultado.",
+        "Gênesis 45:4-8: José já havia dito aos irmãos que Deus o enviara adiante deles para preservar vidas."
       ],
       "translationNotes": [
         {
-          "term": "Abençoar",
-          "original": "Hebrew: בָּרַךְ (barakh) - Greek: εὐλογέω (eulogeō) - Aramaic: ܒܪܟ (barak)",
-          "note": "Proferir palavras de favor e prosperidade; consideradas vinculantes e proféticas."
-        },
-        {
-          "term": "Cetro",
-          "original": "Hebrew: שֵׁבֶט (shevet) - Greek: σκῆπτρον (skēptron) - Aramaic: שבטא (shevta)",
-          "note": "Uma vara ou bastão que simboliza autoridade; Jacó diz que o cetro não se afastará de Judá."
+          "term": "como os egípcios embalsamavam",
+          "original": "Hebrew: חָנַט (chanat), to embalm or spice",
+          "note": "Gênesis 50:2-3 determina quarenta dias para o embalsamamento e setenta dias de luto egípcio e diz que médicos realizaram o trabalho. Heródoto, escrevendo no século V a.C., descreve o procedimento em detalhes: o cérebro retirado pelas narinas com um gancho de ferro, o abdômen aberto, limpo e preenchido com mirra e cássia, e o corpo desidratado em natrão, um sal natural dos lagos do deserto. José é embalsamado da mesma maneira em 50:26 e colocado em um caixão no Egito; Êxodo 13:19 registra seus ossos sendo levados para fora no êxodo."
         },
         {
           "term": "Embalsamar",
           "original": "Hebrew: חָנַט (ḥanat) - Greek: ταριχεύω (taricheuō) - Aramaic: חנט (ḥanat)",
           "note": "Preservar um corpo com especiarias e preparação; prática funerária egípcia."
+        },
+        {
+          "term": "Setenta dias de luto",
+          "original": "Hebrew: שִׁבְעִים יוֹם (shiv'im yom)",
+          "note": "50:3 estabelece quarenta dias para o embalsamamento e setenta dias de choro, e 50:10 acrescenta outros sete dias na eira de Atade quando o cortejo chega a Canaã. Setenta dias correspondiam ao período completo de luto egípcio por uma pessoa de alta posição; assim, um pastor estrangeiro recebe as honras fúnebres da corte egípcia. O costume de Israel era de sete dias (1 Samuel 31:13) e de trinta para Arão e Moisés (Números 20:29, Deuteronômio 34:8)."
+        },
+        {
+          "term": "a eira de Atade",
+          "original": "Hebrew: גֹּרֶן (goren), threshing floor",
+          "note": "Uma eira era um círculo plano, duro e aberto, de rocha ou terra batida, situado em uma elevação para receber o vento. Era o único espaço amplo e nivelado perto da maioria das cidades, por isso também servia para reuniões públicas. Em Gênesis 50:10-11, o cortejo fúnebre para em uma delas para um luto de sete dias. Rute 3 se passa na eira de Belém, e em 2 Samuel 24:18-25 Davi compra a eira de Araúna, o terreno sobre o qual o templo seria construído mais tarde."
+        },
+        {
+          "term": "Abel-Mizraim",
+          "original": "Hebrew: אָבֵל מִצְרַיִם (Avel Mitsrayim) - אֵבֶל (evel, mourning)",
+          "note": "Em 50:11, os cananeus observam o funeral e dizem que aquele é um luto profundo para os egípcios, e o lugar recebe o nome a partir dessas palavras. O trocadilho está em uma letra: evel significa 'luto', e avel, em nomes de lugares, significa 'prado' ou 'curso de água', como em Abel-Sitim e Abel-Meolá. O português precisa imprimir uma das duas formas e perde a outra."
+        },
+        {
+          "term": "Vocês planejaram o mal; Deus o planejou para o bem",
+          "original": "Hebrew: חֲשַׁבְתֶּם (chashavtem) - חֲשָׁבָהּ (chashavah)",
+          "note": "50:20 usa duas vezes o mesmo verbo, chashav, que significa calcular, planejar ou considerar. Os irmãos planejaram uma coisa, e Deus dirigiu o mesmo ato para outro fim; a frase depende da repetição, não de duas palavras diferentes. José já havia dito algo semelhante em 45:5 e 45:8, e 50:19 começa com a pergunta: 'Por acaso estou no lugar de Deus?'"
+        },
+        {
+          "term": "Um caixão no Egito",
+          "original": "Hebrew: אָרוֹן (aron)",
+          "note": "Aron significa baú ou caixa e é a mesma palavra usada para a arca da aliança. Aqui, em 50:26, trata-se de um caixão egípcio, e a última linha de Gênesis deixa José embalsamado e encerrado acima do solo, em vez de sepultado na terra. Em Êxodo 13:19, Moisés leva consigo os ossos de José no êxodo; Josué 24:32 finalmente os sepulta em Siquém, no campo comprado por Jacó."
         }
       ],
       "keyTakeaway": "José embalsama seu pai Jacó e o enterra em Canaã com um grande cortejo egípcio e familiar; de volta ao Egito, os irmãos de José temem represálias, mas ele os perdoa, dizendo que Deus transformou o mal deles em bem. José vive até os 110 anos, vê seus descendentes e faz sua família jurar que levará seus ossos para Canaã quando Deus os tirar do Egito.",

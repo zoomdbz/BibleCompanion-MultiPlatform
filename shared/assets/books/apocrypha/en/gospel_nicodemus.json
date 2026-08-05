@@ -42,18 +42,99 @@
         "The narrative closes with exhortation to proclaim the victory of Christ’s resurrection and liberation of the righteous."
       ],
       "crossRefs": [
-        "Luke 23:1–2: Leaders accuse Jesus before Pilate.",
-        "John 18:33–38: Pilate questions Jesus, finds no fault.",
-        "Matthew 27:12–14: Jesus remains silent before accusations."
+        "John 3:1-21: Nicodemus, a Pharisee and a ruler of the Jews, comes to Jesus by night and is told that no one can see the kingdom of God without being born again, the first of the three places Scripture puts the man this book is named for.",
+        "John 7:50-52: Nicodemus asks the council whether their own law judges a man before hearing him, and is answered with a jibe about Galilee, the only time Scripture shows him speaking in the setting this book builds an entire trial record around.",
+        "John 19:38-42: Joseph of Arimathea asks Pilate for the body and Nicodemus brings a hundred Roman pounds of myrrh and aloes, close to seventy-five pounds by modern weight, and the two of them wind it in linen for burial.",
+        "Psalm 24:7-10: Lift up your heads, O gates, and be lifted up, O ancient doors, that the King of glory may come in, the psalm the Descent quotes whole at the gates of Hades, question and answer together.",
+        "Isaiah 45:2: God promises to break in pieces the doors of bronze and cut through the bars of iron, spoken to Cyrus about the taking of Babylon and taken here as a description of the underworld giving way.",
+        "Psalm 107:16: He shatters the doors of bronze and cuts through the bars of iron, sung of prisoners brought out of darkness and the shadow of death, which is the deliverance the Descent stages.",
+        "1 Peter 3:18-20: Christ, put to death in the flesh and made alive in the spirit, went and preached to the spirits in prison, the one canonical sentence the whole second half of this book is built out of.",
+        "Matthew 28:11-15: The guards report to the chief priests, are handed a sum of money and are told to say the disciples came by night and stole the body, which this book expands into a full hearing with the guards giving evidence."
       ],
       "translationNotes": [
         {
+          "term": "Acts of Pilate",
+          "original": "Latin: Acta Pilati",
+          "note": "Roman provincial governors kept official day-books, the commentarii, in which hearings and sentences were entered and filed. Justin Martyr twice tells the emperor that the crucifixion and the healings can be checked in the Acts drawn up under Pontius Pilate (First Apology 35 and 48, about AD 155), and Tertullian says Pilate reported the whole matter to Tiberius (Apology 21, about AD 197). Both appeal to Roman archives, and neither quotes a line that can be matched against this book."
+        },
+        {
+          "term": "Indiction",
+          "original": "",
+          "note": "The prologue dates the translation to the seventeenth year of Flavius Theodosius and the ninth indiction, which falls about AD 425. An indiction was a fifteen-year tax assessment cycle, and late Roman and Byzantine documents dated themselves by the year within the running cycle rather than by any era. Latin copies of the same prologue read the eighteenth year instead."
+        },
+        {
+          "term": "Ruler of the Jews",
+          "original": "Greek: ἄρχων τῶν Ἰουδαίων (archon ton Ioudaion)",
+          "note": "The phrase John 3:1 uses of Nicodemus marks him as a member of the council, seventy elders with the high priest over them, on the pattern of the seventy Moses is told to gather at Numbers 11:16. It handled religious law and its judgments carried weight. This book presents itself as his record and does not claim he wrote it in Greek."
+        },
+        {
+          "term": "The standards that bowed",
+          "original": "Latin: signa",
+          "note": "Roman military standards carried the emperor's image along with the unit's emblems and were treated as sacred; soldiers swore oaths by them and a legion that lost one was disgraced. The trial here has the standards bow of themselves as Jesus is brought in, twelve strong men are set to hold them upright, and they bow again. Matthew 22:20-21 turns on the same object of reverence, the image and the inscription on Caesar's coin."
+        },
+        {
           "term": "Sorcery",
-          "original": "Hebrew: כָּשַׁף (kāšap̱), Greek: φαρμακεία (pharmakeía), Aramaic: כשפים (kešāfîn)",
-          "note": "Term often used by opponents to describe miracles negatively, framing divine works as magical deception."
+          "original": "Greek: φαρμακεία (pharmakeia) - Hebrew: כָּשַׁף (kashaph)",
+          "note": "Pharmakeia covers drugs, potions and spells together, and it is the word behind English pharmacy. The charge laid here is that the miracles were worked by magic, which is the accusation the Gospels record in the form that he casts out demons by Beelzebul the prince of demons (Matthew 12:24, Mark 3:22). Exodus 22:18 and Deuteronomy 18:10-12 put sorcery under the death penalty, so the charge is a capital one."
+        },
+        {
+          "term": "Hades",
+          "original": "Hebrew: שְׁאוֹל (sheol) - Greek: ᾅδης (hades)",
+          "note": "Sheol is the Hebrew word for the place of the dead, and the Greek translators of the Old Testament rendered it Hades, taking the name of the Greek underworld to do it. In this book Hades is not a place at all but a character who speaks and argues. Acts 2:27 quotes Psalm 16:10, that his soul would not be left in Hades, and Revelation 1:18 has the risen Christ holding the keys of Death and Hades."
+        },
+        {
+          "term": "The Descent into Hell",
+          "original": "Latin: Descensus Christi ad inferos",
+          "note": "The second half of the book. Ephesians 4:8-10 says that he descended into the lower parts of the earth before he ascended on high, quoting Psalm 68:18. 1 Peter 3:18-20 has him preach to the spirits in prison, and 1 Peter 4:6 has the gospel preached to the dead. No canonical passage names anyone brought out, describes the gates or reports a conversation there."
+        },
+        {
+          "term": "Karinus and Leucius",
+          "original": "",
+          "note": "The two who tell the Descent are named as sons of Simeon, raised at the crucifixion, and are made to write their accounts separately and produce matching words. Simeon is the man of Luke 2:25-35 who took the child in his arms in the temple and blessed God. Matthew 27:52-53 reports tombs opened and many bodies of the saints raised, and names no one."
+        },
+        {
+          "term": "Lift up your gates",
+          "original": "",
+          "note": "At the gates of Hades the cry goes up, Lift up your gates, O rulers, and be lifted up, you everlasting doors, and the King of glory shall come in. That is Psalm 24:7-10 taken over whole, including the psalm's own question, Who is this King of glory, which here becomes Hades demanding to know who is at his door."
+        },
+        {
+          "term": "Bronze gates and iron bars",
+          "original": "",
+          "note": "The gates give way at a word, and the wording is not invented. Isaiah 45:2 has God promise to break in pieces the doors of bronze and cut through the bars of iron. Psalm 107:16 uses the same pair of lines of prisoners brought out of darkness. This book takes both and applies them to the underworld."
+        },
+        {
+          "term": "Satan and Hades in argument",
+          "original": "",
+          "note": "The Descent stages a quarrel between Satan, who boasts of having arranged the death, and Hades, who is terrified of the one coming and blames Satan for provoking him. Scripture never gives Hades a voice; it is a place, as at Matthew 16:18 where the gates of Hades will not prevail. Satan is a person throughout, as at Job 1:6-12 and Zechariah 3:1-2."
+        },
+        {
+          "term": "Abraham's bosom",
+          "original": "",
+          "note": "Where the righteous dead wait in this book. Luke 16:22-23 is the only place Scripture uses the phrase, in the account of the rich man and Lazarus, where the beggar is carried by angels to Abraham's side and the rich man is in torment in Hades with a great chasm fixed between them. Luke 23:43 has Jesus promise the thief that he will be with him in paradise that day."
+        },
+        {
+          "term": "Reporting to Caesar",
+          "original": "Latin: maiestas",
+          "note": "The pressure on Pilate is the threat to report him. John 19:12 has the leaders say that if he releases this man he is no friend of Caesar, and that anyone making himself a king speaks against Caesar. Maiestas, injury to the majesty of the Roman people or the emperor, had under Tiberius become the standard way to destroy a Roman official, so the threat carried real weight."
+        },
+        {
+          "term": "Praetorium",
+          "original": "Greek: πραιτώριον (praitorion)",
+          "note": "The Roman governor's headquarters and the room where he held court. The governor of Judaea lived at Caesarea on the coast and came up to Jerusalem for the feasts. John 18:28 has the leaders refuse to go inside so as not to be defiled before the Passover, which forces Pilate to keep coming out to them, and the trial in this book keeps that same arrangement of an inside and an outside."
+        },
+        {
+          "term": "Lazarus and the daughter of Jairus",
+          "original": "",
+          "note": "The witnesses called here testify to two raisings the Gospels record. John 11:1-44 has Lazarus four days in the tomb at Bethany, about two miles from Jerusalem. Mark 5:22-43 has Jairus, a ruler of the synagogue, and a daughter of twelve years whom Jesus takes by the hand with the Aramaic words Talitha koum, which Mark stops to translate."
+        },
+        {
+          "term": "Palimpsest",
+          "original": "",
+          "note": "A parchment scraped clean and written over, where the earlier text can still be read underneath. The oldest Latin witness to this book is a fifth-century palimpsest at Vienna, Codex 563. Latin A survives in more than 150 manuscripts of the fifth to the sixteenth century, and the Church Slavonic tradition alone runs past 190, which makes this one of the most copied of all apocrypha in medieval Europe."
         }
       ],
-      "keyTakeaway": "Jewish leaders accuse Jesus before Pilate, but testimony about his miracles complicates their charges."
+      "keyTakeaway": "Two works running in order. First a trial record, from the charges laid before Pilate through the crucifixion, the guard at the tomb and the money paid to keep the guards quiet. Then the Descent into Hell, told by two men raised from the dead, in which Satan and Hades quarrel over who is coming, the bronze gates are shattered, and Christ takes Adam by the hand and leads the righteous out."
     }
-  ]
+  ],
+  "intro": "The Gospel of Nicodemus, also called the Acts of Pilate, is presented as the record of a man Scripture names: Nicodemus, the Pharisee and ruler of the Jews who came to Jesus by night (John 3:1-21), who spoke for him before the council (John 7:50-52), and who brought myrrh and aloes to the burial (John 19:39). The prologue that heads much of the Greek tradition does not claim that Nicodemus wrote in Greek. It claims that one Ananias, of the governor's bodyguard, found records made in Hebrew in Pilate's time and translated them, in the seventeenth year of the reign of Flavius Theodosius and the ninth indiction, a reckoning that falls about AD 425; Latin copies read the eighteenth year. The prologue is missing from part of the tradition.\n\nThe work has two distinct parts, and they did not always travel together. The first is the trial. The leaders bring their charges before Pilate, witnesses come forward to the healings and to the raising of Lazarus and of the daughter of Jairus, Pilate finds no fault and sends him to Herod, the crowd presses, the sentence is given, and the narrative runs on through the crucifixion, the darkness, the burial, the guard set at the tomb, the earthquake and the angel, the guards' report, and the money paid to make them say the body was stolen. The second part is the Descent into Hell, the Descensus Christi ad inferos, told by Karinus and Leucius, the sons of Simeon. Adam and the fathers wait in Hades; Satan and Hades argue over who is coming; the prophets testify that he is near; the bronze gates and the iron bars are shattered; Satan is bound; and Christ takes Adam by the hand and leads the righteous out into paradise. The text presented here carries both parts in order.\n\nThe oldest Greek recension, Greek A, carries the trial narrative alone. The Descent belongs to the Latin tradition and to Greek B, which is a Byzantine translation made from the Latin. Latin A survives in more than 150 manuscripts running from the fifth century to the sixteenth, which makes it one of the most widely copied of all apocrypha in western and northern Europe through the Middle Ages; Latin B survives in about twenty manuscripts of the eleventh to the fifteenth century, and a shorter Latin C in seven. The oldest Latin witness is a fifth-century palimpsest at Vienna, Codex 563. The oldest Greek manuscripts are of the twelfth century. Versions survive in Coptic, Syriac, Armenian, Georgian, and Church Slavonic, the Slavonic in more than 190 manuscripts, and the work was carried over into Old English, Old French, Middle Irish, Middle Welsh, and Old Norse.\n\nTwo second-century writers refer to Acts of Pilate, and neither reference can be shown to be to this book. Justin Martyr twice tells the emperor that what he reports of the crucifixion and of the healings can be verified from the Acts drawn up under Pontius Pilate (First Apology 35 and 48, about AD 155). Tertullian says that Pilate reported the whole matter to Tiberius (Apology 21, about AD 197). Both appeal to official Roman records; neither quotes a line that can be matched against the text as it stands, and both wrote generations before its earliest manuscripts and before the date its own prologue assigns to itself. A different work under the same name was hostile to Christ: Eusebius reports that under Maximin, about AD 311, forged Acts of Pilate full of blasphemy were circulated through the provinces and set before schoolchildren to be committed to memory (Ecclesiastical History 1.9.3, 9.5.1, and 9.7.1). No communion receives the Gospel of Nicodemus as canonical."
 }

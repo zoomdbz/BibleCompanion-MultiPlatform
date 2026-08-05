@@ -133,18 +133,99 @@
         "[J]«Bienaventurados los solitarios y elegidos, porque encontrarán el reino. Pues ustedes provienen de él, y a él regresarán.»[/J] (saying 49)."
       ],
       "crossRefs": [
-        "Mateo 7:7: Buscad y hallaréis.",
-        "Lucas 17:21: El reino de Dios está dentro de vosotros.",
-        "Mateo 19:30: Los últimos serán los primeros."
+        "Juan 11:16: 7: Buscad y hallaréis.",
+        "Lucas 17:20-21: 21: El reino de Dios está dentro de vosotros.",
+        "Lucas 11:52: 30: Los últimos serán los primeros.",
+        "Mateo 13:31-32: La semilla de mostaza, la más pequeña de las semillas, se convierte en un árbol donde anidan las aves del cielo. Mateo sitúa esta parábola dentro de un capítulo que explica por qué Jesús enseñaba mediante parábolas; este libro presenta la parábola sola, sin marco ni explicación.",
+        "Salmos 118:22: La piedra que desecharon los constructores se ha convertido en la piedra angular; el dicho sobre la piedra rechazada cita esta línea sin indicar de dónde procede.",
+        "Juan 8:51-52: Jesús afirma que quien guarda su palabra nunca verá la muerte, y la multitud le devuelve esas palabras; este libro, en cambio, vincula no gustar jamás la muerte con descubrir la interpretación de sus propios dichos.",
+        "Gálatas 3:28: Pablo escribe que en Cristo no hay varón ni mujer; en contraste, el último dicho de este libro hace que una mujer entre en el reino solo si es convertida en varón.",
+        "Hechos 15:13-21: Santiago habla al final del concilio de Jerusalén y dicta la decisión que adopta la asamblea; este libro lleva su autoridad mucho más lejos cuando afirma que el cielo y la tierra llegaron a existir por causa de él."
       ],
       "translationNotes": [
         {
           "term": "Reino",
-          "original": "Hebrew: מַלְכוּת (malkût), Greek: βασιλεία (basileía), Aramaic: מלכותא (malkûtāʾ)",
+          "original": "Greek: Δίδυμος (Didymos) - Aramaic: תאומא (te'oma)",
           "note": "Significa reinado o gobierno; en Tomás se enfatiza como una realidad tanto interior como exterior, no un lugar distante."
+        },
+        {
+          "term": "Dicho",
+          "original": "Greek: λόγιον (logion), plural λόγια (logia)",
+          "note": "Un dicho u oráculo, y la unidad de la que está compuesto este libro. Bernard Grenfell y Arthur Hunt publicaron el primer fragmento griego en 1897 con el título Logia Iesou, Dichos de Nuestro Señor. La numeración hasta 114 es obra de editores modernos; el manuscrito copto continúa sin números ni separaciones entre un dicho y el siguiente."
+        },
+        {
+          "term": "Nag Hammadi",
+          "original": "",
+          "note": "Una población del Alto Egipto. En diciembre de 1945 se desenterró cerca de allí una jarra sellada que contenía trece códices de papiro; el segundo códice del hallazgo contiene el Evangelio de Tomás completo en copto, en las páginas 32 a 51. El códice data del siglo IV. Antes de ese hallazgo, el libro solo se conocía por tres fragmentos griegos."
+        },
+        {
+          "term": "Copto",
+          "original": "",
+          "note": "La última etapa de la lengua egipcia, escrita con el alfabeto griego y algunas letras adicionales conservadas del demótico. El sahídico es el dialecto del Alto Egipto y el de este manuscrito. El copto incorporó palabras griegas enteras, por lo que términos griegos como monachos aparecen sin traducir dentro del texto copto."
+        },
+        {
+          "term": "Oxirrinco",
+          "original": "",
+          "note": "Una ciudad provincial del Egipto Medio cuyos antiguos montículos de basura conservaron papiros desechados en la arena seca. Grenfell y Hunt los excavaron durante el invierno de 1896 a 1897 y hallaron el primer fragmento griego de este libro el 12 de enero de 1897. Se conservan tres fragmentos, P.Oxy. 1, 654 y 655; los tres son anteriores al texto copto y difieren de él en la redacción de los pasajes coincidentes."
+        },
+        {
+          "term": "Gnosis",
+          "original": "Greek: γνῶσις (gnosis)",
+          "note": "Conocimiento. En las sectas que usaban libros de este tipo, significaba un conocimiento salvador del propio origen y destino, no un conocimiento de hechos; poseerlo constituía en sí mismo la salvación. La palabra por sí sola es griego corriente y no tiene ese sentido en el Nuevo Testamento, como en 1 Corintios 8:1, donde el conocimiento envanece, y en 2 Pedro 3:18, donde se exhorta a los creyentes a crecer en él."
+        },
+        {
+          "term": "Gustar la muerte",
+          "original": "Greek: γεύσηται θανάτου (geusetai thanatou)",
+          "note": "Una forma semítica de decir morir, como quien prueba lo que se le entrega. El dicho 1 promete que quien encuentre la interpretación de estos dichos no gustará la muerte. En el registro canónico, Jesús usa la frase acerca de algunos que estaban con él en Mateo 16:28, y Hebreos 2:9 la aplica a su propia muerte; Juan 8:51 vincula no ver jamás la muerte con guardar su palabra, no con descifrar un texto."
+        },
+        {
+          "term": "El reino dentro y fuera de ustedes",
+          "original": "Greek: ἐντὸς ὑμῶν (entos hymon)",
+          "note": "El dicho 3 contrapone el reino a mirar hacia el cielo o hacia el mar, pues las aves y los peces llegarían primero. Lucas 17:21 contiene la única forma canónica de la frase, entos hymon, dentro de ustedes o entre ustedes; Lucas 17:20 la presenta como respuesta a una pregunta sobre cuándo llega el reino, no sobre dónde se encuentra."
+        },
+        {
+          "term": "El solitario",
+          "original": "Greek: μοναχός (monachos)",
+          "note": "Único, solo, quien es uno. El copto conserva la palabra griega en los dichos 49 y 75, donde solo los solitarios encuentran el reino y solo ellos entran en la cámara nupcial. La misma palabra se convirtió después en el término corriente para monje. No se aplica a nadie en el Nuevo Testamento."
+        },
+        {
+          "term": "Cámara nupcial",
+          "original": "Greek: νυμφών (nymphon)",
+          "note": "La habitación donde se consumaba un matrimonio y, por extensión, la boda misma. Los dichos 75 y 104 presentan la entrada en ella como la señal del solitario y hacen que el ayuno comience solo cuando el novio la abandona. Mateo 9:15 usa la misma palabra en sentido literal para los invitados de la cámara nupcial, que no pueden guardar luto mientras el novio permanece con ellos."
+        },
+        {
+          "term": "Hacer de los dos uno",
+          "original": "",
+          "note": "Los dichos 22 y 106 exigen que lo interior se haga como lo exterior y que el varón y la mujer se conviertan en uno solo como condición para entrar. Génesis 1:27 sustenta esta idea, pues allí Dios los creó varón y mujer; Marcos 10:6-8 cita ese versículo junto con Génesis 2:24, donde un hombre y una mujer se hacen una sola carne en el matrimonio."
+        },
+        {
+          "term": "Convertir a la mujer en varón",
+          "original": "",
+          "note": "En el dicho 114, el último del libro, Simón Pedro exige que María se marche porque las mujeres no son dignas de la vida; la respuesta declara que será guiada para convertirse en varón, pues toda mujer que se haga varón entrará en el reino. Gálatas 3:28 afirma que en Cristo no hay varón ni mujer. Lucas 8:1-3 muestra a mujeres que viajan con Jesús y sostienen la obra con sus propios recursos; Juan 20:11-18 envía a María Magdalena a los discípulos como primera testigo de la resurrección."
+        },
+        {
+          "term": "Santiago el Justo",
+          "original": "",
+          "note": "El dicho 12 envía a los discípulos a Santiago el Justo, por cuya causa llegaron a existir el cielo y la tierra. Es Santiago, el hermano del Señor, mencionado en Mateo 13:55 y Gálatas 1:19. Hechos 15:13-21 lo presenta dictando la decisión que adopta el concilio de Jerusalén; Gálatas 2:9 lo menciona primero entre quienes eran considerados columnas."
+        },
+        {
+          "term": "Salomé",
+          "original": "",
+          "note": "En el dicho 61, una mujer llamada Salomé pregunta a Jesús quién es y dice que él ha subido a su lecho y ha comido a su mesa. Marcos 15:40 menciona a Salomé entre las mujeres que observaban la crucifixión desde lejos; Marcos 16:1 cuenta que compró especias aromáticas para ir a ungir el cuerpo."
+        },
+        {
+          "term": "El Todo",
+          "original": "Coptic: ⲡⲧⲏⲣϥ (pterf) - Greek: τὸ πᾶν (to pan)",
+          "note": "Un nombre para la totalidad de cuanto existe, usado como título. El dicho 67 afirma que quien conoce el Todo, pero se desconoce a sí mismo, carece de todo; en el dicho 77, Jesús declara que él es el Todo. Colosenses 1:16-17 formula una afirmación de alcance semejante: todas las cosas fueron creadas por medio de él y en él subsisten, aunque lo distingue de las cosas que creó."
+        },
+        {
+          "term": "Sean transeúntes",
+          "original": "Greek: παράγω (parago)",
+          "note": "El dicho 42 es el más breve del libro, con tres palabras en copto, y emplea un verbo tomado del griego que significa pasar de largo o desaparecer. El mismo verbo aparece en 1 Corintios 7:31, donde la apariencia de este mundo pasa, y en 1 Juan 2:17, donde el mundo y sus deseos pasan."
         }
       ],
       "keyTakeaway": "Los dichos iniciales enfatizan la búsqueda, el descubrimiento, el conocimiento oculto y el reino que está dentro y fuera."
     }
-  ]
+  ],
+  "intro": "El Evangelio de Tomás no nombra a un autor en el sentido ordinario. Su línea inicial dice que estos son los dichos secretos que habló Jesús el Viviente y que Dídimo Judas Tomás los escribió. El nombre está duplicado: Dídimo es griego para gemelo, y Tomás traduce el arameo te'oma, que también significa gemelo. El libro no tiene narración. No hay nacimiento, viaje, juicio, crucifixión ni resurrección; casi cada unidad se abre con las palabras \"Jesús dijo\", y las pocas que no lo hacen son preguntas breves formuladas por los discípulos o por María o Salomé. El texto presentado aquí contiene una línea inicial y luego 114 dichos numerados. Esa numeración es obra de los editores modernos. El manuscrito copto continúa sin números y sin separaciones entre un dicho y el siguiente.\n\nTres fragmentos griegos estaban disponibles mucho antes del texto completo. Bernard Grenfell y Arthur Hunt, al excavar los montones de basura de Oxirrinco en Egipto, hallaron P.Oxy. 1 el 12 de enero de 1897 y lo publicaron ese mismo año como Logia Iesou, Dichos de Nuestro Señor; está fechado a principios del siglo III y contiene el material ahora numerado como dichos 26 a 33, con el final del dicho 77 unido al dicho 30. P.Oxy. 654, que contiene los dichos 1 a 7, y P.Oxy. 655 siguieron, publicados en 1904 en el cuarto volumen de The Oxyrhynchus Papyri. Se desconocía de qué obra procedían los fragmentos hasta diciembre de 1945, cuando se desenterró del suelo una jarra sellada de códices de papiro cerca de Nag Hammadi en el Alto Egipto. El segundo códice de ese hallazgo contiene el Evangelio de Tomás completo en copto, en el dialecto sahídico, en las páginas 32 a 51; el códice está fechado en el siglo IV. Los fragmentos griegos son más antiguos que el copto y difieren de él en redacción donde ambos se superponen.\n\nLos escritores antiguos mencionan un Evangelio de Tomás mucho antes de que se escribiera cualquiera de los manuscritos. Hipólito de Roma, en la Refutación de todas las herejías 5.7.20, compuesta entre aproximadamente 222 y 235 d.C., cita a los naasenos que citan un evangelio \"inscrito según Tomás\", aunque el dicho que reproduce no aparece de esa forma en el texto copto. Orígenes, en la primera de sus homilías sobre Lucas, pronunciada en Cesarea en las décadas de 230 o 240, coloca un Evangelio según Tomás y un Evangelio según Matías entre los muchos evangelios de las herejías, en contraste con los cuatro de la iglesia. Eusebio de Cesarea enumera \"los Evangelios de Pedro, de Tomás, de Matías\" entre los escritos rechazados en la Historia Eclesiástica 3.25.6, escrita hacia el año 325 d.C. El Decreto Gelasiano, transmitido bajo el nombre del papa Gelasio I (492-496 d.C.) y fechado en su forma actual en el siglo VI, condena como apócrifo el Evangelio en nombre de Tomás que usan los maniqueos, sin decir a cuál de las obras que entonces circulaban bajo ese nombre se refiere.\n\nNinguna comunión recibe el Evangelio de Tomás como canónico. No aparece en ninguna lista canónica de ninguna iglesia, en ningún decreto conciliar sobre la Escritura ni en ninguna Biblia impresa de ninguna tradición."
 }

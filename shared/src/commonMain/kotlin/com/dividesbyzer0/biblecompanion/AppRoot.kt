@@ -706,6 +706,8 @@ fun HomeScreen(
         VerseOfTheDay.todayVerse(ctx, prefs.appLanguage)
       }
       val votdLocalRef = remember(votd.ref) { ScriptureRefs.localizeRef(votd.ref) }
+      val votdCollection = ScriptureRefs.collectionOf(ScriptureRefs.canonBookOfRef(votd.ref))
+        ?: "old_testament"
       var ttsPlaying by remember { mutableStateOf(false) }
       DisposableEffect(Unit) {
         platformTtsInit(ctx)
@@ -945,7 +947,11 @@ fun HomeScreen(
                   supportingContent = {
                     when (hit.type) {
                       SearchHitType.BOOK -> Text(hit.snippet, maxLines = 2, overflow = TextOverflow.Ellipsis)
-                      else -> Text(highlightSearchSnippet(hit.snippet, query, prefs), maxLines = 3, overflow = TextOverflow.Ellipsis)
+                      else -> Text(
+                        highlightSearchSnippet(hit.snippet, query, prefs, hit.collection),
+                        maxLines = 3,
+                        overflow = TextOverflow.Ellipsis
+                      )
                     }
                   },
                   modifier = Modifier.clickable(enabled = !navBusy) {
@@ -1046,7 +1052,7 @@ fun HomeScreen(
             }
             Spacer(Modifier.height(4.dp))
             Text(
-              wrapVotdQuotes(votd.text),
+              highlightSearchSnippet(wrapVotdQuotes(votd.text), "", prefs, votdCollection),
               style = MaterialTheme.typography.bodyMedium,
               fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
               color = votdOnContainer
@@ -1310,34 +1316,68 @@ private fun StudyItem(text: String, enabled: Boolean, onClick: () -> Unit) {
   }
 }
 
-/** Annotated string that bolds query matches and colors [J] spans in search snippets. */
+/** Annotated string that bolds query matches and preserves Jesus/divine-name colors in search snippets. */
 @Composable
-private fun highlightSearchSnippet(snippet: String, query: String, prefs: PrefsState? = null): AnnotatedString {
+private fun highlightSearchSnippet(
+  snippet: String,
+  query: String,
+  prefs: PrefsState? = null,
+  collection: String = "old_testament"
+): AnnotatedString {
   val jesusColor = prefs?.let { ScriptureRefs.jesusColor(it) }
+  val dnColor = prefs?.let { ScriptureRefs.divineNameColor(it) }
+  val prepared = prefs?.let {
+    applyDivineName(
+      snippet,
+      it.divineName,
+      LocaleUtils.effectiveAssetTag(it.appLanguage),
+      it.divineNameColor != "default",
+      collection
+    )
+  } ?: snippet
+
   return buildAnnotatedString {
-    // Strip [J]/[/J] while recording their spans in cleaned-text coordinates
+    // Strip semantic color markers while recording spans in cleaned-text coordinates.
     val jRanges = mutableListOf<IntRange>()
-    val step1 = snippet.replace("[[", "").replace("]]", "")
+    val dnRanges = mutableListOf<IntRange>()
+    val step1 = prepared.replace("[[", "").replace("]]", "")
     val buf = StringBuilder(step1.length)
-    var si = 0; var jStart = -1
+    var si = 0
+    var jStart = -1
+    var dnStart = -1
+
+    fun markerAt(marker: String): Boolean =
+      step1.regionMatches(si, marker, 0, marker.length, ignoreCase = true)
+
+    fun closeRange(start: Int, ranges: MutableList<IntRange>): Int {
+      if (start >= 0 && buf.length > start) ranges += start until buf.length
+      return -1
+    }
+
     while (si < step1.length) {
       when {
-        step1.startsWith("[J]", si) -> { jStart = buf.length; si += 3 }
-        step1.startsWith("[/J]", si) -> { if (jStart >= 0) { jRanges += jStart until buf.length; jStart = -1 }; si += 4 }
+        markerAt("[J]") -> { if (jStart < 0) jStart = buf.length; si += 3 }
+        markerAt("[/J]") -> { jStart = closeRange(jStart, jRanges); si += 4 }
+        markerAt("[DN]") -> { if (dnStart < 0) dnStart = buf.length; si += 4 }
+        markerAt("[/DN]") -> { dnStart = closeRange(dnStart, dnRanges); si += 5 }
         else -> { buf.append(step1[si]); si++ }
       }
     }
-    if (jStart >= 0) jRanges += jStart until buf.length
+    closeRange(jStart, jRanges)
+    closeRange(dnStart, dnRanges)
     val cleaned = buf.toString()
 
     append(cleaned)
 
-    // Layer 1: Jesus words color
+    // Layer 1: Jesus words. Layer 2: divine names, which must win if nested.
     if (jesusColor != null) {
       for (r in jRanges) addStyle(SpanStyle(color = jesusColor), r.first, r.last + 1)
     }
+    if (dnColor != null) {
+      for (r in dnRanges) addStyle(SpanStyle(color = dnColor), r.first, r.last + 1)
+    }
 
-    // Layer 2: keyword highlights (bold + primary, or bold + jesusColor if overlapping)
+    // Layer 3: keyword highlights preserve semantic color while adding weight.
     val lcCleaned = cleaned.lowercase()
     val lcQuery = query.lowercase().trim()
     if (lcQuery.length >= 2) {
@@ -1355,7 +1395,12 @@ private fun highlightSearchSnippet(snippet: String, query: String, prefs: PrefsS
       }
       for (r in merged) {
         val inJ = jesusColor != null && jRanges.any { it.first <= r.first && r.last <= it.last }
-        val color = if (inJ) jesusColor!! else MaterialTheme.colorScheme.primary
+        val inDn = dnColor != null && dnRanges.any { it.first <= r.first && r.last <= it.last }
+        val color = when {
+          inDn -> dnColor!!
+          inJ -> jesusColor!!
+          else -> MaterialTheme.colorScheme.primary
+        }
         addStyle(SpanStyle(fontWeight = FontWeight.Bold, color = color), r.first, r.last + 1)
       }
     }
@@ -1502,6 +1547,29 @@ fun BookScreen(
   val storyIndex = remember(book) {
     val introOffset = if (book?.intro?.isNotBlank() == true) 1 else 0
     book?.stories?.mapIndexed { i, s -> s.id to (i + introOffset) }?.toMap().orEmpty()
+  }
+
+  // A tapped cross-reference names the asset id, but story ids are numbered from
+  // the book's OWN id field, and the two are not always the same string:
+  // bel_and_the_dragon.json declares id "bel" and numbers its story "bel-1",
+  // 1_samuel.json declares "1-samuel", gospel_thomas.json declares
+  // "gospel_of_thomas". Seventeen books differ that way, which cost 935 links.
+  //
+  // "<book.id>-<chapter>" reproduces every story id in all 99 books with no
+  // exceptions, so rebuild from the book that actually loaded and keep
+  // ChapterLocator as a backstop. The ids themselves stay put: bookmarks and
+  // highlighted verses resolve by stored story id, and renaming them would
+  // strand every one already on a reader's device.
+  val resolvedStoryId = remember(initialStoryId, storyIndex, book, index) {
+    val want = initialStoryId
+    if (want.isNullOrBlank() || want in storyIndex) {
+      want
+    } else {
+      val chapter = want.substringAfterLast('-')
+      book?.id?.let { "$it-$chapter" }?.takeIf { it in storyIndex }
+        ?: chapter.toIntOrNull()?.let { index?.byChapter?.get(it) }
+        ?: want
+    }
   }
 
   val listState = remember(col, bookId) { LazyListState() }
@@ -1708,23 +1776,23 @@ fun BookScreen(
     if (book != null) {
       val titlesMap = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
       val title = titlesMap[bookId] ?: book.title
-      repo.setLastRead(col, bookId, title, initialStoryId)
+      repo.setLastRead(col, bookId, title, resolvedStoryId)
     }
   }
 
-  LaunchedEffect(initialStoryId, initialVerse, storyIndex, book) {
-    if (!initialStoryId.isNullOrBlank()) {
-      if (initialStoryId !in expandedStoryIds) {
-        expandedStoryIds = expandedStoryIds + initialStoryId
+  LaunchedEffect(resolvedStoryId, initialVerse, storyIndex, book) {
+    if (!resolvedStoryId.isNullOrBlank()) {
+      if (resolvedStoryId !in expandedStoryIds) {
+        expandedStoryIds = expandedStoryIds + resolvedStoryId
       }
-      val storyIdx = storyIndex[initialStoryId]
+      val storyIdx = storyIndex[resolvedStoryId]
       if (initialVerse != null && book != null) {
-        val story = book.stories.find { it.id == initialStoryId }
+        val story = book.stories.find { it.id == resolvedStoryId }
         if (story != null) {
           val end = initialVerseEnd?.coerceAtLeast(initialVerse) ?: initialVerse
           val bullets = findBulletsForVerseRange(story.summaryBullets, initialVerse, end)
           if (bullets.isNotEmpty()) {
-            goldFadeStoryId = initialStoryId
+            goldFadeStoryId = resolvedStoryId
             goldFadeBulletIdxs = bullets
             val firstBullet = bullets.min()
             val approxOffset = firstBullet * 200 + 150
@@ -1737,9 +1805,9 @@ fun BookScreen(
         }
       } else if (storyIdx != null) {
         if (book != null) {
-          val story = book.stories.find { it.id == initialStoryId }
+          val story = book.stories.find { it.id == resolvedStoryId }
           if (story != null && story.summaryBullets.isNotEmpty()) {
-            goldFadeStoryId = initialStoryId
+            goldFadeStoryId = resolvedStoryId
             goldFadeBulletIdxs = setOf(0)
           }
         }

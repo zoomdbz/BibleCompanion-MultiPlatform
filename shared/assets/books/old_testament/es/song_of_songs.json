@@ -1,7 +1,7 @@
 {
   "id": "song-of-songs",
   "title": "Cantar de los Cantares",
-  "intro": "Cantares fue escrito por Salomón, hijo de David y tercer rey de Israel, quien es identificado en el versículo inicial como autor (\"Cantar de los Cantares, el cual es de Salomón\", 1:1). La tradición judía sostiene que Salomón compuso esta obra en su juventud, hacia 970-965 a.C., cerca del inicio de su reinado de cuarenta años. El mismo Salomón que más tarde escribió Proverbios en sus años intermedios y Eclesiastés en su vejez; la tradición ordena los tres libros salomónicos según la etapa de la vida en que cada uno fue compuesto. 1 Reyes 4:32 registra que Salomón \"compuso tres mil proverbios, y sus cantares fueron mil cinco\"; Cantares es \"el cantar de los cantares\" (un superlativo hebreo que significa \"el cantar más excelente\"), el principal de esos mil cinco. Salomón fue hijo de David y Betsabé, nacido en Jerusalén y criado bajo la tutela del profeta Natán; Dios se le apareció en Gabaón al inicio de su reinado y le concedió sabiduría sin igual junto con riquezas y honor (1 Reyes 3:5-14). El marco histórico son las primeras décadas de la Monarquía Unida, con Israel en su apogeo territorial y económico, comerciando con Tiro bajo Hiram I (Fenicia), Sabá (el actual Yemen) y la dinastía XXI de Egipto; Salomón se había casado recientemente con la hija de un faraón de Egipto (1 Reyes 3:1, su primer matrimonio político); sus reinos vecinos (Edom, Moab, Amón, los estados arameos) seguían siendo tributarios; y el Imperio neoasirio estaba ascendiendo en el norte pero aún no había penetrado en el Levante.\n\nCantares es el vigésimo segundo libro del Antiguo Testamento cristiano. En la Biblia hebrea es uno de los Cinco Megillot (Cinco Rollos) dentro de los Ketuvim (Escritos), leído tradicionalmente en voz alta en las sinagogas durante la fiesta de Pésaj (Pascua, la fiesta primaveral que conmemora el Éxodo). El nombre hebreo Shir HaShirim es una construcción superlativa que significa \"el cantar de los cantares\", es decir, \"el más excelente de los cantares\"; los títulos españoles \"Cantar de los Cantares\", \"Cantares\" y \"Cántico de los Cánticos\" (de la Vulgata latina Canticum Canticorum) traducen todos esa frase. El nombre Asma Asmaton de la Septuaginta griega (siglo III a.C.) es la misma construcción. Fragmentos de manuscritos hebreos de Cantares se hallaron entre los Rollos del Mar Muerto descubiertos en Qumrán (mediados del siglo XX d.C.), con copias que datan del siglo I a.C.",
+  "intro": "El Cantar de los Cantares fue escrito por Salomón, hijo de David y tercer rey de Israel, identificado como autor en la línea inicial (\"El Cantar de los Cantares, que es de Salomón\", 1:1). La tradición judía sostiene que Salomón compuso esta obra en su juventud, alrededor de 970-965 a.C., cerca del comienzo de su reinado de cuarenta años. El mismo Salomón que después escribió Proverbios en su madurez y Eclesiastés en su vejez; la tradición ordena los tres libros salomónicos según la etapa de vida en que cada uno fue compuesto. 1 Reyes 4:32 registra que Salomón \"pronunció tres mil proverbios, y sus cantares fueron mil cinco\"; el Cantar de los Cantares es \"el cantar de los cantares\", un superlativo hebreo que significa \"el mayor cantar\", el principal de aquellos 1,005. Salomón fue hijo de David y Betsabé, nacido en Jerusalén y criado bajo la tutela del profeta Natán; Dios se le apareció en Gabaón al inicio de su reinado y le concedió sabiduría sin igual junto con riquezas y honra (1 Reyes 3:5-14). El marco histórico son las primeras décadas de la Monarquía Unida, con Israel en su apogeo territorial y económico, comerciando con Tiro bajo Hiram I (Fenicia), Sabá (el Yemen moderno) y la dinastía XXI de Egipto; Salomón se había casado recientemente con la hija de un faraón de Egipto (1 Reyes 3:1, su primer matrimonio político); sus reinos vecinos, Edom, Moab, Amón y los estados arameos, seguían siendo tributarios; y el Imperio neoasirio crecía al norte, pero todavía no había presionado el Levante.\n\nEl Cantar de los Cantares es el vigésimo segundo libro del Antiguo Testamento cristiano. En la Biblia hebrea es uno de los Cinco Megillot, o Cinco Rollos, dentro de los Ketuvim, o Escritos, leído tradicionalmente en voz alta en las sinagogas durante la Fiesta de Pésaj, Pascua, la fiesta primaveral que conmemora el Éxodo. El nombre hebreo Shir HaShirim es una construcción superlativa que significa \"el cantar de los cantares\", es decir, \"el mayor de los cantares\"; los títulos ingleses \"Song of Songs\", \"Song of Solomon\" y \"Canticles\", del latín de la Vulgata Canticum Canticorum, traducen todos esa frase. El nombre griego de la Septuaginta, Asma Asmaton, del siglo III a.C., tiene la misma construcción. Entre los Rollos del Mar Muerto descubiertos en Qumrán a mediados del siglo XX d.C. había fragmentos de manuscritos hebreos del Cantar de los Cantares, con copias fechadas en el siglo I a.C.",
   "stories": [
     {
       "id": "song-of-songs-1",
@@ -29,44 +29,55 @@
         "\"Las vigas de nuestra casa son de cedro, y de ciprés los artesonados\" (1:17)."
       ],
       "crossRefs": [
-        "Salmos 45:8: Mirra, áloe y casia en vestiduras reales.",
-        "1 Samuel 24:1: En-gadi mencionado como un lugar en el desierto.",
-        "Éxodo 14:7: Los carros del faraón (contexto de la comparación).",
-        "Cantares 3:5: La adjuración de no despertar el amor se repite."
+        "Génesis 25:13: Quedar se nombra como hijo de Ismael, antepasado de la tribu del desierto cuyas tiendas negras de pelo de cabra se describen aquí.",
+        "1 Samuel 24:1-3: David se esconde de Saúl en las cuevas junto a las Peñas de las Cabras Monteses en En-gadi.",
+        "1 Reyes 10:26-29: Los caballos de carro de Salomón son importados de Egipto; un carro costaba seiscientos siclos de plata.",
+        "Salmos 45:8: Todas tus vestiduras son fragantes con mirra, áloes y casia, desde palacios de marfil.",
+        "1 Reyes 5:6-9: Los leñadores sidonios de Hiram cortan cedro y ciprés en el Líbano y bajan la madera en balsas por la costa hasta Salomón."
       ],
       "translationNotes": [
         {
           "term": "Cantar de los cantares",
-          "original": "Hebrew: שִׁיר הַשִּׁירִים (Shir ha-Shirim), Greek (LXX): ᾆσμα ᾀσμάτων (Asma asmaton), Aramaic: שיר השירים",
-          "note": "Superlativo hebreo: el canto más excelente."
+          "original": "Hebrew: שִׁיר הַשִּׁירִים (shir ha-shirim)",
+          "note": "El hebreo no tiene una palabra separada para mejor o mayor, de modo que duplica un sustantivo: santo de santos para el aposento más interior, rey de reyes, vanidad de vanidades. Shir ha-shirim en 1:1 es esa construcción, y significa el mejor cantar que existe."
         },
         {
-          "term": "Amor / amores",
-          "original": "Hebrew: אַהֲבָה (’ahavah) / דּוֹדִים (dodim, ‘caresses/loves’), Greek (LXX): ἀγάπη / φιλία, Aramaic: חובא / רחמין",
-          "note": "Términos usados para afecto y deleites (1:2)."
+          "term": "Amor, amores",
+          "original": "Hebrew: דּוֹדִים (dodim) - אַהֲבָה (ahavah)",
+          "note": "Hay dos palabras hebreas distintas detrás del inglés. Ahavah es amor en general, la palabra de Deuteronomio 6:5. Dodim, usada en 1:2 y 1:4, es más estrecha: el amor físico entre marido y mujer, y es lo que Proverbios 7:18 pone en boca de la adúltera. El inglés borra la diferencia al reunirlas en una palabra."
         },
         {
-          "term": "Morena pero hermosa",
-          "original": "Hebrew: שְׁחֹרָה וְנָאוָה (sheḥorah ve-navah); Greek: μέλαινα καὶ καλή",
-          "note": "Autodescripción en 1:5."
+          "term": "Morena, pero hermosa",
+          "original": "Hebrew: שְׁחוֹרָה אֲנִי וְנָאוָה (shechorah ani ve-navah)",
+          "note": "1:6 dice qué produjo la oscuridad: el sol la ha mirado porque sus hermanos la pusieron a guardar las viñas. El trabajo del campo marcaba a una mujer como pobre, pues una familia con recursos mantenía a sus hijas fuera del sol. Ella responde a un desdén por su condición, no por su ascendencia, y la línea termina con la queja de que nunca pudo guardar su propia viña."
         },
         {
-          "term": "Rosa/Azucena de Sarón; Lirio",
-          "original": "Hebrew: חֲבַצֶּלֶת הַשָּׁרוֹן (ḥavatzelet ha-Sharon), שׁוֹשַׁנָּה (shoshanah); Greek: κρίνον",
-          "note": "La especie exacta es incierta; traducido como rosa/azucena y lirio (2:1–2)."
+          "term": "Tiendas de Quedar",
+          "original": "Hebrew: אָהֳלֵי קֵדָר (oholei Qedar)",
+          "note": "Quedar era una tribu nómada del desierto árabe septentrional, descendiente del segundo hijo de Ismael (Génesis 25:13), y lo bastante conocida para que Isaías 21:16-17 y Jeremías 49:28-29 nombren sus rebaños y tiendas. Esas tiendas se tejían de pelo negro de cabra, que rechaza la lluvia y no se decolora. Esa es la negrura con que 1:5 la compara, frente a las finas cortinas de Salomón en el mismo aliento."
         },
         {
-          "term": "Casa del vino",
-          "original": "Hebrew: בֵּית הַיַּיִן (beit ha-yayin), Greek: οἶκος οἴνου, Aramaic: בית חמרא",
-          "note": "Escenario de banquete en 2:4."
+          "term": "Alheña en En-gadi",
+          "original": "Hebrew: כֹּפֶר (kopher) - עֵין גֶּדִי (En Gedi)",
+          "note": "Kopher es alheña, el arbusto Lawsonia, cuyos racimos de flores color crema son intensamente perfumados y cuyas hojas secas se muelen para hacer una pasta que tiñe de rojo anaranjado la piel, las uñas y el cabello. El racimo de 1:14 procede de En-gadi, un manantial de agua dulce en los acantilados de la costa occidental del mar Muerto, un rincón verde en el desierto desnudo y el lugar donde David se escondió de Saúl (1 Samuel 24:1-2). Un racimo de alheña de allí es un lujo salido de un yermo."
         },
         {
-          "term": "No despertéis el amor",
-          "original": "Hebrew: אַל־תָּעִירוּ וְאַל־תְּעֹרְרוּ אֶת־הָאַהֲבָה עַד שֶׁתֶּחְפָּץ; Greek (LXX): μὴ ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θέλῃ",
-          "note": "Fórmula de juramento dirigida a las hijas de Jerusalén (2:7)."
+          "term": "Nardo",
+          "original": "Hebrew: נֵרְדְּ (nerd)",
+          "note": "Aceite de perfume espeso extraído de la raíz de la planta Nardostachys, que crece en el Himalaya; por tanto cada gota en Israel había cruzado toda Asia. En 1:12 es lo que ella lleva mientras está a la mesa. El frasco que María derrama sobre Jesús en Marcos 14:3 se valoraba en trescientos denarios, y un denario era el jornal diario de un trabajador (Mateo 20:2), por lo que valía cerca de un año de paga."
+        },
+        {
+          "term": "Un saquito de mirra",
+          "original": "Hebrew: צְרוֹר הַמֹּר (tseror ha-mor)",
+          "note": "La mirra es la goma seca que mana de una incisión en el árbol Commiphora de Arabia y África oriental. Era una de las cuatro especias del aceite santo de la unción (Éxodo 30:23), una especia funeraria (Juan 19:39) y, mezclada con vino, un analgésico, que fue lo ofrecido en la cruz (Marcos 15:23). 1:13 describe una pequeña bolsa de tela llevada en un cordón entre los pechos, para que el aroma durara toda la noche."
+        },
+        {
+          "term": "Cedro y ciprés",
+          "original": "Hebrew: אֶרֶז (erez, cedar) - בְּרוֹת (beroth, cypress or juniper)",
+          "note": "1:17 hace vigas y cabrios de las dos maderas más caras de la región. El cedro del Líbano crece recto y alto y resiste la podredumbre y los insectos; por eso Salomón lo importó para el templo y el palacio y pagó a Hiram de Tiro con trigo y aceite (1 Reyes 5:6-11). La pareja llama casa al campo abierto y lo techa con madera real."
         }
       ],
-      "keyTakeaway": "Una mujer expresa su anhelo por su amado, describe el atractivo de él y su propia tez oscura; los dos se expresan admiración y afecto, imaginando momentos de intimidad juntos.",
+      "keyTakeaway": "Una mujer expresa su anhelo por su amado, describe su atractivo y su propia tez oscura; los dos intercambian admiración y afecto, imaginando juntos momentos íntimos.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -104,44 +115,55 @@
         "\"Hasta que apunte el día, y huyan las sombras, vuélvete, amado mío; sé semejante al corzo, o como el cervatillo sobre los montes de Beter\" (2:17)."
       ],
       "crossRefs": [
-        "Salmos 45:8: Mirra, áloe y casia en vestiduras reales.",
-        "1 Samuel 24:1: En-gadi mencionado como un lugar en el desierto.",
-        "Éxodo 14:7: Los carros del faraón (contexto de la comparación).",
-        "Cantares 3:5: La adjuración de no despertar el amor se repite."
+        "Isaías 35:1-2: El desierto florecera, y se le dara el esplendor del Carmelo y de Saron.",
+        "1 Crónicas 27:29: Un oficial real esta puesto sobre los rebanos que pastan en Saron, la llanura costera nombrada en este capitulo.",
+        "Números 2:2: Cada hombre acampa bajo su propio estandarte, con las banderas de la casa de su padre.",
+        "Levítico 12:8: Una madre que no puede pagar un cordero trae en cambio dos turtolas o dos pichones.",
+        "Jueces 15:4-5: Sansón suelta trescientos zorros con antorchas y quema el grano en pie, las vinas y los olivares."
       ],
       "translationNotes": [
         {
-          "term": "Cantar de los cantares",
-          "original": "Hebrew: שִׁיר הַשִּׁירִים (Shir ha-Shirim), Greek (LXX): ᾆσμα ᾀσμάτων (Asma asmaton), Aramaic: שיר השירים",
-          "note": "Superlativo hebreo: el canto más excelente."
+          "term": "Crocus de Sarón y lirio de los valles",
+          "original": "Hebrew: חֲבַצֶּלֶת הַשָּׁרוֹן (chavatstseleth ha-Sharon) - שׁוֹשַׁנָּה (shoshannah)",
+          "note": "Chavatstseleth aparece solo dos veces en la Escritura, aqui y en Isaías 35:1, y es una flor bulbosa de terreno abierto, traducida como rosa, crocus o azafrán de prado. Shoshannah es un lirio. Sarón es la llanura costera que se extiende al norte desde Jope, llana, bien regada y llena de flores silvestres en primavera. 2:1 nombra flores comunes del campo, no flores de invernadero, y 2:2 es la respuesta que convierte a una de ellas en la unica."
         },
         {
-          "term": "Amor / amores",
-          "original": "Hebrew: אַהֲבָה (’ahavah) / דּוֹדִים (dodim, ‘caresses/loves’), Greek (LXX): ἀγάπη / φιλία, Aramaic: חובא / רחמין",
-          "note": "Términos usados para afecto y deleites (1:2)."
-        },
-        {
-          "term": "Morena pero hermosa",
-          "original": "Hebrew: שְׁחֹרָה וְנָאוָה (sheḥorah ve-navah); Greek: μέλαινα καὶ καλή",
-          "note": "Autodescripción en 1:5."
-        },
-        {
-          "term": "Rosa/Azucena de Sarón; Lirio",
-          "original": "Hebrew: חֲבַצֶּלֶת הַשָּׁרוֹן (ḥavatzelet ha-Sharon), שׁוֹשַׁנָּה (shoshanah); Greek: κρίνον",
-          "note": "La especie exacta es incierta; traducido como rosa/azucena y lirio (2:1–2)."
+          "term": "Tortas de pasas",
+          "original": "Hebrew: אֲשִׁישׁוֹת (ashishoth)",
+          "note": "Tortas prensadas de uvas secas, densas y de larga conservación, repartidas en las fiestas: David dio una a cada persona en Israel cuando subio el arca (2 Samuel 6:19). Eran comida de festival, por eso 2:5 las pide. Oseas 3:1 usa las mismas tortas para aquello que Israel amo cuando se volvio a otros dioses."
         },
         {
           "term": "Casa del vino",
-          "original": "Hebrew: בֵּית הַיַּיִן (beit ha-yayin), Greek: οἶκος οἴνου, Aramaic: בית חמרא",
-          "note": "Escenario de banquete en 2:4."
+          "original": "Hebrew: בֵּית הַיָּיִן (beth ha-yayin)",
+          "note": "El salón del banquete, la sala donde se servia vino y los invitados se reclinaban. Sobre ella, en 2:4, esta su degel, el estandarte bajo el que una unidad militar marchaba y alrededor del cual acampaba (Números 2:2). La imagen es una bandera alzada sobre ella a la vista publica, lo opuesto a un amorio oculto."
         },
         {
-          "term": "No despertéis el amor",
-          "original": "Hebrew: אַל־תָּעִירוּ וְאַל־תְּעֹרְרוּ אֶת־הָאַהֲבָה עַד שֶׁתֶּחְפָּץ; Greek (LXX): μὴ ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θέλῃ",
-          "note": "Fórmula de juramento dirigida a las hijas de Jerusalén (2:7)."
+          "term": "El juramento por las gacelas",
+          "original": "Hebrew: בִּצְבָאוֹת אוֹ בְּאַיְלוֹת הַשָּׂדֶה (bi-tsva'oth o be-ayloth ha-sadeh)",
+          "note": "Un juramento normalmente nombra a Dios como testigo. El de 2:7 nombra animales salvajes, y el hebreo para gacelas, tseva'oth, se escribe exactamente igual que la palabra ejercitos en el titulo SENOR de los ejercitos. El estribillo vuelve en 3:5 y 8:4. Lo que prohibe es despertar el amor antes de su tiempo, y se dirige a las hijas de Jerusalén, no a los amantes."
+        },
+        {
+          "term": "Las lluvias han pasado",
+          "original": "Hebrew: הַסְּתָו עָבָר (ha-sethav avar)",
+          "note": "Israel tiene dos estaciones, no cuatro. La lluvia cae aproximadamente de octubre a abril y despues se detiene por completo hasta el otono, asi que 2:11 no es un estado de animo poetico sino una fecha en el calendario. La turtola de 2:12 lo precisa aun mas: esa ave migra hacia alli y su canto es el sonido de la llegada de la primavera, que es el punto que Jeremías 8:7 hace sobre ella."
+        },
+        {
+          "term": "Las zorras pequenas",
+          "original": "Hebrew: שׁוּעָלִים (shu'alim)",
+          "note": "La palabra cubre tanto al zorro como al chacal. Cavan bajo los muros bajos de piedra de una vina, roen las raices y despojan el fruto maduro, por eso una vina se amurallaba y se le daba una torre de vigilancia y una caseta para un guardia (Isaías 5:1-2). 2:15 las sorprende en tiempo de flor, cuando el dano cuesta toda la cosecha del ano."
+        },
+        {
+          "term": "Las hendiduras de la pena",
+          "original": "Hebrew: בְּחַגְוֵי הַסֶּלַע (be-chagwe ha-sela)",
+          "note": "Las palomas silvestres anidan en salientes de paredes de acantilados a los que nada puede subir, y la region montanosa de Judea esta surcada por esas gargantas. 2:14 llama a un ave desde un lugar al que ninguna mano llega. Jeremías 48:28 usa la misma imagen para la gente que huye a las penas para sobrevivir."
+        },
+        {
+          "term": "Montes de Beter",
+          "original": "Hebrew: הָרֵי בָתֶר (hare vather)",
+          "note": "Beter procede de una raiz que significa cortar en dos, y la misma palabra se usa para las mitades de los animales cortados para el pacto en Génesis 15:10. Asi que 2:17 o bien nombra un lugar o bien los llama los collados hendidos, y de cualquier modo termina la escena con el yendose y con terreno accidentado entre ambos."
         }
       ],
-      "keyTakeaway": "La mujer describe a su amado como excepcional entre los hombres y recuerda momentos íntimos de afecto; él la llama para que se vaya con él, elogia su belleza y la invita a disfrutar la primavera, y ella afirma la pertenencia mutua."
+      "keyTakeaway": "La mujer describe a su amado como sobresaliente entre los demas hombres y recuerda momentos intimos de afecto; luego el la llama a irse con el, elogia su hermosura y la invita a la estacion de primavera, y ella afirma que se pertenecen mutuamente."
     },
     {
       "id": "song-of-songs-3",
@@ -163,34 +185,49 @@
         "\"Salid, oh doncellas de Sion, y ved al rey Salomón con la corona con que le coronó su madre el día de su desposorio, y el día del gozo de su corazón\" (3:11)."
       ],
       "crossRefs": [
-        "Jeremías 8:7: La tórtola y la conciencia estacional.",
-        "Jueces 15:4: Zorras mencionadas en otro contexto (contexto diferente).",
-        "Cantares 8:14: Imagen de la gacela e invitación final.",
-        "Cantares 3:5: Ubicaciones del estribillo."
+        "Jeremías 8:7: La turtola y el conocimiento de las estaciones.",
+        "Jueces 15:4: Zorros mencionados en otro lugar, en un contexto diferente.",
+        "Cantar de los Cantares 8:14: Imagen de gacela e invitacion final.",
+        "Cantar de los Cantares 3:5: Ubicaciones del estribillo."
       ],
       "translationNotes": [
         {
-          "term": "Montes de Beter",
-          "original": "Hebrew: הָרֵי בָתֶר (harei Bater), Greek (LXX): ὄρη κοιλωμάτων, Aramaic: טוּרֵי פוּלְגָא",
-          "note": "Puede ser un nombre de lugar o significar \"separación/hendidura\" (2:17)."
-        },
-        {
-          "term": "Zorras",
-          "original": "Hebrew: שׁוּעָלִים (shuʿalim), Greek: ἀλώπεκες, Aramaic: תַנְיָנִין (alt. dialectal forms)",
-          "note": "Identificadas como destructoras de viñas (2:15)."
-        },
-        {
-          "term": "Guardias",
-          "original": "Hebrew: הַשֹּׁמְרִים (ha-shomrim), Greek: φύλακες, Aramaic: נטוריא",
-          "note": "Guardias de la ciudad encontrados durante la búsqueda (3:3)."
+          "term": "Los guardias",
+          "original": "Hebrew: הַשֹּׁמְרִים הַסֹּבְבִים בָּעִיר (ha-shomrim ha-sovevim ba-ir)",
+          "note": "Las palabras dicen los guardias que rondan la ciudad, asi que se trata de una patrulla, no de un hombre de pie en una torre. Las puertas de la ciudad se cerraban al oscurecer (Josué 2:5) y la guardia recorria los muros y las calles hasta la manana; Salmo 127:1 e Isaías 62:6 los nombran. Encontrarlos en 3:3 significa que ella anda por una ciudad bajo toque de queda."
         },
         {
           "term": "Hijas de Jerusalén",
-          "original": "Hebrew: בְּנוֹת יְרוּשָׁלַ͏ִם (benot Yerushalayim); Greek: θυγατέρες Ἰερουσαλήμ",
-          "note": "Coro al que se dirigen las adjuraciones y estribillos."
+          "original": "Hebrew: בְּנוֹת יְרוּשָׁלִַם (benoth Yerushalayim)",
+          "note": "Un grupo al que se dirige la palabra a lo largo del libro, en 1:5, 2:7, 3:5, 5:8, 5:16 y 8:4, que le hacen preguntas y al que ella pone bajo juramento. Funcionan como un coro, dando a la mujer alguien con quien hablar en escena. Nunca reciben nombre ni descripcion adicional."
+        },
+        {
+          "term": "Columnas de humo desde el desierto",
+          "original": "Hebrew: מְקֻטֶּרֶת מוֹר וּלְבוֹנָה מִכֹּל אַבְקַת רוֹכֵל (mequtteret mor u-levonah mi-kol avqat rokhel)",
+          "note": "El incienso y la mirra son resinas de Arabia meridional, y llegaron a Israel en camello por la ruta del desierto, un comercio tan valioso que construyo las ciudades de su recorrido. 3:6 dice todos los polvos aromaticos del mercader, asi que la procesion llega oliendo a bienes importados y dejando tras de si humo de incienso como una columna de polvo."
+        },
+        {
+          "term": "Sesenta valientes",
+          "original": "Hebrew: שִׁשִּׁים גִּבֹּרִים (shishshim gibborim)",
+          "note": "Gibborim es la palabra para la propia elite de David, y 2 Samuel 23 cuenta a esos hombres como treinta, asi que sesenta es el doble de la guardia real. 3:8 dice que cada uno lleva la espada sobre el muslo contra el terror de la noche, que es para lo que realmente servia una escolta; una comitiva nupcial viajaba despues de oscurecer y los caminos no eran seguros."
+        },
+        {
+          "term": "La litera",
+          "original": "Hebrew: אַפִּרְיוֹן (appiryon) - מִטָּה (mittah, couch)",
+          "note": "Appiryon aparece solo aqui en todo el Antiguo Testamento. Es una silla o divan transportado sobre varas por hombres, y 3:10 da su construccion: columnas de plata, base de oro, asiento de purpura. Nada en ella se mueve por su propia fuerza; existe para que quien va dentro nunca toque el camino."
+        },
+        {
+          "term": "Purpura",
+          "original": "Hebrew: אַרְגָּמָן (argaman)",
+          "note": "Argaman, la purpura del asiento de 3:10, es el tinte extraido del caracol marino murex, recogido y triturado en la costa fenicia de Tiro y Sidón, donde aun quedan montones de conchas rotas. Hacian falta miles de caracoles para producir unos pocos gramos, asi que la tela purpura costaba mas de lo que podia pagar la gente comun y se convirtio en el color de los reyes. Éxodo 25:4 la enumera entre los materiales del tabernaculo, y Hechos 16:14 presenta a Lidia comerciando con ella."
+        },
+        {
+          "term": "La corona que hizo su madre",
+          "original": "Hebrew: בָּעֲטָרָה שֶׁעִטְּרָה־לּוֹ אִמּוֹ (ba-atarah she-itterah lo immo)",
+          "note": "La atarah de 3:11 no es la corona real de estado, sino una guirnalda que el novio llevaba el dia de su boda, e Isaías 61:10 describe a un novio ataviandose con una. Su madre se la pone, que es su papel en la ceremonia. El versiculo fecha la escena en el dia de su boda y en el gozo de su corazon."
         }
       ],
-      "keyTakeaway": "La amada invita en primavera; se urge el cuidado de las viñas; una búsqueda nocturna en la ciudad termina al encontrarlo y llevarlo a casa; se repite la advertencia de no despertar el amor.",
+      "keyTakeaway": "El amado invita en primavera; se insta a cuidar la vina; una busqueda nocturna en la ciudad termina al encontrarlo y llevarlo a casa; se repite el mandato de no despertar el amor.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -227,44 +264,60 @@
         "La novia dice: \"Levántate, Aquilón, y ven, Austro; soplad en mi huerto, despréndanse sus aromas. Venga mi amado a su huerto, y coma de su dulce fruta\" (4:16)."
       ],
       "crossRefs": [
-        "Salmos 45:13–15: Procesión real e imaginería nupcial.",
-        "1 Reyes 10:18–20: El trono de Salomón y su esplendor real.",
-        "Deuteronomio 3:9: Senir como otro nombre para Hermón (nota geográfica).",
-        "Éxodo 30:34: Incienso entre las especias sagradas; Ester 2:12: Mirra usada en preparaciones."
+        "Deuteronomio 3:8-9: El monte Hermon recibe el nombre de Sirión entre los sidonios y Senir entre los amorreos.",
+        "1 Reyes 10:16-17: Salomón hace quinientos escudos de oro batido y los cuelga en la Casa del Bosque del Líbano.",
+        "Éxodo 30:22-25: El aceite sagrado de la unción se prepara con mirra liquida, canela aromatica, cana aromatica y casia en aceite de oliva.",
+        "Génesis 2:8-10: El SENOR Dios planta un jardin en Eden, con un rio que sale de el para regar la tierra.",
+        "Isaías 58:11: Seras como huerto bien regado, como manantial cuyas aguas nunca faltan."
       ],
       "translationNotes": [
         {
-          "term": "Litera / palanquín",
-          "original": "Hebrew: אַפִּרְיוֹן (appiryōn), Greek (LXX): φορεῖον, Aramaic: אפריון",
-          "note": "Lecho o vehículo transportado en 3:9–10."
+          "term": "Líbano, Amana, Senir, Hermón",
+          "original": "Hebrew: לְבָנוֹן (Levanon) - אֲמָנָה (Amanah) - שְׂנִיר (Senir) - חֶרְמוֹן (Chermon)",
+          "note": "Cuatro elevaciones en la frontera norte. Hermón es el terreno mas alto de la region, de unos 9,230 pies, cubierto de nieve la mayor parte del ano; Deuteronomio 3:9 dice que los amorreos llamaban Senir a ese mismo monte. Amana es la cordillera de donde corre el rio Amana hacia Damasco, el Abana de 2 Reyes 5:12. 4:8 agrega las guaridas de los leones y los montes de los leopardos, y ambos animales vivian en esa tierra."
         },
         {
-          "term": "Sesenta valientes",
-          "original": "Hebrew: שִׁשִּׁים גִּבּוֹרִים (shishim gibbōrim); Greek: ἑξήκοντα δυνατοί",
-          "note": "Escolta armada alrededor de la litera (3:7–8)."
+          "term": "Cabras que descienden de Galaad",
+          "original": "Hebrew: גִּלְעָד (Gil'ad)",
+          "note": "Galaad es la altiplanicie boscosa al este del Jordan, tierra de pastoreo por generaciones. Las cabras de la region son negras y de pelo largo, y un rebano que baja por una ladera parece una sola manta oscura en movimiento. Esa es la imagen detras del cabello de 4:1, y 4:2 responde con blanco: ovejas recien lavadas y esquiladas, emparejadas y sin que falte ninguna."
         },
         {
-          "term": "Hermana mía, esposa mía",
-          "original": "Hebrew: אֲחֹתִי כַלָּה (aḥoti kallah), Greek: ἀδελφή μου νύμφη, Aramaic: אחתִי כלתא",
-          "note": "Término de cariño emparejado con \"esposa\" (4:9–12; 5:1)."
+          "term": "La torre de David colmada de escudos",
+          "original": "Hebrew: אֶלֶף הַמָּגֵן (eleph ha-magen, a thousand shields)",
+          "note": "Los escudos se colgaban en un muro como trofeos y exhibicion. Salomón hizo doscientos escudos grandes y trescientos pequenos de oro batido y los colgo en la Casa del Bosque del Líbano (1 Reyes 10:16-17), y Sisac de Egipto se los llevo (2 Crónicas 12:9). Ezequiel 27:11 muestra los muros de Tiro colgados del mismo modo. 4:4 describe armadura sobre obra de piedra, no joyeria."
         },
         {
-          "term": "Huerto cerrado / fuente sellada",
-          "original": "Hebrew: גַּן נָעוּל… מַעְיָן נָעוּל, מָקוֹר חָתוּם; Greek: κῆπος κεκλεισμένος… πηγὴ κεκλεισμένη, πηγή σφραγισμένη",
-          "note": "Metáforas de jardín encerrado y fuente sellada (4:12)."
+          "term": "Jardin cerrado, fuente sellada",
+          "original": "Hebrew: גַּן נָעוּל (gan na'ul) - גַּל נָעוּל מַעְיָן חָתוּם (gal na'ul ma'yan chathum)",
+          "note": "Ambas mitades de 4:12 tratan de la propiedad. Un jardin en ese clima se amurallaba y se cerraba con puerta porque el agua y la fruta eran dignas de robo, y una fuente o cisterna se cubria y sellaba con arcilla marcada por su propietario, igual que se sellaba un documento. La imagen es una propiedad que pertenece a un hombre y esta cerrada para todos los demas."
         },
         {
-          "term": "Líbano; Amana; Senir; Hermón",
-          "original": "Hebrew place names: לְבָנוֹן, אֲמָנָה, שְׂנִיר, חֶרְמוֹן",
-          "note": "Marcadores geográficos en 4:8 y la alabanza circundante."
+          "term": "Las especias de 4:13-14",
+          "original": "Hebrew: כֹּפֶר (kopher, henna) - נֵרְדְּ (nerd, nard) - כַּרְכֹּם (karkom, saffron) - קָנֶה (qaneh, cane) - קִנָּמוֹן (qinnamon, cinnamon) - אֲהָלוֹת (ahaloth, aloes)",
+          "note": "Ninguna de estas crecia en Israel y todas llegaban por caravana. El azafrán son los tres estigmas rojos dentro de una flor de crocus, recogidos a mano, y se necesitan aproximadamente setenta y cinco mil flores para producir una libra. Qaneh es la cana aromatica, y la canela es corteza; ambas son ingredientes del aceite santo de la unción de Éxodo 30:23. La lista es el contenido de un tesoro, valorado como tal."
         },
         {
-          "term": "Comed, amigos",
-          "original": "Hebrew: אִכְלוּ רֵעִים (ikhlu re‘im); Greek (LXX): φάγετε φίλοι",
-          "note": "Invitación pronunciada en 5:1 a los compañeros."
+          "term": "Áloes",
+          "original": "Hebrew: אֲהָלוֹת (ahaloth)",
+          "note": "No la planta de aloe vera en el alféizar de una ventana. Los ahaloth de 4:14 son madera aromatica de áloe, el duramen impregnado de resina del arbol Aquilaria del sudeste asiatico, quemado o raspado por su aroma y una de las maderas mas caras que se comerciaban en cualquier lugar. Salmo 45:8 muestra las vestiduras de un rey oliendo a ella, Proverbios 7:17 una cama perfumada con ella, y Juan 19:39 a Nicodemo trayendo setenta y cinco libras de áloes y mirra para un entierro."
+        },
+        {
+          "term": "Pozo de agua viva",
+          "original": "Hebrew: מַיִם חַיִּים (mayim chayyim)",
+          "note": "Agua viva significa agua corriente de un manantial, en contraste con el agua inmovil de una cisterna. La distincion era legal, no poetica: la ley exige agua viva para la purificacion de un leproso sanado (Levítico 14:5-6) y para mezclar las cenizas de la vaca alazana (Números 19:17). 4:15 pone un manantial dentro del jardin sellado de 4:12, de modo que el recinto tiene su propia fuente."
+        },
+        {
+          "term": "Hermana mia, esposa",
+          "original": "Hebrew: אֲחֹתִי כַלָּה (achothi khallah)",
+          "note": "Hermana es aqui una forma de tratamiento entre amantes, usada seis veces de 4:9 a 5:2 y en ningun otro lugar del libro. Kallah es la esposa, y tambien es la palabra para nuera, pues una esposa entraba en la casa del padre de su marido. Llamarla ambas cosas a la vez la reclama como familia antes del matrimonio y como esposa dentro de el."
+        },
+        {
+          "term": "El viento del norte y el viento del sur",
+          "original": "Hebrew: צָפוֹן (tsaphon) - תֵּימָן (teman)",
+          "note": "En Israel el viento del norte es frio y seco desde los montes y el viento del sur es caliente desde el desierto, y 4:16 llama a ambos. El viento lleva el aroma de un jardin a cualquiera que este a sotavento. El versiculo termina entregando el jardin a su dueño, que es el punto que ha ido construyendo toda la imagen del jardin cerrado."
         }
       ],
-      "keyTakeaway": "El amado prodiga elogios a su amada, comparando sus ojos, cabello, dientes, labios y cuerpo con hermosas imágenes de la naturaleza; la invita a huir con él y describe su amor, belleza y misterio usando imágenes de jardines y especias.",
+      "keyTakeaway": "El amado dedica una alabanza extensa a su amada, comparando sus ojos, cabello, dientes, labios y cuerpo con bellos rasgos y objetos naturales; la invita a irse con el y describe su amor, hermosura y misterio con imagenes de jardin y especias.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -297,44 +350,50 @@
         "\"Su paladar, dulcísimo, y todo él codiciable. Tal es mi amado, tal es mi amigo, oh doncellas de Jerusalén\" (5:16)."
       ],
       "crossRefs": [
-        "Salmos 45:13–15: Procesión real e imaginería nupcial.",
-        "1 Reyes 10:18–20: El trono de Salomón y su esplendor real.",
-        "Deuteronomio 3:9: Senir como otro nombre para Hermón (nota geográfica).",
-        "Éxodo 30:34: Incienso entre las especias sagradas; Ester 2:12: Mirra usada en preparaciones."
+        "Éxodo 3:8: El SEÑOR promete sacar a Israel a una tierra buena y espaciosa que fluye leche y miel.",
+        "Salmos 127:1: Si el SEÑOR no protege la ciudad, en vano velan sus guardias.",
+        "Isaías 62:6: Hay guardias apostados sobre los muros de Jerusalén, que nunca callarán ni de día ni de noche.",
+        "1 Reyes 10:18-20: El gran trono de marfil de Salomón, recubierto de oro puro, con doce leones en sus seis escalones.",
+        "1 Reyes 7:2-3: La Casa del Bosque del Líbano, edificada sobre cuatro hileras de columnas de cedro bajo vigas de cedro."
       ],
       "translationNotes": [
         {
-          "term": "Litera / palanquín",
-          "original": "Hebrew: אַפִּרְיוֹן (appiryōn), Greek (LXX): φορεῖον, Aramaic: אפריון",
-          "note": "Lecho o vehículo transportado en 3:9–10."
-        },
-        {
-          "term": "Sesenta valientes",
-          "original": "Hebrew: שִׁשִּׁים גִּבּוֹרִים (shishim gibbōrim); Greek: ἑξήκοντα δυνατοί",
-          "note": "Escolta armada alrededor de la litera (3:7–8)."
-        },
-        {
-          "term": "Hermana mía, esposa mía",
-          "original": "Hebrew: אֲחֹתִי כַלָּה (aḥoti kallah), Greek: ἀδελφή μου νύμφη, Aramaic: אחתִי כלתא",
-          "note": "Término de cariño emparejado con \"esposa\" (4:9–12; 5:1)."
-        },
-        {
-          "term": "Huerto cerrado / fuente sellada",
-          "original": "Hebrew: גַּן נָעוּל… מַעְיָן נָעוּל, מָקוֹר חָתוּם; Greek: κῆπος κεκλεισμένος… πηγὴ κεκλεισμένη, πηγή σφραγισμένη",
-          "note": "Metáforas de jardín encerrado y fuente sellada (4:12)."
-        },
-        {
-          "term": "Líbano; Amana; Senir; Hermón",
-          "original": "Hebrew place names: לְבָנוֹן, אֲמָנָה, שְׂנִיר, חֶרְמוֹן",
-          "note": "Marcadores geográficos en 4:8 y la alabanza circundante."
-        },
-        {
           "term": "Comed, amigos",
-          "original": "Hebrew: אִכְלוּ רֵעִים (ikhlu re‘im); Greek (LXX): φάγετε φίλοι",
-          "note": "Invitación pronunciada en 5:1 a los compañeros."
+          "original": "Hebrew: אִכְלוּ רֵעִים שְׁתוּ וְשִׁכְרוּ דּוֹדִים (ikhlu re'im shethu ve-shikhru dodim)",
+          "note": "5:1 responde a la invitación al final del capítulo 4: él ha entrado en el huerto, ha recogido y ha comido. Luego habla una tercera voz, que dice a los compañeros que coman y beban en abundancia. Está exactamente en el centro del libro, y es la única línea dirigida a los invitados en vez de estar entre los dos."
+        },
+        {
+          "term": "El cerrojo y la mano en la abertura",
+          "original": "Hebrew: מִן־הַחֹר (min ha-chor, through the hole) - כַּפּוֹת הַמַּנְעוּל (kappoth ha-man'ul, the handles of the bolt)",
+          "note": "Una puerta se atrancaba con un cerrojo de madera que se deslizaba dentro de una cavidad del marco, con clavijas que caían en agujeros para cerrarlo. La llave era una barra de madera con pasadores correspondientes, introducida por un agujero abierto en la puerta y manejada desde afuera; llaves de ese tamaño se llevaban sobre el hombro, que es la imagen de Isaías 22:22. 5:4 tiene una mano a través de ese agujero y 5:5 tiene mirra dejada sobre el cerrojo."
+        },
+        {
+          "term": "Los guardias la golpearon",
+          "original": "Hebrew: רְדִידִי (redidi, my wrap or shawl)",
+          "note": "La misma patrulla nocturna que ella encontró en 3:3 la halla otra vez en 5:7, y esta vez la golpean, la hieren y le quitan el manto. Una mujer que andaba por las calles después de que se cerraban las puertas no tenía derecho a estar allí. El redid es un chal exterior, nombrado de nuevo solo en Isaías 3:23, en la lista de adornos quitados a las hijas de Sión."
+        },
+        {
+          "term": "Enferma de amor",
+          "original": "Hebrew: חוֹלַת אַהֲבָה (cholath ahavah)",
+          "note": "Cholah significa verdaderamente enferma, la palabra usada para un cuerpo enfermo, no una figura para sentirse decaída. Aparece en 2:5 y otra vez en 5:8, donde ella pone bajo juramento a las hijas de Jerusalén para que lleven un mensaje si lo encuentran. El libro trata el efecto del amor sobre el cuerpo como un hecho físico y lo dice dos veces."
+        },
+        {
+          "term": "Berilo y lapislázuli",
+          "original": "Hebrew: תַּרְשִׁישׁ (tarshish) - סַפִּיר (sappir)",
+          "note": "Dos piedras en la descripción de 5:14. Tarshish es una piedra amarillo dorada engastada en la cuarta fila del pectoral del sumo sacerdote (Éxodo 28:20), traducida como berilo, topacio o crisólito. Sappir es lapislázuli, azul profundo salpicado de motas doradas de pirita, extraído en lo que hoy es el noreste de Afganistán y llevado al oeste por toda la red comercial antigua. No es el zafiro moderno."
+        },
+        {
+          "term": "Negro como un cuervo",
+          "original": "Hebrew: שְׁחֹרוֹת כָּעוֹרֵב (shechoroth ka-orev)",
+          "note": "5:11 dice que su cabello es ondulado y negro como un cuervo, en contraste con una cabeza descrita como oro finísimo. El cabello gris llevaba honra en Israel (Levítico 19:32, Proverbios 16:31), así que el negro de cuervo afirma su edad: es un joven en plena fuerza, no un anciano."
+        },
+        {
+          "term": "Marfil y alabastro",
+          "original": "Hebrew: עֶשֶׁת שֵׁן (esheth shen, a work of ivory) - שֵׁשׁ (shesh, alabaster or white marble)",
+          "note": "5:14-15 lo construye con materiales de lujo. El marfil venía de colmillos de elefante comerciados desde África y la India; Acab edificó una casa revestida de marfil (1 Reyes 22:39), y Amós 3:15 y 6:4 nombran camas de marfil como la señal de una clase a la que los profetas acusaron. Shesh es la piedra pálida usada para columnas. Toda la descripción es deliberadamente una estatua de materiales costosos."
         }
       ],
-      "keyTakeaway": "El amante llega de noche buscando entrada; la mujer duda, y cuando por fin abre la puerta él ha desaparecido. Angustiada, recorre la ciudad, los guardias la golpean, y ella describe la belleza física de su amado en detalle a las hijas de Jerusalén.",
+      "keyTakeaway": "El amado llega de noche buscando entrar; la mujer vacila y, cuando por fin abre la puerta, él ha desaparecido. Angustiada, ella busca por la ciudad, los guardias la golpean y describe en detalle a las hijas de Jerusalén la hermosura física de su amado.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -368,34 +427,49 @@
         "\"Vuelve, vuelve, oh sulamita; vuelve, vuelve, y te miraremos.\" \"¿Qué veréis en la sulamita? Algo como la reunión de dos campamentos\" (6:13)."
       ],
       "crossRefs": [
-        "Cantares 3:2–3: Búsqueda previa en la ciudad y encuentro con los guardias.",
-        "Salmos 141:2: Oración como incienso; imaginería de labios y lirios (motivo de fragancia).",
-        "Proverbios 27:9: El ungüento y el perfume alegran el corazón (imaginería de aroma).",
-        "Cantares 2:16: Anterior \"Mi amado es mío, y yo soy suya.\""
+        "Cantar de los Cantares 3:2-3: La búsqueda anterior en la ciudad y el encuentro con los guardias.",
+        "Salmos 141:2: La oración como incienso; imágenes de labios y lirios, un motivo de fragancia.",
+        "Proverbios 27:9: El aceite y el perfume alegran el corazón, imagen de aroma.",
+        "Cantar de los Cantares 2:16: La afirmación anterior: «Mi amado es mío, y yo soy suya»."
       ],
       "translationNotes": [
         {
-          "term": "Guardias / guardas de los muros",
-          "original": "Hebrew: הַשֹּׁמְרִים (ha-shomrim) / שֹׁמְרֵי הַחֹמוֹת (shomrê ha-ḥomot)",
-          "note": "Guardias de la ciudad que golpean, hieren y quitan el velo (5:7)."
+          "term": "Tirsa",
+          "original": "Hebrew: תִּרְצָה (Tirtsah)",
+          "note": "6:4 la empareja con dos ciudades, y la pareja es deliberada: Tirsa era la capital del reino del norte y Jerusalén la capital del sur. Los reyes reinaron desde Tirsa desde Jeroboam en adelante; Zimri incendió allí el palacio sobre sí mismo (1 Reyes 16:18), y Omri gobernó seis años en ella antes de comprar el monte de Samaria y trasladarse (1 Reyes 16:23-24). Estaba a unas siete millas al noreste de Siquem. El nombre mismo significa agradable."
         },
         {
-          "term": "Enferma de amor",
-          "original": "Hebrew: חוֹלַת אַהֲבָה (ḥolat ’ahavah), Greek (LXX): τετρωμένη ἀγάπης, Aramaic: חליאת רחמין",
-          "note": "Anhelo intenso (5:8)."
+          "term": "Imponente como un ejército con banderas",
+          "original": "Hebrew: אֲיֻמָּה כַּנִּדְגָּלוֹת (ayummah ka-nidgaloth)",
+          "note": "Ayom es lo que hace retroceder a un enemigo; Habacuc 1:7 lo usa de los caldeos. Nidgaloth procede de degel, el estandarte bajo el cual cada división de Israel acampaba y marchaba (Números 2:2). Así que el elogio de 6:4 y de nuevo de 6:10 es que mirarla es como ver a un ejército formado venir sobre una cresta con sus colores alzados."
         },
         {
-          "term": "Todo él codiciable",
-          "original": "Hebrew: כֻּלּוֹ מַחֲמַדִּים (kullō maḥamadim); Greek (LXX): ὅλος ἐπιθυμητός",
-          "note": "Valoración final del amado en 5:16."
+          "term": "Sesenta reinas y ochenta concubinas",
+          "original": "Hebrew: מְלָכוֹת (melakhoth, queens) - פִּילַגְשִׁים (pilagshim, concubines)",
+          "note": "Una casa real del antiguo Cercano Oriente se contaba de esta manera porque la mayoría de esos matrimonios eran tratados: un rey sellaba una alianza tomando a la hija del otro rey. Una concubina era una esposa de rango legal inferior, cuyos hijos no heredaban primero. 1 Reyes 11:3 cuenta las de Salomón como setecientas y trescientas. 6:8-9 pone toda la lista frente a una mujer y dice que ella es la única."
         },
         {
-          "term": "Yo soy de mi amado",
-          "original": "Hebrew: אֲנִי לְדוֹדִי (’ani le-dodi), Greek (LXX): ἐγὼ τῷ ἀγαπητῷ μου, Aramaic: אנא לדידי",
-          "note": "Fórmula de posesión/afecto repetida en el Cantar (6:3)."
+          "term": "El huerto de nogales",
+          "original": "Hebrew: גִּנַּת אֱגוֹז (ginnath egoz)",
+          "note": "Egoz es el nogal, nombrado solo aquí en el Antiguo Testamento, y un nogal necesita agua constante, por eso 6:11 sitúa la escena en un valle regado. El versículo es un paseo para comprobar la estación, si las vides han brotado y los granados han florecido, labor ordinaria de primavera en un viñedo y la misma diligencia que en 7:12."
+        },
+        {
+          "term": "Ammi-nadib",
+          "original": "Hebrew: מַרְכְּבוֹת עַמִּי־נָדִיב (markevoth ammi nadiv)",
+          "note": "El hebreo de 6:12 es la línea más difícil del libro. Las palabras son carros, mi pueblo y noble o dispuesto, y pueden leerse como un nombre propio, Ammi-nadib, o como los carros de mi pueblo noble. Las versiones inglesas se dividen, y la aplicación deja la línea tal como está en el texto en vez de elegir por el lector."
+        },
+        {
+          "term": "La sulamita",
+          "original": "Hebrew: הַשּׁוּלַמִּית (ha-Shulammith)",
+          "note": "El único nombre o título dado a la mujer en todo el libro, y aparece dos veces, ambas en 6:13. Lleva el artículo definido, la sulamita, que es la manera de marcar a una persona por su pueblo, y sus consonantes son las de shalom, paz, y las del propio nombre de Salomón. La Escritura no da más identificación."
+        },
+        {
+          "term": "La danza de Mahanaim",
+          "original": "Hebrew: כִּמְחֹלַת הַמַּחֲנָיִם (ki-mecholath ha-machanayim)",
+          "note": "Machanayim significa dos campamentos, y es una ciudad real de Galaad al este del Jordán. Jacob la nombró así cuando los ángeles de Dios lo encontraron allí (Génesis 32:2), fue una ciudad levítica (Josué 21:38), y David se refugió en ella cuando Absalón lo expulsó de Jerusalén (2 Samuel 17:24). Por eso 6:13 pregunta por qué la miran como a la danza de dos campamentos, y el nombre puede leerse como el lugar o como la imagen."
         }
       ],
-      "keyTakeaway": "Una visita nocturna se pierde; los centinelas la golpean y le quitan el velo; ella da una descripción detallada de su amado y afirma: \"Yo soy de mi amado y mi amado es mío.\"",
+      "keyTakeaway": "Se pierde una visita nocturna; los guardias la golpean y le quitan el velo; ella da una descripción detallada de su amado y afirma: «Yo soy de mi amado, y mi amado es mío».",
       "headings": [
         {
           "beforeVerse": 1,
@@ -425,34 +499,50 @@
         "\"Las mandrágoras han dado olor, y a nuestras puertas hay toda suerte de dulces frutas, nuevas y añejas, que para ti, oh amado mío, he guardado\" (7:13)."
       ],
       "crossRefs": [
-        "Josué 12:24; 1 Reyes 14:17; 16:6–9: Tirsa mencionada como ciudad real.",
-        "Salmos 48:1–2: Alabanza de Sion/Jerusalén (belleza de la ciudad).",
-        "Génesis 30:14: Mandrágoras mencionadas en otro pasaje (fragancia/fruto).",
-        "Cantares 2:7: Apariciones anteriores del estribillo."
+        "Números 21:25-26: Hesbón fue la ciudad real de Sehón, rey de los amorreos, antes de que Israel la tomara.",
+        "Ezequiel 16:10: Te vestí de tela bordada y te di sandalias de cuero fino.",
+        "Jeremías 46:18: Vendrá uno que es como Tabor entre los montes y como Carmelo junto al mar.",
+        "Salmos 92:12: El justo florecerá como la palmera y crecerá como cedro en el Líbano.",
+        "Génesis 30:14-16: Rubén encuentra mandrágoras en el campo durante la cosecha de trigo, y Raquel cambia una noche con Jacob por ellas."
       ],
       "translationNotes": [
         {
-          "term": "Imponente como ejércitos con banderas",
-          "original": "Hebrew: אֲיֻמָּה כַּנִּדְגָּלוֹת (’ayummāh ka-niddgalot)",
-          "note": "Imagen que la compara con un ejército formidable con estandartes (6:4-10)."
+          "term": "Hesbón y Bat-rabim",
+          "original": "Hebrew: חֶשְׁבּוֹן (Cheshbon) - בַּת־רַבִּים (Bath rabbim)",
+          "note": "Hesbón estaba en la meseta al este del Jordán y fue la ciudad real de Sehón, rey de los amorreos, hasta que Israel la tomó (Números 21:25-26); Moab la poseyó después (Isaías 15:4). Una ciudad en esa meseta seca vivía de depósitos de agua excavados, que son los estanques de 7:4. Bat-rabim no aparece en ningún otro lugar de la Escritura, y el versículo la identifica como una puerta de Hesbón."
         },
         {
-          "term": "Aminadab (texto difícil)",
-          "original": "Hebrew: עַמִּינָדִיב (’Ammi-nadiv); reading uncertain",
-          "note": "Frase en 6:12 de difícil interpretación; existen muchas traducciones sobre carros/gente noble; se mantiene tal cual."
+          "term": "La torre del Líbano que mira hacia Damasco",
+          "original": "Hebrew: כְּמִגְדַּל הַלְּבָנוֹן צוֹפֶה פְּנֵי דַמָּשֶׂק (ke-migdal ha-Levanon tsopheh pene Dammaseq)",
+          "note": "7:4 nombra una atalaya en la frontera norte que vigila el camino a Damasco, la capital aramea y amenaza constante desde el norte durante la mayor parte de la historia de Israel. Un migdal era una torre de vigilancia de piedra puesta para ver venir un ejército mientras aún había tiempo de enviar aviso. La comparación es con algo que se alza recto y no deja pasar nada."
         },
         {
-          "term": "Sulamita",
-          "original": "Hebrew: הַשּׁוּלַמִּית (ha-Shulammît)",
-          "note": "Designación de la mujer en 6:13; la derivación exacta es incierta; se proporciona el hebreo para evitar asociaciones engañosas."
+          "term": "Carmelo",
+          "original": "Hebrew: כַּרְמֶל (Karmel)",
+          "note": "Carmelo es la cresta arbolada que corre desde la costa mediterránea hacia el interior, elevándose a unos 1,700 pies, y es el promontorio que un barco ve primero al subir por esa costa. Elías enfrentó allí a los profetas de Baal (1 Reyes 18:19-20). La palabra también significa tierra de huerto, así que 7:5 corona su cabeza con un monte que es sinónimo de verdor cuando todo lo demás se ha secado."
+        },
+        {
+          "term": "La palmera y sus racimos",
+          "original": "Hebrew: תָּמָר (tamar)",
+          "note": "La palmera datilera desarrolla un tronco desnudo de sesenta pies o más, con el fruto solo en la copa, así que el cosechador la sube con una cuerda y corta los racimos; un buen árbol produce bastante más de cien libras de dátiles por temporada. 7:7-8 usa eso literalmente, la estatura y el subir y el asirse de las ramas. Débora juzgaba bajo una palmera (Jueces 4:5), y Jericó era llamada la ciudad de las palmeras."
         },
         {
           "term": "Deseo",
-          "original": "Hebrew: תְּשׁוּקָה (teshuqah), Greek (LXX): ἐπιστροφή/πόθος (var. renderings), Aramaic: תשוקתה",
-          "note": "Término en 7:10 para el deseo del amado hacia ella."
+          "original": "Hebrew: תְּשׁוּקָה (teshuqah)",
+          "note": "Este sustantivo aparece solo tres veces en todo el Antiguo Testamento: Génesis 3:16, donde es el de la mujer hacia su marido; Génesis 4:7, donde es el del pecado hacia Caín; y 7:10, donde es el de él hacia ella. El español usa palabras corrientes como deseo o anhelo, de modo que un lector no puede ver que el Cantar retoma una palabra usada solo dos veces antes, ambas en Génesis."
+        },
+        {
+          "term": "Mandrágoras",
+          "original": "Hebrew: דּוּדָאִים (duda'im)",
+          "note": "La mandrágora es una planta mediterránea baja, con una raíz gruesa bifurcada y pequeños frutos amarillos que maduran cerca de la cosecha de trigo y huelen fuerte. Tenía fama antigua de ayudar a una mujer a concebir, que es todo el punto de Génesis 30:14-16, donde Raquel cambia una noche con Jacob por las mandrágoras que Rubén encontró. 7:13 las muestra despidiendo su aroma a la puerta."
+        },
+        {
+          "term": "Nuevo y viejo sobre la puerta",
+          "original": "Hebrew: חֲדָשִׁים גַּם־יְשָׁנִים (chadashim gam yeshanim)",
+          "note": "Una casa guardaba la fruta del año en estantes y jarras junto a la entrada, donde la cosecha de la temporada pasada se colocaba al lado de la de esta temporada. 7:13 dice que toda fruta escogida, nueva y vieja, está guardada allí para él. Es el lenguaje de un almacén lleno, que es como se veía la seguridad en un año agrícola."
         }
       ],
-      "keyTakeaway": "El amante elogia el cuerpo de su amada con detalle elaborado, comparando sus rasgos con elementos naturales y arquitectónicos; ella afirma su devoción y lo invita al campo, donde le entregará su amor."
+      "keyTakeaway": "El amado elogia el cuerpo de su amada en detalle elaborado, comparando sus rasgos con hitos naturales y arquitectónicos; la amada afirma su devoción y lo invita al campo, donde le dará su amor."
     },
     {
       "id": "song-of-songs-8",
@@ -477,34 +567,55 @@
         "\"Apresúrate, amado mío, y sé semejante al corzo, o al cervatillo, sobre las montañas de los aromas\" (8:14)."
       ],
       "crossRefs": [
-        "Josué 12:24; 1 Reyes 14:17; 16:6–9: Tirsa mencionada como ciudad real.",
-        "Salmos 48:1–2: Alabanza de Sion/Jerusalén (belleza de la ciudad).",
-        "Génesis 30:14: Mandrágoras mencionadas en otro pasaje (fragancia/fruto).",
-        "Cantares 2:7: Apariciones anteriores del estribillo."
+        "Génesis 38:18: Judá entrega su sello, su cordón y su bastón como prenda; el sello representa al hombre mismo.",
+        "Hageo 2:23: Te haré como mi anillo de sellar, porque te he escogido, dice el SEÑOR de los Ejércitos.",
+        "Deuteronomio 6:8: Ata estas palabras como recordatorios en tus manos y átalas sobre tu frente.",
+        "Génesis 29:18-20: Jacob sirve siete años por Raquel, y le parecen unos pocos días por el amor que le tiene.",
+        "Mateo 21:33-41: Un terrateniente planta una viña, la cerca, cava un lagar y la arrienda a labradores por una parte del fruto."
       ],
       "translationNotes": [
         {
-          "term": "Imponente como ejércitos con banderas",
-          "original": "Hebrew: אֲיֻמָּה כַּנִּדְגָּלוֹת (’ayummāh ka-niddgalot)",
-          "note": "Imagen que la compara con un ejército formidable con estandartes (6:4-10)."
+          "term": "Si fueras mi hermano",
+          "original": "Hebrew: כְּאָח לִי (ke-ach li)",
+          "note": "8:1 no desea estar emparentada con él. Una mujer podía saludar a un hermano con un beso en la calle y nadie pensaría nada; mostrar afecto en público a un hombre que no era pariente atraía desprecio. Ella dice que desearía poder tocarlo afuera sin pagar por ello, y 8:2 luego lo lleva adentro, a la casa de su madre."
         },
         {
-          "term": "Aminadab (texto difícil)",
-          "original": "Hebrew: עַמִּינָדִיב (’Ammi-nadiv); reading uncertain",
-          "note": "Frase en 6:12 de difícil interpretación; existen muchas traducciones sobre carros/gente noble; se mantiene tal cual."
+          "term": "Ponme como un sello",
+          "original": "Hebrew: חוֹתָם (chotham)",
+          "note": "Un sello era la identidad legal de un hombre, no un adorno. Se tallaba en piedra como cilindro usado en un cordón al cuello, o se montaba como estampilla en un anillo llevado en la mano, y al presionarlo en arcilla firmaba un documento y marcaba propiedad como suya. Judá entrega su sello y cordón como prenda (Génesis 38:18), Jezabel sella cartas con el sello de Acab para que lleven la autoridad del rey (1 Reyes 21:8), y Hageo 2:23 hace Zorobabel como el anillo de sellar del SEÑOR. El corazón y el brazo nombrados en 8:6 son los dos lugares donde realmente se llevaba un sello."
         },
         {
-          "term": "Sulamita",
-          "original": "Hebrew: הַשּׁוּלַמִּית (ha-Shulammît)",
-          "note": "Designación de la mujer en 6:13; la derivación exacta es incierta; se proporciona el hebreo para evitar asociaciones engañosas."
+          "term": "Fuerte como el Seol",
+          "original": "Hebrew: שְׁאוֹל (She'ol) - קִנְאָה (qin'ah)",
+          "note": "Seol es la palabra del Antiguo Testamento para la tumba y el reino de los muertos, adonde todos descienden (Génesis 37:35, Salmo 16:10), y la Septuaginta la traduce con el griego hades. Lo que 8:6 toma de ella es una propiedad: el Seol no suelta ni devuelve nada. Qin'ah se traduce celos o ardor y es la misma palabra usada para el celo de Dios en Éxodo 20:5."
         },
         {
-          "term": "Deseo",
-          "original": "Hebrew: תְּשׁוּקָה (teshuqah), Greek (LXX): ἐπιστροφή/πόθος (var. renderings), Aramaic: תשוקתה",
-          "note": "Término en 7:10 para el deseo del amado hacia ella."
+          "term": "La llama del SEÑOR",
+          "original": "Hebrew: שַׁלְהֶבֶתְיָה (shalhevethyah)",
+          "note": "Una palabra hebrea al final de 8:6, formada de shalhevet, llama, con la terminación yah, la forma corta del nombre divino que también termina aleluya. Es el único lugar del Cantar donde aparece alguna forma del nombre de Dios. Las versiones la traducen como una llama muy vehemente o la llama misma del SEÑOR, según se lea la terminación como un superlativo o como el nombre."
+        },
+        {
+          "term": "Todas las riquezas de su casa",
+          "original": "Hebrew: כָּל־הוֹן בֵּיתוֹ (kol hon betho)",
+          "note": "El matrimonio en Israel se contrataba con un mohar, un precio de novia que la familia del novio pesaba para la de la novia (Génesis 34:12, Éxodo 22:16-17). 8:7 pone esa transacción sobre la mesa y dice que un hombre que ofreciera toda la hacienda de su casa por amor sería totalmente despreciado, que es lo único en el libro cuyo precio se pone y luego se rechaza."
+        },
+        {
+          "term": "Tenemos una hermana pequeña",
+          "original": "Hebrew: בַּיּוֹם שֶׁיְּדֻבַּר־בָּהּ (ba-yom she-yedubbar bah, the day she is spoken for)",
+          "note": "8:8-9 muestra a los hermanos reunidos en consejo familiar. El matrimonio de una joven lo negociaban los hombres de su casa, y su pregunta es qué harán cuando llegue la propuesta. A un muro le construyen almenas de plata y a una puerta la cierran con tablones de cedro; de ambos modos deciden de antemano qué construirán alrededor de ella. 8:10 es la respuesta de ella: ya es un muro."
+        },
+        {
+          "term": "La viña de Baal-hamón",
+          "original": "Hebrew: בַּעַל הָמוֹן (Ba'al hamon)",
+          "note": "Un lugar que no se nombra en ninguna otra parte de la Escritura; el nombre se lee dueño de una multitud. 8:11 muestra a Salomón arrendando la viña a labradores, que era como se trabajaba una gran propiedad: el arrendatario la cultiva y paga al dueño una suma fija de la cosecha. 8:12 deja de lado ese arreglo: mi propia viña está delante de mí."
+        },
+        {
+          "term": "Mil siclos de plata",
+          "original": "Hebrew: אֶלֶף כָּסֶף (eleph kaseph)",
+          "note": "Renta de una viña arrendada, pagada en plata pesada y no en moneda. Un siclo pesaba cerca de cuatro décimas de onza, así que mil siclos son aproximadamente veinticinco libras de metal. Isaías 7:23 valora vides plantadas en mil siclos de plata por mil vides, un siclo por vid, lo que sitúa una viña de esa renta aproximadamente en ese tamaño. Los doscientos reservados en 8:12 para los hombres que cuidan el fruto son una quinta parte del total."
         }
       ],
-      "keyTakeaway": "La mujer desea que su amado fuera su hermano para poder mostrarle afecto en público, declara que el amor es más fuerte que la muerte y que ninguna fuerza puede apagarlo, y lo urge a que venga pronto a ella. También reflexiona sobre proteger a su hermana menor y reclama su viña como posesión propia.",
+      "keyTakeaway": "La mujer desearía que su amado fuera su hermano para poder mostrarle afecto en público, declara que el amor es más fuerte que la muerte y que ninguna fuerza puede apagarlo, y le insta a venir pronto. También reflexiona sobre proteger a su hermana menor y reclama su viña como posesión propia.",
       "headings": [
         {
           "beforeVerse": 4,

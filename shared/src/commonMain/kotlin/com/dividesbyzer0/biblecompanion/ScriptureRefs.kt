@@ -54,6 +54,49 @@ import org.jetbrains.compose.resources.stringResource
 private fun uwb(literal: String): Regex =
   Regex("(?<![\\p{L}\\p{Mn}])" + Regex.escape(literal) + "(?![\\p{L}\\p{Mn}])")
 
+// Japanese and Korean do not put spaces around every word. A raw replacement
+// of "主" or "주" corrupts ordinary words such as 主人 (master), 持ち主
+// (owner), 주십시오 (please give), and 거주 (residence). Match the divine
+// title in its grammatical forms and leave lexical compounds and verb stems
+// alone.
+private val japaneseLord = Regex(
+  "主(?=(?:は|が|を|に|へ|の|と|よ|から|より|も|こそ|で|だ|です|なる|、|。|，|．|！|？|\\s|$))"
+)
+private val japaneseNonDivinePrefixes = listOf(
+  "持ち", "救い", "ご", "領", "君", "家", "店", "船", "地", "当", "雇い",
+  "造り", "創造", "所有"
+)
+
+private fun replaceJapaneseLord(text: String, transform: (String) -> String): String =
+  japaneseLord.replace(text) { match ->
+    val before = text.substring(0, match.range.first)
+    if (japaneseNonDivinePrefixes.any { before.endsWith(it) }) match.value else transform(match.value)
+  }
+
+private val koreanLord = Regex(
+  "(?<![가-힣])(?:주님|주(?=(?:께서|께|가|를|와|여|에게|앞|" +
+    "의(?=\\s|[,.!?;:，。！？；：]|$)|는|\\s|[,.!?;:，。！？；：]|$)))"
+)
+
+private fun replaceKoreanLord(text: String, transform: (String) -> String): String =
+  koreanLord.replace(text) { match ->
+    if (match.value != "주" || text.getOrNull(match.range.last + 1) != '는') {
+      transform(match.value)
+    } else {
+      // 주는 is ambiguous: it can be "the LORD [topic]" or the ordinary verb
+      // "gives." The corpus contains many non-divine forms such as 보여 주는,
+      // 풀어 주는 and 생명을 주는. Only accept the attested divine contexts.
+      val before = text.substring(0, match.range.first).trimEnd()
+      val previousWord = before.takeLastWhile { it in '\uAC00'..'\uD7A3' }
+      val afterTopic = text.substring(match.range.last + 2).trimStart()
+      val isDivine = previousWord == "나" ||
+        previousWord == "그러나" ||
+        (previousWord.isEmpty() &&
+          (afterTopic.startsWith("자기") || afterTopic.startsWith("복도")))
+      if (isDivine) transform(match.value) else match.value
+    }
+  }
+
 internal fun applyDivineName(
   text: String,
   mode: String,
@@ -211,24 +254,16 @@ internal fun applyDivineName(
     "hi" -> latin.replace("यहोवा", r)
     "ko" -> {
       var t = latin.replace("여호와", r).replace("야훼", r)
-      if (isOt) t = t.replace(Regex("주님?"), r)
+      if (isOt) t = replaceKoreanLord(t) { r }
       t
     }
     "ja" -> {
       var t = latin.replace("ヤハウェ", r).replace("ヱホバ", r)
-      if (isOt) t = t.replace("主", r)
+      if (isOt) t = replaceJapaneseLord(t) { r }
       t
     }
-    "zh-Hans" -> {
-      var t = latin.replace("耶和华", r).replace("雅威", r)
-      if (isOt) t = t.replace("主", r)
-      t
-    }
-    "zh-Hant" -> {
-      var t = latin.replace("耶和華", r).replace("雅威", r)
-      if (isOt) t = t.replace("主", r)
-      t
-    }
+    "zh-Hans" -> latin.replace("耶和华", r).replace("雅威", r)
+    "zh-Hant" -> latin.replace("耶和華", r).replace("雅威", r)
     else -> latin
   }
 }
@@ -311,24 +346,16 @@ private fun highlightTraditionalName(text: String, lang: String, isOt: Boolean):
     "hi" -> latin.replace(Regex("यहोवा")) { w(it.value) }
     "ko" -> {
       var t = latin.replace(Regex("여호와|야훼")) { w(it.value) }
-      if (isOt) t = t.replace(Regex("주님?")) { w(it.value) }
+      if (isOt) t = replaceKoreanLord(t) { w(it) }
       t
     }
     "ja" -> {
       var t = latin.replace(Regex("ヤハウェ|ヱホバ")) { w(it.value) }
-      if (isOt) t = t.replace(Regex("主")) { w(it.value) }
+      if (isOt) t = replaceJapaneseLord(t) { w(it) }
       t
     }
-    "zh-Hans" -> {
-      var t = latin.replace(Regex("耶和华|雅威")) { w(it.value) }
-      if (isOt) t = t.replace(Regex("主")) { w(it.value) }
-      t
-    }
-    "zh-Hant" -> {
-      var t = latin.replace(Regex("耶和華|雅威")) { w(it.value) }
-      if (isOt) t = t.replace(Regex("主")) { w(it.value) }
-      t
-    }
+    "zh-Hans" -> latin.replace(Regex("耶和华|雅威")) { w(it.value) }
+    "zh-Hant" -> latin.replace(Regex("耶和華|雅威")) { w(it.value) }
     else -> latin
   }
 }
@@ -375,8 +402,19 @@ object ScriptureRefs {
     val collection: String,
     val keys: MutableSet<String>,
     val strippedKeys: MutableSet<String> = mutableSetOf(),
-    val foldAsciiOnlyKeys: MutableSet<String> = mutableSetOf()
+    val foldAsciiOnlyKeys: MutableSet<String> = mutableSetOf(),
+    // The real asset id, read from _index.json rather than rebuilt from the
+    // title. Deriving it by lowercasing the title and swapping spaces for
+    // underscores was wrong for nine books: "Gospel of Thomas" asked for
+    // gospel_of_thomas.json when the file is gospel_thomas.json, and
+    // "Esther (Greek)" asked for esther_(greek).json. Every reference to those
+    // books opened nothing. Empty falls back to the old derivation, which is
+    // what englishSeed needs since it has no index to read.
+    val bookId: String = ""
   )
+
+  private fun assetBookId(entry: BookEntry): String =
+    entry.bookId.ifEmpty { entry.canon.trim().lowercase().replace(' ', '_') }
 
   // Backed by a Compose mutableStateOf so that when primeBooks finishes after
   // the home screen has already composed (e.g. VOTD card), readers recompose
@@ -394,9 +432,16 @@ object ScriptureRefs {
 
     val cols = listOf("old_testament","new_testament","deuterocanonical","apocrypha","pseudepigrapha")
     val canonToCollection = mutableMapOf<String,String>()
+    // _index.json gives (id, title) pairs. The id was being discarded here and
+    // then guessed back from the title further down, which is the bug that made
+    // nine books unreachable. Keep it.
+    val canonToBookId = mutableMapOf<String,String>()
     for (c in cols) {
       val enPairs = ContentRepo.listBooksLocalized(ctx, c, "en")
-      enPairs.forEach { (_, enTitle) -> canonToCollection[enTitle] = c }
+      enPairs.forEach { (id, enTitle) ->
+        canonToCollection[enTitle] = c
+        canonToBookId[enTitle] = id
+      }
     }
 
     val rows = BookAliases.load(ctx, tag)
@@ -445,7 +490,8 @@ object ScriptureRefs {
         } ?: row.canon
       }
 
-      val entry = BookEntry(englishCanon, row.canon, collection, mutableSetOf(), mutableSetOf(), mutableSetOf())
+      val entry = BookEntry(englishCanon, row.canon, collection, mutableSetOf(), mutableSetOf(),
+                            mutableSetOf(), canonToBookId[englishCanon] ?: "")
       row.aliases.forEach { alias ->
         addKey(entry.keys, alias, entry.foldAsciiOnlyKeys)
         val stripped = stripLeadingOrdinal(alias)
@@ -756,7 +802,8 @@ object ScriptureRefs {
                   tail = tail,
                   translation = prefs.translation,
                   appLanguage = appLang,
-                  readerMode = prefs.readerMode
+                  readerMode = prefs.readerMode,
+                  bookId = assetBookId(entry)
                 )
                 pushStringAnnotation("BIBLE_REF", payload.encode())
                 withStyle(linkStyle) { append(display) }
@@ -783,7 +830,8 @@ object ScriptureRefs {
                       tail = tail,
                       translation = prefs.translation,
                       appLanguage = appLang,
-                      readerMode = prefs.readerMode
+                      readerMode = prefs.readerMode,
+                      bookId = assetBookId(target)
                     )
                     pushStringAnnotation("BIBLE_REF", payload.encode())
                     withStyle(linkStyle) { append(display) }
@@ -810,6 +858,7 @@ object ScriptureRefs {
         if (pIdx < lastIdx) append("; ")
         pIdx++
       }
+      if (dnOn) pop()
       if (jesusOn) pop()
     }
 
@@ -906,16 +955,10 @@ object ScriptureRefs {
           }
 
           if (payload.isInternal) {
-            val bookId = payload.canonBook.trim().lowercase().replace(' ', '_')
-            val parts = payload.tail.trim().split(":")
-            val chapter = parts.firstOrNull()
-              ?.split("-")?.firstOrNull()?.trim()?.filter { it.isDigit() } ?: "1"
-            val verseTail = parts.getOrNull(1)?.split(Regex("[,\\s]"))?.firstOrNull()
-            val verseRange = verseTail?.split("-") ?: emptyList()
-            val verse = verseRange.firstOrNull()?.trim()?.filter { it.isDigit() }?.toIntOrNull()
-            val verseEnd = verseRange.getOrNull(1)?.trim()?.filter { it.isDigit() }?.toIntOrNull()
-            val storyId = "$bookId-$chapter"
-            internalNav(payload.collection, bookId, storyId, verse, verseEnd)
+            val bookId = payload.assetId
+            val target = parseInternalRefTail(payload.tail)
+            val storyId = "$bookId-${target.chapter}"
+            internalNav(payload.collection, bookId, storyId, target.verse, target.verseEnd)
             navGate = false
             return@let
           }
@@ -1066,7 +1109,7 @@ object ScriptureRefs {
     when {
       ch == null -> true
       ch.isWhitespace() -> true
-      ch in listOf('(', '[', '{', '\u2022', ',', '\u00B7', '\u2014', '\u2013', '-', '/',
+      ch in listOf('(', '[', '{', '\u2022', ',', '\u00B7', '\u2010', '\u2011', '\u2014', '\u2013', '-', '/',
         '\uFF0C', '\uFF1B', '\uFF1A', '\u3002', '\u3001', '\uFF08', '\uFF3B', '\uFF5B',
         '"', '\'',
         '\u201C', '\u201D', '\u201E', '\u201F',
@@ -1188,7 +1231,8 @@ object ScriptureRefs {
 
   private fun scanRefTail(s: String, start: Int): Int {
     var i = start
-    fun dash(c: Char?) = c == '\u2013' || c == '\u2014' || c == '-' || c == '\uFF0D' || c == '\u301C' || c == '\uFF5E'
+    fun dash(c: Char?) = c == '\u2010' || c == '\u2011' || c == '\u2013' || c == '\u2014' ||
+      c == '-' || c == '\uFF0D' || c == '\u301C' || c == '\uFF5E'
     fun skip() { while (s.getOrNull(i) == ' ') i++ }
     fun digits(): Boolean { val st = i; while (s.getOrNull(i)?.isDigit() == true) i++; return i > st }
     fun verseSuffix() { val c = s.getOrNull(i); if (c == '\u7BC0' || c == '\u8282') i++ }
@@ -1229,7 +1273,7 @@ object ScriptureRefs {
           if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
           verseSuffix()
         }
-        '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
+        '\u2010', '\u2011', '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
           val saveDash = i
           i++; skip()
           if (!digits()) return saveDash
@@ -1261,7 +1305,7 @@ object ScriptureRefs {
           if (!digits()) return i
           if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
         }
-        '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
+        '\u2010', '\u2011', '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
           val saveDash = i
           i++; skip()
           if (!digits()) return saveDash
@@ -1396,6 +1440,51 @@ object ScriptureRefs {
     return if (r.endsWith(":")) r.dropLast(1) else r
   }
 
+  // German, French and the other continental conventions separate chapter from
+  // verse with a comma or a period rather than a colon: "1. K\u00F6nige 11,41".
+  // scanRefTail already accepts that form (see hasEuroVerseSep), but everything
+  // downstream splits the tail on ':' alone, so "11,41" collapsed into chapter
+  // 1141 and the link opened the book at the top. 2,552 references in German
+  // alone. Only the FIRST separator is a chapter break; commas after that are a
+  // verse list ("11,41,43") and must survive.
+  private fun normalizeEuroTail(tail: String): String {
+    if (':' in tail) return tail
+    val m = Regex("^(\\s*\\d+)\\s*[,.]\\s*(?=\\d)").find(tail) ?: return tail
+    return m.groupValues[1] + ":" + tail.substring(m.range.last + 1)
+  }
+
+  private fun normalizeRefDashes(value: String): String =
+    value
+      .replace('\u2010', '-')
+      .replace('\u2011', '-')
+      .replace('\u2013', '-')
+      .replace('\u2014', '-')
+      .replace('\uFF0D', '-')
+      .replace('\u301C', '-')
+      .replace('\uFF5E', '-')
+
+  private data class InternalRefTarget(
+    val chapter: String,
+    val verse: Int?,
+    val verseEnd: Int?
+  )
+
+  private fun parseInternalRefTail(raw: String): InternalRefTarget {
+    val tail = normalizeEuroTail(normalizeRefDashes(raw.trim()))
+    val chapter = tail.dropWhile { !it.isDigit() }
+      .takeWhile { it.isDigit() }
+      .ifEmpty { "1" }
+    val versePart = tail.substringAfter(':', "").trim()
+    val verse = versePart.takeWhile { it.isDigit() }.toIntOrNull()
+    val rangeTail = versePart.substringAfter('-', "")
+    val verseEnd = rangeTail
+      .takeIf { it.isNotBlank() && ':' !in it && ',' !in it && '.' !in it }
+      ?.trim()
+      ?.takeWhile { it.isDigit() }
+      ?.toIntOrNull()
+    return InternalRefTarget(chapter, verse, verseEnd)
+  }
+
   private fun String.noSpaces(): String = replace(" ", "")
   private fun String.foldAscii(): String =
     normalizeNFKD(this).replace(Regex("\\p{M}+"), "")
@@ -1435,6 +1524,9 @@ object ScriptureRefs {
 
   @Composable
   fun jesusColor(prefs: PrefsState): Color = jesusColorFromPrefs(prefs)
+
+  @Composable
+  fun divineNameColor(prefs: PrefsState): Color = divineNameColorFromPrefs(prefs)
 
   @Composable
   private fun jesusColorFromPrefs(prefs: PrefsState): Color {
@@ -1509,10 +1601,16 @@ object ScriptureRefs {
     val tail: String,
     val translation: String,
     val appLanguage: String,
-    val readerMode: String
+    val readerMode: String,
+    // The asset id to open. Carried rather than re-derived from canonBook,
+    // because the two differ for nine books. Empty falls back to the old
+    // derivation so an older encoded payload still decodes.
+    val bookId: String = ""
   ) {
     val preferBibleCom: Boolean get() = readerMode == "biblecom"
     val isInternal: Boolean get() = readerMode == "internal"
+    val assetId: String
+      get() = bookId.ifEmpty { canonBook.trim().lowercase().replace(' ', '_') }
 
     fun encode(): String =
       listOf(
@@ -1521,7 +1619,8 @@ object ScriptureRefs {
         tail.replace("|","\u00A6"),
         translation,
         appLanguage,
-        readerMode
+        readerMode,
+        bookId.replace("|","\u00A6")
       ).joinToString("|")
 
     companion object {
@@ -1539,7 +1638,8 @@ object ScriptureRefs {
           tail = p[2].replace("\u00A6","|"),
           translation = p[3],
           appLanguage = p[4],
-          readerMode = mode
+          readerMode = mode,
+          bookId = (p.getOrNull(6) ?: "").replace("\u00A6","|")
         )
       }.getOrNull()
     }
@@ -1572,13 +1672,14 @@ object ScriptureRefs {
   // Mirrors the inline parsing inside BibleRefAnnotated's onClick — see the
   // payload.isInternal branch — so the SwapDialog can offer "Read in-app".
   private fun derivedInternalNavArgs(payload: RefPayload): InternalNavArgs {
-    val bookId = payload.canonBook.trim().lowercase().replace(' ', '_')
-    val parts = payload.tail.trim().split(":")
-    val chapter = parts.firstOrNull()?.split("-")?.firstOrNull()?.trim()?.filter { it.isDigit() } ?: "1"
-    val verseTail = parts.getOrNull(1)?.split(Regex("[,\\s]"))?.firstOrNull()
-    val verseRange = verseTail?.split("-") ?: emptyList()
-    val verse = verseRange.firstOrNull()?.trim()?.filter { it.isDigit() }?.toIntOrNull()
-    val verseEnd = verseRange.getOrNull(1)?.trim()?.filter { it.isDigit() }?.toIntOrNull()
-    return InternalNavArgs(payload.collection, bookId, "$bookId-$chapter", verse, verseEnd)
+    val bookId = payload.assetId
+    val target = parseInternalRefTail(payload.tail)
+    return InternalNavArgs(
+      payload.collection,
+      bookId,
+      "$bookId-${target.chapter}",
+      target.verse,
+      target.verseEnd
+    )
   }
 }

@@ -17,17 +17,98 @@
       ],
       "crossRefs": [
         "Judas 1:9: Possível alusão à tradição da Assunção envolvendo Miguel.",
-        "Deuteronômio 31:1–8: Encargo final de Moisés a Josué.",
-        "Hebreus 9:15: Jesus como mediador de uma nova aliança."
+        "Deuteronômio 34:5-6: Encargo final de Moisés a Josué.",
+        "Zacarias 3:1-2: Jesus como mediador de uma nova aliança.",
+        "Deuteronômio 31:7-8: Moisés chama Josué e o encarrega, diante de todo Israel, de ser forte e corajoso, pois o SENHOR vai à frente dele e não o deixará nem o abandonará; este livro amplia essa transmissão de autoridade até transformá-la em uma obra inteira.",
+        "Jeremias 32:14: Tome estas escrituras, tanto a selada como a aberta, e coloque-as num vaso de barro para que se conservem por muito tempo; é a mesma ordem que Moisés dá aqui a Josué a respeito dos livros que deixa para trás.",
+        "2 Macabeus 7:1-42: Sete irmãos e sua mãe são torturados até a morte, um após outro, sob Antíoco, por se recusarem a comer carne de porco; é o paralelo preservado mais próximo do levita Taxo, que leva seus sete filhos a uma caverna para morrerem em vez de transgredir.",
+        "Deuteronômio 32:35-36: \"Minha é a vingança e a retribuição\", pois o SENHOR vindicará seu povo e terá compaixão de seus servos; o hino deste livro transforma essa promessa numa cena em que o Altíssimo se levanta de seu trono.",
+        "Hebreus 8:6: Cristo obteve um ministério tanto mais excelente como mediador de uma aliança superior, estabelecida sobre promessas superiores; este livro atribui esse ofício a Moisés na passagem que um autor do século V citou ao identificar a obra pelo nome."
       ],
       "translationNotes": [
         {
+          "term": "O corpo de Moisés",
+          "original": "",
+          "note": "Judas 1:9 relata que o arcanjo Miguel disputou com o diabo pelo corpo de Moisés e não quis proferir uma acusação injuriosa, dizendo apenas: \"O Senhor te repreenda.\" Orígenes, em Sobre os Princípios 3.2.1, escrito aproximadamente entre 220 e 230 d.C., afirma que Judas extraiu esse relato de um pequeno livro chamado Ascensão de Moisés. Deuteronômio 34:5-6 diz que o SENHOR o sepultou num vale em Moabe e que ninguém conhece sua sepultura. O manuscrito preservado não pode fornecer a disputa: ele se interrompe no meio do capítulo 12, antes mesmo da morte de Moisés."
+        },
+        {
+          "term": "O Senhor te repreenda",
+          "original": "",
+          "note": "Essas palavras não surgiram com Judas. Zacarias 3:1-2 apresenta Satanás à direita do sumo sacerdote Josué para acusá-lo, e a resposta é: \"O SENHOR te repreenda, ó Satanás.\" Judas coloca a mesma frase na boca de Miguel, e os versículos ao redor dela tratam de homens que blasfemam contra tudo o que não entendem."
+        },
+        {
+          "term": "Palimpsesto",
+          "original": "",
+          "note": "Toda a obra é conhecida por uma única cópia incompleta, e essa cópia é um texto inferior apagado. Um palimpsesto é um pergaminho raspado e reutilizado porque o material custava caro demais para ser descartado; muitas vezes ainda é possível ler por baixo a escrita anterior. Este se encontra no códice C 73 inf. da Biblioteca Ambrosiana, em Milão, escrito em latim no século VI. Antonio Maria Ceriani o encontrou e publicou em 1861. Aproximadamente um terço do texto se perdeu, inclusive o final."
+        },
+        {
           "term": "Testamento",
-          "original": "Hebrew: נְבוּאִי סִפְדָּה (nevūʾî sip̄dāh, sense), Greek: διαθήκη (diathḗkē), Latin: testamentum",
-          "note": "Discurso de despedida que emoldura instruções proféticas sobre as gerações futuras, típico da literatura testamentária."
+          "original": "Greek: διαθήκη (diatheke) - Latin: testamentum",
+          "note": "Discurso de despedida pronunciado por um moribundo a seus herdeiros, com uma forma fixa nesta literatura: ele os reúne, recapitula o passado, anuncia o que virá, deixa-lhes uma ordem solene e morre. Gênesis 49 serve de modelo, quando Jacó chama seus filhos para dizer o que lhes acontecerá nos últimos dias. Deuteronômio 33 e Josué 23-24 fazem o mesmo com Moisés e Josué, e Atos 20:17-38 apresenta Paulo fazendo isso em Mileto diante dos presbíteros de Éfeso."
+        },
+        {
+          "term": "Óleo de cedro e vasos de barro",
+          "original": "",
+          "note": "Moisés encarrega Josué de pôr os livros em ordem, ungi-los com óleo de cedro e guardá-los em vasos de barro no lugar que Deus preparou desde o princípio do mundo. O óleo de cedro era aplicado ao papiro e ao pergaminho para afastar insetos e impedir o apodrecimento. Jeremias 32:14 registra a mesma prática como ordem direta: colocar as escrituras num vaso de barro para que se conservem por muito tempo. Foi assim que os Manuscritos do Mar Morto sobreviveram."
+        },
+        {
+          "term": "Taxo",
+          "original": "",
+          "note": "O capítulo 9 desvia o foco para um levita chamado Taxo, que leva seus sete filhos a uma caverna e lhes diz que morram em vez de transgredir os mandamentos. O significado do nome nunca foi estabelecido. 2 Macabeus 7:1-42 contém o paralelo preservado mais próximo: sete irmãos e sua mãe são mortos um de cada vez sob Antíoco por se recusarem a comer carne de porco, e cada um deles fala antes de morrer."
+        },
+        {
+          "term": "Levita",
+          "original": "Hebrew: לֵוִי (Levi)",
+          "note": "Homem da tribo de Levi, a única tribo que não recebeu território próprio. Números 18:20-24 atribui aos levitas o dízimo em lugar da terra, porque o SENHOR é a herança deles, e Números 3:5-10 os designa para servir aos sacerdotes e guardar o tabernáculo. Chamar Taxo de levita o situa na tribo separada para o santuário e sem posse alguma no solo."
+        },
+        {
+          "term": "Zabulus",
+          "original": "Latin: zabulus",
+          "note": "O hino latino do capítulo 10 começa dizendo que então zabulus chegará ao fim. Zabulus é uma forma desgastada de diabolus, derivada do grego diabolos e incorporada ao latim; significa caluniador ou falso acusador. Romanos 16:20 faz a mesma promessa, a de que o Deus da paz logo esmagará Satanás debaixo dos pés de vocês, e Apocalipse 20:10 apresenta o fim do diabo."
+        },
+        {
+          "term": "O rei insolente",
+          "original": "",
+          "note": "O capítulo 6 descreve um rei sem ascendência sacerdotal, insolente e imprudente, que reina por trinta e quatro anos, mata os homens de maior posição e é sucedido por filhos que reinam por períodos mais curtos. Herodes reinou de 37 a 4 a.C., não pertencia à linhagem sacerdotal e deixou um reino que seus filhos dividiram entre si. Sob os asmoneus que o precederam, o sumo sacerdote e o governante eram a mesma pessoa; por isso, o autor faz questão de assinalar que esse rei não tinha ascendência sacerdotal."
+        },
+        {
+          "term": "Idumeu",
+          "original": "",
+          "note": "A família de Herodes era idumeia, o povo de Edom, incorporado ao judaísmo no século anterior a ele. Edom descende de Esaú: Gênesis 36:1 declara que Esaú é Edom, e Gênesis 25:29-34 relata a venda do direito de primogenitura por um prato de ensopado. Números 20:14-21 apresenta Edom recusando passagem a Israel por sua terra, e Obadias 1:10-14 acusa Edom de barrar o caminho enquanto Jerusalém era saqueada."
+        },
+        {
+          "term": "O poderoso rei do ocidente",
+          "original": "",
+          "note": "O capítulo 6 termina com um rei poderoso vindo do ocidente, que leva cativos e queima parte do templo. Públio Quintílio Varo, governador romano da Síria, sufocou o levante que se seguiu à morte de Herodes, em 4 a.C.; a revolta foi esmagada com crucificações em massa. Essa campanha permite situar a forma final do livro no início do século I d.C."
+        },
+        {
+          "term": "Crucificação",
+          "original": "Latin: crux",
+          "note": "Roma a aplicava a escravos, rebeldes e habitantes das províncias, em grande número e à vista das estradas. Cidadãos romanos estavam isentos dela. Deuteronômio 21:22-23 exige que o corpo pendurado numa árvore seja retirado no mesmo dia, pois o enforcado está sob a maldição de Deus e a terra não deve ser contaminada; Gálatas 3:13 cita essa passagem."
+        },
+        {
+          "term": "O dia da visitação",
+          "original": "Hebrew: פְּקֻדָּה (pequddah) - Greek: ἐπισκοπή (episkope)",
+          "note": "O dia em que Deus vem inspecionar e acertar contas, para o bem ou para a ruína. Moisés manda Josué guardar os livros até que esse dia chegue. Isaías 10:3 pergunta o que farão no dia da visitação, Jeremias 6:15 o apresenta como o tempo em que serão derrubados, e Lucas 19:44 mostra Jesus dizendo a Jerusalém que ela não reconheceu o tempo de sua visitação. 1 Pedro 2:12 emprega a mesma palavra para um dia em que Deus será glorificado."
+        },
+        {
+          "term": "Mediador",
+          "original": "Greek: μεσίτης (mesites)",
+          "note": "Aquele que se coloca entre duas partes e garante que o acordo permaneça em vigor. A passagem que permitiu identificar este livro diz que Deus preparou Moisés antes da fundação do mundo para ser o mediador de sua aliança; ela aparece no fim do capítulo 1. Gálatas 3:19 diz que a lei foi promulgada por meio de anjos, pela mão de um mediador; 1 Timóteo 2:5 diz que existe um só mediador entre Deus e os homens; e Hebreus 8:6 chama Cristo de mediador de uma aliança superior."
+        },
+        {
+          "term": "Esticometria",
+          "original": "Greek: στίχος (stichos), a line",
+          "note": "As listas de livros antigas costumavam registrar uma contagem de linhas ao lado de cada título. Um stichos era uma linha padronizada; os escribas recebiam por essa contagem e a usavam para verificar se alguma parte havia desaparecido da cópia. A Esticometria de Nicéforo é uma lista desse tipo e registra um Testamento de Moisés e uma Assunção de Moisés como dois livros distintos; por isso, as edições modernas publicam este texto sob um ou outro título."
+        },
+        {
+          "term": "O hino do capítulo 10",
+          "original": "",
+          "note": "O livro passa da história para um cântico: o reino de Deus se manifesta em toda a sua criação, o adversário chega ao fim e a tristeza desaparece com ele, o Altíssimo se levanta de seu trono, a terra treme, o sol escurece e Israel é elevado às estrelas. Daniel 12:3 diz que os sábios resplandecerão como o fulgor do céu e os que conduzem muitos à justiça, como as estrelas. Apocalipse 21:4 diz que toda lágrima será enxugada e que a morte e o luto deixarão de existir."
         }
       ],
       "keyTakeaway": "Moisés transmite instruções proféticas de despedida a Josué, relatando as provações futuras de Israel, o remanescente fiel e a vindicação final de Deus."
     }
-  ]
+  ],
+  "intro": "A Assunção de Moisés, também publicada como Testamento de Moisés, é um discurso de despedida. No último ano de sua vida, Moisés entrega seu testemunho a Josué, filho de Num, encarrega-o de preservar os livros até o dia da visitação de Deus e então relata de antemão a história de Israel a partir da entrada na terra: a ocupação e o reino, o pecado que leva ao cativeiro, o retorno, a corrupção do sacerdócio, uma perseguição durante a qual homens são forçados a blasfemar e a vindicação que se segue. O capítulo 9 desvia o foco para um levita chamado Taxo, que leva seus sete filhos a uma caverna e lhes diz que morram em vez de transgredir os mandamentos. O capítulo 10 responde com um hino: o reino de Deus se manifesta em toda a sua criação, Satanás deixa de existir, o Altíssimo se levanta de seu trono e Israel é elevado às estrelas. Josué então protesta que não pode sepultar Moisés nem conduzir o povo, e Moisés lhe responde. O texto se interrompe no meio dessa resposta, no capítulo 12.\n\nToda a obra é conhecida por uma única cópia incompleta. Trata-se do texto inferior apagado de folhas de palimpsesto no códice C 73 inf. da Biblioteca Ambrosiana, em Milão, escrito em latim no século VI; Antonio Maria Ceriani o encontrou ali e o publicou em 1861, em sua Monumenta sacra et profana. Aproximadamente um terço do texto se perdeu, inclusive o final. O latim é tradução do grego; R. H. Charles sustentou, em sua edição de 1897, que por trás do grego havia um original hebraico. Nenhuma cópia grega ou semítica foi encontrada. O manuscrito não traz título. Ceriani o identificou como a Assunção de Moisés perdida porque Gelásio de Cízico, escrevendo no século V, cita uma passagem segundo a qual Deus preparou Moisés antes da fundação do mundo para ser o mediador de sua aliança e atribui essa passagem ao livro da Assunção de Moisés. A passagem aparece neste texto em 1:14. Listas canônicas antigas, entre elas a Esticometria de Nicéforo, registram um Testamento de Moisés e uma Assunção de Moisés como duas obras distintas; Charles propôs que o texto preservado seja o Testamento e que a Assunção tenha sido outro livro, posteriormente unido a ele. Por isso, as edições modernas o publicam sob um ou outro título.\n\nJudas 1:9 diz: \"Mas nem mesmo o arcanjo Miguel, quando disputava com o diabo a respeito do corpo de Moisés, ousou proferir contra ele uma acusação injuriosa; ao contrário, disse: 'O Senhor te repreenda!'\" Orígenes, em Sobre os Princípios 3.2.1, escrito aproximadamente entre 220 e 230 d.C., afirma que o relato de Judas sobre a disputa entre Miguel e o diabo pelo corpo de Moisés foi extraído de um pequeno tratado chamado Ascensão de Moisés. Esses são os dois fatos seguros: Judas relata a disputa, e Orígenes identifica pelo título um livro usado por Judas como fonte. O manuscrito não permite demonstrar que este texto latino seja esse livro. Ele se interrompe antes da morte de Moisés, e nenhuma folha preservada contém disputa alguma por seu corpo.\n\nA data vem do capítulo 6, que descreve um rei insolente sem ascendência sacerdotal, que reina por trinta e quatro anos, mata os homens de maior posição e é sucedido por filhos que reinam por períodos mais curtos; então chega um rei poderoso do ocidente, leva cativos e queima parte do templo. Herodes reinou de 37 a 4 a.C., não tinha ascendência sacerdotal e foi sucedido por filhos que dividiram seu reino; Varo, governador romano da Síria, sufocou a revolta que se seguiu à morte de Herodes, em 4 a.C., numa campanha durante a qual o fogo consumiu parte do templo e rebeldes foram crucificados. Portanto, a forma final do livro pertence ao início do século I d.C. Nenhuma comunhão cristã o reconhece como canônico."
 }

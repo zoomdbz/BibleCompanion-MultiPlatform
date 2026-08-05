@@ -205,7 +205,7 @@
     "group": "canon"
   },
   {
-    "canon": "أيوب",
+    "canon": "أيّوب",
     "aliases": [
       "أيوب",
       "سفر أيوب",
@@ -419,7 +419,7 @@
     "group": "canon"
   },
   {
-    "canon": "حجي",
+    "canon": "حجّي",
     "aliases": [
       "حجي",
       "سفر حجي",
@@ -454,7 +454,7 @@
     "group": "canon"
   },
   {
-    "canon": "متى",
+    "canon": "متّى",
     "aliases": [
       "متى",
       "إنجيل متى",
@@ -488,7 +488,7 @@
     "group": "canon"
   },
   {
-    "canon": "يوحنا",
+    "canon": "يوحنّا",
     "aliases": [
       "يوحنا",
       "إنجيل يوحنا",
@@ -521,7 +521,7 @@
     "group": "canon"
   },
   {
-    "canon": "كورنثوس الأولى",
+    "canon": "الأولى إلى كورنثوس",
     "aliases": [
       "كورنثوس الأولى",
       "١ كورنثوس",
@@ -534,7 +534,7 @@
     "group": "canon"
   },
   {
-    "canon": "كورنثوس الثانية",
+    "canon": "الثانية إلى كورنثوس",
     "aliases": [
       "كورنثوس الثانية",
       "٢ كورنثوس",
@@ -569,7 +569,7 @@
     "group": "canon"
   },
   {
-    "canon": "فيلبي",
+    "canon": "فيلبّي",
     "aliases": [
       "فيلبي",
       "سفر فيلبي",
@@ -581,7 +581,7 @@
     "group": "canon"
   },
   {
-    "canon": "كولوسي",
+    "canon": "كولوسّي",
     "aliases": [
       "كولوسي",
       "سفر كولوسي",
@@ -593,7 +593,7 @@
     "group": "canon"
   },
   {
-    "canon": "تسالونيكي الأولى",
+    "canon": "الأولى إلى تسالونيكي",
     "aliases": [
       "تسالونيكي الأولى",
       "١ تسالونيكي",
@@ -607,7 +607,7 @@
     "group": "canon"
   },
   {
-    "canon": "تسالونيكي الثانية",
+    "canon": "الثانية إلى تسالونيكي",
     "aliases": [
       "تسالونيكي الثانية",
       "٢ تسالونيكي",
@@ -620,7 +620,7 @@
     "group": "canon"
   },
   {
-    "canon": "تيموثاوس الأولى",
+    "canon": "الأولى إلى تيموثاوس",
     "aliases": [
       "تيموثاوس الأولى",
       "١ تيموثاوس",
@@ -633,7 +633,7 @@
     "group": "canon"
   },
   {
-    "canon": "تيموثاوس الثانية",
+    "canon": "الثانية إلى تيموثاوس",
     "aliases": [
       "تيموثاوس الثانية",
       "٢ تيموثاوس",
@@ -657,8 +657,9 @@
     "group": "canon"
   },
   {
-    "canon": "فليمون",
+    "canon": "فيلمون",
     "aliases": [
+      "فيلمون",
       "فليمون",
       "سفر فليمون",
       "فل",
@@ -668,7 +669,7 @@
     "group": "canon"
   },
   {
-    "canon": "عبرانيين",
+    "canon": "العبرانيّين",
     "aliases": [
       "عبرانيين",
       "سفر العبرانيين",
@@ -717,7 +718,7 @@
     "group": "canon"
   },
   {
-    "canon": "يوحنا الأولى",
+    "canon": "يوحنّا الأولى",
     "aliases": [
       "يوحنا الأولى",
       "١ يوحنا",
@@ -729,8 +730,9 @@
     "group": "canon"
   },
   {
-    "canon": "يوحنا الثانية",
+    "canon": "يوحنّا الثانية",
     "aliases": [
+      "يوحنّا الثانية",
       "يوحنا الثانية",
       "٢ يوحنا",
       "٢ يو",
@@ -740,7 +742,7 @@
     "group": "canon"
   },
   {
-    "canon": "يوحنا الثالثة",
+    "canon": "يوحنّا الثالثة",
     "aliases": [
       "يوحنا الثالثة",
       "٣ يوحنا",
@@ -762,7 +764,7 @@
     "group": "canon"
   },
   {
-    "canon": "رؤيا يوحنا",
+    "canon": "الرؤيا",
     "aliases": [
       "رؤيا يوحنا",
       "رؤيا",
@@ -786,8 +788,9 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "يهوديت",
+    "canon": "يهوذيت",
     "aliases": [
+      "يهوذيت",
       "يهوديت",
       "سفر يهوديت",
       "يه",
@@ -802,7 +805,8 @@
       "زيادات أستير",
       "أستير اليونانية",
       "إس اليونانية",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
@@ -814,7 +818,8 @@
       "حك",
       "Wis",
       "Wisdom of Solomon",
-      "الحكمة"
+      "الحكمة",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -825,7 +830,8 @@
       "سيراخ",
       "ابن سيراخ",
       "Sir",
-      "Sirach"
+      "Sirach",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -859,7 +865,8 @@
       "تسبحة الثلاثة",
       "عزريا",
       "PrAzar",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -880,6 +887,15 @@
       "بيل",
       "Bel",
       "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "المزمور 151",
+    "aliases": [
+      "المزمور 151",
+      "مز 151",
+      "Psalm 151"
     ],
     "group": "deuterocanon"
   },
@@ -948,13 +964,15 @@
       "٢ عزرا",
       "٤ عزرا",
       "2Esd",
-      "2 Esdras"
+      "2 Esdras",
+      "2 Esdras (4 Ezra)"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "صلاة منسى",
+    "canon": "صلاة منسّى",
     "aliases": [
+      "صلاة منسّى",
       "صلاة منسى",
       "منسى",
       "Pr Man",
@@ -1078,7 +1096,8 @@
     "aliases": [
       "إنجيل يعقوب",
       "إنجيل الطفولة ليعقوب",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -1180,7 +1199,8 @@
       "أخنوخ الأول",
       "١ أخنوخ",
       "Enoch",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1189,7 +1209,8 @@
     "aliases": [
       "أخنوخ الثاني",
       "٢ أخنوخ",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1198,7 +1219,8 @@
     "aliases": [
       "أخنوخ الثالث",
       "٣ أخنوخ",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1215,7 +1237,8 @@
     "canon": "وصايا الآباء الاثني عشر",
     "aliases": [
       "وصايا الآباء الاثني عشر",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1421,6 +1444,32 @@
     "aliases": [
       "رؤيا إيليا",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "إنجيل نيقوديموس (أعمال بيلاطس)",
+    "aliases": [
+      "إنجيل نيقوديموس (أعمال بيلاطس)",
+      "إنجيل نيقوديموس",
+      "Gospel of Nicodemus",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "إنجيل برثولماوس",
+    "aliases": [
+      "إنجيل برثولماوس",
+      "Gospel of Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "صعود موسى",
+    "aliases": [
+      "صعود موسى",
+      "Assumption of Moses"
     ],
     "group": "pseudepigrapha"
   }

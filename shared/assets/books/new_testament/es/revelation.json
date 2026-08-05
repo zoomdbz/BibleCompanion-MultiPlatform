@@ -1,7 +1,7 @@
 {
   "id": "revelation",
   "title": "Apocalipsis",
-  "intro": "Apocalipsis fue escrito por el apóstol Juan, hijo de Zebedeo y Salomé, originalmente un pescador de Betsaida en el mar de Galilea y hermano menor del apóstol Jacobo. La tradición eclesiástica temprana del siglo II d.C. (Justino Mártir, Ireneo, Tertuliano) identifica al autor del Apocalipsis con este Juan. Según Tertuliano, Juan fue desterrado a Patmos por las autoridades romanas tras sobrevivir a un intento de ejecutarlo siendo hervido en aceite en Roma. La composición data de cerca de 95 d.C., los años finales del reinado del emperador Domiciano (81-96 d.C.), y fue compuesta durante el exilio de Juan en Patmos, una pequeña isla en el mar Egeo frente a la costa occidental de Asia Menor. Tras el asesinato de Domiciano en 96 d.C., Juan fue liberado y regresó a Éfeso, donde había ministrado tras la destrucción de Jerusalén en 70 d.C. y donde se dice que vivió hasta una edad avanzada y murió hacia 100 d.C. El marco histórico es el apogeo del Imperio romano bajo la dinastía Flavia; Domiciano había reorganizado el culto imperial, exigía el título de \"Dominus et Deus\" (Señor y Dios), y las autoridades romanas habían comenzado a imponer la adoración al emperador por todo el imperio. Los creyentes que se negaban a reconocer al César como señor enfrentaban el exilio, la confiscación de bienes y la ejecución.\n\nApocalipsis es el vigésimo séptimo y último libro del Nuevo Testamento. El título griego Apokalypsis significa \"desvelamiento\" o \"revelación\", de las palabras iniciales del libro (\"Apokalypsis Iesou Christou\", \"Revelación de Jesucristo\"). El manuscrito más antiguo que sobrevive del Apocalipsis es el Papiro 47 (Chester Beatty III), datado hacia 200-250 d.C. y alojado en la Biblioteca Chester Beatty en Dublín; la copia completa más antigua es el Codex Sinaiticus, datado en el siglo IV d.C.",
+  "intro": "El Apocalipsis fue escrito por el apóstol Juan, hijo de Zebedeo y de Salomé, en su origen pescador de Betsaida, junto al mar de Galilea, y hermano menor del apóstol Santiago. La tradición de la iglesia primitiva del siglo II d.C. (Justino Mártir, Ireneo, Tertuliano) identifica al autor del Apocalipsis con este Juan. Según Tertuliano, las autoridades romanas desterraron a Juan a Patmos después de que sobreviviera a un intento de ejecutarlo hirviéndolo en aceite en Roma. El escrito se fecha hacia el año 95 d.C., en los últimos años del reinado del emperador Domiciano (81-96 d.C.), y se compuso durante el destierro de Juan en Patmos, una isla pequeña del mar Egeo frente a la costa occidental de Asia Menor. Tras el asesinato de Domiciano en el 96 d.C., Juan fue liberado y volvió a Éfeso, donde había ejercido su ministerio después de la destrucción de Jerusalén en el 70 d.C. y donde se dice que vivió hasta una edad avanzada y murió hacia el año 100 d.C. El marco histórico es el apogeo del Imperio romano bajo la dinastía flavia; Domiciano había reorganizado el culto imperial, exigía el título «Dominus et Deus» (Señor y Dios), y las autoridades romanas habían empezado a imponer el culto al emperador por todo el imperio. Los creyentes que se negaban a reconocer al César como señor se enfrentaban al destierro, a la confiscación de sus bienes y a la ejecución.\n\nEl Apocalipsis es el libro vigésimo séptimo y último del Nuevo Testamento. El título griego Apokalypsis significa «desvelamiento» o «descubrimiento», y sale de las palabras iniciales del libro («Apokalypsis Iesou Christou», «Revelación de Jesucristo»). El manuscrito más antiguo que se conserva del Apocalipsis es el papiro 47 (Chester Beatty III), fechado hacia el 200-250 d.C. y custodiado en la Biblioteca Chester Beatty de Dublín; la copia completa más antigua es el Códice Sinaítico, fechado en el siglo IV d.C.",
   "stories": [
     {
       "id": "revelation-1",
@@ -32,28 +32,43 @@
         "[J]Esta es la explicación del misterio de las siete estrellas que viste en mi mano derecha y de los siete candelabros de oro: las siete estrellas son los ángeles de las siete iglesias, y los siete candelabros son las siete iglesias.[/J] (1:20)."
       ],
       "crossRefs": [
-        "Daniel 7:13: Uno semejante al Hijo del Hombre.",
+        "Daniel 7:13: Uno como un hijo de hombre.",
         "Zacarías 4:2: Candelabros y lámparas delante de Dios.",
         "Mateo 24:30: El Hijo del Hombre viniendo sobre las nubes."
       ],
       "translationNotes": [
         {
-          "term": "Alfa y Omega",
-          "original": "Hebrew: אָלֶף וְתוֹ (ʾālef wə-tāw, sense), Greek: τὸ Ἄλφα καὶ τὸ Ὦ (to Álpha kai to Ō, NT), Aramaic: אלפא ותו (ʾalfā w-taw)",
-          "note": "La primera y la última letra del alfabeto; expresión figurada de Dios como el principio y el fin."
+          "term": "Patmos",
+          "original": "Greek: Πάτμος (Patmos)",
+          "note": "Una isla rocosa y pelada del Egeo, de unas trece millas cuadradas, a cosa de treinta y cinco millas de la costa de Asia Menor, al suroeste de Mileto. Roma usaba las islas pequeñas del Egeo como lugares de destierro para los que no ejecutaba; Tácito enumera hombres relegados a Giaros, Amorgos y Donusa (Anales 3.68; 4.30). Juan dice solamente que estaba allí por causa de la palabra de Dios y del testimonio de Jesús (1:9)."
+        },
+        {
+          "term": "Las siete ciudades en orden de camino",
+          "original": "Greek: Ἀσία (Asia, the Roman province)",
+          "note": "Asia no es aquí el continente, sino la provincia romana que cubría el tercio occidental de Asia Menor, en lo que hoy es Turquía. Las siete ciudades de 1:11 se enumeran en el orden en que las recorrería un correo: del puerto de Éfeso unas cuarenta millas al norte hasta Esmirna, otras cuarenta hasta Pérgamo, luego tierra adentro hacia el sureste a Tiatira, Sardes, Filadelfia y Laodicea, y de vuelta valle abajo hacia Éfeso. Es un circuito postal, y un solo mensajero con un solo rollo podía recorrerlo en esa secuencia."
+        },
+        {
+          "term": "El día del Señor",
+          "original": "Greek: ἡ κυριακὴ ἡμέρα (he kyriake hemera)",
+          "note": "El adjetivo kyriakos significa perteneciente al Señor, y aparece solo dos veces en el Nuevo Testamento: aquí, y en 1 Corintios 11:20, de la cena del Señor. El texto no dice qué día de la semana se quiere decir. Eso es todo lo que la expresión misma te dice."
         },
         {
           "term": "Candelabros",
-          "original": "Hebrew: מְנוֹרוֹת (mənōrōṯ), Greek: λυχνίαι (lychníai, NT), Aramaic: מנורתא (menurtā)",
-          "note": "Candelabros de siete brazos que simbolizan el testimonio de las iglesias ante Dios."
+          "original": "Hebrew: מְנוֹרָה (menorah) - Greek: λυχνία (lychnia)",
+          "note": "Un candelabro sostenía lámparas de aceite de barro o de bronce; el tabernáculo y el templo tenían uno de siete brazos que ardía continuamente delante del SEÑOR (Éxodo 25:31-40; Zacarías 4:2). Aquí hay siete pies separados, y 1:20 dice que son las siete iglesias. Una lámpara alumbra solo mientras alguien la mantenga llena."
         },
         {
-          "term": "Siete estrellas",
-          "original": "Greek: ἄστρα ἑπτά",
-          "note": "Jesús explica que son los ángeles de las siete iglesias (1:20)."
+          "term": "Alfa y Omega",
+          "original": "Greek: τὸ Ἄλφα καὶ τὸ Ὦ (to Alpha kai to O)",
+          "note": "La primera y la última letra del alfabeto griego, el modo en que un hispanohablante diría de la a a la zeta. El título se repite en 21:6 y 22:13, y 1:17 lo empareja con 'el primero y el último'. Isaías 44:6 hace decir al SEÑOR lo mismo en términos hebreos: yo soy el primero y yo soy el último."
+        },
+        {
+          "term": "Hades",
+          "original": "Greek: ᾅδης (hades) - Hebrew: שְׁאוֹל (Sheol)",
+          "note": "La palabra griega que la Septuaginta usa para traducir el Seol hebreo, la región de los muertos en general y no un lugar de castigo en concreto. Apocalipsis 1:18 pone a Cristo teniendo las llaves de la Muerte y del Hades. Es una palabra distinta de Gehena, que viene del valle de Hinom, a las afueras de Jerusalén."
         }
       ],
-      "keyTakeaway": "Juan recibe una visión de Cristo glorificado entre siete candelabros, quien le encarga escribir a las iglesias.",
+      "keyTakeaway": "Juan recibe una visión del Cristo glorificado entre siete candelabros, que lo comisiona a escribir a las iglesias.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -107,33 +122,60 @@
         "[J]El que tenga oídos, que oiga lo que el Espíritu dice a las iglesias.[/J] (2:29)."
       ],
       "crossRefs": [
-        "Isaías 22:22: Llave de David.",
-        "Proverbios 3:12: El Señor disciplina a los que ama.",
-        "Apocalipsis 22:2: Árbol de la vida."
+        "Hechos 19:23-41: Los plateros de Éfeso alborotan durante dos horas por el negocio de los santuarios de plata de Artemisa.",
+        "Génesis 2:8-9: El árbol de la vida está en medio del jardín que Dios plantó en Edén.",
+        "Números 25:1-3: Israel come los sacrificios de los dioses moabitas en Peor y se une a Baal-peor.",
+        "1 Reyes 16:29-33: Acab se casa con Jezabel de Sidón, sirve a Baal, y levanta un altar y un poste de Asera en Samaria.",
+        "Isaías 62:2: Serás llamada por un nombre nuevo que la boca del SEÑOR te dará."
       ],
       "translationNotes": [
         {
+          "term": "Éfeso",
+          "original": "Greek: Ἔφεσος (Ephesos)",
+          "note": "El puerto principal y la ciudad más grande de la provincia, y sede del templo de Artemisa, una de las siete maravillas del mundo antiguo. Plinio el Viejo lo da como de 425 pies de largo por 225 de ancho, con 127 columnas de sesenta pies de alto (Historia natural 36). La ciudad vivía de aquel templo: peregrinos, banca, derechos de asilo y el comercio de los plateros con los santuarios en miniatura que provocó el motín de Hechos 19."
+        },
+        {
+          "term": "Esmirna",
+          "original": "Greek: Σμύρνα (Smyrna)",
+          "note": "Una ciudad portuaria a unas cuarenta millas al norte de Éfeso, hoy Izmir. La ciudad antigua fue destruida y quedó en ruinas durante siglos antes de volver a fundarse, cosa que conviene saber cuando 2:8 se dirige a ella con las palabras del que murió y volvió a vivir. Los escritores griegos alababan el anillo de edificios públicos que coronaba la colina sobre ella como la corona de la ciudad; 2:10 promete la corona de la vida a la iglesia que está a punto de ser encarcelada."
+        },
+        {
+          "term": "Pérgamo",
+          "original": "Greek: Πέργαμος (Pergamos)",
+          "note": "La antigua capital real, construida sobre una acrópolis escarpada. Sobre ella se alzaba el gran altar de Zeus, una plataforma con columnas de más de cien pies de anchura con un friso de dioses peleando con gigantes, excavado por Carl Humann desde 1878 y hoy reconstruido en Berlín. La ciudad tenía además el santuario curativo de Asclepio, cuyo emblema era una serpiente, y construyó en el 29 a.C. el primer templo de Asia dedicado a Roma y a Augusto. El versículo 13 dice que allí está el trono de Satanás y nombra a Antipas, muerto en la ciudad."
+        },
+        {
+          "term": "Tiatira",
+          "original": "Greek: Θυάτειρα (Thyateira)",
+          "note": "Una ciudad industrial del interior, en el camino que va al sureste desde Pérgamo. En Tiatira hay más gremios atestiguados por inscripciones que en ninguna otra ciudad de la provincia: laneros, lineros, tintoreros, curtidores, alfareros, panaderos, broncistas. Lidia, la vendedora de púrpura que Pablo encuentra en Filipos, venía de aquí (Hechos 16:14). En una ciudad de gremios, comer y comerciar eran obligaciones sociales, que es el marco de la acusación de 2:20."
+        },
+        {
+          "term": "La piedrecita blanca",
+          "original": "Greek: ψῆφος λευκή (psephos leuke)",
+          "note": "Un psephos es un guijarro pequeño, y tenía dos usos cotidianos: los jurados echaban uno en una urna para votar, blanco para absolver y negro para condenar, y Pablo usa la palabra así en Hechos 26:10. Los guijarros o fichas se repartían además como entradas a un banquete o a los juegos. La promesa de 2:17 da la piedrecita con un nombre nuevo escrito que solo conoce el que la recibe."
+        },
+        {
+          "term": "El maná escondido",
+          "original": "Greek: τὸ μάννα τὸ κεκρυμμένον (to manna to kekrymmenon)",
+          "note": "Delante del arca del testimonio se guardaba una vasija de maná como memorial permanente de la alimentación en el desierto (Éxodo 16:32-34; Hebreos 9:4). El maná es la comida que venía sin trabajo, sin mercado y sin proveedor. El versículo 17 se lo promete al que venza en una ciudad donde la cuestión práctica era si todavía podrías comer si rechazabas la mesa del gremio."
+        },
+        {
+          "term": "Balaam y Jezabel",
+          "original": "Greek: Βαλαάμ (Balaam) - Ἰεζάβελ (Iezabel)",
+          "note": "Dos nombres usados como precedentes, y los dos se explican en el Antiguo Testamento. Balaam no pudo maldecir a Israel, de modo que aconsejó a Moab cómo hacerlo caer en cambio, con comidas sacrificiales e inmoralidad sexual en Peor (Números 25:1-3; 31:16). Jezabel fue la reina sidonia que importó el culto a Baal a Israel y mató a los profetas del SEÑOR (1 Reyes 16:31-33; 18:4). Las cartas usan los nombres por lo que esos dos hicieron, no como identificación de quiénes eran estas personas."
+        },
+        {
           "term": "Sinagoga de Satanás",
-          "original": "Greek: συναγωγὴ τοῦ Σατανᾶ (synagōgē tou Satana)",
-          "note": "Frase usada en 2:9 y 3:9 para grupos que se oponen a los creyentes y los calumnian."
+          "original": "Greek: συναγωγὴ τοῦ Σατανᾶ (synagoge tou Satana)",
+          "note": "Expresión usada en 2:9 y 3:9 para grupos que se oponen a los creyentes y los calumnian. Synagoge es la palabra griega corriente para una asamblea o una reunión, y Satanas es un préstamo hebreo que significa el acusador. Las dos cartas que usan la expresión van dirigidas a iglesias bajo presión legal a raíz de una acusación."
         },
         {
-          "term": "Vestiduras blancas",
-          "original": "Greek: ἱμάτια λευκά (himatia leuka)",
-          "note": "Símbolo de pureza y victoria, prometido a los que venzan (3:5)."
-        },
-        {
-          "term": "Piedrecita blanca con nombre nuevo",
-          "original": "Hebrew: אֶבֶן לְבָנָה (ʾeḇen ləḇānāh, sense), Greek: ψῆφον λευκήν (psēphon leukḗn, NT), Aramaic: אבנא חוורתא (ʾaḇnā ḥawwartā)",
-          "note": "Probablemente se refiere a una señal de aceptación o absolución; el nombre nuevo inscrito indica identidad personal y pertenencia."
-        },
-        {
-          "term": "Estrella de la mañana",
-          "original": "Hebrew: כּוֹכַב בֹּקֶר (kôḵaḇ bōqer), Greek: ὁ ἀστὴρ ὁ πρωϊνός (ho astḗr ho prōinós, NT), Aramaic: כוכבא דצפרא (kôḵbā d-ṣaprā)",
-          "note": "Símbolo del mismo Cristo, dador de luz y soberano sobre las naciones; más adelante identificado como Jesús (Apocalipsis 22:16)."
+          "term": "Paraíso",
+          "original": "Greek: παράδεισος (paradeisos), from Persian for a walled garden",
+          "note": "Un préstamo del persa, en su origen un parque real amurallado, la misma palabra que está detrás del bosque del rey en Nehemías 2:8. La Septuaginta la usa para el jardín del Edén. Jesús dice al ladrón en la cruz 'hoy estarás conmigo en el Paraíso' (Lucas 23:43), y 2:7 promete el árbol de la vida en el paraíso de Dios."
         }
       ],
-      "keyTakeaway": "Cristo se dirige a cuatro iglesias con elogios y advertencias: Éfeso ha abandonado su primer amor a pesar de rechazar a los falsos apóstoles; Esmirna enfrenta persecución pero es espiritualmente rica; Pérgamo permanece fiel a pesar de estar donde está el trono de Satanás, pero tolera falsas enseñanzas; Tiatira practica el amor y el servicio pero permite que la profetisa Jezabel lleve a los creyentes a la inmoralidad sexual y a la idolatría. A cada iglesia se le prometen recompensas por vencer si se arrepienten y perseveran.",
+      "keyTakeaway": "Cristo se dirige a cuatro iglesias con elogios y con advertencias: Éfeso ha abandonado su primer amor a pesar de haber rechazado a falsos apóstoles; Esmirna sufre persecución pero es rica en lo espiritual; Pérgamo sigue fiel a pesar del trono de Satanás que hay allí, pero tolera enseñanzas falsas; Tiatira practica el amor y el servicio pero permite que la profetisa Jezabel lleve a los creyentes a la inmoralidad sexual y a la idolatría. A cada iglesia se le promete recompensa al que venza, si se arrepiente y persevera.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -184,33 +226,50 @@
         "[J]El que tenga oídos, que oiga lo que el Espíritu dice a las iglesias».[/J] (3:22)."
       ],
       "crossRefs": [
-        "Isaías 22:22: Llave de David.",
-        "Proverbios 3:12: El Señor disciplina a los que ama.",
-        "Apocalipsis 22:2: Árbol de la vida."
+        "Isaías 22:20-23: A Eliaquim se le da la llave de la casa de David sobre su hombro; él abre y nadie cierra.",
+        "Éxodo 32:32-33: Bórrame del libro que has escrito, y el SEÑOR responde que borra al que ha pecado contra él.",
+        "Mateo 24:42-44: Vigilen, porque el ladrón viene a una hora que no esperan.",
+        "1 Reyes 7:15-22: Las dos columnas de bronce del pórtico del templo, cada una con su nombre, de dieciocho codos de alto.",
+        "Proverbios 3:11-12: No desprecies la disciplina del SEÑOR, porque el SEÑOR corrige al que ama."
       ],
       "translationNotes": [
         {
-          "term": "Sinagoga de Satanás",
-          "original": "Greek: συναγωγὴ τοῦ Σατανᾶ (synagōgē tou Satana)",
-          "note": "Frase usada en 2:9 y 3:9 para grupos que se oponen a los creyentes y los calumnian."
+          "term": "Sardes",
+          "original": "Greek: Σάρδεις (Sardeis)",
+          "note": "La antigua capital de Lidia y de Creso, situada en un espolón del monte Tmolo tan escarpado que la guarnición creía que ese lado no necesitaba vigilancia. Fue tomada así dos veces. Ciro la capturó hacia el 546 a.C. después de que un soldado viera a un lidio bajar por el acantilado a recoger un casco caído y guiara por esa misma ruta a una partida (Heródoto 1.84), y Antíoco III la tomó del mismo modo en el 214 a.C. El versículo 3 dice a la iglesia que si no despierta, él vendrá como ladrón y ella no sabrá a qué hora."
         },
         {
-          "term": "Vestiduras blancas",
-          "original": "Greek: ἱμάτια λευκά (himatia leuka)",
-          "note": "Símbolo de pureza y victoria, prometido a los que venzan (3:5)."
+          "term": "Filadelfia",
+          "original": "Greek: Φιλαδέλφεια (Philadelpheia, brotherly love)",
+          "note": "Fundada por Átalo II Filadelfo y llamada así por su lealtad a su hermano. Estaba sobre una falla: el terremoto del año 17 d.C. arrasó doce ciudades de la provincia en una sola noche (Tácito, Anales 2.47), y Estrabón escribe que sus murallas se agrietaban constantemente y que buena parte de la población vivía fuera, en el campo. El versículo 12 promete al que venza que será hecho columna en el templo de Dios y que nunca más saldrá fuera."
         },
         {
-          "term": "Piedrecita blanca con nombre nuevo",
-          "original": "Hebrew: אֶבֶן לְבָנָה (ʾeḇen ləḇānāh, sense), Greek: ψῆφον λευκήν (psēphon leukḗn, NT), Aramaic: אבנא חוורתא (ʾaḇnā ḥawwartā)",
-          "note": "Probablemente se refiere a una señal de aceptación o absolución; el nombre nuevo inscrito indica identidad personal y pertenencia."
+          "term": "El agua de Laodicea",
+          "original": "Greek: χλιαρός (chliaros, lukewarm)",
+          "note": "Laodicea no tenía manantial propio. El agua llegaba por acueducto desde unas fuentes a cosa de cinco millas, y los bloques de tubería de piedra recuperados en el sitio están cargados de incrustación mineral. Hierápolis, cuyos manantiales calientes minerales se ven al otro lado del valle, a unas seis millas al norte, y Colosas, con su agua fría a diez millas al este, tenían las dos lo que Laodicea no tenía. La palabra de 3:16 para lo que se hará con el bocado tibio es emeo, vomitar."
         },
         {
-          "term": "Estrella de la mañana",
-          "original": "Hebrew: כּוֹכַב בֹּקֶר (kôḵaḇ bōqer), Greek: ὁ ἀστὴρ ὁ πρωϊνός (ho astḗr ho prōinós, NT), Aramaic: כוכבא דצפרא (kôḵbā d-ṣaprā)",
-          "note": "Símbolo del mismo Cristo, dador de luz y soberano sobre las naciones; más adelante identificado como Jesús (Apocalipsis 22:16)."
+          "term": "Oro, vestiduras blancas y colirio",
+          "original": "Greek: κολλούριον (kollourion, eye salve)",
+          "note": "La carta ofrece a la ciudad tres cosas que ella era famosa por producir. Laodicea era un centro bancario tan rico que después del terremoto de hacia el 60 d.C. se reconstruyó sola y rechazó la ayuda imperial (Tácito, Anales 14.27). Su comarca era conocida por su lana negra lustrosa. Estaba en Frigia, la fuente del polvo que se usaba en los ungüentos oculares antiguos, y tenía una escuela de medicina. El versículo 18 le dice que compre a Cristo oro, ropa blanca y colirio."
+        },
+        {
+          "term": "La llave de David",
+          "original": "Greek: ἡ κλεὶς Δαυίδ (he kleis Dauid)",
+          "note": "El versículo 7 toma la formulación de Isaías 22:22, donde el SEÑOR despoja de su cargo al mayordomo de palacio Sebna y da la llave de la casa de David a Eliaquim, que abre y nadie cierra. La llave de un mayordomo real era una insignia física del cargo, llevada al hombro, que controlaba el acceso al rey. La imagen es la autoridad sobre quién entra."
+        },
+        {
+          "term": "Una columna en el templo",
+          "original": "Greek: στῦλος (stylos, pillar)",
+          "note": "El templo de Salomón tenía dos columnas de bronce exentas en su pórtico, cada una con su propio nombre, Jaquín y Boaz (1 Reyes 7:15-22). Los templos griegos llevaban grabados en sus columnas los nombres de los benefactores y de los sacerdotes. En una ciudad de terremotos, una columna que nunca sale fuera es una promesa con peso."
+        },
+        {
+          "term": "El libro de la vida",
+          "original": "Greek: ἡ βίβλος τῆς ζωῆς (he biblos tes zoes)",
+          "note": "Las ciudades llevaban un registro de ciudadanos, y tachar un nombre de él acababa con la condición legal de un hombre. La imagen es más antigua que eso: Moisés pide ser borrado del libro que Dios ha escrito (Éxodo 32:32-33), y el salmista habla del libro de los vivientes (Salmo 69:28). El versículo 5 promete lo contrario, que el nombre no será borrado y será reconocido delante del Padre."
         }
       ],
-      "keyTakeaway": "Cristo se dirige a tres iglesias: Sardis está espiritualmente muerta a pesar de su reputación y debe arrepentirse o enfrentará un juicio repentino, aunque unos pocos permanecen fieles; Filadelfia es débil pero obediente y será protegida de las pruebas venideras; Laodicea es tibia y se engaña sobre su propia pobreza, y Cristo la llama a obtener refinamiento espiritual y arrepentirse.",
+      "keyTakeaway": "Cristo se dirige a tres iglesias: Sardes está espiritualmente muerta a pesar de su fama y debe arrepentirse o afrontar un juicio repentino, aunque unos pocos siguen fieles; Filadelfia es débil pero obediente y será protegida de las pruebas que vienen; Laodicea es tibia y se engaña sobre su pobreza, y Cristo la llama a comprar refinamiento espiritual y a arrepentirse.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -246,25 +305,25 @@
         "«Digno eres, Señor y Dios nuestro, de recibir la gloria, la honra y el poder, porque tú creaste todas las cosas; por tu voluntad existen y fueron creadas». (4:11)."
       ],
       "crossRefs": [
-        "Isaías 6:2–3: Visión de serafines que claman 'Santo, santo, santo.'",
-        "Ezequiel 1:5–10: Visión de cuatro seres vivientes.",
-        "Colosenses 1:16: Todas las cosas fueron creadas por medio de él."
+        "Isaías 6:2-3: Visión de serafines que claman: Santo, santo, santo.",
+        "Ezequiel 1:5-10: Visión de cuatro seres vivientes.",
+        "Colosenses 1:16: Todas las cosas creadas por medio de él."
       ],
       "translationNotes": [
         {
           "term": "Siete espíritus de Dios",
           "original": "Greek: τὰ ἑπτὰ πνεύματα τοῦ θεοῦ (ta hepta pneumata tou theou)",
-          "note": "Expresión simbólica de la plenitud del Espíritu Santo."
+          "note": "Símbolo de la plenitud del Espíritu Santo."
         },
         {
           "term": "Mar de vidrio",
           "original": "Greek: θάλασσα ὑαλίνη (thalassa hualinē)",
-          "note": "Imagen vívida de una vasta extensión delante del trono, semejante al cristal."
+          "note": "Imagen viva de una vasta extensión delante del trono, como de cristal."
         },
         {
           "term": "Seres vivientes",
           "original": "Greek: ζῷα (zōa)",
-          "note": "Seres celestiales con atributos de león, buey, hombre y águila; recuerdan la visión de Ezequiel."
+          "note": "Seres celestiales con rasgos de león, de buey, de hombre y de águila; recuerdan la visión de Ezequiel."
         },
         {
           "term": "Santo, santo, santo",
@@ -272,12 +331,12 @@
           "note": "La triple repetición es una expresión superlativa de la santidad absoluta de Dios."
         },
         {
-          "term": "Adoración",
+          "term": "Adorar",
           "original": "Greek: προσκυνέω (proskyneo)",
-          "note": "Postrarse en homenaje, 'besar hacia.' Usado cuando los magos adoraron a Jesús (Mateo 2:11), cuando Jesús enseñó sobre la adoración en espíritu y en verdad (Juan 4:23–24), cuando el ciego sanado se postró ante él (Juan 9:38), y en Apocalipsis donde los seres celestiales se postran en adoración (Apocalipsis 4:10; 19:10)."
+          "note": "Postrarse en homenaje, 'besar hacia'. Se usa cuando los magos adoraron a Jesús (Mateo 2:11), cuando Jesús enseñó sobre adorar en espíritu y en verdad (Juan 4:23-24), cuando el ciego sanado se inclinó ante él (Juan 9:38), y en el Apocalipsis, donde los seres celestiales caen en adoración (Apocalipsis 4:10; 19:10)."
         }
       ],
-      "keyTakeaway": "Juan es llevado al salón del trono celestial, donde contempla la gloria de Dios, los ancianos, los seres vivientes y su adoración incesante.",
+      "keyTakeaway": "Juan es llevado a la sala del trono del cielo, donde ve la gloria de Dios, a los ancianos, a los seres vivientes y su adoración incesante.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -308,33 +367,43 @@
         "Los cuatro seres vivientes exclamaron: «¡Amén!», mientras los ancianos se postraron y adoraron. (5:14)."
       ],
       "crossRefs": [
-        "Génesis 49:9–10: León de Judá.",
+        "Génesis 49:9-10: León de Judá.",
         "Isaías 53:7: Cordero llevado al matadero.",
         "Juan 1:29: He aquí el Cordero de Dios."
       ],
       "translationNotes": [
         {
-          "term": "Rollo",
-          "original": "Greek: βιβλίον (biblion)",
-          "note": "Escrito por ambos lados y sellado con siete sellos, indicando totalidad y secreto."
+          "term": "Un rollo sellado con siete sellos",
+          "original": "Greek: βιβλίον κατεσφραγισμένον σφραγῖσιν ἑπτά (biblion katesphragismenon sphragisin hepta)",
+          "note": "Esto es un instrumento legal, no un libro. La ley romana exigía que un testamento sellado llevara los sellos de siete testigos, y las escrituras importantes se escribían dos veces: el texto completo dentro, enrollado y sellado, y un resumen por fuera que cualquiera podía leer. Jeremías 32:10-14 muestra esa misma práctica, una escritura de compra sellada con una copia abierta guardada al lado. El versículo 1 describe exactamente ese documento, escrito por dentro y por fuera, y la pregunta de 5:2 no es quién puede leerlo, sino quién tiene la capacidad legal de romper los sellos."
         },
         {
-          "term": "León de la tribu de Judá",
-          "original": "Greek: λέων ὁ ἐκ τῆς φυλῆς Ἰούδα",
-          "note": "Título mesiánico vinculado a Génesis 49:9–10."
+          "term": "León de Judá, Raíz de David",
+          "original": "Greek: ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα (ho leon ho ek tes phyles Iouda)",
+          "note": "Los dos títulos son citas. Jacob llama a Judá cachorro de león y dice que el cetro no se apartará de él (Génesis 49:9-10), e Isaías habla de un retoño del tronco de Isaí y de una raíz que se alzará como señal para los pueblos (Isaías 11:1, 10). El anciano anuncia un león; lo que Juan se vuelve y ve es un cordero."
+        },
+        {
+          "term": "Cordero",
+          "original": "Greek: ἀρνίον (arnion, little lamb)",
+          "note": "La palabra es un diminutivo, un cordero antes que un carnero, y el Apocalipsis la usa del Cordero unas veintiocho veces. El versículo 6 dice que está de pie como inmolado, es decir, con la herida a la vista. Detrás están el cordero de la Pascua de Éxodo 12, el cordero llevado al matadero de Isaías 53:7, y las palabras de Juan el Bautista en Juan 1:29."
         },
         {
           "term": "Siete cuernos y siete ojos",
-          "original": "Greek: κέρατα ἑπτὰ καὶ ὀφθαλμοὶ ἑπτά",
-          "note": "Los cuernos representan poder completo; los ojos representan conocimiento completo a través del Espíritu."
+          "original": "Greek: κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά (kerata hepta kai ophthalmous hepta)",
+          "note": "El cuerno es la imagen habitual de la fuerza en la Escritura, tomada de lo que hace con ellos un buey o un carnero (Deuteronomio 33:17; 1 Samuel 2:10; Salmo 75:10). Los siete ojos los explica el propio versículo como los siete espíritus de Dios enviados por toda la tierra, formulación tomada de Zacarías 4:10, donde los siete ojos del SEÑOR recorren toda la tierra."
         },
         {
-          "term": "Siete sellos",
-          "original": "Hebrew: חֲתוֹמוֹת שֶׁבַע (ḥătōmōṯ šeḇaʿ), Greek: σφραγῖδας ἑπτά (sphragídas heptá, NT), Aramaic: חותמיא שבע (ḥōṯmayyā šeḇaʿ)",
-          "note": "Siete sellos de cera o arcilla que significan total seguridad y ocultamiento del decreto divino."
+          "term": "Copas de oro con incienso",
+          "original": "Greek: φιάλας χρυσᾶς γεμούσας θυμιαμάτων (phialas chrysas gemousas thymiamaton)",
+          "note": "El texto dice sin rodeos qué son: las oraciones de los santos (5:8). El incienso se quemaba en el altar de oro mañana y tarde mientras el pueblo oraba fuera (Éxodo 30:1-8; Lucas 1:8-10), y Salmo 141:2 pide que la oración se cuente como incienso. Esas mismas copas bajas de oro reaparecen en el capítulo 16 con algo muy distinto dentro."
+        },
+        {
+          "term": "Un reino y sacerdotes",
+          "original": "Greek: βασιλείαν καὶ ἱερεῖς (basileian kai hiereis)",
+          "note": "El canto de 5:9-10 cita Éxodo 19:6, donde Dios dice a Israel en el Sinaí que será para él un reino de sacerdotes y una nación santa. La línea 'de toda tribu, lengua, pueblo y nación' es lo añadido. 1 Pedro 2:9 aplica esa misma formulación del Sinaí."
         }
       ],
-      "keyTakeaway": "Solo el Cordero inmolado pero resucitado es digno de abrir el rollo, y toda la creación lo adora junto con Dios.",
+      "keyTakeaway": "Solo el Cordero degollado y vivo es digno de abrir el rollo, y toda la creación lo adora junto con Dios.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -368,33 +437,53 @@
         "¡Porque ha llegado el gran día de la ira! ¿Quién podrá mantenerse en pie?». (6:17)."
       ],
       "crossRefs": [
-        "Zacarías 6:1–8: Visión de cuatro jinetes.",
+        "Zacarías 6:1-8: Visión de cuatro jinetes.",
         "Mateo 24:7: Guerras, hambres, terremotos.",
-        "Joel 2:31: El sol oscurecido, la luna como sangre."
+        "Joel 2:31: El sol oscurecido, la luna vuelta sangre."
       ],
       "translationNotes": [
         {
-          "term": "Cuatro jinetes",
-          "original": "Hebrew: אַרְבַּעָה סוּסִים (ʾarbaʿāh sûsîm), Greek: τέσσαρα ἵπποι (téssara híppoi, NT), Aramaic: סוסיא ארבעה (sūsayyā ʾarbaʿā)",
-          "note": "Jinetes simbólicos que representan conquista, guerra, hambre y muerte, liberados con la apertura de los primeros cuatro sellos."
+          "term": "Un cuarto de trigo por un denario",
+          "original": "Greek: χοῖνιξ σίτου δηναρίου (choinix sitou denariou)",
+          "note": "Un choinix es cosa de un cuarto de galón, y se contaba como la ración diaria de grano de un hombre; Heródoto (7.187) usa exactamente esa cifra para calcular el abastecimiento del ejército de Jerjes. De modo que el grito de 6:6 pone el pan de un solo día de un solo hombre a un jornal completo, sin que quede nada para una familia ni para nada más. En tiempos corrientes un denario compraba entre ocho y dieciséis cuartos de trigo. Esto es precio de hambre, unas diez veces lo normal, anunciado como cotización de mercado."
         },
         {
           "term": "Denario",
-          "original": "Greek: δηνάριον (dēnarion)",
-          "note": "Salario común de un día de trabajo; muestra la gravedad de los precios durante la hambruna."
+          "original": "Latin: denarius - Greek: δηνάριον (denarion)",
+          "note": "Una moneda romana de plata, el jornal habitual de un obrero, que es la tarifa corriente que Jesús nombra en la parábola de la viña (Mateo 20:2). Llevaba la efigie del emperador, y por eso fue la moneda que se sacó en la pregunta del tributo (Marcos 12:16). Dos denarios cubrieron el cuidado del hombre herido en la posada (Lucas 10:35)."
         },
         {
-          "term": "Caballo pálido",
-          "original": "Greek: χλωρός (chlōros)",
-          "note": "Literalmente pálido, verdoso; color de enfermedad o muerte."
+          "term": "Una balanza",
+          "original": "Greek: ζυγός (zygos, balance or yoke)",
+          "note": "El grano se vendía normalmente por sacos y se comía sin contarlo. Pesarlo en una balanza es ya de por sí señal de escasez, y la Ley usa esa imagen para el juicio: les devolverán el pan por peso, y comerán y no se saciarán (Levítico 26:26; Ezequiel 4:16). El jinete sostiene la balanza, y el precio se pregona desde en medio de los seres vivientes."
         },
         {
-          "term": "Ira del Cordero",
-          "original": "Greek: ὀργή τοῦ ἀρνίου (orgē tou arniou)",
-          "note": "Imagen paradójica del juicio proveniente del Cordero que fue inmolado."
+          "term": "No dañes el aceite ni el vino",
+          "original": "Greek: τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς (to elaion kai ton oinon me adikeses)",
+          "note": "Los olivos y las vides son perennes de raíz profunda que sobreviven a un año seco que arruina una cosecha de grano, y los dos eran las exportaciones de renta de la región y no su comida diaria. El límite que se fija en 6:6 respeta las dos cosas que un pobre no puede comer y deja el grano arruinado. Grano, aceite y vino son la tríada habitual para los frutos de una tierra (Deuteronomio 7:13; Joel 2:19)."
+        },
+        {
+          "term": "El caballo bayo",
+          "original": "Greek: χλωρός (chloros)",
+          "note": "Chloros es la palabra corriente para el verde de lo que crece; Marcos 6:39 la usa de la hierba verde, y es la raíz de la palabra clorofila. Aplicada a un rostro o a un cuerpo significa el gris verdoso de la enfermedad y de la muerte. El color es el sentido del nombre del jinete."
+        },
+        {
+          "term": "Espada, hambre, peste y fieras",
+          "original": "Greek: ῥομφαίᾳ καὶ ἐν λιμῷ καὶ ἐν θανάτῳ καὶ ὑπὸ τῶν θηρίων (rhomphaia, limos, thanatos, theria)",
+          "note": "Los cuatro instrumentos que se enumeran en 6:8 son los mismos cuatro que el SEÑOR nombra en Ezequiel 14:21 como sus cuatro actos desastrosos de juicio contra Jerusalén: espada, hambre, fieras y peste. La palabra vertida aquí peste es thanatos, muerte, que es como la Septuaginta traduce muchas veces el hebreo para plaga. La lista es una cita, no un inventario nuevo."
+        },
+        {
+          "term": "Negro como tela de cilicio",
+          "original": "Greek: σάκκος τρίχινος (sakkos trichinos, sackcloth of hair)",
+          "note": "El cilicio se tejía de pelo negro de cabra, áspero y oscuro, y se llevaba sobre la piel como señal de duelo. El versículo 12 no dice solo que el sol se oscureció; dice que tomó el color de la tela del duelo, y la luna el color de la sangre. Joel 2:31 y Hechos 2:20 usan ese mismo par de imágenes."
+        },
+        {
+          "term": "Hades",
+          "original": "Greek: ᾅδης (hades) - Hebrew: שְׁאוֹל (Sheol)",
+          "note": "El Hades no es el infierno. Es el término que la Septuaginta usa para verter el Seol hebreo, la región común de los muertos. En 6:8 el Hades sigue al cuarto jinete como una figura con nombre, del modo en que una cuadrilla de enterradores sigue a un ejército. Es distinto de la Gehena y del lago de fuego, al que 20:14 dice que la Muerte y el Hades son ellos mismos arrojados."
         }
       ],
-      "keyTakeaway": "La apertura de seis sellos revela jinetes que traen conquista, guerra, hambre, muerte, mártires que claman justicia y una conmoción cósmica antes del juicio.",
+      "keyTakeaway": "La apertura de seis sellos revela jinetes que traen conquista, guerra, hambre y muerte, mártires que piden justicia, y un trastorno cósmico antes del juicio.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -428,28 +517,43 @@
         "Porque el Cordero que está en el trono los gobernará y los guiará a fuentes de agua viva, y Dios les enjugará toda lágrima de sus ojos. (7:17)."
       ],
       "crossRefs": [
-        "Ezequiel 9:4: Marca sobre los siervos de Dios.",
+        "Ezequiel 9:4: Marcar a los siervos de Dios.",
         "Juan 10:11: El buen pastor.",
         "Isaías 25:8: Dios enjuga las lágrimas."
       ],
       "translationNotes": [
         {
-          "term": "Sello",
-          "original": "Greek: σφραγίς (sphragis)",
-          "note": "Marca de propiedad y protección puesta sobre los siervos de Dios."
+          "term": "El sello en la frente",
+          "original": "Greek: σφραγίς (sphragis, seal)",
+          "note": "Un sello marcaba propiedad. Los documentos se sellaban con un anillo, el ganado se marcaba a fuego, los esclavos y los soldados llevaban marcas, y una tinaja o una puerta selladas eran las que nadie había abierto. Ezequiel 9:4 es el pasaje que está detrás de esta escena: un hombre con un tintero recorre Jerusalén poniendo una marca en la frente de los que gimen por lo que se hace en la ciudad, y la matanza pasa de largo por ellos. Su falsificación aparece en 13:16."
+        },
+        {
+          "term": "Cuatro vientos, cuatro ángulos",
+          "original": "Greek: τέσσαρες γωνίαι τῆς γῆς (tessares goniai tes ges)",
+          "note": "Nombrar los cuatro ángulos y los cuatro vientos es la manera antigua corriente de decir todas las direcciones de la rosa, exactamente como se dice los cuatro puntos cardinales. La Escritura lo usa para la dispersión y para la reunión de los pueblos (Jeremías 49:36; Ezequiel 37:9; Daniel 7:2; Mateo 24:31). Es una orientación, no una forma."
         },
         {
           "term": "144.000",
-          "original": "Hebrew: מֵאָה וְאַרְבָּעִים וְאַרְבָּעָה אֶלֶף (mēʾāh wə-ʾarbaʿîm wə-ʾarbaʿāh ʾelef), Greek: ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες (hekaton tessarákonta téssares chilíades, NT), Aramaic: מאה וארבין וארבעה אלפין (māʾā w-ʾarbaʿīn w-ʾarbaʿāh ʾalpīn)",
-          "note": "Número simbólico o literal de los siervos sellados de Dios, que representa la totalidad de su pueblo del pacto."
+          "original": "Greek: ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες (hekaton tesserakonta tessares chiliades)",
+          "note": "Doce mil de cada una de las doce tribus, enumeradas tribu por tribu en 7:5-8. Inmediatamente después Juan dice que miró y vio una gran multitud que nadie podía contar, de toda nación, tribu, pueblo y lengua (7:9). El capítulo da un grupo contado y otro incontable, en ese orden."
         },
         {
-          "term": "Gran tribulación",
-          "original": "Greek: θλῖψις μεγάλη (thlipsis megalē)",
-          "note": "Período de sufrimiento intenso a través del cual los fieles perseveran."
+          "term": "Ramas de palmera",
+          "original": "Greek: φοίνικες (phoinikes, palm branches)",
+          "note": "Las ramas de palmera se llevaban en la fiesta de las Enramadas, donde Levítico 23:40 manda ramas de palmera y de árboles frondosos y sauces, y se agitaban en las procesiones de victoria; la multitud las usó cuando Jesús entró en Jerusalén (Juan 12:13). Las Enramadas eran la fiesta de los refugios, y 7:15 dice que el que está en el trono los cobijará con su presencia, con el verbo de plantar una tienda sobre alguien."
+        },
+        {
+          "term": "La gran tribulación",
+          "original": "Greek: ἡ θλῖψις ἡ μεγάλη (he thlipsis he megale)",
+          "note": "Thlipsis significa presión o aplastamiento, la palabra para un peso que oprime; se usa de la persecución corriente por todo el Nuevo Testamento (Juan 16:33; Hechos 14:22). Aquí lleva el artículo y el adjetivo, la gran presión, y 7:14 dice que estos son los que salen de ella. Jesús usa la misma expresión en Mateo 24:21."
+        },
+        {
+          "term": "Los pastoreará y los guiará a manantiales",
+          "original": "Greek: ποιμανεῖ αὐτοὺς καὶ ὁδηγήσει αὐτοὺς ἐπὶ ζωῆς πηγὰς ὑδάτων (poimanei autous kai hodegesei autous epi zoes pegas hydaton)",
+          "note": "Los versículos 16-17 están cosidos de dos pasajes del Antiguo Testamento. Isaías 49:10 dice que no tendrán hambre ni sed, y que no los herirá el calor ni el sol, porque el que tiene compasión de ellos los guiará a manantiales de agua. Isaías 25:8 dice que enjugará las lágrimas de todos los rostros. Al Cordero se lo pone en el lugar del pastor."
         }
       ],
-      "keyTakeaway": "Dios sella a sus siervos para protegerlos, muestra la multitud redimida de todas las naciones adorando, y promete refugio eterno, provisión y consuelo por medio del Cordero.",
+      "keyTakeaway": "Dios sella a sus siervos para protegerlos, muestra a la multitud redimida de todas las naciones adorando, y promete cobijo, provisión y consuelo eternos por medio del Cordero.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -483,28 +587,40 @@
         "Seguí observando y oí un águila que volaba en medio del cielo y gritaba fuertemente: «¡Ay! ¡Ay! ¡Ay de los habitantes de la tierra cuando suenen las tres trompetas que los últimos tres ángeles están a punto de tocar!». (8:13)."
       ],
       "crossRefs": [
-        "Éxodo 9:23–24: Granizo y fuego en Egipto.",
-        "Jeremías 9:15: Ajenjo y agua envenenada.",
-        "Joel 2:4–5: Langostas como caballos preparados para la batalla."
+        "Éxodo 30:1-10: El altar de oro del incienso, quemado cada mañana y cada tarde, delante del velo.",
+        "Lucas 1:8-11: El pueblo ora fuera a la hora del incienso mientras el sacerdote lo quema dentro del santuario.",
+        "Salmos 141:2: Suba mi oración delante de ti como el incienso, y el alzar de mis manos como el sacrificio de la tarde.",
+        "Josué 6:12-20: Siete sacerdotes llevan siete trompetas alrededor de la ciudad durante siete días, y al séptimo cae la muralla.",
+        "Jeremías 9:15: Alimentaré a este pueblo con ajenjo y les daré a beber agua envenenada."
       ],
       "translationNotes": [
         {
+          "term": "Silencio como de media hora",
+          "original": "Greek: σιγὴ ὡς ἡμιώριον (sige hos hemiorion)",
+          "note": "El único tramo medido de silencio en la Escritura, y viene después de seis sellos de estruendo. En el templo, el momento del incienso era el silencioso, con la multitud fuera orando y sin ruido dentro (Lucas 1:10). Habacuc 2:20 y Sofonías 1:7 piden los dos silencio delante del SEÑOR cuando el juicio está cerca."
+        },
+        {
+          "term": "El incensario de oro",
+          "original": "Greek: λιβανωτός (libanotos, censer)",
+          "note": "Un braserillo para llevar brasas vivas del altar y quemar incienso sobre ellas. El sumo sacerdote llevaba uno detrás del velo en el Día de la Expiación (Levítico 16:12-13), y el incienso diario subía en el altar de oro mañana y tarde. En 8:5 el ángel llena ese mismo incensario con fuego del altar y lo arroja a la tierra, de modo que la vasija que subió las oraciones baja la respuesta."
+        },
+        {
+          "term": "Trompetas",
+          "original": "Greek: σάλπιγξ (salpinx) - Hebrew: חֲצֹצְרָה (chatsotserah)",
+          "note": "No un instrumento musical, sino una señal. Números 10:1-10 da a los sacerdotes dos trompetas de plata para convocar a la asamblea, levantar el campamento, ir a la guerra y sonar sobre las ofrendas. Siete trompetas rodearon Jericó durante siete días (Josué 6). Una trompeta en este libro es un anuncio que todos oyen a la vez."
+        },
+        {
           "term": "Ajenjo",
-          "original": "Hebrew: לַעֲנָה (laʿănāh), Greek: ἄψινθος (ápsinthos, NT), Aramaic: לענתא (laʿantā)",
-          "note": "Planta amarga usada como metáfora de dolor o juicio; aquí una estrella hace amargas las aguas."
+          "original": "Hebrew: לַעֲנָה (la'anah) - Greek: ἄψινθος (apsinthos)",
+          "note": "Un arbusto de la familia Artemisia, de hoja gris e intensamente amargo, corriente en tierra seca. La Escritura lo usa como imagen habitual de lo que es amargo y venenoso de beber: una raíz que da fruto venenoso y ajenjo (Deuteronomio 29:18), la justicia convertida en ajenjo (Amós 5:7), y el SEÑOR alimentando con ajenjo y agua envenenada a un pueblo rebelde (Jeremías 9:15). En 8:11 se le da ese nombre a la estrella."
         },
         {
-          "term": "Abadón / Apolión",
-          "original": "Hebrew: אֲבַדּוֹן (ʾĂḇaddôn, 'Destruction'), Greek: Ἀπολλύων (Apollýōn, NT, 'Destroyer'), Aramaic: אבדון (ʾAḇaddôn)",
-          "note": "Nombre del ángel del abismo, líder de las langostas."
-        },
-        {
-          "term": "Doscientos millones",
-          "original": "Greek: δισμυριάδες μυριάδων (dismuriades muriadōn)",
-          "note": "Literalmente 'dos veces diez mil veces diez mil'; un ejército inmenso e incontable."
+          "term": "Una tercera parte de todo",
+          "original": "Greek: τὸ τρίτον (to triton, the third)",
+          "note": "La fracción recorre todo el capítulo: la tercera parte de la tierra, de los árboles, del mar, de las criaturas, de los barcos, de los ríos, del sol, de la luna, de las estrellas, del día y de la noche. Es un golpe limitado, mayor que la cuarta parte que se da a los jinetes en 6:8 y menor que el todo. Ezequiel 5:1-4 divide en tercios el pelo rasurado del profeta para tres juicios distintos."
         }
       ],
-      "keyTakeaway": "El séptimo sello se abre con silencio; siete ángeles reciben trompetas y un ángel ofrece incienso junto con las oraciones del pueblo de Dios en el altar. Al sonar las primeras cuatro trompetas, plagas devastadoras golpean la tierra: granizo y fuego queman la vegetación, una montaña ardiente envenena el mar, la estrella Ajenjo contamina las fuentes de agua y la oscuridad cubre un tercio del cielo; un águila advierte que aún faltan tres angustias por venir.",
+      "keyTakeaway": "El séptimo sello se abre y viene el silencio; siete ángeles reciben trompetas y un ángel ofrece incienso con las oraciones del pueblo de Dios en el altar. Cuando los cuatro primeros ángeles tocan sus trompetas, unas plagas devastadoras golpean la tierra: granizo y fuego queman la vegetación, un monte ardiendo envenena el mar, la estrella Ajenjo contamina las aguas y la oscuridad cubre un tercio del cielo; un águila anuncia otros tres ayes por venir.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -546,28 +662,45 @@
         "Tampoco se arrepintieron de sus asesinatos ni de sus artes mágicas, inmoralidad sexual y robos. (9:21)."
       ],
       "crossRefs": [
-        "Éxodo 9:23–24: Granizo y fuego en Egipto.",
-        "Jeremías 9:15: Ajenjo y agua envenenada.",
-        "Joel 2:4–5: Langostas como caballos preparados para la batalla."
+        "Éxodo 10:12-15: Las langostas cubren toda la tierra de Egipto hasta oscurecerla, y comen todo lo verde que dejó el granizo.",
+        "Joel 1:2-7: Una nación con dientes de león ha subido sobre la tierra y ha dejado peladas las vides y las higueras.",
+        "Joel 2:1-11: Su aspecto es como de caballos, y corren como caballos de guerra, con un ruido como de carros por las cumbres de los montes.",
+        "Isaías 14:12-15: Una burla contra el rey de Babilonia, caído del cielo, derribado por tierra, llevado a la fosa.",
+        "Salmos 115:4-8: Ídolos de plata y de oro, obra de manos humanas, que no pueden ver ni oír ni andar."
       ],
       "translationNotes": [
         {
-          "term": "Ajenjo",
-          "original": "Hebrew: לַעֲנָה (laʿănāh), Greek: ἄψινθος (ápsinthos, NT), Aramaic: לענתא (laʿantā)",
-          "note": "Planta amarga usada como metáfora de dolor o juicio; aquí una estrella hace amargas las aguas."
+          "term": "El abismo y su pozo",
+          "original": "Greek: ἄβυσσος (abyssos, bottomless) - φρέαρ (phrear, a well or shaft)",
+          "note": "Abyssos es la palabra que la Septuaginta usa para el abismo de Génesis 1:2 y para las profundidades del mar, y en el Nuevo Testamento nombra el lugar de encierro de los espíritus; los demonios de Lucas 8:31 suplican que no se los mande allí. Lo que se abre en 9:1-2 es un phrear, un pozo o una sima, y lo primero que sube es humo como de un gran horno que oscurece el sol."
         },
         {
-          "term": "Abadón / Apolión",
-          "original": "Hebrew: אֲבַדּוֹן (ʾĂḇaddôn, 'Destruction'), Greek: Ἀπολλύων (Apollýōn, NT, 'Destroyer'), Aramaic: אבדון (ʾAḇaddôn)",
-          "note": "Nombre del ángel del abismo, líder de las langostas."
+          "term": "Langostas",
+          "original": "Greek: ἀκρίδες (akrides)",
+          "note": "La langosta del desierto es una catástrofe real y recurrente en aquella parte del mundo. Un enjambre puede cubrir cientos de millas cuadradas, tapar el sol, y cada insecto come más o menos su propio peso en vegetación cada día, de modo que un campo puede quedar en tallos pelados en horas. Éxodo 10 y Joel 1-2 lo describen tal como ocurre. Lo que hace extraño 9:4 es la inversión: a estas se les dice que no dañen ni la hierba, ni nada verde, ni ningún árbol, sino solo a las personas."
         },
         {
-          "term": "Doscientos millones",
-          "original": "Greek: δισμυριάδες μυριάδων (dismuriades muriadōn)",
-          "note": "Literalmente 'dos veces diez mil veces diez mil'; un ejército inmenso e incontable."
+          "term": "Cinco meses",
+          "original": "Greek: μῆνας πέντε (menas pente)",
+          "note": "Repetido dos veces, en 9:5 y 9:10. Cinco meses es cosa de lo que dura la vida adulta de una langosta del desierto y la temporada de enjambres, de la primavera al final del verano. Al tormento se le da un final fijo y se enuncia dos veces."
+        },
+        {
+          "term": "Abadón y Apolión",
+          "original": "Hebrew: אֲבַדּוֹן (Abaddon, destruction) - Greek: Ἀπολλύων (Apollyon, destroyer)",
+          "note": "El texto da el nombre en las dos lenguas, cosa que no hace en ningún otro lugar. Abadón es una palabra hebrea real usada en el Antiguo Testamento para el lugar de la ruina, emparejada con el Seol y con la tumba (Job 26:6; 28:22; Proverbios 15:11). Apolión es un participio griego que significa el que destruye. A él se lo llama el ángel del abismo y rey sobre las langostas."
+        },
+        {
+          "term": "Dos veces diez mil veces diez mil",
+          "original": "Greek: δισμυριάδες μυριάδων (dismyriades myriadon)",
+          "note": "Una myrias son diez mil, y la expresión de 9:16 la multiplica: doscientos millones si se toma como aritmética. La misma construcción aparece en 5:11 para los ángeles alrededor del trono. El griego usaba myrias tanto como número preciso como en el sentido corriente de una multitud incontable, que es de donde sale la palabra miríada."
+        },
+        {
+          "term": "Hechicerías",
+          "original": "Greek: φαρμακεία (pharmakeia)",
+          "note": "La palabra de 9:21 es la raíz de la palabra farmacia, y abarca las drogas, las pociones y su preparación para uso mágico. Está en una lista con los homicidios, la inmoralidad y los robos, y con la adoración de ídolos de oro, plata, bronce, piedra y madera que no pueden ver ni oír ni andar. Pablo pone esa misma palabra en su lista de Gálatas 5:20."
         }
       ],
-      "keyTakeaway": "Una estrella caída abre el Abismo y libera langostas con poder de escorpión para atormentar durante cinco meses a quienes no tienen el sello, bajo su rey Abadón; luego cuatro ángeles en el Éufrates son liberados para matar a un tercio de la humanidad con doscientos millones de jinetes, pero los sobrevivientes se niegan a arrepentirse de su idolatría y maldad."
+      "keyTakeaway": "Una estrella caída abre el Abismo y suelta langostas con poder de escorpión para atormentar durante cinco meses a los que no están sellados, bajo su rey Abadón; luego se sueltan cuatro ángeles del Éufrates para matar a la tercera parte de la humanidad con doscientos millones de jinetes, y aun así los supervivientes se niegan a arrepentirse de la idolatría y de la maldad."
     },
     {
       "id": "revelation-10",
@@ -589,27 +722,28 @@
         "Entonces se me ordenó: «Tienes que volver a profetizar acerca de muchos pueblos, naciones, lenguas y reyes». (10:11)."
       ],
       "crossRefs": [
-        "Ezequiel 3:1–3: Comer el rollo.",
+        "Ezequiel 3:1-3: Comer el rollo.",
         "Daniel 12:7: Jurar por el que vive para siempre.",
         "Amós 3:7: El Señor revela sus secretos a los profetas."
       ],
       "translationNotes": [
         {
-          "term": "Librito",
+          "term": "Rollo pequeño",
           "original": "Hebrew: מְגִלָּה קְטַנָּה (megillāh qəṭannāh, sense), Greek: βιβλαρίδιον (biblarídion, NT), Aramaic: מגילתא זעירתא (megillātā zeʿīrtā)",
-          "note": "Forma diminutiva de rollo; distinto del rollo sellado del capítulo 5, simboliza una comisión profética para Juan."
+          "note": "Forma diminutiva de rollo; distinto del rollo sellado del capítulo 5, y símbolo de un encargo profético para Juan."
         },
         {
           "term": "Siete truenos",
-          "note": "Pronunciamientos no revelados; a Juan se le prohíbe registrarlos, mostrando aspectos ocultos del plan de Dios."
+          "original": "Greek: αἱ ἑπτὰ βρονταί (hai hepta brontai)",
+          "note": "Palabras no reveladas; a Juan se le prohíbe registrarlas, lo que muestra aspectos ocultos del plan de Dios."
         },
         {
           "term": "Misterio de Dios",
           "original": "Greek: τὸ μυστήριον τοῦ θεοῦ (to mystērion tou theou)",
-          "note": "El propósito oculto de Dios, anunciado a los profetas, cumplido al sonar la séptima trompeta."
+          "note": "El propósito oculto de Dios, anunciado a los profetas, cumplido en la séptima trompeta."
         }
       ],
-      "keyTakeaway": "Un ángel poderoso le da a Juan un pequeño rollo para comer, que simboliza una profecía agridulce y anuncia juicio y testimonio.",
+      "keyTakeaway": "Un ángel poderoso da a Juan un rollo pequeño para que lo coma, símbolo de una profecía a la vez dulce y amarga, que anuncia juicio y testimonio.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -653,20 +787,25 @@
         {
           "term": "42 meses / 1.260 días",
           "original": "Hebrew: אַרְבָּעִים וּשְׁנַיִם חֹדֶשׁ (ʾarbaʿîm û-šənayim ḥōdeš); Greek: μῆνας τεσσεράκοντα δύο / ἡμέρας χιλίας διακοσίας ἑξήκοντα (mēnas tessarákonta dýo / hēméras chilías diakosías hexḗkonta, NT); Aramaic: ירחין ארבעין ותרין / יומין אלפא ומאתן ושיתין (yārḥīn ʾarbaʿīn ū-trēn / yōmīn ʾalpā ū-meʾatān ū-šiṯṭīn)",
-          "note": "Período profético simbólico (3 años y medio), recurrente en Daniel y Apocalipsis para marcar tribulación y testimonio."
+          "note": "Período profético simbólico (tres años y medio), recurrente en Daniel y en el Apocalipsis para marcar la tribulación y el testimonio."
         },
         {
           "term": "Bestia del abismo",
           "original": "Greek: θηρίον ἀναβαῖνον ἐκ τῆς ἀβύσσου (thērion anabainon ek tēs abyssou)",
-          "note": "Primera mención de la bestia que sube del abismo, descrita con más detalle en los capítulos 13 y 17."
+          "note": "Primera mención de la bestia que sube del abismo, descrita en detalle después en los capítulos 13 y 17."
         },
         {
           "term": "Arca del pacto",
           "original": "Greek: κιβωτὸς τῆς διαθήκης (kibōtos tēs diathēkēs)",
           "note": "Cofre sagrado que simboliza la presencia de Dios, ahora revelado en el templo celestial."
+        },
+        {
+          "term": "cilicio",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Una tela burda y oscura de pelo de cabra que se llevaba sobre la piel desnuda como señal universal de duelo, arrepentimiento o angustia (1 Reyes 21:27; Jonás 3:5; Mateo 11:21). Llevarlo en público publicaba el dolor o la contrición; la propia incomodidad formaba parte del símbolo."
         }
       ],
-      "keyTakeaway": "Juan ve a dos testigos profetizar, ser asesinados, resucitados y llevados al cielo; suena la séptima trompeta, proclamando el reinado eterno de Cristo.",
+      "keyTakeaway": "Juan ve a dos testigos profetizar, ser muertos, resucitar y subir; suena la séptima trompeta y se declara el reinado eterno de Cristo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -705,26 +844,27 @@
       ],
       "crossRefs": [
         "Génesis 3:15: Enemistad entre la descendencia de la mujer y la serpiente.",
-        "Salmo 2:9: Gobernar con vara de hierro.",
+        "Salmos 2:9: Gobernar con vara de hierro.",
         "Daniel 7:25: Un tiempo, tiempos y medio tiempo."
       ],
       "translationNotes": [
         {
           "term": "Vara de hierro",
           "original": "Hebrew: שֵׁבֶט בַּרְזֶל (šēḇeṭ barzel), Greek: ῥάβδῳ σιδηρᾷ (rhábdō sidēra, NT), Aramaic: שבטא דפרזלא (šeḇṭā d-parzelā)",
-          "note": "Símbolo de gobierno firme e inquebrantable asociado con el Mesías."
+          "note": "Símbolo de un gobierno firme e inquebrantable asociado al Mesías."
         },
         {
           "term": "Un tiempo, tiempos y medio tiempo",
-          "note": "Período simbólico de tres años y medio, equivalente a 1.260 días y cuarenta y dos meses."
+          "original": "Greek: καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ (kairon kai kairous kai hemisu kairou) - Aramaic: עִדָּן וְעִדָּנִין וּפְלַג עִדָּן (iddan we-iddanin u-felag iddan)",
+          "note": "Período simbólico de tres años y medio, que coincide con los 1.260 días y con los cuarenta y dos meses."
         },
         {
           "term": "Dragón",
           "original": "Greek: δράκων (drakōn)",
-          "note": "Identificado explícitamente como el diablo, Satanás y la serpiente antigua de Génesis."
+          "note": "Identificado expresamente con el diablo, con Satanás y con la serpiente antigua del Génesis."
         }
       ],
-      "keyTakeaway": "Juan ve una visión de una mujer, su hijo arrebatado hacia Dios, y el dragón derrotado en el cielo pero en guerra contra la descendencia de ella en la tierra.",
+      "keyTakeaway": "Juan ve la visión de una mujer, de su hijo arrebatado hasta Dios, y del dragón derrotado en el cielo pero en guerra contra la descendencia de ella en la tierra.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -759,33 +899,38 @@
         "En esto consiste la sabiduría: el que tenga entendimiento, calcule el número de la bestia, pues es número de un ser humano; es seiscientos sesenta y seis. (13:18)."
       ],
       "crossRefs": [
-        "Daniel 7:3–8: Cuatro bestias que surgen del mar.",
-        "Daniel 3:5–6: Imagen que debe ser adorada bajo pena de muerte.",
+        "Daniel 7:3-8: Cuatro bestias que suben del mar.",
+        "Daniel 3:5-6: Una estatua que hay que adorar so pena de muerte.",
         "2 Tesalonicenses 2:9: Señales y prodigios del inicuo."
       ],
       "translationNotes": [
         {
+          "term": "La marca",
+          "original": "Greek: χάραγμα (charagma)",
+          "note": "Charagma no es un signo vago. Es la palabra técnica para algo estampado o grabado: la impronta de un cuño en una moneda, el sello oficial que certifica un documento, una marca quemada en un esclavo o en un animal. Se pone en la mano derecha o en la frente (13:16), los dos lugares que nadie puede ocultar, y 13:17 la ata al derecho de comprar o de vender. Hechos 17:29 usa esa misma palabra para la obra grabada de un ídolo."
+        },
+        {
+          "term": "El número escrito en letras",
+          "original": "Greek: χξϛ (chi, xi, stigma) = 600 + 60 + 6",
+          "note": "El griego no tenía cifras aparte. El alfabeto hacía doble función, de modo que el número de 13:18 aparece en los manuscritos como tres letras, chi xi stigma. Como todo nombre era por tanto también una suma, la gente jugaba con ello: una pared de Pompeya lleva la línea «amo a aquella cuyo número es 545». Esa aritmética de letras es a lo que se refiere 'el que tenga entendimiento, calcule', y el texto suministra el total y no el nombre."
+        },
+        {
+          "term": "La imagen a la que se dio aliento",
+          "original": "Greek: εἰκών τοῦ θηρίου (eikon tou theriou, image of the beast)",
+          "note": "Un eikon es una estatua o un retrato, y la reverencia obligatoria ante uno era un instrumento cívico real en la provincia a la que van estas cartas. Pérgamo construyó en el 29 a.C. el primer templo de Asia a Roma y a Augusto, Esmirna consiguió uno para Tiberio en el 26 d.C., y negarse al gesto exigido en un templo así se trataba como deslealtad y no como una creencia privada. Daniel 3:5-6 es la versión más antigua de esa misma exigencia: inclínense al sonido de la música o entren en el horno."
+        },
+        {
+          "term": "Dos bestias, y cómo se llama después la segunda",
+          "original": "Greek: θηρίον (therion, wild beast)",
+          "note": "El versículo 1 hace subir una bestia del mar; el versículo 11 hace subir una segunda de la tierra, con dos cuernos como de cordero y voz de dragón. Esta segunda es la que hace la imagen, obra señales y hace cumplir la marca. Más adelante en el libro se la llama con otro nombre, el falso profeta (16:13; 19:20; 20:10), que es la identificación que da el propio texto."
+        },
+        {
           "term": "Cuarenta y dos meses",
-          "original": "Hebrew: אַרְבָּעִים וּשְׁנַיִם חֹדֶשׁ (ʾarbaʿîm û-šənáyim ḥōdeš, sense), Greek: μῆνας τεσσεράκοντα δύο (mēnas tessarákonta dýo, NT), Aramaic: ירחין ארבעין ותרין (yārḥīn ʾarbaʿīn ū-trēn)",
-          "note": "También expresado como 1.260 días / un tiempo, tiempos y medio tiempo (Apocalipsis 11–12); un período limitado pero intenso."
-        },
-        {
-          "term": "Imagen de la bestia",
-          "original": "Hebrew: צֶלֶם הַחַיָּה (ṣelem ha-ḥayyāh, sense), Greek: εἰκών τοῦ θηρίου (eikōn tou thēriou, NT), Aramaic: צלם דחיותא (ṣelem d-ḥayyūtā)",
-          "note": "Una imagen hecha para la primera bestia; se le da aliento para hablar y exige adoración."
-        },
-        {
-          "term": "Marca de la bestia",
-          "original": "Hebrew: אוֹת הַחַיָּה (ʾôt haḥayyāh, sense), Greek: χάραγμα τοῦ θηρίου (cháragma tou thēriou, NT), Aramaic: רושמא דחיותא (rūšmā d-ḥayyūtā)",
-          "note": "Marca de lealtad/pertenencia que permite comprar y vender y señala alianza con la bestia."
-        },
-        {
-          "term": "666",
-          "original": "Hebrew: שֵׁשׁ מֵאוֹת שִׁשִּׁים וָשֵׁשׁ (šēš mēʾôt šiššîm wā-šēš), Greek: ἑξακόσιοι ἑξήκοντα ἕξ (hexakósioi hexḗkonta héx, NT), Aramaic: תלת מאהין ותלתין ותלת (tlāt mēʾhīn ū-tlātīn ū-tlāt)",
-          "note": "Número de la bestia, asociado con la imperfección y el hombre; contrasta con la plenitud divina (7)."
+          "original": "Greek: μῆνας τεσσεράκοντα δύο (menas tesserakonta dyo)",
+          "note": "Tres años y medio, expresados de tres maneras distintas a lo largo de estos capítulos: cuarenta y dos meses aquí y en 11:2, 1.260 días en 11:3 y 12:6, y un tiempo, tiempos y medio tiempo en 12:14. Daniel usa ese mismo lapso (Daniel 7:25; 12:7). Es un período con un límite declarado, contado desde su comienzo."
         }
       ],
-      "keyTakeaway": "Juan ve una bestia del mar y otra de la tierra, ambas con poder del dragón, que exigen adoración, persiguen a los santos y marcan a sus seguidores con el 666.",
+      "keyTakeaway": "Juan ve una bestia que sale del mar y otra que sale de la tierra, apoderadas por el dragón, que exigen adoración, persiguen a los santos y marcan a sus seguidores con el 666.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -822,33 +967,38 @@
         "Las uvas fueron exprimidas fuera de la ciudad y del lagar salió sangre, la cual llegó hasta los frenos de los caballos en una extensión de mil seiscientos estadios. (14:20)."
       ],
       "crossRefs": [
-        "Joel 3:13: Mete la hoz, la mies está madura.",
-        "Isaías 63:3: Lagar de la ira.",
+        "Joel 3:13: Metan la hoz, que la mies está madura.",
+        "Isaías 63:3: El lagar de la ira.",
         "Mateo 24:30: El Hijo del Hombre sobre las nubes."
       ],
       "translationNotes": [
         {
-          "term": "144.000",
-          "original": "Hebrew: מֵאָה וְאַרְבָּעִים וְאַרְבָּעָה אֶלֶף (mēʾāh wə-ʾarbaʿîm wə-ʾarbaʿāh ʾelef), Greek: ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες (hekaton tessarákonta téssares chilíades, NT), Aramaic: מאה וארבין וארבעה אלפין (mēʾāh w-ʾarbaʿīn w-ʾarbaʿāh ʾalpīn)",
-          "note": "Representa a los sellados como pertenecientes al Cordero, marcados en sus frentes."
+          "term": "El lagar",
+          "original": "Greek: ληνός (lenos) - Hebrew: גַּת (gat)",
+          "note": "Un lagar era una era poco profunda tallada en la roca con un canal que corría a una pila de recogida más baja. Los hombres pisaban las uvas descalzos, agarrados a unas cuerdas o a una viga por encima, y el jugo salía por el canal y salpicaba de rojo oscuro las piernas y la ropa. Isaías 63:1-3 usa exactamente esa imagen, un solo hombre pisando solo con sus ropas manchadas. Esa es la imagen que hay detrás de 14:19-20, y es una escena de trabajo antes de ser ninguna otra cosa."
         },
         {
-          "term": "Babilonia la Grande",
-          "original": "Hebrew: בָּבֶל הַגְּדוֹלָה (bāḇel haggədōlāh), Greek: Βαβυλὼν ἡ μεγάλη (Babulōn hē megalē, NT), Aramaic: בביל רבא (bābēl rabbā)",
-          "note": "Nombre simbólico de la gran ciudad opuesta a Dios, que hace beber a las naciones el vino de la inmoralidad."
+          "term": "Mil seiscientos estadios",
+          "original": "Greek: στάδιον (stadion)",
+          "note": "Un estadio son unos 607 pies, 185 metros, y ocho de ellos hacen cosa de una milla romana. Mil seiscientos estadios son por tanto unas 184 millas, o 296 kilómetros, distancia del mismo orden que la longitud de la tierra de Israel. La medida de profundidad de 14:20 se da como hasta los frenos de los caballos."
         },
         {
-          "term": "Lagar de la ira de Dios",
-          "original": "Hebrew: גַּת חֲמַת־יְהוָה (gat ḥămat-YHWH), Greek: ληνὸς τοῦ θυμοῦ τοῦ θεοῦ (lēnos tou thymou tou theou, NT), Aramaic: מעצר חמתא דיהוה (maʿṣar ḥemātā d-YHWH)",
-          "note": "Símbolo del juicio de Dios; las uvas son aplastadas, produciendo sangre como jugo."
+          "term": "La hoz",
+          "original": "Greek: δρέπανον (drepanon)",
+          "note": "Una hoja corta y curva sobre un mango de madera, manejada con una mano cerca del suelo mientras la otra recogía los tallos; la misma herramienta cortaba el grano y cortaba los racimos de uva. Joel 3:13 es la línea que aquí se usa: metan la hoz, porque la mies está madura, entren y pisen, porque el lagar está lleno. En 14:14-20 se describen dos cosechas, primero el grano y después las uvas."
         },
         {
-          "term": "1.600 estadios",
-          "original": "Hebrew: אֶלֶף וְשֵׁשׁ מֵאוֹת סְטַדְיוֹן (ʾelef wə-šēš mēʾôt stadíon, sense), Greek: χιλίων ἑξακοσίων σταδίων (chilíōn hexakosíōn stadíōn, NT), Aramaic: אלפין ותלת מאהין ושיתין (ʾalpīn ū-šēt mēʾhīn ū-šittīn)",
-          "note": "Medida antigua de distancia, aproximadamente 296 km / 184 millas; utilizada aquí para la extensión del juicio."
+          "term": "Primicias",
+          "original": "Greek: ἀπαρχή (aparche) - Hebrew: בִּכּוּרִים (bikkurim)",
+          "note": "La primera porción de una cosecha, llevada a Dios antes de que se pudiera usar nada del resto (Éxodo 23:19; Levítico 23:9-14). Llamar primicias a algo dice dos cosas a la vez: es lo mejor, y viene más de la misma cosecha. Pablo llama a Cristo resucitado las primicias de los que durmieron (1 Corintios 15:20)."
+        },
+        {
+          "term": "Babilonia la grande",
+          "original": "Greek: Βαβυλὼν ἡ μεγάλη (Babylon he megale)",
+          "note": "La primera mención en este libro, anunciada como caída por el segundo ángel (14:8) con las palabras de Isaías 21:9. Aquí no se describe la ciudad en absoluto; eso lo hacen los capítulos 17 y 18. Lo que 14:8 dice de ella es que hizo beber a todas las naciones el vino del furor de su inmoralidad."
         }
       ],
-      "keyTakeaway": "Juan ve al Cordero con 144,000, los mensajes de tres ángeles sobre el evangelio, la caída de Babilonia y la ira contra los que adoran a la bestia, seguido de la cosecha de la tierra.",
+      "keyTakeaway": "Juan ve al Cordero con los 144.000, los mensajes de tres ángeles con el evangelio, la caída de Babilonia y la ira contra los que adoran a la bestia, y a continuación la siega de la tierra.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -881,38 +1031,40 @@
         "El templo se llenó del humo que procedía de la gloria y del poder de Dios; nadie podía entrar allí hasta que se terminaran las siete plagas de los siete ángeles. (15:8)."
       ],
       "crossRefs": [
-        "Éxodo 7:20–21: El Nilo convertido en sangre.",
-        "Éxodo 9:10: Úlceras sobre los egipcios.",
-        "Zacarías 14:2–3: Naciones reunidas para la batalla."
+        "Éxodo 15:1-18: El canto que Moisés e Israel entonaron junto al mar, después de que el SEÑOR arrojara en él al caballo y al jinete.",
+        "Deuteronomio 32:3-4: Engrandezcan a nuestro Dios; su obra es perfecta, y todos sus caminos son justicia.",
+        "Salmos 86:8-10: Todas las naciones que hiciste vendrán y adorarán delante de ti y glorificarán tu nombre.",
+        "Números 9:15-16: La nube cubre el tabernáculo del testimonio de día y hay apariencia de fuego de noche.",
+        "Éxodo 40:34-35: La gloria del SEÑOR llena el tabernáculo y Moisés no puede entrar en él."
       ],
       "translationNotes": [
         {
+          "term": "El canto de Moisés y del Cordero",
+          "original": "Greek: ᾠδὴν Μωϋσέως (oden Mouseos, song of Moses)",
+          "note": "Israel cantó junto al mar después de que los carros de Egipto se hundieran en él (Éxodo 15:1-18), y Moisés dejó un segundo canto antes de morir (Deuteronomio 32). Las palabras que se dan en 15:3-4 están tomadas de esos y de los salmos: grandes y maravillosas son tus obras, justos y verdaderos son tus caminos, todas las naciones vendrán y adorarán. Los que cantan en 15:2 son los que salieron de la bestia, de pie junto a un mar de vidrio mezclado con fuego."
+        },
+        {
+          "term": "Plagas",
+          "original": "Greek: πληγή (plege, a blow or stroke)",
+          "note": "La palabra griega significa un golpe asestado y, por extensión, la herida que deja. La Septuaginta la usa de lo que cayó sobre Egipto, y por eso las Biblias dicen plagas. El versículo 1 llama a estas siete las últimas, porque con ellas se consuma la ira de Dios."
+        },
+        {
           "term": "Copas",
-          "original": "Hebrew: מִזְרָקִים (mizrāqîm, sense), Greek: φιάλαι (phiálai, NT), Aramaic: מַגּוֹנְיָא (maggōnyā, sense)",
-          "note": "Recipientes poco profundos para libaciones usados en la imaginería del templo; aquí simbolizan juicios vertidos rápidamente."
+          "original": "Greek: φιάλη (phiale) - Hebrew: מִזְרָק (mizraq)",
+          "note": "Una phiale es un plato ancho y poco profundo sin asas, la forma que se usaba para verter una libación; su equivalente en el templo es el mizraq, el tazón que los sacerdotes usaban para arrojar la sangre contra el altar (Éxodo 27:3). La forma importa: una copa se vacía de un solo movimiento. Los sellos se rompían de uno en uno y las trompetas sonaban en secuencia; estas se vuelcan."
         },
         {
-          "term": "Siete plagas",
-          "original": "Hebrew: נְגָעִים שִׁבְעָה (negaʿîm šivʿāh, sense), Greek: πληγὰς ἑπτά (plēgàs heptá, NT), Aramaic: מַכְוָתָא שְׁבַע (makwātā švaʿ)",
-          "note": "El conjunto final de golpes/juicios que completan la ira de Dios."
+          "term": "La tienda del testimonio",
+          "original": "Greek: ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου (ho naos tes skenes tou martyriou)",
+          "note": "Al tabernáculo se lo llamaba la tienda del testimonio porque albergaba el arca que contenía las dos tablas de piedra, que son el testimonio (Éxodo 25:16; Números 9:15; 17:7-8). El nombre dice que la estructura existe para guardar la prueba de una alianza. El versículo 5 abre ese santuario en el cielo, y de él salen los siete ángeles."
         },
         {
-          "term": "Éufrates",
-          "original": "Hebrew: פְּרָת (Pərāt), Greek: Εὐφράτης (Euphrátes, NT), Aramaic: פְּרָת (Pərāt)",
-          "note": "Gran río del Cercano Oriente; su secamiento prepara el camino para los reyes del oriente."
-        },
-        {
-          "term": "Espíritus inmundos semejantes a ranas",
-          "original": "Hebrew: רוּחוֹת טְמֵאוֹת (rūḥōt ṭəmēʾōt, sense), Greek: πνεύματα ἀκάθαρτα (pneúmata akátharta, NT), Aramaic: רוּחִין טִמְאִין (rūḥīn ṭimʾīn)",
-          "note": "Mensajeros demoniacos que realizan señales para reunir a las naciones para la batalla."
-        },
-        {
-          "term": "Armagedón",
-          "original": "Hebrew: הַר מְגִדּוֹ (har məgiddō), Greek: Ἁρμαγεδών (Harmagedōn, NT), Aramaic: טוּרָא דְּמְגִדּוֹ (ṭūrā d-megiddō)",
-          "note": "Literalmente \"Monte de Meguido\"; punto de reunión simbólico para la batalla final."
+          "term": "El templo lleno de humo",
+          "original": "Greek: ἐγεμίσθη ὁ ναὸς καπνοῦ (egemisthe ho naos kapnou)",
+          "note": "El versículo 8 dice que nadie podía entrar en el santuario hasta que las siete plagas se cumplieran. Eso ha ocurrido dos veces antes en la Escritura: la nube llenó el tabernáculo de modo que Moisés no podía entrar (Éxodo 40:34-35), y llenó el templo de modo que los sacerdotes no podían quedarse a oficiar (1 Reyes 8:10-11). Isaías 6:4 hace que la casa se llene de humo mientras claman los serafines."
         }
       ],
-      "keyTakeaway": "Siete ángeles con las últimas plagas aparecen en el cielo; los que vencieron a la bestia cantan alabanzas junto a un mar de vidrio mientras el templo se abre y los ángeles reciben copas de oro llenas de la ira de Dios.",
+      "keyTakeaway": "Aparecen en el cielo siete ángeles con las plagas finales; los que vencieron a la bestia cantan alabanzas junto a un mar de vidrio mientras el templo se abre y los ángeles reciben copas de oro llenas de la ira de Dios.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -950,38 +1102,40 @@
         "Del cielo cayeron sobre la gente enormes granizos, de casi cuarenta y cinco kilogramos cada uno. Y maldecían a Dios por esa terrible plaga. (16:21)."
       ],
       "crossRefs": [
-        "Éxodo 7:20–21: El Nilo convertido en sangre.",
-        "Éxodo 9:10: Úlceras sobre los egipcios.",
-        "Zacarías 14:2–3: Naciones reunidas para la batalla."
+        "Éxodo 7:20-21: El agua del Nilo se convierte en sangre, los peces mueren, y el río apesta.",
+        "Éxodo 8:1-6: Las ranas suben del Nilo y cubren la tierra, y se meten en las casas, en las camas y en los hornos.",
+        "Éxodo 9:8-11: El hollín lanzado hacia el cielo se convierte en úlceras que estallan sobre hombres y animales por todo Egipto.",
+        "Jueces 5:19-21: Vinieron reyes y pelearon en Taanac, junto a las aguas de Meguido, y el torrente Cisón los arrastró.",
+        "2 Reyes 23:29-30: Josías sale al encuentro del faraón Necao y es muerto en Meguido, y lo llevan de vuelta a Jerusalén."
       ],
       "translationNotes": [
         {
-          "term": "Copas",
-          "original": "Hebrew: מִזְרָקִים (mizrāqîm, sense), Greek: φιάλαι (phiálai, NT), Aramaic: מַגּוֹנְיָא (maggōnyā, sense)",
-          "note": "Recipientes poco profundos para libaciones usados en la imaginería del templo; aquí simbolizan juicios vertidos rápidamente."
+          "term": "Llagas",
+          "original": "Greek: ἕλκος (helkos)",
+          "note": "Helkos es una úlcera abierta o una llaga que supura. Es la palabra exacta que la Septuaginta usa para las úlceras que estallaron sobre los egipcios (Éxodo 9:9-11) y para las llagas que cubrían a Job (Job 2:7), y Lucas 16:21 la usa del mendigo Lázaro. El versículo 2 las pone sobre la gente que lleva la marca."
         },
         {
-          "term": "Siete plagas",
-          "original": "Hebrew: נְגָעִים שִׁבְעָה (negaʿîm šivʿāh, sense), Greek: πληγὰς ἑπτά (plēgàs heptá, NT), Aramaic: מַכְוָתָא שְׁבַע (makwātā švaʿ)",
-          "note": "El conjunto final de golpes/juicios que completan la ira de Dios."
+          "term": "El Éufrates secado",
+          "original": "Greek: Εὐφράτης (Euphrates) - Hebrew: פְּרָת (Perat)",
+          "note": "El gran río de Mesopotamia, de unas 1.700 millas de largo, y frontera oriental de la tierra prometida a Abraham (Génesis 15:18) además de frontera oriental del mundo romano, con Partia al otro lado. Secar un río es como cayó Babilonia la primera vez: Heródoto (1.191) dice que Ciro desvió el Éufrates y que sus tropas entraron caminando por el lecho del río. Isaías 44:27 y Jeremías 50:38 hablan los dos de que sus aguas se sequen."
         },
         {
-          "term": "Éufrates",
-          "original": "Hebrew: פְּרָת (Pərāt), Greek: Εὐφράτης (Euphrátes, NT), Aramaic: פְּרָת (Pərāt)",
-          "note": "Gran río del Cercano Oriente; su secamiento prepara el camino para los reyes del oriente."
-        },
-        {
-          "term": "Espíritus inmundos semejantes a ranas",
-          "original": "Hebrew: רוּחוֹת טְמֵאוֹת (rūḥōt ṭəmēʾōt, sense), Greek: πνεύματα ἀκάθαρτα (pneúmata akátharta, NT), Aramaic: רוּחִין טִמְאִין (rūḥīn ṭimʾīn)",
-          "note": "Mensajeros demoniacos que realizan señales para reunir a las naciones para la batalla."
+          "term": "Ranas",
+          "original": "Greek: βάτραχοι (batrachoi)",
+          "note": "La segunda plaga sobre Egipto, cuando las ranas subieron del río a las casas, a las camas y a las artesas de amasar, y los magos del faraón hicieron lo mismo (Éxodo 8:1-7). Las ranas están entre las criaturas que la Ley declara inmundas, por ser animales de agua sin aletas ni escamas (Levítico 11:9-12). El versículo 13 dice que tres espíritus inmundos como ranas salen de la boca del dragón, de la bestia y del falso profeta."
         },
         {
           "term": "Armagedón",
-          "original": "Hebrew: הַר מְגִדּוֹ (har məgiddō), Greek: Ἁρμαγεδών (Harmagedōn, NT), Aramaic: טוּרָא דְּמְגִדּוֹ (ṭūrā d-megiddō)",
-          "note": "Literalmente \"Monte de Meguido\"; punto de reunión simbólico para la batalla final."
+          "original": "Greek: Ἁρμαγεδών (Harmagedon) - Hebrew: הַר מְגִדּוֹ (har Megiddo, mount of Megiddo)",
+          "note": "Meguido es un montículo real del valle de Jezreel, a unas veinte millas al sureste de la actual Haifa, que guarda el paso estrecho por donde la carretera entre Egipto y Mesopotamia se cuela por la sierra del Carmelo. Quien la tenía dominaba el camino, de modo que los ejércitos pelearon por ella durante tres mil años: Tutmosis III la tomó en el siglo XV a.C., Débora y Barac pelearon allí (Jueces 5:19), y a Josías lo mató allí el faraón Necao (2 Reyes 23:29). La excavación ha hallado más de veinte capas de ciudades sucesivas apiladas en el sitio."
+        },
+        {
+          "term": "Granizo como de un talento",
+          "original": "Greek: χάλαζα μεγάλη ὡς ταλαντιαία (chalaza megale hos talantiaia)",
+          "note": "Un talento son unas 75 libras, 34 kilogramos, de modo que 16:21 describe un granizo del peso de un saco lleno de grano. El granizo era un arma reconocida de Dios en la Escritura: quebró a Egipto (Éxodo 9:23-25), y en Bet-jorón murieron más enemigos por las piedras de granizo que por las espadas de Israel (Josué 10:11)."
         }
       ],
-      "keyTakeaway": "Siete ángeles derraman las copas de la ira de Dios sobre la tierra: llagas sobre los marcados, sangre en el mar y las aguas, sol abrasador, oscuridad sobre el reino de la bestia, el Éufrates seco y espíritus demoníacos reuniendo reyes en Armagedón; la séptima copa provoca un terremoto catastrófico, el derrumbe de ciudades y enormes piedras de granizo.",
+      "keyTakeaway": "Siete ángeles derraman copas de la ira de Dios sobre la tierra: llagas en los marcados, sangre en el mar y en las aguas, un sol abrasador, tinieblas sobre el reino de la bestia, el Éufrates seco, y espíritus demoníacos que reúnen a los reyes en Armagedón; la séptima copa trae un terremoto catastrófico, el derrumbe de las ciudades y granizo enorme.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1016,38 +1170,40 @@
         "La mujer que has visto es aquella gran ciudad que tiene poder de gobernar sobre los reyes de la tierra». (17:18)."
       ],
       "crossRefs": [
-        "Isaías 21:9: Ha caído, ha caído Babilonia.",
-        "Jeremías 51:63–64: Rollo arrojado al Éufrates.",
-        "Mateo 22:2: Parábola del banquete de bodas."
+        "Jeremías 51:6-13: Babilonia era una copa de oro en la mano del SEÑOR, que embriagaba a toda la tierra, y habita junto a muchas aguas.",
+        "Isaías 23:15-17: A Tiro se la trata como a una prostituta olvidada que ejerce su oficio con todos los reinos del mundo.",
+        "Nahúm 3:1-5: La ciudad sanguinaria, señora de hechicerías, es desnudada y mostrada a las naciones.",
+        "Zacarías 5:5-11: A una mujer se la encierra en un canasto y se la lleva a la tierra de Sinar, donde se le construye una casa.",
+        "Daniel 7:19-25: La cuarta bestia tiene diez cuernos, que son diez reyes, y otro se levanta tras ellos y somete a tres."
       ],
       "translationNotes": [
         {
-          "term": "Babilonia la Grande",
-          "original": "Hebrew: בָּבֶל הַגְּדוֹלָה (bāḇel haggədōlāh), Greek: Βαβυλὼν ἡ μεγάλη (Babulōn hē megalē, NT), Aramaic: בביל רבא (bābēl rabbā)",
-          "note": "Nombre simbólico de la gran ciudad opuesta a Dios; llamada madre de las rameras y de las abominaciones."
+          "term": "Babilonia como nombre de una ciudad",
+          "original": "Greek: Βαβυλὼν ἡ μεγάλη (Babylon he megale)",
+          "note": "Babilonia, sobre el Éufrates, fue el imperio que quemó el templo en el 586 a.C., y para cuando Juan escribió era una ruina; Estrabón, una generación antes, escribió que la gran ciudad se había vuelto un gran desierto. El Apocalipsis declara sin rodeos qué quiere decir con el nombre: la mujer es la gran ciudad que reina sobre los reyes de la tierra (17:18), y está sentada sobre siete montes (17:9). Pedro cierra su primera carta con saludos de «la que está en Babilonia» (1 Pedro 5:13)."
         },
         {
-          "term": "Bestia escarlata",
-          "original": "Hebrew: חַיָּה שָׁנִי (ḥayyāh šānî, sense), Greek: θηρίον κόκκινον (thērion kókkino, NT), Aramaic: חיותא סמוקא (ḥayyūtā samūqā)",
-          "note": "La bestia que lleva a la mujer; descrita como escarlata, con siete cabezas y diez cuernos."
+          "term": "Escarlata y púrpura",
+          "original": "Greek: πορφυροῦν καὶ κόκκινον (porphyroun kai kokkinon)",
+          "note": "Los dos colores más caros del mundo antiguo. La púrpura y el violeta venían del caracol marino múrex, con miles de conchas machacadas para unos pocos gramos de tinte; el escarlata venía del insecto quermes. El edicto de precios de Diocleciano del 301 d.C. limita la seda teñida de púrpura a 150.000 denarios la libra en un documento que fija el jornal diario de un peón agrícola en 25 denarios. El versículo 4 describe un atuendo que vale más que una vida entera de trabajo."
         },
         {
-          "term": "Piedra de molino",
-          "original": "Hebrew: רֵחַיִם (rēḥayim), Greek: μύλος (mýlos, NT), Aramaic: ריחיא (rīḥyā)",
-          "note": "Gran piedra usada para moler grano; aquí simboliza destrucción súbita e irreversible."
+          "term": "La copa de oro",
+          "original": "Greek: ποτήριον χρυσοῦν (poterion chrysoun)",
+          "note": "Jeremías 51:7 dice que Babilonia era una copa de oro en la mano del SEÑOR que embriagaba a toda la tierra, y la copa de la ira que las naciones deben beber recorre a los profetas (Jeremías 25:15-17; Isaías 51:17). El versículo 4 le pone una copa de oro en la mano y dice lo que contiene. La vasija es hermosa y el contenido no."
         },
         {
-          "term": "Aleluya",
-          "original": "Hebrew: הַלְלוּ־יָהּ (haləlû-yāh), Greek: Ἁλληλουϊά (Hallēlouïá, NT), Aramaic: הללויָה (halelûyā)",
-          "note": "Significa \"Alabad a Yah\"; repetido por la multitud celestial en celebración del juicio de Dios."
+          "term": "Aquí el libro interpreta sus propios símbolos",
+          "original": "Greek: ὧδε ὁ νοῦς ὁ ἔχων σοφίαν (hode ho nous ho echon sophian, here is the mind that has wisdom)",
+          "note": "Este capítulo es el único lugar donde el ángel se detiene y explica: las siete cabezas son siete montes y además siete reyes (17:9-10), los diez cuernos son diez reyes que todavía no han recibido reino (17:12), las aguas son pueblos, muchedumbres, naciones y lenguas (17:15), y la mujer es la gran ciudad (17:18). Donde el texto suministra su propia clave, no hace falta ninguna otra."
         },
         {
-          "term": "Cena de las bodas del Cordero",
-          "original": "Hebrew: סְעוּדַת נִשׂוּאִין שֶׁל־הַשֶּׂה (seʾûdat nissûʾîn shel-haśśeh, sense), Greek: δεῖπνον τοῦ γάμου τοῦ ἀρνίου (deipnon tou gamou tou arniou, NT), Aramaic: סעודת נשואין דדימרא (seʾûdat nissuʾīn d-dimrā)",
-          "note": "Banquete de celebración de la unión entre el Cordero y su esposa, que simboliza al pueblo redimido de Dios."
+          "term": "Los cuernos se vuelven contra ella",
+          "original": "Greek: μισήσουσιν τὴν πόρνην (misesousin ten pornen, they will hate the prostitute)",
+          "note": "Los versículos 16-17 dicen que la bestia y los diez cuernos aborrecerán a la mujer, la desnudarán, comerán sus carnes y la quemarán con fuego, y que Dios puso en sus corazones hacerlo hasta que se cumplan sus palabras. La alianza se destruye a sí misma. Esa es la secuencia que el capítulo prepara antes de que el capítulo 18 cante el funeral."
         }
       ],
-      "keyTakeaway": "Un ángel le muestra a Juan a una mujer llamada Babilonia la Grande sentada sobre una bestia escarlata con siete cabezas y diez cuernos; el ángel interpreta la visión y explica que las siete cabezas son siete reyes y los diez cuernos son diez reyes que harán guerra contra el Cordero pero serán derrotados. La bestia y los diez cuernos destruirán a la prostituta, y Dios los usará para cumplir su propósito antes de que sean destruidos.",
+      "keyTakeaway": "Un ángel muestra a Juan una mujer llamada Babilonia la Grande sentada sobre una bestia escarlata de siete cabezas y diez cuernos; el ángel interpreta la visión y explica que las siete cabezas son siete reyes y los diez cuernos son diez reyes que harán guerra contra el Cordero pero acabarán derrotados. La bestia y los diez cuernos destruirán a la prostituta, y Dios los usará para cumplir su propósito antes de la destrucción de ellos.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1088,38 +1244,45 @@
         "porque en ti se halló sangre de profetas y de creyentes y de todos los que han sido asesinados en la tierra». (18:24)."
       ],
       "crossRefs": [
-        "Isaías 21:9: Ha caído, ha caído Babilonia.",
-        "Jeremías 51:63–64: Rollo arrojado al Éufrates.",
-        "Mateo 22:2: Parábola del banquete de bodas."
+        "Isaías 13:19-22: Babilonia será como Sodoma, nunca más habitada, con animales del desierto echados en sus casas.",
+        "Isaías 47:7-11: La reina que dice que nunca quedará viuda pierde en un solo día los hijos y la viudez.",
+        "Jeremías 25:9-11: El SEÑOR hará desaparecer de ellos el sonido de las piedras de molino y la luz de la lámpara.",
+        "Jeremías 51:59-64: Seraías lee el rollo del juicio, le ata una piedra, y lo arroja al Éufrates.",
+        "Ezequiel 27:25-36: Las naves de Tarsis llevaban la carga de Tiro, y los marineros se quedan lejos de su naufragio y se lamentan."
       ],
       "translationNotes": [
         {
-          "term": "Babilonia la Grande",
-          "original": "Hebrew: בָּבֶל הַגְּדוֹלָה (bāḇel haggədōlāh), Greek: Βαβυλὼν ἡ μεγάλη (Babulōn hē megalē, NT), Aramaic: בביל רבא (bābēl rabbā)",
-          "note": "Nombre simbólico de la gran ciudad opuesta a Dios; llamada madre de las rameras y de las abominaciones."
+          "term": "La lista de mercancías",
+          "original": "Greek: γόμος (gomos, a ship's cargo)",
+          "note": "Los versículos 12-13 son un manifiesto de trabajo del comercio de lujo romano, en orden descendente de valor: oro, plata, piedras preciosas y perlas; lino fino, púrpura, seda y escarlata; madera olorosa, marfil, maderas costosas, bronce, hierro y mármol; canela, especias, incienso, mirra y incienso puro; vino, aceite, harina fina y trigo; ganado, ovejas, caballos y carruajes. La seda venía por tierra desde China y costaba una fortuna. La madera olorosa del norte de África se cortaba en tableros de mesa, y Plinio registra mesas sueltas vendidas por el precio de una gran finca."
         },
         {
-          "term": "Bestia escarlata",
-          "original": "Hebrew: חַיָּה שָׁנִי (ḥayyāh šānî, sense), Greek: θηρίον κόκκινον (thērion kókkino, NT), Aramaic: חיותא סמוקא (ḥayyūtā samūqā)",
-          "note": "La bestia que lleva a la mujer; descrita como escarlata, con siete cabezas y diez cuernos."
+          "term": "Cuerpos, es decir, almas de hombres",
+          "original": "Greek: σωμάτων, καὶ ψυχὰς ἀνθρώπων (somaton, kai psychas anthropon)",
+          "note": "El último renglón del manifiesto son esclavos. Somata, cuerpos, era el término comercial corriente para ellos en los documentos griegos de negocios, del modo en que un conocimiento de embarque moderno dice unidades. El texto escribe la palabra del oficio y después se niega a dejarlo ahí, y añade 'y almas de hombres'."
         },
         {
-          "term": "Piedra de molino",
-          "original": "Hebrew: רֵחַיִם (rēḥayim), Greek: μύλος (mýlos, NT), Aramaic: ריחיא (rīḥyā)",
-          "note": "Gran piedra usada para moler grano; aquí simboliza destrucción súbita e irreversible."
+          "term": "Una piedra como una gran piedra de molino",
+          "original": "Greek: λίθον ὡς μύλινον μέγαν (lithon hos mylinon megan)",
+          "note": "Los molinos domésticos usaban dos piedras pequeñas que una mujer podía girar a mano. Un molino comercial lo giraba un asno y su piedra superior se cortaba de roca volcánica dura, a la altura de la cintura y con un peso de varios cientos de libras; en las panaderías de Pompeya siguen en pie ejemplares enteros. Esa es la piedra que Jesús nombra en Mateo 18:6, y la que aquí se arroja al mar."
         },
         {
-          "term": "Aleluya",
-          "original": "Hebrew: הַלְלוּ־יָהּ (haləlû-yāh), Greek: Ἁλληλουϊά (Hallēlouïá, NT), Aramaic: הללויָה (halelûyā)",
-          "note": "Significa \"Alabad a Yah\"; repetido por la multitud celestial en celebración del juicio de Dios."
+          "term": "En una sola hora",
+          "original": "Greek: μιᾷ ὥρᾳ (mia hora)",
+          "note": "La expresión se repite tres veces en los cantos de duelo, por los reyes, los mercaderes y los patrones de nave (18:10, 17, 19). Junto a ella está 'en un solo día' en 18:8. La queja de los tres grupos no es que llegara el juicio, sino que llegó demasiado rápido para sacar nada."
         },
         {
-          "term": "Cena de las bodas del Cordero",
-          "original": "Hebrew: סְעוּדַת נִשׂוּאִין שֶׁל־הַשֶּׂה (seʾûdat nissûʾîn shel-haśśeh, sense), Greek: δεῖπνον τοῦ γάμου τοῦ ἀρνίου (deipnon tou gamou tou arniou, NT), Aramaic: סעודת נשואין דדימרא (seʾûdat nissuʾīn d-dimrā)",
-          "note": "Banquete de celebración de la unión entre el Cordero y su esposa, que simboliza al pueblo redimido de Dios."
+          "term": "De pie a lo lejos, echándose polvo sobre la cabeza",
+          "original": "Greek: ἀπὸ μακρόθεν ἑστηκότες (apo makrothen hestekotes)",
+          "note": "Todos los grupos del capítulo hacen duelo a distancia y ninguno ayuda. Echarse polvo o tierra sobre la cabeza era el acto habitual de dolor (Josué 7:6; Job 2:12; Lamentaciones 2:10), y Ezequiel 27:30-32 hace que los marineros de Tiro hagan exactamente esto sobre su naufragio. La escena de aquí está escrita sobre el patrón de aquel lamento más antiguo."
+        },
+        {
+          "term": "Ni lámpara, ni molino, ni novio",
+          "original": "Greek: φωνὴ μύλου (phone mylou, the sound of a mill)",
+          "note": "Los versículos 22-23 enumeran lo que no se volverá a oír: arpistas, músicos, flautistas y trompetistas, ningún artesano en su oficio, el sonido de un molino, la luz de una lámpara, la voz del novio y de la novia. Esos son los ruidos corrientes de una ciudad que trabaja por la mañana y descansa por la tarde. Jeremías 25:10 usa esa misma lista breve para el silencio que cae sobre una ciudad destruida."
         }
       ],
-      "keyTakeaway": "Un ángel anuncia la caída de Babilonia; los reyes y mercaderes que se enriquecieron con ella lamentan su destrucción, mientras que en el cielo se regocijan porque Dios la juzgó por sus pecados y por la sangre de los profetas hallada en ella.",
+      "keyTakeaway": "Un ángel anuncia la caída de Babilonia; los reyes y los mercaderes que se enriquecieron por medio de ella la lloran, mientras que los del cielo se alegran de que Dios la haya juzgado por sus pecados y por la sangre de los profetas hallada dentro de ella.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1157,38 +1320,45 @@
         "Los demás fueron muertos por medio de la espada que salía de la boca del que montaba a caballo. Todas las aves se saciaron devorando la carne de ellos. (19:21)."
       ],
       "crossRefs": [
-        "Isaías 21:9: Ha caído, ha caído Babilonia.",
-        "Jeremías 51:63–64: Rollo arrojado al Éufrates.",
-        "Mateo 22:2: Parábola del banquete de bodas."
+        "Salmos 45:3-5: Ciñe tu espada al muslo, oh valiente, y cabalga victorioso por la verdad y la justicia.",
+        "Isaías 11:4: Herirá la tierra con la vara de su boca, y con el aliento de sus labios matará al impío.",
+        "Deuteronomio 10:17: El SEÑOR su Dios es Dios de dioses y Señor de señores, el grande, el poderoso y el temible.",
+        "Ezequiel 39:17-20: Se convoca a aves y a fieras a un banquete sacrificial para comer la carne de los valientes y beber la sangre de los príncipes.",
+        "Mateo 22:1-14: Un rey da un banquete de bodas para su hijo, envía a sus siervos, e inspecciona la ropa de los invitados."
       ],
       "translationNotes": [
         {
-          "term": "Babilonia la Grande",
-          "original": "Hebrew: בָּבֶל הַגְּדוֹלָה (bāḇel haggədōlāh), Greek: Βαβυλὼν ἡ μεγάλη (Babulōn hē megalē, NT), Aramaic: בביל רבא (bābēl rabbā)",
-          "note": "Nombre simbólico de la gran ciudad opuesta a Dios; llamada madre de las rameras y de las abominaciones."
-        },
-        {
-          "term": "Bestia escarlata",
-          "original": "Hebrew: חַיָּה שָׁנִי (ḥayyāh šānî, sense), Greek: θηρίον κόκκινον (thērion kókkino, NT), Aramaic: חיותא סמוקא (ḥayyūtā samūqā)",
-          "note": "La bestia que lleva a la mujer; descrita como escarlata, con siete cabezas y diez cuernos."
-        },
-        {
-          "term": "Piedra de molino",
-          "original": "Hebrew: רֵחַיִם (rēḥayim), Greek: μύλος (mýlos, NT), Aramaic: ריחיא (rīḥyā)",
-          "note": "Gran piedra usada para moler grano; aquí simboliza destrucción súbita e irreversible."
-        },
-        {
           "term": "Aleluya",
-          "original": "Hebrew: הַלְלוּ־יָהּ (haləlû-yāh), Greek: Ἁλληλουϊά (Hallēlouïá, NT), Aramaic: הללויָה (halelûyā)",
-          "note": "Significa \"Alabad a Yah\"; repetido por la multitud celestial en celebración del juicio de Dios."
+          "original": "Hebrew: הַלְלוּ־יָהּ (hallelu-Yah, praise Yah) - Greek: Ἁλληλουϊά (Hallelouia)",
+          "note": "Un imperativo hebreo, alaben, unido a la forma abreviada del nombre divino. Abre y cierra muchos salmos, sobre todo el bloque de los Salmos 146 a 150, donde está en los dos extremos de cada uno. Apocalipsis 19:1, 3, 4 y 6 son las cuatro únicas apariciones de la palabra en el Nuevo Testamento, y las cuatro caen en estos seis versículos."
         },
         {
-          "term": "Cena de las bodas del Cordero",
-          "original": "Hebrew: סְעוּדַת נִשׂוּאִין שֶׁל־הַשֶּׂה (seʾûdat nissûʾîn shel-haśśeh, sense), Greek: δεῖπνον τοῦ γάμου τοῦ ἀρνίου (deipnon tou gamou tou arniou, NT), Aramaic: סעודת נשואין דדימרא (seʾûdat nissuʾīn d-dimrā)",
-          "note": "Banquete de celebración de la unión entre el Cordero y su esposa, que simboliza al pueblo redimido de Dios."
+          "term": "Lino fino, resplandeciente y puro",
+          "original": "Greek: βύσσινον λαμπρὸν καθαρόν (byssinon lampron katharon)",
+          "note": "Byssos es el lino blanqueado y caro de Egipto, la tela usada para las vestiduras sacerdotales y para la ropa del rico de Lucas 16:19. Aparece dos veces en este capítulo, sobre la novia (19:8) y sobre los ejércitos que siguen al jinete (19:14). El versículo 8 declara qué representa y no deja nada que adivinar: las acciones justas de los santos."
+        },
+        {
+          "term": "Un manto teñido en sangre",
+          "original": "Greek: ἱμάτιον βεβαμμένον αἵματι (himation bebammenon haimati)",
+          "note": "El manto ya está manchado cuando el jinete aparece, antes de que se pelee ninguna batalla del capítulo. Isaías 63:1-3 es el pasaje que se tiene a la vista: alguien viene de Edom con las vestiduras carmesí porque ha pisado solo el lagar y la sangre de ellos le salpicó la ropa. El versículo 15 nombra ese mismo lagar."
+        },
+        {
+          "term": "La espada que sale de su boca",
+          "original": "Greek: ῥομφαία (rhomphaia)",
+          "note": "Dos palabras griegas se traducen espada. La machaira es la hoja corta que llevaba un soldado o un carnicero; la rhomphaia es una espada tracia larga y ancha, la que se usa en este libro (1:16; 2:12; 19:15, 21). Sale de su boca, no de su mano, lo que concuerda con Isaías 11:4, donde hiere la tierra con la vara de su boca."
+        },
+        {
+          "term": "Rey de reyes y Señor de señores",
+          "original": "Greek: βασιλεὺς βασιλέων καὶ κύριος κυρίων (basileus basileon kai kyrios kyrion)",
+          "note": "Rey de reyes era el título formal de los grandes reyes de Oriente, reclamado por los monarcas babilonios y persas; Esdras 7:12 hace que Artajerjes lo use de sí mismo y Daniel 2:37 se lo aplica a Nabucodonosor. Deuteronomio 10:17 y Salmo 136:2-3 dan a Dios el título correspondiente. El versículo 16 lo tiene escrito en el manto y en el muslo, el sitio donde el nombre de un jinete sería visible para cualquiera que estuviera junto al caballo."
+        },
+        {
+          "term": "La cena de bodas del Cordero",
+          "original": "Greek: τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου (to deipnon tou gamou tou arniou)",
+          "note": "Una boda judía corría en dos etapas: el compromiso, vinculante en derecho desde el día en que se hacía, y después la procesión que llevaba a la novia a casa del novio para un banquete que duraba días. El versículo 9 declara dichosos a los invitados a esa cena. Los versículos 17-18 ponen de inmediato frente a ella una segunda cena, aquella a la que se llama a las aves."
         }
       ],
-      "keyTakeaway": "El cielo estalla en alabanza cuando Dios juzga a la gran prostituta y se anuncia la cena de bodas del Cordero; luego un jinete en un caballo blanco llamado Fiel y Verdadero hace guerra contra la bestia y los reyes de la tierra, captura a la bestia y al falso profeta mientras sus ejércitos son derrotados por la espada que sale de su boca.",
+      "keyTakeaway": "El cielo estalla en alabanza cuando Dios juzga a la gran prostituta, y se anuncia una cena de bodas para el Cordero; luego un jinete sobre un caballo blanco llamado Fiel y Verdadero hace guerra contra la bestia y contra los reyes de la tierra, y captura a la bestia y al falso profeta mientras sus ejércitos son derrotados por la espada que sale de su boca.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1228,43 +1398,48 @@
         "Aquel cuyo nombre no estaba escrito en el libro de la vida era arrojado al lago de fuego. (20:15)."
       ],
       "crossRefs": [
-        "Ezequiel 38:2: Profecía de Gog de Magog.",
-        "Lucas 10:20: Nombres escritos en el cielo.",
-        "Daniel 7:22: Juicio dado a los santos."
+        "Ezequiel 38:2: La profecía sobre Gog, de Magog.",
+        "Lucas 10:20: Los nombres escritos en el cielo.",
+        "Daniel 7:22: El juicio entregado a los santos."
       ],
       "translationNotes": [
         {
           "term": "Milenio",
           "original": "Hebrew: אֶלֶף שָׁנִים (ʾelef šānîm), Greek: χίλια ἔτη (chília étē, NT), Aramaic: אלפא שנין (ʾalpā šnīn)",
-          "note": "Período de mil años descrito aquí durante el cual Satanás está atado y los santos reinan; solo aparece en Apocalipsis 20."
+          "note": "Un período de mil años descrito aquí, del atamiento de Satanás y del reinado de los santos; solo aparece en Apocalipsis 20."
         },
         {
           "term": "Abismo",
           "original": "Hebrew: תְּהוֹם (təhom, sense), Greek: ἄβυσσος (ábyssos, NT), Aramaic: תְּהוֹמָא (təhomā)",
-          "note": "La profundidad o pozo sin fondo; lugar de confinamiento para Satanás."
+          "note": "El abismo o pozo sin fondo; lugar de encierro para Satanás."
         },
         {
           "term": "Primera resurrección",
           "original": "Hebrew: הַתְּחִיָּה הָרִאשׁוֹנָה (hatəḥiyyāh harīʾshonāh, sense), Greek: ἡ ἀνάστασις ἡ πρώτη (hē anástasis hē prōtē, NT), Aramaic: קיָמא קדמָאה (qayyāmā qadmayā)",
-          "note": "Resurrección de los mártires y fieles para reinar con Cristo por mil años."
+          "note": "El levantarse de los mártires y de los fieles para reinar con Cristo durante mil años."
         },
         {
           "term": "Segunda muerte",
           "original": "Hebrew: הַמָּוֶת הַשֵּׁנִי (hammāwet haššēnī, sense), Greek: ὁ θάνατος ὁ δεύτερος (ho thánatos ho deúteros, NT), Aramaic: מוּתָא תִּנְיָנָא (mūtā tinyānā)",
-          "note": "Separación eterna de Dios; no tiene poder sobre los que participan en la primera resurrección."
+          "note": "Separación eterna de Dios; no tiene poder sobre los que participan de la primera resurrección."
         },
         {
           "term": "Gog y Magog",
           "original": "Hebrew: גּוֹג וּמָגוֹג (gōg û-māgōg), Greek: Γὼγ καὶ Μαγώγ (Gōg kai Magōg, NT), Aramaic: גוג ומגוג (gōg ū-māgōg)",
-          "note": "Nombres simbólicos para las naciones reunidas por Satanás para la rebelión final."
+          "note": "Nombres simbólicos de las naciones reunidas por Satanás para la rebelión final."
         },
         {
           "term": "Lago de fuego",
           "original": "Hebrew: יַם־אֵשׁ (yam-ʾēš, sense), Greek: λίμνη τοῦ πυρός (límnē tou pyrós, NT), Aramaic: ימא דנורא (yamā d-nūrā)",
-          "note": "Lugar final de juicio y tormento eterno para Satanás, la bestia y el falso profeta."
+          "note": "Lugar final de juicio y de tormento eterno para Satanás, la bestia y el falso profeta."
+        },
+        {
+          "term": "Hades",
+          "original": "Greek: ᾅδης (hades)",
+          "note": "El equivalente en lengua griega del Seol hebreo, usado en la Septuaginta y en el Nuevo Testamento; la región general de los muertos, no específicamente un lugar de castigo. Apocalipsis 1:18 pone a Cristo teniendo 'las llaves de la Muerte y del Hades'. Distinto de la Gehena."
         }
       ],
-      "keyTakeaway": "Satanás es atado por 1.000 años mientras los santos reinan con Cristo; tras una breve liberación y rebelión final, es arrojado para siempre al lago de fuego.",
+      "keyTakeaway": "Satanás queda atado por 1.000 años mientras los santos reinan con Cristo; después de una breve liberación y de una rebelión final, es arrojado para siempre al lago de fuego.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1312,43 +1487,50 @@
         "Nunca entrará en ella nada impuro, ni los idólatras ni los farsantes, sino solo aquellos que tienen su nombre escrito en el libro de la vida, el libro del Cordero. (21:27)."
       ],
       "crossRefs": [
-        "Isaías 65:17: Cielos nuevos y tierra nueva.",
-        "Ezequiel 47:1–12: Río que fluye del templo.",
-        "Juan 14:2–3: Jesús prepara un lugar."
+        "Isaías 65:17-19: Yo creo cielos nuevos y tierra nueva, y no se volverá a oír en ella voz de llanto.",
+        "Isaías 25:6-8: Destruirá la muerte para siempre y enjugará las lágrimas de todos los rostros, y quitará la afrenta de su pueblo.",
+        "Isaías 54:11-12: Asentaré tus piedras sobre antimonio, tus cimientos sobre zafiros, y tus puertas de rubíes.",
+        "Ezequiel 48:30-35: Las doce puertas de la ciudad llevan el nombre de las doce tribus, tres en cada uno de sus cuatro lados.",
+        "Éxodo 28:15-21: Cuatro hileras de tres piedras en el pectoral del sumo sacerdote, grabada cada una con el nombre de una tribu."
       ],
       "translationNotes": [
         {
-          "term": "Cielo nuevo y tierra nueva",
-          "original": "Hebrew: שָׁמַיִם חֲדָשִׁים וְאָרֶץ חֲדָשָׁה (šāmayim ḥădāšîm wə-ʾāreṣ ḥădāšāh), Greek: καινὸς οὐρανὸς καὶ καινὴ γῆ (kainòs ouranòs kai kainḕ gē, NT), Aramaic: שמיא חדתא וארעא חדתא (šmayyā ḥadtā w-ʾarʿā ḥadtā)",
-          "note": "Promesa de la renovación plena de la creación por parte de Dios."
+          "term": "Doce mil estadios",
+          "original": "Greek: σταδίων δώδεκα χιλιάδων (stadion dodeka chiliadon)",
+          "note": "Un estadio son unos 607 pies, 185 metros, de modo que doce mil de ellos vienen a ser unas 1.380 millas, 2.220 kilómetros. El versículo 16 dice que la ciudad está trazada en cuadro, con su largo, su ancho y su alto iguales, de modo que es tan alta como ancha. Para hacerse una idea, esa planta cubriría casi todo el Imperio romano, de Britania a Egipto."
+        },
+        {
+          "term": "Ciento cuarenta y cuatro codos",
+          "original": "Greek: πηχῶν ἑκατὸν τεσσεράκοντα τεσσάρων (pechon hekaton tesserakonta tessaron)",
+          "note": "Un codo son unas dieciocho pulgadas, el largo del antebrazo, de modo que el muro de 21:17 mide unos 216 pies, 66 metros. El versículo añade que esa es una medida humana, que era la que el ángel estaba usando. Doce por doce, como las doce puertas, los doce cimientos y los doce mil estadios."
+        },
+        {
+          "term": "La caña de medir de oro",
+          "original": "Greek: μέτρον κάλαμον χρυσοῦν (metron kalamon chrysoun, a golden reed for measuring)",
+          "note": "Un kalamos es una caña, y una caña cortada de longitud fija era la vara de agrimensor corriente en el antiguo Oriente. Ezequiel 40:3 tiene a un hombre con un cordel de lino y una caña de medir haciendo ese mismo trabajo alrededor de un templo, y Zacarías 2:1-2 tiene a un hombre saliendo con un cordel para medir Jerusalén. Medir una cosa era un modo de reclamarla."
+        },
+        {
+          "term": "Las doce piedras de los cimientos",
+          "original": "Greek: ἴασπις, σάπφειρος, χαλκηδών, σμάραγδος (iaspis, sappheiros, chalkedon, smaragdos)",
+          "note": "Los nombres antiguos de las piedras no se corresponden con la mineralogía moderna. Lo que los griegos llamaban sapphiros era casi con certeza lapislázuli, azul profundo con motas de pirita color oro, y su topazion era probablemente la piedra verde amarillenta que hoy se llama peridoto; el jacinto era una piedra azul. El libro 37 de la Historia natural de Plinio el Viejo es el catálogo antiguo del que salen estos nombres. La lista de doce hace eco deliberado de las doce piedras del pectoral del sumo sacerdote (Éxodo 28:17-20)."
+        },
+        {
+          "term": "Cada puerta, una sola perla",
+          "original": "Greek: μαργαρίτης (margarites, pearl)",
+          "note": "Las perlas eran los objetos sueltos más valiosos del mercado de lujo romano, por encima del oro a igualdad de peso. Plinio refiere que Cleopatra tenía una perla valorada en diez millones de sestercios y que las dos que poseía eran las mayores conocidas (Historia natural 9.119-121). El versículo 21 dice que cada una de las doce puertas era una sola perla, y esa puerta tenía que dar paso en un muro de doscientos pies de alto."
         },
         {
           "term": "Nueva Jerusalén",
-          "original": "Hebrew: יְרוּשָׁלַ͏ִם חֲדָשָׁה (Yerūšālaim ḥăḏāšāh), Greek: Ἰερουσαλὴμ καινή (Ierousalēm kainē, NT), Aramaic: ירושלם חדתא (Yerušālem ḥaddātā)",
-          "note": "La ciudad santa preparada por Dios como morada de su pueblo para siempre."
+          "original": "Greek: Ἰερουσαλὴμ καινή (Ierousalem kaine)",
+          "note": "El adjetivo es kainos, nuevo en su clase antes que meramente reciente. La ciudad baja del cielo, de parte de Dios, dispuesta como una novia ataviada para su esposo (21:2), que es la dirección inversa de toda torre que los hombres levantan en la Escritura. El versículo 22 registra lo que no contiene: no hay templo, porque el Señor Dios Todopoderoso y el Cordero son su templo."
         },
         {
-          "term": "Árbol de la vida",
-          "original": "Hebrew: עֵץ הַחַיִּים (ʿēṣ haḥayyīm), Greek: τὸ ξύλον τῆς ζωῆς (to xýlon tēs zōēs, NT), Aramaic: אילנא דחיים (ʾīlanā d-ḥayyīn)",
-          "note": "Árbol que da vida eterna, visto por primera vez en el Edén, restaurado en la nueva Jerusalén."
-        },
-        {
-          "term": "Adoración",
-          "original": "Greek: λατρεύω (latreuo)",
-          "note": "Servir o ministrar, especialmente en deber sacerdotal. En Lucas 1:74–75 significa servir a Dios en santidad. En Romanos 12:1, Pablo lo aplica a presentar la vida como sacrificio vivo. También se usa en Filipenses 3:3, Hebreos 9:14 y Apocalipsis 22:3 para mostrar la adoración como servicio y lealtad de por vida."
-        },
-        {
-          "term": "Alfa y Omega",
-          "original": "Greek: τὸ ἄλφα καὶ τὸ ὦ (to álpha kai to ō, NT)",
-          "note": "Primera y última letras griegas; título para Dios y Cristo como principio y fin de todo."
-        },
-        {
-          "term": "Estrella de la mañana",
-          "original": "Hebrew: כּוֹכַב בֹּקֶר (kôḵaḇ bōqer), Greek: ὁ ἀστὴρ ὁ πρωϊνός (ho astēr ho prōinós, NT), Aramaic: כוכבא דצפרא (kôḵbā d-ṣaprā)",
-          "note": "Aquí identificado con Cristo mismo, dador de luz y esperanza eterna."
+          "term": "Gratuitamente",
+          "original": "Greek: δωρεάν (dorean, as a gift, free of charge)",
+          "note": "Dorean es la palabra comercial para algo entregado sin precio adjunto. Es lo que Jesús dice de lo que los discípulos recibieron y deben dar (Mateo 10:8), y lo que Pablo quiere decir con ser justificados como un don (Romanos 3:24). El versículo 6 da el agua de la vida dorean al sediento, que es Isaías 55:1 en griego: vengan, compren vino y leche sin dinero y sin pagar precio."
         }
       ],
-      "keyTakeaway": "Juan ve un cielo nuevo y una tierra nueva con la Ciudad Santa, la nueva Jerusalén, que desciende de Dios; es una ciudad cuadrada de 12,000 estadios por lado, construida de oro y piedras preciosas con doce puertas y cimientos inscritos con los nombres de las tribus de Israel y los apóstoles. Dios habita entre el pueblo, enjuga todas las lágrimas y el dolor, y los vencedores heredan esta ciudad mientras que los cobardes e incrédulos son arrojados al lago de fuego y azufre.",
+      "keyTakeaway": "Juan ve un cielo nuevo y una tierra nueva con la Ciudad Santa, la nueva Jerusalén, que baja de Dios; es una ciudad cuadrada de 12.000 estadios por lado, construida de oro y de piedras preciosas, con doce puertas y con cimientos inscritos con los nombres de las tribus de Israel y de los apóstoles. Dios habita entre la gente, enjuga toda lágrima y todo dolor, y los vencedores heredan esta ciudad mientras que los cobardes y los incrédulos van a parar al lago de fuego y azufre.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1390,43 +1572,45 @@
         "Que la gracia del Señor Jesús sea con todos. Amén. (22:21)."
       ],
       "crossRefs": [
-        "Isaías 65:17: Cielos nuevos y tierra nueva.",
-        "Ezequiel 47:1–12: Río que fluye del templo.",
-        "Juan 14:2–3: Jesús prepara un lugar."
+        "Génesis 3:22-24: El camino al árbol de la vida queda guardado por querubines y por una espada llameante que gira en todas direcciones.",
+        "Ezequiel 47:1-12: Sale agua de debajo del umbral del templo, y los árboles de las dos riberas dan fruto cada mes, y sus hojas son para sanidad.",
+        "Zacarías 14:8-11: Aguas vivas salen de Jerusalén en verano y en invierno, y no habrá más maldición.",
+        "Daniel 12:4-10: A Daniel se le dice que cierre las palabras y selle el libro hasta el tiempo del fin.",
+        "Deuteronomio 4:1-2: No añadas a la palabra que te mando, y no quites nada de ella."
       ],
       "translationNotes": [
         {
-          "term": "Cielo nuevo y tierra nueva",
-          "original": "Hebrew: שָׁמַיִם חֲדָשִׁים וְאָרֶץ חֲדָשָׁה (šāmayim ḥădāšîm wə-ʾāreṣ ḥădāšāh), Greek: καινὸς οὐρανὸς καὶ καινὴ γῆ (kainòs ouranòs kai kainḕ gē, NT), Aramaic: שמיא חדתא וארעא חדתא (šmayyā ḥadtā w-ʾarʿā ḥadtā)",
-          "note": "Promesa de la renovación plena de la creación por parte de Dios."
+          "term": "El río y el árbol de la vida",
+          "original": "Greek: ξύλον ζωῆς (xylon zoes, tree of life)",
+          "note": "Un río sale del trono por en medio de la calle, con el árbol a los dos lados dando doce cosechas, una por mes, y sus hojas para la sanidad de las naciones (22:1-2). Ezequiel 47:1-12 describe agua que sale de debajo del umbral del templo con árboles en las dos riberas que fructifican cada mes y con hojas para sanidad. El árbol aparece por primera vez en Génesis 2:9 y quedó cerrado en Génesis 3:22-24; aquí la guardia ya no está."
         },
         {
-          "term": "Nueva Jerusalén",
-          "original": "Hebrew: יְרוּשָׁלַ͏ִם חֲדָשָׁה (Yerūšālaim ḥăḏāšāh), Greek: Ἰερουσαλὴμ καινή (Ierousalēm kainē, NT), Aramaic: ירושלם חדתא (Yerušālem ḥaddātā)",
-          "note": "La ciudad santa preparada por Dios como morada de su pueblo para siempre."
+          "term": "No selles las palabras",
+          "original": "Greek: μὴ σφραγίσῃς τοὺς λόγους (me sphragises tous logous)",
+          "note": "A Daniel se le dijo lo contrario: cierra las palabras y sella el libro hasta el tiempo del fin (Daniel 12:4, 9). Sellar un documento lo mantenía cerrado y sin leer hasta el momento debido. La instrucción de 22:10 es que este rollo no se ha de sellar, porque el tiempo está cerca."
         },
         {
-          "term": "Árbol de la vida",
-          "original": "Hebrew: עֵץ הַחַיִּים (ʿēṣ haḥayyīm), Greek: τὸ ξύλον τῆς ζωῆς (to xýlon tēs zōēs, NT), Aramaic: אילנא דחיים (ʾīlanā d-ḥayyīn)",
-          "note": "Árbol que da vida eterna, visto por primera vez en el Edén, restaurado en la nueva Jerusalén."
+          "term": "Añadir y quitar",
+          "original": "Greek: ἐπιθῇ ἐπ' αὐτά (epithe ep' auta, if anyone adds to them)",
+          "note": "La advertencia de 22:18-19 es la misma fórmula que Moisés usa dos veces: no añadas a la palabra y no quites de ella (Deuteronomio 4:2; 12:32). Los tratados y los documentos públicos antiguos llevaban comúnmente una cláusula de esa clase para impedir que los copistas y los funcionarios alteraran el texto. Aquí cierra el libro al que pertenece."
         },
         {
-          "term": "Adoración",
+          "term": "Ven, Señor Jesús",
+          "original": "Greek: ἔρχου κύριε Ἰησοῦ (erchou kyrie Iesou) - Aramaic: מרנא תא (marana tha, our Lord, come)",
+          "note": "La oración de 22:20 se conserva en su forma aramea en Pablo, al final de 1 Corintios, marana tha (1 Corintios 16:22), y la Didaché, un manual eclesiástico antiguo, usa esa misma palabra aramea en una oración de comunión. El arameo era la lengua diaria de Judea, de modo que este es uno de los pocos lugares donde el sonido real de la oración de los primeros creyentes sobrevive en el texto."
+        },
+        {
+          "term": "El lucero resplandeciente de la mañana",
+          "original": "Greek: ὁ ἀστὴρ ὁ λαμπρὸς ὁ πρωϊνός (ho aster ho lampros ho proinos)",
+          "note": "El lucero de la mañana es el planeta Venus, la última luz todavía visible cuando el cielo empieza a clarear, la señal de que la noche se acaba. El oráculo de Balaam dice que saldrá una estrella de Jacob y se levantará un cetro de Israel (Números 24:17), y 2 Pedro 1:19 habla del lucero de la mañana levantándose en sus corazones. En 22:16 Jesús se aplica a sí mismo el título, junto con la raíz y el linaje de David."
+        },
+        {
+          "term": "Servir",
           "original": "Greek: λατρεύω (latreuo)",
-          "note": "Servir o ministrar, especialmente en deber sacerdotal. En Lucas 1:74–75 significa servir a Dios en santidad. En Romanos 12:1, Pablo lo aplica a presentar la vida como sacrificio vivo. También se usa en Filipenses 3:3, Hebreos 9:14 y Apocalipsis 22:3 para mostrar la adoración como servicio y lealtad de por vida."
-        },
-        {
-          "term": "Alfa y Omega",
-          "original": "Greek: τὸ ἄλφα καὶ τὸ ὦ (to álpha kai to ō, NT)",
-          "note": "Primera y última letras griegas; título para Dios y Cristo como principio y fin de todo."
-        },
-        {
-          "term": "Estrella de la mañana",
-          "original": "Hebrew: כּוֹכַב בֹּקֶר (kôḵaḇ bōqer), Greek: ὁ ἀστὴρ ὁ πρωϊνός (ho astēr ho prōinós, NT), Aramaic: כוכבא דצפרא (kôḵbā d-ṣaprā)",
-          "note": "Aquí identificado con Cristo mismo, dador de luz y esperanza eterna."
+          "note": "Latreuo significa servir o ministrar, sobre todo en función sacerdotal, y es la palabra que está detrás del término latría. Lucas 1:74-75 la usa de servir a Dios en santidad todos nuestros días, y Pablo la aplica en Romanos 12:1 a presentar el cuerpo como sacrificio vivo. Apocalipsis 22:3 dice que sus siervos le harán latreuo y verán su rostro, que es lenguaje de templo para el trabajo, no para una postura."
         }
       ],
-      "keyTakeaway": "El ángel muestra a Juan el río de vida, el árbol de vida y el trono de Dios en la ciudad santa, donde los siervos de Dios lo servirán y verán su rostro; Jesús declara que viene pronto y advierte contra añadir o quitar palabras de esta profecía.",
+      "keyTakeaway": "El ángel muestra a Juan el río de la vida, el árbol de la vida y el trono de Dios en la ciudad santa, donde los siervos de Dios le servirán y verán su rostro; Jesús declara que viene pronto y advierte contra añadir o quitar palabras de esta profecía.",
       "headings": [
         {
           "beforeVerse": 5,

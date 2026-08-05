@@ -1,7 +1,7 @@
 {
   "id": "joshua",
   "title": "Josué",
-  "intro": "Josué fue escrito por Josué hijo de Nun, ayudante y sucesor de Moisés, quien compuso el relato de la conquista y el asentamiento de Canaán durante los hechos mismos y poco después, c. 1406-1380 a.C. El propio Josué registra escribir sus palabras en el libro de la Ley de Dios. La tradición judía sostiene que los versículos finales que registran la muerte de Josué a los 110 años fueron añadidos por Eleazar el sumo sacerdote, con la nota sobre la propia muerte de Eleazar añadida por su hijo Finees. Josué nació en Egipto durante el período de esclavitud, procedía de la tribu de Efraín y sirvió como ayudante personal de Moisés desde su juventud (Éxodo 24:13, Números 11:28). Condujo a los ejércitos israelitas contra los amalecitas poco después del Éxodo (Éxodo 17), fue uno de los doce espías que Moisés envió a Canaán y, junto con Caleb, fue uno de los dos únicos miembros de la generación del Éxodo a quienes se les permitió entrar en la Tierra Prometida. El marco histórico es el Bronce Tardío, con el Reino Nuevo de Egipto dominando desde el sur bajo Amenhotep III y sus sucesores, el Imperio hitita en expansión desde el norte, y las ciudades-estado cananeas organizadas como un mosaico de pequeños reinos vagamente conectados a Egipto a través de la correspondencia de Amarna.\n\nJosué es el sexto libro de la Biblia hebrea y el primero de los libros históricos en el orden cristiano del Antiguo Testamento; en el canon judío inicia la sección conocida como los Primeros Profetas (Nevi'im Rishonim). El nombre hebreo Yehoshua significa \"Yahuah es salvación\", el mismo nombre que más tarde llevó en forma abreviada (Yeshua) Jesús de Nazaret. Fragmentos de manuscritos hebreos de Josué se hallaron entre los Rollos del Mar Muerto descubiertos en Qumrán (mediados del siglo XX d.C.), con copias que datan de los siglos II y I a.C.",
+  "intro": "Josué fue escrito por Josué hijo de Nun, ayudante y sucesor de Moisés, que compuso el relato de la conquista y del asentamiento en Canaán durante los sucesos mismos y poco después, hacia 1406-1380 a.C. El propio Josué registra que escribió sus palabras en el libro de la Ley de Dios. La tradición judía sostiene que los versículos finales que registran la muerte de Josué a los 110 años fueron añadidos por el sumo sacerdote Eleazar, con la nota sobre la propia muerte de Eleazar añadida por su hijo Finés. Josué nació en Egipto durante el periodo de la esclavitud, procedía de la tribu de Efraín y sirvió como asistente personal de Moisés desde su juventud (Éxodo 24:13, Números 11:28). Dirigió los ejércitos israelitas contra los amalecitas poco después del Éxodo (Éxodo 17), fue uno de los doce espías que Moisés envió a Canaán y, junto con Caleb, uno de los dos únicos miembros de la generación del Éxodo a los que se permitió entrar en la Tierra Prometida. El escenario histórico es el Bronce Final, con el Reino Nuevo de Egipto dominando desde el sur bajo Amenhotep III y sus sucesores, el Imperio hitita expandiéndose desde el norte, y las ciudades-estado cananeas organizadas como un mosaico de pequeños reinos vagamente ligados a Egipto por la correspondencia de Amarna.\n\nJosué es el sexto libro de la Biblia hebrea y el primero de los libros históricos en el orden del Antiguo Testamento cristiano; en el canon judío abre la sección conocida como los Profetas Anteriores (Nevi'im Rishonim). El nombre hebreo Yehoshua significa \"Yahuah es salvación\", el mismo nombre que llevó después en forma abreviada (Yeshua) Jesús de Nazaret. Fragmentos de manuscritos hebreos de Josué estaban entre los Rollos del Mar Muerto descubiertos en Qumrán (mediados del siglo XX d.C.), con copias que datan de los siglos II y I a.C.",
   "stories": [
     {
       "id": "joshua-1",
@@ -30,36 +30,40 @@
         "Cualquiera que se rebele contra tus palabras o que no obedezca lo que tú ordenes será condenado a muerte. Pero tú, ¡sé fuerte y valiente! (1:18)."
       ],
       "crossRefs": [
-        "Éxodo 14:21–22: Las aguas se abrieron en el Mar Rojo.",
-        "Salmo 114:3: 'El mar vio y huyó; el Jordán se volvió atrás.'",
-        "Josué 4:6–7: Las piedras como señal para las generaciones futuras.",
-        "Éxodo 3:5: 'Quítate las sandalias' en tierra santa.",
-        "Mateo 1:5: Rahab en la genealogía de Cristo.",
-        "Hebreos 11:29–31: El Mar Rojo, el Jordán y la fe de Rahab."
+        "Deuteronomio 31:1-8: Moisés encarga a Josué a la vista de todo Israel que sea fuerte y valiente, porque el SEÑOR va con él.",
+        "Deuteronomio 34:1-12: Moisés contempla la tierra desde el Nebo y muere en Moab, y Josué queda lleno del espíritu de sabiduría.",
+        "Números 32:20-32: Rubén, Gad y la media tribu de Manasés prometen cruzar armados delante de sus hermanos.",
+        "Deuteronomio 11:24-25: Todo lugar que pise la planta de tu pie será tuyo, desde el desierto hasta el Éufrates.",
+        "Salmos 1:1-3: Su deleite está en la ley del SEÑOR, y en su ley medita de día y de noche."
       ],
       "translationNotes": [
         {
-          "term": "El Jordán se detuvo",
-          "original": "Hebrew: וַיַּעַמְדוּ הַמַּיִם (vayya‘amdu hammaim), Greek (LXX): ἔστη τὸ ὕδωρ, Aramaic: קמו מיא (qamu mayya)",
-          "note": "Significa que las aguas 'se levantaron' en un muro, como en el Mar Rojo (3:16)."
+          "term": "Toda la tierra de los hititas",
+          "original": "Hebrew: חִתִּי (Chitti)",
+          "note": "Los hititas gobernaban un imperio desde Anatolia, en lo que hoy es Turquía, y pelearon con Egipto hasta el empate en Cades del Orontes. Durante buena parte del siglo XIX se los conoció por ninguna fuente más que la Biblia. Su capital, Hattusa, en Boghazkoy, en el centro de Turquía, fue excavada a partir de 1906 bajo Hugo Winckler, que halló los archivos reales en cuneiforme, incluida la copia propia del imperio del tratado con Egipto."
         },
         {
-          "term": "Montón",
-          "original": "Hebrew: נֵד אֶחָד (nēd eḥad), Greek (LXX): σωρὸς εἷς, Aramaic: תל חד (tel ḥad)",
-          "note": "Una masa apilada de agua, que hace eco de Éxodo 15:8 (3:16)."
+          "term": "Desde el desierto y el Líbano hasta el Éufrates",
+          "original": "Hebrew: הַיָּם הַגָּדוֹל (ha-yam ha-gadol)",
+          "note": "Los cuatro límites son geografía real. El desierto es el Néguev seco y el Sinaí al sur, el Líbano es la cordillera del norte, el Éufrates es el gran río que baja por Siria al noreste, y el mar Grande es el Mediterráneo al occidente. Génesis 15:18 dio a Abraham ese mismo marco, desde el río de Egipto hasta el Éufrates."
         },
         {
-          "term": "Gilgal",
-          "original": "Hebrew: גִּלְגָּל (Gilgal), Greek: Γαλγάλ (Galgál), Aramaic: גלגל (Gilgal)",
-          "note": "Significa 'rodar'; Dios quitó el oprobio de Egipto con la circuncisión (5:9)."
+          "term": "Meditar en ella de día y de noche",
+          "original": "Hebrew: הָגָה (hagah)",
+          "note": "Hagah es una palabra de sonido. Se usa del león que gruñe sobre su presa (Isaías 31:4) y de la persona que gime como una paloma (Isaías 38:14). En aquel mundo se leía normalmente en voz alta, y por eso ese mismo versículo dice que el libro no se ha de apartar de tu boca. La instrucción es seguir musitándola, no sentarse a pensar en silencio."
         },
         {
-          "term": "Comandante del ejército del SEÑOR",
-          "original": "Hebrew: שַׂר־צְבָא־יְהוָה (sar tseva’ YHWH), Greek (LXX): ἄρχων δυνάμεως Κυρίου, Aramaic: ריש חילו דיהוה (reish ḥaylo d-YHWH)",
-          "note": "Figura de guerrero divino a quien Josué reverencia (5:14)."
+          "term": "Este Libro de la Ley",
+          "original": "Hebrew: סֵפֶר הַתּוֹרָה (sepher ha-torah)",
+          "note": "Un sepher es un rollo. Las hojas de cuero o de papiro se cosían de punta a punta y se enrollaban, se escribían en columnas y se leían desenrollando con una mano mientras se enrollaba con la otra; los libros encuadernados con páginas todavía no existían. Torá significa instrucción o dirección, de una raíz que significa señalar el camino, así que la expresión está más cerca de \"el rollo de la instrucción\" que de un código legal."
+        },
+        {
+          "term": "Los rubenitas, los gaditas y la media tribu de Manasés",
+          "original": "Hebrew: חֲמֻשִׁים (chamushim)",
+          "note": "A estas dos tribus y media Moisés ya les había dado tierra al oriente del Jordán, porque los pastos de allí convenían a sus rebaños, con la condición de que sus hombres de guerra cruzaran armados y se quedaran en campaña hasta que cada una de las demás tribus tuviera su tierra (Números 32:1-33). Los versículos 12 al 15 son Josué haciendo valer ese acuerdo, y Josué 22 es el regreso a casa de ellos. La palabra que aquí se vierte como armados, chamushim, es la misma que se usa de Israel saliendo de Egipto en formación en Éxodo 13:18."
         }
       ],
-      "keyTakeaway": "El SEÑOR comisiona a Josué para guiar a Israel al cruzar el Jordán hacia la tierra prometida, asegurándole su presencia divina y la victoria; Josué ordena al pueblo prepararse para partir y recuerda a las tribus del oriente que deben luchar junto a los demás antes de regresar a su propio territorio.",
+      "keyTakeaway": "El SEÑOR comisiona a Josué para llevar a Israel al otro lado del Jordán, a la tierra prometida, y le asegura su presencia divina y la victoria; Josué manda al pueblo prepararse para partir y recuerda a las tribus del oriente que deben pelear junto a las demás antes de volver a su propio territorio.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -100,36 +104,40 @@
         "«El SEÑOR ha entregado todo el país en nuestras manos. ¡Todos sus habitantes han perdido el ánimo a causa de nosotros!». (2:24)."
       ],
       "crossRefs": [
-        "Éxodo 14:21–22: Las aguas se abrieron en el Mar Rojo.",
-        "Salmo 114:3: 'El mar vio y huyó; el Jordán se volvió atrás.'",
-        "Josué 4:6–7: Las piedras como señal para las generaciones futuras.",
-        "Éxodo 3:5: 'Quítate las sandalias' en tierra santa.",
-        "Mateo 1:5: Rahab en la genealogía de Cristo.",
-        "Hebreos 11:29–31: El Mar Rojo, el Jordán y la fe de Rahab."
+        "Hebreos 11:31: Por la fe Rajab no pereció con los desobedientes, porque había recibido con paz a los espías.",
+        "Santiago 2:25: Rajab fue justificada por las obras cuando recibió a los mensajeros y los despidió por otro camino.",
+        "Mateo 1:5: Rajab aparece nombrada en el linaje de Judá como madre de Booz.",
+        "Éxodo 15:14-16: Los pueblos han oído y tiemblan; el terror y el espanto caen sobre los habitantes de Canaán.",
+        "Deuteronomio 20:16-18: En las ciudades de estas naciones no dejarás con vida a nada que respire."
       ],
       "translationNotes": [
         {
-          "term": "El Jordán se detuvo",
-          "original": "Hebrew: וַיַּעַמְדוּ הַמַּיִם (vayya‘amdu hammaim), Greek (LXX): ἔστη τὸ ὕδωρ, Aramaic: קמו מיא (qamu mayya)",
-          "note": "Significa que las aguas 'se levantaron' en un muro, como en el Mar Rojo (3:16)."
+          "term": "Rajab la prostituta",
+          "original": "Hebrew: אִשָּׁה זוֹנָה (ishah zonah) - Greek: πόρνη (porne)",
+          "note": "El versículo 1 llama a Rajab zonah, la palabra hebrea corriente para una prostituta, y el Nuevo Testamento la conserva, y la llama porne en Hebreos 11:31 y en Santiago 2:25. Su casa estaba pegada a la muralla, en el borde de Jericó, por donde entraban y salían los forasteros y donde dos hombres desconocidos que se alojaran una noche no llamaban la atención. Mateo 1:5 la enumera por su nombre en el linaje que baja hasta David."
         },
         {
-          "term": "Montón",
-          "original": "Hebrew: נֵד אֶחָד (nēd eḥad), Greek (LXX): σωρὸς εἷς, Aramaic: תל חד (tel ḥad)",
-          "note": "Una masa apilada de agua, que hace eco de Éxodo 15:8 (3:16)."
+          "term": "Sitín",
+          "original": "Hebrew: שִׁטִּים (Shittim), acacias",
+          "note": "El campamento del que Josué envía a los espías, en las llanuras de Moab, al oriente del Jordán, frente a Jericó, llamado así por las acacias que crecen en esa tierra seca. Números 33:49 da el nombre completo, Abel Sitín, y sitúa allí el campamento de Israel a lo largo del río. Es también donde Israel se sumó al culto de Baal de Peor con las mujeres moabitas y donde murieron veinticuatro mil en la plaga que siguió (Números 25:1-9)."
         },
         {
-          "term": "Gilgal",
-          "original": "Hebrew: גִּלְגָּל (Gilgal), Greek: Γαλγάλ (Galgál), Aramaic: גלגל (Gilgal)",
-          "note": "Significa 'rodar'; Dios quitó el oprobio de Egipto con la circuncisión (5:9)."
+          "term": "El cordón escarlata",
+          "original": "Hebrew: תִּקְוַת חוּט הַשָּׁנִי (tiqvat chut ha-shani) - תּוֹלַעַת שָׁנִי (tolaat shani)",
+          "note": "Shani es el tinte carmesí, obtenido de los cuerpos secos de un insecto de escama que vive en el quermes; el nombre hebreo más completo, tolaat shani, significa gusano de escarlata. Era caro, y es el mismo hilo rojo que figura en la lista para las cortinas del tabernáculo y para las vestiduras del sumo sacerdote (Éxodo 25:4, 28:5-6). Un cordón de ese color colgado de una ventana seguiría siendo visible después de semanas de asedio, que es lo que exige de él el versículo 18."
         },
         {
-          "term": "Comandante del ejército del SEÑOR",
-          "original": "Hebrew: שַׂר־צְבָא־יְהוָה (sar tseva’ YHWH), Greek (LXX): ἄρχων δυνάμεως Κυρίου, Aramaic: ריש חילו דיהוה (reish ḥaylo d-YHWH)",
-          "note": "Figura de guerrero divino a quien Josué reverencia (5:14)."
+          "term": "Lino en la azotea",
+          "original": "Hebrew: פִּשְׁתֵּי הָעֵץ (pishtei ha-ets), stalks of flax",
+          "note": "El versículo 6 hace que Rajab esconda a los hombres bajo manojos de lino extendidos en la azotea plana. El lino se arrancaba en primavera, se ponía a remojo y luego se secaba al sol antes de poder majar las fibras e hilarlas, y una azotea era el secadero corriente. El cordón escarlata que se le da en el versículo 18 es del mismo oficio: es una mujer con lino y cuerda en casa."
+        },
+        {
+          "term": "Su casa estaba en la muralla",
+          "original": "",
+          "note": "El versículo 15 dice que la casa estaba construida dentro de la muralla de la población, de modo que ella pudo descolgar a los hombres por fuera con una soga desde la ventana. Las poblaciones cananeas eran pequeñas y apretadas, y construir viviendas dentro de la muralla de casamatas era un uso corriente del espacio. Eso además la sitúa al borde de la población en todos los sentidos, y por eso los espías acaban ahí."
         }
       ],
-      "keyTakeaway": "Josué envía dos espías a reconocer Jericó; se esconden en casa de Rahab, quien los protege de los soldados del rey a cambio de que ella y su familia sean perdonadas cuando Israel conquiste la tierra. Los espías informan que los habitantes de Jericó tienen miedo y que el Señor ha entregado la tierra en manos de Israel.",
+      "keyTakeaway": "Josué envía a dos espías a explorar Jericó; se esconden en casa de Rajab, y ella los protege de los soldados del rey a cambio de la promesa de que ella y su familia serán perdonadas cuando Israel conquiste la tierra. Los espías informan de que la gente de Jericó tiene miedo y de que el Señor ha entregado la tierra en manos de Israel.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -163,36 +171,40 @@
         "Por su parte, los sacerdotes que portaban el arca del pacto del SEÑOR permanecieron de pie en tierra seca, en medio del Jordán, mientras todo el pueblo de Israel terminaba de cruzar el río por el cauce totalmente seco. (3:17)."
       ],
       "crossRefs": [
-        "Éxodo 14:21–22: Las aguas se abrieron en el Mar Rojo.",
-        "Salmo 114:3: 'El mar vio y huyó; el Jordán se volvió atrás.'",
-        "Josué 4:6–7: Las piedras como señal para las generaciones futuras.",
-        "Éxodo 3:5: 'Quítate las sandalias' en tierra santa.",
-        "Mateo 1:5: Rahab en la genealogía de Cristo.",
-        "Hebreos 11:29–31: El Mar Rojo, el Jordán y la fe de Rahab."
+        "Éxodo 14:21-22: El SEÑOR hace retroceder el mar e Israel pasa sobre suelo seco, con las aguas como muro a su derecha y a su izquierda.",
+        "Salmos 114:3-5: El mar lo vio y huyó; el Jordán se volvió atrás; ¿qué te pasa, Jordán, que te vuelves atrás?",
+        "Números 4:15: Los coatitas llevan las cosas santas al hombro, y no deben tocarlas, o mueren.",
+        "Deuteronomio 31:7-8: El SEÑOR mismo va delante de ti; no te dejará ni te desamparará, así que no temas.",
+        "2 Reyes 2:8,14: Elías y luego Eliseo golpean el agua del Jordán con el manto enrollado y cruzan sobre suelo seco."
       ],
       "translationNotes": [
         {
           "term": "El Jordán se detuvo",
-          "original": "Hebrew: וַיַּעַמְדוּ הַמַּיִם (vayya‘amdu hammaim), Greek (LXX): ἔστη τὸ ὕδωρ, Aramaic: קמו מיא (qamu mayya)",
-          "note": "Significa que las aguas 'se levantaron' en un muro, como en el Mar Rojo (3:16)."
+          "original": "Hebrew: וַיַּעַמְדוּ הַמַּיִם (vayyaamdu ha-mayim), the waters stood",
+          "note": "El versículo 16 dice que el agua que bajaba se detuvo y se alzó en un solo punto, mientras que el agua que corría hacia el mar Salado quedó cortada por completo. El verbo es amad, estar de pie, la misma estampa que Éxodo 14:22, donde el mar es un muro a la derecha y a la izquierda. El texto no dice que ese año el río viniera bajo; dice que el agua se quedó de pie."
         },
         {
           "term": "Montón",
-          "original": "Hebrew: נֵד אֶחָד (nēd eḥad), Greek (LXX): σωρὸς εἷς, Aramaic: תל חד (tel ḥad)",
-          "note": "Una masa apilada de agua, que hace eco de Éxodo 15:8 (3:16)."
+          "original": "Hebrew: נֵד אֶחָד (ned echad), one heap",
+          "note": "Ned es una palabra rara para el agua apilada que conserva su forma. Éxodo 15:8 la usa del mar Rojo, donde las corrientes quedaron erguidas en un montón, y el Salmo 78:13 la repite. Josué 3:16 echa mano a propósito del vocabulario del cruce anterior."
         },
         {
-          "term": "Gilgal",
-          "original": "Hebrew: גִּלְגָּל (Gilgal), Greek: Γαλγάλ (Galgál), Aramaic: גלגל (Gilgal)",
-          "note": "Significa 'rodar'; Dios quitó el oprobio de Egipto con la circuncisión (5:9)."
+          "term": "Adán, junto a Saretán",
+          "original": "Hebrew: אָדָם (Adam) - צָרְתָן (Tsarethan)",
+          "note": "El versículo 16 no dice solo que el río se detuvo; dice dónde. El agua se quedó quieta mucho más arriba, junto a una población llamada Adán, al lado de Saretán, cerca de la desembocadura del Jaboc. Eso queda a unas dieciocho millas al norte del punto de cruce, frente a Jericó, así que el texto le dice al lector cuánto cauce quedó seco."
         },
         {
-          "term": "Comandante del ejército del SEÑOR",
-          "original": "Hebrew: שַׂר־צְבָא־יְהוָה (sar tseva’ YHWH), Greek (LXX): ἄρχων δυνάμεως Κυρίου, Aramaic: ריש חילו דיהוה (reish ḥaylo d-YHWH)",
-          "note": "Figura de guerrero divino a quien Josué reverencia (5:14)."
+          "term": "El Jordán en crecida",
+          "original": "",
+          "note": "El versículo 15 anota que el Jordán se desborda por todas sus riberas durante toda la siega. La cebada se corta en marzo y abril, que es justo cuando la nieve que se derrite en el monte Hermón baja y llena el río. Israel cruza en la única estación del año en que los vados no sirven y un ejército no tiene manera de pasar."
+        },
+        {
+          "term": "Dos mil codos atrás",
+          "original": "",
+          "note": "El versículo 4 pone al pueblo a unos dos mil codos por detrás del arca, aproximadamente mil yardas, y les dice que no se acerquen a ella. El hueco es práctico además de reverente: todos los de una columna tan larga pueden ver adónde va el arca, ya que ninguno de ellos ha ido nunca por ese camino."
         }
       ],
-      "keyTakeaway": "Josué conduce a Israel desde Sitim hasta el Jordán; los oficiales instruyen al pueblo a seguir el arca del pacto, y Josué les ordena consagrarse. Los sacerdotes que cargan el arca entran al Jordán crecido y el agua deja de fluir, permitiendo que todo Israel cruce en tierra seca mientras los sacerdotes permanecen en el lecho del río.",
+      "keyTakeaway": "Josué lleva a Israel desde Sitín hasta el Jordán; los oficiales instruyen al pueblo a seguir el arca del pacto, y Josué les manda consagrarse. Los sacerdotes que llevan el arca entran en el Jordán crecido y el agua deja de correr, con lo cual todo Israel cruza sobre suelo seco mientras los sacerdotes permanecen en el cauce.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -233,36 +245,35 @@
         "Esto sucedió para que todas las naciones de la tierra supieran que el SEÑOR es poderoso y para que ustedes aprendieran a temerlo para siempre». (4:24)."
       ],
       "crossRefs": [
-        "Éxodo 14:21–22: Las aguas se abrieron en el Mar Rojo.",
-        "Salmo 114:3: 'El mar vio y huyó; el Jordán se volvió atrás.'",
-        "Josué 4:6–7: Las piedras como señal para las generaciones futuras.",
-        "Éxodo 3:5: 'Quítate las sandalias' en tierra santa.",
-        "Mateo 1:5: Rahab en la genealogía de Cristo.",
-        "Hebreos 11:29–31: El Mar Rojo, el Jordán y la fe de Rahab."
+        "Éxodo 12:26-27: Cuando sus hijos pregunten qué significa este rito, dirán: es el sacrificio de la Pascua del SEÑOR.",
+        "Deuteronomio 6:20-25: Cuando tu hijo pregunte el sentido de los testimonios, le dirás que fuimos esclavos del faraón en Egipto.",
+        "Éxodo 13:14-16: Cuando tu hijo pregunte qué significa esto, dirás que el SEÑOR nos sacó de Egipto con mano fuerte.",
+        "Josué 24:26-27: Josué pone una gran piedra bajo la encina como testigo, porque ella ha oído todas las palabras que el SEÑOR habló.",
+        "Génesis 28:18-22: Jacob levanta como columna la piedra sobre la que había dormido, derrama aceite sobre ella y llama al lugar Betel."
       ],
       "translationNotes": [
         {
-          "term": "El Jordán se detuvo",
-          "original": "Hebrew: וַיַּעַמְדוּ הַמַּיִם (vayya‘amdu hammaim), Greek (LXX): ἔστη τὸ ὕδωρ, Aramaic: קמו מיא (qamu mayya)",
-          "note": "Significa que las aguas 'se levantaron' en un muro, como en el Mar Rojo (3:16)."
+          "term": "¿Qué significan estas piedras?",
+          "original": "Hebrew: מָה הָאֲבָנִים הָאֵלֶּה (mah ha-avanim ha-elleh)",
+          "note": "Los versículos 6, 21 y 22 construyen el monumento en torno a una pregunta que hará un niño y aportan la respuesta que se le ha de dar. Ese mismo patrón recorre la ley: Éxodo 12:26 y 13:14 para la Pascua, Deuteronomio 6:20 para los mandamientos. La enseñanza era oral y funcionaba con una pregunta fija y una respuesta fija, así que doce piedras junto al camino son la entrada de una lección, no un adorno."
         },
         {
-          "term": "Montón",
-          "original": "Hebrew: נֵד אֶחָד (nēd eḥad), Greek (LXX): σωρὸς εἷς, Aramaic: תל חד (tel ḥad)",
-          "note": "Una masa apilada de agua, que hace eco de Éxodo 15:8 (3:16)."
+          "term": "El día diez del primer mes",
+          "original": "Hebrew: בֶּעָשׂוֹר לַחֹדֶשׁ הָרִאשׁוֹן (be-asor la-chodesh ha-rishon)",
+          "note": "El versículo 19 fecha el cruce con exactitud. El primer mes es Abib, llamado después Nisán, y cae en marzo o abril, y el día diez de él es el día que Éxodo 12:3 fija para meter en casa el cordero de la Pascua. Cuatro días después, el catorce, Israel celebra la Pascua en Guilgal (5:10)."
         },
         {
-          "term": "Gilgal",
-          "original": "Hebrew: גִּלְגָּל (Gilgal), Greek: Γαλγάλ (Galgál), Aramaic: גלגל (Gilgal)",
-          "note": "Significa 'rodar'; Dios quitó el oprobio de Egipto con la circuncisión (5:9)."
+          "term": "El arca del Testimonio",
+          "original": "Hebrew: אֲרוֹן הָעֵדוּת (aron ha-edut)",
+          "note": "El versículo 16 cambia el nombre de arca del pacto a arca del Testimonio. El edut es el par de tablas de piedra que se pusieron dentro (Éxodo 25:16, 21), así que el cofre toma nombre de su contenido. Era de madera de acacia recubierta de oro, de unos tres pies y tres cuartos de largo por dos y cuarto de ancho y de alto, llevada con varas que nunca se sacaban de sus argollas (Éxodo 25:10-15)."
         },
         {
-          "term": "Comandante del ejército del SEÑOR",
-          "original": "Hebrew: שַׂר־צְבָא־יְהוָה (sar tseva’ YHWH), Greek (LXX): ἄρχων δυνάμεως Κυρίου, Aramaic: ריש חילו דיהוה (reish ḥaylo d-YHWH)",
-          "note": "Figura de guerrero divino a quien Josué reverencia (5:14)."
+          "term": "Suelo seco",
+          "original": "Hebrew: חָרָבָה (charavah) - יַבָּשָׁה (yabbashah)",
+          "note": "Dos palabras hebreas distintas se vierten al castellano como suelo seco, y este relato usa las dos: charavah en 3:17 y yabbashah en 4:22. Éxodo usó ese mismo par en el mar, charavah en 14:21 y yabbashah en 14:22. El versículo 23 saca la comparación en voz alta, y la redacción ya la había hecho."
         }
       ],
-      "keyTakeaway": "Josué ordena a doce hombres tomar piedras del lecho del Jordán como memorial; los sacerdotes permanecen en el río hasta que todo Israel cruza, y luego las aguas vuelven a su nivel de desbordamiento cuando el arca llega a la orilla.",
+      "keyTakeaway": "Josué manda a doce hombres llevar piedras de en medio del Jordán como memorial; los sacerdotes permanecen en el cauce hasta que todo Israel cruza, y entonces las aguas vuelven a su crecida cuando el arca sale a la orilla.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -294,36 +305,40 @@
         "El comandante del ejército del SEÑOR le contestó: ―Quítate las sandalias, porque estás pisando tierra santa. Y Josué obedeció. (5:15)."
       ],
       "crossRefs": [
-        "Éxodo 14:21–22: Las aguas se abrieron en el Mar Rojo.",
-        "Salmo 114:3: 'El mar vio y huyó; el Jordán se volvió atrás.'",
-        "Josué 4:6–7: Las piedras como señal para las generaciones futuras.",
-        "Éxodo 3:5: 'Quítate las sandalias' en tierra santa.",
-        "Mateo 1:5: Rahab en la genealogía de Cristo.",
-        "Hebreos 11:29–31: El Mar Rojo, el Jordán y la fe de Rahab."
+        "Génesis 17:9-14: Todo varón entre ustedes será circuncidado a los ocho días, como señal del pacto.",
+        "Éxodo 12:43-49: Ningún incircunciso puede comer la Pascua, y el extranjero residente debe circuncidarse primero.",
+        "Éxodo 16:35: Israel comió maná cuarenta años, hasta que llegó a la frontera de la tierra de Canaán.",
+        "Números 14:26-35: La generación que salió de Egipto caerá en el desierto, y sus hijos entrarán.",
+        "Éxodo 3:5: Quítate las sandalias de los pies, porque el lugar donde estás es tierra santa."
       ],
       "translationNotes": [
         {
-          "term": "El Jordán se detuvo",
-          "original": "Hebrew: וַיַּעַמְדוּ הַמַּיִם (vayya‘amdu hammaim), Greek (LXX): ἔστη τὸ ὕδωρ, Aramaic: קמו מיא (qamu mayya)",
-          "note": "Significa que las aguas 'se levantaron' en un muro, como en el Mar Rojo (3:16)."
+          "term": "Guilgal",
+          "original": "Hebrew: גִּלְגָּל (Gilgal) - גָּלַל (galal), to roll",
+          "note": "El versículo 9 explica el nombre: hoy he quitado de sobre ustedes el oprobio de Egipto. Guilgal resuena con galal, rodar, y el lugar está en la llanura entre el Jordán y Jericó, en el borde oriental de los campos de Jericó (4:19). Se convierte en el campamento base de Israel para toda la campaña, y sigue siendo lugar de reunión nacional en tiempos de Samuel, donde Saúl es confirmado rey (1 Samuel 11:14-15)."
         },
         {
-          "term": "Montón",
-          "original": "Hebrew: נֵד אֶחָד (nēd eḥad), Greek (LXX): σωρὸς εἷς, Aramaic: תל חד (tel ḥad)",
-          "note": "Una masa apilada de agua, que hace eco de Éxodo 15:8 (3:16)."
+          "term": "Guibeat Haaralot",
+          "original": "Hebrew: גִּבְעַת הָעֲרָלוֹת (Givat ha-Aralot)",
+          "note": "El versículo 3 nombra el lugar, y el nombre dice lo que allí pasó: la colina de los prepucios. Toda una generación nacida en la marcha nunca había sido circuncidada, así que antes de una sola batalla en Canaán el ejército toma la señal del pacto y luego se queda quieto en territorio enemigo hasta que los hombres sanan (versículo 8). Séfora usa la misma clase de cuchillo en Éxodo 4:25."
         },
         {
-          "term": "Gilgal",
-          "original": "Hebrew: גִּלְגָּל (Gilgal), Greek: Γαλγάλ (Galgál), Aramaic: גלגל (Gilgal)",
-          "note": "Significa 'rodar'; Dios quitó el oprobio de Egipto con la circuncisión (5:9)."
+          "term": "Grano tostado",
+          "original": "Hebrew: קָלִי (qali), parched grain",
+          "note": "El versículo 11 hace que Israel coma pan sin levadura y grano tostado del producto de la tierra el día después de la Pascua. Qali es grano fresco tostado al fuego, comida corriente de campo en tiempo de siega; Booz le da un poco a Rut en 2:14, e Isaí manda un efa de él a sus hijos en 1 Samuel 17:17. Levítico 23:14 prohíbe comer pan o grano tostado de la cosecha nueva hasta que se haya presentado la gavilla de las primicias, así que este es el primer alimento lícito de la tierra, y el maná cesa al día siguiente."
+        },
+        {
+          "term": "Cuchillos de pedernal",
+          "original": "Hebrew: חַרְבוֹת צֻרִים (harvot tsurim)",
+          "note": "El versículo 2 hace que Josué haga cuchillos de pedernal, en una época en que Israel tenía bronce y conocía el hierro. El pedernal recién tallado toma un filo más agudo que el metal labrado y puede retocarse limpio para cada uso, y era el instrumento tradicional del rito; Séfora usa uno en Éxodo 4:25. La elección no es atraso sino la vieja práctica retomada tras cuarenta años de abandono."
         },
         {
           "term": "Comandante del ejército del SEÑOR",
-          "original": "Hebrew: שַׂר־צְבָא־יְהוָה (sar tseva’ YHWH), Greek (LXX): ἄρχων δυνάμεως Κυρίου, Aramaic: ריש חילו דיהוה (reish ḥaylo d-YHWH)",
-          "note": "Figura de guerrero divino a quien Josué reverencia (5:14)."
+          "original": "Hebrew: שַׂר־צְבָא־יְהוָה (sar tseva YHWH), prince of the army of the LORD",
+          "note": "Josué hace una pregunta de soldado, ¿eres de los nuestros o de nuestros enemigos?, y no recibe ninguna de las dos respuestas; los ejércitos son del SEÑOR, y la cuestión es de qué lado está Josué. El versículo 15 da entonces el mismo mandato que se le dio a Moisés en la zarza ardiente: quítate las sandalias, porque el lugar donde estás es santo (Éxodo 3:5). Josué cae sobre su rostro y no se le dice que se levante."
         }
       ],
-      "keyTakeaway": "Los reyes amorreos y cananeos escuchan sobre el cruce del Jordán y pierden el ánimo; Josué circuncida a la nueva generación en Gilgal, celebra la Pascua y se encuentra con el comandante del ejército del Señor cerca de Jericó. Israel come del producto de Canaán y el maná cesa.",
+      "keyTakeaway": "Los reyes amorreos y cananeos oyen del cruce de Israel y se les desmaya el corazón; Josué circuncida a la nueva generación en Guilgal, celebra la Pascua y se encuentra con el comandante del ejército del SEÑOR cerca de Jericó. Israel come del producto de Canaán y el maná cesa.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -371,31 +386,40 @@
         "El SEÑOR estuvo con Josué y este se hizo famoso por todo el país. (6:27)."
       ],
       "crossRefs": [
-        "1 Reyes 16:34: Hiel reconstruye Jericó, perdiendo a sus hijos tal como la maldición de Josué profetizó.",
-        "Deuteronomio 7:2: Naciones puestas bajo el anatema.",
-        "Números 5:6–7: Leyes de confesión y restitución, ignoradas por Acán.",
-        "Deuteronomio 21:22–23: Un hombre colgado es maldito; el cuerpo debe ser retirado antes del anochecer.",
-        "Hebreos 11:30–31: La caída de Jericó y la fe de Rahab.",
-        "Oseas 2:15: El valle de Acor se convierte en puerta de esperanza."
+        "Génesis 15:16: Dios dice a Abram que sus descendientes no volverán hasta la cuarta generación, \"porque la maldad de los amorreos aún no ha llegado a su colmo\", que es la razón por la que la tierra se dejó en su sitio hasta ahora.",
+        "Deuteronomio 9:4-5: A Israel se le advierte dos veces en dos versículos que no diga que la tierra es suya por su propia justicia; las razones que se dan son la maldad de estas naciones y la promesa jurada a Abraham, Isaac y Jacob.",
+        "Deuteronomio 20:16-18: El mandato que 6:21 ejecuta, con su razón adjunta en la misma frase: para que no puedan enseñarles a hacer todas las cosas detestables que hacen para sus dioses.",
+        "Hebreos 11:30-31: Las murallas caen por la fe después de siete días, y la línea siguiente tiene a Rajab la prostituta no pereciendo con los desobedientes porque acogió a los espías, cosa que este capítulo registra.",
+        "1 Reyes 16:34: Hiel de Betel reedifica Jericó y pierde a su primogénito y a su hijo menor, exactamente como había dicho el juramento de Josué en 6:26."
       ],
       "translationNotes": [
         {
-          "term": "Herem (destrucción total consagrada)",
-          "original": "Hebrew: חֵרֶם (ḥerem), Greek: ἀνάθεμα (anathema), Aramaic: חרם (ḥerem)",
-          "note": "Anatema total: todo ser vivo es destruido o consagrado al tesoro de Dios; la violación acarreó culpa comunitaria (6:17–18) (7:11)."
+          "term": "Jericó",
+          "original": "Hebrew: יְרִיחוֹ (Yeriho)",
+          "note": "Una población amurallada de oasis en el valle del Jordán, a unos 850 pies bajo el nivel del mar, la población más baja de la tierra, alimentada todo el año por un manantial abundante. Está en la boca del paso que sube hacia el occidente, a la serranía, así que controla el camino desde los vados del Jordán hasta Jerusalén, Hai y Betel. Israel tiene que tomarla primero porque todo el interior queda detrás de ella."
         },
         {
           "term": "Trompeta (cuerno de carnero)",
-          "original": "Hebrew: שׁוֹפָר (shofar), Greek: σάλπιγξ (salpigx), Aramaic: שופרא (shofra)",
-          "note": "Cuerno curvado usado en procesión sagrada y batalla (6:4–5)."
+          "original": "Hebrew: שׁוֹפָר (shofar) - קֶרֶן הַיּוֹבֵל (qeren ha-yovel), horn of the ram",
+          "note": "Un shofar es un cuerno de carnero, ahuecado, calentado y curvado, con un agujero abierto en la punta. No tiene lengüeta ni válvulas y da dos o tres notas, así que no sirve para melodías; es un instrumento de señales. Anuncia la luna nueva y el Día de la Expiación (Levítico 25:9), convoca a la milicia (Jueces 3:27) y sonó en el Sinaí (Éxodo 19:16). Aquí siete sacerdotes llevan siete de ellos delante del arca, una vez al día durante seis días y siete veces el séptimo."
         },
         {
-          "term": "Valle de Acor",
-          "original": "Hebrew: עֵמֶק עָכוֹר (‘Emek ‘Achor), Greek: φάραγξ Αχωρ (pharax Achōr), Aramaic: עמק עכור (‘emeq ‘Achor)",
-          "note": "Significa 'turbación'; nombrado por el pecado y juicio de Acán (7:26)."
+          "term": "Herem (*consagrado al anatema*)",
+          "original": "Hebrew: חֵרֶם (cherem) - Greek (LXX): ἀνάθεμα (anathema)",
+          "note": "Cherem significa poner algo permanentemente fuera del uso ordinario entregándolo a Dios, y los versículos 17 al 19 detallan las dos mitades para Jericó. Los vivos son destruidos; la plata, el oro, el bronce y el hierro son santos al SEÑOR y van a su tesorería. Tomar algo de ello no solo roba la tesorería, sino que hace cherem también al que lo toma, que es la sentencia ejecutada en el capítulo siguiente."
+        },
+        {
+          "term": "La tesorería de la casa del SEÑOR",
+          "original": "Hebrew: אוֹצַר בֵּית־יְהוָה (otsar beit YHWH)",
+          "note": "Los versículos 19 y 24 apartan el metal del fuego y lo ponen en la tesorería. Todavía no había templo, así que la expresión significa el depósito adjunto al tabernáculo y custodiado por los levitas. Números 31:48-54 muestra esa misma práctica después de la campaña contra Madián, donde el oro capturado se pesa y se lleva a la tienda de reunión."
+        },
+        {
+          "term": "Maldito el hombre que reedifique Jericó",
+          "original": "Hebrew: אָרוּר (arur), cursed",
+          "note": "El versículo 26 pone un juramento público sobre quien vuelva a fundar la población: le costará su primogénito poner los cimientos y su hijo menor levantar las puertas. La gente siguió viviendo en el sitio en el intervalo (Jueces 3:13, 2 Samuel 10:5); el juramento va contra volver a fortificarla. 1 Reyes 16:34 registra el desenlace con nombre propio en el reinado de Acab, cuando Hiel de Betel reedificó Jericó y perdió a Abirán su primogénito y a Segub su hijo menor."
         }
       ],
-      "keyTakeaway": "Israel rodea los muros de Jericó una vez al día durante seis días con sacerdotes tocando trompetas, luego siete veces el séptimo día; cuando el pueblo grita al final del último recorrido, los muros se derrumban y destruyen la ciudad, salvando solo a Rahab y su familia.",
+      "keyTakeaway": "Josué hace que Israel rodee las murallas de Jericó una vez al día durante seis días con los sacerdotes tocando las trompetas, y luego siete veces el séptimo día; cuando gritan en la última vuelta, la muralla se derrumba y destruyen la ciudad, y perdonan solo a Rajab y a su casa.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -438,31 +462,40 @@
         "Luego colocaron sobre ellos un gran montón de piedras que sigue en pie hasta el día de hoy. Por eso aquel lugar se llama valle de Acor. Así aplacó el SEÑOR el ardor de su ira. (7:26)."
       ],
       "crossRefs": [
-        "1 Reyes 16:34: Hiel reconstruye Jericó, perdiendo a sus hijos tal como la maldición de Josué profetizó.",
-        "Deuteronomio 7:2: Naciones puestas bajo el anatema.",
-        "Números 5:6–7: Leyes de confesión y restitución, ignoradas por Acán.",
-        "Deuteronomio 21:22–23: Un hombre colgado es maldito; el cuerpo debe ser retirado antes del anochecer.",
-        "Hebreos 11:30–31: La caída de Jericó y la fe de Rahab.",
-        "Oseas 2:15: El valle de Acor se convierte en puerta de esperanza."
+        "Levítico 27:28-29: Lo consagrado al SEÑOR le es santísimo y no puede venderse ni rescatarse.",
+        "Deuteronomio 13:17: Que nada de lo consagrado al anatema se te pegue a la mano, para que el SEÑOR aparte el ardor de su ira.",
+        "Josué 6:17-19: Jericó y todo lo que hay en ella están consagrados, y la plata, el oro, el bronce y el hierro van a la tesorería del SEÑOR.",
+        "1 Crónicas 2:7: Acar, el que turbó a Israel, que faltó a la fidelidad en el asunto de lo consagrado.",
+        "Oseas 2:15: Convertiré el valle de Acor en puerta de esperanza, y allí responderá como en los días de su juventud."
       ],
       "translationNotes": [
         {
-          "term": "Herem (destrucción total consagrada)",
-          "original": "Hebrew: חֵרֶם (ḥerem), Greek: ἀνάθεμα (anathema), Aramaic: חרם (ḥerem)",
-          "note": "Anatema total: todo ser vivo es destruido o consagrado al tesoro de Dios; la violación acarreó culpa comunitaria (6:17–18) (7:11)."
-        },
-        {
-          "term": "Trompeta (cuerno de carnero)",
-          "original": "Hebrew: שׁוֹפָר (shofar), Greek: σάλπιγξ (salpigx), Aramaic: שופרא (shofra)",
-          "note": "Cuerno curvado usado en procesión sagrada y batalla (6:4–5)."
-        },
-        {
           "term": "Valle de Acor",
-          "original": "Hebrew: עֵמֶק עָכוֹר (‘Emek ‘Achor), Greek: φάραγξ Αχωρ (pharax Achōr), Aramaic: עמק עכור (‘emeq ‘Achor)",
-          "note": "Significa 'turbación'; nombrado por el pecado y juicio de Acán (7:26)."
+          "original": "Hebrew: עֵמֶק עָכוֹר (Emeq Achor) - עָכַר (akar), to bring trouble on",
+          "note": "El nombre sale de la sentencia que pronuncia Josué en el versículo 25: nos has traído turbación, así que hoy el SEÑOR te trae turbación a ti. El valle sube desde la llanura del Jordán hacia los montes de Judá y es un punto fijo del límite norte de Judá (15:7). Oseas 2:15 toma ese mismo nombre en sentido contrario y lo llama puerta de esperanza."
+        },
+        {
+          "term": "Lo que tomó Acán",
+          "original": "",
+          "note": "El versículo 21 lo detalla: un manto fino de Sinar, doscientos siclos de plata y una barra de oro de cincuenta siclos de peso. Eso son unas cinco libras de plata y libra y cuarto de oro, más una prenda importada de Mesopotamia. Estaba enterrado bajo el suelo de su tienda, que es donde una casa guardaba cualquier cosa de valor, y en el versículo 23 se desentierra delante de toda la asamblea."
+        },
+        {
+          "term": "Acercados, tribu por tribu",
+          "original": "Hebrew: לָכַד (lakad), to be taken or caught",
+          "note": "Los versículos 16 al 18 estrechan la búsqueda en cuatro pasos: las tribus, luego los clanes de Judá, luego las casas de los zeraítas, luego los hombres de una sola casa. El método es la suerte, el mismo procedimiento que escoge a Saúl en 1 Samuel 10:20-21. Ningún testigo acusa a Acán y nadie lo delata; el proceso lo saca a él y entonces confiesa."
+        },
+        {
+          "term": "Un gran montón de piedras",
+          "original": "Hebrew: גַּל־אֲבָנִים (gal avanim)",
+          "note": "El versículo 26 termina apilando piedras sobre el sitio, y el escritor añade que siguen ahí. Ese mismo hito se levanta sobre el rey de Hai (8:29) y sobre el cuerpo de Absalón en el bosque (2 Samuel 18:17). Es un majano público, hecho para verse desde el camino y para mantener el suceso amarrado al lugar."
+        },
+        {
+          "term": "Rasgó sus vestiduras y se echó polvo en la cabeza",
+          "original": "Hebrew: קָרַע (qara), to tear",
+          "note": "El versículo 6 hace que Josué y los ancianos rasguen sus vestiduras, se postren rostro en tierra delante del arca hasta la tarde y se echen polvo en la cabeza. Rasgar la vestidura era la señal pública corriente de dolor o de horror, y estropeaba una prenda costosa, cosa que formaba parte del sentido; el polvo o la ceniza sobre la cabeza iban con ello (Job 2:12, 2 Samuel 13:19). Es un acto formal realizado ante testigos, no una pérdida de compostura."
         }
       ],
-      "keyTakeaway": "Acán toma botín prohibido de Jericó, lo que provoca la derrota de Israel en Hai; Josué lo identifica mediante el sorteo por tribus, Acán confiesa, y él y su familia son destruidos en el valle de Acor.",
+      "keyTakeaway": "Acán toma botín prohibido de Jericó, lo cual provoca la derrota de Israel en Hai; Josué lo identifica echando suertes por tribus, Acán confiesa, y él y su casa son destruidos en el valle de Acor.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -514,31 +547,40 @@
         "De esta lectura que hizo Josué no se omitió ninguna palabra de lo ordenado por Moisés. Hizo la lectura ante toda la asamblea de los israelitas, incluyendo a las mujeres, los niños y los extranjeros que vivían entre ellos. (8:35)."
       ],
       "crossRefs": [
-        "1 Reyes 16:34: Hiel reconstruye Jericó, perdiendo a sus hijos tal como la maldición de Josué profetizó.",
-        "Deuteronomio 7:2: Naciones puestas bajo el anatema.",
-        "Números 5:6–7: Leyes de confesión y restitución, ignoradas por Acán.",
-        "Deuteronomio 21:22–23: Un hombre colgado es maldito; el cuerpo debe ser retirado antes del anochecer.",
-        "Hebreos 11:30–31: La caída de Jericó y la fe de Rahab.",
-        "Oseas 2:15: El valle de Acor se convierte en puerta de esperanza."
+        "Deuteronomio 27:1-8: Edifica un altar de piedras sin labrar en el monte Ebal y escribe en las piedras todas las palabras de esta ley.",
+        "Deuteronomio 11:29: Pon la bendición en el monte Guerizín y la maldición en el monte Ebal.",
+        "Deuteronomio 31:10-13: Lee esta ley delante de todo Israel para que la oigan: hombres, mujeres, niños y el forastero que esté entre ustedes.",
+        "Éxodo 20:25: Si haces un altar de piedra, no lo edifiques de piedras labradas, porque usar una herramienta sobre él lo profana.",
+        "Deuteronomio 21:22-23: El cuerpo del ahorcado no quedará de noche en el madero, sino que será sepultado ese mismo día."
       ],
       "translationNotes": [
         {
-          "term": "Herem (destrucción total consagrada)",
-          "original": "Hebrew: חֵרֶם (ḥerem), Greek: ἀνάθεμα (anathema), Aramaic: חרם (ḥerem)",
-          "note": "Anatema total: todo ser vivo es destruido o consagrado al tesoro de Dios; la violación acarreó culpa comunitaria (6:17–18) (7:11)."
+          "term": "Hai, la ruina",
+          "original": "Hebrew: הָעַי (ha-Ai), the ruin",
+          "note": "El nombre de la población lleva el artículo definido y significa la ruina, que es en lo que la convierte el versículo 28 para siempre. Está en los montes, a una o dos millas al oriente de Betel, a unas doce millas al norte de Jerusalén, vigilando el camino que sube desde Jericó hasta la loma central. Quien tiene Hai y Betel tiene el paso hacia el interior, y por eso Israel la ataca en segundo lugar."
         },
         {
-          "term": "Trompeta (cuerno de carnero)",
-          "original": "Hebrew: שׁוֹפָר (shofar), Greek: σάλπιγξ (salpigx), Aramaic: שופרא (shofra)",
-          "note": "Cuerno curvado usado en procesión sagrada y batalla (6:4–5)."
+          "term": "La jabalina de combate",
+          "original": "Hebrew: כִּידוֹן (kidon)",
+          "note": "Los versículos 18 y 26 hacen que Josué extienda un kidon hacia Hai y no lo retire hasta que termina el combate. Un kidon es un arma de mano, una jabalina o lanza corta; es el arma que Goliat lleva colgada entre los hombros en 1 Samuel 17:6. Alzada, es una señal visible para los hombres emboscados al otro lado de la población, y la postura corresponde a Moisés alzando la mano en Refidín (Éxodo 17:11-12)."
         },
         {
-          "term": "Valle de Acor",
-          "original": "Hebrew: עֵמֶק עָכוֹר (‘Emek ‘Achor), Greek: φάραγξ Αχωρ (pharax Achōr), Aramaic: עמק עכור (‘emeq ‘Achor)",
-          "note": "Significa 'turbación'; nombrado por el pecado y juicio de Acán (7:26)."
+          "term": "Colgado de un madero hasta la tarde",
+          "original": "Hebrew: תָּלָה (talah), to hang",
+          "note": "El versículo 29 cuelga al rey de Hai de un madero y baja el cuerpo a la puesta del sol. Esta es la exhibición pública de un cadáver después de la ejecución, no el método de dar muerte. Deuteronomio 21:22-23 exige bajar el cuerpo ese mismo día, porque el hombre colgado de un madero está bajo la maldición de Dios y la tierra no debe quedar contaminada; Pablo cita ese versículo en Gálatas 3:13."
+        },
+        {
+          "term": "Un altar de piedras sin labrar",
+          "original": "Hebrew: אֲבָנִים שְׁלֵמוֹת (avanim shelemot), whole stones",
+          "note": "El versículo 31 cita la regla que está obedeciendo: un altar de piedras sin labrar sobre las que no se haya usado herramienta de hierro. Éxodo 20:25 la da y dice que blandir una herramienta sobre la piedra la profana, y Deuteronomio 27:5-6 repite la regla para este mismo altar del Ebal. Lo que se levanta es un montón de piedras de campo, no sillería labrada."
+        },
+        {
+          "term": "Ebal y Guerizín",
+          "original": "Hebrew: הַר עֵיבָל (Har Eival) - הַר גְּרִזִים (Har Gerizim)",
+          "note": "Los dos montes están a uno y otro lado del paso de Siquén, el Ebal al norte a unos 3.084 pies y el Guerizín al sur a unos 2.890. Moisés asignó las maldiciones al Ebal y las bendiciones al Guerizín (Deuteronomio 11:29, 27:11-13), y los versículos 33 al 35 ponen a media nación en cada ladera con el arca en el valle de en medio. Adam Zertal excavó una gran estructura de piedra en el monte Ebal entre 1982 y 1989 y la identificó con este altar."
         }
       ],
-      "keyTakeaway": "Josué tiende una emboscada para atacar Hai, aleja al rey y sus hombres de la ciudad y los destruye por completo; doce mil personas mueren y la ciudad es incendiada. Luego Josué construye un altar en el monte Ebal y lee toda la ley de Moisés ante todo Israel, incluyendo mujeres, niños y extranjeros.",
+      "keyTakeaway": "Josué prepara una emboscada para atacar Hai, atrae al rey y a sus hombres fuera de la ciudad y los destruye por completo; mueren doce mil y la ciudad es incendiada. Luego Josué edifica un altar en el monte Ebal y lee la ley entera de Moisés a todo Israel, incluidos las mujeres, los niños y los extranjeros.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -586,31 +628,40 @@
         "Ese mismo día Josué los hizo leñadores y aguateros de la asamblea israelita, especialmente del altar del SEÑOR que está en el lugar que él mismo eligió. Y así han permanecido hasta el día de hoy. (9:27)."
       ],
       "crossRefs": [
-        "Éxodo 23:32–33: No hacer pactos con las naciones.",
-        "Deuteronomio 20:10–18: Leyes de guerra para ciudades lejanas frente a cercanas.",
-        "Habacuc 3:11: El sol y la luna se detuvieron.",
-        "Josué 10:13: Referencia al Libro de Jaser.",
-        "2 Samuel 21:1–2: Saúl viola posteriormente el pacto con los gabaonitas.",
-        "Sirácida 46:1–6: Josué alabado por sus victorias y la señal cósmica."
+        "Éxodo 23:31-33: No hagas pacto con ellos ni con sus dioses, o te harán pecar contra mí.",
+        "Deuteronomio 7:1-2: No hagas pacto con ellos ni les tengas compasión cuando el SEÑOR te los entregue.",
+        "Deuteronomio 20:10-15: A las ciudades muy lejanas ofréceles primero condiciones de paz, y su gente quedará en trabajo forzado.",
+        "Números 30:2: Si un hombre hace un voto al SEÑOR o jura un juramento, no faltará a su palabra.",
+        "2 Samuel 21:1-9: Saúl quebranta este juramento y mata a gabaonitas, y el hambre en tiempos de David es la cuenta de ello."
       ],
       "translationNotes": [
         {
+          "term": "Gabaón",
+          "original": "Hebrew: גִּבְעוֹן (Givon)",
+          "note": "Una población grande a unas seis millas al noroeste de Jerusalén, en la meseta central, descrita en Josué 10:2 como mayor que Hai y como ciudad real. James Pritchard la excavó en la década de 1950 y sacó a la luz un estanque tallado en la roca de unos treinta y siete pies de ancho y treinta y cinco de hondo con una escalera en espiral, que coincide con el estanque de Gabaón de 2 Samuel 2:13, junto con asas de jarra estampadas con el nombre de la población."
+        },
+        {
+          "term": "Las cuatro poblaciones heveas",
+          "original": "Hebrew: הַחִוִּי (ha-Chivvi), the Hivite",
+          "note": "El versículo 17 las nombra: Gabaón, Cafira, Berot y Quiriat Yearín, todas a pocas millas unas de otras en la meseta al noroeste de Jerusalén. Son una pequeña liga que actúa unida, y por eso una sola delegación puede obligar a las cuatro. Quiriat Yearín es donde estuvo el arca veinte años después de que los filisteos la devolvieran (1 Samuel 7:1-2)."
+        },
+        {
+          "term": "Odres gastados y pan enmohecido",
+          "original": "Hebrew: נֹאדוֹת (nodot), skins",
+          "note": "Los versículos 4, 12 y 13 construyen el disfraz con equipo de viaje corriente. Un odre era una piel entera de cabra, cosida y sellada con brea; se endurece y se raja con el tiempo, y por eso los odres viejos revientan cuando el vino nuevo fermenta en ellos (Mateo 9:17). Odres agrietados, pan seco y desmigajado y sandalias remendadas son lo que deja un camino largo, y son la prueba que Israel acepta en lugar de preguntarle a Dios."
+        },
+        {
+          "term": "Tomaron de sus provisiones",
+          "original": "Hebrew: בְּרִית (berit), covenant",
+          "note": "El versículo 14 dice que los hombres de Israel probaron la comida de los gabaonitas y no consultaron al SEÑOR. Comer juntos era como se cerraba un acuerdo en aquel mundo: Isaac y Abimélec comen y beben y luego juran (Génesis 26:30-31), Jacob y Labán comen pan sobre el majano (Génesis 31:54), y los ancianos de Israel comen y beben delante de Dios en el monte (Éxodo 24:11). La comida compartida es la firma, y por eso el juramento del versículo 15 ya no puede deshacerse después."
+        },
+        {
           "term": "Leñadores y aguadores",
-          "original": "Hebrew: חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם (ḥotvei ʿetsim wə-shoʾăvei mayim)",
-          "note": "Roles de servidumbre del pacto para los gabaonitas (9:27)."
-        },
-        {
-          "term": "Sol, detente",
-          "original": "Hebrew: שֶׁמֶשׁ בְּגִבְעוֹן דֹּם (shemesh be-Giv‘on dom), Greek (LXX): ἥλιε ἐν Γαβαων στάθητι, Aramaic: שמש בגבעון שתוק",
-          "note": "Orden que detuvo el sol; señal divina extraordinaria (10:12)."
-        },
-        {
-          "term": "Herem (anatema)",
-          "original": "Hebrew: חֵרֶם (ḥerem); Greek: ἀνάθεμα (anathema)",
-          "note": "Ciudades y pueblos consagrados a la destrucción por mandato divino (11:11–15)."
+          "original": "",
+          "note": "La sentencia de los versículos 21 al 27 no es esclavitud doméstica sino servicio obligatorio permanente al santuario. Ambos oficios eran la labor diaria más pesada que necesitaba un asentamiento: acarrear leña para el altar y subir agua desde un manantial. Gabaón conserva la vida y su población y pierde su independencia, y sus hombres siguen haciendo ese trabajo siglos después en el segundo templo (Nehemías 3:7, Esdras 2:43-58)."
         }
       ],
-      "keyTakeaway": "Los gabaonitas engañan a Josué con provisiones gastadas y falsas afirmaciones de origen lejano para asegurar un tratado de paz; tres días después, al descubrir que son vecinos, Josué mantiene el juramento pero los convierte en sirvientes permanentes como leñadores y aguadores.",
+      "keyTakeaway": "Los gabaonitas engañan a Josué con provisiones gastadas y falsas afirmaciones de proceder de lejos para conseguir un tratado de paz; tras enterarse tres días después de que son vecinos, Josué mantiene el juramento pero los deja como siervos permanentes, leñadores y aguadores.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -670,31 +721,45 @@
         "Después Josué regresó al campamento de Guilgal junto con todo el ejército israelita. (10:43)."
       ],
       "crossRefs": [
-        "Éxodo 23:32–33: No hacer pactos con las naciones.",
-        "Deuteronomio 20:10–18: Leyes de guerra para ciudades lejanas frente a cercanas.",
-        "Habacuc 3:11: El sol y la luna se detuvieron.",
-        "Josué 10:13: Referencia al Libro de Jaser.",
-        "2 Samuel 21:1–2: Saúl viola posteriormente el pacto con los gabaonitas.",
-        "Sirácida 46:1–6: Josué alabado por sus victorias y la señal cósmica."
+        "Josué 9:15-20: El juramento hecho a Gabaón, que es la razón por la que Israel marcha toda la noche para defender a una población por la que fue engañado.",
+        "Éxodo 14:24-25: El SEÑOR mira al ejército egipcio desde la columna de fuego y de nube y lo llena de pánico.",
+        "Habacuc 3:11: El sol y la luna se detuvieron en su sitio ante la luz de tus saetas al volar.",
+        "2 Samuel 1:18: El lamento de David por Saúl está escrito en el Libro de Jaser, el mismo registro que se cita en el versículo 13.",
+        "Deuteronomio 21:22-23: Un cuerpo colgado no debe quedar de noche en el madero, sino ser sepultado ese mismo día, como hace el versículo 27."
       ],
       "translationNotes": [
         {
-          "term": "Leñadores y aguadores",
-          "original": "Hebrew: חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם (ḥotvei ʿetsim wə-shoʾăvei mayim)",
-          "note": "Roles de servidumbre del pacto para los gabaonitas (9:27)."
+          "term": "Los cinco reyes amorreos",
+          "original": "Hebrew: אֲדֹנִי־צֶדֶק (Adoni-tsedeq), my lord is righteousness",
+          "note": "El versículo 3 enumera la coalición por ciudades: Jerusalén, Hebrón, Jarmut, Laquis y Eglón. Esas son las poblaciones de la serranía del sur y de las estribaciones que hay debajo, y entre todas dominan cada camino que entra a Judá desde la costa. El nombre del rey de Jerusalén está formado igual que el de Melquisedec, rey de Salén, en Génesis 14:18."
+        },
+        {
+          "term": "Grandes piedras de granizo",
+          "original": "Hebrew: אַבְנֵי בָרָד (avnei barad), stones of hail",
+          "note": "El versículo 11 cuenta a los muertos por separado: fueron más los que murieron por el granizo que los que Israel mató a espada, y el granizo cae sobre ellos mientras huyen por la bajada de Bet Horón. Las tormentas que entran desde el Mediterráneo sí producen granizo en ese país, aunque rara vez de esta magnitud. El texto nombra a quién lo envió y deja la cuenta en pie."
+        },
+        {
+          "term": "El Libro de Jaser",
+          "original": "Hebrew: סֵפֶר הַיָּשָׁר (sefer ha-yashar), the book of the upright",
+          "note": "El versículo 13 cita las líneas del sol y la luna de un libro llamado Jaser, lo cual significa que los primeros lectores ya tenían una colección de poesía guerrera israelita con la que podían cotejarlas. Ese mismo libro se cita una vez más, para el lamento de David por Saúl y Jonatán, en 2 Samuel 1:18. No se ha conservado; la Escritura está citando una fuente como lo haría cualquier escritor."
         },
         {
           "term": "Sol, detente",
-          "original": "Hebrew: שֶׁמֶשׁ בְּגִבְעוֹן דֹּם (shemesh be-Giv‘on dom), Greek (LXX): ἥλιε ἐν Γαβαων στάθητι, Aramaic: שמש בגבעון שתוק",
-          "note": "Orden que detuvo el sol; señal divina extraordinaria (10:12)."
+          "original": "Hebrew: שֶׁמֶשׁ בְּגִבְעוֹן דּוֹם (shemesh be-Givon dom)",
+          "note": "El verbo dom significa quédate quieto, o calla. Josué se dirige al sol sobre Gabaón y a la luna sobre el valle de Ayalón, los dos en el cielo a la vez, y el versículo 13 informa de que el sol se detuvo en medio del cielo y no se apresuró a ponerse durante casi un día entero. El versículo 14 declara con toda llaneza que no ha habido día como aquel ni antes ni después, así que el relato lo presenta como algo irrepetido y no como algo corriente."
         },
         {
-          "term": "Herem (anatema)",
-          "original": "Hebrew: חֵרֶם (ḥerem); Greek: ἀνάθεμα (anathema)",
-          "note": "Ciudades y pueblos consagrados a la destrucción por mandato divino (11:11–15)."
+          "term": "Los pies sobre los cuellos de los reyes",
+          "original": "Hebrew: צַוָּאר (tsavvar), neck",
+          "note": "El versículo 24 hace que los comandantes pongan los pies sobre los cuellos de los cinco reyes capturados. Es un acto formal de sujeción con un sentido fijo, no un insulto improvisado ese día; los relieves de los palacios egipcios y asirios muestran a los vencidos en esa misma postura, y el Salmo 110:1 lo convierte en figura al hacer de los enemigos un estrado. Los reyes son ejecutados después, colgados hasta la tarde y sellados en la cueva donde se habían escondido."
+        },
+        {
+          "term": "La cuesta de Bet Horón",
+          "original": "Hebrew: בֵּית חוֹרוֹן (Beit Horon)",
+          "note": "Los versículos 10 y 11 persiguen a los cinco reyes por la bajada de Bet Horón, el camino principal desde la loma central hasta el valle de Ayalón y la llanura costera. Bet Horón la de arriba y la de abajo guardan los dos extremos de una subida empinada y angosta, y por eso los ejércitos pelearon por ella desde los días de Josué hasta los macabeos. Un ejército sorprendido estirado en esa bajada no tiene espacio para darse la vuelta y pelear."
         }
       ],
-      "keyTakeaway": "Cinco reyes amorreos se unen contra Gabaón; Josué marcha desde Gilgal, los derrota con ayuda divina que incluye granizo y luz del día extendida, luego ejecuta a los cinco reyes y destruye sistemáticamente Maceda, Libna, Laquis, Eglón, Hebrón y Debir.",
+      "keyTakeaway": "Cinco reyes amorreos se unen contra Gabaón; Josué marcha desde Guilgal, los derrota con ayuda divina, entre ella granizo y una luz del día prolongada, y luego ejecuta a los cinco reyes y destruye sistemáticamente Maquedá, Libná, Laquis, Eglón, Hebrón y Debir.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -734,31 +799,40 @@
         "Así logró Josué conquistar toda aquella tierra, conforme a la orden que el SEÑOR le había dado a Moisés, y se la entregó como herencia al pueblo de Israel, según la distribución tribal. Por fin, aquella región descansó de las guerras. (11:23)."
       ],
       "crossRefs": [
-        "Éxodo 23:32–33: No hacer pactos con las naciones.",
-        "Deuteronomio 20:10–18: Leyes de guerra para ciudades lejanas frente a cercanas.",
-        "Habacuc 3:11: El sol y la luna se detuvieron.",
-        "Josué 10:13: Referencia al Libro de Jaser.",
-        "2 Samuel 21:1–2: Saúl viola posteriormente el pacto con los gabaonitas.",
-        "Sirácida 46:1–6: Josué alabado por sus victorias y la señal cósmica."
+        "Génesis 15:16: La tierra se deja en paz durante cuatro generaciones \"porque la maldad de los amorreos aún no ha llegado a su colmo\", la razón declarada de que esta campaña ocurra ahora y no antes.",
+        "Deuteronomio 9:4-5: No por tu justicia, dice Moisés, sino por la maldad de estas naciones y para cumplir la promesa jurada a Abraham, Isaac y Jacob.",
+        "Deuteronomio 20:16-18: El mandato que, según 11:12, Josué estaba ejecutando, dado allí con la razón adjunta: para que no puedan enseñarles a hacer todas las cosas detestables que hacen para sus dioses.",
+        "Deuteronomio 7:1-2: Se nombran las siete naciones y se da la orden de consagrarlas al anatema, que es lo que 11:15 dice que Josué no dejó sin cumplir.",
+        "Jueces 4:1-3: Un Jabín posterior de Jazor, con novecientos carros de hierro, oprime a Israel veinte años, en la ciudad que 11:10-11 quemó hasta los cimientos."
       ],
       "translationNotes": [
         {
-          "term": "Leñadores y aguadores",
-          "original": "Hebrew: חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם (ḥotvei ʿetsim wə-shoʾăvei mayim)",
-          "note": "Roles de servidumbre del pacto para los gabaonitas (9:27)."
+          "term": "Las aguas de Merón",
+          "original": "Hebrew: מֵי מֵרוֹם (Me Merom)",
+          "note": "Los versículos 5 y 7 ponen a toda la coalición del norte en un solo campamento en las aguas de Merón, en las tierras altas de Galilea al noroeste del mar de Galilea. Es uno de los pocos lugares de ese terreno quebrado con espacio para reunir caballos y carros en cantidad. El versículo 7 dice que Josué y todo su ejército cayeron allí sobre ellos de repente."
         },
         {
-          "term": "Sol, detente",
-          "original": "Hebrew: שֶׁמֶשׁ בְּגִבְעוֹן דֹּם (shemesh be-Giv‘on dom), Greek (LXX): ἥλιε ἐν Γαβαων στάθητι, Aramaic: שמש בגבעון שתוק",
-          "note": "Orden que detuvo el sol; señal divina extraordinaria (10:12)."
+          "term": "Jazor",
+          "original": "Hebrew: חָצוֹר (Hatsor)",
+          "note": "El versículo 10 llama a Jazor la cabeza de todos aquellos reinos, y el yacimiento lo confirma: Tel Jazor, en la alta Galilea, es el montículo antiguo más grande de Israel, unos doscientos acres con una ciudadela alta y una ciudad baja amurallada, situado sobre la ruta comercial de Egipto a Mesopotamia. Yigael Yadin lo excavó de 1955 a 1958 y halló un estrato de destrucción violenta con adobe quemado y estatuaria hecha pedazos. El versículo 11 dice que Josué quemó Jazor con fuego, y solo Jazor."
         },
         {
-          "term": "Herem (anatema)",
-          "original": "Hebrew: חֵרֶם (ḥerem); Greek: ἀνάθεμα (anathema)",
-          "note": "Ciudades y pueblos consagrados a la destrucción por mandato divino (11:11–15)."
+          "term": "Desjarretaron sus caballos",
+          "original": "Hebrew: עָקַר (aqar)",
+          "note": "Los versículos 6 y 9 hacen que Israel deje inútiles los caballos capturados cortándoles el tendón del corvejón y que queme los carros en vez de conservarlos. Los carros eran el arma dominante de la coalición y lo único que Israel podría haberse quedado. La orden retira esa tecnología del campo en su lugar, que es la misma política que Deuteronomio 17:16 fija para los futuros reyes de Israel."
+        },
+        {
+          "term": "Herem (*anatema*)",
+          "original": "Hebrew: חֵרֶם (cherem)",
+          "note": "Los versículos 11 al 15 muestran que el anatema no era una regla uniforme aplicada igual en todas partes. Solo Jazor es quemada. Las demás poblaciones que seguían en pie sobre sus montículos quedan en pie (versículo 13), y el versículo 14 dice que Israel se quedó con el ganado y los bienes de esas ciudades como botín. El relato insiste en que Josué no dejó sin cumplir nada de lo que Moisés mandó, y lo que Moisés mandó era así de concreto sobre qué se quema y qué se conserva."
+        },
+        {
+          "term": "Los anaquitas",
+          "original": "Hebrew: עֲנָקִים (Anaqim)",
+          "note": "Los versículos 21 y 22 eliminan a los anaquitas de Hebrón, de Debir y de Anab, en la serranía. Son los clanes de gran estatura de los que informaron los doce en Números 13:28 y 33, y Deuteronomio 9:2 cita el dicho sobre ellos: ¿quién puede sostenerse ante los hijos de Anac? El versículo 22 registra adónde fueron los sobrevivientes, a Gaza, Gat y Asdod, que es la población de la que viene Goliat de Gat en 1 Samuel 17."
         }
       ],
-      "keyTakeaway": "Jabín de Hazor reúne a varios reyes del norte y sus ejércitos contra Israel; Josué los derrota en las aguas de Merom, luego destruye Hazor y captura todas las ciudades reales, eliminando a sus reyes y poblaciones según el mandato del Señor. Josué conquista toda la región desde el monte Halac hasta Baal Gad, destruye a los anaceos y distribuye la tierra entre las tribus de Israel.",
+      "keyTakeaway": "Jabín de Jazor reúne a varios reyes del norte y a sus ejércitos contra Israel; Josué los derrota en las aguas de Merón, luego destruye Jazor y captura todas las ciudades reales, y elimina a sus reyes y a sus poblaciones como el Señor había mandado. Josué conquista toda la región desde el monte Jalac hasta Baal Gad, destruye a los anaquitas y reparte la tierra entre las tribus de Israel.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -803,31 +877,40 @@
         "y el rey de Tirsá. Eran treinta y un reyes en total. (12:24)."
       ],
       "crossRefs": [
-        "Éxodo 23:32–33: No hacer pactos con las naciones.",
-        "Deuteronomio 20:10–18: Leyes de guerra para ciudades lejanas frente a cercanas.",
-        "Habacuc 3:11: El sol y la luna se detuvieron.",
-        "Josué 10:13: Referencia al Libro de Jaser.",
-        "2 Samuel 21:1–2: Saúl viola posteriormente el pacto con los gabaonitas.",
-        "Sirácida 46:1–6: Josué alabado por sus victorias y la señal cósmica."
+        "Números 21:21-35: Sijón rey de Hesbón y Og rey de Basán niegan el paso a Israel, y su tierra les es tomada.",
+        "Deuteronomio 2:24-3:11: Esos mismos dos reyes, con la nota de que la cama de hierro de Og medía nueve codos de largo.",
+        "Deuteronomio 3:8-17: El territorio tomado a los dos reyes amorreos, desde la garganta del Arnón hasta el monte Hermón.",
+        "Josué 13:1-7: Todavía queda mucha tierra por poseer, expuesto inmediatamente después de este registro de victorias.",
+        "Salmos 135:10-12: Abatió a muchas naciones y mató a reyes poderosos, a Sijón y a Og, y dio su tierra en heredad."
       ],
       "translationNotes": [
         {
-          "term": "Leñadores y aguadores",
-          "original": "Hebrew: חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם (ḥotvei ʿetsim wə-shoʾăvei mayim)",
-          "note": "Roles de servidumbre del pacto para los gabaonitas (9:27)."
+          "term": "Treinta y un reyes",
+          "original": "Hebrew: מֶלֶךְ (melek), king",
+          "note": "El versículo 24 suma la lista en treinta y uno. Un rey cananeo gobernaba una población amurallada con sus campos y sus aldeas, no un país; la tierra era un mosaico de ciudades-estado, cada una con su propio gobernante y sus propias querellas. Cerca de cuatrocientas tablillas de arcilla halladas en Tell el-Amarna, en Egipto, en 1887, cartas escritas al faraón en el siglo XIV a.C., proceden de gobernantes exactamente de esa clase en Jerusalén, Guézer, Laquis, Meguido y Siquén."
         },
         {
-          "term": "Sol, detente",
-          "original": "Hebrew: שֶׁמֶשׁ בְּגִבְעוֹן דֹּם (shemesh be-Giv‘on dom), Greek (LXX): ἥλιε ἐν Γαβαων στάθητι, Aramaic: שמש בגבעון שתוק",
-          "note": "Orden que detuvo el sol; señal divina extraordinaria (10:12)."
+          "term": "El Arnón y el monte Hermón",
+          "original": "Hebrew: אַרְנוֹן (Arnon) - חֶרְמוֹן (Chermon)",
+          "note": "El versículo 1 fija las conquistas del oriente entre dos hitos. El Arnón es una garganta de más de mil pies de profundidad que corre hacia el occidente hasta el mar Muerto, el límite norte de Moab, y un ejército tiene que bajar a ella y volver a subir para cruzarla. El Hermón, en el extremo norte, se alza a 9.232 pies, conserva nieve casi todo el año, y su deshielo alimenta los manantiales que llegan a ser el Jordán."
         },
         {
-          "term": "Herem (anatema)",
-          "original": "Hebrew: חֵרֶם (ḥerem); Greek: ἀνάθεμα (anathema)",
-          "note": "Ciudades y pueblos consagrados a la destrucción por mandato divino (11:11–15)."
+          "term": "Og y los refaítas",
+          "original": "Hebrew: רְפָאִים (Refaim)",
+          "note": "El versículo 4 llama a Og uno del resto de los refaítas y pone sus dos capitales en Astarot y Edrey, en Basán, la meseta cerealista alta al oriente del mar de Galilea. Refaítas es el término para los pueblos de gran estatura que ocupaban la tierra antes de Israel; Deuteronomio 2:10-11 y 20-21 dicen que los moabitas los llamaban emitas y los amonitas zomzomeos. Deuteronomio 3:11 aporta la única medida que se da en ninguna parte: la cama de hierro de Og medía nueve codos por cuatro, unos trece pies y medio por seis."
+        },
+        {
+          "term": "El mar de Quinéret y el mar Salado",
+          "original": "Hebrew: כִּנֶּרֶת (Kinneret) - יָם הַמֶּלַח (Yam ha-Melach)",
+          "note": "Dos lagos sobre el mismo río, y el texto usa los dos para marcar límites. Quinéret es el lago de agua dulce llamado después mar de Galilea, de unas trece millas de largo por ocho de ancho, con la superficie a unos 700 pies bajo el nivel del mar. El mar Salado es el mar Muerto, en el fondo de esa misma falla, a más de 1.300 pies bajo el nivel del mar, aproximadamente diez veces más salado que el océano, sin desagüe y sin peces."
+        },
+        {
+          "term": "Meguido y Taanac",
+          "original": "Hebrew: מְגִדּוֹ (Megiddo) - תַּעְנָךְ (Taanach) - Greek: Ἁρμαγεδών (Harmagedon)",
+          "note": "El versículo 21 enumera dos poblaciones a unas cinco millas una de otra que guardan los pasos por la cordillera del Carmelo, donde el camino principal de Egipto a Damasco sale a presión de los montes hacia la llanura de Jezreel. Quien tiene Meguido tiene ese camino, y por eso los ejércitos pelearon por ella durante tres mil años; el faraón Tutmosis III la tomó hacia 1457 a.C. e hizo tallar el relato en los muros del templo de Karnak. Apocalipsis 16:16 llama al lugar de reunión Armagedón, que es la forma griega de Har Meguido, el monte de Meguido."
         }
       ],
-      "keyTakeaway": "Josué enumera los reyes derrotados al este del Jordán bajo el mando de Moisés, Sijón y Og, y luego cataloga treinta y un reyes derrotados al oeste del Jordán bajo su propio mando, con sus territorios distribuidos entre las tribus israelitas.",
+      "keyTakeaway": "Josué enumera a los reyes derrotados al oriente del Jordán bajo Moisés, Sijón y Og, y luego cataloga a treinta y un reyes derrotados al occidente del Jordán bajo su propio mando, con sus territorios repartidos entre las tribus israelitas.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -881,32 +964,40 @@
         "Sin embargo, a la tribu de Leví Moisés no le dio tierras por herencia, porque el SEÑOR, Dios de Israel, es su herencia, tal como él se lo había prometido. (13:33)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Números 32:1-42: Rubén, Gad y la media tribu de Manasés piden a Moisés los pastos al oriente del Jordán.",
+        "Deuteronomio 3:12-17: Moisés asigna la tierra desde Aroer, junto al Arnón, hasta el valle del Jordán y el mar del Arabá.",
+        "Números 18:20-24: A Aarón se le dice que no tendrá heredad en la tierra de ellos, porque el SEÑOR es su porción.",
+        "Números 31:8: Balaam hijo de Beor muere a espada entre los reyes de Madián, como recuerda el versículo 22.",
+        "Jueces 3:1-4: Las naciones que quedaron en el país, y la razón por la que se las dejó allí."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "term": "Heredad",
+          "original": "Hebrew: נַחֲלָה (nachalah) - Greek (LXX): κληρονομία (kleronomia)",
+          "note": "Una nachalah es una posesión familiar transmitida de generación en generación, no una compra ni un salario. La tierra se tiene del SEÑOR, que dice en Levítico 25:23 que la tierra es suya e Israel son arrendatarios en ella, y no se supone que salga de la familia. Los versículos 14 y 33 hacen de Leví la excepción dos veces: en el 14 las ofrendas de alimento son la heredad de Leví, y en el 33 lo es el SEÑOR mismo. La tribu que sirve en el altar no posee terreno alguno."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "Los cinco jefes filisteos",
+          "original": "Hebrew: סְרָנִים (seranim), singular סֶרֶן (seren)",
+          "note": "El versículo 3 enumera las ciudades filisteas como Gaza, Asdod, Ascalón, Gat y Ecrón, alineadas a lo largo y por detrás de la llanura costera, desde el borde de Egipto hasta las estribaciones de Judá. La Escritura usa una palabra especial para sus gobernantes, seren, y no la usa para nadie más, nunca para un rey israelita o cananeo. Los cinco actuaban como consejo y decidían juntos, y por eso los cinco toman una sola resolución sobre el arca capturada en 1 Samuel 5:8 y 6:16."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "La meseta de Medeba",
+          "original": "Hebrew: מִישׁוֹר (mishor), the level tableland",
+          "note": "Los versículos 9, 16 y 17 no dejan de llamar al país de Rubén el mishor, la meseta llana que corre al norte desde el Arnón: alta, abierta y buena para el grano y el pasto. Por eso mismo Rubén y Gad se la pidieron a Moisés en lugar de cruzar el río (Números 32:1-5). Moab recuperó después buena parte de ella, y la inscripción del rey Mesá de Moab, tallada hacia 840 a.C. y hallada en Dibán, Jordania, en 1868, nombra Medeba, Atarot, Nebo y Yahaza entre las poblaciones que dice haber retomado de Israel."
+        },
+        {
+          "term": "Bamot Baal y Bet Peor",
+          "original": "Hebrew: בָּמוֹת בַּעַל (Bamoth Baal), high places of Baal - בַּעַל פְּעוֹר (Baal Peor)",
+          "note": "Los versículos 17 y 20 entregan a Rubén poblaciones cuyos nombres son nombres de lugares de culto cananeo. Una bamah es un lugar alto, una plataforma al aire libre con un altar sobre un cerro o una loma, así que Bamot Baal significa los lugares altos de Baal. Bet Peor es la casa de Peor, y Baal de Peor es el dios a cuyo culto se sumó Israel precisamente en esta tierra, a un costo de veinticuatro mil muertos (Números 25:1-9). Moisés está sepultado en el valle frente a él (Deuteronomio 34:6)."
+        },
+        {
+          "term": "Balaam el adivino",
+          "original": "Hebrew: הַקּוֹסֵם (ha-qosem), the one who practises divination",
+          "note": "El versículo 22 identifica a Balaam hijo de Beor por su oficio: era un adivino profesional, un hombre contratado para leer presagios y pronunciar bendiciones y maldiciones (Números 22:7). Una inscripción sobre revoque hallada en Tell Deir Alla, Jordania, en 1967 abre con los dichos de Balaam hijo de Beor, vidente de los dioses, lo cual pone su nombre en un texto de la región ajeno a la Escritura."
         }
       ],
-      "keyTakeaway": "Dios le dice al anciano Josué que queda mucha tierra por conquistar y detalla los territorios que aún faltan; el capítulo registra luego la herencia que Moisés había dado a Rubén, Gad y la media tribu de Manasés al oriente del Jordán, y señala que Leví no recibió herencia de tierra porque las ofrendas al SEÑOR son su porción.",
+      "keyTakeaway": "Dios dice a Josué, ya anciano, que queda mucha tierra sin conquistar y detalla los territorios que faltan por tomar; el capítulo registra después la heredad que Moisés ya había dado a Rubén, a Gad y a la media tribu de Manasés al oriente del Jordán, y anota que Leví no recibió heredad de tierra, ya que las ofrendas del SEÑOR son suyas.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -942,32 +1033,40 @@
         "Hebrón se llamaba originalmente Quiriat Arbá, porque Arbá fue un importante antepasado de los anaquitas. Después de todo esto el país se vio libre de guerras. (14:15)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Números 13:30: Caleb calla al pueblo delante de Moisés y dice: subamos ahora mismo y tomémosla, porque bien podemos.",
+        "Números 14:20-24: A Caleb, porque tuvo un espíritu distinto y siguió a Dios plenamente, se lo hará entrar en la tierra.",
+        "Deuteronomio 1:34-36: Ninguno de esta generación verá la tierra salvo Caleb, que tendrá el suelo que pisó.",
+        "Josué 15:13-14: Caleb expulsa de Hebrón a los tres hijos de Anac y toma la población para sí.",
+        "Números 34:16-29: Eleazar, Josué y un jefe de cada tribu son designados para repartir la tierra como heredad."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "term": "Eleazar el sacerdote",
+          "original": "Hebrew: אֶלְעָזָר (Elazar)",
+          "note": "El versículo 1 nombra a tres partes que reparten juntas la tierra: Eleazar el sacerdote, Josué el comandante y los jefes de las familias tribales. Eleazar era el tercer hijo de Aarón y asumió el cargo de su padre cuando Aarón murió en el monte Hor (Números 20:25-28). El sacerdote está presente porque el reparto se resuelve por suertes delante del SEÑOR (versículo 2), no negociando entre tribus."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "Cades Barnea",
+          "original": "Hebrew: קָדֵשׁ בַּרְנֵעַ (Qadesh Barnea)",
+          "note": "Los versículos 6 y 7 no dejan de señalar hacia Cades Barnea, un oasis al borde del desierto de Zin, a unas cincuenta millas al suroeste de Berseba. Israel acampó allí, los doce fueron enviados desde allí a explorar la tierra y allí trajeron de vuelta su informe (Números 13:26), y allí fue sentenciada a morir en el desierto la generación que se negó a subir (Números 14:20-35). Todo lo que Caleb reclama en este capítulo data de ese lugar."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "Cuarenta y cinco años, y unos siete años de campaña",
+          "original": "",
+          "note": "Los versículos 7 y 10 dan números firmes: Caleb tenía cuarenta años en Cades Barnea y ahora tiene ochenta y cinco, así que han pasado cuarenta y cinco años. Deuteronomio 2:14 da cuenta de treinta y ocho de ellos, entre Cades Barnea y el cruce del Zered. Quedan aproximadamente siete años entre el cruce del Jordán y esta conversación, y es la única medida que da la Escritura de cuánto duraron las campañas de los capítulos 6 al 12."
+        },
+        {
+          "term": "Quiriat Arbá, esto es, Hebrón",
+          "original": "Hebrew: קִרְיַת אַרְבַּע (Qiryat Arba)",
+          "note": "El versículo 15 da el nombre más antiguo de la población y dice que Arbá fue el hombre más grande entre los anaquitas. Hebrón está a unos 3.000 pies de altura en la serranía del sur, a unas diecinueve millas al sur de Jerusalén, la población más alta de Judá. Abraham compró allí la cueva de Macpela por cuatrocientos siclos de plata como sepultura (Génesis 23:16-20), y David reinó allí siete años antes de tomar Jerusalén (2 Samuel 5:5)."
+        },
+        {
+          "term": "Caleb el quenizita",
+          "original": "Hebrew: הַקְּנִזִּי (ha-Qenizzi)",
+          "note": "Los versículos 6 y 14 llaman a Caleb el quenizita. Quenaz aparece en el linaje de Esaú como jefe de Edom (Génesis 36:11,15), así que el clan de Caleb entró en Israel desde fuera y se lo contó dentro de la tribu de Judá (Números 13:6). El hombre que recibe la primera y la mejor porción de la tierra es un hombre cuya familia se sumó a Israel en vez de descender directamente de Jacob."
         }
       ],
-      "keyTakeaway": "Eleazar, Josué y los líderes tribales reparten la tierra de Canaán entre las nueve tribus y media mediante sorteo, mientras los levitas reciben ciudades en lugar de territorio; Caleb se acerca a Josué y reclama Hebrón como su herencia, recordándole la promesa de Dios hecha cuarenta y cinco años antes, y Josué se la concede.",
+      "keyTakeaway": "Eleazar, Josué y los jefes tribales reparten la tierra de Canaán por sorteo entre las nueve tribus y media, y los levitas reciben poblaciones en lugar de tierra; Caleb se acerca a Josué y reclama Hebrón como heredad suya, recordándole la promesa que Dios hizo cuarenta y cinco años antes, y Josué se la concede.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1051,32 +1150,40 @@
         "Los descendientes de Judá no pudieron expulsar de la ciudad de Jerusalén a los jebuseos, así que hasta el día de hoy estos viven allí junto con los descendientes de Judá. (15:63)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Josué 14:6-15: La reclamación de Caleb sobre Hebrón, concedida por Josué antes de trazar ninguno de los límites tribales.",
+        "Jueces 1:11-15: Otoniel toma Quiriat Séfer, y Acsa pide a su padre los manantiales de arriba y los de abajo.",
+        "Jueces 1:21: Benjamín no expulsó a los jebuseos de Jerusalén, y siguieron viviendo allí juntos.",
+        "2 Samuel 5:6-9: David toma la fortaleza de Sion a los jebuseos y la llama la ciudad de David.",
+        "Génesis 49:8-12: La bendición de Jacob sobre Judá, el cachorro de león, a quien alabarán sus hermanos."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "term": "El Néguev",
+          "original": "Hebrew: נֶגֶב (negev), the dry country",
+          "note": "El versículo 21 comienza la lista de las poblaciones de Judá en el Néguev. La palabra significa tierra reseca, y como ese país queda al sur de Judá esa misma palabra pasó a ser la palabra hebrea corriente para sur. Berseba, en su borde norte, recibe unas ocho pulgadas de lluvia al año, todas en invierno, y más abajo hay menos. Es tierra de pastos con bolsas de grano, y por eso Acsa pide a su padre manantiales en el versículo 19 y no más acres."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "La Sefela",
+          "original": "Hebrew: שְׁפֵלָה (shephelah), the lowland",
+          "note": "El versículo 33 empieza las poblaciones de las estribaciones, y el hebreo es un nombre propio para una franja concreta de colinas bajas de creta entre la loma de Judá y la llanura costera filistea. Los valles la atraviesan de occidente a oriente, y son las puertas de entrada a Judá: el valle de Ayalón (10:12), el valle de Sorec, donde Sansón conoció a Dalila (Jueces 16:4), y el valle de Elá, donde David peleó con Goliat (1 Samuel 17:2). Laquis, Azeca, Soco y Adulán, todas enumeradas en este capítulo, son las poblaciones que vigilan esos valles."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "El valle de Ben Hinón",
+          "original": "Hebrew: גֵּיא בֶן־הִנֹּם (Gei Ben-Hinnom) - Greek: γέεννα (geenna)",
+          "note": "El versículo 8 hace subir el límite de Judá por esta hondonada que corre por los lados sur y oeste de Jerusalén. Allí estaba el Tofet, el lugar donde se quemaba a niños como ofrenda a Moloc; 2 Reyes 23:10 dice que Josías lo contaminó para que nadie pudiera hacer pasar por el fuego a su hijo o a su hija, y Jeremías 7:31 y 32:35 lo nombran otra vez. La forma griega del nombre de ese valle es Gehena, y esa es la palabra que los Evangelios vierten como infierno."
+        },
+        {
+          "term": "Quiriat Séfer, la ciudad del rollo",
+          "original": "Hebrew: קִרְיַת סֵפֶר (Qiryat Sepher)",
+          "note": "El versículo 15 da el nombre más antiguo de Debir, y significa la población del rollo o del escriba; el versículo 49 conserva otra forma de él, Quiriat Saná. Nombres así eran corrientes en Canaán, donde toda población de cierto tamaño llevaba registros escritos en arcilla y en cuero y necesitaba hombres que supieran escribir. Otoniel la toma en el versículo 17 y llega a ser después el primero de los jueces de Israel (Jueces 3:9-11)."
+        },
+        {
+          "term": "Los manantiales de arriba y los de abajo",
+          "original": "Hebrew: גֻּלֹּת עִלִּיּוֹת וְתַחְתִּיּוֹת (gullot illiyot ve-tahtiyot)",
+          "note": "A Acsa se le da tierra en el Néguev, el país seco del sur, e inmediatamente pide también manantiales (versículos 18 y 19). En esa región un campo no vale nada sin derechos de agua, y los manantiales son el regalo de verdad; la tierra era solo el marco a su alrededor. Su petición es una pieza de derecho de propiedad práctico, no un sentimiento."
         }
       ],
-      "keyTakeaway": "Los límites tribales de Judá se detallan desde el Mar Muerto hasta el Mediterráneo, y Josué le concede a Caleb su porción solicitada en Hebrón, donde Caleb expulsa a los anaceos y da a su hija Acsa a Otoniel. El capítulo luego enumera las ciudades de Judá por región: el Neguev, las llanuras occidentales, la zona montañosa y el desierto, concluyendo que los jebuseos permanecieron en Jerusalén a pesar del asentamiento de Judá.",
+      "keyTakeaway": "Se detallan los límites tribales de Judá desde el mar Muerto hasta el Mediterráneo, y Josué concede a Caleb la porción que pidió en Hebrón, donde Caleb expulsa a los anaquitas y da su hija Acsa a Otoniel. El capítulo enumera después las poblaciones de Judá por regiones, el Néguev, las estribaciones occidentales, la serranía y el desierto, y concluye que los jebuseos permanecieron en Jerusalén a pesar del asentamiento de Judá.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1111,32 +1218,35 @@
         "Los efraimitas no expulsaron a los cananeos que vivían en Guézer; les permitieron vivir entre ellos, como sucede hasta el día de hoy, pero los sometieron a la esclavitud. (16:10)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Génesis 48:8-20: Jacob cruza las manos y pone a Efraín, el menor, por delante de Manasés en la bendición.",
+        "Josué 17:14-18: Las tribus de José se quejan de que su porción es demasiado pequeña y se les dice que desmonten la serranía boscosa.",
+        "Jueces 1:29: Efraín no expulsó a los cananeos que vivían en Guézer, y estos permanecieron allí entre ellos.",
+        "1 Reyes 9:16: El faraón captura Guézer, la quema, mata a sus habitantes cananeos y la da como dote a la mujer de Salomón.",
+        "Números 26:28-37: Los clanes de Manasés y de Efraín contados en las llanuras de Moab."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "term": "Betel, esto es, Luz",
+          "original": "Hebrew: בֵּית אֵל (Beth El), house of God - לוּז (Luz)",
+          "note": "El versículo 2 da los dos nombres. Luz era la población cananea; Jacob rebautizó el lugar como Betel, casa de Dios, después de la noche en que durmió allí con una piedra por cabecera (Génesis 28:11-19). Está sobre el camino de la loma, a unas once millas al norte de Jerusalén, en la frontera entre el norte y el sur, y Jeroboán puso allí después uno de sus dos becerros de oro para que los del norte no bajaran a adorar a Jerusalén (1 Reyes 12:28-29)."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "El arroyo de Caná",
+          "original": "Hebrew: נַחַל קָנָה (Nachal Qanah) - נַחַל (nachal), wadi",
+          "note": "El versículo 8 hace bajar el límite de Efraín por este cauce hasta el mar. Nachal, vertido aquí como arroyo, significa un uadi: un cauce de laderas empinadas que lleva un torrente con las lluvias de invierno y es un lecho pedregoso y seco el resto del año. Por eso tantos límites tribales de estos capítulos siguen uno. Un uadi no se desplaza, se puede recorrer de punta a punta y no necesita un mojón que un vecino pudiera mover."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "Trabajo forzado",
+          "original": "Hebrew: מַס (mas), a labour levy",
+          "note": "El versículo 10 dice que a los cananeos de Guézer no se los expulsó sino que se los puso bajo el mas. Eso es una leva de trabajo: una obligación permanente de aportar cuadrillas, pagada en labor y no en plata, y así es como los Estados antiguos sacaban adelante la cantería, el acarreo y la construcción. Salomón puso después a los propios israelitas bajo un mas de treinta mil hombres trabajando por turnos en el Líbano (1 Reyes 5:13-14), y la negativa a aligerarlo es lo que dividió el reino (1 Reyes 12:4-18)."
+        },
+        {
+          "term": "Guézer",
+          "original": "Hebrew: גֶּזֶר (Gezer)",
+          "note": "Una población fortificada sobre una loma que domina el cruce del camino internacional de la costa con el camino que sube al oriente hacia Jerusalén, a unas veinte millas al noroeste de la ciudad. El versículo 10 registra que Efraín nunca la tomó. Una pequeña tablilla de caliza hallada allí en 1908, el calendario de Guézer, enumera el año agrícola mes por mes y está entre las inscripciones hebreas más antiguas que se conocen."
         }
       ],
-      "keyTakeaway": "Los descendientes de José, Manasés y Efraín, reciben sus territorios asignados, con límites detallados para la herencia de Efraín que se extiende desde el Jordán hasta el mar Mediterráneo. Los efraimitas no logran expulsar a los cananeos que viven en Gézer, quienes en cambio quedan como trabajadores forzados entre ellos.",
+      "keyTakeaway": "Los descendientes de José, Manasés y Efraín, reciben su territorio asignado, con límites detallados para la heredad de Efraín, que se extiende desde el Jordán hasta el mar Mediterráneo. Los efraimitas no logran expulsar a los cananeos que viven en Guézer, quienes en cambio quedan como trabajadores forzados entre ellos.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1171,32 +1281,40 @@
         "sino que poseerán la región de los bosques. Limpien esa región y ocúpenla hasta sus límites más lejanos. Y, a pesar de que los cananeos tengan carros de hierro y sean muy fuertes, ustedes los podrán expulsar. (17:18)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Números 27:1-11: Las hijas de Zelofejad piden una heredad, y por medio de ellas se da la ley de la herencia de una hija.",
+        "Números 36:1-12: Esas mismas hijas deben casarse dentro de la tribu de su padre, para que la heredad no pase a otra tribu.",
+        "Jueces 1:27-28: Manasés no expulsa a Bet Seán, a Taanac, a Dor, a Ibleam ni a Meguido con sus aldeas.",
+        "Jueces 4:1-3: Los carros de hierro que retienen la llanura frente a Israel una generación después.",
+        "Deuteronomio 20:1: Cuando salgas a la guerra y veas caballos y carros y un ejército mayor que el tuyo, no les tengas miedo."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "term": "Maquir",
+          "original": "Hebrew: מָכִיר (Machir)",
+          "note": "El versículo 1 nombra a Maquir como primogénito de Manasés y padre de Galaad, y pone su clan al oriente del Jordán, en Galaad y Basán, porque era hombre de guerra. Maquir representa después a la media tribu oriental en otros lugares de la Escritura: el cántico de Débora nombra a los jefes que bajaron de Maquir (Jueces 5:14), y a Mefiboset lo acoge Maquir hijo de Amiel en Lo Debar (2 Samuel 9:4)."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "El valle de Jezreel y su anillo de poblaciones",
+          "original": "Hebrew: עֵמֶק יִזְרְעֶאל (Emeq Yizreel)",
+          "note": "El versículo 11 asigna a Manasés una cadena de poblaciones que luego no puede tomar: Bet Seán, Ibleam, Dor, Endor, Taanac y Meguido. Rodean el valle de Jezreel, la única llanura ancha y plana del norte, por donde corre el camino internacional y donde crece el grano. Israel tiene los montes de arriba y los cananeos tienen el fondo, y ese pulso es el escenario de las guerras de Jueces 4 al 7 y de la última batalla de Saúl (1 Samuel 29 al 31)."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "Carros de hierro",
+          "original": "Hebrew: רֶכֶב בַּרְזֶל (rekev barzel)",
+          "note": "Los versículos 16 y 18 nombran lo que mantiene a Manasés fuera de la llanura. Un carro de esta época era un carruaje ligero de dos ruedas con radios, tirado por una pareja de caballos, que llevaba un conductor y un arquero, con hierro trabajado donde el bastidor y las ruedas soportaban la tensión. En terreno llano y abierto corre más y dispara más lejos que unos hombres a pie; en una ladera o entre matorral no sirve de nada. Sísara despliega novecientos de ellos en Jueces 4:3, y por eso los cananeos conservan los valles mucho después de que Israel tenga las lomas."
+        },
+        {
+          "term": "Desmontar el bosque",
+          "original": "Hebrew: יַעַר (yaar), forest",
+          "note": "La respuesta de Josué en los versículos 15 y 18 es subir a la serranía boscosa y sacarle sitio a hachazos. Entonces las tierras altas centrales tenían bosque de encinas y terebintos, y asentarse allí significaba talar madera, cortar terrazas de piedra en las laderas para retener el suelo, y cavar cisternas y revocarlas porque en la loma hay pocos manantiales. Les está diciendo que hagan trabajo duro, no que peleen."
+        },
+        {
+          "term": "Las hijas de Zelofejad",
+          "original": "",
+          "note": "Los versículos 3 al 6 dan a cinco mujeres una parte de la tierra junto a sus tíos. La propiedad pasaba normalmente de padre a hijo, y el hombre sin hijo varón no dejaba nombre alguno en el mapa; la sentencia de Números 27:1-11 cambió eso, y Números 36 añadió que esas mujeres debían casarse dentro de su propia tribu para que la tierra se quedara donde estaba. Este capítulo es esa sentencia ejecutada delante de Eleazar y de Josué."
         }
       ],
-      "keyTakeaway": "Manasés recibe su herencia tribal, que incluye tierras al este y al oeste del Jordán; las hijas de Zelofehad reciben su herencia entre los parientes varones. Cuando las tribus de José se quejan de que la tierra es insuficiente, Josué les ordena desmontar la zona boscosa de la sierra, asegurándoles que son suficientemente fuertes para expulsar a los cananeos a pesar de sus carros de hierro."
+      "keyTakeaway": "Manasés recibe su heredad tribal, con tierra al oriente y al occidente del Jordán; a las hijas de Zelofejad se les concede su heredad entre los parientes varones. Cuando las tribus de José se quejan de que no tienen tierra suficiente, Josué les dice que desmonten ellos mismos la serranía boscosa y les asegura que son lo bastante fuertes para expulsar a los cananeos a pesar de sus carros de hierro."
     },
     {
       "id": "joshua-18",
@@ -1235,32 +1353,35 @@
         "Zela, Élef, Jebús, llamada también Jerusalén, Guibeá y Quiriat, es decir, catorce ciudades con sus poblaciones. Esta fue la herencia que recibieron los clanes de la tribu de Benjamín. (18:28)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "1 Samuel 1:3,9: Elcaná sube año tras año a adorar a Siló, donde Elí se sentaba en su silla junto al poste de la puerta del templo del SEÑOR.",
+        "Jueces 21:19: La fiesta anual del SEÑOR en Siló, al norte de Betel, al oriente del camino y al sur de Lebona.",
+        "Jeremías 7:12-14: Vayan ahora a mi lugar de Siló, donde hice habitar mi nombre al principio, y vean lo que hice con él.",
+        "Salmos 78:60: Abandonó la morada de Siló, la tienda en la que había habitado entre los hombres.",
+        "Proverbios 16:33: La suerte se echa en el regazo, pero toda decisión suya viene del SEÑOR."
       ],
       "translationNotes": [
         {
           "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "original": "Hebrew: גּוֹרָל (goral) - Greek (LXX): κλῆρος (kleros)",
+          "note": "Los versículos 6, 8 y 10 hacen que Josué eche suertes en Siló en presencia del SEÑOR. Las suertes eran piedras o tiestos marcados que se agitaban en un pliegue de tela o en una vasija hasta que salía uno, y Proverbios 16:33 enuncia el principio que hay detrás de la práctica: la suerte se echa en el regazo, pero toda decisión suya viene del SEÑOR. Ese mismo método encuentra a Acán (7:16-18), escoge a Saúl (1 Samuel 10:20-21), ordena los turnos sacerdotales (1 Crónicas 24:5) y resuelve lo de los dos machos cabríos en el Día de la Expiación (Levítico 16:8). Significa además que ninguna tribu puede acusar a Josué, que era efraimita, de haber trazado las líneas a favor de los suyos."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "Siló",
+          "original": "Hebrew: שִׁלֹה (Shiloh)",
+          "note": "El versículo 1 levanta la tienda de reunión en Siló, en la serranía de Efraín, a unas veinte millas al norte de Jerusalén, y allí se queda durante todo el periodo de los jueces. Aquí es donde Ana oró y donde creció Samuel, y el arca salió de allí y no volvió cuando los filisteos se la llevaron (1 Samuel 4). Jeremías 7:12-14 señala la ruina de Siló como la advertencia permanente de que Dios puede entregar un lugar que una vez nombró suyo."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "Lo pusieron por escrito en un libro",
+          "original": "Hebrew: סֵפֶר (sefer)",
+          "note": "Los versículos 4 al 9 envían a tres hombres de cada tribu a recorrer la tierra restante, escribir un levantamiento de ella población por población y traer el documento de vuelta. La tierra se repartía a partir de una descripción escrita y luego se asignaba por suerte delante del SEÑOR, de modo que ninguna tribu pudiera alegar que la había engañado quien trazó las líneas. Las siete porciones de este capítulo salen de ese levantamiento."
+        },
+        {
+          "term": "Jebús, esto es, Jerusalén",
+          "original": "Hebrew: יְבוּס (Yevus)",
+          "note": "El versículo 28 enumera Jebús entre las poblaciones de Benjamín y anota que es Jerusalén; 15:63 ya ha dicho que Judá no pudo expulsar de ella a los jebuseos. La población estaba sobre un espolón estrecho entre dos barrancos, con el manantial de Guijón a sus pies, que es lo que la hacía defendible y lo que le permitió resistir a lo largo de todo el libro. Siguió siendo jebusea hasta que David la tomó, y entonces no perteneció ni a Judá ni a Benjamín sino al rey (2 Samuel 5:6-9)."
         }
       ],
-      "keyTakeaway": "La asamblea se reúne en Silo; Josué envía a tres hombres de cada una de las siete tribus restantes a explorar y cartografiar la tierra, luego echa suertes para distribuir los territorios, y Benjamín recibe la primera asignación entre Judá y José.",
+      "keyTakeaway": "La asamblea se reúne en Siló; Josué manda a tres hombres de cada una de las siete tribus restantes recorrer y levantar el mapa de la tierra, y luego echa suertes para repartir los territorios, con Benjamín recibiendo el primer lote entre Judá y José.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1328,32 +1449,40 @@
         "De este modo, el sacerdote Eleazar, Josué y los jefes de las tribus de Israel terminaron de dividir los territorios. El sorteo lo realizaron en Siló, en presencia del SEÑOR, a la entrada de la Tienda de reunión. (19:51)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Génesis 49:5-7: Simeón y Leví serán divididos en Jacob y esparcidos en Israel.",
+        "Josué 21:9-16: Las poblaciones para los sacerdotes se toman de Judá y de Simeón, dentro de ese mismo territorio del sur.",
+        "Jueces 1:34: Los amorreos empujan a los de Dan de vuelta a la serranía y no los dejan bajar a la llanura.",
+        "Jueces 18:1-31: Dan envía espías, toma Lais en el extremo norte y le cambia el nombre a la población por Dan.",
+        "Mateo 4:13-16: La tierra de Zabulón y la tierra de Neftalí, Galilea de los gentiles, donde el pueblo vio una gran luz."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "term": "Simeón dentro de Judá",
+          "original": "Hebrew: שִׁמְעוֹן (Shimon)",
+          "note": "Los versículos 1 y 9 no dan a Simeón bloque propio. Sus poblaciones están dentro del territorio meridional de Judá porque la parte de Judá se había trazado demasiado grande, y la tribu queda absorbida poco a poco; para la época de los reyes Simeón casi ha dejado de aparecer como pueblo aparte. Jacob había dicho de Simeón y de Leví que los dividiría en Jacob y los esparciría en Israel (Génesis 49:7), y las dos tribus acaban viviendo dentro de la tierra de otros."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "Gat Jefer",
+          "original": "Hebrew: גַּת הַחֵפֶר (Gath ha-Chepher)",
+          "note": "El versículo 13 pone esta aldea en el límite de Zabulón, en los montes de la baja Galilea, a unas pocas millas al noreste de Nazaret. Es la población natal del profeta Jonás hijo de Amitay, nombrada como tal en 2 Reyes 14:25, donde anuncia que Jeroboán II restaurará la frontera norte de Israel. El hombre enviado a Nínive venía de una aldea de los montes de Galilea."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "El monte Tabor",
+          "original": "Hebrew: תָּבוֹר (Tavor)",
+          "note": "El versículo 22 sitúa el Tabor en el límite de Isacar, en el punto donde se juntan Isacar, Zabulón y Neftalí. Es una cúpula pelada de cerro que se alza unos 1.886 pies directamente desde la llanura llana de Jezreel, empinada por todos lados y visible desde muy lejos. Barac reúne allí a diez mil hombres y baja de él contra los carros de Sísara (Jueces 4:6-14), y en eso consiste toda la táctica: los carros no pueden subirlo ni pueden pelear en la ladera."
+        },
+        {
+          "term": "Dan se traslada al norte, a Lésem",
+          "original": "Hebrew: לֶשֶׁם (Leshem) - לַיִשׁ (Layish)",
+          "note": "Los versículos 40 al 46 dan a Dan un lote pequeño en la llanura costera, apretado entre Judá, Efraín y las poblaciones filisteas de Ecrón y Timná, y el versículo 47 registra que la tribu lo perdió y se fue al norte. Tomaron Lésem a espada y le cambiaron el nombre por Dan, el de su antepasado. Jueces 18 cuenta esa misma migración con detalle y llama Lais a la población; está en el extremo norte del país, sobre el mayor manantial que alimenta el Jordán, y desde entonces la expresión desde Dan hasta Berseba significa la tierra entera."
+        },
+        {
+          "term": "Timnat Sera",
+          "original": "Hebrew: תִּמְנַת סֶרַח (Timnath Serach)",
+          "note": "Los versículos 49 y 50 dan a Josué su porción al final, después de que se haya servido a cada tribu, y él pide una población concreta de la serranía de Efraín en lugar de sacarla por suerte. El versículo 50 dice que tuvo que reedificarla antes de poder vivir en ella. Allí lo sepultan al final del libro (24:30)."
         }
       ],
-      "keyTakeaway": "Las tribus del norte restantes reciben sus territorios asignados: Simeón dentro de los límites de Judá, seguido de Zabulón, Isacar, Aser, Neftalí y Dan, con listas de ciudades y fronteras específicas para cada uno. Luego Josué recibe Timnat Sera en la región montañosa de Efraín, con lo que concluye la división de la tierra supervisada por Eleazar, Josué y los líderes tribales en Siló."
+      "keyTakeaway": "Las tribus restantes del norte reciben sus territorios asignados: Simeón dentro de los límites de Judá, seguido de Zabulón, Isacar, Aser, Neftalí y Dan, con listas de poblaciones y límites detallados para cada uno. Después se da a Josué Timnat Sera, en la serranía de Efraín, con lo que se completa el reparto de la tierra supervisado por Eleazar, Josué y los jefes tribales en Siló."
     },
     {
       "id": "joshua-20",
@@ -1373,32 +1502,40 @@
         "Todo israelita o extranjero residente que hubiera matado accidentalmente a alguien podría huir hacia una de esas ciudades para no morir por mano del vengador del delito de sangre, antes de ser juzgado por la asamblea. (20:9)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Números 35:9-34: La ley completa de las ciudades de refugio, el juicio ante la asamblea y la muerte del sumo sacerdote.",
+        "Deuteronomio 19:1-13: Se apartan tres ciudades con caminos preparados, para que el homicida pueda alcanzar una y vivir.",
+        "Deuteronomio 4:41-43: Moisés aparta Béser, Ramot y Golán al oriente del Jordán antes de morir.",
+        "Éxodo 21:12-14: El que hiera a un hombre de modo que muera será condenado a muerte, pero para el que no acechó se señala un lugar.",
+        "Deuteronomio 19:15-21: Una acusación solo se sostiene sobre dos o tres testigos, y los jueces han de investigar con diligencia."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
-        },
-        {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
-        },
-        {
           "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "original": "Hebrew: עִיר מִקְלָט (ir miqlat), town of asylum",
+          "note": "Seis poblaciones apartadas para que el hombre que matara sin intención pudiera correr a una de ellas y ser juzgado en lugar de ser abatido al borde del camino. La ley que hay detrás es Números 35:9-34 y Deuteronomio 19:1-13, y gradúa la muerte por la intención exactamente como hace el derecho moderno. Un objeto de hierro, una piedra en la mano capaz de matar, un arma de madera, empujar con odio o arrojar algo estando al acecho la hacen asesinato (Números 35:16-21); la ausencia de enemistad, la ausencia de emboscada y no haber visto al hombre la hacen homicidio involuntario (35:22-23). Deuteronomio 19:5 da el caso práctico: la cabeza de un hacha que se sale del mango."
+        },
+        {
+          "term": "El vengador de la sangre",
+          "original": "Hebrew: גֹּאֵל הַדָּם (goel ha-dam), redeemer of blood",
+          "note": "No había fuerza policial ni acusador público. Cuando un hombre era muerto, el deber de perseguir al que lo mató recaía sobre su pariente varón más cercano, el goel, la misma palabra que se usa para el pariente que rescata la tierra familiar o a un familiar vendido por deudas. Números 35:19 dice que el goel ha-dam mismo dará muerte al asesino. Las ciudades de refugio existen porque ese sistema, dejado a su aire, mataba a hombres que no habían asesinado a nadie."
+        },
+        {
+          "term": "Exponer su caso en la puerta",
+          "original": "Hebrew: שַׁעַר (shaar), gate",
+          "note": "El versículo 4 hace que el hombre se detenga a la entrada de la puerta de la ciudad y exponga su caso a oídos de los ancianos antes de que lo acojan. La puerta era el tribunal. Las puertas de las poblaciones se construían como un pasillo amurallado con cámaras y bancos de piedra a cada lado, el único lugar por el que pasaba todo el mundo y donde podían atestiguarse los negocios, y allí se hacían los asuntos legales: Booz resuelve el rescate de Rut en la puerta y sienta allí a diez ancianos (Rut 4:1-2), Deuteronomio 21:19 lleva un caso a los ancianos en la puerta, y Amós 5:15 dice a Israel que establezca la justicia en la puerta."
+        },
+        {
+          "term": "Béser y las otras cinco",
+          "original": "Hebrew: בֶּצֶר (Betser)",
+          "note": "Los versículos 7 y 8 nombran las seis: Cedes de Galilea, Siquén en los montes de Efraín y Hebrón en Judá, del lado occidental; Béser, Ramot de Galaad y Golán de Basán, del oriental. Béser es una población de la meseta abierta de Rubén, al oriente del mar Muerto. Tres a cada lado, repartidas de norte a sur, para que nadie en el país estuviera a más de una jornada dura de un lugar donde pudiera ser juzgado en lugar de abatido al borde del camino."
+        },
+        {
+          "term": "Hasta la muerte del sumo sacerdote",
+          "original": "",
+          "note": "El versículo 6 fija el plazo: el hombre se queda en la ciudad hasta que ha sido juzgado y luego hasta que muere el sumo sacerdote de ese momento, y después puede volver libre a casa (Números 35:25-28). No es una condena de duración fija; termina con una muerte que nada tiene que ver con él. Fuera del límite de la ciudad el vengador todavía podía matarlo lícitamente."
         }
       ],
-      "keyTakeaway": "El Señor ordena a Josué establecer seis ciudades de refugio adonde pueda huir cualquiera que mate a alguien accidentalmente; los israelitas designan Cedes, Siquem y Hebrón al oeste del Jordán, y Beser, Ramot y Golán al este.",
+      "keyTakeaway": "El Señor manda a Josué establecer seis ciudades de refugio donde cualquiera que mate a alguien por accidente pueda huir en busca de protección; los israelitas señalan Cedes, Siquén y Hebrón al occidente del Jordán, y Béser, Ramot y Golán al oriente.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1460,32 +1597,40 @@
         "Y ni una sola de las buenas promesas del SEÑOR a favor de Israel dejó de cumplirse, sino que cada una se cumplió al pie de la letra. (21:45)."
       ],
       "crossRefs": [
-        "Números 32:1–42: Rubén, Gad y la media tribu de Manasés reciben tierra al este del Jordán bajo Moisés.",
-        "Números 35:6–34: Se ordenan cuarenta y ocho ciudades levíticas y las ciudades de refugio.",
-        "Deuteronomio 19:1–13: Leyes para las ciudades de refugio en la tierra.",
-        "Josué 14:6–15: La petición de Caleb y su fortaleza a los 85 años.",
-        "Génesis 49:5–7: Simeón y Leví dispersados, cumplido en su herencia.",
-        "Génesis 49:27: La porción de Benjamín prefigurada.",
-        "Hebreos 4:8: Josué no dio el reposo definitivo; apunta más allá, hacia Cristo."
+        "Números 35:1-8: Den a los levitas poblaciones donde vivir y pastos alrededor de ellas, cuarenta y ocho poblaciones en total.",
+        "Génesis 49:5-7: Simeón y Leví serán divididos en Jacob y esparcidos en Israel.",
+        "Números 18:20-24: El SEÑOR es la porción y la heredad de Leví, y los diezmos de Israel se les dan por su servicio.",
+        "Deuteronomio 18:1-2: Los sacerdotes y toda la tribu de Leví no tendrán porción ni heredad junto con Israel.",
+        "1 Crónicas 6:54-81: La misma lista de poblaciones levíticas, expuesta familia por familia en el registro del Cronista."
       ],
       "translationNotes": [
         {
-          "term": "Suerte",
-          "original": "Hebrew: גּוֹרָל (goral), Greek: κλῆρος (kleros), Aramaic: גורלא (gorlā)",
-          "note": "Asignación determinada al echar suertes bajo la dirección de Dios (18:6–10)."
+          "term": "Coat, Guersón y Merari",
+          "original": "Hebrew: קְהָת (Qehat) - גֵּרְשׁוֹן (Gershon) - מְרָרִי (Merari)",
+          "note": "Los versículos 4 al 7 reparten las poblaciones entre los tres clanes de Leví, llamados así por los tres hijos de Leví. Cada uno había acarreado una parte distinta del tabernáculo en la marcha: Coat el arca y el mobiliario sagrado, al hombro y nunca en carreta (Números 4:4-15, 7:9); Guersón las cortinas, las cubiertas y los cortinajes; Merari los armazones, los travesaños, las columnas y las bases (Números 4:24-33). El linaje de Aarón, los sacerdotes, es una familia dentro de Coat, y los versículos 4 y 10 les dan las poblaciones más cercanas a Jerusalén, en Judá, Simeón y Benjamín."
         },
         {
-          "term": "Herencia",
-          "original": "Hebrew: נַחֲלָה (nachalah), Greek: κληρονομία (kleronomia), Aramaic: נחלָתָא (nachlata)",
-          "note": "Porción asignada de tierra por tribu y clan; la herencia de Leví son las ofrendas, no un territorio (13:14-33)."
+          "term": "Cuarenta y ocho ciudades",
+          "original": "Hebrew: מִגְרָשׁ (migrash), open ground",
+          "note": "El versículo 41 suma las poblaciones de los levitas en cuarenta y ocho, el número que había mandado Números 35:7, y seis de ellas son las ciudades de refugio nombradas en el capítulo anterior. La tribu que no tiene territorio propio queda plantada en cambio dentro del territorio de todas las demás, desde Cedes en el extremo norte hasta las poblaciones del Néguev en el sur. Donde quiera que viviera un hombre había levitas al alcance cuyo trabajo incluía enseñarle la ley (Deuteronomio 33:10)."
         },
         {
-          "term": "Ciudad de refugio",
-          "original": "Hebrew: עִיר מִקְלָט ('ir miqlat), Greek: πόλις καταφυγῆς (polis kataphyges), Aramaic: קרית מקלטא (qiryat miqlata)",
-          "note": "Ciudad designada donde un homicida involuntario podía refugiarse y recibir un juicio justo (20:1–9)."
+          "term": "Anatot",
+          "original": "Hebrew: עֲנָתוֹת (Anathoth)",
+          "note": "El versículo 18 entrega a los descendientes de Aarón esta pequeña población sacerdotal de Benjamín; está a unas tres millas al noreste de Jerusalén. Salomón desterró allí, a sus campos, al sacerdote Abiatar en lugar de ejecutarlo (1 Reyes 2:26). Jeremías era sacerdote de Anatot (Jeremías 1:1), y mientras Jerusalén estaba sitiada compró allí un campo por diecisiete siclos de plata como señal firmada y atestiguada de que la tierra de Judá volvería a valer la pena (Jeremías 32:6-15)."
+        },
+        {
+          "term": "Levita",
+          "original": "Hebrew: לֵוִי (lewi)",
+          "note": "Varón descendiente de Leví (excluida la línea sacerdotal aarónica). Asistía a los sacerdotes en el servicio del templo: música, guardia de las puertas, instrucción del pueblo, preparación de los sacrificios. El sacerdote y el levita que pasan de largo junto al herido en la parábola del buen samaritano (Lucas 10:31-32) hacen más incisivo el señalamiento de Jesús; ambos estaban obligados por su oficio a ayudar."
+        },
+        {
+          "term": "Pastos",
+          "original": "Hebrew: מִגְרָשׁ (migrash)",
+          "note": "Una población levítica venía con terreno abierto alrededor para los animales de las casas, no con tierras de labranza. Números 35:4 mide ese terreno como extendiéndose mil codos desde la muralla, unos 1.500 pies, y 35:5 mide dos mil codos por cada lado. Leví vivía de las ofrendas y de los diezmos, así que las poblaciones daban a la tribu dónde vivir en cada parte de Israel sin darle un territorio propio."
         }
       ],
-      "keyTakeaway": "Los jefes de familia levitas solicitan ciudades y ejidos según lo ordenado por el SEÑOR; Israel distribuye cuarenta y ocho ciudades entre las tribus, con asignaciones específicas para los clanes coatita, gersonita y merarita. El SEÑOR cumple sus promesas al darle a Israel toda la tierra que juró a sus antepasados y traerles descanso de sus enemigos.",
+      "keyTakeaway": "Los jefes de familia levitas piden poblaciones y pastos conforme al mandato del SEÑOR; Israel reparte cuarenta y ocho poblaciones entre las tribus, con asignaciones concretas a los clanes coatita, guersonita y merarita. El SEÑOR cumple sus promesas dando a Israel toda la tierra que juró a sus antepasados y dándoles reposo de sus enemigos.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1540,40 +1685,35 @@
         "Y los de las tribus de Rubén y Gad dieron al altar el nombre de «Testimonio», porque dijeron: «Entre nosotros servirá de testimonio de que el SEÑOR es Dios». (22:34)."
       ],
       "crossRefs": [
-        "Génesis 33:18–20: Jacob compra el terreno en Siquem donde luego se entierran los huesos de José.",
-        "Génesis 50:24–26: José hace jurar a Israel que llevará sus huesos desde Egipto.",
-        "Éxodo 13:19: Moisés lleva los huesos de José desde Egipto.",
-        "Números 32:1–33: Moisés concede tierra al este del Jordán a Rubén, Gad y la media tribu de Manasés.",
-        "Deuteronomio 13:12–18: Ley sobre ciudades idólatras, eco de la preocupación de Israel en Josué 22.",
-        "Josué 24:15: En cuanto a mí y mi casa, serviremos al SEÑOR.",
-        "Josué 24:31: Israel sirvió al SEÑOR todos los días de Josué y de los ancianos que le sobrevivieron.",
-        "Jueces 2:6–7: Continuidad de fidelidad durante los días de los ancianos.",
-        "Hebreos 11:22: La fe de José respecto a sus huesos.",
-        "Hechos 7:15–16: Los huesos de José depositados en Siquem."
+        "Números 32:20-33: Las tribus del oriente prometen cruzar armadas y no volver a casa hasta que Israel tenga su heredad.",
+        "Deuteronomio 12:13-14: No ofrezcas tus holocaustos en cualquier lugar que veas, sino solo en el lugar que el SEÑOR escoja.",
+        "Levítico 17:8-9: Todo el que ofrezca un holocausto y no lo lleve a la entrada de la tienda de reunión será eliminado.",
+        "Números 25:1-9: La plaga de Peor que detuvo Finés, y que él saca a colación contra ellos en el versículo 17.",
+        "Josué 7:1-26: La infidelidad de Acán trae ira sobre toda la congregación, el precedente nombrado en el versículo 20."
       ],
       "translationNotes": [
         {
           "term": "Testigo",
-          "original": "Hebrew: עֵד ('ed), Greek: μαρτύριον (martyrion), Aramaic: סהדא (sahda)",
-          "note": "El nombre del altar; no era para ofrendas sino un testimonio entre el Israel oriental y occidental de que comparten al mismo Dios (22:34)."
+          "original": "Hebrew: עֵד (ed), witness",
+          "note": "El versículo 34 llama al altar Ed, testigo. Bajo la ley un asunto se establece con dos o tres testigos (Deuteronomio 19:15), y donde ninguna persona puede testificar se levanta un objeto para hacerlo: el majano entre Jacob y Labán (Génesis 31:48), la piedra que Josué levanta en Siquén (24:26-27) y este altar. Está construido para señalarlo y argumentar desde él, nunca para sacrificar en él, y en eso consiste toda la defensa de las tribus del oriente en los versículos 26 al 29."
         },
         {
-          "term": "Pacto",
-          "original": "Hebrew: בְּרִית (berit), Greek: διαθήκη (diatheke), Aramaic: קיים (qeyam)",
-          "note": "Acuerdo vinculante; renovado en Siquem con estatutos, escritura y una piedra como testigo (24:25–27)."
+          "term": "El pecado de Peor",
+          "original": "Hebrew: בַּעַל פְּעוֹר (Baal Peor)",
+          "note": "El versículo 17 pregunta si no bastó el pecado de Peor, y da por supuesto que todo oyente sabe cuál fue. Números 25:1-9: Israel, acampado en Sitín, se sumó a mujeres moabitas y madianitas comiendo los sacrificios de su dios y postrándose ante él; estalló una plaga que mató a veinticuatro mil, y cesó cuando Finés atravesó con una lanza a un hombre israelita y a una mujer madianita dentro de la tienda. Finés es el hombre que Israel envía a enfrentar a las tribus del oriente en el versículo 13, y por eso ellos le responden con tanto cuidado."
         },
         {
-          "term": "Adoración",
-          "original": "Hebrew: עָבַד (avad)",
-          "note": "Servir o trabajar, frecuentemente ligado al sacrificio y la obediencia. Adoración como servicio y lealtad, no solo postura (Éxodo 3:12; Éxodo 20:5; Josué 24:15; Jeremías 25:6)."
+          "term": "Falta de fidelidad",
+          "original": "Hebrew: מַעַל (maal)",
+          "note": "La palabra que usa la delegación en los versículos 16, 20, 22 y 31 es maal, no la palabra corriente para pecado. Significa traición contra lo santo: tomar o usar mal algo que pertenece a Dios. Es la acusación que se le hace a Acán en 7:1, y Levítico 5:15 la usa para la ofensa contra las cosas santas. No están acusando a las tribus del oriente de un desliz sino de robar a Dios, y por eso toda la congregación se moviliza para la guerra en el versículo 12."
         },
         {
-          "term": "Piedra como testigo",
-          "original": "Hebrew: אֶבֶן (even), Greek: λίθος (lithos), Aramaic: אבן (even)",
-          "note": "Una gran piedra erigida bajo la encina para testificar contra Israel si abandona a Dios (24:26–27)."
+          "term": "Un solo altar",
+          "original": "Hebrew: מִזְבֵּחַ (mizbeach), altar",
+          "note": "Deuteronomio 12:5-14 limita los holocaustos y los sacrificios al único lugar que el SEÑOR escoja para poner su nombre y prohíbe ofrecerlos donde a uno le plazca. Esa ley es lo que hace que un segundo altar parezca rebelión y no devoción, y es la acusación a la que responden las tribus del oriente en los versículos 26 al 29: la estructura es una copia del altar, construida como testigo, y nunca se ofrecerá nada sobre ella."
         }
       ],
-      "keyTakeaway": "Josué despide a las tribus de Rubén, Gad y la media tribu de Manasés hacia sus tierras al oriente con su bendición; cuando construyen un altar en la orilla del Jordán, los demás israelitas se preparan para la guerra hasta que Finees y otros líderes tribales descubren que el altar es un memorial para afirmar su lealtad al pacto, no para ofrecer sacrificios.",
+      "keyTakeaway": "Josué despide a los rubenitas, a los gaditas y a la media tribu de Manasés a sus tierras del oriente con su bendición; cuando ellos levantan un altar en la frontera del Jordán, los demás israelitas se preparan para la guerra hasta que Finés y los jefes tribales se enteran de que el altar es un memorial para afirmar su lealtad al pacto, y no para sacrificios.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1606,40 +1746,40 @@
         "Si no cumplen con el pacto que el SEÑOR su Dios les ha ordenado, sino que siguen a otros dioses, adorándolos y postrándose ante ellos, tengan por seguro que la ira del SEÑOR se descargará sobre ustedes y que serán borrados de la buena tierra que el SEÑOR les ha entregado». (23:16)."
       ],
       "crossRefs": [
-        "Génesis 33:18–20: Jacob compra el terreno en Siquem donde luego se entierran los huesos de José.",
-        "Génesis 50:24–26: José hace jurar a Israel que llevará sus huesos desde Egipto.",
-        "Éxodo 13:19: Moisés lleva los huesos de José desde Egipto.",
-        "Números 32:1–33: Moisés concede tierra al este del Jordán a Rubén, Gad y la media tribu de Manasés.",
-        "Deuteronomio 13:12–18: Ley sobre ciudades idólatras, eco de la preocupación de Israel en Josué 22.",
-        "Josué 24:15: En cuanto a mí y mi casa, serviremos al SEÑOR.",
-        "Josué 24:31: Israel sirvió al SEÑOR todos los días de Josué y de los ancianos que le sobrevivieron.",
-        "Jueces 2:6–7: Continuidad de fidelidad durante los días de los ancianos.",
-        "Hebreos 11:22: La fe de José respecto a sus huesos.",
-        "Hechos 7:15–16: Los huesos de José depositados en Siquem."
+        "Deuteronomio 7:1-5: No hagas pacto con ellos, no te cases con ellos, y derriba sus altares, sus columnas y sus aserás.",
+        "Éxodo 23:31-33: No habitarán en tu tierra, o te harán pecar contra mí, porque sus dioses te serán una trampa.",
+        "Números 33:55: Los que dejes quedar serán púas en tus ojos y espinas en tus costados, y te causarán problemas en la tierra.",
+        "Jueces 2:1-3: El ángel en Boquín dice que las naciones que quedaron serán espinas en sus costados y sus dioses una trampa, exactamente como se advierte aquí.",
+        "Deuteronomio 28:63: Así como el SEÑOR se complació en hacerles bien, así se complacerá en arruinarlos y en arrancarlos de la tierra."
       ],
       "translationNotes": [
         {
-          "term": "Testigo",
-          "original": "Hebrew: עֵד ('ed), Greek: μαρτύριον (martyrion), Aramaic: סהדא (sahda)",
-          "note": "El nombre del altar; no era para ofrendas sino un testimonio entre el Israel oriental y occidental de que comparten al mismo Dios (22:34)."
+          "term": "Ancianos, jefes, jueces y oficiales",
+          "original": "Hebrew: שֹׁטְרִים (shoterim)",
+          "note": "Se está convocando a cuatro oficios distintos. Los ancianos eran los cabezas de familia que se sentaban en la puerta y resolvían casos; los jefes eran los caudillos tribales y de clan; los jueces zanjaban los pleitos; y los shoterim eran los oficiales de registro que hacían las levas, llevaban las listas y transmitían las órdenes. La palabra aparece por primera vez en Éxodo 5:6-19, donde los shoterim israelitas son los capataces a los que golpean los cuadrilleros egipcios por la cuota de ladrillos."
         },
         {
-          "term": "Pacto",
-          "original": "Hebrew: בְּרִית (berit), Greek: διαθήκη (diatheke), Aramaic: קיים (qeyam)",
-          "note": "Acuerdo vinculante; renovado en Siquem con estatutos, escritura y una piedra como testigo (24:25–27)."
+          "term": "No invoquen los nombres de sus dioses",
+          "original": "Hebrew: בַּעַל (Baal) - Hebrew: אֲשֵׁרָה (Asherah)",
+          "note": "Baal significa señor, y era el dios cananeo de la tormenta al que se tenía por dador de la lluvia de la que dependía la cosecha entera; sus profetas en el Carmelo se sajaban con espadas y lanzas hasta correrles la sangre (1 Reyes 18:28). Asera era una diosa, y la asera que nombra la ley es su objeto de culto, un poste de madera o un árbol vivo plantado junto a un altar (Deuteronomio 16:21); Gedeón taló el de su padre y lo quemó bajo el sacrificio (Jueces 6:25-26). Éxodo 23:13 prohíbe incluso que los nombres de esos dioses se oigan en labios de un israelita."
         },
         {
-          "term": "Adoración",
-          "original": "Hebrew: עָבַד (avad)",
-          "note": "Servir o trabajar, frecuentemente ligado al sacrificio y la obediencia. Adoración como servicio y lealtad, no solo postura (Éxodo 3:12; Éxodo 20:5; Josué 24:15; Jeremías 25:6)."
+          "term": "Uno de ustedes hará huir a mil",
+          "original": "Hebrew: אֶלֶף (eleph)",
+          "note": "Josué está citando cláusulas ya expuestas en la ley. Levítico 26:8 promete que cinco perseguirán a cien y cien perseguirán a diez mil si Israel guarda el pacto, y Deuteronomio 32:30 plantea el caso inverso: ¿cómo podría uno perseguir a mil si su Roca no los hubiera vendido? El versículo 10 enuncia la promesa; los versículos 15 y 16 enuncian la otra mitad."
         },
         {
-          "term": "Piedra como testigo",
-          "original": "Hebrew: אֶבֶן (even), Greek: λίθος (lithos), Aramaic: אבן (even)",
-          "note": "Una gran piedra erigida bajo la encina para testificar contra Israel si abandona a Dios (24:26–27)."
+          "term": "Si se casan con ellos",
+          "original": "Hebrew: כְּמוֹשׁ (Kemosh) - Hebrew: מֹלֶךְ (Molekh)",
+          "note": "Deuteronomio 7:3-4 da la razón declarada de la prohibición: la mujer extranjera desvía al hijo para que sirva a otros dioses. Salomón es el caso práctico. 1 Reyes 11:1-8 enumera lo que sus mujeres metieron dentro: Astarté de los sidonios, Quemós de Moab y Moloc de Amón, con lugares altos construidos para ellos al oriente de Jerusalén. Quemós recibía sacrificio humano, y 2 Reyes 3:27 registra al rey de Moab ofreciendo a su hijo mayor en holocausto sobre la muralla de la ciudad; la Estela Moabita, inscripción de ese mismo rey Mesá de hacia el 840 a.C., atribuye a Quemós sus victorias sobre Israel."
+        },
+        {
+          "term": "Azote en sus costados y espinas en sus ojos",
+          "original": "Hebrew: מוֹקֵשׁ (moqesh) - Hebrew: פַּח (pach)",
+          "note": "Las dos primeras palabras de la lista son aparejo de trampa: un pach es la trampa de pájaros, una red que se cierra de golpe, y un moqesh es la varilla con cebo que la dispara. La advertencia es una cita directa de la sentencia ya dictada en Números 33:55: los que queden en la tierra llegarán a ser púas en sus ojos y espinas en sus costados."
         }
       ],
-      "keyTakeaway": "Josué, ya anciano, reúne a los líderes de Israel y les advierte que obedezcan la ley de Moisés, eviten asociarse con las naciones restantes y permanezcan fieles al SEÑOR; les recuerda que Dios ha cumplido todas sus promesas y que enviará maldiciones si se vuelven a otros dioses.",
+      "keyTakeaway": "Un Josué ya anciano reúne a los jefes de Israel y les advierte que obedezcan la Ley de Moisés, que no se mezclen con las naciones que quedan y que permanezcan fieles al SEÑOR; les recuerda que Dios ha cumplido todas sus promesas y que traerá maldiciones si se vuelven a otros dioses.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1689,40 +1829,45 @@
         "Finalmente, Eleazar, hijo de Aarón, murió y fue sepultado en Guibeá, propiedad de su hijo Finés, en la región montañosa de Efraín. (24:33)."
       ],
       "crossRefs": [
-        "Génesis 33:18–20: Jacob compra el terreno en Siquem donde luego se entierran los huesos de José.",
-        "Génesis 50:24–26: José hace jurar a Israel que llevará sus huesos desde Egipto.",
-        "Éxodo 13:19: Moisés lleva los huesos de José desde Egipto.",
-        "Números 32:1–33: Moisés concede tierra al este del Jordán a Rubén, Gad y la media tribu de Manasés.",
-        "Deuteronomio 13:12–18: Ley sobre ciudades idólatras, eco de la preocupación de Israel en Josué 22.",
-        "Josué 24:15: En cuanto a mí y mi casa, serviremos al SEÑOR.",
-        "Josué 24:31: Israel sirvió al SEÑOR todos los días de Josué y de los ancianos que le sobrevivieron.",
-        "Jueces 2:6–7: Continuidad de fidelidad durante los días de los ancianos.",
-        "Hebreos 11:22: La fe de José respecto a sus huesos.",
-        "Hechos 7:15–16: Los huesos de José depositados en Siquem."
+        "Génesis 12:1-7: El SEÑOR llama a Abram y promete la tierra a su descendencia, la historia con la que empieza el versículo 3.",
+        "Génesis 35:2-4: Jacob dice a su casa que aparten los dioses extranjeros, y los entierra bajo la encina de Siquén.",
+        "Génesis 50:24-26: José hace jurar a los hijos de Israel que llevarán sus huesos fuera de Egipto cuando Dios los visite.",
+        "Éxodo 13:19: Moisés se lleva los huesos de José al salir de Egipto, por el juramento que José les había hecho jurar.",
+        "Génesis 33:18-20: Jacob compra la parcela de terreno en Siquén por cien piezas de dinero y levanta allí un altar."
       ],
       "translationNotes": [
         {
-          "term": "Testigo",
-          "original": "Hebrew: עֵד ('ed), Greek: μαρτύριον (martyrion), Aramaic: סהדא (sahda)",
-          "note": "El nombre del altar; no era para ofrendas sino un testimonio entre el Israel oriental y occidental de que comparten al mismo Dios (22:34)."
-        },
-        {
           "term": "Pacto",
-          "original": "Hebrew: בְּרִית (berit), Greek: διαθήκη (diatheke), Aramaic: קיים (qeyam)",
-          "note": "Acuerdo vinculante; renovado en Siquem con estatutos, escritura y una piedra como testigo (24:25–27)."
+          "original": "Hebrew: בְּרִית (berit) - Greek (LXX): διαθήκη (diatheke)",
+          "note": "Un berit es un acuerdo vinculante con sanciones, jurado en público y puesto por escrito, y este capítulo recorre en orden la forma corriente de uno: quién lo hace y qué ha hecho (versículos 2 al 13), qué se exige (14 y 23), la respuesta de la otra parte (16 al 18, 21 al 24), las cláusulas puestas por escrito (25 y 26) y un testigo levantado (26 y 27). El versículo 25 usa el modismo hebreo corriente: Josué cortó un pacto, expresión que viene de la práctica de partir animales en dos y pasar entre las piezas (Génesis 15:9-18, Jeremías 34:18)."
         },
         {
-          "term": "Adoración",
-          "original": "Hebrew: עָבַד (avad)",
-          "note": "Servir o trabajar, frecuentemente ligado al sacrificio y la obediencia. Adoración como servicio y lealtad, no solo postura (Éxodo 3:12; Éxodo 20:5; Josué 24:15; Jeremías 25:6)."
+          "term": "Adorar",
+          "original": "Hebrew: עָבַד (avad), to serve",
+          "note": "La palabra que recorre los versículos 14 al 24 es avad, servir o trabajar para; se usa del trabajo de un esclavo y del labrador que trabaja la tierra. Josué no pregunta hacia qué dios sienten simpatía, sino de cuál van a recibir órdenes y a quién van a llevar ofrendas, y por eso el versículo 15 ofrece una elección entre tres amos nombrados: los dioses de Mesopotamia, los dioses de Egipto y los dioses de los amorreos. Éxodo 3:12 usa esa misma palabra para Israel sirviendo a Dios en el monte, y Éxodo 20:5 prohíbe servir a las imágenes talladas."
         },
         {
-          "term": "Piedra como testigo",
-          "original": "Hebrew: אֶבֶן (even), Greek: λίθος (lithos), Aramaic: אבן (even)",
-          "note": "Una gran piedra erigida bajo la encina para testificar contra Israel si abandona a Dios (24:26–27)."
+          "term": "Piedra testigo",
+          "original": "Hebrew: אֶבֶן (even), stone",
+          "note": "Los versículos 26 y 27 ponen una gran piedra bajo la encina del santuario, y Josué dice que lo ha oído todo y que testificará contra ellos. Una piedra erguida era la manera corriente de hacer permanente y pública una alianza en un mundo donde casi nadie leía: Jacob y Labán levantan una (Génesis 31:45-52), y Samuel levanta Ebenezer después de Mizpa (1 Samuel 7:12). Es un registro legal que no se puede perder, ni alterar, ni negar que existió."
+        },
+        {
+          "term": "Al otro lado del Río",
+          "original": "Hebrew: עֵבֶר הַנָּהָר (ever ha-nahar)",
+          "note": "Los versículos 2, 14 y 15 hablan de los dioses que sus padres sirvieron al otro lado del Río, es decir, del Éufrates, en Mesopotamia, de donde vino Abraham. Josué nombra tres conjuntos de dioses entre los que Israel podría escoger: los de Mesopotamia, los de Egipto y los de los amorreos en cuya tierra viven ahora. El versículo 2 dice con toda llaneza que Téraj, el propio padre de Abraham, sirvió allí a otros dioses."
+        },
+        {
+          "term": "Los huesos de José",
+          "original": "",
+          "note": "El versículo 32 sepulta a José en Siquén, en la parcela que Jacob había comprado. Génesis 50:26 dice que fue embalsamado y puesto en un ataúd en Egipto, y Éxodo 13:19 hace que Moisés se lleve ese ataúd en el éxodo. El libro se cierra poniéndolo en el suelo que le fue prometido, en un campo que su familia poseía en propiedad plena, después de unos cuatrocientos años por encima de él."
+        },
+        {
+          "term": "Cien piezas de plata",
+          "original": "Hebrew: קְשִׂיטָה (qesitah)",
+          "note": "El versículo 32 dice que Jacob compró la parcela de Siquén por cien quesitas. La palabra aparece tres veces en toda la Biblia: aquí, en Génesis 33:19 para esa misma compra, y en Job 42:11. No se sabe cuánto pesaba ni qué compraba, y los traductores griegos la vertieron como corderos. Lo que el versículo sí establece es que el terreno donde José está sepultado fue comprado y pagado, no tomado."
         }
       ],
-      "keyTakeaway": "Josué reúne a Israel en Siquem, repasa los actos de Dios desde Abraham hasta la conquista y llama al pueblo a elegir entre servir al Señor o a dioses extranjeros; ellos se comprometen a servir al Señor, Josué establece un pacto y una piedra conmemorativa, y luego muere a los ciento diez años.",
+      "keyTakeaway": "Josué reúne a Israel en Siquén, repasa los actos de Dios desde Abraham hasta la conquista, y llama al pueblo a escoger entre servir al SEÑOR o a dioses extranjeros; ellos se comprometen a servir al SEÑOR, Josué establece un pacto y una piedra memorial, y luego muere a los ciento diez años.",
       "headings": [
         {
           "beforeVerse": 1,

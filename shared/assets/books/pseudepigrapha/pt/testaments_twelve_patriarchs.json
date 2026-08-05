@@ -16,23 +16,99 @@
         "Contém padrões Pecado-Exílio-Retorno (PER), especialmente em Levi, Judá, Dã, Naftali, Gade e Benjamim, cada um com confissões, imagens de exílio e esperança de retorno."
       ],
       "crossRefs": [
-        "Gênesis 49: Bênçãos de Jacó sobre seus filhos.",
-        "Josué 23–24: Exortação final à fidelidade de Israel.",
-        "Provérbios 3:11–12: A disciplina do Senhor refina a virtude."
+        "Gênesis 49:1-28: Bênçãos de Jacó sobre seus filhos.",
+        "Gênesis 35:22: Exortação final à fidelidade de Israel.",
+        "Gênesis 34:25-31: A disciplina do Senhor refina a virtude.",
+        "Gênesis 37:18-28: Os irmãos veem José se aproximar, tramam matá-lo, tiram sua roupa e o lançam numa cisterna, depois o vendem por vinte peças de prata a uma caravana que passava. Quase todos estes testamentos voltam a esse ato.",
+        "Gênesis 39:7-12: A mulher de Potifar agarra a roupa de José dia após dia; ele a deixa na mão dela e foge da casa. Essa cena transforma José no modelo apresentado por toda a coleção.",
+        "Deuteronômio 33:1-29: Moisés abençoa as tribos uma por uma antes de morrer, nomeando cada uma e dizendo o que lhe acontecerá. Esse é o segundo modelo sobre o qual estes discursos de despedida foram construídos.",
+        "Deuteronômio 30:1-5: Se Israel for expulso entre as nações e voltar-se para Deus de todo o coração, Deus o reunirá de todos os lugares onde foi disperso e o levará para casa. Esse é o ciclo de pecado, exílio e retorno repetido por estes testamentos.",
+        "Atos dos Apóstolos 20:17-38: Paulo manda chamar os anciãos de Éfeso a Mileto, diz que eles não verão novamente seu rosto, adverte sobre o que virá depois de sua partida e se ajoelha para orar com eles na praia. É um discurso de despedida construído segundo o mesmo plano."
       ],
       "translationNotes": [
         {
           "term": "Testamento",
-          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony'), Greek: διαθήκη (diathḗkē), Aramaic: סָפְרָא (səfrāʾ, 'book')",
-          "note": "Aqui designa um legado no leito de morte ou discurso final destinado a instruir os descendentes, inserindo-se no gênero da literatura testamentária."
+          "original": "Greek: διαθήκη (diatheke)",
+          "note": "A palavra significa uma disposição estabelecida e abrange tanto uma aliança quanto uma vontade final. Neste tipo de literatura, um testamento segue uma forma fixa: o moribundo chama seus filhos, narra um episódio da própria vida, nomeia o pecado que ele revelou ou a virtude que exigiu, insiste nisso diante deles, às vezes acrescenta o que vê no futuro, dá ordens sobre seu sepultamento e morre. Gênesis 49 estabelece o padrão, e Deuteronômio 33 o repete."
         },
         {
-          "term": "Padrão Pecado-Exílio-Retorno (PER)",
-          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense); English: SER motif",
-          "note": "Um padrão literário em textos bíblicos e pseudepígrafos: o pecado leva ao exílio, seguido de restauração ou retorno, usado para enquadrar a história moral e comunitária."
+          "term": "Patriarca",
+          "original": "Greek: πατριάρχης (patriarches)",
+          "note": "Chefe da casa de um pai, o fundador ao qual uma tribo remonta sua origem. Atos 7:8 usa a palavra para os doze filhos de Jacó; Hebreus 7:4, para Abraão. Os doze que falam aqui são Rúben, Simeão, Levi, Judá, Issacar, Zebulom, Dã, Naftali, Gade, Aser, José e Benjamim, nessa ordem."
+        },
+        {
+          "term": "Os dois espíritos",
+          "original": "",
+          "note": "A coleção coloca dois espíritos sobre cada homem, um da verdade e outro do engano, e faz da escolha entre eles o eixo da vida. Deuteronômio 30:15-19 apresenta a mesma escolha como vida e bem contra morte e mal, com a ordem de escolher a vida para que você e seus descendentes vivam. 1 João 4:6 nomeia o espírito da verdade e o espírito do erro com essas palavras."
+        },
+        {
+          "term": "Beliar",
+          "original": "Hebrew: בְּלִיַּעַל (beliya'al) - Greek: Βελιάρ (Beliar)",
+          "note": "O adversário recebe o nome Beliar por toda a coleção, e afastar-se dele é a ordem constante em um discurso após outro. A palavra hebraica significa inutilidade; o Antigo Testamento a usa em expressões fixas para homens sem lei, como em Deuteronômio 13:13, onde são filhos de Belial. 2 Coríntios 6:15 é o único lugar em que o Novo Testamento usa o nome, perguntando que acordo Cristo tem com Belial."
+        },
+        {
+          "term": "Pecado, exílio e retorno",
+          "original": "",
+          "note": "Vários testamentos percorrem o mesmo ciclo: a tribo se afasta, é levada para o meio das nações e depois trazida de volta. Essa é a forma estabelecida por Moisés antes mesmo de Israel entrar na terra. Deuteronômio 30:1-5 apresenta o ciclo inteiro, e Deuteronômio 28 expõe as bênçãos e maldições sobre as quais ele gira. Estes discursos repetem os termos da própria aliança, uma tribo de cada vez."
+        },
+        {
+          "term": "Bila",
+          "original": "",
+          "note": "Serva de Raquel, dada a Jacó e mãe de Dã e Naftali em Gênesis 30:1-8. Gênesis 35:22 relata numa só linha que Rúben se deitou com ela e que Israel soube disso, sem acrescentar mais nada. Em Gênesis 49:3-4, Jacó tira de Rúben a posição de primogênito por causa desse ato. O primeiro destes testamentos constrói uma confissão inteira a partir desse único versículo."
+        },
+        {
+          "term": "Concubina",
+          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh)",
+          "note": "Esposa secundária de posição inferior, cujos filhos ainda pertenciam à casa. Bila e Zilpa foram dadas a Jacó nesses termos; quatro das doze tribos descendem delas em Gênesis 30:1-13. Tomar a concubina de um homem era reivindicar publicamente sua posição. Por isso 2 Samuel 16:21-22 mostra Absalão fazendo isso no terraço diante de todo o Israel."
+        },
+        {
+          "term": "Siquém",
+          "original": "",
+          "note": "Uma cidade na região montanhosa de Efraim, situada na passagem entre o monte Ebal e o monte Gerizim, e um dos lugares mais disputados das Escrituras. Gênesis 34:25-31 mostra Simeão e Levi matando todos os homens da cidade enquanto ainda sentiam dor da circuncisão; Jacó responde que eles o fizeram cheirar mal entre os habitantes da terra. Em Gênesis 49:5-7, ele amaldiçoa a ira deles e os dispersa em Israel."
+        },
+        {
+          "term": "Levi e o sacerdócio",
+          "original": "",
+          "note": "O testamento de Levi é o mais longo da coleção e o mais ocupado com o que há de vir. Números 3:5-10 separa a tribo para servir aos sacerdotes e cuidar do santuário; Números 18:20-24 lhe dá o dízimo no lugar da terra, porque o SENHOR é sua herança. Malaquias 2:4-7 chama isso de aliança de Levi e diz que os lábios do sacerdote devem guardar o conhecimento, pois ele é o mensageiro do SENHOR dos Exércitos."
+        },
+        {
+          "term": "O Documento Aramaico de Levi",
+          "original": "",
+          "note": "Material semítico por trás de uma parte desta coleção foi realmente desenterrado. Cópias de uma obra aramaica sobre Levi foram encontradas em Qumran, nas Cavernas 1 e 4; outros fragmentos da mesma obra surgiram no fim do século XIX na Guenizá do Cairo. Um longo acréscimo grego ao Testamento de Levi num manuscrito do Monte Athos coincide com o mesmo material, e um Testamento de Naftali em hebraico também foi encontrado em Qumran."
+        },
+        {
+          "term": "A Guenizá do Cairo",
+          "original": "Hebrew: גְּנִיזָה (genizah), a storing away",
+          "note": "Guenizá é o depósito de uma sinagoga onde escritos gastos são guardados em vez de destruídos, pois nada que carregue o nome divino pode ser jogado fora. A guenizá da sinagoga Ben Ezra, no Cairo Antigo, havia sido preenchida por cerca de mil anos quando foi aberta no fim do século XIX. Ela continha perto de trezentos mil fragmentos, entre eles o material aramaico de Levi."
+        },
+        {
+          "term": "Robert Grosseteste",
+          "original": "",
+          "note": "Bispo de Lincoln, que mandou buscar em Atenas uma cópia grega desta coleção e a traduziu para o latim em 1242. Sua própria letra aparece em notas por todo o códice, preservado em Cambridge. A versão latina circulou amplamente e tornou o livro conhecido por toda a Europa medieval. Grosseteste leu as passagens que falam de Cristo como profecia genuína e acusou outros de esconderem o livro por causa delas."
+        },
+        {
+          "term": "José como modelo",
+          "original": "",
+          "note": "Testamento após testamento apresenta José como modelo de castidade e perseverança sob injustiça. Gênesis 39:7-12 mostra José deixando sua roupa na mão da mulher de Potifar e fugindo da casa; Gênesis 39:20-23 mostra-o lançado na prisão e depois encarregado dela; Gênesis 50:19-21 mostra José dizendo aos irmãos que eles intentaram o mal contra ele, mas Deus o tornou em bem."
+        },
+        {
+          "term": "Os dois rostos",
+          "original": "",
+          "note": "O testamento de Aser trata do homem que usa dois rostos, fazendo uma coisa abertamente e o contrário por baixo, e o chama de língua dupla. Tiago 1:8 chama esse homem de indeciso e inconstante em todos os seus caminhos; Tiago 4:8 manda os indecisos limparem as mãos e purificarem o coração. Mateus 6:24 apresenta a impossibilidade direta de servir a dois senhores."
+        },
+        {
+          "term": "Imoralidade sexual",
+          "original": "Greek: πορνεία (porneia)",
+          "note": "A palavra abrange toda forma de imoralidade sexual, não um ato específico. O testamento de Rúben começa com ela e adverte longamente seus filhos contra ela, ligando-a ao que ele fez com Bila. Atos 15:29 inclui a abstinência dela na breve lista enviada pelo concílio de Jerusalém às igrejas gentias; 1 Tessalonicenses 4:3 diz que a vontade de Deus é a santificação de vocês, que se abstenham de porneia."
+        },
+        {
+          "term": "Ira",
+          "original": "",
+          "note": "O testamento de Dã condena a ira e a mentira juntas e liga as duas: o homem irado não consegue dizer a verdade sobre o que fez. Provérbios 14:29 diz que quem demora a irar-se tem grande entendimento, mas o de temperamento precipitado exalta a insensatez. Efésios 4:26-27 diz: Fiquem irados, mas não pequem; não deixem o sol se pôr sobre a ira de vocês e não deem lugar ao diabo."
         }
       ],
       "keyTakeaway": "Os Testamentos apresentam despedidas éticas e proféticas dos filhos de Jacó, exortando à fidelidade moral e oferecendo esperança de restauração."
     }
-  ]
+  ],
+  "intro": "Os Testamentos dos Doze Patriarcas são doze discursos de despedida, um para cada filho de Jacó, nesta ordem: Rúben, Simeão, Levi, Judá, Issacar, Zebulom, Dã, Naftali, Gade, Aser, José e Benjamim. O padrão foi estabelecido em Gênesis 49, onde Jacó reúne os filhos para dizer o que lhes acontecerá nos últimos dias, e na bênção de Moisés em Deuteronômio 33. Ao morrer, cada patriarca convoca seus filhos, reconta um episódio da própria vida conforme o registro de Gênesis, nomeia o vício que ele revelou ou a virtude que exigiu, insiste nessa lição diante dos descendentes, muitas vezes acrescenta o que prevê para eles e morre. Rúben fala do pecado com Bila e da imoralidade sexual; Simeão, da inveja de José; Levi, do sacerdócio; Judá, da coragem, do vinho e do amor ao dinheiro; Zebulom, da compaixão; Dã, da ira e da mentira; Gade, do ódio; Aser, dos dois rostos que um homem pode usar; José, apresentado por toda a coleção como modelo, da castidade e da perseverança; Benjamim, da mente pura. Vários testamentos repetem um ciclo de pecado, exílio e retorno.\n\nO texto grego é conhecido por quinze manuscritos. O mais antigo completo, Cambridge University Library MS Ff.1.24, foi produzido em Constantinopla no fim do século X ou no século XI, e sua rota para o Ocidente está documentada. John de Basingstoke relatou ter visto uma cópia grega em Atenas, na biblioteca do metropolita Michael Choniates. Robert Grosseteste, bispo de Lincoln, mandou buscar o manuscrito e, em 1242, traduziu-o para o latim. Sua letra aparece em notas por todo o códice. A versão latina circulou amplamente e tornou o livro conhecido na Europa medieval. Uma versão armênia sobrevive em cerca de cinquenta manuscritos e contém menos passagens cristãs que o grego; também sobrevivem versões eslavônicas e sérvias. Foi recuperado material semítico por trás de partes da coleção. O Documento Aramaico de Levi foi encontrado em Qumran, na Caverna 1 (1Q21) e na Caverna 4 (4Q213-4Q214); outros fragmentos surgiram no fim do século XIX na Guenizá do Cairo e hoje estão guardados em Cambridge e Oxford. Um longo acréscimo grego ao Testamento de Levi num manuscrito do Monte Athos coincide com o mesmo material. Um Testamento de Naftali em hebraico também foi encontrado em Qumran (4Q215).\n\nO texto grego contém passagens que falam claramente de Cristo. Como elas entraram no texto permanece uma questão aberta, com longa história e posições bem definidas. (1) Em 1242, Robert Grosseteste considerou o grego uma tradução de um original hebraico que preservava as verdadeiras palavras dos filhos de Jacó no leito de morte. Leu as passagens sobre Cristo como profecia genuína e acusou outros de esconderem o livro por causa delas. (2) Friedrich Schnapp argumentou em 1884 que essas passagens eram acréscimos cristãos posteriores a uma obra judaica. R. H. Charles desenvolveu essa tese em sua edição de 1908, reconstruindo um livro judaico do século II a.C. coberto por interpolações cristãs. (3) Marinus de Jonge argumentou, de 1953 em diante, que os Testamentos, na forma atual, são uma composição cristã baseada em fontes judaicas e que nenhum original judaico pode ser recuperado pela exclusão de passagens do grego. Dois fatos permanecem diante de qualquer avaliação: a versão armênia contém menos passagens cristãs que a grega, e o material aramaico de Levi mostra que fontes semíticas por trás de pelo menos o Testamento de Levi existiam antes da era cristã.\n\nNenhuma comunhão cristã recebe os Testamentos dos Doze Patriarcas como canônicos."
 }

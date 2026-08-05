@@ -65,33 +65,40 @@
         "le chef Magdiel, le chef Iram. Ce sont là les chefs d'Edom. (1:54)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Genèse 5:1-32: La lignée d'Adam par Seth jusqu'à Noé et à ses trois fils, avec les années de chaque homme.",
+        "Genèse 10:1-32: Les nations qui se répandirent à partir de Sem, de Cham et de Japhet après le déluge.",
+        "Genèse 11:10-26: La lignée de Sem jusqu'à Térah, le père d'Abram.",
+        "Genèse 25:12-18: Les douze fils d'Ismaël, nommés avec les campements qu'ils tenaient.",
+        "Genèse 36:1-43: Les fils d'Esaü, les chefs d'Edom, et les rois qui régnèrent avant qu'Israël eût un roi."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "A quoi servait une généalogie",
+          "original": "Hebrew: יַחַשׂ (yahas), registration by descent",
+          "note": "Une liste de famille était un document juridique, non un souvenir de famille. La terre restait au clan qui l'avait reçue, et une revendication sur un champ reposait sur la preuve de la descendance (Nombres 27:1-11, 36:6-9). Le sacerdoce fonctionnait de même : au retour de Babylone, les prêtres qui ne trouvaient pas leur inscription dans le registre furent rayés comme impurs et écartés de l'autel (Esdras 2:61-63, Néhémie 7:63-65). Le trône fonctionnait de même aussi, et c'est pourquoi la liste du chapitre 3 se poursuit au-delà de l'exil."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Toledot",
+          "original": "Hebrew: תּוֹלְדוֹת (toledot), generations",
+          "note": "Le mot signifie générations ou descendants, et c'est le marqueur qui divise le livre de la Genèse en sections (Genèse 5:1, 10:1, 11:10, 25:12, 36:1). Les Chroniques s'ouvrent en enchaînant ces mêmes listes de la Genèse presque sans aucun verbe, et emploient le mot lui-même au verset 29 pour les fils d'Ismaël. Neuf chapitres de noms précèdent le début du récit."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Péleg",
+          "original": "Hebrew: פֶּלֶג (Peleg) - פָּלַג (palag), to divide",
+          "note": "Le verset 19 dit qu'un fils fut nommé Péleg « parce que de son temps la terre fut divisée ». Le nom est bâti sur le verbe palag, fendre ou diviser, de sorte que la phrase s'explique d'elle-même en hébreu et perd le lien en français. Genèse 10:25 consigne le même nom dans les mêmes termes."
+        },
+        {
+          "term": "Edom",
+          "original": "Hebrew: אֱדוֹם (Edom) - אָדֹם (adom), red",
+          "note": "La nation issue d'Esaü, au sud-est de la mer Morte, dans les hautes terres de grès rouge de Séir. Le nom joue sur le potage roux contre lequel Esaü vendit son droit d'aînesse (Genèse 25:30) et sur sa propre couleur rousse (Genèse 25:25). Edom refusa le passage à Israël à la sortie d'Egypte (Nombres 20:14-21), et la rancune court à travers les prophètes jusqu'au livre entier d'Abdias."
+        },
+        {
+          "term": "Les rois d'Edom",
+          "original": "",
+          "note": "Les versets 43 à 51 énumèrent huit hommes qui gouvernèrent Edom l'un après l'autre avant qu'aucun roi ne règne en Israël. Aucun n'est le fils de celui qui le précède, de sorte que ce n'était pas une dynastie transmise dans une famille mais un pouvoir qui passait de ville en ville. Edom avait une royauté établie alors qu'Israël n'en avait encore aucune."
         }
       ],
-      "keyTakeaway": "La lignée d'Adam s'étend jusqu'à Noé et ses fils, avec des généalogies tracées depuis Sem jusqu'à Abraham, Isaac et Jacob ; le chapitre répertorie également les descendants d'Ismaël et d'Ésaü, et mentionne les rois et les chefs qui régnèrent en Édom avant qu'aucun roi israélite ne règne.",
+      "keyTakeaway": "La lignée d'Adam se prolonge par Noé et ses fils, avec les généalogies tracées de Sem jusqu'à Abraham, Isaac et Jacob ; le chapitre énumère aussi les descendants d'Ismaël et d'Esaü, et consigne les rois et les chefs qui gouvernèrent en Edom avant qu'aucun roi israélite ne règne.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -175,33 +182,45 @@
         "et les clans des scribes habitant à Yabets, les Tiréatites, les Shiméatites et les Soukkatites. Ce sont les Caïnites, issus de Hamath, père de la maison de Rékab. (2:55)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Genèse 46:8-27: Les soixante-dix fils d'Israël qui descendirent en Egypte, énumérés par mère.",
+        "Genèse 38:1-30: Juda, Tamar, et la naissance des jumeaux Pérets et Zérah.",
+        "Ruth 4:18-22: Les dix générations de Pérets à David, qui closent le livre de Ruth.",
+        "Josué 7:16-26: Akân, de la lignée de Zérah, est désigné par le sort pour les choses vouées par interdit et il est lapidé dans la vallée d'Akor.",
+        "Josué 15:13-19: Caleb prend Hébron, et sa fille Aksa lui demande les sources d'en haut et celles d'en bas."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "L'objet voué par interdit",
+          "original": "Hebrew: חֵרֶם (herem)",
+          "note": "Le verset 7 appelle Akân « celui qui a troublé Israël, qui fut infidèle dans l'affaire de l'objet voué par interdit ». Le herem désignait une personne ou un objet remis entièrement à Dieu et donc soustrait à tout usage ordinaire, soit détruit, soit donné au sanctuaire. Jéricho fut placée sous le herem en Josué 6:17-19, et c'est pourquoi garder un manteau et de l'argent pris là coûta la vie à Akân."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Akar",
+          "original": "Hebrew: עָכָר (Achar) - עָכַן (Achan) - עָכַר (akar), to trouble",
+          "note": "Josué 7 appelle l'homme Akân. Les Chroniques écrivent le nom Akar, qui est le verbe akar, attirer le trouble sur quelqu'un. Josué 7:25 fait le même jeu à voix haute : « Pourquoi nous as-tu troublés ? Le SEIGNEUR te troublera aujourd'hui », et nomme le lieu vallée d'Akor, la vallée du trouble."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Père d'une ville",
+          "original": "Hebrew: אָב (av), father",
+          "note": "Les versets 42 à 55 appellent des hommes père de Ziph, d'Hébron, de Bethléem, de Qiriath-Yearim. Dans ces listes, av marque le fondateur d'une localité ou le chef du clan qui la tenait, non un homme qui aurait engendré une ville. Lue ainsi, la section est une carte de qui possédait quoi en Juda, ce dont une revendication foncière avait besoin."
+        },
+        {
+          "term": "Tamar et Pérets",
+          "original": "Hebrew: יִבּוּם (yibbum), levirate marriage",
+          "note": "Le verset 4 fait enfanter à Tamar, belle-fille de Juda, Pérets et Zérah, ce qui est le récit de Genèse 38. Selon la loi du lévirat, le frère d'un homme mort épousait la veuve pour que le premier fils porte le nom du mort et tienne sa terre (Deutéronome 25:5-10). Juda refusa son troisième fils à Tamar, et la lignée qui mène à David aux versets 10-15 passe par Pérets, que les anciens nomment dans la bénédiction de Ruth 4:12."
+        },
+        {
+          "term": "Betsaleel",
+          "original": "Hebrew: בְּצַלְאֵל (Betsalel), in the shadow of God",
+          "note": "Le verset 20 donne Hour, puis Ouri, puis Betsaleel. C'est l'artisan d'Exode 31:1-11, rempli de l'Esprit de Dieu pour l'habileté dans l'or, l'argent, le bronze, la taille des pierres et le travail du bois, qui construisit la Demeure et son mobilier. Il est la première personne dont l'Ecriture dise qu'elle est remplie de l'Esprit de Dieu, et c'est pour un métier."
+        },
+        {
+          "term": "Le serviteur égyptien de Shéshân",
+          "original": "Hebrew: עֶבֶד (eved), slave or servant",
+          "note": "Les versets 34-35 disent que Shéshân n'avait pas de fils, seulement des filles, et qu'il donna une fille en mariage à son esclave égyptien Yarha. Sans fils, le patrimoine et le nom de la famille s'éteignaient, de sorte qu'une maison mariait une fille à un dépendant qui élèverait des fils à l'intérieur de la famille plutôt que de les emmener dans un autre clan. La lignée qui suit court sur treize générations de plus, toutes comptées comme celles de Yerahmeel."
         }
       ],
-      "keyTakeaway": "Le chapitre énumère les fils d'Israël et retrace les généalogies de Juda jusqu'à David, et de Hetsron jusqu'à ses descendants Caleb et Jerachmeel, en enregistrant les lignées familiales et les villes habitées par leurs descendants.",
+      "keyTakeaway": "Le chapitre énumère les fils d'Israël et trace les généalogies depuis Juda jusqu'à David, et depuis Hetsrôn jusqu'à ses descendants Caleb et Yerahmeel, en consignant les lignées familiales et les villes qu'habitèrent leurs descendants.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -242,33 +261,40 @@
         "Fils d'Elioénaï : Hodavia, Eliashib, Pelaya, Aqqoub, Yohanân, Delaya et Anani, sept. (3:24)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "2 Samuel 3:2-5: Les six fils nés à David à Hébron, chacun énuméré avec sa mère.",
+        "2 Samuel 5:13-16: Les fils nés à David à Jérusalem après qu'il eut pris la ville.",
+        "2 Rois 24:8-17: Joïakîn se rend à Babylone et est emmené avec les trésors et les notables.",
+        "Matthieu 1:12-16: La lignée de Jekonia par Shealtiel et Zorobabel jusqu'à Joseph.",
+        "Aggée 2:20-23: Il est dit à Zorobabel, fils de Shealtiel, qu'il sera rendu semblable à un anneau à cachet."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "Daniel et Kileab",
+          "original": "Hebrew: דָּנִיֵּאל (Daniyyel) - כִּלְאָב (Kilav)",
+          "note": "Le verset 1 nomme Daniel le deuxième fils de David, né d'Abigaïl de Karmel. La liste parallèle de 2 Samuel 3:3 nomme Kileab le même fils. Les deux leçons se tiennent dans le texte, et aucun des deux passages n'explique la différence. Il n'est plus jamais mentionné dans l'un ni l'autre livre."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Bath-Shoua, fille d'Ammiel",
+          "original": "Hebrew: בַּת־שׁוּעַ (Bat-shua) - בַּת־שֶׁבַע (Bat-sheva)",
+          "note": "Le verset 5 appelle la mère de Salomon Bath-Shoua, fille d'Ammiel. 2 Samuel 11:3 l'appelle Bath-Shéba, fille d'Eliam. Ammiel et Eliam sont les deux mêmes éléments, am et el, dans l'ordre inverse, et les Chroniques portent régulièrement des formes de noms qui diffèrent de Samuel et des Rois."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Shalloum et Joachaz",
+          "original": "Hebrew: שַׁלּוּם (Shallum) - יְהוֹאָחָז (Yehoahaz)",
+          "note": "Le verset 15 donne Shalloum comme quatrième fils de Josias. 2 Rois 23:30-34 fait établir roi par le peuple Joachaz, fils de Josias, et le pharaon Neko le dépose au bout de trois mois. Jérémie 22:11 joint les deux noms sans détour : « Shalloum, fils de Josias, roi de Juda, qui régna à la place de Josias, son père »."
+        },
+        {
+          "term": "Jekonia",
+          "original": "Hebrew: יְכָנְיָה (Yekhonyah) - יְהוֹיָכִין (Yehoyakhin)",
+          "note": "Un seul roi porte trois noms dans l'Ecriture : Joïakîn (2 Rois 24:8), Jekonia (verset 16 ici) et Konia (Jérémie 22:24). Tous trois désignent le même homme, emmené à Babylone en 597 av. J.-C. à dix-huit ans. Des tablettes de rations exhumées à Babylone énumèrent « Yaoukin, roi du pays de Yahoudou » et ses fils recevant de l'huile des magasins royaux, ce qui correspond à 2 Rois 25:27-30."
+        },
+        {
+          "term": "Le père de Zorobabel",
+          "original": "Hebrew: זְרֻבָּבֶל (Zerubbabel), seed of Babylon",
+          "note": "Le verset 19 place Zorobabel parmi les fils de Pedaya. Esdras 3:2, Aggée 1:1 et Matthieu 1:12 l'appellent tous fils de Shealtiel, le frère aîné de Pedaya au verset 17. Les deux leçons se tiennent dans le texte. Son nom signifie semence de Babylone, ou semé à Babylone, et il naquit dans l'exil et conduisit le premier retour."
         }
       ],
-      "keyTakeaway": "Les fils de David nés à Hébron et à Jérusalem sont énumérés, dont Amnon, Daniel, Absalom, Adonija, Shephatia, Ithream, puis Salomon, Nathan, Shammua et Shobab. Le chapitre retrace ensuite la lignée de Salomon à travers les rois de Juda jusqu'à la période post-exilique, en se terminant par les fils d'Élioenaï.",
+      "keyTakeaway": "Les fils de David nés à Hébron et à Jérusalem sont énumérés, dont Amnôn, Daniel, Absalom, Adonias, Shephatia et Yitream, puis plus tard Salomon, Nathan, Shammoua et Shobab. Le chapitre trace ensuite la lignée de Salomon par les rois de Juda jusque dans la période d'après l'exil, en terminant par les fils d'Elyoénaï.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -328,33 +354,40 @@
         "Ils battirent le reste des rescapés d'Amalec, et ils habitent là jusqu'à ce jour. (4:43)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Josué 19:1-9: L'héritage de Siméon est taillé à l'intérieur du territoire de Juda parce que la part de Juda était trop grande.",
+        "Genèse 49:5-7: Jacob dit que Siméon et Lévi seront divisés en Jacob et dispersés en Israël.",
+        "Exode 17:8-16: Amaleq attaque Israël à Rephidim et le SEIGNEUR jure d'effacer la mémoire d'Amaleq.",
+        "1 Samuel 15:1-9: Saül est envoyé détruire Amaleq et épargne Agag et le meilleur du bétail.",
+        "Nombres 26:12-14: Les clans siméonites dénombrés en Moab, tombés à 22 200 contre 59 300 une génération plus tôt."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "Yaebets",
+          "original": "Hebrew: יַעְבֵּץ (Yabets) - עֹצֶב (otsev), pain",
+          "note": "Le verset 9 dit que sa mère le nomma Yaebets « parce que je l'ai enfanté dans la douleur ». Le nom est le mot pour la douleur avec deux de ses lettres inversées, de sorte que l'hébreu entend le jeu de mots et que le français ne le peut pas. Sa demande au verset 10, « élargis mon territoire », porte sur le gevul, la ligne de frontière du domaine d'une famille, la chose même que tous ces noms existent pour garantir."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Bitya, fille du pharaon",
+          "original": "Hebrew: בִּתְיָה (Bityah), daughter of Yah",
+          "note": "Les versets 17-18 consignent une princesse égyptienne mariée dans la tribu de Juda. Son nom est bâti sur bat, fille, et Yah, la forme courte du nom d'alliance de Dieu, de sorte qu'une fille du pharaon est enregistrée portant le nom du Dieu d'Israël. Le texte ne dit rien de plus sur la manière dont ce mariage se fit."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Potiers au service du roi",
+          "original": "Hebrew: יוֹצְרִים (yotserim), potters",
+          "note": "Le verset 21 nomme des clans de travailleurs du lin à Beth-Ashbéa et le verset 23 des potiers à Netaïm et Guedéra qui « habitaient là au service du roi ». Ce sont des corporations de métier héréditaires travaillant pour le compte de la couronne, payées en terres et en rations plutôt qu'en salaire. Les fouilles à travers Juda ont livré plus de deux mille anses de jarres estampillées lmlk, « appartenant au roi », la production exactement de ce genre d'atelier royal."
+        },
+        {
+          "term": "Siméon à l'intérieur de Juda",
+          "original": "Hebrew: שִׁמְעוֹן (Shimon)",
+          "note": "Les villes énumérées aux versets 28-32, Beer-Sheva, Molada, Horma, Tsiqlag, se trouvent à l'intérieur du territoire de Juda, parce que Siméon ne reçut jamais un bloc de terre séparé. Josué 19:1-9 dit que l'héritage de Siméon se trouvait au milieu de celui de Juda, la part de Juda étant trop grande pour elle. Le verset 27 consigne que la tribu resta petite, et sous la monarchie elle est absorbée."
+        },
+        {
+          "term": "Amalécites",
+          "original": "Hebrew: עֲמָלֵק (Amaleq)",
+          "note": "Un peuple de razzia du Néguev et du Sinaï, descendu du petit-fils d'Esaü (Genèse 36:12). Ils frappèrent les traînards d'Israël à l'arrière à la sortie d'Egypte (Deutéronome 25:17-18), et c'est pourquoi la guerre avec eux ne se referme jamais. Le verset 43 consigne que des Siméonites anéantirent les derniers survivants amalécites à Séir, des générations après l'échec de Saül."
         }
       ],
-      "keyTakeaway": "Les généalogies de Juda et de Siméon sont consignées, notamment celle de Jabès, qui pria Dieu pour obtenir bénédiction et protection et fut exaucé. Plus tard, sous le règne d'Ézéchias, des chefs siméonites et leurs clans s'étendirent vers l'est, exterminèrent des Hamites et des Meunites et s'installèrent sur leurs terres, tandis que d'autres envahirent Séir et tuèrent les derniers Amalécites survivants.",
+      "keyTakeaway": "Les généalogies de Juda et de Siméon sont consignées, dont celle de Yaebets, qui pria Dieu de le bénir et de le protéger et reçut ce qu'il demandait. Plus tard, sous le règne d'Ezéchias, des chefs siméonites et leurs clans s'étendirent vers l'est, détruisant des Hamites et des Meounites et occupant leur pays, tandis que d'autres envahirent Séir et tuèrent les derniers Amalécites.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -397,33 +430,40 @@
         "Le Dieu d'Israël éveilla l'esprit de Poul, roi d'Assyrie, l'esprit de Tilgath-Pilnéser, roi d'Assyrie, et Tilgath-Pilnéser exila les Rubénites, les Gadites et la demi-tribu de Manassé : il les conduisit à Halah, à Habor, à Hara, près de la rivière de Gozân – jusqu'à ce jour. (5:26)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Genèse 35:22: Ruben couche avec Bilha, la concubine de son père, et Israël l'apprend.",
+        "Genèse 49:3-4: Jacob ôte à Ruben la prééminence pour être monté sur le lit de son père.",
+        "Nombres 32:1-42: Ruben, Gad et la demi-tribu de Manassé demandent à Moïse le pays de pâture à l'est du Jourdain.",
+        "Josué 13:8-32: Le territoire à l'est du Jourdain que Moïse assigna aux deux tribus et demie.",
+        "2 Rois 15:29: Tiglath-Phalasar d'Assyrie prend le Galaad, la Galilée et tout Nephtali et en déporte la population."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "Le droit d'aînesse",
+          "original": "Hebrew: בְּכֹרָה (bekorah), firstborn's right",
+          "note": "Les versets 1-2 disent que le droit d'aînesse de Ruben passa aux fils de Joseph parce qu'il avait souillé le lit de son père (Genèse 35:22, 49:3-4). La bekorah était une double part de l'héritage, deux fois ce que recevait tout autre fils (Deutéronome 21:17). Joseph la perçoit littéralement : Ephraïm et Manassé sont comptés chacun comme une tribu entière avec sa propre terre (Genèse 48:5), de sorte que sa lignée prend deux parts."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Les Hagrites",
+          "original": "Hebrew: הַגְרִיאִים (Hagriim)",
+          "note": "Un peuple de tentes à l'est du Galaad, combattu aux versets 10 et 19-22 avec Yetour, Naphish et Nodab. Yetour et Naphish sont nommés parmi les douze fils d'Ismaël en Genèse 25:15. Le butin pris au verset 21, cinquante mille chameaux et un quart de million de moutons, est une richesse de troupeaux et non de ville, ce qui est bien ce que ces peuples possédaient."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Aroër, Nebo et Baal-Meôn",
+          "original": "Hebrew: עֲרֹעֵר (Aroer) - נְבוֹ (Nevo) - בַּעַל מְעוֹן (Baal Meon)",
+          "note": "Les villes rubénites du verset 8 se tiennent sur le plateau à l'est de la mer Morte, terrain disputé entre Israël et Moab. Les trois sont nommées sur la stèle de Mésha, un monument de basalte noir dressé par Mésha, roi de Moab, vers 840 av. J.-C. et trouvé à Dhiban en 1868, qui rapporte que Moab reprit Nebo et Baal-Meôn et rebâtit Aroër, et qui nomme les hommes de Gad comme les occupants précédents."
+        },
+        {
+          "term": "Assyrie",
+          "original": "Hebrew: אַשּׁוּר (Ashshur)",
+          "note": "L'empire du haut Tigre, centré sur Ninive, Kalhou et Assour, qui domina le Proche-Orient d'environ 900 à 612 av. J.-C. Sa politique habituelle après une conquête était la déportation massive : emmener les familles dirigeantes, installer des étrangers, et briser la capacité de la nation à se reformer. Le verset 26 consigne la première étape de cette politique tombant sur Ruben, Gad et la demi-tribu de Manassé, réinstallés à Halah, Habor, Hara et près du fleuve Gozân."
+        },
+        {
+          "term": "Poul",
+          "original": "Hebrew: פּוּל (Pul)",
+          "note": "Le verset 26 nomme « Poul, roi d'Assyrie, c'est-à-dire Tiglath-Phalasar, roi d'Assyrie », en traitant les deux comme un seul homme. Les archives assyriennes et babyloniennes concordent : la Liste royale babylonienne A donne Poulou comme le nom sous lequel Tiglath-Phalasar III tint le trône de Babylone de 729 à 727 av. J.-C. Il régna en Assyrie de 745 à 727 av. J.-C."
         }
       ],
-      "keyTakeaway": "Les généalogies énumèrent les descendants de Ruben, de Gad et de la demi-tribu de Manassé, y compris leurs établissements et leur puissance militaire ; ces tribus vainquirent les Hagrites avec l'aide de Dieu, mais se tournèrent ensuite vers l'idolâtrie et furent emmenées en exil par le roi d'Assyrie.",
+      "keyTakeaway": "Les généalogies énumèrent les descendants de Ruben, de Gad et de la demi-tribu de Manassé, avec leurs établissements et leur force militaire ; ces tribus battirent les Hagrites avec l'aide de Dieu, mais se tournèrent plus tard vers l'idolâtrie et furent déportées par le roi d'Assyrie.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -506,33 +546,40 @@
         "Heshbôn, avec ses abords ; Yazer, avec ses abords. (6:66)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Exode 6:16-25: Les maisons lévites de Guershôn, de Qehath et de Merari, tracées jusqu'aux fils d'Aaron.",
+        "Nombres 3:5-13: Les lévites sont donnés à Aaron à la place des fils premiers-nés d'Israël.",
+        "Nombres 25:10-13: Phinéas reçoit une alliance de sacerdoce perpétuel pour son ardeur à Péor.",
+        "Josué 21:1-42: Les quarante-huit villes avec leurs pâturages attribuées aux lévites sur chaque tribu.",
+        "Nombres 35:1-8: L'ordre de donner à Lévi des villes et des pâturages, dont six villes de refuge."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
-        },
-        {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
-        },
-        {
           "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "original": "Hebrew: כֹּהֲנִים (kohanim) - לְוִיִּם (leviyyim)",
+          "note": "Deux charges différentes, et le chapitre tourne sur cette différence. Seule la lignée masculine directe d'Aaron servait comme prêtres, et le verset 49 les limite à l'autel des holocaustes, à l'autel de l'encens et au lieu très sacré. Toutes les autres familles de Lévi faisaient le reste du travail du sanctuaire (verset 48) et ne pouvaient pas offrir de sacrifice. L'aptitude à l'une ou à l'autre charge se prouvait par la descendance consignée ici."
+        },
+        {
+          "term": "La lignée du souverain sacerdoce",
+          "original": "Hebrew: צָדוֹק (Tsadoq) - יְהוֹצָדָק (Yehotsadaq)",
+          "note": "Les versets 50-53 déroulent la succession d'Aaron par Eléazar et Phinéas jusqu'à Tsadoq, le prêtre qui oignit Salomon, et à son fils Ahimaats. Le verset 15 ferme la même lignée en notant que Yehotsadaq partit en exil quand Nabuchodonosor emmena Juda. Son fils Josué est le grand prêtre qui revient avec Zorobabel (Esdras 3:2), de sorte que la chaîne est ininterrompue à travers l'exil."
+        },
+        {
+          "term": "Les musiciens du temple",
+          "original": "Hebrew: הֵימָן (Heman) - אָסָף (Asaf) - אֵיתָן (Etan)",
+          "note": "Les versets 31-47 établissent trois lévites sur la musique, un de chacun des clans de Lévi : Hémân le Qehatite au centre, Asaph le Guershonite à sa droite, Etân le Merarite à sa gauche. Le verset 32 dit qu'ils chantaient devant la tente jusqu'à ce que Salomon bâtisse la maison. Douze psaumes portent le nom d'Asaph dans leur titre, le Psaume 50 et les Psaumes 73 à 83 ; le Psaume 88 est intitulé pour Hémân l'Ezrahite et le Psaume 89 pour Etân l'Ezrahite."
+        },
+        {
+          "term": "Villes de refuge",
+          "original": "Hebrew: עָרֵי הַמִּקְלָט (arei ha-miqlat)",
+          "note": "Les versets 57 et 67 remettent Hébron et Sichem aux lévites comme villes de refuge. Six villes, trois de chaque côté du Jourdain, furent mises à part pour qu'un homme ayant tué sans intention puisse devancer le vengeur du sang, le go'el ha-dam, et comparaître devant l'assemblée au lieu d'être abattu sur la route (Nombres 35:9-28, Josué 20:1-9). Il y demeurait jusqu'à la mort du grand prêtre, puis rentrait libre chez lui."
+        },
+        {
+          "term": "Villes lévitiques",
+          "original": "",
+          "note": "Lévi ne reçut aucun bloc tribal de terre (Josué 13:14). La tribu reçut à la place quarante-huit villes dispersées à travers les autres tribus, chacune avec un pâturage s'étendant à mille coudées, environ 1 500 pieds, à partir de la muraille (Nombres 35:4-5). Le résultat fut que les prêtres et les lévites vivaient à l'intérieur de chaque tribu plutôt que dans une seule région."
         }
       ],
-      "keyTakeaway": "Les généalogies retracent les fils de Lévi et leurs descendants, notamment la lignée sacerdotale d'Aaron à Pinéhas ainsi que les musiciens Héman, Asaph et Étân établis par David ; le chapitre détaille ensuite les villes et pâturages attribués aux Qehatites, aux Guershonites et aux Mérarites parmi les tribus d'Israël.",
+      "keyTakeaway": "Les généalogies tracent les fils de Lévi et leurs descendants, avec la lignée sacerdotale d'Aaron par Phinéas et les musiciens Hémân, Asaph et Etân établis par David ; le chapitre détaille ensuite les villes et les pâturages répartis entre les Qehatites, les Guershonites et les Merarites à travers les tribus d'Israël.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -589,33 +636,40 @@
         "Tous ceux-là sont les fils d'Aser, des chefs de famille, des hommes d'élite, de vaillants guerriers, des chefs des princes, enregistrés et armés pour le combat, au nombre de 26 000 hommes. (7:40)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Nombres 26:23-50: Les clans d'Issacar, de Manassé, d'Ephraïm, de Benjamin, d'Asher et de Nephtali dénombrés dans les plaines de Moab.",
+        "Genèse 46:21: Les fils de Benjamin énumérés parmi ceux qui descendirent en Egypte.",
+        "Genèse 48:8-20: Jacob croise les mains et place Ephraïm, le cadet, devant Manassé.",
+        "Nombres 13:8,16: Hoshéa, fils de Noun, de la tribu d'Ephraïm, est renommé Josué par Moïse.",
+        "Josué 16:1-5: La frontière d'Ephraïm passe par Beth-Horôn la basse et la haute, les villes que bâtit Shéera."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "Vaillants guerriers",
+          "original": "Hebrew: גִּבּוֹרֵי חַיִל (gibborei hayil)",
+          "note": "L'expression qui court dans ce chapitre est un terme de recensement militaire, non un compliment. Hayil couvre à la fois la force, la capacité et le bien, de sorte qu'un gibbor hayil est un homme de rang capable de s'équiper lui-même et de partir en campagne. Israël comptait de tels hommes à partir de vingt ans (Nombres 1:3), et c'est pourquoi les totaux donnés ici, 87 000 pour Issacar et 26 000 pour Asher, sont des rôles de mobilisation tenus par famille."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Les filles de Tselophhad",
+          "original": "Hebrew: צְלָפְחָד (Tselofhad)",
+          "note": "Le verset 15 note en passant que Tselophhad « n'eut que des filles ». Ce fait produisit la décision d'héritage de Nombres 27:1-11, où ses cinq filles adressent une requête à Moïse et où la terre leur revient plutôt que de sortir de la famille. Nombres 36:6-9 exige ensuite qu'elles se marient à l'intérieur de la tribu de leur père pour que le territoire ne passe pas à une autre tribu, et Josué 17:3-6 consigne qu'elles le reçoivent."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Beria",
+          "original": "Hebrew: בְּרִיעָה (Beriah) - בְּרָעָה (be-raah), in misfortune",
+          "note": "Les versets 21-23 racontent les fils d'Ephraïm tués en razziant du bétail à Gath, et le fils né ensuite est nommé Beria « parce que le malheur était venu sur sa maison ». Le nom et l'expression du malheur sont les mêmes sons en hébreu. Le français garde le nom et laisse tomber la raison."
+        },
+        {
+          "term": "Beth-Horôn",
+          "original": "Hebrew: בֵּית חוֹרוֹן (Beit Horon)",
+          "note": "Le verset 24 attribue à Shéera, une femme, la construction de Beth-Horôn la basse et la haute. Les deux villes se trouvent à une dizaine de milles au nord-ouest de Jérusalem et gardent le passage de Beth-Horôn, la principale montée de la plaine côtière et de la vallée d'Ayyalôn vers la crête centrale. Qui le tenait contrôlait la route de Jérusalem, et c'est pourquoi les armées ne cessent de se le disputer depuis Josué 10:10-11."
+        },
+        {
+          "term": "Beth-Shéân, Taanak, Meguiddo et Dor",
+          "original": "Hebrew: מְגִדּוֹ (Megiddo)",
+          "note": "Le verset 29 énumère quatre villes le long de la frontière de Manassé, et toutes quatre sont nommées en Josué 17:11-13 et Juges 1:27 comme des villes dont la tribu ne put pas chasser les Cananéens. Meguiddo garde l'étroit passage à travers la crête du Carmel vers la plaine de Jizréel, la route que toute armée entre l'Egypte et la Mésopotamie devait emprunter. Beth-Shéân est l'endroit où les Philistins fixèrent le corps de Saül à la muraille (1 Samuel 31:10)."
         }
       ],
-      "keyTakeaway": "Les registres généalogiques énumèrent les descendants d'Issacar, de Benjamin, de Nephtali, de Manassé, d'Éphraïm et d'Aser, avec leurs chefs de famille et leurs hommes de guerre ; les fils d'Éphraïm, Ézer et Élead, furent tués par des hommes de Gath lors d'un vol de bétail, et sa fille Shééra bâtit des villes fortifiées.",
+      "keyTakeaway": "Les registres généalogiques énumèrent les descendants d'Issacar, de Benjamin, de Nephtali, de Manassé, d'Ephraïm et d'Asher, avec leurs chefs de famille et leurs combattants ; les fils d'Ephraïm, Ezer et Elead, furent tués par des hommes de Gath en s'emparant de bétail, et sa fille Shéera bâtit des villes fortifiées.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -672,33 +726,40 @@
         "Les fils d'Oulam furent de vaillants guerriers tirant à l'arc ; ils eurent beaucoup de fils et de petits-fils : cent cinquante. Tous ceux-là sont des fils de Benjamin. (8:40)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Genèse 46:21: Les fils de Benjamin nommés parmi la maison qui descendit en Egypte.",
+        "Juges 20:44-48: Benjamin est réduit à six cents survivants qui s'échappent au rocher de Rimmôn.",
+        "1 Samuel 9:1-2: Qish le Benjaminite et son fils Saül, plus grand que tout le peuple de la tête.",
+        "1 Samuel 14:49-51: Les fils et les filles de Saül énumérés, avec Abner, fils de Ner, comme chef de son armée.",
+        "2 Samuel 4:4: Mephibosheth, fils de Jonathan, est laissé tomber par sa nourrice à cinq ans et reste boiteux."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "Chefs de maisons paternelles",
+          "original": "Hebrew: בֵּית אָב (bet av), father's house",
+          "note": "L'expression répétée dans ce chapitre nomme l'unité de base de la société israélite : une maisonnée élargie de plusieurs générations sous un homme âgé, tenant un seul bloc de terre. Tribu, puis clan, puis maison paternelle, puis l'individu : c'est l'ordre qu'emploie Josué 7:16-18 pour découvrir Akân. Les droits et les obligations d'un homme passaient par cette unité, et c'est pourquoi les listes consignent les chefs de maisons et le lieu où ils habitaient."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Renvoyer une femme",
+          "original": "Hebrew: שָׁלַח (shalach), to send away",
+          "note": "Le verset 8 dit que Shaharaïm eut des fils en Moab « après avoir renvoyé ses femmes ». L'hébreu dit simplement qu'il les renvoya. Deutéronome 24:1-4 réglemente la pratique plutôt qu'il ne la crée : l'homme lui écrit un acte de divorce, un sefer keritout, le lui met en main et la renvoie, et il ne peut jamais la reprendre une fois qu'elle a épousé un autre."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Ono et Lod",
+          "original": "Hebrew: אוֹנוֹ (Ono) - לֹד (Lod)",
+          "note": "Le verset 12 attribue à Shémed la construction des deux villes. Elles se tiennent ensemble dans la plaine côtière, à environ onze milles au sud-est de l'actuelle Tel-Aviv, à la limite de l'extension de Benjamin vers la mer. Leurs hommes reviennent de Babylone comme un groupe nommé (Esdras 2:33), la plaine d'Ono est l'endroit où Sanballat cherche à attirer Néhémie à une entrevue (Néhémie 6:2), et Lod est la Lydda où Pierre guérit Enée (Actes 9:32-35)."
+        },
+        {
+          "term": "Les archers benjaminites",
+          "original": "Hebrew: בִּנְיָמִין (Binyamin), son of the right hand",
+          "note": "Le verset 40 termine le chapitre par les fils d'Oulam, « vaillants guerriers, archers ». Benjamin était connu pour ses troupes de tir : Juges 20:16 compte sept cents gauchers capables de lancer une pierre à un cheveu près sans manquer, et 1 Chroniques 12:2 décrit des Benjaminites tirant à l'arc et lançant des pierres des deux mains. La tribu dont le nom signifie fils de la main droite n'a cessé de produire des combattants gauchers, Ehoud parmi eux (Juges 3:15)."
+        },
+        {
+          "term": "Esh-Baal et Merib-Baal",
+          "original": "Hebrew: בַּעַל (baal), lord - בֹּשֶׁת (boshet), shame",
+          "note": "Les versets 33-34 appellent le fils de Saül Esh-Baal et le fils de Jonathan Merib-Baal. Samuel appelle les deux mêmes hommes Ish-Bosheth (2 Samuel 2:8) et Mephibosheth (2 Samuel 4:4). L'élément baal signifiait simplement seigneur ou maître et s'employait autrefois librement, mais après l'installation du culte de Baal on y substitua le mot honteux, boshet, dans les noms."
         }
       ],
-      "keyTakeaway": "Le chapitre retrace la généalogie des descendants de Benjamin, en énumérant les lignées de divers chefs établis à Guéba, Manahath, Ayyalon et Jérusalem ; il inclut la ligne de Ner jusqu'à Saül et ses fils, et se termine avec les fils d'Atsel et les descendants d'Oulam.",
+      "keyTakeaway": "Le chapitre trace la généalogie des descendants de Benjamin, en énumérant les lignées de divers chefs qui habitaient Guéba, Manahath, Ayyalôn et Jérusalem ; il comprend la lignée de Ner jusqu'à Saül et à ses fils, et se termine par les fils d'Atsel et les descendants d'Oulam.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -759,33 +820,40 @@
         "Atsel eut six fils ; voici leurs noms : Azriqam, Bokrou, Ismaël, Shéaria, Abdias et Hanân. Ce sont là les fils d'Atsel. (9:44)."
       ],
       "crossRefs": [
-        "Genèse 5: D'Adam à Noé.",
-        "Genèse 10: Table des Nations.",
-        "Genèse 36: Les chefs et rois d'Ésaü/Édom.",
-        "Exode 6:14–25: Les familles lévitiques.",
-        "Esdras 2:1–70: Liste des rapatriés.",
-        "Néhémie 7:6–73: Registre parallèle des rapatriés.",
-        "Matthieu 1:1–17: Généalogie d'Abraham à Jésus (lignée davidique).",
-        "Luc 3:23–38: Généalogie remontant jusqu'à Adam."
+        "Néhémie 11:3-24: Le même registre des familles qui s'établirent à Jérusalem après le retour d'exil.",
+        "Esdras 2:1-70: La liste des exilés qui montèrent avec Zorobabel, comptés par famille et par ville.",
+        "2 Rois 25:8-12: Nebouzaradân brûle le temple et le palais, abat les murailles et emmène Juda.",
+        "Nombres 3:25-37: Les charges des Guershonites, des Qehatites et des Merarites sur la tente, le coffre et ses cadres.",
+        "1 Chroniques 26:1-19: Les portiers désignés par le sort pour les portes de l'est, du nord, du sud et de l'ouest."
       ],
       "translationNotes": [
         {
-          "term": "Généalogie",
-          "original": "Hebrew: תּוֹלְדוֹת (toledot), Greek: γενεαλογία (genealogia), Aramaic: יַחֲסָא (yaḥasā’)",
-          "note": "Signifie « générations, lignée ». Sert de marqueur structurel dans toute la Genèse et les Chroniques."
+          "term": "Serviteurs du temple",
+          "original": "Hebrew: נְתִינִים (netinim), the given ones",
+          "note": "Le verset 2 énumère quatre groupes revenus dans leurs villes : les Israélites, les prêtres, les lévites et les serviteurs du temple. Ce dernier nom signifie ceux qui ont été remis, un corps héréditaire de non-lévites affectés aux gros travaux du sanctuaire. Esdras 8:20 dit que David et ses chefs les mirent à part pour assister les lévites, et Josué 9:23-27 met les Gabaonites sous cette sentence exacte : couper le bois et puiser l'eau pour la maison de Dieu."
         },
         {
-          "term": "Formule des toledot",
-          "original": "Hebrew: וְאֵלֶּה תּוֹלְדוֹת (ve-’elleh toledot)",
-          "note": "Expression standard « Voici les générations de… » ; les Chroniques réutilisent ce format pour encadrer l'identité d'Israël."
+          "term": "Cette liste et Néhémie 11",
+          "original": "",
+          "note": "Les versets 2-17 et Néhémie 11:3-19 consignent le même repeuplement de Jérusalem, avec les mêmes familles et plusieurs des mêmes hommes, dont les portiers Shalloum, Aqqoub et Talmôn. Les deux listes diffèrent dans le détail. Les Chroniques comptent Ephraïm et Manassé parmi ceux qui habitent la ville (verset 3) là où Néhémie ne nomme que Juda et Benjamin, et les Chroniques donnent 212 portiers (verset 22) là où Néhémie 11:19 en donne 172. Les deux se tiennent telles qu'elles sont écrites."
         },
         {
-          "term": "Prêtres et lévites",
-          "original": "Hebrew: כֹּהֲנִים (kohanim), לְוִיִּם (leviyyim), Greek: ἱερεῖς (hiereis), Λευῖται (Leuitai), Aramaic: כהניא (kahana), לֵוָיֵי (levaye)",
-          "note": "Prêtres (descendants d'Aaron) et lévites (assistants tribaux). Les Chroniques soulignent leurs rôles dans le service du temple."
+          "term": "Le pain de la Présence",
+          "original": "Hebrew: לֶחֶם הַפָּנִים (lechem ha-panim), bread of the face",
+          "note": "Le verset 32 charge des Qehatites de préparer « les rangées de pains chaque sabbat ». Lévitique 24:5-9 dispose douze pains en deux rangées de six sur la table d'or, avec de l'encens à côté, renouvelés chaque sabbat, les pains retirés revenant aux prêtres pour être mangés dans un lieu sacré. C'est le pain que David demanda et mangea à Nob (1 Samuel 21:1-6), que Jésus cite en Marc 2:25-26."
+        },
+        {
+          "term": "Mélanger les aromates",
+          "original": "Hebrew: רֹקַח (roqach), a compounded mixture",
+          "note": "Le verset 30 dit que certains des fils des prêtres mélangeaient les aromates. L'encens répondait à une formule fixe, storax, onyx, galbanum et encens pur, salé et broyé fin (Exode 30:34-38), et le même passage interdit à quiconque d'en faire pour son propre usage sous peine d'être retranché du peuple. Le composer était une tâche sacerdotale, non celle d'un magasinier."
+        },
+        {
+          "term": "Encens",
+          "original": "Hebrew: לְבוֹנָה (levonah); Greek: λίβανος (libanos)",
+          "note": "Une résine d'un blanc laiteux tirée des arbres Boswellia du sud de l'Arabie et de la Somalie, portée vers le nord par caravane et valant son poids dans le commerce. Le verset 29 la fait entreposer dans les chambres du temple avec la fleur de farine, le vin et l'huile, sous des lévites qui la comptaient à l'entrée et à la sortie. Elle brûlait sur l'autel de l'encens (Exode 30:34) et se posait sur toute offrande de céréales (Lévitique 2:1-2)."
         }
       ],
-      "keyTakeaway": "Après l'exil à Babylone, des Israélites se réinstallent dans leurs villes ; le passage énumère les généalogies et les fonctions de ceux de Juda, Benjamin, des prêtres, des lévites et des portiers revenus à Jérusalem, ainsi que des descendants de la famille de Saül établis à Gabaon.",
+      "keyTakeaway": "Après l'exil à Babylone, des Israélites se réinstallent dans leurs villes ; le passage énumère les généalogies et les fonctions de ceux de Juda, de Benjamin, des prêtres, des lévites et des portiers qui revinrent à Jérusalem, ainsi que des descendants de la famille de Saül vivant à Gabaon.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -817,24 +885,39 @@
       ],
       "crossRefs": [
         "1 Samuel 31: Récit parallèle de la mort de Saül.",
-        "Deutéronome 18:9–12: Interdiction de la divination et des médiums.",
+        "Deutéronome 18:9-12: Interdiction de la divination et des médiums.",
         "1 Samuel 15:23: Le rejet de la parole de Dieu comparé à la divination.",
-        "2 Samuel 1:17–27: La complainte de David pour Saül et Jonathan.",
-        "Actes 13:21–22: Le rejet de Saül contrasté avec l'ascension de David."
+        "2 Samuel 1:17-27: La complainte de David sur Saül et Jonathan.",
+        "Actes 13:21-22: Le rejet de Saül opposé à l'élévation de David."
       ],
       "translationNotes": [
         {
           "term": "Médium",
           "original": "Hebrew: אוֹב (ʾov), Greek: ἐγγαστρίμυθος (engastrimythos), Aramaic: אוּבָא (ʾuvāʾ)",
-          "note": "Consultant des esprits/nécromancien ; expressément interdit."
+          "note": "Celui qui consulte les esprits, nécromancien ; expressément interdit."
         },
         {
           "term": "Infidélité",
           "original": "Hebrew: מָעַל (maʿal), Greek: ἀπιστία/ἀσέβεια (apistia/asebeia), Aramaic: מעל (maʿal)",
-          "note": "Rupture de confiance envers les obligations de l'alliance."
+          "note": "Rupture de la confiance à l'égard des obligations de l'alliance."
+        },
+        {
+          "term": "Le mont Guilboa",
+          "original": "Hebrew: הַר הַגִּלְבֹּעַ (Har ha-Gilboa)",
+          "note": "Une crête qui s'élève à environ 1 700 pieds sur le rebord sud-est de la vallée de Jizréel, à quelque cinquante milles au nord de Jérusalem. La vallée en contrebas est le seul corridor ouvert à travers le nord d'Israël, large et plat, ce qui est exactement le terrain dont les chars philistins pouvaient se servir et Israël non. Saül dut y combattre, et les archers sur la pente rompirent sa ligne (verset 3)."
+        },
+        {
+          "term": "Dagôn",
+          "original": "Hebrew: דָּגוֹן (Dagon)",
+          "note": "Le dieu principal des villes philistines, dont les temples se dressaient à Ashdod, à Gaza et à Beth-Shéân. Le nom est rattaché à dagan, le grain, et son culte était un culte de fécondité lié à la moisson. Le verset 10 fait fixer la tête de Saül dans le temple de Dagôn, ce qui renverse 1 Samuel 5:1-5, où la statue de Dagôn tomba face contre terre devant le coffre capturé et eut la tête et les mains brisées sur le seuil."
+        },
+        {
+          "term": "Yabesh de Galaad",
+          "original": "Hebrew: יָבֵשׁ גִּלְעָד (Yavesh Gilad)",
+          "note": "Une ville à l'est du Jourdain, en Galaad, à une vingtaine de milles au sud du lac de Galilée, et à une dure marche de nuit de Beth-Shéân où les Philistins exposèrent les corps. Les hommes de Yabesh y allèrent parce que le premier acte de Saül comme roi avait été de marcher toute la nuit et de briser le siège que Nahash l'Ammonite mettait devant leur ville (1 Samuel 11:1-11). Ils ensevelirent ses os sous le chêne et jeûnèrent sept jours."
         }
       ],
-      "keyTakeaway": "L'infidélité de Saül entraîne sa mort et le transfert du royaume à David, fils de Jessé.",
+      "keyTakeaway": "L'infidélité de Saül entraîne sa mort et le passage du royaume à David, fils de Jessé.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -898,30 +981,40 @@
         "Eliel, Obed et Yaasiel-Metsobaya. (11:47)."
       ],
       "crossRefs": [
-        "2 Samuel 5:1–3: David oint roi à Hébron.",
-        "Josué 15:63: Les Jébusiens non chassés auparavant, maintenant conquis par David.",
-        "2 Samuel 23:8–39: Liste parallèle des hommes vaillants.",
-        "Genèse 49:10: La bénédiction tribale de Juda pointant vers la royauté.",
-        "1 Chroniques 12:32: Le discernement d'Issacar, souvent cité comme sagesse spirituelle pour les temps."
+        "2 Samuel 5:1-10: La même onction à Hébron et la même prise de la forteresse de Sion.",
+        "2 Samuel 23:8-39: Le rôle parallèle des vaillants de David, les Trois et les Trente, avec leurs faits d'armes.",
+        "Josué 15:63: Juda ne put pas chasser les Jébusiens de Jérusalem, et ils y habitèrent aux côtés de Juda.",
+        "Juges 1:21: Benjamin, de même, ne parvint pas à déloger les Jébusiens, qui restèrent à Jérusalem jusqu'à ce jour.",
+        "1 Samuel 16:1-13: Samuel oint David à Bethléem des années avant qu'aucune tribu ne l'accepte comme roi."
       ],
       "translationNotes": [
         {
-          "term": "Hommes vaillants",
+          "term": "Vaillants guerriers",
           "original": "Hebrew: גִּבּוֹרִים (gibborim), Greek: δυνατοί (dynatoi), Aramaic: גבוריא (gibboraya)",
-          "note": "Héros de guerre et de bravoure ; les guerriers d'élite de David."
+          "note": "Héros de guerre et de bravoure ; les combattants d'élite de David."
         },
         {
           "term": "Cité de David",
           "original": "Hebrew: עִיר דָּוִיד (ʿIr David), Greek: πόλις Δαυίδ (polis Dauid), Aramaic: קרת דוד (qart David)",
-          "note": "La forteresse de Sion/Jérusalem après que David l'a conquise."
+          "note": "La forteresse de Sion, Jérusalem, après que David l'eut conquise."
         },
         {
-          "term": "Comprendre les temps",
-          "original": "Hebrew: יוֹדְעֵי בִינָה לַעִתִּים (yodʿei binah laʿittim), Greek: συνετοὶ εἰς καιρούς (synetoi eis kairous), Aramaic: ידעי חכמת זמנין (yodʿei ḥokhmat zmanin)",
-          "note": "Expression décrivant le discernement d'Issacar ; sagesse pour reconnaître le temps de Dieu et l'action appropriée."
+          "term": "Porte (de la ville)",
+          "original": "Hebrew: שַׁעַר (sha'ar)",
+          "note": "Bien plus qu'une entrée ; la place publique où les anciens entendaient les causes, où les contrats étaient attestés, où se traitaient les affaires du marché et où les nouvelles s'échangeaient. « Siéger à la porte » (Genèse 19:1 ; Ruth 4:1-11 ; Proverbes 31:23) marque l'autorité civique et une vie communautaire active."
+        },
+        {
+          "term": "Le Millo",
+          "original": "Hebrew: הַמִּלּוֹא (ha-Millo) - מָלֵא (male), to fill",
+          "note": "Le verset 8 dit que David bâtit la ville « depuis le Millo tout autour ». Le mot signifie le Remblai. La pente orientale de Jérusalem est raide, de sorte que bâtir dessus exigeait des terrasses de terre et de pierre tassées, retenues par des murs de soutènement, pour obtenir un terrain plat. Les rois suivants ne cessèrent de le réparer (1 Rois 9:15, 2 Chroniques 32:5)."
+        },
+        {
+          "term": "Les Trois et les Trente",
+          "original": "Hebrew: הַשְּׁלוֹשָׁה (ha-sheloshah) - הַשְּׁלוֹשִׁים (ha-sheloshim)",
+          "note": "L'armée de David avait deux rangs d'honneur nommés, non un corps d'officiers généraux. Les Trois formaient le niveau supérieur, et les Trente une compagnie permanente plus large d'hommes éprouvés dont la composition changeait à mesure que les hommes mouraient et étaient remplacés. On y entrait par un acte précis consigné en regard du nom, et c'est pourquoi ce chapitre se lit comme une liste d'exploits isolés."
         }
       ],
-      "keyTakeaway": "Tout Israël oint David comme roi à Hébron ; il prend Jérusalem aux Jébusiens avec Joab comme chef de l'armée ; le chapitre énumère ensuite les preux de David et leurs exploits.",
+      "keyTakeaway": "Tout Israël oint David comme roi à Hébron, et il prend Jérusalem aux Jébusiens avec Joab pour chef d'armée ; le chapitre énumère ensuite les vaillants guerriers de David et leurs exploits.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -982,30 +1075,35 @@
         "Ils furent là trois jours avec David, mangeant et buvant, car leurs frères leur avaient préparé des vivres. (12:40)."
       ],
       "crossRefs": [
-        "2 Samuel 5:1–3: David oint roi à Hébron.",
-        "Josué 15:63: Les Jébusiens non chassés auparavant, maintenant conquis par David.",
-        "2 Samuel 23:8–39: Liste parallèle des hommes vaillants.",
-        "Genèse 49:10: La bénédiction tribale de Juda pointant vers la royauté.",
-        "1 Chroniques 12:32: Le discernement d'Issacar, souvent cité comme sagesse spirituelle pour les temps."
+        "1 Samuel 27:1-7: Akish, roi de Gath, donne à David la ville de Tsiqlag, où ces hommes passèrent de son côté.",
+        "1 Samuel 22:1-2: Quatre cents hommes en détresse, endettés et pleins d'amertume se rassemblent auprès de David à la caverne d'Adoullam.",
+        "1 Samuel 29:1-11: Les chefs philistins refusent de laisser David combattre à Apheq et le renvoient.",
+        "1 Samuel 30:1-20: David poursuit les Amalécites qui ont brûlé Tsiqlag et recouvre tout ce qui avait été pris.",
+        "2 Samuel 5:1-5: Toutes les tribus viennent auprès de David à Hébron et l'oignent roi sur Israël."
       ],
       "translationNotes": [
         {
-          "term": "Hommes vaillants",
+          "term": "Vaillants guerriers",
           "original": "Hebrew: גִּבּוֹרִים (gibborim), Greek: δυνατοί (dynatoi), Aramaic: גבוריא (gibboraya)",
-          "note": "Héros de guerre et de bravoure ; les guerriers d'élite de David."
+          "note": "Héros de guerre et de bravoure ; les combattants d'élite de David."
         },
         {
           "term": "Cité de David",
           "original": "Hebrew: עִיר דָּוִיד (ʿIr David), Greek: πόλις Δαυίδ (polis Dauid), Aramaic: קרת דוד (qart David)",
-          "note": "La forteresse de Sion/Jérusalem après que David l'a conquise."
+          "note": "La forteresse de Sion, Jérusalem, après que David l'eut conquise."
         },
         {
           "term": "Comprendre les temps",
           "original": "Hebrew: יוֹדְעֵי בִינָה לַעִתִּים (yodʿei binah laʿittim), Greek: συνετοὶ εἰς καιρούς (synetoi eis kairous), Aramaic: ידעי חכמת זמנין (yodʿei ḥokhmat zmanin)",
-          "note": "Expression décrivant le discernement d'Issacar ; sagesse pour reconnaître le temps de Dieu et l'action appropriée."
+          "note": "Expression qui décrit le discernement d'Issacar ; la sagesse qui reconnaît le moment de Dieu et l'action qui convient."
+        },
+        {
+          "term": "Tsiqlag",
+          "original": "Hebrew: צִקְלַג (Tsiqlag)",
+          "note": "Une ville du pays sec du Néguev, au sud de Gath, remise à David par le roi philistin Akish pendant que Saül le traquait. David la tint un an et quatre mois (1 Samuel 27:7), en razziant des peuples du désert et en présentant le butin comme s'il venait de Juda. C'est là que ces transfuges le trouvèrent, hors de portée de Saül."
         }
       ],
-      "keyTakeaway": "Des guerriers de plusieurs tribus font défection en faveur de David à Tsiklag et dans sa forteresse, lui jurant fidélité ; plus tard, des hommes en armes venus des douze tribus se rassemblent à Hébron, pleinement résolus à le faire roi sur Israël.",
+      "keyTakeaway": "Des combattants de plusieurs tribus passent à David à Tsiqlag et dans son repaire, en lui jurant fidélité ; plus tard, des hommes en armes de toutes les douze tribus se rassemblent à Hébron, pleinement résolus à le faire roi sur Israël.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1040,30 +1138,35 @@
         "Le coffre de Dieu resta trois mois chez Obed-Edom, dans sa maison, et le SEIGNEUR bénit la maison d'Obed-Edom et tout ce qui lui appartenait. (13:14)."
       ],
       "crossRefs": [
-        "2 Samuel 6: Récit parallèle du transport de l'arche.",
-        "Nombres 4:15: Les lévites doivent porter l'arche avec des barres, sans la toucher.",
-        "Exode 25:10–22: Description de l'Arche de l'Alliance.",
-        "Psaume 105:1–15: Cité dans le psaume d'action de grâce de David (1 Ch 16).",
-        "Jean 4:24: Le vrai culte en esprit et en vérité, préfiguré par le culte restauré."
+        "2 Samuel 6:1-11: Le même cortège depuis Baalé-Juda, la mort d'Ouzza, et les trois mois chez Obed-Edom.",
+        "Nombres 4:15: Les Qehatites ne portent les objets sacrés qu'après qu'Aaron les a recouverts, et ils ne doivent pas les toucher sous peine de mort.",
+        "Exode 25:12-15: Des barres sont mises dans les anneaux du coffre et ne doivent jamais en être retirées.",
+        "1 Samuel 6:7-12: Les Philistins renvoient le coffre chez lui sur un chariot neuf tiré par deux vaches qui allaitent.",
+        "1 Samuel 7:1-2: Le coffre est amené dans la maison d'Abinadab à Qiriath-Yearim et y reste vingt ans."
       ],
       "translationNotes": [
         {
-          "term": "Arche de l'Alliance",
+          "term": "Le coffre de l'alliance",
           "original": "Hebrew: אֲרוֹן הַבְּרִית (aron habberit), Greek: κιβωτὸς τῆς διαθήκης (kibōtos tēs diathēkēs), Aramaic: ארונא דקיימא (arona d’qayyama)",
-          "note": "Coffre sacré contenant les tables de l'alliance, symbolisant le trône et la présence de Dieu."
+          "note": "Le coffre sacré contenant les tables de l'alliance, symbole du trône et de la présence de Dieu."
         },
         {
-          "term": "Éphod",
-          "original": "Hebrew: אֵפוֹד (ʾefod), Greek: ἐπωμίς (epōmis), Aramaic: אפוד (epod)",
-          "note": "Vêtement sacerdotal ; David portait un éphod de lin par humilité et dévotion durant le culte."
+          "term": "Aire de battage",
+          "original": "Hebrew: גֹּרֶן (goren)",
+          "note": "Une surface plate, dure et en plein air, d'ordinaire un rocher aplani ou un cercle de terre battue à la lisière de la ville, où le grain récolté était séparé de la balle. Des bœufs traînaient un traîneau de bois sur les tiges ; les grains et la balle mêlés étaient ensuite vannés au vent. Les aires de battage servaient aussi d'espaces publics (Ruth 3 ; 2 Samuel 24:18 ; l'emplacement du temple de Salomon)."
         },
         {
-          "term": "Danses",
-          "original": "Hebrew: מְכַרְכֵּר (mekharker), Greek: ὀρχέομαι (orcheomai), Aramaic: רקד (raqed)",
-          "note": "Danse tourbillonnante de joie devant l'Éternel ; un acte de culte incarné."
+          "term": "Qiriath-Yearim",
+          "original": "Hebrew: קִרְיַת יְעָרִים (Qiryat Yearim), city of forests",
+          "note": "Une ville de la crête boisée à environ neuf milles à l'ouest de Jérusalem, sur la route qui monte de la plaine côtière. Le coffre demeura là dans une maison privée pendant vingt ans après que les Philistins l'eurent renvoyé (1 Samuel 7:1-2), ce qui signifie qu'Israël eut une Demeure en un lieu et le coffre en un autre pendant une génération."
+        },
+        {
+          "term": "Les barres du coffre",
+          "original": "Hebrew: בַּדִּים (baddim)",
+          "note": "Le coffre était construit avec des anneaux à ses angles et deux barres passées dedans qui ne devaient jamais être retirées (Exode 25:12-15), afin que des lévites puissent le porter sur l'épaule et qu'aucune main ne touche jamais le coffre. Le verset 7 le met à la place sur un chariot neuf, ce qui est la façon dont les Philistins l'avaient expédié (1 Samuel 6:7). Quand les bœufs bronchèrent, Ouzza étendit la main pour le retenir et mourut."
         }
       ],
-      "keyTakeaway": "David rassemble tout Israël pour transporter l'arche de Dieu de Qiryath-Yearim à Jérusalem, mais lorsqu'Uzza retient l'arche au moment où les bœufs trébuchent, Dieu le frappe à mort; David laisse alors l'arche dans la maison d'Obed-Edom.",
+      "keyTakeaway": "David rassemble tout Israël pour faire monter le coffre de Dieu de Qiriath-Yearim à Jérusalem, mais quand Ouzza retient le coffre alors que les bœufs bronchent, Dieu le frappe de mort ; David laisse alors le coffre dans la maison d'Obed-Edom.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1097,30 +1200,35 @@
         "La renommée de David se répandit dans tous les pays ; le SEIGNEUR donna à toutes les nations sa frayeur. (14:17)."
       ],
       "crossRefs": [
-        "2 Samuel 6: Récit parallèle du transport de l'arche.",
-        "Nombres 4:15: Les lévites doivent porter l'arche avec des barres, sans la toucher.",
-        "Exode 25:10–22: Description de l'Arche de l'Alliance.",
-        "Psaume 105:1–15: Cité dans le psaume d'action de grâce de David (1 Ch 16).",
-        "Jean 4:24: Le vrai culte en esprit et en vérité, préfiguré par le culte restauré."
+        "2 Samuel 5:11-25: Le même palais bâti par Tyr, les mêmes fils nés à Jérusalem, et les deux mêmes batailles philistines.",
+        "1 Rois 5:1-11: Hiram de Tyr fournit à Salomon des bois de cèdre et de cyprès flottés le long de la côte.",
+        "Deutéronome 7:5,25: Israël doit brûler les images sculptées des dieux des nations plutôt que de garder l'argent et l'or qui les recouvrent.",
+        "1 Chroniques 3:5-8: Les fils nés à David à Jérusalem énumérés de nouveau par leurs noms.",
+        "Ésaïe 28:21: Ésaïe rappelle le SEIGNEUR se levant comme au mont Peratsim pour accomplir son œuvre étrange."
       ],
       "translationNotes": [
         {
-          "term": "Arche de l'Alliance",
-          "original": "Hebrew: אֲרוֹן הַבְּרִית (aron habberit), Greek: κιβωτὸς τῆς διαθήκης (kibōtos tēs diathēkēs), Aramaic: ארונא דקיימא (arona d’qayyama)",
-          "note": "Coffre sacré contenant les tables de l'alliance, symbolisant le trône et la présence de Dieu."
+          "term": "Tyr",
+          "original": "Hebrew: צֹר (Tsor)",
+          "note": "Un port phénicien à une centaine de milles au nord de Jérusalem, bâti en partie sur une île, capitale commerciale de la côte libanaise. Ses forêts fournissaient le cèdre qu'aucune colline israélite ne pouvait faire pousser, et ses maçons et ses charpentiers avaient le savoir-faire de la pierre et du bois qui manquait à Israël. L'aide de Hiram ici est le début d'une alliance de travail qui bâtira plus tard le temple de Salomon."
         },
         {
-          "term": "Éphod",
-          "original": "Hebrew: אֵפוֹד (ʾefod), Greek: ἐπωμίς (epōmis), Aramaic: אפוד (epod)",
-          "note": "Vêtement sacerdotal ; David portait un éphod de lin par humilité et dévotion durant le culte."
+          "term": "Baal-Peratsim",
+          "original": "Hebrew: בַּעַל פְּרָצִים (Baal Peratsim), lord of breakings-through",
+          "note": "David nomme le lieu d'après ce qui s'y est passé. Au verset 11, il dit que Dieu « a fait une brèche parmi mes ennemis par ma main comme une eau qui rompt », avec le verbe parats, faire irruption, et le lieu en tire son nom. Le français garde le nom et perd le jeu de mots."
         },
         {
-          "term": "Danses",
-          "original": "Hebrew: מְכַרְכֵּר (mekharker), Greek: ὀρχέομαι (orcheomai), Aramaic: רקד (raqed)",
-          "note": "Danse tourbillonnante de joie devant l'Éternel ; un acte de culte incarné."
+          "term": "La vallée des Rephaïm",
+          "original": "Hebrew: עֵמֶק רְפָאִים (Emeq Rephaim)",
+          "note": "Une large vallée à blé qui court au sud-ouest de Jérusalem vers Bethléem, assez plate pour des chars et voie d'accès naturelle à la ville depuis le territoire philistin. Ésaïe 17:5 emploie sa moisson comme image de la récolte. Deux fois dans ce chapitre les Philistins s'y déploient, et deux fois David interroge Dieu avant de bouger."
+        },
+        {
+          "term": "Baumiers",
+          "original": "Hebrew: בְּכָאִים (bekaim)",
+          "note": "Le verset 15 dit à David d'attaquer quand il entendra un bruit de marche à la cime des arbres. Le mot hébreu ne paraît qu'ici et dans le parallèle de 2 Samuel 5:23-24, et l'arbre n'est pas identifié avec certitude ; baumier ou mûrier sont les rendus habituels. Ce sur quoi le texte est clair, c'est le signal : le bruit dans la cime le précède, et il part là-dessus."
         }
       ],
-      "keyTakeaway": "Hiram de Tyr envoie des matériaux pour construire un palais à David, et David a plusieurs fils à Jérusalem ; lorsque les Philistins attaquent, David consulte Dieu, les bat deux fois en suivant ses instructions, et sa renommée se répand dans tous les pays.",
+      "keyTakeaway": "Hiram de Tyr envoie des matériaux pour bâtir un palais à David, et David engendre plusieurs fils à Jérusalem ; quand les Philistins attaquent, David consulte Dieu, les bat deux fois en suivant ses indications, et sa renommée se répand dans tous les pays.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1166,30 +1274,40 @@
         "Comme le coffre de l'alliance du SEIGNEUR entrait dans la Ville de David, Mikal, fille de Saül, regardait par la fenêtre. Elle vit le roi David jouer de la musique en bondissant, et elle le méprisa dans son cœur. (15:29)."
       ],
       "crossRefs": [
-        "2 Samuel 6: Récit parallèle du transport de l'arche.",
-        "Nombres 4:15: Les lévites doivent porter l'arche avec des barres, sans la toucher.",
-        "Exode 25:10–22: Description de l'Arche de l'Alliance.",
-        "Psaume 105:1–15: Cité dans le psaume d'action de grâce de David (1 Ch 16).",
-        "Jean 4:24: Le vrai culte en esprit et en vérité, préfiguré par le culte restauré."
+        "Deutéronome 10:8: Le SEIGNEUR met Lévi à part pour porter le coffre de l'alliance, pour se tenir devant lui et officier, et pour bénir en son nom.",
+        "Nombres 7:9: Aucun chariot n'est donné aux Qehatites, parce que leur charge se porte sur l'épaule.",
+        "2 Samuel 6:12-23: Le même cortège avec des sacrifices et des danses, et le mépris de Mikal à la fenêtre.",
+        "Exode 25:10-16: Les dimensions du coffre, ses anneaux et ses barres, et le témoignage placé dedans.",
+        "1 Samuel 18:20-27: Mikal, fille de Saül, est donnée à David pour un prix de cent Philistins."
       ],
       "translationNotes": [
         {
-          "term": "Arche de l'Alliance",
+          "term": "Le coffre de l'alliance",
           "original": "Hebrew: אֲרוֹן הַבְּרִית (aron habberit), Greek: κιβωτὸς τῆς διαθήκης (kibōtos tēs diathēkēs), Aramaic: ארונא דקיימא (arona d’qayyama)",
-          "note": "Coffre sacré contenant les tables de l'alliance, symbolisant le trône et la présence de Dieu."
+          "note": "Le coffre sacré contenant les tables de l'alliance, symbole du trône et de la présence de Dieu."
         },
         {
-          "term": "Éphod",
+          "term": "Ephod",
           "original": "Hebrew: אֵפוֹד (ʾefod), Greek: ἐπωμίς (epōmis), Aramaic: אפוד (epod)",
-          "note": "Vêtement sacerdotal ; David portait un éphod de lin par humilité et dévotion durant le culte."
+          "note": "Vêtement sacerdotal ; David portait un éphod de lin, par humilité et par dévotion, pendant le culte."
         },
         {
           "term": "Danses",
           "original": "Hebrew: מְכַרְכֵּר (mekharker), Greek: ὀρχέομαι (orcheomai), Aramaic: רקד (raqed)",
-          "note": "Danse tourbillonnante de joie devant l'Éternel ; un acte de culte incarné."
+          "note": "Danse tournoyante et joyeuse devant le SEIGNEUR ; un acte d'adoration de tout le corps."
+        },
+        {
+          "term": "Lévite",
+          "original": "Hebrew: לֵוִי (lewi)",
+          "note": "Un descendant mâle de Lévi (hors la lignée sacerdotale d'Aaron). Il assistait les prêtres dans le service du temple : musique, garde des portes, instruction du peuple, préparation des sacrifices. Le prêtre et le lévite qui passent à côté de l'homme blessé dans la parabole du bon Samaritain (Luc 10:31-32) rendent plus tranchant le propos de Jésus ; tous deux étaient professionnellement tenus d'aider."
+        },
+        {
+          "term": "Ephod de lin",
+          "original": "Hebrew: אֵפוֹד בָּד (efod bad)",
+          "note": "Le verset 27 fait porter à David un éphod de lin dans le cortège. Ce n'est pas le vêtement orné du grand prêtre d'Exode 28 mais un simple vêtement de lin sans manches porté par ceux qui servent devant le SEIGNEUR ; l'enfant Samuel en portait un (1 Samuel 2:18). David est vêtu en serviteur du sanctuaire, non en roi, et c'est ce que Mikal méprise."
         }
       ],
-      "keyTakeaway": "David rassemble des lévites et des musiciens pour transporter l'arche de Dieu à Jérusalem selon les rites prescrits, attribuant des rôles précis pour le transport, les instruments et les trompettes. L'arche entre dans la Cité de David au milieu des festivités, tandis que Mical observe David danser et le méprise.",
+      "keyTakeaway": "David rassemble les lévites et les musiciens pour faire monter le coffre de Dieu à Jérusalem selon les formes, en assignant des rôles précis pour le portage, les instruments et les trompettes. Le coffre entre dans la cité de David au milieu des réjouissances tandis que Mikal regarde David danser et le méprise.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1249,30 +1367,35 @@
         "Tout le peuple s'en alla chacun chez soi, et David s'en retourna pour bénir sa maison. (16:43)."
       ],
       "crossRefs": [
-        "2 Samuel 6: Récit parallèle du transport de l'arche.",
-        "Nombres 4:15: Les lévites doivent porter l'arche avec des barres, sans la toucher.",
-        "Exode 25:10–22: Description de l'Arche de l'Alliance.",
-        "Psaume 105:1–15: Cité dans le psaume d'action de grâce de David (1 Ch 16).",
-        "Jean 4:24: Le vrai culte en esprit et en vérité, préfiguré par le culte restauré."
+        "Psaumes 105:1-15: La section d'ouverture du chant de reconnaissance de David, qui s'y tient mot pour mot.",
+        "Psaumes 96:1-13: La section centrale, l'appel à chanter un chant nouveau et à raconter sa gloire parmi les nations.",
+        "Psaumes 106:1,47-48: Les versets de clôture, avec la supplication de rassembler Israël d'entre les nations.",
+        "2 Samuel 6:17-19: Les mêmes offrandes, et un pain, une part de viande et un gâteau de raisins secs donnés à chaque Israélite.",
+        "1 Rois 3:4: Le grand haut lieu de Gabaon, où se tenait l'autel et où Salomon offrit mille holocaustes."
       ],
       "translationNotes": [
         {
-          "term": "Arche de l'Alliance",
+          "term": "Le coffre de l'alliance",
           "original": "Hebrew: אֲרוֹן הַבְּרִית (aron habberit), Greek: κιβωτὸς τῆς διαθήκης (kibōtos tēs diathēkēs), Aramaic: ארונא דקיימא (arona d’qayyama)",
-          "note": "Coffre sacré contenant les tables de l'alliance, symbolisant le trône et la présence de Dieu."
-        },
-        {
-          "term": "Éphod",
-          "original": "Hebrew: אֵפוֹד (ʾefod), Greek: ἐπωμίς (epōmis), Aramaic: אפוד (epod)",
-          "note": "Vêtement sacerdotal ; David portait un éphod de lin par humilité et dévotion durant le culte."
+          "note": "Le coffre sacré contenant les tables de l'alliance, symbole du trône et de la présence de Dieu."
         },
         {
           "term": "Danses",
           "original": "Hebrew: מְכַרְכֵּר (mekharker), Greek: ὀρχέομαι (orcheomai), Aramaic: רקד (raqed)",
-          "note": "Danse tourbillonnante de joie devant l'Éternel ; un acte de culte incarné."
+          "note": "Danse tournoyante et joyeuse devant le SEIGNEUR ; un acte d'adoration de tout le corps."
+        },
+        {
+          "term": "Porte (de la ville)",
+          "original": "Hebrew: שַׁעַר (sha'ar)",
+          "note": "Bien plus qu'une entrée ; la place publique où les anciens entendaient les causes, où les contrats étaient attestés, où se traitaient les affaires du marché et où les nouvelles s'échangeaient. « Siéger à la porte » (Genèse 19:1 ; Ruth 4:1-11 ; Proverbes 31:23) marque l'autorité civique et une vie communautaire active."
+        },
+        {
+          "term": "Gabaon",
+          "original": "Hebrew: גִּבְעוֹן (Givon)",
+          "note": "Une ville à environ six milles au nord-ouest de Jérusalem. Les versets 39-40 y laissent Tsadoq et les holocaustes réguliers pendant que le coffre va sous la tente de David à Jérusalem, de sorte que pendant une génération Israël eut la Demeure et l'autel sur un site et le coffre sur un autre (2 Chroniques 1:3-6). Gabaon est la ville dont les gens obtinrent de Josué un traité par ruse, avec des sandales usées et du pain moisi (Josué 9:3-15)."
         }
       ],
-      "keyTakeaway": "David installe l'arche dans une tente, offre des sacrifices et distribue du pain au peuple ; il désigne des lévites conduits par Asaph pour assurer le service devant l'arche avec musique et louanges, puis établit des prêtres à Gabaon pour offrir régulièrement des sacrifices."
+      "keyTakeaway": "David place le coffre dans une tente, offre des sacrifices et distribue du pain au peuple ; il établit des lévites conduits par Asaph pour officier devant lui avec la musique et la louange, puis institue des prêtres à Gabaon pour offrir régulièrement les sacrifices."
     },
     {
       "id": "1chronicles-17",
@@ -1311,24 +1434,34 @@
       ],
       "crossRefs": [
         "2 Samuel 7: Récit parallèle de l'alliance.",
-        "Psaume 89:3–4: L'alliance de Dieu avec la maison de David.",
-        "Ésaïe 9:6–7: Promesse d'un fils sur le trône de David pour toujours.",
-        "Luc 1:32–33: L'ange Gabriel : Jésus héritera du trône de David pour l'éternité.",
-        "Actes 15:16: La restauration de la tente de David par Christ."
+        "Psaumes 89:3-4: L'alliance de Dieu avec la maison de David.",
+        "Ésaïe 9:6-7: La promesse d'un fils sur le trône de David pour toujours.",
+        "Luc 1:32-33: L'ange Gabriel : Jésus héritera du trône de David pour l'éternité.",
+        "Actes 15:16: Le relèvement de la hutte tombée de David par le Christ."
       ],
       "translationNotes": [
         {
           "term": "Maison",
           "original": "Hebrew: בַּיִת (bayit), Greek: οἶκος (oikos), Aramaic: ביתא (bayta)",
-          "note": "Double sens : temple physique contre dynastie. Dieu renverse le projet de David pour montrer l'initiative divine."
+          "note": "Double sens : le temple matériel et la dynastie. Dieu retourne le projet de David pour montrer que l'initiative vient de lui."
         },
         {
           "term": "Pour toujours",
           "original": "Hebrew: עוֹלָם (ʿolam), Greek: αἰών (aiōn), Aramaic: עלמא (ʿalma)",
-          "note": "Peut signifier « longue durée » ou « éternité » ; la promesse de l'alliance s'étend au-delà de Salomon jusqu'à l'accomplissement messianique."
+          "note": "Peut signifier « pour une longue durée » ou « pour l'éternité » ; la promesse de l'alliance s'étend au-delà de Salomon jusqu'à l'accomplissement messianique."
+        },
+        {
+          "term": "Le cèdre et les tentures",
+          "original": "Hebrew: אֶרֶז (erez), cedar - יְרִיעָה (yeriah), tent curtain",
+          "note": "La plainte de David au verset 1 est un contraste de matériaux de construction. Il habite une maison de cèdre, un bois importé que seul un roi pouvait s'offrir, tandis que le coffre se tient sous des tentures en poil de chèvre, la même couverture portative dont Israël se servait au désert. Rien n'était mauvais dans la tente ; c'est le décalage qu'il ne supporte pas."
+        },
+        {
+          "term": "Juges",
+          "original": "Hebrew: שֹׁפְטִים (shofetim)",
+          "note": "Le verset 6 vise les chefs à qui Dieu avait ordonné de faire paître Israël avant la monarchie. Un shofet n'était pas un magistrat de tribunal mais un libérateur suscité pour une crise, qui menait ensuite la région le reste de sa vie, comme Débora, Gédéon et Samson. Ce que dit le verset, c'est que Dieu n'a jamais demandé à aucun d'eux une maison de cèdre."
         }
       ],
-      "keyTakeaway": "L'alliance davidique promet une dynastie durable ; le fils de David construira le temple et son trône sera établi pour toujours.",
+      "keyTakeaway": "L'alliance avec David promet une dynastie durable : son fils bâtira le temple et son trône sera affermi pour toujours.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1362,30 +1495,35 @@
         "Benaya, fils de Joïada, était chef des Kérétites et des Pélétites, et les fils de David étaient les premiers représentants du roi. (18:17)."
       ],
       "crossRefs": [
-        "2 Samuel 8–10: Parallèles des guerres de David.",
-        "2 Samuel 24: Récit parallèle du recensement de David et de la peste.",
-        "Genèse 14:18–20: La bénédiction de Melchisédek près de Salem, en lien avec le lieu saint de Jérusalem.",
-        "2 Chroniques 3:1: Le site du temple identifié comme le mont Morija, où Abraham offrit Isaac.",
-        "Zacharie 14:16–17: Le culte à Jérusalem comme lieu du Roi."
+        "2 Samuel 8:1-18: Les mêmes campagnes contre la Philistie, Moab, Tsoba, Aram et Edom, et la même liste d'officiers.",
+        "Deutéronome 17:16: Le roi ne doit pas multiplier les chevaux pour lui-même ni renvoyer le peuple en Egypte pour en chercher.",
+        "Josué 11:6,9: Josué coupe les jarrets des chevaux des rois du nord et brûle leurs chars.",
+        "1 Rois 7:15-16,45-47: Les colonnes de bronze, les bassins et les ustensiles que fit Salomon, en bronze trop abondant pour être pesé.",
+        "2 Samuel 12:30-31: La couronne prise à Rabba et le travail forcé imposé aux villes ammonites."
       ],
       "translationNotes": [
         {
-          "term": "Satan",
-          "original": "Hebrew: שָּׂטָן (śatan), Greek: διάβολος (diabolos), Aramaic: שטנא (satana)",
-          "note": "Signifie « adversaire/opposant ». Dans ce contexte, un adversaire personnel ou l'Accusateur ; 2 Samuel 24 attribue l'incitation directement à Dieu, ce qui montre une tension théologique."
+          "term": "Scribe (sopher)",
+          "original": "Hebrew: סוֹפֵר (sopher); Greek: γραμματεύς (grammateus)",
+          "note": "A l'origine des copistes professionnels de l'Ecriture. A l'époque du Nouveau Testament, des savants et des maîtres de la Loi, souvent, mais non exclusivement, rangés du côté des pharisiens. Ils formaient la classe religieuse instruite qui tranchait les questions halakhiques du quotidien."
         },
         {
-          "term": "Recensement",
-          "original": "Hebrew: מִפְקָד (mifqad), Greek: ἀριθμός (arithmos), Aramaic: מנינא (menina)",
-          "note": "Dénombrement du peuple comme affirmation de contrôle ; perçu comme orgueilleux et manquant de confiance en la provision de Dieu."
+          "term": "Couper les jarrets des chevaux de char",
+          "original": "Hebrew: עָקַר (aqar), to hamstring",
+          "note": "Le verset 4 dit que David garda cent attelages de char et coupa les jarrets des autres, en tranchant le tendon à l'arrière du jarret pour que la bête ne puisse plus jamais tirer. Les chars étaient le blindé de l'époque et la seule arme que la montagne d'Israël ne pouvait pas entretenir : il leur faut un terrain plat, des attelages dressés, des charrons et une chaîne d'approvisionnement. Couper les chevaux privait l'ennemi de la technologie sans qu'Israël l'adopte."
         },
         {
-          "term": "Aire",
-          "original": "Hebrew: גֹּרֶן (goren), Greek: ἅλωνα (halōna), Aramaic: אגרנא (ʾagrana)",
-          "note": "Surface plate pour séparer le grain. Lieu sacré où Dieu se laisse fléchir et le feu descend, choisi ensuite pour le temple."
+          "term": "Aram-Tsoba",
+          "original": "Hebrew: אֲרַם צוֹבָה (Aram Tsovah)",
+          "note": "Aram est le peuple sémitique de la Syrie intérieure, réparti en petits royaumes plutôt qu'en un seul Etat ; Tsoba était le plus puissant d'entre eux, au nord de Damas, dans la région de la Beqaa. Leur langue, l'araméen, devint plus tard la langue commune de tout le Proche-Orient et de la Judée au temps de Jésus. Le nom de Hadadézer porte Hadad, le dieu araméen de l'orage."
+        },
+        {
+          "term": "Tribut",
+          "original": "Hebrew: מִנְחָה (minhah)",
+          "note": "Les versets 2 et 6 disent que Moab et Aram « apportèrent le tribut ». Un royaume vaincu gardait son roi et ses villes mais payait une redevance annuelle en argent, en or, en bétail ou en biens, et était compté comme serviteur du grand roi. C'était moins coûteux qu'une occupation et c'était la pratique courante dans tout le Proche-Orient ancien ; le retenir était la façon dont un vassal déclarait la révolte, comme le fait Moab en 2 Rois 3:4-5."
         }
       ],
-      "keyTakeaway": "David bat les Philistins, les Moabites, les forces de Hadadézer et les Édomites au cours d'une série de campagnes, établit des garnisons dans les territoires conquis et reçoit tribut et cadeaux des rois vaincus. Il consacre le butin à l'Éternel et gouverne Israël avec justice, entouré de ses officiers militaires et administratifs.",
+      "keyTakeaway": "David bat les Philistins, les Moabites, les troupes de Hadadézer et les Edomites en une série de campagnes, établit des garnisons sur les territoires conquis et reçoit tribut et présents des rois vaincus. Il consacre le butin au Seigneur et gouverne Israël avec justice, entouré de ses officiers militaires et administratifs.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1421,30 +1559,35 @@
         "Ceux qui étaient soumis à Hadad-Ezer, se voyant battus par Israël, firent la paix avec David et lui furent soumis ; et les Araméens ne voulurent plus secourir les Ammonites. (19:19)."
       ],
       "crossRefs": [
-        "2 Samuel 8–10: Parallèles des guerres de David.",
-        "2 Samuel 24: Récit parallèle du recensement de David et de la peste.",
-        "Genèse 14:18–20: La bénédiction de Melchisédek près de Salem, en lien avec le lieu saint de Jérusalem.",
-        "2 Chroniques 3:1: Le site du temple identifié comme le mont Morija, où Abraham offrit Isaac.",
-        "Zacharie 14:16–17: Le culte à Jérusalem comme lieu du Roi."
+        "2 Samuel 10:1-19: La même insulte faite aux messagers de David et la même défaite d'Ammon et des Araméens à sa solde.",
+        "1 Samuel 11:1-11: Nahash l'Ammonite assiège Yabesh de Galaad et exige l'œil droit de chacun de ses hommes.",
+        "Deutéronome 23:3-6: Aucun Ammonite ni Moabite n'est admis dans l'assemblée, parce qu'ils ont loué Balaam contre Israël.",
+        "Genèse 19:36-38: La fille cadette de Loth enfante Ben-Ammi, le père des Ammonites.",
+        "Lévitique 19:27: Israël a défense de se tondre les tempes en rond ou de couper les bords de la barbe."
       ],
       "translationNotes": [
         {
-          "term": "Satan",
-          "original": "Hebrew: שָּׂטָן (śatan), Greek: διάβολος (diabolos), Aramaic: שטנא (satana)",
-          "note": "Signifie « adversaire/opposant ». Dans ce contexte, un adversaire personnel ou l'Accusateur ; 2 Samuel 24 attribue l'incitation directement à Dieu, ce qui montre une tension théologique."
+          "term": "Talent (monnaie)",
+          "original": "Hebrew: כִּכָּר (kikkar); Greek: τάλαντον (talanton)",
+          "note": "La plus grande unité de poids et de monnaie du monde ancien. Un talent d'argent pesait environ 75 livres (34 kg) et valait à peu près 6 000 deniers, soit environ 20 ans de salaire d'un ouvrier. Un talent d'or valait bien davantage. Quand Jésus raconte la parabole des talents (Matthieu 25:14-30), chaque talent représente une confiance considérable."
         },
         {
-          "term": "Recensement",
-          "original": "Hebrew: מִפְקָד (mifqad), Greek: ἀριθμός (arithmos), Aramaic: מנינא (menina)",
-          "note": "Dénombrement du peuple comme affirmation de contrôle ; perçu comme orgueilleux et manquant de confiance en la provision de Dieu."
+          "term": "Talent (poids)",
+          "original": "Hebrew: כִּכָּר (kikkar)",
+          "note": "Environ 75 livres (34 kg) de métal. Un « talent d'or » dans l'Ancien Testament (par exemple 2 Samuel 12:30) désigne une masse matérielle plutôt qu'une monnaie frappée. Le bronze de la Demeure (Exode 38:29) faisait 70 talents et 2 400 sicles."
         },
         {
-          "term": "Aire",
-          "original": "Hebrew: גֹּרֶן (goren), Greek: ἅλωνα (halōna), Aramaic: אגרנא (ʾagrana)",
-          "note": "Surface plate pour séparer le grain. Lieu sacré où Dieu se laisse fléchir et le feu descend, choisi ensuite pour le temple."
+          "term": "Ammon",
+          "original": "Hebrew: עַמּוֹן (Ammon) - בְּנֵי עַמּוֹן (bene Ammon), sons of Ammon",
+          "note": "Un royaume à l'est du Jourdain autour de Rabba, l'actuelle Amman, descendu de Loth par sa fille cadette (Genèse 19:38). Leur dieu national était Milkom, appelé aussi Molek, dont le culte prenait les enfants par le feu. Il fut dit à Israël de ne pas les inquiéter sur la route de Canaan (Deutéronome 2:19), mais les guerres de frontière courent de Juges 11 jusqu'à Néhémie 4."
+        },
+        {
+          "term": "Raser les barbes",
+          "original": "Hebrew: זָקָן (zaqan), beard",
+          "note": "Hanoun rase les messagers de David et coupe leurs vêtements à hauteur des hanches (verset 4). Les deux moitiés du geste sont des insultes calculées : la barbe d'un homme adulte marquait son rang, et couper le vêtement au niveau des fesses l'exposait comme on dépouillait et exhibait les prisonniers de guerre (Ésaïe 20:4). Les messagers diplomatiques étaient des personnes protégées, de sorte que c'était un acte de guerre, non une grossièreté."
         }
       ],
-      "keyTakeaway": "David envoie des messagers pour consoler Hanoune après la mort de son père, mais Hanoune les humilie ; les Ammonites recrutent des forces araméennes pour combattre Israël, mais Joab défait les deux armées et tue leurs commandants.",
+      "keyTakeaway": "David envoie des messagers consoler Hanoun à la mort de son père, mais Hanoun les humilie ; les Ammonites louent des troupes araméennes pour combattre Israël, et pourtant Joab bat les deux armées et tue leurs chefs.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1469,30 +1612,35 @@
         "Ces hommes de Gath étaient issus de Rapha. Ils tombèrent sous les coups de David et de ses hommes. (20:8)."
       ],
       "crossRefs": [
-        "2 Samuel 8–10: Parallèles des guerres de David.",
-        "2 Samuel 24: Récit parallèle du recensement de David et de la peste.",
-        "Genèse 14:18–20: La bénédiction de Melchisédek près de Salem, en lien avec le lieu saint de Jérusalem.",
-        "2 Chroniques 3:1: Le site du temple identifié comme le mont Morija, où Abraham offrit Isaac.",
-        "Zacharie 14:16–17: Le culte à Jérusalem comme lieu du Roi."
+        "2 Samuel 11:1: Au printemps, au temps où les rois partent en campagne, David envoya Joab et resta à Jérusalem.",
+        "2 Samuel 12:26-31: La même chute de Rabba, la couronne d'un talent d'or, et le travail forcé.",
+        "1 Samuel 17:4-7: Goliath de Gath, haut de six coudées et un empan, avec un bois de lance comme une ensouple de tisserand.",
+        "2 Samuel 21:15-22: Le rôle parallèle de quatre géants philistins tués par les hommes de David.",
+        "Nombres 13:32-33: Les explorateurs rapportent des hommes de très grande taille dans le pays, les descendants d'Anaq."
       ],
       "translationNotes": [
         {
-          "term": "Satan",
-          "original": "Hebrew: שָּׂטָן (śatan), Greek: διάβολος (diabolos), Aramaic: שטנא (satana)",
-          "note": "Signifie « adversaire/opposant ». Dans ce contexte, un adversaire personnel ou l'Accusateur ; 2 Samuel 24 attribue l'incitation directement à Dieu, ce qui montre une tension théologique."
+          "term": "Talent (monnaie)",
+          "original": "Hebrew: כִּכָּר (kikkar); Greek: τάλαντον (talanton)",
+          "note": "La plus grande unité de poids et de monnaie du monde ancien. Un talent d'argent pesait environ 75 livres (34 kg) et valait à peu près 6 000 deniers, soit environ 20 ans de salaire d'un ouvrier. Un talent d'or valait bien davantage. Quand Jésus raconte la parabole des talents (Matthieu 25:14-30), chaque talent représente une confiance considérable."
         },
         {
-          "term": "Recensement",
-          "original": "Hebrew: מִפְקָד (mifqad), Greek: ἀριθμός (arithmos), Aramaic: מנינא (menina)",
-          "note": "Dénombrement du peuple comme affirmation de contrôle ; perçu comme orgueilleux et manquant de confiance en la provision de Dieu."
+          "term": "Rabba",
+          "original": "Hebrew: רַבָּה (Rabbah), the great one",
+          "note": "La capitale ammonite, à environ vingt-trois milles à l'est du Jourdain sur la route commerciale du Chemin du Roi ; le site est l'actuelle Amman. Elle se tenait sur une haute citadelle au-dessus d'une source, ce qui explique qu'il ait fallu un siège plutôt qu'un assaut et que la prise du point d'eau l'ait brisée (2 Samuel 12:27). Le verset 1 fait faire le travail par Joab pendant que David reste chez lui."
         },
         {
-          "term": "Aire",
-          "original": "Hebrew: גֹּרֶן (goren), Greek: ἅλωνα (halōna), Aramaic: אגרנא (ʾagrana)",
-          "note": "Surface plate pour séparer le grain. Lieu sacré où Dieu se laisse fléchir et le feu descend, choisi ensuite pour le temple."
+          "term": "Descendants des géants",
+          "original": "Hebrew: יְלִידֵי הָרָפָא (yelidei ha-rapha)",
+          "note": "Les versets 4, 6 et 8 appellent Sippaï, Lahmi et l'homme à six doigts de Gath des descendants du Rapha. Israël avait déjà rencontré des hommes d'une taille inhabituelle : les explorateurs en rapportèrent en Nombres 13:32-33, et Og, roi du Bashân, dormait dans un lit de fer de treize pieds et demi de long (Deutéronome 3:11). Ils subsistèrent dans les villes philistines de la côte après que Josué les eut chassés de la montagne (Josué 11:22)."
+        },
+        {
+          "term": "Un talent d'or",
+          "original": "Hebrew: כִּכָּר זָהָב (kikkar zahav)",
+          "note": "La couronne du verset 2 pèse un talent, environ 75 livres. Aucune tête ne porte cela, de sorte qu'elle fut enlevée à l'idole ou au trône et tenue au-dessus de David plutôt que portée ; le texte dit que son poids fut trouvé d'un talent et qu'une pierre précieuse en passa dans la couronne de David. En métal, c'est une fortune : l'or, à toute époque, se compte à l'once, et un talent fait environ 1 200 onces troy."
         }
       ],
-      "keyTakeaway": "Joab assiège et détruit Rabba tandis que David reste à Jérusalem ; David prend la couronne et le butin du roi des Ammonites et soumet le peuple conquis au travail forcé. Les forces de David livrent ensuite plusieurs batailles contre les Philistins, et ses hommes tuent plusieurs géants, dont Lahmi, le frère de Goliath.",
+      "keyTakeaway": "Joab assiège et détruit Rabba pendant que David reste à Jérusalem, prend la couronne du roi ammonite et le butin, et soumet les vaincus au travail forcé. Les troupes de David livrent ensuite plusieurs batailles contre les Philistins, et ses hommes tuent plusieurs géants, dont Lahmi, le frère de Goliath.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1543,30 +1691,45 @@
         "Mais David ne pouvait pas y aller pour chercher Dieu, parce qu'il était rempli d'effroi à cause de l'épée du messager du SEIGNEUR. (21:30)."
       ],
       "crossRefs": [
-        "2 Samuel 8–10: Parallèles des guerres de David.",
-        "2 Samuel 24: Récit parallèle du recensement de David et de la peste.",
-        "Genèse 14:18–20: La bénédiction de Melchisédek près de Salem, en lien avec le lieu saint de Jérusalem.",
-        "2 Chroniques 3:1: Le site du temple identifié comme le mont Morija, où Abraham offrit Isaac.",
-        "Zacharie 14:16–17: Le culte à Jérusalem comme lieu du Roi."
+        "2 Samuel 24:1-25: Le même recensement, la même peste de trois jours, et l'achat de l'aire de battage d'Arauna.",
+        "Exode 30:11-16: Tout homme dénombré au recensement doit payer un demi-sicle de rançon pour qu'aucun fléau n'éclate.",
+        "2 Chroniques 3:1: Salomon bâtit le temple sur le mont Moriya, à l'aire de battage d'Ornân le Jébusien.",
+        "Genèse 22:2,14: Abraham est envoyé au pays de Moriya, et il nomme le lieu Le SEIGNEUR pourvoira.",
+        "Job 1:6-12: Le Satan se présente devant le SEIGNEUR et reçoit permission de frapper tout ce que Job possède."
       ],
       "translationNotes": [
         {
           "term": "Satan",
           "original": "Hebrew: שָּׂטָן (śatan), Greek: διάβολος (diabolos), Aramaic: שטנא (satana)",
-          "note": "Signifie « adversaire/opposant ». Dans ce contexte, un adversaire personnel ou l'Accusateur ; 2 Samuel 24 attribue l'incitation directement à Dieu, ce qui montre une tension théologique."
+          "note": "Signifie « adversaire, opposant ». Dans ce contexte, un adversaire personnel ou l'Accusateur ; 2 Samuel 24 attribue l'incitation directement à Dieu, ce qui laisse une tension théologique."
         },
         {
           "term": "Recensement",
           "original": "Hebrew: מִפְקָד (mifqad), Greek: ἀριθμός (arithmos), Aramaic: מנינא (menina)",
-          "note": "Dénombrement du peuple comme affirmation de contrôle ; perçu comme orgueilleux et manquant de confiance en la provision de Dieu."
+          "note": "Compter les gens comme une affirmation de contrôle ; tenu ici pour un acte d'orgueil et un manque de confiance dans la provision de Dieu."
         },
         {
-          "term": "Aire",
-          "original": "Hebrew: גֹּרֶן (goren), Greek: ἅλωνα (halōna), Aramaic: אגרנא (ʾagrana)",
-          "note": "Surface plate pour séparer le grain. Lieu sacré où Dieu se laisse fléchir et le feu descend, choisi ensuite pour le temple."
+          "term": "Aire de battage",
+          "original": "Hebrew: גֹּרֶן (goren)",
+          "note": "Une surface plate, dure et en plein air, d'ordinaire un rocher aplani ou un cercle de terre battue à la lisière de la ville, où le grain récolté était séparé de la balle. Des bœufs traînaient un traîneau de bois sur les tiges ; les grains et la balle mêlés étaient ensuite vannés au vent. Les aires de battage servaient aussi d'espaces publics (Ruth 3 ; 2 Samuel 24:18 ; l'emplacement du temple de Salomon)."
+        },
+        {
+          "term": "Toile de sac",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Une étoffe grossière et sombre en poil de chèvre, portée à même la peau comme signe universel de deuil, de repentir ou de détresse (1 Rois 21:27 ; Jonas 3:5 ; Matthieu 11:21), et que cette traduction rend simplement par un sac. La porter en public annonçait le chagrin ou la contrition ; l'inconfort lui-même faisait partie du symbole."
+        },
+        {
+          "term": "Six cents sicles d'or",
+          "original": "Hebrew: שֶׁקֶל (sheqel)",
+          "note": "Un sicle est un poids, non une pièce, d'environ 0,4 once ou 11,4 grammes. Six cents sicles d'or font à peu près quinze livres d'or, payées au verset 25 pour le terrain. Le parallèle de 2 Samuel 24:24 consigne cinquante sicles d'argent pour l'aire elle-même et les bœufs ; les Chroniques donnent le prix de tout le lieu."
+        },
+        {
+          "term": "Ornân le Jébusien",
+          "original": "Hebrew: אָרְנָן (Ornan) - אֲרַוְנָה (Aravnah)",
+          "note": "Le même homme est Ornân ici et Arauna en 2 Samuel 24. C'est un Jébusien, l'un des habitants d'origine de Jérusalem, qui vit et cultive encore là après que David eut pris la ville, et c'est pourquoi il possède une aire de battage en activité sur la crête au nord de celle-ci. C'est sur cette crête que s'élève le temple (2 Chroniques 3:1)."
         }
       ],
-      "keyTakeaway": "Satan pousse David à recenser les hommes de guerre d'Israël ; Dieu punit ce recensement par une peste qui fait soixante-dix mille morts, mais il se ravise lorsque David construit un autel et offre des sacrifices sur l'aire d'Arauna.",
+      "keyTakeaway": "Satan pousse David à dénombrer les combattants d'Israël ; Dieu punit le recensement par une peste qui tue soixante-dix mille hommes, mais il y renonce quand David bâtit un autel et offre des sacrifices sur l'aire de battage d'Ornân.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1602,24 +1765,34 @@
         "Appliquez maintenant votre cœur et votre âme à chercher le SEIGNEUR, votre Dieu ; bâtissez le sanctuaire du SEIGNEUR Dieu, afin d'amener le coffre de l'alliance du SEIGNEUR et les ustensiles sacrés de Dieu dans la maison qui va être bâtie pour le nom du SEIGNEUR. (22:19)."
       ],
       "crossRefs": [
-        "2 Samuel 7:12–13: Dieu promet que le fils de David bâtira la maison.",
-        "1 Rois 5:3–5: Salomon rappelle pourquoi David n'a pu bâtir le temple.",
-        "Deutéronome 12:10–11: Un lieu de repos et la demeure choisie par Dieu.",
-        "Ésaïe 9:6: Le Messie appelé « Prince de la Paix », à l'image du rôle de Salomon par contraste avec David."
+        "2 Samuel 7:12-13: Dieu promet que le fils de David bâtira la maison.",
+        "1 Rois 5:3-5: Salomon rappelle pourquoi David n'a pas pu bâtir le temple.",
+        "Deutéronome 12:10-11: Un lieu de repos et la demeure choisie par Dieu.",
+        "Ésaïe 9:6: Le Messie appelé « Prince de la paix », comme le rôle de Salomon en contraste avec David."
       ],
       "translationNotes": [
         {
           "term": "Paix",
           "original": "Hebrew: שָׁלוֹם (shalom), Greek: εἰρήνη (eirēnē), Aramaic: שלמא (shalma)",
-          "note": "Le nom de Salomon (שְׁלֹמֹה, Shlomo) dérive de shalom, signifiant paix et plénitude."
+          "note": "Le nom de Salomon (שְׁלֹמֹה, Shlomo) est dérivé de shalom, qui signifie la paix et la plénitude."
         },
         {
           "term": "Sanctuaire",
           "original": "Hebrew: מִקְדָּשׁ (miqdash), Greek: ἁγίασμα (hagiasma), Aramaic: מקדשא (miqdasha)",
-          "note": "Lieu saint mis à part pour la présence de Dieu parmi son peuple."
+          "note": "Lieu sacré mis à part pour la présence de Dieu au milieu de son peuple."
+        },
+        {
+          "term": "Talent (monnaie)",
+          "original": "Hebrew: כִּכָּר (kikkar); Greek: τάλαντον (talanton)",
+          "note": "La plus grande unité de poids et de monnaie du monde ancien. Un talent d'argent pesait environ 75 livres (34 kg) et valait à peu près 6 000 deniers, soit environ 20 ans de salaire d'un ouvrier. Un talent d'or valait bien davantage. Quand Jésus raconte la parabole des talents (Matthieu 25:14-30), chaque talent représente une confiance considérable."
+        },
+        {
+          "term": "Talent (poids)",
+          "original": "Hebrew: כִּכָּר (kikkar)",
+          "note": "Environ 75 livres (34 kg) de métal. Un « talent d'or » dans l'Ancien Testament (par exemple 2 Samuel 12:30) désigne une masse matérielle plutôt qu'une monnaie frappée. Le bronze de la Demeure (Exode 38:29) faisait 70 talents et 2 400 sicles."
         }
       ],
-      "keyTakeaway": "David ne peut pas bâtir le temple en raison de ses guerres, mais il prépare abondamment. Salomon est désigné comme l'homme de paix qui bâtira la maison de Dieu.",
+      "keyTakeaway": "David ne peut pas bâtir le temple à cause de ses guerres, mais il prépare tout en abondance. Salomon est choisi comme l'homme de paix qui bâtira la maison de Dieu.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1668,30 +1841,40 @@
         "Ils assurent le service de la tente de la Rencontre, le service du sanctuaire ; ils assurent le service pour les fils d'Aaron, leurs frères, en ce qui concerne le service de la maison du SEIGNEUR. (23:32)."
       ],
       "crossRefs": [
-        "Nombres 3:5–10: Les lévites nommés pour assister les prêtres.",
-        "1 Rois 2:1–12: Récit parallèle de la charge de David et du règne de Salomon.",
-        "2 Chroniques 29:25: Les musiciens établis par ordre de David.",
-        "Esdras 3:10–11: Les prêtres et les lévites continuent le service du temple après l'exil.",
-        "Actes 15:16–17: La restauration de la tente de David liée à l'inclusion des nations."
+        "Nombres 4:1-3: Les lévites sont dénombrés de trente à cinquante ans pour le service de la tente de la Rencontre.",
+        "Nombres 8:23-26: Les lévites commencent le service à vingt-cinq ans et se retirent des gros travaux à cinquante.",
+        "Nombres 3:5-10: Les lévites sont donnés à Aaron et à ses fils pour faire le travail de la Demeure.",
+        "Deutéronome 10:8-9: Lévi porte le coffre, se tient pour officier et bénit au nom du SEIGNEUR, sans héritage foncier.",
+        "Exode 6:16-19: Les fils de Lévi selon leurs générations : Guershôn, Qehath et Merari."
       ],
       "translationNotes": [
         {
           "term": "Lévites",
-          "original": "Hebrew: לֵוִיִּם (Levi’im), Greek: Λευῖται (Leuitai), Aramaic: לויא (Levaiya)",
-          "note": "Tribu mise à part pour le service sacerdotal, ne recevant pas d'héritage de terre mais consacrée à la maison de Dieu."
+          "original": "Hebrew: לֵוִיִּם (Leviyyim)",
+          "note": "La tribu de Lévi ne reçut aucun territoire. Nombres 18:20-24 lui donne la dîme à la place d'une terre et dit que le SEIGNEUR est sa part, et Josué 21 la disperse dans quarante-huit villes à l'intérieur des autres tribus. C'est pourquoi la tribu est organisée ici par fonction plutôt que par frontière, et pourquoi toute la tribu dépendait du bon fonctionnement du sanctuaire."
         },
         {
-          "term": "Offrande volontaire",
-          "original": "Hebrew: נְדָבָה (nedavah), Greek: ἑκούσιον (hekousion), Aramaic: נדבתא (nedavta)",
-          "note": "Contribution volontaire à Dieu, au-delà des dîmes ou sacrifices obligatoires."
+          "term": "Guershôn, Qehath et Merari",
+          "original": "Hebrew: גֵּרְשׁוֹן (Gershon) - קְהָת (Qehat) - מְרָרִי (Merari)",
+          "note": "Le verset 6 divise les lévites selon les trois fils de Lévi, et au désert chaque clan portait une partie différente de la Demeure. Qehath prenait le coffre et les objets sacrés sur l'épaule avec des barres, jamais sur un chariot (Nombres 4:4-15, 7:9). Guershôn prenait les tentures, les couvertures et les rideaux ; Merari prenait les cadres, les traverses, les colonnes et les socles (Nombres 3:25-37, 4:24-33). Les divisions données ici sont les mêmes familles, le portage en moins."
         },
         {
-          "term": "Plans",
-          "original": "Hebrew: תַּבְנִית (tabnit), Greek: τύπος (typos), Aramaic: תבניתא (tabnita)",
-          "note": "Plan ou modèle ; David affirme que ses plans du temple sont venus « par l'Esprit » (28:12)."
+          "term": "Trente-huit mille",
+          "original": "",
+          "note": "Les versets 3-5 détaillent le compte : 24 000 pour le travail de la maison, 6 000 officiers et juges, 4 000 portiers et 4 000 musiciens. Une fraction seulement servait à la fois, puisque les hommes se relayaient par classes. Les autres vivaient dans les villes lévitiques et cultivaient les pâturages qui y étaient attachés."
+        },
+        {
+          "term": "Officiers et juges",
+          "original": "Hebrew: שֹׁטְרִים (shoterim) - שֹׁפְטִים (shofetim)",
+          "note": "Six mille lévites, au verset 4, sont établis comme officiers et juges, ce qui est une charge civile et non une charge du sanctuaire. Deutéronome 17:8-9 renvoie les causes difficiles aux prêtres lévites et au juge en fonction, et 2 Chroniques 19:8-11 fait établir par Josaphat des lévites, des prêtres et des chefs de famille à Jérusalem comme tribunal. La tribu sans terre tenait les tribunaux."
+        },
+        {
+          "term": "Dénombrés à partir de vingt ans",
+          "original": "",
+          "note": "Le verset 3 dénombre les lévites à partir de trente ans, puis les versets 24 et 27 abaissent l'âge à vingt. La loi avait déjà déplacé cet âge une fois, de trente en Nombres 4:3 à vingt-cinq en Nombres 8:24. Le verset 26 donne la raison du changement : la Demeure n'étant plus transportée d'un lieu à l'autre, la tâche cessait d'être un portage de charges pour devenir un service permanent du temple."
         }
       ],
-      "keyTakeaway": "David désigne Salomon comme roi et répartit trente-huit mille lévites en divisions pour le service du temple, en les chargeant d'entretenir l'édifice, de diriger le culte, de servir comme juges et gardiens des portes, et d'assister les descendants d'Aaron dans la manipulation des objets sacrés et des offrandes.",
+      "keyTakeaway": "David établit Salomon comme roi et organise trente-huit mille lévites en divisions pour le service du temple, en les affectant à l'entretien du bâtiment, à la conduite du culte, aux fonctions de juges et de portiers, et à l'assistance des descendants d'Aaron pour les objets sacrés et les offrandes.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1739,30 +1922,35 @@
         "Eux aussi, comme leurs frères, les fils d'Aaron, ils tirèrent au sort devant le roi David, Tsadoq, Ahimélek et les chefs de famille des prêtres et des lévites. Il en fut ainsi pour chaque chef de famille comme pour le moindre de ses frères. (24:31)."
       ],
       "crossRefs": [
-        "Nombres 3:5–10: Les lévites nommés pour assister les prêtres.",
-        "1 Rois 2:1–12: Récit parallèle de la charge de David et du règne de Salomon.",
-        "2 Chroniques 29:25: Les musiciens établis par ordre de David.",
-        "Esdras 3:10–11: Les prêtres et les lévites continuent le service du temple après l'exil.",
-        "Actes 15:16–17: La restauration de la tente de David liée à l'inclusion des nations."
+        "Lévitique 10:1-7: Nadab et Abihou offrent devant le SEIGNEUR un feu qui n'était pas prescrit et il les fait mourir.",
+        "Nombres 3:2-4: Les quatre fils d'Aaron sont nommés, et Eléazar et Itamar exercent le sacerdoce après la mort des deux autres.",
+        "Luc 1:5-9: Zacharie appartient à la classe d'Abiya, et le sort lui échoit d'offrir l'encens.",
+        "1 Samuel 2:30-36: La parole contre la maison d'Eli, et la promesse de susciter un prêtre fidèle.",
+        "Proverbes 16:33: Le sort est jeté dans le pan du vêtement, mais toute décision vient du SEIGNEUR."
       ],
       "translationNotes": [
         {
-          "term": "Lévites",
-          "original": "Hebrew: לֵוִיִּם (Levi’im), Greek: Λευῖται (Leuitai), Aramaic: לויא (Levaiya)",
-          "note": "Tribu mise à part pour le service sacerdotal, ne recevant pas d'héritage de terre mais consacrée à la maison de Dieu."
+          "term": "Nadab et Abihou",
+          "original": "Hebrew: נָדָב (Nadav) - אֲבִיהוּא (Avihu)",
+          "note": "Le verset 2 dit que les deux fils aînés d'Aaron « moururent avant leur père, et ils n'eurent pas de fils ». Lévitique 10:1-2 en donne la raison : ils offrirent devant le SEIGNEUR un feu qui n'était pas prescrit et un feu sortit et les dévora. Comme ils ne laissèrent pas de fils, tout le sacerdoce d'Israël descend des deux frères cadets, ce que le reste de ce chapitre répartit."
         },
         {
-          "term": "Offrande volontaire",
-          "original": "Hebrew: נְדָבָה (nedavah), Greek: ἑκούσιον (hekousion), Aramaic: נדבתא (nedavta)",
-          "note": "Contribution volontaire à Dieu, au-delà des dîmes ou sacrifices obligatoires."
+          "term": "Eléazar et Itamar",
+          "original": "Hebrew: אֶלְעָזָר (Elazar) - אִיתָמָר (Itamar)",
+          "note": "Les deux maisons sacerdotales survivantes. Le verset 4 compte seize chefs de famille du côté d'Eléazar et huit du côté d'Itamar, et le verset 3 nomme leurs principaux au temps de David : Tsadoq du côté d'Eléazar, Ahimélek du côté d'Itamar. Le verset 5 répartit les charges par le sort entre les deux maisons, afin qu'aucune ne puisse revendiquer la préséance par le nombre."
         },
         {
-          "term": "Plans",
-          "original": "Hebrew: תַּבְנִית (tabnit), Greek: τύπος (typos), Aramaic: תבניתא (tabnita)",
-          "note": "Plan ou modèle ; David affirme que ses plans du temple sont venus « par l'Esprit » (28:12)."
+          "term": "Vingt-quatre classes",
+          "original": "Hebrew: מַחְלְקוֹת (mahleqot)",
+          "note": "Il y avait trop de prêtres pour servir tous en même temps, et David les répartit donc en vingt-quatre classes qui se relayaient au sanctuaire environ une semaine chacune, deux fois l'an, avec tout le monde présent aux trois fêtes de pèlerinage. L'ordre fut fixé par le sort et resta fixé mille ans : Luc 1:5 place encore Zacharie dans la huitième classe, celle d'Abiya, qui est le verset 10 de ce chapitre."
+        },
+        {
+          "term": "Tirer au sort",
+          "original": "Hebrew: גּוֹרָל (goral)",
+          "note": "Des pierres ou des baguettes marquées étaient secouées ou tirées pour trancher une décision, et Israël tenait le résultat pour la réponse de Dieu plutôt que pour un hasard (Proverbes 16:33). On s'en servit pour partager le pays (Josué 18:6), pour découvrir Akân (Josué 7:14), et ici pour fixer l'ordre sacerdotal afin qu'aucune famille ne puisse revendiquer la préséance. Les apôtres l'emploient une dernière fois en Actes 1:26."
         }
       ],
-      "keyTakeaway": "Les descendants d'Aaron sont répartis en vingt-quatre divisions pour le service sacerdotal, les sorts étant tirés impartialement entre les lignées d'Éléazar et d'Itamar ; David organise aussi les autres Lévites en groupes familiaux par tirage au sort.",
+      "keyTakeaway": "David répartit les descendants d'Aaron en vingt-quatre classes pour le service sacerdotal, les sorts étant tirés sans partialité entre les lignées d'Eléazar et d'Itamar ; il organise aussi le reste des lévites en groupes familiaux par tirage au sort.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1810,30 +1998,40 @@
         "pour le vingt-quatrième, à Romamti-Ezer, ses fils et ses frères, douze. (25:31)."
       ],
       "crossRefs": [
-        "Nombres 3:5–10: Les lévites nommés pour assister les prêtres.",
-        "1 Rois 2:1–12: Récit parallèle de la charge de David et du règne de Salomon.",
-        "2 Chroniques 29:25: Les musiciens établis par ordre de David.",
-        "Esdras 3:10–11: Les prêtres et les lévites continuent le service du temple après l'exil.",
-        "Actes 15:16–17: La restauration de la tente de David liée à l'inclusion des nations."
+        "1 Samuel 10:5-6: Une troupe de prophètes descend du haut lieu avec la lyre, le tambourin, la flûte et la harpe, en prophétisant.",
+        "2 Rois 3:15: Elisée demande un musicien, et pendant que l'homme joue la main du SEIGNEUR vient sur lui.",
+        "1 Chroniques 16:4-7: Asaph est d'abord établi devant le coffre pour invoquer, célébrer et louer le SEIGNEUR.",
+        "2 Chroniques 29:25-30: Ezéchias poste des lévites avec des cymbales, des harpes et des lyres selon l'ordre de David et des prophètes.",
+        "Psaumes 73:1-28: L'un des douze psaumes portés sous le nom d'Asaph, dont les fils sont mis à part ici."
       ],
       "translationNotes": [
         {
-          "term": "Lévites",
-          "original": "Hebrew: לֵוִיִּם (Levi’im), Greek: Λευῖται (Leuitai), Aramaic: לויא (Levaiya)",
-          "note": "Tribu mise à part pour le service sacerdotal, ne recevant pas d'héritage de terre mais consacrée à la maison de Dieu."
+          "term": "Prophétiser avec des instruments",
+          "original": "Hebrew: נִבָּא (nibba), to prophesy",
+          "note": "Les versets 1 à 3 décrivent des hommes mis à part pour prophétiser avec des lyres, des harpes et des cymbales. L'hébreu emploie le mot ordinaire pour prophétiser, de sorte que le chant du temple n'était pas tenu pour une musique de fond mais pour la proclamation à voix haute de la parole de Dieu sous une forme réglée. Le même lien entre musique et prophétie paraît en 1 Samuel 10:5 et 2 Rois 3:15."
         },
         {
-          "term": "Offrande volontaire",
-          "original": "Hebrew: נְדָבָה (nedavah), Greek: ἑκούσιον (hekousion), Aramaic: נדבתא (nedavta)",
-          "note": "Contribution volontaire à Dieu, au-delà des dîmes ou sacrifices obligatoires."
+          "term": "Lyre, harpe et cymbales",
+          "original": "Hebrew: כִּנּוֹר (kinnor) - נֵבֶל (nevel) - מְצִלְתַּיִם (metsiltayim)",
+          "note": "Le kinnor était une petite lyre tenue à la main, assez légère pour être portée et jouée en marchant, et c'est l'instrument dont David jouait pour Saül. Le nevel était un instrument à cordes plus grand, au son plus plein. Les metsiltayim étaient des cymbales de bronze, nommées par paire, employées pour marquer la mesure plutôt que pour porter la mélodie."
         },
         {
-          "term": "Plans",
-          "original": "Hebrew: תַּבְנִית (tabnit), Greek: τύπος (typos), Aramaic: תבניתא (tabnita)",
-          "note": "Plan ou modèle ; David affirme que ses plans du temple sont venus « par l'Esprit » (28:12)."
+          "term": "Le voyant du roi",
+          "original": "Hebrew: חֹזֶה (hozeh), seer",
+          "note": "Le verset 5 appelle Hémân « le voyant du roi ». Un hozeh occupait un poste permanent dans la maison royale, à la différence d'un prophète qui paraissait sans être appelé. Gad est appelé le voyant de David en 2 Samuel 24:11, et 2 Chroniques 35:15 énumère ensemble Asaph, Hémân et Yedoutoun comme les voyants du roi. Hémân dirigeait la musique et tenait en même temps une charge de cour."
+        },
+        {
+          "term": "Deux cent quatre-vingt-huit",
+          "original": "",
+          "note": "Le verset 7 chiffre à 288 les chantres formés, et le verset 9 et les suivants les répartissent en vingt-quatre lots. Cela fait exactement douze hommes par classe, appariés un pour un aux vingt-quatre classes de prêtres du chapitre précédent, de sorte qu'un service complet de chantres entrait en fonction avec chaque service de prêtres."
+        },
+        {
+          "term": "Des noms qui sont des phrases",
+          "original": "Hebrew: גִּדַּלְתִּי (Giddalti) - מַלּוֹתִי (Malloti) - הוֹתִיר (Hotir) - מַחֲזִיאוֹת (Mahazioth)",
+          "note": "Les derniers fils d'Hémân au verset 4 portent des noms qui sont des mots hébreux ordinaires plutôt que des noms de personnes habituels. Guiddalti signifie « j'ai magnifié », Mallothi « j'ai prononcé », Hothir « il a donné en abondance », Mahazioth « visions », et Romamti-Ezer « j'ai exalté le secours ». La translittération française le cache entièrement."
         }
       ],
-      "keyTakeaway": "David et les chefs mettent à part des fils d'Asaph, de Héman et de Yedoutoun pour prophétiser et faire de la musique dans le temple ; 288 musiciens formés tirent au sort leurs vingt-quatre rotations de service.",
+      "keyTakeaway": "David et les chefs mettent à part des fils d'Asaph, d'Hémân et de Yedoutoun pour prophétiser et faire la musique au temple ; 288 musiciens formés tirent au sort pour déterminer leurs vingt-quatre tours de service.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1882,30 +2080,35 @@
         "Ses frères, de vaillants hommes, étaient au nombre de 2 700 chefs de famille. Le roi David les nomma à la tête des Rubénites, des Gadites et de la demi-tribu des Manassites pour toutes les affaires de Dieu et pour les affaires du roi. (26:32)."
       ],
       "crossRefs": [
-        "Nombres 3:5–10: Les lévites nommés pour assister les prêtres.",
-        "1 Rois 2:1–12: Récit parallèle de la charge de David et du règne de Salomon.",
-        "2 Chroniques 29:25: Les musiciens établis par ordre de David.",
-        "Esdras 3:10–11: Les prêtres et les lévites continuent le service du temple après l'exil.",
-        "Actes 15:16–17: La restauration de la tente de David liée à l'inclusion des nations."
+        "Nombres 16:1-35: Coré le lévite et sa troupe sont engloutis par la terre pour s'être emparés du sacerdoce.",
+        "Nombres 26:9-11: Les fils de Coré ne moururent pas, et leur lignée se poursuivit en Israël.",
+        "Psaumes 84:10: Mieux vaut un jour dans tes parvis, et se tenir au seuil de la maison de Dieu, que mille ailleurs.",
+        "2 Rois 12:9-10: Le prêtre qui garde le seuil place un coffre à côté de l'autel pour l'argent apporté.",
+        "1 Chroniques 13:13-14: Obed-Edom garde le coffre dans sa maison trois mois, et le SEIGNEUR bénit sa maisonnée."
       ],
       "translationNotes": [
         {
-          "term": "Lévites",
-          "original": "Hebrew: לֵוִיִּם (Levi’im), Greek: Λευῖται (Leuitai), Aramaic: לויא (Levaiya)",
-          "note": "Tribu mise à part pour le service sacerdotal, ne recevant pas d'héritage de terre mais consacrée à la maison de Dieu."
+          "term": "Portiers",
+          "original": "Hebrew: שֹׁעֲרִים (shoarim)",
+          "note": "Non pas des placeurs. C'étaient des lévites en armes en faction permanente aux portes du sanctuaire et aux entrepôts, vingt-quatre postes répartis à l'est, à l'ouest, au nord et au sud (versets 17-18), contrôlant qui et quoi entrait. Ils tenaient aussi les clés, ouvraient à l'aube, et gardaient les trésors des dons consacrés décrits aux versets 20-28."
         },
         {
-          "term": "Offrande volontaire",
-          "original": "Hebrew: נְדָבָה (nedavah), Greek: ἑκούσιον (hekousion), Aramaic: נדבתא (nedavta)",
-          "note": "Contribution volontaire à Dieu, au-delà des dîmes ou sacrifices obligatoires."
+          "term": "Obed-Edom",
+          "original": "Hebrew: עֹבֵד אֱדוֹם (Oved Edom)",
+          "note": "Les versets 4-8 comptent soixante-deux hommes de sa maison parmi les portiers. C'est l'homme chez qui le coffre fut laissé trois mois après la mort d'Ouzza, et 1 Chroniques 13:14 dit que le SEIGNEUR bénit sa maisonnée pendant ce temps, ce qui décida David à tenter de nouveau le transfert. Sa famille finit en service permanent aux portes."
         },
         {
-          "term": "Plans",
-          "original": "Hebrew: תַּבְנִית (tabnit), Greek: τύπος (typos), Aramaic: תבניתא (tabnita)",
-          "note": "Plan ou modèle ; David affirme que ses plans du temple sont venus « par l'Esprit » (28:12)."
+          "term": "Les trésors consacrés",
+          "original": "Hebrew: קָדָשִׁים (qodashim), dedicated things",
+          "note": "Les versets 26-28 décrivent un trésor distinct alimenté par le butin de guerre, consacré par Samuel le voyant, par Saül, par Abner, par Joab et par les chefs de l'armée, et mis à part pour l'entretien de la maison du SEIGNEUR. Le métal et les biens pris étaient transférés au sanctuaire plutôt que partagés, et des lévites en tenaient le compte."
+        },
+        {
+          "term": "Officiers sur les affaires d'Israël",
+          "original": "Hebrew: שֹׁטְרִים (shoterim), officials",
+          "note": "Les versets 29-32 placent des lévites entièrement hors du temple : Kenania et ses fils aux « affaires du dehors, comme officiers et juges », 1 700 hommes sur Israël à l'ouest du Jourdain, et 2 700 sur Ruben, Gad et la demi-tribu de Manassé à l'est, « pour toute affaire touchant Dieu et pour les affaires du roi ». Un même corps d'hommes traitait dans les provinces les affaires religieuses et royales."
         }
       ],
-      "keyTakeaway": "Les portiers et les lévites du temple sont organisés par divisions familiales et affectés à différentes portes et fonctions ; d'autres lévites sont désignés pour gérer les trésors du temple, exercer des rôles d'officiers et de juges, et superviser le service du Seigneur et celui du roi.",
+      "keyTakeaway": "Les portiers du temple et les lévites sont organisés par divisions familiales et affectés à différentes portes et fonctions ; d'autres lévites sont établis sur les trésors du temple, comme officiers et juges, et pour surveiller l'ouvrage du Seigneur et le service du roi.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1956,30 +2159,40 @@
         "après Ahitophel, il y eut Joïada, fils de Benaya, et Abiathar ; Joab était chef de l'armée du roi. (27:34)."
       ],
       "crossRefs": [
-        "Nombres 3:5–10: Les lévites nommés pour assister les prêtres.",
-        "1 Rois 2:1–12: Récit parallèle de la charge de David et du règne de Salomon.",
-        "2 Chroniques 29:25: Les musiciens établis par ordre de David.",
-        "Esdras 3:10–11: Les prêtres et les lévites continuent le service du temple après l'exil.",
-        "Actes 15:16–17: La restauration de la tente de David liée à l'inclusion des nations."
+        "1 Chroniques 21:1-7: Joab commence le recensement en protestant et ne dénombre jamais Lévi ni Benjamin.",
+        "2 Samuel 15:31-37: Ahitophel se joint à Absalom, et Houshaï l'Arkite est renvoyé pour déjouer son conseil.",
+        "2 Samuel 17:1-14,23: Le conseil d'Ahitophel est écarté, et il rentre chez lui, met sa maison en ordre et se pend.",
+        "1 Rois 4:7-19: Les douze officiers de Salomon, chargés chacun de pourvoir la maison royale un mois par an.",
+        "1 Chroniques 11:6-9: Joab est fait chef et commandant pour être monté le premier contre la forteresse jébusienne."
       ],
       "translationNotes": [
         {
-          "term": "Lévites",
-          "original": "Hebrew: לֵוִיִּם (Levi’im), Greek: Λευῖται (Leuitai), Aramaic: לויא (Levaiya)",
-          "note": "Tribu mise à part pour le service sacerdotal, ne recevant pas d'héritage de terre mais consacrée à la maison de Dieu."
+          "term": "Vingt-quatre mille par mois",
+          "original": "Hebrew: אֶלֶף (eleph), thousand or clan",
+          "note": "Douze divisions de 24 000 hommes se relayant un mois chacune, c'est un rôle de milice et non une armée permanente ; des cultivateurs faisaient leur mois et rentraient pour la moisson. Le mot hébreu rendu par mille, eleph, désigne aussi un clan ou une unité militaire, ce qui explique que les totaux des recensements d'Israël se lisent si grands. Le verset 24 note que le recensement qui a produit ces chiffres ne fut même jamais achevé."
         },
         {
-          "term": "Offrande volontaire",
-          "original": "Hebrew: נְדָבָה (nedavah), Greek: ἑκούσιον (hekousion), Aramaic: נדבתא (nedavta)",
-          "note": "Contribution volontaire à Dieu, au-delà des dîmes ou sacrifices obligatoires."
+          "term": "La liste des tribus",
+          "original": "",
+          "note": "Les versets 16-22 nomment un chef pour chaque tribu, mais la liste compte treize entrées et ne correspond pas au rôle habituel. Aaron a son officier propre, Lévi est énuméré à part, Manassé paraît deux fois pour ses deux moitiés, et Gad et Asher ne sont pas nommés du tout. Le texte consigne la liste telle qu'elle est, sans expliquer les omissions."
         },
         {
-          "term": "Plans",
-          "original": "Hebrew: תַּבְנִית (tabnit), Greek: τύπος (typos), Aramaic: תבניתא (tabnita)",
-          "note": "Plan ou modèle ; David affirme que ses plans du temple sont venus « par l'Esprit » (28:12)."
+          "term": "Les domaines du roi",
+          "original": "Hebrew: רְכוּשׁ (rekhush), property",
+          "note": "Les versets 25-31 sont un inventaire des terres de la couronne, chaque bien avec un intendant nommé : les magasins de la capitale et des forteresses, le travail des champs, les vignes et les celliers, les oliviers et les sycomores du bas pays, le gros bétail du Sharôn et des vallées, les chameaux, les ânes et les troupeaux. Deux des intendants sont des étrangers engagés pour leur spécialité, Obil l'Ismaélite sur les chameaux et Yaziz le Hagrite sur les troupeaux."
+        },
+        {
+          "term": "Les sycomores du bas pays",
+          "original": "Hebrew: שִׁקְמִים (shiqmim), sycamore figs - שְׁפֵלָה (shephelah), lowland",
+          "note": "L'arbre du verset 28 est le sycomore figuier, non le platane que le nom pourrait suggérer. Il pousse dans la chaude Shephéla, la ceinture de basses collines crayeuses entre la plaine côtière et la crête de Juda, et son fruit devait être percé ou pincé à la main quelques jours avant la cueillette pour mûrir correctement. C'est le métier qu'Amos revendique comme le sien en Amos 7:14."
+        },
+        {
+          "term": "L'ami du roi",
+          "original": "Hebrew: רֵעֶה הַמֶּלֶךְ (reeh ha-melekh), friend of the king",
+          "note": "Le verset 33 énumère deux charges de cour côte à côte. Le conseiller, yoets, avisait sur la politique, et le conseil d'Ahitophel était tenu de son temps comme si l'on avait consulté Dieu (2 Samuel 16:23). « L'ami du roi » était un titre officiel pour le plus proche confident du roi, tenu ici par Houshaï l'Arkite, et les deux charges se jouent dans la révolte d'Absalom en 2 Samuel 15-17."
         }
       ],
-      "keyTakeaway": "Le chapitre énumère douze commandants militaires dirigeant chacun 24 000 hommes en service mensuel rotatif, puis les chefs des douze tribus et les responsables des réserves, des champs, des troupeaux et des autres biens du roi. Joab avait commencé le recensement sans l'achever, et la colère de Dieu s'abattit sur Israël à cause de ce dénombrement.",
+      "keyTakeaway": "Le chapitre énumère douze chefs militaires qui commandaient chacun 24 000 hommes en service mensuel par roulement, puis les chefs des douze tribus et les officiers préposés aux magasins, aux terres, aux troupeaux et aux autres biens du roi. Joab commença le dénombrement des hommes sans l'achever, et la colère vint sur Israël à cause de ce recensement.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2021,30 +2234,40 @@
         "Voici les classes des prêtres et des lévites pour tout le service de la maison de Dieu. Auprès de toi, pour tout l'ouvrage, il y a tous les volontaires habiles pour toutes sortes de services, les chefs et tout le peuple, prêts à exécuter tous tes ordres. (28:21)."
       ],
       "crossRefs": [
-        "Nombres 3:5–10: Les lévites nommés pour assister les prêtres.",
-        "1 Rois 2:1–12: Récit parallèle de la charge de David et du règne de Salomon.",
-        "2 Chroniques 29:25: Les musiciens établis par ordre de David.",
-        "Esdras 3:10–11: Les prêtres et les lévites continuent le service du temple après l'exil.",
-        "Actes 15:16–17: La restauration de la tente de David liée à l'inclusion des nations."
+        "Exode 25:9,40: Le modèle de la Demeure est montré à Moïse, avec l'ordre de tout faire selon lui.",
+        "1 Chroniques 22:6-13: L'ordre antérieur donné en privé par David à Salomon de bâtir la maison et de garder la loi.",
+        "1 Rois 8:17-21: Salomon répète devant l'assemblée que Dieu l'a choisi, lui et non David, pour bâtir la maison.",
+        "Deutéronome 31:6-8: Sois fort et courageux ; le SEIGNEUR marche avec toi, il ne te délaissera pas et ne t'abandonnera pas.",
+        "Exode 25:17-22: Le propitiatoire et les deux keroubim d'or martelé au-dessus du coffre."
       ],
       "translationNotes": [
         {
-          "term": "Lévites",
-          "original": "Hebrew: לֵוִיִּם (Levi’im), Greek: Λευῖται (Leuitai), Aramaic: לויא (Levaiya)",
-          "note": "Tribu mise à part pour le service sacerdotal, ne recevant pas d'héritage de terre mais consacrée à la maison de Dieu."
+          "term": "Le modèle",
+          "original": "Hebrew: תַּבְנִית (tavnit)",
+          "note": "Le mot des versets 11, 12, 18 et 19 est celui-là même qui est employé quand le tavnit de la Demeure est montré à Moïse sur la montagne (Exode 25:9,40). Il désigne une maquette travaillée ou un cahier des charges, non l'esquisse d'une idée. Le verset 19 dit que David l'avait « par écrit, de la main du SEIGNEUR », avec le poids de chaque objet d'or et d'argent consigné."
         },
         {
-          "term": "Offrande volontaire",
-          "original": "Hebrew: נְדָבָה (nedavah), Greek: ἑκούσιον (hekousion), Aramaic: נדבתא (nedavta)",
-          "note": "Contribution volontaire à Dieu, au-delà des dîmes ou sacrifices obligatoires."
+          "term": "Officiers de cour",
+          "original": "Hebrew: סָרִיסִים (sarisim)",
+          "note": "Le verset 1 énumère l'assemblée que David convoque, et parmi les chefs de tribu et les commandants figurent les sarisim, rendus ici par officiers de cour et ailleurs par eunuques. Le mot couvre les hauts officiers d'une maison royale, ceux qui géraient le palais, le harem et les biens du roi, et dans les empires environnants de tels hommes étaient couramment castrés pour ne pouvoir fonder aucune dynastie. Potiphar porte le même titre en Genèse 37:36."
         },
         {
-          "term": "Plans",
-          "original": "Hebrew: תַּבְנִית (tabnit), Greek: τύπος (typos), Aramaic: תבניתא (tabnita)",
-          "note": "Plan ou modèle ; David affirme que ses plans du temple sont venus « par l'Esprit » (28:12)."
+          "term": "Pesé, non compté",
+          "original": "Hebrew: מִשְׁקָל (mishqal), weight",
+          "note": "Les versets 14-18 donnent les plans sous forme d'un état de poids : tant d'or pour chaque chandelier et ses lampes, tant pour chaque table, pour les fourchettes, les coupes, les plats, l'autel de l'encens. La monnaie frappée n'existait pas en Israël à cette époque, de sorte que l'or et l'argent se comptaient à la balance, par sicle et par talent. Préciser le poids de chaque objet est la façon dont un bâtisseur précisait cet objet."
+        },
+        {
+          "term": "Le char des keroubim",
+          "original": "Hebrew: מֶרְכָּבָה (merkavah), chariot",
+          "note": "Le verset 18 appelle char les keroubim d'or au-dessus du coffre. C'est le seul endroit de l'Ecriture où les figures qui couvrent le coffre sont nommées ainsi, et cela s'accorde avec les descriptions ailleurs de Dieu siégeant au-dessus des keroubim (1 Samuel 4:4, Psaumes 80:1). Les keroubim d'Exode 25:18-20 étaient martelés d'une seule pièce avec le propitiatoire, se faisant face, les ailes déployées au-dessus de lui."
+        },
+        {
+          "term": "Sois fort et agis",
+          "original": "Hebrew: חֲזַק וֶאֱמָץ (hazaq we-emats), be strong and courageous",
+          "note": "L'ordre que David donne à Salomon au verset 20, sois fort et courageux, ne crains pas, le SEIGNEUR ne te délaissera pas et ne t'abandonnera pas, répète mot pour mot la charge que Moïse donna à Josué en Deutéronome 31:6-8 et que le SEIGNEUR donna à Josué en Josué 1:5-9. La même formule est employée de nouveau ici alors qu'un chef remet une tâche nationale à son successeur."
         }
       ],
-      "keyTakeaway": "David rassemble les responsables d'Israël et annonce que Salomon, et non lui-même, construira le temple parce que David est un homme de guerre qui a versé le sang ; David remet ensuite à Salomon des plans architecturaux détaillés, des spécifications sur les matériaux et des instructions sacerdotales, tout en lui enjoignant d'être fort et d'obéir aux commandements de Dieu.",
+      "keyTakeaway": "David rassemble les chefs d'Israël et annonce que ce sera Salomon, et non lui, qui bâtira le temple, parce que David est un homme de guerre qui a versé le sang ; David remet ensuite à Salomon des plans architecturaux détaillés, des spécifications de matériaux et des instructions sacerdotales, en lui ordonnant d'être fort et d'obéir aux commandements de Dieu.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2091,30 +2314,45 @@
         "– avec tout son règne et toute sa vaillance, et ce qui s'est passé de son temps soit en Israël, soit dans tous les royaumes des pays. (29:30)."
       ],
       "crossRefs": [
-        "Nombres 3:5–10: Les lévites nommés pour assister les prêtres.",
-        "1 Rois 2:1–12: Récit parallèle de la charge de David et du règne de Salomon.",
-        "2 Chroniques 29:25: Les musiciens établis par ordre de David.",
-        "Esdras 3:10–11: Les prêtres et les lévites continuent le service du temple après l'exil.",
-        "Actes 15:16–17: La restauration de la tente de David liée à l'inclusion des nations."
+        "1 Rois 2:10-12: David meurt, est enseveli dans la cité de David, et le royaume de Salomon est fermement établi.",
+        "Exode 35:20-29: Israël apporte des offrandes volontaires pour la Demeure jusqu'à ce que les ouvriers disent qu'il y en a plus qu'assez.",
+        "Esdras 2:68-69: Des chefs de famille font des offrandes volontaires de dariques d'or et de mines d'argent pour la maison de Dieu.",
+        "1 Chroniques 22:14-16: Le compte antérieur, par David, de l'or, de l'argent, du bronze et du fer amassés pour la maison.",
+        "1 Rois 1:32-40: La première onction de Salomon à Guihôn, par Tsadoq et Nathan, du vivant de David."
       ],
       "translationNotes": [
         {
-          "term": "Lévites",
-          "original": "Hebrew: לֵוִיִּם (Levi’im), Greek: Λευῖται (Leuitai), Aramaic: לויא (Levaiya)",
-          "note": "Tribu mise à part pour le service sacerdotal, ne recevant pas d'héritage de terre mais consacrée à la maison de Dieu."
-        },
-        {
           "term": "Offrande volontaire",
-          "original": "Hebrew: נְדָבָה (nedavah), Greek: ἑκούσιον (hekousion), Aramaic: נדבתא (nedavta)",
-          "note": "Contribution volontaire à Dieu, au-delà des dîmes ou sacrifices obligatoires."
+          "original": "Hebrew: נְדָבָה (nedavah), a voluntary gift",
+          "note": "Les versets 5-9 tournent sur ce mot. Une nedavah était donnée parce que le donateur le voulait, en plus de toute dîme et de tout sacrifice exigé, et Lévitique 22:21-23 permet pour une telle offrande un animal légèrement imparfait là où une offrande votive en exige un sans défaut. La dernière collecte de ce genre fut celle de la Demeure, où le peuple apporta tant que Moïse dut ordonner d'arrêter (Exode 36:5-7)."
         },
         {
-          "term": "Plans",
-          "original": "Hebrew: תַּבְנִית (tabnit), Greek: τύπος (typos), Aramaic: תבניתא (tabnita)",
-          "note": "Plan ou modèle ; David affirme que ses plans du temple sont venus « par l'Esprit » (28:12)."
+          "term": "Talent d'or",
+          "original": "Hebrew: כִּכָּר (kikkar), talent",
+          "note": "Le verset 4 fait donner par David trois mille talents d'or d'Ophir et sept mille talents d'argent affiné pris à son propre trésor. Un talent fait environ 75 livres, de sorte que trois mille talents sont de l'ordre de 112 tonnes d'or. Ce sont des chiffres de trésor national, accumulés au long d'un règne de quarante ans de tribut et de butin, non une bourse privée."
+        },
+        {
+          "term": "Darique",
+          "original": "Hebrew: דַּרְכְּמוֹן (darkemon)",
+          "note": "Le verset 7 compte dix mille dariques d'or. La darique était une pièce d'or perse d'environ 8,4 grammes, à peu près un tiers d'once, frappée pour la première fois sous Darius Ier, qui régna de 522 à 486 av. J.-C., et c'était la pièce d'or courante de l'empire qui permit aux exilés de rentrer. C'est l'unité qu'employaient les lecteurs mêmes du Chroniqueur, donnée ici pour qu'ils puissent se représenter la somme."
+        },
+        {
+          "term": "Ophir",
+          "original": "Hebrew: אוֹפִיר (Ophir)",
+          "note": "Une source de l'or le plus fin, atteinte par bateau depuis Etsiôn-Guéber sur le golfe d'Aqaba, avec des voyages de trois ans aller-retour (1 Rois 9:26-28, 10:22). Son emplacement exact n'est pas indiqué dans l'Ecriture ; la route commerciale pointe vers le sud, le long de la côte arabique ou africaine. Un tesson trouvé à Tell Qasilé, près de Tel-Aviv, porte l'inscription « or d'Ophir pour Beth-Horôn, trente sicles »."
+        },
+        {
+          "term": "Oint une seconde fois",
+          "original": "Hebrew: מָשַׁח (mashach), to anoint",
+          "note": "Le verset 22 dit qu'ils firent Salomon roi « une seconde fois ». La première fut la cérémonie d'urgence à Guihôn, pendant la tentative d'Adonias sur le trône, où Tsadoq prit la corne d'huile de la tente et l'oignit au son de la trompette (1 Rois 1:38-40). Celle-ci est l'assemblée publique avec des sacrifices, et Tsadoq y est confirmé comme prêtre en même temps."
+        },
+        {
+          "term": "Les chroniques des voyants",
+          "original": "Hebrew: רֹאֶה (roeh), seer - נָבִיא (navi), prophet - חֹזֶה (hozeh), seer",
+          "note": "Le verset 29 cite trois sources écrites pour le règne de David, les registres de Samuel, de Nathan et de Gad, et donne à chacun un titre différent. Roeh et hozeh signifient tous deux celui qui voit ; navi est le mot habituel pour un prophète qui parle pour Dieu. 1 Samuel 9:9 note le changement d'usage sans détour : « celui qu'on appelle aujourd'hui prophète s'appelait autrefois voyant ». Aucun de ces trois livres ne subsiste."
         }
       ],
-      "keyTakeaway": "David présente ses trésors personnels pour le temple et invite les chefs à contribuer ; ceux-ci répondent généreusement avec de l'or, de l'argent, du bronze et du fer. David loue Dieu, le peuple offre des sacrifices, Salomon est oint roi une deuxième fois, et le règne de David de quarante ans s'achève.",
+      "keyTakeaway": "David présente ses trésors personnels pour le temple et appelle aux contributions ; les chefs répondent généreusement avec de l'or, de l'argent, du bronze et du fer. David loue Dieu, le peuple offre des sacrifices, Salomon est oint roi une seconde fois, et le règne de quarante ans de David s'achève.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2131,5 +2369,5 @@
       ]
     }
   ],
-  "intro": "1 Chroniques ne nomme pas son auteur. La tradition juive (conservée dans le Talmud, Baba Bathra 15a) attribue le livre à Esdras le prêtre et scribe, qui s'appuya sur les généalogies officielles, les annales royales et les histoires prophétiques antérieures. Le livre atteignit sa forme finale dans la Jérusalem postexilique vers 450-430 av. J.-C., pendant ou peu après la réforme d'Esdras dans la communauté du retour. Le même Esdras qui écrivit plus tard le livre d'Esdras ; les versets de clôture de 2 Chroniques (36.22-23) sont presque identiques aux versets d'ouverture d'Esdras (1.1-3), ce que la tradition juive cite comme marqueur textuel reliant les deux livres en tant que projet littéraire unique sorti de sa main. La tradition considère également que Néhémie acheva les généalogies finales des Chroniques après la mort d'Esdras. Esdras était un prêtre de la lignée d'Aaron par Phinées (Esdras 7.1-5), un «scribe versé dans la loi de Moïse» (Esdras 7.6), envoyé de Babylone à Jérusalem en 458 av. J.-C. par le roi perse Artaxerxès Ier avec une autorité royale pour enseigner la Loi et réorganiser le culte du temple. La tradition juive considère qu'Esdras fonda la Grande Assemblée (Knesset Gedolah), corps qui aida à fixer le canon hébreu et à standardiser la pratique liturgique. Les événements de 1 Chroniques couvrent d'Adam jusqu'au règne de quarante ans de David, se terminant sur les préparatifs de David pour le temple et l'accession de Salomon vers 970 av. J.-C. Le cadre historique de la rédaction est la période perse, l'Empire achéménide dominant le Proche-Orient ancien et Yehud (la province perse englobant l'ancienne Juda) administrée depuis Jérusalem comme une petite satrapie. Le second temple avait été achevé en 516 av. J.-C. sous Zorobabel et avec l'encouragement prophétique d'Aggée et de Zacharie ; la communauté du retour était petite, pauvre et entourée de voisins hostiles (Samaritains au nord, Ammonites et Édomites au sud et à l'est). Les empereurs perses Cyrus le Grand, Darius Ier, Xerxès Ier (l'Assuérus d'Esther) et Artaxerxès Ier avaient chacun joué un rôle dans la restauration. L'Égypte était une satrapie perse sous la XXVIIe dynastie ; la Grèce commençait sa période classique, Athènes étant à son apogée sous Périclès.\n\n1 Chroniques et 2 Chroniques formaient à l'origine un seul livre hébreu appelé Divrei HaYamim («Événements des jours» ou «Paroles des jours»), divisé par les traducteurs grecs de la Septante (IIIe siècle av. J.-C.) en deux et renommé Paraleipomena («Choses omises»). La Vulgate latine adopta la division grecque mais le renomma Chronica («Chroniques») sur la suggestion de Jérôme, et les Bibles françaises ont hérité de ce titre. Dans le canon juif, Chroniques est le livre de clôture des Ketouvim (Écrits) et constitue donc le livre final du Tanakh (Bible hébraïque). Des fragments manuscrits hébreux des Chroniques figuraient parmi les Manuscrits de la mer Morte découverts à Qumrân (milieu du XXe siècle apr. J.-C.), avec des copies datant de la période perse ou peu après."
+  "intro": "1 Chroniques ne nomme pas son auteur. La tradition juive (conservée dans le Talmud, Baba Bathra 15a) attribue le livre à Esdras, prêtre et scribe, qui s'appuya sur des registres généalogiques officiels, des annales royales et des histoires prophétiques antérieures. Le livre atteignit sa forme finale dans la Jérusalem d'après l'exil, vers 450-430 av. J.-C., pendant ou peu après la réforme d'Esdras dans la communauté revenue. C'est le même Esdras qui écrivit plus tard le livre d'Esdras ; les derniers versets de 2 Chroniques (36:22-23) sont presque identiques aux premiers versets d'Esdras (1:1-3), ce que la tradition juive cite comme la marque textuelle qui relie les deux livres en un seul projet littéraire de sa main. La tradition tient aussi que Néhémie acheva les dernières généalogies des Chroniques après la mort d'Esdras. Esdras était un prêtre de la lignée d'Aaron par Phinéas (Esdras 7:1-5), un « scribe versé dans la loi de Moïse » (Esdras 7:6), envoyé de Babylone à Jérusalem en 458 av. J.-C. par le roi perse Artaxerxès Ier avec l'autorité royale d'enseigner la Loi et de réorganiser le culte du temple. La tradition juive tient qu'Esdras fonda la Grande Assemblée (Knesset Guedola), le corps qui aida à fixer le canon hébreu et à normaliser la pratique liturgique. Les événements de 1 Chroniques vont d'Adam jusqu'aux quarante ans du règne de David, et se terminent par les préparatifs de David pour le temple et l'avènement de Salomon, vers 970 av. J.-C. Le cadre historique de la rédaction est la période perse, l'empire achéménide dominant le Proche-Orient ancien et Yehoud (la province perse qui recouvrait l'ancien Juda) étant administrée depuis Jérusalem comme une petite satrapie. Le second temple avait été achevé en 516 av. J.-C. sous Zorobabel et sous l'encouragement prophétique d'Aggée et de Zacharie ; la communauté revenue était petite, pauvre et entourée de voisins hostiles (les Samaritains au nord, les Ammonites et les Edomites au sud et à l'est). Les empereurs de Perse Cyrus le Grand, Darius Ier, Xerxès Ier (l'Assuérus d'Esther) et Artaxerxès Ier avaient chacun joué un rôle dans la restauration. L'Egypte était une satrapie perse sous la 27e dynastie ; la Grèce entrait dans sa période classique, avec Athènes à son apogée sous Périclès.\n\n1 Chroniques et 2 Chroniques formaient à l'origine un seul livre hébreu appelé Divrei HaYamim (« Evénements des jours » ou « Paroles des jours »), divisé par les traducteurs de la Septante grecque (troisième siècle av. J.-C.) en deux et renommé Paraleipomena (« Choses omises »). La Vulgate latine adopta la division grecque mais le renomma Chronica (« Chroniques ») sur la suggestion de Jérôme, et les bibles en langues modernes ont hérité ce titre. Dans le canon juif, les Chroniques sont le dernier livre des Ketouvim (les Ecrits) et donc le dernier livre du Tanakh (la Bible hébraïque). Des fragments manuscrits hébreux des Chroniques comptaient parmi les manuscrits de la mer Morte découverts à Qumrân (milieu du vingtième siècle apr. J.-C.), avec des copies datant de la période perse ou peu après."
 }

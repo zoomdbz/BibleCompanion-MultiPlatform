@@ -219,8 +219,9 @@
     "group": "canon"
   },
   {
-    "canon": "Hohelied",
+    "canon": "Hoheslied",
     "aliases": [
+      "Hoheslied",
       "Hohelied",
       "Lied Salomos",
       "Hld",
@@ -258,7 +259,7 @@
     "group": "canon"
   },
   {
-    "canon": "Hesekiel",
+    "canon": "Ezechiel",
     "aliases": [
       "Hesekiel",
       "Ezechiel",
@@ -439,7 +440,7 @@
     "group": "canon"
   },
   {
-    "canon": "1 Korinther",
+    "canon": "1. Korinther",
     "aliases": [
       "1 Korinther",
       "1 Kor",
@@ -450,7 +451,7 @@
     "group": "canon"
   },
   {
-    "canon": "2 Korinther",
+    "canon": "2. Korinther",
     "aliases": [
       "2 Korinther",
       "2 Kor",
@@ -498,7 +499,7 @@
     "group": "canon"
   },
   {
-    "canon": "1 Thessalonicher",
+    "canon": "1. Thessalonicher",
     "aliases": [
       "1 Thessalonicher",
       "1 Thess",
@@ -509,7 +510,7 @@
     "group": "canon"
   },
   {
-    "canon": "2 Thessalonicher",
+    "canon": "2. Thessalonicher",
     "aliases": [
       "2 Thessalonicher",
       "2 Thess",
@@ -520,7 +521,7 @@
     "group": "canon"
   },
   {
-    "canon": "1 Timotheus",
+    "canon": "1. Timotheus",
     "aliases": [
       "1 Timotheus",
       "1 Tim",
@@ -531,7 +532,7 @@
     "group": "canon"
   },
   {
-    "canon": "2 Timotheus",
+    "canon": "2. Timotheus",
     "aliases": [
       "2 Timotheus",
       "2 Tim",
@@ -578,7 +579,7 @@
     "group": "canon"
   },
   {
-    "canon": "1 Petrus",
+    "canon": "1. Petrus",
     "aliases": [
       "1 Petrus",
       "1 Pet",
@@ -589,7 +590,7 @@
     "group": "canon"
   },
   {
-    "canon": "2 Petrus",
+    "canon": "2. Petrus",
     "aliases": [
       "2 Petrus",
       "2 Pet",
@@ -600,8 +601,9 @@
     "group": "canon"
   },
   {
-    "canon": "1 Johannes",
+    "canon": "1. Johannes",
     "aliases": [
+      "1. Johannes",
       "1 Johannes",
       "1 Joh",
       "I Johannes",
@@ -610,8 +612,9 @@
     "group": "canon"
   },
   {
-    "canon": "2 Johannes",
+    "canon": "2. Johannes",
     "aliases": [
+      "2. Johannes",
       "2 Johannes",
       "2 Joh",
       "II Johannes",
@@ -620,8 +623,9 @@
     "group": "canon"
   },
   {
-    "canon": "3 Johannes",
+    "canon": "3. Johannes",
     "aliases": [
+      "3. Johannes",
       "3 Johannes",
       "3 Joh",
       "III Johannes",
@@ -671,7 +675,8 @@
       "Zusätze zu Ester",
       "Griechische Ester",
       "Est gr",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
@@ -681,7 +686,8 @@
       "Weisheit Salomos",
       "Weisheit",
       "Weis",
-      "Wisdom of Solomon"
+      "Wisdom of Solomon",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -691,7 +697,8 @@
       "Jesus Sirach",
       "Sirach",
       "Sir",
-      "Ecclus"
+      "Ecclus",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -719,7 +726,8 @@
       "Gebet des Asarja",
       "Gebet Azarias",
       "Gebet der drei Jünglinge",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -737,6 +745,14 @@
       "Bel und der Drache",
       "Bel",
       "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Psalm 151",
+    "aliases": [
+      "Psalm 151",
+      "Ps 151"
     ],
     "group": "deuterocanon"
   },
@@ -867,24 +883,27 @@
     "group": "apocrypha"
   },
   {
-    "canon": "Thomasevangelium",
+    "canon": "Evangelium nach Thomas",
     "aliases": [
+      "Evangelium nach Thomas",
       "Thomasevangelium",
       "Gospel of Thomas"
     ],
     "group": "apocrypha"
   },
   {
-    "canon": "Peterevangelium",
+    "canon": "Evangelium nach Petrus",
     "aliases": [
+      "Evangelium nach Petrus",
       "Peterevangelium",
       "Gospel of Peter"
     ],
     "group": "apocrypha"
   },
   {
-    "canon": "Mariaevangelium",
+    "canon": "Evangelium der Maria",
     "aliases": [
+      "Evangelium der Maria",
       "Mariaevangelium",
       "Evangelium der Maria Magdalena",
       "Gospel of Mary"
@@ -920,7 +939,8 @@
     "aliases": [
       "Proteevangelium des Jakobus",
       "Kindheitsevangelium des Jakobus",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -1019,7 +1039,8 @@
     "aliases": [
       "1 Henoch",
       "Erstes Henochbuch",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1028,7 +1049,8 @@
     "aliases": [
       "2 Henoch",
       "Zweites Henochbuch",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1037,7 +1059,8 @@
     "aliases": [
       "3 Henoch",
       "Drittes Henochbuch",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1054,7 +1077,8 @@
     "canon": "Testament der zwölf Patriarchen",
     "aliases": [
       "Testament der zwölf Patriarchen",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1257,6 +1281,32 @@
     "aliases": [
       "Apokalypse des Elija",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Evangelium des Nikodemus (Taten des Pilatus)",
+    "aliases": [
+      "Evangelium des Nikodemus (Taten des Pilatus)",
+      "Nikodemusevangelium",
+      "Gospel of Nicodemus",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Evangelium des Bartholomäus",
+    "aliases": [
+      "Evangelium des Bartholomäus",
+      "Gospel of Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Himmelfahrt des Mose",
+    "aliases": [
+      "Himmelfahrt des Mose",
+      "Assumption of Moses"
     ],
     "group": "pseudepigrapha"
   }

@@ -1,7 +1,7 @@
 {
   "id": "leviticus",
   "title": "Levítico",
-  "intro": "Levítico (hebreo: Vayikra, \"Y llamó\") fue escrito por Moisés durante el campamento de Israel en el monte Sinaí, fechado tradicionalmente en 1445 a.C., en el segundo año después del Éxodo de Egipto (c. 1446 a.C.). Después de que el Tabernáculo fue terminado al pie del Sinaí, la nación permaneció acampada allí aproximadamente un mes más antes de reanudar el viaje por el desierto. El marco histórico es la península del Sinaí a comienzos del Bronce Tardío, con los israelitas organizados como un campamento nómada alrededor del Tabernáculo recién construido. La dinastía XVIII de Egipto continuaba dominando el más amplio antiguo Cercano Oriente al oeste, con el reino de Mitani al noreste. Moisés, el profeta, legislador y líder que había sacado a la nación de la esclavitud egipcia, compuso el libro en tiempo real conforme recibía instrucción de Dios. Jesús y los apóstoles atribuyen el Pentateuco, incluido Levítico, a Moisés (Marcos 12:26, Lucas 24:44, Juan 5:46, Romanos 10:5).\n\nLevítico es el tercer libro del Pentateuco (los cinco libros de Moisés). Su nombre hebreo Vayikra proviene de la palabra inicial del libro, que significa \"Y llamó\"; el título español \"Levítico\" proviene de la traducción griega de la Septuaginta Leuitikon (siglo III a.C.), por vía de la Vulgata latina, y significa \"perteneciente a los levitas\". Fragmentos de manuscritos hebreos de Levítico se hallaron entre los Rollos del Mar Muerto descubiertos en Qumrán (mediados del siglo XX d.C.), con copias que datan de los siglos II y I a.C.",
+  "intro": "Levítico (hebreo: Vayikra, \"Y llamó\") fue escrito por Moisés durante el acampamiento de Israel en el monte Sinaí, fechado tradicionalmente en 1445 a.C., el segundo año después del Éxodo de Egipto (hacia 1446 a.C.). Una vez terminado el Tabernáculo al pie del Sinaí, la nación permaneció acampada allí alrededor de un mes más antes de reanudar la marcha por el desierto. El escenario histórico es la península del Sinaí a comienzos del Bronce Final, con los israelitas organizados como campamento nómada alrededor del Tabernáculo recién construido. La dinastía XVIII de Egipto seguía dominando el antiguo Cercano Oriente al occidente, con el reino de Mitanni al noreste. Moisés, el profeta, legislador y caudillo que había sacado a la nación de la esclavitud egipcia, compuso el libro sobre la marcha, conforme recibía instrucción de Dios. Jesús y los apóstoles atribuyen el Pentateuco, Levítico incluido, a Moisés (Marcos 12:26, Lucas 24:44, Juan 5:46, Romanos 10:5).\n\nLevítico es el tercer libro del Pentateuco (los cinco libros de Moisés). Su nombre hebreo, Vayikra, viene de la palabra inicial del libro y significa \"Y llamó\"; el título castellano \"Levítico\" viene de la traducción griega de la Septuaginta, Leuitikon (siglo III a.C.), por vía de la Vulgata latina, y significa \"lo perteneciente a los levitas\". Fragmentos de manuscritos hebreos de Levítico estaban entre los Rollos del Mar Muerto descubiertos en Qumrán (mediados del siglo XX d.C.), con copias que datan de los siglos II y I a.C.",
   "stories": [
     {
       "id": "leviticus-1",
@@ -29,54 +29,50 @@
         "Después la desgarrará por las alas, pero sin arrancárselas. Entonces el sacerdote la quemará en el altar sobre la leña encendida. Es un holocausto, una ofrenda puesta al fuego cuyo aroma es grato al SEÑOR. (1:17)."
       ],
       "crossRefs": [
-        "Éxodo 29:38–46: Holocaustos diarios en la tienda de reunión.",
-        "Números 18:8–19: Porciones sacerdotales de las ofrendas de Israel.",
-        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón (reflexión posterior).",
-        "Salmo 51:16–17: Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+        "Génesis 8:20-21: El holocausto de Noé después del diluvio, y el SEÑOR percibiendo el aroma grato.",
+        "Génesis 22:2-13: A Abraham se lo envía a ofrecer un holocausto, y en lugar de Isaac se ofrece un carnero trabado en un matorral.",
+        "Levítico 6:8-13: La ley de los sacerdotes para el holocausto, y el fuego del altar que nunca ha de apagarse.",
+        "Números 28:1-8: El holocausto de la mañana y de la tarde fijado como obligación diaria de la nación.",
+        "Lucas 2:24: Un par de tórtolas o dos pichones ofrecidos, la provisión que este capítulo hace para el pobre."
       ],
       "translationNotes": [
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt), Greek: ἁμαρτία (hamartia), Aramaic: ܚܛܝܬܐ (ḥaṭita)",
-          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
-        },
-        {
-          "term": "*culpa* (transgresión)",
-          "original": "Hebrew: אָשָׁם (ʾāsham), Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma), Aramaic: ܐܫܡܐ (ʾashma)",
-          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
-        },
-        {
           "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἱλάσκεσθαι (hilaskesthai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+          "original": "Hebrew: כִּפֶּר (kipper), to cover or to wipe clean - Greek (LXX): ἐξιλάσκομαι (exilaskomai)",
+          "note": "El primer uso del verbo en este libro está en 1:4, donde poner la mano sobre el holocausto lo hace aceptable para obtener el perdón de los pecados del hombre. Kipper lleva a la vez el sentido de cubrir y el de borrar; el sustantivo emparentado kapporet nombra la tapa de oro del arca (Éxodo 25:17). Levítico 17:11 da el mecanismo sobre el que funciona el libro, que la sangre expía por la vida que hay en ella, y todo Levítico 16 está construido alrededor de esa palabra."
         },
         {
-          "term": "Imponer la mano",
-          "original": "Hebrew: סָמַךְ (sāmak), Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira), Aramaic: ܣܡܟ (samak)",
-          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+          "term": "Poner la mano",
+          "original": "Hebrew: סָמַךְ (samakh), to lean or press down",
+          "note": "Samakh no es un roce ligero; es apoyar el peso sobre algo. El oferente aprieta la mano sobre la cabeza del animal en 1:4, y ese mismo acto se repite para el sacrificio de comunión (3:2) y para el sacrificio expiatorio (4:4). Levítico 16:21 muestra lo que significa: Aarón apoya las dos manos sobre el macho cabrío vivo y confiesa sobre él los pecados de Israel. El gesto identifica de quién es esta ofrenda y qué está sustituyendo."
         },
         {
-          "term": "Ofrecer en humo",
-          "original": "Hebrew: הִקְטִיר (hiqtir), Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein), Aramaic: ܐܩܛܪ (aqṭar)",
-          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+          "term": "Hacer subir en humo",
+          "original": "Hebrew: הִקְטִיר (hiqtir), from a root meaning to send up smoke",
+          "note": "Un verbo distinto del quemar corriente. Saraph es lo que se hace con la basura y con las partes que se sacan fuera del campamento (4:12); hiqtir es lo que ocurre en el altar, donde la porción sube como humo. El castellano suele aplanar los dos a \"quemar\", de modo que el lector no puede ver que Levítico está usando dos palabras para dos actos distintos en el mismo capítulo."
         },
         {
-          "term": "Santísimo",
-          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim), Greek: ἅγιον ἁγίων (hagion hagiōn), Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
-          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+          "term": "holocausto",
+          "original": "Hebrew: עֹלָה (olah), 'that which goes up' - Greek: ὁλοκαύτωμα (holokautoma), 'wholly burned'",
+          "note": "La única ofrenda que se quemaba entera, sin dejar nada para que el adorador comiera. El nombre hebreo describe el humo que sube; el nombre griego, que da al castellano \"holocausto\", describe el animal quemándose entero. Levítico 7:8 deja al sacerdote solo la piel, así que esta era la ofrenda más costosa que un hombre podía traer."
         },
         {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+          "term": "lo que costaba",
+          "original": "",
+          "note": "Levítico 1 gradúa el holocausto según los medios: un toro del ganado mayor, un carnero o un macho cabrío del ganado menor, o una tórtola o un pichón. Un toro era un animal de trabajo y la fuerza de arado de un año; un ave podía atraparse. Esa lista graduada recorre todo el libro, para que nadie quedara excluido por precio."
         },
         {
-          "term": "Grasa / Sangre",
-          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām), Greek: στέαρ (stear) / αἷμα (haima), Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
-          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+          "term": "aroma grato",
+          "original": "Hebrew: רֵיחַ נִיחוֹחַ (reach nichoach)",
+          "note": "Construido sobre el verbo nuach, reposar o asentarse, así que el sentido es un olor que apacigua o que da reposo. La expresión aparece por primera vez en la ofrenda de Noé, en Génesis 8:21, y recorre Levítico como fórmula corriente para un sacrificio aceptado. Efesios 5:2 retoma la expresión en griego."
+        },
+        {
+          "term": "ofrenda de alimento",
+          "original": "Hebrew: אִשֶּׁה (isheh), from אֵשׁ (esh), 'fire'",
+          "note": "Las versiones antiguas vierten esto como \"ofrenda puesta al fuego\", que está más cerca del hebreo que \"ofrenda de alimento\". Señala cualquier porción puesta en el altar y consumida por la llama. Levítico 3:11 llama \"alimento\" a la porción quemada, y por eso algunas traducciones usan esa palabra aquí."
         }
       ],
-      "keyTakeaway": "El Señor instruye a Moisés sobre los holocaustos: los animales del ganado mayor o menor deben ser machos y sin defecto, presentados en la tienda de reunión donde el oferente pone una mano sobre el animal antes de sacrificarlo, y el sacerdote quema las piezas en el altar como aroma grato al Señor. Las aves pueden ofrecerse como alternativa, con instrucciones específicas para su preparación.",
+      "keyTakeaway": "El Señor instruye a Moisés sobre los holocaustos: los animales del ganado mayor o menor deben ser machos y sin defecto, presentados a la entrada de la Tienda de reunión, donde el oferente pone la mano sobre el animal antes de degollarlo, y el sacerdote quema las piezas en el altar como aroma grato al Señor. Pueden ofrecerse aves como alternativa, con instrucciones concretas de preparación.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -109,54 +105,50 @@
         "El sacerdote quemará parte del trigo nuevo y molido como ofrenda memorial, junto con todo el incienso y el aceite. Es una ofrenda al SEÑOR puesta al fuego. (2:16)."
       ],
       "crossRefs": [
-        "Éxodo 29:38–46: Holocaustos diarios en la tienda de reunión.",
-        "Números 18:8–19: Porciones sacerdotales de las ofrendas de Israel.",
-        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón (reflexión posterior).",
-        "Salmo 51:16–17: Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+        "Levítico 6:14-23: La ley de los sacerdotes para la ofrenda de cereal y la parte que comen en el atrio.",
+        "Levítico 24:5-9: Doce panes de flor de harina con incienso, puestos sobre la mesa de oro cada sábado.",
+        "Números 15:1-12: Las medidas de harina, aceite y vino que acompañan a cada clase de ofrenda animal.",
+        "Números 18:19: Las porciones de los sacerdotes dadas como pacto perpetuo de sal delante del SEÑOR.",
+        "Números 5:15: Una ofrenda de cereal presentada sin aceite ni incienso, en un caso de sospecha."
       ],
       "translationNotes": [
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt), Greek: ἁμαρτία (hamartia), Aramaic: ܚܛܝܬܐ (ḥaṭita)",
-          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
-        },
-        {
-          "term": "*culpa* (transgresión)",
-          "original": "Hebrew: אָשָׁם (ʾāsham), Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma), Aramaic: ܐܫܡܐ (ʾashma)",
-          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
-        },
-        {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἱλάσκεσθαι (hilaskesthai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
-        },
-        {
-          "term": "Imponer la mano",
-          "original": "Hebrew: סָמַךְ (sāmak), Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira), Aramaic: ܣܡܟ (samak)",
-          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
-        },
-        {
-          "term": "Ofrecer en humo",
-          "original": "Hebrew: הִקְטִיר (hiqtir), Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein), Aramaic: ܐܩܛܪ (aqṭar)",
-          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
-        },
-        {
           "term": "Santísimo",
-          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim), Greek: ἅγιον ἁγίων (hagion hagiōn), Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
-          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
+          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qodesh qodashim), literally 'holy of holies'",
+          "note": "Una manera hebrea de formar el superlativo doblando el sustantivo, la misma construcción que \"rey de reyes\" y \"cantar de los cantares\". Marca un grado máximo de santidad con reglas prácticas adjuntas: lo santísimo solo pueden comerlo los sacerdotes varones y solo en un lugar santo (6:16-18, 7:6). Esa misma expresión nombra la sala más interior del tabernáculo (Éxodo 26:33), y 2:3 la aplica a la parte de la ofrenda de cereal que toca a los sacerdotes."
         },
         {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
+          "term": "primicias",
+          "original": "Hebrew: בִּכּוּרִים (bikkurim)",
+          "note": "La primera porción de cada cosecha ofrecida a Dios antes de que pudiera comerse el resto (Éxodo 23:19; Levítico 23:9-14). Pablo llama al Cristo resucitado \"primicias de los que durmieron\" (1 Corintios 15:20); la garantía de que seguirá la cosecha completa de la resurrección."
         },
         {
-          "term": "Grasa / Sangre",
-          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām), Greek: στέαρ (stear) / αἷμα (haima), Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
-          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+          "term": "incienso",
+          "original": "Hebrew: לְבוֹנָה (levonah); Greek: λίβανος (libanos)",
+          "note": "Una resina de color blanco lechoso del árbol Boswellia del sur de Arabia. Se quemaba como incienso en el templo (Éxodo 30:34); se ofrecía con toda ofrenda de cereal. El segundo regalo de los magos, leído tradicionalmente como señal de sacerdocio."
+        },
+        {
+          "term": "ofrenda de cereal",
+          "original": "Hebrew: מִנְחָה (minchah), 'gift, tribute'",
+          "note": "La única ofrenda prescrita sin sangre y sin animal: flor de harina, aceite de oliva e incienso, cruda o cocida. Minchah es la palabra corriente para el tributo que un súbdito lleva a su rey, como en Jueces 3:15. Un puñado va al altar y el resto alimenta a los sacerdotes (2:3)."
+        },
+        {
+          "term": "flor de harina",
+          "original": "Hebrew: סֹלֶת (soleth)",
+          "note": "No es harina corriente sino la harina de trigo más finamente cernida, la clase que una casa guardaba para las visitas; en Génesis 18:6 Abraham la pide cuando llegan tres visitantes. Molerla a mano y cernerla costaba trabajo de verdad, y eso forma parte de lo que costaba la ofrenda."
+        },
+        {
+          "term": "sal del pacto",
+          "original": "Hebrew: מֶלַח בְּרִית (melach berit)",
+          "note": "La sal no se echa a perder y no cambia, y por eso a un acuerdo sellado con ella se lo llamaba pacto de sal. Números 18:19 usa la expresión para las porciones de los sacerdotes, y 2 Crónicas 13:5 para el trono dado al linaje de David. Levítico 2:13 la exige en toda ofrenda."
+        },
+        {
+          "term": "porción memorial",
+          "original": "Hebrew: אַזְכָּרָה (azkarah), from זָכַר (zakhar), 'to remember'",
+          "note": "El puñado de harina y aceite y todo el incienso que suben en humo mientras el resto de la ofrenda se queda con los sacerdotes. Está en lugar del don entero. Hechos 10:4 usa esa misma idea en griego sobre las oraciones y las limosnas de Cornelio subiendo como memorial."
         }
       ],
-      "keyTakeaway": "Las ofrendas de cereales al Señor se hacen con la mejor harina, aceite e incienso; una porción representativa se quema en el altar y el resto es para Aarón y sus hijos, con variantes permitidas para preparaciones al horno, en plancha o en sartén, todas sin levadura y sazonadas con sal.",
+      "keyTakeaway": "Las ofrendas de cereal al Señor se hacen de flor de harina con aceite e incienso; una porción memorial se quema en el altar mientras el resto pasa a Aarón y a sus hijos, con variantes permitidas para las cocidas al horno, a la plancha o a la sartén, todas hechas sin levadura y sazonadas con sal.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -190,54 +182,35 @@
         "»Este será un estatuto perpetuo para los descendientes de ustedes, dondequiera que habiten: no se comerán la grasa ni la sangre». (3:17)."
       ],
       "crossRefs": [
-        "Éxodo 29:38–46: Holocaustos diarios en la tienda de reunión.",
-        "Números 18:8–19: Porciones sacerdotales de las ofrendas de Israel.",
-        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón (reflexión posterior).",
-        "Salmo 51:16–17: Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+        "Levítico 7:11-21: Las tres clases de sacrificio de comunión y cuánto tiempo puede guardarse la carne.",
+        "Levítico 7:28-34: El pecho y el muslo derecho apartados de todo sacrificio de comunión para los sacerdotes.",
+        "Levítico 17:10-14: La sangre nunca se come; se entrega en el altar para hacer expiación.",
+        "Deuteronomio 12:17-18: Estas ofrendas se comen delante del SEÑOR en el lugar que él escoja, con tu casa.",
+        "1 Samuel 1:3-9: El sacrificio anual de Elcaná en Siló, con porciones repartidas a su familia."
       ],
       "translationNotes": [
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt), Greek: ἁμαρτία (hamartia), Aramaic: ܚܛܝܬܐ (ḥaṭita)",
-          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+          "term": "sacrificio de comunión",
+          "original": "Hebrew: זֶבַח שְׁלָמִים (zevach shelamim), from שָׁלוֹם (shalom)",
+          "note": "La única ofrenda que comía el propio adorador. Dios recibía la grasa y la sangre, el sacerdote recibía el pecho y el muslo derecho (Levítico 7:31-34), y el resto se llevaba a casa como comida para la familia y los invitados. Es un banquete compartido, y por eso también se vierte como ofrenda de paz."
         },
         {
-          "term": "*culpa* (transgresión)",
-          "original": "Hebrew: אָשָׁם (ʾāsham), Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma), Aramaic: ܐܫܡܐ (ʾashma)",
-          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+          "term": "la grasa",
+          "original": "Hebrew: חֵלֶב (chelev)",
+          "note": "No el veteado de la carne sino el sebo duro que rodea las entrañas, los riñones y el hígado, más la cola grasa de las ovejas locales, que en una raza de cola gorda puede pesar varias libras ella sola. Levítico 3:16 la asigna toda al SEÑOR, y 3:17 prohíbe a Israel comer nada de ella."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἱλάσκεσθαι (hilaskesthai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+          "term": "dondequiera que vivan",
+          "original": "Hebrew: בְּכֹל מוֹשְׁבֹתֵיכֶם (bekhol moshvoteikhem)",
+          "note": "Una fórmula que saca un mandato del tabernáculo y lo pone en cada casa, en el campamento o después en la tierra. Aparece en la regla sobre la grasa y la sangre de aquí, en el sábado de Levítico 23:3 y en las fiestas de Levítico 23:14 y 23:21."
         },
         {
-          "term": "Imponer la mano",
-          "original": "Hebrew: סָמַךְ (sāmak), Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira), Aramaic: ܣܡܟ (samak)",
-          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
-        },
-        {
-          "term": "Ofrecer en humo",
-          "original": "Hebrew: הִקְטִיר (hiqtir), Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein), Aramaic: ܐܩܛܪ (aqṭar)",
-          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
-        },
-        {
-          "term": "Santísimo",
-          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim), Greek: ἅγιον ἁγίων (hagion hagiōn), Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
-          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
-        },
-        {
-          "term": "Grasa / Sangre",
-          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām), Greek: στέαρ (stear) / αἷμα (haima), Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
-          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+          "term": "macho o hembra, sin defecto",
+          "original": "Hebrew: זָכָר אוֹ נְקֵבָה תָּמִים (zakhar o neqevah tamim)",
+          "note": "El sacrificio de comunión es el único que puede ser de cualquier sexo (3:1, 3:6); el holocausto y el sacrificio expiatorio del jefe exigen ambos un macho (1:3, 4:23). Tamim significa entero o sano más que moralmente perfecto, y Levítico 22:22-24 enumera lo que descalifica a un animal: ceguera, una lesión, una verruga, una llaga supurante, una parte aplastada o desgarrada. La regla es que el animal entregado ha de ser uno que valía la pena conservar."
         }
       ],
-      "keyTakeaway": "Se dan instrucciones para las ofrendas de comunión de ganado vacuno, del rebaño o de cabras; el oferente pone la mano sobre la cabeza del animal, lo degüella, y los sacerdotes queman la grasa y los órganos en el altar como aroma grato al SEÑOR. Una ordenanza perpetua prohíbe comer grasa o sangre.",
+      "keyTakeaway": "Se dan instrucciones para los sacrificios de comunión del ganado mayor, del ganado menor o de las cabras; el oferente pone la mano sobre la cabeza del animal, este es degollado y los sacerdotes queman la grasa y las vísceras en el altar como aroma grato al SEÑOR. Un estatuto perpetuo prohíbe comer grasa o sangre.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -289,54 +262,35 @@
         "Luego le sacará al animal toda la grasa, tal y como se le saca la grasa al cordero del sacrificio de comunión, y el sacerdote la quemará en el altar sobre la ofrenda puesta al fuego ante el SEÑOR. Así el sacerdote pedirá perdón por el pecado de esa persona, y el pecado que haya cometido será perdonado. (4:35)."
       ],
       "crossRefs": [
-        "Éxodo 29:38–46: Holocaustos diarios en la tienda de reunión.",
-        "Números 18:8–19: Porciones sacerdotales de las ofrendas de Israel.",
-        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón (reflexión posterior).",
-        "Salmo 51:16–17: Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+        "Números 15:22-31: La línea trazada entre el pecado cometido sin querer y el cometido con mano alzada.",
+        "Levítico 6:24-30: La ley de los sacerdotes para el sacrificio expiatorio, dónde se come y cuándo debe quemarse en su lugar.",
+        "Levítico 16:11-19: El sumo sacerdote lleva la sangre del sacrificio expiatorio detrás del velo en el Día de la Expiación.",
+        "Hebreos 13:11-12: Los cuerpos de los animales cuya sangre se lleva al santuario se queman fuera del campamento.",
+        "Salmos 19:12: ¿Quién puede discernir sus propios errores? Límpiame de mis faltas ocultas."
       ],
       "translationNotes": [
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt), Greek: ἁμαρτία (hamartia), Aramaic: ܚܛܝܬܐ (ḥaṭita)",
-          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+          "term": "sacrificio expiatorio",
+          "original": "Hebrew: חַטָּאת (chattat) - the verb חִטֵּא (chitte), 'to de-sin, to purify'",
+          "note": "El sustantivo es la misma palabra que \"pecado\", pero el verbo emparentado significa quitar el pecado, así que esta ofrenda es un rito de purificación tanto como una pena. Su sangre se pone en los cuernos del altar y, en los casos más graves, se lleva dentro de la tienda. Levítico 4 limpia el santuario además del pecador."
         },
         {
-          "term": "*culpa* (transgresión)",
-          "original": "Hebrew: אָשָׁם (ʾāsham), Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma), Aramaic: ܐܫܡܐ (ʾashma)",
-          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+          "term": "sin querer",
+          "original": "Hebrew: בִּשְׁגָגָה (bishgagah), 'in error, by straying'",
+          "note": "Todo el capítulo trata del pecado cometido sin intención y descubierto después. Números 15:30 pone el límite: el pecado cometido con mano alzada no tiene ofrenda prescrita. Levítico 4 da por supuesto que un hombre puede ser culpable de algo que no sabía que estaba haciendo."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἱλάσκεσθαι (hilaskesthai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+          "term": "graduado por rango",
+          "original": "",
+          "note": "La ofrenda sube con la posición del que peca. El sacerdote ungido y toda la congregación traen cada uno un toro; un jefe trae un macho cabrío; una persona ordinaria trae una cabra o una cordera (4:3, 4:14, 4:23, 4:28). Cuanto más alto el cargo, más pesado el costo de equivocarse."
         },
         {
-          "term": "Imponer la mano",
-          "original": "Hebrew: סָמַךְ (sāmak), Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira), Aramaic: ܣܡܟ (samak)",
-          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
-        },
-        {
-          "term": "Ofrecer en humo",
-          "original": "Hebrew: הִקְטִיר (hiqtir), Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein), Aramaic: ܐܩܛܪ (aqṭar)",
-          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
-        },
-        {
-          "term": "Santísimo",
-          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim), Greek: ἅγιον ἁγίων (hagion hagiōn), Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
-          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
-        },
-        {
-          "term": "Grasa / Sangre",
-          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām), Greek: στέαρ (stear) / αἷμα (haima), Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
-          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+          "term": "quemado fuera del campamento",
+          "original": "Hebrew: אֶל־מִחוּץ לַמַּחֲנֶה (el-michuts la-machaneh)",
+          "note": "Cuando el sacrificio expiatorio es por el sacerdote ungido o por toda la congregación, su sangre entra en la tienda y el resto del cuerpo se lleva fuera del campamento y se quema sobre leña en el lugar donde se vuelcan las cenizas (4:11-12, 4:21). Nadie come nada de él. Hebreos 13:11-13 se apoya directamente en esta regla, y señala que los cuerpos de esos animales se queman fuera del campamento y que Jesús padeció fuera de la puerta."
         }
       ],
-      "keyTakeaway": "Dios instruye a Moisés sobre las ofrendas por el pecado cometido sin intención, prescribiendo distintos animales y procedimientos según si quien peca es el sacerdote ungido, toda la comunidad, un líder o un miembro ordinario del pueblo.",
+      "keyTakeaway": "Dios instruye a Moisés sobre los sacrificios expiatorios por las infracciones involuntarias de sus mandatos, y prescribe animales y procedimientos distintos según peque el sacerdote ungido, toda la comunidad, un jefe o un miembro ordinario.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -372,54 +326,45 @@
         "Es un sacrificio por la culpa de la que se hizo acreedor por pecar contra el SEÑOR». (5:19)."
       ],
       "crossRefs": [
-        "Éxodo 29:38–46: Holocaustos diarios en la tienda de reunión.",
-        "Números 18:8–19: Porciones sacerdotales de las ofrendas de Israel.",
-        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón (reflexión posterior).",
-        "Salmo 51:16–17: Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+        "Levítico 6:1-7: El sacrificio por la culpa por bienes obtenidos con engaño, con restitución y una quinta parte añadida.",
+        "Levítico 12:8: La misma concesión para el pobre: dos tórtolas o dos pichones en lugar de un cordero.",
+        "Números 5:5-8: Confesión, restitución completa con una quinta parte añadida, pagada al agraviado o a su pariente.",
+        "Levítico 27:1-8: Valoraciones en siclos del santuario, con una tasación reducida fijada por el sacerdote para el pobre.",
+        "Isaías 53:10: El SEÑOR hace de su vida un sacrificio por la culpa."
       ],
       "translationNotes": [
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt), Greek: ἁμαρτία (hamartia), Aramaic: ܚܛܝܬܐ (ḥaṭita)",
-          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+          "term": "efa",
+          "original": "Hebrew: אֵיפָה (ephah)",
+          "note": "La medida corriente de áridos del Antiguo Testamento para el grano, unos 22 cuartos de galón o 5,8 galones (22 litros). Rut lleva a casa un efa de cebada después de un día de espigar (Rut 2:17)."
         },
         {
-          "term": "*culpa* (transgresión)",
-          "original": "Hebrew: אָשָׁם (ʾāsham), Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma), Aramaic: ܐܫܡܐ (ʾashma)",
-          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+          "term": "incienso",
+          "original": "Hebrew: לְבוֹנָה (levonah); Greek: λίβανος (libanos)",
+          "note": "Una resina de color blanco lechoso del árbol Boswellia del sur de Arabia. Se quemaba como incienso en el templo (Éxodo 30:34); se ofrecía con toda ofrenda de cereal. El segundo regalo de los magos, leído tradicionalmente como señal de sacerdocio."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἱλάσκεσθαι (hilaskesthai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+          "term": "siclo",
+          "original": "Hebrew: שֶׁקֶל (sheqel)",
+          "note": "A la vez una pesa (unos 0,4 onzas / 11 g) y una unidad monetaria. En la economía del Antiguo Testamento un jornalero común ganaba alrededor de medio siclo al mes, así que los 20 siclos pagados por José (Génesis 37:28) eran unos tres años de salario. El impuesto del templo era medio siclo (Éxodo 30:13); en el cómputo del Nuevo Testamento eso equivalía a dos denarios, dos días de salario."
         },
         {
-          "term": "Imponer la mano",
-          "original": "Hebrew: סָמַךְ (sāmak), Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira), Aramaic: ܣܡܟ (samak)",
-          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+          "term": "sacrificio por la culpa",
+          "original": "Hebrew: אָשָׁם (asham), 'reparation'",
+          "note": "Esta ofrenda salda una deuda además de un pecado. Cuando hay bienes o cosas sagradas de por medio, el ofensor devuelve el valor, añade una quinta parte encima y luego trae un carnero (5:15-16; 6:4-6). El carnero se tasa en plata según el patrón del santuario, así que la ofrenda no podía esquivarse con un animal barato."
         },
         {
-          "term": "Ofrecer en humo",
-          "original": "Hebrew: הִקְטִיר (hiqtir), Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein), Aramaic: ܐܩܛܪ (aqṭar)",
-          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
+          "term": "si no le alcanza",
+          "original": "Hebrew: וְאִם־לֹא תַגִּיעַ יָדוֹ (ve-im lo taggia yado), 'if his hand does not reach'",
+          "note": "El modismo hebreo trata del alcance, no de la intención. Levítico 5:7-13 baja el sacrificio expiatorio dos escalones: un cordero, luego dos aves, luego una décima parte de un efa de harina sola, unos dos cuartos de galón. La versión de harina no lleva aceite ni incienso, así que le cuesta al hombre más pobre lo menos que el sistema puede aceptar y aun así cuenta como expiación."
         },
         {
-          "term": "Santísimo",
-          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim), Greek: ἅγιον ἁγίων (hagion hagiōn), Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
-          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
-        },
-        {
-          "term": "Grasa / Sangre",
-          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām), Greek: στέαρ (stear) / αἷμα (haima), Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
-          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+          "term": "de valor tasado en siclos de plata",
+          "original": "Hebrew: בְּעֶרְכְּךָ כֶּסֶף־שְׁקָלִים (be-erkekha kesef-sheqalim)",
+          "note": "El animal tiene que alcanzar un valor tasado en plata según el siclo del santuario, de unos 11,4 gramos. Levítico 27 da la tabla de esas valoraciones, y Levítico 27:25 fija el patrón en veinte guerás por siclo. Esta es una obligación con precio, no un gesto."
         }
       ],
-      "keyTakeaway": "Se dan leyes para los pecados no intencionales: guardar silencio durante un testimonio, tocar cosas impuras, juramentos irreflexivos y violaciones de cosas sagradas; las ofrendas varían según la capacidad económica: una oveja o cabra hembra, dos tórtolas o pichones, o harina fina, y el sacerdote hace la expiación. Quienes pecan contra los mandatos del Señor sin saberlo deben traer un carnero como ofrenda por la culpa, hacer restitución más una quinta parte como penalidad, y reciben el perdón mediante la expiación del sacerdote.",
+      "keyTakeaway": "Se dan leyes para los pecados involuntarios: callar durante un testimonio, tocar cosas impuras, juramentos irreflexivos e infracciones contra las cosas sagradas; las ofrendas varían según los medios, una cordera o una cabra, dos tórtolas o pichones, o flor de harina, y el sacerdote hace expiación. Quienes pequen sin saberlo contra los mandatos del Señor deben traer un carnero como sacrificio por la culpa, hacer restitución más una quinta parte de recargo, y reciben perdón mediante la expiación del sacerdote.",
       "headings": [
         {
           "beforeVerse": 13,
@@ -466,54 +411,40 @@
         "Pero no se comerá ningún sacrificio por el perdón cuya sangre haya sido llevada a la Tienda de reunión para obtener perdón de pecados en el santuario; este sacrificio se consumirá en el fuego. (6:30)."
       ],
       "crossRefs": [
-        "Éxodo 29:38–46: Holocaustos diarios en la tienda de reunión.",
-        "Números 18:8–19: Porciones sacerdotales de las ofrendas de Israel.",
-        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón (reflexión posterior).",
-        "Salmo 51:16–17: Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+        "Éxodo 22:7-9: La ley sobre un depósito robado de la casa del prójimo, y ambas partes llevadas ante los jueces.",
+        "Números 5:5-8: El agravio confesado, la pérdida pagada por entero con una quinta parte añadida.",
+        "Éxodo 27:20-21: Aceite puro de oliva prensada traído para que las lámparas ardan desde la tarde hasta la mañana como estatuto perpetuo.",
+        "Levítico 10:12-15: A los hijos de Aarón se les dice exactamente dónde y cómo comer su parte de las ofrendas.",
+        "Lucas 19:8: Zaqueo promete devolver el cuádruplo de todo lo que haya tomado con fraude."
       ],
       "translationNotes": [
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt), Greek: ἁμαρτία (hamartia), Aramaic: ܚܛܝܬܐ (ḥaṭita)",
-          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
+          "term": "efa",
+          "original": "Hebrew: אֵיפָה (ephah)",
+          "note": "La medida corriente de áridos del Antiguo Testamento para el grano, unos 22 cuartos de galón o 5,8 galones (22 litros). Rut lleva a casa un efa de cebada después de un día de espigar (Rut 2:17)."
         },
         {
-          "term": "*culpa* (transgresión)",
-          "original": "Hebrew: אָשָׁם (ʾāsham), Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma), Aramaic: ܐܫܡܐ (ʾashma)",
-          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
+          "term": "incienso",
+          "original": "Hebrew: לְבוֹנָה (levonah); Greek: λίβανος (libanos)",
+          "note": "Una resina de color blanco lechoso del árbol Boswellia del sur de Arabia. Se quemaba como incienso en el templo (Éxodo 30:34); se ofrecía con toda ofrenda de cereal. El segundo regalo de los magos, leído tradicionalmente como señal de sacerdocio."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἱλάσκεσθαι (hilaskesthai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
+          "term": "añadir una quinta parte",
+          "original": "Hebrew: חֲמִישִׁית (chamishit)",
+          "note": "Un veinte por ciento fijo añadido sobre la restitución completa, pagado a la persona agraviada el día en que el ofensor lo reconoce (6:5). Ese mismo recargo se aplica al rescate de cualquier cosa dedicada a Dios (Levítico 27:13, 27:15, 27:19). Hace que reconocerlo cueste más de lo que habría costado que lo pillaran."
         },
         {
-          "term": "Imponer la mano",
-          "original": "Hebrew: סָמַךְ (sāmak), Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira), Aramaic: ܣܡܟ (samak)",
-          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
+          "term": "el fuego no debe apagarse",
+          "original": "Hebrew: אֵשׁ תָּמִיד (esh tamid), 'a continual fire'",
+          "note": "El mandato se repite tres veces en cinco versículos (6:9, 6:12, 6:13). Había que acarrear leña y añadirla cada mañana, en un desierto casi sin madera, lo cual convertía el mantenimiento del fuego en un deber diario permanente. Nehemías 10:34 registra que se echaron suertes sobre quién suministraría la leña."
         },
         {
-          "term": "Ofrecer en humo",
-          "original": "Hebrew: הִקְטִיר (hiqtir), Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein), Aramaic: ܐܩܛܪ (aqṭar)",
-          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
-        },
-        {
-          "term": "Santísimo",
-          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim), Greek: ἅγιον ἁγίων (hagion hagiōn), Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
-          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
-        },
-        {
-          "term": "Grasa / Sangre",
-          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām), Greek: στέαρ (stear) / αἷμα (haima), Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
-          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+          "term": "túnica y ropa interior de lino",
+          "original": "Hebrew: מִדּוֹ בַד (middo vad)",
+          "note": "Lino sencillo, no las vestiduras con labor de oro de Éxodo 28. El sacerdote lo llevaba puesto para sacar las cenizas del altar, y luego se cambiaba de ropa antes de salir del campamento (6:10-11). La vestidura sagrada se quedaba dentro del santuario; esa misma regla pone al sumo sacerdote en lino sencillo en el Día de la Expiación (Levítico 16:4)."
         }
       ],
-      "keyTakeaway": "Cuando alguien engaña a su prójimo o jura en falso, debe devolver lo que tomó o encontró, añadir una quinta parte de su valor y presentar una ofrenda por la culpa para recibir el perdón. El capítulo detalla además las regulaciones para el holocausto, la ofrenda de grano, la ofrenda de grano del sacerdote ungido y la ofrenda por el pecado, especificando cómo deben los sacerdotes manejar cada sacrificio.",
+      "keyTakeaway": "Cuando alguien engaña a su prójimo o jura en falso, debe devolver lo que tomó o halló, añadir una quinta parte de su valor y traer un sacrificio por la culpa para ser perdonado. El capítulo detalla después las normas del holocausto, de la ofrenda de cereal, de la ofrenda de cereal del sacerdote ungido y del sacrificio expiatorio, y especifica cómo han de manejar los sacerdotes cada sacrificio.",
       "headings": [
         {
           "beforeVerse": 7,
@@ -568,54 +499,35 @@
         "El SEÑOR se la dio a Moisés en el monte Sinaí el día en que mandó a los israelitas presentarle ofrendas en el desierto de Sinaí. (7:38)."
       ],
       "crossRefs": [
-        "Éxodo 29:38–46: Holocaustos diarios en la tienda de reunión.",
-        "Números 18:8–19: Porciones sacerdotales de las ofrendas de Israel.",
-        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón (reflexión posterior).",
-        "Salmo 51:16–17: Los sacrificios contrastados con un espíritu quebrantado (confesión de David)."
+        "Levítico 3:1-17: El sacrificio de comunión y las porciones de grasa quemadas al SEÑOR.",
+        "Éxodo 29:26-28: El pecho y el muslo asignados por primera vez a Aarón y a sus hijos en su consagración.",
+        "Deuteronomio 18:1-5: La porción de los sacerdotes de los sacrificios del pueblo, ya que Leví no tiene heredad de tierra.",
+        "1 Samuel 2:12-17: Los hijos de Elí toman la carne antes de que se queme la grasa y tratan la ofrenda con desprecio.",
+        "1 Corintios 9:13-14: Los que sirven en el altar participan de lo que se ofrece en el altar."
       ],
       "translationNotes": [
         {
-          "term": "*pecado*",
-          "original": "Hebrew: חַטָּאת (ḥaṭṭāʾt), Greek: ἁμαρτία (hamartia), Aramaic: ܚܛܝܬܐ (ḥaṭita)",
-          "note": "Errar el blanco del mandato de Dios; Levítico trata las violaciones involuntarias con un sacrificio prescrito para el perdón."
-        },
-        {
-          "term": "*culpa* (transgresión)",
-          "original": "Hebrew: אָשָׁם (ʾāsham), Greek: πλημμέλεια/ἁμάρτημα (plēmméleia/hamártēma), Aramaic: ܐܫܡܐ (ʾashma)",
-          "note": "Responsabilidad por una ofensa que requiere pago; incluye la restitución más un quinto además del sacrificio."
-        },
-        {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἱλάσκεσθαι (hilaskesthai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; remoción ritual de la responsabilidad del pecado para que el ofensor sea aceptado."
-        },
-        {
-          "term": "Imponer la mano",
-          "original": "Hebrew: סָמַךְ (sāmak), Greek: ἐπιτίθημι χεῖρα (epitithēmi cheira), Aramaic: ܣܡܟ (samak)",
-          "note": "Presionar la mano sobre la cabeza del animal para identificar/asociar al oferente con la ofrenda."
-        },
-        {
-          "term": "Ofrecer en humo",
-          "original": "Hebrew: הִקְטִיר (hiqtir), Greek: θυμιάω/ἀναφέρειν (thymiaō/ana pherein), Aramaic: ܐܩܛܪ (aqṭar)",
-          "note": "Quemar en el altar para que el aroma ascienda; distinto de la quema común."
-        },
-        {
-          "term": "Santísimo",
-          "original": "Hebrew: קֹדֶשׁ קָדָשִׁים (qōdesh qadāšim), Greek: ἅγιον ἁγίων (hagion hagiōn), Aramaic: ܩܘܕܫܐ ܕܩܘܕܫܐ (qudsha d-qudsha)",
-          "note": "Una categoría de la más alta santidad del santuario; restringida a los sacerdotes y al espacio sagrado."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado de impureza ritual, no suciedad; el contacto con ciertas cosas impide la participación hasta la purificación."
-        },
-        {
           "term": "Grasa / Sangre",
-          "original": "Hebrew: חֵלֶב (ḥēlev) / דָּם (dām), Greek: στέαρ (stear) / αἷμα (haima), Aramaic: ܚܠܒܐ (ḥelba) / ܕܡܐ (dama)",
-          "note": "Prohibido comer; la grasa de las ofrendas se quema para el SEÑOR, la sangre se reserva para la expiación en el altar."
+          "original": "Hebrew: חֵלֶב (chelev), suet - דָּם (dam), blood",
+          "note": "Levítico 7:22-27 prohíbe comer cualquiera de las dos, y la pena para ambas es ser eliminado del pueblo. La grasa de la que se habla es el sebo duro apretado alrededor de los riñones y las entrañas, la parte que mejor arde y que se tenía por la más selecta, y por eso va a Dios (3:16). La prohibición de la sangre se funda en 17:11: la vida está en la sangre y esta se da para la expiación; Hechos 15:20 mantiene esa misma restricción para los creyentes gentiles."
+        },
+        {
+          "term": "sacrificio de acción de gracias",
+          "original": "Hebrew: תּוֹדָה (todah)",
+          "note": "Una de las tres clases de sacrificio de comunión, junto con el sacrificio votivo y el voluntario. El de acción de gracias tiene el plazo más corto: debe comerse el mismo día (7:15), mientras que los otros dos pueden llegar al segundo día. El Salmo 116:17 y el Salmo 50:14 usan todah a la vez para el sacrificio y para la alabanza."
+        },
+        {
+          "term": "la piel es del sacerdote",
+          "original": "Hebrew: עוֹר הָעֹלָה (or ha-olah)",
+          "note": "Todo lo demás en un holocausto sube en humo, así que la piel es su único rendimiento material (7:8). El cuero era valioso y duradero, y esta sola línea es lo que sostenía al sacerdocio con el sacrificio más común de Israel."
+        },
+        {
+          "term": "abominación",
+          "original": "Hebrew: פִּגּוּל (piggul)",
+          "note": "Una palabra técnica y estrecha, no el término general para lo detestable. Piggul significa carne de sacrificio que ha pasado del tiempo permitido y que por eso se rechaza, y aparece solo cuatro veces en la Biblia hebrea. Levítico 7:18 la aplica a la carne del sacrificio de comunión comida al tercer día."
         }
       ],
-      "keyTakeaway": "Dios instruye a Moisés sobre las regulaciones para las ofrendas por la culpa, las ofrendas de comunión y los sacrificios relacionados, incluyendo qué partes pueden comer los sacerdotes, cuánto tiempo puede guardarse la carne y las prohibiciones contra comer grasa y sangre. También especifica las porciones de las ofrendas que corresponden a Aarón y sus hijos como su porción perpetua."
+      "keyTakeaway": "Dios instruye a Moisés sobre las normas de los sacrificios por la culpa, de los sacrificios de comunión y de las ofrendas relacionadas, incluidas las partes que los sacerdotes pueden comer, cuánto tiempo puede guardarse la carne y las prohibiciones de comer grasa y sangre. Especifica también las porciones de las ofrendas que pertenecen a Aarón y a sus hijos como parte perpetua."
     },
     {
       "id": "leviticus-8",
@@ -662,44 +574,45 @@
         "Y Aarón y sus hijos hicieron todo lo que el SEÑOR había mandado por medio de Moisés. (8:36)."
       ],
       "crossRefs": [
-        "Éxodo 29:1–37: Instrucciones anteriores para la ordenación de sacerdotes.",
-        "Números 3:3–4: Nadab y Abiú murieron ante el SEÑOR por ofrecer fuego no autorizado.",
-        "Hebreos 5:1: Un sumo sacerdote es nombrado para actuar en nombre de los hombres en relación con Dios.",
-        "1 Samuel 2:12–17: La profanación de las ofrendas por los sacerdotes trae juicio (ejemplo posterior)."
+        "Éxodo 29:1-37: Las instrucciones para exactamente esta consagración de siete días.",
+        "Éxodo 28:1-43: Las vestiduras que Moisés pone a Aarón pieza por pieza en este capítulo.",
+        "Éxodo 40:12-15: A Moisés se le manda lavar, vestir y ungir a Aarón y a sus hijos a la entrada de la Tienda.",
+        "Números 3:1-4: Los cuatro hijos de Aarón nombrados, y los dos que después murieron delante del SEÑOR.",
+        "Hebreos 5:4: Nadie toma para sí este honor; es llamado por Dios, igual que Aarón."
       ],
       "translationNotes": [
         {
           "term": "Ungir",
-          "original": "Hebrew: מָשַׁח (māšaḥ), Greek: χρίω (chriō), Aramaic: ܡܫܚ (mshaḥ)",
-          "note": "Aplicar aceite para consagrar; origen del título 'ungido.'"
+          "original": "Hebrew: מָשַׁח (mashach), to smear or rub with oil - מָשִׁיחַ (mashiach), an anointed one",
+          "note": "Se derrama aceite sobre la cabeza de Aarón en 8:12 y se rocía sobre el altar y sus utensilios en 8:10-11, lo cual pone a una persona y a un conjunto de objetos en la misma categoría: sacados del uso ordinario. A los reyes se los instalaba de la misma manera (1 Samuel 16:13; 1 Reyes 1:39). La forma pasiva del verbo da mashiach, que el castellano recoge como Mesías, y el equivalente griego christos da Cristo."
         },
         {
-          "term": "Ordenación (llenar la mano)",
-          "original": "Hebrew: מִלֻּאִים (milluʾim), phrase: מִלֵּא יָד (milleʾ yad), Greek: τελείωσις (teleiōsis); Aramaic: ܡܘܠܝܐ (mulya)",
-          "note": "Rito de instalación colocando porciones sagradas en las manos del sacerdote; significa servicio autorizado."
-        },
-        {
-          "term": "Fuego no autorizado/extraño",
-          "original": "Hebrew: אֵשׁ זָרָה (ʾēš zārāh), Greek: πῦρ ἀλλότριον (pyr allotrion), Aramaic: נוּרָא נוּכְרָיָא (nura nukhraya)",
-          "note": "Fuego de incienso no ordenado por Dios; ofrecerlo trajo muerte inmediata por fuego divino."
-        },
-        {
-          "term": "*profano*",
-          "original": "Hebrew: חֹל (ḥol), Greek: βέβηλος (bebēlos), Aramaic: ܚܘܠ (ḥul)",
-          "note": "Común/ordinario (no necesariamente inmoral) en oposición a lo santo; los sacerdotes deben distinguir lo santo de lo común."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado ritual que impide el acceso a las cosas santas hasta ser purificado; los sacerdotes deben enseñar la diferencia."
+          "term": "Consagración (llenar la mano)",
+          "original": "Hebrew: מִלֻּאִים (milluim) - the phrase מִלֵּא יָד (mille yad), 'to fill the hand'",
+          "note": "El hebreo para instalar a un hombre en un cargo es llenarle la mano, y Levítico 8:27 lo representa: la grasa, el pan y el muslo derecho se ponen en las manos de Aarón y se mecen delante del SEÑOR. El carnero que se usa se llama el carnero de milluim, el carnero de los llenamientos (8:22). El rito duró siete días y los hombres no se apartaron de la entrada de la Tienda en ninguno de ellos (8:33-35)."
         },
         {
           "term": "Fuera del campamento",
           "original": "Hebrew: מִחוּץ לַמַּחֲנֶה (miḥūts la-maḥaneh), Greek: ἔξω τῆς παρεμβολῆς (exō tēs parembolēs), Aramaic: לבר מן מדברא (lebar men midbara)",
-          "note": "Lugar para quemar restos sacrificiales y sacar cuerpos; simboliza la remoción de la impureza del campamento santo."
+          "note": "Lugar para quemar los restos de los sacrificios y sacar los cadáveres; simboliza la retirada de la impureza del campamento santo."
+        },
+        {
+          "term": "aceite de la unción",
+          "original": "Hebrew: שֶׁמֶן הַמִּשְׁחָה (shemen hammishchah)",
+          "note": "Aceite de oliva mezclado con especias concretas (Éxodo 30:22-25), usado para consagrar a los sacerdotes, a los reyes y el mobiliario del tabernáculo. La palabra hebrea para un ungido es mashiach, transliterada \"Mesías\". El equivalente griego es christos."
+        },
+        {
+          "term": "siete días",
+          "original": "Hebrew: שִׁבְעַת יָמִים (shivat yamim)",
+          "note": "La consagración duró una semana entera, con Aarón y sus hijos confinados a la entrada de la Tienda día y noche (8:33-35). Ese mismo patrón de siete días gobierna la consagración del altar en Éxodo 29:37 y la purificación de una enfermedad de la piel ya sanada en Levítico 14:8-9."
+        },
+        {
+          "term": "la diadema sagrada",
+          "original": "Hebrew: נֵזֶר הַקֹּדֶשׁ (nezer ha-qodesh)",
+          "note": "Nezer significa una consagración o una corona, y es la misma raíz que nazir, el nazareo de Números 6. La lámina de oro que decía SANTO AL SEÑOR se ataba sobre la parte delantera del turbante con un cordón azul (Éxodo 28:36-38). 2 Reyes 11:12 usa nezer para la corona puesta al niño rey Joás."
         }
       ],
-      "keyTakeaway": "Moisés consagra a Aarón y sus hijos como sacerdotes lavándolos, vistiéndolos con las vestiduras sacerdotales, ungiéndolos con aceite y realizando sacrificios con un toro, dos carneros y ofrendas de pan; Aarón y sus hijos deben permanecer en la tienda de reunión durante siete días.",
+      "keyTakeaway": "Moisés consagra a Aarón y a sus hijos como sacerdotes lavándolos, vistiéndolos con las vestiduras sacerdotales, ungiéndolos con aceite y realizando sacrificios con un toro, dos carneros y ofrendas de pan; Aarón y sus hijos deben permanecer en la Tienda de reunión durante siete días.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -740,44 +653,40 @@
         "De la presencia del SEÑOR salió un fuego que consumió el holocausto y la grasa que estaban sobre el altar. Al ver esto, todo el pueblo prorrumpió en gritos de júbilo y cayó rostro en tierra. (9:24)."
       ],
       "crossRefs": [
-        "Éxodo 29:1–37: Instrucciones anteriores para la ordenación de sacerdotes.",
-        "Números 3:3–4: Nadab y Abiú murieron ante el SEÑOR por ofrecer fuego no autorizado.",
-        "Hebreos 5:1: Un sumo sacerdote es nombrado para actuar en nombre de los hombres en relación con Dios.",
-        "1 Samuel 2:12–17: La profanación de las ofrendas por los sacerdotes trae juicio (ejemplo posterior)."
+        "Levítico 8:33-35: Los siete días de consagración que había que completar antes de este octavo día.",
+        "Números 6:22-27: Las palabras que se dan a los sacerdotes para bendecir a Israel.",
+        "Jueces 6:21: Sube fuego de la roca y consume la ofrenda de Gedeón.",
+        "1 Reyes 18:38-39: Cae fuego de parte del SEÑOR, consume la ofrenda, y el pueblo cae rostro en tierra.",
+        "2 Crónicas 7:1-3: Desciende fuego y la gloria del SEÑOR llena el templo en su dedicación."
       ],
       "translationNotes": [
         {
-          "term": "Ungir",
-          "original": "Hebrew: מָשַׁח (māšaḥ), Greek: χρίω (chriō), Aramaic: ܡܫܚ (mshaḥ)",
-          "note": "Aplicar aceite para consagrar; origen del título 'ungido.'"
-        },
-        {
-          "term": "Ordenación (llenar la mano)",
-          "original": "Hebrew: מִלֻּאִים (milluʾim), phrase: מִלֵּא יָד (milleʾ yad), Greek: τελείωσις (teleiōsis); Aramaic: ܡܘܠܝܐ (mulya)",
-          "note": "Rito de instalación colocando porciones sagradas en las manos del sacerdote; significa servicio autorizado."
-        },
-        {
-          "term": "Fuego no autorizado/extraño",
-          "original": "Hebrew: אֵשׁ זָרָה (ʾēš zārāh), Greek: πῦρ ἀλλότριον (pyr allotrion), Aramaic: נוּרָא נוּכְרָיָא (nura nukhraya)",
-          "note": "Fuego de incienso no ordenado por Dios; ofrecerlo trajo muerte inmediata por fuego divino."
-        },
-        {
-          "term": "*profano*",
-          "original": "Hebrew: חֹל (ḥol), Greek: βέβηλος (bebēlos), Aramaic: ܚܘܠ (ḥul)",
-          "note": "Común/ordinario (no necesariamente inmoral) en oposición a lo santo; los sacerdotes deben distinguir lo santo de lo común."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado ritual que impide el acceso a las cosas santas hasta ser purificado; los sacerdotes deben enseñar la diferencia."
-        },
-        {
           "term": "Fuera del campamento",
           "original": "Hebrew: מִחוּץ לַמַּחֲנֶה (miḥūts la-maḥaneh), Greek: ἔξω τῆς παρεμβολῆς (exō tēs parembolēs), Aramaic: לבר מן מדברא (lebar men midbara)",
-          "note": "Lugar para quemar restos sacrificiales y sacar cuerpos; simboliza la remoción de la impureza del campamento santo."
+          "note": "Lugar para quemar los restos de los sacrificios y sacar los cadáveres; simboliza la retirada de la impureza del campamento santo."
+        },
+        {
+          "term": "al octavo día",
+          "original": "Hebrew: בַּיּוֹם הַשְּׁמִינִי (bayyom hashemini)",
+          "note": "El día siguiente al cierre de la semana de consagración, y el primer día en que Aarón sirvió como sacerdote por derecho propio. El octavo día reaparece a lo largo del libro como el día en que se cumple un proceso terminado: la circuncisión en Levítico 12:3, las ofrendas del hombre purificado en 14:10 y el cierre de las Enramadas en 23:36."
+        },
+        {
+          "term": "alzó las manos y los bendijo",
+          "original": "Hebrew: וַיִּשָּׂא אַהֲרֹן אֶת־יָדָיו (vayyissa Aharon et-yadav)",
+          "note": "La primera bendición sacerdotal de la Escritura, dada con las manos alzadas. Números 6:22-27 aporta las palabras. Lucas 24:50 muestra esa misma postura en la ascensión, con las manos alzadas mientras bendice."
+        },
+        {
+          "term": "salió fuego de parte del SEÑOR",
+          "original": "Hebrew: וַתֵּצֵא אֵשׁ מִלִּפְנֵי יְהוָה (vattetse esh millifne YHWH)",
+          "note": "En 9:24 la ofrenda del altar es consumida por fuego de parte de Dios y no encendida por un sacerdote, y el pueblo grita y cae sobre su rostro. Esa misma frase abre el capítulo siguiente con el desenlace contrario, cuando ese mismo fuego consume a Nadab y a Abiú (10:2). Jueces 6:21, 1 Reyes 18:38 y 1 Crónicas 21:26 registran todos fuego cayendo sobre una ofrenda como señal de que fue aceptada."
+        },
+        {
+          "term": "el orden de las ofrendas",
+          "original": "Hebrew: חַטָּאת, עֹלָה, מִנְחָה, שְׁלָמִים (chattat, olah, minchah, shelamim)",
+          "note": "Levítico 9 es el primer día de trabajo del sacerdocio y lleva las ofrendas en una secuencia fija: primero el sacrificio expiatorio, luego el holocausto, luego la ofrenda de cereal, luego los sacrificios de comunión (9:8-21). El orden importa porque es el que el libro mantiene: primero la purificación, luego la entrega total, luego el don, luego la comida compartida. Aarón ofrece por sí mismo antes de ofrecer por el pueblo (9:7), regla a la que apunta Hebreos 7:27."
         }
       ],
-      "keyTakeaway": "Aarón ofrece los sacrificios indicados por él y por el pueblo en el octavo día; fuego del SEÑOR consume la ofrenda y el pueblo grita y cae rostro en tierra.",
+      "keyTakeaway": "Aarón ofrece los sacrificios prescritos por sí mismo y por el pueblo al octavo día; sale fuego de parte del SEÑOR y consume la ofrenda, y el pueblo grita y cae rostro en tierra.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -814,44 +723,45 @@
         "Al oír esto, Moisés quedó satisfecho con la respuesta. (10:20)."
       ],
       "crossRefs": [
-        "Éxodo 29:1–37: Instrucciones anteriores para la ordenación de sacerdotes.",
-        "Números 3:3–4: Nadab y Abiú murieron ante el SEÑOR por ofrecer fuego no autorizado.",
-        "Hebreos 5:1: Un sumo sacerdote es nombrado para actuar en nombre de los hombres en relación con Dios.",
-        "1 Samuel 2:12–17: La profanación de las ofrendas por los sacerdotes trae juicio (ejemplo posterior)."
+        "Números 3:2-4: Nadab y Abiú mueren delante del SEÑOR y no dejan hijos.",
+        "Números 26:61: El segundo censo vuelve a registrar que murieron al ofrecer fuego no autorizado.",
+        "Éxodo 30:9: La prohibición permanente de ofrecer incienso no autorizado en el altar de oro.",
+        "Ezequiel 44:21: Ningún sacerdote ha de beber vino antes de entrar en el atrio interior.",
+        "Ezequiel 44:23: Los sacerdotes han de enseñar la diferencia entre lo santo y lo profano, lo limpio y lo impuro."
       ],
       "translationNotes": [
         {
-          "term": "Ungir",
-          "original": "Hebrew: מָשַׁח (māšaḥ), Greek: χρίω (chriō), Aramaic: ܡܫܚ (mshaḥ)",
-          "note": "Aplicar aceite para consagrar; origen del título 'ungido.'"
-        },
-        {
-          "term": "Ordenación (llenar la mano)",
-          "original": "Hebrew: מִלֻּאִים (milluʾim), phrase: מִלֵּא יָד (milleʾ yad), Greek: τελείωσις (teleiōsis); Aramaic: ܡܘܠܝܐ (mulya)",
-          "note": "Rito de instalación colocando porciones sagradas en las manos del sacerdote; significa servicio autorizado."
-        },
-        {
-          "term": "Fuego no autorizado/extraño",
-          "original": "Hebrew: אֵשׁ זָרָה (ʾēš zārāh), Greek: πῦρ ἀλλότριον (pyr allotrion), Aramaic: נוּרָא נוּכְרָיָא (nura nukhraya)",
-          "note": "Fuego de incienso no ordenado por Dios; ofrecerlo trajo muerte inmediata por fuego divino."
-        },
-        {
-          "term": "*profano*",
-          "original": "Hebrew: חֹל (ḥol), Greek: βέβηλος (bebēlos), Aramaic: ܚܘܠ (ḥul)",
-          "note": "Común/ordinario (no necesariamente inmoral) en oposición a lo santo; los sacerdotes deben distinguir lo santo de lo común."
-        },
-        {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Estado ritual que impide el acceso a las cosas santas hasta ser purificado; los sacerdotes deben enseñar la diferencia."
+          "term": "Fuego no autorizado / ajeno",
+          "original": "Hebrew: אֵשׁ זָרָה (esh zarah), literally 'strange fire'",
+          "note": "Zar significa ajeno o perteneciente a otro, la misma palabra usada del forastero que no puede comer alimento sagrado (22:10). Las brasas para el incienso debían tomarse del altar mismo (16:12), así que traer fuego de cualquier otro sitio rompía la única regla que gobernaba todo el procedimiento. Levítico 10:1 dice con toda llaneza que ofrecieron fuego que él no les había mandado, y 10:9 sigue de inmediato con la prohibición de que los sacerdotes beban vino antes de entrar en la Tienda."
         },
         {
           "term": "Fuera del campamento",
           "original": "Hebrew: מִחוּץ לַמַּחֲנֶה (miḥūts la-maḥaneh), Greek: ἔξω τῆς παρεμβολῆς (exō tēs parembolēs), Aramaic: לבר מן מדברא (lebar men midbara)",
-          "note": "Lugar para quemar restos sacrificiales y sacar cuerpos; simboliza la remoción de la impureza del campamento santo."
+          "note": "Lugar para quemar los restos de los sacrificios y sacar los cadáveres; simboliza la retirada de la impureza del campamento santo."
+        },
+        {
+          "term": "aceite de la unción",
+          "original": "Hebrew: שֶׁמֶן הַמִּשְׁחָה (shemen hammishchah)",
+          "note": "Aceite de oliva mezclado con especias concretas (Éxodo 30:22-25), usado para consagrar a los sacerdotes, a los reyes y el mobiliario del tabernáculo. La palabra hebrea para un ungido es mashiach, transliterada \"Mesías\". El equivalente griego es christos."
+        },
+        {
+          "term": "incensario",
+          "original": "Hebrew: מַחְתָּה (machtah)",
+          "note": "Una bandeja de metal para llevar brasas encendidas del altar, con el incienso puesto encima. Números 16:6-7 hace que cada uno de los de Coré tome uno, y Números 16:39 hace que los de bronce se batan después como revestimiento del altar. Era una herramienta de sacerdote, y Nadab y Abiú usaron los suyos con un fuego que el SEÑOR no había mandado."
+        },
+        {
+          "term": "lo santo y lo profano, lo limpio y lo impuro",
+          "original": "Hebrew: קֹדֶשׁ / חֹל (qodesh / chol) - טָמֵא / טָהוֹר (tame / tahor)",
+          "note": "Dos pares distintos, no una sola escala continua, y Levítico 10:10 hace de enseñar la diferencia parte del trabajo del sacerdote. Santo y profano describen lo que está apartado para Dios y lo que no. Limpio e impuro describen la condición ritual. Una cosa puede ser profana y limpia a la vez, que es la condición ordinaria de casi toda la vida."
+        },
+        {
+          "term": "vino o bebida fuerte",
+          "original": "Hebrew: יַיִן וְשֵׁכָר (yayin ve-shekhar)",
+          "note": "Yayin es el vino de uva; shekhar abarca otras bebidas fermentadas, incluida la hecha de grano o de dátiles. La prohibición se aplica a los sacerdotes de servicio en la Tienda (10:9), y el voto nazareo de Números 6:3 la extiende aún más. Ezequiel 44:21 la repite para los sacerdotes del templo restaurado."
         }
       ],
-      "keyTakeaway": "Nadab y Abiú ofrecen fuego no autorizado ante el SEÑOR y son consumidos por el fuego de su presencia; Moisés establece luego reglas para Aarón y sus hijos restantes sobre la conducta en la tienda de reunión, las restricciones alimentarias y el consumo de las ofrendas sagradas.",
+      "keyTakeaway": "Nadab y Abiú ofrecen fuego no autorizado delante del SEÑOR y son consumidos por el fuego de su presencia; Moisés establece entonces reglas para Aarón y sus hijos restantes sobre la conducta en la Tienda de reunión, las restricciones alimentarias y el comer de las ofrendas sagradas.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -915,40 +825,50 @@
         "para que así puedan distinguir entre lo puro y lo impuro, entre lo que se puede comer y lo que no se debe comer». (11:47)."
       ],
       "crossRefs": [
-        "Deuteronomio 14:3–21: Leyes alimentarias paralelas de animales limpios e impuros.",
-        "Números 5:1–4: Personas impuras enviadas fuera del campamento.",
-        "Lucas 2:22–24: María ofrece sacrificios de purificación después del nacimiento de Jesús.",
-        "Mateo 8:2–3: Jesús limpia a un hombre con lepra instantáneamente.",
-        "Hebreos 9:13–14: La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+        "Deuteronomio 14:3-21: La misma lista de criaturas limpias e impuras, con algunas diferencias de orden y de detalle.",
+        "Génesis 7:2-3: Noé toma los animales limpios de siete en siete y los impuros de dos en dos, mucho antes del Sinaí.",
+        "Hechos 10:9-16: La visión de Pedro del lienzo, y la voz que le dice que no llame impuro a lo que Dios ha purificado.",
+        "Ezequiel 4:14: Ezequiel protesta diciendo que nunca en su vida ha comido nada impuro.",
+        "Daniel 1:8-16: Daniel rechaza la comida del rey y pide verduras y agua en su lugar."
       ],
       "translationNotes": [
         {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+          "term": "cilicio",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Tela áspera y oscura de pelo de cabra que se llevaba a raíz de la piel como señal universal de duelo, arrepentimiento o angustia (1 Reyes 21:27; Jonás 3:5; Mateo 11:21). Llevarlo en público proclamaba el dolor o la contrición; la incomodidad misma formaba parte del simbolismo."
         },
         {
-          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
-          "original": "Hebrew: צָרַעַת (ṣāraʿat), Greek: λέπρα (lepra), Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
-          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+          "term": "limpio e impuro",
+          "original": "Hebrew: טָהוֹר (tahor) / טָמֵא (tame)",
+          "note": "Son categorías rituales, no veredictos sobre higiene, salud o pecado. Estar impuro es una condición que impide a una persona acercarse al santuario hasta que caduca o se lava; la mayoría de los casos terminan al ponerse el sol (11:24-25). La vida corriente la producía sin parar, y nada en Levítico llama culpable a una persona por estar impura."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+          "term": "los criterios",
+          "original": "Hebrew: מַפְרֶסֶת פַּרְסָה וּמַעֲלַת גֵּרָה (mafreset parsah u-maalat gerah)",
+          "note": "El texto da pruebas observables, no razones. Un animal terrestre debe tener la pezuña partida del todo y rumiar, y hacen falta las dos cosas, y por eso el camello y el cerdo fallan cada uno en un punto (11:4-7). Las criaturas de agua necesitan aletas y escamas (11:9); los insectos necesitan patas articuladas para saltar (11:21)."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+          "term": "detestable",
+          "original": "Hebrew: שֶׁקֶץ (sheqets), compare תּוֹעֵבָה (toevah)",
+          "note": "Levítico 11 usa sheqets, palabra reservada para estas criaturas y para lo que las toca. El término más fuerte toevah, vertido normalmente como abominación, es el que se usa para las ofensas morales en Levítico 18:22 y 20:13. El castellano difumina dos palabras hebreas distintas en una sola."
         },
         {
-          "term": "Sin levadura vs. levadura",
-          "original": "Hebrew: מַצָּה (matzah), Greek: ἄζυμα (azyma), Aramaic: פטירא (petira)",
-          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+          "term": "la lista de las aves",
+          "original": "",
+          "note": "Levítico 11:13-19 nunca da una regla para las aves, solo una lista de unas veinte. Casi todas son aves de presa, carroñeras o zancudas, y el murciélago se cuenta con ellas. Varios de los nombres hebreos hoy no pueden emparejarse con una especie con certeza, y por eso las versiones difieren unas de otras en esta lista."
+        },
+        {
+          "term": "el cerdo",
+          "original": "Hebrew: חֲזִיר (chazir)",
+          "note": "Levítico 11:7 le dedica al cerdo su propia línea porque es el que falla por poco: la pezuña está partida del todo, pero no rumia. Los cerdos se criaban y se comían por todo el entorno de Israel, e Isaías 65:4 y 66:17 sitúan el comer carne de cerdo dentro de ritos paganos, entre los sepulcros y en los bosquecillos sagrados. Rechazar el cerdo llegó a ser lo más visible que distinguía a un judío de sus vecinos en el mundo antiguo."
+        },
+        {
+          "term": "por qué se rompe la vasija de barro",
+          "original": "Hebrew: כְּלִי־חֶרֶשׂ (keli-cheres)",
+          "note": "Levítico 11:32-36 trata cada recipiente según su material. La cerámica antigua es porosa y no puede fregarse por dentro, así que una olla o un horno de barro que contraen impureza se rompen y se tiran. La madera, la tela, el cuero y el pelo de cabra solo se enjuagan y quedan limpios al ponerse el sol, y un manantial o una cisterna siguen limpios porque el agua corriente y almacenada no es un recipiente. La regla sigue al material, no al precio del objeto."
         }
       ],
-      "keyTakeaway": "Dios instruye a Moisés y Aarón sobre qué animales pueden comer los israelitas: animales terrestres con pezuñas partidas que rumian, criaturas acuáticas con aletas y escamas, y ciertos insectos; todos los demás son impuros, y tocar sus cadáveres causa impureza ceremonial hasta el anochecer.",
+      "keyTakeaway": "Dios instruye a Moisés y a Aarón sobre qué animales pueden comer los israelitas: animales terrestres con pezuña partida que rumian, criaturas de agua con aletas y escamas, y ciertos insectos; todos los demás son impuros, y tocar sus cuerpos muertos causa impureza ceremonial hasta la tarde.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -973,40 +893,35 @@
         "Pero, si no le alcanza para comprar un cordero, tomará dos tórtolas o dos pichones de paloma, uno como holocausto y el otro como sacrificio por el perdón. Así el sacerdote obtendrá el perdón para la mujer y ella quedará purificada». (12:8)."
       ],
       "crossRefs": [
-        "Deuteronomio 14:3–21: Leyes alimentarias paralelas de animales limpios e impuros.",
-        "Números 5:1–4: Personas impuras enviadas fuera del campamento.",
-        "Lucas 2:22–24: María ofrece sacrificios de purificación después del nacimiento de Jesús.",
-        "Mateo 8:2–3: Jesús limpia a un hombre con lepra instantáneamente.",
-        "Hebreos 9:13–14: La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+        "Levítico 15:19-30: Las leyes paralelas sobre los flujos, que cierran con esa misma ofrenda de dos aves.",
+        "Lucas 2:22-24: María lleva el par de aves que este capítulo permite a quienes no pueden costear un cordero.",
+        "Génesis 17:9-12: La circuncisión al octavo día mandada a Abraham y a su casa.",
+        "Lucas 1:59: Los vecinos vienen al octavo día a circuncidar a Juan.",
+        "Levítico 20:18: La prohibición ligada al flujo de sangre de una mujer."
       ],
       "translationNotes": [
         {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+          "term": "cuarenta días y ochenta días",
+          "original": "Hebrew: שְׁלֹשִׁים וּשְׁלֹשֶׁת יָמִים (sheloshim u-sheloshet yamim), 'thirty-three days'",
+          "note": "Siete días de impureza más treinta y tres de purificación por un hijo, duplicados a catorce más sesenta y seis por una hija (12:2-5). El texto da las cuentas sin dar razón de la diferencia. Lucas 2:22 sitúa la presentación de Jesús al final del primero de esos plazos."
         },
         {
-          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
-          "original": "Hebrew: צָרַעַת (ṣāraʿat), Greek: λέπρα (lepra), Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
-          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+          "term": "la ofrenda de la mujer pobre",
+          "original": "",
+          "note": "La ofrenda prescrita es un cordero de un año más un ave, y Levítico 12:8 permite dos aves en su lugar si un cordero queda fuera de alcance. Lucas 2:24 registra exactamente esa segunda opción presentada por Jesús, lo cual sitúa a su familia entre aquellos para quienes se escribió la concesión."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+          "term": "circuncidado al octavo día",
+          "original": "Hebrew: יִמּוֹל בְּשַׂר עָרְלָתוֹ (yimmol besar orlato)",
+          "note": "El único mandato dentro de un capítulo que por lo demás trata de la madre, fijado en 12:3 para el octavo día después del nacimiento. Se remonta a Génesis 17:10-12, donde se fija ese mismo octavo día para la casa de Abraham. Lucas 1:59 y 2:21 registran los dos que se cumplió en su fecha, y Filipenses 3:5 tiene a Pablo citando su propio \"al octavo día\" como credencial."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
-        },
-        {
-          "term": "Sin levadura vs. levadura",
-          "original": "Hebrew: מַצָּה (matzah), Greek: ἄζυμα (azyma), Aramaic: פטירא (petira)",
-          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+          "term": "no tocará nada sagrado",
+          "original": "Hebrew: בְּכָל־קֹדֶשׁ לֹא־תִגָּע (bekhol-qodesh lo-tigga)",
+          "note": "La restricción de 12:4 trata del acceso al santuario y a sus alimentos, no de la casa. Treinta y tres días por un hijo y sesenta y seis por una hija siguen al plazo inicial, y solo cuando se cumplen presenta ella la ofrenda de 12:6. Lucas 2:22-24 registra a María llevando las dos aves de 12:8, que la ley permite cuando un cordero queda fuera de los medios de la familia."
         }
       ],
-      "keyTakeaway": "El SEÑOR establece períodos de purificación para las mujeres después del parto: siete días más treinta y tres días por un hijo varón, catorce días más sesenta y seis días por una hija; transcurrido ese tiempo, llevan un cordero y un ave al sacerdote para la expiación, o dos aves si no pueden costear el cordero.",
+      "keyTakeaway": "El SEÑOR establece los plazos de purificación de la mujer después del parto: siete días más treinta y tres por un hijo, catorce días más sesenta y seis por una hija; cumplido ese tiempo, llevan un cordero y un ave al sacerdote para la expiación, o dos aves si no les alcanza para un cordero.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1082,40 +997,40 @@
         "Esta es la ley respecto a la mancha de moho que infecta la ropa, la lana, el lino, la urdimbre, la trama o cualquier artículo de piel, para poder declararlos puros o impuros. (13:59)."
       ],
       "crossRefs": [
-        "Deuteronomio 14:3–21: Leyes alimentarias paralelas de animales limpios e impuros.",
-        "Números 5:1–4: Personas impuras enviadas fuera del campamento.",
-        "Lucas 2:22–24: María ofrece sacrificios de purificación después del nacimiento de Jesús.",
-        "Mateo 8:2–3: Jesús limpia a un hombre con lepra instantáneamente.",
-        "Hebreos 9:13–14: La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+        "Levítico 14:1-32: Lo que ocurre después de que el sacerdote comprueba que la afección ha sanado.",
+        "Números 12:9-15: María es herida y encerrada fuera del campamento siete días.",
+        "2 Reyes 5:1-14: Naamán, comandante arameo, se lava siete veces en el Jordán y su carne queda restaurada.",
+        "2 Crónicas 26:19-21: El rey Uzías es herido en el templo y vive en una casa aparte hasta su muerte.",
+        "Lucas 17:11-14: Diez hombres se quedan a distancia, y Jesús los envía a presentarse a los sacerdotes."
       ],
       "translationNotes": [
         {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+          "term": "*tzaraʿat* (a menudo traducido \"lepra\")",
+          "original": "Hebrew: צָרַעַת (tsaraat) - Greek (LXX): λέπρα (lepra)",
+          "note": "No es la enfermedad que hoy se conoce como lepra, que es el mal de Hansen y está causada por una bacteria identificada en 1873. Tsaraat abarca una gama de afecciones de superficie, y esa misma palabra se aplica a las manchas en la lana, el lino y el cuero (13:47-59) y a los brotes en el revoque de una casa (14:34-53), cosa que ninguna enfermedad humana hace. El trabajo del sacerdote en este capítulo no es tratar nada; es mirar, medir, esperar siete días, volver a mirar y declarar limpia o impura a la persona."
         },
         {
-          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
-          "original": "Hebrew: צָרַעַת (ṣāraʿat), Greek: λέπρα (lepra), Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
-          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+          "term": "el examen del sacerdote",
+          "original": "Hebrew: וְרָאָהוּ הַכֹּהֵן (ve-raahu ha-kohen), 'and the priest shall look at him'",
+          "note": "Este capítulo es un procedimiento de diagnóstico, no un tratamiento. El sacerdote busca tres señales, hundimiento por debajo de la piel, vello emblanquecido y extensión, luego aísla a la persona siete días y vuelve a mirar, y puede aislarla otros siete (13:4-6). En ningún lugar de él se prescribe medicina alguna."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+          "term": "cubierto de pies a cabeza queda limpio",
+          "original": "Hebrew: כֻּלּוֹ הָפַךְ לָבָן (kullo hafakh lavan), 'it has all turned white'",
+          "note": "Levítico 13:12-13 dictamina que si la afección cubre todo el cuerpo el hombre queda limpio, mientras que una zona de carne viva lo vuelve impuro otra vez (13:14). El veredicto corre al revés de lo que un lector moderno espera. Lo que el capítulo sigue es el estado de la afección, no su cantidad."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+          "term": "ropa rasgada y cabello suelto",
+          "original": "Hebrew: בְּגָדָיו יִהְיוּ פְרֻמִים (begadav yihyu ferumim)",
+          "note": "Las señales del duelo, llevadas por los vivos. Levítico 13:45 exige ropa rasgada, cabello suelto, el labio superior cubierto y el grito \"¡Impuro, impuro!\", para que los demás puedan mantener la distancia. Levítico 10:6 prohíbe esas mismas señales de duelo a los sacerdotes de servicio."
         },
         {
-          "term": "Sin levadura vs. levadura",
-          "original": "Hebrew: מַצָּה (matzah), Greek: ἄζυμα (azyma), Aramaic: פטירא (petira)",
-          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+          "term": "en el tejido y en las casas",
+          "original": "",
+          "note": "Esa misma palabra abarca aquí las manchas en la lana, el lino y el cuero (13:47-59) y las del revoque y las piedras de una casa en Levítico 14:33-53. Ninguna enfermedad humana se contagia a una prenda o a una pared, y por eso tsaraat no puede leerse como una sola enfermedad. El texto la trata como una única categoría de contaminación en personas, telas y edificios."
         }
       ],
-      "keyTakeaway": "Moisés y Aarón reciben instrucciones sobre cómo los sacerdotes deben examinar y pronunciar juicio sobre diversas enfermedades de la piel y telas con moho, usando la observación de la profundidad, el color del pelo y la extensión para determinar si algo es puro o impuro. Los que tienen enfermedades contaminantes deben usar ropa rasgada, llevar el cabello desgreñado, cubrirse el rostro y vivir fuera del campamento.",
+      "keyTakeaway": "Moisés y Aarón reciben instrucciones sobre cómo han de examinar los sacerdotes y dictaminar sobre distintas enfermedades de la piel y sobre los tejidos enmohecidos, observando la profundidad, el color del vello y la extensión para determinar la pureza o la impureza. Los que tengan enfermedades contaminantes deben llevar la ropa rasgada, el cabello despeinado, cubierto el rostro, y vivir fuera del campamento.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1189,40 +1104,45 @@
         "para así poder enseñar al pueblo cuándo algo es puro o impuro. »Esta es la ley respecto a las infecciones». (14:57)."
       ],
       "crossRefs": [
-        "Deuteronomio 14:3–21: Leyes alimentarias paralelas de animales limpios e impuros.",
-        "Números 5:1–4: Personas impuras enviadas fuera del campamento.",
-        "Lucas 2:22–24: María ofrece sacrificios de purificación después del nacimiento de Jesús.",
-        "Mateo 8:2–3: Jesús limpia a un hombre con lepra instantáneamente.",
-        "Hebreos 9:13–14: La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+        "Levítico 13:1-46: El examen que tiene que venir primero, y el veredicto que este capítulo revierte.",
+        "Mateo 8:2-4: Jesús manda al hombre purificado presentarse al sacerdote y ofrecer lo que Moisés mandó.",
+        "Marcos 1:40-45: El mismo mandato dado, y el hombre difundiendo la noticia en su lugar.",
+        "Números 19:6: Madera de cedro, hisopo y lana escarlata arrojados al fuego con la vaca roja.",
+        "Salmos 51:7: Purifícame con hisopo, y quedaré limpio."
       ],
       "translationNotes": [
         {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
-        },
-        {
-          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
+          "term": "*tzaraʿat* (a menudo traducido \"lepra\")",
           "original": "Hebrew: צָרַעַת (ṣāraʿat), Greek: λέπρα (lepra), Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
-          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+          "note": "Una gama de afecciones de la piel, de mildiu o de moho; no se limita al mal de Hansen. Podía afectar a personas, a prendas o a casas."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+          "term": "efa",
+          "original": "Hebrew: אֵיפָה (ephah)",
+          "note": "La medida corriente de áridos del Antiguo Testamento para el grano, unos 22 cuartos de galón o 5,8 galones (22 litros). Rut lleva a casa un efa de cebada después de un día de espigar (Rut 2:17)."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+          "term": "hisopo",
+          "original": "Hebrew: אֵזוֹב (ezov); Greek: ὕσσωπος (hussopos)",
+          "note": "Una hierba pequeña y aromática (Origanum syriacum / orégano sirio) que crece en suelo rocoso. Los manojos de hisopo se usaban para aplicar la sangre de la Pascua a los postes de las puertas (Éxodo 12:22), en los ritos de purificación del leproso (Levítico 14:6), y se le acercó a Jesús en la cruz con una esponja empapada en vino (Juan 19:29)."
         },
         {
-          "term": "Sin levadura vs. levadura",
-          "original": "Hebrew: מַצָּה (matzah), Greek: ἄζυμα (azyma), Aramaic: פטירא (petira)",
-          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+          "term": "dos aves, cedro, escarlata e hisopo",
+          "original": "Hebrew: עֵץ אֶרֶז וּשְׁנִי תוֹלַעַת וְאֵזֹב (ets erez u-sheni tolaat ve-ezov)",
+          "note": "Un ave se degüella sobre agua fresca en una vasija de barro y la segunda se moja en su sangre y se suelta viva (14:5-7). Esos mismos cuatro elementos, cedro, lana escarlata, hisopo y un animal degollado, vuelven a aparecer en la vaca roja de Números 19:6. El hisopo es la brocha pequeña; el cedro y la escarlata son lo duradero y lo vivo."
+        },
+        {
+          "term": "log",
+          "original": "Hebrew: לֹג (log)",
+          "note": "La medida de líquidos más pequeña nombrada en la Biblia hebrea, una duodécima parte de un hin, aproximadamente un tercio de litro o unas diez onzas líquidas. Aparece solo en Levítico 14, donde se usa un solo log de aceite de oliva para el rito de purificación (14:10, 14:12, 14:21)."
+        },
+        {
+          "term": "tres décimas de efa",
+          "original": "Hebrew: שְׁלֹשָׁה עֶשְׂרֹנִים (sheloshah esronim)",
+          "note": "Unos 6,6 litros de flor de harina, aproximadamente siete cuartos de galón, para la versión completa de la ofrenda. Levítico 14:21 la reduce a una décima, unos 2,2 litros, y cambia dos corderos por dos aves si el hombre es pobre. La purificación es la misma en cualquier caso; solo cambia el precio."
         }
       ],
-      "keyTakeaway": "Dios da a Moisés los procedimientos para purificar a las personas sanadas de enfermedades de la piel, incluidos rituales con aves, aceite y ofrendas de animales, con una alternativa más sencilla para quienes no pueden costear los sacrificios estándar. También se dan instrucciones para examinar las casas con moho que se extiende, demolerlas si el moho persiste y purificarlas con sangre de ave si el moho ha desaparecido."
+      "keyTakeaway": "Dios da a Moisés los procedimientos para purificar a las personas sanadas de enfermedades de la piel, con ritos de aves, aceite y ofrendas animales, y con una alternativa más sencilla para quienes no pueden costear los sacrificios corrientes. Se dan también instrucciones para examinar las casas con moho que se extiende, derribarlas si el moho persiste, y purificarlas con sangre de ave si el moho ha desaparecido."
     },
     {
       "id": "leviticus-15",
@@ -1266,40 +1186,40 @@
         "a la mujer que tenga flujo menstrual, al hombre y a la mujer que tengan un flujo inusual y a quien tenga relaciones sexuales con una mujer impura». (15:33)."
       ],
       "crossRefs": [
-        "Deuteronomio 14:3–21: Leyes alimentarias paralelas de animales limpios e impuros.",
-        "Números 5:1–4: Personas impuras enviadas fuera del campamento.",
-        "Lucas 2:22–24: María ofrece sacrificios de purificación después del nacimiento de Jesús.",
-        "Mateo 8:2–3: Jesús limpia a un hombre con lepra instantáneamente.",
-        "Hebreos 9:13–14: La sangre de machos cabríos y las cenizas santifican para la limpieza exterior, pero la sangre de Cristo limpia la conciencia."
+        "Levítico 12:1-8: La ley emparentada para la mujer después del parto, que cierra con esa misma ofrenda.",
+        "Números 5:1-4: Todo el que tenga flujo o enfermedad de la piel es enviado fuera del campamento.",
+        "Levítico 22:4-7: Un sacerdote con flujo no puede comer de las ofrendas sagradas hasta la puesta del sol y un lavado.",
+        "Marcos 5:25-34: Una mujer con flujo de sangre desde hace doce años alcanza entre la multitud a tocar su manto.",
+        "2 Samuel 11:4: De Betsabé se dice que se estaba purificando de su impureza."
       ],
       "translationNotes": [
         {
-          "term": "*impuro*",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: ἀκάθαρτος (akathartos), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Un estado ritual, no suciedad; impide el contacto con cosas santas hasta la tarde o después del sacrificio."
+          "term": "flujo",
+          "original": "Hebrew: זוֹב (zov)",
+          "note": "Un término general para una secreción corporal anormal, no una enfermedad con nombre. El capítulo lo distingue de las emisiones corrientes y de la menstruación, y prescribe lavado, espera hasta la tarde y, para el caso crónico, una cuenta de siete días y dos aves (15:13-15). Marcos 5:25 describe a una mujer bajo exactamente la condición prolongada de este capítulo."
         },
         {
-          "term": "*tsaráat* (frecuentemente traducido como 'lepra')",
-          "original": "Hebrew: צָרַעַת (ṣāraʿat), Greek: λέπρα (lepra), Aramaic: ܨܪܥܬܐ (ṣaraʿta)",
-          "note": "Una variedad de afecciones de la piel, moho o hongos; no se limita a la enfermedad de Hansen. Podía afectar a personas, vestiduras o casas."
+          "term": "impuro hasta la tarde",
+          "original": "Hebrew: וְטָמֵא עַד־הָעָרֶב (ve-tame ad-ha-arev)",
+          "note": "El dictamen más frecuente del capítulo, y el que muestra la escala del sistema: la mayor parte de la impureza terminaba a la puesta del sol con un lavado. El día hebreo cambia al anochecer, así que la condición caducaba esa misma noche. Levítico 22:6-7 aplica ese mismo límite a los sacerdotes."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritualmente impuro; el contacto con cadáveres, sangre o flujos propaga este estado."
+          "term": "no sea que mueran por contaminar mi tabernáculo",
+          "original": "Hebrew: וְלֹא יָמֻתוּ בְּטֻמְאָתָם (ve-lo yamutu betumatam)",
+          "note": "Levítico 15:31 da la razón de todo el capítulo: el peligro es la impureza llevada al santuario, no la impureza en sí. Números 5:1-4 actúa sobre ese mismo principio al sacar del campamento a las personas afectadas mientras la Tienda está en medio de él."
         },
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir, purgar o reconciliar; los sacrificios restauran al impuro para acceder al santuario de Dios."
+          "term": "la cama y el asiento",
+          "original": "Hebrew: מִשְׁכָּב (mishkav), a bed - מוֹשָׁב (moshav), a seat",
+          "note": "Las reglas de 15:4-12 y 15:19-27 van hacia fuera por contacto: la cama, el asiento, la montura, todo el que los toque, todo aquel a quien el hombre escupa, y toda vasija de barro que maneje, que se rompe. El remedio en casi todos los casos es el mismo y es pequeño: lava tu ropa, báñate, y quedas limpio a la puesta del sol. Lo que el capítulo construye es una cadena rastreable de contactos, no una escala de culpa."
         },
         {
-          "term": "Sin levadura vs. levadura",
-          "original": "Hebrew: מַצָּה (matzah), Greek: ἄζυμα (azyma), Aramaic: פטירא (petira)",
-          "note": "Mencionado de nuevo en ofrendas de purificación; pan sin levadura, símbolo de pureza y prisa."
+          "term": "un flujo de sangre por muchos días",
+          "original": "Hebrew: זוֹב דָּמָהּ (zov damah)",
+          "note": "Los versículos 15:25-30 tratan el sangrado fuera del ciclo mensual o prolongado más allá de él, y declaran impura a la mujer mientras dure, y también impuro todo aquello sobre lo que se acueste o se siente. Esa es la condición de la mujer de Mateo 9:20-22, Marcos 5:25-34 y Lucas 8:43-48, que llevaba doce años sangrando: doce años en los que tocar a alguien transmitía la impureza, y por eso ella se acerca por detrás y no dice nada."
         }
       ],
-      "keyTakeaway": "El SEÑOR establece reglas para diversos flujos corporales; cualquier persona u objeto tocado por alguien con un flujo queda impuro y requiere lavarse y esperar hasta el anochecer, con ofrendas de purificación requeridas después de siete días de limpieza.",
+      "keyTakeaway": "El SEÑOR establece reglas para los distintos flujos corporales; toda persona o cosa que toque a alguien con flujo queda impura y requiere lavado y espera hasta la tarde, con ofrendas de purificación exigidas tras siete días de limpieza.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1350,29 +1270,54 @@
         "»Este será un estatuto perpetuo: una vez al año se deberá hacer el sacrificio para pedir el perdón de todos los israelitas a causa de todos sus pecados». Y se hizo tal como el SEÑOR se lo había mandado a Moisés. (16:34)."
       ],
       "crossRefs": [
-        "Hebreos 9:7: El sumo sacerdote entra al Lugar Santo una vez al año, no sin sangre.",
-        "Hebreos 9:12: Cristo entró una vez para siempre con Su propia sangre, asegurando redención eterna.",
-        "Levítico 23:26–32: Instrucciones adicionales sobre el ayuno del Día de la Expiación.",
-        "Números 29:7–11: Detalles sacrificiales para el Día de la Expiación."
+        "Hebreos 9:7: El sumo sacerdote entra en el Lugar Santo una vez al año, y no sin sangre.",
+        "Hebreos 9:12: Cristo entró una vez para siempre con su propia sangre, obteniendo redención eterna.",
+        "Levítico 23:26-32: Más instrucciones sobre el ayuno del Día de la Expiación.",
+        "Números 29:7-11: Detalles sacrificiales para el Día de la Expiación."
       ],
       "translationNotes": [
         {
           "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "Cubrir o purgar; mediante la sangre, el santuario y el pueblo son ritualmente purificados."
+          "original": "Hebrew: כִּפֶּר (kipper), to cover or wipe clean - יוֹם הַכִּפֻּרִים (Yom ha-Kippurim)",
+          "note": "Este capítulo es donde la palabra hace su trabajo más pesado: se hace expiación por el Lugar Santísimo, por la Tienda, por el altar, por los sacerdotes y por toda la asamblea (16:16-20, 16:33). El orden es fijo, primero el santuario y el pueblo al final, porque el libro trata la impureza acumulada como algo que se deposita sobre el edificio. El versículo 16:30 declara el propósito del día en una línea: en este día se hará expiación por ustedes para limpiarlos de todos sus pecados."
         },
         {
-          "term": "Chivo expiatorio (*azazel*)",
+          "term": "Macho cabrío expiatorio (*azazel*)",
           "original": "Hebrew: עֲזָאזֵל (ʿazāʾzel), Greek: ἀποπομπαῖος τράγος (apopompaíos tragos), Aramaic: עזאזל (azazel)",
-          "note": "Macho cabrío enviado al desierto cargando los pecados de Israel; algunos interpretan el nombre como un lugar, un demonio o simplemente 'remoción completa.'"
+          "note": "Macho cabrío enviado al desierto llevando los pecados de Israel; algunos entienden el nombre como un lugar, como un demonio o simplemente como \"retirada total\"."
         },
         {
           "term": "Lugar Santísimo",
           "original": "Hebrew: קֹדֶשׁ הַקֳּדָשִׁים (qōdesh haqqodāšim), Greek: ἅγια τῶν ἁγίων (hagia tōn hagiōn), Aramaic: קודשא דקודשיא (qudsha d-qudsha)",
-          "note": "El santuario interior donde se guardaba el arca y el propiciatorio; solo el sumo sacerdote entraba una vez al año."
+          "note": "El santuario interior donde se guardaban el arca y el propiciatorio; entraba en él solo el sumo sacerdote, una vez al año."
+        },
+        {
+          "term": "sábado",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "El séptimo día, apartado por mandato de Dios (Éxodo 20:8-11). Todo trabajo cesaba desde la puesta del sol del viernes hasta la puesta del sol del sábado. Para los días de Jesús, la tradición rabínica había elaborado 39 categorías de labor prohibida; muchas de las sanidades de Jesús desafiaron deliberadamente esas reglas añadidas sin quebrantar el mandato mismo de la Torá."
+        },
+        {
+          "term": "el Día de la Expiación",
+          "original": "Hebrew: יוֹם הַכִּפֻּרִים (Yom ha-Kippurim)",
+          "note": "El día diez del séptimo mes (16:29), el único día del año en que el sumo sacerdote pasaba detrás del velo, y el único ayuno que manda la ley de Moisés. Levítico 23:27-32 repite la fecha y lo hace un sábado de descanso completo que corre de tarde a tarde. Números 29:7-11 da las ofrendas del día."
+        },
+        {
+          "term": "humíllense",
+          "original": "Hebrew: תְּעַנּוּ אֶת־נַפְשֹׁתֵיכֶם (teannu et-nafshoteikhem), 'you shall afflict your souls'",
+          "note": "El hebreo dice aflijan el alma, e Israel siempre lo ha guardado como ayuno; Isaías 58:3-5 discute sobre el ayuno usando ese mismo verbo, y Hechos 27:9 llama a esa época simplemente \"el Ayuno\". Levítico nunca detalla el método, solo la exigencia."
+        },
+        {
+          "term": "las vestiduras de lino",
+          "original": "Hebrew: כְּתֹנֶת־בַּד קֹדֶשׁ (ketonet-bad qodesh)",
+          "note": "En este único día el sumo sacerdote dejaba a un lado el oro, el efod y el pectoral, se bañaba y se ponía lino sencillo (16:4). Volvía a ponerse sus propias vestiduras solo después de que el macho cabrío hubiera sido enviado (16:23-24). El servicio más importante del año se hacía con la ropa más sencilla que él tenía."
+        },
+        {
+          "term": "las dos suertes",
+          "original": "Hebrew: גּוֹרָלוֹת (goralot)",
+          "note": "Dos machos cabríos se ponen a la entrada de la Tienda y las suertes deciden cuál es cuál (16:8). Nadie escoge. La pareja se trata como un solo sacrificio expiatorio por el pueblo (16:5): uno muere y su sangre se lleva adentro, el otro se lleva vivos al desierto los pecados confesados."
         }
       ],
-      "keyTakeaway": "El Día de la Expiación se establece con el sumo sacerdote entrando al Lugar Santísimo una vez al año con sacrificios, ritos de purificación con sangre y el chivo expiatorio que lleva los pecados al desierto.",
+      "keyTakeaway": "Se establece el Día de la Expiación, con el sumo sacerdote entrando una vez al año en el Lugar Santísimo con sacrificios, ritos de sangre purificadora y el macho cabrío que lleva los pecados al desierto.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1405,39 +1350,50 @@
         "Pero, si no se lava la ropa ni se baña, sufrirá las consecuencias de su pecado». (17:16)."
       ],
       "crossRefs": [
-        "Génesis 9:4: A Noé se le ordenó no comer carne con sangre.",
-        "Hechos 15:28–29: A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
-        "Romanos 1:26–27: Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
-        "Deuteronomio 18:9–12: Se advierte a Israel que no imite las prácticas detestables de las naciones."
+        "Génesis 9:4-6: La carne con su sangre de vida todavía dentro no se ha de comer.",
+        "Deuteronomio 12:20-25: Ya en la tierra, la carne puede degollarse en cualquier sitio, pero la sangre debe derramarse en el suelo.",
+        "Hechos 15:19-20: A los creyentes gentiles se les dice que se abstengan de la sangre y de lo estrangulado.",
+        "2 Crónicas 11:15: Jeroboán nombra sus propios sacerdotes para los lugares altos y para los ídolos con figura de macho cabrío.",
+        "Hebreos 9:22: Sin derramamiento de sangre no hay perdón."
       ],
       "translationNotes": [
         {
           "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
+          "original": "Hebrew: כִּפֶּר (kipper) - נֶפֶשׁ (nefesh), life or living being",
+          "note": "Levítico 17:11 es la frase sobre la que descansa todo el sistema sacrificial: la vida de la carne está en la sangre, y Dios la ha dado sobre el altar para hacer expiación, porque es la sangre la que expía por la vida que hay en ella. Esa es la razón declarada de la prohibición de comer sangre en ese mismo versículo. Hebreos 9:22 vuelve a enunciar el principio: sin derramamiento de sangre no hay perdón."
         },
         {
-          "term": "Moloc",
-          "original": "Hebrew: מֹלֶךְ (Mōlekh), Greek: Μολόχ (Moloch), Aramaic: מולך (Mulek)",
-          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
+          "term": "Eliminado",
+          "original": "Hebrew: כָּרֵת (karet), to be cut off",
+          "note": "Una fórmula legal fija, usada cuatro veces solo en este capítulo (17:4, 17:9, 17:10, 17:14). Saca a una persona de la comunidad del pacto y de sus protecciones; el texto no dice si la ejecuta un tribunal o Dios, y no nombra ejecutor humano alguno. Génesis 17:14 la aplica al hombre que no está circuncidado, y Éxodo 30:33 y 30:38 a quien copie para uso privado el aceite de la unción o el incienso del santuario."
         },
         {
-          "term": "Médium / Nigromante",
-          "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni), Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis), Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
-          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
+          "term": "demonios con figura de macho cabrío",
+          "original": "Hebrew: שְׂעִירִים (seirim), 'hairy ones'",
+          "note": "La misma palabra significa macho cabrío, y se usa aquí para aquello a lo que Israel había estado sacrificando en campo abierto (17:7). 2 Crónicas 11:15 registra que Jeroboán nombró sacerdotes para los lugares altos y para esos seirim. Isaías 13:21 y 34:14 los sitúan en ruinas y en yermos."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
+          "term": "la vida está en la sangre",
+          "original": "Hebrew: נֶפֶשׁ הַבָּשָׂר בַּדָּם (nefesh ha-basar ba-dam)",
+          "note": "Nefesh es la palabra para una vida o un ser vivo, así que la frase dice que la vida de la criatura está en su sangre. Levítico 17:11 lo da como la razón por la que no se come sangre y como la razón por la que esta obra en el altar. Génesis 9:4 enuncia esa misma regla a Noé, mucho antes del Sinaí."
         },
         {
-          "term": "Ser cortado",
-          "original": "Hebrew: כָּרֵת (karēt), Greek: ἐξολοθρεύω (exolothreuō), Aramaic: כרת (karat)",
-          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+          "term": "desangrarlo y cubrir la sangre",
+          "original": "Hebrew: וְכִסָּהוּ בֶּעָפָר (ve-khissahu be-afar), 'and cover it with dust'",
+          "note": "La caza abatida en el monte no puede llevarse al altar, así que su sangre se derrama y se entierra en la tierra (17:13). Deuteronomio 12:16 y 12:24 dan esa misma instrucción para los animales degollados para comer una vez que Israel esté repartido por la tierra."
+        },
+        {
+          "term": "se prostituyeron",
+          "original": "Hebrew: זָנָה (zanah)",
+          "note": "El verbo es la palabra corriente para una mujer que se vende, y Levítico 17:7 lo dirige a Israel sacrificando a los demonios con figura de macho cabrío. La Escritura lo usa para el culto falso desde Éxodo 34:15-16 en adelante, y todo el libro de Oseas está construido sobre él. Las traducciones que leen \"fueron infieles\" son exactas, pero pierden la dureza deliberada del hebreo."
+        },
+        {
+          "term": "ha derramado sangre",
+          "original": "Hebrew: דָּם יֵחָשֵׁב (dam yechashev)",
+          "note": "Levítico 17:4 acusa de culpa de sangre al hombre que mata un buey, un cordero o una cabra lejos de la Tienda, la misma categoría legal que la ley usa para el asesinato. En el antiguo Cercano Oriente toda matanza de un animal doméstico era un acto religioso realizado en un santuario, así que una casa que mataba su propia res en campo abierto estaba en la práctica adorando en algún sitio. La ley no prohíbe la carne; prohíbe el altar privado."
         }
       ],
-      "keyTakeaway": "Dios ordena que todos los sacrificios se presenten en la tienda de reunión y no en el campo ni a los ídolos en forma de cabra, y prohíbe estrictamente comer sangre porque representa la vida y sirve para la expiación; quien viole estas reglas será eliminado del pueblo.",
+      "keyTakeaway": "Dios manda que todos los sacrificios se lleven a la Tienda de reunión y no se ofrezcan en los campos ni a los ídolos con figura de macho cabrío, y prohíbe terminantemente comer sangre, ya que representa la vida y hace expiación; todo el que quebrante estas reglas será eliminado del pueblo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1488,39 +1444,65 @@
         "Ustedes cumplan mis órdenes y absténganse de seguir las abominables costumbres que se practicaban en la tierra antes de que ustedes llegaran. No se contaminen por causa de ellas. Yo soy el SEÑOR su Dios». (18:30)."
       ],
       "crossRefs": [
-        "Génesis 9:4: A Noé se le ordenó no comer carne con sangre.",
-        "Hechos 15:28–29: A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
-        "Romanos 1:26–27: Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
-        "Deuteronomio 18:9–12: Se advierte a Israel que no imite las prácticas detestables de las naciones."
+        "Levítico 20:10-21: Las mismas prohibiciones enumeradas otra vez, esta vez con las penas adjuntas.",
+        "Deuteronomio 27:20-23: Maldiciones pronunciadas en el monte Ebal sobre esas mismas relaciones.",
+        "Deuteronomio 25:5-6: El matrimonio por levirato, el único caso en que un hombre toma a la viuda de su hermano muerto.",
+        "Génesis 19:30-38: Las hijas de Lot, y el origen de Moab y de Amón.",
+        "1 Corintios 5:1-5: Un hombre en Corinto tiene a la mujer de su padre, cosa que no se halla ni entre las naciones."
       ],
       "translationNotes": [
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
-        },
-        {
-          "term": "Moloc",
-          "original": "Hebrew: מֹלֶךְ (Mōlekh), Greek: Μολόχ (Moloch), Aramaic: מולך (Mulek)",
-          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
-        },
-        {
-          "term": "Médium / Nigromante",
-          "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni), Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis), Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
-          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
-        },
-        {
           "term": "Contaminar",
           "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
+          "note": "Volver ritual o moralmente contaminado; se usa para la sangre, el pecado sexual, la idolatría y la nigromancia."
         },
         {
-          "term": "Ser cortado",
+          "term": "Eliminado",
           "original": "Hebrew: כָּרֵת (karēt), Greek: ἐξολοθρεύω (exolothreuō), Aramaic: כרת (karat)",
-          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+          "note": "Ser retirado del pueblo, unas veces por muerte, otras por exclusión; el texto no siempre precisa cuál."
+        },
+        {
+          "term": "descubrir la desnudez",
+          "original": "Hebrew: גִּלָּה עֶרְוָה (gillah ervah)",
+          "note": "Un modismo legal fijo para las relaciones sexuales, usado a lo largo de Levítico 18 y 20, y en ningún lugar significa simplemente ver a alguien desvestido. Las versiones modernas lo sustituyen por una redacción llana, lo cual es más claro pero oculta que el capítulo usa una sola fórmula constante para cada caso que enumera."
+        },
+        {
+          "term": "la tierra los vomitará",
+          "original": "Hebrew: וַתָּקִא הָאָרֶץ (vattaqi ha-arets)",
+          "note": "Un verbo deliberadamente físico, usado de la tierra tres veces en este libro (18:25, 18:28, 20:22) y del pez en Jonás 2:10. La tierra se trata como parte del pacto, capaz de ser contaminada y de expulsar a quienes la contaminan."
+        },
+        {
+          "term": "las prácticas de Egipto y de Canaán",
+          "original": "Hebrew: כְּמַעֲשֵׂה אֶרֶץ־מִצְרַיִם (kemaaseh erets-Mitsrayim)",
+          "note": "Levítico 18:3 enmarca el capítulo entre el país que Israel acababa de dejar y el país en el que entraba. Deuteronomio 18:9-12 enumera las prácticas cananeas en los mismos términos. El mandato no va dirigido a un pueblo aislado sino a uno que pasa de una cultura a otra."
+        },
+        {
+          "term": "Moloc y en qué consistía el sacrificio",
+          "original": "Hebrew: מֹלֶךְ (Molekh)",
+          "note": "Levítico 18:21 prohíbe entregar un hijo a Moloc, y la Escritura dice en otros lugares exactamente lo que eso significaba: quemar a los hijos y a las hijas en el fuego (Deuteronomio 12:31, Jeremías 7:31), o hacerlos pasar por el fuego (2 Reyes 23:10). Dos reyes de Judá se lo hicieron a sus propios hijos: Acaz en 2 Reyes 16:3 y Manasés en 2 Reyes 21:6. Diodoro Sículo, que escribe en el siglo I a.C. sobre Cartago en el año 310 a.C., describe una imagen de bronce del dios con las manos inclinadas hacia abajo, de modo que el niño puesto sobre ellas rodaba a un foso de fuego debajo. Cartago era una colonia fenicia, y su recinto sacrificial ha entregado miles de urnas con los huesos quemados de niños de pecho."
+        },
+        {
+          "term": "El valle de Hinón, llamado después Gehena",
+          "original": "Hebrew: גֵּיא בֶן־הִנֹּם (Ge Ben-Hinnom) - Greek: γέεννα (geenna)",
+          "note": "El sacrificio de niños tenía una dirección concreta. Se llevaba a cabo en el Tofet, en el valle de Ben Hinón, la hondonada que corre por los lados sur y oeste de Jerusalén, y por eso Jeremías 7:31 y 32:35 y 2 Reyes 23:10 nombran todos ese mismo terreno. El nombre hebreo de ese valle pasó al griego como Gehena. Esa palabra aparece doce veces en el Nuevo Testamento y se traduce infierno; once de las doce las pronuncia Jesús, en Mateo 5:22 y 5:29-30, 10:28, 18:9, 23:15 y 23:33, Marcos 9:43-47 y Lucas 12:5."
+        },
+        {
+          "term": "Canaán y sus dioses",
+          "original": "Hebrew: כְּנַעַן (Kenaan)",
+          "note": "Levítico 18:3 dice a Israel que no ande en las costumbres de Canaán, y se espera que el lector sepa cuáles eran. Las excavaciones de Ras Shamra, en la costa siria, la antigua Ugarit, iniciadas en 1929 bajo Claude Schaeffer, recuperaron tablillas de arcilla que nombran a los mismos dioses que nombra la Escritura: El, Baal el dios de la tormenta, Asera y Anat. Su culto giraba en torno a la lluvia, los rebaños y la fertilidad, y se practicaba en plataformas al aire libre, piedras erguidas y postes de madera, y por eso la ley no deja de atacar esos tres objetos."
+        },
+        {
+          "term": "No te acostarás con un varón",
+          "original": "Hebrew: וְאֶת־זָכָר לֹא תִשְׁכַּב מִשְׁכְּבֵי אִשָּׁה (ve-et zakhar lo tishkav mishkevei ishah) - תּוֹעֵבָה (to'evah)",
+          "note": "Zakhar es la palabra hebrea llana para un varón, usada de animales machos y de niños varones además de hombres. Mishkevei ishah es literalmente \"los acostamientos de una mujer\", el modismo del capítulo para el acto sexual, de modo que 18:22 dice palabra por palabra \"y con un varón no te acostarás los acostamientos de una mujer\". To'evah, que el castellano vierte como abominación o cosa detestable, es el término que este capítulo adjunta a las prácticas que enumera, y el Antiguo Testamento griego lo vierte como bdelygma. Levítico 20:13 enuncia esa misma prohibición y le añade la pena."
+        },
+        {
+          "term": "De dónde viene la palabra arsenokoitai de Pablo",
+          "original": "Greek (LXX) Leviticus 18:22: μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός - Greek (LXX) Leviticus 20:13: ὃς ἂν κοιμηθῇ μετὰ ἄρσενος κοίτην γυναικός - Greek: ἀρσενοκοῖται (arsenokoitai), singular ἀρσενοκοίτης (arsenokoites)",
+          "note": "La palabra de Pablo arsenokoitai, en 1 Corintios 6:9 y 1 Timoteo 1:10, significa hombres que se acuestan con varones. Literalmente es \"los que se acuestan con varones\": hombres que realizan actos sexuales con otros varones. Koite es la palabra griega corriente para una cama y el término estándar para el acto sexual, que es como la usa el propio Nuevo Testamento en Romanos 13:13 y Hebreos 13:4. La palabra es un compuesto raro, y sus dos mitades están una junto a la otra en el Antiguo Testamento griego de estos dos versículos: Levítico 18:22 dice meta arsenos ou koimethese koiten gynaikos, y Levítico 20:13 dice hos an koimethe meta arsenos koiten gynaikos, donde arsenos y koiten van contiguos."
         }
       ],
-      "keyTakeaway": "Dios prohíbe a los israelitas las relaciones sexuales con parientes cercanos, con animales, con la esposa del prójimo, durante la menstruación, y ofrecer hijos a Moloc; quienes practiquen estas cosas serán excluidos de su pueblo.",
+      "keyTakeaway": "Dios prohíbe a los israelitas las relaciones sexuales con parientes cercanos, con animales, con la mujer del prójimo, durante la menstruación, y sacrificar niños a Moloc; los que practiquen estas cosas serán eliminados de su pueblo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1574,39 +1556,90 @@
         "»Cumplan todos mis estatutos y obedezcan todas mis leyes. Yo soy el SEÑOR». (19:37)."
       ],
       "crossRefs": [
-        "Génesis 9:4: A Noé se le ordenó no comer carne con sangre.",
-        "Hechos 15:28–29: A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
-        "Romanos 1:26–27: Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
-        "Deuteronomio 18:9–12: Se advierte a Israel que no imite las prácticas detestables de las naciones."
+        "Mateo 22:39: Jesús nombra \"ama a tu prójimo como a ti mismo\" como el segundo gran mandamiento.",
+        "Rut 2:2-9: Rut espiga detrás de los segadores en el campo de Booz bajo el derecho que concede este capítulo.",
+        "Deuteronomio 24:19-22: La gavilla olvidada, la rama del olivo y las uvas caídas dejadas para el pobre.",
+        "Deuteronomio 25:13-16: No lleves en tu bolsa dos pesas distintas ni guardes en tu casa dos medidas distintas.",
+        "Santiago 5:4: El salario que dejaron de pagar a los obreros está clamando contra ustedes."
       ],
       "translationNotes": [
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
-        },
-        {
-          "term": "Moloc",
-          "original": "Hebrew: מֹלֶךְ (Mōlekh), Greek: Μολόχ (Moloch), Aramaic: מולך (Mulek)",
-          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
-        },
-        {
           "term": "Médium / Nigromante",
           "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni), Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis), Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
-          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
+          "note": "Espiritista o consultor de los muertos; estrictamente prohibido bajo pena de muerte."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
-        },
-        {
-          "term": "Ser cortado",
+          "term": "Eliminado",
           "original": "Hebrew: כָּרֵת (karēt), Greek: ἐξολοθρεύω (exolothreuō), Aramaic: כרת (karat)",
-          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+          "note": "Ser retirado del pueblo, unas veces por muerte, otras por exclusión; el texto no siempre precisa cuál."
+        },
+        {
+          "term": "efa",
+          "original": "Hebrew: אֵיפָה (ephah)",
+          "note": "La medida corriente de áridos del Antiguo Testamento para el grano, unos 22 cuartos de galón o 5,8 galones (22 litros). Rut lleva a casa un efa de cebada después de un día de espigar (Rut 2:17)."
+        },
+        {
+          "term": "hin",
+          "original": "Hebrew: הִין (hin)",
+          "note": "La medida corriente de líquidos del templo para el vino y el aceite de las ofrendas; alrededor de un galón (3,8 litros). Usada por todo Éxodo y Números para las libaciones prescritas."
+        },
+        {
+          "term": "derechos de espigueo",
+          "original": "Hebrew: פֵּאָה (peah), 'corner' - לֶקֶט (leket), 'gleanings' - עוֹלֵלוֹת (olelot), 'fallen grapes'",
+          "note": "Tres derechos distintos, cada uno con su propio nombre hebreo: el borde del campo dejado sin segar, las espigas caídas durante la siega y las uvas pasadas por alto o caídas en la viña. Deuteronomio 24:19 añade un cuarto, la gavilla olvidada. Rut 2 muestra todo el sistema en funcionamiento, y es un derecho del pobre, no un regalo del dueño."
+        },
+        {
+          "term": "salario retenido durante la noche",
+          "original": "Hebrew: לֹא־תָלִין פְּעֻלַּת שָׂכִיר (lo-talin peullat sakhir)",
+          "note": "A los jornaleros se les pagaba al final de cada día porque no tenían de qué vivir hasta que se les pagara. Deuteronomio 24:14-15 detalla la razón: es pobre y cuenta con ello. Santiago 5:4 acusa a los terratenientes ricos exactamente de esa falta."
+        },
+        {
+          "term": "dos clases",
+          "original": "Hebrew: כִּלְאַיִם (kilayim) - שַׁעַטְנֵז (shaatnez)",
+          "note": "Levítico 19:19 prohíbe cruzar razas de ganado, sembrar un campo con dos clases de semilla y vestir tela de dos clases; Deuteronomio 22:11 identifica la tela como lana y lino juntos y le da el nombre de shaatnez. Las vestiduras sacerdotales de Éxodo 28 están hechas exactamente de esa mezcla, lo cual la reservaba para el santuario."
+        },
+        {
+          "term": "fruto prohibido",
+          "original": "Hebrew: עָרְלָתוֹ (orlato), 'its foreskin'",
+          "note": "Durante tres años el fruto de un árbol recién plantado se llama literalmente incircunciso, con el mismo sustantivo que el prepucio de Génesis 17:11. El cuarto año toda la cosecha es santa, y solo el quinto puede comerla el dueño (19:23-25). El castellano \"prohibido\" pierde por completo la imagen."
+        },
+        {
+          "term": "pesas honradas",
+          "original": "Hebrew: מֹאזְנֵי צֶדֶק אַבְנֵי־צֶדֶק (mozne tsedeq avne-tsedeq), 'scales of righteousness, stones of righteousness'",
+          "note": "Las pesas eran piedras labradas que se llevaban en un saquito, así que un comerciante deshonesto guardaba un juego pesado para comprar y uno ligero para vender; Deuteronomio 25:13 prohíbe exactamente eso. Se han recuperado en excavaciones de Jerusalén y de otros lugares pesas de siclo de piedra con inscripción, procedentes de Judá. Proverbios 11:1 llama abominación al SEÑOR a la balanza falsa."
+        },
+        {
+          "term": "adivinación y hechicería",
+          "original": "Hebrew: נָחַשׁ (nachash) - עָנַן (anan)",
+          "note": "Levítico 19:26 prohíbe dos oficios concretos que las cortes antiguas pagaban. Los adivinos leían el porvenir en los hígados de las ovejas sacrificadas, en el vuelo de las aves y en las saetas sacudidas de una aljaba, que es lo que hace el rey de Babilonia en Ezequiel 21:21, y en las figuras del líquido vertido en una copa, práctica ligada a la copa de plata de José en Génesis 44:5. Deuteronomio 18:10-11 da la lista más completa de los oficios que Israel no había de tener."
+        },
+        {
+          "term": "sajarse el cuerpo y raparse por los muertos",
+          "original": "Hebrew: שֶׂרֶט לָנֶפֶשׁ (seret lanefesh)",
+          "note": "Rasgarse la piel y cortarse el cabello y la barba eran ritos de duelo corrientes por toda Canaán y Siria, y se usaban además para llamar la atención de un dios: los profetas de Baal se sajaban con cuchillos y lanzas hasta correrles la sangre, en 1 Reyes 18:28. Jeremías 16:6, 41:5 y 47:5 informan de israelitas y de sus vecinos haciendo lo mismo por los muertos. Levítico 19:27-28 y Deuteronomio 14:1 se lo prohíben a Israel, y Levítico 21:5 repite la prohibición para los sacerdotes."
+        },
+        {
+          "term": "marcas de tatuaje",
+          "original": "Hebrew: כְּתֹבֶת קַעֲקַע (ketovet qaaqa)",
+          "note": "Esta expresión aparece una sola vez en toda la Biblia hebrea, aquí en Levítico 19:28, y está en la misma frase que sajarse por los muertos. En el mundo antiguo una marca permanente quemada o pinchada en la piel identificaba a un esclavo con su dueño, a un cautivo con su captor o a un devoto con el dios de un templo concreto. La prohibición pertenece junto a las leyes de duelo y de adivinación que la rodean, no junto a una regla general sobre el adorno."
+        },
+        {
+          "term": "hacer prostituta a tu hija",
+          "original": "Hebrew: קְדֵשָׁה (qedeshah), a woman set apart for a shrine",
+          "note": "Levítico 19:29 no apunta al comercio callejero sino a un padre que mete a su hija en él, y la ley del entorno muestra por qué. Deuteronomio 23:17-18 prohíbe a todo hijo o hija de Israel servir como prostituta de santuario y rechaza como ofrenda el dinero ganado así. El término hebreo está construido sobre la raíz de santo, así que la mujer quedaba consagrada formalmente a un santuario. Oseas 4:14 acusa a los hombres de Israel de sacrificar junto a esas mujeres."
+        },
+        {
+          "term": "Ama a tu prójimo como a ti mismo",
+          "original": "Hebrew: וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ (ve-ahavta le-reakha kamokha)",
+          "note": "La frase está en 19:18, al final de una serie de reglas prácticas sobre no robar, no mentir, no calumniar y no guardar rencor; ese mismo versículo empieza prohibiendo la venganza y el rencor. Jesús lo nombra segundo gran mandamiento en Mateo 22:39 y Marcos 12:31, y Pablo dice que toda la ley se resume en él en Gálatas 5:14 y Romanos 13:9. El versículo 19:34 extiende esa misma redacción al extranjero residente, \"lo amarás como a ti mismo\", con la razón de que ustedes fueron extranjeros en Egipto."
+        },
+        {
+          "term": "El sordo y el ciego",
+          "original": "Hebrew: חֵרֵשׁ (cheresh), a deaf man - עִוֵּר (ivver), a blind man - מִכְשֹׁל (mikhshol), a stumbling block",
+          "note": "Levítico 19:14 escoge a dos personas que no pueden pillarte haciéndolo: el sordo no puede oír la maldición y el ciego no puede ver el tropiezo. Ese es el sentido del emparejamiento, y el versículo no cierra con una pena sino con \"temerás a tu Dios\", la fórmula que este capítulo adjunta a las faltas que ningún tribunal podría probar. Deuteronomio 27:18 pone una maldición pública sobre quien desvíe a un ciego en el camino."
         }
       ],
-      "keyTakeaway": "El SEÑOR ordena a Israel ser santo y da a Moisés una serie de leyes que abarcan el respeto a los padres y el sábado, el trato justo a los pobres y a los trabajadores, la justicia en los juicios, la conducta sexual, las normas alimentarias y el honor a los ancianos y extranjeros.",
+      "keyTakeaway": "El SEÑOR manda a Israel ser santo y da a Moisés un conjunto de leyes que abarcan el respeto a los padres y al sábado, el trato debido al pobre y al jornalero, el juicio imparcial, la conducta sexual, las reglas alimentarias y la honra al anciano y al extranjero.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1650,39 +1683,60 @@
         "»Cualquiera de ustedes, hombre o mujer, que sea médium o espiritista será condenado a muerte. Morirá apedreado y será responsable de su propia muerte». (20:27)."
       ],
       "crossRefs": [
-        "Génesis 9:4: A Noé se le ordenó no comer carne con sangre.",
-        "Hechos 15:28–29: A los creyentes gentiles se les instruye abstenerse de sangre e inmoralidad sexual.",
-        "Romanos 1:26–27: Pablo describe las relaciones antinaturales como pasiones deshonrosas.",
-        "Deuteronomio 18:9–12: Se advierte a Israel que no imite las prácticas detestables de las naciones."
+        "Levítico 18:6-30: Las mismas prohibiciones expuestas sin penas adjuntas.",
+        "Deuteronomio 18:9-14: La lista de prácticas prohibidas que Israel no ha de aprender de las naciones de Canaán.",
+        "2 Reyes 23:10: Josías contamina el Tofet para que nadie pueda hacer pasar por el fuego a un hijo o a una hija en honor de Moloc.",
+        "Jeremías 32:35: Lugares altos de Baal en el valle de Ben Hinón, donde se ofrecían niños a Moloc.",
+        "1 Samuel 28:7-14: Saúl consulta a una médium en Endor después de haberlas prohibido en el país."
       ],
       "translationNotes": [
         {
-          "term": "*expiación*",
-          "original": "Hebrew: כִּפֶּר (kipper), Greek: ἐξιλάσκομαι (exilaskomai), Aramaic: ܟܦܪ (kpr)",
-          "note": "La sangre hace expiación por la vida; comerla profana lo que Dios consagró para el altar."
-        },
-        {
-          "term": "Moloc",
-          "original": "Hebrew: מֹלֶךְ (Mōlekh), Greek: Μολόχ (Moloch), Aramaic: מולך (Mulek)",
-          "note": "Deidad cananea asociada con el sacrificio de niños, condenada con pena de muerte en Israel."
-        },
-        {
           "term": "Médium / Nigromante",
           "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni), Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis), Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
-          "note": "Espiritista o consultador de los muertos; estrictamente prohibido bajo pena de muerte."
+          "note": "Espiritista o consultor de los muertos; estrictamente prohibido bajo pena de muerte."
         },
         {
-          "term": "Contaminar",
-          "original": "Hebrew: טָמֵא (ṭāmēʾ), Greek: μιαίνω (miainō), Aramaic: ܛܢܦ (ṭanap)",
-          "note": "Hacer ritual o moralmente contaminado; usado para la sangre, el pecado sexual, la idolatría y la nigromancia."
-        },
-        {
-          "term": "Ser cortado",
+          "term": "Eliminado",
           "original": "Hebrew: כָּרֵת (karēt), Greek: ἐξολοθρεύω (exolothreuō), Aramaic: כרת (karat)",
-          "note": "Ser removido del pueblo, a veces por muerte, a veces por exclusión; el texto no siempre especifica cuál."
+          "note": "Ser retirado del pueblo, unas veces por muerte, otras por exclusión; el texto no siempre precisa cuál."
+        },
+        {
+          "term": "pasar por el fuego en honor de Moloc",
+          "original": "Hebrew: מֹלֶךְ (Molekh)",
+          "note": "Levítico 20:2-5 pone la pena de muerte sobre entregar un hijo a Moloc y añade una segunda pena para la comunidad que mira hacia otro lado. 2 Reyes 23:10 tiene a Josías destrozando el sitio del valle de Ben Hinón para acabar con ello, y Jeremías 32:35 nombra ese mismo lugar. La práctica se trata como algo importable, no como algo teórico."
+        },
+        {
+          "term": "Pondré mi rostro contra",
+          "original": "Hebrew: וְנָתַתִּי אֶת־פָּנַי (ve-natatti et-panay)",
+          "note": "Una fórmula judicial, lo contrario de la bendición de Números 6:25, donde el SEÑOR hace resplandecer su rostro sobre una persona. Aparece en 17:10, 20:3, 20:5 y 20:6, siempre allí donde la propia comunidad podría no actuar. Ezequiel 14:8 usa esa misma expresión."
+        },
+        {
+          "term": "su sangre caerá sobre ellos",
+          "original": "Hebrew: דְּמֵיהֶם בָּם (demeihem bam)",
+          "note": "Una declaración legal de que el ejecutado, y no el tribunal, carga con la responsabilidad de esa muerte. Recorre Levítico 20 como fórmula de cierre de los casos capitales. 2 Samuel 1:16 y Mateo 27:25 usan los dos ese mismo modismo."
+        },
+        {
+          "term": "apedreamiento",
+          "original": "Hebrew: רָגַם (ragam) - סָקַל (saqal)",
+          "note": "Levítico 20:2 y 20:27 asignan el apedreamiento, y Deuteronomio 17:5-7 da el procedimiento. Al condenado se lo sacaba fuera de la puerta de la ciudad, se exigían al menos dos testigos, y esos testigos arrojaban primero, antes que el resto del pueblo, de modo que un acusador falso tenía que matar con sus propias manos. Jesús apunta a esa regla en Juan 8:7. Hechos 7:58 muestra a los testigos dejando sus mantos a los pies de un joven llamado Saulo para poder arrojar con libertad."
+        },
+        {
+          "term": "los reyes que lo hicieron",
+          "original": "",
+          "note": "Levítico 20:4-5 anticipa una comunidad que se tapa los ojos en vez de actuar, y el propio historial de Israel muestra que eso ocurrió en lo más alto. Acaz sacrificó a su hijo en el fuego (2 Reyes 16:3) y Manasés hizo lo mismo y añadió hechicería, adivinación y médiums (2 Reyes 21:6). Josías acabó por destrozar el sitio mismo, contaminando el Tofet del valle de Ben Hinón para que nadie pudiera volver a usarlo (2 Reyes 23:10)."
+        },
+        {
+          "term": "Si un hombre se acuesta con un varón",
+          "original": "Hebrew: וְאִישׁ אֲשֶׁר יִשְׁכַּב אֶת־זָכָר מִשְׁכְּבֵי אִשָּׁה (ve-ish asher yishkav et zakhar mishkevei ishah) - דְּמֵיהֶם בָּם (demeihem bam)",
+          "note": "Levítico 20:13 repite la redacción de 18:22 y añade la sentencia: los dos son condenados a muerte, y sigue la fórmula de cierre del capítulo, \"su sangre caerá sobre ellos\", que pone la responsabilidad de la muerte sobre los condenados y no sobre el tribunal. Levítico 20 es el capítulo de las penas para las prácticas enumeradas en el capítulo 18, y funciona de la misma manera en los demás casos que trata. El Antiguo Testamento griego de este versículo es la fuente del compuesto que usa Pablo en 1 Corintios 6:9 y 1 Timoteo 1:10."
+        },
+        {
+          "term": "De dónde viene la palabra arsenokoitai de Pablo",
+          "original": "Greek (LXX) Leviticus 18:22: μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός - Greek (LXX) Leviticus 20:13: ὃς ἂν κοιμηθῇ μετὰ ἄρσενος κοίτην γυναικός - Greek: ἀρσενοκοῖται (arsenokoitai), singular ἀρσενοκοίτης (arsenokoites)",
+          "note": "La palabra de Pablo arsenokoitai, en 1 Corintios 6:9 y 1 Timoteo 1:10, significa hombres que se acuestan con varones. Literalmente es \"los que se acuestan con varones\": hombres que realizan actos sexuales con otros varones. Koite es la palabra griega corriente para una cama y el término estándar para el acto sexual, que es como la usa el propio Nuevo Testamento en Romanos 13:13 y Hebreos 13:4. La palabra es un compuesto raro, y sus dos mitades están una junto a la otra en el Antiguo Testamento griego de estos dos versículos: Levítico 18:22 dice meta arsenos ou koimethese koiten gynaikos, y Levítico 20:13 dice hos an koimethe meta arsenos koiten gynaikos, donde arsenos y koiten van contiguos."
         }
       ],
-      "keyTakeaway": "Dios ordena a Moisés imponer la pena de muerte por el sacrificio de hijos a Moloc, consultar a médiums, maldecir a los padres, el adulterio, el incesto, la bestialidad y ciertas violaciones sexuales; Israel debe guardar estos decretos y las distinciones entre lo limpio y lo impuro para mantenerse santo y evitar ser expulsado de la tierra.",
+      "keyTakeaway": "Dios manda a Moisés aplicar la pena de muerte por el sacrificio de niños a Moloc, la consulta a los médiums, la maldición de los padres, el adulterio, el incesto, la bestialidad y ciertas violaciones sexuales; Israel debe guardar estos decretos y estas distinciones entre lo limpio y lo impuro para seguir siendo santo y no ser rechazado por la tierra.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1723,28 +1777,45 @@
         "Y Moisés les comunicó todo esto a Aarón, a sus hijos y a todos los israelitas. (21:24)."
       ],
       "crossRefs": [
-        "Ezequiel 44:20–22: Regulaciones sacerdotales posteriores sobre el cabello, el matrimonio y la santidad.",
-        "Malaquías 1:7–8: Los sacerdotes reprendidos por ofrecer sacrificios con defecto.",
-        "Hebreos 7:26–27: Cristo como sumo sacerdote es santo, sin mancha, separado de los pecadores."
+        "Ezequiel 44:20-25: Las mismas reglas sobre el cabello del sacerdote, su matrimonio y su contacto con los muertos.",
+        "Números 6:6-8: Un nazareo no puede acercarse a un cadáver, ni siquiera por su propio padre o madre, la misma separación que este capítulo impone a los sacerdotes.",
+        "Levítico 10:6-7: A Aarón y a sus hijos supervivientes se les prohíbe hacer duelo o salir de la Tienda, el caso que hay detrás de las restricciones de duelo de aquí.",
+        "Levítico 22:17-25: El animal llevado al altar también ha de ser sin defecto, así que la norma de 21:16-23 trata de lo que se acerca al altar y no del valor del hombre.",
+        "Levítico 19:14: Esa misma ley prohíbe maldecir al sordo o poner tropiezo delante del ciego, que es como este código trata en general a las personas con discapacidad."
       ],
       "translationNotes": [
         {
           "term": "Profanar",
           "original": "Hebrew: חָלַל (ḥālal), Greek: βεβηλόω (bebēloō), Aramaic: חלל (ḥll)",
-          "note": "Tratar algo santo como común u ordinario."
-        },
-        {
-          "term": "Defecto",
-          "original": "Hebrew: מוּם (mum), Greek: μῶμος (mōmos), Aramaic: מומא (muma)",
-          "note": "Defecto físico que descalifica a sacerdotes o animales para uso sacrificial."
+          "note": "Tratar como común u ordinario algo que es santo."
         },
         {
           "term": "Santificar",
           "original": "Hebrew: קָדַשׁ (qadash), Greek: ἁγιάζω (hagiazō), Aramaic: קדש (qdsh)",
-          "note": "Apartar como santo; Dios santifica a los sacerdotes y las ofrendas."
+          "note": "Apartar como santo; Dios santifica a los sacerdotes y a las ofrendas."
+        },
+        {
+          "term": "aceite de la unción",
+          "original": "Hebrew: שֶׁמֶן הַמִּשְׁחָה (shemen hammishchah)",
+          "note": "Aceite de oliva mezclado con especias concretas (Éxodo 30:22-25), usado para consagrar a los sacerdotes, a los reyes y el mobiliario del tabernáculo. La palabra hebrea para un ungido es mashiach, transliterada \"Mesías\". El equivalente griego es christos."
+        },
+        {
+          "term": "defecto",
+          "original": "Hebrew: מוּם (mum)",
+          "note": "Levítico 21:18-20 enumera doce condiciones que impiden a un descendiente de Aarón servir en el altar. El impedimento es para el servicio, no para su posición: el versículo 22 conserva su derecho a comer el alimento sagrado con su familia. Esa misma palabra rige para los animales en Levítico 22:20-25."
+        },
+        {
+          "term": "no ha de llevar el cabello suelto",
+          "original": "Hebrew: אֶת־רֹאשׁוֹ לֹא יִפְרָע (et-rosho lo yifra)",
+          "note": "Las costumbres de duelo de Levítico 13:45 le están prohibidas al sumo sacerdote, incluso por su propio padre o madre (21:10-11). Levítico 10:6 ya se lo había impuesto a Aarón el día en que murieron sus hijos. El oficio no se detiene por el duelo privado."
+        },
+        {
+          "term": "contaminarse por un muerto",
+          "original": "Hebrew: טָמֵא (tame), to become unclean",
+          "note": "Números 19:11-16 hace del cadáver la fuente de impureza más fuerte y más prolongada de la ley: siete días, con lavado al tercer día y al séptimo, y pasa a todo el que entre en la tienda y a todo recipiente abierto que haya en ella. Tocar una sepultura o un solo hueso humano en un campo acarrea esos mismos siete días. Por eso Levítico 21:1-4 le prohíbe a un sacerdote ordinario acercarse a un cadáver salvo por su madre, su padre, su hijo, su hija, su hermano o su hermana soltera, y 21:11 se lo prohíbe al sumo sacerdote incluso por esos. Lucas 10:31-32 pone a un sacerdote y a un levita en el camino de Jerusalén junto a un hombre dejado medio muerto."
         }
       ],
-      "keyTakeaway": "Dios establece reglas para los sacerdotes en cuanto a prácticas de duelo, matrimonio y apariencia física, con requisitos más estrictos para el sumo sacerdote; también prohíbe que cualquier descendiente de Aarón con defectos físicos sirva en el altar, aunque pueden comer de los alimentos sagrados.",
+      "keyTakeaway": "Dios establece reglas para los sacerdotes sobre las prácticas de duelo, el matrimonio y el aspecto físico, con exigencias más estrictas para el sumo sacerdote; prohíbe además que ningún descendiente de Aarón con defectos físicos sirva en el altar, aunque sí puede comer del alimento sagrado.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1794,28 +1865,45 @@
         "Yo los saqué de Egipto para ser su Dios. Yo soy el SEÑOR». (22:33)."
       ],
       "crossRefs": [
-        "Ezequiel 44:20–22: Regulaciones sacerdotales posteriores sobre el cabello, el matrimonio y la santidad.",
-        "Malaquías 1:7–8: Los sacerdotes reprendidos por ofrecer sacrificios con defecto.",
-        "Hebreos 7:26–27: Cristo como sumo sacerdote es santo, sin mancha, separado de los pecadores."
+        "Malaquías 1:6-14: Sacerdotes reprendidos por llevar al altar animales ciegos, cojos y enfermos.",
+        "Deuteronomio 15:21: Un animal con cualquier defecto grave no se ha de sacrificar al SEÑOR.",
+        "Levítico 21:16-23: La exigencia correspondiente de que el propio sacerdote sea sin defecto.",
+        "Números 18:8-13: Las ofrendas sagradas asignadas a los sacerdotes y a sus casas como su alimento.",
+        "1 Pedro 1:19: La sangre preciosa de Cristo, cordero sin mancha y sin defecto."
       ],
       "translationNotes": [
         {
           "term": "Profanar",
           "original": "Hebrew: חָלַל (ḥālal), Greek: βεβηλόω (bebēloō), Aramaic: חלל (ḥll)",
-          "note": "Tratar algo santo como común u ordinario."
+          "note": "Tratar como común u ordinario algo que es santo."
         },
         {
           "term": "Defecto",
-          "original": "Hebrew: מוּם (mum), Greek: μῶμος (mōmos), Aramaic: מומא (muma)",
-          "note": "Defecto físico que descalifica a sacerdotes o animales para uso sacrificial."
+          "original": "Hebrew: מוּם (mum), a defect - תָּמִים (tamim), whole or sound",
+          "note": "Levítico 22:20-25 enumera lo que descarta a un animal para una ofrenda: ciego, lesionado, mutilado, con verruga, con llaga supurante o con úlcera, y cualquier cosa con partes magulladas, aplastadas, desgarradas o cortadas. Esa misma palabra impide a un sacerdote servir en el altar en 21:17-23, aunque 21:22 le permite comer el alimento sagrado. Malaquías 1:8 acusa a Israel de quebrantar exactamente esta regla llevando al altar animales ciegos y cojos."
         },
         {
           "term": "Santificar",
           "original": "Hebrew: קָדַשׁ (qadash), Greek: ἁγιάζω (hagiazō), Aramaic: קדש (qdsh)",
-          "note": "Apartar como santo; Dios santifica a los sacerdotes y las ofrendas."
+          "note": "Apartar como santo; Dios santifica a los sacerdotes y a las ofrendas."
+        },
+        {
+          "term": "cuando se haya puesto el sol",
+          "original": "Hebrew: וּבָא הַשֶּׁמֶשׁ וְטָהֵר (u-va ha-shemesh ve-taher)",
+          "note": "Un sacerdote que ha quedado impuro se baña y espera la puesta del sol, y entonces puede volver a comer el alimento sagrado (22:6-7). El día hebreo comienza al anochecer, así que la puesta del sol termina la impureza y a la vez inicia el día nuevo. Ese es el ritmo que hay detrás de Marcos 1:32, donde las multitudes acuden a Jesús después de la puesta del sol en sábado."
+        },
+        {
+          "term": "voto y ofrenda voluntaria",
+          "original": "Hebrew: נֶדֶר (neder) - נְדָבָה (nedavah)",
+          "note": "Un neder es una promesa ya hecha y ahora debida; una nedavah se da sin obligación alguna detrás. Levítico 22:23 permite que un animal ligeramente deforme sirva como ofrenda voluntaria pero no en pago de un voto, porque un voto nombra lo que se va a traer. Deuteronomio 23:21-23 advierte contra hacer uno a la ligera."
+        },
+        {
+          "term": "no el mismo día que su cría",
+          "original": "Hebrew: אֹתוֹ וְאֶת־בְּנוֹ (oto ve-et-beno)",
+          "note": "Levítico 22:28 prohíbe degollar a un animal y a su cría en un mismo día, y 22:27 exige que el recién nacido se quede primero siete días con su madre. Deuteronomio 22:6-7 da la regla correspondiente para el nido de un ave, y manda soltar a la madre antes de tomar las crías."
         }
       ],
-      "keyTakeaway": "Se le ordena a Moisés que instruya a Aarón y a sus hijos que los sacerdotes deben estar ceremonialmente limpios para comer las ofrendas sagradas, y que solo ciertos miembros de la familia pueden consumirlas. Dios también especifica que todos los animales presentados como ofrendas deben ser sin defecto, y establece reglas sobre el tiempo para los animales recién nacidos y las ofrendas de gratitud.",
+      "keyTakeaway": "A Moisés se le manda instruir a Aarón y a sus hijos en que los sacerdotes deben estar ceremonialmente limpios para comer las ofrendas sagradas, y en que solo ciertos miembros de la familia pueden consumirlas. Dios especifica además que todos los animales presentados como ofrenda han de ser sin defecto, y da reglas sobre los plazos para las crías y para los sacrificios de acción de gracias.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1876,34 +1964,80 @@
         "Así anunció Moisés a los israelitas las fiestas establecidas por el SEÑOR. (23:44)."
       ],
       "crossRefs": [
-        "Éxodo 23:10–11: La ley del año sabático introducida por primera vez.",
-        "Deuteronomio 16:1–17: Repetición de las tres fiestas de peregrinación.",
-        "Isaías 61:1–2: El año del favor del SEÑOR (imaginería del Jubileo).",
-        "Lucas 4:18–19: Jesús proclama el año del favor del SEÑOR."
+        "Éxodo 23:14-17: Las tres fiestas de peregrinación mandadas por primera vez, sin que nadie se presente con las manos vacías.",
+        "Números 28:16-29:40: El calendario sacrificial completo prescrito para cada uno de estos tiempos señalados.",
+        "Deuteronomio 16:1-17: La Pascua, las Semanas y las Enramadas guardadas en el lugar que el SEÑOR escoja.",
+        "Nehemías 8:13-18: Israel celebra la fiesta de las Enramadas en cobertizos, algo que no se hacía desde los días de Josué.",
+        "Hechos 2:1-4: El Espíritu es dado en el día de Pentecostés, el día cincuenta contado desde la gavilla mecida."
       ],
       "translationNotes": [
         {
           "term": "Moedim (tiempos señalados)",
-          "original": "Hebrew: מוֹעֵד (moʿed), Greek: καιρός (kairos), Aramaic: מועדא (moʿeda)",
-          "note": "Tiempos fijos o estaciones establecidos por Dios para asambleas sagradas."
+          "original": "Hebrew: מוֹעֵד (moed), an appointed time or meeting - plural מוֹעֲדִים (moadim)",
+          "note": "Un moed es una cita fijada, no una festividad. Génesis 1:14 usa la palabra para aquello para lo que fueron hechas las lumbreras del cielo, y la tienda donde Dios se encontraba con Moisés es el ohel moed, la tienda de la cita (Éxodo 33:7). Levítico 23:2 llama a la lista que sigue los moadim del SEÑOR, lo cual pone las fechas en el calendario de él y no en el de Israel, y 23:4 lo repite antes de nombrarlas una por una."
         },
         {
-          "term": "Cabañas",
-          "original": "Hebrew: סֻכּוֹת (sukkot), Greek: σκηναί (skēnai), Aramaic: סכתא (sukkta)",
-          "note": "Refugios temporales hechos con ramas para recordar la habitación de Israel en el desierto."
+          "term": "Enramadas",
+          "original": "Hebrew: סֻכּוֹת (sukkot), shelters made of branches",
+          "note": "Una sukkah es un cobertizo tosco y temporal, de los que se levantan en un campo durante la cosecha, y Levítico 23:42-43 manda a Israel vivir en ellos siete días para que cada generación supiera que Dios hizo habitar en cobertizos a sus padres cuando los sacó de Egipto. La fiesta cae el día quince del séptimo mes y dura ocho días con la asamblea de clausura (23:34-36). Nehemías 8:14-17 registra que la práctica se retomó después del exilio, y Juan 7:2 sitúa a Jesús en Jerusalén para ella."
         },
         {
-          "term": "Jubileo",
-          "original": "Hebrew: יֹבֵל (yōvel), Greek: ἄφεσις (aphesis, 'release'), Aramaic: יובלא (yovla)",
-          "note": "El quincuagésimo año cuando la tierra vuelve, las deudas se cancelan y los esclavos son liberados."
+          "term": "efa",
+          "original": "Hebrew: אֵיפָה (ephah)",
+          "note": "La medida corriente de áridos del Antiguo Testamento para el grano, unos 22 cuartos de galón o 5,8 galones (22 litros). Rut lleva a casa un efa de cebada después de un día de espigar (Rut 2:17)."
         },
         {
-          "term": "Redentor (pariente)",
-          "original": "Hebrew: גֹּאֵל (goʾel), Greek: λυτρωτής (lytrōtēs), Aramaic: גלא (gala)",
-          "note": "Un protector familiar que compra tierras de vuelta o libera a parientes de la esclavitud."
+          "term": "hin",
+          "original": "Hebrew: הִין (hin)",
+          "note": "La medida corriente de líquidos del templo para el vino y el aceite de las ofrendas; alrededor de un galón (3,8 litros). Usada por todo Éxodo y Números para las libaciones prescritas."
+        },
+        {
+          "term": "sábado",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "El séptimo día, apartado por mandato de Dios (Éxodo 20:8-11). Todo trabajo cesaba desde la puesta del sol del viernes hasta la puesta del sol del sábado. Para los días de Jesús, la tradición rabínica había elaborado 39 categorías de labor prohibida; muchas de las sanidades de Jesús desafiaron deliberadamente esas reglas añadidas sin quebrantar el mandato mismo de la Torá."
+        },
+        {
+          "term": "primicias",
+          "original": "Hebrew: בִּכּוּרִים (bikkurim)",
+          "note": "La primera porción de cada cosecha ofrecida a Dios antes de que pudiera comerse el resto (Éxodo 23:19; Levítico 23:9-14). Pablo llama al Cristo resucitado \"primicias de los que durmieron\" (1 Corintios 15:20); la garantía de que seguirá la cosecha completa de la resurrección."
+        },
+        {
+          "term": "fiestas señaladas",
+          "original": "Hebrew: מוֹעֲדֵי יְהוָה (moade YHWH), 'the appointed times of the LORD'",
+          "note": "Moed significa una cita fijada, la misma palabra usada para la Tienda de reunión en Éxodo 27:21. Levítico 23 las enumera por mes y por día: la Pascua el catorce del primer mes, los panes sin levadura, la gavilla mecida, las Semanas, el día de los toques de trompeta, la Expiación y las Enramadas. Génesis 1:14 usa esa misma palabra para lo que las lumbreras del cielo están puestas a señalar."
+        },
+        {
+          "term": "gavilla de las primicias",
+          "original": "Hebrew: עֹמֶר (omer)",
+          "note": "La palabra que se vierte aquí como \"gavilla\" es omer, la misma palabra que nombra la medida de áridos de unos 2,2 litros en Éxodo 16:36. Levítico 23:15-16 inicia una cuenta de cincuenta días desde el día en que se mece, y por eso a esa cuenta se la sigue llamando la cuenta del Omer."
+        },
+        {
+          "term": "el día después del sábado",
+          "original": "Hebrew: מִמָּחֳרַת הַשַּׁבָּת (mimochorat ha-shabbat)",
+          "note": "El punto de partida de la cuenta de cincuenta días hasta la fiesta de las Semanas (23:11, 23:15-16). Josefo, que escribe en Antigüedades de los judíos 3.250, registra que la gavilla se presentaba el dieciséis del mes, el segundo día de los panes sin levadura."
+        },
+        {
+          "term": "cincuenta días",
+          "original": "Hebrew: חֲמִשִּׁים יוֹם (chamishim yom) - Greek: πεντηκοστή (pentekoste), 'fiftieth'",
+          "note": "Siete semanas completas más un día, y por eso la fiesta se llama Semanas en hebreo y Pentecostés en griego. Su ofrenda son dos panes cocidos con levadura (23:17), el único pan leudado mandado al altar. Hechos 2:1 sitúa la entrega del Espíritu en ese día."
+        },
+        {
+          "term": "toques de trompeta",
+          "original": "Hebrew: זִכְרוֹן תְּרוּעָה (zikhron teruah), 'a memorial of blast'",
+          "note": "El primer día del séptimo mes, marcado por la teruah, el toque agudo o grito que se usa también como señal de batalla en Números 10:5-6. Números 29:1 lo llama día de tocar los cuernos. Levítico no le da otro nombre y no declara razón alguna para él."
+        },
+        {
+          "term": "las cuatro especies",
+          "original": "Hebrew: פְּרִי עֵץ הָדָר, כַּפֹּת תְּמָרִים, עֲנַף עֵץ־עָבֹת, עַרְבֵי־נָחַל",
+          "note": "Levítico 23:40 nombra fruto de árboles hermosos, ramas de palmera, ramas de árboles frondosos y sauces del arroyo, que han de recogerse el primer día de las Enramadas. Nehemías 8:15 manda a la gente a los montes por ramas de olivo, de mirto, de palmera y otras ramas frondosas para construir los cobertizos."
+        },
+        {
+          "term": "el calendario sobre el que están estas fechas",
+          "original": "Hebrew: חֹדֶשׁ (chodesh), month, from the word for new",
+          "note": "Toda fecha de Levítico 23 cuenta desde una luna nueva, porque el mes hebreo comienza cuando la luna creciente se ve por primera vez y dura 29 o 30 días. La palabra hebrea para mes está construida sobre la raíz de nuevo. El primer mes, llamado Aviv en Éxodo 13:4, cae en marzo o abril, así que la Pascua, el día catorce, queda cerca del equinoccio de primavera y de la siega de la cebada. El séptimo mes, que contiene el toque de trompeta, el Día de la Expiación y las Enramadas, cae en septiembre u octubre, al final de la temporada del fruto y de la aceituna."
         }
       ],
-      "keyTakeaway": "Dios establece las fiestas que Israel debe observar: la Pascua y los Panes sin Levadura en el primer mes, una ofrenda mecida de primicias siete semanas después, un día de reposo con toques de trompeta el primer día del séptimo mes, el Día de Expiación el décimo día de ese mes, y la Fiesta de los Tabernáculos a partir del día quince. Moisés anuncia estas fiestas a los israelitas.",
+      "keyTakeaway": "Dios establece las fiestas señaladas que Israel debe observar: la Pascua y los panes sin levadura en el primer mes, una ofrenda mecida de las primicias siete semanas después, un día de reposo con toques de trompeta el primer día del séptimo mes, el Día de la Expiación el día diez de ese mes, y la fiesta de los Tabernáculos a partir del día quince. Moisés anuncia estas fiestas a los israelitas.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1943,34 +2077,75 @@
         "Moisés les comunicó todo esto a los israelitas, y ellos sacaron al blasfemo fuera del campamento y allí lo apedrearon. Los israelitas procedieron tal como el SEÑOR se lo ordenó a Moisés. (24:23)."
       ],
       "crossRefs": [
-        "Éxodo 23:10–11: La ley del año sabático introducida por primera vez.",
-        "Deuteronomio 16:1–17: Repetición de las tres fiestas de peregrinación.",
-        "Isaías 61:1–2: El año del favor del SEÑOR (imaginería del Jubileo).",
-        "Lucas 4:18–19: Jesús proclama el año del favor del SEÑOR."
+        "Éxodo 25:23-30: La mesa de oro sobre la que se coloca el pan de la Presencia, la disposición que este capítulo manda renovar cada sábado.",
+        "Mateo 12:3-4: Jesús cita a David comiendo el pan consagrado que solo los sacerdotes tenían permitido comer, que es la restricción establecida en 24:9.",
+        "Deuteronomio 19:17-18: La misma norma del ojo por ojo se da dentro de un tribunal, con ambas partes ante los sacerdotes y los jueces y con los jueces investigando a fondo antes de toda sentencia; aquí se da mientras el acusado está bajo custodia en 24:12 esperando un veredicto.",
+        "Levítico 19:18: Cinco capítulos antes, esa misma ley prohíbe de plano la venganza y el rencor, así que la sentencia por lesiones de 24:19-20 corresponde a la asamblea y no al hombre que fue herido.",
+        "Romanos 12:19: Pablo cita \"Mía es la venganza, yo pagaré\" de Deuteronomio 32:35 y dice a los creyentes que nunca se venguen a sí mismos."
       ],
       "translationNotes": [
         {
           "term": "Moedim (tiempos señalados)",
           "original": "Hebrew: מוֹעֵד (moʿed), Greek: καιρός (kairos), Aramaic: מועדא (moʿeda)",
-          "note": "Tiempos fijos o estaciones establecidos por Dios para asambleas sagradas."
+          "note": "Tiempos o épocas fijadas por Dios para las reuniones sagradas."
         },
         {
-          "term": "Cabañas",
+          "term": "Enramadas",
           "original": "Hebrew: סֻכּוֹת (sukkot), Greek: σκηναί (skēnai), Aramaic: סכתא (sukkta)",
-          "note": "Refugios temporales hechos con ramas para recordar la habitación de Israel en el desierto."
+          "note": "Cobertizos temporales hechos con ramas para recordar la morada de Israel en el desierto."
         },
         {
           "term": "Jubileo",
           "original": "Hebrew: יֹבֵל (yōvel), Greek: ἄφεσις (aphesis, 'release'), Aramaic: יובלא (yovla)",
-          "note": "El quincuagésimo año cuando la tierra vuelve, las deudas se cancelan y los esclavos son liberados."
+          "note": "El año cincuenta, cuando la tierra revierte, las deudas se cancelan y los esclavos quedan libres."
         },
         {
           "term": "Redentor (pariente)",
           "original": "Hebrew: גֹּאֵל (goʾel), Greek: λυτρωτής (lytrōtēs), Aramaic: גלא (gala)",
-          "note": "Un protector familiar que compra tierras de vuelta o libera a parientes de la esclavitud."
+          "note": "Un protector de la familia que rescata la tierra o libera a los parientes de la esclavitud."
+        },
+        {
+          "term": "Camino de un sábado",
+          "original": "Greek: σαββάτου ἔχον ὁδόν (sabbatou echon hodon)",
+          "note": "Unos dos tercios de milla (1 km); el límite rabínico de desplazamiento desde la propia vivienda en sábado, derivado de los límites del campamento en Éxodo 16:29 y Números 35:5. Hechos 1:12 sitúa el monte de los Olivos a esa distancia de Jerusalén."
+        },
+        {
+          "term": "efa",
+          "original": "Hebrew: אֵיפָה (ephah)",
+          "note": "La medida corriente de áridos del Antiguo Testamento para el grano, unos 22 cuartos de galón o 5,8 galones (22 litros). Rut lleva a casa un efa de cebada después de un día de espigar (Rut 2:17)."
+        },
+        {
+          "term": "sábado",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "El séptimo día, apartado por mandato de Dios (Éxodo 20:8-11). Todo trabajo cesaba desde la puesta del sol del viernes hasta la puesta del sol del sábado. Para los días de Jesús, la tradición rabínica había elaborado 39 categorías de labor prohibida; muchas de las sanidades de Jesús desafiaron deliberadamente esas reglas añadidas sin quebrantar el mandato mismo de la Torá."
+        },
+        {
+          "term": "incienso",
+          "original": "Hebrew: לְבוֹנָה (levonah); Greek: λίβανος (libanos)",
+          "note": "Una resina de color blanco lechoso del árbol Boswellia del sur de Arabia. Se quemaba como incienso en el templo (Éxodo 30:34); se ofrecía con toda ofrenda de cereal. El segundo regalo de los magos, leído tradicionalmente como señal de sacerdocio."
+        },
+        {
+          "term": "los doce panes",
+          "original": "Hebrew: לֶחֶם הַפָּנִים (lechem ha-panim), 'bread of the face'",
+          "note": "Doce panes, uno por cada tribu, hechos cada uno con dos décimas de efa de flor de harina, unos 4,4 litros por pan, así que alrededor de 53 litros de harina en una sola colocación. Se ponían en dos hileras de seis con incienso junto a cada hilera, se reemplazaban cada sábado y luego los comían los sacerdotes (24:5-9)."
+        },
+        {
+          "term": "blasfemó el Nombre",
+          "original": "Hebrew: וַיִּקֹּב אֶת־הַשֵּׁם (vayyiqqov et-ha-Shem)",
+          "note": "El verbo naqav significa traspasar o pronunciar con claridad, y el texto no escribe el nombre que se usó. Levítico 24:16 hace capital la ofensa tanto para el nativo como para el extranjero. Este pasaje es la base de la práctica judía posterior de decir \"el Nombre\" en lugar de pronunciarlo."
+        },
+        {
+          "term": "una sola norma de ley",
+          "original": "Hebrew: מִשְׁפַּט אֶחָד (mishpat echad)",
+          "note": "Levítico 24:22 lo declara sin rodeos: la misma ley para el extranjero residente y para el nativo. El caso que lo motiva implica al hijo de una madre israelita y un padre egipcio (24:10). Números 15:15-16 y Éxodo 12:49 repiten ese mismo principio."
+        },
+        {
+          "term": "Ojo por ojo como tope",
+          "original": "Hebrew: עַיִן תַּחַת עַיִן (ayin tachat ayin), 'an eye in place of an eye' - מוּם (mum), an injury or blemish",
+          "note": "La fórmula fija un máximo, no un mínimo y no una licencia. Levítico 24:19-20 enuncia la regla dos veces con palabras llanas alrededor de los famosos pares: \"como él hizo, así se le hará\", y \"como haya lesionado a un hombre, así se le dará a él\". La medida de la pena es la lesión misma, lo cual descarta que una familia responda a un diente perdido con una muerte. Esa misma fórmula aparece en Babilonia graduada por rango, donde las leyes de Hammurabi toman ojo por ojo entre hombres de posición (ley 196) pero saldan el ojo de un liberto con una mina de plata (198) y el de un esclavo con la mitad de su precio (199); Levítico 24:22 responde a eso con una sola norma para el extranjero y para el nativo por igual."
         }
       ],
-      "keyTakeaway": "Dios instruye a Moisés sobre el mantenimiento del candelabro con aceite y la colocación de doce panes en el santuario como ofrendas perpetuas. Cuando un hombre de descendencia israelita y egipcia blasfema el nombre de Dios, Moisés lleva el caso ante el SEÑOR, quien ordena que el blasfemo sea apedreado y establece leyes que exigen la muerte por blasfemia, vida por vida en casos de homicidio, y lesión equivalente por agresión.",
+      "keyTakeaway": "Dios instruye a Moisés sobre el mantenimiento del candelabro con aceite y sobre la colocación de doce panes en el santuario como ofrendas perpetuas. Cuando un hombre de ascendencia mixta israelita y egipcia blasfema el nombre de Dios, Moisés lleva el caso ante el SEÑOR, que manda apedrear al blasfemo y establece leyes que exigen la muerte por blasfemia, vida por vida en los casos de homicidio, y lesión equivalente por agresión.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2050,34 +2225,85 @@
         "Los israelitas son mis siervos. Yo los saqué de Egipto. Yo soy el SEÑOR su Dios. (25:55)."
       ],
       "crossRefs": [
-        "Éxodo 23:10–11: La ley del año sabático introducida por primera vez.",
-        "Deuteronomio 16:1–17: Repetición de las tres fiestas de peregrinación.",
-        "Isaías 61:1–2: El año del favor del SEÑOR (imaginería del Jubileo).",
-        "Lucas 4:18–19: Jesús proclama el año del favor del SEÑOR."
+        "Éxodo 23:10-11: El descanso del séptimo año para la tierra, mandado por primera vez en el Sinaí.",
+        "2 Crónicas 36:20-21: El exilio dura hasta que la tierra haya disfrutado de los sábados que se le debían.",
+        "Rut 4:1-10: Booz actúa como pariente redentor y rescata el campo junto con la viuda.",
+        "Jeremías 32:6-12: Jeremías compra el campo de su primo en Anatot porque el derecho de rescate le corresponde.",
+        "Isaías 61:1-2: Buenas noticias a los pobres, libertad a los cautivos y el año del favor del SEÑOR."
       ],
       "translationNotes": [
         {
           "term": "Moedim (tiempos señalados)",
           "original": "Hebrew: מוֹעֵד (moʿed), Greek: καιρός (kairos), Aramaic: מועדא (moʿeda)",
-          "note": "Tiempos fijos o estaciones establecidos por Dios para asambleas sagradas."
+          "note": "Tiempos o épocas fijadas por Dios para las reuniones sagradas."
         },
         {
-          "term": "Cabañas",
+          "term": "Enramadas",
           "original": "Hebrew: סֻכּוֹת (sukkot), Greek: σκηναί (skēnai), Aramaic: סכתא (sukkta)",
-          "note": "Refugios temporales hechos con ramas para recordar la habitación de Israel en el desierto."
-        },
-        {
-          "term": "Jubileo",
-          "original": "Hebrew: יֹבֵל (yōvel), Greek: ἄφεσις (aphesis, 'release'), Aramaic: יובלא (yovla)",
-          "note": "El quincuagésimo año cuando la tierra vuelve, las deudas se cancelan y los esclavos son liberados."
+          "note": "Cobertizos temporales hechos con ramas para recordar la morada de Israel en el desierto."
         },
         {
           "term": "Redentor (pariente)",
           "original": "Hebrew: גֹּאֵל (goʾel), Greek: λυτρωτής (lytrōtēs), Aramaic: גלא (gala)",
-          "note": "Un protector familiar que compra tierras de vuelta o libera a parientes de la esclavitud."
+          "note": "Un protector de la familia que rescata la tierra o libera a los parientes de la esclavitud."
+        },
+        {
+          "term": "sábado",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "El séptimo día, apartado por mandato de Dios (Éxodo 20:8-11). Todo trabajo cesaba desde la puesta del sol del viernes hasta la puesta del sol del sábado. Para los días de Jesús, la tradición rabínica había elaborado 39 categorías de labor prohibida; muchas de las sanidades de Jesús desafiaron deliberadamente esas reglas añadidas sin quebrantar el mandato mismo de la Torá."
+        },
+        {
+          "term": "jubileo",
+          "original": "Hebrew: יוֹבֵל (yobel)",
+          "note": "Cada año 50, después de siete ciclos de años sabáticos (Levítico 25). La tierra volvía a las familias originales, los esclavos hebreos quedaban libres y las deudas se cancelaban; un reajuste estructural de la desigualdad social y económica. El \"año del favor del Señor\" que Jesús proclama en Lucas 4:19 se apoya directamente en el lenguaje del jubileo de Isaías 61."
+        },
+        {
+          "term": "el año sabático",
+          "original": "Hebrew: שְׁנַת שַׁבָּתוֹן (shenat shabbaton), later שְׁמִטָּה (shemittah), 'release'",
+          "note": "Cada séptimo año no se siembra, no se poda y no se hace cosecha organizada; lo que crece por sí solo queda abierto por igual al dueño, a sus siervos, a los jornaleros, a los extranjeros residentes, al ganado y a los animales salvajes (25:5-7). Levítico 25:20-22 responde a la objeción obvia con la promesa de una cosecha triple en el sexto año. 2 Crónicas 36:21 cuenta el exilio como el cobro de lo que la tierra tenía pendiente."
+        },
+        {
+          "term": "El jubileo",
+          "original": "Hebrew: יוֹבֵל (yovel), 'ram's horn'",
+          "note": "El nombre es el instrumento: el cuerno tocado en el Día de la Expiación del año cuarenta y nueve para abrir el cincuenta (25:9-10). La tierra volvía a la familia que primero la tuvo y los siervos israelitas por deudas se iban a casa. El Antiguo Testamento griego lo vierte como aphesis, liberación, la misma palabra que hay detrás del perdón en el Nuevo Testamento."
+        },
+        {
+          "term": "proclamar libertad",
+          "original": "Hebrew: וּקְרָאתֶם דְּרוֹר (u-qeratem deror)",
+          "note": "Deror significa liberación de la servidumbre o de la deuda, y Jeremías 34:8-17 registra una proclamación de esa clase en Jerusalén que se hizo y luego se revocó. La versión inglesa antigua de Levítico 25:10 es la inscripción fundida en la Campana de la Libertad de Filadelfia en 1751."
+        },
+        {
+          "term": "vender tierra",
+          "original": "Hebrew: לֹא תִמָּכֵר לִצְמִתֻת (lo timmakher litsmitut), 'not sold permanently'",
+          "note": "Nadie en Israel podía vender tierra en propiedad plena. Lo que cambiaba de manos era el número de cosechas que quedaban hasta el jubileo siguiente, y el precio subía o bajaba con esa cuenta (25:15-16). Levítico 25:23 da la razón: la tierra es del SEÑOR, e Israel la tiene como extranjero residente."
+        },
+        {
+          "term": "ciudad amurallada y aldea abierta",
+          "original": "Hebrew: בְּעִיר חוֹמָה (be-ir chomah)",
+          "note": "Una casa dentro de una población amurallada podía rescatarse durante un año y luego pasaba de manera permanente al comprador; una casa de una aldea sin muralla contaba como campo abierto y volvía en el jubileo (25:29-31). Las casas de los levitas quedaban exentas de la regla y siempre eran rescatables (25:32-33)."
+        },
+        {
+          "term": "interés e incremento",
+          "original": "Hebrew: נֶשֶׁךְ (neshekh), 'a bite' - תַּרְבִּית (tarbit), 'increase'",
+          "note": "Dos palabras para dos formas de lo mismo: el interés descontado por delante y la ganancia añadida por detrás. Levítico 25:36-37 prohíbe ambos hacia un israelita empobrecido, sobre el dinero y sobre los alimentos. Ezequiel 18:8 y 22:12 usan el par como prueba del hombre justo."
+        },
+        {
+          "term": "No con dureza",
+          "original": "Hebrew: בְּפָרֶךְ (be-farekh), with crushing harshness",
+          "note": "Levítico 25:43 y 25:46 prohíben los dos dominar a un israelita be-farekh, y la palabra no es un término general para la severidad. Aparece en Éxodo 1:13-14, dos veces, para lo que Egipto le hizo a Israel: los hicieron servir be-farekh y les amargaron la vida con trabajos duros. La ley echa mano de la memoria propia del lector sobre la esclavitud y prohíbe reproducirla. El versículo 25:39 dice lo mismo desde el otro lado: no lo harás servir como sirve un esclavo."
+        },
+        {
+          "term": "Ellos son mis siervos",
+          "original": "Hebrew: כִּי־עֲבָדַי הֵם (ki avadai hem), 'for they are My servants'",
+          "note": "Levítico 25:42 y 25:55 dan el fundamento declarado de todos los límites del capítulo: los israelitas son siervos de Dios, a quienes él sacó de Egipto, y por eso no han de venderse como se vende a los esclavos. La reclamación es de propiedad previa, y por eso el jubileo puede cancelar una venta y mandar a un hombre a casa. El versículo 25:23 aplica esa misma lógica al terreno mismo, y dice que la tierra no ha de venderse a perpetuidad porque la tierra es suya y los israelitas son extranjeros residentes en ella."
+        },
+        {
+          "term": "El derecho a ser rescatado",
+          "original": "Hebrew: גְּאֻלָּה (geullah), redemption - גֹּאֵל (goel), the kinsman-redeemer",
+          "note": "Levítico 25:47-55 trata del israelita que se ha vendido a un extranjero residente, y la venta nunca queda firme. Él conserva el derecho de rescate después de ella, y la lista de quién puede ejercerlo es amplia: un hermano, un tío, un hijo de su tío, cualquier pariente de sangre, o él mismo si prospera (25:48-49). El precio se calcula por las cosechas que quedan hasta el jubileo, así que baja cada año (25:50-52). El versículo 53 añade que el comprador no debe dominarlo con dureza a la vista de Israel. Ese mismo oficio de goel rescata la tierra familiar en 25:25 y está detrás de Booz en Rut 4."
         }
       ],
-      "keyTakeaway": "Dios ordena a Israel observar cada séptimo año como año de descanso para la tierra, y cada quincuagésimo año como jubileo en el que toda tierra vuelve a sus dueños originales y los israelitas quedan libres de servidumbre; se dan reglas para la venta de tierras, la redención de propiedades, el trato a los pobres y las diferencias entre siervos hebreos y esclavos extranjeros.",
+      "keyTakeaway": "Dios manda a Israel observar cada séptimo año como año de descanso para la tierra, y cada año cincuenta como jubileo, cuando toda la tierra vuelve a sus dueños originales y los compatriotas israelitas son liberados de la servidumbre; se dan reglas para la venta de tierras, el rescate de la propiedad, el trato al pobre y la distinción entre siervos hebreos y esclavos extranjeros.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2140,29 +2366,55 @@
         "Estos son los estatutos, ordenanzas y leyes que, por medio de Moisés, estableció el SEÑOR en el monte Sinaí entre él y los israelitas. (26:46)."
       ],
       "crossRefs": [
-        "Deuteronomio 28:1–68: Lista paralela de bendiciones y maldiciones por la obediencia o desobediencia al pacto.",
-        "2 Crónicas 36:20–21: La tierra disfrutó sus sábados durante el exilio en Babilonia.",
-        "Nehemías 9:2: Confesión de los pecados de los padres y los propios.",
-        "Hechos 5:1–11: Ananías y Safira juzgados por mentir sobre dinero consagrado."
+        "Deuteronomio 28:1-68: La misma estructura de bendiciones y maldiciones, expuesta con mucha mayor extensión.",
+        "Deuteronomio 30:1-5: Si toman a pecho estas palabras entre las naciones, el SEÑOR los restaurará.",
+        "2 Crónicas 36:15-21: Estas maldiciones cumplidas, y la tierra guardando sus sábados mientras Israel está en Babilonia.",
+        "Daniel 9:11-14: Daniel nombra la maldición escrita en la ley de Moisés como aquello que ha venido sobre ellos.",
+        "Nehemías 9:26-31: La rebelión repetida de Israel y la paciencia repetida de Dios, expuestas como confesión pública."
       ],
       "translationNotes": [
         {
-          "term": "*iniquidad*",
+          "term": "*maldad*",
           "original": "Hebrew: עָוֹן (ʿavon), Greek: ἀνομία (anomia), Aramaic: עון (ʿawon)",
-          "note": "Culpa o perversidad; más profundo que actos individuales de pecado, denota torcedura continua con sus consecuencias."
+          "note": "Culpa o torcedura; más profundo que los actos aislados de pecado, denota una perversión continuada con sus consecuencias."
         },
         {
-          "term": "Cosa consagrada (jérem)",
-          "original": "Hebrew: חֵרֶם (ḥerem), Greek: ἀνάθεμα (anathema), Aramaic: חרם (ḥerem)",
-          "note": "Algo irrevocablemente entregado a Dios, frecuentemente destruido; no puede ser redimido."
+          "term": "miríada",
+          "original": "Greek: μυριάς (myrias)",
+          "note": "Diez mil; usado también de forma idiomática para \"incontables\". Los \"millares de millares\" (myriades myriadon) de ángeles de Apocalipsis 5:11 podrían ser 100 millones como suelo literal, aunque el sentido se lee con más naturalidad como \"innumerables\"."
         },
         {
-          "term": "Diezmo",
-          "original": "Hebrew: מַעֲשֵׂר (maʿaser), Greek: δεκάτη (dekatē), Aramaic: מעשר (maʿasar)",
-          "note": "La décima parte dedicada a Dios, de las cosechas o los rebaños."
+          "term": "siete veces más",
+          "original": "Hebrew: שֶׁבַע עַל־חַטֹּאתֵיכֶם (sheva al-chattoteikhem)",
+          "note": "El capítulo corre en cinco rondas crecientes, cada una abierta con una negativa a escuchar y cada una elevando la pena siete veces (26:18, 21, 24, 28). Es una advertencia estructurada con salidas declaradas, no un veredicto único. Los versículos 40-45 dan el camino de vuelta al final de la quinta ronda."
+        },
+        {
+          "term": "tu cielo como hierro y tu tierra como bronce",
+          "original": "Hebrew: כַּבַּרְזֶל ... כַּנְּחֻשָׁה (kabbarzel ... kannechushah)",
+          "note": "Un cielo que no da lluvia y un suelo que no se deja romper, puestos como dos metales. Deuteronomio 28:23 da la misma imagen con los metales intercambiados: cielo de bronce y tierra de hierro. En una economía agrícola que vive de la lluvia, esta sola línea es la cosecha entera perdida."
+        },
+        {
+          "term": "lugares altos y altares de incienso",
+          "original": "Hebrew: בָּמוֹת (bamot) - חַמָּנִים (chammanim)",
+          "note": "Los bamot son plataformas de culto elevadas y al aire libre, y 1 Reyes 3:2 anota que Israel las usaba antes de que se edificara el templo. Los chammanim son pequeños pebeteros; la palabra está emparentada con la raíz de calor o sol. Se han excavado altares de incienso de caliza de esa clase en yacimientos de Israel, entre ellos Meguido."
+        },
+        {
+          "term": "corazones incircuncisos",
+          "original": "Hebrew: לְבָבָם הֶעָרֵל (levavam he-arel)",
+          "note": "La señal física convertida en descripción del hombre interior. Deuteronomio 10:16 manda a Israel circuncidar el prepucio del corazón, Jeremías 9:26 acusa a la nación de ser incircuncisa de corazón, y Hechos 7:51 usa esa misma acusación."
+        },
+        {
+          "term": "piedra sagrada y piedra labrada",
+          "original": "Hebrew: מַצֵּבָה (matsevah), a standing stone",
+          "note": "Una matsevah es una piedra puesta de canto, y se han desenterrado hileras de ellas en yacimientos cananeos, entre ellos Guézer y Jazor. Levítico 26:1 no prohíbe las piedras como tales; Jacob levanta una y derrama aceite sobre ella en Génesis 28:18 sin ser reprendido. Lo que el versículo prohíbe es una imagen tallada, una columna o una losa figurada puesta para postrarse ante ella."
+        },
+        {
+          "term": "comerán la carne de sus propios hijos e hijas",
+          "original": "Hebrew: מָצוֹר (matsor), siege",
+          "note": "Esta es una advertencia de asedio, y la Escritura registra su cumplimiento dos veces. Durante el sitio arameo de Samaria dos mujeres acordaron cocer y comerse a sus hijos, y una de ellas llevó el caso al rey (2 Reyes 6:28-29). Lamentaciones 4:10 dice lo mismo de Jerusalén bajo Babilonia. Un ejército sitiador no asaltaba las murallas si podía evitar el costo; se sentaba fuera y esperaba a que se acabara la comida, lo cual llevaba meses."
         }
       ],
-      "keyTakeaway": "Dios prohíbe los ídolos y ordena guardar los sábados y su santuario, prometiendo abundantes cosechas y victoria militar si Israel obedece, pero describiendo maldiciones progresivas, enfermedad, hambre, animales salvajes, plaga, canibalismo, exilio y desolación, si rechazan sus mandatos, aunque promete recordar su pacto si confiesan sus pecados y los de sus antepasados.",
+      "keyTakeaway": "Dios prohíbe los ídolos y manda observar los sábados y su santuario, y promete cosechas abundantes y victoria militar si Israel obedece, pero describe maldiciones crecientes, enfermedad, hambre, fieras salvajes, peste, canibalismo, exilio y desolación, si rechazan sus mandatos; con todo, se acordará de su pacto si confiesan sus pecados y los de sus antepasados.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2217,29 +2469,55 @@
         "Estos son los mandamientos que el SEÑOR le dio a Moisés para los israelitas en el monte Sinaí. (27:34)."
       ],
       "crossRefs": [
-        "Deuteronomio 28:1–68: Lista paralela de bendiciones y maldiciones por la obediencia o desobediencia al pacto.",
-        "2 Crónicas 36:20–21: La tierra disfrutó sus sábados durante el exilio en Babilonia.",
-        "Nehemías 9:2: Confesión de los pecados de los padres y los propios.",
-        "Hechos 5:1–11: Ananías y Safira juzgados por mentir sobre dinero consagrado."
+        "Números 30:1-16: La ley de los votos, y los casos en que un padre o un marido pueden anular uno.",
+        "Jueces 11:30-39: El voto de Jefté y lo que resultó de él.",
+        "1 Samuel 1:11: Ana promete dar su hijo al SEÑOR todos los días de su vida.",
+        "Eclesiastés 5:4-5: Cuando hagas un voto a Dios, no tardes en cumplirlo.",
+        "Malaquías 3:8-10: Traigan íntegro el diezmo al depósito, y pongan al SEÑOR a prueba en esto."
       ],
       "translationNotes": [
         {
-          "term": "*iniquidad*",
-          "original": "Hebrew: עָוֹן (ʿavon), Greek: ἀνομία (anomia), Aramaic: עון (ʿawon)",
-          "note": "Culpa o perversidad; más profundo que actos individuales de pecado, denota torcedura continua con sus consecuencias."
-        },
-        {
-          "term": "Cosa consagrada (jérem)",
+          "term": "Cosa consagrada al anatema (ḥerem)",
           "original": "Hebrew: חֵרֶם (ḥerem), Greek: ἀνάθεμα (anathema), Aramaic: חרם (ḥerem)",
-          "note": "Algo irrevocablemente entregado a Dios, frecuentemente destruido; no puede ser redimido."
+          "note": "Algo entregado a Dios de manera irrevocable, a menudo destruido; no puede rescatarse."
         },
         {
           "term": "Diezmo",
           "original": "Hebrew: מַעֲשֵׂר (maʿaser), Greek: δεκάτη (dekatē), Aramaic: מעשר (maʿasar)",
-          "note": "La décima parte dedicada a Dios, de las cosechas o los rebaños."
+          "note": "Una décima parte dedicada a Dios, de las cosechas o de los rebaños."
+        },
+        {
+          "term": "guerá",
+          "original": "Hebrew: גֵּרָה (gerah)",
+          "note": "La unidad de peso hebrea más pequeña; veinte guerás equivalen a un siclo (Éxodo 30:13). Alrededor de medio gramo en medida moderna."
+        },
+        {
+          "term": "jubileo",
+          "original": "Hebrew: יוֹבֵל (yobel)",
+          "note": "Cada año 50, después de siete ciclos de años sabáticos (Levítico 25). La tierra volvía a las familias originales, los esclavos hebreos quedaban libres y las deudas se cancelaban; un reajuste estructural de la desigualdad social y económica. El \"año del favor del Señor\" que Jesús proclama en Lucas 4:19 se apoya directamente en el lenguaje del jubileo de Isaías 61."
+        },
+        {
+          "term": "siclo",
+          "original": "Hebrew: שֶׁקֶל (sheqel)",
+          "note": "A la vez una pesa (unos 0,4 onzas / 11 g) y una unidad monetaria. En la economía del Antiguo Testamento un jornalero común ganaba alrededor de medio siclo al mes, así que los 20 siclos pagados por José (Génesis 37:28) eran unos tres años de salario. El impuesto del templo era medio siclo (Éxodo 30:13); en el cómputo del Nuevo Testamento eso equivalía a dos denarios, dos días de salario."
+        },
+        {
+          "term": "las valoraciones",
+          "original": "Hebrew: עֶרְכְּךָ (erkekha), 'your valuation'",
+          "note": "Una lista de precios fija para rescatar a una persona consagrada por voto al SEÑOR: cincuenta siclos por un hombre de veinte a sesenta años, treinta por una mujer, veinte y diez por los de cinco a veinte, cinco y tres por los niños de pecho, quince y diez por los ancianos (27:3-7). A unos 11,4 gramos por siclo, cincuenta siclos son aproximadamente 570 gramos de plata. El versículo 8 permite al sacerdote fijar una cifra menor a quien no pueda pagar."
+        },
+        {
+          "term": "jómer",
+          "original": "Hebrew: חֹמֶר (chomer)",
+          "note": "La mayor medida de áridos, diez efas, unos 220 litros o poco más de seis búsheles; la palabra comparte consonantes con chamor, un asno, y un jómer se cuenta como una carga de asno. Ezequiel 45:11 fija el efa y el bato cada uno en una décima parte de él. Levítico 27:16 pone precio a la tierra por la semilla que hace falta para sembrarla: cincuenta siclos de plata por cada jómer de cebada."
+        },
+        {
+          "term": "pasa bajo la vara del pastor",
+          "original": "Hebrew: תַּחַת הַשָּׁבֶט (tachat ha-shavet)",
+          "note": "El rebaño se hacía pasar por una puerta estrecha mientras el pastor tocaba con su cayado a cada décimo animal para marcarlo para el diezmo (27:32). Al dueño se le prohíbe repasarlos y escoger, o cambiar un animal marcado por otro peor. Jeremías 33:13 y Ezequiel 20:37 usan los dos esa misma imagen."
         }
       ],
-      "keyTakeaway": "Dios instruye a Moisés sobre cómo valorar personas, animales, casas y tierras dedicados a él mediante un voto, con reglas específicas de rescate y prohibiciones de sustitución. Los diezmos del producto de la tierra y del ganado se declaran santos para el Señor y no pueden rescatarse ni intercambiarse.",
+      "keyTakeaway": "Dios instruye a Moisés sobre cómo valorar a las personas, los animales, las casas y las tierras dedicadas si alguien hace un voto al SEÑOR, con reglas concretas de rescate y prohibiciones de sustitución. Los diezmos del producto de la tierra y del ganado se declaran santos al SEÑOR y no pueden rescatarse ni cambiarse.",
       "headings": [
         {
           "beforeVerse": 1,

@@ -751,7 +751,8 @@
       "Sabiduría",
       "Sab",
       "Sb",
-      "Wisdom of Solomon"
+      "Wisdom of Solomon",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -764,7 +765,8 @@
       "Eclo",
       "Sirach",
       "Sabiduría del Sirácida",
-      "Sirácida"
+      "Sirácida",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -797,7 +799,8 @@
       "Cántico de Tres",
       "PrAzar",
       "Azarías",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -816,6 +819,15 @@
       "Bel y el Dragón",
       "Bel",
       "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Salmo 151",
+    "aliases": [
+      "Salmo 151",
+      "Sal 151",
+      "Psalm 151"
     ],
     "group": "deuterocanon"
   },
@@ -1008,8 +1020,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "Evangelio de la infancia de Tomás",
+    "canon": "Evangelio de la Infancia de Tomás",
     "aliases": [
+      "Evangelio de la Infancia de Tomás",
       "Evangelio de la infancia de Tomás",
       "Evangelio de la niñez de Tomás",
       "Infancy Gospel of Thomas"
@@ -1021,7 +1034,8 @@
     "aliases": [
       "Protoevangelio de Santiago",
       "Evangelio de la infancia de Santiago",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -1129,7 +1143,8 @@
       "1 En",
       "I Enoc",
       "1En",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1143,7 +1158,8 @@
       "2 En",
       "II Enoc",
       "2En",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1157,7 +1173,8 @@
       "3 En",
       "III Enoc",
       "3En",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1175,7 +1192,8 @@
     "aliases": [
       "Testamento de los Doce Patriarcas",
       "Doce Patriarcas",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1384,6 +1402,32 @@
     "aliases": [
       "Apocalipsis de Elías",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Evangelio de Nicodemo (Hechos de Pilato)",
+    "aliases": [
+      "Evangelio de Nicodemo (Hechos de Pilato)",
+      "Evangelio de Nicodemo",
+      "Gospel of Nicodemus",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Evangelio de Bartolomé",
+    "aliases": [
+      "Evangelio de Bartolomé",
+      "Gospel of Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Ascensión de Moisés",
+    "aliases": [
+      "Ascensión de Moisés",
+      "Assumption of Moses"
     ],
     "group": "pseudepigrapha"
   }

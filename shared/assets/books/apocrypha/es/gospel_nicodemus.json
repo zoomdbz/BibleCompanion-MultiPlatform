@@ -42,18 +42,99 @@
         "La narración concluye con la exhortación a proclamar la victoria de la resurrección de Cristo y la liberación de los justos."
       ],
       "crossRefs": [
-        "Lucas 23:1–2: Los líderes acusan a Jesús ante Pilato.",
-        "Juan 18:33–38: Pilato interroga a Jesús, no halla falta.",
-        "Mateo 27:12–14: Jesús permanece en silencio ante las acusaciones."
+        "Juan 3:1-21: 1-2: Los líderes acusan a Jesús ante Pilato.",
+        "Juan 7:50-52: 33-38: Pilato interroga a Jesús, no halla falta.",
+        "Juan 19:38-42: 12-14: Jesús permanece en silencio ante las acusaciones.",
+        "Salmos 24:7-10: Alzad vuestras cabezas, puertas; levantaos, puertas antiguas, para que entre el Rey de gloria. El Descenso cita íntegro este salmo ante las puertas del Hades, con pregunta y respuesta.",
+        "Isaías 45:2: Dios promete quebrar las puertas de bronce y cortar los cerrojos de hierro. Lo dicho a Ciro sobre la conquista de Babilonia se toma aquí como descripción del inframundo cediendo.",
+        "Salmos 107:16: Él despedaza las puertas de bronce y corta los cerrojos de hierro. Se canta acerca de prisioneros sacados de las tinieblas y de la sombra de muerte; esta es la liberación representada por el Descenso.",
+        "1 Pedro 3:18-20: Cristo, muerto en la carne y vivificado en el espíritu, fue y predicó a los espíritus encarcelados; esta es la única oración canónica sobre la que se construye toda la segunda mitad del libro.",
+        "Mateo 28:11-15: Los guardias informan a los principales sacerdotes, reciben una suma de dinero y se les ordena decir que los discípulos llegaron de noche y robaron el cuerpo. Este libro amplía el episodio hasta convertirlo en una audiencia completa con testimonio de los guardias."
       ],
       "translationNotes": [
         {
           "term": "Hechicería",
-          "original": "Hebrew: כָּשַׁף (kāšap̱), Greek: φαρμακεία (pharmakeía), Aramaic: כשפים (kešāfîn)",
+          "original": "Latin: Acta Pilati",
           "note": "Término usado frecuentemente por los opositores para describir los milagros de forma negativa, enmarcando las obras divinas como engaño mágico."
+        },
+        {
+          "term": "Indicción",
+          "original": "",
+          "note": "El prólogo fecha la traducción en el año decimoséptimo de Flavio Teodosio y la novena indicción, hacia 425 d. C. Una indicción era un ciclo fiscal de quince años; los documentos tardorromanos y bizantinos se fechaban según el año del ciclo en curso, no según una era. Las copias latinas del mismo prólogo leen en cambio el año decimoctavo."
+        },
+        {
+          "term": "Gobernante de los judíos",
+          "original": "Greek: ἄρχων τῶν Ἰουδαίων (archon ton Ioudaion)",
+          "note": "La frase que Juan 3:1 aplica a Nicodemo lo identifica como miembro del consejo, setenta ancianos presididos por el sumo sacerdote, según el modelo de los setenta que Moisés debe reunir en Números 11:16. El consejo trataba la ley religiosa y sus fallos tenían autoridad. Este libro se presenta como el registro de Nicodemo, pero no afirma que él lo escribiera en griego."
+        },
+        {
+          "term": "Los estandartes que se inclinaron",
+          "original": "Latin: signa",
+          "note": "Los estandartes militares romanos llevaban la imagen del emperador junto con los emblemas de la unidad y se consideraban sagrados; los soldados juraban por ellos y una legión que perdía uno quedaba deshonrada. En este juicio los estandartes se inclinan solos cuando introducen a Jesús; doce hombres fuertes intentan mantenerlos erguidos y vuelven a inclinarse. Mateo 22:20-21 gira en torno al mismo objeto de reverencia: la imagen y la inscripción de la moneda del César."
+        },
+        {
+          "term": "Hechicería",
+          "original": "Greek: φαρμακεία (pharmakeia) - Hebrew: כָּשַׁף (kashaph)",
+          "note": "Pharmakeia abarca drogas, pociones y conjuros, y está detrás de la palabra «farmacia». La acusación aquí es que los milagros se realizaron mediante magia, la misma que los Evangelios registran al decir que expulsa demonios por Beelzebú, príncipe de los demonios (Mateo 12:24; Marcos 3:22). Éxodo 22:18 y Deuteronomio 18:10-12 castigan la hechicería con la muerte; por tanto, es una acusación capital."
+        },
+        {
+          "term": "Hades",
+          "original": "Hebrew: שְׁאוֹל (sheol) - Greek: ᾅδης (hades)",
+          "note": "Seol es la palabra hebrea para el lugar de los muertos; los traductores griegos del Antiguo Testamento la vertieron como Hades, tomando el nombre del inframundo griego. En este libro, Hades no es un lugar, sino un personaje que habla y discute. Hechos 2:27 cita Salmo 16:10, que su alma no sería dejada en el Hades, y Apocalipsis 1:18 presenta al Cristo resucitado con las llaves de la Muerte y del Hades."
+        },
+        {
+          "term": "El descenso al infierno",
+          "original": "Latin: Descensus Christi ad inferos",
+          "note": "La segunda mitad del libro. Efesios 4:8-10 dice que descendió a las partes más bajas de la tierra antes de ascender a lo alto, citando Salmo 68:18. 1 Pedro 3:18-20 lo presenta predicando a los espíritus encarcelados, y 1 Pedro 4:6 habla del evangelio predicado a los muertos. Ningún pasaje canónico nombra a alguien sacado de allí, describe las puertas ni relata una conversación en ese lugar."
+        },
+        {
+          "term": "Carino y Leucio",
+          "original": "",
+          "note": "Los dos narradores del Descenso son presentados como hijos de Simeón, resucitados durante la crucifixión. Se les hace escribir sus relatos por separado y ambos producen las mismas palabras. Simeón es el hombre de Lucas 2:25-35 que tomó al niño en brazos en el templo y bendijo a Dios. Mateo 27:52-53 informa que se abrieron sepulcros y resucitaron muchos cuerpos de santos, sin nombrar a nadie."
+        },
+        {
+          "term": "Alzad vuestras puertas",
+          "original": "",
+          "note": "Ante las puertas del Hades se oye el grito: «Alzad vuestras puertas, gobernantes; levantaos, puertas eternas, y entrará el Rey de gloria». Es Salmo 24:7-10 tomado íntegramente, incluida su pregunta: «¿Quién es este Rey de gloria?», que aquí se convierte en la exigencia del Hades de saber quién está ante su puerta."
+        },
+        {
+          "term": "Puertas de bronce y cerrojos de hierro",
+          "original": "",
+          "note": "Las puertas ceden ante una palabra, y la formulación no es nueva. En Isaías 45:2 Dios promete quebrar las puertas de bronce y cortar los cerrojos de hierro. Salmo 107:16 usa las mismas dos líneas para prisioneros sacados de las tinieblas. Este libro toma ambas y las aplica al inframundo."
+        },
+        {
+          "term": "La discusión entre Satanás y Hades",
+          "original": "",
+          "note": "El Descenso representa una disputa entre Satanás, que presume de haber preparado la muerte, y Hades, aterrorizado por quien se acerca y culpando a Satanás de provocarlo. La Escritura nunca da voz al Hades; es un lugar, como en Mateo 16:18, donde sus puertas no prevalecerán. Satanás es siempre una persona, como en Job 1:6-12 y Zacarías 3:1-2."
+        },
+        {
+          "term": "El seno de Abraham",
+          "original": "",
+          "note": "El lugar donde esperan los justos muertos en este libro. Lucas 16:22-23 es el único pasaje de la Escritura que usa la frase, en el relato del rico y Lázaro: los ángeles llevan al mendigo junto a Abraham, mientras el rico está atormentado en el Hades, con un gran abismo fijado entre ambos. En Lucas 23:43 Jesús promete al ladrón que estará con él ese mismo día en el paraíso."
+        },
+        {
+          "term": "Informar al César",
+          "original": "Latin: maiestas",
+          "note": "La presión sobre Pilato es la amenaza de denunciarlo. En Juan 19:12 los dirigentes dicen que, si libera a ese hombre, no es amigo del César, y que quien se hace rey habla contra el César. Maiestas, la ofensa contra la majestad del pueblo romano o del emperador, se había convertido bajo Tiberio en el medio habitual para destruir a un funcionario romano; la amenaza tenía verdadero peso."
+        },
+        {
+          "term": "Pretorio",
+          "original": "Greek: πραιτώριον (praitorion)",
+          "note": "La sede del gobernador romano y la sala donde administraba justicia. El gobernador de Judea vivía en Cesarea, en la costa, y subía a Jerusalén durante las fiestas. En Juan 18:28 los dirigentes se niegan a entrar para no contaminarse antes de la Pascua, obligando a Pilato a salir repetidas veces. El juicio de este libro conserva la misma disposición entre interior y exterior."
+        },
+        {
+          "term": "Lázaro y la hija de Jairo",
+          "original": "",
+          "note": "Los testigos convocados declaran sobre dos resurrecciones narradas por los Evangelios. Juan 11:1-44 presenta a Lázaro cuatro días en el sepulcro en Betania, a unos tres kilómetros de Jerusalén. Marcos 5:22-43 presenta a Jairo, dirigente de la sinagoga, y a su hija de doce años, a quien Jesús toma de la mano con las palabras arameas Talitha koum, que Marcos se detiene a traducir."
+        },
+        {
+          "term": "Palimpsesto",
+          "original": "",
+          "note": "Pergamino raspado y reutilizado, bajo cuya escritura nueva todavía puede leerse el texto anterior. El testimonio latino más antiguo de este libro es un palimpsesto del siglo V conservado en Viena, Codex 563. Latin A sobrevive en más de 150 manuscritos de los siglos V al XVI, y solo la tradición eslava eclesiástica supera los 190; esto lo convierte en uno de los apócrifos más copiados de la Europa medieval."
         }
       ],
       "keyTakeaway": "Los líderes judíos acusan a Jesús ante Pilato, pero los testimonios sobre sus milagros complican los cargos."
     }
-  ]
+  ],
+  "intro": "El Evangelio de Nicodemo, también llamado las Actas de Pilato, se presenta como el registro de un hombre a quien la Escritura nombra: Nicodemo, el fariseo y principal de los judíos que vino a Jesús de noche (Juan 3:1-21), que habló en favor de él ante el concilio (Juan 7:50-52), y que llevó mirra y áloes para el entierro (Juan 19:39). El prólogo que encabeza gran parte de la tradición griega no afirma que Nicodemo escribiera en griego. Afirma que un tal Ananías, de la guardia personal del gobernador, halló documentos redactados en hebreo en tiempos de Pilato y los tradujo, en el decimoséptimo año del reinado de Flavio Teodosio y la novena indicción, un cómputo que cae hacia el año 425 d.C.; las copias latinas leen el decimoctavo año. El prólogo falta en parte de la tradición.\n\nLa obra tiene dos partes distintas, y no siempre viajaron juntas. La primera es el juicio. Los dirigentes presentan sus acusaciones ante Pilato, testigos dan testimonio de las sanidades y de la resurrección de Lázaro y de la hija de Jairo, Pilato no halla culpa y lo envía a Herodes, la multitud presiona, se dicta la sentencia, y la narración continúa con la crucifixión, las tinieblas, el entierro, la guardia puesta junto al sepulcro, el terremoto y el ángel, el informe de los guardias y el dinero pagado para que dijeran que el cuerpo fue robado. La segunda parte es el Descenso al Infierno, el Descensus Christi ad inferos, relatado por Karinus y Leucius, los hijos de Simeón. Adán y los padres esperan en Hades; Satanás y Hades discuten acerca de quién viene; los profetas dan testimonio de que está cerca; las puertas de bronce y las barras de hierro son destrozadas; Satanás es atado; y Cristo toma a Adán de la mano y saca a los justos al paraíso. El texto presentado aquí contiene ambas partes en orden.\n\nLa recensión griega más antigua, Griego A, contiene solo la narración del juicio. El Descenso pertenece a la tradición latina y al Griego B, que es una traducción bizantina hecha del latín. El Latín A sobrevive en más de 150 manuscritos que van del siglo V al XVI, lo que lo convierte en uno de los apócrifos más ampliamente copiados de toda Europa occidental y septentrional durante la Edad Media; el Latín B sobrevive en unos veinte manuscritos de los siglos XI al XV, y un Latín C más breve en siete. El testigo latino más antiguo es un palimpsesto del siglo V en Viena, Códice 563. Los manuscritos griegos más antiguos son del siglo XII. Sobreviven versiones en copto, siríaco, armenio, georgiano y eslavo eclesiástico, el eslavo en más de 190 manuscritos, y la obra fue llevada al inglés antiguo, francés antiguo, irlandés medio, galés medio y nórdico antiguo.\n\nDos escritores del siglo II se refieren a Actas de Pilato, y no se puede demostrar que ninguna de las dos referencias sea a este libro. Justino Mártir dice dos veces al emperador que lo que relata sobre la crucifixión y las sanidades puede comprobarse en las Actas redactadas bajo Poncio Pilato (Primera Apología 35 y 48, hacia el año 155 d.C.). Tertuliano dice que Pilato informó de todo el asunto a Tiberio (Apología 21, hacia el año 197 d.C.). Ambos apelan a documentos oficiales romanos; ninguno cita una línea que pueda cotejarse con el texto tal como está, y ambos escribieron generaciones antes de sus manuscritos más antiguos y antes de la fecha que su propio prólogo se asigna. Una obra diferente bajo el mismo nombre fue hostil a Cristo: Eusebio informa que bajo Maximino, hacia el año 311 d.C., Actas de Pilato falsificadas y llenas de blasfemia circularon por las provincias y se pusieron ante los escolares para que las memorizaran (Historia Eclesiástica 1.9.3, 9.5.1 y 9.7.1). Ninguna comunión recibe el Evangelio de Nicodemo como canónico."
 }

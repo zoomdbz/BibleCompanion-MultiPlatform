@@ -600,7 +600,7 @@
     "group": "canon"
   },
   {
-    "canon": "约壹",
+    "canon": "约翰一书",
     "aliases": [
       "约壹",
       "约翰壹书",
@@ -611,7 +611,7 @@
     "group": "canon"
   },
   {
-    "canon": "约贰",
+    "canon": "约翰二书",
     "aliases": [
       "约贰",
       "约翰贰书",
@@ -622,7 +622,7 @@
     "group": "canon"
   },
   {
-    "canon": "约叁",
+    "canon": "约翰三书",
     "aliases": [
       "约叁",
       "约翰叁书",
@@ -642,7 +642,7 @@
     "group": "canon"
   },
   {
-    "canon": "默示录",
+    "canon": "启示录",
     "aliases": [
       "默示录",
       "启示录",
@@ -652,7 +652,7 @@
     "group": "canon"
   },
   {
-    "canon": "多比书",
+    "canon": "多比传",
     "aliases": [
       "多比书",
       "多比",
@@ -676,18 +676,20 @@
     "aliases": [
       "以斯帖补编",
       "希腊以斯帖",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "所罗门智训",
+    "canon": "智慧篇",
     "aliases": [
       "所罗门智训",
       "智训篇",
       "智",
       "Wisdom of Solomon",
-      "智慧篇"
+      "智慧篇",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -698,13 +700,15 @@
       "德训篇",
       "西拉",
       "Sirach",
-      "便西拉智训"
+      "便西拉智训",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "巴录书",
+    "canon": "巴路克书",
     "aliases": [
+      "巴路克书",
       "巴录书",
       "巴录",
       "Baruch"
@@ -724,7 +728,8 @@
     "aliases": [
       "亚撒利雅的祷告",
       "三童之歌",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -743,6 +748,15 @@
       "彼勒与大龙",
       "彼勒",
       "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "诗篇151篇",
+    "aliases": [
+      "诗篇151篇",
+      "诗篇151",
+      "Psalm 151"
     ],
     "group": "deuterocanon"
   },
@@ -795,7 +809,8 @@
     "aliases": [
       "以斯拉二书",
       "四以斯拉",
-      "2 Esdras"
+      "2 Esdras",
+      "2 Esdras (4 Ezra)"
     ],
     "group": "deuterocanon"
   },
@@ -899,8 +914,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "多马婴孩福音",
+    "canon": "多马婴儿福音",
     "aliases": [
+      "多马婴儿福音",
       "多马婴孩福音",
       "Infancy Gospel of Thomas"
     ],
@@ -910,7 +926,8 @@
     "canon": "雅各婴孩福音",
     "aliases": [
       "雅各婴孩福音",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -1007,7 +1024,8 @@
     "aliases": [
       "以诺一书",
       "第一以诺书",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1016,7 +1034,8 @@
     "aliases": [
       "以诺二书",
       "第二以诺书",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1025,12 +1044,13 @@
     "aliases": [
       "以诺三书",
       "第三以诺书",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
   {
-    "canon": "周年书",
+    "canon": "禧年书",
     "aliases": [
       "周年书",
       "小创世记",
@@ -1043,7 +1063,8 @@
     "canon": "十二族长遗嘱",
     "aliases": [
       "十二族长遗嘱",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1249,6 +1270,34 @@
     "aliases": [
       "以利亚启示录",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "尼哥底母福音（彼拉多行传）",
+    "aliases": [
+      "尼哥底母福音（彼拉多行传）",
+      "Gospel of Nicodemus",
+      "Acts of Pilate",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "巴多罗买福音",
+    "aliases": [
+      "巴多罗买福音",
+      "Gospel of Bartholomew",
+      "Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "摩西升天记",
+    "aliases": [
+      "摩西升天记",
+      "Assumption of Moses",
+      "Testament of Moses"
     ],
     "group": "pseudepigrapha"
   }

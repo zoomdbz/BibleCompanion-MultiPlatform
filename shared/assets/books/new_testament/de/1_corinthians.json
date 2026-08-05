@@ -42,23 +42,43 @@
         "damit [es geschehe], wie geschrieben steht: »Wer sich rühmen will, der rühme sich des Herrn!« (1:31)."
       ],
       "crossRefs": [
-        "Römer 1,7: Berufene Heilige.",
-        "Philipper 1,6: Er wird das gute Werk vollenden.",
-        "1. Thessalonicher 5,24: Treu ist er, der euch beruft."
+        "Römer 1:7: Berufene Heilige.",
+        "Philipper 1:6: Er wird das gute Werk vollenden.",
+        "1. Thessalonicher 5:24: Treu ist der, welcher euch beruft."
       ],
       "translationNotes": [
         {
           "term": "Geheiligt",
           "original": "Hebrew: קָדוֹשׁ (qādwōš), Greek: ἡγιασμένοι (ἡgiasmέnoi, NT), Aramaic: מקדש (מקדש)",
-          "note": "Bedeutet abgesondert oder geheiligt für Gottes Gebrauch."
+          "note": "Bedeutet abgesondert oder heilig gemacht für den Gebrauch Gottes."
         },
         {
           "term": "Zeugnis von Christus",
           "original": "Hebrew: עֵדוּת (ʿēdwt, sense), Greek: μαρτύριον τοῦ Χριστοῦ (martύrion toῦ Christoῦ, NT), Aramaic: סהדותא דמשיחא (סהדותא דמשיחא)",
-          "note": "Bezieht sich auf das Zeugnis oder die Bestätigung der Botschaft Christi unter ihnen."
+          "note": "Bezeichnet das Zeugnis oder die Bestätigung der Botschaft Christi unter ihnen."
+        },
+        {
+          "term": "Schriftgelehrter (sopher)",
+          "original": "Hebrew: סוֹפֵר (sopher); Greek: γραμματεύς (grammateus)",
+          "note": "Ursprünglich berufsmäßige Abschreiber der Schrift. Zur Zeit des Neuen Testaments Gelehrte und Lehrer des Gesetzes; oft, wenn auch nicht ausschließlich, den Pharisäern zugehörig. Sie bildeten die gebildete religiöse Schicht, die die alltäglichen halachischen Fragen entschied."
+        },
+        {
+          "term": "Korinth selbst",
+          "original": "Greek: Κόρινθος (Korinthos)",
+          "note": "Korinth lag auf dem vier Meilen breiten Landstreifen, der Südgriechenland mit dem Festland verbindet, mit einem Hafen auf jeder Seite: Lechäum nach Westen gegen Italien und Kenchreä nach Osten gegen Asien, wo die Gemeinde der Phöbe war (Römer 16,1) und wo Paulus sein Haupt scheren ließ (Apostelgeschichte 18,18). Statt den langen gefährlichen Weg um die Peloponnes zu segeln, zogen die Reeder ihre Güter, und manchmal ganze kleine Schiffe, auf einer gepflasterten Bahn über den Isthmus. Rom zerstörte die alte griechische Stadt 146 v. Chr.; Julius Caesar gründete sie 44 v. Chr. als römische Kolonie neu und besiedelte sie weitgehend mit freigelassenen Sklaven, und sie wurde die Hauptstadt der Provinz Achaja. Sie war noch keine hundert Jahre alt, als Paulus ankam."
+        },
+        {
+          "term": "Nicht viele Vornehme",
+          "original": "Greek: εὐγενεῖς (eugeneis), well-born",
+          "note": "Die römische Gesellschaft war gestuft, und jeder wusste, wo er stand: Senatoren, dann der Ritterstand, dann die Stadträte einer Kolonie, dann die freigeborenen Bürger, dann die Freigelassenen, dann die Sklaven. Was Paulus in 1,26 sagt, ist eine Zählung dieser Rangordnung innerhalb der Gemeinde, und es ist kein Bild. Der eine korinthische Gläubige, der mit einem öffentlichen Amt genannt wird, ist Erastus, der Stadtverwalter von Römer 16,23; ein Pflasterstein, der 1929 neben dem Theater von Korinth ausgegraben wurde, trägt eine Inschrift, wonach Erastus das Pflaster für die Erlangung seines Ädilenamtes auf eigene Kosten legen ließ."
+        },
+        {
+          "term": "Die Juden fordern Zeichen, und die Griechen suchen Weisheit",
+          "original": "Greek: σοφία (sophia), wisdom - μωρία (moria), folly",
+          "note": "Beide Hälften von 1,22 benennen ein wirkliches Verlangen jener Kultur. Redekunst und Philosophie waren die angesehenen Beschäftigungen einer griechischen Stadt; das Ansehen eines Mannes stieg mit seiner Fähigkeit, öffentlich elegant zu streiten, und reisende Redner zogen zahlende Zuhörer an. Dem gegenüber war die Kreuzigung der Tod, den Rom für Sklaven und Aufrührer bereithielt, mit Absicht öffentlich und mit Absicht schändlich, und kein angesehener Römer hätte sie zur Mitte einer Botschaft gewählt. Dieser Zusammenstoß ist es, den Paulus den Griechen eine Torheit und den Juden ein Ärgernis nennt."
         }
       ],
-      "keyTakeaway": "Paulus grüßt die korinthische Gemeinde, dankt Gott für ihre Gnadengaben und versichert ihnen, dass Gott sie treu bewahren wird bis zur Wiederkunft Christi.",
+      "keyTakeaway": "Paulus grüßt die Gemeinde in Korinth, dankt Gott für ihre Gaben und versichert ihnen Gottes Treue, sie bis zur Wiederkunft Christi zu erhalten.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -103,24 +123,35 @@
         "denn »wer hat den Sinn des Herrn erkannt, dass er ihn belehre?« Wir aber haben den Sinn des Christus. (2:16)."
       ],
       "crossRefs": [
-        "Jeremia 9,23–24: Wer sich rühmt, rühme sich des Herrn.",
-        "Jesaja 29,14: Ich will die Weisheit der Weisen vernichten.",
-        "Apostelgeschichte 18,24–28: Apollos dient in Korinth.",
-        "Epheser 2,20–22: Die Gemeinde als Gottes Tempel."
+        "Jesaja 64:4: Kein Auge hat einen Gott außer dir gesehen, der für den handelt, der auf ihn harrt.",
+        "Jesaja 40:13: Wer hat den Geist des HERRN gelenkt, oder wer hat ihn als sein Ratgeber unterwiesen?",
+        "Apostelgeschichte 18:1-11: Paulus kommt aus Athen nach Korinth, arbeitet mit Aquila an seinem Handwerk und bleibt ein Jahr und sechs Monate.",
+        "Daniel 2:20-23: Gott offenbart, was tief und verborgen ist, und gibt den Weisen Weisheit.",
+        "Matthäus 16:17: Fleisch und Blut hat dem Petrus dies nicht offenbart, sondern der Vater im Himmel."
       ],
       "translationNotes": [
         {
           "term": "Torheit",
           "original": "Hebrew: אִוֶּלֶת (ʾiwelet), Greek: μωρία (mōrίa, NT), Aramaic: סכלותא (סכלותא)",
-          "note": "Bezeichnet Dummheit oder Absurdität; Paulus wendet es darauf an, wie das Kreuz den Ungläubigen erscheint."
+          "note": "Bezeichnet Narrheit oder Widersinn; Paulus wendet es darauf an, wie das Kreuz den Ungläubigen erscheint."
         },
         {
-          "term": "Tempel",
-          "original": "Hebrew: הֵיכָל / מִקְדָּשׁ (hēykāl / miqədāš), Greek: ναός (naόs, NT), Aramaic: הֵיכְלָא (הֵיכְלָא)",
-          "note": "Bezieht sich auf Gottes Wohnstätte; Paulus wendet es auf die versammelte Gemeinde an."
+          "term": "Der natürliche Mensch",
+          "original": "Greek: ψυχικός (psychikos) - πνευματικός (pneumatikos)",
+          "note": "Das Wort, das in 2,14 mit „natürlich“ wiedergegeben wird, ist psychikos, gebildet auf psyche, der Seele oder dem Leben. Es bedeutet seelisch, ein Mensch, der von nichts als gewöhnlichem menschlichem Leben angetrieben wird, und es steht gegen pneumatikos, den, an dem der Geist gewirkt hat. „Natürlich“ legt einen Gegensatz zum Übernatürlichen nahe; der griechische Gegensatz besteht zwischen zwei Quellen des Lebens, und Jakobus 3,15 und Judas 1,19 gebrauchen dasselbe Wort."
+        },
+        {
+          "term": "Als Paulus nach Korinth kam",
+          "original": "Greek: Κόρινθος (Korinthos)",
+          "note": "Paulus erreichte Korinth von Athen her ohne Geld und ohne Ruf und arbeitete an seinem Handwerk, während er lehrte (Apostelgeschichte 18,1-4), und das ist die Schwachheit und das Zittern, die er in 2,3 erwähnt. Der Besuch lässt sich datieren: Ein Stein in Delphi mit einem Brief des Kaisers Claudius nennt Gallio als Statthalter von Achaja, was sein Amtsjahr auf 51 bis 52 n. Chr. festlegt, und in Apostelgeschichte 18,12 wird Paulus vor eben diesen Gallio geschleppt."
+        },
+        {
+          "term": "Geheimnis",
+          "original": "Greek: μυστήριον (mysterion)",
+          "note": "Kein Rätsel, das man lösen müsste. Ein mysterion war das, was den Eingeweihten eines griechischen Kultes gezeigt wurde und Außenstehenden nicht, und Paulus gebraucht das Wort für das, was Gott verborgen hielt und nun eröffnet hat. Er nennt es in 2,7 verborgene Weisheit, die vor den Weltzeiten zu unserer Herrlichkeit bestimmt war, und Kolosser 1,26 gibt dieselbe Gestalt: seit Ewigkeiten verborgen, jetzt aber seinen Heiligen offenbart."
         }
       ],
-      "keyTakeaway": "Paulus erklärt, dass er den Korinthern nicht mit klugen Worten gepredigt hat, sondern mit einer Demonstration der Kraft des Geistes; die Weisheit Gottes, die vor der Zeit verborgen und von den Herrschern dieses Zeitalters verworfen wurde, wird den Gläubigen durch den Geist geoffenbart, nicht durch menschliches Verständnis.",
+      "keyTakeaway": "Paulus erklärt, dass er den Korinthern nicht mit gewandten Worten gepredigt hat, sondern mit einem Erweis der Kraft des Geistes, und dass Gottes Weisheit, vor aller Zeit verborgen und von den Herrschern dieser Weltzeit verworfen, den Gläubigen durch den Geist offenbart wird und nicht durch menschliches Verstehen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -164,24 +195,35 @@
         "ihr aber gehört Christus an, Christus aber gehört Gott an. (3:23)."
       ],
       "crossRefs": [
-        "Jeremia 9,23–24: Wer sich rühmt, rühme sich des Herrn.",
-        "Jesaja 29,14: Ich will die Weisheit der Weisen vernichten.",
-        "Apostelgeschichte 18,24–28: Apollos dient in Korinth.",
-        "Epheser 2,20–22: Die Gemeinde als Gottes Tempel."
+        "Hiob 5:13: Er fängt die Weisen in ihrer List.",
+        "Psalmen 94:11: Der HERR kennt die Gedanken des Menschen, dass sie ein Hauch sind.",
+        "Jesaja 28:16: Ich lege in Zion einen Stein, einen bewährten Stein, einen kostbaren Eckstein, fest gegründet.",
+        "Maleachi 3:2-3: Er ist wie das Feuer eines Schmelzers; er sitzt und schmilzt und reinigt das Silber.",
+        "Hebräer 5:12-14: Ihr braucht Milch und nicht feste Speise; feste Speise ist für die Gereiften, die durch Übung geschult sind."
       ],
       "translationNotes": [
         {
           "term": "Torheit",
           "original": "Hebrew: אִוֶּלֶת (ʾiwelet), Greek: μωρία (mōrίa, NT), Aramaic: סכלותא (סכלותא)",
-          "note": "Bezeichnet Dummheit oder Absurdität; Paulus wendet es darauf an, wie das Kreuz den Ungläubigen erscheint."
+          "note": "Bezeichnet Narrheit oder Widersinn; Paulus wendet es darauf an, wie das Kreuz den Ungläubigen erscheint."
         },
         {
           "term": "Tempel",
           "original": "Hebrew: הֵיכָל / מִקְדָּשׁ (hēykāl / miqədāš), Greek: ναός (naόs, NT), Aramaic: הֵיכְלָא (הֵיכְלָא)",
-          "note": "Bezieht sich auf Gottes Wohnstätte; Paulus wendet es auf die versammelte Gemeinde an."
+          "note": "Bezeichnet die Wohnstätte Gottes; Paulus wendet es auf die versammelte Gemeinde an."
+        },
+        {
+          "term": "Baumeister",
+          "original": "Greek: ἀρχιτέκτων (architekton)",
+          "note": "Der architekton war der Unternehmer, der einen Bau absteckte und die Gewerke unter sich anleitete, kein Entwerfer am Zeichentisch. Korinth wurde 44 v. Chr. von Julius Caesar als römische Kolonie neu erbaut, ein Jahrhundert nachdem Rom die alte Stadt zerstört hatte, die Leser lebten also auf einer Baustelle und wussten, was ein schlechtes Fundament kostet. Paulus nimmt den Titel in 3,10 für sich und übergibt die Baustelle sogleich dem, der als Nächster baut."
+        },
+        {
+          "term": "Lohn und Verlust",
+          "original": "Greek: μισθός (misthos) - ζημιόω (zemioo)",
+          "note": "Beide Wörter in 3,14-15 sind Fachausdrücke des Handwerks. Misthos ist der Lohn, den ein Arbeiter für eine fertige Arbeit erhält, und zemioo heißt, gebüßt zu werden oder einen Verlust zu tragen, die Strafe, die ein Bauunternehmer auf sich nahm, wenn seine Arbeit die Abnahme nicht bestand. Das Bild ist ein Unternehmer, der am Ende eines Auftrags abrechnet, bezahlt für das, was steht, und gekürzt um das, was verbrennt."
         }
       ],
-      "keyTakeaway": "Paulus tadelt die Korinther wegen ihrer Unreife und der Spaltungen über Paulus und Apollos, erklärt, dass beide nur Diener sind, durch die Gott wirkt, warnt, dass ihr geistliches Werk durch Feuer geprüft werden wird, erinnert sie daran, dass sie Gottes Tempel sind, und weist sie an, sich nicht menschlicher Leiter zu rühmen, da alle Dinge denen gehören, die in Christus sind.",
+      "keyTakeaway": "Paulus tadelt die Korinther wegen ihrer Unreife und ihrer Spaltungen um Paulus und Apollos und erklärt, dass beide nur Diener sind, durch die Gott wirkt; er warnt, dass ihr geistliches Werk durch Feuer geprüft wird, erinnert sie daran, dass sie Gottes Tempel sind, und weist sie an, sich nicht menschlicher Anführer zu rühmen, da alles denen gehört, die in Christus sind.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -227,24 +269,35 @@
         "Was wollt ihr? Soll ich mit der Rute zu euch kommen, oder in Liebe und im Geist der Sanftmut? (4:21)."
       ],
       "crossRefs": [
-        "Jeremia 9,23–24: Wer sich rühmt, rühme sich des Herrn.",
-        "Jesaja 29,14: Ich will die Weisheit der Weisen vernichten.",
-        "Apostelgeschichte 18,24–28: Apollos dient in Korinth.",
-        "Epheser 2,20–22: Die Gemeinde als Gottes Tempel."
+        "Lukas 12:42-44: Der treue und kluge Haushalter, über das Gesinde gesetzt, um die Speise zur rechten Zeit auszuteilen.",
+        "Psalmen 143:2: Geh nicht ins Gericht mit deinem Knecht, denn vor dir ist kein Lebender gerecht.",
+        "Römer 2:29: Das Lob, das gilt, kommt von Gott und nicht von Menschen.",
+        "Klagelieder 3:45: Du hast uns zum Kehricht und Abschaum unter den Völkern gemacht.",
+        "2. Korinther 6:4-10: Des Paulus eigene Aufzählung, wie dieser Dienst aussieht: Schläge, Gefangenschaften, Hunger, schlaflose Nächte, nichts haben und alles besitzen."
       ],
       "translationNotes": [
         {
           "term": "Torheit",
           "original": "Hebrew: אִוֶּלֶת (ʾiwelet), Greek: μωρία (mōrίa, NT), Aramaic: סכלותא (סכלותא)",
-          "note": "Bezeichnet Dummheit oder Absurdität; Paulus wendet es darauf an, wie das Kreuz den Ungläubigen erscheint."
+          "note": "Bezeichnet Narrheit oder Widersinn; Paulus wendet es darauf an, wie das Kreuz den Ungläubigen erscheint."
         },
         {
-          "term": "Tempel",
-          "original": "Hebrew: הֵיכָל / מִקְדָּשׁ (hēykāl / miqədāš), Greek: ναός (naόs, NT), Aramaic: הֵיכְלָא (הֵיכְלָא)",
-          "note": "Bezieht sich auf Gottes Wohnstätte; Paulus wendet es auf die versammelte Gemeinde an."
+          "term": "Myriade",
+          "original": "Greek: μυριάς (myrias)",
+          "note": "Zehntausend; auch redensartlich für „unzählbar“ gebraucht. Die „Zehntausende mal Zehntausende“ (myriades myriadon) von Engeln in Offenbarung 5,11 könnten wörtlich mindestens 100 Millionen sein, doch ist die Absicht natürlicher als „unzählbar“ zu lesen."
+        },
+        {
+          "term": "Haushalter",
+          "original": "Greek: οἰκονόμος (oikonomos)",
+          "note": "Der Verwalter des Hauses, in den meisten großen Häusern selbst ein Sklave. Er hielt die Schlüssel, führte das Anwesen, zahlte die Arbeiter und führte die Bücher, und ihm gehörte nichts davon. Das ist die Schärfe von 4,2, dass ein Haushalter treu erfunden werden muss: Er hat dem Besitzer Rede zu stehen, nicht dem Gesinde. Lukas 16,1-8 dreht sich um dasselbe Amt, und das Wort Ökonomie kommt von diesem Titel."
+        },
+        {
+          "term": "Ein Schauspiel für die ganze Welt",
+          "original": "Greek: θέατρον (theatron)",
+          "note": "Theatron ist das Theater und übertragen die Vorstellung, die darin gegeben wird. Paulus sagt in 4,9, Gott habe die Apostel als die Letzten des Zuges hingestellt, gleichsam zum Tod bestimmte Gefangene. In einem römischen Triumph kamen die verurteilten Gefangenen zuletzt und wurden an seinem Ende hingerichtet. Korinth war eine römische Kolonie mit eigenem Theater, und Paulus greift in 1. Korinther 9,24-27 erneut nach den Wettkämpfen."
         }
       ],
-      "keyTakeaway": "Paulus weist die Korinther an, die Apostel als treue Verwalter der Geheimnisse Gottes zu betrachten, warnt vor voreiligem Urteilen und stellt das Leiden und die Mühsal der Apostel dem Wohlergehen und dem Hochmut der Korinther gegenüber. Er kündigt an, dass Timotheus kommen wird, um sie an seine Wege zu erinnern, droht mit einem baldigen Besuch in Zucht oder Sanftmut und betont, dass Gottes Reich in Kraft besteht, nicht in bloßen Worten.",
+      "keyTakeaway": "Paulus weist die Korinther an, die Apostel als treue Haushalter der Geheimnisse Gottes zu betrachten, warnt vor vorschnellem Urteil und stellt dem Leiden und der Not der Apostel die Bequemlichkeit und den Hochmut der Korinther gegenüber. Er kündigt an, dass Timotheus kommt, um sie an seine Wege zu erinnern, droht mit einem baldigen Besuch, entweder mit Zucht oder mit Sanftmut, und stellt fest, dass Gottes Reich in Kraft wirkt und nicht in bloßen Worten.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -278,29 +331,34 @@
         "Die aber außerhalb sind, richtet Gott. So tut den Bösen aus eurer Mitte hinweg! (5:13)."
       ],
       "crossRefs": [
-        "3. Mose 18,8: Verbot, die Blöße der Frau des Vaters aufzudecken.",
-        "5. Mose 17,7: Schafft das Böse aus eurer Mitte weg.",
-        "Galater 5,9: Ein wenig Sauerteig durchsäuert den ganzen Teig.",
-        "2. Mose 12,21: Das Passalamm geopfert."
+        "Levitikus 18:8: Verbot, die Blöße der Frau des Vaters aufzudecken.",
+        "Deuteronomium 17:7: Schafft das Böse aus eurer Mitte weg.",
+        "Galater 5:9: Ein wenig Sauerteig durchsäuert den ganzen Teig.",
+        "Exodus 12:21: Das Passahlamm geschlachtet."
       ],
       "translationNotes": [
         {
           "term": "Frau des Vaters",
           "original": "Hebrew: אֵשֶׁת אָב (ʾēšet ʾāb), Greek: γυναῖκα τοῦ πατρός (gynaῖka toῦ patrόs, NT), Aramaic: אתת אבא (אתת אבא)",
-          "note": "Bezieht sich auf eine Stiefmutter; verbotene Beziehung in 3. Mose 18,8 und 5. Mose 22,30."
+          "note": "Bezeichnet die Stiefmutter; ein verbotenes Verhältnis nach 3. Mose 18,8 und 5. Mose 22,30."
         },
         {
           "term": "Dem Satan übergeben",
           "original": "Hebrew: נָתַן לְשָׂטָן (nātan ləšāṭān, sense), Greek: παραδοῦναι τῷ Σατανᾷ (paradoῦnai tῷ Satanᾷ, NT), Aramaic: מסר לשטן (מסר לשטן)",
-          "note": "Ausdruck für den Ausschluss aus dem Schutzbereich der Gemeinde, wodurch der Übeltäter den Konsequenzen ausgesetzt wird."
+          "note": "Wendung für den Ausschluss aus dem schützenden Bereich der Gemeinde, wodurch der Schuldige den Folgen ausgesetzt wird."
         },
         {
           "term": "Sauerteig",
           "original": "Hebrew: חָמֵץ (ḥāmēṣ), Greek: ζύμη (zύmē, NT), Aramaic: חמיעא (חמיעא)",
-          "note": "Symbol für Verderbnis, die sich in der ganzen Gemeinschaft ausbreitet."
+          "note": "Sinnbild des Verderbens, das sich durch die ganze Gemeinschaft ausbreitet."
+        },
+        {
+          "term": "Nicht einmal unter den Heiden",
+          "original": "Greek: ἔθνη (ethne), the nations",
+          "note": "Paulus sagt in 5,1, dieser Fall würde die Heiden entsetzen, und er stellt damit eine Rechtstatsache fest und übertreibt nicht. Das römische Recht verbot einem Mann die Ehe mit seiner Stiefmutter ebenso streng wie 3. Mose 18,8 und 5. Mose 22,30, und ein römisches Gericht hätte die Verbindung als nichtig behandelt. Die Gemeinde duldete also etwas, das die umgebende Stadt verfolgt hätte, und darum lautet die Antwort des Paulus in 5,2, dass sie sich dessen rühmten."
         }
       ],
-      "keyTakeaway": "Paulus tadelt die Korinther dafür, dass sie sexuelle Unmoral dulden, und weist sie an, den Sünder auszuschließen und die Heiligkeit der Gemeinde zu bewahren.",
+      "keyTakeaway": "Paulus tadelt die Korinther, weil sie Unzucht dulden, und weist sie an, den Schuldigen zu entfernen und die Heiligkeit in der Gemeinschaft zu wahren.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -337,34 +395,54 @@
         "Denn ihr seid teuer erkauft; darum verherrlicht Gott in eurem Leib und in eurem Geist, die Gott gehören! (6:20)."
       ],
       "crossRefs": [
-        "Matthäus 19,28: Die Apostel werden die zwölf Stämme richten.",
-        "Daniel 7,22: Die Heiligen empfangen das Reich und richten.",
-        "3. Mose 18,22: Ein Mann soll nicht bei einem Mann liegen.",
-        "Galater 5,19–21: Lasterkatalog der Werke des Fleisches."
+        "Matthäus 19:28: Die Apostel werden die zwölf Stämme richten.",
+        "Daniel 7:22: Die Heiligen empfangen das Reich und richten.",
+        "Levitikus 18:22: Ein Mann soll nicht bei einem Mann liegen.",
+        "Galater 5:19-21: Die Liste der Werke des Fleisches."
       ],
       "translationNotes": [
         {
           "term": "Unzüchtige",
           "original": "Hebrew: זוֹנִים (zōnîm), Greek: πόρνοι (pornoi, NT), Aramaic: זנאי (זנאי)",
-          "note": "Allgemeiner Begriff für Menschen, die in sexueller Unmoral außerhalb der Ehe leben."
+          "note": "Allgemeiner Ausdruck für die, welche geschlechtliche Unzucht außerhalb der Ehe treiben."
         },
         {
           "term": "Passive homosexuelle Partner",
           "original": "Hebrew: מְרֻכָּכִים (sense, effeminate), Greek: μαλακοί (malakoi, NT), Aramaic: מַלָּכִין (מַלָּכִין)",
-          "note": "Wörtlich „Weichlinge“; historisch verwendet für weibische Männer oder passive Partner im gleichgeschlechtlichen Verkehr."
+          "note": "Wörtlich „die Weichen“; von jeher für verweichlichte Männer oder für die passiven Partner beim Verkehr unter Männern gebraucht; diese Übersetzung liest „Weichlinge“."
         },
         {
           "term": "Aktive homosexuelle Partner",
           "original": "Hebrew: מִשְׁכַּב זָכָר (Lev 18:22 phrase), Greek: ἀρσενοκοῖται (arsenokoitai, NT), Aramaic: דמִשְׁכַּב דִּכְרָא (דמִשְׁכַּב דִּכְרָא)",
-          "note": "Direkt geprägt aus der LXX von Levitikus, „Männerbett“; bezieht sich auf Männer, die als aktive Partner mit Männern geschlechtlich verkehren."
+          "note": "Unmittelbar aus dem griechischen 3. Buch Mose gebildet, „Mann-Bett“; bezeichnet Männer, die als aktive Partner Geschlechtsverkehr mit Männern haben; diese Übersetzung liest „Knabenschänder“."
         },
         {
           "term": "Lästerer",
           "original": "Hebrew: מְחָרֵף (məḥārēp, sense), Greek: λοίδοροι (loίdoroi, NT), Aramaic: מְחַסֵּף (מְחַסֵּף)",
-          "note": "Verbal beleidigende oder verleumderische Menschen."
+          "note": "Menschen, die mit Worten schmähen oder verleumden."
+        },
+        {
+          "term": "Vor den Ungerechten Recht suchen",
+          "original": "Greek: βῆμα (bema), the raised platform a magistrate judged from",
+          "note": "Ein Zivilprozess in einer römischen Kolonie wurde auf dem offenen Forum verhandelt, auf einer erhöhten steinernen Bühne, vor jedem, der gerade dabeistand. Das Verfahren begünstigte den Rang ganz offen: Ein Mann von Ansehen konnte von einem gesellschaftlich Geringeren nicht ohne Weiteres vor Gericht gezogen werden, und die Geschworenen kamen aus den Besitzenden. Ein Rechtsstreit zwischen zwei Gläubigen in Korinth hieß also, dass der eine die Verbindungen hatte, ihn anzustrengen, und der andere nicht. Apostelgeschichte 18,12-17 zeigt dieselbe Bühne im Gebrauch, wo der Statthalter Gallio die Anklage gegen Paulus anhört und sie dann abweist."
+        },
+        {
+          "term": "Woher das Wort arsenokoitai bei Paulus kommt",
+          "original": "Greek (LXX) Leviticus 18:22: μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός - Greek (LXX) Leviticus 20:13: ὃς ἂν κοιμηθῇ μετὰ ἄρσενος κοίτην γυναικός - Greek: ἀρσενοκοῖται (arsenokoitai), singular ἀρσενοκοίτης (arsenokoites)",
+          "note": "Das Wort arsenokoitai bei Paulus, in 1. Korinther 6,9 und 1. Timotheus 1,10, bedeutet Männer, die bei Männern liegen. Wörtlich heißt es Mann-Beschläfer: Männer, die geschlechtliche Handlungen mit anderen Männern vollziehen. Koite ist das gewöhnliche griechische Wort für ein Bett und der stehende Ausdruck für den Geschlechtsverkehr, und so gebraucht es das Neue Testament selbst in Römer 13,13 und Hebräer 13,4. Das Wort ist eine seltene Zusammensetzung, und seine beiden Hälften stehen im griechischen Alten Testament in zwei Versen unmittelbar nebeneinander: 3. Mose 18,22 liest meta arsenos ou koimethese koiten gynaikos, und 3. Mose 20,13 liest hos an koimethe meta arsenos koiten gynaikos, wo arsenos und koiten benachbart stehen."
+        },
+        {
+          "term": "Malakoi",
+          "original": "Greek: μαλακοί (malakoi), from μαλακός (malakos), soft",
+          "note": "Malakos bedeutet weich. Sein gewöhnlicher Gebrauch ist leiblich: Matthäus 11,8 und Lukas 7,25 gebrauchen es beide von feiner Kleidung, von einem Mann in weichen Kleidern im Haus eines Königs. In der Aufzählung von 1. Korinther 6,9 steht es unmittelbar vor arsenokoitai, und in dieser Paarung bezeichnet es den, der bei geschlechtlichen Handlungen unter Männern den passiven Teil übernimmt, während arsenokoitai den aktiven bezeichnet. Paulus stellt beide in dieselbe Liste, zusammen mit den Unzüchtigen, Götzendienern, Ehebrechern, Dieben, Habsüchtigen, Trunkenbolden, Lästerern und Räubern."
+        },
+        {
+          "term": "Euer Leib ist ein Tempel",
+          "original": "Greek: ναός (naos), the inner sanctuary - ἱερόν (hieron), the temple complex",
+          "note": "Das Griechische hat zwei Wörter für den Tempel, und 1. Korinther 6,19 gebraucht das engere. Hieron umfasst den ganzen Bezirk, Höfe und Säulenhallen und alles; Markus 11,15 gebraucht es zweimal für das Gelände, das Jesus von den Händlern räumt. Naos ist das Heiligtum selbst, der Raum, den die Gegenwart einnahm und den kein gewöhnlicher Anbeter betrat. Naos ist das Wort, das Paulus hier auf den Leib des Gläubigen legt, und er hatte es in 1. Korinther 3,16 bereits auf die Gemeinde gelegt."
         }
       ],
-      "keyTakeaway": "Paulus tadelt Gläubige wegen Rechtsstreitigkeiten, nennt dann ausdrücklich Sünden, die vom Reich Gottes ausschließen, und erinnert sie daran, dass sie in Christus gewaschen und geheiligt wurden.",
+      "keyTakeaway": "Paulus tadelt die Gläubigen wegen ihrer Rechtsstreitigkeiten, zählt dann ausdrücklich Sünden auf, die vom Reich Gottes ausschließen, und erinnert sie daran, dass sie in Christus abgewaschen und geheiligt worden sind.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -425,24 +503,34 @@
         "Glückseliger aber ist sie nach meinem Urteil, wenn sie so bleibt; ich denke aber, dass auch ich den Geist Gottes habe. (7:40)."
       ],
       "crossRefs": [
-        "1. Mose 2,24: Der Mann wird Vater und Mutter verlassen und an seiner Frau hangen.",
-        "Matthäus 5,32: Jesus über Scheidung und Wiederheirat.",
-        "Maleachi 2,16: Gott hasst Scheidung.",
-        "Apostelgeschichte 15,20: Anweisung bezüglich der Heiden und sexueller Unmoral."
+        "Genesis 2:24: Der Mann wird Vater und Mutter verlassen und seiner Frau anhängen.",
+        "Matthäus 5:32: Jesus über Scheidung und Wiederheirat.",
+        "Maleachi 2:16: Gott hasst die Ehescheidung.",
+        "Apostelgeschichte 15:20: Anweisung an die Heiden zur Unzucht."
       ],
       "translationNotes": [
         {
           "term": "Eheliche Pflicht",
           "original": "Hebrew: עֹנָה (ʿōnāh), Greek: τὴν ὀφειλήν (tὴn ὀpheilήn, NT), Aramaic: חובתא (חובתא)",
-          "note": "Bezieht sich auf die eheliche Pflicht des Geschlechtsverkehrs zwischen den Ehepartnern."
+          "note": "Bezeichnet die eheliche Pflicht zum geschlechtlichen Verkehr, die sich die Eheleute schulden."
         },
         {
-          "term": "Vor Verlangen brennen",
+          "term": "Vor Begierde brennen",
           "original": "Hebrew: לִבְעֹר בְּתַאֲוָה (libəʿōr bətaʾăwāh, sense), Greek: πυροῦσθαι (pyroῦsthai, NT), Aramaic: אתלהט בתאוותא (אתלהט בתאוותא)",
-          "note": "Metapher für unkontrolliertes sexuelles Verlangen; die Ehe wird als angemessenes Ventil gegeben."
+          "note": "Bild für unbeherrschtes geschlechtliches Verlangen; die Ehe wird als der rechte Weg dafür gegeben."
+        },
+        {
+          "term": "Wenn du frei werden kannst",
+          "original": "Greek: ἀπελεύθερος (apeleutheros) - ἐξαγοράζω (exagorazo)",
+          "note": "Die Sklaverei der römischen Welt hatte Ausgänge. Ein Herr konnte einen Sklaven in seinem Testament oder durch einen förmlichen Akt vor einem Beamten freilassen, und ein Sklave konnte sich mit dem peculium freikaufen, den Ersparnissen, die sein Herr ihm zu behalten erlaubte; wurde er von einem Bürger förmlich freigelassen, wurde er selbst Bürger, schuldete seinem alten Herrn als Patron aber weiterhin festgelegte Dienste. In Delphi wurden Tausende von Sklaven durch eine Rechtsfiktion freigelassen, bei der der Gott Apollo sie kaufte, und die Verträge sind in die Tempelmauer gehauen. Das ist die Welt von 7,21-23, wo Paulus sagt, der Freigelassene des Herrn sei ein Sklave Christi, und „ihr seid teuer erkauft“."
+        },
+        {
+          "term": "Verlobung",
+          "original": "Greek: παρθένος (parthenos) - γαμίζω (gamizo)",
+          "note": "Die Verlobung war keine Verlobung im heutigen Sinn. Sie war ein bindender Vertrag, der das Paar von Rechts wegen zu Mann und Frau machte, ehe es zusammenlebte, ihre Auflösung erforderte also eine Scheidung; darum will Josef, der mit Maria verlobt war, sie in Matthäus 1,18-19 heimlich entlassen. Mädchen wurden gewöhnlich jung verlobt, und die Väter schlossen die Vereinbarung, und das ist der Hintergrund von 7,36-38, wo der Mann, der entscheidet, derjenige ist, der über die Ehe zu bestimmen hat."
         }
       ],
-      "keyTakeaway": "Paulus gibt Anweisungen zu Ehe, Ehelosigkeit und dem Verbleiben in der eigenen Berufung, mit Betonung von Heiligkeit, Frieden und Treue.",
+      "keyTakeaway": "Paulus gibt Anweisungen über Ehe, Ehelosigkeit und das Bleiben in der eigenen Berufung und legt dabei Gewicht auf Heiligkeit, Frieden und Treue.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -484,24 +572,34 @@
         "Darum, wenn eine Speise meinem Bruder ein Anstoß [zur Sünde] wird, so will ich lieber in Ewigkeit kein Fleisch essen, damit ich meinem Bruder keinen Anstoß [zur Sünde] gebe. (8:13)."
       ],
       "crossRefs": [
-        "5. Mose 6,4: Der Herr ist einer.",
-        "Psalm 24,1: Die Erde ist des Herrn.",
-        "Römer 14,20–21: Zerstöre nicht das Werk Gottes um der Speise willen.",
-        "1. Thessalonicher 5,11: Erbaut einander."
+        "Deuteronomium 6:4: Der HERR ist einer.",
+        "Psalmen 24:1: Dem Herrn gehört die Erde.",
+        "Römer 14:20-21: Zerstöre nicht um einer Speise willen das Werk Gottes.",
+        "1. Thessalonicher 5:11: Erbaut einander."
       ],
       "translationNotes": [
         {
           "term": "Götzenopferfleisch",
           "original": "Hebrew: זִבְחֵי אֱלִילִים (zibəḥēy ʾĕliyliym), Greek: εἰδωλόθυτα (eἰdōlόthyta, NT), Aramaic: דבחי פסילי (דבחי פסילי)",
-          "note": "Bezieht sich auf Fleisch von Opfern in heidnischen Tempeln; ein wichtiges Thema in Korinth mit sozialen und religiösen Auswirkungen."
+          "note": "Bezeichnet Fleisch von Opfern in heidnischen Tempeln; ein großes Thema in Korinth, mit gesellschaftlichen und religiösen Folgen."
         },
         {
           "term": "Anstoß",
           "original": "Hebrew: מִכְשׁוֹל (mikəšwōl), Greek: πρόσκομμα (prόskomma, NT), Aramaic: תקלא (תקלא)",
           "note": "Bildlich für etwas, das einen anderen geistlich zu Fall bringt."
+        },
+        {
+          "term": "Zu Tisch im Götzentempel",
+          "original": "Greek: ἐν εἰδωλείῳ κατακείμενον (en eidoleio katakeimenon)",
+          "note": "Die Tempel der Antike waren ebenso Speisehäuser wie Orte des Opfers. Das Heiligtum des Asklepios in Korinth hatte Speiseräume mit fest eingebauten Steinliegen, und die Einladungen sind erhalten: Ein ägyptischer Papyrus liest sich so: „Chairemon lädt dich ein, morgen, am fünfzehnten, zur neunten Stunde am Tisch des Herrn Serapis im Serapeion zu speisen.“ Zunftessen, Hochzeiten und Feste der Stadt fanden alle auf Tempelgrund statt, ein Gläubiger, der sie ablehnte, verlor also mit einem Schlag sein Geschäft und sein gesellschaftliches Leben. Das ist der Vorgang in 8,10."
+        },
+        {
+          "term": "Den Korinthern ihre eigenen Sätze vorhalten",
+          "original": "Greek: γνῶσις (gnosis)",
+          "note": "Das Altgriechische wurde ohne Anführungszeichen geschrieben, ein Übersetzer muss also entscheiden, wo eine zitierte Zeile aufhört. Mehrere kurze Sätze hier lesen sich als Schlagworte der Korinther, die Paulus wiederholt, ehe er antwortet: „Wir alle haben Erkenntnis“ (8,1), „ein Götze ist nichts in der Welt“ und „es gibt keinen anderen Gott außer dem Einen“ (8,4). Neuere Ausgaben setzen einige davon in Anführungszeichen und andere nicht, und das ist eine Entscheidung der Herausgeber und nichts, was das Griechische kennzeichnet."
         }
       ],
-      "keyTakeaway": "Paulus bekräftigt, dass Götzen nichts sind und Speise gleichgültig ist, besteht aber darauf, dass die Liebe das Wissen leiten muss, um die Schwachen nicht zum Straucheln zu bringen.",
+      "keyTakeaway": "Paulus bekräftigt, dass Götzen nichts sind und Speise gleichgültig ist, besteht aber darauf, dass die Liebe die Erkenntnis regieren muss, damit die Schwachen nicht zu Fall kommen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -545,24 +643,34 @@
         "sondern ich bezwinge meinen Leib und beherrsche ihn, damit ich nicht anderen verkündige und selbst verwerflich werde. (9:27)."
       ],
       "crossRefs": [
-        "5. Mose 25,4: Binde dem dreschenden Ochsen das Maul nicht zu.",
-        "Lukas 10,7: Der Arbeiter ist seines Lohnes wert.",
-        "Philipper 3,14: Jagt dem Preis der himmlischen Berufung nach.",
-        "2. Timotheus 4,7–8: Die Krone der Gerechtigkeit."
+        "Deuteronomium 25:4: Du sollst dem Ochsen das Maul nicht verbinden, wenn er drischt.",
+        "Lukas 10:7: Der Arbeiter ist seines Lohnes wert.",
+        "Philipper 3:14: Dem Ziel entgegenjagen, dem Siegespreis der himmlischen Berufung.",
+        "2. Timotheus 4:7-8: Die Krone der Gerechtigkeit."
       ],
       "translationNotes": [
         {
-          "term": "Kranz",
+          "term": "Siegeskranz",
           "original": "Hebrew: עֲטֶרֶת (ʿăṭeret, sense), Greek: στέφανος (stέphanos, NT), Aramaic: כלילא (כלילא)",
-          "note": "Bezieht sich auf den Siegeskranz bei sportlichen Wettkämpfen; Paulus stellt vergängliche und unvergängliche Belohnung gegenüber."
+          "note": "Bezeichnet den Kranz des Siegers bei den Wettkämpfen; Paulus stellt den vergänglichen dem unvergänglichen Lohn gegenüber."
         },
         {
-          "term": "Verworfen",
+          "term": "Verwerflich",
           "original": "Hebrew: נִמְאָס (niməʾās, sense), Greek: ἀδόκιμος (ἀdόkimos, NT), Aramaic: פסילא (פסילא)",
-          "note": "Bedeutet abgelehnt oder bei der Prüfung durchgefallen; Paulus wendet es metaphorisch auf sich selbst an, falls er undiszipliniert wäre."
+          "note": "Bedeutet verworfen oder in der Prüfung durchgefallen; Paulus wendet es im Bild auf sich selbst an, falls er ohne Zucht lebte."
+        },
+        {
+          "term": "Die Isthmischen Spiele",
+          "original": "Greek: ἀγών (agon) - στάδιον (stadion)",
+          "note": "Korinth richtete die Isthmischen Spiele im Heiligtum des Poseidon wenige Meilen vor der Stadt aus, alle zwei Jahre gehalten und im Ansehen nur von Olympia übertroffen, die Leserschaft, an die Paulus schreibt, hatte die Wettkämpfe, die er beschreibt, also gesehen. Die Wettkämpfer schworen einen Eid und trainierten monatelang unter Aufsicht, ehe sie zugelassen wurden; in Olympia lautete die Regel zehn Monate, den letzten davon vor Ort. Der Preis war ein Kranz, am Isthmus aus wildem Eppich und später aus Kiefer, und er war binnen weniger Tage tot, und darauf zielt der vergängliche Siegeskranz in 9,25."
+        },
+        {
+          "term": "Luftstreiche",
+          "original": "Greek: ὑπωπιάζω (hypopiazo)",
+          "note": "Das Verb in 9,27 bedeutet, unter das Auge zu schlagen, einem Mann ein blaues Auge zu schlagen. Der griechische Faustkampf kannte keine Runden, keine Gewichtsklassen und keine gepolsterten Handschuhe; die Kämpfer wickelten ihre Hände in Lederriemen, und der Kampf lief, bis einer am Boden lag oder einen Finger hob, um aufzugeben. Paulus sagt, dass er nicht ins Leere schlägt und dass der Leib, den er trifft, sein eigener ist."
         }
       ],
-      "keyTakeaway": "Paulus legt seine apostolischen Rechte dar, zeigt jedoch, dass er auf sie um des Evangeliums willen verzichtet, und veranschaulicht dies mit sportlicher Disziplin im Blick auf den Siegespreis.",
+      "keyTakeaway": "Paulus legt seine Rechte als Apostel dar, zeigt aber, dass er um des Evangeliums willen auf sie verzichtet, und veranschaulicht es mit der Zucht des Wettkämpfers, der den Siegespreis gewinnen will.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -616,24 +724,34 @@
         "so wie auch ich in allen Stücken allen zu Gefallen lebe und nicht meinen Nutzen suche, sondern den der vielen, damit sie gerettet werden. (10:33)."
       ],
       "crossRefs": [
-        "2. Mose 32,6: Das Volk setzte sich, um zu essen und zu trinken, und stand auf, um zu spielen.",
-        "4. Mose 25,1–9: Israels Unmoral bei Baal-Peor.",
-        "4. Mose 21,6: Schlangen unter dem Volk gesandt.",
-        "5. Mose 32,17: Opfer für Dämonen dargebracht."
+        "Exodus 32:6: Das Volk setzte sich nieder, um zu essen und zu trinken, und stand auf, um zu spielen.",
+        "Numeri 25:1-9: Israels Unzucht bei Baal-Peor.",
+        "Numeri 21:6: Schlangen, unter das Volk gesandt.",
+        "Deuteronomium 32:17: Opfer, den Dämonen dargebracht."
       ],
       "translationNotes": [
         {
           "term": "Niedergestreckt",
           "original": "Hebrew: נָפַל (nāpal, sense), Greek: κατεστρώθησαν (katestrώthēsan, NT), Aramaic: נפיל (נפיל)",
-          "note": "Bedeutet zu Boden geschlagen; beschreibt Israels Tod in der Wüste."
+          "note": "Bedeutet erschlagen oder zu Boden geworfen; beschreibt das Sterben Israels in der Wüste."
         },
         {
           "term": "Kelch des Segens",
           "original": "Hebrew: כּוֹס בְּרָכָה (kwōs bərākāh), Greek: ποτήριον τῆς εὐλογίας (potήrion tῆs eὐlogίas, NT), Aramaic: כסא דבִרכָתא (כסא דבִרכָתא)",
-          "note": "Name für den Kelch beim jüdischen Segensspruch; Paulus wendet ihn auf das Herrenmahl an."
+          "note": "Name für den Kelch, über dem beim jüdischen Mahl der Segen gesprochen wurde; Paulus wendet ihn auf das Mahl des Herrn an."
+        },
+        {
+          "term": "Der Fleischmarkt",
+          "original": "Greek: μάκελλον (makellon)",
+          "note": "Makellon ist die griechische Entlehnung des lateinischen macellum, der überdachten Markthalle einer Stadt für Fleisch und Fisch. Vieles, was dort hing, war von einem Tempelaltar gekommen, denn der Anteil der Priester an einem Opfer wurde gegen Bargeld weiterverkauft. Plinius der Jüngere berichtet in einem Schreiben an Kaiser Trajan um 112 n. Chr., dass Opferfleisch dort, wo sich die Christen ausgebreitet hatten, seit Kurzem fast keine Käufer mehr fand, was zeigt, dass der Handel wirklich bestand und dass die Gläubigen dafür bekannt waren, ihn zu meiden. Die Entscheidung des Paulus in 10,25 lautet, zu kaufen und zu essen, ohne den Fleischer auszufragen."
+        },
+        {
+          "term": "Gemeinschaft",
+          "original": "Greek: κοινωνία (koinonia) - κοινωνός (koinonos)",
+          "note": "Koinonia heißt, etwas gemeinsam zu haben, und es war gewöhnliche Geschäftssprache: koinonoi waren Teilhaber eines Unternehmens, und genau so nennt Lukas 5,10 Jakobus und Johannes im Fischereibetrieb des Simon. In 10,16-21 gebraucht Paulus es vom Kelch und vom Brot und dann vom Tisch der Dämonen, und die Schärfe liegt in der gemeinsamen Eigentümerschaft, nicht in einem warmen Gefühl. „Gemeinschaft“ und „Anteilhaben“ schwächen das im Deutschen beide ab."
         }
       ],
-      "keyTakeaway": "Paulus warnt anhand der Geschichte Israels vor Götzendienst, Unzucht und der Versuchung Gottes und stellt fest, dass die Teilnahme am Tisch des Herrn mit Götzendienst unvereinbar ist.",
+      "keyTakeaway": "Paulus warnt aus der Geschichte Israels davor, in Götzendienst, Unzucht oder die Versuchung Gottes zu fallen, und bekräftigt, dass die Teilhabe am Tisch des Herrn mit dem Götzendienst unvereinbar ist.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -692,19 +810,34 @@
         "Wenn aber jemand hungrig ist, so esse er daheim, damit ihr nicht zum Gericht zusammenkommt. Das Übrige will ich anordnen, sobald ich komme. (11:34)."
       ],
       "crossRefs": [
-        "Psalm 24,1: Die Erde ist des Herrn.",
-        "Römer 14,20–21: Zerstöre nicht das Werk Gottes um der Speise willen.",
-        "Philipper 2,4: Achtet auf die Interessen anderer.",
-        "Kolosser 3,17: Tut alles im Namen des Herrn."
+        "Psalmen 24:1: Dem Herrn gehört die Erde.",
+        "Römer 14:20-21: Zerstöre nicht um einer Speise willen das Werk Gottes.",
+        "Philipper 2:4: Seht auf das, was den anderen dient.",
+        "Kolosser 3:17: Tut alles im Namen des Herrn."
       ],
       "translationNotes": [
         {
           "term": "Gewissen",
           "original": "Hebrew: מַצְפּוּן (maṣəpwn, sense), Greek: συνείδησις (syneίdēsis, NT), Aramaic: תֵּאוּת דְּלִבָּא (תֵּאוּת דְּלִבָּא)",
-          "note": "Innere Fähigkeit des moralischen Bewusstseins; Paulus betont die Rücksicht auf das Gewissen des anderen, nicht nur auf das eigene."
+          "note": "Das innere Vermögen der sittlichen Wahrnehmung; Paulus betont die Rücksicht auf das Gewissen des anderen, nicht nur auf das eigene."
+        },
+        {
+          "term": "Bedecktes und unbedecktes Haupt",
+          "original": "Greek: κατὰ κεφαλῆς ἔχων (kata kephales echon)",
+          "note": "Korinth war eine römische Kolonie, und seine führenden Männer kleideten sich römisch. Ein Römer von Rang zog beim Opfer und beim Gebet eine Falte seiner Toga über den Kopf, capite velato, und die Standbilder zeigen es; griechische Männer opferten mit unbedecktem Kopf. Eine angesehene verheiratete Frau erschien in der Öffentlichkeit mit bedecktem Haupt, und unbedeckt auszugehen wurde als Aussage über ihren Stand gelesen. Beide Hälften von 11,4-16 zielen auf einen Raum, in dem diese Zeichen offenkundig waren und die für uns unsichtbar sind."
+        },
+        {
+          "term": "Rang bei einem römischen Gastmahl",
+          "original": "Greek: δεῖπνον (deipnon)",
+          "note": "Ein Speiseraum war ein triclinium, drei Liegen um einen Tisch, mit Platz für etwa neun; alle Übrigen aßen im Hof. Die Gastgeber stuften Speise und Wein gewöhnlich nach dem Rang des Gastes ab: Plinius der Jüngere beschreibt ein Gastmahl, bei dem der beste Wein an den Gastgeber und seine Freunde ging und der billigste an die Freigelassenen (Briefe 2,6), und Martial spottet in seinen Epigrammen über denselben Brauch. Die Wohlhabenden kamen außerdem früh, weil sie über ihre Zeit selbst bestimmten, während Arbeiter und Sklaven das nicht konnten. Das ist das Getriebe hinter 11,20-22, wo der eine hungrig und der andere betrunken ist."
+        },
+        {
+          "term": "Entschlafen",
+          "original": "Greek: κοιμάομαι (koimaomai)",
+          "note": "Das Verb bedeutet einschlafen, und 11,30 gebraucht es schlicht für Gläubige, die gestorben sind. Das Griechische bildete darauf das Hauptwort koimeterion, eine Schlafstätte, das über das Lateinische als „Zömeterium“ und in den heutigen Sprachen als „cemetery“ weiterlebt. Paulus gebraucht dasselbe Wort durch 15,6-20 hindurch für die Toten in Christus."
         }
       ],
-      "keyTakeaway": "Paulus lehrt die Gläubigen, ihre Freiheit verantwortungsvoll zu gebrauchen, das Wohl anderer zu suchen und alles zur Ehre Gottes zu tun.",
+      "keyTakeaway": "Paulus lehrt die Gläubigen, ihre Freiheit verantwortlich zu gebrauchen, das Beste der anderen zu suchen und alles zur Ehre Gottes zu tun.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -756,24 +889,34 @@
         "Strebt aber eifrig nach den vorzüglicheren Gnadengaben, und ich will euch einen noch weit vortrefflicheren Weg zeigen: (12:31)."
       ],
       "crossRefs": [
-        "Römer 12,4–8: Ein Leib, viele Glieder, verschiedene Gaben.",
-        "Epheser 4,11–13: Apostel, Propheten, Lehrer zum Aufbau gegeben.",
-        "Johannes 7,37–39: Trinkt vom Geist.",
-        "Galater 3,28: Weder Jude noch Grieche, Sklave noch Freier."
+        "Römer 12:4-8: Ein Leib, viele Glieder, verschiedene Gaben.",
+        "Epheser 4:11-13: Apostel, Propheten, Lehrer, gegeben zur Erbauung.",
+        "Johannes 7:37-39: Von einem Geist getränkt.",
+        "Galater 3:28: Weder Jude noch Grieche, weder Sklave noch Freier."
       ],
       "translationNotes": [
         {
-          "term": "Gaben",
+          "term": "Gnadengaben",
           "original": "Hebrew: מַתָּנוֹת (matānwōt), Greek: χαρίσματα (charίsmata, NT), Aramaic: מתנתא (מתנתא)",
-          "note": "Charismata bezeichnet Gnadengaben, die der Geist zum Dienst gibt."
+          "note": "Charismata bezeichnet Gaben der Gnade, die der Geist zum Dienst gibt."
         },
         {
-          "term": "Zungenreden (Sprachen)",
+          "term": "Sprachen (Zungenreden)",
           "original": "Hebrew: לָשׁוֹן (lāšōn), Greek: γλῶσσα (glōssa, NT), Aramaic: לִשָּׁן (lishān)",
-          "note": "Wörtlich „Zunge, Sprache“. In beiden Testamenten bezieht es sich auf wirkliche Sprachen. In Apostelgeschichte 2 befähigte der Geist die Gläubigen, fremde menschliche Sprachen zu sprechen, die von anderen verstanden wurden. In 1. Korinther 12–14 beschreibt dasselbe Wort geistgewirktes Reden, das Auslegung erfordern kann, wenn es nicht natürlich verstanden wird. Es handelt sich immer um echte, sinnvolle Kommunikation, nicht um sinnlose Silben."
+          "note": "Wörtlich „Zunge, Sprache“. In beiden Testamenten bezeichnet es wirkliche Sprachen. In Apostelgeschichte 2 befähigte der Geist die Gläubigen, fremde menschliche Sprachen zu reden, die andere verstanden. In 1. Korinther 12-14 beschreibt dasselbe Wort vom Geist gegebene Rede, die der Auslegung bedarf, wenn sie nicht von selbst verstanden wird. Es ist immer wirkliche, sinnvolle Mitteilung, keine sinnlosen Silben."
+        },
+        {
+          "term": "Ein Leib, viele Glieder",
+          "original": "Greek: σῶμα (soma) - μέλος (melos)",
+          "note": "Das Bild einer Gemeinschaft als eines Leibes, dessen Teile miteinander streiten, war ein fester Bestandteil der öffentlichen Rede der Antike. Livius erzählt, wie Menenius Agrippa den Auszug der Plebejer von 494 v. Chr. beendete, indem er der Menge die Fabel vom Bauch und den Gliedern erzählte, die die Arbeit gegen den Magen niederlegten und sich selbst aushungerten (Geschichte 2,32). Die Korinther hätten das Bild sofort wiedererkannt und hätten bemerkt, dass Paulus es umdreht: Sein Beweisgang schützt gerade die Teile, die der Leib schwächer und weniger ehrbar nennt (12,22-24)."
+        },
+        {
+          "term": "Hilfeleistungen und Leitung",
+          "original": "Greek: ἀντίλημψις (antilempsis) - κυβέρνησις (kybernesis)",
+          "note": "Zwei der Stücke in der Aufzählung von 12,28 verbergen sich hinter ihren deutschen Bezeichnungen. Antilempsis ist auf einem Verb gebildet, das heißt, etwas anzufassen, um es zu stützen, das Wort, das in Apostelgeschichte 20,35 für das Helfen der Schwachen und in Lukas 1,54 dafür steht, dass Gott sich Israels annimmt. Kybernesis ist die Arbeit des Steuermanns: Ein kybernetes ist der Lotse eines Schiffes, der Mann am Ruder in Apostelgeschichte 27,11 und Offenbarung 18,17. Die Gaben sind Stützen und Steuern, keine Schreibarbeit."
         }
       ],
-      "keyTakeaway": "Paulus erklärt, dass die Gnadengaben vielfältig, aber von einem Geist sind, vergleicht die Gemeinde mit einem Leib aus vielen Gliedern und ermahnt, die höheren Gaben zu erstreben, auf dem Weg der Liebe.",
+      "keyTakeaway": "Paulus erklärt, dass die Gaben des Geistes verschieden sind, aber von einem Geist kommen, vergleicht die Gemeinde mit einem Leib mit vielen Gliedern und ruft dazu auf, die größeren Gaben in Liebe zu erstreben.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -807,24 +950,34 @@
         "Nun aber bleiben Glaube, Hoffnung, Liebe, diese drei; die größte aber von diesen ist die Liebe. (13:13)."
       ],
       "crossRefs": [
-        "Johannes 13,35: Daran werden alle erkennen, dass ihr meine Jünger seid, wenn ihr Liebe untereinander habt.",
-        "Kolosser 3,14: Über alles zieht die Liebe an, die das Band der Vollkommenheit ist.",
-        "1. Johannes 4,8: Gott ist Liebe.",
-        "Hohelied 8,7: Viele Wasser können die Liebe nicht auslöschen."
+        "Johannes 13:35: Daran werden alle erkennen, dass ihr meine Jünger seid, wenn ihr einander liebt.",
+        "Kolosser 3:14: Über alles aber zieht die Liebe an, die das Band der Vollkommenheit ist.",
+        "1. Johannes 4:8: Gott ist Liebe.",
+        "Hoheslied 8:7: Viele Wasser können die Liebe nicht auslöschen."
       ],
       "translationNotes": [
         {
           "term": "Klingende Schelle",
           "original": "Hebrew: מְצִלְתַּיִם (məṣilətayim), Greek: κύμβαλον (kύmbalon, NT), Aramaic: צלצלא (צלצלא)",
-          "note": "Instrumentenreferenz; Metapher für Lärm ohne Substanz."
+          "note": "Verweis auf ein Instrument; Bild für Lärm ohne Gehalt."
         },
         {
-          "term": "Spiegel, undeutlich",
+          "term": "Wie im Rätsel sehen",
           "original": "Hebrew: מַרְאָה (marəʾāh), Greek: ἐν αἰνίγματι (ἐn aἰnίgmati, NT), Aramaic: בחידתא (בחידתא)",
-          "note": "Wörtlich „in einem Rätsel“; Korinth war bekannt für seine Bronzespiegel, die ein undeutliches Spiegelbild gaben."
+          "note": "Wörtlich „in einem Rätsel“; Korinth war für seine Bronzespiegel bekannt, die ein trübes Bild zurückwarfen."
+        },
+        {
+          "term": "Liebe",
+          "original": "Greek: ἀγάπη (agape) - ἔρως (eros) - φιλία (philia)",
+          "note": "Das Griechische hatte mehrere Wörter, die das Deutsche mit Liebe wiedergibt: eros für das Begehren, philia für die Zuneigung von Freunden und Verwandten, storge für die Bindung in der Familie und agape, das von allen am wenigsten festgelegt war. Es ist kein Wort, das von sich aus eine hohe Bedeutung trägt; das griechische Alte Testament gebraucht dasselbe Verb für Amnons Begehren nach Tamar in 2. Samuel 13,15. Paulus füllt es stattdessen: 13,4-7 bestimmt die Liebe mit fünfzehn Verben, mit dem, was sie tut und was sie nicht tut, und mit keinem einzigen Eigenschaftswort."
+        },
+        {
+          "term": "Kapitel und Vers",
+          "original": "",
+          "note": "Dieses Kapitel wurde nicht als eigenes Stück geschrieben. Es steht innerhalb eines einzigen Gedankengangs, der von Kapitel 12 bis Kapitel 14 über die Gaben in der Gemeinde läuft, und der Einschnitt bei 12,31 und 14,1 ist die Marke eines späteren Bearbeiters. Die Kapiteleinteilung wurde um 1227 von Stephan Langton, dem Erzbischof von Canterbury, eingefügt und die Verszählung von dem Drucker Robert Estienne in seinem griechischen Neuen Testament von 1551. Keines von beiden gehört zu dem Brief, den Paulus diktiert hat."
         }
       ],
-      "keyTakeaway": "Paulus beschreibt die Liebe als größer als alle Gaben und als dauerhafter als diese, unerlässlich für das wahre christliche Leben.",
+      "keyTakeaway": "Paulus beschreibt die Liebe als größer als alle Gaben und als bleibend über sie hinaus, unentbehrlich für ein wahrhaft christliches Leben.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -881,24 +1034,40 @@
         "Lasst alles anständig und ordentlich zugehen! (14:40)."
       ],
       "crossRefs": [
-        "Joel 2,28: Ich werde meinen Geist ausgießen, und sie werden weissagen.",
-        "Jesaja 28,11–12: Fremde Lippen als Zeichen.",
-        "1. Thessalonicher 5,19–20: Löscht den Geist nicht aus, verachtet die Weissagungen nicht.",
-        "4. Mose 12,6: Propheten empfangen Gesichte und Träume."
+        "Jesaja 28:11-12: Die Stelle, die Paulus in 14,21 anführt, wo Gott durch fremde Zungen und spottende Lippen zu diesem Volk redet und sie doch nicht hören wollen.",
+        "1. Korinther 11:5: Drei Kapitel zuvor in demselben Brief schreibt Paulus von jeder Frau, die betet oder weissagt, und was er dort zurechtrückt, ist ihr Haupt und nicht ihr Reden.",
+        "Joel 2:28-29: Der HERR verheißt, seinen Geist über alles Fleisch auszugießen, sodass Söhne und Töchter weissagen, Knechte und Mägde eingeschlossen.",
+        "Apostelgeschichte 21:9: Philippus der Evangelist hatte vier unverheiratete Töchter, die weissagten, schlicht berichtet in demselben Buch, das das anderthalbe Jahr des Paulus in Korinth festhält.",
+        "1. Thessalonicher 5:19-21: Löscht den Geist nicht aus und verachtet die Weissagungen nicht, prüft aber alles, und das ist die Prüfung, die 14,29 der Gemeinde übergibt."
       ],
       "translationNotes": [
         {
-          "term": "Zungenreden",
+          "term": "Sprachen",
           "original": "Hebrew: לָשׁוֹן (lāšwōn), Greek: γλῶσσα (glῶssa, NT), Aramaic: לִשָּׁן (לִשָּׁן)",
-          "note": "Wörtlich „Sprache“; kann sich auf menschliche Sprachen oder ekstatische Äußerungen beziehen."
+          "note": "Wörtlich „Sprache“; kann sich auf menschliche Sprachen oder auf verzückte Rede beziehen."
         },
         {
-          "term": "Frauen sollen schweigen",
-          "original": "Hebrew: חָרֵשׁ (ḥārēš, sense), Greek: σιγάτωσαν (sigάtōsan, NT), Aramaic: שתיק (שתיק)",
-          "note": "Diese Anweisung ist umstritten; wörtlich „schweigen“; der Kontext bezieht sich auf die Ordnung der Gemeinde und die Beurteilung von Weissagungen."
+          "term": "Schweigen",
+          "original": "Greek: σιγάω (sigao) - σιγάτω (sigato) - σιγάτωσαν (sigatosan)",
+          "note": "Ein Verb trägt innerhalb von sieben Versen drei getrennte Gebote. In 14,28 soll ein Mann, der in einer Sprache redet und keinen Ausleger hat, in der Gemeinde schweigen, sigato. In 14,30 soll der Mann, der bereits auf den Füßen steht, aufhören, wenn einem Sitzenden eine Offenbarung zuteilwird, wieder sigato. In 14,34 sollen die Frauen schweigen, sigatosan; und Paulus rahmt den ganzen Abschnitt in 14,33 mit „Gott ist nicht ein Gott der Unordnung, sondern des Friedens“ und schließt ihn in 14,40 mit „Lasst alles anständig und ordentlich zugehen“."
+        },
+        {
+          "term": "Wie auch das Gesetz sagt",
+          "original": "Greek: καθὼς καὶ ὁ νόμος λέγει (kathos kai ho nomos legei)",
+          "note": "Paulus beruft sich in 14,34 auf das Gesetz, ohne es zu zitieren oder die Stelle zu nennen, und so behandelt er die Schrift sonst nirgends in diesem Brief. In 9,9 schreibt er „im Gesetz Moses steht geschrieben“ und zitiert 5. Mose 25,4 über den Ochsen; in 14,21 schreibt er „im Gesetz steht geschrieben“ und zitiert Jesaja 28,11-12; in 15,54-55 stellt er Jesaja 25,8 und Hosea 13,14 Wort für Wort nebeneinander. In 14,34 gibt er keinen Text an."
+        },
+        {
+          "term": "Weissagen in Korinth",
+          "original": "Greek: προφητεύω (propheteuo)",
+          "note": "Die Weissagung ist das, wozu dieses Kapitel die Gemeinde von Anfang bis Ende drängt. 14,1 heißt sie, sie vor jeder anderen Gabe zu erstreben, 14,24-25 zeichnet einen Ungläubigen, der hereinkommt, während alle weissagen, und auf sein Angesicht fällt, 14,31 sagt „ihr könnt alle einer nach dem anderen weissagen, damit alle lernen und alle ermahnt werden“, und 14,39 schließt „strebt danach zu weissagen, und wehrt dem Reden in Sprachen nicht“. Paulus hat in diesem Brief bereits von Frauen geschrieben, die beten und weissagen (11,5)."
+        },
+        {
+          "term": "Myriade",
+          "original": "Greek: μυριάς (myrias)",
+          "note": "Zehntausend; auch redensartlich für „unzählbar“ gebraucht. Die „Zehntausende mal Zehntausende“ (myriades myriadon) von Engeln in Offenbarung 5,11 könnten wörtlich mindestens 100 Millionen sein, doch ist die Absicht natürlicher als „unzählbar“ zu lesen."
         }
       ],
-      "keyTakeaway": "Paulus stellt Prophetie und Zungenreden gegenüber und mahnt zu geordnetem Gottesdienst, zum Aufbau der Gemeinde und zur Unterwerfung unter das Gebot des Herrn.",
+      "keyTakeaway": "Paulus stellt Weissagung und Sprachenrede einander gegenüber und dringt auf geordneten Gottesdienst, auf die Erbauung der Gemeinde und auf die Unterordnung unter das Gebot des Herrn.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -977,24 +1146,34 @@
         "Darum, meine geliebten Brüder, seid fest, unerschütterlich, nehmt immer zu in dem Werk des Herrn, weil ihr wisst, dass eure Arbeit nicht vergeblich ist im Herrn! (15:58)."
       ],
       "crossRefs": [
-        "Jesaja 25,8: Er wird den Tod auf ewig verschlingen.",
-        "Hosea 13,14: O Tod, wo sind deine Plagen?",
-        "Psalm 110,1: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße mache.",
-        "Daniel 12,2: Viele, die im Staub der Erde schlafen, werden aufwachen."
+        "Jesaja 25:8: Er wird den Tod für immer verschlingen.",
+        "Hosea 13:14: Tod, wo sind deine Seuchen?",
+        "Psalmen 110:1: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße mache.",
+        "Daniel 12:2: Viele, die im Staub schlafen, werden aufwachen."
       ],
       "translationNotes": [
         {
-          "term": "Erstling",
-          "original": "Hebrew: בִּכּוּרִים (bikwriym), Greek: ἀπαρχή (ἀparchή, NT), Aramaic: בוכרא (בוכרא)",
-          "note": "Metapher aus der Ernte; Christi Auferstehung als die erste von vielen."
+          "term": "Für die Toten getauft",
+          "original": "Hebrew: טָבַל לַמֵּתִים (ṭābal lamētiym, sense), Greek: βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν (baptizόmenoi ὑpὲr tῶn nekrῶn, NT), Aramaic: עמד על מיתיא (עמד על מיתיא)",
+          "note": "Eine schwierige Wendung; sie bezeichnet einen Brauch in Korinth, sich in Bezug auf die Toten taufen zu lassen; Paulus gebraucht ihn als Beweisgang, ohne ihn gutzuheißen."
         },
         {
-          "term": "Taufe für die Toten",
-          "original": "Hebrew: טָבַל לַמֵּתִים (ṭābal lamētiym, sense), Greek: βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν (baptizόmenoi ὑpὲr tῶn nekrῶn, NT), Aramaic: עמד על מיתיא (עמד על מיתיא)",
-          "note": "Ein schwieriger Ausdruck; bezeichnet eine Praxis in Korinth der Taufe bezüglich der Toten; Paulus verwendet ihn rhetorisch, ohne sie zu bejahen."
+          "term": "Erstling",
+          "original": "Hebrew: בִּכּוּרִים (bikkurim)",
+          "note": "Der erste Teil jeder Ernte, der Gott dargebracht wurde, ehe der Rest gegessen werden durfte (2. Mose 23,19; 3. Mose 23,9-14). Paulus nennt den auferstandenen Christus „den Erstling der Entschlafenen“ (1. Korinther 15,20); die Bürgschaft, dass die ganze Ernte der Auferstehung folgen wird."
+        },
+        {
+          "term": "Überliefert und empfangen",
+          "original": "Greek: παραδίδωμι (paradidomi) - παραλαμβάνω (paralambano)",
+          "note": "Das Verbpaar in 15,3 ist ein Fachausdruck. Es sind die stehenden Wörter für das wortgetreue Weitergeben eines festen Lehrbestandes, und Paulus gebraucht dasselbe Paar in 11,23 für das Mahl des Herrn. Die jüdische Lehre gebrauchte die entsprechenden hebräischen Verben masar und qibbel: Die Mischna beginnt damit, dass Mose die Torah am Sinai empfängt und sie an Josua weitergibt und Josua an die Ältesten (Awot 1,1). Was in 15,3-5 folgt, ist daher zitiert und nicht aus dem Stegreif verfasst."
+        },
+        {
+          "term": "Schlechter Umgang verdirbt gute Sitten",
+          "original": "Greek: φθείρουσιν ἤθη χρηστὰ ὁμιλίαι κακαί (phtheirousin ethe chresta homiliai kakai)",
+          "note": "Die Zeile in 15,33 stammt nicht von Paulus. Sie ist ein Vers der griechischen Komödie aus Menanders Stück Thais, im üblichen Versmaß des Bühnendialogs, und sie war als Sprichwort in die Umgangssprache übergegangen, so wie es im Deutschen Zeilen aus Schiller sind. Er zitiert auch anderswo heidnische Dichtung: eine Zeile des Dichters Arat in Apostelgeschichte 17,28 und einen ungenannten kretischen Dichter in Titus 1,12."
         }
       ],
-      "keyTakeaway": "Paulus verkündigt das Evangelium von Christi Tod und Auferstehung, betont die Unabdingbarkeit der Auferstehung der Toten und warnt vor deren Leugnung sowie vor sündigen Lebenswandel.",
+      "keyTakeaway": "Paulus verkündigt das Evangelium von Tod und Auferstehung Christi, besteht darauf, dass die Auferstehung der Toten unverzichtbar ist, und warnt vor ihrer Leugnung und vor einem sündigen Leben.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1047,29 +1226,39 @@
         "Meine Liebe [ist] mit euch allen in Christus Jesus! Amen. (16:24)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 11,29–30: Hilfssendung an die Brüder in Judäa.",
-        "Römer 15,25–26: Paulus bringt Hilfe nach Jerusalem.",
-        "1. Thessalonicher 5,6: Seid wachsam und nüchtern.",
-        "2. Korinther 13,12: Grüßt einander mit heiligem Kuss."
+        "Apostelgeschichte 11:29-30: Hilfe, den Brüdern in Judäa gesandt.",
+        "Römer 15:25-26: Paulus bringt Unterstützung nach Jerusalem.",
+        "1. Thessalonicher 5:6: Seid wachsam und nüchtern.",
+        "2. Korinther 13:12: Grüßt einander mit dem heiligen Kuss."
       ],
       "translationNotes": [
         {
-          "term": "Erster Tag der Woche",
+          "term": "Erster Wochentag",
           "original": "Hebrew: יוֹם רִאשׁוֹן (ywōm riʾšwōn), Greek: μιᾷ σαββάτου (miᾷ sabbάtou, NT), Aramaic: חד בשבתא (חד בשבתא)",
-          "note": "Ausdruck für den Tag nach dem Sabbat; bezieht sich auf den Sonntag, an dem die Gläubigen zusammenkamen."
+          "note": "Ausdruck für den Tag nach dem Sabbat; er bezeichnet den Sonntag, an dem die Gläubigen zusammenkamen."
         },
         {
           "term": "Verflucht",
           "original": "Hebrew: חֵרֶם (ḥērem), Greek: ἀνάθεμα (ἀnάthema, NT), Aramaic: חרם (חרם)",
-          "note": "Bezeichnung für jemanden, der der Vernichtung geweiht oder unter dem Bann steht; hier für jeden, der den Herrn nicht liebt."
+          "note": "Ausdruck für einen, der dem Verderben geweiht ist oder unter dem Bann steht; hier von jedem, der den Herrn nicht lieb hat."
         },
         {
           "term": "Unser Herr, komm!",
           "original": "Hebrew: מָרַנָא תָּא (māranāʾ tāʾ, sense), Greek: Μαρὰν ἀθά (Marὰn ἀthά, NT transliteration), Aramaic: מָרַנָא תָּא (maranā tā)",
-          "note": "Aramäischer Ausdruck „Maranatha“, der „Unser Herr, komm!“ bedeutet und als Gebet im griechischen Text bewahrt ist."
+          "note": "Aramäische Wendung „Maranatha“ mit der Bedeutung „Unser Herr, komm!“, im griechischen Text als Gebet bewahrt."
+        },
+        {
+          "term": "Wie das Geld reisen sollte",
+          "original": "Greek: λογεία (logeia), a collection",
+          "note": "Es gab kein Bankwesen, um eine solche Summe zu bewegen. Münzen mussten leibhaftig von Männern zu Fuß und mit dem Schiff getragen werden, über Straßen, auf denen Raub so häufig war, dass Paulus ihn in 2. Korinther 11,26 unter seinen Gefahren aufzählt. Darum bittet 16,2 jeden Einzelnen, Woche für Woche etwas beiseitezulegen, statt am Ende zu hasten, und darum lässt 16,3 die Korinther ihre eigenen beglaubigten Überbringer wählen und sie mit Briefen aussenden. Römer 15,25-27 und Apostelgeschichte 24,17 berichten die Übergabe in Jerusalem."
+        },
+        {
+          "term": "Die Gemeinde, die sich in ihrem Haus versammelt",
+          "original": "Greek: κατ' οἶκον ἐκκλησία (kat oikon ekklesia)",
+          "note": "Es gab keine Kirchengebäude. Die Gemeinden kamen in Privathäusern zusammen, und 16,19 nennt das von Aquila und Priska als eines davon; Römer 16,23 nennt Gajus als Gastgeber der ganzen Gemeinde in Korinth. Das setzt der Zahl eine harte Grenze, und es teilt zugleich den Raum. Ein römischer Speiseraum fasste auf seinen drei Liegen etwa neun Personen; alle darüber hinaus aßen im Hof, wo Essen und Gesellschaft beide schlechter waren. Das ist der handfeste Grund, warum das gemeinsame Mahl auf die Weise zerfiel, die 11,20-22 beschreibt, wo der eine betrunken und der andere noch hungrig ist."
         }
       ],
-      "keyTakeaway": "Paulus schließt mit Anweisungen zur Kollekte, Reiseplänen, der Empfehlung von Mitarbeitern, Grüßen und einem abschließenden Segen.",
+      "keyTakeaway": "Paulus schließt mit Anweisungen zur Sammlung, mit Reiseplänen, mit der Empfehlung von Mitarbeitern, mit Grüßen und mit einem letzten Segen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1086,5 +1275,5 @@
       ]
     }
   ],
-  "intro": "1. Korinther wurde von dem Apostel Paulus verfasst (1. Korinther 1,1), mit Sosthenes, der in der einleitenden Begrüßung als Mitgrüßender genannt wird. Der Brief wurde in Ephesus um 55 n. Chr. verfasst, während Paulus' dreijährigen Dienstes dort auf seiner dritten Missionsreise (Apostelgeschichte 19; 1. Korinther 16,8: „Ich werde aber bis Pfingsten in Ephesus bleiben\"). Paulus hatte die korinthische Gemeinde auf seiner zweiten Missionsreise um 50-52 n. Chr. gegründet, einem in Apostelgeschichte 18,1-18 festgehaltenen achtzehnmonatigen Dienst; er hatte im Haus von Aquila und Priszilla gewohnt (jüdisch-christlichen Zeltmachern, die unter dem Erlass des Claudius gegen die Juden im Jahr 49 n. Chr. aus Rom vertrieben worden waren, Apostelgeschichte 18,2), an ihrer Seite an seinem Zeltmacherhandwerk gearbeitet und in der Synagoge und im Haus des Titius Justus gepredigt, nachdem er aus der Synagoge ausgeschlossen worden war (Apostelgeschichte 18,7). Der Sosthenes, der die Gemeinde in 1. Korinther 1,1 mitbegrüßt, ist höchstwahrscheinlich derselbe Sosthenes, der zur Zeit von Paulus' Dienst dort Vorsteher der korinthischen Synagoge gewesen war und der von der griechischen Menge geschlagen wurde, als Paulus vor den römischen Prokonsul Gallio gebracht wurde (Apostelgeschichte 18,17); er war offenbar in den Jahren nach Paulus' Abreise zum Gläubigen geworden. Die korinthische Gemeinde war zur Zeit des Schreibens des Paulus von Problemen geplagt: Mitglieder der „Leute der Chloe\" waren mit Berichten über Spaltungen und Unmoral in der Gemeinde zu Paulus nach Ephesus gekommen (1. Korinther 1,11), und die Korinther hatten Paulus auch einen Brief geschickt, in dem sie ihn um seinen Rat zu verschiedenen Fragen baten (1. Korinther 7,1). 1. Korinther ist tatsächlich der zweite Brief des Paulus an die Korinther; in 1. Korinther 5,9 verweist er auf einen früheren Brief („Ich habe euch in meinem Brief geschrieben, keinen Umgang mit Unzüchtigen zu haben\"), der nicht erhalten ist. Wenn man diesen verlorenen Brief mitzählt, schrieb Paulus mindestens vier Briefe nach Korinth: den verlorenen ersten Brief, unseren kanonischen 1. Korintherbrief, einen „strengen Brief\", der in 2. Korinther 2,3-4 erwähnt wird (ebenfalls verloren), und unseren kanonischen 2. Korintherbrief. Paulus (ursprünglich Saulus) wurde um 5-10 n. Chr. in Tarsus in Kilikien in einer hebräischen Familie aus dem Stamm Benjamin geboren und wurde in Jerusalem unter Gamaliel dem Pharisäer erzogen, vor seiner Bekehrung auf der Straße nach Damaskus und seinem apostolischen Dienst an den Heiden; er starb durch Enthauptung in Rom unter Nero um 66-67 n. Chr. als Märtyrer (siehe die Einleitung zum Römerbrief für die vollständige biographische Skizze).\n\nDer historische Schauplatz ist die wohlhabende, kosmopolitische, sexuell freizügige Hafenstadt Korinth in der römischen Provinz Achaja. Die ursprüngliche griechische Stadt Korinth war 146 v. Chr. vom römischen General Lucius Mummius zerstört worden; die Stadt war 44 v. Chr. von Julius Cäsar als römische Kolonie neu gegründet worden und wurde rasch zu einer der wichtigsten Handelsstädte des östlichen Mittelmeerraums. Korinth überspannte die sechs Kilometer breite Landenge von Korinth, die das griechische Festland mit der Peloponnes verband, und beherrschte zwei Häfen: Kenchreä auf der östlichen (ägäischen) Seite und Lechaion auf der westlichen (adriatischen) Seite. Schiffe, die zwischen Ost und West segelten, entluden oft ihre Ladungen, um sie auf dem Diolkos (einer gepflasterten Straße) über die Landenge tragen zu lassen, um die gefährliche Reise um Kap Malea an der Südspitze der Peloponnes zu vermeiden; kleinere Schiffe konnten sogar auf Rollen über die Landenge gezogen werden. Dieser Handel machte Korinth wohlhabend und brachte einen ständigen Strom von Seeleuten, Kaufleuten, Reisenden und Pilgern. Die Stadt war eine römische Kolonie, bewohnt von italischen Kolonisten, Freigelassenen, Militärveteranen und einer beträchtlichen jüdischen Minderheit. Religion war ein Marktplatz: der Aphrodite-Tempel auf der Akrokorinth (der Akropolis der Stadt) beschäftigte Tempelprostituierte, der Apollo-Tempel beherrschte das alte Forum, und Heiligtümer für Isis, Serapis, Asklepios, Demeter, Persephone und den römischen Kaiserkult waren alle in der Stadt in Betrieb. Korinths sexueller Ruf war so berüchtigt, dass das griechische Verb korinthiazomai („wie ein Korinther handeln\") zur Umgangssprache für „Unzucht treiben\" geworden war. Alle zwei Jahre richtete Korinth die Isthmischen Spiele aus, eines der vier großen panhellenischen Athletikfestivals; Paulus' Metaphern des athletischen Wettbewerbs in 1. Korinther 9,24-27 („den Lauf laufen\", „boxen\", „Selbstbeherrschung üben wie ein Athlet\", „der vergängliche Kranz\") wären für korinthische Leser, die mit den Isthmischen Spielen und den Pinienkränzen ihrer Sieger vertraut waren, sofort lebhaft gewesen.\n\n1. Korinther ist das sechsundvierzigste Buch der christlichen Bibel, das siebte Buch des Neuen Testaments und der zweite der dreizehn Briefe des Paulus in kanonischer Reihenfolge. Der Brief hat sechzehn Kapitel. Das früheste erhaltene Manuskript ist Papyrus 46 (P46, der Chester-Beatty-II-Papyrus, um 175-225 n. Chr.), der den Großteil des paulinischen Korpus einschließlich des 1. Korintherbriefs auf einem einzigen Codex bewahrt; weitere frühe Zeugen umfassen Papyrus 11 (P11, 7. Jahrhundert) und die vollständigen Abschriften im Codex Sinaiticus und Codex Vaticanus (beide 4. Jahrhundert n. Chr.). Mehrere Stellen des Briefes sind grundlegend für die christliche Lehre und Praxis geworden: 1. Korinther 11,23-26 enthält den frühesten schriftlichen Bericht über die Einsetzungsworte des Herrnmahls (mehrere Jahre vor den Evangelienberichten); 1. Korinther 13 ist der berühmte Hymnus auf die Liebe („Wenn ich mit Menschen- und mit Engelszungen redete und hätte die Liebe nicht ...\"). 1. Korinther 12-14 enthält auch die ausführlichste Lehre des Neuen Testaments über die Gabe der Zungenrede, die Paulus als ein Phänomen reguliert, das eine Auslegung zum Nutzen der Versammlung erfordert: „Wenn jemand in Zungen redet, so seien es zwei oder höchstens drei, und einer nach dem anderen, und einer lege es aus. Wenn aber kein Ausleger da ist, so schweige er in der Gemeinde, rede aber für sich und für Gott\" (1. Korinther 14,27-28). Paulus eröffnet 1. Korinther 13,1 mit „Zungen der Menschen und der Engel\" und lässt Raum für Sprachen jenseits gewöhnlicher menschlicher Rede, aber sein durchgängiger Punkt in den Kapiteln 12-14 ist, dass das griechische glossa (ob menschlich oder engelhaft) sich auf eine tatsächliche Sprache bezieht, die eine Übersetzung erfordert, um für den Hörer verständlich zu sein, weshalb die Auslegung in der öffentlichen Versammlung notwendig ist. 1. Korinther 15 enthält die früheste glaubensbekenntnisartige Zusammenfassung der Auferstehungserscheinungen (15,3-7, die Paulus nach eigenen Worten von denen vor ihm empfangen hat) und die längste zusammenhängende Verteidigung der leiblichen Auferstehung im Neuen Testament."
+  "intro": "Der 1. Korintherbrief wurde von dem Apostel Paulus geschrieben (1. Korinther 1,1), wobei Sosthenes im Eingangsgruß als Mitabsender genannt wird. Der Brief entstand um 55 n. Chr. in Ephesus, während des dreijährigen Wirkens des Paulus dort auf seiner dritten Missionsreise (Apostelgeschichte 19; 1. Korinther 16,8: „Ich werde aber bis Pfingsten in Ephesus bleiben“). Paulus hatte die Gemeinde in Korinth auf seiner zweiten Missionsreise um 50-52 n. Chr. gegründet, in einem Dienst von achtzehn Monaten, den Apostelgeschichte 18,1-18 berichtet; er hatte im Haus von Aquila und Priscilla gewohnt (judenchristliche Zeltmacher, die unter dem Erlass des Claudius gegen die Juden im Jahr 49 n. Chr. aus Rom ausgewiesen worden waren, Apostelgeschichte 18,2), hatte mit ihnen zusammen an seinem Zeltmacherhandwerk gearbeitet und in der Synagoge und, nach seinem Ausschluss aus der Synagoge, im Haus des Titius Justus gepredigt (Apostelgeschichte 18,7). Der Sosthenes, der die Gemeinde in 1. Korinther 1,1 mitgrüßt, ist höchstwahrscheinlich derselbe Sosthenes, der zur Zeit des Wirkens des Paulus dort Vorsteher der Synagoge in Korinth war und den die griechische Menge schlug, als Paulus vor den römischen Statthalter Gallio gebracht wurde (Apostelgeschichte 18,17); er war in den Jahren nach dem Weggang des Paulus offenkundig gläubig geworden. Die Gemeinde in Korinth war zur Zeit der Abfassung von Schwierigkeiten bedrängt: Leute „aus dem Haus der Chloe“ waren mit Berichten über Spaltungen und Unzucht in der Gemeinde zu Paulus nach Ephesus gekommen (1. Korinther 1,11), und die Korinther hatten Paulus außerdem einen Brief mit Fragen um seinen Rat geschickt (1. Korinther 7,1). Der 1. Korintherbrief ist in Wahrheit der zweite Brief des Paulus an die Korinther; in 1. Korinther 5,9 verweist er auf einen früheren Brief („Ich habe euch in dem Brief geschrieben, dass ihr keinen Umgang mit Unzüchtigen haben sollt“), der nicht erhalten ist. Zählt man diesen verlorenen Brief mit, schrieb Paulus wenigstens vier Briefe nach Korinth: den verlorenen ersten Brief, unseren kanonischen 1. Korintherbrief, einen „Tränenbrief“, der in 2. Korinther 2,3-4 erwähnt wird (ebenfalls verloren), und unseren kanonischen 2. Korintherbrief. Paulus (ursprünglich Saulus) wurde um 5-10 n. Chr. in Tarsus in Zilizien in eine hebräische Familie aus dem Stamm Benjamin geboren und in Jerusalem bei dem Pharisäer Gamaliel ausgebildet, vor seiner Bekehrung auf dem Weg nach Damaskus und seinem Apostelamt an den Heiden; er starb um 66-67 n. Chr. in Rom unter Nero als Märtyrer durch Enthauptung (die vollständige Lebensskizze steht in der Einleitung zum Römerbrief).\n\nDer geschichtliche Rahmen ist die reiche, weltoffene, sittlich freizügige Hafenstadt Korinth in der römischen Provinz Achaja. Die ursprüngliche griechische Stadt Korinth war 146 v. Chr. von dem römischen Feldherrn Lucius Mummius zerstört worden; die Stadt wurde 44 v. Chr. von Julius Caesar als römische Kolonie neu gegründet und stieg rasch zu einer der wichtigsten Handelsstädte des östlichen Mittelmeers auf. Korinth lag auf dem vier Meilen breiten Isthmus von Korinth, der das griechische Festland mit der Peloponnes verbindet, und beherrschte zwei Häfen: Kenchreä auf der östlichen Seite zur Ägäis und Lechäum auf der westlichen Seite zur Adria. Schiffe, die zwischen Ost und West fuhren, luden ihre Ladung oft aus, um sie über den Diolkos, eine gepflasterte Bahn, über den Isthmus tragen zu lassen und so die gefährliche Fahrt um Kap Malea an der Südspitze der Peloponnes zu vermeiden; kleinere Schiffe konnten sogar auf Rollen über den Isthmus gezogen werden. Dieser Handel machte Korinth reich und brachte einen steten Strom von Seeleuten, Kaufleuten, Reisenden und Wallfahrern. Die Stadt war eine römische Kolonie, bevölkert von italischen Siedlern, Freigelassenen, Kriegsveteranen und einer beträchtlichen jüdischen Minderheit. Die Religion war ein Markt: Der Tempel der Aphrodite auf dem Akrokorinth (der Burg der Stadt) hielt Tempeldirnen, der Tempel des Apollo beherrschte das alte Forum, und Heiligtümer der Isis, des Serapis, des Asklepios, der Demeter, der Persephone und des römischen Kaiserkults waren alle in der Stadt in Betrieb. Der Ruf Korinths in geschlechtlichen Dingen war so berüchtigt, dass das griechische Verb korinthiazomai („sich wie ein Korinther benehmen“) zum umgangssprachlichen Ausdruck für „Unzucht treiben“ geworden war. Alle zwei Jahre richtete Korinth die Isthmischen Spiele aus, eines der vier großen panhellenischen Sportfeste; die Bilder des Wettkampfs, die Paulus in 1. Korinther 9,24-27 gebraucht („den Wettlauf laufen“, „Faustkampf“, „Enthaltsamkeit wie bei einem Wettkämpfer“, „der vergängliche Siegeskranz“), waren den korinthischen Lesern, die die Isthmischen Spiele und die Kiefernkränze ihrer Sieger kannten, sofort vor Augen.\n\nDer 1. Korintherbrief ist das sechsundvierzigste Buch der christlichen Bibel, das siebte Buch des Neuen Testaments und der zweite der dreizehn Briefe des Paulus in kanonischer Ordnung. Der Brief hat sechzehn Kapitel. Die früheste erhaltene Handschrift ist der Papyrus 46 (P46, der Chester-Beatty-Papyrus II, um 175-225 n. Chr.), der den größten Teil der paulinischen Briefe einschließlich des 1. Korintherbriefes in einem einzigen Kodex bewahrt; zu den weiteren frühen Zeugen gehören der Papyrus 11 (P11, 7. Jahrhundert) und die vollständigen Abschriften im Codex Sinaiticus und im Codex Vaticanus (beide 4. Jahrhundert n. Chr.). Mehrere Stellen des Briefes sind für die christliche Lehre und Praxis grundlegend geworden: 1. Korinther 11,23-26 enthält den frühesten schriftlichen Bericht der Einsetzungsworte des Mahles des Herrn (mehrere Jahre älter als die Berichte der Evangelien); 1. Korinther 13 ist das berühmte Loblied auf die Liebe („Wenn ich in Sprachen der Menschen und der Engel redete, aber keine Liebe hätte …“). 1. Korinther 12-14 enthält außerdem die ausführlichste Belehrung des Neuen Testaments über die Gabe der Sprachen, die Paulus als ein Geschehen ordnet, das zum Nutzen der Gemeinde der Auslegung bedarf: „Wenn jemand in einer Sprache redet, so seien es zwei oder höchstens drei, und der Reihe nach, und einer lege es aus. Ist aber kein Ausleger da, so schweige er in der Gemeinde; er mag aber für sich selbst und für Gott reden“ (1. Korinther 14,27-28). Paulus eröffnet 1. Korinther 13,1 mit „Sprachen der Menschen und der Engel“ und lässt damit Raum für Sprachen jenseits gewöhnlicher menschlicher Rede, doch sein durchgehender Punkt in den Kapiteln 12-14 ist, dass das griechische glossa (ob menschlich oder englisch) eine wirkliche Sprache meint, die einer Übersetzung bedarf, um dem Hörer verständlich zu sein, und darum ist die Auslegung in der öffentlichen Versammlung nötig. 1. Korinther 15 enthält die früheste bekenntnisartige Zusammenfassung der Erscheinungen des Auferstandenen (15,3-7, von der Paulus sagt, dass er sie von denen vor ihm empfangen habe) und die längste zusammenhängende Verteidigung der leiblichen Auferstehung im Neuen Testament."
 }

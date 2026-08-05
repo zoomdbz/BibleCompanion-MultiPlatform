@@ -210,7 +210,7 @@
     "group": "canon"
   },
   {
-    "canon": "Екклесиаст",
+    "canon": "Экклезиаст",
     "aliases": [
       "Екклесиаст",
       "Еккл",
@@ -222,7 +222,7 @@
     "group": "canon"
   },
   {
-    "canon": "Песнь песней",
+    "canon": "Песнь Песней",
     "aliases": [
       "Песнь песней",
       "Песн",
@@ -348,7 +348,6 @@
     "canon": "Наум",
     "aliases": [
       "Наум",
-      "На",
       "Nahum"
     ],
     "group": "canon"
@@ -405,7 +404,7 @@
     "group": "canon"
   },
   {
-    "canon": "Матфей",
+    "canon": "Матфея",
     "aliases": [
       "Матфей",
       "Мф",
@@ -427,7 +426,7 @@
     "group": "canon"
   },
   {
-    "canon": "Лука",
+    "canon": "Луки",
     "aliases": [
       "Лука",
       "Лк",
@@ -651,7 +650,7 @@
     "group": "canon"
   },
   {
-    "canon": "Иуда",
+    "canon": "Иуды",
     "aliases": [
       "Иуда",
       "Иуд",
@@ -696,7 +695,8 @@
       "Дополнения к Есфири",
       "Есфирь греч",
       "Греческая Есф",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
@@ -706,7 +706,8 @@
       "Премудрость Соломона",
       "Прем Сол",
       "Прем",
-      "Wisdom of Solomon"
+      "Wisdom of Solomon",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -717,7 +718,8 @@
       "Премудрость Иисуса, сына Сирахова",
       "Сир",
       "Премудрость Сирахова",
-      "Sirach"
+      "Sirach",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -747,7 +749,8 @@
       "Песнь трёх отроков",
       "Песнь трёх",
       "Азария",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -755,7 +758,8 @@
     "canon": "Сусанна",
     "aliases": [
       "Сусанна",
-      "Sus"
+      "Sus",
+      "Susanna"
     ],
     "group": "deuterocanon"
   },
@@ -769,11 +773,21 @@
     "group": "deuterocanon"
   },
   {
+    "canon": "Псалом 151",
+    "aliases": [
+      "Псалом 151",
+      "Пс 151",
+      "Psalm 151"
+    ],
+    "group": "deuterocanon"
+  },
+  {
     "canon": "1 Маккавейская",
     "aliases": [
       "1 Маккавейская",
       "1 Мак",
-      "I Мак"
+      "I Мак",
+      "1 Maccabees"
     ],
     "group": "deuterocanon"
   },
@@ -783,7 +797,8 @@
       "2 Маккавейская",
       "2 Мак",
       "II Мак",
-      "2 Маккавеев"
+      "2 Маккавеев",
+      "2 Maccabees"
     ],
     "group": "deuterocanon"
   },
@@ -792,7 +807,8 @@
     "aliases": [
       "3 Маккавейская",
       "3 Мак",
-      "III Мак"
+      "III Мак",
+      "3 Maccabees"
     ],
     "group": "deuterocanon"
   },
@@ -801,7 +817,8 @@
     "aliases": [
       "4 Маккавейская",
       "4 Мак",
-      "IV Мак"
+      "IV Мак",
+      "4 Maccabees"
     ],
     "group": "deuterocanon"
   },
@@ -821,7 +838,8 @@
       "2 Ездра",
       "4 Ездра",
       "2 Езд",
-      "2 Esdras"
+      "2 Esdras",
+      "2 Esdras (4 Ezra)"
     ],
     "group": "deuterocanon"
   },
@@ -936,8 +954,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "Евангелие детства от Фомы",
+    "canon": "Детское Евангелие Фомы",
     "aliases": [
+      "Детское Евангелие Фомы",
       "Евангелие детства от Фомы",
       "Детства Ев Фомы",
       "Infancy Gospel of Thomas"
@@ -949,7 +968,8 @@
     "aliases": [
       "Протоевангелие Иакова",
       "Протоев Иак",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -1058,7 +1078,8 @@
       "1-я книга Еноха",
       "1 Енох",
       "Эфиопский Енох",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1068,7 +1089,8 @@
       "2-я книга Еноха",
       "2 Енох",
       "Славянский Енох",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1078,7 +1100,8 @@
       "3-я книга Еноха",
       "3 Енох",
       "Еврейский Енох",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1098,7 +1121,8 @@
     "aliases": [
       "Завещания двенадцати патриархов",
       "Завещ 12 патр",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1327,6 +1351,34 @@
       "Апокалипсис Илии",
       "Откр Ил",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Евангелие Никодима (Деяния Пилата)",
+    "aliases": [
+      "Евангелие Никодима (Деяния Пилата)",
+      "Gospel of Nicodemus",
+      "Acts of Pilate",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Евангелие Варфоломея",
+    "aliases": [
+      "Евангелие Варфоломея",
+      "Gospel of Bartholomew",
+      "Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Вознесение Моисея",
+    "aliases": [
+      "Вознесение Моисея",
+      "Assumption of Moses",
+      "Testament of Moses"
     ],
     "group": "pseudepigrapha"
   }

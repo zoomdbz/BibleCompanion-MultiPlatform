@@ -33,25 +33,42 @@
         "Enviou cartas a todas as partes do império, a cada província, em sua própria escrita e língua, proclamando que todo homem devia ser o chefe de sua própria casa e ter sempre a última palavra. (1:22)."
       ],
       "crossRefs": [
-        "Daniel 6:8: Lei dos medos e persas descrita como irrevogável.",
-        "Ester 10:2: Crônicas reais da Média e Pérsia mencionadas.",
-        "Daniel 1:3–7: Judeus servindo em uma corte real estrangeira."
+        "Esdras 4:6: Lei dos medos e persas descrita como irrevogável.",
+        "Neemias 1:1-2: Crônicas reais da Média e Pérsia mencionadas.",
+        "Daniel 5:1-4: Judeus servindo em uma corte real estrangeira.",
+        "Daniel 6:6-9: Depois de assinado, um decreto persa não pode ser alterado segundo a lei dos medos e dos persas.",
+        "1 Reis 10:18-21: O trono de marfim e ouro de Salomão e seus utensílios de ouro para beber, pois a prata não tinha valor."
       ],
       "translationNotes": [
         {
           "term": "Assuero",
-          "original": "Hebrew: אֲחַשְׁוֵרֹשׁ (Aḥashverōsh), Greek (LXX): Ἀσουῆρος (Asouērōs), Aramaic (Targum): אחשורוש (Aḥashverosh)",
-          "note": "Nome real usado ao longo de Ester; identificado por muitos com Xerxes I, mas o texto em si usa Assuero."
+          "original": "Hebrew: אֲחַשְׁוֵרוֹשׁ (Achashverosh) - Old Persian: Khshayarsha - Greek: Ξέρξης (Xerxes)",
+          "note": "O hebraico reproduz diretamente o nome persa do trono, Khshayarsha; os escritores gregos verteram o mesmo nome como Xerxes, razão pela qual algumas Bíblias usam um e outras, o outro. Xerxes I reinou de 486 a 465 a.C.; portanto, o terceiro ano de 1:3 corresponde a 483 a.C., e o sétimo ano de 2:16, a 479 a.C. Os seis meses de exibição descritos neste capítulo ocorreram durante os anos em que ele preparava a invasão da Grécia."
         },
         {
-          "term": "Susã",
-          "original": "Hebrew: שׁוּשָׁן (Shushan), Greek (LXX): Σοῦσα (Sousa), Aramaic: שושן (Shushan)",
-          "note": "Cidade real persa onde a história se passa."
+          "term": "Cento e vinte e sete províncias",
+          "original": "Hebrew: מְדִינָה (medinah, province or administrative district)",
+          "note": "Uma medinah não é uma satrapia. Heródoto (Histórias 3.89) diz que Dario organizou o império em vinte satrapias para fins tributários; as províncias eram distritos menores dentro delas, cada qual com seu governador, sua escrita e sua língua. Da Índia, a região do Indo, até Cuxe, a terra ao sul do Egito, são cerca de três mil milhas. 1:1 informa a extensão do império, não o número de nações."
         },
         {
-          "term": "Forca / poste",
-          "original": "Hebrew: עֵץ (ʿētz, ‘tree/wood/pole’), Greek (LXX): ξύλον (xylon), Aramaic: אִילָן (ilan)",
-          "note": "Instrumento de execução descrito como um poste ou tronco de madeira; os desfechos são descritos como 'enforcamento' no texto."
+          "term": "A cidadela de Susã",
+          "original": "Hebrew: שׁוּשַׁן הַבִּירָה (Shushan habbirah)",
+          "note": "Birah designa a acrópole murada do palácio, elevada acima da cidade e separada dela. Por isso, o texto distingue repetidamente a cidadela de Susã da cidade de Susã (3:15; 8:14-15; 9:6, 12-15). Susã fica no Cuzistão, no sudoeste do Irã, numa região baixa e quente, e a corte persa passava o inverno ali. Escavações francesas iniciadas em 1884 revelaram o palácio de Dario, seu grande salão de audiências com colunas e uma portaria monumental que traz uma inscrição de Xerxes."
+        },
+        {
+          "term": "A bebida seguia uma regra: ninguém era obrigado",
+          "original": "Hebrew: וְהַשְּׁתִיָּה כַדָּת אֵין אֹנֵס (vehashshetiyyah khaddat ein ones)",
+          "note": "Num banquete persa, os convidados bebiam quando o rei bebia e acompanhavam seu ritmo. O versículo 8 registra a suspensão dessa regra; cada homem podia beber como quisesse. Esse é o detalhe que o texto faz questão de mencionar. Heródoto (Histórias 1.133) escreve que os persas deliberavam sobre assuntos importantes sob o efeito do vinho e reavaliavam sóbrios a decisão. Portanto, o que um rei decide ao fim de uma festa de sete dias não é um detalhe secundário."
+        },
+        {
+          "term": "Os sete que viam o rosto do rei",
+          "original": "Hebrew: רֹאֵי פְּנֵי הַמֶּלֶךְ (ro'ei penei hammelekh, seers of the king's face)",
+          "note": "O versículo 14 cita sete príncipes da Pérsia e da Média que viam o rosto do rei e ocupavam os primeiros lugares no reino. O acesso à presença do rei era a moeda daquela corte; Heródoto (3.84) relata que os sete nobres persas que colocaram Dario no trono conservaram o direito permanente de entrar sem anúncio prévio. No mesmo capítulo, também são nomeados sete eunucos que serviam nos aposentos internos."
+        },
+        {
+          "term": "A decoração do banquete",
+          "original": "Hebrew: חוּר כַּרְפַּס וּתְכֵלֶת (chur karpas u-tekhelet, white cotton and violet)",
+          "note": "O versículo 6 é um inventário: cortinas brancas e violetas presas por cordões de linho fino e púrpura a argolas de prata sobre colunas de mármore; divãs de ouro e prata sobre um piso de pórfiro, mármore, madrepérola e pedras coloridas. Tekhelet, o azul-violeta, e a púrpura eram os dois corantes extraídos de moluscos múrex e constituíam as cores mais caras do mundo antigo. A lista é uma avaliação de riqueza, colocada no início do livro de propósito."
         }
       ],
       "keyTakeaway": "O rei Xerxes exibe sua riqueza por 180 dias, depois realiza um banquete de sete dias no qual ordena que a rainha Vasti apareça diante dele; quando ela se recusa, ele consulta seus nobres e a remove de sua posição por decreto real.",
@@ -98,25 +115,42 @@
         "Quando o caso foi investigado e descobriu-se que o relato de Mardoqueu era verdadeiro, os dois homens foram enforcados. Tudo isso está registrado no Livro da História do Reinado do Rei Xerxes. (2:23)."
       ],
       "crossRefs": [
-        "Daniel 6:8: Lei dos medos e persas descrita como irrevogável.",
-        "Ester 10:2: Crônicas reais da Média e Pérsia mencionadas.",
-        "Daniel 1:3–7: Judeus servindo em uma corte real estrangeira."
+        "Gênesis 41:37-45: Lei dos medos e persas descrita como irrevogável.",
+        "Daniel 1:3-7: Crônicas reais da Média e Pérsia mencionadas.",
+        "2 Reis 24:12-16: Judeus servindo em uma corte real estrangeira.",
+        "1 Samuel 8:11-18: Samuel adverte que um rei tomará para si os filhos, as filhas e os campos do povo.",
+        "Ester 6:1-3: Anos depois, o registro dessa conspiração para assassinar o rei é lido em voz alta para um monarca que não consegue dormir."
       ],
       "translationNotes": [
         {
-          "term": "Assuero",
-          "original": "Hebrew: אֲחַשְׁוֵרֹשׁ (Aḥashverōsh), Greek (LXX): Ἀσουῆρος (Asouērōs), Aramaic (Targum): אחשורוש (Aḥashverosh)",
-          "note": "Nome real usado ao longo de Ester; identificado por muitos com Xerxes I, mas o texto em si usa Assuero."
+          "term": "Hadassa e Ester",
+          "original": "Hebrew: הֲדַסָּה (Hadassah, myrtle) - אֶסְתֵּר (Ester)",
+          "note": "O versículo 7 apresenta os dois nomes: Hadassa é a palavra hebraica para murta, arbusto perene cujos ramos eram usados na Festa dos Tabernáculos (Neemias 8:15). Ester corresponde à palavra persa para estrela, stara. Judeus a serviço do império com frequência usavam dois nomes, um em casa e outro na corte, como Daniel e seus três amigos."
         },
         {
-          "term": "Susã",
-          "original": "Hebrew: שׁוּשָׁן (Shushan), Greek (LXX): Σοῦσα (Sousa), Aramaic: שושן (Shushan)",
-          "note": "Cidade real persa onde a história se passa."
+          "term": "Eunuco",
+          "original": "Hebrew: סָרִיס (saris) - Greek: εὐνοῦχος (eunouchos)",
+          "note": "Homens castrados serviam na casa real porque podiam ficar perto das mulheres do rei sem fundar uma dinastia própria. Hegai guarda as virgens e Saasgaz, as concubinas (2:3, 14); outros sete são nomeados como assistentes pessoais do rei (1:10). Em outros textos, a mesma palavra hebraica também pode designar de modo mais amplo um oficial da corte, como Potifar, que era casado (Gênesis 39:1)."
         },
         {
-          "term": "Forca / poste",
-          "original": "Hebrew: עֵץ (ʿētz, ‘tree/wood/pole’), Greek (LXX): ξύλον (xylon), Aramaic: אִילָן (ilan)",
-          "note": "Instrumento de execução descrito como um poste ou tronco de madeira; os desfechos são descritos como 'enforcamento' no texto."
+          "term": "Doze meses de preparação",
+          "original": "Hebrew: שִׁשָּׁה חֳדָשִׁים בְּשֶׁמֶן הַמֹּר (shishah chodashim beshemen hammor, six months with oil of myrrh)",
+          "note": "O versículo 12 descreve o regime: seis meses com óleo de mirra e depois seis meses com especiarias e cosméticos, antes que cada mulher fosse levada ao rei uma única vez. Ela levava consigo tudo o que pedisse; pela manhã, passava à segunda casa, sob outro guardião, e não voltava, a menos que o rei a chamasse pelo nome (2:13-14). O texto apresenta de forma direta, sem comentário, o funcionamento de um harém real."
+        },
+        {
+          "term": "Mirra",
+          "original": "Hebrew: מֹר (mor) - Greek: σμύρνα (smyrna)",
+          "note": "Resina gomosa extraída da casca da árvore Commiphora, da Arábia e da África Oriental, importada por caravana e cara. Era ingrediente do óleo sagrado da unção (Êxodo 30:23), perfume, especiaria funerária (João 19:39) e, misturada ao vinho, uma bebida que atenuava a dor (Marcos 15:23). Seis meses de tratamento diário com ela demonstram quanto a coroa podia gastar."
+        },
+        {
+          "term": "O portão do rei",
+          "original": "Hebrew: שַׁעַר הַמֶּלֶךְ (sha'ar hammelekh)",
+          "note": "Não era uma simples porta, mas a portaria monumental do complexo palaciano, onde os oficiais cumpriam seu serviço e os negócios eram conduzidos. As escavações em Susã revelaram uma portaria desse tipo, um salão quadrado com cerca de quarenta metros de lado e uma inscrição de Xerxes registrando que Dario, seu pai, a construiu. Quando 2:19 e 2:21 dizem que Mardoqueu estava sentado no portão do rei, informam que ele exercia um cargo ali."
+        },
+        {
+          "term": "Levado ao exílio com Jeconias",
+          "original": "Hebrew: הָגְלָה עִם־יְכָנְיָה (hoglah im Yekhonyah)",
+          "note": "O versículo 6 remonta a família à deportação de Jeconias, rei de Judá, ocorrida em 597 a.C. (2 Reis 24:12-16), mais de cem anos antes dos acontecimentos do livro. Mardoqueu é um benjamita descendente de Quis (2:5), o nome do pai do rei Saul. Essa ascendência transforma o conflito com um agagita no capítulo seguinte em uma disputa muito antiga."
         }
       ],
       "keyTakeaway": "O rei Xerxes busca uma nova rainha e escolhe Ester, uma órfã judia criada por seu primo Mardoqueu, que se torna rainha ao conquistar o favor do rei. Mardoqueu depois descobre uma conspiração para assassinar o rei e a reporta por meio de Ester, salvando a vida do rei.",
@@ -155,20 +189,42 @@
         "Por ordem do rei, o decreto foi rapidamente enviado por mensageiros e também foi proclamado na fortaleza de Susã. Então o rei e Hamã se sentaram para beber, enquanto a confusão se espalhava pela cidade de Susã. (3:15)."
       ],
       "crossRefs": [
-        "1 Samuel 15:8–9: Agague dos amalequitas (contexto de 'agagita').",
-        "Provérbios 16:33: A sorte se lança no regaço.",
-        "Daniel 6:15: Editos reais vistos como inalteráveis."
+        "Êxodo 17:8-13: Agague dos amalequitas (contexto de 'agagita').",
+        "Deuteronômio 25:17-19: A sorte se lança no regaço.",
+        "1 Samuel 15:1-9: Editos reais vistos como inalteráveis.",
+        "1 Samuel 9:1-2: Quis, o benjamita e pai de Saul, é o ancestral ao qual a linhagem de Mardoqueu remonta.",
+        "Provérbios 16:33: A sorte é lançada no colo, mas toda decisão que ela produz vem do SENHOR."
       ],
       "translationNotes": [
         {
-          "term": "Pur / Purim",
-          "original": "Hebrew: פּוּר / פּוּרִים (pur / purim, ‘lot/lots’), Greek (LXX): κλῆρος (klēros), Aramaic: פּוּרָא (pūrāʾ)",
-          "note": "Sortes usadas para fixar a data (3:7); mais tarde a festa recebe o nome de Purim (9:26)."
+          "term": "Agagita",
+          "original": "Hebrew: הָאֲגָגִי (ha-Agagi)",
+          "note": "Agague foi o rei de Amaleque a quem Saul poupou contra a ordem recebida e que depois foi executado por Samuel (1 Samuel 15:8-9, 32-33). Amaleque havia atacado Israel em Refidim durante a saída do Egito, e Êxodo 17:16 e Deuteronômio 25:17-19 registram uma guerra permanente contra esse povo. Hamã é identificado com ele; Mardoqueu remonta a Quis, o benjamita, da própria família de Saul. O livro coloca as duas linhagens frente a frente sem acrescentar qualquer explicação."
         },
         {
-          "term": "Cetro de ouro",
-          "original": "Hebrew: שַׁרְבִּיט (sharvīt), Greek (LXX): σκῆπτρον (skēptron), Aramaic: שרביטא (sharvītā)",
-          "note": "Bastão real estendido para poupar quem se apresenta sem ser chamado (4:11) (5:2)."
+          "term": "Pur",
+          "original": "Hebrew: פּוּר (pur) - Akkadian: puru - Hebrew gloss: גּוֹרָל (goral, lot)",
+          "note": "O texto interrompe a narrativa para traduzir a palavra: lançaram pur, isto é, a sorte (3:7). Pur é acadiano, não hebraico, e o objeto é um pequeno dado inscrito. Um exemplar sobreviveu: um cubo de argila com cerca de uma polegada de lado, que traz o nome de Yahali, mordomo-chefe de Salmaneser III, e foi lançado para decidir o ano que lhe caberia, 833 a.C. Hamã lança as sortes no primeiro mês para marcar uma data no décimo segundo, deixando onze meses no relógio."
+        },
+        {
+          "term": "Dez mil talentos de prata",
+          "original": "Hebrew: עֲשֶׂרֶת אֲלָפִים כִּכַּר־כֶּסֶף (aseret alafim kikkar kesef)",
+          "note": "Um talento pesava cerca de 75 libras; portanto, Hamã oferece ao tesouro real aproximadamente 340 toneladas métricas, ou 375 toneladas comuns, de prata. Heródoto (Histórias 3.95) calcula em 14.560 talentos todo o tributo anual do Império Persa. A oferta corresponde a cerca de dois terços da receita imperial de um ano, e o rei a dispensa."
+        },
+        {
+          "term": "Sátrapas, governadores e príncipes",
+          "original": "Hebrew: אֲחַשְׁדַּרְפְּנִים (achashdarpenim) - from Old Persian khshathrapavan, protector of the realm",
+          "note": "O versículo 12 enumera três níveis em ordem decrescente: sátrapas sobre as grandes regiões, governadores sobre cada província e príncipes de cada povo. A palavra hebraica para sátrapa vem diretamente do persa antigo, assim como a palavra usada para a lei real, dat. O livro emprega o vocabulário do próprio império para descrever sua máquina administrativa."
+        },
+        {
+          "term": "Mensageiros e o correio real",
+          "original": "Hebrew: רָצִים (ratsim, runners)",
+          "note": "O decreto é escrito na escrita e na língua de cada província, selado com o anel do rei e entregue aos mensageiros (3:12-15). Heródoto (8.98) descreve o sistema persa de revezamento: cavaleiros e cavalos colocados a um dia de viagem uns dos outros, cada qual entregando a mensagem ao seguinte, de modo que nada mortal viajava mais depressa. A estrada de Susã a Sardes tinha cento e onze postos e cerca de mil e quinhentas milhas (Heródoto 5.52-53). Era assim que uma decisão tomada na cidadela chegava à Índia em menos de um mês."
+        },
+        {
+          "term": "O décimo terceiro dia de adar",
+          "original": "Hebrew: אֲדָר (Adar)",
+          "note": "Adar é o décimo segundo mês, de meados de fevereiro a meados de março, o último antes do ano-novo da primavera. A sorte foi lançada em nisã, o primeiro mês, e marcou uma data onze meses depois. Assim, todos os judeus do império tiveram quase um ano para ler o aviso e esperar. O versículo 15 termina com os mensageiros saindo às pressas, o rei e Hamã sentando-se para beber e a cidade de Susã lançada em confusão."
         }
       ],
       "keyTakeaway": "O rei Xerxes eleva Hamã acima de todos os nobres; quando Mordecai se recusa a se ajoelhar diante dele, Hamã planeja destruir todos os judeus do reino. O rei aprova o plano e emite um decreto ordenando o extermínio de todos os judeus no décimo terceiro dia de Adar.",
@@ -213,20 +269,37 @@
         "Mardoqueu foi e fez tudo conforme as instruções de Ester. (4:17)."
       ],
       "crossRefs": [
-        "1 Samuel 15:8–9: Agague dos amalequitas (contexto de 'agagita').",
-        "Provérbios 16:33: A sorte se lança no regaço.",
-        "Daniel 6:15: Editos reais vistos como inalteráveis."
+        "Joel 2:12-17: Agague dos amalequitas (contexto de 'agagita').",
+        "Jonas 3:5-9: A sorte se lança no regaço.",
+        "Esdras 8:21-23: Editos reais vistos como inalteráveis.",
+        "Daniel 3:16-18: Três homens recusam a imagem e dizem que Deus pode livrá-los; mesmo que Ele não o faça, não a servirão.",
+        "Gênesis 45:4-8: José diz aos irmãos que Deus o enviou adiante deles para preservar com vida um remanescente."
       ],
       "translationNotes": [
         {
-          "term": "Pur / Purim",
-          "original": "Hebrew: פּוּר / פּוּרִים (pur / purim, ‘lot/lots’), Greek (LXX): κλῆρος (klēros), Aramaic: פּוּרָא (pūrāʾ)",
-          "note": "Sortes usadas para fixar a data (3:7); mais tarde a festa recebe o nome de Purim (9:26)."
+          "term": "Pano de saco e cinzas",
+          "original": "Hebrew: שַׂק וָאֵפֶר (saq va-efer)",
+          "note": "O pano de saco era um tecido escuro e áspero de pelo de cabra, usado diretamente sobre a pele e deliberadamente desconfortável, sinal público comum de luto ou arrependimento (1 Reis 21:27; Jonas 3:5). Mardoqueu o veste e vai ao centro da cidade com um clamor alto e amargo (4:1); 4:2 apresenta a regra que o detém no portão: ninguém vestido de pano de saco podia entrar pelo portão do rei. O luto não era permitido dentro do palácio."
         },
         {
-          "term": "Cetro de ouro",
-          "original": "Hebrew: שַׁרְבִּיט (sharvīt), Greek (LXX): σκῆπτρον (skēptron), Aramaic: שרביטא (sharvītā)",
-          "note": "Bastão real estendido para poupar quem se apresenta sem ser chamado (4:11) (5:2)."
+          "term": "A lei do pátio interno",
+          "original": "Hebrew: אַחַת דָּתוֹ לְהָמִית (achat dato lehamit, there is one law for him, to be put to death)",
+          "note": "Quem entra no pátio interno para se aproximar do rei sem ter sido chamado é morto, a menos que o rei estenda o cetro de ouro (4:11). Ester acrescenta que não era convocada havia trinta dias. Heródoto (3.118-119) relata o caso de um nobre persa a quem Dario negou acesso; ele mutilou os porteiros e foi executado com a maior parte de sua família. O acesso ao rei era controlado com rigor mortal."
+        },
+        {
+          "term": "Não comer nem beber por três dias",
+          "original": "Hebrew: אַל־תֹּאכְלוּ וְאַל־תִּשְׁתּוּ שְׁלֹשֶׁת יָמִים לַיְלָה וָיוֹם (al tokhelu ve-al tishtu sheloshet yamim laylah va-yom)",
+          "note": "Os jejuns nas Escrituras normalmente duram da manhã até a noite (Juízes 20:26; 2 Samuel 1:12). O jejum convocado por Ester em 4:16 é total: nenhum alimento e nenhuma água, noite e dia, durante três dias, para todos os judeus de Susã. Ficar três dias sem água naquele clima já representa um perigo. O livro não usa aqui a palavra oração e nunca cita Deus, mas é isso que o povo faz."
+        },
+        {
+          "term": "Hatá, o intermediário",
+          "original": "Hebrew: הֲתָךְ (Hathakh)",
+          "note": "A rainha não podia sair até a praça da cidade, e Mardoqueu não podia passar pelo portão vestido de pano de saco. Assim, toda a negociação do capítulo 4 ocorre por meio de um eunuco que leva mensagens de um lado para o outro através de uma muralha (4:5-12). Mardoqueu chega a entregar-lhe uma cópia escrita do decreto para que a mostre a Ester. A conversa mais decisiva do livro acontece por revezamento."
+        },
+        {
+          "term": "Socorro vindo de outro lugar",
+          "original": "Hebrew: רֶוַח וְהַצָּלָה יַעֲמוֹד לַיְּהוּדִים מִמָּקוֹם אַחֵר (revach vehatsalah ya'amod layehudim mimmaqom acher)",
+          "note": "O argumento de Mardoqueu em 4:13-14 tem três partes: Ester não escapará apenas por estar no palácio; se ela permanecer em silêncio, o livramento surgirá de outro lugar; e quem sabe se não chegou à realeza para um momento como este. Ele não identifica quem ou o que é esse outro lugar. O texto deixa a frase exatamente como ele a pronunciou."
         }
       ],
       "keyTakeaway": "Mardoqueu descobre o decreto de extermínio dos judeus e, após lamentar de saco e cinzas, manda uma mensagem a Ester pedindo que ela interceda junto ao rei; Ester inicialmente recusa, alegando o perigo, mas Mardoqueu a adverte de que o silêncio não a protegerá, e ela concorda em jejuar e se aproximar do rei apesar da lei que o proíbe.",
@@ -260,14 +333,37 @@
         "Então Zeres, esposa de Hamã, e todos os amigos dele sugeriram: “Mande fazer uma forca de mais de vinte metros e, pela manhã, peça ao rei que Mardoqueu seja enforcado nela. Depois disso, você poderá ir alegremente ao banquete com o rei”. A sugestão agradou Hamã, e ele mandou fazer a forca. (5:14)."
       ],
       "crossRefs": [
-        "Ester 2:21–23: Mordecai revela a conspiração de assassinato.",
-        "Gênesis 41:42–43: Honra pública com insígnias reais e proclamação."
+        "Provérbios 16:14-15: Mordecai revela a conspiração de assassinato.",
+        "1 Reis 2:19-20: Honra pública com insígnias reais e proclamação.",
+        "Marcos 6:21-23: Herodes jura a uma jovem, durante sua festa de aniversário, que lhe dará tudo o que ela pedir, até a metade de seu reino.",
+        "Eclesiastes 8:2-4: A palavra do rei é suprema, e ninguém pode lhe perguntar o que está fazendo.",
+        "Provérbios 25:6-7: Não se exalte na presença do rei; é melhor ouvir: Suba até aqui."
       ],
       "translationNotes": [
         {
-          "term": "Honra pública",
-          "original": "Hebrew: כָּבוֹד (kavod, ‘honor’), Greek (LXX): τιμή (timē), Aramaic: יקרא (yeqara)",
-          "note": "Reconhecimento público com manto, cavalo e proclamação (6:9–11)."
+          "term": "Ela se revestiu de realeza",
+          "original": "Hebrew: וַתִּלְבַּשׁ אֶסְתֵּר מַלְכוּת (vattilbash Ester malkhut)",
+          "note": "O hebraico de 5:1 diz que ela se revestiu de realeza, não de roupas reais; a palavra é o substantivo abstrato que designa a condição régia. Ela assume sua posição no pátio interno, de frente para a sala do trono, no extremo oposto da linha de visão do rei. Os três dias de jejum acabaram de terminar."
+        },
+        {
+          "term": "O cetro de ouro",
+          "original": "Hebrew: שַׁרְבִיט הַזָּהָב (sharvit hazzahav)",
+          "note": "Relevos persas de Persépolis mostram o rei entronizado segurando na mão direita um bastão longo e fino, da altura de um homem. Estendê-lo na direção de quem se aproximava sem ser chamado cancelava a sentença de morte, e tocar sua ponta era o reconhecimento desse favor (5:2). O gesto constitui todo o procedimento legal, realizado sem uma palavra."
+        },
+        {
+          "term": "Até a metade do meu reino",
+          "original": "Hebrew: עַד־חֲצִי הַמַּלְכוּת (ad chatsi hammalkhut)",
+          "note": "Fórmula da corte que expressava favor extravagante, oferecida três vezes neste livro (5:3, 5:6, 7:2), sem jamais significar uma divisão literal do império. Herodes usa a mesma expressão em Marcos 6:23. Ela indica que o suplicante pode formular um grande pedido e compromete o rei em público."
+        },
+        {
+          "term": "O banquete de vinho",
+          "original": "Hebrew: מִשְׁתֵּה הַיַּיִן (mishteh hayyayin)",
+          "note": "Um banquete persa tinha duas etapas: primeiro a comida, depois a bebida, momento em que assuntos eram levantados e decisões eram tomadas. No primeiro dia, Ester convida o rei e Hamã para essa etapa da bebida; então, em vez de fazer seu pedido, volta a convidá-los para o dia seguinte (5:6-8). Ela deixa o rei ir para a cama com uma pergunta sem resposta, e 6:1 registra que ele não conseguiu dormir."
+        },
+        {
+          "term": "Uma estaca de cinquenta côvados",
+          "original": "Hebrew: עֵץ גָּבֹהַּ חֲמִשִּׁים אַמָּה (ets gavoah chamishshim ammah, wood fifty cubits high)",
+          "note": "Um côvado mede cerca de dezoito polegadas; portanto, cinquenta côvados equivalem a aproximadamente setenta e cinco pés, mais alto que qualquer casa em Susã. Esse é o objetivo: que fosse vista de toda parte. A palavra hebraica é ets, madeira ou árvore, e o verbo que a acompanha significa pendurar ou prender sobre ela. Execuções persas desse tipo eram empalamentos, e Esdras 6:11 descreve a mesma pena no mesmo império: uma viga arrancada da casa de um homem e o homem preso nela."
         }
       ],
       "keyTakeaway": "Ester conquista o favor do rei e o convida, junto com Hamã, para um banquete, adiando seu pedido para um segundo banquete no dia seguinte. Hamã sai eufórico com sua posição de destaque, mas fica furioso ao ver Mordecai impassível na porta; sua esposa e amigos o incentivam a mandar executar Mordecai, e ele ordena a construção de uma estaca para esse fim.",
@@ -301,14 +397,37 @@
         "Enquanto ainda falavam, os eunucos do rei chegaram e, sem demora, levaram Hamã ao banquete que Ester havia preparado. (6:14)."
       ],
       "crossRefs": [
-        "Ester 2:21–23: Mordecai revela a conspiração de assassinato.",
-        "Gênesis 41:42–43: Honra pública com insígnias reais e proclamação."
+        "1 Samuel 18:3-4: Mordecai revela a conspiração de assassinato.",
+        "1 Reis 1:32-40: Honra pública com insígnias reais e proclamação.",
+        "Esdras 6:1-5: Um rei persa ordena uma busca nos arquivos, e um antigo rolo é encontrado e reverte uma política.",
+        "Ester 2:21-23: A conspiração contra o rei que Mardoqueu denunciou e que foi registrada no livro das crônicas.",
+        "Provérbios 26:27: Quem cava uma cova cairá nela; a pedra empurrada morro acima volta sobre quem a empurrou."
       ],
       "translationNotes": [
         {
-          "term": "Honra pública",
-          "original": "Hebrew: כָּבוֹד (kavod, ‘honor’), Greek (LXX): τιμή (timē), Aramaic: יקרא (yeqara)",
-          "note": "Reconhecimento público com manto, cavalo e proclamação (6:9–11)."
+          "term": "O livro das crônicas",
+          "original": "Hebrew: סֵפֶר הַזִּכְרֹנוֹת דִּבְרֵי הַיָּמִים (sefer hazzikhronot divrei hayyamim, the book of records, the matters of the days)",
+          "note": "A corte persa mantinha um registro escrito contínuo do reinado, que podia ser retirado do arquivo e lido em voz alta quando necessário. Esdras 4:15 e 6:1-2 mostram o mesmo arquivo sendo consultado no mesmo período a respeito da política para os judeus. A reviravolta de todo este livro acontece porque uma burocracia arquiva documentos corretamente e um rei não consegue dormir."
+        },
+        {
+          "term": "A cerimônia de honra",
+          "original": "Hebrew: לְבוּשׁ מַלְכוּת וְסוּס אֲשֶׁר רָכַב עָלָיו הַמֶּלֶךְ (levush malkhut ve-sus asher rakhav alav hammelekh, royal clothing and a horse the king has ridden)",
+          "note": "A proposta do próprio Hamã em 6:8-9 tem três partes: uma veste que o rei tenha usado, um cavalo no qual ele tenha montado e uma coroa real colocada sobre a cabeça do cavalo, enquanto um dos nobres mais importantes conduz o animal pela praça da cidade e proclama a honraria. Vestir as roupas do rei e montar sua cavalgadura era receber a marca de alguém pertencente ao próprio rei. É justamente por isso que Hamã pede essas coisas."
+        },
+        {
+          "term": "O homem a quem o rei deseja honrar",
+          "original": "Hebrew: הָאִישׁ אֲשֶׁר הַמֶּלֶךְ חָפֵץ בִּיקָרוֹ (ha-ish asher hammelekh chafets biqaro)",
+          "note": "A frase se repete cinco vezes em seis versículos (6:6-11); uma fórmula formal da corte é dita vez após vez. Hamã a ouve quatro vezes antes de descobrir a quem ela se refere. A repetição produz a ironia, e faz parte do próprio hebraico."
+        },
+        {
+          "term": "Cobrir a cabeça",
+          "original": "Hebrew: וְרֹאשׁ חָפוּי (ve-rosh chafuy, and his head covered)",
+          "note": "Hamã corre para casa, de luto e com a cabeça coberta (6:12). Cobrir a cabeça indicava luto e vergonha; Davi subiu o monte das Oliveiras chorando, com a cabeça coberta, quando fugiu de Absalão (2 Samuel 15:30). Enquanto isso, Mardoqueu volta diretamente ao portão do rei, pois ainda tem um trabalho a cumprir."
+        },
+        {
+          "term": "Zeres e os sábios",
+          "original": "Hebrew: חֲכָמָיו וְזֶרֶשׁ אִשְׁתּוֹ (chakhamav ve-Zeresh ishto, his wise men and Zeresh his wife)",
+          "note": "O mesmo conselho doméstico que mandou Hamã construir a estaca em 5:14 agora lhe diz que sua queda começou e que ele não vencerá (6:13). As famílias persas ricas mantinham conselheiros, e Hamã reúne os seus duas vezes em dois capítulos. O raciocínio deles é apresentado no texto como um fato ligado à ascendência de Mardoqueu; enquanto ainda falam, os eunucos do rei chegam para levar Hamã ao segundo banquete."
         }
       ],
       "keyTakeaway": "Sem conseguir dormir, o rei Assuero descobre que Mardoqueu uma vez o salvou de um complô e não recebeu recompensa; ele então ordena que Hamã honre Mardoqueu publicamente com vestes reais e um cavalo. Hamã, que pretendia executar Mardoqueu, é obrigado a realizar a homenagem pessoalmente e corre para casa em desespero enquanto seus conselheiros o advertem sobre sua ruína iminente.",
@@ -338,14 +457,37 @@
         "Assim, executaram Hamã na forca que ele havia construído para Mardoqueu; e a ira do rei se acalmou. (7:10)."
       ],
       "crossRefs": [
-        "Ester 5:14: Poste de Hamã preparado para Mordecai.",
-        "Salmos 7:15–16: O malfeitor cai na cova que fez (paralelo proverbial)."
+        "Ester 5:9-14: Poste de Hamã preparado para Mordecai.",
+        "Esdras 6:11: O malfeitor cai na cova que fez (paralelo proverbial).",
+        "Gênesis 40:19-22: O padeiro-chefe do faraó é pendurado numa árvore no terceiro dia, exatamente como José interpretou o sonho.",
+        "Daniel 6:24: Os homens que acusaram Daniel são lançados na cova que prepararam para ele.",
+        "Salmos 7:14-16: O homem que cava uma cova cai nela, e sua violência desce sobre a própria cabeça."
       ],
       "translationNotes": [
         {
-          "term": "Violentar",
-          "original": "Hebrew: כָּבַשׁ / לִכְבּוֹשׁ (contextual accusation of forcing); Greek (LXX): καταβιάζεσθαι (katabiazesthai)",
-          "note": "A exclamação do rei quando Hamã cai sobre o divã de Ester (7:8); uma acusação de abordagem imprópria, não uma acusação formal julgada em tribunal."
+          "term": "Fomos vendidos",
+          "original": "Hebrew: נִמְכַּרְנוּ (nimkarnu, we have been sold)",
+          "note": "A formulação de Ester em 7:4 retoma a oferta de dez mil talentos feita por Hamã em 3:9: seu povo foi literalmente vendido. Ela acrescenta que, se tivessem sido vendidos apenas como escravos, teria ficado em silêncio, pois essa perda não justificaria incomodar o rei. As palavras destruição, morte e aniquilação que ela usa repetem exatamente os termos do decreto de 3:13."
+        },
+        {
+          "term": "Caindo sobre o divã",
+          "original": "Hebrew: לִכְבּוֹשׁ אֶת־הַמַּלְכָּה עִמִּי בַּבָּיִת (likhbosh et hammalkah immi babbayit, to force the queen while I am in the house)",
+          "note": "Os convidados de um banquete persa se reclinavam em divãs, em vez de se sentarem. Quando o rei sai furioso para o jardim e depois volta, Hamã se lançou sobre o divã em que Ester está reclinada para implorar pela própria vida (7:8). O rei interpreta o gesto como um ataque à rainha dentro de sua própria casa, e o verbo que usa significa subjugar ou forçar. Essa era ou não a intenção, mas é nessa palavra que a sentença termina."
+        },
+        {
+          "term": "Cobriram-lhe o rosto",
+          "original": "Hebrew: וּפְנֵי הָמָן חָפוּ (u-fenei Haman chafu)",
+          "note": "Assim que as palavras saem da boca do rei, os assistentes cobrem o rosto de Hamã (7:8). Cobrir a cabeça de um condenado antes da execução era uma prática conhecida no mundo antigo; o direito romano preservou a antiga fórmula caput obnubito, cubra-lhe a cabeça (Lívio 1.26). A cobertura mostra a sentença sendo executada, não um ato de misericórdia."
+        },
+        {
+          "term": "Harbona",
+          "original": "Hebrew: חַרְבוֹנָה (Charvonah)",
+          "note": "Um dos sete eunucos citados em 1:10 como assistentes da presença do rei. É ele quem menciona que uma estaca de setenta e cinco pés já está erguida na casa de Hamã, construída para o homem que denunciou a conspiração e salvou o rei (7:9). Os servos da corte sabiam o que havia nos pátios dos poderosos, e Harbona escolheu aquele momento para dizer isso."
+        },
+        {
+          "term": "A propriedade passa para a coroa",
+          "original": "Hebrew: בֵּית הָמָן (beit Haman, the house of Haman)",
+          "note": "Os bens de um condenado eram confiscados pelo rei. Por isso, em 8:1 Assuero entrega a casa de Hamã a Ester no mesmo dia, e Mardoqueu recebe o anel de sinete retirado de Hamã. A estaca que ele ergueu, a propriedade que acumulou e o anel com que selou o decreto mudam de mãos em apenas dois versículos."
         }
       ],
       "keyTakeaway": "No segundo banquete de Ester, ela identifica Hamã como o inimigo; Hamã é executado no poste que havia preparado para Mardoqueu.",
@@ -382,25 +524,37 @@
         "Em cada província e cidade, em cada lugar aonde o decreto do rei chegava, os judeus se alegravam muito e comemoravam com grandes banquetes, festas e feriados. Muitos que pertenciam a outros povos do império se tornaram judeus, porque temiam o que os judeus pudessem fazer com eles. (8:17)."
       ],
       "crossRefs": [
-        "Daniel 6:8-12: Editos reais irrevogáveis.",
-        "Provérbios 11:9: O justo é libertado (paralelo temático).",
-        "2 Macabeus 15:36: Comemorações judaicas posteriores (distintas do Purim)."
+        "1 Reis 21:8-11: Editos reais irrevogáveis.",
+        "Daniel 6:14-17: O justo é libertado (paralelo temático).",
+        "Ester 3:12-15: Comemorações judaicas posteriores (distintas do Purim).",
+        "2 Crônicas 30:6-10: Mensageiros levam as cartas do rei a pé por todo Israel e Judá, de cidade em cidade.",
+        "Esdras 1:1-4: Um rei persa registra por escrito um decreto que reverte toda a política do império para os exilados."
       ],
       "translationNotes": [
         {
-          "term": "Anel de sinete",
-          "original": "Hebrew: טַבַּעַת (tabbaʿat), Greek (LXX): δακτύλιος (daktylios), Aramaic: טבתא (tabbata)",
-          "note": "Anel usado para selar decretos com autoridade real (8:2-8)."
+          "term": "O anel de sinete",
+          "original": "Hebrew: טַבַּעַת (tabba'at) - Greek: δακτύλιος (daktylios)",
+          "note": "Os documentos persas eram enrolados, amarrados e selados com argila ou cera marcadas por um anel gravado ou um selo cilíndrico. A impressão era a assinatura: quem segurava o anel podia comprometer a coroa. Assuero o entrega a Hamã em 3:10, toma-o de volta quando Hamã morre e o passa a Mardoqueu em 8:2. Cada transferência desloca o poder de fazer leis."
         },
         {
-          "term": "Defender suas vidas",
-          "original": "Hebrew: לְהִקָּהֵל וְלַעֲמֹד עַל־נַפְשָׁם (lehikkahel velaʿamod ʿal nafsham), Greek (LXX): συναχθῆναι καὶ ἀμύνασθαι, Aramaic: לאתכנשא ולאקיימו על נפשיהון",
-          "note": "Direito legal concedido pelo contra-edito para autodefesa comunitária (8:11)."
+          "term": "O que é escrito em nome do rei e selado não pode ser revogado",
+          "original": "Hebrew: כְּתָב אֲשֶׁר־נִכְתָּב בְּשֵׁם־הַמֶּלֶךְ (ketav asher nikhtav beshem hammelekh)",
+          "note": "A regra declarada em 8:8 é o eixo da trama: o primeiro decreto não pode ser cancelado, apenas respondido. Por isso, um segundo decreto concede aos judeus de cada cidade o direito de se reunir e defender a própria vida no mesmo dia (8:11). Daniel 6:8-15 gira em torno do mesmo princípio, a lei dos medos e dos persas que não pode ser alterada."
         },
         {
-          "term": "Purim",
-          "original": "Hebrew: פּוּרִים (purim), Greek (LXX): Φουρείμ (Phoureim), Aramaic: פוריא (Puryā)",
-          "note": "Festival nomeado em referência às sortes (pur) pelas quais a data foi definida; observado em Adar 14–15 com banquete, presentes e auxílio aos pobres (9:26–32)."
+          "term": "As montarias dos mensageiros",
+          "original": "Hebrew: הָאֲחַשְׁתְּרָנִים בְּנֵי הָרַמָּכִים (ha-achashteranim benei ha-rammakhim)",
+          "note": "As duas palavras são persas, e as versões em português as traduzem como cavalos reais, criados nos haras do rei. O versículo 14 diz que os mensageiros saíram às pressas, impelidos pela ordem real, linguagem própria de um despacho prioritário. O primeiro decreto teve meses de antecedência; este precisa chegar a cento e vinte e sete províncias antes da mesma data já fixada."
+        },
+        {
+          "term": "Azul, branco e púrpura",
+          "original": "Hebrew: תְּכֵלֶת וָחוּר (tekhelet va-chur, violet-blue and white) - אַרְגָּמָן (argaman, purple)",
+          "note": "Mardoqueu sai da presença do rei vestido de violeta e branco, com uma grande coroa de ouro e um manto de linho fino e púrpura (8:15). São os mesmos dois corantes mencionados entre as cortinas do palácio em 1:6, ambos extraídos de moluscos múrex a um custo enorme. O texto diz que a cidade de Susã gritou de alegria, o oposto de 3:15, quando a mesma cidade foi lançada em confusão."
+        },
+        {
+          "term": "Muitos se tornaram judeus",
+          "original": "Hebrew: מִתְיַהֲדִים (mityahadim)",
+          "note": "O verbo deriva do nome Judá e não ocorre em nenhum outro lugar da Bíblia Hebraica. O versículo 17 diz que muitos dos povos da terra fizeram isso porque o temor dos judeus caiu sobre eles. A palavra descreve pessoas que se identificaram publicamente com a comunidade judaica, e o texto apresenta o medo como razão sem acrescentar comentário."
         }
       ],
       "keyTakeaway": "Xerxes entrega os bens de Hamã a Ester e seu anel com sinete a Mordecai; Ester persuade o rei a emitir um novo decreto permitindo que os judeus em todas as províncias se reunam e se defendam de seus inimigos no décimo terceiro dia de Adar. Mordecai envia o edito por mensageiros velozes, e os judeus respondem com celebração e festas.",
@@ -452,25 +606,37 @@
         "Assim, o decreto de Ester confirmou as orientações para a Festa de Purim, e tudo foi escrito nos registros. (9:32)."
       ],
       "crossRefs": [
-        "Daniel 6:8-12: Editos reais irrevogáveis.",
-        "Provérbios 11:9: O justo é libertado (paralelo temático).",
-        "2 Macabeus 15:36: Comemorações judaicas posteriores (distintas do Purim)."
+        "1 Samuel 15:17-23: Editos reais irrevogáveis.",
+        "Êxodo 17:14-16: O justo é libertado (paralelo temático).",
+        "Salmos 124:1-8: Comemorações judaicas posteriores (distintas do Purim).",
+        "Neemias 8:10-12: O povo recebe a ordem de comer, beber e enviar porções aos que não prepararam nada.",
+        "Êxodo 12:14-17: Um dia é estabelecido como memorial, uma festa guardada por todas as gerações como estatuto permanente."
       ],
       "translationNotes": [
         {
-          "term": "Anel de sinete",
-          "original": "Hebrew: טַבַּעַת (tabbaʿat), Greek (LXX): δακτύλιος (daktylios), Aramaic: טבתא (tabbata)",
-          "note": "Anel usado para selar decretos com autoridade real (8:2-8)."
+          "term": "Eles não tocaram nos despojos",
+          "original": "Hebrew: וּבַבִּזָּה לֹא שָׁלְחוּ אֶת־יָדָם (u-vabbizzah lo shalechu et yadam)",
+          "note": "O livro afirma isso três vezes (9:10, 15, 16); na narrativa hebraica, a repetição serve como ênfase. O decreto de 8:11 lhes concedia expressamente os despojos. Portanto, eles abrem mão de um direito, não obedecem a uma restrição. O fracasso de Saul contra os amalequitas consistiu precisamente em reter os despojos (1 Samuel 15:19)."
         },
         {
-          "term": "Defender suas vidas",
-          "original": "Hebrew: לְהִקָּהֵל וְלַעֲמֹד עַל־נַפְשָׁם (lehikkahel velaʿamod ʿal nafsham), Greek (LXX): συναχθῆναι καὶ ἀμύνασθαι, Aramaic: לאתכנשא ולאקיימו על נפשיהון",
-          "note": "Direito legal concedido pelo contra-edito para autodefesa comunitária (8:11)."
+          "term": "Dois dias e duas datas",
+          "original": "Hebrew: אַרְבָּעָה עָשָׂר וַחֲמִשָּׁה עָשָׂר (arba'ah asar va-chamishshah asar, the fourteenth and the fifteenth)",
+          "note": "Nas províncias, a luta ocorreu no décimo terceiro dia de adar, e o décimo quarto foi o dia de descanso e festa. Na capital murada, o rei concedeu um segundo dia, de modo que Susã descansou no décimo quinto (9:15-18). Por isso, o Purim continua sendo celebrado em duas datas: no dia catorze nas cidades comuns e no dia quinze nas cidades que tinham muralhas, data chamada Purim de Susã."
+        },
+        {
+          "term": "Os dez filhos pendurados",
+          "original": "Hebrew: יִתָּלוּ עַל־הָעֵץ (yittalu al ha-ets, let them be hanged on the wood)",
+          "note": "Os versículos 7-10 registram que os dez filhos de Hamã morreram na luta; o pedido de 9:13 determina que seus corpos sejam depois presos à estaca. Expor um cadáver após a morte era uma demonstração pública da sentença, e Deuteronômio 21:22-23 exige que esse corpo seja retirado no mesmo dia. Nos manuscritos hebraicos, seus nomes aparecem numa única coluna vertical, um por linha."
         },
         {
           "term": "Purim",
-          "original": "Hebrew: פּוּרִים (purim), Greek (LXX): Φουρείμ (Phoureim), Aramaic: פוריא (Puryā)",
-          "note": "Festival nomeado em referência às sortes (pur) pelas quais a data foi definida; observado em Adar 14–15 com banquete, presentes e auxílio aos pobres (9:26–32)."
+          "original": "Hebrew: פּוּרִים (Purim, lots)",
+          "note": "A festa recebe seu nome do pur, o dado que Hamã lançou para escolher a data (9:24-26). Suas regras aparecem em 9:22: banquetes e alegria, envio de porções de comida uns aos outros e presentes aos pobres. É a única festa da Bíblia Hebraica que não foi ordenada no Sinai; Mardoqueu e Ester a estabelecem por carta, e 9:27 diz que os judeus assumiram a obrigação para si e para seus descendentes."
+        },
+        {
+          "term": "Setenta e cinco mil",
+          "original": "Hebrew: חֲמִשָּׁה וְשִׁבְעִים אֶלֶף (chamishshah veshiv'im elef)",
+          "note": "Esse é o total nas cento e vinte e sete províncias (9:16), comparado a quinhentos mortos na cidadela de Susã no primeiro dia e trezentos no segundo (9:6, 15). O texto os apresenta como inimigos que se levantaram para executar o primeiro decreto e observa duas vezes que ninguém podia resistir aos judeus, pois o temor deles havia caído sobre os povos."
         }
       ],
       "keyTakeaway": "Os judeus se defendem de seus inimigos no décimo terceiro de Adar, matando setenta e cinco mil nas províncias e quinhentos em Susã, incluindo os dez filhos de Hamã; Mardoqueu então institui uma celebração anual chamada Purim para commemorar a libertação do povo.",
@@ -497,25 +663,32 @@
         "O judeu Mardoqueu ocupou o cargo mais alto do reino, abaixo apenas do próprio rei Xerxes. Era muito importante entre os judeus, que o tinham em alta consideração, pois ele continuou a trabalhar para o bem de seu povo e a buscar o bem-estar de todos os seus descendentes. (10:3)."
       ],
       "crossRefs": [
-        "Daniel 6:8-12: Editos reais irrevogáveis.",
-        "Provérbios 11:9: O justo é libertado (paralelo temático).",
-        "2 Macabeus 15:36: Comemorações judaicas posteriores (distintas do Purim)."
+        "2 Reis 25:27-30: Editos reais irrevogáveis.",
+        "Daniel 2:48: O justo é libertado (paralelo temático).",
+        "Neemias 2:1-8: Comemorações judaicas posteriores (distintas do Purim).",
+        "Jeremias 29:4-7: Busquem o bem da cidade para onde Eu os enviei ao exílio e orem ao SENHOR em favor dela.",
+        "1 Crônicas 29:29-30: Os atos de um rei, do primeiro ao último, registrados com todo o seu reinado e poder."
       ],
       "translationNotes": [
         {
-          "term": "Anel de sinete",
-          "original": "Hebrew: טַבַּעַת (tabbaʿat), Greek (LXX): δακτύλιος (daktylios), Aramaic: טבתא (tabbata)",
-          "note": "Anel usado para selar decretos com autoridade real (8:2-8)."
+          "term": "Tributo sobre a terra e as regiões costeiras",
+          "original": "Hebrew: מַס (mas, levy or forced labour)",
+          "note": "Mas abrange tanto um imposto quanto a corveia, uma convocação para trabalho obrigatório; Salomão impôs uma para seus projetos de construção (1 Reis 5:13-14). O versículo 1 mostra Assuero impondo-a ao continente e às regiões costeiras, as ilhas e costas do Egeu. É uma única linha da rotina imperial, o retrato do império em cada dia comum desta história."
         },
         {
-          "term": "Defender suas vidas",
-          "original": "Hebrew: לְהִקָּהֵל וְלַעֲמֹד עַל־נַפְשָׁם (lehikkahel velaʿamod ʿal nafsham), Greek (LXX): συναχθῆναι καὶ ἀμύνασθαι, Aramaic: לאתכנשא ולאקיימו על נפשיהון",
-          "note": "Direito legal concedido pelo contra-edito para autodefesa comunitária (8:11)."
+          "term": "As crônicas dos reis da Média e da Pérsia",
+          "original": "Hebrew: סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי מָדַי וּפָרָס (sefer divrei hayyamim lemalkhei Madai u-Faras)",
+          "note": "São os mesmos anais oficiais lidos em 6:1 que salvaram a vida de Mardoqueu. O versículo 2 diz que o relato completo do poder de Assuero e da promoção de Mardoqueu está escrito ali, remetendo o leitor a um arquivo estatal que não sobreviveu. Reis e Crônicas fazem o mesmo tipo de referência aos anais de Israel e Judá."
         },
         {
-          "term": "Purim",
-          "original": "Hebrew: פּוּרִים (purim), Greek (LXX): Φουρείμ (Phoureim), Aramaic: פוריא (Puryā)",
-          "note": "Festival nomeado em referência às sortes (pur) pelas quais a data foi definida; observado em Adar 14–15 com banquete, presentes e auxílio aos pobres (9:26–32)."
+          "term": "Segundo depois do rei",
+          "original": "Hebrew: מִשְׁנֶה לַמֶּלֶךְ (mishneh lammelekh)",
+          "note": "O cargo ocupado por Hamã em 3:1 e por Mardoqueu em 10:3, a posição de vizir. José ocupa a mesma posição no Egito (Gênesis 41:40-44), e Daniel é constituído terceiro no reino da Babilônia (Daniel 5:29). O versículo 3 define o que Mardoqueu fez com esse poder: buscou o bem de seu povo e falou em favor da paz de todos os seus compatriotas."
+        },
+        {
+          "term": "Deus nunca é citado pelo nome neste livro",
+          "original": "",
+          "note": "O texto hebraico de Ester nunca usa o nome de Deus, nem a palavra oração, nem a lei de Moisés, nem o templo de Jerusalém. A versão grega da Septuaginta contém seis passagens adicionais que mencionam essas coisas, entre elas as orações de Mardoqueu e Ester. Por causa desses acréscimos, as Bíblias católicas e ortodoxas apresentam um livro de Ester mais longo que as Bíblias judaicas e protestantes. O texto hebraico registra, em vez disso, o jejum (4:16), a formulação de 4:14 e uma cadeia de acontecimentos sem coincidências."
         }
       ],
       "keyTakeaway": "O rei Xerxes coleta tributos em todo o seu império enquanto Mordecai, promovido ao segundo posto, torna-se proeminente entre os judeus e trabalha pelo bem-estar do seu povo.",

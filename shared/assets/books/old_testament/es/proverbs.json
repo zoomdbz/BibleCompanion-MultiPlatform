@@ -1,7 +1,7 @@
 {
   "id": "proverbs",
   "title": "Proverbios",
-  "intro": "Proverbios es una colección de dichos sapienciales compuestos por múltiples autores a lo largo de aproximadamente tres siglos, desde alrededor de 970 a.C. hasta 686 a.C. El mayor contribuyente fue el rey Salomón (c. 990-931 a.C.), tercer rey de Israel, a quien 1 Reyes 4:32 atribuye 3.000 proverbios y 1.005 cánticos. Salomón es autor de las porciones principales del libro (capítulos 1-22:16 y 25-29). Otros contribuyentes nombrados incluyen a \"los sabios\" (dichos recopilados en 22:17-24:34), Agur hijo de Jaqué (capítulo 30) y la madre del rey Lemuel, quien enseñó a su hijo la sabiduría registrada en el capítulo 31. Los escribas reales de Ezequías (Proverbios 25:1) compilaron una colección adicional de proverbios salomónicos de fuentes más antiguas aproximadamente 250 años después de la muerte de Salomón, hacia 715-686 a.C., llevando el libro a su forma final.\n\nSalomón fue hijo de David y Betsabé, nacido en Jerusalén y criado bajo la tutela del profeta Natán. Cuando Dios se le apareció en Gabaón al inicio de su reinado y le ofreció cualquier don, Salomón pidió sabiduría para gobernar al pueblo (1 Reyes 3:5-14); Dios le concedió esa sabiduría junto con riquezas y honor sin igual entre todos los demás reyes. Reinó sobre un Israel unido desde Jerusalén durante cuarenta años (c. 970-931 a.C.), construyó el primer templo en siete años, expandió el territorio del reino y sus redes comerciales hasta su máxima extensión, se casó con setecientas esposas y trescientas concubinas de naciones extranjeras, y se volvió en sus últimos años al culto de los dioses extranjeros de sus mujeres (1 Reyes 11:1-8). Ezequías fue el decimotercer rey de Judá (que reinó c. 715-686 a.C.), hijo de Acaz, un reformador religioso que restauró el culto del templo de Judá y sobrevivió a la invasión asiria de 701 a.C. bajo Senaquerib. Agur hijo de Jaqué y el rey Lemuel son por lo demás desconocidos; ambos son descritos como masaítas (Proverbios 30:1; 31:1, donde el hebreo puede leerse como \"Lemuel rey de Masá\"), siendo Masá una tribu de descendientes ismaelitas en el norte de Arabia (Génesis 25:14, 1 Crónicas 1:30). Su inclusión en el canon refleja la antigua tradición israelita de reconocer la sabiduría procedente de sabios no israelitas.\n\nProverbios es el vigésimo libro del Antiguo Testamento cristiano. El nombre hebreo Mishlei (de Mishlei Shlomo, \"Proverbios de Salomón\") proviene de las palabras iniciales del libro, con el singular mashal que significa \"proverbio\", \"parábola\" o \"comparación\". El título español proviene de la Vulgata latina Proverbia por vía de la Septuaginta griega Paroimiai (siglo III a.C.). Fragmentos de manuscritos hebreos de Proverbios se hallaron entre los Rollos del Mar Muerto descubiertos en Qumrán (mediados del siglo XX d.C.), con copias que datan de los siglos II y I a.C.",
+  "intro": "Proverbios es una colección de dichos sapienciales compuesta por varios autores a lo largo de aproximadamente tres siglos, desde alrededor del 970 a.C. hasta el 686 a.C. El mayor contribuyente fue el rey Salomón (hacia 990-931 a.C.), tercer rey de Israel, a quien 1 Reyes 4:32 atribuye 3000 proverbios y 1005 cánticos. Salomón compuso las porciones principales del libro (capítulos 1-22:16 y 25-29). Entre los demás contribuyentes nombrados están \"los sabios\" (dichos recogidos en 22:17-24:34), Agur hijo de Jaqué (capítulo 30), y la madre del rey Lemuel, que enseñó a su hijo la sabiduría registrada en el capítulo 31. Los escribas reales de Ezequías (Proverbios 25:1) compilaron una colección adicional de proverbios salomónicos a partir de fuentes más antiguas, unos 250 años después de la muerte de Salomón, alrededor del 715-686 a.C., y llevaron el libro a su forma final.\n\nSalomón fue hijo de David y Betsabé, nacido en Jerusalén y criado bajo la tutela del profeta Natán. Cuando Dios se le apareció en Gabaón al comienzo de su reinado y le ofreció cualquier don, Salomón pidió sabiduría para gobernar al pueblo (1 Reyes 3:5-14); Dios le concedió esa sabiduría junto con riquezas y honra que ningún otro rey igualó. Reinó sobre un Israel unido desde Jerusalén durante cuarenta años (hacia 970-931 a.C.), construyó el primer templo en siete años, extendió el territorio y las redes comerciales del reino hasta su máxima amplitud, se casó con setecientas mujeres y trescientas concubinas de naciones extranjeras, y en sus últimos años se volvió al culto de los dioses extranjeros de sus mujeres (1 Reyes 11:1-8). Ezequías fue el decimotercer rey de Judá (que reinó hacia 715-686 a.C.), hijo de Acaz, reformador religioso que restauró el culto del templo de Judá y sobrevivió a la invasión asiria del 701 a.C. bajo Senaquerib. Agur hijo de Jaqué y el rey Lemuel son por lo demás desconocidos; a ambos se los describe como masaítas (Proverbios 30:1; 31:1, donde el hebreo puede leerse como \"Lemuel rey de Masá\"), siendo Masá una tribu de descendientes de Ismael en el norte de Arabia (Génesis 25:14; 1 Crónicas 1:30). Su inclusión en el canon refleja la antigua tradición israelita de reconocer la sabiduría procedente de sabios no israelitas.\n\nProverbios es el libro vigésimo del Antiguo Testamento cristiano. El nombre hebreo Mishlei (de Mishlei Shlomo, \"Proverbios de Salomón\") viene de las palabras que abren el libro, y el singular mashal significa \"proverbio\", \"parábola\" o \"comparación\". El título español viene del latín de la Vulgata Proverbia por vía del griego de la Septuaginta Paroimiai (siglo III a.C.). Entre los Rollos del Mar Muerto descubiertos en Qumrán (mediados del siglo XX d.C.) había fragmentos de manuscritos hebreos de Proverbios, con copias fechadas en los siglos II y I a.C.",
   "stories": [
     {
       "id": "proverbs-1",
@@ -45,28 +45,43 @@
         "Pero el que me obedezca vivirá tranquilo, sosegado y sin temor del mal». (1:33)."
       ],
       "crossRefs": [
-        "1 Reyes 4:32: Se mencionan los proverbios y cánticos de Salomón.",
-        "Salmo 111:10: El temor del SEÑOR es el principio de la sabiduría.",
-        "Proverbios 9:10: El temor del SEÑOR es el principio de la sabiduría; el conocimiento del Santo es entendimiento."
+        "1 Reyes 4:32: Se hace notar los proverbios y los cánticos de Salomón.",
+        "Salmos 111:10: El temor del SEÑOR es el principio de la sabiduría.",
+        "Proverbios 9:10: El temor del SEÑOR es el principio de la sabiduría; el conocimiento del Santo es inteligencia."
       ],
       "translationNotes": [
         {
           "term": "Proverbio",
           "original": "Hebrew: מָשָׁל (māshal), Greek (LXX): παροιμία (paroimia), Aramaic: מתל (māthel)",
-          "note": "Dicho breve o comparación usada para la instrucción (1:1–6)."
+          "note": "Un dicho o comparación conciso usado para la instrucción (1:1-6)."
         },
         {
           "term": "Sabiduría / instrucción",
           "original": "Hebrew: חָכְמָה (ḥokmāh) / מוּסָר (mūsār), Greek: σοφία / παιδεία, Aramaic: חכמתא / מוסרָא",
-          "note": "Habilidad para vivir / formación disciplinada (1:2)."
+          "note": "Destreza para vivir; adiestramiento disciplinado (1:2)."
         },
         {
-          "term": "Simple",
+          "term": "El ingenuo",
           "original": "Hebrew: פֶּתִי (peti), Greek: ἄκακος/ἁπλοῦς (contextual), Aramaic: פתיא (patyā)",
           "note": "Persona inexperta o ingenua que necesita prudencia (1:4)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "El reino de los muertos en el Antiguo Testamento; un inframundo en penumbra al que descienden tanto los justos como los impíos (Génesis 37:35; Salmo 16:10). No es necesariamente un lugar de tormento; más bien un estado de cese y de silencio. La Septuaginta y el Nuevo Testamento lo traducen con la palabra griega hades."
+        },
+        {
+          "term": "Qué es un mashal",
+          "original": "Hebrew: מָשָׁל (mashal)",
+          "note": "La palabra hebrea que hay detrás de \"proverbio\" abarca mucho más terreno que la española. Se usa del oráculo de Balaam (Números 23:7), de un enigma y una parábola juntos (Ezequiel 17:2), y de una frase que la gente se repite unos a otros, como el dicho de las uvas agrias de Ezequiel 18:2. Proverbios 1:6 enumera de un tirón proverbios, parábolas, dichos y enigmas. Un mashal declara cómo suele suceder algo, más que garantizar cada caso, y por eso 26:4 y 26:5 pueden estar uno junto al otro, uno diciéndote que no respondas al necio y el siguiente diciéndote que le respondas."
+        },
+        {
+          "term": "Qué es un mashal",
+          "original": "Hebrew: מָשָׁל (mashal)",
+          "note": "La palabra hebrea que hay detrás de \"proverbio\" abarca mucho más terreno que la española. Se usa del oráculo de Balaam (Números 23:7), de un enigma y una parábola juntos (Ezequiel 17:2), y de una frase que la gente se repite unos a otros, como el dicho de las uvas agrias de Ezequiel 18:2. Proverbios 1:6 enumera de un tirón proverbios, parábolas, dichos y enigmas. Un mashal declara cómo suele suceder algo, más que garantizar cada caso, y por eso 26:4 y 26:5 pueden estar uno junto al otro, uno diciéndote que no respondas al necio y el siguiente diciéndote que le respondas."
         }
       ],
-      "keyTakeaway": "Proverbios nombra a Salomón y declara que su propósito es la sabiduría práctica, arraigada en el temor al SEÑOR como el principio del conocimiento.",
+      "keyTakeaway": "Proverbios nombra a Salomón y declara que su objetivo es la sabiduría práctica, arraigada en el temor del SEÑOR como el principio del conocimiento.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -109,34 +124,34 @@
         "Pero los malvados serán desarraigados y los infieles expulsados de la tierra. (2:22)."
       ],
       "crossRefs": [
-        "Job 28:12–19: La sabiduría buscada como mineral precioso.",
-        "Deuteronomio 6:6–9: Palabras puestas en el corazón; enseñar y guardar.",
-        "Proverbios 5:3–5: Los labios de la mujer ajena; sus pasos descienden a la muerte.",
-        "Salmo 37:29: \"Los justos heredarán la tierra y habitarán en ella para siempre.\""
+        "Job 28:12-19: La sabiduría buscada como se busca el mineral precioso.",
+        "Deuteronomio 6:6-9: Palabras puestas sobre el corazón; enseñarlas y guardarlas.",
+        "Proverbios 5:3-5: Los labios de la mujer ajena; sus pasos descienden a la muerte.",
+        "Salmos 37:29: \"Los justos heredarán la tierra y morarán en ella para siempre.\""
       ],
       "translationNotes": [
         {
-          "term": "Sana sabiduría",
+          "term": "Sabiduría sólida",
           "original": "Hebrew: תּוּשִׁיָּה (tushiyyāh), Greek (LXX): σωτηρία/σύνεσις (contextual), Aramaic: תושייתא",
-          "note": "Sabiduría sustancial y eficaz, atesorada para los rectos (2:7)."
+          "note": "Sabiduría sustancial y eficaz reservada para los rectos (2:7)."
         },
         {
           "term": "Cosas perversas",
           "original": "Hebrew: תַּהְפֻּכוֹת (tahpukhot), Greek: σκολιά, Aramaic: תהפוכתא",
-          "note": "Habla torcida o retorcida (2:12)."
+          "note": "Habla torcida y tortuosa (2:12)."
         },
         {
           "term": "Mujer ajena / extraña",
           "original": "Hebrew: אִשָּׁה זָרָה (ishah zarah) / נָכְרִיָּה (nokhriyyah), Greek: γυνὴ ἀλλοτρία, Aramaic: אתתא נוכריתא",
-          "note": "Forastera o compañera no autorizada cuyo camino lleva a la muerte (2:16–19)."
+          "note": "Compañera ajena o no autorizada cuyo camino lleva a la muerte (2:16-19)."
         },
         {
-          "term": "Compañero de su juventud",
+          "term": "El compañero de su juventud",
           "original": "Hebrew: אַלּוּף נְעוּרֶיהָ (alluf neʿureha), Greek: σύντροφος νεότητος, Aramaic: רֵעַ עוּלְמַה",
-          "note": "Su compañero anterior; ella lo abandona (2:17)."
+          "note": "Su pareja anterior; ella lo abandona (2:17)."
         }
       ],
-      "keyTakeaway": "Si la sabiduría se busca como plata y se recibe, el SEÑOR la otorga, guarda los caminos rectos y libra de los hombres malvados y de la mujer prohibida; los íntegros permanecen en la tierra mientras los malvados son eliminados.",
+      "keyTakeaway": "Si se busca la sabiduría como se busca la plata y se la recibe, el SEÑOR la da, guardando las sendas rectas y librando de los hombres malvados y de la mujer ajena; los rectos permanecen en la tierra mientras los impíos son eliminados.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -188,34 +203,39 @@
         "Los sabios son dignos de honra, pero los necios solo merecen deshonra. (3:35)."
       ],
       "crossRefs": [
-        "Deuteronomio 6:6–9: Ata las palabras; escríbelas en los postes de tu casa (motivo de atar y escribir).",
-        "Deuteronomio 26:1–11: Ofrenda de las primicias.",
-        "Salmo 37:3–5: Confía en el SEÑOR y Él actuará.",
-        "Hebreos 12:5–6: Cita Proverbios 3:11–12 sobre la disciplina del SEÑOR."
+        "Deuteronomio 6:6-9: Atar las palabras; escribirlas en los postes de la puerta (motivo de atar y escribir).",
+        "Deuteronomio 26:1-11: La ofrenda de las primicias.",
+        "Salmos 37:3-5: Confía en el SEÑOR y Él actuará.",
+        "Hebreos 12:5-6: Cita Proverbios 3:11-12 acerca de la disciplina del SEÑOR."
       ],
       "translationNotes": [
         {
           "term": "Enseñanza / ley",
           "original": "Hebrew: תּוֹרָה (torah), Greek: νόμος (nomos), Aramaic: אורייתא (orayta)",
-          "note": "Instrucción que debe ser recordada y guardada (3:1)."
+          "note": "Instrucción que se ha de recordar y guardar (3:1)."
         },
         {
-          "term": "Misericordia y verdad",
+          "term": "Amor y fidelidad",
           "original": "Hebrew: חֶסֶד וֶאֱמֶת (ḥesed veʾemet), Greek: ἔλεος καὶ ἀλήθεια, Aramaic: חסד וקושטא",
-          "note": "Términos del pacto emparejados que deben atarse e inscribirse (3:3)."
+          "note": "Términos emparejados del pacto, para atarlos e inscribirlos (3:3)."
         },
         {
           "term": "Enderezará tus sendas",
           "original": "Hebrew: יְיַשֵּׁר אֹרְחֹתֶיךָ (yeyasher orḥotekha), Greek: κατευθυνεῖ τὰς ὁδούς, Aramaic: יישר אורחתך",
-          "note": "Allanar o dirigir el camino de uno (3:6)."
+          "note": "Allanar y dirigir el camino de uno (3:6)."
         },
         {
           "term": "Disciplina / reprensión",
           "original": "Hebrew: מוּסָר (musar) / תּוֹכַחַת (tokhaḥat), Greek: παιδεία / ἔλεγχος, Aramaic: מוסרָא / תוכחתא",
-          "note": "Formación y amonestación correctiva (3:11–12)."
+          "note": "Adiestramiento y corrección (3:11-12)."
+        },
+        {
+          "term": "primicias",
+          "original": "Hebrew: בִּכּוּרִים (bikkurim)",
+          "note": "La primera porción de cada cosecha ofrecida a Dios antes de que se pudiera comer el resto (Éxodo 23:19; Levítico 23:9-14). Pablo llama al Cristo resucitado \"las primicias de los que durmieron\" (1 Corintios 15:20); la garantía de que seguirá la cosecha plena de la resurrección."
         }
       ],
-      "keyTakeaway": "El pasaje ordena confiar en el SEÑOR en lugar de depender de uno mismo, promete caminos rectos y salud, instruye a honrarlo con las primicias y afirma que él disciplina como un padre.",
+      "keyTakeaway": "El pasaje ordena confiar en el SEÑOR en lugar de apoyarse en uno mismo, promete sendas rectas y salud, manda honrarlo con las primicias, y declara que Él disciplina como un padre.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -259,28 +279,28 @@
         "No te desvíes ni a diestra ni a siniestra; apártate de la maldad. (4:27)."
       ],
       "crossRefs": [
-        "Salmo 1:1–6: Dos caminos: justos contra impíos.",
+        "Salmos 1:1-6: Dos caminos: el del justo frente al del impío.",
         "Deuteronomio 5:32: No te apartes ni a la derecha ni a la izquierda.",
-        "Proverbios 3:17: Los caminos de la sabiduría son deleite y paz."
+        "Proverbios 3:17: Los caminos de la sabiduría son agradables, y todas sus veredas, paz."
       ],
       "translationNotes": [
         {
           "term": "Senda / camino",
           "original": "Hebrew: דֶּרֶךְ (déreḵ) / אֹרַח (ʾóraḥ), Greek (LXX): ὁδός, Aramaic: אורחא",
-          "note": "Metáfora de ruta o camino para la conducta (4:11–14) (4:18–19) (4:26–27)."
+          "note": "Metáfora del camino o la ruta aplicada a la conducta (4:11-14) (4:18-19) (4:26-27)."
         },
         {
           "term": "Corazón",
           "original": "Hebrew: לֵב (lev), Greek: καρδία, Aramaic: לבא",
-          "note": "Centro interior del pensamiento y la voluntad; debe ser guardado (4:21–23)."
+          "note": "Centro interior del pensamiento y la voluntad; se ha de guardar (4:21-23)."
         },
         {
-          "term": "Boca perversa",
+          "term": "Habla torcida",
           "original": "Hebrew: עִקֵּשׁוּת פֶּה (ʿiqkēshut peh), Greek: σκολιότης, Aramaic: עוות פומא",
-          "note": "Habla torcida y desviada que debe apartarse (4:24)."
+          "note": "Palabras retorcidas y tortuosas que se han de apartar (4:24)."
         }
       ],
-      "keyTakeaway": "El pasaje ordena adquirir y conservar la sabiduría, evitar el camino de los malvados, andar en el camino recto como una luz que crece y guardar el corazón como fuente de vida.",
+      "keyTakeaway": "El pasaje ordena adquirir y retener la sabiduría, evitar la senda de los impíos, andar por la senda de los justos como la luz que va en aumento, y guardar el corazón como la fuente de la vida.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -321,27 +341,27 @@
       ],
       "crossRefs": [
         "Éxodo 20:14: \"No cometerás adulterio.\"",
-        "Proverbios 6:23–35: El costo del adulterio y la venganza del marido.",
-        "Proverbios 7:6–27: Escena nocturna de seducción que lleva al Seol."
+        "Proverbios 6:23-35: El costo del adulterio y la venganza del marido.",
+        "Proverbios 7:6-27: Escena nocturna de seducción que conduce al Seol."
       ],
       "translationNotes": [
         {
-          "term": "Mujer ajena / extraña; adultera",
+          "term": "Mujer ajena / extraña; adúltera",
           "original": "Hebrew: אִשָּׁה זָרָה (ishah zarah) / נָכְרִיָּה (nokhriyyah) / אֵשֶׁת מֵאֵישׁ אַחֵר (ʾeshet meʾish aḥer, ‘another man’s wife’), Greek (LXX): γυνὴ ἀλλοτρία, Aramaic: אתתא נוכריתא",
-          "note": "Designaciones para la mujer fuera del matrimonio legítimo cuyo camino conduce a la muerte (5:3–5)."
-        },
-        {
-          "term": "Seol",
-          "original": "Hebrew: שְׁאוֹל (Sheʾol), Greek (LXX): ᾅδης (Hades), Aramaic: שאולא (Sheʾola)",
-          "note": "Morada de los muertos (5:5)."
+          "note": "Designaciones de la mujer fuera del matrimonio lícito cuyo camino lleva a la muerte (5:3-5)."
         },
         {
           "term": "Cisterna / fuente",
           "original": "Hebrew: בּוֹר (bor) / מָקוֹר (maqor), Greek: λάκκος / πηγή, Aramaic: בורא / מעיינא",
-          "note": "Fuentes de agua del hogar usadas como imagen de la fidelidad conyugal (5:15–18)."
+          "note": "Fuentes domésticas de agua usadas como imagen de la fidelidad conyugal (5:15-18)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "El reino de los muertos en el Antiguo Testamento; un inframundo en penumbra al que descienden tanto los justos como los impíos (Génesis 37:35; Salmo 16:10). No es necesariamente un lugar de tormento; más bien un estado de cese y de silencio. La Septuaginta y el Nuevo Testamento lo traducen con la palabra griega hades."
         }
       ],
-      "keyTakeaway": "El pasaje advierte mantenerse lejos de la mujer prohibida cuyo camino lleva a la muerte, regocijarse en la propia esposa, y declara que el SEÑOR ve todos los caminos y que el pecado indisciplinado atrapa y mata.",
+      "keyTakeaway": "El pasaje advierte que hay que mantenerse lejos de la mujer ajena cuyo camino lleva a la muerte, que hay que gozarse en la propia esposa, y declara que el SEÑOR ve todos los caminos y que el pecado sin disciplina atrapa y mata.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -394,32 +414,32 @@
       ],
       "crossRefs": [
         "Proverbios 11:15: El que sale fiador de un extraño sufrirá por ello.",
-        "Proverbios 24:30–34: El campo del perezoso; la pobreza viene como un vagabundo.",
-        "Deuteronomio 19:16–19: Leyes sobre el testigo falso."
+        "Proverbios 24:30-34: El campo del perezoso; la pobreza llega como un salteador.",
+        "Deuteronomio 19:16-19: Leyes sobre el falso testigo (el testigo mentiroso)."
       ],
       "translationNotes": [
         {
-          "term": "Fianza / compromiso",
+          "term": "Fianza / prenda",
           "original": "Hebrew: עָרַב (ʿarav, ‘to pledge/become collateral’), Greek (LXX): ἔγγυος/ἐγγύη, Aramaic: ערבותא",
-          "note": "Hacerse responsable por la deuda de otro (6:1–5)."
+          "note": "Hacerse responsable de la deuda de otro (6:1-5)."
         },
         {
           "term": "Perezoso",
           "original": "Hebrew: עָצֵל (ʿatsel), Greek: ὀκνηρός, Aramaic: עצלא",
-          "note": "Persona habitualmente holgazana a quien se insta a aprender de la hormiga (6:6–11)."
+          "note": "Persona habitualmente perezosa a quien se exhorta a aprender de la hormiga (6:6-11)."
         },
         {
-          "term": "Hombre perverso",
+          "term": "Hombre indigno",
           "original": "Hebrew: אִישׁ בְּלִיַּעַל (ʾish beliyyaʿal)",
-          "note": "Término para un alborotador indigno; descrito por señales y maquinaciones (6:12–14)."
+          "note": "Término para un malhechor vil; descrito por sus señas y sus tramas (6:12-14)."
         },
         {
           "term": "Abominación",
           "original": "Hebrew: תּוֹעֵבָה (toʿevah), Greek: βδέλυγμα, Aramaic: תועבתא (toʿevta)",
-          "note": "Actos detestables enumerados en las siete cosas (6:16–19)."
+          "note": "Actos detestables enumerados en las siete cosas (6:16-19)."
         }
       ],
-      "keyTakeaway": "El pasaje ordena escapar de compromisos riesgosos, reprende la pereza con el ejemplo de la hormiga, describe a un alborotador que usa señales y se dirige a la ruina repentina, y enumera siete abominaciones que el SEÑOR odia.",
+      "keyTakeaway": "El pasaje ordena escapar de las fianzas arriesgadas, reprende la pereza con el ejemplo de la hormiga, describe a un malhechor que hace señas y va camino de la ruina repentina, y enumera siete abominaciones que el SEÑOR aborrece.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -467,33 +487,43 @@
         "Su casa lleva derecho al sepulcro; conduce a las habitaciones de la muerte. (7:27)."
       ],
       "crossRefs": [
-        "Éxodo 20:14: Prohibición del adulterio.",
-        "Proverbios 5:8: Aleja de ella tu camino.",
-        "Proverbios 9:13–18: La casa de la insensatez y los muertos que son sus huéspedes."
+        "Éxodo 20:14: La prohibición del adulterio.",
+        "Proverbios 5:8: Aparta de ella tu camino.",
+        "Proverbios 9:13-18: La casa de la Necedad y sus convidados muertos."
       ],
       "translationNotes": [
         {
-          "term": "Niña de tus ojos",
+          "term": "La niña de tus ojos",
           "original": "Hebrew: אִישׁוֹן עַיִן (ʾishon ʿayin), Greek: κόρη ὀφθαλμοῦ, Aramaic: בָּבַת עֵינָא (bāvat ʿeinā)",
-          "note": "Imagen de cuidadosa protección (7:2)."
+          "note": "Figura del cuidado esmerado (7:2)."
         },
         {
-          "term": "Ofrendas de paz",
+          "term": "Ofrendas de paz / de comunión",
           "original": "Hebrew: זִבְחֵי שְׁלָמִים (zivḥei shelamim), Greek (LXX): θυσίαι σωτηρίων, Aramaic: דבחי שלמיא",
-          "note": "Sacrificios asociados con comidas compartidas (7:14)."
+          "note": "Sacrificios asociados a comidas compartidas (7:14)."
         },
         {
-          "term": "Fecha señalada / luna llena",
+          "term": "Tiempo señalado / luna llena",
           "original": "Hebrew: בְּיוֹם הַכֵּסֶא (be-yom ha-keseʾ), Greek: ἐν ἡμέρᾳ ὡρισμένῃ, Aramaic: ביומא קצויא",
           "note": "Frase traducida como \"día señalado\" o \"luna llena\" (7:20)."
         },
         {
-          "term": "Flecha traspasa su hígado",
+          "term": "La flecha le atraviesa el hígado",
           "original": "Hebrew: חֵץ יְמַהֵר כָּבֵד (ḥetz y’mahēr kāved), Greek: βέλος διήλθεν ἧπαρ, Aramaic: חץ עבר בכבד",
-          "note": "Imagen de herida mortal (7:23)."
+          "note": "Imagen de la herida mortal (7:23)."
+        },
+        {
+          "term": "mirra",
+          "original": "Hebrew: מֹר (mor); Greek: σμύρνα (smurna)",
+          "note": "Una resina gomosa y fragante del árbol Commiphora de Arabia y África oriental. Se usaba como ingrediente del aceite santo de la unción (Éxodo 30:23), como perfume, como especia para embalsamar (Juan 19:39), y, mezclada con vino, como bebida para adormecer el dolor (Marcos 15:23). Uno de los regalos de los magos."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "El reino de los muertos en el Antiguo Testamento; un inframundo en penumbra al que descienden tanto los justos como los impíos (Génesis 37:35; Salmo 16:10). No es necesariamente un lugar de tormento; más bien un estado de cese y de silencio. La Septuaginta y el Nuevo Testamento lo traducen con la palabra griega hades."
         }
       ],
-      "keyTakeaway": "El pasaje describe un encuentro nocturno en el que un joven es seducido con palabras persuasivas hacia una casa cuyo camino lleva al Seol.",
+      "keyTakeaway": "El pasaje describe un encuentro nocturno en el que un joven es seducido con palabras persuasivas hacia una casa cuyo camino desciende al Seol.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -546,34 +576,34 @@
         "Quien me rechaza se perjudica a sí mismo; quien me aborrece ama la muerte». (8:36)."
       ],
       "crossRefs": [
-        "Job 28:12–28: ¿Dónde se hallará la sabiduría?",
-        "Eclesiástico 24:1–22 (Deuterocanónico): Autodescripción de la Sabiduría.",
-        "Sabiduría de Salomón 7:22–8:1 (Deuterocanónico): Cualidades y función de la Sabiduría.",
-        "Proverbios 1:20–33: Llamado público anterior de la Sabiduría."
+        "Job 28:12-28: ¿Dónde se puede hallar la sabiduría?",
+        "Eclesiástico 24:1-22: La Sabiduría habla con su propia voz, se presenta en la asamblea del Altísimo, y se le manda plantar su tienda en Jacob, de modo que la figura de Proverbios 8 queda situada dentro del culto de Israel.",
+        "Sabiduría de Salomón 7:22-8:1: Veintiún atributos de la sabiduría en una sola serie, que terminan con la afirmación de que ella alcanza de un extremo de la tierra al otro y todo lo dispone bien.",
+        "Proverbios 1:20-33: El llamado público anterior de la Sabiduría."
       ],
       "translationNotes": [
         {
           "term": "Prudencia",
           "original": "Hebrew: עֹרְמָה (ʿormāh), Greek (LXX): φρόνησις, Aramaic: ערמותא",
-          "note": "Sagacidad o astucia usada positivamente aquí (8:12)."
+          "note": "Sagacidad o destreza usada aquí en sentido positivo (8:12)."
         },
         {
-          "term": "Temor del SEÑOR",
+          "term": "El temor del SEÑOR",
           "original": "Hebrew: יִרְאַת יְהוָה (yirʾat YHWH), Greek: φόβος Κυρίου, Aramaic: דחלתא דיי",
           "note": "Definido aquí como el aborrecimiento del mal (8:13)."
         },
         {
-          "term": "Me poseía / me creó (8:22)",
+          "term": "Me poseyó / me creó (8:22)",
           "original": "Hebrew: יְהוָה קָנָנִי (YHWH qānānī), Greek (LXX): κύριος ἔκτισέν με, Aramaic: יי קננני",
-          "note": "El verbo qānā puede significar \"adquirir/poseer/crear\"; la Septuaginta lee \"creó\". La declaración es parte del discurso de la Sabiduría."
+          "note": "El verbo qana puede significar \"adquirir/poseer/crear\"; la Septuaginta lee \"creó\". La afirmación forma parte del discurso de la Sabiduría."
         },
         {
-          "term": "Junto a Él como 'amón'",
+          "term": "A su lado como \"amón\"",
           "original": "Hebrew: אָמוֹן (ʾāmōn), Greek (LXX): ἁρμόζουσα (arranging), Aramaic: אמון",
-          "note": "Término posiblemente \"maestro artesano\" o \"criatura\"; la traducción varía (8:30)."
+          "note": "Término que quizá signifique \"artífice maestro\" o \"niño de pecho\"; la traducción varía (8:30)."
         }
       ],
-      "keyTakeaway": "La sabiduría clama públicamente por la instrucción correcta, se vincula con el gobierno justo, se describe como presente antes de la creación, y dice que quien la halla halla vida y favor.",
+      "keyTakeaway": "La Sabiduría llama públicamente a la instrucción recta, se vincula al gobierno justo, se describe como presente antes de la creación, y dice que hallarla es hallar la vida y el favor.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -609,8 +639,8 @@
       ],
       "crossRefs": [
         "Proverbios 1:7: El temor del SEÑOR es el principio del conocimiento.",
-        "Proverbios 8:1–3: La Sabiduría clama junto a las puertas y en los cruces.",
-        "Proverbios 20:17: \"Pan obtenido con engaño es dulce al hombre, pero después su boca se llenará de grava.\""
+        "Proverbios 8:1-3: La Sabiduría llama a las puertas y en las encrucijadas.",
+        "Proverbios 20:17: \"El pan ganado con engaño le es dulce al hombre, pero después su boca se llena de cascajo.\""
       ],
       "translationNotes": [
         {
@@ -621,15 +651,15 @@
         {
           "term": "Escarnecedor",
           "original": "Hebrew: לֵץ (lēts), Greek: λοιμώκτης/ἐμπαίκτης, Aramaic: לצא",
-          "note": "Burlador que rechaza la corrección (9:7–8)."
+          "note": "Un burlador que rechaza la corrección (9:7-8)."
         },
         {
           "term": "Seol",
-          "original": "Hebrew: שְׁאוֹל (Sheʾol), Greek (LXX): ᾅδης (Hades), Aramaic: שאולא (Sheʾola)",
-          "note": "Morada de los muertos; los huéspedes de la Insensatez están allí (9:18)."
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "El reino de los muertos en el Antiguo Testamento; un inframundo en penumbra al que descienden tanto los justos como los impíos (Génesis 37:35; Salmo 16:10). No es necesariamente un lugar de tormento; más bien un estado de cese y de silencio. La Septuaginta y el Nuevo Testamento lo traducen con la palabra griega hades."
         }
       ],
-      "keyTakeaway": "La sabiduría invita públicamente a los simples a un banquete preparado que da vida y entendimiento, mientras que la necedad imita ese llamado con placeres robados que llevan a los muertos en el Seol.",
+      "keyTakeaway": "La Sabiduría invita públicamente a los ingenuos a un banquete preparado que da vida e inteligencia, mientras que la Necedad imita el llamado con placeres robados que llevan a los muertos en el Seol.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -678,34 +708,35 @@
         "Los labios del justo saben lo que conviene, pero de la boca del malvado brota perversidad. (10:32)."
       ],
       "crossRefs": [
-        "Levítico 19:35–36: Balanzas justas, pesas y medidas.",
-        "Deuteronomio 25:13–16: Se requieren pesas honestas.",
-        "Santiago 3:2–12: El poder de la lengua para el bien o el mal.",
-        "Salmo 1:1–6: El camino de los justos contra el de los impíos."
+        "Proverbios 1:1-7: El propio título del libro y su propósito declarado, que terminan con el temor del SEÑOR como el principio del conocimiento.",
+        "Proverbios 6:6-8: La hormiga almacena sus provisiones en verano y recoge su alimento en la cosecha sin tener capataz alguno.",
+        "Salmos 112:6: El justo será recordado para siempre y jamás será conmovido.",
+        "1 Pedro 4:8: El amor cubre una multitud de pecados, el mismo dicho que Pedro dirige a la iglesia.",
+        "Deuteronomio 8:17-18: Se advierte a Israel que no atribuya su riqueza a sus propias manos, porque es el SEÑOR quien da el poder de adquirirla."
       ],
       "translationNotes": [
         {
           "term": "Abominación / deleite",
           "original": "Hebrew: תּוֹעֵבָה (toʿevah) / רָצוֹן (ratzon), Greek (LXX): βδέλυγμα / εὐδοκία, Aramaic: תועבתא / רצונא",
-          "note": "Evaluación moral aplicada a las pesas falsas contra las justas (11:1)."
+          "note": "Evaluación moral aplicada a las pesas falsas frente a las justas (11:1)."
         },
         {
           "term": "Diligente / negligente",
           "original": "Hebrew: חָרוּץ (ḥarutz) / רְמִיָּה (remiyyah), Greek: σπουδαῖος / ὀκνηρός, Aramaic: חריצא / רמיותא",
-          "note": "Ética de trabajo contrastada en sus resultados (10:4–5)."
+          "note": "La ética del trabajo contrastada en sus resultados (10:4-5)."
         },
         {
-          "term": "Manantial de vida",
+          "term": "Fuente de vida",
           "original": "Hebrew: מְקוֹר חַיִּים (meqor ḥayyim), Greek: πηγὴ ζωῆς, Aramaic: מעין דחיי",
           "note": "Imagen del habla vivificante del justo (10:11)."
         },
         {
           "term": "El amor cubre las faltas",
           "original": "Hebrew: אַהֲבָה תְּכַסֶּה כָּל־פְּשָׁעִים (ʾahavah tekhasseh kol-peshaʿim)",
-          "note": "Declaración sobre cómo el amor encubre las ofensas (10:12)."
+          "note": "Afirmación sobre cómo el amor encubre las faltas (10:12)."
         }
       ],
-      "keyTakeaway": "Los proverbios de Salomón contrastan a los justos con los malvados en numerosas situaciones de la vida: hijos sabios frente a los necios, trabajadores diligentes frente a los perezosos, palabras honestas frente al engaño, y los resultados que cada camino produce. La justicia lleva a la vida, la seguridad y el bien duradero; la maldad lleva a la pobreza, la ruina y la muerte.",
+      "keyTakeaway": "Los proverbios de Salomón contrastan al justo con el impío en numerosas situaciones de la vida: hijos sabios frente a hijos necios, trabajadores diligentes frente a perezosos, habla honesta frente a engaño, y los desenlaces finales que produce cada camino. La justicia lleva a la vida, la seguridad y el provecho duradero; la maldad lleva a la pobreza, la ruina y la muerte.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -753,34 +784,40 @@
         "Si los justos reciben su pago aquí en la tierra, ¡cuánto más los impíos y los pecadores! (11:31)."
       ],
       "crossRefs": [
-        "Levítico 19:35–36: Balanzas justas, pesas y medidas.",
-        "Deuteronomio 25:13–16: Se requieren pesas honestas.",
-        "Santiago 3:2–12: El poder de la lengua para el bien o el mal.",
-        "Salmo 1:1–6: El camino de los justos contra el de los impíos."
+        "Levítico 19:35-36: La ley exige balanzas y pesas justas, un efa justo y un hin justo.",
+        "Deuteronomio 25:13-16: Llevar en la bolsa dos pesas diferentes se declara abominable al SEÑOR.",
+        "Proverbios 6:1-5: Cómo librarse después de haber estrechado la mano en fianza y haber salido de garante por el prójimo.",
+        "1 Reyes 12:6-11: Roboán sigue el consejo de sus contemporáneos en vez del de los ancianos y pierde diez tribus.",
+        "Génesis 41:56-57: José abre los graneros y vende trigo a Egipto y a todas las naciones durante el hambre."
       ],
       "translationNotes": [
         {
-          "term": "Abominación / deleite",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah) / רָצוֹן (ratzon), Greek (LXX): βδέλυγμα / εὐδοκία, Aramaic: תועבתא / רצונא",
-          "note": "Evaluación moral aplicada a las pesas falsas contra las justas (11:1)."
+          "term": "Balanzas engañosas",
+          "original": "Hebrew: מֹאזְנֵי מִרְמָה (moznei mirmah)",
+          "note": "Literalmente balanzas de engaño. En los días de Salomón no había monedas en Israel; la plata se pesaba en una balanza contra pesas de piedra que se llevaban en una bolsa, de modo que el comerciante que guardaba un juego ligero para vender y uno pesado para comprar robaba a cada cliente. La ley prohíbe exactamente eso en Levítico 19:35-36 y Deuteronomio 25:13-16. Se han desenterrado en Judá pesas de piedra con inscripciones, entre ellas el pym, la tarifa que los filisteos cobraban por afilar herramientas en 1 Samuel 13:21."
         },
         {
-          "term": "Diligente / negligente",
-          "original": "Hebrew: חָרוּץ (ḥarutz) / רְמִיָּה (remiyyah), Greek: σπουδαῖος / ὀκνηρός, Aramaic: חריצא / רמיותא",
-          "note": "Ética de trabajo contrastada en sus resultados (10:4–5)."
+          "term": "Argolla de oro en el hocico de un cerdo",
+          "original": "Hebrew: נֶזֶם זָהָב (nezem zahav)",
+          "note": "El nezem es una argolla nasal, joya común de una mujer acomodada; el siervo de Abraham le pone una en la nariz a Rebeca en Génesis 24:22 y 24:47. El cerdo era un animal impuro que ningún hogar israelita criaba (Levítico 11:7; Deuteronomio 14:8). El proverbio prende el adorno más fino que una mujer poseía al animal más inmundo que un oyente podía imaginar."
         },
         {
-          "term": "Manantial de vida",
-          "original": "Hebrew: מְקוֹר חַיִּים (meqor ḥayyim), Greek: πηγὴ ζωῆς, Aramaic: מעין דחיי",
-          "note": "Imagen del habla vivificante del justo (10:11)."
+          "term": "Sale de garante por un extraño",
+          "original": "Hebrew: עָרַב (arav) - Hebrew: תָּקַע כַּף (taqa kaf)",
+          "note": "Salir de garante es hacerse responsable de la deuda de otro, y el trato se cerraba estrechando la mano, taqa kaf (Proverbios 6:1-5; 17:18). Si el deudor no pagaba, el acreedor iba tras el fiador. Proverbios 20:16 y 27:13 le dicen al prestamista que tome el manto de todo hombre bastante necio para hacer esto por un extraño, y 22:26-27 advierte que le pueden arrancar la cama de debajo."
         },
         {
-          "term": "El amor cubre las faltas",
-          "original": "Hebrew: אַהֲבָה תְּכַסֶּה כָּל־פְּשָׁעִים (ʾahavah tekhasseh kol-peshaʿim)",
-          "note": "Declaración sobre cómo el amor encubre las ofensas (10:12)."
+          "term": "El que acapara el grano",
+          "original": "Hebrew: מֹנֵעַ בָּר (monea bar) - Hebrew: מַשְׁבִּיר (mashbir)",
+          "note": "El grano se almacenaba en fosas y tinajas selladas y se iba sacando a lo largo del año, así que en temporada de escasez quien tenía existencias fijaba el precio del pan. El mashbir es el que abre su depósito y vende; el monea bar lo retiene hasta que el precio sube. Amós 8:4-6 muestra el mismo negocio por dentro, los tratantes esperando a que pasen la luna nueva y el sábado para poder vender con medida corta y pesa pesada."
+        },
+        {
+          "term": "Gana almas",
+          "original": "Hebrew: לֹקֵחַ נְפָשׁוֹת (loqeach nephashot)",
+          "note": "Literalmente toma vidas. Nephesh no es una parte inmaterial de la persona; es la criatura entera que respira, y por eso Génesis 2:7 llama al hombre mismo un nephesh viviente. Las dos mismas palabras unidas en otros lugares significan quitar una vida, como en Salmo 31:13, donde los enemigos traman quitarle la vida al salmista."
         }
       ],
-      "keyTakeaway": "Dios favorece la honestidad, la humildad y la justicia, y aborrece la deshonestidad, el orgullo y la maldad; los justos encuentran seguridad y prosperidad mientras que los malvados enfrentan la ruina por sus propias acciones."
+      "keyTakeaway": "Dios favorece la honradez, la humildad y la justicia, mientras que aborrece el engaño, la soberbia y la maldad; los justos hallan seguridad y prosperidad, mientras que los impíos enfrentan la ruina por sus propias acciones."
     },
     {
       "id": "proverbs-12",
@@ -819,34 +856,40 @@
         "En el camino de la justicia se halla la vida; por ese camino se evita la muerte. (12:28)."
       ],
       "crossRefs": [
-        "Levítico 19:35–36: Balanzas justas, pesas y medidas.",
-        "Deuteronomio 25:13–16: Se requieren pesas honestas.",
-        "Santiago 3:2–12: El poder de la lengua para el bien o el mal.",
-        "Salmo 1:1–6: El camino de los justos contra el de los impíos."
+        "Proverbios 31:10-31: El retrato completo de la mujer virtuosa, que vale mucho más que las perlas.",
+        "Deuteronomio 25:4: No le pongas bozal al buey cuando trilla el grano.",
+        "Éxodo 23:12: El descanso del sábado se ordena para que el buey y el asno descansen junto con la familia.",
+        "Deuteronomio 19:16-19: El testigo que resulta ser mentiroso recibe el castigo que pretendía para su hermano.",
+        "Proverbios 3:5-7: No te apoyes en tu propio entendimiento, ni seas sabio en tu propia opinión."
       ],
       "translationNotes": [
         {
-          "term": "Abominación / deleite",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah) / רָצוֹן (ratzon), Greek (LXX): βδέλυγμα / εὐδοκία, Aramaic: תועבתא / רצונא",
-          "note": "Evaluación moral aplicada a las pesas falsas contra las justas (11:1)."
+          "term": "Una mujer virtuosa",
+          "original": "Hebrew: אֵשֶׁת חַיִל (eshet chayil)",
+          "note": "Chayil es una palabra militar. Significa fuerza, y se usa de un ejército, de la riqueza de un hombre y del valor de un soldado, como cuando el ángel llama a Gedeón un gibbor chayil, un varón esforzado y valiente, en Jueces 6:12. Aplicada a una mujer significa fortaleza y competencia, no delicadeza. La misma expresión describe a Rut en Rut 3:11 y encabeza el poema de Proverbios 31:10."
         },
         {
-          "term": "Diligente / negligente",
-          "original": "Hebrew: חָרוּץ (ḥarutz) / רְמִיָּה (remiyyah), Greek: σπουδαῖος / ὀκνηρός, Aramaic: חריצא / רמיותא",
-          "note": "Ética de trabajo contrastada en sus resultados (10:4–5)."
+          "term": "Cuida la vida de su animal",
+          "original": "Hebrew: נֶפֶשׁ בְּהֶמְתּוֹ (nephesh behemto)",
+          "note": "El buey y el asno eran el motor del labrador y la mayor parte de su capital, y la ley los protege por nombre: descansan en el séptimo día (Éxodo 23:12), al buey no se le pone bozal mientras trilla el grano (Deuteronomio 25:4), no se unce un buey y un asno al mismo arado (Deuteronomio 22:10), y un hombre debe ayudar a levantar incluso el animal caído de su enemigo (Éxodo 23:5)."
         },
         {
-          "term": "Manantial de vida",
-          "original": "Hebrew: מְקוֹר חַיִּים (meqor ḥayyim), Greek: πηγὴ ζωῆς, Aramaic: מעין דחיי",
-          "note": "Imagen del habla vivificante del justo (10:11)."
+          "term": "Falso testigo",
+          "original": "Hebrew: עֵד שְׁקָרִים (ed sheqarim)",
+          "note": "Los casos los oían los ancianos sentados a la puerta de la ciudad, no en un tribunal, y no había cuerpo de policía que reuniera pruebas, así que el testimonio era casi todo el caso. Ninguna acusación podía sostenerse con un solo testigo; se requerían dos o tres (Deuteronomio 19:15). Al testigo que se demostraba mentiroso se le imponía la pena que había intentado traer sobre el acusado (Deuteronomio 19:16-19)."
         },
         {
-          "term": "El amor cubre las faltas",
-          "original": "Hebrew: אַהֲבָה תְּכַסֶּה כָּל־פְּשָׁעִים (ʾahavah tekhasseh kol-peshaʿim)",
-          "note": "Declaración sobre cómo el amor encubre las ofensas (10:12)."
+          "term": "Trabajo forzado",
+          "original": "Hebrew: מַס (mas)",
+          "note": "No es una figura retórica. El mas era la leva estatal de trabajo, hombres reclutados por la corona para extraer piedra, acarrear y construir. Salomón levantó treinta mil hombres para la madera del Líbano y puso a setenta mil a cargar pesos y a ochenta mil a cortar piedra (1 Reyes 5:13-16), y cuando las tribus del norte se rebelaron, apedrearon hasta la muerte a Adoram, el oficial encargado del mas (1 Reyes 12:18)."
+        },
+        {
+          "term": "Tenido en poco y con un siervo",
+          "original": "Hebrew: עֶבֶד (eved)",
+          "note": "Un eved es un siervo, y tener uno señala una pequeña granja de trabajo, no una gran casa. La servidumbre hebrea no era de por vida: la liberación llegaba en el séptimo año, y el amo tenía que despedir al hombre cargado de ganado, grano y vino, y no con las manos vacías (Éxodo 21:2; Deuteronomio 15:12-15). El proverbio contrasta ese hogar modesto pero solvente con un hombre que guarda las apariencias y no tiene nada que comer."
         }
       ],
-      "keyTakeaway": "Proverbios 12 contrasta a los justos con los malvados en cuanto al habla, el trabajo, el carácter y las consecuencias; los justos obtienen favor, se mantienen firmes y hablan con verdad, mientras que los malvados trazan planes, son derribados y quedan atrapados por sus propias palabras."
+      "keyTakeaway": "Proverbios 12 contrasta al justo con el impío en cuestiones de palabra, trabajo, carácter y consecuencia; el justo obtiene favor, se mantiene firme y habla con verdad, mientras que el impío urde tramas, es derribado y queda atrapado por sus propias palabras."
     },
     {
       "id": "proverbs-13",
@@ -882,34 +925,40 @@
         "El justo come hasta quedar saciado, pero el malvado se queda con hambre. (13:25)."
       ],
       "crossRefs": [
-        "Proverbios 22:15; Proverbios 23:13–14: Disciplina del niño.",
-        "Jueces 21:25: \"Cada uno hacía lo que le parecía recto ante sus propios ojos\" (comparar con 14:12).",
-        "Santiago 1:19; Santiago 3:2–10: Escuchar, hablar y la lengua.",
-        "Job 26:6: El Seol y el Abadón están descubiertos ante Dios (comparar con 15:11)."
+        "Éxodo 21:29-30: La ley permite pagar un precio de rescate en lugar de una vida que se ha perdido.",
+        "Génesis 2:9: El árbol de la vida está en medio del jardín junto con el árbol del conocimiento del bien y del mal.",
+        "1 Corintios 15:33: Pablo cita el dicho de que las malas compañías corrompen las buenas costumbres.",
+        "Números 27:8-11: El orden fijo de la herencia para que los bienes de un hombre muerto queden en su línea familiar.",
+        "Hebreos 12:5-11: El Señor disciplina al hijo que ama, citando Proverbios 3:11-12 a la iglesia."
       ],
       "translationNotes": [
         {
           "term": "Vara / disciplina",
-          "original": "Hebrew: שֵׁבֶט (shevet) / מוּסָר (musar), Greek: ῥάβδος / παιδεία, Aramaic: שבטא / מוסרָא",
-          "note": "Instrumento y concepto de formación correctiva (13:24)."
+          "original": "Hebrew: שֵׁבֶט (shevet) - Hebrew: מוּסָר (musar)",
+          "note": "El shevet es el cayado del pastor, el mismo objeto que consuela en Salmo 23:4 y la misma palabra que significa tribu, porque una tribu se contaba por el báculo de su cabeza. Musar es el adiestramiento correctivo en su conjunto, enseñanza y corrección juntas. Proverbios usa el par para un hijo (13:24; 22:15; 23:13-14) y para las espaldas del necio (10:13; 26:3)."
         },
         {
-          "term": "Seol / Abadón",
-          "original": "Hebrew: שְׁאוֹל (Sheʾol) / אֲבַדּוֹן (ʾAbaddon), Greek (LXX): ᾅδης / ἀπώλεια, Aramaic: שאולא / אבדון",
-          "note": "Morada de los muertos y \"Destrucción\", ambos descubiertos ante el SEÑOR (15:11)."
+          "term": "Rescate",
+          "original": "Hebrew: כֹּפֶר (kopher)",
+          "note": "Un kopher es el pago que libra a un hombre de una muerte que debe. Éxodo 21:29-30 permite que el dueño de un buey acorneador que ha matado pague un precio de redención en lugar de morir él mismo, y Números 35:31 prohíbe todo kopher por un homicida, de modo que su vida es el único pago que se acepta. El versículo 8 gira sobre eso: un rico puede comprar su salida de una amenaza, y a un pobre no vale la pena amenazarlo."
         },
         {
-          "term": "Parece recto... su fin es muerte",
-          "original": "Hebrew: יֵשׁ דֶּרֶךְ יָשָׁר לִפְנֵי־אִישׁ וְאַחֲרִיתָהּ דַּרְכֵי־מָוֶת",
-          "note": "Advertencia sobre las apariencias engañosas (14:12)."
+          "term": "Mensajero / enviado",
+          "original": "Hebrew: מַלְאָךְ (malakh)",
+          "note": "Es el mismo sustantivo que en español se traduce ángel. Significa sencillamente uno que es enviado, y se usa de mensajeros humanos por todas partes: Jacob envía malakhim por delante a Esaú en Génesis 32:3, y el corredor de Joab trae el parte de batalla en 2 Samuel 11:19-22. No había servicio postal; el mensaje y el hombre eran una sola cosa, y por eso un mal mensajero hace daño de verdad."
         },
         {
-          "term": "Respuesta suave",
-          "original": "Hebrew: מַעֲנֵה־רַךְ (maʿăneh rakh), Greek: ἀποκρίσις πραεῖα, Aramaic: מענה רך",
-          "note": "Respuesta amable que aparta la ira (15:1)."
+          "term": "El barbecho del pobre",
+          "original": "Hebrew: נִיר (nir)",
+          "note": "Un nir es tierra roturada por el arado pero aún no sembrada, el suelo preparado para la semilla. Jeremías 4:3 y Oseas 10:12 lo usan del mismo modo. El versículo dice que la tierra roturada del pobre encierra abundante alimento, y que es la injusticia, no el mal suelo, lo que se lo lleva."
+        },
+        {
+          "term": "Deja una herencia",
+          "original": "Hebrew: נַחֲלָה (nachalah)",
+          "note": "Una nachalah no es propiedad en el sentido moderno, sino la porción de tierra asignada a un clan y destinada a permanecer con él. Levítico 25:23 declara la razón: la tierra no se vende a perpetuidad, y cada año quincuagésimo el jubileo devolvía los campos vendidos a la familia que los tenía (Levítico 25:10, 25-28). Por eso Nabot no quiso vender su viña a un rey (1 Reyes 21:3)."
         }
       ],
-      "keyTakeaway": "El comportamiento sabio, que incluye atender la instrucción, cuidar las palabras, trabajar con diligencia y aceptar la corrección, lleva a la vida y a la recompensa; el comportamiento necio, que incluye burlarse, hablar sin reflexionar, ser perezoso y despreciar el consejo, trae ruina y destrucción."
+      "keyTakeaway": "La conducta sabia, atender la instrucción, guardar la lengua, trabajar con diligencia y aceptar la corrección, lleva a la vida y a la recompensa; la conducta necia, burlarse, hablar sin pensar, ser perezoso y despreciar el consejo, trae ruina y destrucción."
     },
     {
       "id": "proverbs-14",
@@ -955,34 +1004,40 @@
         "El rey favorece al siervo inteligente, pero descarga su ira sobre el sinvergüenza. (14:35)."
       ],
       "crossRefs": [
-        "Proverbios 22:15; Proverbios 23:13–14: Disciplina del niño.",
-        "Jueces 21:25: \"Cada uno hacía lo que le parecía recto ante sus propios ojos\" (comparar con 14:12).",
-        "Santiago 1:19; Santiago 3:2–10: Escuchar, hablar y la lengua.",
-        "Job 26:6: El Seol y el Abadón están descubiertos ante Dios (comparar con 15:11)."
+        "Proverbios 9:1-6: La Sabiduría edifica su casa, labra sus siete columnas, pone su mesa y llama a los ingenuos.",
+        "Jueces 21:25: En aquellos días no había rey en Israel, y cada uno hacía lo que le parecía recto a sus propios ojos.",
+        "1 Reyes 19:19: Se halla a Eliseo arando con doce yuntas de bueyes, la marca de una hacienda considerable.",
+        "Deuteronomio 15:7-11: No le cierres la mano a tu hermano pobre, sino ábresela con largueza.",
+        "Deuteronomio 4:5-8: Guardar estos estatutos es lo que hará que las naciones llamen a Israel un pueblo sabio y entendido."
       ],
       "translationNotes": [
         {
-          "term": "Vara / disciplina",
-          "original": "Hebrew: שֵׁבֶט (shevet) / מוּסָר (musar), Greek: ῥάβδος / παιδεία, Aramaic: שבטא / מוסרָא",
-          "note": "Instrumento y concepto de formación correctiva (13:24)."
+          "term": "Una vara para sus espaldas",
+          "original": "Hebrew: חֹטֶר (choter)",
+          "note": "El versículo 3 dice que la boca misma del necio lleva un choter de soberbia. Un choter es un renuevo o vástago que brota de un tocón, y la palabra aparece solo dos veces en toda la Biblia hebrea: aquí, y en Isaías 11:1, donde un renuevo sale del tronco de Isaí. Su habla soberbia brota de él como una vara y es aquello con lo que se le azota."
         },
         {
-          "term": "Seol / Abadón",
-          "original": "Hebrew: שְׁאוֹל (Sheʾol) / אֲבַדּוֹן (ʾAbaddon), Greek (LXX): ᾅδης / ἀπώλεια, Aramaic: שאולא / אבדון",
-          "note": "Morada de los muertos y \"Destrucción\", ambos descubiertos ante el SEÑOR (15:11)."
+          "term": "Hacer reparación",
+          "original": "Hebrew: אָשָׁם (asham)",
+          "note": "Asham es un término técnico, la ofrenda por la culpa o la reparación. No era un sentimiento: el ofensor primero devolvía lo que había tomado y añadía una quinta parte de su valor, y luego llevaba un carnero al sacerdote (Levítico 6:1-7). Los necios se burlan de todo ese procedimiento, restitución y sacrificio juntos."
         },
         {
-          "term": "Parece recto... su fin es muerte",
-          "original": "Hebrew: יֵשׁ דֶּרֶךְ יָשָׁר לִפְנֵי־אִישׁ וְאַחֲרִיתָהּ דַּרְכֵי־מָוֶת",
-          "note": "Advertencia sobre las apariencias engañosas (14:12)."
+          "term": "El ingenuo",
+          "original": "Hebrew: פֶּתִי (pethi)",
+          "note": "Un pethi no es un hombre estúpido. La raíz significa abierto o fácilmente persuadido, así que el pethi es el joven sin instrucción que cree cualquier cosa que se le diga, y por eso el versículo 15 dice que cree toda palabra. Proverbios 1:4 lo nombra como el alumno para quien se escribió el libro; no se le descarta, se le está advirtiendo."
         },
         {
-          "term": "Respuesta suave",
-          "original": "Hebrew: מַעֲנֵה־רַךְ (maʿăneh rakh), Greek: ἀποκρίσις πραεῖα, Aramaic: מענה רך",
-          "note": "Respuesta amable que aparta la ira (15:1)."
+          "term": "La envidia pudre los huesos",
+          "original": "Hebrew: קִנְאָה (qinah)",
+          "note": "Un solo sustantivo hebreo abarca la envidia, los celos y el celo, y el español tiene que elegir. La misma palabra describe al SEÑOR como un Dios celoso en Éxodo 20:5 y el celo ardiente de Finees en Números 25:11. Aquí es de la clase corrosiva, contrapuesta a un corazón tranquilo que se llama vida para el cuerpo."
+        },
+        {
+          "term": "Donde no hay bueyes",
+          "original": "Hebrew: אֵבוּס (evus)",
+          "note": "Un evus es el pesebre. La gracia del versículo 4 es que un establo vacío es fácil de mantener limpio y no produce nada, porque el buey era la yunta de arado y la fuerza de trilla de una granja. Deuteronomio 25:4 prohíbe ponerle bozal a ese mismo buey mientras trilla el grano."
         }
       ],
-      "keyTakeaway": "La sabiduría edifica mientras que la necedad destruye; los sabios temen a Dios y actúan con rectitud, mientras que los necios hablan con orgullo, engañan y rechazan la corrección. El trabajo arduo y la honestidad conducen a la recompensa y a la vida, mientras que el mal genio, la mentira y la opresión al pobre traen la ruina."
+      "keyTakeaway": "La sabiduría edifica mientras que la necedad derriba; los sabios temen a Dios y andan con rectitud, mientras que los necios hablan con soberbia, engañan y se burlan de la corrección. El trabajo duro y la veracidad llevan a la recompensa y a la vida, mientras que el mal genio, la falsedad y la opresión del pobre traen ruina."
     },
     {
       "id": "proverbs-15",
@@ -1026,34 +1081,40 @@
         "El temor del SEÑOR imparte sabiduría; la humildad precede a la honra. (15:33)."
       ],
       "crossRefs": [
-        "Proverbios 22:15; Proverbios 23:13–14: Disciplina del niño.",
-        "Jueces 21:25: \"Cada uno hacía lo que le parecía recto ante sus propios ojos\" (comparar con 14:12).",
-        "Santiago 1:19; Santiago 3:2–10: Escuchar, hablar y la lengua.",
-        "Job 26:6: El Seol y el Abadón están descubiertos ante Dios (comparar con 15:11)."
+        "1 Samuel 15:22-23: Samuel le dice a Saúl que obedecer es mejor que el sacrificio y prestar atención es mejor que la grasa de los carneros.",
+        "Isaías 1:11-15: El SEÑOR rechaza los sacrificios y las oraciones de las manos cubiertas de sangre.",
+        "Job 26:6: El Seol está desnudo delante de Dios, y el Abadón no tiene cubierta.",
+        "Éxodo 22:22-24: Maltrata a una viuda o a un huérfano y el SEÑOR mismo oirá su clamor y lo responderá.",
+        "Deuteronomio 16:19: El soborno ciega los ojos de los sabios y tuerce las palabras de los justos."
       ],
       "translationNotes": [
         {
-          "term": "Vara / disciplina",
-          "original": "Hebrew: שֵׁבֶט (shevet) / מוּסָר (musar), Greek: ῥάβδος / παιδεία, Aramaic: שבטא / מוסרָא",
-          "note": "Instrumento y concepto de formación correctiva (13:24)."
+          "term": "Una respuesta amable",
+          "original": "Hebrew: מַעֲנֶה־רַךְ (maaneh rakh)",
+          "note": "Literalmente una respuesta blanda. Rakh es una palabra física, usada de la carne tierna en Génesis 18:7 y de un niño pequeño demasiado débil para un camino duro en Génesis 33:13. Contra ella, en la segunda mitad del versículo, está una palabra de dolor, devar atsev. El proverbio contrasta texturas, no volúmenes."
         },
         {
-          "term": "Seol / Abadón",
-          "original": "Hebrew: שְׁאוֹל (Sheʾol) / אֲבַדּוֹן (ʾAbaddon), Greek (LXX): ᾅδης / ἀπώλεια, Aramaic: שאולא / אבדון",
-          "note": "Morada de los muertos y \"Destrucción\", ambos descubiertos ante el SEÑOR (15:11)."
+          "term": "Seol y Abadón",
+          "original": "Hebrew: שְׁאוֹל (Sheol) - Hebrew: אֲבַדּוֹן (Abaddon)",
+          "note": "El Seol es el reino de los muertos, el lugar de abajo al que todos descienden (Génesis 37:35). Abadón significa Destrucción, y el nombre aparece seis veces en el Antiguo Testamento, siempre emparejado con el Seol o la sepultura (Job 26:6; 28:22; 31:12; Salmo 88:11; Proverbios 15:11; 27:20). Apocalipsis 9:11 lo lleva al griego como Apolión."
         },
         {
-          "term": "Parece recto... su fin es muerte",
-          "original": "Hebrew: יֵשׁ דֶּרֶךְ יָשָׁר לִפְנֵי־אִישׁ וְאַחֲרִיתָהּ דַּרְכֵי־מָוֶת",
-          "note": "Advertencia sobre las apariencias engañosas (14:12)."
+          "term": "Un toro engordado",
+          "original": "Hebrew: שׁוֹר אָבוּס (shor avus)",
+          "note": "La carne no era comida diaria. Un animal de establo se encerraba y se cebaba con grano a propósito para una fiesta, un sacrificio o un invitado de honor, como el becerro que Abraham mandó preparar en Génesis 18:7 y el ternero engordado que se mató por el hijo que volvía en Lucas 15:23. Un plato de verduras era lo que de veras comía un hogar común, y eso es lo que le da su mordida a la comparación del versículo 17."
         },
         {
-          "term": "Respuesta suave",
-          "original": "Hebrew: מַעֲנֵה־רַךְ (maʿăneh rakh), Greek: ἀποκρίσις πραεῖα, Aramaic: מענה רך",
-          "note": "Respuesta amable que aparta la ira (15:1)."
+          "term": "Los linderos de la viuda",
+          "original": "Hebrew: אַלְמָנָה (almanah)",
+          "note": "Una viuda sin un hijo adulto no tenía derecho sobre la tierra familiar ni ingreso alguno, así que vivía de lo que la ley le reservaba: los rincones y las espigas caídas de los campos de otros (Levítico 19:9-10; Deuteronomio 24:19-21) y el diezmo del tercer año (Deuteronomio 14:28-29). Mover su mojón le quitaba lo último que tenía. Éxodo 22:22-24 nombra juntos a la viuda, al huérfano y al extranjero como aquellos a quienes no se debe agraviar."
+        },
+        {
+          "term": "El sacrificio de los impíos",
+          "original": "Hebrew: זֶבַח (zevach)",
+          "note": "Un zevach era un animal degollado que se compartía como comida. La mayor parte de la ofrenda de paz volvía al adorador y a su familia para comerla en el santuario en uno o dos días (Levítico 7:11-21). Era un banquete, no una tarifa, y por eso el versículo 8 puede ponerla junto a la oración de los rectos y hallarla abominable."
         }
       ],
-      "keyTakeaway": "Proverbios 15 contrasta el hablar y actuar del sabio y del necio en numerosas observaciones: la respuesta gentil calma el enojo mientras que las palabras duras lo provocan; los justos obtienen tesoro y agradan a Dios mientras que los malvados enfrentan la ruina y su desagrado. La disciplina, la paciencia, la búsqueda del conocimiento y el temor al Señor marcan el camino a la vida, mientras que la necedad, el orgullo y el rechazo a la corrección llevan hacia abajo."
+      "keyTakeaway": "Proverbios 15 contrasta el habla y la conducta sabias con las necias en numerosas observaciones: la respuesta amable calma la ira mientras que las palabras ásperas la provocan; los justos ganan tesoro y agradan a Dios mientras que los impíos enfrentan la ruina y su desagrado. La disciplina, la paciencia, la búsqueda del conocimiento y el temor del Señor marcan la senda de la vida, mientras que la necedad, la soberbia y el rechazo de la corrección llevan hacia abajo."
     },
     {
       "id": "proverbs-16",
@@ -1097,14 +1158,15 @@
         "Las suertes se echan en el regazo, pero el veredicto proviene del SEÑOR. (16:33)."
       ],
       "crossRefs": [
-        "1 Samuel 15:22: \"Obedecer es mejor que el sacrificio.\"",
-        "Levítico 19:35–36: Balanzas justas y medidas honestas.",
-        "Salmo 20:7: No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
-        "Santiago 1:19: Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+        "Jeremías 10:23: El camino del hombre no le pertenece, y nadie que anda dirige sus propios pasos.",
+        "Miqueas 6:10-11: El efa escaso, las balanzas engañosas y la bolsa de pesas falsas en la casa del impío.",
+        "2 Crónicas 26:16-21: El rey Uzías se hace poderoso, se abre paso a la fuerza en el templo para quemar incienso, y es herido con lepra.",
+        "Levítico 19:32: Ponte de pie ante los ancianos, honra a los mayores, y teme a tu Dios.",
+        "Hechos 1:24-26: Los once oran y luego echan suertes, y la suerte cae sobre Matías."
       ],
       "translationNotes": [
         {
-          "term": "Pesa los espíritus",
+          "term": "Pesa el espíritu",
           "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot), Greek (LXX): δοκιμάζει πνεύματα, Aramaic: משקל רוחין",
           "note": "El SEÑOR evalúa los motivos internos (16:2)."
         },
@@ -1116,15 +1178,15 @@
         {
           "term": "Balanzas y pesas justas",
           "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat), Greek: ζυγὸς δίκαιος, Aramaic: מאזני דינא",
-          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+          "note": "Normas del comercio justo atribuidas al SEÑOR (16:11) (20:10)."
         },
         {
           "term": "Torre fuerte",
           "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz), Greek: πύργος ἰσχυρός, Aramaic: מגדל עוז",
-          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+          "note": "Imagen de la protección en el nombre del SEÑOR (18:10)."
         }
       ],
-      "keyTakeaway": "Proverbios sobre la conducta correcta: el Señor determina los resultados y juzga las motivaciones; la justicia, la sabiduría y el autocontrol traen bendición, mientras que el orgullo, la necedad y el engaño traen ruina.",
+      "keyTakeaway": "Proverbios sobre la conducta correcta: el Señor determina los resultados y juzga los motivos; la justicia, la sabiduría y el dominio propio traen bendición, mientras que la soberbia, la necedad y el engaño traen ruina.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1169,34 +1231,40 @@
         "Hasta un necio pasa por sabio si guarda silencio; se le considera prudente si cierra la boca. (17:28)."
       ],
       "crossRefs": [
-        "1 Samuel 15:22: \"Obedecer es mejor que el sacrificio.\"",
-        "Levítico 19:35–36: Balanzas justas y medidas honestas.",
-        "Salmo 20:7: No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
-        "Santiago 1:19: Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+        "Malaquías 3:2-3: El SEÑOR se sienta como fundidor y purificador de plata y refina a los hijos de Leví como al oro.",
+        "Éxodo 23:6-8: No aceptes soborno, porque el soborno ciega a los que ven y tuerce las palabras de los justos.",
+        "Deuteronomio 25:1: Los jueces existen para que el inocente sea absuelto y el culpable, condenado.",
+        "2 Samuel 17:8: Husai advierte a Absalón que David y sus hombres son tan feroces como una osa del campo despojada de sus cachorros.",
+        "1 Samuel 18:1-4: Jonatán hace un pacto con David y le da su manto, su túnica, su espada, su arco y su cinturón."
       ],
       "translationNotes": [
         {
-          "term": "Pesa los espíritus",
-          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot), Greek (LXX): δοκιμάζει πνεύματα, Aramaic: משקל רוחין",
-          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+          "term": "Crisol y horno",
+          "original": "Hebrew: מַצְרֵף (matsreph) - Hebrew: כּוּר (kur)",
+          "note": "La plata se purificaba por copelación: el metal se calentaba con plomo en un recipiente poco profundo hasta que el plomo se oxidaba y se llevaba las impurezas, dejando atrás plata limpia. Jeremías 6:29-30 describe ese mismo proceso fracasando, con el fuelle soplando y el plomo consumido. El kur es el horno de fundición, y Deuteronomio 4:20 y 1 Reyes 8:51 llaman a Egipto un kur de hierro."
         },
         {
-          "term": "Abominación",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah), Greek: βδέλυγμα, Aramaic: תועבתא",
-          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+          "term": "El soborno es un amuleto",
+          "original": "Hebrew: אֶבֶן חֵן (even chen)",
+          "note": "Literalmente una piedra de favor, una piedra de la suerte que su dueño cree que abre toda puerta. La ley prohíbe de plano el soborno judicial: Éxodo 23:8 y Deuteronomio 16:19 dicen que ciega los ojos de los sabios y tuerce las palabras de los justos. El versículo 23 tiene el soborno sacado del seno, el pliegue del manto donde un hombre llevaba su plata."
         },
         {
-          "term": "Balanzas y pesas justas",
-          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat), Greek: ζυγὸς δίκαιος, Aramaic: מאזני דינא",
-          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+          "term": "Cien azotes",
+          "original": "Hebrew: מַכּוֹת (makkot)",
+          "note": "La flagelación era una sentencia ejecutada delante del juez, y Deuteronomio 25:1-3 la limita a cuarenta azotes para que un hombre no quede degradado a los ojos de sus vecinos. La práctica posterior se detenía en treinta y nueve para quedar con seguridad dentro del límite, que es la cuenta que Pablo dice haber recibido cinco veces en 2 Corintios 11:24. El versículo 26 dice que azotar a un hombre honrado es peor que inútil."
         },
         {
-          "term": "Torre fuerte",
-          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz), Greek: πύργος ἰσχυρός, Aramaic: מגדל עוז",
-          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+          "term": "Una osa despojada de sus cachorros",
+          "original": "Hebrew: דֹּב שַׁכּוּל (dov shakkul)",
+          "note": "Los osos eran un peligro real en la serranía y los bosques de Israel, no una imagen exótica. David mató a uno que se llevó un cordero (1 Samuel 17:34-36), dos salieron del bosque en Betel (2 Reyes 2:24), y Husai usó la misma imagen de los veteranos de David en 2 Samuel 17:8."
+        },
+        {
+          "term": "Un hermano nace para la adversidad",
+          "original": "Hebrew: אָח (ach) - Hebrew: רֵעַ (rea)",
+          "note": "En una sociedad de clanes un hermano cargaba deberes legales que un amigo no. El pariente más cercano recompraba la tierra que la familia había perdido y redimía al pariente que se había vendido a servidumbre (Levítico 25:25, 47-49), y el vengador de la sangre se sacaba del mismo círculo (Números 35:19). Esa obligación es lo que el versículo 17 quiere decir con nacido para la adversidad."
         }
       ],
-      "keyTakeaway": "Una serie de observaciones sobre la sabiduría, la necedad y el carácter; la paz y la integridad valen más que la riqueza o el estatus, mientras que los necios, los mentirosos y los malvados enfrentan diversas consecuencias por su conducta."
+      "keyTakeaway": "Una colección de observaciones sobre la sabiduría, la necedad y el carácter; la paz y la integridad valen más que la riqueza o el estatus, mientras que los necios, los mentirosos y los impíos enfrentan diversas consecuencias por su conducta."
     },
     {
       "id": "proverbs-18",
@@ -1231,34 +1299,40 @@
         "Hay amigos que llevan a la ruina y hay amigos más fieles que un hermano. (18:24)."
       ],
       "crossRefs": [
-        "1 Samuel 15:22: \"Obedecer es mejor que el sacrificio.\"",
-        "Levítico 19:35–36: Balanzas justas y medidas honestas.",
-        "Salmo 20:7: No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
-        "Santiago 1:19: Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+        "Salmos 61:3: Tú has sido mi refugio, una torre fuerte frente al enemigo.",
+        "Deuteronomio 19:15: Un asunto debe establecerse por el testimonio de dos o tres testigos, nunca de uno solo.",
+        "Juan 7:51: Nicodemo pregunta si la ley condena a un hombre antes de haberlo oído.",
+        "Génesis 2:18-24: El SEÑOR hace una ayuda idónea para el hombre, y los dos llegan a ser una sola carne.",
+        "Rut 1:16-17: Rut se liga a Noemí con un juramento y se niega a que nada sino la muerte la separe de ella."
       ],
       "translationNotes": [
         {
-          "term": "Pesa los espíritus",
-          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot), Greek (LXX): δοκιμάζει πνεύματα, Aramaic: משקל רוחין",
-          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+          "term": "Una torre fuerte",
+          "original": "Hebrew: מִגְדַּל־עֹז (migdal oz)",
+          "note": "Un migdal era un edificio real, ya la torre del homenaje dentro de una ciudad amurallada, ya una atalaya en una viña (Isaías 5:2). Cuando una ciudad caía, la torre era el último lugar al que corría la gente: Abimelec murió atacando la torre de Tebes, y la torre de Siquem ardió con unas mil personas dentro (Jueces 9:46-53). El nombre del SEÑOR representa al SEÑOR mismo, pues en el uso hebreo un nombre es la persona."
         },
         {
-          "term": "Abominación",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah), Greek: βδέλυγμα, Aramaic: תועבתא",
-          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+          "term": "Echar suertes",
+          "original": "Hebrew: גּוֹרָל (goral)",
+          "note": "Las suertes eran objetos físicos, piedras o piezas marcadas, que se agitaban o se echaban para zanjar una cuestión que nadie podía discutir más. La tierra de Canaán se repartió así (Josué 18:6-10), los marineros de Jonás usaron suertes para hallar quién era el responsable (Jonás 1:7), el sacerdote llevaba el Urim y el Tumim para el mismo fin (Éxodo 28:30; 1 Samuel 14:41-42), y los apóstoles eligieron a Matías por suerte (Hechos 1:26)."
         },
         {
-          "term": "Balanzas y pesas justas",
-          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat), Greek: ζυγὸς δίκαιος, Aramaic: מאזני דינא",
-          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+          "term": "Palabras del chismoso",
+          "original": "Hebrew: נִרְגָּן (nirgan)",
+          "note": "Un nirgan es un murmurador, el hombre que masculla algo en vez de decirlo en voz alta. La palabra que se traduce como bocados exquisitos es tan rara que solo aparece aquí y en Proverbios 26:22, que repite este versículo palabra por palabra. La imagen es la de la calumnia tragada entera y asentándose en lo hondo, no sacudida de encima."
         },
         {
-          "term": "Torre fuerte",
-          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz), Greek: πύργος ἰσχυρός, Aramaic: מגדל עוז",
-          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+          "term": "Las barras de una fortaleza",
+          "original": "Hebrew: בְּרִיחַ (bariach)",
+          "note": "Un bariach es la viga que se echa por dentro a través de una puerta, encajada en los quicios de los postes, a veces revestida o hecha de bronce. Las ciudades fortificadas se describen con muros altos, puertas y barras (Deuteronomio 3:5; 1 Reyes 4:13), y Nehemías 3:3 registra las hojas, los cerrojos y las barras volviendo a su lugar después del exilio. El versículo 19 dice que un hermano ofendido se cierra con esa misma dureza."
+        },
+        {
+          "term": "El regalo de un hombre",
+          "original": "Hebrew: מַתָּן (mattan)",
+          "note": "Este es el presente acostumbrado que le conseguía a un hombre una audiencia con alguien por encima de él, no el soborno de 17:23 que compra un veredicto. Jacob envía bálsamo, miel, especias y nueces por delante al gobernante egipcio en Génesis 43:11, e Isaí carga un asno con pan, vino y un cabrito para Saúl en 1 Samuel 16:20. Presentarse con las manos vacías ante un gran hombre no se hacía."
         }
       ],
-      "keyTakeaway": "Proverbios 18 advierte repetidamente sobre el poder destructivo de las palabras necias y las peleas, mientras elogia la sabiduría, la humildad, el escuchar y la protección que se encuentra en el nombre de Dios. También observa que las palabras determinan los resultados, las amistades importan mucho y la lengua decide la bendición o la ruina."
+      "keyTakeaway": "Proverbios 18 advierte una y otra vez sobre el poder destructivo del habla necia y la contienda, mientras alaba la sabiduría, la humildad, el saber escuchar y la protección que se halla en el nombre de Dios. También observa que las palabras dan forma a los resultados, que las amistades importan muchísimo, y que la lengua determina la bendición o la ruina."
     },
     {
       "id": "proverbs-19",
@@ -1298,34 +1372,40 @@
         "El castigo se dispuso para los insolentes y los azotes para la espalda de los necios. (19:29)."
       ],
       "crossRefs": [
-        "1 Samuel 15:22: \"Obedecer es mejor que el sacrificio.\"",
-        "Levítico 19:35–36: Balanzas justas y medidas honestas.",
-        "Salmo 20:7: No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
-        "Santiago 1:19: Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+        "Éxodo 23:1-3: No difundas un informe falso ni te unas al impío siendo un testigo malicioso.",
+        "Ester 4:11: Acercarse al rey persa sin ser llamado acarreaba sentencia de muerte, a menos que él extendiera el cetro de oro.",
+        "Génesis 24:12-14: El siervo de Abraham ora junto al pozo para que el SEÑOR designe la esposa de Isaac.",
+        "Mateo 25:34-40: El Rey dice que todo lo que se hizo por el más pequeño de estos, por Él se hizo.",
+        "Isaías 14:24-27: El SEÑOR de los Ejércitos lo ha determinado, y nadie puede frustrar su mano extendida."
       ],
       "translationNotes": [
         {
-          "term": "Pesa los espíritus",
-          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot), Greek (LXX): δοκιμάζει πνεύματα, Aramaic: משקל רוחין",
-          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+          "term": "Yerra el blanco",
+          "original": "Hebrew: חוֹטֵא (chote)",
+          "note": "Este es el verbo hebreo corriente para pecar, y su sentido llano es errar el blanco. Jueces 20:16 lo usa de los honderos benjaminitas zurdos que podían lanzar una piedra a un cabello y no errar. El versículo 2 lo aplica a los pies que se mueven demasiado deprisa, que es justo la imagen que lleva la palabra: apuntar y quedarse corto."
         },
         {
-          "term": "Abominación",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah), Greek: βδέλυγμα, Aramaic: תועבתא",
-          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+          "term": "El rugido de un león",
+          "original": "Hebrew: אַרְיֵה (aryeh)",
+          "note": "En este periodo todavía vivían leones en Israel y aparecen en el registro como peligros corrientes. Sansón mató a uno en el camino de Timnat (Jueces 14:5-6), Benaía bajó a un foso y mató a uno en un día de nieve (2 Samuel 23:20), y Jeremías 49:19 habla del león que sube de la espesura del Jordán. La ira de un rey se compara con algo que el oyente había oído de noche."
         },
         {
-          "term": "Balanzas y pesas justas",
-          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat), Greek: ζυγὸς δίκαιος, Aramaic: מאזני דינא",
-          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+          "term": "Una esposa prudente viene del SEÑOR",
+          "original": "Hebrew: מֹהַר (mohar)",
+          "note": "El versículo 14 contrapone el matrimonio a la herencia, y ambos se negociaban, no se topaba uno con ellos. Las casas y los campos se transmitían dentro del clan, mientras que una esposa se conseguía por acuerdo con su padre y el pago del mohar, el precio de la novia: Siquem ofrece cualquier mohar que nombren los hijos de Jacob (Génesis 34:12), Éxodo 22:16-17 lo fija como norma para las vírgenes, y Saúl exige el suyo de David en prepucios de filisteos (1 Samuel 18:25)."
         },
         {
-          "term": "Torre fuerte",
-          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz), Greek: πύργος ἰσχυρός, Aramaic: מגדל עוז",
-          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+          "term": "Un préstamo al SEÑOR",
+          "original": "Hebrew: מַלְוֵה יְהוָה (malveh YHWH)",
+          "note": "Prestar dentro de Israel estaba regulado y era, por diseño, poco rentable. No se podía cobrar interés a un compatriota israelita necesitado (Éxodo 22:25; Levítico 25:35-37; Deuteronomio 23:19-20), un manto tomado en prenda había que devolverlo antes de la puesta del sol (Éxodo 22:26-27), y cada séptimo año se cancelaban las deudas pendientes (Deuteronomio 15:1-2). El versículo 17 dice que el SEÑOR mismo asume el pagaré."
+        },
+        {
+          "term": "Mete la mano en el plato",
+          "original": "Hebrew: צַלַּחַת (tsallachat)",
+          "note": "Un tsallachat es un único tazón de servir puesto en medio del grupo. No había platos individuales ni tenedores; cada uno partía el pan y metía la mano en el plato común con la mano derecha. Esa es la misma costumbre de mesa que hay detrás de las palabras de la última cena acerca del que moja conmigo en el plato (Marcos 14:20)."
         }
       ],
-      "keyTakeaway": "Proverbios contrasta al pobre íntegro con el rico necio, y advierte que la riqueza atrae amigos falsos mientras la pobreza aísla; la sabiduría, la obediencia y la bondad hacia el pobre llevan a la vida, mientras que la necedad, la pereza y el desprecio a la instrucción traen ruina."
+      "keyTakeaway": "Proverbios contrasta al pobre íntegro con el rico necio, advirtiendo que la riqueza atrae amigos falsos mientras que la pobreza aísla; la sabiduría, la obediencia y la bondad con el pobre llevan a la vida, mientras que la necedad, la pereza y el desprecio de la instrucción traen ruina."
     },
     {
       "id": "proverbs-20",
@@ -1366,34 +1446,40 @@
         "Los golpes y las heridas curan la maldad; los azotes limpian lo más íntimo del ser. (20:30)."
       ],
       "crossRefs": [
-        "1 Samuel 15:22: \"Obedecer es mejor que el sacrificio.\"",
-        "Levítico 19:35–36: Balanzas justas y medidas honestas.",
-        "Salmo 20:7: No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
-        "Santiago 1:19: Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+        "Éxodo 22:26-27: Un manto tomado como garantía debe devolverse antes de la puesta del sol, porque es la única cubierta del hombre por la noche.",
+        "Oseas 12:7: Al mercader le gusta defraudar con balanzas engañosas en las manos.",
+        "Jueces 11:30-31: Jefté hace voto de ofrecer lo que salga de su puerta a recibirlo, y resulta ser su hija.",
+        "Isaías 28:27-28: El comino se golpea con un palo y el grano se hace rodar bajo las ruedas del carro, cada cosecha trillada a su manera.",
+        "Romanos 12:19: No os venguéis vosotros mismos, porque la venganza le pertenece a Dios y Él pagará."
       ],
       "translationNotes": [
         {
-          "term": "Pesa los espíritus",
-          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot), Greek (LXX): δοκιμάζει πνεύματα, Aramaic: משקל רוחין",
-          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+          "term": "Vino y bebida fuerte",
+          "original": "Hebrew: יַיִן (yayin) - Hebrew: שֵׁכָר (shekar)",
+          "note": "Shekar no es licor. En este periodo no se destilaba en ninguna parte, así que shekar significa una bebida fermentada fuerte hecha de grano, dátiles, granadas o miel, en contraste con yayin, que es vino de uva. Los dos se nombran como par en el voto nazareo (Números 6:3), en la prohibición de que los sacerdotes beban antes de servir (Levítico 10:9), y en la misma libación (Números 28:7)."
         },
         {
-          "term": "Abominación",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah), Greek: βδέλυγμα, Aramaic: תועבתא",
-          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+          "term": "Pesas y medidas diferentes",
+          "original": "Hebrew: אֶבֶן וָאֶבֶן (even va-even) - Hebrew: אֵיפָה וְאֵיפָה (ephah ve-ephah)",
+          "note": "El hebreo es tajante: una pesa y una pesa, un efa y un efa, es decir, dos juegos de cada uno. La pesa es el peso de la balanza y el efa la medida seca estándar para el grano. La Escritura fija las proporciones, diez gómeres por un efa (Éxodo 16:36) y diez efas por un homer, con el bato de líquidos conteniendo el mismo volumen que el efa de secos (Ezequiel 45:11); el tamaño absoluto solo se conoce por estimación a partir de las tinajas de almacenamiento excavadas, en torno a los veinte litros."
         },
         {
-          "term": "Balanzas y pesas justas",
-          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat), Greek: ζυγὸς δίκαιος, Aramaic: מאזני דינא",
-          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+          "term": "Toma la prenda",
+          "original": "Hebrew: בֶּגֶד (beged)",
+          "note": "El manto exterior de un pobre era también su manta, así que la ley dice que si se toma en prenda hay que devolverlo antes de la puesta del sol, porque es su única cubierta (Éxodo 22:26-27; Deuteronomio 24:12-13). El versículo 16 hace una excepción de filo duro: al hombre bastante temerario para garantizar la deuda de un extraño, quítale el manto y retenlo."
         },
         {
-          "term": "Torre fuerte",
-          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz), Greek: πύργος ἰσχυρός, Aramaic: מגדל עוז",
-          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+          "term": "La rueda de trillar",
+          "original": "Hebrew: אוֹפַן (ophan)",
+          "note": "La trilla se hacía en un piso duro y llano sobre una altura expuesta. El grano cortado se extendía y los bueyes arrastraban por encima un trillo o un carro de ruedas para soltar el grano, y luego la masa se aventaba al viento con una horca para que la paja se la llevara el aire (Isaías 28:27-28; Rut 3:2). El versículo 26 tiene a un rey apartando a los impíos como un labrador aparta el grano."
+        },
+        {
+          "term": "Su lámpara se apagará",
+          "original": "Hebrew: נֵר (ner)",
+          "note": "Un ner era un pequeño platillo de barro con aceite de oliva y un pico pellizcado para la mecha, que se mantenía ardiendo toda la noche en una casa habitada, de modo que una casa sin lámpara es una casa en la que no queda nadie. Maldecir al padre o a la madre era un delito capital según Éxodo 21:17 y Levítico 20:9, que es sobre lo que el versículo 20 pronuncia sentencia."
         }
       ],
-      "keyTakeaway": "Una colección de proverbios sobre la sabiduría y la necedad, que abarca el vino, la ira, la pereza, la honestidad, la fidelidad y los rasgos de carácter que llevan a la bendición o a la ruina. Las observaciones van desde asuntos prácticos como las cosechas y las balanzas fraudulentas hasta verdades más profundas sobre el corazón, la dirección del Señor y las consecuencias de las propias acciones."
+      "keyTakeaway": "Una colección de dichos sobre la sabiduría y la necedad, que abarca el vino, la ira, la pereza, la honradez, la fidelidad y los rasgos de carácter que llevan a la bendición o a la ruina. Las observaciones van desde asuntos prácticos como las cosechas y las balanzas engañosas hasta verdades más profundas sobre el corazón, la dirección del SEÑOR y las consecuencias de los propios actos."
     },
     {
       "id": "proverbs-21",
@@ -1435,34 +1521,40 @@
         "Se alista al caballo para el día de la batalla, pero la victoria depende del SEÑOR. (21:31)."
       ],
       "crossRefs": [
-        "1 Samuel 15:22: \"Obedecer es mejor que el sacrificio.\"",
-        "Levítico 19:35–36: Balanzas justas y medidas honestas.",
-        "Salmo 20:7: No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
-        "Santiago 1:19: Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+        "Esdras 1:1-4: El SEÑOR despierta el espíritu de Ciro rey de Persia, quien luego decreta el regreso y la reconstrucción del templo.",
+        "Oseas 6:6: Misericordia quiero, y no sacrificio, y el conocimiento de Dios más que holocaustos.",
+        "Deuteronomio 22:8: Una casa nueva debe tener un pretil alrededor del techo, ya que el techo plano era espacio habitable.",
+        "Zacarías 7:11-13: Taparon sus oídos y no quisieron escuchar, así que cuando ellos clamaron, el SEÑOR no quiso escuchar.",
+        "Salmos 20:7: Unos confían en carros y otros en caballos, pero nosotros confiamos en el nombre del SEÑOR nuestro Dios."
       ],
       "translationNotes": [
         {
-          "term": "Pesa los espíritus",
-          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot), Greek (LXX): δοκιμάζει πνεύματα, Aramaic: משקל רוחין",
-          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+          "term": "Un canal de agua en la mano del SEÑOR",
+          "original": "Hebrew: פַּלְגֵי־מַיִם (palgey mayim)",
+          "note": "Palgey mayim son canales de riego. El labrador los abría y los cerraba con la mano y el pie para enviar el agua por el surco que eligiera, que es la práctica que Deuteronomio 11:10 describe como regar con el pie, como se cultivaba Egipto. El versículo 1 dice que las decisiones de un rey se vuelven con esa misma facilidad."
         },
         {
-          "term": "Abominación",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah), Greek: βδέλυγμα, Aramaic: תועבתא",
-          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+          "term": "Un rincón del techo",
+          "original": "Hebrew: פִּנַּת־גָּג (pinnat gag)",
+          "note": "Las casas tenían techos planos de arcilla apisonada tendida sobre vigas y ramaje, a los que se subía por una escalera exterior, y el techo era espacio de trabajo y de dormir: Rajab secaba lino en el suyo (Josué 2:6) y Pedro subió a uno a orar (Hechos 10:9). Deuteronomio 22:8 exige un pretil alrededor para que nadie se caiga. La alternativa al rincón del techo es el único cuarto compartido de abajo."
         },
         {
-          "term": "Balanzas y pesas justas",
-          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat), Greek: ζυγὸς δίκαιος, Aramaic: מאזני דינא",
-          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+          "term": "La asamblea de los muertos",
+          "original": "Hebrew: רְפָאִים (rephaim)",
+          "note": "Rephaim aquí significa los muertos, las sombras reunidas en el Seol; Isaías 14:9 los tiene alborotados para recibir al rey de Babilonia, y Job 26:5 y Salmo 88:10 lo usan del mismo modo. La misma grafía nombra también a un pueblo vivo de gran estatura al oriente del Jordán, cuyo último rey Og dormía en una cama de hierro (Génesis 14:5; Deuteronomio 3:11). Una grafía, dos cosas por completo distintas."
         },
         {
-          "term": "Torre fuerte",
-          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz), Greek: πύργος ἰσχυρός, Aramaic: מגדל עוז",
-          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+          "term": "Escala la ciudad de los fuertes",
+          "original": "Hebrew: מִבְטָח (mivtach)",
+          "note": "Las ciudades amuralladas no se tomaban trepando. El atacante levantaba una rampa de tierra contra el muro, subía por ella un ariete de ruedas, socavaba los cimientos, o se sentaba y rendía la ciudad por hambre. Los relieves del palacio de Senaquerib en Nínive muestran exactamente eso hecho a Laquis, la fortaleza de Judá nombrada en 2 Reyes 18:13-14."
+        },
+        {
+          "term": "Un caballo para el día de la batalla",
+          "original": "Hebrew: סוּס (sus)",
+          "note": "Un caballo en Israel era un arma, no ganado de labranza; tiraba del carro, y los carros eran la fuerza de choque acorazada de la época. Deuteronomio 17:16 prohíbe a un rey acumularlos o mandar a Egipto por más, David desjarretó los tiros de carro capturados en lugar de ponerlos en el campo (2 Samuel 8:4), e Isaías 31:1 condena apoyarse en los caballos de Egipto. El versículo 31 pone toda la carrera armamentista en su lugar."
         }
       ],
-      "keyTakeaway": "El capítulo contrasta a los justos con los malvados en múltiples áreas: Dios dirige el corazón de los gobernantes y examina los corazones por encima de los actos externos; la diligencia produce ganancias mientras que la prisa lleva a la pobreza; la mentira, la violencia y el orgullo conducen a la ruina, mientras que la justicia, la generosidad y el autocontrol llevan a la vida y al honor."
+      "keyTakeaway": "El capítulo contrasta al justo con el impío en varios terrenos: Dios dirige el corazón de los gobernantes y pesa el corazón por encima de los actos externos; la diligencia da provecho mientras que la prisa trae pobreza; la mentira, la violencia y la soberbia llevan a la ruina, mientras que la justicia, la generosidad y el dominio propio llevan a la vida y a la honra."
     },
     {
       "id": "proverbs-22",
@@ -1502,34 +1594,40 @@
         "¿Has visto a alguien diestro en su trabajo? Se codeará con reyes, y nunca será un don nadie. (22:29)."
       ],
       "crossRefs": [
-        "1 Samuel 15:22: \"Obedecer es mejor que el sacrificio.\"",
-        "Levítico 19:35–36: Balanzas justas y medidas honestas.",
-        "Salmo 20:7: No confíes en carros ni en caballos (comparar con Proverbios 21:31).",
-        "Santiago 1:19: Pronto para oír, tardo para hablar (comparar con Proverbios 18:13)."
+        "Deuteronomio 6:6-9: Enseña estas palabras a tus hijos en casa y en el camino, y escríbelas en los postes de tu puerta y en tus portones.",
+        "Levítico 25:39-43: El israelita que se vende por deuda sirve como jornalero y queda libre en el Jubileo.",
+        "Amós 5:10-12: Odian al hombre que reprende en la puerta, aceptan sobornos, y allí privan de justicia al pobre.",
+        "Deuteronomio 19:14: No muevas el mojón de tu prójimo, puesto por los que te precedieron en la heredad.",
+        "Génesis 41:39-43: El faraón pone a José sobre todo Egipto con el anillo de sello, el lino fino y un collar de oro."
       ],
       "translationNotes": [
         {
-          "term": "Pesa los espíritus",
-          "original": "Hebrew: תֹּכֵן רוּחוֹת (tōkhen rûḥot), Greek (LXX): δοκιμάζει πνεύματα, Aramaic: משקל רוחין",
-          "note": "El SEÑOR evalúa los motivos internos (16:2)."
+          "term": "Instruye al niño",
+          "original": "Hebrew: חָנַךְ (chanakh)",
+          "note": "Chanakh significa dedicar o inaugurar, y se usa de dedicar una casa nueva (Deuteronomio 20:5) y el templo mismo (1 Reyes 8:63); el sustantivo emparentado es chanukkah, la fiesta de la dedicación que Juan 10:22 sitúa en invierno. La frase que se traduce en el camino que debe andar es literalmente según su camino. El versículo trata de encaminar a un niño como se estrena un edificio."
         },
         {
-          "term": "Abominación",
-          "original": "Hebrew: תּוֹעֵבָה (toʿevah), Greek: βδέλυγμα, Aramaic: תועבתא",
-          "note": "Usada para la soberbia, el gobierno injusto y las medidas falsas (16:5) (20:10)."
+          "term": "El que pide prestado es siervo del que presta",
+          "original": "Hebrew: עֶבֶד לֹוֶה (eved loveh)",
+          "note": "Esto era literal, no una metáfora. El hombre que no podía pagar vendía su trabajo o a sus hijos: el acreedor viene a llevarse a los dos hijos de una viuda en 2 Reyes 4:1, y Nehemías 5:1-5 tiene a familias hipotecando campos y entregando hijas para comer. La ley limitaba el plazo a seis años con liberación en el séptimo, y exigía al amo despedir al liberto cargado de ganado, grano y vino (Éxodo 21:2; Deuteronomio 15:12-15)."
         },
         {
-          "term": "Balanzas y pesas justas",
-          "original": "Hebrew: פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט (peles u-moʾznei mishpat), Greek: ζυγὸς δίκαιος, Aramaic: מאזני דינא",
-          "note": "Estándares de comercio justo atribuidos al SEÑOR (16:11) (20:10)."
+          "term": "Treinta dichos",
+          "original": "Hebrew: שְׁלוֹשִׁים (sheloshim)",
+          "note": "El versículo 17 inicia una nueva colección dentro del libro, encabezada las palabras de los sabios, y se extiende hasta 24:22. El versículo 20 cuenta el contenido en treinta, así que al lector se le está indicando la forma de la sección en la que acaba de entrar, en vez de entregarle un pareado suelto más."
         },
         {
-          "term": "Torre fuerte",
-          "original": "Hebrew: מִגְדַּל־עוֹז (migdal-ʿoz), Greek: πύργος ἰσχυρός, Aramaic: מגדל עוז",
-          "note": "Imagen de protección en el nombre del SEÑOR (18:10)."
+          "term": "puerta (de la ciudad)",
+          "original": "Hebrew: שַׁעַר (sha'ar)",
+          "note": "Mucho más que una entrada; la plaza pública donde los ancianos oían los casos legales, se atestiguaban los contratos, se hacía el negocio del mercado y se intercambiaban las noticias. Sentarse a la puerta (Génesis 19:1; Rut 4:1-11; Proverbios 31:23) señala autoridad civil y una vida comunitaria activa. El versículo 22 prohíbe aplastar allí al afligido, es decir, en el único lugar donde podía buscar justicia."
+        },
+        {
+          "term": "Un lindero antiguo",
+          "original": "Hebrew: גְּבוּל עוֹלָם (gevul olam)",
+          "note": "Los campos se marcaban con piedras puestas en las esquinas y los bordes, sin registro ni agrimensor a quien apelar, de modo que una piedra movida en silencio de noche robaba para siempre una franja de la heredad del vecino. Deuteronomio 19:14 lo prohíbe y Deuteronomio 27:17 lo pone bajo una maldición pública pronunciada desde el monte Ebal. Las piedras kudurru babilónicas llevan la misma idea desde el otro lado, inscribiendo maldiciones sobre cualquiera que las corra."
         }
       ],
-      "keyTakeaway": "El capítulo ofrece sabiduría variada sobre la reputación, la disciplina, la generosidad y la necedad, y luego presenta treinta dichos de consejo que enfatizan la honestidad, la protección del pobre y las advertencias contra las malas compañías y los compromisos imprudentes.",
+      "keyTakeaway": "El capítulo ofrece sabiduría variada sobre la reputación, la disciplina, la generosidad y la necedad, y luego presenta treinta dichos de consejo que subrayan la honradez, la protección del pobre, y advertencias contra las malas compañías y las fianzas temerarias.",
       "headings": [
         {
           "beforeVerse": 16,
@@ -1581,34 +1679,35 @@
         "Y dirás: «Me han herido, pero no me duele. Me han golpeado, pero no lo siento. ¿Cuándo despertaré de este sueño para ir a buscar otro trago?». (23:35)."
       ],
       "crossRefs": [
-        "Deuteronomio 19:14: No muevas el lindero de tu prójimo.",
-        "Éxodo 23:1–9: Justicia para el pobre y afligido en la puerta.",
-        "Proverbios 13:24: Disciplina del niño.",
-        "Isaías 5:11–12: Ay de los que se levantan temprano para correr tras la bebida."
+        "Daniel 1:8-16: Daniel rechaza la comida y el vino del rey en la corte babilónica y pide una prueba de diez días.",
+        "Rut 4:1-10: Booz se sienta a la puerta con diez ancianos y actúa como pariente redentor por el campo y la línea familiar.",
+        "Deuteronomio 21:18-21: Un hijo terco y rebelde es llevado por sus padres a los ancianos en la puerta.",
+        "Isaías 5:11-12: Ay de los que se levantan temprano para ir tras la bebida fuerte y se quedan hasta la noche sobre el vino.",
+        "Lucas 12:16-21: El hombre rico construye graneros más grandes y esa misma noche le es reclamada la vida."
       ],
       "translationNotes": [
         {
-          "term": "Lindero",
+          "term": "Mojón",
           "original": "Hebrew: גְּבוּל/גְּבוּלַת (gevul/gevulat), Greek (LXX): ὅρια, Aramaic: תחומי",
-          "note": "Límites antiguos de propiedad que no deben moverse (22:28)."
+          "note": "Antiguos límites de propiedad que no se han de mover (22:28)."
         },
         {
-          "term": "Tacaño / ojo maligno",
+          "term": "Ojo malo / hombre tacaño",
           "original": "Hebrew: בַּעַל עָיִן רָעָה (baʿal ʿayin rāʿāh), Greek: ὀφθαλμὸς πονηρός, Aramaic: עין בישא",
-          "note": "Modismo que designa a un anfitrión mezquino y renuente (23:6–8)."
+          "note": "Modismo para un anfitrión mezquino y tacaño (23:6-8)."
         },
         {
           "term": "Cuchillo a tu garganta",
           "original": "Hebrew: וְשַׂמְתָּ שַׂכִּין בְּלֹעֶךָ (vesamta sakin beloʿekha), Greek: μάχαιραν ἐπὶ τὸν λαιμόν, Aramaic: סכינא על צוארך",
-          "note": "Advertencia hiperbólica para refrenar el apetito ante gobernantes (23:2)."
+          "note": "Advertencia hiperbólica para refrenar el apetito ante los gobernantes (23:2)."
         },
         {
           "term": "Seol",
-          "original": "Hebrew: שְׁאוֹל (Sheʾol), Greek (LXX): ᾅδης (Hades), Aramaic: שאולא",
-          "note": "Morada de los muertos; se dice que la disciplina libra de él (23:14)."
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "El reino de los muertos en el Antiguo Testamento; un inframundo en penumbra al que descienden tanto los justos como los impíos (Génesis 37:35; Salmo 16:10). No es necesariamente un lugar de tormento; más bien un estado de cese y de silencio. La Septuaginta y el Nuevo Testamento lo traducen con la palabra griega hades."
         }
       ],
-      "keyTakeaway": "El capítulo advierte contra la glotonería, la avaricia, la necedad y el exceso de bebida; exhorta a obedecer la instrucción y la guía paterna, respetar a los vulnerables, y evitar el adulterio y la envidia."
+      "keyTakeaway": "El capítulo advierte contra la glotonería, la codicia, la necedad y la bebida excesiva; insta a la obediencia a la instrucción y a la guía de los padres, al respeto por el vulnerable, y a evitar el adulterio y la envidia."
     },
     {
       "id": "proverbs-24",
@@ -1653,34 +1752,30 @@
         "¡y te asaltará la pobreza como un bandido y la escasez, como un hombre armado! (24:34)."
       ],
       "crossRefs": [
-        "Deuteronomio 19:14: No muevas el lindero de tu prójimo.",
-        "Éxodo 23:1–9: Justicia para el pobre y afligido en la puerta.",
-        "Proverbios 13:24: Disciplina del niño.",
-        "Isaías 5:11–12: Ay de los que se levantan temprano para correr tras la bebida."
+        "Éxodo 31:1-5: Bezalel es lleno del Espíritu de Dios en destreza y conocimiento para toda clase de artesanía.",
+        "Levítico 19:15: No perviertas la justicia mostrando parcialidad al pobre ni favoritismo al rico.",
+        "Job 31:29-30: Job jura que nunca se alegró de la ruina del hombre que lo odiaba.",
+        "Isaías 5:1-7: El dueño limpia su viña, la cerca, cava un lagar, y obtiene solo uvas agrias, así que derriba el muro.",
+        "Proverbios 6:9-11: La misma advertencia palabra por palabra: un poco de sueño, un poco de dormitar, y la pobreza llega como un salteador."
       ],
       "translationNotes": [
         {
-          "term": "Lindero",
+          "term": "Mojón",
           "original": "Hebrew: גְּבוּל/גְּבוּלַת (gevul/gevulat), Greek (LXX): ὅρια, Aramaic: תחומי",
-          "note": "Límites antiguos de propiedad que no deben moverse (22:28)."
+          "note": "Antiguos límites de propiedad que no se han de mover (22:28)."
         },
         {
-          "term": "Tacaño / ojo maligno",
+          "term": "Ojo malo / hombre tacaño",
           "original": "Hebrew: בַּעַל עָיִן רָעָה (baʿal ʿayin rāʿāh), Greek: ὀφθαλμὸς πονηρός, Aramaic: עין בישא",
-          "note": "Modismo que designa a un anfitrión mezquino y renuente (23:6–8)."
+          "note": "Modismo para un anfitrión mezquino y tacaño (23:6-8)."
         },
         {
           "term": "Cuchillo a tu garganta",
           "original": "Hebrew: וְשַׂמְתָּ שַׂכִּין בְּלֹעֶךָ (vesamta sakin beloʿekha), Greek: μάχαιραν ἐπὶ τὸν λαιμόν, Aramaic: סכינא על צוארך",
-          "note": "Advertencia hiperbólica para refrenar el apetito ante gobernantes (23:2)."
-        },
-        {
-          "term": "Seol",
-          "original": "Hebrew: שְׁאוֹל (Sheʾol), Greek (LXX): ᾅδης (Hades), Aramaic: שאולא",
-          "note": "Morada de los muertos; se dice que la disciplina libra de él (23:14)."
+          "note": "Advertencia hiperbólica para refrenar el apetito ante los gobernantes (23:2)."
         }
       ],
-      "keyTakeaway": "El capítulo advierte contra envidiar a los malvados e insta a la sabiduría para construir hogares, hacer la guerra e impartir justicia; también enseña que los justos soportan las dificultades mientras que los malvados enfrentan la ruina, e ilustra cómo la pereza lleva a la pobreza."
+      "keyTakeaway": "El capítulo advierte contra envidiar a los impíos e insta a la sabiduría al edificar hogares, hacer la guerra y administrar justicia; también enseña que los justos soportan la adversidad mientras los impíos enfrentan la ruina, e ilustra cómo la pereza lleva a la pobreza."
     },
     {
       "id": "proverbs-25",
@@ -1719,10 +1814,10 @@
         "Como ciudad sin defensa y sin murallas es quien no sabe dominarse. (25:28)."
       ],
       "crossRefs": [
-        "Lucas 14:8–10: No tomes el lugar de honor; espera a ser invitado (comparar con 25:6–7).",
-        "Romanos 12:20: Cita Proverbios 25:21–22 sobre alimentar al enemigo.",
-        "Deuteronomio 19:16–19: Leyes sobre el testigo falso.",
-        "Nehemías 2:19; Nehemías 6:15–16: Oposición y firmeza ante los gobernantes (resonancia con 25:15) (25:26)."
+        "Lucas 14:8-10: No tomes el lugar de honor; que te inviten a subir (cf. 25:6-7).",
+        "Romanos 12:20: Cita Proverbios 25:21-22 sobre dar de comer a un enemigo.",
+        "Deuteronomio 19:16-19: Leyes acerca del falso testigo.",
+        "Nehemías 2:19; Nehemías 6:15-16: Oposición y firmeza ante los gobernantes (en resonancia con 25:15) (25:26)."
       ],
       "translationNotes": [
         {
@@ -1731,22 +1826,22 @@
           "note": "Nota editorial que atribuye la transmisión de los proverbios de Salomón (25:1)."
         },
         {
-          "term": "Manzanas de oro en engaste de plata",
+          "term": "Manzanas de oro con incrustaciones de plata",
           "original": "Hebrew: תַּפּוּחֵי זָהָב בְּמַשְׂכִּיּוֹת כָּסֶף (tappuḥei zahav be-maskiyyot kasef)",
-          "note": "Imagen de la belleza y lo apropiado de una palabra oportuna (25:11)."
+          "note": "Imagen de la belleza y la oportunidad de una palabra bien dicha (25:11)."
         },
         {
-          "term": "Amontonar ascuas",
+          "term": "Amontonar brasas encendidas",
           "original": "Hebrew: גֶּחָלִים חֹתֶה עַל־רֹאשׁוֹ (geḥalim ḥoteh ʿal rosho), Greek (LXX): ἄνθρακας πυρὸς σωρεύσεις, Aramaic: גחלי נוּר תצבר",
-          "note": "Frase que indica el resultado de alimentar al enemigo (25:22)."
+          "note": "Frase que se declara como resultado de dar de comer a un enemigo (25:22)."
         },
         {
           "term": "Sin dominio propio",
           "original": "Hebrew: אֵין מַעְצָר לְרוּחוֹ (ʾein maʿtsar l’ruḥo), lit. “no restraint over his spirit”, Greek: οὐκ ἔχει κράτος τοῦ πνεύματος",
-          "note": "Comparado con una ciudad sin muros (25:28)."
+          "note": "Comparado con una ciudad sin murallas (25:28)."
         }
       ],
-      "keyTakeaway": "La colección de Ezequías exhorta a la humildad ante los gobernantes, al cuidado en el hablar, a resolver disputas en privado, a moderar los apetitos y las visitas, a ser generosos con los enemigos y a ejercer el autocontrol.",
+      "keyTakeaway": "La colección de Ezequías insta a la humildad ante los gobernantes, al habla cuidadosa y a resolver los pleitos en privado, a los apetitos y las visitas medidos, a la generosidad con los enemigos, y al dominio propio.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1791,34 +1886,34 @@
         "La lengua mentirosa odia a sus víctimas; la boca lisonjera lleva a la ruina. (26:28)."
       ],
       "crossRefs": [
-        "2 Pedro 2:22: Se cita \"el perro vuelve a su vómito\" (comparar con Proverbios 26:11).",
-        "Levítico 19:16: No andarás como chismoso entre tu pueblo.",
-        "Proverbios 20:3: Es honra para el hombre evitar la contienda (comparar con el entrometido, 26:17).",
-        "Salmo 7:15–16: Imagen del hoyo y la piedra que vuelven sobre el que los traza."
+        "2 Pedro 2:22: Se cita \"el perro vuelve a su vómito\" (cf. Proverbios 26:11).",
+        "Levítico 19:16: No andes como chismoso entre tu pueblo.",
+        "Proverbios 20:3: La honra de evitar la contienda (cf. entrometerse, 26:17).",
+        "Salmos 7:15-16: Las imágenes del hoyo y la piedra que se vuelven contra el que trama."
       ],
       "translationNotes": [
         {
           "term": "Necio",
           "original": "Hebrew: כְּסִיל (kesil), Greek (LXX): ἄφρων/ἄνους, Aramaic: כסילא",
-          "note": "Término recurrente para la persona obstinada e incorregible en Proverbios."
+          "note": "Término habitual en Proverbios para la persona obstinada e indócil."
         },
         {
-          "term": "Chismoso",
+          "term": "Murmurador",
           "original": "Hebrew: נִרְגָּן (nirgān), Greek: ψιθυριστής, Aramaic: לחשן",
-          "note": "Murmurador cuyas palabras descienden y encienden contienda (26:20–22)."
+          "note": "Un chismoso cuyas palabras bajan hasta lo hondo y avivan la contienda (26:20-22)."
         },
         {
           "term": "Responder / no responder al necio",
           "original": "Hebrew: עֲנֵה / אַל־תַּעַן (ʿaneh / ʾal-taʿan)",
-          "note": "Mandatos emparejados que muestran dos peligros al responder (26:4–5)."
+          "note": "Mandatos emparejados que muestran dos peligros al responder (26:4-5)."
         },
         {
           "term": "Entrometerse",
           "original": "Hebrew: מִתְעַבֵּר (mitʿabber), Greek: περιπλέκεσθαι, Aramaic: אתעבר",
-          "note": "Meterse en una disputa ajena (26:17)."
+          "note": "Meterse en un pleito que no es el propio (26:17)."
         }
       ],
-      "keyTakeaway": "Esta unidad enlaza imágenes sobre cómo tratar a los necios, expone las excusas del perezoso, advierte contra el entrometimiento y los chismes, y señala que el engaño y la malicia recaen sobre quienes los practican."
+      "keyTakeaway": "Esta unidad encadena imágenes sobre cómo tratar a los necios, expone las excusas del perezoso, advierte contra entrometerse y murmurar, y declara que el engaño y la malicia se vuelven contra quienes los usan."
     },
     {
       "id": "proverbs-27",
@@ -1856,34 +1951,39 @@
         "tendrás leche de cabra en abundancia para que se alimenten tú, tu familia y tus criadas. (27:27)."
       ],
       "crossRefs": [
-        "Santiago 4:13–15: No digáis \"Hoy o mañana iremos...\" (comparar con 27:1).",
-        "Eclesiastés 4:9–10: Mejor son dos que uno (comparar con 27:17).",
-        "Proverbios 22:26–27: Advertencia sobre salir fiador.",
-        "Job 26:6: El Seol y el Abadón están descubiertos ante Dios (comparar con 27:20)."
+        "Santiago 4:13-15: No digas \"Hoy o mañana haremos...\" (cf. 27:1).",
+        "Eclesiastés 4:9-10: Mejores son dos que uno (cf. 27:17).",
+        "Proverbios 22:26-27: Advertencia sobre salir de fiador.",
+        "Job 26:6: El Seol y el Abadón están abiertos delante de Dios (cf. 27:20)."
       ],
       "translationNotes": [
         {
-          "term": "Celos",
+          "term": "Los celos",
           "original": "Hebrew: קִנְאָה (qinʾāh), Greek: ζῆλος, Aramaic: קנאה",
-          "note": "Se nombran como irresistibles (27:4)."
+          "note": "Nombrados como algo arrollador (27:4)."
         },
         {
-          "term": "Mujer rencillosa",
+          "term": "Esposa rencillosa",
           "original": "Hebrew: אֵשֶׁת מִדְיָנִים (ʾeshet midyānim), lit. “woman of contentions”, Greek: γυνὴ φιλέρις",
-          "note": "Comparada con la gotera continua y con viento o aceite incontrolables (27:15–16)."
+          "note": "Comparada con una gotera continua y con el viento o el aceite imposibles de sujetar (27:15-16)."
         },
         {
-          "term": "Hierro con hierro se afila",
+          "term": "El hierro afila el hierro",
           "original": "Hebrew: בַּרְזֶל בְּבַרְזֶל יָחַד (barzel be-barzel yaḥad); Greek: σίδηρος σιδήρῳ ὀξύνει",
-          "note": "Imagen de afilar mutuamente aplicada a las personas (27:17)."
+          "note": "Imagen del pulido mutuo entre las personas (27:17)."
         },
         {
-          "term": "Probado por el elogio",
+          "term": "Probado por su alabanza",
           "original": "Hebrew: מַצְרֵף לַכֶּסֶף… וְאִישׁ לְפִי מַהֲלָלוֹ (maṣref la-keseph… veʾish lefi mahalalo); Greek: δοκιμάζεται ἀνήρ ἐν ἐπαίνῳ",
-          "note": "Metáfora del refinamiento aplicada a cómo el elogio prueba a una persona (27:21)."
+          "note": "Metáfora del refinado aplicada a cómo la alabanza prueba a una persona (27:21)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "El reino de los muertos en el Antiguo Testamento; un inframundo en penumbra al que descienden tanto los justos como los impíos (Génesis 37:35; Salmo 16:10). No es necesariamente un lugar de tormento; más bien un estado de cese y de silencio. La Septuaginta y el Nuevo Testamento lo traducen con la palabra griega hades."
         }
       ],
-      "keyTakeaway": "Este capítulo advierte contra jactarse del mañana y la autoelogio, valora la reprensión honesta y el buen consejo, repite advertencias sobre la prudencia y las garantías, y concluye con el cuidado de los rebaños y la provisión del hogar."
+      "keyTakeaway": "Este capítulo advierte contra jactarse del mañana y contra el elogio propio, valora la reprensión honesta y el consejo, repite las advertencias sobre la prudencia y la fianza, y termina con el cuidado de los rebaños y el sustento del hogar."
     },
     {
       "id": "proverbs-28",
@@ -1922,9 +2022,9 @@
         "Cuando triunfan los impíos, la gente busca refugio; cuando perecen, los justos prosperan. (28:28)."
       ],
       "crossRefs": [
-        "Levítico 19:15: No haréis injusticia en el juicio; no seréis parciales.",
-        "Deuteronomio 23:19–20: Regulaciones sobre el interés y la usura en Israel.",
-        "Salmo 32:5: \"Reconocí mi pecado... y tú perdonaste\" (paralelo de la confesión).",
+        "Levítico 19:15: No harás injusticia en el juicio; no seas parcial.",
+        "Deuteronomio 23:19-20: Regulaciones sobre el interés y la usura en Israel.",
+        "Salmos 32:5: \"Reconocí mi pecado... y tú perdonaste\" (paralelo de confesión).",
         "Proverbios 14:31: El que oprime al pobre afrenta a su Hacedor."
       ],
       "translationNotes": [
@@ -1936,15 +2036,15 @@
         {
           "term": "Confesar / abandonar",
           "original": "Hebrew: מוֹדֶה (modeh, ‘acknowledge’) / עֹזֵב (ʿozev, ‘leave’), Greek: ἐξομολογέομαι / ἐγκαταλείπω, Aramaic: מודי / שביק",
-          "note": "Verbos en 28:13 para admitir y abandonar las transgresiones."
+          "note": "Verbos en 28:13 para admitir y dejar las transgresiones."
         },
         {
           "term": "Endurece su corazón",
           "original": "Hebrew: מַקְשֶׁה־לִבּוֹ (maqsheh-libbo), Greek: σκληρύνει τὴν καρδίαν, Aramaic: מקשי לביה",
-          "note": "Obstinación que lleva al desastre (28:14)."
+          "note": "La obstinación que lleva al desastre (28:14)."
         }
       ],
-      "keyTakeaway": "Esta sección contrasta la audacia del justo con el temor del malvado, subraya guardar la ley y practicar la justicia, y advierte contra el gobierno opresor, el cobro de intereses, el encubrimiento del pecado, la parcialidad, la avaricia y el abandono del pobre.",
+      "keyTakeaway": "Esta sección contrasta al justo audaz con el impío temeroso, recalca guardar la ley y hacer justicia, y advierte contra el gobierno opresor, el cobro de intereses, el encubrimiento del pecado, la parcialidad, la codicia y el descuido del pobre.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1988,29 +2088,29 @@
         "Los justos aborrecen a los malvados y los malvados aborrecen a los justos. (29:27)."
       ],
       "crossRefs": [
-        "Éxodo 32:9: \"Es un pueblo de dura cerviz.\"",
-        "1 Samuel 15:23: El rechazo de la palabra se compara con la rebelión.",
-        "Isaías 11:3–4: El gobernante justo que juzga al pobre con justicia.",
-        "Jeremías 23:16–22: Falsa visión contra verdadera palabra profética (comparar con 29:18)."
+        "Éxodo 32:9: \"Un pueblo de dura cerviz.\"",
+        "1 Samuel 15:23: El rechazo de la palabra comparado con la rebelión.",
+        "Isaías 11:3-4: El gobernante justo que juzga al pobre con justicia.",
+        "Jeremías 23:16-22: La visión falsa frente a la verdadera palabra profética (cf. 29:18)."
       ],
       "translationNotes": [
         {
-          "term": "Endurece la cerviz",
+          "term": "Endurece su cerviz",
           "original": "Hebrew: מַקְשֶׁה־עֹרֶף (maqsheh-ʿoref), Greek (LXX): σκληροτράχηλος, Aramaic: קשׁי ערפא",
-          "note": "Modismo que expresa obstinado rechazo (29:1)."
+          "note": "Modismo para el rechazo obstinado (29:1)."
         },
         {
           "term": "Visión",
           "original": "Hebrew: חָזוֹן (ḥāzôn), Greek: ὅρασις/ὅραμα, Aramaic: חזון",
-          "note": "Revelación profética; sin ella, el pueblo \"se desenfrena\" (29:18)."
+          "note": "Revelación profética; sin ella el pueblo \"se desenfrena\" (29:18)."
         },
         {
-          "term": "Temor del hombre",
+          "term": "El temor del hombre",
           "original": "Hebrew: חֶרְדַּת אָדָם (ḥerdat ʾadam), Greek: φόβος ἀνθρώπου, Aramaic: דחלת גברא",
-          "note": "Timidez ante las personas, contrastada con la confianza en el SEÑOR (29:25)."
+          "note": "La timidez ante la gente contrapuesta a la confianza en el SEÑOR (29:25)."
         }
       ],
-      "keyTakeaway": "Este capítulo advierte contra la terquedad al rechazar la corrección, señala cómo los gobernantes justos o mentirosos afectan a una nación, contrasta el habla apresurada con la moderación, y contrasta el temor al hombre con la confianza en el Señor."
+      "keyTakeaway": "Este capítulo advierte contra el rechazo obstinado de la corrección, señala cómo los gobernantes justos o mentirosos afectan a una tierra, contrasta el habla apresurada con la contención, y contrasta el temor del hombre con la confianza en el SEÑOR."
     },
     {
       "id": "proverbs-30",
@@ -2054,34 +2154,39 @@
         "que batiendo la leche se obtiene mantequilla, que sonándose fuerte sangra la nariz y que provocando la ira se acaba peleando». (30:33)."
       ],
       "crossRefs": [
-        "Deuteronomio 4:2: No añadáis a las palabras que os ordeno (30:6).",
-        "Éxodo 20:12: Honra a tu padre y a tu madre (30:11–17).",
-        "Job 38:4–11: Preguntas sobre la creación y sus límites (30:4).",
-        "Salmo 104:24: Criaturas en sabiduría ordenada (30:24–28)."
+        "Deuteronomio 4:2: No añadas a las palabras que Él ha mandado (30:6).",
+        "Éxodo 20:12: Honra al padre y a la madre (30:11-17).",
+        "Job 38:4-11: Preguntas sobre la creación y sus límites (30:4).",
+        "Salmos 104:24: Criaturas en su sabiduría ordenada (30:24-28)."
       ],
       "translationNotes": [
         {
-          "term": "Profecía / Masá",
+          "term": "Oráculo / Masá",
           "original": "Hebrew: מַשָּׂא (massāʾ, ‘utterance/oracle’), Greek (LXX): λῆμμα, Aramaic: מסא",
-          "note": "Término del encabezado en (30:1) que puede significar \"profecía o declaración\"; también aparece como nombre de lugar en algunos contextos."
+          "note": "El término del encabezado en (30:1) puede significar \"oráculo/declaración\"; también aparece como nombre de lugar en algunos contextos."
         },
         {
-          "term": "Damán",
+          "term": "Tejón de las rocas",
           "original": "Hebrew: שָׁפָן (shafan), Greek: χοιρογρύλλιος (hyrax/coney), Aramaic: שׁפנא",
-          "note": "Pequeño mamífero que habita en los peñascos (30:26)."
+          "note": "Pequeño mamífero que habita entre los peñascos (30:26)."
         },
         {
           "term": "Lagartija / araña",
           "original": "Hebrew: שְׂמָמִית (semamīt), Greek (LXX): καλαβώτης (lizard), Aramaic: סממיתא",
-          "note": "Término con referente debatido; comúnmente traducido como \"lagartija\" (30:28)."
+          "note": "Término de referente discutido; suele traducirse como \"lagartija\" (30:28)."
         },
         {
-          "term": "Gallo (texto variable)",
+          "term": "Gallo altivo (el texto varía)",
           "original": "Hebrew: מָתְנַיִם זַרְזִיר (zarzir motnayim), Greek (LXX): ἀλέκτωρ, Aramaic: תרנגולא",
-          "note": "Expresión poco frecuente; generalmente interpretada como \"gallo\", con propuestas alternativas (30:31)."
+          "note": "Frase rara; suele tomarse como \"gallo\", con propuestas alternativas (30:31)."
+        },
+        {
+          "term": "Seol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "El reino de los muertos en el Antiguo Testamento; un inframundo en penumbra al que descienden tanto los justos como los impíos (Génesis 37:35; Salmo 16:10). No es necesariamente un lugar de tormento; más bien un estado de cese y de silencio. La Septuaginta y el Nuevo Testamento lo traducen con la palabra griega hades."
         }
       ],
-      "keyTakeaway": "Los dichos de Agur afirman la veracidad de las palabras de Dios, piden hablar con verdad y recibir el sustento diario, enumeran tipos observados en series numeradas y usan imágenes para advertir contra la arrogancia, la calumnia y provocar contiendas.",
+      "keyTakeaway": "Los dichos de Agur afirman la veracidad de las palabras de Dios, piden habla veraz y sustento diario, enumeran tipos observados en series numeradas, y usan imágenes para advertir contra la arrogancia, la calumnia y el avivar la contienda.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2129,34 +2234,34 @@
         "¡Sean reconocidos sus logros, y en las puertas de la ciudad sean alabadas sus obras! (31:31)."
       ],
       "crossRefs": [
-        "Deuteronomio 17:14–20: Instrucciones para el rey de Israel.",
-        "Proverbios 20:1: El vino es escarnecedor; la bebida fuerte alborotadora.",
-        "Salmo 82:3–4: Haced justicia al débil y al huérfano; rescatad al necesitado.",
-        "Isaías 1:17: Buscad la justicia; corregid la opresión; haced justicia al huérfano; defended la causa de la viuda."
+        "Deuteronomio 17:14-20: Instrucciones para el rey de Israel.",
+        "Proverbios 20:1: El vino es escarnecedor; la bebida fuerte, alborotadora.",
+        "Salmos 82:3-4: Haz justicia al débil y al huérfano; rescata al necesitado.",
+        "Isaías 1:17: Busca la justicia; corrige la opresión; haz justicia al huérfano; defiende la causa de la viuda."
       ],
       "translationNotes": [
         {
           "term": "Lemuel",
           "original": "Hebrew: לְמוּאֵל (Lemūʾel), Greek (LXX): Λεμουήλ, Aramaic: למואל",
-          "note": "Nombre propio; frecuentemente explicado como \"perteneciente a Dios\", identidad desconocida por lo demás."
+          "note": "Nombre propio; suele explicarse como \"que pertenece a Dios\"; su identidad es por lo demás desconocida."
         },
         {
           "term": "Bebida fuerte",
           "original": "Hebrew: שֵׁכָר (shekhar), Greek (LXX): σίκερα, Aramaic: שכרא (shekhra)",
-          "note": "Bebida fermentada distinta del vino (31:4–6)."
+          "note": "Bebida fermentada distinta del vino (31:4-6)."
         },
         {
-          "term": "Ley / derechos",
+          "term": "Lo decretado / los derechos",
           "original": "Hebrew: חֹק (ḥoq, ‘decree’) / דִּין (din, ‘judgment/right’); Greek: πρόσταγμα / κρίμα",
-          "note": "Términos legales vinculados al gobierno justo (31:5–9)."
+          "note": "Términos legales ligados al gobierno justo (31:5-9)."
         },
         {
           "term": "Abre tu boca",
           "original": "Hebrew: פְּתַח־פִּיךָ (petaḥ-pikha), Greek: ἄνοιγε τὸ στόμα σου, Aramaic: פתח פומך",
-          "note": "Fórmula de defensa pública en un tribunal o asamblea (31:8–9)."
+          "note": "Fórmula para la defensa pública en el tribunal o la asamblea (31:8-9)."
         }
       ],
-      "keyTakeaway": "El oráculo a Lemuel prohíbe la embriaguez a los gobernantes, advierte sobre conductas destructivas y ordena alzar la voz y juzgar con justicia a favor de los pobres e indefensos.",
+      "keyTakeaway": "El oráculo a Lemuel prohíbe la embriaguez de los gobernantes, advierte sobre los afanes destructivos, y manda alzar la voz y juzgar con rectitud a favor del pobre y del que no tiene voz.",
       "headings": [
         {
           "beforeVerse": 1,

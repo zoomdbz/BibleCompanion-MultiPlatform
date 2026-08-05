@@ -232,7 +232,7 @@
     "group": "canon"
   },
   {
-    "canon": "예레미야 애가",
+    "canon": "예레미야애가",
     "aliases": [
       "예레미야 애가",
       "애가",
@@ -579,7 +579,7 @@
     "group": "canon"
   },
   {
-    "canon": "요한일서",
+    "canon": "요한1서",
     "aliases": [
       "요한일서",
       "요일",
@@ -590,8 +590,9 @@
     "group": "canon"
   },
   {
-    "canon": "요한이서",
+    "canon": "요한2서",
     "aliases": [
+      "요한2서",
       "요한이서",
       "2요",
       "2 John"
@@ -599,7 +600,7 @@
     "group": "canon"
   },
   {
-    "canon": "요한삼서",
+    "canon": "요한3서",
     "aliases": [
       "요한삼서",
       "3요",
@@ -627,7 +628,7 @@
     "group": "canon"
   },
   {
-    "canon": "토빗기",
+    "canon": "토비트",
     "aliases": [
       "토빗기",
       "토빗",
@@ -638,8 +639,9 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "유딧기",
+    "canon": "유디트",
     "aliases": [
+      "유디트",
       "유딧기",
       "유딧",
       "Judith"
@@ -651,7 +653,8 @@
     "aliases": [
       "에스더 추가",
       "그리스어 에스더",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
@@ -661,7 +664,8 @@
       "솔로몬의 지혜",
       "지혜서",
       "Wisdom of Solomon",
-      "솔로몬의 지혜서"
+      "솔로몬의 지혜서",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -670,7 +674,8 @@
     "aliases": [
       "집회서",
       "시락",
-      "Sirach"
+      "Sirach",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -696,7 +701,8 @@
     "aliases": [
       "아자리아의 기도",
       "세 청년의 노래",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -718,8 +724,18 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "마카베오기상",
+    "canon": "시편 151편",
     "aliases": [
+      "시편 151편",
+      "시편 151",
+      "Psalm 151"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "마카베오기 상",
+    "aliases": [
+      "마카베오기 상",
       "마카베오기상",
       "마카1",
       "1 Maccabees",
@@ -728,7 +744,7 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "마카베오기하",
+    "canon": "마카베오기 하",
     "aliases": [
       "마카베오기하",
       "마카2",
@@ -739,24 +755,27 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "마카베오기3",
+    "canon": "마카베오기 삼",
     "aliases": [
+      "마카베오기 삼",
       "마카베오기3",
       "3 Maccabees"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "마카베오기4",
+    "canon": "마카베오기 사",
     "aliases": [
+      "마카베오기 사",
       "마카베오기4",
       "4 Maccabees"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "에즈라상",
+    "canon": "에즈라서 상",
     "aliases": [
+      "에즈라서 상",
       "에즈라상",
       "1에즈라",
       "1 Esdras"
@@ -769,7 +788,8 @@
       "에즈라하",
       "2에즈라",
       "제4에즈라",
-      "2 Esdras"
+      "2 Esdras",
+      "2 Esdras (4 Ezra)"
     ],
     "group": "deuterocanon"
   },
@@ -873,8 +893,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "도마유년복음",
+    "canon": "도마 유년복음",
     "aliases": [
+      "도마 유년복음",
       "도마유년복음",
       "Infancy Gospel of Thomas"
     ],
@@ -884,7 +905,8 @@
     "canon": "야고보원복음",
     "aliases": [
       "야고보원복음",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -981,7 +1003,8 @@
     "aliases": [
       "에녹1서",
       "에티오피아 에녹서",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -990,7 +1013,8 @@
     "aliases": [
       "에녹2서",
       "슬라브 에녹서",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -999,7 +1023,8 @@
     "aliases": [
       "에녹3서",
       "히브리 에녹서",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1016,7 +1041,8 @@
     "canon": "열두 족장의 유언",
     "aliases": [
       "열두 족장의 유언",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1177,16 +1203,18 @@
     "group": "pseudepigrapha"
   },
   {
-    "canon": "솔로몬 시편",
+    "canon": "솔로몬의 시편",
     "aliases": [
+      "솔로몬의 시편",
       "솔로몬 시편",
       "Psalms of Solomon"
     ],
     "group": "pseudepigrapha"
   },
   {
-    "canon": "솔로몬 송가",
+    "canon": "솔로몬의 송가",
     "aliases": [
+      "솔로몬의 송가",
       "솔로몬 송가",
       "Odes of Solomon"
     ],
@@ -1222,6 +1250,34 @@
     "aliases": [
       "엘리야 묵시록",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "니코데모 복음서(빌라도 행전)",
+    "aliases": [
+      "니코데모 복음서(빌라도 행전)",
+      "Gospel of Nicodemus",
+      "Acts of Pilate",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "바르톨로메오 복음",
+    "aliases": [
+      "바르톨로메오 복음",
+      "Gospel of Bartholomew",
+      "Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "모세 승천기",
+    "aliases": [
+      "모세 승천기",
+      "Assumption of Moses",
+      "Testament of Moses"
     ],
     "group": "pseudepigrapha"
   }

@@ -9,8 +9,6 @@
         "Gospel of Thomas 1:1-114"
       ],
       "summaryBullets": [
-        "[J]“Old man will not hesitate to ask a little child about the place of life, and he will live. Many who are first will become last, and the last first.”[/J] (sayings 4–5).",
-        "[J]“Jesus said to his disciples, Compare me to someone and tell me whom I am like.”[/J] They answer variously; Jesus says, [J]“I am not your master… Rather, you have become intoxicated.”[/J] (sayings 13–15).",
         "Intro: These are the secret sayings of Jesus recorded by Didymus Judas Thomas (saying 1).",
         "[J]“Whoever finds the interpretation of these sayings will not taste death.”[/J] (saying 1).",
         "[J]“Let him who seeks continue seeking until he finds. When he finds, he will be troubled. When troubled, he will marvel, and will reign over all.”[/J] (saying 2).",
@@ -133,18 +131,99 @@
         "Simon Peter said, Let Mary leave us, for women are not worthy of life. Jesus said, [J]“Behold, I shall lead her, so that I will make her male, that she too may become a living spirit resembling you males. For every woman who makes herself male will enter the kingdom of heaven.”[/J] (saying 114)."
       ],
       "crossRefs": [
-        "Matthew 7:7: Seek and you will find.",
-        "Luke 17:21: The kingdom of God is within you.",
-        "Matthew 19:30: The last will be first."
+        "John 11:16: Thomas is called Didymus, the Twin, which is the Greek half of the doubled name this book puts at its head.",
+        "Luke 17:20-21: Jesus answers the Pharisees that the kingdom of God does not come with observation and is within you, the one canonical form of the saying this book widens into a kingdom inside you and outside you.",
+        "Luke 11:52: Jesus charges the lawyers with taking away the key of knowledge, entering not themselves and hindering those who were entering, which is where the saying about hidden keys stands in the canonical record.",
+        "Matthew 13:31-32: The mustard seed, smallest of seeds, becomes a tree where the birds of the air nest, a parable Matthew sets inside a chapter that explains why Jesus taught in parables at all; this book gives the parable alone, with no frame and no explanation.",
+        "Psalm 118:22: The stone the builders rejected has become the head of the corner, the line the saying about the rejected stone quotes without saying where it comes from.",
+        "John 8:51-52: Jesus says that whoever keeps his word will never see death, and the crowd throws the words back at him; this book instead attaches never tasting death to finding the interpretation of its own sayings.",
+        "Galatians 3:28: Paul writes that in Christ there is neither male nor female, against which the last saying of this book has a woman enter the kingdom only by being made male.",
+        "Acts 15:13-21: James speaks last at the Jerusalem council and gives the judgment the assembly adopts, the standing this book presses much further when it says heaven and earth came into being for his sake."
       ],
       "translationNotes": [
         {
-          "term": "Kingdom",
-          "original": "Hebrew: מַלְכוּת (malkût), Greek: βασιλεία (basileía), Aramaic: מלכותא (malkûtāʾ)",
-          "note": "Means reign or rule; in Thomas, emphasized as both inward and outward reality rather than a distant place."
+          "term": "Didymos Judas Thomas",
+          "original": "Greek: Δίδυμος (Didymos) - Aramaic: תאומא (te'oma)",
+          "note": "Both words mean twin, so the opening line names him twin twice over with the personal name Judas set between them. John 11:16 calls him Thomas who is called Didymus, and John 20:24 repeats it. Scripture never says whose twin he was."
+        },
+        {
+          "term": "Saying",
+          "original": "Greek: λόγιον (logion), plural λόγια (logia)",
+          "note": "A saying or oracle, and the unit this book is built out of. Bernard Grenfell and Arthur Hunt published the first Greek fragment in 1897 under the title Logia Iesou, Sayings of Our Lord. The numbering to 114 is modern editorial work; the Coptic manuscript runs on without numbers and without breaks between one saying and the next."
+        },
+        {
+          "term": "Nag Hammadi",
+          "original": "",
+          "note": "A town in Upper Egypt. In December 1945 a sealed jar holding thirteen papyrus codices was dug out of the ground nearby, and the second codex of that find carries the complete Gospel of Thomas in Coptic on pages 32 to 51. The codex is of the fourth century. Before that find the book was known only from three Greek scraps."
+        },
+        {
+          "term": "Coptic",
+          "original": "",
+          "note": "The last stage of the Egyptian language, written in the Greek alphabet with a handful of extra letters kept from demotic. Sahidic is the dialect of Upper Egypt and the dialect of this manuscript. Coptic absorbed Greek words wholesale, which is why Greek terms such as monachos stand untranslated inside the Coptic text."
+        },
+        {
+          "term": "Oxyrhynchus",
+          "original": "",
+          "note": "A provincial town in middle Egypt whose ancient rubbish mounds preserved discarded papyrus in dry sand. Grenfell and Hunt dug them in the winter of 1896 to 1897 and found the first Greek fragment of this book on 12 January 1897. Three fragments survive, P.Oxy. 1, 654 and 655; all three are older than the Coptic and differ from it in wording where they overlap."
+        },
+        {
+          "term": "Gnosis",
+          "original": "Greek: γνῶσις (gnosis)",
+          "note": "Knowledge. In the sects that used books of this kind it meant a saving knowledge of one's own origin and destiny rather than knowledge of facts, and possessing it was itself the rescue. The word by itself is ordinary Greek and carries none of that in the New Testament, as at 1 Corinthians 8:1 where knowledge puffs up and at 2 Peter 3:18 where believers are told to grow in it."
+        },
+        {
+          "term": "Taste death",
+          "original": "Greek: γεύσηται θανάτου (geusetai thanatou)",
+          "note": "A Semitic way of saying to die, as a man tastes what is handed to him. Saying 1 promises that whoever finds the interpretation of these sayings will not taste death. In the canonical record the phrase belongs to Jesus about some standing with him at Matthew 16:28 and about his own dying at Hebrews 2:9, and John 8:51 ties never seeing death to keeping his word rather than to solving a text."
+        },
+        {
+          "term": "The kingdom inside you and outside you",
+          "original": "Greek: ἐντὸς ὑμῶν (entos hymon)",
+          "note": "Saying 3 sets the kingdom against looking up to the sky or out to the sea, since the birds and the fish would get there first. Luke 17:21 carries the one canonical form of the phrase, entos hymon, within you or among you, and Luke 17:20 frames it as the answer to a question about when the kingdom comes, not about where it is kept."
+        },
+        {
+          "term": "The solitary",
+          "original": "Greek: μοναχός (monachos)",
+          "note": "Single, alone, the one who is one. The Coptic leaves the Greek word standing at sayings 49 and 75, where only the solitary find the kingdom and only the solitary go into the bridal chamber. The same word later became the ordinary word for a monk. It is not used of anyone in the New Testament."
+        },
+        {
+          "term": "Bridal chamber",
+          "original": "Greek: νυμφών (nymphon)",
+          "note": "The room where a marriage was consummated, and by extension the wedding itself. Sayings 75 and 104 make entering it the mark of the solitary and make fasting begin only when the bridegroom leaves it. Matthew 9:15 uses the same word plainly, of the guests of the bridal chamber who cannot mourn while the bridegroom is still with them."
+        },
+        {
+          "term": "Making the two one",
+          "original": "",
+          "note": "Sayings 22 and 106 call for the inside made like the outside and for the male and the female made into a single one, as the condition of entering. Genesis 1:27 is the passage under it, where God made them male and female, and Mark 10:6-8 quotes that verse together with Genesis 2:24 of a man and a woman becoming one flesh in marriage."
+        },
+        {
+          "term": "Making the female male",
+          "original": "",
+          "note": "Saying 114, the last in the book, has Simon Peter demand that Mary leave because women are not worthy of life, and the answer is that she will be led so as to be made male, since every woman who makes herself male will enter the kingdom. Galatians 3:28 says there is neither male nor female in Christ. Luke 8:1-3 has women travelling with Jesus and paying for the work out of their own means, and John 20:11-18 sends Mary Magdalene to the disciples as the first witness of the resurrection."
+        },
+        {
+          "term": "James the Just",
+          "original": "",
+          "note": "Saying 12 sends the disciples to James the Just, for whose sake heaven and earth came into being. He is James the Lord's brother, named at Matthew 13:55 and at Galatians 1:19. Acts 15:13-21 has him give the judgment the Jerusalem council adopts, and Galatians 2:9 lists him first among those reckoned pillars."
+        },
+        {
+          "term": "Salome",
+          "original": "",
+          "note": "Saying 61 has a woman named Salome question Jesus about who he is, saying he has come up on her couch and eaten at her table. Mark 15:40 names Salome among the women watching the crucifixion from a distance, and Mark 16:1 has her buy spices to go and anoint the body."
+        },
+        {
+          "term": "The All",
+          "original": "Coptic: ⲡⲧⲏⲣϥ (pterf) - Greek: τὸ πᾶν (to pan)",
+          "note": "A name for the whole of what exists, used as a title. Saying 67 says that whoever knows the All but is lacking himself lacks everything, and saying 77 has Jesus say it is he who is the All. Colossians 1:16-17 makes the same claim about scope, that all things were created through him and in him hold together, while keeping him distinct from the things he made."
+        },
+        {
+          "term": "Become passersby",
+          "original": "Greek: παράγω (parago)",
+          "note": "Saying 42 is the shortest in the book, three words in Coptic, and it uses the borrowed Greek verb for passing by or passing away. The same verb stands at 1 Corinthians 7:31, where the outward form of this world is passing away, and at 1 John 2:17, where the world and its desire pass away."
         }
       ],
-      "keyTakeaway": "The opening sayings stress seeking, discovery, hidden knowledge, and the kingdom within and without."
+      "keyTakeaway": "One hundred fourteen sayings with no story around them: no birth, no journey, no cross, no resurrection. Almost every unit opens with the words Jesus said, and the first line promises that whoever finds the interpretation of them will not taste death."
     }
-  ]
+  ],
+  "intro": "The Gospel of Thomas names no author in the ordinary sense. Its opening line says that these are the secret sayings which the living Jesus spoke and that Didymos Judas Thomas wrote them down. The name is doubled: Didymos is Greek for twin, and Thomas renders the Aramaic te'oma, which also means twin. The book has no narrative. There is no birth, no journey, no trial, no crucifixion, and no resurrection; almost every unit opens with the words \"Jesus said,\" and the few that do not are short questions put by the disciples or by Mary or Salome. The text presented here carries an opening line and then 114 numbered sayings. That numbering is the work of the modern editors. The Coptic manuscript runs on without numbers and without breaks between one saying and the next.\n\nThree Greek fragments were in hand long before the complete text. Bernard Grenfell and Arthur Hunt, digging the rubbish mounds of Oxyrhynchus in Egypt, found P.Oxy. 1 on 12 January 1897 and published it that same year as Logia Iesou, Sayings of Our Lord; it is dated to the early third century and carries the material now numbered as sayings 26 to 33, with the close of saying 77 attached to saying 30. P.Oxy. 654, which carries sayings 1 to 7, and P.Oxy. 655 followed, published in 1904 in the fourth volume of The Oxyrhynchus Papyri. What work the fragments came from was unknown until December 1945, when a sealed jar of papyrus codices was dug out of the ground near Nag Hammadi in Upper Egypt. The second codex of that find carries the complete Gospel of Thomas in Coptic, in the Sahidic dialect, on pages 32 to 51; the codex is dated to the fourth century. The Greek fragments are older than the Coptic and differ from it in wording where the two overlap.\n\nAncient writers name a Gospel of Thomas well before either manuscript was written. Hippolytus of Rome, in the Refutation of All Heresies 5.7.20, composed between about AD 222 and 235, quotes the Naassenes citing a gospel \"inscribed according to Thomas,\" though the saying he reproduces does not stand in that form in the Coptic text. Origen, in the first of his homilies on Luke, delivered at Caesarea in the 230s or 240s, sets a Gospel according to Thomas and a Gospel according to Matthias among the many gospels of the heresies over against the four of the church. Eusebius of Caesarea lists \"the Gospels of Peter, of Thomas, of Matthias\" among the rejected writings in the Ecclesiastical History 3.25.6, written about AD 325. The Gelasian Decree, transmitted under the name of Pope Gelasius I (AD 492-496) and dated in its present form to the sixth century, condemns as apocryphal the Gospel in the name of Thomas which the Manichaeans use, without saying which of the works then circulating under that name it means.\n\nNo communion receives the Gospel of Thomas as canonical. It stands in no canon list of any church, in no conciliar decree of Scripture, and in no printed Bible of any tradition."
 }

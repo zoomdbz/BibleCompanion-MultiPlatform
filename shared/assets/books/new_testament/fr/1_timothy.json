@@ -33,16 +33,41 @@
       "crossRefs": [
         "Galates 1:6-9: Avertissement contre un autre évangile.",
         "Romains 7:12: La loi est sainte et bonne.",
-        "1 Corinthiens 5:5: Livrer à Satan pour la discipline."
+        "1 Corinthiens 5:5: Livrer à Satan en vue d'une correction."
       ],
       "translationNotes": [
         {
           "term": "Naufrage de la foi",
           "original": "Hebrew: שֶׁבֶר אֱמוּנָה (šeḇer ʾĕmûnāh, sense), Greek: ναυαγέω περὶ τὴν πίστιν (nauagéō perì tēn pístin, NT), Aramaic: טבַע אִתְחַסְדָא (ṭabaʿ ʾitḥasdā, sense)",
-          "note": "Métaphore d'une ruine totale ; décrit l'abandon de la foi et de la conscience comme un navire qui fait naufrage."
+          "note": "Métaphore de la ruine totale ; elle décrit l'abandon de la foi et de la conscience comme un navire qui sombre."
+        },
+        {
+          "term": "scribe (sopher)",
+          "original": "Hebrew: סוֹפֵר (sopher); Greek: γραμματεύς (grammateus)",
+          "note": "À l'origine des copistes professionnels de l'Écriture. À l'époque du Nouveau Testament, des savants et des maîtres de la Loi, souvent, mais non exclusivement, alignés sur les pharisiens. Ils formaient la classe religieuse instruite qui tranchait les questions halakhiques de tous les jours."
+        },
+        {
+          "term": "Éphèse",
+          "original": "Greek: Ἔφεσος (Ephesos)",
+          "note": "Une ville portuaire de la côte égéenne de l'actuelle Turquie occidentale, siège du gouverneur romain de la province d'Asie. Son temple d'Artémis comptait parmi les sept merveilles du monde ; Pline l'Ancien, écrivant au premier siècle, lui donne 425 pieds de long et 225 de large, avec 127 colonnes hautes de soixante pieds (Histoire naturelle 36.21). Le temple servait aussi de banque et de lieu d'asile légal, et les orfèvres qui vendaient des sanctuaires miniatures déclenchèrent une émeute au sujet de Paul (Actes 19:23-41). Paul y avait déjà passé environ trois ans (Actes 20:31)."
+        },
+        {
+          "term": "Marchands d'esclaves",
+          "original": "Greek: ἀνδραποδιστής (andrapodistēs)",
+          "note": "Le mot désigne l'homme qui s'empare d'une personne libre et la vend comme esclave, le ravisseur en tête du commerce d'esclaves plutôt que l'acheteur au bout. La loi de Moïse en faisait deux fois un crime capital : Exode 21:16 et Deutéronome 24:7 condamnent tous deux le voleur d'hommes à la mort. La liste de Paul en 1:9-10 suit la seconde moitié des Dix commandements, et ce mot se tient là où se tient le vol."
+        },
+        {
+          "term": "D'où vient le mot arsenokoitai chez Paul",
+          "original": "Greek (LXX) Leviticus 18:22: μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός - Greek (LXX) Leviticus 20:13: ὃς ἂν κοιμηθῇ μετὰ ἄρσενος κοίτην γυναικός - Greek: ἀρσενοκοῖται (arsenokoitai), singular ἀρσενοκοίτης (arsenokoites)",
+          "note": "Le mot arsenokoitai chez Paul, en 1 Corinthiens 6:9 et 1 Timothée 1:10, désigne les hommes qui couchent avec des mâles. Littéralement, ce sont des coucheurs-avec-mâles : des hommes qui accomplissent des actes sexuels avec d'autres mâles. Koite est le mot grec ordinaire pour un lit et le terme habituel pour le rapport sexuel, comme le Nouveau Testament lui-même l'emploie en Romains 13:13 et Hébreux 13:4. Le mot est un composé rare, et ses deux moitiés se tiennent côte à côte dans l'Ancien Testament grec de deux versets : Lévitique 18:22 porte meta arsenos ou koimethese koiten gynaikos, et Lévitique 20:13 porte hos an koimethe meta arsenos koiten gynaikos, où arsenos et koiten sont contigus."
+        },
+        {
+          "term": "Livrés à Satan",
+          "original": "Greek: παρέδωκα τῷ Σατανᾷ (paredoka to Satana), 'I handed over to Satan'",
+          "note": "Paul nomme deux hommes en 1:20, Hyménée et Alexandre, et dit qu'il les a livrés à Satan afin qu'ils apprennent à ne plus blasphémer ; le but énoncé est correctif. Il décrit la même action contre un homme de Corinthe en 1 Corinthiens 5:5. Hyménée est nommé de nouveau en 2 Timothée 2:17, où il est dit s'être écarté de la vérité en soutenant que la résurrection avait déjà eu lieu. Le verbe est paradidomi, celui-là même que Romains 1:24 emploie de Dieu livrant les hommes."
         }
       ],
-      "keyTakeaway": "Paul charge Timothée de s'opposer aux faux enseignements, d'utiliser la loi correctement, de se souvenir de l'exemple de miséricorde de Paul, et de garder la foi et une bonne conscience pour éviter le naufrage.",
+      "keyTakeaway": "Paul charge Timothée de s'opposer au faux enseignement, de faire un usage droit de la loi, de se souvenir de l'exemple de miséricorde reçu par Paul, et de garder la foi et une bonne conscience pour éviter le naufrage.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -82,18 +107,61 @@
         "Elle sera néanmoins sauvée en devenant mère, si elle demeure dans la foi, l'amour et la consécration, avec pondération. (2:15)."
       ],
       "crossRefs": [
-        "Jérémie 29:7: Priez pour le bien-être de la ville.",
-        "Tite 2:3-5: Les femmes âgées doivent enseigner les plus jeunes.",
-        "Genèse 3:13-16: Ève séduite, conséquences données."
+        "1 Timothée 1:3-7: La lettre énonce elle-même son occasion dès ses premières lignes : Paul a laissé Timothée à Éphèse pour empêcher certains hommes d'enseigner une fausse doctrine, des hommes qui veulent être docteurs de la loi sans comprendre ce qu'ils affirment avec tant d'assurance.",
+        "1 Timothée 5:11-15: Paul écrit à propos des jeunes veuves de cette même Église qui vont de maison en maison en bavardes et en indiscrètes, «parlant de ce qu'il ne faut pas», et il dit que certaines se sont déjà détournées pour suivre Satan.",
+        "Actes 18:26: Priscille et Aquilas prennent Apollos à part et lui exposent plus exactement la voie de Dieu, Priscille étant nommée la première et Apollos enseignant déjà publiquement dans la synagogue.",
+        "Romains 16:1-2: Paul recommande Phœbé, diakonos de l'Église de Cenchrées, à l'Église de Rome, et leur dit de lui donner tout ce dont elle aura besoin.",
+        "1 Corinthiens 11:5: Le même auteur tient pour acquis que des femmes prient et prophétisent dans l'assemblée, et son instruction porte là sur leur tête plutôt que sur leur parole.",
+        "Genèse 3:13-16: Le récit auquel 2:13-14 fait appel, où la femme dit que le serpent l'a trompée et où les conséquences sont prononcées."
       ],
       "translationNotes": [
         {
           "term": "Médiateur",
           "original": "Hebrew: מֵלִיץ (mēlîṣ, sense), Greek: μεσίτης (mesítēs, NT), Aramaic: מתווכחא (metawwakḥā, sense)",
-          "note": "Celui qui intervient entre deux parties ; dans le Nouveau Testament, utilisé uniquement pour le Christ comme seul médiateur entre Dieu et les hommes."
+          "note": "Celui qui intervient entre deux parties ; dans le Nouveau Testament, employé uniquement du Christ comme seul médiateur entre Dieu et les hommes."
+        },
+        {
+          "term": "Prières pour les rois et pour tous ceux qui ont l'autorité",
+          "original": "",
+          "note": "C'était la question de loyauté de l'époque. Deux sacrifices par jour étaient offerts au temple de Jérusalem pour César et pour le peuple romain, et Josèphe rapporte que lorsque les responsables du temple refusèrent de les accepter plus longtemps en 66 apr. J.-C., ce refus fut l'acte qui déclencha la guerre contre Rome (Guerre des Juifs 2.197, 2.409). Rome n'exigeait pas qu'on aimât l'empereur, seulement qu'on lui sacrifiât. Paul dit aux assemblées de prier pour les chefs, ce qu'elles pouvaient faire sans sacrifier à aucun d'eux."
+        },
+        {
+          "term": "Élever des mains saintes",
+          "original": "Greek: ἐπαίροντας ὁσίους χεῖρας (epairontas hosious cheiras)",
+          "note": "La posture normale de la prière dans ce monde-là était de se tenir debout, les deux mains levées et ouvertes, non à genoux les mains jointes, qui est une habitude occidentale bien plus tardive. Salomon pria ainsi à la dédicace du temple, debout, les mains étendues vers le ciel (1 Rois 8:22), et les Psaumes le décrivent à plusieurs reprises (Psaume 28:2, 63:4, 141:2). Grecs et Romains priaient aussi les mains levées, si bien que l'accent de Paul tombe sur «saintes», non sur la posture."
+        },
+        {
+          "term": "Rançon",
+          "original": "Greek: ἀντίλυτρον (antilytron)",
+          "note": "Un lytron était le prix d'achat versé pour faire sortir un captif ou un esclave, la somme remise pour libérer un corps. Antilytron le précise par le préfixe anti-, un prix payé à la place de celui qui est retenu, et c'est le seul endroit où le mot paraît dans le Nouveau Testament. Jésus emploie la forme simple en Marc 10:45 : «donner sa vie en rançon pour beaucoup»."
+        },
+        {
+          "term": "Pourquoi la lettre a été écrite",
+          "original": "",
+          "note": "La lettre énonce elle-même son occasion. Paul a laissé Timothée à Éphèse pour enjoindre à certains hommes de ne pas enseigner une fausse doctrine, des hommes qui veulent être docteurs de la loi et ne comprennent pas ce qu'ils affirment avec tant d'assurance (1:3-7). Il nomme Hyménée et Alexandre comme deux qu'il a livrés à Satan (1:20), avertit de docteurs qui interdiront le mariage et défendront des aliments (4:1-3), et termine sur des hommes qui trafiquent des disputes de mots et traitent la piété comme un moyen de gain (6:3-5). Le chapitre 5 y ajoute de jeunes veuves de la même Église qui vont de maison en maison en bavardes et en indiscrètes, disant ce qu'il ne faut pas, dont quelques-unes se sont déjà détournées (5:11-15)."
+        },
+        {
+          "term": "Exercer l'autorité",
+          "original": "Greek: αὐθεντεῖν (authentein)",
+          "note": "Ce verbe ne paraît nulle part ailleurs dans le Nouveau Testament. 1 Timothée 2:12 en est l'unique apparition, si bien qu'il n'existe aucun second emploi, chez Paul ou chez quiconque, auquel le comparer. Le nom néotestamentaire ordinaire pour l'autorité est exousia (ἐξουσία), et le verbe habituel de Paul pour diriger ou présider est proistemi (προΐστημι), qu'il emploie dans cette même lettre d'un surveillant qui dirige sa maison (3:4-5), d'un diacre (3:12), et des anciens qui dirigent bien (5:17). Aucun de ces mots n'est celui qu'il a choisi ici."
+        },
+        {
+          "term": "Tranquillité",
+          "original": "Greek: ἡσυχία (hesychia) - ἡσύχιος (hesychios)",
+          "note": "La même racine paraît deux fois dans ce chapitre. En 2:2 Paul prie pour que tous les croyants mènent «une vie paisible et tranquille», ce qui est l'adjectif hesychios, et en 2:11-12 la femme doit s'instruire en hesychia et y demeurer. Paul reprend le nom en 2 Thessaloniciens 3:12, où il est ordonné à des gens qui vivent dans le désordre de travailler tranquillement et de gagner eux-mêmes leur pain."
+        },
+        {
+          "term": "Des femmes nommées dans l'Écriture",
+          "original": "",
+          "note": "L'Écriture nomme des femmes qui enseignent, qui prophétisent et qui jugent. Priscille et Aquilas prirent Apollos à part et lui exposèrent plus exactement la voie de Dieu (Actes 18:26) ; Phœbé est diakonos de l'Église de Cenchrées, le mot grec même rendu par «diacre» en 1 Timothée 3:8 et Philippiens 1:1 (Romains 16:1-2) ; Évodie et Syntyche ont combattu aux côtés de Paul pour l'évangile (Philippiens 4:2-3) ; les quatre filles non mariées de Philippe prophétisaient (Actes 21:9) ; et Paul écrit que des femmes prient et prophétisent dans l'assemblée (1 Corinthiens 11:5). Dans l'Ancien Testament, Débora la prophétesse jugeait Israël et le peuple montait vers elle pour être jugé (Juges 4:4-5), et les officiers du roi allèrent trouver Houlda la prophétesse pour obtenir la parole du SEIGNEUR (2 Rois 22:14-20). Tite 2:3-5 charge les femmes âgées de former les plus jeunes."
+        },
+        {
+          "term": "Sauvée par la maternité",
+          "original": "Greek: σωθήσεται διὰ τῆς τεκνογονίας (sothesetai dia tes teknogonias)",
+          "note": "Le grec change de nombre à l'intérieur du verset et le français ne peut pas le montrer. «Sera sauvée» est au singulier et se rattache directement à «la femme» de 2:14, tandis que «s'ils persévèrent dans la foi, l'amour et la sainteté» est au pluriel. Teknogonia est le mot simple pour l'enfantement et se tient ici avec l'article défini, «l'enfantement» ; Paul emploie le verbe correspondant en 5:14, où il dit aux jeunes veuves de se marier et d'avoir des enfants."
         }
       ],
-      "keyTakeaway": "Paul exhorte à prier pour tous, affirme que Christ est le seul médiateur, donne des instructions sur la prière des hommes et la conduite des femmes, en les fondant sur l'ordre de la création et de la chute.",
+      "keyTakeaway": "Paul presse de prier pour tous, affirme le Christ comme unique médiateur, donne des instructions sur la prière des hommes et la conduite des femmes, en les fondant sur l'ordre de la création et de la chute.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -130,28 +198,33 @@
         "Et, il faut le reconnaître, le mystère de la piété est grand : Il s'est manifesté dans la chair, il a été justifié dans l'Esprit, il est apparu aux anges, il a été proclamé parmi les nations, il a été cru dans le monde, il a été enlevé dans la gloire. (3:16)."
       ],
       "crossRefs": [
-        "Actes 20:28: Les épiscopes doivent prendre soin de l'Église de Dieu.",
-        "Philippiens 1:1: Épiscopes et diacres mentionnés.",
+        "Actes 20:28: Des surveillants pour prendre soin de l'Église de Dieu.",
+        "Philippiens 1:1: Des surveillants et des diacres salués.",
         "Éphésiens 2:19-20: La maison de Dieu bâtie sur le Christ."
       ],
       "translationNotes": [
         {
-          "term": "Épiscope",
+          "term": "Surveillant",
           "original": "Hebrew: פָּקִיד (pāqîd, sense), Greek: ἐπίσκοπος (epískopos, NT), Aramaic: אפיסקופא (episqopā)",
-          "note": "Littéralement « surveillant, superviseur » ; rôle de direction dans l'Église primitive, également traduit par évêque."
+          "note": "Littéralement «celui qui veille, qui supervise» ; charge de direction dans l'Église ancienne, rendue aussi par évêque."
         },
         {
           "term": "Diacre",
           "original": "Hebrew: מְשָׁרֵת (mĕšārēt, sense), Greek: διάκονος (diákonos, NT), Aramaic: משמשנא (mshamšānā)",
-          "note": "Serviteur ou ministre ; désigne un rôle reconnu de service dans l'Église."
+          "note": "Serviteur ou ministre ; désigne une fonction de service reconnue dans l'Église."
         },
         {
           "term": "Mystère de la piété",
           "original": "Hebrew: רָז הַחֲסִידוּת (rāz haḥăsîdūt, sense), Greek: τὸ τῆς εὐσεβείας μυστήριον (to tēs eusebeías mystḗrion, NT), Aramaic: רזא דחסידותא (razā d-ḥasîdūṯā)",
-          "note": "Confession résumant l'incarnation, la justification, la proclamation, la croyance et l'exaltation du Christ."
+          "note": "Confession qui résume l'incarnation du Christ, sa justification, sa proclamation, la foi en lui et son élévation."
+        },
+        {
+          "term": "Mari d'une seule femme",
+          "original": "Greek: μιᾶς γυναικὸς ἄνδρα (mias gynaikos andra)",
+          "note": "Mot pour mot, «un homme d'une seule femme». Il faut le lire contre le monde où il fut écrit : sous le droit romain un mariage prenait fin dès que l'une des parties s'en retirait, sans tribunal ni motif déclaré ; le concubinat était un statut légal reconnu à côté du mariage ; et l'usage qu'un homme riche faisait des esclaves de sa propre maison ne lui était compté à mal ni par le droit romain ni par l'opinion romaine. Paul pose la même exigence pour les diacres en 3:12 et pour les anciens en Tite 1:6, et son miroir, «femme d'un seul mari», est la condition d'inscription des veuves en 1 Timothée 5:9."
         }
       ],
-      "keyTakeaway": "Paul énumère les qualifications requises pour les responsables et les diacres, décrit l'Église comme la maison de Dieu et formule la confession du mystère de la piété centré sur Christ.",
+      "keyTakeaway": "Paul énumère les qualités requises des surveillants et des diacres, décrit l'Église comme la maison de Dieu, et confesse le mystère de la piété centré sur le Christ.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -192,10 +265,25 @@
         {
           "term": "Apostasie",
           "original": "Hebrew: מֶרֶד (méred, sense), Greek: ἀποστασία (apostasía, NT), Aramaic: מרוד (marōd, sense)",
-          "note": "Signifie rébellion, chute ou abandon ; utilisé ici pour décrire ceux qui quittent la foi pour suivre des enseignements trompeurs."
+          "note": "Signifie révolte, chute ou éloignement ; employé ici pour l'abandon de la foi au profit d'enseignements trompeurs."
+        },
+        {
+          "term": "Marqués au fer rouge",
+          "original": "Greek: καυστηριάζω (kaustēriazō)",
+          "note": "De kauterion, le fer à marquer ; le mot cautériser vient de la même racine. On marquait au fer rouge, au front ou à la main, les esclaves en fuite et les criminels condamnés, d'une marque permanente qu'on ne pouvait pas contester. La peau brûlée se couvre de cicatrices et cesse de rien sentir, ce qui est tout le propos de l'image : une conscience brûlée jusqu'à ne plus rien percevoir."
+        },
+        {
+          "term": "Fables et généalogies sans fin",
+          "original": "Greek: μῦθος (mythos) - Greek: γενεαλογία (genealogia)",
+          "note": "Paul fait cette même plainte cinq fois dans ces trois lettres et l'associe chaque fois à la loi : 1 Timothée 1:4 et 4:7, Tite 1:14 et 3:9, et 2 Timothée 4:4. L'enseignement qu'il décrit tirait des récits et des spéculations généalogiques des archives de l'Ancien Testament puis en disputait, et c'est pourquoi il l'appelle «des spéculations plutôt que l'administration de l'œuvre de Dieu» en 1:4."
+        },
+        {
+          "term": "Lecture publique de l'Écriture",
+          "original": "Greek: ἀνάγνωσις (anagnōsis)",
+          "note": "La lecture est ici un acte public, non privé. Les livres étaient des rouleaux copiés à la main, assez chers pour qu'une maison ordinaire n'en possédât aucun, si bien que presque tout le monde rencontrait l'Écriture en l'entendant lire à haute voix. C'était la pratique fixe de la synagogue le jour du sabbat (Luc 4:16-20 ; Actes 13:15 ; Actes 15:21), et les lettres de Paul elles-mêmes étaient écrites pour être lues à l'assemblée réunie (Colossiens 4:16 ; 1 Thessaloniciens 5:27)."
         }
       ],
-      "keyTakeaway": "Paul met en garde contre l'apostasie liée à un enseignement ascétique erroné et charge Timothée de s'exercer à la piété, d'être un exemple, d'user de son don et de veiller sur son enseignement.",
+      "keyTakeaway": "Paul met en garde contre l'apostasie par un faux enseignement ascétique et charge Timothée de s'exercer à la piété, de donner l'exemple, d'user de son don et de veiller sur son enseignement.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -237,18 +325,35 @@
         "De même, les belles œuvres sont notoires : même celles qui ne le sont pas ne peuvent rester cachées. (5:25)."
       ],
       "crossRefs": [
-        "Exode 20:12: Honore ton père et ta mère.",
-        "Deutéronome 19:15: Deux ou trois témoins pour une accusation.",
-        "Éphésiens 6:5: Esclaves, obéissez à vos maîtres terrestres."
+        "Lévitique 19:32: Lève-toi devant les cheveux blancs et honore la personne du vieillard.",
+        "Actes 6:1-6: Des veuves sont négligées dans la distribution quotidienne, et sept hommes sont institués pour s'en charger.",
+        "Deutéronome 25:4: Tu ne muselleras pas le bœuf quand il foule le grain.",
+        "Luc 10:7: Jésus dit que l'ouvrier mérite son salaire.",
+        "Deutéronome 19:15: Une accusation ne tient que sur la déposition de deux ou trois témoins."
       ],
       "translationNotes": [
         {
           "term": "Double honneur",
           "original": "Hebrew: כָּבוֹד כָּפוּל (kāḇōd kāfūl, sense), Greek: διπλῆς τιμῆς (diplēs timēs, NT), Aramaic: יָקָרא תְּרֵין (yāqārā treyn, sense)",
-          "note": "Expression signifiant à la fois le respect et le soutien matériel ; appliquée aux anciens qui travaillent à la prédication et à l'enseignement."
+          "note": "Expression qui désigne à la fois le respect et le soutien matériel ; appliquée aux anciens qui peinent à la prédication et à l'enseignement."
+        },
+        {
+          "term": "Inscrite",
+          "original": "Greek: καταλεγέσθω (katalegesthō)",
+          "note": "C'est un registre, non une figure de style. Le verbe est celui qui sert pour porter le nom d'un homme sur un rôle militaire ou une liste civique, et il ne paraît qu'ici dans le Nouveau Testament. L'assemblée nourrissait ces femmes sur ses propres fonds, si bien que la liste comportait des conditions d'entrée : soixante ans au moins, femme d'un seul mari, et un passé d'enfants élevés, d'étrangers logés, de pieds des saints lavés et d'affligés secourus (5:9-10). Actes 6:1-6 montre le même dispositif d'entraide fonctionnant chaque jour à Jérusalem, et 5:16 dit aux familles de prendre en charge leurs propres veuves pour que la caisse ne soit pas submergée."
+        },
+        {
+          "term": "Tu ne muselleras pas le bœuf quand il foule le grain",
+          "original": "",
+          "note": "Deutéronome 25:4, cité mot pour mot. On battait le grain en étendant les tiges coupées sur une aire dure et plate et en y faisant passer des bœufs, souvent traînant un traîneau lesté, jusqu'à ce que les grains se détachent des enveloppes. La bête marchait sur de la nourriture pendant des heures, et la loi interdit de lui lier la bouche pendant qu'elle travaillait. Paul emploie le même verset pour plaider la rétribution des prédicateurs en 1 Corinthiens 9:9-10, et il l'associe ici aux paroles de Jésus en Luc 10:7."
+        },
+        {
+          "term": "Un peu de vin à cause de ton estomac",
+          "original": "Greek: οἶνος (oinos)",
+          "note": "L'eau de boisson ancienne venait des citernes, des puits et des canaux à ciel ouvert, et il n'y avait aucun moyen de la contrôler ni de la traiter ; une mauvaise eau était une donnée constante de la vie urbaine. Le vin coupé d'eau était la boisson de table ordinaire, et le mélange rendait l'eau moins dangereuse à avaler. Les médecins grecs prescrivaient aussi tel vin pour tel trouble d'estomac, et les écrits hippocratiques discutent quel vin convient à quel état. Timothée n'avait apparemment bu que de l'eau, et Paul lui donne un conseil médical, non une levée d'interdit."
         }
       ],
-      "keyTakeaway": "Paul donne à Timothée des instructions sur la manière de traiter différents groupes dans l'église, anciens, veuves et responsables, avec des précisions sur la reconnaissance des veuves dignes de l'être, le soutien aux membres de la famille, la rétribution des anciens qui travaillent bien et le traitement des accusations portées contre des responsables ; il lui enjoint également de faire preuve d'impartialité et d'intégrité personnelle dans l'application de ces directives.",
+      "keyTakeaway": "Il est enseigné à Timothée comment traiter les différents groupes de l'Église, les anciens, les veuves et les responsables, avec des indications pour reconnaître les veuves dignes d'être secourues, pour soutenir les membres de sa famille, pour rétribuer les anciens qui travaillent dur, et pour instruire les accusations contre les responsables. Il lui est aussi enjoint de garder l'impartialité et l'intégrité personnelle en appliquant ces instructions.",
       "headings": [
         {
           "beforeVerse": 2,
@@ -286,18 +391,35 @@
         "Quelques-uns, pour y avoir prétendu, sont passés à côté de la foi. Que la grâce soit avec vous ! (6:21)."
       ],
       "crossRefs": [
-        "Exode 20:12: Honore ton père et ta mère.",
-        "Deutéronome 19:15: Deux ou trois témoins pour une accusation.",
-        "Éphésiens 6:5: Esclaves, obéissez à vos maîtres terrestres."
+        "Éphésiens 6:5-9: Esclaves et maîtres interpellés ensemble, les maîtres étant avertis qu'ils répondent devant le même Seigneur.",
+        "Job 1:21: Nu je suis sorti du ventre de ma mère, et nu j'y retournerai.",
+        "Proverbes 30:8-9: Ne me donne ni pauvreté ni richesse, de peur que rassasié je ne te renie, ou que pauvre je ne dérobe.",
+        "Jean 18:33-37: Jésus dit à Pilate que son royaume n'est pas de ce monde et qu'il est venu rendre témoignage à la vérité.",
+        "Matthieu 6:19-21: Amassez-vous un trésor dans le ciel, où ni la mite ni la rouille ne détruisent."
       ],
       "translationNotes": [
         {
-          "term": "Double honneur",
-          "original": "Hebrew: כָּבוֹד כָּפוּל (kāḇōd kāfūl, sense), Greek: διπλῆς τιμῆς (diplēs timēs, NT), Aramaic: יָקָרא תְּרֵין (yāqārā treyn, sense)",
-          "note": "Expression signifiant à la fois le respect et le soutien matériel ; appliquée aux anciens qui travaillent à la prédication et à l'enseignement."
+          "term": "Sous le joug de l'esclavage",
+          "original": "Greek: ζυγός (zygos)",
+          "note": "Le joug est la pièce de bois posée sur le cou d'un attelage de labour, si bien que l'image est celle d'un homme harnaché comme une bête. L'esclavage du monde romain ne reposait pas sur la race : on y entrait par la capture à la guerre, la piraterie, la dette, l'exposition à la naissance, ou la naissance d'une mère esclave, et les esclaves travaillaient comme mineurs, cuisiniers, médecins, précepteurs et régisseurs. Ce que Paul traite en 6:2 est la situation que les assemblées créaient effectivement, où un esclave et l'homme qui le possédait légalement se trouvaient dans la même salle comme frères."
+        },
+        {
+          "term": "L'amour de l'argent",
+          "original": "Greek: φιλαργυρία (philargyria)",
+          "note": "Littéralement «l'amour de l'argent métal». La phrase est couramment mal citée. Paul n'écrit pas que l'argent est la racine de tout mal ; le grec n'a pas d'article, si bien qu'on lit que l'amour de l'argent est une racine de toutes sortes de maux. Six versets plus loin il dit aux riches de garder leur bien et de s'en servir, en étant généreux et prêts à partager (6:17-19), ce qui n'aurait aucun sens si l'argent lui-même était le problème."
+        },
+        {
+          "term": "Ponce Pilate",
+          "original": "",
+          "note": "Le préfet romain de Judée d'environ 26 à 36 apr. J.-C., sous Tibère. Il résidait à Césarée maritime et montait à Jérusalem avec des troupes pour les fêtes, quand les foules rendaient les troubles probables. En 1961 on a retrouvé, remployé dans le théâtre de Césarée, un bloc de calcaire portant son nom et son titre, préfet de Judée, ce qui inscrit l'homme et la charge dans la pierre. La confession que Paul désigne est l'échange de Jean 18:33-37."
+        },
+        {
+          "term": "Roi des rois et Seigneur des seigneurs",
+          "original": "Greek: βασιλεὺς τῶν βασιλευόντων (basileus tōn basileuontōn)",
+          "note": "C'était un vrai titre impérial avant d'être une ligne d'hymne. Les grands rois qui régnaient sur des rois moindres s'en servaient : Nabuchodonosor est appelé roi des rois en Daniel 2:37 et Ézéchiel 26:7, et Artaxerxès se signe ainsi en Esdras 7:12. Deutéronome 10:17 avait déjà appliqué le schéma à Dieu, «Dieu des dieux et Seigneur des seigneurs». Paul met le plus haut titre qu'un homme pût revendiquer là où il appartient."
         }
       ],
-      "keyTakeaway": "Paul instruit Timothée sur la conduite appropriée envers les esclaves et les maîtres, met en garde contre les faux docteurs qui propagent controverses et cupidité, et l'exhorte à poursuivre la justice tout en ordonnant aux riches d'être généreux plutôt qu'arrogants. Il souligne que la piété accompagnée de contentement est un grand gain, que l'amour de l'argent mène à la ruine, et encourage Timothée à garder la foi contre la fausse connaissance.",
+      "keyTakeaway": "Paul instruit Timothée sur la conduite qui convient aux esclaves et aux maîtres, met en garde contre les faux docteurs qui entretiennent la controverse et la cupidité, et le charge de poursuivre la justice tout en ordonnant aux riches d'être généreux plutôt qu'arrogants. Il souligne que la piété avec le contentement est un grand gain, que l'amour de l'argent conduit à la ruine, et il presse Timothée de garder la foi contre une fausse connaissance.",
       "headings": [
         {
           "beforeVerse": 2,
@@ -306,5 +428,5 @@
       ]
     }
   ],
-  "intro": "1 Timothée a été écrit par l'apôtre Paul (1 Timothée 1.1), la première des trois «Épîtres pastorales» (avec 2 Timothée et Tite), adressée au jeune protégé de Paul, Timothée, qui supervisait l'Église d'Éphèse. La lettre fut composée vers 63-65 apr. J.-C., après la libération de Paul de son premier emprisonnement romain (62 apr. J.-C., la fin des Actes) et avant sa seconde arrestation et son exécution sous Néron (vers 66-67 apr. J.-C.). Après sa libération, Paul entreprit ce qu'on appelle parfois son quatrième voyage missionnaire, voyageant à travers la Crète (où il laissa Tite pour organiser les Églises), jusqu'à Éphèse (où il laissa Timothée avec une responsabilité de supervision similaire), et plus loin en Macédoine, d'où il écrivit 1 Timothée : «Je te rappelle l'exhortation que je te fis, à mon départ pour la Macédoine, lorsque je t'engageai à rester à Éphèse, afin de recommander à certaines personnes de ne pas enseigner d'autres doctrines, et de ne pas s'attacher à des fables et à des généalogies sans fin» (1 Timothée 1.3-4). Le lieu probable de rédaction est Philippes ou une autre ville macédonienne. Timothée était à moitié juif et à moitié grec, natif de Lystre dans le sud de la Galatie (Actes 16.1) ; sa mère Eunice était une croyante juive et sa grand-mère Loïs était également croyante (2 Timothée 1.5 : «Gardant le souvenir de la foi sincère qui est en toi, qui habita d'abord dans ton aïeule Loïs et dans ta mère Eunice, et qui, j'en suis persuadé, habite aussi en toi»), tandis que son père était un Grec qui n'est jamais mentionné par son nom. Paul avait rencontré Timothée lors de son deuxième voyage missionnaire en passant par Lystre vers 49-50 apr. J.-C. (Actes 16.1-3), l'avait trouvé déjà bien considéré par les croyants de Lystre et d'Iconium, l'avait circoncis pour le bien de son ministère parmi les Juifs (puisque sa mère juive ne l'avait pas fait circoncire par déférence pour son père grec), et l'avait ajouté à l'équipe missionnaire. Timothée devint dès lors l'aide la plus digne de confiance de Paul, co-salutateur de six des autres lettres de Paul (2 Corinthiens, Philippiens, Colossiens, 1 Thessaloniciens, 2 Thessaloniciens et Philémon), servant comme émissaire de Paul dans de multiples missions délicates, et finalement laissé à Éphèse pour superviser l'Église stratégique là-bas. Selon les Actes de Timothée (œuvre du Ve siècle préservant des traditions plus anciennes), Timothée devint le premier évêque d'Éphèse et y subit le martyre vers 97 apr. J.-C. sous le règne de l'empereur Nerva (96-98 apr. J.-C.) ; il fut frappé à coups de massue, traîné et lapidé à mort par une foule païenne pendant la fête d'Artémis (le Katagogion) après avoir confronté la procession idolâtre et prêché la vraie foi. Paul (originellement Saul) naquit à Tarse de Cilicie vers 5-10 apr. J.-C. dans une famille hébraïque de la tribu de Benjamin, éduqué à Jérusalem sous Gamaliel le pharisien avant sa conversion sur la route de Damas et son ministère apostolique auprès des païens ; il subit le martyre par décapitation à Rome sous Néron vers 66-67 apr. J.-C. (voir l'introduction à Romains pour le portrait biographique complet).\n\nLe cadre historique est la ville d'Éphèse au début ou au milieu des années 60 apr. J.-C., où Timothée supervisait l'Église que Paul avait fondée une décennie plus tôt durant les trois années de son troisième voyage missionnaire (Actes 19, vers 53-56 apr. J.-C.). Éphèse était la plus grande ville d'Asie Mineure, la capitale politique de la province romaine d'Asie, le centre religieux du culte d'Artémis et le foyer du Temple d'Artémis (l'une des Sept Merveilles du monde antique). Pour le contexte de la ville elle-même, du Temple d'Artémis et du ministère antérieur de Paul là-bas, voir l'introduction à Éphésiens. Au moment où Paul écrivit 1 Timothée, l'Église éphésienne avait grandi substantiellement et subissait la pression de faux enseignants promouvant ce que 1 Timothée appelle des «fables et généalogies sans fin» (1.4), interdisant le mariage et certains aliments (4.1-5) et une «science faussement appelée ainsi» (6.20) que certains commentateurs traditionnels ont identifiée à des formes précoces de l'enseignement gnostique qui fleurirait au IIe siècle. L'empereur romain était Néron (54-68 apr. J.-C.), au milieu de son règne, avant le grand incendie de Rome (64 apr. J.-C.) et la persécution subséquente des chrétiens qui mènerait au propre martyre de Paul. Les premières années favorables du règne de Néron, sous l'influence de son précepteur Sénèque et du préfet du prétoire Burrus, cédaient la place à des années ultérieures de plus en plus erratiques et violentes.\n\n1 Timothée est le cinquante-quatrième livre de la Bible chrétienne, le quinzième livre du Nouveau Testament et la dixième des treize lettres de Paul dans l'ordre canonique. C'est la première des trois Épîtres pastorales, ainsi nommées parce qu'elles sont écrites à des chefs pastoraux individuels (Timothée et Tite) plutôt qu'à des congrégations et parce qu'elles abordent les préoccupations pratiques de la direction pastorale d'Église. La lettre compte six chapitres. Les manuscrits les plus anciens conservés comprennent le Codex Sinaiticus et le Codex Vaticanus (tous deux du IVe siècle apr. J.-C.) ; les Épîtres pastorales ne sont pas préservées dans le Papyrus 46 (qui saute de 2 Thessaloniciens à Hébreux), suggérant qu'elles ont été transmises initialement dans une tradition scribale séparée. Plusieurs passages de 1 Timothée sont devenus fondamentaux pour la doctrine chrétienne et la pratique ecclésiale : 1 Timothée 1.15 («C'est une parole certaine et entièrement digne d'être reçue, que Jésus-Christ est venu dans le monde pour sauver les pécheurs, dont je suis le premier») ; 1 Timothée 2.5 («Il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme») ; 1 Timothée 3.1-13 énumère les qualifications de caractère pour les surveillants (également appelés anciens ou évêques) et les diacres, qui demeurent les références standards du Nouveau Testament pour le leadership ecclésial ; 1 Timothée 4.1-5 avertit de ceux qui «dans les derniers temps» «abandonneront la foi» en suivant «des esprits séducteurs et des doctrines de démons» ; 1 Timothée 6.10 («l'amour de l'argent est une racine de tous les maux») ; et 1 Timothée 6.12 («Combats le bon combat de la foi, saisis la vie éternelle, à laquelle tu as été appelé»)."
+  "intro": "1 Timothée a été écrit par l'apôtre Paul (1 Timothée 1:1), la première des trois «épîtres pastorales» (avec 2 Timothée et Tite), adressée au jeune protégé de Paul, Timothée, qui veillait sur l'Église d'Éphèse. La lettre fut composée vers 63-65 apr. J.-C., après la libération de Paul de sa première captivité romaine (62 apr. J.-C., la fin des Actes) et avant sa seconde arrestation et son exécution sous Néron (vers 66-67 apr. J.-C.). Après sa libération, Paul entreprit ce qu'on appelle parfois son quatrième voyage missionnaire, passant par la Crète (où il laissa Tite pour organiser les Églises), puis à Éphèse (où il laissa Timothée avec une charge de surveillance semblable), et jusqu'en Macédoine, d'où il écrivit 1 Timothée : «Comme je t'y ai encouragé en partant pour la Macédoine, demeure à Éphèse afin d'enjoindre à certains de ne pas enseigner une autre doctrine et de ne pas s'attacher à des fables et à des généalogies sans fin» (1 Timothée 1:3-4). Le lieu de rédaction probable est Philippes ou une autre ville de Macédoine. Timothée était originaire de Lystre, en Galatie du sud, à demi juif et à demi grec (Actes 16:1) ; sa mère Eunice était une croyante juive et sa grand-mère Loïs était croyante elle aussi (2 Timothée 1:5 : «je me souviens de la foi sincère qui est en toi, qui habita d'abord en Loïs, ta grand-mère, et en Eunice, ta mère, et qui, j'en suis persuadé, habite aussi en toi»), tandis que son père était un Grec dont le nom n'est jamais donné. Paul avait rencontré Timothée lors de son deuxième voyage missionnaire, en passant par Lystre vers 49-50 apr. J.-C. (Actes 16:1-3), l'avait trouvé déjà bien estimé des croyants de Lystre et d'Iconium, l'avait circoncis en vue de son ministère parmi les Juifs (puisque sa mère juive ne l'avait pas fait circoncire par égard pour son père grec), et l'avait joint à l'équipe missionnaire. Timothée devint dès lors l'aide le plus sûr de Paul, cosignant la salutation de six autres lettres de Paul (2 Corinthiens, Philippiens, Colossiens, 1 Thessaloniciens, 2 Thessaloniciens et Philémon), servant d'envoyé de Paul dans plusieurs missions délicates, et enfin laissé à Éphèse pour veiller sur cette Église stratégique. Selon les Actes de Timothée (ouvrage du 5e siècle qui conserve des traditions plus anciennes), Timothée devint le premier évêque d'Éphèse et y fut martyrisé vers 97 apr. J.-C., sous le règne de l'empereur Nerva (96-98 apr. J.-C.) ; il fut frappé à coups de bâton, traîné et lapidé par une foule païenne pendant la fête d'Artémis (le Katagogion), après avoir affronté la procession idolâtre et prêché la vraie foi. Paul (d'abord Saul) naquit à Tarse de Cilicie vers 5-10 apr. J.-C. dans une famille hébraïque de la tribu de Benjamin, fut formé à Jérusalem sous Gamaliel le pharisien avant sa conversion sur le chemin de Damas et son ministère apostolique auprès des nations ; il fut martyrisé par décapitation à Rome sous Néron vers 66-67 apr. J.-C. (voir l'introduction à Romains pour la notice biographique complète).\n\nLe cadre historique est la ville d'Éphèse au début ou au milieu des années 60 apr. J.-C., où Timothée veillait sur l'Église que Paul avait fondée dix ans plus tôt pendant les trois années de son troisième voyage missionnaire (Actes 19, vers 53-56 apr. J.-C.). Éphèse était la plus grande ville d'Asie Mineure, capitale politique de la province romaine d'Asie, centre religieux du culte d'Artémis, et siège du temple d'Artémis (l'une des sept merveilles du monde ancien). Pour le détail sur la ville elle-même, sur le temple d'Artémis et sur le ministère antérieur de Paul en ce lieu, voir l'introduction à Éphésiens. Au moment où Paul écrivit 1 Timothée, l'Église d'Éphèse avait beaucoup grandi et subissait la pression de faux docteurs qui répandaient ce que 1 Timothée appelle des «fables et des généalogies sans fin» (1:4), interdisaient le mariage et certains aliments (4:1-5), et une «connaissance faussement ainsi nommée» (6:20) que des commentateurs traditionnels ont identifiée à des formes anciennes de l'enseignement gnostique qui allait fleurir au deuxième siècle. L'empereur romain était Néron (54-68 apr. J.-C.), au milieu de son règne, avant le grand incendie de Rome (64 apr. J.-C.) et la persécution des chrétiens qui suivit et qui conduirait au martyre de Paul lui-même. Les premières années favorables du règne de Néron, sous l'influence de son précepteur Sénèque et du préfet du prétoire Burrus, cédaient la place à des années de plus en plus erratiques et violentes.\n\n1 Timothée est le cinquante-quatrième livre de la Bible chrétienne, le quinzième livre du Nouveau Testament, et la dixième des treize lettres de Paul dans l'ordre canonique. C'est la première des trois épîtres pastorales, ainsi nommées parce qu'elles s'adressent à des responsables pastoraux individuels (Timothée et Tite) plutôt qu'à des communautés, et parce qu'elles traitent des questions pratiques de la conduite pastorale d'une Église. La lettre compte six chapitres. Parmi les plus anciens manuscrits conservés figurent le Codex Sinaiticus (4e siècle apr. J.-C.) et le Codex Alexandrinus (5e siècle apr. J.-C.) ; les épîtres pastorales ne sont pas conservées dans le Papyrus 46 (dont les feuillets subsistants s'achèvent en 1 Thessaloniciens), ce qui suggère qu'elles ont d'abord été transmises dans une tradition de copie distincte. Plusieurs passages de 1 Timothée sont devenus fondamentaux pour la doctrine et la pratique chrétiennes : 1 Timothée 1:15 («C'est une parole certaine et digne d'être pleinement accueillie, que Jésus-Christ est venu dans le monde pour sauver les pécheurs, dont je suis le premier») ; 1 Timothée 2:5 («Il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, l'homme Jésus-Christ») ; 1 Timothée 3:1-13 énumère les qualités requises des surveillants (appelés aussi anciens ou évêques) et des diacres, qui demeurent les titres néotestamentaires de référence pour la conduite de l'Église ; 1 Timothée 4:1-5 avertit que «dans les derniers temps» certains «s'éloigneront de la foi» en s'attachant à «des esprits trompeurs et à des enseignements de démons» ; 1 Timothée 6:10 («l'amour de l'argent est une racine de toutes sortes de maux») ; et 1 Timothée 6:12 («Combats le bon combat de la foi. Saisis la vie éternelle à laquelle tu as été appelé»)."
 }

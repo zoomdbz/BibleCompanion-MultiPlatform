@@ -37,15 +37,30 @@
       ],
       "crossRefs": [
         "Gênesis 22:18: Promessa por meio da descendência de Abraão.",
-        "2 Samuel 7:12–16: Promessa a Davi de um trono duradouro.",
-        "Rute 4:18–22: Genealogia de Perez a Davi.",
-        "Lucas 3:23–38: Genealogia alternativa por outra linhagem."
+        "2 Samuel 7:12-16: Promessa a Davi de um trono duradouro.",
+        "Rute 4:18-22: Genealogia de Perez a Davi.",
+        "Lucas 3:23-38: Genealogia alternativa por outra linhagem."
       ],
       "translationNotes": [
         {
           "term": "Messias / Cristo",
           "original": "Hebrew: מָשִׁיחַ (māšîaḥ), Greek: χριστός (christos), Aramaic: משיחא (meshicha)",
           "note": "Significa 'ungido'. Mateus identifica Jesus com este título em 1:1-16."
+        },
+        {
+          "term": "Prometida em casamento",
+          "original": "Greek: μνηστεύω (mnēsteuō)",
+          "note": "O desposório não era um noivado no sentido moderno. Era um contrato legal vinculante, firmado diante de testemunhas; a partir daí, o casal já era marido e mulher perante a lei, embora a noiva permanecesse na casa do pai até que o noivo a levasse para sua casa, normalmente cerca de um ano depois. A Mishná, compilada por volta de 200 d.C., concede doze meses para uma virgem se preparar (Ketubot 5:2). Deuteronômio 22:23-24 trata a infidelidade de uma mulher desposada como adultério. Por isso, em 1:19, José decide divorciar-se dela, em vez de apenas romper o compromisso, e em 1:20 o anjo lhe diz que receba Maria como esposa."
+        },
+        {
+          "term": "O nome Jesus",
+          "original": "Hebrew: יֵשׁוּעַ (Yeshua) - Greek: Ἰησοῦς (Iēsous)",
+          "note": "Jesus e Josué são o mesmo nome. Yeshua é a forma abreviada de Yehoshua, que significa 'o SENHOR salva', e o Antigo Testamento grego registra ambos como Iesous. Por isso, o grego de Atos 7:45 e Hebreus 4:8 traz Iesous quando se refere a Josué, filho de Num. Assim, a frase do anjo em 1:21 expressa um único pensamento: dê-Lhe o nome O-SENHOR-Salva, porque Ele salvará o Seu povo dos pecados deles."
+        },
+        {
+          "term": "As mulheres na genealogia",
+          "original": "",
+          "note": "Os registros familiares judaicos seguiam a linhagem masculina, mas esta genealogia menciona quatro mulheres, cada uma ligada a uma história difícil. Tamar gerou Perez de Judá depois de cobrir o rosto e sentar-se à beira do caminho como prostituta, porque ele lhe negara o último filho (Gênesis 38). Raabe mantinha uma casa na muralha de Jericó e escondeu os espias (Josué 2). Rute era moabita, do povo que Deuteronômio 23:3 excluía da assembleia (Rute 1:4). A quarta nem sequer é nomeada; Mateus escreve 'da mulher de Urias', inserindo 2 Samuel 11 na linhagem de Davi em três palavras."
         }
       ],
       "keyTakeaway": "Mateus traça a genealogia de Jesus desde Abraão, Davi, o exílio e até José e Maria em três conjuntos de quatorze gerações.",
@@ -92,9 +107,9 @@
         "A família foi morar numa cidade chamada Nazaré, cumprindo-se, desse modo, o que os profetas haviam dito, que Jesus seria chamado nazareno. (2:23)."
       ],
       "crossRefs": [
-        "Miqueias 5:2: Belém designada como local de nascimento do governante.",
+        "Miquéias 5:2: Belém designada como local de nascimento do governante.",
         "Números 24:17: 'Uma estrela sairá de Jacó.'",
-        "Salmo 72:10–11: Reis trazendo presentes e se prostrando."
+        "Salmos 72:10-11: Reis trazendo presentes e se prostrando."
       ],
       "translationNotes": [
         {
@@ -105,12 +120,22 @@
         {
           "term": "Adoração",
           "original": "Greek: προσκυνέω (proskyneo)",
-          "note": "Prostrar-se em homenagem, 'beijar em direção a'. Usado quando os magos adoraram Jesus (Mateus 2:11), quando Jesus ensinou sobre adoração em espírito e verdade (João 4:23–24), quando o cego curado se prostrou diante dele (João 9:38), e no Apocalipse onde seres celestiais se prostram em adoração (Apocalipse 4:10; 19:10)."
+          "note": "Prostrar-se em homenagem, 'beijar em direção a'. Usado quando os magos adoraram Jesus (Mateus 2:11), quando Jesus ensinou sobre adoração em espírito e verdade (João 4:23-24), quando o cego curado se prostrou diante dele (João 9:38), e no Apocalipse onde seres celestiais se prostram em adoração (Apocalipse 4:10; 19:10)."
         },
         {
           "term": "Estrela",
           "original": "Hebrew: כּוֹכָב (kokhav), Greek: ἀστήρ (astēr), Aramaic: כוכבא (kokhva)",
           "note": "Sinal celestial visto pelos magos."
+        },
+        {
+          "term": "mirra",
+          "original": "Hebrew: מֹר (mor); Greek: σμύρνα (smurna)",
+          "note": "Resina aromática da árvore Commiphora, da Arábia e do leste da África. Era usada no óleo santo da unção (Êxodo 30:23), como perfume, especiaria funerária (João 19:39) e, misturada ao vinho, bebida para diminuir a dor (Marcos 15:23). Foi um dos presentes dos magos."
+        },
+        {
+          "term": "incenso (olíbano)",
+          "original": "Hebrew: לְבוֹנָה (levonah); Greek: λίβανος (libanos)",
+          "note": "Uma resina branco-leitosa da árvore Boswellia, do sul da Arábia. Era queimada como incenso no templo (Êxodo 30:34) e oferecida com toda oferta de cereal. Foi o segundo presente dos magos, tradicionalmente entendido como sinal do sacerdócio."
         }
       ],
       "keyTakeaway": "Os magos seguem uma estrela até Belém, adoram o menino Jesus com presentes e evitam voltar a Herodes após serem avisados em um sonho.",
@@ -162,19 +187,14 @@
         "Isaías 40:3: Voz preparando o caminho.",
         "Malaquias 3:1: Mensageiro preparando diante do Senhor.",
         "2 Reis 1:8: Veste rústica de profeta (contexto para a aparência de João).",
-        "Marcos 1:2–11; Lucas 3:1–22; João 1:19–34: Paralelos.",
-        "João 1:29–34: Testemunho de João sobre Jesus como Cordeiro de Deus."
+        "Marcos 1:2-11; Lucas 3:1-22; João 1:19-34: Paralelos.",
+        "João 1:29-34: Testemunho de João sobre Jesus como Cordeiro de Deus."
       ],
       "translationNotes": [
         {
           "term": "Arrepender-se",
           "original": "Hebrew: שׁוּב (shuv, ‘turn/return’), Greek (NT): μετανοεῖτε (metanoeite, ‘change mind/turn’), Aramaic (Syriac): תּוּבוּ (tūvū, ‘turn back’)",
           "note": "Chamado para voltar-se a Deus; associado à confissão e ao batismo (3:2-11)."
-        },
-        {
-          "term": "Reino dos céus",
-          "original": "Hebrew: מַלְכוּת הַשָּׁמַיִם (maləkwt hašāmayim), Greek (NT): ἡ βασιλεία τῶν οὐρανῶν (ἡ basileίa tῶn oὐranῶn), Aramaic (Syriac): מַלְכוּתָא דִּשְׁמַיָּא (מַלְכוּתָא דִּשְׁמַיָּא)",
-          "note": "Expressão de Mateus para o reinado de Deus (3:2)."
         },
         {
           "term": "Batizar / batismo",
@@ -195,6 +215,21 @@
           "term": "Reino dos céus",
           "original": "Greek: βασιλεία τῶν οὐρανῶν (basileia tōn ouranōn); Hebrew/Aramaic: מלכות שמיא (malkut shemaya)",
           "note": "Expressão de Mateus paralela a 'reino de Deus', respeitando o uso judaico."
+        },
+        {
+          "term": "eira",
+          "original": "Hebrew: גֹּרֶן (goren)",
+          "note": "Superfície plana, dura e ao ar livre, geralmente rocha nivelada ou círculo de terra batida na beira da cidade, onde se separava o cereal da palha. Bois puxavam um trenó de madeira sobre os talos; depois grãos e palha eram joeirados ao vento. Eiras também serviam como espaços públicos (Rute 3; 2 Samuel 24:18; local do templo de Salomão)."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
+        },
+        {
+          "term": "saduceu",
+          "original": "Greek: Σαδδουκαῖος (Saddoukaios)",
+          "note": "O partido sacerdotal e aristocrático. Aceitava apenas a Torá escrita e rejeitava a tradição oral. Negava a ressurreição, os anjos e os espíritos (Atos 23:8). Controlava o templo e colaborava amplamente com Roma para manter esse poder. Desapareceu como movimento depois de 70 d.C., quando o templo em torno do qual se organizava foi destruído."
         }
       ],
       "keyTakeaway": "João prega o arrependimento e batiza no Jordão; Jesus é batizado, o Espírito desce e a voz de Deus o declara o Filho amado.",
@@ -256,7 +291,7 @@
         {
           "term": "Tentar / testar",
           "original": "Hebrew: נִסָּה (nissah), Greek (NT): πειράζω (peirazō), Aramaic: נסא (n’sā)",
-          "note": "A palavra pode significar tentar ou testar; o contexto mostra solicitação ao pecado em 4:1–3."
+          "note": "A palavra pode significar tentar ou testar; o contexto mostra solicitação ao pecado em 4:1-3."
         },
         {
           "term": "Diabo / Satanás",
@@ -267,6 +302,11 @@
           "term": "Está escrito",
           "original": "Hebrew: כָּתוּב (katuv), Greek (NT): γέγραπται (gegraptai), Aramaic: כתיב (k’tiv)",
           "note": "Fórmula que introduz citações das Escrituras."
+        },
+        {
+          "term": "Decápolis",
+          "original": "Greek: δεκάπολις (dekapolis)",
+          "note": "Confederação de dez cidades helenísticas a leste e ao sul do mar da Galileia. Sua cultura era fortemente greco-romana e ali se criavam porcos; por isso o endemoninhado de Marcos 5 vive entre gentios. Quando ele anuncia Jesus por toda a Decápolis (Marcos 5:20), torna-se o primeiro missionário gentio."
         }
       ],
       "keyTakeaway": "Jesus resiste três tentações com as Escrituras e recusa prestar adoração a qualquer outro que não seja Deus.",
@@ -346,8 +386,8 @@
         "[J]Portanto, sejam perfeitos, como perfeito é seu Pai celestial.”[/J] (5:48)."
       ],
       "crossRefs": [
-        "Salmo 37:11: Os mansos herdarão a terra.",
-        "Isaías 61:1–3: Consolo para os que choram.",
+        "Salmos 37:11: Os mansos herdarão a terra.",
+        "Isaías 61:1-3: Consolo para os que choram.",
         "1 Pedro 3:14: Bem-aventurados quando sofrem por causa da justiça."
       ],
       "translationNotes": [
@@ -360,6 +400,31 @@
           "term": "Filhos de Deus",
           "original": "Hebrew: בְּנֵי אֱלֹהִים (bənēy ʾĕlōhiym), Greek (NT): υἱοὶ Θεοῦ (yἱoὶ Theoῦ), Aramaic: בני אלהא (בני אלהא)",
           "note": "Linguagem de semelhança/reconhecimento familiar."
+        },
+        {
+          "term": "assarion",
+          "original": "Greek: ἀσσάριον (assarion)",
+          "note": "Uma pequena moeda romana de cobre, equivalente a um dezesseis avos de um denário. Dois pardais custavam um assarion (Mateus 10:29); Jesus usa esse preço para demonstrar o cuidado de Deus até pela menor criatura."
+        },
+        {
+          "term": "Sinédrio",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "O supremo conselho judaico de 71 membros em Jerusalém, presidido pelo sumo sacerdote. Exercia autoridade judicial, religiosa e civil limitada sob a ocupação romana. Julgou Jesus (Marcos 14:55), Pedro e João (Atos 4) e Estêvão (Atos 6:12). Foi dissolvido depois da destruição do templo em 70 d.C."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
+        },
+        {
+          "term": "quadrante (kodrantes)",
+          "original": "Greek: κοδράντης (kodrantes), from Latin quadrans",
+          "note": "Uma pequena moeda romana de cobre que valia dois leptos, cerca de um sessenta e quatro avos de um denário. Jesus se refere a ela em Mateus 5:26 como a última moeda devida."
+        },
+        {
+          "term": "Geena",
+          "original": "Greek: γέεννα (geenna), from Hebrew גֵּי הִנֹּם (Gei Hinnom)",
+          "note": "Do vale de Hinom, fora de Jerusalém, onde o sacrifício de crianças a Moloque já havia sido praticado (2 Reis 23:10) e onde mais tarde o lixo da cidade era queimado. Jesus o usa como imagem do juízo final (Mateus 5:22; 10:28; 23:33). Muitas Bíblias o traduzem por \"inferno\". É distinto do Hades, o domínio dos mortos."
         }
       ],
       "keyTakeaway": "Jesus pronuncia bênçãos sobre aqueles que vivem de acordo com os caminhos de Deus, encerrando com a alegria em meio à perseguição.",
@@ -445,9 +510,9 @@
         "[J]“Portanto, não se preocupem com o amanhã, pois o amanhã trará suas próprias inquietações. Bastam para hoje os problemas deste dia.”[/J] (6:34)."
       ],
       "crossRefs": [
-        "Lucas 11:2–4: Forma paralela do Pai Nosso.",
-        "Isaías 58:6–7: Verdadeiro jejum e cuidado com os necessitados.",
-        "Salmo 103:10–12: Deus perdoa pecados e os afasta para longe."
+        "Lucas 11:2-4: Forma paralela do Pai Nosso.",
+        "Isaías 58:6-7: Verdadeiro jejum e cuidado com os necessitados.",
+        "Salmos 103:10-12: Deus perdoa pecados e os afasta para longe."
       ],
       "translationNotes": [
         {
@@ -458,7 +523,7 @@
         {
           "term": "Dívidas / ofensas",
           "original": "Hebrew: חוֹבוֹת (ḥovot) / פְּשָׁעִים (peshaʿim), Greek (NT): ὀφειλήματα (opheilēmata, ‘debts’) / παραπτώματα (paraptōmata, ‘trespasses’), Aramaic: חובין (ḥovin) / שְׁגוֹגִין/ּפשʿין",
-          "note": "Mateus 6:12 diz 'dívidas'; 6:14–15 usa 'ofensas'. As tradições variam na redação litúrgica."
+          "note": "Mateus 6:12 diz 'dívidas'; 6:14-15 usa 'ofensas'. As tradições variam na redação litúrgica."
         },
         {
           "term": "Pão de cada dia",
@@ -547,13 +612,13 @@
       "crossRefs": [
         "Levítico 19:18: Ame o seu próximo como a si mesmo.",
         "Tiago 4:12: Há um só Legislador e Juiz.",
-        "Lucas 11:9–13: Paralelo de pedir–buscar–bater."
+        "Lucas 11:9-13: Paralelo de pedir-buscar-bater."
       ],
       "translationNotes": [
         {
           "term": "Julgar",
           "original": "Hebrew: שָׁפַט (shafat), Greek (NT): κρίνω (krinō, ‘judge/decide/condemn’), Aramaic: דן (dan)",
-          "note": "O mandamento adverte contra condenar outros enquanto se ignoram as próprias falhas (7:1–5)."
+          "note": "O mandamento adverte contra condenar outros enquanto se ignoram as próprias falhas (7:1-5)."
         },
         {
           "term": "Santo / pérolas... cães / porcos",
@@ -641,9 +706,9 @@
         "Os habitantes da cidade saíram ao encontro de Jesus e suplicaram que ele fosse embora da região. (8:34)."
       ],
       "crossRefs": [
-        "Levítico 13–14: Inspeção sacerdotal e ofertas por doenças de pele.",
+        "Levítico 13-14: Inspeção sacerdotal e ofertas por doenças de pele.",
         "Isaías 53:4: \"Ele tomou sobre si as nossas enfermidades e carregou as nossas doenças.\"",
-        "Lucas 7:1–10: História do centurião em outro Evangelho."
+        "Lucas 7:1-10: História do centurião em outro Evangelho."
       ],
       "translationNotes": [
         {
@@ -652,14 +717,14 @@
           "note": "\"Lepra\" bíblica abrange várias condições graves de pele, não apenas a doença de Hansen."
         },
         {
-          "term": "Centurião",
-          "original": "Greek (NT): ἑκατόνταρχος (hekatontarchos), Aramaic: קנטוריון (qanturyon, loanword), Latin: centurio (loanword)",
-          "note": "Oficial romano sobre ~100 soldados; um gentio que se aproxima de Jesus com fé."
-        },
-        {
           "term": "Servo / moço",
           "original": "Hebrew: עֶבֶד (ʿeved), Greek (NT): παῖς (pais, ‘servant/child’) and δοῦλος (doulos, ‘servant/slave’), Aramaic: עַבְדָּא (ʿavda)",
           "note": "O relato usa ambos os termos na tradição; ambos indicam o subordinado do centurião em necessidade."
+        },
+        {
+          "term": "centurião",
+          "original": "Greek: ἑκατόνταρχος (hekatontarchos)",
+          "note": "Um oficial romano que comandava uma ‘centúria’ de 80 a 100 soldados; a espinha dorsal da legião. Os centuriões do Novo Testamento recebem retrato uniformemente positivo: aquele cujo servo Jesus cura (Mateus 8:5), Cornélio (Atos 10) e o centurião junto à cruz que confessa ‘Verdadeiramente este homem era o Filho de Deus’ (Marcos 15:39)."
         }
       ],
       "keyTakeaway": "Jesus cura pelo toque e pela palavra, até à distância, e cumpre a Escritura sobre carregar nossas enfermidades.",
@@ -741,9 +806,9 @@
         "[J]Orem ao Senhor da colheita; peçam que ele envie mais trabalhadores para seus campos”.[/J] (9:38)."
       ],
       "crossRefs": [
-        "Salmo 103:3: Deus perdoa a iniquidade e cura as doenças.",
-        "Daniel 7:13–14: 'Filho do Homem' que recebe autoridade.",
-        "Marcos 2:1–12; Lucas 5:17–26: Paralelos."
+        "Salmos 103:3: Deus perdoa a iniquidade e cura as doenças.",
+        "Daniel 7:13-14: 'Filho do Homem' que recebe autoridade.",
+        "Marcos 2:1-12; Lucas 5:17-26: Paralelos."
       ],
       "translationNotes": [
         {
@@ -755,6 +820,11 @@
           "term": "Autoridade... para perdoar",
           "original": "Hebrew: סַמְכוּת… לִסְלוֹחַ חֵטְא (saməkwt… lisəlwōḥa ḥēṭəʾ), Greek (NT): ἐξουσία… ἀφιέναι ἁμαρτίας (ἐxousίa… ἀphiέnai ἁmartίas), Aramaic: שלטן… לשבוק חטאין (שלטן… לשבוק חטאין)",
           "note": "Jesus afirma autoridade delegada real, demonstrada pelo sinal da cura."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
         }
       ],
       "keyTakeaway": "Jesus associa publicamente uma cura visível à sua autoridade de perdoar pecados como o Filho do Homem.",
@@ -854,7 +924,7 @@
       "crossRefs": [
         "Ezequiel 34:5: Ovelhas sem pastor.",
         "Lucas 10:2: A colheita é grande (dito paralelo).",
-        "Marcos 3:13–19: Lista dos Doze."
+        "Marcos 3:13-19: Lista dos Doze."
       ],
       "translationNotes": [
         {
@@ -866,6 +936,21 @@
           "term": "Espírito imundo",
           "original": "Hebrew: רוּחַ טְמֵאָה (ruaḥ teme’ah), Greek (NT): πνεῦμα ἀκάθαρτον (pneῦma ἀkάtharton), Aramaic (Syriac): רוחא טמאה (רוחא טמאה)",
           "note": "Demônios/espíritos impuros opostos ao governo de Deus."
+        },
+        {
+          "term": "assarion",
+          "original": "Greek: ἀσσάριον (assarion)",
+          "note": "Uma pequena moeda romana de cobre, equivalente a um dezesseis avos de um denário. Dois pardais custavam um assarion (Mateus 10:29); Jesus usa esse preço para demonstrar o cuidado de Deus até pela menor criatura."
+        },
+        {
+          "term": "publicano (cobrador de impostos)",
+          "original": "Greek: τελώνης (telones)",
+          "note": "Judeus locais contratados para cobrar os impostos romanos e ficar com um excedente para si. Eram desprezados como colaboradores e considerados ritualmente impuros pelo contato constante com gentios e dinheiro. O apóstolo Mateus e Zaqueu são os principais exemplos no Novo Testamento; a comunhão de mesa de Jesus com eles era deliberadamente escandalosa."
+        },
+        {
+          "term": "Geena",
+          "original": "Greek: γέεννα (geenna), from Hebrew גֵּי הִנֹּם (Gei Hinnom)",
+          "note": "Do vale de Hinom, fora de Jerusalém, onde o sacrifício de crianças a Moloque já havia sido praticado (2 Reis 23:10) e onde mais tarde o lixo da cidade era queimado. Jesus o usa como imagem do juízo final (Mateus 5:22; 10:28; 23:33). Muitas Bíblias o traduzem por \"inferno\". É distinto do Hades, o domínio dos mortos."
         }
       ],
       "keyTakeaway": "Jesus tem compaixão das multidões perdidas, pede oração por trabalhadores e designa os Doze com autoridade sobre demônios e doenças.",
@@ -935,9 +1020,9 @@
         "[J]Meu jugo é fácil de carregar, e o fardo que lhes dou é leve”.[/J] (11:30)."
       ],
       "crossRefs": [
-        "Isaías 35:5–6; 61:1: Sinais mencionados na resposta de Jesus.",
+        "Isaías 35:5-6; 61:1: Sinais mencionados na resposta de Jesus.",
         "Malaquias 4:5: Elias virá antes do dia do SENHOR.",
-        "Lucas 7:18–35: Relato paralelo."
+        "Lucas 7:18-35: Relato paralelo."
       ],
       "translationNotes": [
         {
@@ -949,6 +1034,16 @@
           "term": "Elias que havia de vir",
           "original": "Hebrew: אֵלִיָּהוּ הַבָּא (ʾēliyāhw habāʾ), Greek (NT): Ἠλίας ὁ μέλλων ἔρχεσθαι (Ἠlίas ὁ mέllōn ἔrchesthai), Aramaic: אליהו עתיד למיתי (אליהו עתיד למיתי)",
           "note": "Linguagem de cumprimento de papel; Jesus enquadra João em termos proféticos sem mudar o nome de João."
+        },
+        {
+          "term": "pano de saco",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Tecido áspero e escuro de pelo de cabra, usado diretamente sobre a pele como sinal universal de luto, arrependimento ou aflição (1 Reis 21:27; Jonas 3:5; Mateus 11:21). Vesti-lo em público anunciava dor ou contrição; o próprio desconforto fazia parte do simbolismo."
+        },
+        {
+          "term": "Hades",
+          "original": "Greek: ᾅδης (hades)",
+          "note": "O equivalente grego do hebraico Sheol, usado na Septuaginta e no Novo Testamento; o domínio geral dos mortos, não especificamente um lugar de punição. Apocalipse 1:18 mostra Cristo segurando ‘as chaves da Morte e do Hades’. É distinto da Geena."
         }
       ],
       "keyTakeaway": "Jesus aponta suas obras como evidência para João, abençoa os que não se escandalizarem por sua causa, identifica João com o papel prometido de Elias e repreende uma geração que rejeita tanto João quanto a ele mesmo.",
@@ -1034,9 +1129,9 @@
         "[J]Quem faz a vontade de meu Pai no céu é meu irmão, minha irmã e minha mãe”.[/J] (12:50)."
       ],
       "crossRefs": [
-        "1 Samuel 21:1–6: Davi e os pães sagrados.",
-        "Oseias 6:6: \"Misericórdia quero, e não sacrifício.\"",
-        "Marcos 2:23–3:6; Lucas 6:1–11: Paralelos."
+        "1 Samuel 21:1-6: Davi e os pães sagrados.",
+        "Oséias 6:6: \"Misericórdia quero, e não sacrifício.\"",
+        "Marcos 2:23-3:6; Lucas 6:1-11: Paralelos."
       ],
       "translationNotes": [
         {
@@ -1048,6 +1143,16 @@
           "term": "Misericórdia quero, e não sacrifício",
           "original": "Hebrew: חֶסֶד חָפַצְתִּי וְלֹא־זָבַח (ḥesed ḥāpaṣətiy wəlōʾ-zābaḥ), Greek (LXX/NT): ἔλεος θέλω καὶ οὐ θυσίαν (ἔleos thέlō kaὶ oὐ thysίan), Aramaic: בעינא חסדא ולא דבחא (בעינא חסדא ולא דבחא)",
           "note": "Citação de Oseias 6:6, corrigindo a condenação legalista."
+        },
+        {
+          "term": "sábado",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "O sétimo dia, separado por ordem de Deus (Êxodo 20:8-11). Todo trabalho cessava do pôr do sol de sexta-feira ao pôr do sol de sábado. Na época de Jesus, a tradição rabínica havia elaborado 39 categorias de trabalho proibido; muitas curas de Jesus desafiaram deliberadamente essas regras adicionais sem violar o próprio mandamento da Torá."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
         }
       ],
       "keyTakeaway": "Jesus defende seus discípulos, ensina que a misericórdia vale mais que a condenação ritualista, declara senhorio sobre o sábado e cura nesse dia; os opositores começam a tramar sua morte.",
@@ -1153,8 +1258,8 @@
         "E, por causa da incredulidade deles, realizou ali apenas uns poucos milagres. (13:58)."
       ],
       "crossRefs": [
-        "Isaías 6:9–10: Ouvir sem entender.",
-        "Marcos 4:1–20; Lucas 8:4–15: Paralelos."
+        "Isaías 6:9-10: Ouvir sem entender.",
+        "Marcos 4:1-20; Lucas 8:4-15: Paralelos."
       ],
       "translationNotes": [
         {
@@ -1166,6 +1271,21 @@
           "term": "Mistérios / segredos",
           "original": "Greek: μυστήρια (mystήria), Aramaic (Syriac): רזין (רזין), Hebrew/Aramaic: רָזִים (rāzīm)",
           "note": "Coisas ocultas que Deus revela sobre o reino."
+        },
+        {
+          "term": "semente de mostarda",
+          "original": "Greek: σίναπι (sinapi)",
+          "note": "A semente da mostarda-preta (Sinapis nigra), proverbialmente a menor semente plantada por um agricultor galileu, com cerca de 1 mm, que cresce até virar um arbusto de três metros. Jesus a usa como imagem da fé (Mateus 17:20) e do reino dos céus (Mateus 13:31-32)."
+        },
+        {
+          "term": "escriba (sofer)",
+          "original": "Hebrew: סוֹפֵר (sopher); Greek: γραμματεύς (grammateus)",
+          "note": "Originalmente, copistas profissionais das Escrituras. Na época do Novo Testamento, eram estudiosos e mestres da Lei, muitas vezes, embora não exclusivamente, ligados aos fariseus. Formavam a classe religiosa instruída que decidia questões cotidianas de halacá."
+        },
+        {
+          "term": "seá",
+          "original": "Hebrew: סְאָה (seah)",
+          "note": "Cerca de 7 quartos (7 litros); um terço de uma efa. As 'três medidas de farinha' na parábola do fermento (Mateus 13:33) correspondem a três seás, aproximadamente 30 a 40 libras (14 a 18 kg) de farinha, o bastante para alimentar uma família numerosa por vários dias."
         }
       ],
       "keyTakeaway": "Jesus descreve as diferentes respostas à palavra e explica por que ensina em parábolas, pedindo que ouçam com atenção e produzam fruto.",
@@ -1266,8 +1386,8 @@
       ],
       "crossRefs": [
         "Levítico 18:16; 20:21: Proibição sobre a esposa de um irmão.",
-        "Marcos 6:14–29: Paralelo com detalhes adicionais.",
-        "Mateus 11:2–6: Mensagem anterior de João da prisão."
+        "Marcos 6:14-29: Paralelo com detalhes adicionais.",
+        "Mateus 11:2-6: Mensagem anterior de João da prisão."
       ],
       "translationNotes": [
         {
@@ -1279,6 +1399,16 @@
           "term": "Juramento",
           "original": "Hebrew: שְׁבוּעָה (shevuʿah), Greek: ὅρκος (ὅrkos), Aramaic: שבועתא (shevuʿtā)",
           "note": "Um voto vinculante; Herodes age \"por causa dos juramentos\" (14:9)."
+        },
+        {
+          "term": "Vigílias da noite",
+          "original": "Hebrew: אַשְׁמֻרָה (ashmurah); Greek: φυλακή (phylake)",
+          "note": "A contagem hebraica do tempo no Antigo Testamento dividia a noite em três vigílias (Lamentações 2:19). Os textos do Novo Testamento da era romana usam quatro: tarde, meia-noite, canto do galo e amanhecer (Marcos 13:35), cada uma com cerca de três horas. A \"quarta vigília\" corresponde aproximadamente ao período entre 3h e 6h."
+        },
+        {
+          "term": "tetrarca",
+          "original": "Greek: τετράρχης (tetrarches)",
+          "note": "Literalmente ‘governante de uma quarta parte’; um governante cliente de Roma sobre parte de um antigo reino. O território de Herodes, o Grande, foi dividido entre três de seus filhos depois de sua morte; Herodes Antipas, tetrarca da Galileia e da Pereia, é o Herodes que executa João Batista (Mateus 14:1) e zomba de Jesus antes da crucificação (Lucas 23:7-11)."
         }
       ],
       "keyTakeaway": "João é executado por Herodes após repreender publicamente o casamento do rei; a notícia chega a Jesus.",
@@ -1351,7 +1481,7 @@
       "crossRefs": [
         "Isaías 29:13: Adoração da boca para fora, citada.",
         "Êxodo 20:12; Deuteronômio 5:16: Honra pai e mãe.",
-        "Marcos 7:1–23: Paralelo com detalhes adicionais."
+        "Marcos 7:1-23: Paralelo com detalhes adicionais."
       ],
       "translationNotes": [
         {
@@ -1368,6 +1498,11 @@
           "term": "Homicídios / adultérios / imoralidade sexual",
           "original": "Hebrew: רְצוּחוֹת / נִאֻפִים / זְנוּנִים (rəṣwḥwōt / niʾupiym / zənwniym), Greek: φόνοι / μοιχεῖαι / πορνεῖαι (phόnoi / moicheῖai / porneῖai), Aramaic: קטילין / גיורין / זנוין (קטילין / גיורין / זנוין)",
           "note": "Atos morais explícitos nomeados por Jesus como contaminadores."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
         }
       ],
       "keyTakeaway": "Jesus contrasta a tradição humana com o mandamento de Deus e ensina que a impureza vem do coração, não de comer com as mãos sem lavar.",
@@ -1427,7 +1562,7 @@
         "[J]Eu lhes digo a verdade: alguns que estão aqui neste momento não morrerão antes de ver o Filho do Homem vindo em seu reino!”.[/J] (16:28)."
       ],
       "crossRefs": [
-        "Mateus 12:39–40: 'Sinal de Jonas' ligado aos três dias.",
+        "Mateus 12:39-40: 'Sinal de Jonas' ligado aos três dias.",
         "Lucas 12:1: Fermento como hipocrisia.",
         "Jonas 1:17; 2:1: A descida e o livramento de Jonas."
       ],
@@ -1441,6 +1576,21 @@
           "term": "Sinal de Jonas",
           "original": "Hebrew: אוֹת יוֹנָה (ʾwōt ywōnāh), Greek: σημεῖον Ἰωνᾶ (sēmeῖon Ἰōnᾶ), Aramaic: אתא דְּיוֹנָה (אתא דְּיוֹנָה)",
           "note": "Em Mateus 12:40, conectado a 'três dias e três noites'; aqui referido brevemente."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
+        },
+        {
+          "term": "saduceu",
+          "original": "Greek: Σαδδουκαῖος (Saddoukaios)",
+          "note": "O partido sacerdotal e aristocrático. Aceitava apenas a Torá escrita e rejeitava a tradição oral. Negava a ressurreição, os anjos e os espíritos (Atos 23:8). Controlava o templo e colaborava amplamente com Roma para manter esse poder. Desapareceu como movimento depois de 70 d.C., quando o templo em torno do qual se organizava foi destruído."
+        },
+        {
+          "term": "Hades",
+          "original": "Greek: ᾅδης (hades)",
+          "note": "O equivalente grego do hebraico Sheol, usado na Septuaginta e no Novo Testamento; o domínio geral dos mortos, não especificamente um lugar de punição. Apocalipse 1:18 mostra Cristo segurando ‘as chaves da Morte e do Hades’. É distinto da Geena."
         }
       ],
       "keyTakeaway": "Jesus recusa dar um sinal, menciona o \"sinal de Jonas\" e alerta contra o ensino dos líderes, usando o \"fermento\" como imagem.",
@@ -1494,7 +1644,6 @@
         "Então Jesus repreendeu o demônio, e ele saiu do menino, que ficou curado a partir daquele momento. (17:18).",
         "Mais tarde, os discípulos perguntaram a Jesus em particular: “Por que não conseguimos expulsar aquele demônio?”. (17:19).",
         "[J]“Porque a sua fé é muito pequena”, respondeu Jesus. “Eu lhes digo a verdade: se tivessem fé, ainda que do tamanho de uma semente de mostarda, poderiam dizer a este monte: ‘Mova-se daqui para lá’, e ele se moveria. Nada seria impossível para vocês,[/J] (17:20).",
-        "[J]mas essa espécie não sai senão com oração e jejum.”[/J] (17:21).",
         "[J]Quando voltaram a se reunir na Galileia, Jesus lhes disse: “O Filho do Homem será traído e entregue em mãos humanas.[/J] (17:22).",
         "[J]Será morto, mas no terceiro dia ressuscitará”. E os discípulos se encheram de tristeza.[/J] (17:23).",
         "Quando Jesus e seus discípulos chegaram a Cafarnaum, os cobradores do imposto do templo abordaram Pedro e lhe perguntaram: “Seu mestre não paga o imposto do templo?”. (17:24).",
@@ -1504,9 +1653,9 @@
       ],
       "keyTakeaway": "Jesus é revelado em glória com Moisés e Elias; a voz do Pai fala; eles são instruídos a guardar silêncio até depois da ressurreição; o papel de Elias é associado a João Batista.",
       "crossRefs": [
-        "Êxodo 34:29–35: O rosto de Moisés resplandecendo.",
-        "Malaquias 4:5–6: Elias antes do grande dia.",
-        "2 Pedro 1:16–18: Testemunha ocular da glória majestosa."
+        "Êxodo 34:29-35: O rosto de Moisés resplandecendo.",
+        "Malaquias 4:5-6: Elias antes do grande dia.",
+        "2 Pedro 1:16-18: Testemunha ocular da glória majestosa."
       ],
       "manuscriptVariants": [
         {
@@ -1528,6 +1677,26 @@
           "term": "Filho amado... a ele ouvi",
           "original": "Hebrew (echoes): Psalm 2:7; Deut 18:15 (Psalm 2:7; Deut 18:15); Greek (here): Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός… ἀκούετε αὐτοῦ (Oὗtόs ἐstin ὁ yἱόs mou ὁ ἀgapētόs… ἀkoύete aὐtoῦ); Aramaic (concept): ברי חביבא… שמעון ליה (ברי חביבא… שמעון ליה)",
           "note": "Afirmação celestial combinando motivos reais/proféticos."
+        },
+        {
+          "term": "dracma",
+          "original": "Greek: δραχμή (drachme)",
+          "note": "Uma moeda grega de prata aproximadamente equivalente a um denário romano, o salário de um dia. A moeda perdida de Lucas 15:8 é uma dracma; o dote de uma mulher podia incluir dez dracmas usadas como adorno de cabeça, razão pela qual perder uma causava tanta aflição."
+        },
+        {
+          "term": "estáter",
+          "original": "Greek: στατήρ (stater)",
+          "note": "Uma moeda de prata que valia quatro dracmas, exatamente o imposto do templo devido por duas pessoas. A moeda que Pedro encontra na boca do peixe (Mateus 17:27) é um estáter e paga o imposto de Jesus e de Pedro."
+        },
+        {
+          "term": "semente de mostarda",
+          "original": "Greek: σίναπι (sinapi)",
+          "note": "A semente da mostarda-preta (Sinapis nigra), proverbialmente a menor semente plantada por um agricultor galileu, com cerca de 1 mm, que cresce até virar um arbusto de três metros. Jesus a usa como imagem da fé (Mateus 17:20) e do reino dos céus (Mateus 13:31-32)."
+        },
+        {
+          "term": "didracma",
+          "original": "Greek: δίδραχμον (didrachmon), 'two drachmas'",
+          "note": "Duas dracmas; o valor anual do imposto do templo, correspondente a meio siclo (Mateus 17:24). Cada homem judeu adulto devia pagar esse valor."
         }
       ],
       "headings": [
@@ -1570,7 +1739,6 @@
         "[J]Portanto, se sua mão ou seu pé o faz pecar, corte-o e jogue-o fora. É melhor entrar na vida eterna com apenas uma das mãos ou apenas um dos pés que ser lançado no fogo eterno com as duas mãos e os dois pés.[/J] (18:8).",
         "[J]E, se seu olho o faz pecar, arranque-o e jogue-o fora. É melhor entrar na vida eterna com apenas um dos olhos que ser lançado no inferno de fogo com os dois olhos.[/J] (18:9).",
         "[J]“Tomem cuidado para não desprezar nenhum destes pequeninos. Pois eu lhes digo que, no céu, os anjos deles estão sempre na presença de meu Pai celestial.[/J] (18:10).",
-        "[J]E o Filho do Homem veio para salvar os que estão perdidos.”[/J] (18:11).",
         "[J]“Se um homem tiver cem ovelhas e uma delas se perder, o que vocês acham que ele fará? Não deixará as outras noventa e nove nos montes e sairá à procura da perdida?[/J] (18:12).",
         "[J]E, se a encontrar, eu lhes digo a verdade: ele se alegrará por causa dela mais que pelas noventa e nove que não se perderam.[/J] (18:13).",
         "[J]Da mesma forma, não é da vontade de meu Pai, no céu, que nenhum destes pequeninos se perca.”[/J] (18:14).",
@@ -1598,10 +1766,10 @@
       ],
       "keyTakeaway": "A grandeza é humilde e infantil. Aviso severo contra levar crentes ao pecado. O Pai busca aquele que se perde.",
       "crossRefs": [
-        "Marcos 9:33–37: Paralelo sobre a verdadeira grandeza.",
+        "Marcos 9:33-37: Paralelo sobre a verdadeira grandeza.",
         "Deuteronômio 27:18: Ai de quem faz o vulnerável tropeçar.",
-        "Lucas 15:3–7: Parábola da ovelha perdida.",
-        "Mateus 5:29–30: Advertência anterior para remover o que causa pecado."
+        "Lucas 15:3-7: Parábola da ovelha perdida.",
+        "Mateus 5:29-30: Advertência anterior para remover o que causa pecado."
       ],
       "manuscriptVariants": [
         {
@@ -1628,6 +1796,31 @@
           "term": "Pequeninos",
           "original": "Hebrew (concept): קְטַנִּים (qəṭaniym), Greek: μικροί (mikroί), Aramaic: זְעֵירִין (זְעֵירִין)",
           "note": "Refere-se aqui aos crentes humildes (18:6-14)."
+        },
+        {
+          "term": "talento (dinheiro)",
+          "original": "Hebrew: כִּכָּר (kikkar); Greek: τάλαντον (talanton)",
+          "note": "A maior unidade de peso e de dinheiro no mundo antigo. Um talento de prata pesava cerca de 75 libras (34 kg) e equivalia a aproximadamente 6.000 denários, cerca de vinte anos do salário de um trabalhador. Um talento de ouro valia muito mais. Quando Jesus conta a parábola dos talentos (Mateus 25:14-30), cada talento representa uma responsabilidade de valor extraordinário."
+        },
+        {
+          "term": "denário, denários",
+          "original": "Latin: denarius; Greek: δηνάριον (denarion)",
+          "note": "Moeda romana de prata equivalente ao salário de um dia de trabalho (Mateus 20:2). Cem denários correspondiam a três ou quatro meses de salário. Trazia a imagem do imperador (Marcos 12:16), tornando-se o centro da pergunta tributária sobre dar a César."
+        },
+        {
+          "term": "publicano (cobrador de impostos)",
+          "original": "Greek: τελώνης (telones)",
+          "note": "Judeus locais contratados para cobrar os impostos romanos e ficar com um excedente para si. Eram desprezados como colaboradores e considerados ritualmente impuros pelo contato constante com gentios e dinheiro. O apóstolo Mateus e Zaqueu são os principais exemplos no Novo Testamento; a comunhão de mesa de Jesus com eles era deliberadamente escandalosa."
+        },
+        {
+          "term": "Miríade",
+          "original": "Greek: μυριάς (myrias)",
+          "note": "Dez mil; também usado de modo idiomático para ‘incontável’. Os ‘milhares de milhares’ (myriades myriadon) de anjos em Apocalipse 5:11 poderiam ter 100 milhões como mínimo literal, mas a intenção se lê mais naturalmente como ‘inumeráveis’."
+        },
+        {
+          "term": "Geena",
+          "original": "Greek: γέεννα (geenna), from Hebrew גֵּי הִנֹּם (Gei Hinnom)",
+          "note": "Do vale de Hinom, fora de Jerusalém, onde o sacrifício de crianças a Moloque já havia sido praticado (2 Reis 23:10) e onde mais tarde o lixo da cidade era queimado. Jesus o usa como imagem do juízo final (Mateus 5:22; 10:28; 23:33). Muitas Bíblias o traduzem por \"inferno\". É distinto do Hades, o domínio dos mortos."
         }
       ],
       "headings": [
@@ -1698,7 +1891,7 @@
       "crossRefs": [
         "Gênesis 1:27; 2:24: Criação e uma só carne.",
         "Deuteronômio 24:1: Referência à certidão de divórcio.",
-        "1 Coríntios 7:7–9, 25–35: Solteirice e devoção integral."
+        "1 Coríntios 7:7-9, 25-35: Solteirice e devoção integral."
       ],
       "translationNotes": [
         {
@@ -1715,6 +1908,11 @@
           "term": "Eunucos",
           "original": "Hebrew: סָרִיסִים (sāriysiym), Greek: εὐνοῦχοι (eὐnoῦchoi), Aramaic: מְהֵימְנֵי בֵיתָא / אֵימָה (מְהֵימְנֵי בֵיתָא / אֵימָה)",
           "note": "Inclui os fisicamente incapazes de casar e os que escolhem o celibato pelo reino (19:12)."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
         }
       ],
       "keyTakeaway": "Jesus fundamenta o casamento na criação, restringe o divórcio e reconhece aqueles que permanecem solteiros pelo reino.",
@@ -1785,14 +1983,14 @@
       ],
       "crossRefs": [
         "Mateus 19:30: Muitos primeiros serão últimos.",
-        "Lucas 15:11–32: A generosidade do Pai para com o que não merece.",
+        "Lucas 15:11-32: A generosidade do Pai para com o que não merece.",
         "Romanos 9:15: \"Terei misericórdia de quem eu tiver misericórdia.\""
       ],
       "translationNotes": [
         {
           "term": "Denário",
           "original": "Hebrew (concept): דִּינָר (diynār), Greek: δηνάριον (dēnάrion), Aramaic: דינרא (דינרא)",
-          "note": "Salário padrão de um dia na época (20:2–10)."
+          "note": "Salário padrão de um dia na época (20:2-10)."
         },
         {
           "term": "Décima primeira hora",
@@ -1803,6 +2001,16 @@
           "term": "Olho mau",
           "original": "Hebrew: עַיִן רָעָה (ʿayin rāʿāh), Greek: ὁ ὀφθαλμός σου πονηρός (ὁ ὀphthalmόs sou ponērόs), Aramaic: עין בישא (עין בישא)",
           "note": "Expressão idiomática para uma perspectiva invejosa/ressentida (20:15)."
+        },
+        {
+          "term": "denário, denários",
+          "original": "Latin: denarius; Greek: δηνάριον (denarion)",
+          "note": "Moeda romana de prata equivalente ao salário de um dia de trabalho (Mateus 20:2). Cem denários correspondiam a três ou quatro meses de salário. Trazia a imagem do imperador (Marcos 12:16), tornando-se o centro da pergunta tributária sobre dar a César."
+        },
+        {
+          "term": "terceira / sexta / nona hora",
+          "original": "Greek: ὥρα τρίτη / ἕκτη / ἐνάτη (hora trite/hekte/enate)",
+          "note": "O dia judaico era dividido em doze horas de luz, começando ao nascer do sol, por volta das 6h. A terceira hora corresponde aproximadamente às 9h; a sexta, ao meio-dia; a nona, às 15h. Jesus é crucificado na terceira hora (Marcos 15:25); as trevas chegam na sexta, e ele morre na nona."
         }
       ],
       "keyTakeaway": "Uma história sobre a liberdade e a generosidade do patrão: todos recebem o salário combinado; os últimos e os primeiros são invertidos.",
@@ -1881,7 +2089,7 @@
       ],
       "crossRefs": [
         "Zacarias 9:9: Rei humilde sobre um jumento.",
-        "Salmo 118:25–26: \"Salva-nos, te pedimos (Hosana)... Bendito o que vem.\"",
+        "Salmos 118:25-26: \"Salva-nos, te pedimos (Hosana)... Bendito o que vem.\"",
         "2 Reis 9:13: Mantos estendidos sob um rei proclamado."
       ],
       "translationNotes": [
@@ -1894,6 +2102,11 @@
           "term": "Filha de Sião",
           "original": "Hebrew: בַּת־צִיּוֹן (bat-ṣiywōn), Greek: θυγάτηρ Σιών (thygάtēr Siώn), Aramaic: בת ציון (בת ציון)",
           "note": "Nome poético para Jerusalém (21:5)."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
         }
       ],
       "keyTakeaway": "Jesus entra em Jerusalém montado em um jumento, enquanto a multidão grita \"Hosana\", ecoando as Escrituras sobre o rei que estava por vir.",
@@ -1983,19 +2196,34 @@
         "Ninguém conseguiu responder e, depois disso, não se atreveram a lhe fazer mais perguntas. (22:46)."
       ],
       "crossRefs": [
-        "Lucas 14:16–24: Grande banquete de convite.",
-        "Sofonias 1:7–8: Punição dos que não se vestiram para o sacrifício do SENHOR (imagem de vestimenta)."
+        "Lucas 14:16-24: Grande banquete de convite.",
+        "Sofonias 1:7-8: Punição dos que não se vestiram para o sacrifício do SENHOR (imagem de vestimenta)."
       ],
       "translationNotes": [
         {
           "term": "Veste nupcial",
           "original": "Hebrew (concept): בֶּגֶד חָתֻנָּה (beged ḥātunāh), Greek: ἔνδυμα γάμου (ἔndyma gάmou), Aramaic: לבוש נשואין (לבוש נשואין)",
-          "note": "Roupa festiva formal esperada para um casamento real (22:11–12)."
+          "note": "Roupa festiva formal esperada para um casamento real (22:11-12)."
         },
         {
           "term": "Trevas exteriores... choro e ranger de dentes",
           "original": "Hebrew (concept): חֹשֶׁךְ חִיצוֹן… חִרְקוּ שִׁנַּיִם (ḥōšekə ḥiyṣwōn… ḥirəqw šinayim); Greek: τὸ σκότος τὸ ἐξώτερον… ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων (tὸ skόtos tὸ ἐxώteron… ὁ klauthmὸs kaὶ ὁ brygmὸs tῶn ὀdόntōn); Aramaic: חשוכא ברא… בכיא וחורוק שיניא (חשוכא ברא… בכיא וחורוק שיניא)",
           "note": "Imagem recorrente de julgamento em Mateus (22:13)."
+        },
+        {
+          "term": "denário, denários",
+          "original": "Latin: denarius; Greek: δηνάριον (denarion)",
+          "note": "Moeda romana de prata equivalente ao salário de um dia de trabalho (Mateus 20:2). Cem denários correspondiam a três ou quatro meses de salário. Trazia a imagem do imperador (Marcos 12:16), tornando-se o centro da pergunta tributária sobre dar a César."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
+        },
+        {
+          "term": "saduceu",
+          "original": "Greek: Σαδδουκαῖος (Saddoukaios)",
+          "note": "O partido sacerdotal e aristocrático. Aceitava apenas a Torá escrita e rejeitava a tradição oral. Negava a ressurreição, os anjos e os espíritos (Atos 23:8). Controlava o templo e colaborava amplamente com Roma para manter esse poder. Desapareceu como movimento depois de 70 d.C., quando o templo em torno do qual se organizava foi destruído."
         }
       ],
       "keyTakeaway": "Os primeiros convidados recusam e atacam os mensageiros; outros são trazidos. Um sem roupa de casamento é expulso.",
@@ -2042,7 +2270,6 @@
         "[J]O mais importante entre vocês deve ser servo dos outros,[/J] (23:11).",
         "[J]pois os que se exaltam serão humilhados, e os que se humilham serão exaltados.[/J] (23:12).",
         "[J]“Que aflição os espera, mestres da lei e fariseus! Hipócritas! Fecham a porta do reino dos céus na cara das pessoas. Vocês mesmos não entram e não permitem que os outros entrem.[/J] (23:13).",
-        "[J]“Que aflição os espera, mestres da lei e fariseus! Hipócritas! Tomam posse dos bens das viúvas de maneira desonesta e, depois, para dar a impressão de piedade, fazem longas orações em público. Por causa disso, serão duramente castigados.[/J] (23:14).",
         "[J]“Que aflição os espera, mestres da lei e fariseus! Hipócritas! Atravessam terra e mar para converter alguém e depois o tornam um filho do inferno, duas vezes pior que vocês.[/J] (23:15).",
         "[J]“Que aflição os espera, guias cegos! Vocês dizem não haver importância se alguém jura ‘pelo templo de Deus’, mas se jurar ‘pelo ouro do templo’ será obrigado a cumprir o juramento.[/J] (23:16).",
         "[J]Tolos cegos! O que é mais importante: o ouro ou o templo, que torna o ouro sagrado?[/J] (23:17).",
@@ -2072,7 +2299,7 @@
       "keyTakeaway": "Jesus adverte contra a religiosidade ostentosa e títulos; a verdadeira grandeza serve.",
       "crossRefs": [
         "Malaquias 2:7: Instrução procurada nos lábios do sacerdote.",
-        "Mateus 20:26–28: Grandeza como serviço."
+        "Mateus 20:26-28: Grandeza como serviço."
       ],
       "manuscriptVariants": [
         {
@@ -2093,7 +2320,27 @@
         {
           "term": "Rabi / Pai / Instrutor",
           "original": "Hebrew: רַבִּי (rabbi, ‘my great/teacher’), אָב (’av, ‘father’), Greek: ῥαββί / πατήρ / καθηγητής (ῥabbί / patήr / kathēgētήs), Aramaic: רבי / אבא / מַלְפָּנָא (malpānā)",
-          "note": "Títulos honoríficos abordados no ensino de Jesus (23:8–10)."
+          "note": "Títulos honoríficos abordados no ensino de Jesus (23:8-10)."
+        },
+        {
+          "term": "filactério (tefilin)",
+          "original": "Greek: φυλακτήριον (phylakterion); Hebrew: תְּפִלִּין (tefillin)",
+          "note": "Pequenas caixas de couro contendo passagens das Escrituras em pergaminho (Êxodo 13:1-16; Deuteronômio 6:4-9; 11:13-21), presas à testa e ao braço durante a oração. Jesus repreende os fariseus por 'alargarem seus filactérios' (Mateus 23:5), exibindo sua piedade para serem vistos."
+        },
+        {
+          "term": "borlas / franjas (tzitzit)",
+          "original": "Hebrew: צִיצִת (tzitzit)",
+          "note": "Fios com nós nos cantos da veste exterior de um israelita (Números 15:38-39), ordenados como lembretes visuais dos mandamentos de Deus. Quando a mulher com hemorragia toca a 'franja' do manto de Jesus (Mateus 9:20), ela segura o canto de Sua veste com maior significado ritual."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
+        },
+        {
+          "term": "Geena",
+          "original": "Greek: γέεννα (geenna), from Hebrew גֵּי הִנֹּם (Gei Hinnom)",
+          "note": "Do vale de Hinom, fora de Jerusalém, onde o sacrifício de crianças a Moloque já havia sido praticado (2 Reis 23:10) e onde mais tarde o lixo da cidade era queimado. Jesus o usa como imagem do juízo final (Mateus 5:22; 10:28; 23:33). Muitas Bíblias o traduzem por \"inferno\". É distinto do Hades, o domínio dos mortos."
         }
       ],
       "headings": [
@@ -2171,7 +2418,7 @@
         "[J]cortará o servo ao meio e lhe dará o mesmo destino dos hipócritas. Ali haverá choro e ranger de dentes.”[/J] (24:51)."
       ],
       "crossRefs": [
-        "Oseias 13:13: Imagem de dores de parto.",
+        "Oséias 13:13: Imagem de dores de parto.",
         "Romanos 8:22: A criação geme como em trabalho de parto.",
         "Daniel 12:1: Tempo de angústia/tribulação."
       ],
@@ -2189,7 +2436,17 @@
         {
           "term": "Fim",
           "original": "Hebrew (concept): קֵץ (qets), Greek: τέλος (tέlos), Aramaic: סופא (סופא)",
-          "note": "Consumação/meta; aqui, da era (24:3–14)."
+          "note": "Consumação/meta; aqui, da era (24:3-14)."
+        },
+        {
+          "term": "Vigílias da noite",
+          "original": "Hebrew: אַשְׁמֻרָה (ashmurah); Greek: φυλακή (phylake)",
+          "note": "A contagem hebraica do tempo no Antigo Testamento dividia a noite em três vigílias (Lamentações 2:19). Os textos do Novo Testamento da era romana usam quatro: tarde, meia-noite, canto do galo e amanhecer (Marcos 13:35), cada uma com cerca de três horas. A \"quarta vigília\" corresponde aproximadamente ao período entre 3h e 6h."
+        },
+        {
+          "term": "sábado",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "O sétimo dia, separado por ordem de Deus (Êxodo 20:8-11). Todo trabalho cessava do pôr do sol de sexta-feira ao pôr do sol de sábado. Na época de Jesus, a tradição rabínica havia elaborado 39 categorias de trabalho proibido; muitas curas de Jesus desafiaram deliberadamente essas regras adicionais sem violar o próprio mandamento da Torá."
         }
       ],
       "keyTakeaway": "Jesus enumera enganos, guerras, desastres, perseguições e o esfriamento do amor como o início das dores de parto; as boas novas serão proclamadas a todas as nações.",
@@ -2276,7 +2533,7 @@
       ],
       "crossRefs": [
         "Mateus 24:42: Vigilância.",
-        "Apocalipse 19:7–9: Imagem da ceia das bodas."
+        "Apocalipse 19:7-9: Imagem da ceia das bodas."
       ],
       "translationNotes": [
         {
@@ -2288,6 +2545,11 @@
           "term": "Não vos conheço",
           "original": "Greek: οὐκ οἶδα ὑμᾶς (oὐk oἶda ὑmᾶs); Aramaic: לא ידעיתכון (לא ידעיתכון)",
           "note": "Declaração de não reconhecimento (25:12)."
+        },
+        {
+          "term": "talento (dinheiro)",
+          "original": "Hebrew: כִּכָּר (kikkar); Greek: τάλαντον (talanton)",
+          "note": "A maior unidade de peso e de dinheiro no mundo antigo. Um talento de prata pesava cerca de 75 libras (34 kg) e equivalia a aproximadamente 6.000 denários, cerca de vinte anos do salário de um trabalhador. Um talento de ouro valia muito mais. Quando Jesus conta a parábola dos talentos (Mateus 25:14-30), cada talento representa uma responsabilidade de valor extraordinário."
         }
       ],
       "keyTakeaway": "Esteja preparado antes da chegada; a correria de última hora encontra uma porta fechada.",
@@ -2390,9 +2652,9 @@
         "[J]Então Pedro se lembrou das palavras de Jesus: “Antes que o galo cante, você me negará três vezes”. E saiu dali, chorando amargamente.[/J] (26:75)."
       ],
       "crossRefs": [
-        "Êxodo 12:1–14: Instituição da Páscoa.",
-        "Zacarias 11:12–13: Trinta peças de prata (conexão posterior).",
-        "João 12:1–8: Relato paralelo da unção com nomes mencionados."
+        "Êxodo 12:1-14: Instituição da Páscoa.",
+        "Zacarias 11:12-13: Trinta peças de prata (conexão posterior).",
+        "João 12:1-8: Relato paralelo da unção com nomes mencionados."
       ],
       "translationNotes": [
         {
@@ -2403,12 +2665,17 @@
         {
           "term": "Ungir",
           "original": "Hebrew: מָשַׁח (māshaḥ), Greek: χρίω / ἀλείφω (chrίō / ἀleίphō), Aramaic: משח (משח)",
-          "note": "Derramar óleo/perfume; aqui ligado à preparação para o sepultamento (26:7–12)."
+          "note": "Derramar óleo/perfume; aqui ligado à preparação para o sepultamento (26:7-12)."
         },
         {
           "term": "Iscariotes",
           "original": "Greek: Ἰσκαριώτης (Ἰskariώtēs); Hebrew/Aramaic (uncertain): אִישׁ־קְרִיּוֹת (‘man of Kerioth’?)",
           "note": "Provavelmente um sobrenome geográfico; derivação exata debatida (26:14)."
+        },
+        {
+          "term": "Sinédrio",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "O supremo conselho judaico de 71 membros em Jerusalém, presidido pelo sumo sacerdote. Exercia autoridade judicial, religiosa e civil limitada sob a ocupação romana. Julgou Jesus (Marcos 14:55), Pedro e João (Atos 4) e Estêvão (Atos 6:12). Foi dissolvido depois da destruição do templo em 70 d.C."
         }
       ],
       "keyTakeaway": "Líderes planejam matar Jesus. Uma mulher o unge para o sepultamento. Judas recebe prata para traí-lo.",
@@ -2534,9 +2801,11 @@
         "Então eles lacraram o túmulo e puseram guardas para protegê-lo. (27:66)."
       ],
       "crossRefs": [
-        "Zacarias 11:12–13: Trinta peças de prata e o oleiro.",
-        "Jeremias 19:1–13: Campo do oleiro/Vale de Hinom.",
-        "Atos 1:18–19: Outro relato da morte de Judas e do campo."
+        "Zacarias 11:12-13: Trinta peças de prata e o oleiro.",
+        "Atos dos Apóstolos 1:18-19: Campo do oleiro/Vale de Hinom.",
+        "Lucas 23:34: Outro relato da morte de Judas e do campo.",
+        "Atos dos Apóstolos 2:36-41: Semanas depois, Pedro diz a uma multidão em Jerusalém: 'Este Jesus, a quem vocês crucificaram'; cerca de três mil deles são batizados naquele mesmo dia.",
+        "Atos dos Apóstolos 3:17-19: Pedro diz à mesma cidade: 'Sei que vocês agiram por ignorância, assim como os seus líderes', e os chama ao arrependimento para que seus pecados sejam apagados."
       ],
       "translationNotes": [
         {
@@ -2548,6 +2817,31 @@
           "term": "Campo de Sangue",
           "original": "Greek: ἀγρὸς αἵματος (ἀgrὸs aἵmatos); Aramaic (elsewhere): Ἀκελδαμά (Hakeldama)",
           "note": "Nome associado ao campo comprado (cf. At 1:19)."
+        },
+        {
+          "term": "terceira / sexta / nona hora",
+          "original": "Greek: ὥρα τρίτη / ἕκτη / ἐνάτη (hora trite/hekte/enate)",
+          "note": "O dia judaico era dividido em doze horas de luz, começando ao nascer do sol, por volta das 6h. A terceira hora corresponde aproximadamente às 9h; a sexta, ao meio-dia; a nona, às 15h. Jesus é crucificado na terceira hora (Marcos 15:25); as trevas chegam na sexta, e ele morre na nona."
+        },
+        {
+          "term": "centurião",
+          "original": "Greek: ἑκατόνταρχος (hekatontarchos)",
+          "note": "Um oficial romano que comandava uma ‘centúria’ de 80 a 100 soldados; a espinha dorsal da legião. Os centuriões do Novo Testamento recebem retrato uniformemente positivo: aquele cujo servo Jesus cura (Mateus 8:5), Cornélio (Atos 10) e o centurião junto à cruz que confessa ‘Verdadeiramente este homem era o Filho de Deus’ (Marcos 15:39)."
+        },
+        {
+          "term": "fariseu",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Um movimento leigo de reforma que enfatizava a observância rigorosa da Torá escrita junto com uma tradição oral, a ‘tradição dos anciãos’. Cria na ressurreição corporal, nos anjos e num Messias vindouro. Paulo era fariseu (Filipenses 3:5); as controvérsias mais severas de Jesus costumavam envolver esse grupo, embora ele compartilhasse muitas das crenças centrais deles."
+        },
+        {
+          "term": "Que o sangue dele caia sobre nós",
+          "original": "Greek: τὸ αἷμα αὐτοῦ ἐφ' ἡμᾶς (to haima autou eph' hemas)",
+          "note": "O grito vem de uma multidão diante do tribunal de Pilatos, e 27:20 diz que os principais sacerdotes e os anciãos haviam persuadido aquela multidão a pedir Barrabás. Lucas registra Jesus dizendo na cruz: 'Pai, perdoa-lhes, pois não sabem o que fazem' (Lucas 23:34). Semanas depois, Pedro está na mesma cidade, diz ao povo que eles O crucificaram, e cerca de três mil são batizados naquele dia (Atos 2:36-41); ele também lhes diz: 'Sei que vocês agiram por ignorância, assim como os seus líderes' (Atos 3:17). Mais tarde, Paulo, israelita da tribo de Benjamim, pergunta se Deus rejeitou o Seu povo e responde: 'De modo nenhum!' (Romanos 11:1-2). Sobre o mesmo povo, ele diz que são 'amados por causa dos patriarcas, pois os dons e o chamado de Deus são irrevogáveis' (Romanos 11:28-29)."
+        },
+        {
+          "term": "Lavar as mãos",
+          "original": "Greek: ἀπενίψατο τὰς χεῖρας (apenipsato tas cheiras)",
+          "note": "O gesto de Pilatos em 27:24 vem de um rito da lei hebraica. Quando um corpo era encontrado e o assassino não era conhecido, Deuteronômio 21:6-8 mandava os anciãos da cidade mais próxima lavarem as mãos sobre uma novilha abatida e declararem: 'Nossas mãos não derramaram este sangue, nem nossos olhos viram', pedindo que o sangue inocente não lhes fosse imputado. Salmos 26:6 e 73:13 usam a mesma imagem de mãos limpas. Pilatos pronuncia as palavras do rito, 'Sou inocente do sangue deste homem', e mesmo assim O entrega."
         }
       ],
       "keyTakeaway": "Judas devolve as moedas de prata e morre; o dinheiro compra um campo para sepulturas chamado Campo de Sangue, relacionado a palavras proféticas.",
@@ -2619,9 +2913,9 @@
         "[J]Ensinem esses novos discípulos a obedecerem a todas as ordens que eu lhes dei. E lembrem-se disto: estou sempre com vocês, até o fim dos tempos”.[/J] (28:20)."
       ],
       "crossRefs": [
-        "Oseias 6:2: \"Depois de dois dias... ao terceiro dia nos levantará.\"",
+        "Oséias 6:2: \"Depois de dois dias... ao terceiro dia nos levantará.\"",
         "Mateus 12:40: Sinal de Jonas (três dias).",
-        "Marcos 16:1–8; Lucas 24:1–12; João 20:1–18: Relatos paralelos da ressurreição."
+        "Marcos 16:1-8; Lucas 24:1-12; João 20:1-18: Relatos paralelos da ressurreição."
       ],
       "translationNotes": [
         {
@@ -2638,6 +2932,11 @@
           "term": "Primeiro dia da semana",
           "original": "Hebrew: אֶחָד בַּשַּׁבָּת (echad bashabbat), Greek: μιᾷ σαββάτων (miᾷ sabbάtōn), Aramaic: חד בשבתא (חד בשבתא)",
           "note": "Forma idiomática de dizer domingo (28:1)."
+        },
+        {
+          "term": "sábado",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "O sétimo dia, separado por ordem de Deus (Êxodo 20:8-11). Todo trabalho cessava do pôr do sol de sexta-feira ao pôr do sol de sábado. Na época de Jesus, a tradição rabínica havia elaborado 39 categorias de trabalho proibido; muitas curas de Jesus desafiaram deliberadamente essas regras adicionais sem violar o próprio mandamento da Torá."
         }
       ],
       "keyTakeaway": "O túmulo é aberto por um anjo; as mulheres são informadas de que Jesus ressuscitou. Jesus aparece a elas e orienta os discípulos a irem para a Galileia.",

@@ -16,23 +16,99 @@
         "Contiene patrones de Pecado-Exilio-Retorno (PER), especialmente en Leví, Judá, Dan, Neftalí, Gad y Benjamín, cada uno con confesiones, imágenes de exilio y esperanza de retorno."
       ],
       "crossRefs": [
-        "Génesis 49: Bendiciones de Jacob sobre sus hijos.",
-        "Josué 23–24: Exhortación final a la fidelidad de Israel.",
-        "Proverbios 3:11–12: La disciplina del Señor refina la virtud."
+        "Génesis 49:1-28: Jacob reúne a sus hijos para decirles lo que les sucederá en los últimos días y habla sobre cada uno por turno, alabando, maldiciendo y anunciando, que es el patrón exacto que siguen estos doce discursos, un hijo por vez.",
+        "Génesis 35:22: Rubén se acuesta con Bilhá, la concubina de su padre, e Israel lo sabe, una sola frase escueta sin nada añadido, que el primero de estos testamentos convierte en una confesión que dura todo un discurso.",
+        "Génesis 34:25-31: Simeón y Leví toman sus espadas y matan a todos los varones de Siquem después de que su hermana es deshonrada, y Jacob responde que lo han hecho apestar entre los habitantes de la tierra, el día del que responden dos de estos testamentos.",
+        "Génesis 37:18-28: Los hermanos ven venir a José, traman matarlo, lo desnudan y lo echan en una cisterna, y luego lo venden a una caravana de paso por veinte piezas de plata, el acto al que vuelve casi cada uno de estos testamentos.",
+        "Génesis 39:7-12: La mujer de Potifar agarra el manto de José un día tras otro y él se lo deja en la mano y sale corriendo de la casa, la escena que hace de José el modelo que se levanta a lo largo de toda esta colección.",
+        "Deuteronomio 33:1-29: Moisés bendice a las tribus una por una antes de morir, y nombra a cada una y dice lo que le vendrá, el segundo modelo sobre el que están construidos estos discursos de despedida.",
+        "Deuteronomio 30:1-5: Si Israel es echado entre las naciones y se vuelve de todo corazón, Dios la reunirá de dondequiera que fue dispersada y la traerá a casa, que es el ciclo de pecado, destierro y regreso que estos testamentos recorren una y otra vez.",
+        "Hechos 20:17-38: Pablo llama a los ancianos de Éfeso a Mileto, les dice que no volverán a ver su rostro, les advierte de lo que entrará después de que él se vaya, y se arrodilla y ora con ellos en la playa, un discurso de despedida construido con el mismo plan."
       ],
       "translationNotes": [
         {
           "term": "Testamento",
-          "original": "Hebrew: עֵדוּת (ʿēdût, 'testimony'), Greek: διαθήκη (diathḗkē), Aramaic: סָפְרָא (səfrāʾ, 'book')",
-          "note": "Aquí se refiere a un legado en el lecho de muerte o discurso final destinado a instruir a los descendientes, enmarcado dentro del género de la literatura testamentaria."
+          "original": "Greek: διαθήκη (diatheke)",
+          "note": "La palabra significa una disposición firme y abarca tanto un pacto como un testamento. Un testamento en esta literatura es una forma fija: el moribundo llama a sus hijos, cuenta un episodio de su propia vida, nombra el pecado que puso al descubierto o la virtud que costó, se lo inculca, a veces añade lo que ve venir, da órdenes sobre su sepultura, y muere. Génesis 49 fija el patrón y Deuteronomio 33 lo vuelve a correr."
         },
         {
-          "term": "Motivo Pecado-Exilio-Retorno (PER)",
-          "original": "Hebrew/Greek: חֵטְא-גּוֹלָה-שׁוּב (ḥēt-gōlāh-šûḇ, sense); English: SER motif",
-          "note": "Un patrón literario en textos bíblicos y pseudoepigráficos: el pecado conduce al exilio, seguido por la restauración o el retorno, usado para enmarcar la historia moral y comunitaria."
+          "term": "Patriarca",
+          "original": "Greek: πατριάρχης (patriarches)",
+          "note": "Cabeza de una casa paterna, el fundador al que una tribu se remonta. Hechos 7:8 usa la palabra de los doce hijos de Jacob y Hebreos 7:4 la usa de Abraham. Los doce que hablan aquí son Rubén, Simeón, Leví, Judá, Isacar, Zabulón, Dan, Neftalí, Gad, Aser, José y Benjamín, y hablan en ese orden."
+        },
+        {
+          "term": "Los dos espíritus",
+          "original": "",
+          "note": "La colección pone dos espíritus sobre cada hombre, uno de verdad y otro de engaño, y hace de la elección entre ellos aquello de lo que depende una vida. Deuteronomio 30:15-19 plantea la misma elección como la vida y el bien frente a la muerte y el mal, con el encargo de escoger la vida para que vivan tú y tu descendencia. 1 Juan 4:6 nombra el espíritu de la verdad y el espíritu del error con esas palabras."
+        },
+        {
+          "term": "Beliar",
+          "original": "Hebrew: בְּלִיַּעַל (beliya'al) - Greek: Βελιάρ (Beliar)",
+          "note": "Al adversario se lo llama Beliar en toda esta colección, y apartarse de él es el encargo constante en discurso tras discurso. La palabra hebrea significa maldad, y el Antiguo Testamento la usa en expresiones fijas para hombres sin ley, como en Deuteronomio 13:13, donde son hijos de Belial. 2 Corintios 6:15 es el único lugar donde el Nuevo Testamento usa el nombre, y pregunta qué acuerdo tiene Cristo con Belial."
+        },
+        {
+          "term": "Pecado, destierro y regreso",
+          "original": "",
+          "note": "Varios testamentos recorren el mismo ciclo: la tribu se aparta, es llevada entre las naciones, y es traída de vuelta. Es la forma que Moisés deja puesta antes de que Israel entre siquiera en la tierra. Deuteronomio 30:1-5 la enuncia entera, y Deuteronomio 28 expone las bendiciones y las maldiciones de las que depende. Estos discursos vuelven a enunciar los términos mismos de la alianza, una tribu por vez."
+        },
+        {
+          "term": "Bilhá",
+          "original": "",
+          "note": "La sierva de Raquel, dada a Jacob, y la madre de Dan y de Neftalí en Génesis 30:1-8. Génesis 35:22 refiere en una línea que Rubén se acostó con ella y que Israel lo supo, y no añade absolutamente nada. Génesis 49:3-4 hace que Jacob le quite a Rubén el lugar de primogénito por ello. El primero de estos testamentos levanta una confesión entera sobre ese solo versículo."
+        },
+        {
+          "term": "Concubina",
+          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh)",
+          "note": "Una esposa secundaria de rango menor cuyos hijos contaban igualmente para la casa. Bilhá y Zilpá le fueron dadas a Jacob en esos términos y cuatro de las doce tribus descienden de ellas, en Génesis 30:1-13. Tomar la concubina de un hombre era una reclamación pública sobre su posición, y por eso 2 Samuel 16:21-22 hace que Absalón lo haga en la azotea a la vista de todo Israel."
+        },
+        {
+          "term": "Siquem",
+          "original": "",
+          "note": "Una ciudad de la región montañosa de Efraín, situada en el paso entre el monte Ebal y el monte Guerizim, y uno de los lugares más disputados de la Escritura. Génesis 34:25-31 hace que Simeón y Leví maten a todos sus varones mientras los hombres estaban todavía doloridos por la circuncisión, y que Jacob responda que lo han hecho apestar entre la gente de aquella tierra. Génesis 49:5-7 hace que maldiga su ira y los disperse en Israel."
+        },
+        {
+          "term": "Leví y el sacerdocio",
+          "original": "",
+          "note": "El testamento dado a Leví es el más largo de la colección y el más ocupado con lo que ha de venir. Números 3:5-10 aparta a la tribu para servir a los sacerdotes y guardar el cuidado del santuario, y Números 18:20-24 les da el diezmo en lugar de tierra, porque el SEÑOR es su herencia. Malaquías 2:4-7 lo llama la alianza de Leví y dice que los labios del sacerdote deben guardar el conocimiento, porque es mensajero del SEÑOR de los ejércitos."
+        },
+        {
+          "term": "El Documento arameo de Leví",
+          "original": "",
+          "note": "Material semítico que está detrás de parte de esta colección se ha desenterrado de verdad. En Qumrán se hallaron copias de una obra aramea sobre Leví en la cueva 1 y en la cueva 4, y más fragmentos de esa misma obra salieron de la Gueniza de El Cairo a finales del siglo XIX. Una larga adición griega al Testamento de Leví en un manuscrito del monte Atos coincide con ese mismo material, y en Qumrán se halló además un Testamento de Neftalí en hebreo."
+        },
+        {
+          "term": "La Gueniza de El Cairo",
+          "original": "Hebrew: גְּנִיזָה (genizah), a storing away",
+          "note": "Una gueniza es el almacén de una sinagoga donde se guardan los escritos gastados en vez de destruirlos, porque lo que lleva el nombre divino no se puede tirar. La de la sinagoga Ben Ezra, en el viejo Cairo, llevaba llenándose cosa de mil años cuando se abrió a finales del siglo XIX, y contenía cerca de trescientos mil fragmentos, entre ellos el material arameo de Leví."
+        },
+        {
+          "term": "Robert Grosseteste",
+          "original": "",
+          "note": "Obispo de Lincoln, que mandó traer de Atenas una copia griega de esta colección y la tradujo al latín en 1242. Su propia mano aparece en notas por todo aquel códice, que se conserva en Cambridge. La versión latina circuló ampliamente e hizo familiar el libro por toda la Europa medieval. Grosseteste leyó como profecía genuina los pasajes que hablan de Cristo y acusó de que el libro se había mantenido fuera de la vista por causa de ellos."
+        },
+        {
+          "term": "José como modelo",
+          "original": "",
+          "note": "A José se lo levanta en testamento tras testamento como el patrón de la castidad y del aguante bajo el agravio. Génesis 39:7-12 lo tiene dejando su manto en la mano de la mujer de Potifar y saliendo corriendo de la casa, Génesis 39:20-23 lo tiene echado en la cárcel y luego puesto al frente de ella, y Génesis 50:19-21 lo tiene diciendo a sus hermanos que ellos pensaron el mal contra él pero que Dios lo dispuso para bien."
+        },
+        {
+          "term": "Las dos caras",
+          "original": "",
+          "note": "El testamento dado a Aser trata del hombre que lleva dos caras, que hace una cosa a la vista y lo contrario por debajo, y lo llama de dos lenguas. Santiago 1:8 llama a ese hombre de doble ánimo e inconstante en todos sus caminos, y Santiago 4:8 dice a los de doble ánimo que limpien sus manos y purifiquen sus corazones. Mateo 6:24 lo plantea como la simple imposibilidad de servir a dos señores."
+        },
+        {
+          "term": "Fornicación",
+          "original": "Greek: πορνεία (porneia)",
+          "note": "La palabra abarca la inmoralidad sexual de toda clase y no un acto en particular. El testamento de Rubén abre con ella y advierte largamente a sus hijos contra ella, y la ata a lo que él hizo con Bilhá. Hechos 15:29 pone el abstenerse de ella en la lista breve que el concilio de Jerusalén envió a las iglesias gentiles, y 1 Tesalonicenses 4:3 dice que la voluntad de Dios es la santificación de ustedes, que se abstengan de porneia."
+        },
+        {
+          "term": "Ira",
+          "original": "",
+          "note": "El testamento dado a Dan va contra la ira y la mentira juntas, y ata las dos: el hombre airado no puede decir la verdad de lo que ha hecho. Proverbios 14:29 dice que el que tarda en airarse tiene gran entendimiento, pero el de genio pronto exalta la necedad. Efesios 4:26-27 dice: aíranse y no pequen, no se ponga el sol sobre su enojo, y no den lugar al diablo."
         }
       ],
-      "keyTakeaway": "Los Testamentos presentan despedidas éticas y proféticas de los hijos de Jacob, exhortando a la fidelidad moral y ofreciendo esperanza de restauración."
+      "keyTakeaway": "Los Testamentos presentan despedidas éticas y proféticas de los hijos de Jacob, que insisten en la fidelidad moral y ofrecen esperanza de restauración."
     }
-  ]
+  ],
+  "intro": "Los Testamentos de los Doce Patriarcas son doce discursos de despedida, uno por cada hijo de Jacob, en el orden Rubén, Simeón, Leví, Judá, Isacar, Zabulón, Dan, Neftalí, Gad, Aser, José, Benjamín. El patrón es el que fija Génesis 49, donde Jacob reúne a sus hijos para decirles lo que les sucederá en los últimos días, y el de la bendición de Moisés en Deuteronomio 33. Cada patriarca convoca a sus hijos mientras muere, vuelve a contar un episodio de su propia vida tal como lo registra el Génesis, nombra el vicio que puso al descubierto o la virtud que exigió, insiste en esa lección a sus descendientes, añade a menudo lo que prevé para ellos, y muere. Rubén habla del pecado con Bilhá y de la fornicación; Simeón, de la envidia a José; Leví, del sacerdocio; Judá, del valor, del vino y del amor al dinero; Zabulón, de la compasión; Dan, de la ira y de la mentira; Gad, del odio; Aser, de las dos caras que un hombre puede llevar; José, presentado en toda la colección como el modelo, de la castidad y del aguante; Benjamín, de la mente pura. Varios de los testamentos recorren un ciclo recurrente de pecado, destierro y regreso.\n\nEl texto griego se conoce por quince manuscritos. El más antiguo completo, el manuscrito Ff.1.24 de la Biblioteca de la Universidad de Cambridge, se hizo en Constantinopla a finales del siglo X o en el XI, y su camino hacia Occidente está documentado. Juan de Basingstoke refirió haber visto una copia griega en Atenas, en la biblioteca del metropolitano Miguel Coniates; Robert Grosseteste, obispo de Lincoln, mandó traer el manuscrito, y en 1242 lo tradujo al latín. Su mano aparece en notas por todo el códice. La versión latina circuló ampliamente e hizo familiar el libro en la Europa medieval. Una versión armenia se conserva en unos cincuenta manuscritos y trae menos pasajes cristianos que la griega; también se conservan versiones eslava y serbia. Se ha recuperado material semítico que está detrás de partes de la colección. El Documento arameo de Leví se halló en Qumrán, en la cueva 1 (1Q21) y en la cueva 4 (4Q213-4Q214), y más fragmentos de él salieron de la Gueniza de El Cairo a finales del siglo XIX, y hoy se conservan en Cambridge y en Oxford; una larga adición griega al Testamento de Leví en un manuscrito del monte Atos coincide con ese mismo material. En Qumrán se halló además un Testamento de Neftalí en hebreo (4Q215).\n\nEl texto griego contiene pasajes que hablan sin rodeos de Cristo, y cómo entraron esos pasajes en él es una cuestión abierta con una historia larga y con posturas con nombre propio. (1) Robert Grosseteste, en 1242, tuvo el griego por traducción de un original hebreo que conservaba las palabras reales de los hijos de Jacob en su lecho de muerte, leyó los pasajes sobre Cristo como profecía genuina, y acusó de que el libro se había mantenido fuera de la vista por causa de ellos. (2) Friedrich Schnapp, en 1884, sostuvo que esos pasajes son añadidos cristianos posteriores a una obra judía, y R. H. Charles construyó sobre eso en su edición de 1908, y reconstruyó un libro judío del siglo II a.C. cubierto de interpolación cristiana. (3) Marinus de Jonge, desde 1953 en adelante, sostuvo que los Testamentos tal como están son una composición cristiana que se sirvió de fuentes judías, y que ningún original judío se puede recuperar borrando pasajes del griego. Dos hechos quedan sobre la mesa para quien sopese esto: la versión armenia tiene menos pasajes cristianos que la griega, y el material arameo de Leví muestra que existían fuentes semíticas detrás por lo menos del Testamento de Leví antes de la era cristiana.\n\nNinguna comunión recibe los Testamentos de los Doce Patriarcas como canónicos."
 }

@@ -31,18 +31,99 @@
         "O texto termina com Bartolomeu e os apóstolos glorificando Cristo e abençoando a assembleia (seção 6)."
       ],
       "crossRefs": [
-        "1 Pedro 3:19: Pregou aos espíritos em prisão.",
-        "Efésios 4:9: Ele desceu às regiões inferiores.",
-        "Mateus 27:52-53: Túmulos se abriram e santos ressuscitaram."
+        "Mateus 10:1-4: Pregou aos espíritos em prisão.",
+        "Atos dos Apóstolos 1:13: Ele desceu às regiões inferiores.",
+        "Judas 1:9: Túmulos se abriram e santos ressuscitaram.",
+        "1 Pedro 3:18-20: Cristo, morto na carne e vivificado no espírito, foi e pregou aos espíritos em prisão; esta única frase sustenta toda a narrativa da descida apresentada aqui.",
+        "Efésios 4:8-10: Paulo argumenta que aquele que subiu primeiro precisou descer às partes mais baixas da terra; ele cita o salmo sobre levar cativo o cativeiro e dar dons aos homens.",
+        "2 Coríntios 6:15: Paulo pergunta que acordo existe entre Cristo e Belial; este é o único lugar em que o Novo Testamento usa o nome atribuído neste livro ao adversário que sobe acorrentado e é obrigado a falar.",
+        "Lucas 1:26-38: Gabriel vai até Maria em Nazaré, diz que o Espírito Santo virá sobre ela, e ela responde: \"Cumpra-se em mim segundo a tua palavra.\" Esse é o relato que os apóstolos insistem para que ela conte novamente aqui.",
+        "Hebreus 10:11-14: Todo sacerdote permanece em pé, dia após dia, oferecendo os mesmos sacrifícios, que nunca podem remover pecados; Cristo, porém, ofereceu um único sacrifício pelos pecados para sempre e então se assentou. Essa afirmação contrasta com a imagem deste livro de ofertas recebidas todos os dias no paraíso."
       ],
       "translationNotes": [
         {
-          "term": "Hades",
-          "original": "Hebrew: שְׁאוֹל (Sheol), Greek: ᾅδης (Hádēs), Aramaic: שאול (Sheol)",
-          "note": "O mundo inferior ou reino dos mortos; retratado como o lugar ao qual Jesus desceu para libertar os justos."
+          "term": "Bartolomeu",
+          "original": "Aramaic: בר תלמי (bar Talmai)",
+          "note": "O nome é um patronímico, filho de Talmai, e não um nome pessoal. A Escritura o inclui entre os doze em Mateus 10:3, Marcos 3:18, Lucas 6:14 e Atos 1:13 e nada mais diz sobre ele. O Novo Testamento não registra uma única palavra sua; isso deixou espaço para o surgimento de um livro com suas perguntas."
+        },
+        {
+          "term": "Perguntas de Bartolomeu",
+          "original": "",
+          "note": "O título que os manuscritos de fato apresentam. O livro não é uma narrativa, mas um interrogatório: o apóstolo pergunta, Cristo responde, depois Maria responde e então Beliar é obrigado a responder. As listas antigas mencionam duas vezes um Evangelho de Bartolomeu, no prólogo de Jerônimo a seu Comentário sobre Mateus, por volta de 398 d.C., e no Decreto Gelasiano; nenhum dos dois cita uma só palavra daquilo que condena."
+        },
+        {
+          "term": "Beliar",
+          "original": "Hebrew: בְּלִיַּעַל (beliya'al) - Greek: Βελιάρ (Beliar)",
+          "note": "A palavra hebraica significa inutilidade ou ruína, e o Antigo Testamento a emprega em expressões fixas para homens sem lei, como em Deuteronômio 13:13 e Juízes 19:22, onde são chamados filhos de Belial. No período intertestamentário, ela passou a funcionar como nome próprio do adversário. 2 Coríntios 6:15 é o único lugar em que o Novo Testamento a usa, com a grafia Beliar."
+        },
+        {
+          "term": "Arcanjo",
+          "original": "Greek: ἀρχάγγελος (archangelos)",
+          "note": "Anjo principal. A palavra aparece duas vezes no Novo Testamento: em 1 Tessalonicenses 4:16, para a voz ouvida na vinda do Senhor, e em Judas 1:9, para Miguel. A Escritura nomeia Miguel e Gabriel, e nenhum outro anjo; as listas de sete arcanjos que permanecem diante de Deus vêm de livros fora do cânon."
+        },
+        {
+          "term": "Miguel",
+          "original": "Hebrew: מִיכָאֵל (mikha'el), who is like God",
+          "note": "Daniel 10:13 o chama de um dos primeiros príncipes, e Daniel 12:1 o apresenta levantando-se num tempo de angústia sem precedente. Judas 1:9 relata sua disputa com o diabo pelo corpo de Moisés e sua recusa em proferir uma acusação injuriosa; ele diz apenas: \"O Senhor te repreenda.\" Apocalipse 12:7 mostra Miguel e seus anjos lutando contra o dragão. Neste livro, ele suplica por misericórdia antes da descida."
+        },
+        {
+          "term": "A descida ao inferno",
+          "original": "",
+          "note": "A tradição segundo a qual Cristo desceu e retirou de lá os justos mortos. As declarações canônicas são poucas e breves: Efésios 4:8-10 trata da descida anterior à subida, 1 Pedro 3:18-20 fala da pregação aos espíritos em prisão, e 1 Pedro 4:6 menciona o evangelho pregado aos mortos. Os portões, as súplicas, o tremor e a lista nominal dos que saem pertencem a este livro, não a esses versículos."
+        },
+        {
+          "term": "Paraíso",
+          "original": "Greek: παράδεισος (paradeisos) - Old Persian: pairidaeza",
+          "note": "A palavra grega vem do persa e significa parque murado ou jardim de caça, do tipo mantido pelos reis persas. Os tradutores gregos do Antigo Testamento a usaram para o jardim de Gênesis 2:8. Ela aparece três vezes no Novo Testamento: em Lucas 23:43, nas palavras ao ladrão na cruz; em 2 Coríntios 12:4, onde Paulo é arrebatado para lá; e em Apocalipse 2:7, onde se encontra a árvore da vida."
+        },
+        {
+          "term": "O seio de Abraão",
+          "original": "",
+          "note": "O destino das almas aceitas neste livro. Lucas 16:22-23 é a única passagem que emprega a expressão, no relato do rico e do mendigo Lázaro; ali, anjos levam Lázaro para junto de Abraão, enquanto o rico sofre tormento, com um grande abismo fixado entre os dois. A imagem dos anjos transportando a alma e de uma fronteira fixa entre os dois estados vem dessa passagem."
+        },
+        {
+          "term": "O véu do templo",
+          "original": "Hebrew: פָּרֹכֶת (paroket)",
+          "note": "O anjo da vingança o rasga neste livro. Êxodo 26:31-33 manda tecê-lo de azul, púrpura e escarlate, com querubins trabalhados no tecido, e pendurá-lo para separar o Lugar Santo do Santo dos Santos. Levítico 16:2 permite que o sumo sacerdote passe por ele um dia por ano, nunca com maior frequência. Marcos 15:38 relata que ele se rasgou em dois, de cima a baixo, no momento da morte, e Hebreus 10:19-20 chama o novo caminho de uma entrada através do véu."
+        },
+        {
+          "term": "Principados e potestades",
+          "original": "Greek: ἀρχαί (archai) - ἐξουσίαι (exousiai)",
+          "note": "Quando Beliar é obrigado a confessar seu domínio sobre os demônios, ele descreve uma ordem hierárquica; o Novo Testamento emprega o mesmo vocabulário. Efésios 6:12 situa a luta contra principados, contra potestades, contra os dominadores deste mundo de trevas e contra forças espirituais do mal nas regiões celestes. Colossenses 2:15 apresenta Cristo desarmando-os e conduzindo-os num triunfo público."
+        },
+        {
+          "term": "Adão",
+          "original": "Hebrew: אָדָם (adam) - אֲדָמָה (adamah)",
+          "note": "O nome corresponde à palavra hebraica comum para homem e forma um jogo com adamah, a terra da qual ele foi tirado. Gênesis 2:7 apresenta Deus formando o homem do pó da terra e soprando em suas narinas o fôlego de vida. Gênesis 3:19 transforma as mesmas duas palavras na sentença: \"Você é pó e ao pó voltará.\" Essa associação explica por que a libertação de Adão ocupa o centro de toda narrativa da descida."
+        },
+        {
+          "term": "Côvado",
+          "original": "Hebrew: אַמָּה (ammah) - Greek: πῆχυς (pechys)",
+          "note": "A medida padrão de comprimento, correspondente ao antebraço do cotovelo à ponta dos dedos, cerca de 46 centímetros. Tudo o que a Escritura manda construir recebe medidas em côvados: Gênesis 6:15 dá à arca trezentos côvados de comprimento, e Deuteronômio 3:11 atribui ao leito de ferro de Ogue, rei de Basã, nove côvados por quatro. Quando um texto antigo quer mostrar que algo é enorme, entrega ao leitor uma medida em côvados e deixa que ele faça as contas."
+        },
+        {
+          "term": "Ocultar dos descrentes",
+          "original": "",
+          "note": "O livro termina com uma ordem para não contar essas coisas aos indignos. Mateus 10:27 registra a ordem oposta de Jesus: aquilo que os discípulos ouvem em segredo, devem proclamar dos telhados. Atos 20:20 registra Paulo insistindo que não deixou de anunciar nada que fosse proveitoso e que ensinou publicamente e de casa em casa."
+        },
+        {
+          "term": "A oração de Maria antes de falar",
+          "original": "",
+          "note": "Os apóstolos perguntam a Maria como aconteceu a concepção; primeiro ela ora e depois os adverte de que, se contasse, o fogo sairia de sua boca e consumiria o mundo. Lucas 1:26-38 relata a anunciação sem advertência alguma, e Lucas 1:46-55 registra seu único cântico, que começa: \"Minha alma engrandece ao Senhor.\""
+        },
+        {
+          "term": "Os manuscritos",
+          "original": "",
+          "note": "Nenhuma cópia deste livro está completa, e não há duas versões iguais. Restam três manuscritos gregos, dos séculos XIII ao XV; um deles ocupa as margens de outro livro. Restam dois manuscritos latinos; o mais antigo, Vaticano, Reg. lat. 1050, do século IX ou X, é a testemunha mais antiga em qualquer língua. Restam seis cópias em eslavônico eclesiástico. Elas divergem na extensão, na ordem do material e no conteúdo."
+        },
+        {
+          "term": "Almas contadas a cada dia",
+          "original": "",
+          "note": "Bartolomeu ouve quantas almas deixam o mundo num dia e quais delas são recebidas, e o texto descreve Cristo recebendo as ofertas delas como sacrifício. Hebreus 10:11-14 contrapõe as duas imagens sem deixar espaço entre elas: um sacerdote permanece em pé, dia após dia, oferecendo os mesmos sacrifícios, que nunca podem remover pecados, enquanto Cristo ofereceu um único sacrifício pelos pecados para sempre e se assentou."
         }
       ],
       "keyTakeaway": "Bartolomeu pergunta a Jesus sobre mistérios ocultos, e Jesus começa a descrever sua descida ao Hades."
     }
-  ]
+  ],
+  "intro": "O Evangelho de Bartolomeu, intitulado Perguntas de Bartolomeu em seus manuscritos, situa-se depois da ressurreição e assume a forma de um interrogatório. Bartolomeu, o apóstolo citado em Mateus 10:3, Marcos 3:18, Lucas 6:14 e Atos 1:13, pergunta o que os outros discípulos temem perguntar, e as respostas compõem o livro. O texto apresentado aqui tem seis seções. Cristo conta como desceu e retirou de lá Adão e os justos; o arcanjo Miguel suplica por misericórdia; Hades treme, e Beliar avisa que a derrota deles chegou; os portões se abrem, e os patriarcas e profetas saem; o anjo da vingança rasga o véu do templo. Bartolomeu então ouve quantas almas sobem a cada dia e quais delas são recebidas. Os apóstolos pedem que Maria relate a anunciação, e ela ora antes de falar. No fim, Bartolomeu invoca o poder de Cristo; Beliar sobe acorrentado e é obrigado a confessar sua rebelião e seu domínio sobre os demônios. O livro termina com uma ordem para manter essas coisas longe dos descrentes.\n\nNenhuma cópia está completa, e não há duas versões iguais. Restam três manuscritos gregos: Viena, hist. gr. 67, do século XIV; Jerusalém, Hagiou Saba 13, do século XIII, no qual o texto ocupa as margens; e Veneza, Marciana gr. XI,24, do século XV. Restam dois manuscritos latinos: Vaticano, Reg. lat. 1050, do século IX ou X, a testemunha mais antiga em qualquer língua, e Roma, Casanatense 1880, do século XI. Restam seis manuscritos em eslavônico eclesiástico, o mais antigo do século XIV e o mais recente do século XVIII. Eles divergem na extensão, na ordem do material e no conteúdo.\n\nAs listas antigas mencionam duas vezes um Evangelho de Bartolomeu. Jerônimo, no prólogo de seu Comentário sobre Mateus, escrito por volta de 398 d.C., inclui entre os evangelhos além dos quatro um evangelho segundo Bartolomeu, ao lado dos evangelhos segundo os Egípcios, Tomé, Matias, os Doze Apóstolos, Basílides e Apeles. O Decreto Gelasiano, transmitido sob o nome do papa Gelásio I (492-496 d.C.) e datado em sua forma atual no século VI, condena como apócrifos os Evangelhos em nome de Bartolomeu. Nem Jerônimo nem o Decreto citam uma só palavra do texto que tinham diante de si; portanto, nenhum dos dois registros pode ser vinculado ao texto preservado como as Perguntas de Bartolomeu. Uma obra distinta, o Livro da Ressurreição de Jesus Cristo por Bartolomeu, o Apóstolo, sobrevive apenas em copta e não é o mesmo livro.\n\nNenhuma comunhão cristã reconhece o Evangelho de Bartolomeu como canônico."
 }

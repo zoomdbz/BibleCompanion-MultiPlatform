@@ -31,18 +31,99 @@
         "The guards flee to report what they have seen, and Pilate hears the account with amazement."
       ],
       "crossRefs": [
-        "Matthew 27:24: Pilate washes his hands before the crowd.",
-        "Luke 23:7–11: Jesus is sent to Herod for judgment.",
-        "John 19:15–16: The chief priests cry, 'Crucify him!'"
+        "Matthew 27:24-26: Pilate washes his hands before the crowd and declares himself innocent of this blood, then has Jesus scourged and hands him over to be crucified, so the Gospel that records the gesture still records who passed the sentence.",
+        "Mark 15:15: Pilate, wanting to satisfy the crowd, releases Barabbas and delivers Jesus to be crucified, which puts the order with the Roman governor rather than with Herod.",
+        "Luke 23:6-12: Herod Antipas questions Jesus at length, gets no answer, mocks him with his soldiers and sends him back to Pilate, so he examines the prisoner but never sentences him.",
+        "John 19:31-33: The soldiers break the legs of the two crucified beside him to hasten death before the sabbath, and leave his alone because he is already dead; this text has the order given the other way, that his legs be left whole so he would last longer in pain.",
+        "Psalm 22:1: My God, my God, why have you forsaken me, the line Jesus cries from the cross in Matthew and in Mark, where this text has him call out to his power instead.",
+        "Psalm 69:21: They gave me gall for my food and vinegar for my thirst, the verse standing behind the drink offered at the cross.",
+        "Deuteronomy 21:6-9: The elders of the nearest town wash their hands over a slain heifer and declare that their hands did not shed this blood, the rite that gives hand washing its force as a formal disclaimer of bloodguilt.",
+        "1 John 4:2-3: The test set for any spirit is whether it confesses that Jesus Christ has come in the flesh, which is the point at issue in the ancient complaint against this book that its Jesus suffers as though he felt nothing."
       ],
       "translationNotes": [
         {
-          "term": "Wash hands",
-          "original": "Hebrew: רָחַץ יָד (raḥaṣ yād), Greek: νίπτω χεῖρας (níptō cheíras), Aramaic: שפי ידין (šep̱î yadayin)",
-          "note": "Ancient gesture symbolizing innocence from guilt; used here to distance Pilate from Jesus’ death."
+          "term": "Akhmim",
+          "original": "",
+          "note": "Panopolis in antiquity, a town in Upper Egypt. In the winter of 1886 to 1887 the French Archaeological Mission at Cairo opened a burial in the ancient cemetery there and found a small parchment codex laid with the body. It carries this fragment together with part of the Apocalypse of Peter and Greek portions of the Book of Enoch. Urbain Bouriant published it in 1892."
+        },
+        {
+          "term": "Serapion of Antioch",
+          "original": "",
+          "note": "Bishop of Antioch from about AD 191 to 211. He found this book being read in the congregation at Rhossus and allowed it before he had read it himself. Afterwards he judged that things had been added to the true teaching and wrote against it under the title Concerning the So-Called Gospel of Peter. Eusebius of Caesarea preserves his letter and his verdict at Ecclesiastical History 6.12."
+        },
+        {
+          "term": "Docetism",
+          "original": "Greek: δοκέω (dokeo), to seem",
+          "note": "The teaching that Christ only appeared to have a body and only appeared to suffer. This text says he kept silence as if he felt no pain, and that is the line ancient readers stopped at. 1 John 4:2-3 makes confessing that Jesus Christ has come in the flesh the test of a spirit, 2 John 1:7 calls anyone denying it a deceiver, and Luke 24:39 has the risen Jesus tell them to handle him because a spirit has no flesh and bones."
+        },
+        {
+          "term": "My power, my power",
+          "original": "Greek: ἡ δύναμίς μου (he dynamis mou)",
+          "note": "The cry from the cross in this text runs My power, my power, you have forsaken me. Matthew 27:46 and Mark 15:34 give the cry in Aramaic, Eloi Eloi lema sabachthani, and both stop to translate it as My God, my God, why have you forsaken me. That is the opening line of Psalm 22, which the reader is meant to hear whole."
+        },
+        {
+          "term": "Petronius",
+          "original": "",
+          "note": "This text names the officer set over the tomb guard Petronius. The canonical Gospels leave the centurion at the cross unnamed, as at Mark 15:39. A centurion commanded a century, in practice around eighty men, and centurions were the working command layer of the Roman army; Acts 10:1 introduces Cornelius of the Italian Cohort."
+        },
+        {
+          "term": "Seven seals",
+          "original": "",
+          "note": "The stone is sealed with seven seals here, and elders and scribes camp at the tomb alongside the soldiers. Matthew 27:62-66 has the guard and the sealed stone but never numbers the seals and does not put the leaders on watch through the night. A seal was soft clay or wax pressed with a signet ring, so that breaking it left proof; Daniel 6:17 has a stone laid over the lions' den and sealed with the king's own signet."
+        },
+        {
+          "term": "King of Israel",
+          "original": "",
+          "note": "The board over the cross in this text reads This is the King of Israel. All four Gospels give King of the Jews (Matthew 27:37, Mark 15:26, Luke 23:38, John 19:19), which is the wording a Roman court would use for a claim set against Caesar. The board is the titulus, the placard that named the crime and was carried or fixed above the condemned."
+        },
+        {
+          "term": "Herod as judge",
+          "original": "",
+          "note": "Here Herod gives the order and hands Jesus over. Herod Antipas was a client ruler over Galilee and Perea with no authority to order a Roman execution in Judaea, which was under a governor. Luke 23:6-12 has him question and mock Jesus and send him back without passing sentence, and Mark 15:15 and John 19:16 both put the order with Pilate."
+        },
+        {
+          "term": "Tetrarch",
+          "original": "Greek: τετράρχης (tetrarches)",
+          "note": "Ruler of a fourth part. When Herod the Great died in 4 BC his kingdom was divided among his heirs, and the pieces carried titles below king. Luke 3:1 dates the start of John's ministry by the men holding those pieces, naming Herod over Galilee, Philip over Ituraea and Trachonitis, and Lysanias over Abilene, with Pontius Pilate governing Judaea."
+        },
+        {
+          "term": "The legs left unbroken",
+          "original": "",
+          "note": "This text has the order given that his legs not be broken, so that he would die in torment. Breaking the legs with an iron bar, the crurifragium, was the standard way of ending a crucifixion quickly, since a man who could no longer push up on his feet suffocated. John 19:31-33 has the soldiers do it to the other two and leave him because he is already dead, and John 19:36 names the scripture that not one of his bones would be broken."
+        },
+        {
+          "term": "Gall and vinegar",
+          "original": "Greek: χολή (chole), gall - ὄξος (oxos), sour wine",
+          "note": "Oxos is not spoiled wine but the cheap sour wine a working soldier drank, cut with water. Matthew 27:34 has wine mixed with gall offered before the crucifixion and refused; John 19:29 has sour wine held up on a stalk at the end. Psalm 69:21 stands behind both, gall for food and vinegar for thirst."
+        },
+        {
+          "term": "Darkness at noon",
+          "original": "",
+          "note": "The land goes dark at midday and men go about with lamps, fearing they have missed the sunset. Mark 15:33 dates the darkness from the sixth hour to the ninth, which counting from sunrise is noon to three in the afternoon. Amos 8:9 has God say he will make the sun go down at noon and darken the earth in broad daylight."
+        },
+        {
+          "term": "Joseph asks for the body",
+          "original": "",
+          "note": "Here Joseph, called the friend of Pilate and of the Lord, asks for the body before the crucifixion has even taken place. Mark 15:42-45 has Joseph of Arimathea come after the death, and has Pilate check with the centurion that Jesus is already dead before releasing it. Rome normally left the crucified hanging as a warning, so releasing a body was a favour, and Deuteronomy 21:22-23 is why it had to be asked for before nightfall."
+        },
+        {
+          "term": "Unleavened Bread",
+          "original": "Hebrew: מַצּוֹת (matsot)",
+          "note": "The text has the people about to keep the feast, which sets the whole account on the day of preparation. Leviticus 23:5-6 puts Passover on the fourteenth day of the first month and the Feast of Unleavened Bread on the fifteenth, running seven days with no leaven in the house. John 19:31 calls the sabbath of that week a high day for exactly that reason."
+        },
+        {
+          "term": "The cross that speaks",
+          "original": "",
+          "note": "The guards see two men come down from heaven and lead out a third whose head passes above the heavens, and a cross comes out walking behind them. A voice from heaven asks whether he has preached to those who sleep, and the cross answers Yes. Nothing in the four Gospels has the cross move or speak. 1 Peter 3:18-20 is the passage the question is drawn from, that he went and preached to the spirits in prison."
+        },
+        {
+          "term": "Levi son of Alphaeus",
+          "original": "",
+          "note": "The last surviving words stop in mid-sentence: Peter, Andrew his brother and Levi son of Alphaeus take their nets and go to the sea. Mark 2:14 names Levi son of Alphaeus at the tax booth. John 21:1-14 has the risen Jesus meet the disciples fishing on the Sea of Tiberias, which is where the fragment appears to be going when it breaks."
         }
       ],
-      "keyTakeaway": "Pilate is depicted as absolving himself of guilt, while Herod and the Jewish leaders assume responsibility for Jesus’ condemnation."
+      "keyTakeaway": "A first-person account in the name of Peter that begins and ends in mid-sentence. Herod gives the order and Pilate is held clear of it, Jesus keeps silent on the cross as though he felt no pain, and the guards watch two shining men lead out a third whose head passes above the heavens, with a cross walking behind them that answers a voice from heaven."
     }
-  ]
+  ],
+  "intro": "The Gospel of Peter carries no title and no author's name in the surviving text, but the narrator speaks in the first person as Peter. Near the end he says that he, Simon Peter, and Andrew his brother took their nets and went to the sea, and there the sentence stops in mid-line. It begins the same way, in the middle of a sentence: of the Jews none washed his hands, neither Herod nor any of his judges. Everything before that clause is lost. What survives runs from the close of the trial to the days after the Sabbath. Herod gives the order and Pilate is held clear of it. Joseph asks for the body. Jesus is crucified and keeps silent as though he felt no pain; the crowd taunts him; the inscription over him reads that this is the King of Israel; the soldiers divide his garments by lot. Darkness covers the land at noon. He is buried, a great stone is rolled over the entrance, and soldiers and elders together seal and guard the tomb. Then the guards see the stone move by itself, two men come down from heaven in shining form, and the two lead out a third whose head passes above the heavens, with a cross following them that answers a voice from heaven asking whether he has preached to those who sleep. The guards go to Pilate with the whole account. The fragment breaks off with the disciples going home to the sea.\n\nThe manuscript came out of a grave. In the winter of 1886-87 the French Archaeological Mission at Cairo, digging an ancient cemetery at Akhmim in Upper Egypt, the Panopolis of antiquity, opened a burial that held a small parchment codex. That codex carries this fragment together with part of the Apocalypse of Peter and Greek portions of 1 Enoch. Urbain Bouriant published it in 1892 in the ninth volume of the Mission's Memoirs. Two badly damaged Greek fragments from Oxyrhynchus, P.Oxy. 2949, published by R. A. Coles in 1972 and dated to the late second or early third century, carry a passage on Joseph asking Pilate for the body which overlaps the Akhmim text in part and departs from it in part; they are too broken to settle whether they belong to the same work.\n\nThe book was known and argued over long before 1886. Serapion, bishop of Antioch from about AD 191 to 211, found it in use in the congregation at Rhossus and allowed it at first. Afterward he wrote to them: \"When I visited you I supposed that all of you held the true faith, and as I had not read the Gospel which they put forward under the name of Peter, I said, If this is the only thing which occasions dispute among you, let it be read.\" He then read the book, judged that things had been added to the true doctrine of the Saviour, and wrote a treatise against it under the title Concerning the So-Called Gospel of Peter. Eusebius of Caesarea preserves his letter and his verdict in the Ecclesiastical History 6.12. Eusebius himself lists the Gospel of Peter among the rejected writings at Ecclesiastical History 3.25.6, and the Gelasian Decree, transmitted under the name of Pope Gelasius I (AD 492-496) and dated in its present form to the sixth century, names the Gospel in the name of the apostle Peter among the apocrypha. No communion receives it as canonical."
 }

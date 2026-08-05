@@ -192,7 +192,7 @@
     "group": "canon"
   },
   {
-    "canon": "Qoelet",
+    "canon": "Ecclesiaste",
     "aliases": [
       "Qoelet",
       "Ecclesiaste",
@@ -643,7 +643,8 @@
     "aliases": [
       "Aggiunte a Ester",
       "Ester greco",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
@@ -653,7 +654,8 @@
       "Sapienza",
       "Sap",
       "Wisdom of Solomon",
-      "Sapienza di Salomone"
+      "Sapienza di Salomone",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -662,7 +664,8 @@
     "aliases": [
       "Siracide",
       "Sir",
-      "Sirach"
+      "Sirach",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -689,7 +692,8 @@
       "Preghiera di Azaria",
       "Canto dei Tre Giovani",
       "Canto dei Tre",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -707,6 +711,15 @@
       "Bel e il Drago",
       "Bel",
       "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Salmo 151",
+    "aliases": [
+      "Salmo 151",
+      "Sal 151",
+      "Psalm 151"
     ],
     "group": "deuterocanon"
   },
@@ -767,7 +780,8 @@
       "2Esd",
       "II Esdra",
       "4 Esdra",
-      "2 Esdras"
+      "2 Esdras",
+      "2 Esdras (4 Ezra)"
     ],
     "group": "deuterocanon"
   },
@@ -874,8 +888,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "Vangelo dell'infanzia di Tommaso",
+    "canon": "Vangelo dell'Infanzia di Tommaso",
     "aliases": [
+      "Vangelo dell'Infanzia di Tommaso",
       "Vangelo dell'infanzia di Tommaso",
       "Infancy Gospel of Thomas"
     ],
@@ -885,7 +900,8 @@
     "canon": "Protovangelo di Giacomo",
     "aliases": [
       "Protovangelo di Giacomo",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -982,7 +998,8 @@
     "aliases": [
       "1 Enoc",
       "Primo Enoc",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -991,7 +1008,8 @@
     "aliases": [
       "2 Enoc",
       "Secondo Enoc",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1000,7 +1018,8 @@
     "aliases": [
       "3 Enoc",
       "Terzo Enoc",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1016,7 +1035,8 @@
     "canon": "Testamento dei Dodici Patriarchi",
     "aliases": [
       "Testamento dei Dodici Patriarchi",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1222,6 +1242,34 @@
     "aliases": [
       "Apocalisse di Elia",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Vangelo di Nicodemo (Atti di Pilato)",
+    "aliases": [
+      "Vangelo di Nicodemo (Atti di Pilato)",
+      "Gospel of Nicodemus",
+      "Acts of Pilate",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Vangelo di Bartolomeo",
+    "aliases": [
+      "Vangelo di Bartolomeo",
+      "Gospel of Bartholomew",
+      "Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Assunzione di Mosè",
+    "aliases": [
+      "Assunzione di Mosè",
+      "Assumption of Moses",
+      "Testament of Moses"
     ],
     "group": "pseudepigrapha"
   }

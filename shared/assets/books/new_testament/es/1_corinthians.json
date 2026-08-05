@@ -45,7 +45,7 @@
       "crossRefs": [
         "Romanos 1:7: Llamados santos.",
         "Filipenses 1:6: Él completará la buena obra.",
-        "1 Tesalonicenses 5:24: Fiel es el que os llama."
+        "1 Tesalonicenses 5:24: Fiel es el que los llama."
       ],
       "translationNotes": [
         {
@@ -56,10 +56,30 @@
         {
           "term": "Testimonio de Cristo",
           "original": "Hebrew: עֵדוּת (ʿēdwt, sense), Greek: μαρτύριον τοῦ Χριστοῦ (martύrion toῦ Christoῦ, NT), Aramaic: סהדותא דמשיחא (סהדותא דמשיחא)",
-          "note": "Se refiere al testimonio o confirmación del mensaje de Cristo entre ellos."
+          "note": "Se refiere al testimonio o la confirmación del mensaje de Cristo entre ellos."
+        },
+        {
+          "term": "escriba (sofer)",
+          "original": "Hebrew: סוֹפֵר (sopher); Greek: γραμματεύς (grammateus)",
+          "note": "En origen, copistas profesionales de la Escritura. Para la época del Nuevo Testamento, maestros eruditos de la Ley; a menudo, aunque no siempre, alineados con los fariseos. Formaban la clase religiosa instruida que resolvía las cuestiones halájicas de cada día."
+        },
+        {
+          "term": "La propia Corinto",
+          "original": "Greek: Κόρινθος (Korinthos)",
+          "note": "Corinto estaba en la lengua de tierra de cuatro millas que une el sur de Grecia con el continente, con un puerto a cada lado: Lequeo mirando al oeste, hacia Italia, y Cencrea mirando al este, hacia Asia, que es donde estaba la iglesia de Febe (Romanos 16:1) y donde Pablo se rapó la cabeza (Hechos 18:18). En vez de navegar la vuelta larga y peligrosa al Peloponeso, los armadores arrastraban la carga, y a veces barcos pequeños enteros, cruzando el istmo por una calzada empedrada. Roma destruyó la vieja ciudad griega en 146 a.C.; Julio César la refundó como colonia romana en 44 a.C. y la pobló en gran parte con esclavos liberados, y llegó a ser la capital de la provincia de Acaya. Aún no tenía cien años cuando Pablo llegó."
+        },
+        {
+          "term": "no muchos de noble cuna",
+          "original": "Greek: εὐγενεῖς (eugeneis), well-born",
+          "note": "La sociedad romana estaba escalonada y todos sabían dónde estaban: senadores, luego el orden ecuestre, luego los concejales de una colonia, luego los ciudadanos libres de nacimiento, luego los libertos, luego los esclavos. Lo que Pablo dice en 1:26 es un recuento de ese escalafón dentro de la iglesia, y no es una metáfora. El único creyente de Corinto nombrado con un cargo público es Erasto, el tesorero de la ciudad de Romanos 16:23; una losa de pavimento desenterrada junto al teatro de Corinto en 1929 lleva una inscripción que dice que Erasto puso el pavimento a su propia costa a cambio de su edilidad."
+        },
+        {
+          "term": "Los judíos piden señales y los griegos buscan sabiduría",
+          "original": "Greek: σοφία (sophia), wisdom - μωρία (moria), folly",
+          "note": "Las dos mitades de 1:22 nombran un apetito cultural real. La retórica y la filosofía eran las ocupaciones de prestigio de una ciudad griega; el rango de un hombre subía con su habilidad para argumentar con elegancia en público, y los oradores ambulantes atraían multitudes de pago. Frente a eso, la crucifixión era la muerte que Roma reservaba a los esclavos y a los rebeldes, deliberadamente pública y deliberadamente vergonzosa, y ningún romano respetable la habría escogido como centro de un mensaje. Ese choque es lo que Pablo llama locura para los griegos y piedra de tropiezo para los judíos."
         }
       ],
-      "keyTakeaway": "Pablo saluda a la iglesia de Corinto, da gracias a Dios por los dones que recibieron y los asegura de que Dios es fiel para sostenerlos hasta la venida de Cristo.",
+      "keyTakeaway": "Pablo saluda a la iglesia de Corinto, da gracias a Dios por sus dones y les asegura la fidelidad de Dios para sostenerlos hasta el regreso de Cristo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -104,24 +124,35 @@
         "«¿quién ha conocido la mente del Señor para que pueda instruirlo?». Nosotros, por nuestra parte, tenemos la mente de Cristo. (2:16)."
       ],
       "crossRefs": [
-        "Jeremías 9:23–24: El que se gloría, gloríese en el Señor.",
-        "Isaías 29:14: Destruiré la sabiduría de los sabios.",
-        "Hechos 18:24–28: Apolos ministrando en Corinto.",
-        "Efesios 2:20–22: La iglesia como templo de Dios."
+        "Isaías 64:4: Ningún ojo ha visto un Dios fuera de ti, que actúa por el que espera en él.",
+        "Isaías 40:13: Quién ha dirigido el Espíritu del SEÑOR, o como consejero suyo le ha enseñado.",
+        "Hechos 18:1-11: Pablo llega a Corinto desde Atenas, trabaja en su oficio con Aquila y se queda un año y seis meses.",
+        "Daniel 2:20-23: Dios revela lo profundo y lo escondido y da sabiduría a los sabios.",
+        "Mateo 16:17: No se lo reveló la carne ni la sangre a Pedro, sino el Padre que está en los cielos."
       ],
       "translationNotes": [
         {
           "term": "Locura",
           "original": "Hebrew: אִוֶּלֶת (ʾiwelet), Greek: μωρία (mōrίa, NT), Aramaic: סכלותא (סכלותא)",
-          "note": "Denota insensatez o absurdo; Pablo lo aplica a cómo la cruz aparece ante los incrédulos."
+          "note": "Denota necedad o absurdo; Pablo lo aplica a cómo se ve la cruz a los ojos de los incrédulos."
         },
         {
-          "term": "Templo",
-          "original": "Hebrew: הֵיכָל / מִקְדָּשׁ (hēykāl / miqədāš), Greek: ναός (naόs, NT), Aramaic: הֵיכְלָא (הֵיכְלָא)",
-          "note": "Se refiere al lugar de morada de Dios; Pablo lo aplica a la iglesia reunida."
+          "term": "El hombre natural",
+          "original": "Greek: ψυχικός (psychikos) - πνευματικός (pneumatikos)",
+          "note": "La palabra que en 2:14 se vierte «natural» es psychikos, construida sobre psyche, el alma o la vida. Significa animal o del alma, una persona que funciona solo con la vida humana corriente, y se contrapone a pneumatikos, aquel sobre el que ha trabajado el Espíritu. El «natural» de la versión sugiere un contraste con lo sobrenatural; el contraste griego es entre dos fuentes de vida, y Santiago 3:15 y Judas 1:19 usan la misma palabra."
+        },
+        {
+          "term": "Cuando Pablo llegó a Corinto",
+          "original": "Greek: Κόρινθος (Korinthos)",
+          "note": "Pablo llegó a Corinto desde Atenas sin dinero y sin reputación, y trabajaba en su oficio mientras enseñaba (Hechos 18:1-4), que es la debilidad y el temblor que menciona en 2:3. La visita se puede fechar: una piedra en Delfos que lleva una carta del emperador Claudio nombra a Galión procónsul de Acaya, lo que sitúa su año de mandato entre el 51 y el 52 d.C., y Hechos 18:12 tiene a Pablo llevado a rastras ante ese mismo Galión."
+        },
+        {
+          "term": "Misterio",
+          "original": "Greek: μυστήριον (mysterion)",
+          "note": "No es un acertijo que haya que resolver. Un mysterion era lo que se mostraba a los iniciados de un culto griego y no a los de fuera, y Pablo usa la palabra para lo que Dios mantuvo escondido y ahora ha revelado. La llama sabiduría escondida destinada a nuestra gloria antes de que empezara el tiempo en 2:7, y Colosenses 1:26 tiene la misma forma: escondida por siglos, ahora revelada a sus santos."
         }
       ],
-      "keyTakeaway": "Pablo explica que predicó a los corintios no con palabras elocuentes sino con una demostración del poder del Espíritu, y que la sabiduría de Dios, oculta antes de los tiempos y rechazada por los gobernantes de esta era, se revela a los creyentes por medio del Espíritu y no del entendimiento humano.",
+      "keyTakeaway": "Pablo explica que predicó a los corintios no con palabras elocuentes, sino con una demostración del poder del Espíritu, y que la sabiduría de Dios, escondida antes del tiempo y rechazada por los gobernantes de esta edad, se revela a los creyentes por el Espíritu y no por el entendimiento humano.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -165,24 +196,35 @@
         "y ustedes son de Cristo, y Cristo es de Dios. (3:23)."
       ],
       "crossRefs": [
-        "Jeremías 9:23–24: El que se gloría, gloríese en el Señor.",
-        "Isaías 29:14: Destruiré la sabiduría de los sabios.",
-        "Hechos 18:24–28: Apolos ministrando en Corinto.",
-        "Efesios 2:20–22: La iglesia como templo de Dios."
+        "Job 5:13: Él prende a los sabios en su propia astucia.",
+        "Salmos 94:11: El SEÑOR conoce los pensamientos del hombre, que son un soplo.",
+        "Isaías 28:16: Yo pongo en Sion una piedra, una piedra probada, una piedra angular preciosa, un cimiento seguro.",
+        "Malaquías 3:2-3: Él es como fuego de fundidor; se sienta como fundidor y purificador de plata.",
+        "Hebreos 5:12-14: Necesitan leche, no alimento sólido; el alimento sólido es para los maduros, entrenados por la práctica."
       ],
       "translationNotes": [
         {
           "term": "Locura",
           "original": "Hebrew: אִוֶּלֶת (ʾiwelet), Greek: μωρία (mōrίa, NT), Aramaic: סכלותא (סכלותא)",
-          "note": "Denota insensatez o absurdo; Pablo lo aplica a cómo la cruz aparece ante los incrédulos."
+          "note": "Denota necedad o absurdo; Pablo lo aplica a cómo se ve la cruz a los ojos de los incrédulos."
         },
         {
           "term": "Templo",
           "original": "Hebrew: הֵיכָל / מִקְדָּשׁ (hēykāl / miqədāš), Greek: ναός (naόs, NT), Aramaic: הֵיכְלָא (הֵיכְלָא)",
-          "note": "Se refiere al lugar de morada de Dios; Pablo lo aplica a la iglesia reunida."
+          "note": "Se refiere a la morada de Dios; Pablo lo aplica a la iglesia reunida."
+        },
+        {
+          "term": "Maestro constructor",
+          "original": "Greek: ἀρχιτέκτων (architekton)",
+          "note": "El architekton era el contratista que replanteaba un edificio y dirigía a los oficios que tenía debajo, no un proyectista en una mesa. Corinto fue reconstruida como colonia romana por Julio César en 44 a.C., un siglo después de que Roma destruyera la vieja ciudad, así que los lectores vivían en una obra y sabían lo que costaba un mal cimiento. Pablo toma el título en 3:10 y enseguida entrega la obra a quien construya después."
+        },
+        {
+          "term": "Recompensa y pérdida",
+          "original": "Greek: μισθός (misthos) - ζημιόω (zemioo)",
+          "note": "Las dos palabras de 3:14-15 son términos de oficio. Misthos es el jornal que se paga a un obrero por un trabajo terminado, y zemioo es ser multado o cargar con una pérdida, la penalización que un constructor asumía cuando su obra no pasaba la inspección. La imagen es un contratista ajustando cuentas al final de un trabajo, pagado por lo que queda en pie y descontado por lo que se quema."
         }
       ],
-      "keyTakeaway": "Pablo reprende a los corintios por su inmadurez y sus divisiones en torno a Pablo y Apolos, explicando que ambos son simples siervos por medio de quienes Dios obra; advierte que su trabajo espiritual será probado por fuego, les recuerda que son el templo de Dios e instruye que no se jacten en líderes humanos, ya que todo les pertenece a quienes están en Cristo.",
+      "keyTakeaway": "Pablo reprende a los corintios por su inmadurez y sus divisiones en torno a Pablo y a Apolos, y explica que ambos son solo siervos por medio de los cuales Dios obra; advierte que su trabajo espiritual será probado por fuego, les recuerda que son templo de Dios y les manda no jactarse en líderes humanos, ya que todas las cosas pertenecen a los que están en Cristo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -220,24 +262,35 @@
         "¿Qué prefieren? ¿Que vaya a verlos con un látigo, o con amor y humildad? (4:21)."
       ],
       "crossRefs": [
-        "Jeremías 9:23–24: El que se gloría, gloríese en el Señor.",
-        "Isaías 29:14: Destruiré la sabiduría de los sabios.",
-        "Hechos 18:24–28: Apolos ministrando en Corinto.",
-        "Efesios 2:20–22: La iglesia como templo de Dios."
+        "Lucas 12:42-44: El mayordomo fiel y sabio puesto sobre la casa para repartir la comida a su debido tiempo.",
+        "Salmos 143:2: No entres en juicio con tu siervo, porque nadie que viva es justo delante de ti.",
+        "Romanos 2:29: La alabanza que cuenta viene de Dios, no de los hombres.",
+        "Lamentaciones 3:45: Nos has hecho escoria y desecho entre los pueblos.",
+        "2 Corintios 6:4-10: La lista que hace el propio Pablo de cómo es este servicio: azotes, cárceles, hambre, noches sin dormir, no tener nada y poseerlo todo."
       ],
       "translationNotes": [
         {
           "term": "Locura",
           "original": "Hebrew: אִוֶּלֶת (ʾiwelet), Greek: μωρία (mōrίa, NT), Aramaic: סכלותא (סכלותא)",
-          "note": "Denota insensatez o absurdo; Pablo lo aplica a cómo la cruz aparece ante los incrédulos."
+          "note": "Denota necedad o absurdo; Pablo lo aplica a cómo se ve la cruz a los ojos de los incrédulos."
         },
         {
-          "term": "Templo",
-          "original": "Hebrew: הֵיכָל / מִקְדָּשׁ (hēykāl / miqədāš), Greek: ναός (naόs, NT), Aramaic: הֵיכְלָא (הֵיכְלָא)",
-          "note": "Se refiere al lugar de morada de Dios; Pablo lo aplica a la iglesia reunida."
+          "term": "miríada",
+          "original": "Greek: μυριάς (myrias)",
+          "note": "Diez mil; se usa también de manera idiomática para «incontables». Los «diez mil de diez mil» (myriades myriadon) de ángeles de Apocalipsis 5:11 podrían ser 100 millones como suelo literal, aunque la intención se lee con más naturalidad como «innumerables»."
+        },
+        {
+          "term": "Mayordomo",
+          "original": "Greek: οἰκονόμος (oikonomos)",
+          "note": "El administrador de la casa, en la mayoría de las casas grandes él mismo un esclavo. Tenía las llaves, llevaba la hacienda, pagaba a los trabajadores y llevaba las cuentas, y no era dueño de nada de eso. Esa es la fuerza de 4:2, que a un mayordomo se le exige ser hallado fiel: responde ante el dueño, no ante la casa. Lucas 16:1-8 gira sobre el mismo cargo, y la palabra española economía viene de ese título."
+        },
+        {
+          "term": "Un espectáculo para todo el mundo",
+          "original": "Greek: θέατρον (theatron)",
+          "note": "Theatron es el teatro y, por extensión, la función que se daba en él. Pablo dice que Dios exhibió a los apóstoles al final del desfile, como presos destinados a la muerte, en 4:9. En un triunfo romano los cautivos condenados iban los últimos y se los ejecutaba cuando terminaba. Corinto era una colonia romana con su propio teatro, y Pablo vuelve a echar mano de los juegos en 1 Corintios 9:24-27."
         }
       ],
-      "keyTakeaway": "Pablo instructs a los corintios a considerar a los apóstoles como administradores fieles de los misterios de Dios, advierte contra los juicios prematuros y contrasta el sufrimiento y las privaciones de los apóstoles con la comodidad y la arrogancia de los corintios. Anuncia que Timoteo irá a recordarles su manera de vivir, amenaza con visitarlos pronto ya sea con disciplina o con gentileza, y afirma que el reino de Dios opera con poder y no solo con palabras.",
+      "keyTakeaway": "Pablo manda a los corintios ver a los apóstoles como mayordomos fieles de los misterios de Dios, advierte contra el juicio prematuro y contrasta el sufrimiento y las penalidades de los apóstoles con la comodidad y la arrogancia de los corintios. Anuncia que Timoteo va a ir para recordarles sus caminos, amenaza con visitarlos pronto con disciplina o con mansedumbre, y afirma que el reino de Dios opera con poder, no con meras palabras.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -268,28 +321,33 @@
       ],
       "crossRefs": [
         "Levítico 18:8: Prohibición de descubrir la desnudez de la mujer del padre.",
-        "Deuteronomio 17:7: Eliminarás el mal de en medio de ti.",
+        "Deuteronomio 17:7: Quita el mal de en medio de ti.",
         "Gálatas 5:9: Un poco de levadura leuda toda la masa.",
         "Éxodo 12:21: El cordero pascual sacrificado."
       ],
       "translationNotes": [
         {
-          "term": "Mujer del padre",
+          "term": "La mujer del padre",
           "original": "Hebrew: אֵשֶׁת אָב (ʾēšet ʾāb), Greek: γυναῖκα τοῦ πατρός (gynaῖka toῦ patrόs, NT), Aramaic: אתת אבא (אתת אבא)",
           "note": "Se refiere a una madrastra; relación prohibida en Levítico 18:8 y Deuteronomio 22:30."
         },
         {
           "term": "Entregar a Satanás",
           "original": "Hebrew: נָתַן לְשָׂטָן (nātan ləšāṭān, sense), Greek: παραδοῦναι τῷ Σατανᾷ (paradoῦnai tῷ Satanᾷ, NT), Aramaic: מסר לשטן (מסר לשטן)",
-          "note": "Expresión para expulsar de la esfera protectora de la iglesia, exponiendo al ofensor a las consecuencias."
+          "note": "Expresión para expulsar del ámbito protector de la iglesia y exponer al ofensor a las consecuencias."
         },
         {
           "term": "Levadura",
           "original": "Hebrew: חָמֵץ (ḥāmēṣ), Greek: ζύμη (zύmē, NT), Aramaic: חמיעא (חמיעא)",
-          "note": "Símbolo de la corrupción que se propaga por toda la comunidad."
+          "note": "Símbolo de la corrupción que se extiende por toda la comunidad."
+        },
+        {
+          "term": "ni siquiera entre los gentiles",
+          "original": "Greek: ἔθνη (ethne), the nations",
+          "note": "Pablo dice en 5:1 que este caso escandalizaría a los paganos, y está enunciando un hecho jurídico, no exagerando. La ley romana prohibía a un hombre casarse con su madrastra con tanta firmeza como Levítico 18:8 y Deuteronomio 22:30, y un tribunal romano habría tratado la unión como nula. Así que la iglesia estaba tolerando algo que la ciudad de alrededor habría llevado a juicio, y por eso la respuesta de Pablo en 5:2 es que estaban orgullosos de ello."
         }
       ],
-      "keyTakeaway": "Pablo reprende a los corintios por tolerar la inmoralidad sexual, ordenándoles que expulsen al ofensor y mantengan la santidad en la comunidad.",
+      "keyTakeaway": "Pablo reprende a los corintios por tolerar la inmoralidad sexual y les manda quitar de en medio al ofensor y mantener la santidad en la comunidad.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -328,32 +386,52 @@
       "crossRefs": [
         "Mateo 19:28: Los apóstoles juzgarán a las doce tribus.",
         "Daniel 7:22: Los santos reciben el reino y juzgan.",
-        "Levítico 18:22: No te acostarás con varón como con mujer.",
-        "Gálatas 5:19–21: Las obras de la carne."
+        "Levítico 18:22: El hombre no se acostará con hombre.",
+        "Gálatas 5:19-21: Lista de vicios de las obras de la carne."
       ],
       "translationNotes": [
         {
           "term": "Fornicarios",
           "original": "Hebrew: זוֹנִים (zōnîm), Greek: πόρνοι (pornoi, NT), Aramaic: זנאי (זנאי)",
-          "note": "Término general para quienes practican la inmoralidad sexual fuera del matrimonio."
+          "note": "Término general para los que practican la inmoralidad sexual fuera del matrimonio."
         },
         {
-          "term": "Los que se someten a actos homosexuales",
+          "term": "Compañeros homosexuales pasivos",
           "original": "Hebrew: מְרֻכָּכִים (sense, effeminate), Greek: μαλακοί (malakoi, NT), Aramaic: מַלָּכִין (מַלָּכִין)",
-          "note": "Literalmente 'blandos'; históricamente usado para varones afeminados o la parte pasiva en la relación sexual entre hombres."
+          "note": "Literalmente «los blandos»; históricamente usado para varones afeminados o para el compañero pasivo en el trato sexual entre varones."
         },
         {
-          "term": "Los que practican actos homosexuales",
+          "term": "Compañeros homosexuales activos",
           "original": "Hebrew: מִשְׁכַּב זָכָר (Lev 18:22 phrase), Greek: ἀρσενοκοῖται (arsenokoitai, NT), Aramaic: דמִשְׁכַּב דִּכְרָא (דמִשְׁכַּב דִּכְרָא)",
-          "note": "Acuñado directamente del texto de la LXX de Levítico, 'lecho de varón'; se refiere a los hombres que practican relaciones sexuales con otros hombres como parte activa."
+          "note": "Acuñado directamente del Levítico de la Septuaginta, «lecho de varón»; se refiere a los hombres que tienen trato sexual con hombres como compañeros activos."
         },
         {
-          "term": "Calumniadores",
+          "term": "Maldicientes",
           "original": "Hebrew: מְחָרֵף (məḥārēp, sense), Greek: λοίδοροι (loίdoroi, NT), Aramaic: מְחַסֵּף (מְחַסֵּף)",
-          "note": "Personas que abusan verbalmente o difaman a otros."
+          "note": "Personas verbalmente abusivas o calumniadoras."
+        },
+        {
+          "term": "ir a juicio ante los injustos",
+          "original": "Greek: βῆμα (bema), the raised platform a magistrate judged from",
+          "note": "Un pleito civil en una colonia romana se veía en el foro abierto, sobre una plataforma de piedra elevada, delante de quien estuviera por allí. El sistema favorecía abiertamente al rango: a un hombre de posición no se lo podía arrastrar fácilmente a los tribunales por un inferior social, y los jurados se sacaban de los propietarios. Así que un pleito entre dos creyentes en Corinto significaba que uno de ellos tenía los contactos para plantearlo y el otro no. Hechos 18:12-17 muestra esa misma plataforma en uso, con el procónsul Galión oyendo la acusación contra Pablo y luego desestimándola."
+        },
+        {
+          "term": "De dónde viene la palabra arsenokoitai de Pablo",
+          "original": "Greek (LXX) Leviticus 18:22: μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός - Greek (LXX) Leviticus 20:13: ὃς ἂν κοιμηθῇ μετὰ ἄρσενος κοίτην γυναικός - Greek: ἀρσενοκοῖται (arsenokoitai), singular ἀρσενοκοίτης (arsenokoites)",
+          "note": "La palabra arsenokoitai de Pablo, en 1 Corintios 6:9 y 1 Timoteo 1:10, significa hombres que se acuestan con varones. Literalmente es los que se acuestan con varones: hombres que realizan actos sexuales con otros varones. Koite es la palabra griega corriente para una cama y el término habitual para el trato sexual, que es como la usa el propio Nuevo Testamento en Romanos 13:13 y Hebreos 13:4. La palabra es un compuesto raro, y sus dos mitades están una junto a otra en el Antiguo Testamento griego de dos versículos: Levítico 18:22 lee meta arsenos ou koimethese koiten gynaikos, y Levítico 20:13 lee hos an koimethe meta arsenos koiten gynaikos, donde arsenos y koiten son contiguas."
+        },
+        {
+          "term": "Malakoi",
+          "original": "Greek: μαλακοί (malakoi), from μαλακός (malakos), soft",
+          "note": "Malakos significa blando. Su uso corriente es físico: Mateo 11:8 y Lucas 7:25 lo usan los dos de la ropa fina, un hombre vestido de ropas blandas en casa de un rey. En la lista de 1 Corintios 6:9 está justo antes de arsenokoitai, y en ese emparejamiento denota al que toma la parte pasiva en los actos sexuales entre varones, mientras que arsenokoitai denota al activo. Pablo pone a los dos en la misma lista, junto con los sexualmente inmorales, los idólatras, los adúlteros, los ladrones, los avaros, los borrachos, los maldicientes y los estafadores."
+        },
+        {
+          "term": "Su cuerpo es templo",
+          "original": "Greek: ναός (naos), the inner sanctuary - ἱερόν (hieron), the temple complex",
+          "note": "El griego tiene dos palabras para el templo y 1 Corintios 6:19 usa la más estrecha. Hieron cubre todo el recinto, atrios y pórticos incluidos; Marcos 11:15 la usa dos veces para el terreno del que Jesús echa a los mercaderes. Naos es el edificio del santuario mismo, la sala que ocupaba la presencia, en la que ningún adorador corriente entraba. Naos es la palabra que Pablo pone aquí sobre el cuerpo del creyente, y ya la había puesto sobre la asamblea en 1 Corintios 3:16."
         }
       ],
-      "keyTakeaway": "Pablo reprende a los creyentes por llevar pleitos ante los tribunales, luego enumera pecados concretos que excluyen del reino de Dios, y les recuerda que fueron lavados y santificados en Cristo.",
+      "keyTakeaway": "Pablo reprende a los creyentes por los pleitos, y luego enumera pecados explícitos que excluyen del reino de Dios, y les recuerda que fueron lavados y santificados en Cristo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -414,24 +492,34 @@
         "En mi opinión, ella será más feliz si no se casa, y creo que yo también tengo el Espíritu de Dios. (7:40)."
       ],
       "crossRefs": [
-        "Génesis 2:24: El hombre dejará a su padre y a su madre y se unirá a su esposa.",
-        "Mateo 5:32: Jesús sobre el divorcio y el nuevo matrimonio.",
+        "Génesis 2:24: El hombre dejará a su padre y a su madre y se unirá a su mujer.",
+        "Mateo 5:32: Jesús sobre el divorcio y las segundas nupcias.",
         "Malaquías 2:16: Dios aborrece el divorcio.",
-        "Hechos 15:20: Instrucción sobre los gentiles y la inmoralidad sexual."
+        "Hechos 15:20: Instrucción acerca de los gentiles y la inmoralidad sexual."
       ],
       "translationNotes": [
         {
           "term": "Deber conyugal",
           "original": "Hebrew: עֹנָה (ʿōnāh), Greek: τὴν ὀφειλήν (tὴn ὀpheilήn, NT), Aramaic: חובתא (חובתא)",
-          "note": "Se refiere al deber marital de las relaciones sexuales entre los cónyuges."
+          "note": "Se refiere al deber matrimonial de las relaciones sexuales que los cónyuges se deben."
         },
         {
           "term": "Quemarse de pasión",
           "original": "Hebrew: לִבְעֹר בְּתַאֲוָה (libəʿōr bətaʾăwāh, sense), Greek: πυροῦσθαι (pyroῦsthai, NT), Aramaic: אתלהט בתאוותא (אתלהט בתאוותא)",
-          "note": "Metáfora del deseo sexual descontrolado; el matrimonio se ofrece como cauce apropiado."
+          "note": "Metáfora del deseo sexual sin dominio; el matrimonio se da como cauce apropiado."
+        },
+        {
+          "term": "Si puedes obtener tu libertad",
+          "original": "Greek: ἀπελεύθερος (apeleutheros) - ἐξαγοράζω (exagorazo)",
+          "note": "La esclavitud en el mundo romano tenía salidas. Un amo podía liberar a un esclavo en su testamento o por un acto formal ante un magistrado, y un esclavo podía comprarse a sí mismo con el peculium, los ahorros que su amo le permitía guardar; liberado formalmente por un dueño ciudadano, se hacía él mismo ciudadano, aunque seguía debiendo a su antiguo amo unos deberes fijos como patrón. En Delfos se liberó a miles de esclavos mediante una ficción legal en la que el dios Apolo los compraba, y los contratos están grabados en el muro del templo. Ese es el mundo de 7:21-23, donde Pablo dice que el liberto del Señor es esclavo de Cristo, y «fueron comprados por precio»."
+        },
+        {
+          "term": "Desposorio",
+          "original": "Greek: παρθένος (parthenos) - γαμίζω (gamizo)",
+          "note": "El desposorio no era un noviazgo en el sentido moderno. Era un contrato obligatorio que hacía a la pareja marido y mujer ante la ley antes de que vivieran juntos, así que romperlo exigía un divorcio; por eso José, desposado con María, planea divorciarse de ella en secreto en Mateo 1:18-19. A las muchachas se las desposaba con frecuencia siendo jóvenes y el acuerdo lo hacían los padres, que es el marco de 7:36-38, donde el que decide es el que tiene autoridad sobre el matrimonio."
         }
       ],
-      "keyTakeaway": "Pablo da instrucciones sobre el matrimonio, el celibato y la permanencia en el llamado de cada uno, con énfasis en la santidad, la paz y la fidelidad.",
+      "keyTakeaway": "Pablo da instrucciones sobre el matrimonio, el celibato y permanecer en la propia condición, y subraya la santidad, la paz y la fidelidad.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -462,23 +550,33 @@
       ],
       "crossRefs": [
         "Deuteronomio 6:4: El Señor es uno.",
-        "Salmo 24:1: Del Señor es la tierra.",
-        "Romanos 14:20–21: No destruyas la obra de Dios por causa de la comida.",
+        "Salmos 24:1: Del Señor es la tierra.",
+        "Romanos 14:20-21: No destruyas la obra de Dios por comida.",
         "1 Tesalonicenses 5:11: Edifíquense unos a otros."
       ],
       "translationNotes": [
         {
-          "term": "Alimentos ofrecidos a los ídolos",
+          "term": "Comida ofrecida a los ídolos",
           "original": "Hebrew: זִבְחֵי אֱלִילִים (zibəḥēy ʾĕliyliym), Greek: εἰδωλόθυτα (eἰdōlόthyta, NT), Aramaic: דבחי פסילי (דבחי פסילי)",
-          "note": "Se refiere a la carne de los sacrificios en templos paganos; un tema importante en Corinto con implicaciones sociales y religiosas."
+          "note": "Se refiere a la carne de los sacrificios de los templos paganos; un asunto de peso en Corinto, con implicaciones sociales y religiosas."
         },
         {
-          "term": "Tropiezo",
+          "term": "Piedra de tropiezo",
           "original": "Hebrew: מִכְשׁוֹל (mikəšwōl), Greek: πρόσκομμα (prόskomma, NT), Aramaic: תקלא (תקלא)",
-          "note": "Expresión figurada para algo que causa que otro caiga espiritualmente."
+          "note": "Figura de algo que hace caer espiritualmente a otro."
+        },
+        {
+          "term": "A la mesa en el templo de un ídolo",
+          "original": "Greek: ἐν εἰδωλείῳ κατακείμενον (en eidoleio katakeimenon)",
+          "note": "Los templos antiguos eran salones de banquete además de lugares de sacrificio. El santuario de Asclepio en Corinto tenía comedores con divanes de piedra incorporados, y sobreviven las invitaciones: un papiro egipcio dice «Queremón te invita a cenar a la mesa del señor Serapis en el Serapeo mañana, día quince, a la hora novena». Las cenas de gremio, las bodas y los banquetes cívicos se celebraban todos en terreno de templo, así que el creyente que los rechazaba perdía de golpe su negocio y su vida social. Esa es la escena de 8:10."
+        },
+        {
+          "term": "Citar a los corintios sus propias palabras",
+          "original": "Greek: γνῶσις (gnosis)",
+          "note": "El griego antiguo se escribía sin comillas, así que el traductor tiene que decidir dónde termina una línea citada. Varias frases breves de aquí se leen como consignas de los corintios que Pablo repite antes de responderlas: «todos tenemos conocimiento» (8:1), «un ídolo nada es en el mundo» y «no hay más que un Dios» (8:4). Las versiones modernas ponen algunas entre comillas y otras no, y eso es un criterio editorial, no algo que el griego marque."
         }
       ],
-      "keyTakeaway": "Pablo afirma que los ídolos no son nada y que los alimentos son indiferentes, pero insiste en que el amor debe gobernar el conocimiento para no hacer tropezar a los débiles.",
+      "keyTakeaway": "Pablo afirma que los ídolos no son nada y que la comida es indiferente, pero insiste en que el amor debe gobernar al conocimiento y evitar que el débil tropiece.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -522,24 +620,34 @@
         "Más bien, golpeo mi cuerpo y lo domino, no sea que, después de haber predicado a otros, yo mismo quede descalificado. (9:27)."
       ],
       "crossRefs": [
-        "Deuteronomio 25:4: No pondrás bozal al buey que trilla.",
-        "Lucas 10:7: El obrero es digno de su salario.",
-        "Filipenses 3:14: Prosigo hacia la meta del supremo llamamiento.",
-        "2 Timoteo 4:7–8: La corona de justicia."
+        "Deuteronomio 25:4: No pongas bozal al buey que trilla el grano.",
+        "Lucas 10:7: El obrero merece su salario.",
+        "Filipenses 3:14: Proseguir hacia el premio del supremo llamamiento.",
+        "2 Timoteo 4:7-8: La corona de justicia."
       ],
       "translationNotes": [
         {
-          "term": "Corona",
+          "term": "Guirnalda",
           "original": "Hebrew: עֲטֶרֶת (ʿăṭeret, sense), Greek: στέφανος (stέphanos, NT), Aramaic: כלילא (כלילא)",
-          "note": "Se refiere a la corona del vencedor en los juegos atléticos; Pablo contrasta la recompensa perecedera con la imperecedera."
+          "note": "Se refiere a la corona del vencedor en los juegos atléticos; Pablo contrasta la recompensa corruptible con la incorruptible."
         },
         {
           "term": "Descalificado",
           "original": "Hebrew: נִמְאָס (niməʾās, sense), Greek: ἀδόκιμος (ἀdόkimos, NT), Aramaic: פסילא (פסילא)",
-          "note": "Significa rechazado o que no pasa la prueba; Pablo lo aplica metafóricamente a sí mismo si no se disciplina."
+          "note": "Significa rechazado o reprobado en la prueba; Pablo se lo aplica a sí mismo en sentido figurado si le falta disciplina."
+        },
+        {
+          "term": "Los Juegos Ístmicos",
+          "original": "Greek: ἀγών (agon) - στάδιον (stadion)",
+          "note": "Corinto organizaba los Juegos Ístmicos en el santuario de Poseidón, a unas millas de la ciudad, celebrados cada dos años y segundos en prestigio solo por detrás de Olimpia, así que la gente a la que Pablo escribe había visto las pruebas que describe. Los competidores juraban y entrenaban bajo supervisión durante meses antes de que se les permitiera participar; en Olimpia la norma eran diez meses, el último de ellos en el propio recinto. El premio era una guirnalda, en el Istmo de apio silvestre y después de pino, y quedaba seca en pocos días, que es lo que hay detrás de la corona corruptible de 9:25."
+        },
+        {
+          "term": "Golpear el aire",
+          "original": "Greek: ὑπωπιάζω (hypopiazo)",
+          "note": "El verbo de 9:27 significa golpear debajo del ojo, ponerle a un hombre un ojo morado. El boxeo griego no tenía asaltos, ni categorías de peso, ni guantes acolchados; los luchadores se ataban las manos con correas de cuero y el combate seguía hasta que uno caía o levantaba un dedo para rendirse. Pablo dice que él no lanza puñetazos al vacío y que el cuerpo al que golpea es el suyo."
         }
       ],
-      "keyTakeaway": "Pablo explica sus derechos como apóstol pero muestra que los renuncia por causa del evangelio, y usa la disciplina atlética como ilustración para ganar el premio.",
+      "keyTakeaway": "Pablo expone sus derechos como apóstol pero muestra que renuncia a ellos por causa del evangelio, y lo ilustra con la disciplina atlética para ganar el premio.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -589,24 +697,34 @@
         "Hagan como yo, que procuro agradar a todos en todo. No busco mis propios intereses, sino los de los demás, para que sean salvos. (10:33)."
       ],
       "crossRefs": [
-        "Éxodo 32:6: El pueblo se sentó a comer y beber y se levantó a jugar.",
-        "Números 25:1–9: La inmoralidad de Israel en Baal-peor.",
-        "Números 21:6: Serpientes enviadas contra el pueblo.",
+        "Éxodo 32:6: El pueblo se sentó a comer y a beber y se levantó a divertirse.",
+        "Números 25:1-9: La inmoralidad de Israel en Baal Peor.",
+        "Números 21:6: Serpientes enviadas entre el pueblo.",
         "Deuteronomio 32:17: Sacrificios ofrecidos a los demonios."
       ],
       "translationNotes": [
         {
           "term": "Derribados",
           "original": "Hebrew: נָפַל (nāpal, sense), Greek: κατεστρώθησαν (katestrώthēsan, NT), Aramaic: נפיל (נפיל)",
-          "note": "Significa abatidos o postrados; describe la muerte de Israel en el desierto."
+          "note": "Significa abatidos o tumbados; describe la muerte de Israel en el desierto."
         },
         {
           "term": "Copa de bendición",
           "original": "Hebrew: כּוֹס בְּרָכָה (kwōs bərākāh), Greek: ποτήριον τῆς εὐλογίας (potήrion tῆs eὐlogίas, NT), Aramaic: כסא דבִרכָתא (כסא דבִרכָתא)",
-          "note": "Nombre de la copa usada en la bendición de la comida judía; Pablo la aplica a la Cena del Señor."
+          "note": "Nombre de la copa usada en la bendición de la comida judía; Pablo lo aplica a la Cena del Señor."
+        },
+        {
+          "term": "El mercado de la carne",
+          "original": "Greek: μάκελλον (makellon)",
+          "note": "Makellon es el griego que toma prestada la palabra latina macellum, el mercado cubierto de la ciudad para carne y pescado. Buena parte de lo que colgaba allí venía del altar de un templo, ya que la porción de los sacerdotes en un sacrificio se revendía por dinero. Plinio el Joven, que escribe al emperador Trajano hacia el 112 d.C., informa de que la carne de los sacrificios apenas encontraba compradores donde los cristianos se habían extendido, lo que muestra que el negocio era real y que a los creyentes se los conocía por evitarlo. El dictamen de Pablo en 10:25 es comprar y comer sin interrogar al carnicero."
+        },
+        {
+          "term": "Participación",
+          "original": "Greek: κοινωνία (koinonia) - κοινωνός (koinonos)",
+          "note": "Koinonia es tener algo en común, y era lenguaje comercial corriente: los koinonoi eran socios de negocio, que es exactamente como Lucas 5:10 llama a Jacobo y a Juan en la empresa pesquera de Simón. En 10:16-21 Pablo la usa de la copa y del pan, y luego de la mesa de los demonios, y la fuerza es propiedad conjunta, no un sentimiento cálido. Tanto «comunión» como «hermandad» la suavizan."
         }
       ],
-      "keyTakeaway": "Pablo advierte, tomando como ejemplo la historia de Israel, que no se caiga en idolatría, inmoralidad ni en poner a prueba a Dios, y afirma que participar de la mesa del Señor es incompatible con la idolatría.",
+      "keyTakeaway": "Pablo advierte desde la historia de Israel que no caigan en la idolatría, la inmoralidad ni en tentar a Dios, y afirma que participar de la mesa del Señor es incompatible con la idolatría.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -661,19 +779,34 @@
         "Si alguno tiene hambre, que coma en su casa, para que las reuniones de ustedes no resulten dignas de condenación. Los demás asuntos los arreglaré cuando los visite. (11:34)."
       ],
       "crossRefs": [
-        "Salmo 24:1: Del Señor es la tierra.",
-        "Romanos 14:20–21: No destruyas la obra de Dios por causa de la comida.",
-        "Filipenses 2:4: Busquen los intereses de los demás.",
+        "Salmos 24:1: Del Señor es la tierra.",
+        "Romanos 14:20-21: No destruyas la obra de Dios por comida.",
+        "Filipenses 2:4: Miren por los intereses de los demás.",
         "Colosenses 3:17: Háganlo todo en el nombre del Señor."
       ],
       "translationNotes": [
         {
           "term": "Conciencia",
           "original": "Hebrew: מַצְפּוּן (maṣəpwn, sense), Greek: συνείδησις (syneίdēsis, NT), Aramaic: תֵּאוּת דְּלִבָּא (תֵּאוּת דְּלִבָּא)",
-          "note": "Facultad interior de discernimiento moral; Pablo enfatiza la sensibilidad hacia la conciencia ajena, no solo la propia."
+          "note": "Facultad interior de percepción moral; Pablo subraya la sensibilidad hacia la conciencia del otro, no solo hacia la propia."
+        },
+        {
+          "term": "Cabezas cubiertas y descubiertas",
+          "original": "Greek: κατὰ κεφαλῆς ἔχων (kata kephales echon)",
+          "note": "Corinto era una colonia romana y sus hombres principales vestían a la romana. Un romano de rango se echaba un pliegue de la toga sobre la cabeza cuando sacrificaba u oraba, capite velato, y las estatuas lo muestran; los hombres griegos sacrificaban con la cabeza descubierta. Una mujer casada respetable aparecía en público con la cabeza cubierta, y salir descubierta se leía como una declaración sobre su condición. Las dos mitades de 11:4-16 apuntan a una sala donde esas señales eran obvias y para nosotros son invisibles."
+        },
+        {
+          "term": "El rango en una cena romana",
+          "original": "Greek: δεῖπνον (deipnon)",
+          "note": "El comedor era un triclinium, tres divanes alrededor de una mesa, con sitio para unos nueve; todos los demás comían en el patio. Los anfitriones solían graduar la comida y el vino por el rango del invitado: Plinio el Joven describe una cena en la que el mejor vino iba para el anfitrión y sus amigos y el más barato para los libertos (Cartas 2.6), y Marcial se burla de la misma práctica en sus epigramas. Los ricos llegaban además temprano porque marcaban sus propias horas, mientras que los obreros y los esclavos no podían. Esa es la maquinaria que hay detrás de 11:20-22, donde uno pasa hambre y otro está borracho."
+        },
+        {
+          "term": "Dormirse",
+          "original": "Greek: κοιμάομαι (koimaomai)",
+          "note": "El verbo significa dormirse, y 11:30 lo usa sin rodeos para los creyentes que han muerto. El griego construyó sobre él el sustantivo koimeterion, un lugar de dormir, que pasó por el latín al español como «cementerio». Pablo usa la misma palabra a lo largo de 15:6-20 para los muertos en Cristo."
         }
       ],
-      "keyTakeaway": "Pablo enseña a los creyentes a usar su libertad con responsabilidad, buscando el bien de los demás y haciendo todo para la gloria de Dios.",
+      "keyTakeaway": "Pablo enseña a los creyentes a usar su libertad con responsabilidad, buscando el bien de los demás, y a hacerlo todo para la gloria de Dios.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -733,24 +866,34 @@
         "Ustedes, por su parte, ambicionen los mejores dones. Ahora les voy a mostrar un camino más excelente. (12:31)."
       ],
       "crossRefs": [
-        "Romanos 12:4–8: Un cuerpo, muchos miembros, dones diferentes.",
-        "Efesios 4:11–13: Apóstoles, profetas, maestros dados para la edificación.",
-        "Juan 7:37–39: Beban del Espíritu.",
+        "Romanos 12:4-8: Un cuerpo, muchos miembros, dones distintos.",
+        "Efesios 4:11-13: Apóstoles, profetas, maestros dados para edificar.",
+        "Juan 7:37-39: Beber del Espíritu.",
         "Gálatas 3:28: Ni judío ni griego, ni esclavo ni libre."
       ],
       "translationNotes": [
         {
           "term": "Dones",
           "original": "Hebrew: מַתָּנוֹת (matānwōt), Greek: χαρίσματα (charίsmata, NT), Aramaic: מתנתא (מתנתא)",
-          "note": "Charismata designa dones de gracia dados por el Espíritu para el servicio."
+          "note": "Charismata denota dones de gracia dados por el Espíritu para el servicio."
         },
         {
           "term": "Lenguas (idiomas)",
           "original": "Hebrew: לָשׁוֹן (lāšōn), Greek: γλῶσσα (glōssa, NT), Aramaic: לִשָּׁן (lishān)",
-          "note": "Literalmente \"lengua, idioma.\" En ambos Testamentos se refiere a idiomas reales. En Hechos 2, el Espíritu capacitó a los creyentes para hablar idiomas humanos extranjeros entendidos por otros. En 1 Corintios 12-14, la misma palabra describe habla dada por el Espíritu que puede requerir interpretación si no es comprendida naturalmente. Siempre es comunicación real y significativa; no sílabas sin sentido."
+          "note": "Literalmente «lengua, idioma». En los dos Testamentos se refiere a idiomas reales. En Hechos 2, el Espíritu capacitó a los creyentes para hablar lenguas humanas extranjeras que otros entendían. En 1 Corintios 12-14, la misma palabra describe un habla dada por el Espíritu que puede requerir interpretación si no se entiende de manera natural. Siempre es comunicación real y con sentido; no sílabas sin sentido."
+        },
+        {
+          "term": "Un cuerpo, muchos miembros",
+          "original": "Greek: σῶμα (soma) - μέλος (melos)",
+          "note": "La imagen de una comunidad como un cuerpo cuyas partes riñen era una pieza corriente de la oratoria pública antigua. Livio cuenta cómo Menenio Agripa quebró la huelga plebeya del 494 a.C. contando a la multitud la fábula del vientre y los miembros, que dejaron de trabajar contra el estómago y se mataron de hambre a sí mismos (Historia 2.32). Los corintios habrían reconocido la figura al instante, y habrían notado que Pablo la vuelve del otro lado: su argumento protege a las partes que el cuerpo llama más débiles y menos honrosas (12:22-24)."
+        },
+        {
+          "term": "Ayudas y administración",
+          "original": "Greek: ἀντίλημψις (antilempsis) - κυβέρνησις (kybernesis)",
+          "note": "Dos de los renglones de la lista de 12:28 quedan tapados por sus etiquetas en español. Antilempsis está construido sobre un verbo que significa agarrar algo para sostenerlo en alto, la palabra que se usa para socorrer a los débiles en Hechos 20:35 y para Dios socorriendo a Israel en Lucas 1:54. Kybernesis es el trabajo del timonel: un kybernetes es el piloto de un barco, el hombre al timón en Hechos 27:11 y Apocalipsis 18:17. Los dones son apuntalar y llevar el timón, no papeleo."
         }
       ],
-      "keyTakeaway": "Pablo explica que los dones espirituales son diversos pero provienen de un mismo Espíritu, compara la iglesia con un cuerpo de muchos miembros y exhorta a buscar los dones mayores con amor.",
+      "keyTakeaway": "Pablo explica que los dones espirituales son diversos pero vienen de un solo Espíritu, compara la iglesia con un cuerpo de muchos miembros e insta a buscar los dones mayores en amor.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -780,24 +923,34 @@
         "Ahora, pues, permanecen la fe, la esperanza y el amor. Pero el amor es el más importante. (13:13)."
       ],
       "crossRefs": [
-        "Juan 13:35: En esto conocerán que son mis discípulos, si se aman unos a otros.",
-        "Colosenses 3:14: Sobre todo, revístanse de amor, que es el vínculo perfecto.",
+        "Juan 13:35: En esto conocerán todos que son mis discípulos, si se aman unos a otros.",
+        "Colosenses 3:14: Sobre todo, vístanse de amor, que es el vínculo perfecto.",
         "1 Juan 4:8: Dios es amor.",
         "Cantar de los Cantares 8:7: Las muchas aguas no pueden apagar el amor."
       ],
       "translationNotes": [
         {
-          "term": "Platillo que hace estruendo",
+          "term": "Címbalo que retiñe",
           "original": "Hebrew: מְצִלְתַּיִם (məṣilətayim), Greek: κύμβαλον (kύmbalon, NT), Aramaic: צלצלא (צלצלא)",
-          "note": "Referencia a un instrumento musical; metáfora de ruido sin sustancia."
+          "note": "Referencia a un instrumento; metáfora del ruido sin sustancia."
         },
         {
-          "term": "Por espejo, oscuramente",
+          "term": "Ver de manera confusa",
           "original": "Hebrew: מַרְאָה (marəʾāh), Greek: ἐν αἰνίγματι (ἐn aἰnίgmati, NT), Aramaic: בחידתא (בחידתא)",
-          "note": "Literalmente 'en un enigma'; Corinto era famosa por sus espejos de bronce, que daban un reflejo opaco."
+          "note": "Literalmente «en enigma»; Corinto era conocida por sus espejos de bronce, que daban un reflejo turbio."
+        },
+        {
+          "term": "Amor",
+          "original": "Greek: ἀγάπη (agape) - ἔρως (eros) - φιλία (philia)",
+          "note": "El griego tenía varias palabras que el español vierte como amor: eros para el deseo, philia para el afecto de los amigos y los parientes, storge para el apego familiar, y agape, que era la menos cargada de todas. No es una palabra que lleve por sí sola un sentido elevado; el Antiguo Testamento griego usa el mismo verbo para el deseo de Amnón por Tamar en 2 Samuel 13:15. Pablo la llena en cambio: 13:4-7 define el amor con quince verbos, cosas que hace y que no hace, y ni un solo adjetivo."
+        },
+        {
+          "term": "Capítulo y versículo",
+          "original": "",
+          "note": "Este capítulo no se escribió como pieza suelta. Está dentro de un solo argumento que va del capítulo 12 al 14 sobre los dones en la asamblea, y el corte en 12:31 y 14:1 es la marca de un editor posterior. Las divisiones en capítulos las añadió Esteban Langton, arzobispo de Canterbury, hacia 1227, y los números de versículo el impresor Robert Estienne en su Nuevo Testamento griego de 1551. Ninguna de las dos cosas es parte de la carta que Pablo dictó."
         }
       ],
-      "keyTakeaway": "Pablo describe el amor como superior a todos los dones y más duradero que ellos, esencial para la verdadera vida cristiana.",
+      "keyTakeaway": "Pablo describe el amor como mayor que todos los dones y como algo que dura más que ellos, imprescindible para la vida cristiana verdadera.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -854,24 +1007,40 @@
         "Pero todo debe hacerse de una manera apropiada y con orden. (14:40)."
       ],
       "crossRefs": [
-        "Joel 2:28: Derramaré mi Espíritu y profetizarán.",
-        "Isaías 28:11–12: Labios extraños como señal.",
-        "1 Tesalonicenses 5:19–20: No apaguen el Espíritu, no desprecien las profecías.",
-        "Números 12:6: Los profetas reciben visiones y sueños."
+        "Isaías 28:11-12: El pasaje que Pablo cita en 14:21, donde Dios habla a este pueblo con lenguas extrañas y labios burlones y aun así no quieren escuchar.",
+        "1 Corintios 11:5: Tres capítulos antes, en esta misma carta, Pablo escribe de toda mujer que ora o profetiza, y lo que allí corrige es su cabeza y no que hable.",
+        "Joel 2:28-29: El SEÑOR promete derramar su Espíritu sobre todos, de modo que hijos e hijas profeticen, siervos y siervas incluidos.",
+        "Hechos 21:9: Felipe el evangelista tenía cuatro hijas solteras que profetizaban, y se informa de ello sin rodeos en el mismo libro que registra el año y medio de Pablo en Corinto.",
+        "1 Tesalonicenses 5:19-21: No apaguen el Espíritu ni desprecien las profecías, sino examínenlo todo, que es la ponderación que 14:29 entrega a la asamblea."
       ],
       "translationNotes": [
         {
           "term": "Lenguas",
           "original": "Hebrew: לָשׁוֹן (lāšwōn), Greek: γλῶσσα (glῶssa, NT), Aramaic: לִשָּׁן (לִשָּׁן)",
-          "note": "Literalmente 'idioma'; puede referirse a lenguas humanas o expresiones extáticas."
+          "note": "Literalmente «idioma»; puede referirse a lenguas humanas o a un habla extática."
         },
         {
-          "term": "Las mujeres guarden silencio",
-          "original": "Hebrew: חָרֵשׁ (ḥārēš, sense), Greek: σιγάτωσαν (sigάtōsan, NT), Aramaic: שתיק (שתיק)",
-          "note": "La instrucción aquí es debatida; literalmente 'guardar silencio'; el contexto se relaciona con el orden eclesiástico y la evaluación de las profecías."
+          "term": "Guardar silencio",
+          "original": "Greek: σιγάω (sigao) - σιγάτω (sigato) - σιγάτωσαν (sigatosan)",
+          "note": "Un solo verbo lleva tres mandatos distintos en siete versículos. En 14:28 el que habla en lengua sin intérprete debe callar en la iglesia, sigato. En 14:30 el que ya está de pie debe parar cuando le llega una revelación a otro que está sentado, sigato otra vez. En 14:34 las mujeres deben callar, sigatosan; y Pablo enmarca toda la serie en 14:33 con «Dios no es Dios de desorden, sino de paz» y la cierra en 14:40 con «que todo se haga de manera apropiada y con orden»."
+        },
+        {
+          "term": "Como dice la ley",
+          "original": "Greek: καθὼς καὶ ὁ νόμος λέγει (kathos kai ho nomos legei)",
+          "note": "Pablo apela a la ley en 14:34 sin citarla ni nombrar el pasaje, que no es como maneja la Escritura en el resto de esta carta. En 9:9 escribe «está escrito en la Ley de Moisés» y cita Deuteronomio 25:4 sobre el buey; en 14:21 escribe «está escrito en la Ley» y cita Isaías 28:11-12; en 15:54-55 junta Isaías 25:8 y Oseas 13:14 palabra por palabra. En 14:34 no da ningún texto."
+        },
+        {
+          "term": "Profetizar en Corinto",
+          "original": "Greek: προφητεύω (propheteuo)",
+          "note": "La profecía es aquello hacia lo que este capítulo empuja a la asamblea de principio a fin. 14:1 les manda desearla por encima de cualquier otro don, 14:24-25 retrata a un incrédulo que entra mientras todos profetizan y cae sobre su rostro, 14:31 dice «todos pueden profetizar por turno, para que todos aprendan y sean animados», y 14:39 cierra «anhelen profetizar, y no prohíban hablar en lenguas». Pablo ya ha escrito en esta carta de mujeres que oran y profetizan (11:5)."
+        },
+        {
+          "term": "miríada",
+          "original": "Greek: μυριάς (myrias)",
+          "note": "Diez mil; se usa también de manera idiomática para «incontables». Los «diez mil de diez mil» (myriades myriadon) de ángeles de Apocalipsis 5:11 podrían ser 100 millones como suelo literal, aunque la intención se lee con más naturalidad como «innumerables»."
         }
       ],
-      "keyTakeaway": "Pablo contrasta la profecía con las lenguas, exhorta a un culto ordenado, a edificar la iglesia y a someterse al mandato del Señor.",
+      "keyTakeaway": "Pablo contrasta la profecía con las lenguas, e insta al culto ordenado, a la edificación de la iglesia y a la sujeción al mandato del Señor.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -946,24 +1115,34 @@
         "Por lo tanto, mis queridos hermanos, manténganse firmes e inconmovibles, progresando siempre en la obra del Señor, conscientes de que su trabajo en el Señor no es en vano. (15:58)."
       ],
       "crossRefs": [
-        "Isaías 25:8: Destruirá la muerte para siempre.",
-        "Oseas 13:14: Oh muerte, ¿dónde están tus plagas?",
-        "Salmo 110:1: Siéntate a mi diestra hasta que ponga a tus enemigos por estrado de tus pies.",
+        "Isaías 25:8: Él destruirá la muerte para siempre.",
+        "Oseas 13:14: Oh muerte, dónde están tus plagas.",
+        "Salmos 110:1: Siéntate a mi derecha hasta que ponga a tus enemigos por estrado de tus pies.",
         "Daniel 12:2: Muchos de los que duermen en el polvo despertarán."
       ],
       "translationNotes": [
         {
-          "term": "Primicias",
-          "original": "Hebrew: בִּכּוּרִים (bikwriym), Greek: ἀπαρχή (ἀparchή, NT), Aramaic: בוכרא (בוכרא)",
-          "note": "Metáfora de la cosecha; la resurrección de Cristo como la primera de muchas."
-        },
-        {
           "term": "Bautizados por los muertos",
           "original": "Hebrew: טָבַל לַמֵּתִים (ṭābal lamētiym, sense), Greek: βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν (baptizόmenoi ὑpὲr tῶn nekrῶn, NT), Aramaic: עמד על מיתיא (עמד על מיתיא)",
-          "note": "Frase difícil; denota una práctica en Corinto de bautismo en relación con los muertos; Pablo la usa retóricamente sin afirmarla."
+          "note": "Una expresión difícil; denota una práctica en Corinto de bautismo en relación con los muertos; Pablo la usa de manera retórica sin respaldarla."
+        },
+        {
+          "term": "primicias",
+          "original": "Hebrew: בִּכּוּרִים (bikkurim)",
+          "note": "La primera porción de cada cosecha, ofrecida a Dios antes de que se pudiera comer el resto (Éxodo 23:19; Levítico 23:9-14). Pablo llama al Cristo resucitado «primicias de los que durmieron» (1 Corintios 15:20), la garantía de que la cosecha entera de la resurrección vendrá después."
+        },
+        {
+          "term": "Entregado y recibido",
+          "original": "Greek: παραδίδωμι (paradidomi) - παραλαμβάνω (paralambano)",
+          "note": "El par de verbos de 15:3 es técnico. Son los términos habituales para transmitir palabra por palabra un cuerpo fijo de enseñanza, y Pablo usa el mismo par para la Cena del Señor en 11:23. La enseñanza judía usaba los verbos hebreos correspondientes, masar y qibbel: la Mishná abre con Moisés recibiendo la Torá en el Sinaí y transmitiéndola a Josué, y Josué a los ancianos (Avot 1:1). Lo que sigue en 15:3-5 es, por tanto, cita y no composición del momento."
+        },
+        {
+          "term": "Las malas compañías corrompen las buenas costumbres",
+          "original": "Greek: φθείρουσιν ἤθη χρηστὰ ὁμιλίαι κακαί (phtheirousin ethe chresta homiliai kakai)",
+          "note": "La línea de 15:33 no es de Pablo. Es un verso de la comedia griega, de la obra Tais de Menandro, en el metro habitual del diálogo teatral, y había pasado al habla común como un refrán, del mismo modo que lo han hecho versos de Cervantes en español. Cita versos paganos también en otros lugares: una línea del poeta Arato en Hechos 17:28, y un poeta cretense sin nombrar en Tito 1:12."
         }
       ],
-      "keyTakeaway": "Pablo declara el evangelio de la muerte y resurrección de Cristo, insiste en que la resurrección de los muertos es fundamental y advierte contra su negación y contra una vida pecaminosa.",
+      "keyTakeaway": "Pablo declara el evangelio de la muerte y la resurrección de Cristo, insiste en que la resurrección de los muertos es esencial y advierte contra negarla o vivir en pecado.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1004,29 +1183,39 @@
         "Los amo a todos ustedes en Cristo Jesús. Amén. (16:24)."
       ],
       "crossRefs": [
-        "Hechos 11:29–30: Auxilio enviado a los hermanos de Judea.",
-        "Romanos 15:25–26: Pablo llevando ayuda a Jerusalén.",
-        "1 Tesalonicenses 5:6: Estén alerta y sobrios.",
+        "Hechos 11:29-30: Ayuda enviada a los hermanos de Judea.",
+        "Romanos 15:25-26: Pablo llevando socorro a Jerusalén.",
+        "1 Tesalonicenses 5:6: Estén alerta y sean sobrios.",
         "2 Corintios 13:12: Salúdense unos a otros con un beso santo."
       ],
       "translationNotes": [
         {
           "term": "Primer día de la semana",
           "original": "Hebrew: יוֹם רִאשׁוֹן (ywōm riʾšwōn), Greek: μιᾷ σαββάτου (miᾷ sabbάtou, NT), Aramaic: חד בשבתא (חד בשבתא)",
-          "note": "Expresión usada para el día después del sábado; se refiere al domingo, cuando los creyentes se reunían."
+          "note": "Expresión para el día siguiente al sábado; se refiere al domingo, cuando los creyentes se reunían."
         },
         {
           "term": "Anatema",
           "original": "Hebrew: חֵרֶם (ḥērem), Greek: ἀνάθεμα (ἀnάthema, NT), Aramaic: חרם (חרם)",
-          "note": "Término para quien es dedicado a la destrucción o puesto bajo maldición; aquí, referido a quien no ama al Señor."
+          "note": "Término para el que queda destinado a la destrucción o bajo prohibición; aquí, de cualquiera que no ame al Señor."
         },
         {
-          "term": "¡Señor nuestro, ven!",
+          "term": "¡Ven, Señor nuestro!",
           "original": "Hebrew: מָרַנָא תָּא (māranāʾ tāʾ, sense), Greek: Μαρὰν ἀθά (Marὰn ἀthά, NT transliteration), Aramaic: מָרַנָא תָּא (maranā tā)",
-          "note": "Frase aramea 'Maranata,' que significa '¡Señor nuestro, ven!' conservada como oración en el texto griego."
+          "note": "Expresión aramea «Maranata», que significa «¡Ven, Señor nuestro!», conservada como oración dentro del texto griego."
+        },
+        {
+          "term": "cómo viajaría el dinero",
+          "original": "Greek: λογεία (logeia), a collection",
+          "note": "No había ningún sistema bancario para mover un fondo como este. La moneda tenía que llevarse físicamente por hombres a pie y en barco, por caminos donde el robo era bastante común como para que Pablo lo enumere entre sus peligros en 2 Corintios 11:26. Por eso 16:2 pide a cada uno apartar algo cada semana en vez de correr al final, y por eso 16:3 hace que los corintios escojan a sus propios portadores acreditados y los envíen con cartas. Romanos 15:25-27 y Hechos 24:17 registran la entrega en Jerusalén."
+        },
+        {
+          "term": "la iglesia que se reúne en su casa",
+          "original": "Greek: κατ' οἶκον ἐκκλησία (kat oikon ekklesia)",
+          "note": "No había edificios de iglesia. Las congregaciones se reunían en casas particulares, y 16:19 nombra la de Aquila y Prisca como una de ellas; Romanos 16:23 nombra a Gayo como anfitrión de toda la iglesia de Corinto. Eso pone un techo firme a los números, y además parte la sala. Un comedor romano acogía a unos nueve en sus tres divanes; todos los demás comían en el patio, donde la comida y la compañía eran ambas peores. Es la razón práctica por la que la comida compartida se rompió como describe 11:20-22, con un hombre borracho y otro todavía hambriento."
         }
       ],
-      "keyTakeaway": "Pablo concluye con instrucciones sobre la colecta, planes de viaje, recomendación de colaboradores, saludos y una bendición final.",
+      "keyTakeaway": "Pablo cierra con instrucciones sobre la colecta, sus planes de viaje, la recomendación de sus colaboradores, saludos y una bendición final.",
       "headings": [
         {
           "beforeVerse": 1,

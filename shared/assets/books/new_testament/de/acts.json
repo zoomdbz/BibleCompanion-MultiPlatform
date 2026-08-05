@@ -37,9 +37,9 @@
         "Und sie warfen das Los über sie, und das Los fiel auf Matthias, und er wurde zu den elf Aposteln hinzugezählt. (1:26)."
       ],
       "crossRefs": [
-        "Lukas 24,49–53: Verheißung, Segen und Himmelfahrt.",
-        "Jesaja 49,6: Licht für die Völker.",
-        "Daniel 7,13: Einer wie ein Menschensohn, der mit den Wolken kommt."
+        "Lukas 24:49-53: Verheißung, Segen und Himmelfahrt.",
+        "Jesaja 49:6: Licht für die Völker.",
+        "Daniel 7:13: Einer wie ein Menschensohn, der mit den Wolken kommt."
       ],
       "translationNotes": [
         {
@@ -50,20 +50,40 @@
         {
           "term": "Zeiten und Zeitpunkte",
           "original": "Hebrew: עִתִּים / זְמַנִּים (ʿitiym / zəmaniym), Greek: χρόνοι / καιροί (chrόnoi / kairoί), Aramaic: ܙܒ̈ܢܐ / ܥܕ̈ܢܐ (zbnʾ / ʿdnʾ)",
-          "note": "Zeiträume und festgesetzte Zeiten; den Aposteln nicht offenbart (1,7)."
+          "note": "Zeitspannen und festgesetzte Zeitpunkte; den Aposteln nicht mitgeteilt (1,7)."
         },
         {
           "term": "Zeugen",
           "original": "Hebrew: עֵדִים (ʿēdiym), Greek: μάρτυρες (mάrtyres), Aramaic: ܣܗ̈ܕܐ (shdʾ)",
-          "note": "Bezeichnung für diejenigen, die bezeugen, was sie gesehen und gehört haben (1,8)."
+          "note": "Bezeichnung für die, welche bezeugen, was sie gesehen und gehört haben (1,8)."
         },
         {
           "term": "Wolke",
           "original": "Hebrew: עָנָן (ʿānān), Greek: νεφέλη (nephέlē), Aramaic: ܥܢܢܐ (ʿnnʾ)",
-          "note": "Die Himmelfahrt wird beschrieben, wie eine Wolke Jesus ihren Blicken entzieht (1,9)."
+          "note": "Die Himmelfahrt wird mit einer Wolke beschrieben, die Jesus ihren Augen entzieht (1,9)."
+        },
+        {
+          "term": "Spanne",
+          "original": "Hebrew: זֶרֶת (zeret)",
+          "note": "Der Abstand zwischen der Daumenspitze und der Spitze des kleinen Fingers bei gespreizter Hand; eine halbe Elle, etwa 9 Zoll (23 cm). Das Brustschild des Hohenpriesters war eine Spanne im Quadrat (Exodus 28,16)."
+        },
+        {
+          "term": "Ein Sabbatweg",
+          "original": "Greek: σαββάτου ἔχον ὁδόν (sabbatou echon hodon)",
+          "note": "Etwa zwei Drittel einer Meile (1 km); die rabbinische Grenze für den Weg von der eigenen Wohnung am Sabbat, abgeleitet aus den Lagergrenzen in Exodus 16,29 und Numeri 35,5. Apostelgeschichte 1,12 gibt den Ölberg in dieser Entfernung von Jerusalem an."
+        },
+        {
+          "term": "Sabbat",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "Der siebte Tag, durch Gottes Gebot ausgesondert (Exodus 20,8-11). Alle Arbeit ruhte von Sonnenuntergang am Freitag bis Sonnenuntergang am Samstag. Zur Zeit Jesu hatte die rabbinische Überlieferung 39 Kategorien verbotener Arbeit ausgearbeitet; viele Heilungen Jesu forderten diese zusätzlichen Regeln bewusst heraus, ohne das Gebot der Torah selbst zu verletzen."
+        },
+        {
+          "term": "Samaria",
+          "original": "Hebrew: שֹׁמְרוֹן (Shomron)",
+          "note": "Das zentrale Bergland zwischen Judäa und Galiläa; von 880 v. Chr. bis zur assyrischen Deportation 722 v. Chr. Hauptstadt des Nordreiches Israel. Die Nachkommen der gemischten Bevölkerung, die dort zurückblieb, die „Samariter“, galten den Judäern als volklich und religiös unrein. Dass Jesus seinen Weg durch Samaria nahm (Johannes 4) und einen Samariter zum Helden seines Gleichnisses machte (Lukas 10), stellt dieses Vorurteil bewusst auf den Kopf."
         }
       ],
-      "keyTakeaway": "Der auferstandene Jesus verheißt den Heiligen Geist, beauftragt Zeugen bis an die Enden der Erde und fährt auf, während die Jünger zuschauen.",
+      "keyTakeaway": "Der auferstandene Jesus verheißt den Heiligen Geist, beauftragt Zeugen bis an die Enden der Erde und wird vor den Augen der Jünger emporgehoben.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -135,28 +155,38 @@
         "sie lobten Gott und waren angesehen bei dem ganzen Volk. Der Herr aber tat täglich die zur Gemeinde hinzu, die gerettet wurden. (2:47)."
       ],
       "crossRefs": [
-        "2. Mose 19,16–19: Theophanie am Sinai (Brausen und Feuer).",
-        "Joel 2,28–32: Ausgießung des Geistes (im nächsten Abschnitt zitiert).",
-        "Lukas 3,16: Verheißung der Taufe mit dem Heiligen Geist."
+        "Exodus 19:16-19: Die Gotteserscheinung am Sinai (Schall und Feuer).",
+        "Joel 2:28-32: Der Geist wird ausgegossen (im nächsten Abschnitt zitiert).",
+        "Lukas 3:16: Die Verheißung der Taufe mit dem Heiligen Geist."
       ],
       "translationNotes": [
         {
           "term": "Pfingsten / Wochenfest",
           "original": "Hebrew: שָׁבֻעוֹת (šābuʿwōt), Greek: Πεντηκοστή (Pentēkostή), Aramaic: ܦܢܛܩܘܣܛܐ (pnṭqwsṭʾ)",
-          "note": "Fest fünfzig Tage nach Pessach (2,1)."
+          "note": "Fest, das fünfzig Tage nach Passah begangen wird (2,1)."
         },
         {
           "term": "Zungen / Sprachen",
           "original": "Hebrew: לְשׁוֹנוֹת (ləšwōnwōt), Greek: γλῶσσαι (glῶssai), Aramaic: ܠܫܢ̈ܐ (lšnʾ)",
-          "note": "Bezeichnung für die Sprachen, die von der Menge gehört werden (2,4–11)."
+          "note": "Ausdruck für die Sprachen, welche die Menge hört (2,4-11)."
         },
         {
           "term": "Heiliger Geist",
           "original": "Hebrew: רוּחַ הַקֹּדֶשׁ (rwḥa haqōdeš), Greek: πνεῦμα ἅγιον (pneῦma ἅgion), Aramaic: ܪܘܚܐ ܕܩܘܕܫܐ (rwḥʾ dqwdšʾ)",
           "note": "Der Geist erfüllt die Versammelten (2,4)."
+        },
+        {
+          "term": "Dritte / sechste / neunte Stunde",
+          "original": "Greek: ὥρα τρίτη / ἕκτη / ἐνάτη (hora trite/hekte/enate)",
+          "note": "Der jüdische Tag war in zwölf Tagesstunden geteilt, die bei Sonnenaufgang begannen (gegen 6 Uhr). Die dritte Stunde ist etwa 9 Uhr, die sechste ist Mittag, die neunte ist 15 Uhr. Jesus wird zur dritten Stunde gekreuzigt (Markus 15,25); zur sechsten kommt die Finsternis, zur neunten stirbt er."
+        },
+        {
+          "term": "Hades",
+          "original": "Greek: ᾅδης (hades)",
+          "note": "Das griechischsprachige Gegenstück zum hebräischen Scheol, gebraucht in der Septuaginta und im Neuen Testament; der allgemeine Bereich der Toten, nicht eigens ein Ort der Strafe. Diese Übersetzung gibt das Wort mit Totenreich wieder. In Offenbarung 1,18 hält Christus „die Schlüssel des Todes und des Totenreichs“. Vom Gehenna zu unterscheiden."
         }
       ],
-      "keyTakeaway": "Am Pfingsttag erfüllt der Heilige Geist die versammelten Jünger; sie reden in anderen Sprachen, und die Menge hört die mächtigen Taten Gottes in ihren eigenen Zungen.",
+      "keyTakeaway": "An Pfingsten erfüllt der Heilige Geist die versammelten Jünger; sie reden in anderen Sprachen, und die Menge hört Gottes große Taten in der eigenen Sprache.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -207,33 +237,38 @@
         "Euch zuerst hat Gott, als er seinen Knecht Jesus erweckte, ihn gesandt, um euch zu segnen, indem ein jeder von euch sich von seiner Bosheit bekehrt! (3:26)."
       ],
       "crossRefs": [
-        "Jesaja 35,6: Der Lahme wird springen wie ein Hirsch.",
-        "Lukas 7,22: Gute Nachricht und Heilungen werden berichtet.",
-        "Apostelgeschichte 14,8–10: Ein von Geburt an Lahmer wird in Lystra geheilt."
+        "Jesaja 35:6: Der Lahme wird springen wie ein Hirsch.",
+        "Lukas 7:22: Gute Botschaft und Heilungen werden berichtet.",
+        "Apostelgeschichte 14:8-10: Ein von Geburt an Gelähmter wird in Lystra geheilt."
       ],
       "translationNotes": [
         {
-          "term": "Schönes Tor",
+          "term": "Die Schöne Pforte",
           "original": "Hebrew: שַׁעַר הַיָּפֶה (šaʿar hayāpeh, sense), Greek: ἡ καλουμένη Ὡραία Πύλη (ἡ kaloumέnē Ὡraίa Pύlē), Aramaic: תרעא שפירא (תרעא שפירא, sense)",
-          "note": "Ein den Hörern bekanntes Tempeltor; genaue Zuordnung im Text nicht angegeben (3,2–10)."
+          "note": "Ein Tempeltor, das den Hörern bekannt war; welcher der Tempeleingänge genau gemeint ist, sagt der Text nicht (3,2-10)."
         },
         {
           "term": "Almosen",
           "original": "Hebrew: צְדָקָה (tzedakah, ‘charity/almsgiving’), Greek: ἐλεημοσύνη (ἐleēmosύnē), Aramaic: צדקתא (צדקתא)",
-          "note": "Gaben für die Armen; der Mann bittet die in den Tempel Eintretenden um Almosen (3,2–3)."
+          "note": "Gaben an die Armen; der Mann bittet die Eintretenden am Tempel um ein Almosen (3,2-3)."
         },
         {
-          "term": "Neunte Stunde",
+          "term": "Die neunte Stunde",
           "original": "Hebrew: הַשָּׁעָה הַתְּשִׁיעִית (hašāʿāh hatəšiyʿiyt), Greek: ὥρα ἐνάτη (ὥra ἐnάtē), Aramaic: שעתא תשיעיתא (שעתא תשיעיתא)",
-          "note": "Etwa 15 Uhr, eine festgelegte Gebetszeit (3,1)."
+          "note": "Etwa 15 Uhr, eine festgesetzte Gebetszeit (3,1)."
         },
         {
           "term": "Im Namen Jesu",
           "original": "Hebrew: בְּשֵׁם יֵשׁוּעַ (bəšēm yēšwʿa), Greek: ἐν τῷ ὀνόματι Ἰησοῦ (ἐn tῷ ὀnόmati Ἰēsoῦ), Aramaic: ܒܫܡ ܝܫܘܥ (bšm yšwʿ)",
-          "note": "Vollmachtsformel unter Berufung auf Jesus; die Handlung geschieht unter Anrufung seines Namens (3,6)."
+          "note": "Formel der Vollmacht und der Anrufung, an Jesus gebunden; die Handlung geschieht unter Anrufung seines Namens (3,6)."
+        },
+        {
+          "term": "Dritte / sechste / neunte Stunde",
+          "original": "Greek: ὥρα τρίτη / ἕκτη / ἐνάτη (hora trite/hekte/enate)",
+          "note": "Der jüdische Tag war in zwölf Tagesstunden geteilt, die bei Sonnenaufgang begannen (gegen 6 Uhr). Die dritte Stunde ist etwa 9 Uhr, die sechste ist Mittag, die neunte ist 15 Uhr. Jesus wird zur dritten Stunde gekreuzigt (Markus 15,25); zur sechsten kommt die Finsternis, zur neunten stirbt er."
         }
       ],
-      "keyTakeaway": "An einem Tempeltor wird ein von Geburt an lahmer Mann geheilt, als Petrus im Namen Jesu spricht; er geht, springt und lobt Gott zur Verwunderung der Umstehenden.",
+      "keyTakeaway": "Am Tempeltor wird ein von Geburt an Gelähmter geheilt, als Petrus im Namen Jesu redet; er geht, springt und lobt Gott zum Erstaunen der Umstehenden.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -291,33 +326,48 @@
         "besaß einen Acker und verkaufte ihn, brachte das Geld und legte es den Aposteln zu Füßen. (4:37)."
       ],
       "crossRefs": [
-        "Psalm 118,22: Der verworfene Stein wird zum Eckstein.",
-        "Lukas 21,12–15: Worte und Weisheit vor Herrschern gegeben.",
-        "Apostelgeschichte 3,6–8: Die Heilung, auf die vor dem Hohen Rat Bezug genommen wird."
+        "Psalmen 118:22: Der verworfene Stein wird zum Eckstein.",
+        "Lukas 21:12-15: Worte und Weisheit werden vor Herrschern gegeben.",
+        "Apostelgeschichte 3:6-8: Die Heilung, auf die vor dem Hohen Rat verwiesen wird."
       ],
       "translationNotes": [
         {
           "term": "Sadduzäer",
           "original": "Hebrew: צְדוּקִים (ṣədwqiym), Greek: Σαδδουκαῖοι (Saddoukaῖoi), Aramaic: צדוקאי̈א (צדוקאיא)",
-          "note": "Priesterliche Gruppe, die die Auferstehung leugnete; sie widersetzen sich der Botschaft der Apostel (4,1–2)."
+          "note": "Eine priesterliche Gruppe, bekannt dafür, dass sie die Auferstehung leugnet; sie treten der Botschaft der Apostel entgegen (4,1-2)."
         },
         {
           "term": "Eckstein",
           "original": "Hebrew: אֶבֶן רֹאשׁ פִּנָּה (ʾeben rōʾš pināh), Greek: κεφαλὴ γωνίας (kephalὴ gōnίas), Aramaic: רֵישׁ קרנתא (רֵישׁ קרנתא)",
-          "note": "Bild aus Psalm 118,22, das Petrus zitiert (4,11)."
+          "note": "Bild aus Psalmen 118,22, von Petrus zitiert (4,11)."
         },
         {
           "term": "Gerettet / Heil",
           "original": "Hebrew: יֵשׁוּעָה (yēšwʿāh), Greek: σωτηρία / σωθῆναι (sōtērίa / sōthῆnai), Aramaic: ܦܘܪܩܢܐ / ܡܬܦܪܩ (pwrqnʾ / mtprq)",
-          "note": "Begriffe in der Erklärung über „keinen anderen Namen“ (4,12)."
+          "note": "Begriffe, die in der Erklärung über den „keinen anderen Namen“ gebraucht werden (4,12)."
         },
         {
           "term": "Freimütigkeit",
           "original": "Hebrew: בִּטָּחוֹן / עֹז רוּחַ (biṭāḥwōn / ʿōz rwḥa, sense), Greek: παρρησία (parrēsίa), Aramaic: גלותא דלישנא (גלותא דלישנא, sense)",
-          "note": "Offenes, zuversichtliches Reden, das der Hohe Rat bemerkt (4,13–31)."
+          "note": "Offene, zuversichtliche Rede, die dem Hohen Rat auffällt (4,13-31)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
+        },
+        {
+          "term": "Sadduzäer",
+          "original": "Greek: Σαδδουκαῖος (Saddoukaios)",
+          "note": "Die priesterlich-aristokratische Partei. Sie nahm allein die geschriebene Torah an und verwarf die mündliche Überlieferung. Sie leugnete Auferstehung, Engel und Geister (Apostelgeschichte 23,8). Sie beherrschte den Tempel und arbeitete umfassend mit Rom zusammen, um diese Macht zu behalten. Nach 70 n. Chr., als der Tempel zerstört wurde, um den sie sich sammelte, verschwand sie als Bewegung."
+        },
+        {
+          "term": "Levit",
+          "original": "Hebrew: לֵוִי (lewi)",
+          "note": "Ein männlicher Nachkomme Levis (ausgenommen die aaronitische Priesterlinie). Er half den Priestern im Tempeldienst: Musik, Torwache, Unterweisung des Volkes, Zurichtung der Opfer. Der Priester und der Levit, die im Gleichnis vom barmherzigen Samariter am Verwundeten vorübergehen (Lukas 10,31-32), schärfen die Pointe Jesu; beide waren von Berufs wegen zur Hilfe verpflichtet."
         }
       ],
-      "keyTakeaway": "Petrus und Johannes bezeugen vor dem Rat, dass der geheilte Mann durch den Namen Jesu gesund dasteht, und erklären, dass kein anderer Name zur Rettung gegeben ist; sie werden bedroht und freigelassen.",
+      "keyTakeaway": "Petrus und Johannes bezeugen vor dem Hohen Rat, dass der Geheilte durch den Namen Jesu gesund dasteht, und erklären, dass kein anderer Name zur Rettung gegeben ist; man droht ihnen und lässt sie frei.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -384,38 +434,53 @@
         "und sie hörten nicht auf, jeden Tag im Tempel und in den Häusern zu lehren und das Evangelium von Jesus, dem Christus, zu verkündigen. (5:42)."
       ],
       "crossRefs": [
-        "5. Mose 15,4: Kein Armer unter euch (formuliertes Ideal).",
-        "Josua 7,1: Achan „hielt zurück“ vom Gebannten (Verbparallele).",
-        "Apostelgeschichte 9,31: Die Gemeinde in Judäa, Galiläa und Samarien erwähnt (Begriff „Gemeinde“)."
+        "Deuteronomium 15:4: Es soll kein Armer unter euch sein (als Ideal ausgesprochen).",
+        "Josua 7:1: Achan behielt vom Gebannten zurück (Parallele im Verb).",
+        "Apostelgeschichte 9:31: Die Gemeinde wird in Judäa, Galiläa und Samaria erwähnt (der Ausdruck „Gemeinde“ kommt vor)."
       ],
       "translationNotes": [
         {
           "term": "Den Aposteln zu Füßen gelegt",
           "original": "Hebrew: וַיָּשִׂימוּ לִפְנֵי רַגְלֵי הַשְּׁלִיחִים (wayāšiymw lipənēy ragəlēy hašəliyḥiym, sense), Greek: ἔθετον παρὰ τοὺς πόδας τῶν ἀποστόλων (ἔtheton parὰ toὺs pόdas tῶn ἀpostόlōn), Aramaic: סמון לקדם רגלי שליחא (סמון לקדם רגלי שליחא)",
-          "note": "Bild für das Anvertrauen von Mitteln zur apostolischen Verteilung (4,35–37) (5,2)."
+          "note": "Bild dafür, dass Gelder der Verteilung durch die Apostel anvertraut werden (4,35-37) (5,2)."
         },
         {
-          "term": "Zurückgehalten",
+          "term": "Zurückbehalten",
           "original": "Hebrew: כִּחֵד/כָּחַשׁ (sense ‘withheld’), Greek: νοσφίζομαι (nosphίzomai), Aramaic: אִתְנַסֵּף (אִתְנַסֵּף, sense)",
-          "note": "Verb für das Zurückhalten eines Teils des Preises durch Hananias/Saphira (5,2)."
+          "note": "Das Verb, das vom Zurückbehalten eines Teils des Erlöses durch Ananias und Saphira gebraucht wird (5,2)."
         },
         {
-          "term": "Den Heiligen Geist / Gott belogen",
+          "term": "Den Heiligen Geist und Gott belogen",
           "original": "Hebrew: שִׁקֵּר לְרוּחַ הַקֹּדֶשׁ / לֵאלֹהִים (šiqēr lərwḥa haqōdeš / lēʾlōhiym), Greek: ψεύσασθαι τὸ πνεῦμα τὸ ἅγιον / τῷ θεῷ (pseύsasthai tὸ pneῦma tὸ ἅgion / tῷ theῷ), Aramaic: כְּדַב לְרוּחָא דְקֻדְשָׁא / לְאלָהָא (כְּדַב לְרוּחָא דְקֻדְשָׁא / לְאלָהָא)",
-          "note": "Petrus beschreibt ihre Tat als Lüge gegenüber dem Heiligen Geist und gegenüber Gott (5,3–4)."
+          "note": "Petrus beschreibt ihre Tat als Lüge gegen den Heiligen Geist und gegen Gott (5,3-4)."
         },
         {
           "term": "Barnabas („Sohn des Trostes“)",
           "original": "Hebrew: בֶּן־תַּנְחוּמִים (ben-tanəḥwmiym, sense), Greek: υἱὸς παρακλήσεως (yἱὸs paraklήseōs), Aramaic: בַּר נִחוּמָא (בַּר נִחוּמָא)",
-          "note": "Apostolischer Beiname für Josef, einen Leviten aus Zypern (4,36)."
+          "note": "Beiname, den die Apostel dem Joseph gaben, einem Leviten aus Zypern, den diese Übersetzung in 4,36 Joses nennt (4,36)."
         },
         {
           "term": "Große Furcht",
           "original": "Hebrew: פַּחַד גָּדוֹל (paḥad gādwōl), Greek: φόβος μέγας (phόbos mέgas), Aramaic: דְחַלָא רַבָּא (דְחַלָא רַבָּא)",
-          "note": "Reaktion der Gemeinde und aller, die von diesen Ereignissen hören (5,5–11)."
+          "note": "Die Reaktion der Gemeinde und aller, die von diesen Ereignissen hören (5,5-11)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
+        },
+        {
+          "term": "Pharisäer",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Eine Erneuerungsbewegung von Laien, die auf strenge Befolgung der geschriebenen Torah UND einer mündlichen Überlieferung drang (der „Überlieferung der Ältesten“). Sie glaubte an die leibliche Auferstehung, an Engel und an einen kommenden Messias. Paulus war Pharisäer (Philipper 3,5); Jesu schärfste Auseinandersetzungen wurden meist mit dieser Gruppe geführt, obwohl er viele ihrer Grundüberzeugungen teilte."
+        },
+        {
+          "term": "Sadduzäer",
+          "original": "Greek: Σαδδουκαῖος (Saddoukaios)",
+          "note": "Die priesterlich-aristokratische Partei. Sie nahm allein die geschriebene Torah an und verwarf die mündliche Überlieferung. Sie leugnete Auferstehung, Engel und Geister (Apostelgeschichte 23,8). Sie beherrschte den Tempel und arbeitete umfassend mit Rom zusammen, um diese Macht zu behalten. Nach 70 n. Chr., als der Tempel zerstört wurde, um den sie sich sammelte, verschwand sie als Bewegung."
         }
       ],
-      "keyTakeaway": "Die Gemeinde teilt ihren Besitz zur Deckung der Bedürfnisse; Barnabas wird wegen seiner Großzügigkeit hervorgehoben. Hananias und Saphira behalten einen Teil zurück und lügen; beide sterben, und große Furcht kommt über alle.",
+      "keyTakeaway": "Die Gemeinschaft teilt ihren Besitz, um die Not zu decken; Barnabas wird für seine Freigebigkeit hervorgehoben. Ananias und Saphira behalten einen Teil zurück und lügen; beide sterben, und große Furcht kommt über alle.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -459,33 +524,38 @@
         "Und als alle, die im Hohen Rat saßen, ihn anblickten, sahen sie sein Angesicht wie das Angesicht eines Engels. (6:15)."
       ],
       "crossRefs": [
-        "5. Mose 10,18: Fürsorge für die Witwe (Hintergrund des Anliegens).",
-        "4. Mose 27,18–23: Handauflegung (Beauftragungsmuster).",
-        "Apostelgeschichte 11,20–26: Antiochien später beim Wachstum der Gemeinde erwähnt."
+        "Deuteronomium 10:18: Fürsorge für die Witwe (Hintergrund des Anliegens).",
+        "Numeri 27:18-23: Handauflegung (Muster der Einsetzung).",
+        "Apostelgeschichte 11:20-26: Antiochia wird später beim Wachstum der Gemeinde genannt."
       ],
       "translationNotes": [
         {
           "term": "Hellenisten / Hebräer",
           "original": "Hebrew: יְוָנִים (sense, ‘Greek-speaking’) / עִבְרִים, Greek: Ἑλληνισταί / Ἑβραῖοι (Ἑllēnistaί / Ἑbraῖoi), Aramaic: יוָנָאֵי / עִבְרָאיֵי (יוָנָאֵי / עִבְרָאיֵי)",
-          "note": "Gruppen innerhalb der Jerusalemer Gemeinde; griechischsprachige Juden gegen hebräisch/aramäisch sprechende Juden (6,1)."
+          "note": "Gruppen innerhalb der Gemeinde in Jerusalem; griechischsprachige Juden gegenüber hebräisch- und aramäischsprachigen Juden (6,1)."
         },
         {
-          "term": "Tische bedienen / Dienst",
+          "term": "Bei den Tischen dienen / Dienst",
           "original": "Hebrew: לְשָׁרֵת שֻׁלְחָנוֹת / שֵׁרוּת (ləšārēt šuləḥānwōt / šērwt), Greek: διακονεῖν τραπέζαις / διακονία (diakoneῖn trapέzais / diakonίa), Aramaic: למִשְׁמַשׁ פְּתוֹרֵי / תַּשְׁמִיתָא (למִשְׁמַשׁ פְּתוֹרֵי / תַּשְׁמִיתָא)",
-          "note": "Sprache des Dienens/Verteilens; verwandtes Wortfeld, das später für verschiedene Dienste verwendet wird (6,2–4)."
+          "note": "Sprache des Dienens und des Austeilens; dieselbe Wortfamilie steht später für verschiedene Dienste (6,2-4)."
         },
         {
           "term": "Proselyt",
           "original": "Hebrew: גֵּר (gēr), Greek: προσήλυτος (prosήlytos), Aramaic: גְּיוֹרָא (גְּיוֹרָא)",
-          "note": "Ein Konvertit; Nikolaus wird Proselyt aus Antiochien genannt (6,5)."
+          "note": "Ein Übergetretener; Nikolaus wird ein Proselyt aus Antiochia genannt (6,5)."
         },
         {
-          "term": "Legten ihnen die Hände auf",
+          "term": "Sie legten ihnen die Hände auf",
           "original": "Hebrew: סָמַךְ יָדַיִם (sāmakə yādayim), Greek: ἐπέθηκαν τὰς χεῖρας (ἐpέthēkan tὰs cheῖras), Aramaic: סָמְכוּ יְדַיְיהוֹן (סָמְכוּ יְדַיְיהוֹן)",
-          "note": "Beauftragungsgeste in Verbindung mit Gebet (6,6)."
+          "note": "Geste der Einsetzung, mit dem Gebet verbunden (6,6)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
         }
       ],
-      "keyTakeaway": "Eine Beschwerde über die Verteilung führt zur Auswahl und Beauftragung von sieben geeigneten Männern; das Wort breitet sich aus, und viele, darunter auch Priester, kommen zum Glauben.",
+      "keyTakeaway": "Eine Beschwerde über die Verteilung führt zur Auswahl und Einsetzung von sieben geeigneten Männern; das Wort breitet sich aus, und viele kommen zum Glauben, darunter Priester.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -566,38 +636,43 @@
         "Und er kniete nieder und rief mit lauter Stimme: Herr, rechne ihnen diese Sünde nicht an! Und nachdem er das gesagt hatte, entschlief er. (7:60)."
       ],
       "crossRefs": [
-        "1. Mose 12–50: Abraham, Josef und die Erzväter.",
-        "2. Mose 32,1–6: Berufung des Mose und das goldene Kalb.",
-        "Jesaja 66,1–2: Der Höchste wohnt nicht in Häusern, die von Händen gemacht sind."
+        "Genesis 12-50: Abraham, Josef und die Erzväter.",
+        "Exodus 32:1-6: Die Berufung Moses und das goldene Kalb.",
+        "Jesaja 66:1-2: Der Höchste wohnt nicht in Häusern, die von Händen gemacht sind."
       ],
       "translationNotes": [
         {
-          "term": "Freigelassene",
+          "term": "Freigelassene (Libertiner)",
           "original": "Hebrew: לִבְרֵי חוֹרִין (libərēy ḥwōriyn, sense), Greek: Λιβερτίνων (Libertίnōn), Aramaic: בְּנֵי חֵרוּרֵי (בְּנֵי חֵרוּרֵי, sense)",
-          "note": "Name einer Synagogengruppe, die mit Stephanus streitet (6,9)."
+          "note": "Name einer Synagogengruppe, die mit Stephanus streitet; diese Übersetzung nennt sie in 6,9 die Libertiner (6,9)."
         },
         {
           "term": "Angesicht wie das Angesicht eines Engels",
           "original": "Hebrew: פָּנִים כְּפְנֵי מַלְאָךְ (pāniym kəpənēy maləʾākə), Greek: τὸ πρόσωπον… ὡς πρόσωπον ἀγγέλου (tὸ prόsōpon… ὡs prόsōpon ἀggέlou), Aramaic: אַפֵּי כְּאַפֵּי מַלְאָכָא (אַפֵּי כְּאַפֵּי מַלְאָכָא)",
-          "note": "Beschreibung des Aussehens des Stephanus vor dem Hohen Rat (6,15)."
+          "note": "Beschreibung, wie Stephanus vor dem Hohen Rat aussieht (6,15)."
         },
         {
           "term": "Zelt des Zeugnisses / Stiftshütte",
           "original": "Hebrew: אֹהֶל הָעֵדוּת / מִשְׁכָּן (ʾōhel hāʿēdwt / mišəkān), Greek: ἡ σκηνὴ τοῦ μαρτυρίου (ἡ skēnὴ toῦ martyrίou), Aramaic: מַשְׁכְּנָא (מַשְׁכְּנָא)",
-          "note": "Tragbares Heiligtum in der Wüste (7,44)."
+          "note": "Das tragbare Heiligtum in der Wüste (7,44)."
         },
         {
           "term": "Von Händen gemacht",
           "original": "Hebrew: מַעֲשֵׂה יָדַיִם (maʿăšēh yādayim), Greek: χειροποίητος (cheiropoίētos), Aramaic: עֲבִיד יְדַיִן (עֲבִיד יְדַיִן)",
-          "note": "Ausdruck, den Stephanus verwendet, als er sagt, der Höchste wohne nicht in Häusern, die von Händen gemacht sind (7,48)."
+          "note": "Wendung, die Stephanus gebraucht, wenn er sagt, der Höchste wohne nicht in Häusern, die von Händen gemacht sind (7,48)."
         },
         {
           "term": "Der Gerechte",
           "original": "Hebrew: הַצַּדִּיק (haṣadiyq), Greek: ὁ Δίκαιος (ὁ Dίkaios), Aramaic: צַדִּיקָא (צַדִּיקָא)",
-          "note": "Titel, den Stephanus für den Vorhergesagten verwendet (7,52)."
+          "note": "Titel, den Stephanus gebraucht, wenn er von dem redet, dessen Kommen vorher angekündigt wurde (7,52)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
         }
       ],
-      "keyTakeaway": "Stephanus wird angeklagt und hält vor dem Rat eine ausführliche, schriftbezogene Rede, die er mit Vorwürfen über den Widerstand gegen den Heiligen Geist und die Ankunft des Gerechten abschließt.",
+      "keyTakeaway": "Stephanus wird angeklagt und hält vor dem Hohen Rat eine ausgedehnte Rede, die die Schrift nacherzählt; er schließt mit dem Vorwurf, sie widerstünden dem Heiligen Geist, und mit dem Kommen des Gerechten.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -652,16 +727,15 @@
         "Da wandte sich der Kämmerer an Philippus und sprach: Ich bitte dich, von wem sagt der Prophet dies? Von sich selbst oder von einem anderen? (8:34).",
         "Da tat Philippus seinen Mund auf und begann mit dieser Schriftstelle und verkündigte ihm das Evangelium von Jesus. (8:35).",
         "Als sie aber auf dem Weg weiterzogen, kamen sie zu einem Wasser, und der Kämmerer sprach: Siehe, hier ist Wasser! Was hindert mich, getauft zu werden? (8:36).",
-        "Da sprach Philippus: Wenn du von ganzem Herzen glaubst, so ist es erlaubt! Er antwortete und sprach: Ich glaube, dass Jesus Christus der Sohn Gottes ist! (8:37).",
         "Und er ließ den Wagen anhalten, und sie stiegen beide in das Wasser hinab, Philippus und der Kämmerer, und er taufte ihn. (8:38).",
         "Als sie aber aus dem Wasser heraufgestiegen waren, entrückte der Geist des Herrn den Philippus, und der Kämmerer sah ihn nicht mehr; denn er zog voll Freude seines Weges. (8:39).",
         "Philippus aber wurde in Asdod gefunden, und er zog umher und verkündigte das Evangelium in allen Städten, bis er nach Cäsarea kam. (8:40)."
       ],
-      "keyTakeaway": "Die Verfolgung zerstreut die Gläubigen über Jerusalem hinaus; Saulus dringt gewaltsam in Häuser ein und lässt Gläubige gefangen nehmen.",
+      "keyTakeaway": "Die Verfolgung zerstreut die Gläubigen über Jerusalem hinaus; Saulus dringt gewaltsam in die Häuser ein und wirft Gläubige ins Gefängnis.",
       "crossRefs": [
-        "Apostelgeschichte 1,8: Zeugen in Jerusalem, Judäa, Samarien und bis an das Ende der Erde.",
-        "Apostelgeschichte 7,58: Kleider zu den Füßen eines jungen Mannes namens Saulus niedergelegt.",
-        "Galater 1,13: Paulus erinnert sich an die Verfolgung der Gemeinde."
+        "Apostelgeschichte 1:8: Zeugnis in Jerusalem, Judäa, Samaria und bis an das Ende der Erde.",
+        "Apostelgeschichte 7:58: Die Kleider werden zu den Füßen eines jungen Mannes namens Saulus gelegt.",
+        "Galater 1:13: Paulus erinnert daran, dass er die Gemeinde verfolgt hat."
       ],
       "manuscriptVariants": [
         {
@@ -670,19 +744,24 @@
         },
         {
           "ref": "Acts 8:37",
-          "text": "Einige spätere Handschriften fügen hier einen Vers 37 ein: „Philippus sagte: ‚Wenn du von ganzem Herzen glaubst, so kann es geschehen.‘ Und er antwortete: ‚Ich glaube, dass Jesus Christus der Sohn Gottes ist.‘“ Er fehlt im Sinaiticus, Vaticanus, Alexandrinus und den ältesten Papyri. Die Hinzufügung spiegelt eine frühchristliche Taufbekenntnisformel wider, die wahrscheinlich von Schreibern aus der kirchlichen Praxis des 2. Jahrhunderts hinzugefügt wurde; sie gehört nicht zu Lukas’ ursprünglicher Erzählung."
+          "text": "Einige spätere Handschriften fügen hier einen Vers 37 ein: „Und Philippus sprach: Wenn du von ganzem Herzen glaubst, so ist es erlaubt. Er aber antwortete und sprach: Ich glaube, dass Jesus Christus der Sohn Gottes ist.“ Er fehlt im Sinaiticus, im Vaticanus, im Alexandrinus und in den ältesten Papyri. Der Zusatz spiegelt eine frühe Taufbekenntnisformel wider, die Schreiber wahrscheinlich aus der Gemeindepraxis des zweiten Jahrhunderts eingetragen haben; er gehört nicht zur ursprünglichen Erzählung des Lukas."
         }
       ],
       "translationNotes": [
         {
-          "term": "Zerstören / verwüsten",
+          "term": "Verwüsten",
           "original": "Hebrew: לְשַׁחֵת / לְחַרֵּב (ləšaḥēt / ləḥarēb, sense), Greek: λυμαίνομαι (lymaίnomai), Aramaic: מְחַבֵּל (meḥabbēl, ‘ruin/ravage’)",
-          "note": "Verb in 8,3 für die gewaltsame Behandlung der Gemeinde durch Saulus; steht für schwere Schädigung/Verwüstung."
+          "note": "Das Verb in 8,3 für das gewaltsame Vorgehen des Saulus gegen die Gemeinde; es wird für schwere Verletzung und Verheerung gebraucht."
         },
         {
           "term": "Gemeinde",
           "original": "Hebrew: קָהָל (qāhāl, ‘assembly’), Greek: ἐκκλησία (ἐkklēsίa), Aramaic: עֵדְתָּא (‘assembly’)",
-          "note": "Begriff für die versammelte Gemeinschaft der Gläubigen (8,1–3)."
+          "note": "Ausdruck für die versammelte Gemeinschaft der Gläubigen (8,1-3)."
+        },
+        {
+          "term": "Samaria",
+          "original": "Hebrew: שֹׁמְרוֹן (Shomron)",
+          "note": "Das zentrale Bergland zwischen Judäa und Galiläa; von 880 v. Chr. bis zur assyrischen Deportation 722 v. Chr. Hauptstadt des Nordreiches Israel. Die Nachkommen der gemischten Bevölkerung, die dort zurückblieb, die „Samariter“, galten den Judäern als volklich und religiös unrein. Dass Jesus seinen Weg durch Samaria nahm (Johannes 4) und einen Samariter zum Helden seines Gleichnisses machte (Lukas 10), stellt dieses Vorurteil bewusst auf den Kopf."
         }
       ],
       "headings": [
@@ -756,9 +835,9 @@
         "Und es begab sich, dass er viele Tage in Joppe bei einem gewissen Simon, einem Gerber, blieb. (9:43)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 22,6–16; Apostelgeschichte 26,12–18: Saulus berichtet über die Begegnung.",
-        "Jesaja 42,7: Blinde Augen öffnen (Bild).",
-        "Apostelgeschichte 24,14: „Der Weg“ als Bezeichnung für die Bewegung."
+        "Apostelgeschichte 22:6-16; Apostelgeschichte 26:12-18: Saulus erzählt die Begegnung.",
+        "Jesaja 42:7: Blinde Augen öffnen (Bild).",
+        "Apostelgeschichte 24:14: „Der Weg“ als Bezeichnung für die Bewegung."
       ],
       "translationNotes": [
         {
@@ -769,15 +848,20 @@
         {
           "term": "Stimme / Ich bin Jesus",
           "original": "Hebrew: קוֹל / אֲנִי יֵשׁוּעַ (qwōl / ʾăniy yēšwʿa, sense), Greek: φωνή / Ἐγώ εἰμι Ἰησοῦς (phōnή / Ἐgώ eἰmi Ἰēsoῦs), Aramaic: קָלָא / אֲנָא יֵשׁוּע (קָלָא / אֲנָא יֵשׁוּע)",
-          "note": "Worte, die zu Saulus auf dem Weg gesprochen werden (9,4–5)."
+          "note": "Worte, die auf der Straße zu Saulus gesprochen werden (9,4-5)."
         },
         {
           "term": "Schuppen",
           "original": "Hebrew: קַשְׂקַשִּׂים (qašəqašiym, sense), Greek: λεπίδες (lepίdes), Aramaic: קַשְׂקַשְׁיָא (קַשְׂקַשְׁיָא)",
           "note": "Bild für das, was von den Augen des Saulus fällt (9,18)."
+        },
+        {
+          "term": "Samaria",
+          "original": "Hebrew: שֹׁמְרוֹן (Shomron)",
+          "note": "Das zentrale Bergland zwischen Judäa und Galiläa; von 880 v. Chr. bis zur assyrischen Deportation 722 v. Chr. Hauptstadt des Nordreiches Israel. Die Nachkommen der gemischten Bevölkerung, die dort zurückblieb, die „Samariter“, galten den Judäern als volklich und religiös unrein. Dass Jesus seinen Weg durch Samaria nahm (Johannes 4) und einen Samariter zum Helden seines Gleichnisses machte (Lukas 10), stellt dieses Vorurteil bewusst auf den Kopf."
         }
       ],
-      "keyTakeaway": "Auf dem Weg nach Damaskus hört Saulus die Stimme Jesu, wird blind und in die Stadt geführt. Der Herr sendet Ananias; Saulus erlangt sein Augenlicht zurück, wird getauft und gestärkt.",
+      "keyTakeaway": "Auf der Straße nach Damaskus hört Saulus die Stimme Jesu, wird blind und in die Stadt geführt. Der Herr sendet Ananias; Saulus wird wieder sehend, lässt sich taufen und wird gestärkt.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -854,38 +938,48 @@
         "Und er befahl, dass sie getauft würden im Namen des Herrn. Da baten sie ihn, etliche Tage zu bleiben. (10:48)."
       ],
       "crossRefs": [
-        "3. Mose 11: Reine und unreine Tiere (Hintergrund zu Petrus’ Vision).",
-        "Apostelgeschichte 11,12: Der Geist weist Petrus an, ohne Bedenken mitzugehen.",
-        "Lukas 7,1–10: Ein gottesfürchtiger Hauptmann, der Hilfe sucht (früheres Evangelium)."
+        "Levitikus 11: Reine und unreine Tiere (Hintergrund für das Gesicht des Petrus).",
+        "Apostelgeschichte 11:12: Der Geist weist Petrus an, ohne Zögern mitzugehen.",
+        "Lukas 7:1-10: Ein Hauptmann, der Gott fürchtet und Hilfe sucht (frühere Begebenheit im Evangelium)."
       ],
       "translationNotes": [
         {
           "term": "Hauptmann / Kohorte",
           "original": "Hebrew: קֶנְטוּרִיוֹן (form) / שֶׁלֶם (cohort, sense), Greek: κεντυρίων / σπεῖρα (kentyrίōn / speῖra), Aramaic: קַנְטוּרְיוֹנָא / אֻסְטְרָטָא (unit)",
-          "note": "Offizier über etwa 100 Soldaten; „Italische Kohorte“ ist die Einheitsbezeichnung (10,1)."
+          "note": "Offizier über etwa 100 Soldaten; „die Italische Schar“ ist die Bezeichnung der Einheit (10,1)."
         },
         {
           "term": "Gottesfürchtiger",
           "original": "Hebrew: יְרֵא אֱלֹהִים (yərēʾ ʾĕlōhiym), Greek: φοβούμενος τὸν θεόν (phoboύmenos tὸn theόn), Aramaic: דָּחֵיל מִן־אֱלָהָא (דָּחֵיל מִן־אֱלָהָא)",
-          "note": "Nichtjüdischer Anbeter des Gottes Israels (10,2)."
+          "note": "Ein Heide, der den Gott Israels verehrt (10,2)."
         },
         {
           "term": "Gemein / unrein",
           "original": "Hebrew: חֹל / טָמֵא (ḥōl / ṭāmēʾ, sense), Greek: κοινός / ἀκάθαρτος (koinόs / ἀkάthartos), Aramaic: חֻלִּין / טָמֵא (חֻלִּין / טָמֵא)",
-          "note": "Paarweise Begriffe in Petrus’ Vision und Aussage (10,14–28)."
+          "note": "Begriffspaar im Gesicht des Petrus und in seiner Aussage (10,14-28)."
         },
         {
           "term": "Verzückung",
           "original": "Hebrew: תַּרְדֵּמָה (tarədēmāh, sense), Greek: ἔκστασις (ἔkstasis), Aramaic: תַּרְדֵּמָא (תַּרְדֵּמָא, sense)",
-          "note": "Zustand, in dem Petrus die Vision sieht (10,10)."
+          "note": "Zustand, in dem Petrus das Gesicht sieht (10,10)."
         },
         {
           "term": "Neunte / sechste Stunde",
           "original": "Hebrew: הַשָּׁעָה הַתְּשִׁיעִית / הַשָּׁעָה הַשִּׁשִּׁית (hašāʿāh hatəšiyʿiyt / hašāʿāh hašišiyt), Greek: ἡ ἔνατη / ἡ ἕκτη (ἡ ἔnatē / ἡ ἕktē), Aramaic: שָׁעָה תְּשִׁיעִיתָא / שָׁעָה שִ׬תָּאָה (שָׁעָה תְּשִׁיעִיתָא / שָׁעָה שִ׬תָּאָה)",
-          "note": "Etwa 15 Uhr (Vision des Kornelius) und Mittag (Gebet des Petrus) (10,3–9)."
+          "note": "Etwa 15 Uhr (das Gesicht des Kornelius) und Mittag (das Gebet des Petrus) (10,3-9)."
+        },
+        {
+          "term": "Dritte / sechste / neunte Stunde",
+          "original": "Greek: ὥρα τρίτη / ἕκτη / ἐνάτη (hora trite/hekte/enate)",
+          "note": "Der jüdische Tag war in zwölf Tagesstunden geteilt, die bei Sonnenaufgang begannen (gegen 6 Uhr). Die dritte Stunde ist etwa 9 Uhr, die sechste ist Mittag, die neunte ist 15 Uhr. Jesus wird zur dritten Stunde gekreuzigt (Markus 15,25); zur sechsten kommt die Finsternis, zur neunten stirbt er."
+        },
+        {
+          "term": "Hauptmann",
+          "original": "Greek: ἑκατόνταρχος (hekatontarchos)",
+          "note": "Ein römischer Offizier, der eine „Zenturie“ von 80 bis 100 Soldaten befehligte; das Rückgrat der Legion. Die Hauptleute des Neuen Testaments werden durchweg positiv gezeichnet: der, dessen Knecht Jesus heilt (Matthäus 8,5), Kornelius (Apostelgeschichte 10) und der Hauptmann am Kreuz, der bekennt: „Wahrhaftig, dieser Mensch war Gottes Sohn“ (Markus 15,39)."
         }
       ],
-      "keyTakeaway": "Ein gottesfürchtiger Hauptmann wird zu Petrus gewiesen; Petrus empfängt eine dreimal wiederholte Vision über das, was gemein oder unrein heißt, und begibt sich zum Haus des Kornelius, um zu hören, warum er gerufen wurde.",
+      "keyTakeaway": "Ein gottesfürchtiger Hauptmann wird zu Petrus gewiesen; Petrus sieht ein dreimal wiederholtes Gesicht über das, was gemein und unrein heißt, und geht in das Haus des Kornelius, um zu hören, warum man ihn gerufen hat.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -944,28 +1038,28 @@
         "das taten sie auch und sandten sie an die Ältesten durch die Hand von Barnabas und Saulus. (11:30)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 1,5: [J]„Ihr werdet mit dem Heiligen Geist getauft werden.“[/J]",
-        "Apostelgeschichte 2,1–4: Am Anfang fällt der Geist auf die versammelten Gläubigen.",
-        "Galater 2,7–9: Anerkennung der Missionsbereiche unter den Aposteln."
+        "Apostelgeschichte 1:5: [J]„Ihr aber sollt mit Heiligem Geist getauft werden.“[/J]",
+        "Apostelgeschichte 2:1-4: Am Anfang fällt der Geist auf die versammelten Gläubigen.",
+        "Galater 2:7-9: Anerkennung der Wirkungsbereiche unter den Aposteln."
       ],
       "translationNotes": [
         {
           "term": "Die aus der Beschneidung",
           "original": "Hebrew: אַנְשֵׁי הַמִּילָה (ʾanəšēy hamiylāh, sense), Greek: οἱ ἐκ περιτομῆς (oἱ ἐk peritomῆs), Aramaic: דְּבֵי גְזֵירְתָא (דְּבֵי גְזֵירְתָא, sense)",
-          "note": "Gruppe in Jerusalem, die mit Petrus über seine Tischgemeinschaft streitet (11,2–3)."
+          "note": "Die Gruppe in Jerusalem, die Petrus die Tischgemeinschaft vorwirft (11,2-3)."
         },
         {
-          "term": "Ohne Bedenken / ohne Unterschied",
+          "term": "Keinen Unterschied machen / ohne Zögern",
           "original": "Hebrew: הִבְדִּיל (hibədiyl, sense), Greek: διακρίνειν (diakrίnein), Aramaic: פְּלוּג (פְּלוּג, sense)",
-          "note": "Anweisung des Geistes an Petrus, die Männer zu begleiten (11,12)."
+          "note": "Die Anweisung des Geistes an Petrus, die Männer zu begleiten (11,12)."
         },
         {
-          "term": "Buße zum Leben",
+          "term": "Die Buße zum Leben",
           "original": "Hebrew: תְּשׁוּבָה לְחַיִּים (təšwbāh ləḥayiym, sense), Greek: μετάνοια εἰς ζωήν (metάnoia eἰs zōήn), Aramaic: תֵּיבוּתָא לְחַיֵּי (תֵּיבוּתָא לְחַיֵּי)",
-          "note": "Ausdruck für das, was Gott den Heiden gewährt hat (11,18)."
+          "note": "Wendung, die anerkennt, was Gott den Heiden gewährt hat (11,18)."
         }
       ],
-      "keyTakeaway": "Petrus schildert seine Vision und die Ausgießung des Geistes auf Heiden; die Gläubigen in Jerusalem preisen Gott, dass auch den Heiden die Buße zum Leben geschenkt wurde.",
+      "keyTakeaway": "Petrus erzählt sein Gesicht und die Gabe des Geistes an die Heiden; die Gläubigen in Jerusalem preisen Gott, dass auch den Heiden die Buße zum Leben gegeben ist.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1011,28 +1105,33 @@
         "Und Barnabas und Saulus kehrten von Jerusalem zurück, nachdem sie die Hilfeleistung ausgerichtet hatten, und nahmen auch Johannes mit dem Beinamen Markus mit sich. (12:25)."
       ],
       "crossRefs": [
-        "2. Mose 12,17: Tage der Ungesäuerten Brote (Festzeitrahmen).",
-        "Psalm 34,7: Der Engel des HERRN lagert sich um die, die ihn fürchten.",
-        "Apostelgeschichte 4,24: Die Gemeinde betet inständig in der Not."
+        "Exodus 12:17: Die Tage der ungesäuerten Brote (Festzeit).",
+        "Psalmen 34:7: Der Engel des HERRN lagert sich um die her, die ihn fürchten.",
+        "Apostelgeschichte 4:24: Die Gemeinde betet inständig in der Not."
       ],
       "translationNotes": [
         {
           "term": "Herodes (Agrippa I.)",
           "original": "Hebrew: הוֹרוֹדֵס אַגְרִיפָּס (hwōrwōdēs ʾagəriypās), Greek: Ἡρῴδης Ἀγρίππας (Ἡrῴdēs Ἀgrίppas), Aramaic: הֵירוֹדֵיס אַגְרִיפָּס (הֵירוֹדֵיס אַגְרִיפָּס)",
-          "note": "Enkel Herodes des Großen; König über Judäa 41–44 n. Chr. (12,1)."
+          "note": "Enkel Herodes des Großen; König über Judäa 41-44 n. Chr. (12,1)."
         },
         {
           "term": "Ungesäuerte Brote",
           "original": "Hebrew: חַג הַמַּצּוֹת (ḥag hamaṣwōt), Greek: ἡ ἑορτὴ τῶν ἀζύμων (ἡ ἑortὴ tῶn ἀzύmōn), Aramaic: חַגַּא דְּפִּתִּירֵי (חַגַּא דְּפִּתִּירֵי)",
-          "note": "Fest nach Pessach; bildet den Rahmen für Petrus’ Verhaftung (12,3)."
+          "note": "Das Fest, das auf das Passah folgt; es rahmt die Verhaftung des Petrus (12,3)."
         },
         {
-          "term": "Engel des Herrn",
+          "term": "Der Engel des Herrn",
           "original": "Hebrew: מַלְאַךְ יְהוָה (maləʾakə yəhwāh), Greek: ἄγγελος Κυρίου (ἄggelos Kyrίou), Aramaic: מַלְאָכָא דַּי־יָי (מַלְאָכָא דַּי־יָי)",
-          "note": "Himmlischer Bote, der Petrus befreit und später Herodes schlägt (12,7–23)."
+          "note": "Himmlischer Bote, der Petrus befreit und später Herodes schlägt (12,7-23)."
+        },
+        {
+          "term": "Das Stadttor",
+          "original": "Hebrew: שַׁעַר (sha'ar)",
+          "note": "Weit mehr als ein Eingang; der öffentliche Platz, an dem die Ältesten Rechtsfälle verhandelten, Verträge bezeugt, Marktgeschäfte abgewickelt und Nachrichten ausgetauscht wurden. „Im Tor sitzen“ (Genesis 19,1; Ruth 4,1-11; Sprüche 31,23) bezeichnet bürgerliche Vollmacht und reges Gemeinschaftsleben."
         }
       ],
-      "keyTakeaway": "Jakobus wird getötet; Petrus wird wunderbar aus dem Gefängnis befreit; Herodes Agrippa I. wird gerichtet; das Wort Gottes breitet sich aus.",
+      "keyTakeaway": "Jakobus wird getötet; Petrus wird auf wunderbare Weise aus dem Gefängnis befreit; Herodes Agrippa I. wird geschlagen; das Wort Gottes wächst.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1109,28 +1208,38 @@
         "Die Jünger aber wurden voll Freude und Heiligen Geistes. (13:52)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 9,17: Saulus mit dem Heiligen Geist erfüllt.",
-        "2. Mose 7,11–12: Zauberer leisten Widerstand (Kontrastszene).",
-        "Apostelgeschichte 14,26: Rückkehr nach Antiochien vom Werk, zu dem sie empfohlen worden waren."
+        "Apostelgeschichte 9:17: Saulus wird mit dem Heiligen Geist erfüllt.",
+        "Exodus 7:11-12: Zauberer treten entgegen (Gegenszene).",
+        "Apostelgeschichte 14:26: Rückkehr nach Antiochia von dem Werk, zu dem man sie ausgesandt hatte."
       ],
       "translationNotes": [
         {
-          "term": "Aussondern / Hände auflegen",
+          "term": "Aussondern / die Hände auflegen",
           "original": "Hebrew: הַבְדִּילוּ / סָמַךְ יָדַיִם (habədiylw / sāmakə yādayim), Greek: ἀφορίσατε / ἐπιτιθέναι χεῖρας (ἀphorίsate / ἐpitithέnai cheῖras), Aramaic: אַפְרֵישׁוּ / סָמַךְ יְדַיִן (אַפְרֵישׁוּ / סָמַךְ יְדַיִן)",
-          "note": "Beauftragungssprache und -geste für die Aussendung (13,2–3)."
+          "note": "Sprache und Geste der Einsetzung für die Aussendung (13,2-3)."
+        },
+        {
+          "term": "Barjesus / Elymas",
+          "original": "Hebrew: בַּר־יֵשׁוּעַ / אֵילוּמַס (form), Greek: Βαριησοῦς / Ἐλύμας (Bariēsoῦs / Ἐlύmas), Aramaic: בַּר־יֵשׁוּעַ / עֵילוּמָא (בַּר־יֵשׁוּעַ / עֵילוּמָא)",
+          "note": "„Barjesus“ bedeutet „Sohn des Josua/Jesus“; Elymas wird ein μάγος (Zauberer) genannt (13,6-8)."
+        },
+        {
+          "term": "Sabbat",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "Der siebte Tag, durch Gottes Gebot ausgesondert (Exodus 20,8-11). Alle Arbeit ruhte von Sonnenuntergang am Freitag bis Sonnenuntergang am Samstag. Zur Zeit Jesu hatte die rabbinische Überlieferung 39 Kategorien verbotener Arbeit ausgearbeitet; viele Heilungen Jesu forderten diese zusätzlichen Regeln bewusst heraus, ohne das Gebot der Torah selbst zu verletzen."
+        },
+        {
+          "term": "Tetrarch (Vierfürst)",
+          "original": "Greek: τετράρχης (tetrarches)",
+          "note": "Wörtlich „Herrscher über ein Viertel“; ein römischer Klientelherrscher über einen Teil eines früheren Königreichs. Das Gebiet Herodes des Großen wurde nach seinem Tod unter drei seiner Söhne aufgeteilt; Herodes Antipas, Tetrarch von Galiläa und Peräa, ist der Herodes, der Johannes den Täufer hinrichten lässt (Matthäus 14,1) und Jesus vor seiner Kreuzigung verspottet (Lukas 23,7-11)."
         },
         {
           "term": "Prokonsul",
-          "original": "Hebrew: פְּרוֹקוֹנְסוּל (loan), Greek: ἀνθύπατος (ἀnthύpatos), Aramaic: אֲנְתוּפָּטוֹס (אֲנְתוּפָּטוֹס)",
-          "note": "Römischer Statthalter einer senatorischen Provinz; Sergius Paulus (13,7)."
-        },
-        {
-          "term": "Bar-Jesus / Elymas",
-          "original": "Hebrew: בַּר־יֵשׁוּעַ / אֵילוּמַס (form), Greek: Βαριησοῦς / Ἐλύμας (Bariēsoῦs / Ἐlύmas), Aramaic: בַּר־יֵשׁוּעַ / עֵילוּמָא (בַּר־יֵשׁוּעַ / עֵילוּמָא)",
-          "note": "„Bar-Jesus“ bedeutet „Sohn des Josua/Jesus“; Elymas wird ein Zauberer (magos) genannt (13,6–8)."
+          "original": "Greek: ἀνθύπατος (anthypatos)",
+          "note": "Römischer Statthalter einer senatorischen Provinz; also einer Provinz, die ruhig genug war, um vom Senat und nicht unmittelbar vom Kaiser verwaltet zu werden. Die Apostelgeschichte nennt zwei: Sergius Paulus auf Zypern (Apostelgeschichte 13,7) und Gallio in Achaja (Apostelgeschichte 18,12). Die Genauigkeit des Lukas bei diesen Amtstiteln ist einer der stärksten geschichtlichen Anker der Apostelgeschichte."
         }
       ],
-      "keyTakeaway": "Der Geist sondert Barnabas und Saulus aus; auf Zypern wird Elymas blind und Sergius Paulus glaubt.",
+      "keyTakeaway": "Der Geist sondert Barnabas und Saulus aus; auf Zypern wird Elymas blind, und Sergius Paulus kommt zum Glauben.",
       "headings": [
         {
           "beforeVerse": 3,
@@ -1183,33 +1292,33 @@
         "Sie verbrachten aber dort eine nicht geringe Zeit mit den Jüngern. (14:28)."
       ],
       "crossRefs": [
-        "1. Mose 1,1; Psalm 146,6: „Himmel und Erde gemacht“ (Schöpfungsberufung).",
-        "1. Thessalonicher 1,9: Umkehr zu Gott von den Götzen (späteres Echo).",
-        "Apostelgeschichte 20,17: Älteste in der Gemeinde (Leitung)."
+        "Genesis 1:1; Psalmen 146:6: „Der Himmel und Erde gemacht hat“ (Berufung auf den Schöpfer).",
+        "1. Thessalonicher 1:9: Sich von den Götzen zu Gott bekehren (späterer Widerhall).",
+        "Apostelgeschichte 20:17: Älteste in der Gemeinde (Leitung)."
       ],
       "translationNotes": [
         {
           "term": "Lykaonische Sprache",
           "original": "Hebrew: לְשׁוֹן לוּקָאוֹנִי (form), Greek: τῇ Λυκαονιστὶ (tῇ Lykaonistὶ), Aramaic: לִשָּׁנָא דְּלוּקָאוֹנָא (לִשָּׁנָא דְּלוּקָאוֹנָא)",
-          "note": "Landessprache der Menge in Lystra (14,11)."
+          "note": "Die Landessprache, welche die Menge in Lystra gebraucht (14,11)."
         },
         {
           "term": "Zeus / Hermes",
           "original": "Hebrew: זְאוּס / הֶרְמֵס (forms), Greek: Ζεύς / Ἑρμῆς (Zeύs / Ἑrmῆs), Aramaic: זֵיוּס / הֵרְמֵיס (זֵיוּס / הֵרְמֵיס)",
-          "note": "Griechische Gottheiten; Barnabas und Paulus werden irrtümlich mit ihnen identifiziert (14,12–13)."
+          "note": "Griechische Gottheiten; Barnabas und Paulus werden irrtümlich mit ihnen gleichgesetzt (14,12-13)."
         },
         {
           "term": "Älteste einsetzen",
           "original": "Hebrew: הִשְׁקוֹן זְקֵנִים (hišəqwōn zəqēniym, sense), Greek: χειροτονήσαντες πρεσβυτέρους (cheirotonήsantes presbytέrous), Aramaic: אַקִּימוּ סָבֵי (אַקִּימוּ סָבֵי)",
-          "note": "Leitung in jeder Gemeinde mit Gebet und Fasten eingesetzt (14,23)."
+          "note": "In jeder Gemeinde wird die Leitung unter Gebet und Fasten eingesetzt (14,23)."
         },
         {
           "term": "Tür des Glaubens",
           "original": "Hebrew: פֶּתַח אֱמוּנָה (petaḥ ʾĕmwnāh, sense), Greek: θύραν πίστεως (thύran pίsteōs), Aramaic: תַּרְעָא דְּהֵימָנוּתָא (תַּרְעָא דְּהֵימָנוּתָא)",
-          "note": "Ausdruck für Gottes Eröffnung des Zugangs für die Heiden (14,27)."
+          "note": "Ausdruck dafür, dass Gott den Heiden den Zugang geöffnet hat (14,27)."
         }
       ],
-      "keyTakeaway": "Die Mission in Ikonium, Lystra und Derbe bringt Glauben, Missverständnisse, Feindschaft und Beharrlichkeit; Älteste werden eingesetzt, und in Antiochien wird Bericht erstattet über eine geöffnete Tür für die Heiden.",
+      "keyTakeaway": "Der Dienst in Ikonium, Lystra und Derbe bringt Glauben, Missverständnis, Feindschaft und Ausdauer; Älteste werden eingesetzt, und in Antiochia wird berichtet, dass den Heiden eine Tür geöffnet ist.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1265,7 +1374,6 @@
         "Und als sie es gelesen hatten, freuten sie sich über den Trost. (15:31).",
         "Und Judas und Silas, die selbst auch Propheten waren, ermahnten die Brüder mit vielen Worten und stärkten sie. (15:32).",
         "Und nachdem sie einige Zeit dort zugebracht hatten, wurden sie von den Brüdern mit Frieden zu den Aposteln zurückgesandt. (15:33).",
-        "Silas aber beschloss, dort zu bleiben. (15:34).",
         "Paulus und Barnabas hielten sich aber in Antiochia auf und lehrten und verkündigten zusammen mit noch vielen anderen das Wort des Herrn. (15:35).",
         "Nach etlichen Tagen aber sprach Paulus zu Barnabas: Lass uns wieder umkehren und in all den Städten, in denen wir das Wort des Herrn verkündigt haben, nach unseren Brüdern sehen, wie es um sie steht! (15:36).",
         "Barnabas aber riet dazu, den Johannes, der Markus genannt wird, mitzunehmen. (15:37).",
@@ -1274,11 +1382,11 @@
         "Paulus aber wählte sich Silas und zog aus, von den Brüdern der Gnade Gottes anbefohlen. (15:40).",
         "Und er durchzog Syrien und Cilicien und stärkte die Gemeinden. (15:41)."
       ],
-      "keyTakeaway": "Das Jerusalemer Konzil beschließt, von heidnischen Gläubigen keine Beschneidung zu fordern, und sendet einen Brief mit vier Enthaltsamkeitsregeln für die Gemeinschaft.",
+      "keyTakeaway": "Das Apostelkonzil in Jerusalem beschließt, von den Gläubigen aus den Heiden die Beschneidung nicht zu fordern, und sendet einen Brief mit vier Enthaltungen für die Gemeinschaft.",
       "crossRefs": [
-        "1. Mose 17,9–14: Beschneidung als Zeichen des Bundes mit Abraham.",
-        "Amos 9,11–12: Völker, die mit Gottes Namen gerufen sind (von Jakobus zitiert).",
-        "3. Mose 17–18: Vorschriften über Blut und Götzendienst/Unzucht (Hintergrund)."
+        "Genesis 17:9-14: Die Beschneidung wird Abraham und seinen Nachkommen gegeben.",
+        "Amos 9:11-12: Völker, die nach Gottes Namen genannt sind (von Jakobus zitiert).",
+        "Levitikus 17-18: Bestimmungen über Blut sowie über Götzendienst und Unzucht (Hintergrund)."
       ],
       "manuscriptVariants": [
         {
@@ -1287,29 +1395,44 @@
         },
         {
           "ref": "Acts 15:34",
-          "text": "Einige spätere Handschriften fügen hier einen Vers 34 ein: „Silas aber beschloss, dort zu bleiben.“ Er fehlt im Sinaiticus, Vaticanus und Alexandrinus. Schreiber scheinen ihn eingefügt zu haben, um die Erzählung mit V. 40 in Einklang zu bringen, wo Paulus Silas als Gefährten erwählt; eine Wahl, die einer Erklärung bedurfte, wenn Silas bereits in V. 33 nach Jerusalem zurückgekehrt war."
+          "text": "Einige spätere Handschriften fügen hier einen Vers 34 ein: „Es gefiel aber dem Silas, dort zu bleiben.“ Er fehlt im Sinaiticus, im Vaticanus und im Alexandrinus. Schreiber haben ihn offenbar eingefügt, um die Erzählung mit Vers 40 in Einklang zu bringen, wo Paulus den Silas zum Gefährten wählt; diese Wahl brauchte eine Erklärung, wenn Silas in Vers 33 schon nach Jerusalem zurückgekehrt war."
         }
       ],
       "translationNotes": [
         {
           "term": "Beschneidung",
           "original": "Hebrew: מִילָה (miylāh), Greek: περιτομή (peritomή), Aramaic: מִילָה (מִילָה)",
-          "note": "Bundeszeichen aus 1. Mose 17; die Frage ist, ob Heiden es empfangen müssen, um gerettet zu werden (15,1–5)."
+          "note": "Bundeszeichen aus Genesis 17; die Frage ist, ob Heiden es empfangen müssen, um gerettet zu werden (15,1-5)."
         },
         {
-          "term": "Befleckung durch Götzen (Götzenopferfleisch)",
+          "term": "Durch Götzen befleckt (Götzenopferspeise)",
           "original": "Hebrew: זִבְחֵי אֱלִילִים (zibəḥēy ʾĕliyliym, sense), Greek: εἰδωλοθύτων (eἰdōlothύtōn), Aramaic: דַּכְפֵי לְצַלְמַנְיָא (דַּכְפֵי לְצַלְמַנְיָא, sense)",
-          "note": "Mit Götzendienst verbundene Speise; unter den Enthaltungen aufgeführt (15,20–29)."
+          "note": "Speise, die mit Götzenopfern zusammenhängt; sie steht unter den Enthaltungen (15,20-29)."
         },
         {
-          "term": "Ersticktes / Blut",
+          "term": "Erstickt / Blut",
           "original": "Hebrew: נֶחֱנָק / דָּם (neḥĕnāq / dām), Greek: πνικτόν / αἷμα (pniktόn / aἷma), Aramaic: מֶחְנָק / דַּמָא (מֶחְנָק / דַּמָא)",
-          "note": "Nicht ausgeblutete (erstickte) Tiere und der Verzehr von Blut werden im Brief verboten (15,20–29)."
+          "note": "Tiere, die nicht ausgeblutet sind (erstickt), und der Genuss von Blut werden im Brief untersagt (15,20-29)."
         },
         {
-          "term": "Es hat dem Heiligen Geist und uns gefallen",
+          "term": "Es hat dem Heiligen Geist und uns gut geschienen",
           "original": "Hebrew: נִרְאָה טוֹב לְרוּחַ הַקֹּדֶשׁ וְלָנוּ (nirəʾāh ṭwōb lərwḥa haqōdeš wəlānw, sense), Greek: ἔδοξεν τῷ ἁγίῳ πνεύματι καὶ ἡμῖν (ἔdoxen tῷ ἁgίῳ pneύmati kaὶ ἡmῖn), Aramaic: שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא (שְׁפִיר אֶתְחֲזֵי לְרוּחָא קַדִּישָׁא וְלַנָּא)",
-          "note": "Formulierung des Briefes über die Quelle der Entscheidung (15,28)."
+          "note": "Der Wortlaut des Briefes über die Quelle der Entscheidung (15,28)."
+        },
+        {
+          "term": "Sabbat",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "Der siebte Tag, durch Gottes Gebot ausgesondert (Exodus 20,8-11). Alle Arbeit ruhte von Sonnenuntergang am Freitag bis Sonnenuntergang am Samstag. Zur Zeit Jesu hatte die rabbinische Überlieferung 39 Kategorien verbotener Arbeit ausgearbeitet; viele Heilungen Jesu forderten diese zusätzlichen Regeln bewusst heraus, ohne das Gebot der Torah selbst zu verletzen."
+        },
+        {
+          "term": "Pharisäer",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Eine Erneuerungsbewegung von Laien, die auf strenge Befolgung der geschriebenen Torah UND einer mündlichen Überlieferung drang (der „Überlieferung der Ältesten“). Sie glaubte an die leibliche Auferstehung, an Engel und an einen kommenden Messias. Paulus war Pharisäer (Philipper 3,5); Jesu schärfste Auseinandersetzungen wurden meist mit dieser Gruppe geführt, obwohl er viele ihrer Grundüberzeugungen teilte."
+        },
+        {
+          "term": "Samaria",
+          "original": "Hebrew: שֹׁמְרוֹן (Shomron)",
+          "note": "Das zentrale Bergland zwischen Judäa und Galiläa; von 880 v. Chr. bis zur assyrischen Deportation 722 v. Chr. Hauptstadt des Nordreiches Israel. Die Nachkommen der gemischten Bevölkerung, die dort zurückblieb, die „Samariter“, galten den Judäern als volklich und religiös unrein. Dass Jesus seinen Weg durch Samaria nahm (Johannes 4) und einen Samariter zum Helden seines Gleichnisses machte (Lukas 10), stellt dieses Vorurteil bewusst auf den Kopf."
         }
       ],
       "headings": [
@@ -1380,28 +1503,33 @@
         "Da verließen sie das Gefängnis und begaben sich zu Lydia; und als sie die Brüder sahen, trösteten sie sie und zogen fort. (16:40)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 15,28–29: Beschlüsse aus Jerusalem, den Gemeinden überbracht.",
-        "1. Korinther 9,19–23: Den Juden ein Jude werden, um Juden zu gewinnen (Dienstkontext).",
-        "2. Korinther 2,12–13: Troas und Sprache der offenen Tür (spätere Erwähnung)."
+        "Apostelgeschichte 15:28-29: Die Beschlüsse aus Jerusalem werden den Gemeinden überbracht.",
+        "1. Korinther 9:19-23: Den Juden ein Jude werden, um Juden zu gewinnen (Zusammenhang des Dienstes).",
+        "2. Korinther 2:12-13: Troas und die Rede von der offenen Tür (späterer Verweis)."
       ],
       "translationNotes": [
         {
           "term": "Beschnitten (Timotheus)",
           "original": "Hebrew: מוּל (mwl), Greek: περιτέμνειν (peritέmnein), Aramaic: מָל (מָל)",
-          "note": "Wegen der örtlichen jüdischen Zuhörer getan, nicht als Heilsvoraussetzung (16,3)."
+          "note": "Es geschieht wegen der jüdischen Hörer vor Ort, nicht als Bedingung der Rettung (16,3)."
         },
         {
-          "term": "Geist Jesu",
+          "term": "Der Geist Jesu",
           "original": "Hebrew: רוּחַ יֵשׁוּעַ (rwḥa yēšwʿa, sense), Greek: τὸ πνεῦμα Ἰησοῦ (tὸ pneῦma Ἰēsoῦ), Aramaic: רוּחֵהּ דְּיֵשׁוּע (רוּחֵהּ דְּיֵשׁוּע)",
-          "note": "Bezeichnung des Lukas für die lenkende Gegenwart, die den Eintritt nach Bithynien verhindert (16,7)."
+          "note": "Die Wendung des Lukas für die leitende Gegenwart, die den Weg nach Bithynien verwehrt (16,7)."
         },
         {
-          "term": "Wir (erste Person Plural)",
+          "term": "Wir (erste Person Mehrzahl)",
           "original": "Hebrew: אֲנַחְנוּ (ʾănaḥənw, sense), Greek: ἡμεῖς (ἡmeῖs), Aramaic: אֲנַחְנָא (אֲנַחְנָא)",
-          "note": "Erzählwechsel, der die Teilnahme des Autors ab Troas anzeigt (16,10)."
+          "note": "Wechsel in der Erzählung, der von Troas an die Beteiligung des Verfassers anzeigt (16,10)."
+        },
+        {
+          "term": "Sabbat",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "Der siebte Tag, durch Gottes Gebot ausgesondert (Exodus 20,8-11). Alle Arbeit ruhte von Sonnenuntergang am Freitag bis Sonnenuntergang am Samstag. Zur Zeit Jesu hatte die rabbinische Überlieferung 39 Kategorien verbotener Arbeit ausgearbeitet; viele Heilungen Jesu forderten diese zusätzlichen Regeln bewusst heraus, ohne das Gebot der Torah selbst zu verletzen."
         }
       ],
-      "keyTakeaway": "Timotheus wird hinzugefügt und für den Dienst unter Juden beschnitten; die Entscheidungen Jerusalems werden überbracht; vom Geist geleitet, werden sie nach Mazedonien gerufen.",
+      "keyTakeaway": "Timotheus kommt hinzu und lässt sich um des Dienstes unter Juden willen beschneiden; die Beschlüsse aus Jerusalem werden überbracht; vom Geist geleitet, werden sie nach Mazedonien gerufen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1464,28 +1592,28 @@
         "Einige Männer aber schlossen sich ihm an und wurden gläubig, unter ihnen auch Dionysius, der ein Mitglied des Areopags war, und eine Frau namens Damaris, und andere mit ihnen. (17:34)."
       ],
       "crossRefs": [
-        "Lukas 24,26–27: Notwendigkeit, dass der Christus leidet und in seine Herrlichkeit eingeht (Schriftöffnung).",
-        "1. Thessalonicher 1,5–6: Annahme des Evangeliums inmitten von Bedrängnis.",
-        "2. Timotheus 3,15: Die heiligen Schriften, die weise machen können zur Rettung."
+        "Lukas 24:26-27: Die Notwendigkeit, dass der Christus leidet und in die Herrlichkeit eingeht (die Schriften werden aufgeschlossen).",
+        "1. Thessalonicher 1:5-6: Die Aufnahme des Evangeliums mitten in Bedrängnis.",
+        "2. Timotheus 3:15: Die heiligen Schriften können weise machen zur Rettung."
       ],
       "translationNotes": [
         {
           "term": "Ausgelegt / erklärt / bewiesen",
           "original": "Hebrew: דִּבֵּר / פֵּרֵשׁ / הוֹכִיחַ (dibēr / pērēš / hwōkiyḥa, sense), Greek: διελέξατο / διανοίγων / παρατιθέμενος (dielέxato / dianoίgōn / paratithέmenos), Aramaic: אִתְדַּבַּר / פְּשַׁר / אַכְחֵד (אִתְדַּבַּר / פְּשַׁר / אַכְחֵד, sense)",
-          "note": "Verben des Lukas für die Auslegung in der Synagoge anhand der Schriften (17,2–3)."
+          "note": "Die Verben des Lukas für das Argumentieren aus den Schriften in der Synagoge (17,2-3)."
         },
         {
-          "term": "Politarchen (Stadtoberste)",
+          "term": "Politarchen (Stadtobere)",
           "original": "Hebrew: שַׂרֵי־הָעִיר (šarēy-hāʿiyr, sense), Greek: πολιτάρχαι (politάrchai), Aramaic: רַבְרְבֵי מְדִינְתָּא (רַבְרְבֵי מְדִינְתָּא, sense)",
-          "note": "Titel für die Beamten in Thessalonich (17,6)."
+          "note": "Titel der Beamten in Thessalonich (17,6)."
         },
         {
           "term": "Bürgschaft",
           "original": "Hebrew: עֲרֻבָּה (ʿărubāh, sense), Greek: τὸ ἱκανόν (tὸ ἱkanόn), Aramaic: עֲרָבוּתָא (עֲרָבוּתָא)",
-          "note": "Geldsumme oder Sicherheit, die von Jason und den anderen genommen wird (17,9)."
+          "note": "Eine Summe oder Sicherheit, die von Jason und den anderen genommen wird (17,9)."
         }
       ],
-      "keyTakeaway": "In Thessalonich glauben einige, während Gegner einen Aufruhr verursachen und Jason Sicherheit leistet; in Beröa glauben viele nach täglicher Schriftprüfung; Paulus wird nach Athen gesandt.",
+      "keyTakeaway": "In Thessalonich kommen einige zum Glauben, während Gegner einen Aufruhr erregen und Jason Bürgschaft leistet; in Beröa kommen viele zum Glauben, nachdem sie täglich die Schriften geprüft haben; Paulus wird nach Athen geschickt.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1538,29 +1666,34 @@
         "Denn er widerlegte die Juden öffentlich mit großer Kraft, indem er durch die Schriften bewies, dass Jesus der Christus ist. (18:28)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 13,46: Hinwendung zu den Heiden.",
-        "1. Korinther 1,14: Paulus erwähnt die Taufe des Krispus.",
-        "Römer 16,3: Priszilla und Aquila gegrüßt.",
-        "1. Thessalonicher 3,6: Ankunft des Timotheus aus Mazedonien (Kontext der Mitarbeiter)."
+        "Apostelgeschichte 13:46: Die Hinwendung zu den Heiden.",
+        "1. Korinther 1:14: Paulus erwähnt, dass er Krispus getauft hat.",
+        "Römer 16:3: Priszilla und Aquila werden gegrüßt.",
+        "1. Thessalonicher 3:6: Die Ankunft des Timotheus aus Mazedonien (Zusammenhang der Mitarbeiter)."
       ],
       "translationNotes": [
         {
           "term": "Zeltmacher / Lederarbeiter",
           "original": "Hebrew: אוֹהֵל (craft sense), Greek: σκηνοποιός (skēnopoiόs), Aramaic: עָבֵיד מַשְׁכְּנֵי (עָבֵיד מַשְׁכְּנֵי, sense)",
-          "note": "Handwerk, das Paulus, Aquila und Priszilla teilen (18,3)."
-        },
-        {
-          "term": "Prokonsul",
-          "original": "Hebrew: נְצִיב (nəṣiyb, sense), Greek: ἀνθύπατος (ἀnthύpatos), Aramaic: אַנְתוּפָּטוֹס (אַנְתוּפָּטוֹס)",
-          "note": "Römischer Statthalter einer senatorischen Provinz; Gallio diente in Achaia (18,12)."
+          "note": "Das Handwerk, das Paulus, Aquila und Priszilla gemeinsam haben (18,3)."
         },
         {
           "term": "Richterstuhl",
           "original": "Hebrew: בֵּית דִּין / גַּבְלָא (bēyt diyn / gabəlāʾ, sense), Greek: βῆμα (bῆma), Aramaic: בֵּימָא (בֵּימָא)",
-          "note": "Öffentliche Richterplattform, an der Fälle verhandelt wurden (18,12–17)."
+          "note": "Die öffentliche Gerichtsbühne, auf der Fälle verhandelt wurden (18,12-17)."
+        },
+        {
+          "term": "Sabbat",
+          "original": "Hebrew: שַׁבָּת (shabbat); Greek: σάββατον (sabbaton)",
+          "note": "Der siebte Tag, durch Gottes Gebot ausgesondert (Exodus 20,8-11). Alle Arbeit ruhte von Sonnenuntergang am Freitag bis Sonnenuntergang am Samstag. Zur Zeit Jesu hatte die rabbinische Überlieferung 39 Kategorien verbotener Arbeit ausgearbeitet; viele Heilungen Jesu forderten diese zusätzlichen Regeln bewusst heraus, ohne das Gebot der Torah selbst zu verletzen."
+        },
+        {
+          "term": "Prokonsul",
+          "original": "Greek: ἀνθύπατος (anthypatos)",
+          "note": "Römischer Statthalter einer senatorischen Provinz; also einer Provinz, die ruhig genug war, um vom Senat und nicht unmittelbar vom Kaiser verwaltet zu werden. Die Apostelgeschichte nennt zwei: Sergius Paulus auf Zypern (Apostelgeschichte 13,7) und Gallio in Achaja (Apostelgeschichte 18,12). Die Genauigkeit des Lukas bei diesen Amtstiteln ist einer der stärksten geschichtlichen Anker der Apostelgeschichte."
         }
       ],
-      "keyTakeaway": "In Korinth arbeitet Paulus mit Aquila und Priscilla, viele glauben, darunter Krispus; Jesus spricht zu Paulus in einer Vision; Gallio lehnt es ab, den Fall zu urteilen, und Sosthenes wird geschlagen.",
+      "keyTakeaway": "In Korinth arbeitet Paulus mit Aquila und Priszilla; viele kommen zum Glauben, darunter Krispus; Jesus redet in einem Gesicht zu Paulus; Gallio weigert sich, den Fall zu entscheiden, und Sosthenes wird geschlagen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1626,33 +1759,38 @@
         "Und als er das gesagt hatte, entließ er die Versammlung. (19:41)."
       ],
       "crossRefs": [
-        "Lukas 3,3: Die Bußtaufe des Johannes (Hintergrund).",
-        "Apostelgeschichte 8,14–17: Empfang des Heiligen Geistes mit Handauflegung.",
-        "Markus 16,17–18: Zeichen, die Gläubige begleiten (Heilung/Austreibung)."
+        "Lukas 3:3: Die Taufe der Buße durch Johannes (Hintergrund).",
+        "Apostelgeschichte 8:14-17: Der Empfang des Heiligen Geistes unter Handauflegung.",
+        "Markus 16:17-18: Zeichen, die den Gläubigen folgen (Heilung und Austreibung)."
       ],
       "translationNotes": [
         {
-          "term": "Halle des Tyrannus",
+          "term": "Die Schule des Tyrannus",
           "original": "Hebrew: אוּלָם טִירַנּוֹס (ʾwlām ṭiyranwōs, sense), Greek: σχολὴ Τυράννου (scholὴ Tyrάnnou), Aramaic: בֵּית מִדְרָשָׁא דְטִירָנּוֹס (בֵּית מִדְרָשָׁא דְטִירָנּוֹס, sense)",
-          "note": "Ort in Ephesus, wo Paulus täglich lehrt (19,9)."
+          "note": "Der Ort in Ephesus, an dem Paulus täglich aus der Schrift redet (19,9)."
         },
         {
           "term": "Schweißtücher / Schürzen",
           "original": "Hebrew: מִטְפַּחוֹת / סִינָרִים (miṭəpaḥwōt / siynāriym, sense), Greek: σουδάρια / σιμικίνθια (soudάria / simikίnthia), Aramaic: סוּדָרִין / סִימִיכִינְתָּא (סוּדָרִין / סִימִיכִינְתָּא)",
-          "note": "Gegenstände von Paulus, die mit Heilungen in Verbindung gebracht werden (19,12)."
+          "note": "Gegenstände, die man von Paulus forttrug und mit denen Heilungen verbunden sind (19,12)."
         },
         {
           "term": "Silberstücke (Drachmen)",
           "original": "Hebrew: דְּרַכְמוֹן (dərakəmwōn, sense), Greek: δραχμαί (drachmaί), Aramaic: דַּרְכֵּי (דַּרְכֵּי)",
-          "note": "Geschätzter Wert der verbrannten Bücher: fünfzigtausend (19,19)."
+          "note": "Der geschätzte Wert der verbrannten Bücher: fünfzigtausend (19,19)."
         },
         {
-          "term": "Hoherpriester (Skevas)",
+          "term": "Oberpriester (Skevas)",
           "original": "Hebrew: כֹּהֵן רֹאשׁ (kōhēn rōʾš, sense), Greek: ἀρχιερεύς (ἀrchiereύs), Aramaic: רֵישׁ כָּהֲנֵא (רֵישׁ כָּהֲנֵא)",
-          "note": "Titel, der für Skevas in der Erzählung verwendet wird (19,14)."
+          "note": "Titel, der Skevas in der Erzählung gegeben wird (19,14)."
+        },
+        {
+          "term": "Drachme",
+          "original": "Greek: δραχμή (drachme)",
+          "note": "Eine griechische Silbermünze, ungefähr einem römischen Denar entsprechend; ein Tagelohn. Die verlorene Münze in Lukas 15,8 ist eine Drachme; die Mitgift einer Frau konnte aus zehn Drachmen bestehen, die als Kopfschmuck getragen wurden, und darum ist der Verlust einer einzigen so schmerzlich."
         }
       ],
-      "keyTakeaway": "In Ephesus empfangen Jünger den Heiligen Geist; das Wort verbreitet sich durch tägliche Lehrgespräche; Gott wirkt außergewöhnliche Wunder; der Name Jesu wird geehrt, und kostspielige Zauberbücher werden verbrannt.",
+      "keyTakeaway": "In Ephesus empfangen Jünger den Heiligen Geist; das Wort breitet sich durch tägliche Auslegung aus; Gott wirkt außergewöhnliche Taten; der Name Jesu wird geehrt, und kostbare Zauberbücher werden verbrannt.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1719,28 +1857,28 @@
         "am meisten betrübt über das Wort, das er gesagt hatte, dass sie sein Angesicht nicht mehr sehen würden. Und sie geleiteten ihn zum Schiff. (20:38)."
       ],
       "crossRefs": [
-        "Lukas 24,35; Apostelgeschichte 2,42: Brotbrechen unter Gläubigen vermerkt.",
-        "1. Korinther 16,8: Paulus’ Zeitplanung um Pfingsten erwähnt.",
-        "Apostelgeschichte 19,22; 21,29: Trophimus erscheint anderswo mit Paulus."
+        "Lukas 24:35; Apostelgeschichte 2:42: Das Brechen des Brotes wird unter den Gläubigen erwähnt.",
+        "1. Korinther 16:8: Die zeitliche Planung des Paulus um Pfingsten wird erwähnt.",
+        "Apostelgeschichte 19:22; 21:29: Trophimus tritt auch anderswo bei Paulus auf."
       ],
       "translationNotes": [
         {
-          "term": "Erster Tag der Woche",
+          "term": "Der erste Tag der Woche",
           "original": "Hebrew: יוֹם הָרִאשׁוֹן (ywōm hāriʾšwōn, sense), Greek: μιᾷ τῶν σαββάτων (miᾷ tῶn sabbάtōn), Aramaic: יוֹמָא קַדְמָאָה (יוֹמָא קַדְמָאָה, sense)",
-          "note": "Bezeichnung für den Tag der Versammlung in Troas, an dem sie das Brot brachen (20,7)."
+          "note": "Wendung für den Tag der Versammlung in Troas, an dem sie das Brot brachen (20,7)."
         },
         {
           "term": "Eutychus",
           "original": "Hebrew: אֵוְטִיכוֹס (translit.), Greek: Εὔτυχος (Eὔtychos), Aramaic: אוּטִיכוֹס (translit.)",
-          "note": "Name mit der Bedeutung „glücklich“; der junge Mann, der aus dem Fenster fiel (20,9–12)."
+          "note": "Ein Name, der „der Glückliche“ bedeutet; der junge Mann, der aus dem Fenster fiel (20,9-12)."
         },
         {
           "term": "Pfingsten",
           "original": "Hebrew: שָׁבוּעוֹת (šābwʿwōt), Greek: Πεντηκοστή (Pentēkostή), Aramaic: עַצַּרְתָּא (Shavuot/‘Fiftieth’)",
-          "note": "Festzeitpunkt, den Paulus in Jerusalem zu erreichen sucht (20,16)."
+          "note": "Das Fest, zu dem Paulus in Jerusalem sein will (20,16)."
         }
       ],
-      "keyTakeaway": "Paulus ermutigt die Gemeinden in Mazedonien und Griechenland; in Troas wird ein junger Mann namens Eutychus auferweckt, und Paulus reist auf dem Seeweg weiter mit dem Ziel, Jerusalem bis Pfingsten zu erreichen.",
+      "keyTakeaway": "Paulus stärkt die Gemeinden in Mazedonien und Griechenland, in Troas wird ein junger Mann namens Eutychus wiederhergestellt, und Paulus fährt weiter über See, um Jerusalem bis Pfingsten zu erreichen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1809,28 +1947,28 @@
         "Und als er ihm die Erlaubnis gab, stellte sich Paulus auf die Stufen und gab dem Volk ein Zeichen mit der Hand. Und als es ganz still geworden war, redete er sie in hebräischer Sprache an und sagte: (21:40)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 6,5: Philippus unter den Sieben.",
-        "Lukas 2,36: Prophetin an anderer Stelle erwähnt (prophetiebegabte Frauen).",
-        "1. Samuel 3,18: „Der HERR tue, was ihm gut scheint“ (Ergebung in Gottes Willen)."
+        "Apostelgeschichte 6:5: Philippus unter den Sieben.",
+        "Lukas 2:36: Eine Prophetin, andernorts erwähnt (Frauen, die weissagen).",
+        "1 Samuel 3:18: „Der HERR tue, was gut ist in seinen Augen“ (Ergebung in Gottes Willen)."
       ],
       "translationNotes": [
         {
           "term": "Evangelist",
           "original": "Hebrew: מְבַשֵּׂר (məbašēr), Greek: εὐαγγελιστής (eὐaggelistήs), Aramaic: מְסַבַּר בִּשׂוּרְתָא (מְסַבַּר בִּשׂוּרְתָא)",
-          "note": "Titel, der Philippus neben seiner Zugehörigkeit zu den Sieben gegeben wird (21,8)."
+          "note": "Titel, den Philippus zusätzlich dazu trägt, dass er einer der Sieben ist (21,8)."
         },
         {
           "term": "Prophet / prophetische Zeichenhandlung",
           "original": "Hebrew: נָבִיא / מוֹפֵת (nābiyʾ / mwōpēt), Greek: προφήτης / σημεῖον-πρᾶξις (prophήtēs / sēmeῖon-prᾶxis, sense), Aramaic: נְבִיאָ / אָתָא (נְבִיאָ / אָתָא)",
-          "note": "Agabus vollzieht eine Zeichenhandlung mit dem Gürtel des Paulus, um die Botschaft des Geistes zu vermitteln (21,10–11)."
+          "note": "Agabus vollzieht mit dem Gürtel des Paulus eine Zeichenhandlung, um die Botschaft des Geistes zu übermitteln (21,10-11)."
         },
         {
           "term": "Gürtel",
           "original": "Hebrew: אֵזוֹר (ʾēzwōr), Greek: ζώνη (zώnē), Aramaic: אֵזוֹרָא (אֵזוֹרָא)",
-          "note": "Gegenstand, den Agabus verwendet, um seine Hände und Füße zu binden (21,11)."
+          "note": "Der Gegenstand, mit dem Agabus sich selbst Hände und Füße bindet (21,11)."
         }
       ],
-      "keyTakeaway": "Auf dem Weg nach Jerusalem sprechen Gläubige in Tyrus und Cäsarea Warnungen aus; Agabus gibt eine Zeichenprophetie mit dem Gürtel des Paulus; Paulus ist entschlossen zu gehen, und sie vertrauen die Sache dem Willen des Herrn an.",
+      "keyTakeaway": "Auf dem Weg nach Jerusalem sprechen Gläubige in Tyrus und Cäsarea Warnungen aus; Agabus vollzieht mit dem Gürtel des Paulus eine Zeichenhandlung; Paulus bleibt bei seinem Entschluss zu gehen, und sie stellen die Sache dem Willen des Herrn anheim.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1885,33 +2023,43 @@
         "Da er aber mit Gewissheit erfahren wollte, weshalb er von den Juden angeklagt wurde, ließ er ihm am folgenden Tag die Fesseln abnehmen und befahl den obersten Priestern samt ihrem ganzen Hohen Rat, zu kommen; und er führte Paulus hinab und stellte ihn vor sie. (22:30)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 9,1–19: Früherer Bericht über die Begegnung in Damaskus.",
-        "Philipper 3,5–6: Hintergrund des Paulus an anderer Stelle genannt.",
-        "Apostelgeschichte 16,37–39: Römisches Bürgerrecht in Philippi geltend gemacht."
+        "Apostelgeschichte 9:1-19: Der frühere Bericht von der Begegnung bei Damaskus.",
+        "Philipper 3:5-6: Die Herkunft des Paulus, andernorts erwähnt.",
+        "Apostelgeschichte 16:37-39: Das römische Bürgerrecht wird in Philippi geltend gemacht."
       ],
       "translationNotes": [
         {
-          "term": "Hebräische Mundart (Aramäisch)",
+          "term": "Hebräische Sprache (Aramäisch)",
           "original": "Hebrew: לְשׁוֹן עִבְרִית (usage), Greek: τῇ Ἑβραΐδι διαλέκτῳ (tῇ Ἑbraΐdi dialέktῳ), Aramaic: לִשָּׁנָא עִבְרָאָה (לִשָּׁנָא עִבְרָאָה)",
-          "note": "Lukas' Formulierung bezieht sich üblicherweise auf Aramäisch, die gängige judäische Sprache jener Zeit (21,40–22,2)."
+          "note": "Die Wendung des Lukas bezeichnet in der Regel das Aramäische, die verbreitete Umgangssprache Judäas jener Zeit (21,40-22,2)."
         },
         {
           "term": "Sikarier",
           "original": "Hebrew: סִיקָרִים (loan), Greek: σικάριοι (sikάrioi), Aramaic: סִיקָרָיֵא (סִיקָרָיֵא)",
-          "note": "Dolchmänner; eine gewaltbereite Gruppe, die in der Frage des Tribuns über einen ägyptischen Anführer erwähnt wird (21,38)."
+          "note": "Dolchmänner; eine gewalttätige Gruppe, die in der Frage des Obersten nach einem ägyptischen Anführer erwähnt wird und die diese Übersetzung in 21,38 Meuchelmörder nennt (21,38)."
         },
         {
           "term": "Römischer Bürger",
           "original": "Hebrew: אֶזְרָח רוֹמִי (ʾezərāḥ rwōmiy, sense), Greek: Ῥωμαῖος πολίτης (Ῥōmaῖos polίtēs), Aramaic: בַּר פוֹלְחָן רוֹמָא (בַּר פוֹלְחָן רוֹמָא, sense)",
-          "note": "Rechtsstatus, der Paulus vor unrechtmäßiger Geißelung ohne Urteil schützt (22,25–29)."
+          "note": "Rechtsstellung, die Paulus vor einer Geißelung ohne Gerichtsverfahren schützt (22,25-29)."
         },
         {
-          "term": "Verhör unter Geißelung",
+          "term": "Verhör unter der Geißel",
           "original": "Hebrew: לִבְדּוֹק בְּשֹׁט (libədwōq bəšōṭ, sense), Greek: ἀνετάζεσθαι μαστίξιν (ἀnetάzesthai mastίxin), Aramaic: לְבַחֲנָא בְּמַגְלָא (לְבַחֲנָא בְּמַגְלָא)",
-          "note": "Römische Praxis der Informationsgewinnung durch Auspeitschung; wegen des Bürgerrechts eingestellt (22,24–29)."
+          "note": "Römische Übung, unter Geißelhieben Auskunft zu erzwingen; sie wird wegen des Bürgerrechts abgebrochen (22,24-29)."
+        },
+        {
+          "term": "Hauptmann",
+          "original": "Greek: ἑκατόνταρχος (hekatontarchos)",
+          "note": "Ein römischer Offizier, der eine „Zenturie“ von 80 bis 100 Soldaten befehligte; das Rückgrat der Legion. Die Hauptleute des Neuen Testaments werden durchweg positiv gezeichnet: der, dessen Knecht Jesus heilt (Matthäus 8,5), Kornelius (Apostelgeschichte 10) und der Hauptmann am Kreuz, der bekennt: „Wahrhaftig, dieser Mensch war Gottes Sohn“ (Markus 15,39)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
         }
       ],
-      "keyTakeaway": "Paulus spricht die Menge in hebräischer Sprache an, schildert seinen Werdegang und seine Begegnung mit Jesus, erwähnt seine Sendung zu den Heiden und beruft sich auf sein römisches Bürgerrecht, um der Untersuchung durch Geißelung zu entgehen.",
+      "keyTakeaway": "Paulus wendet sich in hebräischer Sprache an die Menge, erzählt seine Herkunft und seine Begegnung mit Jesus, erwähnt seine Sendung zu den Heiden und beruft sich auf sein römisches Bürgerrecht, um dem Verhör unter der Geißel zu entgehen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1971,33 +2119,58 @@
         "sprach er: Ich will dich verhören, wenn deine Ankläger auch eingetroffen sind! Und er befahl, ihn im Prätorium des Herodes zu bewachen. (23:35)."
       ],
       "crossRefs": [
-        "2. Mose 22,27: „Du sollst Gott nicht lästern und einen Obersten deines Volkes nicht verfluchen.“",
-        "Apostelgeschichte 9,15: Paulus als auserwähltes Werkzeug, den Namen vor Heiden und Könige zu tragen.",
-        "Philipper 1,12–13: Gefangenschaft, die zur Ausbreitung des Evangeliums führt (spätere Anmerkung)."
+        "Exodus 22:28: „Du sollst Gott nicht lästern und einem Obersten deines Volkes nicht fluchen.“",
+        "Apostelgeschichte 9:15: Paulus als auserwähltes Werkzeug, den Namen vor Heiden und Könige zu tragen.",
+        "Philipper 1:12-13: Die Gefangenschaft führt zum Fortschritt des Evangeliums (spätere Bemerkung)."
       ],
       "translationNotes": [
         {
-          "term": "Hoher Rat / Sanhedrin",
+          "term": "Hoher Rat / Ratsversammlung",
           "original": "Hebrew: סַנְהֶדְרִין / עֵדָה (sanəhedəriyn / ʿēdāh, sense), Greek: συνέδριον (synέdrion), Aramaic: סַנְהֶדְרִין (סַנְהֶדְרִין)",
-          "note": "Das versammelte jüdische Gremium, vor das Paulus gestellt wird (22,30) (23,1)."
+          "note": "Die versammelte jüdische Ratsversammlung, vor die Paulus gestellt wird (22,30) (23,1)."
         },
         {
           "term": "Sadduzäer / Pharisäer",
           "original": "Hebrew: צְדוּקִים / פְּרוּשִׁים (ṣədwqiym / pərwšiym), Greek: Σαδδουκαῖοι / Φαρισαῖοι (Saddoukaῖoi / Pharisaῖoi), Aramaic: צַדוּקָיֵא / פְּרִישָׁיֵא (צַדוּקָיֵא / פְּרִישָׁיֵא)",
-          "note": "Gruppen, die hinsichtlich der Auferstehung und der Existenz von Engeln/Geistern uneins sind (23,6–9)."
+          "note": "Gruppen, die über die Auferstehung und über das Dasein von Engeln und Geistern verschieden denken (23,6-9)."
         },
         {
           "term": "Lanzenträger (Dexiolaboi)",
           "original": "Hebrew: נוֹשְׂאֵי רֹמַח (nwōšəʾēy rōmaḥ, sense), Greek: δεξιολάβοι (dexiolάboi), Aramaic: נָטְלֵי רוּמְחֵין (נָטְלֵי רוּמְחֵין, sense)",
-          "note": "Teil der Begleiteskorte zusammen mit Soldaten und Reitern (23,23)."
+          "note": "Teil der Bedeckung neben Soldaten und Reitern (23,23)."
         },
         {
           "term": "Prätorium",
           "original": "Hebrew: פְּרֵטוֹרִיּוֹן (loan), Greek: πραιτώριον (praitώrion), Aramaic: פְּרַיְטוֹרִיוֹן (פְּרַיְטוֹרִיוֹן)",
-          "note": "Residenz des Statthalters, in der Paulus festgehalten wird (23,35)."
+          "note": "Der Amtssitz des Statthalters, in dem Paulus verwahrt wird (23,35)."
+        },
+        {
+          "term": "Dritte / sechste / neunte Stunde",
+          "original": "Greek: ὥρα τρίτη / ἕκτη / ἐνάτη (hora trite/hekte/enate)",
+          "note": "Der jüdische Tag war in zwölf Tagesstunden geteilt, die bei Sonnenaufgang begannen (gegen 6 Uhr). Die dritte Stunde ist etwa 9 Uhr, die sechste ist Mittag, die neunte ist 15 Uhr. Jesus wird zur dritten Stunde gekreuzigt (Markus 15,25); zur sechsten kommt die Finsternis, zur neunten stirbt er."
+        },
+        {
+          "term": "Hauptmann",
+          "original": "Greek: ἑκατόνταρχος (hekatontarchos)",
+          "note": "Ein römischer Offizier, der eine „Zenturie“ von 80 bis 100 Soldaten befehligte; das Rückgrat der Legion. Die Hauptleute des Neuen Testaments werden durchweg positiv gezeichnet: der, dessen Knecht Jesus heilt (Matthäus 8,5), Kornelius (Apostelgeschichte 10) und der Hauptmann am Kreuz, der bekennt: „Wahrhaftig, dieser Mensch war Gottes Sohn“ (Markus 15,39)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
+        },
+        {
+          "term": "Pharisäer",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Eine Erneuerungsbewegung von Laien, die auf strenge Befolgung der geschriebenen Torah UND einer mündlichen Überlieferung drang (der „Überlieferung der Ältesten“). Sie glaubte an die leibliche Auferstehung, an Engel und an einen kommenden Messias. Paulus war Pharisäer (Philipper 3,5); Jesu schärfste Auseinandersetzungen wurden meist mit dieser Gruppe geführt, obwohl er viele ihrer Grundüberzeugungen teilte."
+        },
+        {
+          "term": "Sadduzäer",
+          "original": "Greek: Σαδδουκαῖος (Saddoukaios)",
+          "note": "Die priesterlich-aristokratische Partei. Sie nahm allein die geschriebene Torah an und verwarf die mündliche Überlieferung. Sie leugnete Auferstehung, Engel und Geister (Apostelgeschichte 23,8). Sie beherrschte den Tempel und arbeitete umfassend mit Rom zusammen, um diese Macht zu behalten. Nach 70 n. Chr., als der Tempel zerstört wurde, um den sie sich sammelte, verschwand sie als Bewegung."
         }
       ],
-      "keyTakeaway": "Paulus' Verhör vor dem Rat spaltet Pharisäer und Sadduzäer; ein Anschlag auf sein Leben wird aufgedeckt; unter nächtlicher Eskorte wird er mit einem Brief an Statthalter Felix nach Cäsarea überstellt.",
+      "keyTakeaway": "Die Verhandlung des Paulus vor dem Hohen Rat entzweit Pharisäer und Sadduzäer; ein Anschlag auf sein Leben wird aufgedeckt; unter nächtlicher Bedeckung wird er mit einem Brief an den Statthalter Felix nach Cäsarea gebracht.",
       "headings": [
         {
           "beforeVerse": 11,
@@ -2022,7 +2195,6 @@
         "Damit ich dich aber nicht allzu sehr bemühe, bitte ich dich, uns in Kürze nach deiner Freundlichkeit anzuhören. (24:4).",
         "Wir haben nämlich diesen Mann als eine Pest befunden, als einen, der Aufruhr stiftet unter allen Juden in der ganzen Welt, als einen Anführer der Sekte der Nazarener. (24:5).",
         "Er versuchte sogar, den Tempel zu entheiligen; doch wir ergriffen ihn und wollten ihn nach unserem Gesetz richten. (24:6).",
-        "Aber Lysias, der Befehlshaber, kam dazu und entriss ihn mit großer Gewalt unseren Händen; (24:7).",
         "und er befahl, dass seine Ankläger zu dir kommen sollten. Von ihm kannst du selbst, wenn du ihn verhörst, alles erfahren, dessen wir ihn anklagen! (24:8).",
         "Und auch die Juden stimmten dem zu und behaupteten, es verhielte sich so. (24:9).",
         "Paulus aber gab, nachdem ihn der Statthalter durch ein Zeichen zum Reden aufgefordert hatte, folgende Antwort: Da ich weiß, dass du seit vielen Jahren Richter über dieses Volk bist, so verteidige ich meine Sache desto zuversichtlicher, (24:10).",
@@ -2044,11 +2216,11 @@
         "Zugleich hoffte er aber auch, dass er von Paulus Geld erhalten würde, damit er ihn freiließe. Darum ließ er ihn auch öfters kommen und besprach sich mit ihm. (24:26).",
         "Als aber zwei Jahre verflossen waren, bekam Felix den Porcius Festus zum Nachfolger, und da sich Felix die Juden zu Dank verpflichten wollte, ließ er Paulus gebunden zurück. (24:27)."
       ],
-      "keyTakeaway": "Tertullus erhebt Anklagen vor Felix; Paulus bekräftigt seinen Gottesdienst gemäß dem Weg und die Hoffnung auf die Auferstehung. Felix verschiebt das Urteil, hört Paulus häufig und lässt ihn nach zwei Jahren gefangen, als Festus sein Nachfolger wird.",
+      "keyTakeaway": "Tertullus trägt die Anklage vor Felix vor; Paulus bekennt, dass er nach dem Weg Gott dient und auf die Auferstehung hofft. Felix zögert das Urteil hinaus, hört Paulus oft an und lässt ihn nach zwei Jahren gefangen zurück, als Festus sein Nachfolger wird.",
       "crossRefs": [
-        "Daniel 12,2: Auferstehung vieler, die im Staub der Erde schlafen.",
-        "Apostelgeschichte 9,2; 19,9–23: „Der Weg“ als Bezeichnung für die Bewegung.",
-        "Apostelgeschichte 26,7–8: Hoffnung auf Gottes Verheißung und das Thema der Auferstehung."
+        "Daniel 12:2: Die Auferstehung vieler, die im Staub schlafen.",
+        "Apostelgeschichte 9:2; Apostelgeschichte 19:9-23: „Der Weg“ als Bezeichnung für die Bewegung.",
+        "Apostelgeschichte 26:7-8: Die Hoffnung auf Gottes Verheißung und das Thema der Auferstehung."
       ],
       "manuscriptVariants": [
         {
@@ -2057,29 +2229,39 @@
         },
         {
           "ref": "Acts 24:7",
-          "text": "Einige spätere Handschriften erweitern die Verse 6–8 um Folgendes: „Der Oberst Lysias aber kam und entriss ihn mit großer Gewalt unseren Händen und befahl seinen Anklägern, vor dich zu kommen.“ Er fehlt in den ältesten und besten Handschriften. Die Hinzufügung scheint eine Schreibererweiterung zu sein, die Einzelheiten aus dem früheren Verhaftungsbericht (Apostelgeschichte 21:33; 22:24–29) übernimmt."
+          "text": "Einige spätere Handschriften erweitern die Verse 6-8 um den Zusatz: „Aber Lysias, der Oberste, kam herzu und führte ihn mit großer Gewalt aus unseren Händen und befahl seinen Anklägern, vor dich zu kommen.“ Er fehlt in den ältesten und besten Handschriften. Der Zusatz sieht nach einer Erweiterung durch Schreiber aus, die Einzelheiten aus dem früheren Bericht von der Verhaftung übernahm (Apostelgeschichte 21,33; 22,24-29)."
         }
       ],
       "translationNotes": [
         {
           "term": "Statthalter / Prokurator",
           "original": "Hebrew: הַנָּגִיד / הַהֶגְמוֹן (hanāgiyd / hahegəmwōn, sense), Greek: ἡγεμών (ἡgemώn), Aramaic: הֵגְמוֹנָא (הֵגְמוֹנָא)",
-          "note": "Römischer Provinzbeamter; hier Felix und später Festus (24,1–27)."
+          "note": "Römischer Provinzbeamter; hier Felix und später Festus (24,1-27)."
         },
         {
           "term": "Der Weg",
           "original": "Hebrew: הַדֶּרֶךְ (haderekə), Greek: ἡ ὁδός (ἡ ὁdόs), Aramaic: אוֹרְחָא (אוֹרְחָא)",
-          "note": "Bezeichnung für die Gemeinschaft der Gläubigen (24,14–22)."
+          "note": "Name für die Gemeinschaft der Gläubigen (24,14-22)."
         },
         {
           "term": "Nazarener",
           "original": "Hebrew: נוֹצְרִים (nwōṣəriym, sense), Greek: Ναζωραῖοι (Nazōraῖoi), Aramaic: נָצָרָיֵא (נָצָרָיֵא)",
-          "note": "Bezeichnung des Tertullus für die Gruppe, die mit Jesus von Nazareth verbunden ist (24,5)."
+          "note": "Die Bezeichnung des Tertullus für die Gruppe, die mit Jesus von Nazareth verbunden ist (24,5)."
         },
         {
           "term": "Drusilla",
           "original": "Hebrew: דְּרוּסִלָּה (translit.), Greek: Δρουσίλλα (Drousίlla), Aramaic: דְּרוּסִלָּא (דְּרוּסִלָּא)",
           "note": "Die Frau des Felix, als Jüdin bezeichnet (24,24)."
+        },
+        {
+          "term": "Hauptmann",
+          "original": "Greek: ἑκατόνταρχος (hekatontarchos)",
+          "note": "Ein römischer Offizier, der eine „Zenturie“ von 80 bis 100 Soldaten befehligte; das Rückgrat der Legion. Die Hauptleute des Neuen Testaments werden durchweg positiv gezeichnet: der, dessen Knecht Jesus heilt (Matthäus 8,5), Kornelius (Apostelgeschichte 10) und der Hauptmann am Kreuz, der bekennt: „Wahrhaftig, dieser Mensch war Gottes Sohn“ (Markus 15,39)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
         }
       ],
       "headings": [
@@ -2133,33 +2315,38 @@
         "Denn es scheint mir unvernünftig, einen Gefangenen abzusenden, ohne die gegen ihn erhobenen Klagen anzugeben. (25:27)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 23,11: Verheißung, dass Paulus in Rom Zeugnis ablegen wird.",
-        "Apostelgeschichte 9,15: Paulus vor Königen (Agrippa anwesend).",
-        "Philipper 1,12–13: Ketten, die in der ganzen Leibwache bekannt werden (spätere Auswirkung)."
+        "Apostelgeschichte 23:11: Die Zusage, dass Paulus in Rom Zeugnis ablegen wird.",
+        "Apostelgeschichte 9:15: Paulus vor Königen (Agrippa ist zugegen).",
+        "Philipper 1:12-13: Die Ketten werden in der ganzen Wache bekannt (späterer Ausgang)."
       ],
       "translationNotes": [
         {
-          "term": "Berufung an den Kaiser",
+          "term": "Berufung auf den Kaiser",
           "original": "Hebrew: עֲרֵר אֶל הַקֵּיסָר (ʿărēr ʾel haqēysār, sense), Greek: ἐπικαλοῦμαι Καίσαρα (ἐpikaloῦmai Kaίsara), Aramaic: מִתְקְרֵא לְקַיְסָר (מִתְקְרֵא לְקַיְסָר)",
-          "note": "Recht eines römischen Bürgers, den Fall vor dem Kaiser verhandeln zu lassen (25,11)."
+          "note": "Das Recht eines römischen Bürgers, seinen Fall vor dem Kaiser verhandeln zu lassen (25,11)."
         },
         {
           "term": "Kaiser",
           "original": "Hebrew: קֵיסָר (qēysār), Greek: Καίσαρ (Kaίsar), Aramaic: קַיְסָר (קַיְסָר)",
-          "note": "Titel des römischen Kaisers; zu dieser Zeit Nero (25,11–12.21.25)."
+          "note": "Titel des römischen Herrschers; zu dieser Zeit Nero (25,11-12.21.25)."
         },
         {
-          "term": "Agrippa und Berenike",
+          "term": "Agrippa und Bernice",
           "original": "Hebrew: אֲגְרִפָּס / בֶּרְנִיקֵה (ʾăgəripās / berəniyqēh), Greek: Ἀγρίππας / Βερνίκη (Ἀgrίppas / Bernίkē), Aramaic: אַגְרִיפָּס / בַּרְנִיקֵי (אַגְרִיפָּס / בַּרְנִיקֵי)",
-          "note": "Herodes Agrippa II., Vasallenkönig, und seine Schwester Berenike (25,13–23)."
+          "note": "Herodes Agrippa II., ein Klientelkönig, und seine Schwester Bernice (25,13-23)."
         },
         {
           "term": "Gepränge",
           "original": "Hebrew: הֲדָר (hădār, sense), Greek: φαντασίᾳ πολλῇ (phantasίᾳ pollῇ), Aramaic: שׁוּשְׁבָנָא רַבָּא (שׁוּשְׁבָנָא רַבָּא, sense)",
-          "note": "Öffentliche Zurschaustellung bei der Anhörung vor Agrippa (25,23)."
+          "note": "Öffentliches Auftreten bei der Verhandlung vor Agrippa (25,23)."
+        },
+        {
+          "term": "Hoher Rat (Sanhedrin)",
+          "original": "Greek: συνέδριον (synedrion)",
+          "note": "Der oberste jüdische Rat in Jerusalem mit 71 Mitgliedern, unter dem Vorsitz des Hohenpriesters. Er hatte unter römischer Besatzung richterliche, religiöse und begrenzte bürgerliche Vollmacht. Er verhandelte gegen Jesus (Markus 14,55), gegen Petrus und Johannes (Apostelgeschichte 4) und gegen Stephanus (Apostelgeschichte 6,12). Nach der Zerstörung des Tempels 70 n. Chr. wurde er aufgelöst."
         }
       ],
-      "keyTakeaway": "Festus hört den Fall an, Paulus beruft sich auf den Kaiser, und Agrippa II. kommt mit Berenike an; Festus sucht eine klare Formulierung der Anklage, die er mit Paulus schicken kann.",
+      "keyTakeaway": "Festus verhandelt den Fall, Paulus beruft sich auf den Kaiser, und Agrippa II. trifft mit Bernice ein; Festus sucht eine klare Angabe der Anklagepunkte, die er mit Paulus schicken kann.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2212,28 +2399,33 @@
         "Agrippa aber sprach zu Festus: Man könnte diesen Menschen freilassen, wenn er sich nicht auf den Kaiser berufen hätte! (26:32)."
       ],
       "crossRefs": [
-        "Apostelgeschichte 9,3–19; 22,6–16: Frühere Berichte über das Ereignis in Damaskus.",
-        "Jesaja 42,6–7: Blinde Augen öffnen, Licht für die Völker.",
-        "Hosea 6,1–2; Psalm 16,10: Themen von Tod und Auferweckung, die andernorts angeführt werden."
+        "Apostelgeschichte 9:3-19; Apostelgeschichte 22:6-16: Frühere Berichte über das Ereignis bei Damaskus.",
+        "Jesaja 42:6-7: Blinde Augen öffnen, ein Licht für die Völker.",
+        "Hosea 6:1-2; Psalmen 16:10: Themen von Tod und Auferweckung, andernorts angeführt."
       ],
       "translationNotes": [
         {
-          "term": "Gegen den Stachel ausschlagen",
+          "term": "Wider den Stachel löcken",
           "original": "Hebrew: לִבְעֹט בַּדַּרְבָּנוֹת (libəʿōṭ badarəbānwōt, sense), Greek: λακτίζειν πρὸς κέντρα (laktίzein prὸs kέntra), Aramaic: לְבָעְטָא בְּדַרְבּוֹנִין (לְבָעְטָא בְּדַרְבּוֹנִין, sense)",
-          "note": "Sprichwörtlicher Ausdruck dafür, sich einem stärkeren Antrieb zu widersetzen (26,14)."
+          "note": "Sprichwörtliche Wendung über den Widerstand gegen einen stärkeren Antrieb (26,14)."
         },
         {
           "term": "Christ",
           "original": "Hebrew: מְשִׁיחִי (məšiyḥiy, sense), Greek: Χριστιανός (Christianόs), Aramaic: מְשִׁיחָיָא (מְשִׁיחָיָא)",
-          "note": "Name, den Agrippa hier verwendet; auch in Apostelgeschichte 11,26; 1. Petrus 4,16 (26,28)."
+          "note": "Der Name, den Agrippa hier gebraucht; auch in Apostelgeschichte 11,26 und 1. Petrus 4,16 (26,28)."
         },
         {
-          "term": "In hebräischer Mundart",
+          "term": "In hebräischer Sprache",
           "original": "Hebrew: לַשּׁוֹן עִבְרִית (lašwōn ʿibəriyt), Greek: τῇ Ἑβραΐδι διαλέκτῳ (tῇ Ἑbraΐdi dialέktῳ), Aramaic: בְּלִשָּׁנָא עִבְרָאָה (בְּלִשָּׁנָא עִבְרָאָה)",
-          "note": "Lukas' Formulierung, die gewöhnlich aramäische Rede meint (26,14)."
+          "note": "Die Wendung des Lukas bezeichnet in der Regel das Aramäische (26,14)."
+        },
+        {
+          "term": "Pharisäer",
+          "original": "Greek: Φαρισαῖος (Pharisaios)",
+          "note": "Eine Erneuerungsbewegung von Laien, die auf strenge Befolgung der geschriebenen Torah UND einer mündlichen Überlieferung drang (der „Überlieferung der Ältesten“). Sie glaubte an die leibliche Auferstehung, an Engel und an einen kommenden Messias. Paulus war Pharisäer (Philipper 3,5); Jesu schärfste Auseinandersetzungen wurden meist mit dieser Gruppe geführt, obwohl er viele ihrer Grundüberzeugungen teilte."
         }
       ],
-      "keyTakeaway": "Paulus schildert seinen Auftrag vom auferstandenen Jesus, bekräftigt die Auferstehungshoffnung, bezeugt seinen Glauben vor Juden und Heiden und wird von Agrippa und Festus als des Todes unschuldig befunden; seine Berufung an den Kaiser bleibt bestehen.",
+      "keyTakeaway": "Paulus erzählt von seiner Beauftragung durch den auferstandenen Jesus, bekennt die Hoffnung auf die Auferstehung, legt vor Juden und Heiden Zeugnis ab, und Agrippa und Festus urteilen, dass er den Tod nicht verdient; seine Berufung auf den Kaiser bleibt bestehen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2294,38 +2486,43 @@
         "und die Übrigen teils auf Brettern, teils auf Schiffstrümmern. Und so geschah es, dass alle ans Land gerettet wurden. (27:44)."
       ],
       "crossRefs": [
-        "2. Korinther 11,25: Paulus erwähnt frühere Schiffbrüche.",
-        "Psalm 107,23–30: Die auf Schiffen das Meer befahren und in der Not zum HERRN schreien.",
-        "Apostelgeschichte 23,11: Zusicherung, dass Paulus in Rom Zeugnis ablegen muss."
+        "2. Korinther 11:25: Paulus erwähnt frühere Schiffbrüche.",
+        "Psalmen 107:23-30: Die, welche auf Schiffen aufs Meer fahren und im Sturm zum HERRN schreien.",
+        "Apostelgeschichte 23:11: Die Zusicherung, dass Paulus in Rom Zeugnis ablegen muss."
       ],
       "translationNotes": [
         {
-          "term": "Eurakylon (Nordostwind)",
+          "term": "Euroklydon (Nordoststurm)",
           "original": "Hebrew: רוּחַ קָדִים צָפוֹנִית (rwḥa qādiym ṣāpwōniyt, sense), Greek: Εὐρακύλων / Εὐροκλύδων (var.), Aramaic: רוּחָא דְּקַדְמִיתָא צְפוֹנִיתָא (רוּחָא דְּקַדְמִיתָא צְפוֹנִיתָא, sense)",
-          "note": "Name des heftigen Windes, der das Schiff trieb (27,14)."
+          "note": "Der Name des heftigen Windes, der das Schiff trieb (27,14)."
         },
         {
-          "term": "Umgürtung des Schiffes",
+          "term": "Das Schiff untergürten",
           "original": "Hebrew: לְחַבֵּשׁ אֶת־הָאֳנִיָּה (ləḥabēš ʾet-hāʾŏniyāh, sense), Greek: χρῆσιν βοηθειῶν ποιησάμενοι (chrῆsin boētheiῶn poiēsάmenoi, ὑποζωννύντες τὸ πλοῖον), Aramaic: לְמֶחְזֵק לְסְפִינְתָּא (לְמֶחְזֵק לְסְפִינְתָּא, sense)",
-          "note": "Taue, die um den Rumpf geschlungen werden, um ihn vor dem Auseinanderbrechen zu bewahren (27,17)."
+          "note": "Taue, die um den Rumpf gelegt wurden, damit er nicht auseinanderbrach (27,17)."
         },
         {
-          "term": "Syrte",
+          "term": "Die Syrte",
           "original": "Hebrew: סִירְטִיס (siyrəṭiys), Greek: Σύρτις (Sύrtis), Aramaic: סִירְטִיס (סִירְטִיס)",
-          "note": "Gefährliche Sandbänke vor der Küste Nordafrikas, die von Seeleuten gefürchtet wurden (27,17)."
+          "note": "Gefährliche Sandbänke vor Nordafrika, von den Seeleuten gefürchtet (27,17)."
         },
         {
           "term": "Faden",
           "original": "Hebrew: טֶפַחִים שֵׁשָׁה (ṭepaḥiym šēšāh, sense), Greek: ὀργυιά (ὀrgyiά), Aramaic: אַרְגְוָיָא (אַרְגְוָיָא)",
-          "note": "Tiefenmaß; zwanzig und fünfzehn Faden werden gemessen (27,28)."
+          "note": "Ein Maß für die Wassertiefe; gemessen werden zwanzig und fünfzehn Faden (27,28)."
         },
         {
           "term": "Personen auf dem Schiff",
           "original": "Hebrew: נְפָשׁוֹת (nəpāšwōt), Greek: ψυχαί (psychaί), Aramaic: נַפְשָׁתָא (נַפְשָׁתָא)",
-          "note": "Lukas' Zählung von 276 an Bord (27,37)."
+          "note": "Die Zählung des Lukas von 276 an Bord (27,37)."
+        },
+        {
+          "term": "Hauptmann",
+          "original": "Greek: ἑκατόνταρχος (hekatontarchos)",
+          "note": "Ein römischer Offizier, der eine „Zenturie“ von 80 bis 100 Soldaten befehligte; das Rückgrat der Legion. Die Hauptleute des Neuen Testaments werden durchweg positiv gezeichnet: der, dessen Knecht Jesus heilt (Matthäus 8,5), Kornelius (Apostelgeschichte 10) und der Hauptmann am Kreuz, der bekennt: „Wahrhaftig, dieser Mensch war Gottes Sohn“ (Markus 15,39)."
         }
       ],
-      "keyTakeaway": "Paulus segelt unter Bewachung nach Italien; trotz eines heftigen Sturms und eines Schiffbruchs an einer unbekannten Insel kommen alle 276 Personen an Bord sicher ans Land, wie Paulus vorhergesagt hatte.",
+      "keyTakeaway": "Paulus fährt unter Bewachung nach Italien; trotz eines heftigen Sturms und eines Schiffbruchs an einer unbekannten Insel kommen alle 276 an Bord wohlbehalten an Land, wie es Paulus gesagt worden war.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2376,43 +2573,46 @@
         "als er sprach: »Geh hin zu diesem Volk und sprich: Mit den Ohren werdet ihr hören und nicht verstehen, und mit den Augen werdet ihr sehen und nicht erkennen! (28:26).",
         "Denn das Herz dieses Volkes ist verstockt, und mit den Ohren hören sie schwer, und ihre Augen haben sie verschlossen, dass sie nicht etwa mit den Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren und ich sie heile.« (28:27).",
         "So sollt ihr nun wissen, dass das Heil Gottes zu den Heiden gesandt ist; und sie werden auch hören! (28:28).",
-        "Und als er das gesagt hatte, gingen die Juden weg und hatten viel Wortwechsel miteinander. (28:29).",
         "Paulus aber blieb zwei Jahre in einer eigenen Mietwohnung und nahm alle auf, die zu ihm kamen; (28:30).",
         "und er verkündigte das Reich Gottes und lehrte von dem Herrn Jesus Christus mit aller Freimütigkeit und ungehindert. (28:31)."
       ],
-      "keyTakeaway": "Paulus überlebt einen Schlangenbiss und heilt viele auf Malta, erreicht dann Rom. Er trifft die jüdischen Führer, erklärt seine Fesseln und die Hoffnung Israels und verkündigt zwei Jahre lang das Reich Gottes und lehrt über den Herrn Jesus Christus mit Freimut, wobei er alle empfängt, die zu ihm kommen.",
+      "keyTakeaway": "Paulus übersteht einen Otternbiss und heilt viele auf Malta, dann erreicht er Rom. Er trifft die jüdischen Vorsteher, erklärt seine Ketten und die Hoffnung Israels und verkündigt zwei Jahre lang mit Freimut das Reich Gottes und lehrt von dem Herrn Jesus Christus, und er nimmt alle auf, die zu ihm kommen.",
       "crossRefs": [
-        "Jesaja 6,9–10: Angeführt bezüglich des Hörens und Nichtverstehens.",
-        "Apostelgeschichte 9,15: Paulus als auserwählt, den Namen vor Heiden und Könige zu tragen.",
-        "Philipper 1,12–14: Gefangenschaft, die zur Ausbreitung des Evangeliums führt (aus der Haft geschrieben).",
-        "2. Timotheus 2,9: „Das Wort Gottes ist nicht gebunden.“"
+        "Jesaja 6:9-10: Zitiert über das Hören und Nichtverstehen.",
+        "Apostelgeschichte 9:15: Paulus ist erwählt, den Namen vor Heiden und Könige zu tragen.",
+        "Philipper 1:12-14: Die Gefangenschaft bringt das Evangelium voran (aus der Haft geschrieben).",
+        "2. Timotheus 2:9: „Das Wort Gottes ist nicht gebunden.“"
       ],
       "manuscriptVariants": [
         {
           "ref": "28:29",
           "text": "Und da er solches redete, gingen die Juden hin und hatten viel Fragens unter sich selbst."
+        },
+        {
+          "ref": "Acts 28:29",
+          "text": "Einige spätere Handschriften fügen hier einen Vers 29 hinzu: „Und als er dies gesagt hatte, gingen die Juden fort und stritten heftig miteinander.“ Er fehlt im Papyrus 74, im Codex Sinaiticus, Alexandrinus, Vaticanus und Laudianus sowie in den frühesten syrischen und koptischen Übersetzungen. Er erscheint erstmals im westlichen Text und gelangte von dort in die byzantinischen Handschriften; so füllt er die Lücke zwischen der abschließenden Erklärung des Paulus an die Juden in Rom und den darauffolgenden zwei Jahren seines Hausarrests."
         }
       ],
       "translationNotes": [
         {
           "term": "Malta",
           "original": "Hebrew: מַלְטָה (maləṭāh, sense), Greek: Μελίτη (Melίtē), Aramaic: מְלִיטֵי (מְלִיטֵי)",
-          "note": "Name der Insel, auf der sie stranden (28,1)."
+          "note": "Der Name der Insel, an die sie verschlagen werden (28,1)."
         },
         {
-          "term": "Viper",
+          "term": "Otter",
           "original": "Hebrew: אֶפְעֶה / צִפְעוֹנִי (ʾepəʿeh / ṣipəʿwōniy, sense), Greek: ἔχιδνα (ἔchidna), Aramaic: אַפְעָא (אַפְעָא)",
-          "note": "Schlange, die sich an der Hand des Paulus festbeißt; er bleibt unverletzt (28,3–6)."
+          "note": "Die Schlange, die sich an der Hand des Paulus festbeißt; er bleibt unversehrt (28,3-6)."
         },
         {
           "term": "Fieber und Ruhr",
           "original": "Hebrew: חַמָּה וְשִׁלְשׁוּל (ḥamāh wəšiləšwl, sense), Greek: πυρετοῖς καὶ δυσεντερίῳ (pyretoῖs kaὶ dysenterίῳ), Aramaic: חֲמִימָא וְדוּסַנְטַרְיוֹס (חֲמִימָא וְדוּסַנְטַרְיוֹס, sense)",
-          "note": "Krankheit des Vaters des Publius, den Paulus heilt (28,8)."
+          "note": "Die Krankheit des Vaters des Publius, den Paulus heilt (28,8)."
         },
         {
-          "term": "Dioskuren (Zwillingsgötter)",
+          "term": "Zwillingsgötter (Dioskuren)",
           "original": "Hebrew: אֱלֹהֵי הַתְּאוֹמִים (ʾĕlōhēy hatəʾwōmiym, sense), Greek: Διόσκουροι (Diόskouroi), Aramaic: אַלָהֵי תְּאוֹמַיָּא (אַלָהֵי תְּאוֹמַיָּא, sense)",
-          "note": "Galionsfigur auf dem alexandrinischen Schiff: Kastor und Pollux (28,11)."
+          "note": "Das Zeichen am Bug des alexandrinischen Schiffes: Kastor und Pollux (28,11)."
         },
         {
           "term": "Forum Appii / Tres Tabernae",
@@ -2420,9 +2620,9 @@
           "note": "Orte an der Via Appia, an denen Gläubige Paulus entgegenkommen (28,15)."
         },
         {
-          "term": "Hoffnung Israels",
+          "term": "Die Hoffnung Israels",
           "original": "Hebrew: תִּקְוַת יִשְׂרָאֵל (tiqəwat yišərāʾēl), Greek: ἡ ἐλπὶς τοῦ Ἰσραήλ (ἡ ἐlpὶs toῦ Ἰsraήl), Aramaic: סַבְרָתָא דְיִשְׂרָאֵל (סַבְרָתָא דְיִשְׂרָאֵל)",
-          "note": "Paulus' Grund, die Kette zu tragen, wie er es den jüdischen Führern darlegt (28,20)."
+          "note": "Der Grund, den Paulus für seine Kette nennt, als er zu den jüdischen Vorstehern redet (28,20)."
         },
         {
           "term": "Ungehindert",
@@ -2446,5 +2646,5 @@
       ]
     }
   ],
-  "intro": "Die Apostelgeschichte wurde von Lukas dem Arzt verfasst, demselben heidenchristlichen Gefährten des Paulus, der das Evangelium nach Lukas schrieb; die Apostelgeschichte ist der zweite Band des zweiteiligen Werkes des Lukas und nimmt dort auf, wo das Evangelium endet. Lukas eröffnet die Apostelgeschichte mit einem ausdrücklichen Verweis auf sein früheres Werk: „Den ersten Bericht habe ich verfasst, o Theophilus, über alles, was Jesus anfing zu tun und zu lehren, bis zu dem Tag, an dem er aufgenommen wurde\" (Apostelgeschichte 1,1-2). Beide Bücher sind an denselben Theophilus adressiert, den römischen Patron im Ritterstand (Lukas 1,3 verwendet den förmlichen Titel „hochverehrter\", der anderswo nur für die römischen Prokuratoren Felix und Festus verwendet wird, Apostelgeschichte 23,26; 24,3; 26,25). Lukas war gebürtiger Antiochener aus Syrien (gemäß Eusebius und dem antimarkionitischen Prolog zum Lukasevangelium aus dem zweiten Jahrhundert), ein heidenchristlicher Gläubiger (unterschieden von „denen aus der Beschneidung\" in Kolosser 4,11-14) und ein Arzt (Kolosser 4,14). Er war Paulus' Reisegefährte während der zweiten und dritten Missionsreise und nach Rom; er erscheint in der Erzählung der Apostelgeschichte selbst in den „Wir\"-Passagen (Apostelgeschichte 16,10-17; 20,5-21,18; 27,1-28,16), wo Lukas von der Erzählung in der dritten Person („sie\") zur ersten Person Plural („wir\") wechselt, um seine eigene Anwesenheit bei Paulus während jener Reiseabschnitte zu kennzeichnen. Lukas schloss sich Paulus' Team in Troas während der zweiten Missionsreise an (Apostelgeschichte 16,10), reiste mit Paulus nach Philippi, blieb in Philippi, als Paulus weiterzog, schloss sich Paulus in Philippi für die dritte Missionsreise wieder an (Apostelgeschichte 20,5), reiste mit ihm nach Jerusalem, war während Paulus' zweijähriger Gefangenschaft in Cäsarea unter Felix und Festus anwesend (Apostelgeschichte 24-26, 57-59 n. Chr.) und segelte mit Paulus auf der Reise nach Rom einschließlich des Schiffbruchs auf Malta (Apostelgeschichte 27,1-28,16). Gemäß dem byzantinischen Historiker Nikephoros Kallistos Xanthopoulos (Kirchengeschichte XIV, Migne PG 145, 876) starb Lukas im Alter von vierundachtzig Jahren in Theben in Böotien in Mittelgriechenland, als Märtyrer um Christi willen an einem Olivenbaum gehängt.\n\nDie Apostelgeschichte wurde um 62-63 n. Chr. verfasst, unmittelbar nach dem Evangelium nach Lukas, während Paulus unter Hausarrest in Rom war und auf seinen Prozess vor Nero wartete (Apostelgeschichte 28,30-31). Das abrupte Ende der Apostelgeschichte, mit Paulus noch unter Hausarrest und ohne Erwähnung seiner Freilassung, seiner vierten Missionsreise, seiner zweiten Verhaftung, des Ausbruchs der Verfolgung Neros im Jahr 64 n. Chr., der Zerstörung Jerusalems im Jahr 70 n. Chr. oder der Martyrien von Petrus und Paulus unter Nero (um 66-67 n. Chr.) deutet stark darauf hin, dass die Apostelgeschichte vor all diesen Ereignissen vollendet wurde. Lukas schrieb in Rom (der Stadt, in der die Erzählung endet) und schöpfte aus dem Augenzeugenzeugnis, das er während Jahren des Reisens mit Paulus gesammelt hatte, den Erinnerungen anderer Apostel und Augenzeugen, die er interviewt hatte, und seiner eigenen Erfahrung aus erster Hand der in den „Wir\"-Passagen aufgezeichneten Ereignisse. Das Buch deckt etwa dreißig Jahre frühkirchlicher Geschichte ab, von der Himmelfahrt Jesu um 30 n. Chr. bis zum Hausarrest des Paulus in Rom um 60-62 n. Chr. Die geographische Struktur des Buches wird von Jesus in Apostelgeschichte 1,8 angekündigt: „Ihr werdet meine Zeugen sein in Jerusalem und in ganz Judäa und Samaria und bis an das Ende der Erde.\" Die Kapitel 1-7 umfassen die Jerusalem-Periode (Pfingsten, das Wachstum der frühen Kirche, das Martyrium des Stephanus um 34 n. Chr.); zu Pfingsten (Apostelgeschichte 2,1-13) sprachen die Apostel in echten Fremdsprachen, die sie zuvor nicht gelernt hatten (das griechische heterais glossais in 2,4 bedeutet „andere Zungen\" / „andere Sprachen\"); die jüdischen Pilger der Diaspora, die aus der ganzen römischen Welt zum Wochenfest versammelt waren, hörten jeder die Apostel in seiner eigenen Muttersprache (Apostelgeschichte 2,6.8.11 verwenden das griechische dialektos, „heimatlicher Dialekt\" oder „Muttersprache\", und nennen mindestens fünfzehn verschiedene Sprachgruppen, die anwesend waren), wobei sie ausriefen: „Wir hören sie in unseren eigenen Sprachen die großen Taten Gottes verkünden\" (Apostelgeschichte 2,11); andere Spötter in der Menge verspotteten den Anspruch der Zuhörer, ihre eigenen Muttersprachen zu hören, und beschuldigten sie, von süßem Wein betrunken zu sein (Apostelgeschichte 2,13); die „Zungen\" (glossai) von Pfingsten waren verständliche Sprachen, dasselbe Phänomen, das Paulus später in 1. Korinther 12-14 reguliert (wo Paulus auch auf „Zungen der Engel\" verweist, 1. Korinther 13,1); die Kapitel 8-12 verfolgen die Ausbreitung des Evangeliums nach Samaria und darüber hinaus (den Dienst des Philippus, die Bekehrung des Saulus um 35 n. Chr. auf der Straße nach Damaskus, die Vision des Petrus und die Bekehrung des römischen Hauptmanns Kornelius um 40 n. Chr., die herodianische Verfolgung und das Martyrium des Jakobus, des Sohnes des Zebedäus, um 44 n. Chr.); die Kapitel 13-28 verfolgen die drei Missionsreisen des Paulus (erste Reise um 47-48 n. Chr., zweite um 49-52 n. Chr., dritte um 53-57 n. Chr.), das Apostelkonzil zu Jerusalem im Jahr 49 n. Chr. (Apostelgeschichte 15), die Verhaftung des Paulus in Jerusalem im Jahr 57 n. Chr., die Gefangenschaft in Cäsarea (57-59 n. Chr.), die Reise nach Rom und den Schiffbruch (59-60 n. Chr.) und Paulus' zwei Jahre römischen Hausarrests (60-62 n. Chr.).\n\nDie Apostelgeschichte ist das vierundvierzigste Buch der christlichen Bibel und das fünfte Buch des Neuen Testaments, unmittelbar nach den vier Evangelien und vor den Briefen platziert. Der griechische Titel Praxeis Apostolon (Πράξεις Ἀποστόλων) bedeutet „Taten der Apostel\"; der Titel erscheint in frühen Handschriften ab dem zweiten Jahrhundert. Zu den frühesten erhaltenen Manuskriptfragmenten der Apostelgeschichte gehören Papyrus 45 (P45, Chester Beatty I, auf etwa 250 n. Chr. datiert, der Apostelgeschichte 4-17 in fragmentarischer Form enthält), Papyrus 74 (P74, 7. Jahrhundert) und die vollständigen Abschriften im Codex Sinaiticus und Codex Vaticanus (beide 4. Jahrhundert n. Chr.). Die römischen Kaiser während der Ereignisse der Apostelgeschichte umfassen vier Regierungszeiten: Tiberius (14-37 n. Chr., regierend zu Beginn, als die Ereignisse von Pfingsten stattfanden); Caligula (37-41 n. Chr.); Claudius (41-54 n. Chr., der die Juden um 49 n. Chr. aus Rom vertrieb, ein Ereignis, das Lukas in Apostelgeschichte 18,2 vermerkt, als Aquila und Priszilla in Korinth eintrafen); und Nero (54-68 n. Chr., regierend am Ende, als Paulus seinen Fall an den Kaiser appellierte). Die römischen Prokuratoren von Judäa während dieser Zeit umfassen Pontius Pilatus (26-36 n. Chr., unter Tiberius), Felix (52-58 n. Chr., der Paulus' Fall in Cäsarea hörte), Festus (58-62 n. Chr., vor dem Paulus an den Kaiser appellierte) und die Reihe der Statthalter, die zum Jüdisch-Römischen Krieg von 66-73 n. Chr. führten. Zusammen mit dem Evangelium nach Lukas macht die Apostelgeschichte etwa siebenundzwanzig Prozent des Neuen Testaments nach Umfang aus."
+  "intro": "Die Apostelgeschichte wurde von Lukas, dem Arzt, verfasst, demselben Begleiter des Paulus aus den Heiden, der auch das Lukasevangelium schrieb; die Apostelgeschichte ist der zweite Band des zweiteiligen Werkes des Lukas und setzt dort ein, wo das Evangelium endet. Lukas eröffnet die Apostelgeschichte mit einem ausdrücklichen Verweis auf sein früheres Werk: „Den ersten Bericht habe ich abgefasst, o Theophilus, über alles, was Jesus zu tun und zu lehren begann, bis zu dem Tag, an dem er aufgenommen wurde“ (Apostelgeschichte 1,1-2). Beide Bücher sind an denselben Theophilus gerichtet, den römischen Gönner aus dem Ritterstand (Lukas 1,3 gebraucht die förmliche Anrede „hochedler“, die sonst nur den römischen Prokuratoren Felix und Festus gilt, Apostelgeschichte 23,26; 24,3; 26,25). Lukas stammte aus Antiochia in Syrien (nach Eusebius und dem antimarcionitischen Prolog zum Lukasevangelium aus dem zweiten Jahrhundert), war ein Gläubiger aus den Heiden (in Kolosser 4,11-14 von „denen aus der Beschneidung“ unterschieden) und Arzt (Kolosser 4,14). Er war der Reisegefährte des Paulus auf der zweiten und dritten Missionsreise und nach Rom; er tritt in der Erzählung der Apostelgeschichte selbst in den Wir-Abschnitten auf (Apostelgeschichte 16,10-17; 20,5-21,18; 27,1-28,16), wo Lukas von der Erzählung in der dritten Person („sie“) in die erste Person Mehrzahl („wir“) wechselt, um seine eigene Anwesenheit bei Paulus auf jenen Wegstrecken anzuzeigen. Lukas schloss sich der Gruppe des Paulus während der zweiten Missionsreise in Troas an (Apostelgeschichte 16,10), reiste mit Paulus nach Philippi, blieb in Philippi zurück, als Paulus weiterzog, stieß in Philippi zur dritten Missionsreise wieder zu ihm (Apostelgeschichte 20,5), reiste mit ihm nach Jerusalem, war während der zweijährigen Haft des Paulus in Cäsarea unter Felix und Festus zugegen (Apostelgeschichte 24-26, 57-59 n. Chr.) und fuhr mit Paulus auf der Reise nach Rom mit, einschließlich des Schiffbruchs auf Malta (Apostelgeschichte 27,1-28,16). Nach dem byzantinischen Geschichtsschreiber Nikephoros Kallistos Xanthopulos (Kirchengeschichte 2.43, Migne PG 145, 876) starb Lukas im Alter von vierundachtzig Jahren in Theben in Böotien in Mittelgriechenland; um Christi willen hängte man ihn an einen Ölbaum, und so erlitt er den Märtyrertod.\n\nDie Apostelgeschichte entstand um 62-63 n. Chr., unmittelbar nach dem Lukasevangelium, während Paulus in Rom unter Hausarrest stand und auf sein Verfahren vor Nero wartete (Apostelgeschichte 28,30-31). Der abrupte Schluss der Apostelgeschichte, bei dem Paulus noch im Hausarrest sitzt und weder seine Freilassung noch seine vierte Missionsreise, seine zweite Verhaftung, der Ausbruch der neronischen Verfolgung 64 n. Chr., die Zerstörung Jerusalems 70 n. Chr. oder das Martyrium des Petrus und des Paulus unter Nero (um 66-67 n. Chr.) erwähnt werden, spricht mit Nachdruck dafür, dass die Apostelgeschichte vor all diesen Ereignissen vollendet wurde. Lukas schrieb in Rom, der Stadt, in der die Erzählung endet, und stützte sich auf das Augenzeugnis, das er in Jahren des Reisens mit Paulus gesammelt hatte, auf die Erinnerungen anderer Apostel und Augenzeugen, die er befragt hatte, und auf seine eigene unmittelbare Erfahrung der Ereignisse, die in den Wir-Abschnitten festgehalten sind. Das Buch umspannt etwa dreißig Jahre früher Gemeindegeschichte, von der Himmelfahrt Jesu um 30 n. Chr. bis zum Hausarrest des Paulus in Rom um 60-62 n. Chr. Den geographischen Aufbau des Buches kündigt Jesus in Apostelgeschichte 1,8 an: „Ihr werdet meine Zeugen sein in Jerusalem und in ganz Judäa und Samaria und bis an das Ende der Erde.“ Die Kapitel 1-7 behandeln die Zeit in Jerusalem (Pfingsten, das Wachsen der frühen Gemeinde, das Martyrium des Stephanus um 34 n. Chr.); an Pfingsten (Apostelgeschichte 2,1-13) redeten die Apostel in wirklichen fremden Sprachen, die sie zuvor nicht gelernt hatten (das griechische heterais glossais in 2,4 heißt „andere Zungen“ beziehungsweise „andere Sprachen“); die jüdischen Pilger aus der Diaspora, die aus dem ganzen römischen Reich zum Wochenfest zusammengekommen waren, hörten die Apostel jeder in seiner eigenen Muttersprache (Apostelgeschichte 2,6.8.11 gebrauchen das griechische dialektos, „eigene Mundart“ oder „Muttersprache“, und zählen mindestens fünfzehn verschiedene Sprachgruppen auf, die zugegen waren) und riefen aus: „Wir hören sie in unseren Sprachen die großen Taten Gottes verkünden!“ (Apostelgeschichte 2,11); andere in der Menge spotteten über die Behauptung der Hörer, sie vernähmen ihre eigene Muttersprache, und beschuldigten sie, von süßem Wein berauscht zu sein (Apostelgeschichte 2,13); die „Zungen“ (glossai) von Pfingsten waren verständliche Sprachen, dieselbe Erscheinung, die Paulus später in 1. Korinther 12-14 ordnet (wo Paulus auch die „Zungen der Engel“ erwähnt, 1. Korinther 13,1); die Kapitel 8-12 verfolgen die Ausbreitung des Evangeliums nach Samaria und darüber hinaus (der Dienst des Philippus, die Bekehrung des Saulus um 35 n. Chr. auf der Straße nach Damaskus, das Gesicht des Petrus und die Bekehrung des römischen Hauptmanns Kornelius um 40 n. Chr., die herodianische Verfolgung und das Martyrium des Jakobus, des Sohnes des Zebedäus, um 44 n. Chr.); die Kapitel 13-28 verfolgen die drei Missionsreisen des Paulus (erste Reise um 47-48 n. Chr., zweite um 49-52 n. Chr., dritte um 53-57 n. Chr.), das Apostelkonzil in Jerusalem 49 n. Chr. (Apostelgeschichte 15), die Verhaftung des Paulus in Jerusalem 57 n. Chr., die Haft in Cäsarea (57-59 n. Chr.), die Reise nach Rom und den Schiffbruch (59-60 n. Chr.) und die zwei Jahre Hausarrest des Paulus in Rom (60-62 n. Chr.).\n\nDie Apostelgeschichte ist das vierundvierzigste Buch der christlichen Bibel und das fünfte Buch des Neuen Testaments, unmittelbar nach den vier Evangelien und vor den Briefen eingeordnet. Der griechische Titel Praxeis Apostolon (Πράξεις Ἀποστόλων) bedeutet „Taten der Apostel“; der Titel steht in frühen Handschriften vom zweiten Jahrhundert an. Zu den ältesten erhaltenen Handschriftenfragmenten der Apostelgeschichte gehören Papyrus 45 (P45, Chester Beatty I, um 250 n. Chr., der Apostelgeschichte 4-17 bruchstückhaft enthält), Papyrus 74 (P74, 7. Jahrhundert) sowie die vollständigen Abschriften im Codex Sinaiticus und im Codex Vaticanus (beide 4. Jahrhundert n. Chr.). Die römischen Kaiser während der Ereignisse der Apostelgeschichte umfassen vier Regierungen: Tiberius (14-37 n. Chr., der zu Beginn regierte, als die Ereignisse von Pfingsten geschahen); Caligula (37-41 n. Chr.); Claudius (41-54 n. Chr., der die Juden um 49 n. Chr. aus Rom auswies, was Lukas in Apostelgeschichte 18,2 vermerkt, als Aquila und Priszilla nach Korinth kamen); und Nero (54-68 n. Chr., der am Schluss regierte, als Paulus sich in seiner Sache auf den Kaiser berief). Zu den römischen Prokuratoren Judäas in dieser Zeit gehören Pontius Pilatus (26-36 n. Chr., unter Tiberius), Felix (52-58 n. Chr., der die Sache des Paulus in Cäsarea verhandelte), Festus (58-62 n. Chr., vor dem Paulus sich auf den Kaiser berief) und die Reihe der Statthalter bis hin zum Jüdischen Krieg von 66-73 n. Chr. Zusammen mit dem Lukasevangelium macht die Apostelgeschichte etwa siebenundzwanzig Prozent des Neuen Testaments dem Umfang nach aus."
 }

@@ -43,20 +43,35 @@
       ],
       "crossRefs": [
         "Psalm 33:6: By the *word* of the LORD the heavens were made.",
-        "John 1:1–3: In the beginning was the *word* (logos); all things came to be through the *word*.",
+        "John 1:1-3: In the beginning was the *word* (logos); all things came to be through the *word*.",
         "Hebrews 11:3: By faith we understand the universe was formed by the *word* of God.",
         "John 1:1: In the beginning was the Word, and the Word was with God, and the Word was God. John deliberately echoes Bereshit (בְּרֵאשִׁית) with the Greek Ἐν ἀρχῇ."
       ],
       "translationNotes": [
         {
-          "term": "*word*",
-          "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
-          "note": "Message, reason, or ordered communication; not merely spoken sounds."
+          "term": "Bereshit / In the beginning",
+          "original": "Hebrew: בְּרֵאשִׁית (Bereshit), Greek (LXX): Ἐν ἀρχῇ (En archē), Aramaic: בְּקַדְמִין (b'qadmin)",
+          "note": "The opening word of the Hebrew Bible. It is built from the prefix ב (bet, 'in') attached to רֵאשִׁית (reshit, 'beginning, first, chief'), itself rooted in רֹאשׁ (rosh, 'head'). The Septuagint renders the phrase Ἐν ἀρχῇ (En archē), the exact opening John reuses in John 1:1. A Messianic and Hebrew Roots interpretive tradition reads the six Paleo-Hebrew pictographs of Bereshit as a hidden Christological message: ב (Bet) = tent or house; ר (Resh) = head or person; א (Aleph) = God, the Strong One; ש (Shin) = destroy or consume; י (Yod) = hand or work; ת (Tav) = cross or covenant. Read together, the letters can be glossed: 'The Son of God is destroyed by His own hand upon a cross.' This pictographic reading is not the dominant academic translation; standard Hebrew lexicography treats Bereshit as prefix-plus-noun rather than a string of icons. The tradition is hermeneutically interesting, however, because it surfaces themes (Son, sacrifice, covenant) that the rest of Scripture explicitly attaches to Genesis 1, where the Spirit hovers, the Word speaks, and creation begins through the agency the New Testament names as Christ (John 1:3; Colossians 1:16; Hebrews 1:2). The reading is best treated as devotional midrash that points readers toward the cross already foreshadowed in the Bible's first verse."
+        },
+        {
+          "term": "Formless and empty",
+          "original": "Hebrew: תֹהוּ וָבֹהוּ (tohu va-vohu) - מְרַחֶפֶת (merachepheth, hovering)",
+          "note": "The two words are a rhyming pair and appear together only here and at Jeremiah 4:23. Tohu on its own is trackless waste, the word Isaiah 45:18 uses when it says God did not create the earth to be that. Merachepheth, the hovering of the Spirit over the water at 1:2, is used once more in the whole Bible, at Deuteronomy 32:11, of an eagle fluttering over its nest."
+        },
+        {
+          "term": "Expanse",
+          "original": "Hebrew: רָקִיעַ (raqia)",
+          "note": "Raqia comes from raqa, to beat something out thin, the verb used for hammering gold into sheets for the ephod (Exodus 39:3) and for beating out censers into a plating for the altar (Numbers 16:38-39). The Greek of the Septuagint rendered it stereoma, something made solid, and the Latin firmamentum, which is where the English word firmament comes from. 1:6-8 sets it between the waters and names it heaven."
         },
         {
           "term": "Day",
           "original": "Hebrew: יוֹם (yom) - Greek: ἡμέρα (hemera) - Aramaic: ܝܘܡܐ (yoma)",
-          "note": "A period of time that can mean a literal 24-hour day, daylight, or an era, age, or epoch. In Genesis 1, yom is paired with the phrase וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר (vayehi-erev vayehi-boker, 'and there was evening and there was morning') for Days 1–6, marking them as completed periods. On Day 7, however, this phrase is absent, leaving the seventh day open-ended. Elsewhere, yom can describe a single day (Genesis 1:5), an indefinite span (Genesis 2:4), or a prophetic age such as 'the day of the Lord' (Psalm 95:8; Joel 2:31). This range of meaning is why some read the creation days as literal 24-hour periods while others understand them as long epochs consistent with Earth's ancient age."
+          "note": "A period of time that can mean a literal 24-hour day, daylight, or an era, age, or epoch. In Genesis 1, yom is paired with the phrase וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר (vayehi-erev vayehi-boker, 'and there was evening and there was morning') for Days 1-6, marking them as completed periods. On Day 7, however, this phrase is absent, leaving the seventh day open-ended. Elsewhere, yom can describe a single day (Genesis 1:5), an indefinite span (Genesis 2:4), or a prophetic age such as 'the day of the Lord' (Psalm 95:8; Joel 2:31). This range of meaning is why some read the creation days as literal 24-hour periods while others understand them as long epochs consistent with Earth's ancient age."
+        },
+        {
+          "term": "For signs and for seasons",
+          "original": "Hebrew: לְאֹתֹת וּלְמוֹעֲדִים (le-othoth u-le-mo'adim)",
+          "note": "Mo'ed is not weather or the four seasons. It is an appointed meeting time, and it is the word Leviticus 23 uses for every feast on the calendar, the appointed times of the LORD. So 1:14 gives the lights a job: they are the clock the festival year is set by, which is why Passover falls at a full moon and why a month starts when the new moon is seen."
         },
         {
           "term": "Heavens",
@@ -64,19 +79,19 @@
           "note": "Skies or cosmic expanse; a broad term, not a single location."
         },
         {
+          "term": "Great sea creatures",
+          "original": "Hebrew: תַּנִּינִם (tanninim)",
+          "note": "Tannin elsewhere means a serpent or a great water beast: Aaron's staff becomes one before Pharaoh (Exodus 7:9-12), Psalm 74:13 has God break the heads of the tanninim in the waters, and Isaiah 27:1 names the fleeing serpent. 1:21 is the only place in the account where a specific kind of animal is singled out and named at its creation, and the verb used of it is bara, the same verb as 1:1."
+        },
+        {
           "term": "Image",
           "original": "Hebrew: צֶלֶם (tselem) - Greek: εἰκών (eikon) - Aramaic: ܨܠܡܐ (tsalma)",
           "note": "Representation or likeness linked to rule and stewardship, not a physical form."
         },
         {
-          "term": "Rest",
-          "original": "Hebrew: שָׁבַת / שַׁבָּת (shavat / shabbat) - Greek: σάββατον (sabbaton) - Aramaic: שבתא (shabta)",
-          "note": "To cease; the seventh day is set apart as a gift and marker in time."
-        },
-        {
-          "term": "Bereshit / In the beginning",
-          "original": "Hebrew: בְּרֵאשִׁית (Bereshit), Greek (LXX): Ἐν ἀρχῇ (En archē), Aramaic: בְּקַדְמִין (b'qadmin)",
-          "note": "The opening word of the Hebrew Bible. It is built from the prefix ב (bet, 'in') attached to רֵאשִׁית (reshit, 'beginning, first, chief'), itself rooted in רֹאשׁ (rosh, 'head'). The Septuagint renders the phrase Ἐν ἀρχῇ (En archē), the exact opening John reuses in John 1:1. A Messianic and Hebrew Roots interpretive tradition reads the six Paleo-Hebrew pictographs of Bereshit as a hidden Christological message: ב (Bet) = tent or house; ר (Resh) = head or person; א (Aleph) = God, the Strong One; ש (Shin) = destroy or consume; י (Yod) = hand or work; ת (Tav) = cross or covenant. Read together, the letters can be glossed: 'The Son of God is destroyed by His own hand upon a cross.' This pictographic reading is not the dominant academic translation; standard Hebrew lexicography treats Bereshit as prefix-plus-noun rather than a string of icons. The tradition is hermeneutically interesting, however, because it surfaces themes (Son, sacrifice, covenant) that the rest of Scripture explicitly attaches to Genesis 1, where the Spirit hovers, the Word speaks, and creation begins through the agency the New Testament names as Christ (John 1:3; Colossians 1:16; Hebrews 1:2). The reading is best treated as devotional midrash that points readers toward the cross already foreshadowed in the Bible's first verse."
+          "term": "*word*",
+          "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
+          "note": "Message, reason, or ordered communication; not merely spoken sounds."
         }
       ],
       "keyTakeaway": "God creates light and separates it from darkness, establishes sky and sea, produces vegetation, places sun and moon and stars in the sky, and creates sea creatures and birds; then God makes mankind in his image, male and female, and gives them dominion over all living things and plants for food.",
@@ -146,34 +161,49 @@
       ],
       "crossRefs": [
         "Psalm 33:6: By the *word* of the LORD the heavens were made.",
-        "John 1:1–3: In the beginning was the *word* (logos); all things came to be through the *word*.",
+        "John 1:1-3: In the beginning was the *word* (logos); all things came to be through the *word*.",
         "Hebrews 11:3: By faith we understand the universe was formed by the *word* of God."
       ],
       "translationNotes": [
         {
-          "term": "*word*",
-          "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
-          "note": "Message, reason, or ordered communication; not merely spoken sounds."
-        },
-        {
-          "term": "Day",
-          "original": "Hebrew: יוֹם (yom) - Greek: ἡμέρα (hemera) - Aramaic: ܝܘܡܐ (yoma)",
-          "note": "A period of time that can mean a literal 24-hour day, daylight, or an era, age, or epoch. In Genesis 1, yom is paired with the phrase וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר (vayehi-erev vayehi-boker, 'and there was evening and there was morning') for Days 1–6, marking them as completed periods. On Day 7, however, this phrase is absent, leaving the seventh day open-ended. Elsewhere, yom can describe a single day (Genesis 1:5), an indefinite span (Genesis 2:4), or a prophetic age such as 'the day of the Lord' (Psalm 95:8; Joel 2:31). This range of meaning is why some read the creation days as literal 24-hour periods while others understand them as long epochs consistent with Earth's ancient age."
-        },
-        {
-          "term": "Heavens",
-          "original": "Hebrew: שָׁמַיִם (shamayim) - Greek: οὐρανοί (ouranoi) - Aramaic: ܫܡܝܐ (shmayya)",
-          "note": "Skies or cosmic expanse; a broad term, not a single location."
-        },
-        {
-          "term": "Image",
-          "original": "Hebrew: צֶלֶם (tselem) - Greek: εἰκών (eikon) - Aramaic: ܨܠܡܐ (tsalma)",
-          "note": "Representation or likeness linked to rule and stewardship, not a physical form."
-        },
-        {
           "term": "Rest",
           "original": "Hebrew: שָׁבַת / שַׁבָּת (shavat / shabbat) - Greek: σάββατον (sabbaton) - Aramaic: שבתא (shabta)",
           "note": "To cease; the seventh day is set apart as a gift and marker in time."
+        },
+        {
+          "term": "Adam and adamah",
+          "original": "Hebrew: אָדָם (adam) - אֲדָמָה (adamah, ground)",
+          "note": "2:7 forms ha-adam, the man, out of the dust of ha-adamah, the ground, and the two words are the same root. English cannot show it, so a reader misses that the name is the material. The same pairing returns as the sentence at 3:19, back to the adamah, because out of it you were taken."
+        },
+        {
+          "term": "The breath of life",
+          "original": "Hebrew: נִשְׁמַת חַיִּים (nishmath chayyim) - נֶפֶשׁ חַיָּה (nephesh chayyah)",
+          "note": "Neshamah is breath drawn through the nose, and 2:7 has it breathed into the nostrils. Nephesh chayyah, what the man then becomes, is rendered living soul or living being, and it is the same phrase already used of the animals at 1:20-21 and 1:24. What separates the man in 2:7 is not the phrase at the end but the breathing at the start."
+        },
+        {
+          "term": "The four rivers",
+          "original": "Hebrew: פִּישׁוֹן (Pishon) - גִּיחוֹן (Gichon) - חִדֶּקֶל (Chiddeqel, Tigris) - פְּרָת (Perath, Euphrates)",
+          "note": "2:10-14 names four and locates each one. Two are still on the map: the Chiddeqel is the Tigris, which the text places east of Asshur, and the Perath is the Euphrates. The Pishon runs around Havilah, where the text notes gold, bdellium and onyx, and the Gihon around Cush; neither of those two courses can be traced on the ground today. Bdellium is a pale aromatic gum, named again at Numbers 11:7 for the colour of manna."
+        },
+        {
+          "term": "To work it and keep it",
+          "original": "Hebrew: לְעָבְדָהּ וּלְשָׁמְרָהּ (le-ovdah u-le-shomrah)",
+          "note": "Avad is to work or to serve, and shamar is to guard or keep watch over. The two verbs appear as a pair again at Numbers 3:7-8 and 18:5-6, where they are the Levites' duty toward the tabernacle: serve it and guard it. 2:15 gives the man a job with the same two words before anything has gone wrong."
+        },
+        {
+          "term": "A helper fit for him",
+          "original": "Hebrew: עֵזֶר כְּנֶגְדּוֹ (ezer kenegdo)",
+          "note": "English helper suggests an assistant, and the Hebrew does not carry that. Ezer is used about twenty times in the Old Testament and most of those are of God Himself: my help and my shield (Psalm 33:20), the God of your father who helps you (Genesis 49:25), our help is in the name of the LORD (Psalm 124:8). Kenegdo means corresponding to him, standing opposite. 2:18 and 2:20 pair a word of strength with a word of match."
+        },
+        {
+          "term": "Ish and ishshah",
+          "original": "Hebrew: אִישׁ (ish, man) - אִשָּׁה (ishshah, woman)",
+          "note": "2:23 is a sentence built on sound: she shall be called ishshah because she was taken out of ish. The two Hebrew words differ by one ending, so the naming and the reason are audible in a way no English pair reproduces. 2:24 then draws the conclusion about leaving and holding fast, which Jesus quotes at Matthew 19:5 and Paul at Ephesians 5:31."
+        },
+        {
+          "term": "Naked and not ashamed",
+          "original": "Hebrew: עֲרוּמִּים (arummim, naked) - עָרוּם (arum, shrewd)",
+          "note": "The last word of 2:25 and one of the first words of 3:1 are near twins in Hebrew. The couple are arummim, naked, and the serpent is arum, crafty. The chapter break falls between them, but in a scroll they sit side by side, and the pun is the hinge English readers never see."
         }
       ],
       "keyTakeaway": "God rests on the seventh day after completing creation, then forms Adam from dust, places him in the Garden of Eden with instructions not to eat from the tree of knowledge of good and evil, and creates a woman from Adam's rib as his helper. Adam names all the animals, names the woman, and they live together naked without shame.",
@@ -416,7 +446,7 @@
       ],
       "crossRefs": [
         "Hebrews 11:5: By faith Enoch was taken so that he did not see death.",
-        "Jude 1:14–15: Enoch prophesied about judgment.",
+        "Jude 1:14-15: Enoch prophesied about judgment.",
         "Genesis 6:8: Noah finds favor in the eyes of the LORD."
       ],
       "translationNotes": [
@@ -491,7 +521,7 @@
         "2 Peter 2:5: Noah is called a herald of righteousness.",
         "Hebrews 11:7: By faith Noah built the ark.",
         "Genesis 7:1: God tells Noah to enter the ark with his family.",
-        "1 Enoch 6–11: Story of the Watchers, giants, and corruption before the flood."
+        "1 Enoch 6-11: Story of the Watchers, giants, and corruption before the flood."
       ],
       "translationNotes": [
         {
@@ -564,7 +594,7 @@
         "And the waters prevailed upon the earth for 150 days. (7:24)."
       ],
       "crossRefs": [
-        "Matthew 24:38–39: People were eating and drinking until the flood came and took them away.",
+        "Matthew 24:38-39: People were eating and drinking until the flood came and took them away.",
         "2 Peter 3:6: The world was deluged with water and perished.",
         "Genesis 8:1: God remembers Noah and causes the waters to subside."
       ],
@@ -578,6 +608,16 @@
           "term": "Ark",
           "original": "Hebrew: תֵּבָה (tebah) - Greek: κιβωτός (kibotos) - Aramaic: ܬܝܒܬܐ (taybta)",
           "note": "A large box-like vessel; term also used for the basket of baby Moses."
+        },
+        {
+          "term": "Fifteen cubits",
+          "original": "Hebrew: חֲמֵשׁ עֶשְׂרֵה אַמָּה (chamesh esreh ammah)",
+          "note": "A cubit runs about 18 inches, so fifteen cubits is roughly 22 feet or 6.8 meters. Genesis 6:15 gives the ark a height of 30 cubits, exactly twice that figure. Verse 20 is measuring how far the water stood above the high ground, not the total depth of the flood."
+        },
+        {
+          "term": "The seventeenth day of the second month",
+          "original": "Hebrew: בְּשִׁבְעָה עָשָׂר יוֹם לַחֹדֶשׁ הַשֵּׁנִי (be-shivah asar yom la-chodesh ha-sheni)",
+          "note": "Genesis dates the flood by month and day, and the numbers are internally consistent. The water rises on the second month, day seventeen (7:11) and the ark grounds on the seventh month, day seventeen (8:4). That is five months, and 7:24 and 8:3 both call the same span 150 days, which gives months of exactly 30 days. The year is counted from Noah's birthday, not from a national calendar."
         }
       ],
       "keyTakeaway": "The flood destroys all living creatures outside the ark; only Noah, his family, and the animals with him survive.",
@@ -633,6 +673,16 @@
           "term": "Burnt offering",
           "original": "Hebrew: עֹלָה (olah) - Greek: ὁλοκαύτωμα (holokautōma) - Aramaic: ܩܘܪܒܢܐ ܕܡܘܩܕܐ (qurbana d-muqda)",
           "note": "An offering wholly consumed by fire on the altar."
+        },
+        {
+          "term": "The mountains of Ararat",
+          "original": "Hebrew: הָרֵי אֲרָרָט (harei Ararat)",
+          "note": "Ararat is a region, not a peak. The Hebrew name matches Urartu, the kingdom the Assyrians fought around Lake Van in eastern Anatolia, and the Bible uses it that way twice more: Sennacherib's sons escape to the land of Ararat (2 Kings 19:37), and Ararat is summoned as a kingdom against Babylon (Jeremiah 51:27). The plural 'mountains' names a range. The single peak in eastern Turkey now called Mount Ararat carries the region's name; Genesis names the range."
+        },
+        {
+          "term": "Pleasing aroma",
+          "original": "Hebrew: רֵיחַ הַנִּיחֹחַ (reyach hannichoach)",
+          "note": "A fixed sacrificial formula, not a description of smell. Nichoach comes from the root nuach, to rest or settle, the same root behind Noah's name. It is the standard phrase for an accepted offering throughout Leviticus and Numbers, and this is its first appearance."
         }
       ],
       "keyTakeaway": "The waters recede, Noah leaves the ark, and God promises not to destroy all life by flood again.",
@@ -693,9 +743,11 @@
         "So Noah lived a total of 950 years, and then he died. (9:29)."
       ],
       "crossRefs": [
-        "Isaiah 54:9: God recalls the waters of Noah and promises not to flood the earth again.",
-        "Acts 15:20: Instruction to abstain from blood appears in early church directives.",
-        "Genesis 8:21–22: The promise that regular seasons will continue."
+        "Genesis 8:21-22: The LORD's promise after the flood that seedtime and harvest, cold and heat, summer and winter, day and night will never cease.",
+        "Genesis 10:6: Ham's four sons are listed as Cush, Mizraim, Put, and Canaan; the curse at 9:25 falls on exactly one of the four and names him.",
+        "Genesis 10:15-19: Canaan's line is set out, Sidon, the Hittites, the Jebusites, the Amorites, the Girgashites, the Hivites, holding the country from Sidon to Gaza and across to Sodom, which is the territory 9:25 lands on.",
+        "Acts 15:20: The letter from Jerusalem tells Gentile believers to abstain from blood, the same restriction given to Noah at 9:4.",
+        "Isaiah 54:9: God recalls the waters of Noah and the oath that they would never again cover the earth."
       ],
       "translationNotes": [
         {
@@ -712,6 +764,21 @@
           "term": "Sign",
           "original": "Hebrew: אוֹת (ot) - Greek: σημεῖον (sēmeion) - Aramaic: ܐܬܐ (atha)",
           "note": "Visible marker that memorializes a declaration; here, the rainbow for the covenant."
+        },
+        {
+          "term": "the bow in the cloud",
+          "original": "Hebrew: קֶשֶׁת (qeshet), bow",
+          "note": "The word Genesis 9:13 uses for the rainbow is the ordinary Hebrew word for a war bow, the weapon; there is no separate word for the arc in the sky. Everywhere else in Scripture qeshet means the thing an archer draws, as at Genesis 21:20 and 2 Kings 13:15. The sign set in the cloud is a weapon hung up, pointed away from the ground."
+        },
+        {
+          "term": "whoever sheds the blood of man",
+          "original": "Hebrew: דַּם (dam), blood",
+          "note": "Genesis 9:5-6 is the first statement in Scripture that a killing must be answered by the community, and it grounds the reason in man being made in God's image rather than in the victim's rank. Every later law on this subject builds on it: the cities of refuge in Numbers 35 and Deuteronomy 19, the requirement of two witnesses at Deuteronomy 17:6, and the rule that no ransom may be taken for a murderer at Numbers 35:31."
+        },
+        {
+          "term": "Cursed be Canaan",
+          "original": "Hebrew: כְּנַעַן (Kenaan) - חָם (Cham)",
+          "note": "The sentence in 9:25 names Canaan. 9:24 says Noah learned what his youngest son had done to him, and the words that follow fall on that son's son, one of Ham's four, who is named twice before the scene begins (9:18, 9:22). Ham's other three sons are Cush, Mizraim, and Put (Genesis 10:6), and none of them is named in the curse. Canaan's line is then listed by name at Genesis 10:15-19, Sidon and the Hittites, Jebusites, Amorites, Girgashites, and Hivites, holding the land from Sidon to Gaza and across to Sodom, which is the country and the peoples named in Deuteronomy 20:17."
         }
       ],
       "keyTakeaway": "God makes a perpetual covenant with Noah and all living creatures, gives food instructions, and the family line continues from Noah’s sons.",
@@ -772,7 +839,7 @@
       ],
       "crossRefs": [
         "Deuteronomy 32:8: Nations are apportioned according to the number of the sons of Israel (or God, in some manuscripts).",
-        "1 Chronicles 1:5–23: Parallel genealogies of the nations.",
+        "1 Chronicles 1:5-23: Parallel genealogies of the nations.",
         "Acts 17:26: All nations made from one ancestor to dwell on the earth."
       ],
       "translationNotes": [
@@ -795,6 +862,16 @@
           "term": "Mighty",
           "original": "Hebrew: גִּבּוֹר (gibbor) - Greek: δυνατός (dynatos) - Aramaic: ܚܝܠܬܢܐ (ḥayltana)",
           "note": "Strong or valiant; used of Nimrod as a notable figure."
+        },
+        {
+          "term": "Babel, Erech, Akkad, Nineveh, Calah",
+          "original": "Hebrew: שִׁנְעָר (Shinar), the plain of southern Mesopotamia",
+          "note": "Genesis 10:10-12 is a list of real cities that have all been dug up. Babel is Babylon on the Euphrates; Erech is Uruk, one of the oldest cities in the world; Akkad gave its name to the Akkadian language that the whole Near East later used for diplomacy. Nineveh and Calah, both on the Tigris, became the capitals of Assyria, and the palace at Nineveh is where Sennacherib's wall reliefs were found. The verse traces the movement from the southern plain of Shinar northward to Assyria."
+        },
+        {
+          "term": "the Philistines and Caphtor",
+          "original": "Hebrew: כַּפְתֹּר (Kaftor)",
+          "note": "Genesis 10:14 places the Philistines in the line of the Casluhites and names the Caphtorites in the same breath; Amos 9:7 says the LORD brought the Philistines from Caphtor, and Jeremiah 47:4 calls them the remnant from the coasts of Caphtor. Caphtor is a place across the sea, not another Canaanite hill town, which is why the Philistines in Judges and Samuel look and fight differently from Israel's other neighbors: five confederated cities on the coastal plain, iron working they kept to themselves (1 Samuel 13:19-22), and uncircumcised, which is the standing insult used against them."
         }
       ],
       "keyTakeaway": "A genealogy traces how families, lands, and languages spread from Noah’s sons into distinct nations. From Shem to Abram, God preserves a chosen line through ages and names, preparing for His covenant with Abraham.",
@@ -856,8 +933,8 @@
       "crossRefs": [
         "Deuteronomy 32:8: Division of the nations is recalled in Israel’s song.",
         "Psalm 55:9: A prayer to confound speech in the city.",
-        "Jubilees 10:18–27: Noah’s sons divide the earth, Tower of Babel linked to demonic influence.",
-        "Acts 2:6–11: Many languages are heard by one crowd (a later scene of diverse tongues)."
+        "Jubilees 10:18-27: Noah’s sons divide the earth, Tower of Babel linked to demonic influence.",
+        "Acts 2:6-11: Many languages are heard by one crowd (a later scene of diverse tongues)."
       ],
       "translationNotes": [
         {
@@ -874,6 +951,16 @@
           "term": "Name",
           "original": "Hebrew: שֵׁם (shem) - Greek: ὄνομα (onoma) - Aramaic: ܫܡܐ (shma)",
           "note": "Reputation or renown; here, human intention to establish identity."
+        },
+        {
+          "term": "Ur of the Chaldeans",
+          "original": "Hebrew: אוּר כַּשְׂדִּים (Ur Kasdim)",
+          "note": "Ur was a real port city on the lower Euphrates in southern Iraq, and its patron god was Nanna, the moon. Leonard Woolley excavated it for the University of Pennsylvania and the British Museum from 1922 to 1934 and uncovered the great stepped temple tower built around 2100 BC by Ur-Nammu for that moon god; it is still the best preserved structure of its kind. Joshua 24:2 says plainly that Terah, Abraham's father, worshiped other gods on that side of the river. Genesis 11:31 has Terah take the family out of Ur toward Canaan."
+        },
+        {
+          "term": "Haran",
+          "original": "Hebrew: חָרָן (Charan)",
+          "note": "Haran sits far up the Euphrates system in what is now southeastern Turkey, on the caravan road running west toward the Mediterranean. Like Ur it was a center of moon worship, with a famous temple of the same god under his Akkadian name, Sin. Terah settled there and died there (11:31-32), and the family stayed connected to it: Abraham sends back to Haran for a wife for Isaac (24:4, 24:10) and Jacob flees there to Laban (28:10)."
         }
       ],
       "keyTakeaway": "God confuses human language and scatters the people from Babel, halting the city and tower project.",
@@ -922,7 +1009,7 @@
       ],
       "crossRefs": [
         "Hebrews 11:8: Abram obeys and goes, not knowing where he is going.",
-        "Psalm 105:42–44: God remembers promises and gives lands to His people.",
+        "Psalm 105:42-44: God remembers promises and gives lands to His people.",
         "Galatians 3:8: Scripture announced that all nations would be blessed (stated as a promise)."
       ],
       "translationNotes": [
@@ -945,6 +1032,11 @@
           "term": "Plagues",
           "original": "Hebrew: נְגָעִים (negaʿim) - Greek: πληγαί (plēgai) - Aramaic: ܡܚܘ̈ܬܐ (maḥwāthā)",
           "note": "Afflictions or strikes; here, divine afflictions on Pharaoh’s house."
+        },
+        {
+          "term": "the road Abram walked",
+          "original": "Hebrew: אֵלוֹן מוֹרֶה (Elon Moreh), the Oak of Moreh",
+          "note": "Genesis 12:6-9 traces a route, not a wander. Shechem sits in the one easy pass through the central hill country; Bethel and Ai stand about twenty miles south of it on the ridge; the Negev is the dry south. The line between them is the ridge road running the spine of Canaan, the main north-south route of the country, and Abram builds altars along it at Shechem and at Bethel. Deuteronomy 11:29-30 later stages the covenant ceremony at the same Shechem landmark, the Oak of Moreh."
         }
       ],
       "keyTakeaway": "Abram obeys God’s call and journeys to Canaan, but in Egypt Sarai is taken into Pharaoh’s house until God intervenes with plagues.",
@@ -997,9 +1089,14 @@
           "note": "A city in the hill country of Judah where Abram dwells and builds an altar."
         },
         {
-          "term": "*sin*",
-          "original": "Hebrew: חַטָּאת (ḥattāʼt) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܝܬܐ (ḥṭīṯā)",
-          "note": "Missing the mark; falling short of God’s intended standard, not merely doing bad things."
+          "term": "The Negev",
+          "original": "Hebrew: הַנֶּגֶב (ha-Negev)",
+          "note": "Not a compass direction in the first instance. The word means the parched or dry country, the arid belt south of the Judean hills, and because that region lay south it came to double as the word for 'south'. Abram 'went up' out of Egypt (13:1) because the climb from the Nile delta into the Negev and the hill country is a real ascent; Hebron sits about 3,000 feet above sea level."
+        },
+        {
+          "term": "The plain of the Jordan",
+          "original": "Hebrew: כִּכַּר הַיַּרְדֵּן (kikkar ha-Yarden)",
+          "note": "Kikkar means a round or flat disk, and the same word does three jobs in Hebrew: a round loaf of bread, a talent of metal weighed out as a flat cake, and the oval basin of the lower Jordan around the north end of the Dead Sea. English uses three unrelated words for it. Lot is choosing the disk of well watered ground at the river's mouth."
         }
       ],
       "keyTakeaway": "Abram and Lot part ways to end strife; Abram remains in Canaan and receives renewed land promises.",
@@ -1052,19 +1149,29 @@
       ],
       "crossRefs": [
         "Psalm 110:4: A priest forever after the order of Melchizedek.",
-        "Hebrews 7:1–2: Melchizedek described as king of righteousness and king of peace; Abram gives a tenth.",
+        "Hebrews 7:1-2: Melchizedek described as king of righteousness and king of peace; Abram gives a tenth.",
         "2 Samuel 8:11: Spoils set apart to the LORD in later narratives."
       ],
       "translationNotes": [
         {
           "term": "Priest",
-          "original": "Hebrew: כֹּהֵן (kohen) - Greek: ἱερεύς (hiereus) - Aramaic: ܟܗܢܐ (kahana)",
+          "original": "Hebrew: כֹּהֵן (kohen) - Greek: ἱερεύς (hiereus) - Aramaic: ܟܗܢܐ (kahana)",
           "note": "An authorized minister/officiant of worship and blessing."
         },
         {
           "term": "Tenth (tithe)",
-          "original": "Hebrew: מַעֲשֵׂר (maʿaser) - Greek: δεκάτη (dekatē) - Aramaic: ܥܣܝܪܬܐ (ʿasirta)",
+          "original": "Hebrew: מַעֲשֵׂר (maʿaser) - Greek: δεκάτη (dekatē) - Aramaic: ܥܣܝܪܬܐ (ʿasirta)",
           "note": "A tenth portion of goods; here given by Abram to Melchizedek."
+        },
+        {
+          "term": "Trained men",
+          "original": "Hebrew: חֲנִיכִים (chanikim)",
+          "note": "The word appears only here in the Hebrew Bible and means men trained or tried in service. These 318 are not hired soldiers but retainers born in Abram's own household, which tells you the scale of his establishment: a private force large enough to chase a coalition army more than 150 miles north, from Mamre near Hebron to beyond Damascus, and break it in a night attack."
+        },
+        {
+          "term": "Tar pits",
+          "original": "Hebrew: בֶּאֱרֹת חֵמָר (be'erot chemar, 'wells of bitumen')",
+          "note": "Natural asphalt seeps, real geology at the southern end of the Dead Sea, where lumps of bitumen still surface after earthquakes. Bitumen was a traded commodity and a waterproof glue. The same substance mortars the bricks at Babel (Genesis 11:3), seals Noah's ark (Genesis 6:14), and coats the basket that carries the infant Moses (Exodus 2:3)."
         }
       ],
       "keyTakeaway": "Abram rescues Lot from captured kings and is blessed by Melchizedek; Abram refuses reward from the king of Sodom.",
@@ -1113,7 +1220,7 @@
         "Amorites, Canaanites, Girgashites, and Jebusites.” (15:21)."
       ],
       "crossRefs": [
-        "Nehemiah 9:7–8: God chose Abram, found his heart faithful, and made a covenant to give the land.",
+        "Nehemiah 9:7-8: God chose Abram, found his heart faithful, and made a covenant to give the land.",
         "Romans 4:3: It is stated that Abram believed, and it was counted to him as righteousness.",
         "Jeremiah 34:18: Passing between the pieces appears in covenant contexts."
       ],
@@ -1132,6 +1239,16 @@
           "term": "*word*",
           "original": "Hebrew: דָּבָר (dabar) - Greek: λόγος (logos) - Aramaic: מֵימְרָא (memra)",
           "note": "Message or declaration; the narrative states the word of the LORD came in a vision."
+        },
+        {
+          "term": "cutting a covenant",
+          "original": "Hebrew: כָּרַת בְּרִית (karat berit), to cut a covenant",
+          "note": "The Hebrew for making an agreement is cutting one, and Genesis 15:9-18 shows why. Animals were killed and split, the halves laid facing each other with a lane between, and the parties walked that lane, which is a self-curse acted out: let this be done to me if I break it. Jeremiah 34:18-19 describes officials of Judah doing exactly this with a calf. In Genesis 15 only the firepot and torch pass between the pieces; Abram does not walk."
+        },
+        {
+          "term": "four hundred years, and the fourth generation",
+          "original": "Hebrew: דּוֹר רְבִיעִי (dor revii), fourth generation",
+          "note": "Genesis 15:13-16 gives the length of the coming stay in Egypt as four hundred years and then says the return comes in the fourth generation, which means a generation is being counted at about a century here, matching the lifespans in these chapters. Exodus 12:40 gives the figure as 430 years. The reason given for the delay is stated in 15:16: the iniquity of the Amorites is not yet complete."
         }
       ],
       "keyTakeaway": "God assures Abram of innumerable offspring and grants the land through a covenant enacted with a solemn ritual.",
@@ -1190,6 +1307,16 @@
           "term": "Deal harshly",
           "original": "Hebrew: עָנָה (ʿanah) - Greek: ταπεινόω (tapeinoō) - Aramaic: ܐܢܐ (ʿana)",
           "note": "To afflict, oppress, or humble; describes Sarai’s treatment of Hagar."
+        },
+        {
+          "term": "the maid given to a husband",
+          "original": "Hebrew: שִׁפְחָה (shifchah), a female servant",
+          "note": "Sarai's proposal in Genesis 16:2 was a recognized legal arrangement in the ancient Near East, not an invention of hers: a barren wife supplied her own servant, and the child born counted to the wife. Marriage contracts from Mesopotamia set out this exact arrangement with its terms. Rachel and Leah both do the same thing with Bilhah and Zilpah at Genesis 30:3-13, and four of the twelve tribes come from it."
+        },
+        {
+          "term": "Beer-lahai-roi and the way to Shur",
+          "original": "Hebrew: בְּאֵר לַחַי רֹאִי (Beer Lachai Roi), the well of the Living One who sees me",
+          "note": "Hagar is found at a spring on the road to Shur (16:7), which runs southwest out of Canaan toward the Egyptian frontier; she was an Egyptian (16:1) and was heading home. The well she names lies in the Negev between Kadesh and Bered (16:14). Isaac later lives beside that same well, at Genesis 24:62 and 25:11."
         }
       ],
       "keyTakeaway": "Sarai gives Hagar to Abram; when Hagar conceives and flees harsh treatment, God sees her and promises a son named Ishmael.",
@@ -1238,7 +1365,7 @@
       "crossRefs": [
         "Romans 4:11: Circumcision described as a sign and seal in later discussion.",
         "Joshua 5:2: Circumcision is renewed before entering the land.",
-        "Genesis 21:3–4: Isaac is born and circumcised on the eighth day."
+        "Genesis 21:3-4: Isaac is born and circumcised on the eighth day."
       ],
       "translationNotes": [
         {
@@ -1255,6 +1382,11 @@
           "term": "*covenant*",
           "original": "Hebrew: בְּרִית (berit) - Greek: διαθήκη (diathēkē) - Aramaic: ܕܝܬܝܩܐ (dyathiqa)",
           "note": "Formal binding commitment; here, between God and Abraham’s line with a perpetual sign."
+        },
+        {
+          "term": "circumcision in the ancient world",
+          "original": "Hebrew: מוּל (mul), to circumcise",
+          "note": "Israel was not the only people who practiced it. Jeremiah 9:25-26 lists Egypt, Edom, Ammon, Moab, and the desert tribes alongside Judah as circumcised; Egyptian tomb reliefs show the operation performed on youths, and it was tied there to coming of age and to entering priestly service. Two things set the command in Genesis 17 apart: it is done on the eighth day of infancy, before the child can consent or earn it (17:12), and it is applied to every male in the household including foreign-born servants (17:12-13). The Philistines did not practice it at all, which is why uncircumcised is the standing name for them from Judges 14:3 onward."
         }
       ],
       "keyTakeaway": "God formalizes the covenant with Abraham, gives circumcision as its sign, and promises a son through Sarah to be named Isaac.",
@@ -1312,8 +1444,8 @@
       ],
       "crossRefs": [
         "Hebrews 13:2: Some have entertained angels without knowing it.",
-        "Romans 4:19–21: Abraham is described as confident in the promise of a son.",
-        "Ezekiel 16:49–50: Sodom’s sins listed as pride, excess, and abomination."
+        "Romans 4:19-21: Abraham is described as confident in the promise of a son.",
+        "Ezekiel 16:49-50: Sodom’s sins listed as pride, excess, and abomination."
       ],
       "translationNotes": [
         {
@@ -1401,9 +1533,9 @@
       ],
       "crossRefs": [
         "Judges 19:22: Men of Gibeah demand to 'know' a guest, echoing Sodom’s sin.",
-        "Ezekiel 16:49–50: Sodom’s sins described as pride, excess, and abomination.",
-        "Luke 17:28–32: Jesus recalls Lot’s day and warns, 'Remember Lot’s wife.'",
-        "2 Peter 2:6–8: Sodom and Gomorrah as examples of judgment; Lot is called 'tormented by their lawless deeds.'"
+        "Ezekiel 16:49-50: Sodom’s sins described as pride, excess, and abomination.",
+        "Luke 17:28-32: Jesus recalls Lot’s day and warns, 'Remember Lot’s wife.'",
+        "2 Peter 2:6-8: Sodom and Gomorrah as examples of judgment; Lot is called 'tormented by their lawless deeds.'"
       ],
       "translationNotes": [
         {
@@ -1425,6 +1557,16 @@
           "term": "Sulfur and fire",
           "original": "Hebrew: גָּפְרִית וָאֵשׁ (gophrith va-ʾesh) - Greek: θεῖον καὶ πῦρ (theion kai pyr) - Aramaic: ܓܦܪܝܬܐ ܘܢܘܪܐ (gophritha w-nura)",
           "note": "Burning substances raining from heaven as instruments of destruction."
+        },
+        {
+          "term": "the guest under my roof",
+          "original": "Hebrew: בְּצֵל קֹרָתִי (betsel qorati), in the shadow of my roof",
+          "note": "In the ancient Near East a host was bound to defend a guest with his own life, and the traveler had no other protection on the road. That is the code Lot appeals to in Genesis 19:8 when he says these men have come under the shelter of his roof, and it explains why he is sitting in the gateway at evening (19:1): the gate was where a town's business was done and where arriving strangers were met. The men of the city demand the guests and then turn on Lot for acting as their judge. Judges 19:15-24 records the same demand made in an Israelite town at Gibeah."
+        },
+        {
+          "term": "the cities of the plain and the tar pits",
+          "original": "Hebrew: כִּכַּר הַיַּרְדֵּן (kikkar ha-Yarden), the round of the Jordan",
+          "note": "The valley Lot chose is the deep rift at the bottom of the Jordan, running down to the Dead Sea, which lies about 1,400 feet below sea level, the lowest dry land on earth. Genesis 14:10 says the valley was full of tar pits, and natural bitumen still surfaces in that region; the same substance sealed the ark in Genesis 6:14 and the basket in Exodus 2:3. Genesis 19:24 reports sulfur and fire on Sodom and Gomorrah, and 19:26 the pillar of salt, in a basin whose water is roughly ten times as salty as the sea."
         }
       ],
       "keyTakeaway": "Sodom’s corruption is exposed in violent intent; God destroys the cities while rescuing Lot, whose family history continues in troubling events.",
@@ -1474,9 +1616,9 @@
         "for on account of Abraham’s wife Sarah, the LORD had completely closed all the wombs in Abimelech’s household. (20:18)."
       ],
       "crossRefs": [
-        "Genesis 12:10–20: A related account in Egypt with Pharaoh.",
-        "Psalm 105:14–15: God rebuked kings for their sake: 'Do not touch my anointed.'",
-        "Job 42:8–10: Intercession followed by restoration (parallel theme)."
+        "Genesis 12:10-20: A related account in Egypt with Pharaoh.",
+        "Psalm 105:14-15: God rebuked kings for their sake: 'Do not touch my anointed.'",
+        "Job 42:8-10: Intercession followed by restoration (parallel theme)."
       ],
       "translationNotes": [
         {
@@ -1557,7 +1699,7 @@
       ],
       "crossRefs": [
         "Genesis 16:11: Ishmael’s name explained: 'God hears.'",
-        "Genesis 17:10–12: Circumcision as the sign of the covenant on the eighth day.",
+        "Genesis 17:10-12: Circumcision as the sign of the covenant on the eighth day.",
         "Psalm 34:17: The LORD hears and delivers the afflicted."
       ],
       "translationNotes": [
@@ -1570,6 +1712,16 @@
           "term": "Beersheba",
           "original": "Hebrew: בְּאֵר שֶׁבַע (Beʾer Shevaʿ) - Greek: Βηρσαβεέ (Bēr-sabee) - Aramaic: ܒܐܪ ܫܒܥ (Beʾar Shevaʿ)",
           "note": "Well of seven or oath; site of the treaty and a well."
+        },
+        {
+          "term": "Circumcised on the eighth day",
+          "original": "Hebrew: בֶּן־שְׁמֹנַת יָמִים (ben shemonat yamim)",
+          "note": "Circumcision was practiced in Egypt and elsewhere in the region, generally at adolescence. Genesis 17:10-12 sets a different rule: the eighth day after birth, before the child can consent or earn it, and applying to every male in the household including purchased slaves. The eighth day is the sign of the covenant, not a coming of age."
+        },
+        {
+          "term": "Weaned",
+          "original": "Hebrew: גָּמַל (gamal)",
+          "note": "Weaning in this period came at roughly two to three years, not at a few months. Hannah nursed Samuel until he was weaned and only then brought him to Shiloh (1 Samuel 1:22-24). A weaning feast marked the point at which a child had survived the most dangerous years, which is why Abraham held 'a great feast' for it (21:8)."
         }
       ],
       "keyTakeaway": "Isaac’s birth fulfills the promise; Hagar and Ishmael depart under God’s care; Abraham makes a treaty at Beersheba.",
@@ -1622,8 +1774,8 @@
       ],
       "crossRefs": [
         "2 Chronicles 3:1: Moriah named as the temple mount location in later history.",
-        "Hebrews 11:17–19: Abraham’s faith is shown by offering Isaac.",
-        "James 2:21–23: Abraham’s actions described alongside the statement that he believed God.",
+        "Hebrews 11:17-19: Abraham’s faith is shown by offering Isaac.",
+        "James 2:21-23: Abraham’s actions described alongside the statement that he believed God.",
         "John 1:29: Jesus is called the Lamb of God who takes away the sin of the world."
       ],
       "translationNotes": [
@@ -1703,7 +1855,7 @@
         "So the field and its cave were deeded by the Hittites to Abraham as a burial site. (23:20)."
       ],
       "crossRefs": [
-        "Genesis 49:29–32: The patriarchal burial place identified as Machpelah.",
+        "Genesis 49:29-32: The patriarchal burial place identified as Machpelah.",
         "Acts 7:16: Mention of burial properties in later retellings.",
         "Jeremiah 32:10: Deeds and purchases recorded with witnesses (parallel practice)."
       ],
@@ -1717,6 +1869,26 @@
           "term": "Possession",
           "original": "Hebrew: אֲחֻזָּה (ʾaḥuzzah) - Greek: κτῆσις (ktēsis) - Aramaic: ܐܚܘܙܬܐ (aḥuzta)",
           "note": "A property holding or estate."
+        },
+        {
+          "term": "Four hundred shekels of silver",
+          "original": "Hebrew: אַרְבַּע מֵאֹת שֶׁקֶל כֶּסֶף (arba me'ot sheqel kesef)",
+          "note": "The shekel is a weight, about 11.4 grams or four tenths of an ounce, judged from the inscribed stone shekel weights excavated in Judah. Four hundred of them is roughly 10 pounds of silver. Set against the other land prices in Scripture the figure is steep: Jeremiah bought a field for 17 shekels (Jeremiah 32:9), David bought the threshing floor and oxen for 50 (2 Samuel 24:24), and Omri bought the whole hill of Samaria for 6,000 (1 Kings 16:24). Ephron names a courtesy price no bargainer would name, and Abraham pays it without haggling."
+        },
+        {
+          "term": "Weighed out ... according to the standard of the merchants",
+          "original": "Hebrew: שָׁקַל (shaqal, 'to weigh')",
+          "note": "There were no coins yet. Silver moved as bar, scrap, or ring, and every payment was set on a balance against stone weights, which is why the same Hebrew root gives both the verb 'weigh' and the noun 'shekel'. 'The standard of the merchants' means the commercial weight set, the one both parties would accept. Jeremiah does the same thing centuries later, weighing the silver on the scales before witnesses (Jeremiah 32:10)."
+        },
+        {
+          "term": "The gate of his city",
+          "original": "Hebrew: שַׁעַר עִירוֹ (sha'ar iro)",
+          "note": "The city gate was the courthouse and the registry office. Its chambers were where elders sat, contracts were struck, and title passed in front of witnesses. Boaz redeems Ruth's land at the gate before ten elders (Ruth 4:1-2), and legal cases are brought to the elders at the gate (Deuteronomy 21:19). Ephron sells 'in the presence of all the Hittites who had come to the gate' (23:18), which is what makes the deed hold."
+        },
+        {
+          "term": "Hebron and Mamre",
+          "original": "Hebrew: חֶבְרוֹן (Chevron) - קִרְיַת אַרְבַּע (Qiryat Arba)",
+          "note": "Hebron stands about nineteen miles south of Jerusalem on the ridge road, roughly 3,000 feet up, the highest town in Judah. Its older name was Kiriath-arba (23:2). Abraham had already been living by the oaks of Mamre beside it (13:18, 18:1), and the cave he buys here becomes the family tomb: Genesis 49:31 lists Abraham and Sarah, Isaac and Rebekah, and Leah buried in it, and 50:13 adds Jacob. David later reigned in Hebron seven years before taking Jerusalem (2 Samuel 5:5)."
         }
       ],
       "keyTakeaway": "Abraham secures a burial site at Machpelah, establishing a legal holding in the land.",
@@ -1817,6 +1989,21 @@
           "term": "Camel",
           "original": "Hebrew: גָּמָל (gamal) - Greek: κάμηλος (kamēlos) - Aramaic: ܓܡܠܐ (gamla)",
           "note": "A pack animal used for long journeys; a practical detail in the narrative."
+        },
+        {
+          "term": "Place your hand under my thigh",
+          "original": "Hebrew: שִׂים־נָא יָדְךָ תַּחַת יְרֵכִי (sim na yadekha tachat yerekhi)",
+          "note": "An oath gesture that occurs exactly twice in Scripture, here and in Genesis 47:29, and both times the matter sworn concerns the family line: getting a wife for Isaac, and burying Jacob in the land of promise. Yerekh is the upper thigh and loin, which Hebrew treats as the seat of descent, as in the phrase 'those who came from Jacob's loins' (Exodus 1:5). The man swears on the line itself."
+        },
+        {
+          "term": "A gold ring weighing a beka",
+          "original": "Hebrew: בֶּקַע (beka) - שֶׁקֶל (sheqel)",
+          "note": "A beka is half a shekel, stated outright in Exodus 38:26, so about 5.7 grams of gold. A stone weight inscribed 'beka' was found in Jerusalem in 2018. The two bracelets at ten shekels come to roughly 114 grams. The 'ring' turns out to be a nose ring: verse 47 says he put it on her nose. Hebrew nezem covers both nose and ear ornaments, so English translators must guess unless the verse specifies."
+        },
+        {
+          "term": "how a marriage was arranged",
+          "original": "Hebrew: מֹהַר (mohar), the bride price",
+          "note": "The negotiation in Genesis 24 runs the standard course: the groom's family sends a representative, gifts of silver, gold, and clothing go to the bride's household (24:53), and the family agrees before the couple ever meet. Two details stand out against that pattern. Rebekah is asked herself, and answers, at 24:57-58. And the nose ring and two bracelets are weighed out and named by weight at 24:22, which is how value was stated before coins existed; coinage does not reach this part of the world until the Persian period."
         }
       ],
       "keyTakeaway": "Rebekah is chosen and brought to Isaac in answer to prayer and providential signs.",
@@ -1879,10 +2066,10 @@
       ],
       "crossRefs": [
         "Hebrews 12:16: Esau described as profane for selling his birthright.",
-        "Malachi 1:2–3: Jacob and Esau contrasted in later prophetic language.",
+        "Malachi 1:2-3: Jacob and Esau contrasted in later prophetic language.",
         "Hebrews 12:16: Esau sold his birthright for a single meal.",
-        "Romans 9:10–13: God chose Jacob over Esau before they were born.",
-        "Genesis 36:1–8: Esau’s later settlements noted."
+        "Romans 9:10-13: God chose Jacob over Esau before they were born.",
+        "Genesis 36:1-8: Esau’s later settlements noted."
       ],
       "translationNotes": [
         {
@@ -1974,7 +2161,7 @@
         "And they brought grief to Isaac and Rebekah. (26:35)."
       ],
       "crossRefs": [
-        "Genesis 21:22–34: Earlier treaty at Beersheba with Abimelech.",
+        "Genesis 21:22-34: Earlier treaty at Beersheba with Abimelech.",
         "Psalm 105:44: Receiving lands and the fruit of others’ labor (later general theme).",
         "Hebrews 11:9: Isaac as an heir of the same promise."
       ],
@@ -1988,6 +2175,16 @@
           "term": "Oath",
           "original": "Hebrew: שְׁבֻעָה (shevuʿah) - Greek: ὅρκος (horkos) - Aramaic: ܡܘܡܬܐ (mowmta)",
           "note": "A sworn commitment binding parties in a treaty."
+        },
+        {
+          "term": "Esek, Sitnah, Rehoboth",
+          "original": "Hebrew: עֵשֶׂק (Esek) - שִׂטְנָה (Sitnah) - רְחֹבוֹת (Rehovot)",
+          "note": "The well names are sentences, and English leaves them untranslated. Esek means 'quarrel'. Sitnah means 'hostility' or 'accusation', from the root satan, to oppose or accuse; Ezra 4:6 uses the same noun for a written accusation lodged against Judah. Rehoboth means 'wide open spaces', which is why Isaac adds 'the LORD has made room for us'. Read in order the three names tell the story by themselves."
+        },
+        {
+          "term": "Reaped a hundredfold",
+          "original": "Hebrew: מֵאָה שְׁעָרִים (me'ah she'arim)",
+          "note": "A hundredfold is the top of the scale, not a routine yield. When Jesus describes a good harvest He names the range as a hundredfold, sixtyfold, or thirtyfold (Matthew 13:8), with a hundred at the ceiling. The detail also matters because Isaac is sowing grain at all: he is a herdsman planting a crop in a famine year, in a land he does not own."
         }
       ],
       "keyTakeaway": "Isaac remains in the land, prospers, and makes peace with Abimelech amid disputes over wells.",
@@ -2152,6 +2349,21 @@
           "term": "Pillar",
           "original": "Hebrew: מַצֵּבָה (matseivah) - Greek: στήλη (stēlē) - Aramaic: ܢܨܝܒܐ (naṣība)",
           "note": "A standing stone marker associated with a vow or memorial."
+        },
+        {
+          "term": "Ladder",
+          "original": "Hebrew: סֻלָּם (sullam)",
+          "note": "The word occurs only here in the whole Hebrew Bible, so its exact sense has to be taken from its root, salal, which means to heap up or throw up a roadway. That points to a ramp or stairway rather than a rung ladder, and the traffic in the vision fits it: angels going up and down at once, in both directions."
+        },
+        {
+          "term": "Paddan-aram",
+          "original": "Hebrew: פַּדַּן אֲרָם (Paddan Aram) - אֲרַם נַהֲרַיִם (Aram Naharayim, 'Aram of the two rivers')",
+          "note": "The district around Harran in upper Mesopotamia, on the Balikh river north of the Euphrates, in what is now southeastern Turkey. From Beersheba that is about 450 miles in a straight line and farther on the caravan road, which had to curve north through Damascus and along the Fertile Crescent rather than cross the desert. Jacob is leaving the land for twenty years (31:41), not visiting relatives nearby."
+        },
+        {
+          "term": "Bethel, and what it became",
+          "original": "Hebrew: בֵּית־אֵל (Beit-El), house of God - לוּז (Luz), the old name",
+          "note": "Bethel sits about eleven miles north of Jerusalem on the ridge road, at a junction with the route running down to the coast. Jacob renames the place from Luz (28:19), sets up the stone he had slept on as a pillar, and pours oil over it. Centuries later Jeroboam put one of his two golden calves at this same Bethel and the other at Dan, so that the northern kingdom would not go up to Jerusalem to worship (1 Kings 12:28-29), and Amos 7:13 calls it the king's sanctuary."
         }
       ],
       "keyTakeaway": "Jacob receives a dream of a stairway to heaven and a reaffirmation of the promises; he names the place Bethel.",
@@ -2218,20 +2430,32 @@
         "And once more she conceived and gave birth to a son and said, “This time I will praise the LORD.” So she named him Judah. Then Leah stopped having children. (29:35)."
       ],
       "crossRefs": [
-        "Ruth 4:11: Blessing mentions Rachel and Leah who built the house of Israel.",
-        "Genesis 35:22–26: The list of Jacob’s sons recorded.",
-        "Hosea 12:12: Jacob served for a wife and kept sheep."
+        "Genesis 24:11-20: Abraham's servant meets Rebekah at a well outside the town, and she waters his camels.",
+        "Hosea 12:12: Jacob fled to the land of Aram and worked for a wife; for a wife he tended sheep.",
+        "Exodus 2:15-21: Moses meets the daughters of the priest of Midian at a well, waters their flock, and is given Zipporah.",
+        "Deuteronomy 21:15-17: A man with a loved and an unloved wife may not pass over the unloved wife's firstborn son.",
+        "Genesis 49:3-4: Reuben, the firstborn born here, loses his rank in Jacob's last words."
       ],
       "translationNotes": [
         {
-          "term": "Covenant/Witness heap",
-          "original": "Hebrew: גַּלְעֵד (Galʿed) - Greek: Γαλαάδ (Galaad) - Aramaic: יְגַר שָׂהֲדוּתָא (Yegar-Sahaduta)",
-          "note": "Dual-language names for the heap marking the covenant between Jacob and Laban."
+          "term": "Bride price",
+          "original": "Hebrew: מֹהַר (mohar)",
+          "note": "The mohar was paid by the groom to the bride's father, the opposite direction from a dowry. Exodus 22:16-17 treats it as a fixed going rate for a virgin, and Saul demanded a hundred Philistine foreskins in place of it (1 Samuel 18:25). Jacob reached Haran with nothing to weigh out, so he paid in labor instead: seven years, then seven more, fourteen years of a herdsman's work as the purchase price of two wives."
         },
         {
-          "term": "Remember",
-          "original": "Hebrew: זָכַר (zakhar) - Greek: μιμνῄσκομαι (mimnēiskomai) - Aramaic: ܕܟܪ (dakar)",
-          "note": "To call to mind with action; used for God regarding Rachel."
+          "term": "This week's celebration",
+          "original": "Hebrew: שָׁבֻעַ (shavua, 'a seven, a week')",
+          "note": "The wedding feast ran seven days. Samson's ran the same seven (Judges 14:12). Laban tells Jacob to finish out Leah's week before Rachel is given, so the second marriage came about seven days after the first, and the second seven years of service were worked afterward rather than in advance."
+        },
+        {
+          "term": "Maidservant",
+          "original": "Hebrew: שִׁפְחָה (shiphchah)",
+          "note": "Zilpah and Bilhah are handed over with the brides (29:24, 29:29) as the father's contribution to his daughter's new household. The maid stayed the wife's own property, which is why each sister could give her own maid to Jacob and reckon the resulting sons to herself (30:3-4, 30:9). Sarai had used the same arrangement with Hagar (16:1-4)."
+        },
+        {
+          "term": "Reuben, Simeon, Levi, Judah",
+          "original": "Hebrew: רְאוּבֵן (Reuven) - שִׁמְעוֹן (Shimon) - לֵוִי (Levi) - יְהוּדָה (Yehudah)",
+          "note": "Each name puns on the sentence Leah speaks as she gives it, and English keeps the name but drops the play. Reuven sounds like ra'ah ben, 'look, a son', and she says the LORD has looked on her affliction. Shimon comes from shama, to hear. Levi comes from lavah, to attach or join. Yehudah comes from yadah, to praise."
         }
       ],
       "keyTakeaway": "Jacob meets Rachel at a well near Harran, works seven years to marry her, but Laban tricks him into marrying Leah first; Jacob then works another seven years for Rachel, and Leah bears him four sons while Rachel remains childless.",
@@ -2302,20 +2526,32 @@
         "Thus Jacob became exceedingly prosperous. He owned large flocks, maidservants and menservants, and camels and donkeys. (30:43)."
       ],
       "crossRefs": [
-        "Ruth 4:11: Blessing mentions Rachel and Leah who built the house of Israel.",
-        "Genesis 35:22–26: The list of Jacob’s sons recorded.",
-        "Hosea 12:12: Jacob served for a wife and kept sheep."
+        "Genesis 16:1-4: Sarai gives her maidservant Hagar to Abram so that she may build a family through her.",
+        "Song of Songs 7:13: The mandrakes give their fragrance, the only other mention of the plant in Scripture.",
+        "Genesis 31:8-12: Jacob tells his wives it was God, not the branches, that moved Laban's flocks into his hands.",
+        "Genesis 35:23-26: The full roll of Jacob's twelve sons by Leah, Rachel, Bilhah, and Zilpah.",
+        "Genesis 35:16-19: Rachel bears the second son she asks for here, Benjamin, and dies giving birth to him."
       ],
       "translationNotes": [
-        {
-          "term": "Covenant/Witness heap",
-          "original": "Hebrew: גַּלְעֵד (Galʿed) - Greek: Γαλαάδ (Galaad) - Aramaic: יְגַר שָׂהֲדוּתָא (Yegar-Sahaduta)",
-          "note": "Dual-language names for the heap marking the covenant between Jacob and Laban."
-        },
         {
           "term": "Remember",
           "original": "Hebrew: זָכַר (zakhar) - Greek: μιμνῄσκομαι (mimnēiskomai) - Aramaic: ܕܟܪ (dakar)",
           "note": "To call to mind with action; used for God regarding Rachel."
+        },
+        {
+          "term": "Mandrakes",
+          "original": "Hebrew: דּוּדָאִים (dudaim)",
+          "note": "Mandragora officinarum, a low Mediterranean plant with a thick forked root and a small yellow fruit that ripens in late spring, which is why Reuben finds them during the wheat harvest (30:14). The fruit carried a long reputation across the ancient world as an aid to love and conception. The Hebrew name shares its consonants with dod, 'love', and the only other occurrence is Song of Songs 7:13, where it stands beside the lovers' door."
+        },
+        {
+          "term": "That she may bear children for me",
+          "original": "Hebrew: עַל־בִּרְכַּי (al birkai, 'on my knees')",
+          "note": "Rachel's words in 30:3 read literally 'she shall bear on my knees'. Setting a newborn on someone's knees was the act that made the child theirs. Joseph does the same with Machir's sons at the end of the book (50:23). The maid bore the child, the mistress received it on her knees, and the child counted in the mistress's line."
+        },
+        {
+          "term": "Joseph",
+          "original": "Hebrew: יוֹסֵף (Yosef) - from אָסַף (asaph, 'take away') and יָסַף (yasaph, 'add')",
+          "note": "The name carries two puns at once, and the text supplies both. Rachel says God has taken away (asaph) her disgrace, then asks the LORD to add (yasaph) another son (30:23-24). English can carry one of the two, never both."
         }
       ],
       "keyTakeaway": "Rachel gives her servant Bilhah to Jacob to bear children for her, then Leah does the same with her servant Zilpah; eventually Rachel conceives and bears Joseph. After Joseph's birth, Jacob negotiates with Laban to claim spotted and speckled animals as wages, then uses peeled branches at watering troughs to breed animals that match his agreed-upon colors, growing wealthy in the process.",
@@ -2406,9 +2642,11 @@
         "Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home. (31:55)."
       ],
       "crossRefs": [
-        "Ruth 4:11: Blessing mentions Rachel and Leah who built the house of Israel.",
-        "Genesis 35:22–26: The list of Jacob’s sons recorded.",
-        "Hosea 12:12: Jacob served for a wife and kept sheep."
+        "Genesis 28:20-22: The vow at Bethel, where Jacob anointed the pillar, which God now tells him to act on.",
+        "1 Samuel 19:13: Michal lays a household idol in the bed to pass for the sleeping David.",
+        "Genesis 35:2-4: Jacob later collects every foreign god in his household and buries them under the oak at Shechem.",
+        "Joshua 24:2: Terah and his sons lived beyond the Euphrates and served other gods.",
+        "Genesis 26:26-31: Isaac and Abimelech swear a mutual oath, eat together, and part in peace."
       ],
       "translationNotes": [
         {
@@ -2417,9 +2655,29 @@
           "note": "Dual-language names for the heap marking the covenant between Jacob and Laban."
         },
         {
-          "term": "Remember",
-          "original": "Hebrew: זָכַר (zakhar) - Greek: μιμνῄσκομαι (mimnēiskomai) - Aramaic: ܕܟܪ (dakar)",
-          "note": "To call to mind with action; used for God regarding Rachel."
+          "term": "Household idols",
+          "original": "Hebrew: תְּרָפִים (teraphim)",
+          "note": "Figures kept in a house. At least some were sizeable: Michal laid one in a bed and it passed for a grown man (1 Samuel 19:13). Cyrus H. Gordon argued in 1937, from the Nuzi tablets excavated in northern Iraq, that in that region and period holding the household gods went with title to the family estate. On that reading Rachel took the deed, not a keepsake, which would explain why Laban chases her for seven days and calls them simply 'my gods' (31:30)."
+        },
+        {
+          "term": "The Fear of Isaac",
+          "original": "Hebrew: פַּחַד יִצְחָק (Pachad Yitzchaq)",
+          "note": "A title for God found only in this chapter, at 31:42 and 31:53. Pachad means dread, or the object that inspires it. In 31:53 Laban invokes the God of Abraham and the god of Nahor together; Jacob answers by swearing only by the Fear of his father Isaac."
+        },
+        {
+          "term": "Changed my wages ten times",
+          "original": "Hebrew: עֲשֶׂרֶת מֹנִים (aseret monim)",
+          "note": "A set idiom for 'over and over', not a tally. Israel is charged with testing God 'these ten times' in the wilderness (Numbers 14:22), and Job tells his friends 'ten times now you have reproached me' (Job 19:3). Jacob is saying Laban rewrote the terms whenever they started to favor him, which is exactly what 31:8 describes."
+        },
+        {
+          "term": "what the household gods were worth",
+          "original": "Hebrew: תְּרָפִים (teraphim)",
+          "note": "Teraphim were images kept in a household, and they could be substantial objects: Michal lays one in a bed and passes it off as a sleeping man (1 Samuel 19:13). Micah in Judges 17:5 keeps them in a private shrine with an ephod and a hired priest, and the Danites steal the whole set because possessing them mattered (Judges 18:17-20). That is the background to Laban's reaction here. He calls them my gods (31:30), chases Jacob for seven days, and searches every tent; Rachel hides them in a camel's saddlebag and stays seated on it."
+        },
+        {
+          "term": "the heap of witness",
+          "original": "Hebrew: גַּלְעֵד (Galed) - Aramaic: יְגַר שָׂהֲדוּתָא (Yegar Sahaduta)",
+          "note": "Genesis 31:47 gives the same name twice, once in Jacob's Hebrew and once in Laban's Aramaic, and both mean heap of witness. A pile of stones set up on a boundary was the ordinary way to record a treaty where neither side could read the other's documents, and 31:52 states the terms: neither man passes this heap to harm the other. This is the earliest Aramaic in Scripture, and Aramaic later became the common speech of the whole region."
         }
       ],
       "keyTakeaway": "Jacob flees Laban's household with his wives, children, and livestock after God instructs him to return to Canaan; Laban pursues and catches him, but after God warns Laban not to harm Jacob, the two men establish a covenant marked by a stone heap and agree to separate peacefully.",
@@ -2479,9 +2737,11 @@
         "Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was struck near that tendon. (32:32)."
       ],
       "crossRefs": [
-        "Hosea 12:3–4: Jacob strove with God and prevailed; he wept and sought favor.",
-        "Genesis 35:10: The name Israel is later reaffirmed.",
-        "Psalm 34:4: Sought the LORD and was delivered from fears (thematic echo)."
+        "Genesis 27:41-45: Esau vowed to kill Jacob once their father was mourned, which is why Rebekah sent him away.",
+        "Genesis 28:13-15: The promise at Bethel that Jacob quotes back to God in his prayer.",
+        "Hosea 12:3-4: In the womb he grasped his brother's heel, and in his vigor he wrestled with God and prevailed.",
+        "Genesis 35:9-10: God confirms the name Israel when Jacob comes back to Bethel.",
+        "2 Samuel 17:24: Mahanaim, named here, is a real town east of the Jordan where David takes refuge from Absalom."
       ],
       "translationNotes": [
         {
@@ -2493,6 +2753,26 @@
           "term": "Peniel/Penuel",
           "original": "Hebrew: פְּנִיאֵל / פְּנוּאֵל (Peniel/Penuel) - Greek: Φανουήλ (Phanouēl) - Aramaic: ܦܢܘܐܝܠ (Penuel)",
           "note": "Name given by Jacob: 'face of God.'"
+        },
+        {
+          "term": "A gift",
+          "original": "Hebrew: מִנְחָה (minchah)",
+          "note": "The standard word for tribute rendered by an inferior to a lord, the same term used when Ehud carries tribute to Eglon king of Moab (Judges 3:15). Jacob counts it out in 32:14-15: 200 female goats, 20 male goats, 200 ewes, 20 rams, 30 nursing camels with their young, 40 cows, 10 bulls, 20 female donkeys, 10 male donkeys. That is 550 head, and the lopsided ratios of female to male are breeding ratios. He is not sending meat; he is sending herds that will keep producing."
+        },
+        {
+          "term": "The ford of the Jabbok",
+          "original": "Hebrew: יַבֹּק (Yabboq) - יֵאָבֵק (ye'aveq, 'he wrestled') - יַעֲקֹב (Ya'aqov, 'Jacob')",
+          "note": "Three words built on nearly the same consonants collide in one verse, and no English rendering can carry it. The Jabbok is the modern Nahr ez-Zarqa, a steep gorge running west into the Jordan about twenty-five miles north of the Dead Sea. It later served as a national boundary (Numbers 21:24). Crossing it put Jacob back on the ground he had fled twenty years before."
+        },
+        {
+          "term": "The tendon attached to the socket of the hip",
+          "original": "Hebrew: גִּיד הַנָּשֶׁה (gid hannasheh)",
+          "note": "The sciatic nerve and the tissue running with it at the hip joint. Verse 32 records a food custom that came out of this night and is still kept: stripping this tendon from a slaughtered animal is exacting work, so kosher butchers commonly sell the hindquarters on rather than do it. The practice is never restated in the law of Moses. Genesis 32:32 is the only place Scripture states it."
+        },
+        {
+          "term": "the Jabbok and Penuel",
+          "original": "Hebrew: יַבֹּק (Yabboq) - פְּנוּאֵל (Penuel), the face of God",
+          "note": "The Jabbok is a real river cutting a deep gorge eastward into the highlands and running west into the Jordan; it was the boundary of Sihon's kingdom (Numbers 21:24) and the ford is the natural crossing point. Penuel, where Jacob names the place after the encounter, kept its importance: Gideon tore down its tower and killed its men (Judges 8:8-9, 8:17), and Jeroboam rebuilt it as a stronghold (1 Kings 12:25)."
         }
       ],
       "keyTakeaway": "Jacob encounters God's angels, sends messengers to appease his brother Esau with gifts, and wrestles with a man all night who renames him Israel and blesses him before departing at dawn.",
@@ -2536,20 +2816,32 @@
         "There he set up an altar and called it El-Elohe-Israel. (33:20)."
       ],
       "crossRefs": [
-        "Hosea 12:3–4: Jacob strove with God and prevailed; he wept and sought favor.",
-        "Genesis 35:10: The name Israel is later reaffirmed.",
-        "Psalm 34:4: Sought the LORD and was delivered from fears (thematic echo)."
+        "Genesis 32:6-8: The report that Esau was coming with four hundred men, which set the fear behind this meeting.",
+        "Joshua 24:32: Joseph's bones are buried in this same plot at Shechem, bought for a hundred pieces of silver.",
+        "Job 42:11: Each of Job's visitors gives him a qesitah, the only other passage that uses the unit named here.",
+        "John 4:5-6: Jesus sits at Jacob's well by the plot of ground Jacob gave to his son Joseph.",
+        "Genesis 34:1-2: Dinah goes out among the women of Shechem, the city Jacob has just camped beside."
       ],
       "translationNotes": [
         {
-          "term": "Israel",
-          "original": "Hebrew: יִשְׂרָאֵל (Yisraʾel) - Greek: Ἰσραήλ (Israēl) - Aramaic: ܐܝܣܪܝܠ (Israʾil)",
-          "note": "Interpreted in-text as 'he strives with God.'"
+          "term": "Bowed to the ground seven times",
+          "original": "Hebrew: וַיִּשְׁתַּחוּ אַרְצָה שֶׁבַע פְּעָמִים (vayishtachu artsah sheva pe'amim)",
+          "note": "Court protocol, not politeness. The Amarna letters, diplomatic correspondence sent to Egypt by Canaanite rulers in the fourteenth century BC, open with the same formula word for word: at the feet of my lord the king I fall, seven times and seven times. Jacob approaches his own brother the way a vassal approaches an overlord, and calls him 'my lord' and himself 'your servant' throughout the chapter."
         },
         {
-          "term": "Peniel/Penuel",
-          "original": "Hebrew: פְּנִיאֵל / פְּנוּאֵל (Peniel/Penuel) - Greek: Φανουήλ (Phanouēl) - Aramaic: ܦܢܘܐܝܠ (Penuel)",
-          "note": "Name given by Jacob: 'face of God.'"
+          "term": "A hundred pieces of silver",
+          "original": "Hebrew: קְשִׂיטָה (qesitah)",
+          "note": "A unit of money used three times in the whole Bible and nowhere else: here, Joshua 24:32, and Job 42:11. Its weight is unknown and no weight marked qesitah has ever been identified, so any modern conversion is a guess. The Septuagint and the Aramaic Targum both render it 'lambs', which points to silver reckoned against the price of a sheep. The word 'silver' in English versions is supplied; the Hebrew gives only the number and the unit."
+        },
+        {
+          "term": "Succoth",
+          "original": "Hebrew: סֻכּוֹת (Sukkot, 'shelters, booths')",
+          "note": "The place name is the plural of the word for the brush shelters Jacob threw up for his livestock, and the verse says as much. It is the same word as the Feast of Booths, where Israel is commanded to live in sukkot for seven days (Leviticus 23:42)."
+        },
+        {
+          "term": "El-Elohe-Israel",
+          "original": "Hebrew: אֵל אֱלֹהֵי יִשְׂרָאֵל (El Elohe Yisrael)",
+          "note": "Left untranslated in most English Bibles. It means 'God, the God of Israel'. Jacob names the altar with the name he had been given at Peniel one chapter earlier (32:28), the first time that name is fixed to a place of worship."
         }
       ],
       "keyTakeaway": "Jacob arranges his family to approach Esau, bows before him repeatedly, and Esau embraces him warmly; Jacob insists Esau accept a large gift, then declines Esau's offer to travel together, citing the pace of his children and livestock. Jacob later settles near Shechem, purchases land from Hamor's sons, and builds an altar there.",
@@ -2604,7 +2896,7 @@
         "But they replied, “Should he have treated our sister like a prostitute?” (34:31)."
       ],
       "crossRefs": [
-        "Genesis 49:5–7: Jacob later recalls Simeon and Levi’s violence.",
+        "Genesis 49:5-7: Jacob later recalls Simeon and Levi’s violence.",
         "Deuteronomy 32:35: Vengeance belongs to God (later principle).",
         "Proverbs 20:22: Do not say, 'I will repay evil'; wait for the LORD (wise saying)."
       ],
@@ -2681,7 +2973,7 @@
       ],
       "crossRefs": [
         "Genesis 28:19: Bethel named earlier by Jacob.",
-        "Genesis 49:3–4: Reuben’s transgression noted in Jacob’s final words.",
+        "Genesis 49:3-4: Reuben’s transgression noted in Jacob’s final words.",
         "1 Samuel 10:3: Rachel’s tomb mentioned near Bethlehem (later reference)."
       ],
       "translationNotes": [
@@ -2783,8 +3075,8 @@
         "Magdiel, and Iram. These were the chiefs of Edom, according to their settlements in the land they possessed. Esau was the father of the Edomites. (36:43)."
       ],
       "crossRefs": [
-        "Deuteronomy 2:4–5: Edom’s territory is not to be taken by Israel.",
-        "1 Chronicles 1:35–54: Parallel genealogies of Esau/Edom.",
+        "Deuteronomy 2:4-5: Edom’s territory is not to be taken by Israel.",
+        "1 Chronicles 1:35-54: Parallel genealogies of Esau/Edom.",
         "Obadiah 1:1: A later prophecy concerning Edom."
       ],
       "translationNotes": [
@@ -2870,10 +3162,11 @@
         "Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, an officer of Pharaoh and captain of the guard. (37:36)."
       ],
       "crossRefs": [
-        "Acts 7:9: The patriarchs, jealous of Joseph, sold him into Egypt.",
-        "Genesis 49:10: From Judah will come the scepter; Perez and Zerah trace Judah’s line forward.",
-        "2 Samuel 7:14: God’s steadfastness even when men commit iniquity.",
-        "1 Corinthians 10:13: God provides a way of escape from temptation; Joseph fled."
+        "Genesis 42:6-9: The brothers bow to the ground before Joseph in Egypt, and he remembers the dreams told here.",
+        "Leviticus 27:5: Twenty shekels is the sanctuary valuation of a male between five and twenty years old.",
+        "2 Samuel 13:18: The robe of many colors is what the king's virgin daughters wore, the only other use of the phrase.",
+        "Acts 7:9-10: Stephen says the patriarchs sold Joseph out of jealousy, but God was with him.",
+        "Genesis 44:30-34: Judah offers himself as a slave rather than watch his father lose a second son."
       ],
       "translationNotes": [
         {
@@ -2910,6 +3203,16 @@
           "term": "Sheol",
           "note": "The Old Testament realm of the dead; a shadowy underworld where both righteous and wicked descend (Genesis 37:35; Psalm 16:10). Not necessarily a place of torment; more a state of cessation and silence. The Septuagint and New Testament render it with the Greek word hades.",
           "original": "Hebrew: שְׁאוֹל (sheol)"
+        },
+        {
+          "term": "twenty shekels of silver",
+          "original": "Hebrew: עֶשְׂרִים כֶּסֶף (esrim kesef)",
+          "note": "Genesis 37:28 gives the price paid for Joseph, and Leviticus 27:5 sets exactly twenty shekels as the valuation of a male between five and twenty years old. Joseph was seventeen (37:2). The figure is not arbitrary; it is the going rate for a boy of that age. Exodus 21:32 later prices a slave gored by an ox at thirty shekels, the valuation of an adult woman in Leviticus 27:4, and the same thirty pieces appear in Zechariah 11:12-13 and Matthew 26:15."
+        },
+        {
+          "term": "the caravan out of Gilead",
+          "original": "Hebrew: נְכֹאת וּצְרִי וָלֹט (nekhot uts'ri valot), gum, balm, and resin",
+          "note": "Genesis 37:25 puts a loaded caravan on the road at Dothan, and that is where the road was. Dothan sits at the north end of the hill country where the route from Gilead crosses toward the coastal plain and turns south for Egypt; the whole eastern trade in aromatic resins moved along it. Balm of Gilead was a medicinal resin famous enough to be used as a figure for healing in Jeremiah 8:22 and 46:11, and myrrh appears again as a burial spice at John 19:39."
         }
       ],
       "keyTakeaway": "Joseph's brothers, jealous of their father's favoritism and Joseph's dreams of dominion, strip him of his robe and sell him to Ishmaelites heading to Egypt; they deceive their father Jacob with the bloodied robe, leading him to believe Joseph is dead.",
@@ -2967,31 +3270,42 @@
         "Then his brother came out with the scarlet thread around his wrist, and he was named Zerah. (38:30)."
       ],
       "crossRefs": [
-        "Acts 7:9: The patriarchs, jealous of Joseph, sold him into Egypt.",
-        "Genesis 49:10: From Judah will come the scepter; Perez and Zerah trace Judah’s line forward.",
-        "2 Samuel 7:14: God’s steadfastness even when men commit iniquity.",
-        "1 Corinthians 10:13: God provides a way of escape from temptation; Joseph fled."
+        "Deuteronomy 25:5-10: The levirate law; a brother must raise up a son for a man who dies childless, or be shamed at the gate.",
+        "Ruth 4:12: The elders bless Boaz's house to be like the house of Perez, whom Tamar bore to Judah.",
+        "Matthew 1:3: Judah was the father of Perez and Zerah by Tamar, in the genealogy of Jesus.",
+        "Genesis 49:10: The scepter will not depart from Judah, the line that runs through Perez.",
+        "Genesis 37:31-33: A young goat and a garment were used to deceive Jacob one chapter earlier."
       ],
       "translationNotes": [
         {
-          "term": "Sell",
-          "original": "Hebrew: מָכַר (makhar) - Greek: πιπράσκω (pipraskō) - Aramaic: זבן (zavan)",
-          "note": "To exchange for money; Joseph was sold for twenty shekels of silver."
+          "term": "Perform your duty as her brother-in-law",
+          "original": "Hebrew: יָבַם (yabam)",
+          "note": "This is one verb in Hebrew, and it names a legal duty later written into the law. Deuteronomy 25:5-10 requires that when brothers live together and one dies with no son, the surviving brother marries the widow, and the first son she bears carries the dead man's name so that it is not blotted out of Israel. A brother who refuses is called before the elders, the widow pulls his sandal off his foot and spits in his face, and his household is thereafter called the house of the unsandaled. Ruth 4 works the same obligation through a kinsman-redeemer."
         },
         {
-          "term": "Prostitute",
-          "original": "Hebrew: זוֹנָה (zonah) - Greek: πόρνη (pornē) - Aramaic: ܙܢܝܬܐ (zanita)",
-          "note": "A woman offering sex for payment; Tamar disguised herself this way."
+          "term": "Sheepshearing at Timnah",
+          "original": "Hebrew: גָּזַז (gazaz)",
+          "note": "Shearing was the year's payday for a flock owner and it came with a feast, hired hands, food, and drink. Nabal's shearing feast in 1 Samuel 25:2-8 and Absalom's at Baal-hazor in 2 Samuel 13:23-29 show the scale of it. Timnah lay in the Shephelah, the low hill country between the Judean highlands and the coastal plain, so Judah was going down out of the hills to his flocks."
         },
         {
-          "term": "Lie with",
-          "original": "Hebrew: שָׁכַב (shakav) - Greek: κοιμάομαι (koimaomai) - Aramaic: ܫܟܒ (shakab)",
-          "note": "To lie down sexually; Potiphar’s wife demanded Joseph lie with her."
+          "term": "Your seal and your cord, and the staff",
+          "original": "Hebrew: חֹתָם (chotam)",
+          "note": "A seal was a small engraved stone, cylinder or stamp, worn on a cord around the neck, and pressing it into wet clay was how a man signed a document or sealed a storage jar. It was his legal identity in an object. Handing over the seal, its cord, and his personal staff was handing over proof of exactly who he was, which is what makes verse 25 unanswerable."
         },
         {
-          "term": "Flee",
-          "original": "Hebrew: נוּס (nus) - Greek: φεύγω (pheugō) - Aramaic: ܥܪܩ (ʿraq)",
-          "note": "To escape or run away; Joseph fled when seized by Potiphar’s wife."
+          "term": "Shrine prostitute",
+          "original": "Hebrew: קְדֵשָׁה (qedeshah) - Hebrew: זוֹנָה (zonah)",
+          "note": "The chapter uses two different words. In verse 15 Judah takes her for a zonah, an ordinary prostitute. When his friend asks after her in the town in verses 21 and 22, the word changes to qedeshah, a consecrated woman, meaning one attached to a sanctuary where sex was part of the worship. Deuteronomy 23:17-18 bans both the qedeshah and her male counterpart from Israel outright and forbids bringing their earnings into the house of the LORD."
+        },
+        {
+          "term": "Let her be burned to death",
+          "original": "Hebrew: שְׂרֵפָה (serephah)",
+          "note": "Burning was the most severe penalty in Israelite law and it was reserved for a short list: a priest's daughter who prostitutes herself (Leviticus 21:9) and a man who takes both a woman and her mother (Leviticus 20:14). The ordinary penalty for adultery was stoning (Deuteronomy 22:23-24). Judah pronounces this as head of the clan, on his own word, before any of that law was written down."
+        },
+        {
+          "term": "Perez and Zerah",
+          "original": "Hebrew: פֶּרֶץ (Perets) - Hebrew: זֶרַח (Zerach)",
+          "note": "Both names come out of the delivery itself. Perez is from parats, to break out or breach, which is what the midwife exclaims in verse 29. Zerah is from zarach, to rise or shine, and it carries the sense of the scarlet thread showing first. Ruth 4:18-22 traces the line of David from Perez, and Matthew 1:3 names Perez, Zerah, and Tamar in the genealogy of Jesus."
         }
       ],
       "keyTakeaway": "Judah marries a Canaanite woman and fathers three sons; when his firstborn Er dies, his second son Onan refuses to produce an heir for his brother and is also killed. Years later, Judah unknowingly sleeps with his daughter-in-law Tamar, who was disguised as a prostitute; when her pregnancy is discovered, Judah acknowledges she is more righteous than he and she bears twin sons, Perez and Zerah.",
@@ -3038,10 +3352,11 @@
         "The warden did not concern himself with anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he did. (39:23)."
       ],
       "crossRefs": [
-        "Acts 7:9: The patriarchs, jealous of Joseph, sold him into Egypt.",
-        "Genesis 49:10: From Judah will come the scepter; Perez and Zerah trace Judah’s line forward.",
-        "2 Samuel 7:14: God’s steadfastness even when men commit iniquity.",
-        "1 Corinthians 10:13: God provides a way of escape from temptation; Joseph fled."
+        "Genesis 37:36: The Midianites sell Joseph in Egypt to Potiphar, an officer of Pharaoh and captain of the guard.",
+        "Psalm 105:17-19: Joseph, sold as a slave, had his feet in shackles and his neck in irons until his word came true.",
+        "Genesis 40:1-4: The captain of the guard puts Pharaoh's cupbearer and baker in this same prison and assigns them to Joseph.",
+        "Genesis 41:9-14: The cupbearer finally recalls the young Hebrew in that prison, and Pharaoh sends for him.",
+        "Genesis 49:23-24: Jacob's blessing recalls archers who attacked Joseph in hostility, and a bow that stayed steady."
       ],
       "translationNotes": [
         {
@@ -3109,30 +3424,47 @@
         "The chief cupbearer, however, did not remember Joseph; he forgot all about him. (40:23)."
       ],
       "crossRefs": [
-        "Daniel 2:27–28: Daniel also declares that God reveals mysteries, not magicians.",
-        "Psalm 105:20–22: Pharaoh made Joseph lord of his house and ruler of all possessions.",
-        "Acts 7:10: God rescued Joseph from all afflictions and gave him favor before Pharaoh."
+        "Nehemiah 2:1-5: A royal cupbearer hands the king his wine and is granted his request on the spot.",
+        "Genesis 41:9-13: The chief cupbearer at last tells Pharaoh about the Hebrew who read the two dreams.",
+        "Daniel 2:27-28: Daniel tells the king that no wise man or magician can disclose the mystery, but God in heaven does.",
+        "Genesis 41:16: Joseph again refuses the credit and says God will give Pharaoh the answer.",
+        "Deuteronomy 21:22-23: A body hung on a tree must be buried the same day and not left overnight."
       ],
       "translationNotes": [
+        {
+          "term": "Cupbearer and baker",
+          "original": "Hebrew: מַשְׁקֶה (mashqeh, one who gives drink) - אֹפֶה (opheh, baker)",
+          "note": "These are court offices, not kitchen jobs. The cupbearer poured and tasted the king's wine, which put him at the king's elbow every day and made him one of the most trusted men in the palace; Nehemiah held the same post under Artaxerxes (Nehemiah 1:11). The chief baker ran the royal bakery. Both had the king's food in their hands, which is why 40:1 has them jailed together over an offence against him."
+        },
+        {
+          "term": "Lift up your head",
+          "original": "Hebrew: יִשָּׂא פַרְעֹה אֶת־רֹאשֶׁךָ (yissa Phar'oh eth roshekha)",
+          "note": "Joseph uses the same idiom for both men and it means opposite things. At 40:13 Pharaoh will lift up the cupbearer's head, which is to summon him from prison and restore his post. At 40:19 Pharaoh will lift up the baker's head from him, four extra words in Hebrew and a beheading. English has to translate the two lines differently and the reader never sees that they are one phrase turned."
+        },
         {
           "term": "Interpretation",
           "original": "Hebrew: פִּתְרוֹן (pitron) - Greek: ἑρμηνεία (hermēneia) - Aramaic: פִּשְׁרָא (pishra)",
           "note": "Explanation of a dream’s meaning; Joseph insists this belongs to God."
         },
         {
-          "term": "Hang",
-          "original": "Hebrew: תָּלָה (talah) - Greek: κρεμάννυμι (kremannymi) - Aramaic: תלה (talah)",
-          "note": "To suspend; the baker was executed by hanging, with birds consuming his flesh."
+          "term": "Do interpretations not belong to God?",
+          "original": "Hebrew: הֲלוֹא לֵאלֹהִים פִּתְרֹנִים (halo l'Elohim pithronim)",
+          "note": "Egypt had a trained profession for this. Dream manuals survive listing set images against set outcomes, and the ritual priests who read them were part of the temple establishment. The two prisoners complain at 40:8 that there is no one to interpret, meaning no professional is available in jail. Joseph's answer removes the trade from the question entirely."
         },
         {
-          "term": "Famine",
-          "original": "Hebrew: רָעָב (raʿav) - Greek: λιμός (limos) - Aramaic: ܟܦܢܐ (kefna)",
-          "note": "Severe scarcity of food; here described as covering all lands."
+          "term": "Hanged on a tree",
+          "original": "Hebrew: תָּלָה (talah)",
+          "note": "Talah is to hang or suspend, and it covers hanging a body up after execution as well as impaling it on a stake. What 40:19 adds is the part that mattered: birds eating the flesh, so no burial at all. Deuteronomy 21:22-23 later requires a body hung on a tree to be taken down before sundown, and Joshua 8:29 and 10:26-27 show that being done."
         },
         {
-          "term": "Zaphenath-paneah",
-          "original": "Egyptian (likely) - rendered in Hebrew: צָפְנַת פַּעְנֵחַ (Tsaphenath-paʿneach) - Greek: Ψονθομφανήχ (Psonthomphanēch)",
-          "note": "Egyptian name given to Joseph; possibly 'God speaks and he lives' or 'Revealer of secrets.'"
+          "term": "Pharaoh's birthday",
+          "original": "Hebrew: יוֹם הֻלֶּדֶת אֶת־פַּרְעֹה (yom hulledeth eth Par'oh)",
+          "note": "40:20 is the first birthday named in Scripture and it is an Egyptian king's. A royal feast day was when a king cleared old business, so pardons and executions were announced together, which is exactly what happens to the two prisoners. Mark 6:21 has Herod's birthday work the same way."
+        },
+        {
+          "term": "The house of the captain of the guard",
+          "original": "Hebrew: בֵּית שַׂר הַטַּבָּחִים (beth sar ha-tabbachim)",
+          "note": "Tabbach is a slaughterer or cook, so the title reads chief of the butchers, and it was the standard name for the commander of the royal bodyguard, the same office Nebuzaradan holds at 2 Kings 25:8. His house held the king's prisoners (39:20), which is why Joseph is a slave, a convict and the man put in charge of the other convicts all at once (40:4)."
         }
       ],
       "keyTakeaway": "Pharaoh's cupbearer and baker are imprisoned where Joseph is held; both dream the same night, and Joseph interprets the cupbearer's dream as three days until his restoration and the baker's as three days until his execution. The predictions come true on Pharaoh's birthday, but the cupbearer forgets Joseph despite his request to be remembered.",
@@ -3209,20 +3541,27 @@
         "And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth. (41:57)."
       ],
       "crossRefs": [
-        "Daniel 2:27–28: Daniel also declares that God reveals mysteries, not magicians.",
-        "Psalm 105:20–22: Pharaoh made Joseph lord of his house and ruler of all possessions.",
-        "Acts 7:10: God rescued Joseph from all afflictions and gave him favor before Pharaoh."
+        "Psalm 105:20-22: The king sent and released him, made him master of his household and ruler over all his possessions.",
+        "Esther 8:2: A king hands over his signet ring to transfer his authority to a subject.",
+        "Daniel 5:29: Daniel is clothed in purple, given a gold chain, and proclaimed third ruler in the kingdom.",
+        "Genesis 47:13-26: The grain policy begun here ends with the land and people of Egypt belonging to Pharaoh.",
+        "Acts 7:10: God granted Joseph favor and wisdom before Pharaoh, who appointed him ruler over Egypt."
       ],
       "translationNotes": [
+        {
+          "term": "Cows out of the Nile",
+          "original": "Hebrew: יְאֹר (ye'or, the Nile)",
+          "note": "Ye'or is an Egyptian loanword and it means the river, the Nile and no other. Egypt lived on its annual flood: the water rose from July, dropped silt across the fields, and the height of the rise decided the size of the harvest, measured on cut gauges along the banks. Cattle stand in the river to escape the heat and the flies, which is the picture at 41:2-3. Seven years of low water is the famine the dream is about."
+        },
+        {
+          "term": "The magicians of Egypt",
+          "original": "Hebrew: חַרְטֻמִּים (chartummim)",
+          "note": "The word is borrowed from Egyptian and names the ritual specialists attached to the temples, the men who read and recited from the sacred books. They kept written dream manuals that paired standard images with standard outcomes. 41:8 has Pharaoh call in every one of them and get nothing. The same word returns for the men who match Moses at Exodus 7:11 and then fail at Exodus 8:18."
+        },
         {
           "term": "Interpretation",
           "original": "Hebrew: פִּתְרוֹן (pitron) - Greek: ἑρμηνεία (hermēneia) - Aramaic: פִּשְׁרָא (pishra)",
           "note": "Explanation of a dream’s meaning; Joseph insists this belongs to God."
-        },
-        {
-          "term": "Hang",
-          "original": "Hebrew: תָּלָה (talah) - Greek: κρεμάννυμι (kremannymi) - Aramaic: תלה (talah)",
-          "note": "To suspend; the baker was executed by hanging, with birds consuming his flesh."
         },
         {
           "term": "Famine",
@@ -3233,6 +3572,21 @@
           "term": "Zaphenath-paneah",
           "original": "Egyptian (likely) - rendered in Hebrew: צָפְנַת פַּעְנֵחַ (Tsaphenath-paʿneach) - Greek: Ψονθομφανήχ (Psonthomphanēch)",
           "note": "Egyptian name given to Joseph; possibly 'God speaks and he lives' or 'Revealer of secrets.'"
+        },
+        {
+          "term": "the ring, the linen, and the gold chain",
+          "original": "Hebrew: שֵׁשׁ (shesh), fine linen, an Egyptian loanword",
+          "note": "Genesis 41:42-43 describes an Egyptian investiture, item by item. The signet ring carried the seal that made a document official, so handing it over hands over the power to act in the king's name. Fine linen was the material of Egyptian priests and officials; the Hebrew word for it here is borrowed from Egyptian. A heavy gold collar placed around the neck was the standard Egyptian royal reward for service, shown being given in tomb paintings. Riding in the second chariot with men calling ahead of him puts Joseph publicly second in the kingdom."
+        },
+        {
+          "term": "Abrek",
+          "original": "Hebrew: אַבְרֵךְ (avrekh)",
+          "note": "The word shouted ahead of Joseph's chariot at 41:43 appears nowhere else in Scripture and its meaning is not established. Versions render it bow the knee, or make way, or leave it untranslated. What the verse itself establishes is the setting: a herald going before the second chariot of the kingdom, which is a public installation."
+        },
+        {
+          "term": "Asenath, daughter of the priest of On",
+          "original": "Hebrew: אֹן (On) - Greek: Heliopolis, city of the sun",
+          "note": "On is the Egyptian city the Greeks called Heliopolis, at the southern point of the Nile Delta near modern Cairo, and it was the chief center of the sun god Ra. Its high priest was one of the most powerful men in Egypt. Genesis 41:45 marries Joseph into that family, which is how a foreign prisoner is made acceptable to the Egyptian establishment. Jeremiah 43:13 names the same place and its obelisks under the Hebrew form Beth-shemesh, house of the sun."
         }
       ],
       "keyTakeaway": "Pharaoh dreams of seven fat cows devoured by seven gaunt cows and seven healthy grain heads swallowed by seven withered ones; Joseph interprets them as seven years of abundance followed by seven years of famine, proposes a storage plan, and is elevated to rule all Egypt. During the abundant years Joseph stores massive amounts of grain, marries Asenath, and fathers two sons; when famine comes, Egypt alone has food and the world comes to buy grain from Joseph.",
@@ -3306,16 +3660,27 @@
         "But Jacob replied, “My son will not go down there with you, for his brother is dead, and he alone is left. If any harm comes to him on your journey, you will bring my gray hair down to Sheol in sorrow.” (42:38)."
       ],
       "crossRefs": [
-        "Genesis 37:7: Joseph’s dream of sheaves bowing down fulfilled as brothers bow before him.",
-        "Genesis 45:7: Joseph says God sent him to preserve life.",
-        "Acts 7:11–15: Stephen recounts the famine and Jacob’s descent to Egypt.",
-        "Exodus 1:7: The people of Israel were fruitful and multiplied greatly in Egypt."
+        "Genesis 37:5-8: The dream of the sheaves bowing down, which Joseph remembers the moment his brothers bow.",
+        "Genesis 37:21-22: Reuben tried to keep the brothers from killing Joseph, which is why he says they must answer for his blood.",
+        "Acts 7:12: Jacob heard there was grain in Egypt and sent our fathers on their first visit.",
+        "Genesis 43:8-9: Judah, not Reuben, finally gives the pledge that moves Jacob to release Benjamin.",
+        "Genesis 44:1-13: Silver is planted in their sacks a second time, with a silver cup added to it."
       ],
       "translationNotes": [
+        {
+          "term": "Go down to Egypt",
+          "original": "Hebrew: שֶׁבֶר (shever, grain for purchase)",
+          "note": "Jacob sends his sons down at 42:1-2 because Canaan farmed rain-fed hillsides and a failed rainy season emptied it, while Egypt was watered by a river fed from far outside the region, so Egypt could still have grain when Canaan had none. That is why the traffic in famine always runs one direction, and Abraham (12:10) and later Jacob's whole household go the same way. Shever is grain bought as rations, and the verb from it is used all through these chapters for buying food."
+        },
         {
           "term": "Spy",
           "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
           "note": "One who goes about secretly to search out weakness; Joseph accuses his brothers of this."
+        },
+        {
+          "term": "The nakedness of the land",
+          "original": "Hebrew: עֶרְוַת הָאָרֶץ (erwath ha-arets)",
+          "note": "The charge at 42:9 and 42:12 is that they came to see where the country is undefended. Egypt fortified that exact frontier: a chain of posts guarded the coast road out of Canaan, and the Middle Kingdom text known as the Tale of Sinuhe names a barrier called the Walls of the Ruler, built to keep Asiatics out. Ten men from Canaan arriving together at the eastern border is precisely the traffic those posts existed to stop."
         },
         {
           "term": "*sin*",
@@ -3323,14 +3688,19 @@
           "note": "To miss the mark of God’s command; Reuben recalls their sin against Joseph."
         },
         {
-          "term": "Silver cup",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "A goblet of silver; used by Joseph as the object of his test."
+          "term": "There was an interpreter between them",
+          "original": "Hebrew: הַמֵּלִיץ (ha-melits)",
+          "note": "42:23 explains the whole scene in one clause. Joseph has been speaking Egyptian and the brothers Hebrew, with a translator working between them, so when they talk to each other in front of him about what they did to him they think they are safe. He hears every word and turns away to weep. The melits is a go-between, the word Job 33:23 uses for a mediator."
+        },
+        {
+          "term": "Simeon bound before their eyes",
+          "original": "Hebrew: וַיֶּאֱסֹר אֹתוֹ לְעֵינֵיהֶם (va-ye'esor otho le-enehem)",
+          "note": "Joseph takes the second-oldest, not the oldest. Reuben has just reminded them at 42:22 that he told them not to touch the boy, and 34:25 has Simeon leading the massacre at Shechem, so the brother left in chains is the one who never argued for mercy. Holding a hostage against a returning party was ordinary practice for a state dealing with foreigners."
         },
         {
           "term": "Sheol",
-          "note": "The Old Testament realm of the dead; a shadowy underworld where both righteous and wicked descend (Genesis 37:35; Psalm 16:10). Not necessarily a place of torment; more a state of cessation and silence. The Septuagint and New Testament render it with the Greek word hades.",
-          "original": "Hebrew: שְׁאוֹל (sheol)"
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "The Old Testament realm of the dead; a shadowy underworld where both righteous and wicked descend (Genesis 37:35; Psalm 16:10). Not necessarily a place of torment; more a state of cessation and silence. The Septuagint and New Testament render it with the Greek word hades."
         }
       ],
       "keyTakeaway": "Jacob sends ten of his sons to Egypt for grain during the famine; Joseph, now the governor, recognizes them but hides his identity, accuses them of spying, imprisons them, and demands they bring their youngest brother Benjamin. When the brothers discover their silver returned in their sacks and Simeon held hostage, they report everything to Jacob, who refuses to let Benjamin go.",
@@ -3388,31 +3758,42 @@
         "When the portions were served to them from Joseph’s table, Benjamin’s portion was five times larger than any of the others. So they feasted and drank freely with Joseph. (43:34)."
       ],
       "crossRefs": [
-        "Genesis 37:7: Joseph’s dream of sheaves bowing down fulfilled as brothers bow before him.",
-        "Genesis 45:7: Joseph says God sent him to preserve life.",
-        "Acts 7:11–15: Stephen recounts the famine and Jacob’s descent to Egypt.",
-        "Exodus 1:7: The people of Israel were fruitful and multiplied greatly in Egypt."
+        "Genesis 42:19-20: The condition Joseph set on the first visit, that they bring the youngest brother down.",
+        "Genesis 37:25: The caravan that carried Joseph to Egypt was loaded with the same balm, spices, and myrrh sent as a gift here.",
+        "Genesis 46:34: Shepherds are detestable to the Egyptians, which is the background to the separate tables.",
+        "Genesis 44:32-34: Judah makes good on the pledge he gives his father in this chapter.",
+        "Genesis 45:22: Benjamin is singled out again, with three hundred shekels of silver and five sets of clothes."
       ],
       "translationNotes": [
         {
-          "term": "Spy",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "One who goes about secretly to search out weakness; Joseph accuses his brothers of this."
+          "term": "The present of 43:11",
+          "original": "Hebrew: צֳרִי (tsori, balm) - דְּבַשׁ (devash, honey) - נְכֹאת (nekhoth, gum) - לֹט (lot) - בָּטְנִים (botnim, pistachios) - שְׁקֵדִים (sheqedim, almonds)",
+          "note": "The gift Jacob makes up at 43:11 is the only things Canaan had that Egypt did not: resins, nuts and syrup, all of them light, dry and worth carrying. It is the same cargo the caravan was hauling when the brothers sold Joseph out of the pit at 37:25. Tsori, the balm, is the export Gilead was known for and the one Jeremiah 8:22 asks after by name."
         },
         {
-          "term": "*sin*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "To miss the mark of God’s command; Reuben recalls their sin against Joseph."
+          "term": "Myrrh that is not myrrh",
+          "original": "Hebrew: לֹט (lot) - מֹר (mor)",
+          "note": "English prints myrrh at 43:11 and at 37:25, but the Hebrew word in both places is lot, not mor. Mor is true myrrh, the gum of the Commiphora tree and an ingredient of the holy anointing oil at Exodus 30:23. Lot is a different resin, generally identified as ladanum, the sticky gum combed off the leaves of the rock-rose. Two originals, one English word, and the two never appear together to show the difference."
         },
         {
-          "term": "Silver cup",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "A goblet of silver; used by Joseph as the object of his test."
+          "term": "God Almighty",
+          "original": "Hebrew: אֵל שַׁדַּי (El Shaddai)",
+          "note": "Jacob uses this name at 43:14 when he gives up Benjamin, and it is the name attached in Genesis to promises made when the situation looked closed: at 17:1 to a childless man of ninety-nine, at 28:3 and 35:11 over the same family line, at 48:3 when Jacob is dying. Exodus 6:3 looks back and says the fathers knew God as El Shaddai. The sense of Shaddai is not settled; the usage is."
         },
         {
-          "term": "myrrh",
-          "note": "A fragrant gum resin from the Commiphora tree of Arabia and East Africa. Used as a holy anointing-oil ingredient (Exodus 30:23), as perfume, as an embalming spice (John 19:39), and, mixed with wine, as a pain-dulling drink (Mark 15:23). One of the magi's gifts.",
-          "original": "Hebrew: מֹר (mor); Greek: σμύρνα (smurna)"
+          "term": "Egyptians would not eat with Hebrews",
+          "original": "Hebrew: תּוֹעֵבָה הִוא לְמִצְרָיִם (to'evah hi le-Mitsrayim)",
+          "note": "43:32 sets three tables: one for Joseph, one for the Egyptians, one for the brothers, and says eating with Hebrews is an abomination to Egyptians. Herodotus, writing in the fifth century BC, reports the same separation still running in his day, with Egyptians refusing to use a Greek's knife or pot or to eat meat cut with one. 46:34 gives the specific version of it, that every shepherd is detestable to them."
+        },
+        {
+          "term": "Seated in order of age",
+          "original": "Hebrew: הַבְּכֹר כִּבְכֹרָתוֹ (ha-bekhor ki-vkhorotho, the firstborn by his birthright)",
+          "note": "Places at a meal were assigned by rank and birth order was rank, so 43:33 seating eleven men correctly, oldest to youngest, is information no Egyptian official could have. The text says they looked at one another in astonishment. 43:34 then breaks the same rule on purpose, giving Benjamin five times what anyone else got."
+        },
+        {
+          "term": "Over the house",
+          "original": "Hebrew: אֲשֶׁר עַל־בֵּיתוֹ (asher al betho)",
+          "note": "The man who meets the brothers at the door (43:16, 43:19) holds a real Egyptian office, the steward who ran a great household's stores, staff and accounts and answered only to its owner. It is the same position Joseph himself held in Potiphar's house at 39:4. Egyptian tomb paintings show stewards recording deliveries into granaries, which is what this one is doing with the returned silver."
         }
       ],
       "keyTakeaway": "Jacob finally consents to send Benjamin to Egypt; the brothers return to Joseph with gifts and double silver, and Joseph receives them at his house, weeping privately at the sight of Benjamin before hosting them at a meal where Benjamin receives a portion five times larger than the others.",
@@ -3470,16 +3851,27 @@
         "For how can I go back to my father without the boy? I could not bear to see the misery that would overwhelm him.” (44:34)."
       ],
       "crossRefs": [
-        "Genesis 37:7: Joseph’s dream of sheaves bowing down fulfilled as brothers bow before him.",
-        "Genesis 45:7: Joseph says God sent him to preserve life.",
-        "Acts 7:11–15: Stephen recounts the famine and Jacob’s descent to Egypt.",
-        "Exodus 1:7: The people of Israel were fruitful and multiplied greatly in Egypt."
+        "Genesis 43:8-9: Judah's pledge to his father, which he is now called to pay.",
+        "Genesis 37:26-27: Judah was the brother who proposed selling Joseph to the traders.",
+        "Genesis 42:38: Jacob's words about his grey hair going down to Sheol, which Judah quotes back to Joseph.",
+        "Deuteronomy 18:10-11: Divination and the reading of omens are forbidden in Israel.",
+        "Genesis 45:1-4: Joseph breaks down and tells them who he is the moment Judah finishes speaking."
       ],
       "translationNotes": [
         {
-          "term": "Spy",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "One who goes about secretly to search out weakness; Joseph accuses his brothers of this."
+          "term": "Silver cup",
+          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
+          "note": "A goblet of silver; used by Joseph as the object of his test."
+        },
+        {
+          "term": "The cup he divines by",
+          "original": "Hebrew: נַחֵשׁ יְנַחֵשׁ (nachesh yenachesh, he surely divines)",
+          "note": "44:5 and 44:15 have the steward say the cup is the one his master reads omens from. The practice is known: liquid was poured into a bowl and oil dropped on it, and the shapes the film made were read as answers, a method recorded in Mesopotamian instruction texts. The law later forbids nachash by name (Leviticus 19:26, Deuteronomy 18:10). The charge is designed to make the theft the worst thing the brothers could have taken."
+        },
+        {
+          "term": "Searched oldest to youngest",
+          "original": "Hebrew: בַּגָּדוֹל הֵחֵל וּבַקָּטֹן כִּלָּה (ba-gadol hechel u-va-qaton killah)",
+          "note": "44:12 draws the search out on purpose. Working down the line by age means ten sacks come up clean before the last one is opened, and the brothers have already staked their lives and their freedom on the outcome at 44:9. The tearing of clothes at 44:13 is the standard sign of grief and disaster in Israel, done at a death (37:34) and at ruin (2 Kings 19:1)."
         },
         {
           "term": "*sin*",
@@ -3487,14 +3879,14 @@
           "note": "To miss the mark of God’s command; Reuben recalls their sin against Joseph."
         },
         {
-          "term": "Silver cup",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "A goblet of silver; used by Joseph as the object of his test."
+          "term": "Let me remain instead of the boy",
+          "original": "Hebrew: יֵשֶׁב־נָא עַבְדְּךָ תַּחַת הַנַּעַר (yeshev na avdekha tachath ha-na'ar)",
+          "note": "Judah's speech at 44:18-34 is the longest by any person in Genesis, and the offer at the end of it is exact: he will be the slave and Benjamin will go home. Tachath means in place of, one standing where the other would stand. This is the same Judah who proposed selling Joseph for silver at 37:26-27, and 43:9 has him already put himself up as surety for the boy."
         },
         {
           "term": "Sheol",
-          "note": "The Old Testament realm of the dead; a shadowy underworld where both righteous and wicked descend (Genesis 37:35; Psalm 16:10). Not necessarily a place of torment; more a state of cessation and silence. The Septuagint and New Testament render it with the Greek word hades.",
-          "original": "Hebrew: שְׁאוֹל (sheol)"
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "The Old Testament realm of the dead; a shadowy underworld where both righteous and wicked descend (Genesis 37:35; Psalm 16:10). Not necessarily a place of torment; more a state of cessation and silence. The Septuagint and New Testament render it with the Greek word hades."
         }
       ],
       "keyTakeaway": "Joseph has his steward plant his silver cup in Benjamin's sack, accuses the brothers of theft when they're caught, and then listens as Judah pleads passionately to remain enslaved in Benjamin's place rather than return to their father without him.",
@@ -3546,26 +3938,37 @@
         "“Enough!” declared Israel. “My son Joseph is still alive! I will go to see him before I die.” (45:28)."
       ],
       "crossRefs": [
-        "Genesis 37:7: Joseph’s dream of sheaves bowing down fulfilled as brothers bow before him.",
-        "Genesis 45:7: Joseph says God sent him to preserve life.",
-        "Acts 7:11–15: Stephen recounts the famine and Jacob’s descent to Egypt.",
-        "Exodus 1:7: The people of Israel were fruitful and multiplied greatly in Egypt."
+        "Genesis 37:26-28: The brothers sell Joseph to traders bound for Egypt, the act he names to their faces here.",
+        "Genesis 50:19-20: After Jacob dies, Joseph says it again: you meant evil against me, God meant it for good.",
+        "Genesis 41:46-49: The seven years of storing grain that put the food of Egypt in Joseph's hands.",
+        "Acts 7:13-14: On the second visit Joseph makes himself known and sends for his father and all his kindred.",
+        "Genesis 46:28-30: Jacob reaches Goshen and sees Joseph's face at last."
       ],
       "translationNotes": [
         {
-          "term": "Spy",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "One who goes about secretly to search out weakness; Joseph accuses his brothers of this."
+          "term": "Five more years without plowing or harvesting",
+          "original": "Hebrew: רָעָב (raav)",
+          "note": "Egypt did not farm on rainfall. The Nile flooded every summer, spread across the valley, and left a layer of silt that the whole crop depended on, and the height of the flood was measured and recorded because everything followed from it. A run of low floods meant no planting and no harvest for the entire country, which is why the granaries Joseph filled in Genesis 41:47-49 could feed Egypt and its neighbours through it."
         },
         {
-          "term": "*sin*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "To miss the mark of God’s command; Reuben recalls their sin against Joseph."
+          "term": "A father to Pharaoh",
+          "original": "Hebrew: אָב לְפַרְעֹה (av le-Pharoh)",
+          "note": "A title of honour for a chief counsellor, not a family relation. The actual office is described in Genesis 41:40-45: Pharaoh gives Joseph his signet ring, clothes him in fine linen, puts a gold chain on his neck, sets him in the second chariot, and puts him over the whole land, with only the throne itself above him. That is the position of vizier, the man who ran the administration, the granaries, and the courts."
         },
         {
-          "term": "Silver cup",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "A goblet of silver; used by Joseph as the object of his test."
+          "term": "The land of Goshen",
+          "original": "Hebrew: גֹּשֶׁן (Goshen)",
+          "note": "A district in the eastern Nile delta, good grazing country on the frontier side of Egypt, well away from the capital. Genesis 47:11 also calls it the land of Rameses. It is where Israel stayed for the whole sojourn, and Exodus 8:22 and 9:26 note that Goshen was the one place the plagues did not touch."
+        },
+        {
+          "term": "Wagons",
+          "original": "Hebrew: עֲגָלוֹת (agalot)",
+          "note": "Herding families in Canaan moved by donkey; ox-drawn wheeled carts were state equipment, and Pharaoh sending them is an official act, not a courtesy. That is why verse 27 makes them the thing that convinces Jacob: he does not believe the report, and then he sees the wagons."
+        },
+        {
+          "term": "Three hundred shekels of silver and five sets of clothes",
+          "original": "Hebrew: שֶׁקֶל (sheqel)",
+          "note": "A shekel was a weight, about 11.4 grams, not a coin, so three hundred shekels is roughly seven and a half pounds of silver. For scale, Joseph himself had been sold for twenty shekels (Genesis 37:28), which is exactly the valuation Leviticus 27:5 sets on a male between five and twenty years old, and Abraham paid four hundred shekels for the field and cave at Machpelah (Genesis 23:15-16). Clothing was hand-spun and hand-woven, so sets of garments were real wealth too; Samson wagers thirty of them in Judges 14:12."
         }
       ],
       "keyTakeaway": "Joseph reveals himself to his brothers, weeps with them, assures them God sent him to Egypt to preserve their lives during the famine, and instructs them to bring their father Jacob down to Egypt. Pharaoh endorses the plan and provides carts and provisions; the brothers return to Canaan and tell Jacob that Joseph lives and rules Egypt.",
@@ -3631,26 +4034,37 @@
         "you are to say, ‘Your servants have raised livestock ever since our youth — both we and our fathers.’ Then you will be allowed to settle in the land of Goshen, since all shepherds are detestable to the Egyptians.” (46:34)."
       ],
       "crossRefs": [
-        "Genesis 37:7: Joseph’s dream of sheaves bowing down fulfilled as brothers bow before him.",
-        "Genesis 45:7: Joseph says God sent him to preserve life.",
-        "Acts 7:11–15: Stephen recounts the famine and Jacob’s descent to Egypt.",
-        "Exodus 1:7: The people of Israel were fruitful and multiplied greatly in Egypt."
+        "Exodus 1:1-5: The same names open Exodus, and the descendants of Jacob are numbered at seventy in all.",
+        "Deuteronomy 10:22: Your fathers went down to Egypt seventy in all, and God has made you as numerous as the stars.",
+        "Genesis 15:13-14: God told Abram his offspring would be strangers in a land not their own, and would come out with many possessions.",
+        "Genesis 28:13-15: The promise at Bethel that God would bring Jacob back to this land, renewed here at Beersheba.",
+        "Numbers 26:5-51: The clans named in this list are counted as the families of Israel a generation later."
       ],
       "translationNotes": [
         {
-          "term": "Spy",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "One who goes about secretly to search out weakness; Joseph accuses his brothers of this."
+          "term": "Beersheba",
+          "original": "Hebrew: בְּאֵר שֶׁבַע (Beer Sheva)",
+          "note": "The name means well of seven or well of the oath, and both senses come out of Genesis 21:27-31, where Abraham gives Abimelech seven ewe lambs as witness to a sworn agreement over a well. It sits at the southern edge of settled country, the last stop before the desert road down to Egypt, which is why Jacob stops and sacrifices there. Isaac had dug and built an altar at the same place (Genesis 26:23-25), and from Dan to Beersheba became the standard phrase for the whole land (Judges 20:1)."
         },
         {
-          "term": "*sin*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "To miss the mark of God’s command; Reuben recalls their sin against Joseph."
+          "term": "Joseph's own hands will close your eyes",
+          "original": "Hebrew: יָשִׁית יָדוֹ עַל־עֵינֶיךָ (yashit yado al eyneykha)",
+          "note": "Closing a dead man's eyes was the duty of his nearest son, and having a son present to do it was part of what a good death meant. The promise answers Jacob's fear that he would die without seeing Joseph again. Genesis 50:1 records the moment: Joseph falls on his father's face and weeps over him and kisses him."
         },
         {
-          "term": "Silver cup",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "A goblet of silver; used by Joseph as the object of his test."
+          "term": "Potiphera, priest of On",
+          "original": "Hebrew: אֹן (On)",
+          "note": "On is Heliopolis, the temple city of the sun god Ra, north-east of modern Cairo, one of the oldest and richest priesthoods in Egypt. Jeremiah 43:13 refers to it by the Hebrew name Beth-shemesh, house of the sun, and promises the smashing of its sacred pillars, the tall obelisks that stood in front of the temple. Joseph's wife, given to him by Pharaoh in Genesis 41:45, was the daughter of that temple's priest."
+        },
+        {
+          "term": "Sixty-six, and seventy in all",
+          "original": "Hebrew: שִׁבְעִים נֶפֶשׁ (shivim nephesh)",
+          "note": "The two numbers are counting different things. Verse 26 counts sixty-six direct descendants who actually made the journey, leaving out the wives of Jacob's sons; verse 27 adds Joseph and his two sons, who were already in Egypt, and Jacob himself, which brings it to seventy. The Greek Septuagint reads seventy-five here and in Exodus 1:5, and that is the number Stephen uses in Acts 7:14."
+        },
+        {
+          "term": "All shepherds are detestable to the Egyptians",
+          "original": "Hebrew: תּוֹעֵבָה (toevah)",
+          "note": "Toevah is the strongest word for something a people will not tolerate near them. Genesis 43:32 records the same barrier at table: Egyptians would not eat bread with Hebrews, because that too was toevah to them. The text states the fact and never explains the reason. What it does do is show Joseph using it: the family is coached to name their trade so that Pharaoh will settle them apart in Goshen."
         }
       ],
       "keyTakeaway": "Jacob leaves Beersheba after God assures him in a vision that he will become a great nation in Egypt and will be brought back; he arrives in Goshen with all his descendants and livestock, where he reunites with Joseph, who instructs his family to tell Pharaoh they are shepherds so they may settle in Goshen.",
@@ -3725,26 +4139,42 @@
         "“Swear to me,” Jacob said. So Joseph swore to him, and Israel bowed in worship at the head of his bed. (47:31)."
       ],
       "crossRefs": [
-        "Genesis 37:7: Joseph’s dream of sheaves bowing down fulfilled as brothers bow before him.",
-        "Genesis 45:7: Joseph says God sent him to preserve life.",
-        "Acts 7:11–15: Stephen recounts the famine and Jacob’s descent to Egypt.",
-        "Exodus 1:7: The people of Israel were fruitful and multiplied greatly in Egypt."
+        "Genesis 41:34-36: Joseph's plan to take a fifth of the harvest through the seven years of plenty.",
+        "Exodus 1:7: In Goshen the Israelites were fruitful, multiplied, and became exceedingly numerous.",
+        "Genesis 24:2-9: Abraham's servant swears the same way, with his hand placed under his master's thigh.",
+        "Genesis 50:4-6: Joseph asks Pharaoh's leave to keep this oath and carry his father back to Canaan.",
+        "Genesis 25:7-8: Abraham lived 175 years, a longer span than the 147 recorded for Jacob here."
       ],
       "translationNotes": [
         {
-          "term": "Spy",
-          "original": "Hebrew: רָגַל (ragal) - Greek: κατάσκοπος (kataskopos) - Aramaic: מרגל (margal)",
-          "note": "One who goes about secretly to search out weakness; Joseph accuses his brothers of this."
+          "term": "Goshen",
+          "original": "Hebrew: גֹּשֶׁן (Goshen)",
+          "note": "Goshen is in the eastern Nile Delta, the best grazing land in Egypt and the first stretch of the country a traveler from Canaan reaches. Genesis 47:11 also calls it the land of Rameses. Putting the family there kept them on the frontier rather than in the Egyptian heartland, which suited both sides, because Genesis 46:34 says every shepherd is detestable to the Egyptians. It is the same region Israel later leaves from, and Exodus 8:22 and 9:26 have Goshen shielded from the plagues."
         },
         {
-          "term": "*sin*",
-          "original": "Hebrew: חֵטְא (ḥetʾ) - Greek: ἁμαρτία (hamartia) - Aramaic: ܚܛܗ (ḥeṭā)",
-          "note": "To miss the mark of God’s command; Reuben recalls their sin against Joseph."
+          "term": "Few and evil have been my days",
+          "original": "Hebrew: מְעַט וְרָעִים (me'at ve-ra'im)",
+          "note": "Jacob tells Pharaoh at 47:9 that the years of his sojourning are a hundred and thirty, few and hard, and short of his fathers'. Egyptian writings hold up a hundred and ten years as the ideal span of a life, which is the round number a scribe would reach for, and it is exactly the age Joseph reaches at 50:22. Jacob is standing in front of the king of Egypt calling a hundred and thirty years not many."
         },
         {
-          "term": "Silver cup",
-          "original": "Hebrew: גָּבִיעַ (gaviʿa) - Greek: ποτήριον ἀργυροῦν (potērion argyroun) - Aramaic: כספא דגביעא (kaspa d-gavya)",
-          "note": "A goblet of silver; used by Joseph as the object of his test."
+          "term": "the fifth part to Pharaoh",
+          "original": "Hebrew: חֲמִישִׁית (chamishit), a fifth",
+          "note": "Genesis 47:20-26 records a permanent change to Egypt's land system: the crown ends up owning the farmland, the farmers work it as tenants, and a fifth of the harvest goes to Pharaoh every year. The priests are exempt because they draw a fixed allowance from the king (47:22). Twenty percent was a survivable rate; by contrast, 1 Samuel 8:11-17 warns Israel that a king of their own would take their sons for his chariots, their daughters for his kitchens, the best of their fields, and a tenth of both grain and flocks."
+        },
+        {
+          "term": "Put your hand under my thigh",
+          "original": "Hebrew: שִׂים־נָא יָדְךָ תַּחַת יְרֵכִי (sim na yadekha tachath yerekhi)",
+          "note": "The gesture at 47:29 appears once more in Scripture, at 24:2, and both times it seals an oath about family continuity: a burial place and a wife for the son. Yarekh is the upper thigh and the loins, the part of the body Genesis uses for descent, as at 46:26, those who came out of Jacob's loins. The oath is sworn on the line itself."
+        },
+        {
+          "term": "Do not bury me in Egypt",
+          "original": "Hebrew: וּקְבַרְתַּנִי בִּקְבֻרָתָם (u-qevartani bi-qvurotham, bury me in their burying place)",
+          "note": "47:29-30 has Jacob make Joseph swear to carry him out of Egypt to the family tomb. That tomb is the cave of Machpelah at Hebron, bought outright by Abraham for four hundred shekels of silver (23:16), the only ground the family owned in Canaan. Being carried home to it is a claim on the land staked while the whole household is living somewhere else."
+        },
+        {
+          "term": "The bed or the staff",
+          "original": "Hebrew: הַמִּטָּה (ha-mittah, the bed) - הַמַּטֶּה (ha-matteh, the staff)",
+          "note": "47:31 says Israel bowed himself at the head of the bed. Written without vowel marks the Hebrew letters for bed and for staff are identical, and the Septuagint read the second, on the top of his staff. Hebrews 11:21 quotes it that way. Nothing is corrupt in either text; one set of consonants carries both words, and this is one of the clearest places to see it."
         }
       ],
       "keyTakeaway": "Joseph secures Pharaoh's permission for his family to settle in Goshen, presents his father Jacob to Pharaoh, and provides them with food and land. During the severe famine, Joseph collects all Egyptian money and livestock for Pharaoh, then buys the people themselves and their land into servitude, establishing a one-fifth tax on future harvests; Jacob lives seventeen more years in Egypt and asks Joseph to swear he will bury him with his fathers in Canaan.",
@@ -3794,10 +4224,11 @@
         "And to you, as one who is above your brothers, I give the ridge of land that I took from the Amorites with my sword and bow.” (48:22)."
       ],
       "crossRefs": [
-        "Hebrews 11:21–22: Jacob blesses Joseph’s sons; Joseph speaks of the Exodus and his bones.",
-        "Exodus 13:19: Moses carries Joseph’s bones from Egypt.",
-        "Joshua 24:32: Joseph’s bones are buried at Shechem.",
-        "Genesis 15:13–14: God foretold Abraham his offspring would be strangers in another land before deliverance."
+        "Genesis 41:50-52: Manasseh and Ephraim are born to Joseph in Egypt by Asenath, before the famine years.",
+        "Hebrews 11:21: By faith Jacob, when he was dying, blessed each of Joseph's sons and worshiped leaning on his staff.",
+        "Deuteronomy 21:15-17: The right of the firstborn is a double portion of the inheritance.",
+        "Joshua 16:4-5: Ephraim and Manasseh receive their inheritance as two separate tribes in the land.",
+        "Genesis 35:16-20: Rachel died on the way to Ephrath and was buried there, which Jacob recalls in 48:7."
       ],
       "translationNotes": [
         {
@@ -3806,14 +4237,29 @@
           "note": "To speak words of favor and prosperity; considered binding and prophetic."
         },
         {
-          "term": "Scepter",
-          "original": "Hebrew: שֵׁבֶט (shevet) - Greek: σκῆπτρον (skēptron) - Aramaic: שבטא (shevta)",
-          "note": "A rod or staff symbolizing authority; Jacob says the scepter will not depart from Judah."
+          "term": "They are mine, as Reuben and Simeon",
+          "original": "Hebrew: לִי־הֵם (li hem, they are mine)",
+          "note": "48:5 is a legal act, not an endearment. Jacob adopts Joseph's two sons as his own, which is why the tribal lists afterward have Ephraim and Manasseh in them and no tribe of Joseph, and why the count still comes to twelve once Levi is set apart for the sanctuary with no land of its own (Joshua 13:14). Joseph receives the double portion of the firstborn in the form of two tribes."
         },
         {
-          "term": "Embalm",
-          "original": "Hebrew: חָנַט (ḥanat) - Greek: ταριχεύω (taricheuō) - Aramaic: חנט (ḥanat)",
-          "note": "To preserve a body with spices and preparation; Egyptian burial practice."
+          "term": "From between his knees",
+          "original": "Hebrew: מֵעִם בִּרְכָּיו (me'im birkav)",
+          "note": "Setting a child on the knees was a formal act of acknowledgement, the way a family recognised a child as its own. Rachel uses it at 30:3, that Bilhah may bear on my knees, and 50:23 has the children of Machir born on Joseph's knees. So the boys placed at Jacob's knees at 48:12 are being received before they are blessed."
+        },
+        {
+          "term": "The right hand",
+          "original": "Hebrew: יָמִין (yamin)",
+          "note": "The right hand carried the greater blessing, which is why Joseph positions Manasseh at it and why he takes hold of his father's hand to move it at 48:17-18. Jacob crosses his arms deliberately, and 48:14 uses a rare verb, sikkel, for the crossing. Ephraim, the younger, gets the right hand, which is the fourth time in Genesis the second son takes the place of the first."
+        },
+        {
+          "term": "The Angel who has redeemed me",
+          "original": "Hebrew: הַמַּלְאָךְ הַגֹּאֵל אֹתִי (ha-mal'akh ha-go'el othi)",
+          "note": "Go'el is the kinsman-redeemer, the nearest relative legally obliged to buy back a family member sold into slavery or a field that had been lost, and to answer for a killing (Leviticus 25:25, 25:47-49, Numbers 35:19). It is the role Boaz takes in Ruth 4. 48:16 is the first time in Scripture the word is used of God, and Jacob is the one who uses it."
+        },
+        {
+          "term": "One shoulder above your brothers",
+          "original": "Hebrew: שְׁכֶם אַחַד (shekhem achad)",
+          "note": "Shekhem is a shoulder, and by extension a mountain ridge and a share of ground, and it is also the name of a town. 48:22 gives Joseph one shekhem more than his brothers. Jacob had bought a field at Shechem for a hundred pieces of silver (33:19), and Joshua 24:32 buries Joseph's bones in that exact plot, which the returning nation is still holding as his inheritance."
         }
       ],
       "keyTakeaway": "Joseph brings his two sons Manasseh and Ephraim to his dying father Jacob, who adopts them as his own sons and blesses them; Jacob deliberately places his right hand on the younger Ephraim's head rather than the firstborn Manasseh's, and Joseph objects but Jacob refuses, saying Ephraim will be greater.",
@@ -3866,10 +4312,11 @@
         "When Jacob had finished instructing his sons, he pulled his feet into the bed and breathed his last, and he was gathered to his people. (49:33)."
       ],
       "crossRefs": [
-        "Hebrews 11:21–22: Jacob blesses Joseph’s sons; Joseph speaks of the Exodus and his bones.",
-        "Exodus 13:19: Moses carries Joseph’s bones from Egypt.",
-        "Joshua 24:32: Joseph’s bones are buried at Shechem.",
-        "Genesis 15:13–14: God foretold Abraham his offspring would be strangers in another land before deliverance."
+        "Deuteronomy 33:1-29: Moses blesses the same tribes one by one before his own death.",
+        "Genesis 35:22: Reuben lay with Bilhah his father's concubine, the act named in 49:4.",
+        "Numbers 24:17: A star will come forth from Jacob and a scepter will rise from Israel.",
+        "Revelation 5:5: The Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll.",
+        "Genesis 23:16-20: The field and cave at Machpelah, which Jacob names as his burial place, were bought by Abraham."
       ],
       "translationNotes": [
         {
@@ -3878,19 +4325,39 @@
           "note": "To speak words of favor and prosperity; considered binding and prophetic."
         },
         {
+          "term": "You went up to your father's bed",
+          "original": "Hebrew: פַּחַז כַּמַּיִם (pachaz ka-mayim, unstable as water)",
+          "note": "49:3-4 strips the firstborn of his standing and gives the reason without softening it: he went up to his father's bed. 35:22 records the act in one sentence, Reuben lying with Bilhah, and says Israel heard of it. 1 Chronicles 5:1 states the consequence outright, that the birthright went to the sons of Joseph."
+        },
+        {
+          "term": "I will scatter them in Israel",
+          "original": "Hebrew: אֲחַלְּקֵם בְּיַעֲקֹב וַאֲפִיצֵם בְּיִשְׂרָאֵל (achalleqem be-Ya'aqov va-aphitsem be-Yisra'el)",
+          "note": "49:5-7 sentences Simeon and Levi for the killing at Shechem in chapter 34, and the sentence is dispersal. It is traceable on the map: Levi received no territory at all, only forty-eight towns scattered through the other tribes (Joshua 21), and Simeon's allotment lay inside Judah's borders because Judah's portion was too large for it (Joshua 19:1, 19:9)."
+        },
+        {
           "term": "Scepter",
           "original": "Hebrew: שֵׁבֶט (shevet) - Greek: σκῆπτρον (skēptron) - Aramaic: שבטא (shevta)",
           "note": "A rod or staff symbolizing authority; Jacob says the scepter will not depart from Judah."
         },
         {
-          "term": "Embalm",
-          "original": "Hebrew: חָנַט (ḥanat) - Greek: ταριχεύω (taricheuō) - Aramaic: חנט (ḥanat)",
-          "note": "To preserve a body with spices and preparation; Egyptian burial practice."
+          "term": "He washes his garments in wine",
+          "original": "Hebrew: בַּיַּיִן לְבֻשׁוֹ (ba-yayin levusho)",
+          "note": "49:11-12 pictures a country so heavy with vines that a man ties his donkey to one and does his laundry in wine. Tethering an animal to a vine would normally ruin it, and wine was too costly to waste, so both halves are deliberate excess. Grapes were trodden barefoot in a stone vat and the juice ran into a lower basin, which is where the stained clothing in the image comes from."
         },
         {
-          "term": "Sanhedrin",
-          "note": "The 71-member Jewish supreme council in Jerusalem, presided over by the high priest. Held judicial, religious, and limited civil authority under Roman occupation. Tried Jesus (Mark 14:55), Peter and John (Acts 4), and Stephen (Acts 6:12). Dissolved after the temple's destruction in AD 70.",
-          "original": "Greek: συνέδριον (synedrion)"
+          "term": "Zebulun at the shore, Issachar at forced labour",
+          "original": "Hebrew: מַס־עֹבֵד (mas oved, a labour gang)",
+          "note": "Two tribes are placed by geography. 49:13 puts Zebulun toward the sea and a haven for ships with his border at Sidon, the Phoenician port. 49:14-15 has Issachar settle good land in the valley and bow his shoulder to bear, becoming a mas oved. Mas is the corvee, a levy of forced labour a ruler conscripts; Solomon raised one of thirty thousand men (1 Kings 5:13-14)."
+        },
+        {
+          "term": "The Shepherd, the Stone of Israel",
+          "original": "Hebrew: רֹעֶה אֶבֶן יִשְׂרָאֵל (ro'eh even Yisra'el)",
+          "note": "49:24-25 stacks up titles for God in four lines: the Mighty One of Jacob, the Shepherd, the Stone of Israel, El Shaddai. Shepherd is the first time in Scripture God is called one outright, and Jacob had already used the idea at 48:15, the God who has been my shepherd all my life. The blessings that follow name heaven above, the deep beneath, breast and womb."
+        },
+        {
+          "term": "The cave at Machpelah",
+          "original": "Hebrew: מְעָרַת הַמַּכְפֵּלָה (me'arath ha-Makhpelah)",
+          "note": "49:29-32 names every person in the family tomb: Abraham and Sarah, Isaac and Rebekah, Leah, and now Jacob. It also names the deed, the field bought from Ephron the Hittite with the cave in it, and 23:16 gives the price, four hundred shekels of silver weighed out in front of witnesses at the town gate. It is the only piece of Canaan the family owns, and it is a grave."
         }
       ],
       "keyTakeaway": "Jacob gathers his sons and gives each a blessing or pronouncement about their future; he then instructs them to bury him in the cave of Machpelah with his ancestors and dies.",
@@ -3940,21 +4407,17 @@
         "So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt. (50:26)."
       ],
       "crossRefs": [
-        "Hebrews 11:21–22: Jacob blesses Joseph’s sons; Joseph speaks of the Exodus and his bones.",
-        "Exodus 13:19: Moses carries Joseph’s bones from Egypt.",
-        "Joshua 24:32: Joseph’s bones are buried at Shechem.",
-        "Genesis 15:13–14: God foretold Abraham his offspring would be strangers in another land before deliverance."
+        "Exodus 13:19: Moses carries Joseph's bones out of Egypt, keeping the oath sworn at the end of this chapter.",
+        "Joshua 24:32: Joseph's bones are buried at Shechem in the plot of ground Jacob had bought.",
+        "Hebrews 11:22: By faith Joseph, when his end was near, spoke of the exodus and gave instructions about his bones.",
+        "Genesis 23:16-20: Abraham weighed out four hundred shekels for the field and cave where Jacob is now buried.",
+        "Genesis 45:4-8: Joseph had already told his brothers that God sent him ahead of them to preserve life."
       ],
       "translationNotes": [
         {
-          "term": "Bless",
-          "original": "Hebrew: בָּרַךְ (barakh) - Greek: εὐλογέω (eulogeō) - Aramaic: ܒܪܟ (barak)",
-          "note": "To speak words of favor and prosperity; considered binding and prophetic."
-        },
-        {
-          "term": "Scepter",
-          "original": "Hebrew: שֵׁבֶט (shevet) - Greek: σκῆπτρον (skēptron) - Aramaic: שבטא (shevta)",
-          "note": "A rod or staff symbolizing authority; Jacob says the scepter will not depart from Judah."
+          "term": "how the Egyptians embalmed",
+          "original": "Hebrew: חָנַט (chanat), to embalm or spice",
+          "note": "Genesis 50:2-3 gives forty days for the embalming and seventy days of Egyptian mourning, and it says physicians did the work. Herodotus, writing in the fifth century BC, describes the procedure in detail: the brain drawn out through the nostrils with an iron hook, the abdomen opened and cleaned and packed with myrrh and cassia, and the body dried out in natron, a natural salt from the desert lakes. Joseph is embalmed the same way at 50:26 and put in a coffin in Egypt, and Exodus 13:19 records his bones being carried out at the exodus."
         },
         {
           "term": "Embalm",
@@ -3962,9 +4425,29 @@
           "note": "To preserve a body with spices and preparation; Egyptian burial practice."
         },
         {
-          "term": "threshing floor",
-          "note": "A flat, hard, outdoor surface, usually a leveled rock or beaten-earth circle at the edge of town, where harvested grain was separated from chaff. Oxen pulled a wooden sledge over the stalks; the mixed kernels and chaff were then winnowed in the wind. Threshing floors doubled as public civic spaces (Ruth 3; 2 Samuel 24:18; Solomon's temple site).",
-          "original": "Hebrew: גֹּרֶן (goren)"
+          "term": "Seventy days of mourning",
+          "original": "Hebrew: שִׁבְעִים יוֹם (shiv'im yom)",
+          "note": "50:3 gives forty days for the embalming and seventy days of weeping, and 50:10 adds seven more days at the threshing floor of Atad once the procession reaches Canaan. Seventy days was the full Egyptian mourning period for a person of rank, so a foreign shepherd is buried with the honours of the Egyptian court. Israel's own custom was seven days (1 Samuel 31:13), and thirty for Aaron and Moses (Numbers 20:29, Deuteronomy 34:8)."
+        },
+        {
+          "term": "the threshing floor of Atad",
+          "original": "Hebrew: גֹּרֶן (goren), threshing floor",
+          "note": "A threshing floor was a flat, hard, open circle of rock or beaten earth set on a rise to catch the wind, the only large level clearing near most towns, which is why it doubled as the place for public gatherings. Genesis 50:10-11 has the funeral procession stop at one for a seven-day mourning. Ruth 3 turns on the harvest floor at Bethlehem, and 2 Samuel 24:18-25 has David buy the threshing floor of Araunah, the ground the temple was later built on."
+        },
+        {
+          "term": "Abel-mizraim",
+          "original": "Hebrew: אָבֵל מִצְרַיִם (Avel Mitsrayim) - אֵבֶל (evel, mourning)",
+          "note": "50:11 has the Canaanites watch the funeral and say this is a grievous mourning for the Egyptians, and the place takes the name from what they said. The pun is in one letter: evel is mourning, and avel in place names means a meadow or watercourse, as in Abel-shittim and Abel-meholah. English has to print one of the two and loses the other."
+        },
+        {
+          "term": "You meant evil, God meant it for good",
+          "original": "Hebrew: חֲשַׁבְתֶּם (chashavtem) - חֲשָׁבָהּ (chashavah)",
+          "note": "50:20 uses the same verb twice, chashav, which is to reckon, plan or account. The brothers reckoned one thing and God reckoned the same act to another end, and the sentence turns on that repetition rather than on two different words. Joseph had already said something close at 45:5 and 45:8, and 50:19 opens with the question am I in the place of God."
+        },
+        {
+          "term": "A coffin in Egypt",
+          "original": "Hebrew: אָרוֹן (aron)",
+          "note": "Aron is a chest or box, and it is the same word used for the ark of the covenant. Here at 50:26 it is an Egyptian coffin, and the last line of Genesis leaves Joseph embalmed and boxed above ground rather than buried in the land. Exodus 13:19 has Moses take the bones out with him at the exodus, and Joshua 24:32 finally buries them at Shechem, in the field Jacob bought."
         }
       ],
       "keyTakeaway": "Joseph embalms his father Jacob and buries him in Canaan with a large Egyptian and family procession; back in Egypt, Joseph's brothers fear retaliation but Joseph forgives them, saying God intended their harm for good. Joseph lives to age 110, sees his descendants, and makes his family swear to carry his bones to Canaan when God brings them out of Egypt.",

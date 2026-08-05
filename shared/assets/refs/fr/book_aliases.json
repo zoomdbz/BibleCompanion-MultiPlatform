@@ -337,7 +337,7 @@
     "group": "canon"
   },
   {
-    "canon": "Nahoum",
+    "canon": "Nahum",
     "aliases": [
       "Nahoum",
       "Nah",
@@ -717,7 +717,8 @@
       "Additions à Esther",
       "Esther grec",
       "Add Est",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
@@ -728,7 +729,8 @@
       "Sagesse",
       "Sag",
       "Sg",
-      "Wisdom of Solomon"
+      "Wisdom of Solomon",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -739,7 +741,8 @@
       "Siracide",
       "Sir",
       "Ecclo",
-      "Sirach"
+      "Sirach",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -770,7 +773,8 @@
       "Cantique de Trois",
       "PrAzar",
       "Azarias",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -789,6 +793,15 @@
       "Bel et le Dragon",
       "Bel",
       "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Psaume 151",
+    "aliases": [
+      "Psaume 151",
+      "Ps 151",
+      "Psalm 151"
     ],
     "group": "deuterocanon"
   },
@@ -970,8 +983,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "Évangile de l'enfance de Thomas",
+    "canon": "Évangile de l'Enfance de Thomas",
     "aliases": [
+      "Évangile de l'Enfance de Thomas",
       "Évangile de l'enfance de Thomas",
       "Infancy Gospel of Thomas"
     ],
@@ -982,7 +996,8 @@
     "aliases": [
       "Protévangile de Jacques",
       "Évangile de l'enfance de Jacques",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -1085,7 +1100,8 @@
       "Premier Hénoc",
       "1 En",
       "I Hénoc",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1096,7 +1112,8 @@
       "Deuxième Hénoc",
       "2 En",
       "II Hénoc",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1107,7 +1124,8 @@
       "Troisième Hénoc",
       "3 En",
       "III Hénoc",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1124,7 +1142,8 @@
     "canon": "Testament des Douze Patriarches",
     "aliases": [
       "Testament des Douze Patriarches",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1329,6 +1348,32 @@
     "aliases": [
       "Apocalypse d'Élie",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Évangile de Nicodème (Actes de Pilate)",
+    "aliases": [
+      "Évangile de Nicodème (Actes de Pilate)",
+      "Évangile de Nicodème",
+      "Gospel of Nicodemus",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Évangile de Barthélemy",
+    "aliases": [
+      "Évangile de Barthélemy",
+      "Gospel of Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Ascension de Moïse",
+    "aliases": [
+      "Ascension de Moïse",
+      "Assumption of Moses"
     ],
     "group": "pseudepigrapha"
   }

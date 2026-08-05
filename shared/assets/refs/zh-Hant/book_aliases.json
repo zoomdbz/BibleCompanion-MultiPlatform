@@ -109,7 +109,7 @@
     "group": "canon"
   },
   {
-    "canon": "列王紀上",
+    "canon": "列王記上",
     "aliases": [
       "列王紀上",
       "王上",
@@ -120,7 +120,7 @@
     "group": "canon"
   },
   {
-    "canon": "列王紀下",
+    "canon": "列王記下",
     "aliases": [
       "列王紀下",
       "王下",
@@ -411,7 +411,7 @@
     "group": "canon"
   },
   {
-    "canon": "瑪竇福音",
+    "canon": "馬太福音",
     "aliases": [
       "瑪竇福音",
       "瑪竇",
@@ -423,7 +423,7 @@
     "group": "canon"
   },
   {
-    "canon": "馬爾谷福音",
+    "canon": "馬可福音",
     "aliases": [
       "馬爾谷福音",
       "馬爾谷",
@@ -447,7 +447,7 @@
     "group": "canon"
   },
   {
-    "canon": "若望福音",
+    "canon": "約翰福音",
     "aliases": [
       "若望福音",
       "若望",
@@ -637,7 +637,7 @@
     "group": "canon"
   },
   {
-    "canon": "約壹",
+    "canon": "約翰壹書",
     "aliases": [
       "約壹",
       "約翰壹書",
@@ -648,7 +648,7 @@
     "group": "canon"
   },
   {
-    "canon": "約貳",
+    "canon": "約翰貳書",
     "aliases": [
       "約貳",
       "約翰貳書",
@@ -659,7 +659,7 @@
     "group": "canon"
   },
   {
-    "canon": "約參",
+    "canon": "約翰參書",
     "aliases": [
       "約參",
       "約翰參書",
@@ -679,7 +679,7 @@
     "group": "canon"
   },
   {
-    "canon": "默示錄",
+    "canon": "啟示錄",
     "aliases": [
       "默示錄",
       "啟示錄",
@@ -689,7 +689,7 @@
     "group": "canon"
   },
   {
-    "canon": "多比書",
+    "canon": "多俾亞傳",
     "aliases": [
       "多比書",
       "多比",
@@ -700,8 +700,9 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "猶滴傳",
+    "canon": "友弟德傳",
     "aliases": [
+      "友弟德傳",
       "猶滴傳",
       "猶滴",
       "Judith"
@@ -713,18 +714,20 @@
     "aliases": [
       "以斯帖補編",
       "希臘以斯帖",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "所羅門智訓",
+    "canon": "智慧篇",
     "aliases": [
       "所羅門智訓",
       "智訓篇",
       "智",
       "Wisdom of Solomon",
-      "智慧篇"
+      "智慧篇",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -735,13 +738,15 @@
       "德訓篇",
       "西拉",
       "Sirach",
-      "便西拉智訓"
+      "便西拉智訓",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "巴錄書",
+    "canon": "巴路克書",
     "aliases": [
+      "巴路克書",
       "巴錄書",
       "巴錄",
       "Baruch"
@@ -749,8 +754,9 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "耶利米書信",
+    "canon": "耶肋米亞書信",
     "aliases": [
+      "耶肋米亞書信",
       "耶利米書信",
       "Letter of Jeremiah"
     ],
@@ -761,7 +767,8 @@
     "aliases": [
       "亞撒利雅的禱告",
       "三童之歌",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -784,8 +791,18 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "馬加比一書",
+    "canon": "聖詠151",
     "aliases": [
+      "聖詠151",
+      "詩篇151",
+      "Psalm 151"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "馬加伯上",
+    "aliases": [
+      "馬加伯上",
       "馬加比一書",
       "一馬加",
       "1 Maccabees"
@@ -793,7 +810,7 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "馬加比二書",
+    "canon": "馬加伯下",
     "aliases": [
       "馬加比二書",
       "二馬加",
@@ -804,24 +821,27 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "馬加比三書",
+    "canon": "馬加伯三",
     "aliases": [
+      "馬加伯三",
       "馬加比三書",
       "3 Maccabees"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "馬加比四書",
+    "canon": "馬加伯四",
     "aliases": [
+      "馬加伯四",
       "馬加比四書",
       "4 Maccabees"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "以斯拉一書",
+    "canon": "厄斯德拉一",
     "aliases": [
+      "厄斯德拉一",
       "以斯拉一書",
       "一以斯拉",
       "1 Esdras",
@@ -834,13 +854,15 @@
     "aliases": [
       "以斯拉二書",
       "四以斯拉",
-      "2 Esdras"
+      "2 Esdras",
+      "2 Esdras (4 Ezra)"
     ],
     "group": "deuterocanon"
   },
   {
-    "canon": "瑪拿西禱文",
+    "canon": "默納塞祈禱",
     "aliases": [
+      "默納塞祈禱",
       "瑪拿西禱文",
       "Prayer of Manasseh"
     ],
@@ -938,8 +960,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "多馬嬰孩福音",
+    "canon": "多馬嬰兒福音",
     "aliases": [
+      "多馬嬰兒福音",
       "多馬嬰孩福音",
       "Infancy Gospel of Thomas"
     ],
@@ -949,7 +972,8 @@
     "canon": "雅各嬰孩福音",
     "aliases": [
       "雅各嬰孩福音",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -1046,7 +1070,8 @@
     "aliases": [
       "以諾一書",
       "第一以諾書",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1055,7 +1080,8 @@
     "aliases": [
       "以諾二書",
       "第二以諾書",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -1064,12 +1090,13 @@
     "aliases": [
       "以諾三書",
       "第三以諾書",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
   {
-    "canon": "周年書",
+    "canon": "禧年書",
     "aliases": [
       "周年書",
       "小創世記",
@@ -1082,7 +1109,8 @@
     "canon": "十二族長遺囑",
     "aliases": [
       "十二族長遺囑",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1288,6 +1316,34 @@
     "aliases": [
       "以利亞啟示錄",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "尼哥底母福音（彼拉多行傳）",
+    "aliases": [
+      "尼哥底母福音（彼拉多行傳）",
+      "Gospel of Nicodemus",
+      "Acts of Pilate",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "巴多羅買福音",
+    "aliases": [
+      "巴多羅買福音",
+      "Gospel of Bartholomew",
+      "Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "摩西升天記",
+    "aliases": [
+      "摩西升天記",
+      "Assumption of Moses",
+      "Testament of Moses"
     ],
     "group": "pseudepigrapha"
   }

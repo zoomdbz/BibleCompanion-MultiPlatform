@@ -38,30 +38,40 @@
         "Wie sind die Helden gefallen und verloren die Waffen des Krieges!« (1:27)."
       ],
       "crossRefs": [
-        "1. Samuel 31,1–6: Sauls Tod berichtet.",
-        "1. Samuel 24,6: David weigert sich, den Gesalbten des HERRN zu schlagen.",
-        "Josua 10,13: Das Buch des Jaschar erwähnt.",
-        "2. Samuel 3,14: Michal wird David zurückgegeben.",
-        "1. Chronik 3,1–4: Davids Söhne in Hebron aufgelistet."
+        "1 Samuel 31:1-6: Sauls wirklicher Tod auf dem Gilboa, wo er in sein eigenes Schwert fällt und sein Waffenträger ihm folgt.",
+        "1 Samuel 24:6: David weigert sich, die Hand an den Gesalbten des HERRN zu legen, obwohl er Saul in Reichweite hat.",
+        "Josua 10:12-13: Die Sonne bleibt über Gibeon stehen, und der Bericht davon steht im Buch des Rechtschaffenen.",
+        "Micha 1:10: Berichtet es nicht in Gat, weint gar nicht, dieselben Worte, die der Prophet Geschlechter später aufnimmt.",
+        "1 Samuel 18:1-4: Jonathans Seele verbindet sich mit der Davids, und er gibt ihm seinen Rock, sein Schwert, seinen Bogen und seinen Gürtel."
       ],
       "translationNotes": [
         {
+          "term": "Die Krone und die Armspange",
+          "original": "Hebrew: נֵזֶר (nezer), diadem - אֶצְעָדָה (etsadah), armband",
+          "note": "Der Amalekiter in Vers 10 bringt keine Nachricht, er bringt die Herrschaftszeichen, und darauf zielt sein ganzes Spiel. Ein nezer ist das Band um den Kopf, das einen Mann als für ein Amt geweiht auswies; der Hohepriester trägt eines aus Gold (Exodus 29:6), und Joas wird in 2 Könige 11:12 damit gekrönt. Den nezer und die Armspange David zu übergeben heißt, ihm das Königtum zu übergeben, und der Mann erwartet dafür ganz offensichtlich Lohn."
+        },
+        {
           "term": "Gesalbter",
-          "original": "Hebrew: מָשִׁיחַ (māšîaḥ), Greek: χριστός (christos), Aramaic: משיחא (mešīḥā)",
-          "note": "Einer, der durch Öl zu einem Amt geweiht wird; hier Saul und David als Könige."
+          "original": "Hebrew: מָשִׁיחַ (mashiach) - Greek (LXX): χριστός (christos)",
+          "note": "Maschiach bedeutet mit Öl bestrichen und ist eine Amtsbezeichnung und kein Lob: der Mann, den Gott eingesetzt hat, indem er ihm Öl über das Haupt gießen ließ. David gebraucht es in den Versen 14 und 16 als Grund, den Mann hinzurichten, der behauptet, Saul den Rest gegeben zu haben, und das Klagelied kehrt dasselbe Bild in Vers 21 um und nennt Sauls Schild besudelt und nicht mehr mit Öl gesalbt, was die übliche Pflege war, um ein Lederschild geschmeidig zu halten."
         },
         {
-          "term": "Trauerlied/Klage",
-          "original": "Hebrew: קִינָה (qînāh)",
-          "note": "Formelles Begräbnisklagelied; Davids nationale Trauer um Saul und Jonathan."
+          "term": "Klagelied",
+          "original": "Hebrew: קִינָה (qinah), lament",
+          "note": "Ein qinah ist ein förmliches Trauerlied mit einem eigenen hinkenden Rhythmus, bei einer Bestattung gesungen und oft von Frauen angeführt, die man dafür anstellte (Jeremia 9:17-20). Es ist eine öffentliche Dichtung und keine private Trauer: Davids Lied trägt den Titel Lied von dem Bogen, es wird befohlen, es die Männer Judas zu lehren, und es wird aufgeschrieben. Das ganze Buch der Klagelieder besteht aus fünf davon, und die Propheten gebrauchen die Form, um über ein Volk zu singen, bevor es fällt (Ezechiel 19:1, Amos 5:1)."
         },
         {
-          "term": "Buch des Jaschar",
+          "term": "Berichtet es nicht in Gat",
+          "original": "Hebrew: בְּנוֹת פְּלִשְׁתִּים (benot Pelishtim), the daughters of the Philistines",
+          "note": "In Vers 20 geht es nicht um Geheimhaltung, sondern um eine bestimmte Szene, die David vor sich sieht. Frauen kamen einem heimkehrenden Heer mit Trommeln und einem gesungenen Kehrvers entgegen, und genau so war er selbst in 1 Samuel 18:6-7 empfangen worden. Er stellt sich denselben Brauch in Gat und Askalon über dem Leichnam Sauls vor. Gat und Askalon sind zwei der fünf Philisterstädte, beide ein bis zwei Tagesreisen von der Grenze Judas entfernt."
+        },
+        {
+          "term": "Buch Jaschar",
           "original": "Hebrew: סֵפֶר הַיָּשָׁר (sefer ha-yāšār)",
-          "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
+          "note": "Verlorene außerkanonische Sammlung von Heldenliedern (auch in Josua 10:13 angeführt); diese Übersetzung nennt es das Buch des Rechtschaffenen."
         }
       ],
-      "keyTakeaway": "Ein amalekitischer Bote überbringt David die Nachricht vom Tod Sauls und Jonatans und behauptet, Saul auf dessen Bitte hin getötet zu haben; David lässt den Boten hinrichten und verfasst eine ausführliche Klage um Saul und Jonatan.",
+      "keyTakeaway": "Ein amalekitischer Bote bringt David die Nachricht, dass Saul und Jonathan tot sind, und behauptet, er habe Saul auf dessen Bitte getötet; David lässt den Boten hinrichten und dichtet ein kunstvolles Klagelied auf Saul und Jonathan.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -114,30 +124,35 @@
         "Und sie hoben Asahel auf und begruben ihn im Grab seines Vaters in Bethlehem. Joab aber samt seinen Männern marschierte die ganze Nacht, und das Licht brach ihnen an in Hebron. (2:32)."
       ],
       "crossRefs": [
-        "1. Samuel 31,1–6: Sauls Tod berichtet.",
-        "1. Samuel 24,6: David weigert sich, den Gesalbten des HERRN zu schlagen.",
-        "Josua 10,13: Das Buch des Jaschar erwähnt.",
-        "2. Samuel 3,14: Michal wird David zurückgegeben.",
-        "1. Chronik 3,1–4: Davids Söhne in Hebron aufgelistet."
+        "1 Samuel 31:11-13: Die Männer von Jabesch-Gilead nehmen Sauls Leichnam von Beth-Schean herab und begraben seine Gebeine unter der Tamariske.",
+        "1 Samuel 16:1-13: Samuel salbt David in Bethlehem, die verborgene Salbung, die diese öffentliche zu erfüllen beginnt.",
+        "Genesis 32:1-2: Jakob nennt den Ort Mahanajim, zwei Heerlager, als die Engel Gottes ihm dort begegnen.",
+        "Josua 14:13-15: Hebron wird Kaleb zum Erbteil gegeben, und die Stadt wird der Hauptort des judäischen Berglandes.",
+        "2 Samuel 3:26-30: Joab nimmt Abner im Tor von Hebron beiseite und tötet ihn für das Blut seines Bruders Asahel."
       ],
       "translationNotes": [
         {
-          "term": "Gesalbter",
-          "original": "Hebrew: מָשִׁיחַ (māšîaḥ), Greek: χριστός (christos), Aramaic: משיחא (mešīḥā)",
-          "note": "Einer, der durch Öl zu einem Amt geweiht wird; hier Saul und David als Könige."
+          "term": "Der Teich von Gibeon",
+          "original": "Hebrew: בְּרֵכַת גִּבְעוֹן (berekhat Givon)",
+          "note": "In Vers 13 setzen sich die beiden Heere einander gegenüber an die beiden Seiten eines Teiches. Gibeon liegt auf der Hochebene etwa sechs Meilen nordwestlich von Jerusalem, und James Pritchard grub den Ort in den 1950er Jahren aus und legte einen großen, in den Fels gehauenen Schacht frei, etwa siebenunddreißig Fuß weit und fünfunddreißig tief, mit einer Wendeltreppe an der Innenwand hinab zum Wasser. Wasser war das eine, was beide Heere brauchten, und es gehörte keinem von beiden."
         },
         {
-          "term": "Trauerlied/Klage",
-          "original": "Hebrew: קִינָה (qînāh)",
-          "note": "Formelles Begräbnisklagelied; Davids nationale Trauer um Saul und Jonathan."
+          "term": "Zwölf und zwölf",
+          "original": "Hebrew: חֶלְקַת הַצֻּרִים (Chelqat ha-Tsurim), the field of sword edges",
+          "note": "Die Verse 14 bis 16 schlagen einen Kampf durch Vorkämpfer vor, gleiche Zahl auf jeder Seite, um die Sache ohne allgemeines Treffen zu entscheiden; Goliath bietet Israel in 1 Samuel 17:8-10 dieselbe Regelung an. Sie geht nur auf, wenn eine Seite verliert, und hier packt jeder der vierundzwanzig seinen Gegenüber am Kopf und stößt ihm das Schwert in die Seite, sodass alle miteinander fallen. Der Ort behält den Namen, den er sich damit erwarb, und die allgemeine Schlacht beginnt dennoch."
         },
         {
-          "term": "Buch des Jaschar",
-          "original": "Hebrew: סֵפֶר הַיָּשָׁר (sefer ha-yāšār)",
-          "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
+          "term": "Das hintere Ende des Speers",
+          "original": "Hebrew: אַחֲרֵי הַחֲנִית (acharei ha-chanit), the hinder end of the spear",
+          "note": "In Vers 23 tötet Abner Asahel mit dem hinteren Ende seines Speers, geradewegs durch ihn hindurch gestoßen. Ein Speer war hinten mit einer Metallspitze beschlagen, damit man ihn aufrecht in den Boden stecken konnte, und so steht der Sauls neben seinem Kopf, während er schläft (1 Samuel 26:7). Abner, der vor einem schnelleren Mann läuft, dreht sich nicht um; er stößt nach hinten, und der Stoß, der folgt, tötet Asahel und beginnt eine Blutfehde, die durch die nächsten beiden Kapitel läuft."
+        },
+        {
+          "term": "Hebron",
+          "original": "Hebrew: חֶבְרוֹן (Hevron)",
+          "note": "Der Hauptort des südlichen Berglandes, etwa neunzehn Meilen südlich von Jerusalem und 3.000 Fuß hoch gelegen, auf gutem Boden für Herden und Reben. Abraham kaufte dort die Höhle Machpelah als Begräbnisstätte (Genesis 23), und sie war eine der sechs Zufluchtsstädte (Josua 20:7). David regiert Juda siebeneinhalb Jahre von Hebron aus, bevor er Jerusalem nimmt."
         }
       ],
-      "keyTakeaway": "David befragt den HERRN, zieht nach Hebron und wird zum König über Juda gesalbt; unterdessen setzt Abner Isch-Boschet als König über die übrigen Stämme ein, woraufhin es bei Gibeon zu einer heftigen Schlacht kommt, in der Davids Truppen siegen und Asahel von Abner getötet wird.",
+      "keyTakeaway": "David befragt den HERRN, zieht nach Hebron und wird zum König über Juda gesalbt; unterdessen setzt Abner Ischboset als König über die übrigen Stämme ein, was zu einem erbitterten Kampf bei Gibeon führt, in dem Davids Leute die Oberhand behalten und Asahel von Abner getötet wird.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -201,30 +216,40 @@
         "Ich aber bin heute schwach, obwohl ich zum König gesalbt bin; und diese Männer, die Söhne der Zeruja, sind mir zu hart. Der HERR vergelte dem, der Böses tut, entsprechend seiner Bosheit! (3:39)."
       ],
       "crossRefs": [
-        "1. Samuel 31,1–6: Sauls Tod berichtet.",
-        "1. Samuel 24,6: David weigert sich, den Gesalbten des HERRN zu schlagen.",
-        "Josua 10,13: Das Buch des Jaschar erwähnt.",
-        "2. Samuel 3,14: Michal wird David zurückgegeben.",
-        "1. Chronik 3,1–4: Davids Söhne in Hebron aufgelistet."
+        "Deuteronomium 19:4-13: Der Bluträcher und der Unterschied, den das Gesetz zwischen einer Tötung ohne Absicht und einem Mord zieht.",
+        "Numeri 35:16-25: Der Mörder wird getötet, aber wer ohne Feindschaft zuschlug, wird geschützt, bis er vor Gericht gestanden hat.",
+        "1 Samuel 18:20-27: Michal wird David für einen Brautpreis von hundert Philistern gegeben, und er bringt zweihundert.",
+        "1 Samuel 25:43-44: Saul gibt Michal dem Palti, dem Sohn des Laisch, während David in der Verbannung ist.",
+        "1 Könige 2:5-6: Davids Auftrag an Salomo wegen Joab, der Kriegsblut in Friedenszeit vergossen hat."
       ],
       "translationNotes": [
         {
-          "term": "Gesalbter",
-          "original": "Hebrew: מָשִׁיחַ (māšîaḥ), Greek: χριστός (christos), Aramaic: משיחא (mešīḥā)",
-          "note": "Einer, der durch Öl zu einem Amt geweiht wird; hier Saul und David als Könige."
+          "term": "Die in Hebron geborenen Söhne",
+          "original": "Hebrew: מַעֲכָה בַּת־תַּלְמַי (Maakhah bat Talmai)",
+          "note": "Die Verse 2 bis 5 führen sechs Söhne von sechs verschiedenen Müttern auf, und die Mütter werden genannt, weil der Rang eines Prinzen von der Familie seiner Mutter herkam. Zwei davon sind später wichtig. Amnons Mutter ist Ahinoam aus Jesreel, und Absaloms Mutter ist Maacha, die Tochter des Königs von Geschur, eines kleinen aramäischen Königreichs östlich des Sees Genezareth; zu jenem fremden königlichen Großvater flieht Absalom, als er Amnon getötet hat, und bleibt drei Jahre (13:37-38). Die Liste ist der Same der Kapitel 13 bis 18."
         },
         {
-          "term": "Trauerlied/Klage",
-          "original": "Hebrew: קִינָה (qînāh)",
-          "note": "Formelles Begräbnisklagelied; Davids nationale Trauer um Saul und Jonathan."
+          "term": "Michal zurückgefordert",
+          "original": "Hebrew: מֹהַר (mohar), bride price",
+          "note": "Davids Forderung in Vers 14 stützt sich auf eine Zahlung: Er hatte Michal Saul mit hundert Vorhäuten der Philister abgekauft (1 Samuel 18:25-27), und Saul hatte sie dann einem anderen Mann gegeben. Die Tochter des vorigen Königs zurückzuholen stärkte zudem seinen Anspruch auf den Norden, und darum geht die Forderung an Ischboset und nicht an den Ehemann. Vers 16 hält fest, was das den Ehemann kostete, der ihr weinend bis Bahurim nachgeht und heimgeschickt wird."
         },
         {
-          "term": "Buch des Jaschar",
-          "original": "Hebrew: סֵפֶר הַיָּשָׁר (sefer ha-yāšār)",
-          "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
+          "term": "Blutrache im Tor",
+          "original": "Hebrew: גֹּאֵל הַדָּם (goel ha-dam), the redeemer of blood",
+          "note": "Vers 27 sagt unumwunden, warum Joab es tut: Abner hatte seinen Bruder Asahel getötet. Der nächste männliche Verwandte trug die Pflicht, einen Totschläger zu verfolgen, und es gab keine Polizei, die es an seiner Stelle getan hätte. Doch Asahel starb im offenen Kampf, nachdem er zweimal gewarnt worden war, was das Gesetz anders wertet als Mord, und Hebron war eine der sechs Zufluchtsstädte, die dafür ausgesondert waren, dass ein Mann in dieser Lage vor Gericht stehen kann, statt niedergestreckt zu werden (Josua 20:7). Joab nimmt ihn im Tor beiseite, als wolle er reden, und ersticht ihn in der Stadt, in der er sicher hätte sein sollen."
+        },
+        {
+          "term": "Sacktuch",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Ein grober, dunkler Stoff aus Ziegenhaar, auf der bloßen Haut getragen als allgemein verstandenes Zeichen der Trauer, der Buße oder der Not (1 Könige 21:27; Jona 3:5; Matthäus 11:21). Es öffentlich zu tragen machte Trauer oder Reue kund; das Unbequeme daran gehörte zum Zeichen."
+        },
+        {
+          "term": "Die Nebenfrau des Königs nehmen",
+          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh)",
+          "note": "Ischboset beschuldigt Abner, zu Sauls Nebenfrau Rizpa gegangen zu sein, und Abners Reaktion wirkt maßlos, bis man sieht, was der Vorwurf bedeutet. Die Frauen eines toten oder verdrängten Königs zu beanspruchen war ein Anspruch auf seinen Thron, und darum tut Absalom es öffentlich auf dem Dach (2 Samuel 16:21-22) und darum lässt Salomo Adonija töten, weil er um Abischag bittet (1 Könige 2:22). Es war ein Staatsstreich, im Haushalt angesagt."
         }
       ],
-      "keyTakeaway": "Davids Söhne werden in Hebron geboren, während er erstarkt; Abner wechselt nach dem Streit mit Isch-Boschet wegen Sauls Nebenfrau die Seiten zu David und vermittelt Frieden, doch Joab tötet ihn zur Vergeltung für ihren Bruder Asahel, und David trauert öffentlich, um seine Unschuld zu beweisen.",
+      "keyTakeaway": "Davids Söhne werden in Hebron geboren, während er stärker wird; Abner, erzürnt über Ischbosets Vorwurf wegen der Nebenfrau Sauls, wechselt zu David über und vermittelt Frieden, doch Joab ermordet ihn aus Rache für ihren Bruder Asahel, und David trauert öffentlich, um seine Unschuld zu beweisen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -269,30 +294,40 @@
         "Und David gebot seinen jungen Männern; die brachten sie um und schlugen ihnen Hände und Füße ab und hängten sie auf am Teich von Hebron. Aber das Haupt Ischboseths nahmen sie und begruben es in Abners Grab in Hebron. (4:12)."
       ],
       "crossRefs": [
-        "1. Samuel 31,1–6: Sauls Tod berichtet.",
-        "1. Samuel 24,6: David weigert sich, den Gesalbten des HERRN zu schlagen.",
-        "Josua 10,13: Das Buch des Jaschar erwähnt.",
-        "2. Samuel 3,14: Michal wird David zurückgegeben.",
-        "1. Chronik 3,1–4: Davids Söhne in Hebron aufgelistet."
+        "2 Samuel 1:1-16: David lässt den Amalekiter hinrichten, der Sauls Krone brachte und behauptete, ihm den Rest gegeben zu haben.",
+        "2 Samuel 9:1-13: Mephiboseth, das lahme Kind, das in Vers 4 eingeführt wird, wird später an den Tisch des Königs geholt.",
+        "Deuteronomium 21:22-23: Ein Leichnam, der an einem Holz hängt, darf nicht über Nacht bleiben, denn ein Gehängter ist von Gott verflucht.",
+        "Genesis 9:5-6: Von jedem Menschen werde ich das Leben seines Bruders fordern; wer Menschenblut vergießt, dessen Blut soll durch Menschen vergossen werden.",
+        "2 Samuel 2:8-9: Abner setzt Ischboset über Gilead, Ephraim, Benjamin und ganz Israel von Mahanajim aus ein."
       ],
       "translationNotes": [
         {
-          "term": "Gesalbter",
-          "original": "Hebrew: מָשִׁיחַ (māšîaḥ), Greek: χριστός (christos), Aramaic: משיחא (mešīḥā)",
-          "note": "Einer, der durch Öl zu einem Amt geweiht wird; hier Saul und David als Könige."
+          "term": "Ischboset",
+          "original": "Hebrew: אִישׁ־בֹּשֶׁת (Ish-boshet) - Hebrew: אֶשְׁבַּעַל (Eshbaal)",
+          "note": "Der Name in diesem Buch bedeutet Mann der Schande. Derselbe Sohn Sauls heißt in der Familienliste von 1 Chronik 8:33 und 9:39 Esch-Baal, Mann des Baal, und Jonathans Sohn Mephiboseth erscheint dort als Merib-Baal (1 Chronik 8:34). Baal bedeutet Herr oder Besitzer und war der Name des kanaanitischen Wettergottes, und dieser Bestandteil wurde in diesen Namen durch boschet, Schande, ersetzt."
         },
         {
-          "term": "Trauerlied/Klage",
-          "original": "Hebrew: קִינָה (qînāh)",
-          "note": "Formelles Begräbnisklagelied; Davids nationale Trauer um Saul und Jonathan."
+          "term": "Rimmon der Beerotiter",
+          "original": "Hebrew: בְּאֵרוֹת (Beerot)",
+          "note": "Beerot war eine der vier Städte der Gibeoniter, des Volkes, das von Josua einen Vertrag erlangte, indem es sich als von weit her gekommen ausgab, und das verschont und zu Holzhauern und Wasserträgern gemacht wurde (Josua 9:3-27, mit den Städten in 9:17). Vers 3 hält fest, dass die Beerotiter nach Gittajim geflohen waren und dort als Fremdlinge wohnten. 2 Samuel 21:1-2 hält fest, dass Saul versucht hatte, die Gibeoniter auszurotten."
         },
         {
-          "term": "Buch des Jaschar",
-          "original": "Hebrew: סֵפֶר הַיָּשָׁר (sefer ha-yāšār)",
-          "note": "Verlorene, nicht-kanonische Sammlung von Heldenliedern (auch in Josua 10,13 zitiert)."
+          "term": "Ziklag",
+          "original": "Hebrew: צִקְלַג (Tsiqlag)",
+          "note": "Eine Stadt im trockenen Negev im Süden, die Achisch, der König von Gat, David übergab, als dieser als Vasall der Philister lebte, sechzehn Monate im Ganzen (1 Samuel 27:5-7). Amalekitische Räuber verbrannten sie und schleppten die Familien fort, während David unterwegs war (1 Samuel 30:1-2). Dort kam der Amalekiter mit Sauls Krone und Armspange herein und wurde hingerichtet, weil er sagte, er habe Saul den Rest gegeben (2 Samuel 1:1-16), und diesen Fall führt David in Vers 10 an."
+        },
+        {
+          "term": "Sein Blut von euren Händen fordern",
+          "original": "Hebrew: דָּם (dam)",
+          "note": "Vergossenes Blut galt als etwas, das das Land selbst verunreinigt, bis es beantwortet ist. Genesis 9:5-6 nennt die Forderung, und Numeri 35:31-33 verbietet, für einen Mörder irgendein Lösegeld anzunehmen, und sagt, für das Land könne keine Sühnung erwirkt werden außer durch das Blut dessen, der Blut vergossen hat. David nimmt keine persönliche Rache; er erfüllt eine Rechtspflicht an dem Mann, in dessen Haus die Tötung geschah."
+        },
+        {
+          "term": "Sie hieben ihnen Hände und Füße ab und hängten die Leichname auf",
+          "original": "Hebrew: תָּלָה (talah)",
+          "note": "Einen Leichnam zu verstümmeln und öffentlich zur Schau zu stellen, hier am Teich von Hebron, war eine Strafe, die auf jeden zielte, der vorbeiging. Die Philister hatten dasselbe mit Saul getan und seinen Leib an die Mauer von Beth-Schean geheftet (1 Samuel 31:10). Israels eigenes Gesetz begrenzt den Brauch: Ein Leichnam, der an einem Holz hängt, muss noch am selben Tag abgenommen und begraben werden, denn ein Gehängter steht unter Gottes Fluch, und das Land darf nicht verunreinigt werden (Deuteronomium 21:22-23)."
         }
       ],
-      "keyTakeaway": "Rekab und Baana ermorden Isch-Boseth in seinem Bett und bringen seinen Kopf zu David in Erwartung einer Belohnung; David lässt sie stattdessen hinrichten, da er ihre Tat als Mord an einem Unschuldigen und nicht als Dienst an ihm betrachtet.",
+      "keyTakeaway": "Rechab und Baana ermorden Ischboset in seinem Bett und bringen David seinen Kopf in der Erwartung einer Belohnung; David lässt sie stattdessen hinrichten, denn er sieht ihre Tat als Mord an einem Unschuldigen und nicht als Dienst an ihm.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -338,30 +373,40 @@
         "Und David machte es so, wie es der HERR ihm geboten hatte, und er schlug die Philister von Geba an bis man nach Geser kommt. (5:25)."
       ],
       "crossRefs": [
-        "1. Mose 49,10: Juda wird das Zepter verheißen.",
-        "5. Mose 12,5–11: Gottes erwählter Ort für seinen Namen.",
-        "1. Chronik 17,11–14: Parallele Bundesverheißung an David.",
-        "Psalm 89,3–4: Gott schwört, Davids Thron aufzurichten.",
-        "Lukas 1,32–33: Davids Thron und ein ewiges Königreich bestätigt."
+        "1 Chronik 11:1-9: Der parallele Bericht über die Salbung in Hebron und die Einnahme der Bergfeste Zion.",
+        "Josua 15:63: Juda konnte die Jebusiter nicht vertreiben, die weiter neben ihnen in Jerusalem wohnten.",
+        "Richter 1:21: Auch Benjamin vertrieb die Jebusiter nicht aus Jerusalem, und sie blieben dort.",
+        "1 Chronik 14:8-17: Der parallele Bericht über die beiden Philisterschlachten und das Rauschen der Schritte in den Wipfeln.",
+        "Genesis 49:10: Das Zepter wird nicht von Juda weichen noch der Herrscherstab von seinen Füßen."
       ],
       "translationNotes": [
         {
           "term": "Zion",
-          "original": "Hebrew: צִיּוֹן (Ṣiyyōn); Greek: Σιών (Siōn)",
-          "note": "Ursprünglich die jebusitische Festung; wird zum Namen Jerusalems als Wohnort Gottes."
+          "original": "Hebrew: צִיּוֹן (Tsiyyon) - Greek (LXX): Σιών (Sion)",
+          "note": "Vers 7 gebraucht den Namen für eine einzige Sache: die Bergfeste der Jebusiter auf dem südlichen Ausläufer des Bergrückens, die David nimmt und Stadt Davids nennt. Es ist ein kleiner Ort, etwa elf Morgen, auf einem steil abfallenden Felsfinger zwischen zwei Tälern. Von dort breitet sich der Name in der Schrift nach außen aus, zuerst auf den Tempelberg gleich nördlich davon, dann auf Jerusalem als Ganzes und dann bei den Propheten auf das Volk Gottes selbst. Jeder spätere Gebrauch von Zion geht von dieser eroberten Bergfeste aus."
         },
         {
-          "term": "Bundeslade",
-          "original": "Hebrew: אֲרוֹן הַבְּרִית (ʾarōn ha-berît)",
-          "note": "Heilige Truhe, die Gottes Gegenwart symbolisiert; unsachgemäße Handhabung führte zum Tod (Usa)."
+          "term": "Der Millo",
+          "original": "Hebrew: הַמִּלּוֹא (ha-Millo), the filling",
+          "note": "Vers 9 sagt, David habe die Stadt ringsum vom Millo an einwärts gebaut, und Übersetzungen geben das Wort mit Stützterrassen wieder, weil es das war. Der Name kommt vom Verb füllen und bezeichnet eine aufgeschüttete, gestufte Füllung aus Stein und Erde am steilen Osthang, die den Hang hielt, sodass Gebäude auf Boden stehen konnten, der sonst zu schroff war. Salomo bessert ihn aus und erweitert ihn (1 Könige 9:15, 11:27), und Hiskia verstärkt ihn erneut (2 Chronik 32:5)."
         },
         {
-          "term": "Haus/Dynastie",
-          "original": "Hebrew: בַּיִת (bayit)",
-          "note": "Doppelte Bedeutung: David plante ein Gebäude; Gott versprach eine königliche Linie."
+          "term": "Hiram von Tyrus und das Zedernholz",
+          "original": "Hebrew: אַרְזֵי אֲרָזִים (arze arazim), cedar logs",
+          "note": "Tyrus war ein phönizischer Hafen auf einer Insel vor der Küste nördlich des Karmel, reich durch den Seehandel und durch das Holz des Libanongebirges dahinter. In Vers 11 sendet sein König Zedernstämme und dazu Zimmerleute und Steinmetzen, weil Israel weder das eine noch das andere hatte. Zedernholz war das vornehmste Bauholz der alten Welt, geradfaserig, gewaltig, wohlriechend und fäulnisfest, und die Eichen und Terebinthen des judäischen Berglandes kamen nicht daran heran. Dieselbe Abmachung liefert eine Generation später den Tempel Salomos (1 Könige 5:1-12)."
+        },
+        {
+          "term": "Die Ebene Rephaim",
+          "original": "Hebrew: עֵמֶק רְפָאִים (Emeq Refaim) - בַּעַל פְּרָצִים (Baal Peratsim), master of breakings-through",
+          "note": "In den Versen 18 und 22 breiten sich die Philister zweimal in dieser Ebene aus. Es ist das breite, flache Becken, das südwestlich von Jerusalem nach Bethlehem hin läuft, gutes Getreideland (Jesaja 17:5) und der natürliche Zugang zur Stadt aus dem Philisterland, weshalb sie ihn gebrauchen und weshalb die neue Hauptstadt dort zuerst verteidigt werden musste. David nennt den Ort des ersten Sieges Baal-Perazim, Herr der Durchbrüche, nach der Wendung, die er in Vers 20 vom Wasser gebraucht, das einen Damm zerreißt."
+        },
+        {
+          "term": "Der Wasserschacht",
+          "original": "Hebrew: צִנּוֹר (tsinnor), pipe or channel",
+          "note": "In Vers 8 bietet David dem den Oberbefehl an, der durch den tsinnor in die Stadt hinaufkommt; diese Übersetzung nennt ihn die Wasserleitung. Jerusalems einziges Wasser war die Gihonquelle außerhalb der Mauer im Tal, und die Stadt war mit Stollen und Schächten durchzogen, damit die Leute gedeckt daran kamen. Charles Warren vermaß 1867 ein System von Schacht und Stollen, das von der Quelle im Inneren des Bergrückens hinaufführt. Eine Festung, die man nicht aushungern kann, lässt sich immer noch durch das Rohr betreten, das sie am Leben hält."
         }
       ],
-      "keyTakeaway": "Alle Stämme Israels salben David in Hebron zum König; er erobert Jerusalem von den Jebusitern, nimmt dort seinen Wohnsitz und besiegt die Philister in zwei Schlachten, nachdem er den Herrn befragt hat.",
+      "keyTakeaway": "Alle Stämme Israels salben David in Hebron zum König; er nimmt Jerusalem den Jebusitern ab, macht es zu seinem Wohnsitz und schlägt die Philister in zwei Schlachten, nachdem er den HERRN befragt hat.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -413,30 +458,40 @@
         "Michal aber, die Tochter Sauls, hatte kein Kind bis zum Tag ihres Todes. (6:23)."
       ],
       "crossRefs": [
-        "1. Mose 49,10: Juda wird das Zepter verheißen.",
-        "5. Mose 12,5–11: Gottes erwählter Ort für seinen Namen.",
-        "1. Chronik 17,11–14: Parallele Bundesverheißung an David.",
-        "Psalm 89,3–4: Gott schwört, Davids Thron aufzurichten.",
-        "Lukas 1,32–33: Davids Thron und ein ewiges Königreich bestätigt."
+        "1 Chronik 13:1-14: Der parallele Bericht über den ersten Versuch, die Lade zu bewegen, und den Tod Ussas.",
+        "1 Chronik 15:1-29: Davids zweiter Versuch, ausgeführt von Leviten, welche die Lade an Stangen trugen, wie das Gesetz es verlangte.",
+        "Numeri 4:15: Die Kahatiter tragen die heiligen Dinge, nachdem Aaron sie zugedeckt hat, und dürfen sie nicht anrühren, sonst sterben sie.",
+        "Exodus 25:12-15: Die Stangen werden in die Ringe der Lade gesteckt und dürfen nie herausgezogen werden.",
+        "1 Samuel 6:19: Die Männer von Beth-Schemesch werden erschlagen, weil sie in die Lade des HERRN geschaut haben."
       ],
       "translationNotes": [
         {
-          "term": "Zion",
-          "original": "Hebrew: צִיּוֹן (Ṣiyyōn); Greek: Σιών (Siōn)",
-          "note": "Ursprünglich die jebusitische Festung; wird zum Namen Jerusalems als Wohnort Gottes."
-        },
-        {
           "term": "Bundeslade",
-          "original": "Hebrew: אֲרוֹן הַבְּרִית (ʾarōn ha-berît)",
-          "note": "Heilige Truhe, die Gottes Gegenwart symbolisiert; unsachgemäße Handhabung führte zum Tod (Usa)."
+          "original": "Hebrew: אֲרוֹן הַבְּרִית (aron ha-berit)",
+          "note": "Ein Kasten aus Akazienholz, innen und außen mit Gold überzogen, etwa drei dreiviertel Fuß lang und zwei ein viertel Fuß breit und hoch, der die beiden Steintafeln barg, mit einem Deckel aus massivem Gold und zwei Cherubim aus getriebenem Gold, die einander darüber zugewandt waren (Exodus 25:10-22). Vier goldene Ringe hielten zwei Tragstangen, die nie herausgezogen werden sollten, und Numeri 4:15 und 7:9 machen deutlich, dass die Söhne Kahats sie auf den Schultern trugen und das Heilige selbst bei Todesstrafe nicht anrühren durften. Alles, was in diesem Kapitel schiefgeht, folgt daraus, dass diese Anweisung übergangen wird."
         },
         {
-          "term": "Haus/Dynastie",
-          "original": "Hebrew: בַּיִת (bayit)",
-          "note": "Doppelte Bedeutung: David plante ein Gebäude; Gott versprach eine königliche Linie."
+          "term": "Ein neuer Wagen",
+          "original": "Hebrew: עֲגָלָה חֲדָשָׁה (agalah hadashah)",
+          "note": "Die Lade war mit Ringen und zwei Stangen gebaut, die nie herausgenommen werden sollten, damit Leviten sie auf den Schultern trugen und niemandes Hand sie berührte (Exodus 25:12-15, Numeri 7:9). Auf einem Wagen hatten die Philister sie zurückgeschickt (1 Samuel 6:7). Als die Rinder ausglitten, streckte Ussa die Hand aus, und 1 Chronik 15:13 gibt Davids eigenes Urteil danach: Sie hatten Gott nicht nach der rechten Weise gesucht."
+        },
+        {
+          "term": "Sechs Schritte und ein Opfer",
+          "original": "",
+          "note": "Beim zweiten Versuch wird in Vers 13 ein Rind und ein gemästetes Tier geopfert, sobald die Träger sechs Schritte gegangen waren. Das war kein Opfer alle sechs Schritte über die ganzen neun Meilen; es kennzeichnet den Beginn des Zuges, und die Gabe wurde dargebracht, sobald klar war, dass die Träger nicht erschlagen wurden. Der Weg vom Haus Obed-Edoms nach Jerusalem wurde für den Rest mit Gesang, Trompeten und Tanz zurückgelegt."
+        },
+        {
+          "term": "Ein Brotkuchen, ein Dattelkuchen und ein Rosinenkuchen",
+          "original": "Hebrew: אֶשְׁפָּר (eshpar) - אֲשִׁישָׁה (ashishah), a pressed cake",
+          "note": "In Vers 19 teilt David jedem Mann und jeder Frau in der Menge einen Anteil aus, bevor er sie heimschickt. Das ist die gemeinsame Mahlzeit eines Friedensopfers: ein Teil verbrannt, ein Teil dem Priester gegeben und der Rest an Ort und Stelle von den Opfernden gegessen (Levitikus 7:15-16). Gepresste Kuchen aus Datteln und Rosinen waren die übliche Festverpflegung, weil sie sich hielten und sich tragen ließen, und darum tauchen sie in Abigails Vorratszug auf (1 Samuel 25:18) und noch einmal in 1 Chronik 12:40. Dass ein König die ganze Versammlung auf eigene Kosten speist, ist die öffentliche Hälfte des Ereignisses."
+        },
+        {
+          "term": "Tenne",
+          "original": "Hebrew: גֹּרֶן (goren)",
+          "note": "Eine flache, harte Fläche im Freien, meist ein geebneter Fels oder ein festgestampfter Kreis am Rand der Stadt, auf dem das geerntete Korn von der Spreu getrennt wurde. Rinder zogen einen hölzernen Dreschschlitten über die Halme; Körner und Spreu wurden dann im Wind geworfelt. Tennen dienten zugleich als öffentliche Plätze (Rut 3; 2 Samuel 24:18; der Tempelplatz Salomos)."
         }
       ],
-      "keyTakeaway": "David versucht, die Lade Gottes mit dreißigtausend Mann nach Jerusalem zu bringen, doch Usza wird erschlagen, als er sie berührt; später bringt David die Lade erfolgreich in die Stadt, begleitet von Jubel und Opfern, und tadelt seine Frau Michal dafür, dass sie seinen Tanz vor dem HERRN verspottet hatte.",
+      "keyTakeaway": "David versucht, die Lade Gottes mit dreißigtausend Mann nach Jerusalem zu bringen, doch Ussa wird erschlagen, als er sie anrührt; später bringt David die Lade unter Jubel und Opfern glücklich in die Stadt und weist dann seine Frau Michal zurecht, weil sie über sein Tanzen vor dem HERRN spottet.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -482,30 +537,35 @@
         "So lasse es dir nun wohlgefällig sein, das Haus deines Knechtes zu segnen, dass es ewiglich vor dir sei; denn du selbst, HERR, [mein] Herr, hast es gesagt. So möchte denn das Haus deines Knechtes mit deinem Segen gesegnet werden ewiglich! (7:29)."
       ],
       "crossRefs": [
-        "1. Mose 49,10: Juda wird das Zepter verheißen.",
-        "5. Mose 12,5–11: Gottes erwählter Ort für seinen Namen.",
-        "1. Chronik 17,11–14: Parallele Bundesverheißung an David.",
-        "Psalm 89,3–4: Gott schwört, Davids Thron aufzurichten.",
-        "Lukas 1,32–33: Davids Thron und ein ewiges Königreich bestätigt."
+        "1 Chronik 17:1-27: Der parallele Bericht über dieselbe Nacht, dasselbe Wort durch Nathan und dasselbe Gebet.",
+        "Psalmen 89:19-37: Der David geschworene Bund, dass seine Nachkommen ewig bestehen und sein Thron wie die Tage des Himmels.",
+        "Psalmen 132:11-12: Der HERR hat David einen festen Eid geschworen: Einen von deinen leiblichen Söhnen will ich auf deinen Thron setzen.",
+        "Lukas 1:32-33: Ihm wird der Thron seines Vaters David gegeben, und seines Königtums wird kein Ende sein.",
+        "Apostelgeschichte 2:29-31: David, ein Prophet, wusste, dass Gott geschworen hatte, einen seiner Nachkommen auf seinen Thron zu setzen."
       ],
       "translationNotes": [
         {
-          "term": "Zion",
-          "original": "Hebrew: צִיּוֹן (Ṣiyyōn); Greek: Σιών (Siōn)",
-          "note": "Ursprünglich die jebusitische Festung; wird zum Namen Jerusalems als Wohnort Gottes."
+          "term": "Haus und Königshaus",
+          "original": "Hebrew: בַּיִת (bayit), house",
+          "note": "Das Kapitel dreht sich um ein Wort in drei Bedeutungen. In Vers 2 wohnt David in einem Haus aus Zedern, einem Gebäude. In Vers 5 nimmt er sich vor, Gott ein Haus zu bauen, einen Tempel. In den Versen 11 und 16 antwortet Gott, er werde David ein Haus bauen, und meint eine Linie, die auf dem Thron fortbesteht. Das Hebräische gebraucht für alle drei bayit, der Wortwechsel ist also ein Spiel, das eine Übersetzung nicht in einem einzigen Wort mitträgt, und die dritte Bedeutung ist die, welche die übrige Schrift aufnimmt."
         },
         {
-          "term": "Bundeslade",
-          "original": "Hebrew: אֲרוֹן הַבְּרִית (ʾarōn ha-berît)",
-          "note": "Heilige Truhe, die Gottes Gegenwart symbolisiert; unsachgemäße Handhabung führte zum Tod (Usa)."
+          "term": "Nathan der Prophet",
+          "original": "Hebrew: נָתָן הַנָּבִיא (Natan ha-navi)",
+          "note": "Nathan hat eine feste Stellung am Hof, und das Kapitel zeigt genau, was das hieß. In Vers 3 gibt er David seine eigene Meinung, geh hin und tu es, und noch in derselben Nacht wird er mit einem Wort zurückgeschickt, das ihn aufhebt und das er ungekürzt ausrichtet. Er tritt in diesem Buch und im nächsten noch zweimal an den schärfsten Punkten auf: um David wegen Urija zur Rede zu stellen (12:1-14) und um Salomos Nachfolge gegen Adonija zu sichern (1 Könige 1:11-27). Gad, Davids Seher genannt, hat einen Posten derselben Art (24:11)."
         },
         {
-          "term": "Haus/Dynastie",
-          "original": "Hebrew: בַּיִת (bayit)",
-          "note": "Doppelte Bedeutung: David plante ein Gebäude; Gott versprach eine königliche Linie."
+          "term": "Ein Zelt, kein Haus",
+          "original": "Hebrew: יְרִיעָה (yeriah), a curtain or tent-cloth",
+          "note": "Die Verse 2 und 6 stellen einen Zedernpalast einem Zelt aus Teppichen gegenüber. Die Stiftshütte war ein tragbares Gerüst, mit gewebten Bahnen behangen und mit Fellen bedeckt, zum Abbrechen und Tragen gebaut (Exodus 26), und sie hatte die Lade seit dem Auszug beherbergt; von Josua 18:1 an stand sie in Silo, und an diesem Punkt steht die Lade in einem Zelt, das David in Jerusalem aufgeschlagen hat (6:17). In Vers 6 hält Gott ihm vor, dass er nie etwas anderes verlangt hat."
+        },
+        {
+          "term": "Auf ewig fest gegründet",
+          "original": "Hebrew: עַד־עוֹלָם (ad olam), to the age",
+          "note": "Die Zusage in den Versen 13 und 16 ist auf eine Weise unbedingt, wie es der Bund am Sinai nicht war: Thron, Königtum und Haus sind ad olam gegründet, ohne gesetzte Frist. Vers 14 fügt hinzu, dass der Sohn bei Verfehlung mit der Rute der Menschen gezüchtigt wird, und Vers 15, dass Gottes Gnade nicht von ihm genommen wird, wie sie von Saul genommen wurde. Die Psalmen kommen unmittelbar auf diese Zusage zurück (Psalm 89:3-4, 132:11), und beide Geschlechtsregister der Evangelien beginnen damit, dass sie Jesus den Sohn Davids nennen (Matthäus 1:1, Lukas 1:32-33)."
         }
       ],
-      "keyTakeaway": "David schlägt vor, ein Haus für die Lade Gottes zu bauen, doch Natan übermittelt eine Botschaft des HERRN, dass Davids Sohn es stattdessen bauen wird und Gott Davids Dynastie für immer errichten wird. David antwortet, indem er vor dem HERRN sitzt und ein Gebet des Dankes und der Bitte spricht, dass Gott diese Verheißung bezüglich seines Hauses erfüllen möge.",
+      "keyTakeaway": "David nimmt sich vor, der Lade Gottes ein Haus zu bauen, doch Nathan richtet ein Wort des HERRN aus, dass Davids Sohn es stattdessen bauen wird und dass Gott Davids Königshaus auf ewig fest gründen wird. Darauf setzt sich David vor den HERRN und betet ein Gebet des Dankes und der Bitte, Gott möge diese Zusage an seinem Haus erfüllen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -544,29 +604,40 @@
         "Benaja, der Sohn Jojadas, war über die Kreter und Pleter gesetzt; die Söhne Davids aber waren Minister. (8:18)."
       ],
       "crossRefs": [
-        "1. Samuel 20,14–17: Jonathans Bitte um Bundestreue.",
-        "2. Samuel 4,4: Mephiboscheths Kindheitsverletzung erwähnt.",
-        "3. Mose 19,32: Ehre und Würde; die Beschämung durch Ammon steht im Gegensatz zu Israels Ehrenkodex.",
-        "Jesaja 9,7: Herrschaft geprägt von Recht und Gerechtigkeit."
+        "1 Chronik 18:1-17: Der parallele Bericht über dieselben Feldzüge, denselben Tribut und dieselbe Liste der Beamten.",
+        "Deuteronomium 17:16: Der König soll sich nicht viele Pferde halten und das Volk nicht nach Ägypten zurückführen, um sie zu holen.",
+        "Josua 11:6,9: Josua lähmt die Pferde der Könige des Nordens und verbrennt ihre Streitwagen mit Feuer.",
+        "Numeri 24:17-18: Ein Stern tritt hervor aus Jakob, und Edom wird ein Besitz werden.",
+        "1 Könige 7:45-47: Salomos eherne Geräte, aus Erz in solcher Menge gemacht, dass sein Gewicht nie bestimmt wurde."
       ],
       "translationNotes": [
         {
-          "term": "Güte",
-          "original": "Hebrew: חֶסֶד (ḥesed); Greek: ἔλεος (eleos)",
-          "note": "Bundestreue/beständige Liebe; mehr als bloßes Gefühl."
+          "term": "Mit der Messschnur gemessen",
+          "original": "Hebrew: חֶבֶל (chevel), a measuring cord",
+          "note": "Vers 2 hält das Schicksal der moabitischen Gefangenen ohne ein Wort der Bemerkung fest. Man ließ sie in einer Reihe auf dem Boden liegen und maß sie mit einer Schnur ab: zwei Schnurlängen Männer zum Tod, eine Schnurlänge am Leben gelassen. Es ist eine Auswahl nach Verhältnis, ungefähr zwei von drei getötet, vollzogen an Männern, die bereits gefangen waren. Der Text sagt es und geht unmittelbar zu dem Tribut über, den sie danach zahlten."
         },
         {
-          "term": "Lahm",
-          "original": "Hebrew: פִּסֵּחַ (pissēaḥ)",
-          "note": "An beiden Füßen gelähmt; dieser Zustand schloss ihn nicht von der Tafel des Königs aus."
+          "term": "Der Kanzler und die Hofliste",
+          "original": "Hebrew: מַזְכִּיר (mazkir), the one who reminds",
+          "note": "Die Verse 15 bis 18 sind die erste Liste einer arbeitenden israelitischen Regierung, und zwei der Titel brauchen eine Erklärung. Der mazkir, den diese Übersetzung Kanzleischreiber nennt, kommt vom Verb sich erinnern: Er führte die königlichen Jahrbücher und bestimmte, was vor den König kam, näher an einem Kabinettschef als an einem Schreiber. Neben ihm stehen der Heerführer, zwei Priester, der Schreiber und der Anführer der Leibwache. Dieselbe Liste erscheint nach den Aufständen erneut, mit einem zusätzlichen Posten, einem Beamten über die Fronarbeit (20:23-26)."
         },
         {
-          "term": "Demütigung der Gesandten",
-          "original": "ANE shame gesture",
-          "note": "Das Halbrasieren des Bartes und das Entblößen des Gesäßes waren öffentliche Schmach in der altorientalischen Kultur."
+          "term": "Die Kerethiter und Pelethiter",
+          "original": "Hebrew: כְּרֵתִי וּפְלֵתִי (Kereti u-Feleti)",
+          "note": "Vers 18 setzt Benaja über Davids Leibwache, und es sind Fremde; diese Übersetzung nennt sie die Kreter und Pleter. Die Kerethiter werden überall sonst mit der Philisterküste verbunden (1 Samuel 30:14, Ezechiel 25:16, Zephanja 2:5), das ist also ein Korps von Berufssoldaten von außerhalb Israels, vom König bezahlt und ihm ergeben und keinem Stamm. Genau darum lohnt es sich, sie zu haben: Als Absalom das Land nimmt, ziehen die Kreter und Pleter mit David aus Jerusalem hinaus (15:18), und sie sind bei Salomos Krönung noch bei ihm (1 Könige 1:38)."
+        },
+        {
+          "term": "Schriftgelehrter (sopher)",
+          "original": "Hebrew: סוֹפֵר (sopher); Greek: γραμματεύς (grammateus)",
+          "note": "Ursprünglich Berufsabschreiber der Schrift. Zur Zeit des Neuen Testaments Kenner und Lehrer des Gesetzes; oft, wenn auch nicht ausschließlich, den Pharisäern zugehörig. Sie bildeten die gebildete religiöse Schicht, die alltägliche halachische Fragen entschied."
+        },
+        {
+          "term": "Wagenpferde lähmen",
+          "original": "Hebrew: עָקַר (aqar), to hamstring",
+          "note": "In Vers 4 behält David hundert Wagengespanne und lähmt die übrigen, indem er die Sehne an der Rückseite des Sprunggelenks durchtrennt, sodass das Tier nie wieder ziehen konnte. Streitwagen waren die teuerste Waffe der Zeit und brauchten flachen Boden, eingefahrene Gespanne, Stellmacher und Straßen, und nichts davon hatte Israels Bergland. Die Pferde zu lähmen nahm dem Feind die Technik, ohne dass Israel sie selbst aufnahm."
         }
       ],
-      "keyTakeaway": "David besiegt die Philister, Moabiter, Hadadeser von Zoba, die Aramäer und die Edomiter in einer Reihe von Feldzügen; er weiht die Beute dem Herrn und errichtet Besatzungen in den eroberten Gebieten. Seine Beamten und Heerführer werden aufgelistet, und der Herr schenkt ihm Sieg, wohin er auch zieht.",
+      "keyTakeaway": "David schlägt die Philister, die Moabiter, Hadadeser von Zoba, die Aramäer und die Edomiter in einer Reihe von Feldzügen; er weiht die Beute dem HERRN und legt Besatzungen in die eroberten Gebiete. Seine Beamten und Heerführer werden aufgeführt, und der HERR gibt ihm Sieg, wohin er auch zieht.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -600,29 +671,35 @@
         "Mephiboseth aber wohnte in Jerusalem, denn er aß täglich am Tisch des Königs. Er war aber lahm an beiden Füßen. (9:13)."
       ],
       "crossRefs": [
-        "1. Samuel 20,14–17: Jonathans Bitte um Bundestreue.",
-        "2. Samuel 4,4: Mephiboscheths Kindheitsverletzung erwähnt.",
-        "3. Mose 19,32: Ehre und Würde; die Beschämung durch Ammon steht im Gegensatz zu Israels Ehrenkodex.",
-        "Jesaja 9,7: Herrschaft geprägt von Recht und Gerechtigkeit."
+        "1 Samuel 20:14-17: Jonathan lässt David schwören, seine Bundesgüte nie von seinem Haus abzuschneiden.",
+        "1 Samuel 20:42: Der HERR sei zwischen mir und dir und zwischen meinen Nachkommen und deinen, auf ewig.",
+        "2 Samuel 4:4: Jonathans Sohn wird mit fünf Jahren von seiner Amme fallen gelassen, an dem Tag, als die Nachricht aus Jesreel kam, und bleibt lahm.",
+        "2 Samuel 16:1-4: Ziba tritt David mit Vorräten entgegen und beschuldigt Mephiboseth, in Jerusalem geblieben zu sein, um den Thron zu beanspruchen.",
+        "2 Samuel 21:7: David verschont Mephiboseth vor den Gibeonitern wegen des Eides, der zwischen ihm und Jonathan geschworen war."
       ],
       "translationNotes": [
         {
           "term": "Güte",
-          "original": "Hebrew: חֶסֶד (ḥesed); Greek: ἔλεος (eleos)",
-          "note": "Bundestreue/beständige Liebe; mehr als bloßes Gefühl."
+          "original": "Hebrew: חֶסֶד (chesed) - Greek (LXX): ἔλεος (eleos)",
+          "note": "Chesed ist Treue, die aus einer bestehenden Verpflichtung geschuldet wird und gehalten wird, nachdem man die Verpflichtung gefahrlos hätte fallen lassen können. Vers 1 fragt, ob noch jemand vom Haus Sauls übrig ist, damit David um Jonathans willen chesed erweisen kann, und Vers 3 nennt es den chesed Gottes. Das ist keine spontane Freundlichkeit; es ist eine eingehaltene Vertragsbestimmung. Jonathan hatte David sie schwören lassen, für sich und für seine Nachkommen, in 1 Samuel 20:14-15, zu einer Zeit, als die Aussichten anders standen."
         },
         {
           "term": "Lahm",
-          "original": "Hebrew: פִּסֵּחַ (pissēaḥ)",
-          "note": "An beiden Füßen gelähmt; dieser Zustand schloss ihn nicht von der Tafel des Königs aus."
+          "original": "Hebrew: פִּסֵּחַ (pisseach), lame",
+          "note": "In 4:4 wird die Verletzung erklärt: Mephiboseth war fünf Jahre alt, als die Nachricht aus Jesreel kam, seine Amme hob ihn auf und lief, und er fiel und wurde an beiden Füßen lahm. In einer Welt ohne Rollstühle konnte ein Mann, der an beiden Füßen lahm war, nicht ackern, nicht kämpfen und nicht reisen, er war also ganz auf einen Haushalt angewiesen, der ihn erhielt. Vers 13 hält fest, dass er in Jerusalem wohnte und an der Tafel des Königs aß, und wiederholt, dass er an beiden Füßen lahm war, und darum war diese Regelung seine ganze Sicherheit."
         },
         {
-          "term": "Demütigung der Gesandten",
-          "original": "ANE shame gesture",
-          "note": "Das Halbrasieren des Bartes und das Entblößen des Gesäßes waren öffentliche Schmach in der altorientalischen Kultur."
+          "term": "Lodebar",
+          "original": "Hebrew: לֹא דְבָר (Lo Devar)",
+          "note": "Vers 4 findet den letzten Erben des Hauses Sauls in Lodebar in Gilead, östlich des Jordan, im Haus Machirs, des Sohnes Ammiels. Jenseits des Flusses war der sicherste Ort für ihn: außerhalb der Reichweite des neuen Königs, in der Gegend, die Ischboset gestützt hatte. Machir taucht noch einmal auf und sendet David in Mahanajim Speise und Lager, als Absalom ihn vertreibt (17:27-29), der Mann also, der Sauls Enkel schützt, versorgt später Davids Heer."
+        },
+        {
+          "term": "An der Tafel des Königs essen",
+          "original": "",
+          "note": "Die Verse 7, 10, 11 und 13 wiederholen, dass Mephiboseth an der Tafel des Königs isst. Ein Platz an der Tafel war eine förmliche Zuwendung lebenslangen Unterhalts auf königliche Kosten, ebenso festgehalten für den freigelassenen Jojachin in Babel (2 Könige 25:29). Zugleich hielt sie den letzten Erben der vorigen Dynastie dort, wo der König ihn jeden Tag sehen konnte."
         }
       ],
-      "keyTakeaway": "David sucht nach Überlebenden aus dem Haus Sauls, um Jonatan zuliebe Güte zu erweisen, und holt Mephiboseth, Jonatans lahmen Sohn, aus seinem Versteck, um ihm das Land seiner Familie zurückzugeben und ihm einen dauerhaften Platz an der königlichen Tafel zu gewähren.",
+      "keyTakeaway": "David sucht nach jedem, der vom Haus Sauls übrig ist, um ihm um Jonathans willen Güte zu erweisen, und holt Mephiboseth, Jonathans lahmen Sohn, aus dem Verborgenen, gibt ihm das Land seiner Familie zurück und gewährt ihm einen festen Platz an der königlichen Tafel.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -658,29 +735,35 @@
         "Als aber alle Könige, die Hadad-Eser untertan waren, sahen, dass sie von Israel geschlagen waren, machten sie Frieden mit Israel und wurden ihnen dienstbar. Und die Aramäer fürchteten sich, den Ammonitern weiterhin zu helfen. (10:19)."
       ],
       "crossRefs": [
-        "1. Samuel 20,14–17: Jonathans Bitte um Bundestreue.",
-        "2. Samuel 4,4: Mephiboscheths Kindheitsverletzung erwähnt.",
-        "3. Mose 19,32: Ehre und Würde; die Beschämung durch Ammon steht im Gegensatz zu Israels Ehrenkodex.",
-        "Jesaja 9,7: Herrschaft geprägt von Recht und Gerechtigkeit."
+        "1 Chronik 19:1-19: Der parallele Bericht über dieselbe Schmach, dieselbe Schlacht und dieselbe Unterwerfung der Aramäer.",
+        "1 Samuel 11:1-11: Nahasch der Ammoniter belagert Jabesch-Gilead und fordert das rechte Auge jedes Mannes darin.",
+        "Genesis 19:36-38: Die jüngere Tochter Lots gebiert Ben-Ammi, den Vater der Ammoniter.",
+        "Levitikus 19:27: Israel ist verboten, das Haar an den Schläfen rundum zu scheren oder den Rand des Bartes zu verstümmeln.",
+        "Jesaja 20:4: Gefangene werden nackt und barfuß weggeführt, mit entblößtem Gesäß, zur Schande Ägyptens."
       ],
       "translationNotes": [
         {
-          "term": "Güte",
-          "original": "Hebrew: חֶסֶד (ḥesed); Greek: ἔλεος (eleos)",
-          "note": "Bundestreue/beständige Liebe; mehr als bloßes Gefühl."
+          "term": "Die Demütigung der Boten",
+          "original": "Hebrew: זָקָן (zaqan), beard",
+          "note": "Zwei Verstümmelungen in Vers 4, und beide sollten gesehen werden. Ein voller Bart war die Würde eines erwachsenen Mannes, und Levitikus 19:27 verbietet, seinen Rand zu verstümmeln; jedem Mann den halben Bart abzuscheren hinterließ eine Entstellung, die sich nicht verbergen ließ und Monate zum Nachwachsen brauchte. Ihnen die Gewänder an den Hüften abzuschneiden entblößte sie, und das ist dieselbe Beschämung, die Assyrien in Jesaja 20:4 an Gefangenen vollzieht. Es sind Gesandte, die Schmach zielt also auf den König, der sie sandte, und in Vers 5 lässt David sie in Jericho bleiben, bis ihre Bärte nachgewachsen sind."
         },
         {
-          "term": "Lahm",
-          "original": "Hebrew: פִּסֵּחַ (pissēaḥ)",
-          "note": "An beiden Füßen gelähmt; dieser Zustand schloss ihn nicht von der Tafel des Königs aus."
+          "term": "Die aramäischen Königreiche",
+          "original": "Hebrew: אֲרַם צוֹבָא (Aram Tsova)",
+          "note": "Die Verse 6 und 8 nennen vier aramäische Staaten, die für den Krieg gedungen werden: Beth-Rechob und Zoba in der Bekaebene des heutigen Libanon, Maacha am Fuß des Hermon und Tob östlich von Gilead, wohin Jephta gegangen war, als seine Brüder ihn vertrieben (Richter 11:3). Aram ist das Land und das Volk, das man auf Deutsch Syrien nennt, im Norden und Nordosten Israels, und Zoba war das stärkste dieser Königreiche, bevor Damaskus aufstieg. Sie sind für die nächsten drei Jahrhunderte Israels nördliche Nachbarn."
         },
         {
-          "term": "Demütigung der Gesandten",
-          "original": "ANE shame gesture",
-          "note": "Das Halbrasieren des Bartes und das Entblößen des Gesäßes waren öffentliche Schmach in der altorientalischen Kultur."
+          "term": "Mit Silber gedungen",
+          "original": "Hebrew: שָׂכַר (sakhar), to hire",
+          "note": "In Vers 6 dingt Ammon dreiunddreißigtausend fremde Krieger, statt eigene ins Feld zu stellen, und 1 Chronik 19:6 nennt den Preis: tausend Talente Silber, rund siebenunddreißig Tonnen, für Streitwagen und Reiter. Ein Heer zu kaufen war für einen kleinen Staat mit Geld und zu wenigen Männern übliche Praxis, und das macht daraus einen Krieg der ganzen Gegend statt eines Grenzstreits. Das Ganze beginnt mit einer Schmach an einer Abordnung, die kondolieren sollte."
+        },
+        {
+          "term": "Zwei Fronten, Rücken an Rücken",
+          "original": "Hebrew: מַעֲרָכָה (maarakhah), battle line",
+          "note": "Die Verse 9 bis 11 beschreiben, wie Joab zwischen zwei Streitmächten steht, den Ammonitern vor sich am Stadttor aufgestellt und den gedungenen Aramäern hinter sich im offenen Land. Er teilt sein Heer, nimmt die auserlesenen Männer selbst gegen die Aramäer, gibt den Rest Abischai gegen die Ammoniter, und sie verabreden, dass der, dem sein Feind zu stark wird, vom anderen Hilfe bekommt. Das ist ein ausgesprochener Plan für den Kampf nach zwei Seiten zugleich, und Vers 12 ist der Befehl, der dazugehört."
         }
       ],
-      "keyTakeaway": "David schickt Boten, um den neuen Ammoniterkönig zu trösten, doch Hanun demütigt sie; die Ammoniter werben aramäische Verbündete an und werden von Joab geschlagen, dann wird ein größeres aramäisches Heer unter Hadadeser von David vernichtend besiegt, woraufhin die Aramäer nicht länger bereit sind, Ammon zu unterstützen.",
+      "keyTakeaway": "David sendet Boten, um den neuen König der Ammoniter zu trösten, doch Hanun demütigt sie; die Ammoniter dingen aramäische Verbündete und werden von Joab geschlagen, dann wird ein größeres aramäisches Heer, das sich unter Hadadeser sammelt, von David in die Flucht geschlagen, sodass die Aramäer Ammon nicht länger beistehen wollen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -732,29 +815,45 @@
         "Als aber die Trauer vorüber war, sandte David hin und ließ sie in sein Haus holen; und sie wurde seine Frau und gebar ihm einen Sohn. — Aber die Sache, die David verübt hatte, war böse in den Augen des HERRN. (11:27)."
       ],
       "crossRefs": [
-        "2. Mose 20,13–14: Gebote gegen Mord und Ehebruch.",
-        "Psalm 51,1–19: Davids Bekenntnis im Zusammenhang mit Nathans Tadel.",
-        "Matthäus 1,6: Salomo in Davids Linie aufgeführt.",
-        "Jesus Sirach 47,1–11: Davids Lob schließt seine Umkehr nach der Sünde ein."
+        "Exodus 20:13-14,17: Du sollst nicht töten, du sollst nicht ehebrechen, du sollst nicht begehren deines Nächsten Frau.",
+        "Levitikus 20:10: Wenn ein Mann mit der Frau seines Nächsten die Ehe bricht, sollen beide sterben, der Ehebrecher und die Ehebrecherin.",
+        "Deuteronomium 17:17: Der König soll sich nicht viele Frauen nehmen, damit sein Herz nicht abweiche.",
+        "Levitikus 15:19-24: Eine Frau ist bei ihrer Regel sieben Tage unrein und wäscht sich danach, die Reinigung, die Vers 4 erwähnt.",
+        "2 Samuel 23:39: Urija der Hetiter wird namentlich als der letzte von Davids dreißig Helden aufgeführt."
       ],
       "translationNotes": [
         {
-          "term": "Sünde",
-          "original": "Hebrew: חָטָא (ḥāṭāʾ); Greek: ἁμαρτία (hamartia)",
-          "note": "Das Ziel von Gottes Gebot verfehlen; David bekennt dies in Psalm 51."
+          "term": "Sie reinigte sich von ihrer Unreinheit",
+          "original": "Hebrew: נִדָּה (niddah), menstrual separation",
+          "note": "Der Einschub in Vers 4 sieht wie eine beiläufige Einzelheit aus und leistet doch harte Arbeit. Levitikus 15:19-30 setzt für die monatliche Regel einer Frau sieben Tage kultischer Absonderung fest, die mit einer Waschung enden, der Hinweis sagt dem Leser also, dass ihre Regel gerade vorüber war. Damit steht zweierlei auf einmal fest: Sie war nicht bereits schwanger, und das in Vers 5 gemeldete Kind kann nur von David sein. Die ganze Handlung des Kapitels ruht auf diesem einen Nebensatz."
         },
         {
-          "term": "Buße/Umkehr",
-          "original": "Hebrew: שׁוּב (shuv); 'turn back'; Greek: μετανοέω (metanoeō)",
-          "note": "Abkehr vom Unrecht und Hinwendung zu Gott; nicht bloße Reue."
+          "term": "Wasche deine Füße",
+          "original": "Hebrew: רְחַץ רַגְלֶיךָ (rechats raglekha)",
+          "note": "Der Befehl in Vers 8 ist eine Redewendung und kein Hinweis zur Reinlichkeit. Die Füße zu waschen war das Erste bei der Ankunft daheim oder im Haus eines Gastgebers nach einem Tag auf staubigen Wegen (Genesis 18:4, 19:2, Lukas 7:44), geh hinab in dein Haus und wasche deine Füße heißt also: Richte dich für die Nacht ein und nimm dein gewöhnliches Leben mit deiner Frau wieder auf. Urija versteht es genau, und darum weist seine Antwort in Vers 11 eben das zurück, und darum schläft er stattdessen an der Tür des Palastes."
         },
         {
-          "term": "Gottesfurcht",
-          "original": "Hebrew: יִרְאַת אֱלֹהִים (yir’at ʾElohim); 'awe/reverence'",
-          "note": "Ehrfürchtige Scheu, die vor dem Bösen zurückhält; Urias Weigerung, Komfort zu genießen, während die Lade und das Heer im Feld sind, zeigt diese Haltung."
+          "term": "Der Brief, den er selbst trug",
+          "original": "Hebrew: סֵפֶר (sepher), a written document",
+          "note": "Die Verse 14 und 15 hängen an den handfesten Umständen des Schreibens. Ein Brief wurde auf ein Blatt geschrieben, gefaltet, verschnürt und mit Ton versiegelt, in den der Absender sein eigenes Siegel drückte, sodass jede Öffnung sichtbar wurde. Lesen und Schreiben waren das Handwerk einer kleinen Schicht von Schreibern, und vom Überbringer wurde weder erwartet noch war er imstande, ihn zu öffnen. David gibt Urija den Befehl für seinen eigenen Tod in die Hand und schickt ihn damit zur Belagerung zurück, und Joab liest ihn als Anweisung des Oberbefehlshabers."
+        },
+        {
+          "term": "Die Zeit, da die Könige ausziehen",
+          "original": "",
+          "note": "Vers 1 datiert dies auf die Wende des Jahres, die Zeit der Feldzüge. Heere zogen, sobald die Winterregen aufhörten und die Wege trocken waren, ungefähr vom März an, und sobald Gerste und Weizen eingebracht waren, sodass die Truppen vom Land leben konnten. Mit den Herbstregen hörten die Kämpfe wieder auf. Der Vers sagt zweimal, was David nicht tat, während die Zeit lief."
+        },
+        {
+          "term": "Das Dach",
+          "original": "Hebrew: גָּג (gag)",
+          "note": "Israelitische Dächer waren flach, über eine Außentreppe zu erreichen und wurden zum Schlafen in der Hitze, zum Trocknen von Korn und Feigen und zum Arbeiten gebraucht. Deuteronomium 22:8 verlangt an einem neuen Haus eine Brüstung, weil die Leute dort oben lebten. Der Palast stand hoch auf dem Bergrücken über den Häusern der alten Stadt, ein Mann, der auf seinem Dach ging, sah also in die Höfe darunter hinab."
+        },
+        {
+          "term": "Urija der Hetiter",
+          "original": "Hebrew: חִתִּי (Hitti)",
+          "note": "Die Hetiter führten ein Reich von Anatolien aus, in der heutigen Türkei, und ihre Leute kommen durch die ganze Schrift hindurch vor, von Abrahams Geschäften in Hebron an. Lange war die Bibel die Hauptquelle über sie, bis 1906 die hetitische Hauptstadt Hattuscha in Bogazköy ausgegraben und Tausende Keilschrifttafeln in hetitischer Sprache daraus geborgen wurden. Urija trägt einen hebräischen Namen, der bedeutet: Der HERR ist mein Licht, und er wird unter Davids dreißig gezählt (2 Samuel 23:39)."
         }
       ],
-      "keyTakeaway": "David sieht Batseba beim Baden, schläft mit ihr, und als sie schwanger wird, versucht er es zu verbergen, indem er ihren Mann Uria aus dem Krieg zurückruft; als Uria sich weigert, nach Hause zu gehen, lässt David ihn im Kampf töten und nimmt Batseba dann zur Frau.",
+      "keyTakeaway": "David sieht Bathseba baden, schläft mit ihr, und als sie schwanger wird, versucht er es zu verbergen, indem er ihren Mann Urija vom Feldzug zurückruft; als Urija sich weigert, nach Hause zu gehen, lässt David ihn im Kampf umkommen und nimmt Bathseba dann zur Frau.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -806,29 +905,50 @@
         "Auch das Volk darin führte er weg, und er stellte sie an die Sägen und an eiserne Werkzeuge und an eiserne Beile und brachte sie zu den Ziegelformen. So machte er es mit allen Städten der Ammoniter. Dann kehrte David samt dem ganzen Volk wieder nach Jerusalem zurück. (12:31)."
       ],
       "crossRefs": [
-        "2. Mose 20,13–14: Gebote gegen Mord und Ehebruch.",
-        "Psalm 51,1–19: Davids Bekenntnis im Zusammenhang mit Nathans Tadel.",
-        "Matthäus 1,6: Salomo in Davids Linie aufgeführt.",
-        "Jesus Sirach 47,1–11: Davids Lob schließt seine Umkehr nach der Sünde ein."
+        "2 Samuel 11:1-27: Die Ereignisse, auf die Nathan antwortet, vom Dach bis zu dem Brief, den Urija selbst trug.",
+        "Exodus 22:1: Wer ein Schaf stiehlt und schlachtet, ersetzt vier Schafe, das vierfache Urteil, das David über sich selbst spricht.",
+        "Psalmen 51:1-19: Davids Bekenntnis, überschrieben als aus der Zeit, da der Prophet Nathan nach Bathseba zu ihm kam.",
+        "2 Samuel 16:20-22: Absalom geht vor den Augen von ganz Israel auf dem Dach zu den Nebenfrauen seines Vaters ein.",
+        "1 Chronik 20:1-3: Der parallele Bericht über den Fall Rabbas, die Krone von einem Talent Gold und die Fronarbeit."
       ],
       "translationNotes": [
         {
-          "term": "Sünde",
-          "original": "Hebrew: חָטָא (ḥāṭāʾ); Greek: ἁμαρτία (hamartia)",
-          "note": "Das Ziel von Gottes Gebot verfehlen; David bekennt dies in Psalm 51."
+          "term": "*Sünde*",
+          "original": "Hebrew: חָטָא (chata), to miss - Greek (LXX): ἁμαρτία (hamartia)",
+          "note": "Chata ist das schlichte Verb für das Verfehlen eines Ziels; Richter 20:16 gebraucht es von Schleuderern, die nicht um ein Haar fehlen. Davids Antwort in Vers 13 sind im Hebräischen drei Wörter, chatati la-JHWH, ich habe gegen den HERRN gesündigt, und Nathans Erwiderung kommt im selben Atemzug zurück. Die Überschrift von Psalm 51 nennt diesen Anlass, und jener Psalm greift in seinen ersten beiden Versen zu drei verschiedenen Wörtern: Übertretung, Schuld und diesem."
         },
         {
-          "term": "Buße/Umkehr",
-          "original": "Hebrew: שׁוּב (shuv); 'turn back'; Greek: μετανοέω (metanoeō)",
-          "note": "Abkehr vom Unrecht und Hinwendung zu Gott; nicht bloße Reue."
+          "term": "*Umkehr*",
+          "original": "Hebrew: שׁוּב (shuv), to turn back",
+          "note": "Das hebräische Wort hinter Umkehr betrifft nicht das Gefühl; es ist das gewöhnliche Verb für Umdrehen und Zurückgehen, von einem Reisenden oder einem Heer gebraucht. Was die Propheten fordern, ist ein Richtungswechsel, den man von außen sehen kann. Dieses Kapitel zeigt den Unterschied zwischen Reue und Umkehr an einem Mann in vierzehn Tagen: Die Verse 16 bis 20 lassen David sieben Tage lang fasten und auf der Erde liegen wegen des Kindes, und in dem Augenblick, in dem das Kind stirbt, wäscht er sich, salbt sich und geht hin, um anzubeten."
         },
         {
-          "term": "Gottesfurcht",
-          "original": "Hebrew: יִרְאַת אֱלֹהִים (yir’at ʾElohim); 'awe/reverence'",
-          "note": "Ehrfürchtige Scheu, die vor dem Bösen zurückhält; Urias Weigerung, Komfort zu genießen, während die Lade und das Heer im Feld sind, zeigt diese Haltung."
+          "term": "Vierfacher Ersatz",
+          "original": "Hebrew: אַרְבַּעְתָּיִם (arbaatayim), fourfold",
+          "note": "Davids eigenes Urteil in Vers 6, dass der Mann das Lamm vierfach ersetzen muss, ist ein Zitat der Satzung. Exodus 22:1 verlangt vier Schafe für ein gestohlenes und geschlachtetes Schaf und fünf Rinder für ein Rind. Er erfindet im Zorn keine Strafe; er wendet das Gesetz, das er kennt, richtig auf einen Fall an, von dem er noch nicht begriffen hat, dass es sein eigener ist. Nathan antwortet dann in Vers 7 mit vier Wörtern im Hebräischen: Du bist der Mann."
+        },
+        {
+          "term": "Rabba und das Wasser",
+          "original": "Hebrew: רַבָּה (Rabbah) - עִיר הַמָּיִם (ir ha-mayim), the city of waters",
+          "note": "Rabba war die Hauptstadt der Ammoniter, am Oberlauf des Jabbok, wo heute Amman steht, und die Belagerung, die in 11:1 beginnt, läuft hier noch. Vers 27 erklärt, wie eine Belagerung tatsächlich gewonnen wurde: Joab meldet, er habe die Wasserversorgung genommen, die Unterstadt über den Quellen, was heißt, dass die Burg darüber sich nicht halten kann und nur noch wartet. Dann lässt er den König holen, damit der Ruhm der Einnahme dorthin fällt, wohin er gehört."
+        },
+        {
+          "term": "Talent (Geld)",
+          "original": "Hebrew: כִּכָּר (kikkar); Greek: τάλαντον (talanton)",
+          "note": "Die größte Gewichts- und Geldeinheit der alten Welt. Ein Talent Silber wog etwa 75 Pfund (34 kg) und entsprach rund 6.000 Denaren, also etwa 20 Jahren Lohn eines Arbeiters. Ein Talent Gold war weit mehr wert. Wenn Jesus das Gleichnis von den Talenten erzählt (Matthäus 25:14-30), steht jedes Talent für ein gewaltiges anvertrautes Gut."
+        },
+        {
+          "term": "Sacktuch",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Ein grober, dunkler Stoff aus Ziegenhaar, auf der bloßen Haut getragen als allgemein verstandenes Zeichen der Trauer, der Buße oder der Not (1 Könige 21:27; Jona 3:5; Matthäus 11:21). Es öffentlich zu tragen machte Trauer oder Reue kund; das Unbequeme daran gehörte zum Zeichen."
+        },
+        {
+          "term": "Er lag auf der Erde und fastete",
+          "original": "",
+          "note": "Die Verse 16 bis 20 führen die üblichen Zeichen der Trauer und des Flehens auf: Fasten, auf der bloßen Erde schlafen, sich nicht waschen, nicht salben, die Kleider nicht wechseln. Das Salben mit Olivenöl war in einem heißen, trockenen Land die tägliche Pflege, ungesalbt zu gehen war also für jeden sichtbar. Davids Knechte erschrecken in Vers 18, weil er all das vor dem Tod tut und nichts davon danach."
         }
       ],
-      "keyTakeaway": "Nathan konfrontiert David mit einem Gleichnis über einen reichen Mann, der einem armen Mann sein Lamm stiehlt, und enthüllt dann, dass David selbst dieser Mann ist, weil er Urijas Frau genommen und Urijas Tod herbeigeführt hat; David bekennt seine Sünde, das ihm und Batseba geborene Kind stirbt trotz seines Fastens und Betens, und später zeugen David und Batseba Salomo, den der HERR liebt. Joab erobert Rabba der Ammoniter, und David nimmt die Stadt ein, plündert sie und versklavt ihre Bevölkerung.",
+      "keyTakeaway": "Nathan stellt David mit einem Gleichnis von einem reichen Mann, der einem armen das Lamm nimmt, zur Rede und deckt dann auf, dass David selbst dieser Mann ist, weil er Urijas Frau genommen und Urijas Tod veranlasst hat; David bekennt seine Sünde, das Kind, das ihm und Bathseba geboren wird, stirbt trotz seines Fastens und Betens, und später zeugen David und Bathseba Salomo, den der HERR liebt. Joab nimmt Rabba der Ammoniter ein, und David nimmt die Stadt, plündert sie und stellt ihre Leute zur Zwangsarbeit.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -892,30 +1012,40 @@
         "Und der König David unterließ es, Absalom zu verfolgen; denn er hatte sich über den Tod Amnons getröstet. (13:39)."
       ],
       "crossRefs": [
-        "1. Mose 34,1–7: Die Vergewaltigung Dinas erinnert an Tamars Schande.",
-        "5. Mose 22,25–27: Gesetz gegen Vergewaltigung.",
-        "2. Mose 21,17: Entehrung von Familie und Haushalt.",
-        "Psalm 3,1–8: Davids Gebet auf der Flucht vor Absalom.",
-        "Jesus Sirach 9,1–9: Warnungen vor der Zerstörungskraft der Begierde."
+        "Levitikus 18:9,11: Du sollst die Blöße deiner Schwester nicht aufdecken, der Tochter deines Vaters oder deiner Mutter.",
+        "Deuteronomium 22:25-29: Das Gesetz für den Mann, der eine verlobte Frau zwingt, und für den, der eine unverlobte Jungfrau schändet.",
+        "Genesis 34:1-7: Dina wird in Sichem geschändet, und Jakobs Söhne kommen voll Zorn vom Feld herein.",
+        "2 Samuel 3:2-3: Absalom wird Maacha geboren, der Tochter Talmais, des Königs von Geschur, des Großvaters, zu dem er in Vers 37 flieht.",
+        "2 Samuel 12:10-12: Nathans Wort, dass das Schwert nie von Davids Haus weichen und dass Unheil aus ihm erstehen werde."
       ],
       "translationNotes": [
         {
           "term": "Vergewaltigung",
-          "original": "Hebrew: עָנָה (ʿanah); 'to violate, humble by force'",
-          "note": "Verwendet in Zusammenhängen sexueller Gewalt. Tamar sagt ausdrücklich, „dieses Unrecht ist größer“ (13,12)."
+          "original": "Hebrew: עָנָה (anah), to force or humiliate - נְבָלָה (nevalah), an outrage",
+          "note": "Die Verse 12 und 14 gebrauchen die Wörter, die auch das Gesetz gebraucht. Anah bedeutet niederzwingen oder schänden und ist das Verb in Deuteronomium 22:29 und in Genesis 34:2 von Dina. Tamars eigenes Wort in Vers 12 ist nevalah, eine Schandtat, der Ausdruck, der von dem Verbrechen in Gibea (Richter 19:23-24) und von der Tat Sichems (Genesis 34:7) gebraucht wird; er benennt eine Tat, welche die grundlegendste Ordnung der Gemeinschaft bricht, und nicht bloß eine Sünde an ihr. Vers 14 hält fest, dass er nicht auf sie hören wollte und stärker war als sie und sie zwang."
         },
         {
           "term": "Hass",
-          "original": "Hebrew: שָׂנֵא (śānēʾ)",
-          "note": "Amnons Begierde schlägt in Abscheu um; ein Muster sündiger Begierde, die in Zerstörung führt."
+          "original": "Hebrew: שָׂנֵא (sane), to hate",
+          "note": "Vers 15 ist als Umschlag in einem einzigen Satz geschrieben: Amnon hasste sie mit einem Hass, der größer war als die Liebe, mit der er sie geliebt hatte. Dasselbe Wortpaar steht im Gesetz über einen Mann mit zwei Frauen einander gegenüber, der geliebten und der gehassten (Deuteronomium 21:15-17), wo gehasst eine Rechtsstellung bezeichnet, das Zurückgesetztsein, und nicht bloß eine Abneigung. Sie hinauszuwerfen und die Tür hinter ihr zu verriegeln, was die Verse 16 bis 18 berichten, ist diese Stellung, auf der Straße öffentlich gemacht."
         },
         {
-          "term": "Exil (Flucht)",
-          "original": "Hebrew: נוּס (nus); 'to flee'",
-          "note": "Davids zweite Flucht (nach Saul), diesmal vor seinem eigenen Sohn."
+          "term": "Sie streute Asche auf ihr Haupt",
+          "original": "Hebrew: אֵפֶר (efer), ashes - יָד עַל־רֹאשׁ (yad al rosh), hand on the head",
+          "note": "Vers 19 ist eine Reihe anerkannter Zeichen, im Freien vollzogen, wo jeder sie sieht: Asche auf dem Haupt, das Gewand zerrissen, die Hand auf den Kopf gelegt und lautes Schreien im Gehen. Die Hände auf dem Kopf sind die Gebärde eines Gefangenen oder der Schande, so in Jeremia 2:37. Tamar ist geheißen worden zu schweigen, und stattdessen legt sie die volle öffentliche Trauer an, und das ist das einzige Zeugnis, das ihr bleibt."
+        },
+        {
+          "term": "Verstört",
+          "original": "Hebrew: שֹׁמֵמָה (shomemah), desolate",
+          "note": "Das Wort, das Vers 20 von Tamar gebraucht, die im Haus ihres Bruders lebt, ist dasselbe, das von einer zerstörten Stadt oder einem entvölkerten Land gebraucht wird (Jesaja 54:1, Klagelieder 1:16). Unverheiratet und nicht mehr verheiratbar, hat sie keinen eigenen Haushalt und keine Kinder, was in jener Gesellschaft weder Platz noch Zukunft bedeutete; sie lebt im Haus Absaloms weiter. Zwei Jahre später nennt er seine eigene Tochter Tamar (14:27)."
+        },
+        {
+          "term": "Ein langes Kleid mit Ärmeln",
+          "original": "Hebrew: כְּתֹנֶת פַּסִּים (ketonet passim)",
+          "note": "Vers 18 sagt, das hätten die jungfräulichen Töchter des Königs getragen, und es ist genau die Wendung, die von dem Rock gebraucht wird, den Jakob dem Joseph gab (Genesis 37:3); diese Übersetzung nennt es ein langes, buntes Kleid. Es kennzeichnete einen Menschen, der nicht arbeitete, denn lange Ärmel und ein knöchellanger Rock taugen für Arbeit nicht. Dass Tamar es in Vers 19 zerreißt, ist eine öffentliche Erklärung, dass die Stellung, die es ansagte, dahin ist."
         }
       ],
-      "keyTakeaway": "Amnon überlistet seinen Vater David, Tamar in sein Schlafgemach zu schicken, wo er sie vergewaltigt; zwei Jahre später rächt Absalom seine Schwester, indem er Amnon bei einem Schafschurfest töten lässt, und flieht dann nach Geschur. David trauert um Amnon, sehnt sich aber zugleich danach, seinen flüchtigen Sohn Absalom wiederzusehen.",
+      "keyTakeaway": "Amnon bringt seinen Vater David mit einer List dazu, Tamar in seine Kammer zu schicken, wo er sie vergewaltigt; zwei Jahre später rächt Absalom seine Schwester, indem er Amnon bei einem Schaffest ermorden lässt, und flieht dann nach Geschur. David trauert um Amnon und sehnt sich zugleich danach, seinen flüchtigen Sohn Absalom zu sehen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -969,30 +1099,35 @@
         "Da ging Joab zum König hinein und sagte es ihm. Und er rief Absalom; und er kam zu dem König und verneigte sich vor dem König mit dem Angesicht zur Erde; und der König küsste Absalom. (14:33)."
       ],
       "crossRefs": [
-        "1. Mose 34,1–7: Die Vergewaltigung Dinas erinnert an Tamars Schande.",
-        "5. Mose 22,25–27: Gesetz gegen Vergewaltigung.",
-        "2. Mose 21,17: Entehrung von Familie und Haushalt.",
-        "Psalm 3,1–8: Davids Gebet auf der Flucht vor Absalom.",
-        "Jesus Sirach 9,1–9: Warnungen vor der Zerstörungskraft der Begierde."
+        "2 Samuel 12:1-7: Nathan gebraucht eine Geschichte über einen anderen Mann, damit David das Urteil über sich selbst spricht.",
+        "Numeri 35:19-27: Der Bluträcher darf den Totschläger töten, und die Grenzen, die das Gesetz ihm setzt.",
+        "Deuteronomium 19:11-13: Vorsätzlicher Mord ist von den Zufluchtsstädten nicht gedeckt; die Ältesten liefern den Mann aus.",
+        "2 Samuel 18:9-15: Absaloms Kopf bleibt in der Terebinthe hängen, und Joab stößt ihm drei Spieße ins Herz.",
+        "Amos 1:1: Amos war unter den Hirten von Tekoa, dem Ort, aus dem diese Frau geholt wurde."
       ],
       "translationNotes": [
         {
-          "term": "Vergewaltigung",
-          "original": "Hebrew: עָנָה (ʿanah); 'to violate, humble by force'",
-          "note": "Verwendet in Zusammenhängen sexueller Gewalt. Tamar sagt ausdrücklich, „dieses Unrecht ist größer“ (13,12)."
+          "term": "Die weise Frau von Tekoa",
+          "original": "Hebrew: אִשָּׁה חֲכָמָה (ishah chakhamah), a wise woman",
+          "note": "Tekoa ist ein Dorf etwa zehn Meilen südlich von Jerusalem am Rand der judäischen Wüste, später die Heimat des Propheten Amos (Amos 1:1). Eine weise Frau war eine anerkannte Gestalt mit Ansehen und nicht einfach eine kluge: Eine andere handelt die Übergabe einer ganzen Stadt aus und spricht in 20:16-22 von der Mauer herab für sie. Joab sucht sich eine, weist sie ein und schickt sie, einen erfundenen Rechtsfall vor dem König vorzutragen, weil eine Rechtssache der eine Weg war, auf dem ein gewöhnlicher Mensch beim König Gehör fand."
         },
         {
-          "term": "Hass",
-          "original": "Hebrew: שָׂנֵא (śānēʾ)",
-          "note": "Amnons Begierde schlägt in Abscheu um; ein Muster sündiger Begierde, die in Zerstörung führt."
+          "term": "Der Bluträcher in ihrer Geschichte",
+          "original": "Hebrew: גֹּאֵל הַדָּם (goel ha-dam)",
+          "note": "Ihr erfundener Fall in den Versen 6 und 7 ist als Falle gebaut. Ein Sohn hat den anderen auf dem Feld ohne Zeugen erschlagen, und nun fordert die ganze Sippe, dass der Überlebende zur Hinrichtung ausgeliefert wird, was sie ohne Erben ließe und das Familienland in fremde Hände brächte. So lief das Verfahren wirklich: Die Verwandtschaft des Toten verfolgte den Totschläger, und die Sippe entschied. Der Spruch des Königs in Vers 11, dass kein Haar vom Haupt ihres Sohnes auf die Erde fallen soll, ist der Präzedenzfall, den sie dann wegen Absalom gegen ihn wendet."
         },
         {
-          "term": "Exil (Flucht)",
-          "original": "Hebrew: נוּס (nus); 'to flee'",
-          "note": "Davids zweite Flucht (nach Saul), diesmal vor seinem eigenen Sohn."
+          "term": "Als Trauernde gekleidet",
+          "original": "Hebrew: בִּגְדֵי־אֵבֶל (bigde evel), mourning clothes",
+          "note": "Joabs Anweisungen in Vers 2 laufen auf eine Verkleidung hinaus, und sie zählen die üblichen Zeichen auf: Trauerkleider anlegen, sich nicht mit Öl salben und sich verhalten wie eine Frau, die lange getrauert hat. Das Salben mit Olivenöl war in einem heißen, trockenen Land die tägliche Pflege, darauf zu verzichten war also auf einen Blick zu sehen, und in 12:20 nimmt David das Waschen, Salben und Kleiderwechseln in dem Augenblick wieder auf, in dem seine Trauer endet. Sie ist als Witwe von langer Zeit gekleidet, damit der König einen Fall über einen toten Sohn anhört."
+        },
+        {
+          "term": "Zweihundert Schekel Haar",
+          "original": "Hebrew: אֶבֶן הַמֶּלֶךְ (even ha-melekh), the king's weight",
+          "note": "In Vers 26 lässt Absalom sein Haar einmal im Jahr scheren und wiegt es mit zweihundert Schekel nach königlichem Gewicht, etwa fünf Pfund. Königreiche hielten ein amtliches Gewichtsmaß, so wie sie eine Schatzkammer hielten, und Preise und Steuern wurden danach berechnet. Die Einzelheit ist festgehalten, weil sie in Kapitel 18 ihr Ende findet."
         }
       ],
-      "keyTakeaway": "Joab veranlasst eine Frau, David wegen eines Familienstreits anzusprechen, was Davids Entfremdung von Absalom widerspiegelt und ihn bewegt, Absaloms Rückkehr aus dem Exil zu erlauben; nach zwei Jahren in Jerusalem, ohne Davids Angesicht zu sehen, lässt Absalom Joabs Feld in Brand stecken, um eine Begegnung mit dem König zu erzwingen, und David empfängt ihn schließlich mit einem Kuss.",
+      "keyTakeaway": "Joab lässt eine Frau bei David eine Sache über einen Familienstreit vorbringen, die Davids Entfremdung von Absalom spiegelt und ihn überredet, Absaloms Rückkehr aus der Verbannung zu erlauben; nachdem Absalom zwei Jahre in Jerusalem ist, ohne das Angesicht Davids zu sehen, zündet er Joabs Feld an, um eine Begegnung mit dem König zu erzwingen, und David umarmt ihn schließlich.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1050,30 +1185,40 @@
         "So begab sich denn Davids Freund Husai in die Stadt; Absalom aber zog in Jerusalem ein. (15:37)."
       ],
       "crossRefs": [
-        "1. Mose 34,1–7: Die Vergewaltigung Dinas erinnert an Tamars Schande.",
-        "5. Mose 22,25–27: Gesetz gegen Vergewaltigung.",
-        "2. Mose 21,17: Entehrung von Familie und Haushalt.",
-        "Psalm 3,1–8: Davids Gebet auf der Flucht vor Absalom.",
-        "Jesus Sirach 9,1–9: Warnungen vor der Zerstörungskraft der Begierde."
+        "Deuteronomium 16:18-20: Richter und Amtleute in allen deinen Städten sollen mit gerechtem Urteil richten und kein Bestechungsgeschenk nehmen.",
+        "2 Samuel 16:20-17:23: Ahitophels Rat an Absalom und wie Huschai ihn zunichtemacht.",
+        "2 Samuel 19:9-10: Die Stämme streiten untereinander, dass Absalom, den sie über sich gesalbt hatten, im Kampf gefallen ist.",
+        "Psalmen 3:1-8: Ein Psalm Davids, überschrieben aus der Zeit, als er vor seinem Sohn Absalom floh.",
+        "Johannes 18:1: Jesus geht mit seinen Jüngern über den Bach Kidron hinaus, den Übergang, den David in Vers 23 macht."
       ],
       "translationNotes": [
         {
-          "term": "Vergewaltigung",
-          "original": "Hebrew: עָנָה (ʿanah); 'to violate, humble by force'",
-          "note": "Verwendet in Zusammenhängen sexueller Gewalt. Tamar sagt ausdrücklich, „dieses Unrecht ist größer“ (13,12)."
+          "term": "Wagen, Pferde und fünfzig Läufer",
+          "original": "Hebrew: רָצִים (ratsim), runners",
+          "note": "Vers 1 ist ein Anspruch auf den Thron, ohne dass ein Wort fällt. Ein Wagen und Pferde und eine Schar Männer, die voranlaufen und den Weg frei machen, waren königliches Gepränge, und Samuel hatte genau das unter dem aufgezählt, was ein König nehmen würde: Er wird eure Söhne nehmen und sie für seine Wagen bestellen und dass sie vor seinen Wagen herlaufen (1 Samuel 8:11). Adonija stellt dieselbe Szene, als er Jahre später seinen eigenen Anspruch erhebt (1 Könige 1:5). Jeder, der es sah, wusste, was es bedeutete."
         },
         {
-          "term": "Hass",
-          "original": "Hebrew: שָׂנֵא (śānēʾ)",
-          "note": "Amnons Begierde schlägt in Abscheu um; ein Muster sündiger Begierde, die in Zerstörung führt."
+          "term": "Ahitophel der Ratgeber",
+          "original": "Hebrew: יוֹעֵץ (yoets), counsellor",
+          "note": "Ahitophel hatte ein förmliches Amt am Hof, und 16:23 misst sein Gewicht: Sein Rat galt, als hätte man das Wort Gottes befragt. Er stammt aus Gilo im Bergland Judas. Das Buch liefert auch, ohne die Fäden je zu verknüpfen, den Grund, weshalb er die Seite wechseln mochte: 23:34 führt Eliam, den Sohn Ahitophels, unter Davids dreißig auf, und 11:3 nennt Bathseba die Tochter Eliams. Ihn zu verlieren ist das eine, worum David beim Verlassen der Stadt betet (Vers 31)."
         },
         {
-          "term": "Exil (Flucht)",
-          "original": "Hebrew: נוּס (nus); 'to flee'",
-          "note": "Davids zweite Flucht (nach Saul), diesmal vor seinem eigenen Sohn."
+          "term": "Ittai der Gatiter",
+          "original": "Hebrew: גִּתִּי (Gitti), a man of Gath",
+          "note": "In den Versen 18 bis 22 ziehen sechshundert Männer aus Gat am König vorbei, angeführt von einem Philister, der erst gestern gekommen ist. Sechshundert ist genau die Stärke der Schar, die David selbst als Vasall der Philister in Ziklag befehligt hatte (1 Samuel 27:2), und es ist in dieser Zeit die übliche Stärke eines solchen Verbandes. David sagt ihm, er solle umkehren, weil er ein Fremder und ein Verbannter ist und nichts damit zu schaffen hat; Ittai schwört bei dem HERRN und bei dem König und bleibt, und in 18:2 befehligt er ein Drittel des Heeres."
+        },
+        {
+          "term": "Flucht",
+          "original": "Hebrew: בָּרַח (barach), to flee",
+          "note": "Das ist das zweite Mal, dass David alles stehen lässt und läuft, und das Buch stellt beide Male nebeneinander. Als junger Mann floh er vor Saul und lebte mit einer Schar Geächteter in der Wüste; hier geht er an der Spitze seines Hauses aus seiner eigenen Hauptstadt hinaus, den Ölberg hinauf, barfuß, mit verhülltem Haupt und weinend (Vers 30). Verhülltes Haupt, bloße Füße und offenes Weinen sind die anerkannten öffentlichen Zeichen der Trauer, hier auf dem Weg getragen, sodass jeder, der den Zug sah, wusste, was er war."
+        },
+        {
+          "term": "Am Weg zum Tor",
+          "original": "Hebrew: שַׁעַר (shaar), gate",
+          "note": "Ein Stadttor war ein tiefer Bau mit Kammern und Bänken, und dort spielte sich das öffentliche Leben der Stadt ab: Die Ältesten hörten dort Rechtsfälle, Verträge wurden dort bezeugt, und wer eine Streitsache hatte, ging zuerst dorthin (Rut 4:1-11, Sprüche 31:23). Absalom stellt sich an den Weg dorthin und fängt die Leute ab, bevor sie das Gericht erreichen. Er plaudert nicht; er nimmt die Tür des Gerichts in Besitz."
         }
       ],
-      "keyTakeaway": "Absalom gewinnt durch sein Auftreten als Richter Volksgunst und erbittet dann die Erlaubnis, nach Hebron zu gehen, wo er einen Aufstand anzettelt und sich zum König ausruft; David erfährt von der Verschwörung und flieht mit seinen Beamten aus Jerusalem, wobei er Zadok, Abjathar und Husai als Spitzel zurückschickt.",
+      "keyTakeaway": "Absalom gewinnt die Gunst des Volkes, indem er sich als Richter aufspielt, und bittet dann um Erlaubnis, nach Hebron zu ziehen, wo er einen Aufstand beginnt und das Königtum beansprucht; David erfährt von der Verschwörung und flieht mit seinen Beamten aus Jerusalem, wobei er Zadok, Abjatar und Huschai zurückschickt, damit sie ihm Nachricht geben.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1117,30 +1262,40 @@
         "Ahitophels Rat galt nämlich in jenen Tagen so viel, als hätte man das Wort Gottes befragt; so galt jeder Ratschlag Ahitophels sowohl bei David als auch bei Absalom. (16:23)."
       ],
       "crossRefs": [
-        "5. Mose 21,22–23: Der Fluch eines am Baum Hängenden.",
-        "2. Samuel 12,11–12: Nathans Prophezeiung erfüllt sich: Davids Frauen werden öffentlich genommen.",
-        "Psalm 3: Gebet Davids auf der Flucht vor Absalom.",
-        "1. Könige 2,8–9: Davids Auftrag an Salomo bezüglich Schimi.",
-        "Jesus Sirach 9,13: Gib dich nicht jedem Wind hin (Rat zum Thema Aufstand)."
+        "2 Samuel 9:1-13: David gibt Mephiboseth alles Land Sauls zurück und gewährt ihm einen Platz an der Tafel des Königs.",
+        "2 Samuel 19:24-30: Mephiboseth sagt, Ziba habe ihn betrogen, und David teilt das Land zwischen den beiden.",
+        "Exodus 22:28: Du sollst Gott nicht schmähen noch einem Fürsten deines Volkes fluchen.",
+        "2 Samuel 12:11-12: Das Wort, dass Gott Davids Frauen nehmen und sie seinem Nächsten geben werde vor den Augen der Sonne.",
+        "1 Könige 2:8-9,36-46: Davids Auftrag an Salomo wegen Simei und wie Salomo die Rechnung schließlich begleicht."
       ],
       "translationNotes": [
         {
+          "term": "Ziba und das Erbgut",
+          "original": "Hebrew: מְפִיבֹשֶׁת (Mephivoshet)",
+          "note": "Die Verse 1 bis 4 sind eine Übertragung von Besitz auf das Wort eines Mannes hin, während die andere Partei abwesend ist. Ziba tritt dem fliehenden König mit einem beladenen Eselszug entgegen, meldet, sein Herr sei in Jerusalem geblieben in der Hoffnung, Sauls Königtum zurückzubekommen, und geht mit dem ganzen Erbgut davon. Mephiboseth gibt in 19:24-30 die gegenteilige Darstellung, und David, der keine der beiden prüfen kann, teilt das Land zwischen ihnen. Das Kapitel zeigt, was aus dem Recht wird, wenn der König unterwegs ist."
+        },
+        {
+          "term": "Simei aus dem Haus Sauls",
+          "original": "Hebrew: אִישׁ הַדָּמִים (ish ha-damim), man of blood",
+          "note": "Vers 5 weist Simei als Benjaminiter aus Sauls eigener Familie aus, und darauf zielt alles, was er ruft. Sein Vorwurf in den Versen 7 und 8 lautet, David sei ein Mann des Blutes, der den Thron des Hauses Sauls genommen habe und dem nun heimgezahlt werde; es ist die Klage des Nordens, laut auf der Straße ausgesprochen von einem Mann, der meint, die Abrechnung sei endlich da. Steine zu werfen und Staub zu schleudern sind förmliche Handlungen der Verachtung und kein Wutausbruch."
+        },
+        {
+          "term": "Es lebe der König",
+          "original": "Hebrew: יְחִי הַמֶּלֶךְ (yechi ha-melekh)",
+          "note": "Huschais Ruf in Vers 16 ist der feste Zuruf, den man bei einer Krönung schreit, und genau darum lässt er sich zur Täuschung gebrauchen; die Worte binden ihn an nichts, denn er sagt nicht, welcher König. Derselbe Ruf erhebt sich für Saul in 1 Samuel 10:24, für Salomo in 1 Könige 1:34 und 39 und für den Knaben Joas, als die Wache ihn im Tempel krönt, in 2 Könige 11:12."
+        },
+        {
+          "term": "Ein Zelt auf dem Dach",
+          "original": "Hebrew: לְעֵינֵי כָּל־יִשְׂרָאֵל (le-ene kol Yisrael), in the sight of all Israel",
+          "note": "Ahitophels Rat in Vers 21 ist eine politische Rechnung, und Vers 22 zeigt, wie er ausgeführt wurde: ein Zelt auf dem Dach des Palastes aufgeschlagen, dem höchsten und sichtbarsten Punkt der Stadt. Die Frauen eines Königs zu nehmen war der übliche Weg, seinen Thron zu beanspruchen, und als Anspruch wirkt es nur, wenn man es sieht, und darum geschieht es auf dem Dach und nicht drinnen. Nathan hatte David in 12:11-12 gesagt, dass ihm das am hellen Tag geschehen werde."
+        },
+        {
           "term": "Nebenfrau",
-          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh); Greek: παλλακή (pallakē)",
-          "note": "Zweitfrau oder Beischläferin; Absaloms Tat war ein politischer Anspruch auf den Thron."
-        },
-        {
-          "term": "Hängen (Absalom)",
-          "original": "Hebrew: תָּלָה (talah); 'to hang, suspend'",
-          "note": "Absalom verfängt sich mit seinem Haupt in einem Baum und wird dann getötet; ein schmähliches Ende, das Fluchbildsprache widerspiegelt."
-        },
-        {
-          "term": "Umkehr/Rückkehr",
-          "original": "Hebrew: שׁוּב (shuv); 'to return, turn back'",
-          "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
+          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh) - Greek (LXX): παλλακή (pallake)",
+          "note": "Eine pilegesch war eine Zweitfrau: eine wirkliche und anerkannte Ehe, aber ohne den Rang, die Mitgift und den Rückhalt der Familie einer Vollfrau, und ihre Söhne standen unter denen der Frau. Weil die Frauen eines Königshauses zum Thron gehörten, wurden sie zu einem Werkzeug der Politik: Abner wird beschuldigt, Sauls Nebenfrau genommen zu haben (3:7), Absalom nimmt hier die seines Vaters, und Salomo liest Adonijas Bitte um Abischag als Griff nach der Krone und lässt ihn dafür töten (1 Könige 2:22). Die zehn Frauen dieses Kapitels bleiben für den Rest ihres Lebens unter Bewachung eingeschlossen (20:3)."
         }
       ],
-      "keyTakeaway": "Ziba bringt David Vorräte und behauptet, Mephiboseth sei in Jerusalem geblieben, um Sauls Thron zurückzugewinnen, woraufhin David Ziba den gesamten Besitz Mephiboseths übergibt; Simei verflucht David und bewirft ihn mit Steinen, doch David verweigert jede Vergeltung. Absalom zieht mit seinem Heer und seinen Ratgebern in Jerusalem ein; Husai gewinnt sein Vertrauen durch einen Treueeid, und Ahitofel rät Absalom, öffentlich mit Davids Nebenfrauen zu schlafen, um Israel vollständig gegen seinen Vater aufzubringen.",
+      "keyTakeaway": "Ziba bringt David Vorräte und behauptet, Mephiboseth sei in Jerusalem geblieben, weil er hoffe, Sauls Thron zurückzubekommen, worauf David dem Ziba den ganzen Besitz Mephiboseths gibt; unterdessen flucht Simei David auf der Flucht und wirft Steine nach ihm, und David weigert sich, es ihm zu vergelten. Absalom zieht mit seinem Heer und seinen Ratgebern in Jerusalem ein; Huschai gewinnt sein Vertrauen, indem er ihm Treue schwört, und Ahitophel rät Absalom, öffentlich zu den Nebenfrauen Davids einzugehen, damit ganz Israel sich endgültig gegen seinen Vater stellt.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1194,30 +1349,40 @@
         "sowie Honig und Dickmilch, Schafe und Kuhkäse als Speise für David und für das Volk, das bei ihm war; denn sie sprachen: Das Volk wird hungrig, müde und durstig sein in der Wüste! (17:29)."
       ],
       "crossRefs": [
-        "5. Mose 21,22–23: Der Fluch eines am Baum Hängenden.",
-        "2. Samuel 12,11–12: Nathans Prophezeiung erfüllt sich: Davids Frauen werden öffentlich genommen.",
-        "Psalm 3: Gebet Davids auf der Flucht vor Absalom.",
-        "1. Könige 2,8–9: Davids Auftrag an Salomo bezüglich Schimi.",
-        "Jesus Sirach 9,13: Gib dich nicht jedem Wind hin (Rat zum Thema Aufstand)."
+        "2 Samuel 15:31-37: David betet, dass Ahitophels Rat zur Torheit werde, und schickt Huschai nach Jerusalem zurück.",
+        "2 Samuel 16:23: Der Rat, den Ahitophel in jenen Tagen gab, war, als hätte man das Wort Gottes befragt.",
+        "Josua 2:1-7: Rahab verbirgt die beiden Kundschafter unter dem Flachs auf ihrem Dach und schickt die Verfolger in die falsche Richtung.",
+        "Psalmen 41:9: Auch mein Vertrauter, dem ich traute, der mein Brot aß, hat die Ferse gegen mich erhoben.",
+        "Matthäus 27:3-5: Judas wirft das Silber in den Tempel, geht hinaus und erhängt sich."
       ],
       "translationNotes": [
         {
-          "term": "Nebenfrau",
-          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh); Greek: παλλακή (pallakē)",
-          "note": "Zweitfrau oder Beischläferin; Absaloms Tat war ein politischer Anspruch auf den Thron."
+          "term": "En-Rogel",
+          "original": "Hebrew: עֵין רֹגֵל (Ein Rogel)",
+          "note": "Eine Quelle unmittelbar südlich von Jerusalem, unterhalb der Stelle, wo das Kidron- und das Hinnomtal zusammentreffen, außerhalb der Stadtmauer. Sie bezeichnete die Grenze zwischen Juda und Benjamin (Josua 15:7; 18:16), man konnte dort also warten, ohne die Stadt zu betreten, und genau darum stehen die beiden Boten dort. Adonija hielt später sein Krönungsmahl beim Stein Sochelet neben derselben Quelle (1 Könige 1:9)."
         },
         {
-          "term": "Hängen (Absalom)",
-          "original": "Hebrew: תָּלָה (talah); 'to hang, suspend'",
-          "note": "Absalom verfängt sich mit seinem Haupt in einem Baum und wird dann getötet; ein schmähliches Ende, das Fluchbildsprache widerspiegelt."
+          "term": "Eine Zisterne im Hof",
+          "original": "Hebrew: בְּאֵר (beer)",
+          "note": "Häuser hatten im Hof eine in den Fels gehauene Zisterne, innen verputzt und vom Ablauf des Daches gespeist, mit einer engen Öffnung, die eine Steinplatte verschloss. Getreide zum Trocknen auf der Abdeckung auszubreiten war gewöhnliche Hausarbeit, es sah also nichts verdächtig aus. Bahurim ist ein Dorf Benjamins an der Höhenstraße, die vom Ölberg zum Jordan hinabführt, derselbe Ort, an dem Simei zwei Kapitel zuvor Steine nach David geworfen hatte (2 Samuel 16:5)."
         },
         {
-          "term": "Umkehr/Rückkehr",
-          "original": "Hebrew: שׁוּב (shuv); 'to return, turn back'",
-          "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
+          "term": "Er bestellte sein Haus und erhängte sich",
+          "original": "Hebrew: וַיִּתְחַנַק (vayitchanaq)",
+          "note": "Selbsttötung ist in der Schrift nur wenige Male festgehalten: Saul und sein Waffenträger auf dem Gilboa (1 Samuel 31:4-5), Ahitophel hier, Simri, der den Palast über sich anzündet (1 Könige 16:18), und Judas (Matthäus 27:5). Die Einzelheit, dass er im Grab seines Vaters begraben wurde, ist wichtig: Familiengräber waren in den Fels gehauene Kammern mit Bänken, in denen ein Leichnam ausgelegt und die Gebeine später in einer Grube oder einem Kasten gesammelt wurden, und das ist die Praxis hinter der Wendung, dass einer zu seinen Vätern versammelt wird."
+        },
+        {
+          "term": "Mahanajim",
+          "original": "Hebrew: מַחֲנַיִם (Machanayim)",
+          "note": "Eine ummauerte Stadt östlich des Jordan in Gilead. Der Name bedeutet zwei Heerlager, und Genesis 32:1-2 hält fest, wie Jakob ihn gab, als die Engel Gottes ihm auf dem Rückweg nach Kanaan begegneten. Sie war den Leviten zugeteilt (Josua 21:38) und hatte bereits als Hauptstadt Ischbosets gedient (2 Samuel 2:8). David macht sie zu seinem Stützpunkt, weil sie jenseits des Flusses liegt, zu verteidigen ist und unter Leuten, die Absalom nichts schulden."
+        },
+        {
+          "term": "Geröstetes Korn, Bohnen, Linsen, Dickmilch und Käse",
+          "original": "Hebrew: קָלִי (qali) - Hebrew: חֶמְאָה (chemah)",
+          "note": "Das ist eine Liste von Feldverpflegung, und jedes Stück darauf haben die Leute wirklich mitgeführt. Qali ist geröstetes Korn, frische Ähren über dem Feuer geröstet und so gegessen, die übliche Reisespeise (Rut 2:14; 1 Samuel 17:17; 25:18). Chemah ist geronnene Milch, näher an saurer Sahne oder Butter als an etwas Süßem. Betten und Becken in Vers 28 heißen, dass der Bezirk ein ganzes Lager versorgte und kein Höflichkeitsgeschenk schickte."
         }
       ],
-      "keyTakeaway": "Ahithopel rät Absalom, David sofort zu verfolgen, doch Huschai schlägt vor, zunächst ganz Israel zu sammeln; Absalom folgt Huschais Rat, sodass David über den Jordan entkommen kann, während Ahithopel sich erhängt. David erreicht Mahanajim, wo einheimische Anführer ihn mit Nahrung und Vorräten versorgen.",
+      "keyTakeaway": "Ahitophel rät Absalom, David sofort nachzusetzen, doch Huschai hält einen Plan dagegen, zuerst ganz Israel zu sammeln; Absalom nimmt Huschais Rat an, wodurch David über den Jordan entkommen kann, während Ahitophel sich erhängt. David erreicht Mahanajim, wo die Männer der Gegend ihn mit Speise und Vorräten versorgen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1270,30 +1435,40 @@
         "Der König aber fragte den Kuschiten: Geht es auch dem Jungen, dem Absalom gut? Der Kuschit sprach: Wie dem Jungen möge es den Feinden meines Herrn, des Königs, und allen ergehen, die sich gegen dich auflehnen, um Böses zu tun! (18:32)."
       ],
       "crossRefs": [
-        "5. Mose 21,22–23: Der Fluch eines am Baum Hängenden.",
-        "2. Samuel 12,11–12: Nathans Prophezeiung erfüllt sich: Davids Frauen werden öffentlich genommen.",
-        "Psalm 3: Gebet Davids auf der Flucht vor Absalom.",
-        "1. Könige 2,8–9: Davids Auftrag an Salomo bezüglich Schimi.",
-        "Jesus Sirach 9,13: Gib dich nicht jedem Wind hin (Rat zum Thema Aufstand)."
+        "2 Samuel 14:25-26: Absaloms jährlicher Haarschnitt, mit zweihundert Schekel nach dem Gewicht des Königs gewogen.",
+        "Deuteronomium 21:18-21: Das Gesetz über einen störrischen und widerspenstigen Sohn, der weder auf seinen Vater noch auf seine Mutter hört.",
+        "2 Samuel 12:10-12: Das Wort, dass das Schwert nie von Davids Haus weichen werde.",
+        "2 Samuel 19:1-8: Joab hält David vor, dass er die Männer beschämt, die ihm das Leben retteten, indem er den betrauert, der ihn jagte.",
+        "2 Samuel 14:27: Von Absalom wird festgehalten, dass er drei Söhne und eine Tochter hatte, obwohl Vers 18 sagt, er habe keinen Sohn gehabt, der seinen Namen erhielte."
       ],
       "translationNotes": [
         {
-          "term": "Nebenfrau",
-          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh); Greek: παλλακή (pallakē)",
-          "note": "Zweitfrau oder Beischläferin; Absaloms Tat war ein politischer Anspruch auf den Thron."
+          "term": "Der König blieb aus der Schlacht",
+          "original": "Hebrew: עֲשָׂרָה אֲלָפִים (asarah alafim), ten thousand",
+          "note": "Das Heer lässt David in Vers 3 nicht ins Feld ziehen, und seine Begründung ist kalte Rechnung: Wenn sie fliehen, kümmert es niemanden, und wenn die Hälfte von ihnen fällt, kümmert es niemanden, aber er ist zehntausend von ihnen wert. Ein König in der Schlachtreihe ist das eine Ziel, dessen Verlust einen Krieg auf der Stelle beendet, und darum jagt ihn der Feind und darum sähen ihn seine eigenen Leute lieber im Tor von Mahanajim sitzen, mit einem Läufer auf der Mauer. Seine Abwesenheit ist auch der Grund, weshalb der Befehl über Absalom öffentlich vor drei Heerführern gegeben und dann übergangen wird."
         },
         {
-          "term": "Hängen (Absalom)",
-          "original": "Hebrew: תָּלָה (talah); 'to hang, suspend'",
-          "note": "Absalom verfängt sich mit seinem Haupt in einem Baum und wird dann getötet; ein schmähliches Ende, das Fluchbildsprache widerspiegelt."
+          "term": "Tausend Schekel Silber",
+          "original": "Hebrew: אֶלֶף כֶּסֶף (eleph kesef), a thousand of silver",
+          "note": "Der Krieger in Vers 12 schlägt einen angenommenen Lohn von tausend Schekel aus, und die Zahl soll gewaltig klingen: Ein Schekel wiegt etwa zwei Fünftel einer Unze, das sind also rund siebenundzwanzig Pfund Silber, während ein Levit für zehn Schekel im Jahr samt Kost und Kleidung angestellt werden konnte (Richter 17:10). Sein Grund ist nicht das Geld, sondern der Befehl, den das ganze Heer den König an Joab, Abischai und Ittai geben hörte. Joabs Antwort besteht darin, drei Spieße zu nehmen und es selbst zu tun."
         },
         {
-          "term": "Umkehr/Rückkehr",
-          "original": "Hebrew: שׁוּב (shuv); 'to return, turn back'",
-          "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
+          "term": "Ein Steinhaufen über der Grube",
+          "original": "Hebrew: גַּל־אֲבָנִים (gal avanim)",
+          "note": "Vers 17 gibt dem Sohn des Königs das Begräbnis eines verurteilten Verbrechers: in eine große Grube im Wald geworfen, mit einem sehr großen Steinhaufen darüber. Derselbe Steinhaufen kommt über Achan im Tal Achor (Josua 7:26) und über den König von Ai (Josua 8:29). Er ist ein öffentliches Zeichen, das von der Straße aus gesehen werden soll, und er steht in unmittelbarem Gegensatz zu Vers 18, wo Absalom noch zu Lebzeiten im Königstal ein Denkmal aufgerichtet hatte, damit sein Name in Erinnerung bliebe."
+        },
+        {
+          "term": "Sein Kopf blieb in der Terebinthe hängen",
+          "original": "Hebrew: אֵלָה (elah), terebinth or great tree",
+          "note": "Vers 9 sagt, sein Kopf blieb im Baum hängen, nicht sein Haar; das Haar fügt der Leser hinzu. Er reitet auf einem Maultier unter eine niedrige, dichtästige Terebinthe in unwegsamem Waldland, und er bleibt zwischen Himmel und Erde hängen, als das Tier weiterläuft. Vers 8 hat bereits festgehalten, dass der Wald an jenem Tag mehr Männer verschlang als das Schwert."
+        },
+        {
+          "term": "Zwei Läufer",
+          "original": "",
+          "note": "Die Verse 19 bis 27 hängen an den zwei Wegen aus dem Wald Ephraim heraus: Der Kuschit geht geradewegs über die Berge, und Ahimaaz nimmt den längeren flachen Weg durch die Jordanebene und kommt trotzdem zuerst an. Nachrichten liefen im Schritt eines Mannes zu Fuß, und ein Wächter auf dem Torturm erkannte Läufer lange vor ihrer Ankunft an ihrem Gang (Vers 27). Der Erste mit der Nachricht zu sein war selbst eine Stellung bei Hof."
         }
       ],
-      "keyTakeaway": "David teilt sein Heer in drei Abteilungen unter Joab, Abisai und Ittai auf und nimmt selbst am Stadttor Stellung, während seine Truppen ausziehen; Absalom bleibt mit seinem Haar in einer Eiche hängen, und Joab tötet ihn mit drei Speeren, obwohl David befohlen hatte, ihn zu schonen. Boten überbringen David die Nachricht vom Sieg, doch als er vom Tod Absaloms erfährt, trauert er tief in der Torwache und klagt, er wünschte, er wäre anstelle seines Sohnes gestorben.",
+      "keyTakeaway": "David ordnet seine Truppen in drei Abteilungen unter Joab, Abischai und Ittai und stellt sich dann an das Stadttor, während seine Leute ausziehen; Absalom bleibt im Kampf mit dem Haar in einer Terebinthe hängen, und Joab tötet ihn mit drei Spießen, obwohl David befohlen hatte, ihn zu schonen. Läufer bringen David die Nachricht, dass die Schlacht gewonnen ist, doch als er erfährt, dass Absalom tot ist, trauert er tief in der Kammer über dem Tor und klagt, er wäre lieber selbst an der Stelle seines Sohnes gestorben.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1361,30 +1536,40 @@
         "Da antworteten alle Männer von Juda denen von Israel: Weil der König uns nähersteht! Und was zürnt ihr wegen dieser Sache? Haben wir etwa auf Kosten des Königs gegessen, oder hat er uns irgendein Geschenk gemacht? (19:43)."
       ],
       "crossRefs": [
-        "5. Mose 21,22–23: Der Fluch eines am Baum Hängenden.",
-        "2. Samuel 12,11–12: Nathans Prophezeiung erfüllt sich: Davids Frauen werden öffentlich genommen.",
-        "Psalm 3: Gebet Davids auf der Flucht vor Absalom.",
-        "1. Könige 2,8–9: Davids Auftrag an Salomo bezüglich Schimi.",
-        "Jesus Sirach 9,13: Gib dich nicht jedem Wind hin (Rat zum Thema Aufstand)."
+        "2 Samuel 16:5-13: Simei flucht David unterwegs bei Bahurim, wirft Steine nach ihm und schleudert Staub.",
+        "2 Samuel 17:27-29: Barsillai der Gileaditer bringt Davids Leuten in Mahanajim Betten, Becken, Weizen, Honig, Dickmilch und Schafe.",
+        "1 Könige 2:7: David sagt Salomo, er solle den Söhnen Barsillais Güte erweisen und sie an seiner Tafel essen lassen.",
+        "2 Samuel 20:1-2: Scheba stößt in das Horn und ganz Israel fällt von David ab, der Streit von Vers 43 bricht in Aufruhr aus.",
+        "Genesis 49:8-10: Juda, deine Brüder werden dich preisen, und die Söhne deines Vaters werden sich vor dir beugen."
       ],
       "translationNotes": [
         {
-          "term": "Nebenfrau",
-          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh); Greek: παλλακή (pallakē)",
-          "note": "Zweitfrau oder Beischläferin; Absaloms Tat war ein politischer Anspruch auf den Thron."
+          "term": "Der König saß im Tor",
+          "original": "Hebrew: שַׁעַר (shaar)",
+          "note": "Ein Stadttor war ein Bauwerk und keine Öffnung: ein Durchgang mit Wachkammern zu beiden Seiten und steinernen Bänken darin, und dort hörten die Ältesten Rechtsfälle, wurden Verträge bezeugt und sprach der König Recht. Ein König, der im Tor sitzt, ist ein König wieder im Dienst und erreichbar, und darum bringt die Ansage in Vers 8 das ganze Heer herbei. Absalom hatte dieselbe Stelle genutzt, um das Königtum zu stehlen, indem er sich an den Weg zum Tor stellte und die Männer abfing, die zum Gericht kamen (2 Samuel 15:2)."
         },
         {
-          "term": "Hängen (Absalom)",
-          "original": "Hebrew: תָּלָה (talah); 'to hang, suspend'",
-          "note": "Absalom verfängt sich mit seinem Haupt in einem Baum und wird dann getötet; ein schmähliches Ende, das Fluchbildsprache widerspiegelt."
+          "term": "Er hatte seine Füße nicht gepflegt und seinen Bart nicht gestutzt",
+          "original": "Hebrew: שָׂפָם (sapham)",
+          "note": "Das waren die anerkannten öffentlichen Zeichen der Trauer: ungewaschener Leib und ungewaschene Kleider, ungestutztes Haar und ungestutzter Bart, kein Öl. Sapham ist der Lippenbart, das Haar der Oberlippe, und ihn zu verhüllen oder zu vernachlässigen gehört zu derselben Reihe von Zeichen der Trauer und der Unreinheit wie in Levitikus 13:45 und Ezechiel 24:17. Das Gegenteil zeigt das Ende der Trauer an: In 2 Samuel 12:20 wäscht David sich, salbt sich und wechselt seine Kleider."
         },
         {
-          "term": "Umkehr/Rückkehr",
-          "original": "Hebrew: שׁוּב (shuv); 'to return, turn back'",
-          "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
+          "term": "Er hat dem Gesalbten des HERRN geflucht",
+          "original": "Hebrew: מָשִׁיחַ (mashiach) - Hebrew: קִלֵּל (qillel)",
+          "note": "Maschiach bedeutet mit Öl bestrichen und ist die feste Bezeichnung für den König, weil er eingesetzt wurde, indem man ihm Öl über das Haupt goss (1 Samuel 10:1; 16:13). Fluchen heißt im Hebräischen qillel, und das ist kein Schimpfen; die Wurzel bedeutet leicht machen, und die Handlung ruft Unheil auf einen herab und behandelt ihn zugleich als ohne Gewicht. Exodus 22:28 verbietet, einem Fürsten deines Volkes zu fluchen."
+        },
+        {
+          "term": "Barsillai und Kimham",
+          "original": "Hebrew: בַּרְזִלַּי (Barzillai) - Hebrew: כִּמְהָם (Chimham)",
+          "note": "Barsillai hatte die ganze Streitmacht des Königs in Mahanajim aus seinem eigenen Gut in Gilead gespeist, und was David zurückbietet, ist ein Platz an der königlichen Tafel, also lebenslanger Unterhalt. Barsillai schickt Kimham an seiner Stelle, offenbar seinen Sohn. Lange danach hält Jeremia 41:17 fest, dass Flüchtlinge bei Geruth-Kimham nahe Bethlehem haltmachen, einem Besitz, der noch immer seinen Namen trug."
+        },
+        {
+          "term": "Wir haben zehn Anteile am König",
+          "original": "Hebrew: עֶשֶׂר יָדוֹת (eser yadot)",
+          "note": "Die Nordstämme rechnen: zehn Stämme gegen Juda, also zehn Anteile am König gegen einen. Dieselbe Rechnung läuft durch die Spaltung, die eine Generation später folgt, als Ahija einen neuen Mantel in zwölf Stücke zerreißt und zehn davon Jerobeam gibt (1 Könige 11:30-31), und der Norden zieht mit dem Ruf ab: Was haben wir für einen Anteil an David (1 Könige 12:16). Dieser Streit am Jordan ist die Stelle, an der der Riss zuerst sichtbar wird."
         }
       ],
-      "keyTakeaway": "David trauert so tief um Abschalom, dass seine Truppen den Willen verlieren, ihren Sieg zu feiern; Joab zwingt ihn, vor seine Männer zu treten und ihre Loyalität anzunehmen. David kehrt mit der Unterstützung Judas nach Jerusalem zurück, begnadigt Schimei, teilt Sauls Land zwischen Mephiboseth und Ziba auf und nimmt Barsillais Sohn Kimham in seinen Dienst, obwohl Spannung zwischen den Männern Judas und Israels darüber entbrennt, wer den König heimgebracht hat.",
+      "keyTakeaway": "David trauert so tief um Absaloms Tod, dass seinen Leuten die Freude über den Sieg vergeht; Joab zwingt ihn, vor seine Männer zu treten und ihre Treue anzunehmen. David kehrt mit der Unterstützung Judas nach Jerusalem zurück, begnadigt Simei, teilt Sauls Land zwischen Mephiboseth und Ziba und nimmt Barsillais Sohn Kimham in seinen Dienst, während zwischen den Männern Judas und Israels Streit darüber aufflammt, wer den König heimgebracht hat.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1447,30 +1632,40 @@
         "und auch Ira, der Jairiter, war ein Minister Davids. (20:26)."
       ],
       "crossRefs": [
-        "5. Mose 21,22–23: Der Fluch eines am Baum Hängenden.",
-        "2. Samuel 12,11–12: Nathans Prophezeiung erfüllt sich: Davids Frauen werden öffentlich genommen.",
-        "Psalm 3: Gebet Davids auf der Flucht vor Absalom.",
-        "1. Könige 2,8–9: Davids Auftrag an Salomo bezüglich Schimi.",
-        "Jesus Sirach 9,13: Gib dich nicht jedem Wind hin (Rat zum Thema Aufstand)."
+        "2 Samuel 3:26-30: Joab nimmt Abner im Tor beiseite und sticht ihn in den Bauch, genau wie er es hier mit Amasa tut.",
+        "1 Könige 2:5-6: David trägt Salomo auf, wie es mit Joab zu halten sei, der Kriegsblut in Friedenszeit vergossen hat.",
+        "Deuteronomium 20:10-12: Wenn du dich einer Stadt näherst, um gegen sie zu kämpfen, so biete ihr zuerst Frieden an.",
+        "2 Samuel 19:11-13: David sagt Amasa den Oberbefehl über das Heer an Joabs Stelle zu.",
+        "1 Könige 15:20: Ben-Hadad schlägt Abel-Beth-Maacha und ganz Kinnerot samt dem Land Naphtali."
       ],
       "translationNotes": [
         {
-          "term": "Nebenfrau",
-          "original": "Hebrew: פִּילֶגֶשׁ (pilegesh); Greek: παλλακή (pallakē)",
-          "note": "Zweitfrau oder Beischläferin; Absaloms Tat war ein politischer Anspruch auf den Thron."
+          "term": "Was haben wir für einen Anteil an David",
+          "original": "Hebrew: אֵין־לָנוּ חֵלֶק בְּדָוִד (en lanu cheleq be-David)",
+          "note": "Scheba stößt in ein Widderhorn und ruft in Vers 1 eine Parole aus, und auf die Parole kommt es an. Wort für Wort ist es das, was die zehn Nordstämme rufen, als sie Rehabeam den Rücken kehren und das Reich endgültig spalten: Was haben wir für einen Anteil an David, kein Erbteil am Sohn Isais, auf, Israel, zu deinen Zelten (1 Könige 12:16). Hier wird es zum ersten Mal gehört, und der Streit, der es hervorbringt, ist der Rangstreit am Jordan im vorigen Kapitel."
         },
         {
-          "term": "Hängen (Absalom)",
-          "original": "Hebrew: תָּלָה (talah); 'to hang, suspend'",
-          "note": "Absalom verfängt sich mit seinem Haupt in einem Baum und wird dann getötet; ein schmähliches Ende, das Fluchbildsprache widerspiegelt."
+          "term": "Die zehn Nebenfrauen",
+          "original": "Hebrew: אַלְמְנוּת חַיּוּת (almenut chayyut), living widowhood",
+          "note": "Vers 3 hält fest, was aus den Frauen wurde, die Absalom auf dem Dach des Palastes genommen hatte. David versorgt sie, geht aber nie wieder zu ihnen ein, und sie werden bis zu ihrem Tod in einem bewachten Haus gehalten; die hebräische Wendung lautet Witwenschaft bei lebendigem Mann. Das Gesetz verbietet einem Mann, die Blöße der Frau seines Vaters aufzudecken (Levitikus 18:8, Deuteronomium 22:30), sie können also nicht zu David zurück, und als Frauen eines früheren Königs können sie keinem anderen gegeben werden. Der Vers nennt das Ergebnis, ohne es zu mildern."
         },
         {
-          "term": "Umkehr/Rückkehr",
-          "original": "Hebrew: שׁוּב (shuv); 'to return, turn back'",
-          "note": "Schlüsselverb, wenn David zum Tor zurückkehrt und wenn Israel sich nach Absaloms Niederlage wieder ihm zuwendet."
+          "term": "Das Schwert, das herausfiel",
+          "original": "Hebrew: וַתִּפֹּל (vattippol), and it fell out",
+          "note": "Die Verse 8 bis 10 beschreiben eine vorbereitete Tötung. Joab tritt in seiner Kriegskleidung vor, und seine Klinge gleitet aus der Scheide, sodass sie in seiner Hand ist, als er Amasa mit der rechten Hand am Bart fasst, um ihm den üblichen Begrüßungskuss zu geben. Amasa, der auf die leere rechte Hand achtet, hütet sich nicht vor der linken. Es ist das zweite Mal, dass Joab einen rivalisierenden Heerführer unter dem Deckmantel eines freundlichen Wortes tötet, nach Abner im Tor von Hebron (3:27)."
+        },
+        {
+          "term": "Schriftgelehrter (sopher)",
+          "original": "Hebrew: סוֹפֵר (sopher); Greek: γραμματεύς (grammateus)",
+          "note": "Ursprünglich Berufsabschreiber der Schrift. Zur Zeit des Neuen Testaments Kenner und Lehrer des Gesetzes; oft, wenn auch nicht ausschließlich, den Pharisäern zugehörig. Sie bildeten die gebildete religiöse Schicht, die alltägliche halachische Fragen entschied."
+        },
+        {
+          "term": "Abel-Beth-Maacha",
+          "original": "Hebrew: אָבֵל בֵּית מַעֲכָה (Avel Beit Maakhah)",
+          "note": "Eine feste Stadt im äußersten Norden nahe Dan, etwa zwölf Meilen nördlich des Sees Genezareth, an der Straße von Israel hinauf nach Aram. Die Frau auf der Mauer führt in Vers 18 einen Spruch an, wonach man Sachen früher dadurch entschied, dass man in Abel Rat holte, und sie nennt die Stadt eine Mutter in Israel. Ihr Punkt ist, dass eine Stadt von diesem Rang nicht wegen eines einzigen Flüchtigen niedergeworfen wird, und sie entscheidet die Sache, indem sie stattdessen Schebas Kopf hinabwirft."
         }
       ],
-      "keyTakeaway": "Scheba, der Sohn Bichris, verführt Israel zur Abkehr von David; der König schickt Abisai hinter ihm her; Joab tötet Amasa durch Verrat und verfolgt dann Scheba bis Abel-Beth-Maacha, wo eine weise Frau seine Auslieferung aushandelt und die Aufrührer sich zerstreuen.",
+      "keyTakeaway": "Scheba, der Sohn Bichris, führt Israel von David weg, worauf der König Abischai hinter ihm herschickt; Joab tötet Amasa hinterlistig und verfolgt Scheba dann bis Abel-Beth-Maacha, wo eine weise Frau seine Auslieferung aushandelt und die Aufrührer auseinandergehen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1513,32 +1708,40 @@
         "Diese vier waren dem Rapha in Gat geboren worden, und sie fielen durch die Hand Davids und durch die Hand seiner Knechte. (21:22)."
       ],
       "crossRefs": [
-        "Josua 9,3–27: Der Gibeoniter-Bund, den Saul brach.",
-        "1. Samuel 17,4–7: Goliat von Gat, verwandt mit den hier erschlagenen Riesen.",
-        "Psalm 18: Parallelen zu Davids Psalm der Errettung.",
-        "5. Mose 17,17–20: Der König soll nicht auf Zahlen vertrauen (Kontrast zu Davids Volkszählung).",
-        "1. Chronik 21,1–30: Parallelbericht von Davids Volkszählung und Altar.",
-        "2. Chronik 3,1: Salomo baut den Tempel am Ort der Tenne.",
-        "Jesus Sirach 47,11: Gott vergibt Davids Sünden und erhöht seine Kraft."
+        "Josua 9:3-27: Die Gibeoniter erlangen einen Vertrag, indem sie behaupten, aus fernem Land zu kommen, und Israel schwört ihnen einen Eid.",
+        "Numeri 35:33: Blut verunreinigt das Land, und für das Land kann keine Sühnung erwirkt werden außer durch das Blut dessen, der es vergossen hat.",
+        "Deuteronomium 21:22-23: Ein Leichnam, der an einem Holz hängt, soll nicht über Nacht bleiben, denn ein Gehängter steht unter Gottes Fluch.",
+        "1 Samuel 17:4-7: Goliath von Gat, sechs Ellen und eine Spanne, mit einem Speerschaft wie ein Weberbaum.",
+        "1 Chronik 20:4-8: Die parallele Liste der Philisterriesen, die von Davids Männern erschlagen wurden."
       ],
       "translationNotes": [
         {
-          "term": "Sühne",
-          "original": "Hebrew: כָּפַר (kaphar); 'to cover, make propitiation'",
-          "note": "Die Hinrichtung von Sauls Nachkommen wurde gefordert, um Sauls Blutschuld gegenüber den Gibeonitern zu sühnen."
+          "term": "Die Gibeoniter und der gebrochene Eid",
+          "original": "Hebrew: שְׁבוּעָה (shevuah), a sworn oath",
+          "note": "Die Verse 1 und 2 greifen fast vier Jahrhunderte zurück. Die Gibeoniter hatten von Josua durch Täuschung einen Vertrag erlangt, und Israel hatte ihnen bei dem HERRN geschworen und hielt es auch, nachdem der Betrug herauskam (Josua 9:15-20). Saul brach diesen Eid und versuchte, sie auszurotten, und die Hungersnot wird darauf zurückgeführt. Vers 4 ist die Einzelheit, die ein Leser nicht überspringen sollte: Sie lehnen Silber oder Gold ab, das Lösegeld, das Numeri 35:31 für ein Leben zu nehmen verbietet, und fordern stattdessen Männer aus dem Haus, das das Blut vergossen hat."
         },
         {
-          "term": "Reue/Gewissensbisse",
-          "original": "Hebrew: נָכָה לֵב (nakah lev); 'heart struck, smitten'",
-          "note": "Verwendet, als David seine Sünde nach der Volkszählung erkennt."
+          "term": "Sühnung",
+          "original": "Hebrew: כָּפַר (kaphar), to cover or wipe clean",
+          "note": "Davids Frage in Vers 3 lautet, wie er kaphar tun soll, was Übersetzungen mit Sühnung schaffen oder Genugtuung leisten wiedergeben. Das Verb bedeutet zudecken oder abwischen, sodass eine Schuld nicht länger besteht, und es ist das Fachwort für das, was die Opfer bewirken (Levitikus 16:30). Hinter diesem Kapitel steht die Regel, dass Blutvergießen das Land selbst verunreinigt und dass nichts es reinigt als das Blut dessen, der es vergossen hat (Numeri 35:33), und darum wird die Hungersnot als eine Sache gelesen, die auf Sauls Rechnung noch offensteht."
         },
         {
-          "term": "Tenne-Altar",
-          "original": "Hebrew: גֹּרֶן (goren); 'threshing floor'",
-          "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
+          "term": "Die Söhne des Rapha",
+          "original": "Hebrew: הָרָפָה (ha-Rapha)",
+          "note": "Die Verse 15 bis 22 schließen mit vier Vorkämpfern der Philister, von denen jeder von Rapha abstammt, dem Wort hinter den Rephaitern, den hochgewachsenen Völkern, welche die Bibel vor Israel im Land ansiedelt (Deuteronomium 2:10-11, 3:11). Die Angaben sind leiblich und genau: Ischbi-Benobs eherne Lanze wog dreihundert Schekel, etwa siebeneinhalb Pfund, gegen die fünfzehn Pfund der eisernen Speerspitze Goliaths in 1 Samuel 17:7, und ein Mann in Gat hatte an jeder Hand sechs Finger und an jedem Fuß sechs Zehen. Josua 11:22 hatte bereits festgehalten, dass die Enakiter in Gaza, Gat und Aschdod übrig blieben."
+        },
+        {
+          "term": "Sacktuch",
+          "original": "Hebrew: שַׂק (saq); Greek: σάκκος (sakkos)",
+          "note": "Ein grober, dunkler Stoff aus Ziegenhaar, auf der bloßen Haut getragen als allgemein verstandenes Zeichen der Trauer, der Buße oder der Not (1 Könige 21:27; Jona 3:5; Matthäus 11:21). Es öffentlich zu tragen machte Trauer oder Reue kund; das Unbequeme daran gehörte zum Zeichen."
+        },
+        {
+          "term": "Rizpa auf dem Felsen",
+          "original": "",
+          "note": "Die Verse 9 und 10 setzen die Aussetzung an den Anfang der Gerstenernte, also in den April, und sagen, Rizpa habe die Vögel und die wilden Tiere von den Leichnamen ferngehalten, bis Regen fiel. Die ersten Regen kommen im Oktober. Sie saß auf Sacktuch neben ihren Söhnen im Freien fast ein halbes Jahr, und die Forderung des Gesetzes, dass ein Leichnam noch am selben Tag begraben werden muss (Deuteronomium 21:23), macht ihre Wache zu einer Anklage, die der König in Vers 13 endlich beantwortet."
         }
       ],
-      "keyTakeaway": "Eine dreijährige Hungersnot veranlasst David, sieben Nachkommen Sauls hinrichten zu lassen, um die Gibeoniter zu befriedigen, die Saul zu vernichten versucht hatte; nach ordentlicher Bestattung der Gebeine beendet Gott die Hungersnot, und Davids Truppen besiegen in späteren Schlachten mehrere Philistergiganten.",
+      "keyTakeaway": "Eine dreijährige Hungersnot führt dazu, dass David sieben Nachkommen Sauls hinrichten lässt, um die Gibeoniter zufriedenzustellen, die Saul auszurotten versucht hatte; nach dem ordentlichen Begräbnis der Gebeine beendet Gott die Hungersnot, und Davids Leute schlagen in weiteren Kämpfen mehrere Riesen der Philister.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1610,32 +1813,40 @@
         "dich, der seinem König große Siege verliehen hat und Gnade erweist seinem Gesalbten, David und seinem Samen bis in Ewigkeit. (22:51)."
       ],
       "crossRefs": [
-        "Josua 9,3–27: Der Gibeoniter-Bund, den Saul brach.",
-        "1. Samuel 17,4–7: Goliat von Gat, verwandt mit den hier erschlagenen Riesen.",
-        "Psalm 18: Parallelen zu Davids Psalm der Errettung.",
-        "5. Mose 17,17–20: Der König soll nicht auf Zahlen vertrauen (Kontrast zu Davids Volkszählung).",
-        "1. Chronik 21,1–30: Parallelbericht von Davids Volkszählung und Altar.",
-        "2. Chronik 3,1: Salomo baut den Tempel am Ort der Tenne.",
-        "Jesus Sirach 47,11: Gott vergibt Davids Sünden und erhöht seine Kraft."
+        "Psalmen 18:1-50: Dasselbe Lied im Psalter, überschrieben aus dem Tag, an dem der HERR ihn aus der Hand aller seiner Feinde und aus der Hand Sauls errettete.",
+        "Exodus 15:1-18: Das Lied am Meer, nachdem Ägyptens Heer ertrunken ist, das Vorbild für Israels Siegeslieder.",
+        "Deuteronomium 32:1-43: Das Lied Moses, das Gott ebenfalls den Fels nennt und ihn im Feuer kommen sieht.",
+        "Habakuk 3:3-15: Gott kommt in Sturm, Flut und Erdbeben, um sein Volk und seinen Gesalbten zu retten.",
+        "Römer 15:9: Paulus führt Vers 50 an: Ich will dich preisen unter den Heiden und deinem Namen singen."
       ],
       "translationNotes": [
         {
-          "term": "Sühne",
-          "original": "Hebrew: כָּפַר (kaphar); 'to cover, make propitiation'",
-          "note": "Die Hinrichtung von Sauls Nachkommen wurde gefordert, um Sauls Blutschuld gegenüber den Gibeonitern zu sühnen."
+          "term": "Dasselbe Lied wie Psalm 18",
+          "original": "Hebrew: מִזְמוֹר (mizmor), a psalm",
+          "note": "Dieses Kapitel und Psalm 18 sind dieselbe Dichtung, in der Schrift zweimal bewahrt, mit kleinen Unterschieden im Wortlaut, und die Überschrift des Psalms nennt denselben Anlass: den Tag, an dem der HERR David aus der Hand aller seiner Feinde und aus der Hand Sauls errettete. Das ist wissenswert, weil es zeigt, wie Israels Lieder wanderten und sowohl in der Geschichte, die sie hervorbrachte, als auch in der Sammlung für den Gottesdienst bewahrt wurden. Dreiundsiebzig Psalmen tragen in ihrer Überschrift den Namen Davids."
         },
         {
-          "term": "Reue/Gewissensbisse",
-          "original": "Hebrew: נָכָה לֵב (nakah lev); 'heart struck, smitten'",
-          "note": "Verwendet, als David seine Sünde nach der Volkszählung erkennt."
+          "term": "Das Unwetter am Sinai",
+          "original": "Hebrew: עֲרָפֶל (arafel), thick darkness",
+          "note": "Die Verse 8 bis 16 beschreiben nicht das Wetter bei irgendeiner Schlacht dieses Buches. Bebende Erde, Rauch aus den Nüstern, Feuer aus dem Mund, dichte Finsternis unter seinen Füßen, Hagelsteine und Kohlen, die Betten des Meeres bloßgelegt: Das ist die Sprache des Sinai (Exodus 19:16-18, 20:21), und auch das Lied Deboras greift danach, wenn der HERR von Seir auszieht (Richter 5:4-5). Das Lied nimmt in Anspruch, dass der Gott, der auf den Berg herabkam, derselbe ist, der für diesen Mann herabkam."
         },
         {
-          "term": "Tenne-Altar",
-          "original": "Hebrew: גֹּרֶן (goren); 'threshing floor'",
-          "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
+          "term": "Ein Bogen aus Erz",
+          "original": "Hebrew: קֶשֶׁת נְחוּשָׁה (qeshet nechushah)",
+          "note": "In Vers 35 geht es um Waffen und nicht um Metallkunde. Ein Kriegsbogen jener Zeit war zusammengesetzt, in Lagen aus Holz, Horn und Sehne verleimt, und es brauchte wirkliche Kraft, ihn zu spannen und im vollen Zug zu halten; darauf zielt ein Bogen, der ehern heißt. Die Zeile davor sagt, er lehrt meine Hände den Kampf, die Behauptung lautet also, dass die Kraft verliehen und nicht eigen ist. Im Hebräischen biegen die Arme wörtlich einen Bogen aus Erz."
+        },
+        {
+          "term": "Scheol",
+          "original": "Hebrew: שְׁאוֹל (sheol)",
+          "note": "Der Bereich der Toten im Alten Testament; eine schattenhafte Unterwelt, in die Gerechte wie Gottlose hinabfahren (Genesis 37:35; Psalm 16:10). Nicht notwendig ein Ort der Qual; eher ein Zustand des Aufhörens und des Schweigens. Die Septuaginta und das Neue Testament geben es mit dem griechischen Wort Hades wieder, und diese Übersetzung nennt es das Totenreich."
+        },
+        {
+          "term": "Der Fels",
+          "original": "Hebrew: צוּר (tsur)",
+          "note": "Das Lied nennt Gott einen Fels, eine Burg, einen Schild, ein Horn und eine feste Zuflucht, und jedes davon gehört zum Krieg im Bergland und ist keine Dichtung um ihrer selbst willen. Ein tsur ist eine Felswand oder ein Felskopf, die Art Boden, in der David sich in En-Gedi und Maon wirklich verbarg, wo eine kleine Schar nicht umzingelt werden kann. Mose gebraucht denselben Titel in Deuteronomium 32 sechsmal."
         }
       ],
-      "keyTakeaway": "David trägt dem HERRN ein Danklied vor für seine Errettung aus der Hand seiner Feinde und Sauls, schildert Gottes Macht anhand eindrücklicher Bilder göttlichen Eingreifens und bekundet seine eigene Gerechtigkeit sowie seine kriegerischen Siege.",
+      "keyTakeaway": "David trägt dem HERRN ein Danklied vor, weil er ihn aus der Hand seiner Feinde und aus der Hand Sauls errettet hat, und beschreibt Gottes Macht in kräftigen Bildern des Eingreifens und spricht von seiner eigenen Gerechtigkeit und seinen Siegen.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1691,32 +1902,35 @@
         "Urija, der Hetiter. Insgesamt [waren es] 37. (23:39)."
       ],
       "crossRefs": [
-        "Josua 9,3–27: Der Gibeoniter-Bund, den Saul brach.",
-        "1. Samuel 17,4–7: Goliat von Gat, verwandt mit den hier erschlagenen Riesen.",
-        "Psalm 18: Parallelen zu Davids Psalm der Errettung.",
-        "5. Mose 17,17–20: Der König soll nicht auf Zahlen vertrauen (Kontrast zu Davids Volkszählung).",
-        "1. Chronik 21,1–30: Parallelbericht von Davids Volkszählung und Altar.",
-        "2. Chronik 3,1: Salomo baut den Tempel am Ort der Tenne.",
-        "Jesus Sirach 47,11: Gott vergibt Davids Sünden und erhöht seine Kraft."
+        "1 Chronik 11:10-47: Die parallele Liste der Helden Davids, mit weiteren Namen am Ende.",
+        "2 Samuel 7:12-16: Der Bund, den diese letzten Worte ewig nennen, in allem geordnet und verwahrt.",
+        "Numeri 15:5,10: Das Trankopfer, dem HERRN neben dem Brandopfer ausgegossen.",
+        "Micha 5:2: Bethlehem, klein unter den Sippen Judas, aus dem der Herrscher Israels hervorgeht.",
+        "Psalmen 72:1-7: Der König, der in der Furcht Gottes herrscht, ist wie das Licht des Morgens und wie Regen auf gemähtem Gras."
       ],
       "translationNotes": [
         {
-          "term": "Sühne",
-          "original": "Hebrew: כָּפַר (kaphar); 'to cover, make propitiation'",
-          "note": "Die Hinrichtung von Sauls Nachkommen wurde gefordert, um Sauls Blutschuld gegenüber den Gibeonitern zu sühnen."
+          "term": "Die letzten Worte Davids",
+          "original": "Hebrew: נְאֻם (neum), oracle - נְעִים זְמִרוֹת (neim zemirot), the sweet singer",
+          "note": "Vers 1 leitet das Gedicht mit neum ein, dem förmlichen Wort für einen prophetischen Ausspruch, demselben, das in der Wendung spricht der HERR durch die Propheten hindurch steht, und in Bileams Sprüchen in Numeri 24:3. Dann gibt er David vier Titel in einer Reihe: Sohn Isais, der Mann, der hoch erhoben wurde, der Gesalbte des Gottes Jakobs und der liebliche Sänger Israels. Vers 2 spricht den Anspruch unmittelbar aus, dass der Geist des HERRN durch ihn geredet hat und sein Wort auf seiner Zunge war."
         },
         {
-          "term": "Reue/Gewissensbisse",
-          "original": "Hebrew: נָכָה לֵב (nakah lev); 'heart struck, smitten'",
-          "note": "Verwendet, als David seine Sünde nach der Volkszählung erkennt."
+          "term": "Die Drei und die Dreißig",
+          "original": "Hebrew: הַשְּׁלֹשָׁה (ha-Sheloshah) - הַשְּׁלֹשִׁים (ha-Sheloshim)",
+          "note": "Die Verse 8 bis 39 sind eine förmliche Ehrenliste mit zwei Rängen darin, den Dreien oben und den Dreißig darunter, jeder mit genannten Anführern, und sie arbeitet wie eine Liste von Auszeichnungen: Ein Mann wird für eine bestimmte festgehaltene Tat aufgenommen, und darum nennt jeder Eintrag die Tat. Sie schließt in Vers 39 mit der Summe, siebenunddreißig im Ganzen, und mit einem letzten Namen, Urija dem Hetiter. Der Verfasser setzt ihn dorthin und sagt nichts dazu."
         },
         {
-          "term": "Tenne-Altar",
-          "original": "Hebrew: גֹּרֶן (goren); 'threshing floor'",
-          "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
+          "term": "Benaja und der Löwe in der Zisterne",
+          "original": "Hebrew: אֲרִיאֵל (ariel), lion of God",
+          "note": "Vers 20 schreibt Benaja drei Taten zu, und die mittlere braucht eine Erklärung. Das Hebräische sagt, er habe zwei ariel von Moab erschlagen, ein Wort, das aus Löwe und Gott gebaut ist; Übersetzungen geben es mit Helden wieder, und was der Titel genau bezeichnete, ist nicht bekannt. Dann stieg er zur Schneezeit in eine Zisterne hinab und tötete einen Löwen, woraus man beides erfährt: dass Zisternen tiefe, in den Fels gehauene Schächte waren, in die ein Mann hinabsteigen musste, und dass im judäischen Bergland im Winter Schnee fällt. Vers 23 macht ihn zum Anführer von Davids Leibwache, und 1 Könige 2:35 macht ihn unter Salomo zum Anführer des ganzen Heeres."
+        },
+        {
+          "term": "Er goss es dem HERRN aus",
+          "original": "Hebrew: נֶסֶךְ (nesekh), drink offering",
+          "note": "Drei Männer brechen durch eine Besatzung der Philister, um Wasser aus dem Brunnen von Bethlehem zu holen, und David will es nicht trinken (Verse 15 bis 17). Eine Flüssigkeit vor Gott auf die Erde auszugießen war das Trankopfer, das zu den täglichen Opfern gehörte (Numeri 15:5-10). Er behandelt Wasser, das mit diesem Wagnis erkauft ist, als etwas, worauf nur Gott ein Recht hat."
         }
       ],
-      "keyTakeaway": "David hält seine letzten Worte, bekräftigt Gottes Bund mit ihm und kündigt das Gericht über böse Männer an. Dann catalogisiert er seine Helden, schildert ihre einzelnen Taten und nennt alle siebenunddreißig seiner obersten Kämpfer.",
+      "keyTakeaway": "David spricht seine letzten Worte, in denen er Gottes Bund mit ihm bekräftigt und den bösen Männern das Gericht ansagt. Danach werden seine Helden aufgezählt, ihre einzelnen Taten aufgeführt und alle siebenunddreißig seiner obersten Krieger genannt.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1762,32 +1976,40 @@
         "Und David baute dem HERRN dort einen Altar und opferte Brandopfer und Friedensopfer. Und der HERR ließ sich für das Land erbitten, und die Plage wurde abgewehrt von Israel. (24:25)."
       ],
       "crossRefs": [
-        "Josua 9,3–27: Der Gibeoniter-Bund, den Saul brach.",
-        "1. Samuel 17,4–7: Goliat von Gat, verwandt mit den hier erschlagenen Riesen.",
-        "Psalm 18: Parallelen zu Davids Psalm der Errettung.",
-        "5. Mose 17,17–20: Der König soll nicht auf Zahlen vertrauen (Kontrast zu Davids Volkszählung).",
-        "1. Chronik 21,1–30: Parallelbericht von Davids Volkszählung und Altar.",
-        "2. Chronik 3,1: Salomo baut den Tempel am Ort der Tenne.",
-        "Jesus Sirach 47,11: Gott vergibt Davids Sünden und erhöht seine Kraft."
+        "1 Chronik 21:1-30: Der parallele Bericht, der damit beginnt, dass Satan David reizt, und damit schließt, dass Feuer auf den Altar fällt.",
+        "Exodus 30:11-16: Jeder Gezählte muss einen halben Schekel als Lösegeld geben, damit keine Plage unter sie kommt, wenn man sie zählt.",
+        "2 Chronik 3:1: Salomo baut das Haus des HERRN auf dem Berg Morija, auf der Tenne Ornans des Jebusiters.",
+        "Genesis 22:1-14: Abraham wird in das Land Morija gesandt, und er nennt den Ort: Der HERR wird ersehen.",
+        "1 Könige 8:37-40: Salomo bittet, dass Gott vom Himmel her höre und vergebe, wenn Hungersnot, Brand oder Pest kommt."
       ],
       "translationNotes": [
         {
-          "term": "Sühne",
-          "original": "Hebrew: כָּפַר (kaphar); 'to cover, make propitiation'",
-          "note": "Die Hinrichtung von Sauls Nachkommen wurde gefordert, um Sauls Blutschuld gegenüber den Gibeonitern zu sühnen."
+          "term": "Das Lösegeld bei einer Zählung",
+          "original": "Hebrew: כֹּפֶר נֶפֶשׁ (kopher nephesh), a ransom for a life",
+          "note": "Nichts in diesem Kapitel ergibt Sinn ohne Exodus 30:11-16, und kein heutiger Leser hat es zur Hand. Jenes Gesetz sagt, dass bei einer Zählung Israels jeder Gezählte einen halben Schekel als Lösegeld für sein Leben an den HERRN zahlen muss, Reiche wie Arme, damit keine Plage unter sie komme, wenn man sie zählt. Eine Zählung der wehrfähigen Männer behandelt das Volk als Besitz, der dem König gehört, und der halbe Schekel ist die stehende Erinnerung daran, dass es Gott gehört. Joab erhebt seinen Einwand in Vers 3 ohne Begründung, und er hat recht."
         },
         {
-          "term": "Reue/Gewissensbisse",
-          "original": "Hebrew: נָכָה לֵב (nakah lev); 'heart struck, smitten'",
-          "note": "Verwendet, als David seine Sünde nach der Volkszählung erkennt."
+          "term": "Das Gewissen schlug ihn",
+          "original": "Hebrew: וַיַּךְ לֵב־דָּוִד (vayyakh lev David), and David's heart struck him",
+          "note": "Das Hebräische in Vers 10 sagt, Davids Herz schlug ihn, mit nakah, dem gewöhnlichen Verb für schlagen oder niederschlagen. Derselbe Ausdruck steht einmal zuvor in seinem Leben, in 1 Samuel 24:5, nachdem er in der Höhle den Zipfel von Sauls Gewand abgeschnitten hatte. Beide Male kommt es nach der Tat und bevor jemand ihn anklagt, und beide Male folgt ein Bekenntnis in klaren Worten: Ich habe schwer gesündigt mit dem, was ich getan habe."
         },
         {
-          "term": "Tenne-Altar",
-          "original": "Hebrew: גֹּרֶן (goren); 'threshing floor'",
-          "note": "Ebener Platz zum Dreschen von Getreide. Diese Tenne wird zum Standort des Tempels, wo das Opfer die Seuche durch Frieden ablöste."
+          "term": "Der Altar auf der Tenne",
+          "original": "Hebrew: גֹּרֶן אֲרַוְנָה (goren Aravnah), the threshing floor of Araunah",
+          "note": "Eine Tenne ist ein flacher, harter, offener Kreis geebneten Felsens, hoch und frei gelegen, damit der Wind die Spreu forttragen kann, und eine solche lag auf der Anhöhe unmittelbar nördlich der alten Stadt, noch im Besitz eines Jebusiters. In Vers 24 weigert sich David, sie als Geschenk zu nehmen, und sagt, er wolle dem HERRN nichts darbringen, was ihn nichts kostet, und bezahlt die Tenne und die Rinder. 2 Chronik 3:1 hält fest, was danach auf diesem Boden gebaut wurde: Salomos Tempel, auf dem Berg Morija, auf der Tenne Arawnas des Jebusiters."
+        },
+        {
+          "term": "Fünfzig Schekel Silber",
+          "original": "Hebrew: חֲמִשִּׁים שְׁקָלִים כֶּסֶף (chamishim sheqalim kesef)",
+          "note": "Vers 24 hält den Preis mit fünfzig Schekel Silber fest, etwa ein und ein viertel Pfund davon, und sagt genau, was dafür gekauft wurde: die Tenne und die Rinder, also die Arbeitsfläche und die Tiere für das Opfer. 1 Chronik 21:25 hält eine zweite und viel größere Zahlung fest, sechshundert Schekel Gold, und sagt, was dafür gekauft wurde: der Platz. Das eine ist der Preis einer Tenne und eines Rindergespanns; das andere ist der Preis des Bodens, auf dem der Tempel stehen sollte."
+        },
+        {
+          "term": "Von Dan bis Beerscheba",
+          "original": "",
+          "note": "Der Weg der Zählung in den Versen 2 bis 8 läuft von Dan an den nördlichen Quellen unter dem Hermon bis Beerscheba im trockenen Süden, etwa 150 Meilen auseinander, und Joab brauchte dafür neun Monate und zwanzig Tage. Die Wendung ist Israels feste Art, das ganze Land zu bezeichnen, von einem Ende zum anderen. Wehrfähige Männer über diese ganze Strecke zu zählen macht daraus eine militärische Musterung."
         }
       ],
-      "keyTakeaway": "Der HERR veranlasst David, eine Volkszählung durchzuführen; nachdem Joab die Zählung der Kriegsmänner Israels abgeschlossen hat, bereut David und wählt die Pest als Strafe, die siebzigtausend Menschen tötet, bevor sie vor Jerusalem aufhört. David kauft die Tenne Araunas, errichtet einen Altar und bringt Opfer dar, und die Pest hört auf.",
+      "keyTakeaway": "Der HERR reizt David, eine Zählung zu halten; nachdem Joab die Zählung der wehrfähigen Männer Israels vollendet hat, kehrt David um und wählt die Pest als Strafe, die siebzigtausend Menschen tötet, bevor sie bei Jerusalem aufhört. David kauft die Tenne Arawnas, baut einen Altar und bringt Opfer dar, und die Pest hört auf.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1796,5 +2018,5 @@
       ]
     }
   ],
-  "intro": "2. Samuel wurde von den Propheten Nathan und Gad verfasst, die als Hofpropheten während der Regierungszeit Davids dienten, wobei ihre Aufzeichnungen mit Samuels früherem Material zusammengestellt wurden, wie in 1. Chronik 29,29 festgehalten: „Die Geschichte aber des Königs David, die erste und die letzte, siehe, die ist beschrieben in der Geschichte Samuels, des Sehers, und in der Geschichte Nathans, des Propheten, und in der Geschichte Gads, des Sehers.\" Da Samuel gestorben war, bevor David König über ganz Israel wurde (1. Samuel 25,1), stammt das Material, das die vollen vierzig Regierungsjahre abdeckt, hauptsächlich von Nathan und Gad. Das Buch erreichte seine endgültige Form um 970-960 v. Chr., während oder kurz nach dem Ende der Regierungszeit Davids in Jerusalem. Nathan war der Hofprophet unter David, derjenige, der David wegen Batseba und Uria zur Rede stellte, der die Verheißung des davidischen Bundes überbrachte und der später half, Salomo als König einzusetzen (1. Könige 1). Gad war Davids persönlicher Seher, der ihn von den frühen Jahren seines Lebens als Flüchtling in den Höhlen bis zum Ende seiner Regierung beriet. Die Ereignisse des Buches umfassen 1011 bis 971 v. Chr. und überspannen Davids vierzigjährige Regierungszeit, zunächst über Juda von Hebron aus (siebeneinhalb Jahre), dann über ein vereinigtes Israel von Jerusalem aus (33 Jahre), nachdem er die jebusitische Festung erobert und zu seiner Hauptstadt gemacht hatte. Der historische Schauplatz ist der Beginn der Eisenzeit IIA in Kanaan, mit dem aufstrebenden Vereinigten Königreich Israel als regionaler Macht; David unterwarf die Philister (Gat, Gaza, Aschkelon, Aschdod, Ekron) entlang der Küstenebene, die Moabiter östlich des Toten Meeres, die Edomiter des Bergs Seir, die Ammoniter von Rabba und die aramäischen Königreiche von Damaskus und Zoba und dehnte den israelitischen Einfluss vom Bach Ägyptens bis zum oberen Euphrat aus. Im Süden herrschte Ägyptens 21. Dynastie (die tanitischen Könige) über einen geschwächten, zersplitterten Staat, während Assyrien im Norden eine Phase des Niedergangs durchmachte, bevor es später wieder aufstieg.\n\n2. Samuel und 1. Samuel waren ursprünglich ein einziges hebräisches Buch namens Shmuel („Samuel\"), das von den Übersetzern der griechischen Septuaginta (3. Jahrhundert v. Chr.) geteilt und mit den Königen als „1-4 Königreiche\" (oder „Regentschaften\") gruppiert wurde; die lateinische Vulgata übernahm die Teilung mit den Namen „1-2 Samuel\" und „1-2 Könige\", und deutsche Bibeln folgten dieser Anordnung. Im jüdischen Kanon ist Samuel das dritte Buch der Frühen Propheten (Nevi'im Rishonim). Hebräische Manuskriptfragmente von Samuel gehörten zu den Schriftrollen vom Toten Meer, die in Qumran (Mitte des 20. Jahrhunderts n. Chr.) entdeckt wurden, mit Abschriften aus dem 3. Jahrhundert v. Chr. und später."
+  "intro": "2 Samuel wurde von den Propheten Nathan und Gad geschrieben, die während der Regierung Davids als Hofpropheten dienten, wobei ihre Aufzeichnungen und das ältere Material Samuels zusammengestellt wurden, wie 1 Chronik 29:29 festhält: \"die Taten des Königs David, die früheren und die späteren, siehe, sie sind aufgezeichnet in der Geschichte Samuels, des Sehers, und in der Geschichte Nathans, des Propheten, und in der Geschichte Gads, des Sehers.\" Da Samuel gestorben war, ehe David König über ganz Israel wurde (1 Samuel 25:1), stammt der Stoff über die vollen vierzig Regierungsjahre vor allem von Nathan und Gad. Seine endgültige Gestalt erhielt das Buch um 970 bis 960 v. Chr., während oder kurz nach dem Ende der Regierung Davids in Jerusalem. Nathan war der Hofprophet unter David, der Mann, der David wegen Bathseba und Urija zur Rede stellte, der die Zusage des Davidsbundes ausrichtete und der später half, Salomo als König einzusetzen (1 Könige 1). Gad war Davids persönlicher Seher, der ihn von den frühen Jahren als Flüchtling in den Höhlen bis zum Ende seiner Regierung beriet. Die Ereignisse des Buches umfassen die Jahre 1011 bis 971 v. Chr. und damit Davids vierzigjährige Regierung, zuerst über Juda von Hebron aus (siebeneinhalb Jahre), dann über ein geeintes Israel von Jerusalem aus (dreiunddreißig Jahre), nachdem er die Bergfeste der Jebusiter erobert und zu seiner Hauptstadt gemacht hatte. Der geschichtliche Rahmen ist der Beginn der Eisenzeit IIA in Kanaan, mit dem vereinten Königreich Israel als aufsteigender Regionalmacht; David unterwarf die Philister (Gat, Gaza, Askalon, Asdod, Ekron) an der Küstenebene, die Moabiter östlich des Toten Meeres, die Edomiter vom Bergland Seir, die Ammoniter von Rabba und die aramäischen Königreiche von Damaskus und Zoba und dehnte Israels Einfluss vom Bach Ägyptens bis zum oberen Euphrat aus. Im Süden herrschte Ägyptens 21. Dynastie (die Könige von Tanis) über einen geschwächten, zerrissenen Staat, während Assyrien im Norden vor seinem späteren Wiederaufstieg eine Zeit des Niedergangs durchlief.\n\n2 Samuel und 1 Samuel waren ursprünglich ein einziges hebräisches Buch mit dem Namen Schmuel (\"Samuel\"), das die Übersetzer der griechischen Septuaginta (3. Jahrhundert v. Chr.) teilten und zusammen mit den Königsbüchern als \"1-4 Königtümer\" (oder \"Regierungen\") führten; die lateinische Vulgata übernahm die Teilung mit den Namen \"1-2 Samuel\" und \"1-2 Könige\", und die deutschen Bibeln sind dieser Anordnung gefolgt. Im jüdischen Kanon ist Samuel das dritte Buch der Vorderen Propheten (Nevi'im Rischonim). Hebräische Handschriftenfragmente von Samuel gehörten zu den Schriftrollen vom Toten Meer, die in Qumran gefunden wurden (Mitte des 20. Jahrhunderts n. Chr.); die Abschriften stammen aus dem 3. Jahrhundert v. Chr. und später."
 }

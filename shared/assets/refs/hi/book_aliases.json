@@ -40,8 +40,9 @@
     "group": "canon"
   },
   {
-    "canon": "व्यवस्थाविवरण",
+    "canon": "व्यवस्था विवरण",
     "aliases": [
+      "व्यवस्था विवरण",
       "व्यवस्थाविवरण",
       "व्यवस्था",
       "व्य",
@@ -136,7 +137,7 @@
     "group": "canon"
   },
   {
-    "canon": "एज्रा",
+    "canon": "एज़्रा",
     "aliases": [
       "एज्रा",
       "Ezra",
@@ -172,7 +173,7 @@
     "group": "canon"
   },
   {
-    "canon": "भजनसहित",
+    "canon": "भजन संहिता",
     "aliases": [
       "भजनसहित",
       "भजन",
@@ -592,7 +593,7 @@
     "group": "canon"
   },
   {
-    "canon": "तोबित",
+    "canon": "टोबित",
     "aliases": [
       "तोबित",
       "Tobit",
@@ -602,8 +603,9 @@
     "group": "deuterocanon"
   },
   {
-    "canon": "यूदित",
+    "canon": "यूदीत",
     "aliases": [
+      "यूदीत",
       "यूदित",
       "Judith",
       "यहूदित"
@@ -615,7 +617,8 @@
     "aliases": [
       "एस्तेर की अतिरिक्त",
       "यूनानी एस्तेर",
-      "Additions to Esther"
+      "Additions to Esther",
+      "Esther (Greek)"
     ],
     "group": "deuterocanon"
   },
@@ -626,7 +629,8 @@
       "Wisdom of Solomon",
       "ज्ञान ग्रन्थ",
       "प्रज्ञा",
-      "सुलैमान की बुद्धि"
+      "सुलैमान की बुद्धि",
+      "Wisdom"
     ],
     "group": "deuterocanon"
   },
@@ -638,7 +642,8 @@
       "सिराक",
       "सिराक की बुद्धि",
       "सीराक",
-      "सीराख"
+      "सीराख",
+      "Sirach (Ecclesiasticus)"
     ],
     "group": "deuterocanon"
   },
@@ -663,7 +668,8 @@
     "aliases": [
       "अजर्याह की प्रार्थना",
       "तीन युवाओं का गीत",
-      "Prayer of Azariah"
+      "Prayer of Azariah",
+      "The Prayer of Azariah and the Song of the Three"
     ],
     "group": "deuterocanon"
   },
@@ -680,6 +686,15 @@
     "aliases": [
       "बेल और अजगर",
       "Bel and the Dragon"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "भजन संहिता 151",
+    "aliases": [
+      "भजन संहिता 151",
+      "भज 151",
+      "Psalm 151"
     ],
     "group": "deuterocanon"
   },
@@ -734,7 +749,8 @@
     "aliases": [
       "2 एज्रा",
       "चौथा एज्रा",
-      "2 Esdras"
+      "2 Esdras",
+      "2 Esdras (4 Ezra)"
     ],
     "group": "deuterocanon"
   },
@@ -799,8 +815,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "थॉमस का सुसमाचार",
+    "canon": "थोमस का सुसमाचार",
     "aliases": [
+      "थोमस का सुसमाचार",
       "थॉमस का सुसमाचार",
       "Gospel of Thomas"
     ],
@@ -840,8 +857,9 @@
     "group": "apocrypha"
   },
   {
-    "canon": "बाल्यकाल थॉमस का सुसमाचार",
+    "canon": "थोमस का बाल्यकाल सुसमाचार",
     "aliases": [
+      "थोमस का बाल्यकाल सुसमाचार",
       "बाल्यकाल थॉमस का सुसमाचार",
       "Infancy Gospel of Thomas"
     ],
@@ -851,7 +869,8 @@
     "canon": "याकूब का बाल्यकाल सुसमाचार",
     "aliases": [
       "याकूब का बाल्यकाल सुसमाचार",
-      "Protevangelium of James"
+      "Protevangelium of James",
+      "Infancy Gospel of James"
     ],
     "group": "apocrypha"
   },
@@ -948,7 +967,8 @@
     "aliases": [
       "1 हनोक",
       "पहला हनोक",
-      "1 Enoch"
+      "1 Enoch",
+      "1 Enoch (Book of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -957,7 +977,8 @@
     "aliases": [
       "2 हनोक",
       "दूसरा हनोक",
-      "2 Enoch"
+      "2 Enoch",
+      "2 Enoch (Secrets of Enoch)"
     ],
     "group": "pseudepigrapha"
   },
@@ -966,7 +987,8 @@
     "aliases": [
       "3 हनोक",
       "तीसरा हनोक",
-      "3 Enoch"
+      "3 Enoch",
+      "3 Enoch (The Book of the Palaces)"
     ],
     "group": "pseudepigrapha"
   },
@@ -985,7 +1007,8 @@
     "canon": "बारह पितृपुरुषों की वसीयत",
     "aliases": [
       "बारह पितृपुरुषों की वसीयत",
-      "Testament of the Twelve Patriarchs"
+      "Testament of the Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
     ],
     "group": "pseudepigrapha"
   },
@@ -1154,8 +1177,9 @@
     "group": "pseudepigrapha"
   },
   {
-    "canon": "सुलैमान के गीत",
+    "canon": "सुलैमान की स्तुतियाँ",
     "aliases": [
+      "सुलैमान की स्तुतियाँ",
       "सुलैमान के गीत",
       "Odes of Solomon"
     ],
@@ -1191,6 +1215,34 @@
     "aliases": [
       "एलिय्याह का प्रकाशन",
       "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "निकुदेमुस का सुसमाचार (पीलातुस के कार्य)",
+    "aliases": [
+      "निकुदेमुस का सुसमाचार (पीलातुस के कार्य)",
+      "Gospel of Nicodemus",
+      "Acts of Pilate",
+      "Gospel of Nicodemus (Acts of Pilate)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "बरथोलोमाय का सुसमाचार",
+    "aliases": [
+      "बरथोलोमाय का सुसमाचार",
+      "Gospel of Bartholomew",
+      "Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "मूसा का आरोहण",
+    "aliases": [
+      "मूसा का आरोहण",
+      "Assumption of Moses",
+      "Testament of Moses"
     ],
     "group": "pseudepigrapha"
   }
