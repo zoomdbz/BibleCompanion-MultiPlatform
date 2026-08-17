@@ -120,6 +120,7 @@ import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateMapOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.snapshots.SnapshotStateList
 import androidx.compose.runtime.toMutableStateList
 import androidx.compose.runtime.rememberCoroutineScope
@@ -244,7 +245,16 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
     }
 
     var pendingSearchFocus by remember { mutableStateOf(false) }
-    LaunchedEffect(shortcutAction) {
+    // Android re-delivers the original launch intent when the activity is
+    // recreated, so a rotation would re-fire the shortcut or deep link and
+    // yank the reader off their page (a feast-calendar widget launch turned
+    // every rotation into a jump back to the calendar). The flag survives
+    // configuration changes, so the start destination is consumed exactly
+    // once per real launch and rotation restores the back stack untouched.
+    var startNavConsumed by rememberSaveable { mutableStateOf(false) }
+    LaunchedEffect(shortcutAction, deepLinkRoute) {
+      if (startNavConsumed) return@LaunchedEffect
+      startNavConsumed = true
       when (shortcutAction) {
         "search" -> {
           // Make sure we're on Home, then trigger focus via state.
@@ -266,9 +276,6 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
           }
         }
       }
-    }
-
-    LaunchedEffect(deepLinkRoute) {
       if (deepLinkRoute != null) {
         nav.navigate(deepLinkRoute) { launchSingleTop = true }
       }
@@ -2067,6 +2074,21 @@ fun BookScreen(
                           contentPadding = PaddingValues(0.dp),
                           shape = RoundedCornerShape(8.dp)
                         ) { Text(stringResource(Res.string.intro_short)) }
+                      }
+                      // Named front matter (the Sirach prologue) sits between
+                      // the intro and chapter 1, lettered by its first initial.
+                      for (sp in index?.specials.orEmpty()) {
+                        ElevatedButton(
+                          onClick = {
+                            if (sp.storyId !in expandedStoryIds) expandedStoryIds = expandedStoryIds + sp.storyId
+                            showChapters = false
+                            selectedChapter = null
+                            storyIndex[sp.storyId]?.let { idx -> scope.launch { listState.scrollToItem(idx) } }
+                          },
+                          modifier = Modifier.size(48.dp),
+                          contentPadding = PaddingValues(0.dp),
+                          shape = RoundedCornerShape(8.dp)
+                        ) { Text(sp.label.take(1).uppercase()) }
                       }
                       for (c in 1..maxChapter) {
                         ElevatedButton(

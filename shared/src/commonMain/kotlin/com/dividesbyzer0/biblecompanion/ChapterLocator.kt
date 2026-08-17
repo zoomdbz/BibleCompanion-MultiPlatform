@@ -2,85 +2,43 @@ package com.dividesbyzer0.biblecompanion
 
 object ChapterLocator {
 
+    data class Special(val storyId: String, val label: String)
+
     data class Index(
-        val byChapter: Map<Int, String>
+        val byChapter: Map<Int, String>,
+        val specials: List<Special> = emptyList()
     )
 
+    // Chapters come from the story ids themselves: every story id ends in its
+    // chapter number ("genesis-3", "psalm-151-1", "2_enoch-68"), an invariant
+    // that holds across all 99 books in all 13 languages. The refs lines are
+    // localized prose ("Bel and the Dragon 1:1-42", "Bel und der Drache 1-42",
+    // "Вил и Дракон 0-42") and parsing them yielded an empty map for English
+    // Bel (the word "and" read as a list separator), chapter 1511 for
+    // Psalm 151, and 42 phantom chapters for German Bel, so refs are no
+    // longer consulted at all.
     fun build(book: Book): Index {
-        val targetBookKey = key(book.id)
+        // A single-story book is chapter 1 regardless of its id tail: nine
+        // languages ship song_of_three with id "...-3" while its verse
+        // markers say (1:x), and the verse grid keys off the markers.
+        book.stories.singleOrNull()?.let { only ->
+            return Index(byChapter = mapOf(1 to only.id))
+        }
+
         val claim = linkedMapOf<Int, String>()
-
+        val specials = mutableListOf<Special>()
         for (story in book.stories) {
-            for (refLine in story.refs) {
-                val chapters = extractChapters(refLine, targetBookKey)
-                for (chap in chapters) {
-                    if (chap !in claim) claim[chap] = story.id
-                }
-            }
-        }
-
-        return Index(byChapter = claim)
-    }
-
-    private fun key(name: String): String {
-        val letters = name.lowercase().replace(Regex("[^a-z]"), "")
-        return if (letters.length >= 3) letters.substring(0, 3) else letters
-    }
-
-    private fun extractChapters(line: String, targetBookKey: String): Set<Int> {
-        val cleaned = line
-            .replace('\u2014', '-')
-            .replace('\u2013', '-')
-            .replace(Regex("\\(.*?\\)"), " ")
-            .trim()
-
-        val segments = cleaned.split(Regex("\\s*(?:;|,|\\band\\b|&|\\|)\\s*"))
-            .map { it.trim() }
-            .filter { it.isNotEmpty() }
-
-        val out = linkedSetOf<Int>()
-        var carryBookKey: String? = null
-
-        for (seg in segments) {
-            val m = Regex("^([1-3]?\\s*\\p{L}[\\p{L}\\s]+?)\\s+(.+)$").find(seg)
-            val (segBookKey, restRaw) = if (m != null) {
-                key(m.groupValues[1]) to m.groupValues[2].trim()
+            val tail = story.id.substringAfterLast('-')
+            val chap = tail.toIntOrNull()
+            if (chap != null) {
+                if (chap !in claim) claim[chap] = story.id
             } else {
-                null to seg
+                // Non-numeric tails are named front matter, e.g. the English
+                // Sirach translator's prologue ("sirach-prologue"). Surfaced
+                // in the chapter picker as a lettered button before chapter 1.
+                specials += Special(story.id, tail)
             }
-
-            val segBook = segBookKey ?: carryBookKey ?: targetBookKey
-            if (segBookKey != null) carryBookKey = segBookKey
-            if (segBook != targetBookKey) continue
-
-            val rest = restRaw.replace(" ", "")
-
-            var mm = Regex("^(\\d+):(\\d+)-(\\d+):(\\d+)$").matchEntire(rest)
-            if (mm != null) {
-                val c1 = mm.groupValues[1].toInt()
-                val c2 = mm.groupValues[3].toInt()
-                for (c in minOf(c1, c2)..maxOf(c1, c2)) out.add(c)
-                continue
-            }
-
-            mm = Regex("^(\\d+):(\\d+)-(\\d+)$").matchEntire(rest)
-            if (mm != null) { out.add(mm.groupValues[1].toInt()); continue }
-
-            mm = Regex("^(\\d+):(\\d+)$").matchEntire(rest)
-            if (mm != null) { out.add(mm.groupValues[1].toInt()); continue }
-
-            mm = Regex("^(\\d+)-(\\d+)$").matchEntire(rest)
-            if (mm != null) {
-                val c1 = mm.groupValues[1].toInt()
-                val c2 = mm.groupValues[2].toInt()
-                for (c in minOf(c1, c2)..maxOf(c1, c2)) out.add(c)
-                continue
-            }
-
-            mm = Regex("^(\\d+)$").matchEntire(rest)
-            if (mm != null) { out.add(mm.groupValues[1].toInt()); continue }
         }
-
-        return out
+        return Index(byChapter = claim, specials = specials)
     }
 }
