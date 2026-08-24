@@ -12,7 +12,7 @@ Uma «lua de sangue» ocorre durante um eclipse lunar total, quando a lua se tor
 
 ### Luas de Sangue em Tétrades e Eclipses de Festas (1493 até 2033)
 
-Uma tétrade é composta por quatro eclipses lunares totais consecutivos, cada um separado por aproximadamente seis meses. Várias tétrades coincidiram exatamente com a Páscoa e Sucot. A janela de 2024–2026 adiciona um novo padrão: um eclipse solar total na véspera de Nisã 1, um eclipse solar anular em Rosh Hashanah, e luas de sangue de Purim consecutivas. Após um período tranquilo de 2027–2031 sem alinhamentos de festas, 2032 produz uma lua de sangue em Pesach Sheni, e 2033 concentra quatro eclipses alinhados a festas em um único ano: um eclipse solar total na véspera de Nisã 1, uma lua de sangue de Páscoa, um eclipse solar parcial na véspera de Rosh Hashanah, e uma lua de sangue de Sucot.
+Uma tétrade é composta por quatro eclipses lunares totais consecutivos, cada um separado por aproximadamente seis meses. Várias tétrades coincidiram exatamente com a Páscoa e Sucot. A janela de 2024–2027 adiciona um novo padrão: um eclipse solar total na véspera de Nisã 1, um eclipse solar anular em Rosh Hashanah, e um eclipse lunar em uma observância de Purim em quatro anos consecutivos, os dois centrais sendo luas de sangue totais, emoldurados por eclipses penumbrais em Shushan Purim 5784 e Purim Katan 5787. Após um período tranquilo de 2028–2031 sem alinhamentos de festas, 2032 produz uma lua de sangue em Pesach Sheni, e 2033 concentra quatro eclipses alinhados a festas em um único ano: um eclipse solar total na véspera de Nisã 1, uma lua de sangue de Páscoa, um eclipse solar parcial na véspera de Rosh Hashanah, e uma lua de sangue de Sucot.
 
 | Ano(s) | Tipo | Eventos Circundantes | Alinhamento com Festa |
 |---------|------|----------------------|----------------------|
@@ -20,17 +20,19 @@ Uma tétrade é composta por quatro eclipses lunares totais consecutivos, cada u
 | 1949–1950 | Tétrade (4 eclipses lunares totais) | Estado de Israel restaurado (14 de maio de 1948) | Páscoa e Sucot, ambos os anos |
 | 1967–1968 | Tétrade (4 eclipses lunares totais) | Guerra dos Seis Dias; Jerusalém reunificada | Páscoa e Sucot, ambos os anos |
 | 2014–2015 | Tétrade mais 2 eclipses solares | Alinhamento moderno mais citado | Páscoa e Sucot, ambos os anos |
+| 2024 | Eclipse lunar penumbral | Primeiro de quatro eclipses lunares alinhados a Purim em quatro anos | Shushan Purim (24–25 de mar, 15 de Adar II 5784) |
 | 2024 | Eclipse solar total | «Grande Eclipse Americano», de costa a costa | Véspera de Nisã 1 (8 de abr, 29 de Adar II 5784) |
 | 2024 | Eclipse solar anular | Caminho do «anel de fogo» através das Américas | Rosh Hashanah (2 de out, 1º de Tishrei 5785) |
-| 2025 | Lunar total (lua de sangue) | Primeira de duas luas de sangue consecutivas de Purim | Purim (14 de mar, 14 de Adar 5785) |
-| 2026 | Lunar total (lua de sangue) | Segunda lua de sangue consecutiva de Purim | Purim (3 de mar, 14 de Adar 5786) |
+| 2025 | Lunar total (lua de sangue) | Segundo dos quatro; primeira lua de sangue | Purim (13–14 de mar, 14 de Adar 5785) |
+| 2026 | Lunar total (lua de sangue) | Terceiro dos quatro; segunda lua de sangue consecutiva de Purim | Purim (2–3 de mar, 14 de Adar 5786) |
+| 2027 | Eclipse lunar penumbral | Quarto dos quatro, fechando a sequência de Purim | Purim Katan (20–21 de fev, 14 de Adar I 5787) |
 | 2032 | Lunar total (lua de sangue) | Visível de Israel; comemoração da segunda Páscoa | Pesach Sheni (25 de abr, 14 de Iyyar 5792) |
 | 2033 | Eclipse solar total | Um dia antes do ano novo bíblico | Véspera de Nisã 1 (30 de mar, 29 de Adar II 5793) |
 | 2033 | Lunar total (lua de sangue) | Primeira lua de sangue de Páscoa desde 2015 | Páscoa (14 de abr, 15 de Nisã 5793) |
 | 2033 | Eclipse solar parcial | Um dia antes da Festa das Trombetas | Véspera de Rosh Hashanah (23 de set, 29 de Elul 5793) |
 | 2033 | Lunar total (lua de sangue) | Mesmo ano, pareada com a lua de sangue de Páscoa | Sucot (8 de out, 15 de Tishrei 5794) |
 
-As tétrades históricas coincidem com grandes pontos de virada na história judaica. O agrupamento de 2024–2033 não forma uma tétrade, mas contém as primeiras luas de sangue em dias de festa desde 2015 e concentra quatro eclipses alinhados a festas apenas em 2033. Se esses alinhamentos têm peso profético é uma questão de interpretação; os eventos astronômicos em si são fatos documentados.
+As tétrades históricas coincidem com grandes pontos de virada na história judaica. O agrupamento de 2024–2033 não forma uma tétrade, mas contém as primeiras luas de sangue em dias de festa desde 2015, um eclipse lunar em uma observância de Purim em quatro anos consecutivos (5784–5787), e quatro eclipses alinhados a festas concentrados apenas em 2033. Se esses alinhamentos têm peso profético é uma questão de interpretação; os eventos astronômicos em si são fatos documentados.
 
 ---
 
@@ -119,18 +121,20 @@ Os céus não são adorados (Deuteronômio 4:19), mas são lidos; eles declaram 
 
 ---
 
-## 2024–2026: Um Aglomerado de Sinais Celestes
+## 2024–2027: Um Aglomerado de Sinais Celestes
 
-Uma concentração incomum de eclipses alinhados com os dias festivos hebraicos ocorreu ao longo de 2024–2026. As datas abaixo são verificadas pelo catálogo de eclipses da NASA e pelo calendário hebraico Hebcal.
+Uma concentração incomum de eclipses alinhados com os dias festivos hebraicos ocorre ao longo de 2024–2027. As datas abaixo são verificadas pelo catálogo de eclipses da NASA e pelo calendário hebraico Hebcal.
 
-### Luas de Sangue em Purim
+### Eclipses Lunares em Purim: Quatro Anos Seguidos
 
-Eclipses lunares totais (luas de sangue) ocorreram em **Purim**, o 14º de Adar, em dois anos consecutivos:
+Em quatro anos consecutivos, um eclipse lunar cai em uma observância de Purim. Dois eclipses penumbrais emolduram duas luas de sangue totais:
 
-- **14 de março de 2025:** Eclipse lunar total (~65 minutos de totalidade), 14 Adar 5785, **Purim**
-- **3 de março de 2026:** Eclipse lunar total (~58 minutos de totalidade), 14 Adar 5786, **Purim**
+- **24–25 de março de 2024:** Eclipse lunar penumbral, 15 Adar II 5784, **Shushan Purim** (o Purim das cidades muradas, Ester 9:18)
+- **13–14 de março de 2025:** Eclipse lunar total (lua de sangue, ~65 minutos de totalidade), 14 Adar 5785, **Purim**
+- **2–3 de março de 2026:** Eclipse lunar total (lua de sangue, ~58 minutos de totalidade), 14 Adar 5786, **Purim**
+- **20–21 de fevereiro de 2027:** Eclipse lunar penumbral, 14 Adar I 5787, **Purim Katan** (o Purim de Adar I nos anos bissextos)
 
-Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm precedente nos tempos modernos. Purim não é um dia festivo de Levítico 23, mas comemora a libertação de Israel do genocídio (Ester 9:20–22). O livro de Esther nunca nomeia Deus, mas Sua mão é visível em toda parte.
+Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm precedente nos tempos modernos, e aqui elas chegam emolduradas por eclipses penumbrais em Shushan Purim antes e em Purim Katan depois: quatro anos, quatro observâncias de Purim, quatro eclipses lunares. Purim não é um dia festivo de Levítico 23, mas comemora a libertação de Israel do genocídio (Ester 9:20–22). O livro de Esther nunca nomeia Deus, mas Sua mão é visível em toda parte.
 
 ### Eclipses Solares
 
@@ -144,6 +148,6 @@ Em **1–5 de fevereiro de 2026**, a região ativa AR4366, um grupo de manchas s
 
 ### Nota
 
-Este período não produz um tétrade (quatro eclipses lunares totais consecutivos na Páscoa e Sukkot, o último foi 2014–2015). O que 2024–2026 apresenta é um padrão distinto: um eclipse solar em Rosh Hashanah, duas luas de sangue consecutivas de Purim, e uma tempestade solar extraordinária precedendo a segunda.
+Este período não produz uma tétrade no sentido clássico (quatro eclipses lunares totais consecutivos na Páscoa e Sukkot; a última foi 2014–2015), e outros eclipses de fato ocorrem entre estes quatro. O que 2024–2027 apresenta é um padrão distinto: um eclipse solar em Rosh Hashanah, um eclipse lunar em uma observância de Purim em quatro anos consecutivos, dois deles luas de sangue, e uma tempestade solar extraordinária precedendo a segunda lua de sangue.
 
 Lucas 21:25, *«Haverá sinais no sol, na lua e nas estrelas.»* Esses alinhamentos são fatos documentados. Seu significado final pertence apenas a Deus.

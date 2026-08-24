@@ -12,7 +12,7 @@ Una «luna di sangue» si verifica durante un'eclissi lunare totale, quando la l
 
 ### Lune di Sangue in Tetrade e Eclissi nelle Festività (1493-2033)
 
-Una tetrade è una sequenza di quattro eclissi lunari totali consecutive, ciascuna separata da circa sei mesi. Diverse tetradi si sono verificate esattamente in corrispondenza della Pasqua e di Sukkot. La finestra 2024–2026 aggiunge un nuovo schema: un'eclissi solare totale alla vigilia di Nisan 1, un'eclissi solare anulare a Rosh Hashanah, e lune di sangue di Purim consecutive. Dopo un periodo tranquillo 2027–2031 senza allineamenti festivi, il 2032 produce una luna di sangue a Pesach Sheni, e il 2033 concentra quattro eclissi allineate alle festività in un solo anno: un'eclissi solare totale alla vigilia di Nisan 1, una luna di sangue di Pasqua, un'eclissi solare parziale alla vigilia di Rosh Hashanah, e una luna di sangue di Sukkot.
+Una tetrade è una sequenza di quattro eclissi lunari totali consecutive, ciascuna separata da circa sei mesi. Diverse tetradi si sono verificate esattamente in corrispondenza della Pasqua e di Sukkot. La finestra 2024–2027 aggiunge un nuovo schema: un'eclissi solare totale alla vigilia di Nisan 1, un'eclissi solare anulare a Rosh Hashanah, e un'eclissi lunare in una ricorrenza di Purim per quattro anni consecutivi, di cui le due centrali sono lune di sangue totali, incorniciate da eclissi di penombra a Shushan Purim 5784 e Purim Katan 5787. Dopo un periodo tranquillo 2028–2031 senza allineamenti festivi, il 2032 produce una luna di sangue a Pesach Sheni, e il 2033 concentra quattro eclissi allineate alle festività in un solo anno: un'eclissi solare totale alla vigilia di Nisan 1, una luna di sangue di Pasqua, un'eclissi solare parziale alla vigilia di Rosh Hashanah, e una luna di sangue di Sukkot.
 
 | Anno(i) | Tipo | Eventi Circostanti | Allineamento con la Festività |
 |---------|------|--------------------|-----------------|
@@ -20,17 +20,19 @@ Una tetrade è una sequenza di quattro eclissi lunari totali consecutive, ciascu
 | 1949–1950 | Tetrade (4 eclissi lunari totali) | Stato di Israele rinato (14 maggio 1948) | Pasqua e Sukkot, entrambi gli anni |
 | 1967–1968 | Tetrade (4 eclissi lunari totali) | Guerra dei Sei Giorni; Gerusalemme riunificata | Pasqua e Sukkot, entrambi gli anni |
 | 2014–2015 | Tetrade più 2 eclissi solari | Allineamento moderno più citato | Pasqua e Sukkot, entrambi gli anni |
+| 2024 | Eclissi lunare di penombra | Prima di quattro eclissi lunari allineate a Purim in quattro anni | Shushan Purim (24–25 mar, 15 Adar II 5784) |
 | 2024 | Eclissi solare totale | «Grande Eclissi Americana,» da costa a costa | Vigilia di Nisan 1 (8 apr, 29 Adar II 5784) |
 | 2024 | Eclissi solare anulare | Percorso dell'«Anello di fuoco» attraverso le Americhe | Rosh Hashanah (2 ott, 1 Tishrei 5785) |
-| 2025 | Eclissi lunare totale (luna di sangue) | Prima di due consecutive lune di sangue di Purim | Purim (14 mar, 14 Adar 5785) |
-| 2026 | Eclissi lunare totale (luna di sangue) | Seconda luna di sangue di Purim consecutiva | Purim (3 mar, 14 Adar 5786) |
+| 2025 | Eclissi lunare totale (luna di sangue) | Seconda delle quattro; prima luna di sangue | Purim (13–14 mar, 14 Adar 5785) |
+| 2026 | Eclissi lunare totale (luna di sangue) | Terza delle quattro; seconda luna di sangue di Purim consecutiva | Purim (2–3 mar, 14 Adar 5786) |
+| 2027 | Eclissi lunare di penombra | Quarta delle quattro, a chiusura della sequenza di Purim | Purim Katan (20–21 feb, 14 Adar I 5787) |
 | 2032 | Eclissi lunare totale (luna di sangue) | Visibile da Israele; commemorazione della seconda Pasqua | Pesach Sheni (25 apr, 14 Iyyar 5792) |
 | 2033 | Eclissi solare totale | Il giorno prima del nuovo anno biblico | Vigilia di Nisan 1 (30 mar, 29 Adar II 5793) |
 | 2033 | Eclissi lunare totale (luna di sangue) | Prima luna di sangue di Pasqua dal 2015 | Pasqua (14 apr, 15 Nisan 5793) |
 | 2033 | Eclissi solare parziale | Il giorno prima della Festa delle Trombe | Vigilia di Rosh Hashanah (23 set, 29 Elul 5793) |
 | 2033 | Eclissi lunare totale (luna di sangue) | Lo stesso anno, abbinata alla luna di sangue di Pasqua | Sukkot (8 ott, 15 Tishrei 5794) |
 
-Le tetradi storiche coincidono con punti di svolta importanti nella storia ebraica. L'insieme 2024–2033 non forma una tetrade, ma contiene le prime lune di sangue allineate alle festività dal 2015 e concentra quattro eclissi allineate alle festività solo nel 2033. Se questi allineamenti abbiano un significato profetico è una questione di interpretazione; gli eventi astronomici in sé sono fatti documentati.
+Le tetradi storiche coincidono con punti di svolta importanti nella storia ebraica. L'insieme 2024–2033 non forma una tetrade, ma contiene le prime lune di sangue allineate alle festività dal 2015, un'eclissi lunare in una ricorrenza di Purim per quattro anni consecutivi (5784–5787), e concentra quattro eclissi allineate alle festività solo nel 2033. Se questi allineamenti abbiano un significato profetico è una questione di interpretazione; gli eventi astronomici in sé sono fatti documentati.
 
 ---
 ## Eclissi solari
@@ -115,18 +117,20 @@ I cieli non sono adorati (Deuteronomio 4:19), ma sono letti; dichiarano la glori
 
 ---
 
-## 2024–2026: Un Ammasso di Segni Celesti
+## 2024–2027: Un Ammasso di Segni Celesti
 
-Un'insolita concentrazione di eclissi allineate con le festività ebraiche si è verificata nel 2024–2026. Le date seguenti sono verificate dal catalogo delle eclissi della NASA e dal calendario ebraico Hebcal.
+Un'insolita concentrazione di eclissi allineate con le festività ebraiche si verifica nel 2024–2027. Le date seguenti sono verificate dal catalogo delle eclissi della NASA e dal calendario ebraico Hebcal.
 
-### Lune di Sangue a Purim
+### Eclissi Lunari a Purim: Quattro Anni di Seguito
 
-Le eclissi lunari totali (lune di sangue) si sono verificate a **Purim**, il 14º di Adar, in due anni consecutivi:
+In quattro anni consecutivi, un'eclissi lunare cade in una ricorrenza di Purim. Due eclissi di penombra incorniciano due lune di sangue totali:
 
-- **14 marzo 2025:** Eclissi lunare totale (~65 minuti di totalità), 14 Adar 5785, **Purim**
-- **3 marzo 2026:** Eclissi lunare totale (~58 minuti di totalità), 14 Adar 5786, **Purim**
+- **24–25 marzo 2024:** Eclissi lunare di penombra, 15 Adar II 5784, **Shushan Purim** (il Purim delle città murate, Ester 9:18)
+- **13–14 marzo 2025:** Eclissi lunare totale (luna di sangue, ~65 minuti di totalità), 14 Adar 5785, **Purim**
+- **2–3 marzo 2026:** Eclissi lunare totale (luna di sangue, ~58 minuti di totalità), 14 Adar 5786, **Purim**
+- **20–21 febbraio 2027:** Eclissi lunare di penombra, 14 Adar I 5787, **Purim Katan** (il Purim di Adar I negli anni embolismici)
 
-Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi non hanno precedenti moderni. Purim non è una festa di Leviticus 23, ma commemora la liberazione di Israele dal genocidio (Ester 9:20–22). Il libro di Esther non nomina mai Dio, eppure la Sua mano è visibile ovunque.
+Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi non hanno precedenti moderni, e qui arrivano incorniciate da eclissi di penombra a Shushan Purim prima e a Purim Katan dopo: quattro anni, quattro ricorrenze di Purim, quattro eclissi lunari. Purim non è una festa di Leviticus 23, ma commemora la liberazione di Israele dal genocidio (Ester 9:20–22). Il libro di Esther non nomina mai Dio, eppure la Sua mano è visibile ovunque.
 
 ### Eclissi Solari
 
@@ -140,6 +144,6 @@ Dal **1º al 5 febbraio 2026**, la regione attiva AR4366, un gruppo di macchie s
 
 ### Nota
 
-Questo periodo non produce una tetrade (quattro eclissi lunari totali consecutive a Passover e Sukkot, l'ultima è stata 2014–2015). Quello che 2024–2026 presenta è uno schema distinto: un'eclissi solare a Rosh Hashanah, due lune di sangue consecutive a Purim, e una tempesta solare straordinaria che precede la seconda.
+Questo periodo non produce una tetrade nel senso classico (quattro eclissi lunari totali consecutive a Passover e Sukkot, l'ultima è stata 2014–2015), e altre eclissi cadono comunque tra queste quattro. Quello che 2024–2027 presenta è uno schema distinto: un'eclissi solare a Rosh Hashanah, un'eclissi lunare in una ricorrenza di Purim per quattro anni consecutivi, di cui due lune di sangue, e una tempesta solare straordinaria che precede la seconda luna di sangue.
 
 Luke 21:25, *«Ci saranno segni nel sole, nella luna e nelle stelle.»* Questi allineamenti sono fatti documentati. Il loro significato ultimo appartiene solo a Dio.

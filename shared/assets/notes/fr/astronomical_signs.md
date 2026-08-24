@@ -12,7 +12,7 @@ Une « lune de sang » se produit lors d'une éclipse lunaire totale, quand la
 
 ### Tétrades de Lunes de Sang et Éclipses des Fêtes (1493 à 2033)
 
-Une tétrade est quatre éclipses lunaires totales consécutives, chacune séparée d'environ six mois. Plusieurs tétrades ont coïncidé exactement avec la Pâque et Souccot. La fenêtre 2024-2026 ajoute un nouveau schéma: une éclipse solaire totale la veille du 1er Nisan, une éclipse solaire annulaire à Rosh Hashanah, et des lunes de sang consécutives de Pourim. Après une période calme 2027-2031 sans alignements de fêtes, 2032 produit une lune de sang à Pesach Sheni, et 2033 concentre quatre éclipses alignées aux fêtes en une seule année: une éclipse solaire totale la veille du 1er Nisan, une lune de sang de Pâque, une éclipse solaire partielle la veille de Rosh Hashanah, et une lune de sang de Souccot.
+Une tétrade est quatre éclipses lunaires totales consécutives, chacune séparée d'environ six mois. Plusieurs tétrades ont coïncidé exactement avec la Pâque et Souccot. La fenêtre 2024-2027 ajoute un nouveau schéma: une éclipse solaire totale la veille du 1er Nisan, une éclipse solaire annulaire à Rosh Hashanah, et une éclipse lunaire lors d'une observance de Pourim pendant quatre années consécutives, les deux centrales étant des lunes de sang totales, encadrées par des éclipses par la pénombre à Chouchan Pourim 5784 et à Pourim Katan 5787. Après une période calme 2028-2031 sans alignements de fêtes, 2032 produit une lune de sang à Pesach Sheni, et 2033 concentre quatre éclipses alignées aux fêtes en une seule année: une éclipse solaire totale la veille du 1er Nisan, une lune de sang de Pâque, une éclipse solaire partielle la veille de Rosh Hashanah, et une lune de sang de Souccot.
 
 | Année(s) | Type | Événements environnants | Alignement aux fêtes |
 |---------|------|--------------------|-----------------|
@@ -20,17 +20,19 @@ Une tétrade est quatre éclipses lunaires totales consécutives, chacune sépar
 | 1949-1950 | Tétrade (4 éclipses lunaires totales) | État d'Israël renaît (14 mai 1948) | Pâque et Souccot, les deux années |
 | 1967-1968 | Tétrade (4 éclipses lunaires totales) | Guerre des Six-Jours; Jérusalem réunifiée | Pâque et Souccot, les deux années |
 | 2014-2015 | Tétrade plus 2 éclipses solaires | Alignement moderne le plus cité | Pâque et Souccot, les deux années |
+| 2024 | Éclipse lunaire par la pénombre | Première de quatre éclipses lunaires alignées sur Pourim en quatre ans | Chouchan Pourim (24–25 mar., 15 Adar II 5784) |
 | 2024 | Éclipse solaire totale | « Grande Éclipse Américaine, » d'une côte à l'autre | Veille du 1er Nisan (8 avr., 29 Adar II 5784) |
 | 2024 | Éclipse solaire annulaire | Chemin de l'« anneau de feu » à travers les Amériques | Rosh Hashanah (2 oct., 1er Tishrei 5785) |
-| 2025 | Éclipse lunaire totale (lune de sang) | Première de deux lunes de sang consécutives de Pourim | Pourim (14 mar., 14 Adar 5785) |
-| 2026 | Éclipse lunaire totale (lune de sang) | Deuxième lune de sang consécutive de Pourim | Pourim (3 mar., 14 Adar 5786) |
+| 2025 | Éclipse lunaire totale (lune de sang) | Deuxième des quatre; première lune de sang | Pourim (13–14 mar., 14 Adar 5785) |
+| 2026 | Éclipse lunaire totale (lune de sang) | Troisième des quatre; deuxième lune de sang consécutive de Pourim | Pourim (2–3 mar., 14 Adar 5786) |
+| 2027 | Éclipse lunaire par la pénombre | Quatrième des quatre, clôturant la séquence de Pourim | Pourim Katan (20–21 fév., 14 Adar I 5787) |
 | 2032 | Éclipse lunaire totale (lune de sang) | Visible depuis Israël; commémoration de la deuxième Pâque | Pesach Sheni (25 avr., 14 Iyyar 5792) |
 | 2033 | Éclipse solaire totale | Jour avant la nouvelle année biblique | Veille du 1er Nisan (30 mar., 29 Adar II 5793) |
 | 2033 | Éclipse lunaire totale (lune de sang) | Première lune de sang de Pâque depuis 2015 | Pâque (14 avr., 15 Nisan 5793) |
 | 2033 | Éclipse solaire partielle | Jour avant la Fête des Trompettes | Veille de Rosh Hashanah (23 sep., 29 Elul 5793) |
 | 2033 | Éclipse lunaire totale (lune de sang) | Même année, appariée avec la lune de sang de Pâque | Souccot (8 oct., 15 Tishrei 5794) |
 
-Les tétrades historiques coïncident avec les tournants majeurs de l'histoire juive. L'ensemble 2024-2033 ne forme pas une tétrade mais contient les premières lunes de sang des jours de fête depuis 2015 et concentre quatre éclipses alignées aux fêtes en 2033 seul. Que ces alignements portent un poids prophétique est une question d'interprétation; les événements astronomiques eux-mêmes sont un fait documenté.
+Les tétrades historiques coïncident avec les tournants majeurs de l'histoire juive. L'ensemble 2024-2033 ne forme pas une tétrade mais contient les premières lunes de sang des jours de fête depuis 2015, une éclipse lunaire lors d'une observance de Pourim pendant quatre années consécutives (5784-5787), et concentre quatre éclipses alignées aux fêtes en 2033 seul. Que ces alignements portent un poids prophétique est une question d'interprétation; les événements astronomiques eux-mêmes sont un fait documenté.
 
 ---
 ## Éclipses Solaires
@@ -114,18 +116,20 @@ Le printemps et l'été 2026 apportent des alignements supplémentaires :
 - **9 juin 2026 :** Conjonction Jupiter-Vénus dans le ciel du soir. Les conjonctions Jupiter-Vénus sont la classe d'événement la plus couramment proposée comme candidates pour l'Étoile de Bethléem.
 - **12 juin 2026 :** Mercure, Vénus et Jupiter visibles en alignement dans le ciel du soir.
 - **20 février 2026 :** Conjonction Saturne-Neptune à 0° Bélier, le « point de réinitialisation » zodiaque. Cette conjonction se produit tous les 36 ans ; l'alignement exact au début du Bélier est rare.
-## 2024–2026 : Un groupement de signes célestes
+## 2024–2027 : Un groupement de signes célestes
 
-Une concentration inhabituelle d'éclipses s'alignant avec les fêtes hébraïques s'est produite au cours de 2024–2026. Les dates ci-dessous sont vérifiées par le catalogue des éclipses de la NASA et le calendrier hébreu Hebcal.
+Une concentration inhabituelle d'éclipses s'alignant avec les fêtes hébraïques se produit au cours de 2024–2027. Les dates ci-dessous sont vérifiées par le catalogue des éclipses de la NASA et le calendrier hébreu Hebcal.
 
-### Lunes de sang à Pourim
+### Éclipses lunaires à Pourim : Quatre années de suite
 
-Des éclipses lunaires totales (lunes de sang) ont eu lieu à **Pourim**, le 14 Adar, pendant deux années consécutives :
+Pendant quatre années consécutives, une éclipse lunaire tombe lors d'une observance de Pourim. Deux éclipses par la pénombre encadrent deux lunes de sang totales :
 
-- **14 mars 2025 :** Éclipse lunaire totale (~65 minutes de totalité), 14 Adar 5785, **Pourim**
-- **3 mars 2026 :** Éclipse lunaire totale (~58 minutes de totalité), 14 Adar 5786, **Pourim**
+- **24–25 mars 2024 :** Éclipse lunaire par la pénombre, 15 Adar II 5784, **Chouchan Pourim** (le Pourim des villes entourées de murailles, Esther 9:18)
+- **13–14 mars 2025 :** Éclipse lunaire totale (lune de sang, ~65 minutes de totalité), 14 Adar 5785, **Pourim**
+- **2–3 mars 2026 :** Éclipse lunaire totale (lune de sang, ~58 minutes de totalité), 14 Adar 5786, **Pourim**
+- **20–21 février 2027 :** Éclipse lunaire par la pénombre, 14 Adar I 5787, **Pourim Katan** (le Pourim d'Adar I des années embolismiques)
 
-Des lunes de sang consécutives le même jour de fête pendant des années consécutives n'ont pas de précédent moderne. Pourim n'est pas une fête du Lévitique 23, mais elle commémore la délivrance d'Israël du génocide (Esther 9:20–22). Le livre d'Esther ne nomme jamais Dieu, pourtant Sa main est visible partout.
+Des lunes de sang consécutives le même jour de fête pendant des années consécutives n'ont pas de précédent moderne, et elles arrivent ici encadrées par des éclipses par la pénombre à Chouchan Pourim avant et à Pourim Katan après : quatre années, quatre observances de Pourim, quatre éclipses lunaires. Pourim n'est pas une fête du Lévitique 23, mais elle commémore la délivrance d'Israël du génocide (Esther 9:20–22). Le livre d'Esther ne nomme jamais Dieu, pourtant Sa main est visible partout.
 
 ### Éclipses solaires
 
@@ -139,6 +143,6 @@ Du **1er au 5 février 2026**, la région active AR4366, un groupe de taches sol
 
 ### Remarque
 
-Cette période ne produit pas de tétrade (quatre éclipses lunaires totales consécutives à Pessah et Soukot, la dernière était 2014–2015). Ce que 2024–2026 présente est un motif distinct : une éclipse solaire à Rosh Hashanah, deux lunes de sang consécutives de Pourim, et une tempête solaire extraordinaire précédant la deuxième.
+Cette période ne produit pas de tétrade au sens classique (quatre éclipses lunaires totales consécutives à Pessah et Soukot, la dernière était 2014–2015), et d'autres éclipses tombent bel et bien entre ces quatre-là. Ce que 2024–2027 présente est un motif distinct : une éclipse solaire à Rosh Hashanah, une éclipse lunaire lors d'une observance de Pourim pendant quatre années consécutives, dont deux lunes de sang, et une tempête solaire extraordinaire précédant la deuxième lune de sang.
 
 Luc 21:25, *« Il y aura des signes dans le soleil, la lune et les étoiles. »* Ces alignements sont des faits documentés. Leur sens ultime appartient à Dieu seul.

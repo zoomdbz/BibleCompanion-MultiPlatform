@@ -12,7 +12,7 @@ Ein „Blutmond“ entsteht bei einer totalen Mondfinsternis, wenn der Mond sich
 
 ### Blutmond-Tetrade und Fest-Finsternisse (1493 bis 2033)
 
-Eine Tetrade ist eine Folge von vier aufeinanderfolgenden totalen Mondfinsternissen, die jeweils etwa sechs Monate auseinander liegen. Mehrere Tetraden fielen genau auf Passover und Sukkot. Das Zeitfenster 2024–2026 bringt ein neues Muster: eine totale Sonnenfinsternis in der Nacht vor Nisan 1, eine ringförmige Sonnenfinsternis an Rosh Hashanah und aufeinanderfolgende Purim-Blutmonde. Nach einem ruhigen 2027–2031 ohne Fest-Ausrichtungen erzeugt 2032 einen Blutmond auf Pesach Scheni, und 2033 konzentriert vier fest-ausgerichtete Finsternisse in einem einzigen Jahr: eine totale Sonnenfinsternis in der Nacht vor Nisan 1, einen Passover-Blutmond, eine partielle Sonnenfinsternis in der Nacht vor Rosh Hashanah und einen Sukkot-Blutmond.
+Eine Tetrade ist eine Folge von vier aufeinanderfolgenden totalen Mondfinsternissen, die jeweils etwa sechs Monate auseinander liegen. Mehrere Tetraden fielen genau auf Passover und Sukkot. Das Zeitfenster 2024–2027 bringt ein neues Muster: eine totale Sonnenfinsternis in der Nacht vor Nisan 1, eine ringförmige Sonnenfinsternis an Rosh Hashanah und in vier aufeinanderfolgenden Jahren eine Mondfinsternis an einer Purim-Begehung, die beiden mittleren davon totale Blutmonde, eingerahmt von Halbschattenfinsternissen an Schuschan Purim 5784 und Purim Katan 5787. Nach einem ruhigen 2028–2031 ohne Fest-Ausrichtungen erzeugt 2032 einen Blutmond auf Pesach Scheni, und 2033 konzentriert vier fest-ausgerichtete Finsternisse in einem einzigen Jahr: eine totale Sonnenfinsternis in der Nacht vor Nisan 1, einen Passover-Blutmond, eine partielle Sonnenfinsternis in der Nacht vor Rosh Hashanah und einen Sukkot-Blutmond.
 
 | Jahr(e) | Typ | Umgebende Ereignisse | Fest-Ausrichtung |
 |---------|------|--------------------|-----------------|
@@ -20,17 +20,19 @@ Eine Tetrade ist eine Folge von vier aufeinanderfolgenden totalen Mondfinsternis
 | 1949–1950 | Tetrade (4 totale Lunare) | Staat Israel wiedergeboren (14. Mai 1948) | Passover und Sukkot, beide Jahre |
 | 1967–1968 | Tetrade (4 totale Lunare) | Sechstagekrieg; Jerusalem wiedervereint | Passover und Sukkot, beide Jahre |
 | 2014–2015 | Tetrade plus 2 Sonnenfinsternisse | Am häufigsten zitierte moderne Ausrichtung | Passover und Sukkot, beide Jahre |
+| 2024 | Halbschatten-Mondfinsternis | Erste von vier Purim-ausgerichteten Mondfinsternissen in vier Jahren | Schuschan Purim (24.–25. März, 15 Adar II 5784) |
 | 2024 | Totale Sonnenfinsternis | „Große amerikanische Finsternis“, von Küste zu Küste | Nacht vor Nisan 1 (8. Apr., 29 Adar II 5784) |
 | 2024 | Ringförmige Sonnenfinsternis | „Feuerring“-Pfad über Amerika | Rosh Hashanah (2. Okt., 1 Tishrei 5785) |
-| 2025 | Totale Mondfinsternis (Blutmond) | Erste von zwei aufeinanderfolgenden Purim-Blutmonden | Purim (14. März, 14 Adar 5785) |
-| 2026 | Totale Mondfinsternis (Blutmond) | Zweiter aufeinanderfolgender Purim-Blutmond | Purim (3. März, 14 Adar 5786) |
+| 2025 | Totale Mondfinsternis (Blutmond) | Zweite der vier; erster Blutmond | Purim (13.–14. März, 14 Adar 5785) |
+| 2026 | Totale Mondfinsternis (Blutmond) | Dritte der vier; zweiter aufeinanderfolgender Purim-Blutmond | Purim (2.–3. März, 14 Adar 5786) |
+| 2027 | Halbschatten-Mondfinsternis | Vierte der vier, Abschluss der Purim-Folge | Purim Katan (20.–21. Feb., 14 Adar I 5787) |
 | 2032 | Totale Mondfinsternis (Blutmond) | Sichtbar von Israel; zweite Passover-Begehung | Pesach Scheni (25. Apr., 14 Iyyar 5792) |
 | 2033 | Totale Sonnenfinsternis | Tag vor dem biblischen Neujahr | Nacht vor Nisan 1 (30. März, 29 Adar II 5793) |
 | 2033 | Totale Mondfinsternis (Blutmond) | Erster Passover-Blutmond seit 2015 | Passover (14. Apr., 15 Nisan 5793) |
 | 2033 | Partielle Sonnenfinsternis | Tag vor dem Fest der Posaunen | Nacht vor Rosh Hashanah (23. Sep., 29 Elul 5793) |
 | 2033 | Totale Mondfinsternis (Blutmond) | Im selben Jahr, gekoppelt mit dem Passover-Blutmond | Sukkot (8. Okt., 15 Tishrei 5794) |
 
-Die historischen Tetraden fallen mit großen Wendepunkten der jüdischen Geschichte zusammen. Der Cluster 2024–2033 bildet keine Tetrade, enthält aber die ersten Fest-Blutmonde seit 2015 und konzentriert vier fest-ausgerichtete Finsternisse allein im Jahr 2033. Ob diese Ausrichtungen prophetisches Gewicht haben, ist eine Frage der Auslegung; die astronomischen Ereignisse selbst sind dokumentierte Tatsachen.
+Die historischen Tetraden fallen mit großen Wendepunkten der jüdischen Geschichte zusammen. Der Cluster 2024–2033 bildet keine Tetrade, enthält aber die ersten Fest-Blutmonde seit 2015, eine Mondfinsternis an einer Purim-Begehung in vier aufeinanderfolgenden Jahren (5784–5787) und vier fest-ausgerichtete Finsternisse, die sich allein im Jahr 2033 konzentrieren. Ob diese Ausrichtungen prophetisches Gewicht haben, ist eine Frage der Auslegung; die astronomischen Ereignisse selbst sind dokumentierte Tatsachen.
 
 ---
 ## Sonnenfinsternisse
@@ -114,18 +116,20 @@ Der Frühling und Sommer 2026 bringen zusätzliche Ausrichtungen:
 - **9. Juni 2026:** Jupiter-Venus-Konjunktion am Abendhimmel. Jupiter-Venus-Konjunktionen sind die Klasse von Ereignissen, die am häufigsten als Kandidaten für den Stern von Bethlehem vorgeschlagen werden.
 - **12. Juni 2026:** Merkur, Venus und Jupiter in Ausrichtung am Abendhimmel sichtbar.
 - **20. Februar 2026:** Saturn-Neptun-Konjunktion bei 0° Widder, dem Zodiakus-„Rücksetzen-Punkt“. Diese Konjunktion tritt alle 36 Jahre auf; die exakte Ausrichtung am Anfang des Widders ist selten.
-## 2024–2026: Eine Häufung himmlischer Zeichen
+## 2024–2027: Eine Häufung himmlischer Zeichen
 
-Eine ungewöhnliche Konzentration von Finsternissen, die mit hebräischen Festtagen übereinstimmen, trat in den Jahren 2024–2026 auf. Die folgenden Daten sind durch den Finsternis-Katalog der NASA und den hebräischen Kalender Hebcal verifiziert.
+Eine ungewöhnliche Konzentration von Finsternissen, die mit hebräischen Festtagen übereinstimmen, tritt in den Jahren 2024–2027 auf. Die folgenden Daten sind durch den Finsternis-Katalog der NASA und den hebräischen Kalender Hebcal verifiziert.
 
-### Blutmonde an Purim
+### Mondfinsternisse an Purim: Vier Jahre in Folge
 
-Totale Mondfinsternisse (Blutmonde) fielen auf **Purim**, den 14. Adar, in zwei aufeinanderfolgenden Jahren:
+In vier aufeinanderfolgenden Jahren fällt eine Mondfinsternis auf eine Purim-Begehung. Zwei Halbschattenfinsternisse rahmen zwei totale Blutmonde ein:
 
-- **14. März 2025:** Totale Mondfinsternis (~65 Minuten Totalität), 14 Adar 5785, **Purim**
-- **3. März 2026:** Totale Mondfinsternis (~58 Minuten Totalität), 14 Adar 5786, **Purim**
+- **24.–25. März 2024:** Halbschatten-Mondfinsternis, 15 Adar II 5784, **Schuschan Purim** (das Purim der ummauerten Städte, Ester 9:18)
+- **13.–14. März 2025:** Totale Mondfinsternis (Blutmond, ~65 Minuten Totalität), 14 Adar 5785, **Purim**
+- **2.–3. März 2026:** Totale Mondfinsternis (Blutmond, ~58 Minuten Totalität), 14 Adar 5786, **Purim**
+- **20.–21. Februar 2027:** Halbschatten-Mondfinsternis, 14 Adar I 5787, **Purim Katan** (das Schaltjahr-Purim im Adar I)
 
-Aufeinanderfolgende Blutmonde am selben Fest in aufeinanderfolgenden Jahren haben kein modernes Präzedenzfall. Purim ist kein Fest aus Levitikus 23, aber es gedenkt Israels Befreiung vor einem Genozid (Ester 9:20–22). Das Buch Ester nennt Gott niemals, doch Seine Hand ist überall sichtbar.
+Aufeinanderfolgende Blutmonde am selben Fest in aufeinanderfolgenden Jahren haben keinen modernen Präzedenzfall, und hier erscheinen sie eingerahmt von Halbschattenfinsternissen an Schuschan Purim davor und Purim Katan danach: vier Jahre, vier Purim-Begehungen, vier Mondfinsternisse. Purim ist kein Fest aus Levitikus 23, aber es gedenkt Israels Befreiung vor einem Genozid (Ester 9:20–22). Das Buch Ester nennt Gott niemals, doch Seine Hand ist überall sichtbar.
 
 ### Sonnenfinsternisse
 
@@ -139,6 +143,6 @@ Am **1.–5. Februar 2026** brach die aktive Region AR4366, eine Sonnenfleckengr
 
 ### Anmerkung
 
-Dieser Zeitraum erzeugt keine Tetrade (vier aufeinanderfolgende totale Mondfinsternisse an Pessach und Sukkot, die letzte war 2014–2015). Was 2024–2026 bietet, ist ein eigenständiges Muster: eine Sonnenfinsternis an Rosh Hashanah, zwei aufeinanderfolgende Purim-Blutmonde und ein außergewöhnlicher Sonnensturm vor dem zweiten.
+Dieser Zeitraum erzeugt keine Tetrade im klassischen Sinne (vier aufeinanderfolgende totale Mondfinsternisse an Pessach und Sukkot, die letzte war 2014–2015), und zwischen diesen vieren liegen durchaus weitere Finsternisse. Was 2024–2027 bietet, ist ein eigenständiges Muster: eine Sonnenfinsternis an Rosh Hashanah, in vier aufeinanderfolgenden Jahren eine Mondfinsternis an einer Purim-Begehung, zwei davon Blutmonde, und ein außergewöhnlicher Sonnensturm vor dem zweiten Blutmond.
 
 Lukas 21:25, *„Es werden Zeichen geschehen an Sonne und Mond und Sternen.“* Diese Übereinstimmungen sind dokumentierte Fakten. Ihre letztendliche Bedeutung gehört Gott allein.

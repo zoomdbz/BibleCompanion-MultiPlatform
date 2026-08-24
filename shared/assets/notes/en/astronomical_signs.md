@@ -12,7 +12,7 @@ A "blood moon" occurs during a total lunar eclipse, when the moon turns red. Joe
 
 ### Blood Moon Tetrads and Feast Eclipses (1493 through 2033)
 
-A tetrad is four consecutive total lunar eclipses, each separated by about six months. Several tetrads have fallen exactly on Passover and Sukkot. The 2024–2026 window adds a new pattern: a total solar eclipse on the eve of Nisan 1, an annular solar eclipse on Rosh Hashanah, and back-to-back Purim blood moons. After a quiet 2027–2031 with no feast alignments, 2032 produces a blood moon on Pesach Sheni, and 2033 concentrates four feast-aligned eclipses in a single year: a total solar on the eve of Nisan 1, a Passover blood moon, a partial solar on the eve of Rosh Hashanah, and a Sukkot blood moon.
+A tetrad is four consecutive total lunar eclipses, each separated by about six months. Several tetrads have fallen exactly on Passover and Sukkot. The 2024–2027 window adds a new pattern: a total solar eclipse on the eve of Nisan 1, an annular solar eclipse on Rosh Hashanah, and a lunar eclipse on a Purim observance in four consecutive years, the two central ones total blood moons, bracketed by penumbral eclipses on Shushan Purim 5784 and Purim Katan 5787. After a quiet 2028–2031 with no feast alignments, 2032 produces a blood moon on Pesach Sheni, and 2033 concentrates four feast-aligned eclipses in a single year: a total solar on the eve of Nisan 1, a Passover blood moon, a partial solar on the eve of Rosh Hashanah, and a Sukkot blood moon.
 
 | Year(s) | Type | Surrounding Events | Feast Alignment |
 |---------|------|--------------------|-----------------|
@@ -20,17 +20,19 @@ A tetrad is four consecutive total lunar eclipses, each separated by about six m
 | 1949–1950 | Tetrad (4 total lunars) | State of Israel reborn (May 14, 1948) | Passover and Sukkot, both years |
 | 1967–1968 | Tetrad (4 total lunars) | Six-Day War; Jerusalem reunified | Passover and Sukkot, both years |
 | 2014–2015 | Tetrad plus 2 solar eclipses | Most-cited modern alignment | Passover and Sukkot, both years |
+| 2024 | Penumbral lunar eclipse | First of four Purim-aligned lunar eclipses in four years | Shushan Purim (Mar 24–25, 15 Adar II 5784) |
 | 2024 | Total solar eclipse | "Great American Eclipse," coast to coast | Eve of Nisan 1 (Apr 8, 29 Adar II 5784) |
 | 2024 | Annular solar eclipse | "Ring of fire" path across the Americas | Rosh Hashanah (Oct 2, 1 Tishrei 5785) |
-| 2025 | Total lunar (blood moon) | First of two consecutive Purim blood moons | Purim (Mar 14, 14 Adar 5785) |
-| 2026 | Total lunar (blood moon) | Second consecutive Purim blood moon | Purim (Mar 3, 14 Adar 5786) |
+| 2025 | Total lunar (blood moon) | Second of the four; first blood moon | Purim (Mar 13–14, 14 Adar 5785) |
+| 2026 | Total lunar (blood moon) | Third of the four; second consecutive Purim blood moon | Purim (Mar 2–3, 14 Adar 5786) |
+| 2027 | Penumbral lunar eclipse | Fourth of the four, closing the Purim sequence | Purim Katan (Feb 20–21, 14 Adar I 5787) |
 | 2032 | Total lunar (blood moon) | Visible from Israel; second Passover commemoration | Pesach Sheni (Apr 25, 14 Iyyar 5792) |
 | 2033 | Total solar eclipse | Day before the biblical new year | Eve of Nisan 1 (Mar 30, 29 Adar II 5793) |
 | 2033 | Total lunar (blood moon) | First Passover blood moon since 2015 | Passover (Apr 14, 15 Nisan 5793) |
 | 2033 | Partial solar eclipse | Day before the Feast of Trumpets | Eve of Rosh Hashanah (Sep 23, 29 Elul 5793) |
 | 2033 | Total lunar (blood moon) | Same year, paired with the Passover blood moon | Sukkot (Oct 8, 15 Tishrei 5794) |
 
-The historical tetrads coincide with major turning points in Jewish history. The 2024–2033 cluster does not form a tetrad but contains the first feast-day blood moons since 2015 and concentrates four feast-aligned eclipses in 2033 alone. Whether these alignments carry prophetic weight is a matter of interpretation; the astronomical events themselves are documented fact.
+The historical tetrads coincide with major turning points in Jewish history. The 2024–2033 cluster does not form a tetrad but contains the first feast-day blood moons since 2015, a lunar eclipse on a Purim observance in four consecutive years (5784–5787), and four feast-aligned eclipses concentrated in 2033 alone. Whether these alignments carry prophetic weight is a matter of interpretation; the astronomical events themselves are documented fact.
 
 ---
 
@@ -116,18 +118,20 @@ The heavens are not worshiped (Deuteronomy 4:19), but they are read; they declar
 
 ---
 
-## 2024–2026: A Cluster of Celestial Signs
+## 2024–2027: A Cluster of Celestial Signs
 
-An unusual concentration of eclipses aligning with Hebrew feast days occurred across 2024–2026. The dates below are verified by NASA's eclipse catalog and the Hebcal Hebrew calendar.
+An unusual concentration of eclipses aligning with Hebrew feast days occurs across 2024–2027. The dates below are verified by NASA's eclipse catalog and the Hebcal Hebrew calendar.
 
-### Blood Moons on Purim
+### Lunar Eclipses on Purim: Four Years Running
 
-Total lunar eclipses (blood moons) fell on **Purim**, the 14th of Adar, in two consecutive years:
+In four consecutive years, a lunar eclipse falls on a Purim observance. Two penumbral eclipses bracket two total blood moons:
 
-- **March 14, 2025:** Total lunar eclipse (~65 minutes of totality), 14 Adar 5785, **Purim**
-- **March 3, 2026:** Total lunar eclipse (~58 minutes of totality), 14 Adar 5786, **Purim**
+- **March 24–25, 2024:** Penumbral lunar eclipse, 15 Adar II 5784, **Shushan Purim** (the Purim of walled cities, Esther 9:18)
+- **March 13–14, 2025:** Total lunar eclipse (blood moon, ~65 minutes of totality), 14 Adar 5785, **Purim**
+- **March 2–3, 2026:** Total lunar eclipse (blood moon, ~58 minutes of totality), 14 Adar 5786, **Purim**
+- **February 20–21, 2027:** Penumbral lunar eclipse, 14 Adar I 5787, **Purim Katan** (the leap-year Purim of Adar I)
 
-Back-to-back blood moons on the same feast in consecutive years has no modern precedent. Purim is not a Leviticus 23 feast, but it commemorates Israel's deliverance from genocide (Esther 9:20–22). The book of Esther never names God, yet His hand is visible throughout.
+Back-to-back blood moons on the same feast in consecutive years has no modern precedent, and here they arrive framed by penumbral eclipses on Shushan Purim before and Purim Katan after: four years, four Purim observances, four lunar eclipses. Purim is not a Leviticus 23 feast, but it commemorates Israel's deliverance from genocide (Esther 9:20–22). The book of Esther never names God, yet His hand is visible throughout.
 
 ### Solar Eclipses
 
@@ -141,6 +145,6 @@ On **February 1–5, 2026**, active region AR4366, a sunspot group 14 times wide
 
 ### Note
 
-This period does not produce a tetrad (four consecutive total lunar eclipses on Passover and Sukkot, the last was 2014–2015). What 2024–2026 presents is a distinct pattern: a solar eclipse on Rosh Hashanah, two consecutive Purim blood moons, and an extraordinary solar storm preceding the second one.
+This period does not produce a tetrad in the classic sense (four consecutive total lunar eclipses on Passover and Sukkot; the last was 2014–2015), and other eclipses do fall between these four. What 2024–2027 presents is a distinct pattern: a solar eclipse on Rosh Hashanah, a lunar eclipse on a Purim observance in four consecutive years, two of them blood moons, and an extraordinary solar storm preceding the second blood moon.
 
 Luke 21:25, *"There will be signs in sun and moon and stars."* These alignments are documented fact. Their ultimate meaning belongs to God alone.
