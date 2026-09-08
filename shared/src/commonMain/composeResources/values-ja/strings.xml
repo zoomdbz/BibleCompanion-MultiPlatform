@@ -58,6 +58,7 @@
     <string name="about_free_text">無料、広告も収益化もありません。すべての栄光を神に。</string>
     <!-- values-ja/strings.xml (Japanese) -->
     <string name="jesus_divinity">イエスの神性</string>
+    <string name="jesus_identity">イエスのアイデンティティ</string>
     <string name="gospel">福音</string>
     <string name="dc_not_available_title">申命外典は「%1$s」にありません</string>
     <string name="dc_not_available_body">%1$s ではこの章は利用できません。外典のために %2$s に切り替えますか？</string>
@@ -169,6 +170,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">聖書カレンダー</string>
+    <string name="torah_feasts_and_gentiles">トーラー、祭り、異邦人信者</string>
     <string name="feast_about_heading">暦について</string>
     <string name="feast_today">今日</string>
     <string name="feast_this_month">今月の祭り</string>
@@ -233,6 +235,8 @@
     <string name="prophecy_astronomical_desc">ブラッドムーン、日食、ベツレヘムの星</string>
     <string name="prophecy_revelation">黙示録概要</string>
     <string name="prophecy_revelation_desc">ヘブライ語の慣用句と祭りの関連を含む体系的読書ガイド</string>
+    <string name="prophecy_revelation_timeline">黙示録の時系列</string>
+    <string name="prophecy_revelation_timeline_desc">封印、ラッパ、鉢、キリストの再臨、千年王国、新しいエルサレム</string>
     <!-- Data -->
     <string name="data_section">データ</string>
     <string name="data_section_desc">ブックマーク・保存した節・ハイライト・ラベルを端末間で転送できます。エクスポートをタップしてクリップボードにコピーし、もう一方の端末でインポートに貼り付けてください。設定や環境設定は含まれません。</string>

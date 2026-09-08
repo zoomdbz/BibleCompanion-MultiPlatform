@@ -58,6 +58,7 @@
     <string name="about_free_text"><![CDATA[Kostenlos, ohne Werbung oder Monetarisierung. Gott allein die Ehre.]]></string>
     <!-- values-de/strings.xml (German) -->
     <string name="jesus_divinity">Die Gottheit Jesu</string>
+    <string name="jesus_identity">Die Identität Jesu</string>
     <string name="gospel">Das Evangelium</string>
     <string name="dc_not_available_title">Deuterokanon nicht in „%1$s“</string>
     <string name="dc_not_available_body">Dieses Kapitel ist in %1$s nicht verfügbar. Zu %2$s wechseln für Deuterokanon?</string>
@@ -168,6 +169,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">Biblischer Kalender</string>
+    <string name="torah_feasts_and_gentiles">Tora, Feste und nichtjüdische Gläubige</string>
     <string name="feast_about_heading">Über die Kalender</string>
     <string name="feast_today">Heute</string>
     <string name="feast_this_month">Feste in diesem Monat</string>
@@ -232,6 +234,8 @@
     <string name="prophecy_astronomical_desc">Blutmonde, Finsternisse und der Stern von Bethlehem</string>
     <string name="prophecy_revelation">Überblick zur Offenbarung</string>
     <string name="prophecy_revelation_desc">Strukturierter Leseführer mit hebräischen Redewendungen und Fest-Verbindungen</string>
+    <string name="prophecy_revelation_timeline">Zeitleiste der Offenbarung</string>
+    <string name="prophecy_revelation_timeline_desc">Die Siegel, Posaunen und Schalen, Christi Wiederkunft, das Tausendjährige Reich und das Neue Jerusalem</string>
     <!-- Data -->
     <string name="data_section">Daten</string>
     <string name="data_section_desc">Übertrage deine Lesezeichen, gespeicherten Verse, Markierungen und Labels zwischen Geräten. Tippe auf Exportieren, um deine Daten in die Zwischenablage zu kopieren, und füge sie auf dem anderen Gerät in Importieren ein. Einstellungen und Präferenzen sind nicht enthalten.</string>

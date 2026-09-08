@@ -57,6 +57,7 @@
     <string name="about_free_text"><![CDATA[Gratuito, sin anuncios ni monetización. Toda la gloria a Dios.]]></string>
     <!-- values-es/strings.xml (Spanish) -->
     <string name="jesus_divinity">La divinidad de Jesús</string>
+    <string name="jesus_identity">La identidad de Jesús</string>
     <string name="gospel">El Evangelio</string>
     <string name="dc_not_available_title">Deuterocanónico no en “%1$s”</string>
     <string name="dc_not_available_body">Este capítulo no está disponible en %1$s. ¿Cambiar a %2$s para los deuterocanónicos?</string>
@@ -169,6 +170,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">Calendario Bíblico</string>
+    <string name="torah_feasts_and_gentiles">La Torá, las fiestas y los gentiles</string>
     <string name="feast_about_heading">Sobre los calendarios</string>
     <string name="feast_today">Hoy</string>
     <string name="feast_this_month">Fiestas de este mes</string>
@@ -233,6 +235,8 @@
     <string name="prophecy_astronomical_desc">Lunas de sangre, eclipses y la Estrella de Belén</string>
     <string name="prophecy_revelation">Panorama del Apocalipsis</string>
     <string name="prophecy_revelation_desc">Guía de lectura estructurada con modismos hebraicos y conexiones con las fiestas</string>
+    <string name="prophecy_revelation_timeline">Cronología del Apocalipsis</string>
+    <string name="prophecy_revelation_timeline_desc">Los sellos, las trompetas, las copas, el regreso de Cristo, el milenio y la Nueva Jerusalén</string>
     <!-- Data -->
     <string name="data_section">Datos</string>
     <string name="data_section_desc">Transfiere tus marcadores, versículos guardados, resaltados y etiquetas entre dispositivos. Toca Exportar para copiar tus datos al portapapeles y luego pégalos en Importar en tu otro dispositivo. La configuración y las preferencias no se incluyen.</string>

@@ -58,6 +58,7 @@
     <string name="about_free_text"><![CDATA[مجاني بلا إعلانات أو ربح. كل المجد لله.]]></string>
     <!-- values-ar/strings.xml (Arabic) -->
     <string name="jesus_divinity">ألوهية يسوع</string>
+    <string name="jesus_identity">هوية يسوع</string>
     <string name="gospel">الإنجيل</string>
     <string name="dc_not_available_title">الأسفار القانونية الثانية غير موجودة في “%1$s”</string>
     <string name="dc_not_available_body">هذا الإصحاح غير متوفر في %1$s. هل تريد التبديل إلى %2$s للأسفار القانونية الثانية؟</string>
@@ -169,6 +170,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">التقويم الكتابي</string>
+    <string name="torah_feasts_and_gentiles">التوراة والأعياد والمؤمنون من الأمم</string>
     <string name="feast_about_heading">عن التقويمَين</string>
     <string name="feast_today">اليوم</string>
     <string name="feast_this_month">أعياد هذا الشهر</string>
@@ -233,6 +235,8 @@
     <string name="prophecy_astronomical_desc">أقمار الدم، والكسوف، ونجم بيت لحم</string>
     <string name="prophecy_revelation">نظرة عامة على سفر الرؤيا</string>
     <string name="prophecy_revelation_desc">دليل قراءة منظّم مع التعابير العبرية وصلات الأعياد</string>
+    <string name="prophecy_revelation_timeline">الجدول الزمني لسفر الرؤيا</string>
+    <string name="prophecy_revelation_timeline_desc">الأختام والأبواق والجامات وعودة المسيح والملك الألفي وأورشليم الجديدة</string>
     <!-- Data -->
     <string name="data_section">البيانات</string>
     <string name="data_section_desc">انقل الإشارات المرجعية والآيات المحفوظة والتمييزات والتصنيفات بين الأجهزة. اضغط على تصدير لنسخ بياناتك إلى الحافظة، ثم الصقها في استيراد على جهازك الآخر. الإعدادات والتفضيلات غير مضمنة.</string>

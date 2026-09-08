@@ -58,6 +58,7 @@
     <string name="about_free_text">免费，无广告、无变现。荣耀归于上帝。</string>
     <!-- values-zh-rCN/strings.xml (Chinese – Simplified) -->
     <string name="jesus_divinity">耶稣的神性</string>
+    <string name="jesus_identity">耶稣的身份</string>
     <string name="gospel">福音</string>
     <string name="dc_not_available_title">“%1$s” 中没有次经</string>
     <string name="dc_not_available_body">%1$s 中此章不可用。是否切换到 %2$s 以查看次经？</string>
@@ -169,6 +170,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">圣经日历</string>
+    <string name="torah_feasts_and_gentiles">妥拉、节期与外邦信徒</string>
     <string name="feast_about_heading">关于两种历法</string>
     <string name="feast_today">今天</string>
     <string name="feast_this_month">本月节期</string>
@@ -233,6 +235,8 @@
     <string name="prophecy_astronomical_desc">血月、日食与伯利恒之星</string>
     <string name="prophecy_revelation">启示录概览</string>
     <string name="prophecy_revelation_desc">包含希伯来惯用语和节期关联的系统阅读指南</string>
+    <string name="prophecy_revelation_timeline">启示录时间线</string>
+    <string name="prophecy_revelation_timeline_desc">七印、七号、七碗、基督再临、千禧年国度与新耶路撒冷</string>
     <!-- Data -->
     <string name="data_section">数据</string>
     <string name="data_section_desc">在设备间传输您的书签、收藏经文、高亮和标签。点击导出将数据复制到剪贴板,然后在另一设备上粘贴到导入中。设置和偏好不包含在内。</string>

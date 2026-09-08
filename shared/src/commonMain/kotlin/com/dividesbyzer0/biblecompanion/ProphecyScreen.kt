@@ -43,7 +43,8 @@ fun ProphecyMenuScreen(
   onMessianic: () -> Unit,
   onDaniel: () -> Unit,
   onAstronomical: () -> Unit,
-  onRevelation: () -> Unit
+  onRevelation: () -> Unit,
+  onRevelationTimeline: () -> Unit
 ) {
   Scaffold(
     topBar = {
@@ -95,6 +96,12 @@ fun ProphecyMenuScreen(
         title = stringResource(Res.string.prophecy_revelation),
         subtitle = stringResource(Res.string.prophecy_revelation_desc),
         onClick = onRevelation
+      )
+      ProphecyCard(
+        icon = Icons.Filled.Timeline,
+        title = stringResource(Res.string.prophecy_revelation_timeline),
+        subtitle = stringResource(Res.string.prophecy_revelation_timeline_desc),
+        onClick = onRevelationTimeline
       )
     }
   }

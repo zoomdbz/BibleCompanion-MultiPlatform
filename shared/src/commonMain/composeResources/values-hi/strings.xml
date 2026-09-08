@@ -58,6 +58,7 @@
     <string name="about_free_text">निःशुल्क, बिना विज्ञापन या मोनेटाइजेशन। सारी महिमा परमेश्वर को।</string>
     <!-- values-hi/strings.xml (Hindi) -->
     <string name="jesus_divinity">यीशु की दिव्यता</string>
+    <string name="jesus_identity">यीशु की पहचान</string>
     <string name="gospel">सुसमाचार</string>
     <string name="dc_not_available_title">“%1$s” में द्वितीयक-मान्य पुस्तकें नहीं हैं</string>
     <string name="dc_not_available_body">यह अध्याय %1$s में उपलब्ध नहीं है। क्या आप द्वितीयक-मान्य पुस्तकों के लिए %2$s पर स्विच करना चाहेंगे?</string>
@@ -169,6 +170,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">बाइबल कैलेंडर</string>
+    <string name="torah_feasts_and_gentiles">तोराह, पर्व और अन्यजाति विश्वासी</string>
     <string name="feast_about_heading">कैलेंडर के बारे में</string>
     <string name="feast_today">आज</string>
     <string name="feast_this_month">इस महीने के पर्व</string>
@@ -233,6 +235,8 @@
     <string name="prophecy_astronomical_desc">रक्त चंद्रमा, ग्रहण और बेथलहम का तारा</string>
     <string name="prophecy_revelation">प्रकाशितवाक्य सिंहावलोकन</string>
     <string name="prophecy_revelation_desc">इब्रानी मुहावरों और पर्व संबंधों के साथ संरचित पठन मार्गदर्शिका</string>
+    <string name="prophecy_revelation_timeline">प्रकाशितवाक्य की समयरेखा</string>
+    <string name="prophecy_revelation_timeline_desc">मुहरें, तुरहियाँ, कटोरे, मसीह की वापसी, सहस्राब्दी राज्य और नया यरूशलेम</string>
     <!-- Data -->
     <string name="data_section">डेटा</string>
     <string name="data_section_desc">बुकमार्क, सहेजे गए पद, हाइलाइट और लेबल को उपकरणों के बीच स्थानांतरित करें। डेटा को क्लिपबोर्ड पर कॉपी करने के लिए निर्यात पर टैप करें, फिर दूसरे उपकरण पर आयात में चिपकाएं। सेटिंग और प्राथमिकताएं शामिल नहीं हैं।</string>

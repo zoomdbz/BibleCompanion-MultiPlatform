@@ -86,6 +86,40 @@ fun RenderNotesMarkdown(
           }
         }
 
+        if (raw.trimStart().startsWith(">")) {
+          val quoteLines = mutableListOf<String>()
+          var j = i
+          while (j < lines.size && lines[j].trimStart().startsWith(">")) {
+            quoteLines += lines[j].trimStart().removePrefix(">").removePrefix(" ")
+            j++
+          }
+          val quote = quoteLines.joinToString("\n")
+          val normalized = if (isCjkLocale) normalizeForRefParsing(quote) else quote
+          val scanFriendly = stripMdAroundLikelyRefs(normalized)
+          val quoteStyle = MaterialTheme.typography.bodyMedium.copy(fontStyle = FontStyle.Italic)
+          Column(Modifier.fillMaxWidth().padding(start = 12.dp, top = 4.dp, bottom = 4.dp)) {
+            if (ambientBook != null && ambientCollection != null) {
+              ScriptureRefs.ClickableRefsText(
+                text = scanFriendly,
+                collection = ambientCollection,
+                prefs = prefs,
+                defaultBook = ambientBook,
+                allowRelativeInParensOnly = true,
+                textStyle = quoteStyle
+              )
+            } else {
+              ScriptureRefs.ClickableRefsTextSmart(
+                text = scanFriendly,
+                prefs = prefs,
+                inlineMarkdown = true,
+                textStyle = quoteStyle
+              )
+            }
+          }
+          i = j
+          continue
+        }
+
         if (raw.trimStart().startsWith("- ")) {
           val t = raw.trimStart().removePrefix("- ").trim()
           val normalized = if (isCjkLocale) normalizeForRefParsing(t) else t
@@ -110,7 +144,7 @@ fun RenderNotesMarkdown(
         }
 
         if (raw.trimStart().matches(Regex("""\d+[.)]\s+.*"""))) {
-          val t = raw.trimStart().replace(Regex("""^\d+[.)]\s+"""), "").trim()
+          val t = raw.trimStart().trim()
           val normalized = if (isCjkLocale) normalizeForRefParsing(t) else t
           val scanFriendly = stripMdAroundLikelyRefs(normalized)
           if (ambientBook != null && ambientCollection != null) {
@@ -256,7 +290,6 @@ private val mdLink = Regex("""\[(.*?)]\((.*?)\)""")
 private val autolink = Regex("""<([^ >]+)>""")
 private val blockquote = Regex("""(?m)^\s{0,3}>\s?""")
 private val unordered  = Regex("""(?m)^\s{0,3}[-*+]\s+""")
-private val ordered    = Regex("""(?m)^\s{0,3}\d+\.\s+""")
 private val jesusStart = Regex("""\[J]""", RegexOption.IGNORE_CASE)
 private val jesusEnd = Regex("""\[/J]""", RegexOption.IGNORE_CASE)
 private val dnStart = Regex("""\[DN]""", RegexOption.IGNORE_CASE)
@@ -269,7 +302,6 @@ fun markdownToPlainText(src: String): String {
   t = t.replace(heading, "")
   t = t.replace(blockquote, "\u203A ")
   t = t.replace(unordered, "\u2022 ")
-  t = t.replace(ordered, "\u2022 ")
   t = t.replace(mdLink) { m ->
     val label = m.groupValues[1].trim()
     val url = m.groupValues[2].trim()

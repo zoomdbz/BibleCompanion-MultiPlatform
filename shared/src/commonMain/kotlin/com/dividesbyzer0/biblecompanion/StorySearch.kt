@@ -71,6 +71,7 @@ object StorySearch {
     "historical_awareness.md" to "historical_awareness",
     "bible_canon.md" to "bible_canon",
     "jesus_divinity.md" to "jesus_divinity",
+    "jesus_identity.md" to "jesus_identity",
     "grace.md" to "grace",
     "christian_symbolism.md" to "christian_symbolism",
     "unseen_war.md" to "unseen_war",
@@ -80,10 +81,12 @@ object StorySearch {
     "faqs.md" to "faqs",
     "genealogy_notes.md" to "genealogy",
     "feast_calendar_notes.md" to "feast_calendar",
+    "torah_feasts_and_gentiles.md" to "torah_feasts_and_gentiles",
     "messianic_prophecy.md" to "messianic_prophecy",
     "daniels_timeline.md" to "daniels_timeline",
     "astronomical_signs.md" to "astronomical_signs",
-    "revelation_overview.md" to "revelation_overview"
+    "revelation_overview.md" to "revelation_overview",
+    "revelation_timeline.md" to "revelation_timeline"
   )
 
   private val bulletRefPattern = Regex("""\((\d+):(\d+)(?:\s*-\s*(\d+))?\)\s*\.?\s*$""")

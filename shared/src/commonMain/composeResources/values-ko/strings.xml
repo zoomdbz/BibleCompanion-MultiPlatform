@@ -58,6 +58,7 @@
     <string name="about_free_text">무료, 광고와 수익화 없음. 모든 영광을 하나님께.</string>
     <!-- values-ko/strings.xml (Korean) -->
     <string name="jesus_divinity">예수의 신성</string>
+    <string name="jesus_identity">예수님의 정체성</string>
     <string name="gospel">복음</string>
     <string name="dc_not_available_title">“%1$s”에 외경이 없음</string>
     <string name="dc_not_available_body">%1$s에서 이 장을 사용할 수 없습니다. 외경을 위해 %2$s로 전환하시겠습니까?</string>
@@ -169,6 +170,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">성경 달력</string>
+    <string name="torah_feasts_and_gentiles">토라, 절기, 이방인 신자</string>
     <string name="feast_about_heading">달력에 대하여</string>
     <string name="feast_today">오늘</string>
     <string name="feast_this_month">이달의 절기</string>
@@ -233,6 +235,8 @@
     <string name="prophecy_astronomical_desc">블러드 문, 일식, 베들레헴의 별</string>
     <string name="prophecy_revelation">요한계시록 개요</string>
     <string name="prophecy_revelation_desc">히브리어 관용구와 절기 연결이 포함된 체계적 읽기 안내</string>
+    <string name="prophecy_revelation_timeline">요한계시록 연대표</string>
+    <string name="prophecy_revelation_timeline_desc">인, 나팔, 대접, 그리스도의 재림, 천년왕국, 새 예루살렘</string>
     <!-- Data -->
     <string name="data_section">데이터</string>
     <string name="data_section_desc">즐겨찾기, 저장된 구절, 하이라이트, 라벨을 기기 간에 전송하세요. 내보내기를 눌러 데이터를 클립보드에 복사한 다음 다른 기기의 가져오기에 붙여넣으세요. 설정과 환경 설정은 포함되지 않습니다.</string>

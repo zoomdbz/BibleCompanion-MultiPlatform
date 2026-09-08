@@ -58,6 +58,7 @@
     <string name="about_free_text">Бесплатно, без рекламы и монетизации. Вся слава Богу.</string>
     <!-- values-ru/strings.xml (Russian) -->
     <string name="jesus_divinity">Божественность Иисуса</string>
+    <string name="jesus_identity">Личность Иисуса</string>
     <string name="gospel">Евангелие</string>
     <string name="dc_not_available_title">В «%1$s» нет второканонических книг</string>
     <string name="dc_not_available_body">Эта глава недоступна в %1$s. Переключиться на %2$s для второканонических книг?</string>
@@ -169,6 +170,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">Библейский календарь</string>
+    <string name="torah_feasts_and_gentiles">Тора, праздники и верующие из язычников</string>
     <string name="feast_about_heading">О календарях</string>
     <string name="feast_today">Сегодня</string>
     <string name="feast_this_month">Праздники этого месяца</string>
@@ -233,6 +235,8 @@
     <string name="prophecy_astronomical_desc">Кровавые луны, затмения и Вифлеемская звезда</string>
     <string name="prophecy_revelation">Обзор Откровения</string>
     <string name="prophecy_revelation_desc">Структурированное руководство по чтению с еврейскими идиомами и связями с праздниками</string>
+    <string name="prophecy_revelation_timeline">Хронология Откровения</string>
+    <string name="prophecy_revelation_timeline_desc">Печати, трубы, чаши, возвращение Христа, Тысячелетнее царство и Новый Иерусалим</string>
     <!-- Data -->
     <string name="data_section">Данные</string>
     <string name="data_section_desc">Переносите закладки, сохранённые стихи, выделения и метки между устройствами. Нажмите Экспорт, чтобы скопировать данные в буфер обмена, затем вставьте их в Импорт на другом устройстве. Настройки и предпочтения не включены.</string>

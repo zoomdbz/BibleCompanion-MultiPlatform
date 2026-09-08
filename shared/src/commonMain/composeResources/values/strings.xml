@@ -24,6 +24,7 @@
     <string name="bibliography">Bibliography</string>
     <!-- values/strings.xml (English) -->
     <string name="jesus_divinity">The Divinity of Jesus</string>
+    <string name="jesus_identity">Jesus Identity</string>
     <string name="gospel">The Gospel</string>
     <string name="dc_not_available_title">Deuterocanon not in “%1$s”</string>
     <string name="dc_not_available_body">This chapter is not available in %1$s. Swap to %2$s for Deuterocanon?</string>
@@ -277,6 +278,7 @@
 
     <!-- Feast Calendar -->
     <string name="feast_calendar">Biblical Calendar</string>
+    <string name="torah_feasts_and_gentiles">Torah, Feasts, and Gentiles</string>
     <string name="feast_about_heading">About the Calendars</string>
     <string name="feast_today">Today</string>
     <string name="feast_this_month">Feasts This Month</string>
@@ -341,6 +343,8 @@
     <string name="prophecy_astronomical_desc">Blood moons, eclipses, and the Star of Bethlehem</string>
     <string name="prophecy_revelation">Revelation Overview</string>
     <string name="prophecy_revelation_desc">Structured reading guide with Hebraic idioms and feast connections</string>
+    <string name="prophecy_revelation_timeline">Revelation Timeline</string>
+    <string name="prophecy_revelation_timeline_desc">The seals, trumpets, bowls, Christ's return, the millennium, and New Jerusalem</string>
     <string name="chapters_label">Chapters</string>
     <string name="verse_label">Verse</string>
     <string name="verses_label">Verses</string>

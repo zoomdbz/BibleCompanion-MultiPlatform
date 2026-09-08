@@ -304,6 +304,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             onSettings = { nav.navigate(Dest.Settings.route) { launchSingleTop = true } },
             onGenealogy = { nav.navigate(Dest.Genealogy.route) { launchSingleTop = true } },
             onJesusDivinity = { nav.navigate(Dest.JesusDivinity.route) { launchSingleTop = true } },
+            onJesusIdentity = { nav.navigate(Dest.JesusIdentity.route) { launchSingleTop = true } },
             onGospel = { nav.navigate(Dest.Gospel.route) { launchSingleTop = true } },
             onGrace = { nav.navigate(Dest.Grace.route) { launchSingleTop = true } },
             onChristianSymbolism = { nav.navigate(Dest.ChristianSymbolism.route) { launchSingleTop = true } },
@@ -317,6 +318,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             onFaqs = { nav.navigate(Dest.FAQs.route) { launchSingleTop = true } },
             onBibliography = { nav.navigate(Dest.Bibliography.route) { launchSingleTop = true } },
             onFeastCalendar = { nav.navigate(Dest.FeastCalendar.route) { launchSingleTop = true } },
+            onTorahFeastsAndGentiles = { nav.navigate(Dest.TorahFeastsAndGentiles.route) { launchSingleTop = true } },
             onProphecy = { nav.navigate(Dest.Prophecy.route) { launchSingleTop = true } },
             onAbout = { nav.navigate(Dest.About.route) { launchSingleTop = true } },
             onSavedItems = { nav.navigate(Dest.SavedItems.route) { launchSingleTop = true } },
@@ -357,6 +359,9 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
         composable(Dest.JesusDivinity.route) {
           GenericNotesScreen(Res.string.jesus_divinity, "jesus_divinity.md", prefs, repo, collapsible = true) { navBack() }
         }
+        composable(Dest.JesusIdentity.route) {
+          GenericNotesScreen(Res.string.jesus_identity, "jesus_identity.md", prefs, repo, toc = false) { navBack() }
+        }
         composable(Dest.Gospel.route) {
           GenericNotesScreen(Res.string.gospel, "gospel.md", prefs, repo) { navBack() }
         }
@@ -393,13 +398,23 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
         composable(Dest.FeastCalendar.route) {
           FeastCalendarScreen(prefs = prefs, repo = repo, onBack = { navBack() })
         }
+        composable(Dest.TorahFeastsAndGentiles.route) {
+          GenericNotesScreen(
+            Res.string.torah_feasts_and_gentiles,
+            "torah_feasts_and_gentiles.md",
+            prefs,
+            repo,
+            toc = false
+          ) { navBack() }
+        }
         composable(Dest.Prophecy.route) {
           ProphecyMenuScreen(
             onBack = { navBack() },
             onMessianic = { nav.navigate(Dest.MessianicProphecy.route) { launchSingleTop = true } },
             onDaniel = { nav.navigate(Dest.DanielsTimeline.route) { launchSingleTop = true } },
             onAstronomical = { nav.navigate(Dest.AstronomicalSigns.route) { launchSingleTop = true } },
-            onRevelation = { nav.navigate(Dest.RevelationOverview.route) { launchSingleTop = true } }
+            onRevelation = { nav.navigate(Dest.RevelationOverview.route) { launchSingleTop = true } },
+            onRevelationTimeline = { nav.navigate(Dest.RevelationTimeline.route) { launchSingleTop = true } }
           )
         }
         composable(Dest.MessianicProphecy.route) {
@@ -413,6 +428,15 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
         }
         composable(Dest.RevelationOverview.route) {
           GenericNotesScreen(Res.string.prophecy_revelation, "revelation_overview.md", prefs, repo) { navBack() }
+        }
+        composable(Dest.RevelationTimeline.route) {
+          GenericNotesScreen(
+            Res.string.prophecy_revelation_timeline,
+            "revelation_timeline.md",
+            prefs,
+            repo,
+            toc = false
+          ) { navBack() }
         }
         composable("books/{col}") { back ->
           val col = back.arguments?.getString("col") ?: "old_testament"
@@ -621,6 +645,7 @@ fun HomeScreen(
   onSettings: () -> Unit,
   onGenealogy: () -> Unit,
   onJesusDivinity: () -> Unit,
+  onJesusIdentity: () -> Unit,
   onGospel: () -> Unit,
   onGrace: () -> Unit,
   onChristianSymbolism: () -> Unit,
@@ -634,6 +659,7 @@ fun HomeScreen(
   onFaqs: () -> Unit,
   onBibliography: () -> Unit,
   onFeastCalendar: () -> Unit,
+  onTorahFeastsAndGentiles: () -> Unit,
   onProphecy: () -> Unit,
   onAbout: () -> Unit,
   onSavedItems: () -> Unit = {},
@@ -1246,10 +1272,12 @@ fun HomeScreen(
               Column(Modifier.padding(bottom = 8.dp)) {
                 StudyItem(stringResource(Res.string.genealogy), !navBusy) { safeNav { onGenealogy() } }
                 StudyItem(stringResource(Res.string.jesus_divinity), !navBusy) { safeNav { onJesusDivinity() } }
+                StudyItem(stringResource(Res.string.jesus_identity), !navBusy) { safeNav { onJesusIdentity() } }
                 StudyItem(stringResource(Res.string.gospel), !navBusy) { safeNav { onGospel() } }
                 StudyItem(stringResource(Res.string.grace), !navBusy) { safeNav { onGrace() } }
                 StudyItem(stringResource(Res.string.prophecy), !navBusy) { safeNav { onProphecy() } }
                 StudyItem(stringResource(Res.string.feast_calendar), !navBusy) { safeNav { onFeastCalendar() } }
+                StudyItem(stringResource(Res.string.torah_feasts_and_gentiles), !navBusy) { safeNav { onTorahFeastsAndGentiles() } }
                 StudyItem(stringResource(Res.string.christian_symbolism), !navBusy) { safeNav { onChristianSymbolism() } }
                 StudyItem(stringResource(Res.string.unseen_war), !navBusy) { safeNav { onUnseenWar() } }
                 StudyItem(stringResource(Res.string.false_doctrine), !navBusy) { safeNav { onFalseDoctrine() } }
@@ -1579,7 +1607,29 @@ fun BookScreen(
     }
   }
 
-  val listState = remember(col, bookId) { LazyListState() }
+  // Keep the reader's item index and scroll offset across Activity recreation
+  // while still resetting when launchSingleTop reuses this screen for another book.
+  val listState = rememberSaveable(
+    col,
+    bookId,
+    saver = LazyListState.Saver
+  ) { LazyListState() }
+
+  // Route targets are navigation events, not standing scroll commands. These
+  // flags survive rotation so restored scroll state is not overwritten by the
+  // original story/verse or auto-TTS request.
+  var initialTargetConsumed by rememberSaveable(
+    col,
+    bookId,
+    initialStoryId,
+    initialVerse,
+    initialVerseEnd
+  ) { mutableStateOf(false) }
+  var autoStartTtsConsumed by rememberSaveable(
+    col,
+    bookId,
+    autoStartTts
+  ) { mutableStateOf(false) }
 
   // Per-story section visibility overrides (ephemeral; resets on navigation)
   val sectionOverrides = remember(col, bookId) { mutableStateMapOf<String, Boolean>() }
@@ -1646,8 +1696,9 @@ fun BookScreen(
     }
   }
 
-  LaunchedEffect(autoStartTts) {
-    if (autoStartTts && book != null && book.stories.isNotEmpty()) {
+  LaunchedEffect(autoStartTts, book?.id) {
+    if (autoStartTts && !autoStartTtsConsumed && book != null && book.stories.isNotEmpty()) {
+      autoStartTtsConsumed = true
       delay(400)
       chapterTtsStoryId = book.stories.first().id
       chapterTtsPlaying = true
@@ -1778,22 +1829,14 @@ fun BookScreen(
     }
   }
 
-  // Save reading progress
-  LaunchedEffect(book) {
-    if (book != null) {
-      val titlesMap = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
-      val title = titlesMap[bookId] ?: book.title
-      repo.setLastRead(col, bookId, title, resolvedStoryId)
-    }
-  }
-
-  LaunchedEffect(resolvedStoryId, initialVerse, storyIndex, book) {
-    if (!resolvedStoryId.isNullOrBlank()) {
+  LaunchedEffect(resolvedStoryId, initialVerse, initialVerseEnd, storyIndex, book) {
+    if (!initialTargetConsumed && !resolvedStoryId.isNullOrBlank() && book != null) {
+      initialTargetConsumed = true
       if (resolvedStoryId !in expandedStoryIds) {
         expandedStoryIds = expandedStoryIds + resolvedStoryId
       }
       val storyIdx = storyIndex[resolvedStoryId]
-      if (initialVerse != null && book != null) {
+      if (initialVerse != null) {
         val story = book.stories.find { it.id == resolvedStoryId }
         if (story != null) {
           val end = initialVerseEnd?.coerceAtLeast(initialVerse) ?: initialVerse
@@ -1811,12 +1854,10 @@ fun BookScreen(
           listState.scrollToItem(storyIdx)
         }
       } else if (storyIdx != null) {
-        if (book != null) {
-          val story = book.stories.find { it.id == resolvedStoryId }
-          if (story != null && story.summaryBullets.isNotEmpty()) {
-            goldFadeStoryId = resolvedStoryId
-            goldFadeBulletIdxs = setOf(0)
-          }
+        val story = book.stories.find { it.id == resolvedStoryId }
+        if (story != null && story.summaryBullets.isNotEmpty()) {
+          goldFadeStoryId = resolvedStoryId
+          goldFadeBulletIdxs = setOf(0)
         }
         listState.scrollToItem(storyIdx)
       }
@@ -1833,7 +1874,9 @@ fun BookScreen(
     }
   }
 
-  // Track scroll position to update continue-reading target
+  // The restored list position is the authority for reading progress. Keeping
+  // this in one writer avoids clearing lastReadStoryId during rotation before
+  // the list observer has emitted its restored chapter.
   LaunchedEffect(book, listState) {
     if (book == null) return@LaunchedEffect
     val titlesMap = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
@@ -4922,6 +4965,10 @@ private fun GenericNotesScreen(
   repo: PrefsRepo,
   collapsible: Boolean = false,
   headingPrefix: String = "## ",
+  // false renders the note as one plain scrolling column with regular markdown
+  // headings: no collapsible section cards and no jump-to-section dropdown in
+  // the app bar.
+  toc: Boolean = true,
   onBack: () -> Unit
 ) {
   val ctx = LocalPlatformContext.current
@@ -4937,7 +4984,7 @@ private fun GenericNotesScreen(
   val titleText = stringResource(titleRes)
   val sections = remember(body, headingPrefix) { splitMarkdownSections(body, headingPrefix) }
   val sectionHeaders = remember(sections) { sections.mapNotNull { it.first } }
-  val showToc = !collapsible && sectionHeaders.size >= 8
+  val showToc = toc && !collapsible && sectionHeaders.size >= 8
 
   val tocListState = rememberLazyListState()
   val collapsibleListState = rememberLazyListState()
@@ -5279,4 +5326,3 @@ private fun GenericNotesScreen(
     } // Box
   }
 }
-

@@ -22,6 +22,7 @@ sealed class Dest(val route: String) {
     data object CommonDistortions : Dest("common_distortions")
     data object Genealogy : Dest("genealogy")
     data object JesusDivinity : Dest("jesus_divinity")
+    data object JesusIdentity : Dest("jesus_identity")
     data object Gospel : Dest("gospel")
     data object Grace : Dest("grace")
     data object ChristianSymbolism : Dest("christian_symbolism")
@@ -30,11 +31,13 @@ sealed class Dest(val route: String) {
     data object Bibliography : Dest("bibliography")
     data object UnseenWar : Dest("unseen_war")
     data object FeastCalendar : Dest("feast_calendar")
+    data object TorahFeastsAndGentiles : Dest("torah_feasts_and_gentiles")
     data object Prophecy : Dest("prophecy")
     data object MessianicProphecy : Dest("messianic_prophecy")
     data object DanielsTimeline : Dest("daniels_timeline")
     data object AstronomicalSigns : Dest("astronomical_signs")
     data object RevelationOverview : Dest("revelation_overview")
+    data object RevelationTimeline : Dest("revelation_timeline")
     data object SavedItems : Dest("saved_items")
     data class Books(val col: String) : Dest("books/{col}") {
         companion object { fun route(col: String) = "books/${encPath(col)}" }
