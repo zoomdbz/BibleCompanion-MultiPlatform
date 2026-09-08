@@ -360,7 +360,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
           GenericNotesScreen(Res.string.jesus_divinity, "jesus_divinity.md", prefs, repo, collapsible = true) { navBack() }
         }
         composable(Dest.JesusIdentity.route) {
-          GenericNotesScreen(Res.string.jesus_identity, "jesus_identity.md", prefs, repo, toc = false) { navBack() }
+          GenericNotesScreen(Res.string.jesus_identity, "jesus_identity.md", prefs, repo, collapsible = true) { navBack() }
         }
         composable(Dest.Gospel.route) {
           GenericNotesScreen(Res.string.gospel, "gospel.md", prefs, repo) { navBack() }
@@ -404,7 +404,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             "torah_feasts_and_gentiles.md",
             prefs,
             repo,
-            toc = false
+            collapsible = true
           ) { navBack() }
         }
         composable(Dest.Prophecy.route) {
@@ -435,7 +435,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             "revelation_timeline.md",
             prefs,
             repo,
-            toc = false
+            collapsible = true
           ) { navBack() }
         }
         composable("books/{col}") { back ->
