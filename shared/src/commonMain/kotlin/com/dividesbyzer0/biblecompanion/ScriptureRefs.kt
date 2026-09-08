@@ -421,9 +421,18 @@ object ScriptureRefs {
   // and scripture refs become tappable. Previously stored as @Volatile var,
   // which Compose can't observe; you had to navigate away/back to see refs work.
   private val booksState = mutableStateOf<List<BookEntry>>(emptyList())
+  @kotlin.concurrent.Volatile private var bookKeyInitials: Set<Char> = emptySet()
   private var books: List<BookEntry>
     get() = booksState.value
-    set(value) { booksState.value = value }
+    set(value) {
+      // Compact-script notes may have no boundary before a citation. Keep this
+      // lookup cheap so those paragraphs do not scan every character as a book.
+      bookKeyInitials = value.asSequence()
+        .flatMap { it.keys.asSequence() }
+        .mapNotNull { it.firstOrNull()?.lowercaseChar() }
+        .toSet()
+      booksState.value = value
+    }
   @kotlin.concurrent.Volatile private var lastLang: String? = null
 
   fun primeBooks(ctx: PlatformContext, appLanguage: String) {
@@ -661,6 +670,10 @@ object ScriptureRefs {
     }
 
     val effectiveLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+    val compactReferenceLanguage = inlineMarkdown && when (effectiveLang) {
+      "ja", "ko", "zh-Hans", "zh-Hant" -> true
+      else -> false
+    }
 
     val displayText = normalizeNFKC(rawText)
       .replace('\u3000', ' ')
@@ -761,7 +774,10 @@ object ScriptureRefs {
           if (dnCloseEnd > 0) { if (dnOn) toggleDN(); i = dnCloseEnd; continue }
 
           val prev = part.getOrNull(i - 1)
-          if (isLeftBoundary(prev)) {
+          val normalBoundary = isLeftBoundary(prev)
+          val relaxedLocalizedBoundary = compactReferenceLanguage && !normalBoundary &&
+            isCompactRefStart(part, i)
+          if (normalBoundary || relaxedLocalizedBoundary) {
             val hit = scanBookAt(part, i)
             if (hit != null) {
               val (entry, bookLen) = hit
@@ -782,8 +798,13 @@ object ScriptureRefs {
                 val bookText = part.substring(i, i + bookLen).trim()
                 val hasNonAsciiLetter = bookText.any { it.code > 0x7F && it.isLetter() }
                 val shortAmbiguous = !tailHasColon && !hasNonAsciiLetter && bookText.length <= 3
+                val relaxedTooShort = relaxedLocalizedBoundary && bookText.length < 2
+                val relaxedWithoutExplicitTail = relaxedLocalizedBoundary &&
+                  !tailHasColon &&
+                  part.getOrNull(tailEnd) != '\u7AE0' &&
+                  part.getOrNull(tailEnd) != '\uC7A5'
 
-                if (looksLikeThousands || shortAmbiguous) {
+                if (looksLikeThousands || shortAmbiguous || relaxedTooShort || relaxedWithoutExplicitTail) {
                   append(dp.substring(i, tailEnd))
                   i = tailEnd
                   continue
@@ -1111,13 +1132,40 @@ object ScriptureRefs {
       ch.isWhitespace() -> true
       ch in listOf('(', '[', '{', '\u2022', ',', '\u00B7', '\u2010', '\u2011', '\u2014', '\u2013', '-', '/',
         '\uFF0C', '\uFF1B', '\uFF1A', '\u3002', '\u3001', '\uFF08', '\uFF3B', '\uFF5B',
-        '"', '\'',
+        '"', '\'', '*',
         '\u201C', '\u201D', '\u201E', '\u201F',
         '\u2018', '\u2019', '\u201A', '\u201B',
         '\u00AB', '\u00BB', '\u2039', '\u203A',
         '\u300A', '\u300B', '\u300C', '\u300D', '\u300E', '\u300F') -> true
       else -> false
     }
+
+  private fun isCompactRefChar(ch: Char?): Boolean {
+    val code = ch?.code ?: return false
+    return code in 0x3040..0x30FF ||
+      code in 0x3400..0x9FFF ||
+      code in 0xAC00..0xD7AF
+  }
+
+  private fun isCompactOrdinalStart(ch: Char): Boolean = when (ch) {
+    '1', '2', '3', '4', '5',
+    'I', 'i',
+    '\uFF11', '\uFF12', '\uFF13', '\uFF14', '\uFF15',
+    '\u7B2C', '\u4E00', '\u4E8C', '\u4E09', '\u56DB', '\u4E94',
+    '\uC81C' -> true
+    else -> false
+  }
+
+  private fun isCompactRefStart(s: String, start: Int): Boolean {
+    val first = s.getOrNull(start) ?: return false
+    if (isCompactRefChar(first) && first.lowercaseChar() in bookKeyInitials) return true
+    if (!isCompactOrdinalStart(first)) return false
+
+    val (_, ordinalLength) = takeOrdinal(s, start)
+    if (ordinalLength == 0) return false
+    val bookStart = s.getOrNull(start + ordinalLength) ?: return false
+    return isCompactRefChar(bookStart) && bookStart.lowercaseChar() in bookKeyInitials
+  }
 
   private fun isInsideParens(s: String, pos: Int): Boolean {
     var depth = 0
@@ -1161,10 +1209,11 @@ object ScriptureRefs {
 
     for (entry in books) {
       val canonStartsWithDigit = entry.canon.firstOrNull()?.isDigit() == true
-      if (ordDigit != null && canonStartsWithDigit && !entry.canon.startsWith("$ordDigit ")) {
-        val hasMatchingOrdinalAlias = entry.keys.any { it.startsWith("$ordDigit ") }
-        if (!hasMatchingOrdinalAlias) continue
-      }
+      val ordinalMatchesEntry = ordDigit != null && canonStartsWithDigit &&
+        (entry.canon.startsWith("$ordDigit ") || entry.keys.any { key ->
+          takeOrdinal(key, 0).first.trim().firstOrNull() == ordDigit
+        })
+      if (ordDigit != null && canonStartsWithDigit && !ordinalMatchesEntry) continue
 
       for (key in entry.keys) {
         if (rest.length >= key.length && rest.regionMatches(0, key, 0, key.length, ignoreCase = true)) {
@@ -1173,7 +1222,7 @@ object ScriptureRefs {
           if (next != null && next.isLetter()) continue
           if (canonStartsWithDigit && ordDigit == null && entry.strippedKeys.contains(key)) continue
 
-          val ordinalMatch = ordDigit != null && canonStartsWithDigit && entry.canon.startsWith("$ordDigit ")
+          val ordinalMatch = ordinalMatchesEntry
           if (key.length > bestLen || (key.length == bestLen && ordinalMatch && !bestOrdinalMatch)) {
             bestLen = key.length
             bestEntry = entry
@@ -1206,6 +1255,16 @@ object ScriptureRefs {
       '5','\uFF15' -> return "5 " to consumeSpace(skipPeriod(1))
     }
 
+    if (rest.startsWith("\uC81C")) {
+      when (rest.getOrNull(1)) {
+        '1', '\uFF11' -> return "1 " to consumeSpace(skipPeriod(2))
+        '2', '\uFF12' -> return "2 " to consumeSpace(skipPeriod(2))
+        '3', '\uFF13' -> return "3 " to consumeSpace(skipPeriod(2))
+        '4', '\uFF14' -> return "4 " to consumeSpace(skipPeriod(2))
+        '5', '\uFF15' -> return "5 " to consumeSpace(skipPeriod(2))
+      }
+    }
+
     if (rest.startsWith("\u7B2C\u4E00") || rest.startsWith("\u7B2C\uFF11")) return "1 " to consumeSpace(2)
     if (rest.startsWith("\u7B2C\u4E8C") || rest.startsWith("\u7B2C\uFF12")) return "2 " to consumeSpace(2)
     if (rest.startsWith("\u7B2C\u4E09") || rest.startsWith("\u7B2C\uFF13")) return "3 " to consumeSpace(2)
@@ -1221,10 +1280,15 @@ object ScriptureRefs {
 
     val lower = rest.lowercase()
     return when {
+      lower.startsWith("iv ")     -> "4 " to 3
+      lower.startsWith("iii ")    -> "3 " to 4
+      lower.startsWith("ii ")     -> "2 " to 3
+      lower.startsWith("i ")      -> "1 " to 2
       lower.startsWith("first ")  -> "1 " to 6
       lower.startsWith("second ") -> "2 " to 7
       lower.startsWith("third ")  -> "3 " to 6
       lower.startsWith("fourth ") -> "4 " to 7
+      lower.startsWith("fifth ")  -> "5 " to 6
       else -> "" to 0
     }
   }
@@ -1491,8 +1555,8 @@ object ScriptureRefs {
 
   private fun stripLeadingOrdinal(name: String): String {
     val s = name.trim()
-    val m = Regex("^(?:[1-5]|i{1,3}|iv|first|second|third|fourth|fifth)\\s+", RegexOption.IGNORE_CASE).find(s)
-    return if (m != null) s.substring(m.range.last + 1).trimStart() else s
+    val (_, ordinalLength) = takeOrdinal(s, 0)
+    return if (ordinalLength > 0) s.substring(ordinalLength).trimStart() else s
   }
 
   private fun isApocryphaBook(canonBook: String): Boolean {

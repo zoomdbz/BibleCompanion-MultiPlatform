@@ -316,7 +316,7 @@ fun markdownToPlainText(src: String): String {
 
 private fun stripMdAroundLikelyRefs(text: String): String {
   val maybeRef = Regex(
-    pattern = """(\*\*|\*|__|_)\s*([1-3]?\s*\p{L}[\p{L}\s]+?\s+\d{1,3}:\d{1,3}(?:[–\-]\d{1,3})?(?:,\s*\d{1,3})?)\s*\1"""
+    pattern = """(__|_)\s*([1-3]?\s*\p{L}[\p{L}\s]+?\s+\d{1,3}:\d{1,3}(?:[–\-]\d{1,3})?(?:,\s*\d{1,3})?)\s*\1"""
   )
   return text.replace(maybeRef) { mr -> mr.groupValues[2] }
 }
