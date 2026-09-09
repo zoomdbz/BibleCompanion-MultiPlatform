@@ -1,4 +1,4 @@
-# Notes généalogiques
+# Notes sur la généalogie de Jésus
 
 Après David, les généalogies divergent : Matthieu suit la lignée **légale/royale** par **Salomon**, tandis que Luc suit une lignée **biologique** par **Nathan**. Elles se rejoignent à nouveau à **Zorobabel** et finalement en **Jésus**.
 

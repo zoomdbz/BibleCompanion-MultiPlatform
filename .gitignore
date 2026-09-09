@@ -34,6 +34,11 @@ app/debug/
 *.jks
 keystore.properties
 *.p12
+*.p8
+*.pem
+*.key
+*.mobileprovision
+*.csr
 key.properties
 
 # Java
@@ -74,6 +79,9 @@ Thumbs.db
 .env.*.local
 google-services.json
 GoogleService-Info.plist
+
+# Licensed YouVersion comparison responses and reports
+.kjv-biblecom-cache/
 
 # Editor
 .vscode/

@@ -33,7 +33,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         return PrefsState(
             theme = getString("theme") ?: "System",
             translation = resolvedVersion,
-            readerMode = getString("reader_mode") ?: "biblecom",
+            readerMode = getString("reader_mode") ?: "internal",
+            internalBibleVersion = getString("internal_bible_version") ?: "bsb",
+            chronologyIncludeDeutero = getBool("chronology_include_deutero", true),
             showDeutero = getBool("show_deutero", true),
             showApoc = getBool("show_apoc", true),
             showPseudepigrapha = getBool("show_pseudepigrapha", true),
@@ -82,6 +84,12 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     }
     actual suspend fun setReaderMode(mode: String) {
         defaults.setObject(mode, forKey = "reader_mode"); refresh()
+    }
+    actual suspend fun setInternalBibleVersion(version: String) {
+        defaults.setObject(version, forKey = "internal_bible_version"); refresh()
+    }
+    actual suspend fun setChronologyIncludeDeutero(show: Boolean) {
+        defaults.setBool(show, forKey = "chronology_include_deutero"); refresh()
     }
     actual suspend fun setDeutero(show: Boolean) {
         defaults.setBool(show, forKey = "show_deutero"); refresh()
@@ -210,25 +218,17 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     }
 
     actual suspend fun addSavedVerse(verse: SavedVerse) {
-        val list = loadSavedVerses().filter {
-            !(it.collection == verse.collection && it.bookId == verse.bookId &&
-              it.storyId == verse.storyId && it.bulletIndex == verse.bulletIndex)
-        }
+        val list = loadSavedVerses().filterNot { it.sameScriptureLocation(verse) }
         persistSavedVerses(list + verse)
     }
 
-    actual suspend fun removeSavedVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int) {
-        persistSavedVerses(loadSavedVerses().filter {
-            !(it.collection == collection && it.bookId == bookId &&
-              it.storyId == storyId && it.bulletIndex == bulletIndex)
-        })
+    actual suspend fun removeSavedVerse(verse: SavedVerse) {
+        persistSavedVerses(loadSavedVerses().filterNot { it.sameScriptureLocation(verse) })
     }
 
-    actual suspend fun updateVerseHighlight(collection: String, bookId: String, storyId: String, bulletIndex: Int, color: String?) {
+    actual suspend fun updateVerseHighlight(verse: SavedVerse, color: String?) {
         persistSavedVerses(loadSavedVerses().map {
-            if (it.collection == collection && it.bookId == bookId &&
-                it.storyId == storyId && it.bulletIndex == bulletIndex
-            ) it.copy(highlightColor = color) else it
+            if (it.sameScriptureLocation(verse)) it.copy(highlightColor = color) else it
         })
     }
 
@@ -263,20 +263,18 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         })
     }
 
-    actual suspend fun addLabelToVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int, labelId: String) {
+    actual suspend fun addLabelToVerse(verse: SavedVerse, labelId: String) {
         persistSavedVerses(loadSavedVerses().map {
-            if (it.collection == collection && it.bookId == bookId &&
-                it.storyId == storyId && it.bulletIndex == bulletIndex &&
-                labelId !in it.labels
+            if (it.sameScriptureLocation(verse) && labelId !in it.labels
             ) it.copy(labels = it.labels + labelId) else it
         })
     }
 
-    actual suspend fun removeLabelFromVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int, labelId: String) {
+    actual suspend fun removeLabelFromVerse(verse: SavedVerse, labelId: String) {
         persistSavedVerses(loadSavedVerses().map {
-            if (it.collection == collection && it.bookId == bookId &&
-                it.storyId == storyId && it.bulletIndex == bulletIndex
-            ) it.copy(labels = it.labels.filter { l -> l != labelId }) else it
+            if (it.sameScriptureLocation(verse)) {
+                it.copy(labels = it.labels.filter { l -> l != labelId })
+            } else it
         })
     }
 

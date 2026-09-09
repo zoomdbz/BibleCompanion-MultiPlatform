@@ -22,21 +22,23 @@ fun installCrashHook() {
     }
 }
 
+internal data class BridgeEvent(val value: String?, val id: Long)
+
 object DeepLinkBridge {
-    private val _route = MutableStateFlow<String?>(null)
-    val route: StateFlow<String?> = _route
+    private val _route = MutableStateFlow(BridgeEvent(null, 0L))
+    internal val route: StateFlow<BridgeEvent> = _route
 
     fun pushRoute(route: String?) {
-        _route.value = route
+        _route.value = BridgeEvent(route, _route.value.id + 1L)
     }
 }
 
 object ShortcutBridge {
-    private val _action = MutableStateFlow<String?>(null)
-    val action: StateFlow<String?> = _action
+    private val _action = MutableStateFlow(BridgeEvent(null, 0L))
+    internal val action: StateFlow<BridgeEvent> = _action
 
     fun pushAction(action: String?) {
-        _action.value = action
+        _action.value = BridgeEvent(action, _action.value.id + 1L)
     }
 }
 
@@ -47,7 +49,12 @@ fun MainViewController() : platform.UIKit.UIViewController {
         val liveRoute by DeepLinkBridge.route.collectAsState()
         val liveShortcutAction by ShortcutBridge.action.collectAsState()
         CompositionLocalProvider(LocalPlatformContext provides platformContext) {
-            AppRoot(shortcutAction = liveShortcutAction, deepLinkRoute = liveRoute)
+            AppRoot(
+                shortcutAction = liveShortcutAction.value,
+                deepLinkRoute = liveRoute.value,
+                shortcutEventId = liveShortcutAction.id,
+                deepLinkEventId = liveRoute.id
+            )
         }
     }
 }

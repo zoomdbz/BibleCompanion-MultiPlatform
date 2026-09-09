@@ -24,6 +24,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val THEME = stringPreferencesKey("theme")
         val VERSION = stringPreferencesKey("translation")
         val READER_MODE = stringPreferencesKey("reader_mode")
+        val INTERNAL_BIBLE_VERSION = stringPreferencesKey("internal_bible_version")
+        val CHRONOLOGY_INCLUDE_DEUTERO = booleanPreferencesKey("chronology_include_deutero")
         val SHOW_DEUTERO = booleanPreferencesKey("show_deutero")
         val SHOW_APOC = booleanPreferencesKey("show_apoc")
         val SHOW_PSEUDEPIGRAPHA = booleanPreferencesKey("show_pseudepigrapha")
@@ -72,7 +74,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         PrefsState(
             theme = p[Keys.THEME] ?: "System",
             translation = resolvedVersion,
-            readerMode = p[Keys.READER_MODE] ?: "biblecom",
+            readerMode = p[Keys.READER_MODE] ?: "internal",
+            internalBibleVersion = p[Keys.INTERNAL_BIBLE_VERSION] ?: "bsb",
+            chronologyIncludeDeutero = p[Keys.CHRONOLOGY_INCLUDE_DEUTERO] ?: true,
             showDeutero = p[Keys.SHOW_DEUTERO] ?: true,
             showApoc = p[Keys.SHOW_APOC] ?: true,
             showPseudepigrapha = p[Keys.SHOW_PSEUDEPIGRAPHA] ?: true,
@@ -114,6 +118,12 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setReaderMode(mode: String) =
         context.dataStore.edit { it[Keys.READER_MODE] = mode }.let { Unit }
+
+    actual suspend fun setInternalBibleVersion(version: String) =
+        context.dataStore.edit { it[Keys.INTERNAL_BIBLE_VERSION] = version }.let { Unit }
+
+    actual suspend fun setChronologyIncludeDeutero(show: Boolean) =
+        context.dataStore.edit { it[Keys.CHRONOLOGY_INCLUDE_DEUTERO] = show }.let { Unit }
 
     actual suspend fun setDeutero(show: Boolean) =
         context.dataStore.edit { it[Keys.SHOW_DEUTERO] = show }.let { Unit }
@@ -240,36 +250,30 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             val list = p[Keys.SAVED_VERSES_JSON]?.let {
                 runCatching { json.decodeFromString<List<SavedVerse>>(it) }.getOrDefault(emptyList())
             } ?: emptyList()
-            val filtered = list.filter {
-                !(it.collection == verse.collection && it.bookId == verse.bookId &&
-                  it.storyId == verse.storyId && it.bulletIndex == verse.bulletIndex)
-            }
+            val filtered = list.filterNot { it.sameScriptureLocation(verse) }
             p[Keys.SAVED_VERSES_JSON] = json.encodeToString(filtered + verse)
         }
     }
 
-    actual suspend fun removeSavedVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int) {
+    actual suspend fun removeSavedVerse(verse: SavedVerse) {
         context.dataStore.edit { p ->
             val list = p[Keys.SAVED_VERSES_JSON]?.let {
                 runCatching { json.decodeFromString<List<SavedVerse>>(it) }.getOrDefault(emptyList())
             } ?: emptyList()
             p[Keys.SAVED_VERSES_JSON] = json.encodeToString(
-                list.filter { !(it.collection == collection && it.bookId == bookId &&
-                    it.storyId == storyId && it.bulletIndex == bulletIndex) }
+                list.filterNot { it.sameScriptureLocation(verse) }
             )
         }
     }
 
-    actual suspend fun updateVerseHighlight(collection: String, bookId: String, storyId: String, bulletIndex: Int, color: String?) {
+    actual suspend fun updateVerseHighlight(verse: SavedVerse, color: String?) {
         context.dataStore.edit { p ->
             val list = p[Keys.SAVED_VERSES_JSON]?.let {
                 runCatching { json.decodeFromString<List<SavedVerse>>(it) }.getOrDefault(emptyList())
             } ?: emptyList()
             p[Keys.SAVED_VERSES_JSON] = json.encodeToString(
                 list.map {
-                    if (it.collection == collection && it.bookId == bookId &&
-                        it.storyId == storyId && it.bulletIndex == bulletIndex
-                    ) it.copy(highlightColor = color) else it
+                    if (it.sameScriptureLocation(verse)) it.copy(highlightColor = color) else it
                 }
             )
         }
@@ -322,32 +326,30 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         }
     }
 
-    actual suspend fun addLabelToVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int, labelId: String) {
+    actual suspend fun addLabelToVerse(verse: SavedVerse, labelId: String) {
         context.dataStore.edit { p ->
             val list = p[Keys.SAVED_VERSES_JSON]?.let {
                 runCatching { json.decodeFromString<List<SavedVerse>>(it) }.getOrDefault(emptyList())
             } ?: emptyList()
             p[Keys.SAVED_VERSES_JSON] = json.encodeToString(
                 list.map {
-                    if (it.collection == collection && it.bookId == bookId &&
-                        it.storyId == storyId && it.bulletIndex == bulletIndex &&
-                        labelId !in it.labels
+                    if (it.sameScriptureLocation(verse) && labelId !in it.labels
                     ) it.copy(labels = it.labels + labelId) else it
                 }
             )
         }
     }
 
-    actual suspend fun removeLabelFromVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int, labelId: String) {
+    actual suspend fun removeLabelFromVerse(verse: SavedVerse, labelId: String) {
         context.dataStore.edit { p ->
             val list = p[Keys.SAVED_VERSES_JSON]?.let {
                 runCatching { json.decodeFromString<List<SavedVerse>>(it) }.getOrDefault(emptyList())
             } ?: emptyList()
             p[Keys.SAVED_VERSES_JSON] = json.encodeToString(
                 list.map {
-                    if (it.collection == collection && it.bookId == bookId &&
-                        it.storyId == storyId && it.bulletIndex == bulletIndex
-                    ) it.copy(labels = it.labels.filter { l -> l != labelId }) else it
+                    if (it.sameScriptureLocation(verse)) {
+                        it.copy(labels = it.labels.filter { l -> l != labelId })
+                    } else it
                 }
             )
         }

@@ -5,7 +5,6 @@ import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
 import com.dividesbyzer0.biblecompanion.platform.assetExists
 import com.dividesbyzer0.biblecompanion.platform.platformOpenUrl
-import com.dividesbyzer0.biblecompanion.platform.platformOpenUrlInBrowser
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKC
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKD
 import com.dividesbyzer0.biblecompanion.platform.ColorHsl
@@ -23,7 +22,6 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
-import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
@@ -36,9 +34,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.withStyle
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.JsonArray
@@ -97,6 +92,415 @@ private fun replaceKoreanLord(text: String, transform: (String) -> String): Stri
     }
   }
 
+private const val DIVINE_NAME_TOKEN = "\uFDD0"
+private const val TRADITIONAL_NAME_TOKEN = "\uFDD1"
+private const val DN_OPEN_TOKEN = "\uFDD2"
+private const val DN_CLOSE_TOKEN = "\uFDD3"
+private const val PRESERVED_NAME_OPEN_TOKEN = "\uFDD4"
+private const val PRESERVED_NAME_CLOSE_TOKEN = "\uFDD5"
+
+private val existingDnOpen = Regex("\\[DN\\s*]", RegexOption.IGNORE_CASE)
+private val existingDnClose = Regex("\\[/\\s*DN\\s*]", RegexOption.IGNORE_CASE)
+private val scriptureInlineTag = Regex(
+  "\\[(?:/\\s*)?(?:J|DN|ADD)\\s*]",
+  RegexOption.IGNORE_CASE
+)
+private val explicitLatinDivineName = Regex(
+  "(?<![\\p{L}\\p{Mn}])(?:Yahweh|YHWH|YHVH|Yahuah|Yahveh|Jehovah|Jah)(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
+private val traditionalConvertibleLatinDivineName = Regex(
+  "(?<![\\p{L}\\p{Mn}])(?:Yahweh|YHWH|YHVH|Yahuah|Yah)(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
+private val traditionalPreservedLatinDivineName = Regex(
+  "(?<![\\p{L}\\p{Mn}])(?:Yahveh|Jehovah|Jah)(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
+private val englishAngelOfLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])(angels?\\s+of\\s+)(the\\s+)?(Lord)(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
+private val spanishAngelOfLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])(ángel(?:es)?\\s+)(del\\s+)(Señor)(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
+private val frenchAngelOfLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])(anges?\\s+)(du\\s+)(Seigneur)(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
+private val germanAngelOfLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])(Engel(?:n|s)?\\s+)des\\s+(Herrn)(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
+private val hindiAngelOfLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])प्रभु(?=\\s+(?:का|के|की)\\s+(?:(?:एक)\\s+)?(?:स्वर्ग)?दूत)"
+)
+private val arabicLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])ا[\\p{Mn}]*ل[\\p{Mn}]*ر[\\p{Mn}]*ب[\\p{Mn}]*(?![\\p{L}\\p{Mn}])"
+)
+private val arabicYhwh = Regex(
+  "(?<![\\p{L}\\p{Mn}])ي[\\p{Mn}]*ه[\\p{Mn}]*و[\\p{Mn}]*ه[\\p{Mn}]*(?![\\p{L}\\p{Mn}])"
+)
+private val russianLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])Господ(?:ь|а|у|ом|е|ень|нее|него|нему|ним|нем|них|няя|нюю|ней|ня|ню|не|ни)(?![\\p{L}\\p{Mn}])"
+)
+
+/** Removes display-only semantic markers while preserving their text content. */
+internal fun stripScriptureInlineTags(text: String): String =
+  scriptureInlineTag.replace(text, "")
+
+/** Returns the first offset after a supported inline tag, or -1 when none starts at [off]. */
+internal fun scriptureInlineTagEnd(
+  text: String,
+  off: Int,
+  opening: Boolean,
+  tag: String
+): Int {
+  if (off !in text.indices || text[off] != '[') return -1
+  var cursor = off + 1
+  if (!opening) {
+    if (cursor >= text.length || text[cursor] != '/') return -1
+    cursor++
+    while (cursor < text.length && text[cursor].isWhitespace()) cursor++
+  }
+  if (cursor + tag.length > text.length) return -1
+  if (!text.substring(cursor, cursor + tag.length).equals(tag, ignoreCase = true)) return -1
+  cursor += tag.length
+  while (cursor < text.length && text[cursor].isWhitespace()) cursor++
+  if (cursor >= text.length || text[cursor] != ']') return -1
+  return cursor + 1
+}
+
+/**
+ * Applies [transform] only outside an existing [DN]...[/DN] span. This makes
+ * Divine Name rendering idempotent and keeps a second rendering pass from
+ * nesting color markers.
+ */
+private fun mapOutsideDivineNameTags(text: String, transform: (String) -> String): String {
+  var cursor = 0
+  val out = StringBuilder(text.length + 16)
+  while (cursor < text.length) {
+    val open = existingDnOpen.find(text, cursor)
+    if (open == null) {
+      out.append(transform(text.substring(cursor)))
+      break
+    }
+    out.append(transform(text.substring(cursor, open.range.first)))
+    val close = existingDnClose.find(text, open.range.last + 1)
+    if (close == null) {
+      // Preserve malformed pre-existing markup instead of making it worse.
+      out.append(text.substring(open.range.first))
+      break
+    }
+    out.append(text.substring(open.range.first, close.range.last + 1))
+    cursor = close.range.last + 1
+  }
+  return out.toString()
+}
+
+private fun languageKey(lang: String): String {
+  val tag = lang.replace('_', '-')
+  return when {
+    tag.startsWith("zh-Hant", ignoreCase = true) ||
+      tag.startsWith("zh-TW", ignoreCase = true) ||
+      tag.startsWith("zh-HK", ignoreCase = true) -> "zh-Hant"
+    tag.startsWith("zh", ignoreCase = true) -> "zh-Hans"
+    else -> tag.substringBefore('-').lowercase()
+  }
+}
+
+private fun localizedDivineName(mode: String, lang: String): String = when (mode) {
+  "yhwh" -> when (lang) {
+    "ru" -> "ЙХВХ"
+    "ar" -> "يهوه"
+    else -> "YHWH"
+  }
+  "yhvh" -> "YHVH"
+  else -> when (lang) {
+    "es" -> "Yahvé"
+    "pt" -> "Javé"
+    "fr" -> "Yahvé"
+    "de" -> "Jahwe"
+    "it" -> "Yahweh"
+    "ru" -> "Яхве"
+    "ar" -> "يهوه"
+    "hi" -> "याहवे"
+    "ko" -> "야훼"
+    "ja" -> "ヤハウェ"
+    "zh-Hans", "zh-Hant" -> "雅威"
+    else -> "Yahweh"
+  }
+}
+
+private fun traditionalDivineName(lang: String): String = when (lang) {
+  "en" -> "the LORD"
+  "es" -> "SEÑOR"
+  "pt" -> "SENHOR"
+  "fr" -> "ÉTERNEL"
+  "de" -> "HERR"
+  "it" -> "SIGNORE"
+  "ru" -> "Господь"
+  "ar" -> "الرَّبّ"
+  "hi" -> "यहोवा"
+  "ko" -> "주"
+  "ja" -> "主"
+  "zh-Hans" -> "耶和华"
+  "zh-Hant" -> "耶和華"
+  else -> "the LORD"
+}
+
+private fun replaceEnglishOtTitles(text: String): String {
+  var t = englishAngelOfLord.replace(text) { m ->
+    m.groupValues[1] + DIVINE_NAME_TOKEN
+  }
+  return t
+    .replace("the LORD GOD", DIVINE_NAME_TOKEN)
+    .replace("The LORD GOD", DIVINE_NAME_TOKEN)
+    .replace("THE LORD GOD", DIVINE_NAME_TOKEN)
+    .replace("GOD the LORD", DIVINE_NAME_TOKEN)
+    .replace("LORD GOD", DIVINE_NAME_TOKEN)
+    .replace("GOD the Lord", "$DIVINE_NAME_TOKEN the Lord")
+    .replace("GOD, the Lord", "$DIVINE_NAME_TOKEN, the Lord")
+    .replace("Lord GOD", "Lord $DIVINE_NAME_TOKEN")
+    .replace("the LORD", DIVINE_NAME_TOKEN)
+    .replace("The LORD", DIVINE_NAME_TOKEN)
+    .replace("THE LORD", DIVINE_NAME_TOKEN)
+    .replace(Regex("\\bLORD\\b"), DIVINE_NAME_TOKEN)
+    .replace(Regex("\\bGOD\\b"), DIVINE_NAME_TOKEN)
+}
+
+private fun replaceNameModeSegment(text: String, lang: String, isOt: Boolean): String {
+  var t = text
+  when (lang) {
+    "es" -> {
+      t = t.replace(uwb("Jehová"), DIVINE_NAME_TOKEN)
+        .replace(uwb("Yahveh"), DIVINE_NAME_TOKEN)
+        .replace(uwb("Yahvé"), DIVINE_NAME_TOKEN)
+      if (isOt) t = spanishAngelOfLord.replace(t) { m ->
+        m.groupValues[1] + "de " + DIVINE_NAME_TOKEN
+      }.replace("del SEÑOR", "de $DIVINE_NAME_TOKEN")
+        .replace("al SEÑOR", "a $DIVINE_NAME_TOKEN")
+        .replace("El SEÑOR", DIVINE_NAME_TOKEN)
+        .replace("el SEÑOR", DIVINE_NAME_TOKEN)
+        .replace(uwb("SEÑOR"), DIVINE_NAME_TOKEN)
+    }
+    "pt" -> {
+      t = t.replace(uwb("Javé"), DIVINE_NAME_TOKEN)
+        .replace(uwb("Jeová"), DIVINE_NAME_TOKEN)
+      if (isOt) t = t
+        .replace("do SENHOR", "de $DIVINE_NAME_TOKEN")
+        .replace("ao SENHOR", "a $DIVINE_NAME_TOKEN")
+        .replace("O SENHOR", DIVINE_NAME_TOKEN)
+        .replace("o SENHOR", DIVINE_NAME_TOKEN)
+        .replace(uwb("SENHOR"), DIVINE_NAME_TOKEN)
+        .replace("do Senhor", "de $DIVINE_NAME_TOKEN")
+        .replace("ao Senhor", "a $DIVINE_NAME_TOKEN")
+        .replace("no Senhor", "em $DIVINE_NAME_TOKEN")
+        .replace("O Senhor", DIVINE_NAME_TOKEN)
+        .replace("o Senhor", DIVINE_NAME_TOKEN)
+        .replace(uwb("Senhor"), DIVINE_NAME_TOKEN)
+    }
+    "fr" -> {
+      t = t.replace(uwb("Yahvé"), DIVINE_NAME_TOKEN)
+        .replace(uwb("Yahveh"), DIVINE_NAME_TOKEN)
+      if (isOt) t = frenchAngelOfLord.replace(t) { m ->
+        m.groupValues[1] + "de " + DIVINE_NAME_TOKEN
+      }.replace("l'Éternel", DIVINE_NAME_TOKEN)
+        .replace("l’Éternel", DIVINE_NAME_TOKEN)
+        .replace("L'Éternel", DIVINE_NAME_TOKEN)
+        .replace("L’Éternel", DIVINE_NAME_TOKEN)
+        .replace("l'ÉTERNEL", DIVINE_NAME_TOKEN)
+        .replace("l’ÉTERNEL", DIVINE_NAME_TOKEN)
+        .replace("L'ÉTERNEL", DIVINE_NAME_TOKEN)
+        .replace("L’ÉTERNEL", DIVINE_NAME_TOKEN)
+        .replace(uwb("ÉTERNEL"), DIVINE_NAME_TOKEN)
+        .replace(uwb("Éternel"), DIVINE_NAME_TOKEN)
+        .replace("du SEIGNEUR", "de $DIVINE_NAME_TOKEN")
+        .replace("au SEIGNEUR", "à $DIVINE_NAME_TOKEN")
+        .replace("Le SEIGNEUR", DIVINE_NAME_TOKEN)
+        .replace("le SEIGNEUR", DIVINE_NAME_TOKEN)
+        .replace(Regex("\\bSEIGNEUR\\b"), DIVINE_NAME_TOKEN)
+    }
+    "de" -> {
+      t = t.replace(uwb("Jahwe"), DIVINE_NAME_TOKEN)
+        .replace(uwb("Jehova"), DIVINE_NAME_TOKEN)
+      if (isOt) t = germanAngelOfLord.replace(t) { m ->
+        m.groupValues[1] + DIVINE_NAME_TOKEN + "s"
+      }.replace("des HERRN", "${DIVINE_NAME_TOKEN}s")
+        .replace("zum HERRN", "zu $DIVINE_NAME_TOKEN")
+        .replace("vom HERRN", "von $DIVINE_NAME_TOKEN")
+        .replace("am HERRN", "an $DIVINE_NAME_TOKEN")
+        .replace("Der HERR", DIVINE_NAME_TOKEN)
+        .replace("der HERR", DIVINE_NAME_TOKEN)
+        .replace("dem HERRN", DIVINE_NAME_TOKEN)
+        .replace("den HERRN", DIVINE_NAME_TOKEN)
+        .replace(Regex("\\bHERRN?\\b"), DIVINE_NAME_TOKEN)
+    }
+    "it" -> {
+      t = t.replace(uwb("Geova"), DIVINE_NAME_TOKEN)
+      if (isOt) t = t
+        .replace("del SIGNORE", "di $DIVINE_NAME_TOKEN")
+        .replace("al SIGNORE", "a $DIVINE_NAME_TOKEN")
+        .replace("Il SIGNORE", DIVINE_NAME_TOKEN)
+        .replace("il SIGNORE", DIVINE_NAME_TOKEN)
+        .replace(Regex("\\bSIGNORE\\b"), DIVINE_NAME_TOKEN)
+        .replace("del Signore", "di $DIVINE_NAME_TOKEN")
+        .replace("dal Signore", "da $DIVINE_NAME_TOKEN")
+        .replace("nel Signore", "in $DIVINE_NAME_TOKEN")
+        .replace("al Signore", "a $DIVINE_NAME_TOKEN")
+        .replace("Il Signore", DIVINE_NAME_TOKEN)
+        .replace("il Signore", DIVINE_NAME_TOKEN)
+        .replace(Regex("\\bSignore\\b"), DIVINE_NAME_TOKEN)
+    }
+    "ru" -> {
+      t = t.replace(uwb("Яхве"), DIVINE_NAME_TOKEN)
+        .replace(uwb("Иегова"), DIVINE_NAME_TOKEN)
+      if (isOt) t = t
+        .replace("ГОСПОДЬ", DIVINE_NAME_TOKEN)
+        .replace("ГОСПОДА", DIVINE_NAME_TOKEN)
+        .replace("ГОСПОДУ", DIVINE_NAME_TOKEN)
+        .replace("ГОСПОДОМ", DIVINE_NAME_TOKEN)
+        .replace(russianLord, DIVINE_NAME_TOKEN)
+    }
+    "ar" -> {
+      t = t.replace(arabicYhwh, DIVINE_NAME_TOKEN)
+      if (isOt) t = t.replace(arabicLord, DIVINE_NAME_TOKEN)
+    }
+    "hi" -> {
+      t = t.replace(uwb("यहोवा"), DIVINE_NAME_TOKEN)
+        .replace(uwb("याहवे"), DIVINE_NAME_TOKEN)
+      if (isOt) t = t.replace(hindiAngelOfLord, DIVINE_NAME_TOKEN)
+    }
+    "ko" -> {
+      t = t.replace("여호와", DIVINE_NAME_TOKEN).replace("야훼", DIVINE_NAME_TOKEN)
+      if (isOt) t = replaceKoreanLord(t) { DIVINE_NAME_TOKEN }
+    }
+    "ja" -> {
+      t = t.replace("ヤハウェ", DIVINE_NAME_TOKEN)
+        .replace("ヱホバ", DIVINE_NAME_TOKEN)
+        .replace("エホバ", DIVINE_NAME_TOKEN)
+      if (isOt) t = replaceJapaneseLord(t) { DIVINE_NAME_TOKEN }
+    }
+    "zh-Hans" -> {
+      t = t.replace("耶和华", DIVINE_NAME_TOKEN).replace("雅威", DIVINE_NAME_TOKEN)
+      if (isOt) t = t.replace(Regex("上主(?=的(?:天使|使者)|之(?:天使|使者))"), DIVINE_NAME_TOKEN)
+    }
+    "zh-Hant" -> {
+      t = t.replace("耶和華", DIVINE_NAME_TOKEN).replace("雅威", DIVINE_NAME_TOKEN)
+      if (isOt) t = t.replace(Regex("上主(?=的(?:天使|使者)|之(?:天使|使者))"), DIVINE_NAME_TOKEN)
+    }
+  }
+  if (isOt) t = replaceEnglishOtTitles(t)
+  return explicitLatinDivineName.replace(t, DIVINE_NAME_TOKEN)
+}
+
+private fun traditionalWrap(value: String): String = DN_OPEN_TOKEN + value + DN_CLOSE_TOKEN
+
+private fun highlightEnglishOtTitles(text: String): String {
+  var t = text
+    .replace(Regex("\\bLORD\\b")) { traditionalWrap(it.value) }
+    .replace(Regex("\\bGOD\\b")) { traditionalWrap(it.value) }
+  t = englishAngelOfLord.replace(t) { m ->
+    m.groupValues[1] + m.groupValues[2] + traditionalWrap(m.groupValues[3])
+  }
+  return t
+}
+
+private fun highlightTraditionalSegment(text: String, lang: String, isOt: Boolean): String {
+  val preservedNames = mutableListOf<String>()
+  var t = traditionalPreservedLatinDivineName.replace(text) { match ->
+    val index = preservedNames.size
+    preservedNames += match.value
+    "$PRESERVED_NAME_OPEN_TOKEN$index$PRESERVED_NAME_CLOSE_TOKEN"
+  }
+  t = traditionalConvertibleLatinDivineName.replace(t, TRADITIONAL_NAME_TOKEN)
+  if (isOt) t = highlightEnglishOtTitles(t)
+  when (lang) {
+    "en" -> Unit
+    "es" -> {
+      t = t.replace(uwb("SEÑOR")) { traditionalWrap(it.value) }
+        .replace(uwb("Jehová")) { traditionalWrap(it.value) }
+        .replace(uwb("Yahveh")) { traditionalWrap(it.value) }
+        .replace(uwb("Yahvé")) { traditionalWrap(it.value) }
+      if (isOt) t = spanishAngelOfLord.replace(t) { m ->
+        m.groupValues[1] + m.groupValues[2] + traditionalWrap(m.groupValues[3])
+      }
+    }
+    "pt" -> {
+      t = t.replace(Regex("\\bSENHOR\\b")) { traditionalWrap(it.value) }
+        .replace(uwb("Javé")) { traditionalWrap(it.value) }
+        .replace(uwb("Jeová")) { traditionalWrap(it.value) }
+      if (isOt) t = t.replace(Regex("\\bSenhor\\b")) { traditionalWrap(it.value) }
+    }
+    "fr" -> {
+      t = t.replace(uwb("ÉTERNEL")) { traditionalWrap(it.value) }
+        .replace(uwb("Éternel")) { traditionalWrap(it.value) }
+        .replace(Regex("\\bSEIGNEUR\\b")) { traditionalWrap(it.value) }
+        .replace(uwb("Yahvé")) { traditionalWrap(it.value) }
+        .replace(uwb("Yahveh")) { traditionalWrap(it.value) }
+      if (isOt) t = frenchAngelOfLord.replace(t) { m ->
+        m.groupValues[1] + m.groupValues[2] + traditionalWrap(m.groupValues[3])
+      }
+    }
+    "de" -> {
+      t = t.replace(Regex("\\bHERRN?\\b")) { traditionalWrap(it.value) }
+        .replace(uwb("Jahwe")) { traditionalWrap(it.value) }
+        .replace(uwb("Jehova")) { traditionalWrap(it.value) }
+      if (isOt) t = germanAngelOfLord.replace(t) { m ->
+        m.groupValues[1] + "des " + traditionalWrap(m.groupValues[2])
+      }
+    }
+    "it" -> {
+      t = t.replace(Regex("\\bSIGNORE\\b")) { traditionalWrap(it.value) }
+        .replace(uwb("Geova")) { traditionalWrap(it.value) }
+      if (isOt) t = t.replace(Regex("\\bSignore\\b")) { traditionalWrap(it.value) }
+    }
+    "ru" -> {
+      t = t.replace(Regex("ГОСПОДЬ|ГОСПОДА|ГОСПОДУ|ГОСПОДОМ")) { traditionalWrap(it.value) }
+        .replace(uwb("Яхве")) { traditionalWrap(it.value) }
+        .replace(uwb("Иегова")) { traditionalWrap(it.value) }
+      if (isOt) t = t.replace(russianLord) { traditionalWrap(it.value) }
+    }
+    "ar" -> {
+      t = t.replace(arabicYhwh) { traditionalWrap(it.value) }
+      if (isOt) t = t.replace(arabicLord) { traditionalWrap(it.value) }
+    }
+    "hi" -> {
+      t = t.replace(uwb("यहोवा")) { traditionalWrap(it.value) }
+        .replace(uwb("याहवे")) { traditionalWrap(it.value) }
+      if (isOt) t = t.replace(hindiAngelOfLord) { traditionalWrap(it.value) }
+    }
+    "ko" -> {
+      t = t.replace(Regex("여호와|야훼")) { traditionalWrap(it.value) }
+      if (isOt) t = replaceKoreanLord(t) { traditionalWrap(it) }
+    }
+    "ja" -> {
+      t = t.replace(Regex("ヤハウェ|ヱホバ|エホバ")) { traditionalWrap(it.value) }
+      if (isOt) t = replaceJapaneseLord(t) { traditionalWrap(it) }
+    }
+    "zh-Hans" -> {
+      t = t.replace(Regex("耶和华|雅威")) { traditionalWrap(it.value) }
+      if (isOt) t = t.replace(Regex("上主(?=的(?:天使|使者)|之(?:天使|使者))")) {
+        traditionalWrap(it.value)
+      }
+    }
+    "zh-Hant" -> {
+      t = t.replace(Regex("耶和華|雅威")) { traditionalWrap(it.value) }
+      if (isOt) t = t.replace(Regex("上主(?=的(?:天使|使者)|之(?:天使|使者))")) {
+        traditionalWrap(it.value)
+      }
+    }
+  }
+  for ((index, value) in preservedNames.withIndex()) {
+    t = t.replace(
+      "$PRESERVED_NAME_OPEN_TOKEN$index$PRESERVED_NAME_CLOSE_TOKEN",
+      traditionalWrap(value)
+    )
+  }
+  return t
+}
+
 internal fun applyDivineName(
   text: String,
   mode: String,
@@ -104,259 +508,27 @@ internal fun applyDivineName(
   colorActive: Boolean,
   collection: String = "old_testament"
 ): String {
-  val lk = if (lang.startsWith("zh")) lang else lang.substringBefore('-')
+  val lk = languageKey(lang)
   val isOt = collection == "old_testament" ||
     collection == "deuterocanonical" ||
     collection == "apocrypha" ||
     collection == "pseudepigrapha"
 
-  fun wrap(name: String): String =
-    if (colorActive) "[DN]$name[/DN]" else name
-
   if (mode == "traditional") {
     if (!colorActive) return text
-    return highlightTraditionalName(text, lk, isOt)
+    val traditionalName = traditionalDivineName(lk)
+    return mapOutsideDivineNameTags(text) { segment ->
+      highlightTraditionalSegment(segment, lk, isOt)
+        .replace(TRADITIONAL_NAME_TOKEN, "[DN]$traditionalName[/DN]")
+        .replace(DN_OPEN_TOKEN, "[DN]")
+        .replace(DN_CLOSE_TOKEN, "[/DN]")
+    }
   }
 
-  val base = when (mode) {
-    "yhwh" -> "YHWH"
-    "yhvh" -> "YHVH"
-    else -> "Yahweh"
-  }
-  val r = wrap(base)
-  // Universal pass for the Latin/English Tetragrammaton (appears in study notes
-  // of every language, and in English verses). The name is a proper noun, so the
-  // definite article that "the LORD" carries is DROPPED in the name modes
-  // ("the angel of the LORD" -> "the angel of Yahweh"). The bare-name regex runs
-  // FIRST so the wrapped name inserted by later rules is never re-matched (no
-  // double [DN] wrap). BSB pair constructions: "Lord GOD" = Adonai + the
-  // Tetragrammaton, so "Lord" stays and GOD becomes the name ("Lord Yahweh");
-  // "GOD the Lord" = Tetragrammaton + Adonai; the rare Yah-YHWH doublings
-  // (Isa 12:2; 26:4) collapse to one name. Acts 17:23 "UNKNOWN GOD" is untouched.
-  val latin = text
-    .replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b"), r)
-    .replace("the LORD GOD", r)
-    .replace("GOD the LORD", r)
-    .replace("LORD GOD", r)
-    .replace("GOD the Lord", "$r the Lord")
-    .replace("GOD, the Lord", "$r, the Lord")
-    .replace("Lord GOD", "Lord $r")
-    .replace("the LORD", r)
-    .replace("The LORD", r)
-    .replace("THE LORD", r)
-    .replace(Regex("\\bLORD\\b"), r)
-  return when (lk) {
-    "en" -> latin
-    "es" -> latin
-      .replace("del SEÑOR", "de $r")
-      .replace("al SEÑOR", "a $r")
-      .replace("El SEÑOR", r)
-      .replace("el SEÑOR", r)
-      .replace(uwb("SEÑOR"), r)
-      .replace(uwb("Jehová"), r)
-      .replace(uwb("Yahveh"), r)
-    "pt" -> {
-      var t = latin
-        .replace("do SENHOR", "de $r")
-        .replace("ao SENHOR", "a $r")
-        .replace("O SENHOR", r)
-        .replace("o SENHOR", r)
-        .replace(uwb("SENHOR"), r)
-        .replace(uwb("Javé"), r)
-      // "Senhor" (mixed case) is overloaded: the Tetragrammaton in the OT but
-      // "the Lord (Jesus)" in the NT, so only convert it in OT context. Drop the
-      // article and fix the Portuguese contractions (do/ao/no).
-      if (isOt) t = t
-        .replace("do Senhor", "de $r")
-        .replace("ao Senhor", "a $r")
-        .replace("no Senhor", "em $r")
-        .replace("O Senhor", r)
-        .replace("o Senhor", r)
-        .replace(uwb("Senhor"), r)
-      t
-    }
-    "fr" -> latin
-      // French stores the divine name as mixed-case "l'Éternel"; the elided
-      // article l' is part of the token, so dropping it leaves any preposition
-      // intact ("de l'Éternel" -> "de Yahweh"). Cover straight (') and curly
-      // (U+2019) apostrophes. The all-caps ÉTERNEL forms are legacy.
-      .replace("l'Éternel", r)
-      .replace("l’Éternel", r)
-      .replace("L'Éternel", r)
-      .replace("L’Éternel", r)
-      .replace("l'ÉTERNEL", r)
-      .replace("l’ÉTERNEL", r)
-      .replace("L'ÉTERNEL", r)
-      .replace("L’ÉTERNEL", r)
-      .replace(uwb("ÉTERNEL"), r)
-      .replace(uwb("Éternel"), r)
-      .replace("du SEIGNEUR", "de $r")
-      .replace("au SEIGNEUR", "à $r")
-      .replace("Le SEIGNEUR", r)
-      .replace("le SEIGNEUR", r)
-      .replace(Regex("\\bSEIGNEUR\\b"), r)
-    "de" -> latin
-      // Drop the German article; the name is uninflected except the genitive
-      // "des HERRN" -> "Yahwehs" (Saxon genitive), and the dem/zum/vom/am
-      // contractions keep their preposition ("zum HERRN" -> "zu Yahweh").
-      .replace("des HERRN", "${r}s")
-      .replace("zum HERRN", "zu $r")
-      .replace("vom HERRN", "von $r")
-      .replace("am HERRN", "an $r")
-      .replace("Der HERR", r)
-      .replace("der HERR", r)
-      .replace("dem HERRN", r)
-      .replace("den HERRN", r)
-      .replace(Regex("\\bHERRN?\\b"), r)
-      .replace(Regex("\\bJahwe\\b"), r)
-    "it" -> {
-      var t = latin
-        .replace("del SIGNORE", "di $r")
-        .replace("al SIGNORE", "a $r")
-        .replace("Il SIGNORE", r)
-        .replace("il SIGNORE", r)
-        .replace(Regex("\\bSIGNORE\\b"), r)
-      // "Signore" (mixed case) is overloaded (NT "il Signore Gesù"), so only in
-      // OT context. Drop the article and fix contractions (del/dal/nel/al).
-      if (isOt) t = t
-        .replace("del Signore", "di $r")
-        .replace("dal Signore", "da $r")
-        .replace("nel Signore", "in $r")
-        .replace("al Signore", "a $r")
-        .replace("Il Signore", r)
-        .replace("il Signore", r)
-        .replace(Regex("\\bSignore\\b"), r)
-      t
-    }
-    "ru" -> {
-      var t = latin
-        .replace("ГОСПОДЬ", r).replace("ГОСПОДА", r)
-        .replace("ГОСПОДУ", r).replace("ГОСПОДОМ", r)
-        .replace(uwb("Яхве"), r)
-      if (isOt) {
-        // Unicode-boundary regex covering all Russian Господь declensions including
-        // long-form possessive adjectives (Господней, Господнего, Господним, etc.)
-        // without substring-eating into Господин (gentleman).
-        val ruYhwh = Regex(
-          "(?<![\\p{L}\\p{Mn}])Господ(?:ь|а|у|ом|е|нее|него|нему|ним|нем|них|няя|нюю|ней|ня|ню|не|ни)(?![\\p{L}\\p{Mn}])"
-        )
-        t = t.replace(ruYhwh, r)
-      }
-      t
-    }
-    "ar" -> {
-      var t = latin
-        .replace("الرَّبُّ", r).replace("الرَّبِّ", r).replace("الرَّبَّ", r)
-        .replace("يَهوَهْ", r).replace("يهوه", r)
-      if (isOt) t = t.replace(uwb("الرب"), r)
-      t
-    }
-    "hi" -> latin.replace("यहोवा", r)
-    "ko" -> {
-      var t = latin.replace("여호와", r).replace("야훼", r)
-      if (isOt) t = replaceKoreanLord(t) { r }
-      t
-    }
-    "ja" -> {
-      var t = latin.replace("ヤハウェ", r).replace("ヱホバ", r)
-      if (isOt) t = replaceJapaneseLord(t) { r }
-      t
-    }
-    "zh-Hans" -> latin.replace("耶和华", r).replace("雅威", r)
-    "zh-Hant" -> latin.replace("耶和華", r).replace("雅威", r)
-    else -> latin
-  }
-}
-
-private fun highlightTraditionalName(text: String, lang: String, isOt: Boolean): String {
-  fun w(s: String) = "[DN]$s[/DN]"
-  // Study notes write the Tetragrammaton as the Latin "YHWH"/"Yahweh"/etc. In
-  // traditional mode the user wants this language's traditional rendering (the
-  // LORD, SEÑOR, ...), so convert those Latin tokens to it FIRST (bare); the
-  // coloring passes below then wrap it once like any other traditional token.
-  // The app's verse text already stores the traditional token (no Latin YHWH),
-  // so it is unaffected by this conversion.
-  val tradWord = when (lang) {
-    "en" -> "the LORD"
-    "es" -> "SEÑOR"
-    "pt" -> "SENHOR"
-    "fr" -> "ÉTERNEL"
-    "de" -> "HERR"
-    "it" -> "SIGNORE"
-    "ru" -> "Господь"
-    "ar" -> "الرب"
-    "hi" -> "यहोवा"
-    "ko" -> "주"
-    "ja" -> "主"
-    "zh-Hans" -> "耶和华"
-    "zh-Hant" -> "耶和華"
-    else -> "the LORD"
-  }
-  var converted = text.replace(Regex("\\b(?:Yahweh|YHWH|YHVH|Yahuah|Yah)\\b"), tradWord)
-  if (lang == "en") converted = converted.replace("the the LORD", "the LORD")
-  // Color the universal English tokens; the converted tradWord is colored here
-  // (en) or by the localized branch below (other languages).
-  val latin = converted
-    .replace(Regex("\\bLORD\\b")) { w(it.value) }
-    .replace(Regex("\\bGOD\\b")) { w(it.value) }
-  return when (lang) {
-    "en" -> latin
-    "es" -> latin
-      .replace(uwb("SEÑOR")) { w(it.value) }
-      .replace(uwb("Jehová")) { w(it.value) }
-      .replace(uwb("Yahveh")) { w(it.value) }
-    "pt" -> {
-      var t = latin
-        .replace(Regex("\\bSENHOR\\b")) { w(it.value) }
-        .replace(uwb("Javé")) { w(it.value) }
-      if (isOt) t = t.replace(Regex("\\bSenhor\\b")) { w(it.value) }
-      t
-    }
-    "fr" -> latin
-      .replace(uwb("ÉTERNEL")) { w(it.value) }
-      .replace(uwb("Éternel")) { w(it.value) }
-      .replace(Regex("\\bSEIGNEUR\\b")) { w(it.value) }
-    "de" -> latin
-      .replace(Regex("\\bHERRN?\\b")) { w(it.value) }
-      .replace(Regex("\\bJahwe\\b")) { w(it.value) }
-    "it" -> {
-      var t = latin.replace(Regex("\\bSIGNORE\\b")) { w(it.value) }
-      if (isOt) t = t.replace(Regex("\\bSignore\\b")) { w(it.value) }
-      t
-    }
-    "ru" -> {
-      var t = latin
-        .replace(Regex("ГОСПОДЬ|ГОСПОДА|ГОСПОДУ|ГОСПОДОМ")) { w(it.value) }
-        .replace(uwb("Яхве")) { w(it.value) }
-      if (isOt) {
-        val ruYhwh = Regex(
-          "(?<![\\p{L}\\p{Mn}])Господ(?:ь|а|у|ом|е|нее|него|нему|ним|нем|них|няя|нюю|ней|ня|ню|не|ни)(?![\\p{L}\\p{Mn}])"
-        )
-        t = t.replace(ruYhwh) { w(it.value) }
-      }
-      t
-    }
-    "ar" -> {
-      var t = latin
-        .replace(Regex("الرَّبُّ|الرَّبِّ|الرَّبَّ")) { w(it.value) }
-        .replace(Regex("يَهوَهْ|يهوه")) { w(it.value) }
-      if (isOt) t = t.replace(uwb("الرب")) { w(it.value) }
-      t
-    }
-    "hi" -> latin.replace(Regex("यहोवा")) { w(it.value) }
-    "ko" -> {
-      var t = latin.replace(Regex("여호와|야훼")) { w(it.value) }
-      if (isOt) t = replaceKoreanLord(t) { w(it) }
-      t
-    }
-    "ja" -> {
-      var t = latin.replace(Regex("ヤハウェ|ヱホバ")) { w(it.value) }
-      if (isOt) t = replaceJapaneseLord(t) { w(it) }
-      t
-    }
-    "zh-Hans" -> latin.replace(Regex("耶和华|雅威")) { w(it.value) }
-    "zh-Hant" -> latin.replace(Regex("耶和華|雅威")) { w(it.value) }
-    else -> latin
+  val localizedName = localizedDivineName(mode, lk)
+  val renderedName = if (colorActive) "[DN]$localizedName[/DN]" else localizedName
+  return mapOutsideDivineNameTags(text) { segment ->
+    replaceNameModeSegment(segment, lk, isOt).replace(DIVINE_NAME_TOKEN, renderedName)
   }
 }
 
@@ -566,6 +738,22 @@ object ScriptureRefs {
     return null
   }
 
+  fun canonicalizeRef(refText: String): String {
+    if (books.isEmpty()) return refText
+    val normalized = normalizeNFKC(refText)
+      .replace('\u3000', ' ')
+      .replace('\u00A0', ' ')
+      .replace('\u202F', ' ')
+    for (i in normalized.indices) {
+      val prev = normalized.getOrNull(i - 1)
+      if (!isLeftBoundary(prev)) continue
+      val hit = scanBookAt(normalized, i) ?: continue
+      val (entry, consumed) = hit
+      return normalized.substring(0, i) + entry.canon + normalized.substring(i + consumed)
+    }
+    return refText
+  }
+
   fun localizeRef(englishRef: String): String {
     if (books.isEmpty()) return englishRef
     val s = normalizeNFKC(englishRef)
@@ -647,8 +835,6 @@ object ScriptureRefs {
       it.canon.equals(defaultBook, ignoreCase = true)
     }
     val ctx = LocalPlatformContext.current
-    val scope = rememberCoroutineScope()
-
     val linkStyle = SpanStyle(
       textDecoration = TextDecoration.Underline,
       color = MaterialTheme.colorScheme.primary
@@ -661,13 +847,7 @@ object ScriptureRefs {
     var navGate by remember { mutableStateOf(false) }
     val internalNav = LocalInternalNavigate.current
 
-    fun openUrl(u: String, preferBrowser: Boolean = false) {
-      if (preferBrowser) {
-        platformOpenUrlInBrowser(ctx, u)
-      } else {
-        platformOpenUrl(ctx, u)
-      }
-    }
+    fun openUrl(u: String) = platformOpenUrl(ctx, u)
 
     val effectiveLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
     val compactReferenceLanguage = inlineMarkdown && when (effectiveLang) {
@@ -675,7 +855,7 @@ object ScriptureRefs {
       else -> false
     }
 
-    val displayText = normalizeNFKC(rawText)
+    val displayText = rawText
       .replace('\u3000', ' ')
       .replace('\u00A0', ' ')
       .replace('\u202F', ' ')
@@ -684,10 +864,19 @@ object ScriptureRefs {
       .replace('\u2003', ' ')
       .let { applyDivineName(it, prefs.divineName, effectiveLang, prefs.divineNameColor != "default", collection) }
 
-    // Scan text: additionally convert CJK ideographic comma (、) to ASCII comma
-    // for ref-tail matching. This is 1:1 so positions stay aligned with displayText.
+    // Normalize only the separate scanner copy. Every replacement stays one code
+    // point wide so annotation offsets remain aligned while displayed Scripture
+    // retains its original compatibility characters.
     val scanText = buildString(displayText.length) {
-      for (ch in displayText) append(if (ch == '\u3001') ',' else ch)
+      for (ch in displayText) {
+        append(
+          when {
+            ch == '\u3001' -> ','
+            ch in '\uFF01'..'\uFF5E' -> (ch.code - 0xFEE0).toChar()
+            else -> ch
+          }
+        )
+      }
     }
 
     val rawDisplayParts = displayText.split(Regex("[;\uFF1B]"))
@@ -725,6 +914,11 @@ object ScriptureRefs {
         if (dnOn) pop() else pushStyle(SpanStyle(color = dnColor))
         dnOn = !dnOn
       }
+      var addedWordOn = false
+      fun toggleAddedWord() {
+        if (addedWordOn) pop() else pushStyle(SpanStyle(fontStyle = FontStyle.Italic))
+        addedWordOn = !addedWordOn
+      }
       var pIdx = 0
       while (pIdx <= lastIdx) {
         val part = scanParts[pIdx].trim()
@@ -747,31 +941,24 @@ object ScriptureRefs {
             continue
           }
 
-          fun startsTag(s: String, off: Int, opening: Boolean, tag: String): Int {
-            if (off >= s.length || s[off] != '[') return -1
-            var j = off + 1
-            if (!opening) {
-              if (j >= s.length || s[j] != '/') return -1
-              j++
-              while (j < s.length && s[j].isWhitespace()) j++
-            }
-            if (j + tag.length > s.length) return -1
-            if (!s.substring(j, j + tag.length).equals(tag, ignoreCase = true)) return -1
-            j += tag.length
-            while (j < s.length && s[j].isWhitespace()) j++
-            if (j >= s.length || s[j] != ']') return -1
-            return j + 1
-          }
-
-          val jOpenEnd  = startsTag(part, i, opening = true, "J")
+          val jOpenEnd  = scriptureInlineTagEnd(part, i, opening = true, "J")
           if (jOpenEnd > 0) { toggleJesus(); i = jOpenEnd; continue }
-          val jCloseEnd = startsTag(part, i, opening = false, "J")
+          val jCloseEnd = scriptureInlineTagEnd(part, i, opening = false, "J")
           if (jCloseEnd > 0) { if (jesusOn) toggleJesus(); i = jCloseEnd; continue }
 
-          val dnOpenEnd  = startsTag(part, i, opening = true, "DN")
+          val dnOpenEnd  = scriptureInlineTagEnd(part, i, opening = true, "DN")
           if (dnOpenEnd > 0) { toggleDN(); i = dnOpenEnd; continue }
-          val dnCloseEnd = startsTag(part, i, opening = false, "DN")
+          val dnCloseEnd = scriptureInlineTagEnd(part, i, opening = false, "DN")
           if (dnCloseEnd > 0) { if (dnOn) toggleDN(); i = dnCloseEnd; continue }
+
+          val addOpenEnd = scriptureInlineTagEnd(part, i, opening = true, "ADD")
+          if (addOpenEnd > 0) { toggleAddedWord(); i = addOpenEnd; continue }
+          val addCloseEnd = scriptureInlineTagEnd(part, i, opening = false, "ADD")
+          if (addCloseEnd > 0) {
+            if (addedWordOn) toggleAddedWord()
+            i = addCloseEnd
+            continue
+          }
 
           val prev = part.getOrNull(i - 1)
           val normalBoundary = isLeftBoundary(prev)
@@ -801,8 +988,8 @@ object ScriptureRefs {
                 val relaxedTooShort = relaxedLocalizedBoundary && bookText.length < 2
                 val relaxedWithoutExplicitTail = relaxedLocalizedBoundary &&
                   !tailHasColon &&
-                  part.getOrNull(tailEnd) != '\u7AE0' &&
-                  part.getOrNull(tailEnd) != '\uC7A5'
+                  '\u7AE0' !in rawTail &&
+                  '\uC7A5' !in rawTail
 
                 if (looksLikeThousands || shortAmbiguous || relaxedTooShort || relaxedWithoutExplicitTail) {
                   append(dp.substring(i, tailEnd))
@@ -879,6 +1066,7 @@ object ScriptureRefs {
         if (pIdx < lastIdx) append("; ")
         pIdx++
       }
+      if (addedWordOn) pop()
       if (dnOn) pop()
       if (jesusOn) pop()
     }
@@ -887,7 +1075,6 @@ object ScriptureRefs {
     val dcNotAvailableTitle = stringResource(Res.string.dc_not_available_title)
     val dcNotAvailableBody = stringResource(Res.string.dc_not_available_body)
     val dcSwap = stringResource(Res.string.dc_swap)
-    val dcKeep = stringResource(Res.string.dc_keep)
     val dcReadInApp = stringResource(Res.string.dc_read_in_app)
     val apocNoReaderTitle = stringResource(Res.string.apoc_no_reader_title)
     val apocNoReaderBody = stringResource(Res.string.apoc_no_reader_body)
@@ -917,10 +1104,7 @@ object ScriptureRefs {
             // Swap button (open suggested version on bible.com)
             TextButton(
               onClick = {
-                val tried = d.fallbackDeepLink?.let { dl ->
-                  runCatching { platformOpenUrl(ctx, dl) }.isSuccess
-                } ?: false
-                if (!tried) openUrl(d.fallbackUrl, preferBrowser = true)
+                openUrl(d.fallbackUrl)
                 navGate = false; dialog = null
               },
               modifier = Modifier.fillMaxWidth()
@@ -977,7 +1161,7 @@ object ScriptureRefs {
 
           if (payload.isInternal) {
             val bookId = payload.assetId
-            val target = parseInternalRefTail(payload.tail)
+            val target = parseInternalRefTail(payload.assetId, payload.tail)
             val storyId = "$bookId-${target.chapter}"
             internalNav(payload.collection, bookId, storyId, target.verse, target.verseEnd)
             navGate = false
@@ -990,131 +1174,42 @@ object ScriptureRefs {
             return@let
           }
 
-          val primaryCandidate =
-            if (payload.preferBibleCom)
-              Linker.buildBibleComUrl(fullRef, payload.translation)
-                ?: Linker.buildBibleGatewayUrl(fullRef, payload.translation)
-            else
-              Linker.buildBibleGatewayUrl(fullRef, payload.translation)
-                ?: Linker.buildBibleComUrl(fullRef, payload.translation)
-
-          val primaryUrl = primaryCandidate ?: run { navGate = false; return@let }
-
-          if (!primaryUrl.contains("bible.com")) {
-            openUrl(primaryUrl)
-            navGate = false
-            return@let
-          }
-
           val isPsalm151 = payload.canonBook.trim().lowercase().startsWith("psalm") &&
                   payload.tail.trim().startsWith("151")
           val isDc = isPsalm151 ||
                   isApocryphaBook(payload.canonBook) ||
                   payload.collection in setOf("deuterocanonical", "apocrypha", "pseudepigrapha")
 
-          navGate = true
+          val resolved = Linker.linkForReader(
+            fullRef,
+            payload.translation,
+            payload.readerMode,
+            payload.appLanguage
+          ) ?: run {
+            navGate = false
+            return@let
+          }
+          val (resolvedVersion, resolvedUrl) = resolved
 
-          if (isDc) {
-            if (payload.preferBibleCom && Linker.hasApocryphaSupport(payload.translation, payload.appLanguage)) {
-              val tried = Linker.buildYouVersionDeepLink(fullRef, payload.translation)?.let { dl ->
-                runCatching { platformOpenUrl(ctx, dl) }.isSuccess
-              } ?: false
-              if (tried) { navGate = false; return@let }
-            }
-
-            if (!Linker.hasApocryphaSupport(payload.translation, payload.appLanguage)) {
-              // Use static fallback (no network) — calling bestLinkForRef here would
-              // trigger synchronous HTTP calls on the main thread (NetworkOnMainThreadException)
-              // which silently leaves navGate=true and blocks every subsequent click.
-              val suggestVersion = Linker.pickApocryphaFallback(payload.appLanguage)
-              val fallbackUrl = Linker.buildBibleComUrl(fullRef, suggestVersion)
-                ?: Linker.buildBibleGatewayUrl(fullRef, suggestVersion)
-
-              val fallbackDeep = Linker.buildYouVersionDeepLink(fullRef, suggestVersion)
-
-              // Derive in-app nav target so the dialog can offer "Read in-app".
-              val intArgs = derivedInternalNavArgs(payload)
-
-              dialog = SwapDialog(
-                currentVersion   = payload.translation,
-                suggestVersion   = suggestVersion,
-                primaryUrl       = primaryUrl,
-                fallbackUrl      = fallbackUrl,
-                primaryDeepLink  = null,
-                fallbackDeepLink = fallbackDeep,
-                internalCollection = intArgs.collection,
-                internalBookId     = intArgs.bookId,
-                internalStoryId    = intArgs.storyId,
-                internalVerse      = intArgs.verse,
-                internalVerseEnd   = intArgs.verseEnd
-              )
-              navGate = false
-              return@let
-            }
-
-            val currentPrimary = primaryUrl
-            scope.launch {
-              try {
-                val result = withContext(Dispatchers.Default) {
-                  val ok = Linker.isBibleComChapterLikelyAvailable(currentPrimary)
-                  if (ok) Triple(true, "", "")
-                  else {
-                    val (v, u) = Linker.bestLinkForRef(fullRef, payload.translation, payload.appLanguage)
-                    Triple(false, v, u)
-                  }
-                }
-                val ok = result.first
-                val suggestVersion = result.second
-                val fallbackUrl = result.third
-
-                if (!ok) {
-                  val primaryDeep = if (Linker.hasApocryphaSupport(payload.translation, payload.appLanguage))
-                    Linker.buildYouVersionDeepLink(fullRef, payload.translation) else null
-                  val fallbackDeep = if (Linker.hasApocryphaSupport(suggestVersion, payload.appLanguage))
-                    Linker.buildYouVersionDeepLink(fullRef, suggestVersion) else null
-
-                  val intArgs = derivedInternalNavArgs(payload)
-                  dialog = SwapDialog(
-                    currentVersion   = payload.translation,
-                    suggestVersion   = suggestVersion,
-                    primaryUrl       = currentPrimary,
-                    fallbackUrl      = fallbackUrl,
-                    primaryDeepLink  = primaryDeep,
-                    fallbackDeepLink = fallbackDeep,
-                    internalCollection = intArgs.collection,
-                    internalBookId     = intArgs.bookId,
-                    internalStoryId    = intArgs.storyId,
-                    internalVerse      = intArgs.verse,
-                    internalVerseEnd   = intArgs.verseEnd
-                  )
-                } else {
-                  val deepTried = if (Linker.hasApocryphaSupport(payload.translation, payload.appLanguage)) {
-                    Linker.buildYouVersionDeepLink(fullRef, payload.translation)?.let { dl ->
-                      runCatching { platformOpenUrl(ctx, dl) }.isSuccess
-                    } ?: false
-                  } else false
-
-                  if (!deepTried) {
-                    openUrl(currentPrimary, preferBrowser = true)
-                  }
-                }
-              } catch (t: Throwable) {
-                // Network or parse failure — fall back to opening the primary URL rather
-                // than leaving the user stuck on a frozen ref.
-                runCatching { openUrl(currentPrimary, preferBrowser = true) }
-              } finally {
-                navGate = false
-              }
-            }
+          if (isDc && !resolvedVersion.equals(payload.translation, ignoreCase = true)) {
+            val intArgs = derivedInternalNavArgs(payload)
+            dialog = SwapDialog(
+              currentVersion = payload.translation,
+              suggestVersion = resolvedVersion,
+              fallbackUrl = resolvedUrl,
+              internalCollection = intArgs.collection,
+              internalBookId = intArgs.bookId,
+              internalStoryId = intArgs.storyId,
+              internalVerse = intArgs.verse,
+              internalVerseEnd = intArgs.verseEnd
+            )
+            navGate = false
             return@let
           }
 
-          Linker.buildYouVersionDeepLink(fullRef, payload.translation)?.let { yv ->
-            val started = runCatching { platformOpenUrl(ctx, yv) }.isSuccess
-            if (started) { navGate = false; return@let }
-          }
-
-          openUrl(primaryUrl)
+          // The verified HTTPS URL is a universal link: YouVersion opens when
+          // installed, and the browser remains a reliable fallback otherwise.
+          openUrl(resolvedUrl)
           navGate = false
           return@let
         }
@@ -1219,7 +1314,10 @@ object ScriptureRefs {
         if (rest.length >= key.length && rest.regionMatches(0, key, 0, key.length, ignoreCase = true)) {
           val consumed = ordLen + key.length
           val next = s.getOrNull(i0 + consumed)
-          if (next != null && next.isLetter()) continue
+          // Chinese and Korean commonly write chapter references without a
+          // space as BookName + 第/제 + number + 章/장. Treat that chapter prefix
+          // as reference syntax, not as a continuation of the book name.
+          if (next != null && next.isLetter() && next !in setOf('\u7B2C', '\uC81C')) continue
           if (canonStartsWithDigit && ordDigit == null && entry.strippedKeys.contains(key)) continue
 
           val ordinalMatch = ordinalMatchesEntry
@@ -1299,32 +1397,44 @@ object ScriptureRefs {
       c == '-' || c == '\uFF0D' || c == '\u301C' || c == '\uFF5E'
     fun skip() { while (s.getOrNull(i) == ' ') i++ }
     fun digits(): Boolean { val st = i; while (s.getOrNull(i)?.isDigit() == true) i++; return i > st }
-    fun verseSuffix() { val c = s.getOrNull(i); if (c == '\u7BC0' || c == '\u8282') i++ }
+    fun localizedVerseSuffix() {
+      val c = s.getOrNull(i)
+      if (c == '\u7BC0' || c == '\u8282' || c == '\uC808') i++
+    }
+    fun chapterSuffix(c: Char?) = c == '\u7AE0' || c == '\uC7A5'
+    fun chapterPrefix(c: Char?) = c == '\u7B2C' || c == '\uC81C'
 
-    skip(); if (!digits()) return start
+    skip()
+    if (chapterPrefix(s.getOrNull(i))) { i++; skip() }
+    if (!digits()) return start
     val chEnd = s.getOrNull(i)
     val chEndNext = s.getOrNull(i + 1)
     val hasEuroVerseSep = (chEnd == ',' || chEnd == '.') && chEndNext?.isDigit() == true
-    val hasCjkChapterMark = chEnd == '\u7AE0'
+    val hasLocalizedChapterMark = chapterSuffix(chEnd)
     skip()
 
-    if (s.getOrNull(i) != ':' && !hasEuroVerseSep && !hasCjkChapterMark) {
+    if (s.getOrNull(i) != ':' && !hasEuroVerseSep && !hasLocalizedChapterMark) {
       if (dash(s.getOrNull(i))) {
         val saveDash = i
         i++; skip()
         if (!digits()) return saveDash
+        if (chapterSuffix(s.getOrNull(i))) i++
       }
       return i
     }
 
+    val localizedChapterEnd = hasLocalizedChapterMark
     i++
-    val verseStart = i
     skip()
+    if (chapterPrefix(s.getOrNull(i))) { i++; skip() }
+    val verseStart = i
     if (!digits()) {
-      i = verseStart - 1
-      return i
+      // A chapter-only reference such as 以賽亞書第53章 includes the suffix
+      // in the clickable range. Colon/comma forms still stop before an empty
+      // verse component.
+      return if (localizedChapterEnd) i else verseStart - 1
     }
-    verseSuffix()
+    localizedVerseSuffix()
 
     while (true) {
       skip()
@@ -1335,15 +1445,15 @@ object ScriptureRefs {
           val digitStart = i
           if (!digits()) return i
           if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
-          verseSuffix()
+          localizedVerseSuffix()
         }
         '\u2010', '\u2011', '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
           val saveDash = i
           i++; skip()
           if (!digits()) return saveDash
-          verseSuffix()
+          localizedVerseSuffix()
           val save = i; skip()
-          if (s.getOrNull(i) == ':') { i++; skip(); if (!digits()) { i = save } else verseSuffix() }
+          if (s.getOrNull(i) == ':') { i++; skip(); if (!digits()) { i = save } else localizedVerseSuffix() }
         }
         else -> return i
       }
@@ -1498,9 +1608,15 @@ object ScriptureRefs {
 
   // ----- utils -----
 
-  private fun normalizeCjkTail(tail: String): String {
-    if ('\u7AE0' !in tail) return tail
-    val r = tail.replace(Regex("\u7AE0\\s*"), ":").replace("[\u7BC0\u8282]".toRegex(), "")
+  internal fun normalizeCjkTail(tail: String): String {
+    var localized = tail.trim()
+    if (localized.startsWith('\u7B2C') || localized.startsWith('\uC81C')) {
+      localized = localized.drop(1).trimStart()
+    }
+    if ('\u7AE0' !in localized && '\uC7A5' !in localized) return localized
+    val r = localized
+      .replace(Regex("[\u7AE0\uC7A5]\\s*[\u7B2C\uC81C]?\\s*"), ":")
+      .replace("[\u7BC0\u8282\uC808]".toRegex(), "")
     return if (r.endsWith(":")) r.dropLast(1) else r
   }
 
@@ -1527,14 +1643,26 @@ object ScriptureRefs {
       .replace('\u301C', '-')
       .replace('\uFF5E', '-')
 
-  private data class InternalRefTarget(
+  internal data class InternalRefTarget(
     val chapter: String,
     val verse: Int?,
     val verseEnd: Int?
   )
 
-  private fun parseInternalRefTail(raw: String): InternalRefTarget {
-    val tail = normalizeEuroTail(normalizeRefDashes(raw.trim()))
+  private val internalSingleChapterBookIds = setOf(
+    "obadiah", "philemon", "2_john", "3_john", "jude",
+    "letter_of_jeremiah", "prayer_of_manasseh", "psalm_151"
+  )
+
+  internal fun parseInternalRefTail(bookId: String, raw: String): InternalRefTarget {
+    val rawTail = normalizeEuroTail(normalizeRefDashes(raw.trim()))
+    val tail = if (
+      bookId in internalSingleChapterBookIds &&
+      ':' !in rawTail &&
+      Regex("^\\d+(?:\\s*[-,;]\\s*\\d+)*\\s*$").matches(rawTail)
+    ) {
+      "1:${rawTail.replace(Regex("\\s+"), "")}"
+    } else rawTail
     val chapter = tail.dropWhile { !it.isDigit() }
       .takeWhile { it.isDigit() }
       .ifEmpty { "1" }
@@ -1712,10 +1840,7 @@ object ScriptureRefs {
   private data class SwapDialog(
     val currentVersion: String,
     val suggestVersion: String,
-    val primaryUrl: String,
     val fallbackUrl: String,
-    val primaryDeepLink: String?,
-    val fallbackDeepLink: String?,
     // Internal nav payload so "Read in-app" can route to the in-app reader
     // for the same DC reference. Null when internal nav can't be derived.
     val internalCollection: String? = null,
@@ -1737,7 +1862,7 @@ object ScriptureRefs {
   // payload.isInternal branch — so the SwapDialog can offer "Read in-app".
   private fun derivedInternalNavArgs(payload: RefPayload): InternalNavArgs {
     val bookId = payload.assetId
-    val target = parseInternalRefTail(payload.tail)
+    val target = parseInternalRefTail(bookId, payload.tail)
     return InternalNavArgs(
       payload.collection,
       bookId,

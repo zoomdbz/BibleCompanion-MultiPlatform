@@ -8,7 +8,7 @@
     <string name="deuterocanonical">Deuterocanonical</string>
     <string name="apocrypha">Apocrypha</string>
     <string name="gnostic_heading">Gnostic</string>
-    <string name="genealogy">Genealogy</string>
+    <string name="genealogy">Genealogy of Jesus</string>
     <string name="pseudepigrapha">Pseudepigrapha</string>
     <string name="books_heading_generic">Books</string>
     <string name="translation_notes">Translation Notes</string>
@@ -58,10 +58,10 @@
     <string name="language">Language</string>
     <string name="language_system">System default</string>
     <string name="bible_version">Bible Version</string>
-    <string name="preferred_reader">Preferred Reader</string>
-    <string name="preferred_reader_subtitle">Choose where Bible references open. The version list below updates to match.</string>
+    <string name="preferred_reader">Scripture Link Destination</string>
+    <string name="preferred_reader_subtitle">Choose where Bible references open.</string>
     <string name="reader_biblecom">Bible.com</string>
-    <string name="reader_biblegateway">BibleGateway</string>
+    <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">In-App</string>
     <string name="prefer_biblecom_title">Open in Bible.com (YouVersion) when possible</string>
     <string name="prefer_biblecom_subtitle">
@@ -261,9 +261,9 @@
     <string name="onboarding_1_title">Search Any Topic</string>
     <string name="onboarding_1_text">Find chapters, verses, and topics across the entire Bible.</string>
     <string name="onboarding_2_title">Tap References</string>
-    <string name="onboarding_2_text">Tap any scripture reference to read it in your Bible app.</string>
+    <string name="onboarding_2_text">Tap any Scripture reference to read it inside Bible Companion or in your chosen external reader.</string>
     <string name="onboarding_3_title">Make It Yours</string>
-    <string name="onboarding_3_text">Customize theme, language, font, and Bible version in Settings.</string>
+    <string name="onboarding_3_text">Customize theme, language, font, and Bible options in Settings.</string>
     <string name="get_started">Get Started</string>
     <string name="next_button">Next</string>
     <string name="skip">Skip</string>
@@ -351,4 +351,46 @@
     <string name="intro_short">Intro</string>
     <string name="intro_section_header">Book Introduction</string>
     <string name="tts_read_intros">TTS reads book intros</string>
+    <!-- Internal and external Bible editions -->
+    <string name="external_bible_version">External Bible Version</string>
+    <string name="external_bible_version_desc">Only changes references opened in YouVersion/Bible.com or Bible Gateway. It does not change Bible Companion text.</string>
+    <string name="in_app_bible_version">In-App Bible Version</string>
+    <string name="in_app_bible_version_desc">Changes the English Bible text read inside Bible Companion.</string>
+    <string name="version_bsb">Berean Standard Bible (BSB)</string>
+    <string name="version_kjv">King James Version (KJV)</string>
+    <string name="edition_fallback">KJV text is unavailable for this book; showing the current English edition.</string>
+
+    <!-- Bible chronology -->
+    <string name="bible_chronology">Bible Chronology</string>
+    <string name="chronology_intro">This guide follows the time described in Scripture, not the usual book order or necessarily when each book was written. Some books span or overlap periods, and some placements are debated. Tap a chapter range to read it in the app.</string>
+    <string name="chronology_include_deuterocanon">Include Deuterocanonical books</string>
+    <string name="chronology_historical_flow">Historical flow</string>
+    <string name="chronology_parallel_accounts">Parallel accounts</string>
+    <string name="chronology_voices_period">Voices from the period</string>
+    <string name="chronology_deuterocanon_lane">Deuterocanonical books</string>
+    <string name="chronology_placement_debated">Chronological placement debated</string>
+    <string name="chronology_chapters">Chapters %1$s</string>
+    <string name="chronology_epoch_creation">Creation and Early History</string>
+    <string name="chronology_epoch_patriarchs">The Patriarchs</string>
+    <string name="chronology_epoch_exodus">Exodus and the Wilderness</string>
+    <string name="chronology_epoch_conquest">Conquest and the Judges</string>
+    <string name="chronology_epoch_united_kingdom">The United Kingdom</string>
+    <string name="chronology_epoch_divided_kingdom">The Divided Kingdom and the Prophets</string>
+    <string name="chronology_epoch_judah_final">Judah's Final Years</string>
+    <string name="chronology_epoch_exile">The Babylonian Exile</string>
+    <string name="chronology_epoch_return">Return and Restoration</string>
+    <string name="chronology_epoch_second_temple">The Second Temple and Maccabean Period</string>
+    <string name="chronology_epoch_jesus">The Life and Ministry of Jesus</string>
+    <string name="chronology_epoch_church">The Early Church, Letters, and Revelation</string>
+    <string name="chronology_basis_traditional">Traditional setting</string>
+    <string name="chronology_basis_approximate">Approximate placement</string>
+    <string name="chronology_basis_parallel">Parallel account</string>
+    <string name="chronology_basis_multiple_periods">Collection spans multiple periods</string>
+    <string name="chronology_gospel_birth">Birth and early years</string>
+    <string name="chronology_gospel_preparation">Preparation and early ministry</string>
+    <string name="chronology_gospel_galilee">Galilean ministry</string>
+    <string name="chronology_gospel_training">Withdrawal and training the Twelve</string>
+    <string name="chronology_gospel_journey">Journey to Jerusalem and Judean ministry</string>
+    <string name="chronology_gospel_final_week">Final week and crucifixion</string>
+    <string name="chronology_gospel_resurrection">Resurrection</string>
 </resources>

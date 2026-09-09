@@ -43,6 +43,10 @@ kotlin {
       implementation("sh.calvin.reorderable:reorderable:2.4.0")
     }
 
+    commonTest.dependencies {
+      implementation(kotlin("test"))
+    }
+
     androidMain.dependencies {
       implementation("androidx.core:core-ktx:1.13.1")
       implementation("androidx.appcompat:appcompat:1.7.0")
@@ -78,5 +82,4 @@ android {
     targetCompatibility = JavaVersion.VERSION_17
   }
 }
-
 

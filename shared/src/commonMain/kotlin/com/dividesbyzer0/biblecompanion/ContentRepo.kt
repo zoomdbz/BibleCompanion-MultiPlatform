@@ -57,8 +57,23 @@ object ContentRepo {
         context: PlatformContext,
         collection: String,
         bookId: String,
-        appLang: String
-    ): Book? = runCatching {
+        appLang: String,
+        internalBibleVersion: String = BibleEditions.BSB
+    ): Book? = loadBookWithEdition(
+        context = context,
+        collection = collection,
+        bookId = bookId,
+        appLang = appLang,
+        internalBibleVersion = internalBibleVersion
+    )?.book
+
+    fun loadBookWithEdition(
+        context: PlatformContext,
+        collection: String,
+        bookId: String,
+        appLang: String,
+        internalBibleVersion: String = BibleEditions.BSB
+    ): LoadedBook? = runCatching {
         val tag = LocaleUtils.effectiveAssetTag(appLang)
         val candidates = listOf(
             "books/$collection/$tag/$bookId.json",
@@ -66,6 +81,54 @@ object ContentRepo {
         )
         val path = candidates.firstOrNull { p -> assetExists(context, p) } ?: return@runCatching null
         val txt = readAssetText(context, path) ?: return@runCatching null
-        json.decodeFromString<Book>(txt)
+        val base = json.decodeFromString<Book>(txt)
+        val requested = BibleEditions.effective(appLang, internalBibleVersion)
+        val editionApplies = tag == "en" && requested == BibleEditions.KJV_1769 &&
+            collection in setOf("old_testament", "new_testament", "deuterocanonical")
+        if (!editionApplies) {
+            return@runCatching LoadedBook(
+                book = base,
+                requestedEdition = requested,
+                effectiveEdition = BibleEditions.BSB,
+                coverage = EditionCoverage.BASE
+            )
+        }
+
+        val overlayPath = "books/editions/en/${BibleEditions.KJV_1769}/$collection/$bookId.json"
+        val overlayText = readAssetText(context, overlayPath)
+        val fallback = LoadedBook(
+            book = base,
+            requestedEdition = requested,
+            effectiveEdition = BibleEditions.BSB,
+            coverage = EditionCoverage.FALLBACK
+        )
+        if (overlayText == null) return@runCatching fallback
+
+        runCatching {
+            val overlay = json.decodeFromString<EditionBookOverlay>(overlayText)
+            require(overlay.editionId == BibleEditions.KJV_1769)
+            require(overlay.collection == collection && overlay.bookId == bookId)
+
+            val storyByChapter = ChapterLocator.build(base).byChapter
+            val chapterByStory = storyByChapter.entries.associate { (chapter, storyId) -> storyId to chapter }
+            val overlayByChapter = overlay.chapters.associateBy { it.number }
+            val mergedStories = base.stories.map { story ->
+                val chapterNumber = chapterByStory[story.id]
+                    ?: story.id.substringAfterLast('-').toIntOrNull()
+                val chapter = chapterNumber?.let { overlayByChapter[it] }
+                if (chapter == null) story else story.copy(
+                    summaryBullets = chapter.verses.map { verse ->
+                        "${verse.text.trim()} (${verse.chapter}:${verse.verse})."
+                    },
+                    superscription = chapter.superscription
+                )
+            }
+            LoadedBook(
+                book = base.copy(stories = mergedStories),
+                requestedEdition = requested,
+                effectiveEdition = BibleEditions.KJV_1769,
+                coverage = EditionCoverage.FULL
+            )
+        }.getOrElse { fallback }
     }.getOrNull()
 }

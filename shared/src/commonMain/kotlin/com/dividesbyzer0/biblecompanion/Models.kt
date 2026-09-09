@@ -55,7 +55,13 @@ data class Book(
 data class PrefsState(
   val theme: String = "System",
   val translation: String = "ESV",
-  val readerMode: String = "biblecom",
+  val readerMode: String = "internal",
+  // English-only bundled edition selector. Other languages have one custom
+  // in-app translation and deliberately hide the edition control.
+  val internalBibleVersion: String = "bsb",
+  // Chronology owns this toggle so changing it does not unexpectedly alter
+  // the app-wide Collections preference.
+  val chronologyIncludeDeutero: Boolean = true,
   val showDeutero: Boolean = true,
   val showApoc: Boolean = true,
   val showPseudepigrapha: Boolean = true,
@@ -127,6 +133,12 @@ data class SavedVerse(
   val bookId: String,
   val storyId: String,
   val bulletIndex: Int,
+  // Stable verse identity. bulletIndex remains for backward-compatible
+  // backups, but cannot identify a verse across BSB/KJV versification changes.
+  val chapter: Int? = null,
+  val verseStart: Int? = null,
+  val verseEnd: Int? = null,
+  val editionId: String = "default",
   val text: String,
   val ref: String,
   val highlightColor: String? = null,
@@ -135,6 +147,44 @@ data class SavedVerse(
   // 0 = not manually ordered (sorts to top by timestamp); positive = explicit user position.
   val sortOrder: Int = 0
 )
+
+internal fun SavedVerse.sameScriptureLocation(other: SavedVerse): Boolean {
+  if (collection != other.collection || bookId != other.bookId) return false
+  val thisAnchor = stableAnchor()
+  val otherAnchor = other.stableAnchor()
+  return if (thisAnchor != null && otherAnchor != null) {
+    thisAnchor == otherAnchor
+  } else {
+    storyId == other.storyId && bulletIndex == other.bulletIndex
+  }
+}
+
+private val savedVerseAnchorPattern = Regex(
+  """\(\s*(\d+)\s*:\s*(\d+)(?:\s*[-\u2013]\s*(\d+))?\s*\)\s*\.?\s*$"""
+)
+
+internal data class VerseAnchor(
+  val chapter: Int,
+  val verseStart: Int,
+  val verseEnd: Int = verseStart
+)
+
+internal fun verseAnchorFromText(text: String): VerseAnchor? {
+  val match = savedVerseAnchorPattern.find(text) ?: return null
+  val chapter = match.groupValues[1].toIntOrNull() ?: return null
+  val start = match.groupValues[2].toIntOrNull() ?: return null
+  val end = match.groupValues[3].toIntOrNull() ?: start
+  return VerseAnchor(chapter, start, end)
+}
+
+internal fun SavedVerse.stableAnchor(): VerseAnchor? {
+  val chapterNumber = chapter
+  val start = verseStart
+  if (chapterNumber != null && start != null) {
+    return VerseAnchor(chapterNumber, start, verseEnd ?: start)
+  }
+  return verseAnchorFromText(text)
+}
 
 @Serializable
 data class Label(
@@ -147,7 +197,7 @@ data class Label(
 // Export / backup
 @Serializable
 data class AppBackup(
-  val version: Int = 1,
+  val version: Int = 2,
   val timestamp: Long,
   val bookmarks: List<Bookmark> = emptyList(),
   val savedVerses: List<SavedVerse> = emptyList(),

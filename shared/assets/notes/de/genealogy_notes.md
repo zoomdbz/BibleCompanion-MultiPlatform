@@ -1,4 +1,4 @@
-# Anmerkungen zur Genealogie
+# Anmerkungen zum Stammbaum Jesu
 
 Nach David trennen sich die Stammbäume: Matthäus verfolgt die **rechtliche/königliche** Linie über **Salomo**, während Lukas der **biologischen** Linie über **Nathan** folgt. Sie treffen sich wieder bei **Serubbabel** und schließlich bei **Jesus**.
 

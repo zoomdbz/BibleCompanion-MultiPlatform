@@ -1,4 +1,4 @@
-# Genealogy Notes
+# Notes on the Genealogy of Jesus
 
 After David the genealogies diverge: Matthew traces the **legal/royal** line through **Solomon**, while Luke follows a **biological** line through **Nathan**. They align again at **Zerubbabel** and finally at **Jesus**.
 

@@ -10,6 +10,8 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setTheme(theme: String)
     suspend fun setVersion(version: String)
     suspend fun setReaderMode(mode: String)
+    suspend fun setInternalBibleVersion(version: String)
+    suspend fun setChronologyIncludeDeutero(show: Boolean)
     suspend fun setDeutero(show: Boolean)
     suspend fun setApoc(show: Boolean)
     suspend fun setPseudepigrapha(show: Boolean)
@@ -42,16 +44,16 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun removeBookmark(collection: String, bookId: String, storyId: String)
     suspend fun reorderBookmarks(bookmarks: List<Bookmark>)
     suspend fun addSavedVerse(verse: SavedVerse)
-    suspend fun removeSavedVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int)
-    suspend fun updateVerseHighlight(collection: String, bookId: String, storyId: String, bulletIndex: Int, color: String?)
+    suspend fun removeSavedVerse(verse: SavedVerse)
+    suspend fun updateVerseHighlight(verse: SavedVerse, color: String?)
     suspend fun reorderSavedVerses(verses: List<SavedVerse>)
 
     val labelsFlow: Flow<List<Label>>
     suspend fun addLabel(label: Label)
     suspend fun removeLabel(id: String)
     suspend fun updateLabel(id: String, name: String, color: String)
-    suspend fun addLabelToVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int, labelId: String)
-    suspend fun removeLabelFromVerse(collection: String, bookId: String, storyId: String, bulletIndex: Int, labelId: String)
+    suspend fun addLabelToVerse(verse: SavedVerse, labelId: String)
+    suspend fun removeLabelFromVerse(verse: SavedVerse, labelId: String)
 
     suspend fun exportBackup(): String
     suspend fun importBackup(jsonData: String): Boolean

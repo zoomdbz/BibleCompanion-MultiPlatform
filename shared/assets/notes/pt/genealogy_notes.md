@@ -1,4 +1,4 @@
-# Notas de genealogia
+# Notas sobre a genealogia de Jesus
 
 Depois de Davi, as genealogias se separam: Mateus traça a linha **legal/real** por **Salomão**, enquanto Lucas segue uma linha **biológica** por **Natã**. Elas voltam a coincidir em **Zorobabel** e, por fim, em **Jesus**.
 

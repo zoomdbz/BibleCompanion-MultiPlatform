@@ -105,6 +105,13 @@ object Linker {
     if (bookCode == "PSA" && chapter == "151") { bookCode = "PS2"; chapter = "1" }
     if (bookCode == "PS2" && chapter == "151") { chapter = "1" }
 
+    if (bookCode in dcBooks) {
+      if (vCode == "KJV") return null
+      if (vCode == "KJVAAE") {
+        return buildKjvaaBibleComUrl(bookName, bookCode, rest, id)
+      }
+    }
+
     val dashClass = "[\\-\\u2010\\u2013\\u2014\\uFF0D\\u223C\\u301C]"
     val hasList = rest.contains(',')
     val crossChapter = Regex("^\\s*\\d+\\s*:\\s*\\d+\\s*$dashClass\\s*\\d+\\s*:\\s*\\d+").containsMatchIn(rest)
@@ -137,15 +144,6 @@ object Linker {
 
   private val dcBooks = setOf("1ES","2ES","TOB","JDT","ESG","WIS","SIR","BAR","LJE","S3Y","SUS","BEL","1MA","2MA","3MA","4MA","MAN","PS2")
 
-  private fun isDeuterocanonRef(ref: String): Boolean {
-    val parsed = parseRef(ref) ?: return false
-    val (bookName, rest) = parsed
-    var code = toYouVersionBookCode(bookName) ?: return false
-    val ch = firstChapterOf(rest)
-    if (code == "PSA" && ch == "151") code = "PS2"
-    return code in dcBooks
-  }
-
   private fun langKey(tag: String): String {
     val resolved = if (tag.equals("system", ignoreCase = true)) LocaleUtils.effectiveAssetTag(tag) else tag
     val t = resolved.lowercase()
@@ -162,7 +160,7 @@ object Linker {
     "ru" to listOf("RU167","RST","DROT","CSLAV","BTI","CARS","CARSA","CARST","CASS70","RSP","CAROS","SYNO","ROT"),
     "pt" to listOf("BPT09DC","NVI-PT","ARA","ARC","A21","BLT","ONBV","NVT","VFL","NAA","NTLH","MZNVI","RC60DO","TB","NBV-P","AVM"),
     "de" to listOf("LUT","ELB","SCH2000","GANTP","BIBELHEUTE","SCH1951","ELB71","ELBBK","HFA","LUTHEUTE","DELUT","NGU2011","TKW"),
-    "zh-hans" to listOf("ZHDC1889","RCUVSS","CUVS","CSBS","CCB","CUNPSS","CNVS"),
+    "zh-hans" to listOf("CUVS","RCUVSS","CSBS","CCB","CUNPSS","CNVS","ZHDC1889"),
     "zh-hant" to listOf("ZHDC1889","RCUV","TCV2019T","CSBT","CCCBST","CUNP","CNV","CCB_T"),
     "ja" to listOf("JCB","JA1819","AB","JA1955","ERV"),
     "ko" to listOf("KRV","RNKSV","KOERV","NLTNK","KLB"),
@@ -170,82 +168,225 @@ object Linker {
     "ar" to listOf("SAB","AR1665","AVDDV","QNAV","FAOV","GOV","ASVD")
   )
 
-  fun hasApocryphaSupport(versionCode: String, langTag: String): Boolean {
-    val v = versionCode.uppercase()
-    return when (langKey(langTag)) {
-      "en" -> v in setOf("NRSVUE","KJVAAE","DRC1752","CPDV","CEB","CEVDCI")
-      "es" -> v in setOf("DHH94I","BDO1573","DHHDK","DHHS94","BHTI")
-      "fr" -> v in setOf("BFC","PDV2017","NFC","BCC1923","BEX2004")
-      "it" -> v in setOf("ICL00D")
-      "ru" -> v in setOf("RU167")
-      "pt" -> v in setOf("BPT09DC")
-      "zh-hans", "zh-hant" -> v in setOf("ZHDC1889")
-      "ja" -> v in setOf("JA1819")
-      "ar" -> v in setOf("AR1665")
-      else -> false
+  private val expandedDcBooks = dcBooks
+  // These book codes have stable standalone routes across the configured
+  // Catholic editions. Daniel/Esther additions vary by provider and edition
+  // (for example, DRC1752 stores Susanna as Daniel 13), so those references
+  // fall back to the verified standalone NRSVUE routes unless a mapper below
+  // handles that exact edition.
+  private val catholicDirectDcBooks = setOf(
+    "TOB", "JDT", "WIS", "SIR", "BAR", "1MA", "2MA"
+  )
+  private val kjvaaDcBooks = catholicDirectDcBooks + setOf("ESG", "LJE", "S3Y", "SUS", "BEL")
+
+  private val bibleComCatholicVersionsByLang: Map<String, Set<String>> = mapOf(
+    "en" to setOf("DRC1752", "CPDV", "CEB", "CEVDCI"),
+    "es" to setOf("DHH94I", "BDO1573", "DHHDK", "DHHS94", "BHTI"),
+    "fr" to setOf("BFC", "PDV2017", "NFC", "BCC1923", "BEX2004"),
+    "it" to setOf("ICL00D"),
+    "ru" to setOf("RU167"),
+    "pt" to setOf("BPT09DC"),
+    "zh-hans" to setOf("ZHDC1889"),
+    "zh-hant" to setOf("ZHDC1889"),
+    "ja" to setOf("JA1819"),
+    "ar" to setOf("AR1665")
+  )
+  private val allBibleComCatholicVersions =
+    bibleComCatholicVersionsByLang.values.flatten().toSet()
+
+  private val bibleGatewayFullDcVersions = setOf("NRSVUE", "NRSVA")
+  private val bibleGatewayCatholicDcVersions = setOf(
+    "NRSVACE", "NRSVCE", "CEB", "DRA", "NABRE", "RSVCE", "CEI"
+  )
+  private val bibleGatewayDcCandidatesByLang: Map<String, List<String>> = mapOf(
+    "en" to listOf("NRSVUE", "NRSVA", "NRSVACE", "NRSVCE", "CEB", "DRA", "NABRE", "RSVCE"),
+    "it" to listOf("CEI")
+  )
+
+  private fun dcBookCode(ref: String): String? {
+    val parsed = parseRef(normalizeRefInput(ref)) ?: return null
+    val (bookName, rest) = parsed
+    var code = toYouVersionBookCode(bookName) ?: return null
+    if (code == "PSA" && firstChapterOf(rest) == "151") code = "PS2"
+    return code.takeIf { it in dcBooks }
+  }
+
+  private fun buildKjvaaBibleComUrl(
+    bookName: String,
+    bookCode: String,
+    rest: String,
+    bibleId: Int
+  ): String? {
+    if (bookCode !in kjvaaDcBooks) return null
+    val chapter = firstChapterOf(rest)
+
+    val route = when (bookCode) {
+      "LJE" -> "BAR.6" + bibleComVersePart(rest, verseOffset = 1)
+      "SUS" -> "SUS.1_1" + bibleComVersePart(rest)
+      "ESG" -> {
+        val normalizedName = bookName.trim().lowercase()
+          .replace(Regex("\\s+"), " ")
+        val chapterNumber = chapter.toIntOrNull() ?: return null
+        if (normalizedName == "additions to esther") {
+          val segment = chapterNumber - 9
+          if (segment !in 1..7) return null
+          "ESG." + segment + "_1"
+        } else {
+          val integratedRoutes = listOf(
+            "ESG.2_1", "ESG.3_1", "EST.1", "EST.2", "EST.3", "ESG.4_1", "EST.3",
+            "EST.4", "ESG.4_1", "ESG.5_1", "ESG.6_1", "EST.5", "EST.6", "EST.7",
+            "EST.8", "ESG.7_1", "EST.8", "EST.9", "EST.10", "ESG.1_1", "ESG.2_1"
+          )
+          val target = integratedRoutes.getOrNull(chapterNumber - 1) ?: return null
+          if (target.startsWith("EST.")) target + bibleComVersePart(rest) else target
+        }
+      }
+      else -> bookCode + "." + chapter + bibleComVersePart(rest)
+    }
+    return "https://www.bible.com/bible/" + bibleId + "/" + route + ".KJVAAE"
+  }
+
+  private fun bibleComVersePart(rest: String, verseOffset: Int = 0): String {
+    val dashClass = "[\\-\\u2010\\u2013\\u2014\\uFF0D\\u223C\\u301C]"
+    if (rest.contains(',') ||
+      Regex("^\\s*\\d+\\s*:\\s*\\d+\\s*$dashClass\\s*\\d+\\s*:\\s*\\d+").containsMatchIn(rest)
+    ) {
+      return ""
+    }
+    val match = Regex("^\\s*\\d+\\s*:(\\d+)\\s*(?:$dashClass\\s*(\\d+))?").find(rest)
+      ?: return ""
+    val start = match.groupValues[1].toIntOrNull()?.plus(verseOffset) ?: return ""
+    val end = match.groupValues.getOrNull(2)
+      ?.takeIf { it.isNotEmpty() }
+      ?.toIntOrNull()
+      ?.plus(verseOffset)
+    return if (end != null) "." + start + "-" + end else "." + start
+  }
+
+  fun isDeuterocanonReference(ref: String): Boolean = dcBookCode(ref) != null
+
+  fun supportsDc(
+    readerMode: String,
+    versionCode: String,
+    langTag: String,
+    ref: String
+  ): Boolean {
+    val book = dcBookCode(ref) ?: return false
+    val version = versionCode.trim().uppercase()
+    return when (readerMode.trim().lowercase()) {
+      "internal" -> true
+      "biblegateway" -> when {
+        version in bibleGatewayFullDcVersions -> book in expandedDcBooks
+        version in bibleGatewayCatholicDcVersions -> book in catholicDirectDcBooks
+        else -> false
+      }
+      else -> when {
+        version == "NRSVUE" -> book in expandedDcBooks
+        version == "KJVAAE" -> book in kjvaaDcBooks
+        version in allBibleComCatholicVersions -> book in catholicDirectDcBooks
+        else -> false
+      }
     }
   }
 
-  fun pickApocryphaFallback(langTag: String): String = when (langKey(langTag)) {
-    "en" -> "NRSVUE"; "es" -> "DHH94I"; "fr" -> "BFC"; "it" -> "ICL00D"
-    "ru" -> "RU167"; "pt" -> "BPT09DC"; "zh-hans", "zh-hant" -> "ZHDC1889"
-    "ja" -> "JA1819"; "ar" -> "AR1665"; else -> "NRSVUE"
+  fun dcCandidates(readerMode: String, langTag: String, ref: String): List<String> {
+    val mode = readerMode.trim().lowercase()
+    val lang = langKey(langTag)
+    val local = when (mode) {
+      "biblegateway" -> bibleGatewayDcCandidatesByLang[lang].orEmpty()
+      else -> candidatesByLang[lang].orEmpty()
+    }
+    return (local + "NRSVUE")
+      .distinct()
+      .filter { supportsDc(mode, it, langTag, ref) }
   }
 
-  fun apocryphaCandidates(langTag: String): List<String> {
-    val lang = langKey(langTag)
-    val list = candidatesByLang[lang] ?: candidatesByLang["en"] ?: emptyList()
-    val dcOnly = list.filter { hasApocryphaSupport(it, langTag) }
-    return if (dcOnly.isNotEmpty()) dcOnly
-    else (candidatesByLang["en"] ?: emptyList()).filter { hasApocryphaSupport(it, "en") }
+  fun referenceForDeuterocanonBook(bookId: String): String? = when (bookId) {
+    "1_esdras" -> "1 Esdras 1"
+    "2_esdras" -> "2 Esdras 1"
+    "tobit" -> "Tobit 1"
+    "judith" -> "Judith 1"
+    "esther_greek" -> "Esther (Greek) 1"
+    "wisdom" -> "Wisdom 1"
+    "sirach" -> "Sirach 1"
+    "baruch" -> "Baruch 1"
+    "letter_of_jeremiah" -> "Letter of Jeremiah 1"
+    "song_of_three" -> "Song of the Three 1"
+    "susanna" -> "Susanna 1"
+    "bel_and_the_dragon" -> "Bel and the Dragon 1"
+    "1_maccabees" -> "1 Maccabees 1"
+    "2_maccabees" -> "2 Maccabees 1"
+    "3_maccabees" -> "3 Maccabees 1"
+    "4_maccabees" -> "4 Maccabees 1"
+    "prayer_of_manasseh" -> "Prayer of Manasseh 1"
+    "psalm_151" -> "Psalm 151:1"
+    else -> null
+  }
+
+  /**
+   * Resolves a reference for the reader selected in settings without performing
+   * a network preflight. Internal references have no external URL. Each external
+   * provider uses its own book-aware edition capabilities so a code from one
+   * provider can never leak into the other.
+   */
+  fun linkForReader(
+    ref: String,
+    currentVersion: String,
+    readerMode: String,
+    appLanguage: String
+  ): Pair<String, String>? {
+    val version = currentVersion.trim().ifEmpty { defaultVersionForLanguage(appLanguage) }
+    val mode = readerMode.trim().lowercase()
+    if (mode == "internal") return null
+
+    if (!isDeuterocanonReference(ref)) {
+      return if (mode == "biblegateway") {
+        version to buildBibleGatewayUrl(ref, version)
+      } else {
+        val url = buildBibleComUrl(ref, version)
+          ?: return version to buildBibleGatewayUrl(ref, version)
+        version to url
+      }
+    }
+
+    val candidates = buildList {
+      if (supportsDc(mode, version, appLanguage, ref)) add(version)
+      if (mode != "biblegateway" && version.uppercase() in setOf("KJV", "KJVAE") &&
+        supportsDc(mode, "KJVAAE", appLanguage, ref)
+      ) {
+        add("KJVAAE")
+      }
+      addAll(dcCandidates(mode, appLanguage, ref))
+    }.distinct()
+
+    for (candidate in candidates) {
+      val url = if (mode == "biblegateway") {
+        buildBibleGatewayUrl(ref, candidate)
+      } else {
+        buildBibleComUrl(ref, candidate) ?: continue
+      }
+      return candidate to url
+    }
+    return null
   }
 
   fun bestLinkForRef(ref: String, currentVersion: String, appLanguage: String): Pair<String, String> {
-    val lang = langKey(appLanguage)
-    val isDc = isDeuterocanonRef(ref)
-    if (!isDc) {
-      val bc = buildBibleComUrl(ref, currentVersion)
-      return if (bc != null) currentVersion to bc
-      else currentVersion to buildBibleGatewayUrl(ref, currentVersion)
-    }
-    if (hasApocryphaSupport(currentVersion, appLanguage)) {
-      buildBibleComUrl(ref, currentVersion)?.let { url ->
-        if (isBibleComChapterLikelyAvailable(url)) return currentVersion to url
-      }
-    }
-    val candidates = candidatesByLang[lang] ?: emptyList()
-    for (v in candidates) {
-      if (!hasApocryphaSupport(v, appLanguage)) continue
-      val u = buildBibleComUrl(ref, v) ?: continue
-      if (isBibleComChapterLikelyAvailable(u)) return v to u
-    }
-    findWorkingDcVersionOnBibleGateway(lang, ref)?.let { (v, url) -> return v to url }
-    // Last resort. Stay in the reader's language; only fall back to English
-    // when that language has no deuterocanon-bearing edition mapped at all.
-    val v = pickApocryphaFallback(appLanguage)
-    val url = buildBibleComUrl(ref, v) ?: buildBibleGatewayUrl(ref, v)
-    return v to url
-  }
-
-  private fun findWorkingDcVersionOnBibleGateway(langKey: String, ref: String): Pair<String, String>? {
-    val bgOnlyCandidates = when (langKey) { "fr" -> listOf("CRAMPON"); "it" -> listOf("CEI"); else -> emptyList() }
-    for (v in bgOnlyCandidates) { return v to buildBibleGatewayUrl(ref, v) }
-    return null
+    return linkForReader(ref, currentVersion, "biblecom", appLanguage)
+      ?: currentVersion to buildBibleGatewayUrl(ref, currentVersion)
   }
 
   fun toLink(collection: String, ref: String, translation: String, preferBibleCom: Boolean, appLanguage: String? = null): String {
     val lang = appLanguage ?: platformGetDefaultLocaleLanguage()
-    val (v, url) = bestLinkForRef(ref, translation, lang)
-    if (preferBibleCom && url.contains("biblegateway.com")) {
-      buildBibleComUrl(ref, v)?.let { return it }
-    }
-    return url
+    val readerMode = if (preferBibleCom) "biblecom" else "biblegateway"
+    return linkForReader(ref, translation, readerMode, lang)?.second
+      ?: buildBibleGatewayUrl(ref, translation)
   }
 
   fun hasExternalReaderSupport(canonBook: String): Boolean =
     toYouVersionBookCode(canonBook.trim()) != null
 
   fun buildYouVersionDeepLink(ref: String, versionCode: String): String? {
+    val normalizedVersion = versionCode.trim().uppercase()
     val parsed = parseRef(normalizeRefInput(ref)) ?: return null
     val (bookName, restRaw) = parsed
     var book = toYouVersionBookCode(bookName) ?: return null
@@ -253,7 +394,14 @@ object Linker {
     var chap = firstChapterOf(rest)
     val verse = firstVerseOf(rest) ?: "1"
     if (book == "PSA" && chap == "151") { book = "PS2"; chap = "1" }
-    val vId = youVersionIdFor(versionCode) ?: return null
+    if (book in dcBooks) {
+      if (!supportsDc("biblecom", normalizedVersion, "en", ref)) return null
+      // These KJVAAE books use web-route identifiers that do not map safely to
+      // the custom-scheme reference grammar. Their verified universal links are
+      // returned by buildBibleComUrl instead.
+      if (normalizedVersion == "KJVAAE" && book in setOf("ESG", "LJE", "SUS")) return null
+    }
+    val vId = youVersionIdFor(normalizedVersion) ?: return null
     return "youversion://bible?reference=$book.$chap.$verse&version_id=$vId"
   }
 

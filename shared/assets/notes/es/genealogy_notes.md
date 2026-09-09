@@ -1,4 +1,4 @@
-# Notas de genealogía
+# Notas sobre la genealogía de Jesús
 
 Después de David, las genealogías divergen: Mateo traza la **línea legal/real** a través de **Salomón**, mientras que Lucas sigue una **línea biológica** a través de **Natán**. Vuelven a coincidir en **Zorobabel** y finalmente en **Jesús**.
 

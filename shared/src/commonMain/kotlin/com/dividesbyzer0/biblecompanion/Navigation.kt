@@ -20,6 +20,7 @@ sealed class Dest(val route: String) {
     data object BibleCanon : Dest("bible_canon")
     data object FalseDoctrine : Dest("false_doctrine")
     data object CommonDistortions : Dest("common_distortions")
+    data object BibleChronology : Dest("bible_chronology")
     data object Genealogy : Dest("genealogy")
     data object JesusDivinity : Dest("jesus_divinity")
     data object JesusIdentity : Dest("jesus_identity")

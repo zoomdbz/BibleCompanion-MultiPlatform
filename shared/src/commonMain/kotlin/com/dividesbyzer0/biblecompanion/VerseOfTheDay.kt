@@ -27,13 +27,19 @@ object VerseOfTheDay {
   private val dailyCache = mutableMapOf<String, DailyVersesFile>()
   private val feastCache = mutableMapOf<String, FeastVersesFile>()
 
-  fun todayVerse(context: PlatformContext, appLang: String): DailyVerse {
+  fun todayVerse(
+    context: PlatformContext,
+    appLang: String,
+    internalBibleVersion: String = BibleEditions.BSB
+  ): DailyVerse {
     val tag = LocaleUtils.effectiveAssetTag(appLang)
     val (year, month, day) = platformCurrentDate()
 
     val feasts = loadFeasts(context, tag)
     val feastOverride = checkFeastOverride(year, month, day, feasts)
-    if (feastOverride != null) return feastOverride
+    if (feastOverride != null) {
+      return resolveInternalEdition(context, tag, internalBibleVersion, feastOverride)
+    }
 
     val daily = loadDaily(context, tag)
     if (daily.verses.isEmpty()) return DailyVerse("", "")
@@ -44,7 +50,52 @@ object VerseOfTheDay {
     val size = daily.verses.size
     val index = ((dayOfYear - 1) % size + size) % size
     val entry = daily.verses[index]
-    return DailyVerse(entry.text, entry.ref)
+    return resolveInternalEdition(
+      context,
+      tag,
+      internalBibleVersion,
+      DailyVerse(entry.text, entry.ref)
+    )
+  }
+
+  /**
+   * Daily banks define the calendar and localized reference. When English KJV
+   * is selected, resolve that reference from the KJV overlay so the home card
+   * changes with the rest of the in-app Bible.
+   */
+  private fun resolveInternalEdition(
+    context: PlatformContext,
+    effectiveLanguage: String,
+    internalBibleVersion: String,
+    dailyVerse: DailyVerse
+  ): DailyVerse {
+    if (!BibleEditions.isKjv(effectiveLanguage, internalBibleVersion)) return dailyVerse
+
+    val match = Regex("^(.+?)\\s+(\\d+):(\\d+)").find(dailyVerse.ref) ?: return dailyVerse
+    val rawBookName = match.groupValues[1].trim()
+    val bookName = when (rawBookName.lowercase()) {
+      "acts of the apostles" -> "Acts"
+      else -> rawBookName
+    }
+    val chapter = match.groupValues[2].toIntOrNull() ?: return dailyVerse
+    val verse = match.groupValues[3].toIntOrNull() ?: return dailyVerse
+
+    for (collection in listOf("old_testament", "new_testament", "deuterocanonical")) {
+      val bookId = ContentRepo.listBooksLocalized(context, collection, "en")
+        .firstOrNull { (_, title) -> title.equals(bookName, ignoreCase = true) }
+        ?.first ?: continue
+      val raw = readAssetText(
+        context,
+        "books/editions/en/${BibleEditions.KJV_1769}/$collection/$bookId.json"
+      ) ?: return dailyVerse
+      val overlay = runCatching { json.decodeFromString<EditionBookOverlay>(raw) }.getOrNull()
+        ?: return dailyVerse
+      val text = overlay.chapters.firstOrNull { it.number == chapter }
+        ?.verses?.firstOrNull { it.verse == verse }
+        ?.text ?: return dailyVerse
+      return dailyVerse.copy(text = text)
+    }
+    return dailyVerse
   }
 
   private fun loadDaily(context: PlatformContext, lang: String): DailyVersesFile {

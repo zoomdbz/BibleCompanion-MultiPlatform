@@ -172,7 +172,6 @@ import com.dividesbyzer0.biblecompanion.platform.platformTtsSetOnDone
 import com.dividesbyzer0.biblecompanion.platform.platformTtsPause
 import com.dividesbyzer0.biblecompanion.platform.platformTtsResume
 import com.dividesbyzer0.biblecompanion.platform.platformTtsIsPaused
-import com.dividesbyzer0.biblecompanion.platform.currentTimeMillis
 import com.dividesbyzer0.biblecompanion.platform.platformSetAppLocale
 import com.dividesbyzer0.biblecompanion.platform.platformDynamicColorScheme
 import com.dividesbyzer0.biblecompanion.platform.platformRecreateApp
@@ -200,7 +199,12 @@ import org.jetbrains.compose.resources.stringResource
 // --------------- App Root ----------------
 
 @Composable
-fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
+fun AppRoot(
+  shortcutAction: String? = null,
+  deepLinkRoute: String? = null,
+  shortcutEventId: Long = 0L,
+  deepLinkEventId: Long = 0L
+) {
   val ctx = LocalPlatformContext.current
   val repo = remember { PrefsRepo(ctx) }
   val initialPrefs = remember { repo.initialSnapshot() }
@@ -238,6 +242,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
       Typography()
   ) {
     val nav = rememberNavController()
+    val scope = rememberCoroutineScope()
     val navBack: () -> Unit = {
       if (!nav.popBackStack()) nav.navigate(Dest.Home.route) {
         popUpTo(Dest.Home.route) { inclusive = true }
@@ -245,16 +250,16 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
     }
 
     var pendingSearchFocus by remember { mutableStateOf(false) }
-    // Android re-delivers the original launch intent when the activity is
-    // recreated, so a rotation would re-fire the shortcut or deep link and
-    // yank the reader off their page (a feast-calendar widget launch turned
-    // every rotation into a jump back to the calendar). The flag survives
-    // configuration changes, so the start destination is consumed exactly
-    // once per real launch and rotation restores the back stack untouched.
-    var startNavConsumed by rememberSaveable { mutableStateOf(false) }
-    LaunchedEffect(shortcutAction, deepLinkRoute) {
-      if (startNavConsumed) return@LaunchedEffect
-      startNavConsumed = true
+    // Android re-delivers its launch intent after rotation, while iOS keeps
+    // shortcuts and deep links in independent event streams. Consume each
+    // stream once so rotation cannot replay it and a later event cannot replay
+    // the stale value from the other stream.
+    var shortcutNavConsumed by rememberSaveable(shortcutAction, shortcutEventId) {
+      mutableStateOf(false)
+    }
+    LaunchedEffect(shortcutAction, shortcutEventId) {
+      if (shortcutAction == null || shortcutNavConsumed) return@LaunchedEffect
+      shortcutNavConsumed = true
       when (shortcutAction) {
         "search" -> {
           // Make sure we're on Home, then trigger focus via state.
@@ -276,9 +281,15 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
           }
         }
       }
-      if (deepLinkRoute != null) {
-        nav.navigate(deepLinkRoute) { launchSingleTop = true }
-      }
+    }
+
+    var deepLinkNavConsumed by rememberSaveable(deepLinkRoute, deepLinkEventId) {
+      mutableStateOf(false)
+    }
+    LaunchedEffect(deepLinkRoute, deepLinkEventId) {
+      if (deepLinkRoute == null || deepLinkNavConsumed) return@LaunchedEffect
+      deepLinkNavConsumed = true
+      nav.navigate(deepLinkRoute) { launchSingleTop = true }
     }
 
     val internalNavigate: (String, String, String?, Int?, Int?) -> Unit = { col, bookId, storyId, verse, verseEnd ->
@@ -302,6 +313,7 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
             },
             onNavigateRoute = { route -> nav.navigate(route) { launchSingleTop = true } },
             onSettings = { nav.navigate(Dest.Settings.route) { launchSingleTop = true } },
+            onBibleChronology = { nav.navigate(Dest.BibleChronology.route) { launchSingleTop = true } },
             onGenealogy = { nav.navigate(Dest.Genealogy.route) { launchSingleTop = true } },
             onJesusDivinity = { nav.navigate(Dest.JesusDivinity.route) { launchSingleTop = true } },
             onJesusIdentity = { nav.navigate(Dest.JesusIdentity.route) { launchSingleTop = true } },
@@ -394,6 +406,29 @@ fun AppRoot(shortcutAction: String? = null, deepLinkRoute: String? = null) {
         }
         composable(Dest.Genealogy.route) {
           GenealogyScreen(prefs = prefs, onBack = { navBack() })
+        }
+        composable(Dest.BibleChronology.route) {
+          BibleChronologyScreen(
+            appLanguage = prefs.appLanguage,
+            includeDeuterocanon = prefs.chronologyIncludeDeutero,
+            onIncludeDeuterocanonChange = { show ->
+              scope.launch { repo.setChronologyIncludeDeutero(show) }
+            },
+            onBack = { navBack() },
+            onOpenChapterRange = { collection, bookId, openingChapter ->
+              val selectedBook = ContentRepo.loadBookOrNull(
+                context = ctx,
+                collection = collection,
+                bookId = bookId,
+                appLang = prefs.appLanguage,
+                internalBibleVersion = prefs.internalBibleVersion
+              )
+              val storyId = selectedBook?.let { chronologyOpeningStoryId(it, openingChapter) }
+              nav.navigate(Dest.BookView.route(collection, bookId, storyId)) {
+                launchSingleTop = true
+              }
+            }
+          )
         }
         composable(Dest.FeastCalendar.route) {
           FeastCalendarScreen(prefs = prefs, repo = repo, onBack = { navBack() })
@@ -643,6 +678,7 @@ fun HomeScreen(
   onOpenBook: (String, String, String?, Int?, Int?) -> Unit,
   onNavigateRoute: (String) -> Unit,
   onSettings: () -> Unit,
+  onBibleChronology: () -> Unit,
   onGenealogy: () -> Unit,
   onJesusDivinity: () -> Unit,
   onJesusIdentity: () -> Unit,
@@ -706,7 +742,7 @@ fun HomeScreen(
     if (searchPrewarmed) return
     searchPrewarmed = true
     scope.launch(Dispatchers.Default) {
-      runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
+      runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage, prefs.internalBibleVersion) }
       if (prefs.aiSearch) {
         runCatching { platformOnnxInit(ctx) }
         runCatching { EmbeddingSearch.ensureBuilt(ctx, embLang) }
@@ -715,7 +751,7 @@ fun HomeScreen(
   }
   // If the language preference changes, allow re-prewarm so the new locale's
   // index loads next time the user touches the search field.
-  LaunchedEffect(prefs.appLanguage) {
+  LaunchedEffect(prefs.appLanguage, prefs.internalBibleVersion) {
     searchPrewarmed = false
   }
 
@@ -735,8 +771,8 @@ fun HomeScreen(
       // State hoisted above LazyColumn so it isn't recreated when items
       // scroll in/out of viewport. Identical lifetime to the previous
       // Column-wrapped declarations.
-      val votd = remember(prefs.appLanguage) {
-        VerseOfTheDay.todayVerse(ctx, prefs.appLanguage)
+      val votd = remember(prefs.appLanguage, prefs.internalBibleVersion) {
+        VerseOfTheDay.todayVerse(ctx, prefs.appLanguage, prefs.internalBibleVersion)
       }
       val votdLocalRef = remember(votd.ref) { ScriptureRefs.localizeRef(votd.ref) }
       val votdCollection = ScriptureRefs.collectionOf(ScriptureRefs.canonBookOfRef(votd.ref))
@@ -819,12 +855,14 @@ fun HomeScreen(
                   // keeps the keyword path snappy and the semantic merge
                   // only kicks in when the user pauses.
                   delay(220)
-                  if (!StorySearch.isReady(prefs.appLanguage)) {
+                  if (!StorySearch.isReady(prefs.appLanguage, prefs.internalBibleVersion)) {
                     indexReady = false
                     withContext(Dispatchers.Default) {
-                      runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage) }
+                      runCatching {
+                        StorySearch.ensureBuilt(ctx, prefs.appLanguage, prefs.internalBibleVersion)
+                      }
                     }
-                    indexReady = StorySearch.isReady(prefs.appLanguage)
+                    indexReady = StorySearch.isReady(prefs.appLanguage, prefs.internalBibleVersion)
                   }
                   val tKw0 = currentTimeMillis()
                   val kwHits = withContext(Dispatchers.Default) {
@@ -843,7 +881,11 @@ fun HomeScreen(
                   // get the semantic merge so related-passage discovery works.
                   val tooShort = q.trim().length < 3
                   isRefFlag = runCatching { StorySearch.isExplicitReference(q) }.getOrDefault(false)
-                  val skipSemantic = !prefs.aiSearch || tooShort || isRefFlag
+                  // The packaged semantic index was built for the existing BSB
+                  // corpus. KJV uses its freshly rebuilt lexical index; merging
+                  // BSB vectors would return mismatched snippets and rankings.
+                  val kjvSelected = BibleEditions.isKjv(prefs.appLanguage, prefs.internalBibleVersion)
+                  val skipSemantic = !prefs.aiSearch || tooShort || isRefFlag || kjvSelected
                   if (!skipSemantic) {
                     hadSemantic = true
                     // Idle gate: wait additional time after keyword shows.
@@ -1039,7 +1081,11 @@ fun HomeScreen(
               Row(verticalAlignment = Alignment.CenterVertically) {
                 IconButton(
                   onClick = {
-                    platformShareText(ctx, votdLocalRef, "${wrapVotdQuotes(votd.text)}\n\u2014 $votdLocalRef")
+                    platformShareText(
+                      ctx,
+                      votdLocalRef,
+                      "${wrapVotdQuotes(stripScriptureInlineTags(votd.text))}\n\u2014 $votdLocalRef"
+                    )
                   }
                 ) {
                   Icon(
@@ -1056,7 +1102,7 @@ fun HomeScreen(
                       ttsPlaying = false
                     } else {
                       val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-                      platformTtsSpeak(ctx, "${votd.text} $votdLocalRef", lang)
+                      platformTtsSpeak(ctx, "${stripScriptureInlineTags(votd.text)} $votdLocalRef", lang)
                       ttsPlaying = true
                     }
                   },
@@ -1270,6 +1316,7 @@ fun HomeScreen(
 
             AnimatedVisibility(visible = studyExpanded) {
               Column(Modifier.padding(bottom = 8.dp)) {
+                StudyItem(stringResource(Res.string.bible_chronology), !navBusy) { safeNav { onBibleChronology() } }
                 StudyItem(stringResource(Res.string.genealogy), !navBusy) { safeNav { onGenealogy() } }
                 StudyItem(stringResource(Res.string.jesus_divinity), !navBusy) { safeNav { onJesusDivinity() } }
                 StudyItem(stringResource(Res.string.jesus_identity), !navBusy) { safeNav { onJesusIdentity() } }
@@ -1375,11 +1422,13 @@ private fun highlightSearchSnippet(
     // Strip semantic color markers while recording spans in cleaned-text coordinates.
     val jRanges = mutableListOf<IntRange>()
     val dnRanges = mutableListOf<IntRange>()
+    val addRanges = mutableListOf<IntRange>()
     val step1 = prepared.replace("[[", "").replace("]]", "")
     val buf = StringBuilder(step1.length)
     var si = 0
     var jStart = -1
     var dnStart = -1
+    var addStart = -1
 
     fun markerAt(marker: String): Boolean =
       step1.regionMatches(si, marker, 0, marker.length, ignoreCase = true)
@@ -1395,16 +1444,27 @@ private fun highlightSearchSnippet(
         markerAt("[/J]") -> { jStart = closeRange(jStart, jRanges); si += 4 }
         markerAt("[DN]") -> { if (dnStart < 0) dnStart = buf.length; si += 4 }
         markerAt("[/DN]") -> { dnStart = closeRange(dnStart, dnRanges); si += 5 }
+        markerAt("[ADD]") -> { if (addStart < 0) addStart = buf.length; si += 5 }
+        markerAt("[/ADD]") -> { addStart = closeRange(addStart, addRanges); si += 6 }
         else -> { buf.append(step1[si]); si++ }
       }
     }
     closeRange(jStart, jRanges)
     closeRange(dnStart, dnRanges)
+    closeRange(addStart, addRanges)
     val cleaned = buf.toString()
 
     append(cleaned)
 
-    // Layer 1: Jesus words. Layer 2: divine names, which must win if nested.
+    // Layer 1: KJV translator-supplied words. Layer 2: Jesus words. Layer 3:
+    // divine names, which must win if semantic spans overlap.
+    for (r in addRanges) {
+      addStyle(
+        SpanStyle(fontStyle = androidx.compose.ui.text.font.FontStyle.Italic),
+        r.first,
+        r.last + 1
+      )
+    }
     if (jesusColor != null) {
       for (r in jRanges) addStyle(SpanStyle(color = jesusColor), r.first, r.last + 1)
     }
@@ -1412,7 +1472,7 @@ private fun highlightSearchSnippet(
       for (r in dnRanges) addStyle(SpanStyle(color = dnColor), r.first, r.last + 1)
     }
 
-    // Layer 3: keyword highlights preserve semantic color while adding weight.
+    // Final layer: keyword highlights preserve semantic color while adding weight.
     val lcCleaned = cleaned.lowercase()
     val lcQuery = query.lowercase().trim()
     if (lcQuery.length >= 2) {
@@ -1574,9 +1634,17 @@ fun BookScreen(
   val haptic = LocalHapticFeedback.current
   val doHaptic = { if (prefs.hapticEnabled) haptic.performHapticFeedback(HapticFeedbackType.LongPress) }
 
-  val book = remember(col, bookId, prefs.appLanguage) {
-    ContentRepo.loadBookOrNull(ctx, col, bookId, prefs.appLanguage)
+  val loadedBook = remember(col, bookId, prefs.appLanguage, prefs.internalBibleVersion) {
+    ContentRepo.loadBookWithEdition(
+      context = ctx,
+      collection = col,
+      bookId = bookId,
+      appLang = prefs.appLanguage,
+      internalBibleVersion = prefs.internalBibleVersion
+    )
   }
+  val book = loadedBook?.book
+  val activeEditionId = loadedBook?.effectiveEdition ?: BibleEditions.BSB
 
   val index = remember(book) { book?.let { ChapterLocator.build(it) } }
   val storyIndex = remember(book) {
@@ -1646,7 +1714,9 @@ fun BookScreen(
   }
 
   // Verse selection state: Set of (storyId, bulletIndex)
-  var selectedBullets by remember(col, bookId) { mutableStateOf(setOf<Pair<String, Int>>()) }
+  var selectedBullets by remember(col, bookId, activeEditionId) {
+    mutableStateOf(setOf<Pair<String, Int>>())
+  }
 
   val bookKey = "$col/$bookId"
   var expandedStoryIds by remember(book, prefs.collapsedStoriesJson) {
@@ -1898,10 +1968,17 @@ fun BookScreen(
   val bookmarkedStoryIds = remember(bookmarks, col, bookId) {
     bookmarks.filter { it.collection == col && it.bookId == bookId }.map { it.storyId }.toSet()
   }
-  val savedVerseMap = remember(savedVerses, col, bookId) {
-    savedVerses.filter { it.collection == col && it.bookId == bookId }
-      .groupBy { it.storyId }
-      .mapValues { (_, list) -> list.associate { it.bulletIndex to it.highlightColor } }
+  // Saved verses use chapter/verse anchors when available. KJV and BSB can
+  // assign different bullet indexes when one edition includes a verse that the
+  // other places in a footnote, so bulletIndex alone is not a stable identity.
+  val savedVerseRecords = remember(savedVerses, col, bookId, book) {
+    if (book == null) emptyMap()
+    else mapSavedVersesToCurrentBook(book, savedVerses, col, bookId)
+  }
+  val savedVerseMap = remember(savedVerseRecords) {
+    savedVerseRecords.mapValues { (_, byIndex) ->
+      byIndex.mapValues { (_, saved) -> saved.highlightColor }
+    }
   }
 
   var showChapters by remember { mutableStateOf(false) }
@@ -2011,11 +2088,18 @@ fun BookScreen(
         // Only matters when a tap leaves the app for bible.com or BibleGateway,
         // where the selected translation may not carry the deuterocanon. The
         // internal reader serves the bundled text, so there is nothing to swap.
+        val dcReference = remember(bookId) { Linker.referenceForDeuterocanonBook(bookId) }
         val needsDcWarning = col == "deuterocanonical" &&
                 prefs.readerMode != "internal" &&
-                !Linker.hasApocryphaSupport(prefs.translation, effLang)
-        val dcCandidates = remember(effLang) {
-          Linker.apocryphaCandidates(effLang)
+                dcReference != null &&
+                !Linker.supportsDc(
+                  prefs.readerMode,
+                  prefs.translation,
+                  effLang,
+                  dcReference
+                )
+        val dcCandidates = remember(prefs.readerMode, effLang, dcReference) {
+          dcReference?.let { Linker.dcCandidates(prefs.readerMode, effLang, it) }.orEmpty()
         }
         var dcBannerDismissed by remember(col, bookId) { mutableStateOf(false) }
 
@@ -2147,6 +2231,23 @@ fun BookScreen(
               }
             }
 
+            if (loadedBook?.coverage == EditionCoverage.FALLBACK &&
+              loadedBook.requestedEdition == BibleEditions.KJV_1769
+            ) {
+              Surface(
+                color = MaterialTheme.colorScheme.surfaceVariant,
+                shape = RoundedCornerShape(12.dp),
+                modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)
+              ) {
+                Text(
+                  text = stringResource(Res.string.edition_fallback),
+                  style = MaterialTheme.typography.bodySmall,
+                  color = MaterialTheme.colorScheme.onSurfaceVariant,
+                  modifier = Modifier.padding(horizontal = 12.dp, vertical = 10.dp)
+                )
+              }
+            }
+
             var viewportTopY by remember { mutableFloatStateOf(0f) }
             var viewportHeightPx by remember { mutableStateOf(0) }
             LazyColumn(
@@ -2169,6 +2270,7 @@ fun BookScreen(
                   IntroCard(
                     bookTitle = book.title,
                     intro = book.intro,
+                    collection = col,
                     prefs = prefs,
                     isTtsPlaying = introTtsPlaying,
                     onPlayTts = {
@@ -2177,7 +2279,16 @@ fun BookScreen(
                         introTtsPlaying = false
                       } else {
                         val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-                        platformTtsSpeak(ctx, book.intro, lang)
+                        val spokenIntro = stripScriptureInlineTags(
+                          applyDivineName(
+                            book.intro,
+                            prefs.divineName,
+                            lang,
+                            prefs.divineNameColor != "default",
+                            col
+                          )
+                        )
+                        platformTtsSpeak(ctx, spokenIntro, lang)
                         introTtsPlaying = true
                       }
                     }
@@ -2193,6 +2304,7 @@ fun BookScreen(
                 val verseLbl = stringResource(Res.string.verse_label)
                 StoryCard(
                   col = col,
+                  bookId = bookId,
                   listState = listState,
                   viewportTopY = viewportTopY,
                   viewportHeightPx = viewportHeightPx,
@@ -2275,7 +2387,9 @@ fun BookScreen(
                           bookTitle = book.title,
                           storyId = story.id,
                           storyTitle = story.title,
-                          snippet = story.summaryBullets.firstOrNull()?.take(80) ?: "",
+                          snippet = story.summaryBullets.firstOrNull()
+                            ?.let(::stripScriptureInlineTags)
+                            ?.take(80) ?: "",
                           timestamp = currentTimeMillis()
                         ))
                       }
@@ -2307,7 +2421,12 @@ fun BookScreen(
                     doHaptic()
                     val content = buildSelectedContent(book, setOf(story.id to idx))
                     val url = content.primaryRef?.let {
-                      Linker.bestLinkForRef(it, prefs.translation, prefs.appLanguage).second
+                      Linker.linkForReader(
+                        ScriptureRefs.canonicalizeRef(it),
+                        prefs.translation,
+                        prefs.readerMode,
+                        prefs.appLanguage
+                      )?.second
                     }
                     val shareText = if (url != null) "${content.text}\n\n$url" else content.text
                     platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: verseLbl, shareText)
@@ -2398,7 +2517,12 @@ fun BookScreen(
                     doHaptic()
                     val content = buildSelectedContent(book, selectedBullets)
                     val url = content.primaryRef?.let {
-                      Linker.bestLinkForRef(it, prefs.translation, prefs.appLanguage).second
+                      Linker.linkForReader(
+                        ScriptureRefs.canonicalizeRef(it),
+                        prefs.translation,
+                        prefs.readerMode,
+                        prefs.appLanguage
+                      )?.second
                     }
                     val shareText = if (url != null) "${content.text}\n\n$url" else content.text
                     platformShareText(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, shareText)
@@ -2416,13 +2540,10 @@ fun BookScreen(
                     scope.launch {
                       if (allSelectedSaved) {
                         val prior = selectedBullets.mapNotNull { (sid, idx) ->
-                          savedVerses.firstOrNull {
-                            it.collection == col && it.bookId == bookId &&
-                              it.storyId == sid && it.bulletIndex == idx
-                          }
+                          savedVerseRecords[sid]?.get(idx)
                         }
-                        for ((sid, idx) in selectedBullets) {
-                          repo.removeSavedVerse(col, bookId, sid, idx)
+                        for (saved in prior) {
+                          repo.removeSavedVerse(saved)
                         }
                         if (prior.isNotEmpty()) {
                           scope.launch {
@@ -2436,17 +2557,16 @@ fun BookScreen(
                           if (savedVerseMap[sid]?.containsKey(idx) == true) continue
                           val story = book.stories.find { it.id == sid } ?: continue
                           val bulletText = story.summaryBullets.getOrNull(idx) ?: continue
-                          val ref = story.refs.firstOrNull() ?: ""
-                          repo.addSavedVerse(SavedVerse(
-                            collection = col,
-                            bookId = bookId,
-                            storyId = sid,
-                            bulletIndex = idx,
-                            text = bulletText,
-                            ref = ref,
-                            highlightColor = null,
-                            timestamp = currentTimeMillis()
-                          ))
+                          repo.addSavedVerse(
+                            makeSavedVerse(
+                              collection = col,
+                              bookId = bookId,
+                              story = story,
+                              bulletIndex = idx,
+                              bulletText = bulletText,
+                              editionId = activeEditionId
+                            )
+                          )
                         }
                       }
                       selectedBullets = emptySet()
@@ -2486,18 +2606,23 @@ fun BookScreen(
                           doHaptic()
                           scope.launch {
                             for ((sid, idx) in selectedBullets) {
-                              if (savedVerseMap[sid]?.containsKey(idx) == true) {
-                                repo.updateVerseHighlight(col, bookId, sid, idx, hlKey)
+                              val existing = savedVerseRecords[sid]?.get(idx)
+                              if (existing != null) {
+                                repo.updateVerseHighlight(existing, hlKey)
                               } else {
                                 val story = book.stories.find { it.id == sid } ?: continue
                                 val bulletText = story.summaryBullets.getOrNull(idx) ?: continue
-                                val ref = story.refs.firstOrNull() ?: ""
-                                repo.addSavedVerse(SavedVerse(
-                                  collection = col, bookId = bookId, storyId = sid,
-                                  bulletIndex = idx, text = bulletText, ref = ref,
-                                  highlightColor = hlKey,
-                                  timestamp = currentTimeMillis()
-                                ))
+                                repo.addSavedVerse(
+                                  makeSavedVerse(
+                                    collection = col,
+                                    bookId = bookId,
+                                    story = story,
+                                    bulletIndex = idx,
+                                    bulletText = bulletText,
+                                    editionId = activeEditionId,
+                                    highlightColor = hlKey
+                                  )
+                                )
                               }
                             }
                             selectedBullets = emptySet()
@@ -2514,19 +2639,21 @@ fun BookScreen(
                       onClick = {
                         scope.launch {
                           val prior = selectedBullets.mapNotNull { (sid, idx) ->
-                            val c = savedVerseMap[sid]?.get(idx)
-                            if (c != null) Triple(sid, idx, c) else null
+                            val saved = savedVerseRecords[sid]?.get(idx)
+                            val color = saved?.highlightColor
+                            if (saved != null && color != null) saved to color else null
                           }
                           for ((sid, idx) in selectedBullets) {
-                            repo.updateVerseHighlight(col, bookId, sid, idx, null)
+                            val saved = savedVerseRecords[sid]?.get(idx) ?: continue
+                            repo.updateVerseHighlight(saved, null)
                           }
                           selectedBullets = emptySet()
                           showColors = false
                           if (prior.isNotEmpty()) {
                             scope.launch {
                               showUndo(highlightClearedMsg, undoActionLabel) {
-                                for ((sid, idx, c) in prior) {
-                                  repo.updateVerseHighlight(col, bookId, sid, idx, c)
+                                for ((saved, color) in prior) {
+                                  repo.updateVerseHighlight(saved, color)
                                 }
                               }
                             }
@@ -2559,13 +2686,16 @@ fun BookScreen(
                               for ((sid, idx) in selectedBullets) {
                                 val story = book.stories.find { it.id == sid } ?: continue
                                 val bulletText = story.summaryBullets.getOrNull(idx) ?: continue
-                                val ref = story.refs.firstOrNull() ?: ""
-                                repo.addSavedVerse(SavedVerse(
-                                  collection = col, bookId = bookId, storyId = sid,
-                                  bulletIndex = idx, text = bulletText, ref = ref,
-                                  timestamp = currentTimeMillis()
-                                ))
-                                repo.addLabelToVerse(col, bookId, sid, idx, lbl.id)
+                                val existing = savedVerseRecords[sid]?.get(idx)
+                                val saved = existing ?: makeSavedVerse(
+                                  collection = col,
+                                  bookId = bookId,
+                                  story = story,
+                                  bulletIndex = idx,
+                                  bulletText = bulletText,
+                                  editionId = activeEditionId
+                                ).also { repo.addSavedVerse(it) }
+                                repo.addLabelToVerse(saved, lbl.id)
                               }
                               selectedBullets = emptySet()
                               showLabelPicker = false
@@ -2688,6 +2818,7 @@ private fun DcBookBanner(
 private fun IntroCard(
   bookTitle: String,
   intro: String,
+  collection: String,
   prefs: PrefsState,
   onPlayTts: () -> Unit,
   isTtsPlaying: Boolean
@@ -2727,10 +2858,11 @@ private fun IntroCard(
         Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
           intro.split("\n\n").forEach { paragraph ->
             if (paragraph.isNotBlank()) {
-              Text(
-                paragraph.trim(),
-                style = MaterialTheme.typography.bodyLarge,
-                color = MaterialTheme.colorScheme.onSurface
+              ScriptureRefs.ClickableRefsText(
+                text = paragraph.trim(),
+                collection = collection,
+                prefs = prefs,
+                textStyle = MaterialTheme.typography.bodyLarge
               )
             }
           }
@@ -2745,6 +2877,7 @@ private fun IntroCard(
 @Composable
 fun StoryCard(
   col: String,
+  bookId: String,
   story: Story,
   prefs: PrefsState,
   modifier: Modifier = Modifier,
@@ -2784,14 +2917,29 @@ fun StoryCard(
 
   val ktLabel = stringResource(Res.string.key_takeaway)
   val crLabel = stringResource(Res.string.cross_references)
-  val sharePlain = remember(story, col, prefs.translation, prefs.appLanguage, ktLabel, crLabel) {
+  val canonicalShareRef = story.refs.firstOrNull()?.let { ScriptureRefs.canonicalizeRef(it) }
+  val sharePlain = remember(
+    story,
+    col,
+    bookId,
+    canonicalShareRef,
+    prefs.translation,
+    prefs.readerMode,
+    prefs.appLanguage,
+    ktLabel,
+    crLabel
+  ) {
     val md = buildStoryMarkdown(story, ktLabel, crLabel)
     val plain = markdownToPlainText(md)
-    val url = story.refs.firstOrNull()?.let { ref ->
-      Linker.bestLinkForRef(ref, prefs.translation, prefs.appLanguage).second
+    val url = canonicalShareRef?.let { ref ->
+      Linker.linkForReader(
+        ref,
+        prefs.translation,
+        prefs.readerMode,
+        prefs.appLanguage
+      )?.second
     }
-    val bookIdPart = story.id.substringBeforeLast('-')
-    val deepLink = "biblecompanion://open?col=$col&book=$bookIdPart&story=${story.id}"
+    val deepLink = "biblecompanion://open?col=$col&book=$bookId&story=${story.id}"
     val links = listOfNotNull(url, deepLink).joinToString("\n")
     "$plain\n\n$links"
   }
@@ -2898,7 +3046,7 @@ fun StoryCard(
                   // bleed into verse 1.
                   if (story.superscription.isNotBlank()) {
                     Text(
-                      story.superscription,
+                      highlightSearchSnippet(story.superscription, "", prefs, col),
                       style = MaterialTheme.typography.bodyMedium,
                       fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
                       color = MaterialTheme.colorScheme.onSurfaceVariant,
@@ -2913,7 +3061,7 @@ fun StoryCard(
                     }
                     if (headingForThisBullet != null) {
                       Text(
-                        headingForThisBullet,
+                        highlightSearchSnippet(headingForThisBullet, "", prefs, col),
                         style = MaterialTheme.typography.titleSmall,
                         fontWeight = FontWeight.SemiBold,
                         color = MaterialTheme.colorScheme.onSurface,
@@ -3165,9 +3313,13 @@ fun StoryCard(
                         )
                       }
                       SelectionContainer {
-                        Text(
-                          mv.text,
-                          style = MaterialTheme.typography.bodyMedium
+                        ScriptureRefs.ClickableRefsText(
+                          text = mv.text,
+                          collection = col,
+                          prefs = prefs,
+                          defaultBook = defaultBook,
+                          allowRelativeInParensOnly = true,
+                          textStyle = MaterialTheme.typography.bodyMedium
                         )
                       }
                     }
@@ -3279,6 +3431,75 @@ fun StoryCard(
 
 private val verseRefPattern = Regex("""(\d+):(\d+)(?:\s*-\s*(\d+))?""")
 
+private fun mapSavedVersesToCurrentBook(
+  book: Book,
+  savedVerses: List<SavedVerse>,
+  collection: String,
+  bookId: String
+): Map<String, Map<Int, SavedVerse>> {
+  val stories = book.stories.associateBy { it.id }
+  return savedVerses
+    .filter { it.collection == collection && it.bookId == bookId }
+    .groupBy { it.storyId }
+    .mapValues { (storyId, savedForStory) ->
+      val story = stories[storyId]
+      val currentAnchors = story?.summaryBullets.orEmpty().mapIndexedNotNull { index, bullet ->
+        verseAnchorFromText(bullet)?.let { index to it }
+      }
+      buildMap {
+        for (saved in savedForStory) {
+          val anchor = saved.stableAnchor()
+          val currentIndex = if (anchor != null) {
+            currentAnchors.firstOrNull { (_, current) ->
+              current.chapter == anchor.chapter &&
+                current.verseStart <= anchor.verseStart &&
+                current.verseEnd >= anchor.verseEnd
+            }?.first
+          } else {
+            saved.bulletIndex.takeIf { it in story?.summaryBullets.orEmpty().indices }
+          }
+          if (currentIndex != null) put(currentIndex, saved)
+        }
+      }
+    }
+}
+
+private fun makeSavedVerse(
+  collection: String,
+  bookId: String,
+  story: Story,
+  bulletIndex: Int,
+  bulletText: String,
+  editionId: String,
+  highlightColor: String? = null
+): SavedVerse {
+  val anchor = verseAnchorFromText(bulletText)
+  return SavedVerse(
+    collection = collection,
+    bookId = bookId,
+    storyId = story.id,
+    bulletIndex = bulletIndex,
+    chapter = anchor?.chapter,
+    verseStart = anchor?.verseStart,
+    verseEnd = anchor?.verseEnd,
+    editionId = editionId,
+    text = bulletText,
+    ref = story.refs.firstOrNull() ?: "",
+    highlightColor = highlightColor,
+    timestamp = currentTimeMillis()
+  )
+}
+
+private fun savedVerseUiKey(saved: SavedVerse): String = buildString {
+  append(saved.collection).append('/')
+  append(saved.bookId).append('/')
+  append(saved.storyId).append('/')
+  append(saved.chapter ?: "legacy").append('/')
+  append(saved.verseStart ?: saved.bulletIndex).append('/')
+  append(saved.verseEnd ?: saved.verseStart ?: saved.bulletIndex).append('/')
+  append(saved.editionId)
+}
+
 // Wrap verse text in curly quotation marks for VOTD display/share, but skip
 // quotes that already exist on either edge of the source text. Bible verses
 // often begin or end with quoted speech (~21 / 366 in the EN bank); without
@@ -3364,7 +3585,7 @@ private fun buildSelectedContent(book: Book, selected: Set<Pair<String, Int>>): 
     }
     for (idx in indices) {
       story.summaryBullets.getOrNull(idx)?.let {
-        sb.appendLine(it.replace("[J]", "").replace("[/J]", ""))
+        sb.appendLine(stripScriptureInlineTags(it))
       }
     }
   }
@@ -3620,9 +3841,9 @@ fun SavedItemsScreen(
             ) {
               items(
                 items = displayVerses,
-                key = { "${it.collection}/${it.bookId}/${it.storyId}/${it.bulletIndex}" }
+                key = { savedVerseUiKey(it) }
               ) { sv ->
-                ReorderableItem(reorderState, key = "${sv.collection}/${sv.bookId}/${sv.storyId}/${sv.bulletIndex}") { isDragging ->
+                ReorderableItem(reorderState, key = savedVerseUiKey(sv)) { isDragging ->
                   val hlColor = highlightBgColor(sv.highlightColor)
                   val verseLabels = labels.filter { it.id in sv.labels }
                   val barColor = when (sv.highlightColor) {
@@ -3708,7 +3929,7 @@ fun SavedItemsScreen(
                         )
                       }
                       IconButton(onClick = {
-                        scope.launch { repo.removeSavedVerse(sv.collection, sv.bookId, sv.storyId, sv.bulletIndex) }
+                        scope.launch { repo.removeSavedVerse(sv) }
                       }) {
                         Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cd_remove_saved_verse), modifier = Modifier.size(18.dp), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                       }
@@ -3774,11 +3995,16 @@ fun SavedItemsScreen(
                             verticalAlignment = Alignment.CenterVertically
                           ) {
                             Column(Modifier.weight(1f)) {
-                              Text(sv.text, style = MaterialTheme.typography.bodySmall, maxLines = 2, overflow = TextOverflow.Ellipsis)
+                              Text(
+                                stripScriptureInlineTags(sv.text),
+                                style = MaterialTheme.typography.bodySmall,
+                                maxLines = 2,
+                                overflow = TextOverflow.Ellipsis
+                              )
                               Text(sv.ref, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                             }
                             IconButton(onClick = {
-                              scope.launch { repo.removeLabelFromVerse(sv.collection, sv.bookId, sv.storyId, sv.bulletIndex, lbl.id) }
+                              scope.launch { repo.removeLabelFromVerse(sv, lbl.id) }
                             }) {
                               Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cd_remove_verse_label), modifier = Modifier.size(14.dp), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                             }
@@ -3890,7 +4116,7 @@ private fun buildStoryMarkdown(story: Story, keyTakeawayLabel: String, crossRefs
   }
   if (story.summaryBullets.isNotEmpty()) {
     appendLine()
-    story.summaryBullets.forEach { appendLine("- ${it.replace("[J]", "").replace("[/J]", "")}") }
+    story.summaryBullets.forEach { appendLine("- ${stripScriptureInlineTags(it)}") }
   }
   if (story.keyTakeaway.isNotBlank()) {
     appendLine()
@@ -3910,7 +4136,7 @@ private val trailingVerseRefPattern = Regex(
 )
 
 private fun ttsCleanBullet(bullet: String): String {
-  val stripped = bullet.replace("[J]", "").replace("[/J]", "").replace(trailingVerseRefPattern, "")
+  val stripped = stripScriptureInlineTags(bullet).replace(trailingVerseRefPattern, "")
   val core = stripped.trimEnd(',', ';', ' ', '.', '—', '–', '-', '\t', ' ')
   return when {
     core.isEmpty() -> ""
@@ -4498,6 +4724,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       }
 
       val isInternal = prefs.readerMode == "internal"
+      val isEnglishAssets = LocaleUtils.effectiveAssetTag(prefs.appLanguage) == "en"
       val versionChoices = if (isInternal) emptyList()
         else if (prefs.readerMode == "biblecom")
           (versionsByLang[languageKey] ?: versionsByLang["en"].orEmpty())
@@ -4506,11 +4733,11 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       Text(stringResource(Res.string.preferred_reader), style = MaterialTheme.typography.titleSmall)
       Text(stringResource(Res.string.preferred_reader_subtitle), style = MaterialTheme.typography.bodySmall)
-      val readerModes = listOf("biblecom", "biblegateway", "internal")
+      val readerModes = listOf("internal", "biblecom", "biblegateway")
       val readerLabels = listOf(
+        stringResource(Res.string.reader_internal),
         stringResource(Res.string.reader_biblecom),
-        stringResource(Res.string.reader_biblegateway),
-        stringResource(Res.string.reader_internal)
+        stringResource(Res.string.reader_biblegateway)
       )
       SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
         readerModes.forEachIndexed { idx, mode ->
@@ -4539,12 +4766,62 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         }
       }
 
+      AnimatedVisibility(visible = isInternal && isEnglishAssets) {
+        Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+          Spacer(Modifier.height(4.dp))
+          Text(
+            text = stringResource(Res.string.in_app_bible_version),
+            style = MaterialTheme.typography.titleSmall
+          )
+          Text(
+            text = stringResource(Res.string.in_app_bible_version_desc),
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant
+          )
+          var internalVersionExpanded by remember { mutableStateOf(false) }
+          val internalChoices = listOf(
+            BibleEditions.BSB to stringResource(Res.string.version_bsb),
+            BibleEditions.KJV_1769 to stringResource(Res.string.version_kjv)
+          )
+          val selectedInternalLabel = internalChoices
+            .firstOrNull { it.first == BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion) }
+            ?.second ?: stringResource(Res.string.version_bsb)
+          Box {
+            OutlinedButton(
+              onClick = { internalVersionExpanded = true },
+              modifier = Modifier.fillMaxWidth()
+            ) {
+              Text(selectedInternalLabel, maxLines = 1, overflow = TextOverflow.Ellipsis)
+            }
+            DropdownMenu(
+              expanded = internalVersionExpanded,
+              onDismissRequest = { internalVersionExpanded = false }
+            ) {
+              internalChoices.forEach { (id, label) ->
+                DropdownMenuItem(
+                  text = { Text(label) },
+                  onClick = {
+                    internalVersionExpanded = false
+                    scope.launch { repo.setInternalBibleVersion(id) }
+                  }
+                )
+              }
+            }
+          }
+        }
+      }
+
       AnimatedVisibility(visible = !isInternal) {
         Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
           Spacer(Modifier.height(4.dp))
+          Text(
+            text = stringResource(Res.string.external_bible_version_desc),
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant
+          )
           Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
             Text(
-              text = stringResource(Res.string.bible_version),
+              text = stringResource(Res.string.external_bible_version),
               style = MaterialTheme.typography.titleSmall,
               modifier = Modifier.weight(1f)
             )

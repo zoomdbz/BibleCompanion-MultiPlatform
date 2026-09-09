@@ -45,7 +45,7 @@ object StorySearch {
     val normalizedTitle: String
   )
 
-  private var builtForLang: String? = null
+  private var builtForKey: String? = null
   private var resolvedLang: String = "en"
   private val buildMutex = Mutex()
   private val docs = mutableListOf<Doc>()
@@ -91,7 +91,7 @@ object StorySearch {
 
   private val bulletRefPattern = Regex("""\((\d+):(\d+)(?:\s*-\s*(\d+))?\)\s*\.?\s*$""")
 
-  private fun buildLocked(context: PlatformContext, appLang: String) {
+  private fun buildLocked(context: PlatformContext, appLang: String, internalBibleVersion: String) {
     docs.clear(); chapterIndex.clear(); bookLookup.clear(); numberedFamilies.clear()
     noteDocs.clear(); bookDocs.clear(); verseDocs.clear(); verseInvertedIndex.clear()
     sortedVocabulary = emptyList()
@@ -102,7 +102,9 @@ object StorySearch {
         else -> ContentRepo.listBooksLocalized(context, col, appLang)
       }
       for ((bookId, bookTitle) in pairs) {
-        val book = ContentRepo.loadBookOrNull(context, col, bookId, appLang) ?: continue
+        val book = ContentRepo.loadBookOrNull(
+          context, col, bookId, appLang, internalBibleVersion
+        ) ?: continue
         val (bookKey, familyKey, num) = normalizeBookKey(book.title)
         if (num != null) numberedFamilies += familyKey
         bookLookup.getOrPut(familyKey to num) { mutableListOf() }.add(Triple(col, bookId, book.title))
@@ -112,13 +114,14 @@ object StorySearch {
           val refsJoined = story.refs.map { ScriptureRefs.localizeRef(it) }.joinToString(" • ")
           val body = buildString {
             appendLine(story.title); appendLine(refsJoined)
-            story.summaryBullets.forEach { appendLine(it) }; appendLine(story.keyTakeaway)
+            story.summaryBullets.forEach { appendLine(stripScriptureInlineTags(it)) }; appendLine(story.keyTakeaway)
             story.translationNotes.forEach { tn -> appendLine(tn.term); tn.original?.let { appendLine(it) }; appendLine(tn.note) }
           }
           val xref = buildString { story.crossRefs.forEach { appendLine(it) } }
-          val preview = story.summaryBullets.take(2).joinToString(" ") {
-            it.replace(Regex("\\[(?!/?J]).*?]\\s*"), "").trim()
-          }.take(200)
+          // Keep semantic Scripture markers in display previews. Search uses the
+          // separately normalized body above, while AppRoot consumes these tags
+          // to render Jesus words, divine names, and KJV additions correctly.
+          val preview = story.summaryBullets.take(2).joinToString(" ") { it.trim() }
           docs += Doc(col, bookId, bookTitle, bookKey, familyKey, num, story.id, story.title, refsJoined, normalize(body), normalize(xref), extractChapterSpans(refsJoined), preview)
 
           for ((bIdx, bullet) in story.summaryBullets.withIndex()) {
@@ -126,7 +129,7 @@ object StorySearch {
             val ch = m.groupValues[1].toIntOrNull() ?: continue
             val v = m.groupValues[2].toIntOrNull() ?: continue
             val vEnd = m.groupValues[3].toIntOrNull()
-            val normText = normalize(bullet)
+            val normText = normalize(stripScriptureInlineTags(bullet))
             val allWords = normText.split(' ').filter { it.isNotEmpty() }
             val vDocIdx = verseDocs.size
             verseDocs += VerseDoc(col, bookId, bookTitle, story.id, bIdx, ch, v, vEnd, normText, bullet, allWords)
@@ -155,7 +158,12 @@ object StorySearch {
 
     sortedVocabulary = verseInvertedIndex.keys.sorted()
     resolvedLang = LocaleUtils.effectiveAssetTag(appLang)
-    builtForLang = appLang
+    builtForKey = buildKey(appLang, internalBibleVersion)
+  }
+
+  private fun buildKey(appLang: String, internalBibleVersion: String): String {
+    val effectiveTag = LocaleUtils.effectiveAssetTag(appLang)
+    return "$effectiveTag|${BibleEditions.effective(effectiveTag, internalBibleVersion)}"
   }
 
   private fun prefixCandidates(prefix: String, into: MutableSet<Int>) {
@@ -175,15 +183,21 @@ object StorySearch {
     }
   }
 
-  suspend fun ensureBuilt(context: PlatformContext, appLang: String) {
-    if (builtForLang == appLang) return
+  suspend fun ensureBuilt(
+    context: PlatformContext,
+    appLang: String,
+    internalBibleVersion: String = BibleEditions.BSB
+  ) {
+    val key = buildKey(appLang, internalBibleVersion)
+    if (builtForKey == key) return
     buildMutex.withLock {
-      if (builtForLang == appLang) return@withLock
-      runCatching { buildLocked(context, appLang) }
+      if (builtForKey == key) return@withLock
+      runCatching { buildLocked(context, appLang, internalBibleVersion) }
     }
   }
 
-  fun isReady(appLang: String): Boolean = builtForLang == appLang && docs.isNotEmpty()
+  fun isReady(appLang: String, internalBibleVersion: String = BibleEditions.BSB): Boolean =
+    builtForKey == buildKey(appLang, internalBibleVersion) && docs.isNotEmpty()
 
   internal fun storyTitle(storyId: String): String? =
     docs.firstOrNull { it.storyId == storyId }?.title
@@ -880,9 +894,7 @@ object StorySearch {
   }
 
   private fun cleanBulletForDisplay(raw: String): String {
-    return raw
-      .replace("[J]", "").replace("[/J]", "")
-      .replace(Regex("""\s*\(\d+:\d+(?:\s*-\s*\d+)?\)\s*\.?\s*$"""), "")
+    return raw.replace(Regex("""\s*\(\d+:\d+(?:\s*-\s*\d+)?\)\s*\.?\s*$"""), "")
       .trim()
   }
 
@@ -5788,7 +5800,9 @@ object StorySearch {
     return tryH(ref, refLow, ::indexWordBoundary) ?: tryH(d.title, titleLow, ::indexWordBoundary) ?: tryH(d.text, d.text, ::indexWordBoundary)
       ?: tryH(ref, refLow, ::indexWordPrefix) ?: tryH(d.title, titleLow, ::indexWordPrefix) ?: tryH(d.text, d.text, ::indexWordPrefix)
       ?: tryH(ref, refLow, ::indexInfix) ?: tryH(d.title, titleLow, ::indexInfix) ?: tryH(d.text, d.text, ::indexInfix)
-      ?: if (d.summaryPreview.isNotBlank()) ellipsize("${d.refsJoined} - ${d.summaryPreview}", maxLen) else ellipsize(ref.ifBlank { d.title }, maxLen)
+      // AppRoot clips this AnnotatedString after parsing semantic tags. Cutting
+      // the raw marker stream here could leave a partial tag or unclosed span.
+      ?: if (d.summaryPreview.isNotBlank()) "${d.refsJoined} - ${d.summaryPreview}" else ellipsize(ref.ifBlank { d.title }, maxLen)
   }
 
   private fun makeTextSnippet(text: String, qTokens: List<String>, maxLen: Int = 160): String {

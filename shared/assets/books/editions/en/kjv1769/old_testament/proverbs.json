@@ -1,0 +1,4991 @@
+{
+  "schemaVersion": 1,
+  "editionId": "kjv1769",
+  "language": "en",
+  "collection": "old_testament",
+  "bookId": "proverbs",
+  "sourceBookCode": "PRO",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "The proverbs of Solomon the son of David, king of Israel;"
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "To know wisdom and instruction; to perceive the words of understanding;"
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "To give subtilty to the simple, to the young man knowledge and discretion.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "A wise [ADD]man[/ADD] will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "The fear of the LORD [ADD]is[/ADD] the beginning of knowledge: [ADD]but[/ADD] fools despise wisdom and instruction.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "For they [ADD]shall be[/ADD] an ornament of grace unto thy head, and chains about thy neck.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "My son, if sinners entice thee, consent thou not."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:"
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:"
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "We shall find all precious substance, we shall fill our houses with spoil:"
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "Cast in thy lot among us; let us all have one purse:"
+        },
+        {
+          "chapter": 1,
+          "verse": 15,
+          "text": "My son, walk not thou in the way with them; refrain thy foot from their path:"
+        },
+        {
+          "chapter": 1,
+          "verse": 16,
+          "text": "For their feet run to evil, and make haste to shed blood."
+        },
+        {
+          "chapter": 1,
+          "verse": 17,
+          "text": "Surely in vain the net is spread in the sight of any bird.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 18,
+          "text": "And they lay wait for their [ADD]own[/ADD] blood; they lurk privily for their [ADD]own[/ADD] lives."
+        },
+        {
+          "chapter": 1,
+          "verse": 19,
+          "text": "So [ADD]are[/ADD] the ways of every one that is greedy of gain; [ADD]which[/ADD] taketh away the life of the owners thereof."
+        },
+        {
+          "chapter": 1,
+          "verse": 20,
+          "text": "Wisdom crieth without; she uttereth her voice in the streets:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 21,
+          "text": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, [ADD]saying[/ADD],"
+        },
+        {
+          "chapter": 1,
+          "verse": 22,
+          "text": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?"
+        },
+        {
+          "chapter": 1,
+          "verse": 23,
+          "text": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you."
+        },
+        {
+          "chapter": 1,
+          "verse": 24,
+          "text": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;"
+        },
+        {
+          "chapter": 1,
+          "verse": 25,
+          "text": "But ye have set at nought all my counsel, and would none of my reproof:"
+        },
+        {
+          "chapter": 1,
+          "verse": 26,
+          "text": "I also will laugh at your calamity; I will mock when your fear cometh;"
+        },
+        {
+          "chapter": 1,
+          "verse": 27,
+          "text": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you."
+        },
+        {
+          "chapter": 1,
+          "verse": 28,
+          "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+        },
+        {
+          "chapter": 1,
+          "verse": 29,
+          "text": "For that they hated knowledge, and did not choose the fear of the LORD:"
+        },
+        {
+          "chapter": 1,
+          "verse": 30,
+          "text": "They would none of my counsel: they despised all my reproof."
+        },
+        {
+          "chapter": 1,
+          "verse": 31,
+          "text": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
+        },
+        {
+          "chapter": 1,
+          "verse": 32,
+          "text": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 1,
+          "verse": 33,
+          "text": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "My son, if thou wilt receive my words, and hide my commandments with thee;"
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "So that thou incline thine ear unto wisdom, [ADD]and[/ADD] apply thine heart to understanding;"
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "Yea, if thou criest after knowledge, [ADD]and[/ADD] liftest up thy voice for understanding;",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "If thou seekest her as silver, and searchest for her as [ADD]for[/ADD] hid treasures;"
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Then shalt thou understand the fear of the LORD, and find the knowledge of God."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "For the LORD giveth wisdom: out of his mouth [ADD]cometh[/ADD] knowledge and understanding."
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "He layeth up sound wisdom for the righteous: [ADD]he is[/ADD] a buckler to them that walk uprightly."
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "He keepeth the paths of judgment, and preserveth the way of his saints."
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "Then shalt thou understand righteousness, and judgment, and equity; [ADD]yea[/ADD], every good path."
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Discretion shall preserve thee, understanding shall keep thee:"
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "To deliver thee from the way of the evil [ADD]man[/ADD], from the man that speaketh froward things;"
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Who leave the paths of uprightness, to walk in the ways of darkness;"
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "Who rejoice to do evil, [ADD]and[/ADD] delight in the frowardness of the wicked;"
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "Whose ways [ADD]are[/ADD] crooked, and [ADD]they[/ADD] froward in their paths:"
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "To deliver thee from the strange woman, [ADD]even[/ADD] from the stranger [ADD]which[/ADD] flattereth with her words;"
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Which forsaketh the guide of her youth, and forgetteth the covenant of her God."
+        },
+        {
+          "chapter": 2,
+          "verse": 18,
+          "text": "For her house inclineth unto death, and her paths unto the dead."
+        },
+        {
+          "chapter": 2,
+          "verse": 19,
+          "text": "None that go unto her return again, neither take they hold of the paths of life."
+        },
+        {
+          "chapter": 2,
+          "verse": 20,
+          "text": "That thou mayest walk in the way of good [ADD]men[/ADD], and keep the paths of the righteous."
+        },
+        {
+          "chapter": 2,
+          "verse": 21,
+          "text": "For the upright shall dwell in the land, and the perfect shall remain in it."
+        },
+        {
+          "chapter": 2,
+          "verse": 22,
+          "text": "But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "My son, forget not my law; but let thine heart keep my commandments:"
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "For length of days, and long life, and peace, shall they add to thee.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "So shalt thou find favour and good understanding in the sight of God and man.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "In all thy ways acknowledge him, and he shall direct thy paths."
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "Be not wise in thine own eyes: fear the LORD, and depart from evil."
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "It shall be health to thy navel, and marrow to thy bones.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:"
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "My son, despise not the chastening of the LORD; neither be weary of his correction:"
+        },
+        {
+          "chapter": 3,
+          "verse": 12,
+          "text": "For whom the LORD loveth he correcteth; even as a father the son [ADD]in whom[/ADD] he delighteth."
+        },
+        {
+          "chapter": 3,
+          "verse": 13,
+          "text": "Happy [ADD]is[/ADD] the man [ADD]that[/ADD] findeth wisdom, and the man [ADD]that[/ADD] getteth understanding.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 3,
+          "verse": 14,
+          "text": "For the merchandise of it [ADD]is[/ADD] better than the merchandise of silver, and the gain thereof than fine gold."
+        },
+        {
+          "chapter": 3,
+          "verse": 15,
+          "text": "She [ADD]is[/ADD] more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+        },
+        {
+          "chapter": 3,
+          "verse": 16,
+          "text": "Length of days [ADD]is[/ADD] in her right hand; [ADD]and[/ADD] in her left hand riches and honour."
+        },
+        {
+          "chapter": 3,
+          "verse": 17,
+          "text": "Her ways [ADD]are[/ADD] ways of pleasantness, and all her paths [ADD]are[/ADD] peace."
+        },
+        {
+          "chapter": 3,
+          "verse": 18,
+          "text": "She [ADD]is[/ADD] a tree of life to them that lay hold upon her: and happy [ADD]is every one[/ADD] that retaineth her."
+        },
+        {
+          "chapter": 3,
+          "verse": 19,
+          "text": "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 3,
+          "verse": 20,
+          "text": "By his knowledge the depths are broken up, and the clouds drop down the dew."
+        },
+        {
+          "chapter": 3,
+          "verse": 21,
+          "text": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
+        },
+        {
+          "chapter": 3,
+          "verse": 22,
+          "text": "So shall they be life unto thy soul, and grace to thy neck."
+        },
+        {
+          "chapter": 3,
+          "verse": 23,
+          "text": "Then shalt thou walk in thy way safely, and thy foot shall not stumble."
+        },
+        {
+          "chapter": 3,
+          "verse": 24,
+          "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
+        },
+        {
+          "chapter": 3,
+          "verse": 25,
+          "text": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
+        },
+        {
+          "chapter": 3,
+          "verse": 26,
+          "text": "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
+        },
+        {
+          "chapter": 3,
+          "verse": 27,
+          "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do [ADD]it[/ADD].",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 3,
+          "verse": 28,
+          "text": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
+        },
+        {
+          "chapter": 3,
+          "verse": 29,
+          "text": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 3,
+          "verse": 30,
+          "text": "Strive not with a man without cause, if he have done thee no harm."
+        },
+        {
+          "chapter": 3,
+          "verse": 31,
+          "text": "Envy thou not the oppressor, and choose none of his ways.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 3,
+          "verse": 32,
+          "text": "For the froward [ADD]is[/ADD] abomination to the LORD: but his secret [ADD]is[/ADD] with the righteous."
+        },
+        {
+          "chapter": 3,
+          "verse": 33,
+          "text": "The curse of the LORD [ADD]is[/ADD] in the house of the wicked: but he blesseth the habitation of the just."
+        },
+        {
+          "chapter": 3,
+          "verse": 34,
+          "text": "Surely he scorneth the scorners: but he giveth grace unto the lowly."
+        },
+        {
+          "chapter": 3,
+          "verse": 35,
+          "text": "The wise shall inherit glory: but shame shall be the promotion of fools.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Hear, ye children, the instruction of a father, and attend to know understanding."
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "For I give you good doctrine, forsake ye not my law."
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "For I was my father’s son, tender and only [ADD]beloved[/ADD] in the sight of my mother."
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "Get wisdom, get understanding: forget [ADD]it[/ADD] not; neither decline from the words of my mouth."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "Wisdom [ADD]is[/ADD] the principal thing; [ADD]therefore[/ADD] get wisdom: and with all thy getting get understanding."
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "Hear, O my son, and receive my sayings; and the years of thy life shall be many."
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "I have taught thee in the way of wisdom; I have led thee in right paths."
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Take fast hold of instruction; let [ADD]her[/ADD] not go: keep her; for she [ADD]is[/ADD] thy life."
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "Enter not into the path of the wicked, and go not in the way of evil [ADD]men[/ADD]."
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Avoid it, pass not by it, turn from it, and pass away."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause [ADD]some[/ADD] to fall."
+        },
+        {
+          "chapter": 4,
+          "verse": 17,
+          "text": "For they eat the bread of wickedness, and drink the wine of violence."
+        },
+        {
+          "chapter": 4,
+          "verse": 18,
+          "text": "But the path of the just [ADD]is[/ADD] as the shining light, that shineth more and more unto the perfect day."
+        },
+        {
+          "chapter": 4,
+          "verse": 19,
+          "text": "The way of the wicked [ADD]is[/ADD] as darkness: they know not at what they stumble."
+        },
+        {
+          "chapter": 4,
+          "verse": 20,
+          "text": "My son, attend to my words; incline thine ear unto my sayings."
+        },
+        {
+          "chapter": 4,
+          "verse": 21,
+          "text": "Let them not depart from thine eyes; keep them in the midst of thine heart."
+        },
+        {
+          "chapter": 4,
+          "verse": 22,
+          "text": "For they [ADD]are[/ADD] life unto those that find them, and health to all their flesh.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 4,
+          "verse": 23,
+          "text": "Keep thy heart with all diligence; for out of it [ADD]are[/ADD] the issues of life.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 4,
+          "verse": 24,
+          "text": "Put away from thee a froward mouth, and perverse lips put far from thee.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 4,
+          "verse": 25,
+          "text": "Let thine eyes look right on, and let thine eyelids look straight before thee."
+        },
+        {
+          "chapter": 4,
+          "verse": 26,
+          "text": "Ponder the path of thy feet, and let all thy ways be established.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 4,
+          "verse": 27,
+          "text": "Turn not to the right hand nor to the left: remove thy foot from evil."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "My son, attend unto my wisdom, [ADD]and[/ADD] bow thine ear to my understanding:"
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "That thou mayest regard discretion, and [ADD]that[/ADD] thy lips may keep knowledge."
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "For the lips of a strange woman drop [ADD]as[/ADD] an honeycomb, and her mouth [ADD]is[/ADD] smoother than oil:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "But her end is bitter as wormwood, sharp as a twoedged sword."
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Her feet go down to death; her steps take hold on hell."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Lest thou shouldest ponder the path of life, her ways are moveable, [ADD]that[/ADD] thou canst not know [ADD]them[/ADD]."
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "Hear me now therefore, O ye children, and depart not from the words of my mouth."
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Remove thy way far from her, and come not nigh the door of her house:"
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "Lest thou give thine honour unto others, and thy years unto the cruel:"
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Lest strangers be filled with thy wealth; and thy labours [ADD]be[/ADD] in the house of a stranger;",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "And thou mourn at the last, when thy flesh and thy body are consumed,"
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "And say, How have I hated instruction, and my heart despised reproof;"
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!"
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "I was almost in all evil in the midst of the congregation and assembly."
+        },
+        {
+          "chapter": 5,
+          "verse": 15,
+          "text": "Drink waters out of thine own cistern, and running waters out of thine own well."
+        },
+        {
+          "chapter": 5,
+          "verse": 16,
+          "text": "Let thy fountains be dispersed abroad, [ADD]and[/ADD] rivers of waters in the streets."
+        },
+        {
+          "chapter": 5,
+          "verse": 17,
+          "text": "Let them be only thine own, and not strangers’ with thee."
+        },
+        {
+          "chapter": 5,
+          "verse": 18,
+          "text": "Let thy fountain be blessed: and rejoice with the wife of thy youth."
+        },
+        {
+          "chapter": 5,
+          "verse": 19,
+          "text": "[ADD]Let her be as[/ADD] the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 5,
+          "verse": 20,
+          "text": "And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?"
+        },
+        {
+          "chapter": 5,
+          "verse": 21,
+          "text": "For the ways of man [ADD]are[/ADD] before the eyes of the LORD, and he pondereth all his goings."
+        },
+        {
+          "chapter": 5,
+          "verse": 22,
+          "text": "His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 5,
+          "verse": 23,
+          "text": "He shall die without instruction; and in the greatness of his folly he shall go astray."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "My son, if thou be surety for thy friend, [ADD]if[/ADD] thou hast stricken thy hand with a stranger,"
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth."
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "Give not sleep to thine eyes, nor slumber to thine eyelids."
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "Deliver thyself as a roe from the hand [ADD]of the hunter[/ADD], and as a bird from the hand of the fowler."
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "Go to the ant, thou sluggard; consider her ways, and be wise:"
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "Which having no guide, overseer, or ruler,"
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "Provideth her meat in the summer, [ADD]and[/ADD] gathereth her food in the harvest."
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "[ADD]Yet[/ADD] a little sleep, a little slumber, a little folding of the hands to sleep:"
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "So shall thy poverty come as one that travelleth, and thy want as an armed man."
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "A naughty person, a wicked man, walketh with a froward mouth."
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
+        },
+        {
+          "chapter": 6,
+          "verse": 14,
+          "text": "Frowardness [ADD]is[/ADD] in his heart, he deviseth mischief continually; he soweth discord.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 15,
+          "text": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy."
+        },
+        {
+          "chapter": 6,
+          "verse": 16,
+          "text": "These six [ADD]things[/ADD] doth the LORD hate: yea, seven [ADD]are[/ADD] an abomination unto him:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 17,
+          "text": "A proud look, a lying tongue, and hands that shed innocent blood,",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 18,
+          "text": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
+        },
+        {
+          "chapter": 6,
+          "verse": 19,
+          "text": "A false witness [ADD]that[/ADD] speaketh lies, and he that soweth discord among brethren."
+        },
+        {
+          "chapter": 6,
+          "verse": 20,
+          "text": "My son, keep thy father’s commandment, and forsake not the law of thy mother:"
+        },
+        {
+          "chapter": 6,
+          "verse": 21,
+          "text": "Bind them continually upon thine heart, [ADD]and[/ADD] tie them about thy neck."
+        },
+        {
+          "chapter": 6,
+          "verse": 22,
+          "text": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and [ADD]when[/ADD] thou awakest, it shall talk with thee."
+        },
+        {
+          "chapter": 6,
+          "verse": 23,
+          "text": "For the commandment [ADD]is[/ADD] a lamp; and the law [ADD]is[/ADD] light; and reproofs of instruction [ADD]are[/ADD] the way of life:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 24,
+          "text": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 25,
+          "text": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids."
+        },
+        {
+          "chapter": 6,
+          "verse": 26,
+          "text": "For by means of a whorish woman [ADD]a man is brought[/ADD] to a piece of bread: and the adulteress will hunt for the precious life.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 27,
+          "text": "Can a man take fire in his bosom, and his clothes not be burned?"
+        },
+        {
+          "chapter": 6,
+          "verse": 28,
+          "text": "Can one go upon hot coals, and his feet not be burned?"
+        },
+        {
+          "chapter": 6,
+          "verse": 29,
+          "text": "So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent."
+        },
+        {
+          "chapter": 6,
+          "verse": 30,
+          "text": "[ADD]Men[/ADD] do not despise a thief, if he steal to satisfy his soul when he is hungry;"
+        },
+        {
+          "chapter": 6,
+          "verse": 31,
+          "text": "But [ADD]if[/ADD] he be found, he shall restore sevenfold; he shall give all the substance of his house."
+        },
+        {
+          "chapter": 6,
+          "verse": 32,
+          "text": "[ADD]But[/ADD] whoso committeth adultery with a woman lacketh understanding: he [ADD]that[/ADD] doeth it destroyeth his own soul.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 6,
+          "verse": 33,
+          "text": "A wound and dishonour shall he get; and his reproach shall not be wiped away."
+        },
+        {
+          "chapter": 6,
+          "verse": 34,
+          "text": "For jealousy [ADD]is[/ADD] the rage of a man: therefore he will not spare in the day of vengeance."
+        },
+        {
+          "chapter": 6,
+          "verse": 35,
+          "text": "He will not regard any ransom; neither will he rest content, though thou givest many gifts.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "My son, keep my words, and lay up my commandments with thee."
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "Keep my commandments, and live; and my law as the apple of thine eye."
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "Bind them upon thy fingers, write them upon the table of thine heart."
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "Say unto wisdom, Thou [ADD]art[/ADD] my sister; and call understanding [ADD]thy[/ADD] kinswoman:"
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "That they may keep thee from the strange woman, from the stranger [ADD]which[/ADD] flattereth with her words."
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "For at the window of my house I looked through my casement,"
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "Passing through the street near her corner; and he went the way to her house,"
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "In the twilight, in the evening, in the black and dark night:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "And, behold, there met him a woman [ADD]with[/ADD] the attire of an harlot, and subtil of heart."
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "(She [ADD]is[/ADD] loud and stubborn; her feet abide not in her house:"
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "Now [ADD]is she[/ADD] without, now in the streets, and lieth in wait at every corner.)"
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "So she caught him, and kissed him, [ADD]and[/ADD] with an impudent face said unto him,",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 7,
+          "verse": 14,
+          "text": "[ADD]I have[/ADD] peace offerings with me; this day have I payed my vows.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 7,
+          "verse": 15,
+          "text": "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee."
+        },
+        {
+          "chapter": 7,
+          "verse": 16,
+          "text": "I have decked my bed with coverings of tapestry, with carved [ADD]works[/ADD], with fine linen of Egypt."
+        },
+        {
+          "chapter": 7,
+          "verse": 17,
+          "text": "I have perfumed my bed with myrrh, aloes, and cinnamon."
+        },
+        {
+          "chapter": 7,
+          "verse": 18,
+          "text": "Come, let us take our fill of love until the morning: let us solace ourselves with loves."
+        },
+        {
+          "chapter": 7,
+          "verse": 19,
+          "text": "For the goodman [ADD]is[/ADD] not at home, he is gone a long journey:"
+        },
+        {
+          "chapter": 7,
+          "verse": 20,
+          "text": "He hath taken a bag of money with him, [ADD]and[/ADD] will come home at the day appointed.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 7,
+          "verse": 21,
+          "text": "With her much fair speech she caused him to yield, with the flattering of her lips she forced him."
+        },
+        {
+          "chapter": 7,
+          "verse": 22,
+          "text": "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 7,
+          "verse": 23,
+          "text": "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it [ADD]is[/ADD] for his life."
+        },
+        {
+          "chapter": 7,
+          "verse": 24,
+          "text": "Hearken unto me now therefore, O ye children, and attend to the words of my mouth."
+        },
+        {
+          "chapter": 7,
+          "verse": 25,
+          "text": "Let not thine heart decline to her ways, go not astray in her paths."
+        },
+        {
+          "chapter": 7,
+          "verse": 26,
+          "text": "For she hath cast down many wounded: yea, many strong [ADD]men[/ADD] have been slain by her."
+        },
+        {
+          "chapter": 7,
+          "verse": 27,
+          "text": "Her house [ADD]is[/ADD] the way to hell, going down to the chambers of death."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "Doth not wisdom cry? and understanding put forth her voice?"
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "She standeth in the top of high places, by the way in the places of the paths."
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "She crieth at the gates, at the entry of the city, at the coming in at the doors."
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Unto you, O men, I call; and my voice [ADD]is[/ADD] to the sons of man."
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart."
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Hear; for I will speak of excellent things; and the opening of my lips [ADD]shall be[/ADD] right things."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "For my mouth shall speak truth; and wickedness [ADD]is[/ADD] an abomination to my lips.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "All the words of my mouth [ADD]are[/ADD] in righteousness; [ADD]there is[/ADD] nothing froward or perverse in them.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "They [ADD]are[/ADD] all plain to him that understandeth, and right to them that find knowledge."
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Receive my instruction, and not silver; and knowledge rather than choice gold."
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "For wisdom [ADD]is[/ADD] better than rubies; and all the things that may be desired are not to be compared to it."
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "I wisdom dwell with prudence, and find out knowledge of witty inventions.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "The fear of the LORD [ADD]is[/ADD] to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate."
+        },
+        {
+          "chapter": 8,
+          "verse": 14,
+          "text": "Counsel [ADD]is[/ADD] mine, and sound wisdom: I [ADD]am[/ADD] understanding; I have strength."
+        },
+        {
+          "chapter": 8,
+          "verse": 15,
+          "text": "By me kings reign, and princes decree justice."
+        },
+        {
+          "chapter": 8,
+          "verse": 16,
+          "text": "By me princes rule, and nobles, [ADD]even[/ADD] all the judges of the earth."
+        },
+        {
+          "chapter": 8,
+          "verse": 17,
+          "text": "I love them that love me; and those that seek me early shall find me."
+        },
+        {
+          "chapter": 8,
+          "verse": 18,
+          "text": "Riches and honour [ADD]are[/ADD] with me; [ADD]yea[/ADD], durable riches and righteousness."
+        },
+        {
+          "chapter": 8,
+          "verse": 19,
+          "text": "My fruit [ADD]is[/ADD] better than gold, yea, than fine gold; and my revenue than choice silver."
+        },
+        {
+          "chapter": 8,
+          "verse": 20,
+          "text": "I lead in the way of righteousness, in the midst of the paths of judgment:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 21,
+          "text": "That I may cause those that love me to inherit substance; and I will fill their treasures."
+        },
+        {
+          "chapter": 8,
+          "verse": 22,
+          "text": "The LORD possessed me in the beginning of his way, before his works of old."
+        },
+        {
+          "chapter": 8,
+          "verse": 23,
+          "text": "I was set up from everlasting, from the beginning, or ever the earth was."
+        },
+        {
+          "chapter": 8,
+          "verse": 24,
+          "text": "When [ADD]there were[/ADD] no depths, I was brought forth; when [ADD]there were[/ADD] no fountains abounding with water."
+        },
+        {
+          "chapter": 8,
+          "verse": 25,
+          "text": "Before the mountains were settled, before the hills was I brought forth:"
+        },
+        {
+          "chapter": 8,
+          "verse": 26,
+          "text": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 8,
+          "verse": 27,
+          "text": "When he prepared the heavens, I [ADD]was[/ADD] there: when he set a compass upon the face of the depth:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 28,
+          "text": "When he established the clouds above: when he strengthened the fountains of the deep:"
+        },
+        {
+          "chapter": 8,
+          "verse": 29,
+          "text": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:"
+        },
+        {
+          "chapter": 8,
+          "verse": 30,
+          "text": "Then I was by him, [ADD]as[/ADD] one brought up [ADD]with him:[/ADD] and I was daily [ADD]his[/ADD] delight, rejoicing always before him;"
+        },
+        {
+          "chapter": 8,
+          "verse": 31,
+          "text": "Rejoicing in the habitable part of his earth; and my delights [ADD]were[/ADD] with the sons of men."
+        },
+        {
+          "chapter": 8,
+          "verse": 32,
+          "text": "Now therefore hearken unto me, O ye children: for blessed [ADD]are they that[/ADD] keep my ways."
+        },
+        {
+          "chapter": 8,
+          "verse": 33,
+          "text": "Hear instruction, and be wise, and refuse it not."
+        },
+        {
+          "chapter": 8,
+          "verse": 34,
+          "text": "Blessed [ADD]is[/ADD] the man that heareth me, watching daily at my gates, waiting at the posts of my doors."
+        },
+        {
+          "chapter": 8,
+          "verse": 35,
+          "text": "For whoso findeth me findeth life, and shall obtain favour of the LORD.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 8,
+          "verse": 36,
+          "text": "But he that sinneth against me wrongeth his own soul: all they that hate me love death."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "text": "Wisdom hath builded her house, she hath hewn out her seven pillars:"
+        },
+        {
+          "chapter": 9,
+          "verse": 2,
+          "text": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 9,
+          "verse": 3,
+          "text": "She hath sent forth her maidens: she crieth upon the highest places of the city,"
+        },
+        {
+          "chapter": 9,
+          "verse": 4,
+          "text": "Whoso [ADD]is[/ADD] simple, let him turn in hither: [ADD]as for[/ADD] him that wanteth understanding, she saith to him,"
+        },
+        {
+          "chapter": 9,
+          "verse": 5,
+          "text": "Come, eat of my bread, and drink of the wine [ADD]which[/ADD] I have mingled."
+        },
+        {
+          "chapter": 9,
+          "verse": 6,
+          "text": "Forsake the foolish, and live; and go in the way of understanding."
+        },
+        {
+          "chapter": 9,
+          "verse": 7,
+          "text": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked [ADD]man getteth[/ADD] himself a blot."
+        },
+        {
+          "chapter": 9,
+          "verse": 8,
+          "text": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee."
+        },
+        {
+          "chapter": 9,
+          "verse": 9,
+          "text": "Give [ADD]instruction[/ADD] to a wise [ADD]man[/ADD], and he will be yet wiser: teach a just [ADD]man[/ADD], and he will increase in learning."
+        },
+        {
+          "chapter": 9,
+          "verse": 10,
+          "text": "The fear of the LORD [ADD]is[/ADD] the beginning of wisdom: and the knowledge of the holy [ADD]is[/ADD] understanding."
+        },
+        {
+          "chapter": 9,
+          "verse": 11,
+          "text": "For by me thy days shall be multiplied, and the years of thy life shall be increased."
+        },
+        {
+          "chapter": 9,
+          "verse": 12,
+          "text": "If thou be wise, thou shalt be wise for thyself: but [ADD]if[/ADD] thou scornest, thou alone shalt bear [ADD]it[/ADD]."
+        },
+        {
+          "chapter": 9,
+          "verse": 13,
+          "text": "A foolish woman [ADD]is[/ADD] clamorous: [ADD]she is[/ADD] simple, and knoweth nothing."
+        },
+        {
+          "chapter": 9,
+          "verse": 14,
+          "text": "For she sitteth at the door of her house, on a seat in the high places of the city,"
+        },
+        {
+          "chapter": 9,
+          "verse": 15,
+          "text": "To call passengers who go right on their ways:"
+        },
+        {
+          "chapter": 9,
+          "verse": 16,
+          "text": "Whoso [ADD]is[/ADD] simple, let him turn in hither: and [ADD]as for[/ADD] him that wanteth understanding, she saith to him,"
+        },
+        {
+          "chapter": 9,
+          "verse": 17,
+          "text": "Stolen waters are sweet, and bread [ADD]eaten[/ADD] in secret is pleasant.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 9,
+          "verse": 18,
+          "text": "But he knoweth not that the dead [ADD]are[/ADD] there; [ADD]and that[/ADD] her guests [ADD]are[/ADD] in the depths of hell."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "text": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son [ADD]is[/ADD] the heaviness of his mother."
+        },
+        {
+          "chapter": 10,
+          "verse": 2,
+          "text": "Treasures of wickedness profit nothing: but righteousness delivereth from death."
+        },
+        {
+          "chapter": 10,
+          "verse": 3,
+          "text": "The LORD will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 4,
+          "text": "He becometh poor that dealeth [ADD]with[/ADD] a slack hand: but the hand of the diligent maketh rich."
+        },
+        {
+          "chapter": 10,
+          "verse": 5,
+          "text": "He that gathereth in summer [ADD]is[/ADD] a wise son: [ADD]but[/ADD] he that sleepeth in harvest [ADD]is[/ADD] a son that causeth shame."
+        },
+        {
+          "chapter": 10,
+          "verse": 6,
+          "text": "Blessings [ADD]are[/ADD] upon the head of the just: but violence covereth the mouth of the wicked."
+        },
+        {
+          "chapter": 10,
+          "verse": 7,
+          "text": "The memory of the just [ADD]is[/ADD] blessed: but the name of the wicked shall rot."
+        },
+        {
+          "chapter": 10,
+          "verse": 8,
+          "text": "The wise in heart will receive commandments: but a prating fool shall fall.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 10,
+          "verse": 9,
+          "text": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known."
+        },
+        {
+          "chapter": 10,
+          "verse": 10,
+          "text": "He that winketh with the eye causeth sorrow: but a prating fool shall fall.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 11,
+          "text": "The mouth of a righteous [ADD]man is[/ADD] a well of life: but violence covereth the mouth of the wicked."
+        },
+        {
+          "chapter": 10,
+          "verse": 12,
+          "text": "Hatred stirreth up strifes: but love covereth all sins."
+        },
+        {
+          "chapter": 10,
+          "verse": 13,
+          "text": "In the lips of him that hath understanding wisdom is found: but a rod [ADD]is[/ADD] for the back of him that is void of understanding.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 14,
+          "text": "Wise [ADD]men[/ADD] lay up knowledge: but the mouth of the foolish [ADD]is[/ADD] near destruction."
+        },
+        {
+          "chapter": 10,
+          "verse": 15,
+          "text": "The rich man’s wealth [ADD]is[/ADD] his strong city: the destruction of the poor [ADD]is[/ADD] their poverty."
+        },
+        {
+          "chapter": 10,
+          "verse": 16,
+          "text": "The labour of the righteous [ADD]tendeth[/ADD] to life: the fruit of the wicked to sin."
+        },
+        {
+          "chapter": 10,
+          "verse": 17,
+          "text": "He [ADD]is in[/ADD] the way of life that keepeth instruction: but he that refuseth reproof erreth.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 18,
+          "text": "He that hideth hatred [ADD]with[/ADD] lying lips, and he that uttereth a slander, [ADD]is[/ADD] a fool."
+        },
+        {
+          "chapter": 10,
+          "verse": 19,
+          "text": "In the multitude of words there wanteth not sin: but he that refraineth his lips [ADD]is[/ADD] wise."
+        },
+        {
+          "chapter": 10,
+          "verse": 20,
+          "text": "The tongue of the just [ADD]is as[/ADD] choice silver: the heart of the wicked [ADD]is[/ADD] little worth."
+        },
+        {
+          "chapter": 10,
+          "verse": 21,
+          "text": "The lips of the righteous feed many: but fools die for want of wisdom.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 22,
+          "text": "The blessing of the LORD, it maketh rich, and he addeth no sorrow with it."
+        },
+        {
+          "chapter": 10,
+          "verse": 23,
+          "text": "[ADD]It is[/ADD] as sport to a fool to do mischief: but a man of understanding hath wisdom."
+        },
+        {
+          "chapter": 10,
+          "verse": 24,
+          "text": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."
+        },
+        {
+          "chapter": 10,
+          "verse": 25,
+          "text": "As the whirlwind passeth, so [ADD]is[/ADD] the wicked no [ADD]more:[/ADD] but the righteous [ADD]is[/ADD] an everlasting foundation."
+        },
+        {
+          "chapter": 10,
+          "verse": 26,
+          "text": "As vinegar to the teeth, and as smoke to the eyes, so [ADD]is[/ADD] the sluggard to them that send him."
+        },
+        {
+          "chapter": 10,
+          "verse": 27,
+          "text": "The fear of the LORD prolongeth days: but the years of the wicked shall be shortened.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 28,
+          "text": "The hope of the righteous [ADD]shall be[/ADD] gladness: but the expectation of the wicked shall perish."
+        },
+        {
+          "chapter": 10,
+          "verse": 29,
+          "text": "The way of the LORD [ADD]is[/ADD] strength to the upright: but destruction [ADD]shall be[/ADD] to the workers of iniquity."
+        },
+        {
+          "chapter": 10,
+          "verse": 30,
+          "text": "The righteous shall never be removed: but the wicked shall not inhabit the earth."
+        },
+        {
+          "chapter": 10,
+          "verse": 31,
+          "text": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out."
+        },
+        {
+          "chapter": 10,
+          "verse": 32,
+          "text": "The lips of the righteous know what is acceptable: but the mouth of the wicked [ADD]speaketh[/ADD] frowardness.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "text": "A false balance [ADD]is[/ADD] abomination to the LORD: but a just weight [ADD]is[/ADD] his delight.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 11,
+          "verse": 2,
+          "text": "[ADD]When[/ADD] pride cometh, then cometh shame: but with the lowly [ADD]is[/ADD] wisdom."
+        },
+        {
+          "chapter": 11,
+          "verse": 3,
+          "text": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them."
+        },
+        {
+          "chapter": 11,
+          "verse": 4,
+          "text": "Riches profit not in the day of wrath: but righteousness delivereth from death."
+        },
+        {
+          "chapter": 11,
+          "verse": 5,
+          "text": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 11,
+          "verse": 6,
+          "text": "The righteousness of the upright shall deliver them: but transgressors shall be taken in [ADD]their own[/ADD] naughtiness."
+        },
+        {
+          "chapter": 11,
+          "verse": 7,
+          "text": "When a wicked man dieth, [ADD]his[/ADD] expectation shall perish: and the hope of unjust [ADD]men[/ADD] perisheth."
+        },
+        {
+          "chapter": 11,
+          "verse": 8,
+          "text": "The righteous is delivered out of trouble, and the wicked cometh in his stead."
+        },
+        {
+          "chapter": 11,
+          "verse": 9,
+          "text": "An hypocrite with [ADD]his[/ADD] mouth destroyeth his neighbour: but through knowledge shall the just be delivered."
+        },
+        {
+          "chapter": 11,
+          "verse": 10,
+          "text": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, [ADD]there is[/ADD] shouting."
+        },
+        {
+          "chapter": 11,
+          "verse": 11,
+          "text": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked."
+        },
+        {
+          "chapter": 11,
+          "verse": 12,
+          "text": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 11,
+          "verse": 13,
+          "text": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 11,
+          "verse": 14,
+          "text": "Where no counsel [ADD]is[/ADD], the people fall: but in the multitude of counsellors [ADD]there is[/ADD] safety."
+        },
+        {
+          "chapter": 11,
+          "verse": 15,
+          "text": "He that is surety for a stranger shall smart [ADD]for it:[/ADD] and he that hateth suretiship is sure.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 11,
+          "verse": 16,
+          "text": "A gracious woman retaineth honour: and strong [ADD]men[/ADD] retain riches."
+        },
+        {
+          "chapter": 11,
+          "verse": 17,
+          "text": "The merciful man doeth good to his own soul: but [ADD]he that is[/ADD] cruel troubleth his own flesh."
+        },
+        {
+          "chapter": 11,
+          "verse": 18,
+          "text": "The wicked worketh a deceitful work: but to him that soweth righteousness [ADD]shall be[/ADD] a sure reward."
+        },
+        {
+          "chapter": 11,
+          "verse": 19,
+          "text": "As righteousness [ADD]tendeth[/ADD] to life: so he that pursueth evil [ADD]pursueth it[/ADD] to his own death."
+        },
+        {
+          "chapter": 11,
+          "verse": 20,
+          "text": "They that are of a froward heart [ADD]are[/ADD] abomination to the LORD: but [ADD]such as are[/ADD] upright in [ADD]their[/ADD] way [ADD]are[/ADD] his delight."
+        },
+        {
+          "chapter": 11,
+          "verse": 21,
+          "text": "[ADD]Though[/ADD] hand [ADD]join[/ADD] in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered."
+        },
+        {
+          "chapter": 11,
+          "verse": 22,
+          "text": "[ADD]As[/ADD] a jewel of gold in a swine’s snout, [ADD]so is[/ADD] a fair woman which is without discretion.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 11,
+          "verse": 23,
+          "text": "The desire of the righteous [ADD]is[/ADD] only good: [ADD]but[/ADD] the expectation of the wicked [ADD]is[/ADD] wrath."
+        },
+        {
+          "chapter": 11,
+          "verse": 24,
+          "text": "There is that scattereth, and yet increaseth; and [ADD]there is[/ADD] that withholdeth more than is meet, but [ADD]it tendeth[/ADD] to poverty."
+        },
+        {
+          "chapter": 11,
+          "verse": 25,
+          "text": "The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 11,
+          "verse": 26,
+          "text": "He that withholdeth corn, the people shall curse him: but blessing [ADD]shall be[/ADD] upon the head of him that selleth [ADD]it[/ADD]."
+        },
+        {
+          "chapter": 11,
+          "verse": 27,
+          "text": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him."
+        },
+        {
+          "chapter": 11,
+          "verse": 28,
+          "text": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch."
+        },
+        {
+          "chapter": 11,
+          "verse": 29,
+          "text": "He that troubleth his own house shall inherit the wind: and the fool [ADD]shall be[/ADD] servant to the wise of heart."
+        },
+        {
+          "chapter": 11,
+          "verse": 30,
+          "text": "The fruit of the righteous [ADD]is[/ADD] a tree of life; and he that winneth souls [ADD]is[/ADD] wise.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 11,
+          "verse": 31,
+          "text": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "text": "Whoso loveth instruction loveth knowledge: but he that hateth reproof [ADD]is[/ADD] brutish."
+        },
+        {
+          "chapter": 12,
+          "verse": 2,
+          "text": "A good [ADD]man[/ADD] obtaineth favour of the LORD: but a man of wicked devices will he condemn."
+        },
+        {
+          "chapter": 12,
+          "verse": 3,
+          "text": "A man shall not be established by wickedness: but the root of the righteous shall not be moved."
+        },
+        {
+          "chapter": 12,
+          "verse": 4,
+          "text": "A virtuous woman [ADD]is[/ADD] a crown to her husband: but she that maketh ashamed [ADD]is[/ADD] as rottenness in his bones."
+        },
+        {
+          "chapter": 12,
+          "verse": 5,
+          "text": "The thoughts of the righteous [ADD]are[/ADD] right: [ADD]but[/ADD] the counsels of the wicked [ADD]are[/ADD] deceit."
+        },
+        {
+          "chapter": 12,
+          "verse": 6,
+          "text": "The words of the wicked [ADD]are[/ADD] to lie in wait for blood: but the mouth of the upright shall deliver them."
+        },
+        {
+          "chapter": 12,
+          "verse": 7,
+          "text": "The wicked are overthrown, and [ADD]are[/ADD] not: but the house of the righteous shall stand."
+        },
+        {
+          "chapter": 12,
+          "verse": 8,
+          "text": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 12,
+          "verse": 9,
+          "text": "[ADD]He that is[/ADD] despised, and hath a servant, [ADD]is[/ADD] better than he that honoureth himself, and lacketh bread."
+        },
+        {
+          "chapter": 12,
+          "verse": 10,
+          "text": "A righteous [ADD]man[/ADD] regardeth the life of his beast: but the tender mercies of the wicked [ADD]are[/ADD] cruel.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 12,
+          "verse": 11,
+          "text": "He that tilleth his land shall be satisfied with bread: but he that followeth vain [ADD]persons is[/ADD] void of understanding."
+        },
+        {
+          "chapter": 12,
+          "verse": 12,
+          "text": "The wicked desireth the net of evil [ADD]men:[/ADD] but the root of the righteous yieldeth [ADD]fruit[/ADD].",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 12,
+          "verse": 13,
+          "text": "The wicked is snared by the transgression of [ADD]his[/ADD] lips: but the just shall come out of trouble.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 12,
+          "verse": 14,
+          "text": "A man shall be satisfied with good by the fruit of [ADD]his[/ADD] mouth: and the recompence of a man’s hands shall be rendered unto him."
+        },
+        {
+          "chapter": 12,
+          "verse": 15,
+          "text": "The way of a fool [ADD]is[/ADD] right in his own eyes: but he that hearkeneth unto counsel [ADD]is[/ADD] wise."
+        },
+        {
+          "chapter": 12,
+          "verse": 16,
+          "text": "A fool’s wrath is presently known: but a prudent [ADD]man[/ADD] covereth shame.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 12,
+          "verse": 17,
+          "text": "[ADD]He that[/ADD] speaketh truth sheweth forth righteousness: but a false witness deceit."
+        },
+        {
+          "chapter": 12,
+          "verse": 18,
+          "text": "There is that speaketh like the piercings of a sword: but the tongue of the wise [ADD]is[/ADD] health."
+        },
+        {
+          "chapter": 12,
+          "verse": 19,
+          "text": "The lip of truth shall be established for ever: but a lying tongue [ADD]is[/ADD] but for a moment."
+        },
+        {
+          "chapter": 12,
+          "verse": 20,
+          "text": "Deceit [ADD]is[/ADD] in the heart of them that imagine evil: but to the counsellors of peace [ADD]is[/ADD] joy."
+        },
+        {
+          "chapter": 12,
+          "verse": 21,
+          "text": "There shall no evil happen to the just: but the wicked shall be filled with mischief."
+        },
+        {
+          "chapter": 12,
+          "verse": 22,
+          "text": "Lying lips [ADD]are[/ADD] abomination to the LORD: but they that deal truly [ADD]are[/ADD] his delight."
+        },
+        {
+          "chapter": 12,
+          "verse": 23,
+          "text": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness."
+        },
+        {
+          "chapter": 12,
+          "verse": 24,
+          "text": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 12,
+          "verse": 25,
+          "text": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad."
+        },
+        {
+          "chapter": 12,
+          "verse": 26,
+          "text": "The righteous [ADD]is[/ADD] more excellent than his neighbour: but the way of the wicked seduceth them.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 12,
+          "verse": 27,
+          "text": "The slothful [ADD]man[/ADD] roasteth not that which he took in hunting: but the substance of a diligent man [ADD]is[/ADD] precious."
+        },
+        {
+          "chapter": 12,
+          "verse": 28,
+          "text": "In the way of righteousness [ADD]is[/ADD] life; and [ADD]in[/ADD] the pathway [ADD]thereof there is[/ADD] no death."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": 1,
+          "text": "A wise son [ADD]heareth[/ADD] his father’s instruction: but a scorner heareth not rebuke."
+        },
+        {
+          "chapter": 13,
+          "verse": 2,
+          "text": "A man shall eat good by the fruit of [ADD]his[/ADD] mouth: but the soul of the transgressors [ADD]shall eat[/ADD] violence."
+        },
+        {
+          "chapter": 13,
+          "verse": 3,
+          "text": "He that keepeth his mouth keepeth his life: [ADD]but[/ADD] he that openeth wide his lips shall have destruction."
+        },
+        {
+          "chapter": 13,
+          "verse": 4,
+          "text": "The soul of the sluggard desireth, and [ADD]hath[/ADD] nothing: but the soul of the diligent shall be made fat."
+        },
+        {
+          "chapter": 13,
+          "verse": 5,
+          "text": "A righteous [ADD]man[/ADD] hateth lying: but a wicked [ADD]man[/ADD] is loathsome, and cometh to shame."
+        },
+        {
+          "chapter": 13,
+          "verse": 6,
+          "text": "Righteousness keepeth [ADD]him that is[/ADD] upright in the way: but wickedness overthroweth the sinner.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 13,
+          "verse": 7,
+          "text": "There is that maketh himself rich, yet [ADD]hath[/ADD] nothing: [ADD]there is[/ADD] that maketh himself poor, yet [ADD]hath[/ADD] great riches."
+        },
+        {
+          "chapter": 13,
+          "verse": 8,
+          "text": "The ransom of a man’s life [ADD]are[/ADD] his riches: but the poor heareth not rebuke."
+        },
+        {
+          "chapter": 13,
+          "verse": 9,
+          "text": "The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 13,
+          "verse": 10,
+          "text": "Only by pride cometh contention: but with the well advised [ADD]is[/ADD] wisdom."
+        },
+        {
+          "chapter": 13,
+          "verse": 11,
+          "text": "Wealth [ADD]gotten[/ADD] by vanity shall be diminished: but he that gathereth by labour shall increase.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 13,
+          "verse": 12,
+          "text": "Hope deferred maketh the heart sick: but [ADD]when[/ADD] the desire cometh, [ADD]it is[/ADD] a tree of life."
+        },
+        {
+          "chapter": 13,
+          "verse": 13,
+          "text": "Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 13,
+          "verse": 14,
+          "text": "The law of the wise [ADD]is[/ADD] a fountain of life, to depart from the snares of death."
+        },
+        {
+          "chapter": 13,
+          "verse": 15,
+          "text": "Good understanding giveth favour: but the way of transgressors [ADD]is[/ADD] hard."
+        },
+        {
+          "chapter": 13,
+          "verse": 16,
+          "text": "Every prudent [ADD]man[/ADD] dealeth with knowledge: but a fool layeth open [ADD]his[/ADD] folly.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 13,
+          "verse": 17,
+          "text": "A wicked messenger falleth into mischief: but a faithful ambassador [ADD]is[/ADD] health.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 13,
+          "verse": 18,
+          "text": "Poverty and shame [ADD]shall be to[/ADD] him that refuseth instruction: but he that regardeth reproof shall be honoured."
+        },
+        {
+          "chapter": 13,
+          "verse": 19,
+          "text": "The desire accomplished is sweet to the soul: but [ADD]it is[/ADD] abomination to fools to depart from evil."
+        },
+        {
+          "chapter": 13,
+          "verse": 20,
+          "text": "He that walketh with wise [ADD]men[/ADD] shall be wise: but a companion of fools shall be destroyed.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 13,
+          "verse": 21,
+          "text": "Evil pursueth sinners: but to the righteous good shall be repayed."
+        },
+        {
+          "chapter": 13,
+          "verse": 22,
+          "text": "A good [ADD]man[/ADD] leaveth an inheritance to his children’s children: and the wealth of the sinner [ADD]is[/ADD] laid up for the just."
+        },
+        {
+          "chapter": 13,
+          "verse": 23,
+          "text": "Much food [ADD]is in[/ADD] the tillage of the poor: but there is [ADD]that is[/ADD] destroyed for want of judgment."
+        },
+        {
+          "chapter": 13,
+          "verse": 24,
+          "text": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes."
+        },
+        {
+          "chapter": 13,
+          "verse": 25,
+          "text": "The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": 1,
+          "text": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands."
+        },
+        {
+          "chapter": 14,
+          "verse": 2,
+          "text": "He that walketh in his uprightness feareth the LORD: but [ADD]he that is[/ADD] perverse in his ways despiseth him."
+        },
+        {
+          "chapter": 14,
+          "verse": 3,
+          "text": "In the mouth of the foolish [ADD]is[/ADD] a rod of pride: but the lips of the wise shall preserve them."
+        },
+        {
+          "chapter": 14,
+          "verse": 4,
+          "text": "Where no oxen [ADD]are[/ADD], the crib [ADD]is[/ADD] clean: but much increase [ADD]is[/ADD] by the strength of the ox."
+        },
+        {
+          "chapter": 14,
+          "verse": 5,
+          "text": "A faithful witness will not lie: but a false witness will utter lies."
+        },
+        {
+          "chapter": 14,
+          "verse": 6,
+          "text": "A scorner seeketh wisdom, and [ADD]findeth it[/ADD] not: but knowledge [ADD]is[/ADD] easy unto him that understandeth."
+        },
+        {
+          "chapter": 14,
+          "verse": 7,
+          "text": "Go from the presence of a foolish man, when thou perceivest not [ADD]in him[/ADD] the lips of knowledge."
+        },
+        {
+          "chapter": 14,
+          "verse": 8,
+          "text": "The wisdom of the prudent [ADD]is[/ADD] to understand his way: but the folly of fools [ADD]is[/ADD] deceit."
+        },
+        {
+          "chapter": 14,
+          "verse": 9,
+          "text": "Fools make a mock at sin: but among the righteous [ADD]there is[/ADD] favour."
+        },
+        {
+          "chapter": 14,
+          "verse": 10,
+          "text": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 14,
+          "verse": 11,
+          "text": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish."
+        },
+        {
+          "chapter": 14,
+          "verse": 12,
+          "text": "There is a way which seemeth right unto a man, but the end thereof [ADD]are[/ADD] the ways of death."
+        },
+        {
+          "chapter": 14,
+          "verse": 13,
+          "text": "Even in laughter the heart is sorrowful; and the end of that mirth [ADD]is[/ADD] heaviness."
+        },
+        {
+          "chapter": 14,
+          "verse": 14,
+          "text": "The backslider in heart shall be filled with his own ways: and a good man [ADD]shall be satisfied[/ADD] from himself."
+        },
+        {
+          "chapter": 14,
+          "verse": 15,
+          "text": "The simple believeth every word: but the prudent [ADD]man[/ADD] looketh well to his going."
+        },
+        {
+          "chapter": 14,
+          "verse": 16,
+          "text": "A wise [ADD]man[/ADD] feareth, and departeth from evil: but the fool rageth, and is confident."
+        },
+        {
+          "chapter": 14,
+          "verse": 17,
+          "text": "[ADD]He that is[/ADD] soon angry dealeth foolishly: and a man of wicked devices is hated."
+        },
+        {
+          "chapter": 14,
+          "verse": 18,
+          "text": "The simple inherit folly: but the prudent are crowned with knowledge."
+        },
+        {
+          "chapter": 14,
+          "verse": 19,
+          "text": "The evil bow before the good; and the wicked at the gates of the righteous."
+        },
+        {
+          "chapter": 14,
+          "verse": 20,
+          "text": "The poor is hated even of his own neighbour: but the rich [ADD]hath[/ADD] many friends.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 14,
+          "verse": 21,
+          "text": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy [ADD]is[/ADD] he."
+        },
+        {
+          "chapter": 14,
+          "verse": 22,
+          "text": "Do they not err that devise evil? but mercy and truth [ADD]shall be[/ADD] to them that devise good."
+        },
+        {
+          "chapter": 14,
+          "verse": 23,
+          "text": "In all labour there is profit: but the talk of the lips [ADD]tendeth[/ADD] only to penury."
+        },
+        {
+          "chapter": 14,
+          "verse": 24,
+          "text": "The crown of the wise [ADD]is[/ADD] their riches: [ADD]but[/ADD] the foolishness of fools [ADD]is[/ADD] folly."
+        },
+        {
+          "chapter": 14,
+          "verse": 25,
+          "text": "A true witness delivereth souls: but a deceitful [ADD]witness[/ADD] speaketh lies."
+        },
+        {
+          "chapter": 14,
+          "verse": 26,
+          "text": "In the fear of the LORD [ADD]is[/ADD] strong confidence: and his children shall have a place of refuge."
+        },
+        {
+          "chapter": 14,
+          "verse": 27,
+          "text": "The fear of the LORD [ADD]is[/ADD] a fountain of life, to depart from the snares of death."
+        },
+        {
+          "chapter": 14,
+          "verse": 28,
+          "text": "In the multitude of people [ADD]is[/ADD] the king’s honour: but in the want of people [ADD]is[/ADD] the destruction of the prince."
+        },
+        {
+          "chapter": 14,
+          "verse": 29,
+          "text": "[ADD]He that is[/ADD] slow to wrath [ADD]is[/ADD] of great understanding: but [ADD]he that is[/ADD] hasty of spirit exalteth folly.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 14,
+          "verse": 30,
+          "text": "A sound heart [ADD]is[/ADD] the life of the flesh: but envy the rottenness of the bones."
+        },
+        {
+          "chapter": 14,
+          "verse": 31,
+          "text": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor."
+        },
+        {
+          "chapter": 14,
+          "verse": 32,
+          "text": "The wicked is driven away in his wickedness: but the righteous hath hope in his death."
+        },
+        {
+          "chapter": 14,
+          "verse": 33,
+          "text": "Wisdom resteth in the heart of him that hath understanding: but [ADD]that which is[/ADD] in the midst of fools is made known."
+        },
+        {
+          "chapter": 14,
+          "verse": 34,
+          "text": "Righteousness exalteth a nation: but sin [ADD]is[/ADD] a reproach to any people.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 14,
+          "verse": 35,
+          "text": "The king’s favour [ADD]is[/ADD] toward a wise servant: but his wrath is [ADD]against[/ADD] him that causeth shame."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "chapter": 15,
+          "verse": 1,
+          "text": "A soft answer turneth away wrath: but grievous words stir up anger."
+        },
+        {
+          "chapter": 15,
+          "verse": 2,
+          "text": "The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 15,
+          "verse": 3,
+          "text": "The eyes of the LORD [ADD]are[/ADD] in every place, beholding the evil and the good."
+        },
+        {
+          "chapter": 15,
+          "verse": 4,
+          "text": "A wholesome tongue [ADD]is[/ADD] a tree of life: but perverseness therein [ADD]is[/ADD] a breach in the spirit.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 15,
+          "verse": 5,
+          "text": "A fool despiseth his father’s instruction: but he that regardeth reproof is prudent."
+        },
+        {
+          "chapter": 15,
+          "verse": 6,
+          "text": "In the house of the righteous [ADD]is[/ADD] much treasure: but in the revenues of the wicked is trouble."
+        },
+        {
+          "chapter": 15,
+          "verse": 7,
+          "text": "The lips of the wise disperse knowledge: but the heart of the foolish [ADD]doeth[/ADD] not so."
+        },
+        {
+          "chapter": 15,
+          "verse": 8,
+          "text": "The sacrifice of the wicked [ADD]is[/ADD] an abomination to the LORD: but the prayer of the upright [ADD]is[/ADD] his delight."
+        },
+        {
+          "chapter": 15,
+          "verse": 9,
+          "text": "The way of the wicked [ADD]is[/ADD] an abomination unto the LORD: but he loveth him that followeth after righteousness."
+        },
+        {
+          "chapter": 15,
+          "verse": 10,
+          "text": "Correction [ADD]is[/ADD] grievous unto him that forsaketh the way: [ADD]and[/ADD] he that hateth reproof shall die.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 15,
+          "verse": 11,
+          "text": "Hell and destruction [ADD]are[/ADD] before the LORD: how much more then the hearts of the children of men?"
+        },
+        {
+          "chapter": 15,
+          "verse": 12,
+          "text": "A scorner loveth not one that reproveth him: neither will he go unto the wise."
+        },
+        {
+          "chapter": 15,
+          "verse": 13,
+          "text": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken."
+        },
+        {
+          "chapter": 15,
+          "verse": 14,
+          "text": "The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness."
+        },
+        {
+          "chapter": 15,
+          "verse": 15,
+          "text": "All the days of the afflicted [ADD]are[/ADD] evil: but he that is of a merry heart [ADD]hath[/ADD] a continual feast."
+        },
+        {
+          "chapter": 15,
+          "verse": 16,
+          "text": "Better [ADD]is[/ADD] little with the fear of the LORD than great treasure and trouble therewith."
+        },
+        {
+          "chapter": 15,
+          "verse": 17,
+          "text": "Better [ADD]is[/ADD] a dinner of herbs where love is, than a stalled ox and hatred therewith."
+        },
+        {
+          "chapter": 15,
+          "verse": 18,
+          "text": "A wrathful man stirreth up strife: but [ADD]he that is[/ADD] slow to anger appeaseth strife."
+        },
+        {
+          "chapter": 15,
+          "verse": 19,
+          "text": "The way of the slothful [ADD]man is[/ADD] as an hedge of thorns: but the way of the righteous [ADD]is[/ADD] made plain.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 15,
+          "verse": 20,
+          "text": "A wise son maketh a glad father: but a foolish man despiseth his mother."
+        },
+        {
+          "chapter": 15,
+          "verse": 21,
+          "text": "Folly [ADD]is[/ADD] joy to [ADD]him that is[/ADD] destitute of wisdom: but a man of understanding walketh uprightly.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 15,
+          "verse": 22,
+          "text": "Without counsel purposes are disappointed: but in the multitude of counsellors they are established."
+        },
+        {
+          "chapter": 15,
+          "verse": 23,
+          "text": "A man hath joy by the answer of his mouth: and a word [ADD]spoken[/ADD] in due season, how good [ADD]is it[/ADD]!",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 15,
+          "verse": 24,
+          "text": "The way of life [ADD]is[/ADD] above to the wise, that he may depart from hell beneath."
+        },
+        {
+          "chapter": 15,
+          "verse": 25,
+          "text": "The LORD will destroy the house of the proud: but he will establish the border of the widow."
+        },
+        {
+          "chapter": 15,
+          "verse": 26,
+          "text": "The thoughts of the wicked [ADD]are[/ADD] an abomination to the LORD: but [ADD]the words[/ADD] of the pure [ADD]are[/ADD] pleasant words.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 15,
+          "verse": 27,
+          "text": "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live."
+        },
+        {
+          "chapter": 15,
+          "verse": 28,
+          "text": "The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things."
+        },
+        {
+          "chapter": 15,
+          "verse": 29,
+          "text": "The LORD [ADD]is[/ADD] far from the wicked: but he heareth the prayer of the righteous."
+        },
+        {
+          "chapter": 15,
+          "verse": 30,
+          "text": "The light of the eyes rejoiceth the heart: [ADD]and[/ADD] a good report maketh the bones fat."
+        },
+        {
+          "chapter": 15,
+          "verse": 31,
+          "text": "The ear that heareth the reproof of life abideth among the wise."
+        },
+        {
+          "chapter": 15,
+          "verse": 32,
+          "text": "He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.",
+          "sourceFootnoteCount": 3
+        },
+        {
+          "chapter": 15,
+          "verse": 33,
+          "text": "The fear of the LORD [ADD]is[/ADD] the instruction of wisdom; and before honour [ADD]is[/ADD] humility."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "chapter": 16,
+          "verse": 1,
+          "text": "The preparations of the heart in man, and the answer of the tongue, [ADD]is[/ADD] from the LORD.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 2,
+          "text": "All the ways of a man [ADD]are[/ADD] clean in his own eyes; but the LORD weigheth the spirits."
+        },
+        {
+          "chapter": 16,
+          "verse": 3,
+          "text": "Commit thy works unto the LORD, and thy thoughts shall be established.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 4,
+          "text": "The LORD hath made all [ADD]things[/ADD] for himself: yea, even the wicked for the day of evil."
+        },
+        {
+          "chapter": 16,
+          "verse": 5,
+          "text": "Every one [ADD]that is[/ADD] proud in heart [ADD]is[/ADD] an abomination to the LORD: [ADD]though[/ADD] hand [ADD]join[/ADD] in hand, he shall not be unpunished.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 6,
+          "text": "By mercy and truth iniquity is purged: and by the fear of the LORD [ADD]men[/ADD] depart from evil."
+        },
+        {
+          "chapter": 16,
+          "verse": 7,
+          "text": "When a man’s ways please the LORD, he maketh even his enemies to be at peace with him."
+        },
+        {
+          "chapter": 16,
+          "verse": 8,
+          "text": "Better [ADD]is[/ADD] a little with righteousness than great revenues without right."
+        },
+        {
+          "chapter": 16,
+          "verse": 9,
+          "text": "A man’s heart deviseth his way: but the LORD directeth his steps."
+        },
+        {
+          "chapter": 16,
+          "verse": 10,
+          "text": "A divine sentence [ADD]is[/ADD] in the lips of the king: his mouth transgresseth not in judgment.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 11,
+          "text": "A just weight and balance [ADD]are[/ADD] the LORD’s: all the weights of the bag [ADD]are[/ADD] his work.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 12,
+          "text": "[ADD]It is[/ADD] an abomination to kings to commit wickedness: for the throne is established by righteousness."
+        },
+        {
+          "chapter": 16,
+          "verse": 13,
+          "text": "Righteous lips [ADD]are[/ADD] the delight of kings; and they love him that speaketh right."
+        },
+        {
+          "chapter": 16,
+          "verse": 14,
+          "text": "The wrath of a king [ADD]is as[/ADD] messengers of death: but a wise man will pacify it."
+        },
+        {
+          "chapter": 16,
+          "verse": 15,
+          "text": "In the light of the king’s countenance [ADD]is[/ADD] life; and his favour [ADD]is[/ADD] as a cloud of the latter rain."
+        },
+        {
+          "chapter": 16,
+          "verse": 16,
+          "text": "How much better [ADD]is it[/ADD] to get wisdom than gold! and to get understanding rather to be chosen than silver!"
+        },
+        {
+          "chapter": 16,
+          "verse": 17,
+          "text": "The highway of the upright [ADD]is[/ADD] to depart from evil: he that keepeth his way preserveth his soul."
+        },
+        {
+          "chapter": 16,
+          "verse": 18,
+          "text": "Pride [ADD]goeth[/ADD] before destruction, and an haughty spirit before a fall."
+        },
+        {
+          "chapter": 16,
+          "verse": 19,
+          "text": "Better [ADD]it is to be[/ADD] of an humble spirit with the lowly, than to divide the spoil with the proud."
+        },
+        {
+          "chapter": 16,
+          "verse": 20,
+          "text": "He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy [ADD]is[/ADD] he.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 21,
+          "text": "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning."
+        },
+        {
+          "chapter": 16,
+          "verse": 22,
+          "text": "Understanding [ADD]is[/ADD] a wellspring of life unto him that hath it: but the instruction of fools [ADD]is[/ADD] folly."
+        },
+        {
+          "chapter": 16,
+          "verse": 23,
+          "text": "The heart of the wise teacheth his mouth, and addeth learning to his lips.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 24,
+          "text": "Pleasant words [ADD]are as[/ADD] an honeycomb, sweet to the soul, and health to the bones."
+        },
+        {
+          "chapter": 16,
+          "verse": 25,
+          "text": "There is a way that seemeth right unto a man, but the end thereof [ADD]are[/ADD] the ways of death."
+        },
+        {
+          "chapter": 16,
+          "verse": 26,
+          "text": "He that laboureth laboureth for himself; for his mouth craveth it of him.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 16,
+          "verse": 27,
+          "text": "An ungodly man diggeth up evil: and in his lips [ADD]there is[/ADD] as a burning fire.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 28,
+          "text": "A froward man soweth strife: and a whisperer separateth chief friends.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 16,
+          "verse": 29,
+          "text": "A violent man enticeth his neighbour, and leadeth him into the way [ADD]that is[/ADD] not good."
+        },
+        {
+          "chapter": 16,
+          "verse": 30,
+          "text": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass."
+        },
+        {
+          "chapter": 16,
+          "verse": 31,
+          "text": "The hoary head [ADD]is[/ADD] a crown of glory, [ADD]if[/ADD] it be found in the way of righteousness."
+        },
+        {
+          "chapter": 16,
+          "verse": 32,
+          "text": "[ADD]He that is[/ADD] slow to anger [ADD]is[/ADD] better than the mighty; and he that ruleth his spirit than he that taketh a city."
+        },
+        {
+          "chapter": 16,
+          "verse": 33,
+          "text": "The lot is cast into the lap; but the whole disposing thereof [ADD]is[/ADD] of the LORD."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "chapter": 17,
+          "verse": 1,
+          "text": "Better [ADD]is[/ADD] a dry morsel, and quietness therewith, than an house full of sacrifices [ADD]with[/ADD] strife.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 2,
+          "text": "A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren."
+        },
+        {
+          "chapter": 17,
+          "verse": 3,
+          "text": "The fining pot [ADD]is[/ADD] for silver, and the furnace for gold: but the LORD trieth the hearts."
+        },
+        {
+          "chapter": 17,
+          "verse": 4,
+          "text": "A wicked doer giveth heed to false lips; [ADD]and[/ADD] a liar giveth ear to a naughty tongue."
+        },
+        {
+          "chapter": 17,
+          "verse": 5,
+          "text": "Whoso mocketh the poor reproacheth his Maker: [ADD]and[/ADD] he that is glad at calamities shall not be unpunished.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 6,
+          "text": "Children’s children [ADD]are[/ADD] the crown of old men; and the glory of children [ADD]are[/ADD] their fathers."
+        },
+        {
+          "chapter": 17,
+          "verse": 7,
+          "text": "Excellent speech becometh not a fool: much less do lying lips a prince.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 17,
+          "verse": 8,
+          "text": "A gift [ADD]is as[/ADD] a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 9,
+          "text": "He that covereth a transgression seeketh love; but he that repeateth a matter separateth [ADD]very[/ADD] friends.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 10,
+          "text": "A reproof entereth more into a wise man than an hundred stripes into a fool.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 11,
+          "text": "An evil [ADD]man[/ADD] seeketh only rebellion: therefore a cruel messenger shall be sent against him."
+        },
+        {
+          "chapter": 17,
+          "verse": 12,
+          "text": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly."
+        },
+        {
+          "chapter": 17,
+          "verse": 13,
+          "text": "Whoso rewardeth evil for good, evil shall not depart from his house."
+        },
+        {
+          "chapter": 17,
+          "verse": 14,
+          "text": "The beginning of strife [ADD]is as[/ADD] when one letteth out water: therefore leave off contention, before it be meddled with."
+        },
+        {
+          "chapter": 17,
+          "verse": 15,
+          "text": "He that justifieth the wicked, and he that condemneth the just, even they both [ADD]are[/ADD] abomination to the LORD."
+        },
+        {
+          "chapter": 17,
+          "verse": 16,
+          "text": "Wherefore [ADD]is there[/ADD] a price in the hand of a fool to get wisdom, seeing [ADD]he hath[/ADD] no heart [ADD]to it[/ADD]?"
+        },
+        {
+          "chapter": 17,
+          "verse": 17,
+          "text": "A friend loveth at all times, and a brother is born for adversity."
+        },
+        {
+          "chapter": 17,
+          "verse": 18,
+          "text": "A man void of understanding striketh hands, [ADD]and[/ADD] becometh surety in the presence of his friend.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 19,
+          "text": "He loveth transgression that loveth strife: [ADD]and[/ADD] he that exalteth his gate seeketh destruction."
+        },
+        {
+          "chapter": 17,
+          "verse": 20,
+          "text": "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 21,
+          "text": "He that begetteth a fool [ADD]doeth it[/ADD] to his sorrow: and the father of a fool hath no joy."
+        },
+        {
+          "chapter": 17,
+          "verse": 22,
+          "text": "A merry heart doeth good [ADD]like[/ADD] a medicine: but a broken spirit drieth the bones.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 23,
+          "text": "A wicked [ADD]man[/ADD] taketh a gift out of the bosom to pervert the ways of judgment."
+        },
+        {
+          "chapter": 17,
+          "verse": 24,
+          "text": "Wisdom [ADD]is[/ADD] before him that hath understanding; but the eyes of a fool [ADD]are[/ADD] in the ends of the earth."
+        },
+        {
+          "chapter": 17,
+          "verse": 25,
+          "text": "A foolish son [ADD]is[/ADD] a grief to his father, and bitterness to her that bare him."
+        },
+        {
+          "chapter": 17,
+          "verse": 26,
+          "text": "Also to punish the just [ADD]is[/ADD] not good, [ADD]nor[/ADD] to strike princes for equity."
+        },
+        {
+          "chapter": 17,
+          "verse": 27,
+          "text": "He that hath knowledge spareth his words: [ADD]and[/ADD] a man of understanding is of an excellent spirit.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 17,
+          "verse": 28,
+          "text": "Even a fool, when he holdeth his peace, is counted wise: [ADD]and[/ADD] he that shutteth his lips [ADD]is esteemed[/ADD] a man of understanding."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "chapter": 18,
+          "verse": 1,
+          "text": "Through desire a man, having separated himself, seeketh [ADD]and[/ADD] intermeddleth with all wisdom.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 18,
+          "verse": 2,
+          "text": "A fool hath no delight in understanding, but that his heart may discover itself."
+        },
+        {
+          "chapter": 18,
+          "verse": 3,
+          "text": "When the wicked cometh, [ADD]then[/ADD] cometh also contempt, and with ignominy reproach."
+        },
+        {
+          "chapter": 18,
+          "verse": 4,
+          "text": "The words of a man’s mouth [ADD]are as[/ADD] deep waters, [ADD]and[/ADD] the wellspring of wisdom [ADD]as[/ADD] a flowing brook."
+        },
+        {
+          "chapter": 18,
+          "verse": 5,
+          "text": "[ADD]It is[/ADD] not good to accept the person of the wicked, to overthrow the righteous in judgment."
+        },
+        {
+          "chapter": 18,
+          "verse": 6,
+          "text": "A fool’s lips enter into contention, and his mouth calleth for strokes."
+        },
+        {
+          "chapter": 18,
+          "verse": 7,
+          "text": "A fool’s mouth [ADD]is[/ADD] his destruction, and his lips [ADD]are[/ADD] the snare of his soul."
+        },
+        {
+          "chapter": 18,
+          "verse": 8,
+          "text": "The words of a talebearer [ADD]are[/ADD] as wounds, and they go down into the innermost parts of the belly.",
+          "sourceFootnoteCount": 3
+        },
+        {
+          "chapter": 18,
+          "verse": 9,
+          "text": "He also that is slothful in his work is brother to him that is a great waster."
+        },
+        {
+          "chapter": 18,
+          "verse": 10,
+          "text": "The name of the LORD [ADD]is[/ADD] a strong tower: the righteous runneth into it, and is safe.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 18,
+          "verse": 11,
+          "text": "The rich man’s wealth [ADD]is[/ADD] his strong city, and as an high wall in his own conceit."
+        },
+        {
+          "chapter": 18,
+          "verse": 12,
+          "text": "Before destruction the heart of man is haughty, and before honour [ADD]is[/ADD] humility."
+        },
+        {
+          "chapter": 18,
+          "verse": 13,
+          "text": "He that answereth a matter before he heareth [ADD]it[/ADD], it [ADD]is[/ADD] folly and shame unto him.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 18,
+          "verse": 14,
+          "text": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?"
+        },
+        {
+          "chapter": 18,
+          "verse": 15,
+          "text": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge."
+        },
+        {
+          "chapter": 18,
+          "verse": 16,
+          "text": "A man’s gift maketh room for him, and bringeth him before great men."
+        },
+        {
+          "chapter": 18,
+          "verse": 17,
+          "text": "[ADD]He that is[/ADD] first in his own cause [ADD]seemeth[/ADD] just; but his neighbour cometh and searcheth him."
+        },
+        {
+          "chapter": 18,
+          "verse": 18,
+          "text": "The lot causeth contentions to cease, and parteth between the mighty."
+        },
+        {
+          "chapter": 18,
+          "verse": 19,
+          "text": "A brother offended [ADD]is harder to be won[/ADD] than a strong city: and [ADD]their[/ADD] contentions [ADD]are[/ADD] like the bars of a castle."
+        },
+        {
+          "chapter": 18,
+          "verse": 20,
+          "text": "A man’s belly shall be satisfied with the fruit of his mouth; [ADD]and[/ADD] with the increase of his lips shall he be filled."
+        },
+        {
+          "chapter": 18,
+          "verse": 21,
+          "text": "Death and life [ADD]are[/ADD] in the power of the tongue: and they that love it shall eat the fruit thereof."
+        },
+        {
+          "chapter": 18,
+          "verse": 22,
+          "text": "[ADD]Whoso[/ADD] findeth a wife findeth a good [ADD]thing[/ADD], and obtaineth favour of the LORD."
+        },
+        {
+          "chapter": 18,
+          "verse": 23,
+          "text": "The poor useth intreaties; but the rich answereth roughly."
+        },
+        {
+          "chapter": 18,
+          "verse": 24,
+          "text": "A man [ADD]that hath[/ADD] friends must shew himself friendly: and there is a friend [ADD]that[/ADD] sticketh closer than a brother."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "chapter": 19,
+          "verse": 1,
+          "text": "Better [ADD]is[/ADD] the poor that walketh in his integrity, than [ADD]he that is[/ADD] perverse in his lips, and is a fool."
+        },
+        {
+          "chapter": 19,
+          "verse": 2,
+          "text": "Also, [ADD]that[/ADD] the soul [ADD]be[/ADD] without knowledge, [ADD]it is[/ADD] not good; and he that hasteth with [ADD]his[/ADD] feet sinneth."
+        },
+        {
+          "chapter": 19,
+          "verse": 3,
+          "text": "The foolishness of man perverteth his way: and his heart fretteth against the LORD."
+        },
+        {
+          "chapter": 19,
+          "verse": 4,
+          "text": "Wealth maketh many friends; but the poor is separated from his neighbour."
+        },
+        {
+          "chapter": 19,
+          "verse": 5,
+          "text": "A false witness shall not be unpunished, and [ADD]he that[/ADD] speaketh lies shall not escape.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 6,
+          "text": "Many will intreat the favour of the prince: and every man [ADD]is[/ADD] a friend to him that giveth gifts.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 7,
+          "text": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth [ADD]them with[/ADD] words, [ADD]yet[/ADD] they [ADD]are[/ADD] wanting [ADD]to him[/ADD]."
+        },
+        {
+          "chapter": 19,
+          "verse": 8,
+          "text": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 9,
+          "text": "A false witness shall not be unpunished, and [ADD]he that[/ADD] speaketh lies shall perish."
+        },
+        {
+          "chapter": 19,
+          "verse": 10,
+          "text": "Delight is not seemly for a fool; much less for a servant to have rule over princes."
+        },
+        {
+          "chapter": 19,
+          "verse": 11,
+          "text": "The discretion of a man deferreth his anger; and [ADD]it is[/ADD] his glory to pass over a transgression.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 12,
+          "text": "The king’s wrath [ADD]is[/ADD] as the roaring of a lion; but his favour [ADD]is[/ADD] as dew upon the grass."
+        },
+        {
+          "chapter": 19,
+          "verse": 13,
+          "text": "A foolish son [ADD]is[/ADD] the calamity of his father: and the contentions of a wife [ADD]are[/ADD] a continual dropping."
+        },
+        {
+          "chapter": 19,
+          "verse": 14,
+          "text": "House and riches [ADD]are[/ADD] the inheritance of fathers: and a prudent wife [ADD]is[/ADD] from the LORD."
+        },
+        {
+          "chapter": 19,
+          "verse": 15,
+          "text": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger."
+        },
+        {
+          "chapter": 19,
+          "verse": 16,
+          "text": "He that keepeth the commandment keepeth his own soul; [ADD]but[/ADD] he that despiseth his ways shall die."
+        },
+        {
+          "chapter": 19,
+          "verse": 17,
+          "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 18,
+          "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 19,
+          "text": "A man of great wrath shall suffer punishment: for if thou deliver [ADD]him[/ADD], yet thou must do it again.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 20,
+          "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end."
+        },
+        {
+          "chapter": 19,
+          "verse": 21,
+          "text": "[ADD]There are[/ADD] many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand."
+        },
+        {
+          "chapter": 19,
+          "verse": 22,
+          "text": "The desire of a man [ADD]is[/ADD] his kindness: and a poor man [ADD]is[/ADD] better than a liar."
+        },
+        {
+          "chapter": 19,
+          "verse": 23,
+          "text": "The fear of the LORD [ADD]tendeth[/ADD] to life: and [ADD]he that hath it[/ADD] shall abide satisfied; he shall not be visited with evil."
+        },
+        {
+          "chapter": 19,
+          "verse": 24,
+          "text": "A slothful [ADD]man[/ADD] hideth his hand in [ADD]his[/ADD] bosom, and will not so much as bring it to his mouth again."
+        },
+        {
+          "chapter": 19,
+          "verse": 25,
+          "text": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, [ADD]and[/ADD] he will understand knowledge.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 26,
+          "text": "He that wasteth [ADD]his[/ADD] father, [ADD]and[/ADD] chaseth away [ADD]his[/ADD] mother, [ADD]is[/ADD] a son that causeth shame, and bringeth reproach."
+        },
+        {
+          "chapter": 19,
+          "verse": 27,
+          "text": "Cease, my son, to hear the instruction [ADD]that causeth[/ADD] to err from the words of knowledge."
+        },
+        {
+          "chapter": 19,
+          "verse": 28,
+          "text": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 19,
+          "verse": 29,
+          "text": "Judgments are prepared for scorners, and stripes for the back of fools."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "chapter": 20,
+          "verse": 1,
+          "text": "Wine [ADD]is[/ADD] a mocker, strong drink [ADD]is[/ADD] raging: and whosoever is deceived thereby is not wise."
+        },
+        {
+          "chapter": 20,
+          "verse": 2,
+          "text": "The fear of a king [ADD]is[/ADD] as the roaring of a lion: [ADD]whoso[/ADD] provoketh him to anger sinneth [ADD]against[/ADD] his own soul."
+        },
+        {
+          "chapter": 20,
+          "verse": 3,
+          "text": "[ADD]It is[/ADD] an honour for a man to cease from strife: but every fool will be meddling."
+        },
+        {
+          "chapter": 20,
+          "verse": 4,
+          "text": "The sluggard will not plow by reason of the cold; [ADD]therefore[/ADD] shall he beg in harvest, and [ADD]have[/ADD] nothing.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 5,
+          "text": "Counsel in the heart of man [ADD]is like[/ADD] deep water; but a man of understanding will draw it out."
+        },
+        {
+          "chapter": 20,
+          "verse": 6,
+          "text": "Most men will proclaim every one his own goodness: but a faithful man who can find?",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 7,
+          "text": "The just [ADD]man[/ADD] walketh in his integrity: his children [ADD]are[/ADD] blessed after him."
+        },
+        {
+          "chapter": 20,
+          "verse": 8,
+          "text": "A king that sitteth in the throne of judgment scattereth away all evil with his eyes."
+        },
+        {
+          "chapter": 20,
+          "verse": 9,
+          "text": "Who can say, I have made my heart clean, I am pure from my sin?"
+        },
+        {
+          "chapter": 20,
+          "verse": 10,
+          "text": "Divers weights, [ADD]and[/ADD] divers measures, both of them [ADD]are[/ADD] alike abomination to the LORD.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 20,
+          "verse": 11,
+          "text": "Even a child is known by his doings, whether his work [ADD]be[/ADD] pure, and whether [ADD]it be[/ADD] right."
+        },
+        {
+          "chapter": 20,
+          "verse": 12,
+          "text": "The hearing ear, and the seeing eye, the LORD hath made even both of them."
+        },
+        {
+          "chapter": 20,
+          "verse": 13,
+          "text": "Love not sleep, lest thou come to poverty; open thine eyes, [ADD]and[/ADD] thou shalt be satisfied with bread."
+        },
+        {
+          "chapter": 20,
+          "verse": 14,
+          "text": "[ADD]It is[/ADD] naught, [ADD]it is[/ADD] naught, saith the buyer: but when he is gone his way, then he boasteth."
+        },
+        {
+          "chapter": 20,
+          "verse": 15,
+          "text": "There is gold, and a multitude of rubies: but the lips of knowledge [ADD]are[/ADD] a precious jewel."
+        },
+        {
+          "chapter": 20,
+          "verse": 16,
+          "text": "Take his garment that is surety [ADD]for[/ADD] a stranger: and take a pledge of him for a strange woman."
+        },
+        {
+          "chapter": 20,
+          "verse": 17,
+          "text": "Bread of deceit [ADD]is[/ADD] sweet to a man; but afterwards his mouth shall be filled with gravel.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 18,
+          "text": "[ADD]Every[/ADD] purpose is established by counsel: and with good advice make war."
+        },
+        {
+          "chapter": 20,
+          "verse": 19,
+          "text": "He that goeth about [ADD]as[/ADD] a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 20,
+          "text": "Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 21,
+          "text": "An inheritance [ADD]may be[/ADD] gotten hastily at the beginning; but the end thereof shall not be blessed."
+        },
+        {
+          "chapter": 20,
+          "verse": 22,
+          "text": "Say not thou, I will recompense evil; [ADD]but[/ADD] wait on the LORD, and he shall save thee."
+        },
+        {
+          "chapter": 20,
+          "verse": 23,
+          "text": "Divers weights [ADD]are[/ADD] an abomination unto the LORD; and a false balance [ADD]is[/ADD] not good.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 24,
+          "text": "Man’s goings [ADD]are[/ADD] of the LORD; how can a man then understand his own way?"
+        },
+        {
+          "chapter": 20,
+          "verse": 25,
+          "text": "[ADD]It is[/ADD] a snare to the man [ADD]who[/ADD] devoureth [ADD]that which is[/ADD] holy, and after vows to make enquiry."
+        },
+        {
+          "chapter": 20,
+          "verse": 26,
+          "text": "A wise king scattereth the wicked, and bringeth the wheel over them."
+        },
+        {
+          "chapter": 20,
+          "verse": 27,
+          "text": "The spirit of man [ADD]is[/ADD] the candle of the LORD, searching all the inward parts of the belly.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 20,
+          "verse": 28,
+          "text": "Mercy and truth preserve the king: and his throne is upholden by mercy."
+        },
+        {
+          "chapter": 20,
+          "verse": 29,
+          "text": "The glory of young men [ADD]is[/ADD] their strength: and the beauty of old men [ADD]is[/ADD] the gray head."
+        },
+        {
+          "chapter": 20,
+          "verse": 30,
+          "text": "The blueness of a wound cleanseth away evil: so [ADD]do[/ADD] stripes the inward parts of the belly.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "chapter": 21,
+          "verse": 1,
+          "text": "The king’s heart [ADD]is[/ADD] in the hand of the LORD, [ADD]as[/ADD] the rivers of water: he turneth it whithersoever he will."
+        },
+        {
+          "chapter": 21,
+          "verse": 2,
+          "text": "Every way of a man [ADD]is[/ADD] right in his own eyes: but the LORD pondereth the hearts."
+        },
+        {
+          "chapter": 21,
+          "verse": 3,
+          "text": "To do justice and judgment [ADD]is[/ADD] more acceptable to the LORD than sacrifice."
+        },
+        {
+          "chapter": 21,
+          "verse": 4,
+          "text": "An high look, and a proud heart, [ADD]and[/ADD] the plowing of the wicked, [ADD]is[/ADD] sin.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 21,
+          "verse": 5,
+          "text": "The thoughts of the diligent [ADD]tend[/ADD] only to plenteousness; but of every one [ADD]that is[/ADD] hasty only to want."
+        },
+        {
+          "chapter": 21,
+          "verse": 6,
+          "text": "The getting of treasures by a lying tongue [ADD]is[/ADD] a vanity tossed to and fro of them that seek death."
+        },
+        {
+          "chapter": 21,
+          "verse": 7,
+          "text": "The robbery of the wicked shall destroy them; because they refuse to do judgment.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 8,
+          "text": "The way of man [ADD]is[/ADD] froward and strange: but [ADD]as for[/ADD] the pure, his work [ADD]is[/ADD] right."
+        },
+        {
+          "chapter": 21,
+          "verse": 9,
+          "text": "[ADD]It is[/ADD] better to dwell in a corner of the housetop, than with a brawling woman in a wide house.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 21,
+          "verse": 10,
+          "text": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 11,
+          "text": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge."
+        },
+        {
+          "chapter": 21,
+          "verse": 12,
+          "text": "The righteous [ADD]man[/ADD] wisely considereth the house of the wicked: [ADD]but God[/ADD] overthroweth the wicked for [ADD]their[/ADD] wickedness."
+        },
+        {
+          "chapter": 21,
+          "verse": 13,
+          "text": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard."
+        },
+        {
+          "chapter": 21,
+          "verse": 14,
+          "text": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath."
+        },
+        {
+          "chapter": 21,
+          "verse": 15,
+          "text": "[ADD]It is[/ADD] joy to the just to do judgment: but destruction [ADD]shall be[/ADD] to the workers of iniquity."
+        },
+        {
+          "chapter": 21,
+          "verse": 16,
+          "text": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead."
+        },
+        {
+          "chapter": 21,
+          "verse": 17,
+          "text": "He that loveth pleasure [ADD]shall be[/ADD] a poor man: he that loveth wine and oil shall not be rich.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 18,
+          "text": "The wicked [ADD]shall be[/ADD] a ransom for the righteous, and the transgressor for the upright."
+        },
+        {
+          "chapter": 21,
+          "verse": 19,
+          "text": "[ADD]It is[/ADD] better to dwell in the wilderness, than with a contentious and an angry woman.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 20,
+          "text": "[ADD]There is[/ADD] treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up."
+        },
+        {
+          "chapter": 21,
+          "verse": 21,
+          "text": "He that followeth after righteousness and mercy findeth life, righteousness, and honour."
+        },
+        {
+          "chapter": 21,
+          "verse": 22,
+          "text": "A wise [ADD]man[/ADD] scaleth the city of the mighty, and casteth down the strength of the confidence thereof."
+        },
+        {
+          "chapter": 21,
+          "verse": 23,
+          "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles."
+        },
+        {
+          "chapter": 21,
+          "verse": 24,
+          "text": "Proud [ADD]and[/ADD] haughty scorner [ADD]is[/ADD] his name, who dealeth in proud wrath.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 25,
+          "text": "The desire of the slothful killeth him; for his hands refuse to labour."
+        },
+        {
+          "chapter": 21,
+          "verse": 26,
+          "text": "He coveteth greedily all the day long: but the righteous giveth and spareth not."
+        },
+        {
+          "chapter": 21,
+          "verse": 27,
+          "text": "The sacrifice of the wicked [ADD]is[/ADD] abomination: how much more, [ADD]when[/ADD] he bringeth it with a wicked mind?",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 28,
+          "text": "A false witness shall perish: but the man that heareth speaketh constantly.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 29,
+          "text": "A wicked man hardeneth his face: but [ADD]as for[/ADD] the upright, he directeth his way.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 21,
+          "verse": 30,
+          "text": "[ADD]There is[/ADD] no wisdom nor understanding nor counsel against the LORD."
+        },
+        {
+          "chapter": 21,
+          "verse": 31,
+          "text": "The horse [ADD]is[/ADD] prepared against the day of battle: but safety [ADD]is[/ADD] of the LORD.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "chapter": 22,
+          "verse": 1,
+          "text": "A [ADD]good[/ADD] name [ADD]is[/ADD] rather to be chosen than great riches, [ADD]and[/ADD] loving favour rather than silver and gold.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 2,
+          "text": "The rich and poor meet together: the LORD [ADD]is[/ADD] the maker of them all."
+        },
+        {
+          "chapter": 22,
+          "verse": 3,
+          "text": "A prudent [ADD]man[/ADD] foreseeth the evil, and hideth himself: but the simple pass on, and are punished."
+        },
+        {
+          "chapter": 22,
+          "verse": 4,
+          "text": "By humility [ADD]and[/ADD] the fear of the LORD [ADD]are[/ADD] riches, and honour, and life.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 5,
+          "text": "Thorns [ADD]and[/ADD] snares [ADD]are[/ADD] in the way of the froward: he that doth keep his soul shall be far from them."
+        },
+        {
+          "chapter": 22,
+          "verse": 6,
+          "text": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 22,
+          "verse": 7,
+          "text": "The rich ruleth over the poor, and the borrower [ADD]is[/ADD] servant to the lender.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 8,
+          "text": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 9,
+          "text": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 10,
+          "text": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease."
+        },
+        {
+          "chapter": 22,
+          "verse": 11,
+          "text": "He that loveth pureness of heart, [ADD]for[/ADD] the grace of his lips the king [ADD]shall be[/ADD] his friend.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 12,
+          "text": "The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 13,
+          "text": "The slothful [ADD]man[/ADD] saith, [ADD]There is[/ADD] a lion without, I shall be slain in the streets."
+        },
+        {
+          "chapter": 22,
+          "verse": 14,
+          "text": "The mouth of strange women [ADD]is[/ADD] a deep pit: he that is abhorred of the LORD shall fall therein."
+        },
+        {
+          "chapter": 22,
+          "verse": 15,
+          "text": "Foolishness [ADD]is[/ADD] bound in the heart of a child; [ADD]but[/ADD] the rod of correction shall drive it far from him."
+        },
+        {
+          "chapter": 22,
+          "verse": 16,
+          "text": "He that oppresseth the poor to increase his [ADD]riches, and[/ADD] he that giveth to the rich, [ADD]shall[/ADD] surely [ADD]come[/ADD] to want."
+        },
+        {
+          "chapter": 22,
+          "verse": 17,
+          "text": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge."
+        },
+        {
+          "chapter": 22,
+          "verse": 18,
+          "text": "For [ADD]it is[/ADD] a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 19,
+          "text": "That thy trust may be in the LORD, I have made known to thee this day, even to thee.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 20,
+          "text": "Have not I written to thee excellent things in counsels and knowledge,"
+        },
+        {
+          "chapter": 22,
+          "verse": 21,
+          "text": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 22,
+          "text": "Rob not the poor, because he [ADD]is[/ADD] poor: neither oppress the afflicted in the gate:"
+        },
+        {
+          "chapter": 22,
+          "verse": 23,
+          "text": "For the LORD will plead their cause, and spoil the soul of those that spoiled them."
+        },
+        {
+          "chapter": 22,
+          "verse": 24,
+          "text": "Make no friendship with an angry man; and with a furious man thou shalt not go:"
+        },
+        {
+          "chapter": 22,
+          "verse": 25,
+          "text": "Lest thou learn his ways, and get a snare to thy soul."
+        },
+        {
+          "chapter": 22,
+          "verse": 26,
+          "text": "Be not thou [ADD]one[/ADD] of them that strike hands, [ADD]or[/ADD] of them that are sureties for debts."
+        },
+        {
+          "chapter": 22,
+          "verse": 27,
+          "text": "If thou hast nothing to pay, why should he take away thy bed from under thee?"
+        },
+        {
+          "chapter": 22,
+          "verse": 28,
+          "text": "Remove not the ancient landmark, which thy fathers have set.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 22,
+          "verse": 29,
+          "text": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean [ADD]men[/ADD].",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "chapter": 23,
+          "verse": 1,
+          "text": "When thou sittest to eat with a ruler, consider diligently what [ADD]is[/ADD] before thee:"
+        },
+        {
+          "chapter": 23,
+          "verse": 2,
+          "text": "And put a knife to thy throat, if thou [ADD]be[/ADD] a man given to appetite."
+        },
+        {
+          "chapter": 23,
+          "verse": 3,
+          "text": "Be not desirous of his dainties: for they [ADD]are[/ADD] deceitful meat."
+        },
+        {
+          "chapter": 23,
+          "verse": 4,
+          "text": "Labour not to be rich: cease from thine own wisdom."
+        },
+        {
+          "chapter": 23,
+          "verse": 5,
+          "text": "Wilt thou set thine eyes upon that which is not? for [ADD]riches[/ADD] certainly make themselves wings; they fly away as an eagle toward heaven.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 6,
+          "text": "Eat thou not the bread of [ADD]him that hath[/ADD] an evil eye, neither desire thou his dainty meats:"
+        },
+        {
+          "chapter": 23,
+          "verse": 7,
+          "text": "For as he thinketh in his heart, so [ADD]is[/ADD] he: Eat and drink, saith he to thee; but his heart [ADD]is[/ADD] not with thee."
+        },
+        {
+          "chapter": 23,
+          "verse": 8,
+          "text": "The morsel [ADD]which[/ADD] thou hast eaten shalt thou vomit up, and lose thy sweet words."
+        },
+        {
+          "chapter": 23,
+          "verse": 9,
+          "text": "Speak not in the ears of a fool: for he will despise the wisdom of thy words."
+        },
+        {
+          "chapter": 23,
+          "verse": 10,
+          "text": "Remove not the old landmark; and enter not into the fields of the fatherless:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 11,
+          "text": "For their redeemer [ADD]is[/ADD] mighty; he shall plead their cause with thee."
+        },
+        {
+          "chapter": 23,
+          "verse": 12,
+          "text": "Apply thine heart unto instruction, and thine ears to the words of knowledge."
+        },
+        {
+          "chapter": 23,
+          "verse": 13,
+          "text": "Withhold not correction from the child: for [ADD]if[/ADD] thou beatest him with the rod, he shall not die."
+        },
+        {
+          "chapter": 23,
+          "verse": 14,
+          "text": "Thou shalt beat him with the rod, and shalt deliver his soul from hell."
+        },
+        {
+          "chapter": 23,
+          "verse": 15,
+          "text": "My son, if thine heart be wise, my heart shall rejoice, even mine.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 16,
+          "text": "Yea, my reins shall rejoice, when thy lips speak right things."
+        },
+        {
+          "chapter": 23,
+          "verse": 17,
+          "text": "Let not thine heart envy sinners: but [ADD]be thou[/ADD] in the fear of the LORD all the day long."
+        },
+        {
+          "chapter": 23,
+          "verse": 18,
+          "text": "For surely there is an end; and thine expectation shall not be cut off.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 19,
+          "text": "Hear thou, my son, and be wise, and guide thine heart in the way."
+        },
+        {
+          "chapter": 23,
+          "verse": 20,
+          "text": "Be not among winebibbers; among riotous eaters of flesh:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 21,
+          "text": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe [ADD]a man[/ADD] with rags."
+        },
+        {
+          "chapter": 23,
+          "verse": 22,
+          "text": "Hearken unto thy father that begat thee, and despise not thy mother when she is old."
+        },
+        {
+          "chapter": 23,
+          "verse": 23,
+          "text": "Buy the truth, and sell [ADD]it[/ADD] not; [ADD]also[/ADD] wisdom, and instruction, and understanding."
+        },
+        {
+          "chapter": 23,
+          "verse": 24,
+          "text": "The father of the righteous shall greatly rejoice: and he that begetteth a wise [ADD]child[/ADD] shall have joy of him."
+        },
+        {
+          "chapter": 23,
+          "verse": 25,
+          "text": "Thy father and thy mother shall be glad, and she that bare thee shall rejoice."
+        },
+        {
+          "chapter": 23,
+          "verse": 26,
+          "text": "My son, give me thine heart, and let thine eyes observe my ways."
+        },
+        {
+          "chapter": 23,
+          "verse": 27,
+          "text": "For a whore [ADD]is[/ADD] a deep ditch; and a strange woman [ADD]is[/ADD] a narrow pit."
+        },
+        {
+          "chapter": 23,
+          "verse": 28,
+          "text": "She also lieth in wait as [ADD]for[/ADD] a prey, and increaseth the transgressors among men.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 29,
+          "text": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?"
+        },
+        {
+          "chapter": 23,
+          "verse": 30,
+          "text": "They that tarry long at the wine; they that go to seek mixed wine."
+        },
+        {
+          "chapter": 23,
+          "verse": 31,
+          "text": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, [ADD]when[/ADD] it moveth itself aright."
+        },
+        {
+          "chapter": 23,
+          "verse": 32,
+          "text": "At the last it biteth like a serpent, and stingeth like an adder.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 33,
+          "text": "Thine eyes shall behold strange women, and thine heart shall utter perverse things."
+        },
+        {
+          "chapter": 23,
+          "verse": 34,
+          "text": "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 23,
+          "verse": 35,
+          "text": "They have stricken me, [ADD]shalt thou say, and[/ADD] I was not sick; they have beaten me, [ADD]and[/ADD] I felt [ADD]it[/ADD] not: when shall I awake? I will seek it yet again.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": 1,
+          "text": "Be not thou envious against evil men, neither desire to be with them."
+        },
+        {
+          "chapter": 24,
+          "verse": 2,
+          "text": "For their heart studieth destruction, and their lips talk of mischief."
+        },
+        {
+          "chapter": 24,
+          "verse": 3,
+          "text": "Through wisdom is an house builded; and by understanding it is established:"
+        },
+        {
+          "chapter": 24,
+          "verse": 4,
+          "text": "And by knowledge shall the chambers be filled with all precious and pleasant riches."
+        },
+        {
+          "chapter": 24,
+          "verse": 5,
+          "text": "A wise man [ADD]is[/ADD] strong; yea, a man of knowledge increaseth strength.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 24,
+          "verse": 6,
+          "text": "For by wise counsel thou shalt make thy war: and in multitude of counsellors [ADD]there is[/ADD] safety."
+        },
+        {
+          "chapter": 24,
+          "verse": 7,
+          "text": "Wisdom [ADD]is[/ADD] too high for a fool: he openeth not his mouth in the gate."
+        },
+        {
+          "chapter": 24,
+          "verse": 8,
+          "text": "He that deviseth to do evil shall be called a mischievous person."
+        },
+        {
+          "chapter": 24,
+          "verse": 9,
+          "text": "The thought of foolishness [ADD]is[/ADD] sin: and the scorner [ADD]is[/ADD] an abomination to men."
+        },
+        {
+          "chapter": 24,
+          "verse": 10,
+          "text": "[ADD]If[/ADD] thou faint in the day of adversity, thy strength [ADD]is[/ADD] small.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 11,
+          "text": "If thou forbear to deliver [ADD]them that are[/ADD] drawn unto death, and [ADD]those that are[/ADD] ready to be slain;"
+        },
+        {
+          "chapter": 24,
+          "verse": 12,
+          "text": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider [ADD]it[/ADD]? and he that keepeth thy soul, doth [ADD]not[/ADD] he know [ADD]it[/ADD]? and shall [ADD]not[/ADD] he render to [ADD]every[/ADD] man according to his works?"
+        },
+        {
+          "chapter": 24,
+          "verse": 13,
+          "text": "My son, eat thou honey, because [ADD]it is[/ADD] good; and the honeycomb, [ADD]which is[/ADD] sweet to thy taste:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 14,
+          "text": "So [ADD]shall[/ADD] the knowledge of wisdom [ADD]be[/ADD] unto thy soul: when thou hast found [ADD]it[/ADD], then there shall be a reward, and thy expectation shall not be cut off."
+        },
+        {
+          "chapter": 24,
+          "verse": 15,
+          "text": "Lay not wait, O wicked [ADD]man[/ADD], against the dwelling of the righteous; spoil not his resting place:"
+        },
+        {
+          "chapter": 24,
+          "verse": 16,
+          "text": "For a just [ADD]man[/ADD] falleth seven times, and riseth up again: but the wicked shall fall into mischief."
+        },
+        {
+          "chapter": 24,
+          "verse": 17,
+          "text": "Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:"
+        },
+        {
+          "chapter": 24,
+          "verse": 18,
+          "text": "Lest the LORD see [ADD]it[/ADD], and it displease him, and he turn away his wrath from him.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 19,
+          "text": "Fret not thyself because of evil [ADD]men[/ADD], neither be thou envious at the wicked;",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 20,
+          "text": "For there shall be no reward to the evil [ADD]man;[/ADD] the candle of the wicked shall be put out.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 21,
+          "text": "My son, fear thou the LORD and the king: [ADD]and[/ADD] meddle not with them that are given to change:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 22,
+          "text": "For their calamity shall rise suddenly; and who knoweth the ruin of them both?"
+        },
+        {
+          "chapter": 24,
+          "verse": 23,
+          "text": "These [ADD]things[/ADD] also [ADD]belong[/ADD] to the wise. [ADD]It is[/ADD] not good to have respect of persons in judgment."
+        },
+        {
+          "chapter": 24,
+          "verse": 24,
+          "text": "He that saith unto the wicked, Thou [ADD]art[/ADD] righteous; him shall the people curse, nations shall abhor him:"
+        },
+        {
+          "chapter": 24,
+          "verse": 25,
+          "text": "But to them that rebuke [ADD]him[/ADD] shall be delight, and a good blessing shall come upon them.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 26,
+          "text": "[ADD]Every man[/ADD] shall kiss [ADD]his[/ADD] lips that giveth a right answer.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 27,
+          "text": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house."
+        },
+        {
+          "chapter": 24,
+          "verse": 28,
+          "text": "Be not a witness against thy neighbour without cause; and deceive [ADD]not[/ADD] with thy lips."
+        },
+        {
+          "chapter": 24,
+          "verse": 29,
+          "text": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work."
+        },
+        {
+          "chapter": 24,
+          "verse": 30,
+          "text": "I went by the field of the slothful, and by the vineyard of the man void of understanding;"
+        },
+        {
+          "chapter": 24,
+          "verse": 31,
+          "text": "And, lo, it was all grown over with thorns, [ADD]and[/ADD] nettles had covered the face thereof, and the stone wall thereof was broken down."
+        },
+        {
+          "chapter": 24,
+          "verse": 32,
+          "text": "Then I saw, [ADD]and[/ADD] considered [ADD]it[/ADD] well: I looked upon [ADD]it, and[/ADD] received instruction.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 24,
+          "verse": 33,
+          "text": "[ADD]Yet[/ADD] a little sleep, a little slumber, a little folding of the hands to sleep:"
+        },
+        {
+          "chapter": 24,
+          "verse": 34,
+          "text": "So shall thy poverty come [ADD]as[/ADD] one that travelleth; and thy want as an armed man.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": 1,
+          "text": "These [ADD]are[/ADD] also proverbs of Solomon, which the men of Hezekiah king of Judah copied out."
+        },
+        {
+          "chapter": 25,
+          "verse": 2,
+          "text": "[ADD]It is[/ADD] the glory of God to conceal a thing: but the honour of kings [ADD]is[/ADD] to search out a matter."
+        },
+        {
+          "chapter": 25,
+          "verse": 3,
+          "text": "The heaven for height, and the earth for depth, and the heart of kings [ADD]is[/ADD] unsearchable.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 25,
+          "verse": 4,
+          "text": "Take away the dross from the silver, and there shall come forth a vessel for the finer."
+        },
+        {
+          "chapter": 25,
+          "verse": 5,
+          "text": "Take away the wicked [ADD]from[/ADD] before the king, and his throne shall be established in righteousness."
+        },
+        {
+          "chapter": 25,
+          "verse": 6,
+          "text": "Put not forth thyself in the presence of the king, and stand not in the place of great [ADD]men:[/ADD]",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 25,
+          "verse": 7,
+          "text": "For better [ADD]it is[/ADD] that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+        },
+        {
+          "chapter": 25,
+          "verse": 8,
+          "text": "Go not forth hastily to strive, lest [ADD]thou know not[/ADD] what to do in the end thereof, when thy neighbour hath put thee to shame."
+        },
+        {
+          "chapter": 25,
+          "verse": 9,
+          "text": "Debate thy cause with thy neighbour [ADD]himself;[/ADD] and discover not a secret to another:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 25,
+          "verse": 10,
+          "text": "Lest he that heareth [ADD]it[/ADD] put thee to shame, and thine infamy turn not away."
+        },
+        {
+          "chapter": 25,
+          "verse": 11,
+          "text": "A word fitly spoken [ADD]is like[/ADD] apples of gold in pictures of silver.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 25,
+          "verse": 12,
+          "text": "[ADD]As[/ADD] an earring of gold, and an ornament of fine gold, [ADD]so is[/ADD] a wise reprover upon an obedient ear."
+        },
+        {
+          "chapter": 25,
+          "verse": 13,
+          "text": "As the cold of snow in the time of harvest, [ADD]so is[/ADD] a faithful messenger to them that send him: for he refresheth the soul of his masters."
+        },
+        {
+          "chapter": 25,
+          "verse": 14,
+          "text": "Whoso boasteth himself of a false gift [ADD]is like[/ADD] clouds and wind without rain.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 25,
+          "verse": 15,
+          "text": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
+        },
+        {
+          "chapter": 25,
+          "verse": 16,
+          "text": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it."
+        },
+        {
+          "chapter": 25,
+          "verse": 17,
+          "text": "Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and [ADD]so[/ADD] hate thee.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 25,
+          "verse": 18,
+          "text": "A man that beareth false witness against his neighbour [ADD]is[/ADD] a maul, and a sword, and a sharp arrow."
+        },
+        {
+          "chapter": 25,
+          "verse": 19,
+          "text": "Confidence in an unfaithful man in time of trouble [ADD]is like[/ADD] a broken tooth, and a foot out of joint."
+        },
+        {
+          "chapter": 25,
+          "verse": 20,
+          "text": "[ADD]As[/ADD] he that taketh away a garment in cold weather, [ADD]and as[/ADD] vinegar upon nitre, so [ADD]is[/ADD] he that singeth songs to an heavy heart."
+        },
+        {
+          "chapter": 25,
+          "verse": 21,
+          "text": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:"
+        },
+        {
+          "chapter": 25,
+          "verse": 22,
+          "text": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee."
+        },
+        {
+          "chapter": 25,
+          "verse": 23,
+          "text": "The north wind driveth away rain: so [ADD]doth[/ADD] an angry countenance a backbiting tongue.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 25,
+          "verse": 24,
+          "text": "[ADD]It is[/ADD] better to dwell in the corner of the housetop, than with a brawling woman and in a wide house."
+        },
+        {
+          "chapter": 25,
+          "verse": 25,
+          "text": "[ADD]As[/ADD] cold waters to a thirsty soul, so [ADD]is[/ADD] good news from a far country."
+        },
+        {
+          "chapter": 25,
+          "verse": 26,
+          "text": "A righteous man falling down before the wicked [ADD]is as[/ADD] a troubled fountain, and a corrupt spring."
+        },
+        {
+          "chapter": 25,
+          "verse": 27,
+          "text": "[ADD]It is[/ADD] not good to eat much honey: so [ADD]for men[/ADD] to search their own glory [ADD]is not[/ADD] glory."
+        },
+        {
+          "chapter": 25,
+          "verse": 28,
+          "text": "He that [ADD]hath[/ADD] no rule over his own spirit [ADD]is like[/ADD] a city [ADD]that is[/ADD] broken down, [ADD]and[/ADD] without walls."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "verses": [
+        {
+          "chapter": 26,
+          "verse": 1,
+          "text": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool."
+        },
+        {
+          "chapter": 26,
+          "verse": 2,
+          "text": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come."
+        },
+        {
+          "chapter": 26,
+          "verse": 3,
+          "text": "A whip for the horse, a bridle for the ass, and a rod for the fool’s back."
+        },
+        {
+          "chapter": 26,
+          "verse": 4,
+          "text": "Answer not a fool according to his folly, lest thou also be like unto him."
+        },
+        {
+          "chapter": 26,
+          "verse": 5,
+          "text": "Answer a fool according to his folly, lest he be wise in his own conceit.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 6,
+          "text": "He that sendeth a message by the hand of a fool cutteth off the feet, [ADD]and[/ADD] drinketh damage.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 7,
+          "text": "The legs of the lame are not equal: so [ADD]is[/ADD] a parable in the mouth of fools.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 8,
+          "text": "As he that bindeth a stone in a sling, so [ADD]is[/ADD] he that giveth honour to a fool.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 9,
+          "text": "[ADD]As[/ADD] a thorn goeth up into the hand of a drunkard, so [ADD]is[/ADD] a parable in the mouth of fools."
+        },
+        {
+          "chapter": 26,
+          "verse": 10,
+          "text": "The great [ADD]God[/ADD] that formed all [ADD]things[/ADD] both rewardeth the fool, and rewardeth transgressors.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 11,
+          "text": "As a dog returneth to his vomit, [ADD]so[/ADD] a fool returneth to his folly.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 12,
+          "text": "Seest thou a man wise in his own conceit? [ADD]there is[/ADD] more hope of a fool than of him."
+        },
+        {
+          "chapter": 26,
+          "verse": 13,
+          "text": "The slothful [ADD]man[/ADD] saith, [ADD]There is[/ADD] a lion in the way; a lion [ADD]is[/ADD] in the streets."
+        },
+        {
+          "chapter": 26,
+          "verse": 14,
+          "text": "[ADD]As[/ADD] the door turneth upon his hinges, so [ADD]doth[/ADD] the slothful upon his bed."
+        },
+        {
+          "chapter": 26,
+          "verse": 15,
+          "text": "The slothful hideth his hand in [ADD]his[/ADD] bosom; it grieveth him to bring it again to his mouth.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 16,
+          "text": "The sluggard [ADD]is[/ADD] wiser in his own conceit than seven men that can render a reason."
+        },
+        {
+          "chapter": 26,
+          "verse": 17,
+          "text": "He that passeth by, [ADD]and[/ADD] meddleth with strife [ADD]belonging[/ADD] not to him, [ADD]is like[/ADD] one that taketh a dog by the ears.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 18,
+          "text": "As a mad [ADD]man[/ADD] who casteth firebrands, arrows, and death,",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 19,
+          "text": "So [ADD]is[/ADD] the man [ADD]that[/ADD] deceiveth his neighbour, and saith, Am not I in sport?"
+        },
+        {
+          "chapter": 26,
+          "verse": 20,
+          "text": "Where no wood is, [ADD]there[/ADD] the fire goeth out: so where [ADD]there is[/ADD] no talebearer, the strife ceaseth.",
+          "sourceFootnoteCount": 3
+        },
+        {
+          "chapter": 26,
+          "verse": 21,
+          "text": "[ADD]As[/ADD] coals [ADD]are[/ADD] to burning coals, and wood to fire; so [ADD]is[/ADD] a contentious man to kindle strife."
+        },
+        {
+          "chapter": 26,
+          "verse": 22,
+          "text": "The words of a talebearer [ADD]are[/ADD] as wounds, and they go down into the innermost parts of the belly.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 23,
+          "text": "Burning lips and a wicked heart [ADD]are like[/ADD] a potsherd covered with silver dross."
+        },
+        {
+          "chapter": 26,
+          "verse": 24,
+          "text": "He that hateth dissembleth with his lips, and layeth up deceit within him;",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 25,
+          "text": "When he speaketh fair, believe him not: for [ADD]there are[/ADD] seven abominations in his heart.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 26,
+          "text": "[ADD]Whose[/ADD] hatred is covered by deceit, his wickedness shall be shewed before the [ADD]whole[/ADD] congregation.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 26,
+          "verse": 27,
+          "text": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him."
+        },
+        {
+          "chapter": 26,
+          "verse": 28,
+          "text": "A lying tongue hateth [ADD]those that are[/ADD] afflicted by it; and a flattering mouth worketh ruin."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "verses": [
+        {
+          "chapter": 27,
+          "verse": 1,
+          "text": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 27,
+          "verse": 2,
+          "text": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
+        },
+        {
+          "chapter": 27,
+          "verse": 3,
+          "text": "A stone [ADD]is[/ADD] heavy, and the sand weighty; but a fool’s wrath [ADD]is[/ADD] heavier than them both.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 27,
+          "verse": 4,
+          "text": "Wrath [ADD]is[/ADD] cruel, and anger [ADD]is[/ADD] outrageous; but who [ADD]is[/ADD] able to stand before envy?",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 27,
+          "verse": 5,
+          "text": "Open rebuke [ADD]is[/ADD] better than secret love."
+        },
+        {
+          "chapter": 27,
+          "verse": 6,
+          "text": "Faithful [ADD]are[/ADD] the wounds of a friend; but the kisses of an enemy [ADD]are[/ADD] deceitful.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 27,
+          "verse": 7,
+          "text": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 27,
+          "verse": 8,
+          "text": "As a bird that wandereth from her nest, so [ADD]is[/ADD] a man that wandereth from his place."
+        },
+        {
+          "chapter": 27,
+          "verse": 9,
+          "text": "Ointment and perfume rejoice the heart: so [ADD]doth[/ADD] the sweetness of a man’s friend by hearty counsel.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 27,
+          "verse": 10,
+          "text": "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: [ADD]for[/ADD] better [ADD]is[/ADD] a neighbour [ADD]that is[/ADD] near than a brother far off."
+        },
+        {
+          "chapter": 27,
+          "verse": 11,
+          "text": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me."
+        },
+        {
+          "chapter": 27,
+          "verse": 12,
+          "text": "A prudent [ADD]man[/ADD] foreseeth the evil, [ADD]and[/ADD] hideth himself; [ADD]but[/ADD] the simple pass on, [ADD]and[/ADD] are punished."
+        },
+        {
+          "chapter": 27,
+          "verse": 13,
+          "text": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
+        },
+        {
+          "chapter": 27,
+          "verse": 14,
+          "text": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
+        },
+        {
+          "chapter": 27,
+          "verse": 15,
+          "text": "A continual dropping in a very rainy day and a contentious woman are alike."
+        },
+        {
+          "chapter": 27,
+          "verse": 16,
+          "text": "Whosoever hideth her hideth the wind, and the ointment of his right hand, [ADD]which[/ADD] bewrayeth [ADD]itself[/ADD]."
+        },
+        {
+          "chapter": 27,
+          "verse": 17,
+          "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+        },
+        {
+          "chapter": 27,
+          "verse": 18,
+          "text": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
+        },
+        {
+          "chapter": 27,
+          "verse": 19,
+          "text": "As in water face [ADD]answereth[/ADD] to face, so the heart of man to man."
+        },
+        {
+          "chapter": 27,
+          "verse": 20,
+          "text": "Hell and destruction are never full; so the eyes of man are never satisfied.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 27,
+          "verse": 21,
+          "text": "[ADD]As[/ADD] the fining pot for silver, and the furnace for gold; so [ADD]is[/ADD] a man to his praise."
+        },
+        {
+          "chapter": 27,
+          "verse": 22,
+          "text": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, [ADD]yet[/ADD] will not his foolishness depart from him."
+        },
+        {
+          "chapter": 27,
+          "verse": 23,
+          "text": "Be thou diligent to know the state of thy flocks, [ADD]and[/ADD] look well to thy herds.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 27,
+          "verse": 24,
+          "text": "For riches [ADD]are[/ADD] not for ever: and doth the crown [ADD]endure[/ADD] to every generation?",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 27,
+          "verse": 25,
+          "text": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
+        },
+        {
+          "chapter": 27,
+          "verse": 26,
+          "text": "The lambs [ADD]are[/ADD] for thy clothing, and the goats [ADD]are[/ADD] the price of the field."
+        },
+        {
+          "chapter": 27,
+          "verse": 27,
+          "text": "And [ADD]thou shalt have[/ADD] goats’ milk enough for thy food, for the food of thy household, and [ADD]for[/ADD] the maintenance for thy maidens.",
+          "sourceFootnoteCount": 1
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "verses": [
+        {
+          "chapter": 28,
+          "verse": 1,
+          "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion."
+        },
+        {
+          "chapter": 28,
+          "verse": 2,
+          "text": "For the transgression of a land many [ADD]are[/ADD] the princes thereof: but by a man of understanding [ADD]and[/ADD] knowledge the state [ADD]thereof[/ADD] shall be prolonged.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 3,
+          "text": "A poor man that oppresseth the poor [ADD]is like[/ADD] a sweeping rain which leaveth no food.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 4,
+          "text": "They that forsake the law praise the wicked: but such as keep the law contend with them."
+        },
+        {
+          "chapter": 28,
+          "verse": 5,
+          "text": "Evil men understand not judgment: but they that seek the LORD understand all [ADD]things[/ADD]."
+        },
+        {
+          "chapter": 28,
+          "verse": 6,
+          "text": "Better [ADD]is[/ADD] the poor that walketh in his uprightness, than [ADD]he that is[/ADD] perverse [ADD]in his[/ADD] ways, though he [ADD]be[/ADD] rich."
+        },
+        {
+          "chapter": 28,
+          "verse": 7,
+          "text": "Whoso keepeth the law [ADD]is[/ADD] a wise son: but he that is a companion of riotous [ADD]men[/ADD] shameth his father.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 8,
+          "text": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 9,
+          "text": "He that turneth away his ear from hearing the law, even his prayer [ADD]shall be[/ADD] abomination."
+        },
+        {
+          "chapter": 28,
+          "verse": 10,
+          "text": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good [ADD]things[/ADD] in possession."
+        },
+        {
+          "chapter": 28,
+          "verse": 11,
+          "text": "The rich man [ADD]is[/ADD] wise in his own conceit; but the poor that hath understanding searcheth him out.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 12,
+          "text": "When righteous [ADD]men[/ADD] do rejoice, [ADD]there is[/ADD] great glory: but when the wicked rise, a man is hidden.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 13,
+          "text": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh [ADD]them[/ADD] shall have mercy."
+        },
+        {
+          "chapter": 28,
+          "verse": 14,
+          "text": "Happy [ADD]is[/ADD] the man that feareth alway: but he that hardeneth his heart shall fall into mischief."
+        },
+        {
+          "chapter": 28,
+          "verse": 15,
+          "text": "[ADD]As[/ADD] a roaring lion, and a ranging bear; [ADD]so is[/ADD] a wicked ruler over the poor people."
+        },
+        {
+          "chapter": 28,
+          "verse": 16,
+          "text": "The prince that wanteth understanding [ADD]is[/ADD] also a great oppressor: [ADD]but[/ADD] he that hateth covetousness shall prolong [ADD]his[/ADD] days."
+        },
+        {
+          "chapter": 28,
+          "verse": 17,
+          "text": "A man that doeth violence to the blood of [ADD]any[/ADD] person shall flee to the pit; let no man stay him."
+        },
+        {
+          "chapter": 28,
+          "verse": 18,
+          "text": "Whoso walketh uprightly shall be saved: but [ADD]he that is[/ADD] perverse [ADD]in his[/ADD] ways shall fall at once."
+        },
+        {
+          "chapter": 28,
+          "verse": 19,
+          "text": "He that tilleth his land shall have plenty of bread: but he that followeth after vain [ADD]persons[/ADD] shall have poverty enough."
+        },
+        {
+          "chapter": 28,
+          "verse": 20,
+          "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 21,
+          "text": "To have respect of persons [ADD]is[/ADD] not good: for for a piece of bread [ADD]that[/ADD] man will transgress."
+        },
+        {
+          "chapter": 28,
+          "verse": 22,
+          "text": "He that hasteth to be rich [ADD]hath[/ADD] an evil eye, and considereth not that poverty shall come upon him.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 23,
+          "text": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue."
+        },
+        {
+          "chapter": 28,
+          "verse": 24,
+          "text": "Whoso robbeth his father or his mother, and saith, [ADD]It is[/ADD] no transgression; the same [ADD]is[/ADD] the companion of a destroyer.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 28,
+          "verse": 25,
+          "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat."
+        },
+        {
+          "chapter": 28,
+          "verse": 26,
+          "text": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered."
+        },
+        {
+          "chapter": 28,
+          "verse": 27,
+          "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse."
+        },
+        {
+          "chapter": 28,
+          "verse": 28,
+          "text": "When the wicked rise, men hide themselves: but when they perish, the righteous increase."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "verses": [
+        {
+          "chapter": 29,
+          "verse": 1,
+          "text": "He, that being often reproved hardeneth [ADD]his[/ADD] neck, shall suddenly be destroyed, and that without remedy.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 2,
+          "text": "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 3,
+          "text": "Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth [ADD]his[/ADD] substance."
+        },
+        {
+          "chapter": 29,
+          "verse": 4,
+          "text": "The king by judgment establisheth the land: but he that receiveth gifts overthroweth it.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 5,
+          "text": "A man that flattereth his neighbour spreadeth a net for his feet."
+        },
+        {
+          "chapter": 29,
+          "verse": 6,
+          "text": "In the transgression of an evil man [ADD]there is[/ADD] a snare: but the righteous doth sing and rejoice."
+        },
+        {
+          "chapter": 29,
+          "verse": 7,
+          "text": "The righteous considereth the cause of the poor: [ADD]but[/ADD] the wicked regardeth not to know [ADD]it[/ADD]."
+        },
+        {
+          "chapter": 29,
+          "verse": 8,
+          "text": "Scornful men bring a city into a snare: but wise [ADD]men[/ADD] turn away wrath.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 9,
+          "text": "[ADD]If[/ADD] a wise man contendeth with a foolish man, whether he rage or laugh, [ADD]there is[/ADD] no rest."
+        },
+        {
+          "chapter": 29,
+          "verse": 10,
+          "text": "The bloodthirsty hate the upright: but the just seek his soul.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 11,
+          "text": "A fool uttereth all his mind: but a wise [ADD]man[/ADD] keepeth it in till afterwards."
+        },
+        {
+          "chapter": 29,
+          "verse": 12,
+          "text": "If a ruler hearken to lies, all his servants [ADD]are[/ADD] wicked."
+        },
+        {
+          "chapter": 29,
+          "verse": 13,
+          "text": "The poor and the deceitful man meet together: the LORD lighteneth both their eyes.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 14,
+          "text": "The king that faithfully judgeth the poor, his throne shall be established for ever."
+        },
+        {
+          "chapter": 29,
+          "verse": 15,
+          "text": "The rod and reproof give wisdom: but a child left [ADD]to himself[/ADD] bringeth his mother to shame."
+        },
+        {
+          "chapter": 29,
+          "verse": 16,
+          "text": "When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall."
+        },
+        {
+          "chapter": 29,
+          "verse": 17,
+          "text": "Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul."
+        },
+        {
+          "chapter": 29,
+          "verse": 18,
+          "text": "Where [ADD]there is[/ADD] no vision, the people perish: but he that keepeth the law, happy [ADD]is[/ADD] he.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 19,
+          "text": "A servant will not be corrected by words: for though he understand he will not answer."
+        },
+        {
+          "chapter": 29,
+          "verse": 20,
+          "text": "Seest thou a man [ADD]that is[/ADD] hasty in his words? [ADD]there is[/ADD] more hope of a fool than of him.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 21,
+          "text": "He that delicately bringeth up his servant from a child shall have him become [ADD]his[/ADD] son at the length."
+        },
+        {
+          "chapter": 29,
+          "verse": 22,
+          "text": "An angry man stirreth up strife, and a furious man aboundeth in transgression."
+        },
+        {
+          "chapter": 29,
+          "verse": 23,
+          "text": "A man’s pride shall bring him low: but honour shall uphold the humble in spirit."
+        },
+        {
+          "chapter": 29,
+          "verse": 24,
+          "text": "Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth [ADD]it[/ADD] not."
+        },
+        {
+          "chapter": 29,
+          "verse": 25,
+          "text": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 26,
+          "text": "Many seek the ruler’s favour; but [ADD]every[/ADD] man’s judgment [ADD]cometh[/ADD] from the LORD.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 29,
+          "verse": 27,
+          "text": "An unjust man [ADD]is[/ADD] an abomination to the just: and [ADD]he that is[/ADD] upright in the way [ADD]is[/ADD] abomination to the wicked."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "verses": [
+        {
+          "chapter": 30,
+          "verse": 1,
+          "text": "The words of Agur the son of Jakeh, [ADD]even[/ADD] the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,"
+        },
+        {
+          "chapter": 30,
+          "verse": 2,
+          "text": "Surely I [ADD]am[/ADD] more brutish than [ADD]any[/ADD] man, and have not the understanding of a man."
+        },
+        {
+          "chapter": 30,
+          "verse": 3,
+          "text": "I neither learned wisdom, nor have the knowledge of the holy.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 4,
+          "text": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what [ADD]is[/ADD] his name, and what [ADD]is[/ADD] his son’s name, if thou canst tell?"
+        },
+        {
+          "chapter": 30,
+          "verse": 5,
+          "text": "Every word of God [ADD]is[/ADD] pure: he [ADD]is[/ADD] a shield unto them that put their trust in him.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 6,
+          "text": "Add thou not unto his words, lest he reprove thee, and thou be found a liar."
+        },
+        {
+          "chapter": 30,
+          "verse": 7,
+          "text": "Two [ADD]things[/ADD] have I required of thee; deny me [ADD]them[/ADD] not before I die:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 8,
+          "text": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 9,
+          "text": "Lest I be full, and deny [ADD]thee[/ADD], and say, Who [ADD]is[/ADD] the LORD? or lest I be poor, and steal, and take the name of my God [ADD]in vain[/ADD].",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 10,
+          "text": "Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 11,
+          "text": "[ADD]There is[/ADD] a generation [ADD]that[/ADD] curseth their father, and doth not bless their mother."
+        },
+        {
+          "chapter": 30,
+          "verse": 12,
+          "text": "[ADD]There is[/ADD] a generation [ADD]that are[/ADD] pure in their own eyes, and [ADD]yet[/ADD] is not washed from their filthiness."
+        },
+        {
+          "chapter": 30,
+          "verse": 13,
+          "text": "[ADD]There is[/ADD] a generation, O how lofty are their eyes! and their eyelids are lifted up."
+        },
+        {
+          "chapter": 30,
+          "verse": 14,
+          "text": "[ADD]There is[/ADD] a generation, whose teeth [ADD]are as[/ADD] swords, and their jaw teeth [ADD]as[/ADD] knives, to devour the poor from off the earth, and the needy from [ADD]among[/ADD] men."
+        },
+        {
+          "chapter": 30,
+          "verse": 15,
+          "text": "The horseleach hath two daughters, [ADD]crying[/ADD], Give, give. There are three [ADD]things that[/ADD] are never satisfied, [ADD]yea[/ADD], four [ADD]things[/ADD] say not, [ADD]It is[/ADD] enough:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 16,
+          "text": "The grave; and the barren womb; the earth [ADD]that[/ADD] is not filled with water; and the fire [ADD]that[/ADD] saith not, [ADD]It is[/ADD] enough."
+        },
+        {
+          "chapter": 30,
+          "verse": 17,
+          "text": "The eye [ADD]that[/ADD] mocketh at [ADD]his[/ADD] father, and despiseth to obey [ADD]his[/ADD] mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 18,
+          "text": "There be three [ADD]things which[/ADD] are too wonderful for me, yea, four which I know not:"
+        },
+        {
+          "chapter": 30,
+          "verse": 19,
+          "text": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 20,
+          "text": "Such [ADD]is[/ADD] the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness."
+        },
+        {
+          "chapter": 30,
+          "verse": 21,
+          "text": "For three [ADD]things[/ADD] the earth is disquieted, and for four [ADD]which[/ADD] it cannot bear:"
+        },
+        {
+          "chapter": 30,
+          "verse": 22,
+          "text": "For a servant when he reigneth; and a fool when he is filled with meat;"
+        },
+        {
+          "chapter": 30,
+          "verse": 23,
+          "text": "For an odious [ADD]woman[/ADD] when she is married; and an handmaid that is heir to her mistress."
+        },
+        {
+          "chapter": 30,
+          "verse": 24,
+          "text": "There be four [ADD]things which are[/ADD] little upon the earth, but they [ADD]are[/ADD] exceeding wise:",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 25,
+          "text": "The ants [ADD]are[/ADD] a people not strong, yet they prepare their meat in the summer;"
+        },
+        {
+          "chapter": 30,
+          "verse": 26,
+          "text": "The conies [ADD]are but[/ADD] a feeble folk, yet make they their houses in the rocks;"
+        },
+        {
+          "chapter": 30,
+          "verse": 27,
+          "text": "The locusts have no king, yet go they forth all of them by bands;",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 28,
+          "text": "The spider taketh hold with her hands, and is in kings’ palaces."
+        },
+        {
+          "chapter": 30,
+          "verse": 29,
+          "text": "There be three [ADD]things[/ADD] which go well, yea, four are comely in going:"
+        },
+        {
+          "chapter": 30,
+          "verse": 30,
+          "text": "A lion [ADD]which is[/ADD] strongest among beasts, and turneth not away for any;"
+        },
+        {
+          "chapter": 30,
+          "verse": 31,
+          "text": "A greyhound; an he goat also; and a king, against whom [ADD]there is[/ADD] no rising up.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 30,
+          "verse": 32,
+          "text": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, [ADD]lay[/ADD] thine hand upon thy mouth."
+        },
+        {
+          "chapter": 30,
+          "verse": 33,
+          "text": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "verses": [
+        {
+          "chapter": 31,
+          "verse": 1,
+          "text": "The words of king Lemuel, the prophecy that his mother taught him."
+        },
+        {
+          "chapter": 31,
+          "verse": 2,
+          "text": "What, my son? and what, the son of my womb? and what, the son of my vows?"
+        },
+        {
+          "chapter": 31,
+          "verse": 3,
+          "text": "Give not thy strength unto women, nor thy ways to that which destroyeth kings."
+        },
+        {
+          "chapter": 31,
+          "verse": 4,
+          "text": "[ADD]It is[/ADD] not for kings, O Lemuel, [ADD]it is[/ADD] not for kings to drink wine; nor for princes strong drink:"
+        },
+        {
+          "chapter": 31,
+          "verse": 5,
+          "text": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.",
+          "sourceFootnoteCount": 2
+        },
+        {
+          "chapter": 31,
+          "verse": 6,
+          "text": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 31,
+          "verse": 7,
+          "text": "Let him drink, and forget his poverty, and remember his misery no more."
+        },
+        {
+          "chapter": 31,
+          "verse": 8,
+          "text": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 31,
+          "verse": 9,
+          "text": "Open thy mouth, judge righteously, and plead the cause of the poor and needy."
+        },
+        {
+          "chapter": 31,
+          "verse": 10,
+          "text": "Who can find a virtuous woman? for her price [ADD]is[/ADD] far above rubies."
+        },
+        {
+          "chapter": 31,
+          "verse": 11,
+          "text": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil."
+        },
+        {
+          "chapter": 31,
+          "verse": 12,
+          "text": "She will do him good and not evil all the days of her life."
+        },
+        {
+          "chapter": 31,
+          "verse": 13,
+          "text": "She seeketh wool, and flax, and worketh willingly with her hands."
+        },
+        {
+          "chapter": 31,
+          "verse": 14,
+          "text": "She is like the merchants’ ships; she bringeth her food from afar."
+        },
+        {
+          "chapter": 31,
+          "verse": 15,
+          "text": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens."
+        },
+        {
+          "chapter": 31,
+          "verse": 16,
+          "text": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 31,
+          "verse": 17,
+          "text": "She girdeth her loins with strength, and strengtheneth her arms."
+        },
+        {
+          "chapter": 31,
+          "verse": 18,
+          "text": "She perceiveth that her merchandise [ADD]is[/ADD] good: her candle goeth not out by night.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 31,
+          "verse": 19,
+          "text": "She layeth her hands to the spindle, and her hands hold the distaff."
+        },
+        {
+          "chapter": 31,
+          "verse": 20,
+          "text": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 31,
+          "verse": 21,
+          "text": "She is not afraid of the snow for her household: for all her household [ADD]are[/ADD] clothed with scarlet.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 31,
+          "verse": 22,
+          "text": "She maketh herself coverings of tapestry; her clothing [ADD]is[/ADD] silk and purple."
+        },
+        {
+          "chapter": 31,
+          "verse": 23,
+          "text": "Her husband is known in the gates, when he sitteth among the elders of the land."
+        },
+        {
+          "chapter": 31,
+          "verse": 24,
+          "text": "She maketh fine linen, and selleth [ADD]it;[/ADD] and delivereth girdles unto the merchant."
+        },
+        {
+          "chapter": 31,
+          "verse": 25,
+          "text": "Strength and honour [ADD]are[/ADD] her clothing; and she shall rejoice in time to come."
+        },
+        {
+          "chapter": 31,
+          "verse": 26,
+          "text": "She openeth her mouth with wisdom; and in her tongue [ADD]is[/ADD] the law of kindness."
+        },
+        {
+          "chapter": 31,
+          "verse": 27,
+          "text": "She looketh well to the ways of her household, and eateth not the bread of idleness."
+        },
+        {
+          "chapter": 31,
+          "verse": 28,
+          "text": "Her children arise up, and call her blessed; her husband [ADD]also[/ADD], and he praiseth her."
+        },
+        {
+          "chapter": 31,
+          "verse": 29,
+          "text": "Many daughters have done virtuously, but thou excellest them all.",
+          "sourceFootnoteCount": 1
+        },
+        {
+          "chapter": 31,
+          "verse": 30,
+          "text": "Favour [ADD]is[/ADD] deceitful, and beauty [ADD]is[/ADD] vain: [ADD]but[/ADD] a woman [ADD]that[/ADD] feareth the LORD, she shall be praised."
+        },
+        {
+          "chapter": 31,
+          "verse": 31,
+          "text": "Give her of the fruit of her hands; and let her own works praise her in the gates."
+        }
+      ]
+    }
+  ]
+}

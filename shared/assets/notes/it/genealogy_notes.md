@@ -1,4 +1,4 @@
-# Note genealogiche
+# Note sulla genealogia di Gesù
 
 Dopo Davide le genealogie divergono: Matteo segue la linea **legale/reale** attraverso **Salomone**, mentre Luca segue una linea **biologica** attraverso **Natan**. Si riallineano di nuovo a **Zorobabele** e infine in **Gesù**.
 
