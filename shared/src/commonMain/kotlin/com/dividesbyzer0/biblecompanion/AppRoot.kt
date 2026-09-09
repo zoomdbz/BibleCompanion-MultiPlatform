@@ -411,8 +411,12 @@ fun AppRoot(
           BibleChronologyScreen(
             appLanguage = prefs.appLanguage,
             includeDeuterocanon = prefs.chronologyIncludeDeutero,
+            expandedEpochs = prefs.chronologyExpandedEpochs,
             onIncludeDeuterocanonChange = { show ->
               scope.launch { repo.setChronologyIncludeDeutero(show) }
+            },
+            onExpandedEpochsChange = { value ->
+              scope.launch { repo.setChronologyExpandedEpochs(value) }
             },
             onBack = { navBack() },
             onOpenChapterRange = { collection, bookId, openingChapter ->

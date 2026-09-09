@@ -36,6 +36,8 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             readerMode = getString("reader_mode") ?: "internal",
             internalBibleVersion = getString("internal_bible_version") ?: "bsb",
             chronologyIncludeDeutero = getBool("chronology_include_deutero", true),
+            chronologyExpandedEpochs = getString("chronology_expanded_epochs")
+                ?: DEFAULT_CHRONOLOGY_EXPANDED_EPOCHS,
             showDeutero = getBool("show_deutero", true),
             showApoc = getBool("show_apoc", true),
             showPseudepigrapha = getBool("show_pseudepigrapha", true),
@@ -90,6 +92,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     }
     actual suspend fun setChronologyIncludeDeutero(show: Boolean) {
         defaults.setBool(show, forKey = "chronology_include_deutero"); refresh()
+    }
+    actual suspend fun setChronologyExpandedEpochs(value: String) {
+        defaults.setObject(value, forKey = "chronology_expanded_epochs"); refresh()
     }
     actual suspend fun setDeutero(show: Boolean) {
         defaults.setBool(show, forKey = "show_deutero"); refresh()

@@ -52,10 +52,10 @@
     <string name="books_missing">누락된 책: %1$s</string>
     <string name="about_title">정보</string>
     <string name="about_what_title">이것은 무엇인가요</string>
-    <string name="about_what_text">성경 동반자는 성경 전체를 쉬운 말로, 절마다 정확한 참조와 함께 제공합니다. 주석이나 개인적 해석은 없습니다; 오직 신실한 요약으로 하나님의 말씀이 스스로 말하게 합니다. 텍스트가 침묵하는 곳에서는 침묵합니다.</string>
-    <string name="about_features_text">학습 노트는 예수님의 족보와 신성, 성경의 일반적인 왜곡, 성경 정경의 형성, 번역 통찰, 영적 전쟁을 다룹니다. 절기 달력은 히브리력과 에세네력에 레위기 23장의 일곱 절기와 그리스도 안에서의 성취를 겹쳐 보여 줍니다. 예언 도구는 메시아 예언, 다니엘의 연대표, 천문학적 징조, 요한계시록의 구조를 매핑합니다.</string>
-    <string name="about_mission_text">무료, 오프라인, 모바일 우선, 테트라그라마톤에 정직, 절기 인식, 위경 포함, 예언에 능통, 박해에 강하고, 원어에 정밀; 참된 제자 훈련을 위한 도구(마태복음 28:19)로서, 마태복음 10:8을 가격에 대해 진지하게, 사도행전 17:11을 로그인 장벽에 대해 진지하게, 레위기 23을 달력에 대해 진지하게, 출애굽기 3:15를 그 이름에 대해 진지하게, 유다서 14을 위경에 대해 진지하게, 누가복음 21:25과 창세기 1:14를 천문학적 징조에 대해 진지하게 받아들입니다.</string>
-    <string name="about_free_text">무료, 광고와 수익화 없음. 모든 영광을 하나님께.</string>
+    <string name="about_what_text">성경 동반자는 사람들이 성경을 문맥에 따라 읽도록 돕기 위해 만든 무료 오프라인 우선 성경 리더이자 학습 동반자입니다. 지원하는 모든 언어로 된 완전한 구약과 신약을 제공하며, 선택 사항으로 제2경전, 외경, 위경 모음도 제공합니다. 각 장에는 절 번호와 연결된 성경 본문과 함께 핵심 요점, 상호 참조, 사본 이문, 번역 주석이 담겨 있습니다. 성경 본문은 편집자가 작성한 학습 자료와 명확히 구분됩니다.</string>
+    <string name="about_features_text">앱 안에서 참조 구절을 읽거나 YouVersion/Bible.com 또는 Bible Gateway에서 열 수 있습니다. 영어 독자는 앱 내 성경 본문을 베뢰아 표준 성경과 킹 제임스 성경 사이에서 바꿀 수 있습니다. 검색, 텍스트 음성 변환, 오늘의 말씀, 읽던 위치 복원, 북마크, 저장한 구절, 강조 표시, 라벨, 화면 설정이 매일의 성경 읽기를 돕습니다. 학습 도구는 성경 연대기, 예수님의 족보와 정체성과 신성, 복음과 은혜, 정경과 번역, 성경의 달력과 절기, 메시아 예언, 다니엘과 요한계시록 연대표, 천문학적 징조, 영적 전쟁, 거짓 교리, 성경의 일반적인 왜곡을 다룹니다.</string>
+    <string name="about_mission_text">성경 동반자는 성경을 진리로 받아들입니다. 신실하고 읽기 쉬우며 각 언어에 알맞은 본문, 정확한 참조, 하나님의 이름에 대한 정직한 표기, 예수님의 말씀에 대한 분명한 표시, 그리고 연대기, 사본 증거, 번역, 역사적 저자 귀속에 논쟁의 여지가 있는 곳에서 솔직한 설명을 제공하는 것을 목표로 합니다. 계정이 필요 없고 핵심 콘텐츠를 오프라인에서도 이용할 수 있으며, 진지한 제자 훈련과 베뢰아 사람들처럼 성경을 살피는 일을 위해 존재합니다(마태복음 28:19; 사도행전 17:11). 이 모든 것은 마태복음 10:8의 정신에 따라 거저 제공합니다.</string>
+    <string name="about_free_text">무료입니다. 광고, 구독, 계정, 수익화가 없습니다. 모든 영광을 하나님께 드립니다.</string>
     <!-- values-ko/strings.xml (Korean) -->
     <string name="jesus_divinity">예수의 신성</string>
     <string name="jesus_identity">예수님의 정체성</string>
@@ -345,6 +345,16 @@
     <string name="chronology_epoch_judah_final">유다 왕국의 마지막 시기</string>
     <string name="chronology_epoch_exile">바빌론 유배</string>
     <string name="chronology_epoch_return">귀환과 재건</string>
+    <string name="chronology_epoch_psalms">시편: 저자 귀속과 전승</string>
+    <string name="chronology_psalms_note">시편은 여러 시대에 걸쳐 있습니다. 이 섹션은 시편 모음을 분류하며 하나의 저작 연대를 지정하지 않습니다. 아래 그룹은 히브리어 표제의 주요 인물 귀속을 바탕으로 한, 서로 겹치지 않는 안내입니다. 이 표제들은 저자, 헌정 대상, 주제 또는 음악가 집단을 가리킬 수 있습니다. 시편 88편에는 고라 자손과 헤만이 모두 언급됩니다. 여두둔은 시편 39편, 62편, 77편에 음악 또는 연주상의 연관으로 등장합니다. 바바 바트라 14b에는 다윗이 열 명의 원로를 통해 시편을 편찬했다는 더 넓은 전승도 보존되어 있습니다. 그러나 각 시편을 한 편씩 특정 인물에게 귀속하지는 않습니다. &quot;이름 없음&quot;은 히브리어 표제에 저자 이름이 없다는 뜻입니다.</string>
+    <string name="chronology_psalms_david">다윗에게 귀속된 시편</string>
+    <string name="chronology_psalms_asaph">아삽 또는 아삽 자손의 시편</string>
+    <string name="chronology_psalms_korah">고라 자손의 시편</string>
+    <string name="chronology_psalms_solomon">솔로몬과 관련된 시편</string>
+    <string name="chronology_psalms_moses">모세에게 귀속된 시편</string>
+    <string name="chronology_psalms_heman_korah">헤만과 고라 자손의 시편</string>
+    <string name="chronology_psalms_ethan">에단의 시편</string>
+    <string name="chronology_psalms_unnamed">저자 이름이 없는 시편</string>
     <string name="chronology_epoch_second_temple">제2성전과 마카베오 시대</string>
     <string name="chronology_epoch_jesus">예수의 생애와 사역</string>
     <string name="chronology_epoch_church">초대 교회, 서신, 요한계시록</string>

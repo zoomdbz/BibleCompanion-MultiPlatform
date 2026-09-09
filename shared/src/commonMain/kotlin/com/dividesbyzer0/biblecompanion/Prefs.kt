@@ -12,6 +12,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setReaderMode(mode: String)
     suspend fun setInternalBibleVersion(version: String)
     suspend fun setChronologyIncludeDeutero(show: Boolean)
+    suspend fun setChronologyExpandedEpochs(value: String)
     suspend fun setDeutero(show: Boolean)
     suspend fun setApoc(show: Boolean)
     suspend fun setPseudepigrapha(show: Boolean)

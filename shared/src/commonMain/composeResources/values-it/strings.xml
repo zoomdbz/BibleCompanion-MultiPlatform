@@ -52,10 +52,10 @@
     <string name="books_missing">Libro mancante: %1$s</string>
     <string name="about_title">Informazioni</string>
     <string name="about_what_title">Che cos\’è</string>
-    <string name="about_what_text"><![CDATA[Compagno Biblico presenta l\’intera Bibbia in linguaggio semplice, versetto per versetto, con riferimenti esatti per ogni riassunto. Nessun commento o interpretazione personale; solo riassunti fedeli che lasciano parlare la Parola di Dio da sola. Silenzio dove il testo tace.]]></string>
-    <string name="about_features_text"><![CDATA[Le note di studio coprono la genealogia e divinità di Gesù, le distorsioni comuni delle Scritture, la formazione del canone biblico, approfondimenti sulla traduzione e la guerra spirituale. Un calendario delle feste sovrappone i calendari ebraico ed esseno con le sette feste di Levitico 23 e il loro compimento in Cristo. Strumenti profetici mappano la profezia messianica, la cronologia di Daniele, i segni astronomici e la struttura dell\’Apocalisse.]]></string>
-    <string name="about_mission_text"><![CDATA[Gratuito, offline, pensato per il mobile, onesto sul Tetragramma, consapevole delle feste, aperto agli pseudoepigrafi, competente in profezia, resistente alla persecuzione e preciso nelle lingue; uno strumento per un vero discepolato (Matteo 28:19) che prende sul serio Matteo 10:8 sul prezzo, Atti 17:11 sulle barriere d\’accesso, Levitico 23 sul calendario, Esodo 3:15 sul Nome, Giuda 14 sugli pseudoepigrafi, e Luca 21:25 e Genesi 1:14 sui segni astronomici.]]></string>
-    <string name="about_free_text"><![CDATA[Gratuito, senza pubblicità né monetizzazione. A Dio tutta la gloria.]]></string>
+    <string name="about_what_text"><![CDATA[Compagno Biblico è un lettore delle Scritture e un compagno di studio gratuito, progettato prima di tutto per l’uso offline e creato per aiutare le persone a leggere la Bibbia nel suo contesto. Include l’Antico e il Nuovo Testamento completi in ogni lingua supportata, oltre a raccolte deuterocanoniche, apocrife e pseudepigrafe facoltative. Ogni capitolo riunisce il testo biblico con riferimenti ai versetti, i punti chiave, i riferimenti incrociati, le varianti dei manoscritti e le note di traduzione. Le Scritture restano chiaramente distinte dal materiale di studio redazionale.]]></string>
+    <string name="about_features_text"><![CDATA[Leggi i riferimenti nell’app oppure aprili in YouVersion/Bible.com o Bible Gateway. I lettori di lingua inglese possono cambiare il testo interno all’app tra la Berean Standard Bible e la King James Version. Ricerca, sintesi vocale, Versetto del Giorno, ripristino della posizione di lettura, segnalibri, versetti salvati, evidenziazioni, etichette e impostazioni visive sostengono la lettura quotidiana. Gli strumenti di studio comprendono la cronologia biblica; la genealogia, l’identità e la divinità di Gesù; il Vangelo e la grazia; il canone e la traduzione; i calendari e le feste bibliche; la profezia messianica; le cronologie di Daniele e dell’Apocalisse; i segni astronomici; la guerra spirituale; le false dottrine e le distorsioni comuni delle Scritture.]]></string>
+    <string name="about_mission_text"><![CDATA[Compagno Biblico considera le Scritture come verità. Mira a offrire un testo fedele, leggibile e adatto a ciascuna lingua; riferimenti esatti; un trattamento onesto del Nome divino; una chiara identificazione delle parole di Gesù e franchezza ovunque la cronologia, le testimonianze dei manoscritti, la traduzione o l’attribuzione storica rimangano oggetto di dibattito. Non richiede alcun account, mantiene disponibili offline i contenuti essenziali ed esiste per un discepolato serio e un esame bereano delle Scritture (Matteo 28:19; Atti 17:11); è offerto gratuitamente nello spirito di Matteo 10:8.]]></string>
+    <string name="about_free_text"><![CDATA[Gratuito. Nessuna pubblicità, abbonamento, account o monetizzazione. A Dio tutta la gloria.]]></string>
     <!-- values-it/strings.xml (Italian) -->
     <string name="jesus_divinity">La divinità di Gesù</string>
     <string name="jesus_identity">L'identità di Gesù</string>
@@ -345,6 +345,16 @@
     <string name="chronology_epoch_judah_final">Gli ultimi anni di Giuda</string>
     <string name="chronology_epoch_exile">L'esilio babilonese</string>
     <string name="chronology_epoch_return">Ritorno e ricostruzione</string>
+    <string name="chronology_epoch_psalms">Salmi: attribuzioni e tradizioni</string>
+    <string name="chronology_psalms_note">I Salmi si estendono su più periodi; questa sezione organizza la raccolta e non le assegna un'unica data di composizione. I gruppi seguenti formano una guida senza sovrapposizioni basata sulle principali attribuzioni personali presenti nelle intestazioni ebraiche. Queste intestazioni possono indicare l'autore, una dedica, il soggetto o un gruppo di musicisti. Il Salmo 88 nomina sia i figli di Core sia Eman. Iedutun compare nei Salmi 39, 62 e 77 come riferimento musicale o esecutivo. Bava Batra 14b conserva anche una tradizione più ampia secondo cui Davide compilò i Salmi tramite dieci anziani; il passo, tuttavia, non attribuisce ogni salmo singolarmente. &quot;Senza nome&quot; significa che l'intestazione ebraica non indica alcun autore.</string>
+    <string name="chronology_psalms_david">Salmi attribuiti a Davide</string>
+    <string name="chronology_psalms_asaph">Salmi di Asaf o degli Asafiti</string>
+    <string name="chronology_psalms_korah">Salmi dei figli di Core</string>
+    <string name="chronology_psalms_solomon">Salmi associati a Salomone</string>
+    <string name="chronology_psalms_moses">Salmo attribuito a Mosè</string>
+    <string name="chronology_psalms_heman_korah">Salmo di Eman e dei figli di Core</string>
+    <string name="chronology_psalms_ethan">Salmo di Etan</string>
+    <string name="chronology_psalms_unnamed">Salmi senza autore indicato</string>
     <string name="chronology_epoch_second_temple">Il periodo del Secondo Tempio e dei Maccabei</string>
     <string name="chronology_epoch_jesus">La vita e il ministero di Gesù</string>
     <string name="chronology_epoch_church">La Chiesa primitiva, le lettere e l'Apocalisse</string>

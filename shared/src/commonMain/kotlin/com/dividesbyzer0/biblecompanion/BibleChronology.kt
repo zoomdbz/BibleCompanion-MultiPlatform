@@ -62,7 +62,8 @@ data class ChronologyEntry(
   val openingChapter: Int,
   val lane: ChronologyLane,
   val basis: ChronologyBasis? = null,
-  val gospelStage: GospelStage? = null
+  val gospelStage: GospelStage? = null,
+  val psalmAttribution: PsalmAttribution? = null
 )
 
 enum class ChronologyLane {
@@ -90,6 +91,21 @@ enum class GospelStage {
   RESURRECTION
 }
 
+/**
+ * Disjoint groupings based on the names in the Hebrew Psalm superscriptions.
+ * Psalm 88 names both Heman and the Sons of Korah, so it has its own group.
+ */
+enum class PsalmAttribution {
+  DAVID,
+  ASAPH,
+  SONS_OF_KORAH,
+  SOLOMON,
+  MOSES,
+  HEMAN_AND_SONS_OF_KORAH,
+  ETHAN,
+  UNNAMED
+}
+
 enum class ChronologyEpochId {
   CREATION_EARLY_HISTORY,
   PATRIARCHS,
@@ -100,9 +116,36 @@ enum class ChronologyEpochId {
   JUDAH_FINAL_YEARS,
   BABYLONIAN_EXILE,
   RETURN_RESTORATION,
+  PSALMS_COLLECTION,
   SECOND_TEMPLE,
   LIFE_OF_JESUS,
   EARLY_CHURCH
+}
+
+internal fun decodeChronologyExpandedEpochs(value: String): Set<ChronologyEpochId> =
+  value.split(',')
+    .map { it.trim() }
+    .mapNotNull { stored -> ChronologyEpochId.entries.firstOrNull { it.name == stored } }
+    .toSet()
+
+internal fun encodeChronologyExpandedEpochs(epochs: Set<ChronologyEpochId>): String =
+  ChronologyEpochId.entries
+    .filter { it in epochs }
+    .joinToString(",") { it.name }
+
+internal fun parseChronologyChapterRange(value: String): List<Int> = buildList {
+  value.split(',').forEach { rawPart ->
+    val part = rawPart.trim()
+    val bounds = part.split('-', limit = 2)
+    when (bounds.size) {
+      1 -> bounds[0].toIntOrNull()?.let { add(it) }
+      2 -> {
+        val start = bounds[0].toIntOrNull()
+        val end = bounds[1].toIntOrNull()
+        if (start != null && end != null && start <= end) addAll(start..end)
+      }
+    }
+  }
 }
 
 data class ChronologyEpoch(
@@ -115,14 +158,16 @@ private fun ot(
   range: String,
   openingChapter: Int = 1,
   lane: ChronologyLane = ChronologyLane.HISTORICAL_FLOW,
-  basis: ChronologyBasis? = null
+  basis: ChronologyBasis? = null,
+  psalmAttribution: PsalmAttribution? = null
 ) = ChronologyEntry(
   "old_testament",
   bookId,
   range,
   openingChapter,
   lane,
-  basis
+  basis,
+  psalmAttribution = psalmAttribution
 )
 
 private fun nt(
@@ -268,6 +313,49 @@ object BibleChronologyData {
       )
     ),
     ChronologyEpoch(
+      ChronologyEpochId.PSALMS_COLLECTION,
+      listOf(
+        ot(
+          "psalms",
+          "3-9, 11-32, 34-41, 51-65, 68-70, 86, 101, 103, 108-110, 122, 124, 131, 133, 138-145",
+          3,
+          ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.DAVID
+        ),
+        ot(
+          "psalms", "50, 73-83", 50, ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.ASAPH
+        ),
+        ot(
+          "psalms", "42, 44-49, 84-85, 87", 42, ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.SONS_OF_KORAH
+        ),
+        ot(
+          "psalms", "72, 127", 72, ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.SOLOMON
+        ),
+        ot(
+          "psalms", "90", 90, ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.MOSES
+        ),
+        ot(
+          "psalms", "88", 88, ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.HEMAN_AND_SONS_OF_KORAH
+        ),
+        ot(
+          "psalms", "89", 89, ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.ETHAN
+        ),
+        ot(
+          "psalms",
+          "1-2, 10, 33, 43, 66-67, 71, 91-100, 102, 104-107, 111-121, 123, 125-126, 128-130, 132, 134-137, 146-150",
+          1,
+          ChronologyLane.VOICES_FROM_PERIOD,
+          psalmAttribution = PsalmAttribution.UNNAMED
+        )
+      )
+    ),
+    ChronologyEpoch(
       ChronologyEpochId.SECOND_TEMPLE,
       listOf(
         dc("3_maccabees", "1-7"),
@@ -366,7 +454,11 @@ object BibleChronologyData {
     val canonicalActual = entries.filter { it.collection != "deuterocanonical" }.map { it.bookId }.toSet()
     val dcActual = entries.filter { it.collection == "deuterocanonical" }.map { it.bookId }.toSet()
     return buildList {
-      if (epochs.size != 12) add("Expected 12 chronology epochs; found ${epochs.size}")
+      val expectedEpochIds = ChronologyEpochId.entries
+      val actualEpochIds = epochs.map { it.id }
+      if (actualEpochIds != expectedEpochIds) {
+        add("Chronology epoch order mismatch: expected $expectedEpochIds; found $actualEpochIds")
+      }
       val missingCanonical = canonicalIds - canonicalActual
       if (missingCanonical.isNotEmpty()) add("Missing canonical books: ${missingCanonical.sorted()}")
       val unexpectedCanonical = canonicalActual - canonicalIds
@@ -378,6 +470,29 @@ object BibleChronologyData {
       entries.filter { it.chapterRange.isBlank() || it.openingChapter < 1 }.forEach {
         add("Invalid range for ${it.collection}/${it.bookId}")
       }
+      val psalmGroups = epochs
+        .firstOrNull { it.id == ChronologyEpochId.PSALMS_COLLECTION }
+        ?.entries
+        .orEmpty()
+      if (psalmGroups.any { it.bookId != "psalms" || it.psalmAttribution == null }) {
+        add("The Psalms collection contains an invalid attribution row")
+      }
+      val psalmAttributions = psalmGroups.mapNotNull { it.psalmAttribution }
+      if (
+        psalmAttributions.size != PsalmAttribution.entries.size ||
+        psalmAttributions.toSet() != PsalmAttribution.entries.toSet()
+      ) {
+        add("The Psalms collection does not contain each attribution group exactly once")
+      }
+      val psalmNumbers = psalmGroups.flatMap { parseChronologyChapterRange(it.chapterRange) }
+      val duplicatePsalms = psalmNumbers.groupingBy { it }.eachCount().filterValues { it > 1 }.keys
+      if (duplicatePsalms.isNotEmpty()) add("Duplicate Psalms in attribution groups: ${duplicatePsalms.sorted()}")
+      val expectedPsalms = (1..150).toSet()
+      val actualPsalms = psalmNumbers.toSet()
+      val missingPsalms = expectedPsalms - actualPsalms
+      if (missingPsalms.isNotEmpty()) add("Missing Psalms from attribution groups: ${missingPsalms.sorted()}")
+      val unexpectedPsalms = actualPsalms - expectedPsalms
+      if (unexpectedPsalms.isNotEmpty()) add("Unexpected Psalms in attribution groups: ${unexpectedPsalms.sorted()}")
     }
   }
 }
@@ -426,9 +541,22 @@ private fun ChronologyEpochId.title(): String = when (this) {
   ChronologyEpochId.JUDAH_FINAL_YEARS -> stringResource(Res.string.chronology_epoch_judah_final)
   ChronologyEpochId.BABYLONIAN_EXILE -> stringResource(Res.string.chronology_epoch_exile)
   ChronologyEpochId.RETURN_RESTORATION -> stringResource(Res.string.chronology_epoch_return)
+  ChronologyEpochId.PSALMS_COLLECTION -> stringResource(Res.string.chronology_epoch_psalms)
   ChronologyEpochId.SECOND_TEMPLE -> stringResource(Res.string.chronology_epoch_second_temple)
   ChronologyEpochId.LIFE_OF_JESUS -> stringResource(Res.string.chronology_epoch_jesus)
   ChronologyEpochId.EARLY_CHURCH -> stringResource(Res.string.chronology_epoch_church)
+}
+
+@Composable
+private fun PsalmAttribution.title(): String = when (this) {
+  PsalmAttribution.DAVID -> stringResource(Res.string.chronology_psalms_david)
+  PsalmAttribution.ASAPH -> stringResource(Res.string.chronology_psalms_asaph)
+  PsalmAttribution.SONS_OF_KORAH -> stringResource(Res.string.chronology_psalms_korah)
+  PsalmAttribution.SOLOMON -> stringResource(Res.string.chronology_psalms_solomon)
+  PsalmAttribution.MOSES -> stringResource(Res.string.chronology_psalms_moses)
+  PsalmAttribution.HEMAN_AND_SONS_OF_KORAH -> stringResource(Res.string.chronology_psalms_heman_korah)
+  PsalmAttribution.ETHAN -> stringResource(Res.string.chronology_psalms_ethan)
+  PsalmAttribution.UNNAMED -> stringResource(Res.string.chronology_psalms_unnamed)
 }
 
 @Composable
@@ -472,7 +600,9 @@ private fun GospelStage.title(): String = when (this) {
 fun BibleChronologyScreen(
   appLanguage: String,
   includeDeuterocanon: Boolean,
+  expandedEpochs: String,
   onIncludeDeuterocanonChange: (Boolean) -> Unit,
+  onExpandedEpochsChange: (String) -> Unit,
   onBack: () -> Unit,
   onOpenChapterRange: (collection: String, bookId: String, openingChapter: Int) -> Unit
 ) {
@@ -485,6 +615,9 @@ fun BibleChronologyScreen(
           .forEach { (id, title) -> put("$collection/$id", title) }
       }
     }
+  }
+  var expandedEpochsValue by rememberSaveable {
+    mutableStateOf(encodeChronologyExpandedEpochs(decodeChronologyExpandedEpochs(expandedEpochs)))
   }
 
   Scaffold(
@@ -523,18 +656,6 @@ fun BibleChronologyScreen(
               style = MaterialTheme.typography.bodyMedium,
               color = MaterialTheme.colorScheme.onSurfaceVariant
             )
-            ChronologyBookRow(
-              entry = ot(
-                "psalms", "1-150",
-                lane = ChronologyLane.VOICES_FROM_PERIOD,
-                basis = ChronologyBasis.SPANS_MULTIPLE_PERIODS
-              ),
-              title = titles["old_testament/psalms"]
-                ?: stringResource(Res.string.books_missing, "psalms"),
-              appLanguage = appLanguage,
-              showLane = false,
-              onOpenChapterRange = onOpenChapterRange
-            )
             HorizontalDivider()
             Row(
               Modifier
@@ -562,9 +683,17 @@ fun BibleChronologyScreen(
         BibleChronologyData.epochs,
         key = { _, epoch -> epoch.id.name }
       ) { index, epoch ->
+        val isExpanded = epoch.id in decodeChronologyExpandedEpochs(expandedEpochsValue)
         ChronologyEpochRow(
           epoch = epoch,
-          index = index,
+          expanded = isExpanded,
+          onToggleExpanded = {
+            val updated = decodeChronologyExpandedEpochs(expandedEpochsValue).toMutableSet()
+            if (!updated.add(epoch.id)) updated.remove(epoch.id)
+            val encoded = encodeChronologyExpandedEpochs(updated)
+            expandedEpochsValue = encoded
+            onExpandedEpochsChange(encoded)
+          },
           isFirst = index == 0,
           isLast = index == BibleChronologyData.epochs.lastIndex,
           includeDeuterocanon = includeDeuterocanon,
@@ -580,7 +709,8 @@ fun BibleChronologyScreen(
 @Composable
 private fun ChronologyEpochRow(
   epoch: ChronologyEpoch,
-  index: Int,
+  expanded: Boolean,
+  onToggleExpanded: () -> Unit,
   isFirst: Boolean,
   isLast: Boolean,
   includeDeuterocanon: Boolean,
@@ -588,7 +718,6 @@ private fun ChronologyEpochRow(
   titles: Map<String, String>,
   onOpenChapterRange: (String, String, Int) -> Unit
 ) {
-  var expanded by rememberSaveable(epoch.id.name) { mutableStateOf(index == 0) }
   val lineColor = MaterialTheme.colorScheme.outlineVariant
   val dotColor = MaterialTheme.colorScheme.primary
 
@@ -620,7 +749,7 @@ private fun ChronologyEpochRow(
       Row(
         Modifier
           .fillMaxWidth()
-          .clickable { expanded = !expanded }
+          .clickable(onClick = onToggleExpanded)
           .padding(horizontal = 16.dp, vertical = 14.dp),
         verticalAlignment = Alignment.CenterVertically
       ) {
@@ -658,6 +787,24 @@ private fun ChronologyEpochRow(
                   onOpenChapterRange = onOpenChapterRange
                 )
               }
+            }
+          } else if (epoch.id == ChronologyEpochId.PSALMS_COLLECTION) {
+            Text(
+              stringResource(Res.string.chronology_psalms_note),
+              style = MaterialTheme.typography.bodySmall,
+              color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+            epoch.entries.forEach { entry ->
+              val title = entry.psalmAttribution?.title()
+                ?: titles["${entry.collection}/${entry.bookId}"]
+                ?: stringResource(Res.string.books_missing, entry.bookId)
+              ChronologyBookRow(
+                entry = entry,
+                title = title,
+                appLanguage = appLanguage,
+                showLane = false,
+                onOpenChapterRange = onOpenChapterRange
+              )
             }
           } else if (epoch.id == ChronologyEpochId.EARLY_CHURCH) {
             epoch.entries.forEach { entry ->

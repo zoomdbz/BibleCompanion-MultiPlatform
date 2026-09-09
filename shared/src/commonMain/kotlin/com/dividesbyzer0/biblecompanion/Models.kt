@@ -52,6 +52,8 @@ data class Book(
   val intro: String = ""
 )
 
+const val DEFAULT_CHRONOLOGY_EXPANDED_EPOCHS = "CREATION_EARLY_HISTORY"
+
 data class PrefsState(
   val theme: String = "System",
   val translation: String = "ESV",
@@ -62,6 +64,8 @@ data class PrefsState(
   // Chronology owns this toggle so changing it does not unexpectedly alter
   // the app-wide Collections preference.
   val chronologyIncludeDeutero: Boolean = true,
+  // Comma-separated ChronologyEpochId names. An empty value means all closed.
+  val chronologyExpandedEpochs: String = DEFAULT_CHRONOLOGY_EXPANDED_EPOCHS,
   val showDeutero: Boolean = true,
   val showApoc: Boolean = true,
   val showPseudepigrapha: Boolean = true,

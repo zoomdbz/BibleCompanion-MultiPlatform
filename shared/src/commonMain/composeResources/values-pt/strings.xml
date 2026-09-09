@@ -52,10 +52,10 @@
     <string name="bible_canon">Canon biblico</string>
     <string name="about_title">Sobre</string>
     <string name="about_what_title">O que é isto</string>
-    <string name="about_what_text">Companheiro Bíblico apresenta a Bíblia completa em linguagem simples, versículo por versículo, com referências exatas para cada resumo. Sem comentários nem interpretações pessoais; apenas resumos fiéis que deixam a Palavra de Deus falar por si mesma. Silêncio onde o texto se cala.</string>
-    <string name="about_features_text">As notas de estudo abrangem a genealogia e a divindade de Jesus, distorções comuns das Escrituras, a formação do cânon bíblico, perspectivas de tradução e guerra espiritual. O calendário de festas sobrepõe os calendários hebraico e essênio com as sete festas de Levítico 23 e seu cumprimento em Cristo. Ferramentas de profecia mapeiam a profecia messiânica, a linha do tempo de Daniel, sinais astronômicos e a estrutura do Apocalipse.</string>
-    <string name="about_mission_text">Gratuito, offline, pensado para dispositivos móveis, honesto quanto ao Tetragrama, consciente das festas, apto para pseudoepígrafos, versado em profecia, resistente à perseguição e preciso nas línguas; uma ferramenta para o verdadeiro discipulado (Mateus 28:19) que leva Mateus 10:8 a sério no preço, Atos 17:11 a sério nas barreiras de login, Levítico 23 a sério no calendário, Êxodo 3:15 a sério no Nome, Judas 14 a sério nos pseudoepígrafos, e Lucas 21:25 e Gênesis 1:14 a sério nos sinais astronômicos.</string>
-    <string name="about_free_text">Gratuito, sem anúncios nem monetização. Toda a glória a Deus.</string>
+    <string name="about_what_text">O Companheiro Bíblico é um leitor das Escrituras e companheiro de estudo gratuito, desenvolvido para funcionar prioritariamente offline e ajudar as pessoas a ler a Bíblia em seu contexto. Inclui o Antigo e o Novo Testamentos completos em todos os idiomas disponíveis, além de coleções opcionais de livros deuterocanônicos, apócrifos e pseudoepígrafos. Cada capítulo reúne o texto bíblico com referências por versículo, pontos principais, referências cruzadas, variantes de manuscritos e notas de tradução. As Escrituras permanecem distintas do material editorial de estudo.</string>
+    <string name="about_features_text">Leia as referências dentro do aplicativo ou abra-as no YouVersion/Bible.com ou no Bible Gateway. Leitores de língua inglesa podem alternar o texto dentro do aplicativo entre a Berean Standard Bible e a King James Version. Pesquisa, conversão de texto em fala, Versículo do Dia, restauração da posição de leitura, marcadores, versículos salvos, destaques, etiquetas e configurações visuais auxiliam a leitura diária. As ferramentas de estudo abrangem a cronologia bíblica; a genealogia, a identidade e a divindade de Jesus; o Evangelho e a graça; o cânon e a tradução; calendários e festas bíblicos; a profecia messiânica; as linhas do tempo de Daniel e do Apocalipse; sinais astronômicos; guerra espiritual; falsas doutrinas; e distorções comuns das Escrituras.</string>
+    <string name="about_mission_text">O Companheiro Bíblico trata as Escrituras como verdade. Busca oferecer um texto fiel, legível e adequado a cada idioma; referências exatas; tratamento honesto do Nome divino; identificação clara das palavras de Jesus; e franqueza onde a cronologia, as evidências dos manuscritos, a tradução ou a atribuição histórica continuam sendo debatidas. Não exige conta, mantém seu conteúdo principal disponível offline e existe para o discipulado sério e o exame bereano das Escrituras (Mateus 28:19; Atos 17:11), oferecido gratuitamente no espírito de Mateus 10:8.</string>
+    <string name="about_free_text">Gratuito. Sem anúncios, assinaturas, contas nem monetização. Toda a glória a Deus.</string>
     <!-- values-pt/strings.xml (Portuguese) -->
     <string name="jesus_divinity">A divindade de Jesus</string>
     <string name="jesus_identity">A identidade de Jesus</string>
@@ -345,6 +345,16 @@
     <string name="chronology_epoch_judah_final">Os últimos anos de Judá</string>
     <string name="chronology_epoch_exile">O exílio babilônico</string>
     <string name="chronology_epoch_return">Retorno e reconstrução</string>
+    <string name="chronology_epoch_psalms">Salmos: atribuições e tradições</string>
+    <string name="chronology_psalms_note">Os Salmos abrangem vários períodos; esta seção organiza a coletânea e não lhe atribui uma única data de composição. Os grupos abaixo formam um guia sem sobreposições, baseado nas principais atribuições pessoais dos títulos hebraicos. Esses títulos podem indicar autoria, dedicatória, tema ou um grupo de músicos. O Salmo 88 menciona tanto os filhos de Corá quanto Hemã. Jedutum aparece nos Salmos 39, 62 e 77 como referência musical ou de execução. Bava Batra 14b também preserva uma tradição mais ampla segundo a qual Davi compilou os Salmos por meio de dez anciãos; a passagem, porém, não atribui cada salmo individualmente. &quot;Sem nome&quot; significa que o título hebraico não menciona nenhum autor.</string>
+    <string name="chronology_psalms_david">Salmos atribuídos a Davi</string>
+    <string name="chronology_psalms_asaph">Salmos de Asafe ou dos asafitas</string>
+    <string name="chronology_psalms_korah">Salmos dos filhos de Corá</string>
+    <string name="chronology_psalms_solomon">Salmos associados a Salomão</string>
+    <string name="chronology_psalms_moses">Salmo atribuído a Moisés</string>
+    <string name="chronology_psalms_heman_korah">Salmo de Hemã e dos filhos de Corá</string>
+    <string name="chronology_psalms_ethan">Salmo de Etã</string>
+    <string name="chronology_psalms_unnamed">Salmos sem autor mencionado</string>
     <string name="chronology_epoch_second_temple">O período do Segundo Templo e dos Macabeus</string>
     <string name="chronology_epoch_jesus">A vida e o ministério de Jesus</string>
     <string name="chronology_epoch_church">A igreja primitiva, as cartas e Apocalipse</string>

@@ -26,6 +26,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val READER_MODE = stringPreferencesKey("reader_mode")
         val INTERNAL_BIBLE_VERSION = stringPreferencesKey("internal_bible_version")
         val CHRONOLOGY_INCLUDE_DEUTERO = booleanPreferencesKey("chronology_include_deutero")
+        val CHRONOLOGY_EXPANDED_EPOCHS = stringPreferencesKey("chronology_expanded_epochs")
         val SHOW_DEUTERO = booleanPreferencesKey("show_deutero")
         val SHOW_APOC = booleanPreferencesKey("show_apoc")
         val SHOW_PSEUDEPIGRAPHA = booleanPreferencesKey("show_pseudepigrapha")
@@ -77,6 +78,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             readerMode = p[Keys.READER_MODE] ?: "internal",
             internalBibleVersion = p[Keys.INTERNAL_BIBLE_VERSION] ?: "bsb",
             chronologyIncludeDeutero = p[Keys.CHRONOLOGY_INCLUDE_DEUTERO] ?: true,
+            chronologyExpandedEpochs = p[Keys.CHRONOLOGY_EXPANDED_EPOCHS]
+                ?: DEFAULT_CHRONOLOGY_EXPANDED_EPOCHS,
             showDeutero = p[Keys.SHOW_DEUTERO] ?: true,
             showApoc = p[Keys.SHOW_APOC] ?: true,
             showPseudepigrapha = p[Keys.SHOW_PSEUDEPIGRAPHA] ?: true,
@@ -124,6 +127,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setChronologyIncludeDeutero(show: Boolean) =
         context.dataStore.edit { it[Keys.CHRONOLOGY_INCLUDE_DEUTERO] = show }.let { Unit }
+
+    actual suspend fun setChronologyExpandedEpochs(value: String) =
+        context.dataStore.edit { it[Keys.CHRONOLOGY_EXPANDED_EPOCHS] = value }.let { Unit }
 
     actual suspend fun setDeutero(show: Boolean) =
         context.dataStore.edit { it[Keys.SHOW_DEUTERO] = show }.let { Unit }

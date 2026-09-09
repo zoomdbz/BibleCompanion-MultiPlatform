@@ -52,10 +52,10 @@
     <string name="books_missing">缺少書卷：%1$s</string>
     <string name="about_title">關於</string>
     <string name="about_what_title">這是什麼</string>
-    <string name="about_what_text">聖經伴侶以淺白語言呈現完整聖經，逐節附上精確參考。沒有註解，沒有個人解釋; 只有忠實的摘要，讓神的話語自己說話。文本沉默處亦沉默。</string>
-    <string name="about_features_text">學習筆記涵蓋耶穌的家譜和神性、聖經常見曲解、聖經正典的形成、翻譯洞見和屬靈爭戰。節期日曆將希伯來陰陽曆和艾賽尼太陽曆與利未記23章的七大節期及其在基督裡的預表性應驗疊加呈現。預言工具繪製彌賽亞預言、但以理的時間線、天文徵兆和啟示錄的結構。</string>
-    <string name="about_mission_text">免費、離線、行動優先、對四字聖名誠實、節期感知、涵蓋偽署文獻、精通預言、抵禦逼迫、語言精準; 一個服務於真正門徒訓練的工具（馬太福音 28:19），認真對待馬太福音 10:8 關於價格的教導，認真對待使徒行傳 17:11 關於登入障礙的教導，認真對待利未記 23 關於曆法的教導，認真對待出埃及記 3:15 關於聖名的教導，認真對待猶大書 14 關於偽署文獻的教導，認真對待路加福音 21:25 和創世記 1:14 關於天文徵兆的教導。</string>
-    <string name="about_free_text">免費，無廣告、無商業化。榮耀歸於上帝。</string>
+    <string name="about_what_text">聖經伴侶是一款免費、以離線使用為優先的聖經閱讀與研讀應用程式，旨在幫助人們結合上下文閱讀聖經。它在每種支援的語言中都收錄完整的舊約和新約，並提供可選的次經、經外文獻和偽署文獻集。每一章都將按經節標註的聖經正文與要點、交叉參考、抄本異文和翻譯註釋放在一起。聖經正文始終與編輯撰寫的研讀材料明確區分。</string>
+    <string name="about_features_text">可在應用程式內閱讀參考經文，也可在YouVersion/Bible.com或Bible Gateway中開啟。英語讀者可以在應用程式內切換Berean Standard Bible和King James Version正文。搜尋、文字轉語音、每日經文、閱讀位置恢復、書籤、已儲存經文、醒目提示、標籤和顯示設定為日常閱讀提供支援。研讀工具涵蓋聖經年代順序；耶穌的家譜、身分與神性；福音與恩典；正典與翻譯；聖經曆法與節期；彌賽亞預言；但以理書與啟示錄時間線；天文徵兆；屬靈爭戰；錯誤教義；以及對聖經的常見曲解。</string>
+    <string name="about_mission_text">聖經伴侶將聖經視為真理。它致力於提供忠實、易讀且符合各語言習慣的文本；精確的參考經文；對上帝聖名的誠實處理；清楚標示耶穌的話；並對年代、抄本證據、翻譯或歷史歸屬仍有爭議之處坦誠說明。它無需帳戶，核心內容可離線使用，旨在用於嚴謹的門徒訓練和庇哩亞式的聖經查考（馬太福音28:19；使徒行傳17:11），並本著馬太福音10:8的精神免費提供。</string>
+    <string name="about_free_text">免費。無廣告、訂閱、帳戶或商業變現。所有榮耀歸於上帝。</string>
     <!-- values-zh-rTW/strings.xml (Chinese – Traditional) -->
     <string name="jesus_divinity">耶穌的神性</string>
     <string name="jesus_identity">耶穌的身分</string>
@@ -345,6 +345,16 @@
     <string name="chronology_epoch_judah_final">猶大國末期</string>
     <string name="chronology_epoch_exile">巴比倫流亡</string>
     <string name="chronology_epoch_return">歸回與重建</string>
+    <string name="chronology_epoch_psalms">詩篇：作者歸屬與傳統</string>
+    <string name="chronology_psalms_note">詩篇跨越多個時期；本節對整個詩篇集進行分組，並不為其指定單一的成書日期。以下分組互不重疊，以希伯來文標題中的主要人物歸屬為依據。這些標題可能表示作者歸屬、題獻對象、主題或音樂團體。詩篇第88篇同時提到可拉子孫和希幔。耶杜頓在詩篇第39篇、第62篇和第77篇中作為音樂或演奏方面的關聯出現。《Bava Batra》14b還保存了一個更廣泛的傳統，稱大衛透過十位長老編纂了《詩篇》；但該段並未逐篇指定作者。「未署名」表示希伯來文標題中沒有作者姓名。</string>
+    <string name="chronology_psalms_david">歸於大衛的詩篇</string>
+    <string name="chronology_psalms_asaph">亞薩或亞薩後裔的詩篇</string>
+    <string name="chronology_psalms_korah">可拉後裔的詩篇</string>
+    <string name="chronology_psalms_solomon">與所羅門相關的詩篇</string>
+    <string name="chronology_psalms_moses">歸於摩西的詩篇</string>
+    <string name="chronology_psalms_heman_korah">希幔和可拉後裔的詩篇</string>
+    <string name="chronology_psalms_ethan">以探的詩篇</string>
+    <string name="chronology_psalms_unnamed">未註明作者的詩篇</string>
     <string name="chronology_epoch_second_temple">第二聖殿與馬加比時期</string>
     <string name="chronology_epoch_jesus">耶穌的生平與事工</string>
     <string name="chronology_epoch_church">早期教會、書信與啟示錄</string>

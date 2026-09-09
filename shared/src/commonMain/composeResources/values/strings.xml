@@ -116,10 +116,10 @@
     <!-- About screen -->
     <string name="about_title">About</string>
     <string name="about_what_title">What This Is</string>
-    <string name="about_what_text">Bible Companion presents the complete Bible in plain language, verse by verse, with exact references for every summary. No commentary, no personal interpretations; just faithful summaries that let the Word of God speak for itself. Silence where the text is silent.</string>
-    <string name="about_features_text">Study notes cover the genealogy and divinity of Jesus, common distortions of Scripture, Bible canon formation, translation insights, and spiritual warfare. A feast calendar overlays the Hebrew and Essene calendars with the seven feasts of Leviticus 23 and their fulfillment in Christ. Prophecy tools map Messianic prophecy, Daniel’s timeline, astronomical signs, and the structure of Revelation.</string>
-    <string name="about_mission_text">Free, offline, mobile-first, Tetragrammaton-honest, feast-aware, pseudepigrapha-capable, prophecy-literate, persecution-resistant, and language-precise; a tool for true discipleship (Matthew 28:19) that takes Matthew 10:8 seriously on price, Acts 17:11 seriously on login walls, Leviticus 23 seriously on calendar, Exodus 3:15 seriously on the Name, Jude 14 seriously on pseudepigrapha, and Luke 21:25 and Genesis 1:14 seriously on astronomical signs.</string>
-    <string name="about_free_text">Free with no ads or monetization. All glory to God.</string>
+    <string name="about_what_text">Bible Companion is a free, offline-first Scripture reader and study companion built to help people read the Bible in context. It includes the complete Old and New Testaments in every supported language, plus optional Deuterocanonical, Apocryphal, and Pseudepigraphal collections. Each chapter keeps verse-referenced Bible text together with key takeaways, cross-references, manuscript variants, and translation notes. Scripture remains distinct from editorial study material.</string>
+    <string name="about_features_text">Read references inside the app or open them in YouVersion/Bible.com or Bible Gateway. English readers can switch the in-app text between the Berean Standard Bible and the King James Version. Search, text-to-speech, Verse of the Day, reading-position restoration, bookmarks, saved verses, highlights, labels, and visual settings support daily reading. Study tools cover Bible chronology; the genealogy, identity, and divinity of Jesus; the Gospel and grace; canon and translation; Biblical calendars and feasts; Messianic prophecy; Daniel and Revelation timelines; astronomical signs; spiritual warfare; false doctrine; and common distortions of Scripture.</string>
+    <string name="about_mission_text">Bible Companion approaches Scripture as truth. It aims for faithful, readable, language-appropriate text; exact references; honest treatment of the divine Name; clear marking of Jesus' words; and candor wherever chronology, manuscript evidence, translation, or historical attribution remains debated. It requires no account, keeps its core content available offline, and exists for serious discipleship and Berean examination of Scripture (Matthew 28:19; Acts 17:11), freely given in the spirit of Matthew 10:8.</string>
+    <string name="about_free_text">Free. No ads, subscriptions, accounts, or monetization. All glory to God.</string>
     <string name="version_label">Version %1$s</string>
     <string name="rate_app">Rate This App</string>
     <string name="share_app">Share This App</string>
@@ -379,6 +379,16 @@
     <string name="chronology_epoch_judah_final">Judah's Final Years</string>
     <string name="chronology_epoch_exile">The Babylonian Exile</string>
     <string name="chronology_epoch_return">Return and Restoration</string>
+    <string name="chronology_epoch_psalms">Psalms: Attributions and Traditions</string>
+    <string name="chronology_psalms_note">The Psalms span multiple periods; this section groups the collection and does not assign it a single composition date. The non-overlapping groups follow the primary personal attributions in the Hebrew superscriptions. These headings can indicate authorship, dedication, subject, or a musical guild. Jeduthun appears in Psalms 39, 62, and 77 as a musical or performance association. Psalm 88 names both the Sons of Korah and Heman. Bava Batra 14b also preserves a broader tradition that David compiled Psalms through ten elders; it does not assign every psalm individually. Unnamed means the Hebrew superscription names no author.</string>
+    <string name="chronology_psalms_david">Psalms attributed to David</string>
+    <string name="chronology_psalms_asaph">Psalms of Asaph or the Asaphites</string>
+    <string name="chronology_psalms_korah">Psalms of the Sons of Korah</string>
+    <string name="chronology_psalms_solomon">Psalms associated with Solomon</string>
+    <string name="chronology_psalms_moses">Psalm attributed to Moses</string>
+    <string name="chronology_psalms_heman_korah">Psalm of Heman and the Sons of Korah</string>
+    <string name="chronology_psalms_ethan">Psalm of Ethan</string>
+    <string name="chronology_psalms_unnamed">Psalms with no named author</string>
     <string name="chronology_epoch_second_temple">The Second Temple and Maccabean Period</string>
     <string name="chronology_epoch_jesus">The Life and Ministry of Jesus</string>
     <string name="chronology_epoch_church">The Early Church, Letters, and Revelation</string>

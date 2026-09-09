@@ -52,10 +52,10 @@
     <string name="books_missing">欠落している書：%1$s</string>
     <string name="about_title">このアプリについて</string>
     <string name="about_what_title">これは何か</string>
-    <string name="about_what_text">聖書の友は、聖書全体を平易な言葉で、一節ごとに正確な参照とともに提供します。注解や個人的な解釈はありません; テキストに忠実な要約のみで、神の御言葉を自ら語らせます。テキストが沈黙するところは沈黙します。</string>
-    <string name="about_features_text">学習ノートは、イエスの系譜と神性、聖書の一般的な歪曲、聖書正典の形成、翻訳に関する洞察、霊的戦いを扱います。祭りカレンダーでは、ヘブライ暦とエッセネ暦にレビ記23章の七つの祭りとキリストにおける成就を重ね合わせます。預言ツールはメシア預言、ダニエルの年表、天文学的しるし、黙示録の構造を図示します。</string>
-    <string name="about_mission_text">無料、オフライン対応、モバイル最優先、テトラグラマトンに誠実、祭りを意識、偽典を包含、預言に精通、迫害に耐性あり、原語に精密; 真の弟子訓練のための道具（マタイ 28:19）であり、マタイ 10:8 を価格について真剣に受け止め、使徒 17:11 をログイン障壁について真剣に受け止め、レビ記 23 を暦について真剣に受け止め、出エジプト記 3:15 を御名について真剣に受け止め、ユダ 14 を偽典について真剣に受け止め、ルカ 21:25 と創世記 1:14 を天文学的しるしについて真剣に受け止めます。</string>
-    <string name="about_free_text">無料、広告も収益化もありません。すべての栄光を神に。</string>
+    <string name="about_what_text">聖書の友は、聖書を文脈に沿って読めるよう支援する、無料でオフライン利用を基本とした聖書リーダー兼学習支援アプリです。対応するすべての言語で旧約聖書と新約聖書の全巻を収録し、任意で第二正典、外典、偽典の各文書群も利用できます。各章では、節ごとの参照を付した聖書本文と、要点、相互参照、写本の異読、翻訳注を一緒に確認できます。聖書本文と編集による学習資料は明確に区別されています。</string>
+    <string name="about_features_text">参照箇所はアプリ内で読むことも、YouVersion/Bible.comまたはBible Gatewayで開くこともできます。英語で読む場合は、アプリ内の本文をBerean Standard BibleとKing James Versionの間で切り替えられます。検索、読み上げ、今日の聖句、読書位置の復元、ブックマーク、保存した聖句、ハイライト、ラベル、表示設定が日々の聖書通読を支えます。学習ツールでは、聖書の年代順、イエスの系譜・アイデンティティ・神性、福音と恵み、正典と翻訳、聖書の暦と祭り、メシア預言、ダニエル書と黙示録の年表、天文上のしるし、霊的戦い、偽りの教え、聖書に対する一般的な歪曲を扱います。</string>
+    <string name="about_mission_text">聖書の友は、聖書を真理として扱います。忠実で読みやすく各言語に適した本文、正確な参照、神の御名の誠実な扱い、イエスの言葉の明確な表示を目指し、年代、写本上の証拠、翻訳、歴史的な帰属について議論が続く箇所では率直にその事実を示します。アカウントは不要で、主要なコンテンツはオフラインでも利用でき、真剣な弟子訓練とベレアの人々のような聖書の吟味（マタイ28:19、使徒17:11）のために、マタイ10:8の精神に従って無償で提供されています。</string>
+    <string name="about_free_text">無料です。広告、購読、アカウント、収益化はありません。すべての栄光を神に。</string>
     <!-- values-ja/strings.xml (Japanese) -->
     <string name="jesus_divinity">イエスの神性</string>
     <string name="jesus_identity">イエスのアイデンティティ</string>
@@ -345,6 +345,16 @@
     <string name="chronology_epoch_judah_final">ユダ王国末期</string>
     <string name="chronology_epoch_exile">バビロン捕囚</string>
     <string name="chronology_epoch_return">帰還と再建</string>
+    <string name="chronology_epoch_psalms">詩編：作者帰属と伝承</string>
+    <string name="chronology_psalms_note">詩編は複数の時代にわたります。このセクションは詩編全体を分類するもので、単一の成立年代を定めるものではありません。以下のグループは、ヘブライ語の表題にある主要な人物帰属に基づく、重複のない案内です。これらの表題は、著者、献辞、主題、または音楽家集団を示す場合があります。詩編88編には、コラの子らとヘマンの両方の名があります。エドトンは詩編39編、62編、77編に、音楽上または演奏上の関連として登場します。ババ・バトラ14bは、ダビデが十人の長老を通して詩編を編纂したという、より広い伝承も伝えています。ただし、各詩編を個別に誰かに帰属させているわけではありません。「無名」とは、ヘブライ語の表題に著者名がないことを意味します。</string>
+    <string name="chronology_psalms_david">ダビデに帰される詩編</string>
+    <string name="chronology_psalms_asaph">アサフまたはアサフ一族の詩編</string>
+    <string name="chronology_psalms_korah">コラの子らの詩編</string>
+    <string name="chronology_psalms_solomon">ソロモンに関連づけられた詩編</string>
+    <string name="chronology_psalms_moses">モーセに帰される詩編</string>
+    <string name="chronology_psalms_heman_korah">ヘマンとコラの子らの詩編</string>
+    <string name="chronology_psalms_ethan">エタンの詩編</string>
+    <string name="chronology_psalms_unnamed">著者名のない詩編</string>
     <string name="chronology_epoch_second_temple">第二神殿とマカバイの時代</string>
     <string name="chronology_epoch_jesus">イエスの生涯と宣教</string>
     <string name="chronology_epoch_church">初代教会、書簡、黙示録</string>
