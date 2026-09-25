@@ -85,23 +85,23 @@
           "text": "Prefácio e saudação"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "Ação de graças"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Exortação à unidade"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "A mensagem da cruz"
         },
         {
-          "beforeVerse": 25,
+          "beforeVerse": 26,
           "text": "A vocação dos santos"
         },
         {
-          "beforeVerse": 29,
+          "beforeVerse": 30,
           "text": "Valores de Cristo"
         }
       ]
@@ -166,7 +166,7 @@
           "text": "O caráter da pregação de Paulo"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "A verdadeira sabedoria. O ensino do Espírito Santo"
         }
       ]
@@ -238,11 +238,11 @@
           "text": "As dissensões demonstram a falta de espiritualidade"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "A responsabilidade dos que ensinam"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "A sabedoria humana sem valor"
         }
       ]
@@ -312,11 +312,11 @@
           "text": "Os pregadores responsáveis a Deus"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "Uma reprovação severa"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "Paulo os admoesta como pai"
         }
       ]
@@ -461,7 +461,7 @@
           "text": "Paulo censura o litígio entre os irmãos"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "A sensualidade é condenada"
         }
       ]
@@ -549,11 +549,11 @@
           "text": "Respostas a perguntas acerca do casamento"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "A estabilidade da família"
         },
         {
-          "beforeVerse": 24,
+          "beforeVerse": 25,
           "text": "Problemas com respeito ao casamento em tempos de tribulação"
         }
       ]
@@ -762,11 +762,11 @@
           "text": "Exemplos da história de Israel"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "O cristão deve fugir da idolatria"
         },
         {
-          "beforeVerse": 22,
+          "beforeVerse": 23,
           "text": "Os limites da liberdade cristã"
         }
       ]
@@ -848,7 +848,7 @@
           "text": "O véu e seu uso na igreja de Corinto"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "Instrução quanto à celebração da Ceia do Senhor"
         }
       ]
@@ -927,12 +927,8 @@
           "text": "Acerca de dons espirituais"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "A unidade orgânica da igreja"
-        },
-        {
-          "beforeVerse": 31,
-          "text": "O amor é o dom supremo"
         }
       ]
     },
@@ -985,7 +981,13 @@
           "note": "Este capítulo não foi escrito como peça independente. Integra um argumento único que vai do capítulo 12 ao 14 sobre dons na assembleia; as divisões em 12:31 e 14:1 são marcas editoriais posteriores. As divisões em capítulos foram acrescentadas por Estêvão Langton, arcebispo de Cantuária, por volta de 1227; os números dos versículos, pelo impressor Robert Estienne em seu Novo Testamento grego de 1551. Nenhum faz parte da carta ditada por Paulo."
         }
       ],
-      "keyTakeaway": "Paulo descreve o amor como maior do que todos os dons e mais duradouro do que eles, essencial para a verdadeira vida cristã."
+      "keyTakeaway": "Paulo descreve o amor como maior do que todos os dons e mais duradouro do que eles, essencial para a verdadeira vida cristã.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O amor é o dom supremo"
+        }
+      ]
     },
     {
       "id": "1-corinthians-14",
@@ -1076,11 +1078,11 @@
           "text": "O dom de profecia é superior ao de línguas"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Os dons em face dos visitantes na igreja"
         },
         {
-          "beforeVerse": 25,
+          "beforeVerse": 26,
           "text": "A necessidade de ordem no culto"
         }
       ]
@@ -1186,19 +1188,19 @@
           "text": "A ressurreição de Cristo, penhor da nossa ressurreição"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Cristo, as primícias dos que dormem"
         },
         {
-          "beforeVerse": 28,
+          "beforeVerse": 29,
           "text": "A ressurreição em relação à vida prática"
         },
         {
-          "beforeVerse": 34,
+          "beforeVerse": 35,
           "text": "Os ressuscitados terão corpo"
         },
         {
-          "beforeVerse": 49,
+          "beforeVerse": 50,
           "text": "Os vivos serão transformados"
         }
       ]
@@ -1275,23 +1277,23 @@
           "text": "Acerca da coleta para os necessitados da Judeia"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "Os projetos de Paulo"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Acerca de Timóteo e Apolo"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "As exortações finais"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "Estéfanas, Fortunato e Acaico"
         },
         {
-          "beforeVerse": 18,
+          "beforeVerse": 19,
           "text": "Saudações e a bênção"
         }
       ]

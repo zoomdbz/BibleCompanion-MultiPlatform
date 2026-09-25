@@ -100,7 +100,7 @@
           "text": "人口調査"
         },
         {
-          "beforeVerse": 46,
+          "beforeVerse": 47,
           "text": "レビ人の任務"
         }
       ]
@@ -284,27 +284,27 @@
           "text": "レビ人の務め"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "レビ人の人口調査"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "ゲルションの氏族とその務め"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "ケハトの氏族とその務め"
         },
         {
-          "beforeVerse": 32,
+          "beforeVerse": 33,
           "text": "メラリの氏族とその務め"
         },
         {
-          "beforeVerse": 37,
+          "beforeVerse": 38,
           "text": "モーセおよびアロンとその子らの務め"
         },
         {
-          "beforeVerse": 39,
+          "beforeVerse": 40,
           "text": "イスラエル人の代わりをするレビ人"
         }
       ]
@@ -407,15 +407,15 @@
           "text": "ケハトの氏族とその務め"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "ゲルションの氏族とその務め"
         },
         {
-          "beforeVerse": 28,
+          "beforeVerse": 29,
           "text": "メラリの氏族とその務め"
         },
         {
-          "beforeVerse": 33,
+          "beforeVerse": 34,
           "text": "レビ人の人口調査"
         }
       ]
@@ -500,11 +500,11 @@
           "text": "汚れた者を分離せよ"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "祭司が受ける分"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "姦淫の疑惑を持たれた妻の判決法"
         }
       ]
@@ -585,7 +585,7 @@
           "text": "ナジル人の誓願"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "祭司による祝福"
         }
       ]
@@ -728,7 +728,7 @@
           "text": "イスラエルの指導者の献げ物"
         },
         {
-          "beforeVerse": 88,
+          "beforeVerse": 89,
           "text": "神、モーセに語りかけられる"
         }
       ]
@@ -803,11 +803,11 @@
           "text": "燭台のともし火皿"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "レビ人の清めの儀式"
         },
         {
-          "beforeVerse": 22,
+          "beforeVerse": 23,
           "text": "レビ人の任期"
         }
       ]
@@ -879,7 +879,7 @@
           "text": "月遅れの過越の規定"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "雲が幕屋を覆う"
         }
       ]
@@ -969,15 +969,15 @@
           "text": "二本の銀のラッパ"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "シナイ出発"
         },
         {
-          "beforeVerse": 28,
+          "beforeVerse": 29,
           "text": "モーセとホバブ"
         },
         {
-          "beforeVerse": 32,
+          "beforeVerse": 33,
           "text": "契約の箱"
         }
       ]
@@ -1066,7 +1066,7 @@
           "text": "民の不満"
         },
         {
-          "beforeVerse": 30,
+          "beforeVerse": 31,
           "text": "うずら"
         }
       ]
@@ -1314,7 +1314,7 @@
           "text": "民の反抗"
         },
         {
-          "beforeVerse": 38,
+          "beforeVerse": 39,
           "text": "土地侵入の最初の企て"
         }
       ]
@@ -1409,11 +1409,11 @@
           "text": "献げ物に関する補則"
         },
         {
-          "beforeVerse": 31,
+          "beforeVerse": 32,
           "text": "安息日の違反"
         },
         {
-          "beforeVerse": 36,
+          "beforeVerse": 37,
           "text": "衣服の房"
         }
       ]
@@ -1575,16 +1575,8 @@
           "text": "香炉"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "アロン、民を救う"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "アロンの杖"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "祭司とレビ人に関する規定"
         }
       ]
     },
@@ -1663,7 +1655,16 @@
         }
       ],
       "keyTakeaway": "神はアロンとその息子たちを祭司に任じ、聖所と祭壇への責任を彼らだけに負わせる。恒久的な報酬として、イスラエルの聖なるささげ物と初物の分け前を与え、レビ人を補佐役に任じる。レビ人は天幕での奉仕と引き換えに、民の十分の一を受け取る。",
-      "headings": []
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "アロンの杖"
+        },
+        {
+          "beforeVerse": 1,
+          "text": "祭司とレビ人に関する規定"
+        }
+      ]
     },
     {
       "id": "numbers-19",
@@ -1815,11 +1816,11 @@
           "text": "メリバの水"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "エドム王との交渉"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "アロンの死"
         }
       ]
@@ -1913,15 +1914,15 @@
           "text": "カナン人に対する勝利"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "青銅の蛇"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "モアブの谷までの旅"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "シホンとオグに対する勝利"
         }
       ]
@@ -2016,15 +2017,15 @@
           "text": "バラクとバラム"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "バラムとろば"
         },
         {
-          "beforeVerse": 35,
+          "beforeVerse": 36,
           "text": "バラクとバラムの会見"
         },
         {
-          "beforeVerse": 40,
+          "beforeVerse": 41,
           "text": "バラムの託宣"
         }
       ]
@@ -2104,11 +2105,11 @@
       "keyTakeaway": "バラクは二度、七つの祭壇を築いて雄牛と雄羊をささげるが、そのたびに主はバラムの口にことばを授け、のろいの代わりにイスラエルを祝福させる。神がのろわない者をのろうことはできず、神は人のように偽ることをせず、どんな占いもイスラエルには通じない。いら立ったバラクは、もう一度試そうとバラムをペオルの頂へ連れて行く。",
       "headings": [
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "バラムの第二の託宣"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "バラムの第三の託宣"
         }
       ]
@@ -2253,10 +2254,6 @@
         {
           "beforeVerse": 1,
           "text": "ペオルにおけるイスラエル"
-        },
-        {
-          "beforeVerse": 18,
-          "text": "第二の人口調査"
         }
       ]
     },
@@ -2363,7 +2360,12 @@
         }
       ],
       "keyTakeaway": "モーセとエルアザルはモアブの草原でイスラエルの人口調査を行い、十二部族に属する二十歳以上の男子601,730人を記録する。主は、人口に応じて土地の相続地を割り当て、くじで分配するよう命じられる。レビ人は別に数えられて23,000人となり、土地の相続地を受けない。荒野で最初に数えられた世代のうち、カレブとヨシュア以外は一人も残っていない。",
-      "headings": []
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "第二の人口調査"
+        }
+      ]
     },
     {
       "id": "numbers-27",
@@ -2432,7 +2434,7 @@
           "text": "ツェロフハドの娘たちの申し出"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "モーセの後継者ヨシュアの任命"
         }
       ]
@@ -2517,23 +2519,23 @@
           "text": "献げ物の規定"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "日ごとの献げ物"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "安息日の献げ物"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "一日の献げ物"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "除酵祭の献げ物"
         },
         {
-          "beforeVerse": 25,
+          "beforeVerse": 26,
           "text": "七週祭の献げ物"
         }
       ]
@@ -2627,11 +2629,11 @@
           "text": "第七の月の一日の献げ物"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "第七の月の十日の献げ物"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "第七の月の十五日の献げ物"
         }
       ]
@@ -2805,11 +2807,11 @@
           "text": "ミディアンに対する復讐"
         },
         {
-          "beforeVerse": 24,
+          "beforeVerse": 25,
           "text": "分捕り品の分配"
         },
         {
-          "beforeVerse": 47,
+          "beforeVerse": 48,
           "text": "指揮官たちの献げ物"
         }
       ]
@@ -3011,7 +3013,7 @@
           "text": "エジプトを出てからの旅程"
         },
         {
-          "beforeVerse": 49,
+          "beforeVerse": 50,
           "text": "ヨルダン川を渡るにあたっての命令"
         }
       ]
@@ -3094,7 +3096,7 @@
           "text": "イスラエルの嗣業の土地"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "土地配分のために選ばれた人々"
         }
       ]
@@ -3207,7 +3209,7 @@
           "text": "レビ人の町"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "逃れの町"
         }
       ]

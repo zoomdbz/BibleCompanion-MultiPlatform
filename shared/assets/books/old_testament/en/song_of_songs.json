@@ -80,38 +80,38 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "The Bride Confesses Her Love The Bride"
+          "text": "The Bride Confesses Her Love"
         },
         {
-          "beforeVerse": 4,
-          "text": "The Friends The Bride"
-        },
-        {
-          "beforeVerse": 7,
-          "text": "The Friends"
+          "beforeVerse": 2,
+          "text": "The Bride"
         },
         {
           "beforeVerse": 8,
-          "text": "The Bridegroom"
-        },
-        {
-          "beforeVerse": 10,
           "text": "The Friends"
         },
         {
-          "beforeVerse": 11,
-          "text": "The Bride"
-        },
-        {
-          "beforeVerse": 14,
+          "beforeVerse": 9,
           "text": "The Bridegroom"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 11,
+          "text": "The Friends"
+        },
+        {
+          "beforeVerse": 12,
           "text": "The Bride"
         },
         {
+          "beforeVerse": 15,
+          "text": "The Bridegroom"
+        },
+        {
           "beforeVerse": 16,
+          "text": "The Bride"
+        },
+        {
+          "beforeVerse": 17,
           "text": "The Bridegroom"
         }
       ]
@@ -194,22 +194,26 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "The Bride’s Admiration The Bride The Bridegroom"
+          "text": "The Bride’s Admiration\nThe Bride"
         },
         {
           "beforeVerse": 2,
-          "text": "The Bride"
-        },
-        {
-          "beforeVerse": 13,
           "text": "The Bridegroom"
         },
         {
+          "beforeVerse": 3,
+          "text": "The Bride"
+        },
+        {
           "beforeVerse": 14,
-          "text": "The Friends"
+          "text": "The Bridegroom"
         },
         {
           "beforeVerse": 15,
+          "text": "The Friends"
+        },
+        {
+          "beforeVerse": 16,
           "text": "The Bride"
         }
       ]
@@ -283,7 +287,7 @@
           "text": "The Bride’s Dream"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "Solomon Arrives on His Wedding Day"
         }
       ]
@@ -370,10 +374,10 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Solomon Admires His Bride The Bridegroom"
+          "text": "Solomon Admires His Bride\nThe Bridegroom"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "The Bride"
         }
       ]
@@ -450,14 +454,18 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "The Bride and Her Beloved The Bridegroom The Friends The Bride"
+          "text": "The Bride and Her Beloved\nThe Bridegroom"
         },
         {
-          "beforeVerse": 8,
-          "text": "The Friends"
+          "beforeVerse": 2,
+          "text": "The Bride"
         },
         {
           "beforeVerse": 9,
+          "text": "The Friends"
+        },
+        {
+          "beforeVerse": 10,
           "text": "The Bride"
         }
       ]
@@ -530,27 +538,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Together in the Garden The Friends The Bride"
+          "text": "Together in the Garden\nThe Friends"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 2,
+          "text": "The Bride"
+        },
+        {
+          "beforeVerse": 4,
           "text": "The Bridegroom"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "The Friends"
         },
         {
           "beforeVerse": 10,
-          "text": "The Bridegroom"
-        },
-        {
-          "beforeVerse": 12,
           "text": "The Friends"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 11,
           "text": "The Bridegroom"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "The Friends"
         }
       ]
     },
@@ -624,10 +632,6 @@
         {
           "beforeVerse": 1,
           "text": "Admiration by the Bridegroom"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "The Bride"
         }
       ]
     },
@@ -709,27 +713,23 @@
           "text": "Longing for Her Beloved"
         },
         {
-          "beforeVerse": 4,
-          "text": "The Friends"
-        },
-        {
           "beforeVerse": 5,
-          "text": "The Bride"
-        },
-        {
-          "beforeVerse": 7,
           "text": "The Friends"
         },
         {
-          "beforeVerse": 9,
-          "text": "The Bride"
+          "beforeVerse": 8,
+          "text": "The Friends"
         },
         {
-          "beforeVerse": 12,
-          "text": "The Bridegroom"
+          "beforeVerse": 10,
+          "text": "The Bride"
         },
         {
           "beforeVerse": 13,
+          "text": "The Bridegroom"
+        },
+        {
+          "beforeVerse": 14,
           "text": "The Bride"
         }
       ]

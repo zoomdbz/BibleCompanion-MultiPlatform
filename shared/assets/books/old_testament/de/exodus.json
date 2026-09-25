@@ -153,7 +153,7 @@
           "text": "Mose wird geboren"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "Mose flieht nach Midian"
         }
       ]
@@ -315,7 +315,7 @@
           "text": "Moses Einwände"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "Mose kehrt nach Ägypten zurück"
         }
       ]
@@ -387,7 +387,7 @@
           "text": "Mose und Aaron vor dem Pharao"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Die Unterdrückung wird härter"
         }
       ]
@@ -471,11 +471,11 @@
           "text": "Gott wiederholt seinen Auftrag an Mose"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "Moses und Aarons Herkunft"
         },
         {
-          "beforeVerse": 27,
+          "beforeVerse": 28,
           "text": "Gott sendet Mose und Aaron"
         }
       ]
@@ -550,16 +550,12 @@
       "keyTakeaway": "Der HERR weist Mose und Aaron an, dem Pharao entgegenzutreten; Aarons Stab wird zur Schlange und verschlingt die Stäbe der Zauberer des Pharao, doch das Herz des Pharao verstockt sich. Mose schlägt darauf mit seinem Stab den Nil und verwandelt alles Wasser in ganz Ägypten in Blut, doch die Zauberer des Pharao machen es nach, und der Pharao weigert sich zu hören.",
       "headings": [
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Der Pharao bleibt hart"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "Das erste Strafgericht: Wasser wird zu Blut"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "Das zweite Strafgericht: Frösche"
         }
       ]
     },
@@ -641,11 +637,15 @@
       "keyTakeaway": "Gott sendet Frösche, Stechmücken und Hundsfliegen als Plagen über Ägypten; der Pharao sagt jedes Mal zu, Israel freizugeben, wenn die Plage einsetzt, verstockt dann sein Herz und weigert sich, sobald sie aufhört.",
       "headings": [
         {
-          "beforeVerse": 11,
+          "beforeVerse": 1,
+          "text": "Das zweite Strafgericht: Frösche"
+        },
+        {
+          "beforeVerse": 12,
           "text": "Das dritte Strafgericht: Stechmücken"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "Das vierte Strafgericht: Fliegen"
         }
       ]
@@ -734,11 +734,11 @@
           "text": "Das fünfte Strafgericht: Viehpest"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Das sechste Strafgericht: Geschwüre"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "Das siebte Strafgericht: Hagel"
         }
       ]
@@ -821,7 +821,7 @@
           "text": "Das achte Strafgericht: Heuschrecken"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "Das neunte Strafgericht: Finsternis"
         }
       ]
@@ -1011,19 +1011,19 @@
           "text": "Das Passahfest"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "Das Fest der ungesäuerten Brote"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "Das zehnte Strafgericht: die Tötung der Erstgeborenen"
         },
         {
-          "beforeVerse": 33,
+          "beforeVerse": 34,
           "text": "Die Israeliten verlassen Ägypten"
         },
         {
-          "beforeVerse": 42,
+          "beforeVerse": 43,
           "text": "Vorschriften für das Passahfest"
         }
       ]
@@ -1104,11 +1104,11 @@
           "text": "Ein Fest zur Erinnerung an die Befreiung"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "Die Erstgeborenen gehören dem Herrn"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "Der Herr führt sein Volk"
         }
       ]
@@ -1280,7 +1280,7 @@
           "text": "Das Lied Moses"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "Auf dem Weg zum Berg Sinai Ich bin der Herr, der euch heilt!"
         }
       ]
@@ -1451,7 +1451,7 @@
           "text": "Wasser aus dem Felsen"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Der Kampf gegen die Amalekiter"
         }
       ]
@@ -1527,7 +1527,7 @@
           "text": "Jitro besucht Mose"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "Mose bekommt Hilfe"
         }
       ]
@@ -1616,7 +1616,7 @@
           "text": "Gottes Bund mit seinem Volk Die Ankunft am Berg Sinai"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "Der Herr erscheint"
         }
       ]
@@ -1711,7 +1711,7 @@
           "text": "Die Zehn Gebote"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "Vorschriften für das Errichten von Altären"
         }
       ]
@@ -1821,20 +1821,16 @@
           "text": "Die Rechte israelitischer Sklaven und Sklavinnen"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "Strafen für schwere Verbrechen"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "Körperverletzungen"
         },
         {
-          "beforeVerse": 27,
+          "beforeVerse": 28,
           "text": "Schadensersatz"
-        },
-        {
-          "beforeVerse": 36,
-          "text": "Gesetze zum Schutz des Eigentums"
         }
       ]
     },
@@ -1923,19 +1919,23 @@
       "keyTakeaway": "Gesetze regeln Diebstahl und Ersatz, mit Strafen von doppelter Erstattung bis zum Tod je nach Vergehen; weitere Bestimmungen behandeln Sachschaden, geliehene Tiere, Verführung, Zauberei, Götzendienst, den Umgang mit Fremden und Armen, das Leihen und die Gaben an Gott.",
       "headings": [
         {
-          "beforeVerse": 14,
+          "beforeVerse": 1,
+          "text": "Gesetze zum Schutz des Eigentums"
+        },
+        {
+          "beforeVerse": 15,
           "text": "Verführung eines Mädchens"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "Vergehen, die mit dem Tod bestraft werden"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Schutzbestimmungen für die Schwachen"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "Verpflichtungen gegenüber Gott"
         }
       ]
@@ -2037,15 +2037,15 @@
           "text": "Gerechtigkeit vor Gericht und Feindesliebe"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Sabbatgebote"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "Die drei Jahresfeste"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Der Engel des Herrn wird Israel führen"
         }
       ]
@@ -2122,7 +2122,7 @@
           "text": "Der Herr schließt einen Bund mit Israel"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "Gott spricht mit Mose auf dem Berg"
         }
       ]
@@ -2251,15 +2251,15 @@
           "text": "Der Bau des heiligen Zeltes Gott will bei seinem Volk wohnen"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Die Bundeslade"
         },
         {
-          "beforeVerse": 22,
+          "beforeVerse": 23,
           "text": "Der Tisch für die Gott geweihten Brote"
         },
         {
-          "beforeVerse": 30,
+          "beforeVerse": 31,
           "text": "Der siebenarmige Leuchter"
         }
       ]
@@ -2355,7 +2355,7 @@
           "text": "Decken und Wände für das heilige Zelt"
         },
         {
-          "beforeVerse": 30,
+          "beforeVerse": 31,
           "text": "Vorhänge für das heilige Zelt"
         }
       ]
@@ -2430,11 +2430,11 @@
           "text": "Der Brandopferaltar"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "Der Vorhof"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Das Öl für den Leuchter"
         }
       ]
@@ -2536,23 +2536,23 @@
           "text": "Die Kleidung der Priester"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "Der Priesterschurz"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "Die Brusttasche"
         },
         {
-          "beforeVerse": 30,
+          "beforeVerse": 31,
           "text": "Das Obergewand"
         },
         {
-          "beforeVerse": 35,
+          "beforeVerse": 36,
           "text": "Das Schild auf der Stirn, das Untergewand und der Turban"
         },
         {
-          "beforeVerse": 39,
+          "beforeVerse": 40,
           "text": "Die Ausstattung der Priester"
         }
       ]
@@ -2662,7 +2662,7 @@
           "text": "Anweisungen für die Einsetzung der Priester"
         },
         {
-          "beforeVerse": 37,
+          "beforeVerse": 38,
           "text": "Das tägliche Opfer"
         }
       ]
@@ -2799,19 +2799,19 @@
           "text": "Der Räucheropferaltar"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "Eine Abgabe für das Heiligtum"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "Das bronzene Wasserbecken"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "Das heilige Salböl"
         },
         {
-          "beforeVerse": 33,
+          "beforeVerse": 34,
           "text": "Das Räucheropfer"
         }
       ]
@@ -2883,11 +2883,11 @@
           "text": "Die Kunsthandwerker"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "Der Sabbat"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "Die Übergabe der Gesetzestafeln"
         }
       ]
@@ -2976,11 +2976,11 @@
           "text": "Das Goldene Kalb"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "Mose bittet für sein Volk"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "Die Folgen des Götzendienstes"
         }
       ]
@@ -3057,11 +3057,11 @@
           "text": "Ohne Gott ins verheißene Land?"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "Das Zelt der Begegnung"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "Mose tritt für sein Volk ein"
         }
       ]
@@ -3155,11 +3155,11 @@
           "text": "Gott erneuert den Bund mit seinem Volk"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "Die jährlichen Feste"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "Der Glanz auf Moses Gesicht"
         }
       ]
@@ -3253,11 +3253,11 @@
           "text": "Der Sabbat als Ruhetag"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "Freiwillige Gaben für den Bau des Heiligtums"
         },
         {
-          "beforeVerse": 29,
+          "beforeVerse": 30,
           "text": "Die Kunsthandwerker Bezalel und Oholiab"
         }
       ]
@@ -3344,11 +3344,11 @@
           "text": "Die Opferbereitschaft der Israeliten"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Decken und Wände für das heilige Zelt"
         },
         {
-          "beforeVerse": 34,
+          "beforeVerse": 35,
           "text": "Vorhänge für das heilige Zelt"
         }
       ]
@@ -3441,15 +3441,15 @@
           "text": "Die Bundeslade"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Der Tisch für die Gott geweihten Brote"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "Der siebenarmige Leuchter"
         },
         {
-          "beforeVerse": 24,
+          "beforeVerse": 25,
           "text": "Der Räucheropferaltar, das Salböl und die Weihrauchmischung"
         }
       ]
@@ -3539,11 +3539,11 @@
           "text": "Der Brandopferaltar und das bronzene Wasserbecken"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "Der Vorhof"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "Das Baumaterial"
         }
       ]
@@ -3635,19 +3635,19 @@
           "text": "Der Priesterschurz"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Die Brusttasche"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "Das Obergewand"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "Die Ausstattung der Priester"
         },
         {
-          "beforeVerse": 31,
+          "beforeVerse": 32,
           "text": "Die Arbeit am Heiligtum ist beendet"
         }
       ]
@@ -3734,11 +3734,11 @@
           "text": "Anweisungen für die Errichtung des Heiligtums"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "Das Heiligtum wird errichtet"
         },
         {
-          "beforeVerse": 33,
+          "beforeVerse": 34,
           "text": "Gottes Herrlichkeit erfüllt das Heiligtum"
         }
       ]

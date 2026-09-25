@@ -79,19 +79,19 @@
           "text": "엘가나 가족이 실로에서 예배드리다"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "브닌나가 한나를 괴롭히다"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "한나의 기도"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "사무엘의 출생"
         },
         {
-          "beforeVerse": 23,
+          "beforeVerse": 24,
           "text": "한나가 사무엘을 엘리에게 데려가다"
         }
       ]
@@ -181,15 +181,15 @@
           "text": "한나의 기도"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "엘리의 악한 아들들"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "엘리가 악한 아들들을 다스리지 못하다"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "엘리 집안에 내린 무서운 예언"
         }
       ]
@@ -331,7 +331,7 @@
           "text": "이스라엘이 블레셋에게 패하다"
         },
         {
-          "beforeVerse": 18,
+          "beforeVerse": 19,
           "text": "영광이 떠나다"
         }
       ]
@@ -526,11 +526,11 @@
       "keyTakeaway": "이스라엘은 우상 숭배를 회개하고 미스바에 모인다. 블레셋 사람들이 공격하자 사무엘이 제사를 드리고, 여호와께서 우레로 그들을 물리쳐 블레셋의 세력을 꺾으신다. 사무엘은 에벤에셀이라는 기념 돌을 세우고, 남은 평생 여러 성읍을 순회하며 이스라엘의 사사로 다스린다.",
       "headings": [
         {
-          "beforeVerse": 2,
+          "beforeVerse": 3,
           "text": "주께서 이스라엘을 구원하시다"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "이스라엘에 평화가 찾아오다"
         }
       ]
@@ -755,20 +755,16 @@
           "text": "사무엘이 사울에게 기름 붓다"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "사울이 예언자와 같이 되다"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "사울이 집에 도착하다"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "사무엘이 사울을 왕으로 선포하다"
-        },
-        {
-          "beforeVerse": 27,
-          "text": "암몬 왕 나하스"
         }
       ]
     },
@@ -827,7 +823,11 @@
       "keyTakeaway": "나하스는 야베스 길르앗을 포위하고 그곳 남자들의 오른쪽 눈을 빼겠다고 요구한다. 사울은 이스라엘을 소집해 야간 공격으로 암몬 사람들을 격파하고, 길갈에서 공개적으로 왕으로 확증된다.",
       "headings": [
         {
-          "beforeVerse": 3,
+          "beforeVerse": 1,
+          "text": "암몬 왕 나하스"
+        },
+        {
+          "beforeVerse": 4,
           "text": "사울이 길르앗 야베스를 구하다"
         }
       ]
@@ -974,7 +974,7 @@
           "text": "사울의 첫 번째 잘못"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "믹마스 전투"
         }
       ]
@@ -1080,11 +1080,11 @@
           "text": "요나단이 블레셋을 습격하다"
         },
         {
-          "beforeVerse": 23,
+          "beforeVerse": 24,
           "text": "사울의 또 다른 실수"
         },
         {
-          "beforeVerse": 46,
+          "beforeVerse": 47,
           "text": "사울이 이스라엘의 적들과 싸우다"
         }
       ]
@@ -1173,7 +1173,7 @@
           "text": "사울이 아말렉을 쳐부수다"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "사무엘이 사울의 죄를 지적하다"
         }
       ]
@@ -1240,7 +1240,7 @@
           "text": "사무엘이 베들레헴으로 가다"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "악한 영이 사울을 괴롭히다"
         }
       ]
@@ -1367,15 +1367,15 @@
           "text": "이스라엘이 골리앗의 도전을 받다"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "다윗이 전선으로 가다"
         },
         {
-          "beforeVerse": 40,
+          "beforeVerse": 41,
           "text": "다윗이 골리앗을 죽이다"
         },
         {
-          "beforeVerse": 54,
+          "beforeVerse": 55,
           "text": "사울이 다윗을 두려워하기 시작하다"
         }
       ]
@@ -1454,15 +1454,15 @@
           "text": "다윗과 요나단이 친구가 되다"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "다윗이 점점 유명해지다"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "사울이 다윗을 두려워하다"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "다윗이 사울의 사위가 되다"
         }
       ]
@@ -1535,11 +1535,11 @@
           "text": "요나단이 다윗을 돕다"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "사울이 또다시 다윗을 죽이려고 하다"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "다윗이 라마로 가다"
         }
       ]
@@ -1630,11 +1630,11 @@
           "text": "다윗과 요나단의 맹세"
         },
         {
-          "beforeVerse": 24,
+          "beforeVerse": 25,
           "text": "사울이 요나단에게 화를 내다"
         },
         {
-          "beforeVerse": 34,
+          "beforeVerse": 35,
           "text": "다윗과 요나단이 작별 인사를 나누다"
         }
       ]
@@ -1703,7 +1703,7 @@
           "text": "다윗이 제사장 아히멜렉을 만나러 가다"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "다윗이 가드에 있는 적에게로 도망가다"
         }
       ]
@@ -1780,7 +1780,7 @@
           "text": "다윗이 여러 곳으로 피해 다니다"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "사울이 아히멜렉의 집안사람들을 죽이다"
         }
       ]
@@ -1858,11 +1858,11 @@
           "text": "다윗이 그일라를 구하다"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "사울이 다윗을 뒤쫓다"
         },
         {
-          "beforeVerse": 18,
+          "beforeVerse": 19,
           "text": "십 사람들이 사울에게 다윗의 숨은 곳을 알려주다"
         }
       ]
@@ -2032,11 +2032,11 @@
           "text": "다윗과 어리석은 나발"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "아비가일이 재앙을 막다"
         },
         {
-          "beforeVerse": 35,
+          "beforeVerse": 36,
           "text": "나발의 죽음"
         }
       ]
@@ -2110,7 +2110,7 @@
           "text": "다윗과 아비새가 사울 진에 들어가다"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "다윗이 사울을 또 다시 부끄럽게 하다"
         }
       ]
@@ -2171,7 +2171,7 @@
           "text": "다윗이 블레셋 땅으로 가서 살다"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "다윗이 아기스 왕을 속이다"
         }
       ]
@@ -2250,7 +2250,7 @@
           "text": "블레셋이 전쟁을 준비하다"
         },
         {
-          "beforeVerse": 2,
+          "beforeVerse": 3,
           "text": "사울이 엔돌에 있는 무당을 찾아가다"
         }
       ]
@@ -2386,15 +2386,15 @@
           "text": "아말렉 사람들이 시글락을 공격하다"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "다윗과 그의 부하들이 이집트 사람을 만나다"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "다윗이 아말렉을 치다"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "전리품을 똑같이 나누다"
         }
       ]
@@ -2461,7 +2461,7 @@
           "text": "사울이 죽다"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "블레셋군이 사울의 죽음을 환호하다"
         }
       ]

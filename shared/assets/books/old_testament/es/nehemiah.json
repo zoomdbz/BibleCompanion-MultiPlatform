@@ -138,7 +138,7 @@
           "text": "Artajerjes envía a Nehemías a Jerusalén"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "Nehemías anima al pueblo a reedificar los muros"
         }
       ]
@@ -568,12 +568,8 @@
           "text": "Nehemías designa dirigentes"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "Los que volvieron con Zorobabel"
-        },
-        {
-          "beforeVerse": 73,
-          "text": "Esdras lee la ley al pueblo"
         }
       ]
     },
@@ -642,7 +638,13 @@
           "note": "Un rollo, no un códice: hojas de piel preparada cosidas de extremo a extremo y enrolladas en dos varas, que se leía desenrollando con una mano y enrollando con la otra. Cuando Esdras lo abre a la vista de todo el pueblo, ellos pueden verlo hacerlo, y por eso 8:5 dice que todos se pusieron de pie en ese momento."
         }
       ],
-      "keyTakeaway": "Esdras lee la Ley públicamente, los levitas la explican, y el pueblo celebra la Fiesta de las Cabañas con gran gozo."
+      "keyTakeaway": "Esdras lee la Ley públicamente, los levitas la explican, y el pueblo celebra la Fiesta de las Cabañas con gran gozo.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esdras lee la ley al pueblo"
+        }
+      ]
     },
     {
       "id": "nehemiah-9",
@@ -736,7 +738,7 @@
           "text": "Esdras confiesa los pecados de Israel"
         },
         {
-          "beforeVerse": 37,
+          "beforeVerse": 38,
           "text": "Pacto del pueblo, de guardar la ley"
         }
       ]
@@ -914,7 +916,7 @@
           "text": "Los habitantes de Jerusalén"
         },
         {
-          "beforeVerse": 24,
+          "beforeVerse": 25,
           "text": "Lugares habitados fuera de Jerusalén"
         }
       ]
@@ -1015,11 +1017,11 @@
           "text": "Sacerdotes y levitas"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "Dedicación del muro"
         },
         {
-          "beforeVerse": 43,
+          "beforeVerse": 44,
           "text": "Porciones para sacerdotes y levitas"
         }
       ]

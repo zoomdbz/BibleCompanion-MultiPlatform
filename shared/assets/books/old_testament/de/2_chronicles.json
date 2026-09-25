@@ -68,12 +68,8 @@
           "text": "König Salomos Regierungszeit und der Bau des Tempels König Salomo bittet um Weisheit"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "Salomos Reichtum und Ansehen"
-        },
-        {
-          "beforeVerse": 17,
-          "text": "Die ersten Vorbereitungen für den Tempelbau"
         }
       ]
     },
@@ -138,7 +134,12 @@
         }
       ],
       "keyTakeaway": "Salomo hebt Zehntausende von Arbeitern aus und schickt Hiram, dem König von Tyrus, eine genaue Anforderung für Zedernholz und einen kundigen Handwerker; Hiram sagt zu, Huram-Abi und Bauholz zu senden, im Austausch gegen Weizen, Gerste, Wein und Olivenöl.",
-      "headings": []
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Die ersten Vorbereitungen für den Tempelbau"
+        }
+      ]
     },
     {
       "id": "2chronicles-3",
@@ -216,11 +217,11 @@
           "text": "Der Bau des Tempels"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Das Allerheiligste"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "Die beiden Säulen am Tempeleingang"
         }
       ]
@@ -306,19 +307,19 @@
           "text": "Der Altar, das Becken und die Kessel aus Bronze"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "Die goldenen Leuchter und Tische"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "Der Vorhof"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "Liste der Gegenstände, die Hiram herstellte"
         },
         {
-          "beforeVerse": 18,
+          "beforeVerse": 19,
           "text": "Die Inneneinrichtung des Tempels"
         }
       ]
@@ -474,11 +475,11 @@
       "keyTakeaway": "Salomo segnet die versammelten Kinder Israels, erzählt, wie Gott Jerusalem und das Haus Davids erwählte, und spricht auf dem ehernen Podium ein langes Gebet, in dem er Gott bittet, das Flehen zu hören, das zu diesem Haus hin geschieht, in den verschiedensten Lagen, beim Eid, bei Niederlage im Krieg, bei Dürre, Hungersnot, Seuche und Gefangenschaft.",
       "headings": [
         {
-          "beforeVerse": 2,
+          "beforeVerse": 3,
           "text": "Salomos Ansprache zur Einweihung des Tempels"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "Salomos Gebet zur Einweihung des Tempels"
         }
       ]
@@ -554,7 +555,7 @@
           "text": "Ein Opferfest zur Einweihung des Tempels"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "Gott spricht mit Salomo"
         }
       ]
@@ -626,7 +627,7 @@
           "text": "Salomos Amtsführung"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "Ordnung des Tempeldienstes"
         }
       ]
@@ -711,11 +712,11 @@
           "text": "Die Königin von Saba besucht Salomo"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "Salomos Reichtum und Ansehen"
         },
         {
-          "beforeVerse": 28,
+          "beforeVerse": 29,
           "text": "Salomos Tod"
         }
       ]
@@ -861,15 +862,15 @@
           "text": "Rehabeam soll Israel nicht zurückerobern"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "Rehabeam festigt seine Macht"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "Priester und Leviten siedeln nach Juda um"
         },
         {
-          "beforeVerse": 17,
+          "beforeVerse": 18,
           "text": "Rehabeams Familie"
         }
       ]
@@ -939,7 +940,7 @@
           "text": "Die Ägypter erobern Juda"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "Rehabeams Tod"
         }
       ]
@@ -1079,7 +1080,7 @@
           "text": "König Asa von Juda"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "Der Sieg über die Äthiopier"
         }
       ]
@@ -1216,7 +1217,7 @@
           "text": "Asas Bündnis mit Syrien"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "Asas letzte Jahre und sein Tod"
         }
       ]
@@ -1383,7 +1384,7 @@
           "text": "Wer sagt die Wahrheit – Ahabs Propheten oder Micha?"
         },
         {
-          "beforeVerse": 27,
+          "beforeVerse": 28,
           "text": "König Ahab fällt in der Schlacht bei Ramot"
         }
       ]
@@ -1444,7 +1445,7 @@
       "keyTakeaway": "Jehu, der Seher, weist Josaphat zurecht, weil er sich mit dem Gottlosen verbündet hat, lobt ihn aber, weil er die Ascherapfähle beseitigt hat; darauf bestellt Josaphat Richter in ganz Juda und einen Gerichtshof in Jerusalem, die Gottes Gesetz redlich und ohne Bestechung handhaben sollen.",
       "headings": [
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "Joschafat ordnet das Rechtswesen neu"
         }
       ]
@@ -1545,11 +1546,11 @@
           "text": "Die Ammoniter bedrohen Juda"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Der Sieg über die Ammoniter"
         },
         {
-          "beforeVerse": 30,
+          "beforeVerse": 31,
           "text": "Joschafats letzte Jahre und sein Tod"
         }
       ]
@@ -1685,7 +1686,7 @@
           "text": "König Ahasja von Juda"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Atalja reißt die Herrschaft an sich"
         }
       ]
@@ -1837,7 +1838,7 @@
           "text": "König Joasch lässt den Tempel ausbessern"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "König Joasch wendet sich vom Herrn ab"
         }
       ]
@@ -1924,19 +1925,19 @@
           "text": "König Amazja von Juda"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "Amazjas Krieg gegen die Edomiter"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "Amazja verehrt andere Götter"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 17,
           "text": "Amazja führt Krieg gegen König Joasch von Israel"
         },
         {
-          "beforeVerse": 24,
+          "beforeVerse": 25,
           "text": "Amazjas Tod"
         }
       ]
@@ -2008,7 +2009,7 @@
           "text": "König Usija von Juda"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "Usija wird hochmütig"
         }
       ]
@@ -2146,11 +2147,11 @@
           "text": "König Ahas von Juda"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "Israel lässt die Gefangenen frei"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "Ahas sucht Hilfe beim König von Assyrien"
         }
       ]
@@ -2240,7 +2241,7 @@
           "text": "Die Reformen der Könige Hiskia und Josia König Hiskia öffnet den Tempel wieder"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Die Wiedereinweihung des Tempels"
         }
       ]
@@ -2321,7 +2322,7 @@
           "text": "Hiskia lädt zum Passahfest ein"
         },
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "Hiskia und das Volk feiern das Passahfest"
         }
       ]
@@ -2489,15 +2490,15 @@
           "text": "Die Assyrer fallen in Juda ein"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "Sanherib bedroht Jerusalem"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Gott selbst bestraft Sanherib"
         },
         {
-          "beforeVerse": 23,
+          "beforeVerse": 24,
           "text": "Hiskias letzte Regierungsjahre"
         }
       ]
@@ -2586,7 +2587,7 @@
           "text": "König Manasse von Juda"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "König Amon von Juda"
         }
       ]
@@ -2673,15 +2674,15 @@
           "text": "König Josia von Juda bekämpft den Götzendienst"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Josia lässt den Tempel ausbessern"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 14,
           "text": "Der Hohepriester Hilkija findet im Tempel ein Gesetzbuch"
         },
         {
-          "beforeVerse": 28,
+          "beforeVerse": 29,
           "text": "Josia schließt einen Bund mit dem Herrn"
         }
       ]
@@ -2767,7 +2768,7 @@
           "text": "Josia feiert das Passahfest"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Josias Tod"
         }
       ]
@@ -2865,19 +2866,19 @@
           "text": "Die letzten Könige von Juda bis zur Verbannung nach Babylonien König Joahas von Juda"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "König Jojakim von Juda"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "König Jojachin von Juda"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "König Zedekia von Juda und die Zerstörung Jerusalems"
         },
         {
-          "beforeVerse": 21,
+          "beforeVerse": 22,
           "text": "Kyrus erlaubt die Heimkehr aus der Verbannung"
         }
       ]

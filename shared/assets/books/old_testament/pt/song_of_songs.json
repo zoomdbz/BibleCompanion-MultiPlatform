@@ -83,23 +83,23 @@
           "text": "Primeiro cântico Esposa"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "Coro Esposa"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Esposo"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "Esposa"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "Esposo"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "Esposa"
         }
       ]
@@ -185,19 +185,19 @@
           "text": "Esposo"
         },
         {
-          "beforeVerse": 2,
+          "beforeVerse": 3,
           "text": "Esposa"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Segundo cântico"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 11,
           "text": "Esposo"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "Esposa"
         }
       ]
@@ -267,7 +267,7 @@
       "keyTakeaway": "De noite, em sua cama, a mulher busca aquele a quem sua alma ama, percorre a cidade, pergunta aos guardas, então o encontra e o leva à casa de sua mãe, conjurando as filhas de Jerusalém a não despertar o amor antes do tempo; a liteira de Salomão sobe do deserto como coluna de fumaça, escoltada por sessenta valentes, e as filhas de Sião são chamadas a contemplar o rei coroado no dia do seu casamento.",
       "headings": [
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "Terceiro cântico Coro"
         }
       ]
@@ -357,15 +357,15 @@
           "text": "Esposo"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "Esposa"
         },
         {
-          "beforeVerse": 6,
+          "beforeVerse": 7,
           "text": "Esposo"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "Esposa"
         }
       ]
@@ -445,15 +445,15 @@
           "text": "Esposo Quarto cântico Esposa"
         },
         {
-          "beforeVerse": 2,
+          "beforeVerse": 3,
           "text": "Esposo Esposa"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "Coro"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Esposa"
         }
       ]
@@ -529,24 +529,20 @@
           "text": "Coro Esposa"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "Quinto cântico Esposo"
         },
         {
-          "beforeVerse": 9,
-          "text": "Coro"
-        },
-        {
           "beforeVerse": 10,
-          "text": "Esposa"
+          "text": "Coro"
         },
         {
-          "beforeVerse": 12,
-          "text": "Coro"
+          "beforeVerse": 11,
+          "text": "Esposa"
         },
         {
           "beforeVerse": 13,
-          "text": "Esposa"
+          "text": "Coro"
         }
       ]
     },
@@ -619,10 +615,10 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Esposo"
+          "text": "Esposa\nEsposo"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "Esposa"
         }
       ]
@@ -701,35 +697,35 @@
       "keyTakeaway": "A mulher deseja que seu amado fosse seu irmão para poder demonstrar afeto publicamente, declara que o amor é mais forte que a morte e não pode ser apagado por nenhuma força, e o exorta a vir até ela rapidamente. Ela também reflete sobre a proteção de sua irmã mais nova e reivindica sua própria vinha como posse sua.",
       "headings": [
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "Sexto cântico Coro"
         },
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "Esposo"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "Coro"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "Esposa"
         },
         {
           "beforeVerse": 10,
-          "text": "Coro"
-        },
-        {
-          "beforeVerse": 11,
           "text": "Esposa"
         },
         {
+          "beforeVerse": 11,
+          "text": "Coro"
+        },
+        {
           "beforeVerse": 12,
-          "text": "Esposo"
+          "text": "Esposa"
         },
         {
           "beforeVerse": 13,
+          "text": "Esposo"
+        },
+        {
+          "beforeVerse": 14,
           "text": "Esposa"
         }
       ]

@@ -2165,7 +2165,8 @@ fun BookScreen(
                       val chStoryId = exact ?: (fallbackKey?.let { byChapter[it] })
                       val chStory = chStoryId?.let { sid -> book?.stories?.find { it.id == sid } }
                       val verseNums = chStory?.summaryBullets?.mapNotNull { bullet ->
-                        verseRefPattern.find(bullet)?.let { m ->
+                        // trailing marker, not the first "d:d" in the text (see heading lookup)
+                        verseRefPattern.findAll(bullet).lastOrNull()?.let { m ->
                           val ch = m.groupValues[1].toIntOrNull()
                           val v = m.groupValues[2].toIntOrNull()
                           if (ch == selCh && v != null) v else null
@@ -3059,7 +3060,10 @@ fun StoryCard(
                   }
                   story.summaryBullets.forEachIndexed { idx, bullet ->
                     val headingForThisBullet: String? = if (headingsByVerse.isEmpty()) null else {
-                      val m = verseRefPattern.find(bullet)
+                      // The verse marker is the trailing "(ch:v)" on every bullet. Some
+                      // localized texts (Hindi) carry cross-references inside the verse,
+                      // so the first "d:d" match is not always the marker; the last is.
+                      val m = verseRefPattern.findAll(bullet).lastOrNull()
                       val v = m?.groupValues?.get(2)?.toIntOrNull()
                       if (v != null) headingsByVerse[v] else null
                     }

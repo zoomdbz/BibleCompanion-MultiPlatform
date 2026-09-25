@@ -554,10 +554,6 @@
         {
           "beforeVerse": 1,
           "text": "Dénombrement des Israélites qui revinrent au pays de Juda sous la conduite de Zorobabel"
-        },
-        {
-          "beforeVerse": 73,
-          "text": "Lecture solennelle de la loi"
         }
       ]
     },
@@ -629,7 +625,11 @@
       "keyTakeaway": "Esdras lit la Loi en public, les lévites l'expliquent, et le peuple célèbre la fête des Huttes avec une grande joie.",
       "headings": [
         {
-          "beforeVerse": 8,
+          "beforeVerse": 1,
+          "text": "Lecture solennelle de la loi"
+        },
+        {
+          "beforeVerse": 9,
           "text": "Célébration de la fête des tabernacles"
         }
       ]
@@ -723,10 +723,6 @@
         {
           "beforeVerse": 1,
           "text": "Jeûne et confession des péchés du peuple"
-        },
-        {
-          "beforeVerse": 37,
-          "text": "Renouvellement de l’alliance"
         }
       ]
     },
@@ -819,7 +815,11 @@
       "keyTakeaway": "Néhémie, les prêtres, les lévites et les chefs du peuple signent un engagement contraignant à garder la Loi de Dieu, avec l'interdiction des mariages avec des étrangers et du commerce le jour du sabbat, et l'engagement de soutenir le temple par des contributions et des offrandes annuelles.",
       "headings": [
         {
-          "beforeVerse": 31,
+          "beforeVerse": 1,
+          "text": "Renouvellement de l’alliance"
+        },
+        {
+          "beforeVerse": 32,
           "text": "Résolutions pour l’entretien du culte"
         }
       ]
@@ -1006,11 +1006,11 @@
           "text": "Dénombrement des sacrificateurs et des Lévites"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "Dédicace des murailles de Jérusalem"
         },
         {
-          "beforeVerse": 43,
+          "beforeVerse": 44,
           "text": "Rétablissement des revenus des sacrificateurs et des Lévites"
         }
       ]

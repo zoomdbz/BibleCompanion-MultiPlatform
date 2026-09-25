@@ -233,10 +233,6 @@
         {
           "beforeVerse": 1,
           "text": "Daniels Freunde werden zum Tod verurteilt"
-        },
-        {
-          "beforeVerse": 30,
-          "text": "Daniel deutet Nebukadnezars zweiten Traum"
         }
       ]
     },
@@ -305,7 +301,12 @@
         }
       ],
       "keyTakeaway": "Nebukadnezar wird durch einen Traum gewarnt, achtet nicht darauf, wird zu einem tierhaften Leben getrieben und dann wiederhergestellt, nachdem er anerkennt, dass der Höchste herrscht.",
-      "headings": []
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Daniel deutet Nebukadnezars zweiten Traum"
+        }
+      ]
     },
     {
       "id": "daniel-5",
@@ -671,7 +672,7 @@
           "text": "Daniel bekennt die Schuld seines Volkes"
         },
         {
-          "beforeVerse": 19,
+          "beforeVerse": 20,
           "text": "Das Geheimnis der siebzig mal sieben Jahre"
         }
       ]
@@ -866,7 +867,7 @@
           "text": "Machtkämpfe zwischen den Königen des Nordens und des Südens"
         },
         {
-          "beforeVerse": 20,
+          "beforeVerse": 21,
           "text": "Der große Feind von Gottes Volk"
         }
       ]
@@ -943,7 +944,7 @@
           "text": "Die Auferstehung der Toten"
         },
         {
-          "beforeVerse": 4,
+          "beforeVerse": 5,
           "text": "Das Ende der Zeit"
         }
       ]

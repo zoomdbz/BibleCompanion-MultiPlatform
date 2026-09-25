@@ -222,10 +222,6 @@
         {
           "beforeVerse": 1,
           "text": "エルサレムの城壁の修復"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "敵の妨害"
         }
       ]
     },
@@ -295,7 +291,12 @@
         }
       ],
       "keyTakeaway": "建設者たちは絶え間ない脅威の中で、武器を手に持ちながら城壁を修復する。",
-      "headings": []
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "敵の妨害"
+        }
+      ]
     },
     {
       "id": "nehemiah-5",
@@ -562,11 +563,11 @@
           "text": "城壁の完成と警備"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "帰還した捕囚の民"
         },
         {
-          "beforeVerse": 72,
+          "beforeVerse": 73,
           "text": "モーセの律法の朗読"
         }
       ]
@@ -639,7 +640,7 @@
       "keyTakeaway": "エズラが律法を公に読み上げ、レビ人がそれを説明し、民は大きな喜びをもって仮庵の祭りを祝う。",
       "headings": [
         {
-          "beforeVerse": 12,
+          "beforeVerse": 13,
           "text": "仮庵祭"
         }
       ]
@@ -1013,7 +1014,7 @@
           "text": "帰還した祭司とレビ人の名簿"
         },
         {
-          "beforeVerse": 26,
+          "beforeVerse": 27,
           "text": "城壁の奉献"
         }
       ]

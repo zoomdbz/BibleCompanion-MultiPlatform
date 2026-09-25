@@ -83,27 +83,27 @@
           "text": "العروس"
         },
         {
-          "beforeVerse": 7,
+          "beforeVerse": 8,
           "text": "الأصدقاء"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "العريس"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 12,
           "text": "العروس"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "العريس"
         },
         {
           "beforeVerse": 15,
-          "text": "العروس"
+          "text": "العريس"
         },
         {
           "beforeVerse": 16,
+          "text": "العروس"
+        },
+        {
+          "beforeVerse": 17,
           "text": "العريس"
         }
       ]
@@ -189,19 +189,19 @@
           "text": "العروس العريس"
         },
         {
-          "beforeVerse": 2,
+          "beforeVerse": 3,
           "text": "العروس"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "العريس"
         },
         {
-          "beforeVerse": 14,
+          "beforeVerse": 15,
           "text": "الأصدقاء"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "العروس"
         }
       ]
@@ -271,7 +271,7 @@
       "keyTakeaway": "تطلب المرأة ليلا على فراشها من تحبه نفسها، فتقوم تطوف شوارع المدينة وتسأل الحرس حتى تجده فتمسكه وتدخله بيت أمها، وتستحلف بنات القدس بالغزلان وأيائل الصحراء ألا يوقظن الحب حتى يشاء؛ ومن الصحراء يطلع موكب سليمان كعمود دخان معطرا بالمر، يحيط به ستون محاربا حاملون السيوف، وتدعى بنات تصيون ليخرجن وينظرن الملك بالتاج الذي توجته به أمه يوم عرسه.",
       "headings": [
         {
-          "beforeVerse": 5,
+          "beforeVerse": 6,
           "text": "الأصدقاء"
         }
       ]
@@ -361,7 +361,7 @@
           "text": "العريس"
         },
         {
-          "beforeVerse": 15,
+          "beforeVerse": 16,
           "text": "العروس"
         }
       ]
@@ -441,11 +441,11 @@
           "text": "العريس الأصدقاء العروس"
         },
         {
-          "beforeVerse": 8,
+          "beforeVerse": 9,
           "text": "الأصدقاء"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 10,
           "text": "العروس"
         }
       ]
@@ -521,24 +521,20 @@
           "text": "الأصدقاء العروس"
         },
         {
-          "beforeVerse": 3,
+          "beforeVerse": 4,
           "text": "العريس"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "الأصدقاء"
         },
         {
           "beforeVerse": 10,
-          "text": "العريس"
-        },
-        {
-          "beforeVerse": 12,
           "text": "الأصدقاء"
         },
         {
-          "beforeVerse": 13,
+          "beforeVerse": 11,
           "text": "العريس"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "الأصدقاء"
         }
       ]
     },
@@ -610,7 +606,11 @@
       "keyTakeaway": "يُثني العاشق على جسد محبوبته بتفصيل مسهب، مشبِّهًا ملامحها بمعالم الطبيعة والعمارة، وتؤكد المحبوبة وفاءها وتدعوه إلى الريف حيث ستمنحه حبها.",
       "headings": [
         {
-          "beforeVerse": 9,
+          "beforeVerse": 1,
+          "text": "العريس"
+        },
+        {
+          "beforeVerse": 10,
           "text": "العروس"
         }
       ]
@@ -689,27 +689,27 @@
       "keyTakeaway": "تتمنى المرأة لو كان حبيبها أخاها لتُظهر له مودتها علنًا، وتُقرّر أن الحب أقوى من الموت ولا تقدر قوة على إطفائه، وتحثّه على الإسراع إليها. كما تتأمل في حماية أختها الصغيرة وتؤكد أن كرمها ملكها هي.",
       "headings": [
         {
-          "beforeVerse": 4,
-          "text": "الأصدقاء"
-        },
-        {
           "beforeVerse": 5,
-          "text": "العروس"
-        },
-        {
-          "beforeVerse": 7,
           "text": "الأصدقاء"
         },
         {
-          "beforeVerse": 9,
+          "beforeVerse": 6,
           "text": "العروس"
         },
         {
-          "beforeVerse": 12,
-          "text": "العريس"
+          "beforeVerse": 8,
+          "text": "الأصدقاء"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "العروس"
         },
         {
           "beforeVerse": 13,
+          "text": "العريس"
+        },
+        {
+          "beforeVerse": 14,
           "text": "العروس"
         }
       ]
