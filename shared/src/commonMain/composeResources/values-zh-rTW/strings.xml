@@ -327,7 +327,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">和合本修訂版 (RCUV)</string>
-    <string name="edition_fallback">本書沒有可用的 KJV 正文，目前顯示現有的英文版本。</string>
+    <string name="version_local_traditional">新標點和合本</string>
+    <string name="edition_fallback">所選版本不包含本書，目前顯示預設的應用程式內版本。</string>
     <string name="bible_chronology">聖經歷史年表</string>
     <string name="chronology_intro">本指南按照聖經所記述的事件時間編排，而不是通常的書卷順序，也不一定是各卷寫成的時間。有些書卷橫跨或重疊多個時期，部分年代位置也存在爭議。輕觸章節範圍即可在應用程式內閱讀。</string>
     <string name="chronology_include_deuterocanon">包括次經</string>

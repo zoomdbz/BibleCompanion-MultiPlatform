@@ -1,0 +1,5713 @@
+{
+  "schemaVersion": 2,
+  "editionId": "luther1912",
+  "displayName": "Lutherbibel 1912",
+  "language": "de",
+  "source": {
+    "title": "Lutherbibel 1912",
+    "url": "https://ebible.org/Scriptures/deu1912_usfm.zip",
+    "sourceDate": "2026-09-26",
+    "format": "usfm",
+    "rights": "Public domain",
+    "archiveSha256": "650A8192134A8F0057286C469754EDCFAEE4FBB18800621AEE4563F3055BB39B",
+    "extractedScriptureFileSetSha256": "0C2143DD241453827A98988DEE5BF7B809F27B481678786E504597FFA0720C66"
+  },
+  "markup": {
+    "jesusWords": "Exact source wj spans where supplied. Otherwise, only verses wholly marked as Jesus' words in the reviewed English BSB metadata inherit a whole-verse span; mixed narration and speech remain uncolored rather than coloring narration incorrectly.",
+    "translatorAdditions": "USFM add spans are preserved as [ADD] markers.",
+    "footnotesAndCrossReferences": "Source apparatus is excluded from display text."
+  },
+  "totals": {
+    "overlayBooks": 66,
+    "fallbackBooks": 19,
+    "chapters": 1189,
+    "verseUnits": 31104,
+    "coveredVerseNumbers": 31105,
+    "jesusWordSpans": 1485,
+    "inheritedJesusVerseSpans": 1485,
+    "omittedMixedJesusVerseSpans": 562,
+    "translatorAdditionSpans": 0,
+    "superscriptions": 0,
+    "promotedFootnoteVerses": 0,
+    "sourcePlaceholderVerses": 0
+  },
+  "books": [
+    {
+      "collection": "old_testament",
+      "bookId": "genesis",
+      "sourceBookCode": "GEN",
+      "sourceFile": "02-GENdeu1912.usfm",
+      "sourceFileSha256": "8DA2ED271686A720DEF5D00B302CC7FC3E150200E333B2D065780BFB019B9F4B",
+      "coverage": "full",
+      "output": "old_testament/genesis.json",
+      "chapters": 50,
+      "verseUnits": 1533,
+      "coveredVerseNumbers": 1533,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "GEN 31:55",
+            "displayReference": "GEN 32:1",
+            "historicalReference": "GEN 32:1"
+          },
+          {
+            "archiveReference": "GEN 32:1",
+            "displayReference": "GEN 32:2",
+            "historicalReference": "GEN 32:2"
+          },
+          {
+            "archiveReference": "GEN 32:2",
+            "displayReference": "GEN 32:3",
+            "historicalReference": "GEN 32:3"
+          },
+          {
+            "archiveReference": "GEN 32:3",
+            "displayReference": "GEN 32:4",
+            "historicalReference": "GEN 32:4"
+          },
+          {
+            "archiveReference": "GEN 32:4",
+            "displayReference": "GEN 32:5",
+            "historicalReference": "GEN 32:5"
+          },
+          {
+            "archiveReference": "GEN 32:5",
+            "displayReference": "GEN 32:6",
+            "historicalReference": "GEN 32:6"
+          },
+          {
+            "archiveReference": "GEN 32:6",
+            "displayReference": "GEN 32:7",
+            "historicalReference": "GEN 32:7"
+          },
+          {
+            "archiveReference": "GEN 32:7",
+            "displayReference": "GEN 32:8",
+            "historicalReference": "GEN 32:8"
+          },
+          {
+            "archiveReference": "GEN 32:8",
+            "displayReference": "GEN 32:9",
+            "historicalReference": "GEN 32:9"
+          },
+          {
+            "archiveReference": "GEN 32:9",
+            "displayReference": "GEN 32:10",
+            "historicalReference": "GEN 32:10"
+          },
+          {
+            "archiveReference": "GEN 32:10",
+            "displayReference": "GEN 32:11",
+            "historicalReference": "GEN 32:11"
+          },
+          {
+            "archiveReference": "GEN 32:11",
+            "displayReference": "GEN 32:12",
+            "historicalReference": "GEN 32:12"
+          },
+          {
+            "archiveReference": "GEN 32:12",
+            "displayReference": "GEN 32:13",
+            "historicalReference": "GEN 32:13"
+          },
+          {
+            "archiveReference": "GEN 32:13",
+            "displayReference": "GEN 32:14",
+            "historicalReference": "GEN 32:14"
+          },
+          {
+            "archiveReference": "GEN 32:14",
+            "displayReference": "GEN 32:15",
+            "historicalReference": "GEN 32:15"
+          },
+          {
+            "archiveReference": "GEN 32:15",
+            "displayReference": "GEN 32:16",
+            "historicalReference": "GEN 32:16"
+          },
+          {
+            "archiveReference": "GEN 32:16",
+            "displayReference": "GEN 32:17",
+            "historicalReference": "GEN 32:17"
+          },
+          {
+            "archiveReference": "GEN 32:17",
+            "displayReference": "GEN 32:18",
+            "historicalReference": "GEN 32:18"
+          },
+          {
+            "archiveReference": "GEN 32:18",
+            "displayReference": "GEN 32:19",
+            "historicalReference": "GEN 32:19"
+          },
+          {
+            "archiveReference": "GEN 32:19",
+            "displayReference": "GEN 32:20",
+            "historicalReference": "GEN 32:20"
+          },
+          {
+            "archiveReference": "GEN 32:20",
+            "displayReference": "GEN 32:21",
+            "historicalReference": "GEN 32:21"
+          },
+          {
+            "archiveReference": "GEN 32:21",
+            "displayReference": "GEN 32:22",
+            "historicalReference": "GEN 32:22"
+          },
+          {
+            "archiveReference": "GEN 32:22",
+            "displayReference": "GEN 32:23",
+            "historicalReference": "GEN 32:23"
+          },
+          {
+            "archiveReference": "GEN 32:23",
+            "displayReference": "GEN 32:24",
+            "historicalReference": "GEN 32:24"
+          },
+          {
+            "archiveReference": "GEN 32:24",
+            "displayReference": "GEN 32:25",
+            "historicalReference": "GEN 32:25"
+          },
+          {
+            "archiveReference": "GEN 32:25",
+            "displayReference": "GEN 32:26",
+            "historicalReference": "GEN 32:26"
+          },
+          {
+            "archiveReference": "GEN 32:26",
+            "displayReference": "GEN 32:27",
+            "historicalReference": "GEN 32:27"
+          },
+          {
+            "archiveReference": "GEN 32:27",
+            "displayReference": "GEN 32:28",
+            "historicalReference": "GEN 32:28"
+          },
+          {
+            "archiveReference": "GEN 32:28",
+            "displayReference": "GEN 32:29",
+            "historicalReference": "GEN 32:29"
+          },
+          {
+            "archiveReference": "GEN 32:29",
+            "displayReference": "GEN 32:30",
+            "historicalReference": "GEN 32:30"
+          },
+          {
+            "archiveReference": "GEN 32:30",
+            "displayReference": "GEN 32:31",
+            "historicalReference": "GEN 32:31"
+          },
+          {
+            "archiveReference": "GEN 32:31",
+            "displayReference": "GEN 32:32",
+            "historicalReference": "GEN 32:32"
+          },
+          {
+            "archiveReference": "GEN 32:32",
+            "displayReference": "GEN 32:33",
+            "historicalReference": "GEN 31:33"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "exodus",
+      "sourceBookCode": "EXO",
+      "sourceFile": "03-EXOdeu1912.usfm",
+      "sourceFileSha256": "D006885C5C90D4F9A9A706E1626852E998D6D858EF73A654287B1B81DF2FEC5A",
+      "coverage": "full",
+      "output": "old_testament/exodus.json",
+      "chapters": 40,
+      "verseUnits": 1213,
+      "coveredVerseNumbers": 1213,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "EXO 8:1",
+            "displayReference": "EXO 7:26",
+            "historicalReference": "EXO 7:26"
+          },
+          {
+            "archiveReference": "EXO 8:2",
+            "displayReference": "EXO 7:27",
+            "historicalReference": "EXO 7:27"
+          },
+          {
+            "archiveReference": "EXO 8:3",
+            "displayReference": "EXO 7:28",
+            "historicalReference": "EXO 7:28"
+          },
+          {
+            "archiveReference": "EXO 8:4",
+            "displayReference": "EXO 7:29",
+            "historicalReference": "EXO 7:29"
+          },
+          {
+            "archiveReference": "EXO 8:5",
+            "displayReference": "EXO 8:1",
+            "historicalReference": "EXO 8:1"
+          },
+          {
+            "archiveReference": "EXO 8:6",
+            "displayReference": "EXO 8:2",
+            "historicalReference": "EXO 8:2"
+          },
+          {
+            "archiveReference": "EXO 8:7",
+            "displayReference": "EXO 8:3",
+            "historicalReference": "EXO 8:3"
+          },
+          {
+            "archiveReference": "EXO 8:8",
+            "displayReference": "EXO 8:4",
+            "historicalReference": "EXO 8:4"
+          },
+          {
+            "archiveReference": "EXO 8:9",
+            "displayReference": "EXO 8:5",
+            "historicalReference": "EXO 8:5"
+          },
+          {
+            "archiveReference": "EXO 8:10",
+            "displayReference": "EXO 8:6",
+            "historicalReference": "EXO 8:6"
+          },
+          {
+            "archiveReference": "EXO 8:11",
+            "displayReference": "EXO 8:7",
+            "historicalReference": "EXO 8:7"
+          },
+          {
+            "archiveReference": "EXO 8:12",
+            "displayReference": "EXO 8:8",
+            "historicalReference": "EXO 8:8"
+          },
+          {
+            "archiveReference": "EXO 8:13",
+            "displayReference": "EXO 8:9",
+            "historicalReference": "EXO 8:9"
+          },
+          {
+            "archiveReference": "EXO 8:14",
+            "displayReference": "EXO 8:10",
+            "historicalReference": "EXO 8:10"
+          },
+          {
+            "archiveReference": "EXO 8:15",
+            "displayReference": "EXO 8:11",
+            "historicalReference": "EXO 8:11"
+          },
+          {
+            "archiveReference": "EXO 8:16",
+            "displayReference": "EXO 8:12",
+            "historicalReference": "EXO 8:12"
+          },
+          {
+            "archiveReference": "EXO 8:17",
+            "displayReference": "EXO 8:13",
+            "historicalReference": "EXO 8:13"
+          },
+          {
+            "archiveReference": "EXO 8:18",
+            "displayReference": "EXO 8:14",
+            "historicalReference": "EXO 8:14"
+          },
+          {
+            "archiveReference": "EXO 8:19",
+            "displayReference": "EXO 8:15",
+            "historicalReference": "EXO 8:15"
+          },
+          {
+            "archiveReference": "EXO 8:20",
+            "displayReference": "EXO 8:16",
+            "historicalReference": "EXO 8:16"
+          },
+          {
+            "archiveReference": "EXO 8:21",
+            "displayReference": "EXO 8:17",
+            "historicalReference": "EXO 8:17"
+          },
+          {
+            "archiveReference": "EXO 8:22",
+            "displayReference": "EXO 8:18",
+            "historicalReference": "EXO 8:18"
+          },
+          {
+            "archiveReference": "EXO 8:23",
+            "displayReference": "EXO 8:19",
+            "historicalReference": "EXO 8:19"
+          },
+          {
+            "archiveReference": "EXO 8:24",
+            "displayReference": "EXO 8:20",
+            "historicalReference": "EXO 8:20"
+          },
+          {
+            "archiveReference": "EXO 8:25",
+            "displayReference": "EXO 8:21",
+            "historicalReference": "EXO 8:21"
+          },
+          {
+            "archiveReference": "EXO 8:26",
+            "displayReference": "EXO 8:22",
+            "historicalReference": "EXO 8:22"
+          },
+          {
+            "archiveReference": "EXO 8:27",
+            "displayReference": "EXO 8:23",
+            "historicalReference": "EXO 8:23"
+          },
+          {
+            "archiveReference": "EXO 8:28",
+            "displayReference": "EXO 8:24",
+            "historicalReference": "EXO 8:24"
+          },
+          {
+            "archiveReference": "EXO 8:29",
+            "displayReference": "EXO 8:25",
+            "historicalReference": "EXO 8:25"
+          },
+          {
+            "archiveReference": "EXO 8:30",
+            "displayReference": "EXO 8:26",
+            "historicalReference": "EXO 8:26"
+          },
+          {
+            "archiveReference": "EXO 8:31",
+            "displayReference": "EXO 8:27",
+            "historicalReference": "EXO 8:27"
+          },
+          {
+            "archiveReference": "EXO 8:32",
+            "displayReference": "EXO 8:28",
+            "historicalReference": "EXO 8:27"
+          },
+          {
+            "archiveReference": "EXO 22:1",
+            "displayReference": "EXO 21:37",
+            "historicalReference": "EXO 21:37"
+          },
+          {
+            "archiveReference": "EXO 22:2",
+            "displayReference": "EXO 22:1",
+            "historicalReference": "EXO 22:1"
+          },
+          {
+            "archiveReference": "EXO 22:3",
+            "displayReference": "EXO 22:2",
+            "historicalReference": "EXO 22:2"
+          },
+          {
+            "archiveReference": "EXO 22:4",
+            "displayReference": "EXO 22:3",
+            "historicalReference": "EXO 22:3"
+          },
+          {
+            "archiveReference": "EXO 22:5",
+            "displayReference": "EXO 22:4",
+            "historicalReference": "EXO 22:4"
+          },
+          {
+            "archiveReference": "EXO 22:6",
+            "displayReference": "EXO 22:5",
+            "historicalReference": "EXO 22:5"
+          },
+          {
+            "archiveReference": "EXO 22:7",
+            "displayReference": "EXO 22:6",
+            "historicalReference": "EXO 22:6"
+          },
+          {
+            "archiveReference": "EXO 22:8",
+            "displayReference": "EXO 22:7",
+            "historicalReference": "EXO 22:7"
+          },
+          {
+            "archiveReference": "EXO 22:9",
+            "displayReference": "EXO 22:8",
+            "historicalReference": "EXO 22:8"
+          },
+          {
+            "archiveReference": "EXO 22:10",
+            "displayReference": "EXO 22:9",
+            "historicalReference": "EXO 22:9"
+          },
+          {
+            "archiveReference": "EXO 22:11",
+            "displayReference": "EXO 22:10",
+            "historicalReference": "EXO 22:10"
+          },
+          {
+            "archiveReference": "EXO 22:12",
+            "displayReference": "EXO 22:11",
+            "historicalReference": "EXO 22:11"
+          },
+          {
+            "archiveReference": "EXO 22:13",
+            "displayReference": "EXO 22:12",
+            "historicalReference": "EXO 22:12"
+          },
+          {
+            "archiveReference": "EXO 22:14",
+            "displayReference": "EXO 22:13",
+            "historicalReference": "EXO 22:13"
+          },
+          {
+            "archiveReference": "EXO 22:15",
+            "displayReference": "EXO 22:14",
+            "historicalReference": "EXO 22:14"
+          },
+          {
+            "archiveReference": "EXO 22:16",
+            "displayReference": "EXO 22:15",
+            "historicalReference": "EXO 22:15"
+          },
+          {
+            "archiveReference": "EXO 22:17",
+            "displayReference": "EXO 22:16",
+            "historicalReference": "EXO 22:16"
+          },
+          {
+            "archiveReference": "EXO 22:18",
+            "displayReference": "EXO 22:17",
+            "historicalReference": "EXO 22:17"
+          },
+          {
+            "archiveReference": "EXO 22:19",
+            "displayReference": "EXO 22:18",
+            "historicalReference": "EXO 22:18"
+          },
+          {
+            "archiveReference": "EXO 22:20",
+            "displayReference": "EXO 22:19",
+            "historicalReference": "EXO 22:19"
+          },
+          {
+            "archiveReference": "EXO 22:21",
+            "displayReference": "EXO 22:20",
+            "historicalReference": "EXO 22:20"
+          },
+          {
+            "archiveReference": "EXO 22:22",
+            "displayReference": "EXO 22:21",
+            "historicalReference": "EXO 22:21"
+          },
+          {
+            "archiveReference": "EXO 22:23",
+            "displayReference": "EXO 22:22",
+            "historicalReference": "EXO 22:22"
+          },
+          {
+            "archiveReference": "EXO 22:24",
+            "displayReference": "EXO 22:23",
+            "historicalReference": "EXO 22:23"
+          },
+          {
+            "archiveReference": "EXO 22:25",
+            "displayReference": "EXO 22:24",
+            "historicalReference": "EXO 22:24"
+          },
+          {
+            "archiveReference": "EXO 22:26",
+            "displayReference": "EXO 22:25",
+            "historicalReference": "EXO 22:25"
+          },
+          {
+            "archiveReference": "EXO 22:27",
+            "displayReference": "EXO 22:26",
+            "historicalReference": "EXO 22:26"
+          },
+          {
+            "archiveReference": "EXO 22:28",
+            "displayReference": "EXO 22:27",
+            "historicalReference": "EXO 22:27"
+          },
+          {
+            "archiveReference": "EXO 22:29",
+            "displayReference": "EXO 22:28",
+            "historicalReference": "EXO 22:28"
+          },
+          {
+            "archiveReference": "EXO 22:30",
+            "displayReference": "EXO 22:29",
+            "historicalReference": "EXO 22:29"
+          },
+          {
+            "archiveReference": "EXO 22:31",
+            "displayReference": "EXO 22:30",
+            "historicalReference": "EXO 22:30"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "leviticus",
+      "sourceBookCode": "LEV",
+      "sourceFile": "04-LEVdeu1912.usfm",
+      "sourceFileSha256": "E3B2CE52FC9D610F5F775E6C2E5D47108887C46A6E243B4D13041EE5D1C1C1BF",
+      "coverage": "full",
+      "output": "old_testament/leviticus.json",
+      "chapters": 27,
+      "verseUnits": 859,
+      "coveredVerseNumbers": 859,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "LEV 6:1",
+            "displayReference": "LEV 5:20",
+            "historicalReference": "LEV 5:20"
+          },
+          {
+            "archiveReference": "LEV 6:2",
+            "displayReference": "LEV 5:21",
+            "historicalReference": "LEV 5:21"
+          },
+          {
+            "archiveReference": "LEV 6:3",
+            "displayReference": "LEV 5:22",
+            "historicalReference": "LEV 5:22"
+          },
+          {
+            "archiveReference": "LEV 6:4",
+            "displayReference": "LEV 5:23",
+            "historicalReference": "LEV 5:23"
+          },
+          {
+            "archiveReference": "LEV 6:5",
+            "displayReference": "LEV 5:24",
+            "historicalReference": "LEV 5:24"
+          },
+          {
+            "archiveReference": "LEV 6:6",
+            "displayReference": "LEV 5:25",
+            "historicalReference": "LEV 5:25"
+          },
+          {
+            "archiveReference": "LEV 6:7",
+            "displayReference": "LEV 5:26",
+            "historicalReference": "LEV 5:26"
+          },
+          {
+            "archiveReference": "LEV 6:8",
+            "displayReference": "LEV 6:1",
+            "historicalReference": "LEV 6:1"
+          },
+          {
+            "archiveReference": "LEV 6:9",
+            "displayReference": "LEV 6:2",
+            "historicalReference": "LEV 6:2"
+          },
+          {
+            "archiveReference": "LEV 6:10",
+            "displayReference": "LEV 6:3",
+            "historicalReference": "LEV 6:3"
+          },
+          {
+            "archiveReference": "LEV 6:11",
+            "displayReference": "LEV 6:4",
+            "historicalReference": "LEV 6:4"
+          },
+          {
+            "archiveReference": "LEV 6:12",
+            "displayReference": "LEV 6:5",
+            "historicalReference": "LEV 6:5"
+          },
+          {
+            "archiveReference": "LEV 6:13",
+            "displayReference": "LEV 6:6",
+            "historicalReference": "LEV 6:6"
+          },
+          {
+            "archiveReference": "LEV 6:14",
+            "displayReference": "LEV 6:7",
+            "historicalReference": "LEV 6:7"
+          },
+          {
+            "archiveReference": "LEV 6:15",
+            "displayReference": "LEV 6:8",
+            "historicalReference": "LEV 6:8"
+          },
+          {
+            "archiveReference": "LEV 6:16",
+            "displayReference": "LEV 6:9",
+            "historicalReference": "LEV 6:9"
+          },
+          {
+            "archiveReference": "LEV 6:17",
+            "displayReference": "LEV 6:10",
+            "historicalReference": "LEV 6:10"
+          },
+          {
+            "archiveReference": "LEV 6:18",
+            "displayReference": "LEV 6:11",
+            "historicalReference": "LEV 6:11"
+          },
+          {
+            "archiveReference": "LEV 6:19",
+            "displayReference": "LEV 6:12",
+            "historicalReference": "LEV 6:12"
+          },
+          {
+            "archiveReference": "LEV 6:20",
+            "displayReference": "LEV 6:13",
+            "historicalReference": "LEV 6:13"
+          },
+          {
+            "archiveReference": "LEV 6:21",
+            "displayReference": "LEV 6:14",
+            "historicalReference": "LEV 6:14"
+          },
+          {
+            "archiveReference": "LEV 6:22",
+            "displayReference": "LEV 6:15",
+            "historicalReference": "LEV 6:15"
+          },
+          {
+            "archiveReference": "LEV 6:23",
+            "displayReference": "LEV 6:16",
+            "historicalReference": "LEV 6:16"
+          },
+          {
+            "archiveReference": "LEV 6:24",
+            "displayReference": "LEV 6:17",
+            "historicalReference": "LEV 6:17"
+          },
+          {
+            "archiveReference": "LEV 6:25",
+            "displayReference": "LEV 6:18",
+            "historicalReference": "LEV 6:18"
+          },
+          {
+            "archiveReference": "LEV 6:26",
+            "displayReference": "LEV 6:19",
+            "historicalReference": "LEV 6:19"
+          },
+          {
+            "archiveReference": "LEV 6:27",
+            "displayReference": "LEV 6:20",
+            "historicalReference": "LEV 6:20"
+          },
+          {
+            "archiveReference": "LEV 6:28",
+            "displayReference": "LEV 6:21",
+            "historicalReference": "LEV 6:21"
+          },
+          {
+            "archiveReference": "LEV 6:29",
+            "displayReference": "LEV 6:22",
+            "historicalReference": "LEV 6:22"
+          },
+          {
+            "archiveReference": "LEV 6:30",
+            "displayReference": "LEV 6:23",
+            "historicalReference": "LEV 6:23"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "numbers",
+      "sourceBookCode": "NUM",
+      "sourceFile": "05-NUMdeu1912.usfm",
+      "sourceFileSha256": "E75D43786FF8FC8A387841E267CC5E5793A3615442ED36FE25762AE3329C8588",
+      "coverage": "full",
+      "output": "old_testament/numbers.json",
+      "chapters": 36,
+      "verseUnits": 1288,
+      "coveredVerseNumbers": 1288,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "NUM 16:36",
+            "displayReference": "NUM 17:1",
+            "historicalReference": "NUM 17:1"
+          },
+          {
+            "archiveReference": "NUM 16:37",
+            "displayReference": "NUM 17:2",
+            "historicalReference": "NUM 17:2"
+          },
+          {
+            "archiveReference": "NUM 16:38",
+            "displayReference": "NUM 17:3",
+            "historicalReference": "NUM 17:3"
+          },
+          {
+            "archiveReference": "NUM 16:39",
+            "displayReference": "NUM 17:4",
+            "historicalReference": "NUM 17:4"
+          },
+          {
+            "archiveReference": "NUM 16:40",
+            "displayReference": "NUM 17:5",
+            "historicalReference": "NUM 17:5"
+          },
+          {
+            "archiveReference": "NUM 16:41",
+            "displayReference": "NUM 17:6",
+            "historicalReference": "NUM 17:6"
+          },
+          {
+            "archiveReference": "NUM 16:42",
+            "displayReference": "NUM 17:7",
+            "historicalReference": "NUM 17:7"
+          },
+          {
+            "archiveReference": "NUM 16:43",
+            "displayReference": "NUM 17:8",
+            "historicalReference": "NUM 17:8"
+          },
+          {
+            "archiveReference": "NUM 16:44",
+            "displayReference": "NUM 17:9",
+            "historicalReference": "NUM 17:9"
+          },
+          {
+            "archiveReference": "NUM 16:45",
+            "displayReference": "NUM 17:10",
+            "historicalReference": "NUM 17:10"
+          },
+          {
+            "archiveReference": "NUM 16:46",
+            "displayReference": "NUM 17:11",
+            "historicalReference": "NUM 17:11"
+          },
+          {
+            "archiveReference": "NUM 16:47",
+            "displayReference": "NUM 17:12",
+            "historicalReference": "NUM 17:12"
+          },
+          {
+            "archiveReference": "NUM 16:48",
+            "displayReference": "NUM 17:13",
+            "historicalReference": "NUM 17:13"
+          },
+          {
+            "archiveReference": "NUM 16:49",
+            "displayReference": "NUM 17:14",
+            "historicalReference": "NUM 17:14"
+          },
+          {
+            "archiveReference": "NUM 16:50",
+            "displayReference": "NUM 17:15",
+            "historicalReference": "NUM 17:15"
+          },
+          {
+            "archiveReference": "NUM 17:1",
+            "displayReference": "NUM 17:16",
+            "historicalReference": "NUM 17:16"
+          },
+          {
+            "archiveReference": "NUM 17:2",
+            "displayReference": "NUM 17:17",
+            "historicalReference": "NUM 17:17"
+          },
+          {
+            "archiveReference": "NUM 17:3",
+            "displayReference": "NUM 17:18",
+            "historicalReference": "NUM 17:18"
+          },
+          {
+            "archiveReference": "NUM 17:4",
+            "displayReference": "NUM 17:19",
+            "historicalReference": "NUM 17:19"
+          },
+          {
+            "archiveReference": "NUM 17:5",
+            "displayReference": "NUM 17:20",
+            "historicalReference": "NUM 17:20"
+          },
+          {
+            "archiveReference": "NUM 17:6",
+            "displayReference": "NUM 17:21",
+            "historicalReference": "NUM 17:21"
+          },
+          {
+            "archiveReference": "NUM 17:7",
+            "displayReference": "NUM 17:22",
+            "historicalReference": "NUM 17:22"
+          },
+          {
+            "archiveReference": "NUM 17:8",
+            "displayReference": "NUM 17:23",
+            "historicalReference": "NUM 17:23"
+          },
+          {
+            "archiveReference": "NUM 17:9",
+            "displayReference": "NUM 17:24",
+            "historicalReference": "NUM 17:24"
+          },
+          {
+            "archiveReference": "NUM 17:10",
+            "displayReference": "NUM 17:25",
+            "historicalReference": "NUM 17:25"
+          },
+          {
+            "archiveReference": "NUM 17:11",
+            "displayReference": "NUM 17:26",
+            "historicalReference": "NUM 17:26"
+          },
+          {
+            "archiveReference": "NUM 17:12",
+            "displayReference": "NUM 17:27",
+            "historicalReference": "NUM 17:27"
+          },
+          {
+            "archiveReference": "NUM 17:13",
+            "displayReference": "NUM 17:28",
+            "historicalReference": "NUM 17:28"
+          },
+          {
+            "archiveReference": "NUM 29:40",
+            "displayReference": "NUM 30:1",
+            "historicalReference": "NUM 30:1"
+          },
+          {
+            "archiveReference": "NUM 30:1",
+            "displayReference": "NUM 30:2",
+            "historicalReference": "NUM 30:2"
+          },
+          {
+            "archiveReference": "NUM 30:2",
+            "displayReference": "NUM 30:3",
+            "historicalReference": "NUM 30:3"
+          },
+          {
+            "archiveReference": "NUM 30:3",
+            "displayReference": "NUM 30:4",
+            "historicalReference": "NUM 30:4"
+          },
+          {
+            "archiveReference": "NUM 30:4",
+            "displayReference": "NUM 30:5",
+            "historicalReference": "NUM 30:5"
+          },
+          {
+            "archiveReference": "NUM 30:5",
+            "displayReference": "NUM 30:6",
+            "historicalReference": "NUM 30:6"
+          },
+          {
+            "archiveReference": "NUM 30:6",
+            "displayReference": "NUM 30:7",
+            "historicalReference": "NUM 30:7"
+          },
+          {
+            "archiveReference": "NUM 30:7",
+            "displayReference": "NUM 30:8",
+            "historicalReference": "NUM 30:8"
+          },
+          {
+            "archiveReference": "NUM 30:8",
+            "displayReference": "NUM 30:9",
+            "historicalReference": "NUM 30:9"
+          },
+          {
+            "archiveReference": "NUM 30:9",
+            "displayReference": "NUM 30:10",
+            "historicalReference": "NUM 30:10"
+          },
+          {
+            "archiveReference": "NUM 30:10",
+            "displayReference": "NUM 30:11",
+            "historicalReference": "NUM 30:11"
+          },
+          {
+            "archiveReference": "NUM 30:11",
+            "displayReference": "NUM 30:12",
+            "historicalReference": "NUM 30:12"
+          },
+          {
+            "archiveReference": "NUM 30:12",
+            "displayReference": "NUM 30:13",
+            "historicalReference": "NUM 30:13"
+          },
+          {
+            "archiveReference": "NUM 30:13",
+            "displayReference": "NUM 30:14",
+            "historicalReference": "NUM 30:14"
+          },
+          {
+            "archiveReference": "NUM 30:14",
+            "displayReference": "NUM 30:15",
+            "historicalReference": "NUM 30:15"
+          },
+          {
+            "archiveReference": "NUM 30:15",
+            "displayReference": "NUM 30:16",
+            "historicalReference": "NUM 30:16"
+          },
+          {
+            "archiveReference": "NUM 30:16",
+            "displayReference": "NUM 30:17",
+            "historicalReference": "NUM 30:17"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "deuteronomy",
+      "sourceBookCode": "DEU",
+      "sourceFile": "06-DEUdeu1912.usfm",
+      "sourceFileSha256": "09C6FC1346311C500CFE33237898CF0FE5D7AD2D3F8C9DEDF69540F36A048B1D",
+      "coverage": "full",
+      "output": "old_testament/deuteronomy.json",
+      "chapters": 34,
+      "verseUnits": 959,
+      "coveredVerseNumbers": 959,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "DEU 5:21",
+            "displayReference": "DEU 5:21",
+            "historicalReference": "DEU 5:18"
+          },
+          {
+            "archiveReference": "DEU 5:22",
+            "displayReference": "DEU 5:22",
+            "historicalReference": "DEU 5:19"
+          },
+          {
+            "archiveReference": "DEU 5:23",
+            "displayReference": "DEU 5:23",
+            "historicalReference": "DEU 5:20"
+          },
+          {
+            "archiveReference": "DEU 5:24",
+            "displayReference": "DEU 5:24",
+            "historicalReference": "DEU 5:21"
+          },
+          {
+            "archiveReference": "DEU 5:25",
+            "displayReference": "DEU 5:25",
+            "historicalReference": "DEU 5:22"
+          },
+          {
+            "archiveReference": "DEU 5:26",
+            "displayReference": "DEU 5:26",
+            "historicalReference": "DEU 5:23"
+          },
+          {
+            "archiveReference": "DEU 5:27",
+            "displayReference": "DEU 5:27",
+            "historicalReference": "DEU 5:24"
+          },
+          {
+            "archiveReference": "DEU 5:28",
+            "displayReference": "DEU 5:28",
+            "historicalReference": "DEU 5:25"
+          },
+          {
+            "archiveReference": "DEU 5:29",
+            "displayReference": "DEU 5:29",
+            "historicalReference": "DEU 5:26"
+          },
+          {
+            "archiveReference": "DEU 5:30",
+            "displayReference": "DEU 5:30",
+            "historicalReference": "DEU 5:27"
+          },
+          {
+            "archiveReference": "DEU 5:31",
+            "displayReference": "DEU 5:31",
+            "historicalReference": "DEU 5:28"
+          },
+          {
+            "archiveReference": "DEU 5:32",
+            "displayReference": "DEU 5:32",
+            "historicalReference": "DEU 5:29"
+          },
+          {
+            "archiveReference": "DEU 5:33",
+            "displayReference": "DEU 5:33",
+            "historicalReference": "DEU 5:30"
+          },
+          {
+            "archiveReference": "DEU 12:32",
+            "displayReference": "DEU 13:1",
+            "historicalReference": "DEU 13:1"
+          },
+          {
+            "archiveReference": "DEU 13:1",
+            "displayReference": "DEU 13:2"
+          },
+          {
+            "archiveReference": "DEU 13:2",
+            "displayReference": "DEU 13:3"
+          },
+          {
+            "archiveReference": "DEU 13:3",
+            "displayReference": "DEU 13:4"
+          },
+          {
+            "archiveReference": "DEU 13:4",
+            "displayReference": "DEU 13:5"
+          },
+          {
+            "archiveReference": "DEU 13:5",
+            "displayReference": "DEU 13:6"
+          },
+          {
+            "archiveReference": "DEU 13:6",
+            "displayReference": "DEU 13:7"
+          },
+          {
+            "archiveReference": "DEU 13:7",
+            "displayReference": "DEU 13:8"
+          },
+          {
+            "archiveReference": "DEU 13:8",
+            "displayReference": "DEU 13:9"
+          },
+          {
+            "archiveReference": "DEU 13:9",
+            "displayReference": "DEU 13:10"
+          },
+          {
+            "archiveReference": "DEU 13:10",
+            "displayReference": "DEU 13:11"
+          },
+          {
+            "archiveReference": "DEU 13:11",
+            "displayReference": "DEU 13:12"
+          },
+          {
+            "archiveReference": "DEU 13:12",
+            "displayReference": "DEU 13:13"
+          },
+          {
+            "archiveReference": "DEU 13:13",
+            "displayReference": "DEU 13:14"
+          },
+          {
+            "archiveReference": "DEU 13:14",
+            "displayReference": "DEU 13:15"
+          },
+          {
+            "archiveReference": "DEU 13:15",
+            "displayReference": "DEU 13:16"
+          },
+          {
+            "archiveReference": "DEU 13:16",
+            "displayReference": "DEU 13:17"
+          },
+          {
+            "archiveReference": "DEU 13:17",
+            "displayReference": "DEU 13:18"
+          },
+          {
+            "archiveReference": "DEU 13:18",
+            "displayReference": "DEU 13:19"
+          },
+          {
+            "archiveReference": "DEU 22:30",
+            "displayReference": "DEU 23:1",
+            "historicalReference": "DEU 23:1"
+          },
+          {
+            "archiveReference": "DEU 23:1",
+            "displayReference": "DEU 23:2",
+            "historicalReference": "DEU 23:2"
+          },
+          {
+            "archiveReference": "DEU 23:2",
+            "displayReference": "DEU 23:3",
+            "historicalReference": "DEU 23:3"
+          },
+          {
+            "archiveReference": "DEU 23:3",
+            "displayReference": "DEU 23:4",
+            "historicalReference": "DEU 23:4"
+          },
+          {
+            "archiveReference": "DEU 23:4",
+            "displayReference": "DEU 23:5",
+            "historicalReference": "DEU 23:5"
+          },
+          {
+            "archiveReference": "DEU 23:5",
+            "displayReference": "DEU 23:6",
+            "historicalReference": "DEU 23:6"
+          },
+          {
+            "archiveReference": "DEU 23:6",
+            "displayReference": "DEU 23:7",
+            "historicalReference": "DEU 23:7"
+          },
+          {
+            "archiveReference": "DEU 23:7",
+            "displayReference": "DEU 23:8",
+            "historicalReference": "DEU 23:8"
+          },
+          {
+            "archiveReference": "DEU 23:8",
+            "displayReference": "DEU 23:9",
+            "historicalReference": "DEU 23:9"
+          },
+          {
+            "archiveReference": "DEU 23:9",
+            "displayReference": "DEU 23:10",
+            "historicalReference": "DEU 23:10"
+          },
+          {
+            "archiveReference": "DEU 23:10",
+            "displayReference": "DEU 23:11",
+            "historicalReference": "DEU 23:11"
+          },
+          {
+            "archiveReference": "DEU 23:11",
+            "displayReference": "DEU 23:12",
+            "historicalReference": "DEU 23:12"
+          },
+          {
+            "archiveReference": "DEU 23:12",
+            "displayReference": "DEU 23:13",
+            "historicalReference": "DEU 23:13"
+          },
+          {
+            "archiveReference": "DEU 23:13",
+            "displayReference": "DEU 23:14",
+            "historicalReference": "DEU 23:14"
+          },
+          {
+            "archiveReference": "DEU 23:14",
+            "displayReference": "DEU 23:15",
+            "historicalReference": "DEU 23:15"
+          },
+          {
+            "archiveReference": "DEU 23:15",
+            "displayReference": "DEU 23:16",
+            "historicalReference": "DEU 23:16"
+          },
+          {
+            "archiveReference": "DEU 23:16",
+            "displayReference": "DEU 23:17",
+            "historicalReference": "DEU 23:17"
+          },
+          {
+            "archiveReference": "DEU 23:17",
+            "displayReference": "DEU 23:18",
+            "historicalReference": "DEU 23:18"
+          },
+          {
+            "archiveReference": "DEU 23:18",
+            "displayReference": "DEU 23:19",
+            "historicalReference": "DEU 23:19"
+          },
+          {
+            "archiveReference": "DEU 23:19",
+            "displayReference": "DEU 23:20",
+            "historicalReference": "DEU 23:20"
+          },
+          {
+            "archiveReference": "DEU 23:20",
+            "displayReference": "DEU 23:21",
+            "historicalReference": "DEU 23:21"
+          },
+          {
+            "archiveReference": "DEU 23:21",
+            "displayReference": "DEU 23:22",
+            "historicalReference": "DEU 23:22"
+          },
+          {
+            "archiveReference": "DEU 23:22",
+            "displayReference": "DEU 23:23",
+            "historicalReference": "DEU 23:23"
+          },
+          {
+            "archiveReference": "DEU 23:23",
+            "displayReference": "DEU 23:24",
+            "historicalReference": "DEU 23:24"
+          },
+          {
+            "archiveReference": "DEU 23:24",
+            "displayReference": "DEU 23:25",
+            "historicalReference": "DEU 23:25"
+          },
+          {
+            "archiveReference": "DEU 23:25",
+            "displayReference": "DEU 23:26",
+            "historicalReference": "DEU 23:26"
+          },
+          {
+            "archiveReference": "DEU 29:1",
+            "displayReference": "DEU 28:69",
+            "historicalReference": "DEU 28:69"
+          },
+          {
+            "archiveReference": "DEU 29:2",
+            "displayReference": "DEU 29:1"
+          },
+          {
+            "archiveReference": "DEU 29:3",
+            "displayReference": "DEU 29:2"
+          },
+          {
+            "archiveReference": "DEU 29:4",
+            "displayReference": "DEU 29:3"
+          },
+          {
+            "archiveReference": "DEU 29:5",
+            "displayReference": "DEU 29:4"
+          },
+          {
+            "archiveReference": "DEU 29:6",
+            "displayReference": "DEU 29:5"
+          },
+          {
+            "archiveReference": "DEU 29:7",
+            "displayReference": "DEU 29:6"
+          },
+          {
+            "archiveReference": "DEU 29:8",
+            "displayReference": "DEU 29:7"
+          },
+          {
+            "archiveReference": "DEU 29:9",
+            "displayReference": "DEU 29:8"
+          },
+          {
+            "archiveReference": "DEU 29:10",
+            "displayReference": "DEU 29:9"
+          },
+          {
+            "archiveReference": "DEU 29:11",
+            "displayReference": "DEU 29:10"
+          },
+          {
+            "archiveReference": "DEU 29:12",
+            "displayReference": "DEU 29:11"
+          },
+          {
+            "archiveReference": "DEU 29:13",
+            "displayReference": "DEU 29:12"
+          },
+          {
+            "archiveReference": "DEU 29:14",
+            "displayReference": "DEU 29:13"
+          },
+          {
+            "archiveReference": "DEU 29:15",
+            "displayReference": "DEU 29:14"
+          },
+          {
+            "archiveReference": "DEU 29:16",
+            "displayReference": "DEU 29:15"
+          },
+          {
+            "archiveReference": "DEU 29:17",
+            "displayReference": "DEU 29:16"
+          },
+          {
+            "archiveReference": "DEU 29:18",
+            "displayReference": "DEU 29:17"
+          },
+          {
+            "archiveReference": "DEU 29:19",
+            "displayReference": "DEU 29:18"
+          },
+          {
+            "archiveReference": "DEU 29:20",
+            "displayReference": "DEU 29:19"
+          },
+          {
+            "archiveReference": "DEU 29:21",
+            "displayReference": "DEU 29:20"
+          },
+          {
+            "archiveReference": "DEU 29:22",
+            "displayReference": "DEU 29:21"
+          },
+          {
+            "archiveReference": "DEU 29:23",
+            "displayReference": "DEU 29:22"
+          },
+          {
+            "archiveReference": "DEU 29:24",
+            "displayReference": "DEU 29:23"
+          },
+          {
+            "archiveReference": "DEU 29:25",
+            "displayReference": "DEU 29:24"
+          },
+          {
+            "archiveReference": "DEU 29:26",
+            "displayReference": "DEU 29:25"
+          },
+          {
+            "archiveReference": "DEU 29:27",
+            "displayReference": "DEU 29:26"
+          },
+          {
+            "archiveReference": "DEU 29:28",
+            "displayReference": "DEU 29:27"
+          },
+          {
+            "archiveReference": "DEU 29:29",
+            "displayReference": "DEU 29:28"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "joshua",
+      "sourceBookCode": "JOS",
+      "sourceFile": "07-JOSdeu1912.usfm",
+      "sourceFileSha256": "DE94D0DF1632D667E90F61674AE585B957C4EA3458A889781778647409A2ACEE",
+      "coverage": "full",
+      "output": "old_testament/joshua.json",
+      "chapters": 24,
+      "verseUnits": 658,
+      "coveredVerseNumbers": 658,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "judges",
+      "sourceBookCode": "JDG",
+      "sourceFile": "08-JDGdeu1912.usfm",
+      "sourceFileSha256": "0152B3C5CBC5EFD5720C5E6168CD51DF6476FF6D1219D252BFA41C609861CFA7",
+      "coverage": "full",
+      "output": "old_testament/judges.json",
+      "chapters": 21,
+      "verseUnits": 618,
+      "coveredVerseNumbers": 618,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ruth",
+      "sourceBookCode": "RUT",
+      "sourceFile": "09-RUTdeu1912.usfm",
+      "sourceFileSha256": "80AD7A61197C717D23DFA7214A72347AB082F2A6E7EC7AA79409BFE0831C4F21",
+      "coverage": "full",
+      "output": "old_testament/ruth.json",
+      "chapters": 4,
+      "verseUnits": 85,
+      "coveredVerseNumbers": 85,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "1_samuel",
+      "sourceBookCode": "1SA",
+      "sourceFile": "10-1SAdeu1912.usfm",
+      "sourceFileSha256": "1AA05F869897A634719AB50D335C50008BB8702BC533A1D1662F0D3895620A4F",
+      "coverage": "full",
+      "output": "old_testament/1_samuel.json",
+      "chapters": 31,
+      "verseUnits": 811,
+      "coveredVerseNumbers": 811,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "1SA 20:42",
+            "displayReference": "1SA 21:1",
+            "historicalReference": "1SA 21:1"
+          },
+          {
+            "archiveReference": "1SA 21:1",
+            "displayReference": "1SA 21:2"
+          },
+          {
+            "archiveReference": "1SA 21:2",
+            "displayReference": "1SA 21:3"
+          },
+          {
+            "archiveReference": "1SA 21:3",
+            "displayReference": "1SA 21:4"
+          },
+          {
+            "archiveReference": "1SA 21:4",
+            "displayReference": "1SA 21:5"
+          },
+          {
+            "archiveReference": "1SA 21:5",
+            "displayReference": "1SA 21:6"
+          },
+          {
+            "archiveReference": "1SA 21:6",
+            "displayReference": "1SA 21:7"
+          },
+          {
+            "archiveReference": "1SA 21:7",
+            "displayReference": "1SA 21:8"
+          },
+          {
+            "archiveReference": "1SA 21:8",
+            "displayReference": "1SA 21:9"
+          },
+          {
+            "archiveReference": "1SA 21:9",
+            "displayReference": "1SA 21:10"
+          },
+          {
+            "archiveReference": "1SA 21:10",
+            "displayReference": "1SA 21:11"
+          },
+          {
+            "archiveReference": "1SA 21:11",
+            "displayReference": "1SA 21:12"
+          },
+          {
+            "archiveReference": "1SA 21:12",
+            "displayReference": "1SA 21:13"
+          },
+          {
+            "archiveReference": "1SA 21:13",
+            "displayReference": "1SA 21:14"
+          },
+          {
+            "archiveReference": "1SA 21:14",
+            "displayReference": "1SA 21:15"
+          },
+          {
+            "archiveReference": "1SA 21:15",
+            "displayReference": "1SA 21:16"
+          },
+          {
+            "archiveReference": "1SA 23:29",
+            "displayReference": "1SA 24:1",
+            "historicalReference": "1SA 24:1"
+          },
+          {
+            "archiveReference": "1SA 24:1",
+            "displayReference": "1SA 24:2"
+          },
+          {
+            "archiveReference": "1SA 24:2",
+            "displayReference": "1SA 24:3"
+          },
+          {
+            "archiveReference": "1SA 24:3",
+            "displayReference": "1SA 24:4"
+          },
+          {
+            "archiveReference": "1SA 24:4",
+            "displayReference": "1SA 24:5"
+          },
+          {
+            "archiveReference": "1SA 24:5",
+            "displayReference": "1SA 24:6"
+          },
+          {
+            "archiveReference": "1SA 24:6",
+            "displayReference": "1SA 24:7"
+          },
+          {
+            "archiveReference": "1SA 24:7",
+            "displayReference": "1SA 24:8"
+          },
+          {
+            "archiveReference": "1SA 24:8",
+            "displayReference": "1SA 24:9"
+          },
+          {
+            "archiveReference": "1SA 24:9",
+            "displayReference": "1SA 24:10"
+          },
+          {
+            "archiveReference": "1SA 24:10",
+            "displayReference": "1SA 24:11"
+          },
+          {
+            "archiveReference": "1SA 24:11",
+            "displayReference": "1SA 24:12"
+          },
+          {
+            "archiveReference": "1SA 24:12",
+            "displayReference": "1SA 24:13"
+          },
+          {
+            "archiveReference": "1SA 24:13",
+            "displayReference": "1SA 24:14"
+          },
+          {
+            "archiveReference": "1SA 24:14",
+            "displayReference": "1SA 24:15"
+          },
+          {
+            "archiveReference": "1SA 24:15",
+            "displayReference": "1SA 24:16"
+          },
+          {
+            "archiveReference": "1SA 24:16",
+            "displayReference": "1SA 24:17"
+          },
+          {
+            "archiveReference": "1SA 24:17",
+            "displayReference": "1SA 24:18"
+          },
+          {
+            "archiveReference": "1SA 24:18",
+            "displayReference": "1SA 24:19"
+          },
+          {
+            "archiveReference": "1SA 24:19",
+            "displayReference": "1SA 24:20"
+          },
+          {
+            "archiveReference": "1SA 24:20",
+            "displayReference": "1SA 24:21"
+          },
+          {
+            "archiveReference": "1SA 24:21",
+            "displayReference": "1SA 24:22"
+          },
+          {
+            "archiveReference": "1SA 24:22",
+            "displayReference": "1SA 24:23"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "2_samuel",
+      "sourceBookCode": "2SA",
+      "sourceFile": "11-2SAdeu1912.usfm",
+      "sourceFileSha256": "5CDDEB28D42B88B29F7959F84D7270B38DA4B999B67146D64E63B23E2377CD3D",
+      "coverage": "full",
+      "output": "old_testament/2_samuel.json",
+      "chapters": 24,
+      "verseUnits": 695,
+      "coveredVerseNumbers": 695,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "2SA 18:33",
+            "displayReference": "2SA 19:1"
+          },
+          {
+            "archiveReference": "2SA 19:1",
+            "displayReference": "2SA 19:2"
+          },
+          {
+            "archiveReference": "2SA 19:2",
+            "displayReference": "2SA 19:3"
+          },
+          {
+            "archiveReference": "2SA 19:3",
+            "displayReference": "2SA 19:4"
+          },
+          {
+            "archiveReference": "2SA 19:4",
+            "displayReference": "2SA 19:5"
+          },
+          {
+            "archiveReference": "2SA 19:5",
+            "displayReference": "2SA 19:6"
+          },
+          {
+            "archiveReference": "2SA 19:6",
+            "displayReference": "2SA 19:7"
+          },
+          {
+            "archiveReference": "2SA 19:7",
+            "displayReference": "2SA 19:8"
+          },
+          {
+            "archiveReference": "2SA 19:8",
+            "displayReference": "2SA 19:9"
+          },
+          {
+            "archiveReference": "2SA 19:9",
+            "displayReference": "2SA 19:10"
+          },
+          {
+            "archiveReference": "2SA 19:10",
+            "displayReference": "2SA 19:11"
+          },
+          {
+            "archiveReference": "2SA 19:11",
+            "displayReference": "2SA 19:12"
+          },
+          {
+            "archiveReference": "2SA 19:12",
+            "displayReference": "2SA 19:13"
+          },
+          {
+            "archiveReference": "2SA 19:13",
+            "displayReference": "2SA 19:14"
+          },
+          {
+            "archiveReference": "2SA 19:14",
+            "displayReference": "2SA 19:15"
+          },
+          {
+            "archiveReference": "2SA 19:15",
+            "displayReference": "2SA 19:16"
+          },
+          {
+            "archiveReference": "2SA 19:16",
+            "displayReference": "2SA 19:17"
+          },
+          {
+            "archiveReference": "2SA 19:17",
+            "displayReference": "2SA 19:18"
+          },
+          {
+            "archiveReference": "2SA 19:18",
+            "displayReference": "2SA 19:19"
+          },
+          {
+            "archiveReference": "2SA 19:19",
+            "displayReference": "2SA 19:20"
+          },
+          {
+            "archiveReference": "2SA 19:20",
+            "displayReference": "2SA 19:21"
+          },
+          {
+            "archiveReference": "2SA 19:21",
+            "displayReference": "2SA 19:22"
+          },
+          {
+            "archiveReference": "2SA 19:22",
+            "displayReference": "2SA 19:23"
+          },
+          {
+            "archiveReference": "2SA 19:23",
+            "displayReference": "2SA 19:24"
+          },
+          {
+            "archiveReference": "2SA 19:24",
+            "displayReference": "2SA 19:25"
+          },
+          {
+            "archiveReference": "2SA 19:25",
+            "displayReference": "2SA 19:26"
+          },
+          {
+            "archiveReference": "2SA 19:26",
+            "displayReference": "2SA 19:27"
+          },
+          {
+            "archiveReference": "2SA 19:27",
+            "displayReference": "2SA 19:28"
+          },
+          {
+            "archiveReference": "2SA 19:28",
+            "displayReference": "2SA 19:29"
+          },
+          {
+            "archiveReference": "2SA 19:29",
+            "displayReference": "2SA 19:30"
+          },
+          {
+            "archiveReference": "2SA 19:30",
+            "displayReference": "2SA 19:31"
+          },
+          {
+            "archiveReference": "2SA 19:31",
+            "displayReference": "2SA 19:32"
+          },
+          {
+            "archiveReference": "2SA 19:32",
+            "displayReference": "2SA 19:33"
+          },
+          {
+            "archiveReference": "2SA 19:33",
+            "displayReference": "2SA 19:34"
+          },
+          {
+            "archiveReference": "2SA 19:34",
+            "displayReference": "2SA 19:35"
+          },
+          {
+            "archiveReference": "2SA 19:35",
+            "displayReference": "2SA 19:36"
+          },
+          {
+            "archiveReference": "2SA 19:36",
+            "displayReference": "2SA 19:37"
+          },
+          {
+            "archiveReference": "2SA 19:37",
+            "displayReference": "2SA 19:38"
+          },
+          {
+            "archiveReference": "2SA 19:38",
+            "displayReference": "2SA 19:39"
+          },
+          {
+            "archiveReference": "2SA 19:39",
+            "displayReference": "2SA 19:40"
+          },
+          {
+            "archiveReference": "2SA 19:40",
+            "displayReference": "2SA 19:41"
+          },
+          {
+            "archiveReference": "2SA 19:41",
+            "displayReference": "2SA 19:42"
+          },
+          {
+            "archiveReference": "2SA 19:42",
+            "displayReference": "2SA 19:43"
+          },
+          {
+            "archiveReference": "2SA 19:43",
+            "displayReference": "2SA 19:44"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "1_kings",
+      "sourceBookCode": "1KI",
+      "sourceFile": "12-1KIdeu1912.usfm",
+      "sourceFileSha256": "9A65F37061FE480A181C593524D47F29FB366B154E0D6837F65FB063E375CF45",
+      "coverage": "full",
+      "output": "old_testament/1_kings.json",
+      "chapters": 22,
+      "verseUnits": 817,
+      "coveredVerseNumbers": 817,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "1KI 4:21",
+            "displayReference": "1KI 5:1",
+            "historicalReference": "1KI 5:1"
+          },
+          {
+            "archiveReference": "1KI 4:22",
+            "displayReference": "1KI 5:2",
+            "historicalReference": "1KI 5:2"
+          },
+          {
+            "archiveReference": "1KI 4:23",
+            "displayReference": "1KI 5:3",
+            "historicalReference": "1KI 5:3"
+          },
+          {
+            "archiveReference": "1KI 4:24",
+            "displayReference": "1KI 5:4",
+            "historicalReference": "1KI 5:4"
+          },
+          {
+            "archiveReference": "1KI 4:25",
+            "displayReference": "1KI 5:5",
+            "historicalReference": "1KI 5:5"
+          },
+          {
+            "archiveReference": "1KI 4:26",
+            "displayReference": "1KI 5:6",
+            "historicalReference": "1KI 5:6"
+          },
+          {
+            "archiveReference": "1KI 4:27",
+            "displayReference": "1KI 5:7",
+            "historicalReference": "1KI 5:7"
+          },
+          {
+            "archiveReference": "1KI 4:28",
+            "displayReference": "1KI 5:8",
+            "historicalReference": "1KI 5:8"
+          },
+          {
+            "archiveReference": "1KI 4:29",
+            "displayReference": "1KI 5:9",
+            "historicalReference": "1KI 5:9"
+          },
+          {
+            "archiveReference": "1KI 4:30",
+            "displayReference": "1KI 5:10",
+            "historicalReference": "1KI 5:10"
+          },
+          {
+            "archiveReference": "1KI 4:31",
+            "displayReference": "1KI 5:11",
+            "historicalReference": "1KI 5:11"
+          },
+          {
+            "archiveReference": "1KI 4:32",
+            "displayReference": "1KI 5:12",
+            "historicalReference": "1KI 5:12"
+          },
+          {
+            "archiveReference": "1KI 4:33",
+            "displayReference": "1KI 5:13",
+            "historicalReference": "1KI 5:13"
+          },
+          {
+            "archiveReference": "1KI 4:34",
+            "displayReference": "1KI 5:14",
+            "historicalReference": "1KI 5:14"
+          },
+          {
+            "archiveReference": "1KI 5:1",
+            "displayReference": "1KI 5:15"
+          },
+          {
+            "archiveReference": "1KI 5:2",
+            "displayReference": "1KI 5:16"
+          },
+          {
+            "archiveReference": "1KI 5:3",
+            "displayReference": "1KI 5:17"
+          },
+          {
+            "archiveReference": "1KI 5:4",
+            "displayReference": "1KI 5:18"
+          },
+          {
+            "archiveReference": "1KI 5:5",
+            "displayReference": "1KI 5:19"
+          },
+          {
+            "archiveReference": "1KI 5:6",
+            "displayReference": "1KI 5:20"
+          },
+          {
+            "archiveReference": "1KI 5:7",
+            "displayReference": "1KI 5:21"
+          },
+          {
+            "archiveReference": "1KI 5:8",
+            "displayReference": "1KI 5:22"
+          },
+          {
+            "archiveReference": "1KI 5:9",
+            "displayReference": "1KI 5:23"
+          },
+          {
+            "archiveReference": "1KI 5:10",
+            "displayReference": "1KI 5:24"
+          },
+          {
+            "archiveReference": "1KI 5:11",
+            "displayReference": "1KI 5:25"
+          },
+          {
+            "archiveReference": "1KI 5:12",
+            "displayReference": "1KI 5:26"
+          },
+          {
+            "archiveReference": "1KI 5:13",
+            "displayReference": "1KI 5:27"
+          },
+          {
+            "archiveReference": "1KI 5:14",
+            "displayReference": "1KI 5:28"
+          },
+          {
+            "archiveReference": "1KI 5:15",
+            "displayReference": "1KI 5:29"
+          },
+          {
+            "archiveReference": "1KI 5:16",
+            "displayReference": "1KI 5:30"
+          },
+          {
+            "archiveReference": "1KI 5:17",
+            "displayReference": "1KI 5:31"
+          },
+          {
+            "archiveReference": "1KI 5:18",
+            "displayReference": "1KI 5:32"
+          },
+          {
+            "archiveReference": "1KI 22:42",
+            "displayReference": "1KI 22:43",
+            "historicalReference": "1KI 22:43"
+          },
+          {
+            "archiveReference": "1KI 22:43",
+            "displayReference": "1KI 22:44",
+            "historicalReference": "1KI 22:44"
+          },
+          {
+            "archiveReference": "1KI 22:44",
+            "displayReference": "1KI 22:45",
+            "historicalReference": "1KI 22:45"
+          },
+          {
+            "archiveReference": "1KI 22:45",
+            "displayReference": "1KI 22:46",
+            "historicalReference": "1KI 22:46"
+          },
+          {
+            "archiveReference": "1KI 22:46",
+            "displayReference": "1KI 22:47",
+            "historicalReference": "1KI 22:47"
+          },
+          {
+            "archiveReference": "1KI 22:47",
+            "displayReference": "1KI 22:48",
+            "historicalReference": "1KI 22:48"
+          },
+          {
+            "archiveReference": "1KI 22:48",
+            "displayReference": "1KI 22:49",
+            "historicalReference": "1KI 22:49"
+          },
+          {
+            "archiveReference": "1KI 22:49",
+            "displayReference": "1KI 22:50",
+            "historicalReference": "1KI 22:50"
+          },
+          {
+            "archiveReference": "1KI 22:50",
+            "displayReference": "1KI 22:51",
+            "historicalReference": "1KI 22:51"
+          },
+          {
+            "archiveReference": "1KI 22:51",
+            "displayReference": "1KI 22:52",
+            "historicalReference": "1KI 22:52"
+          },
+          {
+            "archiveReference": "1KI 22:52",
+            "displayReference": "1KI 22:53",
+            "historicalReference": "1KI 22:53"
+          },
+          {
+            "archiveReference": "1KI 22:53",
+            "displayReference": "1KI 22:54",
+            "historicalReference": "1KI 22:54"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "2_kings",
+      "sourceBookCode": "2KI",
+      "sourceFile": "13-2KIdeu1912.usfm",
+      "sourceFileSha256": "5FD2D2BA1E7A73724EECB8DCDA16F131E9E50F28B7B3A665987147B9DE9DD58C",
+      "coverage": "full",
+      "output": "old_testament/2_kings.json",
+      "chapters": 25,
+      "verseUnits": 719,
+      "coveredVerseNumbers": 719,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "2KI 11:21",
+            "displayReference": "2KI 12:1",
+            "historicalReference": "2KI 12:1"
+          },
+          {
+            "archiveReference": "2KI 12:1",
+            "displayReference": "2KI 12:2"
+          },
+          {
+            "archiveReference": "2KI 12:2",
+            "displayReference": "2KI 12:3"
+          },
+          {
+            "archiveReference": "2KI 12:3",
+            "displayReference": "2KI 12:4"
+          },
+          {
+            "archiveReference": "2KI 12:4",
+            "displayReference": "2KI 12:5"
+          },
+          {
+            "archiveReference": "2KI 12:5",
+            "displayReference": "2KI 12:6"
+          },
+          {
+            "archiveReference": "2KI 12:6",
+            "displayReference": "2KI 12:7"
+          },
+          {
+            "archiveReference": "2KI 12:7",
+            "displayReference": "2KI 12:8"
+          },
+          {
+            "archiveReference": "2KI 12:8",
+            "displayReference": "2KI 12:9"
+          },
+          {
+            "archiveReference": "2KI 12:9",
+            "displayReference": "2KI 12:10"
+          },
+          {
+            "archiveReference": "2KI 12:10",
+            "displayReference": "2KI 12:11"
+          },
+          {
+            "archiveReference": "2KI 12:11",
+            "displayReference": "2KI 12:12"
+          },
+          {
+            "archiveReference": "2KI 12:12",
+            "displayReference": "2KI 12:13"
+          },
+          {
+            "archiveReference": "2KI 12:13",
+            "displayReference": "2KI 12:14"
+          },
+          {
+            "archiveReference": "2KI 12:14",
+            "displayReference": "2KI 12:15"
+          },
+          {
+            "archiveReference": "2KI 12:15",
+            "displayReference": "2KI 12:16"
+          },
+          {
+            "archiveReference": "2KI 12:16",
+            "displayReference": "2KI 12:17"
+          },
+          {
+            "archiveReference": "2KI 12:17",
+            "displayReference": "2KI 12:18"
+          },
+          {
+            "archiveReference": "2KI 12:18",
+            "displayReference": "2KI 12:19"
+          },
+          {
+            "archiveReference": "2KI 12:19",
+            "displayReference": "2KI 12:20"
+          },
+          {
+            "archiveReference": "2KI 12:20",
+            "displayReference": "2KI 12:21"
+          },
+          {
+            "archiveReference": "2KI 12:21",
+            "displayReference": "2KI 12:22"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "1_chronicles",
+      "sourceBookCode": "1CH",
+      "sourceFile": "14-1CHdeu1912.usfm",
+      "sourceFileSha256": "62E92842E49FBB6C67E3729AE8A76622D531A9C0F6D91B34E94B2A611EC30F73",
+      "coverage": "full",
+      "output": "old_testament/1_chronicles.json",
+      "chapters": 29,
+      "verseUnits": 942,
+      "coveredVerseNumbers": 943,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "1CH 6:1",
+            "displayReference": "1CH 5:27",
+            "historicalReference": "1CH 5:27"
+          },
+          {
+            "archiveReference": "1CH 6:2",
+            "displayReference": "1CH 5:28",
+            "historicalReference": "1CH 5:28"
+          },
+          {
+            "archiveReference": "1CH 6:3",
+            "displayReference": "1CH 5:29",
+            "historicalReference": "1CH 5:29"
+          },
+          {
+            "archiveReference": "1CH 6:4",
+            "displayReference": "1CH 5:30",
+            "historicalReference": "1CH 5:30"
+          },
+          {
+            "archiveReference": "1CH 6:5",
+            "displayReference": "1CH 5:31",
+            "historicalReference": "1CH 5:31"
+          },
+          {
+            "archiveReference": "1CH 6:6",
+            "displayReference": "1CH 5:32",
+            "historicalReference": "1CH 5:32"
+          },
+          {
+            "archiveReference": "1CH 6:7",
+            "displayReference": "1CH 5:33",
+            "historicalReference": "1CH 5:33"
+          },
+          {
+            "archiveReference": "1CH 6:8",
+            "displayReference": "1CH 5:34",
+            "historicalReference": "1CH 5:34"
+          },
+          {
+            "archiveReference": "1CH 6:9",
+            "displayReference": "1CH 5:35",
+            "historicalReference": "1CH 5:35"
+          },
+          {
+            "archiveReference": "1CH 6:10",
+            "displayReference": "1CH 5:36",
+            "historicalReference": "1CH 5:36"
+          },
+          {
+            "archiveReference": "1CH 6:11",
+            "displayReference": "1CH 5:37",
+            "historicalReference": "1CH 5:37"
+          },
+          {
+            "archiveReference": "1CH 6:12",
+            "displayReference": "1CH 5:38",
+            "historicalReference": "1CH 5:38"
+          },
+          {
+            "archiveReference": "1CH 6:13",
+            "displayReference": "1CH 5:39",
+            "historicalReference": "1CH 5:39"
+          },
+          {
+            "archiveReference": "1CH 6:14",
+            "displayReference": "1CH 5:40",
+            "historicalReference": "1CH 5:40"
+          },
+          {
+            "archiveReference": "1CH 6:15",
+            "displayReference": "1CH 5:41",
+            "historicalReference": "1CH 5:41"
+          },
+          {
+            "archiveReference": "1CH 6:16",
+            "displayReference": "1CH 6:1",
+            "historicalReference": "1CH 6:1"
+          },
+          {
+            "archiveReference": "1CH 6:17",
+            "displayReference": "1CH 6:2"
+          },
+          {
+            "archiveReference": "1CH 6:18",
+            "displayReference": "1CH 6:3"
+          },
+          {
+            "archiveReference": "1CH 6:19",
+            "displayReference": "1CH 6:4"
+          },
+          {
+            "archiveReference": "1CH 6:20",
+            "displayReference": "1CH 6:5"
+          },
+          {
+            "archiveReference": "1CH 6:21",
+            "displayReference": "1CH 6:6"
+          },
+          {
+            "archiveReference": "1CH 6:22",
+            "displayReference": "1CH 6:7"
+          },
+          {
+            "archiveReference": "1CH 6:23",
+            "displayReference": "1CH 6:8"
+          },
+          {
+            "archiveReference": "1CH 6:24",
+            "displayReference": "1CH 6:9"
+          },
+          {
+            "archiveReference": "1CH 6:25",
+            "displayReference": "1CH 6:10"
+          },
+          {
+            "archiveReference": "1CH 6:26",
+            "displayReference": "1CH 6:11"
+          },
+          {
+            "archiveReference": "1CH 6:27",
+            "displayReference": "1CH 6:12"
+          },
+          {
+            "archiveReference": "1CH 6:28",
+            "displayReference": "1CH 6:13"
+          },
+          {
+            "archiveReference": "1CH 6:29",
+            "displayReference": "1CH 6:14"
+          },
+          {
+            "archiveReference": "1CH 6:30",
+            "displayReference": "1CH 6:15"
+          },
+          {
+            "archiveReference": "1CH 6:31",
+            "displayReference": "1CH 6:16"
+          },
+          {
+            "archiveReference": "1CH 6:32",
+            "displayReference": "1CH 6:17"
+          },
+          {
+            "archiveReference": "1CH 6:33",
+            "displayReference": "1CH 6:18"
+          },
+          {
+            "archiveReference": "1CH 6:34",
+            "displayReference": "1CH 6:19"
+          },
+          {
+            "archiveReference": "1CH 6:35",
+            "displayReference": "1CH 6:20"
+          },
+          {
+            "archiveReference": "1CH 6:36",
+            "displayReference": "1CH 6:21"
+          },
+          {
+            "archiveReference": "1CH 6:37",
+            "displayReference": "1CH 6:22"
+          },
+          {
+            "archiveReference": "1CH 6:38",
+            "displayReference": "1CH 6:23"
+          },
+          {
+            "archiveReference": "1CH 6:39",
+            "displayReference": "1CH 6:24"
+          },
+          {
+            "archiveReference": "1CH 6:40",
+            "displayReference": "1CH 6:25"
+          },
+          {
+            "archiveReference": "1CH 6:41",
+            "displayReference": "1CH 6:26"
+          },
+          {
+            "archiveReference": "1CH 6:42",
+            "displayReference": "1CH 6:27"
+          },
+          {
+            "archiveReference": "1CH 6:43",
+            "displayReference": "1CH 6:28"
+          },
+          {
+            "archiveReference": "1CH 6:44",
+            "displayReference": "1CH 6:29"
+          },
+          {
+            "archiveReference": "1CH 6:45",
+            "displayReference": "1CH 6:30"
+          },
+          {
+            "archiveReference": "1CH 6:46",
+            "displayReference": "1CH 6:31"
+          },
+          {
+            "archiveReference": "1CH 6:47",
+            "displayReference": "1CH 6:32"
+          },
+          {
+            "archiveReference": "1CH 6:48",
+            "displayReference": "1CH 6:33"
+          },
+          {
+            "archiveReference": "1CH 6:49",
+            "displayReference": "1CH 6:34"
+          },
+          {
+            "archiveReference": "1CH 6:50",
+            "displayReference": "1CH 6:35"
+          },
+          {
+            "archiveReference": "1CH 6:51",
+            "displayReference": "1CH 6:36"
+          },
+          {
+            "archiveReference": "1CH 6:52",
+            "displayReference": "1CH 6:37"
+          },
+          {
+            "archiveReference": "1CH 6:53",
+            "displayReference": "1CH 6:38"
+          },
+          {
+            "archiveReference": "1CH 6:54",
+            "displayReference": "1CH 6:39"
+          },
+          {
+            "archiveReference": "1CH 6:55",
+            "displayReference": "1CH 6:40"
+          },
+          {
+            "archiveReference": "1CH 6:56",
+            "displayReference": "1CH 6:41"
+          },
+          {
+            "archiveReference": "1CH 6:57",
+            "displayReference": "1CH 6:42"
+          },
+          {
+            "archiveReference": "1CH 6:58",
+            "displayReference": "1CH 6:43"
+          },
+          {
+            "archiveReference": "1CH 6:59",
+            "displayReference": "1CH 6:44"
+          },
+          {
+            "archiveReference": "1CH 6:60",
+            "displayReference": "1CH 6:45"
+          },
+          {
+            "archiveReference": "1CH 6:61",
+            "displayReference": "1CH 6:46"
+          },
+          {
+            "archiveReference": "1CH 6:62",
+            "displayReference": "1CH 6:47"
+          },
+          {
+            "archiveReference": "1CH 6:63",
+            "displayReference": "1CH 6:48"
+          },
+          {
+            "archiveReference": "1CH 6:64",
+            "displayReference": "1CH 6:49"
+          },
+          {
+            "archiveReference": "1CH 6:65",
+            "displayReference": "1CH 6:50"
+          },
+          {
+            "archiveReference": "1CH 6:66",
+            "displayReference": "1CH 6:51"
+          },
+          {
+            "archiveReference": "1CH 6:67",
+            "displayReference": "1CH 6:52"
+          },
+          {
+            "archiveReference": "1CH 6:68",
+            "displayReference": "1CH 6:53"
+          },
+          {
+            "archiveReference": "1CH 6:69",
+            "displayReference": "1CH 6:54"
+          },
+          {
+            "archiveReference": "1CH 6:70",
+            "displayReference": "1CH 6:55"
+          },
+          {
+            "archiveReference": "1CH 6:71",
+            "displayReference": "1CH 6:56"
+          },
+          {
+            "archiveReference": "1CH 6:72",
+            "displayReference": "1CH 6:57"
+          },
+          {
+            "archiveReference": "1CH 6:73",
+            "displayReference": "1CH 6:58"
+          },
+          {
+            "archiveReference": "1CH 6:74",
+            "displayReference": "1CH 6:59"
+          },
+          {
+            "archiveReference": "1CH 6:75",
+            "displayReference": "1CH 6:60"
+          },
+          {
+            "archiveReference": "1CH 6:76",
+            "displayReference": "1CH 6:61"
+          },
+          {
+            "archiveReference": "1CH 6:77",
+            "displayReference": "1CH 6:62"
+          },
+          {
+            "archiveReference": "1CH 6:78",
+            "displayReference": "1CH 6:63"
+          },
+          {
+            "archiveReference": "1CH 6:79",
+            "displayReference": "1CH 6:64"
+          },
+          {
+            "archiveReference": "1CH 6:80",
+            "displayReference": "1CH 6:65"
+          },
+          {
+            "archiveReference": "1CH 6:81",
+            "displayReference": "1CH 6:66"
+          },
+          {
+            "archiveReference": "1CH 12:4",
+            "displayReference": "1CH 12:4-5"
+          },
+          {
+            "archiveReference": "1CH 12:5",
+            "displayReference": "1CH 12:6"
+          },
+          {
+            "archiveReference": "1CH 12:6",
+            "displayReference": "1CH 12:7"
+          },
+          {
+            "archiveReference": "1CH 12:7",
+            "displayReference": "1CH 12:8"
+          },
+          {
+            "archiveReference": "1CH 12:8",
+            "displayReference": "1CH 12:9"
+          },
+          {
+            "archiveReference": "1CH 12:9",
+            "displayReference": "1CH 12:10"
+          },
+          {
+            "archiveReference": "1CH 12:10",
+            "displayReference": "1CH 12:11"
+          },
+          {
+            "archiveReference": "1CH 12:11",
+            "displayReference": "1CH 12:12"
+          },
+          {
+            "archiveReference": "1CH 12:12",
+            "displayReference": "1CH 12:13"
+          },
+          {
+            "archiveReference": "1CH 12:13",
+            "displayReference": "1CH 12:14"
+          },
+          {
+            "archiveReference": "1CH 12:14",
+            "displayReference": "1CH 12:15"
+          },
+          {
+            "archiveReference": "1CH 12:15",
+            "displayReference": "1CH 12:16"
+          },
+          {
+            "archiveReference": "1CH 12:16",
+            "displayReference": "1CH 12:17"
+          },
+          {
+            "archiveReference": "1CH 12:17",
+            "displayReference": "1CH 12:18"
+          },
+          {
+            "archiveReference": "1CH 12:18",
+            "displayReference": "1CH 12:19"
+          },
+          {
+            "archiveReference": "1CH 12:19",
+            "displayReference": "1CH 12:20"
+          },
+          {
+            "archiveReference": "1CH 12:20",
+            "displayReference": "1CH 12:21"
+          },
+          {
+            "archiveReference": "1CH 12:21",
+            "displayReference": "1CH 12:22"
+          },
+          {
+            "archiveReference": "1CH 12:22",
+            "displayReference": "1CH 12:23"
+          },
+          {
+            "archiveReference": "1CH 12:23",
+            "displayReference": "1CH 12:24"
+          },
+          {
+            "archiveReference": "1CH 12:24",
+            "displayReference": "1CH 12:25"
+          },
+          {
+            "archiveReference": "1CH 12:25",
+            "displayReference": "1CH 12:26"
+          },
+          {
+            "archiveReference": "1CH 12:26",
+            "displayReference": "1CH 12:27"
+          },
+          {
+            "archiveReference": "1CH 12:27",
+            "displayReference": "1CH 12:28"
+          },
+          {
+            "archiveReference": "1CH 12:28",
+            "displayReference": "1CH 12:29"
+          },
+          {
+            "archiveReference": "1CH 12:29",
+            "displayReference": "1CH 12:30"
+          },
+          {
+            "archiveReference": "1CH 12:30",
+            "displayReference": "1CH 12:31"
+          },
+          {
+            "archiveReference": "1CH 12:31",
+            "displayReference": "1CH 12:32"
+          },
+          {
+            "archiveReference": "1CH 12:32",
+            "displayReference": "1CH 12:33"
+          },
+          {
+            "archiveReference": "1CH 12:33",
+            "displayReference": "1CH 12:34"
+          },
+          {
+            "archiveReference": "1CH 12:34",
+            "displayReference": "1CH 12:35"
+          },
+          {
+            "archiveReference": "1CH 12:35",
+            "displayReference": "1CH 12:36"
+          },
+          {
+            "archiveReference": "1CH 12:36",
+            "displayReference": "1CH 12:37"
+          },
+          {
+            "archiveReference": "1CH 12:37",
+            "displayReference": "1CH 12:38"
+          },
+          {
+            "archiveReference": "1CH 12:38",
+            "displayReference": "1CH 12:39"
+          },
+          {
+            "archiveReference": "1CH 12:39",
+            "displayReference": "1CH 12:40"
+          },
+          {
+            "archiveReference": "1CH 12:40",
+            "displayReference": "1CH 12:41"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "2_chronicles",
+      "sourceBookCode": "2CH",
+      "sourceFile": "15-2CHdeu1912.usfm",
+      "sourceFileSha256": "5B7F677DF33AFAA1CE6B55F9112DD1B64ABE47AD520E075ACB398D7530C4C2E8",
+      "coverage": "full",
+      "output": "old_testament/2_chronicles.json",
+      "chapters": 36,
+      "verseUnits": 822,
+      "coveredVerseNumbers": 822,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "2CH 2:1",
+            "displayReference": "2CH 2:1",
+            "historicalReference": "2CH 1:18"
+          },
+          {
+            "archiveReference": "2CH 14:1",
+            "displayReference": "2CH 13:23",
+            "historicalReference": "2CH 13:23"
+          },
+          {
+            "archiveReference": "2CH 14:2",
+            "displayReference": "2CH 14:1"
+          },
+          {
+            "archiveReference": "2CH 14:3",
+            "displayReference": "2CH 14:2"
+          },
+          {
+            "archiveReference": "2CH 14:4",
+            "displayReference": "2CH 14:3"
+          },
+          {
+            "archiveReference": "2CH 14:5",
+            "displayReference": "2CH 14:4"
+          },
+          {
+            "archiveReference": "2CH 14:6",
+            "displayReference": "2CH 14:5"
+          },
+          {
+            "archiveReference": "2CH 14:7",
+            "displayReference": "2CH 14:6"
+          },
+          {
+            "archiveReference": "2CH 14:8",
+            "displayReference": "2CH 14:7"
+          },
+          {
+            "archiveReference": "2CH 14:9",
+            "displayReference": "2CH 14:8"
+          },
+          {
+            "archiveReference": "2CH 14:10",
+            "displayReference": "2CH 14:9"
+          },
+          {
+            "archiveReference": "2CH 14:11",
+            "displayReference": "2CH 14:10"
+          },
+          {
+            "archiveReference": "2CH 14:12",
+            "displayReference": "2CH 14:11"
+          },
+          {
+            "archiveReference": "2CH 14:13",
+            "displayReference": "2CH 14:12"
+          },
+          {
+            "archiveReference": "2CH 14:14",
+            "displayReference": "2CH 14:13"
+          },
+          {
+            "archiveReference": "2CH 14:15",
+            "displayReference": "2CH 14:14"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ezra",
+      "sourceBookCode": "EZR",
+      "sourceFile": "16-EZRdeu1912.usfm",
+      "sourceFileSha256": "FABCCBC513A388EF255266495D58C8823FDFC43D3BC617EC81A0C914EAA65512",
+      "coverage": "full",
+      "output": "old_testament/ezra.json",
+      "chapters": 10,
+      "verseUnits": 280,
+      "coveredVerseNumbers": 280,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "nehemiah",
+      "sourceBookCode": "NEH",
+      "sourceFile": "17-NEHdeu1912.usfm",
+      "sourceFileSha256": "C90DBAFE7AAC8B1CBA2F5D03CAEFED38F156E1A4BA140B1F4C7DA87CF29C256D",
+      "coverage": "full",
+      "output": "old_testament/nehemiah.json",
+      "chapters": 13,
+      "verseUnits": 406,
+      "coveredVerseNumbers": 406,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "NEH 4:1",
+            "displayReference": "NEH 3:33",
+            "historicalReference": "NEH 3:33"
+          },
+          {
+            "archiveReference": "NEH 4:2",
+            "displayReference": "NEH 3:34",
+            "historicalReference": "NEH 3:34"
+          },
+          {
+            "archiveReference": "NEH 4:3",
+            "displayReference": "NEH 3:35",
+            "historicalReference": "NEH 3:35"
+          },
+          {
+            "archiveReference": "NEH 4:4",
+            "displayReference": "NEH 3:36",
+            "historicalReference": "NEH 3:36"
+          },
+          {
+            "archiveReference": "NEH 4:5",
+            "displayReference": "NEH 3:37",
+            "historicalReference": "NEH 3:37"
+          },
+          {
+            "archiveReference": "NEH 4:6",
+            "displayReference": "NEH 3:38",
+            "historicalReference": "NEH 3:38"
+          },
+          {
+            "archiveReference": "NEH 4:7",
+            "displayReference": "NEH 4:1"
+          },
+          {
+            "archiveReference": "NEH 4:8",
+            "displayReference": "NEH 4:2"
+          },
+          {
+            "archiveReference": "NEH 4:9",
+            "displayReference": "NEH 4:3"
+          },
+          {
+            "archiveReference": "NEH 4:10",
+            "displayReference": "NEH 4:4"
+          },
+          {
+            "archiveReference": "NEH 4:11",
+            "displayReference": "NEH 4:5"
+          },
+          {
+            "archiveReference": "NEH 4:12",
+            "displayReference": "NEH 4:6"
+          },
+          {
+            "archiveReference": "NEH 4:13",
+            "displayReference": "NEH 4:7"
+          },
+          {
+            "archiveReference": "NEH 4:14",
+            "displayReference": "NEH 4:8"
+          },
+          {
+            "archiveReference": "NEH 4:15",
+            "displayReference": "NEH 4:9"
+          },
+          {
+            "archiveReference": "NEH 4:16",
+            "displayReference": "NEH 4:10"
+          },
+          {
+            "archiveReference": "NEH 4:17",
+            "displayReference": "NEH 4:11"
+          },
+          {
+            "archiveReference": "NEH 4:18",
+            "displayReference": "NEH 4:12"
+          },
+          {
+            "archiveReference": "NEH 4:19",
+            "displayReference": "NEH 4:13"
+          },
+          {
+            "archiveReference": "NEH 4:20",
+            "displayReference": "NEH 4:14"
+          },
+          {
+            "archiveReference": "NEH 4:21",
+            "displayReference": "NEH 4:15"
+          },
+          {
+            "archiveReference": "NEH 4:22",
+            "displayReference": "NEH 4:16"
+          },
+          {
+            "archiveReference": "NEH 4:23",
+            "displayReference": "NEH 4:17"
+          },
+          {
+            "archiveReference": "NEH 9:38",
+            "displayReference": "NEH 10:1",
+            "historicalReference": "NEH 10:1"
+          },
+          {
+            "archiveReference": "NEH 10:1",
+            "displayReference": "NEH 10:2"
+          },
+          {
+            "archiveReference": "NEH 10:2",
+            "displayReference": "NEH 10:3"
+          },
+          {
+            "archiveReference": "NEH 10:3",
+            "displayReference": "NEH 10:4"
+          },
+          {
+            "archiveReference": "NEH 10:4",
+            "displayReference": "NEH 10:5"
+          },
+          {
+            "archiveReference": "NEH 10:5",
+            "displayReference": "NEH 10:6"
+          },
+          {
+            "archiveReference": "NEH 10:6",
+            "displayReference": "NEH 10:7"
+          },
+          {
+            "archiveReference": "NEH 10:7",
+            "displayReference": "NEH 10:8"
+          },
+          {
+            "archiveReference": "NEH 10:8",
+            "displayReference": "NEH 10:9"
+          },
+          {
+            "archiveReference": "NEH 10:9",
+            "displayReference": "NEH 10:10"
+          },
+          {
+            "archiveReference": "NEH 10:10",
+            "displayReference": "NEH 10:11"
+          },
+          {
+            "archiveReference": "NEH 10:11",
+            "displayReference": "NEH 10:12"
+          },
+          {
+            "archiveReference": "NEH 10:12",
+            "displayReference": "NEH 10:13"
+          },
+          {
+            "archiveReference": "NEH 10:13",
+            "displayReference": "NEH 10:14"
+          },
+          {
+            "archiveReference": "NEH 10:14",
+            "displayReference": "NEH 10:15"
+          },
+          {
+            "archiveReference": "NEH 10:15",
+            "displayReference": "NEH 10:16"
+          },
+          {
+            "archiveReference": "NEH 10:16",
+            "displayReference": "NEH 10:17"
+          },
+          {
+            "archiveReference": "NEH 10:17",
+            "displayReference": "NEH 10:18"
+          },
+          {
+            "archiveReference": "NEH 10:18",
+            "displayReference": "NEH 10:19"
+          },
+          {
+            "archiveReference": "NEH 10:19",
+            "displayReference": "NEH 10:20"
+          },
+          {
+            "archiveReference": "NEH 10:20",
+            "displayReference": "NEH 10:21"
+          },
+          {
+            "archiveReference": "NEH 10:21",
+            "displayReference": "NEH 10:22"
+          },
+          {
+            "archiveReference": "NEH 10:22",
+            "displayReference": "NEH 10:23"
+          },
+          {
+            "archiveReference": "NEH 10:23",
+            "displayReference": "NEH 10:24"
+          },
+          {
+            "archiveReference": "NEH 10:24",
+            "displayReference": "NEH 10:25"
+          },
+          {
+            "archiveReference": "NEH 10:25",
+            "displayReference": "NEH 10:26"
+          },
+          {
+            "archiveReference": "NEH 10:26",
+            "displayReference": "NEH 10:27"
+          },
+          {
+            "archiveReference": "NEH 10:27",
+            "displayReference": "NEH 10:28"
+          },
+          {
+            "archiveReference": "NEH 10:28",
+            "displayReference": "NEH 10:29"
+          },
+          {
+            "archiveReference": "NEH 10:29",
+            "displayReference": "NEH 10:30"
+          },
+          {
+            "archiveReference": "NEH 10:30",
+            "displayReference": "NEH 10:31"
+          },
+          {
+            "archiveReference": "NEH 10:31",
+            "displayReference": "NEH 10:32"
+          },
+          {
+            "archiveReference": "NEH 10:32",
+            "displayReference": "NEH 10:33"
+          },
+          {
+            "archiveReference": "NEH 10:33",
+            "displayReference": "NEH 10:34"
+          },
+          {
+            "archiveReference": "NEH 10:34",
+            "displayReference": "NEH 10:35"
+          },
+          {
+            "archiveReference": "NEH 10:35",
+            "displayReference": "NEH 10:36"
+          },
+          {
+            "archiveReference": "NEH 10:36",
+            "displayReference": "NEH 10:37"
+          },
+          {
+            "archiveReference": "NEH 10:37",
+            "displayReference": "NEH 10:38"
+          },
+          {
+            "archiveReference": "NEH 10:38",
+            "displayReference": "NEH 10:39"
+          },
+          {
+            "archiveReference": "NEH 10:39",
+            "displayReference": "NEH 10:40"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "esther",
+      "sourceBookCode": "EST",
+      "sourceFile": "18-ESTdeu1912.usfm",
+      "sourceFileSha256": "7466B10E83AEDE34E1EFB0DB61C1EDC5587897830464603E78D145F3DEE5FE66",
+      "coverage": "full",
+      "output": "old_testament/esther.json",
+      "chapters": 10,
+      "verseUnits": 167,
+      "coveredVerseNumbers": 167,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "job",
+      "sourceBookCode": "JOB",
+      "sourceFile": "19-JOBdeu1912.usfm",
+      "sourceFileSha256": "276C53752E23ECB43CD529CCB1465CF7C28CA08DA5DE5425B4719A079E13F70C",
+      "coverage": "full",
+      "output": "old_testament/job.json",
+      "chapters": 42,
+      "verseUnits": 1070,
+      "coveredVerseNumbers": 1070,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "JOB 41:1",
+            "displayReference": "JOB 40:25",
+            "historicalReference": "JOB 40:25"
+          },
+          {
+            "archiveReference": "JOB 41:2",
+            "displayReference": "JOB 40:26",
+            "historicalReference": "JOB 40:26"
+          },
+          {
+            "archiveReference": "JOB 41:3",
+            "displayReference": "JOB 40:27",
+            "historicalReference": "JOB 40:27"
+          },
+          {
+            "archiveReference": "JOB 41:4",
+            "displayReference": "JOB 40:28",
+            "historicalReference": "JOB 40:28"
+          },
+          {
+            "archiveReference": "JOB 41:5",
+            "displayReference": "JOB 40:29",
+            "historicalReference": "JOB 40:29"
+          },
+          {
+            "archiveReference": "JOB 41:6",
+            "displayReference": "JOB 40:30",
+            "historicalReference": "JOB 40:30"
+          },
+          {
+            "archiveReference": "JOB 41:7",
+            "displayReference": "JOB 40:31",
+            "historicalReference": "JOB 40:31"
+          },
+          {
+            "archiveReference": "JOB 41:8",
+            "displayReference": "JOB 40:32",
+            "historicalReference": "JOB 40:32"
+          },
+          {
+            "archiveReference": "JOB 41:9",
+            "displayReference": "JOB 41:1",
+            "historicalReference": "JOB 40:1"
+          },
+          {
+            "archiveReference": "JOB 41:10",
+            "displayReference": "JOB 41:2",
+            "historicalReference": "JOB 41:2"
+          },
+          {
+            "archiveReference": "JOB 41:11",
+            "displayReference": "JOB 41:3",
+            "historicalReference": "JOB 41:3"
+          },
+          {
+            "archiveReference": "JOB 41:12",
+            "displayReference": "JOB 41:4",
+            "historicalReference": "JOB 41:4"
+          },
+          {
+            "archiveReference": "JOB 41:13",
+            "displayReference": "JOB 41:5",
+            "historicalReference": "JOB 41:5"
+          },
+          {
+            "archiveReference": "JOB 41:14",
+            "displayReference": "JOB 41:6",
+            "historicalReference": "JOB 41:6"
+          },
+          {
+            "archiveReference": "JOB 41:15",
+            "displayReference": "JOB 41:7",
+            "historicalReference": "JOB 41:7"
+          },
+          {
+            "archiveReference": "JOB 41:16",
+            "displayReference": "JOB 41:8",
+            "historicalReference": "JOB 41:8"
+          },
+          {
+            "archiveReference": "JOB 41:17",
+            "displayReference": "JOB 41:9",
+            "historicalReference": "JOB 41:9"
+          },
+          {
+            "archiveReference": "JOB 41:18",
+            "displayReference": "JOB 41:10",
+            "historicalReference": "JOB 41:10"
+          },
+          {
+            "archiveReference": "JOB 41:19",
+            "displayReference": "JOB 41:11",
+            "historicalReference": "JOB 41:11"
+          },
+          {
+            "archiveReference": "JOB 41:20",
+            "displayReference": "JOB 41:12",
+            "historicalReference": "JOB 41:12"
+          },
+          {
+            "archiveReference": "JOB 41:21",
+            "displayReference": "JOB 41:13",
+            "historicalReference": "JOB 41:13"
+          },
+          {
+            "archiveReference": "JOB 41:22",
+            "displayReference": "JOB 41:14",
+            "historicalReference": "JOB 41:14"
+          },
+          {
+            "archiveReference": "JOB 41:23",
+            "displayReference": "JOB 41:15",
+            "historicalReference": "JOB 41:15"
+          },
+          {
+            "archiveReference": "JOB 41:24",
+            "displayReference": "JOB 41:16",
+            "historicalReference": "JOB 41:16"
+          },
+          {
+            "archiveReference": "JOB 41:25",
+            "displayReference": "JOB 41:17",
+            "historicalReference": "JOB 41:17"
+          },
+          {
+            "archiveReference": "JOB 41:26",
+            "displayReference": "JOB 41:18",
+            "historicalReference": "JOB 41:18"
+          },
+          {
+            "archiveReference": "JOB 41:27",
+            "displayReference": "JOB 41:19",
+            "historicalReference": "JOB 41:19"
+          },
+          {
+            "archiveReference": "JOB 41:28",
+            "displayReference": "JOB 41:20",
+            "historicalReference": "JOB 41:20"
+          },
+          {
+            "archiveReference": "JOB 41:29",
+            "displayReference": "JOB 41:21",
+            "historicalReference": "JOB 41:21"
+          },
+          {
+            "archiveReference": "JOB 41:30",
+            "displayReference": "JOB 41:22",
+            "historicalReference": "JOB 41:22"
+          },
+          {
+            "archiveReference": "JOB 41:31",
+            "displayReference": "JOB 41:23",
+            "historicalReference": "JOB 41:23"
+          },
+          {
+            "archiveReference": "JOB 41:32",
+            "displayReference": "JOB 41:24",
+            "historicalReference": "JOB 41:24"
+          },
+          {
+            "archiveReference": "JOB 41:33",
+            "displayReference": "JOB 41:25",
+            "historicalReference": "JOB 41:25"
+          },
+          {
+            "archiveReference": "JOB 41:34",
+            "displayReference": "JOB 41:26",
+            "historicalReference": "JOB 41:26"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "psalms",
+      "sourceBookCode": "PSA",
+      "sourceFile": "20-PSAdeu1912.usfm",
+      "sourceFileSha256": "D67DD78E47183D02357B1497CF4AEC389173D7026EBB53CE3C16CBE8205CE0D9",
+      "coverage": "full",
+      "output": "old_testament/psalms.json",
+      "chapters": 150,
+      "verseUnits": 2461,
+      "coveredVerseNumbers": 2461,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "proverbs",
+      "sourceBookCode": "PRO",
+      "sourceFile": "21-PROdeu1912.usfm",
+      "sourceFileSha256": "E913C209DD59083F61E9EE61CD82A8EDB8897B095FD543F447AEA2B4B50E7BF1",
+      "coverage": "full",
+      "output": "old_testament/proverbs.json",
+      "chapters": 31,
+      "verseUnits": 915,
+      "coveredVerseNumbers": 915,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ecclesiastes",
+      "sourceBookCode": "ECC",
+      "sourceFile": "22-ECCdeu1912.usfm",
+      "sourceFileSha256": "FA8DAFDEFEC5D1E65D5898F83D02D6640644776118B9008FC9930C69EEA8E527",
+      "coverage": "full",
+      "output": "old_testament/ecclesiastes.json",
+      "chapters": 12,
+      "verseUnits": 222,
+      "coveredVerseNumbers": 222,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "ECC 5:1",
+            "displayReference": "ECC 4:17",
+            "historicalReference": "ECC 4:17"
+          },
+          {
+            "archiveReference": "ECC 5:2",
+            "displayReference": "ECC 5:1"
+          },
+          {
+            "archiveReference": "ECC 5:3",
+            "displayReference": "ECC 5:2"
+          },
+          {
+            "archiveReference": "ECC 5:4",
+            "displayReference": "ECC 5:3"
+          },
+          {
+            "archiveReference": "ECC 5:5",
+            "displayReference": "ECC 5:4"
+          },
+          {
+            "archiveReference": "ECC 5:6",
+            "displayReference": "ECC 5:5"
+          },
+          {
+            "archiveReference": "ECC 5:7",
+            "displayReference": "ECC 5:6"
+          },
+          {
+            "archiveReference": "ECC 5:8",
+            "displayReference": "ECC 5:7"
+          },
+          {
+            "archiveReference": "ECC 5:9",
+            "displayReference": "ECC 5:8"
+          },
+          {
+            "archiveReference": "ECC 5:10",
+            "displayReference": "ECC 5:9"
+          },
+          {
+            "archiveReference": "ECC 5:11",
+            "displayReference": "ECC 5:10"
+          },
+          {
+            "archiveReference": "ECC 5:12",
+            "displayReference": "ECC 5:11"
+          },
+          {
+            "archiveReference": "ECC 5:13",
+            "displayReference": "ECC 5:12"
+          },
+          {
+            "archiveReference": "ECC 5:14",
+            "displayReference": "ECC 5:13"
+          },
+          {
+            "archiveReference": "ECC 5:15",
+            "displayReference": "ECC 5:14"
+          },
+          {
+            "archiveReference": "ECC 5:16",
+            "displayReference": "ECC 5:15"
+          },
+          {
+            "archiveReference": "ECC 5:17",
+            "displayReference": "ECC 5:16"
+          },
+          {
+            "archiveReference": "ECC 5:18",
+            "displayReference": "ECC 5:17"
+          },
+          {
+            "archiveReference": "ECC 5:19",
+            "displayReference": "ECC 5:18"
+          },
+          {
+            "archiveReference": "ECC 5:20",
+            "displayReference": "ECC 5:19"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "song_of_songs",
+      "sourceBookCode": "SNG",
+      "sourceFile": "23-SNGdeu1912.usfm",
+      "sourceFileSha256": "6A1A2B7A3A32C58AE0A188C0147E9B88C2C64198B35C36522FD0F405380977FE",
+      "coverage": "full",
+      "output": "old_testament/song_of_songs.json",
+      "chapters": 8,
+      "verseUnits": 117,
+      "coveredVerseNumbers": 117,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "SNG 6:13",
+            "displayReference": "SNG 7:1",
+            "historicalReference": "SNG 7:1"
+          },
+          {
+            "archiveReference": "SNG 7:1",
+            "displayReference": "SNG 7:2"
+          },
+          {
+            "archiveReference": "SNG 7:2",
+            "displayReference": "SNG 7:3"
+          },
+          {
+            "archiveReference": "SNG 7:3",
+            "displayReference": "SNG 7:4"
+          },
+          {
+            "archiveReference": "SNG 7:4",
+            "displayReference": "SNG 7:5"
+          },
+          {
+            "archiveReference": "SNG 7:5",
+            "displayReference": "SNG 7:6"
+          },
+          {
+            "archiveReference": "SNG 7:6",
+            "displayReference": "SNG 7:7"
+          },
+          {
+            "archiveReference": "SNG 7:7",
+            "displayReference": "SNG 7:8"
+          },
+          {
+            "archiveReference": "SNG 7:8",
+            "displayReference": "SNG 7:9"
+          },
+          {
+            "archiveReference": "SNG 7:9",
+            "displayReference": "SNG 7:10"
+          },
+          {
+            "archiveReference": "SNG 7:10",
+            "displayReference": "SNG 7:11"
+          },
+          {
+            "archiveReference": "SNG 7:11",
+            "displayReference": "SNG 7:12"
+          },
+          {
+            "archiveReference": "SNG 7:12",
+            "displayReference": "SNG 7:13"
+          },
+          {
+            "archiveReference": "SNG 7:13",
+            "displayReference": "SNG 7:14"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "isaiah",
+      "sourceBookCode": "ISA",
+      "sourceFile": "24-ISAdeu1912.usfm",
+      "sourceFileSha256": "DACA8923266D6B8C4A62576E4396FDDE1CED00FB10FA8045D96F26FF6D88F6C1",
+      "coverage": "full",
+      "output": "old_testament/isaiah.json",
+      "chapters": 66,
+      "verseUnits": 1292,
+      "coveredVerseNumbers": 1292,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "alternateReferenceMarkers",
+        "mappings": [
+          {
+            "archiveReference": "ISA 9:1",
+            "historicalReference": "ISA 8:23"
+          },
+          {
+            "archiveReference": "ISA 64:2",
+            "historicalReference": "ISA 1b"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "jeremiah",
+      "sourceBookCode": "JER",
+      "sourceFile": "25-JERdeu1912.usfm",
+      "sourceFileSha256": "D2162446424CEF4C9620C1BF505949F7C48B83E3E33E1FA23CF2D431E76E0FB8",
+      "coverage": "full",
+      "output": "old_testament/jeremiah.json",
+      "chapters": 52,
+      "verseUnits": 1364,
+      "coveredVerseNumbers": 1364,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "JER 9:1",
+            "displayReference": "JER 8:23",
+            "historicalReference": "JER 8:23"
+          },
+          {
+            "archiveReference": "JER 9:2",
+            "displayReference": "JER 9:1"
+          },
+          {
+            "archiveReference": "JER 9:3",
+            "displayReference": "JER 9:2"
+          },
+          {
+            "archiveReference": "JER 9:4",
+            "displayReference": "JER 9:3"
+          },
+          {
+            "archiveReference": "JER 9:5",
+            "displayReference": "JER 9:4"
+          },
+          {
+            "archiveReference": "JER 9:6",
+            "displayReference": "JER 9:5"
+          },
+          {
+            "archiveReference": "JER 9:7",
+            "displayReference": "JER 9:6"
+          },
+          {
+            "archiveReference": "JER 9:8",
+            "displayReference": "JER 9:7"
+          },
+          {
+            "archiveReference": "JER 9:9",
+            "displayReference": "JER 9:8"
+          },
+          {
+            "archiveReference": "JER 9:10",
+            "displayReference": "JER 9:9"
+          },
+          {
+            "archiveReference": "JER 9:11",
+            "displayReference": "JER 9:10"
+          },
+          {
+            "archiveReference": "JER 9:12",
+            "displayReference": "JER 9:11"
+          },
+          {
+            "archiveReference": "JER 9:13",
+            "displayReference": "JER 9:12"
+          },
+          {
+            "archiveReference": "JER 9:14",
+            "displayReference": "JER 9:13"
+          },
+          {
+            "archiveReference": "JER 9:15",
+            "displayReference": "JER 9:14"
+          },
+          {
+            "archiveReference": "JER 9:16",
+            "displayReference": "JER 9:15"
+          },
+          {
+            "archiveReference": "JER 9:17",
+            "displayReference": "JER 9:16"
+          },
+          {
+            "archiveReference": "JER 9:18",
+            "displayReference": "JER 9:17"
+          },
+          {
+            "archiveReference": "JER 9:19",
+            "displayReference": "JER 9:18"
+          },
+          {
+            "archiveReference": "JER 9:20",
+            "displayReference": "JER 9:19"
+          },
+          {
+            "archiveReference": "JER 9:21",
+            "displayReference": "JER 9:20"
+          },
+          {
+            "archiveReference": "JER 9:22",
+            "displayReference": "JER 9:21"
+          },
+          {
+            "archiveReference": "JER 9:23",
+            "displayReference": "JER 9:22"
+          },
+          {
+            "archiveReference": "JER 9:24",
+            "displayReference": "JER 9:23"
+          },
+          {
+            "archiveReference": "JER 9:25",
+            "displayReference": "JER 9:24"
+          },
+          {
+            "archiveReference": "JER 9:26",
+            "displayReference": "JER 9:25"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "lamentations",
+      "sourceBookCode": "LAM",
+      "sourceFile": "26-LAMdeu1912.usfm",
+      "sourceFileSha256": "E96549103B2FFB6CB42E9A274276A2761BC0370818BDE14A72A05D66A9707074",
+      "coverage": "full",
+      "output": "old_testament/lamentations.json",
+      "chapters": 5,
+      "verseUnits": 154,
+      "coveredVerseNumbers": 154,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ezekiel",
+      "sourceBookCode": "EZK",
+      "sourceFile": "27-EZKdeu1912.usfm",
+      "sourceFileSha256": "1C4219F37D636287878FFEBD692ED9082086BA8799E0E88F677384BA6F4A3598",
+      "coverage": "full",
+      "output": "old_testament/ezekiel.json",
+      "chapters": 48,
+      "verseUnits": 1273,
+      "coveredVerseNumbers": 1273,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "EZK 20:45",
+            "displayReference": "EZK 21:1",
+            "historicalReference": "EZK 21:1"
+          },
+          {
+            "archiveReference": "EZK 20:46",
+            "displayReference": "EZK 21:2",
+            "historicalReference": "EZK 21:2"
+          },
+          {
+            "archiveReference": "EZK 20:47",
+            "displayReference": "EZK 21:3",
+            "historicalReference": "EZK 21:3"
+          },
+          {
+            "archiveReference": "EZK 20:48",
+            "displayReference": "EZK 21:4",
+            "historicalReference": "EZK 21:4"
+          },
+          {
+            "archiveReference": "EZK 20:49",
+            "displayReference": "EZK 21:5",
+            "historicalReference": "EZK 21:5"
+          },
+          {
+            "archiveReference": "EZK 21:1",
+            "displayReference": "EZK 21:6"
+          },
+          {
+            "archiveReference": "EZK 21:2",
+            "displayReference": "EZK 21:7"
+          },
+          {
+            "archiveReference": "EZK 21:3",
+            "displayReference": "EZK 21:8"
+          },
+          {
+            "archiveReference": "EZK 21:4",
+            "displayReference": "EZK 21:9"
+          },
+          {
+            "archiveReference": "EZK 21:5",
+            "displayReference": "EZK 21:10"
+          },
+          {
+            "archiveReference": "EZK 21:6",
+            "displayReference": "EZK 21:11"
+          },
+          {
+            "archiveReference": "EZK 21:7",
+            "displayReference": "EZK 21:12"
+          },
+          {
+            "archiveReference": "EZK 21:8",
+            "displayReference": "EZK 21:13"
+          },
+          {
+            "archiveReference": "EZK 21:9",
+            "displayReference": "EZK 21:14"
+          },
+          {
+            "archiveReference": "EZK 21:10",
+            "displayReference": "EZK 21:15"
+          },
+          {
+            "archiveReference": "EZK 21:11",
+            "displayReference": "EZK 21:16"
+          },
+          {
+            "archiveReference": "EZK 21:12",
+            "displayReference": "EZK 21:17"
+          },
+          {
+            "archiveReference": "EZK 21:13",
+            "displayReference": "EZK 21:18"
+          },
+          {
+            "archiveReference": "EZK 21:14",
+            "displayReference": "EZK 21:19"
+          },
+          {
+            "archiveReference": "EZK 21:15",
+            "displayReference": "EZK 21:20"
+          },
+          {
+            "archiveReference": "EZK 21:16",
+            "displayReference": "EZK 21:21"
+          },
+          {
+            "archiveReference": "EZK 21:17",
+            "displayReference": "EZK 21:22"
+          },
+          {
+            "archiveReference": "EZK 21:18",
+            "displayReference": "EZK 21:23"
+          },
+          {
+            "archiveReference": "EZK 21:19",
+            "displayReference": "EZK 21:24"
+          },
+          {
+            "archiveReference": "EZK 21:20",
+            "displayReference": "EZK 21:25"
+          },
+          {
+            "archiveReference": "EZK 21:21",
+            "displayReference": "EZK 21:26"
+          },
+          {
+            "archiveReference": "EZK 21:22",
+            "displayReference": "EZK 21:27"
+          },
+          {
+            "archiveReference": "EZK 21:23",
+            "displayReference": "EZK 21:28"
+          },
+          {
+            "archiveReference": "EZK 21:24",
+            "displayReference": "EZK 21:29"
+          },
+          {
+            "archiveReference": "EZK 21:25",
+            "displayReference": "EZK 21:30"
+          },
+          {
+            "archiveReference": "EZK 21:26",
+            "displayReference": "EZK 21:31"
+          },
+          {
+            "archiveReference": "EZK 21:27",
+            "displayReference": "EZK 21:32"
+          },
+          {
+            "archiveReference": "EZK 21:28",
+            "displayReference": "EZK 21:33"
+          },
+          {
+            "archiveReference": "EZK 21:29",
+            "displayReference": "EZK 21:34"
+          },
+          {
+            "archiveReference": "EZK 21:30",
+            "displayReference": "EZK 21:35"
+          },
+          {
+            "archiveReference": "EZK 21:31",
+            "displayReference": "EZK 21:36"
+          },
+          {
+            "archiveReference": "EZK 21:32",
+            "displayReference": "EZK 21:37"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "daniel",
+      "sourceBookCode": "DAN",
+      "sourceFile": "28-DANdeu1912.usfm",
+      "sourceFileSha256": "145D70C1E990BDE1332EC3244443E6AC738FF9B7FEFF11A58B948B2A70096DBC",
+      "coverage": "full",
+      "output": "old_testament/daniel.json",
+      "chapters": 12,
+      "verseUnits": 357,
+      "coveredVerseNumbers": 357,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "DAN 4:1",
+            "displayReference": "DAN 3:31",
+            "historicalReference": "DAN 3:31"
+          },
+          {
+            "archiveReference": "DAN 4:2",
+            "displayReference": "DAN 3:32",
+            "historicalReference": "DAN 3:32"
+          },
+          {
+            "archiveReference": "DAN 4:3",
+            "displayReference": "DAN 3:33",
+            "historicalReference": "DAN 3:33"
+          },
+          {
+            "archiveReference": "DAN 4:4",
+            "displayReference": "DAN 4:1",
+            "historicalReference": "DAN 4:1"
+          },
+          {
+            "archiveReference": "DAN 4:5",
+            "displayReference": "DAN 4:2"
+          },
+          {
+            "archiveReference": "DAN 4:6",
+            "displayReference": "DAN 4:3"
+          },
+          {
+            "archiveReference": "DAN 4:7",
+            "displayReference": "DAN 4:4"
+          },
+          {
+            "archiveReference": "DAN 4:8",
+            "displayReference": "DAN 4:5"
+          },
+          {
+            "archiveReference": "DAN 4:9",
+            "displayReference": "DAN 4:6"
+          },
+          {
+            "archiveReference": "DAN 4:10",
+            "displayReference": "DAN 4:7"
+          },
+          {
+            "archiveReference": "DAN 4:11",
+            "displayReference": "DAN 4:8"
+          },
+          {
+            "archiveReference": "DAN 4:12",
+            "displayReference": "DAN 4:9"
+          },
+          {
+            "archiveReference": "DAN 4:13",
+            "displayReference": "DAN 4:10"
+          },
+          {
+            "archiveReference": "DAN 4:14",
+            "displayReference": "DAN 4:11"
+          },
+          {
+            "archiveReference": "DAN 4:15",
+            "displayReference": "DAN 4:12"
+          },
+          {
+            "archiveReference": "DAN 4:16",
+            "displayReference": "DAN 4:13"
+          },
+          {
+            "archiveReference": "DAN 4:17",
+            "displayReference": "DAN 4:14"
+          },
+          {
+            "archiveReference": "DAN 4:18",
+            "displayReference": "DAN 4:15"
+          },
+          {
+            "archiveReference": "DAN 4:19",
+            "displayReference": "DAN 4:16"
+          },
+          {
+            "archiveReference": "DAN 4:20",
+            "displayReference": "DAN 4:17"
+          },
+          {
+            "archiveReference": "DAN 4:21",
+            "displayReference": "DAN 4:18"
+          },
+          {
+            "archiveReference": "DAN 4:22",
+            "displayReference": "DAN 4:19"
+          },
+          {
+            "archiveReference": "DAN 4:23",
+            "displayReference": "DAN 4:20"
+          },
+          {
+            "archiveReference": "DAN 4:24",
+            "displayReference": "DAN 4:21"
+          },
+          {
+            "archiveReference": "DAN 4:25",
+            "displayReference": "DAN 4:22"
+          },
+          {
+            "archiveReference": "DAN 4:26",
+            "displayReference": "DAN 4:23"
+          },
+          {
+            "archiveReference": "DAN 4:27",
+            "displayReference": "DAN 4:24"
+          },
+          {
+            "archiveReference": "DAN 4:28",
+            "displayReference": "DAN 4:25"
+          },
+          {
+            "archiveReference": "DAN 4:29",
+            "displayReference": "DAN 4:26"
+          },
+          {
+            "archiveReference": "DAN 4:30",
+            "displayReference": "DAN 4:27"
+          },
+          {
+            "archiveReference": "DAN 4:31",
+            "displayReference": "DAN 4:28"
+          },
+          {
+            "archiveReference": "DAN 4:32",
+            "displayReference": "DAN 4:29"
+          },
+          {
+            "archiveReference": "DAN 4:33",
+            "displayReference": "DAN 4:30"
+          },
+          {
+            "archiveReference": "DAN 4:34",
+            "displayReference": "DAN 4:31"
+          },
+          {
+            "archiveReference": "DAN 4:35",
+            "displayReference": "DAN 4:32"
+          },
+          {
+            "archiveReference": "DAN 4:36",
+            "displayReference": "DAN 4:33"
+          },
+          {
+            "archiveReference": "DAN 4:37",
+            "displayReference": "DAN 4:34"
+          },
+          {
+            "archiveReference": "DAN 5:31",
+            "displayReference": "DAN 6:1",
+            "historicalReference": "DAN 6:1"
+          },
+          {
+            "archiveReference": "DAN 6:1",
+            "displayReference": "DAN 6:2"
+          },
+          {
+            "archiveReference": "DAN 6:2",
+            "displayReference": "DAN 6:3"
+          },
+          {
+            "archiveReference": "DAN 6:3",
+            "displayReference": "DAN 6:4"
+          },
+          {
+            "archiveReference": "DAN 6:4",
+            "displayReference": "DAN 6:5"
+          },
+          {
+            "archiveReference": "DAN 6:5",
+            "displayReference": "DAN 6:6"
+          },
+          {
+            "archiveReference": "DAN 6:6",
+            "displayReference": "DAN 6:7"
+          },
+          {
+            "archiveReference": "DAN 6:7",
+            "displayReference": "DAN 6:8"
+          },
+          {
+            "archiveReference": "DAN 6:8",
+            "displayReference": "DAN 6:9"
+          },
+          {
+            "archiveReference": "DAN 6:9",
+            "displayReference": "DAN 6:10"
+          },
+          {
+            "archiveReference": "DAN 6:10",
+            "displayReference": "DAN 6:11"
+          },
+          {
+            "archiveReference": "DAN 6:11",
+            "displayReference": "DAN 6:12"
+          },
+          {
+            "archiveReference": "DAN 6:12",
+            "displayReference": "DAN 6:13"
+          },
+          {
+            "archiveReference": "DAN 6:13",
+            "displayReference": "DAN 6:14"
+          },
+          {
+            "archiveReference": "DAN 6:14",
+            "displayReference": "DAN 6:15"
+          },
+          {
+            "archiveReference": "DAN 6:15",
+            "displayReference": "DAN 6:16"
+          },
+          {
+            "archiveReference": "DAN 6:16",
+            "displayReference": "DAN 6:17"
+          },
+          {
+            "archiveReference": "DAN 6:17",
+            "displayReference": "DAN 6:18"
+          },
+          {
+            "archiveReference": "DAN 6:18",
+            "displayReference": "DAN 6:19"
+          },
+          {
+            "archiveReference": "DAN 6:19",
+            "displayReference": "DAN 6:20"
+          },
+          {
+            "archiveReference": "DAN 6:20",
+            "displayReference": "DAN 6:21"
+          },
+          {
+            "archiveReference": "DAN 6:21",
+            "displayReference": "DAN 6:22"
+          },
+          {
+            "archiveReference": "DAN 6:22",
+            "displayReference": "DAN 6:23"
+          },
+          {
+            "archiveReference": "DAN 6:23",
+            "displayReference": "DAN 6:24"
+          },
+          {
+            "archiveReference": "DAN 6:24",
+            "displayReference": "DAN 6:25"
+          },
+          {
+            "archiveReference": "DAN 6:25",
+            "displayReference": "DAN 6:26"
+          },
+          {
+            "archiveReference": "DAN 6:26",
+            "displayReference": "DAN 6:27"
+          },
+          {
+            "archiveReference": "DAN 6:27",
+            "displayReference": "DAN 6:28"
+          },
+          {
+            "archiveReference": "DAN 6:28",
+            "displayReference": "DAN 6:29"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "hosea",
+      "sourceBookCode": "HOS",
+      "sourceFile": "29-HOSdeu1912.usfm",
+      "sourceFileSha256": "442B214F6DBAF9A6FC99440F7A7750D8021258EB393FCA68088BFDD826E2CE3A",
+      "coverage": "full",
+      "output": "old_testament/hosea.json",
+      "chapters": 14,
+      "verseUnits": 197,
+      "coveredVerseNumbers": 197,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "HOS 1:10",
+            "displayReference": "HOS 2:1",
+            "historicalReference": "HOS 2:1"
+          },
+          {
+            "archiveReference": "HOS 1:11",
+            "displayReference": "HOS 2:2",
+            "historicalReference": "HOS 2:2"
+          },
+          {
+            "archiveReference": "HOS 2:1",
+            "displayReference": "HOS 2:3"
+          },
+          {
+            "archiveReference": "HOS 2:2",
+            "displayReference": "HOS 2:4"
+          },
+          {
+            "archiveReference": "HOS 2:3",
+            "displayReference": "HOS 2:5"
+          },
+          {
+            "archiveReference": "HOS 2:4",
+            "displayReference": "HOS 2:6"
+          },
+          {
+            "archiveReference": "HOS 2:5",
+            "displayReference": "HOS 2:7"
+          },
+          {
+            "archiveReference": "HOS 2:6",
+            "displayReference": "HOS 2:8"
+          },
+          {
+            "archiveReference": "HOS 2:7",
+            "displayReference": "HOS 2:9"
+          },
+          {
+            "archiveReference": "HOS 2:8",
+            "displayReference": "HOS 2:10"
+          },
+          {
+            "archiveReference": "HOS 2:9",
+            "displayReference": "HOS 2:11"
+          },
+          {
+            "archiveReference": "HOS 2:10",
+            "displayReference": "HOS 2:12"
+          },
+          {
+            "archiveReference": "HOS 2:11",
+            "displayReference": "HOS 2:13"
+          },
+          {
+            "archiveReference": "HOS 2:12",
+            "displayReference": "HOS 2:14"
+          },
+          {
+            "archiveReference": "HOS 2:13",
+            "displayReference": "HOS 2:15"
+          },
+          {
+            "archiveReference": "HOS 2:14",
+            "displayReference": "HOS 2:16"
+          },
+          {
+            "archiveReference": "HOS 2:15",
+            "displayReference": "HOS 2:17"
+          },
+          {
+            "archiveReference": "HOS 2:16",
+            "displayReference": "HOS 2:18"
+          },
+          {
+            "archiveReference": "HOS 2:17",
+            "displayReference": "HOS 2:19"
+          },
+          {
+            "archiveReference": "HOS 2:18",
+            "displayReference": "HOS 2:20"
+          },
+          {
+            "archiveReference": "HOS 2:19",
+            "displayReference": "HOS 2:21"
+          },
+          {
+            "archiveReference": "HOS 2:20",
+            "displayReference": "HOS 2:22"
+          },
+          {
+            "archiveReference": "HOS 2:21",
+            "displayReference": "HOS 2:23"
+          },
+          {
+            "archiveReference": "HOS 2:22",
+            "displayReference": "HOS 2:24"
+          },
+          {
+            "archiveReference": "HOS 2:23",
+            "displayReference": "HOS 2:25"
+          },
+          {
+            "archiveReference": "HOS 11:12",
+            "displayReference": "HOS 12:1"
+          },
+          {
+            "archiveReference": "HOS 12:1",
+            "displayReference": "HOS 12:2"
+          },
+          {
+            "archiveReference": "HOS 12:2",
+            "displayReference": "HOS 12:3"
+          },
+          {
+            "archiveReference": "HOS 12:3",
+            "displayReference": "HOS 12:4"
+          },
+          {
+            "archiveReference": "HOS 12:4",
+            "displayReference": "HOS 12:5"
+          },
+          {
+            "archiveReference": "HOS 12:5",
+            "displayReference": "HOS 12:6"
+          },
+          {
+            "archiveReference": "HOS 12:6",
+            "displayReference": "HOS 12:7"
+          },
+          {
+            "archiveReference": "HOS 12:7",
+            "displayReference": "HOS 12:8"
+          },
+          {
+            "archiveReference": "HOS 12:8",
+            "displayReference": "HOS 12:9"
+          },
+          {
+            "archiveReference": "HOS 12:9",
+            "displayReference": "HOS 12:10"
+          },
+          {
+            "archiveReference": "HOS 12:10",
+            "displayReference": "HOS 12:11"
+          },
+          {
+            "archiveReference": "HOS 12:11",
+            "displayReference": "HOS 12:12"
+          },
+          {
+            "archiveReference": "HOS 12:12",
+            "displayReference": "HOS 12:13"
+          },
+          {
+            "archiveReference": "HOS 12:13",
+            "displayReference": "HOS 12:14"
+          },
+          {
+            "archiveReference": "HOS 12:14",
+            "displayReference": "HOS 12:15"
+          },
+          {
+            "archiveReference": "HOS 13:16",
+            "displayReference": "HOS 14:1",
+            "historicalReference": "HOS 14:1"
+          },
+          {
+            "archiveReference": "HOS 14:1",
+            "displayReference": "HOS 14:2"
+          },
+          {
+            "archiveReference": "HOS 14:2",
+            "displayReference": "HOS 14:3"
+          },
+          {
+            "archiveReference": "HOS 14:3",
+            "displayReference": "HOS 14:4"
+          },
+          {
+            "archiveReference": "HOS 14:4",
+            "displayReference": "HOS 14:5"
+          },
+          {
+            "archiveReference": "HOS 14:5",
+            "displayReference": "HOS 14:6"
+          },
+          {
+            "archiveReference": "HOS 14:6",
+            "displayReference": "HOS 14:7"
+          },
+          {
+            "archiveReference": "HOS 14:7",
+            "displayReference": "HOS 14:8"
+          },
+          {
+            "archiveReference": "HOS 14:8",
+            "displayReference": "HOS 14:9"
+          },
+          {
+            "archiveReference": "HOS 14:9",
+            "displayReference": "HOS 14:10"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "joel",
+      "sourceBookCode": "JOL",
+      "sourceFile": "30-JOLdeu1912.usfm",
+      "sourceFileSha256": "05ED97B17978AAB3521124DA4F96FA84606EB6335EEE6D05337B96D803338C74",
+      "coverage": "full",
+      "output": "old_testament/joel.json",
+      "chapters": 4,
+      "verseUnits": 73,
+      "coveredVerseNumbers": 73,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "JOL 2:28",
+            "displayReference": "JOL 3:1",
+            "historicalReference": "JOL 3:1"
+          },
+          {
+            "archiveReference": "JOL 2:29",
+            "displayReference": "JOL 3:2",
+            "historicalReference": "JOL 3:2"
+          },
+          {
+            "archiveReference": "JOL 2:30",
+            "displayReference": "JOL 3:3",
+            "historicalReference": "JOL 3:3"
+          },
+          {
+            "archiveReference": "JOL 2:31",
+            "displayReference": "JOL 3:4",
+            "historicalReference": "JOL 3:4"
+          },
+          {
+            "archiveReference": "JOL 2:32",
+            "displayReference": "JOL 3:5",
+            "historicalReference": "JOL 3:5"
+          },
+          {
+            "archiveReference": "JOL 3:1",
+            "displayReference": "JOL 4:1",
+            "historicalReference": "JOL 4:1"
+          },
+          {
+            "archiveReference": "JOL 3:2",
+            "displayReference": "JOL 4:2",
+            "historicalReference": "JOL 4:2"
+          },
+          {
+            "archiveReference": "JOL 3:3",
+            "displayReference": "JOL 4:3",
+            "historicalReference": "JOL 4:3"
+          },
+          {
+            "archiveReference": "JOL 3:4",
+            "displayReference": "JOL 4:4",
+            "historicalReference": "JOL 4:4"
+          },
+          {
+            "archiveReference": "JOL 3:5",
+            "displayReference": "JOL 4:5",
+            "historicalReference": "JOL 4:5"
+          },
+          {
+            "archiveReference": "JOL 3:6",
+            "displayReference": "JOL 4:6",
+            "historicalReference": "JOL 4:6"
+          },
+          {
+            "archiveReference": "JOL 3:7",
+            "displayReference": "JOL 4:7",
+            "historicalReference": "JOL 4:7"
+          },
+          {
+            "archiveReference": "JOL 3:8",
+            "displayReference": "JOL 4:8",
+            "historicalReference": "JOL 4:8"
+          },
+          {
+            "archiveReference": "JOL 3:9",
+            "displayReference": "JOL 4:9",
+            "historicalReference": "JOL 4:9"
+          },
+          {
+            "archiveReference": "JOL 3:10",
+            "displayReference": "JOL 4:10",
+            "historicalReference": "JOL 4:10"
+          },
+          {
+            "archiveReference": "JOL 3:11",
+            "displayReference": "JOL 4:11",
+            "historicalReference": "JOL 4:11"
+          },
+          {
+            "archiveReference": "JOL 3:12",
+            "displayReference": "JOL 4:12",
+            "historicalReference": "JOL 4:12"
+          },
+          {
+            "archiveReference": "JOL 3:13",
+            "displayReference": "JOL 4:13",
+            "historicalReference": "JOL 4:13"
+          },
+          {
+            "archiveReference": "JOL 3:14",
+            "displayReference": "JOL 4:14",
+            "historicalReference": "JOL 4:14"
+          },
+          {
+            "archiveReference": "JOL 3:15",
+            "displayReference": "JOL 4:15",
+            "historicalReference": "JOL 4:15"
+          },
+          {
+            "archiveReference": "JOL 3:16",
+            "displayReference": "JOL 4:16",
+            "historicalReference": "JOL 4:16"
+          },
+          {
+            "archiveReference": "JOL 3:17",
+            "displayReference": "JOL 4:17",
+            "historicalReference": "JOL 4:17"
+          },
+          {
+            "archiveReference": "JOL 3:18",
+            "displayReference": "JOL 4:18",
+            "historicalReference": "JOL 4:18"
+          },
+          {
+            "archiveReference": "JOL 3:19",
+            "displayReference": "JOL 4:19",
+            "historicalReference": "JOL 4:19"
+          },
+          {
+            "archiveReference": "JOL 3:20",
+            "displayReference": "JOL 4:20",
+            "historicalReference": "JOL 4:20"
+          },
+          {
+            "archiveReference": "JOL 3:21",
+            "displayReference": "JOL 4:21",
+            "historicalReference": "JOL 4:21"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "amos",
+      "sourceBookCode": "AMO",
+      "sourceFile": "31-AMOdeu1912.usfm",
+      "sourceFileSha256": "FAC1AF32FEBC58D942BBCB1054BE24ABA035B76E6CA873084AD210E7ADBB75F5",
+      "coverage": "full",
+      "output": "old_testament/amos.json",
+      "chapters": 9,
+      "verseUnits": 146,
+      "coveredVerseNumbers": 146,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "obadiah",
+      "sourceBookCode": "OBA",
+      "sourceFile": "32-OBAdeu1912.usfm",
+      "sourceFileSha256": "E50FC76EFC054B4A60F1DF8CB71075DC65A68909056BB9E38EF948DEE56334EF",
+      "coverage": "full",
+      "output": "old_testament/obadiah.json",
+      "chapters": 1,
+      "verseUnits": 21,
+      "coveredVerseNumbers": 21,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "jonah",
+      "sourceBookCode": "JON",
+      "sourceFile": "33-JONdeu1912.usfm",
+      "sourceFileSha256": "01728FDF2BC0F62BDD19D4760F8439FB1193AD59EEF763F937263F477FDB9E9C",
+      "coverage": "full",
+      "output": "old_testament/jonah.json",
+      "chapters": 4,
+      "verseUnits": 48,
+      "coveredVerseNumbers": 48,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "JON 1:17",
+            "displayReference": "JON 2:1",
+            "historicalReference": "JON 2:1"
+          },
+          {
+            "archiveReference": "JON 2:1",
+            "displayReference": "JON 2:2"
+          },
+          {
+            "archiveReference": "JON 2:2",
+            "displayReference": "JON 2:3"
+          },
+          {
+            "archiveReference": "JON 2:3",
+            "displayReference": "JON 2:4"
+          },
+          {
+            "archiveReference": "JON 2:4",
+            "displayReference": "JON 2:5"
+          },
+          {
+            "archiveReference": "JON 2:5",
+            "displayReference": "JON 2:6"
+          },
+          {
+            "archiveReference": "JON 2:6",
+            "displayReference": "JON 2:7"
+          },
+          {
+            "archiveReference": "JON 2:7",
+            "displayReference": "JON 2:8"
+          },
+          {
+            "archiveReference": "JON 2:8",
+            "displayReference": "JON 2:9"
+          },
+          {
+            "archiveReference": "JON 2:9",
+            "displayReference": "JON 2:10"
+          },
+          {
+            "archiveReference": "JON 2:10",
+            "displayReference": "JON 2:11"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "micah",
+      "sourceBookCode": "MIC",
+      "sourceFile": "34-MICdeu1912.usfm",
+      "sourceFileSha256": "1521EEB4064455ADC0F50BC22484A327E54B2B55F89980840F66B9194B040F24",
+      "coverage": "full",
+      "output": "old_testament/micah.json",
+      "chapters": 7,
+      "verseUnits": 105,
+      "coveredVerseNumbers": 105,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "MIC 5:1",
+            "displayReference": "MIC 4:14",
+            "historicalReference": "MIC 4:14"
+          },
+          {
+            "archiveReference": "MIC 5:2",
+            "displayReference": "MIC 5:1"
+          },
+          {
+            "archiveReference": "MIC 5:3",
+            "displayReference": "MIC 5:2"
+          },
+          {
+            "archiveReference": "MIC 5:4",
+            "displayReference": "MIC 5:3"
+          },
+          {
+            "archiveReference": "MIC 5:5",
+            "displayReference": "MIC 5:4"
+          },
+          {
+            "archiveReference": "MIC 5:6",
+            "displayReference": "MIC 5:5"
+          },
+          {
+            "archiveReference": "MIC 5:7",
+            "displayReference": "MIC 5:6"
+          },
+          {
+            "archiveReference": "MIC 5:8",
+            "displayReference": "MIC 5:7"
+          },
+          {
+            "archiveReference": "MIC 5:9",
+            "displayReference": "MIC 5:8"
+          },
+          {
+            "archiveReference": "MIC 5:10",
+            "displayReference": "MIC 5:9"
+          },
+          {
+            "archiveReference": "MIC 5:11",
+            "displayReference": "MIC 5:10"
+          },
+          {
+            "archiveReference": "MIC 5:12",
+            "displayReference": "MIC 5:11"
+          },
+          {
+            "archiveReference": "MIC 5:13",
+            "displayReference": "MIC 5:12"
+          },
+          {
+            "archiveReference": "MIC 5:14",
+            "displayReference": "MIC 5:13"
+          },
+          {
+            "archiveReference": "MIC 5:15",
+            "displayReference": "MIC 5:14"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "nahum",
+      "sourceBookCode": "NAM",
+      "sourceFile": "35-NAMdeu1912.usfm",
+      "sourceFileSha256": "02B81FA1F2443C7FAAF913DD9FE6AF6AEF165A6E24C294B1168FEAA3FBBB3A2B",
+      "coverage": "full",
+      "output": "old_testament/nahum.json",
+      "chapters": 3,
+      "verseUnits": 47,
+      "coveredVerseNumbers": 47,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "NAM 1:15",
+            "displayReference": "NAM 2:1",
+            "historicalReference": "NAM 2:1"
+          },
+          {
+            "archiveReference": "NAM 2:1",
+            "displayReference": "NAM 2:2"
+          },
+          {
+            "archiveReference": "NAM 2:2",
+            "displayReference": "NAM 2:3"
+          },
+          {
+            "archiveReference": "NAM 2:3",
+            "displayReference": "NAM 2:4"
+          },
+          {
+            "archiveReference": "NAM 2:4",
+            "displayReference": "NAM 2:5"
+          },
+          {
+            "archiveReference": "NAM 2:5",
+            "displayReference": "NAM 2:6"
+          },
+          {
+            "archiveReference": "NAM 2:6",
+            "displayReference": "NAM 2:7"
+          },
+          {
+            "archiveReference": "NAM 2:7",
+            "displayReference": "NAM 2:8"
+          },
+          {
+            "archiveReference": "NAM 2:8",
+            "displayReference": "NAM 2:9"
+          },
+          {
+            "archiveReference": "NAM 2:9",
+            "displayReference": "NAM 2:10"
+          },
+          {
+            "archiveReference": "NAM 2:10",
+            "displayReference": "NAM 2:11"
+          },
+          {
+            "archiveReference": "NAM 2:11",
+            "displayReference": "NAM 2:12"
+          },
+          {
+            "archiveReference": "NAM 2:12",
+            "displayReference": "NAM 2:13"
+          },
+          {
+            "archiveReference": "NAM 2:13",
+            "displayReference": "NAM 2:14"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "habakkuk",
+      "sourceBookCode": "HAB",
+      "sourceFile": "36-HABdeu1912.usfm",
+      "sourceFileSha256": "442663F12D69913E806BB5C873498AF43AC67C22946D2CA7EFCBCF75FF2C1C57",
+      "coverage": "full",
+      "output": "old_testament/habakkuk.json",
+      "chapters": 3,
+      "verseUnits": 56,
+      "coveredVerseNumbers": 56,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "zephaniah",
+      "sourceBookCode": "ZEP",
+      "sourceFile": "37-ZEPdeu1912.usfm",
+      "sourceFileSha256": "BC76F988439BE4615560DF088FCC4E01F54E67D30B1CC938B1D4BD6C89557D0A",
+      "coverage": "full",
+      "output": "old_testament/zephaniah.json",
+      "chapters": 3,
+      "verseUnits": 53,
+      "coveredVerseNumbers": 53,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "haggai",
+      "sourceBookCode": "HAG",
+      "sourceFile": "38-HAGdeu1912.usfm",
+      "sourceFileSha256": "1176FF73C1356F18C567CD46545B161545A6145BC83077177A037664DE81A465",
+      "coverage": "full",
+      "output": "old_testament/haggai.json",
+      "chapters": 2,
+      "verseUnits": 38,
+      "coveredVerseNumbers": 38,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "zechariah",
+      "sourceBookCode": "ZEC",
+      "sourceFile": "39-ZECdeu1912.usfm",
+      "sourceFileSha256": "33C031A171B9FCDEF2A7455BAA826DBF0481A396504D7C5287DCB5E38E67ED9D",
+      "coverage": "full",
+      "output": "old_testament/zechariah.json",
+      "chapters": 14,
+      "verseUnits": 211,
+      "coveredVerseNumbers": 211,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "ZEC 1:18",
+            "displayReference": "ZEC 2:1",
+            "historicalReference": "ZEC 2:1"
+          },
+          {
+            "archiveReference": "ZEC 1:19",
+            "displayReference": "ZEC 2:2",
+            "historicalReference": "ZEC 2:2"
+          },
+          {
+            "archiveReference": "ZEC 1:20",
+            "displayReference": "ZEC 2:3",
+            "historicalReference": "ZEC 2:3"
+          },
+          {
+            "archiveReference": "ZEC 1:21",
+            "displayReference": "ZEC 2:4",
+            "historicalReference": "ZEC 2:4"
+          },
+          {
+            "archiveReference": "ZEC 2:1",
+            "displayReference": "ZEC 2:5"
+          },
+          {
+            "archiveReference": "ZEC 2:2",
+            "displayReference": "ZEC 2:6"
+          },
+          {
+            "archiveReference": "ZEC 2:3",
+            "displayReference": "ZEC 2:7"
+          },
+          {
+            "archiveReference": "ZEC 2:4",
+            "displayReference": "ZEC 2:8"
+          },
+          {
+            "archiveReference": "ZEC 2:5",
+            "displayReference": "ZEC 2:9"
+          },
+          {
+            "archiveReference": "ZEC 2:6",
+            "displayReference": "ZEC 2:10"
+          },
+          {
+            "archiveReference": "ZEC 2:7",
+            "displayReference": "ZEC 2:11"
+          },
+          {
+            "archiveReference": "ZEC 2:8",
+            "displayReference": "ZEC 2:12"
+          },
+          {
+            "archiveReference": "ZEC 2:9",
+            "displayReference": "ZEC 2:13"
+          },
+          {
+            "archiveReference": "ZEC 2:10",
+            "displayReference": "ZEC 2:14"
+          },
+          {
+            "archiveReference": "ZEC 2:11",
+            "displayReference": "ZEC 2:15"
+          },
+          {
+            "archiveReference": "ZEC 2:12",
+            "displayReference": "ZEC 2:16"
+          },
+          {
+            "archiveReference": "ZEC 2:13",
+            "displayReference": "ZEC 2:17"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "malachi",
+      "sourceBookCode": "MAL",
+      "sourceFile": "40-MALdeu1912.usfm",
+      "sourceFileSha256": "BFC4904DD2464208678723EBF718A17554E8F350869D515421DBBB7763BB34DE",
+      "coverage": "full",
+      "output": "old_testament/malachi.json",
+      "chapters": 3,
+      "verseUnits": 55,
+      "coveredVerseNumbers": 55,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "MAL 4:1",
+            "displayReference": "MAL 3:19",
+            "historicalReference": "MAL 3:19"
+          },
+          {
+            "archiveReference": "MAL 4:2",
+            "displayReference": "MAL 3:20",
+            "historicalReference": "MAL 3:20"
+          },
+          {
+            "archiveReference": "MAL 4:3",
+            "displayReference": "MAL 3:21",
+            "historicalReference": "MAL 3:21"
+          },
+          {
+            "archiveReference": "MAL 4:4",
+            "displayReference": "MAL 3:22",
+            "historicalReference": "MAL 3:22"
+          },
+          {
+            "archiveReference": "MAL 4:5",
+            "displayReference": "MAL 3:23",
+            "historicalReference": "MAL 3:23"
+          },
+          {
+            "archiveReference": "MAL 4:6",
+            "displayReference": "MAL 3:24",
+            "historicalReference": "MAL 3:24"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "matthew",
+      "sourceBookCode": "MAT",
+      "sourceFile": "70-MATdeu1912.usfm",
+      "sourceFileSha256": "8A8C35C29E99BD9790057F76ECB3F67D6AE4835A9B7338D83795ECCB533245AB",
+      "coverage": "full",
+      "output": "new_testament/matthew.json",
+      "chapters": 28,
+      "verseUnits": 1071,
+      "coveredVerseNumbers": 1071,
+      "jesusWordSpans": 521,
+      "inheritedJesusVerseSpans": 521,
+      "omittedMixedJesusVerseSpans": 123,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "mark",
+      "sourceBookCode": "MRK",
+      "sourceFile": "71-MRKdeu1912.usfm",
+      "sourceFileSha256": "4A38A5B10846455185ADE2D100BFB584CD8145520B17997D9564B467E05A2A91",
+      "coverage": "full",
+      "output": "new_testament/mark.json",
+      "chapters": 16,
+      "verseUnits": 678,
+      "coveredVerseNumbers": 678,
+      "jesusWordSpans": 170,
+      "inheritedJesusVerseSpans": 170,
+      "omittedMixedJesusVerseSpans": 115,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "luke",
+      "sourceBookCode": "LUK",
+      "sourceFile": "72-LUKdeu1912.usfm",
+      "sourceFileSha256": "571F2EF0A1B3A6ADB912D13E9BBEC0DB81A272F0E60629275B085D1CAA1FF314",
+      "coverage": "full",
+      "output": "new_testament/luke.json",
+      "chapters": 24,
+      "verseUnits": 1151,
+      "coveredVerseNumbers": 1151,
+      "jesusWordSpans": 437,
+      "inheritedJesusVerseSpans": 437,
+      "omittedMixedJesusVerseSpans": 148,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "john",
+      "sourceBookCode": "JHN",
+      "sourceFile": "73-JHNdeu1912.usfm",
+      "sourceFileSha256": "44130F11A2AA9210F6A440C634EC539C224A5309A205A6536AF4C4FCC298A719",
+      "coverage": "full",
+      "output": "new_testament/john.json",
+      "chapters": 21,
+      "verseUnits": 879,
+      "coveredVerseNumbers": 879,
+      "jesusWordSpans": 285,
+      "inheritedJesusVerseSpans": 285,
+      "omittedMixedJesusVerseSpans": 146,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "acts",
+      "sourceBookCode": "ACT",
+      "sourceFile": "74-ACTdeu1912.usfm",
+      "sourceFileSha256": "05D5EFFB7FC98F090CEE154BFE1B6043A83B26E329C19314E8876633BA275638",
+      "coverage": "full",
+      "output": "new_testament/acts.json",
+      "chapters": 28,
+      "verseUnits": 1007,
+      "coveredVerseNumbers": 1007,
+      "jesusWordSpans": 11,
+      "inheritedJesusVerseSpans": 11,
+      "omittedMixedJesusVerseSpans": 20,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0,
+      "sourceMapping": {
+        "kind": "verseMappings",
+        "mappings": [
+          {
+            "archiveReference": "ACT 19:41",
+            "displayReference": "ACT 19:41",
+            "historicalReference": "ACT 19:40"
+          }
+        ],
+        "reason": "The eBible archive uses normalized interchange references and prints historical Luther references in brackets. The app strips that metadata and maps the unchanged verse sequence to the German reader's existing reference structure."
+      }
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "romans",
+      "sourceBookCode": "ROM",
+      "sourceFile": "75-ROMdeu1912.usfm",
+      "sourceFileSha256": "0B367A4F8FC9E55AD7CF96E839E6C2214FA4EDC66854ADF3903470DBB2D69CD8",
+      "coverage": "full",
+      "output": "new_testament/romans.json",
+      "chapters": 16,
+      "verseUnits": 433,
+      "coveredVerseNumbers": 433,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_corinthians",
+      "sourceBookCode": "1CO",
+      "sourceFile": "76-1COdeu1912.usfm",
+      "sourceFileSha256": "49AC0C8984A8BDF49AA2F517C47E3737AEE496B26F72E63AF779977EA1FBA097",
+      "coverage": "full",
+      "output": "new_testament/1_corinthians.json",
+      "chapters": 16,
+      "verseUnits": 437,
+      "coveredVerseNumbers": 437,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 2,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_corinthians",
+      "sourceBookCode": "2CO",
+      "sourceFile": "77-2COdeu1912.usfm",
+      "sourceFileSha256": "83ED9234BFB568E1DB4252B867CAC50777E7F8E06453D08CDE1DE4370E98C693",
+      "coverage": "full",
+      "output": "new_testament/2_corinthians.json",
+      "chapters": 13,
+      "verseUnits": 257,
+      "coveredVerseNumbers": 257,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 1,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "galatians",
+      "sourceBookCode": "GAL",
+      "sourceFile": "78-GALdeu1912.usfm",
+      "sourceFileSha256": "4E11CFEF7F15DC8826B96A94EB95383865B816434D3595155F6421B37B5B7403",
+      "coverage": "full",
+      "output": "new_testament/galatians.json",
+      "chapters": 6,
+      "verseUnits": 149,
+      "coveredVerseNumbers": 149,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "ephesians",
+      "sourceBookCode": "EPH",
+      "sourceFile": "79-EPHdeu1912.usfm",
+      "sourceFileSha256": "45F9C166C4A51328B0F9A3EDE5C490ED62D867674B3622D3B64219289B915F57",
+      "coverage": "full",
+      "output": "new_testament/ephesians.json",
+      "chapters": 6,
+      "verseUnits": 155,
+      "coveredVerseNumbers": 155,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "philippians",
+      "sourceBookCode": "PHP",
+      "sourceFile": "80-PHPdeu1912.usfm",
+      "sourceFileSha256": "6A1E8A81E0E9548AB90F1D3D7000BFEB1D4C85017EFDF4B2CA5BEA62B3D8DF2B",
+      "coverage": "full",
+      "output": "new_testament/philippians.json",
+      "chapters": 4,
+      "verseUnits": 104,
+      "coveredVerseNumbers": 104,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "colossians",
+      "sourceBookCode": "COL",
+      "sourceFile": "81-COLdeu1912.usfm",
+      "sourceFileSha256": "EB3CD93B864411F6EC1E21C347EE8481933D0AC2FF24CDCE1D02A0CE8471BC18",
+      "coverage": "full",
+      "output": "new_testament/colossians.json",
+      "chapters": 4,
+      "verseUnits": 95,
+      "coveredVerseNumbers": 95,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_thessalonians",
+      "sourceBookCode": "1TH",
+      "sourceFile": "82-1THdeu1912.usfm",
+      "sourceFileSha256": "EA48348CB8944A9E2930540AE906479AF7013D5301708D595EF2C4D5B5872791",
+      "coverage": "full",
+      "output": "new_testament/1_thessalonians.json",
+      "chapters": 5,
+      "verseUnits": 89,
+      "coveredVerseNumbers": 89,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_thessalonians",
+      "sourceBookCode": "2TH",
+      "sourceFile": "83-2THdeu1912.usfm",
+      "sourceFileSha256": "9F9BC8C98889CD1AB8FB316B3D673D900F484B06DEACCEC23FC4670795B0F227",
+      "coverage": "full",
+      "output": "new_testament/2_thessalonians.json",
+      "chapters": 3,
+      "verseUnits": 47,
+      "coveredVerseNumbers": 47,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_timothy",
+      "sourceBookCode": "1TI",
+      "sourceFile": "84-1TIdeu1912.usfm",
+      "sourceFileSha256": "87258C111C8E6EAA9D45B49DFE5AD7D0F16D4202833301373DE57D6EE62082C9",
+      "coverage": "full",
+      "output": "new_testament/1_timothy.json",
+      "chapters": 6,
+      "verseUnits": 113,
+      "coveredVerseNumbers": 113,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_timothy",
+      "sourceBookCode": "2TI",
+      "sourceFile": "85-2TIdeu1912.usfm",
+      "sourceFileSha256": "5AE61A3544DA83A4397D271CE79888CDCBCF50CEC42303388E02DE62C31776B5",
+      "coverage": "full",
+      "output": "new_testament/2_timothy.json",
+      "chapters": 4,
+      "verseUnits": 83,
+      "coveredVerseNumbers": 83,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "titus",
+      "sourceBookCode": "TIT",
+      "sourceFile": "86-TITdeu1912.usfm",
+      "sourceFileSha256": "B0345C3CDAF31CE000E12D345157EDFC17FCAA364AD34278CB65CB6CBDF6515D",
+      "coverage": "full",
+      "output": "new_testament/titus.json",
+      "chapters": 3,
+      "verseUnits": 46,
+      "coveredVerseNumbers": 46,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "philemon",
+      "sourceBookCode": "PHM",
+      "sourceFile": "87-PHMdeu1912.usfm",
+      "sourceFileSha256": "0C44B35F8A9411DCEC07FD8F41533FEF9B4448FB0208E302F83FA2179C71CD4C",
+      "coverage": "full",
+      "output": "new_testament/philemon.json",
+      "chapters": 1,
+      "verseUnits": 25,
+      "coveredVerseNumbers": 25,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "hebrews",
+      "sourceBookCode": "HEB",
+      "sourceFile": "88-HEBdeu1912.usfm",
+      "sourceFileSha256": "FD78C5633D79D35054FFA70BC9904505391473DF7BCA0A98F564ABE135B6BE7E",
+      "coverage": "full",
+      "output": "new_testament/hebrews.json",
+      "chapters": 13,
+      "verseUnits": 303,
+      "coveredVerseNumbers": 303,
+      "jesusWordSpans": 2,
+      "inheritedJesusVerseSpans": 2,
+      "omittedMixedJesusVerseSpans": 3,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "james",
+      "sourceBookCode": "JAS",
+      "sourceFile": "89-JASdeu1912.usfm",
+      "sourceFileSha256": "22FBBBCEC2CB06AD553C48D4734D91B25BC46560D82DFA206B2AA467DAFFADF5",
+      "coverage": "full",
+      "output": "new_testament/james.json",
+      "chapters": 5,
+      "verseUnits": 108,
+      "coveredVerseNumbers": 108,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_peter",
+      "sourceBookCode": "1PE",
+      "sourceFile": "90-1PEdeu1912.usfm",
+      "sourceFileSha256": "1C5B606C8ABE505B843F8F80D4251F6BECFF016DB28AEC2E3C82AAD7D135A50E",
+      "coverage": "full",
+      "output": "new_testament/1_peter.json",
+      "chapters": 5,
+      "verseUnits": 105,
+      "coveredVerseNumbers": 105,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_peter",
+      "sourceBookCode": "2PE",
+      "sourceFile": "91-2PEdeu1912.usfm",
+      "sourceFileSha256": "1576E9A73E25E5D82781E3E1A317C7F6DE88BBBDE930D01C1C3D17A0B6C18981",
+      "coverage": "full",
+      "output": "new_testament/2_peter.json",
+      "chapters": 3,
+      "verseUnits": 61,
+      "coveredVerseNumbers": 61,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_john",
+      "sourceBookCode": "1JN",
+      "sourceFile": "92-1JNdeu1912.usfm",
+      "sourceFileSha256": "A9A9F5D1B36B08C1632A824F19BE30F83EFCCC28FE1CD018A566866C9F7898AE",
+      "coverage": "full",
+      "output": "new_testament/1_john.json",
+      "chapters": 5,
+      "verseUnits": 105,
+      "coveredVerseNumbers": 105,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_john",
+      "sourceBookCode": "2JN",
+      "sourceFile": "93-2JNdeu1912.usfm",
+      "sourceFileSha256": "38140E507F9B4D651D909C4610A9DCBBB2F49CD3C033521FD3B832BD64DF5A32",
+      "coverage": "full",
+      "output": "new_testament/2_john.json",
+      "chapters": 1,
+      "verseUnits": 13,
+      "coveredVerseNumbers": 13,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "3_john",
+      "sourceBookCode": "3JN",
+      "sourceFile": "94-3JNdeu1912.usfm",
+      "sourceFileSha256": "7C46C0A0CCDCF0C47D909ACF99C4B4254DEA88AE68D85C9190A185F354D2AFBD",
+      "coverage": "full",
+      "output": "new_testament/3_john.json",
+      "chapters": 1,
+      "verseUnits": 14,
+      "coveredVerseNumbers": 14,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "jude",
+      "sourceBookCode": "JUD",
+      "sourceFile": "95-JUDdeu1912.usfm",
+      "sourceFileSha256": "E12B256D30EE295B61D587C550FC9E92879E7B9F01AE579D395DA5E3671D3B6B",
+      "coverage": "full",
+      "output": "new_testament/jude.json",
+      "chapters": 1,
+      "verseUnits": 25,
+      "coveredVerseNumbers": 25,
+      "jesusWordSpans": 0,
+      "inheritedJesusVerseSpans": 0,
+      "omittedMixedJesusVerseSpans": 0,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "revelation",
+      "sourceBookCode": "REV",
+      "sourceFile": "96-REVdeu1912.usfm",
+      "sourceFileSha256": "F7796E4638A56FDE817EC9437543D609A380AF3EE323042F069A54270D76E1C5",
+      "coverage": "full",
+      "output": "new_testament/revelation.json",
+      "chapters": 22,
+      "verseUnits": 404,
+      "coveredVerseNumbers": 404,
+      "jesusWordSpans": 59,
+      "inheritedJesusVerseSpans": 59,
+      "omittedMixedJesusVerseSpans": 4,
+      "translatorAdditionSpans": 0,
+      "superscriptions": 0,
+      "promotedFootnoteVerses": 0,
+      "sourcePlaceholderVerses": 0
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "tobit",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "judith",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "wisdom",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "sirach",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "baruch",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "letter_of_jeremiah",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "prayer_of_manasseh",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "1_maccabees",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "2_maccabees",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "3_maccabees",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "4_maccabees",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "1_esdras",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "2_esdras",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "esther_greek",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "song_of_three",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "susanna",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "bel_and_the_dragon",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    },
+    {
+      "collection": "deuterocanonical",
+      "bookId": "psalm_151",
+      "coverage": "fallback",
+      "fallbackEditionId": "current",
+      "reason": "The traditional source contains the 66-book Protestant canon only."
+    }
+  ]
+}

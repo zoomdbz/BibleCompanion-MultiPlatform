@@ -327,7 +327,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">リビングバイブル (JCB)</string>
-    <string name="edition_fallback">この書には KJV の本文がないため、現在の英語版を表示しています。</string>
+    <string name="version_local_traditional">文語訳聖書</string>
+    <string name="edition_fallback">選択した版はこの書では利用できないため、アプリ内の既定の版を表示しています。</string>
     <string name="bible_chronology">聖書の歴史年表</string>
     <string name="chronology_intro">このガイドは、通常の書巻順や各書が書かれた時期ではなく、聖書に記された出来事の流れに沿っています。複数の時代にまたがる書や重なり合う書があり、年代上の位置について見解が分かれるものもあります。章の範囲をタップするとアプリ内で読めます。</string>
     <string name="chronology_include_deuterocanon">第二正典を含める</string>

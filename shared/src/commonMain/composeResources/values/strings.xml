@@ -359,7 +359,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">In-app Bible edition</string>
-    <string name="edition_fallback">KJV text is unavailable for this book; showing the current English edition.</string>
+    <string name="version_local_traditional">Traditional in-app Bible edition</string>
+    <string name="edition_fallback">The selected edition is unavailable for this book; showing the default in-app edition.</string>
 
     <!-- Bible chronology -->
     <string name="bible_chronology">Bible Chronology</string>

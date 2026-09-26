@@ -58,8 +58,9 @@ data class PrefsState(
   val theme: String = "System",
   val translation: String = "ESV",
   val readerMode: String = "internal",
-  // Bundled in-app edition selector. English currently offers BSB and KJV;
-  // each other language exposes and labels its one current source edition.
+  // Bundled in-app edition selector. The first edition for each language is
+  // modern and remains the default; source-backed traditional overlays are
+  // selectable where they ship with the app.
   val internalBibleVersion: String = "bsb",
   // Chronology owns this toggle so changing it does not unexpectedly alter
   // the app-wide Collections preference.

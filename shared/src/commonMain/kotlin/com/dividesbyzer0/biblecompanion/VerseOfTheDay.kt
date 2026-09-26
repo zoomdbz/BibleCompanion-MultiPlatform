@@ -59,9 +59,9 @@ object VerseOfTheDay {
   }
 
   /**
-   * Daily banks define the calendar and localized reference. When English KJV
-   * is selected, resolve that reference from the KJV overlay so the home card
-   * changes with the rest of the in-app Bible.
+   * Daily banks define the calendar and localized reference. When an alternate
+   * in-app edition is selected, resolve that reference from its overlay so the
+   * home card changes with the rest of the reader.
    */
   private fun resolveInternalEdition(
     context: PlatformContext,
@@ -69,7 +69,8 @@ object VerseOfTheDay {
     internalBibleVersion: String,
     dailyVerse: DailyVerse
   ): DailyVerse {
-    if (!BibleEditions.isKjv(effectiveLanguage, internalBibleVersion)) return dailyVerse
+    val requestedEdition = BibleEditions.effective(effectiveLanguage, internalBibleVersion)
+    if (requestedEdition == BibleEditions.defaultForLanguage(effectiveLanguage)) return dailyVerse
 
     val match = Regex("^(.+?)\\s+(\\d+):(\\d+)").find(dailyVerse.ref) ?: return dailyVerse
     val rawBookName = match.groupValues[1].trim()
@@ -81,17 +82,25 @@ object VerseOfTheDay {
     val verse = match.groupValues[3].toIntOrNull() ?: return dailyVerse
 
     for (collection in listOf("old_testament", "new_testament", "deuterocanonical")) {
+      // Daily-reference anchors intentionally use stable English book names in
+      // every language; the displayed reference itself is localized elsewhere.
       val bookId = ContentRepo.listBooksLocalized(context, collection, "en")
         .firstOrNull { (_, title) -> title.equals(bookName, ignoreCase = true) }
         ?.first ?: continue
       val raw = readAssetText(
         context,
-        "books/editions/en/${BibleEditions.KJV_1769}/$collection/$bookId.json"
+        "books/editions/$effectiveLanguage/$requestedEdition/$collection/$bookId.json"
       ) ?: return dailyVerse
       val overlay = runCatching { json.decodeFromString<EditionBookOverlay>(raw) }.getOrNull()
         ?: return dailyVerse
+      if (!overlay.isStructurallyValid(
+          expectedEditionId = requestedEdition,
+          expectedLanguage = effectiveLanguage,
+          expectedCollection = collection,
+          expectedBookId = bookId
+        )) return dailyVerse
       val text = overlay.chapters.firstOrNull { it.number == chapter }
-        ?.verses?.firstOrNull { it.verse == verse }
+        ?.verses?.firstOrNull { verse in it.verse..(it.verseEnd ?: it.verse) }
         ?.text ?: return dailyVerse
       return dailyVerse.copy(text = text)
     }

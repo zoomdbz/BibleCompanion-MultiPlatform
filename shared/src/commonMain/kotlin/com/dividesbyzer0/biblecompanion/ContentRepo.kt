@@ -84,7 +84,7 @@ object ContentRepo {
         val base = json.decodeFromString<Book>(txt)
         val requested = BibleEditions.effective(appLang, internalBibleVersion)
         val baseEdition = BibleEditions.defaultForLanguage(tag)
-        val editionApplies = tag == "en" && requested == BibleEditions.KJV_1769 &&
+        val editionApplies = requested != baseEdition &&
             collection in setOf("old_testament", "new_testament", "deuterocanonical")
         if (!editionApplies) {
             return@runCatching LoadedBook(
@@ -95,7 +95,7 @@ object ContentRepo {
             )
         }
 
-        val overlayPath = "books/editions/en/${BibleEditions.KJV_1769}/$collection/$bookId.json"
+        val overlayPath = "books/editions/$tag/$requested/$collection/$bookId.json"
         val overlayText = readAssetText(context, overlayPath)
         val fallback = LoadedBook(
             book = base,
@@ -107,10 +107,14 @@ object ContentRepo {
 
         runCatching {
             val overlay = json.decodeFromString<EditionBookOverlay>(overlayText)
-            require(overlay.editionId == BibleEditions.KJV_1769)
-            require(overlay.collection == collection && overlay.bookId == bookId)
-
             val storyByChapter = ChapterLocator.build(base).byChapter
+            require(overlay.isStructurallyValid(
+                expectedEditionId = requested,
+                expectedLanguage = tag,
+                expectedCollection = collection,
+                expectedBookId = bookId,
+                expectedChapterNumbers = storyByChapter.keys
+            ))
             val chapterByStory = storyByChapter.entries.associate { (chapter, storyId) -> storyId to chapter }
             val overlayByChapter = overlay.chapters.associateBy { it.number }
             val mergedStories = base.stories.map { story ->
@@ -119,15 +123,21 @@ object ContentRepo {
                 val chapter = chapterNumber?.let { overlayByChapter[it] }
                 if (chapter == null) story else story.copy(
                     summaryBullets = chapter.verses.map { verse ->
-                        "${verse.text.trim()} (${verse.chapter}:${verse.verse})."
+                        val marker = if (verse.verseEnd != null && verse.verseEnd != verse.verse) {
+                            "${verse.chapter}:${verse.verse}-${verse.verseEnd}"
+                        } else {
+                            "${verse.chapter}:${verse.verse}"
+                        }
+                        "${verse.text.trim()} ($marker)."
                     },
-                    superscription = chapter.superscription
+                    superscription = chapter.superscription,
+                    headings = chapter.headings ?: story.headings
                 )
             }
             LoadedBook(
                 book = base.copy(stories = mergedStories),
                 requestedEdition = requested,
-                effectiveEdition = BibleEditions.KJV_1769,
+                effectiveEdition = requested,
                 coverage = EditionCoverage.FULL
             )
         }.getOrElse { fallback }

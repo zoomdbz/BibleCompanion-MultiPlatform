@@ -327,7 +327,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">الكتاب الشريف (SAB)</string>
-    <string name="edition_fallback">نص KJV غير متاح لهذا السفر؛ تُعرض النسخة الإنجليزية الحالية.</string>
+    <string name="version_local_traditional">ترجمة فان دايك</string>
+    <string name="edition_fallback">الإصدار المحدد غير متاح لهذا السفر؛ يتم عرض الإصدار الافتراضي داخل التطبيق.</string>
 
     <string name="bible_chronology">التسلسل الزمني للكتاب المقدس</string>
     <string name="chronology_intro">يتبع هذا الدليل الزمن الذي تصفه الأسفار المقدسة، لا ترتيب الأسفار المعتاد ولا بالضرورة زمن كتابة كل سفر. تمتد بعض الأسفار عبر أكثر من حقبة أو تتداخل معها، وبعض المواضع الزمنية مختلف عليها. اضغط على نطاق من الإصحاحات لقراءته داخل التطبيق.</string>

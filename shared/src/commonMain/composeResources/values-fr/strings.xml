@@ -328,7 +328,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Nouvelle Bible Segond (NBS)</string>
-    <string name="edition_fallback">Le texte de la KJV n'est pas disponible pour ce livre ; l'édition anglaise actuelle est affichée.</string>
+    <string name="version_local_traditional">Louis Segond 1910 (LSG)</string>
+    <string name="edition_fallback">L'édition sélectionnée n'est pas disponible pour ce livre ; l'édition intégrée par défaut est affichée.</string>
 
     <string name="bible_chronology">Chronologie biblique</string>
     <string name="chronology_intro">Ce guide suit le temps décrit dans les Écritures, et non l'ordre habituel des livres ni nécessairement l'époque où chacun a été écrit. Certains livres couvrent plusieurs périodes ou se chevauchent, et quelques classements sont débattus. Touchez une plage de chapitres pour la lire dans l'application.</string>

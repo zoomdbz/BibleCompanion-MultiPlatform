@@ -1,0 +1,3513 @@
+{
+  "schemaVersion": 2,
+  "editionId": "luther1912",
+  "language": "de",
+  "collection": "new_testament",
+  "bookId": "mark",
+  "sourceBookCode": "MRK",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 45,
+      "verseUnitCount": 45,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Dies ist der Anfang des Evangeliums von Jesus Christus, dem Sohn Gottes,"
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "wie geschrieben steht in den Propheten: “Siehe, ich sende meinen Engel vor dir her, der da bereite deinen Weg vor dir.”"
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "“Es ist eine Stimme eines Predigers in der Wüste: Bereitet den Weg des HERRN, macht seine Steige richtig!”"
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "Johannes, der war in der Wüste, taufte und predigte von der Taufe der Buße zur Vergebung der Sünden."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Und es ging zu ihm hinaus das ganze jüdische Land und die von Jerusalem und ließen sich alle von ihm taufen im Jordan und bekannten ihre Sünden."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Johannes aber war bekleidet mit Kamelhaaren und mit einem ledernen Gürtel um seine Lenden, und aß Heuschrecken und wilden Honig;"
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "und er predigte und sprach: Es kommt einer nach mir, der ist stärker denn ich, dem ich nicht genugsam bin, daß ich mich vor ihm bücke und die Riemen seiner Schuhe auflöse."
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Ich taufe euch mit Wasser; aber er wird euch mit dem Heiligen Geist taufen."
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "Und es begab sich zu der Zeit, daß Jesus aus Galiläa von Nazareth kam und ließ sich taufen von Johannes im Jordan."
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "Und alsbald stieg er aus dem Wasser und sah, daß sich der Himmel auftat, und den Geist gleich wie eine Taube herabkommen auf ihn."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Und da geschah eine Stimme vom Himmel: Du bist mein lieber Sohn, an dem ich Wohlgefallen habe."
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "Und alsbald trieb ihn der Geist in die Wüste,"
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "und er war allda in der Wüste Tage und ward versucht von dem Satan und war bei den Tieren, und die Engel dienten ihm."
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "Nachdem aber Johannes überantwortet war, kam Jesus nach Galiläa und predigte das Evangelium vom Reich Gottes"
+        },
+        {
+          "chapter": 1,
+          "verse": 15,
+          "text": "[J]und sprach: Die Zeit ist erfüllet, und das Reich Gottes ist herbeigekommen. Tut Buße und glaubt an das Evangelium![/J]"
+        },
+        {
+          "chapter": 1,
+          "verse": 16,
+          "text": "Da er aber am Galiläischen Meer ging, sah er Simon und Andreas, seinen Bruder, daß sie ihre Netze ins Meer warfen; denn sie waren Fischer."
+        },
+        {
+          "chapter": 1,
+          "verse": 17,
+          "text": "[J]Und Jesus sprach zu ihnen: Folget mir nach; ich will euch zu Menschenfischern machen![/J]"
+        },
+        {
+          "chapter": 1,
+          "verse": 18,
+          "text": "Alsobald verließen sie ihre Netze und folgten ihm nach."
+        },
+        {
+          "chapter": 1,
+          "verse": 19,
+          "text": "Und da er von da ein wenig weiterging, sah er Jakobus, den Sohn des Zebedäus, und Johannes, seinen Bruder, daß sie die Netze im Schiff flickten; und alsbald rief er sie."
+        },
+        {
+          "chapter": 1,
+          "verse": 20,
+          "text": "Und sie ließen ihren Vater Zebedäus im Schiff mit den Tagelöhnern und folgten ihm nach."
+        },
+        {
+          "chapter": 1,
+          "verse": 21,
+          "text": "Und sie gingen gen Kapernaum; und alsbald am Sabbat ging er in die Schule und lehrte."
+        },
+        {
+          "chapter": 1,
+          "verse": 22,
+          "text": "Und sie entsetzten sich über seine Lehre; denn er lehrte gewaltig und nicht wie die Schriftgelehrten."
+        },
+        {
+          "chapter": 1,
+          "verse": 23,
+          "text": "Und es war in ihrer Schule ein Mensch, besessen von einem unsauberen Geist, der schrie"
+        },
+        {
+          "chapter": 1,
+          "verse": 24,
+          "text": "und sprach: Halt, was haben wir mit dir zu schaffen, Jesus von Nazareth? Du bist gekommen, uns zu verderben. Ich weiß wer du bist: der Heilige Gottes."
+        },
+        {
+          "chapter": 1,
+          "verse": 25,
+          "text": "Und Jesus bedrohte ihn und sprach: Verstumme und fahre aus von ihm!"
+        },
+        {
+          "chapter": 1,
+          "verse": 26,
+          "text": "Und der unsaubere Geist riß ihn und schrie laut und fuhr aus von ihm."
+        },
+        {
+          "chapter": 1,
+          "verse": 27,
+          "text": "Und sie entsetzten sich alle, also daß sie untereinander sich befragten und sprachen: Was ist das? Was ist das für eine neue Lehre? Er gebietet mit Gewalt den unsauberen Geistern, und sie gehorchen ihm."
+        },
+        {
+          "chapter": 1,
+          "verse": 28,
+          "text": "Und sein Gerücht erscholl alsbald umher in das galiläische Land."
+        },
+        {
+          "chapter": 1,
+          "verse": 29,
+          "text": "Und sie gingen alsbald aus der Schule und kamen in das Haus des Simon und Andreas mit Jakobus und Johannes."
+        },
+        {
+          "chapter": 1,
+          "verse": 30,
+          "text": "Und die Schwiegermutter Simons lag und hatte das Fieber; und alsbald sagten sie ihm von ihr."
+        },
+        {
+          "chapter": 1,
+          "verse": 31,
+          "text": "Und er trat zu ihr und richtete sie auf und hielt sie bei der Hand; und das Fieber verließ sie, und sie diente ihnen."
+        },
+        {
+          "chapter": 1,
+          "verse": 32,
+          "text": "Am Abend aber, da die Sonne untergegangen war, brachten sie zu ihm allerlei Kranke und Besessene."
+        },
+        {
+          "chapter": 1,
+          "verse": 33,
+          "text": "Und die ganze Stadt versammelte sich vor der Tür."
+        },
+        {
+          "chapter": 1,
+          "verse": 34,
+          "text": "Und er half vielen Kranken, die mit mancherlei Seuchen beladen waren, und trieb viele Teufel aus und ließ die Teufel nicht reden, denn sie kannten ihn."
+        },
+        {
+          "chapter": 1,
+          "verse": 35,
+          "text": "Und des Morgens vor Tage stand er auf und ging hinaus. Und Jesus ging in eine wüste Stätte und betete daselbst."
+        },
+        {
+          "chapter": 1,
+          "verse": 36,
+          "text": "Und Petrus mit denen, die bei ihm waren, eilten ihm nach."
+        },
+        {
+          "chapter": 1,
+          "verse": 37,
+          "text": "Und da sie ihn fanden, sprachen sie zu ihm: Jedermann sucht dich."
+        },
+        {
+          "chapter": 1,
+          "verse": 38,
+          "text": "Und er sprach zu ihnen: Laßt uns in die nächsten Städte gehen, daß ich daselbst auch predige; denn dazu bin ich gekommen."
+        },
+        {
+          "chapter": 1,
+          "verse": 39,
+          "text": "Und er predigte in ihren Schulen in ganz Galiläa und trieb die Teufel aus."
+        },
+        {
+          "chapter": 1,
+          "verse": 40,
+          "text": "Und es kam zu ihm ein Aussätziger, der bat ihn, kniete vor ihm und sprach: Willst du, so kannst du mich wohl reinigen."
+        },
+        {
+          "chapter": 1,
+          "verse": 41,
+          "text": "Und es jammerte Jesum, und er reckte die Hand aus, rührte ihn an und sprach: Ich will's tun; sei gereinigt!"
+        },
+        {
+          "chapter": 1,
+          "verse": 42,
+          "text": "Und als er so sprach, ging der Aussatz alsbald von ihm, und er ward rein."
+        },
+        {
+          "chapter": 1,
+          "verse": 43,
+          "text": "Und Jesus bedrohte ihn und trieb ihn alsbald von sich"
+        },
+        {
+          "chapter": 1,
+          "verse": 44,
+          "text": "[J]und sprach zu ihm: Siehe zu, daß du niemand davon sagest; sondern gehe hin und zeige dich dem Priester und opfere für deine Reinigung, was Mose geboten hat, zum Zeugnis über sie.[/J]"
+        },
+        {
+          "chapter": 1,
+          "verse": 45,
+          "text": "Er aber, da er hinauskam, hob er an und sagte viel davon und machte die Geschichte ruchbar, also daß er hinfort nicht mehr konnte öffentlich in die Stadt gehen; sondern er war draußen in den wüsten Örtern, und sie kamen zu ihm von allen Enden."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lastVerse": 28,
+      "verseUnitCount": 28,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "Und über etliche Tage ging er wiederum gen Kapernaum; und es ward ruchbar, daß er im Hause war."
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "Und alsbald versammelten sich viele, also daß sie nicht Raum hatten auch draußen vor der Tür; und er sagte ihnen das Wort."
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "Und es kamen etliche zu ihm, die brachten einen Gichtbrüchigen, von vieren getragen."
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Und da sie nicht konnten zu ihm kommen vor dem Volk, deckten sie das Dach auf, da er war, und gruben's auf und ließen das Bett hernieder, darin der Gichtbrüchige lag."
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Da aber Jesus ihren Glauben sah, sprach er zu dem Gichtbrüchigen: Mein Sohn, deine Sünden sind dir vergeben."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "Es waren aber etliche Schriftgelehrte, die saßen allda und gedachten in ihrem Herzen:"
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Wie redet dieser solche Gotteslästerung? Wer kann Sünden vergeben denn allein Gott?"
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "Und Jesus erkannte alsbald in seinem Geist, daß sie also gedachten bei sich selbst, und sprach zu Ihnen: Was denkt ihr solches in eurem Herzen?"
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "[J]Welches ist leichter: zu dem Gichtbrüchigen zu sagen: Dir sind deine Sünden vergeben, oder: Stehe auf, nimm dein Bett und wandle?[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "Auf das ihr aber wisset, daß des Menschen Sohn Macht hat, zu vergeben die Sünden auf Erden, (sprach er zu dem Gichtbrüchigen):"
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "[J]Ich sage dir, stehe auf, nimm dein Bett und gehe heim![/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "Und alsbald stand er auf, nahm sein Bett und ging hinaus vor allen, also daß sie sich entsetzten und priesen Gott und sprachen: Wir haben solches noch nie gesehen."
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Und er ging wiederum hinaus an das Meer; und alles Volk kam zu ihm, und er lehrte sie."
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "Und da Jesus vorüberging, sah er Levi, den Sohn des Alphäus, am Zoll sitzen und sprach zu ihm: Folge mir nach! Und er stand auf und folgte ihm nach."
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "Und es begab sich, da er zu Tische saß in seinem Hause, setzten sich viele Zöllner und Sünder zu Tische mit Jesu und seinen Jüngern; denn ihrer waren viele, die ihm nachfolgten."
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "Und die Schriftgelehrten und Pharisäer, da sie sahen, daß er mit den Zöllnern und Sündern aß, sprachen sie zu seinen Jüngern: Warum ißt und trinkt er mit den Zöllnern und Sündern?"
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Da das Jesus hörte, sprach er zu ihnen: Die Starken bedürfen keines Arztes, sondern die Kranken. Ich bin gekommen, zu rufen die Sünder zur Buße, und nicht die Gerechten."
+        },
+        {
+          "chapter": 2,
+          "verse": 18,
+          "text": "Und die Jünger des Johannes und der Pharisäer fasteten viel; und es kamen etliche, die sprachen zu ihm: Warum fasten die Jünger des Johannes und der Pharisäer, und deine Jünger fasten nicht?"
+        },
+        {
+          "chapter": 2,
+          "verse": 19,
+          "text": "Und Jesus sprach zu ihnen: Wie können die Hochzeitsleute fasten, dieweil der Bräutigam bei ihnen ist? Solange der Bräutigam bei ihnen ist, können sie nicht fasten."
+        },
+        {
+          "chapter": 2,
+          "verse": 20,
+          "text": "[J]Es wird aber die Zeit kommen, daß der Bräutigam von ihnen genommen wird; dann werden sie fasten.[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 21,
+          "text": "[J]Niemand flickt einen Lappen von neuem Tuch an ein altes Kleid; denn der neue Lappen reißt doch vom alten, und der Riß wird ärger.[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 22,
+          "text": "[J]Und niemand faßt Most in alte Schläuche; sonst zerreißt der Most die Schläuche, und der Wein wird verschüttet, und die Schläuche kommen um. Sondern man soll Most in neue Schläuche fassen.[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 23,
+          "text": "Und es begab sich, daß er wandelte am Sabbat durch die Saat; und seine Jünger fingen an, indem sie gingen, Ähren auszuraufen."
+        },
+        {
+          "chapter": 2,
+          "verse": 24,
+          "text": "Und die Pharisäer sprachen zu ihm: Siehe zu, was tun deine Jünger am Sabbat, das nicht recht ist?"
+        },
+        {
+          "chapter": 2,
+          "verse": 25,
+          "text": "Und er sprach zu ihnen: Habt ihr nie gelesen was David tat, da es ihm not war und ihn hungerte samt denen, die bei ihm waren?"
+        },
+        {
+          "chapter": 2,
+          "verse": 26,
+          "text": "[J]Wie er ging in das Haus Gottes zur Zeit Abjathars, des Hohenpriesters, und aß die Schaubrote, die niemand durfte essen, denn die Priester, und er gab sie auch denen, die bei ihm waren?[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 27,
+          "text": "Und er sprach zu ihnen: Der Sabbat ist um des Menschen willen gemacht, und nicht der Mensch um des Sabbat willen."
+        },
+        {
+          "chapter": 2,
+          "verse": 28,
+          "text": "[J]So ist des Menschen Sohn ein HERR auch des Sabbats.[/J]"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lastVerse": 35,
+      "verseUnitCount": 35,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "Und er ging abermals in die Schule. Und es war da ein Mensch, der hatte eine verdorrte Hand."
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "Und sie lauerten darauf, ob er auch am Sabbat ihn heilen würde, auf daß sie eine Sache wider ihn hätten."
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Und er sprach zu dem Menschen mit der verdorrten Hand: Tritt hervor!"
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "Und er sprach zu ihnen: Soll man am Sabbat Gutes tun oder Böses tun, das Leben erhalten oder töten? Sie aber schwiegen still."
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Und er sah sie umher an mit Zorn und ward betrübt über ihr verstocktes Herz und sprach zu dem Menschen: Strecke deine Hand aus! Und er streckte sie aus; und die Hand ward ihm gesund wie die andere."
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "Und die Pharisäer gingen hinaus und hielten alsbald einen Rat mit des Herodes Dienern über ihn, wie sie ihn umbrächten."
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "Aber Jesus entwich mit seinen Jüngern an das Meer; und viel Volks folgte ihm nach aus Galiläa und aus Judäa"
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "und von Jerusalem und aus Idumäa und von jenseits des Jordans, und die um Tyrus und Sidon wohnen, eine große Menge, die seine Taten hörten, und kamen zu ihm."
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "Und er sprach zu seinen Jüngern, daß sie ihm ein Schifflein bereit hielten um des Volkes willen, daß sie ihn nicht drängten."
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Denn er heilte ihrer viele, also daß ihn überfielen alle, die geplagt waren, auf daß sie ihn anrührten."
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "Und wenn ihn die unsauberen Geister sahen, fielen sie vor ihm nieder, schrieen und sprachen: Du bist Gottes Sohn!"
+        },
+        {
+          "chapter": 3,
+          "verse": 12,
+          "text": "Und er bedrohte sie hart, daß sie ihn nicht offenbar machten."
+        },
+        {
+          "chapter": 3,
+          "verse": 13,
+          "text": "Und er ging auf einen Berg und rief zu sich, welche er wollte, und die gingen hin zu ihm."
+        },
+        {
+          "chapter": 3,
+          "verse": 14,
+          "text": "Und er ordnete die Zwölf, daß sie bei ihm sein sollten und daß er sie aussendete, zu predigen,"
+        },
+        {
+          "chapter": 3,
+          "verse": 15,
+          "text": "und daß sie Macht hätten, die Seuchen zu heilen und die Teufel auszutreiben."
+        },
+        {
+          "chapter": 3,
+          "verse": 16,
+          "text": "Und gab Simon den Namen Petrus;"
+        },
+        {
+          "chapter": 3,
+          "verse": 17,
+          "text": "und Jakobus, den Sohn des Zebedäus, und Johannes, den Bruder des Jakobus, und gab ihnen den Namen Bnehargem, das ist gesagt: Donnerskinder;"
+        },
+        {
+          "chapter": 3,
+          "verse": 18,
+          "text": "und Andreas und Philippus und Bartholomäus und Matthäus und Thomas und Jakobus, des Alphäus Sohn, und Thaddäus und Simon von Kana"
+        },
+        {
+          "chapter": 3,
+          "verse": 19,
+          "text": "und Judas Ischariot, der ihn verriet."
+        },
+        {
+          "chapter": 3,
+          "verse": 20,
+          "text": "Und sie kamen nach Hause, und da kam abermals das Volk zusammen, also daß sie nicht Raum hatten, zu essen."
+        },
+        {
+          "chapter": 3,
+          "verse": 21,
+          "text": "Und da es die Seinen hörten, gingen sie aus und wollten ihn halten; denn sie sprachen: Er ist von Sinnen."
+        },
+        {
+          "chapter": 3,
+          "verse": 22,
+          "text": "Die Schriftgelehrten aber, die von Jerusalem herabgekommen waren, sprachen: Er hat den Beelzebub, und durch den obersten Teufel treibt er die Teufel aus."
+        },
+        {
+          "chapter": 3,
+          "verse": 23,
+          "text": "Und er rief sie zusammen und sprach zu ihnen in Gleichnissen: Wie kann ein Satan den anderen austreiben?"
+        },
+        {
+          "chapter": 3,
+          "verse": 24,
+          "text": "[J]Wenn ein Reich mit sich selbst uneins wird, kann es nicht bestehen.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 25,
+          "text": "[J]Und wenn ein Haus mit sich selbst uneins wird, kann es nicht bestehen.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 26,
+          "text": "[J]Setzt sich nun der Satan wider sich selbst und ist mit sich selbst uneins, so kann er nicht bestehen, sondern es ist aus mit ihm.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 27,
+          "text": "[J]Es kann niemand einem Starken in sein Haus fallen und seinen Hausrat rauben, es sei denn, daß er zuvor den Starken binde und alsdann sein Haus beraube.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 28,
+          "text": "[J]Wahrlich, ich sage euch: Alle Sünden werden vergeben den Menschenkindern, auch die Gotteslästerungen, womit sie Gott lästern;[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 29,
+          "text": "[J]wer aber den Heiligen Geist lästert, der hat keine Vergebung ewiglich, sondern ist schuldig des ewigen Gerichts.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 30,
+          "text": "Denn sie sagten: Er hat einen unsauberen Geist."
+        },
+        {
+          "chapter": 3,
+          "verse": 31,
+          "text": "Und es kam seine Mutter und seine Brüder und standen draußen, schickten zu ihm und ließen ihn rufen."
+        },
+        {
+          "chapter": 3,
+          "verse": 32,
+          "text": "Und das Volk saß um ihn. Und sie sprachen zu ihm: Siehe, deine Mutter und deine Brüder draußen fragen nach dir."
+        },
+        {
+          "chapter": 3,
+          "verse": 33,
+          "text": "Und er antwortete ihnen und sprach: Wer ist meine Mutter und meine Brüder?"
+        },
+        {
+          "chapter": 3,
+          "verse": 34,
+          "text": "Und er sah rings um sich auf die Jünger, die im Kreise saßen, und sprach: Siehe, das ist meine Mutter und meine Brüder!"
+        },
+        {
+          "chapter": 3,
+          "verse": 35,
+          "text": "[J]Denn wer Gottes Willen tut, der ist mein Bruder und meine Schwester und meine Mutter.[/J]"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lastVerse": 41,
+      "verseUnitCount": 41,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Und er fing abermals an, zu lehren am Meer. Und es versammelte sich viel Volks zu ihm, also daß er mußte in ein Schiff treten und auf dem Wasser sitzen; und alles Volk stand auf dem Lande am Meer."
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "Und er predigte ihnen lange durch Gleichnisse; und in seiner Predigt sprach er zu ihnen:"
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "[J]Höret zu! Siehe, es ging ein Sämann aus, zu säen.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "[J]Und es begab sich, indem er säte, fiel etliches an den Weg; da kamen die Vögel unter dem Himmel und fraßen's auf.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "[J]Etliches fiel in das Steinige, wo es nicht viel Erde hatte; und ging bald auf, darum daß es nicht tiefe Erde hatte.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "[J]Da nun die Sonne aufging, verwelkte es, und dieweil es nicht Wurzel hatte verdorrte es.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "[J]Und etliches fiel unter die Dornen; und die Dornen wuchsen empor und erstickten's, und es brachte keine Frucht.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "[J]Und etliches fiel auf ein gutes Land und brachte Frucht, die da zunahm und wuchs; etliches trug dreißigfältig und etliches sechzigfältig und etliches hundertfältig.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Und er sprach zu ihnen: Wer Ohren hat, zu hören, der höre!"
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "Und da er allein war, fragten ihn um dies Gleichnis, die um ihn waren, mitsamt den Zwölfen."
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "Und er sprach zu ihnen: Euch ist's gegeben, das Geheimnis des Reiches Gottes zu wissen; denen aber draußen widerfährt es alles nur durch Gleichnisse,"
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "[J]auf daß sie es mit sehenden Augen sehen, und doch nicht erkennen, und mit hörenden Ohren hören, und doch nicht verstehen, auf daß sie sich nicht dermaleinst bekehren und ihre Sünden ihnen vergeben werden.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Und er sprach zu ihnen: Verstehet ihr dies Gleichnis nicht, wie wollt ihr denn die andern alle verstehen?"
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "[J]Der Sämann sät das Wort.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "[J]Diese sind's aber, die an dem Wege sind: Wo das Wort gesät wird und sie es gehört haben, so kommt alsbald der Satan und nimmt weg das Wort, das in ihr Herz gesät war.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "[J]Also auch die sind's, bei welchen aufs Steinige gesät ist: wenn sie das Wort gehört haben, nehmen sie es alsbald mit Freuden auf,[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 17,
+          "text": "[J]und haben keine Wurzel in sich, sondern sind wetterwendisch; wenn sich Trübsal oder Verfolgung um des Wortes willen erhebt, so ärgern sie sich alsbald.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 18,
+          "text": "[J]Und diese sind's, bei welchen unter die Dornen gesät ist: die das Wort hören,[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 19,
+          "text": "[J]und die Sorgen dieser Welt und der betrügerische Reichtum und viele andere Lüste gehen hinein und ersticken das Wort, und es bleibt ohne Frucht.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 20,
+          "text": "[J]Und diese sind's, bei welchen auf ein gutes Land gesät ist: die das Wort hören und nehmen's an und bringen Frucht, etliche dreißigfältig und etliche sechzigfältig und etliche hundertfältig.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 21,
+          "text": "Und er sprach zu ihnen: Zündet man auch ein Licht an, daß man es unter einen Scheffel oder unter einen Tisch setze? Mitnichten, sondern daß man's auf einen Leuchter setze."
+        },
+        {
+          "chapter": 4,
+          "verse": 22,
+          "text": "[J]Denn es ist nichts verborgen, das es nicht offenbar werde, und ist nichts Heimliches, das nicht hervorkomme.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 23,
+          "text": "[J]Wer Ohren hat, zu hören, der höre![/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 24,
+          "text": "Und er sprach zu ihnen: Sehet zu, was ihr höret! Mit welcherlei Maß ihr messet, wird man euch wieder messen, und man wird noch zugeben euch, die ihr dies hört."
+        },
+        {
+          "chapter": 4,
+          "verse": 25,
+          "text": "[J]Denn wer da hat, dem wird gegeben; und wer nicht hat, von dem wird man nehmen, auch was er hat.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 26,
+          "text": "Und er sprach: Das Reich Gottes hat sich also, als wenn ein Mensch Samen aufs Land wirft"
+        },
+        {
+          "chapter": 4,
+          "verse": 27,
+          "text": "[J]und schläft und steht auf Nacht und Tag; und der Same geht auf und wächst, daß er's nicht weiß.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 28,
+          "text": "[J]Denn die Erde bringt von selbst zum ersten das Gras, darnach die Ähren, darnach den vollen Weizen in den Ähren.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 29,
+          "text": "[J]Wenn sie aber die Frucht gebracht hat, so schickt er bald die Sichel hin; denn die Ernte ist da.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 30,
+          "text": "Und er sprach: Wem wollen wir das Reich Gottes vergleichen, und durch welch Gleichnis wollen wir es vorbilden?"
+        },
+        {
+          "chapter": 4,
+          "verse": 31,
+          "text": "[J]Gleichwie ein Senfkorn, wenn das gesät wird aufs Land, so ist's das kleinste unter allen Samen auf Erden;[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 32,
+          "text": "[J]und wenn es gesät ist, so nimmt es zu und wird größer denn alle Kohlkräuter und gewinnt große Zweige, also daß die Vögel unter dem Himmel unter seinem Schatten wohnen können.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 33,
+          "text": "Und durch viele solche Gleichnisse sagte er ihnen das Wort, nach dem sie es hören konnten."
+        },
+        {
+          "chapter": 4,
+          "verse": 34,
+          "text": "Und ohne Gleichnis redete er nichts zu ihnen; aber insonderheit legte er's seinen Jüngern alles aus."
+        },
+        {
+          "chapter": 4,
+          "verse": 35,
+          "text": "Und an demselben Tage des Abends sprach er zu ihnen: Laßt uns hinüberfahren."
+        },
+        {
+          "chapter": 4,
+          "verse": 36,
+          "text": "Und sie ließen das Volk gehen und nahmen ihn, wie er im Schiff war; und es waren mehr Schiffe bei ihm."
+        },
+        {
+          "chapter": 4,
+          "verse": 37,
+          "text": "Und es erhob sich ein großer Windwirbel und warf Wellen in das Schiff, also daß das Schiff voll ward."
+        },
+        {
+          "chapter": 4,
+          "verse": 38,
+          "text": "Und er war hinten auf dem Schiff und schlief auf einem Kissen. Und sie weckten ihn auf und sprachen zu ihm: Meister, fragst du nichts darnach, daß wir verderben?"
+        },
+        {
+          "chapter": 4,
+          "verse": 39,
+          "text": "Und er stand auf und bedrohte den Wind und sprach zu dem Meer: Schweig und verstumme! Und der Wind legte sich, und es ward eine große Stille."
+        },
+        {
+          "chapter": 4,
+          "verse": 40,
+          "text": "[J]Und er sprach zu ihnen: Wie seid ihr so furchtsam? Wie, daß ihr keinen Glauben habt?[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 41,
+          "text": "Und sie fürchteten sich sehr und sprachen untereinander: Wer ist der? denn Wind und Meer sind ihm gehorsam."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lastVerse": 43,
+      "verseUnitCount": 43,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "Und sie kamen jenseits des Meers in die Gegend der Gadarener."
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "Und als er aus dem Schiff trat, lief ihm alsbald entgegen aus den Gräbern ein besessener Mensch mit einem unsaubern Geist,"
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "der seine Wohnung in den Gräbern hatte; und niemand konnte ihn binden, auch nicht mit Ketten."
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Denn er war oft mit Fesseln und Ketten gebunden gewesen, und hatte die Ketten abgerissen und die Fesseln zerrieben; und niemand konnte ihn zähmen."
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Und er war allezeit, Tag und Nacht, auf den Bergen und in den Gräbern, schrie und schlug sich mit Steinen."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Da er aber Jesum sah von ferne, lief er zu und fiel vor ihm nieder, schrie laut und sprach:"
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "Was habe ich mit dir zu tun, o Jesu, du Sohn Gottes, des Allerhöchsten? Ich beschwöre dich bei Gott, daß du mich nicht quälest!"
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Denn er sprach zu ihm: Fahre aus, du unsauberer Geist, von dem Menschen!"
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "Und er fragte ihn: Wie heißt du? Und er antwortete und sprach: Legion heiße ich; denn wir sind unser viele."
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Und er bat ihn sehr, daß er sie nicht aus der Gegend triebe."
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Und es war daselbst an den Bergen eine große Herde Säue auf der Weide."
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Und die Teufel baten ihn alle und sprachen: Laß uns in die Säue fahren!"
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Und alsbald erlaubte es ihnen Jesus. Da fuhren die unsauberen Geister aus und fuhren in die Säue; und die Herde stürzte sich von dem Abhang ins Meer (ihrer waren aber bei zweitausend) und ersoffen im Meer."
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Und die Sauhirten flohen und verkündigten das in der Stadt und auf dem Lande. Und sie gingen hinaus, zu sehen, was da geschehen war,"
+        },
+        {
+          "chapter": 5,
+          "verse": 15,
+          "text": "und kamen zu Jesu und sahen den, der von den Teufeln besessen war, daß er saß und war bekleidet und vernünftig, und fürchteten sich."
+        },
+        {
+          "chapter": 5,
+          "verse": 16,
+          "text": "Und die es gesehen hatten, sagten ihnen, was dem Besessenen widerfahren war, und von den Säuen."
+        },
+        {
+          "chapter": 5,
+          "verse": 17,
+          "text": "Und sie fingen an und baten ihn, daß er aus ihrer Gegend zöge."
+        },
+        {
+          "chapter": 5,
+          "verse": 18,
+          "text": "Und da er in das Schiff trat, bat ihn der Besessene, daß er möchte bei ihm sein."
+        },
+        {
+          "chapter": 5,
+          "verse": 19,
+          "text": "Aber Jesus ließ es nicht zu, sondern sprach zu ihm: Gehe hin in dein Haus und zu den Deinen und verkündige ihnen, wie große Wohltat dir der HERR getan und sich deiner erbarmt hat."
+        },
+        {
+          "chapter": 5,
+          "verse": 20,
+          "text": "Und er ging hin und fing an, auszurufen in den zehn Städten, wie große Wohltat ihm Jesus getan hatte; und jedermann verwunderte sich."
+        },
+        {
+          "chapter": 5,
+          "verse": 21,
+          "text": "Und da Jesus wieder herüberfuhr im Schiff, versammelte sich viel Volks zu ihm, und er war an dem Meer."
+        },
+        {
+          "chapter": 5,
+          "verse": 22,
+          "text": "Und siehe, da kam der Obersten einer von der Schule, mit Namen Jairus; und da er ihn sah, fiel er ihm zu Füßen"
+        },
+        {
+          "chapter": 5,
+          "verse": 23,
+          "text": "und bat ihn sehr und sprach: Meine Tochter ist in den letzten Zügen; Du wollest kommen und deine Hand auf sie legen, daß sie gesund werde und lebe."
+        },
+        {
+          "chapter": 5,
+          "verse": 24,
+          "text": "Und er ging hin mit ihm; und es folgte ihm viel Volks nach, und sie drängten ihn."
+        },
+        {
+          "chapter": 5,
+          "verse": 25,
+          "text": "Und da war ein Weib, das hatte den Blutgang zwölf Jahre gehabt"
+        },
+        {
+          "chapter": 5,
+          "verse": 26,
+          "text": "und viel erlitten von vielen Ärzten und hatte all ihr Gut darob verzehrt, und half ihr nichts, sondern vielmehr ward es ärger mit ihr."
+        },
+        {
+          "chapter": 5,
+          "verse": 27,
+          "text": "Da die von Jesu hörte, kam sie im Volk von hintenzu und rührte sein Kleid an."
+        },
+        {
+          "chapter": 5,
+          "verse": 28,
+          "text": "Denn sie sprach: Wenn ich nur sein Kleid möchte anrühren, so würde ich gesund."
+        },
+        {
+          "chapter": 5,
+          "verse": 29,
+          "text": "Und alsbald vertrocknete der Brunnen ihres Bluts; und sie fühlte es am Leibe, daß sie von ihrer Plage war gesund geworden."
+        },
+        {
+          "chapter": 5,
+          "verse": 30,
+          "text": "Und Jesus fühlte alsbald an sich selbst die Kraft, die von ihm ausgegangen war, und wandte sich um zum Volk und sprach: Wer hat meine Kleider angerührt?"
+        },
+        {
+          "chapter": 5,
+          "verse": 31,
+          "text": "Und die Jünger sprachen zu ihm: Du siehst, daß dich das Volk drängt, und sprichst: Wer hat mich angerührt?"
+        },
+        {
+          "chapter": 5,
+          "verse": 32,
+          "text": "Und er sah sich um nach der, die das getan hatte."
+        },
+        {
+          "chapter": 5,
+          "verse": 33,
+          "text": "Das Weib aber fürchtete sich und zitterte (denn sie wußte, was an ihr geschehen war), kam und fiel vor ihm nieder und sagte die ganze Wahrheit."
+        },
+        {
+          "chapter": 5,
+          "verse": 34,
+          "text": "[J]Er sprach aber zu ihr; Meine Tochter, Dein Glaube hat dich gesund gemacht; gehe hin mit Frieden und sei gesund von deiner Plage![/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 35,
+          "text": "Da er noch also redete, kamen etliche vom Gesinde des Obersten der Schule und sprachen: Deine Tochter ist gestorben; was bemühst du weiter den Meister?"
+        },
+        {
+          "chapter": 5,
+          "verse": 36,
+          "text": "Jesus aber hörte alsbald die Rede, die da gesagt ward, und sprach zu dem Obersten der Schule: Fürchte dich nicht, glaube nur!"
+        },
+        {
+          "chapter": 5,
+          "verse": 37,
+          "text": "Und ließ niemand ihm nachfolgen denn Petrus und Jakobus und Johannes, den Bruder des Jakobus."
+        },
+        {
+          "chapter": 5,
+          "verse": 38,
+          "text": "Und er kam in das Haus des Obersten der Schule und sah das Getümmel und die da weinten und heulten."
+        },
+        {
+          "chapter": 5,
+          "verse": 39,
+          "text": "Und er ging hinein und sprach zu ihnen: Was tummelt und weinet ihr? Das Kind ist nicht gestorben, sondern es schläft. Und sie verlachten ihn."
+        },
+        {
+          "chapter": 5,
+          "verse": 40,
+          "text": "Und er trieb sie alle aus und nahm mit sich den Vater des Kindes und die Mutter die bei ihm waren, und ging hinein, da das Kind lag,"
+        },
+        {
+          "chapter": 5,
+          "verse": 41,
+          "text": "und ergriff das Kind bei der Hand und sprach zu ihr: Talitha kumi! das ist verdolmetscht: Mägdlein, ich sage dir stehe auf!"
+        },
+        {
+          "chapter": 5,
+          "verse": 42,
+          "text": "Und alsbald stand das Mägdlein auf und wandelte; es war aber zwölf Jahre alt. Und sie entsetzten sich über die Maßen."
+        },
+        {
+          "chapter": 5,
+          "verse": 43,
+          "text": "Und er verbot ihnen hart, daß es niemand wissen sollte, und sagte, sie sollten ihr zu essen geben."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lastVerse": 56,
+      "verseUnitCount": 56,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "Und er ging aus von da und kam in seine Vaterstadt; und seine Jünger folgten ihm nach."
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "Und da der Sabbat kam, hob er an zu lehren in ihrer Schule. Und viele, die es hörten, verwunderten sich seiner Lehre und sprachen: Woher kommt dem solches? Und was für Weisheit ist's, die ihm gegeben ist, und solche Taten, die durch seine Hände geschehen?"
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Ist er nicht der Zimmermann, Marias Sohn, und der Bruder des Jakobus und Joses und Judas und Simon? Sind nicht auch seine Schwestern allhier bei uns? Und sie ärgerten sich an ihm."
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "Jesus aber sprach zu ihnen: Ein Prophet gilt nirgend weniger denn im Vaterland und daheim bei den Seinen."
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "Und er konnte allda nicht eine einzige Tat tun; außer wenig Siechen legte er die Hände auf und heilte sie."
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "Und er verwunderte sich ihres Unglaubens. Und er ging umher in die Flecken im Kreis und lehrte sie."
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "Und er berief die Zwölf und hob an und sandte sie je zwei und zwei und gab ihnen Macht über die unsauberen Geister,"
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "und gebot ihnen, daß sie nichts bei sich trügen auf dem Wege denn allein einen Stab, keine Tasche, kein Brot, kein Geld im Gürtel,"
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "aber wären geschuht, und daß sie nicht zwei Röcke anzögen."
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "Und sprach zu ihnen: Wo ihr in ein Haus gehen werdet, da bleibet bis ihr von dannen zieht."
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "[J]Und welche euch nicht aufnehmen noch hören, da gehet von dannen heraus und schüttelt den Staub ab von euren Füßen zu einem Zeugnis über sie. Ich sage euch wahrlich: Es wird Sodom und Gomorrha am Jüngsten Gericht erträglicher gehen denn solcher Stadt.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "Und sie gingen aus und predigten, man sollte Buße tun,"
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "und trieben viele Teufel aus und salbten viele Sieche mit Öl und machten sie gesund."
+        },
+        {
+          "chapter": 6,
+          "verse": 14,
+          "text": "Und es kam vor den König Herodes (denn sein Name war nun bekannt) und er sprach: Johannes der Täufer ist von den Toten auferstanden, darum tut er solche Taten."
+        },
+        {
+          "chapter": 6,
+          "verse": 15,
+          "text": "Etliche aber sprachen: Er ist Elia; etliche aber: Er ist ein Prophet oder einer von den Propheten."
+        },
+        {
+          "chapter": 6,
+          "verse": 16,
+          "text": "Da es aber Herodes hörte, sprach er: Es ist Johannes, den ich enthauptet habe; der ist von den Toten auferstanden."
+        },
+        {
+          "chapter": 6,
+          "verse": 17,
+          "text": "Er aber, Herodes, hatte ausgesandt und Johannes gegriffen und ins Gefängnis gelegt um der Herodias willen, seines Bruders Philippus Weib; denn er hatte sie gefreit."
+        },
+        {
+          "chapter": 6,
+          "verse": 18,
+          "text": "Johannes aber sprach zu Herodes: Es ist nicht recht, daß du deines Bruders Weib habest."
+        },
+        {
+          "chapter": 6,
+          "verse": 19,
+          "text": "Herodias aber stellte ihm nach und wollte ihn töten, und konnte nicht."
+        },
+        {
+          "chapter": 6,
+          "verse": 20,
+          "text": "Herodes aber fürchtete Johannes; denn er wußte, daß er ein frommer und heiliger Mann war; und verwahrte ihn und gehorchte ihm in vielen Sachen und hörte ihn gern."
+        },
+        {
+          "chapter": 6,
+          "verse": 21,
+          "text": "Und es kam ein gelegener Tag, daß Herodes auf seinen Jahrestag ein Abendmahl gab den Obersten und Hauptleuten und Vornehmsten in Galiläa."
+        },
+        {
+          "chapter": 6,
+          "verse": 22,
+          "text": "Da trat hinein die Tochter der Herodias und tanzte, und gefiel wohl dem Herodes und denen die am Tisch saßen. Da sprach der König zu dem Mägdlein: Bitte von mir, was du willst, ich will dir's geben."
+        },
+        {
+          "chapter": 6,
+          "verse": 23,
+          "text": "Und er schwur ihr einen Eid: Was du wirst von mir bitten, will ich dir geben, bis an die Hälfte meines Königreiches."
+        },
+        {
+          "chapter": 6,
+          "verse": 24,
+          "text": "Sie ging hinaus und sprach zu ihrer Mutter: Was soll ich bitten? Die sprach: Das Haupt Johannes des Täufers."
+        },
+        {
+          "chapter": 6,
+          "verse": 25,
+          "text": "Und sie ging alsbald hinein mit Eile zum König, bat und sprach: Ich will, daß du mir gebest jetzt zur Stunde auf einer Schüssel das Haupt Johannes des Täufers."
+        },
+        {
+          "chapter": 6,
+          "verse": 26,
+          "text": "Der König war betrübt; doch um des Eides willen und derer, die am Tisch saßen, wollte er sie nicht lassen eine Fehlbitte tun."
+        },
+        {
+          "chapter": 6,
+          "verse": 27,
+          "text": "Und alsbald schickte hin der König den Henker und hieß sein Haupt herbringen. Der ging hin und enthauptete ihn im Gefängnis"
+        },
+        {
+          "chapter": 6,
+          "verse": 28,
+          "text": "und trug her sein Haupt auf einer Schüssel und gab's dem Mägdlein, und das Mägdlein gab's ihrer Mutter."
+        },
+        {
+          "chapter": 6,
+          "verse": 29,
+          "text": "Und da das seine Jünger hörten, kamen sie und nahmen seinen Leib, und legten ihn in ein Grab."
+        },
+        {
+          "chapter": 6,
+          "verse": 30,
+          "text": "Und die Apostel kamen zu Jesu zusammen und verkündigten ihm das alles und was sie getan und gelehrt hatten."
+        },
+        {
+          "chapter": 6,
+          "verse": 31,
+          "text": "Und er sprach zu ihnen: Lasset uns besonders an eine wüste Stätte gehen und ruht ein wenig. Denn ihr waren viele, die ab und zu gingen; und sie hatten nicht Zeit genug, zu essen."
+        },
+        {
+          "chapter": 6,
+          "verse": 32,
+          "text": "Und er fuhr da in einem Schiff zu einer wüsten Stätte besonders."
+        },
+        {
+          "chapter": 6,
+          "verse": 33,
+          "text": "Und das Volk sah sie wegfahren; und viele kannten ihn und liefen dahin miteinander zu Fuß aus allen Städten und kamen ihnen zuvor und kamen zu ihm."
+        },
+        {
+          "chapter": 6,
+          "verse": 34,
+          "text": "Und Jesus ging heraus und sah das große Volk; und es jammerte ihn derselben; denn sie waren wie die Schafe, die keinen Hirten haben; und er fing an eine lange Predigt."
+        },
+        {
+          "chapter": 6,
+          "verse": 35,
+          "text": "Da nun der Tag fast dahin war, traten seine Jünger zu ihm und sprachen: Es ist wüst hier, und der Tag ist nun dahin;"
+        },
+        {
+          "chapter": 6,
+          "verse": 36,
+          "text": "laß sie von dir, daß sie hingehen umher in die Dörfer und Märkte und kaufen sich Brot, denn sie haben nichts zu essen."
+        },
+        {
+          "chapter": 6,
+          "verse": 37,
+          "text": "Jesus aber antwortete und sprach zu ihnen: Gebt ihr ihnen zu essen. Und sie sprachen zu ihm: Sollen wir denn hingehen und für zweihundert Groschen Brot kaufen und ihnen zu essen geben?"
+        },
+        {
+          "chapter": 6,
+          "verse": 38,
+          "text": "Er aber sprach zu ihnen: Wieviel Brot habt ihr? Gehet hin und sehet! Und da sie es erkundet hatten, sprachen sie: Fünf, und zwei Fische."
+        },
+        {
+          "chapter": 6,
+          "verse": 39,
+          "text": "Und er gebot ihnen, daß sie sich alle lagerten, tischweise, auf das grüne Gras."
+        },
+        {
+          "chapter": 6,
+          "verse": 40,
+          "text": "Und sie setzten sich nach Schichten, je hundert und hundert, fünfzig und fünfzig."
+        },
+        {
+          "chapter": 6,
+          "verse": 41,
+          "text": "Und er nahm die fünf Brote und zwei Fische, sah zum Himmel auf und dankte und brach die Brote und gab sie den Jüngern, daß sie ihnen vorlegten; und die zwei Fische teilte er unter sie alle."
+        },
+        {
+          "chapter": 6,
+          "verse": 42,
+          "text": "Und sie aßen alle und wurden satt."
+        },
+        {
+          "chapter": 6,
+          "verse": 43,
+          "text": "Und sie hoben auf die Brocken, zwölf Körbe voll, und von den Fischen."
+        },
+        {
+          "chapter": 6,
+          "verse": 44,
+          "text": "Und die da gegessen hatten, waren fünftausend Mann."
+        },
+        {
+          "chapter": 6,
+          "verse": 45,
+          "text": "Und alsbald trieb er seine Jünger, daß sie in das Schiff träten und vor ihm hinüberführen gen Bethsaida, bis daß er das Volk von sich ließe."
+        },
+        {
+          "chapter": 6,
+          "verse": 46,
+          "text": "Und da er sie von sich geschafft hatte, ging er hin auf einen Berg, zu beten."
+        },
+        {
+          "chapter": 6,
+          "verse": 47,
+          "text": "Und am Abend war das Schiff mitten auf dem Meer und er auf dem Lande allein."
+        },
+        {
+          "chapter": 6,
+          "verse": 48,
+          "text": "Und er sah, daß sie Not litten im Rudern; denn der Wind war ihnen entgegen. Und um die vierte Wache der Nacht kam er zu ihnen und wandelte auf dem Meer;"
+        },
+        {
+          "chapter": 6,
+          "verse": 49,
+          "text": "und er wollte an ihnen vorübergehen. Und da sie ihn sahen auf dem Meer wandeln, meinten sie, es wäre ein Gespenst, und schrieen;"
+        },
+        {
+          "chapter": 6,
+          "verse": 50,
+          "text": "denn sie sahen ihn alle und erschraken. Aber alsbald redete er mit ihnen und sprach zu ihnen: Seid getrost, ich bin's, fürchtet euch nicht!"
+        },
+        {
+          "chapter": 6,
+          "verse": 51,
+          "text": "Und er trat zu ihnen ins Schiff, und der Wind legte sich. Und sie entsetzten und verwunderten sich über die Maßen,"
+        },
+        {
+          "chapter": 6,
+          "verse": 52,
+          "text": "denn sie waren nichts verständiger geworden über den Broten, und ihr Herz war erstarrt."
+        },
+        {
+          "chapter": 6,
+          "verse": 53,
+          "text": "Und da sie hinübergefahren waren, kamen sie in das Land Genezareth und fuhren an."
+        },
+        {
+          "chapter": 6,
+          "verse": 54,
+          "text": "Und da sie aus dem Schiff traten alsbald kannten sie ihn"
+        },
+        {
+          "chapter": 6,
+          "verse": 55,
+          "text": "und liefen in alle die umliegenden Länder und hoben an, die Kranken umherzuführen auf Betten, wo sie hörten, daß er war."
+        },
+        {
+          "chapter": 6,
+          "verse": 56,
+          "text": "Und wo er in die Märkte oder Städte oder Dörfer einging, da legten sie die Kranken auf den Markt und baten ihn, daß sie nur den Saum seines Kleides anrühren möchten; und alle, die ihn anrührten, wurden gesund."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lastVerse": 37,
+      "verseUnitCount": 37,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "Und es kamen zu ihm die Pharisäer und etliche von den Schriftgelehrten, die von Jerusalem gekommen waren."
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "Und da sie sahen etliche seiner Jünger mit gemeinen (das ist ungewaschenen) Händen das Brot essen, tadelten sie es."
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "(Denn die Pharisäer und alle Juden essen nicht, sie waschen denn die Hände manchmal, und halten also die Aufsätze der Ältesten;"
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "und wenn sie vom Markt kommen, essen sie nicht, sie waschen sich denn. Und des Dinges ist viel, das sie zu halten haben angenommen, von Trinkgefäßen und Krügen und ehernen Gefäßen und Tischen zu waschen.)"
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "Da fragten ihn nun die Pharisäer und Schriftgelehrten: Warum wandeln deine Jünger nicht nach den Aufsätzen der Ältesten, sondern essen das Brot mit ungewaschenen Händen?"
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "Er aber antwortete und sprach zu ihnen: Wohl fein hat von euch Heuchlern Jesaja geweissagt, wie geschrieben steht: “Dies Volk ehrt mich mit den Lippen, aber ihr Herz ist ferne von mir."
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "[J]Vergeblich aber ist's, daß sie mir dienen, dieweil sie lehren solche Lehre die nichts ist denn Menschengebot.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "[J]Ihr verlasset Gottes Gebot, und haltet der Menschen Aufsätze von Krügen und Trinkgefäßen zu waschen; und desgleichen tut ihr viel.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "Und er sprach zu ihnen: Wohl fein habt ihr Gottes Gebote aufgehoben, auf daß ihr eure Aufsätze haltet."
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "[J]Denn Mose hat gesagt: “Du sollst deinen Vater und deine Mutter ehren,” und “Wer Vater oder Mutter flucht, soll des Todes sterben.”[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "[J]Ihr aber lehret: Wenn einer spricht zu Vater oder Mutter “Korban,” das ist, “es ist Gott gegeben,” was dir sollte von mir zu Nutz kommen, der tut wohl.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "[J]Und so laßt ihr hinfort ihn nichts tun seinem Vater oder seiner Mutter[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "[J]und hebt auf Gottes Wort durch eure Aufsätze, die ihr aufgesetzt habt; und desgleichen tut ihr viel.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 14,
+          "text": "Und er rief zu sich das ganze Volk und sprach zu ihnen: Höret mir alle zu und fasset es!"
+        },
+        {
+          "chapter": 7,
+          "verse": 15,
+          "text": "[J]Es ist nichts außerhalb des Menschen, das ihn könnte gemein machen, so es in ihn geht; sondern was von ihm ausgeht, das ist's, was den Menschen gemein macht.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 16,
+          "text": "Hat jemand Ohren, zu hören, der höre!"
+        },
+        {
+          "chapter": 7,
+          "verse": 17,
+          "text": "Und da er von dem Volk ins Haus kam, fragten ihn seine Jünger um dies Gleichnis."
+        },
+        {
+          "chapter": 7,
+          "verse": 18,
+          "text": "[J]Und er sprach zu ihnen: Seid ihr denn auch so unverständig? Vernehmet ihr noch nicht, daß alles, was außen ist und in den Menschen geht, das kann ihn nicht gemein machen?[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 19,
+          "text": "Denn es geht nicht in sein Herz, sondern in den Bauch, und geht aus durch den natürlichen Gang, der alle Speise ausfegt."
+        },
+        {
+          "chapter": 7,
+          "verse": 20,
+          "text": "Und er sprach: Was aus dem Menschen geht, das macht den Menschen gemein;"
+        },
+        {
+          "chapter": 7,
+          "verse": 21,
+          "text": "[J]denn von innen, aus dem Herzen der Menschen, gehen heraus böse Gedanken; Ehebruch, Hurerei, Mord,[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 22,
+          "text": "[J]Dieberei, Geiz, Schalkheit, List, Unzucht, Schalksauge, Gotteslästerung, Hoffart, Unvernunft.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 23,
+          "text": "[J]Alle diese bösen Stücke gehen von innen heraus und machen den Menschen gemein.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 24,
+          "text": "Und er stand auf und ging von dannen in die Gegend von Tyrus und Sidon; und ging da in ein Haus und wollte es niemand wissen lassen, und konnte doch nicht verborgen sein."
+        },
+        {
+          "chapter": 7,
+          "verse": 25,
+          "text": "Denn ein Weib hatte von ihm gehört, deren Töchterlein einen unsauberen Geist hatte, und sie kam und fiel nieder zu seinen Füßen"
+        },
+        {
+          "chapter": 7,
+          "verse": 26,
+          "text": "(und es war ein griechisches Weib aus Syrophönizien), und sie bat ihn, daß er den Teufel von ihrer Tochter austriebe."
+        },
+        {
+          "chapter": 7,
+          "verse": 27,
+          "text": "[J]Jesus aber sprach zu ihr: Laß zuvor die Kinder satt werden; es ist nicht fein, daß man der Kinder Brot nehme und werfe es vor die Hunde.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 28,
+          "text": "Sie antwortete aber und sprach zu ihm: Ja, HERR; aber doch essen die Hündlein unter dem Tisch von den Brosamen der Kinder."
+        },
+        {
+          "chapter": 7,
+          "verse": 29,
+          "text": "Und er sprach zu ihr: Um des Wortes willen so gehe hin; der Teufel ist von deiner Tochter ausgefahren."
+        },
+        {
+          "chapter": 7,
+          "verse": 30,
+          "text": "Und sie ging hin in ihr Haus und fand, daß der Teufel war ausgefahren und die Tochter auf dem Bette liegend."
+        },
+        {
+          "chapter": 7,
+          "verse": 31,
+          "text": "Und da er wieder ausging aus der Gegend von Tyrus und Sidon, kam er an das Galiläische Meer, mitten in das Gebiet der zehn Städte."
+        },
+        {
+          "chapter": 7,
+          "verse": 32,
+          "text": "Und sie brachten zu ihm einen Tauben, der stumm war, und sie baten ihn, daß er die Hand auf ihn legte."
+        },
+        {
+          "chapter": 7,
+          "verse": 33,
+          "text": "Und er nahm ihn von dem Volk besonders und legte ihm die Finger in die Ohren und spützte und rührte seine Zunge"
+        },
+        {
+          "chapter": 7,
+          "verse": 34,
+          "text": "und sah auf gen Himmel, seufzte und sprach zu ihm: Hephatha! das ist: Tu dich auf!"
+        },
+        {
+          "chapter": 7,
+          "verse": 35,
+          "text": "Und alsbald taten sich seine Ohren auf, und das Band seiner Zunge war los, und er redete recht."
+        },
+        {
+          "chapter": 7,
+          "verse": 36,
+          "text": "Und er verbot ihnen, sie sollten's niemand sagen. Je mehr er aber verbot, je mehr sie es ausbreiteten."
+        },
+        {
+          "chapter": 7,
+          "verse": 37,
+          "text": "Und sie wunderten sich über die Maßen und sprachen: Er hat alles wohl gemacht; die Tauben macht er hörend und die Sprachlosen redend."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lastVerse": 38,
+      "verseUnitCount": 38,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "Zu der Zeit, da viel Volks da war, und hatten nichts zu essen, rief Jesus seine Jünger zu sich und sprach zu ihnen:"
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "[J]Mich jammert des Volks; denn sie haben nun drei Tage bei mir beharrt und haben nichts zu essen;[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "[J]und wenn ich sie ungegessen von mir heim ließe gehen, würden sie auf dem Wege verschmachten; denn etliche sind von ferne gekommen.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Seine Jünger antworteten ihm: Woher nehmen wir Brot hier in der Wüste, daß wir sie sättigen?"
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "Und er fragte sie: Wieviel habt ihr Brote? Sie sprachen: Sieben."
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Und er gebot dem Volk, daß sie sich auf der Erde lagerten. Und er nahm die sieben Brote und dankte und brach sie und gab sie seinen Jüngern, daß sie dieselben vorlegten; und sie legten dem Volk vor."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "Und hatten ein wenig Fischlein; und er dankte und hieß die auch vortragen."
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "Sie aßen aber und wurden satt; und hoben die übrigen Brocken auf, sieben Körbe."
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "Und ihrer waren bei viertausend, die da gegessen hatten; und er ließ sie von sich."
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Und alsbald trat er in ein Schiff mit seinen Jüngern und kam in die Gegend von Dalmanutha."
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "Und die Pharisäer gingen heraus und fingen an, sich mit ihm zu befragen, versuchten ihn und begehrten von ihm ein Zeichen vom Himmel."
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "Und er seufzte in seinem Geist und sprach: Was sucht doch dies Geschlecht Zeichen? Wahrlich, ich sage euch: Es wird diesem Geschlecht kein Zeichen gegeben."
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "Und er ließ sie und trat wiederum in das Schiff und fuhr herüber."
+        },
+        {
+          "chapter": 8,
+          "verse": 14,
+          "text": "Und sie hatten vergessen, Brot mit sich zu nehmen, und hatten nicht mehr mit sich im Schiff denn ein Brot."
+        },
+        {
+          "chapter": 8,
+          "verse": 15,
+          "text": "[J]Und er gebot ihnen und sprach: Schauet zu und sehet euch vor vor dem Sauerteig der Pharisäer und vor dem Sauerteig des Herodes.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 16,
+          "text": "Und sie gedachten hin und her und sprachen untereinander: Das ist's, daß wir nicht Brot haben."
+        },
+        {
+          "chapter": 8,
+          "verse": 17,
+          "text": "Und Jesus merkte das und sprach zu ihnen: Was bekümmert ihr euch doch, daß ihr nicht Brot habt? Vernehmet ihr noch nichts und seid noch nicht verständig? Habt ihr noch ein erstarrtes Herz in euch?"
+        },
+        {
+          "chapter": 8,
+          "verse": 18,
+          "text": "[J]Ihr habt Augen, und sehet nicht, und habt Ohren, und höret nicht, und denket nicht daran,[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 19,
+          "text": "da ich fünf Brote brach unter fünftausend: wie viel Körbe voll Brocken hobt ihr da auf? Sie sprachen: Zwölf."
+        },
+        {
+          "chapter": 8,
+          "verse": 20,
+          "text": "Da ich aber sieben brach unter die viertausend, wieviel Körbe voll Brocken hobt ihr da auf? Sie sprachen: Sieben."
+        },
+        {
+          "chapter": 8,
+          "verse": 21,
+          "text": "Und er sprach zu ihnen: Wie vernehmet ihr denn nichts?"
+        },
+        {
+          "chapter": 8,
+          "verse": 22,
+          "text": "Und er kam gen Bethsaida. Und sie brachten zu ihm einen Blinden und baten ihn, daß er ihn anrührte."
+        },
+        {
+          "chapter": 8,
+          "verse": 23,
+          "text": "Und er nahm den Blinden bei der Hand und führte ihn hinaus vor den Flecken; spützte in seine Augen und legte seine Hände auf ihn und fragte ihn, ob er etwas sähe?"
+        },
+        {
+          "chapter": 8,
+          "verse": 24,
+          "text": "Und er sah auf und sprach: Ich sehe Menschen gehen, als sähe ich Bäume."
+        },
+        {
+          "chapter": 8,
+          "verse": 25,
+          "text": "Darnach legte er abermals die Hände auf seine Augen und hieß ihn abermals sehen; und er ward wieder zurechtgebracht, daß er alles scharf sehen konnte."
+        },
+        {
+          "chapter": 8,
+          "verse": 26,
+          "text": "Und er schickte ihn heim und sprach: Gehe nicht hinein in den Flecken und sage es auch niemand drinnen."
+        },
+        {
+          "chapter": 8,
+          "verse": 27,
+          "text": "Und Jesus ging aus mit seinen Jüngern in die Märkte der Stadt Cäsarea Philippi. Und auf dem Wege fragte er seine Jünger und sprach zu ihnen: Wer sagen die Leute, daß ich sei?"
+        },
+        {
+          "chapter": 8,
+          "verse": 28,
+          "text": "Sie antworteten: Sie sagen du seiest Johannes der Täufer; etliche sagen, du seiest Elia; etliche, du seiest der Propheten einer."
+        },
+        {
+          "chapter": 8,
+          "verse": 29,
+          "text": "Und er sprach zu ihnen: Ihr aber, wer sagt ihr, daß ich sei? Da antwortete Petrus und sprach zu ihm: Du bist Christus!"
+        },
+        {
+          "chapter": 8,
+          "verse": 30,
+          "text": "Und er bedrohte sie, daß sie niemand von ihm sagen sollten."
+        },
+        {
+          "chapter": 8,
+          "verse": 31,
+          "text": "Und er hob an sie zu lehren: Des Menschen Sohn muß viel leiden und verworfen werden von den Ältesten und Hohenpriestern und Schriftgelehrten und getötet werden und über drei Tage auferstehen."
+        },
+        {
+          "chapter": 8,
+          "verse": 32,
+          "text": "Und er redete das Wort frei offenbar. Und Petrus nahm ihn zu sich, fing an, ihm zu wehren."
+        },
+        {
+          "chapter": 8,
+          "verse": 33,
+          "text": "Er aber wandte sich um und sah seine Jünger an und bedrohte Petrus und sprach: Gehe hinter mich, du Satan! denn du meinst nicht, was göttlich, sondern was menschlich ist."
+        },
+        {
+          "chapter": 8,
+          "verse": 34,
+          "text": "Und er rief zu sich das Volk samt seinen Jüngern und sprach zu ihnen: Wer mir will nachfolgen, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir nach."
+        },
+        {
+          "chapter": 8,
+          "verse": 35,
+          "text": "[J]Denn wer sein Leben will behalten, der wird's verlieren; und wer sein Leben verliert um meinet-und des Evangeliums willen, der wird's behalten.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 36,
+          "text": "[J]Was hülfe es dem Menschen, wenn er die ganze Welt gewönne, und nähme an seiner Seele Schaden?[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 37,
+          "text": "[J]Oder was kann der Mensch geben, damit er seine Seele löse.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 38,
+          "text": "[J]Wer sich aber mein und meiner Worte schämt unter diesem ehebrecherischen und sündigen Geschlecht, des wird sich auch des Menschen Sohn schämen, wenn er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln.[/J]"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lastVerse": 50,
+      "verseUnitCount": 50,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "text": "Und er sprach zu ihnen: Wahrlich ich sage euch: Es stehen etliche hier, die werden den Tod nicht schmecken, bis daß sie sehen das Reich Gottes mit seiner Kraft kommen."
+        },
+        {
+          "chapter": 9,
+          "verse": 2,
+          "text": "Und nach sechs Tagen nahm Jesus zu sich Petrus, Jakobus und Johannes und führte sie auf einen hohen Berg besonders allein und verklärte sich vor ihnen."
+        },
+        {
+          "chapter": 9,
+          "verse": 3,
+          "text": "Und seine Kleider wurden hell und sehr weiß wie der Schnee, daß sie kein Färber auf Erden kann so weiß machen."
+        },
+        {
+          "chapter": 9,
+          "verse": 4,
+          "text": "Und es erschien ihnen Elia mit Mose und hatten eine Rede mit Jesu."
+        },
+        {
+          "chapter": 9,
+          "verse": 5,
+          "text": "Und Petrus antwortete und sprach zu Jesu: Rabbi, hier ist gut sein. Lasset uns drei Hütten machen: dir eine, Mose eine und Elia eine."
+        },
+        {
+          "chapter": 9,
+          "verse": 6,
+          "text": "Er wußte aber nicht, was er redete; denn sie waren bestürzt."
+        },
+        {
+          "chapter": 9,
+          "verse": 7,
+          "text": "Und es kam eine Wolke, die überschattete sie. Und eine Stimme fiel aus der Wolke und sprach: Das ist mein lieber Sohn; den sollt ihr hören!"
+        },
+        {
+          "chapter": 9,
+          "verse": 8,
+          "text": "Und bald darnach sahen sie um sich und sahen niemand mehr denn allein Jesum bei ihnen."
+        },
+        {
+          "chapter": 9,
+          "verse": 9,
+          "text": "Da sie aber vom Berge herabgingen, verbot ihnen Jesus, daß sie niemand sagen sollten, was sie gesehen hatten, bis des Menschen Sohn auferstünde von den Toten."
+        },
+        {
+          "chapter": 9,
+          "verse": 10,
+          "text": "Und sie behielten das Wort bei sich und befragten sich untereinander: Was ist doch das Auferstehen von den Toten?"
+        },
+        {
+          "chapter": 9,
+          "verse": 11,
+          "text": "Und sie fragten ihn und sprachen: Sagen doch die Schriftgelehrten, daß Elia muß zuvor kommen."
+        },
+        {
+          "chapter": 9,
+          "verse": 12,
+          "text": "Er antwortete aber und sprach zu ihnen: Elia soll ja zuvor kommen und alles wieder zurechtbringen; dazu soll des Menschen Sohn viel leiden und verachtet werden, wie denn geschrieben steht."
+        },
+        {
+          "chapter": 9,
+          "verse": 13,
+          "text": "[J]Aber ich sage euch: Elia ist gekommen, und sie haben an ihm getan, was sie wollten, nach dem von ihm geschrieben steht.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 14,
+          "text": "Und er kam zu seinen Jüngern und sah viel Volks um sie und Schriftgelehrte, die sich mit ihnen befragten."
+        },
+        {
+          "chapter": 9,
+          "verse": 15,
+          "text": "Und alsbald, da alles Volk ihn sah, entsetzten sie sich, liefen zu und grüßten ihn."
+        },
+        {
+          "chapter": 9,
+          "verse": 16,
+          "text": "Und er fragte die Schriftgelehrten: Was befragt ihr euch mit ihnen?"
+        },
+        {
+          "chapter": 9,
+          "verse": 17,
+          "text": "Einer aber aus dem Volk antwortete und sprach: Meister, ich habe meinen Sohn hergebracht zu dir, der hat einen sprachlosen Geist."
+        },
+        {
+          "chapter": 9,
+          "verse": 18,
+          "text": "Und wo er ihn erwischt, da reißt er ihn; und er schäumt und knirscht mit den Zähnen und verdorrt. Ich habe mit deinen Jüngern geredet, daß sie ihn austrieben, und sie können's nicht."
+        },
+        {
+          "chapter": 9,
+          "verse": 19,
+          "text": "[J]Er antwortete ihm aber und sprach: O du ungläubiges Geschlecht, wie lange soll ich bei euch sein? wie lange soll ich euch tragen? Bringet ihn her zu mir![/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 20,
+          "text": "Und sie brachten ihn her zu ihm. Und alsbald, da ihn der Geist sah, riß er ihn; und er fiel auf die Erde und wälzte sich und schäumte."
+        },
+        {
+          "chapter": 9,
+          "verse": 21,
+          "text": "Und er fragte seinen Vater: Wie lange ist's, daß es ihm widerfahren ist? Er sprach: Von Kind auf."
+        },
+        {
+          "chapter": 9,
+          "verse": 22,
+          "text": "Und oft hat er ihn in Feuer und Wasser geworfen, daß er ihn umbrächte. Kannst du aber was, so erbarme dich unser und hilf uns!"
+        },
+        {
+          "chapter": 9,
+          "verse": 23,
+          "text": "[J]Jesus aber sprach zu ihm: Wenn du könntest Glauben! Alle Dinge sind möglich dem, der da glaubt.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 24,
+          "text": "Und alsbald schrie des Kindes Vater mit Tränen und sprach: Ich glaube, lieber HERR, hilf meinem Unglauben!"
+        },
+        {
+          "chapter": 9,
+          "verse": 25,
+          "text": "Da nun Jesus sah, daß das Volk zulief, bedrohte er den unsauberen Geist und sprach zu ihm: Du sprachloser und tauber Geist, ich gebiete dir, daß du von ihm ausfahrest und fahrest hinfort nicht in ihn!"
+        },
+        {
+          "chapter": 9,
+          "verse": 26,
+          "text": "Da schrie er und riß ihn sehr und fuhr aus. Und er ward, als wäre er tot, daß auch viele sagten: Er ist tot."
+        },
+        {
+          "chapter": 9,
+          "verse": 27,
+          "text": "Jesus aber ergriff ihn bei der Hand und richtete ihn auf; und er stand auf."
+        },
+        {
+          "chapter": 9,
+          "verse": 28,
+          "text": "Und da er heimkam, fragten ihn seine Jünger besonders: Warum konnten wir ihn nicht austreiben?"
+        },
+        {
+          "chapter": 9,
+          "verse": 29,
+          "text": "Und er sprach: Diese Art kann mit nichts ausfahren denn durch Beten und Fasten."
+        },
+        {
+          "chapter": 9,
+          "verse": 30,
+          "text": "Und sie gingen von da hinweg und wandelten durch Galiläa; und er wollte nicht, daß es jemand wissen sollte."
+        },
+        {
+          "chapter": 9,
+          "verse": 31,
+          "text": "Er lehrte aber seine Jünger und sprach zu ihnen: Des Menschen Sohn wird überantwortet werden in der Menschen Hände, und sie werden ihn töten; und wenn er getötet ist, so wird er am dritten Tage auferstehen."
+        },
+        {
+          "chapter": 9,
+          "verse": 32,
+          "text": "Sie aber verstanden das Wort nicht, und fürchteten sich, ihn zu fragen."
+        },
+        {
+          "chapter": 9,
+          "verse": 33,
+          "text": "Und er kam gen Kapernaum. Und da er daheim war, fragten er sie: Was handeltet ihr miteinander auf dem Wege?"
+        },
+        {
+          "chapter": 9,
+          "verse": 34,
+          "text": "Sie aber schwiegen; denn sie hatten miteinander auf dem Wege gehandelt, welcher der Größte wäre."
+        },
+        {
+          "chapter": 9,
+          "verse": 35,
+          "text": "Und er setzte sich und rief die Zwölf und sprach zu ihnen: So jemand will der Erste sein, der soll der Letzte sein vor allen und aller Knecht."
+        },
+        {
+          "chapter": 9,
+          "verse": 36,
+          "text": "Und er nahm ein Kindlein und stellte es mitten unter sie und herzte es und sprach zu ihnen:"
+        },
+        {
+          "chapter": 9,
+          "verse": 37,
+          "text": "[J]Wer ein solches Kindlein in meinem Namen aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt nicht mich auf, sondern den, der mich gesandt hat.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 38,
+          "text": "Johannes aber antwortete ihn und sprach: Meister, wir sahen einen, der trieb Teufel in deinem Namen aus, welcher uns nicht nachfolgt; und wir verboten's ihm, darum daß er uns nicht nachfolgt."
+        },
+        {
+          "chapter": 9,
+          "verse": 39,
+          "text": "[J]Jesus aber sprach: Ihr sollt's ihm nicht verbieten. Denn es ist niemand, der eine Tat tue in meinem Namen, und möge bald übel von mir reden.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 40,
+          "text": "[J]Wer nicht wider uns ist, der ist für uns.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 41,
+          "text": "[J]Wer aber euch tränkt mit einem Becher Wassers in meinem Namen, darum daß ihr Christo angehöret, wahrlich, ich sage euch, es wird ihm nicht unvergolten bleiben.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 42,
+          "text": "[J]Und wer der Kleinen einen ärgert, die an mich glauben, dem wäre es besser, daß ihm ein Mühlstein an seinen Hals gehängt und er ins Meer geworfen würde.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 43,
+          "text": "[J]So dich aber deine Hand ärgert, so haue sie ab! Es ist dir besser, daß du als ein Krüppel zum Leben eingehest, denn daß du zwei Hände habest und fahrest in die Hölle, in das ewige Feuer,[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 44,
+          "text": "da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht."
+        },
+        {
+          "chapter": 9,
+          "verse": 45,
+          "text": "[J]Ärgert dich dein Fuß, so haue ihn ab. Es ist dir besser, daß du lahm zum Leben eingehest, denn daß du zwei Füße habest und werdest in die Hölle geworfen, in das ewige Feuer,[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 46,
+          "text": "da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht."
+        },
+        {
+          "chapter": 9,
+          "verse": 47,
+          "text": "[J]Ärgert dich dein Auge, so wirf's von dir! Es ist dir besser, daß du einäugig in das Reich Gottes gehest, denn daß du zwei Augen habest und werdest in das höllische Feuer geworfen,[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 48,
+          "text": "[J]da ihr Wurm nicht stirbt ihr Feuer nicht verlöscht.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 49,
+          "text": "[J]Es muß ein jeglicher mit Feuer gesalzen werden, und alles Opfer wird mit Salz gesalzen.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 50,
+          "text": "[J]Das Salz ist gut; so aber das Salz dumm wird, womit wird man's würzen? Habt Salz bei euch und habt Frieden untereinander.[/J]"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lastVerse": 52,
+      "verseUnitCount": 52,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "text": "Und er machte sich auf und kam von dannen an die Örter des jüdischen Landes jenseit des Jordans. Und das Volk ging abermals in Haufen zu ihm, und wie seine Gewohnheit war, lehrte er sie abermals."
+        },
+        {
+          "chapter": 10,
+          "verse": 2,
+          "text": "Und die Pharisäer traten zu ihm und fragten ihn, ob ein Mann sich scheiden möge von seinem Weibe; und versuchten ihn damit."
+        },
+        {
+          "chapter": 10,
+          "verse": 3,
+          "text": "Er antwortete aber und sprach: Was hat euch Mose geboten?"
+        },
+        {
+          "chapter": 10,
+          "verse": 4,
+          "text": "Sie sprachen; Mose hat zugelassen, einen Scheidebrief zu schreiben und sich zu scheiden."
+        },
+        {
+          "chapter": 10,
+          "verse": 5,
+          "text": "Jesus antwortete und sprach zu ihnen: Um eures Herzens Härtigkeit willen hat er euch solches Gebot geschrieben;"
+        },
+        {
+          "chapter": 10,
+          "verse": 6,
+          "text": "[J]aber von Anfang der Kreatur hat sie Gott geschaffen einen Mann und ein Weib.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 7,
+          "text": "[J]Darum wird der Mensch Vater und Mutter verlassen und wird seinem Weibe anhangen,[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 8,
+          "text": "[J]und werden die zwei ein Fleisch sein. So sind sie nun nicht zwei, sondern ein Fleisch.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 9,
+          "text": "[J]Was denn Gott zusammengefügt hat, soll der Mensch nicht scheiden.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 10,
+          "text": "Und daheim fragten ihn abermals seine Jünger darum."
+        },
+        {
+          "chapter": 10,
+          "verse": 11,
+          "text": "Und er sprach zu ihnen: Wer sich scheidet von seinem Weibe und freit eine andere, der bricht die Ehe an ihr;"
+        },
+        {
+          "chapter": 10,
+          "verse": 12,
+          "text": "[J]und so sich ein Weib scheidet von ihrem Manne und freit einen anderen, die bricht ihre Ehe.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 13,
+          "text": "Und sie brachten Kindlein zu ihm, daß er sie anrührte. Die Jünger aber fuhren die an, die sie trugen."
+        },
+        {
+          "chapter": 10,
+          "verse": 14,
+          "text": "Da es aber Jesus sah, ward er unwillig und sprach zu ihnen: Lasset die Kindlein zu mir kommen und wehret ihnen nicht; denn solcher ist das Reich Gottes."
+        },
+        {
+          "chapter": 10,
+          "verse": 15,
+          "text": "[J]Wahrlich ich sage euch: Wer das Reich Gottes nicht empfängt wie ein Kindlein, der wird nicht hineinkommen.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 16,
+          "text": "Und er herzte sie und legte die Hände auf sie und segnete sie."
+        },
+        {
+          "chapter": 10,
+          "verse": 17,
+          "text": "Und da er hinausgegangen war auf den Weg, lief einer herzu, kniete, vor ihn und fragte ihn: Guter Meister, was soll ich tun, daß ich das ewige Leben ererbe?"
+        },
+        {
+          "chapter": 10,
+          "verse": 18,
+          "text": "[J]Aber Jesus sprach zu ihm: Was heißest du mich gut? Niemand ist gut denn der einige Gott.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 19,
+          "text": "[J]Du weißt ja die Gebote wohl: “Du sollst nicht ehebrechen; du sollst nicht töten; du sollst nicht stehlen; du sollst nicht falsch Zeugnis reden; du sollst niemand täuschen; ehre Vater und Mutter.”[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 20,
+          "text": "Er aber antwortete und sprach zu ihm: Meister, das habe ich alles gehalten von meiner Jugend auf."
+        },
+        {
+          "chapter": 10,
+          "verse": 21,
+          "text": "Und Jesus sah ihn an und liebte ihn und sprach zu ihm: Eines fehlt dir. Gehe hin, verkaufe alles, was du hast, und gib's den Armen, so wirst du einen Schatz im Himmel haben, und komm, folge mir nach und nimm das Kreuz auf dich."
+        },
+        {
+          "chapter": 10,
+          "verse": 22,
+          "text": "Er aber ward unmutig über die Rede und ging traurig davon; denn er hatte viele Güter."
+        },
+        {
+          "chapter": 10,
+          "verse": 23,
+          "text": "Und Jesus sah um sich und sprach zu seinen Jüngern: Wie schwer werden die Reichen in das Reich Gottes kommen!"
+        },
+        {
+          "chapter": 10,
+          "verse": 24,
+          "text": "Die Jünger aber entsetzten sich über seine Rede. Aber Jesus antwortete wiederum und sprach zu ihnen: Liebe Kinder, wie schwer ist's, daß die, so ihr Vertrauen auf Reichtum setzen, ins Reich Gottes kommen!"
+        },
+        {
+          "chapter": 10,
+          "verse": 25,
+          "text": "[J]Es ist leichter, daß ein Kamel durch ein Nadelöhr gehe, denn daß ein Reicher ins Reich Gottes komme.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 26,
+          "text": "Sie entsetzten sich aber noch viel mehr und sprachen untereinander: Wer kann denn selig werden?"
+        },
+        {
+          "chapter": 10,
+          "verse": 27,
+          "text": "Jesus aber sah sie an und sprach: Bei den Menschen ist's unmöglich, aber nicht bei Gott; denn alle Dinge sind möglich bei Gott."
+        },
+        {
+          "chapter": 10,
+          "verse": 28,
+          "text": "Da sagte Petrus zu ihm: Siehe, wir haben alles verlassen und sind dir nachgefolgt."
+        },
+        {
+          "chapter": 10,
+          "verse": 29,
+          "text": "[J]Jesus antwortete und sprach: Wahrlich, ich sage euch: Es ist niemand, so er verläßt Haus oder Brüder oder Schwestern oder Vater oder Mutter oder Weib oder Kind oder Äcker um meinetwillen und um des Evangeliums willen,[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 30,
+          "text": "[J]der nicht hundertfältig empfange: jetzt in dieser Zeit Häuser und Brüder und Schwestern und Mütter und Kinder und Äcker mitten unter Verfolgungen, und in der zukünftigen Welt das ewige Leben.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 31,
+          "text": "[J]Viele aber werden die Letzten sein, die die Ersten sind, und die Ersten sein, die die Letzten sind.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 32,
+          "text": "Sie waren aber auf dem Wege und gingen hinauf gen Jerusalem; und Jesus ging vor ihnen, und sie entsetzten sich, folgten ihm nach und fürchteten sich. Und Jesus nahm abermals zu sich die Zwölf und sagte ihnen, was ihm widerfahren würde:"
+        },
+        {
+          "chapter": 10,
+          "verse": 33,
+          "text": "[J]Siehe, wir gehen hinauf gen Jerusalem, und des Menschen Sohn wird überantwortet werden den Hohenpriestern und Schriftgelehrten; und sie werden ihn verdammen zum Tode und überantworten den Heiden.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 34,
+          "text": "[J]Die werden ihn verspotten und geißeln und verspeien und töten; und am dritten Tag wird er auferstehen.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 35,
+          "text": "Da gingen zu ihm Jakobus und Johannes, die Söhne des Zebedäus, und sprachen: Meister, wir wollen, daß du uns tuest, was wir dich bitten werden."
+        },
+        {
+          "chapter": 10,
+          "verse": 36,
+          "text": "Er sprach zu ihnen: Was wollt ihr, daß ich euch tue?"
+        },
+        {
+          "chapter": 10,
+          "verse": 37,
+          "text": "Sie sprachen zu ihm: Gib uns, daß wir sitzen einer zu deiner Rechten und einer zu deiner Linken in deiner Herrlichkeit."
+        },
+        {
+          "chapter": 10,
+          "verse": 38,
+          "text": "[J]Jesus aber sprach zu ihnen: Ihr wisset nicht, was ihr bittet. Könnt ihr den Kelch trinken, den ich trinke, und euch taufen lassen mit der Taufe, mit der ich getauft werde?[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 39,
+          "text": "Sie sprachen zu ihm: Ja, wir können es wohl. Jesus aber sprach zu ihnen: Ihr werdet zwar den Kelch trinken, den ich trinke, und getauft werden mit der Taufe, mit der ich getauft werde;"
+        },
+        {
+          "chapter": 10,
+          "verse": 40,
+          "text": "[J]zu sitzen aber zu meiner Rechten und zu meiner Linken stehet mir nicht zu, euch zu geben, sondern welchen es bereitet ist.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 41,
+          "text": "Und da das die Zehn hörten, wurden sie unwillig über Jakobus und Johannes."
+        },
+        {
+          "chapter": 10,
+          "verse": 42,
+          "text": "Aber Jesus rief sie zu sich und sprach zu ihnen: Ihr wisset, daß die weltlichen Fürsten herrschen und die Mächtigen unter ihnen haben Gewalt."
+        },
+        {
+          "chapter": 10,
+          "verse": 43,
+          "text": "[J]Aber also soll es unter euch nicht sein. Sondern welcher will groß werden unter euch, der soll euer Diener sein;[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 44,
+          "text": "[J]und welcher unter euch will der Vornehmste werden, der soll aller Knecht sein.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 45,
+          "text": "[J]Denn auch des Menschen Sohn ist nicht gekommen, daß er sich dienen lasse, sondern daß er diene und gebe sein Leben zur Bezahlung für viele.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 46,
+          "text": "Und sie kamen gen Jericho. Und da er aus Jericho ging, er und seine Jünger und ein großes Volk, da saß ein Blinder, Bartimäus, des Timäus Sohn, am Wege und bettelte."
+        },
+        {
+          "chapter": 10,
+          "verse": 47,
+          "text": "Und da er hörte, daß es Jesus von Nazareth war, fing er an, zu schreien und zu sagen: Jesu, du Sohn Davids, erbarme dich mein!"
+        },
+        {
+          "chapter": 10,
+          "verse": 48,
+          "text": "Und viele bedrohten ihn, er sollte stillschweigen. Er aber schrie viel mehr: Du Sohn Davids, erbarme dich mein!"
+        },
+        {
+          "chapter": 10,
+          "verse": 49,
+          "text": "Und Jesus stand still und ließ ihn rufen. Und sie riefen den Blinden und sprachen zu ihm: Sei getrost! stehe auf, er ruft dich!"
+        },
+        {
+          "chapter": 10,
+          "verse": 50,
+          "text": "Und er warf sein Kleid von sich, stand auf und kam zu Jesu."
+        },
+        {
+          "chapter": 10,
+          "verse": 51,
+          "text": "Und Jesus antwortete und sprach zu ihm: Was willst du, daß ich dir tun soll? Der Blinde sprach zu ihm: Rabbuni, daß ich sehend werde."
+        },
+        {
+          "chapter": 10,
+          "verse": 52,
+          "text": "Jesus aber sprach zu ihm: Gehe hin; dein Glaube hat dir geholfen. Und alsbald ward er sehend und folgte ihm nach auf dem Wege."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lastVerse": 33,
+      "verseUnitCount": 33,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "text": "Und da sie nahe an Jerusalem kamen, gen Bethphage und Bethanien an den Ölberg, sandte er seiner Jünger zwei"
+        },
+        {
+          "chapter": 11,
+          "verse": 2,
+          "text": "und sprach zu ihnen: Gehet hin in den Flecken, der vor euch liegt; und alsbald, wenn ihr hineinkommt, werdet ihr finden ein Füllen angebunden, auf welchem nie ein Mensch gesessen hat; löset es ab und führet es her!"
+        },
+        {
+          "chapter": 11,
+          "verse": 3,
+          "text": "[J]Und so jemand zu euch sagen wird: Warum tut ihr das? so sprechet: Der HERR bedarf sein; so wird er's alsbald hersenden.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 4,
+          "text": "Sie gingen hin und fanden das Füllen gebunden an die Tür, außen auf der Wegscheide, und lösten es ab."
+        },
+        {
+          "chapter": 11,
+          "verse": 5,
+          "text": "Und etliche, die dastanden, sprachen zu ihnen: Was macht ihr, daß ihr das Füllen ablöset?"
+        },
+        {
+          "chapter": 11,
+          "verse": 6,
+          "text": "Sie sagten aber zu ihnen, wie ihnen Jesus geboten hatte, und die ließen's zu."
+        },
+        {
+          "chapter": 11,
+          "verse": 7,
+          "text": "Und sie führten das Füllen zu Jesu und legten ihre Kleider darauf, und er setzte sich darauf."
+        },
+        {
+          "chapter": 11,
+          "verse": 8,
+          "text": "Viele aber breiteten ihre Kleider auf den Weg; etliche hieben Maien von den Bäumen und streuten sie auf den Weg."
+        },
+        {
+          "chapter": 11,
+          "verse": 9,
+          "text": "Und die vorne vorgingen und die hernach folgten, schrieen und sprachen: Hosianna! Gelobt sei, der da kommt im Namen des HERRN!"
+        },
+        {
+          "chapter": 11,
+          "verse": 10,
+          "text": "Gelobt sei das Reich unsers Vaters David, das da kommt in dem Namen des HERRN! Hosianna in der Höhe!"
+        },
+        {
+          "chapter": 11,
+          "verse": 11,
+          "text": "Und der HERR ging ein zu Jerusalem und in den Tempel, und er besah alles; und am Abend ging er hinaus gen Bethanien mit den Zwölfen."
+        },
+        {
+          "chapter": 11,
+          "verse": 12,
+          "text": "Und des anderen Tages, da sie von Bethanien gingen, hungerte ihn."
+        },
+        {
+          "chapter": 11,
+          "verse": 13,
+          "text": "Und er sah einen Feigenbaum von ferne, der Blätter hatte; da trat er hinzu, ob er etwas darauf fände, und da er hinzukam, fand er nichts denn nur Blätter, denn es war noch nicht Zeit, daß Feigen sein sollten."
+        },
+        {
+          "chapter": 11,
+          "verse": 14,
+          "text": "Und Jesus antwortete und sprach zu ihm: Nun esse von dir niemand ewiglich! Und seine Jünger hörten das."
+        },
+        {
+          "chapter": 11,
+          "verse": 15,
+          "text": "Und sie kamen gen Jerusalem. Und Jesus ging in den Tempel, fing an und trieb aus die Verkäufer und Käufer in dem Tempel; und die Tische der Wechsler und die Stühle der Taubenkrämer stieß er um,"
+        },
+        {
+          "chapter": 11,
+          "verse": 16,
+          "text": "und ließ nicht zu, das jemand etwas durch den Tempel trüge."
+        },
+        {
+          "chapter": 11,
+          "verse": 17,
+          "text": "Und er lehrte und sprach zu ihnen: Steht nicht geschrieben: “Mein Haus soll heißen ein Bethaus allen Völkern”? Ihr aber habt eine Mördergrube daraus gemacht."
+        },
+        {
+          "chapter": 11,
+          "verse": 18,
+          "text": "Und es kam vor die Schriftgelehrten und Hohenpriester; und sie trachteten, wie sie ihn umbrächten. Sie fürchteten sich aber vor ihm; denn alles Volk verwunderte sich über seine Lehre."
+        },
+        {
+          "chapter": 11,
+          "verse": 19,
+          "text": "Und des Abends ging er hinaus vor die Stadt."
+        },
+        {
+          "chapter": 11,
+          "verse": 20,
+          "text": "Und am Morgen gingen sie vorüber und sahen den Feigenbaum, daß er verdorrt war bis auf die Wurzel."
+        },
+        {
+          "chapter": 11,
+          "verse": 21,
+          "text": "Und Petrus gedachte daran und sprach zu ihm: Rabbi, siehe, der Feigenbaum, den du verflucht hast, ist verdorrt."
+        },
+        {
+          "chapter": 11,
+          "verse": 22,
+          "text": "Jesus antwortete und sprach zu ihnen: Habt Glauben an Gott."
+        },
+        {
+          "chapter": 11,
+          "verse": 23,
+          "text": "[J]Wahrlich, ich sage euch: Wer zu diesem Berge spräche: Hebe dich und wirf dich ins Meer! und zweifelte nicht in seinem Herzen, sondern glaubte, daß es geschehen würde, was er sagt, so wird's ihm geschehen, was er sagt.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 24,
+          "text": "[J]Darum sage ich euch: Alles, was ihr bittet in eurem Gebet, glaubet nur, daß ihr's empfangen werdet, so wird's euch werden.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 25,
+          "text": "[J]Und wenn ihr stehet und betet, so vergebet, wo ihr etwas wider jemand habt, auf daß auch euer Vater im Himmel euch vergebe eure Fehler.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 26,
+          "text": "Wenn ihr aber nicht vergeben werdet, so wird euch euer Vater, der im Himmel ist, eure Fehler nicht vergeben."
+        },
+        {
+          "chapter": 11,
+          "verse": 27,
+          "text": "Und sie kamen abermals gen Jerusalem. Und da er im Tempel wandelte, kamen zu ihm die Hohenpriester und Schriftgelehrten und die Ältesten"
+        },
+        {
+          "chapter": 11,
+          "verse": 28,
+          "text": "und sprachen zu ihm: Aus was für Macht tust du das? und wer hat dir die Macht gegeben, daß du solches tust?"
+        },
+        {
+          "chapter": 11,
+          "verse": 29,
+          "text": "[J]Jesus aber antwortete und sprach zu ihnen: Ich will euch auch ein Wort fragen; antwortet mir, so will ich euch sagen, aus was für Macht ich das tue.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 30,
+          "text": "[J]Die Taufe des Johannes, war sie vom Himmel oder von den Menschen? Antwortet mir![/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 31,
+          "text": "Und sie gedachten bei sich selbst und sprachen: Sagen wir sie war vom Himmel, so wird er sagen: Warum habt ihr denn ihm nicht geglaubt?"
+        },
+        {
+          "chapter": 11,
+          "verse": 32,
+          "text": "Sagen wir aber, sie war von Menschen, so fürchten wir uns vor dem Volk. Denn sie hielten alle, daß Johannes ein rechter Prophet wäre."
+        },
+        {
+          "chapter": 11,
+          "verse": 33,
+          "text": "Und sie antworteten und sprachen zu Jesu: Wir wissen's nicht. Und Jesus antwortete und sprach zu ihnen: So sage ich euch auch nicht, aus was für Macht ich solches tue."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lastVerse": 44,
+      "verseUnitCount": 44,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "text": "Und er fing an, zu ihnen durch Gleichnisse zu reden: Ein Mensch pflanzte einen Weinberg und führte einen Zaun darum und grub eine Kelter und baute einen Turm und tat ihn aus den Weingärtnern und zog über Land."
+        },
+        {
+          "chapter": 12,
+          "verse": 2,
+          "text": "[J]Und sandte einen Knecht, da die Zeit kam, zu den Weingärtnern, daß er von den Weingärtnern nähme von der Frucht des Weinbergs.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 3,
+          "text": "[J]Sie nahmen ihn aber und stäupten ihn, und ließen ihn leer von sich.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 4,
+          "text": "[J]Abermals sandte er ihnen einen anderen Knecht; dem zerwarfen sie den Kopf mit Steinen und ließen ihn geschmäht von sich.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 5,
+          "text": "[J]Abermals sandte er einen andern: den töteten sie. Und viele andere, etliche stäupten sie, etliche töteten sie.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 6,
+          "text": "[J]Da hatte er noch einen einzigen Sohn, der war ihm lieb; den sandte er zum letzten auch zu ihnen und sprach: Sie werden sich vor meinem Sohn scheuen.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 7,
+          "text": "[J]Aber die Weingärtner sprachen untereinander: Dies ist der Erbe; kommt, laßt uns ihn töten, so wird das Erbe unser sein![/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 8,
+          "text": "[J]Und sie nahmen ihn und töteten ihn und warfen ihn hinaus vor den Weinberg.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 9,
+          "text": "[J]Was wird nun der Herr des Weinbergs tun? Er wird kommen und die Weingärtner umbringen und den Weinberg andern geben.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 10,
+          "text": "[J]Habt ihr auch nicht gelesen diese Schrift: “Der Stein, den die Bauleute verworfen haben, der ist zum Eckstein geworden.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 11,
+          "text": "[J]Von dem HERRN ist das geschehen, und es ist wunderbarlich vor unseren Augen”?[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 12,
+          "text": "Und sie trachteten darnach, wie sie ihn griffen, und fürchteten sich doch vor dem Volk; denn sie verstanden, daß er auf sie dies Gleichnis geredet hatte. Und sie ließen ihn und gingen davon."
+        },
+        {
+          "chapter": 12,
+          "verse": 13,
+          "text": "Und sie sandten zu ihm etliche von den Pharisäern und des Herodes Dienern, daß sie ihn fingen in Worten."
+        },
+        {
+          "chapter": 12,
+          "verse": 14,
+          "text": "Und sie kamen und sprachen zu ihm: Meister, wir wissen, daß du wahrhaftig bist und fragst nach niemand; denn du achtest nicht das Ansehen der Menschen, sondern du lehrst den Weg Gottes recht. Ist's recht, daß man dem Kaiser Zins gebe, oder nicht? Sollen wir ihn geben oder nicht geben?"
+        },
+        {
+          "chapter": 12,
+          "verse": 15,
+          "text": "Er aber merkte ihre Heuchelei und sprach zu ihnen: Was versucht ihr mich? Bringet mir einen Groschen, daß ich ihn sehe."
+        },
+        {
+          "chapter": 12,
+          "verse": 16,
+          "text": "Und sie brachten ihm. Da sprach er: Wes ist das Bild und die Überschrift? Sie sprachen zu ihm: Des Kaisers!"
+        },
+        {
+          "chapter": 12,
+          "verse": 17,
+          "text": "Da antwortete Jesus und sprach zu ihnen: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist! Und sie verwunderten sich über ihn."
+        },
+        {
+          "chapter": 12,
+          "verse": 18,
+          "text": "Da traten die Sadduzäer zu ihm, die da halten, es sei keine Auferstehung; die fragten ihn und sprachen:"
+        },
+        {
+          "chapter": 12,
+          "verse": 19,
+          "text": "Meister, Mose hat uns geschrieben: Wenn jemands Bruder stirbt und hinterläßt ein Weib, und hinterläßt keine Kinder, so soll sein Bruder sein Weib nehmen und seinem Bruder Samen erwecken."
+        },
+        {
+          "chapter": 12,
+          "verse": 20,
+          "text": "Nun sind sieben Brüder gewesen. Der erste nahm ein Weib; der starb und hinterließ keinen Samen."
+        },
+        {
+          "chapter": 12,
+          "verse": 21,
+          "text": "Und der andere nahm sie und starb und hinterließ auch nicht Samen. Der Dritte desgleichen."
+        },
+        {
+          "chapter": 12,
+          "verse": 22,
+          "text": "Und es nahmen sie alle sieben und hinterließen nicht Samen. Zuletzt nach allen starb das Weib auch."
+        },
+        {
+          "chapter": 12,
+          "verse": 23,
+          "text": "Nun in der Auferstehung, wenn sie auferstehen, wes Weib wird sie sein unter ihnen? Denn sieben haben sie zum Weibe gehabt."
+        },
+        {
+          "chapter": 12,
+          "verse": 24,
+          "text": "Da antwortete Jesus und sprach zu ihnen: Ist's nicht also? Ihr irrt darum, daß ihr nichts wisset von der Schrift noch von der Kraft Gottes."
+        },
+        {
+          "chapter": 12,
+          "verse": 25,
+          "text": "[J]Wenn sie von den Toten auferstehen werden, so werden sie nicht freien noch sich freien lassen, sondern sie sind wie die Engel im Himmel.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 26,
+          "text": "[J]Aber von den Toten, daß sie auferstehen werden, habt ihr nicht gelesen im Buch Mose's bei dem Busch, wie Gott zu ihm sagte und sprach: “Ich bin der Gott Abrahams und der Gott Isaaks und der Gott Jakobs”?[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 27,
+          "text": "[J]Gott aber ist nicht der Toten, sondern der Lebendigen Gott. Darum irrt ihr sehr.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 28,
+          "text": "Und es trat zu ihm der Schriftgelehrten einer, der ihnen zugehört hatte, wie sie sich miteinander befragten, und sah, daß er ihnen fein geantwortet hatte, und fragte ihn: Welches ist das vornehmste Gebot vor allen?"
+        },
+        {
+          "chapter": 12,
+          "verse": 29,
+          "text": "Jesus aber antwortete ihm: Das vornehmste Gebot vor allen Geboten ist das: “Höre Israel, der HERR, unser Gott, ist ein einiger Gott;"
+        },
+        {
+          "chapter": 12,
+          "verse": 30,
+          "text": "[J]und du sollst Gott, deinen HERRN, lieben von ganzem Herzen, von ganzer Seele, von ganzem Gemüte und von allen deinen Kräften.” Das ist das vornehmste Gebot.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 31,
+          "text": "[J]Und das andere ist ihm gleich: “Du sollst deinen Nächsten lieben wie dich selbst.” Es ist kein anderes Gebot größer denn diese.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 32,
+          "text": "Und der Schriftgelehrte sprach zu ihm: Meister, du hast wahrlich recht geredet; denn es ist ein Gott und ist kein anderer außer ihm."
+        },
+        {
+          "chapter": 12,
+          "verse": 33,
+          "text": "Und ihn lieben von ganzem Herzen, von ganzem Gemüte, von ganzer Seele, und von allen Kräften, und lieben seinen Nächsten wie sich selbst, das ist mehr denn Brandopfer und alle Opfer."
+        },
+        {
+          "chapter": 12,
+          "verse": 34,
+          "text": "Da Jesus aber sah, daß er vernünftig antwortete, sprach er zu ihm: “Du bist nicht ferne von dem Reich Gottes.” Und es wagte ihn niemand weiter zu fragen."
+        },
+        {
+          "chapter": 12,
+          "verse": 35,
+          "text": "Und Jesus antwortete und sprach, da er lehrte im Tempel: Wie sagen die Schriftgelehrten, Christus sei Davids Sohn?"
+        },
+        {
+          "chapter": 12,
+          "verse": 36,
+          "text": "[J]Er aber, David, spricht durch den heiligen Geist: “Der HERR hat gesagt zu meinem Herrn: Setze dich zu meiner Rechten, bis daß ich lege deine Feinde zum Schemel deiner Füße.”[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 37,
+          "text": "Da heißt ihn ja David seinen Herrn; woher ist er denn sein Sohn? Und viel Volks hörte ihn gern."
+        },
+        {
+          "chapter": 12,
+          "verse": 38,
+          "text": "Und er lehrte sie und sprach zu ihnen: Sehet euch vor vor den Schriftgelehrten, die in langen Kleidern gehen und lassen sich gern auf dem Markte grüßen"
+        },
+        {
+          "chapter": 12,
+          "verse": 39,
+          "text": "[J]und sitzen gern obenan in den Schulen und über Tisch beim Gastmahl;[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 40,
+          "text": "[J]sie fressen der Witwen Häuser und wenden langes Gebet vor. Diese werden desto mehr Verdammnis empfangen.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 41,
+          "text": "Und Jesus setzte sich gegen den Gotteskasten und schaute, wie das Volk Geld einlegte in den Gotteskasten; und viele Reiche legten viel ein."
+        },
+        {
+          "chapter": 12,
+          "verse": 42,
+          "text": "Und es kam eine arme Witwe und legte zwei Scherflein ein; die machen einen Heller."
+        },
+        {
+          "chapter": 12,
+          "verse": 43,
+          "text": "Und er rief seine Jünger zu sich und sprach zu ihnen: Diese arme Witwe hat mehr in den Gotteskasten gelegt denn alle, die eingelegt haben."
+        },
+        {
+          "chapter": 12,
+          "verse": 44,
+          "text": "[J]Denn sie haben alle von ihrem Überfluß eingelegt; diese aber hat von ihrer Armut alles, was sie hatte, ihre ganze Nahrung, eingelegt.[/J]"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "lastVerse": 37,
+      "verseUnitCount": 37,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": 1,
+          "text": "Und da er aus dem Tempel ging, sprach zu ihm seiner Jünger einer: Meister, siehe, welche Steine und welch ein Bau ist das!"
+        },
+        {
+          "chapter": 13,
+          "verse": 2,
+          "text": "[J]Und Jesus antwortete und sprach zu ihm: Siehst du wohl allen diesen großen Bau? Nicht ein Stein wird auf dem anderen bleiben, der nicht zerbrochen werde.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 3,
+          "text": "Und da er auf dem Ölberge saß gegenüber dem Tempel, fragten ihn Petrus, Jakobus und Johannes und Andreas besonders:"
+        },
+        {
+          "chapter": 13,
+          "verse": 4,
+          "text": "Sage uns, wann wird das alles geschehen? Und was wird das Zeichen sein, wann das alles soll vollendet werden?"
+        },
+        {
+          "chapter": 13,
+          "verse": 5,
+          "text": "Jesus antwortete ihnen und fing an, zu sagen: Sehet zu das euch nicht jemand verführe!"
+        },
+        {
+          "chapter": 13,
+          "verse": 6,
+          "text": "[J]Denn es werden viele kommen unter meinem Namen und sagen: “Ich bin Christus!” und werden viele verführen.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 7,
+          "text": "[J]Wenn ihr aber hören werdet von Kriegen und Kriegsgeschrei, so fürchtet euch nicht. Denn es muß also geschehen; aber das Ende ist noch nicht da.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 8,
+          "text": "[J]Es wird sich ein Volk wider das andere empören und ein Königreich wider das andere, und werden Erdbeben geschehen hin und wieder, und wird teure Zeit und Schrecken sein. Das ist der Not Anfang.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 9,
+          "text": "[J]Ihr aber, sehet euch vor! Denn sie werden euch überantworten vor die Rathäuser und Schulen; und ihr müßt gestäupt werden, und vor Fürsten und Könige geführt werden um meinetwillen, zu einem Zeugnis über sie.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 10,
+          "text": "[J]Und das Evangelium muß zuvor verkündigt werden unter alle Völker.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 11,
+          "text": "[J]Wenn sie euch nun führen und überantworten werden, so sorget nicht, was ihr reden sollt, und bedenket auch nicht zuvor; sondern was euch zu der Stunde gegeben wird, das redet. Denn ihr seid's nicht, die da reden, sondern der Heilige Geist.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 12,
+          "text": "[J]Es wird aber überantworten ein Bruder den andern zum Tode und der Vater den Sohn, und die Kinder werden sich empören gegen die Eltern und werden sie helfen töten.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 13,
+          "text": "[J]Und ihr werdet gehaßt sein von jedermann um meines Namens willen. Wer aber beharrt bis an das Ende, der wird selig.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 14,
+          "text": "[J]Wenn ihr aber sehen werdet den Greuel der Verwüstung (von dem der Prophet Daniel gesagt hat), daß er steht, wo er nicht soll (wer es liest, der merke darauf!), alsdann, wer in Judäa ist, der fliehe auf die Berge;[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 15,
+          "text": "[J]und wer auf dem Dache ist, der steige nicht hernieder ins Haus und komme nicht hinein, etwas zu holen aus seinem Hause;[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 16,
+          "text": "[J]und wer auf dem Felde ist, der wende sich nicht um, seine Kleider zu holen.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 17,
+          "text": "[J]Weh aber den Schwangeren und Säugerinnen zu der Zeit![/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 18,
+          "text": "[J]Bittet aber, daß eure Flucht nicht geschehe im Winter.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 19,
+          "text": "[J]Denn in diesen Tagen werden solche Trübsale sein, wie sie nie gewesen sind bisher, vom Anfang der Kreatur, die Gott geschaffen hat, und wie auch nicht werden wird.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 20,
+          "text": "[J]Und so der HERR diese Tage nicht verkürzt hätte, würde kein Mensch selig: aber um der Auserwählten willen, die er auserwählt hat, hat er auch diese Tage verkürzt.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 21,
+          "text": "[J]Wenn nun jemand zu der Zeit wird zu euch sagen: Siehe, hier ist Christus! siehe, da ist er! so glaubet nicht.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 22,
+          "text": "[J]Denn es werden sich erheben falsche Christi und falsche Propheten, die Zeichen und Wunder tun, daß sie auch die Auserwählten verführen, so es möglich wäre.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 23,
+          "text": "[J]Ihr aber sehet euch vor! Siehe, ich habe es euch alles zuvor gesagt.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 24,
+          "text": "[J]Aber zu der Zeit, nach dieser Trübsal, werden Sonne und Mond ihren Schein verlieren,[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 25,
+          "text": "[J]und die Sterne werden vom Himmel fallen, und die Kräfte der Himmel werden sich bewegen.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 26,
+          "text": "[J]Und dann werden sie sehen des Menschen Sohn kommen in den Wolken mit großer Kraft und Herrlichkeit.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 27,
+          "text": "[J]Und dann wird er seine Engel senden und wird versammeln seine Auserwählten von den vier Winden, von dem Ende der Erde bis zum Ende des Himmels.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 28,
+          "text": "[J]An dem Feigenbaum lernet ein Gleichnis: wenn jetzt seine Zweige saftig werden und Blätter gewinnen, so wißt ihr, daß der Sommer nahe ist.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 29,
+          "text": "[J]Also auch, wenn ihr sehet, daß solches geschieht, so wisset, daß es nahe vor der Tür ist.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 30,
+          "text": "[J]Wahrlich, ich sage euch: Dies Geschlecht wird nicht vergehen, bis daß dies alles geschehe.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 31,
+          "text": "[J]Himmel und Erde werden vergehen; meine Worte aber werden nicht vergehen.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 32,
+          "text": "[J]Von dem Tage aber und der Stunde weiß niemand, auch die Engel im Himmel nicht, auch der Sohn nicht, sondern allein der Vater.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 33,
+          "text": "[J]Sehet zu, wachet und betet; denn ihr wisset nicht, wann es Zeit ist.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 34,
+          "text": "[J]Gleich als ein Mensch, der über Land zog und verließ sein Haus und gab seinem Knecht Macht, einem jeglichen sein Werk, und gebot dem Türhüter, er sollte wachen.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 35,
+          "text": "[J]So wachet nun (denn ihr wißt nicht, wann der Herr des Hauses kommt, ob er kommt am Abend oder zu Mitternacht oder um den Hahnenschrei oder des Morgens),[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 36,
+          "text": "[J]auf daß er nicht schnell komme und finde euch schlafend.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 37,
+          "text": "[J]Was ich aber euch sage, das sage ich allen: Wachet![/J]"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "lastVerse": 72,
+      "verseUnitCount": 72,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": 1,
+          "text": "Und nach zwei Tagen war Ostern und die Tage der süßen Brote. Und die Hohenpriester und Schriftgelehrten suchten, wie sie ihn mit List griffen und töteten."
+        },
+        {
+          "chapter": 14,
+          "verse": 2,
+          "text": "Sie sprachen aber: Ja nicht auf das Fest, daß nicht ein Aufruhr im Volk werde!"
+        },
+        {
+          "chapter": 14,
+          "verse": 3,
+          "text": "Und da er zu Bethanien war in Simons, des Aussätzigen, Hause und saß zu Tische, da kam ein Weib, die hatte ein Glas mit ungefälschtem und köstlichem Nardenwasser, und sie zerbrach das Glas und goß es auf sein Haupt."
+        },
+        {
+          "chapter": 14,
+          "verse": 4,
+          "text": "Da waren etliche, die wurden unwillig und sprachen: Was soll doch diese Vergeudung?"
+        },
+        {
+          "chapter": 14,
+          "verse": 5,
+          "text": "Man könnte das Wasser um mehr denn dreihundert Groschen verkauft haben und es den Armen geben. Und murrten über sie."
+        },
+        {
+          "chapter": 14,
+          "verse": 6,
+          "text": "Jesus aber sprach: Laßt sie mit Frieden! Was bekümmert ihr sie? Sie hat ein gutes Werk an mir getan."
+        },
+        {
+          "chapter": 14,
+          "verse": 7,
+          "text": "[J]Ihr habt allezeit Arme bei euch, und wenn ihr wollt, könnt ihr ihnen Gutes tun; mich aber habt ihr nicht allezeit.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 8,
+          "text": "[J]Sie hat getan, was sie konnte; sie ist zuvorgekommen, meinen Leib zu salben zu meinem Begräbnis.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 9,
+          "text": "[J]Wahrlich, ich sage euch: Wo dies Evangelium gepredigt wird in aller Welt, da wird man auch das sagen zu ihrem Gedächtnis, was sie jetzt getan hat.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 10,
+          "text": "Und Judas Ischariot, einer von den Zwölfen, ging hin zu den Hohenpriestern, daß er ihn verriete."
+        },
+        {
+          "chapter": 14,
+          "verse": 11,
+          "text": "Da sie das hörten, wurden sie froh und verhießen, ihm Geld zu geben. Und er suchte, wie er ihn füglich verriete."
+        },
+        {
+          "chapter": 14,
+          "verse": 12,
+          "text": "Und am ersten Tage der süßen Brote, da man das Osterlamm opferte, sprachen seine Jünger zu ihm: Wo willst du, daß wir hingehen und bereiten, daß du das Osterlamm essest?"
+        },
+        {
+          "chapter": 14,
+          "verse": 13,
+          "text": "Und er sandte seiner Jünger zwei und sprach zu ihnen: Gehet hin in die Stadt, und es wird euch ein Mensch begegnen, der trägt einen Krug mit Wasser; folget ihm nach,"
+        },
+        {
+          "chapter": 14,
+          "verse": 14,
+          "text": "[J]und wo er eingeht, da sprechet zu dem Hauswirt: Der Meister läßt dir sagen: Wo ist das Gasthaus, darin ich das Osterlamm esse mit meinen Jüngern?[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 15,
+          "text": "[J]Und er wird euch einen großen Saal zeigen, der mit Polstern versehen und bereit ist; daselbst richtet für uns zu.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 16,
+          "text": "Und die Jünger gingen aus und kamen in die Stadt und fanden's, wie er ihnen gesagt hatte, und bereiteten das Osterlamm."
+        },
+        {
+          "chapter": 14,
+          "verse": 17,
+          "text": "Am Abend aber kam er mit den Zwölfen."
+        },
+        {
+          "chapter": 14,
+          "verse": 18,
+          "text": "Und als sie zu Tische saßen und aßen, sprach Jesus: Wahrlich, ich sage euch: Einer unter euch, der mit mir isset, wird mich verraten."
+        },
+        {
+          "chapter": 14,
+          "verse": 19,
+          "text": "Und sie wurden traurig und sagten zu ihm, einer nach dem anderen: Bin ich's? und der andere: Bin ich's?"
+        },
+        {
+          "chapter": 14,
+          "verse": 20,
+          "text": "Er antwortete und sprach zu ihnen: Einer aus den Zwölfen, der mit mir in die Schüssel taucht."
+        },
+        {
+          "chapter": 14,
+          "verse": 21,
+          "text": "[J]Zwar des Menschen Sohn geht hin, wie von ihm geschrieben steht; weh aber dem Menschen, durch welchen des Menschen Sohn verraten wird. Es wäre demselben Menschen besser, daß er nie geboren wäre.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 22,
+          "text": "Und indem sie aßen, nahm Jesus das Brot, dankte und brach's und gab's ihnen und sprach: Nehmet, esset; das ist mein Leib."
+        },
+        {
+          "chapter": 14,
+          "verse": 23,
+          "text": "Und nahm den Kelch, dankte und gab ihnen den; und sie tranken alle daraus."
+        },
+        {
+          "chapter": 14,
+          "verse": 24,
+          "text": "Und er sprach zu ihnen: Das ist mein Blut des neuen Testamentes, das für viele vergossen wird."
+        },
+        {
+          "chapter": 14,
+          "verse": 25,
+          "text": "[J]Wahrlich, ich sage euch, daß ich hinfort nicht trinken werde vom Gewächs des Weinstocks bis auf den Tag, da ich's neu trinke in dem Reich Gottes.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 26,
+          "text": "Und da sie den Lobgesang gesprochen hatten, gingen sie hinaus an den Ölberg."
+        },
+        {
+          "chapter": 14,
+          "verse": 27,
+          "text": "Und Jesus sprach zu ihnen: Ihr werdet euch in dieser Nacht alle an mir ärgern; denn es steht geschrieben: “Ich werde den Hirten schlagen, und die Schafe werden sich zerstreuen.”"
+        },
+        {
+          "chapter": 14,
+          "verse": 28,
+          "text": "[J]Wenn ich aber auferstehe, will ich vor euch hingehen nach Galiläa.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 29,
+          "text": "Petrus aber sagte zu ihm: Und wenn sie sich alle ärgerten, so wollte doch ich mich nicht ärgern."
+        },
+        {
+          "chapter": 14,
+          "verse": 30,
+          "text": "[J]Und Jesus sprach zu ihm: Wahrlich, ich sage dir: Heute, in dieser Nacht, ehe denn der Hahn zweimal kräht, wirst du mich dreimal verleugnen.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 31,
+          "text": "Er aber redete noch weiter: Ja, wenn ich mit dir auch sterben müßte, wollte ich dich doch nicht verleugnen. Desgleichen sagten sie alle."
+        },
+        {
+          "chapter": 14,
+          "verse": 32,
+          "text": "Und sie kamen zu einem Hofe mit Namen Gethsemane. Und er sprach zu seinen Jüngern: Setzet euch hier, bis ich hingehe und bete."
+        },
+        {
+          "chapter": 14,
+          "verse": 33,
+          "text": "Und nahm Petrus und Jakobus und Johannes und fing an, zu zittern und zu zagen."
+        },
+        {
+          "chapter": 14,
+          "verse": 34,
+          "text": "Und sprach zu ihnen: Meine Seele ist betrübt bis an den Tod; bleibet hier und wachet!"
+        },
+        {
+          "chapter": 14,
+          "verse": 35,
+          "text": "Und ging ein wenig weiter, fiel auf die Erde und betete, daß, wenn es möglich wäre, die Stunde vorüberginge,"
+        },
+        {
+          "chapter": 14,
+          "verse": 36,
+          "text": "[J]und sprach: Abba, mein Vater, es ist dir alles möglich; überhebe mich dieses Kelchs; doch nicht, was ich will, sondern was du willst![/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 37,
+          "text": "Und kam und fand sie schlafend und sprach zu Petrus: Simon, schläfst du? Vermochtest du nicht eine Stunde zu wachen?"
+        },
+        {
+          "chapter": 14,
+          "verse": 38,
+          "text": "[J]Wachet und betet, daß ihr nicht in Versuchung fallet! Der Geist ist willig; aber das Fleisch ist schwach.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 39,
+          "text": "Und ging wieder hin und betete und sprach dieselben Worte."
+        },
+        {
+          "chapter": 14,
+          "verse": 40,
+          "text": "Und kam wieder und fand sie abermals schlafend; denn ihre Augen waren voll Schlafs, und sie wußten nicht, was sie ihm antworteten."
+        },
+        {
+          "chapter": 14,
+          "verse": 41,
+          "text": "Und er kam zum drittenmal und sprach zu ihnen: Ach, wollt ihr nun schlafen und ruhen? Es ist genug; die Stunde ist gekommen. Siehe, des Menschen Sohn wird überantwortet in der Sünder Hände."
+        },
+        {
+          "chapter": 14,
+          "verse": 42,
+          "text": "[J]Stehet auf, laßt uns gehen. Siehe, der mich verrät, ist nahe![/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 43,
+          "text": "Und alsbald, da er noch redete, kam herzu Judas, der Zwölf einer, und eine große Schar mit ihm, mit Schwertern und mit Stangen von den Hohenpriestern und Schriftgelehrten und Ältesten."
+        },
+        {
+          "chapter": 14,
+          "verse": 44,
+          "text": "Und der Verräter hatte ihnen ein Zeichen gegeben und gesagt: Welchen ich küssen werde, der ist's; den greifet und führet ihn sicher."
+        },
+        {
+          "chapter": 14,
+          "verse": 45,
+          "text": "Und da er kam, trat er alsbald zu ihm und sprach zu ihm: Rabbi, Rabbi! und küßte ihn."
+        },
+        {
+          "chapter": 14,
+          "verse": 46,
+          "text": "Die aber legten ihre Hände an ihn und griffen ihn."
+        },
+        {
+          "chapter": 14,
+          "verse": 47,
+          "text": "Einer aber von denen, die dabeistanden, zog sein Schwert aus und schlug des Hohenpriesters Knecht und hieb ihm ein Ohr ab."
+        },
+        {
+          "chapter": 14,
+          "verse": 48,
+          "text": "Und Jesus antwortete und sprach zu ihnen: Ihr seid ausgegangen wie zu einem Mörder mit Schwertern und Stangen, mich zu fangen."
+        },
+        {
+          "chapter": 14,
+          "verse": 49,
+          "text": "[J]Ich bin täglich bei euch im Tempel gewesen und habe gelehrt, und ihr habt mich nicht gegriffen, aber auf daß die Schrift erfüllt werde.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 50,
+          "text": "Und die Jünger verließen ihn alle und flohen."
+        },
+        {
+          "chapter": 14,
+          "verse": 51,
+          "text": "Und es war ein Jüngling, der folgte ihm nach, der war mit Leinwand bekleidet auf der bloßen Haut; und die Jünglinge griffen ihn."
+        },
+        {
+          "chapter": 14,
+          "verse": 52,
+          "text": "Er aber ließ die Leinwand fahren und floh bloß von ihnen."
+        },
+        {
+          "chapter": 14,
+          "verse": 53,
+          "text": "Und sie führten Jesus zu dem Hohenpriester, dahin zusammengekommen waren alle Hohenpriester und Ältesten und Schriftgelehrten."
+        },
+        {
+          "chapter": 14,
+          "verse": 54,
+          "text": "Petrus aber folgte ihm nach von ferne bis hinein in des Hohenpriesters Palast; und er war da und saß bei den Knechten und wärmte sich bei dem Licht."
+        },
+        {
+          "chapter": 14,
+          "verse": 55,
+          "text": "Aber die Hohenpriester und der ganze Rat suchten Zeugnis wider Jesum, auf daß sie ihn zum Tode brächten, und fanden nichts."
+        },
+        {
+          "chapter": 14,
+          "verse": 56,
+          "text": "Viele gaben falsch Zeugnis wider ihn; aber ihr Zeugnis stimmte nicht überein."
+        },
+        {
+          "chapter": 14,
+          "verse": 57,
+          "text": "Und etliche standen auf und gaben falsch Zeugnis wider ihn und sprachen:"
+        },
+        {
+          "chapter": 14,
+          "verse": 58,
+          "text": "Wir haben gehört, daß er sagte: Ich will den Tempel, der mit Händen gemacht ist, abbrechen und in drei Tagen einen anderen bauen, der nicht mit Händen gemacht sei."
+        },
+        {
+          "chapter": 14,
+          "verse": 59,
+          "text": "Aber ihr Zeugnis stimmte noch nicht überein."
+        },
+        {
+          "chapter": 14,
+          "verse": 60,
+          "text": "Und der Hohepriester stand auf, trat mitten unter sie und fragte Jesum und sprach: Antwortest du nichts zu dem, was diese wider dich zeugen?"
+        },
+        {
+          "chapter": 14,
+          "verse": 61,
+          "text": "Er aber schwieg still und antwortete nichts. Da fragte ihn der Hohepriester abermals und sprach zu ihm: Bist du Christus, der Sohn des Hochgelobten?"
+        },
+        {
+          "chapter": 14,
+          "verse": 62,
+          "text": "[J]Jesus aber sprach: Ich bin's; und ihr werdet sehen des Menschen Sohn sitzen zur rechten Hand der Kraft und kommen mit des Himmels Wolken.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 63,
+          "text": "Da zerriß der Hohepriester seinen Rock und sprach: Was bedürfen wir weiter Zeugen?"
+        },
+        {
+          "chapter": 14,
+          "verse": 64,
+          "text": "Ihr habt gehört die Gotteslästerung. Was dünkt euch? Sie aber verdammten ihn alle, daß er des Todes schuldig wäre."
+        },
+        {
+          "chapter": 14,
+          "verse": 65,
+          "text": "Da fingen an etliche, ihn zu verspeien und zu verdecken sein Angesicht und ihn mit Fäusten zu schlagen und zu ihm zu sagen: Weissage uns! Und die Knechte schlugen ihn ins Angesicht."
+        },
+        {
+          "chapter": 14,
+          "verse": 66,
+          "text": "Und Petrus war unten im Hof. Da kam eine von des Hohenpriesters Mägden;"
+        },
+        {
+          "chapter": 14,
+          "verse": 67,
+          "text": "und da sie sah Petrus sich wärmen, schaute sie ihn an und sprach: Und du warst auch mit Jesus von Nazareth."
+        },
+        {
+          "chapter": 14,
+          "verse": 68,
+          "text": "Er leugnete aber und sprach: Ich kenne ihn nicht, weiß auch nicht, was du sagst. Und er ging hinaus in den Vorhof; und der Hahn krähte."
+        },
+        {
+          "chapter": 14,
+          "verse": 69,
+          "text": "Und die Magd sah ihn und hob abermals an, zu sagen denen, die dabeistanden: Dieser ist deren einer."
+        },
+        {
+          "chapter": 14,
+          "verse": 70,
+          "text": "Und er leugnete abermals. Und nach einer kleinen Weile sprachen abermals zu Petrus, die dabeistanden: Wahrlich, du bist deren einer; denn du bist ein Galiläer, und deine Sprache lautet gleich also."
+        },
+        {
+          "chapter": 14,
+          "verse": 71,
+          "text": "Er aber fing an, sich zu verfluchen und zu schwören: Ich kenne den Menschen nicht, von dem ihr sagt."
+        },
+        {
+          "chapter": 14,
+          "verse": 72,
+          "text": "Und der Hahn krähte zum andernmal. Da gedachte Petrus an das Wort, das Jesus zu ihm sagte: Ehe der Hahn zweimal kräht, wirst du mich dreimal verleugnen. Und er hob an, zu weinen."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "lastVerse": 47,
+      "verseUnitCount": 47,
+      "verses": [
+        {
+          "chapter": 15,
+          "verse": 1,
+          "text": "Und bald am Morgen hielten die Hohenpriester einen Rat mit den Ältesten und Schriftgelehrten, dazu der ganze Rat, und banden Jesum und führten ihn hin und überantworteten ihn dem Pilatus."
+        },
+        {
+          "chapter": 15,
+          "verse": 2,
+          "text": "Und Pilatus fragte ihn: Bist du der König der Juden? Er antwortete aber und sprach zu ihm: Du sagst es."
+        },
+        {
+          "chapter": 15,
+          "verse": 3,
+          "text": "Und die Hohenpriester beschuldigten ihn hart."
+        },
+        {
+          "chapter": 15,
+          "verse": 4,
+          "text": "Pilatus aber fragte ihn abermals und sprach: Antwortest du nichts? Siehe, wie hart sie dich verklagen!"
+        },
+        {
+          "chapter": 15,
+          "verse": 5,
+          "text": "Jesus aber antwortete nichts mehr, also daß sich auch Pilatus verwunderte."
+        },
+        {
+          "chapter": 15,
+          "verse": 6,
+          "text": "Er pflegte aber ihnen auf das Osterfest einen Gefangenen loszugeben, welchen sie begehrten."
+        },
+        {
+          "chapter": 15,
+          "verse": 7,
+          "text": "Es war aber einer, genannt Barabbas, gefangen mit den Aufrührern, die im Aufruhr einen Mord begangen hatten."
+        },
+        {
+          "chapter": 15,
+          "verse": 8,
+          "text": "Und das Volk ging hinauf und bat, daß er täte, wie er pflegte."
+        },
+        {
+          "chapter": 15,
+          "verse": 9,
+          "text": "Pilatus aber antwortete ihnen: Wollt ihr, daß ich euch den König der Juden losgebe?"
+        },
+        {
+          "chapter": 15,
+          "verse": 10,
+          "text": "Denn er wußte, daß ihn die Hohenpriester aus Neid überantwortet hatten."
+        },
+        {
+          "chapter": 15,
+          "verse": 11,
+          "text": "Aber die Hohenpriester reizten das Volk, das er ihnen viel lieber den Barabbas losgäbe."
+        },
+        {
+          "chapter": 15,
+          "verse": 12,
+          "text": "Pilatus aber antwortete wiederum und sprach zu ihnen: Was wollt ihr denn, daß ich tue dem, den ihr beschuldigt, er sei der König der Juden?"
+        },
+        {
+          "chapter": 15,
+          "verse": 13,
+          "text": "Sie schrieen abermals: Kreuzige ihn!"
+        },
+        {
+          "chapter": 15,
+          "verse": 14,
+          "text": "Pilatus aber sprach zu ihnen: Was hat er Übles getan? Aber sie schrieen noch viel mehr: Kreuzige ihn!"
+        },
+        {
+          "chapter": 15,
+          "verse": 15,
+          "text": "Pilatus aber gedachte, dem Volk genugzutun, und gab ihnen Barabbas los, und geißelte Jesum und überantwortete ihn, daß er gekreuzigt würde."
+        },
+        {
+          "chapter": 15,
+          "verse": 16,
+          "text": "Die Kriegsknechte aber führten ihn hinein in das Richthaus und riefen zusammen die ganze Schar"
+        },
+        {
+          "chapter": 15,
+          "verse": 17,
+          "text": "und zogen ihm einen Purpur an und flochten eine dornene Krone und setzten sie ihm auf,"
+        },
+        {
+          "chapter": 15,
+          "verse": 18,
+          "text": "und fingen an, ihn zu grüßen: Gegrüßet seist du, der Juden König!"
+        },
+        {
+          "chapter": 15,
+          "verse": 19,
+          "text": "Und schlugen ihm das Haupt mit dem Rohr und verspeiten ihn und fielen auf die Kniee und beteten ihn an."
+        },
+        {
+          "chapter": 15,
+          "verse": 20,
+          "text": "Und da sie ihn verspottet hatten, zogen sie ihm den Purpur aus und zogen seine eigenen Kleider an und führten ihn aus, daß sie ihn kreuzigten."
+        },
+        {
+          "chapter": 15,
+          "verse": 21,
+          "text": "Und zwangen einen, mit Namen Simon von Kyrene, der vom Felde kam (der ein Vater war des Alexander und Rufus), daß er sein Kreuz trüge."
+        },
+        {
+          "chapter": 15,
+          "verse": 22,
+          "text": "Und sie brachten ihn an die Stätte Golgatha, das ist verdolmetscht: Schädelstätte."
+        },
+        {
+          "chapter": 15,
+          "verse": 23,
+          "text": "Und sie gaben ihm Myrrhe im Wein zu trinken; und er nahm's nicht zu sich."
+        },
+        {
+          "chapter": 15,
+          "verse": 24,
+          "text": "Und da sie ihn gekreuzigt hatten, teilten sie seine Kleider und warfen das Los darum, wer etwas bekäme."
+        },
+        {
+          "chapter": 15,
+          "verse": 25,
+          "text": "Und es war um die dritte Stunde, da sie ihn kreuzigten."
+        },
+        {
+          "chapter": 15,
+          "verse": 26,
+          "text": "Und es war oben über ihm geschrieben was man ihm schuld gab, nämlich: Der König der Juden."
+        },
+        {
+          "chapter": 15,
+          "verse": 27,
+          "text": "Und sie kreuzigten mit ihm zwei Mörder, einen zu seiner Rechten und einen zur Linken."
+        },
+        {
+          "chapter": 15,
+          "verse": 28,
+          "text": "Da ward die Schrift erfüllet, die da sagt: “Er ist unter die Übeltäter gerechnet.”"
+        },
+        {
+          "chapter": 15,
+          "verse": 29,
+          "text": "Und die vorübergingen, lästerten ihn und schüttelten ihre Häupter und sprachen: Pfui dich, wie fein zerbrichst du den Tempel und baust ihn in drei Tagen!"
+        },
+        {
+          "chapter": 15,
+          "verse": 30,
+          "text": "Hilf dir nun selber und steig herab vom Kreuz!"
+        },
+        {
+          "chapter": 15,
+          "verse": 31,
+          "text": "Desgleichen die Hohenpriester verspotteten ihn untereinander samt den Schriftgelehrten und sprachen: Er hat anderen geholfen, und kann sich selber nicht helfen."
+        },
+        {
+          "chapter": 15,
+          "verse": 32,
+          "text": "Ist er Christus und König in Israel, so steige er nun vom Kreuz, daß wir sehen und glauben. Und die mit ihm gekreuzigt waren, schmähten ihn auch."
+        },
+        {
+          "chapter": 15,
+          "verse": 33,
+          "text": "Und nach der sechsten Stunde ward eine Finsternis über das ganze Land bis um die neunte Stunde."
+        },
+        {
+          "chapter": 15,
+          "verse": 34,
+          "text": "Und um die neunte Stunde rief Jesus laut und sprach: “Eli, Eli lama asabthani? das ist verdolmetscht: Mein Gott, mein Gott, warum hast du mich verlassen?"
+        },
+        {
+          "chapter": 15,
+          "verse": 35,
+          "text": "Und etliche, die dabeistanden, da sie es hörten, sprachen sie: Siehe er ruft den Elia."
+        },
+        {
+          "chapter": 15,
+          "verse": 36,
+          "text": "Da lief einer und füllte einen Schwamm mit Essig und steckte ihn auf ein Rohr und tränkte ihn und sprach: Halt, laßt sehen, ob Elia komme und ihn herabnehme."
+        },
+        {
+          "chapter": 15,
+          "verse": 37,
+          "text": "Aber Jesus schrie laut und verschied."
+        },
+        {
+          "chapter": 15,
+          "verse": 38,
+          "text": "Und der Vorhang im Tempel zerriß in zwei Stücke von obenan bis untenaus."
+        },
+        {
+          "chapter": 15,
+          "verse": 39,
+          "text": "Der Hauptmann aber, der dabeistand ihm gegenüber und sah, daß er mit solchem Geschrei verschied, sprach: Wahrlich, dieser Mensch ist Gottes Sohn gewesen!"
+        },
+        {
+          "chapter": 15,
+          "verse": 40,
+          "text": "Und es waren auch Weiber da, die von ferne solches sahen; unter welchen war Maria Magdalena und Maria, Jakobus des Kleinen und des Joses Mutter, und Salome,"
+        },
+        {
+          "chapter": 15,
+          "verse": 41,
+          "text": "die ihm auch nachgefolgt waren, da er in Galiläa war, und gedient hatten, und viele andere, die mit ihm hinauf gen Jerusalem gegangen waren."
+        },
+        {
+          "chapter": 15,
+          "verse": 42,
+          "text": "Und am Abend, dieweil es der Rüsttag war, welcher ist der Vorsabbat,"
+        },
+        {
+          "chapter": 15,
+          "verse": 43,
+          "text": "kam Joseph von Arimathia, ein ehrbarer Ratsherr, welcher auch auf das Reich Gottes wartete. Der wagte es und ging hinein zu Pilatus und bat um den Leichnam Jesu."
+        },
+        {
+          "chapter": 15,
+          "verse": 44,
+          "text": "Pilatus aber verwunderte sich, daß er schon tot war, und rief den Hauptmann und fragte ihn, ob er schon lange gestorben wäre."
+        },
+        {
+          "chapter": 15,
+          "verse": 45,
+          "text": "Und als er's erkundet von dem Hauptmann, gab er Joseph den Leichnam."
+        },
+        {
+          "chapter": 15,
+          "verse": 46,
+          "text": "Und er kaufte eine Leinwand und nahm ihn ab und wickelte ihn in die Leinwand und legte ihn in ein Grab, das war in einen Felsen gehauen, und wälzte einen Stein vor des Grabes Tür."
+        },
+        {
+          "chapter": 15,
+          "verse": 47,
+          "text": "Aber Maria Magdalena und Maria, des Joses Mutter, schauten zu, wo er hingelegt ward."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "lastVerse": 20,
+      "verseUnitCount": 20,
+      "verses": [
+        {
+          "chapter": 16,
+          "verse": 1,
+          "text": "Und da der Sabbat vergangen war, kauften Maria Magdalena und Maria, des Jakobus Mutter, und Salome Spezerei, auf daß sie kämen und salbten ihn."
+        },
+        {
+          "chapter": 16,
+          "verse": 2,
+          "text": "Und sie kamen zum Grabe am ersten Tag der Woche sehr früh, da die Sonne aufging."
+        },
+        {
+          "chapter": 16,
+          "verse": 3,
+          "text": "Und sie sprachen untereinander: Wer wälzt uns den Stein von des Grabes Tür?"
+        },
+        {
+          "chapter": 16,
+          "verse": 4,
+          "text": "Und sie sahen dahin und wurden gewahr, daß der Stein abgewälzt war; denn er war sehr groß."
+        },
+        {
+          "chapter": 16,
+          "verse": 5,
+          "text": "Und sie gingen hinein in das Grab und sahen einen Jüngling zur rechten Hand sitzen, der hatte ein langes weißes Kleid an; und sie entsetzten sich."
+        },
+        {
+          "chapter": 16,
+          "verse": 6,
+          "text": "Er aber sprach zu ihnen: Entsetzt euch nicht! Ihr sucht Jesus von Nazareth, den Gekreuzigten; er ist nicht hier. Siehe da die Stätte, da sie ihn hinlegten!"
+        },
+        {
+          "chapter": 16,
+          "verse": 7,
+          "text": "Gehet aber hin und sagt's seinen Jüngern und Petrus, daß er vor euch hingehen wird nach Galiläa, da werdet ihr ihn sehen, wie er gesagt hat."
+        },
+        {
+          "chapter": 16,
+          "verse": 8,
+          "text": "Und sie gingen schnell heraus und flohen von dem Grabe; denn es war sie Zittern und Entsetzen angekommen. Und sie sagten niemand etwas, denn sie fürchteten sich."
+        },
+        {
+          "chapter": 16,
+          "verse": 9,
+          "text": "Jesus aber, da er auferstanden war früh am ersten Tag der Woche, erschien er am ersten der Maria Magdalena, von welcher er sieben Teufel ausgetrieben hatte."
+        },
+        {
+          "chapter": 16,
+          "verse": 10,
+          "text": "Und sie ging hin und verkündigte es denen, die mit ihm gewesen waren, die da Leid trugen und weinten."
+        },
+        {
+          "chapter": 16,
+          "verse": 11,
+          "text": "Und diese, da sie es hörten, daß er lebte und wäre ihr erschienen, glaubten sie nicht."
+        },
+        {
+          "chapter": 16,
+          "verse": 12,
+          "text": "Darnach, da zwei aus ihnen wandelten, offenbarte er sich unter einer anderen Gestalt, da sie aufs Feld gingen."
+        },
+        {
+          "chapter": 16,
+          "verse": 13,
+          "text": "Und die gingen auch hin und verkündigten das den anderen; denen glaubten sie auch nicht."
+        },
+        {
+          "chapter": 16,
+          "verse": 14,
+          "text": "Zuletzt, da die Elf zu Tische saßen, offenbarte er sich und schalt ihren Unglauben und ihres Herzens Härtigkeit, daß sie nicht geglaubt hatten denen, die ihn gesehen hatten auferstanden."
+        },
+        {
+          "chapter": 16,
+          "verse": 15,
+          "text": "Und er sprach zu ihnen: Gehet hin in alle Welt und prediget das Evangelium aller Kreatur."
+        },
+        {
+          "chapter": 16,
+          "verse": 16,
+          "text": "[J]Wer da glaubet und getauft wird, der wird selig werden; wer aber nicht glaubt, der wird verdammt werden.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 17,
+          "text": "[J]Die Zeichen aber, die da folgen werden denen, die da glauben, sind die: in meinem Namen werden sie Teufel austreiben, mit neuen Zungen reden.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 18,
+          "text": "[J]Schlangen vertreiben; und so sie etwas Tödliches trinken, wird's ihnen nicht schaden; auf die Kranken werden sie die Hände legen, so wird es besser mit ihnen werden.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 19,
+          "text": "Und der HERR, nachdem er mit ihnen geredet hatte, ward er aufgehoben gen Himmel und sitzt zur rechten Hand Gottes."
+        },
+        {
+          "chapter": 16,
+          "verse": 20,
+          "text": "Sie aber gingen aus und predigten an allen Orten; und der HERR wirkte mit ihnen und bekräftigte das Wort durch mitfolgende Zeichen."
+        }
+      ]
+    }
+  ]
+}

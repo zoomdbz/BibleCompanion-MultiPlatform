@@ -327,7 +327,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Новый русский перевод (NRT/NRP)</string>
-    <string name="edition_fallback">Текст KJV для этой книги недоступен; показано текущее английское издание.</string>
+    <string name="version_local_traditional">Синодальный перевод 1876</string>
+    <string name="edition_fallback">Выбранное издание недоступно для этой книги; показано встроенное издание по умолчанию.</string>
     <string name="bible_chronology">Библейская хронология</string>
     <string name="chronology_intro">Этот путеводитель следует времени, описанному в Писании, а не обычному порядку книг и не обязательно времени их написания. Некоторые книги охватывают несколько периодов или пересекаются, а ряд хронологических положений остается спорным. Нажмите на диапазон глав, чтобы прочитать его в приложении.</string>
     <string name="chronology_include_deuterocanon">Включить второканонические книги</string>

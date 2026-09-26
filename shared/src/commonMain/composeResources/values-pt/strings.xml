@@ -327,7 +327,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Nova Versão Transformadora (NVT)</string>
-    <string name="edition_fallback">O texto da KJV não está disponível para este livro; a edição atual em inglês será exibida.</string>
+    <string name="version_local_traditional">Almeida 1911</string>
+    <string name="edition_fallback">A edição selecionada não está disponível para este livro; será exibida a edição padrão do aplicativo.</string>
     <string name="bible_chronology">Cronologia bíblica</string>
     <string name="chronology_intro">Este guia segue o tempo descrito nas Escrituras, não a ordem habitual dos livros nem necessariamente a época em que cada livro foi escrito. Alguns livros abrangem ou se sobrepõem a mais de um período, e certas posições são debatidas. Toque em um intervalo de capítulos para lê-lo no app.</string>
     <string name="chronology_include_deuterocanon">Incluir livros deuterocanônicos</string>

@@ -326,7 +326,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Schlachter 2000 (SCH2000)</string>
-    <string name="edition_fallback">Für dieses Buch ist kein KJV-Text verfügbar; die aktuelle englische Ausgabe wird angezeigt.</string>
+    <string name="version_local_traditional">Lutherbibel 1912 (LUT1912)</string>
+    <string name="edition_fallback">Die ausgewählte Ausgabe ist für dieses Buch nicht verfügbar; die standardmäßige In-App-Ausgabe wird angezeigt.</string>
 
     <string name="bible_chronology">Bibelchronologie</string>
     <string name="chronology_intro">Dieser Leitfaden folgt der in der Heiligen Schrift beschriebenen Zeit, nicht der üblichen Reihenfolge der Bücher und auch nicht unbedingt ihrer Entstehungszeit. Einige Bücher erstrecken sich über mehrere Zeiträume oder überschneiden sich, und manche Einordnungen sind umstritten. Tippe auf einen Kapitelbereich, um ihn in der App zu lesen.</string>

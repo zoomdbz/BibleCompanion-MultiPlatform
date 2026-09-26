@@ -1,0 +1,652 @@
+{
+  "schemaVersion": 2,
+  "editionId": "rv1909",
+  "language": "es",
+  "collection": "old_testament",
+  "bookId": "song_of_songs",
+  "sourceBookCode": "SNG",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 17,
+      "verseUnitCount": 17,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "CANCIÓN de canciones, la cual es de Salomón."
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "¡Oh si él me besara con ósculos de su boca! porque mejores son tus amores que el vino."
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "Por el olor de tus suaves ungüentos, (ungüento derramado es tu nombre,) por eso las doncellas te amaron."
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "Llévame en pos de ti, correremos. Metióme el rey en sus cámaras: nos gozaremos y alegraremos en ti; acordarémonos de tus amores más que del vino: los rectos te aman."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Morena soy, oh hijas de Jerusalem, mas codiciable; como las cabañas de Cedar, como las tiendas de Salomón."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "No miréis en que soy morena, porque el sol me miró. Los hijos de mi madre se airaron contra mí, hiciéronme guarda de viñas; [ADD]y[/ADD] mi viña, que era mía, no guardé."
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "Hazme saber, ó tú á quien ama mi alma, dónde repastas, dónde haces tener majada al medio día: porque, ¿por qué había yo de estar como vagueando tras los rebaños de tus compañeros?"
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Si tú no lo sabes, oh hermosa entre las mujeres, sal, yéndote por las huellas del rebaño, y apacienta tus cabritas junto á las cabañas de los pastores."
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "A yegua de los carros de Faraón te he comparado, amiga mía."
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "Hermosas son tus mejillas entre los pendientes, tu cuello entre los collares."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Zarcillos de oro te haremos, con clavos de plata."
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "Mientras que el rey estaba en su reclinatorio, mi nardo dió su olor."
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "Mi amado es para mí un manojito de mirra, que reposa entre mis pechos."
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "Racimo de copher en las viñas de Engadi es para mí mi amado."
+        },
+        {
+          "chapter": 1,
+          "verse": 15,
+          "text": "He aquí que tú eres hermosa, amiga mía; he aquí que eres bella: tus ojos de paloma."
+        },
+        {
+          "chapter": 1,
+          "verse": 16,
+          "text": "He aquí que tú eres hermoso, amado mío, y suave: nuestro lecho también florido."
+        },
+        {
+          "chapter": 1,
+          "verse": 17,
+          "text": "Las vigas de nuestra casa son de cedro, [ADD]y[/ADD] de ciprés los artesonados."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lastVerse": 17,
+      "verseUnitCount": 17,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "YO soy la rosa de Sarón, y el lirio de los valles."
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "Como el lirio entre las espinas, así es mi amiga entre las doncellas."
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "Como el manzano entre los árboles silvestres, así es mi amado entre los mancebos: bajo la sombra del deseado me senté, y su fruto fué dulce á mi paladar."
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Llevóme á la cámara del vino, y su bandera sobre mí fué amor."
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Sustentadme con frascos, corroboradme con manzanas; porque estoy enferma de amor."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "Su izquierda [ADD]esté[/ADD] debajo de mi cabeza, y su derecha me abrace."
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Yo os conjuro, oh doncellas de Jerusalem, por las gamas y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera."
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "¡La voz de mi amado! He aquí él viene saltando sobre los montes, brincando sobre los collados."
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "Mi amado es semejante al gamo, ó al cabrito de los ciervos. Helo aquí, está tras nuestra pared, mirando por las ventanas, mostrándose por las rejas."
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "Mi amado habló, y me dijo: Levántate, oh amiga mía, hermosa mía, y vente."
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Porque he aquí ha pasado el invierno, hase mudado, la lluvia se fué;"
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "Hanse mostrado las flores en la tierra, el tiempo de la canción es venido, y en nuestro país se ha oído la voz de la tórtola;"
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "La higuera ha echado sus higos, y las vides en cierne dieron olor: levántate, oh amiga mía, hermosa mía, y vente."
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "Paloma mía, que estás en los agujeros de la peña, en lo escondido de escarpados parajes, muéstrame tu rostro, hazme oir tu voz; porque dulce es la voz tuya, y hermoso tu aspecto."
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "Cazadnos las zorras, las zorras pequeñas, que echan á perder las viñas; pues que nuestras viñas están en cierne."
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "Mi amado es mío, y yo suya; él apacienta entre lirios."
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Hasta que apunte el día, y huyan las sombras, tórnate, amado mío; sé semejante al gamo, ó al cabrito de los ciervos, sobre los montes de Bether."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lastVerse": 11,
+      "verseUnitCount": 11,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "POR las noches busqué en mi lecho al que ama mi alma: busquélo, y no lo hallé."
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "Levantaréme ahora, y rodearé por la ciudad; por las calles y por las plazas buscaré al que ama mi alma: busquélo, y no lo hallé."
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Halláronme los guardas que rondan la ciudad, [ADD]y díjeles[/ADD]: ¿Habéis visto al que ama mi alma?"
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "Pasando de ellos un poco, hallé luego al que mi alma ama: trabé de él, y no lo dejé, hasta que lo metí en casa de mi madre, y en la cámara de la que me engendró."
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Yo os conjuro, oh doncellas de Jerusalem, por las gamas y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera."
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "¿Quién es ésta que sube del desierto como columnita de humo, sahumada de mirra y de incienso, y de todos polvos aromáticos?"
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "He aquí es la litera de Salomón: sesenta valientes la rodean, de los fuertes de Israel."
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "Todos ellos tienen espadas, diestros en la guerra; cada uno su espada sobre su muslo, por los temores de la noche."
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "El rey Salomón se hizo una carroza de madera del Líbano."
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Sus columnas hizo de plata, su respaldo de oro, su cielo de grana, su interior enlosado de amor, por las doncellas de Jerusalem."
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "Salid, oh doncellas de Sión, y ved al rey Salomón con la corona con que le coronó su madre el día de su desposorio, y el día del gozo de su corazón."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lastVerse": 16,
+      "verseUnitCount": 16,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "HE aquí que tú eres hermosa, amiga mía; he aquí que tú eres hermosa; tus ojos entre tus guedejas [ADD]como[/ADD] de paloma; tus cabellos como manada de cabras, que se muestran desde el monte de Galaad."
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "Tus dientes, como manadas de trasquiladas [ADD]ovejas[/ADD], que suben del lavadero, todas con crías mellizas, y ninguna entre ellas estéril."
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "Tus labios, como un hilo de grana, y tu habla hermosa; tus sienes, como cachos de granada á la parte adentro de tus guedejas."
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "Tu cuello, como la torre de David, edificada para muestra; mil escudos están colgados de ella, todos escudos de valientes."
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "Tus dos pechos, como dos cabritos mellizos de gama, que son apacentados entre azucenas."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Hasta que apunte el día y huyan las sombras, iréme al monte de la mirra, y al collado del incienso."
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "Toda tú eres hermosa, amiga mía, y en ti no hay mancha."
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Conmigo del Líbano, oh esposa, conmigo ven del Líbano: mira desde la cumbre de Amana, desde la cumbre de Senir y de Hermón, desde las guaridas de los leones, desde los montes de los tigres."
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Prendiste mi corazón, hermana, esposa [ADD]mía[/ADD]; has preso mi corazón con uno de tus ojos, con una gargantilla de tu cuello."
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "¡Cuán hermosos son tus amores, hermana, esposa [ADD]mía[/ADD]! ¡cuánto mejores que el vino tus amores, y el olor de tus ungüentos que todas las especias aromáticas!"
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "[ADD]Como[/ADD] panal de miel destilan tus labios, oh esposa; miel y leche hay debajo de tu lengua; y el olor de tus vestidos como el olor del Líbano."
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "Huerto cerrado [ADD]eres[/ADD], mi hermana, esposa [ADD]mía[/ADD]; fuente cerrada, fuente sellada."
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Tus renuevos paraíso de granados, con frutos suaves, de cámphoras y nardos,"
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "Nardo y azafrán, caña aromática y canela, con todos los árboles de incienso; mirra y áloes, con todas las principales especias."
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Fuente de huertos, pozo de aguas vivas, que corren del Líbano."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "Levántate, Aquilón, y ven, Austro: sopla mi huerto, despréndanse sus aromas. Venga mi amado á su huerto, y coma de su dulce fruta."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lastVerse": 16,
+      "verseUnitCount": 16,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "YO vine á mi huerto, oh hermana, esposa [ADD]mía[/ADD]: cogido he mi mirra y mis aromas; he comido mi panal y mi miel, mi vino y mi leche he bebido. Comed, amigos; bebed, amados, y embriagaos."
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "Yo dormía, pero mi corazón velaba: la voz de mi amado que llamaba: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía; porque mi cabeza está llena de rocío, mis cabellos de las gotas de la noche."
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "Heme desnudado mi ropa; ¿cómo la tengo de vestir? He lavado mis pies; ¿cómo los tengo de ensuciar?"
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Mi amado metió su mano por el agujero, y mis entrañas se conmovieron dentro de mí."
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Yo me levanté para abrir á mi amado, y mis manos gotearon mirra, y mis dedos mirra que corría sobre las aldabas del candado."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Abrí yo á mi amado; mas mi amado se había ido, había ya pasado: y tras su hablar salió mi alma: busquélo, y no lo hallé; llamélo, y no me respondió."
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "Halláronme los guardas que rondan la ciudad: hiriéronme, llagáronme, quitáronme mi manto de encima los guardas de los muros."
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Yo os conjuro, oh doncellas de Jerusalem, si hallareis á mi amado, que le hagáis saber como de amor estoy enferma."
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "¿Qué es tu amado más que [ADD]otro[/ADD] amado, oh la más hermosa de todas las mujeres? ¿qué es tu amado más que [ADD]otro[/ADD] amado, que así nos conjuras?"
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Mi amado es blanco y rubio, señalado entre diez mil."
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Su cabeza, [ADD]como[/ADD] oro finísimo; sus cabellos crespos, negros como el cuervo."
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Sus ojos, como palomas junto á los arroyos de las aguas, que se lavan con leche, [ADD]y[/ADD] á la perfección colocados."
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Sus mejillas, como una era de especias aromáticas, [ADD]como[/ADD] fragantes flores: sus labios, [ADD]como[/ADD] lirios que destilan mirra que trasciende."
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Sus manos, [ADD]como[/ADD] anillos de oro engastados de jacintos: su vientre, [ADD]como[/ADD] claro marfil cubierto de zafiros."
+        },
+        {
+          "chapter": 5,
+          "verse": 15,
+          "text": "Sus piernas, [ADD]como[/ADD] columnas de mármol fundadas sobre basas de fino oro: su aspecto como el Líbano, escogido como los cedros."
+        },
+        {
+          "chapter": 5,
+          "verse": 16,
+          "text": "Su paladar, dulcísimo: y todo él codiciable. Tal es mi amado, tal es mi amigo, oh doncellas de Jerusalem."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lastVerse": 13,
+      "verseUnitCount": 13,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "¿DÓNDE se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿Adónde se apartó tu amado, y le buscaremos contigo?"
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "Mi amado descendió á su huerto, á las eras de los aromas, para apacentar en los huertos, y para coger los lirios."
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Yo soy de mi amado, y mi amado es mío: él apacienta entre los lirios."
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "Hermosa eres tú, oh amiga mía, como Tirsa; de desear, como Jerusalem; imponente como ejércitos en orden."
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "Aparta tus ojos de delante de mí, porque ellos me vencieron. Tu cabello es como manada de cabras, que se muestran en Galaad."
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "Tus dientes, como manada de ovejas que suben del lavadero, todas con crías mellizas, y estéril no hay entre ellas."
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "Como cachos de granada son tus sienes entre tus guedejas."
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "Sesenta son las reinas, y ochenta las concubinas, y las doncellas sin cuento:"
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "[ADD]Mas[/ADD] una es la paloma mía, la perfecta mía; única es á su madre, escogida á la que la engendró. Viéronla las doncellas, y llamáronla bienaventurada; las reinas y las concubinas, y la alabaron."
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "¿Quién es ésta que se muestra como el alba, hermosa como la luna, esclarecida como el sol, imponente como ejércitos en orden?"
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "Al huerto de los nogales descendí á ver los frutos del valle, [ADD]y[/ADD] para ver si brotaban las vides, si florecían los granados."
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "No lo supe: hame mi alma hecho [ADD]como[/ADD] los carros de Amminadab."
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "Tórnate, tórnate, oh Sulamita; tórnate, tórnate, y te miraremos. ¿Qué veréis en la Sulamita? Como la reunión de dos campamentos."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lastVerse": 13,
+      "verseUnitCount": 13,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "¡CUÁN hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente maestro."
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "Tu ombligo, [ADD]como[/ADD] una taza redonda, que no le falta bebida. Tu vientre, [ADD]como[/ADD] montón de trigo, cercado de lirios."
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "Tus dos pechos, como dos cabritos mellizos de gama."
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "Tu cuello, como torre de marfil; tus ojos, [ADD]como[/ADD] las pesqueras de Hesbón junto á la puerta de Batrabbim; tu nariz, como la torre del Líbano, que mira hacia Damasco."
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "Tu cabeza encima de ti, como el Carmelo; y el cabello de tu cabeza, como la púrpura del rey ligada en los corredores."
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "¡Qué hermosa eres, y cuán suave, oh amor deleitoso!"
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "¡Y tu estatura es semejante á la palma, y tus pechos á los racimos!"
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "Yo dije: Subiré á la palma, asiré sus ramos: y tus pechos serán ahora como racimos de vid, y el olor de tu boca como de manzanas;"
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "Y tu paladar como el buen vino, que se entra á mi amado suavemente, y hace hablar los labios de los viejos."
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "Yo soy de mi amado, y conmigo tiene su contentamiento."
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "Ven, oh amado mío, salgamos al campo, moremos en las aldeas."
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "Levantémonos de mañana á las viñas; veamos si brotan las vides, si se abre el cierne, si han florecido los granados; allí te daré mis amores."
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "Las mandrágoras han dado olor, y á nuestras puertas hay toda suerte de dulces frutas, nuevas y añejas, que para ti, oh amado mío, he guardado."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lastVerse": 14,
+      "verseUnitCount": 14,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "¡OH quién te me diese como hermano que mamó los pechos de mi madre; [ADD]de modo[/ADD] que te halle yo fuera, y te bese, y no me menosprecien!"
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "Yo te llevaría, te metiera en casa de mi madre: tú me enseñarías, y yo te hiciera beber vino adobado del mosto de mis granadas."
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "Su izquierda [ADD]esté[/ADD] debajo de mi cabeza, y su derecha me abrace."
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Conjúroos, oh doncellas de Jerusalem, que no despertéis, ni hagáis velar al amor, hasta que quiera."
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "¿Quién es ésta que sube del desierto, recostada sobre su amado? Debajo de un manzano te desperté: allí tuvo tu madre dolores, allí tuvo dolores la que te parió."
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Ponme como un sello sobre tu corazón, como una marca sobre tu brazo: porque fuerte es como la muerte el amor; duro como el sepulcro el celo: sus brasas, brasas de fuego, fuerte llama."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "Las muchas aguas no podrán apagar el amor, ni lo ahogarán los ríos. Si diese el hombre toda la hacienda de su casa por este amor, de cierto lo menospreciaran."
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "Tenemos una pequeña hermana, que no tiene pechos: ¿qué haremos á nuestra hermana cuando de ella se hablare?"
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "Si ella es muro, edificaremos sobre él un palacio de plata: y si fuere puerta, la guarneceremos con tablas de cedro."
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Yo soy muro, y mis pechos como torres, desde que fuí en sus ojos como la que halla paz."
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "Salomón tuvo una viña en Baal-hamón, la cual entregó á guardas, cada uno de los cuales debía traer mil [ADD]monedas[/ADD] de plata por su fruto."
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "Mi viña, que es mía, está delante de mí: las mil serán tuyas, oh Salomón, y doscientas, de los que guardan su fruto."
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "Oh tú la que moras en los huertos, los compañeros escuchan tu voz: házmela oir."
+        },
+        {
+          "chapter": 8,
+          "verse": 14,
+          "text": "Huye, amado mío; y sé semejante al gamo, ó al cervatillo, sobre las montañas de los aromas."
+        }
+      ]
+    }
+  ]
+}

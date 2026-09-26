@@ -327,7 +327,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">इंडियन रिवाइज्ड वर्जन 2019 (IRVHin)</string>
-    <string name="edition_fallback">इस पुस्तक के लिए KJV पाठ उपलब्ध नहीं है; वर्तमान अंग्रेज़ी संस्करण दिखाया जा रहा है।</string>
+    <string name="version_local_traditional">पारंपरिक इन-ऐप बाइबल संस्करण</string>
+    <string name="edition_fallback">चयनित संस्करण इस पुस्तक के लिए उपलब्ध नहीं है; ऐप में डिफ़ॉल्ट संस्करण दिखाया जा रहा है।</string>
     <string name="bible_chronology">बाइबल कालक्रम</string>
     <string name="chronology_intro">यह मार्गदर्शिका पवित्रशास्त्र में वर्णित समय का अनुसरण करती है, न कि पुस्तकों के सामान्य क्रम का और न ही आवश्यक रूप से उस समय का जब प्रत्येक पुस्तक लिखी गई थी। कुछ पुस्तकें एक से अधिक कालखंडों में फैली या परस्पर जुड़ी हैं, और कुछ स्थान-निर्धारण पर मतभेद है। किसी अध्याय-सीमा को ऐप में पढ़ने के लिए उस पर टैप करें।</string>
     <string name="chronology_include_deuterocanon">द्वितीयकानोनिक पुस्तकें शामिल करें</string>

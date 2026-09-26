@@ -327,7 +327,8 @@
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Nuova Riveduta 2006 (NR06)</string>
-    <string name="edition_fallback">Il testo KJV non è disponibile per questo libro; viene mostrata l'edizione inglese attuale.</string>
+    <string name="version_local_traditional">Diodati 1885</string>
+    <string name="edition_fallback">L'edizione selezionata non è disponibile per questo libro; viene mostrata l'edizione predefinita dell'app.</string>
     <string name="bible_chronology">Cronologia biblica</string>
     <string name="chronology_intro">Questa guida segue il tempo descritto nelle Scritture, non il consueto ordine dei libri né necessariamente l'epoca in cui ciascun libro fu scritto. Alcuni libri attraversano o si sovrappongono a più periodi, e alcune collocazioni sono dibattute. Tocca un intervallo di capitoli per leggerlo nell'app.</string>
     <string name="chronology_include_deuterocanon">Includi i libri deuterocanonici</string>

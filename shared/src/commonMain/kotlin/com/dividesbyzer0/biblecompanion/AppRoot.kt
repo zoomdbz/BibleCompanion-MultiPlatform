@@ -889,11 +889,14 @@ fun HomeScreen(
                   // get the semantic merge so related-passage discovery works.
                   val tooShort = q.trim().length < 3
                   isRefFlag = runCatching { StorySearch.isExplicitReference(q) }.getOrDefault(false)
-                  // The packaged semantic index was built for the existing BSB
-                  // corpus. KJV uses its freshly rebuilt lexical index; merging
-                  // BSB vectors would return mismatched snippets and rankings.
-                  val kjvSelected = BibleEditions.isKjv(prefs.appLanguage, prefs.internalBibleVersion)
-                  val skipSemantic = !prefs.aiSearch || tooShort || isRefFlag || kjvSelected
+                  // Packaged semantic indexes were built for each language's
+                  // default corpus. Alternate editions use their freshly rebuilt
+                  // lexical index; merging default-edition vectors would return
+                  // mismatched snippets and rankings.
+                  val alternateEditionSelected = BibleEditions.isAlternate(
+                    prefs.appLanguage, prefs.internalBibleVersion
+                  )
+                  val skipSemantic = !prefs.aiSearch || tooShort || isRefFlag || alternateEditionSelected
                   if (!skipSemantic) {
                     hadSemantic = true
                     // Idle gate: wait additional time after keyword shows.
@@ -1466,7 +1469,7 @@ private fun highlightSearchSnippet(
 
     append(cleaned)
 
-    // Layer 1: KJV translator-supplied words. Layer 2: Jesus words. Layer 3:
+    // Layer 1: translator-supplied words. Layer 2: Jesus words. Layer 3:
     // divine names, which must win if semantic spans overlap.
     for (r in addRanges) {
       addStyle(
@@ -1998,9 +2001,9 @@ fun BookScreen(
       }
       .toSet()
   }
-  // Saved verses use chapter/verse anchors when available. KJV and BSB can
-  // assign different bullet indexes when one edition includes a verse that the
-  // other places in a footnote, so bulletIndex alone is not a stable identity.
+  // Saved verses use chapter/verse anchors when available. Two editions can
+  // assign different bullet indexes when one includes a verse that the other
+  // places in a footnote, so bulletIndex alone is not a stable identity.
   val savedVerseRecords = remember(savedVerses, col, bookId, book, effectiveLanguage) {
     if (book == null) emptyMap()
     else mapSavedVersesToCurrentBook(book, savedVerses, col, bookId, effectiveLanguage)
@@ -2255,9 +2258,7 @@ fun BookScreen(
               }
             }
 
-            if (loadedBook?.coverage == EditionCoverage.FALLBACK &&
-              loadedBook.requestedEdition == BibleEditions.KJV_1769
-            ) {
+            if (loadedBook?.coverage == EditionCoverage.FALLBACK) {
               Surface(
                 color = MaterialTheme.colorScheme.surfaceVariant,
                 shape = RoundedCornerShape(12.dp),
@@ -4852,7 +4853,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
               BibleEditions.BSB -> stringResource(Res.string.version_bsb)
               BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
               defaultInternalEdition -> stringResource(Res.string.version_local_modern)
-              else -> id.uppercase() // A future edition still has a distinct label until localized.
+              else -> stringResource(Res.string.version_local_traditional)
             }
           }
           val selectedInternalLabel = internalChoices
