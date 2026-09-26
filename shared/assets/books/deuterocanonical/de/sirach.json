@@ -3,6 +3,52 @@
   "title": "Jesus Sirach (Ecclesiasticus)",
   "stories": [
     {
+      "id": "sirach-prologue",
+      "title": "📜 Prolog zu Jesus Sirach (Ecclesiasticus)",
+      "refs": [
+        "Sirach Prologue"
+      ],
+      "summaryBullets": [
+        "Prolog: Durch das Gesetz, die Propheten und die übrigen Schriften, die auf sie folgten, sind uns viele bedeutende Lehren überliefert worden. Dafür gebührt Israel Lob für seine Bildung und Weisheit. (Prolog).",
+        "Prolog: Wer die Schriften liest, soll nicht nur selbst kundig werden, sondern aus Liebe zum Lernen auch Außenstehenden mit Wort und Schrift helfen können. (Prolog).",
+        "Prolog: Mein Großvater Jesus widmete sich besonders dem Studium des Gesetzes, der Propheten und der übrigen Schriften unserer Vorfahren. Nachdem er sich darin gründliche Kenntnisse erworben hatte, fühlte er sich gedrängt, selbst etwas über Bildung und Weisheit zu schreiben. (Prolog).",
+        "Prolog: Wer das Lernen liebt, soll durch die Beschäftigung mit diesem Buch noch größere Fortschritte in einer Lebensführung nach dem Gesetz machen. (Prolog).",
+        "Prolog: Lest das Buch mit Wohlwollen und Aufmerksamkeit. Seht es uns nach, wenn wir trotz aller Sorgfalt bei der Übersetzung manche Wendung nicht vollkommen wiedergegeben haben. (Prolog).",
+        "Prolog: Was ursprünglich auf Hebräisch ausgedrückt wurde, hat in einer anderen Sprache nicht genau denselben Sinn. Das gilt nicht nur für dieses Buch: Auch das Gesetz, die Propheten und die übrigen Schriften unterscheiden sich merklich, wenn man sie in der Ursprache liest. (Prolog).",
+        "Prolog: Als ich im achtunddreißigsten Regierungsjahr des Euergetes nach Ägypten kam und eine Zeit lang dort blieb, fand ich reichlich Gelegenheit, mich weiterzubilden. (Prolog).",
+        "Prolog: Deshalb hielt ich es für dringend nötig, selbst Mühe und Sorgfalt auf die Übersetzung dieses Buches zu verwenden. Mit Wachsamkeit und Sachkenntnis brachte ich es in jener Zeit zum Abschluss und veröffentlichte es für Menschen im Ausland, die lernen und sich auf ein Leben nach dem Gesetz vorbereiten wollen. (Prolog)."
+      ],
+      "crossRefs": [
+        "Sprüche 1:1-7: Der erklärte Zweck einer Sammlung von Weisheitslehren.",
+        "Lukas 1:1-4: Ein Verfasser erklärt seinem Leser, warum und wie er sein Werk zusammengestellt hat.",
+        "Nehemia 8:8: Das Gesetz wurde so vorgelesen und erklärt, dass das Volk es verstand.",
+        "2 Timotheus 3:16: Die ganze Schrift ist nützlich zur Lehre und zur Unterweisung."
+      ],
+      "translationNotes": [
+        {
+          "term": "Das Gesetz, die Propheten und die übrigen Schriften",
+          "original": "Hebrew: תּוֹרָה נְבִיאִים כְּתוּבִים (Torah, Neviim, Ketuvim) - Greek: ὁ νόμος καὶ οἱ προφῆται καὶ τὰ ἄλλα (ho nomos kai hoi prophetai kai ta alla)",
+          "note": "Die Dreiteilung der hebräischen Schriften: die fünf Bücher Mose, die prophetischen Bücher und die übrigen Schriften."
+        },
+        {
+          "term": "Das achtunddreißigste Jahr des Euergetes",
+          "original": "Greek: ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει ἐπὶ τοῦ Εὐεργέτου βασιλέως (en to ogdoo kai triakosto etei epi tou Euergetou basileos)",
+          "note": "Die Jahre wurden von der Thronbesteigung eines Herrschers an gezählt. Euergetes bedeutet Wohltäter und war ein Titel griechischer Könige von Ägypten."
+        },
+        {
+          "term": "Menschen im Ausland",
+          "original": "Greek: ἐν τῇ παροικίᾳ (en te paroikia)",
+          "note": "Gemeint sind Juden, die außerhalb ihres Landes lebten, hier in Ägypten, und statt Hebräisch Griechisch sprachen und lasen. Das Wort bezeichnet den Aufenthalt als Fremder."
+        },
+        {
+          "term": "Manche Wendung nicht vollkommen wiedergegeben",
+          "original": "Greek: ἀδυναμεῖν (adynamein), literally to lack power",
+          "note": "Der Übersetzer räumt ein, dass eine hebräische Wendung in einer anderen Sprache an Ausdruckskraft verliert. Das ist eine Bemerkung zur Übersetzung, keine Aussage über den Inhalt."
+        }
+      ],
+      "keyTakeaway": "Der Übersetzer preist die Lehren Israels im Gesetz, in den Propheten und den übrigen Schriften. Er erklärt, dass sein Großvater Jesus nach langem Studium dieses Buch schrieb, und bittet um Nachsicht für unvollkommene Übersetzungen. Im achtunddreißigsten Jahr des Euergetes kam er nach Ägypten und übersetzte das Buch dort."
+    },
+    {
       "id": "sirach-1",
       "title": "📜 Jesus Sirach (Ecclesiasticus) 1",
       "refs": [
@@ -759,7 +805,7 @@
       ],
       "crossRefs": [
         "Sprüche 25:19: Einem Treulosen in der Not zu trauen ist wie ein schadhafter Zahn.",
-        "Psalmen 55:21: Seine Rede war glatt wie Butter, doch Krieg war in seinem Herzen.",
+        "Psalmen 55:22: Seine Rede war glatt wie Butter, doch Krieg war in seinem Herzen.",
         "Sprüche 26:24-26: Ein Feind verstellt sich mit seinen Lippen und birgt den Betrug in seinem Innern.",
         "Jeremia 9:8: Die Zunge redet Frieden mit dem Nächsten und legt zugleich einen Hinterhalt.",
         "2 Samuel 20:9-10: Joab fasst Amasa zum Gruß am Bart und schlägt ihn nieder."
@@ -1091,7 +1137,7 @@
         "Genesis 1:26-28: Gott schafft den Menschen als sein Abbild und gibt ihm die Herrschaft über die Geschöpfe.",
         "Genesis 2:7: Der Herr formt den Menschen aus dem Staub der Erde.",
         "Deuteronomium 32:8-9: Grenzen für die Völker festgesetzt; der Anteil des Herrn ist sein Volk.",
-        "Psalmen 6:5: Im Tod denkt niemand an dich, und aus dem Grab dankt dir keiner.",
+        "Psalmen 6:6: Im Tod denkt niemand an dich, und aus dem Grab dankt dir keiner.",
         "Ezechiel 18:21-23: Gott hat kein Gefallen am Tod des Frevlers, der umkehrt."
       ],
       "translationNotes": [
@@ -1776,7 +1822,7 @@
       ],
       "crossRefs": [
         "Sprüche 26:27: Wer eine Grube gräbt, fällt hinein, und ein Stein rollt auf den zurück, der ihn ins Rollen bringt.",
-        "Psalmen 7:15: Er hebt eine Grube aus und fällt in das Loch, das er gemacht hat.",
+        "Psalmen 7:16: Er hebt eine Grube aus und fällt in das Loch, das er gemacht hat.",
         "Deuteronomium 25:13-16: Führe nicht zweierlei Gewichte in deinem Beutel.",
         "Micha 6:11: Der Herr lässt falsche Waagen und einen Beutel mit falschen Gewichten nicht ungestraft.",
         "Matthäus 12:34: Wovon das Herz voll ist, davon spricht der Mund."
@@ -2314,7 +2360,7 @@
         "1 Samuel 15:22: Gehorchen ist besser als Opfer und Hinhören besser als das Fett von Widdern.",
         "Deuteronomium 16:16-17: Niemand soll mit leeren Händen vor dem Herrn erscheinen.",
         "Deuteronomium 10:17-18: Gott ist nicht parteiisch und nimmt kein Bestechungsgeld; er verschafft Waise und Witwe Recht.",
-        "Psalmen 68:5: Vater der Waisen und Beschützer der Witwen.",
+        "Psalmen 68:6: Vater der Waisen und Beschützer der Witwen.",
         "Hosea 6:6: Ich will Liebe und nicht Schlachtopfer."
       ],
       "translationNotes": [
@@ -2864,7 +2910,7 @@
       "keyTakeaway": "Ben Sira mustert den Himmel als das Werk des Schöpfers: die Sonne, die am Mittag versengt, den Mond, der die Feste festlegt, die Sterne, die ihre angewiesenen Wachen halten, den Regenbogen, Schnee, Frost, Hagel, Donner und das Meer mit seinen Ungeheuern. Er endet damit, dass niemand den Herrn genug preisen kann.",
       "crossRefs": [
         "Genesis 1:14-18: Lichter am Gewölbe, um Tag und Nacht zu scheiden und die Zeiten zu bestimmen.",
-        "Psalmen 19:1-6: Die Himmel rühmen die Herrlichkeit Gottes, und die Sonne läuft ihre Bahn.",
+        "Psalmen 19:2-7: Die Himmel rühmen die Herrlichkeit Gottes, und die Sonne läuft ihre Bahn.",
         "Genesis 9:13-16: Der Bogen in den Wolken als Zeichen des Bundes.",
         "Hiob 38:22-30: Die Kammern von Schnee und Hagel und die Wasser, die zu Stein werden.",
         "Psalmen 147:16-17: Er gibt Schnee wie Wolle und streut den Frost wie Asche."
@@ -3368,7 +3414,7 @@
         "Tut euer Werk vor der Zeit / und er wird euch den Lohn geben zu seiner Zeit! / Weisheit Jesu, des Sohnes Sirachs. (51:30)."
       ],
       "crossRefs": [
-        "Psalmen 18:4-6: Die Fesseln des Todes umfingen mich, und ich rief den Herrn an.",
+        "Psalmen 18:5-7: Die Fesseln des Todes umfingen mich, und ich rief den Herrn an.",
         "Psalmen 136:1: Dankt dem Herrn, denn er ist gütig, denn seine Huld währt ewig.",
         "Jesaja 55:1: Kommt, kauft Wein und Milch ohne Geld und ohne Kaufpreis.",
         "Sprüche 8:17: Ich liebe die, die mich lieben, und die mich eifrig suchen, finden mich.",

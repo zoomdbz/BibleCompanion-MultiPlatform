@@ -31,7 +31,7 @@
         "Genesis 25:13: Kedar wird als ein Sohn Ismaels genannt, Ahnherr des Wüstenstammes, dessen schwarze Zelte aus Ziegenhaar hier im Bild stehen.",
         "1 Samuel 24:1-3: David verbirgt sich vor Saul in den Höhlen bei den Steinbockfelsen in En-Gedi.",
         "1 Könige 10:26-29: Salomos Wagenpferde werden aus Ägypten eingeführt, ein Wagen kostet sechshundert Schekel Silber.",
-        "Psalmen 45:8: Alle deine Gewänder duften nach Myrrhe, Aloe und Kassia, aus Elfenbeinpalästen.",
+        "Psalmen 45:9: Alle deine Gewänder duften nach Myrrhe, Aloe und Kassia, aus Elfenbeinpalästen.",
         "1 Könige 5:6-9: Hirams sidonische Holzfäller schlagen Zedern und Zypressen im Libanon und flößen das Holz die Küste hinab zu Salomo."
       ],
       "translationNotes": [
@@ -80,15 +80,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Von der Schönheit der Liebe Du bist mein König Sie:"
+          "text": "Von der Schönheit der Liebe"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Du bist mein König\nSie:"
         },
         {
           "beforeVerse": 5,
-          "text": "Schaut nicht auf mich herab! Sie:"
+          "text": "Schaut nicht auf mich herab!\nSie:"
         },
         {
           "beforeVerse": 7,
-          "text": "Wo bist du? Sie:"
+          "text": "Wo bist du?\nSie:"
         },
         {
           "beforeVerse": 8,
@@ -96,7 +100,7 @@
         },
         {
           "beforeVerse": 9,
-          "text": "Du bist schön! Er:"
+          "text": "Du bist schön!\nEr:"
         },
         {
           "beforeVerse": 12,
@@ -190,7 +194,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Du bist einzigartig! Sie: Er:"
+          "text": "Du bist einzigartig!\nSie:"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Er:"
         },
         {
           "beforeVerse": 3,
@@ -198,11 +206,11 @@
         },
         {
           "beforeVerse": 4,
-          "text": "Ich bin krank vor Liebe Sie:"
+          "text": "Ich bin krank vor Liebe\nSie:"
         },
         {
           "beforeVerse": 8,
-          "text": "Die Regenzeit ist vorbei – der Frühling ist da! Sie:"
+          "text": "Die Regenzeit ist vorbei – der Frühling ist da!\nSie:"
         },
         {
           "beforeVerse": 15,
@@ -280,11 +288,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Nächtliche Sehnsucht Sie:"
+          "text": "Nächtliche Sehnsucht\nSie:"
         },
         {
           "beforeVerse": 6,
-          "text": "Der Hochzeitszug Die Zuschauer:"
+          "text": "Der Hochzeitszug\nDie Zuschauer:"
         }
       ]
     },
@@ -370,15 +378,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Wie schön du bist! Er:"
+          "text": "Wie schön du bist!\nEr:"
         },
         {
           "beforeVerse": 8,
-          "text": "Du hast mich verzaubert Er:"
+          "text": "Du hast mich verzaubert\nEr:"
         },
         {
           "beforeVerse": 12,
-          "text": "Ein Garten voll edler Pflanzen Er:"
+          "text": "Ein Garten voll edler Pflanzen\nEr:"
         },
         {
           "beforeVerse": 16,
@@ -458,11 +466,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Er: Suche in der Nacht Sie:"
+          "text": "Er:"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Suche in der Nacht\nSie:"
         },
         {
           "beforeVerse": 3,
-          "text": "Er: Sie:"
+          "text": "Sie:"
         },
         {
           "beforeVerse": 9,
@@ -478,7 +490,7 @@
       "id": "song-of-songs-6",
       "title": "🌙 Hoheslied 6",
       "refs": [
-        "Song of Songs 6:1-13"
+        "Song of Songs 6:1-12"
       ],
       "summaryBullets": [
         "Die Töchter fragen: \"Wohin ist dein Geliebter gegangen, du Schönste unter den Frauen? Wohin hat sich dein Geliebter gewandt, dass wir ihn mit dir suchen?\" (6:1).",
@@ -492,8 +504,7 @@
         "\"Meine Taube, meine Makellose, ist die Einzige, die Einzige ihrer Mutter, die Reine derer, die sie geboren hat. Die Mädchen sahen sie und priesen sie glücklich; Königinnen und Nebenfrauen lobten sie\" (6:9).",
         "\"Wer ist sie, die herabschaut wie die Morgenröte, schön wie der Mond, strahlend wie die Sonne, furchtgebietend wie Heerscharen mit Bannern?\" (6:10).",
         "\"Ich ging hinab in den Nussgarten, um die Knospen im Tal zu sehen, um zu sehen, ob der Weinstock ausgetrieben hat, ob die Granatäpfel blühen\" (6:11).",
-        "\"Ehe ich es mir versah, hatte mich mein Verlangen zu den Wagen meines edlen Volkes gebracht\" (6:12).",
-        "\"Kehre um, kehre um, Sulamitin, kehre um, kehre um, dass wir dich anschauen!\" \"Warum wollt ihr die Sulamitin anschauen wie den Reigen von Mahanajim?\" (6:13)."
+        "\"Ehe ich es mir versah, hatte mich mein Verlangen zu den Wagen meines edlen Volkes gebracht\" (6:12)."
       ],
       "crossRefs": [
         "Hoheslied 3:2-3: Die frühere Suche in der Stadt und die Begegnung mit den Wächtern.",
@@ -526,31 +537,25 @@
           "term": "Ammi-Nadib",
           "original": "Hebrew: מַרְכְּבוֹת עַמִּי־נָדִיב (markevoth ammi nadiv)",
           "note": "Der hebräische Text von 6,12 ist die schwierigste Zeile des Buches. Die Wörter sind Wagen, mein Volk und edel oder willig, und man kann sie als Eigennamen lesen, Ammi-Nadib, oder als die Wagen meines edlen Volkes. Die Ausgaben gehen auseinander, und die App lässt die Zeile so stehen, wie der Text sie hat, statt für den Leser zu entscheiden. Diese Übersetzung liest \"die Wagen meines edlen Volkes\"."
-        },
-        {
-          "term": "Die Sulamitin",
-          "original": "Hebrew: הַשּׁוּלַמִּית (ha-Shulammith)",
-          "note": "Der einzige Name oder Titel, den die Frau im ganzen Buch bekommt, und er erscheint zweimal, beide Male in 6,13. Er trägt den bestimmten Artikel, die Sulamitin, und so kennzeichnet man einen Menschen nach seiner Stadt; seine Konsonanten sind die von schalom, Friede, und die von Salomos eigenem Namen. Die Schrift gibt keine weitere Bestimmung."
-        },
-        {
-          "term": "Der Reigen von Mahanajim",
-          "original": "Hebrew: כִּמְחֹלַת הַמַּחֲנָיִם (ki-mecholath ha-machanayim)",
-          "note": "Machanajim bedeutet zwei Lager, und es ist eine wirkliche Stadt in Gilead östlich des Jordan. Jakob gab ihr den Namen, nachdem dort die Engel Gottes ihm begegnet waren (Genesis 32,2), sie war eine Levitenstadt (Josua 21,38), und David fand dort Zuflucht, als Abschalom ihn aus Jerusalem vertrieb (2 Samuel 17,24). 6,13 fragt also, warum sie sie anstarren wie den Reigen zweier Lager, und der Name lässt sich als Ort oder als Bild lesen."
         }
       ],
-      "keyTakeaway": "Auf die Frage, wohin ihr Geliebter gegangen ist, antwortet die Frau, dass er in seinen Garten hinabgegangen ist, um Lilien zu pflücken, und dass sie einander gehören; er preist sie, schön wie Tirza und lieblich wie Jerusalem, die Einzige unter sechzig Königinnen und achtzig Nebenfrauen, die hervorglänzt wie die Morgenröte, schön wie der Mond, und die Umstehenden rufen die Sulamitin, wiederzukehren, damit sie sie anschauen können.",
+      "keyTakeaway": "Auf die Frage, wohin ihr Geliebter gegangen ist, antwortet die Frau, dass er in seinen Garten hinabgegangen ist, um Lilien zu pflücken, und dass sie einander gehören; er preist sie, schön wie Tirza und lieblich wie Jerusalem, die Einzige unter sechzig Königinnen und achtzig Nebenfrauen, die hervorglänzt wie die Morgenröte, schön wie der Mond.",
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Mädchen: Sie:"
+          "text": "Die Mädchen:"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Sie:"
         },
         {
           "beforeVerse": 4,
-          "text": "Schöner als alle bist du! Er:"
+          "text": "Schöner als alle bist du!\nEr:"
         },
         {
           "beforeVerse": 11,
-          "text": "Sehnsucht Sie:"
+          "text": "Sehnsucht\nSie:"
         }
       ]
     },
@@ -558,84 +563,95 @@
       "id": "song-of-songs-7",
       "title": "🏵️ Hoheslied 7",
       "refs": [
-        "Song of Songs 7:1-13"
+        "Song of Songs 7:1-14"
       ],
       "summaryBullets": [
-        "\"Wie schön sind deine Füße in den Sandalen, du Fürstentochter! Die Rundung deiner Hüften ist wie Geschmeide, das Werk einer Meisterhand\" (7:1).",
-        "\"Dein Nabel ist ein gerundeter Becher, dem nimmer der Mischwein mangelt. Dein Leib ist ein Weizenhaufen, umkränzt mit Lilien\" (7:2).",
-        "\"Deine beiden Brüste sind wie zwei Kitzlein, Zwillinge einer Gazelle\" (7:3).",
-        "\"Dein Hals ist wie ein elfenbeinerner Turm. Deine Augen sind die Teiche zu Heschbon, am Tor von Bat-Rabbim. Deine Nase ist wie der Turm des Libanon, der gegen Damaskus blickt\" (7:4).",
-        "\"Dein Haupt auf dir ist wie der Karmel, und das Haar deines Hauptes wie Purpur; ein König ist gefangen in den Flechten\" (7:5).",
-        "\"Wie schön und wie lieblich bist du, Geliebte, voller Wonnen!\" (7:6).",
-        "\"Dein Wuchs gleicht einer Palme, und deine Brüste den Trauben\" (7:7).",
-        "\"Ich sprach: Ich will auf die Palme steigen und ihre Zweige ergreifen. Mögen deine Brüste sein wie Trauben des Weinstocks und der Duft deines Atems wie Äpfel\" (7:8).",
-        "\"Und dein Mund wie der beste Wein.\" Sie fügt hinzu: \"Der meinem Geliebten glatt eingeht, über die Lippen und Zähne gleitet\" (7:9).",
-        "Die Braut spricht: \"Ich bin meines Geliebten, und nach mir steht sein Verlangen\" (7:10).",
-        "\"Komm, mein Geliebter, lass uns aufs Feld hinausgehen und in den Dörfern übernachten\" (7:11).",
-        "\"Lass uns früh zu den Weinbergen gehen und sehen, ob der Weinstock austreibt, ob die Blüten sich öffnen und die Granatäpfel blühen. Dort will ich dir meine Liebe schenken\" (7:12).",
-        "\"Die Alraunen duften, und an unseren Türen sind allerlei edle Früchte, neue und alte, die ich dir aufgehoben habe, mein Geliebter\" (7:13)."
+        "\"Kehre um, kehre um, Sulamitin, kehre um, kehre um, dass wir dich anschauen!\" \"Warum wollt ihr die Sulamitin anschauen wie den Reigen von Mahanajim?\" (7:1).",
+        "\"Wie schön sind deine Füße in den Sandalen, du Fürstentochter! Die Rundung deiner Hüften ist wie Geschmeide, das Werk einer Meisterhand\" (7:2).",
+        "\"Dein Nabel ist ein gerundeter Becher, dem nimmer der Mischwein mangelt. Dein Leib ist ein Weizenhaufen, umkränzt mit Lilien\" (7:3).",
+        "\"Deine beiden Brüste sind wie zwei Kitzlein, Zwillinge einer Gazelle\" (7:4).",
+        "\"Dein Hals ist wie ein elfenbeinerner Turm. Deine Augen sind die Teiche zu Heschbon, am Tor von Bat-Rabbim. Deine Nase ist wie der Turm des Libanon, der gegen Damaskus blickt\" (7:5).",
+        "\"Dein Haupt auf dir ist wie der Karmel, und das Haar deines Hauptes wie Purpur; ein König ist gefangen in den Flechten\" (7:6).",
+        "\"Wie schön und wie lieblich bist du, Geliebte, voller Wonnen!\" (7:7).",
+        "\"Dein Wuchs gleicht einer Palme, und deine Brüste den Trauben\" (7:8).",
+        "\"Ich sprach: Ich will auf die Palme steigen und ihre Zweige ergreifen. Mögen deine Brüste sein wie Trauben des Weinstocks und der Duft deines Atems wie Äpfel\" (7:9).",
+        "\"Und dein Mund wie der beste Wein.\" Sie fügt hinzu: \"Der meinem Geliebten glatt eingeht, über die Lippen und Zähne gleitet\" (7:10).",
+        "Die Braut spricht: \"Ich bin meines Geliebten, und nach mir steht sein Verlangen\" (7:11).",
+        "\"Komm, mein Geliebter, lass uns aufs Feld hinausgehen und in den Dörfern übernachten\" (7:12).",
+        "\"Lass uns früh zu den Weinbergen gehen und sehen, ob der Weinstock austreibt, ob die Blüten sich öffnen und die Granatäpfel blühen. Dort will ich dir meine Liebe schenken\" (7:13).",
+        "\"Die Alraunen duften, und an unseren Türen sind allerlei edle Früchte, neue und alte, die ich dir aufgehoben habe, mein Geliebter\" (7:14)."
       ],
       "crossRefs": [
         "Numeri 21:25-26: Heschbon war die Königsstadt Sihons, des Königs der Amoriter, bevor Israel sie einnahm.",
         "Ezechiel 16:10: Ich kleidete dich in bunt gewirktes Tuch und gab dir Schuhe aus feinem Leder.",
         "Jeremia 46:18: Es kommt einer, der ist wie der Tabor unter den Bergen und wie der Karmel am Meer.",
-        "Psalmen 92:12: Der Gerechte gedeiht wie eine Palme und wächst wie eine Zeder auf dem Libanon.",
+        "Psalmen 92:13: Der Gerechte gedeiht wie eine Palme und wächst wie eine Zeder auf dem Libanon.",
         "Genesis 30:14-16: Ruben findet zur Weizenernte Alraunen auf dem Feld, und Rahel tauscht dafür eine Nacht mit Jakob ein."
       ],
       "translationNotes": [
         {
+          "term": "Die Sulamitin",
+          "original": "Hebrew: הַשּׁוּלַמִּית (ha-Shulammith)",
+          "note": "Der einzige Name oder Titel, den die Frau im ganzen Buch bekommt, und er erscheint zweimal, beide Male in 7,1. Er trägt den bestimmten Artikel, die Sulamitin, und so kennzeichnet man einen Menschen nach seiner Stadt; seine Konsonanten sind die von schalom, Friede, und die von Salomos eigenem Namen. Die Schrift gibt keine weitere Bestimmung."
+        },
+        {
+          "term": "Der Reigen von Mahanajim",
+          "original": "Hebrew: כִּמְחֹלַת הַמַּחֲנָיִם (ki-mecholath ha-machanayim)",
+          "note": "Machanajim bedeutet zwei Lager, und es ist eine wirkliche Stadt in Gilead östlich des Jordan. Jakob gab ihr den Namen, nachdem dort die Engel Gottes ihm begegnet waren (Genesis 32,2), sie war eine Levitenstadt (Josua 21,38), und David fand dort Zuflucht, als Abschalom ihn aus Jerusalem vertrieb (2 Samuel 17,24). 7,1 fragt also, warum sie sie anstarren wie den Reigen zweier Lager, und der Name lässt sich als Ort oder als Bild lesen."
+        },
+        {
           "term": "Heschbon und Bat-Rabbim",
           "original": "Hebrew: חֶשְׁבּוֹן (Cheshbon) - בַּת־רַבִּים (Bath rabbim)",
-          "note": "Heschbon lag auf der Hochebene östlich des Jordan und war die Königsstadt Sihons, des Königs der Amoriter, bis Israel sie einnahm (Numeri 21,25-26); später hielt Moab sie (Jesaja 15,4). Eine Stadt auf jener trockenen Tafel lebte von ausgehauenen Sammelbecken, und das sind die Teiche von 7,4. Bat-Rabbim kommt sonst nirgends in der Schrift vor, und der Vers bestimmt es als ein Tor von Heschbon."
+          "note": "Heschbon lag auf der Hochebene östlich des Jordan und war die Königsstadt Sihons, des Königs der Amoriter, bis Israel sie einnahm (Numeri 21,25-26); später hielt Moab sie (Jesaja 15,4). Eine Stadt auf jener trockenen Tafel lebte von ausgehauenen Sammelbecken, und das sind die Teiche von 7,5. Bat-Rabbim kommt sonst nirgends in der Schrift vor, und der Vers bestimmt es als ein Tor von Heschbon."
         },
         {
           "term": "Der Turm des Libanon, der gegen Damaskus blickt",
           "original": "Hebrew: כְּמִגְדַּל הַלְּבָנוֹן צוֹפֶה פְּנֵי דַמָּשֶׂק (ke-migdal ha-Levanon tsopheh pene Dammaseq)",
-          "note": "7,4 nennt einen Ausguck an der Nordgrenze, der die Straße nach Damaskus überwacht, der aramäischen Hauptstadt und der ständigen Bedrohung aus dem Norden während des größten Teils der Geschichte Israels. Ein migdal war ein steinerner Wachtturm, so gesetzt, dass man ein heranziehendes Heer sah, solange noch Zeit blieb, Nachricht zu senden. Der Vergleich gilt etwas, das gerade steht und nichts übersieht."
+          "note": "7,5 nennt einen Ausguck an der Nordgrenze, der die Straße nach Damaskus überwacht, der aramäischen Hauptstadt und der ständigen Bedrohung aus dem Norden während des größten Teils der Geschichte Israels. Ein migdal war ein steinerner Wachtturm, so gesetzt, dass man ein heranziehendes Heer sah, solange noch Zeit blieb, Nachricht zu senden. Der Vergleich gilt etwas, das gerade steht und nichts übersieht."
         },
         {
           "term": "Karmel",
           "original": "Hebrew: כַּרְמֶל (Karmel)",
-          "note": "Der Karmel ist der bewaldete Höhenzug, der von der Mittelmeerküste landeinwärts läuft und auf etwa 1.700 Fuß ansteigt, und er ist das Kap, das ein Schiff an jener Küste zuerst sieht. Elija trat dort den Propheten des Baal entgegen (1 Könige 18,19-20). Das Wort bedeutet auch Gartenland, darum krönt 7,5 ihr Haupt mit einem Berg, der sprichwörtlich grün ist, wenn alles andere verbrannt ist."
+          "note": "Der Karmel ist der bewaldete Höhenzug, der von der Mittelmeerküste landeinwärts läuft und auf etwa 1.700 Fuß ansteigt, und er ist das Kap, das ein Schiff an jener Küste zuerst sieht. Elija trat dort den Propheten des Baal entgegen (1 Könige 18,19-20). Das Wort bedeutet auch Gartenland, darum krönt 7,6 ihr Haupt mit einem Berg, der sprichwörtlich grün ist, wenn alles andere verbrannt ist."
         },
         {
           "term": "Die Palme und ihre Trauben",
           "original": "Hebrew: תָּמָר (tamar)",
-          "note": "Die Dattelpalme treibt einen kahlen Stamm von sechzig Fuß und mehr, und die Frucht sitzt nur in der Krone; darum steigt der Erntende mit einem Seil hinauf und schneidet die Büschel herab; ein guter Baum trägt in einer Saison weit über hundert Pfund Datteln. 7,7-8 nimmt das wörtlich, den Wuchs, das Hinaufsteigen und das Ergreifen der Zweige. Debora richtete unter einer Palme (Richter 4,5), und Jericho hieß die Palmenstadt."
+          "note": "Die Dattelpalme treibt einen kahlen Stamm von sechzig Fuß und mehr, und die Frucht sitzt nur in der Krone; darum steigt der Erntende mit einem Seil hinauf und schneidet die Büschel herab; ein guter Baum trägt in einer Saison weit über hundert Pfund Datteln. 7,8-9 nimmt das wörtlich, den Wuchs, das Hinaufsteigen und das Ergreifen der Zweige. Debora richtete unter einer Palme (Richter 4,5), und Jericho hieß die Palmenstadt."
         },
         {
           "term": "Verlangen",
           "original": "Hebrew: תְּשׁוּקָה (teshuqah)",
-          "note": "Dieses Hauptwort kommt im ganzen Alten Testament dreimal vor und nicht öfter: Genesis 3,16, wo es das der Frau nach ihrem Mann ist; Genesis 4,7, wo das der Sünde nach Kain geht; und 7,10, wo es seines nach ihr ist. Das Deutsche gebraucht dafür gewöhnliche Wörter wie Verlangen oder Sehnsucht, ein Leser kann also nicht sehen, dass das Lied ein Wort aufnimmt, das vorher nur zweimal gebraucht wurde, beide Male in Genesis."
+          "note": "Dieses Hauptwort kommt im ganzen Alten Testament dreimal vor und nicht öfter: Genesis 3,16, wo es das der Frau nach ihrem Mann ist; Genesis 4,7, wo das der Sünde nach Kain geht; und 7,11, wo es seines nach ihr ist. Das Deutsche gebraucht dafür gewöhnliche Wörter wie Verlangen oder Sehnsucht, ein Leser kann also nicht sehen, dass das Lied ein Wort aufnimmt, das vorher nur zweimal gebraucht wurde, beide Male in Genesis."
         },
         {
           "term": "Alraunen",
           "original": "Hebrew: דּוּדָאִים (duda'im)",
-          "note": "Die Alraune ist eine niedrige Mittelmeerpflanze mit dicker, gegabelter Wurzel und kleiner gelber Frucht, die um die Weizenernte reift und stark riecht. Ihr wurde seit Langem nachgesagt, sie helfe einer Frau zu empfangen, und darum geht es in Genesis 30,14-16, wo Rahel eine Nacht mit Jakob gegen die Alraunen tauscht, die Ruben gefunden hat. In 7,13 duften sie an der Tür."
+          "note": "Die Alraune ist eine niedrige Mittelmeerpflanze mit dicker, gegabelter Wurzel und kleiner gelber Frucht, die um die Weizenernte reift und stark riecht. Ihr wurde seit Langem nachgesagt, sie helfe einer Frau zu empfangen, und darum geht es in Genesis 30,14-16, wo Rahel eine Nacht mit Jakob gegen die Alraunen tauscht, die Ruben gefunden hat. In 7,14 duften sie an der Tür."
         },
         {
           "term": "Neues und Altes über der Tür",
           "original": "Hebrew: חֲדָשִׁים גַּם־יְשָׁנִים (chadashim gam yeshanim)",
-          "note": "Ein Haushalt lagerte die Frucht des Jahres auf Borden und in Krügen beim Eingang, wo die Ernte der letzten Saison neben der dieser Saison stand. 7,13 sagt, jede edle Frucht, neue und alte, sei dort für ihn aufgehoben. Das ist die Sprache einer vollen Vorratskammer, und so sah Sicherheit in einem Bauernjahr aus."
+          "note": "Ein Haushalt lagerte die Frucht des Jahres auf Borden und in Krügen beim Eingang, wo die Ernte der letzten Saison neben der dieser Saison stand. 7,14 sagt, jede edle Frucht, neue und alte, sei dort für ihn aufgehoben. Das ist die Sprache einer vollen Vorratskammer, und so sah Sicherheit in einem Bauernjahr aus."
         }
       ],
-      "keyTakeaway": "Der Liebende preist den Leib der Geliebten in ausführlichen Einzelheiten und vergleicht ihre Züge mit Wahrzeichen aus Natur und Baukunst; die Geliebte bekräftigt ihre Hingabe und lädt ihn aufs Land ein, wo sie ihm ihre Liebe schenken wird.",
+      "keyTakeaway": "Die Umstehenden rufen die Sulamitin, wiederzukehren, damit sie sie anschauen können; der Liebende preist den Leib der Geliebten in ausführlichen Einzelheiten und vergleicht ihre Züge mit Wahrzeichen aus Natur und Baukunst; die Geliebte bekräftigt ihre Hingabe und lädt ihn aufs Land ein, wo sie ihm ihre Liebe schenken wird.",
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Lass dich bewundern! Die Mädchen: Sie: Er:"
+          "text": "Lass dich bewundern!\nDie Mädchen:"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Er:"
         },
         {
           "beforeVerse": 7,
-          "text": "Du bist mein ganzes Glück Er:"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "Sie:"
+          "text": "Du bist mein ganzes Glück\nEr:"
         },
         {
           "beforeVerse": 12,
-          "text": "Ich will dir meine Liebe schenken Sie:"
+          "text": "Ich will dir meine Liebe schenken\nSie:"
         }
       ]
     },
@@ -714,19 +730,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Könnten wir doch ungestört sein! Sie:"
+          "text": "Könnten wir doch ungestört sein!\nSie:"
         },
         {
           "beforeVerse": 5,
-          "text": "Die Macht der Liebe Die Mädchen:"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Sie:"
+          "text": "Die Macht der Liebe\nDie Mädchen:"
         },
         {
           "beforeVerse": 8,
-          "text": "Leicht zu erobern? Die Brüder:"
+          "text": "Leicht zu erobern?\nDie Brüder:"
         },
         {
           "beforeVerse": 10,
@@ -734,11 +746,11 @@
         },
         {
           "beforeVerse": 11,
-          "text": "Reicher als Salomo Sie:"
+          "text": "Reicher als Salomo\nSie:"
         },
         {
           "beforeVerse": 13,
-          "text": "Rufe nur mich Er:"
+          "text": "Rufe nur mich\nEr:"
         },
         {
           "beforeVerse": 14,

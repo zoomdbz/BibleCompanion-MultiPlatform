@@ -696,7 +696,7 @@
         "Dans son abaissement, son droit a été enlevé ; et sa génération, qui la racontera ? Car sa vie est enlevée de la terre. (8:33).",
         "L'eunuque demanda à Philippe : Je te prie, de qui le prophète dit-il cela ? De lui-même ou de quelqu'un d'autre ? (8:34).",
         "Alors Philippe prit la parole et, commençant par cette Ecriture, il lui annonça la bonne nouvelle de Jésus. (8:35).",
-        "Comme ils continuaient leur chemin, ils arrivèrent à un point d'eau. L'eunuque dit : Voici de l'eau ; qu'est-ce qui m'empêche de recevoir le baptême ? [ (8:36).",
+        "Comme ils continuaient leur chemin, ils arrivèrent à un point d'eau. L'eunuque dit : Voici de l'eau ; qu'est-ce qui m'empêche de recevoir le baptême ? (8:36).",
         "Il ordonna d'arrêter le char ; tous deux descendirent dans l'eau, Philippe ainsi que l'eunuque, et il le baptisa. (8:38).",
         "Quand ils furent remontés de l'eau, l'Esprit du Seigneur enleva Philippe. L'eunuque ne le vit plus : il poursuivait son chemin, tout joyeux. (8:39).",
         "Quant à Philippe, il se retrouva à Azoth ; il annonçait la bonne nouvelle dans toutes les villes où il passait, jusqu'à son arrivée à Césarée. (8:40)."
@@ -706,16 +706,6 @@
         "Actes 1:8: Témoins à Jérusalem, en Judée, en Samarie et jusqu'aux extrémités de la terre.",
         "Actes 7:58: Des vêtements déposés aux pieds d'un jeune homme nommé Saul.",
         "Galates 1:13: Paul rappelle qu'il a persécuté l'Église."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "8:37",
-          "text": "Philippe dit : Si tu crois de tout ton cœur, cela est possible. Et (l'eunuque) répondit : Je crois que Jésus-Christ est le Fils de Dieu."
-        },
-        {
-          "ref": "Acts 8:37",
-          "text": "Certains manuscrits tardifs ajoutent ici un verset 37 : « Philippe dit : Si tu crois de tout ton cœur, cela est possible. Il répondit : Je crois que Jésus-Christ est le Fils de Dieu. » Il est absent du Sinaiticus, du Vaticanus, de l'Alexandrinus et des papyrus les plus anciens. Cet ajout reflète une ancienne formule de confession baptismale, vraisemblablement introduite par des copistes d'après la pratique ecclésiale du IIe siècle ; il ne fait pas partie du récit original de Luc."
-        }
       ],
       "translationNotes": [
         {
@@ -746,6 +736,12 @@
         {
           "beforeVerse": 26,
           "text": "Le diacre Philippe et l’eunuque éthiopien"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Acts 8:37",
+          "text": "Philippe dit: Si tu crois de tout ton coeur, cela est possible. L'eunuque répondit: Je crois que Jésus Christ est le Fils de Dieu."
         }
       ]
     },
@@ -1315,7 +1311,7 @@
         "Eux donc se retirèrent et descendirent à Antioche, où ils rassemblèrent la multitude et remirent la lettre. (15:30).",
         "Lecture en fut faite, et l'on se réjouit de cet encouragement. (15:31).",
         "Judas et Silas, qui étaient eux-mêmes prophètes, encouragèrent les frères et les affermirent par de nombreux discours. (15:32).",
-        "Au bout de quelque temps, les frères les renvoyèrent en paix vers ceux qui les avaient envoyés. [ (15:33).",
+        "Au bout de quelque temps, les frères les renvoyèrent en paix vers ceux qui les avaient envoyés. (15:33).",
         "Paul et Barnabé séjournèrent à Antioche, enseignant et annonçant, avec beaucoup d'autres, la bonne nouvelle de la parole du Seigneur. (15:35).",
         "Quelques jours après, Paul dit à Barnabé : Retournons visiter les frères dans toutes les villes où nous avons annoncé la parole du Seigneur, pour voir où ils en sont. (15:36).",
         "Barnabé était décidé à prendre aussi avec eux Jean, appelé Marc ; (15:37).",
@@ -1329,16 +1325,6 @@
         "Genèse 17:9-14: La circoncision donnée à Abraham et à sa descendance.",
         "Amos 9:11-12: Des nations appelées du nom de Dieu (cité par Jacques).",
         "Lévitique 17-18: Règles sur le sang, l'idolâtrie et l'immoralité sexuelle (arrière-plan)."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "15:34",
-          "text": "Toutefois, Silas trouva bon de rester de rester [auprès d'eux], et Judas seul s'en alla [à Jérusalem]"
-        },
-        {
-          "ref": "Acts 15:34",
-          "text": "Certains manuscrits tardifs ajoutent ici un verset 34 : « Mais il parut bon à Silas de rester là. » Il manque dans le Sinaiticus, le Vaticanus et l'Alexandrinus. Des copistes semblent l'avoir inséré pour harmoniser le récit avec le verset 40, où Paul choisit Silas pour compagnon ; un choix qui demandait explication si Silas était déjà rentré à Jérusalem au verset 33."
-        }
       ],
       "translationNotes": [
         {
@@ -1385,6 +1371,12 @@
         {
           "beforeVerse": 36,
           "text": "Nouveau voyage missionnaire de Paul, accompagné de Silas. Visite aux Églises d’Asie"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Acts 15:34",
+          "text": "Toutefois Silas trouva bon de rester."
         }
       ]
     },
@@ -1677,8 +1669,7 @@
         "En effet, ces hommes que vous avez amenés n'ont commis ni sacrilège ni blasphème envers notre déesse. (19:37).",
         "Si donc Démétrios et les artisans qui sont avec lui ont un grief contre quelqu'un, il y a des jours d'audience et des proconsuls : qu'ils portent plainte ! (19:38).",
         "Et si vous avez d'autres réclamations, cela se réglera dans l'assemblée légale. (19:39).",
-        "Nous risquons, en effet, d'être accusés de sédition pour ce qui s'est passé aujourd'hui, car il n'existe aucun motif qui nous permette de rendre compte de cet attroupement. Après avoir dit cela, il renvoya l'assemblée. (19:40).",
-        "Quand le secrétaire a fini de parler, il renvoie les gens chez eux. (19:41)."
+        "Nous risquons, en effet, d'être accusés de sédition pour ce qui s'est passé aujourd'hui, car il n'existe aucun motif qui nous permette de rendre compte de cet attroupement. Après avoir dit cela, il renvoya l'assemblée. (19:40)."
       ],
       "crossRefs": [
         "Luc 3:3: Le baptême de repentance de Jean (arrière-plan).",
@@ -2096,7 +2087,7 @@
         "très excellent Félix, nous les accueillons toujours et partout avec une entière gratitude. (24:3).",
         "Mais, pour ne pas t'importuner davantage, je te prie de nous écouter un moment dans ta bienveillance. (24:4).",
         "En effet, nous avons constaté que cet homme est une peste ; il provoque des disputes parmi tous les Juifs, sur toute la terre habitée ; c'est un dirigeant du parti des nazoréens. (24:5).",
-        "Il a même tenté de profaner le temple, et nous l'avons arrêté. [ (24:6).",
+        "Il a même tenté de profaner le temple, et nous l'avons arrêté. (24:6).",
         "Tu pourras toi-même l'interroger pour vérifier tout ce dont nous l'accusons. (24:8).",
         "Les Juifs l'approuvèrent, prétendant qu'il en était bien ainsi. (24:9).",
         "Après que le gouverneur lui eut fait signe de parler, Paul dit : Je sais que depuis bien des années tu es juge de cette nation ; c'est donc avec confiance que je présenterai ma défense. (24:10).",
@@ -2123,16 +2114,6 @@
         "Daniel 12:2: Résurrection de beaucoup qui dorment dans la poussière.",
         "Actes 9:2; Actes 19:9-23: « La Voie » comme désignation du mouvement.",
         "Actes 26:7-8: L'espérance en la promesse de Dieu et le thème de la résurrection."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "24:7",
-          "text": "mais le tribun Lysias étant survenu, l’a arraché de nos mains avec une grande violence,"
-        },
-        {
-          "ref": "Acts 24:7",
-          "text": "Certains manuscrits tardifs développent les versets 6 à 8 en ajoutant : « Mais le commandant Lysias survint et l'arracha de nos mains avec grande violence, en ordonnant à ses accusateurs de venir devant toi. » Ce texte est absent des manuscrits les plus anciens et les meilleurs. L'ajout paraît être une amplification de copiste tirant son détail du récit d'arrestation antérieur (Actes 21:33 ; 22:24-29)."
-        }
       ],
       "translationNotes": [
         {
@@ -2174,6 +2155,12 @@
         {
           "beforeVerse": 27,
           "text": "Paul détenu deux ans à Césarée. Comparution devant le gouverneur Festus, successeur de Félix. Appel à l’empereur romain"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Acts 24:7",
+          "text": "mais le tribun Lysias étant survenu, l'a arraché de nos mains avec une grande violence,"
         }
       ]
     },
@@ -2462,7 +2449,7 @@
         "Comme ils se retiraient, en désaccord les uns avec les autres, Paul n'ajouta que ceci : L'Esprit saint a bien parlé à vos pères, par l'entremise du prophète Esaïe, (28:25).",
         "quand il a dit : Va vers ce peuple, et dis : Vous aurez beau entendre, vous ne comprendrez jamais ; vous aurez beau regarder, vous ne verrez jamais ; (28:26).",
         "car le cœur de ce peuple s'est engourdi ; ils sont devenus durs d'oreille et ils ont fermé les yeux, de peur de voir avec leurs yeux, d'entendre avec leurs oreilles, de comprendre avec leur cœur et de faire demi-tour ; je les aurais guéris ! (28:27).",
-        "Sachez donc que ce salut de Dieu a été envoyé aux non-Juifs : eux, ils écouteront. [ (28:28).",
+        "Sachez donc que ce salut de Dieu a été envoyé aux non-Juifs : eux, ils écouteront. (28:28).",
         "Il demeura deux années entières au domicile qu'il avait loué. Il accueillait tous ceux qui venaient le voir ; (28:30).",
         "il proclamait le règne de Dieu et enseignait ce qui concerne le Seigneur Jésus-Christ avec une entière assurance, sans empêchement. (28:31)."
       ],
@@ -2472,16 +2459,6 @@
         "Actes 9:15: Paul choisi pour porter le nom devant les nations et les rois.",
         "Philippiens 1:12-14: L'emprisonnement qui fait avancer l'Évangile (écrit depuis la détention).",
         "2 Timothée 2:9: « La parole de Dieu n'est pas liée. »"
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "28:29",
-          "text": "Lorsqu'il eut dit cela, les Juifs s'en allèrent, en débattant vivement entre eux."
-        },
-        {
-          "ref": "Acts 28:29",
-          "text": "Certains manuscrits tardifs ajoutent ici un verset 29 : « Après qu'il eut dit cela, les Juifs partirent, discutant vivement entre eux. » Ce verset est absent du papyrus 74, des codex Sinaiticus, Alexandrinus, Vaticanus et Laudianus, ainsi que des plus anciennes versions syriaques et coptes. Il apparaît d'abord dans le texte occidental, puis passa de là dans les manuscrits byzantins, comblant l'intervalle entre la déclaration finale de Paul aux Juifs de Rome et les deux années d'assignation à résidence qui suivent."
-        }
       ],
       "translationNotes": [
         {
@@ -2524,6 +2501,12 @@
         {
           "beforeVerse": 1,
           "text": "Trois mois dans l’île de Malte. Arrivée à Rome. Captivité et prédication de Paul à Rome pendant deux ans"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Acts 28:29",
+          "text": "Lorsqu'il eut dit cela, les Juifs s'en allèrent, discutant vivement entre eux."
         }
       ]
     }

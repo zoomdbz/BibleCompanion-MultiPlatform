@@ -58,8 +58,8 @@ data class PrefsState(
   val theme: String = "System",
   val translation: String = "ESV",
   val readerMode: String = "internal",
-  // English-only bundled edition selector. Other languages have one custom
-  // in-app translation and deliberately hide the edition control.
+  // Bundled in-app edition selector. English currently offers BSB and KJV;
+  // each other language exposes and labels its one current source edition.
   val internalBibleVersion: String = "bsb",
   // Chronology owns this toggle so changing it does not unexpectedly alter
   // the app-wide Collections preference.
@@ -77,6 +77,8 @@ data class PrefsState(
   val lastReadBookId: String? = null,
   val lastReadBookTitle: String? = null,
   val lastReadStoryId: String? = null,
+  // Null marks a pre-native-numbering canonical story ID.
+  val lastReadSourceLanguage: String? = null,
   val onboardingComplete: Boolean = false,
   val studyPinned: Boolean = false,
   val themePreset: String = "parchment",
@@ -128,7 +130,8 @@ data class Bookmark(
   val snippet: String = "",
   val timestamp: Long,
   // 0 = not manually ordered (sorts to top by timestamp); positive = explicit user position.
-  val sortOrder: Int = 0
+  val sortOrder: Int = 0,
+  val sourceLanguage: String? = null
 )
 
 @Serializable
@@ -149,11 +152,13 @@ data class SavedVerse(
   val labels: List<String> = emptyList(),
   val timestamp: Long,
   // 0 = not manually ordered (sorts to top by timestamp); positive = explicit user position.
-  val sortOrder: Int = 0
+  val sortOrder: Int = 0,
+  val sourceLanguage: String? = null
 )
 
 internal fun SavedVerse.sameScriptureLocation(other: SavedVerse): Boolean {
   if (collection != other.collection || bookId != other.bookId) return false
+  if ((sourceLanguage ?: "en") != (other.sourceLanguage ?: "en")) return false
   val thisAnchor = stableAnchor()
   val otherAnchor = other.stableAnchor()
   return if (thisAnchor != null && otherAnchor != null) {

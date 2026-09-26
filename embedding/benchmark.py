@@ -20,6 +20,7 @@ from pathlib import Path
 import numpy as np
 
 from embedder import Embedder
+from native_versification import native_anchor_ids
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 MODEL_NAME = "intfloat/multilingual-e5-small"
@@ -2100,6 +2101,19 @@ QUERY_SUITE_ZH_HANT = [
     ('保羅坐船遇難在海上漂流', ['acts'], ['acts-27'], "Acts 27 Paul's shipwreck", ["acts-28"]),
 ]
 
+def russian_native_expectations(query: tuple) -> tuple:
+    """Score Russian Psalm hits against the NRT chapter that holds the text."""
+    text, books, stories, description = query[:4]
+    accepted = [target for story in stories for target in native_anchor_ids(story, "ru")]
+    if len(query) > 4:
+        alternatives = [target for story in query[4] for target in native_anchor_ids(story, "ru")]
+        return text, books, accepted, description, alternatives
+    return text, books, accepted, description
+
+
+QUERY_SUITE_RU = [russian_native_expectations(query) for query in QUERY_SUITE_RU]
+
+
 NATIVE_QUERY_SUITES = {
     "es": QUERY_SUITE_ES,
     "de": QUERY_SUITE_DE,
@@ -2227,6 +2241,8 @@ def search_story_collapsed(query_vec, corpus_vecs, metadata, texts, query_text, 
     for idx, dense_score in raw_hits:
         m = metadata[idx]
         sid = m["s"]
+        if not sid or (lang == "ru" and m.get("b") == "psalms" and m.get("n") != 1):
+            continue
         type_boost = TYPE_BOOSTS.get(m["t"], 0.0)
         lex_boost = 0.0
         if texts and idx < len(texts):

@@ -730,16 +730,6 @@
         "Hechos 7:58: Las ropas puestas a los pies de un joven llamado Saulo.",
         "Gálatas 1:13: Pablo recuerda haber perseguido a la iglesia."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "8:37",
-          "text": "―Si cree usted de todo corazón, bien puede,le dijo Felipe. / ―Creo que Jesucristo es el Hijo de Dios,contestó el hombre."
-        },
-        {
-          "ref": "Acts 8:37",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 37: \"Y Felipe dijo: 'Si crees de todo corazón, bien puedes'. Y él respondió: 'Creo que Jesucristo es el Hijo de Dios'\". Falta en el Sinaítico, el Vaticano, el Alejandrino y los papiros más antiguos. La añadidura refleja una fórmula bautismal de confesión temprana, añadida probablemente por los copistas a partir de la práctica eclesial del siglo II; no forma parte del relato original de Lucas."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Destruir / asolar",
@@ -769,6 +759,12 @@
         {
           "beforeVerse": 26,
           "text": "Felipe y el etíope"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Acts 8:37",
+          "text": "Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios."
         }
       ]
     },
@@ -1373,16 +1369,6 @@
         "Amós 9:11-12: Naciones llamadas por el nombre de Dios (citado por Jacobo).",
         "Levítico 17-18: Normas sobre la sangre y sobre la idolatría y la inmoralidad sexual (trasfondo)."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "15:34",
-          "text": "enviado, pero Silas decidió quedarse."
-        },
-        {
-          "ref": "Acts 15:34",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 34: \"Pero a Silas le pareció bien quedarse allí\". Falta en el Sinaítico, el Vaticano y el Alejandrino. Al parecer los copistas lo insertaron para armonizar el relato con el v. 40, donde Pablo escoge a Silas como compañero; una elección que necesitaba explicación si Silas ya había vuelto a Jerusalén en el v. 33."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Circuncisión",
@@ -1428,6 +1414,12 @@
         {
           "beforeVerse": 36,
           "text": "Pablo se separa de Bernabé, y comienza su segundo viaje misionero"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Acts 15:34",
+          "text": "Mas a Silas le pareció bien el quedarse allí."
         }
       ]
     },
@@ -2164,7 +2156,7 @@
         "Pero, a fin de no importunarlo más, le ruego que, con la bondad que lo caracteriza, nos escuche brevemente. (24:4).",
         "Hemos descubierto que este hombre es una plaga que por todas partes anda provocando disturbios entre los judíos. Es jefe de la secta de los nazarenos. (24:5).",
         "Incluso trató de profanar el templo; por eso lo prendimos. (24:6).",
-        "Usted mismo, al interrogarlo, podrá cerciorarse de la verdad de todas las acusaciones contra él. (24:8).",
+        "Ordenó que sus acusadores comparecieran ante usted. Usted mismo, al interrogarlo, podrá cerciorarse de la verdad de todas las acusaciones contra él. (24:8).",
         "Los judíos corroboraron la acusación al afirmar que todo esto era cierto. (24:9).",
         "Cuando el gobernador le concedió la palabra con un gesto, Pablo respondió: ―Sé que desde hace muchos años usted ha sido juez de esta nación; así que de buena gana presento mi defensa. (24:10).",
         "Usted puede comprobar fácilmente que no hace más de doce días que subí a Jerusalén para adorar. (24:11).",
@@ -2190,16 +2182,6 @@
         "Daniel 12:2: Resurrección de muchos de los que duermen en el polvo.",
         "Hechos 9:2; Hechos 19:9-23: \"El Camino\" como designación del movimiento.",
         "Hechos 26:7-8: Esperanza en la promesa de Dios y tema de la resurrección."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "24:7",
-          "text": "prendimos y quisimos juzgarlo según nuestra Ley. Pero el comandante Lisias intervino, y con mucha fuerza lo arrebató de nuestras manos y mandó que sus acusadores se presentaran ante usted."
-        },
-        {
-          "ref": "Acts 24:7",
-          "text": "Algunos manuscritos posteriores amplían los versículos 6-8 para añadir: \"Pero vino el comandante Lisias y con gran violencia lo quitó de nuestras manos, ordenando a sus acusadores comparecer ante ti\". Falta en los manuscritos más antiguos y mejores. La añadidura parece una expansión de copista que toma detalles del relato anterior del arresto (Hechos 21:33; 22:24-29)."
-        }
       ],
       "translationNotes": [
         {
@@ -2237,6 +2219,12 @@
         {
           "beforeVerse": 1,
           "text": "Defensa de Pablo ante Félix"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Acts 24:7",
+          "text": "Pero interviniendo el tribuno Lisias, con gran violencia le quitó de nuestras manos,"
         }
       ]
     },
@@ -2564,16 +2552,6 @@
         "Filipenses 1:12-14: La prisión que hace avanzar el evangelio (escrito desde la custodia).",
         "2 Timoteo 2:9: \"La palabra de Dios no está presa\"."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "28:29",
-          "text": "Después que él dijo esto, los judíos se fueron, discutiendo acaloradamente entre ellos."
-        },
-        {
-          "ref": "Acts 28:29",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 29: \"Y habiendo dicho esto, los judíos se fueron, teniendo gran discusión entre sí\". Falta en el Papiro 74, el Códice Sinaítico, el Alejandrino, el Vaticano y el Laudiano, y en las versiones siríaca y copta más antiguas. Aparece primero en el texto occidental y de ahí pasó a los manuscritos bizantinos, llenando el hueco entre la declaración final de Pablo a los judíos de Roma y los dos años de arresto domiciliario que siguen."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Malta",
@@ -2623,6 +2601,12 @@
         {
           "beforeVerse": 17,
           "text": "Pablo predica en Roma"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Acts 28:29",
+          "text": "Y cuando hubo dicho esto, los judíos se fueron, teniendo gran discusión entre sí."
         }
       ]
     }

@@ -38,6 +38,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val LAST_READ_BOOK_ID = stringPreferencesKey("last_read_book_id")
         val LAST_READ_BOOK_TITLE = stringPreferencesKey("last_read_book_title")
         val LAST_READ_STORY_ID = stringPreferencesKey("last_read_story_id")
+        val LAST_READ_SOURCE_LANGUAGE = stringPreferencesKey("last_read_source_language")
         val ONBOARDING_COMPLETE = booleanPreferencesKey("onboarding_complete")
         val STUDY_PINNED = booleanPreferencesKey("study_pinned")
         val THEME_PRESET = stringPreferencesKey("theme_preset")
@@ -91,6 +92,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             lastReadBookId = p[Keys.LAST_READ_BOOK_ID],
             lastReadBookTitle = p[Keys.LAST_READ_BOOK_TITLE],
             lastReadStoryId = p[Keys.LAST_READ_STORY_ID],
+            lastReadSourceLanguage = p[Keys.LAST_READ_SOURCE_LANGUAGE],
             onboardingComplete = p[Keys.ONBOARDING_COMPLETE] ?: false,
             studyPinned = p[Keys.STUDY_PINNED] ?: false,
             themePreset = p[Keys.THEME_PRESET] ?: "parchment",
@@ -152,13 +154,15 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
     actual suspend fun setTextSizeScale(scale: Float) =
         context.dataStore.edit { it[Keys.TEXT_SIZE_SCALE] = scale }.let { Unit }
 
-    actual suspend fun setLastRead(collection: String, bookId: String, bookTitle: String, storyId: String?) =
+    actual suspend fun setLastRead(collection: String, bookId: String, bookTitle: String, storyId: String?, sourceLanguage: String?) =
         context.dataStore.edit {
             it[Keys.LAST_READ_COLLECTION] = collection
             it[Keys.LAST_READ_BOOK_ID] = bookId
             it[Keys.LAST_READ_BOOK_TITLE] = bookTitle
             if (storyId != null) it[Keys.LAST_READ_STORY_ID] = storyId
             else it.remove(Keys.LAST_READ_STORY_ID)
+            if (sourceLanguage != null) it[Keys.LAST_READ_SOURCE_LANGUAGE] = sourceLanguage
+            else it.remove(Keys.LAST_READ_SOURCE_LANGUAGE)
         }.let { Unit }
 
     actual suspend fun setOnboardingComplete(complete: Boolean) =
@@ -228,19 +232,21 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
                 runCatching { json.decodeFromString<List<Bookmark>>(it) }.getOrDefault(emptyList())
             } ?: emptyList()
             val filtered = list.filter {
-                !(it.collection == bookmark.collection && it.bookId == bookmark.bookId && it.storyId == bookmark.storyId)
+                !(it.collection == bookmark.collection && it.bookId == bookmark.bookId && it.storyId == bookmark.storyId &&
+                    (it.sourceLanguage ?: "en") == (bookmark.sourceLanguage ?: "en"))
             }
             p[Keys.BOOKMARKS_JSON] = json.encodeToString(filtered + bookmark)
         }
     }
 
-    actual suspend fun removeBookmark(collection: String, bookId: String, storyId: String) {
+    actual suspend fun removeBookmark(collection: String, bookId: String, storyId: String, sourceLanguage: String?) {
         context.dataStore.edit { p ->
             val list = p[Keys.BOOKMARKS_JSON]?.let {
                 runCatching { json.decodeFromString<List<Bookmark>>(it) }.getOrDefault(emptyList())
             } ?: emptyList()
             p[Keys.BOOKMARKS_JSON] = json.encodeToString(
-                list.filter { !(it.collection == collection && it.bookId == bookId && it.storyId == storyId) }
+                list.filter { !(it.collection == collection && it.bookId == bookId && it.storyId == storyId &&
+                    (it.sourceLanguage ?: "en") == (sourceLanguage ?: "en")) }
             )
         }
     }

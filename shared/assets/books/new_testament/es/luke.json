@@ -1954,16 +1954,6 @@
         "Marcos 4:31: La imagen del grano de mostaza en otro lugar.",
         "Levítico 19:17-18: Reprender y no guardar rencor."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "17:36",
-          "text": "Estarán dos hombres en el campo: uno será llevado y el otro será dejado"
-        },
-        {
-          "ref": "Luke 17:36",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 36: «Dos hombres estarán en el campo; uno será llevado y el otro dejado.» Falta en el Códice Sinaítico, en el Vaticano y en los manuscritos griegos más antiguos. La misma frase está en Mateo 24:40, y donde aparece aquí le da a Lucas un tercer ejemplo a juego, después de la cama (v. 34) y del molino (v. 35)."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Tropezar / piedra de tropiezo",
@@ -2011,6 +2001,12 @@
         {
           "beforeVerse": 20,
           "text": "La venida del Reino"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Luke 17:36",
+          "text": "Dos estarán en el campo; el uno será tomado, y el otro dejado."
         }
       ]
     },
@@ -2670,16 +2666,6 @@
         "Salmos 2:1-2: Los gobernantes se juntan contra el ungido del Señor (tema).",
         "Mateo 27:1-26; Marcos 15:1-15; Juan 18:28-40: Paralelos."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "23:17",
-          "text": "Ahora bien, durante la fiesta tenía la obligación de soltarles un preso"
-        },
-        {
-          "ref": "Luke 23:17",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 17: «Porque le era necesario soltarles un preso en la fiesta.» Falta en el Códice Sinaítico, en el Vaticano y en el Alejandrino. Es probable que un copista antiguo lo insertara para explicar a los lectores por qué la multitud del v. 18 exigía la liberación de un preso; la explicación aparece con más naturalidad en los paralelos de Mateo 27:15 y Marcos 15:6."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Rey de los judíos",
@@ -2752,6 +2738,12 @@
         {
           "beforeVerse": 50,
           "text": "Jesús es sepultado"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Luke 23:17",
+          "text": "Y tenía necesidad de soltarles uno en cada fiesta."
         }
       ]
     },

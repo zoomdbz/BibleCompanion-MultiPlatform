@@ -321,11 +321,12 @@
     <string name="intro_section_header">書の序文</string>
     <string name="tts_read_intros">TTSで序文を読む</string>
     <string name="external_bible_version">外部用の聖書訳</string>
-    <string name="external_bible_version_desc">YouVersion/Bible.com または Bible Gateway で開く参照だけを変更します。Bible Companion 内の本文は変更しません。</string>
+    <string name="external_bible_version_desc">外部参照に使う聖書訳を選びます。YouVersion聖書アプリがインストールされていれば、Bible.comのリンクはそのアプリで開きます。インストールされていなければ、ブラウザーでBible.comを開きます。Bible Companion内の本文は変わりません。</string>
     <string name="in_app_bible_version">アプリ内の聖書訳</string>
-    <string name="in_app_bible_version_desc">Bible Companion 内で読む英語の聖書本文を変更します。</string>
+    <string name="in_app_bible_version_desc">Bible Companion内で読む聖書訳を示します。外部リンクに使用する聖書訳とは別です。</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">リビングバイブル (JCB)</string>
     <string name="edition_fallback">この書には KJV の本文がないため、現在の英語版を表示しています。</string>
     <string name="bible_chronology">聖書の歴史年表</string>
     <string name="chronology_intro">このガイドは、通常の書巻順や各書が書かれた時期ではなく、聖書に記された出来事の流れに沿っています。複数の時代にまたがる書や重なり合う書があり、年代上の位置について見解が分かれるものもあります。章の範囲をタップするとアプリ内で読めます。</string>

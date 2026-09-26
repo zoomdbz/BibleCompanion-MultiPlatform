@@ -321,11 +321,12 @@
     <string name="intro_section_header">مقدمة السفر</string>
     <string name="tts_read_intros">قراءة مقدمات الأسفار صوتيًا</string>
     <string name="external_bible_version">نسخة الكتاب المقدس للروابط الخارجية</string>
-    <string name="external_bible_version_desc">لا يغيّر هذا الخيار إلا المراجع التي تفتح في YouVersion/Bible.com أو Bible Gateway. ولا يغيّر نص الكتاب المقدس في Bible Companion.</string>
+    <string name="external_bible_version_desc">اختر نسخة الكتاب المقدس للمراجع الخارجية. تُفتح روابط Bible.com في تطبيق YouVersion Bible إذا كان مثبتًا؛ وإلا فتُفتح صفحة Bible.com في المتصفح. ولا يغيّر هذا نص Bible Companion.</string>
     <string name="in_app_bible_version">نسخة الكتاب المقدس داخل التطبيق</string>
-    <string name="in_app_bible_version_desc">يغيّر نص الكتاب المقدس الإنجليزي الذي تقرأه داخل Bible Companion.</string>
+    <string name="in_app_bible_version_desc">يحدّد نسخة الكتاب المقدس المقروءة داخل Bible Companion. وهي مستقلة عن النسخة المستخدمة للروابط الخارجية.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">الكتاب الشريف (SAB)</string>
     <string name="edition_fallback">نص KJV غير متاح لهذا السفر؛ تُعرض النسخة الإنجليزية الحالية.</string>
 
     <string name="bible_chronology">التسلسل الزمني للكتاب المقدس</string>

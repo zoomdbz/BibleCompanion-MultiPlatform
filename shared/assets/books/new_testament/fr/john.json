@@ -487,16 +487,6 @@
         "Ésaïe 35:6: Le boiteux qui bondit (image de guérison).",
         "Jean 7:21-23: Jésus revient sur la guérison faite un jour de sabbat."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "5:4",
-          "text": "car un ange descendait de temps en temps dans la piscine, et agitait l’eau; et celui qui y descendait le premier après que l’eau avait été agitée était guéri, quelle que fût sa maladie."
-        },
-        {
-          "ref": "John 5:4",
-          "text": "Certains manuscrits tardifs ajoutent ici un verset 4, qui explique la piscine de Bethesda : « car un ange du Seigneur descendait de temps en temps dans la piscine et agitait l'eau ; le premier qui y entrait après que l'eau avait été agitée était guéri, quelle que fût sa maladie. » Il est absent du Codex Sinaiticus, du Vaticanus et des plus anciens témoins grecs. Il paraît être une tradition populaire ajoutée plus tard pour expliquer la remarque de l'infirme au verset 7."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Bethesda / Bethzatha (nom de la piscine)",
@@ -527,6 +517,12 @@
         {
           "beforeVerse": 17,
           "text": "Accusations des Juifs, et réponses de Jésus"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG John 5:4",
+          "text": "car un ange descendait de temps en temps dans la piscine, et agitait l'eau; et celui qui y descendait le premier après que l'eau avait été agitée était guéri, quelle que fût sa maladie."
         }
       ]
     },

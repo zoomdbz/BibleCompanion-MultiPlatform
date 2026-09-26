@@ -3,6 +3,52 @@
   "title": "Siracide (Ecclésiastique)",
   "stories": [
     {
+      "id": "sirach-prologue",
+      "title": "📜 Prologue du Siracide (Ecclésiastique)",
+      "refs": [
+        "Sirach Prologue"
+      ],
+      "summaryBullets": [
+        "Prologue : La Loi, les Prophètes et les autres écrits qui les ont suivis nous ont transmis de nombreux enseignements importants. Israël mérite d'être loué pour cette instruction et cette sagesse. (Prologue).",
+        "Prologue : Ceux qui lisent les Écritures ne doivent pas seulement s'instruire eux-mêmes ; par amour du savoir, ils doivent aussi pouvoir aider ceux qui ne les connaissent pas, par la parole et par l'écrit. (Prologue).",
+        "Prologue : Mon grand-père Jésus s'est particulièrement consacré à l'étude de la Loi, des Prophètes et des autres livres de nos ancêtres. Après en avoir acquis une solide connaissance, il a voulu écrire à son tour un ouvrage d'instruction et de sagesse. (Prologue).",
+        "Prologue : Ainsi, ceux qui aiment apprendre pourront se familiariser avec ce livre et progresser davantage dans une vie conforme à la Loi. (Prologue).",
+        "Prologue : Je vous invite à le lire avec bienveillance et attention, et à nous excuser si, malgré le soin apporté à la traduction, certaines expressions semblent imparfaitement rendues. (Prologue).",
+        "Prologue : Ce qui fut exprimé en hébreu n'a pas exactement le même sens dans une autre langue. Cela vaut non seulement pour ce livre, mais aussi pour la Loi, les Prophètes et les autres écrits, qui diffèrent sensiblement lorsqu'on les lit dans leur langue d'origine. (Prologue).",
+        "Prologue : Lorsque je suis arrivé en Égypte la trente-huitième année du règne d'Évergète et que j'y suis resté quelque temps, j'ai trouvé de nombreuses occasions de m'instruire. (Prologue).",
+        "Prologue : J'ai donc jugé indispensable de consacrer mes efforts à traduire ce livre. Pendant ce séjour, j'ai travaillé avec vigilance et compétence pour l'achever et le publier à l'intention de ceux qui vivent à l'étranger, souhaitent s'instruire et se préparent à vivre selon la Loi. (Prologue)."
+      ],
+      "crossRefs": [
+        "Proverbes 1:1-7: Le but annoncé d'un recueil d'enseignements de sagesse.",
+        "Luc 1:1-4: Un auteur explique à son lecteur pourquoi et comment il a composé son ouvrage.",
+        "Néhémie 8:8: La Loi est lue et expliquée pour que le peuple la comprenne.",
+        "2 Timothée 3:16: Toute l'Écriture est utile pour enseigner et former."
+      ],
+      "translationNotes": [
+        {
+          "term": "La Loi, les Prophètes et les autres écrits",
+          "original": "Hebrew: תּוֹרָה נְבִיאִים כְּתוּבִים (Torah, Neviim, Ketuvim) - Greek: ὁ νόμος καὶ οἱ προφῆται καὶ τὰ ἄλλα (ho nomos kai hoi prophetai kai ta alla)",
+          "note": "Il s'agit de la division en trois parties des Écritures hébraïques : les cinq livres de Moïse, les livres prophétiques et les autres écrits."
+        },
+        {
+          "term": "La trente-huitième année d'Évergète",
+          "original": "Greek: ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει ἐπὶ τοῦ Εὐεργέτου βασιλέως (en to ogdoo kai triakosto etei epi tou Euergetou basileos)",
+          "note": "On comptait les années depuis l'accession au trône d'un souverain. Évergète signifie bienfaiteur et était un titre porté par des rois grecs d'Égypte."
+        },
+        {
+          "term": "Ceux qui vivent à l'étranger",
+          "original": "Greek: ἐν τῇ παροικίᾳ (en te paroikia)",
+          "note": "Il s'agit des Juifs installés hors de leur pays, ici en Égypte, qui parlaient et lisaient le grec plutôt que l'hébreu. Le mot désigne le fait de vivre en terre étrangère."
+        },
+        {
+          "term": "Certaines expressions imparfaitement rendues",
+          "original": "Greek: ἀδυναμεῖν (adynamein), literally to lack power",
+          "note": "Le traducteur reconnaît qu'une expression hébraïque perd de sa force dans une autre langue. C'est une remarque sur la traduction, non une affirmation sur le contenu."
+        }
+      ],
+      "keyTakeaway": "Le traducteur loue l'enseignement transmis à Israël par la Loi, les Prophètes et les autres livres. Il explique que son grand-père Jésus a écrit cet ouvrage après les avoir longuement étudiés et demande de l'indulgence pour les expressions imparfaitement traduites. Il est arrivé en Égypte la trente-huitième année d'Évergète et y a traduit le livre."
+    },
+    {
       "id": "sirach-1",
       "title": "📜 Siracide (Ecclésiastique) 1",
       "refs": [
@@ -1802,7 +1848,7 @@
         "La mort causée par les mauvaises langues est une mort affreuse; et mieux vaut être mort que vivre en leur pouvoir! (28:21).",
         "Mais elles ne peuvent rien contre les fidèles: ils ne sont pas brûlés aux flammes qu'elles crachent. (28:22).",
         "Ceux qui succombent aux mauvaises langues sont ceux qui ont abandonné le Seigneur: elles trouvent en eux de quoi alimenter un feu qui ne s'éteint jamais; comme un lion elles fonceront sur eux, comme une panthère, elles les mettront en pièces. (28:23).",
-        "Si tu fermes ton champ par une haie d'épines, ferme aussi au verrou la porte de ta bouche. Si tu prends soin de ton argent et de ton or, mets donc autant de soin à peser tes paroles . (28:24).",
+        "Si tu fermes ton champ par une haie d'épines, ferme aussi au verrou la porte de ta bouche. Si tu prends soin de ton argent et de ton or, mets donc autant de soin à peser tes paroles . (28:24-25).",
         "Prends garde que ta langue t'entraîne à la faute et te fasse tomber devant celui qui te guette. (28:26)."
       ],
       "crossRefs": [
@@ -2458,7 +2504,7 @@
         "Les médicaments sont tirés de la nature ; c'est donc le Seigneur qui les a créés. Un homme de bon sens ne les méprise pas. (38:4).",
         "On le sait bien: c'est grâce à un morceau de bois que Moïse rendit l'eau potable afin qu'on reconnaisse le pouvoir de Dieu . (38:5).",
         "Le Seigneur a donné aux humains le savoir pour que ceux-ci célèbrent ses merveilles. (38:6).",
-        "C'est de celles-ci que le pharmacien se sert pour faire des mélanges, et le médecin pour soulager la douleur. Ceux que Dieu a créés restent ainsi en vie ; sur toute la terre la santé vient de lui. (38:7).",
+        "C'est de celles-ci que le pharmacien se sert pour faire des mélanges, et le médecin pour soulager la douleur. Ceux que Dieu a créés restent ainsi en vie ; sur toute la terre la santé vient de lui. (38:7-8).",
         "Mon enfant, si tu tombes malade, ne sois pas négligent, mais prie le Seigneur, et il te guérira . (38:9).",
         "Renonce à tes erreurs, agis correctement, et purifie ton cœur de toutes ses fautes. (38:10).",
         "Si tu en as les moyens, offre à Dieu une poignée de farine accompagnée d' encens et d'huile . (38:11).",

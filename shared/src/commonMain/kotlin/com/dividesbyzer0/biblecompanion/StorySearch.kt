@@ -1020,10 +1020,9 @@ object StorySearch {
     val out = mutableListOf<SearchHit>()
     for ((col, bookId, bookTitle) in candidates) {
       val key = "$col|$bookId"; val byChapter = chapterIndex[key]
-      var storyId: String? = byChapter?.get(ref.chapter)
-      if (storyId == null && byChapter != null) { val prev = byChapter.keys.filter { it <= ref.chapter }.maxOrNull(); storyId = prev?.let { byChapter[it] } }
-      if (storyId == null) { storyId = docs.asSequence().filter { it.collection == col && it.bookId == bookId }.firstOrNull { spans -> spans.chapterSpans.any { ref.chapter in it } }?.storyId }
-      if (storyId == null) continue
+      // Explicit references use the chapter number entered in the active
+      // edition. Never substitute an earlier chapter for a missing one.
+      val storyId = byChapter?.get(ref.chapter) ?: continue
       val d = docs.firstOrNull { it.collection == col && it.bookId == bookId && it.storyId == storyId } ?: continue
       val title = if (ref.verse != null) {
         "$bookTitle ${ref.chapter}:${ref.verse}${if (ref.verseEnd != null) "-${ref.verseEnd}" else ""}"
@@ -5575,7 +5574,9 @@ object StorySearch {
   private fun resolveCanonicalBoosts(qTokens: List<String>): Set<String> {
     val ids = mutableSetOf<String>()
     for (tok in qTokens) {
-      canonicalHits[tok]?.let { ids.addAll(it) }
+      canonicalHits[tok]?.forEach { canonicalId ->
+        ids.addAll(canonicalStoryIdsToNative(canonicalId, resolvedLang))
+      }
     }
     return ids
   }

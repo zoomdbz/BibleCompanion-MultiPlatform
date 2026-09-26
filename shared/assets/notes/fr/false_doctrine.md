@@ -596,7 +596,7 @@ Quand un dirigeant revendique une révélation fraîche ne pouvant être mise en
 
 **Distorsions centrales :**
 
-- Branham était « l'Élie de Malachie 4:5-6 » prophétisé qui restaurerait toutes choses avant le second avènement de Christ.
+- Branham était « l'Élie de Malachie 3:23-24 » prophétisé qui restaurerait toutes choses avant le second avènement de Christ.
 - Les sermons parlés de Branham sont des utterances prophétiques *ainsi dit le Seigneur* au même niveau que l'Écriture.
 - La doctrine de la « Semence du Serpent » : le péché d'Ève dans le Jardin était une relation sexuelle littérale avec le serpent (interprété comme un être dressé avant la malédiction), produisant Caïn comme la semence littérale du serpent. Les descendants de Caïn sont racialement et spirituellement distincts de ceux d'Adam. Cette doctrine a été utilisée pour justifier des hiérarchies raciales et est rejetée comme exégétiquement sans fondement et moralement corrompue par la recherche chrétienne ordinaire.
 - Modalisme / théologie de l'Unicité : Branham a nié la Trinité dans son enseignement mature, soutenant que le Père, le Fils et l'Esprit sont des titres de l'unique Personne Jésus.

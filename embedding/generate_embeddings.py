@@ -24,6 +24,8 @@ import numpy as np
 import torch
 
 from embedder import Embedder
+from native_versification import native_anchor_ids
+from parse_corpus import parse_book
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 MODEL_NAME = "intfloat/multilingual-e5-small"
@@ -1470,6 +1472,34 @@ NATIVE_PATCHES = {
 }
 
 
+def native_anchor_map(anchors: dict[str, str], lang: str) -> dict[str, str]:
+    """Bind canonical anchor phrases to the chapter that holds their text."""
+    out = {}
+    for story_id, text in anchors.items():
+        native_ids = native_anchor_ids(story_id, lang)
+        if lang == "ru" and len(native_ids) > 1:
+            # An anchor for a split Psalm describes both chapters. Regenerate
+            # from each native chapter's own title/summary instead of guessing.
+            continue
+        for native_id in native_ids:
+            if native_id in out:
+                out[native_id] += "; " + text
+            else:
+                out[native_id] = text
+    return out
+
+
+def validate_native_corpus(entries: list[dict], lang: str) -> None:
+    """Refuse to embed stale corpus rows after localized assets are renumbered."""
+    names = ("psalms",) if lang == "ru" else (("malachi",) if lang in ("de", "fr") else ())
+    for book in names:
+        path = Path(__file__).parent.parent / "shared" / "assets" / "books" / "old_testament" / lang / f"{book}.json"
+        current = [e for e in parse_book(path, "old_testament", lang) if e["type"] != "crossref"]
+        corpus = [e for e in entries if e["collection"] == "old_testament" and e["book_id"] == book]
+        if corpus != current:
+            raise ValueError(f"{lang}/{book}: stale corpus; run parse_corpus.py before embedding")
+
+
 def load_anchors(lang: str):
     """Load per-language canonical names and verse anchors.
     Falls back to English for any missing entries."""
@@ -1513,7 +1543,7 @@ def load_anchors(lang: str):
             va_inserted += 1
     if cn_patches or va_patches:
         print(f"  Native patches: cn={cn_appended} appended + {cn_inserted} inserted, va={va_appended} appended + {va_inserted} inserted")
-    return merged_cn, merged_va
+    return native_anchor_map(merged_cn, lang), native_anchor_map(merged_va, lang)
 
 
 def build_corpus_anchors(english_cn: dict, english_va: dict, corpus_entries: list[dict]):
@@ -1770,6 +1800,7 @@ def write_metadata(entries, lang):
             "i": e["bullet_index"],
             "v": e["verse_ref"],
             "r": e["refs"],
+            **({"n": 1} if lang == "ru" and e["book_id"] == "psalms" else {}),
         })
     path = OUTPUT_DIR / f"metadata_{lang}.json"
     with open(path, "w", encoding="utf-8") as f:
@@ -1818,10 +1849,19 @@ def main():
             print(f"  ERROR: empty corpus for {lang}; rerun parse_corpus.py first.", file=sys.stderr)
             sys.exit(1)
 
+        try:
+            validate_native_corpus(entries, lang)
+        except ValueError as exc:
+            print(f"  FATAL: {exc}", file=sys.stderr)
+            sys.exit(1)
+
         canonical_names, verse_anchors = load_anchors(lang)
         story_entries = build_story_entries(entries, canonical_names, verse_anchors)
         corpus_sids = {e["story_id"] for e in entries}
-        patches = NATIVE_PATCHES.get(lang, {})
+        patches = {
+            kind: native_anchor_map(values, lang)
+            for kind, values in NATIVE_PATCHES.get(lang, {}).items()
+        }
         cn_patched = set(patches.get("canonical_names", {}))
         va_patched = set(patches.get("verse_anchors", {}))
         all_patched = cn_patched | va_patched

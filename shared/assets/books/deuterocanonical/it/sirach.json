@@ -3,6 +3,52 @@
   "title": "Siracide (Ecclesiastico)",
   "stories": [
     {
+      "id": "sirach-prologue",
+      "title": "📜 Prologo del Siracide (Ecclesiastico)",
+      "refs": [
+        "Sirach Prologue"
+      ],
+      "summaryBullets": [
+        "Prologo: La Legge, i Profeti e gli altri scritti venuti dopo di loro ci hanno trasmesso molti grandi insegnamenti. Per questa istruzione e sapienza, Israele merita lode. (Prologo).",
+        "Prologo: Chi legge le Scritture non deve soltanto istruirsi, ma, per amore dello studio, deve anche saper aiutare chi non le conosce, con la parola e con gli scritti. (Prologo).",
+        "Prologo: Mio nonno Gesù si dedicò in modo particolare alla lettura della Legge, dei Profeti e degli altri libri dei nostri antenati. Dopo averne acquisito una conoscenza approfondita, si sentì spinto a scrivere a sua volta un'opera di istruzione e sapienza. (Prologo).",
+        "Prologo: Così, chi ama lo studio potrà conoscere anche questo libro e progredire ancora di più nel vivere secondo la Legge. (Prologo).",
+        "Prologo: Vi invito a leggerlo con benevolenza e attenzione e a essere indulgenti se, nonostante il nostro accurato lavoro di traduzione, alcune espressioni vi sembreranno rese in modo imperfetto. (Prologo).",
+        "Prologo: Ciò che in origine fu espresso in ebraico non conserva esattamente lo stesso senso quando viene tradotto in un'altra lingua. Questo vale non solo per il presente libro: anche la Legge, i Profeti e gli altri scritti mostrano differenze notevoli quando li si legge nella lingua originale. (Prologo).",
+        "Prologo: Quando giunsi in Egitto nel trentottesimo anno del regno di Evergete e vi rimasi per qualche tempo, trovai molte occasioni per approfondire i miei studi. (Prologo).",
+        "Prologo: Perciò ritenni necessario dedicare impegno e fatica alla traduzione di questo libro. In quel periodo lavorai con attenzione e competenza per portarlo a termine e pubblicarlo per chi vive all'estero, desidera istruirsi e si prepara a vivere secondo la Legge. (Prologo)."
+      ],
+      "crossRefs": [
+        "Proverbi 1:1-7: Lo scopo dichiarato di una raccolta di insegnamenti sapienziali.",
+        "Luca 1:1-4: Un autore spiega al lettore perché e come ha composto la sua opera.",
+        "Neemia 8:8: La Legge viene letta e spiegata perché il popolo la comprenda.",
+        "2 Timoteo 3:16: Tutta la Scrittura è utile per insegnare e formare."
+      ],
+      "translationNotes": [
+        {
+          "term": "La Legge, i Profeti e gli altri scritti",
+          "original": "Hebrew: תּוֹרָה נְבִיאִים כְּתוּבִים (Torah, Neviim, Ketuvim) - Greek: ὁ νόμος καὶ οἱ προφῆται καὶ τὰ ἄλλα (ho nomos kai hoi prophetai kai ta alla)",
+          "note": "È la divisione tripartita delle Scritture ebraiche: i cinque libri di Mosè, i libri profetici e gli altri scritti."
+        },
+        {
+          "term": "Il trentottesimo anno di Evergete",
+          "original": "Greek: ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει ἐπὶ τοῦ Εὐεργέτου βασιλέως (en to ogdoo kai triakosto etei epi tou Euergetou basileos)",
+          "note": "Gli anni si contavano a partire dall'ascesa al trono di un sovrano. Evergete significa benefattore ed era un titolo portato dai re greci d'Egitto."
+        },
+        {
+          "term": "Chi vive all'estero",
+          "original": "Greek: ἐν τῇ παροικίᾳ (en te paroikia)",
+          "note": "Si riferisce agli ebrei stabiliti fuori dalla loro terra, qui in Egitto, che parlavano e leggevano il greco anziché l'ebraico. Il termine indica il vivere come stranieri."
+        },
+        {
+          "term": "Alcune espressioni rese in modo imperfetto",
+          "original": "Greek: ἀδυναμεῖν (adynamein), literally to lack power",
+          "note": "Il traduttore riconosce che un'espressione ebraica perde forza in un'altra lingua. È una nota sul lavoro di traduzione, non un'affermazione sul contenuto."
+        }
+      ],
+      "keyTakeaway": "Il traduttore loda gli insegnamenti di Israele trasmessi dalla Legge, dai Profeti e dagli altri libri. Spiega che suo nonno Gesù scrisse quest'opera dopo averli studiati a lungo e chiede indulgenza per le espressioni tradotte in modo imperfetto. Giunse in Egitto nel trentottesimo anno di Evergete e vi tradusse il libro."
+    },
+    {
       "id": "sirach-1",
       "title": "📜 Siracide (Ecclesiastico) 1",
       "refs": [

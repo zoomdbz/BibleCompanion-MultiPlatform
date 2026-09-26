@@ -97,6 +97,20 @@ object EmbeddingSearch {
 
     private fun normalizeBookId(raw: String): String = bookIdAliases[raw] ?: raw
 
+    private fun nativeStoryId(lang: String, bookId: String, storyId: String, nativeMarker: Int?): String {
+        val language = LocaleUtils.effectiveAssetTag(lang)
+        // Old Russian Psalm embeddings use English/MT story IDs. The same
+        // numbers can name different NRT chapters, so a missing native marker
+        // cannot be repaired by checking whether the target chapter exists.
+        if (language == "ru" && bookId == "psalms" && nativeMarker != 1) return ""
+        // French metadata still contains the old fourth Malachi chapter.
+        // German metadata is fixed on disk; keep this guard for stale bundles.
+        if (language in setOf("de", "fr") && bookId == "malachi" && storyId == "malachi-4") {
+            return canonicalStoryIdsToNative(storyId, language).single()
+        }
+        return storyId
+    }
+
     // Embedding index state
     private var embData: ByteArray? = null
     private var embDataOffset = 0
@@ -191,6 +205,7 @@ object EmbeddingSearch {
             }
             val score = embScale * intDot + offsetTerm
             val entry = entries.getOrNull(i) ?: continue
+            if (entry.storyId.isBlank()) continue
             val existing = bestScore[entry.storyId]
             if (existing == null || score > existing) {
                 bestScore[entry.storyId] = score
@@ -413,10 +428,12 @@ object EmbeddingSearch {
         meta = arr.map { el ->
             val obj = el.jsonObject
             val rawBook = obj["b"]?.jsonPrimitive?.content ?: ""
+            val bookId = normalizeBookId(rawBook)
+            val rawStory = obj["s"]?.jsonPrimitive?.content ?: ""
             EntryMeta(
                 collection = obj["c"]?.jsonPrimitive?.content ?: "",
-                bookId = normalizeBookId(rawBook),
-                storyId = obj["s"]?.jsonPrimitive?.content ?: ""
+                bookId = bookId,
+                storyId = nativeStoryId(lang, bookId, rawStory, obj["n"]?.jsonPrimitive?.intOrNull)
             )
         }
     }

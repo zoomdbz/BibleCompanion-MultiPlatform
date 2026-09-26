@@ -353,11 +353,12 @@
     <string name="tts_read_intros">TTS reads book intros</string>
     <!-- Internal and external Bible editions -->
     <string name="external_bible_version">External Bible Version</string>
-    <string name="external_bible_version_desc">Only changes references opened in YouVersion/Bible.com or Bible Gateway. It does not change Bible Companion text.</string>
+    <string name="external_bible_version_desc">Choose the version for external references. Bible.com links open in the YouVersion Bible app when it is installed; otherwise they open Bible.com in your browser. This does not change the text in Bible Companion.</string>
     <string name="in_app_bible_version">In-App Bible Version</string>
-    <string name="in_app_bible_version_desc">Changes the English Bible text read inside Bible Companion.</string>
+    <string name="in_app_bible_version_desc">Identifies the Bible version read inside Bible Companion. This is separate from the version used for external links.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">In-app Bible edition</string>
     <string name="edition_fallback">KJV text is unavailable for this book; showing the current English edition.</string>
 
     <!-- Bible chronology -->

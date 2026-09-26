@@ -321,11 +321,12 @@
     <string name="intro_section_header">Introdução do Livro</string>
     <string name="tts_read_intros">TTS lê as introduções</string>
     <string name="external_bible_version">Versão bíblica externa</string>
-    <string name="external_bible_version_desc">Muda apenas as referências abertas no YouVersion/Bible.com ou Bible Gateway. Não muda o texto do Bible Companion.</string>
+    <string name="external_bible_version_desc">Escolha a versão para referências externas. Os links do Bible.com abrem no aplicativo Bíblia YouVersion quando ele está instalado; caso contrário, abrem o Bible.com no navegador. Isso não altera o texto do Bible Companion.</string>
     <string name="in_app_bible_version">Versão bíblica no app</string>
-    <string name="in_app_bible_version_desc">Muda o texto bíblico em inglês lido no Bible Companion.</string>
+    <string name="in_app_bible_version_desc">Identifica a versão bíblica lida no Bible Companion. Ela é separada da versão usada nos links externos.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">Nova Versão Transformadora (NVT)</string>
     <string name="edition_fallback">O texto da KJV não está disponível para este livro; a edição atual em inglês será exibida.</string>
     <string name="bible_chronology">Cronologia bíblica</string>
     <string name="chronology_intro">Este guia segue o tempo descrito nas Escrituras, não a ordem habitual dos livros nem necessariamente a época em que cada livro foi escrito. Alguns livros abrangem ou se sobrepõem a mais de um período, e certas posições são debatidas. Toque em um intervalo de capítulos para lê-lo no app.</string>

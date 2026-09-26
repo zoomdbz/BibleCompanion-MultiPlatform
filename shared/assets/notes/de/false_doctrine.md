@@ -595,7 +595,7 @@ Wenn ein Leiter frische Offenbarung beansprucht, die nicht hinterfragt werden ka
 
 **Kernverzerrungen:**
 
-- Branham war der prophezeite „Elija von Maleachi 4,5-6“, der alle Dinge vor der Wiederkunft Christi wiederherstellen würde.
+- Branham war der prophezeite „Elija von Maleachi 3,23-24“, der alle Dinge vor der Wiederkunft Christi wiederherstellen würde.
 - Branhams gesprochene Predigten sind *so spricht der Herr*-Prophezeiungen, die der Schrift gleichgestellt sind.
 - Die „Schlangensamen“-Lehre: Evas Sünde in Eden war eine wörtliche sexuelle Beziehung mit der Schlange (interpretiert als ein aufrechtes Wesen vor dem Fluch), die Kain als den buchstäblichen Samen der Schlange hervorbrachte. Kains Nachkommen sind rassisch und geistlich verschieden von Adams Nachkommen. Diese Lehre wurde zur Rechtfertigung rassischer Hierarchien verwendet und wird von der Mainstream-christlichen Wissenschaft als exegetisch haltlos und moralisch korrumpiert abgelehnt.
 - Modalismus / Einheit-Theologie: Branham leugnete in seiner ausgereiften Lehre die Dreieinigkeit und vertrat, dass Vater, Sohn und Geist Titel der einen Person Jesus sind.
@@ -1039,7 +1039,7 @@ Die Gnosis bietet geheimes Wissen. Das Evangelium bietet öffentliche Wahrheit. 
 **Warum es Häresie ist:**
 
 - (Römer 5,12-21): „Die Sünde kam durch einen Menschen in die Welt und der Tod durch die Sünde; und so gelangte der Tod zu allen Menschen, weil alle sündigten.“
-- (Psalmen 51,7): „Siehe, in Schuld bin ich geboren, und in Sünde hat mich meine Mutter empfangen.“
+- (Psalmen 51,8): „Siehe, in Schuld bin ich geboren, und in Sünde hat mich meine Mutter empfangen.“
 - (Epheser 2,8-9): „Denn aus Gnade seid ihr gerettet durch den Glauben, und das nicht aus euch; Gottes Gabe ist es, nicht aus Werken, damit niemand sich rühme.“
 - (Römer 3,10-12): „Da ist keiner, der gerecht ist, auch nicht einer ... keiner, der Gutes tut, auch nicht einer.“
 

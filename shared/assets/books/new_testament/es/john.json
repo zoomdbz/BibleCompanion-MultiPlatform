@@ -445,7 +445,7 @@
       "summaryBullets": [
         "Algún tiempo después, Jesús subió a Jerusalén, pues se celebraba una fiesta de los judíos. (5:1).",
         "Había allí, junto a la puerta de las Ovejas, un estanque rodeado de cinco entradas, cuyo nombre en hebreo es Betzatá. (5:2).",
-        "En esas entradas se hallaban tendidos muchos enfermos, ciegos, cojos y paralíticos. (5:3).",
+        "En esas entradas se hallaban tendidos muchos enfermos, ciegos, cojos y paralíticos, esperando que el agua se moviera. (5:3).",
         "Entre ellos se encontraba un hombre que llevaba enfermo treinta y ocho años. (5:5).",
         "Cuando Jesús lo vio tirado en el suelo y se enteró de que ya tenía mucho tiempo de estar así, le preguntó: [J]―¿Quieres quedar sano?[/J] (5:6).",
         "―Señor —respondió—, no tengo a nadie que me meta en el estanque mientras se agita el agua y, cuando trato de hacerlo, otro se mete antes. (5:7).",
@@ -496,16 +496,6 @@
         "Isaías 35:6: El cojo saltando (imágenes de sanidad).",
         "Juan 7:21-23: Jesús se refiere otra vez a sanar en sábado."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "5:4",
-          "text": "paralíticos, que esperaban el movimiento del agua. De cuando en cuando un ángel del Señor bajaba al estanque y agitaba el agua. El primero que entraba en el estanque después de cada agitación del agua quedaba sano de cualquier enfermedad que tuviera."
-        },
-        {
-          "ref": "John 5:4",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 4 que explica el estanque de Betesda: \"porque un ángel del Señor descendía de tiempo en tiempo al estanque y agitaba el agua. El primero que entraba después de agitarse el agua quedaba sano de cualquier enfermedad que tuviera\". Falta en los códices Sinaítico y Vaticano y en los testigos griegos más antiguos. Parece ser una tradición popular añadida después para explicar el comentario del inválido en el v. 7."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Betesda / Betzata (nombre del estanque)",
@@ -540,6 +530,12 @@
         {
           "beforeVerse": 30,
           "text": "Testigos de Cristo"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 John 5:4",
+          "text": "Porque un ángel descendía de tiempo en tiempo al estanque, y agitaba el agua; y el que primero descendía al estanque después del movimiento del agua, quedaba sano de cualquier enfermedad que tuviese."
         }
       ]
     },

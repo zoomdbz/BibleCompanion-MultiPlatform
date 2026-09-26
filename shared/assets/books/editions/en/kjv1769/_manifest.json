@@ -7,10 +7,10 @@
     "title": "King James Version + Apocrypha",
     "description": "Standardized 1769 text with Apocrypha/Deuterocanon",
     "publisher": "eBible.org; source text courtesy of CrossWire Bible Society",
-    "url": "https://ebible.org/eng-kjv/",
-    "sourceDate": "2026-08-19",
-    "archiveSha256": "1165788907A8BBE93C3299D89EB5134D942038E5DCA2C0832BEB13E8F72441D0",
-    "extractedScriptureFileSetSha256": "425946C8D85061BA36B940D2B1D01F76F6AE24384D581D4A1D1FC4793D9B3696",
+    "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip",
+    "sourceDate": "2026-09-25",
+    "archiveSha256": "1BAB5D4D030439831FC0B39D7F11001DD8527FC6277405E7F6512273C200C3A4",
+    "extractedScriptureFileSetSha256": "07378DB0B11E8B882841729544F55B7BC6D543BAF855D14CC0FF6B120ABB061F",
     "rights": "Public domain outside the United Kingdom; UK distribution requires a separate rights determination."
   },
   "markup": {
@@ -1155,7 +1155,7 @@
       "bookId": "1_maccabees",
       "sourceBookCode": "1MA",
       "sourceFile": "52-1MAeng-kjv.usfm",
-      "sourceFileSha256": "188CF8C5C7D7E96A2A205CB60C84B28D05D886226BFB75D30E7B185DD2747FE0",
+      "sourceFileSha256": "C220C09B31297D06FDE16E243B324A68404368BBC10F68423624DF97B9A35785",
       "coverage": "full",
       "output": "deuterocanonical/1_maccabees.json",
       "chapters": 16,

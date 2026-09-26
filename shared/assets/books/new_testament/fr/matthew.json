@@ -887,7 +887,7 @@
       ],
       "crossRefs": [
         "Ésaïe 35:5-6; 61:1: Les signes nommés dans la réponse de Jésus.",
-        "Malachie 4:5: Élie qui doit venir avant le jour du SEIGNEUR.",
+        "Malachie 3:23: Élie qui doit venir avant le jour du SEIGNEUR.",
         "Luc 7:18-35: Récit parallèle."
       ],
       "translationNotes": [
@@ -1437,7 +1437,7 @@
         "[J]Jésus dit : Génération sans foi et perverse, jusqu'à quand serai-je avec vous ? Jusqu'à quand vous supporterai-je ? Amenez-le-moi ici.[/J] (17:17).",
         "Jésus rabroua le démon, qui sortit du garçon, et celui-ci fut guéri dès ce moment même. (17:18).",
         "Alors les disciples vinrent demander à Jésus, en privé : Pourquoi n'avons-nous pas pu le chasser nous-mêmes ? (17:19).",
-        "[J]– C'est parce que vous avez peu de foi, leur dit-il. Amen, je vous le dis, en effet, si vous avez de la foi comme une graine de moutarde, vous direz à cette montagne : « Déplace-toi d'ici à là », et elle se déplacera ; rien ne vous sera impossible. [[/J] (17:20).",
+        "[J]– C'est parce que vous avez peu de foi, leur dit-il. Amen, je vous le dis, en effet, si vous avez de la foi comme une graine de moutarde, vous direz à cette montagne : « Déplace-toi d'ici à là », et elle se déplacera ; rien ne vous sera impossible.[/J] (17:20).",
         "[J]En Galilée, un jour qu'ils étaient réunis, Jésus leur dit : Le Fils de l'homme va être livré aux humains ;[/J] (17:22).",
         "[J]ils le tueront, et le troisième jour il se réveillera. Ils furent profondément attristés.[/J] (17:23).",
         "Lorsque Jésus et ses disciples arrivèrent à Capharnaüm, ceux qui percevaient les didrachmes vinrent demander à Pierre : Votre maître paie-t-il les didrachmes ? (17:24).",
@@ -1448,18 +1448,8 @@
       "keyTakeaway": "Sur une haute montagne, Jésus est transfiguré, Moïse et Elie apparaissent, et la voix du Père commande aux disciples de l'écouter ; en descendant, Jésus identifie la venue d'Elie à Jean le Baptiseur, libère un garçon que ses disciples, gens de peu de foi, ne pouvaient guérir, en disant qu'une foi comme une graine de moutarde déplace les montagnes, annonce de nouveau sa mort et son réveil, et paie l'impôt du temple avec la pièce trouvée dans la bouche d'un poisson.",
       "crossRefs": [
         "Exode 34:29-35: Le visage de Moïse rayonnant.",
-        "Malachie 4:5-6: Élie avant le grand jour.",
+        "Malachie 3:23-24: Élie avant le grand jour.",
         "2 Pierre 1:16-18: Témoin oculaire de la gloire majestueuse."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "17:21",
-          "text": "Mais cette espèce-là ne sort que par la prière et le jeûne"
-        },
-        {
-          "ref": "Matthew 17:21",
-          "text": "Quelques manuscrits tardifs ajoutent ici un verset 21 : « Mais cette espèce-là ne sort que par la prière et le jeûne. » Les témoins grecs les plus anciens et les plus sûrs, dont le Codex Sinaiticus (א), le Codex Vaticanus (B) et le Codex Z, l'omettent. La même phrase se tient dans le récit parallèle de Marc 9:29."
-        }
       ],
       "translationNotes": [
         {
@@ -1510,6 +1500,12 @@
           "beforeVerse": 24,
           "text": "Jésus de retour à Capernaüm. Il paie le tribut"
         }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Matthew 17:21",
+          "text": "Mais cette sorte de démon ne sort que par la prière et par le jeûne."
+        }
       ]
     },
     {
@@ -1528,7 +1524,7 @@
         "[J]Quel malheur pour le monde ! Il y a tant de causes de chute ! Certes, il est nécessaire qu'il y ait des causes de chute, mais quel malheur pour l'homme par qui cela arrive ![/J] (18:7).",
         "[J]Si ta main ou ton pied doivent causer ta chute, coupe-les et jette-les loin de toi ; mieux vaut pour toi entrer dans la vie manchot ou infirme que d'avoir deux pieds ou deux mains et d'être jeté dans le feu éternel.[/J] (18:8).",
         "[J]Et si ton œil doit causer ta chute, arrache-le et jette-le loin de toi ; mieux vaut pour toi entrer borgne dans la vie que d'avoir deux yeux et d'être jeté dans la géhenne de feu.[/J] (18:9).",
-        "[J]Gardez-vous de mépriser un seul de ces petits, car je vous dis que leurs anges dans les cieux voient constamment le visage de mon Père qui est dans les cieux. [[/J] (18:10).",
+        "[J]Gardez-vous de mépriser un seul de ces petits, car je vous dis que leurs anges dans les cieux voient constamment le visage de mon Père qui est dans les cieux.[/J] (18:10).",
         "[J]Qu'en pensez-vous ? Si un homme a cent moutons et que l'un d'eux s'égare, ne laissera-t-il pas les quatre-vingt-dix-neuf autres dans la montagne pour aller chercher celui qui s'est égaré ?[/J] (18:12).",
         "[J]Et s'il parvient à le retrouver, amen, je vous le dis, il s'en réjouit plus que pour les quatre-vingt-dix-neuf qui ne se sont pas égarés.[/J] (18:13).",
         "[J]De même, ce n'est pas la volonté de votre Père qui est dans les cieux qu'il se perde un seul de ces petits.[/J] (18:14).",
@@ -1560,16 +1556,6 @@
         "Deutéronome 27:18: Malheur à celui qui fait trébucher les plus fragiles.",
         "Luc 15:3-7: Parabole de la brebis perdue.",
         "Matthieu 5:29-30: Avertissement antérieur : retrancher ce qui fait tomber."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "18:11",
-          "text": "Car le Fils de l'homme est venu sauver ce qui était perdu"
-        },
-        {
-          "ref": "Matthew 18:11",
-          "text": "Quelques manuscrits tardifs insèrent ici un verset 11 : « Car le Fils de l'homme est venu sauver ce qui était perdu. » Il est absent du Codex Sinaiticus, du Vaticanus et des plus anciens témoins latins et coptes. La phrase a presque certainement migré dans Matthieu depuis Luc 19:10, où elle est fermement attestée comme parole de Jésus lui-même chez Zachée."
-        }
       ],
       "translationNotes": [
         {
@@ -1629,6 +1615,12 @@
         {
           "beforeVerse": 21,
           "text": "Parabole du serviteur impitoyable"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Matthew 18:11",
+          "text": "Car le Fils de l'homme est venu sauver ce qui était perdu."
         }
       ]
     },
@@ -2027,7 +2019,7 @@
         "[J]Ne vous faites pas appeler docteurs, car un seul est votre docteur, le Christ.[/J] (23:10).",
         "[J]Le plus grand parmi vous sera votre serviteur.[/J] (23:11).",
         "[J]Qui s'élèvera sera abaissé, et qui s'abaissera sera élevé.[/J] (23:12).",
-        "[J]Quel malheur pour vous, scribes et pharisiens, hypocrites ! Vous fermez aux gens le royaume des cieux ; vous n'y entrez pas vous-mêmes, et vous n'y laissez pas entrer ceux qui le voudraient. [[/J] (23:13).",
+        "[J]Quel malheur pour vous, scribes et pharisiens, hypocrites ! Vous fermez aux gens le royaume des cieux ; vous n'y entrez pas vous-mêmes, et vous n'y laissez pas entrer ceux qui le voudraient.[/J] (23:13).",
         "[J]Quel malheur pour vous, scribes et pharisiens, hypocrites ! Vous courez la mer et la terre pour faire un prosélyte, et, quand il l'est devenu, vous en faites un fils de la géhenne deux fois pire que vous.[/J] (23:15).",
         "[J]Quel malheur pour vous, guides aveugles, qui dites : Si quelqu'un jure par le sanctuaire, cela ne compte pas ; mais si quelqu'un jure par l'or du sanctuaire, il est engagé.[/J] (23:16).",
         "[J]Fous et aveugles ! Qu'est-ce qui est le plus grand, l'or ou le sanctuaire qui consacre l'or ?[/J] (23:17).",
@@ -2058,16 +2050,6 @@
       "crossRefs": [
         "Malachie 2:7: L'enseignement que l'on cherche sur les lèvres d'un prêtre.",
         "Matthieu 20:26-28: La grandeur qui consiste à servir."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "23:14",
-          "text": "Quel malheur pour vous, scribes et pharisiens, hypocrites ! Vous dévorez les maisons des veuves et, pour l'apparence, vous faites de longues prières ; à cause de cela, vous recevrez un jugement plus sévère"
-        },
-        {
-          "ref": "Matthew 23:14",
-          "text": "Quelques manuscrits tardifs ajoutent ici un verset 14 : « Quel malheur pour vous, scribes et pharisiens, hypocrites ! Car vous dévorez les maisons des veuves et vous faites pour l'apparence de longues prières. C'est pourquoi vous recevrez une condamnation plus lourde. » Il manque dans le Sinaiticus, le Vaticanus et les plus anciennes copies grecques, et il a presque certainement été inséré plus tard pour harmoniser Matthieu avec la même accusation en Marc 12:40 et Luc 20:47."
-        }
       ],
       "translationNotes": [
         {
@@ -2109,6 +2091,12 @@
         {
           "beforeVerse": 37,
           "text": "Crimes et châtiment de Jérusalem"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Matthew 23:14",
+          "text": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous dévorez les maisons des veuves, et que vous faites pour l'apparence de longues prières; à cause de cela, vous serez jugés plus sévèrement."
         }
       ]
     },

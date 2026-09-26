@@ -88,7 +88,7 @@ Das hebräische Wort *moadim* verbindet die Himmelskörper direkt mit Gottes fes
 - Das Posaunenfest hängt von der **Neumondsichtung** ab (Tischri 1)
 - Die Frühlings-Tagundnachtgleiche bestimmt den Beginn des biblischen Jahres
 
-Die Himmel werden nicht angebetet (5. Mose 4,19), aber sie werden gelesen; sie verkünden die Herrlichkeit Gottes (Psalmen 19,2) und markieren Seine festgesetzten Zeiten.
+Die Himmel werden nicht angebetet (5. Mose 4,19), aber sie werden gelesen; sie verkünden die Herrlichkeit Gottes (Psalmen 19,3) und markieren Seine festgesetzten Zeiten.
 
 ---
 

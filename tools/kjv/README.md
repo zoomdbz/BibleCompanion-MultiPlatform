@@ -5,16 +5,21 @@ snapshot. It removes Strong's attributes and source footnote apparatus from
 display text while retaining their audit counts. It does not read or modify the
 existing English BSB/custom Deuterocanon JSON.
 
-Run from the repository root:
+The pinned official archive is
+<https://ebible.org/Scriptures/eng-kjv_usfm.zip>. The current snapshot was
+audited on 2026-09-25.
+
+Run from the repository root after extracting the archive:
 
 ```powershell
-python -B tools/kjv/import_kjv_usfm.py --source "G:\Bible Companion App\eng-kjv_usfm"
-python -B tools/kjv/validate_kjv_overlays.py --source "G:\Bible Companion App\eng-kjv_usfm"
+python -B tools/kjv/import_kjv_usfm.py --source "C:\path\to\extracted\eng-kjv" --archive "C:\path\to\eng-kjv_usfm.zip"
+python -B tools/kjv/validate_kjv_overlays.py --source "C:\path\to\extracted\eng-kjv" --archive "C:\path\to\eng-kjv_usfm.zip"
 ```
 
-If the original ZIP is present, pass `--archive` to both commands. The scripts
-then require SHA-256
-`1165788907A8BBE93C3299D89EB5134D942038E5DCA2C0832BEB13E8F72441D0`.
+The scripts require the archive SHA-256
+`1BAB5D4D030439831FC0B39D7F11001DD8527FC6277405E7F6512273C200C3A4`
+when `--archive` is supplied. The 80 extracted Scripture files are separately
+pinned by the manifest's deterministic file-set SHA-256.
 
 ## Overlay schema
 

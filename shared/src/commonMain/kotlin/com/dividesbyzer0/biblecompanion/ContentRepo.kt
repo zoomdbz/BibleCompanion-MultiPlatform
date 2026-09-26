@@ -83,13 +83,14 @@ object ContentRepo {
         val txt = readAssetText(context, path) ?: return@runCatching null
         val base = json.decodeFromString<Book>(txt)
         val requested = BibleEditions.effective(appLang, internalBibleVersion)
+        val baseEdition = BibleEditions.defaultForLanguage(tag)
         val editionApplies = tag == "en" && requested == BibleEditions.KJV_1769 &&
             collection in setOf("old_testament", "new_testament", "deuterocanonical")
         if (!editionApplies) {
             return@runCatching LoadedBook(
                 book = base,
                 requestedEdition = requested,
-                effectiveEdition = BibleEditions.BSB,
+                effectiveEdition = baseEdition,
                 coverage = EditionCoverage.BASE
             )
         }
@@ -99,7 +100,7 @@ object ContentRepo {
         val fallback = LoadedBook(
             book = base,
             requestedEdition = requested,
-            effectiveEdition = BibleEditions.BSB,
+            effectiveEdition = baseEdition,
             coverage = EditionCoverage.FALLBACK
         )
         if (overlayText == null) return@runCatching fallback

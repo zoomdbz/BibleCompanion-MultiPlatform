@@ -47,12 +47,18 @@ class MainActivity : AppCompatActivity() {
         val deepLinkRoute = intent?.data?.let { uri ->
             if (uri.scheme == "biblecompanion" && uri.host == "open") {
                 val route = uri.getQueryParameter("route")
-                if (route != null) route
+                if (route != null) {
+                    if (route.startsWith("book/") && route.contains("storyId=") && !route.contains("sourceLang="))
+                        route + (if (route.contains('?')) "&" else "?") + "sourceLang=en"
+                    else route
+                }
                 else {
                     val col = uri.getQueryParameter("col")
                     val book = uri.getQueryParameter("book")
                     val story = uri.getQueryParameter("story")
-                    if (col != null && book != null) "book/$col/$book" + (if (story != null) "?storyId=$story" else "")
+                    val sourceLang = uri.getQueryParameter("sourceLang") ?: "en"
+                    if (col != null && book != null) "book/${android.net.Uri.encode(col)}/${android.net.Uri.encode(book)}" +
+                        (if (story != null) "?storyId=${android.net.Uri.encode(story)}&sourceLang=${android.net.Uri.encode(sourceLang)}" else "")
                     else null
                 }
             } else null

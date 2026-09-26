@@ -510,24 +510,28 @@ fun chronologyOpeningStoryId(book: Book, requestedChapter: Int): String? {
 }
 
 /** Known localized versification differences represented by the bundled assets. */
-private fun ChronologyEntry.rangeForLanguage(appLanguage: String): String {
+internal fun ChronologyEntry.rangeForLanguage(appLanguage: String): String {
   val language = LocaleUtils.effectiveAssetTag(appLanguage)
   return when {
     bookId == "joel" && language in setOf("de", "fr") -> "1-4"
     bookId == "song_of_three" && language in setOf(
       "ar", "es", "fr", "it", "ja", "pt", "ru", "zh-Hans", "zh-Hant"
     ) -> "3"
-    else -> chapterRange
+    // NRT/LXX Psalm 9 combines canonical Psalms 9 and 10 and retains David's
+    // attribution. Keep the merged Psalm in David's row, not both rows.
+    bookId == "psalms" && language == "ru" && psalmAttribution == PsalmAttribution.UNNAMED ->
+      canonicalRangeToNative(bookId, chapterRange, language, setOf(10))
+    else -> canonicalRangeToNative(bookId, chapterRange, language)
   }
 }
 
-private fun ChronologyEntry.openingChapterForLanguage(appLanguage: String): Int {
+internal fun ChronologyEntry.openingChapterForLanguage(appLanguage: String): Int {
   val language = LocaleUtils.effectiveAssetTag(appLanguage)
   return if (
     bookId == "song_of_three" && language in setOf(
       "ar", "es", "fr", "it", "ja", "pt", "ru", "zh-Hans", "zh-Hant"
     )
-  ) 3 else openingChapter
+  ) 3 else canonicalChaptersToNative(bookId, openingChapter, language).first()
 }
 
 @Composable

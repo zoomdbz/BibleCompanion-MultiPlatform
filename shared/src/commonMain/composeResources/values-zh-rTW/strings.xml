@@ -321,11 +321,12 @@
     <string name="intro_section_header">本卷簡介</string>
     <string name="tts_read_intros">TTS 朗讀本卷簡介</string>
     <string name="external_bible_version">外部聖經版本</string>
-    <string name="external_bible_version_desc">只更改在 YouVersion/Bible.com 或 Bible Gateway 中開啟的引用，不會更改 Bible Companion 的正文。</string>
+    <string name="external_bible_version_desc">選擇外部經文連結使用的聖經版本。若已安裝YouVersion聖經應用程式，Bible.com連結會在該應用程式中開啟；否則會在瀏覽器中開啟Bible.com。這不會更改Bible Companion內的正文。</string>
     <string name="in_app_bible_version">應用程式內聖經版本</string>
-    <string name="in_app_bible_version_desc">更改在 Bible Companion 內閱讀的英文聖經正文。</string>
+    <string name="in_app_bible_version_desc">標明Bible Companion內閱讀的聖經版本。它與外部連結使用的版本相互獨立。</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">和合本修訂版 (RCUV)</string>
     <string name="edition_fallback">本書沒有可用的 KJV 正文，目前顯示現有的英文版本。</string>
     <string name="bible_chronology">聖經歷史年表</string>
     <string name="chronology_intro">本指南按照聖經所記述的事件時間編排，而不是通常的書卷順序，也不一定是各卷寫成的時間。有些書卷橫跨或重疊多個時期，部分年代位置也存在爭議。輕觸章節範圍即可在應用程式內閱讀。</string>

@@ -536,7 +536,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Was echte und falsche Frömmigkeit ausmacht … … wenn man gibt"
+          "text": "Was echte und falsche Frömmigkeit ausmacht …"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "… wenn man gibt"
         },
         {
           "beforeVerse": 5,
@@ -993,7 +997,7 @@
       ],
       "crossRefs": [
         "Jesaja 35:5-6; 61:1: Die Zeichen, die Jesus in seiner Antwort nennt.",
-        "Maleachi 4:5: Elia kommt vor dem Tag des HERRN.",
+        "Maleachi 3:23: Elia kommt vor dem Tag des HERRN.",
         "Lukas 7:18-35: Parallelbericht."
       ],
       "translationNotes": [
@@ -1021,7 +1025,7 @@
       "keyTakeaway": "Jesus antwortet dem gefangenen Johannes, indem er auf Blinde weist, die sehen, auf Tote, die auferweckt werden, und auf Arme, denen das Evangelium verkündigt wird; dann erklärt er Johannes zu seinem Boten und zu dem Elia, der kommen soll, und tadelt das Geschlecht, das beide verwarf. Er ruft Wehe über das unbußfertige Chorazin, Bethsaida und Kapernaum, preist den Vater, dass er dies den Unmündigen geoffenbart hat, und lädt die Mühseligen ein, sein sanftes Joch auf sich zu nehmen und Ruhe für ihre Seelen zu finden.",
       "headings": [
         {
-          "beforeVerse": 1,
+          "beforeVerse": 2,
           "text": "Jesus und Johannes der Täufer"
         },
         {
@@ -1592,6 +1596,7 @@
         "Und Jesus befahl dem Dämon, und er fuhr von ihm aus, und der Knabe war gesund von jener Stunde an. (17:18).",
         "Da traten die Jünger allein zu Jesus und sprachen: Warum konnten wir ihn nicht austreiben? (17:19).",
         "[J]Jesus aber sprach zu ihnen: Um eures Unglaubens willen! Denn wahrlich, ich sage euch: Wenn ihr Glauben hättet wie ein Senfkorn, so würdet ihr zu diesem Berg sprechen: Hebe dich weg von hier dorthin!, und er würde sich hinwegheben; und nichts würde euch unmöglich sein.[/J] (17:20).",
+        "[J]Aber diese Art fährt nicht aus außer durch Gebet und Fasten.[/J] (17:21).",
         "[J]Als sie nun ihren Weg durch Galiläa nahmen, sprach Jesus zu ihnen: Der Sohn des Menschen wird in die Hände der Menschen ausgeliefert werden,[/J] (17:22).",
         "[J]und sie werden ihn töten, und am dritten Tag wird er auferweckt werden. Und sie wurden sehr betrübt.[/J] (17:23).",
         "Als sie aber nach Kapernaum kamen, traten die Einnehmer der Tempelsteuer zu Petrus und sprachen: Zahlt euer Meister nicht auch die zwei Drachmen? (17:24).",
@@ -1602,18 +1607,8 @@
       "keyTakeaway": "Auf einem hohen Berg wird Jesus verklärt, Mose und Elia erscheinen, und die Stimme des Vaters gebietet den Jüngern, auf ihn zu hören; beim Abstieg deutet Jesus das Kommen des Elia auf Johannes den Täufer, befreit einen Knaben, den seine kleingläubigen Jünger nicht befreien konnten, und sagt, dass Glaube wie ein Senfkorn Berge versetzt; er kündigt erneut seinen Tod und seine Auferweckung an und zahlt die Tempelsteuer mit der Münze aus dem Maul eines Fisches.",
       "crossRefs": [
         "Exodus 34:29-35: Das Angesicht des Mose glänzt.",
-        "Maleachi 4:5-6: Elia vor dem großen Tag.",
+        "Maleachi 3:23-24: Elia vor dem großen Tag.",
         "2. Petrus 1:16-18: Augenzeuge seiner herrlichen Majestät."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "17:21",
-          "text": "Aber diese Art fährt nicht aus denn durch Beten und Fasten."
-        },
-        {
-          "ref": "Matthew 17:21",
-          "text": "Einige spätere Handschriften fügen hier einen Vers 21 ein: „Diese Art aber fährt nicht aus außer durch Gebet und Fasten.“ Die frühesten und zuverlässigsten griechischen Zeugen, darunter der Codex Sinaiticus (א), der Codex Vaticanus (B) und der Codex Z, lassen ihn aus. Derselbe Satz steht im Parallelbericht in Markus 9,29."
-        }
       ],
       "translationNotes": [
         {
@@ -1683,6 +1678,7 @@
         "[J]Wenn aber deine Hand oder dein Fuß für dich ein Anstoß [zur Sünde] wird, so haue sie ab und wirf sie von dir! Es ist besser für dich, dass du lahm oder verstümmelt in das Leben eingehst, als dass du zwei Hände oder zwei Füße hast und in das ewige Feuer geworfen wirst.[/J] (18:8).",
         "[J]Und wenn dein Auge für dich ein Anstoß [zur Sünde] wird, so reiß es aus und wirf es von dir! Es ist besser für dich, dass du einäugig in das Leben eingehst, als dass du zwei Augen hast und in das höllische Feuer geworfen wirst.[/J] (18:9).",
         "[J]Seht zu, dass ihr keinen dieser Kleinen verachtet! Denn ich sage euch: Ihre Engel im Himmel schauen allezeit das Angesicht meines Vaters im Himmel.[/J] (18:10).",
+        "[J]Denn der Sohn des Menschen ist gekommen, um das Verlorene zu retten.[/J] (18:11).",
         "[J]Was meint ihr? Wenn ein Mensch hundert Schafe hat, und es verirrt sich eines von ihnen, lässt er nicht die neunundneunzig auf den Bergen, geht hin und sucht das verirrte?[/J] (18:12).",
         "[J]Und wenn es geschieht, dass er es findet, wahrlich, ich sage euch: Er freut sich darüber mehr als über die neunundneunzig, die nicht verirrt waren.[/J] (18:13).",
         "[J]So ist es auch nicht der Wille eures Vaters im Himmel, dass eines dieser Kleinen verlorengeht.[/J] (18:14).",
@@ -1714,16 +1710,6 @@
         "Deuteronomium 27:18: Wehe dem, der die Schwachen zu Fall bringt.",
         "Lukas 15:3-7: Gleichnis vom verlorenen Schaf.",
         "Matthäus 5:29-30: Frühere Warnung, das zu entfernen, was zur Sünde verführt."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "18:11",
-          "text": "Denn des Menschen Sohn ist gekommen, selig zu machen, das verloren ist."
-        },
-        {
-          "ref": "Matthew 18:11",
-          "text": "Einige spätere Handschriften schieben hier einen Vers 11 ein: „Denn der Sohn des Menschen ist gekommen, um zu retten, was verloren ist.“ Er fehlt im Codex Sinaiticus, im Codex Vaticanus und in den frühesten lateinischen und koptischen Zeugen. Der Satz ist mit großer Sicherheit aus Lukas 19,10 nach Matthäus gewandert, wo er als eigenes Wort Jesu im Haus des Zachäus fest bezeugt ist."
-        }
       ],
       "translationNotes": [
         {
@@ -2198,6 +2184,7 @@
         "[J]Der Größte aber unter euch soll euer Diener sein.[/J] (23:11).",
         "[J]Wer sich aber selbst erhöht, der wird erniedrigt werden; und wer sich selbst erniedrigt, der wird erhöht werden.[/J] (23:12).",
         "[J]Aber wehe euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler, dass ihr das Reich der Himmel vor den Menschen zuschließt! Ihr selbst geht nicht hinein, und die hinein wollen, die lasst ihr nicht hinein.[/J] (23:13).",
+        "[J]Wehe euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler, dass ihr die Häuser der Witwen fresst und zum Schein lange betet. Darum werdet ihr ein schwereres Gericht empfangen![/J] (23:14).",
         "[J]Wehe euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler, dass ihr Meer und Land durchzieht, um einen einzigen Proselyten zu machen, und wenn er es geworden ist, macht ihr einen Sohn der Hölle aus ihm, zweimal mehr, als ihr es seid![/J] (23:15).",
         "[J]Wehe euch, ihr blinden Führer, die ihr sagt: Wer beim Tempel schwört, das gilt nichts; wer aber beim Gold des Tempels schwört, der ist gebunden.[/J] (23:16).",
         "[J]Ihr Narren und Blinden, was ist denn größer, das Gold oder der Tempel, der das Gold heiligt?[/J] (23:17).",
@@ -2228,16 +2215,6 @@
       "crossRefs": [
         "Maleachi 2:7: Belehrung, die man von den Lippen eines Priesters sucht.",
         "Matthäus 20:26-28: Größe als Dienen."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "23:14",
-          "text": "Weh euch, Schriftgelehrte und Pharisäer, ihr Heuchler, die ihr der Witwen Häuser fresset und wendet lange Gebete vor! Darum werdet ihr desto mehr Verdammnis empfangen."
-        },
-        {
-          "ref": "Matthew 23:14",
-          "text": "Einige spätere Handschriften fügen hier einen Vers 14 ein: „Wehe euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler, dass ihr die Häuser der Witwen fresst und zum Schein lange betet! Darum werdet ihr ein umso schwereres Gericht empfangen.“ Er fehlt im Codex Sinaiticus, im Codex Vaticanus und in den ältesten griechischen Abschriften und wurde mit großer Sicherheit später eingefügt, um Matthäus mit derselben Anklage in Markus 12,40 und Lukas 20,47 in Einklang zu bringen."
-        }
       ],
       "translationNotes": [
         {

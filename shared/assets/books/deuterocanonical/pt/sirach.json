@@ -3,6 +3,52 @@
   "title": "Eclesiástico (Sirácida)",
   "stories": [
     {
+      "id": "sirach-prologue",
+      "title": "📜 Prólogo de Eclesiástico (Sirácida)",
+      "refs": [
+        "Sirach Prologue"
+      ],
+      "summaryBullets": [
+        "Prólogo: Muitos e excelentes ensinamentos nos foram transmitidos pela Lei, pelos Profetas e pelos outros que os seguiram; por isso, devemos louvar Israel pela sua instrução e sabedoria. (Prólogo).",
+        "Prólogo: Os que leem as Escrituras não devem apenas tornar-se instruídos, mas, como amantes do saber, também devem ser capazes de ajudar os de fora por meio da palavra e da escrita. (Prólogo).",
+        "Prólogo: Assim, o meu avô Jesus, que se dedicara especialmente à leitura da Lei, dos Profetas e dos outros livros dos nossos antepassados e adquirira neles considerável domínio, sentiu-se impelido a escrever algo acerca de instrução e sabedoria. (Prólogo).",
+        "Prólogo: Fez isso para que, familiarizando-se também com este livro, os que amam o saber pudessem progredir ainda mais numa vida de acordo com a Lei. (Prólogo).",
+        "Prólogo: Por isso, peço-vos que o leiam com boa vontade e atenção e que sejam indulgentes quando, apesar do nosso trabalho cuidadoso de tradução, parecermos ter vertido algumas expressões de modo imperfeito. (Prólogo).",
+        "Prólogo: Pois aquilo que foi originalmente expresso em hebraico não conserva exatamente o mesmo sentido quando é traduzido para outra língua; isso não acontece apenas com este livro, mas também a própria Lei, as Profecias e os restantes livros apresentam diferenças consideráveis quando lidos no original. (Prólogo).",
+        "Prólogo: Quando cheguei ao Egito no trigésimo oitavo ano do reinado de Evérgetes e ali permaneci algum tempo, encontrei ocasião para receber não pouca instrução. (Prólogo).",
+        "Prólogo: Pareceu-me, portanto, absolutamente necessário dedicar diligência e trabalho à tradução deste livro; durante esse período, apliquei grande cuidado e perícia para o concluir e publicar em benefício dos que vivem no estrangeiro, desejam aprender e se preparam para viver de acordo com a Lei. (Prólogo)."
+      ],
+      "crossRefs": [
+        "Provérbios 1:1-7: Declara-se o propósito de uma coleção de instruções de sabedoria.",
+        "Lucas 1:1-4: Um escritor explica ao leitor por que motivo e de que maneira compilou a sua obra.",
+        "Neemias 8:8: A Lei é lida e explicada com clareza, para que o povo a compreenda.",
+        "2 Timóteo 3:16: Toda a Escritura é útil para ensinar e instruir."
+      ],
+      "translationNotes": [
+        {
+          "term": "A Lei, os Profetas e os outros",
+          "original": "Hebrew: תּוֹרָה נְבִיאִים כְּתוּבִים (Torah, Neviim, Ketuvim) - Greek: ὁ νόμος καὶ οἱ προφῆται καὶ τὰ ἄλλα (ho nomos kai hoi prophetai kai ta alla)",
+          "note": "A divisão tripartida das Escrituras Hebraicas: os cinco livros de Moisés, os livros proféticos e os restantes escritos."
+        },
+        {
+          "term": "O trigésimo oitavo ano de Evérgetes",
+          "original": "Greek: ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει ἐπὶ τοῦ Εὐεργέτου βασιλέως (en to ogdoo kai triakosto etei epi tou Euergetou basileos)",
+          "note": "As datas eram fixadas contando os anos desde a subida de um governante ao trono. Evérgetes, que significa benfeitor, era um título usado por reis gregos do Egito."
+        },
+        {
+          "term": "Os que vivem no estrangeiro",
+          "original": "Greek: ἐν τῇ παροικίᾳ (en te paroikia)",
+          "note": "Judeus estabelecidos fora da sua terra, aqui no Egito, que falavam e liam grego em vez de hebraico. A palavra significa residir como estrangeiro."
+        },
+        {
+          "term": "Ter vertido algumas expressões de modo imperfeito",
+          "original": "Greek: ἀδυναμεῖν (adynamein), literally to lack power",
+          "note": "O tradutor afirma que uma expressão hebraica perde força noutra língua. É uma observação prática sobre a tradução, não uma afirmação acerca do conteúdo."
+        }
+      ],
+      "keyTakeaway": "O tradutor louva a instrução dada a Israel pela Lei, pelos Profetas e pelos outros livros, afirma que o seu avô Jesus escreveu esta obra depois de os estudar durante muito tempo e pede indulgência para traduções imperfeitas. Ele chegou ao Egito no trigésimo oitavo ano de Evérgetes e traduziu ali o livro."
+    },
+    {
       "id": "sirach-1",
       "title": "📜 Eclesiástico (Sirácida) 1",
       "refs": [

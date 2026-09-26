@@ -1190,11 +1190,16 @@ object ScriptureRefs {
             return@let
           }
           val (resolvedVersion, resolvedUrl) = resolved
+          val selectedProviderVersion = Linker.selectedVersionForReader(
+            currentVersion = payload.translation,
+            readerMode = payload.readerMode,
+            appLanguage = payload.appLanguage
+          ) ?: payload.translation
 
-          if (isDc && !resolvedVersion.equals(payload.translation, ignoreCase = true)) {
+          if (isDc && !resolvedVersion.equals(selectedProviderVersion, ignoreCase = true)) {
             val intArgs = derivedInternalNavArgs(payload)
             dialog = SwapDialog(
-              currentVersion = payload.translation,
+              currentVersion = selectedProviderVersion,
               suggestVersion = resolvedVersion,
               fallbackUrl = resolvedUrl,
               internalCollection = intArgs.collection,

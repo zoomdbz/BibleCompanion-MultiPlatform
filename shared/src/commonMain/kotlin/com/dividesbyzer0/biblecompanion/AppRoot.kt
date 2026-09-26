@@ -277,7 +277,8 @@ fun AppRoot(
           val col = prefs.lastReadCollection
           val bookId = prefs.lastReadBookId
           if (col != null && bookId != null) {
-            nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId)) { launchSingleTop = true }
+            nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId,
+              sourceLang = prefs.lastReadSourceLanguage ?: "en")) { launchSingleTop = true }
           }
         }
       }
@@ -489,12 +490,13 @@ fun AppRoot(
           )
         }
         composable(
-          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}",
+          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}&sourceLang={sourceLang}",
           arguments = listOf(
             navArgument("storyId") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("verse") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("verseEnd") { type = NavType.StringType; nullable = true; defaultValue = null },
-            navArgument("autoStartTts") { type = NavType.StringType; nullable = true; defaultValue = null }
+            navArgument("autoStartTts") { type = NavType.StringType; nullable = true; defaultValue = null },
+            navArgument("sourceLang") { type = NavType.StringType; nullable = true; defaultValue = null }
           )
         ) { back ->
           val col = back.arguments?.getString("col") ?: return@composable
@@ -503,12 +505,14 @@ fun AppRoot(
           val verseArg = back.arguments?.getString("verse")?.toIntOrNull()
           val verseEndArg = back.arguments?.getString("verseEnd")?.toIntOrNull()
           val autoStartTtsArg = back.arguments?.getString("autoStartTts") == "true"
+          val sourceLangArg = back.arguments?.getString("sourceLang")
           BookScreen(
             col = col,
             bookId = bookId,
             prefs = prefs,
             repo = repo,
             initialStoryId = storyIdArg,
+            initialSourceLanguage = sourceLangArg,
             initialVerse = verseArg,
             initialVerseEnd = verseEndArg,
             autoStartTts = autoStartTtsArg,
@@ -1159,7 +1163,9 @@ fun HomeScreen(
           ElevatedCard(
             onClick = {
               if (!navBusy) safeNav {
-                onOpenBook(lastCol, lastBook, prefs.lastReadStoryId, null, null)
+                onOpenBook(lastCol, lastBook,
+                  resolveStoryIdAcrossLanguages(prefs.lastReadStoryId,
+                    prefs.lastReadSourceLanguage, prefs.appLanguage), null, null)
               }
             },
             modifier = Modifier.fillMaxWidth(),
@@ -1627,6 +1633,7 @@ fun BookScreen(
   prefs: PrefsState,
   repo: PrefsRepo,
   initialStoryId: String?,
+  initialSourceLanguage: String? = null,
   initialVerse: Int? = null,
   initialVerseEnd: Int? = null,
   autoStartTts: Boolean = false,
@@ -1649,6 +1656,7 @@ fun BookScreen(
   }
   val book = loadedBook?.book
   val activeEditionId = loadedBook?.effectiveEdition ?: BibleEditions.BSB
+  val effectiveLanguage = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
 
   val index = remember(book) { book?.let { ChapterLocator.build(it) } }
   val storyIndex = remember(book) {
@@ -1667,15 +1675,16 @@ fun BookScreen(
   // ChapterLocator as a backstop. The ids themselves stay put: bookmarks and
   // highlighted verses resolve by stored story id, and renaming them would
   // strand every one already on a reader's device.
-  val resolvedStoryId = remember(initialStoryId, storyIndex, book, index) {
-    val want = initialStoryId
+  val resolvedStoryId = remember(initialStoryId, initialSourceLanguage, effectiveLanguage, storyIndex, book, index) {
+    val want = resolveStoryIdAcrossLanguages(
+      initialStoryId, initialSourceLanguage ?: effectiveLanguage, effectiveLanguage
+    )
     if (want.isNullOrBlank() || want in storyIndex) {
       want
     } else {
       val chapter = want.substringAfterLast('-')
       book?.id?.let { "$it-$chapter" }?.takeIf { it in storyIndex }
         ?: chapter.toIntOrNull()?.let { index?.byChapter?.get(it) }
-        ?: want
     }
   }
 
@@ -1694,6 +1703,7 @@ fun BookScreen(
     col,
     bookId,
     initialStoryId,
+    initialSourceLanguage,
     initialVerse,
     initialVerseEnd
   ) { mutableStateOf(false) }
@@ -1722,12 +1732,16 @@ fun BookScreen(
     mutableStateOf(setOf<Pair<String, Int>>())
   }
 
-  val bookKey = "$col/$bookId"
-  var expandedStoryIds by remember(book, prefs.collapsedStoriesJson) {
+  val bookKey = "$effectiveLanguage/$col/$bookId"
+  val legacyBookKey = "$col/$bookId"
+  var expandedStoryIds by remember(book, prefs.collapsedStoriesJson, effectiveLanguage) {
     val allIds = book?.stories?.map { it.id }?.toSet() ?: emptySet()
     val collapsed = runCatching {
       val root = Json.parseToJsonElement(prefs.collapsedStoriesJson).jsonObject
-      root[bookKey]?.jsonArray?.map { it.jsonPrimitive.content }?.toSet() ?: emptySet()
+      val legacySafe = !(bookId == "psalms" && effectiveLanguage == "ru") &&
+        !(bookId == "malachi" && effectiveLanguage in setOf("de", "fr"))
+      (root[bookKey] ?: if (legacySafe) root[legacyBookKey] else null)
+        ?.jsonArray?.map { it.jsonPrimitive.content }?.toSet() ?: emptySet()
     }.getOrDefault(emptySet())
     mutableStateOf(allIds - collapsed)
   }
@@ -1803,7 +1817,9 @@ fun BookScreen(
     val introOffset = if (book.intro.isNotBlank()) 1 else 0
     listState.animateScrollToItem(storyIdx + introOffset)
 
-    val text = ttsBuildChapterText(story, prefs.appLanguage)
+    val text = ttsBuildChapterText(
+      story, prefs.appLanguage, prefs.divineName, prefs.divineNameColor != "default", col
+    )
 
     val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
     platformTtsStop(ctx)
@@ -1951,7 +1967,7 @@ fun BookScreen(
   // The restored list position is the authority for reading progress. Keeping
   // this in one writer avoids clearing lastReadStoryId during rotation before
   // the list observer has emitted its restored chapter.
-  LaunchedEffect(book, listState) {
+  LaunchedEffect(book, listState, effectiveLanguage) {
     if (book == null) return@LaunchedEffect
     val titlesMap = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
     val title = titlesMap[bookId] ?: book.title
@@ -1961,7 +1977,7 @@ fun BookScreen(
       .collectLatest { idx ->
         delay(500)
         val storyId = book.stories.getOrNull(idx - introOffset)?.id
-        repo.setLastRead(col, bookId, title, storyId)
+        repo.setLastRead(col, bookId, title, storyId, effectiveLanguage)
       }
   }
 
@@ -1969,15 +1985,25 @@ fun BookScreen(
   val bookmarks by repo.bookmarksFlow.collectAsState(initial = emptyList())
   val savedVerses by repo.savedVersesFlow.collectAsState(initial = emptyList())
   val labels by repo.labelsFlow.collectAsState(initial = emptyList())
-  val bookmarkedStoryIds = remember(bookmarks, col, bookId) {
-    bookmarks.filter { it.collection == col && it.bookId == bookId }.map { it.storyId }.toSet()
+  val bookmarkedStoryIds = remember(bookmarks, col, bookId, effectiveLanguage) {
+    bookmarks
+      .filter { it.collection == col && it.bookId == bookId }
+      .flatMap { bookmark ->
+        val sourceLanguage = bookmark.sourceLanguage?.let(LocaleUtils::effectiveAssetTag)
+        when {
+          sourceLanguage == null -> canonicalStoryIdsToNative(bookmark.storyId, effectiveLanguage)
+          sourceLanguage == effectiveLanguage -> listOf(bookmark.storyId)
+          else -> emptyList()
+        }
+      }
+      .toSet()
   }
   // Saved verses use chapter/verse anchors when available. KJV and BSB can
   // assign different bullet indexes when one edition includes a verse that the
   // other places in a footnote, so bulletIndex alone is not a stable identity.
-  val savedVerseRecords = remember(savedVerses, col, bookId, book) {
+  val savedVerseRecords = remember(savedVerses, col, bookId, book, effectiveLanguage) {
     if (book == null) emptyMap()
-    else mapSavedVersesToCurrentBook(book, savedVerses, col, bookId)
+    else mapSavedVersesToCurrentBook(book, savedVerses, col, bookId, effectiveLanguage)
   }
   val savedVerseMap = remember(savedVerseRecords) {
     savedVerseRecords.mapValues { (_, byIndex) ->
@@ -2164,14 +2190,7 @@ fun BookScreen(
                       val fallbackKey = if (exact == null) byChapter.keys.filter { it <= selCh }.maxOrNull() else null
                       val chStoryId = exact ?: (fallbackKey?.let { byChapter[it] })
                       val chStory = chStoryId?.let { sid -> book?.stories?.find { it.id == sid } }
-                      val verseNums = chStory?.summaryBullets?.mapNotNull { bullet ->
-                        // trailing marker, not the first "d:d" in the text (see heading lookup)
-                        verseRefPattern.findAll(bullet).lastOrNull()?.let { m ->
-                          val ch = m.groupValues[1].toIntOrNull()
-                          val v = m.groupValues[2].toIntOrNull()
-                          if (ch == selCh && v != null) v else null
-                        }
-                      }?.distinct()?.sorted() ?: emptyList()
+                      val verseNums = versePickerNumbers(chStory?.summaryBullets.orEmpty(), selCh)
                       for (v in verseNums) {
                         ElevatedButton(
                           onClick = {
@@ -2365,8 +2384,9 @@ fun BookScreen(
                       val root = runCatching {
                         Json.parseToJsonElement(prefs.collapsedStoriesJson).jsonObject.toMutableMap()
                       }.getOrDefault(mutableMapOf())
-                      if (collapsed.isEmpty()) root.remove(bookKey)
-                      else root[bookKey] = JsonArray(collapsed.map { JsonPrimitive(it) })
+                      // Keep an explicit empty array so an old unscoped value
+                      // cannot reappear when every chapter is expanded.
+                      root[bookKey] = JsonArray(collapsed.map { JsonPrimitive(it) })
                       repo.setCollapsedStories(JsonObject(root).toString())
                     }
                   },
@@ -2374,14 +2394,23 @@ fun BookScreen(
                     doHaptic()
                     scope.launch {
                       if (story.id in bookmarkedStoryIds) {
-                        val prior = bookmarks.firstOrNull {
-                          it.collection == col && it.bookId == bookId && it.storyId == story.id
+                        val prior = bookmarks.filter {
+                          if (it.collection != col || it.bookId != bookId) return@filter false
+                          val sourceLanguage = it.sourceLanguage?.let(LocaleUtils::effectiveAssetTag)
+                          when {
+                            sourceLanguage == null ->
+                              story.id in canonicalStoryIdsToNative(it.storyId, effectiveLanguage)
+                            sourceLanguage == effectiveLanguage -> it.storyId == story.id
+                            else -> false
+                          }
                         }
-                        repo.removeBookmark(col, bookId, story.id)
-                        if (prior != null) {
+                        prior.forEach {
+                          repo.removeBookmark(it.collection, it.bookId, it.storyId, it.sourceLanguage)
+                        }
+                        if (prior.isNotEmpty()) {
                           scope.launch {
                             showUndo(bookmarkRemovedMsg, undoActionLabel) {
-                              repo.addBookmark(prior)
+                              prior.forEach { repo.addBookmark(it) }
                             }
                           }
                         }
@@ -2395,7 +2424,8 @@ fun BookScreen(
                           snippet = story.summaryBullets.firstOrNull()
                             ?.let(::stripScriptureInlineTags)
                             ?.take(80) ?: "",
-                          timestamp = currentTimeMillis()
+                          timestamp = currentTimeMillis(),
+                          sourceLanguage = effectiveLanguage
                         ))
                       }
                     }
@@ -2569,7 +2599,8 @@ fun BookScreen(
                               story = story,
                               bulletIndex = idx,
                               bulletText = bulletText,
-                              editionId = activeEditionId
+                              editionId = activeEditionId,
+                              sourceLanguage = effectiveLanguage
                             )
                           )
                         }
@@ -2625,6 +2656,7 @@ fun BookScreen(
                                     bulletIndex = idx,
                                     bulletText = bulletText,
                                     editionId = activeEditionId,
+                                    sourceLanguage = effectiveLanguage,
                                     highlightColor = hlKey
                                   )
                                 )
@@ -2698,7 +2730,8 @@ fun BookScreen(
                                   story = story,
                                   bulletIndex = idx,
                                   bulletText = bulletText,
-                                  editionId = activeEditionId
+                                  editionId = activeEditionId,
+                                  sourceLanguage = effectiveLanguage
                                 ).also { repo.addSavedVerse(it) }
                                 repo.addLabelToVerse(saved, lbl.id)
                               }
@@ -2944,7 +2977,8 @@ fun StoryCard(
         prefs.appLanguage
       )?.second
     }
-    val deepLink = "biblecompanion://open?col=$col&book=$bookId&story=${story.id}"
+    val deepLink = "biblecompanion://open?col=$col&book=$bookId&story=${story.id}" +
+      "&sourceLang=${LocaleUtils.effectiveAssetTag(prefs.appLanguage)}"
     val links = listOfNotNull(url, deepLink).joinToString("\n")
     "$plain\n\n$links"
   }
@@ -3443,11 +3477,18 @@ private fun mapSavedVersesToCurrentBook(
   book: Book,
   savedVerses: List<SavedVerse>,
   collection: String,
-  bookId: String
+  bookId: String,
+  currentLanguage: String
 ): Map<String, Map<Int, SavedVerse>> {
   val stories = book.stories.associateBy { it.id }
+  val legacyNumberingIsSafe = !(bookId == "psalms" && currentLanguage == "ru") &&
+    !(bookId == "malachi" && currentLanguage in setOf("de", "fr"))
   return savedVerses
-    .filter { it.collection == collection && it.bookId == bookId }
+    .filter {
+      if (it.collection != collection || it.bookId != bookId) return@filter false
+      val sourceLanguage = it.sourceLanguage?.let(LocaleUtils::effectiveAssetTag)
+      sourceLanguage == currentLanguage || (sourceLanguage == null && legacyNumberingIsSafe)
+    }
     .groupBy { it.storyId }
     .mapValues { (storyId, savedForStory) ->
       val story = stories[storyId]
@@ -3479,6 +3520,7 @@ private fun makeSavedVerse(
   bulletIndex: Int,
   bulletText: String,
   editionId: String,
+  sourceLanguage: String,
   highlightColor: String? = null
 ): SavedVerse {
   val anchor = verseAnchorFromText(bulletText)
@@ -3491,6 +3533,7 @@ private fun makeSavedVerse(
     verseStart = anchor?.verseStart,
     verseEnd = anchor?.verseEnd,
     editionId = editionId,
+    sourceLanguage = sourceLanguage,
     text = bulletText,
     ref = story.refs.firstOrNull() ?: "",
     highlightColor = highlightColor,
@@ -3501,6 +3544,7 @@ private fun makeSavedVerse(
 private fun savedVerseUiKey(saved: SavedVerse): String = buildString {
   append(saved.collection).append('/')
   append(saved.bookId).append('/')
+  append(saved.sourceLanguage ?: "en").append('/')
   append(saved.storyId).append('/')
   append(saved.chapter ?: "legacy").append('/')
   append(saved.verseStart ?: saved.bulletIndex).append('/')
@@ -3532,7 +3576,7 @@ private fun wrapVotdQuotes(text: String): String {
   }
 }
 
-private fun findBulletsForVerseRange(bullets: List<String>, startVerse: Int, endVerse: Int): Set<Int> {
+internal fun findBulletsForVerseRange(bullets: List<String>, startVerse: Int, endVerse: Int): Set<Int> {
   val out = linkedSetOf<Int>()
   for ((idx, bullet) in bullets.withIndex()) {
     for (match in verseRefPattern.findAll(bullet)) {
@@ -3547,41 +3591,32 @@ private fun findBulletsForVerseRange(bullets: List<String>, startVerse: Int, end
   return out
 }
 
-private data class SelectedContent(val text: String, val primaryRef: String?)
+internal data class SelectedContent(val text: String, val primaryRef: String?)
 
 // Build the text + ref that represent ONLY the selected bullets.
-//  - The header on each story's block is the specific verse-range reference
-//    (e.g. "Matthew 28:18-19"), not the full chapter reference.
-//  - primaryRef is the first story's specific reference, used to construct
-//    a share URL that jumps straight to the selected verses.
+//  - The header on each story's block is the exact selected verse reference
+//    (e.g. "John 3:16,18"), not an enclosing span that adds unselected verses.
+//  - primaryRef is the first story's exact reference; providers that cannot
+//    encode verse lists fall back to a chapter URL.
 //  - Falls back to the chapter reference / story title if the selected
 //    bullets contain no parseable verse numbers.
-private fun buildSelectedContent(book: Book, selected: Set<Pair<String, Int>>): SelectedContent {
+internal fun buildSelectedContent(book: Book, selected: Set<Pair<String, Int>>): SelectedContent {
   val grouped = selected.groupBy({ it.first }, { it.second }).mapValues { it.value.sorted() }
   val sb = StringBuilder()
   var primaryRef: String? = null
-  val chapterRefTail = Regex(":\\s*\\d+(?:\\s*-\\s*\\d+)?\\s*$")
+  val chapterRefTail = Regex("\\s+\\d+(?::.*)?$")
 
   for ((storyId, indices) in grouped) {
     val story = book.stories.find { it.id == storyId } ?: continue
 
-    val verses = mutableListOf<Int>()
-    for (idx in indices) {
-      val bullet = story.summaryBullets.getOrNull(idx) ?: continue
-      for (m in verseRefPattern.findAll(bullet)) {
-        val s = m.groupValues[2].toIntOrNull() ?: continue
-        val e = m.groupValues[3].toIntOrNull() ?: s
-        verses += s
-        verses += e
-      }
+    val anchors = indices.mapNotNull { idx ->
+      story.summaryBullets.getOrNull(idx)?.let(::verseAnchorFromText)
     }
-    val minV = verses.minOrNull()
-    val maxV = verses.maxOrNull()
-
     val chapterRef = story.refs.firstOrNull()
-    val specificRef = if (chapterRef != null && minV != null && maxV != null) {
-      val bookAndChapter = chapterRef.replace(chapterRefTail, "")
-      if (minV == maxV) "$bookAndChapter:$minV" else "$bookAndChapter:$minV-$maxV"
+    val bookName = chapterRef?.replace(chapterRefTail, "")
+    val exactTail = if (anchors.size == indices.size) compactSelectedVerseTail(anchors) else null
+    val specificRef = if (!bookName.isNullOrBlank() && bookName != chapterRef && exactTail != null) {
+      "$bookName $exactTail"
     } else chapterRef
 
     if (primaryRef == null) primaryRef = specificRef
@@ -3727,15 +3762,16 @@ fun SavedItemsScreen(
             ) {
               items(
                 items = displayBookmarks,
-                key = { "${it.collection}/${it.bookId}/${it.storyId}" }
+                key = { "${it.collection}/${it.bookId}/${it.sourceLanguage ?: "en"}/${it.storyId}" }
               ) { bm ->
-                ReorderableItem(reorderState, key = "${bm.collection}/${bm.bookId}/${bm.storyId}") { isDragging ->
+                ReorderableItem(reorderState, key = "${bm.collection}/${bm.bookId}/${bm.sourceLanguage ?: "en"}/${bm.storyId}") { isDragging ->
                   val bmColor = if (bm.collection == "old_testament" || bm.collection == "pseudepigrapha")
                     MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.error
                   val elevation = if (isDragging) 8.dp else 0.dp
                   Card(
                     modifier = Modifier.fillMaxWidth().clickable {
-                      onOpenBook(bm.collection, bm.bookId, bm.storyId)
+                      onOpenBook(bm.collection, bm.bookId,
+                        resolveStoryIdAcrossLanguages(bm.storyId, bm.sourceLanguage, prefs.appLanguage))
                     },
                     elevation = CardDefaults.cardElevation(defaultElevation = elevation)
                   ) {
@@ -3781,7 +3817,7 @@ fun SavedItemsScreen(
                         )
                       }
                       IconButton(onClick = {
-                        scope.launch { repo.removeBookmark(bm.collection, bm.bookId, bm.storyId) }
+                        scope.launch { repo.removeBookmark(bm.collection, bm.bookId, bm.storyId, bm.sourceLanguage) }
                       }) {
                         Icon(
                           Icons.Filled.Close,
@@ -3864,7 +3900,8 @@ fun SavedItemsScreen(
                   val elevation = if (isDragging) 8.dp else 0.dp
                   Card(
                     modifier = Modifier.fillMaxWidth().clickable {
-                      onOpenBook(sv.collection, sv.bookId, sv.storyId)
+                      onOpenBook(sv.collection, sv.bookId,
+                        resolveStoryIdAcrossLanguages(sv.storyId, sv.sourceLanguage, prefs.appLanguage))
                     },
                     elevation = CardDefaults.cardElevation(defaultElevation = elevation)
                   ) {
@@ -3893,7 +3930,8 @@ fun SavedItemsScreen(
                           defaultBook = sv.bookId,
                           allowRelativeInParensOnly = true,
                           textStyle = MaterialTheme.typography.bodyMedium,
-                          onNonLinkClick = { onOpenBook(sv.collection, sv.bookId, sv.storyId) }
+                          onNonLinkClick = { onOpenBook(sv.collection, sv.bookId,
+                            resolveStoryIdAcrossLanguages(sv.storyId, sv.sourceLanguage, prefs.appLanguage)) }
                         )
                         Spacer(Modifier.height(4.dp))
                         Text(
@@ -3998,7 +4036,8 @@ fun SavedItemsScreen(
                           Row(
                             Modifier
                               .fillMaxWidth()
-                              .clickable { onOpenBook(sv.collection, sv.bookId, sv.storyId) }
+                              .clickable { onOpenBook(sv.collection, sv.bookId,
+                                resolveStoryIdAcrossLanguages(sv.storyId, sv.sourceLanguage, prefs.appLanguage)) }
                               .padding(vertical = 4.dp),
                             verticalAlignment = Alignment.CenterVertically
                           ) {
@@ -4143,8 +4182,18 @@ private val trailingVerseRefPattern = Regex(
   """\s*\(\s*\d+\s*:\s*\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+\s*:\s*\d+(?:\s*[-–]\s*\d+)?)*\s*\)\s*\.?\s*$"""
 )
 
-private fun ttsCleanBullet(bullet: String): String {
-  val stripped = stripScriptureInlineTags(bullet).replace(trailingVerseRefPattern, "")
+internal fun ttsCleanBullet(
+  bullet: String,
+  divineNameMode: String,
+  appLanguageTag: String,
+  divineNameColorActive: Boolean,
+  collection: String
+): String {
+  val prepared = applyDivineName(
+    bullet, divineNameMode, LocaleUtils.effectiveAssetTag(appLanguageTag),
+    divineNameColorActive, collection
+  )
+  val stripped = stripScriptureInlineTags(prepared).replace(trailingVerseRefPattern, "")
   val core = stripped.trimEnd(',', ';', ' ', '.', '—', '–', '-', '\t', ' ')
   return when {
     core.isEmpty() -> ""
@@ -4210,11 +4259,19 @@ private fun ttsTransformTitle(rawTitle: String, appLanguageTag: String): String 
   return stripped
 }
 
-private fun ttsBuildChapterText(story: Story, appLanguageTag: String): String = buildString {
+private fun ttsBuildChapterText(
+  story: Story,
+  appLanguageTag: String,
+  divineNameMode: String,
+  divineNameColorActive: Boolean,
+  collection: String
+): String = buildString {
   append(ttsTransformTitle(story.title, appLanguageTag))
   append(". ")
   story.summaryBullets.forEach { bullet ->
-    val cleaned = ttsCleanBullet(bullet)
+    val cleaned = ttsCleanBullet(
+      bullet, divineNameMode, appLanguageTag, divineNameColorActive, collection
+    )
     if (cleaned.isNotBlank()) {
       append(cleaned)
       append(' ')
@@ -4297,14 +4354,14 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       "NVS78P","OST","THU","TFM","NEG","SACY"
     ),
     "it" to listOf(
-      "NR2006","NR1994","IRB20","DB1885","ICL00P","ICL00D","RDV24"
+      "NR06","NR94","IRB20","DB1885","ICL00P","ICL00D","RDV24"
     ),
     "ru" to listOf(
       "RST","SYNO","NRT",
       "DROT","CSLAV","BTI","CARS","CARSA","CARST","CASS70","RSP","CAROS","ROT","RU167"
     ),
     "pt" to listOf(
-      "NVI-PT","ARA","ARC","NVT","NAA","NTLH","A21","BLT","ONBV","VFL","NBV-P","MZNVI","RC60DO","TB","BPT09DC","AVM"
+      "NVI-PT","ARA","ARC","NVT","NAA","NTLH","A21","BLT","VFL","NBV-P","MZNVI","TB","BPT09DC","AVM"
     ),
     "de" to listOf(
       "LUT","ELB","SCH2000","GANTP","BIBELHEUTE","SCH1951","ELB71","ELBBK",
@@ -4326,7 +4383,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       "HERV","HSS","IRVHIN","HSB","HINCLBSI","HINOVBSI","HHBD"
     ),
     "ar" to listOf(
-      "SAB","QNAV","AVDDV","FAOV","GOV","AR1665"
+      "SAB","QNAV","AVDDV","FAOV","GOV","GNADC25"
     )
   )
 
@@ -4701,7 +4758,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                       }
                     } else {
                       if (current !in bgList) {
-                        repo.setVersion(bgList.first())
+                        repo.setVersion(Linker.defaultGatewayVersionForLanguage(eff))
                       }
                     }
                   }
@@ -4732,7 +4789,6 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       }
 
       val isInternal = prefs.readerMode == "internal"
-      val isEnglishAssets = LocaleUtils.effectiveAssetTag(prefs.appLanguage) == "en"
       val versionChoices = if (isInternal) emptyList()
         else if (prefs.readerMode == "biblecom")
           (versionsByLang[languageKey] ?: versionsByLang["en"].orEmpty())
@@ -4763,7 +4819,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                     val list = if (mode == "biblecom") versionsByLang[lk] ?: versionsByLang["en"].orEmpty()
                                else bgVersionsByLang[lk] ?: bgVersionsByLang["en"].orEmpty()
                     if (prefs.translation !in list) {
-                      repo.setVersion(if (mode == "biblecom") Linker.defaultVersionForLanguage(eff) else list.first())
+                      repo.setVersion(
+                        if (mode == "biblecom") Linker.defaultVersionForLanguage(eff)
+                        else Linker.defaultGatewayVersionForLanguage(eff)
+                      )
                     }
                   }
                 }
@@ -4774,7 +4833,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         }
       }
 
-      AnimatedVisibility(visible = isInternal && isEnglishAssets) {
+      AnimatedVisibility(visible = isInternal) {
         Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
           Spacer(Modifier.height(4.dp))
           Text(
@@ -4787,13 +4846,18 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
             color = MaterialTheme.colorScheme.onSurfaceVariant
           )
           var internalVersionExpanded by remember { mutableStateOf(false) }
-          val internalChoices = listOf(
-            BibleEditions.BSB to stringResource(Res.string.version_bsb),
-            BibleEditions.KJV_1769 to stringResource(Res.string.version_kjv)
-          )
+          val defaultInternalEdition = BibleEditions.defaultForLanguage(prefs.appLanguage)
+          val internalChoices = BibleEditions.available(prefs.appLanguage).map { id ->
+            id to when (id) {
+              BibleEditions.BSB -> stringResource(Res.string.version_bsb)
+              BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
+              defaultInternalEdition -> stringResource(Res.string.version_local_modern)
+              else -> id.uppercase() // A future edition still has a distinct label until localized.
+            }
+          }
           val selectedInternalLabel = internalChoices
-            .firstOrNull { it.first == BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion) }
-            ?.second ?: stringResource(Res.string.version_bsb)
+            .firstOrNull { it.first == BibleEditions.selectedForLanguage(prefs.appLanguage, prefs.internalBibleVersion) }
+            ?.second ?: internalChoices.first().second
           Box {
             OutlinedButton(
               onClick = { internalVersionExpanded = true },
@@ -4841,9 +4905,14 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
           }
 
           var verExpanded by remember { mutableStateOf(false) }
+          val selectedExternalVersion = Linker.selectedVersionForReader(
+            currentVersion = prefs.translation,
+            readerMode = prefs.readerMode,
+            appLanguage = prefs.appLanguage
+          ) ?: prefs.translation
           Box {
             OutlinedButton(onClick = { verExpanded = true }, modifier = Modifier.fillMaxWidth()) {
-              Text(prefs.translation, maxLines = 1, overflow = TextOverflow.Ellipsis)
+              Text(selectedExternalVersion, maxLines = 1, overflow = TextOverflow.Ellipsis)
             }
             DropdownMenu(expanded = verExpanded, onDismissRequest = { verExpanded = false }) {
               versionChoices.forEach { v ->

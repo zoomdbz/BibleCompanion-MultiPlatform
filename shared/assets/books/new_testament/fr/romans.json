@@ -1101,7 +1101,7 @@
         "Le Dieu de la paix écrasera bientôt le Satan sous vos pieds. Que la grâce de notre Seigneur Jésus soit avec vous ! (16:20).",
         "Timothée, mon collaborateur, vous salue, ainsi que Lucius, Jason et Sosipater, qui sont de ma parenté. (16:21).",
         "Je vous salue, moi, Tertius, qui ai écrit cette lettre, dans le Seigneur. (16:22).",
-        "Gaïos, mon hôte et celui de toute l'Eglise, vous salue. Eraste, l'intendant de la ville, vous salue, ainsi que le frère Quartus. [ (16:23).",
+        "Gaïos, mon hôte et celui de toute l'Eglise, vous salue. Eraste, l'intendant de la ville, vous salue, ainsi que le frère Quartus. (16:23).",
         "A celui qui a le pouvoir de vous affermir selon ma bonne nouvelle et la proclamation de Jésus-Christ – conformément à la révélation du mystère qui était tenu secret depuis toujours, (16:25).",
         "mais qui s'est maintenant manifesté par les Ecritures prophétiques, d'après l'ordre du Dieu éternel, et qui a été porté à la connaissance de toutes les nations en vue de l'obéissance de la foi – (16:26).",
         "à Dieu, seul sage, la gloire, par Jésus-Christ, pour toujours ! Amen ! (16:27)."
@@ -1112,16 +1112,6 @@
         "Philippiens 4:3: Des compagnons d'œuvre dont les noms sont dans le livre de vie.",
         "Genèse 3:15: Dieu écrasera la tête du serpent.",
         "Colossiens 1:26: Un mystère caché depuis des siècles et maintenant révélé."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "16:24",
-          "text": "Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous! Amen!"
-        },
-        {
-          "ref": "Romans 16:24",
-          "text": "Certains manuscrits tardifs ajoutent ici un verset 24 : « Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous. Amen. » Ce verset est absent du papyrus 46, le plus ancien exemplaire conservé des lettres de Paul, ainsi que des codex Sinaiticus, Alexandrinus, Vaticanus et Ephraemi. La même bénédiction figure déjà à la fin du verset 20 ; les copistes l'ont répétée après les salutations afin que la lettre se termine de la manière habituelle des lettres de Paul."
-        }
       ],
       "translationNotes": [
         {
@@ -1159,6 +1149,12 @@
         {
           "beforeVerse": 1,
           "text": "Recommandations, salutations et vœux"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "LSG Romans 16:24",
+          "text": "Que la grâce de notre Seigneur Jésus Christ soit avec vous tous! Amen!"
         }
       ]
     }

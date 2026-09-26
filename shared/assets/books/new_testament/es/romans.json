@@ -1140,16 +1140,6 @@
         "Génesis 3:15: Dios aplastará la cabeza de la serpiente.",
         "Colosenses 1:26: Misterio escondido por siglos pero ahora revelado."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "16:24",
-          "text": "La gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén."
-        },
-        {
-          "ref": "Romans 16:24",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 24: \"La gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén\". Falta en el Papiro 46, la copia más antigua que sobrevive de las cartas de Pablo, y en los códices Sinaítico, Alejandrino, Vaticano y Efraimítico. Esa misma bendición ya está al final del versículo 20; los copistas la repitieron después de los saludos para que la carta cerrara como suelen cerrar las cartas de Pablo."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Sierva",
@@ -1190,6 +1180,12 @@
         {
           "beforeVerse": 25,
           "text": "Doxología final"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Romans 16:24",
+          "text": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
         }
       ]
     }

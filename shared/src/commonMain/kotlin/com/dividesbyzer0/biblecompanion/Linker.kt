@@ -32,7 +32,7 @@ object Linker {
     "DHHDK" to 1845, "DHHS94" to 1846, "GLOSSSP" to 4212, "BHTI" to 222, "PDT" to 197,
     "BLP" to 28, "BLPH" to 28, "TLA" to 176, "TLAI" to 178,
     // French
-    "LSG" to 93, "NEG1979" to 31, "BDS" to 21, "BFC" to 63, "PDV2017" to 133,
+    "LSG" to 93, "NEG1979" to 106, "BDS" to 21, "BFC" to 63, "PDV2017" to 133,
     "NFC" to 2367, "BCC1923" to 504, "JND" to 64, "BEX2004" to 3286, "S21" to 152, "SG21" to 152,
     "FMAR" to 62, "NBS" to 104, "NEG79" to 106, "NVS78P" to 2053, "OST" to 131,
     "THU" to 3547, "TFM" to 3447, "NEG" to 3877, "SACY" to 2599,
@@ -45,9 +45,9 @@ object Linker {
     "SYNO" to 400, "ROT" to 3764, "RU167" to 167, "NRT" to 143,
     // Portuguese
     "NVI-PT" to 129, "NBV-P" to 1966,
-    "ARA" to 1608, "ARC" to 212, "A21" to 2645, "BLT" to 3254, "ONBV" to 4272,
+    "ARA" to 1608, "ARC" to 212, "A21" to 2645, "BLT" to 3254,
     "NVT" to 1930, "VFL" to 200, "NAA" to 1840, "NTLH" to 211,
-    "MZNVI" to 4094, "RC60DO" to 3658, "TB" to 277, "BPT09DC" to 228, "AVM" to 4542,
+    "MZNVI" to 4094, "TB" to 277, "BPT09DC" to 228, "AVM" to 4542,
     // German
     "LUT" to 3100, "ELB" to 57, "SCH2000" to 157, "GANTP" to 65, "BIBELHEUTE" to 877,
     "SCH1951" to 158, "ELB71" to 58, "ELBBK" to 2351, "HFA" to 73, "LUTHEUTE" to 3100,
@@ -66,15 +66,91 @@ object Linker {
     "HINCLBSI" to 1682, "HINOVBSI" to 1683, "HSS" to 1628,
     // Arabic
     "QNAV" to 3901, "SAB" to 153, "AVDDV" to 14, "FAOV" to 2301, "GOV" to 3513,
-    "ASVD" to 192, "AR1665" to 1665
+    "ASVD" to 192, "GNADC25" to 1665
   )
 
-  private fun youVersionIdFor(code: String): Int? =
-    youVersionIdByCode[code.uppercase()]
+  private fun canonicalYouVersionCode(code: String): String = when (code.trim().uppercase()) {
+    "NR2006" -> "NR06"
+    "NR1994" -> "NR94"
+    else -> code.trim().uppercase()
+  }
 
-  fun defaultVersionForLanguage(appLanguage: String): String {
-    val key = langKey(appLanguage)
-    return candidatesByLang[key]?.firstOrNull() ?: "ESV"
+  private fun youVersionIdFor(code: String): Int? =
+    youVersionIdByCode[canonicalYouVersionCode(code)]
+
+  // These are Bible.com editions, not internal asset versions or BibleGateway
+  // codes. Keep the defaults modern even when an older edition is offered.
+  private val bibleComDefaultByLang = mapOf(
+    "en" to "BSB", "de" to "SCH2000", "es" to "NVI", "fr" to "NBS",
+    "it" to "NR06", "pt" to "NVT", "ru" to "NRT", "ja" to "JCB",
+    "ko" to "RNKSV", "zh-hans" to "CCB", "zh-hant" to "RCUV",
+    "ar" to "SAB", "hi" to "IRVHIN"
+  )
+
+  fun defaultVersionForLanguage(appLanguage: String): String =
+    bibleComDefaultByLang[langKey(appLanguage)] ?: "BSB"
+
+  // BibleGateway does not carry every Bible.com edition. These are editions
+  // from its own catalog, not aliases claiming identical text. In particular,
+  // JLB/JCB, KLB/RNKSV, NAV/SAB, ERV-HI/IRVHIN, and SG21/NBS are structural
+  // comparators only. Their verses can differ even when the reference matches.
+  private val bibleGatewayDefaultByLang = mapOf(
+    "en" to "NIV", "de" to "SCH2000", "es" to "NVI", "fr" to "SG21",
+    "it" to "NR2006", "pt" to "NVT", "ru" to "NRT", "ja" to "JLB",
+    "ko" to "KLB", "zh-hans" to "CCB", "zh-hant" to "RCU17TS",
+    "ar" to "NAV", "hi" to "ERV-HI"
+  )
+
+  fun defaultGatewayVersionForLanguage(appLanguage: String): String =
+    bibleGatewayDefaultByLang[langKey(appLanguage)] ?: "NIV"
+
+  /** The edition code the selected provider will actually receive. */
+  fun selectedVersionForReader(
+    currentVersion: String,
+    readerMode: String,
+    appLanguage: String
+  ): String? = when (readerMode.trim().lowercase()) {
+    "biblegateway" -> bibleGatewayVersionFor(currentVersion, appLanguage)
+    "biblecom" -> canonicalYouVersionCode(currentVersion)
+      .takeIf { youVersionIdFor(it) != null }
+      ?: defaultVersionForLanguage(appLanguage)
+    else -> null
+  }
+
+  // This catalog is deliberately independent of YouVersion's numeric IDs.
+  // Codes used by both sites still designate a selection on that site, never
+  // an assertion that the providers serve byte-identical editions.
+  private val bibleGatewayCodesByLang: Map<String, Set<String>> = mapOf(
+    "en" to "NIV ESV NRSVUE KJV NKJV NASB NLT CSB NASB1995 NIRV NIVUK NRSVA NRSVACE NRSVCE ESVUK CSBA AMP AMPC AKJV KJ21 ASV CEB CEV CJB DARBY DLNT DRA EASY ERV EHV EXB GW GNT GNV HCSB ICB ISV JUB LSB LEB TLB MEV MSG MOUNCE NABRE NCB NCV NET NLV NMB NOG NTFE OJB PHILLIPS RGT RSV RSVCE TLV VOICE WEB WE WYC YLT BRG".split(' ').toSet(),
+    "es" to "NVI RVR1960 RVR1995 LBLA NBLA NTV DHH NBV CST PDT BLP BLPH RVA RVA-2015 RVC RVR1977 JBS SRV-BRG TLA".split(' ').toSet(),
+    "fr" to "LSG BDS SG21 NEG1979".split(' ').toSet(),
+    "it" to "CEI NR2006 NR1994 LND BDG".split(' ').toSet(),
+    "pt" to "NVI-PT NVT ARC NTLH OL VFL".split(' ').toSet(),
+    "de" to "HOF SCH2000 LUTH1545 SCH1951 NGU-DE".split(' ').toSet(),
+    "ru" to "NRT RUSV CARS CARST CARSA ERV-RU".split(' ').toSet(),
+    "zh-hans" to "CUVS CCB CNVS CSBS CUVMPS ERV-ZH RCU17SS".split(' ').toSet(),
+    "zh-hant" to "CUV CCBT CNVT CSBT CUVMPT RCU17TS".split(' ').toSet(),
+    "ja" to "JLB JERV".split(' ').toSet(),
+    "ko" to "KLB KOERV".split(' ').toSet(),
+    "hi" to "ERV-HI SHB".split(' ').toSet(),
+    "ar" to "NAV ERV-AR".split(' ').toSet()
+  )
+
+  private val bibleGatewayAliasByYouVersionCode = mapOf(
+    "NR06" to "NR2006", "NR94" to "NR1994",
+    "S21" to "SG21", "NEG79" to "NEG1979",
+    "CCB_T" to "CCBT", "RCUV" to "RCU17TS", "RCUVSS" to "RCU17SS",
+    "KJVAE" to "KJV", "KJVAAE" to "KJV"
+  )
+
+  private fun bibleGatewayVersionFor(code: String, appLanguage: String): String {
+    val lang = langKey(appLanguage)
+    val available = bibleGatewayCodesByLang[lang].orEmpty()
+    val normalized = code.trim().uppercase()
+    if (normalized in available) return normalized
+    val alias = bibleGatewayAliasByYouVersionCode[normalized]
+    if (alias != null && alias in available) return alias
+    return defaultGatewayVersionForLanguage(lang)
   }
 
   private fun normalizeRefInput(ref: String): String {
@@ -88,14 +164,36 @@ object Linker {
   fun buildBibleGatewayUrl(queryRef: String, versionCode: String): String {
     val normalized = normalizeRefInput(queryRef)
     val parsed = parseRef(normalized)
-    val rebuilt = if (parsed != null) "${parsed.first} ${parsed.second}" else normalized
+    val rebuilt = if (parsed != null) {
+      val (book, tail) = parsed
+      val gatewayGreekEstherChapter = if (
+        isIntegratedGreekEstherName(book) &&
+        versionCode.trim().uppercase() in setOf("NRSVUE", "NRSVA")
+      ) {
+        firstChapterOf(tail).toIntOrNull()
+          ?.let { gatewayGreekEstherChapterBySegment.getOrNull(it - 1) }
+      } else null
+      // Gateway indexes these additions under its own book names. YouVersion's
+      // ESG/S3Y route names must never be used as Gateway search references.
+      val gatewayBook = when (toYouVersionBookCode(book)) {
+        "ESG" -> if (book.equals("Additions to Esther", ignoreCase = true))
+          "Additions to Esther" else "Greek Esther"
+        "S3Y" -> "Prayer of Azariah"
+        else -> book
+      }
+      // YouVersion splits the integrated Greek Esther into 21 segments;
+      // Gateway has ten chapters. The matching chapter is verified, but the
+      // verse offset is not uniform, so a chapter link is the honest target.
+      if (gatewayGreekEstherChapter != null) "Greek Esther $gatewayGreekEstherChapter"
+      else "$gatewayBook $tail"
+    } else normalized
     val q = urlEncode(rebuilt)
     val v = urlEncode(versionCode)
     return "https://www.biblegateway.com/passage/?search=$q&version=$v"
   }
 
   fun buildBibleComUrl(ref: String, versionCode: String): String? {
-    val vCode = versionCode.trim().uppercase()
+    val vCode = canonicalYouVersionCode(versionCode)
     val id = youVersionIdFor(vCode) ?: return null
     val parsed = parseRef(normalizeRefInput(ref)) ?: return null
     val (bookName, restRaw) = parsed
@@ -107,9 +205,19 @@ object Linker {
 
     if (bookCode in dcBooks) {
       if (vCode == "KJV") return null
+      if (bookCode == "ESG" && isOutOfBoundsIntegratedGreekEsther(bookName, rest)) return null
       if (vCode == "KJVAAE") {
         return buildKjvaaBibleComUrl(bookName, bookCode, rest, id)
       }
+      if (bookCode == "ESG" && vCode in setOf("BFC", "DHH94I")) {
+        return buildIntegratedGreekEstherUrl(bookName, rest, vCode, id)
+      }
+    }
+
+    // BFC and DHH94I expose the Greek translator's prologue at SIR.1 and
+    // canonical Sirach chapter 1 at SIR.1_1.
+    if (bookCode == "SIR" && chapter == "1" && vCode in setOf("BFC", "DHH94I")) {
+      chapter = "1_1"
     }
 
     val dashClass = "[\\-\\u2010\\u2013\\u2014\\uFF0D\\u223C\\u301C]"
@@ -158,14 +266,14 @@ object Linker {
     "fr" to listOf("BFC","PDV2017","NFC","BCC1923","BEX2004","LSG","NEG1979","BDS","S21","FMAR","NBS","NEG79","NVS78P","OST","THU","TFM","NEG","SACY"),
     "it" to listOf("ICL00D","DB1885","ICL00P","RDV24","NR06","NR94","IRB20"),
     "ru" to listOf("RU167","RST","DROT","CSLAV","BTI","CARS","CARSA","CARST","CASS70","RSP","CAROS","SYNO","ROT"),
-    "pt" to listOf("BPT09DC","NVI-PT","ARA","ARC","A21","BLT","ONBV","NVT","VFL","NAA","NTLH","MZNVI","RC60DO","TB","NBV-P","AVM"),
+    "pt" to listOf("BPT09DC","NVI-PT","ARA","ARC","A21","BLT","NVT","VFL","NAA","NTLH","MZNVI","TB","NBV-P","AVM"),
     "de" to listOf("LUT","ELB","SCH2000","GANTP","BIBELHEUTE","SCH1951","ELB71","ELBBK","HFA","LUTHEUTE","DELUT","NGU2011","TKW"),
     "zh-hans" to listOf("CUVS","RCUVSS","CSBS","CCB","CUNPSS","CNVS","ZHDC1889"),
     "zh-hant" to listOf("ZHDC1889","RCUV","TCV2019T","CSBT","CCCBST","CUNP","CNV","CCB_T"),
-    "ja" to listOf("JCB","JA1819","AB","JA1955","ERV"),
+    "ja" to listOf("JCB","JA1819","JA1955","ERV"),
     "ko" to listOf("KRV","RNKSV","KOERV","NLTNK","KLB"),
     "hi" to listOf("IRVHIN","HHBD","HSB","HERV","HINCLBSI","HINOVBSI","HSS"),
-    "ar" to listOf("SAB","AR1665","AVDDV","QNAV","FAOV","GOV","ASVD")
+    "ar" to listOf("SAB","GNADC25","AVDDV","QNAV","FAOV","GOV","ASVD")
   )
 
   private val expandedDcBooks = dcBooks
@@ -189,7 +297,7 @@ object Linker {
     "zh-hans" to setOf("ZHDC1889"),
     "zh-hant" to setOf("ZHDC1889"),
     "ja" to setOf("JA1819"),
-    "ar" to setOf("AR1665")
+    "ar" to setOf("GNADC25")
   )
   private val allBibleComCatholicVersions =
     bibleComCatholicVersionsByLang.values.flatten().toSet()
@@ -246,6 +354,74 @@ object Linker {
     return "https://www.bible.com/bible/" + bibleId + "/" + route + ".KJVAAE"
   }
 
+  private data class GreekEstherRoute(val chapter: String, val verseOffset: Int?)
+
+  private fun isIntegratedGreekEstherName(bookName: String): Boolean {
+    val normalized = bookName.trim().lowercase().replace(Regex("\\s+"), " ")
+    return normalized in setOf("esther (greek)", "esther greek", "ester greek")
+  }
+
+  private fun isOutOfBoundsIntegratedGreekEsther(bookName: String, rest: String): Boolean =
+    isIntegratedGreekEstherName(bookName) &&
+      firstChapterOf(rest).toIntOrNull()?.let { it in 1..21 } != true
+
+  // Checked against all 21 local NRSVUE segments and the live Bible.com BFC
+  // pages. BFC numbers its additions A-F continuously within the surrounding
+  // canonical chapter, so the split routes need both a chapter and verse shift.
+  private val bfcGreekEstherRoutes = listOf(
+    GreekEstherRoute("1_1", -1), GreekEstherRoute("1_1", 11),
+    GreekEstherRoute("1_2", 17), GreekEstherRoute("2", 0),
+    GreekEstherRoute("3", 0), GreekEstherRoute("3_1", 13),
+    GreekEstherRoute("3_2", 7), GreekEstherRoute("4", 0),
+    GreekEstherRoute("4_1", 10), GreekEstherRoute("4_1", 28),
+    GreekEstherRoute("5_1", 0), GreekEstherRoute("5_2", 14),
+    GreekEstherRoute("6", 0), GreekEstherRoute("7", 0),
+    GreekEstherRoute("8", 0), GreekEstherRoute("8_1", 12),
+    GreekEstherRoute("8_2", 24), GreekEstherRoute("9", 0),
+    GreekEstherRoute("10", 0), GreekEstherRoute("10_1", 0),
+    GreekEstherRoute("10_1", 13)
+  )
+
+  // DHH94I embeds A-F as lettered subverses within chapters 1, 3, 4, 5, 8,
+  // and 10. For those additions, link the verified chapter instead of inventing
+  // a numeric verse anchor that would point into the wrong part of the page.
+  private val dhh94iGreekEstherRoutes = listOf(
+    GreekEstherRoute("1", null), GreekEstherRoute("1", null),
+    GreekEstherRoute("1", null), GreekEstherRoute("2", 0),
+    GreekEstherRoute("3", 0), GreekEstherRoute("3", null),
+    GreekEstherRoute("3", 0), GreekEstherRoute("4", 0),
+    GreekEstherRoute("4", null), GreekEstherRoute("4", null),
+    GreekEstherRoute("5", null), GreekEstherRoute("5", 0),
+    GreekEstherRoute("6", 0), GreekEstherRoute("7", 0),
+    GreekEstherRoute("8", 0), GreekEstherRoute("8", null),
+    GreekEstherRoute("8", 0), GreekEstherRoute("9", 0),
+    GreekEstherRoute("10", 0), GreekEstherRoute("10", null),
+    GreekEstherRoute("10", null)
+  )
+
+  private val gatewayGreekEstherChapterBySegment = listOf(
+    1, 1, 1, 2, 3, 3, 3, 4, 4, 4, 5, 5, 6, 7, 8, 8, 8, 9, 10, 10, 10
+  )
+
+  private fun buildIntegratedGreekEstherUrl(
+    bookName: String,
+    rest: String,
+    versionCode: String,
+    bibleId: Int
+  ): String? {
+    if (!isIntegratedGreekEstherName(bookName)) return null
+    val chapter = firstChapterOf(rest).toIntOrNull() ?: return null
+    val route = when (versionCode) {
+      "BFC" -> bfcGreekEstherRoutes.getOrNull(chapter - 1)
+      "DHH94I" -> dhh94iGreekEstherRoutes.getOrNull(chapter - 1)
+      else -> null
+    } ?: return null
+    val versePart = route.verseOffset?.let { offset ->
+      bibleComVersePart(rest, verseOffset = offset)
+    }.orEmpty()
+    return "https://www.bible.com/bible/$bibleId/ESG.${route.chapter}$versePart.$versionCode"
+  }
+
   private fun bibleComVersePart(rest: String, verseOffset: Int = 0): String {
     val dashClass = "[\\-\\u2010\\u2013\\u2014\\uFF0D\\u223C\\u301C]"
     if (rest.contains(',') ||
@@ -256,10 +432,12 @@ object Linker {
     val match = Regex("^\\s*\\d+\\s*:(\\d+)\\s*(?:$dashClass\\s*(\\d+))?").find(rest)
       ?: return ""
     val start = match.groupValues[1].toIntOrNull()?.plus(verseOffset) ?: return ""
+    if (start <= 0) return ""
     val end = match.groupValues.getOrNull(2)
       ?.takeIf { it.isNotEmpty() }
       ?.toIntOrNull()
       ?.plus(verseOffset)
+    if (end != null && end <= 0) return ""
     return if (end != null) "." + start + "-" + end else "." + start
   }
 
@@ -272,6 +450,10 @@ object Linker {
     ref: String
   ): Boolean {
     val book = dcBookCode(ref) ?: return false
+    if (book == "ESG") {
+      val parsed = parseRef(normalizeRefInput(ref)) ?: return false
+      if (isOutOfBoundsIntegratedGreekEsther(parsed.first, parsed.second)) return false
+    }
     val version = versionCode.trim().uppercase()
     return when (readerMode.trim().lowercase()) {
       "internal" -> true
@@ -283,6 +465,8 @@ object Linker {
       else -> when {
         version == "NRSVUE" -> book in expandedDcBooks
         version == "KJVAAE" -> book in kjvaaDcBooks
+        version in setOf("BFC", "DHH94I") && book == "ESG" ->
+          parseRef(ref)?.first?.let { isIntegratedGreekEstherName(it) } == true
         version in allBibleComCatholicVersions -> book in catholicDirectDcBooks
         else -> false
       }
@@ -335,16 +519,16 @@ object Linker {
     readerMode: String,
     appLanguage: String
   ): Pair<String, String>? {
-    val version = currentVersion.trim().ifEmpty { defaultVersionForLanguage(appLanguage) }
     val mode = readerMode.trim().lowercase()
     if (mode == "internal") return null
+    val version = selectedVersionForReader(currentVersion, mode, appLanguage) ?: return null
 
     if (!isDeuterocanonReference(ref)) {
       return if (mode == "biblegateway") {
         version to buildBibleGatewayUrl(ref, version)
       } else {
         val url = buildBibleComUrl(ref, version)
-          ?: return version to buildBibleGatewayUrl(ref, version)
+          ?: return null
         version to url
       }
     }
@@ -372,21 +556,23 @@ object Linker {
 
   fun bestLinkForRef(ref: String, currentVersion: String, appLanguage: String): Pair<String, String> {
     return linkForReader(ref, currentVersion, "biblecom", appLanguage)
-      ?: currentVersion to buildBibleGatewayUrl(ref, currentVersion)
+      ?: linkForReader(ref, currentVersion, "biblegateway", appLanguage)
+      ?: defaultGatewayVersionForLanguage(appLanguage).let { it to buildBibleGatewayUrl(ref, it) }
   }
 
   fun toLink(collection: String, ref: String, translation: String, preferBibleCom: Boolean, appLanguage: String? = null): String {
     val lang = appLanguage ?: platformGetDefaultLocaleLanguage()
     val readerMode = if (preferBibleCom) "biblecom" else "biblegateway"
     return linkForReader(ref, translation, readerMode, lang)?.second
-      ?: buildBibleGatewayUrl(ref, translation)
+      ?: linkForReader(ref, translation, "biblegateway", lang)?.second
+      ?: buildBibleGatewayUrl(ref, defaultGatewayVersionForLanguage(lang))
   }
 
   fun hasExternalReaderSupport(canonBook: String): Boolean =
     toYouVersionBookCode(canonBook.trim()) != null
 
   fun buildYouVersionDeepLink(ref: String, versionCode: String): String? {
-    val normalizedVersion = versionCode.trim().uppercase()
+    val normalizedVersion = canonicalYouVersionCode(versionCode)
     val parsed = parseRef(normalizeRefInput(ref)) ?: return null
     val (bookName, restRaw) = parsed
     var book = toYouVersionBookCode(bookName) ?: return null
@@ -399,7 +585,9 @@ object Linker {
       // These KJVAAE books use web-route identifiers that do not map safely to
       // the custom-scheme reference grammar. Their verified universal links are
       // returned by buildBibleComUrl instead.
-      if (normalizedVersion == "KJVAAE" && book in setOf("ESG", "LJE", "SUS")) return null
+      if ((normalizedVersion == "KJVAAE" && book in setOf("ESG", "LJE", "SUS")) ||
+        (book == "ESG" && normalizedVersion in setOf("BFC", "DHH94I")) ||
+        (book == "SIR" && chap == "1" && normalizedVersion in setOf("BFC", "DHH94I"))) return null
     }
     val vId = youVersionIdFor(normalizedVersion) ?: return null
     return "youversion://bible?reference=$book.$chap.$verse&version_id=$vId"
@@ -466,7 +654,7 @@ object Linker {
       "wisdom", "wisdom of solomon" -> "WIS"; "sirach", "ecclesiasticus" -> "SIR"
       "baruch" -> "BAR"
       "letter of jeremiah", "epistle of jeremiah", "baruch 6" -> "LJE"
-      "song of three", "song of the three", "song of the three holy children", "song of the three jews", "song of three jews", "prayer of azariah" -> "S3Y"
+      "song of three", "song of the three", "song of the three holy children", "song of the three jews", "song of three jews", "prayer of azariah", "prayer of azariah and song of the three" -> "S3Y"
       "susanna" -> "SUS"; "psalm 151", "psalms 151" -> "PS2"
       "bel and the dragon", "bel, and the dragon", "bel" -> "BEL"
       "1 maccabees", "i maccabees", "one maccabees" -> "1MA"

@@ -588,7 +588,7 @@ Die Bibel lehrt das Gegenteil: Jesus ist der ewige Sohn Gottes, gekreuzigt und a
 **(Jesaja 53:5)**
 > „Er ist um unserer Übertretungen willen durchbohrt … durch seine Striemen sind wir geheilt.“
 
-**(Psalmen 22:16–18)**
+**(Psalmen 22:17–19)**
 > „… sie durchbohrten meine Hände und meine Füße … sie teilen meine Kleider unter sich und werfen das Los über mein Gewand.“
 
 **(Johannes 3:16)**
@@ -947,7 +947,7 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 - **(Johannes 14,6)** – „Ich bin der Weg, die Wahrheit und das Leben.“  
 
-- **(Psalmen 46,10)** – „Seid still und erkennt, dass ich Gott bin.“  
+- **(Psalmen 46,11)** – „Seid still und erkennt, dass ich Gott bin.“
 
 - *Bedeutung:* Jesus ist der lebendige Dao, der Weg im Fleisch.  
 
@@ -968,7 +968,7 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 - **(Kolosser 1,17)** – „In ihm besteht alles.“  
 
-**Schlussfolgerung (Schrift):** Konfuzianische Tugend (Spr 22,6; Mt 22,39), daoistische Harmonie (Joh 1,1; Ps 46,10) und buddhistisches Mitgefühl (Joh 15,13; Mt 11,28; Offb 21,4) finden ihre Vollendung in Christus, dem Dao im Fleisch.  
+**Schlussfolgerung (Schrift):** Konfuzianische Tugend (Spr 22,6; Mt 22,39), daoistische Harmonie (Joh 1,1; Ps 46,11) und buddhistisches Mitgefühl (Joh 15,13; Mt 11,28; Offb 21,4) finden ihre Vollendung in Christus, dem Dao im Fleisch.
 
 ---  
 

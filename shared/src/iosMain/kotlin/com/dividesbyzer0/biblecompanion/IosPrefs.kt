@@ -49,6 +49,7 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             lastReadBookId = getString("last_read_book_id"),
             lastReadBookTitle = getString("last_read_book_title"),
             lastReadStoryId = getString("last_read_story_id"),
+            lastReadSourceLanguage = getString("last_read_source_language"),
             onboardingComplete = getBool("onboarding_complete", false),
             studyPinned = getBool("study_pinned", false),
             themePreset = getString("theme_preset") ?: "parchment",
@@ -117,12 +118,14 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     actual suspend fun setTextSizeScale(scale: Float) {
         defaults.setFloat(scale, forKey = "text_size_scale"); refresh()
     }
-    actual suspend fun setLastRead(collection: String, bookId: String, bookTitle: String, storyId: String?) {
+    actual suspend fun setLastRead(collection: String, bookId: String, bookTitle: String, storyId: String?, sourceLanguage: String?) {
         defaults.setObject(collection, forKey = "last_read_collection")
         defaults.setObject(bookId, forKey = "last_read_book_id")
         defaults.setObject(bookTitle, forKey = "last_read_book_title")
         if (storyId != null) defaults.setObject(storyId, forKey = "last_read_story_id")
         else defaults.removeObjectForKey("last_read_story_id")
+        if (sourceLanguage != null) defaults.setObject(sourceLanguage, forKey = "last_read_source_language")
+        else defaults.removeObjectForKey("last_read_source_language")
         refresh()
     }
     actual suspend fun setOnboardingComplete(complete: Boolean) {
@@ -207,14 +210,16 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
 
     actual suspend fun addBookmark(bookmark: Bookmark) {
         val list = loadBookmarks().filter {
-            !(it.collection == bookmark.collection && it.bookId == bookmark.bookId && it.storyId == bookmark.storyId)
+            !(it.collection == bookmark.collection && it.bookId == bookmark.bookId && it.storyId == bookmark.storyId &&
+                (it.sourceLanguage ?: "en") == (bookmark.sourceLanguage ?: "en"))
         }
         persistBookmarks(list + bookmark)
     }
 
-    actual suspend fun removeBookmark(collection: String, bookId: String, storyId: String) {
+    actual suspend fun removeBookmark(collection: String, bookId: String, storyId: String, sourceLanguage: String?) {
         persistBookmarks(loadBookmarks().filter {
-            !(it.collection == collection && it.bookId == bookId && it.storyId == storyId)
+            !(it.collection == collection && it.bookId == bookId && it.storyId == storyId &&
+                (it.sourceLanguage ?: "en") == (sourceLanguage ?: "en"))
         })
     }
 

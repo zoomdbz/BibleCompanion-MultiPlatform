@@ -320,11 +320,12 @@
     <string name="intro_section_header">Buch-Einführung</string>
     <string name="tts_read_intros">TTS liest Buch-Einführungen</string>
     <string name="external_bible_version">Externe Bibelversion</string>
-    <string name="external_bible_version_desc">Ändert nur Bibelstellen, die in YouVersion/Bible.com oder Bible Gateway geöffnet werden. Der Text in Bible Companion bleibt unverändert.</string>
+    <string name="external_bible_version_desc">Wähle die Bibelversion für externe Verweise. Bible.com-Links öffnen sich in der YouVersion-Bibel-App, wenn sie installiert ist; andernfalls öffnen sie Bible.com im Browser. Der Text in Bible Companion bleibt unverändert.</string>
     <string name="in_app_bible_version">Bibelversion in der App</string>
-    <string name="in_app_bible_version_desc">Ändert den englischen Bibeltext, der in Bible Companion gelesen wird.</string>
+    <string name="in_app_bible_version_desc">Zeigt die Bibelversion an, die in Bible Companion gelesen wird. Sie ist von der Version für externe Links getrennt.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">Schlachter 2000 (SCH2000)</string>
     <string name="edition_fallback">Für dieses Buch ist kein KJV-Text verfügbar; die aktuelle englische Ausgabe wird angezeigt.</string>
 
     <string name="bible_chronology">Bibelchronologie</string>

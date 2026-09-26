@@ -46,6 +46,10 @@ key.properties
 *.hprof
 *.log
 
+# Python
+__pycache__/
+*.py[cod]
+
 # Xcode / iOS
 **/xcuserdata/
 **/*.xcworkspace/xcuserdata/
@@ -82,6 +86,9 @@ GoogleService-Info.plist
 
 # Licensed YouVersion comparison responses and reports
 .kjv-biblecom-cache/
+
+# Sanitized localized Scripture structure reports; raw source HTML is never cached
+.scripture-structure-cache/
 
 # Editor
 .vscode/

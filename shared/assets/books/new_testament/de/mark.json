@@ -673,6 +673,7 @@
         "[J]und so hebt ihr mit eurer Überlieferung, die ihr weitergegeben habt, das Wort Gottes auf; und viele ähnliche Dinge tut ihr.[/J] (7:13).",
         "[J]Und er rief die ganze Volksmenge zu sich und sprach zu ihnen: Hört mir alle zu und versteht![/J] (7:14).",
         "[J]Nichts, was außerhalb des Menschen ist und in ihn hineinkommt, kann ihn verunreinigen; sondern was aus ihm herauskommt, das ist es, was den Menschen verunreinigt.[/J] (7:15).",
+        "[J]Wenn jemand Ohren hat zu hören, der höre![/J] (7:16).",
         "Und als er von der Menge weg nach Hause gegangen war, fragten ihn seine Jünger über das Gleichnis. (7:17).",
         "[J]Und er sprach zu ihnen: Seid auch ihr so unverständig? Begreift ihr nicht, dass alles, was von außen in den Menschen hineinkommt, ihn nicht verunreinigen kann?[/J] (7:18).",
         "[J]Denn es kommt nicht in sein Herz, sondern in den Bauch und wird auf dem natürlichen Weg, der alle Speisen reinigt, ausgeschieden.[/J] (7:19).",
@@ -700,16 +701,6 @@
         "Jesaja 29:13: „Dieses Volk naht sich mir mit seinem Mund ..., aber sein Herz ist fern von mir.“",
         "Exodus 20:12; Deuteronomium 5:16: Ehre Vater und Mutter.",
         "Apostelgeschichte 10:14-15: Reine und unreine Speisen werden in einer späteren Vision behandelt."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "7:16",
-          "text": "Hat jemand Ohren, zu hören, der höre!"
-        },
-        {
-          "ref": "Mark 7:16",
-          "text": "Manche späteren Handschriften fügen hier einen Vers 16 ein: „Wer Ohren hat zu hören, der höre!“ Der Codex Sinaiticus, der Codex Vaticanus und mehrere andere frühe Zeugen lassen ihn weg. Dasselbe Wort steht bei Markus an anderer Stelle, in 4,9 und 4,23, wo die ältesten Handschriften es tatsächlich führen."
-        }
       ],
       "translationNotes": [
         {
@@ -913,7 +904,9 @@
         "[J]Denn wer euch einen Becher Wasser in meinem Namen zu trinken gibt, weil ihr Christus angehört, wahrlich, ich sage euch: Ihm wird sein Lohn nicht ausbleiben.[/J] (9:41).",
         "[J]Wer aber einem der Kleinen, die an mich glauben, Anstoß [zur Sünde] gibt, für den wäre es besser, dass ein Mühlstein um seinen Hals gelegt und er ins Meer geworfen würde.[/J] (9:42).",
         "[J]Und wenn deine Hand für dich ein Anstoß [zur Sünde] wird, so haue sie ab! Es ist besser für dich, dass du als Krüppel in das Leben eingehst, als dass du beide Hände hast und in die Hölle fährst, in das unauslöschliche Feuer,[/J] (9:43).",
+        "[J]wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.[/J] (9:44).",
         "[J]Und wenn dein Fuß für dich ein Anstoß [zur Sünde] wird, so haue ihn ab! Es ist besser für dich, dass du lahm in das Leben eingehst, als dass du beide Füße hast und in die Hölle geworfen wirst, in das unauslöschliche Feuer,[/J] (9:45).",
+        "[J]wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.[/J] (9:46).",
         "[J]Und wenn dein Auge für dich ein Anstoß [zur Sünde] wird, so reiß es aus! Es ist besser für dich, dass du einäugig in das Reich Gottes eingehst, als dass du zwei Augen hast und in das höllische Feuer geworfen wirst,[/J] (9:47).",
         "[J]wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.[/J] (9:48).",
         "[J]Denn jeder muss mit Feuer gesalzen werden, wie jedes Opfer mit Salz gesalzen wird.[/J] (9:49).",
@@ -923,26 +916,8 @@
       "crossRefs": [
         "Exodus 24:15-18; 34:29-35: Berg und Lichtglanz.",
         "1 Könige 19:8-18: Elia am Horeb.",
-        "Maleachi 4:5-6: Elia vor dem großen Tag.",
+        "Maleachi 3:23-24: Elia vor dem großen Tag.",
         "Matthäus 17:1-13; Lukas 9:28-36: Parallelen."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "9:44",
-          "text": "da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht."
-        },
-        {
-          "ref": "9:46",
-          "text": "da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht."
-        },
-        {
-          "ref": "Mark 9:44",
-          "text": "Manche späteren Handschriften fügen hier einen Vers 44 ein, der den Wortlaut von V. 48 wiederholt: „wo ihr Wurm nicht stirbt und das Feuer nicht erlischt“. Er fehlt im Codex Sinaiticus, im Codex Vaticanus und in den ältesten Handschriften. Abschreiber haben V. 48 offenbar nach jeder der drei Warnungen (V. 43, 45, 47) zur rednerischen Verstärkung verdoppelt; nur das dritte Vorkommen (V. 48) steht im ursprünglichen Text."
-        },
-        {
-          "ref": "Mark 9:46",
-          "text": "Manche späteren Handschriften fügen hier einen Vers 46 ein, der mit dem unechten V. 44 und mit dem echten V. 48 gleichlautet: „wo ihr Wurm nicht stirbt und das Feuer nicht erlischt“. Er fehlt im Sinaiticus, im Vaticanus und in anderen frühen Zeugen. Wie V. 44 ist er eine Verdopplung von V. 48 durch Abschreiber, nach jeder Warnung des Gleichklangs wegen eingefügt."
-        }
       ],
       "translationNotes": [
         {
@@ -963,7 +938,7 @@
       ],
       "headings": [
         {
-          "beforeVerse": 1,
+          "beforeVerse": 2,
           "text": "Die Jünger erleben die Herrlichkeit von Jesus"
         },
         {
@@ -1130,6 +1105,7 @@
         "[J]Denn wahrlich, ich sage euch: Wenn jemand zu diesem Berg spricht: Hebe dich und wirf dich ins Meer!, und in seinem Herzen nicht zweifelt, sondern glaubt, dass das, was er sagt, geschieht, so wird ihm zuteilwerden, was immer er sagt.[/J] (11:23).",
         "[J]Darum sage ich euch: Alles, was ihr auch immer im Gebet erbittet, glaubt, dass ihr es empfangt, so wird es euch zuteilwerden![/J] (11:24).",
         "[J]Und wenn ihr dasteht und betet, so vergebt, wenn ihr etwas gegen jemand habt, damit auch euer Vater im Himmel euch eure Verfehlungen vergibt.[/J] (11:25).",
+        "[J]Wenn ihr aber nicht vergebt, so wird auch euer Vater im Himmel eure Verfehlungen nicht vergeben.[/J] (11:26).",
         "Und sie kamen wiederum nach Jerusalem. Und als er im Tempel umherging, traten die obersten Priester und die Schriftgelehrten und die Ältesten zu ihm (11:27).",
         "und sprachen zu ihm: In welcher Vollmacht tust du dies? Und wer hat dir diese Vollmacht gegeben, dies zu tun? (11:28).",
         "[J]Jesus aber antwortete und sprach zu ihnen: Auch ich will euch ein Wort fragen; wenn ihr mir antwortet, so will ich euch sagen, in welcher Vollmacht ich dies tue.[/J] (11:29).",
@@ -1143,16 +1119,6 @@
         "Sacharja 9:9: Ein demütiger König auf einem Füllen.",
         "Psalmen 118:25-26: „Hosianna ... Gepriesen sei der, welcher kommt im Namen des HERRN.“",
         "Matthäus 21:1-11; Lukas 19:28-40; Johannes 12:12-15: Parallelen."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "11:26",
-          "text": "Wenn ihr aber nicht vergeben werdet, so wird euch euer Vater, der im Himmel ist, eure Fehler nicht vergeben."
-        },
-        {
-          "ref": "Mark 11:26",
-          "text": "Manche späteren Handschriften fügen hier einen Vers 26 ein: „Wenn ihr aber nicht vergebt, so wird auch euer Vater im Himmel eure Verfehlungen nicht vergeben.“ Der Codex Sinaiticus, der Codex Vaticanus und die ältesten Abschriften lassen ihn weg. Der Wortlaut stimmt fast genau mit Matthäus 6,15 überein und scheint von Abschreibern übernommen worden zu sein, um die Belehrung über das Vergeben abzurunden, die schon in V. 25 steht."
-        }
       ],
       "translationNotes": [
         {
@@ -1605,6 +1571,7 @@
         "Es war aber die dritte Stunde, als sie ihn kreuzigten. (15:25).",
         "Und die Inschrift, die seine Schuld anzeigte, war darüber geschrieben: »Der König der Juden«. (15:26).",
         "Und mit ihm kreuzigten sie zwei Räuber, einen zu seiner Rechten und einen zu seiner Linken. (15:27).",
+        "Da wurde die Schrift erfüllt, die spricht: »Und er ist unter die Gesetzlosen gerechnet worden«. (15:28).",
         "Und die Vorübergehenden lästerten ihn, schüttelten den Kopf und sprachen: Ha, der du den Tempel zerstörst und in drei Tagen aufbaust, (15:29).",
         "rette dich selbst und steige vom Kreuz herab! (15:30).",
         "Gleicherweise spotteten aber auch die obersten Priester untereinander samt den Schriftgelehrten und sprachen: Andere hat er gerettet, sich selbst kann er nicht retten! (15:31).",
@@ -1629,17 +1596,7 @@
       "crossRefs": [
         "Jesaja 53:7: Er schwieg vor seinen Anklägern.",
         "Lukas 23:18-25; Matthäus 27:15-31; Johannes 18:28-19:16: Parallelen.",
-        "Psalmen 22:7: Das Bild des Spottes."
-      ],
-      "manuscriptVariants": [
-        {
-          "ref": "15:28",
-          "text": "Da ward die Schrift erfüllet, die da sagt: \"Er ist unter die Übeltäter gerechnet.\""
-        },
-        {
-          "ref": "Mark 15:28",
-          "text": "Einige spätere Handschriften fügen hier einen Vers 28 hinzu: „Und die Schrift wurde erfüllt, die sagt: Er wurde unter die Gesetzlosen gerechnet.“ Er fehlt im Codex Sinaiticus, Vaticanus und Bezae sowie in den altlateinischen Zeugen. Die zitierten Worte stammen aus Jesaja 53,12, und Jesus bezieht diese Stelle in Lukas 22,37 auf sich selbst; Abschreiber, denen der Satz von dort bekannt war, fügten ihn auch in den Kreuzigungsbericht ein."
-        }
+        "Psalmen 22:8: Das Bild des Spottes."
       ],
       "translationNotes": [
         {

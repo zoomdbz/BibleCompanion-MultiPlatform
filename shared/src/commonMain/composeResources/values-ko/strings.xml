@@ -321,11 +321,12 @@
     <string name="intro_section_header">책 서문</string>
     <string name="tts_read_intros">TTS가 책 서문을 읽음</string>
     <string name="external_bible_version">외부 성경 역본</string>
-    <string name="external_bible_version_desc">YouVersion/Bible.com 또는 Bible Gateway에서 여는 참조만 변경합니다. Bible Companion의 본문은 변경하지 않습니다.</string>
+    <string name="external_bible_version_desc">외부 참조에 사용할 성경 역본을 선택합니다. YouVersion 성경 앱이 설치되어 있으면 Bible.com 링크가 앱에서 열리고, 설치되어 있지 않으면 브라우저에서 Bible.com이 열립니다. Bible Companion의 본문은 변경되지 않습니다.</string>
     <string name="in_app_bible_version">앱 내 성경 역본</string>
-    <string name="in_app_bible_version_desc">Bible Companion에서 읽는 영어 성경 본문을 변경합니다.</string>
+    <string name="in_app_bible_version_desc">Bible Companion에서 읽는 성경 역본을 표시합니다. 외부 링크에 사용하는 역본과는 별개입니다.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">표준새번역 개정판 (RNKSV)</string>
     <string name="edition_fallback">이 책에는 KJV 본문이 없으므로 현재 영어판을 표시합니다.</string>
     <string name="bible_chronology">성경 역사 연대표</string>
     <string name="chronology_intro">이 안내는 일반적인 책 순서나 각 책이 기록된 시기가 아니라 성경에 묘사된 사건의 흐름을 따릅니다. 여러 시대에 걸치거나 서로 겹치는 책이 있으며, 일부 배치에는 이견이 있습니다. 장 범위를 탭하면 앱 안에서 읽을 수 있습니다.</string>

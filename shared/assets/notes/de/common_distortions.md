@@ -313,7 +313,7 @@ Die Schrift erhebt diesen Anspruch immer wieder: Psalm 12:7 nennt Gottes Worte �
 
 - (2. Petrus 1:21) „Getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet.“
 
-- (Psalmen 12:7) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.“
+- (Psalmen 12:8) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.“
 
 - (Sprüche 30:5) „Alle Rede Gottes ist geläutert; er ist ein Schild denen, die auf ihn trauen.“
 
@@ -404,7 +404,7 @@ Nicht jede Redewendung, die als „biblische Wahrheit“ zitiert wird, steht wir
 
 - (2. Korinther 4,17): „Denn die leichte Last unserer gegenwärtigen Bedrängnis schafft uns über die Maßen ein ewiges Übergewicht an Herrlichkeit.“
 
-- (Psalmen 30,5): „Denn sein Zorn währt einen Augenblick, lebenslang seine Gnade. Am Abend kehrt Weinen ein, am Morgen Jubel.“
+- (Psalmen 30,6): „Denn sein Zorn währt einen Augenblick, lebenslang seine Gnade. Am Abend kehrt Weinen ein, am Morgen Jubel.“
 
 - (1. Petrus 5,10): „Der Gott aller Gnade aber, der euch berufen hat zu seiner ewigen Herrlichkeit in Christus, der wird euch, nachdem ihr eine kurze Zeit gelitten habt, zurechtbringen, stärken, kräftigen, gründen.“
 
@@ -420,7 +420,7 @@ Nicht jede Redewendung, die als „biblische Wahrheit“ zitiert wird, steht wir
 
 - (Daniel 2,21): „Er ändert Zeiten und Stunden; er setzt Könige ab und setzt Könige ein; den Weisen gibt er Weisheit und den Verständigen Verstand.“
 
-- (Psalmen 22,28): „Denn des HERRN ist das Königtum, und er herrscht über die Nationen.“
+- (Psalmen 22,29): „Denn des HERRN ist das Königtum, und er herrscht über die Nationen.“
 
 - (Apostelgeschichte 5,29): „Man muss Gott mehr gehorchen als Menschen.“
 

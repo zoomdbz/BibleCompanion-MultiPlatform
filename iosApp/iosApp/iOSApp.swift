@@ -21,15 +21,26 @@ struct iOSApp: App {
         let components = URLComponents(url: url, resolvingAgainstBaseURL: false)
 
         if let route = components?.queryItems?.first(where: { $0.name == "route" })?.value {
+            if route.hasPrefix("book/"), route.contains("storyId="), !route.contains("sourceLang=") {
+                return route + (route.contains("?") ? "&" : "?") + "sourceLang=en"
+            }
             return route
         }
 
         let col = components?.queryItems?.first(where: { $0.name == "col" })?.value
         let book = components?.queryItems?.first(where: { $0.name == "book" })?.value
         let story = components?.queryItems?.first(where: { $0.name == "story" })?.value
+        let sourceLang = components?.queryItems?.first(where: { $0.name == "sourceLang" })?.value ?? "en"
         guard let col = col, let book = book else { return nil }
-        var route = "book/\(col)/\(book)"
-        if let story = story { route += "?storyId=\(story)" }
+        let allowed = CharacterSet.urlQueryAllowed.subtracting(CharacterSet(charactersIn: "&=?#/"))
+        let encodedCol = col.addingPercentEncoding(withAllowedCharacters: allowed) ?? col
+        let encodedBook = book.addingPercentEncoding(withAllowedCharacters: allowed) ?? book
+        var route = "book/\(encodedCol)/\(encodedBook)"
+        if let story = story {
+            let encodedStory = story.addingPercentEncoding(withAllowedCharacters: allowed) ?? story
+            let encodedLanguage = sourceLang.addingPercentEncoding(withAllowedCharacters: allowed) ?? sourceLang
+            route += "?storyId=\(encodedStory)&sourceLang=\(encodedLanguage)"
+        }
         return route
     }
 }

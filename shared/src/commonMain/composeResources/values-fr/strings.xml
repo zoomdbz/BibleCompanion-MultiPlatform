@@ -322,11 +322,12 @@
     <string name="intro_section_header">Introduction du livre</string>
     <string name="tts_read_intros">Lire les introductions en TTS</string>
     <string name="external_bible_version">Version biblique externe</string>
-    <string name="external_bible_version_desc">Ne modifie que les références ouvertes dans YouVersion/Bible.com ou Bible Gateway. Le texte de Bible Companion ne change pas.</string>
+    <string name="external_bible_version_desc">Choisissez la version pour les références externes. Les liens Bible.com s'ouvrent dans l'application biblique YouVersion si elle est installée ; sinon, ils ouvrent Bible.com dans votre navigateur. Cela ne modifie pas le texte de Bible Companion.</string>
     <string name="in_app_bible_version">Version biblique dans l'application</string>
-    <string name="in_app_bible_version_desc">Modifie le texte biblique anglais lu dans Bible Companion.</string>
+    <string name="in_app_bible_version_desc">Identifie la version biblique lue dans Bible Companion. Elle est distincte de la version utilisée pour les liens externes.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">Nouvelle Bible Segond (NBS)</string>
     <string name="edition_fallback">Le texte de la KJV n'est pas disponible pour ce livre ; l'édition anglaise actuelle est affichée.</string>
 
     <string name="bible_chronology">Chronologie biblique</string>

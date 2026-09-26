@@ -3,6 +3,52 @@
   "title": "Eclesiástico (Sirácida)",
   "stories": [
     {
+      "id": "sirach-prologue",
+      "title": "📜 Prólogo de Eclesiástico (Sirácida)",
+      "refs": [
+        "Sirach Prologue"
+      ],
+      "summaryBullets": [
+        "Prólogo: La Ley, los Profetas y los demás libros que vinieron después nos han transmitido muchas enseñanzas importantes. Por esa instrucción y sabiduría debemos alabar a Israel. (Prólogo).",
+        "Prólogo: Quienes leen las Escrituras no solo deben adquirir conocimientos para sí mismos; por amor al saber, también deben poder ayudar con sus palabras y escritos a quienes no las conocen. (Prólogo).",
+        "Prólogo: Mi abuelo Jesús se dedicó especialmente a leer la Ley, los Profetas y los demás libros de nuestros antepasados. Tras conocerlos a fondo, se sintió impulsado a escribir también una obra de instrucción y sabiduría. (Prólogo).",
+        "Prólogo: Así, quienes aman el saber podrán familiarizarse con este libro y avanzar aún más en una vida conforme a la Ley. (Prólogo).",
+        "Prólogo: Les ruego que lo lean con buena disposición y atención, y que sean indulgentes si, pese a nuestro cuidadoso trabajo de traducción, alguna expresión parece no haberse transmitido con precisión. (Prólogo).",
+        "Prólogo: Lo que se expresó originalmente en hebreo no conserva exactamente el mismo sentido al traducirse a otra lengua. Esto no solo ocurre con este libro: también la Ley, los Profetas y los demás escritos muestran diferencias considerables cuando se leen en su idioma original. (Prólogo).",
+        "Prólogo: Cuando llegué a Egipto en el año treinta y ocho del reinado de Evergetes y permanecí allí algún tiempo, encontré abundantes oportunidades para aprender. (Prólogo).",
+        "Prólogo: Por eso consideré muy necesario dedicar esfuerzo y cuidado a traducir este libro. Durante ese tiempo trabajé con atención y pericia hasta terminarlo y publicarlo para quienes viven en el extranjero, desean aprender y se preparan para vivir conforme a la Ley. (Prólogo)."
+      ],
+      "crossRefs": [
+        "Proverbios 1:1-7: El propósito declarado de una colección de enseñanzas de sabiduría.",
+        "Lucas 1:1-4: Un autor explica a su lector por qué y cómo compuso su obra.",
+        "Nehemías 8:8: Se leyó y explicó la Ley para que el pueblo la entendiera.",
+        "2 Timoteo 3:16: Toda la Escritura es útil para enseñar y formar."
+      ],
+      "translationNotes": [
+        {
+          "term": "La Ley, los Profetas y los demás libros",
+          "original": "Hebrew: תּוֹרָה נְבִיאִים כְּתוּבִים (Torah, Neviim, Ketuvim) - Greek: ὁ νόμος καὶ οἱ προφῆται καὶ τὰ ἄλλα (ho nomos kai hoi prophetai kai ta alla)",
+          "note": "Es la división tripartita de las Escrituras hebreas: los cinco libros de Moisés, los libros proféticos y los demás escritos."
+        },
+        {
+          "term": "El año treinta y ocho de Evergetes",
+          "original": "Greek: ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει ἐπὶ τοῦ Εὐεργέτου βασιλέως (en to ogdoo kai triakosto etei epi tou Euergetou basileos)",
+          "note": "Los años se contaban desde el ascenso de un gobernante al trono. Evergetes significa benefactor y fue un título de los reyes griegos de Egipto."
+        },
+        {
+          "term": "Quienes viven en el extranjero",
+          "original": "Greek: ἐν τῇ παροικίᾳ (en te paroikia)",
+          "note": "Se refiere a judíos establecidos fuera de su tierra, aquí en Egipto, que hablaban y leían griego en lugar de hebreo. La palabra indica que se reside como extranjero."
+        },
+        {
+          "term": "Alguna expresión no se ha transmitido con precisión",
+          "original": "Greek: ἀδυναμεῖν (adynamein), literally to lack power",
+          "note": "El traductor reconoce que una expresión hebrea pierde fuerza en otra lengua. Es una observación sobre el trabajo de traducción, no una afirmación sobre el contenido."
+        }
+      ],
+      "keyTakeaway": "El traductor elogia las enseñanzas de Israel transmitidas por la Ley, los Profetas y los demás libros. Cuenta que su abuelo Jesús escribió esta obra tras años de estudio y pide indulgencia por las expresiones traducidas de forma imperfecta. Llegó a Egipto en el año treinta y ocho de Evergetes y allí tradujo el libro."
+    },
+    {
       "id": "sirach-1",
       "title": "📜 Eclesiástico (Sirácida) 1",
       "refs": [
@@ -226,7 +272,7 @@
         "No tengas consideraciones con otros en perjuicio propio, ni seas tan tímido que te perjudiques a ti mismo. (4:22).",
         "No dejes de hablar cuando sea necesario ni escondas tu sabiduría. (4:23).",
         "Porque la sabiduría se conoce al hablar, y la inteligencia, al dar una respuesta. (4:24).",
-        "No seas rebelde a la verdad, ni luches contra la corriente. No te dé vergüenza confesar tus faltas; avergüénzate de tu ignorancia. (4:25).",
+        "No seas rebelde a la verdad, ni luches contra la corriente. No te dé vergüenza confesar tus faltas; avergüénzate de tu ignorancia. (4:25-26).",
         "No te humilles delante de un insensato, pero no resistas a los que gobiernan. (4:27).",
         "Lucha por la justicia . hasta la muerte, y el Señor luchará a favor tuyo. (4:28).",
         "No seas altanero cuando hables, ni débil y cobarde en tus acciones. (4:29).",
@@ -1985,7 +2031,7 @@
         "Eclesiástico (Sirácida) 31:1-31"
       ],
       "summaryBullets": [
-        "Los desvelos del rico acaban con su salud; preocuparse por la comida quita el sueño; es peor que una grave enfermedad; no deja dormir. (31:1).",
+        "Los desvelos del rico acaban con su salud; preocuparse por la comida quita el sueño; es peor que una grave enfermedad; no deja dormir. (31:1-2).",
         "El rico se afana por amontonar riquezas, y cuando descansa puede gozar de ellas. (31:3).",
         "El pobre se afana por las necesidades de su casa, y cuando descansa todo le hace falta. (31:4).",
         "El que va tras el oro no queda sin culpa, y el que ama el dinero se extraviará por él. (31:5).",
@@ -2409,7 +2455,7 @@
         "Hay algunos que son sabios para sí mismos; su ciencia solo a ellos aprovecha; (37:22).",
         "y hay otros que son sabios para el pueblo, y su ciencia la aprovechan los demás. (37:23).",
         "El que es sabio para sí mismo, vivirá contento; todo el que lo ve, lo felicita. (37:24).",
-        "El que es sabio para el pueblo, tendrá honores; su fama durará para siempre. El hombre tiene una vida muy corta, pero Israel tiene vida sin término. (37:25).",
+        "El que es sabio para el pueblo, tendrá honores; su fama durará para siempre. El hombre tiene una vida muy corta, pero Israel tiene vida sin término. (37:25-26).",
         "Hijo mío, muestra en el comer que eres dueño de ti mismo, y evita las cosas que te hagan daño, (37:27).",
         "pues no todo es bueno para todos, ni a todos les sientan bien todos los alimentos. (37:28).",
         "No te abalances sobre todo lo que más te guste, ni te dediques a comer todo lo sabroso. (37:29).",

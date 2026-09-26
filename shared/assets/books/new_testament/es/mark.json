@@ -702,16 +702,6 @@
         "Éxodo 20:12; Deuteronomio 5:16: Honra a tu padre y a tu madre.",
         "Hechos 10:14-15: Los alimentos limpios e impuros tratados en una visión posterior."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "7:16",
-          "text": "El que tenga oídos para oír, que oiga"
-        },
-        {
-          "ref": "Mark 7:16",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 16: \"Si alguien tiene oídos para oír, que oiga\". Lo omiten el Códice Sinaítico, el Vaticano y varios otros testigos antiguos. Ese mismo dicho aparece en otros lugares de Marcos, en 4:9 y 4:23, donde los manuscritos más antiguos sí lo llevan."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Tradición (de los ancianos)",
@@ -756,6 +746,12 @@
         {
           "beforeVerse": 31,
           "text": "Jesús sana a un sordomudo"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Mark 7:16",
+          "text": "Si alguno tiene oídos para oír, oiga."
         }
       ]
     },
@@ -925,20 +921,12 @@
       ],
       "manuscriptVariants": [
         {
-          "ref": "9:44",
-          "text": "apaga, donde “su gusano no muere, y el fuego no se apaga”"
+          "ref": "RVR1960 Mark 9:44",
+          "text": "donde el gusano de ellos no muere, y el fuego nunca se apaga."
         },
         {
-          "ref": "9:46",
-          "text": "infierno, donde “su gusano no muere, y el fuego no se apaga”"
-        },
-        {
-          "ref": "Mark 9:44",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 44 que repite el lenguaje del v. 48: \"donde su gusano no muere, y el fuego no se apaga\". Falta en el Códice Sinaítico, en el Vaticano y en los manuscritos más antiguos. Al parecer los copistas duplicaron el v. 48 por énfasis retórico después de cada una de las tres advertencias (vv. 43, 45, 47); solo la tercera aparición (v. 48) está en el texto original."
-        },
-        {
-          "ref": "Mark 9:46",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 46, idéntico al espurio v. 44 y al genuino v. 48: \"donde su gusano no muere, y el fuego no se apaga\". Falta en el Sinaítico, en el Vaticano y en otros testigos antiguos. Como el v. 44, es una duplicación escribal del v. 48 insertada por paralelismo rítmico después de cada advertencia."
+          "ref": "RVR1960 Mark 9:46",
+          "text": "donde el gusano de ellos no muere, y el fuego nunca se apaga."
         }
       ],
       "translationNotes": [
@@ -1141,16 +1129,6 @@
         "Salmos 118:25-26: \"Hosanna... Bendito el que viene en el nombre del SEÑOR\".",
         "Mateo 21:1-11; Lucas 19:28-40; Juan 12:12-15: Pasajes paralelos."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "11:26",
-          "text": "Pero, si ustedes no perdonan, tampoco su Padre que está en el cielo les perdonará a ustedes sus ofensas"
-        },
-        {
-          "ref": "Mark 11:26",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 26: \"Pero si ustedes no perdonan, tampoco su Padre que está en el cielo les perdonará sus ofensas\". Lo omiten el Códice Sinaítico, el Vaticano y las copias más antiguas. La redacción es casi idéntica a Mateo 6:15 y parece haber sido importada por los copistas para redondear la enseñanza sobre el perdón ya dada en el v. 25."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Hosanna",
@@ -1188,6 +1166,12 @@
         {
           "beforeVerse": 27,
           "text": "La autoridad de Jesús"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Mark 11:26",
+          "text": "Porque si vosotros no perdonáis, tampoco vuestro Padre que está en los cielos os perdonará vuestras ofensas."
         }
       ]
     },
@@ -1616,16 +1600,6 @@
         "Lucas 23:18-25; Mateo 27:15-31; Juan 18:28-19:16: Pasajes paralelos.",
         "Salmos 22:7: Imágenes de burla."
       ],
-      "manuscriptVariants": [
-        {
-          "ref": "15:28",
-          "text": "Así se cumplió la Escritura que dice: «Fue contado entre los malhechores»"
-        },
-        {
-          "ref": "Mark 15:28",
-          "text": "Algunos manuscritos posteriores añaden aquí un versículo 28: \"Y se cumplió la Escritura que dice: Fue contado con los transgresores\". Falta en el Códice Sinaítico, en el Vaticano y en el de Beza, y en los testigos latinos antiguos. Las palabras citadas son Isaías 53:12, y Jesús se aplica esa línea a sí mismo en Lucas 22:37; los copistas que conocían la frase de allí la escribieron también dentro del relato de la crucifixión."
-        }
-      ],
       "translationNotes": [
         {
           "term": "Barrabás",
@@ -1684,6 +1658,12 @@
         {
           "beforeVerse": 42,
           "text": "Jesús es sepultado"
+        }
+      ],
+      "manuscriptVariants": [
+        {
+          "ref": "RVR1960 Mark 15:28",
+          "text": "Y se cumplió la Escritura que dice: Y fue contado con los inicuos."
         }
       ]
     },
