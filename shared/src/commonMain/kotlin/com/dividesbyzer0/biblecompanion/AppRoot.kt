@@ -3455,7 +3455,7 @@ private fun IntroCard(
 // -------------------------------------- Story cards ------------------------------------
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
-fun StoryCard(
+internal fun StoryCard(
   col: String,
   bookId: String,
   story: Story,

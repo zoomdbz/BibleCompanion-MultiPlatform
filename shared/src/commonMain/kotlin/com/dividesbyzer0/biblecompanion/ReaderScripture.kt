@@ -267,7 +267,7 @@ private fun ReaderScriptureTextBlock(
  * Verse markers are presentation-only; the source bullets remain unchanged.
  */
 @Composable
-fun ReaderScripture(
+internal fun ReaderScripture(
   story: Story,
   col: String,
   prefs: PrefsState,
