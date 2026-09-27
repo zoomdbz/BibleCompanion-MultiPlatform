@@ -7,6 +7,18 @@ import kotlin.math.min
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 
+/**
+ * Tokenization shared by index construction and candidate scoring. The input
+ * is already normalized, so preserving this exact split keeps phrase ranking
+ * identical without retaining a word list for every verse in memory.
+ */
+internal fun storySearchVerseWords(normalizedText: String): List<String> =
+  normalizedText.split(' ').filter { it.isNotEmpty() }
+
+/** One posting per word and verse; candidate lookup already has set semantics. */
+internal fun storySearchPostingWords(normalizedText: String): List<String> =
+  storySearchVerseWords(normalizedText).asSequence().filter { it.length >= 2 }.distinct().toList()
+
 object StorySearch {
 
   private data class Doc(
@@ -28,8 +40,7 @@ object StorySearch {
     val verse: Int,
     val verseEnd: Int?,
     val text: String,
-    val rawText: String,
-    val words: List<String>
+    val rawText: String
   )
 
   private data class NoteDoc(
@@ -131,11 +142,10 @@ object StorySearch {
             val v = m.groupValues[2].toIntOrNull() ?: continue
             val vEnd = m.groupValues[3].toIntOrNull()
             val normText = normalize(stripScriptureInlineTags(bullet))
-            val allWords = normText.split(' ').filter { it.isNotEmpty() }
             val vDocIdx = verseDocs.size
-            verseDocs += VerseDoc(col, bookId, bookTitle, story.id, bIdx, ch, v, vEnd, normText, bullet, allWords)
-            for (word in allWords) {
-              if (word.length >= 2) verseInvertedIndex.getOrPut(word) { mutableListOf() }.add(vDocIdx)
+            verseDocs += VerseDoc(col, bookId, bookTitle, story.id, bIdx, ch, v, vEnd, normText, bullet)
+            for (word in storySearchPostingWords(normText)) {
+              verseInvertedIndex.getOrPut(word) { mutableListOf() }.add(vDocIdx)
             }
           }
         }
@@ -677,7 +687,15 @@ object StorySearch {
     val verseHits = mutableListOf<Pair<Int, Int>>()
     for (idx in candidates) {
       val vd = verseDocs[idx]
-      val score = scoreVerse(vd.text, q, allTokens, sigTokens, lang, qWords, vd.words)
+      val score = scoreVerse(
+        vd.text,
+        q,
+        allTokens,
+        sigTokens,
+        lang,
+        qWords,
+        storySearchVerseWords(vd.text)
+      )
       if (score <= 0) continue
       val withCol = score + when (vd.collection) {
         "old_testament", "new_testament" -> 100
