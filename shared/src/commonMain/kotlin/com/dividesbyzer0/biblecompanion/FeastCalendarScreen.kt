@@ -21,6 +21,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.text.selection.SelectionContainer
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
@@ -729,42 +730,48 @@ internal fun OrdainedFeastsCard(expanded: Boolean, onToggle: () -> Unit, prefs: 
 
 @Composable
 private fun OrdainedFeastRow(name: String, ref: String, prefs: PrefsState) {
-  Row(
-    Modifier.fillMaxWidth().padding(vertical = 3.dp),
-    verticalAlignment = Alignment.CenterVertically
-  ) {
-    Text(
-      name,
-      style = MaterialTheme.typography.bodySmall,
-      fontWeight = FontWeight.SemiBold,
-      modifier = Modifier.weight(1f)
-    )
-    ScriptureRefs.ClickableRefsText(
-      text = ref,
-      collection = "old_testament",
-      prefs = prefs,
-      textStyle = MaterialTheme.typography.labelSmall
-    )
+  SelectionContainer {
+    Row(
+      Modifier.fillMaxWidth().padding(vertical = 3.dp),
+      verticalAlignment = Alignment.CenterVertically
+    ) {
+      Text(
+        name,
+        style = MaterialTheme.typography.bodySmall,
+        fontWeight = FontWeight.SemiBold,
+        modifier = Modifier.weight(1f)
+      )
+      ScriptureRefs.ClickableRefsText(
+        text = ref,
+        collection = "old_testament",
+        prefs = prefs,
+        textStyle = MaterialTheme.typography.labelSmall,
+        selectionCompatible = true
+      )
+    }
   }
 }
 
 @Composable
 private fun TypologyRow(feast: String, meaning: String, ref: String, prefs: PrefsState) {
-  Row(Modifier.fillMaxWidth().padding(vertical = 2.dp)) {
-    Text(
-      feast,
-      style = MaterialTheme.typography.bodySmall,
-      fontWeight = FontWeight.SemiBold,
-      modifier = Modifier.weight(1f)
-    )
-    Column(Modifier.weight(1f), horizontalAlignment = Alignment.End) {
-      Text(meaning, style = MaterialTheme.typography.bodySmall, textAlign = TextAlign.End)
-      ScriptureRefs.ClickableRefsText(
-        text = ref,
-        collection = "new_testament",
-        prefs = prefs,
-        textStyle = MaterialTheme.typography.labelSmall
+  SelectionContainer {
+    Row(Modifier.fillMaxWidth().padding(vertical = 2.dp)) {
+      Text(
+        feast,
+        style = MaterialTheme.typography.bodySmall,
+        fontWeight = FontWeight.SemiBold,
+        modifier = Modifier.weight(1f)
       )
+      Column(Modifier.weight(1f), horizontalAlignment = Alignment.End) {
+        Text(meaning, style = MaterialTheme.typography.bodySmall, textAlign = TextAlign.End)
+        ScriptureRefs.ClickableRefsText(
+          text = ref,
+          collection = "new_testament",
+          prefs = prefs,
+          textStyle = MaterialTheme.typography.labelSmall,
+          selectionCompatible = true
+        )
+      }
     }
   }
 }

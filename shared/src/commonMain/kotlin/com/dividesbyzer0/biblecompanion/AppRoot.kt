@@ -54,6 +54,7 @@ import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.foundation.text.selection.SelectionContainer
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -81,6 +82,7 @@ import androidx.compose.material.icons.filled.Pause
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.Stop
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.SelectAll
 import androidx.compose.material.icons.filled.Shield
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Share
@@ -165,6 +167,8 @@ import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.semantics.selected
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.TextRange
+import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
@@ -205,7 +209,6 @@ import com.dividesbyzer0.biblecompanion.platform.platformTtsResume
 import com.dividesbyzer0.biblecompanion.platform.platformTtsIsPaused
 import com.dividesbyzer0.biblecompanion.platform.platformSetAppLocale
 import com.dividesbyzer0.biblecompanion.platform.platformDynamicColorScheme
-import com.dividesbyzer0.biblecompanion.platform.platformRecreateApp
 import com.dividesbyzer0.biblecompanion.platform.platformSupportsDynamicColor
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.collect
@@ -337,6 +340,15 @@ fun AppRoot(
     }
 
     var pendingSearchFocus by remember { mutableStateOf(false) }
+    val focusHomeSearch: () -> Unit = {
+      if (nav.currentDestination?.route != Dest.Home.route) {
+        nav.navigate(Dest.Home.route) {
+          popUpTo(Dest.Home.route) { inclusive = true }
+          launchSingleTop = true
+        }
+      }
+      pendingSearchFocus = true
+    }
     // Android re-delivers its launch intent after rotation, while iOS keeps
     // shortcuts and deep links in independent event streams. Consume each
     // stream once so rotation cannot replay it and a later event cannot replay
@@ -348,16 +360,7 @@ fun AppRoot(
       if (shortcutAction == null || shortcutNavConsumed) return@LaunchedEffect
       shortcutNavConsumed = true
       when (shortcutAction) {
-        "search" -> {
-          // Make sure we're on Home, then trigger focus via state.
-          if (nav.currentDestination?.route != Dest.Home.route) {
-            nav.navigate(Dest.Home.route) {
-              popUpTo(Dest.Home.route) { inclusive = true }
-              launchSingleTop = true
-            }
-          }
-          pendingSearchFocus = true
-        }
+        "search" -> focusHomeSearch()
         "bookmarks" -> nav.navigate(Dest.SavedItems.route) { launchSingleTop = true }
         "feast_calendar" -> nav.navigate(Dest.FeastCalendar.route) { launchSingleTop = true }
         "continue" -> {
@@ -378,7 +381,11 @@ fun AppRoot(
     LaunchedEffect(deepLinkRoute, deepLinkEventId) {
       if (deepLinkRoute == null || deepLinkNavConsumed) return@LaunchedEffect
       deepLinkNavConsumed = true
-      nav.navigate(deepLinkRoute) { launchSingleTop = true }
+      when (val target = externalNavigationTarget(deepLinkRoute)) {
+        ExternalNavigationTarget.FocusSearch -> focusHomeSearch()
+        is ExternalNavigationTarget.Navigate -> nav.navigate(target.route) { launchSingleTop = true }
+        null -> Unit
+      }
     }
 
     val internalNavigate: (String, String, String?, Int?, Int?) -> Unit = { col, bookId, storyId, verse, verseEnd ->
@@ -2524,30 +2531,54 @@ fun BookScreen(
       refreshViewportAnchorFromMeasurements(observed.epoch)
     }
   }
-  LaunchedEffect(viewportRestoreRequestId, viewportRestorePending, viewportAnchorStoryId, viewportAnchorBullet, viewportHeightPx, book) {
+  LaunchedEffect(
+    viewportRestoreRequestId,
+    viewportRestorePending,
+    viewportAnchorStoryId,
+    viewportAnchorBullet,
+    viewportHeightPx > 0,
+    book
+  ) {
     val storyId = viewportAnchorStoryId ?: return@LaunchedEffect
     if (!viewportRestorePending || viewportHeightPx <= 0 || book == null) return@LaunchedEffect
     val item = storyIndex[storyId] ?: run { viewportRestorePending = false; return@LaunchedEffect }
     val requestId = viewportRestoreRequestId
     val key = "$storyId/$viewportAnchorBullet"
+    val fallbackItem = listState.firstVisibleItemIndex
+    val fallbackOffset = listState.firstVisibleItemScrollOffset
     viewportRestoringRequestId = requestId
-    positionedVerseRoots.clear()
     var restored = false
+    var completed = false
     try {
-      // storyIndex already includes the optional intro item.
-      listState.scrollToItem(item)
+      // Move callbacks into the new generation before changing the list
+      // position. Advancing it after scrollToItem can miss the placement that
+      // supplies the target verse, then the timeout leaves the chapter at its
+      // first line.
       val measurementEpoch = viewportMeasurementEpoch + 1
       viewportMeasurementEpoch = measurementEpoch
-      val measurement = withTimeoutOrNull(1_000) {
+      withFrameNanos { }
+      positionedVerseRoots.clear()
+
+      // storyIndex already includes the optional intro item.
+      listState.scrollToItem(item)
+      val measurement = withTimeoutOrNull(2_000) {
         snapshotFlow { positionedVerseRoots[key] }
           .first { it?.generation == measurementEpoch }
       }
       if (measurement != null && viewportRestoreRequestId == requestId && viewportRestorePending) {
         listState.scrollBy(measurement.rootY - (viewportTopY + viewportAnchorOffset))
         restored = true
+      } else if (viewportRestoreRequestId == requestId && viewportRestorePending) {
+        // A missing callback must not strand the reader at the chapter start.
+        // The restored LazyList position is less exact after reflow, but it is
+        // still a safe fallback and keeps the user's prior reading area.
+        listState.scrollToItem(fallbackItem, fallbackOffset)
       }
+      completed = true
     } finally {
-      if (viewportRestoreRequestId == requestId) {
+      // A LaunchedEffect key change cancels the old transaction. Keep the
+      // request pending in that case so the replacement effect can finish it.
+      if (completed && viewportRestoreRequestId == requestId) {
         viewportRestorePending = false
         if (restored) viewportHasVisibleVerse = true
       }
@@ -3442,7 +3473,8 @@ private fun IntroCard(
                 text = paragraph.trim(),
                 collection = collection,
                 prefs = prefs,
-                textStyle = MaterialTheme.typography.bodyLarge
+                textStyle = MaterialTheme.typography.bodyLarge,
+                selectionCompatible = true
               )
             }
           }
@@ -3603,7 +3635,8 @@ internal fun StoryCard(
               text = refsJoined,
               collection = col,
               prefs = prefs,
-              referenceEditionId = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
+              referenceEditionId = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion),
+              selectionCompatible = true
             )
           }
         }
@@ -3686,7 +3719,8 @@ internal fun StoryCard(
                       collection = col,
                       prefs = prefs,
                       defaultBook = defaultBook,
-                      allowRelativeInParensOnly = true
+                      allowRelativeInParensOnly = true,
+                      selectionCompatible = true
                     )
                   }
                 }
@@ -3740,7 +3774,8 @@ internal fun StoryCard(
                           collection = col,
                           prefs = prefs,
                           defaultBook = defaultBook,
-                          allowRelativeInParensOnly = true
+                          allowRelativeInParensOnly = true,
+                          selectionCompatible = true
                         )
                       }
                     }
@@ -3798,7 +3833,8 @@ internal fun StoryCard(
                           prefs = prefs,
                           defaultBook = defaultBook,
                           allowRelativeInParensOnly = true,
-                          textStyle = MaterialTheme.typography.titleSmall
+                          textStyle = MaterialTheme.typography.titleSmall,
+                          selectionCompatible = true
                         )
                       }
                       SelectionContainer {
@@ -3808,7 +3844,8 @@ internal fun StoryCard(
                           prefs = prefs,
                           defaultBook = defaultBook,
                           allowRelativeInParensOnly = true,
-                          textStyle = MaterialTheme.typography.bodyMedium
+                          textStyle = MaterialTheme.typography.bodyMedium,
+                          selectionCompatible = true
                         )
                       }
                     }
@@ -3864,7 +3901,8 @@ internal fun StoryCard(
                           collection = col,
                           prefs = prefs,
                           allowRelativeInParensOnly = true,
-                          textStyle = MaterialTheme.typography.titleSmall
+                          textStyle = MaterialTheme.typography.titleSmall,
+                          selectionCompatible = true
                         )
                       }
                       tn.original?.takeIf { it.isNotBlank() }?.let { orig ->
@@ -3884,7 +3922,8 @@ internal fun StoryCard(
                           collection = col,
                           prefs = prefs,
                           defaultBook = defaultBook,
-                          allowRelativeInParensOnly = true
+                          allowRelativeInParensOnly = true,
+                          selectionCompatible = true
                         )
                       }
                     }
@@ -5258,14 +5297,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                     }
                   }
 
-                  // Only push a locale change and recreate the activity when
-                  // the user actually picked a different language. Reselecting
-                  // the current language used to fire an unconditional
-                  // recreate, which logcat showed as a spurious 1+ second
-                  // stall + relaunch.
+                  // AppCompat recreates Android activities when the locale
+                  // changes. Do not request a second explicit recreation.
                   if (code != prevLang) {
                     platformSetAppLocale(code)
-                    platformRecreateApp(ctx)
                   }
                 }
               }
@@ -5767,25 +5802,27 @@ fun AboutScreen(onBack: () -> Unit) {
       Spacer(Modifier.height(8.dp))
 
       // Content
-      Column(
-        Modifier.fillMaxWidth(),
-        verticalArrangement = Arrangement.spacedBy(12.dp),
-        horizontalAlignment = Alignment.Start
-      ) {
-        Text(stringResource(Res.string.about_what_title), style = MaterialTheme.typography.titleMedium)
-        Text(stringResource(Res.string.about_what_text))
-        Text(stringResource(Res.string.about_features_text))
-        Text(
-          stringResource(Res.string.about_mission_text),
-          style = MaterialTheme.typography.bodyMedium,
-          fontStyle = androidx.compose.ui.text.font.FontStyle.Italic
-        )
-        Text(
-          stringResource(Res.string.about_free_text),
-          style = MaterialTheme.typography.titleSmall,
-          textAlign = androidx.compose.ui.text.style.TextAlign.Center,
-          modifier = Modifier.fillMaxWidth()
-        )
+      SelectionContainer {
+        Column(
+          Modifier.fillMaxWidth(),
+          verticalArrangement = Arrangement.spacedBy(12.dp),
+          horizontalAlignment = Alignment.Start
+        ) {
+          Text(stringResource(Res.string.about_what_title), style = MaterialTheme.typography.titleMedium)
+          Text(stringResource(Res.string.about_what_text))
+          Text(stringResource(Res.string.about_features_text))
+          Text(
+            stringResource(Res.string.about_mission_text),
+            style = MaterialTheme.typography.bodyMedium,
+            fontStyle = androidx.compose.ui.text.font.FontStyle.Italic
+          )
+          Text(
+            stringResource(Res.string.about_free_text),
+            style = MaterialTheme.typography.titleSmall,
+            textAlign = androidx.compose.ui.text.style.TextAlign.Center,
+            modifier = Modifier.fillMaxWidth()
+          )
+        }
       }
 
       Spacer(Modifier.height(16.dp))
@@ -5845,6 +5882,61 @@ private fun splitMarkdownSections(body: String, headingPrefix: String = "## "): 
   return sections.map { it.first to it.second.toString() }
 }
 
+internal fun genericNotesPlainText(body: String): String = markdownToPlainText(body)
+
+@Composable
+private fun FullNoteSelectionDialog(
+  noteText: String,
+  onDismiss: () -> Unit,
+  onCopyAll: () -> Unit
+) {
+  val focusRequester = remember { FocusRequester() }
+  var selectedValue by remember(noteText) {
+    mutableStateOf(
+      TextFieldValue(
+        text = noteText,
+        selection = TextRange(0, noteText.length)
+      )
+    )
+  }
+
+  LaunchedEffect(noteText) {
+    withFrameNanos { }
+    focusRequester.requestFocus()
+  }
+
+  AlertDialog(
+    onDismissRequest = onDismiss,
+    title = { Text(stringResource(Res.string.select_all)) },
+    text = {
+      BasicTextField(
+        value = selectedValue,
+        onValueChange = { next ->
+          if (next.text == noteText) selectedValue = next
+        },
+        readOnly = true,
+        textStyle = MaterialTheme.typography.bodyMedium.copy(
+          color = MaterialTheme.colorScheme.onSurface
+        ),
+        modifier = Modifier
+          .fillMaxWidth()
+          .heightIn(max = 420.dp)
+          .focusRequester(focusRequester)
+      )
+    },
+    confirmButton = {
+      TextButton(onClick = onCopyAll) {
+        Text(stringResource(Res.string.copy_all))
+      }
+    },
+    dismissButton = {
+      TextButton(onClick = onDismiss) {
+        Text(stringResource(Res.string.cancel))
+      }
+    }
+  )
+}
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun GenericNotesScreen(
@@ -5872,6 +5964,7 @@ private fun GenericNotesScreen(
   }
 
   val titleText = stringResource(titleRes)
+  val fullNoteText = remember(body) { genericNotesPlainText(body) }
   val sections = remember(body, headingPrefix) { splitMarkdownSections(body, headingPrefix) }
   val sectionHeaders = remember(sections) { sections.mapNotNull { it.first } }
   val showToc = toc && !collapsible && sectionHeaders.size >= 8
@@ -5886,7 +5979,17 @@ private fun GenericNotesScreen(
     LazyListState(noteState.firstVisibleItem.coerceAtLeast(0), noteState.firstVisibleOffset.coerceAtLeast(0))
   }
   val scope = rememberCoroutineScope()
+  val snackbarHostState = remember { SnackbarHostState() }
+  val copiedMessage = stringResource(Res.string.copied_to_clipboard)
   var tocDropdownExpanded by remember { mutableStateOf(false) }
+
+  fun copyAllNote() {
+    platformCopyToClipboard(ctx, titleText, fullNoteText)
+    scope.launch {
+      snackbarHostState.currentSnackbarData?.dismiss()
+      snackbarHostState.showSnackbar(copiedMessage, duration = SnackbarDuration.Short)
+    }
+  }
 
   fun saveNoteState(state: NotesScreenState) {
     LiveNotesScreenStates.record(notesLanguage, assetFileName, state)
@@ -5927,12 +6030,14 @@ private fun GenericNotesScreen(
 
   var selectionResetKey by remember { mutableStateOf(0) }
   var showDismissButton by remember { mutableStateOf(false) }
+  var showFullSelection by remember(notesKey) { mutableStateOf(false) }
 
   LaunchedEffect(selectionResetKey) {
     showDismissButton = false
   }
 
   Scaffold(
+    snackbarHost = { SnackbarHost(snackbarHostState) },
     topBar = {
       CenterAlignedTopAppBar(
         title = {
@@ -5980,11 +6085,14 @@ private fun GenericNotesScreen(
           }
         },
         actions = {
-          if (body.isNotBlank()) {
-            IconButton(onClick = { platformCopyToClipboard(ctx, titleText, markdownToPlainText(body)) }) {
-              Icon(imageVector = Icons.Filled.ContentCopy, contentDescription = stringResource(Res.string.cd_copy))
+          if (fullNoteText.isNotBlank()) {
+            IconButton(onClick = { showFullSelection = true }) {
+              Icon(imageVector = Icons.Filled.SelectAll, contentDescription = stringResource(Res.string.select_all))
             }
-            IconButton(onClick = { platformShareText(ctx, titleText, markdownToPlainText(body)) }) {
+            IconButton(onClick = { copyAllNote() }) {
+              Icon(imageVector = Icons.Filled.ContentCopy, contentDescription = stringResource(Res.string.copy_all))
+            }
+            IconButton(onClick = { platformShareText(ctx, titleText, fullNoteText) }) {
               Icon(imageVector = Icons.Filled.Share, contentDescription = stringResource(Res.string.share))
             }
           }
@@ -6220,5 +6328,16 @@ private fun GenericNotesScreen(
       }
     }
     } // Box
+  }
+
+  if (showFullSelection) {
+    FullNoteSelectionDialog(
+      noteText = fullNoteText,
+      onDismiss = { showFullSelection = false },
+      onCopyAll = {
+        copyAllNote()
+        showFullSelection = false
+      }
+    )
   }
 }

@@ -7,6 +7,38 @@ import kotlin.test.assertTrue
 class LocalizedReferenceTailTest {
 
   @Test
+  fun referenceTailStopsBeforeFollowingProseWhitespace() {
+    val chapterProse = "37 presents two signs"
+    val rangeProse = "4:4-6 assigns the prophet"
+    val verseProse = "26:28 warn of discipline"
+
+    val chapterEnd = ScriptureRefs.scanRefTail(chapterProse, 0)
+    val rangeEnd = ScriptureRefs.scanRefTail(rangeProse, 0)
+    val verseEnd = ScriptureRefs.scanRefTail(verseProse, 0)
+
+    assertEquals("37".length, chapterEnd)
+    assertEquals("4:4-6".length, rangeEnd)
+    assertEquals("26:28".length, verseEnd)
+    assertTrue(chapterProse.substring(chapterEnd).startsWith(" presents"))
+    assertTrue(rangeProse.substring(rangeEnd).startsWith(" assigns"))
+    assertTrue(verseProse.substring(verseEnd).startsWith(" warn"))
+  }
+
+  @Test
+  fun localizedChapterOnlyTailStopsBeforeFollowingProseWhitespace() {
+    val chinese = "16\u7AE0 \u5927\u796D\u53F8"
+    val korean = "15\uC7A5 \uC790\uCCB4\uAC00"
+
+    val chineseEnd = ScriptureRefs.scanRefTail(chinese, 0)
+    val koreanEnd = ScriptureRefs.scanRefTail(korean, 0)
+
+    assertEquals("16\u7AE0".length, chineseEnd)
+    assertEquals("15\uC7A5".length, koreanEnd)
+    assertTrue(chinese.substring(chineseEnd).startsWith(" \u5927\u796D\u53F8"))
+    assertTrue(korean.substring(koreanEnd).startsWith(" \uC790\uCCB4\uAC00"))
+  }
+
+  @Test
   fun normalizesChineseChapterAndVerseGrammar() {
     assertEquals("53", ScriptureRefs.normalizeCjkTail("第53章"))
     assertEquals("53:1", ScriptureRefs.normalizeCjkTail("第53章第1节"))

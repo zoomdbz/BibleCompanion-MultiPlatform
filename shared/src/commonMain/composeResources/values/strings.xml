@@ -185,6 +185,7 @@
     <string name="import_confirm">Restore</string>
     <string name="cancel">Cancel</string>
     <string name="select_all">Select All</string>
+    <string name="copy_all">Copy All</string>
     <string name="copied_to_clipboard">Copied to clipboard</string>
     <string name="import_success">Success: data restored</string>
     <string name="import_error">Error: invalid backup data</string>

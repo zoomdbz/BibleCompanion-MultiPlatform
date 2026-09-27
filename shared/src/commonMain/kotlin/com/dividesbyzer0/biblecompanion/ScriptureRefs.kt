@@ -13,6 +13,8 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.heightIn
+import androidx.compose.foundation.gestures.awaitEachGesture
+import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.foundation.gestures.detectTapGestures
 import androidx.compose.foundation.focusable
 import androidx.compose.foundation.lazy.LazyColumn
@@ -36,6 +38,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.input.pointer.PointerEventPass
 import androidx.compose.ui.input.key.Key
 import androidx.compose.ui.input.key.KeyEventType
 import androidx.compose.ui.input.key.key
@@ -1019,7 +1022,8 @@ object ScriptureRefs {
     onNonLinkClick: (() -> Unit)? = null,
     referenceEditionId: String? = null,
     referenceLanguage: String? = null,
-    readerOptions: ReaderTextOptions? = null
+    readerOptions: ReaderTextOptions? = null,
+    selectionCompatible: Boolean = false
   ) {
     Internal(
       rawText = text,
@@ -1034,7 +1038,8 @@ object ScriptureRefs {
       onNonLinkClick = onNonLinkClick,
       referenceEditionId = referenceEditionId,
       referenceLanguage = referenceLanguage,
-      readerOptions = readerOptions
+      readerOptions = readerOptions,
+      selectionCompatible = selectionCompatible
     )
   }
 
@@ -1045,7 +1050,8 @@ object ScriptureRefs {
     modifier: Modifier = Modifier,
     inlineMarkdown: Boolean = false,
     textStyle: TextStyle = MaterialTheme.typography.bodyMedium,
-    referenceEditionId: String? = null
+    referenceEditionId: String? = null,
+    selectionCompatible: Boolean = false
   ) {
     Internal(
       rawText = text,
@@ -1056,7 +1062,8 @@ object ScriptureRefs {
       modifier = modifier,
       textStyle = textStyle,
       collection = "old_testament",
-      referenceEditionId = referenceEditionId
+      referenceEditionId = referenceEditionId,
+      selectionCompatible = selectionCompatible
     )
   }
 
@@ -1074,7 +1081,8 @@ object ScriptureRefs {
     onNonLinkClick: (() -> Unit)? = null,
     referenceEditionId: String? = null,
     referenceLanguage: String? = null,
-    readerOptions: ReaderTextOptions? = null
+    readerOptions: ReaderTextOptions? = null,
+    selectionCompatible: Boolean = false
   ) {
     val defaultEntry: BookEntry? = books.firstOrNull {
       it.canon.equals(defaultBook, ignoreCase = true) || assetBookId(it) == defaultBook
@@ -1654,6 +1662,24 @@ object ScriptureRefs {
         }
       }
     }
+    val selectionLinkActions = remember(asText, selectionCompatible, referenceActionLabel) {
+      if (!selectionCompatible) {
+        emptyList()
+      } else {
+        listOf("URL", "BIBLE_REF").flatMap { tag ->
+          asText.getStringAnnotations(tag, 0, asText.length).map { annotation ->
+            val label = asText.text
+              .substring(annotation.start, annotation.end)
+              .ifBlank { referenceActionLabel }
+            CustomAccessibilityAction(label) {
+              currentClickHandler.value(annotation.start)
+              true
+            }
+          }
+        }
+      }
+    }
+    val textActions = readerActions + selectionLinkActions
     val primaryVerseIndex = accessibleVerses.singleOrNull()?.index
     val primaryReaderAction: (() -> Boolean)? = remember(
       usesVerseDialog,
@@ -1679,9 +1705,9 @@ object ScriptureRefs {
     }
     val positionedModifier = modifier
       .then(
-        if (readerActions.isNotEmpty() || primaryReaderAction != null) {
+        if (textActions.isNotEmpty() || primaryReaderAction != null) {
           Modifier.semantics {
-            customActions = readerActions
+            customActions = textActions
             if (primaryReaderAction != null) {
               onClick(label = primaryReaderLabel, action = primaryReaderAction)
             }
@@ -1781,6 +1807,46 @@ object ScriptureRefs {
               }
             }
           )
+        },
+        style = renderedStyle,
+        onTextLayout = { result ->
+          textLayoutResult = result
+          publishReaderVersePositions()
+        }
+      )
+    } else if (selectionCompatible) {
+      BasicText(
+        text = asText,
+        modifier = positionedModifier.pointerInput(asText.text) {
+          awaitEachGesture {
+            val down = awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Final)
+            val start = down.position
+            var canceled = down.isConsumed
+            var releasedPosition = start
+            var releasedAt = down.uptimeMillis
+            var pressed = true
+            while (pressed) {
+              val event = awaitPointerEvent(PointerEventPass.Final)
+              val change = event.changes.firstOrNull { it.id == down.id }
+              if (change == null) {
+                canceled = true
+                break
+              }
+              if (change.isConsumed || (change.position - start).getDistance() > viewConfiguration.touchSlop) {
+                canceled = true
+              }
+              if (!change.pressed) {
+                releasedPosition = change.position
+                releasedAt = change.uptimeMillis
+                pressed = false
+              }
+            }
+            if (!canceled && releasedAt - down.uptimeMillis < viewConfiguration.longPressTimeoutMillis) {
+              textLayoutResult?.getOffsetForPosition(releasedPosition)?.let { offset ->
+                currentClickHandler.value(offset)
+              }
+            }
+          }
         },
         style = renderedStyle,
         onTextLayout = { result ->
@@ -1972,6 +2038,7 @@ object ScriptureRefs {
 
   internal fun scanRefTail(s: String, start: Int): Int {
     var i = start
+    var referenceEnd = start
     fun dash(c: Char?) = c == '\u2010' || c == '\u2011' || c == '\u2013' || c == '\u2014' ||
       c == '-' || c == '\uFF0D' || c == '\u301C' || c == '\uFF5E'
     fun skip() { while (s.getOrNull(i) == ' ') i++ }
@@ -1986,6 +2053,7 @@ object ScriptureRefs {
     skip()
     if (chapterPrefix(s.getOrNull(i))) { i++; skip() }
     if (!digits()) return start
+    referenceEnd = i
     val chEnd = s.getOrNull(i)
     val chEndNext = s.getOrNull(i + 1)
     val hasEuroVerseSep = (chEnd == ',' || chEnd == '.') && chEndNext?.isDigit() == true
@@ -1998,12 +2066,14 @@ object ScriptureRefs {
         i++; skip()
         if (!digits()) return saveDash
         if (chapterSuffix(s.getOrNull(i))) i++
+        referenceEnd = i
       }
-      return i
+      return referenceEnd
     }
 
     val localizedChapterEnd = hasLocalizedChapterMark
     i++
+    val localizedChapterOnlyEnd = i
     skip()
     if (chapterPrefix(s.getOrNull(i))) { i++; skip() }
     val verseStart = i
@@ -2011,9 +2081,10 @@ object ScriptureRefs {
       // A chapter-only reference such as 以賽亞書第53章 includes the suffix
       // in the clickable range. Colon/comma forms still stop before an empty
       // verse component.
-      return if (localizedChapterEnd) i else verseStart - 1
+      return if (localizedChapterEnd) localizedChapterOnlyEnd else verseStart - 1
     }
     localizedVerseSuffix()
+    referenceEnd = i
 
     while (true) {
       skip()
@@ -2022,9 +2093,10 @@ object ScriptureRefs {
           val commaPos = i
           i++; skip()
           val digitStart = i
-          if (!digits()) return i
+          if (!digits()) return commaPos
           if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
           localizedVerseSuffix()
+          referenceEnd = i
         }
         '.' -> {
           // German references use a comma (or sometimes a period) between
@@ -2037,28 +2109,40 @@ object ScriptureRefs {
           i++; skip()
           if (!digits()) return periodPos
           localizedVerseSuffix()
+          referenceEnd = i
         }
         '\u2010', '\u2011', '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
           val saveDash = i
           i++; skip()
           if (!digits()) return saveDash
           localizedVerseSuffix()
+          referenceEnd = i
           val save = i; skip()
-          if (s.getOrNull(i) == ':') { i++; skip(); if (!digits()) { i = save } else localizedVerseSuffix() }
+          if (s.getOrNull(i) == ':') {
+            i++; skip()
+            if (!digits()) {
+              i = save
+            } else {
+              localizedVerseSuffix()
+              referenceEnd = i
+            }
+          }
         }
-        else -> return i
+        else -> return referenceEnd
       }
     }
   }
 
   private fun scanRelativeTail(s: String, start: Int): Int {
     var i = start
+    var referenceEnd = start
     fun skip() { while (s.getOrNull(i) == ' ') i++ }
     fun digits(): Boolean { val st = i; while (s.getOrNull(i)?.isDigit() == true) i++; return i > st }
 
     skip(); if (!digits()) return start
     skip(); if (s.getOrNull(i) != ':') return start
     i++; skip(); if (!digits()) return start
+    referenceEnd = i
 
     while (true) {
       skip()
@@ -2067,20 +2151,26 @@ object ScriptureRefs {
           val commaPos = i
           i++; skip()
           val digitStart = i
-          if (!digits()) return i
+          if (!digits()) return commaPos
           if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
+          referenceEnd = i
         }
         '\u2010', '\u2011', '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
           val saveDash = i
           i++; skip()
           if (!digits()) return saveDash
+          referenceEnd = i
           val save = i; skip()
           if (s.getOrNull(i) == ':') {
             i++; skip()
-            if (!digits()) { i = save; return i }
+            if (!digits()) {
+              i = save
+              return referenceEnd
+            }
+            referenceEnd = i
           }
         }
-        else -> return i
+        else -> return referenceEnd
       }
     }
   }

@@ -11,13 +11,18 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.mutableStateOf
 import androidx.core.os.LocaleListCompat
 import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.launch
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
 import com.dividesbyzer0.biblecompanion.platform.normalizeLocaleTagForCompare
 
+private data class NavigationEvent(val value: String?, val id: Long)
+
 class MainActivity : AppCompatActivity() {
+    private val shortcutEventState = mutableStateOf(NavigationEvent(null, 0L))
+    private val deepLinkEventState = mutableStateOf(NavigationEvent(null, 0L))
     private var notificationPermissionResult: ((Boolean) -> Unit)? = null
     private var notificationPermissionRequested = false
     private val notificationPermission = registerForActivityResult(ActivityResultContracts.RequestPermission()) {
@@ -34,7 +39,15 @@ class MainActivity : AppCompatActivity() {
 
     override fun onSaveInstanceState(outState: Bundle) {
         outState.putBoolean("daily_verse_permission_requested", notificationPermissionRequested)
+        outState.putLong("shortcut_event_id", shortcutEventState.value.id)
+        outState.putLong("deep_link_event_id", deepLinkEventState.value.id)
         super.onSaveInstanceState(outState)
+    }
+
+    override fun onNewIntent(intent: Intent) {
+        super.onNewIntent(intent)
+        setIntent(intent)
+        publishNavigationIntent(intent, newEvent = true)
     }
 
     override fun onResume() {
@@ -45,6 +58,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         notificationPermissionRequested = savedInstanceState?.getBoolean("daily_verse_permission_requested") ?: false
+        shortcutEventState.value = NavigationEvent(null, savedInstanceState?.getLong("shortcut_event_id") ?: 0L)
+        deepLinkEventState.value = NavigationEvent(null, savedInstanceState?.getLong("deep_link_event_id") ?: 0L)
         enableEdgeToEdge()
 
         DailyVerseNotificationBridge.install(object : DailyVerseNotificationHost {
@@ -93,6 +108,23 @@ class MainActivity : AppCompatActivity() {
             return
         }
 
+        publishNavigationIntent(intent, newEvent = savedInstanceState == null)
+
+        setContent {
+            val shortcutEvent = shortcutEventState.value
+            val deepLinkEvent = deepLinkEventState.value
+            CompositionLocalProvider(LocalPlatformContext provides this@MainActivity) {
+                AppRoot(
+                    shortcutAction = shortcutEvent.value,
+                    deepLinkRoute = deepLinkEvent.value,
+                    shortcutEventId = shortcutEvent.id,
+                    deepLinkEventId = deepLinkEvent.id
+                )
+            }
+        }
+    }
+
+    private fun publishNavigationIntent(intent: Intent?, newEvent: Boolean) {
         val shortcutAction = when (intent?.action) {
             "com.dividesbyzer0.biblecompanion.SEARCH" -> "search"
             "com.dividesbyzer0.biblecompanion.BOOKMARKS" -> "bookmarks"
@@ -126,10 +158,13 @@ class MainActivity : AppCompatActivity() {
             } else null
         }
 
-        setContent {
-            CompositionLocalProvider(LocalPlatformContext provides this@MainActivity) {
-                AppRoot(shortcutAction = shortcutAction, deepLinkRoute = deepLinkRoute)
-            }
+        if (shortcutAction != null) {
+            val prior = shortcutEventState.value
+            shortcutEventState.value = NavigationEvent(shortcutAction, prior.id + (if (newEvent) 1L else 0L))
+        }
+        if (deepLinkRoute != null) {
+            val prior = deepLinkEventState.value
+            deepLinkEventState.value = NavigationEvent(deepLinkRoute, prior.id + (if (newEvent) 1L else 0L))
         }
     }
 }

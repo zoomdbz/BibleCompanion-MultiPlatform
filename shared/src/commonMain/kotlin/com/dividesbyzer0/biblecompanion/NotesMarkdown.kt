@@ -27,14 +27,15 @@ fun RenderNotesMarkdown(
   ambientBook: String? = null,
   selectionResetKey: Int = 0
 ) {
-  if (body.isBlank()) {
+  val preparedBody = stripMarkdownHtmlComments(body)
+  if (preparedBody.isBlank()) {
     Text("\u2014", style = MaterialTheme.typography.bodyMedium)
     return
   }
 
   val ambientCollection: String? = ScriptureRefs.collectionOf(ambientBook)
 
-  val lines = body.replace("\r\n", "\n").split('\n')
+  val lines = preparedBody.replace("\r\n", "\n").split('\n')
   val isCjkLocale = when (LocaleUtils.effectiveAssetTag(prefs.appLanguage).lowercase()) {
     "ja", "ko", "zh-hans", "zh-hant" -> true
     else -> false
@@ -105,14 +106,16 @@ fun RenderNotesMarkdown(
                 prefs = prefs,
                 defaultBook = ambientBook,
                 allowRelativeInParensOnly = true,
-                textStyle = quoteStyle
+                textStyle = quoteStyle,
+                selectionCompatible = true
               )
             } else {
               ScriptureRefs.ClickableRefsTextSmart(
                 text = scanFriendly,
                 prefs = prefs,
                 inlineMarkdown = true,
-                textStyle = quoteStyle
+                textStyle = quoteStyle,
+                selectionCompatible = true
               )
             }
           }
@@ -131,13 +134,15 @@ fun RenderNotesMarkdown(
               prefs = prefs,
               defaultBook = ambientBook,
               allowRelativeInParensOnly = true,
-              textStyle = MaterialTheme.typography.bodyMedium
+              textStyle = MaterialTheme.typography.bodyMedium,
+              selectionCompatible = true
             )
           } else {
             ScriptureRefs.ClickableRefsTextSmart(
               text = scanFriendly,
               prefs = prefs,
-              inlineMarkdown = true
+              inlineMarkdown = true,
+              selectionCompatible = true
             )
           }
           i++; continue
@@ -154,13 +159,15 @@ fun RenderNotesMarkdown(
               prefs = prefs,
               defaultBook = ambientBook,
               allowRelativeInParensOnly = true,
-              textStyle = MaterialTheme.typography.bodyMedium
+              textStyle = MaterialTheme.typography.bodyMedium,
+              selectionCompatible = true
             )
           } else {
             ScriptureRefs.ClickableRefsTextSmart(
               text = scanFriendly,
               prefs = prefs,
-              inlineMarkdown = true
+              inlineMarkdown = true,
+              selectionCompatible = true
             )
           }
           i++; continue
@@ -221,13 +228,15 @@ fun RenderNotesMarkdown(
               prefs = prefs,
               defaultBook = ambientBook,
               allowRelativeInParensOnly = true,
-              textStyle = MaterialTheme.typography.bodyMedium
+              textStyle = MaterialTheme.typography.bodyMedium,
+              selectionCompatible = true
             )
           } else {
             ScriptureRefs.ClickableRefsTextSmart(
               text = scanFriendly,
               prefs = prefs,
-              inlineMarkdown = true
+              inlineMarkdown = true,
+              selectionCompatible = true
             )
           }
           Spacer(Modifier.height(6.dp))
@@ -295,8 +304,126 @@ private val jesusEnd = Regex("""\[/J]""", RegexOption.IGNORE_CASE)
 private val dnStart = Regex("""\[DN]""", RegexOption.IGNORE_CASE)
 private val dnEnd = Regex("""\[/DN]""", RegexOption.IGNORE_CASE)
 
+/**
+ * Removes Markdown HTML comments before block parsing while leaving comment-like
+ * text inside inline code spans and fenced code blocks untouched.
+ *
+ * Newlines inside comments survive so removing an audit marker cannot join two
+ * Markdown blocks or hide a following collapsible heading.
+ */
+internal fun stripMarkdownHtmlComments(src: String): String {
+  if ("<!--" !in src) return src
+
+  val out = StringBuilder(src.length)
+  var i = 0
+  var inComment = false
+  var inlineCodeTicks = 0
+  var fenceMarker: Char? = null
+  var fenceLength = 0
+  var lineStart = true
+
+  fun fenceAt(start: Int): Pair<Char, Int>? {
+    var cursor = start
+    var spaces = 0
+    while (spaces < 4 && src.getOrNull(cursor) == ' ') {
+      spaces++
+      cursor++
+    }
+    if (spaces > 3) return null
+    val marker = src.getOrNull(cursor) ?: return null
+    if (marker != '`' && marker != '~') return null
+    var end = cursor
+    while (src.getOrNull(end) == marker) end++
+    val length = end - cursor
+    return if (length >= 3) marker to length else null
+  }
+
+  while (i < src.length) {
+    if (inComment) {
+      when {
+        src.startsWith("-->", i) -> {
+          inComment = false
+          i += 3
+        }
+        src[i] == '\n' -> {
+          out.append('\n')
+          lineStart = true
+          i++
+        }
+        else -> i++
+      }
+      continue
+    }
+
+    if (lineStart && inlineCodeTicks == 0) {
+      if (src.startsWith("    ", i) || src.getOrNull(i) == '\t') {
+        val lineEnd = src.indexOf('\n', i).let { if (it < 0) src.length else it }
+        out.append(src.substring(i, lineEnd))
+        i = lineEnd
+        lineStart = false
+        continue
+      }
+      val fence = fenceAt(i)
+      if (fence != null) {
+        val lineEnd = src.indexOf('\n', i).let { if (it < 0) src.length else it }
+        val line = src.substring(i, lineEnd)
+        val marker = fence.first
+        val runLength = fence.second
+        if (fenceMarker == null) {
+          fenceMarker = marker
+          fenceLength = runLength
+        } else if (
+          marker == fenceMarker &&
+          runLength >= fenceLength &&
+          line.dropWhile { it == ' ' || it == marker }.isBlank()
+        ) {
+          fenceMarker = null
+          fenceLength = 0
+        }
+        out.append(line)
+        i = lineEnd
+        lineStart = false
+        continue
+      }
+    }
+
+    if (fenceMarker != null) {
+      val ch = src[i++]
+      out.append(ch)
+      lineStart = ch == '\n'
+      continue
+    }
+
+    if (src[i] == '`') {
+      var end = i
+      while (src.getOrNull(end) == '`') end++
+      val runLength = end - i
+      out.append(src.substring(i, end))
+      inlineCodeTicks = when {
+        inlineCodeTicks == 0 -> runLength
+        inlineCodeTicks == runLength -> 0
+        else -> inlineCodeTicks
+      }
+      i = end
+      lineStart = false
+      continue
+    }
+
+    if (inlineCodeTicks == 0 && src.startsWith("<!--", i)) {
+      inComment = true
+      i += 4
+      continue
+    }
+
+    val ch = src[i++]
+    out.append(ch)
+    lineStart = ch == '\n'
+  }
+  return out.toString()
+}
+
 fun markdownToPlainText(src: String): String {
-  var t = src
+  var t = stripMarkdownHtmlComments(src)
   t = t.replace(jesusStart, "").replace(jesusEnd, "")
   t = t.replace(dnStart, "").replace(dnEnd, "")
   t = t.replace(heading, "")
@@ -345,13 +472,15 @@ private fun MarkdownTable(
                 prefs = prefs,
                 defaultBook = ambientBook,
                 allowRelativeInParensOnly = true,
-                textStyle = MaterialTheme.typography.bodyMedium
+                textStyle = MaterialTheme.typography.bodyMedium,
+                selectionCompatible = true
               )
             } else {
               ScriptureRefs.ClickableRefsTextSmart(
                 text = scanFriendly,
                 prefs = prefs,
-                inlineMarkdown = true
+                inlineMarkdown = true,
+                selectionCompatible = true
               )
             }
           }
