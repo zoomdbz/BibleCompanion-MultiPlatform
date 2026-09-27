@@ -42,7 +42,7 @@ internal fun AppMainNavigation(
       items.forEach { item ->
         NavigationRailItem(
           selected = selectedRoute == item.route,
-          onClick = { if (selectedRoute != item.route) onSelect(item.route) },
+          onClick = { onSelect(item.route) },
           icon = { Icon(item.icon, contentDescription = null) },
           label = { Text(stringResource(item.label)) }
         )
@@ -53,7 +53,7 @@ internal fun AppMainNavigation(
       items.forEach { item ->
         NavigationBarItem(
           selected = selectedRoute == item.route,
-          onClick = { if (selectedRoute != item.route) onSelect(item.route) },
+          onClick = { onSelect(item.route) },
           icon = { Icon(item.icon, contentDescription = null) },
           label = { Text(stringResource(item.label)) }
         )

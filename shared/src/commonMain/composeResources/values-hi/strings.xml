@@ -411,4 +411,14 @@
     <string name="ui_next_feast">अगला पर्व</string>
     <string name="ui_calendar_basis">कैलेंडर का आधार</string>
     <string name="ui_reading_now">अभी पढ़ रहे हैं</string>
+    <string name="ui_open_chapter">अध्याय खोलें</string>
+    <string name="ui_library_torah">व्यवस्था (पंचग्रंथ / तोराह)</string>
+    <string name="ui_library_historical_books">ऐतिहासिक पुस्तकें</string>
+    <string name="ui_library_wisdom_poetry">ज्ञान और कविता</string>
+    <string name="ui_library_prophets">भविष्यद्वक्ता</string>
+    <string name="ui_library_church_history">कलीसिया का इतिहास</string>
+    <string name="ui_library_letters">पत्रियाँ</string>
+    <string name="ui_library_pauline_epistles">पौलुस की पत्रियाँ</string>
+    <string name="ui_library_general_epistles">सामान्य पत्रियाँ</string>
+    <string name="ui_library_revelation">प्रकाशितवाक्य</string>
 </resources>

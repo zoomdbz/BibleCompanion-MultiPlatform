@@ -21,6 +21,7 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.ModalBottomSheet
+import androidx.compose.material3.rememberModalBottomSheetState
 import androidx.compose.material3.Slider
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
@@ -76,7 +77,10 @@ fun ReaderAppearanceSheet(
     versePerLine = versePerLine
   )
 
-  ModalBottomSheet(onDismissRequest = onDismiss) {
+  ModalBottomSheet(
+    onDismissRequest = onDismiss,
+    sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
+  ) {
     Column(
       modifier = Modifier
         .fillMaxWidth()
@@ -122,20 +126,29 @@ fun ReaderAppearanceSheet(
                 color = MaterialTheme.colorScheme.onSurfaceVariant
               )
             }
-            ReaderScripture(
-              story = preview.story,
-              col = preview.collection,
-              prefs = previewPrefs,
-              defaultBook = preview.bookId,
-              selectedBullets = emptySet(),
-              savedVerseColors = emptyMap(),
-              goldFadeBulletIdxs = emptySet(),
-              onToggleBullet = null,
-              onCopyBullet = null,
-              listState = null,
-              viewportTopY = 0f,
-              viewportHeightPx = 0
-            )
+            // Keep the controls in a stable position while the live preview
+            // reflows for a larger font or looser line spacing.
+            Column(
+              modifier = Modifier
+                .fillMaxWidth()
+                .height(176.dp)
+                .verticalScroll(rememberScrollState())
+            ) {
+              ReaderScripture(
+                story = preview.story,
+                col = preview.collection,
+                prefs = previewPrefs,
+                defaultBook = preview.bookId,
+                selectedBullets = emptySet(),
+                savedVerseColors = emptyMap(),
+                goldFadeBulletIdxs = emptySet(),
+                onToggleBullet = null,
+                onCopyBullet = null,
+                listState = null,
+                viewportTopY = 0f,
+                viewportHeightPx = 0
+              )
+            }
           }
         }
       }

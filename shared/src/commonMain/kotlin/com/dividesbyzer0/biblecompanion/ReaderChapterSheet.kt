@@ -58,17 +58,27 @@ internal fun ReaderChapterSheet(
             }
             Spacer(Modifier.height(12.dp))
             if (verseTab) {
-                Box {
-                    OutlinedButton(onClick = { menuOpen = true }) {
-                        Text(story?.title ?: chapter.toString())
-                    }
-                    DropdownMenu(expanded = menuOpen, onDismissRequest = { menuOpen = false }) {
-                        chapters.forEach { number ->
-                            DropdownMenuItem(text = { Text(number.toString()) }, onClick = {
-                                chapter = number
-                                menuOpen = false
-                            })
+                FlowRow(
+                    horizontalArrangement = Arrangement.spacedBy(8.dp),
+                    verticalArrangement = Arrangement.spacedBy(8.dp)
+                ) {
+                    Box {
+                        OutlinedButton(onClick = { menuOpen = true }) {
+                            Text(story?.title ?: chapter.toString())
                         }
+                        DropdownMenu(expanded = menuOpen, onDismissRequest = { menuOpen = false }) {
+                            chapters.forEach { number ->
+                                DropdownMenuItem(text = { Text(number.toString()) }, onClick = {
+                                    chapter = number
+                                    menuOpen = false
+                                })
+                            }
+                        }
+                    }
+                    FilledTonalButton(
+                        onClick = { index.byChapter[chapter]?.let { onOpenStory(it, null) } }
+                    ) {
+                        Text(stringResource(Res.string.ui_open_chapter))
                     }
                 }
             } else {
@@ -90,7 +100,7 @@ internal fun ReaderChapterSheet(
                 contentPadding = PaddingValues(vertical = 8.dp)
             ) {
                 items(if (verseTab) verses else chapters, key = { it }) { number ->
-                    val isSelected = !verseTab && index.byChapter[number] == currentStoryId
+                    val isSelected = !verseTab && number == chapter
                     val numberDescription = if (verseTab) {
                         "${stringResource(Res.string.verse_label)} $number"
                     } else {
@@ -98,8 +108,14 @@ internal fun ReaderChapterSheet(
                     }
                     FilledTonalButton(
                         onClick = {
-                            val sid = if (verseTab) index.byChapter[chapter] else index.byChapter[number]
-                            if (sid != null) onOpenStory(sid, number.takeIf { verseTab })
+                            if (verseTab) {
+                                index.byChapter[chapter]?.let { onOpenStory(it, number) }
+                            } else {
+                                // Selecting a chapter is deliberately non-navigating: it keeps the
+                                // sheet open and takes the reader straight to that chapter's verses.
+                                chapter = number
+                                verseTab = true
+                            }
                         },
                         modifier = Modifier.heightIn(min = 52.dp).semantics {
                             contentDescription = numberDescription

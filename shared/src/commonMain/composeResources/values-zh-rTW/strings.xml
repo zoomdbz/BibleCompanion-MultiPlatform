@@ -411,4 +411,14 @@
     <string name="ui_next_feast">下一節期</string>
     <string name="ui_calendar_basis">曆法依據</string>
     <string name="ui_reading_now">正在閱讀</string>
+    <string name="ui_open_chapter">開啟章節</string>
+    <string name="ui_library_torah">律法書（摩西五經 / 妥拉）</string>
+    <string name="ui_library_historical_books">歷史書</string>
+    <string name="ui_library_wisdom_poetry">智慧和詩歌</string>
+    <string name="ui_library_prophets">先知書</string>
+    <string name="ui_library_church_history">教會歷史</string>
+    <string name="ui_library_letters">書信</string>
+    <string name="ui_library_pauline_epistles">保羅書信</string>
+    <string name="ui_library_general_epistles">普通書信</string>
+    <string name="ui_library_revelation">啟示錄</string>
 </resources>

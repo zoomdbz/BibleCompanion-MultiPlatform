@@ -19,6 +19,13 @@ internal data class EditionDestination(
 
 internal val LocalEditionNavigate = staticCompositionLocalOf<(EditionDestination) -> Unit> { {} }
 
+// A cross-book Continue action prefers the first numbered chapter over named
+// front matter. A book without numbered chapters falls back to its first section.
+// Always use the loaded book's own IDs, never the previous reader's scroll index.
+internal fun firstReaderChapterId(book: Book): String? =
+    ChapterLocator.build(book).byChapter.minByOrNull { it.key }?.value
+        ?: book.stories.firstOrNull()?.id
+
 // Encode a route path/query component. Current ids are ASCII-safe but future
 // localized or punctuation-containing ids would otherwise corrupt navigation.
 private fun encPath(s: String): String = urlEncode(s).replace("+", "%20")

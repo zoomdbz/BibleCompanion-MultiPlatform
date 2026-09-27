@@ -21,15 +21,14 @@ class LibrarySectionsTest {
 
     assertEquals(
       listOf(
-        LibrarySection.LAW,
-        LibrarySection.HISTORY,
-        LibrarySection.WISDOM,
-        LibrarySection.MAJOR_PROPHETS,
-        LibrarySection.MINOR_PROPHETS
+        LibrarySection.TORAH,
+        LibrarySection.HISTORICAL_BOOKS,
+        LibrarySection.WISDOM_AND_POETRY,
+        LibrarySection.PROPHETS
       ),
       result.map { it.section }
     )
-    assertEquals(listOf(5, 12, 5, 5, 12), result.map { it.books.size })
+    assertEquals(listOf(5, 12, 5, 17), result.map { it.books.size })
     assertEquals(ids, result.flatMap { section -> section.books.map { it.id } })
   }
 
@@ -47,11 +46,32 @@ class LibrarySectionsTest {
     val result = buildLibrarySections("new_testament", ids.map { it to "title:$it" })
 
     assertEquals(
-      listOf(LibrarySection.GOSPELS, LibrarySection.PAUL, LibrarySection.GENERAL),
+      listOf(
+        LibrarySection.GOSPELS,
+        LibrarySection.CHURCH_HISTORY,
+        LibrarySection.LETTERS,
+        LibrarySection.PAULINE_EPISTLES,
+        LibrarySection.GENERAL_EPISTLES,
+        LibrarySection.REVELATION
+      ),
       result.map { it.section }
     )
-    assertEquals(listOf(5, 13, 9), result.map { it.books.size })
+    assertEquals(listOf(4, 1, 0, 13, 8, 1), result.map { it.books.size })
     assertEquals(ids, result.flatMap { section -> section.books.map { it.id } })
+  }
+
+  @Test
+  fun hebrewsIsGeneralEpistleAndRevelationStaysSeparate() {
+    val result = buildLibrarySections(
+      "new_testament",
+      listOf("hebrews", "james", "revelation").map { it to it }
+    )
+
+    assertEquals(
+      listOf(LibrarySection.GENERAL_EPISTLES, LibrarySection.REVELATION),
+      result.map { it.section }
+    )
+    assertEquals(listOf("hebrews", "james"), result[0].books.map { it.id })
   }
 
   @Test

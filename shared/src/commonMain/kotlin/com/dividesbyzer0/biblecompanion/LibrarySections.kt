@@ -1,14 +1,16 @@
 package com.dividesbyzer0.biblecompanion
 
 internal enum class LibrarySection {
-  LAW,
-  HISTORY,
-  WISDOM,
-  MAJOR_PROPHETS,
-  MINOR_PROPHETS,
+  TORAH,
+  HISTORICAL_BOOKS,
+  WISDOM_AND_POETRY,
+  PROPHETS,
   GOSPELS,
-  PAUL,
-  GENERAL
+  CHURCH_HISTORY,
+  LETTERS,
+  PAULINE_EPISTLES,
+  GENERAL_EPISTLES,
+  REVELATION
 }
 
 internal data class LibraryBookEntry(val id: String, val title: String)
@@ -20,60 +22,61 @@ internal data class LibraryBookSection(
 )
 
 private val oldTestamentSections = mapOf(
-  "genesis" to LibrarySection.LAW,
-  "exodus" to LibrarySection.LAW,
-  "leviticus" to LibrarySection.LAW,
-  "numbers" to LibrarySection.LAW,
-  "deuteronomy" to LibrarySection.LAW,
-  "joshua" to LibrarySection.HISTORY,
-  "judges" to LibrarySection.HISTORY,
-  "ruth" to LibrarySection.HISTORY,
-  "1_samuel" to LibrarySection.HISTORY,
-  "2_samuel" to LibrarySection.HISTORY,
-  "1_kings" to LibrarySection.HISTORY,
-  "2_kings" to LibrarySection.HISTORY,
-  "1_chronicles" to LibrarySection.HISTORY,
-  "2_chronicles" to LibrarySection.HISTORY,
-  "ezra" to LibrarySection.HISTORY,
-  "nehemiah" to LibrarySection.HISTORY,
-  "esther" to LibrarySection.HISTORY,
-  "job" to LibrarySection.WISDOM,
-  "psalms" to LibrarySection.WISDOM,
-  "proverbs" to LibrarySection.WISDOM,
-  "ecclesiastes" to LibrarySection.WISDOM,
-  "song_of_songs" to LibrarySection.WISDOM,
-  "isaiah" to LibrarySection.MAJOR_PROPHETS,
-  "jeremiah" to LibrarySection.MAJOR_PROPHETS,
-  "lamentations" to LibrarySection.MAJOR_PROPHETS,
-  "ezekiel" to LibrarySection.MAJOR_PROPHETS,
-  "daniel" to LibrarySection.MAJOR_PROPHETS,
-  "hosea" to LibrarySection.MINOR_PROPHETS,
-  "joel" to LibrarySection.MINOR_PROPHETS,
-  "amos" to LibrarySection.MINOR_PROPHETS,
-  "obadiah" to LibrarySection.MINOR_PROPHETS,
-  "jonah" to LibrarySection.MINOR_PROPHETS,
-  "micah" to LibrarySection.MINOR_PROPHETS,
-  "nahum" to LibrarySection.MINOR_PROPHETS,
-  "habakkuk" to LibrarySection.MINOR_PROPHETS,
-  "zephaniah" to LibrarySection.MINOR_PROPHETS,
-  "haggai" to LibrarySection.MINOR_PROPHETS,
-  "zechariah" to LibrarySection.MINOR_PROPHETS,
-  "malachi" to LibrarySection.MINOR_PROPHETS
+  "genesis" to LibrarySection.TORAH,
+  "exodus" to LibrarySection.TORAH,
+  "leviticus" to LibrarySection.TORAH,
+  "numbers" to LibrarySection.TORAH,
+  "deuteronomy" to LibrarySection.TORAH,
+  "joshua" to LibrarySection.HISTORICAL_BOOKS,
+  "judges" to LibrarySection.HISTORICAL_BOOKS,
+  "ruth" to LibrarySection.HISTORICAL_BOOKS,
+  "1_samuel" to LibrarySection.HISTORICAL_BOOKS,
+  "2_samuel" to LibrarySection.HISTORICAL_BOOKS,
+  "1_kings" to LibrarySection.HISTORICAL_BOOKS,
+  "2_kings" to LibrarySection.HISTORICAL_BOOKS,
+  "1_chronicles" to LibrarySection.HISTORICAL_BOOKS,
+  "2_chronicles" to LibrarySection.HISTORICAL_BOOKS,
+  "ezra" to LibrarySection.HISTORICAL_BOOKS,
+  "nehemiah" to LibrarySection.HISTORICAL_BOOKS,
+  "esther" to LibrarySection.HISTORICAL_BOOKS,
+  "job" to LibrarySection.WISDOM_AND_POETRY,
+  "psalms" to LibrarySection.WISDOM_AND_POETRY,
+  "proverbs" to LibrarySection.WISDOM_AND_POETRY,
+  "ecclesiastes" to LibrarySection.WISDOM_AND_POETRY,
+  "song_of_songs" to LibrarySection.WISDOM_AND_POETRY,
+  "isaiah" to LibrarySection.PROPHETS,
+  "jeremiah" to LibrarySection.PROPHETS,
+  "lamentations" to LibrarySection.PROPHETS,
+  "ezekiel" to LibrarySection.PROPHETS,
+  "daniel" to LibrarySection.PROPHETS,
+  "hosea" to LibrarySection.PROPHETS,
+  "joel" to LibrarySection.PROPHETS,
+  "amos" to LibrarySection.PROPHETS,
+  "obadiah" to LibrarySection.PROPHETS,
+  "jonah" to LibrarySection.PROPHETS,
+  "micah" to LibrarySection.PROPHETS,
+  "nahum" to LibrarySection.PROPHETS,
+  "habakkuk" to LibrarySection.PROPHETS,
+  "zephaniah" to LibrarySection.PROPHETS,
+  "haggai" to LibrarySection.PROPHETS,
+  "zechariah" to LibrarySection.PROPHETS,
+  "malachi" to LibrarySection.PROPHETS
 )
 
 private val newTestamentSections = buildMap {
-  listOf("matthew", "mark", "luke", "john", "acts").forEach {
+  listOf("matthew", "mark", "luke", "john").forEach {
     put(it, LibrarySection.GOSPELS)
   }
+  put("acts", LibrarySection.CHURCH_HISTORY)
   listOf(
     "romans", "1_corinthians", "2_corinthians", "galatians", "ephesians",
     "philippians", "colossians", "1_thessalonians", "2_thessalonians",
     "1_timothy", "2_timothy", "titus", "philemon"
-  ).forEach { put(it, LibrarySection.PAUL) }
+  ).forEach { put(it, LibrarySection.PAULINE_EPISTLES) }
   listOf(
-    "hebrews", "james", "1_peter", "2_peter", "1_john", "2_john",
-    "3_john", "jude", "revelation"
-  ).forEach { put(it, LibrarySection.GENERAL) }
+    "hebrews", "james", "1_peter", "2_peter", "1_john", "2_john", "3_john", "jude"
+  ).forEach { put(it, LibrarySection.GENERAL_EPISTLES) }
+  put("revelation", LibrarySection.REVELATION)
 }
 
 internal fun buildLibrarySections(
@@ -90,10 +93,17 @@ internal fun buildLibrarySections(
     val grouped = linkedMapOf<LibrarySection, MutableList<LibraryBookEntry>>()
     indexedEntries.forEach { (id, title) ->
       if (id.isBlank()) return@forEach
-      val section = canonicalMap[id] ?: LibrarySection.GENERAL
+      val section = canonicalMap[id] ?: LibrarySection.GENERAL_EPISTLES
       grouped.getOrPut(section) { mutableListOf() }.add(LibraryBookEntry(id, title))
     }
-    return grouped.map { (section, books) -> LibraryBookSection(section = section, books = books) }
+    return grouped.flatMap { (section, books) ->
+      buildList {
+        if (section == LibrarySection.PAULINE_EPISTLES) {
+          add(LibraryBookSection(section = LibrarySection.LETTERS, books = emptyList()))
+        }
+        add(LibraryBookSection(section = section, books = books))
+      }
+    }
   }
 
   // Non-canonical indexes can contain localized disclaimer or section rows.

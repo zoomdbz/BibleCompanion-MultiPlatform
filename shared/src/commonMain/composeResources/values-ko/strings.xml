@@ -411,4 +411,14 @@
     <string name="ui_next_feast">다음 절기</string>
     <string name="ui_calendar_basis">달력 기준</string>
     <string name="ui_reading_now">읽는 중</string>
+    <string name="ui_open_chapter">장 열기</string>
+    <string name="ui_library_torah">율법 (모세오경 / 토라)</string>
+    <string name="ui_library_historical_books">역사서</string>
+    <string name="ui_library_wisdom_poetry">지혜와 시가서</string>
+    <string name="ui_library_prophets">예언서</string>
+    <string name="ui_library_church_history">교회 역사</string>
+    <string name="ui_library_letters">서신</string>
+    <string name="ui_library_pauline_epistles">바울 서신</string>
+    <string name="ui_library_general_epistles">일반 서신</string>
+    <string name="ui_library_revelation">요한계시록</string>
 </resources>

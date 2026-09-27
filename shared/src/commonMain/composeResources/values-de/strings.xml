@@ -411,4 +411,14 @@
     <string name="ui_next_feast">Nächstes Fest</string>
     <string name="ui_calendar_basis">Kalendergrundlage</string>
     <string name="ui_reading_now">Aktuell gelesen</string>
+    <string name="ui_open_chapter">Kapitel öffnen</string>
+    <string name="ui_library_torah">Das Gesetz (Pentateuch / Tora)</string>
+    <string name="ui_library_historical_books">Geschichtsbücher</string>
+    <string name="ui_library_wisdom_poetry">Weisheit und Poesie</string>
+    <string name="ui_library_prophets">Propheten</string>
+    <string name="ui_library_church_history">Kirchengeschichte</string>
+    <string name="ui_library_letters">Die Briefe (Episteln)</string>
+    <string name="ui_library_pauline_epistles">Paulinische Briefe</string>
+    <string name="ui_library_general_epistles">Allgemeine Briefe</string>
+    <string name="ui_library_revelation">Offenbarung</string>
 </resources>

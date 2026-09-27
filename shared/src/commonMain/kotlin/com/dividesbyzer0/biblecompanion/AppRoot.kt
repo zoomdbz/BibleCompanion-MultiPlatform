@@ -65,18 +65,30 @@ import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.ContentCopy
 import androidx.compose.material.icons.filled.ExpandMore
+import androidx.compose.material.icons.filled.EventNote
+import androidx.compose.material.icons.filled.FamilyRestroom
 import androidx.compose.material.icons.filled.FormatColorFill
+import androidx.compose.material.icons.filled.Gavel
+import androidx.compose.material.icons.filled.HistoryEdu
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.KeyboardArrowDown
 import androidx.compose.material.icons.filled.KeyboardArrowUp
+import androidx.compose.material.icons.filled.Lightbulb
+import androidx.compose.material.icons.filled.Person
 import androidx.compose.material.icons.filled.PushPin
 import androidx.compose.material.icons.filled.Pause
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.Stop
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.Shield
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Share
 import androidx.compose.material.icons.filled.DragHandle
 import androidx.compose.material.icons.filled.Star
+import androidx.compose.material.icons.filled.Timeline
+import androidx.compose.material.icons.filled.Translate
+import androidx.compose.material.icons.filled.QuestionAnswer
+import androidx.compose.material.icons.filled.Warning
 import androidx.compose.material.icons.outlined.BookmarkBorder
 import sh.calvin.reorderable.ReorderableItem
 import sh.calvin.reorderable.rememberReorderableLazyListState
@@ -273,10 +285,28 @@ fun AppRoot(
     val currentTab = currentEntry?.destination?.hierarchy
       ?.firstOrNull { it.route in tabRoutes }?.route
     val selectTab: (String) -> Unit = { route ->
-      if (currentTab != route) nav.navigate(route) {
-        popUpTo(Dest.Home.route) { saveState = true }
-        launchSingleTop = true
-        restoreState = true
+      when {
+        route == "tab_read" && currentEntry?.destination?.route != Dest.Read.route -> {
+          // The Read tab opens the library hub. Continue Reading is the
+          // explicit action for returning to a passage, including on reselect.
+          nav.navigate(Dest.Read.route) {
+            popUpTo(Dest.Home.route) { saveState = true }
+            launchSingleTop = true
+          }
+        }
+        currentTab != route -> {
+          if (route == Dest.Home.route) {
+            // Home is the root entry, not a saved tab graph. Restoring its state
+            // can resurrect the reader stack that was saved above it.
+            if (!nav.popBackStack(Dest.Home.route, inclusive = false, saveState = true)) {
+              nav.navigate(Dest.Home.route) { launchSingleTop = true }
+            }
+          } else nav.navigate(route) {
+            popUpTo(Dest.Home.route) { saveState = true }
+            launchSingleTop = true
+            restoreState = true
+          }
+        }
       }
     }
     val continueReading: () -> Unit = {
@@ -598,8 +628,9 @@ fun AppRoot(
         }
         navigation(startDestination = Dest.Read.route, route = "tab_read") {
         composable(Dest.Read.route) {
-          ReadLibraryScreen(prefs = prefs,
+          ReadLibraryScreen(prefs = prefs, repo = repo,
             onOpenCollection = { col -> nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
+            onSavedItems = { nav.navigate(Dest.SavedItems.route) { launchSingleTop = true } },
             onContinue = continueReading)
         }
         composable("books/{col}") { back ->
@@ -651,6 +682,9 @@ fun AppRoot(
               sourceEdition = readerPrefs.internalBibleVersion
             )) { launchSingleTop = true }
           }
+          // launchSingleTop can replace a book's route arguments in the same
+          // entry. Keep scroll, sheet and animation state scoped to that book.
+          key(col, bookId) {
           androidx.compose.runtime.CompositionLocalProvider(LocalInternalNavigate provides readerNavigate) {
           BookScreen(
             col = col,
@@ -666,15 +700,25 @@ fun AppRoot(
             autoStartTts = autoStartTtsArg,
             onChooseBook = { nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
             onNavigateToBook = { nextCol, nextBookId, startTts ->
+              val nextLoadedBook = ContentRepo.loadBookWithEdition(
+                context = ctx,
+                collection = nextCol,
+                bookId = nextBookId,
+                appLang = readerPrefs.appLanguage,
+                internalBibleVersion = readerPrefs.internalBibleVersion
+              )
               nav.navigate(Dest.BookView.route(
-                nextCol, nextBookId, autoStartTts = startTts,
+                nextCol, nextBookId,
+                storyId = nextLoadedBook?.book?.let(::firstReaderChapterId),
+                autoStartTts = startTts,
                 sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
-                sourceEdition = readerPrefs.internalBibleVersion
+                sourceEdition = nextLoadedBook?.effectiveEdition ?: readerPrefs.internalBibleVersion
               )) {
                 launchSingleTop = true
               }
             }
           ) { navBack() }
+          }
           }
         }
         }
@@ -877,6 +921,7 @@ fun HomeScreen(
   var showOnboarding by remember { mutableStateOf(!prefs.onboardingComplete) }
 
   var navBusy by remember { mutableStateOf(false) }
+  var studyExpanded by rememberSaveable(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
   fun safeNav(action: () -> Unit) {
     if (navBusy) return
     navBusy = true
@@ -887,7 +932,6 @@ fun HomeScreen(
   var query by remember { mutableStateOf("") }
   var results by remember { mutableStateOf<List<SearchHit>>(emptyList()) }
   var showSheet by remember { mutableStateOf(false) }
-  var studyExpanded by rememberSaveable(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
   var searchJob by remember { mutableStateOf<Job?>(null) }
   var searchInFlight by remember { mutableStateOf(false) }
   var searchGen by remember { mutableStateOf(0) }
@@ -982,7 +1026,6 @@ fun HomeScreen(
       val readingResume = rememberReadingResume(prefs)
       val bookmarks by repo.bookmarksFlow.collectAsState(initial = emptyList())
       val savedVerses by repo.savedVersesFlow.collectAsState(initial = emptyList())
-      val hasExtras = prefs.showPseudepigrapha || prefs.showDeutero || prefs.showApoc
 
       // LazyColumn defers off-screen item composition. The Study & Reference
       // section retains its existing expand/collapse + pin behavior — only
@@ -1345,62 +1388,13 @@ fun HomeScreen(
         // Continue Reading card (lastCol/lastBook hoisted above LazyColumn)
         if (lastBook != null && lastCol != null) {
           item("continue") {
-          ElevatedCard(
-            onClick = {
-              if (!navBusy) safeNav {
-                onNavigateRoute(Dest.BookView.route(
-                  lastCol, lastBook, prefs.lastReadStoryId,
-                  sourceLang = prefs.lastReadSourceLanguage ?: "en",
-                  sourceEdition = prefs.lastReadSourceEdition
-                ))
-              }
-            },
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.elevatedCardColors(
-              containerColor = MaterialTheme.colorScheme.primaryContainer
-            )
-          ) {
-            Row(
-              Modifier.padding(16.dp),
-              verticalAlignment = Alignment.CenterVertically
-            ) {
-              Icon(
-                Icons.Filled.PlayArrow,
-                contentDescription = null,
-                tint = MaterialTheme.colorScheme.onPrimaryContainer,
-                modifier = Modifier.size(28.dp)
-              )
-              Spacer(Modifier.width(12.dp))
-              Column(Modifier.weight(1f)) {
-                Text(
-                  stringResource(Res.string.ui_reading_now),
-                  style = MaterialTheme.typography.labelMedium,
-                  color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.7f)
-                )
-                Text(
-                  readingResume?.title ?: lastBook,
-                  style = MaterialTheme.typography.titleLarge,
-                  color = MaterialTheme.colorScheme.onPrimaryContainer,
-                  maxLines = 1,
-                  overflow = TextOverflow.Ellipsis
-                )
-                readingResume?.let { resume ->
-                  resume.chapter?.let { chapter ->
-                    Text(
-                      "${stringResource(Res.string.chapters_label)} " + stringResource(
-                        Res.string.ui_chapter_position, chapter, resume.chapterCount
-                      ),
-                      style = MaterialTheme.typography.bodySmall,
-                      color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.75f)
-                    )
-                  }
-                }
-              }
-              Icon(
-                Icons.AutoMirrored.Filled.ArrowForward,
-                contentDescription = null,
-                tint = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.7f)
-              )
+          ReadingNowCard(lastBook = lastBook, resume = readingResume) {
+            if (!navBusy) safeNav {
+              onNavigateRoute(Dest.BookView.route(
+                lastCol, lastBook, prefs.lastReadStoryId,
+                sourceLang = prefs.lastReadSourceLanguage ?: "en",
+                sourceEdition = prefs.lastReadSourceEdition
+              ))
             }
           }
           }
@@ -1408,80 +1402,20 @@ fun HomeScreen(
 
         // Bookmarks & Saved Verses (bookmarks/savedVerses hoisted above LazyColumn)
         item("saved") {
-          ElevatedCard(
-            modifier = Modifier.fillMaxWidth().clickable(enabled = !navBusy) {
-              safeNav { onSavedItems() }
-            },
-            colors = CardDefaults.elevatedCardColors(
-              containerColor = MaterialTheme.colorScheme.secondaryContainer
-            )
-          ) {
-            Row(
-              Modifier.padding(16.dp),
-              verticalAlignment = Alignment.CenterVertically
-            ) {
-              Icon(
-                Icons.Filled.Bookmark,
-                contentDescription = null,
-                tint = MaterialTheme.colorScheme.onSecondaryContainer,
-                modifier = Modifier.size(24.dp)
-              )
-              Spacer(Modifier.width(12.dp))
-              Column(Modifier.weight(1f)) {
-                Text(
-                  stringResource(Res.string.saved_items),
-                  style = MaterialTheme.typography.titleSmall,
-                  color = MaterialTheme.colorScheme.onSecondaryContainer
-                )
-                Text(
-                  "${bookmarks.size} ${stringResource(Res.string.bookmarks_tab)} \u2022 ${savedVerses.size} ${stringResource(Res.string.saved_verses_tab)}",
-                  style = MaterialTheme.typography.bodySmall,
-                  color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.7f)
-                )
-              }
-            }
+          SavedItemsCard(bookmarkCount = bookmarks.size, savedVerseCount = savedVerses.size) {
+            if (!navBusy) safeNav { onSavedItems() }
           }
         }
 
-        // Old/New Testament buttons
-        item("ot-nt") {
-        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(16.dp)) {
-          HomeWideButton(text = stringResource(Res.string.old_testament), modifier = Modifier.weight(1f), enabled = !navBusy) {
-            safeNav { onOpen("old_testament") }
-          }
-          HomeWideButton(text = stringResource(Res.string.new_testament), modifier = Modifier.weight(1f), enabled = !navBusy) {
-            safeNav { onOpen("new_testament") }
-          }
-        }
-        }
-
-        // Extra collections (conditional; hasExtras hoisted above LazyColumn)
-        if (hasExtras) {
-          item("extras") {
-          Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
-            if (prefs.showPseudepigrapha) {
-              HomePill(text = stringResource(Res.string.pseudepigrapha), modifier = Modifier.weight(1f), enabled = !navBusy) {
-                safeNav { onOpen("pseudepigrapha") }
-              }
-            } else Spacer(Modifier.weight(1f))
-            if (prefs.showDeutero) {
-              HomePill(text = stringResource(Res.string.deuterocanonical), modifier = Modifier.weight(1f), enabled = !navBusy) {
-                safeNav { onOpen("deuterocanonical") }
-              }
-            } else Spacer(Modifier.weight(1f))
-            if (prefs.showApoc) {
-              HomePill(text = stringResource(Res.string.apocrypha), modifier = Modifier.weight(1f), enabled = !navBusy) {
-                safeNav { onOpen("apocrypha") }
-              }
-            } else Spacer(Modifier.weight(1f))
-          }
+        item("collections") {
+          CollectionButtons(prefs = prefs, enabled = !navBusy) { collection ->
+            safeNav { onOpen(collection) }
           }
         }
 
         item("divider") { HorizontalDivider(Modifier.padding(vertical = 4.dp)) }
 
-        // Study & Reference section - existing expand/collapse + pin behavior
-        // preserved; only wrapping changes (now an item inside LazyColumn).
+        // Study & Reference uses the same horizontal destination cards as Study.
         item("study") {
         Surface(
           shape = RoundedCornerShape(16.dp),
@@ -1501,20 +1435,15 @@ fun HomeScreen(
                 style = MaterialTheme.typography.titleMedium,
                 modifier = Modifier.weight(1f)
               )
-              IconButton(
-                onClick = {
-                  val next = !prefs.studyPinned
-                  if (next) studyExpanded = true
-                  scope.launch { repo.setStudyPinned(next) }
-                }
-              ) {
+              IconButton(onClick = {
+                val next = !prefs.studyPinned
+                if (next) studyExpanded = true
+                scope.launch { repo.setStudyPinned(next) }
+              }) {
                 Icon(
-                  imageVector = Icons.Filled.PushPin,
-                  contentDescription = stringResource(
-                    if (prefs.studyPinned) Res.string.study_unpin else Res.string.study_pin
-                  ),
-                  tint = if (prefs.studyPinned) MaterialTheme.colorScheme.primary
-                         else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.4f)
+                  Icons.Filled.PushPin,
+                  contentDescription = stringResource(if (prefs.studyPinned) Res.string.study_unpin else Res.string.study_pin),
+                  tint = if (prefs.studyPinned) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.4f)
                 )
               }
               Icon(
@@ -1524,61 +1453,55 @@ fun HomeScreen(
                 modifier = Modifier.padding(end = 12.dp)
               )
             }
-
             AnimatedVisibility(visible = studyExpanded) {
-              Column(Modifier.padding(horizontal = 12.dp, vertical = 8.dp)) {
+              Column(Modifier.padding(horizontal = 12.dp, bottom = 12.dp)) {
                 HomeStudyGroup(
                   title = stringResource(Res.string.ui_foundations),
-                  icon = Icons.Filled.AutoAwesome,
                   enabled = !navBusy,
                   entries = listOf(
-                    HomeStudyTile(stringResource(Res.string.gospel)) { safeNav { onGospel() } },
-                    HomeStudyTile(stringResource(Res.string.grace)) { safeNav { onGrace() } },
-                    HomeStudyTile(stringResource(Res.string.jesus_divinity)) { safeNav { onJesusDivinity() } },
-                    HomeStudyTile(stringResource(Res.string.jesus_identity)) { safeNav { onJesusIdentity() } },
-                    HomeStudyTile(stringResource(Res.string.christophanies)) { safeNav { onChristophanies() } }
+                    HomeStudyTile(stringResource(Res.string.gospel), Icons.Filled.AutoAwesome, StudyIconTone.Primary) { safeNav { onGospel() } },
+                    HomeStudyTile(stringResource(Res.string.grace), Icons.Filled.Bookmark, StudyIconTone.Secondary) { safeNav { onGrace() } },
+                    HomeStudyTile(stringResource(Res.string.jesus_divinity), Icons.Filled.Lightbulb, StudyIconTone.Tertiary) { safeNav { onJesusDivinity() } },
+                    HomeStudyTile(stringResource(Res.string.jesus_identity), Icons.Filled.Person, StudyIconTone.Primary) { safeNav { onJesusIdentity() } },
+                    HomeStudyTile(stringResource(Res.string.christophanies), Icons.Filled.AutoAwesome, StudyIconTone.Tertiary) { safeNav { onChristophanies() } },
+                    HomeStudyTile(stringResource(Res.string.genealogy), Icons.Filled.FamilyRestroom, StudyIconTone.Secondary) { safeNav { onGenealogy() } }
                   )
                 )
                 HomeStudyGroup(
                   title = stringResource(Res.string.ui_torah_feasts),
-                  icon = Icons.Filled.CalendarMonth,
                   enabled = !navBusy,
                   entries = listOf(
-                    HomeStudyTile(stringResource(Res.string.feast_calendar)) { safeNav { onFeastCalendar() } },
-                    HomeStudyTile(stringResource(Res.string.torah_feasts_and_gentiles)) { safeNav { onTorahFeastsAndGentiles() } }
+                    HomeStudyTile(stringResource(Res.string.feast_calendar), Icons.Filled.CalendarMonth, StudyIconTone.Tertiary) { safeNav { onFeastCalendar() } },
+                    HomeStudyTile(stringResource(Res.string.torah_feasts_and_gentiles), Icons.AutoMirrored.Filled.MenuBook, StudyIconTone.Primary) { safeNav { onTorahFeastsAndGentiles() } }
                   )
                 )
                 HomeStudyGroup(
                   title = stringResource(Res.string.prophecy),
-                  icon = Icons.Filled.Star,
                   enabled = !navBusy,
                   entries = listOf(
-                    HomeStudyTile(stringResource(Res.string.prophecy)) { safeNav { onProphecy() } }
+                    HomeStudyTile(stringResource(Res.string.prophecy), Icons.Filled.Timeline, StudyIconTone.Secondary) { safeNav { onProphecy() } }
                   )
                 )
                 HomeStudyGroup(
                   title = stringResource(Res.string.ui_discernment),
-                  icon = Icons.Filled.Search,
                   enabled = !navBusy,
                   entries = listOf(
-                    HomeStudyTile(stringResource(Res.string.false_doctrine)) { safeNav { onFalseDoctrine() } },
-                    HomeStudyTile(stringResource(Res.string.common_distortions)) { safeNav { onCommonDistortions() } },
-                    HomeStudyTile(stringResource(Res.string.unseen_war)) { safeNav { onUnseenWar() } },
-                    HomeStudyTile(stringResource(Res.string.historical_awareness)) { safeNav { onHistoricalAwareness() } },
-                    HomeStudyTile(stringResource(Res.string.christian_symbolism)) { safeNav { onChristianSymbolism() } }
+                    HomeStudyTile(stringResource(Res.string.false_doctrine), Icons.Filled.Warning, StudyIconTone.Primary) { safeNav { onFalseDoctrine() } },
+                    HomeStudyTile(stringResource(Res.string.common_distortions), Icons.Filled.Gavel, StudyIconTone.Tertiary) { safeNav { onCommonDistortions() } },
+                    HomeStudyTile(stringResource(Res.string.unseen_war), Icons.Filled.Shield, StudyIconTone.Secondary) { safeNav { onUnseenWar() } },
+                    HomeStudyTile(stringResource(Res.string.historical_awareness), Icons.Filled.HistoryEdu, StudyIconTone.Primary) { safeNav { onHistoricalAwareness() } },
+                    HomeStudyTile(stringResource(Res.string.christian_symbolism), Icons.Filled.AutoAwesome, StudyIconTone.Tertiary) { safeNav { onChristianSymbolism() } }
                   )
                 )
                 HomeStudyGroup(
                   title = stringResource(Res.string.ui_reference),
-                  icon = Icons.AutoMirrored.Filled.MenuBook,
                   enabled = !navBusy,
                   entries = listOf(
-                    HomeStudyTile(stringResource(Res.string.bible_chronology)) { safeNav { onBibleChronology() } },
-                    HomeStudyTile(stringResource(Res.string.genealogy)) { safeNav { onGenealogy() } },
-                    HomeStudyTile(stringResource(Res.string.translation_notes)) { safeNav { onTranslationNotes() } },
-                    HomeStudyTile(stringResource(Res.string.bible_canon)) { safeNav { onBibleCanon() } },
-                    HomeStudyTile(stringResource(Res.string.bibliography)) { safeNav { onBibliography() } },
-                    HomeStudyTile(stringResource(Res.string.faqs)) { safeNav { onFaqs() } }
+                    HomeStudyTile(stringResource(Res.string.bible_chronology), Icons.Filled.Timeline, StudyIconTone.Primary) { safeNav { onBibleChronology() } },
+                    HomeStudyTile(stringResource(Res.string.translation_notes), Icons.Filled.Translate, StudyIconTone.Secondary) { safeNav { onTranslationNotes() } },
+                    HomeStudyTile(stringResource(Res.string.bible_canon), Icons.AutoMirrored.Filled.MenuBook, StudyIconTone.Tertiary) { safeNav { onBibleCanon() } },
+                    HomeStudyTile(stringResource(Res.string.bibliography), Icons.Filled.Bookmark, StudyIconTone.Primary) { safeNav { onBibliography() } },
+                    HomeStudyTile(stringResource(Res.string.faqs), Icons.Filled.QuestionAnswer, StudyIconTone.Secondary) { safeNav { onFaqs() } }
                   )
                 )
               }
@@ -1587,16 +1510,6 @@ fun HomeScreen(
         }
         }
 
-        item("spacer") { Spacer(Modifier.height(4.dp)) }
-
-        // About
-        item("about") {
-        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
-          TextButton(onClick = { safeNav { onAbout() } }, enabled = !navBusy) {
-            Text(stringResource(Res.string.about_title), style = MaterialTheme.typography.bodyMedium)
-          }
-        }
-        }
       }
     }
 
@@ -1624,13 +1537,17 @@ private fun SearchSectionHeader(icon: androidx.compose.ui.graphics.vector.ImageV
   }
 }
 
-private data class HomeStudyTile(val text: String, val onClick: () -> Unit)
+private data class HomeStudyTile(
+  val text: String,
+  val icon: androidx.compose.ui.graphics.vector.ImageVector,
+  val tone: StudyIconTone,
+  val onClick: () -> Unit
+)
 
 @OptIn(androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
 private fun HomeStudyGroup(
   title: String,
-  icon: androidx.compose.ui.graphics.vector.ImageVector,
   enabled: Boolean,
   entries: List<HomeStudyTile>
 ) {
@@ -1640,25 +1557,16 @@ private fun HomeStudyGroup(
     color = MaterialTheme.colorScheme.tertiary,
     modifier = Modifier.padding(start = 4.dp, top = 12.dp, bottom = 6.dp)
   )
-  BoxWithConstraints(Modifier.fillMaxWidth()) {
-    val columns = if (maxWidth >= 720.dp) 3 else 2
-    val gap = 10.dp
-    val tileWidth = (maxWidth - gap * (columns - 1)) / columns
-    FlowRow(
-      modifier = Modifier.fillMaxWidth(),
-      maxItemsInEachRow = columns,
-      horizontalArrangement = Arrangement.spacedBy(gap),
-      verticalArrangement = Arrangement.spacedBy(gap)
-    ) {
-      entries.forEach { entry ->
-        StudyItem(
-          text = entry.text,
-          icon = icon,
-          enabled = enabled,
-          modifier = Modifier.width(tileWidth),
-          onClick = entry.onClick
-        )
-      }
+  Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+    entries.forEach { entry ->
+      StudyItem(
+        text = entry.text,
+        icon = entry.icon,
+        tone = entry.tone,
+        enabled = enabled,
+        modifier = Modifier.fillMaxWidth(),
+        onClick = entry.onClick
+      )
     }
   }
 }
@@ -1667,34 +1575,44 @@ private fun HomeStudyGroup(
 private fun StudyItem(
   text: String,
   icon: androidx.compose.ui.graphics.vector.ImageVector,
+  tone: StudyIconTone,
   enabled: Boolean,
   modifier: Modifier = Modifier,
   onClick: () -> Unit
 ) {
   Surface(
     modifier = modifier
-      .heightIn(min = 84.dp)
+      .heightIn(min = 64.dp)
       .clickable(enabled = enabled, onClick = onClick),
     shape = RoundedCornerShape(16.dp),
     color = MaterialTheme.colorScheme.surfaceContainerLow
   ) {
-    Column(Modifier.padding(12.dp)) {
+    Row(
+      modifier = Modifier.padding(horizontal = 14.dp, vertical = 12.dp),
+      verticalAlignment = Alignment.CenterVertically
+    ) {
+      val (containerColor, contentColor) = studyIconColors(tone)
       Box(
         Modifier
           .size(36.dp)
           .clip(CircleShape)
-          .background(MaterialTheme.colorScheme.tertiaryContainer),
+          .background(containerColor),
         contentAlignment = Alignment.Center
       ) {
         Icon(
           icon,
           contentDescription = null,
           modifier = Modifier.size(20.dp),
-          tint = MaterialTheme.colorScheme.tertiary
+          tint = contentColor
         )
       }
-      Spacer(Modifier.height(8.dp))
-      Text(text, style = MaterialTheme.typography.labelLarge)
+      Spacer(Modifier.width(12.dp))
+      Text(text, style = MaterialTheme.typography.labelLarge, modifier = Modifier.weight(1f))
+      Icon(
+        Icons.AutoMirrored.Filled.ArrowForward,
+        contentDescription = null,
+        tint = MaterialTheme.colorScheme.onSurfaceVariant
+      )
     }
   }
 }
@@ -1958,14 +1876,16 @@ fun BooksScreen(
 
 @Composable
 private fun librarySectionTitle(section: LibrarySection): String = when (section) {
-  LibrarySection.LAW -> stringResource(Res.string.ui_library_law)
-  LibrarySection.HISTORY -> stringResource(Res.string.ui_library_history)
-  LibrarySection.WISDOM -> stringResource(Res.string.ui_library_wisdom)
-  LibrarySection.MAJOR_PROPHETS -> stringResource(Res.string.ui_library_major_prophets)
-  LibrarySection.MINOR_PROPHETS -> stringResource(Res.string.ui_library_minor_prophets)
+  LibrarySection.TORAH -> stringResource(Res.string.ui_library_torah)
+  LibrarySection.HISTORICAL_BOOKS -> stringResource(Res.string.ui_library_historical_books)
+  LibrarySection.WISDOM_AND_POETRY -> stringResource(Res.string.ui_library_wisdom_poetry)
+  LibrarySection.PROPHETS -> stringResource(Res.string.ui_library_prophets)
   LibrarySection.GOSPELS -> stringResource(Res.string.ui_library_gospels)
-  LibrarySection.PAUL -> stringResource(Res.string.ui_library_paul)
-  LibrarySection.GENERAL -> stringResource(Res.string.ui_library_general)
+  LibrarySection.CHURCH_HISTORY -> stringResource(Res.string.ui_library_church_history)
+  LibrarySection.LETTERS -> stringResource(Res.string.ui_library_letters)
+  LibrarySection.PAULINE_EPISTLES -> stringResource(Res.string.ui_library_pauline_epistles)
+  LibrarySection.GENERAL_EPISTLES -> stringResource(Res.string.ui_library_general_epistles)
+  LibrarySection.REVELATION -> stringResource(Res.string.ui_library_revelation)
 }
 
 @Composable
@@ -2191,7 +2111,8 @@ fun BookScreen(
     if (autoStartTts && !autoStartTtsConsumed && book != null && book.stories.isNotEmpty()) {
       autoStartTtsConsumed = true
       delay(400)
-      chapterTtsStoryId = book.stories.first().id
+      chapterTtsStoryId = resolvedStoryId?.takeIf { target -> book.stories.any { it.id == target } }
+        ?: firstReaderChapterId(book)
       chapterTtsPlaying = true
     }
   }

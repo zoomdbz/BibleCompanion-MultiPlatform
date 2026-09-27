@@ -411,4 +411,14 @@
     <string name="ui_next_feast">次の祭り</string>
     <string name="ui_calendar_basis">暦の基準</string>
     <string name="ui_reading_now">読書中</string>
+    <string name="ui_open_chapter">章を開く</string>
+    <string name="ui_library_torah">律法（モーセ五書 / トーラー）</string>
+    <string name="ui_library_historical_books">歴史書</string>
+    <string name="ui_library_wisdom_poetry">知恵と詩歌</string>
+    <string name="ui_library_prophets">預言書</string>
+    <string name="ui_library_church_history">教会史</string>
+    <string name="ui_library_letters">書簡</string>
+    <string name="ui_library_pauline_epistles">パウロ書簡</string>
+    <string name="ui_library_general_epistles">公同書簡</string>
+    <string name="ui_library_revelation">ヨハネの黙示録</string>
 </resources>
