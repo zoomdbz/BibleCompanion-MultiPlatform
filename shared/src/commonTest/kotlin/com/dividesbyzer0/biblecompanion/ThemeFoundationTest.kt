@@ -39,6 +39,7 @@ class ThemeFoundationTest {
             assertEquals(light.background, light.surface, "$preset light background")
             assertNonIncreasing(
                 "$preset light",
+                listOf(
                 light.surfaceContainerLowest,
                 light.surfaceBright,
                 light.surface,
@@ -46,13 +47,14 @@ class ThemeFoundationTest {
                 light.surfaceContainer,
                 light.surfaceContainerHigh,
                 light.surfaceContainerHighest,
-                light.surfaceDim
+                light.surfaceDim)
             )
 
             val dark = colorSchemeFor(preset, dark = true, customHue = 212f)
             assertEquals(dark.background, dark.surface, "$preset dark background")
             assertNonDecreasing(
                 "$preset dark",
+                listOf(
                 dark.surfaceContainerLowest,
                 dark.surfaceDim,
                 dark.surface,
@@ -60,7 +62,7 @@ class ThemeFoundationTest {
                 dark.surfaceContainer,
                 dark.surfaceContainerHigh,
                 dark.surfaceContainerHighest,
-                dark.surfaceBright
+                dark.surfaceBright)
             )
         }
     }
@@ -122,6 +124,7 @@ class ThemeFoundationTest {
         assertTrue(result.surfaceContainerHighest.luminance() > result.surfaceContainer.luminance())
         assertNonDecreasing(
             "dynamic dark",
+            listOf(
             result.surfaceContainerLowest,
             result.surfaceDim,
             result.surface,
@@ -129,7 +132,7 @@ class ThemeFoundationTest {
             result.surfaceContainer,
             result.surfaceContainerHigh,
             result.surfaceContainerHighest,
-            result.surfaceBright
+            result.surfaceBright)
         )
         assertContentRoleContrast("dynamic dark", result)
         assertContrast("dynamic outline variant", result.outlineVariant, result.background, 3.0f)
@@ -164,8 +167,8 @@ class ThemeFoundationTest {
         assertTrue(ratio >= minimum, "$label contrast $ratio is below $minimum")
     }
 
-    private fun assertNonIncreasing(label: String, vararg colors: Color) {
-        colors.asList().zipWithNext().forEachIndexed { index, (first, second) ->
+    private fun assertNonIncreasing(label: String, colors: List<Color>) {
+        colors.zipWithNext().forEachIndexed { index, (first, second) ->
             assertTrue(
                 first.luminance() >= second.luminance(),
                 "$label surface luminance rises at step $index"
@@ -173,8 +176,8 @@ class ThemeFoundationTest {
         }
     }
 
-    private fun assertNonDecreasing(label: String, vararg colors: Color) {
-        colors.asList().zipWithNext().forEachIndexed { index, (first, second) ->
+    private fun assertNonDecreasing(label: String, colors: List<Color>) {
+        colors.zipWithNext().forEachIndexed { index, (first, second) ->
             assertTrue(
                 first.luminance() <= second.luminance(),
                 "$label surface luminance falls at step $index"
