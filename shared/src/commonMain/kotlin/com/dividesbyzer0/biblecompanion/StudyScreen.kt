@@ -443,7 +443,7 @@ internal fun CollectionButtons(
     }
     if (extras.isNotEmpty()) {
       BoxWithConstraints(Modifier.fillMaxWidth()) {
-        val fontScale = LocalDensity.current.fontScale
+        val fontScale = LocalDensity.current.fontScale * prefs.textSizeScale
         // Keep the compact three-pill row at normal text size. Larger type gets
         // two columns before labels can clip; one enabled collection uses a row.
         val columns = when {

@@ -1408,9 +1408,9 @@ fun HomeScreen(
         }
 
         item("collections") {
-          CollectionButtons(prefs = prefs, enabled = !navBusy) { collection ->
+          CollectionButtons(prefs = prefs, enabled = !navBusy, onOpenCollection = { collection ->
             safeNav { onOpen(collection) }
-          }
+          })
         }
 
         item("divider") { HorizontalDivider(Modifier.padding(vertical = 4.dp)) }
@@ -1454,7 +1454,7 @@ fun HomeScreen(
               )
             }
             AnimatedVisibility(visible = studyExpanded) {
-              Column(Modifier.padding(horizontal = 12.dp, bottom = 12.dp)) {
+              Column(Modifier.padding(horizontal = 12.dp).padding(bottom = 12.dp)) {
                 HomeStudyGroup(
                   title = stringResource(Res.string.ui_foundations),
                   enabled = !navBusy,
