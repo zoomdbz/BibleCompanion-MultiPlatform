@@ -439,9 +439,10 @@ private fun normalizeMarkedDivineNameContent(source: String, lang: String): Stri
       .replace(source) { replacement(it.value) }
 
   return when (lang) {
-    "en" -> replaceLatin("LORD|GOD|Yahweh|YHWH|YHVH|Yahuah|Yahveh|Jehovah|Jah") {
-      if (it.equals("GOD", ignoreCase = true)) "GOD" else "LORD"
-    }
+    // Transform English source-marked titles before they rejoin surrounding
+    // text. Otherwise an external article in `The [DN]LORD spoke[/DN]` gets
+    // mistaken for part of the marked title by the later global pass.
+    "en" -> replaceEnglishOtTitles(source)
     "es" -> replaceLatin("Señor|Jehová|Yahveh|Yahvé") { "SEÑOR" }
     "pt" -> replaceLatin("Senhor|Javé|Jeová") { "SENHOR" }
     "fr" -> replaceLatin("Éternel|Seigneur|Dieu|Yahvé|Yahveh") {

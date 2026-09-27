@@ -206,6 +206,14 @@ class DivineNameRenderingTest {
     )
     assertEquals(
       "[DN]Yahweh[/DN] spoke",
+      applyDivineName("[DN]The LORD[/DN] spoke", "yahweh", "en", true, "old_testament")
+    )
+    assertEquals(
+      "[DN]Yahweh[/DN] spoke",
+      applyDivineName("The LORD spoke", "yahweh", "en", true, "old_testament")
+    )
+    assertEquals(
+      "[DN]Yahweh[/DN] spoke",
       applyDivineName("[DN]LORD GOD[/DN] spoke", "yahweh", "en", true, "old_testament")
     )
     assertEquals(
