@@ -82,6 +82,16 @@
           "verse": 14,
           "text": "Or maledetto [ADD]sia[/ADD] il frodolente, il quale, avendo nella sua mandra un maschio, vota, e sacrifica al Signore un [ADD]animale[/ADD] difettoso; conciossiachè io [ADD]sia[/ADD] il gran Re, ha detto il Signor degli eserciti; e il mio Nome [ADD]sia[/ADD] tremendo fra le genti."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’ingratitudine del popolo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Le colpe dei sacerdoti"
+        }
       ]
     },
     {
@@ -173,6 +183,16 @@
           "chapter": 2,
           "verse": 17,
           "text": "VOI avete travagliato il Signore con le vostre parole; e pur dite: In che [ADD]l[/ADD]'abbiamo travagliato? In ciò che voi dite: Chiunque fa male piace al Signore, ed egli prende diletto in tali; ovvero: Ov'[ADD]è[/ADD] l'Iddio del giudicio?"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Condanna dei sacerdoti; rimproveri al popolo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Purificazione di Giuda nel giorno del giudizio"
         }
       ]
     },
@@ -271,6 +291,16 @@
           "verse": 18,
           "text": "E se pur voi vi convertite, voi vedrete [ADD]qual differenza vi è[/ADD] tra il giusto e l'empio; tra colui che serve Iddio, e colui che non lo serve."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Offerte e benedizioni"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Differenza fra il giusto e l’empio nel giorno del Signore"
+        }
       ]
     },
     {
@@ -308,7 +338,8 @@
           "verse": 6,
           "text": "Ed egli convertirà il cuor de' padri a' figliuoli, e il cuor de' figliuoli a' lor padri; che talora io non venga, e non percuota la terra di sterminio a modo d'interdetto."
         }
-      ]
+      ],
+      "headings": []
     }
   ]
 }

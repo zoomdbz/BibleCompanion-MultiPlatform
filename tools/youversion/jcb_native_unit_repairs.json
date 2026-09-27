@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "language": "ja",
+  "sourceEdition": {
+    "name": "Japanese Contemporary Bible",
+    "code": "JCB",
+    "bibleComVersionId": 83,
+    "authority": "Bible.com is the app's configured JCB link target"
+  },
+  "policy": {
+    "nativeUnits": "Preserve each combined JCB verse unit. Never invent a/b fragments or split its text.",
+    "headings": "Bind each localized editorial heading to the first native unit that the reviewed JCB section precedes.",
+    "validation": "Every row records both the obsolete app coordinate and reviewed replacement so an unapplied or ambiguous state fails closed."
+  },
+  "reviewedRepairs": [
+    {
+      "id": "1-kings-15-32-33",
+      "asset": "old_testament/ja/1_kings.json",
+      "storyId": "1-kings-15",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/1KI.15.JCB"
+      ],
+      "review": "JCB renders verses 32-33 as one unit; the Baasha heading precedes that unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 15, "start": 32, "end": 32 },
+          "new": { "chapter": 15, "start": 32, "end": 33 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "イスラエルの王バシャ",
+          "old": { "storyId": "1-kings-15", "beforeVerse": 33 },
+          "new": { "storyId": "1-kings-15", "beforeVerse": 32 }
+        }
+      ]
+    },
+    {
+      "id": "2-chronicles-33-20-21",
+      "asset": "old_testament/ja/2_chronicles.json",
+      "storyId": "2chronicles-33",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/2CH.33.JCB"
+      ],
+      "review": "JCB renders verses 20-21 as one unit; the Amon heading precedes that unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 33, "start": 20, "end": 20 },
+          "new": { "chapter": 33, "start": 20, "end": 21 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "ユダの王アモン",
+          "old": { "storyId": "2chronicles-33", "beforeVerse": 21 },
+          "new": { "storyId": "2chronicles-33", "beforeVerse": 20 }
+        }
+      ]
+    },
+    {
+      "id": "2-samuel-19-combined-units",
+      "asset": "old_testament/ja/2_samuel.json",
+      "storyId": "2-samuel-19",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/2SA.19.JCB"
+      ],
+      "review": "JCB combines 9-10 and 31-32; the current rendered return-to-Jerusalem heading belongs before the first full unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 19, "start": 9, "end": 9 },
+          "new": { "chapter": 19, "start": 9, "end": 10 }
+        },
+        {
+          "old": { "chapter": 19, "start": 31, "end": 31 },
+          "new": { "chapter": 19, "start": 31, "end": 32 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "エルサレムへ戻るダビデ",
+          "old": { "storyId": "2-samuel-19", "beforeVerse": 10 },
+          "new": { "storyId": "2-samuel-19", "beforeVerse": 9 }
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-23-combined-units",
+      "asset": "old_testament/ja/deuteronomy.json",
+      "storyId": "deuteronomy-23",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/DEU.23.JCB"
+      ],
+      "review": "JCB combines 9-10, 15-16, and 17-18; the three headings precede those native units.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 23, "start": 9, "end": 9 },
+          "new": { "chapter": 23, "start": 9, "end": 10 }
+        },
+        {
+          "old": { "chapter": 23, "start": 15, "end": 15 },
+          "new": { "chapter": 23, "start": 15, "end": 16 }
+        },
+        {
+          "old": { "chapter": 23, "start": 17, "end": 17 },
+          "new": { "chapter": 23, "start": 17, "end": 18 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "陣営をきよく保つ",
+          "old": { "storyId": "deuteronomy-23", "beforeVerse": 10 },
+          "new": { "storyId": "deuteronomy-23", "beforeVerse": 9 }
+        },
+        {
+          "text": "逃亡奴隷の保護",
+          "old": { "storyId": "deuteronomy-23", "beforeVerse": 16 },
+          "new": { "storyId": "deuteronomy-23", "beforeVerse": 15 }
+        },
+        {
+          "text": "神殿娼婦、男娼について",
+          "old": { "storyId": "deuteronomy-23", "beforeVerse": 18 },
+          "new": { "storyId": "deuteronomy-23", "beforeVerse": 17 }
+        }
+      ]
+    },
+    {
+      "id": "deuteronomy-32-44-45",
+      "asset": "old_testament/ja/deuteronomy.json",
+      "storyId": "deuteronomy-32",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/DEU.32.JCB"
+      ],
+      "review": "JCB combines 44-45. The final exhortation begins with the following native unit at verse 46, not inside 44-45.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 32, "start": 44, "end": 44 },
+          "new": { "chapter": 32, "start": 44, "end": 45 }
+        }
+      ],
+      "headingMoves": []
+    },
+    {
+      "id": "exodus-28-5-6",
+      "asset": "old_testament/ja/exodus.json",
+      "storyId": "exodus-28",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/EXO.28.JCB"
+      ],
+      "review": "JCB combines 5-6 and places the ephod section before the combined unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 28, "start": 5, "end": 5 },
+          "new": { "chapter": 28, "start": 5, "end": 6 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "エポデ",
+          "old": { "storyId": "exodus-28", "beforeVerse": 6 },
+          "new": { "storyId": "exodus-28", "beforeVerse": 5 }
+        }
+      ]
+    },
+    {
+      "id": "genesis-32-22-24",
+      "asset": "old_testament/ja/genesis.json",
+      "storyId": "genesis-32",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/GEN.32.JCB"
+      ],
+      "review": "JCB combines 22-24; the Peniel struggle heading precedes that unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 32, "start": 22, "end": 22 },
+          "new": { "chapter": 32, "start": 22, "end": 24 }
+        }
+      ],
+      "headingMoves": []
+    },
+    {
+      "id": "joshua-16-1-4",
+      "asset": "old_testament/ja/joshua.json",
+      "storyId": "joshua-16",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/JOS.16.JCB"
+      ],
+      "review": "JCB combines 1-4. The Ephraim section begins at the next native unit, verse 5.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 16, "start": 1, "end": 1 },
+          "new": { "chapter": 16, "start": 1, "end": 4 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "エフライム族の相続地",
+          "old": { "storyId": "joshua-16", "beforeVerse": 4 },
+          "new": { "storyId": "joshua-16", "beforeVerse": 5 }
+        }
+      ]
+    },
+    {
+      "id": "numbers-3-combined-clan-units",
+      "asset": "old_testament/ja/numbers.json",
+      "storyId": "numbers-3",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/NUM.3.JCB"
+      ],
+      "review": "JCB combines 16-24, 25-30, and 31-35; each clan heading precedes its complete unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 3, "start": 16, "end": 16 },
+          "new": { "chapter": 3, "start": 16, "end": 24 }
+        },
+        {
+          "old": { "chapter": 3, "start": 25, "end": 25 },
+          "new": { "chapter": 3, "start": 25, "end": 30 }
+        },
+        {
+          "old": { "chapter": 3, "start": 31, "end": 31 },
+          "new": { "chapter": 3, "start": 31, "end": 35 }
+        }
+      ],
+      "headingMoves": []
+    },
+    {
+      "id": "numbers-20-21-22",
+      "asset": "old_testament/ja/numbers.json",
+      "storyId": "numbers-20",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/NUM.20.JCB"
+      ],
+      "review": "JCB combines 21-22. Aaron's death section begins at the next native unit, verse 23.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 20, "start": 21, "end": 21 },
+          "new": { "chapter": 20, "start": 21, "end": 22 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "アロンの死",
+          "old": { "storyId": "numbers-20", "beforeVerse": 22 },
+          "new": { "storyId": "numbers-20", "beforeVerse": 23 }
+        }
+      ]
+    },
+    {
+      "id": "proverbs-1-7-9",
+      "asset": "old_testament/ja/proverbs.json",
+      "storyId": "proverbs-1",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/PRO.1.JCB"
+      ],
+      "review": "JCB combines 7-9; the localized paternal-instruction heading cannot be placed inside that unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 1, "start": 7, "end": 7 },
+          "new": { "chapter": 1, "start": 7, "end": 9 }
+        }
+      ],
+      "headingMoves": [
+        {
+          "text": "序文――知恵を求め、悪者には警戒しなさい",
+          "old": { "storyId": "proverbs-1", "beforeVerse": 8 },
+          "new": { "storyId": "proverbs-1", "beforeVerse": 7 }
+        }
+      ]
+    },
+    {
+      "id": "john-8-30-31",
+      "asset": "new_testament/ja/john.json",
+      "storyId": "john-8",
+      "sourceUrls": [
+        "https://www.bible.com/bible/83/JHN.8.JCB"
+      ],
+      "review": "JCB combines 30-31; the truth-and-freedom heading precedes that full unit.",
+      "nativeUnits": [
+        {
+          "old": { "chapter": 8, "start": 30, "end": 30 },
+          "new": { "chapter": 8, "start": 30, "end": 31 }
+        }
+      ],
+      "headingMoves": []
+    }
+  ]
+}

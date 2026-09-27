@@ -72,7 +72,12 @@
         }
       ],
       "keyTakeaway": "Dio suscita Mosè, colpisce l’Egitto con le piaghe, istituisce la Pasqua e fa uscire Israele dopo 430 anni di permanenza in quella terra.",
-      "headings": []
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "(Sl 103:7; Ne 9:9-20)\nIsraele in Egitto; oppressione e liberazione\nSchiavitù d’Israele in Egitto"
+        }
+      ]
     },
     {
       "id": "exodus-2",
@@ -550,7 +555,7 @@
         },
         {
           "beforeVerse": 14,
-          "text": "Le dieci piaghe, 7:14–12:36 L’acqua mutata in sangue"
+          "text": "Le dieci piaghe, 7:14–12:36\nL’acqua mutata in sangue"
         }
       ]
     },
@@ -1268,7 +1273,7 @@
         },
         {
           "beforeVerse": 22,
-          "text": "Israele nel deserto Le acque di Mara"
+          "text": "Israele nel deserto\nLe acque di Mara"
         }
       ]
     },
@@ -2196,7 +2201,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Costruzione del tabernacolo Le offerte"
+          "text": "Costruzione del tabernacolo\nLe offerte"
         },
         {
           "beforeVerse": 10,

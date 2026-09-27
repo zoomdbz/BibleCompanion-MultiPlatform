@@ -97,11 +97,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Deus manda Moisés levantar o censo de Israel"
-        },
-        {
-          "beforeVerse": 47,
-          "text": "Os levitas não são contados"
+          "text": "Censo dos soldados de Israel"
         }
       ]
     },
@@ -180,7 +176,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A ordem das tribos no acampamento"
+          "text": "A organização de Israel no acampamento"
         }
       ]
     },
@@ -281,11 +277,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Número e ofício dos levitas"
+          "text": "A nomeação dos levitas para o serviço"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "O registro dos levitas"
         },
         {
           "beforeVerse": 40,
-          "text": "O resgate dos primogênitos"
+          "text": "O resgate dos filhos mais velhos"
         }
       ]
     },
@@ -384,31 +384,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Deveres dos coatitas"
+          "text": "Deveres dos clãs coatitas"
         },
         {
           "beforeVerse": 21,
-          "text": "Deveres dos gersonitas"
+          "text": "Deveres dos clãs gersonitas"
         },
         {
           "beforeVerse": 29,
-          "text": "Deveres dos filhos de Merari"
+          "text": "Deveres dos clãs meraritas"
         },
         {
           "beforeVerse": 34,
-          "text": "Número dos coatitas"
-        },
-        {
-          "beforeVerse": 38,
-          "text": "Número dos filhos de Gérson"
-        },
-        {
-          "beforeVerse": 42,
-          "text": "Número dos filhos de Merari"
-        },
-        {
-          "beforeVerse": 46,
-          "text": "Número de todos os levitas"
+          "text": "Resumo do registro"
         }
       ]
     },
@@ -489,15 +477,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O leproso e o imundo são lançados fora do arraial"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "A lei da restituição"
+          "text": "Pureza no acampamento de Israel"
         },
         {
           "beforeVerse": 11,
-          "text": "A prova da mulher suspeita de adultério"
+          "text": "Proteção para a fidelidade conjugal"
         }
       ]
     },
@@ -574,7 +558,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A lei do nazireado"
+          "text": "Leis acerca do voto nazireu"
         },
         {
           "beforeVerse": 22,
@@ -717,7 +701,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As ofertas dos príncipes na dedicação do altar"
+          "text": "Ofertas para a consagração"
         }
       ]
     },
@@ -788,7 +772,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As sete lâmpadas do santuário"
+          "text": "A preparação das lâmpadas"
         },
         {
           "beforeVerse": 5,
@@ -860,11 +844,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A celebração da Páscoa"
+          "text": "A segunda Páscoa"
         },
         {
           "beforeVerse": 15,
-          "text": "A nuvem sobre o tabernáculo"
+          "text": "A nuvem de fogo"
         }
       ]
     },
@@ -950,15 +934,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As duas trombetas de prata"
+          "text": "As trombetas de prata"
         },
         {
           "beforeVerse": 11,
-          "text": "Os israelitas partem do Sinai"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "Moisés roga a Hobabe que vá com eles"
+          "text": "Os israelitas deixam o Sinai"
         }
       ]
     },
@@ -1043,19 +1023,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As murmurações dos israelitas"
-        },
-        {
-          "beforeVerse": 10,
-          "text": "Moisés acha pesado o seu cargo"
+          "text": "O povo se queixa a Moisés"
         },
         {
           "beforeVerse": 16,
-          "text": "Deus designa setenta anciãos para ajudarem Moisés"
+          "text": "Moisés escolhe setenta líderes"
         },
         {
           "beforeVerse": 31,
-          "text": "Deus manda codornizes"
+          "text": "O S\nenhor\nenvia codornas"
         }
       ]
     },
@@ -1121,7 +1097,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A sedição de Miriã e Arão"
+          "text": "As queixas de Miriã e Arão"
         }
       ]
     },
@@ -1204,11 +1180,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Doze homens são enviados para espiar a terra de Canaã"
+          "text": "Doze espiões fazem o reconhecimento de Canaã"
         },
         {
           "beforeVerse": 25,
-          "text": "O relatório dos espias recebido com incredulidade"
+          "text": "O relatório da missão de reconhecimento"
         }
       ]
     },
@@ -1303,19 +1279,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Sedição do povo"
+          "text": "O povo se rebela"
         },
         {
           "beforeVerse": 13,
           "text": "Moisés intercede pelo povo"
         },
         {
-          "beforeVerse": 20,
-          "text": "O castigo dado por Deus"
-        },
-        {
-          "beforeVerse": 39,
-          "text": "O povo derrotado em Horma"
+          "beforeVerse": 26,
+          "text": "O S\nenhor\ncastiga os israelitas"
         }
       ]
     },
@@ -1406,19 +1378,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Leis a respeito de ofertas"
-        },
-        {
-          "beforeVerse": 22,
-          "text": "Os sacrifícios pelos pecados por ignorância"
+          "text": "Leis acerca das ofertas"
         },
         {
           "beforeVerse": 32,
-          "text": "Castigo pela violação do sábado"
+          "text": "O castigo por não guardar o sábado"
         },
         {
           "beforeVerse": 37,
-          "text": "A lei acerca das borlas das vestes"
+          "text": "Franjas nas roupas"
         }
       ]
     },
@@ -1518,15 +1486,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A rebelião de Corá, Datã e Abirão"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "Os rebeldes castigados"
-        },
-        {
-          "beforeVerse": 41,
-          "text": "Novo tumulto e seu castigo"
+          "text": "A rebelião de Corá"
         }
       ]
     },
@@ -1584,7 +1544,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O bordão de Arão floresce"
+          "text": "A vara de Arão floresce"
         }
       ]
     },
@@ -1666,11 +1626,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Deveres e direitos dos sacerdotes"
+          "text": "Deveres dos sacerdotes e levitas"
         },
         {
-          "beforeVerse": 21,
-          "text": "Os dízimos e os levitas"
+          "beforeVerse": 8,
+          "text": "O sustento dos sacerdotes e levitas"
         }
       ]
     },
@@ -1742,7 +1702,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A água purificadora"
+          "text": "A água da purificação"
         }
       ]
     },
@@ -1821,11 +1781,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A morte de Miriã Moisés fere a rocha em Meribá"
+          "text": "A desobediência de Moisés"
         },
         {
           "beforeVerse": 14,
-          "text": "Moisés solicita passagem por Edom"
+          "text": "Edom não deixa Israel passar"
         },
         {
           "beforeVerse": 22,
@@ -1919,7 +1879,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Derrota do rei de Arade"
+          "text": "Vitória sobre os cananeus"
         },
         {
           "beforeVerse": 4,
@@ -1927,15 +1887,11 @@
         },
         {
           "beforeVerse": 10,
-          "text": "Jornadas dos israelitas"
+          "text": "A viagem de Israel para Moabe"
         },
         {
           "beforeVerse": 21,
-          "text": "Vitória sobre Seom, rei de Hesbom"
-        },
-        {
-          "beforeVerse": 31,
-          "text": "Vitória sobre Ogue, rei de Basã"
+          "text": "Vitória sobre Seom e Ogue"
         }
       ]
     },
@@ -2026,11 +1982,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Balaque envia mensageiros a Balaão"
+          "text": "Balaque manda buscar Balaão"
         },
         {
           "beforeVerse": 21,
-          "text": "O Anjo do Senhor e a jumenta de Balaão"
+          "text": "Balaão e sua jumenta"
         }
       ]
     },
@@ -2110,11 +2066,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Balaão abençoa a Israel pela primeira vez"
+          "text": "A primeira mensagem de Balaão"
         },
         {
           "beforeVerse": 13,
-          "text": "Balaão abençoa a Israel pela segunda vez"
+          "text": "A segunda mensagem de Balaão"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "A terceira mensagem de Balaão"
         }
       ]
     },
@@ -2188,12 +2148,8 @@
       "keyTakeaway": "Vendo que agrada ao SENHOR abençoar Israel, Balaão abandona os presságios, e o Espírito de Deus vem sobre ele: louva as belas tendas de Jacó, como jardins à beira de um rio, e declara benditos os que o abençoarem. Balaque o despede furioso, e Balaão prediz uma estrela que sairá de Jacó e um cetro que se levantará de Israel para esmagar as cabeças de Moabe, com Edom reduzido a possessão, Amaleque terminando em destruição e os queneus levados cativos por Assur; depois se levanta e volta para a sua terra.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Balaão abençoa a Israel pela terceira vez"
-        },
-        {
           "beforeVerse": 15,
-          "text": "A profecia de Balaão. A estrela de Jacó"
+          "text": "A última mensagem de Balaão"
         }
       ]
     },
@@ -2266,7 +2222,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A adoração a Baal-Peor e o zelo de Fineias"
+          "text": "Moabe corrompe Israel"
         }
       ]
     },
@@ -2376,15 +2332,63 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O censo de todos os israelitas"
+          "text": "O segundo censo dos soldados de Israel"
         },
         {
-          "beforeVerse": 52,
-          "text": "A lei acerca da divisão da terra"
+          "beforeVerse": 5,
+          "text": "A tribo de Rúben"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A tribo de Simeão"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "A tribo de Gade"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "A tribo de Judá"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "A tribo de Issacar"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "A tribo de Zebulom"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "A tribo de Manassés"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "A tribo de Efraim"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "A tribo de Benjamim"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "A tribo de Dã"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "A tribo de Aser"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "A tribo de Naftali"
+        },
+        {
+          "beforeVerse": 51,
+          "text": "Resultados do censo"
         },
         {
           "beforeVerse": 57,
-          "text": "O censo dos levitas"
+          "text": "A tribo de Levi"
         }
       ]
     },
@@ -2452,15 +2456,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A lei acerca dos direitos de filhas herdeiras. As filhas de Zelofeade"
+          "text": "As filhas de Zelofeade"
         },
         {
           "beforeVerse": 12,
-          "text": "Deus prediz a morte de Moisés"
-        },
-        {
-          "beforeVerse": 18,
-          "text": "Josué designado sucessor de Moisés"
+          "text": "Josué é escolhido para liderar Israel"
         }
       ]
     },
@@ -2541,7 +2541,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ofertas contínuas"
+          "text": "As ofertas diárias"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "As ofertas do sábado"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "As ofertas mensais"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "As ofertas da Páscoa"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "As ofertas para a Festa da Colheita"
         }
       ]
     },
@@ -2631,7 +2647,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ofertas nas outras festas solenes"
+          "text": "As ofertas para a Festa das Trombetas"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "As ofertas para o Dia da Expiação"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Ofertas para a Festa das Cabanas"
         }
       ]
     },
@@ -2692,7 +2716,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Acerca de votos"
+          "text": "Leis acerca de votos e juramentos"
         }
       ]
     },
@@ -2801,23 +2825,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A vitória sobre os midianitas"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "O tratamento dos cativos"
-        },
-        {
-          "beforeVerse": 19,
-          "text": "A purificação dos soldados e da presa"
+          "text": "Israel conquista Midiã"
         },
         {
           "beforeVerse": 25,
-          "text": "A divisão da presa"
-        },
-        {
-          "beforeVerse": 48,
-          "text": "A oferta voluntária dos capitães"
+          "text": "A divisão dos despojos"
         }
       ]
     },
@@ -2909,11 +2921,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Duas tribos e meia desejam habitar na Transjordânia"
-        },
-        {
-          "beforeVerse": 33,
-          "text": "Distribuição da Transjordânia"
+          "text": "As tribos a leste do Jordão"
         }
       ]
     },
@@ -3019,15 +3027,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os acampamentos desde o Egito"
-        },
-        {
-          "beforeVerse": 38,
-          "text": "A morte de Arão"
-        },
-        {
-          "beforeVerse": 50,
-          "text": "Deus manda lançar fora os moradores de Canaã"
+          "text": "Recapitulação da jornada de Israel"
         }
       ]
     },
@@ -3106,11 +3106,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os confins da terra"
+          "text": "As fronteiras da terra"
         },
         {
           "beforeVerse": 16,
-          "text": "Os homens que devem repartir a terra"
+          "text": "Líderes para repartir a terra"
         }
       ]
     },
@@ -3219,19 +3219,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As cidades dos levitas"
+          "text": "Cidades para os levitas"
         },
         {
           "beforeVerse": 9,
-          "text": "Seis cidades de refúgio ;"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "Execução do homicida"
-        },
-        {
-          "beforeVerse": 22,
-          "text": "Privilégios oferecidos pelas cidades de refúgio"
+          "text": "As cidades de refúgio"
         }
       ]
     },
@@ -3294,7 +3286,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Casamento de herdeiras"
+          "text": "Mulheres que herdam propriedades"
         }
       ]
     }

@@ -23,10 +23,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "traditional"))
+from reference_maps import reference_map_for_edition
+
 
 EDITION_ID = "kjv1769"
 SCHEMA_VERSION = 1
 ARCHIVE_SHA256 = "1BAB5D4D030439831FC0B39D7F11001DD8527FC6277405E7F6512273C200C3A4"
+SOURCE_FILE_SET_SHA256 = "07378DB0B11E8B882841729544F55B7BC6D543BAF855D14CC0FF6B120ABB061F"
 SOURCE_DATE = "2026-09-25"
 SOURCE_URL = "https://ebible.org/Scriptures/eng-kjv_usfm.zip"
 
@@ -363,6 +367,16 @@ def source_file_set_sha256(source_files: dict[str, Path], codes: Iterable[str]) 
     return digest.hexdigest().upper()
 
 
+def verified_source_file_set(source_files: dict[str, Path], codes: Iterable[str]) -> str:
+    actual = source_file_set_sha256(source_files, codes)
+    if actual != SOURCE_FILE_SET_SHA256:
+        raise UsfmError(
+            "Extracted Scripture source files differ from the pinned archive; "
+            f"expected {SOURCE_FILE_SET_SHA256}, got {actual}"
+        )
+    return actual
+
+
 def chapter_to_json(chapter: SourceChapter, transform=None) -> dict:
     verses = []
     for source_verse in chapter.verses:
@@ -419,6 +433,93 @@ def select_book_chapters(book_id: str, source: SourceBook) -> tuple[list[dict], 
     return [chapter_to_json(c) for c in source.chapters], None
 
 
+def _mapped_heading_target(rules: list[dict], chapter: int, verse: int, label: str) -> tuple[int, int] | None:
+    """Resolve one reviewed passage anchor; a split begins at its first native verse."""
+    targets: set[tuple[int, int]] = set()
+    for row in rules:
+        source_chapter = row["sourceChapter"]
+        source_start = row["sourceVerse"]
+        source_end = row.get("sourceVerseEnd", source_start)
+        if source_chapter != chapter or not source_start <= verse <= source_end:
+            continue
+        target_chapter = row["targetChapter"]
+        target_start = row["targetVerse"]
+        target_end = row.get("targetVerseEnd", target_start)
+        source_length = source_end - source_start + 1
+        target_length = target_end - target_start + 1
+        if source_length == target_length:
+            targets.add((target_chapter, target_start + verse - source_start))
+        elif source_length == 1 or target_length == 1:
+            targets.add((target_chapter, target_start))
+        else:
+            raise UsfmError(f"Ambiguous heading passage map: {label} {chapter}:{verse}")
+    if len(targets) > 1:
+        raise UsfmError(f"Conflicting heading passage maps: {label} {chapter}:{verse}")
+    return next(iter(targets)) if targets else None
+
+
+def resolved_heading_table(
+    repo_root: Path,
+    collection: str,
+    book_id: str,
+    chapters: list[dict],
+    reference_map: dict | None,
+) -> dict[int, list[dict]]:
+    """Build the complete displayed KJV heading lookup from localized metadata."""
+    base_path = repo_root / "shared/assets/books" / collection / "en" / f"{book_id}.json"
+    base = json.loads(base_path.read_text(encoding="utf-8"))
+    stories = [
+        story for story in base.get("stories", [])
+        if str(story.get("id", "")).rsplit("-", 1)[-1].isdigit()
+    ]
+    base_by_chapter = {
+        int(str(story["id"]).rsplit("-", 1)[-1]):
+            [dict(row) for row in story.get("headings", [])]
+        for story in stories
+    }
+    target_by_chapter = {chapter["number"]: chapter for chapter in chapters}
+    if set(base_by_chapter) != set(target_by_chapter):
+        raise UsfmError(f"Base/KJV chapter inventory differs: {collection}/{book_id}")
+
+    matches = [
+        book for book in (reference_map or {}).get("books", [])
+        if book.get("bookId") == book_id
+    ]
+    if len(matches) > 1:
+        raise UsfmError(f"Duplicate KJV heading passage map: {book_id}")
+    rules = matches[0].get("mappings", []) if matches else []
+    placed: dict[tuple[int, int], list[str]] = {}
+    for source_chapter in sorted(base_by_chapter):
+        for heading in base_by_chapter[source_chapter]:
+            source_verse = heading.get("beforeVerse")
+            title = heading.get("text")
+            if type(source_verse) is not int or source_verse < 1 or not isinstance(title, str) or not title.strip():
+                raise UsfmError(f"Malformed base heading: {book_id} {source_chapter}")
+            target_chapter, target_verse = (
+                _mapped_heading_target(rules, source_chapter, source_verse, book_id)
+                or (source_chapter, source_verse)
+            )
+            unit = next(
+                (row for row in target_by_chapter.get(target_chapter, {}).get("verses", [])
+                 if row["verse"] <= target_verse <= row.get("verseEnd", row["verse"])),
+                None,
+            )
+            if unit is None:
+                raise UsfmError(
+                    f"Heading falls outside displayed KJV: {book_id} "
+                    f"{target_chapter}:{target_verse}"
+                )
+            anchor = (target_chapter, unit["verse"])
+            titles = placed.setdefault(anchor, [])
+            if title not in titles:
+                titles.append(title)
+
+    result = {chapter: [] for chapter in target_by_chapter}
+    for (chapter, verse), titles in sorted(placed.items()):
+        result[chapter].append({"beforeVerse": verse, "text": "\n".join(titles)})
+    return result
+
+
 def write_json(path: Path, value: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     text = json.dumps(value, ensure_ascii=False, indent=2) + "\n"
@@ -472,6 +573,10 @@ def build(source_dir: Path, output_dir: Path, archive: Path | None) -> dict:
     if missing_codes or unexpected_codes:
         raise UsfmError(f"Source inventory mismatch; missing={missing_codes}, unexpected={unexpected_codes}")
 
+    # A valid ZIP does not prove that an old extracted directory contains its
+    # bytes. Check the independent extraction pin before touching any output.
+    extracted_file_set_hash = verified_source_file_set(source_files, required_codes)
+
     parsed = {code: parse_usfm(source_files[code]) for code in sorted(required_codes)}
 
     staging = output_dir.parent / f".{output_dir.name}.staging"
@@ -479,10 +584,19 @@ def build(source_dir: Path, output_dir: Path, archive: Path | None) -> dict:
         shutil.rmtree(staging)
     staging.mkdir(parents=True)
 
+    repo_root = Path(__file__).resolve().parents[2]
+    reference_map = reference_map_for_edition(repo_root, "en", EDITION_ID)
     manifest_books = []
     for code, collection, book_id in BOOKS:
         source = parsed[code]
         chapters, mapping = select_book_chapters(book_id, source)
+        heading_table = resolved_heading_table(
+            repo_root, collection, book_id, chapters, reference_map,
+        )
+        for chapter in chapters:
+            # Explicit [] is meaningful: never inherit a heading table from a
+            # different edition at runtime.
+            chapter["headings"] = heading_table[chapter["number"]]
         status = "mapped" if mapping else "full"
         overlay = {
             "schemaVersion": SCHEMA_VERSION,
@@ -547,7 +661,7 @@ def build(source_dir: Path, output_dir: Path, archive: Path | None) -> dict:
             "url": SOURCE_URL,
             "sourceDate": SOURCE_DATE,
             "archiveSha256": ARCHIVE_SHA256,
-            "extractedScriptureFileSetSha256": source_file_set_sha256(source_files, required_codes),
+            "extractedScriptureFileSetSha256": extracted_file_set_hash,
             "rights": "Public domain outside the United Kingdom; UK distribution requires a separate rights determination.",
         },
         "markup": {
@@ -557,9 +671,21 @@ def build(source_dir: Path, output_dir: Path, archive: Path | None) -> dict:
             "footnotes": "USFM f apparatus is intentionally excluded from display text; counts are retained for audit.",
             "paragraphMarks": "USFM paragraph structure and printed pilcrow glyphs are presentation data and are intentionally excluded from verse text.",
         },
+        "headings": {
+            "textSource": "Localized English editorial headings already shipped with the app; not KJV publisher headings.",
+            "placement": "Explicit per-chapter beforeVerse lookup in displayed KJV coordinates.",
+            "emptyChapters": "Stored as explicit empty arrays; runtime fallback is forbidden.",
+        },
         "totals": totals,
         "books": manifest_books,
     }
+    if reference_map is not None:
+        write_json(staging / "_reference_map.json", reference_map)
+        manifest["referenceMap"] = {
+            "path": "_reference_map.json",
+            "books": [book["bookId"] for book in reference_map["books"]],
+            "provenance": reference_map["provenance"],
+        }
     write_json(staging / "_manifest.json", manifest)
 
     if output_dir.exists():

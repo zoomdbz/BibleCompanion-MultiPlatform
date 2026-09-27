@@ -58,8 +58,12 @@
       "keyTakeaway": "바울은 디모데의 믿음에 감사하고, 복음을 지키는 데 있어 용기와 신실함을 촉구하며, 배신과 충성의 사례들을 상기시킨다.",
       "headings": [
         {
+          "beforeVerse": 1,
+          "text": "인사"
+        },
+        {
           "beforeVerse": 3,
-          "text": "감사와 격려"
+          "text": "복음에 대한 충성"
         }
       ]
     },
@@ -128,11 +132,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "그리스도의 충성스러운 군인"
+          "text": "예수 그리스도의 훌륭한 군사"
         },
         {
           "beforeVerse": 14,
-          "text": "인정받은 일꾼"
+          "text": "인정받는 일꾼"
         }
       ]
     },
@@ -192,11 +196,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "마지막 날"
+          "text": "마지막 때의 타락상"
         },
         {
           "beforeVerse": 10,
-          "text": "끝으로 일러두는 말"
+          "text": "마지막 부탁"
         }
       ]
     },
@@ -261,11 +265,11 @@
       "headings": [
         {
           "beforeVerse": 9,
-          "text": "개인적인 부탁"
+          "text": "사사로운 부탁"
         },
         {
           "beforeVerse": 19,
-          "text": "인사"
+          "text": "마지막 인사"
         }
       ]
     }

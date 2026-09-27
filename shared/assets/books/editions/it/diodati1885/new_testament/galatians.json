@@ -132,6 +132,20 @@
           "verse": 24,
           "text": "E glorificavano Iddio in me."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Rifiuto di un altro vangelo"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Origine divina del vangelo di Paolo"
+        }
       ]
     },
     {
@@ -243,6 +257,16 @@
           "chapter": 2,
           "verse": 21,
           "text": "Io non annullo la grazia di Dio; perciocchè, se la giustizia [ADD]è[/ADD] per la legge, Cristo dunque è morto in vano."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paolo a Gerusalemme"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Pietro ripreso pubblicamente da Paolo in Antiochia"
         }
       ]
     },
@@ -400,6 +424,16 @@
           "chapter": 3,
           "verse": 30,
           "text": "Ora, se [ADD]siete[/ADD] di Cristo, siete adunque progenie d'Abrahamo, ed eredi secondo la promessa."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La legge e la fede"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La legge e la promessa"
         }
       ]
     },
@@ -563,6 +597,12 @@
           "verse": 31,
           "text": "Così adunque, fratelli, noi non siamo figliuoli della serva, ma della franca."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dalla schiavitù della legge alla libertà in Cristo"
+        }
       ]
     },
     {
@@ -700,6 +740,12 @@
           "verse": 26,
           "text": "Non siamo vanagloriosi, provocandoci gli uni gli altri, invidiandoci gli uni gli altri."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 13,
+          "text": "La carne e lo Spirito"
+        }
       ]
     },
     {
@@ -796,6 +842,12 @@
           "chapter": 6,
           "verse": 18,
           "text": "Fratelli, [ADD]sia[/ADD] la grazia del Signor nostro Gesù Cristo con lo spirito vostro. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La vita nuova in Cristo"
         }
       ]
     }

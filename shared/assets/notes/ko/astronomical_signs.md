@@ -34,6 +34,27 @@
 
 역사적 연쇄월식들은 유대 역사의 주요 전환점과 일치합니다. 2024–2033년의 집단은 연쇄월식을 형성하지 않지만, 2015년 이후 처음으로 절기일의 핏빛 달을 포함하며, 4년 연속(5784–5787년) 푸림 절기일에 일어나는 월식을 담고, 2033년 단 한 해에 4개의 절기 정렬 일식을 집중시킵니다. 이러한 정렬이 예언적 의미를 갖는지는 해석의 문제입니다. 천문학적 현상 자체는 기록된 사실입니다.
 
+<!-- ECLIPSE_CATALOG_2024_2033_BEGIN -->
+### 2024-2033년 전체 일식·월식 목록
+
+이 목록에는 성경력이나 유대력 날짜와 일치하는 현상뿐 아니라 NASA의 2024년부터 2033년까지의 10년 표에 실린 모든 일식과 월식이 포함되어 있습니다. 날짜는 식이 최대가 되는 협정 세계시(UTC)의 달력 날짜입니다. 개기월식 때는 흔히 핏빛 달이라고 부르는 붉은 모습이 나타날 수 있습니다. 부분월식과 반영월식은 서로 다른 현상이므로 따로 표시했습니다. 관측 가능 지역은 위치에 따라 다릅니다.
+
+| 연도 | 일식 | 월식 |
+|---|---|---|
+| 2024 | 2024-04-08 - 개기 <!-- eclipse:2024-04-08:solar-total -->; 2024-10-02 - 금환 <!-- eclipse:2024-10-02:solar-annular --> | 2024-03-25 - 반영 <!-- eclipse:2024-03-25:lunar-penumbral -->; 2024-09-18 - 부분 <!-- eclipse:2024-09-18:lunar-partial --> |
+| 2025 | 2025-03-29 - 부분 <!-- eclipse:2025-03-29:solar-partial -->; 2025-09-21 - 부분 <!-- eclipse:2025-09-21:solar-partial --> | 2025-03-14 - 개기 <!-- eclipse:2025-03-14:lunar-total -->; 2025-09-07 - 개기 <!-- eclipse:2025-09-07:lunar-total --> |
+| 2026 | 2026-02-17 - 금환 <!-- eclipse:2026-02-17:solar-annular -->; 2026-08-12 - 개기 <!-- eclipse:2026-08-12:solar-total --> | 2026-03-03 - 개기 <!-- eclipse:2026-03-03:lunar-total -->; 2026-08-28 - 부분 <!-- eclipse:2026-08-28:lunar-partial --> |
+| 2027 | 2027-02-06 - 금환 <!-- eclipse:2027-02-06:solar-annular -->; 2027-08-02 - 개기 <!-- eclipse:2027-08-02:solar-total --> | 2027-02-20 - 반영 <!-- eclipse:2027-02-20:lunar-penumbral -->; 2027-07-18 - 반영 <!-- eclipse:2027-07-18:lunar-penumbral -->; 2027-08-17 - 반영 <!-- eclipse:2027-08-17:lunar-penumbral --> |
+| 2028 | 2028-01-26 - 금환 <!-- eclipse:2028-01-26:solar-annular -->; 2028-07-22 - 개기 <!-- eclipse:2028-07-22:solar-total --> | 2028-01-12 - 부분 <!-- eclipse:2028-01-12:lunar-partial -->; 2028-07-06 - 부분 <!-- eclipse:2028-07-06:lunar-partial -->; 2028-12-31 - 개기 <!-- eclipse:2028-12-31:lunar-total --> |
+| 2029 | 2029-01-14 - 부분 <!-- eclipse:2029-01-14:solar-partial -->; 2029-06-12 - 부분 <!-- eclipse:2029-06-12:solar-partial -->; 2029-07-11 - 부분 <!-- eclipse:2029-07-11:solar-partial -->; 2029-12-05 - 부분 <!-- eclipse:2029-12-05:solar-partial --> | 2029-06-26 - 개기 <!-- eclipse:2029-06-26:lunar-total -->; 2029-12-20 - 개기 <!-- eclipse:2029-12-20:lunar-total --> |
+| 2030 | 2030-06-01 - 금환 <!-- eclipse:2030-06-01:solar-annular -->; 2030-11-25 - 개기 <!-- eclipse:2030-11-25:solar-total --> | 2030-06-15 - 부분 <!-- eclipse:2030-06-15:lunar-partial -->; 2030-12-09 - 반영 <!-- eclipse:2030-12-09:lunar-penumbral --> |
+| 2031 | 2031-05-21 - 금환 <!-- eclipse:2031-05-21:solar-annular -->; 2031-11-14 - 혼성 <!-- eclipse:2031-11-14:solar-hybrid --> | 2031-05-07 - 반영 <!-- eclipse:2031-05-07:lunar-penumbral -->; 2031-06-05 - 반영 <!-- eclipse:2031-06-05:lunar-penumbral -->; 2031-10-30 - 반영 <!-- eclipse:2031-10-30:lunar-penumbral --> |
+| 2032 | 2032-05-09 - 금환 <!-- eclipse:2032-05-09:solar-annular -->; 2032-11-03 - 부분 <!-- eclipse:2032-11-03:solar-partial --> | 2032-04-25 - 개기 <!-- eclipse:2032-04-25:lunar-total -->; 2032-10-18 - 개기 <!-- eclipse:2032-10-18:lunar-total --> |
+| 2033 | 2033-03-30 - 개기 <!-- eclipse:2033-03-30:solar-total -->; 2033-09-23 - 부분 <!-- eclipse:2033-09-23:solar-partial --> | 2033-04-14 - 개기 <!-- eclipse:2033-04-14:lunar-total -->; 2033-10-08 - 개기 <!-- eclipse:2033-10-08:lunar-total --> |
+
+출처: [NASA 일식, 2021-2030](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2021.html); [NASA 일식, 2031-2040](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2031.html); [NASA 월식, 2021-2030](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2021.html); [NASA 월식, 2031-2040](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2031.html). 식 예측은 NASA 고다드 우주 비행 센터의 프레드 에스페낙이 작성했습니다.
+<!-- ECLIPSE_CATALOG_2024_2033_END -->
+
 ---
 ## 일식
 

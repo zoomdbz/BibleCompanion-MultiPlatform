@@ -50,7 +50,7 @@
         {
           "chapter": 1,
           "verse": 8,
-          "text": "Io son l'Alfa, e l'Omega; il principio, e la fine, dice il Signore Iddio, che è, e che era, e che ha da venire, l'Onnipotente."
+          "text": "[J]Io son l'Alfa, e l'Omega; il principio, e la fine,[/J] dice il Signore Iddio, che è, e che era, e che ha da venire, l'Onnipotente."
         },
         {
           "chapter": 1,
@@ -65,7 +65,7 @@
         {
           "chapter": 1,
           "verse": 11,
-          "text": "Io son l'Alfa, e l'Omega; il primo, e l'ultimo; e: Ciò che tu vedi scrivilo in un libro, e mandalo alle sette chiese, che [ADD]sono[/ADD] in Asia: ad Efeso, ed a Smirna, ed a Pergamo, ed a Tiatiri, ed a Sardi, ed a Filadelfia, ed a Laodicea."
+          "text": "[J]Io son l'Alfa, e l'Omega; il primo, e l'ultimo;[/J] e: [J]Ciò che tu vedi scrivilo in un libro, e mandalo alle sette chiese, che [/J][ADD][J]sono[/J][/ADD][J] in Asia: ad Efeso, ed a Smirna, ed a Pergamo, ed a Tiatiri, ed a Sardi, ed a Filadelfia, ed a Laodicea.[/J]"
         },
         {
           "chapter": 1,
@@ -95,7 +95,7 @@
         {
           "chapter": 1,
           "verse": 17,
-          "text": "E quando io l'ebbi veduto, caddi ai suoi piedi come morto. Ed egli mise la sua man destra sopra me, dicendomi: Non temere; io sono il primo, e l'ultimo;"
+          "text": "E quando io l'ebbi veduto, caddi ai suoi piedi come morto. Ed egli mise la sua man destra sopra me, dicendomi: [J]Non temere; io sono il primo, e l'ultimo;[/J]"
         },
         {
           "chapter": 1,
@@ -111,6 +111,20 @@
           "chapter": 1,
           "verse": 20,
           "text": "[J]il misterio delle sette stelle, che tu hai vedute sopra la mia destra, e [ADD]quello[/ADD] de' sette candellieri d'oro. Le sette stelle son gli angeli delle sette chiese; e i sette candellieri, che tu hai veduti, sono le sette chiese.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Titolo e argomento del libro"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Dedica alle sette chiese dell’Asia"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Il Figlio dell’uomo appare in visione a Giovanni"
         }
       ]
     },
@@ -264,6 +278,24 @@
           "verse": 29,
           "text": "[J]Chi ha orecchio, ascolti ciò che lo Spirito dice alle chiese.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lettera alla chiesa di Efeso"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Lettera alla chiesa di Smirne"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Lettera alla chiesa di Pergamo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Lettera alla chiesa di Tiatiri"
+        }
       ]
     },
     {
@@ -381,6 +413,20 @@
           "verse": 22,
           "text": "[J]Chi ha orecchio ascolti ciò che lo Spirito dice alle chiese.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lettera alla chiesa di Sardi"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Lettera alla chiesa di Filadelfia"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Lettera alla chiesa di Laodicea"
+        }
       ]
     },
     {
@@ -442,6 +488,12 @@
           "chapter": 4,
           "verse": 11,
           "text": "Degno sei, o Signore e Iddio nostro, o Santo, di ricever la gloria, l'onore, e la potenza; perciocchè tu hai create tutte le cose, e per la tua volontà sono, e sono state create."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il trono di Dio"
         }
       ]
     },
@@ -519,6 +571,12 @@
           "chapter": 5,
           "verse": 14,
           "text": "E i quattro animali dicevano: Amen! e i ventiquattro vecchi si gettarono giù, e adorarono colui che vive ne' secoli dei secoli."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il libro dei sette sigilli. Solo l’Agnello è degno di aprirlo"
         }
       ]
     },
@@ -612,6 +670,12 @@
           "verse": 17,
           "text": "perciocchè è venuto il gran giorno della sua ira; e chi potrà durare?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’apertura dei primi sei sigilli"
+        }
       ]
     },
     {
@@ -699,6 +763,12 @@
           "verse": 16,
           "text": "Non avranno più fame, nè sete; e non caderà più sopra loro nè sole, nè arsura alcuna; perciocchè l'Agnello che è in mezzo del trono li pasturerà, e li guiderà alle vive fonti delle acque; e Iddio asciugherà ogni lagrima dagli occhi loro."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I centoquarantaquattromila e la grande folla venuta dalla tribolazione"
+        }
       ]
     },
     {
@@ -770,6 +840,16 @@
           "chapter": 8,
           "verse": 13,
           "text": "Ed io riguardai, e udii un angelo volante in mezzo del cielo, che disse con gran voce tre volte: Guai, guai, guai a coloro che abitano sopra la terra, per gli altri suoni della tromba de' tre angeli che hanno da sonare!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Apertura del settimo sigillo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Le prime sei trombe"
         }
       ]
     },
@@ -884,7 +964,8 @@
           "verse": 21,
           "text": "Parimente non si ravvidero de' lor omicidii, nè delle lor malie, nè della loro fornicazione, nè de' lor furti."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 10,
@@ -945,6 +1026,12 @@
           "chapter": 10,
           "verse": 11,
           "text": "Ed egli mi disse: Ei ti bisogna di nuovo profetizzare contro a molti popoli, e nazioni, e lingue, e re."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il libretto dato a Giovanni"
         }
       ]
     },
@@ -1048,6 +1135,16 @@
           "verse": 19,
           "text": "E il tempio di Dio fu aperto nel cielo, e apparve l'arca del patto d'esso nel suo tempio; e si fecero folgori, e suoni, e tuoni, e tremoto, e gragnuola grande."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I due testimoni"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La settima tromba"
+        }
       ]
     },
     {
@@ -1145,6 +1242,12 @@
           "verse": 18,
           "text": "Ed io mi fermai in su la rena del mare."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La donna e il dragone"
+        }
       ]
     },
     {
@@ -1241,6 +1344,16 @@
           "chapter": 13,
           "verse": 18,
           "text": "Qui è la sapienza. Chi ha intendimento conti il numero della bestia; poichè è numero d'uomo; e il suo numero [ADD]è[/ADD] seicentosessantasei."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La bestia che sale dal mare"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La bestia che sale dalla terra"
         }
       ]
     },
@@ -1349,6 +1462,20 @@
           "verse": 20,
           "text": "E il tino fu calcato fuori della città; e del tino uscì sangue, [ADD]che giungeva[/ADD] sino a' freni de' cavalli, per mille seicento stadi."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’Agnello e i suoi redenti"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Tre angeli proclamano i giudizi di Dio"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La mèsse e la vendemmia"
+        }
       ]
     },
     {
@@ -1395,6 +1522,12 @@
           "chapter": 15,
           "verse": 8,
           "text": "E il tempio fu ripieno di fumo, [ADD]procedente[/ADD] dalla gloria di Dio, e dalla sua potenza; e niuno poteva entrare nel tempio, finchè non fossero compiute le sette piaghe degli angeli."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I sette angeli e gli ultimi sette flagelli"
         }
       ]
     },
@@ -1476,7 +1609,7 @@
         {
           "chapter": 16,
           "verse": 15,
-          "text": "[J](Ecco, io vengo come un ladrone; beato chi veglia, e guarda i suoi vestimenti, acciocchè non cammini nudo, e non si veggano le sue vergogne).[/J]"
+          "text": "(Ecco, io vengo come un ladrone; beato chi veglia, e guarda i suoi vestimenti, acciocchè non cammini nudo, e non si veggano le sue vergogne)."
         },
         {
           "chapter": 16,
@@ -1508,6 +1641,12 @@
           "chapter": 16,
           "verse": 21,
           "text": "E cadde dal cielo, in su gli uomini, una gragnuola grossa come del peso d'un talento; e gli uomini bestemmiarono Iddio per la piaga della gragnuola; perciocchè la piaga d'essa era grandissima."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le sette coppe dell’ira di Dio"
         }
       ]
     },
@@ -1605,6 +1744,12 @@
           "chapter": 17,
           "verse": 18,
           "text": "E la donna, che tu hai veduta, è la gran città, che ha il regno sopra i re della terra."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La caduta di Babilonia, la grande"
         }
       ]
     },
@@ -1733,7 +1878,8 @@
           "verse": 24,
           "text": "E in essa è stato trovato il sangue de' profeti, e de' santi, e di tutti coloro che sono stati uccisi sopra la terra."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 19,
@@ -1845,6 +1991,16 @@
           "verse": 21,
           "text": "E il rimanente fu ucciso con la spada di colui che cavalcava il cavallo, la quale usciva dalla sua bocca; e tutti gli uccelli furono satollati delle lor carni."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gioia e trionfo nei cieli; le nozze dell’Agnello"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Seconda venuta di Cristo; vittoria sulla bestia e sul falso profeta"
+        }
       ]
     },
     {
@@ -1926,6 +2082,20 @@
           "chapter": 20,
           "verse": 15,
           "text": "E se alcuno non fu trovato scritto nel libro della vita, fu gettato nello stagno del fuoco."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Satana legato; il regno millenario di Cristo"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Satana sciolto; l’ultima rivolta"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Il giudizio finale"
         }
       ]
     },
@@ -2069,6 +2239,16 @@
           "verse": 27,
           "text": "E niente d'immondo, o che commetta abbominazione, o falsità, entrerà in lei; ma sol quelli che sono scritti nel libro della vita dell'Agnello."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I nuovi cieli e la nuova terra"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La nuova Gerusalemme"
+        }
       ]
     },
     {
@@ -2174,12 +2354,18 @@
         {
           "chapter": 22,
           "verse": 20,
-          "text": "Colui che testimonia queste cose, dice: Certo, io vengo tosto. Amen. Sì, vieni, Signor Gesù."
+          "text": "Colui che testimonia queste cose, dice: [J]Certo, io vengo tosto.[/J] Amen. Sì, vieni, Signor Gesù."
         },
         {
           "chapter": 22,
           "verse": 21,
           "text": "La grazia del Signor Gesù Cristo [ADD]sia[/ADD] con tutti voi. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Conclusione; ultimo messaggio della Bibbia"
         }
       ]
     }

@@ -39,6 +39,8 @@ import androidx.compose.ui.input.pointer.PointerEventTimeoutCancellationExceptio
 import androidx.compose.ui.input.pointer.pointerInput
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
+import kotlinx.coroutines.CoroutineStart
+import kotlinx.coroutines.NonCancellable
 import kotlinx.coroutines.withContext
 import kotlinx.coroutines.withTimeout
 import androidx.compose.foundation.lazy.LazyColumn
@@ -87,6 +89,8 @@ import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ElevatedButton
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.TimeInput
+import androidx.compose.material3.rememberTimePickerState
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.HorizontalDivider
@@ -181,6 +185,7 @@ import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import kotlinx.serialization.json.Json
+import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.JsonArray
 import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.JsonPrimitive
@@ -209,6 +214,13 @@ fun AppRoot(
   val repo = remember { PrefsRepo(ctx) }
   val initialPrefs = remember { repo.initialSnapshot() }
   val prefs by repo.flow.collectAsState(initialPrefs)
+
+  val notificationRefresh by DailyVerseNotificationBridge.refresh.collectAsState()
+  LaunchedEffect(notificationRefresh, prefs.dailyVerseNotifications,
+    prefs.dailyVerseNotificationMinuteOfDay, prefs.appLanguage,
+    prefs.internalBibleVersion, prefs.divineName) {
+    DailyVerseNotificationBridge.synchronize(prefs)
+  }
 
   LaunchedEffect(prefs.appLanguage) {
     // Sync platform locale on every change so iOS (no-op MainActivity hook)
@@ -278,7 +290,8 @@ fun AppRoot(
           val bookId = prefs.lastReadBookId
           if (col != null && bookId != null) {
             nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId,
-              sourceLang = prefs.lastReadSourceLanguage ?: "en")) { launchSingleTop = true }
+              sourceLang = prefs.lastReadSourceLanguage ?: "en",
+              sourceEdition = prefs.lastReadSourceEdition)) { launchSingleTop = true }
           }
         }
       }
@@ -294,10 +307,20 @@ fun AppRoot(
     }
 
     val internalNavigate: (String, String, String?, Int?, Int?) -> Unit = { col, bookId, storyId, verse, verseEnd ->
-      nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd)) { launchSingleTop = true }
+      nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd,
+        sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage))) { launchSingleTop = true }
     }
 
-    androidx.compose.runtime.CompositionLocalProvider(LocalInternalNavigate provides internalNavigate) {
+    val editionNavigate: (EditionDestination) -> Unit = { target ->
+      nav.navigate(Dest.BookView.route(
+        target.collection, target.bookId, target.storyId, target.verse, target.verseEnd,
+        sourceLang = target.language, sourceEdition = target.editionId
+      )) { launchSingleTop = true }
+    }
+    androidx.compose.runtime.CompositionLocalProvider(
+      LocalInternalNavigate provides internalNavigate,
+      LocalEditionNavigate provides editionNavigate
+    ) {
     Box(
       Modifier
         .fillMaxSize()
@@ -310,7 +333,8 @@ fun AppRoot(
             repo = repo,
             onOpen = { col -> nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
             onOpenBook = { col, bookId, storyId, verse, verseEnd ->
-              nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd)) { launchSingleTop = true }
+              nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd,
+                sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage))) { launchSingleTop = true }
             },
             onNavigateRoute = { route -> nav.navigate(route) { launchSingleTop = true } },
             onSettings = { nav.navigate(Dest.Settings.route) { launchSingleTop = true } },
@@ -357,6 +381,15 @@ fun AppRoot(
             onBack = { navBack() },
             onOpenBook = { col, bookId, storyId ->
               nav.navigate(Dest.BookView.route(col, bookId, storyId)) { launchSingleTop = true }
+            },
+            onOpenSavedVerse = { saved ->
+              val sameLanguage = saved.scriptureLanguage() == LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+              val anchor = saved.stableAnchor().takeIf { sameLanguage }
+              nav.navigate(Dest.BookView.route(
+                saved.collection, saved.bookId, saved.storyId,
+                verse = anchor?.verseStart, verseEnd = anchor?.verseEnd,
+                sourceLang = saved.scriptureLanguage(), sourceEdition = saved.scriptureEdition()
+              )) { launchSingleTop = true }
             }
           )
         }
@@ -454,14 +487,27 @@ fun AppRoot(
             onDaniel = { nav.navigate(Dest.DanielsTimeline.route) { launchSingleTop = true } },
             onAstronomical = { nav.navigate(Dest.AstronomicalSigns.route) { launchSingleTop = true } },
             onRevelation = { nav.navigate(Dest.RevelationOverview.route) { launchSingleTop = true } },
-            onRevelationTimeline = { nav.navigate(Dest.RevelationTimeline.route) { launchSingleTop = true } }
+            onRevelationTimeline = { nav.navigate(Dest.RevelationTimeline.route) { launchSingleTop = true } },
+            onSecondComingRapture = { nav.navigate(Dest.SecondComingRapture.route) { launchSingleTop = true } }
           )
         }
         composable(Dest.MessianicProphecy.route) {
-          GenericNotesScreen(Res.string.prophecy_messianic, "messianic_prophecy.md", prefs, repo) { navBack() }
+          GenericNotesScreen(
+            Res.string.prophecy_messianic,
+            "messianic_prophecy.md",
+            prefs,
+            repo,
+            collapsible = true
+          ) { navBack() }
         }
         composable(Dest.DanielsTimeline.route) {
-          GenericNotesScreen(Res.string.prophecy_daniel, "daniels_timeline.md", prefs, repo) { navBack() }
+          GenericNotesScreen(
+            Res.string.prophecy_daniel,
+            "daniels_timeline.md",
+            prefs,
+            repo,
+            collapsible = true
+          ) { navBack() }
         }
         composable(Dest.AstronomicalSigns.route) {
           GenericNotesScreen(Res.string.prophecy_astronomical, "astronomical_signs.md", prefs, repo) { navBack() }
@@ -473,6 +519,15 @@ fun AppRoot(
           GenericNotesScreen(
             Res.string.prophecy_revelation_timeline,
             "revelation_timeline.md",
+            prefs,
+            repo,
+            collapsible = true
+          ) { navBack() }
+        }
+        composable(Dest.SecondComingRapture.route) {
+          GenericNotesScreen(
+            Res.string.prophecy_second_coming_rapture,
+            "second_coming_rapture.md",
             prefs,
             repo,
             collapsible = true
@@ -490,38 +545,65 @@ fun AppRoot(
           )
         }
         composable(
-          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}&sourceLang={sourceLang}",
+          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}&sourceLang={sourceLang}&sourceEdition={sourceEdition}",
           arguments = listOf(
             navArgument("storyId") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("verse") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("verseEnd") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("autoStartTts") { type = NavType.StringType; nullable = true; defaultValue = null },
-            navArgument("sourceLang") { type = NavType.StringType; nullable = true; defaultValue = null }
+            navArgument("sourceLang") { type = NavType.StringType; nullable = true; defaultValue = null },
+            navArgument("sourceEdition") { type = NavType.StringType; nullable = true; defaultValue = null }
           )
         ) { back ->
           val col = back.arguments?.getString("col") ?: return@composable
           val bookId = back.arguments?.getString("bookId") ?: return@composable
           val storyIdArg = back.arguments?.getString("storyId")
-          val verseArg = back.arguments?.getString("verse")?.toIntOrNull()
+          val verseArg = back.arguments?.getString("verse")?.toIntOrNull()?.takeIf { it > 0 }
           val verseEndArg = back.arguments?.getString("verseEnd")?.toIntOrNull()
+            ?.takeIf { verseArg != null && it >= verseArg }
           val autoStartTtsArg = back.arguments?.getString("autoStartTts") == "true"
           val sourceLangArg = back.arguments?.getString("sourceLang")
+          val sourceEditionArg = back.arguments?.getString("sourceEdition")
+          val readerPrefs = prefs.copy(internalBibleVersion = BibleEditions.forNavigation(
+            prefs.appLanguage, prefs.internalBibleVersion, sourceLangArg, sourceEditionArg
+          ))
+          val linkedEditionUnavailable = sourceEditionArg != null &&
+            sourceLangArg?.let(LocaleUtils::effectiveAssetTag) == LocaleUtils.effectiveAssetTag(prefs.appLanguage) &&
+            BibleEditions.canonicalId(prefs.appLanguage, sourceEditionArg) == null
+          val keepLinkedVerse = BibleEditions.canKeepLinkedVerse(
+            prefs.appLanguage, sourceLangArg, linkedEditionUnavailable
+          )
+          val readerNavigate: (String, String, String?, Int?, Int?) -> Unit = { nextCol, nextBook, nextStory, nextVerse, nextEnd ->
+            nav.navigate(Dest.BookView.route(
+              nextCol, nextBook, nextStory, nextVerse, nextEnd,
+              sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
+              sourceEdition = readerPrefs.internalBibleVersion
+            )) { launchSingleTop = true }
+          }
+          androidx.compose.runtime.CompositionLocalProvider(LocalInternalNavigate provides readerNavigate) {
           BookScreen(
             col = col,
             bookId = bookId,
-            prefs = prefs,
+            prefs = readerPrefs,
             repo = repo,
             initialStoryId = storyIdArg,
             initialSourceLanguage = sourceLangArg,
-            initialVerse = verseArg,
-            initialVerseEnd = verseEndArg,
+            initialSourceEdition = sourceEditionArg,
+            initialVerse = verseArg.takeIf { keepLinkedVerse },
+            initialVerseEnd = verseEndArg.takeIf { keepLinkedVerse },
+            linkedEditionUnavailable = linkedEditionUnavailable,
             autoStartTts = autoStartTtsArg,
             onNavigateToBook = { nextCol, nextBookId, startTts ->
-              nav.navigate(Dest.BookView.route(nextCol, nextBookId, autoStartTts = startTts)) {
+              nav.navigate(Dest.BookView.route(
+                nextCol, nextBookId, autoStartTts = startTts,
+                sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
+                sourceEdition = readerPrefs.internalBibleVersion
+              )) {
                 launchSingleTop = true
               }
             }
           ) { navBack() }
+          }
         }
       }
     }
@@ -743,8 +825,8 @@ fun HomeScreen(
 
   // Prewarm search indexes/ONNX in the background when the user signals intent
   // to search (focuses the field). This trades a tiny extra preload for hiding
-  // the 2-3 second freeze the codex review caught in logcat (ONNX session
-  // initialized mid-typing). If the user never focuses search, we never load.
+  // the 2-3 second freeze observed when the ONNX session initializes mid-typing.
+  // If the user never focuses search, we never load.
   var searchPrewarmed by remember { mutableStateOf(false) }
   fun prewarmSearch() {
     if (searchPrewarmed) return
@@ -845,8 +927,7 @@ fun HomeScreen(
               searchInFlight = true
               val gen = ++searchGen
               searchJob = scope.launch {
-                // Per-query timing breakdown for logcat. Codex review asked
-                // for observability instead of more blind tuning.
+                // Per-query timing breakdown for logcat makes slow stages visible.
                 val tStart = currentTimeMillis()
                 var kwMs = 0L
                 var onnxMs = 0L
@@ -858,8 +939,8 @@ fun HomeScreen(
                 try {
                   // Show keyword results quickly after a short debounce, then
                   // hold longer before doing the expensive semantic encode.
-                  // The codex review caught ONNX firing mid-typing, causing
-                  // blocking-GC stalls; running semantic search idle-only
+                  // ONNX firing mid-typing caused blocking-GC stalls;
+                  // running semantic search idle-only
                   // keeps the keyword path snappy and the semantic merge
                   // only kicks in when the user pauses.
                   delay(220)
@@ -1149,12 +1230,26 @@ fun HomeScreen(
             )
             ScriptureRefs.ClickableRefsTextSmart(
               text = "\u2014 $votdLocalRef",
-              prefs = prefs,
+              prefs = prefs.copy(internalBibleVersion = votd.editionId ?: BibleEditions.defaultForLanguage(prefs.appLanguage)),
+              referenceEditionId = votd.editionId,
               modifier = Modifier.padding(top = 4.dp),
               textStyle = MaterialTheme.typography.labelSmall.copy(
                 color = votdOnContainer.copy(alpha = 0.7f)
               )
             )
+            if (votd.editionId != null &&
+              votd.editionId != BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)) {
+              Text(
+                text = when (votd.editionId) {
+                  BibleEditions.BSB -> stringResource(Res.string.version_bsb)
+                  BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
+                  BibleEditions.defaultForLanguage(prefs.appLanguage) -> stringResource(Res.string.version_local_modern)
+                  else -> stringResource(Res.string.version_local_traditional)
+                },
+                style = MaterialTheme.typography.labelSmall,
+                color = votdOnContainer.copy(alpha = 0.7f)
+              )
+            }
           }
         }
           }
@@ -1166,9 +1261,11 @@ fun HomeScreen(
           ElevatedCard(
             onClick = {
               if (!navBusy) safeNav {
-                onOpenBook(lastCol, lastBook,
-                  resolveStoryIdAcrossLanguages(prefs.lastReadStoryId,
-                    prefs.lastReadSourceLanguage, prefs.appLanguage), null, null)
+                onNavigateRoute(Dest.BookView.route(
+                  lastCol, lastBook, prefs.lastReadStoryId,
+                  sourceLang = prefs.lastReadSourceLanguage ?: "en",
+                  sourceEdition = prefs.lastReadSourceEdition
+                ))
               }
             },
             modifier = Modifier.fillMaxWidth(),
@@ -1637,8 +1734,10 @@ fun BookScreen(
   repo: PrefsRepo,
   initialStoryId: String?,
   initialSourceLanguage: String? = null,
+  initialSourceEdition: String? = null,
   initialVerse: Int? = null,
   initialVerseEnd: Int? = null,
+  linkedEditionUnavailable: Boolean = false,
   autoStartTts: Boolean = false,
   onNavigateToBook: ((col: String, bookId: String, autoStartTts: Boolean) -> Unit)? = null,
   onBack: () -> Unit
@@ -1660,6 +1759,11 @@ fun BookScreen(
   val book = loadedBook?.book
   val activeEditionId = loadedBook?.effectiveEdition ?: BibleEditions.BSB
   val effectiveLanguage = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+  val keepLoadedLinkedVerse = BibleEditions.canKeepLinkedVerse(
+    prefs.appLanguage, initialSourceLanguage, linkedEditionUnavailable
+  ) && BibleEditions.linkedEditionMatchesLoaded(
+    prefs.appLanguage, initialSourceEdition, activeEditionId
+  )
 
   val index = remember(book) { book?.let { ChapterLocator.build(it) } }
   val storyIndex = remember(book) {
@@ -1707,6 +1811,8 @@ fun BookScreen(
     bookId,
     initialStoryId,
     initialSourceLanguage,
+    initialSourceEdition,
+    activeEditionId,
     initialVerse,
     initialVerseEnd
   ) { mutableStateOf(false) }
@@ -1922,14 +2028,14 @@ fun BookScreen(
     }
   }
 
-  LaunchedEffect(resolvedStoryId, initialVerse, initialVerseEnd, storyIndex, book) {
+  LaunchedEffect(resolvedStoryId, initialVerse, initialVerseEnd, keepLoadedLinkedVerse, activeEditionId, storyIndex, book) {
     if (!initialTargetConsumed && !resolvedStoryId.isNullOrBlank() && book != null) {
       initialTargetConsumed = true
       if (resolvedStoryId !in expandedStoryIds) {
         expandedStoryIds = expandedStoryIds + resolvedStoryId
       }
       val storyIdx = storyIndex[resolvedStoryId]
-      if (initialVerse != null) {
+      if (initialVerse != null && keepLoadedLinkedVerse) {
         val story = book.stories.find { it.id == resolvedStoryId }
         if (story != null) {
           val end = initialVerseEnd?.coerceAtLeast(initialVerse) ?: initialVerse
@@ -1948,7 +2054,7 @@ fun BookScreen(
         }
       } else if (storyIdx != null) {
         val story = book.stories.find { it.id == resolvedStoryId }
-        if (story != null && story.summaryBullets.isNotEmpty()) {
+        if (keepLoadedLinkedVerse && story != null && story.summaryBullets.isNotEmpty()) {
           goldFadeStoryId = resolvedStoryId
           goldFadeBulletIdxs = setOf(0)
         }
@@ -1970,7 +2076,7 @@ fun BookScreen(
   // The restored list position is the authority for reading progress. Keeping
   // this in one writer avoids clearing lastReadStoryId during rotation before
   // the list observer has emitted its restored chapter.
-  LaunchedEffect(book, listState, effectiveLanguage) {
+  LaunchedEffect(book, listState, effectiveLanguage, activeEditionId) {
     if (book == null) return@LaunchedEffect
     val titlesMap = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
     val title = titlesMap[bookId] ?: book.title
@@ -1980,7 +2086,7 @@ fun BookScreen(
       .collectLatest { idx ->
         delay(500)
         val storyId = book.stories.getOrNull(idx - introOffset)?.id
-        repo.setLastRead(col, bookId, title, storyId, effectiveLanguage)
+        repo.setLastRead(col, bookId, title, storyId, effectiveLanguage, activeEditionId)
       }
   }
 
@@ -2004,9 +2110,9 @@ fun BookScreen(
   // Saved verses use chapter/verse anchors when available. Two editions can
   // assign different bullet indexes when one includes a verse that the other
   // places in a footnote, so bulletIndex alone is not a stable identity.
-  val savedVerseRecords = remember(savedVerses, col, bookId, book, effectiveLanguage) {
+  val savedVerseRecords = remember(savedVerses, col, bookId, book, effectiveLanguage, activeEditionId) {
     if (book == null) emptyMap()
-    else mapSavedVersesToCurrentBook(book, savedVerses, col, bookId, effectiveLanguage)
+    else mapSavedVersesToCurrentBook(book, savedVerses, col, bookId, effectiveLanguage, activeEditionId)
   }
   val savedVerseMap = remember(savedVerseRecords) {
     savedVerseRecords.mapValues { (_, byIndex) ->
@@ -2060,10 +2166,30 @@ fun BookScreen(
                 .alpha(if (didPulse) 1f else pulse.value),
               verticalAlignment = Alignment.CenterVertically
             ) {
-              Text(
-                titleText,
-                style = MaterialTheme.typography.titleMedium
-              )
+              Column(Modifier.weight(1f, fill = false)) {
+                Text(
+                  titleText,
+                  style = MaterialTheme.typography.titleMedium,
+                  maxLines = 1,
+                  overflow = TextOverflow.Ellipsis
+                )
+                if (loadedBook != null && col in setOf("old_testament", "new_testament", "deuterocanonical")) {
+                  // A source-reference link can deliberately open a different
+                  // edition from the saved preference. Identify the actual text.
+                  val editionLabel = when (activeEditionId) {
+                    BibleEditions.BSB -> stringResource(Res.string.version_bsb)
+                    BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
+                    BibleEditions.defaultForLanguage(effectiveLanguage) -> stringResource(Res.string.version_local_modern)
+                    else -> stringResource(Res.string.version_local_traditional)
+                  }
+                  Text(
+                    editionLabel,
+                    style = MaterialTheme.typography.labelSmall,
+                    maxLines = 1,
+                    overflow = TextOverflow.Ellipsis
+                  )
+                }
+              }
               Icon(
                 imageVector = Icons.Filled.ExpandMore,
                 contentDescription = null,
@@ -2258,7 +2384,7 @@ fun BookScreen(
               }
             }
 
-            if (loadedBook?.coverage == EditionCoverage.FALLBACK) {
+            if (loadedBook?.coverage == EditionCoverage.FALLBACK || linkedEditionUnavailable) {
               Surface(
                 color = MaterialTheme.colorScheme.surfaceVariant,
                 shape = RoundedCornerShape(12.dp),
@@ -2334,7 +2460,7 @@ fun BookScreen(
                   viewportTopY = viewportTopY,
                   viewportHeightPx = viewportHeightPx,
                   story = story,
-                  prefs = prefs,
+                  prefs = prefs.copy(internalBibleVersion = activeEditionId),
                   isTtsPlaying = isTtsActive && !chapterTtsPaused,
                   isTtsPaused = isTtsPausedHere,
                   onPlayTts = {
@@ -2457,14 +2583,13 @@ fun BookScreen(
                     doHaptic()
                     val content = buildSelectedContent(book, setOf(story.id to idx))
                     val url = content.primaryRef?.let {
-                      Linker.linkForReader(
-                        ScriptureRefs.canonicalizeRef(it),
-                        prefs.translation,
-                        prefs.readerMode,
-                        prefs.appLanguage
+                      editionAwareExternalLink(
+                        ctx, ScriptureRefs.canonicalizeRef(it), bookId, prefs, activeEditionId
                       )?.second
                     }
-                    val shareText = if (url != null) "${content.text}\n\n$url" else content.text
+                    val appLink = appPassageLink(col, bookId, story.id, effectiveLanguage, activeEditionId,
+                      verseAnchorFromText(story.summaryBullets[idx]))
+                    val shareText = content.text + "\n\n" + listOfNotNull(url, appLink).joinToString("\n")
                     platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: verseLbl, shareText)
                   },
                   activeSectionTts = sectionTtsKey
@@ -2553,14 +2678,19 @@ fun BookScreen(
                     doHaptic()
                     val content = buildSelectedContent(book, selectedBullets)
                     val url = content.primaryRef?.let {
-                      Linker.linkForReader(
-                        ScriptureRefs.canonicalizeRef(it),
-                        prefs.translation,
-                        prefs.readerMode,
-                        prefs.appLanguage
+                      editionAwareExternalLink(
+                        ctx, ScriptureRefs.canonicalizeRef(it), bookId, prefs, activeEditionId
                       )?.second
                     }
-                    val shareText = if (url != null) "${content.text}\n\n$url" else content.text
+                    val firstStory = book.stories.firstOrNull { story -> selectedBullets.any { it.first == story.id } }
+                    val anchors = book.stories.flatMap { story ->
+                      story.summaryBullets.mapIndexedNotNull { index, bullet ->
+                        verseAnchorFromText(bullet).takeIf { (story.id to index) in selectedBullets }
+                      }
+                    }
+                    val appLink = appPassageLink(col, bookId, firstStory?.id, effectiveLanguage, activeEditionId,
+                      contiguousSelectionAnchor(anchors))
+                    val shareText = content.text + "\n\n" + listOfNotNull(url, appLink).joinToString("\n")
                     platformShareText(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, shareText)
                     selectedBullets = emptySet()
                   }) {
@@ -2965,21 +3095,20 @@ fun StoryCard(
     prefs.translation,
     prefs.readerMode,
     prefs.appLanguage,
+    prefs.internalBibleVersion,
     ktLabel,
     crLabel
   ) {
     val md = buildStoryMarkdown(story, ktLabel, crLabel)
     val plain = markdownToPlainText(md)
     val url = canonicalShareRef?.let { ref ->
-      Linker.linkForReader(
-        ref,
-        prefs.translation,
-        prefs.readerMode,
-        prefs.appLanguage
+      editionAwareExternalLink(
+        ctx, ref, bookId, prefs,
+        BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
       )?.second
     }
-    val deepLink = "biblecompanion://open?col=$col&book=$bookId&story=${story.id}" +
-      "&sourceLang=${LocaleUtils.effectiveAssetTag(prefs.appLanguage)}"
+    val deepLink = appPassageLink(col, bookId, story.id, prefs.appLanguage,
+      BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion))
     val links = listOfNotNull(url, deepLink).joinToString("\n")
     "$plain\n\n$links"
   }
@@ -3060,7 +3189,8 @@ fun StoryCard(
             ScriptureRefs.ClickableRefsText(
               text = refsJoined,
               collection = col,
-              prefs = prefs
+              prefs = prefs,
+              referenceEditionId = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
             )
           }
         }
@@ -3075,9 +3205,9 @@ fun StoryCard(
                   val firstGoldIdx = goldFadeBulletIdxs.minOrNull()
                   val vpHeightState = rememberUpdatedState(viewportHeightPx)
                   val vpTopState = rememberUpdatedState(viewportTopY)
-                  // Map (verse number → heading text) so we can render a heading
-                  // BEFORE any bullet whose trailing (ch:v) matches. Bullet count
-                  // and verse-picker behavior stay unchanged.
+                  // Edition-owned lookup: native verse-unit start -> heading text.
+                  // Placement is explicit in the loaded book; the renderer never
+                  // guesses from heading order or another edition's coordinates.
                   val headingsByVerse: Map<Int, String> = remember(story.headings) {
                     story.headings.associate { it.beforeVerse to it.text }
                   }
@@ -3184,6 +3314,7 @@ fun StoryCard(
                         text = bullet,
                         collection = col,
                         prefs = prefs,
+                        referenceEditionId = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion),
                         defaultBook = defaultBook,
                         allowRelativeInParensOnly = true,
                         modifier = Modifier.weight(1f),
@@ -3479,16 +3610,14 @@ private fun mapSavedVersesToCurrentBook(
   savedVerses: List<SavedVerse>,
   collection: String,
   bookId: String,
-  currentLanguage: String
+  currentLanguage: String,
+  currentEdition: String
 ): Map<String, Map<Int, SavedVerse>> {
   val stories = book.stories.associateBy { it.id }
-  val legacyNumberingIsSafe = !(bookId == "psalms" && currentLanguage == "ru") &&
-    !(bookId == "malachi" && currentLanguage in setOf("de", "fr"))
   return savedVerses
     .filter {
       if (it.collection != collection || it.bookId != bookId) return@filter false
-      val sourceLanguage = it.sourceLanguage?.let(LocaleUtils::effectiveAssetTag)
-      sourceLanguage == currentLanguage || (sourceLanguage == null && legacyNumberingIsSafe)
+      it.belongsToEdition(currentLanguage, currentEdition)
     }
     .groupBy { it.storyId }
     .mapValues { (storyId, savedForStory) ->
@@ -3673,7 +3802,8 @@ fun SavedItemsScreen(
   prefs: PrefsState,
   repo: PrefsRepo,
   onBack: () -> Unit,
-  onOpenBook: (col: String, bookId: String, storyId: String?) -> Unit
+  onOpenBook: (col: String, bookId: String, storyId: String?) -> Unit,
+  onOpenSavedVerse: (SavedVerse) -> Unit
 ) {
   val scope = rememberCoroutineScope()
   val bookmarks by repo.bookmarksFlow.collectAsState(initial = emptyList())
@@ -3901,8 +4031,7 @@ fun SavedItemsScreen(
                   val elevation = if (isDragging) 8.dp else 0.dp
                   Card(
                     modifier = Modifier.fillMaxWidth().clickable {
-                      onOpenBook(sv.collection, sv.bookId,
-                        resolveStoryIdAcrossLanguages(sv.storyId, sv.sourceLanguage, prefs.appLanguage))
+                      onOpenSavedVerse(sv)
                     },
                     elevation = CardDefaults.cardElevation(defaultElevation = elevation)
                   ) {
@@ -3928,11 +4057,12 @@ fun SavedItemsScreen(
                           text = sv.text,
                           collection = sv.collection,
                           prefs = prefs,
+                          referenceEditionId = sv.scriptureEdition(),
+                          referenceLanguage = sv.scriptureLanguage(),
                           defaultBook = sv.bookId,
                           allowRelativeInParensOnly = true,
                           textStyle = MaterialTheme.typography.bodyMedium,
-                          onNonLinkClick = { onOpenBook(sv.collection, sv.bookId,
-                            resolveStoryIdAcrossLanguages(sv.storyId, sv.sourceLanguage, prefs.appLanguage)) }
+                          onNonLinkClick = { onOpenSavedVerse(sv) }
                         )
                         Spacer(Modifier.height(4.dp))
                         Text(
@@ -4037,8 +4167,7 @@ fun SavedItemsScreen(
                           Row(
                             Modifier
                               .fillMaxWidth()
-                              .clickable { onOpenBook(sv.collection, sv.bookId,
-                                resolveStoryIdAcrossLanguages(sv.storyId, sv.sourceLanguage, prefs.appLanguage)) }
+                              .clickable { onOpenSavedVerse(sv) }
                               .padding(vertical = 4.dp),
                             verticalAlignment = Alignment.CenterVertically
                           ) {
@@ -4334,6 +4463,28 @@ private fun ttsBuildManuscriptVariantsText(story: Story): String = buildString {
 fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
   val scope = rememberCoroutineScope()
   val ctx = LocalPlatformContext.current
+  val notificationPermissionDenied by DailyVerseNotificationBridge.permissionRequestDenied.collectAsState()
+  var notificationPermissionPending by remember { mutableStateOf(false) }
+  var showNotificationTime by rememberSaveable { mutableStateOf(false) }
+  val notificationAllowed by DailyVerseNotificationBridge.permissionAllowed.collectAsState()
+  if (showNotificationTime) {
+    val minutes = prefs.dailyVerseNotificationMinuteOfDay.coerceIn(0, 1439)
+    val time = rememberTimePickerState(minutes / 60, minutes % 60, is24Hour = true)
+    AlertDialog(
+      onDismissRequest = { showNotificationTime = false },
+      title = { Text(stringResource(Res.string.daily_notification_time)) },
+      text = { TimeInput(state = time) },
+      confirmButton = {
+        TextButton(onClick = {
+          scope.launch { repo.setDailyVerseNotificationTime(time.hour * 60 + time.minute) }
+          showNotificationTime = false
+        }) { Text(stringResource(Res.string.daily_notification_save)) }
+      },
+      dismissButton = {
+        TextButton(onClick = { showNotificationTime = false }) { Text(stringResource(Res.string.cancel)) }
+      }
+    )
+  }
 
   // Bible.com (YouVersion) catalog — every code here must be mapped in
   // Linker.youVersionIdByCode. Ordered roughly by popularity per language.
@@ -4956,6 +5107,41 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
+      // Daily notifications remain between Search and Accessibility.
+      SectionHeader(stringResource(Res.string.daily_notification_title))
+      SettingsSwitch(stringResource(Res.string.daily_notification_toggle), prefs.dailyVerseNotifications) { enabled ->
+        if (!notificationPermissionPending) {
+          if (!enabled) {
+            DailyVerseNotificationBridge.clearPermissionRequestFeedback()
+            scope.launch { repo.setDailyVerseNotifications(false) }
+          } else {
+            notificationPermissionPending = true
+            DailyVerseNotificationBridge.requestPermission { granted ->
+              notificationPermissionPending = false
+              if (granted) scope.launch { repo.setDailyVerseNotifications(true) }
+            }
+          }
+        }
+      }
+      Text(stringResource(Res.string.daily_notification_desc), style = MaterialTheme.typography.bodySmall)
+      TextButton(onClick = { showNotificationTime = true }) {
+        val minutes = prefs.dailyVerseNotificationMinuteOfDay.coerceIn(0, 1439)
+        val displayTime = (minutes / 60).toString().padStart(2, '0') + ":" + (minutes % 60).toString().padStart(2, '0')
+        Text(stringResource(Res.string.daily_notification_time) + ": " + displayTime)
+      }
+      if (isApplePlatform) {
+        Text(stringResource(Res.string.daily_notification_ios_window), style = MaterialTheme.typography.bodySmall)
+      }
+      if (notificationPermissionDenied || (prefs.dailyVerseNotifications && notificationAllowed == false)) {
+        Text(stringResource(Res.string.daily_notification_permission_denied), style = MaterialTheme.typography.bodySmall)
+      }
+      if (notificationPermissionDenied || prefs.dailyVerseNotifications) {
+        TextButton(onClick = { DailyVerseNotificationBridge.openSettings() }) {
+          Text(stringResource(Res.string.daily_notification_system_settings))
+        }
+      }
+      HorizontalDivider(Modifier.padding(vertical = 8.dp))
+
       // ─── ACCESSIBILITY SECTION ───
       SectionHeader(stringResource(Res.string.accessibility_section))
       SettingsSwitch(stringResource(Res.string.haptic_feedback), prefs.hapticEnabled) {
@@ -5327,11 +5513,12 @@ private fun GenericNotesScreen(
   onBack: () -> Unit
 ) {
   val ctx = LocalPlatformContext.current
-  var body by remember { mutableStateOf("") }
+  val notesLanguage = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+  val notesKey = notesScreenKey(notesLanguage, assetFileName)
+  var body by remember(notesKey) { mutableStateOf("") }
 
-  LaunchedEffect(prefs.appLanguage) {
-    val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-    body = readAssetText(ctx, "notes/$lang/$assetFileName")
+  LaunchedEffect(notesKey) {
+    body = readAssetText(ctx, "notes/$notesLanguage/$assetFileName")
       ?: readAssetText(ctx, "notes/en/$assetFileName")
       ?: "\u2014"
   }
@@ -5341,43 +5528,48 @@ private fun GenericNotesScreen(
   val sectionHeaders = remember(sections) { sections.mapNotNull { it.first } }
   val showToc = toc && !collapsible && sectionHeaders.size >= 8
 
-  val tocListState = rememberLazyListState()
-  val collapsibleListState = rememberLazyListState()
+  var noteState by remember(notesKey) {
+    mutableStateOf(LiveNotesScreenStates.read(prefs.notesExpandedSectionsJson, notesLanguage, assetFileName))
+  }
+  val tocListState = rememberSaveable(notesKey, saver = LazyListState.Saver) {
+    LazyListState(noteState.firstVisibleItem.coerceAtLeast(0), noteState.firstVisibleOffset.coerceAtLeast(0))
+  }
+  val collapsibleListState = rememberSaveable(notesKey, saver = LazyListState.Saver) {
+    LazyListState(noteState.firstVisibleItem.coerceAtLeast(0), noteState.firstVisibleOffset.coerceAtLeast(0))
+  }
   val scope = rememberCoroutineScope()
   var tocDropdownExpanded by remember { mutableStateOf(false) }
 
-  // Track which collapsible sections are expanded, persisted per-file so the
-  // user's last state is restored on return. The JSON shape is
-  //   { "<assetFileName>": ["<sectionHeader>", ...], ... }
-  // Keying by header text (not index) keeps the state correct when the
-  // underlying notes file is edited.
-  var expandedSections by remember(prefs.notesExpandedSectionsJson, sections) {
-    val headers = sections.mapNotNull { it.first }.toSet()
-    val persisted = runCatching {
-      val root = Json.parseToJsonElement(prefs.notesExpandedSectionsJson).jsonObject
-      root[assetFileName]?.jsonArray?.map { it.jsonPrimitive.content }?.toSet().orEmpty()
-    }.getOrDefault(emptySet())
-    val resolved = sections
-      .mapIndexedNotNull { idx, (header, _) ->
-        if (header != null && header in persisted && header in headers) idx else null
-      }
-      .toSet()
-    mutableStateOf(resolved)
+  fun saveNoteState(state: NotesScreenState) {
+    LiveNotesScreenStates.record(notesLanguage, assetFileName, state)
+    val payload = Json.encodeToString(state)
+    // Start the short preference transaction before navigation disposes this
+    // scope; finish it even when the user immediately leaves the page.
+    scope.launch(NonCancellable, start = CoroutineStart.UNDISPATCHED) {
+      repo.setNoteScreenState(notesLanguage, assetFileName, payload)
+    }
   }
-
-  var innerExpandedHeaders by remember { mutableStateOf<Set<String>>(emptySet()) }
-
-  // Persist expanded-section state by header name (stable across edits).
-  fun persistExpandedSections(newExpanded: Set<Int>) {
-    val headerNames = newExpanded
-      .mapNotNull { sections.getOrNull(it)?.first }
-      .toList()
-    val root = runCatching {
-      Json.parseToJsonElement(prefs.notesExpandedSectionsJson).jsonObject.toMutableMap()
-    }.getOrDefault(mutableMapOf())
-    if (headerNames.isEmpty()) root.remove(assetFileName)
-    else root[assetFileName] = JsonArray(headerNames.map { JsonPrimitive(it) })
-    scope.launch { repo.setNotesExpandedSections(JsonObject(root).toString()) }
+  fun updateNoteState(state: NotesScreenState) {
+    noteState = state
+    saveNoteState(state)
+  }
+  val activeListState = if (collapsible) collapsibleListState else tocListState
+  LaunchedEffect(notesKey, body, collapsible, showToc) {
+    if (body.isNotBlank() && (collapsible || showToc)) {
+      snapshotFlow { activeListState.firstVisibleItemIndex to activeListState.firstVisibleItemScrollOffset }
+        .distinctUntilChanged().collectLatest { (index, offset) ->
+          delay(250)
+          updateNoteState(noteState.copy(firstVisibleItem = index, firstVisibleOffset = offset))
+        }
+    }
+  }
+  DisposableEffect(notesKey, collapsible, showToc) {
+    onDispose {
+      if (body.isNotBlank() && (collapsible || showToc)) {
+        saveNoteState(noteState.copy(firstVisibleItem = activeListState.firstVisibleItemIndex,
+          firstVisibleOffset = activeListState.firstVisibleItemScrollOffset))
+      }
+    }
   }
 
   val currentSectionTitle = if (showToc) {
@@ -5487,7 +5679,7 @@ private fun GenericNotesScreen(
         ) { idx ->
           val (header, sectionBody) = sections[idx]
           if (header != null) {
-            val isExpanded = idx in expandedSections
+            val isExpanded = header in noteState.expandedHeaders
             Card(
               modifier = Modifier.fillMaxWidth(),
               shape = RoundedCornerShape(12.dp),
@@ -5498,9 +5690,8 @@ private fun GenericNotesScreen(
               Column(Modifier.padding(12.dp)) {
                 Row(
                   Modifier.fillMaxWidth().clickable {
-                    val next = if (isExpanded) expandedSections - idx else expandedSections + idx
-                    expandedSections = next
-                    persistExpandedSections(next)
+                    val next = if (isExpanded) noteState.expandedHeaders - header else noteState.expandedHeaders + header
+                    updateNoteState(noteState.copy(expandedHeaders = next))
                   },
                   verticalAlignment = Alignment.CenterVertically
                 ) {
@@ -5523,9 +5714,9 @@ private fun GenericNotesScreen(
                       for ((subIdx, sub) in subSections.withIndex()) {
                         val (subHeader, subBody) = sub
                         if (subHeader != null) {
-                          val subKey = "$header/$subHeader"
+                          val subKey = notesHeaderPath(header, subHeader)
                           key(subKey) {
-                            val subExpanded = subKey in innerExpandedHeaders
+                            val subExpanded = subKey in noteState.expandedPaths
                             Card(
                               modifier = Modifier.fillMaxWidth(),
                               shape = RoundedCornerShape(8.dp),
@@ -5536,7 +5727,8 @@ private fun GenericNotesScreen(
                               Column(Modifier.padding(10.dp)) {
                                 Row(
                                   Modifier.fillMaxWidth().clickable {
-                                    innerExpandedHeaders = if (subExpanded) innerExpandedHeaders - subKey else innerExpandedHeaders + subKey
+                                    val next = if (subExpanded) noteState.expandedPaths - subKey else noteState.expandedPaths + subKey
+                                    updateNoteState(noteState.copy(expandedPaths = next))
                                   },
                                   verticalAlignment = Alignment.CenterVertically
                                 ) {
@@ -5560,9 +5752,9 @@ private fun GenericNotesScreen(
                                         for ((ssIdx, ss) in subSubSections.withIndex()) {
                                           val (ssHeader, ssBody) = ss
                                           if (ssHeader != null) {
-                                            val ssKey = "$header/$subHeader/$ssHeader"
+                                            val ssKey = notesHeaderPath(header, subHeader, ssHeader)
                                             key(ssKey) {
-                                              val ssExpanded = ssKey in innerExpandedHeaders
+                                              val ssExpanded = ssKey in noteState.expandedPaths
                                               Card(
                                                 modifier = Modifier.fillMaxWidth(),
                                                 shape = RoundedCornerShape(6.dp),
@@ -5573,7 +5765,8 @@ private fun GenericNotesScreen(
                                                 Column(Modifier.padding(8.dp)) {
                                                   Row(
                                                     Modifier.fillMaxWidth().clickable {
-                                                      innerExpandedHeaders = if (ssExpanded) innerExpandedHeaders - ssKey else innerExpandedHeaders + ssKey
+                                                      val next = if (ssExpanded) noteState.expandedPaths - ssKey else noteState.expandedPaths + ssKey
+                                                      updateNoteState(noteState.copy(expandedPaths = next))
                                                     },
                                                     verticalAlignment = Alignment.CenterVertically
                                                   ) {

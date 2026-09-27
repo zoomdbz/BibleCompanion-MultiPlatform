@@ -75,11 +75,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O banquete de Assuero"
+          "text": "O banquete do rei"
         },
         {
           "beforeVerse": 10,
-          "text": "Vasti, a rainha, recusa assistir ao banquete"
+          "text": "A rainha Vasti é deposta"
         }
       ]
     },
@@ -157,11 +157,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ester feita rainha"
+          "text": "Ester se torna rainha"
         },
         {
           "beforeVerse": 21,
-          "text": "Mordecai descobre uma conspiração"
+          "text": "A lealdade de Mardoqueu ao rei"
         }
       ]
     },
@@ -231,15 +231,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Mordecai odiado por Hamã"
-        },
-        {
-          "beforeVerse": 7,
-          "text": "Hamã pretende matar todos os judeus"
-        },
-        {
-          "beforeVerse": 12,
-          "text": "O rei decreta a morte dos judeus"
+          "text": "A conspiração de Hamã contra os judeus"
         }
       ]
     },
@@ -306,7 +298,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ester promete interceder pelo seu povo"
+          "text": "Mardoqueu pede ajuda a Ester"
         }
       ]
     },
@@ -370,7 +362,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ester convida ao rei e Hamã para um banquete"
+          "text": "O pedido de Ester ao rei"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "O plano de Hamã para matar Mardoqueu"
         }
       ]
     },
@@ -434,7 +430,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Hamã forçado a honrar a Mordecai"
+          "text": "O rei honra Mardoqueu"
         }
       ]
     },
@@ -494,7 +490,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ester denuncia a Hamã, que é enforcado"
+          "text": "O rei manda executar Hamã"
         }
       ]
     },
@@ -561,7 +557,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os judeus são autorizados a resistir"
+          "text": "Um decreto em favor dos judeus"
         }
       ]
     },
@@ -643,10 +639,10 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os judeus matam aos seus inimigos"
+          "text": "A vitória dos judeus"
         },
         {
-          "beforeVerse": 16,
+          "beforeVerse": 20,
           "text": "A Festa de Purim"
         }
       ]
@@ -695,7 +691,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O renome de Mordecai"
+          "text": "A grandeza de Xerxes e de Mardoqueu"
         }
       ]
     }

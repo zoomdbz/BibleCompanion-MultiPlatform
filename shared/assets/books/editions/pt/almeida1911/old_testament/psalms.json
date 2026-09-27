@@ -42,7 +42,8 @@
           "verse": 6,
           "text": "Porque o Senhor conhece o caminho dos justos; porém o caminho dos impios perecerá."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 2,
@@ -109,7 +110,8 @@
           "verse": 12,
           "text": "Beijae ao Filho, para que se não ire, e pereçaes no caminho, quando em breve se accender a sua ira: bemaventurados todos aquelles que n'elle confiam."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 3,
@@ -155,6 +157,16 @@
           "chapter": 3,
           "verse": 8,
           "text": "A salvação vem do Senhor; sobre o teu povo seja a tua benção. (Selah)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Interlúdio\n3.2\nEm hebraico,\nSelá\n. O significado da palavra é incerto, embora se trate, provavelmente, de um termo musical ou literário. É traduzido como\nInterlúdio\nao longo de todo o livro de Salmos."
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -202,6 +214,16 @@
           "chapter": 4,
           "verse": 8,
           "text": "Em paz tambem me deitarei e dormirei, porque só tu, Senhor, me fazes habitar em segurança."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -270,7 +292,8 @@
           "verse": 12,
           "text": "Pois tu, Senhor, abençoarás ao justo; coroal-o-has com a tua benevolencia, como de um escudo."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 6,
@@ -327,7 +350,8 @@
           "verse": 10,
           "text": "Envergonhem-se e perturbem-se todos os meus inimigos; tornem atraz e envergonhem-se n'um momento."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 7,
@@ -419,6 +443,12 @@
           "verse": 17,
           "text": "Eu louvarei ao Senhor segundo a sua justiça, e cantarei louvores ao nome do Senhor altissimo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -471,7 +501,8 @@
           "verse": 9,
           "text": "Ó Senhor, nosso Senhor, quão admiravel é o teu nome sobre toda a terra!"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 9,
@@ -578,6 +609,12 @@
           "verse": 20,
           "text": "Põe-os em medo, Senhor, para que saibam as nações que não são mais do que homens (Selah)."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 17,
+          "text": "Interlúdio silencioso\n9.16\nEm hebraico,\nHiggaion Selá\n. O significado dessa expressão é incerto."
+        }
       ]
     },
     {
@@ -675,7 +712,8 @@
           "verse": 18,
           "text": "Para fazer justiça ao orphão e ao opprimido, afim de que o homem da terra não prosiga mais em usar da violencia."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 11,
@@ -717,7 +755,8 @@
           "verse": 7,
           "text": "Porque o Senhor é justo, e ama a justiça; o seu rosto olha para os rectos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 12,
@@ -764,7 +803,8 @@
           "verse": 8,
           "text": "Os impios andam cercando, emquanto os mais vis dos filhos dos homens são exaltados."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 13,
@@ -801,7 +841,8 @@
           "verse": 6,
           "text": "Cantarei ao Senhor, porquanto me tem feito muito bem."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 14,
@@ -843,7 +884,8 @@
           "verse": 7,
           "text": "Oh, se de Sião tivera já vindo a redempção d'Israel! quando o Senhor fizer voltar os captivos do seu povo, se regozijará Jacob e se alegrará Israel."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 15,
@@ -875,7 +917,8 @@
           "verse": 5,
           "text": "Aquelle que não dá o seu dinheiro á usura. nem recebe peitas contra o innocente: quem faz isto nunca será abalado."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 16,
@@ -937,7 +980,8 @@
           "verse": 11,
           "text": "Far-me-has ver a vereda da vida; na tua presença ha fartura de alegrias; á tua mão direita ha delicias perpetuamente."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 17,
@@ -1019,7 +1063,8 @@
           "verse": 15,
           "text": "Emquanto a mim, contemplarei a tua face na justiça; satisfazer-me-hei da tua similhança quando acordar."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 18,
@@ -1276,7 +1321,8 @@
           "verse": 50,
           "text": "Pois engrandece a salvação do teu rei, e usa de benignidade com o seu ungido, com David, e com a sua semente para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 19,
@@ -1353,7 +1399,8 @@
           "verse": 14,
           "text": "Sejam agradaveis as palavras da minha bocca e a meditação do meu coração perante a tua face, Senhor, Rocha minha e Libertador meu"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 20,
@@ -1404,6 +1451,12 @@
           "chapter": 20,
           "verse": 9,
           "text": "Salva-nos, Senhor, oiça-nos o Rei quando clamarmos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -1476,6 +1529,12 @@
           "chapter": 21,
           "verse": 13,
           "text": "Exalta-te, Senhor, na tua força; então cantaremos e louvaremos o teu poder."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -1639,7 +1698,8 @@
           "verse": 31,
           "text": "Chegarão e annunciarão a sua justiça ao povo que nascer, porquanto elle o fez."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 23,
@@ -1676,7 +1736,8 @@
           "verse": 6,
           "text": "Certamente que a bondade e a misericordia me seguirão todos os dias da minha vida: e habitarei na casa do Senhor por longos dias."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 24,
@@ -1732,6 +1793,12 @@
           "chapter": 24,
           "verse": 10,
           "text": "Quem é este Rei da Gloria? O Senhor dos Exercitos, elle é o Rei da Gloria (Selah)."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -1850,7 +1917,8 @@
           "verse": 22,
           "text": "Redime, ó Deus, a Israel de todas as suas angustias."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 26,
@@ -1917,7 +1985,8 @@
           "verse": 12,
           "text": "O meu pé está posto em caminho plano; nas congregações louvarei ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 27,
@@ -1994,7 +2063,8 @@
           "verse": 14,
           "text": "Espera no Senhor, anima-te, e elle fortalecerá o teu coração; espera pois no Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 28,
@@ -2046,7 +2116,8 @@
           "verse": 9,
           "text": "Salva o teu povo, e abençoa a tua herança; e apascenta-os e exalta-os para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 29,
@@ -2108,7 +2179,8 @@
           "verse": 11,
           "text": "O Senhor dará força ao seu povo; o Senhor abençoará o seu povo com paz"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 30,
@@ -2175,7 +2247,8 @@
           "verse": 12,
           "text": "Para que a minha gloria a ti cante louvores, e não se cale: Senhor, Deus meu, eu te louvarei para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 31,
@@ -2302,7 +2375,8 @@
           "verse": 24,
           "text": "Esforçae-vos, e elle fortalecerá o vosso coração, vós todos que esperaes no Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 32,
@@ -2363,6 +2437,20 @@
           "chapter": 32,
           "verse": 11,
           "text": "Alegrae-vos no Senhor, e regozijae-vos, vós os justos; e cantae alegremente, todos vós que sois rectos de coração."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -2481,7 +2569,8 @@
           "verse": 22,
           "text": "Seja a tua misericordia, Senhor, sobre nós, como em ti esperamos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 34,
@@ -2598,7 +2687,8 @@
           "verse": 22,
           "text": "O Senhor resgata a alma dos seus servos, e nenhum dos que n'elle confiam será desolado."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 35,
@@ -2745,7 +2835,8 @@
           "verse": 28,
           "text": "E assim a minha lingua fallará da tua justiça e do teu louvor todo o dia."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 36,
@@ -2812,7 +2903,8 @@
           "verse": 12,
           "text": "Ali caem os que obram a iniquidade; cairão, e não se poderão levantar."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 37,
@@ -3019,7 +3111,8 @@
           "verse": 40,
           "text": "E o Senhor os ajudará e os livrará; elle os livrará dos impios e os salvará, porquanto confiam n'elle."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 38,
@@ -3136,7 +3229,8 @@
           "verse": 22,
           "text": "Apressa-te em meu auxilio, Senhor, minha salvação."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 39,
@@ -3207,6 +3301,16 @@
           "chapter": 39,
           "verse": 13,
           "text": "Poupa-me, até que tome alento, antes que me vá, e não seja mais."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -3300,7 +3404,8 @@
           "verse": 17,
           "text": "Mas eu sou pobre e necessitado; comtudo o Senhor cuida de mim: tu és o meu auxilio e o meu libertador; não te detenhas, ó meu Deus."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 41,
@@ -3372,7 +3477,8 @@
           "verse": 13,
           "text": "Bemdito seja o Senhor Deus d'Israel, de seculo em seculo: Amen e Amen."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 42,
@@ -3434,7 +3540,8 @@
           "verse": 11,
           "text": "Porque estás abatida, ó alma minha, e porque te perturbas dentro de mim? espera em Deus, pois ainda o louvarei, o qual é a salvação da minha face, e o meu Deus"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 43,
@@ -3466,7 +3573,8 @@
           "verse": 5,
           "text": "Porque estás abatida, ó alma minha? e porque te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, o qual é a salvação da minha face e Deus meu."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 44,
@@ -3603,6 +3711,12 @@
           "verse": 26,
           "text": "Levanta-te em nosso auxilio, e resgata-nos por amor das tuas misericordias."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -3695,7 +3809,8 @@
           "verse": 17,
           "text": "Farei lembrado o teu nome de geração em geração; pelo que os povos te louvarão eternamente."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 46,
@@ -3757,6 +3872,16 @@
           "verse": 11,
           "text": "O Senhor dos Exercitos está comnosco: o Deus de Jacob é o nosso refugio (Selah)."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -3808,6 +3933,12 @@
           "chapter": 47,
           "verse": 9,
           "text": "Os principes do povo se ajuntam, o povo do Deus de Abrahão; porque os escudos da terra são de Deus: elle está muito elevado!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -3885,6 +4016,12 @@
           "chapter": 48,
           "verse": 14,
           "text": "Porque este Deus é o nosso Deus para sempre, elle será nosso guia até á morte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -3992,6 +4129,16 @@
           "chapter": 49,
           "verse": 20,
           "text": "O homem que está na honra, e não tem entendimento, é similhante ás bestas que perecem."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 14,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -4115,6 +4262,12 @@
           "verse": 23,
           "text": "Aquelle que offerece o sacrificio de louvor me glorificará; e áquelle que bem ordena o seu caminho eu mostrarei a salvação de Deus."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -4217,7 +4370,8 @@
           "verse": 19,
           "text": "Então te agradarás dos sacrificios da justiça, dos holocaustos e das offertas queimadas; então se offerecerão novilhos sobre o teu altar."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 52,
@@ -4269,6 +4423,16 @@
           "verse": 9,
           "text": "Para sempre te louvarei, porque tu o fizeste, e esperarei no teu nome, porque é bom diante de teus sanctos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -4306,7 +4470,8 @@
           "verse": 6,
           "text": "Oh! se já de Sião viera a salvação de Israel! Quando Deus fizer voltar os captivos do seu povo, então se regozijará Jacob e se alegrará Israel"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 54,
@@ -4347,6 +4512,12 @@
           "chapter": 54,
           "verse": 7,
           "text": "Pois me tem livrado de toda a angustia; e os meus olhos viram o meu desejo sobre os meus inimigos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -4470,6 +4641,16 @@
           "verse": 23,
           "text": "Mas tu, ó Deus, os farás descer ao poço da perdição; homens de sangue e de fraude não viverão metade dos seus dias; mas eu em ti confiarei."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -4542,7 +4723,8 @@
           "verse": 13,
           "text": "Pois tu livraste a minha alma da morte; não livrarás os meus pés da queda, para andar diante de Deus na luz dos viventes?"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 57,
@@ -4603,6 +4785,16 @@
           "chapter": 57,
           "verse": 11,
           "text": "Sê exaltado, ó Deus, sobre os céus; e seja a tua gloria sobre toda a terra."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -4666,7 +4858,8 @@
           "verse": 11,
           "text": "Então dirá o homem: Devéras ha uma recompensa para o justo; devéras ha um Deus que julga na terra."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 59,
@@ -4758,6 +4951,16 @@
           "verse": 17,
           "text": "A ti, ó fortaleza minha, cantarei psalmos; porque Deus é a minha defeza e o Deus da minha misericordia."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -4825,6 +5028,12 @@
           "verse": 12,
           "text": "Em Deus faremos proezas; porque elle é que pisará os nossos inimigos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -4871,6 +5080,12 @@
           "chapter": 61,
           "verse": 8,
           "text": "Assim cantarei psalmos ao teu nome perpetuamente, para pagar os meus votos de dia em dia."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -4939,6 +5154,16 @@
           "verse": 12,
           "text": "A ti tambem, Senhor, pertence a misericordia; pois retribuirás a cada um segundo a sua obra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -5001,7 +5226,8 @@
           "verse": 11,
           "text": "Mas o rei se regozijará em Deus; qualquer que por elle jurar se gloriará; porque se taparão as boccas dos que fallam a mentira."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 64,
@@ -5058,7 +5284,8 @@
           "verse": 10,
           "text": "O justo se alegrará no Senhor, e confiará n'elle, e todos os rectos de coração se gloriarão."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 65,
@@ -5130,7 +5357,8 @@
           "verse": 13,
           "text": "Os campos se vestem de rebanhos, e os valles se cobrem de trigo: elles se regozijam e cantam."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 66,
@@ -5237,6 +5465,20 @@
           "verse": 20,
           "text": "Bemdito seja Deus, que não rejeitou a minha oração, nem desviou de mim a sua misericordia."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -5278,6 +5520,16 @@
           "chapter": 67,
           "verse": 7,
           "text": "Deus nos abençoará, e todas as extremidades da terra o temerão."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -5460,6 +5712,20 @@
           "chapter": 68,
           "verse": 35,
           "text": "Ó Deus, tu és tremendo desde os teus sanctuarios: o Deus d'Israel é o que dá fortaleza e poder ao seu povo. Bemdito seja Deus!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -5648,7 +5914,8 @@
           "verse": 36,
           "text": "E herdal-a-ha a semente de seus servos, e os que amam o seu nome habitarão n'ella."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 70,
@@ -5680,7 +5947,8 @@
           "verse": 5,
           "text": "Eu porém estou afflicto e necessitado: apressa-te a mim, ó Deus; tu és o meu auxilio e o meu libertador: Senhor, não te detenhas."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 71,
@@ -5807,7 +6075,8 @@
           "verse": 24,
           "text": "A minha lingua fallará da tua justiça todo o dia; pois estão confundidos e envergonhados aquelles que procuram o meu mal."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 72,
@@ -5914,7 +6183,8 @@
           "verse": 20,
           "text": "Aqui acabam as orações de David, filho de Jessé."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 73,
@@ -6061,7 +6331,8 @@
           "verse": 28,
           "text": "Mas para mim, bom é approximar-me de Deus; puz a minha confiança no Senhor Deus, para annunciar todas as tuas obras."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 74,
@@ -6183,7 +6454,8 @@
           "verse": 23,
           "text": "Não te esqueças dos gritos dos teus inimigos: o tumulto d'aquelles que se levantam contra ti augmenta continuamente."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 75,
@@ -6239,6 +6511,12 @@
           "chapter": 75,
           "verse": 10,
           "text": "E quebrarei todas as forças dos impios, mas as forças dos justos serão exaltadas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -6306,6 +6584,16 @@
           "chapter": 76,
           "verse": 12,
           "text": "Elle ceifará o espirito dos principes: é tremendo para com os reis da terra."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -6413,6 +6701,20 @@
           "chapter": 77,
           "verse": 20,
           "text": "Guiaste o teu povo, como a um rebanho, pela mão de Moysés e d'Aarão."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -6781,7 +7083,8 @@
           "verse": 72,
           "text": "Assim os apascentou, segundo a integridade do seu coração, e os guiou pela industria de suas mãos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 79,
@@ -6853,7 +7156,8 @@
           "verse": 13,
           "text": "Assim nós, teu povo e ovelhas de teu pasto, te louvaremos eternamente: de geração em geração cantaremos os teus louvores."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 80,
@@ -6955,7 +7259,8 @@
           "verse": 19,
           "text": "Faze-nos voltar, Senhor Deus dos Exercitos: faze resplandecer o teu rosto; e seremos salvos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 81,
@@ -7042,6 +7347,12 @@
           "verse": 16,
           "text": "E o sustentaria com o trigo mais fino, e te fartaria com o mel saido da pedra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -7088,6 +7399,12 @@
           "chapter": 82,
           "verse": 8,
           "text": "Levanta-te, ó Deus, julga a terra, pois tu possues todas as nações."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -7186,6 +7503,12 @@
           "verse": 18,
           "text": "Para que saibam que tu, a quem só pertence o nome de Jehovah, és o Altissimo sobre toda a terra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -7252,6 +7575,16 @@
           "chapter": 84,
           "verse": 12,
           "text": "Senhor dos Exercitos, bemaventurado o homem que em ti põe a sua confiança."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -7324,6 +7657,12 @@
           "chapter": 85,
           "verse": 13,
           "text": "A justiça irá adiante d'elle, e a porá no caminho das suas pisadas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -7417,7 +7756,8 @@
           "verse": 17,
           "text": "Mostra-me um signal para bem, para que o vejam aquelles que me aborrecem, e se confundam; porque tu, Senhor, me ajudaste e me consolaste."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 87,
@@ -7458,6 +7798,16 @@
           "chapter": 87,
           "verse": 7,
           "text": "Assim como os cantores e tocadores de instrumentos estarão lá, todas as minhas fontes estão dentro de ti"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -7555,6 +7905,16 @@
           "chapter": 88,
           "verse": 18,
           "text": "Desviaste para longe de mim amigos e companheiros, e os meus conhecidos estão em trevas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -7823,6 +8183,24 @@
           "verse": 52,
           "text": "Bemdito seja o Senhor para sempre. Amen, e Amen."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -7915,7 +8293,8 @@
           "verse": 17,
           "text": "E seja sobre nós a formosura do Senhor, nosso Deus: e confirma sobre nós a obra das nossas mãos; sim, confirma a obra das nossas mãos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 91,
@@ -8002,7 +8381,8 @@
           "verse": 16,
           "text": "Fartal-o-hei com longura de dias, e lhe mostrarei a minha salvação."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 92,
@@ -8084,7 +8464,8 @@
           "verse": 15,
           "text": "Para annunciar que o Senhor é recto: elle é a minha rocha, e n'elle não ha injustiça."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 93,
@@ -8116,7 +8497,8 @@
           "verse": 5,
           "text": "Mui fieis são os teus testemunhos: a sanctidade convem á tua casa, Senhor, para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 94,
@@ -8238,7 +8620,8 @@
           "verse": 23,
           "text": "E trará sobre elles a sua propria iniquidade; e os destruirá na sua propria malicia: o Senhor nosso Deus os destruirá."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 95,
@@ -8300,7 +8683,8 @@
           "verse": 11,
           "text": "A quem jurei na minha ira que não entrarão no meu repouso."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 96,
@@ -8372,7 +8756,8 @@
           "verse": 13,
           "text": "Ante a face do Senhor, porque vem, porque vem a julgar a terra: julgará o mundo com justiça e os povos com a sua verdade."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 97,
@@ -8439,7 +8824,8 @@
           "verse": 12,
           "text": "Alegrae-vos, ó justos, no Senhor, e dae louvores á memoria da sua sanctidade."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 98,
@@ -8491,7 +8877,8 @@
           "verse": 9,
           "text": "Perante a face do Senhor, porque vem a julgar a terra: com justiça julgará o mundo, e o povo com equidade."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 99,
@@ -8543,7 +8930,8 @@
           "verse": 9,
           "text": "Exaltae ao Senhor nosso Deus e adorae-o no seu monte sancto, pois o Senhor nosso Deus é sancto."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 100,
@@ -8575,7 +8963,8 @@
           "verse": 5,
           "text": "Porque o Senhor é bom, e eterna a sua misericordia; e a sua verdade dura de geração em geração."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 101,
@@ -8622,7 +9011,8 @@
           "verse": 8,
           "text": "Pela manhã destruirei todos os impios da terra, para desarreigar da cidade do Senhor todos os que obram a iniquidade."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 102,
@@ -8769,7 +9159,8 @@
           "verse": 28,
           "text": "Os filhos dos teus servos continuarão, e a sua semente ficará firmada perante ti."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 103,
@@ -8886,7 +9277,8 @@
           "verse": 22,
           "text": "Bemdizei ao Senhor, todas as suas obras, em todos os logares do seu dominio; bemdize, ó alma minha, ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 104,
@@ -9068,7 +9460,8 @@
           "verse": 35,
           "text": "Desçam da terra os peccadores, e os impios não sejam mais. Bemdize, ó alma minha, ao Senhor. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 105,
@@ -9300,7 +9693,8 @@
           "verse": 45,
           "text": "Para que guardassem os seus preceitos, e observassem as suas leis. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 106,
@@ -9547,7 +9941,8 @@
           "verse": 48,
           "text": "Bemdito seja o Senhor, Deus d'Israel, de eternidade em eternidade, e todo o povo diga: Amen. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 107,
@@ -9769,7 +10164,8 @@
           "verse": 43,
           "text": "Quem é sabio observará estas coisas, e elles comprehenderão as benignidades do Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 108,
@@ -9841,7 +10237,8 @@
           "verse": 13,
           "text": "Em Deus faremos proezas, pois elle calcará aos pés os nossos inimigos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 109,
@@ -10003,7 +10400,8 @@
           "verse": 31,
           "text": "Pois se porá á mão direita do pobre, para o livrar dos que condemnam a sua alma."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 110,
@@ -10045,7 +10443,8 @@
           "verse": 7,
           "text": "Beberá do ribeiro no caminho, pelo que exaltará a cabeça."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 111,
@@ -10102,7 +10501,8 @@
           "verse": 10,
           "text": "O temor do Senhor é o principio da sabedoria: bom entendimento teem todos os que cumprem os seus mandamentos: o seu louvor permanece para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 112,
@@ -10159,7 +10559,8 @@
           "verse": 10,
           "text": "O impio o verá, e se entristecerá: rangerá com os dentes, e se consumirá o desejo dos impios perecerá."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 113,
@@ -10211,7 +10612,8 @@
           "verse": 9,
           "text": "Faz com que a mulher esteril habite na casa, e seja alegre mãe de filhos. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 114,
@@ -10258,7 +10660,8 @@
           "verse": 8,
           "text": "O qual converteu o rochedo em lago de aguas, e o seixo em fonte de agua."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 115,
@@ -10355,7 +10758,8 @@
           "verse": 18,
           "text": "Mas nós bemdiremos ao Senhor, desde agora e para sempre. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 116,
@@ -10457,7 +10861,8 @@
           "verse": 19,
           "text": "Nos atrios da casa do Senhor, no meio de ti, ó Jerusalem. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 117,
@@ -10474,7 +10879,8 @@
           "verse": 2,
           "text": "Porque a sua benignidade é grande para comnosco, e a verdade do Senhor dura para sempre. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 118,
@@ -10626,7 +11032,8 @@
           "verse": 29,
           "text": "Louvae ao Senhor, porque elle é bom; porque a sua benignidade dura para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 119,
@@ -11513,6 +11920,96 @@
           "verse": 176,
           "text": "Desgarrei-me como a ovelha perdida; busca o teu servo, pois não me esqueci dos teus mandamentos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "119\nEm hebraico este salmo é um poema acróstico; tem 22 estrofes, uma para cada letra sucessiva do alfabeto hebraico. Cada um dos 8 versículos dentro de cada estrofe começa com a letra hebraica indicada em seu subtítulo.\nÁlef"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Bêt"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Guímel"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Dálet"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "He"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Vav"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "Zain"
+        },
+        {
+          "beforeVerse": 57,
+          "text": "Hêt"
+        },
+        {
+          "beforeVerse": 65,
+          "text": "Tét"
+        },
+        {
+          "beforeVerse": 73,
+          "text": "Iode"
+        },
+        {
+          "beforeVerse": 81,
+          "text": "Kaf"
+        },
+        {
+          "beforeVerse": 89,
+          "text": "Lâmed"
+        },
+        {
+          "beforeVerse": 97,
+          "text": "Mem"
+        },
+        {
+          "beforeVerse": 105,
+          "text": "Nun"
+        },
+        {
+          "beforeVerse": 113,
+          "text": "Sâmeq"
+        },
+        {
+          "beforeVerse": 121,
+          "text": "Áin"
+        },
+        {
+          "beforeVerse": 129,
+          "text": "Pê"
+        },
+        {
+          "beforeVerse": 137,
+          "text": "Tsade"
+        },
+        {
+          "beforeVerse": 145,
+          "text": "Qof"
+        },
+        {
+          "beforeVerse": 153,
+          "text": "Rêsh"
+        },
+        {
+          "beforeVerse": 161,
+          "text": "Shin"
+        },
+        {
+          "beforeVerse": 169,
+          "text": "Tau"
+        }
       ]
     },
     {
@@ -11555,7 +12052,8 @@
           "verse": 7,
           "text": "Pacifico sou, porém quando eu fallo já elles procuram guerra."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 121,
@@ -11602,7 +12100,8 @@
           "verse": 8,
           "text": "O Senhor guardará a tua entrada e a tua saida, desde agora e para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 122,
@@ -11654,7 +12153,8 @@
           "verse": 9,
           "text": "Por causa da casa do Senhor, nosso Deus, buscarei o teu bem."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 123,
@@ -11681,7 +12181,8 @@
           "verse": 4,
           "text": "A nossa alma está extremamente cheia da zombaria d'aquelles que estão á sua vontade e com o desprezo dos soberbos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 124,
@@ -11728,7 +12229,8 @@
           "verse": 8,
           "text": "O nosso soccorro está no nome do Senhor, que fez o céu e a terra."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 125,
@@ -11760,7 +12262,8 @@
           "verse": 5,
           "text": "Emquanto áquelles que se inquietam para os seus caminhos tortuosos, leval-os-ha o Senhor com os que obram a maldade: paz haverá sobre Israel."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 126,
@@ -11797,7 +12300,8 @@
           "verse": 6,
           "text": "Aquelle que leva a preciosa semente, andando e chorando, voltará sem duvida com alegria, trazendo comsigo os seus molhos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 127,
@@ -11829,7 +12333,8 @@
           "verse": 5,
           "text": "Bemaventurado o homem que enche d'elles a sua aljava: não serão confundidos, mas fallarão com os seus inimigos á porta."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 128,
@@ -11866,7 +12371,8 @@
           "verse": 6,
           "text": "E verás os filhos de teus filhos, e a paz sobre Israel."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 129,
@@ -11913,7 +12419,8 @@
           "verse": 8,
           "text": "Nem tão pouco os que passam digam: A benção do Senhor seja sobre vós: nós vos abençoamos em nome do Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 130,
@@ -11960,7 +12467,8 @@
           "verse": 8,
           "text": "E elle remirá a Israel de todas as suas iniquidades."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 131,
@@ -11982,7 +12490,8 @@
           "verse": 3,
           "text": "Espere Israel no Senhor, desde agora e para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 132,
@@ -12079,7 +12588,8 @@
           "verse": 18,
           "text": "Vestirei os seus inimigos de confusão; mas sobre elle florescerá a sua corôa."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 133,
@@ -12101,7 +12611,8 @@
           "verse": 3,
           "text": "Como o orvalho de Hermon e como o que desce sobre os montes de Sião, porque ali o Senhor ordena a benção e vida para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 134,
@@ -12123,7 +12634,8 @@
           "verse": 3,
           "text": "O Senhor, que fez o céu e a terra, te abençõe desde Sião."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 135,
@@ -12235,7 +12747,8 @@
           "verse": 21,
           "text": "Bemdito seja o Senhor desde Sião, que habita em Jerusalem. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 136,
@@ -12372,7 +12885,8 @@
           "verse": 26,
           "text": "Louvae ao Deus dos céus; porque a sua benignidade dura para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 137,
@@ -12424,7 +12938,8 @@
           "verse": 9,
           "text": "Feliz aquelle que pegar em teus filhos e der com elles pelas pedras."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 138,
@@ -12471,7 +12986,8 @@
           "verse": 8,
           "text": "O Senhor aprefeiçoará o que me toca; a tua benignidade, ó Senhor, dura para sempre; não desampares as obras das tuas mãos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 139,
@@ -12598,7 +13114,8 @@
           "verse": 24,
           "text": "E vê se ha em mim algum caminho mau, e guia-me pelo caminho eterno."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 140,
@@ -12670,6 +13187,20 @@
           "verse": 13,
           "text": "Assim os justos louvarão o teu nome: os rectos habitarão na tua presença."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Interlúdio"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Interlúdio"
+        }
       ]
     },
     {
@@ -12727,7 +13258,8 @@
           "verse": 10,
           "text": "Caiam os impios nas suas proprias redes, até que eu tenha escapado inteiramente."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 142,
@@ -12769,7 +13301,8 @@
           "verse": 7,
           "text": "Tira a minha alma da prisão, para que louve o teu nome; os justos me rodearão, pois me fizeste bem."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 143,
@@ -12835,6 +13368,12 @@
           "chapter": 143,
           "verse": 12,
           "text": "E por tua misericordia desarreiga os meus inimigos, e destroe a todos os que angustiam a minha alma: pois sou teu servo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Interlúdio"
         }
       ]
     },
@@ -12918,7 +13457,8 @@
           "verse": 15,
           "text": "Bemaventurado o povo, ao qual assim acontece: bemaventurado é o povo cujo Deus é o Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 145,
@@ -13030,7 +13570,8 @@
           "verse": 21,
           "text": "A minha bocca fallará o louvor do Senhor, e toda a carne louvará o seu sancto nome pelo seculo do seculo e para sempre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 146,
@@ -13087,7 +13628,8 @@
           "verse": 10,
           "text": "O Senhor reinará eternamente; o teu Deus, ó Sião, é de geração em geração. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 147,
@@ -13194,7 +13736,8 @@
           "verse": 20,
           "text": "Não fez assim a nenhuma outra nação; e, emquanto aos seus juizos, não os conhecem. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 148,
@@ -13271,7 +13814,8 @@
           "verse": 14,
           "text": "Elle tambem exalta o poder do seu povo, o louvor de todos os seus sanctos, dos filhos de Israel, um povo que lhe é chegado. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 149,
@@ -13323,7 +13867,8 @@
           "verse": 9,
           "text": "Para fazerem n'elles o juizo escripto; esta será a gloria de todos os sanctos. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 150,
@@ -13360,7 +13905,8 @@
           "verse": 6,
           "text": "Tudo quanto tem folego louve ao Senhor. Louvae ao Senhor."
         }
-      ]
+      ],
+      "headings": []
     }
   ]
 }

@@ -4,25 +4,69 @@ Cette chronologie adopte comme cadre principal la **lecture futuriste et prémil
 
 L'Apocalypse contient des visions, des intermèdes, des retours en arrière et des scènes explicatives ; il ne faut donc pas traiter chaque chapitre comme si Jean donnait une chronologie mesurée au chronomètre moderne. Apocalypse 12 en est un exemple évident, car le chapitre remonte à la naissance et à l'ascension du Messie avant de décrire la persécution de la fin des temps.
 
+L'Apocalypse énonce ses visions, avertissements et jugements ainsi que la victoire du Christ, la résurrection, le jugement et la nouvelle création. Elle ne livre pas un schéma général unique accepté par tous. Dans ces notes, **explicite** signifie qu'un passage énonce l'événement ou le contenu étudié. Une chronologie qui relie des visions distinctes, leur attribue des dates ou décide si elles se suivent ou se chevauchent est une **synthèse**, même quand elle lit le texte naturellement.
+
+«Apocalyptique» décrit la forme littéraire prophétique de l'Apocalypse, faite de visions et de symboles. Le terme ne signifie pas littérature apocryphe et ne nie pas la réalité de ses promesses.
+
 ### Indications de certitude
 
 - **Explicite :** le texte énonce directement l'événement ou l'ordre.
 - **Déduction séquentielle :** l'ordre découle naturellement de la succession des visions de Jean, mais le texte ne donne pas de date calendaire.
 - **Interprétatif :** les chrétiens ne s'accordent pas sur la place ou le symbolisme.
 
-## Toute la séquence en un coup d'œil
+## Approches d'interprétation
+
+Lis l'Apocalypse avec les Écritures auxquelles elle puise. Daniel voit des bêtes, un tribunal céleste et le Fils de l'homme recevant la domination; Jean développe ces thèmes dans ses visions de la Bête et de la victoire du Christ (Daniel 7:1-14; Apocalypse 13:1-7; Apocalypse 19:11-21). Ézéchiel voit la demeure de Dieu et un fleuve vivifiant; l'Apocalypse s'achève avec la demeure de Dieu parmi son peuple et le fleuve de la vie (Ézéchiel 47:1-12; Apocalypse 21:3; Apocalypse 22:1-5). Ces liens expliquent les images avant qu'on attribue les événements à un schéma.
+
+Trois questions distinctes façonnent les chronologies ci-dessous. L'approche d'interprétation demande quelle période une vision décrit. Le millénium demande comment les mille ans se rapportent au retour du Christ. La chronologie de l'enlèvement demande quand les croyants ressuscitent et rencontrent le Seigneur. Une réponse à l'une ne règle pas automatiquement les deux autres. Toute lecture doit rendre compte du retour réel du Christ, de la résurrection, du jugement et de la création nouvelle (Actes 1:9-11; Jean 5:28-29; Apocalypse 20:11-21:5).
+
+### Futuriste: les visions progressent vers une crise finale
+
+Les futuristes placent une grande partie d'Apocalypse 4-22 dans les événements qui entourent le retour futur du Christ. Leur meilleur argument se trouve dans les résultats décrits par Jean: défaite de la Bête, résurrection des saints, destruction finale de Satan et création sans mort (Apocalypse 19:19-21; Apocalypse 20:4-10; Apocalypse 21:1-4). Ces promesses dépassent la situation des sept Églises.
+
+Ce cadre relie aussi la détresse finale de Daniel à l'avertissement de Jésus concernant l'abomination et la grande détresse (Daniel 12:1-3; Matthieu 24:15-31). Il lit la persécution et l'autorité limitée de la Bête avec ces passages (Apocalypse 13:5-10). Les visions reçoivent ainsi une orientation future sans perdre leur pertinence pour les premiers lecteurs. Le Christ demandait déjà à ces Églises de résister au compromis et d'endurer la persécution (Apocalypse 2:10; Apocalypse 2:20-25).
+
+**Chronologie:** Églises historiques et endurance présente -> crise finale -> victoire du Christ -> résurrection, jugement et royaume achevé de Dieu. Les futuristes prémillénaristes placent le règne de mille ans avant le jugement dernier; la séquence détaillée paraît plus loin.
+
+### Prétériste partiel: jugements proches et accomplissement futur
+
+Les prétéristes partiels partent de l'adresse de l'Apocalypse à des Églises réelles et de ses affirmations selon lesquelles le temps est proche (Apocalypse 1:1-4; Apocalypse 22:6-10). Ils relient une grande partie du langage de jugement aux conflits du premier siècle. Les avertissements de Jésus sur Jérusalem, son encerclement et «cette génération» fournissent une comparaison majeure (Luc 21:20-24; Matthieu 24:34). Certains insistent sur la chute de Jérusalem; d'autres sur Rome et sa persécution. Ces identifications exigent des arguments historiques en plus des passages.
+
+Cette approche peut lire un jugement ancien comme une démonstration de l'autorité du Christ sans l'assimiler à la résurrection corporelle finale. L'Apocalypse distingue les jugements dans l'histoire de la fin de la mort et du jugement dernier (Apocalypse 18:1-24; Apocalypse 20:11-21:4). La lecture présentée ici attend encore le retour corporel de Jésus promis par Actes 1:11; elle ne traite pas toute promesse future comme déjà accomplie.
+
+**Chronologie:** persécution et jugement au premier siècle -> mission continue de l'Évangile et règne du Christ -> retour corporel futur, résurrection et jugement final -> création nouvelle. Beaucoup unissent cette approche à l'amillénarisme ou au postmillénarisme.
+
+### Historiciste: une longue séquence à travers l'histoire de l'Église
+
+Les historicistes lisent les visions comme un récit étendu des conflits de l'Église depuis l'époque apostolique jusqu'au retour du Christ. Les royaumes successifs de Daniel fournissent le modèle: une vision prophétique peut couvrir plusieurs puissances terrestres avant la victoire finale de Dieu (Daniel 2:31-45; Daniel 7:17-27). L'Apocalypse progresse elle aussi à travers conflit, endurance et règne du Christ (Apocalypse 1:9; Apocalypse 13:10; Apocalypse 20:4).
+
+La difficulté consiste à identifier un sceau, une trompette ou une bête avec une institution ou un événement ultérieur précis. L'Apocalypse ne donne aucune liste de noms médiévaux ou modernes. Certains calculs historicistes appliquent un principe jour-année en comparant Nombres 14:34 et Ézéchiel 4:6. Dans ces passages, Dieu précise cette conversion pour un signe ou un jugement déterminé; l'appliquer ailleurs demande un argument tiré du contexte de l'autre passage.
+
+**Chronologie:** Églises apostoliques -> conflits et jugements historiques successifs -> victoire finale du Christ -> résurrection, jugement et création nouvelle. Les schémas historicistes répartissent différemment les événements intermédiaires; leur affirmation commune porte sur une longue traversée de l'histoire.
+
+### Idéaliste: le conflit récurrent sous le règne du Christ
+
+Les lectures idéalistes soulignent des modèles auxquels les croyants font face pendant toute l'ère: pouvoir coercitif, religion trompeuse, richesse corrompue, témoignage fidèle et jugement de Dieu. La situation de Jean unit déjà détresse, royaume et persévérance (Apocalypse 1:9). Les Églises connaissent souffrance et pression au compromis avant même les visions de la Bête et de Babylone (Apocalypse 2:9-10; Apocalypse 2:13-16; Apocalypse 18:3-5).
+
+Cette approche permet aux visions d'instruire les croyants ultérieurs sans faire de chaque nouveau souverain la Bête finale. Un modèle récurrent peut néanmoins atteindre un dernier sommet historique. L'Apocalypse s'achève par la destruction réelle du mal et la demeure de Dieu avec son peuple, non par un cycle interminable de victoires et de défaites (Apocalypse 20:10; Apocalypse 21:1-5).
+
+**Chronologie:** victoire du Christ et témoignage de l'Église -> persécutions, tentations et jugements répétés -> confrontation finale et retour -> création nouvelle. Les lectures idéalistes s'unissent souvent à une crise finale future et à une compréhension amillénariste des mille ans.
+
+## Prémillénarisme futuriste
+
+### Toute la séquence en un coup d'œil
 
 **Sept Églises -> salle du trône -> l'Agneau reçoit le rouleau -> sept sceaux -> sept trompettes -> Bête et Faux Prophète -> sept coupes -> chute de Babylone -> retour visible du Christ -> Bête et Faux Prophète vaincus -> Satan lié -> première résurrection et règne de 1 000 ans -> Satan libéré -> rébellion finale -> Satan jeté dans l'étang de feu -> jugement du Grand Trône Blanc -> Nouveau Ciel et Nouvelle Terre -> Nouvelle Jérusalem -> règne éternel**
 
-## Avant les jugements de la fin des temps : Apocalypse 1-5
+### Avant les jugements de la fin des temps : Apocalypse 1-5
 
-### Apocalypse 1 : Le Christ ressuscité
+#### Apocalypse 1 : Le Christ ressuscité
 
 Jean reçoit la Révélation de Jésus-Christ. Il voit le Fils de l'homme glorifié au milieu de sept chandeliers.
 
 **Passages clés :** Apocalypse 1:1-20.
 
-### Apocalypse 2-3 : Les sept Églises
+#### Apocalypse 2-3 : Les sept Églises
 
 Jésus s'adresse à sept Églises historiques d'Asie Mineure :
 
@@ -38,13 +82,13 @@ Les lettres contiennent une instruction historique réelle et des promesses rép
 
 **Passages clés :** Apocalypse 2:1-3:22.
 
-### Apocalypse 4 : La salle du trône
+#### Apocalypse 4 : La salle du trône
 
 Jean est appelé à monter dans une vision et voit le trône de Dieu, vingt-quatre anciens, quatre êtres vivants et une adoration incessante.
 
 **Remarque importante sur l'enlèvement :** Les enseignants prétribulationnistes considèrent parfois « Monte ici » en **Apocalypse 4:1** comme une image de l'enlèvement de l'Église. Le verset lui-même décrit directement **Jean** appelé à entrer dans la vision céleste. Il s'agit donc tout au plus d'une preuve typologique, et non d'une déclaration explicite sur l'enlèvement.
 
-### Apocalypse 5 : L'Agneau et le rouleau scellé
+#### Apocalypse 5 : L'Agneau et le rouleau scellé
 
 Un rouleau fermé par sept sceaux se trouve dans la main de Dieu. Seul l'Agneau, Jésus-Christ, est digne de l'ouvrir.
 
@@ -56,9 +100,9 @@ Jésus est identifié comme :
 
 **Passage clé :** Apocalypse 5:1-14.
 
-## Les sept sceaux
+### Les sept sceaux
 
-### Sceau 1 : Cheval blanc, conquête
+#### Sceau 1 : Cheval blanc, conquête
 
 **Apocalypse 6:1-2**
 
@@ -66,25 +110,25 @@ Un cavalier monté sur un cheval blanc reçoit une couronne et part en vainqueur
 
 **Interprétatif :** Les futuristes identifient couramment ce cavalier à la conquête, à une paix trompeuse ou à un dirigeant semblable à l'Antéchrist. Apocalypse 6 n'appelle pas le cavalier « Antéchrist » et ne le désigne pas comme la Bête.
 
-### Sceau 2 : Cheval rouge, guerre
+#### Sceau 2 : Cheval rouge, guerre
 
 **Apocalypse 6:3-4**
 
 La paix est retirée de la terre et les hommes s'égorgent les uns les autres.
 
-### Sceau 3 : Cheval noir, famine et pénurie
+#### Sceau 3 : Cheval noir, famine et pénurie
 
 **Apocalypse 6:5-6**
 
 La nourriture devient extrêmement chère, tandis que l'huile et le vin sont épargnés.
 
-### Sceau 4 : Cheval pâle, mort
+#### Sceau 4 : Cheval pâle, mort
 
 **Apocalypse 6:7-8**
 
 La Mort et le Hadès reçoivent autorité sur le quart de la terre pour tuer par l'épée, la famine, la peste et les bêtes sauvages.
 
-### Sceau 5 : Les martyrs réclament justice
+#### Sceau 5 : Les martyrs réclament justice
 
 **Apocalypse 6:9-11**
 
@@ -92,7 +136,7 @@ Jean voit les âmes de ceux qui ont été tués à cause de la parole de Dieu et
 
 Cela établit la présence de la persécution et du martyre avant le jugement final.
 
-### Sceau 6 : Bouleversement cosmique et terreur
+#### Sceau 6 : Bouleversement cosmique et terreur
 
 **Apocalypse 6:12-17**
 
@@ -114,9 +158,9 @@ Ils déclarent :
 
 Ce sceau est extrêmement important dans les débats sur l'enlèvement, car ses signes cosmiques ressemblent à la description de Jésus en **Matthieu 24:29-31**.
 
-## Apocalypse 7 : Intermède avant le septième sceau
+### Apocalypse 7 : Intermède avant le septième sceau
 
-### Les 144 000 marqués du sceau
+#### Les 144 000 marqués du sceau
 
 **Apocalypse 7:1-8**
 
@@ -124,7 +168,7 @@ Ce sceau est extrêmement important dans les débats sur l'enlèvement, car ses 
 
 Le texte donne deux fois ce nombre (**Apocalypse 7:4 ; 14:1**) et énumère les tribus par leur nom (**Apocalypse 7:5-8**).
 
-### La grande foule
+#### La grande foule
 
 **Apocalypse 7:9-17**
 
@@ -134,7 +178,7 @@ Elle est décrite comme composée de ceux qui sortent de la grande tribulation.
 
 **Importance pour l'enlèvement :** Les interprètes pré-colère voient souvent dans cette scène la preuve d'un rassemblement des croyants après le sixième sceau et avant les jugements des trompettes. Le chapitre ne dit pas explicitement : « Cette foule a été enlevée à ce moment précis » ; cette identification demeure donc interprétative.
 
-## Sceau 7 : Les sept trompettes commencent
+### Sceau 7 : Les sept trompettes commencent
 
 **Apocalypse 8:1-6**
 
@@ -147,15 +191,15 @@ Lorsque le septième sceau est ouvert :
 
 Selon une lecture séquentielle directe, les trompettes procèdent du septième sceau.
 
-## Les sept trompettes
+### Les sept trompettes
 
-### Trompette 1 : La terre et la végétation sont frappées
+#### Trompette 1 : La terre et la végétation sont frappées
 
 **Apocalypse 8:7**
 
 De la grêle et du feu mêlés de sang tombent sur la terre. Un tiers de la terre et des arbres brûle, ainsi que toute l'herbe verte.
 
-### Trompette 2 : La mer est frappée
+#### Trompette 2 : La mer est frappée
 
 **Apocalypse 8:8-9**
 
@@ -165,13 +209,13 @@ Quelque chose de semblable à une grande montagne embrasée est jeté dans la me
 - un tiers des créatures marines meurt
 - un tiers des navires est détruit
 
-### Trompette 3 : Absinthe
+#### Trompette 3 : Absinthe
 
 **Apocalypse 8:10-11**
 
 Une grande étoile appelée Absinthe tombe sur un tiers des fleuves et des sources. Les eaux deviennent amères et beaucoup de personnes en meurent.
 
-### Trompette 4 : Les luminaires célestes sont obscurcis
+#### Trompette 4 : Les luminaires célestes sont obscurcis
 
 **Apocalypse 8:12-13**
 
@@ -179,7 +223,7 @@ Un tiers du soleil, de la lune et des étoiles est frappé, de sorte qu'un tiers
 
 Un aigle annonce alors trois malheurs à venir correspondant aux trois dernières trompettes.
 
-### Trompette 5 : Premier malheur, l'Abîme est ouvert
+#### Trompette 5 : Premier malheur, l'Abîme est ouvert
 
 **Apocalypse 9:1-12**
 
@@ -187,7 +231,7 @@ Une étoile tombée reçoit la clé de l'Abîme. Des êtres semblables à des sa
 
 Leur roi est l'ange de l'Abîme, appelé **Abaddon** en hébreu et **Apollyon** en grec.
 
-### Trompette 6 : Deuxième malheur, armée de l'Euphrate
+#### Trompette 6 : Deuxième malheur, armée de l'Euphrate
 
 **Apocalypse 9:13-21**
 
@@ -195,7 +239,7 @@ Quatre anges liés près de l'Euphrate sont relâchés. Une immense force monté
 
 Les survivants refusent encore de se repentir de l'idolâtrie, des meurtres, de la sorcellerie, de l'immoralité sexuelle et des vols.
 
-## Apocalypse 10 : Le petit rouleau
+### Apocalypse 10 : Le petit rouleau
 
 **Apocalypse 10:1-11**
 
@@ -205,15 +249,15 @@ Jean apprend ensuite qu'il doit de nouveau prophétiser sur beaucoup de peuples,
 
 C'est un intermède, et non une autre trompette numérotée.
 
-## Apocalypse 11 : Temple, deux témoins, septième trompette
+### Apocalypse 11 : Temple, deux témoins, septième trompette
 
-### La ville sainte et les 42 mois
+#### La ville sainte et les 42 mois
 
 **Apocalypse 11:1-2**
 
 Les nations foulent aux pieds la ville sainte pendant **42 mois**.
 
-### Les deux témoins et les 1 260 jours
+#### Les deux témoins et les 1 260 jours
 
 **Apocalypse 11:3-13**
 
@@ -223,7 +267,7 @@ Ils finissent par être tués par la Bête qui monte de l'Abîme. Leurs corps re
 
 Un violent tremblement de terre suit.
 
-### Trompette 7 : Le royaume est annoncé
+#### Trompette 7 : Le royaume est annoncé
 
 **Apocalypse 11:15-19**
 
@@ -237,7 +281,7 @@ L'annonce céleste parle du règne, de la colère et du jugement de Dieu, de la 
 
 **Importance pour un enlèvement au milieu de la tribulation :** Certains interprètes identifient la « dernière trompette » de Paul en **1 Corinthiens 15:52** à la septième trompette de l'Apocalypse et placent donc l'enlèvement ici. L'Apocalypse n'identifie jamais explicitement les deux trompettes comme une seule et même trompette ; il s'agit donc d'un rapprochement interprétatif.
 
-## Apocalypse 12 : La femme, le Messie et le dragon
+### Apocalypse 12 : La femme, le Messie et le dragon
 
 Apocalypse 12 montre pourquoi le livre ne peut pas être lu comme un chronomètre rigide avançant chapitre après chapitre.
 
@@ -267,9 +311,9 @@ Le dragon attaque ceux qui :
 >
 > **Apocalypse 12:17**
 
-## Apocalypse 13 : La Bête, le Faux Prophète et la marque
+### Apocalypse 13 : La Bête, le Faux Prophète et la marque
 
-### La Bête qui monte de la mer
+#### La Bête qui monte de la mer
 
 **Apocalypse 13:1-10**
 
@@ -283,7 +327,7 @@ La Bête :
 - reçoit autorité sur les peuples, les nations, les langues et les tribus
 - reçoit l'adoration de ceux dont le nom n'est pas inscrit dans le Livre de Vie de l'Agneau
 
-### La Bête qui monte de la terre / le Faux Prophète
+#### La Bête qui monte de la terre / le Faux Prophète
 
 **Apocalypse 13:11-18**
 
@@ -291,7 +335,7 @@ Une deuxième bête accomplit des signes, encourage l'adoration de la première 
 
 Apocalypse 19 identifie plus tard cette deuxième figure qui accomplit des miracles comme le **Faux Prophète**.
 
-### La marque de la Bête
+#### La marque de la Bête
 
 La deuxième Bête exige que les hommes reçoivent une marque sur la main droite ou sur le front, afin que personne ne puisse acheter ni vendre sans elle.
 
@@ -299,7 +343,7 @@ Le nombre associé à la Bête est **666**.
 
 Voir **Apocalypse 13:16-18**.
 
-## Apocalypse 14 : 144 000, avertissements et moisson
+### Apocalypse 14 : 144 000, avertissements et moisson
 
 Apocalypse 14 contient plusieurs scènes :
 
@@ -315,7 +359,7 @@ Apocalypse 14 contient plusieurs scènes :
 
 Certaines de ces scènes semblent anticiper des résultats que les chapitres suivants décrivent plus en détail.
 
-## Apocalypse 15 : Préparation des coupes
+### Apocalypse 15 : Préparation des coupes
 
 Sept anges reçoivent les sept derniers fléaux.
 
@@ -325,39 +369,39 @@ Ceux qui ont vaincu la Bête, son image et le nombre de son nom se tiennent deva
 
 **Passage clé :** Apocalypse 15:1-8.
 
-## Les sept coupes de la colère
+### Les sept coupes de la colère
 
-### Coupe 1 : Ulcères douloureux
+#### Coupe 1 : Ulcères douloureux
 
 **Apocalypse 16:1-2**
 
 Des ulcères douloureux frappent ceux qui portent la marque de la Bête et adorent son image.
 
-### Coupe 2 : La mer devient du sang
+#### Coupe 2 : La mer devient du sang
 
 **Apocalypse 16:3**
 
 La mer devient comme le sang d'un mort, et tout être vivant dans la mer meurt.
 
-### Coupe 3 : Les fleuves et les sources deviennent du sang
+#### Coupe 3 : Les fleuves et les sources deviennent du sang
 
 **Apocalypse 16:4-7**
 
 Les eaux douces deviennent du sang. Le jugement est explicitement lié au sang versé des saints et des prophètes.
 
-### Coupe 4 : Le soleil brûle l'humanité
+#### Coupe 4 : Le soleil brûle l'humanité
 
 **Apocalypse 16:8-9**
 
 Le soleil brûle les hommes d'une chaleur intense. Ils maudissent Dieu et refusent de se repentir.
 
-### Coupe 5 : Ténèbres sur le royaume de la Bête
+#### Coupe 5 : Ténèbres sur le royaume de la Bête
 
 **Apocalypse 16:10-11**
 
 Le royaume de la Bête est plongé dans les ténèbres. Les hommes se mordent la langue de douleur et refusent toujours de se repentir.
 
-### Coupe 6 : L'Euphrate asséché, les rois rassemblés
+#### Coupe 6 : L'Euphrate asséché, les rois rassemblés
 
 **Apocalypse 16:12-16**
 
@@ -367,7 +411,7 @@ Le lieu de rassemblement s'appelle **Harmaguédon**.
 
 Jésus insère un avertissement à rester éveillé et prêt en **Apocalypse 16:15**.
 
-### Coupe 7 : « C'est fait »
+#### Coupe 7 : « C'est fait »
 
 **Apocalypse 16:17-21**
 
@@ -381,13 +425,13 @@ La septième coupe apporte :
 - la disparition des montagnes
 - d'énormes grêlons
 
-## Apocalypse 17-18 : Babylone expliquée et détruite
+### Apocalypse 17-18 : Babylone expliquée et détruite
 
-### Apocalypse 17
+#### Apocalypse 17
 
 Jean voit « Babylone la Grande » représentée comme une prostituée montée sur la Bête. Le chapitre explique les éléments symboliques de la Bête et des rois qui lui sont alliés.
 
-### Apocalypse 18
+#### Apocalypse 18
 
 Babylone tombe. Les rois, les marchands et les marins se lamentent parce que le système économique et politique dont ils tiraient profit s'effondre sous le jugement de Dieu.
 
@@ -399,19 +443,19 @@ Le peuple de Dieu reçoit cet avertissement :
 
 L'Apocalypse lui donne le nom de Babylone la Grande (**Apocalypse 17:5**), et aucun autre. Le texte l'appelle « la grande ville qui règne sur les rois de la terre » (**Apocalypse 17:18**), assise sur « sept montagnes » (**Apocalypse 17:9**) et « ivre du sang des saints » (**Apocalypse 17:6**). Le texte la présente comme une puissance corrompue, riche et persécutrice placée sous le jugement divin.
 
-## Apocalypse 19 : Festin des noces et retour visible du Christ
+### Apocalypse 19 : Festin des noces et retour visible du Christ
 
-### Le ciel se réjouit du jugement de Babylone
+#### Le ciel se réjouit du jugement de Babylone
 
 **Apocalypse 19:1-5**
 
-### Les noces de l'Agneau
+#### Les noces de l'Agneau
 
 **Apocalypse 19:6-10**
 
 Les noces de l'Agneau sont arrivées et Son épouse s'est préparée.
 
-### Jésus revient comme Roi des Rois
+#### Jésus revient comme Roi des Rois
 
 **Apocalypse 19:11-16**
 
@@ -427,7 +471,7 @@ Il vient juger et combattre avec justice, et gouverner les nations.
 
 C'est la scène la plus claire du retour visible lors de la Seconde Venue dans l'Apocalypse.
 
-### La Bête et le Faux Prophète sont vaincus
+#### La Bête et le Faux Prophète sont vaincus
 
 **Apocalypse 19:17-21**
 
@@ -437,9 +481,9 @@ La Bête et le Faux Prophète sont capturés et jetés vivants dans l'étang de 
 
 Leurs armées sont vaincues.
 
-## Apocalypse 20 : Le Royaume millénaire
+### Apocalypse 20 : Le Royaume millénaire
 
-### Satan est lié pendant 1 000 ans
+#### Satan est lié pendant 1 000 ans
 
 **Apocalypse 20:1-3**
 
@@ -451,7 +495,7 @@ La séquence narrative est :
 
 **Le Christ revient -> la Bête et le Faux Prophète sont vaincus -> Satan est lié -> règne de 1 000 ans**
 
-### La première résurrection et le règne avec le Christ
+#### La première résurrection et le règne avec le Christ
 
 **Apocalypse 20:4-6**
 
@@ -469,7 +513,7 @@ Ceux qui y participent sont prêtres de Dieu et du Christ et règnent avec Lui p
 
 **Importance pour l'enlèvement :** Les interprètes post-tribulation voient dans la place de la « première résurrection » après Apocalypse 19 une preuve solide que la résurrection et le rassemblement des croyants se produisent au retour visible du Christ. Les interprètes prétribulationnistes comprennent généralement la « première résurrection » comme une catégorie ou un programme qui se déroule par étapes, l'Église étant ressuscitée plus tôt et les martyrs de la tribulation étant ressuscités ici. L'Apocalypse elle-même ne décrit pas explicitement ces étapes proposées.
 
-## La libération de Satan après le Millénium
+### La libération de Satan après le Millénium
 
 **Apocalypse 20:7-10**
 
@@ -486,7 +530,7 @@ La Bête et le Faux Prophète s'y trouvent déjà, puisqu'ils y ont été jetés
 
 Ce détail établit que le Royaume millénaire n'est **pas** la Nouvelle Création finale. Une rébellion reste possible après les mille ans parce que Satan est libéré une dernière fois.
 
-## Jugement du Grand Trône Blanc
+### Jugement du Grand Trône Blanc
 
 **Apocalypse 20:11-15**
 
@@ -503,7 +547,7 @@ Après la défaite finale de Satan :
 
 C'est la seconde mort.
 
-## Apocalypse 21 : Nouveau Ciel, Nouvelle Terre, Nouvelle Jérusalem
+### Apocalypse 21 : Nouveau Ciel, Nouvelle Terre, Nouvelle Jérusalem
 
 Ce n'est qu'après le Millénium, la libération de Satan, la rébellion finale et le Grand Trône Blanc que Jean dit :
 
@@ -533,7 +577,7 @@ Voir **Apocalypse 21:1-8**.
 
 Le reste du chapitre décrit la gloire de la Nouvelle Jérusalem.
 
-## Apocalypse 22 : Vie éternelle et promesse finale
+### Apocalypse 22 : Vie éternelle et promesse finale
 
 L'Apocalypse se termine par :
 
@@ -550,7 +594,7 @@ Jésus dit à plusieurs reprises qu'Il vient bientôt et lance une dernière inv
 
 Voir **Apocalypse 22:7, 12, 16-17, 20**.
 
-## Le Millénium et la Nouvelle Création sont des étapes différentes
+### Le Millénium et la Nouvelle Création sont des étapes différentes
 
 Cette distinction est essentielle.
 
@@ -566,7 +610,7 @@ Cette distinction est essentielle.
 
 Selon la lecture séquentielle directe, le Royaume millénaire pleinement manifesté **n'a pas encore eu lieu**, car l'Apocalypse le place après la défaite visible de la Bête et du Faux Prophète lors du retour du Christ et avant la libération finale de Satan.
 
-## L'Apocalypse enseigne-t-elle une Tribulation de sept ans ?
+### L'Apocalypse enseigne-t-elle une Tribulation de sept ans ?
 
 L'Apocalypse mentionne à plusieurs reprises des périodes d'environ trois ans et demi :
 
@@ -583,6 +627,102 @@ Cette harmonisation peut être valable, mais le texte doit être distingué du m
 **L'Apocalypse elle-même ne contient jamais la phrase : « La Tribulation dure sept ans. »**
 
 Le cadre de sept ans vient de la combinaison de l'Apocalypse et de Daniel.
+
+## Prémillénarisme futuriste: visions qui se chevauchent
+
+Cette position conserve l'aboutissement prémillénariste d'Apocalypse 19-22, sans exiger que chaque sceau, trompette et coupe suive la série précédente sans chevauchement. Plusieurs cycles peuvent reprendre le conflit final sous des angles différents et progresser vers le même jour du Seigneur.
+
+**Chronologie courte:** ère de l'Église -> visions de jugement qui se chevauchent et s'intensifient -> retour visible du Christ -> règne millénaire -> dernière révolte de Satan -> jugement final -> nouvelle création.
+
+Le livre lui-même donne un exemple net: après l'annonce du royaume par la septième trompette, Apocalypse 12 revient à la naissance et à l'élévation du Messie (Apocalypse 11:15-18; Apocalypse 12:1-6).
+
+### Suivre les points d'aboutissement répétés
+
+Le sixième sceau atteint le bouleversement cosmique et l'annonce du grand jour de la colère (Apocalypse 6:12-17). La septième trompette annonce le royaume, la colère, le jugement et la récompense des serviteurs de Dieu (Apocalypse 11:15-19). La septième coupe déclare l'accomplissement et apporte un séisme sans égal ainsi que le jugement de Babylone (Apocalypse 16:17-21). Ceux qui voient des cycles superposés comparent ces termes au lieu de supposer que chaque série ajoute nécessairement une nouvelle période d'années.
+
+Les plaies d'Égypte expliquent aussi le langage des jugements. Sang, ténèbres et grêle rappellent l'affrontement de Dieu avec l'Égypte (Exode 7:17-21; Exode 9:22-26; Exode 10:21-23; Apocalypse 8:7-9; Apocalypse 16:3-10). Cette source commune explique les ressemblances; elle ne prouve pas à elle seule la simultanéité de deux jugements.
+
+### Comparer les périodes avant de les additionner
+
+Apocalypse 11:2-3 place quarante-deux mois de piétinement à côté de 1 260 jours de témoignage. Apocalypse 12:6 et Apocalypse 12:14 décrivent la protection de la femme comme 1 260 jours et comme un temps, des temps et la moitié d'un temps. Apocalypse 13:5 donne à la Bête quarante-deux mois d'autorité. Ces descriptions invitent à la comparaison avec Daniel 7:25 et Daniel 12:7; elles ne demandent pas d'additionner chaque occurrence pour former un total plus long.
+
+Toute superposition proposée doit identifier les personnes, l'action, la durée et le terme. La protection de la femme et la persécution menée par la Bête peuvent décrire les deux côtés d'un même conflit; leur coexistence n'efface pas leur différence (Apocalypse 12:13-17; Apocalypse 13:5-10). Le texte fournit les événements et les périodes; leur alignement reste la synthèse du lecteur.
+
+### Distinguer les aperçus des explications ultérieures
+
+Un ange annonce la chute de Babylone en Apocalypse 14:8 avant qu'Apocalypse 17-18 n'explique sa nature et sa destruction. Apocalypse 17:1 introduit explicitement une explication du jugement de la prostituée. Lire cette explication après les coupes n'oblige pas à faire tomber Babylone deux fois.
+
+La récapitulation futuriste préserve ainsi la progression sans forcer chaque scène à occuper une nouvelle case temporelle. Elle laisse aussi la chronologie de l'enlèvement ouverte à une étude distincte. On peut attendre un millénium futur tout en plaçant la résurrection et le rassemblement avant la détresse, pendant sa crise finale ou au retour public du Christ. Les passages concernés, non la superposition seule, doivent établir cette place (Matthieu 24:29-31; 1 Thessaloniciens 4:16-17).
+
+## Prémillénarisme historique
+
+Le prémillénarisme historique attend le retour du Christ avant un futur règne terrestre. Il unit généralement la résurrection et le rassemblement de l'Église à son retour public après la détresse. Il n'exige pas le retrait de l'Église plusieurs années plus tôt pour préserver les promesses de Dieu à son peuple.
+
+**Chronologie courte:** ère présente de l'Église -> détresse et apostasie intensifiées -> retour visible, résurrection et rassemblement -> règne millénaire -> dernière révolte -> jugement final -> nouvelle création.
+
+### Lire ensemble la venue et le rassemblement
+
+Jésus décrit la manifestation du Fils de l'homme et le rassemblement de ses élus après la détresse (Matthieu 24:29-31). Paul décrit la descente du Christ, la résurrection des croyants morts et le rassemblement des vivants avec eux (1 Thessaloniciens 4:13-18). Il traite ensuite de la venue du Christ et de notre rassemblement auprès de lui dans la même discussion sur la révolte et le sans-loi (2 Thessaloniciens 2:1-8). Les prémillénaristes historiques relient ces récits comme descriptions d'une même venue culminante.
+
+Cette espérance n'exige pas que les croyants échappent à toute souffrance. Jésus prépare ses disciples à la détresse; l'Apocalypse appelle les saints à persévérer sous la persécution de la Bête (Jean 16:33; Apocalypse 13:10). La promesse du salut hors de la colère demeure ferme; cette lecture la distingue d'une exemption de la persécution (1 Thessaloniciens 5:9-10).
+
+### Lire le règne entre deux défaites
+
+Apocalypse 19:19-21 décrit la défaite de la Bête et du Faux Prophète. Apocalypse 20:1-6 décrit ensuite Satan lié et le règne de ceux qui participent à la première résurrection. Après les mille ans, Satan rassemble une autre rébellion, que Dieu détruit (Apocalypse 20:7-10). Le prémillénarisme historique lit cette progression comme des événements successifs et comprend la première résurrection comme corporelle.
+
+Paul donne un ordre apparenté: résurrection du Christ, résurrection de ceux qui lui appartiennent à sa venue, puis la fin, lorsqu'il remet le royaume au Père après avoir vaincu tout ennemi (1 Corinthiens 15:23-28). Le passage soutient le règne victorieux du Christ, mais ne précise pas la durée de l'intervalle. Apocalypse 20 fournit les mille ans dans cette synthèse.
+
+### Rendre compte de toute la promesse
+
+Les prémillénaristes relient ce règne futur à des passages qui décrivent la justice parmi les nations avec des conditions encore antérieures à l'abolition finale de la mort (Ésaïe 11:1-10; Ésaïe 65:20-25; Zacharie 14:16-19). D'autres chrétiens lisent ces promesses à travers le royaume présent ou la création nouvelle. La question décisive concerne leur relation avec Apocalypse 20, non la fidélité de Dieu à ses promesses. Apocalypse 21:4 reste l'horizon final: la mort elle-même prend fin.
+
+## Amillénarisme
+
+L'amillénarisme comprend les mille ans comme le règne présent du Christ avec ses saints, non comme une ère terrestre distincte après son retour. Il affirme un royaume réel et une future résurrection corporelle. Sa lecture centrale voit Apocalypse 20:1-6 comme une autre perspective sur l'ère comprise entre les deux venues du Christ.
+
+**Chronologie courte:** première venue du Christ et règne céleste présent -> mission de l'Évangile, souffrance et conflit récurrent pendant l'ère de l'Église -> brève rébellion finale -> unique retour visible, résurrection générale et jugement final -> nouvelle création.
+
+### Lire le lien de Satan avec la première venue du Christ
+
+Apocalypse 20:3 donne le but de ce lien: empêcher Satan d'égarer les nations jusqu'à sa libération. Jésus décrit son oeuvre comme l'entrée dans la maison d'un homme fort après l'avoir lié (Matthieu 12:28-29). Avant la croix, il annonce le jugement du prince de ce monde et attire les humains à lui lorsqu'il est élevé (Jean 12:31-33). Les amillénaristes relient ces passages à la progression de l'Évangile parmi les nations.
+
+Ils comprennent donc le lien comme une restriction du pouvoir de Satan, non comme l'absence de toute activité satanique. Cette distinction compte, puisque les apôtres avertissent encore les croyants contre le diable (1 Pierre 5:8-9). Les prémillénaristes répondent que l'enfermement dans l'Abîme scellé décrit une contrainte plus forte que celle visible aujourd'hui (Apocalypse 20:1-3). Les deux lectures doivent rendre compte du but déclaré et de la force de l'image.
+
+### Lire la vie et le règne des saints avec le Christ
+
+Jean voit les âmes des martyrs fidèles en Apocalypse 20:4, comme il avait vu celles des martyrs attendant leur justification en Apocalypse 6:9-11. Une lecture amillénariste identifie leur vie et leur règne à leur vie actuelle avec le Christ au ciel. Une autre souligne la participation présente des croyants à la vie de résurrection du Christ (Éphésiens 2:4-6; Jean 5:24-25). Ces explications divergent au sein de la position; aucune ne nie la résurrection corporelle ultérieure.
+
+La principale difficulté concerne l'affirmation que ces saints revinrent à la vie et que les autres morts ne revinrent pas à la vie avant la fin des mille ans (Apocalypse 20:4-5). Les prémillénaristes lisent la même expression corporellement dans les deux cas. Les amillénaristes distinguent la victoire présente des saints sur la mort de la résurrection finale, en lisant le passage avec les visions d'âmes au ciel et l'enseignement du Nouveau Testament sur la vie en Christ.
+
+### Lire le retour comme l'accomplissement final
+
+Jésus unit la résurrection des justes et des injustes dans son enseignement sur l'heure qui vient (Jean 5:28-29). Il unit aussi sa venue glorieuse au jugement des nations (Matthieu 25:31-46). Pierre relie le jour du Seigneur au jugement et à la promesse d'un ciel nouveau et d'une terre nouvelle (2 Pierre 3:10-13). L'amillénarisme donne la priorité à ces passages lorsqu'il place résurrection, jugement et création nouvelle au retour du Christ.
+
+Cela exige de lire Apocalypse 20 comme une récapitulation plutôt que comme la suite temporelle d'Apocalypse 19. Les mille ans expriment alors la période complète fixée par Dieu pour le règne présent, suivie de la brève libération de Satan et de sa défaite finale (Apocalypse 20:3; Apocalypse 20:7-10). La confiance de cette lecture repose sur le règne présent du Christ et son retour promis, non sur la négation de la réalité de son royaume.
+
+## Postmillénarisme
+
+Le postmillénarisme attend que l'Évangile produise une foi et une obéissance largement répandues parmi les nations avant le retour du Christ. Il relie cette attente au millénium, compris comme l'ère présente ou une période ultérieure d'épanouissement en son sein. Son espérance concerne l'oeuvre du Christ par son Évangile, non l'amélioration autonome de l'humanité.
+
+**Chronologie courte:** mission de l'Évangile dans l'ère présente -> conversion étendue des nations et longue période d'influence du royaume -> dernière rébellion -> retour visible, résurrection et jugement final -> nouvelle création.
+
+### Commencer par l'autorité et la mission du Roi
+
+Jésus ressuscité affirme son autorité sur le ciel et la terre et envoie ses disciples faire des gens de toutes les nations des disciples (Matthieu 28:18-20). Psaume 2:7-9 présente les nations comme l'héritage du Fils. Psaume 72:8-11 montre la domination étendue du roi et les nations le servant. Les postmillénaristes relient la mission à ces promesses royales et attendent un fruit historique considérable de l'Évangile.
+
+L'étape suivante concerne le moment où cette obéissance générale paraît. Ésaïe décrit les nations recherchant l'instruction du SEIGNEUR et la terre remplie de sa connaissance (Ésaïe 2:2-4; Ésaïe 11:9-10). Le postmillénarisme place un accomplissement substantiel avant le retour du Christ. Les prémillénaristes le placent généralement dans le règne terrestre futur; d'autres lecteurs soulignent son achèvement dans la création nouvelle. Les promesses restent identiques; leur place diffère.
+
+### Suivre la croissance du royaume
+
+Jésus compare le royaume à une graine de moutarde devenue une grande plante et à du levain qui agit dans toute la pâte (Matthieu 13:31-33). Les postmillénaristes voient de petits commencements produire de vastes résultats. Paul enseigne que le Christ doit régner jusqu'à ce qu'il ait placé tous ses ennemis sous ses pieds (1 Corinthiens 15:25). Ensemble, ces textes soutiennent leur attente de voir le Christ régnant transformer les nations par l'Évangile.
+
+La parabole du blé et de la mauvaise herbe réclame aussi l'attention. Les deux restent jusqu'à la moisson, à la fin de l'âge (Matthieu 13:24-30; Matthieu 13:36-43). Le postmillénarisme n'affirme pas nécessairement la conversion de chaque personne ni la disparition de tout péché avant le retour du Christ. Sa thèse distinctive porte sur une large progression historique de la vie de disciple, non sur l'arrivée prématurée d'une création sans péché.
+
+### Garder en vue la dernière rébellion et le jugement
+
+Apocalypse 20:7-10 place une dernière flambée de tromperie et d'opposition après les mille ans. Les postmillénaristes conservent cette dernière révolte après l'époque d'épanouissement de l'Évangile. Ils placent ensuite la résurrection générale et le jugement au retour du Christ, en comparant Jean 5:28-29 et Matthieu 25:31-46 avec Apocalypse 20:11-15.
+
+Cette lecture doit expliquer comment son attente d'un fruit étendu de l'Évangile s'accorde avec les avertissements répétés de souffrance et d'apostasie (2 Timothée 3:1-5; 2 Thessaloniciens 2:1-8). Les postmillénaristes divergent sur les avertissements qui concernent surtout des crises antérieures et ceux qui décrivent la dernière flambée. Leur chronologie dépend de ces décisions contextuelles; les paraboles de croissance seules ne fournissent ni calendrier ni pourcentage de convertis.
 
 ## L'enlèvement : qu'est-ce qui est explicite ?
 
@@ -606,11 +746,15 @@ Le désaccord ne porte pas sur le fait que les croyants seront enlevés pour ren
 
 ## Emplacements possibles de l'enlèvement
 
-### 1. Prétribulation
+Les quatre emplacements suivants décrivent différentes propositions pour relier le même rassemblement biblique aux visions de l'Apocalypse.
+
+## 1. Prétribulation
 
 **Emplacement :** Avant le premier sceau et avant la période de tribulation de la fin des temps.
 
-#### Passages de soutien courants
+**Chronologie courte:** ère de l'Église -> croyants enlevés avant la détresse finale -> sceaux, trompettes et coupes -> retour visible du Christ -> règne millénaire.
+
+### Passages de soutien courants
 
 - **1 Thessaloniciens 4:13-18** : les croyants sont enlevés à la rencontre du Christ.
 - **1 Thessaloniciens 5:9** : les croyants ne sont pas destinés à la colère.
@@ -618,13 +762,13 @@ Le désaccord ne porte pas sur le fait que les croyants seront enlevés pour ren
 - **Apocalypse 3:10** : promesse de garder l'Église de Philadelphie **de l'heure de l'épreuve qui vient sur le monde entier**.
 - Le mot « Église » n'est pas employé pour les saints présents sur terre en Apocalypse 6-18.
 
-#### Emplacement proposé dans l'Apocalypse
+### Emplacement proposé dans l'Apocalypse
 
 Généralement **entre Apocalypse 3 et 4**, avant le Sceau 1.
 
 Certains utilisent « Monte ici » en Apocalypse 4:1 comme image symbolique de l'enlèvement.
 
-#### Principales difficultés
+### Principales difficultés
 
 - Apocalypse 4:1 décrit explicitement Jean entrant dans une vision, et non l'Église retirée de la terre.
 - L'Apocalypse ne dit jamais directement que l'Église a été enlevée avant le Sceau 1.
@@ -634,28 +778,32 @@ Certains utilisent « Monte ici » en Apocalypse 4:1 comme image symbolique de l
 
 Les interprètes prétribulationnistes répondent en distinguant l'enlèvement du retour visible ultérieur du Christ et en distinguant l'Église des autres saints présents pendant la tribulation.
 
-### 2. Milieu de la tribulation
+## 2. Milieu de la tribulation
 
 **Emplacement :** Vers le milieu de la période finale, souvent associé à Apocalypse 11 et à la septième trompette.
 
-#### Liens de soutien courants
+**Chronologie courte:** ère de l'Église -> première moitié de la détresse finale -> croyants enlevés vers le milieu -> jugements ultérieurs -> retour visible du Christ -> règne millénaire.
+
+### Liens de soutien courants
 
 - **1 Corinthiens 15:52** : la résurrection ou la transformation se produit à « la dernière trompette ».
 - **Apocalypse 11:15** : la septième et dernière trompette sonne.
 - **Apocalypse 11:12** : les deux témoins montent au ciel.
 - L'Apocalypse emploie à plusieurs reprises 42 mois et 1 260 jours, ce qui suggère une importante structure de milieu de période.
 
-#### Principales difficultés
+### Principales difficultés
 
 - L'Écriture ne dit jamais explicitement que la « dernière trompette » de Paul est la septième trompette de l'Apocalypse.
 - L'ascension des deux témoins concerne explicitement ces deux témoins, et non l'Église entière.
 - Les périodes de 42 mois de l'Apocalypse ne sont pas toutes explicitement placées comme deux moitiés successives d'une même période de sept ans.
 
-### 3. Post-tribulation / Au retour visible du Christ
+## 3. Post-tribulation / Au retour visible du Christ
 
 **Emplacement :** À la fin de la tribulation, associé à la manifestation publique du Christ et immédiatement avant le Royaume millénaire.
 
-#### Passages de soutien courants
+**Chronologie courte:** ère de l'Église -> détresse finale -> retour visible, résurrection et enlèvement des croyants comme un ensemble d'événements -> règne millénaire.
+
+### Passages de soutien courants
 
 **Matthieu 24:29-31** dit :
 
@@ -685,24 +833,26 @@ Les interprètes prétribulationnistes répondent en distinguant l'enlèvement d
 
 **Apocalypse 19-20** place la victoire visible du Christ sur la Bête juste avant de décrire le retour à la vie de ceux que la Bête a tués et de l'appeler « la première résurrection ».
 
-#### Principales difficultés
+### Principales difficultés
 
 - Les interprètes prétribulationnistes soutiennent que cette lecture confond les passages décrivant la délivrance de la colère avec ceux qui décrivent le retour judiciaire du Christ.
 - L'Apocalypse n'emploie pas explicitement l'expression « enlevés » au chapitre 19.
 - Les interprètes post-tribulation doivent expliquer comment les croyants rencontrent le Christ dans les airs, puis relier cette rencontre à Sa descente et à Son règne terrestre.
 
-### 4. Pré-colère
+## 4. Pré-colère
 
 **Emplacement :** Après une tribulation et une persécution sévères, souvent après le Sceau 6, mais avant les jugements des trompettes et des coupes compris comme la colère concentrée du Jour du Seigneur.
 
-#### Liens de soutien courants
+**Chronologie courte:** ère de l'Église -> persécution sévère de la fin -> signes cosmiques -> le Christ paraît et rassemble les croyants -> colère divine concentrée -> règne millénaire.
+
+### Liens de soutien courants
 
 - **Apocalypse 6:12-17** : le Sceau 6 apporte des signes cosmiques et l'annonce que le grand jour de la colère est arrivé.
 - **Matthieu 24:29-31** : après la tribulation, des signes cosmiques apparaissent, le Christ vient sur les nuées, une trompette retentit et les élus sont rassemblés.
 - **Apocalypse 7:9-17** : une grande foule de toute nation apparaît devant le trône et il est dit qu'elle sort de la grande tribulation.
 - **1 Thessaloniciens 5:9** : les croyants ne sont pas destinés à la colère.
 
-#### Principales difficultés
+### Principales difficultés
 
 - L'Agneau Lui-même ouvre les sceaux précédents ; certains soutiennent donc que la colère de Dieu est déjà à l'œuvre avant le Sceau 6.
 - Apocalypse 7 ne désigne jamais explicitement l'arrivée de la grande foule comme l'enlèvement.
@@ -736,6 +886,10 @@ Plusieurs observations sont difficiles à éviter :
 En raison de ces textes, cette étude distingue **la certitude du retour du Christ et du rassemblement et de la résurrection de Son peuple** du **modèle chronologique contesté utilisé pour placer ce rassemblement dans la séquence de l'Apocalypse**.
 
 ## Tableau chronologique final
+
+Ce tableau conservé suit la lecture prémillénariste futuriste.
+
+Ici, «Explicite» signifie que l'Apocalypse énonce l'événement ou le contenu de la ligne. Cela ne signifie pas que la position de chaque ligne voisine est universellement explicite, que chaque vision commence après la fin de la précédente ou que les chrétiens s'accordent sur une seule chronologie continue.
 
 | Ordre | Événement | Texte principal | Statut |
 |---:|---|---|---|
@@ -772,8 +926,16 @@ En raison de ces textes, cette étude distingue **la certitude du retour du Chri
 
 ## Résumé
 
+Ce résumé conservé décrit la séquence prémillénariste futuriste, non une chronologie partagée par toutes les positions précédentes.
+
 La séquence la plus claire de la fin des temps dans l'Apocalypse est la suivante :
 
 **Le jugement se déploie à travers les sceaux, les trompettes et les coupes. La Bête et le Faux Prophète se lèvent et persécutent les saints. Babylone tombe. Jésus revient visiblement et vainc la Bête et le Faux Prophète. Satan est ensuite lié. Les saints règnent avec le Christ pendant mille ans. Après les mille ans, Satan est libéré, mène une dernière rébellion et est jeté dans l'étang de feu. Le jugement du Grand Trône Blanc suit. Ce n'est qu'après cela que Dieu crée le Nouveau Ciel et la Nouvelle Terre et fait descendre la Nouvelle Jérusalem, où Son peuple règne éternellement.**
 
 L'enlèvement est un événement biblique décrit en particulier dans **1 Thessaloniciens 4:16-17** et **1 Corinthiens 15:51-52**. Sa place exacte par rapport aux sceaux, aux trompettes et aux coupes de l'Apocalypse n'est pas explicitement numérotée dans l'Apocalypse et doit être présentée comme une question d'interprétation, et non comme si le texte contenait un verset disant : « l'enlèvement a lieu ici ».
+
+## Étudier les chronologies à travers l'Écriture
+
+Commence par Daniel 7:9-14, Matthieu 24:29-31, 1 Thessaloniciens 4:13-18, 1 Corinthiens 15:20-28 et Apocalypse 19:11-21:5. Lis chaque passage comme un raisonnement complet avant de comparer les chronologies. Relève les événements que le passage place réellement dans un ordre et les liens ajoutés par l'interprétation.
+
+Le retour du Christ appelle son peuple au service fidèle, à l'endurance et à l'espérance. Jésus enseigne la préparation par des serviteurs qui poursuivent leur travail (Matthieu 24:42-51). Paul demande aux croyants en deuil de s'encourager mutuellement par la promesse de la résurrection (1 Thessaloniciens 4:18). Jean appelle les saints à garder les commandements de Dieu et leur foi en Jésus pendant qu'ils persévèrent (Apocalypse 14:12). Ces instructions appartiennent à toute lecture fidèle de la chronologie.

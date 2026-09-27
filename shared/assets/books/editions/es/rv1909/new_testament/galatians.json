@@ -132,6 +132,16 @@
           "verse": 24,
           "text": "Y glorificaban á Dios en mí."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "No hay otro evangelio"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Pablo, llamado por Dios"
+        }
       ]
     },
     {
@@ -243,6 +253,16 @@
           "chapter": 2,
           "verse": 21,
           "text": "No desecho la gracia de Dios: porque si por la ley fuese la justicia, entonces por demás murió Cristo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los apóstoles aceptan a Pablo"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Pablo se opone a Pedro"
         }
       ]
     },
@@ -395,6 +415,20 @@
           "chapter": 3,
           "verse": 29,
           "text": "Y si vosotros sois de Cristo, ciertamente la simiente de Abraham sois, y conforme á la promesa los herederos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La fe o la observancia de la Ley"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La Ley y la promesa"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Hijos de Dios"
         }
       ]
     },
@@ -558,6 +592,16 @@
           "verse": 31,
           "text": "De manera, hermanos, que no somos hijos de la sierva, mas de la libre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Preocupación de Pablo por los gálatas"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Agar y Sara"
+        }
       ]
     },
     {
@@ -695,6 +739,16 @@
           "verse": 26,
           "text": "No seamos codiciosos de vana gloria, irritando los unos á los otros, envidiándose los unos á los otros."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La libertad en Cristo"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La vida por el Espíritu"
+        }
       ]
     },
     {
@@ -791,6 +845,16 @@
           "chapter": 6,
           "verse": 18,
           "text": "Hermanos, la gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén. Enviada de Roma á los Gálatas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La ayuda mutua"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "No la circuncisión, sino una nueva creación"
         }
       ]
     }

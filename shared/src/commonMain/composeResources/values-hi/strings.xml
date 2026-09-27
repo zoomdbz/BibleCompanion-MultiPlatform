@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">इब्रानी मुहावरों और पर्व संबंधों के साथ संरचित पठन मार्गदर्शिका</string>
     <string name="prophecy_revelation_timeline">प्रकाशितवाक्य की समयरेखा</string>
     <string name="prophecy_revelation_timeline_desc">मुहरें, तुरहियाँ, कटोरे, मसीह की वापसी, सहस्राब्दी राज्य और नया यरूशलेम</string>
+    <string name="prophecy_second_coming_rapture">मसीह का दूसरा आगमन और कलीसिया का उठा लिया जाना</string>
+    <string name="prophecy_second_coming_rapture_desc">मसीह की वापसी, पुनरुत्थान, विश्वासियों का एकत्र होना, क्रोध और समय संबंधी प्रमुख मत</string>
     <!-- Data -->
     <string name="data_section">डेटा</string>
     <string name="data_section_desc">बुकमार्क, सहेजे गए पद, हाइलाइट और लेबल को उपकरणों के बीच स्थानांतरित करें। डेटा को क्लिपबोर्ड पर कॉपी करने के लिए निर्यात पर टैप करें, फिर दूसरे उपकरण पर आयात में चिपकाएं। सेटिंग और प्राथमिकताएं शामिल नहीं हैं।</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">यरूशलेम की यात्रा और यहूदिया में सेवकाई</string>
     <string name="chronology_gospel_final_week">अंतिम सप्ताह और क्रूस पर चढ़ाया जाना</string>
     <string name="chronology_gospel_resurrection">पुनरुत्थान</string>
+    <string name="daily_notification_title">सूचनाएँ</string>
+    <string name="daily_notification_toggle">हर दिन का बाइबल पद</string>
+    <string name="daily_notification_desc">अपने चुने हुए स्थानीय समय पर एक पद पाएँ। पढ़ने के लिए सूचना पर टैप करें, या कॉपी करें या साझा करें चुनें। आपके डिवाइस के कारण सूचना मिलने में देरी हो सकती है।</string>
+    <string name="daily_notification_time">सूचना का समय</string>
+    <string name="daily_notification_save">समय सहेजें</string>
+    <string name="daily_notification_ios_window">iOS में अधिकतम 60 दिनों के पदों की सूचनाएँ तय होती हैं। सूची को नया करने के लिए ऐप नियमित रूप से खोलें।</string>
+    <string name="daily_notification_permission_denied">सूचनाएँ बंद हैं। डिवाइस की सेटिंग में अनुमति दें, फिर यह विकल्प चालू करें।</string>
+    <string name="daily_notification_system_settings">डिवाइस की सूचना सेटिंग</string>
 </resources>

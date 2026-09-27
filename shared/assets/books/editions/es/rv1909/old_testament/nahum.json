@@ -87,6 +87,24 @@
           "verse": 15,
           "text": "He aquí sobre los montes los pies del que trae buenas nuevas, del que pregona la paz. Celebra, oh Judá, tus fiestas, cumple tus votos: porque nunca más pasará por ti el malvado; pereció del todo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Manifestación del\nSeñor"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Destrucción de Nínive"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Liberación del opresor"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Anuncio de la victoria sobre Nínive"
+        }
       ]
     },
     {
@@ -158,6 +176,20 @@
           "chapter": 2,
           "verse": 13,
           "text": "Heme aquí contra ti, dice Jehová de los ejércitos. Encenderé y [ADD]reduciré[/ADD] á humo [ADD]tus[/ADD] carros, y espada devorará tus leoncillos; y raeré de la tierra tu robo, y nunca más se oirá voz de tus embajadores."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La destrucción de Nínive"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Caída y saqueo de Nínive"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La bestia salvaje morirá"
         }
       ]
     },
@@ -260,6 +292,20 @@
           "chapter": 3,
           "verse": 19,
           "text": "No hay cura para tu quebradura; tu herida se encrudeció: todos los que oyeron tu fama, batirán las manos sobre ti, porque ¿sobre quién no pasó continuamente tu malicia?"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Descripción del fin de Nínive"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Destrucción total de Nínive"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Defensa inútil"
         }
       ]
     }

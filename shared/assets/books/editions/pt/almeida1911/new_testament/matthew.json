@@ -137,6 +137,16 @@
           "verse": 25,
           "text": "E não a conheceu até que deu á luz o seu filho, o primogenito; e poz-lhe por nome Jesus."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os antepassados de Jesus Cristo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "O nascimento de Jesus Cristo"
+        }
       ]
     },
     {
@@ -259,6 +269,20 @@
           "verse": 23,
           "text": "E chegou, e habitou n'uma cidade chamada Nazareth, para que se cumprisse o que fôra dito pelos prophetas: Que se chamará Nazareno."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Visitantes do Oriente"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A fuga para o Egito"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "A volta para Israel"
+        }
       ]
     },
     {
@@ -339,7 +363,7 @@
         {
           "chapter": 3,
           "verse": 15,
-          "text": "Jesus, porém, respondendo, disse-lhe: Deixa por agora, porque assim nos convem cumprir toda a justiça. Então elle o deixou."
+          "text": "Jesus, porém, respondendo, disse-lhe: [J]Deixa por agora, porque assim nos convem cumprir toda a justiça.[/J] Então elle o deixou."
         },
         {
           "chapter": 3,
@@ -350,6 +374,16 @@
           "chapter": 3,
           "verse": 17,
           "text": "E eis que uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "João Batista prepara o caminho"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "O batismo de Jesus"
         }
       ]
     },
@@ -376,7 +410,7 @@
         {
           "chapter": 4,
           "verse": 4,
-          "text": "Elle, porém, respondendo, disse: Está escripto: Nem só de pão viverá o homem, mas de toda a palavra que sae da bocca de Deus"
+          "text": "Elle, porém, respondendo, disse: [J]Está escripto: Nem só de pão viverá o homem, mas de toda a palavra que sae da bocca de Deus[/J]"
         },
         {
           "chapter": 4,
@@ -391,7 +425,7 @@
         {
           "chapter": 4,
           "verse": 7,
-          "text": "Disse-lhe Jesus: Tambem está escripto: Não tentarás o Senhor teu Deus."
+          "text": "Disse-lhe Jesus: [J]Tambem está escripto: Não tentarás o Senhor teu Deus.[/J]"
         },
         {
           "chapter": 4,
@@ -406,7 +440,7 @@
         {
           "chapter": 4,
           "verse": 10,
-          "text": "[J]Então disse-lhe Jesus: Vae-te, Satanaz, porque está escripto: Ao Senhor teu Deus adorarás, e só a elle servirás.[/J]"
+          "text": "Então disse-lhe Jesus: [J]Vae-te, Satanaz, porque está escripto: Ao Senhor teu Deus adorarás, e só a elle servirás.[/J]"
         },
         {
           "chapter": 4,
@@ -441,7 +475,7 @@
         {
           "chapter": 4,
           "verse": 17,
-          "text": "Desde então começou Jesus a prégar, e a dizer: Arrependei-vos, porque é chegado o reino dos céus."
+          "text": "Desde então começou Jesus a prégar, e a dizer: [J]Arrependei-vos, porque é chegado o reino dos céus.[/J]"
         },
         {
           "chapter": 4,
@@ -451,7 +485,7 @@
         {
           "chapter": 4,
           "verse": 19,
-          "text": "[J]E disse-lhes: Vinde após mim, e eu vos farei pescadores de homens.[/J]"
+          "text": "E disse-lhes: [J]Vinde após mim, e eu vos farei pescadores de homens.[/J]"
         },
         {
           "chapter": 4,
@@ -482,6 +516,24 @@
           "chapter": 4,
           "verse": 25,
           "text": "E seguia-o uma grande multidão de gente da Galilea, de Decapolis, de Jerusalem, da Judea, e d'além do Jordão."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A tentação de Jesus"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "O início do ministério de Jesus"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Os primeiros discípulos"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Multidões seguem Jesus"
         }
       ]
     },
@@ -730,6 +782,48 @@
           "verse": 48,
           "text": "[J]Sêde vós pois perfeitos, como é perfeito o vosso Pae que está nos céus.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Sermão do Monte"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "As bem-aventuranças"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Ensino sobre sal e luz"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Ensino sobre a Lei"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Ensino sobre a ira"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Ensino sobre o adultério"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Ensino sobre o divórcio"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Ensino sobre juramentos e votos"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Ensino sobre a vingança"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Ensino sobre o amor pelos inimigos"
+        }
       ]
     },
     {
@@ -907,6 +1001,28 @@
           "verse": 34,
           "text": "[J]Não vos inquieteis pois pelo dia d'ámanhã, porque o dia d'ámanhã cuidará de si mesmo. Basta a cada dia o seu mal.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ensino sobre auxílio aos necessitados"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Ensino sobre oração"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Ensino sobre jejum"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Ensino sobre dinheiro e bens"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Ensino sobre a preocupação"
+        }
       ]
     },
     {
@@ -1059,6 +1175,40 @@
           "verse": 29,
           "text": "Porque os ensinava como tendo auctoridade; e não como os escribas."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Não julguem os outros"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Oração eficaz"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A regra de ouro"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A porta estreita"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "A árvore e seus frutos"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Verdadeiros discípulos"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Construir sobre um alicerce firme"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Reação ao sermão"
+        }
       ]
     },
     {
@@ -1079,12 +1229,12 @@
         {
           "chapter": 8,
           "verse": 3,
-          "text": "E Jesus, estendendo a mão, tocou-o, dizendo: Quero: sê puro. E logo ficou purificado da lepra."
+          "text": "E Jesus, estendendo a mão, tocou-o, dizendo: [J]Quero: sê puro.[/J] E logo ficou purificado da lepra."
         },
         {
           "chapter": 8,
           "verse": 4,
-          "text": "Disse-lhe então Jesus: Olha não o digas a alguem, mas vae, mostra-te ao sacerdote, e apresenta a offerta que Moysés determinou, para lhes servir de testemunho."
+          "text": "Disse-lhe então Jesus: [J]Olha não o digas a alguem, mas vae, mostra-te ao sacerdote, e apresenta a offerta que Moysés determinou, para lhes servir de testemunho.[/J]"
         },
         {
           "chapter": 8,
@@ -1099,7 +1249,7 @@
         {
           "chapter": 8,
           "verse": 7,
-          "text": "E Jesus lhe disse: Eu irei, e lhe darei saude."
+          "text": "E Jesus lhe disse: [J]Eu irei, e lhe darei saude.[/J]"
         },
         {
           "chapter": 8,
@@ -1114,7 +1264,7 @@
         {
           "chapter": 8,
           "verse": 10,
-          "text": "E maravilhou-se Jesus, ouvindo isto, e disse aos que o seguiam: Em verdade vos digo que nem em Israel encontrei tanta fé."
+          "text": "E maravilhou-se Jesus, ouvindo isto, e disse aos que o seguiam: [J]Em verdade vos digo que nem em Israel encontrei tanta fé.[/J]"
         },
         {
           "chapter": 8,
@@ -1129,7 +1279,7 @@
         {
           "chapter": 8,
           "verse": 13,
-          "text": "Então disse Jesus ao centurião: Vae, e como creste te seja feito. E n'aquella mesma hora o seu creado sarou."
+          "text": "Então disse Jesus ao centurião: [J]Vae, e como creste te seja feito.[/J] E n'aquella mesma hora o seu creado sarou."
         },
         {
           "chapter": 8,
@@ -1164,7 +1314,7 @@
         {
           "chapter": 8,
           "verse": 20,
-          "text": "E disse Jesus: As raposas teem seus covis, e as aves do céu teem seus ninhos, mas o Filho do homem não tem onde reclinar a cabeça."
+          "text": "E disse Jesus: [J]As raposas teem seus covis, e as aves do céu teem seus ninhos, mas o Filho do homem não tem onde reclinar a cabeça.[/J]"
         },
         {
           "chapter": 8,
@@ -1174,7 +1324,7 @@
         {
           "chapter": 8,
           "verse": 22,
-          "text": "Jesus, porém, disse-lhe: Segue-me, e deixa aos mortos sepultar os seus mortos."
+          "text": "Jesus, porém, disse-lhe: [J]Segue-me, e deixa aos mortos sepultar os seus mortos.[/J]"
         },
         {
           "chapter": 8,
@@ -1194,7 +1344,7 @@
         {
           "chapter": 8,
           "verse": 26,
-          "text": "E elle disse-lhes: Porque temeis, homens de pouca fé? Então, levantando-se, reprehendeu os ventos e o mar, e seguiu-se uma grande bonança."
+          "text": "E elle disse-lhes: [J]Porque temeis, homens de pouca fé?[/J] Então, levantando-se, reprehendeu os ventos e o mar, e seguiu-se uma grande bonança."
         },
         {
           "chapter": 8,
@@ -1224,7 +1374,7 @@
         {
           "chapter": 8,
           "verse": 32,
-          "text": "E elle lhes disse: Ide. E, saindo elles, se introduziram na manada dos porcos; e eis que toda aquella manada de porcos se precipitou no mar por um despenhadeiro, e morreram nas aguas."
+          "text": "E elle lhes disse: [J]Ide.[/J] E, saindo elles, se introduziram na manada dos porcos; e eis que toda aquella manada de porcos se precipitou no mar por um despenhadeiro, e morreram nas aguas."
         },
         {
           "chapter": 8,
@@ -1235,6 +1385,32 @@
           "chapter": 8,
           "verse": 34,
           "text": "E eis que toda aquella cidade saiu ao encontro de Jesus, e, vendo-o, rogaram-lhe que se retirasse dos seus termos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus cura um leproso"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Um oficial romano demonstra fé"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesus cura muitas pessoas"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "O preço de seguir Jesus"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Jesus acalma a tempestade"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Jesus exerce autoridade sobre demônios"
         }
       ]
     },
@@ -1251,7 +1427,7 @@
         {
           "chapter": 9,
           "verse": 2,
-          "text": "E Jesus, vendo a sua fé, disse ao paralytico: Filho, tem bom animo, perdoados te são os teus peccados."
+          "text": "E Jesus, vendo a sua fé, disse ao paralytico: [J]Filho, tem bom animo, perdoados te são os teus peccados.[/J]"
         },
         {
           "chapter": 9,
@@ -1261,7 +1437,7 @@
         {
           "chapter": 9,
           "verse": 4,
-          "text": "Mas Jesus, conhecendo os seus pensamentos, disse: Porque ajuizaes mal em vossos corações?"
+          "text": "Mas Jesus, conhecendo os seus pensamentos, disse: [J]Porque ajuizaes mal em vossos corações?[/J]"
         },
         {
           "chapter": 9,
@@ -1271,7 +1447,7 @@
         {
           "chapter": 9,
           "verse": 6,
-          "text": "[J]Ora, para que saibaes que o Filho do homem tem na terra auctoridade para perdoar peccados (disse então ao paralytico): Levanta-te; toma a tua cama, e vae para tua casa.[/J]"
+          "text": "[J]Ora, para que saibaes que o Filho do homem tem na terra auctoridade para perdoar peccados[/J] (disse então ao paralytico): [J]Levanta-te; toma a tua cama, e vae para tua casa.[/J]"
         },
         {
           "chapter": 9,
@@ -1286,7 +1462,7 @@
         {
           "chapter": 9,
           "verse": 9,
-          "text": "E Jesus, passando adiante d'ali, viu assentado na alfandega um homem, chamado Mattheus, e disse-lhe: Segue-me. E elle, levantando-se, o seguiu."
+          "text": "E Jesus, passando adiante d'ali, viu assentado na alfandega um homem, chamado Mattheus, e disse-lhe: [J]Segue-me.[/J] E elle, levantando-se, o seguiu."
         },
         {
           "chapter": 9,
@@ -1301,7 +1477,7 @@
         {
           "chapter": 9,
           "verse": 12,
-          "text": "Jesus, porém, ouvindo, disse-lhes: Não necessitam de medico os sãos, senão os doentes."
+          "text": "Jesus, porém, ouvindo, disse-lhes: [J]Não necessitam de medico os sãos, senão os doentes.[/J]"
         },
         {
           "chapter": 9,
@@ -1316,7 +1492,7 @@
         {
           "chapter": 9,
           "verse": 15,
-          "text": "E disse-lhes Jesus: Podem porventura andar tristes os filhos das bodas, emquanto o esposo está com elles? Dias, porém, virão em que lhes será tirado o esposo, e então jejuarão."
+          "text": "E disse-lhes Jesus: [J]Podem porventura andar tristes os filhos das bodas, emquanto o esposo está com elles? Dias, porém, virão em que lhes será tirado o esposo, e então jejuarão.[/J]"
         },
         {
           "chapter": 9,
@@ -1351,7 +1527,7 @@
         {
           "chapter": 9,
           "verse": 22,
-          "text": "E Jesus, voltando-se, e vendo-a, disse: Tem animo, filha, a tua fé te salvou. E immediatamente a mulher ficou sã."
+          "text": "E Jesus, voltando-se, e vendo-a, disse: [J]Tem animo, filha, a tua fé te salvou.[/J] E immediatamente a mulher ficou sã."
         },
         {
           "chapter": 9,
@@ -1361,7 +1537,7 @@
         {
           "chapter": 9,
           "verse": 24,
-          "text": "Disse-lhes: Retirae-vos, que a menina não está morta, mas dorme. E riam-se d'elle."
+          "text": "Disse-lhes: [J]Retirae-vos, que a menina não está morta, mas dorme.[/J] E riam-se d'elle."
         },
         {
           "chapter": 9,
@@ -1381,17 +1557,17 @@
         {
           "chapter": 9,
           "verse": 28,
-          "text": "E, quando chegou a casa, os cegos se approximaram d'elle; e Jesus disse-lhes: Credes vós que eu possa fazer isto? Disseram-lhe elles: Sim, Senhor."
+          "text": "E, quando chegou a casa, os cegos se approximaram d'elle; e Jesus disse-lhes: [J]Credes vós que eu possa fazer isto?[/J] Disseram-lhe elles: Sim, Senhor."
         },
         {
           "chapter": 9,
           "verse": 29,
-          "text": "Tocou então os olhos d'elles, dizendo: Seja-vos feito segundo a vossa fé."
+          "text": "Tocou então os olhos d'elles, dizendo: [J]Seja-vos feito segundo a vossa fé.[/J]"
         },
         {
           "chapter": 9,
           "verse": 30,
-          "text": "E os olhos se lhes abriram. E Jesus ameaçou-os, dizendo: Olhae não o saiba alguem."
+          "text": "E os olhos se lhes abriram. E Jesus ameaçou-os, dizendo: [J]Olhae não o saiba alguem.[/J]"
         },
         {
           "chapter": 9,
@@ -1426,12 +1602,38 @@
         {
           "chapter": 9,
           "verse": 37,
-          "text": "Então disse aos seus discipulos: A seara é realmente grande, mas poucos os ceifeiros."
+          "text": "Então disse aos seus discipulos: [J]A seara é realmente grande, mas poucos os ceifeiros.[/J]"
         },
         {
           "chapter": 9,
           "verse": 38,
           "text": "[J]Rogae pois ao Senhor da seara que mande ceifeiros para a sua seara.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus cura um paralítico"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jesus chama Mateus"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Discussão sobre o jejum"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Jesus cura em resposta à fé"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Jesus cura dois cegos e um mudo"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "A necessidade de trabalhadores"
         }
       ]
     },
@@ -1463,7 +1665,7 @@
         {
           "chapter": 10,
           "verse": 5,
-          "text": "Jesus enviou estes doze, e lhes ordenou, dizendo: Não ireis pelo caminho das gentes, nem entrareis em cidade de samaritanos;"
+          "text": "Jesus enviou estes doze, e lhes ordenou, dizendo: [J]Não ireis pelo caminho das gentes, nem entrareis em cidade de samaritanos;[/J]"
         },
         {
           "chapter": 10,
@@ -1650,6 +1852,12 @@
           "verse": 42,
           "text": "[J]E qualquer que tiver dado só que seja um copo d'agua fria a um d'estes pequenos, em qualidade de discipulo, em verdade vos digo que de modo nenhum perderá o seu galardão.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus envia os doze apóstolos"
+        }
       ]
     },
     {
@@ -1675,7 +1883,7 @@
         {
           "chapter": 11,
           "verse": 4,
-          "text": "E Jesus, respondendo, disse-lhes: Ide, e annunciae a João as coisas que ouvis e vêdes:"
+          "text": "E Jesus, respondendo, disse-lhes: [J]Ide, e annunciae a João as coisas que ouvis e vêdes:[/J]"
         },
         {
           "chapter": 11,
@@ -1690,7 +1898,7 @@
         {
           "chapter": 11,
           "verse": 7,
-          "text": "E, partindo elles, começou Jesus a dizer ás turbas, a respeito de João: Que fostes vêr no deserto? uma canna agitada pelo vento?"
+          "text": "E, partindo elles, começou Jesus a dizer ás turbas, a respeito de João: [J]Que fostes vêr no deserto? uma canna agitada pelo vento?[/J]"
         },
         {
           "chapter": 11,
@@ -1780,7 +1988,7 @@
         {
           "chapter": 11,
           "verse": 25,
-          "text": "N'aquelle tempo, respondendo Jesus, disse: Graças te dou, ó Pae, Senhor do céu e da terra, que occultaste estas coisas aos sabios e intelligentes, e as revelaste aos meninos."
+          "text": "N'aquelle tempo, respondendo Jesus, disse: [J]Graças te dou, ó Pae, Senhor do céu e da terra, que occultaste estas coisas aos sabios e intelligentes, e as revelaste aos meninos.[/J]"
         },
         {
           "chapter": 11,
@@ -1807,6 +2015,20 @@
           "verse": 30,
           "text": "[J]Porque o meu jugo é suave e o meu fardo é leve.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus e João Batista"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Julgamento para os que não creem"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Jesus agradece ao Pai"
+        }
       ]
     },
     {
@@ -1827,7 +2049,7 @@
         {
           "chapter": 12,
           "verse": 3,
-          "text": "Elle, porém, lhes disse: Não tendes lido o que fez David, quando teve fome, elle e os que com elle estavam?"
+          "text": "Elle, porém, lhes disse: [J]Não tendes lido o que fez David, quando teve fome, elle e os que com elle estavam?[/J]"
         },
         {
           "chapter": 12,
@@ -1867,7 +2089,7 @@
         {
           "chapter": 12,
           "verse": 11,
-          "text": "E elle lhes disse: Qual d'entre vós será o homem que tenha uma ovelha, e, se n'um sabbado a tal ovelha cair n'uma cova, não lance mão d'ella, e a levante?"
+          "text": "E elle lhes disse: [J]Qual d'entre vós será o homem que tenha uma ovelha, e, se n'um sabbado a tal ovelha cair n'uma cova, não lance mão d'ella, e a levante?[/J]"
         },
         {
           "chapter": 12,
@@ -1877,7 +2099,7 @@
         {
           "chapter": 12,
           "verse": 13,
-          "text": "Então disse áquelle homem: Estende a tua mão. E elle a estendeu, e ficou sã como a outra."
+          "text": "Então disse áquelle homem: [J]Estende a tua mão.[/J] E elle a estendeu, e ficou sã como a outra."
         },
         {
           "chapter": 12,
@@ -1937,7 +2159,7 @@
         {
           "chapter": 12,
           "verse": 25,
-          "text": "Jesus, porém, conhecendo os seus pensamentos, disse-lhes: Todo o reino dividido contra si mesmo é devastado; e toda a cidade, ou casa dividida contra si mesma não subsistirá."
+          "text": "Jesus, porém, conhecendo os seus pensamentos, disse-lhes: [J]Todo o reino dividido contra si mesmo é devastado; e toda a cidade, ou casa dividida contra si mesma não subsistirá.[/J]"
         },
         {
           "chapter": 12,
@@ -2007,7 +2229,7 @@
         {
           "chapter": 12,
           "verse": 39,
-          "text": "Mas elle lhes respondeu, e disse: A geração má e adultera pede um signal, porém não se lhe dará senão o signal do propheta Jonas;"
+          "text": "Mas elle lhes respondeu, e disse: [J]A geração má e adultera pede um signal, porém não se lhe dará senão o signal do propheta Jonas;[/J]"
         },
         {
           "chapter": 12,
@@ -2052,17 +2274,43 @@
         {
           "chapter": 12,
           "verse": 48,
-          "text": "Porém elle, respondendo, disse ao que lhe fallára: Quem é minha mãe? e quem são meus irmãos?"
+          "text": "Porém elle, respondendo, disse ao que lhe fallára: [J]Quem é minha mãe? e quem são meus irmãos?[/J]"
         },
         {
           "chapter": 12,
           "verse": 49,
-          "text": "E, estendendo a sua mão para os seus discipulos, disse: Eis aqui minha mãe e meus irmãos;"
+          "text": "E, estendendo a sua mão para os seus discipulos, disse: [J]Eis aqui minha mãe e meus irmãos;[/J]"
         },
         {
           "chapter": 12,
           "verse": 50,
           "text": "[J]Porque, qualquer que fizer a vontade de meu Pae que está nos céus, este é meu irmão, e irmã e mãe.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Discussão sobre o sábado"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jesus cura no sábado"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesus, o Servo escolhido de Deus"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "A fonte do poder de Jesus"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "O sinal de Jonas"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "A verdadeira família de Jesus"
         }
       ]
     },
@@ -2084,7 +2332,7 @@
         {
           "chapter": 13,
           "verse": 3,
-          "text": "E fallou-lhe de muitas coisas por parabolas, dizendo: Eis que o semeador saiu a semear."
+          "text": "E fallou-lhe de muitas coisas por parabolas, dizendo: [J]Eis que o semeador saiu a semear.[/J]"
         },
         {
           "chapter": 13,
@@ -2124,7 +2372,7 @@
         {
           "chapter": 13,
           "verse": 11,
-          "text": "Elle, respondendo, disse-lhes: Porque a vós é dado conhecer os mysterios do reino dos céus, mas a elles não é dado"
+          "text": "Elle, respondendo, disse-lhes: [J]Porque a vós é dado conhecer os mysterios do reino dos céus, mas a elles não é dado[/J]"
         },
         {
           "chapter": 13,
@@ -2189,7 +2437,7 @@
         {
           "chapter": 13,
           "verse": 24,
-          "text": "Propoz-lhes outra parabola, dizendo: O reino dos céus é similhante ao homem que semeia boa semente no seu campo;"
+          "text": "Propoz-lhes outra parabola, dizendo: [J]O reino dos céus é similhante ao homem que semeia boa semente no seu campo;[/J]"
         },
         {
           "chapter": 13,
@@ -2224,7 +2472,7 @@
         {
           "chapter": 13,
           "verse": 31,
-          "text": "Outra parabola lhes propoz, dizendo: O reino dos céus é similhante ao grão de mostarda que o homem, pegando d'elle, semeou no seu campo;"
+          "text": "Outra parabola lhes propoz, dizendo: [J]O reino dos céus é similhante ao grão de mostarda que o homem, pegando d'elle, semeou no seu campo;[/J]"
         },
         {
           "chapter": 13,
@@ -2234,7 +2482,7 @@
         {
           "chapter": 13,
           "verse": 33,
-          "text": "Outra parabola lhes disse: O reino dos céus é similhante ao fermento, que uma mulher, pegando d'elle, introduz em tres medidas de farinha, até que tudo esteja levedado."
+          "text": "Outra parabola lhes disse: [J]O reino dos céus é similhante ao fermento, que uma mulher, pegando d'elle, introduz em tres medidas de farinha, até que tudo esteja levedado.[/J]"
         },
         {
           "chapter": 13,
@@ -2254,7 +2502,7 @@
         {
           "chapter": 13,
           "verse": 37,
-          "text": "E elle, respondendo, disse-lhes: O que semeia a boa semente, é o Filho do homem;"
+          "text": "E elle, respondendo, disse-lhes: [J]O que semeia a boa semente, é o Filho do homem;[/J]"
         },
         {
           "chapter": 13,
@@ -2324,12 +2572,12 @@
         {
           "chapter": 13,
           "verse": 51,
-          "text": "E disse-lhes Jesus: Entendestes todas estas coisas? Disseram-lhe elles: Sim, Senhor."
+          "text": "E disse-lhes Jesus: [J]Entendestes todas estas coisas?[/J] Disseram-lhe elles: Sim, Senhor."
         },
         {
           "chapter": 13,
           "verse": 52,
-          "text": "E elle disse-lhes: Por isso, todo o escriba instruido ácerca do reino dos céus é similhante a um pae de familia, que tira dos seus thesouros coisas novas e velhas."
+          "text": "E elle disse-lhes: [J]Por isso, todo o escriba instruido ácerca do reino dos céus é similhante a um pae de familia, que tira dos seus thesouros coisas novas e velhas.[/J]"
         },
         {
           "chapter": 13,
@@ -2354,12 +2602,58 @@
         {
           "chapter": 13,
           "verse": 57,
-          "text": "E escandalizavam-se n'elle. Jesus, porém, lhes disse: Não ha propheta sem honra, senão na sua patria e na sua casa."
+          "text": "E escandalizavam-se n'elle. Jesus, porém, lhes disse: [J]Não ha propheta sem honra, senão na sua patria e na sua casa.[/J]"
         },
         {
           "chapter": 13,
           "verse": 58,
           "text": "E não fez ali muitas maravilhas, por causa da incredulidade d'elles."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola do semeador"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "A parábola do trigo e do joio"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "A parábola da semente de mostarda"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "A parábola do fermento"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "As parábolas cumprem uma profecia"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Explicação da parábola do trigo e do joio"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "A parábola do tesouro escondido"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "A parábola da pérola"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "A parábola da rede de pesca"
+        },
+        {
+          "beforeVerse": 52,
+          "text": "Mestres da lei no reino"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "Jesus é rejeitado em Nazaré"
         }
       ]
     },
@@ -2446,7 +2740,7 @@
         {
           "chapter": 14,
           "verse": 16,
-          "text": "[J]Jesus, porém, lhes disse: Não é mister que vão: dae-lhes vós de comer.[/J]"
+          "text": "Jesus, porém, lhes disse: [J]Não é mister que vão: dae-lhes vós de comer.[/J]"
         },
         {
           "chapter": 14,
@@ -2456,7 +2750,7 @@
         {
           "chapter": 14,
           "verse": 18,
-          "text": "E elle disse: Trazei-m'os aqui."
+          "text": "E elle disse: [J]Trazei-m'os aqui.[/J]"
         },
         {
           "chapter": 14,
@@ -2501,7 +2795,7 @@
         {
           "chapter": 14,
           "verse": 27,
-          "text": "Jesus, porém, lhes fallou logo, dizendo: Tende bom animo, sou eu, não tenhaes medo."
+          "text": "Jesus, porém, lhes fallou logo, dizendo: [J]Tende bom animo, sou eu, não tenhaes medo.[/J]"
         },
         {
           "chapter": 14,
@@ -2511,7 +2805,7 @@
         {
           "chapter": 14,
           "verse": 29,
-          "text": "E elle disse: Vem. E Pedro, descendo do barco, andou sobre as aguas para ir ter com Jesus."
+          "text": "E elle disse: [J]Vem.[/J] E Pedro, descendo do barco, andou sobre as aguas para ir ter com Jesus."
         },
         {
           "chapter": 14,
@@ -2521,7 +2815,7 @@
         {
           "chapter": 14,
           "verse": 31,
-          "text": "E logo Jesus, estendendo a mão, segurou-o, e disse-lhe: Homem de pouca fé, porque duvidaste?"
+          "text": "E logo Jesus, estendendo a mão, segurou-o, e disse-lhe: [J]Homem de pouca fé, porque duvidaste?[/J]"
         },
         {
           "chapter": 14,
@@ -2548,6 +2842,24 @@
           "verse": 36,
           "text": "E rogavam-lhe para que ao menos elles tocassem a orla do seu vestido; e todos os que a tocavam ficavam sãos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Herodes e a morte de João Batista"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A primeira multiplicação dos pães"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jesus anda sobre as águas"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Jesus cura os enfermos"
+        }
       ]
     },
     {
@@ -2568,7 +2880,7 @@
         {
           "chapter": 15,
           "verse": 3,
-          "text": "Elle, porém, respondendo, disse-lhes: Porque transgredis vós tambem o mandamento de Deus pela vossa tradição?"
+          "text": "Elle, porém, respondendo, disse-lhes: [J]Porque transgredis vós tambem o mandamento de Deus pela vossa tradição?[/J]"
         },
         {
           "chapter": 15,
@@ -2603,7 +2915,7 @@
         {
           "chapter": 15,
           "verse": 10,
-          "text": "E, chamando a si a multidão, disse-lhes: Ouvi, e entendei:"
+          "text": "E, chamando a si a multidão, disse-lhes: [J]Ouvi, e entendei:[/J]"
         },
         {
           "chapter": 15,
@@ -2618,7 +2930,7 @@
         {
           "chapter": 15,
           "verse": 13,
-          "text": "Elle, porém, respondendo, disse: Toda a planta, que meu Pae celestial não plantou, será arrancada."
+          "text": "Elle, porém, respondendo, disse: [J]Toda a planta, que meu Pae celestial não plantou, será arrancada.[/J]"
         },
         {
           "chapter": 15,
@@ -2633,7 +2945,7 @@
         {
           "chapter": 15,
           "verse": 16,
-          "text": "Jesus, porém, disse: Até vós mesmos estaes ainda sem entender?"
+          "text": "Jesus, porém, disse: [J]Até vós mesmos estaes ainda sem entender?[/J]"
         },
         {
           "chapter": 15,
@@ -2673,7 +2985,7 @@
         {
           "chapter": 15,
           "verse": 24,
-          "text": "E elle, respondendo, disse: Eu não sou enviado senão ás ovelhas perdidas da casa d'Israel."
+          "text": "E elle, respondendo, disse: [J]Eu não sou enviado senão ás ovelhas perdidas da casa d'Israel.[/J]"
         },
         {
           "chapter": 15,
@@ -2683,7 +2995,7 @@
         {
           "chapter": 15,
           "verse": 26,
-          "text": "Elle, porém, respondendo, disse: Não é bom pegar no pão dos filhos e deital-o aos cachorrinhos."
+          "text": "Elle, porém, respondendo, disse: [J]Não é bom pegar no pão dos filhos e deital-o aos cachorrinhos.[/J]"
         },
         {
           "chapter": 15,
@@ -2693,7 +3005,7 @@
         {
           "chapter": 15,
           "verse": 28,
-          "text": "Então respondeu Jesus, e disse-lhe: O mulher! grande é a tua fé: seja-te feito como tu desejas. E desde aquella mesma hora a sua filha ficou sã"
+          "text": "Então respondeu Jesus, e disse-lhe: [J]O mulher! grande é a tua fé: seja-te feito como tu desejas.[/J] E desde aquella mesma hora a sua filha ficou sã"
         },
         {
           "chapter": 15,
@@ -2713,7 +3025,7 @@
         {
           "chapter": 15,
           "verse": 32,
-          "text": "E Jesus, chamando os seus discipulos, disse: Tenho intima compaixão da multidão, porque já está comigo ha tres dias, e não tem que comer; e não quero despedil-a em jejum, para que não desfalleça no caminho"
+          "text": "E Jesus, chamando os seus discipulos, disse: [J]Tenho intima compaixão da multidão, porque já está comigo ha tres dias, e não tem que comer; e não quero despedil-a em jejum, para que não desfalleça no caminho[/J]"
         },
         {
           "chapter": 15,
@@ -2723,7 +3035,7 @@
         {
           "chapter": 15,
           "verse": 34,
-          "text": "E Jesus disse-lhes: Quantos pães tendes? E elles disseram: Sete, e uns poucos de peixinhos."
+          "text": "E Jesus disse-lhes: [J]Quantos pães tendes?[/J] E elles disseram: Sete, e uns poucos de peixinhos."
         },
         {
           "chapter": 15,
@@ -2750,6 +3062,24 @@
           "verse": 39,
           "text": "E, tendo despedido a multidão, entrou no barco, e dirigiu-se ao territorio de Magdala."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ensino sobre a pureza interior"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "A mulher cananeia"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Jesus cura muitas pessoas"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A segunda multiplicação dos pães"
+        }
       ]
     },
     {
@@ -2765,7 +3095,7 @@
         {
           "chapter": 16,
           "verse": 2,
-          "text": "Mas elle, respondendo, disse-lhes: Quando é chegada a tarde, dizeis: Haverá bom tempo, porque o céu está rubro."
+          "text": "Mas elle, respondendo, disse-lhes: [J]Quando é chegada a tarde, dizeis: Haverá bom tempo, porque o céu está rubro.[/J]"
         },
         {
           "chapter": 16,
@@ -2775,7 +3105,7 @@
         {
           "chapter": 16,
           "verse": 4,
-          "text": "Uma geração má e adultera pede um signal, e nenhum signal lhe será dado, senão o signal do propheta Jonas. E, deixando-os, retirou-se."
+          "text": "[J]Uma geração má e adultera pede um signal, e nenhum signal lhe será dado, senão o signal do propheta Jonas.[/J] E, deixando-os, retirou-se."
         },
         {
           "chapter": 16,
@@ -2785,7 +3115,7 @@
         {
           "chapter": 16,
           "verse": 6,
-          "text": "[J]E Jesus disse-lhes: Adverti, e acautelae-vos do fermento dos phariseos e sadduceos.[/J]"
+          "text": "E Jesus disse-lhes: [J]Adverti, e acautelae-vos do fermento dos phariseos e sadduceos.[/J]"
         },
         {
           "chapter": 16,
@@ -2795,7 +3125,7 @@
         {
           "chapter": 16,
           "verse": 8,
-          "text": "E Jesus, conhecendo-o, disse: Porque arrazoaes entre vós, homens de pouca fé, sobre o não vos terdes fornecido de pão?"
+          "text": "E Jesus, conhecendo-o, disse: [J]Porque arrazoaes entre vós, homens de pouca fé, sobre o não vos terdes fornecido de pão?[/J]"
         },
         {
           "chapter": 16,
@@ -2820,7 +3150,7 @@
         {
           "chapter": 16,
           "verse": 13,
-          "text": "E, chegando Jesus ás partes de Cesarea de Philippo, interrogou os seus discipulos, dizendo: Quem dizem os homens ser o Filho do homem?"
+          "text": "E, chegando Jesus ás partes de Cesarea de Philippo, interrogou os seus discipulos, dizendo: [J]Quem dizem os homens ser o Filho do homem?[/J]"
         },
         {
           "chapter": 16,
@@ -2830,7 +3160,7 @@
         {
           "chapter": 16,
           "verse": 15,
-          "text": "[J]Disse-lhes elle: E vós, quem dizeis que eu sou?[/J]"
+          "text": "Disse-lhes elle: [J]E vós, quem dizeis que eu sou?[/J]"
         },
         {
           "chapter": 16,
@@ -2840,7 +3170,7 @@
         {
           "chapter": 16,
           "verse": 17,
-          "text": "E Jesus, respondendo, disse-lhe: Bemaventurado és tu, Simão Barjonas, porque t'o não revelou a carne e o sangue, mas meu Pae, que está nos céus."
+          "text": "E Jesus, respondendo, disse-lhe: [J]Bemaventurado és tu, Simão Barjonas, porque t'o não revelou a carne e o sangue, mas meu Pae, que está nos céus.[/J]"
         },
         {
           "chapter": 16,
@@ -2870,12 +3200,12 @@
         {
           "chapter": 16,
           "verse": 23,
-          "text": "Elle, porém, voltando-se, disse a Pedro: Arreda-te de diante de mim, Satanaz, que me serves de escandalo; porque não comprehendes as coisas que são de Deus, mas só as que são dos homens."
+          "text": "Elle, porém, voltando-se, disse a Pedro: [J]Arreda-te de diante de mim, Satanaz, que me serves de escandalo; porque não comprehendes as coisas que são de Deus, mas só as que são dos homens.[/J]"
         },
         {
           "chapter": 16,
           "verse": 24,
-          "text": "Então disse Jesus aos seus discipulos: Se alguem quizer vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me;"
+          "text": "Então disse Jesus aos seus discipulos: [J]Se alguem quizer vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me;[/J]"
         },
         {
           "chapter": 16,
@@ -2896,6 +3226,28 @@
           "chapter": 16,
           "verse": 28,
           "text": "[J]Em verdade vos digo que alguns ha, dos que aqui estão, que não gostarão a morte até que vejam vir o Filho do homem no seu reino.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os líderes exigem um sinal"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "O fermento dos fariseus e saduceus"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Pedro declara sua fé"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jesus prediz sua morte"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Ensino sobre o discipulado"
         }
       ]
     },
@@ -2937,7 +3289,7 @@
         {
           "chapter": 17,
           "verse": 7,
-          "text": "E Jesus, approximando-se-lhes, tocou-os, e disse: Levantae-vos; e não tenhaes medo."
+          "text": "E Jesus, approximando-se-lhes, tocou-os, e disse: [J]Levantae-vos; e não tenhaes medo.[/J]"
         },
         {
           "chapter": 17,
@@ -2947,7 +3299,7 @@
         {
           "chapter": 17,
           "verse": 9,
-          "text": "E, descendo elles do monte, Jesus lhes ordenou, dizendo: A ninguem conteis a visão, até que o Filho do homem seja resuscitado dos mortos."
+          "text": "E, descendo elles do monte, Jesus lhes ordenou, dizendo: [J]A ninguem conteis a visão, até que o Filho do homem seja resuscitado dos mortos.[/J]"
         },
         {
           "chapter": 17,
@@ -2957,7 +3309,7 @@
         {
           "chapter": 17,
           "verse": 11,
-          "text": "E Jesus, respondendo, disse-lhes: Em verdade Elias virá primeiro, e restaurará todas as coisas;"
+          "text": "E Jesus, respondendo, disse-lhes: [J]Em verdade Elias virá primeiro, e restaurará todas as coisas;[/J]"
         },
         {
           "chapter": 17,
@@ -2987,7 +3339,7 @@
         {
           "chapter": 17,
           "verse": 17,
-          "text": "[J]E Jesus, respondendo, disse: Ó geração incredula e perversa! até quando estarei eu comvosco, e até quando vos soffrerei? Trazei-m'o aqui[/J]"
+          "text": "E Jesus, respondendo, disse: [J]Ó geração incredula e perversa! até quando estarei eu comvosco, e até quando vos soffrerei? Trazei-m'o aqui[/J]"
         },
         {
           "chapter": 17,
@@ -3002,22 +3354,22 @@
         {
           "chapter": 17,
           "verse": 20,
-          "text": "[J]E Jesus lhes disse: Por causa da vossa pouca fé; porque em verdade vos digo que, se tivesseis fé como um grão de mostarda, dirieis a este monte: Passa d'aqui para acolá: e havia de passar; e nada vos seria impossivel.[/J]"
+          "text": "E Jesus lhes disse: [J]Por causa da vossa pouca fé; porque em verdade vos digo que, se tivesseis fé como um grão de mostarda, dirieis a este monte: Passa d'aqui para acolá: e havia de passar; e nada vos seria impossivel.[/J]"
         },
         {
           "chapter": 17,
           "verse": 21,
-          "text": "Mas esta casta de demonios não se expulsa senão pela oração e por jejum."
+          "text": "[J]Mas esta casta de demonios não se expulsa senão pela oração e por jejum.[/J]"
         },
         {
           "chapter": 17,
           "verse": 22,
-          "text": "Ora, achando-se elles na Galilea, disse-lhes Jesus: O Filho do homem será entregue nas mãos dos homens;"
+          "text": "Ora, achando-se elles na Galilea, disse-lhes Jesus: [J]O Filho do homem será entregue nas mãos dos homens;[/J]"
         },
         {
           "chapter": 17,
           "verse": 23,
-          "text": "E matal-o-hão, e ao terceiro dia resuscitará. E elles se entristeceram muito."
+          "text": "[J]E matal-o-hão, e ao terceiro dia resuscitará.[/J] E elles se entristeceram muito."
         },
         {
           "chapter": 17,
@@ -3027,17 +3379,35 @@
         {
           "chapter": 17,
           "verse": 25,
-          "text": "Disse elle: Sim. E, entrando em casa, Jesus se lhe antecipou, dizendo: Que te parece, Simão? De quem cobram os reis da terra os tributos, ou o censo? Dos seus filhos, ou dos alheios?"
+          "text": "Disse elle: Sim. E, entrando em casa, Jesus se lhe antecipou, dizendo: [J]Que te parece, Simão? De quem cobram os reis da terra os tributos, ou o censo? Dos seus filhos, ou dos alheios?[/J]"
         },
         {
           "chapter": 17,
           "verse": 26,
-          "text": "Disse-lhe Pedro: Dos alheios. Disse-lhe Jesus: Logo, são livres os filhos:"
+          "text": "Disse-lhe Pedro: Dos alheios. Disse-lhe Jesus: [J]Logo, são livres os filhos:[/J]"
         },
         {
           "chapter": 17,
           "verse": 27,
           "text": "[J]Mas, para que os não escandalizemos, vae ao mar, lança o anzol, tira o primeiro peixe que subir, e, abrindo-lhe a bocca, encontrarás um státer; toma-o, e dá-o por mim e por ti.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A transfiguração"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesus cura um menino possuído por demônio"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jesus prediz sua morte pela segunda vez"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "O pagamento do imposto do templo"
         }
       ]
     },
@@ -3059,7 +3429,7 @@
         {
           "chapter": 18,
           "verse": 3,
-          "text": "[J]E disse: Em verdade vos digo que, se não vos converterdes e não vos fizerdes como meninos, de modo algum entrareis no reino dos céus.[/J]"
+          "text": "E disse: [J]Em verdade vos digo que, se não vos converterdes e não vos fizerdes como meninos, de modo algum entrareis no reino dos céus.[/J]"
         },
         {
           "chapter": 18,
@@ -3099,7 +3469,7 @@
         {
           "chapter": 18,
           "verse": 11,
-          "text": "Porque o Filho do homem veiu salvar o que se tinha perdido."
+          "text": "[J]Porque o Filho do homem veiu salvar o que se tinha perdido.[/J]"
         },
         {
           "chapter": 18,
@@ -3154,7 +3524,7 @@
         {
           "chapter": 18,
           "verse": 22,
-          "text": "Jesus lhe disse: Não te digo: Até sete, mas, até setenta vezes sete."
+          "text": "Jesus lhe disse: [J]Não te digo: Até sete, mas, até setenta vezes sete.[/J]"
         },
         {
           "chapter": 18,
@@ -3221,6 +3591,28 @@
           "verse": 35,
           "text": "[J]Assim vos fará tambem meu Pae celestial, se do coração não perdoardes, cada um a seu irmão, as suas offensas.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O maior no reino"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Advertência para não causar pecado"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A parábola da ovelha perdida"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Como corrigir um irmão"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "A parábola sobre a importância do perdão"
+        }
       ]
     },
     {
@@ -3246,12 +3638,12 @@
         {
           "chapter": 19,
           "verse": 4,
-          "text": "Elle, porém, respondendo, disse-lhes: Não tendes lido que aquelle que os fez no principio macho e femea os fez?"
+          "text": "Elle, porém, respondendo, disse-lhes: [J]Não tendes lido que aquelle que os fez no principio macho e femea os fez?[/J]"
         },
         {
           "chapter": 19,
           "verse": 5,
-          "text": "[J]E disse: Portanto deixará o homem pae e mãe, e se unirá a sua mulher, e serão dois n'uma só carne.[/J]"
+          "text": "E disse: [J]Portanto deixará o homem pae e mãe, e se unirá a sua mulher, e serão dois n'uma só carne.[/J]"
         },
         {
           "chapter": 19,
@@ -3266,7 +3658,7 @@
         {
           "chapter": 19,
           "verse": 8,
-          "text": "Disse-lhes elle: Moysés por causa da dureza dos vossos corações vos permittiu repudiar vossas mulheres; mas ao principio não foi assim."
+          "text": "Disse-lhes elle: [J]Moysés por causa da dureza dos vossos corações vos permittiu repudiar vossas mulheres; mas ao principio não foi assim.[/J]"
         },
         {
           "chapter": 19,
@@ -3281,7 +3673,7 @@
         {
           "chapter": 19,
           "verse": 11,
-          "text": "[J]Elle, porém, lhes disse: Nem todos podem receber esta palavra, mas só aquelles a quem foi concedido.[/J]"
+          "text": "Elle, porém, lhes disse: [J]Nem todos podem receber esta palavra, mas só aquelles a quem foi concedido.[/J]"
         },
         {
           "chapter": 19,
@@ -3296,7 +3688,7 @@
         {
           "chapter": 19,
           "verse": 14,
-          "text": "Jesus, porém, disse: Deixae os meninos, e não os estorveis de vir a mim; porque de taes é o reino dos céus."
+          "text": "Jesus, porém, disse: [J]Deixae os meninos, e não os estorveis de vir a mim; porque de taes é o reino dos céus.[/J]"
         },
         {
           "chapter": 19,
@@ -3311,12 +3703,12 @@
         {
           "chapter": 19,
           "verse": 17,
-          "text": "[J]E elle disse-lhe: Porque me chamas bom? Não ha bom senão um só, que é Deus. Se queres, porém, entrar na vida, guarda os mandamentos.[/J]"
+          "text": "E elle disse-lhe: [J]Porque me chamas bom? Não ha bom senão um só, que é Deus. Se queres, porém, entrar na vida, guarda os mandamentos.[/J]"
         },
         {
           "chapter": 19,
           "verse": 18,
-          "text": "Disse-lhe elle: Quaes? E Jesus disse: Não matarás, não commetterás adulterio, não furtarás, não dirás falso testemunho;"
+          "text": "Disse-lhe elle: Quaes? E Jesus disse: [J]Não matarás, não commetterás adulterio, não furtarás, não dirás falso testemunho;[/J]"
         },
         {
           "chapter": 19,
@@ -3331,7 +3723,7 @@
         {
           "chapter": 19,
           "verse": 21,
-          "text": "Disse-lhe Jesus: Se queres ser perfeito, vae, vende tudo o que tens, dá aos pobres, e terás um thesouro no céu; e vem, e segue-me."
+          "text": "Disse-lhe Jesus: [J]Se queres ser perfeito, vae, vende tudo o que tens, dá aos pobres, e terás um thesouro no céu; e vem, e segue-me.[/J]"
         },
         {
           "chapter": 19,
@@ -3341,7 +3733,7 @@
         {
           "chapter": 19,
           "verse": 23,
-          "text": "Disse então Jesus aos seus discipulos: Em verdade vos digo que difficilmente entrará um rico no reino dos céus."
+          "text": "Disse então Jesus aos seus discipulos: [J]Em verdade vos digo que difficilmente entrará um rico no reino dos céus.[/J]"
         },
         {
           "chapter": 19,
@@ -3356,7 +3748,7 @@
         {
           "chapter": 19,
           "verse": 26,
-          "text": "E Jesus, olhando para elles, disse-lhes: Aos homens é isso impossivel, mas a Deus tudo é possivel."
+          "text": "E Jesus, olhando para elles, disse-lhes: [J]Aos homens é isso impossivel, mas a Deus tudo é possivel.[/J]"
         },
         {
           "chapter": 19,
@@ -3366,7 +3758,7 @@
         {
           "chapter": 19,
           "verse": 28,
-          "text": "E Jesus disse-lhes: Em verdade vos digo que vós, que me seguistes, na regeneração, quando o Filho do homem se assentar no throno da sua gloria, tambem vos assentareis sobre doze thronos, para julgar as doze tribus d'Israel."
+          "text": "E Jesus disse-lhes: [J]Em verdade vos digo que vós, que me seguistes, na regeneração, quando o Filho do homem se assentar no throno da sua gloria, tambem vos assentareis sobre doze thronos, para julgar as doze tribus d'Israel.[/J]"
         },
         {
           "chapter": 19,
@@ -3377,6 +3769,24 @@
           "chapter": 19,
           "verse": 30,
           "text": "[J]Porém muitos primeiros serão os derradeiros, e muitos derradeiros serão os primeiros.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Discussão sobre divórcio e casamento"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesus abençoa as crianças"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "O homem rico"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "As recompensas do discipulado"
         }
       ]
     },
@@ -3488,17 +3898,17 @@
         {
           "chapter": 20,
           "verse": 21,
-          "text": "E elle diz-lhe: Que queres? Diz-lhe ella: Dize que estes meus dois filhos se assentem, um á tua direita e outro á tua esquerda, no teu reino."
+          "text": "E elle diz-lhe: [J]Que queres?[/J] Diz-lhe ella: Dize que estes meus dois filhos se assentem, um á tua direita e outro á tua esquerda, no teu reino."
         },
         {
           "chapter": 20,
           "verse": 22,
-          "text": "Jesus, porém, respondendo, disse: Não sabeis o que pedis; podeis vós beber o calix que eu hei de beber, e ser baptizados com o baptismo com que eu sou baptizado? Dizem-lhe elles: Podemos."
+          "text": "Jesus, porém, respondendo, disse: [J]Não sabeis o que pedis; podeis vós beber o calix que eu hei de beber, e ser baptizados com o baptismo com que eu sou baptizado?[/J] Dizem-lhe elles: Podemos."
         },
         {
           "chapter": 20,
           "verse": 23,
-          "text": "[J]E diz-lhes elle: Na verdade bebereis o meu calix e sereis baptizados com o baptismo com que eu sou baptizado, mas assentar-se á minha direita ou á minha esquerda não me pertence concedel-o, mas será para aquelles a quem meu Pae o tem preparado.[/J]"
+          "text": "E diz-lhes elle: [J]Na verdade bebereis o meu calix e sereis baptizados com o baptismo com que eu sou baptizado, mas assentar-se á minha direita ou á minha esquerda não me pertence concedel-o, mas será para aquelles a quem meu Pae o tem preparado.[/J]"
         },
         {
           "chapter": 20,
@@ -3508,7 +3918,7 @@
         {
           "chapter": 20,
           "verse": 25,
-          "text": "Então Jesus, chamando-os para junto de si, disse: Bem sabeis que os principes dos gentios os dominam, e que os grandes exercem auctoridade sobre elles."
+          "text": "Então Jesus, chamando-os para junto de si, disse: [J]Bem sabeis que os principes dos gentios os dominam, e que os grandes exercem auctoridade sobre elles.[/J]"
         },
         {
           "chapter": 20,
@@ -3543,7 +3953,7 @@
         {
           "chapter": 20,
           "verse": 32,
-          "text": "E Jesus, parando, chamou-os, e disse: Que quereis que vos faça?"
+          "text": "E Jesus, parando, chamou-os, e disse: [J]Que quereis que vos faça?[/J]"
         },
         {
           "chapter": 20,
@@ -3554,6 +3964,24 @@
           "chapter": 20,
           "verse": 34,
           "text": "Então Jesus, movido de intima compaixão, tocou-lhe nos olhos, e logo viram; e o seguiram."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola dos trabalhadores do vinhedo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jesus prediz sua morte e ressurreição"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesus ensina sobre servir a outros"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Jesus cura dois cegos"
         }
       ]
     },
@@ -3570,7 +3998,7 @@
         {
           "chapter": 21,
           "verse": 2,
-          "text": "Ide á aldeia que está defronte de vós, e logo encontrareis uma jumenta presa, e um jumentinho com ella; desprendei-a, e trazei-m'os."
+          "text": "[J]Ide á aldeia que está defronte de vós, e logo encontrareis uma jumenta presa, e um jumentinho com ella; desprendei-a, e trazei-m'os.[/J]"
         },
         {
           "chapter": 21,
@@ -3625,7 +4053,7 @@
         {
           "chapter": 21,
           "verse": 13,
-          "text": "E disse-lhes: Está escripto: A minha casa será chamada casa de oração: mas vós a tendes convertido em covil de ladrões."
+          "text": "E disse-lhes: [J]Está escripto: A minha casa será chamada casa de oração: mas vós a tendes convertido em covil de ladrões.[/J]"
         },
         {
           "chapter": 21,
@@ -3640,7 +4068,7 @@
         {
           "chapter": 21,
           "verse": 16,
-          "text": "E disseram-lhe: Ouves o que estes dizem? E Jesus lhes disse: Sim; nunca lestes: Pela bocca dos meninos e das creancinhas de peito aperfeiçoaste o louvor?"
+          "text": "E disseram-lhe: Ouves o que estes dizem? E Jesus lhes disse: [J]Sim; nunca lestes: Pela bocca dos meninos e das creancinhas de peito aperfeiçoaste o louvor?[/J]"
         },
         {
           "chapter": 21,
@@ -3655,7 +4083,7 @@
         {
           "chapter": 21,
           "verse": 19,
-          "text": "E, avistando uma figueira perto do caminho, dirigiu-se a ella, e não achou n'ella senão folhas. E disse-lhe: Nunca mais nasça fructo de ti. E a figueira seccou immediatamente."
+          "text": "E, avistando uma figueira perto do caminho, dirigiu-se a ella, e não achou n'ella senão folhas. E disse-lhe: [J]Nunca mais nasça fructo de ti.[/J] E a figueira seccou immediatamente."
         },
         {
           "chapter": 21,
@@ -3665,7 +4093,7 @@
         {
           "chapter": 21,
           "verse": 21,
-          "text": "[J]Jesus, porém, respondendo, disse-lhes: Em verdade vos digo que, se tiverdes fé e não duvidardes, não só fareis isto á figueira, mas até, se a este monte disserdes: Ergue-te e precipita-te no mar, assim será feito;[/J]"
+          "text": "Jesus, porém, respondendo, disse-lhes: [J]Em verdade vos digo que, se tiverdes fé e não duvidardes, não só fareis isto á figueira, mas até, se a este monte disserdes: Ergue-te e precipita-te no mar, assim será feito;[/J]"
         },
         {
           "chapter": 21,
@@ -3680,12 +4108,12 @@
         {
           "chapter": 21,
           "verse": 24,
-          "text": "[J]E Jesus, respondendo, disse-lhes: Eu tambem vos perguntarei uma coisa; se m'a disserdes, tambem eu vos direi com que auctoridade faço isto.[/J]"
+          "text": "E Jesus, respondendo, disse-lhes: [J]Eu tambem vos perguntarei uma coisa; se m'a disserdes, tambem eu vos direi com que auctoridade faço isto.[/J]"
         },
         {
           "chapter": 21,
           "verse": 25,
-          "text": "O baptismo de João d'onde era? Do céu, ou dos homens? E pensavam entre si, dizendo: Se dissermos: Do céu, elle nos dirá: Então porque não o crestes?"
+          "text": "[J]O baptismo de João d'onde era? Do céu, ou dos homens?[/J] E pensavam entre si, dizendo: Se dissermos: Do céu, elle nos dirá: Então porque não o crestes?"
         },
         {
           "chapter": 21,
@@ -3695,7 +4123,7 @@
         {
           "chapter": 21,
           "verse": 27,
-          "text": "E, respondendo a Jesus, disseram: Não sabemos. Elle disse-lhes: Nem eu vos digo com que auctoridade faço isto."
+          "text": "E, respondendo a Jesus, disseram: Não sabemos. Elle disse-lhes: [J]Nem eu vos digo com que auctoridade faço isto.[/J]"
         },
         {
           "chapter": 21,
@@ -3715,7 +4143,7 @@
         {
           "chapter": 21,
           "verse": 31,
-          "text": "[J]Qual dos dois fez a vontade do pae? Disseram-lhe elles: O primeiro. Disse-lhes Jesus: Em verdade vos digo que os publicanos e as meretrizes vos precedem no reino de Deus.[/J]"
+          "text": "[J]Qual dos dois fez a vontade do pae?[/J] Disseram-lhe elles: O primeiro. Disse-lhes Jesus: [J]Em verdade vos digo que os publicanos e as meretrizes vos precedem no reino de Deus.[/J]"
         },
         {
           "chapter": 21,
@@ -3770,7 +4198,7 @@
         {
           "chapter": 21,
           "verse": 42,
-          "text": "Diz-lhes Jesus: Nunca lestes nas Escripturas: A pedra, que os edificadores rejeitaram, essa foi posta por cabeça do angulo: pelo Senhor foi feito isto, e é maravilhoso aos nossos olhos?"
+          "text": "Diz-lhes Jesus: [J]Nunca lestes nas Escripturas: A pedra, que os edificadores rejeitaram, essa foi posta por cabeça do angulo: pelo Senhor foi feito isto, e é maravilhoso aos nossos olhos?[/J]"
         },
         {
           "chapter": 21,
@@ -3791,6 +4219,32 @@
           "chapter": 21,
           "verse": 46,
           "text": "E, pretendendo prendel-o, receiaram o povo, porquanto o tinham por propheta."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A entrada de Jesus em Jerusalém"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesus purifica o templo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Jesus amaldiçoa a figueira"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "A autoridade de Jesus é questionada"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "A parábola dos dois filhos"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "A parábola dos lavradores maus"
         }
       ]
     },
@@ -3887,22 +4341,22 @@
         {
           "chapter": 22,
           "verse": 18,
-          "text": "Jesus, porém, conhecendo a sua malicia, disse: Porque me experimentaes, hypocritas?"
+          "text": "Jesus, porém, conhecendo a sua malicia, disse: [J]Porque me experimentaes, hypocritas?[/J]"
         },
         {
           "chapter": 22,
           "verse": 19,
-          "text": "Mostrae-me a moeda do tributo. E elles lhe apresentaram um dinheiro."
+          "text": "[J]Mostrae-me a moeda do tributo.[/J] E elles lhe apresentaram um dinheiro."
         },
         {
           "chapter": 22,
           "verse": 20,
-          "text": "[J]E elle diz-lhes: De quem é esta effigie e esta inscripção?[/J]"
+          "text": "E elle diz-lhes: [J]De quem é esta effigie e esta inscripção?[/J]"
         },
         {
           "chapter": 22,
           "verse": 21,
-          "text": "Dizem-lhe elles: De Cesar. Então elle lhes diz: Dae pois a Cesar o que é de Cesar, e a Deus o que é de Deus."
+          "text": "Dizem-lhe elles: De Cesar. Então elle lhes diz: [J]Dae pois a Cesar o que é de Cesar, e a Deus o que é de Deus.[/J]"
         },
         {
           "chapter": 22,
@@ -3942,7 +4396,7 @@
         {
           "chapter": 22,
           "verse": 29,
-          "text": "Jesus, porém, respondendo, disse-lhes: Erraes, não conhecendo as Escripturas, nem o poder de Deus;"
+          "text": "Jesus, porém, respondendo, disse-lhes: [J]Erraes, não conhecendo as Escripturas, nem o poder de Deus;[/J]"
         },
         {
           "chapter": 22,
@@ -3982,7 +4436,7 @@
         {
           "chapter": 22,
           "verse": 37,
-          "text": "E Jesus disse-lhe: Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento."
+          "text": "E Jesus disse-lhe: [J]Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento.[/J]"
         },
         {
           "chapter": 22,
@@ -4007,12 +4461,12 @@
         {
           "chapter": 22,
           "verse": 42,
-          "text": "Dizendo: Que pensaes vós do Christo? De quem é filho? Elles disseram-lhe: De David."
+          "text": "Dizendo: [J]Que pensaes vós do Christo? De quem é filho?[/J] Elles disseram-lhe: De David."
         },
         {
           "chapter": 22,
           "verse": 43,
-          "text": "Disse-lhes elle: Como é então que David, em espirito, lhe chama Senhor, dizendo:"
+          "text": "Disse-lhes elle: [J]Como é então que David, em espirito, lhe chama Senhor, dizendo:[/J]"
         },
         {
           "chapter": 22,
@@ -4029,6 +4483,28 @@
           "verse": 46,
           "text": "E ninguem podia responder-lhe uma palavra: nem desde aquelle dia ousou mais alguem interrogal-o."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola do banquete de casamento"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Impostos para César"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Discussão sobre a ressurreição dos mortos"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "O mandamento mais importante"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "De quem o Cristo é filho?"
+        }
       ]
     },
     {
@@ -4044,7 +4520,7 @@
         {
           "chapter": 23,
           "verse": 2,
-          "text": "[J]Dizendo: Na cadeira de Moysés estão assentados os escribas e phariseos.[/J]"
+          "text": "Dizendo: [J]Na cadeira de Moysés estão assentados os escribas e phariseos.[/J]"
         },
         {
           "chapter": 23,
@@ -4104,7 +4580,7 @@
         {
           "chapter": 23,
           "verse": 14,
-          "text": "Ai de vós, escribas e phariseos, hypocritas! pois que devoraes as casas das viuvas, e isto com pretexto de prolongadas orações; por isso soffrereis mais rigoroso juizo."
+          "text": "[J]Ai de vós, escribas e phariseos, hypocritas! pois que devoraes as casas das viuvas, e isto com pretexto de prolongadas orações; por isso soffrereis mais rigoroso juizo.[/J]"
         },
         {
           "chapter": 23,
@@ -4231,6 +4707,16 @@
           "verse": 39,
           "text": "[J]Porque eu vos digo que desde agora me não vereis mais, até que digaes: Bemdito o que vem em nome do Senhor.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus critica os líderes religiosos"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "O lamento de Jesus sobre Jerusalém"
+        }
       ]
     },
     {
@@ -4246,7 +4732,7 @@
         {
           "chapter": 24,
           "verse": 2,
-          "text": "[J]Jesus, porém, lhes disse: Não vedes tudo isto? Em verdade vos digo que não ficará aqui pedra sobre pedra que não seja derribada.[/J]"
+          "text": "Jesus, porém, lhes disse: [J]Não vedes tudo isto? Em verdade vos digo que não ficará aqui pedra sobre pedra que não seja derribada.[/J]"
         },
         {
           "chapter": 24,
@@ -4256,7 +4742,7 @@
         {
           "chapter": 24,
           "verse": 4,
-          "text": "E Jesus, respondendo, disse-lhes: Acautelae-vos, que ninguem vos engane;"
+          "text": "E Jesus, respondendo, disse-lhes: [J]Acautelae-vos, que ninguem vos engane;[/J]"
         },
         {
           "chapter": 24,
@@ -4492,6 +4978,12 @@
           "chapter": 24,
           "verse": 51,
           "text": "[J]E separal-o-ha, e porá a sua parte com os hypocritas: ali haverá pranto e ranger de dentes.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesus fala de acontecimentos futuros"
         }
       ]
     },
@@ -4730,6 +5222,20 @@
           "verse": 46,
           "text": "[J]E estes irão para o tormento eterno, mas os justos para a vida eterna.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A parábola das dez virgens"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A parábola dos três servos"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "O juízo final"
+        }
       ]
     },
     {
@@ -4785,7 +5291,7 @@
         {
           "chapter": 26,
           "verse": 10,
-          "text": "Jesus, porém, conhecendo isto, disse-lhes: Porque affligis esta mulher? pois praticou uma boa acção para comigo."
+          "text": "Jesus, porém, conhecendo isto, disse-lhes: [J]Porque affligis esta mulher? pois praticou uma boa acção para comigo.[/J]"
         },
         {
           "chapter": 26,
@@ -4825,7 +5331,7 @@
         {
           "chapter": 26,
           "verse": 18,
-          "text": "E elle disse: Ide á cidade a um certo homem, e dizei-lhe: O Mestre diz: O meu tempo está proximo; em tua casa celebro a paschoa com os meus discipulos."
+          "text": "E elle disse: [J]Ide á cidade a um certo homem, e dizei-lhe: O Mestre diz: O meu tempo está proximo; em tua casa celebro a paschoa com os meus discipulos.[/J]"
         },
         {
           "chapter": 26,
@@ -4840,7 +5346,7 @@
         {
           "chapter": 26,
           "verse": 21,
-          "text": "E, comendo elles, disse: Em verdade vos digo que um de vós me ha de trahir."
+          "text": "E, comendo elles, disse: [J]Em verdade vos digo que um de vós me ha de trahir.[/J]"
         },
         {
           "chapter": 26,
@@ -4850,7 +5356,7 @@
         {
           "chapter": 26,
           "verse": 23,
-          "text": "E elle, respondendo, disse: O que mette a mão no prato comigo, esse me ha de trahir."
+          "text": "E elle, respondendo, disse: [J]O que mette a mão no prato comigo, esse me ha de trahir.[/J]"
         },
         {
           "chapter": 26,
@@ -4860,17 +5366,17 @@
         {
           "chapter": 26,
           "verse": 25,
-          "text": "E, respondendo Judas, o que o trahia, disse: Porventura sou eu, Rabbi? Elle disse: Tu o disseste."
+          "text": "E, respondendo Judas, o que o trahia, disse: Porventura sou eu, Rabbi? Elle disse: [J]Tu o disseste.[/J]"
         },
         {
           "chapter": 26,
           "verse": 26,
-          "text": "E, quando comiam, Jesus tomou o pão, e, abençoando-o, o partiu, e o deu aos discipulos, e disse: Tomae, comei, isto é o meu corpo."
+          "text": "E, quando comiam, Jesus tomou o pão, e, abençoando-o, o partiu, e o deu aos discipulos, e disse: [J]Tomae, comei, isto é o meu corpo.[/J]"
         },
         {
           "chapter": 26,
           "verse": 27,
-          "text": "E, tomando o calix, e dando graças, deu-lh'o, dizendo: Bebei d'elle todos;"
+          "text": "E, tomando o calix, e dando graças, deu-lh'o, dizendo: [J]Bebei d'elle todos;[/J]"
         },
         {
           "chapter": 26,
@@ -4890,7 +5396,7 @@
         {
           "chapter": 26,
           "verse": 31,
-          "text": "Então Jesus lhes disse: Todos vós esta noite vos escandalizareis em mim; porque está escripto: Ferirei o pastor, e as ovelhas do rebanho se dispersarão."
+          "text": "Então Jesus lhes disse: [J]Todos vós esta noite vos escandalizareis em mim; porque está escripto: Ferirei o pastor, e as ovelhas do rebanho se dispersarão.[/J]"
         },
         {
           "chapter": 26,
@@ -4905,7 +5411,7 @@
         {
           "chapter": 26,
           "verse": 34,
-          "text": "[J]Disse-lhe Jesus: Em verdade te digo que, n'esta mesma noite, antes que o gallo cante, tres vezes me negarás.[/J]"
+          "text": "Disse-lhe Jesus: [J]Em verdade te digo que, n'esta mesma noite, antes que o gallo cante, tres vezes me negarás.[/J]"
         },
         {
           "chapter": 26,
@@ -4915,7 +5421,7 @@
         {
           "chapter": 26,
           "verse": 36,
-          "text": "Então chegou Jesus com elles a um logar chamado Gethsemane, e disse aos discipulos: Assentae-vos aqui, emquanto vou além, a orar."
+          "text": "Então chegou Jesus com elles a um logar chamado Gethsemane, e disse aos discipulos: [J]Assentae-vos aqui, emquanto vou além, a orar.[/J]"
         },
         {
           "chapter": 26,
@@ -4925,17 +5431,17 @@
         {
           "chapter": 26,
           "verse": 38,
-          "text": "Então lhes disse: A minha alma está cheia de tristeza até á morte; ficae aqui, e velae comigo."
+          "text": "Então lhes disse: [J]A minha alma está cheia de tristeza até á morte; ficae aqui, e velae comigo.[/J]"
         },
         {
           "chapter": 26,
           "verse": 39,
-          "text": "E, indo um pouco mais para diante, prostrou-se sobre o seu rosto, orando e dizendo: Meu Pae, se é possivel, passe de mim este calix; porém, não como eu quero, mas como tu queres."
+          "text": "E, indo um pouco mais para diante, prostrou-se sobre o seu rosto, orando e dizendo: [J]Meu Pae, se é possivel, passe de mim este calix; porém, não como eu quero, mas como tu queres.[/J]"
         },
         {
           "chapter": 26,
           "verse": 40,
-          "text": "E voltou para os seus discipulos, e achou-os adormecidos; e disse a Pedro: Então nem uma hora podeste velar comigo?"
+          "text": "E voltou para os seus discipulos, e achou-os adormecidos; e disse a Pedro: [J]Então nem uma hora podeste velar comigo?[/J]"
         },
         {
           "chapter": 26,
@@ -4945,7 +5451,7 @@
         {
           "chapter": 26,
           "verse": 42,
-          "text": "E, indo segunda vez, orou, dizendo: Meu Pae, se este calix não pode passar de mim sem eu o beber, faça-se a tua vontade."
+          "text": "E, indo segunda vez, orou, dizendo: [J]Meu Pae, se este calix não pode passar de mim sem eu o beber, faça-se a tua vontade.[/J]"
         },
         {
           "chapter": 26,
@@ -4960,7 +5466,7 @@
         {
           "chapter": 26,
           "verse": 45,
-          "text": "Então chegou junto dos seus discipulos, e disse-lhes: Dormi agora, e repousae; eis que é chegada a hora, e o Filho do homem será entregue nas mãos dos peccadores."
+          "text": "Então chegou junto dos seus discipulos, e disse-lhes: [J]Dormi agora, e repousae; eis que é chegada a hora, e o Filho do homem será entregue nas mãos dos peccadores.[/J]"
         },
         {
           "chapter": 26,
@@ -4985,7 +5491,7 @@
         {
           "chapter": 26,
           "verse": 50,
-          "text": "Jesus, porém, lhe disse: Amigo, a que vieste? Então, approximando-se, lançaram mão de Jesus, e prenderam-n'o."
+          "text": "Jesus, porém, lhe disse: [J]Amigo, a que vieste?[/J] Então, approximando-se, lançaram mão de Jesus, e prenderam-n'o."
         },
         {
           "chapter": 26,
@@ -4995,7 +5501,7 @@
         {
           "chapter": 26,
           "verse": 52,
-          "text": "[J]Então Jesus disse-lhe: Mette no seu logar a tua espada; porque todos os que lançarem mão da espada á espada morrerão.[/J]"
+          "text": "Então Jesus disse-lhe: [J]Mette no seu logar a tua espada; porque todos os que lançarem mão da espada á espada morrerão.[/J]"
         },
         {
           "chapter": 26,
@@ -5010,12 +5516,12 @@
         {
           "chapter": 26,
           "verse": 55,
-          "text": "Então disse Jesus á multidão: Saistes, como a um salteador, com espadas e varapaus para me prender? todos os dias me assentava junto de vós, ensinando no templo, e não me prendestes."
+          "text": "Então disse Jesus á multidão: [J]Saistes, como a um salteador, com espadas e varapaus para me prender? todos os dias me assentava junto de vós, ensinando no templo, e não me prendestes.[/J]"
         },
         {
           "chapter": 26,
           "verse": 56,
-          "text": "Mas tudo isto aconteceu para que se cumpram as escripturas dos prophetas. Então todos os discipulos, deixando-o, fugiram."
+          "text": "[J]Mas tudo isto aconteceu para que se cumpram as escripturas dos prophetas.[/J] Então todos os discipulos, deixando-o, fugiram."
         },
         {
           "chapter": 26,
@@ -5055,7 +5561,7 @@
         {
           "chapter": 26,
           "verse": 64,
-          "text": "[J]Disse-lhe Jesus: Tu o disseste; digo-vos, porém, que vereis em breve o Filho do homem assentado á direita da magestade divina, e vindo sobre as nuvens do céu.[/J]"
+          "text": "Disse-lhe Jesus: [J]Tu o disseste; digo-vos, porém, que vereis em breve o Filho do homem assentado á direita da magestade divina, e vindo sobre as nuvens do céu.[/J]"
         },
         {
           "chapter": 26,
@@ -5111,6 +5617,44 @@
           "chapter": 26,
           "verse": 75,
           "text": "E lembrou-se Pedro das palavras de Jesus, que lhe dissera: Antes que o gallo cante, tres vezes me negarás. E, saindo d'ali, chorou amargamente."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A conspiração para matar Jesus"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Jesus é ungido em Betânia"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Judas concorda em trair Jesus"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "A última Páscoa"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesus prediz a negação de Pedro"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Jesus ora no Getsêmani"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "Jesus é traído e preso"
+        },
+        {
+          "beforeVerse": 57,
+          "text": "O julgamento de Jesus diante do conselho"
+        },
+        {
+          "beforeVerse": 69,
+          "text": "Pedro nega Jesus"
         }
       ]
     },
@@ -5172,7 +5716,7 @@
         {
           "chapter": 27,
           "verse": 11,
-          "text": "E foi Jesus apresentado ao presidente, e o presidente o interrogou, dizendo: És tu o Rei dos judeos? E disse-lhe Jesus: Tu o dizes."
+          "text": "E foi Jesus apresentado ao presidente, e o presidente o interrogou, dizendo: És tu o Rei dos judeos? E disse-lhe Jesus: [J]Tu o dizes.[/J]"
         },
         {
           "chapter": 27,
@@ -5347,7 +5891,7 @@
         {
           "chapter": 27,
           "verse": 46,
-          "text": "E perto da hora nona exclamou Jesus em alta voz, dizendo: Eli, Eli, lama sabachthani; isto é, Deus meu, Deus meu, porque me desamparaste?"
+          "text": "E perto da hora nona exclamou Jesus em alta voz, dizendo: [J]Eli, Eli, lama sabachthani;[/J] isto é, Deus meu, Deus meu, porque me desamparaste?"
         },
         {
           "chapter": 27,
@@ -5449,6 +5993,36 @@
           "verse": 66,
           "text": "E, indo elles, seguraram o sepulchro com a guarda, sellando a pedra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Judas se enforca"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "O julgamento de Jesus diante de Pilatos"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Os soldados zombam de Jesus"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "A crucificação"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "A morte de Jesus"
+        },
+        {
+          "beforeVerse": 57,
+          "text": "O sepultamento de Jesus"
+        },
+        {
+          "beforeVerse": 62,
+          "text": "Os guardas no túmulo"
+        }
       ]
     },
     {
@@ -5499,12 +6073,12 @@
         {
           "chapter": 28,
           "verse": 9,
-          "text": "E, indo ellas annuncial-o aos seus discipulos, eis que Jesus lhes sae ao encontro, dizendo: Eu vos saúdo. E ellas, chegando, abraçaram os seus pés, e o adoraram."
+          "text": "E, indo ellas annuncial-o aos seus discipulos, eis que Jesus lhes sae ao encontro, dizendo: [J]Eu vos saúdo.[/J] E ellas, chegando, abraçaram os seus pés, e o adoraram."
         },
         {
           "chapter": 28,
           "verse": 10,
-          "text": "[J]Então Jesus disse-lhes: Não temaes; ide, e annunciae a meus irmãos que vão a Galilea, e lá me verão.[/J]"
+          "text": "Então Jesus disse-lhes: [J]Não temaes; ide, e annunciae a meus irmãos que vão a Galilea, e lá me verão.[/J]"
         },
         {
           "chapter": 28,
@@ -5544,7 +6118,7 @@
         {
           "chapter": 28,
           "verse": 18,
-          "text": "E, chegando-se Jesus, fallou-lhes, dizendo: É-me dado todo o poder no céu e na terra."
+          "text": "E, chegando-se Jesus, fallou-lhes, dizendo: [J]É-me dado todo o poder no céu e na terra.[/J]"
         },
         {
           "chapter": 28,
@@ -5554,7 +6128,21 @@
         {
           "chapter": 28,
           "verse": 20,
-          "text": "[J]Ensinando-as a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou comvosco todos os dias, até á consummação do mundo. Amen.[/J]"
+          "text": "[J]Ensinando-as a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou comvosco todos os dias, até á consummação do mundo.[/J] Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A ressurreição"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "O relato dos guardas"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "A Grande Comissão"
         }
       ]
     }

@@ -90,6 +90,16 @@
           "verse": 15,
           "text": "In the four and twentieth day of the sixth month, in the second year of Darius the king."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Call to Rebuild the Temple"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "The People Obey"
+        }
       ]
     },
     {
@@ -210,6 +220,20 @@
           "chapter": 2,
           "verse": 23,
           "text": "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "The Coming Glory of God’s House"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Blessings for a Defiled People"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Zerubbabel the LORD’s Signet Ring"
         }
       ]
     }

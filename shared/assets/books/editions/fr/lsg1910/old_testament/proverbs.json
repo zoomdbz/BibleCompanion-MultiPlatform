@@ -177,6 +177,20 @@
           "verse": 33,
           "text": "Mais celui qui m’écoute reposera avec assurance, Il vivra tranquille et sans craindre aucun mal."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le but du livre"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Mise en garde contre les mauvais garçons"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Appel et avertissement de la sagesse"
+        }
       ]
     },
     {
@@ -293,6 +307,16 @@
           "chapter": 2,
           "verse": 22,
           "text": "Mais les méchants seront retranchés du pays, Les infidèles en seront arrachés."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La sagesse, un trésor caché"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "La sagesse préserve du mal"
         }
       ]
     },
@@ -476,6 +500,24 @@
           "verse": 35,
           "text": "Les sages hériteront la gloire, Mais les insensés ont la honte en partage."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sagesse et crainte de Dieu"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "La sagesse, un bien plus précieux que l'or"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Dieu protège le sage"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Le sage et son prochain"
+        }
       ]
     },
     {
@@ -618,6 +660,20 @@
           "verse": 27,
           "text": "N’incline ni à droite ni à gauche, Et détourne ton pied du mal."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Acquérir et garder la sagesse"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Eviter le sentier des méchants"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Vertu et fermeté"
+        }
       ]
     },
     {
@@ -739,6 +795,16 @@
           "chapter": 5,
           "verse": 23,
           "text": "Il mourra faute d’instruction, Il chancellera par l’excès de sa folie."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mise en garde contre les séductrices"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Aimer la femme de sa jeunesse"
         }
       ]
     },
@@ -922,6 +988,28 @@
           "verse": 35,
           "text": "Il n’a égard à aucune rançon, Et il est inflexible, quand même tu multiplierais les dons."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les engagements inconsidérés"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Le paresseux et la fourmi"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Portrait de l'homme perfide"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Ce que Dieu déteste"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Mise en garde contre l'adultère"
+        }
       ]
     },
     {
@@ -1063,6 +1151,12 @@
           "chapter": 7,
           "verse": 27,
           "text": "Sa maison, c’est le chemin du séjour des morts; Il descend vers les demeures de la mort."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Une femme infidèle séduit un jeune homme"
         }
       ]
     },
@@ -1251,6 +1345,24 @@
           "verse": 36,
           "text": "Mais celui qui pèche contre moi nuit à son âme; Tous ceux qui me haïssent aiment la mort."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Nouvel appel de la sagesse"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La sagesse se présente"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "La sagesse aux origines"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Heureux celui qui écoute la sagesse"
+        }
       ]
     },
     {
@@ -1347,6 +1459,20 @@
           "chapter": 9,
           "verse": 18,
           "text": "Et il ne sait pas que là sont les morts, Et que ses invités sont dans les vallées du séjour des morts."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L'invitation de la sagesse"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "L'insolent et le sage"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "L'invitation de la femme stupide"
         }
       ]
     },
@@ -1515,6 +1641,12 @@
           "verse": 32,
           "text": "Les lèvres du juste connaissent la grâce, Et la bouche des méchants la perversité."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Collection de maximes diverses"
+        }
       ]
     },
     {
@@ -1677,7 +1809,8 @@
           "verse": 31,
           "text": "Voici, le juste reçoit sur la terre une rétribution; Combien plus le méchant et le pécheur!"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 12,
@@ -1824,7 +1957,8 @@
           "verse": 28,
           "text": "La vie est dans le sentier de la justice, La mort n’est pas dans le chemin qu’elle trace."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 13,
@@ -1956,7 +2090,8 @@
           "verse": 25,
           "text": "Le juste mange et satisfait son appétit, Mais le ventre des méchants éprouve la disette."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 14,
@@ -2138,7 +2273,8 @@
           "verse": 35,
           "text": "La faveur du roi est pour le serviteur prudent, Et sa colère pour celui qui fait honte."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 15,
@@ -2309,6 +2445,12 @@
           "chapter": 15,
           "verse": 33,
           "text": "La crainte de l’Éternel enseigne la sagesse, Et l’humilité précède la gloire."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 33,
+          "text": "Le\nSeigneur\net la vie quotidienne"
         }
       ]
     },
@@ -2482,6 +2624,16 @@
           "verse": 33,
           "text": "On jette le sort dans le pan de la robe, Mais toute décision vient de l’Éternel."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 10,
+          "text": "A propos des rois"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La vie sociale et morale"
+        }
       ]
     },
     {
@@ -2629,7 +2781,8 @@
           "verse": 28,
           "text": "L’insensé même, quand il se tait, passe pour sage; Celui qui ferme ses lèvres est un homme intelligent."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 18,
@@ -2756,7 +2909,8 @@
           "verse": 24,
           "text": "Celui qui a beaucoup d’amis les a pour son malheur, Mais il est tel ami plus attaché qu’un frère."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 19,
@@ -2908,7 +3062,8 @@
           "verse": 29,
           "text": "Les châtiments sont prêts pour les moqueurs, Et les coups pour le dos des insensés."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 20,
@@ -3065,7 +3220,8 @@
           "verse": 30,
           "text": "Les plaies d’une blessure sont un remède pour le méchant; De même les coups qui pénètrent jusqu’au fond des entrailles."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 21,
@@ -3227,7 +3383,8 @@
           "verse": 31,
           "text": "Le cheval est équipé pour le jour de la bataille, Mais la délivrance appartient à l’Éternel."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 22,
@@ -3378,6 +3535,12 @@
           "chapter": 22,
           "verse": 29,
           "text": "Si tu vois un homme habile dans son ouvrage, Il se tient auprès des rois; Il ne se tient pas auprès des gens obscurs."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 17,
+          "text": "Paroles des sages"
         }
       ]
     },
@@ -3561,6 +3724,16 @@
           "verse": 35,
           "text": "On m’a frappé,… je n’ai point de mal!… On m’a battu,… je ne sens rien!… Quand me réveillerai-je?… J’en veux encore!"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "Autres conseils"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Portrait de l'ivrogne"
+        }
       ]
     },
     {
@@ -3738,6 +3911,20 @@
           "verse": 34,
           "text": "Et la pauvreté te surprendra, comme un rôdeur, Et la disette, comme un homme en armes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le sage et le méchant"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Autres conseils des sages"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Le sort du paresseux"
+        }
       ]
     },
     {
@@ -3884,6 +4071,12 @@
           "chapter": 25,
           "verse": 28,
           "text": "Comme une ville forcée et sans murailles, Ainsi est l’homme qui n’est pas maître de lui-même."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Maximes diverses"
         }
       ]
     },
@@ -4032,6 +4225,20 @@
           "verse": 28,
           "text": "La langue fausse hait ceux qu’elle écrase, Et la bouche flatteuse prépare la ruine."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L'homme stupide"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Portrait du paresseux"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Autres maximes"
+        }
       ]
     },
     {
@@ -4174,7 +4381,8 @@
           "verse": 27,
           "text": "Le lait des chèvres suffit à ta nourriture, à celle de ta maison, Et à l’entretien de tes servantes."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 28,
@@ -4321,7 +4529,8 @@
           "verse": 28,
           "text": "Quand les méchants s’élèvent, chacun se cache; Et quand ils périssent, les justes se multiplient."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 29,
@@ -4463,7 +4672,8 @@
           "verse": 27,
           "text": "L’homme inique est en abomination aux justes, Et celui dont la voie est droite est en abomination aux méchants."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 30,
@@ -4635,6 +4845,16 @@
           "verse": 33,
           "text": "Car la pression du lait produit de la crème, La pression du nez produit du sang, Et la pression de la colère produit des querelles."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sentences d'Agour"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Proverbes numériques"
+        }
       ]
     },
     {
@@ -4796,6 +5016,16 @@
           "chapter": 31,
           "verse": 31,
           "text": "Récompensez-la du fruit de son travail, Et qu’aux portes ses œuvres la louent."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Conseils à un roi"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Portrait de la femme de valeur"
         }
       ]
     }

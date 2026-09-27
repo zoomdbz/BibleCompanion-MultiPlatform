@@ -14,6 +14,7 @@
 		E7B2C3D400000024 /* notes in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000015 /* notes */; };
 		E7B2C3D400000025 /* refs in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000016 /* refs */; };
 		E7B2C3D400000026 /* daily_verses in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000017 /* daily_verses */; };
+		E7B2C3D40000002B /* notifications in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D40000001D /* notifications */; };
 		E7B2C3D400000027 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000018 /* PrivacyInfo.xcprivacy */; };
 		E7B2C3D400000028 /* OnnxEncoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B2C3D400000019 /* OnnxEncoder.swift */; };
 		E7B2C3D400000029 /* embedding in Resources */ = {isa = PBXBuildFile; fileRef = E7B2C3D40000001A /* embedding */; };
@@ -32,6 +33,7 @@
 		E7B2C3D400000015 /* notes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = notes; path = ../shared/assets/notes; sourceTree = "<group>"; };
 		E7B2C3D400000016 /* refs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = refs; path = ../shared/assets/refs; sourceTree = "<group>"; };
 		E7B2C3D400000017 /* daily_verses */ = {isa = PBXFileReference; lastKnownFileType = folder; name = daily_verses; path = ../shared/assets/daily_verses; sourceTree = "<group>"; };
+		E7B2C3D40000001D /* notifications */ = {isa = PBXFileReference; lastKnownFileType = folder; name = notifications; path = ../shared/assets/notifications; sourceTree = "<group>"; };
 		E7B2C3D400000018 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		E7B2C3D400000019 /* OnnxEncoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnnxEncoder.swift; sourceTree = "<group>"; };
 		E7B2C3D40000001A /* embedding */ = {isa = PBXFileReference; lastKnownFileType = folder; name = embedding; path = ../embedding-assets/src/main/assets/embedding; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				E7B2C3D400000015 /* notes */,
 				E7B2C3D400000016 /* refs */,
 				E7B2C3D400000017 /* daily_verses */,
+				E7B2C3D40000001D /* notifications */,
 				E7B2C3D40000001A /* embedding */,
 				E7B2C3D400000032 /* Products */,
 			);
@@ -194,6 +197,7 @@
 				E7B2C3D400000024 /* notes in Resources */,
 				E7B2C3D400000025 /* refs in Resources */,
 				E7B2C3D400000026 /* daily_verses in Resources */,
+				E7B2C3D40000002B /* notifications in Resources */,
 				E7B2C3D400000027 /* PrivacyInfo.xcprivacy in Resources */,
 				E7B2C3D400000029 /* embedding in Resources */,
 				E7B2C3D500000201 /* InfoPlist.strings in Resources */,

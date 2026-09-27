@@ -87,6 +87,16 @@
           "verse": 15,
           "text": "Ao vigesimo quarto dia do sexto mez, no segundo anno do rei Dario."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Chamado para reconstruir o templo"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Obediência ao chamado de Deus"
+        }
       ]
     },
     {
@@ -208,6 +218,20 @@
           "chapter": 2,
           "verse": 23,
           "text": "N'aquelle dia, diz o Senhor dos Exercitos, te tomarei, ó Zorobabel, filho de Sealtiel, servo meu, diz o Senhor, e te farei como um annel de sellar; porque te escolhi, diz o Senhor dos Exercitos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O esplendor menor do novo templo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Bênçãos prometidas aos obedientes"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Promessas para Zorobabel"
         }
       ]
     }

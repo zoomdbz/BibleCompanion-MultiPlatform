@@ -87,6 +87,12 @@
           "verse": 15,
           "text": "le vingt-quatrième jour du sixième mois, la seconde année du roi Darius."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le temps est venu de rebâtir le temple"
+        }
       ]
     },
     {
@@ -208,6 +214,24 @@
           "chapter": 2,
           "verse": 23,
           "text": "En ce jour-là, dit l’Éternel des armées, Je te prendrai, Zorobabel, fils de Schealthiel, Mon serviteur, dit l’Éternel, Et je te garderai comme un sceau; Car je t’ai choisi, dit l’Éternel des armées."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La splendeur du nouveau temple"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Le peuple en état d'impureté"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "A partir de ce jour"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Promesses à Zorobabel"
         }
       ]
     }

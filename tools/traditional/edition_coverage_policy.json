@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 1,
+  "policyDate": "2026-09-26",
+  "description": "Offline source of truth for traditional-edition identity and OT, NT, and Deuterocanon coverage. A mapped book is source-backed; a fallback book is not part of the named traditional edition.",
+  "collections": {
+    "old_testament": [
+      "genesis",
+      "exodus",
+      "leviticus",
+      "numbers",
+      "deuteronomy",
+      "joshua",
+      "judges",
+      "ruth",
+      "1_samuel",
+      "2_samuel",
+      "1_kings",
+      "2_kings",
+      "1_chronicles",
+      "2_chronicles",
+      "ezra",
+      "nehemiah",
+      "esther",
+      "job",
+      "psalms",
+      "proverbs",
+      "ecclesiastes",
+      "song_of_songs",
+      "isaiah",
+      "jeremiah",
+      "lamentations",
+      "ezekiel",
+      "daniel",
+      "hosea",
+      "joel",
+      "amos",
+      "obadiah",
+      "jonah",
+      "micah",
+      "nahum",
+      "habakkuk",
+      "zephaniah",
+      "haggai",
+      "zechariah",
+      "malachi"
+    ],
+    "new_testament": [
+      "matthew",
+      "mark",
+      "luke",
+      "john",
+      "acts",
+      "romans",
+      "1_corinthians",
+      "2_corinthians",
+      "galatians",
+      "ephesians",
+      "philippians",
+      "colossians",
+      "1_thessalonians",
+      "2_thessalonians",
+      "1_timothy",
+      "2_timothy",
+      "titus",
+      "philemon",
+      "hebrews",
+      "james",
+      "1_peter",
+      "2_peter",
+      "1_john",
+      "2_john",
+      "3_john",
+      "jude",
+      "revelation"
+    ],
+    "deuterocanonical": [
+      "tobit",
+      "judith",
+      "wisdom",
+      "sirach",
+      "baruch",
+      "letter_of_jeremiah",
+      "prayer_of_manasseh",
+      "1_maccabees",
+      "2_maccabees",
+      "1_esdras",
+      "2_esdras",
+      "song_of_three",
+      "susanna",
+      "bel_and_the_dragon",
+      "esther_greek",
+      "psalm_151",
+      "3_maccabees",
+      "4_maccabees"
+    ]
+  },
+  "coverageProfiles": {
+    "protestant_66_with_dc_fallback": {
+      "reason": "The pinned source for each named edition contains the 66-book Protestant canon. Deuterocanonical text from a different edition has a distinct edition identity and cannot be relabeled as the named edition, so all 18 books remain explicit current-edition fallbacks.",
+      "collections": {
+        "old_testament": {
+          "full": "$all"
+        },
+        "new_testament": {
+          "full": "$all"
+        },
+        "deuterocanonical": {
+          "fallback": "$all"
+        }
+      },
+      "summary": {
+        "canonicalSourceBacked": 66,
+        "deuterocanonicalSourceBacked": 0,
+        "deuterocanonicalMapped": 0,
+        "deuterocanonicalFallback": 18
+      }
+    },
+    "kjv_with_apocrypha": {
+      "reason": "The pinned KJV/KJVA source directly supplies 12 app Deuterocanon books and supplies 2 more through reviewed mappings. The remaining 4 books are explicit current-edition fallbacks.",
+      "collections": {
+        "old_testament": {
+          "full": "$all"
+        },
+        "new_testament": {
+          "full": "$all"
+        },
+        "deuterocanonical": {
+          "full": [
+            "tobit",
+            "judith",
+            "wisdom",
+            "sirach",
+            "prayer_of_manasseh",
+            "1_maccabees",
+            "2_maccabees",
+            "1_esdras",
+            "2_esdras",
+            "song_of_three",
+            "susanna",
+            "bel_and_the_dragon"
+          ],
+          "mapped": [
+            "baruch",
+            "letter_of_jeremiah"
+          ],
+          "fallback": [
+            "esther_greek",
+            "psalm_151",
+            "3_maccabees",
+            "4_maccabees"
+          ]
+        }
+      },
+      "summary": {
+        "canonicalSourceBacked": 66,
+        "deuterocanonicalSourceBacked": 14,
+        "deuterocanonicalMapped": 2,
+        "deuterocanonicalFallback": 4
+      }
+    },
+    "synodal_66_plus_reviewed_dc": {
+      "reason": "The primary Russian Synodal archive is a 66-book source. The separately pinned RusSynodal 1.9.1 source supplies 13 reviewed Deuterocanon books; the other 5 remain explicit current-edition fallbacks.",
+      "collections": {
+        "old_testament": {
+          "full": "$all"
+        },
+        "new_testament": {
+          "full": "$all"
+        },
+        "deuterocanonical": {
+          "full": [
+            "tobit",
+            "judith",
+            "wisdom",
+            "sirach",
+            "baruch",
+            "letter_of_jeremiah",
+            "1_maccabees",
+            "2_maccabees",
+            "3_maccabees",
+            "1_esdras",
+            "susanna",
+            "bel_and_the_dragon",
+            "psalm_151"
+          ],
+          "fallback": [
+            "prayer_of_manasseh",
+            "4_maccabees",
+            "2_esdras",
+            "esther_greek",
+            "song_of_three"
+          ]
+        }
+      },
+      "summary": {
+        "canonicalSourceBacked": 66,
+        "deuterocanonicalSourceBacked": 13,
+        "deuterocanonicalMapped": 0,
+        "deuterocanonicalFallback": 5
+      }
+    }
+  },
+  "languages": [
+    {
+      "language": "en",
+      "status": "edition",
+      "editionId": "kjv1769",
+      "displayName": "King James Version",
+      "manifest": "shared/assets/books/editions/en/kjv1769/_manifest.json",
+      "coverageProfile": "kjv_with_apocrypha",
+      "sourcePins": [
+        {
+          "role": "canonical_and_deuterocanonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "King James Version + Apocrypha",
+            "url": "https://ebible.org/Scriptures/eng-kjv_usfm.zip",
+            "archiveSha256": "1BAB5D4D030439831FC0B39D7F11001DD8527FC6277405E7F6512273C200C3A4",
+            "extractedScriptureFileSetSha256": "07378DB0B11E8B882841729544F55B7BC6D543BAF855D14CC0FF6B120ABB061F"
+          }
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "status": "edition",
+      "editionId": "van_dyck",
+      "displayName": "Arabic Van Dyck Bible",
+      "manifest": "shared/assets/books/editions/ar/van_dyck/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Arabic Van Dyck Bible",
+            "url": "https://ebible.org/Scriptures/arb-vd_usfm.zip",
+            "archiveSha256": "E4A2AB9491B2AC2FF799BB2A80EC9322203A7C36E78210B4506DF84308C54948",
+            "extractedScriptureFileSetSha256": "7D8D0746816BC04BB925D04941BCDF3ABA39E77643A3C55DA7065FA03662E3B8"
+          }
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "status": "edition",
+      "editionId": "luther1912",
+      "displayName": "Lutherbibel 1912",
+      "manifest": "shared/assets/books/editions/de/luther1912/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Lutherbibel 1912",
+            "url": "https://ebible.org/Scriptures/deu1912_usfm.zip",
+            "archiveSha256": "650A8192134A8F0057286C469754EDCFAEE4FBB18800621AEE4563F3055BB39B",
+            "extractedScriptureFileSetSha256": "0C2143DD241453827A98988DEE5BF7B809F27B481678786E504597FFA0720C66"
+          }
+        }
+      ]
+    },
+    {
+      "language": "es",
+      "status": "edition",
+      "editionId": "rv1909",
+      "displayName": "Reina-Valera 1909",
+      "manifest": "shared/assets/books/editions/es/rv1909/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Santa Biblia - Reina-Valera 1909",
+            "url": "https://ebible.org/Scriptures/spaRV1909_usfm.zip",
+            "archiveSha256": "B5BFAC87199A561FCBACB5E32BE5D8D280934B1C6830088D9EB8C68FFBFBE711",
+            "extractedScriptureFileSetSha256": "E560C34AF2D1E87FCDE6524A2ACB2649D008090AAE195AFA8CF34B2685D9F2B4"
+          }
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "status": "edition",
+      "editionId": "lsg1910",
+      "displayName": "Louis Segond 1910",
+      "manifest": "shared/assets/books/editions/fr/lsg1910/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Bible Louis Segond 1910",
+            "url": "https://ebible.org/Scriptures/fraLSG_usfm.zip",
+            "archiveSha256": "3A0615E992FFD412B1AFCAED50D146BBA5EC8AE2378F04CA71459A4CD2D7CC33",
+            "extractedScriptureFileSetSha256": "6AE72F705C1D63EFA9AA7E3C4069D3329BF84CF7EEE6BEC2DF395F944539AF14"
+          }
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "status": "edition",
+      "editionId": "diodati1885",
+      "displayName": "Diodati 1885",
+      "manifest": "shared/assets/books/editions/it/diodati1885/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Diodati Bibbia 1885",
+            "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+            "archiveSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+            "extractedScriptureFileSetSha256": "1CD9323E421437D058B587FC41386034380540C39C32F84E58AF94BFEC6616FE"
+          }
+        }
+      ]
+    },
+    {
+      "language": "ja",
+      "status": "edition",
+      "editionId": "bungo",
+      "displayName": "Japanese Bungo Bible",
+      "manifest": "shared/assets/books/editions/ja/bungo/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Meiji Old Testament (1953 base text) and Taisho Revised New Testament",
+            "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/JapBungo.zip",
+            "archiveSha256": "1ACC5048206BA75ADE77B3CB146568809A28151A53CE314CFC721D080ACA75E6"
+          }
+        }
+      ]
+    },
+    {
+      "language": "ko",
+      "status": "edition",
+      "editionId": "korrv",
+      "displayName": "Korean Revised Version 1961",
+      "manifest": "shared/assets/books/editions/ko/korrv/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical_wording",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Korean Revised Version 1961 (KRV)",
+            "url": "https://raw.githubusercontent.com/bluesaurel/Korean-Bible-1961-KRV/2fdb91e77d323b99bacaa9b61fc18f318b703240/bible_1961_krv.json",
+            "sourceFileSha256": "65C6D99F80A5A47B9C0D144F313AC533F482454F336D3A82FC1DCEDB020612E2"
+          }
+        },
+        {
+          "role": "canonical_verse_structure_only",
+          "location": "manifest.source.auxiliary",
+          "expectedFields": {
+            "title": "KRV 1961 HolyBible transcription and native merged-verse markers",
+            "url": "https://raw.githubusercontent.com/crizin/bible-db/4bcb50b3ead59d20b4a6b847f5c79ab4cdba6a2c/data/krv/krv_holybible.jsonl",
+            "sourceFileSha256": "FD40780326E24EFE9E16EFB775DB39DDF6F5D0980A97344DE618533D5A6663C1"
+          }
+        }
+      ]
+    },
+    {
+      "language": "pt",
+      "status": "edition",
+      "editionId": "almeida1911",
+      "displayName": "Almeida 1911",
+      "manifest": "shared/assets/books/editions/pt/almeida1911/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "De 1911 Biblia Sagrada Traduzida em Portuguez por Joao Ferreira d'Almeida",
+            "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/PorAlmeida1911.zip",
+            "archiveSha256": "C67FCF72F22A7916B695034F2DA48C10E38432463AA6C60F6CB48F992ACE5FDA"
+          }
+        }
+      ]
+    },
+    {
+      "language": "ru",
+      "status": "edition",
+      "editionId": "synodal1876",
+      "displayName": "Russian Synodal Bible 1876",
+      "manifest": "shared/assets/books/editions/ru/synodal1876/_manifest.json",
+      "coverageProfile": "synodal_66_plus_reviewed_dc",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Russian Synodal Bible 1876",
+            "url": "https://ebible.org/Scriptures/russyn_usfm.zip",
+            "archiveSha256": "ACD5D80C0D28CA72D17CB12A2BB9F561D957439B03BDDFAA433BEB51CF7B0363",
+            "extractedScriptureFileSetSha256": "03B693E53BA470E34F2B9409D06AFB8980181D995A19DE32ABDD982867DB9E3D"
+          }
+        },
+        {
+          "role": "deuterocanonical",
+          "location": "sourceBacked.deuterocanonical.sourceProof",
+          "expectedFields": {
+            "sourceTitle": "1876 Russian Synodal Bible",
+            "module": "RusSynodal",
+            "moduleVersion": "1.9.1",
+            "archiveUrl": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/RusSynodal.zip",
+            "archiveSha256": "B802570E1783C326552B9E810786EFE3DF4EFCD615F28CCF3A86BAE27DBC5022"
+          }
+        }
+      ]
+    },
+    {
+      "language": "zh-Hans",
+      "status": "edition",
+      "editionId": "cuv",
+      "displayName": "Chinese Union Version (Simplified)",
+      "manifest": "shared/assets/books/editions/zh-Hans/cuv/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Chinese Union Version, New Punctuation, simplified script",
+            "url": "https://ebible.org/Scriptures/cmn-cu89s_usfm.zip",
+            "archiveSha256": "68DF122E9195E071DC286F19EF53E530FCAADB3A16A7DC34B8430B7062F70598",
+            "extractedScriptureFileSetSha256": "C4BF76BFF18E0FDF6E153581C46B644AB7B8275C1945C45A714A0A5F9EA8DC3A"
+          }
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "status": "edition",
+      "editionId": "cuv",
+      "displayName": "Chinese Union Version (Traditional)",
+      "manifest": "shared/assets/books/editions/zh-Hant/cuv/_manifest.json",
+      "coverageProfile": "protestant_66_with_dc_fallback",
+      "sourcePins": [
+        {
+          "role": "canonical",
+          "location": "manifest.source",
+          "expectedFields": {
+            "title": "Chinese Union Version, New Punctuation, traditional script",
+            "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+            "archiveSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+            "extractedScriptureFileSetSha256": "D11926D1600AA877D592FC34AF9766FDC5F77B906E3C3BB3D75349CC90647647"
+          }
+        }
+      ]
+    },
+    {
+      "language": "hi",
+      "status": "absent",
+      "reason": "No complete redistributable traditional Hindi digital edition passed source and rights review. HINOVBSI requires Bible Society of India authorization; IRV must not be relabeled and synthetic traditional text is forbidden.",
+      "editionDirectoryMustBeAbsent": true
+    }
+  ],
+  "reviewedAlternateSources": {
+    "rule": "Every source below has a distinct edition identity and is not approved as drop-in text for an existing named overlay. A future use requires a separate edition identity, complete provenance, license clearance, and its own manifest.",
+    "sources": [
+      {
+        "sourceKey": "SpaPlatense",
+        "identity": "Spanish Biblia Platense 1948",
+        "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/SpaPlatense.zip",
+        "archiveSha256": "B0D53A5964F9229B5766FDF7C9293E6939B6A02BAAB1D246BCE09A0F1CDC1EFF",
+        "targetEdition": "es/rv1909",
+        "distinctEditionIdentity": true,
+        "approvedAsDropIn": false,
+        "disposition": "Public-domain source, but it is Biblia Platense, not Reina-Valera 1909."
+      },
+      {
+        "sourceKey": "FreCrampon",
+        "identity": "French Crampon 1923",
+        "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/FreCrampon.zip",
+        "archiveSha256": "B0C9914EA1229A84F5614A84657DB9B70214164507B0034872258C344F2A00A7",
+        "targetEdition": "fr/lsg1910",
+        "distinctEditionIdentity": true,
+        "approvedAsDropIn": false,
+        "disposition": "Public-domain source, but it is Crampon 1923, not Louis Segond 1910."
+      },
+      {
+        "sourceKey": "FreVulgGlaire",
+        "identity": "French Glaire Vulgate",
+        "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/FreVulgGlaire.zip",
+        "archiveSha256": "1E2AC0C23E854B806D37F130EFF7BAD291B53EC043653FE71FF8521CBED7430E",
+        "targetEdition": "fr/lsg1910",
+        "distinctEditionIdentity": true,
+        "approvedAsDropIn": false,
+        "disposition": "Public-domain source, but it is a Glaire/Vulgate edition, not Louis Segond 1910."
+      },
+      {
+        "sourceKey": "ChiSB",
+        "identity": "Chinese Studium Biblicum",
+        "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/ChiSB.zip",
+        "archiveSha256": "64552E1EBD4DB3EFFF030C296625108D7ED9C7573DB1ABC217749C146F69BAE6",
+        "targetEdition": "zh-Hant/cuv",
+        "distinctEditionIdentity": true,
+        "approvedAsDropIn": false,
+        "disposition": "Public-domain source, but Studium Biblicum is not the Chinese Union Version."
+      },
+      {
+        "sourceKey": "PorCap",
+        "identity": "Portuguese Capuchin Bible",
+        "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/PorCap.zip",
+        "targetEdition": "pt/almeida1911",
+        "distinctEditionIdentity": true,
+        "approvedAsDropIn": false,
+        "disposition": "Distinct edition; its license permits noncommercial CrossWire distribution only and does not grant other redistribution."
+      },
+      {
+        "sourceKey": "HINOVBSI",
+        "identity": "Hindi Old Version, Bible Society of India",
+        "targetEdition": null,
+        "distinctEditionIdentity": true,
+        "approvedAsDropIn": false,
+        "disposition": "Potential traditional Hindi edition only with publisher authorization; it cannot be relabeled as IRV."
+      }
+    ],
+    "noRedistributableDcCompanionFound": [
+      "ar/van_dyck",
+      "de/luther1912",
+      "it/diodati1885",
+      "ja/bungo",
+      "ko/korrv"
+    ]
+  }
+}

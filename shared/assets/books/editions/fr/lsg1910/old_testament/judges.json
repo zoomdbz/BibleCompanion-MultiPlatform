@@ -192,6 +192,12 @@
           "verse": 36,
           "text": "Le territoire des Amoréens s’étendait depuis la montée d’Akrabbim, depuis Séla, et en dessus."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Israël s'installe en Canaan"
+        }
       ]
     },
     {
@@ -313,6 +319,24 @@
           "chapter": 2,
           "verse": 23,
           "text": "Et l’Éternel laissa en repos ces nations qu’il n’avait pas livrées entre les mains de Josué, et il ne se hâta point de les chasser."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Reproches du\nSeigneur\nà son peuple"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "La mort de Josué"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Infidélité, détresse, délivrance"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Dieu met Israël à l'épreuve"
         }
       ]
     },
@@ -476,6 +500,20 @@
           "verse": 31,
           "text": "Après lui, il y eut Schamgar, fils d’Anath. Il battit six cents hommes des Philistins avec un aiguillon à bœufs. Et lui aussi fut un libérateur d’Israël."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "LES AVENTURES DES JUGES\nOtniel"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Ehoud"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Shamgar"
+        }
       ]
     },
     {
@@ -602,6 +640,12 @@
           "chapter": 4,
           "verse": 24,
           "text": "Et la main des enfants d’Israël s’appesantit de plus en plus sur Jabin, roi de Canaan, jusqu’à ce qu’ils eussent exterminé Jabin, roi de Canaan."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Débora et Baraq"
         }
       ]
     },
@@ -764,6 +808,12 @@
           "chapter": 5,
           "verse": 31,
           "text": "Périssent ainsi tous tes ennemis, ô Éternel! Ceux qui l’aiment sont comme le soleil, Quand il paraît dans sa force. Le pays fut en repos pendant quarante ans."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le chant de Débora"
         }
       ]
     },
@@ -972,6 +1022,24 @@
           "verse": 40,
           "text": "Et Dieu fit ainsi cette nuit-là. La toison seule resta sèche, et tout le terrain se couvrit de rosée."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Madiân opprime Israël"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Dieu charge Gédéon de sauver Israël"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Gédéon démolit l'autel du Baal"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Gédéon demande à Dieu une garantie"
+        }
       ]
     },
     {
@@ -1103,6 +1171,20 @@
           "chapter": 7,
           "verse": 25,
           "text": "Ils saisirent deux chefs de Madian, Oreb et Zeeb; ils tuèrent Oreb au rocher d’Oreb, et ils tuèrent Zeeb au pressoir de Zeeb. Ils poursuivirent Madian, et ils apportèrent les têtes d’Oreb et de Zeeb à Gédéon de l’autre côté du Jourdain."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Trois cents hommes pour Gédéon"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Présage de victoire"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Déroute des Madianites"
         }
       ]
     },
@@ -1285,6 +1367,20 @@
           "chapter": 8,
           "verse": 35,
           "text": "Et ils n’eurent point d’attachement pour la maison de Jerubbaal, de Gédéon, après tout le bien qu’il avait fait à Israël."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mécontentement des Ephraïmites"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Gédéon en Transjordanie"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Fin de la vie de Gédéon"
         }
       ]
     },
@@ -1578,6 +1674,24 @@
           "verse": 57,
           "text": "et Dieu fit retomber sur la tête des gens de Sichem tout le mal qu’ils avaient fait. Ainsi s’accomplit sur eux la malédiction de Jotham, fils de Jerubbaal."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abimélek devient roi à Sichem"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "La fable de Jotam"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "La révolte de Sichem contre Abimélek"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "Mort d'Abimélek"
+        }
       ]
     },
     {
@@ -1674,6 +1788,16 @@
           "chapter": 10,
           "verse": 18,
           "text": "Le peuple, les chefs de Galaad se dirent l’un à l’autre: Quel est l’homme qui commencera l’attaque contre les fils d’Ammon? Il sera chef de tous les habitants de Galaad."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Autres juges : Tola, Yaïr"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Les Ammonites attaquent Israël"
         }
       ]
     },
@@ -1882,6 +2006,20 @@
           "verse": 40,
           "text": "que tous les ans les filles d’Israël s’en vont célébrer la fille de Jephthé, le Galaadite, quatre jours par année."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jephté devient chef d'Israël"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Messages de Jephté aux Ammonites"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Le vœu de Jephté"
+        }
       ]
     },
     {
@@ -1963,6 +2101,16 @@
           "chapter": 12,
           "verse": 15,
           "text": "puis Abdon, fils d’Hillel, le Pirathonite, mourut, et fut enterré à Pirathon, dans le pays d’Éphraïm, sur la montagne des Amalécites."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Conflit des Ephraïmites avec Jephté"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Ibtsân, Elôn et Abdôn"
         }
       ]
     },
@@ -2096,6 +2244,12 @@
           "verse": 25,
           "text": "Et l’Esprit de l’Éternel commença à l’agiter à Machané-Dan, entre Tsorea et Eschthaol."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Naissance de Samson"
+        }
       ]
     },
     {
@@ -2203,6 +2357,16 @@
           "verse": 20,
           "text": "Sa femme fut donnée à l’un de ses compagnons, avec lequel il était lié."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mariage de Samson"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Samson propose une énigme aux Philistins"
+        }
       ]
     },
     {
@@ -2309,6 +2473,16 @@
           "chapter": 15,
           "verse": 20,
           "text": "Samson fut juge en Israël, au temps des Philistins, pendant vingt ans."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La vengeance de Samson"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Samson et la mâchoire d'âne"
         }
       ]
     },
@@ -2472,6 +2646,20 @@
           "verse": 31,
           "text": "Ses frères et toute la maison de son père descendirent, et l’emportèrent. Lorsqu’ils furent remontés, ils l’enterrèrent entre Tsorea et Eschthaol dans le sépulcre de Manoach, son père. Il avait été juge en Israël pendant vingt ans."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Samson et les portes de Gaza"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Dalila trahit Samson"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Dernier exploit et mort de Samson"
+        }
       ]
     },
     {
@@ -2543,6 +2731,12 @@
           "chapter": 17,
           "verse": 13,
           "text": "Et Mica dit: Maintenant, je sais que l’Éternel me fera du bien, puisque j’ai ce Lévite pour prêtre."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "LE TEMPS DES JUGES : AUTRES RÉCITS\nMichée et son sanctuaire privé"
         }
       ]
     },
@@ -2706,6 +2900,16 @@
           "verse": 31,
           "text": "Ils établirent pour eux l’image taillée qu’avait faite Mica, pendant tout le temps que la maison de Dieu fut à Silo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les Danites changent de territoire"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "La ville de Dan et son sanctuaire"
+        }
       ]
     },
     {
@@ -2862,6 +3066,12 @@
           "chapter": 19,
           "verse": 30,
           "text": "Tous ceux qui virent cela dirent: Jamais rien de pareil n’est arrivé et ne s’est vu depuis que les enfants d’Israël sont montés du pays d’Égypte jusqu’à ce jour; prenez la chose à cœur, consultez-vous, et parlez!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le crime des Benjaminites de Guibéa"
         }
       ]
     },
@@ -3110,6 +3320,12 @@
           "verse": 48,
           "text": "Les hommes d’Israël revinrent vers les fils de Benjamin, et ils les frappèrent du tranchant de l’épée, depuis les hommes des villes jusqu’au bétail, et tout ce que l’on trouva. Ils mirent aussi le feu à toutes les villes qui existaient."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Guerre punitive contre Benjamin"
+        }
       ]
     },
     {
@@ -3241,6 +3457,12 @@
           "chapter": 21,
           "verse": 25,
           "text": "En ce temps-là, il n’y avait point de roi en Israël. Chacun faisait ce qui lui semblait bon."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Renaissance de la tribu de Benjamin"
         }
       ]
     }

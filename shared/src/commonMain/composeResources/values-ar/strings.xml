@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">دليل قراءة منظّم مع التعابير العبرية وصلات الأعياد</string>
     <string name="prophecy_revelation_timeline">الجدول الزمني لسفر الرؤيا</string>
     <string name="prophecy_revelation_timeline_desc">الأختام والأبواق والجامات وعودة المسيح والملك الألفي وأورشليم الجديدة</string>
+    <string name="prophecy_second_coming_rapture">المجيء الثاني والاختطاف</string>
+    <string name="prophecy_second_coming_rapture_desc">عودة المسيح والقيامة واجتماع المؤمنين والغضب وأهم الآراء حول التوقيت</string>
     <!-- Data -->
     <string name="data_section">البيانات</string>
     <string name="data_section_desc">انقل الإشارات المرجعية والآيات المحفوظة والتمييزات والتصنيفات بين الأجهزة. اضغط على تصدير لنسخ بياناتك إلى الحافظة، ثم الصقها في استيراد على جهازك الآخر. الإعدادات والتفضيلات غير مضمنة.</string>
@@ -372,4 +374,12 @@
     <string name="chronology_gospel_journey">الطريق إلى أورشليم والخدمة في اليهودية</string>
     <string name="chronology_gospel_final_week">الأسبوع الأخير والصلب</string>
     <string name="chronology_gospel_resurrection">القيامة</string>
+    <string name="daily_notification_title">الإشعارات</string>
+    <string name="daily_notification_toggle">آية يومية</string>
+    <string name="daily_notification_desc">تلقَّ آية في التوقيت المحلي الذي تختاره. اضغط على الإشعار لقراءتها، أو اختر النسخ أو المشاركة. قد يتأخر وصول الإشعار بسبب إعدادات الجهاز.</string>
+    <string name="daily_notification_time">وقت الإشعار</string>
+    <string name="daily_notification_save">حفظ الوقت</string>
+    <string name="daily_notification_ios_window">يُجدول iOS الآيات لمدة تصل إلى 60 يومًا. افتح التطبيق بانتظام لتجديد القائمة.</string>
+    <string name="daily_notification_permission_denied">الإشعارات محظورة. اسمح بها في إعدادات جهازك، ثم فعّل هذا الخيار مجددًا.</string>
+    <string name="daily_notification_system_settings">إعدادات إشعارات الجهاز</string>
 </resources>

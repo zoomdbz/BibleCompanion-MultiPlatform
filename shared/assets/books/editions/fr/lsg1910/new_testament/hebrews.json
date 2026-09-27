@@ -82,6 +82,16 @@
           "verse": 14,
           "text": "Ne sont-ils pas tous des esprits au service de Dieu, envoyés pour exercer un ministère en faveur de ceux qui doivent hériter du salut?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prologue"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Le Fils supérieur aux anges"
+        }
       ]
     },
     {
@@ -179,7 +189,8 @@
           "verse": 18,
           "text": "car, ayant été tenté lui-même dans ce qu’il a souffert, il peut secourir ceux qui sont tentés."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 3,
@@ -281,6 +292,16 @@
           "verse": 19,
           "text": "Aussi voyons-nous qu’ils ne purent y entrer à cause de leur incrédulité."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jésus et Moïse"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Mise en garde contre l'infidélité"
+        }
       ]
     },
     {
@@ -368,6 +389,12 @@
           "verse": 16,
           "text": "Approchons-nous donc avec assurance du trône de la grâce, afin d’obtenir miséricorde et de trouver grâce, pour être secourus dans nos besoins."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 14,
+          "text": "Jésus, grand prêtre compatissant"
+        }
       ]
     },
     {
@@ -444,6 +471,12 @@
           "chapter": 5,
           "verse": 14,
           "text": "Mais la nourriture solide est pour les hommes faits, pour ceux dont le jugement est exercé par l’usage à discerner ce qui est bien et ce qui est mal."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 11,
+          "text": "Un sujet difficile"
         }
       ]
     },
@@ -552,7 +585,8 @@
           "verse": 20,
           "text": "là où Jésus est entré pour nous comme précurseur, ayant été fait souverain sacrificateur pour toujours, selon l’ordre de Melchisédek."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 7,
@@ -699,6 +733,12 @@
           "verse": 28,
           "text": "En effet, la loi établit souverains sacrificateurs des hommes sujets à la faiblesse; mais la parole du serment qui a été fait après la loi établit le Fils, qui est parfait pour l’éternité."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Un grand prêtre selon l'ordre de Melchisédek"
+        }
       ]
     },
     {
@@ -770,6 +810,12 @@
           "chapter": 8,
           "verse": 13,
           "text": "En disant: une alliance nouvelle, il a déclaré la première ancienne; or, ce qui est ancien, ce qui a vieilli, est près de disparaître."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le culte ancien dépassé"
         }
       ]
     },
@@ -918,6 +964,12 @@
           "verse": 28,
           "text": "de même Christ, qui s’est offert une seule fois pour porter les péchés de plusieurs, apparaîtra sans péché une seconde fois à ceux qui l’attendent pour leur salut."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 11,
+          "text": "Supériorité du culte nouveau"
+        }
       ]
     },
     {
@@ -953,12 +1005,12 @@
         {
           "chapter": 10,
           "verse": 6,
-          "text": "[J]tu n’as agréé ni holocaustes ni sacrifices pour le péché.[/J]"
+          "text": "tu n’as agréé ni holocaustes ni sacrifices pour le péché."
         },
         {
           "chapter": 10,
           "verse": 7,
-          "text": "[J]Alors j’ai dit: voici, je viens (Dans le rouleau du livre il est question de moi) pour faire, ô Dieu, ta volonté.[/J]"
+          "text": "Alors j’ai dit: voici, je viens (Dans le rouleau du livre il est question de moi) pour faire, ô Dieu, ta volonté."
         },
         {
           "chapter": 10,
@@ -1119,6 +1171,12 @@
           "chapter": 10,
           "verse": 39,
           "text": "Nous, nous ne sommes pas de ceux qui se retirent pour se perdre, mais de ceux qui ont la foi pour sauver leur âme."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 19,
+          "text": "Appel à la persévérance"
         }
       ]
     },
@@ -1327,6 +1385,12 @@
           "verse": 40,
           "text": "Dieu ayant en vue quelque chose de meilleur pour nous, afin qu’ils ne parvinssent pas sans nous à la perfection."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La foi des anciens"
+        }
       ]
     },
     {
@@ -1479,6 +1543,16 @@
           "verse": 29,
           "text": "car notre Dieu est aussi un feu dévorant."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les yeux fixés sur Jésus"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Des premiers-nés inscrits dans les cieux"
+        }
       ]
     },
     {
@@ -1610,6 +1684,12 @@
           "chapter": 13,
           "verse": 25,
           "text": "Que la grâce soit avec vous tous! Amen!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 20,
+          "text": "Epilogue"
         }
       ]
     }

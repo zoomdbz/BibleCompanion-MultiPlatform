@@ -94,27 +94,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O Primeiro Discurso de Moisés na Planície do Jordão Moisés conta a história de Israel"
+          "text": "Introdução ao primeiro discurso de Moisés"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "A ordem para deixar Horebe"
         },
         {
           "beforeVerse": 9,
-          "text": "A nomeação de auxiliares"
+          "text": "Moisés nomeia líderes de cada tribo"
         },
         {
           "beforeVerse": 19,
-          "text": "Doze homens foram enviados para espiar a terra de Canaã"
+          "text": "Espiões fazem o reconhecimento da terra"
         },
         {
           "beforeVerse": 26,
-          "text": "O relatório dos espias recebido com incredulidade"
-        },
-        {
-          "beforeVerse": 34,
-          "text": "O castigo de Deus"
-        },
-        {
-          "beforeVerse": 41,
-          "text": "O povo derrotado em Horma"
+          "text": "A rebelião de Israel contra o S\nenhor"
         }
       ]
     },
@@ -196,15 +192,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A jornada de Cades até Zerede"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "A travessia de Ar e Arnom"
+          "text": "Recapitulação das andanças de Israel"
         },
         {
           "beforeVerse": 26,
-          "text": "Vitória sobre Seom, rei de Hesbom"
+          "text": "Vitória sobre Seom de Hesbom"
         }
       ]
     },
@@ -278,15 +270,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Vitória sobre Ogue, rei de Basã"
+          "text": "Vitória sobre Ogue de Basã"
         },
         {
           "beforeVerse": 12,
-          "text": "Distribuição da Transjordânia"
+          "text": "A divisão da terra a leste do Jordão"
         },
         {
-          "beforeVerse": 23,
-          "text": "A oração de Moisés para entrar em Canaã"
+          "beforeVerse": 21,
+          "text": "Moisés é proibido de entrar na terra"
         }
       ]
     },
@@ -395,15 +387,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Moisés exorta o povo à obediência"
+          "text": "Moisés encoraja Israel a obedecer"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Alerta contra a idolatria"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Há somente um Deus"
         },
         {
           "beforeVerse": 41,
-          "text": "Três cidades de refúgio ;"
+          "text": "As cidades de refúgio do lado leste"
         },
         {
           "beforeVerse": 44,
-          "text": "O Segundo Discurso de Moisés Moisés conta a história da legislação"
+          "text": "Introdução ao segundo discurso de Moisés"
         }
       ]
     },
@@ -506,11 +506,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A repetição dos dez mandamentos"
-        },
-        {
-          "beforeVerse": 22,
-          "text": "Moisés, mediador entre Deus e o povo"
+          "text": "Dez mandamentos para a comunidade da aliança"
         }
       ]
     },
@@ -580,7 +576,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O fim da lei é a obediência"
+          "text": "Chamado para compromisso total"
         }
       ]
     },
@@ -651,11 +647,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Admoestações contra a infidelidade"
-        },
-        {
-          "beforeVerse": 12,
-          "text": "Bênçãos decorrentes da obediência ;"
+          "text": "O privilégio da santidade"
         }
       ]
     },
@@ -725,7 +717,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Exortação a ter em memória os benefícios do Senhor"
+          "text": "Chamado para lembrar e obedecer"
         }
       ]
     },
@@ -804,15 +796,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Moisés lembra aos israelitas o socorro divino"
+          "text": "Vitória pela graça de Deus"
         },
         {
-          "beforeVerse": 6,
-          "text": "As infidelidades de Israel"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "Moisés intercede pelo povo ,"
+          "beforeVerse": 7,
+          "text": "Recapitulação do bezerro de ouro"
         }
       ]
     },
@@ -884,15 +872,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As segundas tábuas da lei"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Da vocação da tribo de Levi"
+          "text": "Uma nova cópia da aliança"
         },
         {
           "beforeVerse": 12,
-          "text": "Exortação à obediência"
+          "text": "Chamado para amar e obedecer"
         }
       ]
     },
@@ -969,11 +953,7 @@
       "headings": [
         {
           "beforeVerse": 8,
-          "text": "Os benefícios da obediência"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "A bênção e a maldição"
+          "text": "Bênçãos pela obediência"
         }
       ]
     },
@@ -1055,11 +1035,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O lugar do culto verdadeiro"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "De como comer a carne e as ofertas"
+          "text": "O lugar de adoração escolhido pelo S\nenhor"
         }
       ]
     },
@@ -1122,7 +1098,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Contra os falsos profetas e os idólatras"
+          "text": "Advertência acerca da idolatria"
         }
       ]
     },
@@ -1196,15 +1172,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Mutilação do corpo proibida"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "Leis sobre os animais limpos e os imundos"
+          "text": "Animais cerimonialmente puros e impuros"
         },
         {
           "beforeVerse": 22,
-          "text": "Os dízimos para o serviço do Senhor"
+          "text": "A entrega dos dízimos"
         }
       ]
     },
@@ -1282,19 +1254,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O ano da remissão"
-        },
-        {
-          "beforeVerse": 7,
-          "text": "Leis a favor dos pobres"
+          "text": "O cancelamento das dívidas"
         },
         {
           "beforeVerse": 12,
-          "text": "Leis acerca dos servos"
+          "text": "A libertação de escravos hebreus"
         },
         {
           "beforeVerse": 19,
-          "text": "Leis acerca dos primogênitos do gado"
+          "text": "O sacrifício dos machos das primeiras crias"
         }
       ]
     },
@@ -1366,19 +1334,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As três festas dos judeus A Páscoa ; ;"
+          "text": "A Páscoa e a Festa dos Pães sem Fermento"
         },
         {
           "beforeVerse": 9,
-          "text": "O Pentecostes ; ;"
+          "text": "A Festa da Colheita"
         },
         {
           "beforeVerse": 13,
-          "text": "Os Tabernáculos"
+          "text": "A Festa das Cabanas"
         },
         {
           "beforeVerse": 18,
-          "text": "Deveres dos juízes"
+          "text": "Justiça para o povo"
         }
       ]
     },
@@ -1442,16 +1410,8 @@
       "keyTakeaway": "Os sacrifícios devem ser sem defeito; aqueles que adoram falsos deuses devem ser apedrejados até a morte com base no depoimento de duas ou três testemunhas, e as testemunhas devem lançar as primeiras pedras. Casos jurídicos difíceis vão aos sacerdotes levitas e ao juiz para receber veredicto. Quando Israel nomear um rei, ele deve ser um israelita escolhido por Deus, evitar acumular cavalos, esposas e riqueza e copiar e ler a lei diariamente para permanecer humilde.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "O castigo da idolatria"
-        },
-        {
-          "beforeVerse": 8,
-          "text": "Julgamento de questões difíceis"
-        },
-        {
           "beforeVerse": 14,
-          "text": "A eleição e os deveres de um rei"
+          "text": "Diretrizes para o rei"
         }
       ]
     },
@@ -1523,15 +1483,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A herança e os direitos dos sacerdotes e dos levitas"
+          "text": "Ofertas para os sacerdotes e levitas"
         },
         {
           "beforeVerse": 9,
-          "text": "Contra os adivinhos e os feiticeiros"
+          "text": "Chamado para viver em santidade"
         },
         {
           "beforeVerse": 15,
-          "text": "A promessa do grande profeta"
+          "text": "Verdadeiros e falsos profetas"
         }
       ]
     },
@@ -1627,19 +1587,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Seis cidades de refúgio ;"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "Privilégios oferecidos pelas cidades de refúgio"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "Execução do homicida"
+          "text": "As cidades de refúgio"
         },
         {
           "beforeVerse": 14,
-          "text": "Acerca dos limites e das testemunhas"
+          "text": "O interesse pela justiça"
         }
       ]
     },
@@ -1704,7 +1656,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Acerca da guerra"
+          "text": "Normas acerca da guerra"
         }
       ]
     },
@@ -1782,23 +1734,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Expiação por morte cujo autor é desconhecido"
+          "text": "Casos de homicídio não resolvido"
         },
         {
           "beforeVerse": 10,
-          "text": "Acerca da mulher prisioneira"
+          "text": "O casamento com uma prisioneira"
         },
         {
           "beforeVerse": 15,
-          "text": "O direito do primogênito"
+          "text": "Direitos do filho mais velho"
         },
         {
           "beforeVerse": 18,
-          "text": "Acerca dos filhos desobedientes"
+          "text": "Como lidar com um filho rebelde"
         },
         {
           "beforeVerse": 22,
-          "text": "Os cadáveres serão tirados do patíbulo"
+          "text": "Outras normas"
         }
       ]
     },
@@ -1892,20 +1844,8 @@
       "keyTakeaway": "Moisés estabelece leis sobre animais perdidos, restrições de vestimenta, segurança das construções e práticas agrícolas. Em seguida, define punições severas para condutas sexuais, incluindo falsas acusações de não virgindade, adultério e estupro, com consequências diferentes conforme as circunstâncias.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Acerca do que se perdeu"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "Diversas leis"
-        },
-        {
-          "beforeVerse": 12,
-          "text": "A lei acerca das borlas"
-        },
-        {
           "beforeVerse": 13,
-          "text": "Leis da castidade e do casamento"
+          "text": "Normas acerca da pureza sexual"
         }
       ]
     },
@@ -1990,19 +1930,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Pessoas excluídas das assembleias santas"
+          "text": "Normas acerca da adoração"
         },
         {
           "beforeVerse": 9,
-          "text": "Limpeza do acampamento"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "Acerca de fugitivos, prostitutas e usura"
-        },
-        {
-          "beforeVerse": 21,
-          "text": "Acerca de votos"
+          "text": "Normas diversas"
         }
       ]
     },
@@ -2081,16 +2013,7 @@
         }
       ],
       "keyTakeaway": "Moisés estabelece leis sobre divórcio, isenções militares para recém-casados, penhores por dívidas, sequestro, doenças de pele, práticas de empréstimo, salários de trabalhadores e deixar respigos da colheita para estrangeiros, órfãos e viúvas.",
-      "headings": [
-        {
-          "beforeVerse": 1,
-          "text": "Acerca do divórcio"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "Leis de caráter humanitário"
-        }
-      ]
+      "headings": []
     },
     {
       "id": "deuteronomy-25",
@@ -2154,24 +2077,7 @@
         }
       ],
       "keyTakeaway": "Os tribunais julgarão disputas e limitarão os açoites a quarenta golpes; viúvas de irmãos sem filhos devem casar com o cunhado, a menos que ele recuse e seja publicamente envergonhado; pesos e medidas honestos são exigidos; Israel deve lembrar a emboscada dos amalequitas no deserto e eliminá-los após se estabelecer na terra.",
-      "headings": [
-        {
-          "beforeVerse": 1,
-          "text": "A pena de açoites"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "O levirato"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "Pesos e medidas justos"
-        },
-        {
-          "beforeVerse": 17,
-          "text": "Amaleque será destruído"
-        }
-      ]
+      "headings": []
     },
     {
       "id": "deuteronomy-26",
@@ -2233,15 +2139,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As primícias da terra"
-        },
-        {
-          "beforeVerse": 12,
-          "text": "Os dízimos"
+          "text": "Dízimos e ofertas das colheitas"
         },
         {
           "beforeVerse": 16,
-          "text": "Exortação à obediência"
+          "text": "Chamado à obediência"
         }
       ]
     },
@@ -2317,11 +2219,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O Terceiro Discurso de Moisés Solene promulgação da lei"
+          "text": "O altar no monte Ebal"
         },
         {
           "beforeVerse": 11,
-          "text": "Maldições do monte Ebal"
+          "text": "Maldições pronunciadas no monte Ebal"
         }
       ]
     },
@@ -2434,11 +2336,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As bênçãos decorrentes da obediência ;"
+          "text": "Bênçãos resultantes da obediência"
         },
         {
           "beforeVerse": 15,
-          "text": "Os castigos da desobediência"
+          "text": "Maldições resultantes da desobediência"
         }
       ]
     },
@@ -2511,8 +2413,8 @@
       "keyTakeaway": "Moisés reconta a experiência de Israel no deserto e o convoca a cumprir as condições da aliança, advertindo que todo aquele que se voltar para o culto a falsos deuses enfrentará a ira, as maldições e o exílio enviados por Deus. As gerações futuras verão a terra tornar-se desolada como Sodoma e entenderão que isso aconteceu porque Israel abandonou o SENHOR.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "O Quarto Discurso de Moisés Deus faz nova aliança com o povo"
+          "beforeVerse": 2,
+          "text": "Moisés faz uma recapitulação da aliança"
         }
       ]
     },
@@ -2577,11 +2479,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Promessas de misericórdia"
+          "text": "Chamado para voltar ao S\nenhor"
         },
         {
-          "beforeVerse": 15,
-          "text": "A vida ou a morte"
+          "beforeVerse": 11,
+          "text": "A escolha entre a vida e a morte"
         }
       ]
     },
@@ -2661,23 +2563,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As Últimas Disposições Josué, sucessor de Moisés"
+          "text": "Josué se torna o líder de Israel"
         },
         {
           "beforeVerse": 9,
-          "text": "A lei deve ser lida ao povo de sete em sete anos"
+          "text": "Leitura pública do Livro da Lei"
         },
         {
           "beforeVerse": 14,
-          "text": "A futura rebeldia de Israel"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "O Livro da Lei posto ao lado da arca"
+          "text": "Predição da desobediência de Israel"
         },
         {
           "beforeVerse": 30,
-          "text": "O cântico de Moisés"
+          "text": "A canção de Moisés"
         }
       ]
     },
@@ -2784,7 +2682,7 @@
       "headings": [
         {
           "beforeVerse": 48,
-          "text": "O Último Dia da Vida de Moisés Moisés vê do monte Nebo a terra de Canaã"
+          "text": "A morte iminente de Moisés"
         }
       ]
     },
@@ -2863,7 +2761,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A bênção de Moisés"
+          "text": "Moisés abençoa o povo"
         }
       ]
     },

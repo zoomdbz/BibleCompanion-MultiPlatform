@@ -51,8 +51,8 @@
       "keyTakeaway": "Pablo da gracias a Dios por la fe, el amor y la esperanza de los tesalonicenses, por su conversión de los ídolos y su testimonio mientras esperan el regreso de Jesús.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Salutación Ejemplo de los tesalonicenses"
+          "beforeVerse": 2,
+          "text": "Acción de gracias por los tesalonicenses"
         }
       ]
     },
@@ -115,11 +115,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ministerio de Pablo en Tesalónica"
+          "text": "El ministerio de Pablo en Tesalónica"
         },
         {
           "beforeVerse": 17,
-          "text": "Ausencia de Pablo de la iglesia"
+          "text": "Pablo anhela ver a los tesalonicenses"
         }
       ]
     },
@@ -171,7 +171,13 @@
           "note": "La palabra repetida en 3:3-7 expresa presión. Su sentido básico es un peso que oprime, la presión de una multitud o de una prensa que exprime uvas; el griego la usaba para quedar cercado sin espacio para moverse. «Aflicción» y «tribulación» proceden de palabras latinas que describían acciones físicas semejantes: trillar y frotar. La imagen no es tristeza, sino aplastamiento."
         }
       ],
-      "keyTakeaway": "Cuando ya no puede soportarlo más, Pablo envía a Timoteo desde Atenas para afianzar a los tesalonicenses en sus aflicciones, temiendo que el tentador los hubiera tentado; Timoteo vuelve con buenas noticias de su fe y su amor, y Pablo ora día y noche por verlos de nuevo y por que el Señor afirme sus corazones irreprochables en santidad en la venida del Señor Jesús con todos sus santos."
+      "keyTakeaway": "Cuando ya no puede soportarlo más, Pablo envía a Timoteo desde Atenas para afianzar a los tesalonicenses en sus aflicciones, temiendo que el tentador los hubiera tentado; Timoteo vuelve con buenas noticias de su fe y su amor, y Pablo ora día y noche por verlos de nuevo y por que el Señor afirme sus corazones irreprochables en santidad en la venida del Señor Jesús con todos sus santos.",
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "El informe alentador de Timoteo"
+        }
+      ]
     },
     {
       "id": "1_thessalonians-4",
@@ -300,11 +306,7 @@
       "headings": [
         {
           "beforeVerse": 12,
-          "text": "Pablo exhorta a los hermanos"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "Salutaciones y bendición final"
+          "text": "Instrucciones finales"
         }
       ]
     }

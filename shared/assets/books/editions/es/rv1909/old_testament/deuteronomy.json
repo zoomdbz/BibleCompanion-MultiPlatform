@@ -242,6 +242,24 @@
           "verse": 46,
           "text": "Y estuvisteis en Cades por muchos días, como en los días que habéis estado."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Moisés ordena salir de Horeb"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "El nombramiento de jefes"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "La misión de los espías"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "La rebelión contra el\nSeñor"
+        }
       ]
     },
     {
@@ -434,6 +452,16 @@
           "verse": 37,
           "text": "Solamente á la tierra de los hijos de Ammón no llegaste, ni á todo lo que está á la orilla del arroyo de Jaboc ni á las ciudades del monte, ni á [ADD]lugar[/ADD] alguno que Jehová nuestro Dios había prohibido."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La peregrinación por el desierto"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "La derrota de Sijón, rey de Hesbón"
+        }
       ]
     },
     {
@@ -585,6 +613,24 @@
           "chapter": 3,
           "verse": 29,
           "text": "Y paramos en el valle delante de Beth-peor."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La derrota de Og, rey de Basán"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La división de la tierra"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Unas instrucciones a Josué"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Dios le prohíbe a Moisés cruzar el Jordán"
         }
       ]
     },
@@ -838,6 +884,28 @@
           "verse": 49,
           "text": "Y toda la llanura de esta parte del Jordán, al oriente, hasta la mar del llano, las vertientes de las aguas abajo del Pisga."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Una exhortación a la obediencia"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La prohibición de la idolatría"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "El\nSeñor\nes Dios"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Las ciudades de refugio"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Introducción a la ley"
+        }
       ]
     },
     {
@@ -1010,6 +1078,12 @@
           "verse": 33,
           "text": "Andad en todo camino que Jehová vuestro Dios os ha mandado, para que viváis, y os vaya bien, y tengáis largos días en la tierra que habéis de poseer."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los diez mandamientos"
+        }
       ]
     },
     {
@@ -1141,6 +1215,12 @@
           "chapter": 6,
           "verse": 25,
           "text": "Y tendremos justicia cuando cuidáremos de poner por obra todos estos mandamientos delante de Jehová nuestro Dios, como él nos ha mandado."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El amor a Dios"
         }
       ]
     },
@@ -1279,6 +1359,12 @@
           "verse": 26,
           "text": "Y no meterás abominación en tu casa, porque no seas anatema como ello; del todo lo aborrecerás y lo abominarás; porque es anatema."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La expulsión de las naciones"
+        }
       ]
     },
     {
@@ -1385,6 +1471,12 @@
           "chapter": 8,
           "verse": 20,
           "text": "Como las gentes que Jehová destruirá delante de vosotros, así pereceréis; por cuanto no habréis atendido á la voz de Jehová vuestro Dios."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "No te olvides del\nSeñor\ntu Dios"
         }
       ]
     },
@@ -1538,6 +1630,16 @@
           "verse": 29,
           "text": "Y ellos son tu pueblo y tu heredad, que sacaste con tu gran fortaleza y con tu brazo extendido."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El mérito no es de Israel"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "El becerro de oro"
+        }
       ]
     },
     {
@@ -1654,6 +1756,20 @@
           "chapter": 10,
           "verse": 22,
           "text": "Con setenta almas descendieron tus padres á Egipto; y ahora Jehová te ha hecho como las estrellas del cielo en multitud."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Las nuevas tablas de la ley"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "El ministerio de los levitas"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Las demandas del\nSeñor"
         }
       ]
     },
@@ -1822,6 +1938,12 @@
           "verse": 32,
           "text": "Cuidaréis, pues, de poner por obra todos los estatutos y derechos que yo presento hoy delante de vosotros."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El amor y la obediencia al\nSeñor"
+        }
       ]
     },
     {
@@ -1989,6 +2111,12 @@
           "verse": 32,
           "text": "Cuidaréis de hacer todo lo que yo os mando: no añadirás á ello, ni quitarás de ello."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El lugar único de adoración"
+        }
       ]
     },
     {
@@ -2085,6 +2213,12 @@
           "chapter": 13,
           "verse": 18,
           "text": "Cuando obedecieres á la voz de Jehová tu Dios, guardando todos sus mandamientos que yo te prescribo hoy, para hacer lo recto en ojos de Jehová tu Dios."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Una advertencia contra la idolatría"
         }
       ]
     },
@@ -2238,6 +2372,16 @@
           "verse": 29,
           "text": "Y vendrá el Levita, que no tiene parte ni heredad contigo, y el extranjero, y el huérfano, y la viuda, que hubiere en tus poblaciones, y comerán y serán saciados; para que Jehová tu Dios te bendiga en toda obra de tus manos que hicieres."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Alimentos puros e impuros"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Los diezmos"
+        }
       ]
     },
     {
@@ -2360,6 +2504,20 @@
           "verse": 23,
           "text": "Solamente que no comas su sangre: sobre la tierra la derramarás como agua."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El año del perdón de las deudas"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La liberación de los esclavos"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Los animales primogénitos"
+        }
       ]
     },
     {
@@ -2477,6 +2635,28 @@
           "verse": 22,
           "text": "Ni te levantarás estatua; lo cual aborrece Jehová tu Dios."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La fiesta de la Pascua"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La fiesta de las Semanas"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "La fiesta de las Enramadas"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Los jueces"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Una exhortación contra la idolatría"
+        }
       ]
     },
     {
@@ -2583,6 +2763,16 @@
           "chapter": 17,
           "verse": 20,
           "text": "Para que no se eleve su corazón sobre sus hermanos, ni se aparte del mandamiento á diestra ni á siniestra: á fin que prolongue sus días en su reino, él y sus hijos, en medio de Israel."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 8,
+          "text": "Los tribunales"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "El rey"
         }
       ]
     },
@@ -2701,6 +2891,20 @@
           "verse": 22,
           "text": "Cuando el profeta hablare en nombre de Jehová, y no fuere la tal cosa, ni viniere, es palabra que Jehová no ha hablado: con soberbia la habló aquel profeta: no tengas temor de él."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Las ofrendas para los sacerdotes levitas"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Costumbres abominables"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "El profeta"
+        }
       ]
     },
     {
@@ -2813,6 +3017,16 @@
           "verse": 21,
           "text": "Y no perdonará tu ojo: vida por vida, ojo por ojo, diente por diente, mano por mano, pie por pie."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Las ciudades de refugio"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Los testigos requeridos"
+        }
       ]
     },
     {
@@ -2919,6 +3133,12 @@
           "chapter": 20,
           "verse": 20,
           "text": "Mas el árbol que supieres que no es árbol para comer, lo destruirás y lo talarás, y construye baluarte contra la ciudad que pelea contigo, hasta sojuzgarla."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Instrucciones para la guerra"
         }
       ]
     },
@@ -3041,6 +3261,28 @@
           "chapter": 21,
           "verse": 23,
           "text": "No estará su cuerpo por la noche en el madero, mas sin falta lo enterrarás el mismo día, porque maldición de Dios es el colgado: y no contaminarás tu tierra, que Jehová tu Dios te da por heredad."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Un caso especial de homicidio"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "El matrimonio con prisioneras de guerra"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "El derecho del primogénito"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Un hijo rebelde"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Diversas leyes"
         }
       ]
     },
@@ -3199,6 +3441,12 @@
           "verse": 30,
           "text": "No tomará alguno la mujer de su padre, ni descubrirá el regazo de su padre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 13,
+          "text": "La violación de las reglas matrimoniales"
+        }
       ]
     },
     {
@@ -3331,6 +3579,20 @@
           "verse": 25,
           "text": "Cuando entrares en la mies de tu prójimo, podrás cortar espigas con tu mano; mas no aplicarás hoz á la mies de tu prójimo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Exclusión de la asamblea"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La higiene en el campamento"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Otras leyes"
+        }
       ]
     },
     {
@@ -3448,7 +3710,8 @@
           "verse": 22,
           "text": "Y acuérdate que fuiste siervo en tierra de Egipto: por tanto, yo te mando que hagas esto."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 25,
@@ -3550,7 +3813,8 @@
           "verse": 19,
           "text": "Será pues, cuando Jehová tu Dios te hubiere dado reposo de tus enemigos alrededor, en la tierra que Jehová tu Dios te da por heredad para que la poseas, que raerás la memoria de Amalec de debajo del cielo: no te olvides."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 26,
@@ -3651,6 +3915,16 @@
           "chapter": 26,
           "verse": 19,
           "text": "Y para ponerte alto sobre todas las gentes que hizo, para loor, y fama, y gloria; y para que seas pueblo santo á Jehová tu Dios, como él ha dicho."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Diezmos y primicias"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Una exhortación a seguir los mandamientos del\nSeñor"
         }
       ]
     },
@@ -3788,6 +4062,16 @@
           "chapter": 27,
           "verse": 26,
           "text": "Maldito el que no confirmare las palabras de esta ley para cumplirlas. Y dirá todo el pueblo: Amén."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El altar sobre el monte Ebal"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Las maldiciones desde el monte Ebal"
         }
       ]
     },
@@ -4136,6 +4420,16 @@
           "verse": 68,
           "text": "Y Jehová te hará tornar á Egipto en navíos por el camino del cual te ha dicho: Nunca más volveréis: y allí seréis vendidos á vuestros enemigos por esclavos y por esclavas, y no habrá quien os compre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Las bendiciones por la obediencia"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Las maldiciones por la desobediencia"
+        }
       ]
     },
     {
@@ -4288,6 +4582,12 @@
           "verse": 29,
           "text": "Las cosas secretas pertenecen á Jehová nuestro Dios: mas las reveladas son para nosotros y para nuestros hijos por siempre, para que cumplamos todas las palabras de esta ley."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La renovación del pacto"
+        }
       ]
     },
     {
@@ -4394,6 +4694,16 @@
           "chapter": 30,
           "verse": 20,
           "text": "Que ames á Jehová tu Dios, que oigas su voz, y te allegues á él; porque él es tu vida, y la longitud de tus días; á fin de que habites sobre la tierra que juró Jehová á tus padres Abraham, Isaac, y Jacob, que les había de dar."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La bendición a causa del arrepentimiento"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La elección entre la vida y la muerte"
         }
       ]
     },
@@ -4551,6 +4861,24 @@
           "chapter": 31,
           "verse": 30,
           "text": "Entonces habló Moisés en oídos de toda la congregación de Israel las palabras de este cántico hasta acabarlo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Josué, sucesor de Moisés"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La lectura de la ley"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La predicción de la rebeldía de Israel"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "El cántico de Moisés"
         }
       ]
     },
@@ -4819,6 +5147,12 @@
           "verse": 52,
           "text": "Verás por tanto delante de ti la tierra; mas no entrarás allá, á la tierra que doy á los hijos de Israel."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 48,
+          "text": "El anuncio de la muerte de Moisés"
+        }
       ]
     },
     {
@@ -4971,6 +5305,12 @@
           "verse": 29,
           "text": "Bienaventurado tú, oh Israel, ¿quién como tú, pueblo salvo por Jehová, escudo de tu socorro, y espada de tu excelencia? Así que tus enemigos serán humillados, y tú hollarás sobre sus alturas."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Moisés bendice a las tribus"
+        }
       ]
     },
     {
@@ -5037,6 +5377,12 @@
           "chapter": 34,
           "verse": 12,
           "text": "Y en toda aquella mano esforzada, y en todo el espanto grande que causó Moisés á ojos de todo Israel."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La muerte de Moisés"
         }
       ]
     }

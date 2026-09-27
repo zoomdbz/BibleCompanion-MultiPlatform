@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "Checked-in base Scripture units and pinned traditional overlays on 2026-09-26; this is an evidence boundary, not a conversion map.",
+  "policy": "A matching chapter/verse label or an equal inventory does not establish passage identity. A conversion row requires direct passage-boundary evidence or a pinned authoritative versification table for this exact edition pair. Native merged units remain whole; unresolved coordinates retain their source edition.",
+  "pairs": [
+    {
+      "language": "ja",
+      "baseEditionId": "jcb",
+      "editionId": "bungo",
+      "baseUnits": 28043,
+      "baseCoordinates": 31104,
+      "targetUnits": 31099,
+      "targetCoordinates": 31102,
+      "identicalInventoryBooks": 4,
+      "differentInventoryBooks": 62,
+      "explicitRules": 0,
+      "baseInventoryProvenance": {
+        "reviewLedger": "tools/youversion/jcb_native_unit_repairs.json",
+        "authority": "Bible.com JCB edition 83",
+        "previousBaseCoordinates": 31069,
+        "reviewedNativeUnitExpansions": 17,
+        "coordinateIncrease": 35,
+        "scope": "Reviewed combined JCB native-unit marker repairs only; no reference conversion inferred."
+      },
+      "missingEvidence": "A pinned JCB corpus or JCB-to-Bungo versification table that proves passage continuity, including each native JCB range and Bungo boundary.",
+      "pinnedTraditionalSource": {
+        "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/JapBungo.zip",
+        "archiveSha256": "1acc5048206ba75ade77b3cb146568809a28151a53ce314cfc721d080aca75e6"
+      }
+    },
+    {
+      "language": "ko",
+      "baseEditionId": "rnksv",
+      "editionId": "korrv",
+      "baseUnits": 31081,
+      "baseCoordinates": 31088,
+      "targetUnits": 31102,
+      "targetCoordinates": 31102,
+      "identicalInventoryBooks": 54,
+      "differentInventoryBooks": 12,
+      "explicitRules": 0,
+      "missingEvidence": "A pinned RNKSV corpus or RNKSV-to-KRV versification table that proves continuity. The 54 equal-inventory books are deliberately not identity-mapped.",
+      "pinnedTraditionalSource": {
+        "url": "https://raw.githubusercontent.com/bluesaurel/Korean-Bible-1961-KRV/2fdb91e77d323b99bacaa9b61fc18f318b703240/bible_1961_krv.json",
+        "sourceFileSha256": "65c6d99f80a5a47b9c0d144f313ac533f482454f336d3a82fc1dcedb020612e2"
+      }
+    },
+    {
+      "language": "zh-Hans",
+      "baseEditionId": "ccb",
+      "editionId": "cuv",
+      "baseUnits": 30961,
+      "baseCoordinates": 31104,
+      "targetUnits": 31032,
+      "targetCoordinates": 31103,
+      "identicalInventoryBooks": 27,
+      "differentInventoryBooks": 39,
+      "explicitRules": 1407,
+      "baseToAlternateReviewedUnits": 30928,
+      "baseToAlternateRetainedUnits": 33,
+      "alternateToBaseReviewedUnits": 30979,
+      "alternateToBaseRetainedUnits": 53,
+      "verifiedBooks": ["all 66 canonical books, partial native-unit coverage"],
+      "missingEvidence": "A pinned CCB corpus or CCB-to-CUV versification table for cache/app native-range mismatches. The local CCB cache is a BibleGateway response with the same edition label as Bible.com 36, not proof of Bible.com wording parity.",
+      "pinnedTraditionalSource": {
+        "url": "https://ebible.org/Scriptures/cmn-cu89s_usfm.zip",
+        "archiveSha256": "68df122e9195e071dc286f19ef53e530fcaadb3a16a7dc34b8430b7062f70598"
+      }
+    },
+    {
+      "language": "zh-Hant",
+      "baseEditionId": "rcuv",
+      "editionId": "cuv",
+      "baseUnits": 31033,
+      "baseCoordinates": 31087,
+      "targetUnits": 31032,
+      "targetCoordinates": 31103,
+      "identicalInventoryBooks": 31,
+      "differentInventoryBooks": 35,
+      "explicitRules": 2,
+      "verifiedBooks": ["john"],
+      "missingEvidence": "A pinned RCUV corpus or RCUV-to-CUV versification table for all unlisted passages. The current RCUV source authority is Bible.com edition 139; no licensed export is present locally.",
+      "pinnedTraditionalSource": {
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "archiveSha256": "01e919ec0f2ea9e22adaa5097340fc4ad18a7976a32f850b2e6434d7884f3e81"
+      }
+    }
+  ]
+}

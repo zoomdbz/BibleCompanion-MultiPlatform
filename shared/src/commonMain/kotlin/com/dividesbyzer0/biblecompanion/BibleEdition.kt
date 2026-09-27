@@ -43,9 +43,13 @@ object BibleEditions {
   fun defaultForLanguage(appLanguage: String): String = available(appLanguage).first()
 
   fun selectedForLanguage(appLanguage: String, selected: String): String {
+    return canonicalId(appLanguage, selected) ?: defaultForLanguage(appLanguage)
+  }
+
+  internal fun canonicalId(appLanguage: String, selected: String): String? {
     val choices = available(appLanguage)
     if (choices.contains(KJV_1769) && selected.equals("kjv", ignoreCase = true)) return KJV_1769
-    return choices.firstOrNull { it.equals(selected, ignoreCase = true) } ?: choices.first()
+    return choices.firstOrNull { it.equals(selected, ignoreCase = true) }
   }
 
   fun effective(appLanguage: String, selected: String): String {
@@ -57,6 +61,33 @@ object BibleEditions {
 
   fun isAlternate(appLanguage: String, selected: String): Boolean =
     effective(appLanguage, selected) != defaultForLanguage(appLanguage)
+
+  // A shared link may select an edition for this reader without changing the
+  // user's saved preference. Never apply a different language's edition ID.
+  fun forNavigation(appLanguage: String, current: String, sourceLanguage: String?, sourceEdition: String?): String {
+    val sameLanguage = sourceLanguage != null &&
+      LocaleUtils.effectiveAssetTag(sourceLanguage) == LocaleUtils.effectiveAssetTag(appLanguage)
+    if (sameLanguage && sourceEdition != null) {
+      // Unknown editions explicitly fall back to the default, matching the
+      // reader's unavailable-edition notice. Do not substitute another alternate.
+      return selectedForLanguage(appLanguage, sourceEdition)
+    }
+    return effective(appLanguage, current)
+  }
+
+  fun canKeepLinkedVerse(appLanguage: String, sourceLanguage: String?, editionUnavailable: Boolean): Boolean =
+    !editionUnavailable && LocaleUtils.effectiveAssetTag(sourceLanguage ?: "en") ==
+      LocaleUtils.effectiveAssetTag(appLanguage)
+
+  // A recognized edition may still lack this book's overlay. A fallback book
+  // cannot inherit the linked edition's verse coordinates just because its
+  // numbers happen to exist in the base text.
+  internal fun linkedEditionMatchesLoaded(
+    appLanguage: String,
+    sourceEdition: String?,
+    effectiveEdition: String
+  ): Boolean = sourceEdition == null ||
+    canonicalId(appLanguage, sourceEdition)?.let { it == effectiveEdition } == true
 
 }
 
@@ -72,8 +103,8 @@ data class EditionVerse(
 data class EditionChapter(
   val number: Int,
   val superscription: String = "",
-  // Null keeps the localized base headings. An explicit list, including an
-  // empty one, relocates those same headings for this edition's versification.
+  // Alternate-edition assets must provide this lookup explicitly for every
+  // chapter, including an empty list. Null means the overlay is incomplete.
   val headings: List<Heading>? = null,
   // Schema 2 integrity metadata. Nullable keeps the existing English KJV
   // schema-1 overlay readable during migration.
@@ -81,6 +112,14 @@ data class EditionChapter(
   val verseUnitCount: Int? = null,
   val verses: List<EditionVerse> = emptyList()
 )
+
+internal fun editionChapterReferences(baseRefs: List<String>, chapter: EditionChapter): List<String> {
+  val last = chapter.verses.lastOrNull()?.let { it.verseEnd ?: it.verse } ?: return baseRefs
+  val prefix = baseRefs.firstOrNull()?.let {
+    Regex("^(.+?)\\s+\\d+(?::\\d+(?:-\\d+)?|-\\d+)?$").matchEntire(it.trim())?.groupValues?.get(1)
+  } ?: return baseRefs
+  return listOf("$prefix ${chapter.number}:1" + if (last > 1) "-$last" else "")
+}
 
 @Serializable
 data class EditionBookOverlay(
@@ -130,14 +169,12 @@ internal fun EditionBookOverlay.isStructurallyValid(
         chapter.lastVerse != computedLastVerse ||
         chapter.verseUnitCount != chapter.verses.size
       )) return@all false
-    val headings = chapter.headings
-    if (headings != null) {
-      val anchors = headings.map { it.beforeVerse }
-      if (anchors != anchors.sorted() || anchors.distinct().size != anchors.size) return@all false
-      if (headings.any { heading ->
-          heading.text.isBlank() || chapter.verses.none { it.verse == heading.beforeVerse }
-        }) return@all false
-    }
+    val headings = chapter.headings ?: return@all false
+    val anchors = headings.map { it.beforeVerse }
+    if (anchors != anchors.sorted() || anchors.distinct().size != anchors.size) return@all false
+    if (headings.any { heading ->
+        heading.text.isBlank() || chapter.verses.none { it.verse == heading.beforeVerse }
+      }) return@all false
     true
   }
 }

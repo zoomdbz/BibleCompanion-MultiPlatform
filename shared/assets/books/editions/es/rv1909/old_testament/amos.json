@@ -87,6 +87,12 @@
           "verse": 15,
           "text": "Y su rey irá en cautiverio, él y sus príncipes todos, dice Jehová."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "El juicio contra las naciones vecinas"
+        }
       ]
     },
     {
@@ -174,6 +180,12 @@
           "verse": 16,
           "text": "El esforzado entre esforzados huirá desnudo aquel día, dice Jehová."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "El juicio contra Israel"
+        }
       ]
     },
     {
@@ -256,6 +268,16 @@
           "verse": 15,
           "text": "Y heriré la casa del invierno con la casa del verano, y las casas de marfil perecerán; y muchas casas serán arruinadas, dice Jehová."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vocación del profeta Amós"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "El castigo a Israel"
+        }
       ]
     },
     {
@@ -327,6 +349,12 @@
           "chapter": 4,
           "verse": 13,
           "text": "Porque he aquí, el que forma los montes, y cría el viento, y denuncia al hombre su pensamiento; el que hace á las tinieblas mañana, y pasa sobre las alturas de la tierra; Jehová, Dios de los ejércitos, es su nombre."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "La dureza de Israel"
         }
       ]
     },
@@ -470,6 +498,16 @@
           "verse": 27,
           "text": "Hareos pues trasportar más allá de Damasco, ha dicho Jehová, cuyo nombre es Dios de los ejércitos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Advertencias y lamentos"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "El día del\nSeñor"
+        }
       ]
     },
     {
@@ -547,7 +585,8 @@
           "verse": 14,
           "text": "Pues he aquí, levantaré yo sobre vosotros, oh casa de Israel, dice Jehová Dios de los ejércitos, gente que os oprimirá desde la entrada de Hamath hasta el arroyo del desierto."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 7,
@@ -639,6 +678,16 @@
           "verse": 17,
           "text": "Por tanto, así ha dicho Jehová: Tu mujer fornicará en la ciudad, y tus hijos y tus hijas caerán á cuchillo, y tu tierra será partida por suertes; y tú morirás en tierra inmunda, é Israel será traspasado de su tierra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tres visiones"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Amasías contra Amós"
+        }
       ]
     },
     {
@@ -715,6 +764,12 @@
           "chapter": 8,
           "verse": 14,
           "text": "Los que juran por el pecado de Samaria, y dicen, Vive tu Dios de Dan: y, Vive el camino de Beer-seba: caerán, y nunca más se levantarán."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La cuarta visión y advertencias"
         }
       ]
     },
@@ -797,6 +852,16 @@
           "chapter": 9,
           "verse": 15,
           "text": "Pues los plantaré sobre su tierra, y nunca más serán arrancados de su tierra que yo les dí, ha dicho Jehová Dios tuyo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La quinta visión"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La restauración de Israel"
         }
       ]
     }

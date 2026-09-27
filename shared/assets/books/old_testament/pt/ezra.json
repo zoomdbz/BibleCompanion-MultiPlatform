@@ -59,7 +59,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O decreto de Ciro"
+          "text": "Ciro permite que os exilados regressem"
         }
       ]
     },
@@ -184,7 +184,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A lista dos que voltaram da Babilônia"
+          "text": "Exilados que regressaram com Zorobabel"
         }
       ]
     },
@@ -247,11 +247,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "É levantado o altar"
+          "text": "A reconstrução do altar"
         },
         {
-          "beforeVerse": 8,
-          "text": "Lançados os alicerces do templo"
+          "beforeVerse": 7,
+          "text": "O povo começa a reconstruir o templo"
         }
       ]
     },
@@ -330,7 +330,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os inimigos fazem parar a construção do templo"
+          "text": "Inimigos se opõem à reconstrução"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Oposição durante os reinados de Xerxes e Artaxerxes"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "A reconstrução é retomada"
         }
       ]
     },
@@ -396,12 +404,8 @@
       "keyTakeaway": "Ageu e Zacarias encorajam Zorobabel e Josué a reconstruir o templo; quando autoridades persas questionam sua legitimidade, os líderes judeus explicam que estão obedecendo ao decreto original de Ciro e pedem ao rei Dario que verifique isso nos arquivos reais.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "As exortações de Ageu e Zacarias"
-        },
-        {
           "beforeVerse": 6,
-          "text": "Os adversários consultam Dario"
+          "text": "A carta de Tatenai ao rei Dario"
         }
       ]
     },
@@ -473,14 +477,10 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O decreto de Dario"
+          "text": "Dario aprova a reconstrução"
         },
         {
           "beforeVerse": 13,
-          "text": "Completado o templo"
-        },
-        {
-          "beforeVerse": 16,
           "text": "A dedicação do templo"
         },
         {
@@ -568,7 +568,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Artaxerxes envia Esdras a Jerusalém"
+          "text": "Esdras chega a Jerusalém"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A carta de Artaxerxes a Esdras"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Esdras louva o S\nenhor"
         }
       ]
     },
@@ -654,23 +662,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A lista dos que voltaram com Esdras"
+          "text": "Exilados que regressaram com Esdras"
         },
         {
           "beforeVerse": 15,
-          "text": "Esdras manda buscar levitas"
-        },
-        {
-          "beforeVerse": 21,
-          "text": "O jejum"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "A entrega das contribuições aos sacerdotes"
-        },
-        {
-          "beforeVerse": 31,
-          "text": "A chegada a Jerusalém"
+          "text": "A viagem de Esdras a Jerusalém"
         }
       ]
     },
@@ -735,7 +731,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A oração e confissão de Esdras"
+          "text": "A oração de Esdras a respeito dos casamentos mistos"
         }
       ]
     },
@@ -829,7 +825,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os israelitas despedem suas mulheres heteias"
+          "text": "O povo confessa seu pecado"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Os culpados de casamento misto"
         }
       ]
     }

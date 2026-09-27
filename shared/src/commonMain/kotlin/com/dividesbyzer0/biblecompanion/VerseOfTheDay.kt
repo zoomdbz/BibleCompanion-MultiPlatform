@@ -5,11 +5,14 @@ import com.dividesbyzer0.biblecompanion.platform.platformCurrentDate
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.update
 
 data class DailyVerse(
   val text: String,
   val ref: String,
-  val isFeastOverride: Boolean = false
+  val isFeastOverride: Boolean = false,
+  val editionId: String? = null
 )
 
 @Serializable
@@ -24,16 +27,29 @@ data class FeastVersesFile(val feastVerses: Map<String, VerseEntry> = emptyMap()
 object VerseOfTheDay {
 
   private val json = Json { ignoreUnknownKeys = true }
-  private val dailyCache = mutableMapOf<String, DailyVersesFile>()
-  private val feastCache = mutableMapOf<String, FeastVersesFile>()
+  // The home screen and Android's notification worker can read concurrently.
+  private val dailyCache = MutableStateFlow<Map<String, DailyVersesFile>>(emptyMap())
+  private val feastCache = MutableStateFlow<Map<String, FeastVersesFile>>(emptyMap())
 
   fun todayVerse(
     context: PlatformContext,
     appLang: String,
     internalBibleVersion: String = BibleEditions.BSB
   ): DailyVerse {
-    val tag = LocaleUtils.effectiveAssetTag(appLang)
     val (year, month, day) = platformCurrentDate()
+    return forDate(context, appLang, internalBibleVersion, year, month, day)
+  }
+
+  /** Uses the same calendar, feast overrides, and edition mapping for reminders. */
+  fun forDate(
+    context: PlatformContext,
+    appLang: String,
+    internalBibleVersion: String,
+    year: Int,
+    month: Int,
+    day: Int
+  ): DailyVerse {
+    val tag = LocaleUtils.effectiveAssetTag(appLang)
 
     val feasts = loadFeasts(context, tag)
     val feastOverride = checkFeastOverride(year, month, day, feasts)
@@ -70,16 +86,19 @@ object VerseOfTheDay {
     dailyVerse: DailyVerse
   ): DailyVerse {
     val requestedEdition = BibleEditions.effective(effectiveLanguage, internalBibleVersion)
-    if (requestedEdition == BibleEditions.defaultForLanguage(effectiveLanguage)) return dailyVerse
+    val baseEdition = BibleEditions.defaultForLanguage(effectiveLanguage)
+    val original = dailyVerse.copy(editionId = baseEdition)
+    if (requestedEdition == baseEdition) return original
 
-    val match = Regex("^(.+?)\\s+(\\d+):(\\d+)").find(dailyVerse.ref) ?: return dailyVerse
+    val match = Regex("^(.+?)\\s+(\\d+):(\\d+)(?:-(\\d+))?$").matchEntire(dailyVerse.ref) ?: return original
     val rawBookName = match.groupValues[1].trim()
     val bookName = when (rawBookName.lowercase()) {
       "acts of the apostles" -> "Acts"
       else -> rawBookName
     }
-    val chapter = match.groupValues[2].toIntOrNull() ?: return dailyVerse
-    val verse = match.groupValues[3].toIntOrNull() ?: return dailyVerse
+    val chapter = match.groupValues[2].toIntOrNull() ?: return original
+    val verse = match.groupValues[3].toIntOrNull() ?: return original
+    val verseEnd = match.groupValues[4].toIntOrNull() ?: verse
 
     for (collection in listOf("old_testament", "new_testament", "deuterocanonical")) {
       // Daily-reference anchors intentionally use stable English book names in
@@ -87,45 +106,59 @@ object VerseOfTheDay {
       val bookId = ContentRepo.listBooksLocalized(context, collection, "en")
         .firstOrNull { (_, title) -> title.equals(bookName, ignoreCase = true) }
         ?.first ?: continue
+      val mapped = EditionReferenceMaps.resolve(
+        context, effectiveLanguage, bookId, baseEdition, requestedEdition,
+        VerseAnchor(chapter, verse, verseEnd)
+      ) ?: return original
       val raw = readAssetText(
         context,
         "books/editions/$effectiveLanguage/$requestedEdition/$collection/$bookId.json"
-      ) ?: return dailyVerse
+      ) ?: return original
       val overlay = runCatching { json.decodeFromString<EditionBookOverlay>(raw) }.getOrNull()
-        ?: return dailyVerse
+        ?: return original
       if (!overlay.isStructurallyValid(
           expectedEditionId = requestedEdition,
           expectedLanguage = effectiveLanguage,
           expectedCollection = collection,
           expectedBookId = bookId
-        )) return dailyVerse
-      val text = overlay.chapters.firstOrNull { it.number == chapter }
-        ?.verses?.firstOrNull { verse in it.verse..(it.verseEnd ?: it.verse) }
-        ?.text ?: return dailyVerse
-      return dailyVerse.copy(text = text)
+        )) return original
+      val units = overlay.chapters.firstOrNull { it.number == mapped.chapter }
+        ?.verses?.filter { it.verse <= mapped.verseEnd && (it.verseEnd ?: it.verse) >= mapped.verseStart }
+        ?.takeIf { it.isNotEmpty() } ?: return original
+      if (!(mapped.verseStart..mapped.verseEnd).all { number ->
+          units.any { number in it.verse..(it.verseEnd ?: it.verse) }
+        }) return original
+      val first = units.first().verse
+      val last = units.last().let { it.verseEnd ?: it.verse }
+      val tail = "${mapped.chapter}:$first" + if (last != first) "-$last" else ""
+      return dailyVerse.copy(
+        text = units.joinToString(" ") { it.text },
+        ref = "$rawBookName $tail",
+        editionId = requestedEdition
+      )
     }
-    return dailyVerse
+    return original
   }
 
   private fun loadDaily(context: PlatformContext, lang: String): DailyVersesFile {
-    dailyCache[lang]?.let { return it }
+    dailyCache.value[lang]?.let { return it }
     val loaded = readAssetText(context, "daily_verses/$lang/daily.json")
       ?.let { runCatching { json.decodeFromString<DailyVersesFile>(it) }.getOrNull() }
       ?: readAssetText(context, "daily_verses/en/daily.json")
         ?.let { runCatching { json.decodeFromString<DailyVersesFile>(it) }.getOrNull() }
       ?: DailyVersesFile(emptyList())
-    dailyCache[lang] = loaded
+    dailyCache.update { it + (lang to loaded) }
     return loaded
   }
 
   private fun loadFeasts(context: PlatformContext, lang: String): FeastVersesFile {
-    feastCache[lang]?.let { return it }
+    feastCache.value[lang]?.let { return it }
     val loaded = readAssetText(context, "daily_verses/$lang/feasts.json")
       ?.let { runCatching { json.decodeFromString<FeastVersesFile>(it) }.getOrNull() }
       ?: readAssetText(context, "daily_verses/en/feasts.json")
         ?.let { runCatching { json.decodeFromString<FeastVersesFile>(it) }.getOrNull() }
       ?: FeastVersesFile(emptyMap())
-    feastCache[lang] = loaded
+    feastCache.update { it + (lang to loaded) }
     return loaded
   }
 

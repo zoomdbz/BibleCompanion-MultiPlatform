@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">ヘブライ語の慣用句と祭りの関連を含む体系的読書ガイド</string>
     <string name="prophecy_revelation_timeline">黙示録の時系列</string>
     <string name="prophecy_revelation_timeline_desc">封印、ラッパ、鉢、キリストの再臨、千年王国、新しいエルサレム</string>
+    <string name="prophecy_second_coming_rapture">キリストの再臨と携挙</string>
+    <string name="prophecy_second_coming_rapture_desc">キリストの再臨、復活、集め、御怒り、主要な時期説</string>
     <!-- Data -->
     <string name="data_section">データ</string>
     <string name="data_section_desc">ブックマーク・保存した節・ハイライト・ラベルを端末間で転送できます。エクスポートをタップしてクリップボードにコピーし、もう一方の端末でインポートに貼り付けてください。設定や環境設定は含まれません。</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">エルサレムへの旅とユダヤでの宣教</string>
     <string name="chronology_gospel_final_week">最後の一週間と十字架</string>
     <string name="chronology_gospel_resurrection">復活</string>
+    <string name="daily_notification_title">通知</string>
+    <string name="daily_notification_toggle">毎日の聖書のことば</string>
+    <string name="daily_notification_desc">選んだ現地時刻に聖句を受け取ります。通知をタップして読むか、コピーや共有を選べます。端末の状態により通知が遅れる場合があります。</string>
+    <string name="daily_notification_time">通知時刻</string>
+    <string name="daily_notification_save">時刻を保存</string>
+    <string name="daily_notification_ios_window">iOSでは最大60日分の聖句を予約します。定期的にアプリを開いて予約を更新してください。</string>
+    <string name="daily_notification_permission_denied">通知が許可されていません。端末の設定で許可してから、この項目を有効にしてください。</string>
+    <string name="daily_notification_system_settings">端末の通知設定</string>
 </resources>

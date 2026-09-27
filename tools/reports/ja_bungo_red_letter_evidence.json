@@ -1,0 +1,6300 @@
+{
+  "schemaVersion": 1,
+  "source": "Bungo native red-letter edition",
+  "sourceBase": "https://bungo.iinaa.net",
+  "sourceScope": "b40.html through b66.html, fetched 2026-09-26",
+  "semanticAuthority": "Pinned en/kjv1769 CrossWire wj source",
+  "normalization": "Strip ruby rt, Unicode variation selectors, site footnote/page paratext; compare NFKC visible text; never rewrite target Scripture.",
+  "pages": [
+    {
+      "bookId": "matthew",
+      "url": "https://bungo.iinaa.net/b40.html",
+      "htmlSha256": "165a205d9b5c3710c6110a003c36b9b36df423ce49449ed610bcfbe071f1d625",
+      "nativeVerses": 1071,
+      "rawRedVerses": 646,
+      "redVerses": 645
+    },
+    {
+      "bookId": "mark",
+      "url": "https://bungo.iinaa.net/b41.html",
+      "htmlSha256": "acfb72236aacaeebc761317cb9e91c5c1afd10ecd79c8327d85a33e5067df700",
+      "nativeVerses": 678,
+      "rawRedVerses": 287,
+      "redVerses": 285
+    },
+    {
+      "bookId": "luke",
+      "url": "https://bungo.iinaa.net/b42.html",
+      "htmlSha256": "eb9bbcc1905726a260e38fc4981756fabda03ae687dea7a1f5f9c976e19fc4d1",
+      "nativeVerses": 1151,
+      "rawRedVerses": 587,
+      "redVerses": 585
+    },
+    {
+      "bookId": "john",
+      "url": "https://bungo.iinaa.net/b43.html",
+      "htmlSha256": "580fc5db128f065d86e47be2af4836eaf268175c4735b3f2aa90ed1a66ca4772",
+      "nativeVerses": 879,
+      "rawRedVerses": 436,
+      "redVerses": 436
+    },
+    {
+      "bookId": "acts",
+      "url": "https://bungo.iinaa.net/b44.html",
+      "htmlSha256": "4ab2ca5272c8ab5b50aad1b676262b151fa0af6993727929768dae634c0c9946",
+      "nativeVerses": 1006,
+      "rawRedVerses": 30,
+      "redVerses": 30
+    },
+    {
+      "bookId": "romans",
+      "url": "https://bungo.iinaa.net/b45.html",
+      "htmlSha256": "e401d4c9cf3b89ee83c2da5ba93aa811fae3ecb2a95f5d20d85f9470919982dc",
+      "nativeVerses": 433,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "1_corinthians",
+      "url": "https://bungo.iinaa.net/b46.html",
+      "htmlSha256": "5cff9c67c2694826e0b935187ca339a443bfacc342d726239edf473f3c69f04c",
+      "nativeVerses": 438,
+      "rawRedVerses": 2,
+      "redVerses": 2
+    },
+    {
+      "bookId": "2_corinthians",
+      "url": "https://bungo.iinaa.net/b47.html",
+      "htmlSha256": "071da880d9241eeadddb65f4ba79f61569f74b72e93dc840887c0d133a2226da",
+      "nativeVerses": 255,
+      "rawRedVerses": 1,
+      "redVerses": 1
+    },
+    {
+      "bookId": "galatians",
+      "url": "https://bungo.iinaa.net/b48.html",
+      "htmlSha256": "6ababdc2b23df78545c6179f3ab83a8a068aacd4c07782bcef5d4d9fe5851916",
+      "nativeVerses": 149,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "ephesians",
+      "url": "https://bungo.iinaa.net/b49.html",
+      "htmlSha256": "71f0a9a8758c0fc8370299e368f62a6775020e92aacbbd9b9b78f4395b99856b",
+      "nativeVerses": 153,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "philippians",
+      "url": "https://bungo.iinaa.net/b50.html",
+      "htmlSha256": "2f1981748df8ebd7f401322322b8c202fa81de213d0055e4c5f7e6bfd35d2483",
+      "nativeVerses": 104,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "colossians",
+      "url": "https://bungo.iinaa.net/b51.html",
+      "htmlSha256": "65725fd9b5b0490e4caf2fe2aae659f59dd4802cf26836c8ff7fa5a8ba2a3866",
+      "nativeVerses": 95,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "1_thessalonians",
+      "url": "https://bungo.iinaa.net/b52.html",
+      "htmlSha256": "94877e7c1db8709ffac3fbdb7d679735b017d89968915fa4a1f6cb6dc01c45f7",
+      "nativeVerses": 89,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "2_thessalonians",
+      "url": "https://bungo.iinaa.net/b53.html",
+      "htmlSha256": "a1b6f3e535018a9fed6e3a4c4128e056452bc1fa778a208ca8374a8499292b8d",
+      "nativeVerses": 47,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "1_timothy",
+      "url": "https://bungo.iinaa.net/b54.html",
+      "htmlSha256": "d911c851ea54e0b1ebaa4d577382ed1307c6ae793726524750e5d7de03993272",
+      "nativeVerses": 113,
+      "rawRedVerses": 1,
+      "redVerses": 1
+    },
+    {
+      "bookId": "2_timothy",
+      "url": "https://bungo.iinaa.net/b55.html",
+      "htmlSha256": "f2cf07bd0726476c4aaf15424086aadab2c099aa0c1810ce16e0ff0a77b66ce6",
+      "nativeVerses": 83,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "titus",
+      "url": "https://bungo.iinaa.net/b56.html",
+      "htmlSha256": "fa615ef57570e8308de9e0b6d2ebaf4931e3b088508b57ab863da68e62f96367",
+      "nativeVerses": 45,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "philemon",
+      "url": "https://bungo.iinaa.net/b57.html",
+      "htmlSha256": "3ec509c4b64df755cd4a4d05adcf918cce8b83b6709ca4cf09854acba141a89e",
+      "nativeVerses": 25,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "hebrews",
+      "url": "https://bungo.iinaa.net/b58.html",
+      "htmlSha256": "b3a6db16aa082945ab771518d3c913e6f2efadec3bbc847808720d428f175465",
+      "nativeVerses": 302,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "james",
+      "url": "https://bungo.iinaa.net/b59.html",
+      "htmlSha256": "53c11dec22a9ad333cc9e618515804942589b07ba7ae1f398e9c121ec6636ee8",
+      "nativeVerses": 108,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "1_peter",
+      "url": "https://bungo.iinaa.net/b60.html",
+      "htmlSha256": "bbb21fcd83abb0eb8da90d9c99b65ffd724a9c97a131dcda1fedec6b7e138843",
+      "nativeVerses": 104,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "2_peter",
+      "url": "https://bungo.iinaa.net/b61.html",
+      "htmlSha256": "3f908e3cd7b6ef96d17a0136aa44fe54701d6f79ad9829f1c2cfb23767ea6522",
+      "nativeVerses": 61,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "1_john",
+      "url": "https://bungo.iinaa.net/b62.html",
+      "htmlSha256": "e5ea7f87d59b730fc292096912b67225418b1d3608e2b45ef1755e3df2fa17b7",
+      "nativeVerses": 105,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "2_john",
+      "url": "https://bungo.iinaa.net/b63.html",
+      "htmlSha256": "5b88796033cf262bad32188796c2d4b6304d7c11453f1c9d12ab71156aff59d8",
+      "nativeVerses": 13,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "3_john",
+      "url": "https://bungo.iinaa.net/b64.html",
+      "htmlSha256": "969dbaf6366ca8b16feef824cadce7a6786d878f0484d2b816d7e946bc18ba86",
+      "nativeVerses": 15,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "jude",
+      "url": "https://bungo.iinaa.net/b65.html",
+      "htmlSha256": "2207b449621f0d652e078bb3d291f5a9837353ae6beb135bab2f6496d94dc962",
+      "nativeVerses": 25,
+      "rawRedVerses": 0,
+      "redVerses": 0
+    },
+    {
+      "bookId": "revelation",
+      "url": "https://bungo.iinaa.net/b66.html",
+      "htmlSha256": "7a06a561465bf864ed4a68c7682e2be665d8d0ba5275d2d2ef0190ceb42c6fc9",
+      "nativeVerses": 405,
+      "rawRedVerses": 70,
+      "redVerses": 70
+    }
+  ],
+  "counts": {
+    "rawSiteRed": 2060,
+    "kjvFull": 1402,
+    "kjvMixed": 626,
+    "siteRed": 2055,
+    "fullIntersection": 1396,
+    "mixedIntersection": 623,
+    "targetMixedUnits": 626
+  },
+  "kjvOnly": [
+    {
+      "bookId": "matthew",
+      "chapter": 17,
+      "verse": 21,
+      "kind": "full"
+    },
+    {
+      "bookId": "mark",
+      "chapter": 7,
+      "verse": 16,
+      "kind": "full"
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 44,
+      "kind": "full"
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 46,
+      "kind": "full"
+    },
+    {
+      "bookId": "mark",
+      "chapter": 11,
+      "verse": 26,
+      "kind": "full"
+    },
+    {
+      "bookId": "luke",
+      "chapter": 9,
+      "verse": 55,
+      "kind": "mixed"
+    },
+    {
+      "bookId": "luke",
+      "chapter": 9,
+      "verse": 56,
+      "kind": "mixed"
+    },
+    {
+      "bookId": "luke",
+      "chapter": 17,
+      "verse": 36,
+      "kind": "full"
+    },
+    {
+      "bookId": "luke",
+      "chapter": 20,
+      "verse": 23,
+      "kind": "mixed"
+    }
+  ],
+  "siteOnlyEditorialRed": [
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 75
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 27,
+      "verse": 63
+    },
+    {
+      "bookId": "mark",
+      "chapter": 5,
+      "verse": 31
+    },
+    {
+      "bookId": "mark",
+      "chapter": 8,
+      "verse": 23
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 49
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 61
+    },
+    {
+      "bookId": "luke",
+      "chapter": 24,
+      "verse": 7
+    },
+    {
+      "bookId": "john",
+      "chapter": 4,
+      "verse": 53
+    },
+    {
+      "bookId": "john",
+      "chapter": 5,
+      "verse": 11
+    },
+    {
+      "bookId": "john",
+      "chapter": 5,
+      "verse": 12
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 41
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 42
+    },
+    {
+      "bookId": "john",
+      "chapter": 7,
+      "verse": 36
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 22
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 33
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 52
+    },
+    {
+      "bookId": "john",
+      "chapter": 9,
+      "verse": 11
+    },
+    {
+      "bookId": "john",
+      "chapter": 12,
+      "verse": 34
+    },
+    {
+      "bookId": "john",
+      "chapter": 13,
+      "verse": 11
+    },
+    {
+      "bookId": "john",
+      "chapter": 16,
+      "verse": 17
+    },
+    {
+      "bookId": "john",
+      "chapter": 16,
+      "verse": 18
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 6
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 9
+    },
+    {
+      "bookId": "john",
+      "chapter": 21,
+      "verse": 23
+    },
+    {
+      "bookId": "acts",
+      "chapter": 10,
+      "verse": 15
+    },
+    {
+      "bookId": "acts",
+      "chapter": 11,
+      "verse": 7
+    },
+    {
+      "bookId": "acts",
+      "chapter": 11,
+      "verse": 9
+    },
+    {
+      "bookId": "1_timothy",
+      "chapter": 5,
+      "verse": 18
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 4,
+      "verse": 1
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 16,
+      "verse": 15
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 21,
+      "verse": 5
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 21,
+      "verse": 6
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 21,
+      "verse": 7
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 21,
+      "verse": 8
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 22,
+      "verse": 14
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 22,
+      "verse": 15
+    }
+  ],
+  "targetTextDifferences": [
+    {
+      "bookId": "matthew",
+      "chapter": 4,
+      "verse": 4,
+      "verseEnd": 4,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "EE643D4418202D8A7976EB6779B72A4DD28EB4F719BB1D5599431CBB2A15F3BE",
+      "targetSha256": "8F8DC72915966E8E063E6E825759D78D43D405D8B5B934E2AF0941568CF763B3",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 4,
+      "verse": 7,
+      "verseEnd": 7,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8FCC888D1D24B5700FA50DC555D347F6B13ED17D8B96B9F37F062892BF45A1D0",
+      "targetSha256": "D55D58843BF6B9FD34B61A70D0A586926EDC44F01BD0D810B937DEF064DEC962",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 4,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B9A39CDF03675EA48DA813DFF89342D74BBCFC5B6B7F2EEE309D637B7DCE79F1",
+      "targetSha256": "08188AA6C8679DDB7D9D389234852EF92F9B3D73BE096858A02740A04C592B6B",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 4,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "F6FD8FFAE76E3A271CF96210151AE3759EA4704C26D741A6F98ECED2A94E2FE4",
+      "targetSha256": "597A7EEDAF49784E51CAC06A616443DBEFB71FD3458F089F7E4D78F9DB080D70",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 4,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "BC42724BDEEF83465A68C4B33EAD66804A45E5360B8FBF8B1B0381D4492F80BD",
+      "targetSha256": "36DBF404D036E134851EA72CE9A6D1FC1A6C90713B56AD036718207E84028851",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 8,
+      "verse": 4,
+      "verseEnd": 4,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "CCA64C85A9E737C5FD703C97401823E9822FD508BB62C9032E7644708234F5B1",
+      "targetSha256": "97B80AEE89E10ADF4E9EB608588AA08AA55312C9496C1392A7D907EDC661E60A",
+      "differences": [
+        {
+          "site": "獻",
+          "target": "献"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 8,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "11089FD6EAEEB3290F3159B7B36D70F7ED310A9B5C0EE37526FC5EF038070CA0",
+      "targetSha256": "5D3AA468911370BB690E7DBB3E5267CF1D72F5112C78330F9256E702F942EB26",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "斯",
+          "target": "かか"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 8,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D2ADB0051FEAE9A60DE13A306C901FD31EA6CA74768AB59FA04ABCC9760B4446",
+      "targetSha256": "678FAC894FD2FBFC4D0B1E36C772C6A65670B5C548355FA77279D0B0366CF949",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 9,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6E59C6E669B11719C4BBD0A1273A1DD82C2C63E6C1B26473698DA1A7448F4D5A",
+      "targetSha256": "DED5D66F00CCA7769A49D7A64EFA7D844B99561A08B1D6D73707A1AA0AA22551",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 9,
+      "verse": 6,
+      "verseEnd": 6,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6F50DF1522496BD4437084B2769CFD657B54A38BBD1FE4E81B7F93C7F7ADC420",
+      "targetSha256": "3DA47543B020E7DA673F822208548940CB5F511B51FC308FE2A262B7C6533C08",
+      "differences": [
+        {
+          "site": "、",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 9,
+      "verse": 12,
+      "verseEnd": 12,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "105C5629E31D3BBB829EFFD086DFF45DD026A1A7A0DC14F3EB8A7C61E3D29B15",
+      "targetSha256": "E9ABEDB9196996E3F13A21D1CC8AECCCED188B1A422A7FF9C1C8E1827FABEB5C",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 9,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B1B915C229A13D01B61BB2EBA92BADAC31C505DC5A4C9C7E7DA732A67A23D778",
+      "targetSha256": "1803AFBB71761916A7AF6581CEB816543DFAA67C1D5B33EF1449873F76317C95",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 9,
+      "verse": 28,
+      "verseEnd": 28,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "44220C2AE6A7BA1FCB3E1114CE0D967AA07A9BAAD3E63A490038FF7C6B5043B0",
+      "targetSha256": "D94933D133590F832563AFCF1D24B653FD1AC75B804245CD941B962273BA91EE",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 10,
+      "verse": 5,
+      "verseEnd": 5,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "A6C7C03DBE017D2A3981BB8ED203F4D413282265F9A4CA960275FFECB0039136",
+      "targetSha256": "29D1451F279C21DDEEB2700E88229310E1A5EFDE9E60D14BAB0EA665A05A6E2F",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "   ",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 11,
+      "verse": 4,
+      "verseEnd": 4,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B7DC1F0FBCB2409F20895A0559F925B6BC9D73906D761D862108B7B6ADB7267A",
+      "targetSha256": "DBEBE63E3CA023D73624DB39C9D5ACDAAA8AC1C12B53919C6ED512A90AB5362A",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 11,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B59D064C0AF5DE36EC5642F236B2DE4E00F01A8F516228C1E69C0F76E6E6D11D",
+      "targetSha256": "C80D9CC0299AAFBABBEF4016D3DFA68C385118F05A4732BC1DCE6751C388F88F",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "、",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 12,
+      "verse": 11,
+      "verseEnd": 11,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "12E5ADA3D58C609BB4D56F45470FBFF7D16C7FC9A5F4F0A7B9C7C900AE172CBF",
+      "targetSha256": "F0539E7409A232A3F23B2184A1533A89A2E9771B4EBBF163D0239092A8E16567",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 12,
+      "verse": 13,
+      "verseEnd": 13,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "2E814FB84570874341F718717B0B438AE89C4598366AA634849AC2BB34835759",
+      "targetSha256": "43423C6EB91F93C2D5A83CE27E00899252BD8ED7CC09A59FF9D4C1C61F9BF8FA",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 12,
+      "verse": 48,
+      "verseEnd": 48,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E98208C3E74F5EBAC401D5701758D6F5047B762D09CEAA6442BC2A64D47A36F2",
+      "targetSha256": "EDE28EFF23C21DADEB3DAD0B32FB88E1F36AE347707F87A48458C94CC75700FA",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 12,
+      "verse": 49,
+      "verseEnd": 49,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B47A4551380EF49E2D8B0D4063DB9C2B7390B01B79D2364AE0421DA03AA1398E",
+      "targetSha256": "D75535C8E3665EA445DA205FE7D5601277C496F7B70F49F8D3F05956FC1689EC",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 13,
+      "verse": 3,
+      "verseEnd": 3,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C50CD5CB692573908F838CAFB76879D0301E8104FF42DFD8F5A5FF7C2D2C1914",
+      "targetSha256": "B6928C2ED8C196D3392D269CB28C7EA5C90143AEAD7A590881A332E464B7B7DB",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 13,
+      "verse": 33,
+      "verseEnd": 33,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B3E4BB20A2FEDC38FF20FA1E3A907C6CAF07A62D5BAC559521D942A44A7F787C",
+      "targetSha256": "5F84C232A476A81C6BB0AE6F5AC7E4AE2A05BC0C48DD0AD5BE0AE2B4692E0D07",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "悉",
+          "target": "ことごと"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 13,
+      "verse": 51,
+      "verseEnd": 51,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "35BF133E6E2CCDB81AE6AA9A96ABDEC817927800709DE3C64DA796B79C6ABF62",
+      "targetSha256": "A0E2391DEF8384AFD87AF0151884F53AE4FF13E0A2B375FD00B657078567E2CB",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 13,
+      "verse": 52,
+      "verseEnd": 52,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D70570168C5290232EFAE53534AC304C64D2FD17083899273F795EE21500FC7C",
+      "targetSha256": "A9725D0D542C00B9DB4ACD025C852E96E23C80F3C737C8CDAE7F0D4952E2577C",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 13,
+      "verse": 57,
+      "verseEnd": 57,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8DA5E89B6BD45C50DCE1C4B0C3E3D8FF10D39756A13A42C01B8C87F0FFC2CC26",
+      "targetSha256": "8A6276ECEF6878ACDD8AE09BF995C90EEF5F25F728AC6F8CEABDF3AA777641F0",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 14,
+      "verse": 27,
+      "verseEnd": 27,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9142267E197905E8B236294079CE17CCA3E413380EA5FCA3E7815FEBA6D08303",
+      "targetSha256": "02B7335BFBCA61E199B7AAE5B54F017F3F9974BB2A24D1D17D707B314CC04482",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 14,
+      "verse": 29,
+      "verseEnd": 29,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "927C01293FF323E64AA4B825E00EC9968FD3F4FD980F4A6D85038EF2C6EC3D54",
+      "targetSha256": "054C48E83173780CE13A46A978D4E26D14EBDA0E362AE245B58883E9ABF7B073",
+      "differences": [
+        {
+          "site": "步",
+          "target": "歩"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 15,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "28AE4364C6AE050DF335E3E2862E18CFB7EFD0F7A426C65A1505F60F7A9F107B",
+      "targetSha256": "71F2F79823B49B98E44291F30A0ADC8BF0CC764D7BC5FFBF12A13F4839023777",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 15,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "83E19FF70DCD73F9D23ABE34C8F62A608E3C55D82149E9D638A22052DBCD280E",
+      "targetSha256": "2C7558E0C67D29404B840C41A28BB12D5178D29F3069DDCE5480B882D05C48D8",
+      "differences": [
+        {
+          "site": "",
+          "target": "り"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 15,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "984B0FA3962C74D062300A0BAC702CFC5F1A17ACC03E9230E3B7448B80F4DE37",
+      "targetSha256": "0EEF7399B76B9E7B0CA703C9F596384A3DE4CD35B7057B511104D2771E4EB763",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 15,
+      "verse": 28,
+      "verseEnd": 28,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "EB633C5D7052136CE9CA056A9C9F359D64467D0D8AC8F56F63F7D16FD2C1C348",
+      "targetSha256": "6E25C19B7AA061746A09C096824D0A439C547D0335041FB600CF36A10AFA108F",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 15,
+      "verse": 32,
+      "verseEnd": 32,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6356CDFA0177498866D097CF19913695949813ED6022E389FFFAD20641650F22",
+      "targetSha256": "499C54CE8307A5834B65214DF3936E0FB6866E4DE0B16D73C8DF91D126FEA719",
+      "differences": [
+        {
+          "site": "旣",
+          "target": "既"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 16,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "573DF8DE6E9631AF4488FD2EBBAF72639B73D015468019B159154CA3D42D6856",
+      "targetSha256": "4A1E6DADF65EC434DE47565A540FFCCBC603AEE1DF78FF553CE11C311AA2DC55",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 16,
+      "verse": 4,
+      "verseEnd": 4,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "1622C7FB4955D85B1E805DD0CCA38BB6F9C5540D1171C42F9578B296C0FA89B5",
+      "targetSha256": "E6F67521C7930218DAAE7EDB01CA0D4C535659AEF41BBD4126FE42220B71F7E8",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        },
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 16,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9A7AAA53513479A15187ED34624EC45DC38BD6546F303B81D65C941435B17BE0",
+      "targetSha256": "486796322235BCE8BD4B6DE771210A17C6C18F041298BA01EF9B29AEBA09766B",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 17,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6D622FCFE09A603A75E8B87DC66FB44D6711F73AA96588C84503548F317BDC95",
+      "targetSha256": "497F1C854B2B6E934304AF41380A1B35364ACECA107210BA2765E0D43C8894EA",
+      "differences": [
+        {
+          "site": "誠",
+          "target": "まこと"
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 17,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "961186795DBF1E0539636DB105FFD959CDF224369DF7D5E059724A03AB3E482A",
+      "targetSha256": "A3E7C44209296664E850FA878C2DCFFDE7BB95948A753CA9306435FCD5FAD5F0",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 17,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "3B7508122C7A19F8AD7B77303DED5E29F488FBA346E703FC495609CBF13E9AAD",
+      "targetSha256": "AEE45F22073F967FF13980F6CBCD4DBF2220EB5A655F8973F0EB86A30E312BB2",
+      "differences": [
+        {
+          "site": "頓",
+          "target": "やが"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 18,
+      "verse": 3,
+      "verseEnd": 3,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "528C115710D29303B3A8E9E26A70A96A8D70CA1819EFA3E10F3A2756A2E5F130",
+      "targetSha256": "F077974484B69FBAD2377C05C6FB9AA6BE9A86E172AAA3395B67D7512B0B48D0",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 18,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FF166C5DBEA6DD6DCF13C575FF8AE7687E9846DB8A98E16B1995A8654EA37A11",
+      "targetSha256": "B741B97CEA68B2CC5320019C0F62A573C25297CCFFAD68782D56F719D346F38A",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 19,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9190B9E7C17D76B152798CCCF678F38E75C831FBD7F2C36DCA18F169D9FE0403",
+      "targetSha256": "D913093DD722AC8A1A97CF69E625AC17E684390BC65141EF5915F3C8CB492F21",
+      "differences": [
+        {
+          "site": "、無情",
+          "target": "つれなき"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 19,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "2EF6FECD7BF55210C111E715B7AA1D745A467888F0DC80B848D22AEDB3CFAA63",
+      "targetSha256": "709119576869BCF29D06BCBAC9376275838AC0FC1BC90FE7868AC37F4BFEEB62",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 19,
+      "verse": 18,
+      "verseEnd": 18,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "51CD87E1A57639741B07CEC8632FB907B408558F884037142BF62504C933AEDA",
+      "targetSha256": "1743A66C2E018B5681E9FA3B39F5F85C798B8C333380764AC47B0037D8BCCA17",
+      "differences": [
+        {
+          "site": "れ",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 19,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "74716437D3C4016E5FEF95AE4F422EEF6ED7A0315E8077C93E895613FE4BF8E4",
+      "targetSha256": "C3E4FBAEF9358A6D2F9E2A95E62BA661A7D348BF8506F3EF73ED730D2468B974",
+      "differences": [
+        {
+          "site": "寳",
+          "target": "寶"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 19,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "EB2F1D7DF7A99B7E564E22F036F429C9EDF486DA849A34FD8583E2012497B100",
+      "targetSha256": "A9CEED4034934B38951A08EDA7398144D21C4743BE6B2A40EAD2EA9230DBD963",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 19,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "08AC877FEC541F073A0560536E1FF9A7707ECCF4815B3EE42EC5520D8B3C6A51",
+      "targetSha256": "30137C312AEF49361253664FEBCC706947852382183DAC0C108E1E5D41D7C17D",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 19,
+      "verse": 28,
+      "verseEnd": 28,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5A5E5F0FB7F9EA5DAB7BEAB3D823F47DF6B86A7C4557F229F187C939E7F34318",
+      "targetSha256": "648AF189101D8391E2197BC6E6408E8945A02960EFCC21AE62565A40E2542F78",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 20,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "57E1E7CE757D82469B1A20625417A3E6369D54F33BCA647C2AC7DF36251E47A8",
+      "targetSha256": "5E872EF1321FE650E7D0ACD120831BD775AB91897415FCBC6C2351144C55C16D",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 20,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9BB124C260C536211D8C5105FEF19427BF3A5429934A2E3F7EA753C9B6A77B25",
+      "targetSha256": "28F6F163AA66165DE1633FCF75AA732904B4C908B0069E688BC6266C76238B04",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 20,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "989C63B5CF3981847A2B4200A8683C4E6EE15208D4304FA77CDBE12FE8A0C062",
+      "targetSha256": "B77B59DA31BAE7137F13A33F09F9DE93D668EE0CA07A5AABF7CA98773A22DD20",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 20,
+      "verse": 32,
+      "verseEnd": 32,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "328B610375723C07F0AF139C6D1A03E933057E3A416EF42BE6C4C481DFA6D66B",
+      "targetSha256": "6C700219111886FCAECFC199BCECC0493E12CEB92CD7D913619CD410BF77E7C3",
+      "differences": [
+        {
+          "site": "止",
+          "target": "どま"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 13,
+      "verseEnd": 13,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B049C1F0FF294244A2B5533ED8D149AC34B66879849297793813F6EF07079E80",
+      "targetSha256": "0AAA82CE52858851B3F79DDD199D78588F3C07CE0EEFB9351C865621A89FA931",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        },
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "强",
+          "target": "強"
+        },
+        {
+          "site": "巢",
+          "target": "巣"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "CFAD113B91297C067A4A9B9F702C715E1D6CA71B34C1CC8DB8149C9EA20FA104",
+      "targetSha256": "9E0A77C648D531AE4A5B39A6F566651C92A6CB2E3C0277903B3297A3CD27C2B9",
+      "differences": [
+        {
+          "site": "・",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C3A35793AD80260FC5B3CB75D4AE3CCC086B9735BC60C50EE19C91DD0787BF3B",
+      "targetSha256": "481A296ABA354142D5A07A5789DFCE16994B1DABA5EED58F00B95C08E51E26F6",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5E50D4B4C0860D5F376EAA25E4AFAFB4F016D6CBE6C17CE8CB5D49CBAC65AF2C",
+      "targetSha256": "44D3EA97AB5F55000B47DFDA75483B7490A19679E4A2B0D19A3348149844A08B",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D48690CDEED543465133309932980382CAFAFE2EB389C86950F56F99D0B746FD",
+      "targetSha256": "D5E73E9F0939CB663EAE73F28DCC8FE1013B4863427A1B23A3296C21A60F1D66",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 27,
+      "verseEnd": 27,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5E85377D6036FE82C5444DE39FFF88C7C77CC9865B7C8D4222C0E76E592F0CFC",
+      "targetSha256": "B48B9370396D15D65785DD15F33451D6737A11BE4B4267FA4F75781A373904C1",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 31,
+      "verseEnd": 31,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "2C86F9082D8655C111F9E3E257B71F5D70D8C71DBC2069F83742CF23266D6A34",
+      "targetSha256": "8BE5F139BBD9BB5A9AF1A2738CA98D56AA2D99A68CA147338C62DE279367B0B7",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 21,
+      "verse": 42,
+      "verseEnd": 42,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6B372E1DFD6AAB9949AEA34BB6D619710732D202BB64840D91B05C5A83A554F4",
+      "targetSha256": "83B0C7B06685C8E08DF5DDF1D76D5B18389BC5E7E9F8D32309A05F3E1934ED6F",
+      "differences": [
+        {
+          "site": "  ",
+          "target": ""
+        },
+        {
+          "site": "  ",
+          "target": ""
+        },
+        {
+          "site": "  ",
+          "target": ""
+        },
+        {
+          "site": "  ",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 22,
+      "verse": 43,
+      "verseEnd": 43,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "05BA1BD219BAD5C0CA9C239F2844BD0BA16B700C2306AF65AE7F465918DFFD89",
+      "targetSha256": "B000D70B9A0CDEF7E9CE4C67F3926A28C11E7F2CE2779E9FA47393352B4BADEB",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 24,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "26E345348615B162E2C03DE27FEA6EAEBC70BCE2B2D86F8C126771C179CE7209",
+      "targetSha256": "F0F639D998F5D3B71BD5A6B66CC739197C71C4F39B34B10ECC1EB1DA1D63FFE7",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 18,
+      "verseEnd": 18,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "448D3428924906917314E15EE05C3B8020CE10168A7944F4B266C0264AADFA67",
+      "targetSha256": "44D112A8FB1B087575F73EBD0E9FB2E1F80D8A729BF9AB99F2E273211DE971DD",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C819A6FF86FCC4074DB1D728233D2DE35EC9184979580B5AED762A50448501A1",
+      "targetSha256": "5EABA3DCA0AE79B611C67381D44DDD9451C1B12FCE427D588A5E60E0FF9D5B6C",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "631940DF07205488FA516C7E48409BE99AF0D1D097312D5E925FA65887DC7D68",
+      "targetSha256": "5B183BA6D32E63EB4AFA7BF684B77F2D19422A8324862BE8D102D4834AB80B3A",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 31,
+      "verseEnd": 31,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "EF3F85FBA5C3B6DF741E7190F53D138AC8A1F2D622DAB9DD3AEEB662A19A12BB",
+      "targetSha256": "764F007057A3E4F58696DE69B86FAAB816949B51A93889123C67C3A9CBF7DC2C",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7503BCE036A9111F6DCF9B31F2B9B7A6083114AFB6A55FB75D58C5D39EA840DF",
+      "targetSha256": "0DF8519AA84ABA8639BD7CE9B7B083F0B2556B96A53D63D53DA575C10D15EA9B",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "今宵、",
+          "target": "こよひ"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 36,
+      "verseEnd": 36,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1E20BCDBE3CC5F120103D38298700A04605C2C3E0F159A24F11C70DC14D35FD5",
+      "targetSha256": "2C79F6834C196DBA2CE112E8C09CC0EB57B713356A623B387C056E1D4E6DA82D",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8825A9FF8CA6BA4E020F1C2696F5E26946A0BD8F77A6BD4F9AD927F0B135ABDC",
+      "targetSha256": "BFDA4D0323D8C7DD6165F5BF885D43D7C9352CD6C2477A838E8DE40EC1581AFE",
+      "differences": [
+        {
+          "site": "ま",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 40,
+      "verseEnd": 40,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "482EF97C1F13D4DC5300868B1BE892E652F163D2C777C748C31632A98BF72D7B",
+      "targetSha256": "86F213CEA74CBD626C1EBF5F4E0A78B7C5B4D90B726BAA9B2B2F5D4C457CC481",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 42,
+      "verseEnd": 42,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0D59D14D7C1BB15FA378A907D8F5AE4D753A9AC0F11B0306981336C0B249B0D3",
+      "targetSha256": "D6375029B1C7971F75B26ACD9D760211E4EE3F418094C1F12E1B7732BC022910",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 45,
+      "verseEnd": 45,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C5321C735874D0E5348F0A15E6FD424446E5C3717180BC2A9354B0C50A8A1D8E",
+      "targetSha256": "F5B4A5EFFBC0D92F26D65A922264223C19258EC5CA2B577CEB7F326008E44F72",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 50,
+      "verseEnd": 50,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "93E9E5066DBCBBE933A0B9FD58BE9438D7E25DB635F5ED42B7C3CE5B5D37B086",
+      "targetSha256": "0964257F539D514D1E75515EF1D3777703EC04810F12C75A6F3BFEDA4FC393EA",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 55,
+      "verseEnd": 55,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7C0B8DC5C492FCF580725D64A38AC4174FFD930B19A0A37E58207FDBAD2FFD29",
+      "targetSha256": "EDAAF1A1890238E8DACE23CA11EA439DE407E6D81D12E595A24B657F2720E7D3",
+      "differences": [
+        {
+          "site": "强",
+          "target": "強"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 56,
+      "verseEnd": 56,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "6261E8BEDCE879BEC2947B8279153756045D731D00271E6AE59A5AA3E315D91C",
+      "targetSha256": "6C6CF692A8D37192E4298B5A49D4753FE0BF5A4D9288D5B4F8BE8208AFB007EB",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 26,
+      "verse": 64,
+      "verseEnd": 64,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9CE689763A21AEBA1054CF4F9704663CF873E61B5CDC394C979C885AF9EC75F8",
+      "targetSha256": "456E6857E6A0F5F9CC246F46A69E7B264261BE5920F875727DB20C568C96C931",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 27,
+      "verse": 11,
+      "verseEnd": 11,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E10D8E2844796BD3648D100825ACFA31B77FA16D23AEA67FCEA1B4EAC01D5070",
+      "targetSha256": "9F800BE59270842155FAEAC1387CDF66AA3603B484FE30000561DEEC8144EC73",
+      "differences": [
+        {
+          "site": "、",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 27,
+      "verse": 46,
+      "verseEnd": 46,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E144B5619C7ABFB9F97F20B437DC5960FDDE9A72BE5D87E769C0729330E328CF",
+      "targetSha256": "7FE0D084988BC230F73BF929AD3C087172ECF90004BB30AA68C35C10C5E3F9FB",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 28,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0FEA5E80E4829372FDA8E2EC45457AA840CB453B2366076FC4654A4A489BBA34",
+      "targetSha256": "87998B2C99C08CA10DBCA3AB36DD4C9F5B1A20A5DE54C537D39214A2E72E5A9D",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "matthew",
+      "chapter": 28,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B579EEC4758B28FB976F525558B21288EAA6E3E894E80EB3E91B0788F4B899F2",
+      "targetSha256": "E821E07D235965D4EA47BC01201EC4E9E4F741CBD8D38346ADE5F9E121289D8C",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 1,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0511EA7FE3D2E1D9D5B6EA6C56ECB4A861A6FE791941FEC92353FA48F1AFF271",
+      "targetSha256": "FE677ADB04717A14F4A4CAAE50E5B7198C05829D76EB4643211566F7367F2390",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 1,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "3F167F1F78621C23D0D95B0A2E295F130EB6F0F1224E0BFE84622F7DE9835A31",
+      "targetSha256": "F6C34F9251AA55966A7DB44A8E3CB1BA4882B274FA434F6AB7F0B607E7E8617E",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 1,
+      "verse": 44,
+      "verseEnd": 44,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "37BF6660F1A81B2C2C7D79F3E278F46896BC7FB3BB8720CF137B9E4BBE535983",
+      "targetSha256": "E36C92B4D1A95C1A6D84734F881270E5CD8FEA901CA6462B33A384D0EEA25FF0",
+      "differences": [
+        {
+          "site": "獻",
+          "target": "献"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 2,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "32950C2275FCE5CABE64C287214A2886B8BC18F4254DF8AC5517E5320BB591BF",
+      "targetSha256": "F66CBA42670EDCEF0F6EEBF9A1A310FBB2B25C36C089A8CE5630E48E97A3A546",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": "か"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 2,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "02B543B3E8F542F866F13BF74277E22568D92A9B5911CAD6B8FF48593886E584",
+      "targetSha256": "C237E3B8455DBF5FD460EFF1F3C2449EA4D45B8EB8C755BA5614DE46F6478738",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 2,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "EF0C90A22710E330531073D6A3F0A874888D87A67EAFA0756CDFBEA0AE18C325",
+      "targetSha256": "F4E6EC4028A0D8239DDA4229016B097E38B59DC40ED196133396AC450BF7752E",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 2,
+      "verse": 27,
+      "verseEnd": 27,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "874B63BA4DC489A61D6D47AAE743B6AA7EDB26A926850E80194B1AA62396A1ED",
+      "targetSha256": "F3B4F6D15CE2A0D702186979312332D8CC5AFDABC48DE4ED8CDAFF9BE68E55A9",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 3,
+      "verse": 4,
+      "verseEnd": 4,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "79A49E4BFB8556A46A89724674DB800184C3305F4934A5FC55389035770B1E6B",
+      "targetSha256": "68AFE2FE6F9902B7D32812E1B655CCB7738020C3346BC6303330BA4FED469165",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 3,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "39303A853013D69EFCB4BCDE1CC14638B06643EFC8CDA507269ACFA31E086042",
+      "targetSha256": "CA95821C574F855A2BE27F9EA8FEFF388B5185DA8C03EF8166BB17AC1E1848AA",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 3,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "AE774D146CD85D3D523B7B2FFC2D979BF0750708EB3BA974F974E93308DC1BB5",
+      "targetSha256": "C075483F969DA8FBFBE3093B17025D8822462FA41182838F7E673344A1A8B85E",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 4,
+      "verse": 11,
+      "verseEnd": 11,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "231E3C73270470ACC0346EC02A6C18F7A4DCE14759558699CB9FFE726468EB90",
+      "targetSha256": "592CAD4EDEDB78BD64FD7601F67324982512D468F236BAEE285263316E6FC6D4",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 4,
+      "verse": 13,
+      "verseEnd": 13,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "08E4A312A3E7C185902642B1295104B86A8C3E76109671197D707649952AD5E8",
+      "targetSha256": "E1D2DC98A421826316021F141C66BFFF525D0F69D349B131F7F282CF0763C44D",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 4,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "092E52809F37D667DA603143D07B0A7E98C6B304B51D68FCE650C40D26013C0D",
+      "targetSha256": "3C1D244573A2FA11F872C341EE2AF107F80364F2858849B93AC8865EC2EA74C7",
+      "differences": [
+        {
+          "site": "增",
+          "target": "増"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 4,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "827E02BE2B631FFB7895F543B58A93AE7BAFBCD18A03C4595059949CD69D96A5",
+      "targetSha256": "886B76D9FCD0655A12140D9DA3C5871A146A3CAA0F5764CCA7D9162E58BD4920",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 4,
+      "verse": 40,
+      "verseEnd": 40,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8D58ECD35F85B5CBDBF0EBD7F8AAE60EC5AA3DA132E2935A747F1849041E50B3",
+      "targetSha256": "5B19D1412307267CD494C4D30EC7549450EB4BC51BCF6E9327056CB767EF45CC",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 5,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "91FDABC6EBEDF88F0EBBD0A5BA3ED99170329C0D27D5AD9DC37D8A9278431C96",
+      "targetSha256": "5C8032D0CEBDD225C21465F109C8675A8457779143A25A489B700A58D322A4B4",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 5,
+      "verse": 36,
+      "verseEnd": 36,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C23BC17BB2FE5BA3C4D9A53FC8C0B970BEFB834DE1EA4E3B5250CC5A990B105D",
+      "targetSha256": "94C854AFE9B842C46EB51E685E0915F5F370A692980A764EC523209C8D362C06",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 5,
+      "verse": 39,
+      "verseEnd": 39,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "131C558723447DCF296D20D1B8BF35FAA518B86227A6181F90B8106C701C7C58",
+      "targetSha256": "B5FDC4ECFEA5661A00D96AE028C29E1FFF4AD5F79FA4FA76DA2C7E43D1B854DC",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 6,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6C76C4A5DAA18F7203CD262E2640D106D10387D1C95DA91522D94AB6E7D6DDB2",
+      "targetSha256": "AE348C75BB4237C2D37501DF39D5638B76909A9814E8CFB7F810A7F039FDA47D",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 6,
+      "verse": 37,
+      "verseEnd": 37,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8507F51DA1ADE4AC742C61ADED1E68BCBCC1EBF20C2BA0D5272416627C9336BC",
+      "targetSha256": "D30C42F04C86E34603CA95AA5EAD7CBA1D820E5B1AD09D5071D3401D1B37C2BF",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 6,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "3C5B00472A600D72C633AC07F9A2881D099FBD855E8A1BE0CE5E90232A78F92D",
+      "targetSha256": "613025799B4E5E2331F9CA4ECF2C7B93EB5D555B3386B4D1301DAA667E530C00",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 6,
+      "verse": 50,
+      "verseEnd": 50,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0ADBCE1A9BA934C7F0A98F0A38AD0F14FD210404CA190DF388B2304E5BD6C03F",
+      "targetSha256": "9A1281C1C2B6E790B98974AC0A8155E0530D32216A3FC8B77CA13021BCA9D4D9",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 7,
+      "verse": 6,
+      "verseEnd": 6,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9089306ABBCF45F6708ADB9FDA1E658E1B0B0C6ED41B62DA02656DB698AEF7CB",
+      "targetSha256": "78378F7D55DEE52DBB581CBEBA8BE4FE256F3C0A822A7355E6A2D30ECE03AE52",
+      "differences": [
+        {
+          "site": "  ",
+          "target": ""
+        },
+        {
+          "site": "  然",
+          "target": "さ"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 7,
+      "verse": 9,
+      "verseEnd": 9,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "CC0950DFF76CE20910C9222FE6936310B9F5AEE9649AB813FF85657BC5769C19",
+      "targetSha256": "F2DCC0B46C9D2FEA35E48D85D9A3016E1193F77B61874A37B145A9EE54EBAAFC",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 7,
+      "verse": 29,
+      "verseEnd": 29,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E9A30AF1AFF7305E441539DAC73961C23802BC65E1C80E1114FF3C6C01D84EED",
+      "targetSha256": "9E29FC1F07EF577D1D9FFA89048C4743E6427FEAFC778CDCA5160CC6C56EA77D",
+      "differences": [
+        {
+          "site": "旣",
+          "target": "既"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 8,
+      "verse": 12,
+      "verseEnd": 12,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "99777EAA7AB5009BE24CF121033BD65FB80AD7398DA0BDD067D0E8716335629A",
+      "targetSha256": "F26B1650A5BDE0BB5A9522160558997231912E771722495309FE4B25D0B455B6",
+      "differences": [
+        {
+          "site": "誠",
+          "target": "まこと"
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 8,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1562C5D4D0D6CD6E56FBE5F61D70EE242FE655D11E43A46DC12870430FD71BC9",
+      "targetSha256": "6D3FA77B36781E0ACCD0BD093D1D03873F2AE159A891F56DE301549B305B2BFB",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 8,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0D08238B3E0BF5B2350F02135C25A13F0CDD707756C221A3CF12CD399A2AEC96",
+      "targetSha256": "79494F55610E70D8FCFA60F193F8D516805D31D79E325AFCCBC9C0C8D496A0B4",
+      "differences": [
+        {
+          "site": "擘",
+          "target": "裂"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 8,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "936CFBF9F570DF385758893D98F32CB708DA583E995620DE8AD81F51128CFC27",
+      "targetSha256": "E17EB9B0E151569D7B60FDFD5C938AB20753D74B747AFF5A318BC09E5A806A85",
+      "differences": [
+        {
+          "site": "擘",
+          "target": "裂"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 8,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0EFF9D0A1FF1D827058C0FBAD7E69A62B263FD71392C32D9F644794D723B6FF4",
+      "targetSha256": "BB9CF6DCE02318167373A651411856CDBC2C7D8487AB00B166E04D422015F317",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 8,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "74687D7B25AA4C5ED494ED5C759087BC2EC13A9CFF906761C1E3B87BE3C2583C",
+      "targetSha256": "8D5452CD0EA3513B7A44B92927A1A00A6293CD1530A801D18098B1AD493A6466",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 1,
+      "verseEnd": 1,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "64F35D41DE012C1B1A39AA7A5605C0B0B564C3731CCFBEDD95040E149428A6FF",
+      "targetSha256": "586D3C2EAFBE158F88CB46DB5ADEEFBB79AD1C76960F9799BC22DF9E42E57402",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 12,
+      "verseEnd": 12,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "4F3AF40564E0E5B8510414F8CB37762D841F0CC0E84B5E2DBDD0E3E1AA1B9711",
+      "targetSha256": "D81658CC183CA181D89EE970666F66BA42C217E92769547E1DCDED377608D962",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "AAA1C151888ACEA99BA4B85273BD0B06B1D87A0628BF39D81E5A9E719BD0ED93",
+      "targetSha256": "ABB8DB41D592B9974A009A6FF73AB3548C524F2E387F4D6C6CC4C97A9A7E075F",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "074CB7B512200E729C7DA4CACEEB0B35D7E10CF224BC4D67B01D34488FD74B45",
+      "targetSha256": "CD030BAEC18911E15D875ADB891699C524D413B5ABF7F2A23C2BAECECAB39511",
+      "differences": [
+        {
+          "site": "啞",
+          "target": "唖"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 31,
+      "verseEnd": 31,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "04E2255F78DAA325D598C4560994A20DCAE01E5355D857391581F7125A22EA7B",
+      "targetSha256": "83D14CD2FA5C41C3BFD97D1E28C8D49056E8A5ABB26183560E8E1A79685FE4B4",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 33,
+      "verseEnd": 33,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6D87619B58D0928768FE9B069AFD8CF04F25E81F8BF883EC01B19DBF4B2D0611",
+      "targetSha256": "320DE4AEDAA721D5E1034C6E397DEF599E83CE9238D45EE244A3B9FB3D5E88DF",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 9,
+      "verse": 35,
+      "verseEnd": 35,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E530180161BB863A6E679C9694BA986E58C44E090E94B6021E72C8A4501C02EB",
+      "targetSha256": "C620FFDE88493640BA2B5056EAC41CE25B0A3EB31898F3DB91FBE19779202C16",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 5,
+      "verseEnd": 5,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5B3A74CB80E20AC089B70195956E760E10141CA629A87D5ECADDA23C4360BA79",
+      "targetSha256": "E1248A1186BEC6155E7602FC6DEA28678497BFE4EC47AFC16AB94E4E5F3130A9",
+      "differences": [
+        {
+          "site": "、無情",
+          "target": "つれなき"
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 11,
+      "verseEnd": 11,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "BB782DA4980A27CCA6FC14E6B6C6B92AD25AAB0AAF25B57E081CFBE57B724604",
+      "targetSha256": "0E5ADF18EC5AF12D3B8BC6B3D2A377875B5057D47A4983781DA31370D4B5145F",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "4AD8BCF40F3812F4D52ED2DB3C8547995CD3B7BF281B1D51BFE5FAEF6A04D05D",
+      "targetSha256": "C99C62E666BEA6BC579788E76D919B79036239CB8AF9ADF646034B071ACC39E9",
+      "differences": [
+        {
+          "site": "",
+          "target": "く"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "23E9BD28AC6A1E2679FA3B472C0203E4A6FD5DAD3FC7D375293C72B0AAE261A0",
+      "targetSha256": "16A3B8E96352C69F1B8E049EC3B7D613A37E2F930F63E5031024DDC6D522A246",
+      "differences": [
+        {
+          "site": "尙",
+          "target": "尚"
+        },
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "寳",
+          "target": "寶"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "251C3A1F03C5CE2D525830CEDE2D4905C008F3716CEFF3E80D15C56E4C168A88",
+      "targetSha256": "B6AC91720AC6E1E46331D3D9C7B8F666ED24518307E0C9E7B603BD4BB258A889",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 29,
+      "verseEnd": 29,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "BB2D644A0FDC2C0E3DBA34F776C5A37D5A539837515F4B1ABE3ACC400A6A64C2",
+      "targetSha256": "5C7F81183B28FC67CB5BA97C703A9FA69FD9D4A0DC7A70C8F416795C11C0A959",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "、或は家",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9E53A8C86517B20F154CF0ADC9478927CB8927B30788C2E9656EF6C0DCE8C304",
+      "targetSha256": "08EB4DE26D3EA7B94BF38F7B3E35DE154C7F82067ADA8A8C5F702CB2A446810D",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 10,
+      "verse": 39,
+      "verseEnd": 39,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0F417992B6FBB5CD90D74BA6F858A400B6D31CA1F9F0F4A8B9E14D02B5E55D31",
+      "targetSha256": "0EFD5EDC4D9FF0B5A35B3D50CA342E9E10A8F7757980A3243B7483D8F237E564",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 11,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "DA805B57C5E78DAF011CCEE84FAE235581E70111C3AAD0C1FCD6F6D7AC3CA53A",
+      "targetSha256": "28EC0D1B6E0568C61A881D94A987B9A2F772C3D0E3801C56E9433D2A327F8D1C",
+      "differences": [
+        {
+          "site": "頓",
+          "target": "やが"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 11,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6CE5EFF1B7CCD8B00219F30EB515FB6BAC8732A3E1303D1762867F3B3D8CB912",
+      "targetSha256": "82E284320A82B307D8FA00175071CB29E6A530BC9F9299F79C90EF73615C4227",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        },
+        {
+          "site": "强",
+          "target": "強"
+        },
+        {
+          "site": "巢",
+          "target": "巣"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 11,
+      "verse": 29,
+      "verseEnd": 29,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "274165953C2FFBAD414EC25AB57946233F1A3042ABE7FF4A2AB6CDC5A45BEBD3",
+      "targetSha256": "4B300D0796EDC85442147A9B0348141D702122DF60FAB33734974B36DEED5FEE",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "然",
+          "target": "さ"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 11,
+      "verse": 33,
+      "verseEnd": 33,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "260125F2C6F3A0133F92564BB1445A6626592AE03E071431E1196ACFBB56CB43",
+      "targetSha256": "3D17E40B523831D80CB77CA3A2B9853D5C8E63712E5B9FE70B9D3AC058EB072F",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 12,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "68BB59F8617BC1A226F66FFC2E091C5C97CC4DA65850BCBC9396B5735673807B",
+      "targetSha256": "C141C5569481D69647EDD20B0D2FCAFAEAA6BBA3E5C20B0437B7E076B706CF78",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 12,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5540C6E767E3627E0A6FD199D571CB5A4BA48AA997CF802AEA8BDF4E75C15CF2",
+      "targetSha256": "5528BA8693F9776D79E6EF577EFC59FCA6C7CF58E841825214A598A4E606CEF0",
+      "differences": [
+        {
+          "site": "",
+          "target": "へ"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 12,
+      "verse": 35,
+      "verseEnd": 35,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B9B343407995778067D7A00632A849ABC5281B55579D163927F4A4251FF8454E",
+      "targetSha256": "888EA024DE7B56225A797BE0BC105617C6B0443B0E2EB21E419F49ADF257076C",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 12,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "03912C890F828450B8F5A4377FC34F8272C59BEBFE6D412BB6EF262CD5E5B4CD",
+      "targetSha256": "E2FA51BDB9F5F265466DC6291FDFC43ED5DCE4B918F64089458B3633ACF48E06",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "步",
+          "target": "歩"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 12,
+      "verse": 43,
+      "verseEnd": 43,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "63DBF6B3DB5F515F1AF11AA5F3430D81A8A38DAAC0FA446E1C79CE7C1A6B28AE",
+      "targetSha256": "0A23D5828799B381928CC81D0721AD8E1A1BBF13D1A5B424C72F82889D4A140A",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 13,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "74C9E2F7CCC6B9E7239B13F67BB8541B9930AE9398DCD80D67ADD92954329B87",
+      "targetSha256": "5C9321CF2B88CF133F8B27A9A6D2A1D4E73E2BC3C5D31E8C8135EF44C36B17C3",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 18,
+      "verseEnd": 18,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "470D6EB3F22A714D87AD597877BC549EF0C243E3D0D3862351F9346D05E15C93",
+      "targetSha256": "54964C48D920D69A0CAD916FD8EBC183AEC5C0508FD3671325A2AFDB3E5A6028",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9D0AE81F699EE83FE3E990ECFDEAE946124D98BED66A18F42BE77AE963D5D7E3",
+      "targetSha256": "D5D33FC611CB55D669D9D5C939EA337AC114C5D53E6F62F5C22CB8355357673C",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 27,
+      "verseEnd": 27,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "63E6A4F5F1033E22695FAC065B902203B87B165E29EBD182EC497655AFA6F218",
+      "targetSha256": "68597662F66F8B9DD4F27036100AA9A6271F78F58CE57AEC15BD08ECEFABA7C8",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "然",
+          "target": "さ"
+        },
+        {
+          "site": "、",
+          "target": " "
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 30,
+      "verseEnd": 30,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6A0020935B2277743DE299822F316DCA64A462C88A81B26616C5C736799E3918",
+      "targetSha256": "8D2A8F2825D28D3DDD9D95CA3788E416B424FFAB80F754C7E0176FF76C331770",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 37,
+      "verseEnd": 37,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FD7E6DA43A37FF2EFF9E7DB5B3FB123376FED0778F8BD26E3BD689D9CEF5771E",
+      "targetSha256": "CD100F42E58B138AEAA45EB89B44B159ED6A99FEF7F8F0F53F336D7A8B8AEDC3",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 41,
+      "verseEnd": 41,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B3AA36B6CA1E284C60817367563E56BD43B9A39DC534A8E57F4D0FC8B3D57F22",
+      "targetSha256": "83B84EF5D70B4B37F7CA7BE311D6FF044EF8F3DA45636933214F6FCD311AFB19",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 48,
+      "verseEnd": 48,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B322AC4FD46F69E9ECA2CF35E0E9D9C187701146F3ED137A3F7513BFCF7621C8",
+      "targetSha256": "6E6D7E6FB096CD9877B672CDC8BA82962CFF0E427F9801E6278EE8544C1FA987",
+      "differences": [
+        {
+          "site": "强",
+          "target": "強"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 14,
+      "verse": 62,
+      "verseEnd": 62,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "873DFD97F2E4B5E36488D42318D9AF2D9DF179E4D74B62437EC4F843F17A6C36",
+      "targetSha256": "BE658F9416AE684B1A02075D91636C2CA18C639FD41521A602C1DF8A0D5386F6",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 15,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1D757BB00DCA8AE81AD269729D2ED4375057DF422EB4F3E8B9DE2F7E62527217",
+      "targetSha256": "F7E1B3DCE68A285588E35CEACC7A233F9F0CB475C1EC8147B1299DC223FDC256",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "chapter": 16,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1E0EE1C2A3110676FBE1CCC16FB8273A4406758B4EC6F7E2FCFCD2807A1CC1F0",
+      "targetSha256": "D60E724218EB35564BD7B95F43BD225E7ECB370D2CF6510A31225CD0BA6E526B",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 2,
+      "verse": 49,
+      "verseEnd": 49,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1E8DB7B9F5705983D80030F54FB98D1B2C4E05CAD89C4F2553C3E88835DFECE3",
+      "targetSha256": "E97B439D0D7AC6160239028CDDA371C6C898ABC5CD6C97FE2149CE515E867E3E",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 4,
+      "verse": 4,
+      "verseEnd": 4,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "4F8DFD03C0588E2CC314592059A77F7E6244496F8C270AD96B2AA13AB2EA8181",
+      "targetSha256": "1E73A4269502BA26A9F3241892F9CBE458FFED43C3E43A1B440DDD1F20600794",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 4,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "502B20335BA8B585C5DA0E7D09C7015607194881E74ADEEF607E53B9800FEE85",
+      "targetSha256": "D63645504A14165CAA2F8B6B3E909FFE55A2371A46C948DEF56E2ACB87A0ECE5",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 4,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D2874D9A1FE4405453EEB4A4CBF78565420819C446790687086E0C7137B59DEF",
+      "targetSha256": "E2235A696DEDBD3C133381A94131DD845CC16F110CA97E722EC2E38A68C8C5C3",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 4,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6DA8720ACC3761A0E80256B6F47579BB50867F1893C27C08DFC34588AACE80AB",
+      "targetSha256": "B317097CE0D4B658C36D8A31A7CA04EA952FAD92146F3B34727ED82740AF090A",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 5,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "00D5AD9502BA38A28267DF373C3149F8F40967261AB953E4645FB27CC327257F",
+      "targetSha256": "2EEB3D79C8637D4E3F6B2EE544B94506F5208EE7ADBB9DA878C07E02FB3EA6A8",
+      "differences": [
+        {
+          "site": "後、",
+          "target": "のち"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 5,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "128FB8AE02137887444F88115FA46862A21901BC2DA46279EE9AB9C322ED82CC",
+      "targetSha256": "0199349C5E6343A8C67BD3151BAF6EC3B18A7FE4CDE062445CCE4A959EE8AECF",
+      "differences": [
+        {
+          "site": "獻",
+          "target": "献"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 5,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "80E21906D2B38D341DA39563D93D4AB16E6F9F40268C241C519B28AD18301D70",
+      "targetSha256": "7E6EE5E0B2BD3A44B3BB6465A1A4790B8B0D822DF9E614C7722BA25F801EAB60",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 5,
+      "verse": 31,
+      "verseEnd": 31,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "04DA10AED6E3CF72C2A7B813E0C50AD0E709DA625F392F3410B43B93D384A744",
+      "targetSha256": "4FEEB6B71F0A257C40D053FEAA876502186EFA6016A03A5467B9F8B0C6D6B3F3",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 5,
+      "verse": 36,
+      "verseEnd": 36,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "596B22425EB70ED8B4CBBC488450EAAC47B215C52CB7C27032EDC828E7943EB2",
+      "targetSha256": "7D04B2D935C6BE33F2C2950E9EB169CBE85B9D244302D699CD9CC9BD1F390BE3",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 6,
+      "verse": 5,
+      "verseEnd": 5,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "AAA051A3996D111E36508FA60519770AA4C4FC70FB36426B52901A853D1EA6F3",
+      "targetSha256": "0B51D56698E9B137795EE931D169AC99C9BF7530E7964CCEB50B4D9F41DF3EE7",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 6,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "CD67C9E3A1A10233719A3260A3AF4689E823D95AFCDC4433CBF0A441A70FEEB4",
+      "targetSha256": "C81E791FB6F51CB2792CA351CAECCCB2FC8267E306A19EE35FE1FFF179BF6FE1",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 6,
+      "verse": 9,
+      "verseEnd": 9,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "612BB5743480BBA246586C768A6675350062926836C7829BC562B928ACFED6B1",
+      "targetSha256": "2D0256FDCE6C08B871ADC264BBB33C6936F35A9EA6BD5DA6C3D353D857A098E8",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 6,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C60A9B6270F0CBFBA8BD2339F2CD30ACF25EAAF13F1152CE6F68BE1D3620EB8D",
+      "targetSha256": "19B925BF9ED893F8FF87FFBC5DB23963F0DA7477E0792360163E1B71AF350BA4",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 7,
+      "verse": 9,
+      "verseEnd": 9,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8B7E67EA70333C72C9694C07BCAEF2AF4EFD0687F0D6189796AA99AAD125778B",
+      "targetSha256": "A0FF3002B33751C66B56A98B39752EC7A78DFC7318B6278A016DF6605759E8A3",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": "か"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 7,
+      "verse": 13,
+      "verseEnd": 13,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9382A171DFCACD04B73393BF0D53B953FAEDD5306647CDDAE196AD525B7EC84C",
+      "targetSha256": "24B88390FA5DD8E09051F8D784DB23FB8BF5D856BA385739276F77CE7E6DA59D",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 7,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "61E8A3258F3B98D95FEBD01DF43FD49F842AE2F7A966907FF777C679267C85A2",
+      "targetSha256": "0177774FD452E19D96CB59689C7B7A3061B12314F895ADF21F6FA66E5517B870",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 7,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E2E969B8DCE6F244FA8A77C077479D9E7C8F918D07C23734688FE13FC73428B1",
+      "targetSha256": "AF825F9D8CCBF3C896FD3ED17C684C7CBD4E3521C6FFE663B828E882EBDBA5EB",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 7,
+      "verse": 31,
+      "verseEnd": 31,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "ADF55118938D1A6025B4AF449543D330A13081FC9B28D1F8FDD86D0179B5D225",
+      "targetSha256": "86B3DD7B55FBD8E4362A85EF2B8FA8ACE8B4782A34C76CF86469C6B246C66C88",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 7,
+      "verse": 44,
+      "verseEnd": 44,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "22109A657A2F5F0B73004EA068B9AE9F579595FF4E11A2A1DBC20B231C64FB23",
+      "targetSha256": "75397A05CD29BB33133CF714268F37A936E9D1EB0F89600FFE15169FD74A0D7F",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "淚",
+          "target": "涙"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 7,
+      "verse": 50,
+      "verseEnd": 50,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "F5597E2D86B8BFC66AA579D05611332A0BD784A7D8DB9F2860492E9F041A8187",
+      "targetSha256": "32B485C63ADC687C5C58BC0347BA0C6710A8C116426645C2FCD6A15DF04D8EC9",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 8,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "59D362B8BD9B7931A0C125C2D35D25336904EA529DF5149C42EBA9D9FD4F279C",
+      "targetSha256": "D7D80044C3FE845C6EA3D722F7307BC39620A4048274F220877432B54FA2D177",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 8,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E3FA10EE4486B2112C170EF803B66B2C7ED0C34542B697DC189A78A659BC356A",
+      "targetSha256": "52F2FBA8045BB0C380B4233784AFA9D16C25C42443B84AF4EF2037B6950DF20D",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 8,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FB006D063B83313C4985B3E3CAD8CD45B7BFEEFC260182914217B17A1AE8C096",
+      "targetSha256": "FAC3CF6CE74997505F156465E34FBF850CC19E0C60453A904ACE126161949D6E",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 8,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "21055BF4864D213323AB07AAAF93AEA876F3EBC1B7B9102FF70AC821F7CC262E",
+      "targetSha256": "99319AC30A67A3A0F5723892F235F912B39B7322C4608164BBF385BF65855DB9",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 8,
+      "verse": 39,
+      "verseEnd": 39,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B3D89F2FA234BF862BE7E7A861AF689174DCD5BA69CFDD8D1977957F219C5844",
+      "targetSha256": "ECAF42D2D92410654254192AE40001D58B9D8322B128085ACDC7666185F12FC1",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 8,
+      "verse": 50,
+      "verseEnd": 50,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "86DAF8DAF7ECF1D07642E87B1764F445832E78C02D4A7C804B5B2147577E7A18",
+      "targetSha256": "252BF81CBAE6486B98248349418FF7677AED13FA91E2708BE88A1E172E6127FB",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 9,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7771558F4A049C01DB06B07FC454315CEC1FEF50A12CC29AEA16D84E20761FD4",
+      "targetSha256": "2184ED95921453F51FBBCD1DB2658CDF94D2589516850F2AC978C14020866A55",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 9,
+      "verse": 18,
+      "verseEnd": 18,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FE92553B4C11A33BCC0107903C1404F86C267D84F66162723DE1E350D5980ED7",
+      "targetSha256": "AE5F8153E22AA75498B12EFB5F26B262B7FB180A991BAAA274668A35444164A6",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 9,
+      "verse": 59,
+      "verseEnd": 59,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "CD830550C361D0FEE0AF469C427424A8B5F968188F51CABE4B615FF8F5ABF2F1",
+      "targetSha256": "B4572385C11F92C8F49DAFF6199D448DF43FEAC68F39DF3FF1F64A8A03C3E791",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 10,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5B6648B0D1F476DFBFAC7C5821E3F59D10F2C0E3483BB01950DB37C001A42852",
+      "targetSha256": "8719ACE381690496CE1D77F94821A998BD06562CEF150C44A668928A1F38FDFF",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 10,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7059E222E4AC3AF0591B6D3D959BF2F07E30F4D660EC0C18EADB06F029A605DD",
+      "targetSha256": "971B6BC7F2A51ABA898E13FB54539EE656811BF740A2C8BDE1E40618EA76CD90",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 10,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D963329D322DB9DD5308B1ED0FE1242ACC8B327AEDDA63EEC74377BD505C1AEC",
+      "targetSha256": "B66517C01C2437F468C198CBF13F54FDDF8EE2CFE1309E8A3D4906BDEC3D61BE",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "窃",
+          "target": "竊"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 10,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "F303B8DB909573C04ECCD71118399E91BC7A2BAF793EF384DA0E41DEB073F989",
+      "targetSha256": "645D748493E9F36DF3185DA05DBF0DC632D47D448459F03E13C08623308287D7",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 10,
+      "verse": 30,
+      "verseEnd": 30,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6BB11619ACEA4C183D5C122049EF0EC03139D0CCDFC60EBFA878A01F7678460F",
+      "targetSha256": "3033195C1F0AAD93B87E7A21791075118884A9D13F2ED23837DA1BC9C5038A75",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "、强",
+          "target": "強"
+        },
+        {
+          "site": "强",
+          "target": "強"
+        },
+        {
+          "site": "剝",
+          "target": "剥"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 11,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0DDE3D9C3E6D93F6A5EFE2804C3038A8C0F3D54DF3B75BC980698A41B98C4D17",
+      "targetSha256": "781F05F12EFD59CAABDF8F8F73674DC493792ECEED7B3BC1021629598A5E522C",
+      "differences": [
+        {
+          "site": "",
+          "target": "は"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 11,
+      "verse": 39,
+      "verseEnd": 39,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7E236AD0943AE27048F9BBF4C10A9833FF620C7BF32A63A580C19ED2AF88DD1E",
+      "targetSha256": "EE01289B3119A3E1730B63A3220DB18AB14C40C776D348FCAE51769A16177228",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        },
+        {
+          "site": "內",
+          "target": "内"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 11,
+      "verse": 46,
+      "verseEnd": 46,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "A075A8F6D99A20EA92AFEB19B7CD965D3E4F85849FD88F619FCBCB5309C36E70",
+      "targetSha256": "44C468E71BCF7B395E2D6067CAB53E938973D48109F640A177199B9B269E2C8E",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 12,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C76EC3F8A568D869FC0F34EF6882FD59A9DE269C464BD7EBD89065C1B899549C",
+      "targetSha256": "CFC4E17E5973A8BF667DB6340A74C3039351DCE8FFB8E648AE214BFDE74AAB1C",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 12,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8111C16A5ACC844A8FD9D9E89B29307236D611E5B17BE1F334D585E6248F4F29",
+      "targetSha256": "E5623D7BC84676F35C57C67383982CF852388ACEF58F85C66EE3DF6F80DB1911",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 12,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "35368B669E4C1551ECA6342C9C85E2DB6C34BC1685016FCB5D811636C26C2A3B",
+      "targetSha256": "0A7F0B907FA97DB7425CCA8B8159DF63C93B8683F599FB4D57684CF6FD199973",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 12,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8018B579985B3FA16315E6D5A4B4B4E659649C0707A6AA5F4E26837D27BADEDE",
+      "targetSha256": "836A36F8F56C132F96F817DFAD50BC05956DAB4F119DE1429B19EACEBDFC0197",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 13,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8A1973FF5AF13D0B84A97AF983F0C2B1CB7BBD1B71EDD89898D170A2FB194BED",
+      "targetSha256": "434E818BE081A00C0D2940455C78069168B8AF3B5F01B9A0B1A76FD83111270E",
+      "differences": [
+        {
+          "site": "",
+          "target": "か"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 13,
+      "verse": 6,
+      "verseEnd": 6,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D7AC7CEDA25028AF7480331A860BB06CD27A079FEC4B50C13B85836CD321AD90",
+      "targetSha256": "C33D0D479EF6BD83891BFF8C3AA8BFFEFF0B81C8BBE88097B7A5287C528D20D6",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 13,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "CE69D0A70F619E56FD08D0DEAF3DAA70947A71F36EB14DB6C58F30C6B4D6AFE0",
+      "targetSha256": "A29947F9C0124E773D0E8E54155AA5E9667CE8E3C9D43712C6BFC29B654B37E2",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 13,
+      "verse": 18,
+      "verseEnd": 18,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1DE1F0C42E01A2BCBA38F2028B1460AF03A5573DCE4C207B9076718287F18F3E",
+      "targetSha256": "A7622BE40EFD1EE46713A56D949EAFFCCCDD54183149A66B6B51C60E91147A38",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 13,
+      "verse": 32,
+      "verseEnd": 32,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B0F400093BF304037A0D6AC14016A5B76C31FCC62053D9CEF12D5277DA8C2449",
+      "targetSha256": "B09C576239AC36B15C365DBF6952482A63DF0E92A95C3A4D7089A0EB53E53C96",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 14,
+      "verse": 3,
+      "verseEnd": 3,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "42CF2199CCB89F40F487C13803B60EC1E37D58376357C7E8D189DB7CCB912546",
+      "targetSha256": "47A1AE99920F0FADDE62F7F8B3E1341FA8997FF9167603F1A27C4699EC464F13",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 14,
+      "verse": 5,
+      "verseEnd": 5,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5AB5B42FE6BA1D3E0F10EF9FC9A075D600FB6FD4493409A4AEC5212A616E2298",
+      "targetSha256": "4F8DBAA94657252BBF30C767A1161D37A82A55A1DA3E0DB721F20015C8E4083A",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 14,
+      "verse": 12,
+      "verseEnd": 12,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "77AFF2B1418A209A11E40955AA5A22A9559B018D4429D201A1CD43EA3B3C49C8",
+      "targetSha256": "B68E9D9B2EF7E3CDDBB68A62074C44C5CA9C8AC279F609617BCCBD17F3E314F9",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 14,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "BD230C18BC8520A5927BF5709608257DE756B91E72177B4E63A0B047570FF9DB",
+      "targetSha256": "85756424B0195EBFE27B8274B1EB8CCF266331B69BCC713716D7E94153189074",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 15,
+      "verse": 11,
+      "verseEnd": 11,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C54CB51B1B19E438607E2386CC52D569879D3E289A096FDE742125826BF486A9",
+      "targetSha256": "8206910B37236A6F605151C09D4B8CCB66251AC30DAA33E28A4F4221D304FAB0",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 16,
+      "verse": 1,
+      "verseEnd": 1,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "BBA5DC1347C8DADEE826D731FD2B06E2A067AEB62900B8047851A2D2C2F47F12",
+      "targetSha256": "8F72010A225A21C6E43134FF00332BF5A21A52FEAC4C47961606E3C2467CD43C",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 16,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0835DF94B41EB069D4E93A9C8BC0E41AF759E5409ADB571EF8F40D591139CAC8",
+      "targetSha256": "FC32C46D97B53D2C47DE4C3D7081981994E446009CA9727F182CF77076A3C6B9",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 17,
+      "verse": 6,
+      "verseEnd": 6,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "B58E7D21369B9B94D00FC142EF356923CFBF7E264186CB2759D45B1AC0B8B107",
+      "targetSha256": "0C66577271A7097C827FBC98D8B1337C96DD3DC82EA79CFF52E67D0B18E95A53",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 17,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "0F869F632B7A4C61AABC164174BE70C5FE50E59F36F826456D843F22AE987023",
+      "targetSha256": "48FE4392A4B745293B993CF6E968AD0829AC136CFCAB62E4ED70E921F4D1DC6D",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 17,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FBA52F45B5C45B9EA27ADA6C65CB7C75F2B831153287CA1109AFE264ABD14B8D",
+      "targetSha256": "BBA8EB6DFF5EFFC275DA91F5E0136F71D997A7E21C128EA91ADD265962C4E4CE",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 17,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "38093C557A0FECC1A90541B7608B7255AA6A0A2E6CDBAE5E2844481591676B96",
+      "targetSha256": "9A95559F13CB94C1B73CCF3192BC4F98CD6ACBFDEEBEB25E5D19248684B0A0D7",
+      "differences": [
+        {
+          "site": "狀",
+          "target": "状"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 17,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C65BB2EDFBAF9185CEF478A34FB27ADE7B30DFE4208BCF800CC47B38AA6B3532",
+      "targetSha256": "1F44C39F2D07E204318B70E02E032E25E37B53C687CFB2C1AC99FD29CCD06FE0",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 18,
+      "verse": 2,
+      "verseEnd": 2,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "2DB08A440A408EFE3CD3789FA30CB283EAD857DDB2C72E37B1BC73CF8CA455E9",
+      "targetSha256": "E9DBC1BB40CB51C93185019FE2972D8FABBF06FF133CE17F07D40395E9E927BE",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 18,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "2734A0864F3DE108DBFF62877DB76FDE9ACA024ACDE512B23F50A2C895DA0942",
+      "targetSha256": "90F16CBBEB4457A54B0F8E6ADC09B3C00ACA454C45606FC2C2CEE4F989965B54",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 18,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "BB8AE0581B19915E5D1D7F58A09E99756F2C8F654A272C9B9696C56ACA59CAB9",
+      "targetSha256": "2571523663C1568A8061A27E569BB399DE2FA7657B388C2BAE91CE3F35615B25",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "寳",
+          "target": "寶"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 18,
+      "verse": 29,
+      "verseEnd": 29,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C858F1650FEF6468D5F98A33BDF920E5052D68086B1E224F95E6E403E1A6ABCB",
+      "targetSha256": "0C1C7EFC102D6D34C4F25C13552B66F2F7015BDA6C884FDB9C8D7404F4BD231D",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 18,
+      "verse": 31,
+      "verseEnd": 31,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "377C05429C4158649D612955630DEF8AB7055CE38B63B1AD7F9634CEE8BAFE61",
+      "targetSha256": "36FE15D2993282CEA1DDB5BB73D672BB668EC8C54D4FD65189045DEE3B995109",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 19,
+      "verse": 12,
+      "verseEnd": 12,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7B9A3DB3D8AEF45222703BB43013AD863491CBA49CD67EC7B8B49C3198FE628D",
+      "targetSha256": "A45C3A765AD2A59E7D04F331873FC7666BC934D20573B29795FD7EFF255A21B3",
+      "differences": [
+        {
+          "site": "る",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 19,
+      "verse": 30,
+      "verseEnd": 30,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "06940A686DE779A230ABB84878E0FF5E14434AF198A8F6A21636D81D819DDECC",
+      "targetSha256": "E36FBB6F46686AA77BB9B997DC7A52919BD25C01788CEF3D8F7F7AB417A01026",
+      "differences": [
+        {
+          "site": "ひ",
+          "target": ""
+        },
+        {
+          "site": "村",
+          "target": "山"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 19,
+      "verse": 40,
+      "verseEnd": 40,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8AB39286BB4C9865C53518531CEED1A9CFC68799F6950608EF010835C4760F2A",
+      "targetSha256": "32DC4F2BDF079CA1ECE189FC0111E80544F8FD5F5577C794956613273D806AAA",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 19,
+      "verse": 42,
+      "verseEnd": 42,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "81C41845BF7AEF9E19107353618553C58FE9D6C07BCCC84B1A9F5F1D33146057",
+      "targetSha256": "467D1D1652CE21E09143816379237C38DED9AF309BD08EFF54C3752ACFF247CD",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 19,
+      "verse": 46,
+      "verseEnd": 46,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "07592F247106C7B83FAABB88252F0F26B854C001553F37803FB47D0638F1C37E",
+      "targetSha256": "8E17DA14034F28E2A163BE4351942B7F296C9A30CB98F81575B20B6ED78CB59B",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        },
+        {
+          "site": "强",
+          "target": "強"
+        },
+        {
+          "site": "巢",
+          "target": "巣"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 20,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "670789AA10160F1FE2537DFC56495E1DC0533A1EC496FBB5B68BBDBDA99F68B1",
+      "targetSha256": "9C1024935630F7EABD6964E509CC9C8FFEAF0BB6A1C07BD92EFFB8E3D860F36E",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 20,
+      "verse": 9,
+      "verseEnd": 9,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7A37D0C2F65AE5EA057EE77E7B8C1B8C43F1B834894EF97F9DF0A0A10FEBCB75",
+      "targetSha256": "B5B094F6C34C59BCB91CC53E6DECDC68587463FF4B6961D54F5346F0C238AF09",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 20,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E546BB3AC9CB4152593E0DD8BE0B5516431A917A0850065554708EDDE2B5ED1F",
+      "targetSha256": "05707015062CAB8EC3CF90DA896C9363729E3C193AAE1A5F15EC3F3D401224EC",
+      "differences": [
+        {
+          "site": "  ",
+          "target": ""
+        },
+        {
+          "site": "た",
+          "target": ""
+        },
+        {
+          "site": "  ",
+          "target": ""
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 21,
+      "verse": 3,
+      "verseEnd": 3,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "218399C6E128F8501C240134A9CFE8C8394BEF3036290C4D00D5B36BB7D1D7F8",
+      "targetSha256": "00B9E3906FD8C339D5AC4FA53E4D483FAA5801168FEAD852318F49E87F27A796",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 21,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "F86B9FC9C479A3A38BDC627036067A1B2228FDD1E67020E5CD6780ED2EEE7312",
+      "targetSha256": "8FD07AEF18F0106A936FCCA260C1A3E5D89B02DD458C65F307B8B325EA747597",
+      "differences": [
+        {
+          "site": "冐",
+          "target": "冒"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 21,
+      "verse": 29,
+      "verseEnd": 29,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C284A0D4E03985163C9198EE69C29956C7A9CF87F0FC36609D682BFEE6A0C27D",
+      "targetSha256": "3DD58C036B349A06C756FCA253ECB922E0C8791FAECB553B6119B8CFC801624F",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "56BD43BFB47517EEC60BE527517731BE1C51B3329F2A8AC44C096A252FCF800A",
+      "targetSha256": "584DECBE39607D23417CFEE2024A6A00E136DD903D4CBEA3084235F53952519B",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "336AD64A35A65F0D27EFA9C2AE9D457F01719C3CCFEA20D8F37A25FA8962008F",
+      "targetSha256": "1C794719819BF1B9EDFF06B6564AE69E486F6902C79D75519A964CAACF466E98",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C1FEA9B699E2EF79AFCB2FE2188473FF731155EB9C4ACA0C92B01B285CAD70FD",
+      "targetSha256": "CE7BCEA75393CAC2302CC9A4E4EAA5030F5AEFE7B8B2B6359407F087366A8FDF",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D09D456AF0A6483B73A38AF673A2D88152AD59AD8872316F551DB587D4D6D78A",
+      "targetSha256": "F2EDE3761676022A972E9D54CD001A8B9CA53B54C9BE82A85725C9EAD2F40E91",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 35,
+      "verseEnd": 35,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E588129020FC52B1EEC2E5B269E3857FA9944178F3F4E4C08CA406A9B57B05DB",
+      "targetSha256": "A4C1F5A8D9D362D0F73CA0FDF7E1B9E6E89643F6A544965FAF80F7EA2DBA959E",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E2717554BD6075A5403EC9C8F949C4DB280A9A9D84FA6B8158BB2D931E721882",
+      "targetSha256": "3DB16AC104298A66E4A4915D9216A47D883625E525682CCBC94F8E6CFCA86BE1",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 42,
+      "verseEnd": 42,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "DA7C3236B9911C4079FC3B22461A59FE867AA61540B5C72CEB794F79AE19C7D7",
+      "targetSha256": "58F4274B6F71DC0D86BBAEA0ABBDF8431A113840841267961106D131090031BF",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 46,
+      "verseEnd": 46,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5D71DDF1F950C2B9268331B1B215C03163FE957B5AA2C610E0744F56C993ABD7",
+      "targetSha256": "A13A7AED486C99D850D34DB406920EE270663885B7404321DF979AA1A6C56C15",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 22,
+      "verse": 52,
+      "verseEnd": 52,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "ED07D271960D325B1F5F05A903A6739077B6DC19583291D5D236250AAB199FEA",
+      "targetSha256": "C72AAE93821DC020288E495558533E395DC04C5002FDBD5EF4A8B2063CD316F3",
+      "differences": [
+        {
+          "site": "强",
+          "target": "強"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 23,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7853B8766BEAE70223B4410F50CCEAE4EDCFF9E297308F8F7562AEF1B865212A",
+      "targetSha256": "E9B334B3614B463E9170732343E618A1FD4BA0534AB11F68181BB5922048B8A1",
+      "differences": [
+        {
+          "site": "䰗",
+          "target": "鬮"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 23,
+      "verse": 43,
+      "verseEnd": 43,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FFAB7EEC1C5FBCCFFDBE0847D5BE526FFE233B7240C3D22A6ED730B848527533",
+      "targetSha256": "1504D6DA99098C488C35E05FFACB68AEBEF2A969A946CE014748184110A88DE4",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 23,
+      "verse": 46,
+      "verseEnd": 46,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "75D9B9BAB81EDC5897641697630BD937707E0EB128E4DD1EB1AA9E5862649F3D",
+      "targetSha256": "8A6647CF5629F5EAB8FCAAC099B6CA654B9A6333BA36EC212D0BFDEAAAFFFDFB",
+      "differences": [
+        {
+          "site": "絕",
+          "target": " 絶"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 24,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "51CB5C91655CD6DB2B1283AB71533B4A13CCB75C020020C01FC680822E045073",
+      "targetSha256": "2A7D329CB1CC3219623978A4C8639BF8BCA3C9F3F4733EFE896E2A362F9B856F",
+      "differences": [
+        {
+          "site": "步",
+          "target": "歩"
+        },
+        {
+          "site": "狀",
+          "target": "状"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 24,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "4095EBDF469401C45E079165F6CA79AB573FE924FB94285D63877357CF0C8ECB",
+      "targetSha256": "CE91C9A46068A315680E3E5429226DE4FBF15642952D53E1991178E49E7A0E60",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 24,
+      "verse": 36,
+      "verseEnd": 36,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "94090C055842C750A98E540F6AB8E5DDBFA9D1B58D2B0AAEBD4ADEF9E882572B",
+      "targetSha256": "8B48C11BF0DFD7F64B16A4E7C1D581BD555FA8832B4689F9EB781B936E06463B",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "〔",
+          "target": "["
+        },
+        {
+          "site": "〕",
+          "target": "]"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 24,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "52F67AA46CD6020363442C6AAD3A580A5CB7D16D6089544908D137621033EFAD",
+      "targetSha256": "C690E28F9C7F9AB10EA3A69CEAD7B734E0FDCC6FE848D2530D93DE878C7607BF",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 24,
+      "verse": 44,
+      "verseEnd": 44,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "56B018B717CAB2C38A8344511775D508519DC4FC6657A82F879A26922D3994E1",
+      "targetSha256": "2BAA957F25F704B7BE13434A9585FFCDFC8C7EBCAA412269094A0ABC77B38EE1",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "luke",
+      "chapter": 24,
+      "verse": 46,
+      "verseEnd": 46,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "E65764EC0032B9331F431478B6823A4B7C14FE50F2097FE078C3B68CE7FE5EDA",
+      "targetSha256": "A5A14358E2F7D3C450E177E8AF81A7F76EF9504965C7E6798F990A4F784DF933",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 1,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1C5783474F7F452CC97E2F4C165F70F376F360A1BE4F645B728AF3B168F6760F",
+      "targetSha256": "989F492139AF7FCFBD52130EB2873C21EAF3E76757BD3B40DA0426F864F73641",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 1,
+      "verse": 39,
+      "verseEnd": 39,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5B0E2ED9FE08F6F4B9669045E94146A6187479A98743ED6F4AF9B496BFBF2BD6",
+      "targetSha256": "DE670B6275128612207D39E2C6862FE2963C3396AEB639522F51D930841CE1BB",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 1,
+      "verse": 47,
+      "verseEnd": 47,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D76AFC2E6B499CBCCBB8B79B255D9DA4AB6B21A6132D65CE63B063C8E348F0A1",
+      "targetSha256": "619B61EDC265FFA2CB5942F412DBA5CE97F94817A79FBA8BBDCC0A7654BF510E",
+      "differences": [
+        {
+          "site": "虛",
+          "target": "虚"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 1,
+      "verse": 48,
+      "verseEnd": 48,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "87087F18E5FA40E46223B37C6064227E9E98B884BF4F5828D07AAF049FBD7120",
+      "targetSha256": "B5A4378B5134B99463DAD92C71B61C4D477DA8C357039C63BC18864B04EC5C53",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 1,
+      "verse": 51,
+      "verseEnd": 51,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "F91543785B6642975F89EC21EEB97EFDE62E5F566430611925EA05C3D60D8E3F",
+      "targetSha256": "AEE847F8F55194B2C49B5E6E18F99308116A649408BD71DB6D57D9CACED4B945",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 2,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "4EE4B8635A53C4BEA1EAA0AE723B3118C8851670AD4504CB7962E87A51AEB436",
+      "targetSha256": "12873597C95F5A409E158479FCA3296E2D75841DA78C3314E61613D83CE3CF99",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 3,
+      "verse": 3,
+      "verseEnd": 3,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "41D5B3AFD2CEA51C25FBEB9A8BE5DF8EAE32046D974CDDAC019BFBEDFED2FCB8",
+      "targetSha256": "F4789446F4EB9E3A307303A95EE085D4523F026A508291F041077D3CCC878F4B",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 3,
+      "verse": 5,
+      "verseEnd": 5,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6EA99777ADA905041850769D8107B0F401248255A48FAFE3DAA97FF2B99DAB10",
+      "targetSha256": "8F4104E879E61A6BBA763DE55B5CF27CCDEEC41C129F1949806DFB8928ABECEC",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 3,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "4546AEC26910213671606DC7F643795B6DA29B29441066228C5C2158DD6FB545",
+      "targetSha256": "29F96BC59C5408097EF7B6C4FAB89F398456C6549B88F7AAE5620F3EAADF48D9",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 4,
+      "verse": 7,
+      "verseEnd": 7,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7B4369DA02132A1969F952BA50599BB648CC9E67A338B1FC50FE1403B2AC8740",
+      "targetSha256": "D6D8C161A588987C5D56E9903EE096B23D76BF805D5823A343ED710C48A48EAE",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 4,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FEC55686558B42FE876263BEED0F089FD3A88C67FFC6FF68CC3986FE4EB5CBC3",
+      "targetSha256": "B5A4C9A0A564A4B73C8B7248C51917A52876FAF6EAFED29552E74F5067DDA26E",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 4,
+      "verse": 48,
+      "verseEnd": 48,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "949A6924D00C24A20A926AC04A3DFD179F2F5634B5D42FDDD0A70B986DCC73D8",
+      "targetSha256": "06D96479C65B4DCE6732036D213CCC1A970826BF45682E74480A179661D1CDCC",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 5,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D55516255A3ABF3EE27295677E8DD887222DF88327F288439DF1DEAFAC005796",
+      "targetSha256": "4AA9E746091E06190C826CBE74844D5714E6476C3623F618C54B0833F36A4CCB",
+      "differences": [
+        {
+          "site": "步",
+          "target": "歩"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 5,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "762C9316AC10E38A805E1B0F2CF85B28D5B44C569ACAD4E5FD2DAB065E96578E",
+      "targetSha256": "BFD2D0DED1ED09CA2FCABC515B557A89C157E293C7C198ED40F77F0BB9E49649",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 5,
+      "verseEnd": 5,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "ABCFAB4A8999E15ED611EDCC46F704617AC7341D972A04C272DAA629BEEE1772",
+      "targetSha256": "357F2B5B37A0A8CB0F4BD163FE33EE7547D95D22FA96DD9BEC699430D7DA1188",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "667F212DAA907F81D17A613F22DFAC808C2929703202118B4BA90A2B0A52559D",
+      "targetSha256": "0C4F034578318D138F24ABE6A96BEEB4560A8E767473DF32CA2269C97C5EF6FF",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "2AE3AFA0BD4F8D7F5B1A6E0F5278BA8D52B53E7DBB420836D72D6CF5EBC08E6B",
+      "targetSha256": "0F2123BE045E2CA9C2ED443E2270EDF6BD7CAEBD1BD29CA392CB154A63760D73",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 32,
+      "verseEnd": 32,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "BFF081956E8AC9A255314EB07C8B0843B62F9EE33373BA4040630CCC43D5D3DD",
+      "targetSha256": "DF8F53ECFEFDC807C6E4AF753272B1FB8689BDC204E5FE3F0299D7D5B6EABE92",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 53,
+      "verseEnd": 53,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8F43A6DF0776843926FFE637CB95092B89F9A8ECA732D7BFAFB1608DF63C9735",
+      "targetSha256": "A2B6770C3FB6E5C5B5253F840AC806EF7575EF1E9E9B5ADBEC6080CAC326E19A",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 64,
+      "verseEnd": 64,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "3B4FFA716B9D00070384143012C0821DC3918AD0839F91F3C5E9212A40365681",
+      "targetSha256": "899E6363EEF2188208FAA7C4595AFF286299EB16FB7B35AD35518E3C19B36041",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 65,
+      "verseEnd": 65,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6C1E9E9B9A58F2A955608F5C6781B4D561B373F85B7B129FE8D70A0D9EFC5E5D",
+      "targetSha256": "650CCF6BE993CE3151E839B24E8ED9FE60145A8C338E020B7E4E26C97CEC645D",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 67,
+      "verseEnd": 67,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "72EC0CD63F6DD78CA14450B27EDC09D0414A04B6AE8F10A9A5F6250231E79F63",
+      "targetSha256": "2B73C4E5A1699B4230906713B460F11A80D29FA60DDCDF948D779864A4317DF6",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "ぢ",
+          "target": "じ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 6,
+      "verse": 70,
+      "verseEnd": 70,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "26F9F22FBD35E3720DF95A10C065C4CF529C1F54B43CCA933B70DA9F19D80E6A",
+      "targetSha256": "8CE8B05852C95998141D6F921717A46AB434E38691888FF6D31DE8FEB391746E",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 7,
+      "verse": 6,
+      "verseEnd": 6,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FBF45CBA79F753A4E72A1B39E5B2CD8152E2EEB36F2CC6CABAAB38E12EA5CFBC",
+      "targetSha256": "0B84808EE27D5229BDA06780FFD554DB17F717DCC69D2D13CC7E33C4DDCC20C2",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 7,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1CBF469DD359C0858EBC9694551690AE9A42B91FFAA1CC1BC0A1199149DF7705",
+      "targetSha256": "7CA172E49075DCED233D5F968E5396CA2C313D90DEC7A515E405E6FF53262348",
+      "differences": [
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 7,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6475C34AB6BBCE52BF26833992DF381C9753B12559C4FBACA1C55A72D5F7627D",
+      "targetSha256": "31C3A474F6C57585D016D27BEB9FE1BA41BFBADC489C7C2F16C0A0A2A4D52A5F",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 7,
+      "verse": 28,
+      "verseEnd": 28,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C7BA8C64C092913EFE6674E88CB2F36CC05529BAA22849A789201E2F8A2471F8",
+      "targetSha256": "5FAFA672E6EFEED8B7808D3249DAD1A64B3B727A7CECC403A13F5EC5D493F788",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        },
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 7,
+      "verse": 37,
+      "verseEnd": 37,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "09D16F939D2970B807E96223EE1048E14C0CC63636552C4BB77E123D4973B283",
+      "targetSha256": "5364B31752D562200E1523D86ED30723D953EA9307BC159B1ABA05FAF8487D84",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 11,
+      "verseEnd": 11,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "AD6100769D25CB690AA928974F3FD95B4A1202CAC0DEDC3239AE615BC1DCAA0F",
+      "targetSha256": "E0D0FEDDCD6E1C85A2F250D80B4C89E1189657D277F385406312183DCBC0C279",
+      "differences": [
+        {
+          "site": "〕",
+          "target": "]"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 12,
+      "verseEnd": 12,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D67D93002006AA59B15BF0311FFC1B386632FD799D3AF9B7A583E1496FB50E95",
+      "targetSha256": "EAB7EE5A508B0A00C4C531AFFA6CED5448262C72208C190BCF945B32A2E69373",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "步",
+          "target": "歩"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "6EBF9A7E8F8407C7C0DE5C116446F38048DCD8FE12E5181C43582417AC84CED1",
+      "targetSha256": "F9431CAEDE99282BEAD9B51FD1D480B00E126F08E1393765A388A11F0B3EDFE7",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1900AD8BB2F221B9EC1F9AF0036B83B7171AF7BE317A4D2641E5A22A8AA383C2",
+      "targetSha256": "3DD8A8BF2DAAFA90088F4536B292D3FF61A12DAAE8242C50167C3E5628348F0C",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "04AEC646884A2E39596B92F3E0CE61EF4B5ECAE23DC216D64BDDF08986DD27CE",
+      "targetSha256": "02BEAEDAF9E9739C16E2A7050386AE7668058B251C4EE62CEEFEC5867BF8A087",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 28,
+      "verseEnd": 28,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "EA36BCA4CA61F34A848662648FC7D7129540A91B6462E6068188E4254EA04FED",
+      "targetSha256": "FC94E113CDBDC66761F4C30F5D8DAE7DBEE263C48BC3522EE0903550DADB3B29",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        },
+        {
+          "site": "敎",
+          "target": "教"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 31,
+      "verseEnd": 31,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7376B460588F2CA46EAF3691FD54F0E0DEB239577451F9014E5A14B328FED9AF",
+      "targetSha256": "D7F0872B2489B0CC6F35C8515C19AA653C40E6F53559FD023F4832BCA4DD434D",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "75B161F51DFA13AED86F27F35EDEB6E5D297567A3E9B1802DA9D9C8ED937AF35",
+      "targetSha256": "1C93BE1F6CA1B80A55EA7AAEBD4C06389414A977855B1CBBD82A9D08AC1248BD",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 8,
+      "verse": 58,
+      "verseEnd": 58,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "20069F5FD42CFDA87D59FC60854567171DEF768DD6CA79442D92DBBC29515071",
+      "targetSha256": "7D3D9A9CE6E9F662B3D92389DEDC596ABC8C935C72C279C4F6AFDFE45A469B96",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 9,
+      "verse": 41,
+      "verseEnd": 41,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "40AF800AB1FB2876837F6EF372FF25E9B962E07A7B8CAE7B6C19A57393AF2FE1",
+      "targetSha256": "0BBF0471B4D38E22EB7F50772F75104A50A8A42072358D6A8C605E886DCE6058",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 10,
+      "verse": 7,
+      "verseEnd": 7,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "7D8950DD7B5B91672E92FEDC776A8EABF667159F3EE7A8E61F82181406B61397",
+      "targetSha256": "E291FA3A5A6E53E305082088E31B7B4F3A1544B7E4A772B1478B1534C189D67E",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 10,
+      "verse": 25,
+      "verseEnd": 25,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "A3438956554ED68208D0094437FD2D110BBF341CCF1804442AC9189E1643F511",
+      "targetSha256": "0AE0812F2BB5BE423A6A133E09DCCF3E960831F711FF8952983768CF4FDC2C7A",
+      "differences": [
+        {
+          "site": "旣",
+          "target": "既"
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 10,
+      "verse": 32,
+      "verseEnd": 32,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "C6EBB481D5D4D9440A2043DBF056F5F911C7ABBCECBB8E38540D7B96E900EC2A",
+      "targetSha256": "C4261FB52F8E43DC4273F79CAB9A5813686D2D2330534F8E4C15E88929084CD9",
+      "differences": [
+        {
+          "site": "擊",
+          "target": "撃"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 10,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "77E196292F52705DD5EEFC5CF88F29027D7908159B0B100E45723B663F20E5F6",
+      "targetSha256": "E67D2F72B1C4D57B8C0E1C26C4E39936E05D7368326A0920588A2D3336504F3C",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 11,
+      "verse": 9,
+      "verseEnd": 9,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "32138A6F3D059EAE2E5BAE6AC4BC4AD50AF26F7B6C42341A100E4820E70A1570",
+      "targetSha256": "E3E13CF1EF9F770015D23EABF8DDD30CC16FFFB292F8B0EBDB5B07FC8911A5D7",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 11,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "98037505F01EF4A0B54C24274587CCF5E65C9488720FC0EDD0403C9764538DB0",
+      "targetSha256": "01500BCE571264E5ED7494F24F7832274DDB802ABFEBFDDE5513AA1257E849C4",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 11,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1E2052A95BDA6E0F21C590D280CC8B20E627B5311234ECA3ACCD4E3F37F1BDC9",
+      "targetSha256": "3026F6CF548C0EC1C4CBF4A6525CE5AF68EC96A23D058B84E77888D09BD50D38",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 11,
+      "verse": 41,
+      "verseEnd": 41,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "3486857902D88A739FD5CDA8EF760E6E272AD7FB0F229A49C9139DAE42A75440",
+      "targetSha256": "B65F6C4A9947F87BED1C7AD99756F29EA11BC349C673F2AFB50E640336136FC7",
+      "differences": [
+        {
+          "site": "、",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 11,
+      "verse": 43,
+      "verseEnd": 43,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "2319B0E02FF3311ED52E11E3B034B2699B305A1A2C0E77FAD251D4CC98F42CF1",
+      "targetSha256": "048392E68C4A5A7DCDA9CBDC2C089FB424127A0BC6EF38079EEE2B7914924199",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "た",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 12,
+      "verse": 28,
+      "verseEnd": 28,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "0B52EC0DF89C19BE5F0CDC96B5E3BA672287E9A16E898778F853F4F142F404D6",
+      "targetSha256": "1496885E190A6018E398F4A10B5B246A464EE5BFF35EAE4F26C29A0895B74745",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        },
+        {
+          "site": "旣",
+          "target": "既"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 12,
+      "verse": 35,
+      "verseEnd": 35,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "33B4B931AAE4C1940CD37BD6FF55B60E80ACAE040B12797A301CCC2A567E7A2E",
+      "targetSha256": "E4493C11AD5CA475D4C374D583AAB9AD0A6EFDB999AAB9FF98C00F8959DE9D61",
+      "differences": [
+        {
+          "site": "步",
+          "target": "歩"
+        },
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "黑",
+          "target": "黒"
+        },
+        {
+          "site": "爲",
+          "target": "せ"
+        },
+        {
+          "site": "步",
+          "target": "歩"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 12,
+      "verse": 36,
+      "verseEnd": 36,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "770C42F7E45968B30E64099AA9A3D60E41843C7F3929204ACFD05948CB1D7071",
+      "targetSha256": "B1788E6790BBE5455CA96FD7F743E6AAB2C0DE0B81F2E72B39E24D93FAE78848",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "   ",
+          "target": ""
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 13,
+      "verse": 21,
+      "verseEnd": 21,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "A8BD0F87192457372E367BC59CF7A653A467A6552AC073D03A0CA770DF901A7D",
+      "targetSha256": "FC3E92B8D87F2240F09E726305929CA43A5BDDFDB6C5016CE5FF966A179BA677",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 13,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "3FA8C1DC0E7B615DC436D51DB5F75EFB41D0C824E430EBEC8A6A139391B6C6A3",
+      "targetSha256": "025821376B256D75DBC1A0E1713B9C72512B4561CF9AF009CA5C63E2EFD05FFA",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        },
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 13,
+      "verse": 38,
+      "verseEnd": 38,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D04232C38267AEC33D5D2B8FF8F052DC5E273F5AAB319E77FB65166677B2B52D",
+      "targetSha256": "59803D30F6C27F7F5B386FDADA9F7BBA0181C779FB13BAA99E6FB23F6867AD2A",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        },
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 14,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D0626C84B9829390AD55E0F1BCE9A4CA8CF2B68312A439DBBCA2DD4AD71905CC",
+      "targetSha256": "1965A24765B022C33A85E969958DA942B56FC588E10F3580940FA3CFB111C19A",
+      "differences": [
+        {
+          "site": "爲",
+          "target": "せ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 17,
+      "verse": 1,
+      "verseEnd": 1,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "DA068E861560A12D270DB7FB89D276589244E998B0960968CFD1EB918DB0D7A6",
+      "targetSha256": "75CD4879ACACAA67AF2C5050C324A03B0E81C7FEC63A34E239D3A5A158B9AC19",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 7,
+      "verseEnd": 7,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "265E8CAC0283804915E98AADA3F5851BC7D1465574F75858140B8E5C3C5FD9FA",
+      "targetSha256": "EFC0573890C599DC6C758C14E5F0D9BF733E546D284006CC6FEDF37D1FA5A2D1",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 8,
+      "verseEnd": 8,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "836A5BF20CF9424392EB5F520F1DDE51676064CB8253C7600B4A4AD6034C0890",
+      "targetSha256": "1CE4A0753E623DAB6FB66354C09620CDD1EBEC7A132326FD17BC0FA047E880AE",
+      "differences": [
+        {
+          "site": "旣",
+          "target": "既"
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 20,
+      "verseEnd": 20,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "710D2046D20AFE3C95CFD1BB9E5C9CA03DEF7AC227356DDD76A23D97A8853CA2",
+      "targetSha256": "2197B4308F1BF1164A4F94A1C570410473562F5BC600D614A5278F2645FF77A4",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 23,
+      "verseEnd": 23,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "829AC4E4978C794DC56487B337064F7275EDF99E0F10F42E34E79B619C617470",
+      "targetSha256": "EFFF61984DB68EC48B7E7714BA49E3D3B286BC28A5C3DE10B1975FC107F2324A",
+      "differences": [
+        {
+          "site": "、",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 34,
+      "verseEnd": 34,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "CE1C6F6E45593ACEA833376426D3B254732A89498C0CEDE33D9AD71FCBABCBCD",
+      "targetSha256": "F621E764B6429E66A2529640895B44567D32289FA7571C79637911DC58584232",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 18,
+      "verse": 37,
+      "verseEnd": 37,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "FEE2174488E82BBDDD6DFE6EBFDC61AFD4079E409D12C2B309A38F60039ECC28",
+      "targetSha256": "56E855A480B8199C5B3240272AFCC8B684ED0EF7275B637AA18D52135674A6D5",
+      "differences": [
+        {
+          "site": "爰",
+          "target": "ここ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 19,
+      "verse": 30,
+      "verseEnd": 30,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "9DA1D8FB7E6241176752BDF2E4D60FF61346CEC7901F295CDEBADDADA377FE85",
+      "targetSha256": "2D69300D42AECB15E8CBE7E798F45675C7E6832E4CCD93B42C33BBC9D57A23F3",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 20,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "23E8556F4F96870C5117191323B236915B254F0D5374B26FE30A4C083921DD48",
+      "targetSha256": "5D941B414996B2B3EF93C7CAA6DCFC6D06718B3E3A2B1932FFB6130BF3EF14E2",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 20,
+      "verse": 17,
+      "verseEnd": 17,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "804AB25E5C924B4E74FB9F650A8CB060D2C8913714CB46F2FBDC09A2E59B5ECA",
+      "targetSha256": "A577104E85AA7FF79DD49A431DD87D85C7D728926457BFEA27CE6E222E220C2F",
+      "differences": [
+        {
+          "site": "、即",
+          "target": "すなは"
+        },
+        {
+          "site": "、即",
+          "target": "すなは"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 20,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "DDE3430DEAE70DF3252E06E3B5E13A9EC2A0E92AA5EB1F4B8DA488A9663CA6C8",
+      "targetSha256": "2B627FC4F5B81A3FB83999B449701E243C96118CB8AB9DD0671984122158E25E",
+      "differences": [
+        {
+          "site": "、即",
+          "target": "すなは"
+        },
+        {
+          "site": "",
+          "target": "、"
+        },
+        {
+          "site": "戶",
+          "target": "戸"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 20,
+      "verse": 22,
+      "verseEnd": 22,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "448340E7F99D66D2FAF4B9C45383C8223A4FAA0981F0C90E371642DACD12E4F8",
+      "targetSha256": "88F50C64D123E034781D15648E13D0EF722B44E469846F8B7983729F84B0C2D5",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 20,
+      "verse": 26,
+      "verseEnd": 26,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "5ABB6E432FCD6E89A529397533A9A47D59EAE383A79441D2BF0378F864D58DBF",
+      "targetSha256": "642F69F8FA43E023655F7BC48656DC4B38D286918E9BC677369BB295B2782FC1",
+      "differences": [
+        {
+          "site": "等",
+          "target": "たち"
+        },
+        {
+          "site": "戶",
+          "target": "戸"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 21,
+      "verse": 5,
+      "verseEnd": 5,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "385A7C1ADCB048925A7C7822EC26806E85A9349A7FC9F7F378F371B403211C52",
+      "targetSha256": "7C9E07509C266BFEC18068B41BB85DF0291773F74DD4A917D0849DF9916ACFBA",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 21,
+      "verse": 6,
+      "verseEnd": 6,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "110D73DCAEBEF069142C0955CF3536E7D36C5756B2C77009F69F639F054AFCA5",
+      "targetSha256": "A435C78EE037F140A1AEAEAEAD8F3B551497B01EDCDD8529BFF795E18F31F340",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        },
+        {
+          "site": "夥多",
+          "target": "おびただ"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 21,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "8A1F2840253F87EED5EDB170646EB9BDCDC9530BAA07D839F4022511828E27AD",
+      "targetSha256": "FC2CBB041C209149D6CB08FD3E6ABA78CE329764CA658F703D3593CD536789C0",
+      "differences": [
+        {
+          "site": "斯",
+          "target": "かく"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 21,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "94CDB573673E5BD003468F91DA6AF31113E6BBB7640E7ADCB373071A70FCE2D1",
+      "targetSha256": "5C946FA38B7F5FCA62F501785A45DFE24F1E68BD14EF3F5BBF3A65681B50B37B",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "john",
+      "chapter": 21,
+      "verse": 19,
+      "verseEnd": 19,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "A0D2AE829A371F2F739F28B59C4723A1FF36C33161A953FF2B0C988707EAE791",
+      "targetSha256": "87A4161028575D5B99256D12651F5277CD50AE92155951672A564FB96C417C9E",
+      "differences": [
+        {
+          "site": "是",
+          "target": "これ"
+        }
+      ]
+    },
+    {
+      "bookId": "acts",
+      "chapter": 1,
+      "verse": 4,
+      "verseEnd": 4,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "4CE83DC3C09934A3ECEC5BA7FC86EC2F88EE8DC797E90D341CC99D54D635E696",
+      "targetSha256": "1FB8A1C124E05E6BB6A594ED5570451BFB35580FF927C124F760D08159B92432",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "acts",
+      "chapter": 9,
+      "verse": 6,
+      "verseEnd": 6,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "1B304BF84322A2D3A842CFA695DCF93C94B013539F3B14434C04EE3CC596818D",
+      "targetSha256": "F5A95F8C4176F54E09CB4F78FB994C658D7F22D991AF018E01C4CA0788B11632",
+      "differences": [
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "acts",
+      "chapter": 9,
+      "verse": 15,
+      "verseEnd": 15,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "DDDBC80C8DA35E0E1D3D728099E1F0D356C5C17803F8F6B8CD513D0A2CD49D6E",
+      "targetSha256": "736883EAA2F93DD813CFC1BCB460D5BA8673A9CC7F1654459AB45D3A729B815C",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "acts",
+      "chapter": 11,
+      "verse": 16,
+      "verseEnd": 16,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "890EB0392CF4803163E46808B781AD1DF034AE91C11B7EABAFE45B5655DD4E53",
+      "targetSha256": "8DD3DF04712ACDD76F7CCCDCD6A24C4F5BA9FAF8BB04B547463464F198028497",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "acts",
+      "chapter": 22,
+      "verse": 10,
+      "verseEnd": 10,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "D836CC165225CE7B3ED2E365716741D19792CFA879EA5324C3B749B356035934",
+      "targetSha256": "D7B5CD018A1CDFCB4C4C7ED9BBB1653A259A7DF0F666EA626FB819919D9EB6B9",
+      "differences": [
+        {
+          "site": "ま",
+          "target": ""
+        },
+        {
+          "site": "吿",
+          "target": "告"
+        }
+      ]
+    },
+    {
+      "bookId": "acts",
+      "chapter": 26,
+      "verse": 14,
+      "verseEnd": 14,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "AFF973AE735DC4BB76B3E736CC40244E93EC0D796AB45BE7E689DEE8618D0CD5",
+      "targetSha256": "610448E7F8AF6E186D939BF17AB6FCC98EB5E760669B7B00C012A7B50950AD5B",
+      "differences": [
+        {
+          "site": "",
+          "target": "、"
+        }
+      ]
+    },
+    {
+      "bookId": "1_corinthians",
+      "chapter": 11,
+      "verse": 24,
+      "verseEnd": 24,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "AB19AEF32848444B34AA5B69377772F4D77E36537FE99D1BA7C5DFCEBB806F3B",
+      "targetSha256": "134BD94C970D4046C2CCC6739B7BA9DF5D320EA6891B02C691F97928084C3A16",
+      "differences": [
+        {
+          "site": "",
+          "target": " "
+        }
+      ]
+    },
+    {
+      "bookId": "2_corinthians",
+      "chapter": 12,
+      "verse": 9,
+      "verseEnd": 9,
+      "kind": "textDifference",
+      "method": "manual_quote_boundary",
+      "siteSha256": "C2ADF9436CAE95C27376523E6540629ECC771AB24E5700DD2756EB228F593611",
+      "targetSha256": "82050DA9AC40D099743284BB56CA752C4D0E0FE1F47FDF6910B4F7762C0B2C86",
+      "differences": [
+        {
+          "site": "然",
+          "target": "さ"
+        }
+      ]
+    },
+    {
+      "bookId": "revelation",
+      "chapter": 1,
+      "verse": 11,
+      "verseEnd": 11,
+      "kind": "textDifference",
+      "method": "equal_boundary_with_reviewed_text_differences",
+      "siteSha256": "AA50C01208CE4ED1A7B7E0FEA10D17C1F745DD487CABC795A27758C5E6C29012",
+      "targetSha256": "095282E9DCC32DC28B2F538E902C1504BC6AAE4353E6C606305E734A327F37FB",
+      "differences": [
+        {
+          "site": "錄",
+          "target": "録"
+        },
+        {
+          "site": "敎",
+          "target": "教"
+        }
+      ]
+    }
+  ],
+  "manualBoundaryReviews": [
+    {
+      "reference": "matthew:10:5",
+      "method": "first_quote_to_end",
+      "reason": "The website has three spaces before Jesus' opening quote; the overlay has none."
+    },
+    {
+      "reference": "matthew:16:4",
+      "method": "start_to_first_close",
+      "reason": "The spoken sentence ends at the closing quote; the following changed character begins narration."
+    },
+    {
+      "reference": "matthew:26:56",
+      "method": "start_to_first_close",
+      "reason": "The spoken sentence ends at the closing quote; the following changed character begins narration."
+    },
+    {
+      "reference": "luke:7:31",
+      "method": "whole_verse",
+      "reason": "The entire target verse is Jesus' speech; the initial kanji and comma differ."
+    },
+    {
+      "reference": "luke:24:36",
+      "method": "first_quote",
+      "reason": "The site uses a non-scriptural bracket around the direct quotation; only the inner quote is Jesus' speech."
+    },
+    {
+      "reference": "john:8:11",
+      "method": "last_quote",
+      "reason": "The closing bracket after Jesus' quote is editorial, not part of the speech."
+    },
+    {
+      "reference": "john:12:28",
+      "method": "start_to_first_close",
+      "reason": "Jesus' prayer ends at the first closing quote; the changed word starts the heavenly reply narrative."
+    },
+    {
+      "reference": "john:12:36",
+      "method": "start_to_first_close",
+      "reason": "The spoken sentence ends at the quote; the site has three following layout spaces."
+    },
+    {
+      "reference": "john:13:26",
+      "method": "first_quote",
+      "reason": "The changed character after the quote begins narration of the offered morsel."
+    },
+    {
+      "reference": "2_corinthians:12:9",
+      "method": "first_quote",
+      "reason": "Christ's speech is the quotation; the changed character after it begins Paul's response."
+    }
+  ],
+  "reviewPolicy": "Site-only red coordinates are not imported. All 626 KJV-mixed native target units receive exact hashed rows; three omitted target speeches use explicit noTargetSpeech reviews. Eight KJV-full verses are Bungo [なし] omissions and override inherited coloring; the website colors the omission marker itself in two of them, but the marker is not speech."
+}

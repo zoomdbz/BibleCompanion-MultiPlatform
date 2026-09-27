@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "maps": [
+    {
+      "schemaVersion": 1,
+      "language": "ko",
+      "baseEditionId": "rnksv",
+      "editionId": "korrv",
+      "books": [
+        {
+          "bookId": "matthew",
+          "complete": false,
+          "mappings": [
+            {
+              "sourceChapter": 20,
+              "sourceVerse": 32,
+              "targetChapter": 20,
+              "targetVerse": 32,
+              "targetVerseEnd": 33
+            },
+            {
+              "sourceChapter": 20,
+              "sourceVerse": 33,
+              "targetChapter": 20,
+              "targetVerse": 33
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "replacesPreviouslyMappedIdentityUnits": true,
+        "method": "Reviewed clause-boundary bridge; source 20:32 contains Jesus' call and question, while KRV 20:32 contains the call and KRV 20:33 contains the question and answer. Native verses remain whole.",
+        "sourceAuthority": "Rendered RNKSV Bible.com parity checkpoint and checked-in source chapter",
+        "targetAuthority": "SHA-pinned KRV 1961 source and validated traditional overlay",
+        "reviewDate": "2026-09-26"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "language": "it",
+      "baseEditionId": "nr06",
+      "editionId": "diodati1885",
+      "books": [
+        {
+          "bookId": "matthew",
+          "complete": false,
+          "mappings": [
+            {
+              "sourceChapter": 9,
+              "sourceVerse": 30,
+              "targetChapter": 9,
+              "targetVerse": 30,
+              "targetVerseEnd": 31
+            },
+            {
+              "sourceChapter": 9,
+              "sourceVerse": 31,
+              "targetChapter": 9,
+              "targetVerse": 31
+            }
+          ]
+        },
+        {
+          "bookId": "john",
+          "complete": false,
+          "mappings": [
+            {
+              "sourceChapter": 8,
+              "sourceVerse": 40,
+              "targetChapter": 8,
+              "targetVerse": 40
+            },
+            {
+              "sourceChapter": 8,
+              "sourceVerse": 41,
+              "targetChapter": 8,
+              "targetVerse": 40,
+              "targetVerseEnd": 41
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "replacesPreviouslyMappedIdentityUnits": true,
+        "method": "Two reviewed clause-boundary bridges. Diodati Matthew 9:31 contains Jesus' warning from modern 9:30 plus the verse-31 narration. Diodati John 8:40 ends with Jesus' first sentence from modern 8:41, followed by the interlocutors' reply in Diodati 8:41. Native verses remain whole.",
+        "sourceAuthority": "Rendered NR06 Bible.com parity checkpoint and checked-in source chapters",
+        "targetAuthority": "SHA-pinned Diodati 1885 source, validated overlay, and exact speechRelocatedTo ledger evidence",
+        "reviewDate": "2026-09-26"
+      }
+    }
+  ]
+}

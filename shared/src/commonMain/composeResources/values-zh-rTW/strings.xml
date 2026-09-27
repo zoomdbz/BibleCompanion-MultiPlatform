@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">包含希伯來慣用語和節期關聯的系統閱讀指南</string>
     <string name="prophecy_revelation_timeline">啟示錄時間線</string>
     <string name="prophecy_revelation_timeline_desc">七印、七號、七碗、基督再臨、千禧年國度與新耶路撒冷</string>
+    <string name="prophecy_second_coming_rapture">基督再臨與被提</string>
+    <string name="prophecy_second_coming_rapture_desc">基督再臨、復活、信徒聚集、神的忿怒與主要時間觀點</string>
     <!-- Data -->
     <string name="data_section">資料</string>
     <string name="data_section_desc">在裝置間傳輸您的書籤、收藏經文、標示和標籤。點擊匯出將資料複製到剪貼簿,然後在另一裝置上貼到匯入中。設定和偏好不包含在內。</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">前往耶路撒冷與猶太事工</string>
     <string name="chronology_gospel_final_week">最後一週與受難</string>
     <string name="chronology_gospel_resurrection">復活</string>
+    <string name="daily_notification_title">通知</string>
+    <string name="daily_notification_toggle">每日經文通知</string>
+    <string name="daily_notification_desc">在你選擇的當地時間接收經文。點一下通知即可閱讀，也可以複製或分享。裝置可能會延遲傳送通知。</string>
+    <string name="daily_notification_time">通知時間</string>
+    <string name="daily_notification_save">儲存時間</string>
+    <string name="daily_notification_ios_window">iOS 最多可預先安排 60 天的經文通知。請定期開啟應用程式，以更新通知安排。</string>
+    <string name="daily_notification_permission_denied">通知已遭封鎖。請在裝置設定中允許通知，然後開啟此選項。</string>
+    <string name="daily_notification_system_settings">裝置通知設定</string>
 </resources>

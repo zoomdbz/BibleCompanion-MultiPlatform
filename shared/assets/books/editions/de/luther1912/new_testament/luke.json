@@ -412,6 +412,36 @@
           "verse": 80,
           "text": "Und das Kindlein wuchs und ward stark im Geist; und er war in der Wüste, bis daß er sollte hervortreten vor das Volk Israel."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 1\nVorrede: Das zuverlässige Zeugnis des Evangeliums"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Die Ankündigung der Geburt Johannes des Täufers"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Die Ankündigung der Geburt Jesu Christi"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Der Besuch Marias bei Elisabeth"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Der Lobpreis Marias"
+        },
+        {
+          "beforeVerse": 57,
+          "text": "Die Geburt Johannes des Täufers"
+        },
+        {
+          "beforeVerse": 67,
+          "text": "Der Lobpreis des Zacharias"
+        }
       ]
     },
     {
@@ -662,7 +692,7 @@
         {
           "chapter": 2,
           "verse": 49,
-          "text": "[J]Und er sprach zu ihnen: Was ist's, daß ihr mich gesucht habt? Wisset ihr nicht, daß ich sein muß in dem, das meines Vaters ist?[/J]"
+          "text": "Und er sprach zu ihnen: [J]Was ist's, daß ihr mich gesucht habt? Wisset ihr nicht, daß ich sein muß in dem, das meines Vaters ist?[/J]"
         },
         {
           "chapter": 2,
@@ -678,6 +708,32 @@
           "chapter": 2,
           "verse": 52,
           "text": "Und Jesus nahm zu an Weisheit, Alter und Gnade bei Gott und den Menschen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 2\nDie Geburt Jesu Christi in Bethlehem"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Die Hirten und die Engel"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Die Darstellung Jesu im Tempel von Jerusalem"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Der Lobpreis Simeons. Die Prophetin Hanna"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Die Rückkehr nach Nazareth"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Der zwölfjährige Jesus im Tempel"
         }
       ]
     },
@@ -876,6 +932,20 @@
           "verse": 38,
           "text": "der war ein Sohn des Enos, der war ein Sohn Seths, der war ein Sohn Adams, der war Gottes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 3\nDie Verkündigung Johannes des Täufers"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Die Taufe Jesu Christi"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Das Geschlechtsregister Jesu Christi"
+        }
       ]
     },
     {
@@ -901,7 +971,7 @@
         {
           "chapter": 4,
           "verse": 4,
-          "text": "Und Jesus antwortete und sprach zu ihm: Es steht geschrieben: “Der Mensch lebt nicht allein vom Brot, sondern von einem jeglichen Wort Gottes.”"
+          "text": "Und Jesus antwortete und sprach zu ihm: [J]Es steht geschrieben: “Der Mensch lebt nicht allein vom Brot, sondern von einem jeglichen Wort Gottes.”[/J]"
         },
         {
           "chapter": 4,
@@ -921,7 +991,7 @@
         {
           "chapter": 4,
           "verse": 8,
-          "text": "Jesus antwortete ihm und sprach: Es steht geschrieben: “Du sollst Gott, deinen HERRN, anbeten und ihm allein dienen.”"
+          "text": "Jesus antwortete ihm und sprach: [J]Es steht geschrieben: “Du sollst Gott, deinen HERRN, anbeten und ihm allein dienen.”[/J]"
         },
         {
           "chapter": 4,
@@ -941,7 +1011,7 @@
         {
           "chapter": 4,
           "verse": 12,
-          "text": "Jesus antwortete und sprach zu ihm: Es ist gesagt: “Du sollst Gott, deinen HERRN, nicht versuchen.”"
+          "text": "Jesus antwortete und sprach zu ihm: [J]Es ist gesagt: “Du sollst Gott, deinen HERRN, nicht versuchen.”[/J]"
         },
         {
           "chapter": 4,
@@ -986,7 +1056,7 @@
         {
           "chapter": 4,
           "verse": 21,
-          "text": "Und er fing an, zu sagen zu ihnen: Heute ist diese Schrift erfüllt vor euren Ohren."
+          "text": "Und er fing an, zu sagen zu ihnen: [J]Heute ist diese Schrift erfüllt vor euren Ohren.[/J]"
         },
         {
           "chapter": 4,
@@ -996,12 +1066,12 @@
         {
           "chapter": 4,
           "verse": 23,
-          "text": "Und er sprach zu ihnen: Ihr werdet freilich zu mir sagen dies Sprichwort: Arzt, hilf dir selber! Denn wie große Dinge haben wir gehört, zu Kapernaum geschehen! Tue also auch hier, in deiner Vaterstadt."
+          "text": "Und er sprach zu ihnen: [J]Ihr werdet freilich zu mir sagen dies Sprichwort: Arzt, hilf dir selber! Denn wie große Dinge haben wir gehört, zu Kapernaum geschehen! Tue also auch hier, in deiner Vaterstadt.[/J]"
         },
         {
           "chapter": 4,
           "verse": 24,
-          "text": "Er sprach aber: Wahrlich, ich sage euch: “Kein Prophet ist angenehm in seinem Vaterlande."
+          "text": "Er sprach aber: [J]Wahrlich, ich sage euch: “Kein Prophet ist angenehm in seinem Vaterlande.[/J]"
         },
         {
           "chapter": 4,
@@ -1056,7 +1126,7 @@
         {
           "chapter": 4,
           "verse": 35,
-          "text": "Und Jesus bedrohte ihn und sprach: Verstumme und fahre aus von ihm! Und der Teufel warf ihn mitten unter sie und fuhr von ihm aus und tat ihm keinen Schaden."
+          "text": "Und Jesus bedrohte ihn und sprach: [J]Verstumme und fahre aus von ihm![/J] Und der Teufel warf ihn mitten unter sie und fuhr von ihm aus und tat ihm keinen Schaden."
         },
         {
           "chapter": 4,
@@ -1096,12 +1166,34 @@
         {
           "chapter": 4,
           "verse": 43,
-          "text": "Er sprach aber zu ihnen: Ich muß auch andern Städten das Evangelium verkündigen vom Reiche Gottes; denn dazu bin ich gesandt."
+          "text": "Er sprach aber zu ihnen: [J]Ich muß auch andern Städten das Evangelium verkündigen vom Reiche Gottes; denn dazu bin ich gesandt.[/J]"
         },
         {
           "chapter": 4,
           "verse": 44,
           "text": "Und er predigte in den Schulen Galiläas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 4\nDie Versuchung Jesu Christi"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Der Beginn des Wirkens Jesu in Galiläa"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Die Verkündigung in der Synagoge von Nazareth"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesus treibt einen unreinen Geist aus"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Die Heilung der Schwiegermutter des Petrus und anderer Kranker"
         }
       ]
     },
@@ -1128,7 +1220,7 @@
         {
           "chapter": 5,
           "verse": 4,
-          "text": "Und als er hatte aufgehört zu reden, sprach er zu Simon: Fahre auf die Höhe und werfet eure Netze aus, daß ihr einen Zug tut."
+          "text": "Und als er hatte aufgehört zu reden, sprach er zu Simon: [J]Fahre auf die Höhe und werfet eure Netze aus, daß ihr einen Zug tut.[/J]"
         },
         {
           "chapter": 5,
@@ -1158,7 +1250,7 @@
         {
           "chapter": 5,
           "verse": 10,
-          "text": "desgleichen auch Jakobus und Johannes, die Söhne des Zebedäus, Simons Gesellen. Und Jesus sprach zu Simon: Fürchte dich nicht; denn von nun an wirst du Menschen fangen."
+          "text": "desgleichen auch Jakobus und Johannes, die Söhne des Zebedäus, Simons Gesellen. Und Jesus sprach zu Simon: [J]Fürchte dich nicht; denn von nun an wirst du Menschen fangen.[/J]"
         },
         {
           "chapter": 5,
@@ -1173,12 +1265,12 @@
         {
           "chapter": 5,
           "verse": 13,
-          "text": "Und er streckte die Hand aus und rührte ihn an und sprach: Ich will's tun; sei gereinigt! Und alsobald ging der Aussatz von ihm."
+          "text": "Und er streckte die Hand aus und rührte ihn an und sprach: [J]Ich will's tun; sei gereinigt![/J] Und alsobald ging der Aussatz von ihm."
         },
         {
           "chapter": 5,
           "verse": 14,
-          "text": "[J]Und er gebot ihm, daß er's niemand sagen sollte; sondern “gehe hin und zeige dich dem Priester und opfere für deine Reinigung, wie Mose geboten, ihnen zum Zeugnis”.[/J]"
+          "text": "Und er gebot ihm, daß er's niemand sagen sollte; sondern [J]“gehe hin und zeige dich dem Priester und opfere für deine Reinigung, wie Mose geboten, ihnen zum Zeugnis”.[/J]"
         },
         {
           "chapter": 5,
@@ -1208,7 +1300,7 @@
         {
           "chapter": 5,
           "verse": 20,
-          "text": "Und da er ihren Glauben sah, sprach er zu ihm: Mensch, deine Sünden sind dir vergeben."
+          "text": "Und da er ihren Glauben sah, sprach er zu ihm: [J]Mensch, deine Sünden sind dir vergeben.[/J]"
         },
         {
           "chapter": 5,
@@ -1218,7 +1310,7 @@
         {
           "chapter": 5,
           "verse": 22,
-          "text": "Da aber Jesus ihre Gedanken merkte, antwortete er und sprach zu ihnen: Was denket ihr in euren Herzen?"
+          "text": "Da aber Jesus ihre Gedanken merkte, antwortete er und sprach zu ihnen: [J]Was denket ihr in euren Herzen?[/J]"
         },
         {
           "chapter": 5,
@@ -1228,7 +1320,7 @@
         {
           "chapter": 5,
           "verse": 24,
-          "text": "[J]Auf das ihr aber wisset, daß des Menschen Sohn Macht hat, auf Erden Sünden zu vergeben, (sprach er zu dem Gichtbrüchigen): Ich sage dir stehe auf und hebe dein Bettlein auf und gehe heim![/J]"
+          "text": "[J]Auf das ihr aber wisset, daß des Menschen Sohn Macht hat, auf Erden Sünden zu vergeben,[/J] (sprach er zu dem Gichtbrüchigen): [J]Ich sage dir stehe auf und hebe dein Bettlein auf und gehe heim![/J]"
         },
         {
           "chapter": 5,
@@ -1243,7 +1335,7 @@
         {
           "chapter": 5,
           "verse": 27,
-          "text": "Und darnach ging er aus und sah einen Zöllner mit Namen Levi am Zoll sitzen und sprach zu ihm: Folge mir nach!"
+          "text": "Und darnach ging er aus und sah einen Zöllner mit Namen Levi am Zoll sitzen und sprach zu ihm: [J]Folge mir nach![/J]"
         },
         {
           "chapter": 5,
@@ -1263,7 +1355,7 @@
         {
           "chapter": 5,
           "verse": 31,
-          "text": "Und Jesus antwortete und sprach zu ihnen: Die Gesunden bedürfen des Arztes nicht, sondern die Kranken."
+          "text": "Und Jesus antwortete und sprach zu ihnen: [J]Die Gesunden bedürfen des Arztes nicht, sondern die Kranken.[/J]"
         },
         {
           "chapter": 5,
@@ -1278,7 +1370,7 @@
         {
           "chapter": 5,
           "verse": 34,
-          "text": "Er sprach aber zu ihnen: Ihr könnt die Hochzeitleute nicht zu fasten treiben, solange der Bräutigam bei ihnen ist."
+          "text": "Er sprach aber zu ihnen: [J]Ihr könnt die Hochzeitleute nicht zu fasten treiben, solange der Bräutigam bei ihnen ist.[/J]"
         },
         {
           "chapter": 5,
@@ -1288,7 +1380,7 @@
         {
           "chapter": 5,
           "verse": 36,
-          "text": "Und er sagte zu ihnen ein Gleichnis: Niemand flickt einen Lappen von einem neuen Kleid auf ein altes Kleid; sonst zerreißt er das neue, und der Lappen vom neuen reimt sich nicht auf das alte."
+          "text": "Und er sagte zu ihnen ein Gleichnis: [J]Niemand flickt einen Lappen von einem neuen Kleid auf ein altes Kleid; sonst zerreißt er das neue, und der Lappen vom neuen reimt sich nicht auf das alte.[/J]"
         },
         {
           "chapter": 5,
@@ -1304,6 +1396,28 @@
           "chapter": 5,
           "verse": 39,
           "text": "[J]Und niemand ist, der vom alten trinkt und wolle bald den neuen; denn er spricht: Der alte ist milder.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 5\nDer wunderbare Fischzug. Die Berufung der ersten Jünger"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Die Heilung eines Aussätzigen"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Die Heilung eines Gelähmten"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Die Berufung des Levi"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Vom Fasten. Gleichnisse vom neuen Flicken und vom neuen Wein"
         }
       ]
     },
@@ -1325,7 +1439,7 @@
         {
           "chapter": 6,
           "verse": 3,
-          "text": "Und Jesus antwortete und sprach zu ihnen: Habt ihr nicht das gelesen, was David tat, da ihn hungerte und die mit ihm waren?"
+          "text": "Und Jesus antwortete und sprach zu ihnen: [J]Habt ihr nicht das gelesen, was David tat, da ihn hungerte und die mit ihm waren?[/J]"
         },
         {
           "chapter": 6,
@@ -1335,7 +1449,7 @@
         {
           "chapter": 6,
           "verse": 5,
-          "text": "Und er sprach zu ihnen: Des Menschen Sohn ist ein HERR auch des Sabbats."
+          "text": "Und er sprach zu ihnen: [J]Des Menschen Sohn ist ein HERR auch des Sabbats.[/J]"
         },
         {
           "chapter": 6,
@@ -1350,17 +1464,17 @@
         {
           "chapter": 6,
           "verse": 8,
-          "text": "Er aber merkte ihre Gedanken und sprach zu dem Menschen mit der dürren Hand: Stehe auf und tritt hervor! Und er stand auf und trat dahin."
+          "text": "Er aber merkte ihre Gedanken und sprach zu dem Menschen mit der dürren Hand: [J]Stehe auf und tritt hervor![/J] Und er stand auf und trat dahin."
         },
         {
           "chapter": 6,
           "verse": 9,
-          "text": "Da sprach Jesus zu ihnen: Ich frage euch: Was ziemt sich zu tun an den Sabbaten, Gutes oder Böses? das Leben erhalten oder verderben?"
+          "text": "Da sprach Jesus zu ihnen: [J]Ich frage euch: Was ziemt sich zu tun an den Sabbaten, Gutes oder Böses? das Leben erhalten oder verderben?[/J]"
         },
         {
           "chapter": 6,
           "verse": 10,
-          "text": "Und er sah sie alle umher an und sprach zu dem Menschen: Strecke deine Hand aus! und er tat's; da ward ihm seine Hand wieder zurechtgebracht, gesund wie die andere."
+          "text": "Und er sah sie alle umher an und sprach zu dem Menschen: [J]Strecke deine Hand aus![/J] und er tat's; da ward ihm seine Hand wieder zurechtgebracht, gesund wie die andere."
         },
         {
           "chapter": 6,
@@ -1410,7 +1524,7 @@
         {
           "chapter": 6,
           "verse": 20,
-          "text": "Und er hob seine Augen auf über seine Jünger und sprach: Selig seid ihr Armen; denn das Reich Gottes ist euer."
+          "text": "Und er hob seine Augen auf über seine Jünger und sprach: [J]Selig seid ihr Armen; denn das Reich Gottes ist euer.[/J]"
         },
         {
           "chapter": 6,
@@ -1505,7 +1619,7 @@
         {
           "chapter": 6,
           "verse": 39,
-          "text": "Und er sagte ihnen ein Gleichnis: Kann auch ein Blinder einem Blinden den Weg weisen? Werden sie nicht alle beide in die Grube fallen?"
+          "text": "Und er sagte ihnen ein Gleichnis: [J]Kann auch ein Blinder einem Blinden den Weg weisen? Werden sie nicht alle beide in die Grube fallen?[/J]"
         },
         {
           "chapter": 6,
@@ -1557,6 +1671,44 @@
           "verse": 49,
           "text": "[J]Wer aber hört und nicht tut, der ist gleich einem Menschen, der ein Haus baute auf die Erde ohne Grund; und der Strom riß zu ihm zu, und es fiel alsbald, und das Haus gewann einen großen Riß.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 6\nJesus ist der Herr über den Sabbat"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Der Mann mit der verdorrten Hand"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Die Wahl der zwölf Apostel"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jesu Wirken in Galiläa"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Seligpreisungen und Weherufe"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Liebe zu den Feinden"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Warnung vor dem Richten"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Der Baum und die Früchte"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Der kluge und der törichte Baumeister"
+        }
       ]
     },
     {
@@ -1607,7 +1759,7 @@
         {
           "chapter": 7,
           "verse": 9,
-          "text": "Da aber Jesus das hörte, verwunderte er sich über ihn und wandte sich um und sprach zu dem Volk, das ihm nachfolgte: Ich sage euch: Solchen Glauben habe ich in Israel nicht gefunden!"
+          "text": "Da aber Jesus das hörte, verwunderte er sich über ihn und wandte sich um und sprach zu dem Volk, das ihm nachfolgte: [J]Ich sage euch: Solchen Glauben habe ich in Israel nicht gefunden![/J]"
         },
         {
           "chapter": 7,
@@ -1627,12 +1779,12 @@
         {
           "chapter": 7,
           "verse": 13,
-          "text": "Und da sie der HERR sah, jammerte ihn derselben, und er sprach zu ihr: Weine nicht!"
+          "text": "Und da sie der HERR sah, jammerte ihn derselben, und er sprach zu ihr: [J]Weine nicht![/J]"
         },
         {
           "chapter": 7,
           "verse": 14,
-          "text": "Und er trat hinzu und rührte den Sarg an; und die Träger standen. Und er sprach: Jüngling, ich sage dir, stehe auf!"
+          "text": "Und er trat hinzu und rührte den Sarg an; und die Träger standen. Und er sprach: [J]Jüngling, ich sage dir, stehe auf![/J]"
         },
         {
           "chapter": 7,
@@ -1672,7 +1824,7 @@
         {
           "chapter": 7,
           "verse": 22,
-          "text": "Und Jesus antwortete und sprach zu ihnen: Gehet hin und verkündiget Johannes, was ihr gesehen und gehört habt: die Blinden sehen, die Lahmen gehen, die Aussätzigen werden rein, die Tauben hören, die Toten stehen auf, den Armen wird das Evangelium gepredigt;"
+          "text": "Und Jesus antwortete und sprach zu ihnen: [J]Gehet hin und verkündiget Johannes, was ihr gesehen und gehört habt: die Blinden sehen, die Lahmen gehen, die Aussätzigen werden rein, die Tauben hören, die Toten stehen auf, den Armen wird das Evangelium gepredigt;[/J]"
         },
         {
           "chapter": 7,
@@ -1682,7 +1834,7 @@
         {
           "chapter": 7,
           "verse": 24,
-          "text": "Da aber die Boten des Johannes hingingen, fing Jesus an, zu reden zu dem Volk von Johannes: Was seid ihr hinausgegangen in die Wüste zu sehen? Wolltet ihr ein Rohr sehen, das vom Winde bewegt wird?"
+          "text": "Da aber die Boten des Johannes hingingen, fing Jesus an, zu reden zu dem Volk von Johannes: [J]Was seid ihr hinausgegangen in die Wüste zu sehen? Wolltet ihr ein Rohr sehen, das vom Winde bewegt wird?[/J]"
         },
         {
           "chapter": 7,
@@ -1717,7 +1869,7 @@
         {
           "chapter": 7,
           "verse": 31,
-          "text": "[J]Aber der HERR sprach: Wem soll ich die Menschen dieses Geschlechts vergleichen, und wem sind sie gleich?[/J]"
+          "text": "Aber der HERR sprach: [J]Wem soll ich die Menschen dieses Geschlechts vergleichen, und wem sind sie gleich?[/J]"
         },
         {
           "chapter": 7,
@@ -1762,7 +1914,7 @@
         {
           "chapter": 7,
           "verse": 40,
-          "text": "Jesus antwortete und sprach zu ihm: Simon, ich habe dir etwas zu sagen. Er aber sprach: Meister, sage an."
+          "text": "Jesus antwortete und sprach zu ihm: [J]Simon, ich habe dir etwas zu sagen.[/J] Er aber sprach: Meister, sage an."
         },
         {
           "chapter": 7,
@@ -1777,12 +1929,12 @@
         {
           "chapter": 7,
           "verse": 43,
-          "text": "Simon antwortete und sprach: Ich achte, dem er am meisten geschenkt hat. Er aber sprach zu ihm: Du hast recht gerichtet."
+          "text": "Simon antwortete und sprach: Ich achte, dem er am meisten geschenkt hat. Er aber sprach zu ihm: [J]Du hast recht gerichtet.[/J]"
         },
         {
           "chapter": 7,
           "verse": 44,
-          "text": "Und er wandte sich zu dem Weibe und sprach zu Simon: Siehest du dies Weib? Ich bin gekommen in dein Haus; du hast mir nicht Wasser gegeben zu meinen Füßen; diese aber hat meine Füße mit Tränen genetzt und mit den Haaren ihres Hauptes getrocknet."
+          "text": "Und er wandte sich zu dem Weibe und sprach zu Simon: [J]Siehest du dies Weib? Ich bin gekommen in dein Haus; du hast mir nicht Wasser gegeben zu meinen Füßen; diese aber hat meine Füße mit Tränen genetzt und mit den Haaren ihres Hauptes getrocknet.[/J]"
         },
         {
           "chapter": 7,
@@ -1802,7 +1954,7 @@
         {
           "chapter": 7,
           "verse": 48,
-          "text": "Und er sprach zu ihr: Dir sind deine Sünden vergeben."
+          "text": "Und er sprach zu ihr: [J]Dir sind deine Sünden vergeben.[/J]"
         },
         {
           "chapter": 7,
@@ -1812,7 +1964,25 @@
         {
           "chapter": 7,
           "verse": 50,
-          "text": "Er aber sprach zu dem Weibe: Dein Glaube hat dir geholfen; gehe hin mit Frieden!"
+          "text": "Er aber sprach zu dem Weibe: [J]Dein Glaube hat dir geholfen; gehe hin mit Frieden![/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 7\nDer Hauptmann von Kapernaum"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Die Auferweckung des Jünglings von Nain"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Jesus und Johannes der Täufer"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Die Salbung Jesu im Haus des Pharisäers"
         }
       ]
     },
@@ -1859,7 +2029,7 @@
         {
           "chapter": 8,
           "verse": 8,
-          "text": "[J]Und etliches fiel auf ein gutes Land; und es ging auf und trug hundertfältige Frucht. Da er das sagte, rief er: Wer Ohren hat, zu hören, der höre![/J]"
+          "text": "[J]Und etliches fiel auf ein gutes Land; und es ging auf und trug hundertfältige Frucht.[/J] Da er das sagte, rief er: [J]Wer Ohren hat, zu hören, der höre![/J]"
         },
         {
           "chapter": 8,
@@ -1869,7 +2039,7 @@
         {
           "chapter": 8,
           "verse": 10,
-          "text": "Er aber sprach: Euch ist es gegeben, zu wissen das Geheimnis des Reiches Gottes; den andern aber in Gleichnissen, daß sie es nicht sehen, ob sie es schon sehen, und nicht verstehen, ob sie es schon hören."
+          "text": "Er aber sprach: [J]Euch ist es gegeben, zu wissen das Geheimnis des Reiches Gottes; den andern aber in Gleichnissen, daß sie es nicht sehen, ob sie es schon sehen, und nicht verstehen, ob sie es schon hören.[/J]"
         },
         {
           "chapter": 8,
@@ -1924,12 +2094,12 @@
         {
           "chapter": 8,
           "verse": 21,
-          "text": "Er aber antwortete und sprach zu ihnen: Meine Mutter und meine Brüder sind diese, die Gottes Wort hören und tun."
+          "text": "Er aber antwortete und sprach zu ihnen: [J]Meine Mutter und meine Brüder sind diese, die Gottes Wort hören und tun.[/J]"
         },
         {
           "chapter": 8,
           "verse": 22,
-          "text": "Und es begab sich an der Tage einem, daß er in ein Schiff trat samt seinen Jüngern; und er sprach zu ihnen: Laßt uns über den See fahren. Und sie stießen vom Lande."
+          "text": "Und es begab sich an der Tage einem, daß er in ein Schiff trat samt seinen Jüngern; und er sprach zu ihnen: [J]Laßt uns über den See fahren.[/J] Und sie stießen vom Lande."
         },
         {
           "chapter": 8,
@@ -1944,7 +2114,7 @@
         {
           "chapter": 8,
           "verse": 25,
-          "text": "Er aber sprach zu ihnen: Wo ist euer Glaube? Sie fürchteten sich aber und verwunderten sich und sprachen untereinander: Wer ist dieser? denn er gebietet dem Winde und dem Wasser, und sie sind ihm gehorsam."
+          "text": "Er aber sprach zu ihnen: [J]Wo ist euer Glaube?[/J] Sie fürchteten sich aber und verwunderten sich und sprachen untereinander: Wer ist dieser? denn er gebietet dem Winde und dem Wasser, und sie sind ihm gehorsam."
         },
         {
           "chapter": 8,
@@ -1969,7 +2139,7 @@
         {
           "chapter": 8,
           "verse": 30,
-          "text": "Und Jesus fragte ihn und sprach: Wie heißest du? Er sprach: Legion; denn es waren viel Teufel in ihn gefahren."
+          "text": "Und Jesus fragte ihn und sprach: [J]Wie heißest du?[/J] Er sprach: Legion; denn es waren viel Teufel in ihn gefahren."
         },
         {
           "chapter": 8,
@@ -2014,7 +2184,7 @@
         {
           "chapter": 8,
           "verse": 39,
-          "text": "Gehe wieder heim und sage, wie große Dinge dir Gott getan hat. Und er ging hin und verkündigte durch die ganze Stadt, wie große Dinge ihm Jesus getan hatte."
+          "text": "[J]Gehe wieder heim und sage, wie große Dinge dir Gott getan hat. [/J]Und er ging hin und verkündigte durch die ganze Stadt, wie große Dinge ihm Jesus getan hatte."
         },
         {
           "chapter": 8,
@@ -2044,12 +2214,12 @@
         {
           "chapter": 8,
           "verse": 45,
-          "text": "Und Jesus sprach: Wer hat mich angerührt? Da sie aber alle leugneten, sprach Petrus und die mit ihm waren: Meister, das Volk drängt und drückt dich, und du sprichst: Wer hat mich angerührt?"
+          "text": "Und Jesus sprach: [J]Wer hat mich angerührt?[/J] Da sie aber alle leugneten, sprach Petrus und die mit ihm waren: Meister, das Volk drängt und drückt dich, und du sprichst: [J]Wer hat mich angerührt?[/J]"
         },
         {
           "chapter": 8,
           "verse": 46,
-          "text": "Jesus aber sprach: Es hat mich jemand angerührt; denn ich fühle, daß eine Kraft von mir gegangen ist."
+          "text": "Jesus aber sprach: [J]Es hat mich jemand angerührt; denn ich fühle, daß eine Kraft von mir gegangen ist.[/J]"
         },
         {
           "chapter": 8,
@@ -2059,7 +2229,7 @@
         {
           "chapter": 8,
           "verse": 48,
-          "text": "[J]Er aber sprach zu ihr: Sei getrost, meine Tochter, dein Glaube hat dir geholfen. Gehe hin mit Frieden![/J]"
+          "text": "Er aber sprach zu ihr: [J]Sei getrost, meine Tochter, dein Glaube hat dir geholfen. Gehe hin mit Frieden![/J]"
         },
         {
           "chapter": 8,
@@ -2069,7 +2239,7 @@
         {
           "chapter": 8,
           "verse": 50,
-          "text": "Da aber Jesus das hörte, antwortete er ihm und sprach: Fürchte dich nicht, glaube nur, so wird sie gesund!"
+          "text": "Da aber Jesus das hörte, antwortete er ihm und sprach: [J]Fürchte dich nicht, glaube nur, so wird sie gesund![/J]"
         },
         {
           "chapter": 8,
@@ -2079,7 +2249,7 @@
         {
           "chapter": 8,
           "verse": 52,
-          "text": "Sie weinten aber alle und klagten um sie. Er aber sprach: Weinet nicht, sie ist nicht gestorben, sondern sie schläft."
+          "text": "Sie weinten aber alle und klagten um sie. Er aber sprach: [J]Weinet nicht, sie ist nicht gestorben, sondern sie schläft.[/J]"
         },
         {
           "chapter": 8,
@@ -2089,7 +2259,7 @@
         {
           "chapter": 8,
           "verse": 54,
-          "text": "Er aber trieb sie alle hinaus, nahm sie bei der Hand und rief und sprach: Kind, stehe auf!"
+          "text": "Er aber trieb sie alle hinaus, nahm sie bei der Hand und rief und sprach: [J]Kind, stehe auf![/J]"
         },
         {
           "chapter": 8,
@@ -2100,6 +2270,44 @@
           "chapter": 8,
           "verse": 56,
           "text": "Und ihre Eltern entsetzten sich. Er aber gebot ihnen, daß sie niemand sagten, was geschehen war."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 8\nDie dienenden Frauen in der Begleitung Jesu"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Das Gleichnis vom Sämann"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Der Grund für die Gleichnisreden"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Die Deutung des Gleichnisses vom Sämann"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Das Licht auf dem Leuchter"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Die wahren Verwandten Jesu"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jesus stillt den Sturm"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Heilung eines Besessenen"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "Die Heilung einer blutflüssigen Frau. Die Auferweckung der Tochter des Jairus"
         }
       ]
     },
@@ -2121,7 +2329,7 @@
         {
           "chapter": 9,
           "verse": 3,
-          "text": "[J]Und sprach zu ihnen: Ihr sollt nichts mit euch nehmen auf den Weg, weder Stab noch Tasche noch Brot noch Geld; es soll auch einer nicht zwei Röcke haben.[/J]"
+          "text": "Und sprach zu ihnen: [J]Ihr sollt nichts mit euch nehmen auf den Weg, weder Stab noch Tasche noch Brot noch Geld; es soll auch einer nicht zwei Röcke haben.[/J]"
         },
         {
           "chapter": 9,
@@ -2171,12 +2379,12 @@
         {
           "chapter": 9,
           "verse": 13,
-          "text": "Er aber sprach zu ihnen: Gebt ihr ihnen zu essen. Sie sprachen, wir haben nicht mehr denn fünf Brote und zwei Fische; es sei denn, daß wir hingehen sollen und Speise kaufen für so großes Volk."
+          "text": "Er aber sprach zu ihnen: [J]Gebt ihr ihnen zu essen.[/J] Sie sprachen, wir haben nicht mehr denn fünf Brote und zwei Fische; es sei denn, daß wir hingehen sollen und Speise kaufen für so großes Volk."
         },
         {
           "chapter": 9,
           "verse": 14,
-          "text": "(Denn es waren bei fünftausend Mann.) Er sprach aber zu seinen Jüngern: Lasset sie sich setzen in Schichten, je fünfzig und fünfzig."
+          "text": "(Denn es waren bei fünftausend Mann.) Er sprach aber zu seinen Jüngern: [J]Lasset sie sich setzen in Schichten, je fünfzig und fünfzig.[/J]"
         },
         {
           "chapter": 9,
@@ -2196,7 +2404,7 @@
         {
           "chapter": 9,
           "verse": 18,
-          "text": "Und es begab sich, da er allein war und betete und seine Jünger zu ihm traten, fragte er sie und sprach: Wer sagen die Leute, daß ich sei?"
+          "text": "Und es begab sich, da er allein war und betete und seine Jünger zu ihm traten, fragte er sie und sprach: [J]Wer sagen die Leute, daß ich sei?[/J]"
         },
         {
           "chapter": 9,
@@ -2206,7 +2414,7 @@
         {
           "chapter": 9,
           "verse": 20,
-          "text": "Er aber sprach zu ihnen: Wer saget ihr aber, daß ich sei? Da antwortete Petrus und sprach: Du bist der Christus Gottes!"
+          "text": "Er aber sprach zu ihnen: [J]Wer saget ihr aber, daß ich sei?[/J] Da antwortete Petrus und sprach: Du bist der Christus Gottes!"
         },
         {
           "chapter": 9,
@@ -2216,12 +2424,12 @@
         {
           "chapter": 9,
           "verse": 22,
-          "text": "[J]und sprach: Des Menschen Sohn muß noch viel leiden und verworfen werden von den Ältesten und Hohenpriestern und Schriftgelehrten und getötet werden und am dritten Tage auferstehen.[/J]"
+          "text": "und sprach: [J]Des Menschen Sohn muß noch viel leiden und verworfen werden von den Ältesten und Hohenpriestern und Schriftgelehrten und getötet werden und am dritten Tage auferstehen.[/J]"
         },
         {
           "chapter": 9,
           "verse": 23,
-          "text": "Da sprach er zu ihnen allen: Wer mir folgen will, der verleugne sich selbst und nehme sein Kreuz auf sich täglich und folge mir nach."
+          "text": "Da sprach er zu ihnen allen: [J]Wer mir folgen will, der verleugne sich selbst und nehme sein Kreuz auf sich täglich und folge mir nach.[/J]"
         },
         {
           "chapter": 9,
@@ -2311,7 +2519,7 @@
         {
           "chapter": 9,
           "verse": 41,
-          "text": "[J]Da antwortete Jesus und sprach: O du ungläubige und verkehrte Art, wie lange soll ich bei euch sein und euch dulden? Bringe deinen Sohn her![/J]"
+          "text": "Da antwortete Jesus und sprach: [J]O du ungläubige und verkehrte Art, wie lange soll ich bei euch sein und euch dulden? Bringe deinen Sohn her![/J]"
         },
         {
           "chapter": 9,
@@ -2346,7 +2554,7 @@
         {
           "chapter": 9,
           "verse": 48,
-          "text": "und sprach zu ihnen: Wer dies Kind aufnimmt in meinem Namen, der nimmt mich auf; und wer mich aufnimmt, der nimmt den auf, der mich gesandt hat. Welcher aber der Kleinste ist unter euch allen, der wird groß sein."
+          "text": "und sprach zu ihnen: [J]Wer dies Kind aufnimmt in meinem Namen, der nimmt mich auf; und wer mich aufnimmt, der nimmt den auf, der mich gesandt hat. Welcher aber der Kleinste ist unter euch allen, der wird groß sein.[/J]"
         },
         {
           "chapter": 9,
@@ -2356,7 +2564,7 @@
         {
           "chapter": 9,
           "verse": 50,
-          "text": "[J]Und Jesus sprach zu ihm: Wehret ihm nicht; denn wer nicht wider uns ist, der ist für uns.[/J]"
+          "text": "Und Jesus sprach zu ihm: [J]Wehret ihm nicht; denn wer nicht wider uns ist, der ist für uns.[/J]"
         },
         {
           "chapter": 9,
@@ -2381,12 +2589,12 @@
         {
           "chapter": 9,
           "verse": 55,
-          "text": "Jesus aber wandte sich um und bedrohte sie und sprach: Wisset ihr nicht, welches Geistes Kinder ihr seid?"
+          "text": "Jesus aber wandte sich um und bedrohte sie und sprach: [J]Wisset ihr nicht, welches Geistes Kinder ihr seid?[/J]"
         },
         {
           "chapter": 9,
           "verse": 56,
-          "text": "Des Menschen Sohn ist nicht gekommen, der Menschen Seelen zu verderben, sondern zu erhalten."
+          "text": "[J]Des Menschen Sohn ist nicht gekommen, der Menschen Seelen zu verderben, sondern zu erhalten.[/J]"
         },
         {
           "chapter": 9,
@@ -2396,17 +2604,17 @@
         {
           "chapter": 9,
           "verse": 58,
-          "text": "Und Jesus sprach zu ihm: Die Füchse haben Gruben, und die Vögel unter dem Himmel haben Nester; aber des Menschen Sohn hat nicht, da er sein Haupt hin lege."
+          "text": "Und Jesus sprach zu ihm: [J]Die Füchse haben Gruben, und die Vögel unter dem Himmel haben Nester; aber des Menschen Sohn hat nicht, da er sein Haupt hin lege.[/J]"
         },
         {
           "chapter": 9,
           "verse": 59,
-          "text": "Und er sprach zu einem andern: Folge mir nach! Der sprach aber: HERR, erlaube mir, daß ich zuvor hingehe und meinen Vater begrabe."
+          "text": "Und er sprach zu einem andern: [J]Folge mir nach![/J] Der sprach aber: HERR, erlaube mir, daß ich zuvor hingehe und meinen Vater begrabe."
         },
         {
           "chapter": 9,
           "verse": 60,
-          "text": "Aber Jesus sprach zu ihm: Laß die Toten ihre Toten begraben; gehe du aber hin und verkündige das Reich Gottes!"
+          "text": "Aber Jesus sprach zu ihm: [J]Laß die Toten ihre Toten begraben; gehe du aber hin und verkündige das Reich Gottes![/J]"
         },
         {
           "chapter": 9,
@@ -2416,7 +2624,53 @@
         {
           "chapter": 9,
           "verse": 62,
-          "text": "Jesus aber sprach zu ihm: Wer seine Hand an den Pflug legt und sieht zurück, der ist nicht geschickt zum Reich Gottes."
+          "text": "Jesus aber sprach zu ihm: [J]Wer seine Hand an den Pflug legt und sieht zurück, der ist nicht geschickt zum Reich Gottes.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 9\nDie Aussendung der zwölf Apostel"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Die Frage des Herodes"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Die Speisung der Fünftausend"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Das Bekenntnis des Petrus. Die erste Ankündigung von Jesu Tod und Auferstehung"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Über die Nachfolge"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Die Verklärung Jesu"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Heilung eines besessenen Knaben"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Die zweite Ankündigung von Jesu Leiden"
+        },
+        {
+          "beforeVerse": 46,
+          "text": "Der Größte im Reich Gottes"
+        },
+        {
+          "beforeVerse": 51,
+          "text": "Jesus in Samaria"
+        },
+        {
+          "beforeVerse": 57,
+          "text": "Vom Preis der Nachfolge"
         }
       ]
     },
@@ -2433,7 +2687,7 @@
         {
           "chapter": 10,
           "verse": 2,
-          "text": "und sprach zu ihnen: Die Ernte ist groß, der Arbeiter aber sind wenige. Bittet den HERRN der Ernte, daß er Arbeiter aussende in seine Ernte."
+          "text": "und sprach zu ihnen: [J]Die Ernte ist groß, der Arbeiter aber sind wenige. Bittet den HERRN der Ernte, daß er Arbeiter aussende in seine Ernte.[/J]"
         },
         {
           "chapter": 10,
@@ -2513,7 +2767,7 @@
         {
           "chapter": 10,
           "verse": 18,
-          "text": "Er sprach aber zu ihnen: Ich sah wohl den Satanas vom Himmel fallen als einen Blitz."
+          "text": "Er sprach aber zu ihnen: [J]Ich sah wohl den Satanas vom Himmel fallen als einen Blitz.[/J]"
         },
         {
           "chapter": 10,
@@ -2528,7 +2782,7 @@
         {
           "chapter": 10,
           "verse": 21,
-          "text": "Zu der Stunde freute sich Jesus im Geist und sprach: Ich preise dich, Vater und HERR des Himmels und der Erde, daß du solches verborgen hast den Weisen und Klugen, und hast es offenbart den Unmündigen. Ja, Vater, also war es wohlgefällig vor dir."
+          "text": "Zu der Stunde freute sich Jesus im Geist und sprach: [J]Ich preise dich, Vater und HERR des Himmels und der Erde, daß du solches verborgen hast den Weisen und Klugen, und hast es offenbart den Unmündigen. Ja, Vater, also war es wohlgefällig vor dir.[/J]"
         },
         {
           "chapter": 10,
@@ -2538,7 +2792,7 @@
         {
           "chapter": 10,
           "verse": 23,
-          "text": "Und er wandte sich zu seinen Jüngern und sprach insonderheit: Selig sind die Augen, die da sehen, was ihr sehet."
+          "text": "Und er wandte sich zu seinen Jüngern und sprach insonderheit: [J]Selig sind die Augen, die da sehen, was ihr sehet.[/J]"
         },
         {
           "chapter": 10,
@@ -2553,7 +2807,7 @@
         {
           "chapter": 10,
           "verse": 26,
-          "text": "[J]Er aber sprach zu ihm: Wie steht im Gesetz geschrieben? Wie lieset du?[/J]"
+          "text": "Er aber sprach zu ihm: [J]Wie steht im Gesetz geschrieben? Wie lieset du?[/J]"
         },
         {
           "chapter": 10,
@@ -2563,7 +2817,7 @@
         {
           "chapter": 10,
           "verse": 28,
-          "text": "[J]Er aber sprach zu ihm: Du hast recht geantwortet; tue das, so wirst du leben.[/J]"
+          "text": "Er aber sprach zu ihm: [J]Du hast recht geantwortet; tue das, so wirst du leben.[/J]"
         },
         {
           "chapter": 10,
@@ -2573,7 +2827,7 @@
         {
           "chapter": 10,
           "verse": 30,
-          "text": "Da antwortete Jesus und sprach: Es war ein Mensch, der ging von Jerusalem hinab gen Jericho und fiel unter die Mörder; die zogen ihn aus und schlugen ihn und gingen davon und ließen ihn halbtot liegen."
+          "text": "Da antwortete Jesus und sprach: [J]Es war ein Mensch, der ging von Jerusalem hinab gen Jericho und fiel unter die Mörder; die zogen ihn aus und schlugen ihn und gingen davon und ließen ihn halbtot liegen.[/J]"
         },
         {
           "chapter": 10,
@@ -2608,7 +2862,7 @@
         {
           "chapter": 10,
           "verse": 37,
-          "text": "Er sprach: Der die Barmherzigkeit an ihn tat. Da sprach Jesus zu ihm: So gehe hin und tue desgleichen!"
+          "text": "Er sprach: Der die Barmherzigkeit an ihn tat. Da sprach Jesus zu ihm: [J]So gehe hin und tue desgleichen![/J]"
         },
         {
           "chapter": 10,
@@ -2628,12 +2882,34 @@
         {
           "chapter": 10,
           "verse": 41,
-          "text": "[J]Jesus aber antwortete und sprach zu ihr: Martha, Martha, du hast viel Sorge und Mühe;[/J]"
+          "text": "Jesus aber antwortete und sprach zu ihr: [J]Martha, Martha, du hast viel Sorge und Mühe;[/J]"
         },
         {
           "chapter": 10,
           "verse": 42,
           "text": "[J]eins aber ist not. Maria hat das gute Teil erwählt; das soll nicht von ihr genommen werden.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 10\nDie Aussendung der siebzig Jünger"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Das Wehe über die unbußfertigen Städte"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Das große Vorrecht der Jünger"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Das Gleichnis vom barmherzigen Samariter"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Martha und Maria"
         }
       ]
     },
@@ -2650,7 +2926,7 @@
         {
           "chapter": 11,
           "verse": 2,
-          "text": "Und er sprach zu ihnen: Wenn ihr betet, so sprecht: Unser Vater im Himmel, dein Name werde geheiligt. Dein Reich komme. Dein Wille geschehe auf Erden wie im Himmel."
+          "text": "Und er sprach zu ihnen: [J]Wenn ihr betet, so sprecht: Unser Vater im Himmel, dein Name werde geheiligt. Dein Reich komme. Dein Wille geschehe auf Erden wie im Himmel.[/J]"
         },
         {
           "chapter": 11,
@@ -2665,7 +2941,7 @@
         {
           "chapter": 11,
           "verse": 5,
-          "text": "Und er sprach zu ihnen: Welcher ist unter euch, der einen Freund hat und ginge zu ihm zu Mitternacht und spräche zu ihm: Lieber Freund, leihe mir drei Brote;"
+          "text": "Und er sprach zu ihnen: [J]Welcher ist unter euch, der einen Freund hat und ginge zu ihm zu Mitternacht und spräche zu ihm: Lieber Freund, leihe mir drei Brote;[/J]"
         },
         {
           "chapter": 11,
@@ -2725,7 +3001,7 @@
         {
           "chapter": 11,
           "verse": 17,
-          "text": "Er aber erkannte ihre Gedanken und sprach zu ihnen: Ein jeglich Reich, so es mit sich selbst uneins wird, das wird wüst; und ein Haus fällt über das andere."
+          "text": "Er aber erkannte ihre Gedanken und sprach zu ihnen: [J]Ein jeglich Reich, so es mit sich selbst uneins wird, das wird wüst; und ein Haus fällt über das andere.[/J]"
         },
         {
           "chapter": 11,
@@ -2780,12 +3056,12 @@
         {
           "chapter": 11,
           "verse": 28,
-          "text": "Er aber sprach: Ja, selig sind, die das Wort Gottes hören und bewahren."
+          "text": "Er aber sprach: [J]Ja, selig sind, die das Wort Gottes hören und bewahren.[/J]"
         },
         {
           "chapter": 11,
           "verse": 29,
-          "text": "Das Volk aber drang hinzu. Da fing er an und sagte: Dies ist eine arge Art; sie begehrt ein Zeichen, und es wird ihr kein Zeichen gegeben denn nur das Zeichen des Propheten Jona."
+          "text": "Das Volk aber drang hinzu. Da fing er an und sagte: [J]Dies ist eine arge Art; sie begehrt ein Zeichen, und es wird ihr kein Zeichen gegeben denn nur das Zeichen des Propheten Jona.[/J]"
         },
         {
           "chapter": 11,
@@ -2835,7 +3111,7 @@
         {
           "chapter": 11,
           "verse": 39,
-          "text": "Der HERR aber sprach zu ihm: Ihr Pharisäer haltet die Becher und Schüsseln auswendig reinlich, aber euer Inwendiges ist voll Raubes und Bosheit."
+          "text": "Der HERR aber sprach zu ihm: [J]Ihr Pharisäer haltet die Becher und Schüsseln auswendig reinlich, aber euer Inwendiges ist voll Raubes und Bosheit.[/J]"
         },
         {
           "chapter": 11,
@@ -2870,7 +3146,7 @@
         {
           "chapter": 11,
           "verse": 46,
-          "text": "[J]Er aber sprach: Und weh auch euch Schriftgelehrten! denn ihr beladet die Menschen mit unerträglichen Lasten, und ihr rührt sie nicht mit einem Finger an.[/J]"
+          "text": "Er aber sprach: [J]Und weh auch euch Schriftgelehrten! denn ihr beladet die Menschen mit unerträglichen Lasten, und ihr rührt sie nicht mit einem Finger an.[/J]"
         },
         {
           "chapter": 11,
@@ -2912,6 +3188,36 @@
           "verse": 54,
           "text": "und lauerten auf ihn und suchten, ob sie etwas erjagen könnten aus seinem Munde, daß sie eine Sache wider ihn hätten."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 11\nVom Beten"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Ermutigung zum beharrlichen Gebet"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesu Macht über die bösen Geister"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Die Rückkehr des unreinen Geistes"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Das Zeichen des Propheten Jona"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Die Leuchte des Leibes"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Strafrede gegen die Pharisäer und Schriftgelehrten"
+        }
       ]
     },
     {
@@ -2922,7 +3228,7 @@
         {
           "chapter": 12,
           "verse": 1,
-          "text": "Es lief das Volk zu und kamen etliche Tausend zusammen, also daß sie sich untereinander traten. Da fing er an und sagte zu seinen Jüngern: Zum ersten hütet euch vor dem Sauerteig der Pharisäer, welches ist die Heuchelei."
+          "text": "Es lief das Volk zu und kamen etliche Tausend zusammen, also daß sie sich untereinander traten. Da fing er an und sagte zu seinen Jüngern: [J]Zum ersten hütet euch vor dem Sauerteig der Pharisäer, welches ist die Heuchelei.[/J]"
         },
         {
           "chapter": 12,
@@ -2987,17 +3293,17 @@
         {
           "chapter": 12,
           "verse": 14,
-          "text": "Er aber sprach zu ihm: Mensch, wer hat mich zum Richter oder Erbschichter über euch gesetzt?"
+          "text": "Er aber sprach zu ihm: [J]Mensch, wer hat mich zum Richter oder Erbschichter über euch gesetzt?[/J]"
         },
         {
           "chapter": 12,
           "verse": 15,
-          "text": "Und er sprach zu ihnen: Sehet zu und hütet euch vor dem Geiz; denn niemand lebt davon, daß er viele Güter hat."
+          "text": "Und er sprach zu ihnen: [J]Sehet zu und hütet euch vor dem Geiz; denn niemand lebt davon, daß er viele Güter hat.[/J]"
         },
         {
           "chapter": 12,
           "verse": 16,
-          "text": "Und er sagte ihnen ein Gleichnis und sprach: Es war ein reicher Mensch, das Feld hatte wohl getragen."
+          "text": "Und er sagte ihnen ein Gleichnis und sprach: [J]Es war ein reicher Mensch, das Feld hatte wohl getragen.[/J]"
         },
         {
           "chapter": 12,
@@ -3027,7 +3333,7 @@
         {
           "chapter": 12,
           "verse": 22,
-          "text": "Er sprach aber zu seinen Jüngern: Darum sage ich euch: Sorget nicht für euer Leben, was ihr essen sollt, auch nicht für euren Leib, was ihr antun sollt."
+          "text": "Er sprach aber zu seinen Jüngern: [J]Darum sage ich euch: Sorget nicht für euer Leben, was ihr essen sollt, auch nicht für euren Leib, was ihr antun sollt.[/J]"
         },
         {
           "chapter": 12,
@@ -3127,7 +3433,7 @@
         {
           "chapter": 12,
           "verse": 42,
-          "text": "Der HERR aber sprach: Wie ein großes Ding ist's um einen treuen und klugen Haushalter, welchen der Herr setzt über sein Gesinde, daß er ihnen zur rechten Zeit ihre Gebühr gebe!"
+          "text": "Der HERR aber sprach: [J]Wie ein großes Ding ist's um einen treuen und klugen Haushalter, welchen der Herr setzt über sein Gesinde, daß er ihnen zur rechten Zeit ihre Gebühr gebe![/J]"
         },
         {
           "chapter": 12,
@@ -3187,7 +3493,7 @@
         {
           "chapter": 12,
           "verse": 54,
-          "text": "Er sprach aber zu dem Volk: Wenn ihr eine Wolke sehet aufgehen am Abend, so sprecht ihr alsbald: Es kommt ein Regen, und es geschieht also."
+          "text": "Er sprach aber zu dem Volk: [J]Wenn ihr eine Wolke sehet aufgehen am Abend, so sprecht ihr alsbald: Es kommt ein Regen, und es geschieht also.[/J]"
         },
         {
           "chapter": 12,
@@ -3214,6 +3520,32 @@
           "verse": 59,
           "text": "[J]Ich sage dir: Du wirst von dannen nicht herauskommen, bis du den allerletzten Heller bezahlest.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 12\nAufruf zum offenen Bekenntnis für Jesus Christus"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Das Gleichnis vom reichen Narren"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Von unnützen Sorgen"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Ermahnung zur Wachsamkeit"
+        },
+        {
+          "beforeVerse": 49,
+          "text": "Das Bekenntnis zu Christus bringt Trennung"
+        },
+        {
+          "beforeVerse": 54,
+          "text": "Zeichen der Zeit. Ermahnung zu Versöhnlichkeit"
+        }
       ]
     },
     {
@@ -3229,7 +3561,7 @@
         {
           "chapter": 13,
           "verse": 2,
-          "text": "Und Jesus antwortete und sprach zu ihnen: Meinet ihr, daß diese Galiläer vor allen Galiläern Sünder gewesen sind, dieweil sie das erlitten haben?"
+          "text": "Und Jesus antwortete und sprach zu ihnen: [J]Meinet ihr, daß diese Galiläer vor allen Galiläern Sünder gewesen sind, dieweil sie das erlitten haben?[/J]"
         },
         {
           "chapter": 13,
@@ -3249,7 +3581,7 @@
         {
           "chapter": 13,
           "verse": 6,
-          "text": "Er sagte ihnen aber dies Gleichnis: Es hatte einer einen Feigenbaum, der war gepflanzt in seinem Weinberge; und er kam und suchte Frucht darauf, und fand sie nicht."
+          "text": "Er sagte ihnen aber dies Gleichnis: [J]Es hatte einer einen Feigenbaum, der war gepflanzt in seinem Weinberge; und er kam und suchte Frucht darauf, und fand sie nicht.[/J]"
         },
         {
           "chapter": 13,
@@ -3279,7 +3611,7 @@
         {
           "chapter": 13,
           "verse": 12,
-          "text": "Da sie aber Jesus sah, rief er sie zu sich und sprach zu ihr: Weib, sei los von deiner Krankheit!"
+          "text": "Da sie aber Jesus sah, rief er sie zu sich und sprach zu ihr: [J]Weib, sei los von deiner Krankheit![/J]"
         },
         {
           "chapter": 13,
@@ -3294,7 +3626,7 @@
         {
           "chapter": 13,
           "verse": 15,
-          "text": "[J]Da antwortete ihm der HERR und sprach: Du Heuchler! löst nicht ein jeglicher unter euch seinen Ochsen oder Esel von der Krippe am Sabbat und führt ihn zur Tränke?[/J]"
+          "text": "Da antwortete ihm der HERR und sprach: [J]Du Heuchler! löst nicht ein jeglicher unter euch seinen Ochsen oder Esel von der Krippe am Sabbat und führt ihn zur Tränke?[/J]"
         },
         {
           "chapter": 13,
@@ -3309,7 +3641,7 @@
         {
           "chapter": 13,
           "verse": 18,
-          "text": "Er sprach aber: Wem ist das Reich Gottes gleich, und wem soll ich's vergleichen?"
+          "text": "Er sprach aber: [J]Wem ist das Reich Gottes gleich, und wem soll ich's vergleichen?[/J]"
         },
         {
           "chapter": 13,
@@ -3319,7 +3651,7 @@
         {
           "chapter": 13,
           "verse": 20,
-          "text": "Und abermals sprach er: Wem soll ich das Reich Gottes vergleichen?"
+          "text": "Und abermals sprach er: [J]Wem soll ich das Reich Gottes vergleichen?[/J]"
         },
         {
           "chapter": 13,
@@ -3379,7 +3711,7 @@
         {
           "chapter": 13,
           "verse": 32,
-          "text": "Und er sprach zu ihnen: Gehet hin und saget diesem Fuchs: Siehe, ich treibe Teufel aus und mache gesund heut und morgen, und am dritten Tage werde ich ein Ende nehmen."
+          "text": "Und er sprach zu ihnen: [J]Gehet hin und saget diesem Fuchs: Siehe, ich treibe Teufel aus und mache gesund heut und morgen, und am dritten Tage werde ich ein Ende nehmen.[/J]"
         },
         {
           "chapter": 13,
@@ -3395,6 +3727,28 @@
           "chapter": 13,
           "verse": 35,
           "text": "[J]Sehet, euer Haus soll euch wüst gelassen werden. Denn ich sage euch: Ihr werdet mich nicht sehen, bis daß es komme, daß ihr sagen werdet: Gelobt ist, der da kommt im Namen des HERRN![/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 13\nErmahnung zur Buße"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jesus heilt am Sabbat eine verkrümmte Frau"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Die Gleichnisse vom Senfkorn und vom Sauerteig"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Die enge Pforte"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Die Feindschaft des Herodes. Klage über Jerusalem"
         }
       ]
     },
@@ -3416,7 +3770,7 @@
         {
           "chapter": 14,
           "verse": 3,
-          "text": "Und Jesus antwortete und sagte zu den Schriftgelehrten und Pharisäern und sprach: Ist's auch recht, am Sabbat zu heilen?"
+          "text": "Und Jesus antwortete und sagte zu den Schriftgelehrten und Pharisäern und sprach: [J]Ist's auch recht, am Sabbat zu heilen?[/J]"
         },
         {
           "chapter": 14,
@@ -3426,7 +3780,7 @@
         {
           "chapter": 14,
           "verse": 5,
-          "text": "Und antwortete und sprach zu ihnen: Welcher ist unter euch, dem sein Ochse oder Esel in den Brunnen fällt, und der nicht alsbald ihn herauszieht am Sabbattage?"
+          "text": "Und antwortete und sprach zu ihnen: [J]Welcher ist unter euch, dem sein Ochse oder Esel in den Brunnen fällt, und der nicht alsbald ihn herauszieht am Sabbattage?[/J]"
         },
         {
           "chapter": 14,
@@ -3461,7 +3815,7 @@
         {
           "chapter": 14,
           "verse": 12,
-          "text": "Er sprach auch zu dem, der ihn geladen hatte: Wenn du ein Mittags-oder Abendmahl machst, so lade nicht deine Freunde noch deine Brüder noch deine Gefreunden noch deine Nachbarn, die da reich sind, auf daß sie dich nicht etwa wieder laden und dir vergolten werde."
+          "text": "Er sprach auch zu dem, der ihn geladen hatte: [J]Wenn du ein Mittags-oder Abendmahl machst, so lade nicht deine Freunde noch deine Brüder noch deine Gefreunden noch deine Nachbarn, die da reich sind, auf daß sie dich nicht etwa wieder laden und dir vergolten werde.[/J]"
         },
         {
           "chapter": 14,
@@ -3481,7 +3835,7 @@
         {
           "chapter": 14,
           "verse": 16,
-          "text": "Er aber sprach zu ihm: Es war ein Mensch, der machte ein großes Abendmahl und lud viele dazu."
+          "text": "Er aber sprach zu ihm: [J]Es war ein Mensch, der machte ein großes Abendmahl und lud viele dazu.[/J]"
         },
         {
           "chapter": 14,
@@ -3578,6 +3932,24 @@
           "verse": 35,
           "text": "[J]Es ist weder auf das Land noch in den Mist nütze, sondern man wird's wegwerfen. Wer Ohren hat, zu hören, der höre![/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 14\nJesus heilt einen Wassersüchtigen am Sabbat"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Demut und wahre Wohltätigkeit"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Das Gleichnis vom großen Gastmahl"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Bedingungen der Nachfolge"
+        }
       ]
     },
     {
@@ -3638,7 +4010,7 @@
         {
           "chapter": 15,
           "verse": 11,
-          "text": "Und er sprach: Ein Mensch hatte zwei Söhne."
+          "text": "Und er sprach: [J]Ein Mensch hatte zwei Söhne.[/J]"
         },
         {
           "chapter": 15,
@@ -3745,6 +4117,20 @@
           "verse": 32,
           "text": "[J]Du solltest aber fröhlich und gutes Muts sein; denn dieser dein Bruder war tot und ist wieder lebendig geworden; er war verloren und ist wieder gefunden.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 15\nDas Gleichnis vom verlorenen Schaf"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Das Gleichnis von der verlorenen Drachme"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Das Gleichnis vom verlorenen Sohn"
+        }
       ]
     },
     {
@@ -3755,7 +4141,7 @@
         {
           "chapter": 16,
           "verse": 1,
-          "text": "Er aber sprach zu seinen Jüngern: Es war ein reicher Mann, der hatte einen Haushalter; der ward von ihm berüchtigt, als hätte er ihm seine Güter umgebracht."
+          "text": "Er aber sprach zu seinen Jüngern: [J]Es war ein reicher Mann, der hatte einen Haushalter; der ward von ihm berüchtigt, als hätte er ihm seine Güter umgebracht.[/J]"
         },
         {
           "chapter": 16,
@@ -3825,7 +4211,7 @@
         {
           "chapter": 16,
           "verse": 15,
-          "text": "Und er sprach zu ihnen: Ihr seid's, die ihr euch selbst rechtfertigt vor den Menschen; aber Gott kennt eure Herzen; denn was hoch ist unter den Menschen, das ist ein Greuel vor Gott."
+          "text": "Und er sprach zu ihnen: [J]Ihr seid's, die ihr euch selbst rechtfertigt vor den Menschen; aber Gott kennt eure Herzen; denn was hoch ist unter den Menschen, das ist ein Greuel vor Gott.[/J]"
         },
         {
           "chapter": 16,
@@ -3907,6 +4293,28 @@
           "verse": 31,
           "text": "[J]Er sprach zu ihm: Hören sie Mose und die Propheten nicht, so werden sie auch nicht glauben, wenn jemand von den Toten aufstünde.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 16\nDas Gleichnis vom untreuen Haushalter"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Ermahnung zum treuen Dienen"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Das Gesetz und das Reich Gottes"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Ehebruch und Ehescheidung"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Der reiche Mann und der arme Lazarus"
+        }
       ]
     },
     {
@@ -3917,7 +4325,7 @@
         {
           "chapter": 17,
           "verse": 1,
-          "text": "Er sprach aber zu seinen Jüngern: Es ist unmöglich, daß nicht Ärgernisse kommen; weh aber dem, durch welchen sie kommen!"
+          "text": "Er sprach aber zu seinen Jüngern: [J]Es ist unmöglich, daß nicht Ärgernisse kommen; weh aber dem, durch welchen sie kommen![/J]"
         },
         {
           "chapter": 17,
@@ -3942,7 +4350,7 @@
         {
           "chapter": 17,
           "verse": 6,
-          "text": "Der HERR aber sprach: Wenn ihr Glauben habt wie ein Senfkorn und sagt zu diesem Maulbeerbaum: Reiß dich aus und versetze dich ins Meer! so wird er euch gehorsam sein."
+          "text": "Der HERR aber sprach: [J]Wenn ihr Glauben habt wie ein Senfkorn und sagt zu diesem Maulbeerbaum: Reiß dich aus und versetze dich ins Meer! so wird er euch gehorsam sein.[/J]"
         },
         {
           "chapter": 17,
@@ -3982,7 +4390,7 @@
         {
           "chapter": 17,
           "verse": 14,
-          "text": "Und da er sie sah, sprach er zu ihnen: Gehet hin und zeiget euch den Priestern! Und es geschah, da sie hingingen, wurden sie rein."
+          "text": "Und da er sie sah, sprach er zu ihnen: [J]Gehet hin und zeiget euch den Priestern![/J] Und es geschah, da sie hingingen, wurden sie rein."
         },
         {
           "chapter": 17,
@@ -3997,7 +4405,7 @@
         {
           "chapter": 17,
           "verse": 17,
-          "text": "[J]Jesus aber antwortete und sprach: Sind ihrer nicht zehn rein geworden? Wo sind aber die neun?[/J]"
+          "text": "Jesus aber antwortete und sprach: [J]Sind ihrer nicht zehn rein geworden? Wo sind aber die neun?[/J]"
         },
         {
           "chapter": 17,
@@ -4007,12 +4415,12 @@
         {
           "chapter": 17,
           "verse": 19,
-          "text": "Und er sprach zu ihm: Stehe auf, gehe hin; dein Glaube hat dir geholfen."
+          "text": "Und er sprach zu ihm: [J]Stehe auf, gehe hin; dein Glaube hat dir geholfen.[/J]"
         },
         {
           "chapter": 17,
           "verse": 20,
-          "text": "Da er aber gefragt ward von den Pharisäern: Wann kommt das Reich Gottes? antwortete er ihnen und sprach: Das Reich Gottes kommt nicht mit äußerlichen Gebärden;"
+          "text": "Da er aber gefragt ward von den Pharisäern: Wann kommt das Reich Gottes? antwortete er ihnen und sprach: [J]Das Reich Gottes kommt nicht mit äußerlichen Gebärden;[/J]"
         },
         {
           "chapter": 17,
@@ -4022,7 +4430,7 @@
         {
           "chapter": 17,
           "verse": 22,
-          "text": "Er sprach aber zu den Jüngern: Es wird die Zeit kommen, daß ihr werdet begehren zu sehen einen Tag des Menschensohnes, und werdet ihn nicht sehen."
+          "text": "Er sprach aber zu den Jüngern: [J]Es wird die Zeit kommen, daß ihr werdet begehren zu sehen einen Tag des Menschensohnes, und werdet ihn nicht sehen.[/J]"
         },
         {
           "chapter": 17,
@@ -4092,12 +4500,30 @@
         {
           "chapter": 17,
           "verse": 36,
-          "text": "Zwei werden auf dem Felde sein; einer wird angenommen, der andere wird verlassen werden."
+          "text": "[J]Zwei werden auf dem Felde sein; einer wird angenommen, der andere wird verlassen werden.[/J]"
         },
         {
           "chapter": 17,
           "verse": 37,
-          "text": "Und sie antworteten und sprachen zu ihm: HERR wo? Er aber sprach zu ihnen: Wo das Aas ist, da sammeln sich auch die Adler."
+          "text": "Und sie antworteten und sprachen zu ihm: HERR wo? Er aber sprach zu ihnen: [J]Wo das Aas ist, da sammeln sich auch die Adler.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 17\nAnstöße zur Sünde. Vergebung. Die Kraft des Glaubens"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Von der Pflichterfüllung im Dienst"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Die Heilung der zehn Aussätzigen"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Das Reich Gottes und die Wiederkunft des Menschensohnes"
         }
       ]
     },
@@ -4114,7 +4540,7 @@
         {
           "chapter": 18,
           "verse": 2,
-          "text": "[J]und sprach: Es war ein Richter in einer Stadt, der fürchtete sich nicht vor Gott und scheute sich vor keinem Menschen.[/J]"
+          "text": "und sprach: [J]Es war ein Richter in einer Stadt, der fürchtete sich nicht vor Gott und scheute sich vor keinem Menschen.[/J]"
         },
         {
           "chapter": 18,
@@ -4134,7 +4560,7 @@
         {
           "chapter": 18,
           "verse": 6,
-          "text": "Da sprach der HERR: Höret hier, was der ungerechte Richter sagt!"
+          "text": "Da sprach der HERR: [J]Höret hier, was der ungerechte Richter sagt![/J]"
         },
         {
           "chapter": 18,
@@ -4184,7 +4610,7 @@
         {
           "chapter": 18,
           "verse": 16,
-          "text": "Aber Jesus rief sie zu sich und sprach: Lasset die Kindlein zu mir kommen und wehret ihnen nicht; denn solcher ist das Reich Gottes."
+          "text": "Aber Jesus rief sie zu sich und sprach: [J]Lasset die Kindlein zu mir kommen und wehret ihnen nicht; denn solcher ist das Reich Gottes.[/J]"
         },
         {
           "chapter": 18,
@@ -4199,7 +4625,7 @@
         {
           "chapter": 18,
           "verse": 19,
-          "text": "[J]Jesus aber sprach zu ihm: Was heißest du mich gut? Niemand ist gut denn der einige Gott.[/J]"
+          "text": "Jesus aber sprach zu ihm: [J]Was heißest du mich gut? Niemand ist gut denn der einige Gott.[/J]"
         },
         {
           "chapter": 18,
@@ -4214,7 +4640,7 @@
         {
           "chapter": 18,
           "verse": 22,
-          "text": "Da Jesus das hörte, sprach er zu ihm: Es fehlt dir noch eins. Verkaufe alles, was du hast, und gib's den Armen, so wirst du einen Schatz im Himmel haben; und komm, folge mir nach!"
+          "text": "Da Jesus das hörte, sprach er zu ihm: [J]Es fehlt dir noch eins. Verkaufe alles, was du hast, und gib's den Armen, so wirst du einen Schatz im Himmel haben; und komm, folge mir nach![/J]"
         },
         {
           "chapter": 18,
@@ -4224,7 +4650,7 @@
         {
           "chapter": 18,
           "verse": 24,
-          "text": "Da aber Jesus sah, daß er traurig war geworden, sprach er: Wie schwer werden die Reichen in das Reich Gottes kommen!"
+          "text": "Da aber Jesus sah, daß er traurig war geworden, sprach er: [J]Wie schwer werden die Reichen in das Reich Gottes kommen![/J]"
         },
         {
           "chapter": 18,
@@ -4239,7 +4665,7 @@
         {
           "chapter": 18,
           "verse": 27,
-          "text": "Er aber sprach: Was bei den Menschen unmöglich ist, das ist bei Gott möglich."
+          "text": "Er aber sprach: [J]Was bei den Menschen unmöglich ist, das ist bei Gott möglich.[/J]"
         },
         {
           "chapter": 18,
@@ -4249,7 +4675,7 @@
         {
           "chapter": 18,
           "verse": 29,
-          "text": "[J]Er aber sprach zu ihnen: Wahrlich ich sage euch: Es ist niemand, der ein Haus verläßt oder Eltern oder Brüder oder Weib oder Kinder um des Reiches Gottes willen,[/J]"
+          "text": "Er aber sprach zu ihnen: [J]Wahrlich ich sage euch: Es ist niemand, der ein Haus verläßt oder Eltern oder Brüder oder Weib oder Kinder um des Reiches Gottes willen,[/J]"
         },
         {
           "chapter": 18,
@@ -4259,7 +4685,7 @@
         {
           "chapter": 18,
           "verse": 31,
-          "text": "Er nahm aber zu sich die Zwölf und sprach zu ihnen: Sehet, wir gehen hinauf gen Jerusalem, und es wird alles vollendet werden, was geschrieben ist durch die Propheten von des Menschen Sohn."
+          "text": "Er nahm aber zu sich die Zwölf und sprach zu ihnen: [J]Sehet, wir gehen hinauf gen Jerusalem, und es wird alles vollendet werden, was geschrieben ist durch die Propheten von des Menschen Sohn.[/J]"
         },
         {
           "chapter": 18,
@@ -4309,17 +4735,43 @@
         {
           "chapter": 18,
           "verse": 41,
-          "text": "und sprach: Was willst du, daß ich dir tun soll? Er sprach: HERR, daß ich sehen möge."
+          "text": "und sprach: [J]Was willst du, daß ich dir tun soll?[/J] Er sprach: HERR, daß ich sehen möge."
         },
         {
           "chapter": 18,
           "verse": 42,
-          "text": "[J]Und Jesus sprach zu ihm: Sei sehend! dein Glaube hat dir geholfen.[/J]"
+          "text": "Und Jesus sprach zu ihm: [J]Sei sehend! dein Glaube hat dir geholfen.[/J]"
         },
         {
           "chapter": 18,
           "verse": 43,
           "text": "Und alsobald ward er sehend und folgte ihm nach und pries Gott. Und alles Volk, das solches sah, lobte Gott."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 18\nDas Gleichnis vom ungerechten Richter"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Das Gleichnis vom Pharisäer und vom Zöllner"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesus segnet die Kinder"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Der reiche Oberste und das Erbe des ewigen Lebens"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesus sagt zum dritten Mal sein Leiden und seine Auferstehung voraus"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Heilung eines Blinden in Jericho"
         }
       ]
     },
@@ -4351,7 +4803,7 @@
         {
           "chapter": 19,
           "verse": 5,
-          "text": "Und als Jesus kam an die Stätte, sah er auf und ward sein gewahr und sprach zu ihm: Zachäus, steig eilend hernieder; denn ich muß heute in deinem Hause einkehren!"
+          "text": "Und als Jesus kam an die Stätte, sah er auf und ward sein gewahr und sprach zu ihm: [J]Zachäus, steig eilend hernieder; denn ich muß heute in deinem Hause einkehren![/J]"
         },
         {
           "chapter": 19,
@@ -4371,7 +4823,7 @@
         {
           "chapter": 19,
           "verse": 9,
-          "text": "Jesus aber sprach zu ihm: Heute ist diesem Hause Heil widerfahren, sintemal er auch Abrahams Sohn ist."
+          "text": "Jesus aber sprach zu ihm: [J]Heute ist diesem Hause Heil widerfahren, sintemal er auch Abrahams Sohn ist.[/J]"
         },
         {
           "chapter": 19,
@@ -4386,7 +4838,7 @@
         {
           "chapter": 19,
           "verse": 12,
-          "text": "und sprach: Ein Edler zog ferne in ein Land, daß er ein Reich einnähme und dann wiederkäme."
+          "text": "und sprach: [J]Ein Edler zog ferne in ein Land, daß er ein Reich einnähme und dann wiederkäme.[/J]"
         },
         {
           "chapter": 19,
@@ -4476,7 +4928,7 @@
         {
           "chapter": 19,
           "verse": 30,
-          "text": "und sprach: Gehet hin in den Markt, der gegenüberliegt. Und wenn ihr hineinkommt, werdet ihr ein Füllen angebunden finden, auf welchem noch nie ein Mensch gesessen hat; löset es ab und bringet es!"
+          "text": "und sprach: [J]Gehet hin in den Markt, der gegenüberliegt. Und wenn ihr hineinkommt, werdet ihr ein Füllen angebunden finden, auf welchem noch nie ein Mensch gesessen hat; löset es ab und bringet es![/J]"
         },
         {
           "chapter": 19,
@@ -4526,7 +4978,7 @@
         {
           "chapter": 19,
           "verse": 40,
-          "text": "[J]Er antwortete und sprach zu ihnen: Ich sage euch: Wo diese werden schweigen, so werden die Steine schreien.[/J]"
+          "text": "Er antwortete und sprach zu ihnen: [J]Ich sage euch: Wo diese werden schweigen, so werden die Steine schreien.[/J]"
         },
         {
           "chapter": 19,
@@ -4536,7 +4988,7 @@
         {
           "chapter": 19,
           "verse": 42,
-          "text": "und sprach: Wenn doch auch du erkenntest zu dieser deiner Zeit, was zu deinem Frieden dient! Aber nun ist's vor deinen Augen verborgen."
+          "text": "und sprach: [J]Wenn doch auch du erkenntest zu dieser deiner Zeit, was zu deinem Frieden dient! Aber nun ist's vor deinen Augen verborgen.[/J]"
         },
         {
           "chapter": 19,
@@ -4556,7 +5008,7 @@
         {
           "chapter": 19,
           "verse": 46,
-          "text": "und er sprach zu ihnen: Es steht geschrieben: “Mein Haus ist ein Bethaus”; ihr aber habt's gemacht zur Mördergrube."
+          "text": "und er sprach zu ihnen: [J]Es steht geschrieben: “Mein Haus ist ein Bethaus”; ihr aber habt's gemacht zur Mördergrube.[/J]"
         },
         {
           "chapter": 19,
@@ -4567,6 +5019,28 @@
           "chapter": 19,
           "verse": 48,
           "text": "und fanden nicht, wie sie ihm tun sollten, denn das Volk hing ihm an und hörte ihn."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 19\nDer Oberzöllner Zachäus"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Das Gleichnis von den anvertrauten Pfunden"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Der Einzug des Messias Jesus in Jerusalem"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Jesus weint über Jerusalem"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "Die zweite Tempelreinigung"
         }
       ]
     },
@@ -4588,7 +5062,7 @@
         {
           "chapter": 20,
           "verse": 3,
-          "text": "[J]Er aber antwortete und sprach zu ihnen: Ich will euch auch ein Wort fragen; saget mir's:[/J]"
+          "text": "Er aber antwortete und sprach zu ihnen: [J]Ich will euch auch ein Wort fragen; saget mir's:[/J]"
         },
         {
           "chapter": 20,
@@ -4613,12 +5087,12 @@
         {
           "chapter": 20,
           "verse": 8,
-          "text": "Und Jesus sprach zu ihnen: So sage ich euch auch nicht, aus was für Macht ich das tue."
+          "text": "Und Jesus sprach zu ihnen: [J]So sage ich euch auch nicht, aus was für Macht ich das tue.[/J]"
         },
         {
           "chapter": 20,
           "verse": 9,
-          "text": "Er fing aber an, zu sagen dem Volk dies Gleichnis: Ein Mensch pflanzte einen Weinberg und tat ihn den Weingärtnern aus und zog über Land eine gute Zeit."
+          "text": "Er fing aber an, zu sagen dem Volk dies Gleichnis: [J]Ein Mensch pflanzte einen Weinberg und tat ihn den Weingärtnern aus und zog über Land eine gute Zeit.[/J]"
         },
         {
           "chapter": 20,
@@ -4653,12 +5127,12 @@
         {
           "chapter": 20,
           "verse": 16,
-          "text": "Er wird kommen und diese Weingärtner umbringen und seinen Weinberg andern austun. Da sie das hörten, sprachen sie: Das sei ferne!"
+          "text": "[J]Er wird kommen und diese Weingärtner umbringen und seinen Weinberg andern austun.[/J] Da sie das hörten, sprachen sie: Das sei ferne!"
         },
         {
           "chapter": 20,
           "verse": 17,
-          "text": "Er aber sah sie an und sprach: Was ist denn das, was geschrieben steht: “Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden”?"
+          "text": "Er aber sah sie an und sprach: [J]Was ist denn das, was geschrieben steht: “Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden”?[/J]"
         },
         {
           "chapter": 20,
@@ -4688,17 +5162,17 @@
         {
           "chapter": 20,
           "verse": 23,
-          "text": "Er aber merkte ihre List und sprach zu ihnen: Was versuchet ihr mich?"
+          "text": "Er aber merkte ihre List und sprach zu ihnen: [J]Was versuchet ihr mich?[/J]"
         },
         {
           "chapter": 20,
           "verse": 24,
-          "text": "Zeiget mir den Groschen! Wes Bild und Überschrift hat er? Sie antworteten und sprachen: Des Kaisers."
+          "text": "[J]Zeiget mir den Groschen! Wes Bild und Überschrift hat er?[/J] Sie antworteten und sprachen: Des Kaisers."
         },
         {
           "chapter": 20,
           "verse": 25,
-          "text": "Er aber sprach: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist!"
+          "text": "Er aber sprach: [J]So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist![/J]"
         },
         {
           "chapter": 20,
@@ -4743,7 +5217,7 @@
         {
           "chapter": 20,
           "verse": 34,
-          "text": "Und Jesus antwortete und sprach zu ihnen: Die Kinder dieser Welt freien und lassen sich freien;"
+          "text": "Und Jesus antwortete und sprach zu ihnen: [J]Die Kinder dieser Welt freien und lassen sich freien;[/J]"
         },
         {
           "chapter": 20,
@@ -4778,7 +5252,7 @@
         {
           "chapter": 20,
           "verse": 41,
-          "text": "Er sprach aber zu ihnen: Wie sagen sie, Christus sei Davids Sohn?"
+          "text": "Er sprach aber zu ihnen: [J]Wie sagen sie, Christus sei Davids Sohn?[/J]"
         },
         {
           "chapter": 20,
@@ -4810,6 +5284,28 @@
           "verse": 47,
           "text": "[J]sie fressen der Witwen Häuser und wenden lange Gebete vor. Die werden desto schwerere Verdammnis empfangen.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 20\nDie Frage nach der Vollmacht Jesu"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Das Gleichnis von den Weingärtnern"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Die Frage nach der Steuer"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Die Sadduzäer und die Frage nach der Auferstehung"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Wessen Sohn ist der Christus? Warnung vor den Schriftgelehrten"
+        }
       ]
     },
     {
@@ -4830,7 +5326,7 @@
         {
           "chapter": 21,
           "verse": 3,
-          "text": "[J]Und er sprach: Wahrlich ich sage euch: Diese arme Witwe hat mehr denn sie alle eingelegt.[/J]"
+          "text": "Und er sprach: [J]Wahrlich ich sage euch: Diese arme Witwe hat mehr denn sie alle eingelegt.[/J]"
         },
         {
           "chapter": 21,
@@ -4855,7 +5351,7 @@
         {
           "chapter": 21,
           "verse": 8,
-          "text": "Er aber sprach: Sehet zu, lasset euch nicht verführen. Denn viele werden kommen in meinem Namen und sagen, ich sei es, und: “Die Zeit ist herbeigekommen.” Folget ihnen nicht nach!"
+          "text": "Er aber sprach: [J]Sehet zu, lasset euch nicht verführen. Denn viele werden kommen in meinem Namen und sagen, ich sei es, und: “Die Zeit ist herbeigekommen.” Folget ihnen nicht nach![/J]"
         },
         {
           "chapter": 21,
@@ -4865,7 +5361,7 @@
         {
           "chapter": 21,
           "verse": 10,
-          "text": "Da sprach er zu ihnen: Ein Volk wird sich erheben wider das andere und ein Reich wider das andere,"
+          "text": "Da sprach er zu ihnen: [J]Ein Volk wird sich erheben wider das andere und ein Reich wider das andere,[/J]"
         },
         {
           "chapter": 21,
@@ -4960,7 +5456,7 @@
         {
           "chapter": 21,
           "verse": 29,
-          "text": "Und er sagte ihnen ein Gleichnis: Sehet an den Feigenbaum und alle Bäume:"
+          "text": "Und er sagte ihnen ein Gleichnis: [J]Sehet an den Feigenbaum und alle Bäume:[/J]"
         },
         {
           "chapter": 21,
@@ -5007,6 +5503,32 @@
           "verse": 38,
           "text": "Und alles Volk machte sich früh auf zu ihm, im Tempel ihn zu hören."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 21\nDas Scherflein der Witwe"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jesus sagt die Zerstörung des Tempels voraus"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Ankündigung von Verführung und Verfolgung"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Die Ankündigung der Zerstörung Jerusalems"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Das Kommen des Menschensohnes in Kraft und Herrlichkeit"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Ermahnung zur Wachsamkeit"
+        }
       ]
     },
     {
@@ -5052,7 +5574,7 @@
         {
           "chapter": 22,
           "verse": 8,
-          "text": "Und er sandte Petrus und Johannes und sprach: Gehet hin, bereitet uns das Osterlamm, auf daß wir's essen."
+          "text": "Und er sandte Petrus und Johannes und sprach: [J]Gehet hin, bereitet uns das Osterlamm, auf daß wir's essen.[/J]"
         },
         {
           "chapter": 22,
@@ -5062,7 +5584,7 @@
         {
           "chapter": 22,
           "verse": 10,
-          "text": "Er sprach zu ihnen: Siehe, wenn ihr hineinkommt in die Stadt, wird euch ein Mensch begegnen, der trägt einen Wasserkrug; folget ihm nach in das Haus, da er hineingeht,"
+          "text": "Er sprach zu ihnen: [J]Siehe, wenn ihr hineinkommt in die Stadt, wird euch ein Mensch begegnen, der trägt einen Wasserkrug; folget ihm nach in das Haus, da er hineingeht,[/J]"
         },
         {
           "chapter": 22,
@@ -5087,7 +5609,7 @@
         {
           "chapter": 22,
           "verse": 15,
-          "text": "Und er sprach zu ihnen: Mich hat herzlich verlangt, dies Osterlamm mit euch zu essen, ehe denn ich leide."
+          "text": "Und er sprach zu ihnen: [J]Mich hat herzlich verlangt, dies Osterlamm mit euch zu essen, ehe denn ich leide.[/J]"
         },
         {
           "chapter": 22,
@@ -5097,7 +5619,7 @@
         {
           "chapter": 22,
           "verse": 17,
-          "text": "Und er nahm den Kelch, dankte und sprach: Nehmet ihn und teilet ihn unter euch;"
+          "text": "Und er nahm den Kelch, dankte und sprach: [J]Nehmet ihn und teilet ihn unter euch;[/J]"
         },
         {
           "chapter": 22,
@@ -5107,12 +5629,12 @@
         {
           "chapter": 22,
           "verse": 19,
-          "text": "Und er nahm das Brot, dankte und brach's und gab's ihnen und sprach: Das ist mein Leib, der für euch gegeben wird; das tut zu meinem Gedächtnis."
+          "text": "Und er nahm das Brot, dankte und brach's und gab's ihnen und sprach: [J]Das ist mein Leib, der für euch gegeben wird; das tut zu meinem Gedächtnis.[/J]"
         },
         {
           "chapter": 22,
           "verse": 20,
-          "text": "Desgleichen auch den Kelch, nach dem Abendmahl, und sprach: Das ist der Kelch, das neue Testament in meinem Blut, das für euch vergossen wird."
+          "text": "Desgleichen auch den Kelch, nach dem Abendmahl, und sprach: [J]Das ist der Kelch, das neue Testament in meinem Blut, das für euch vergossen wird.[/J]"
         },
         {
           "chapter": 22,
@@ -5137,7 +5659,7 @@
         {
           "chapter": 22,
           "verse": 25,
-          "text": "Er aber sprach zu ihnen: Die weltlichen Könige herrschen, und die Gewaltigen heißt man gnädige Herren."
+          "text": "Er aber sprach zu ihnen: [J]Die weltlichen Könige herrschen, und die Gewaltigen heißt man gnädige Herren.[/J]"
         },
         {
           "chapter": 22,
@@ -5167,7 +5689,7 @@
         {
           "chapter": 22,
           "verse": 31,
-          "text": "[J]Der HERR aber sprach: Simon, Simon, siehe, der Satanas hat euer begehrt, daß er euch möchte sichten wie den Weizen;[/J]"
+          "text": "Der HERR aber sprach: [J]Simon, Simon, siehe, der Satanas hat euer begehrt, daß er euch möchte sichten wie den Weizen;[/J]"
         },
         {
           "chapter": 22,
@@ -5182,17 +5704,17 @@
         {
           "chapter": 22,
           "verse": 34,
-          "text": "Er aber sprach: Petrus, ich sage dir: Der Hahn wird heute nicht krähen, ehe denn du dreimal verleugnet hast, daß du mich kennest."
+          "text": "Er aber sprach: [J]Petrus, ich sage dir: Der Hahn wird heute nicht krähen, ehe denn du dreimal verleugnet hast, daß du mich kennest.[/J]"
         },
         {
           "chapter": 22,
           "verse": 35,
-          "text": "Und er sprach zu ihnen: So oft ich euch ausgesandt habe ohne Beutel, ohne Tasche und ohne Schuhe, habt ihr auch je Mangel gehabt? Sie sprachen: Niemals."
+          "text": "Und er sprach zu ihnen: [J]So oft ich euch ausgesandt habe ohne Beutel, ohne Tasche und ohne Schuhe, habt ihr auch je Mangel gehabt?[/J] Sie sprachen: Niemals."
         },
         {
           "chapter": 22,
           "verse": 36,
-          "text": "[J]Da sprach er zu ihnen: Aber nun, wer einen Beutel hat, der nehme ihn, desgleichen auch die Tasche; wer aber nichts hat, verkaufe sein Kleid und kaufe ein Schwert.[/J]"
+          "text": "Da sprach er zu ihnen: [J]Aber nun, wer einen Beutel hat, der nehme ihn, desgleichen auch die Tasche; wer aber nichts hat, verkaufe sein Kleid und kaufe ein Schwert.[/J]"
         },
         {
           "chapter": 22,
@@ -5202,7 +5724,7 @@
         {
           "chapter": 22,
           "verse": 38,
-          "text": "Sie sprachen aber: HERR, siehe, hier sind zwei Schwerter. Er aber sprach zu ihnen: Es ist genug."
+          "text": "Sie sprachen aber: HERR, siehe, hier sind zwei Schwerter. Er aber sprach zu ihnen: [J]Es ist genug.[/J]"
         },
         {
           "chapter": 22,
@@ -5212,7 +5734,7 @@
         {
           "chapter": 22,
           "verse": 40,
-          "text": "Und als er dahin kam, sprach er zu ihnen: Betet, auf daß ihr nicht in Anfechtung fallet!"
+          "text": "Und als er dahin kam, sprach er zu ihnen: [J]Betet, auf daß ihr nicht in Anfechtung fallet![/J]"
         },
         {
           "chapter": 22,
@@ -5222,7 +5744,7 @@
         {
           "chapter": 22,
           "verse": 42,
-          "text": "[J]und sprach: Vater, willst du, so nehme diesen Kelch von mir, doch nicht mein, sondern dein Wille geschehe![/J]"
+          "text": "und sprach: [J]Vater, willst du, so nehme diesen Kelch von mir, doch nicht mein, sondern dein Wille geschehe![/J]"
         },
         {
           "chapter": 22,
@@ -5242,7 +5764,7 @@
         {
           "chapter": 22,
           "verse": 46,
-          "text": "[J]und sprach zu ihnen: Was schlafet ihr? Stehet auf und betet, auf das ihr nicht in Anfechtung fallet![/J]"
+          "text": "und sprach zu ihnen: [J]Was schlafet ihr? Stehet auf und betet, auf das ihr nicht in Anfechtung fallet![/J]"
         },
         {
           "chapter": 22,
@@ -5252,7 +5774,7 @@
         {
           "chapter": 22,
           "verse": 48,
-          "text": "Jesus aber sprach zu ihm: Judas, verrätst du des Menschen Sohn mit einem Kuß?"
+          "text": "Jesus aber sprach zu ihm: [J]Judas, verrätst du des Menschen Sohn mit einem Kuß?[/J]"
         },
         {
           "chapter": 22,
@@ -5267,12 +5789,12 @@
         {
           "chapter": 22,
           "verse": 51,
-          "text": "Jesus aber antwortete und sprach: Lasset sie doch so machen! Und er rührte sein Ohr an und heilte ihn."
+          "text": "Jesus aber antwortete und sprach: [J]Lasset sie doch so machen![/J] Und er rührte sein Ohr an und heilte ihn."
         },
         {
           "chapter": 22,
           "verse": 52,
-          "text": "Jesus aber sprach zu den Hohenpriestern und Hauptleuten des Tempels und den Ältesten, die über ihn gekommen waren: Ihr seid, wie zu einem Mörder, mit Schwertern und mit Stangen ausgegangen."
+          "text": "Jesus aber sprach zu den Hohenpriestern und Hauptleuten des Tempels und den Ältesten, die über ihn gekommen waren: [J]Ihr seid, wie zu einem Mörder, mit Schwertern und mit Stangen ausgegangen.[/J]"
         },
         {
           "chapter": 22,
@@ -5347,7 +5869,7 @@
         {
           "chapter": 22,
           "verse": 67,
-          "text": "und sprachen: Bist du Christus, sage es uns! Er aber sprach zu ihnen: Sage ich's euch, so glaubt ihr's nicht;"
+          "text": "und sprachen: Bist du Christus, sage es uns! Er aber sprach zu ihnen: [J]Sage ich's euch, so glaubt ihr's nicht;[/J]"
         },
         {
           "chapter": 22,
@@ -5362,12 +5884,54 @@
         {
           "chapter": 22,
           "verse": 70,
-          "text": "Da sprachen sie alle: Bist du denn Gottes Sohn? Er aber sprach zu ihnen: Ihr sagt es, denn ich bin's."
+          "text": "Da sprachen sie alle: Bist du denn Gottes Sohn? Er aber sprach zu ihnen: [J]Ihr sagt es, denn ich bin's.[/J]"
         },
         {
           "chapter": 22,
           "verse": 71,
           "text": "Sie aber sprachen: Was bedürfen wir weiteres Zeugnis? Wir haben's selbst gehört aus seinem Munde."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 22\nDas Leiden und Sterben Jesu Christi\nKapitel 22–23\nDer Plan der Führer Israels und der Verrat des Judas"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Das letzte Passahmahl"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Die Einsetzung des Mahles des Herrn"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Jesus sagt den Verrat voraus"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Vom Herrschen und vom Dienen"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesu Gebet für Petrus. Die Ankündigung der Verleugnung"
+        },
+        {
+          "beforeVerse": 39,
+          "text": "Gethsemane"
+        },
+        {
+          "beforeVerse": 47,
+          "text": "Die Gefangennahme Jesu"
+        },
+        {
+          "beforeVerse": 54,
+          "text": "Die Verleugnung durch Petrus"
+        },
+        {
+          "beforeVerse": 63,
+          "text": "Jesus vor dem Hohen Rat"
         }
       ]
     },
@@ -5389,7 +5953,7 @@
         {
           "chapter": 23,
           "verse": 3,
-          "text": "Pilatus aber fragte ihn und sprach: Bist du der Juden König? Er antwortete und sprach: Du sagst es."
+          "text": "Pilatus aber fragte ihn und sprach: Bist du der Juden König? Er antwortete und sprach: [J]Du sagst es.[/J]"
         },
         {
           "chapter": 23,
@@ -5514,7 +6078,7 @@
         {
           "chapter": 23,
           "verse": 28,
-          "text": "Jesus aber wandte sich um zu ihnen und sprach: Ihr Töchter von Jerusalem, weinet nicht über mich, sondern weinet über euch selbst und über eure Kinder."
+          "text": "Jesus aber wandte sich um zu ihnen und sprach: [J]Ihr Töchter von Jerusalem, weinet nicht über mich, sondern weinet über euch selbst und über eure Kinder.[/J]"
         },
         {
           "chapter": 23,
@@ -5544,7 +6108,7 @@
         {
           "chapter": 23,
           "verse": 34,
-          "text": "Jesus aber sprach: Vater, vergib ihnen sie wissen nicht, was sie tun! Und sie teilten seine Kleider und warfen das Los darum."
+          "text": "Jesus aber sprach: [J]Vater, vergib ihnen sie wissen nicht, was sie tun![/J] Und sie teilten seine Kleider und warfen das Los darum."
         },
         {
           "chapter": 23,
@@ -5589,7 +6153,7 @@
         {
           "chapter": 23,
           "verse": 43,
-          "text": "Und Jesus sprach zu ihm: Wahrlich ich sage dir: Heute wirst du mit mir im Paradiese sein."
+          "text": "Und Jesus sprach zu ihm: [J]Wahrlich ich sage dir: Heute wirst du mit mir im Paradiese sein.[/J]"
         },
         {
           "chapter": 23,
@@ -5604,7 +6168,7 @@
         {
           "chapter": 23,
           "verse": 46,
-          "text": "Und Jesus rief laut und sprach: Vater, ich befehle meinen Geist in deine Hände! Und als er das gesagt, verschied er."
+          "text": "Und Jesus rief laut und sprach: [J]Vater, ich befehle meinen Geist in deine Hände![/J] Und als er das gesagt, verschied er."
         },
         {
           "chapter": 23,
@@ -5655,6 +6219,32 @@
           "chapter": 23,
           "verse": 56,
           "text": "Sie kehrten aber um und bereiteten Spezerei und Salben. Und den Sabbat über waren sie still nach dem Gesetz."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 23\nJesus vor Pilatus und Herodes"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Die Verurteilung Jesu durch die Volksmenge"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Jesus auf dem Weg zur Kreuzigung"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Die Kreuzigung Jesu"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Der Tod Jesu"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "Die Grablegung Jesu"
         }
       ]
     },
@@ -5746,7 +6336,7 @@
         {
           "chapter": 24,
           "verse": 17,
-          "text": "Er sprach aber zu ihnen: Was sind das für Reden, die ihr zwischen euch handelt unterwegs, und seid traurig?"
+          "text": "Er sprach aber zu ihnen: [J]Was sind das für Reden, die ihr zwischen euch handelt unterwegs, und seid traurig?[/J]"
         },
         {
           "chapter": 24,
@@ -5756,7 +6346,7 @@
         {
           "chapter": 24,
           "verse": 19,
-          "text": "Und er sprach zu ihnen: Welches? Sie aber sprachen zu ihm: Das von Jesus von Nazareth, welcher war ein Prophet mächtig von Taten und Worten vor Gott und allem Volk;"
+          "text": "Und er sprach zu ihnen: [J]Welches?[/J] Sie aber sprachen zu ihm: Das von Jesus von Nazareth, welcher war ein Prophet mächtig von Taten und Worten vor Gott und allem Volk;"
         },
         {
           "chapter": 24,
@@ -5786,7 +6376,7 @@
         {
           "chapter": 24,
           "verse": 25,
-          "text": "Und er sprach zu ihnen: O ihr Toren und träges Herzens, zu glauben alle dem, was die Propheten geredet haben!"
+          "text": "Und er sprach zu ihnen: [J]O ihr Toren und träges Herzens, zu glauben alle dem, was die Propheten geredet haben![/J]"
         },
         {
           "chapter": 24,
@@ -5841,7 +6431,7 @@
         {
           "chapter": 24,
           "verse": 36,
-          "text": "Da sie aber davon redeten, trat er selbst, Jesus, mitten unter sie und sprach: Friede sei mit euch!"
+          "text": "Da sie aber davon redeten, trat er selbst, Jesus, mitten unter sie und sprach: [J]Friede sei mit euch![/J]"
         },
         {
           "chapter": 24,
@@ -5851,7 +6441,7 @@
         {
           "chapter": 24,
           "verse": 38,
-          "text": "[J]Und er sprach zu ihnen: Was seid ihr so erschrocken, und warum kommen solche Gedanken in euer Herz?[/J]"
+          "text": "Und er sprach zu ihnen: [J]Was seid ihr so erschrocken, und warum kommen solche Gedanken in euer Herz?[/J]"
         },
         {
           "chapter": 24,
@@ -5866,7 +6456,7 @@
         {
           "chapter": 24,
           "verse": 41,
-          "text": "Da sie aber noch nicht glaubten, vor Freuden und sich verwunderten, sprach er zu ihnen: Habt ihr etwas zu essen?"
+          "text": "Da sie aber noch nicht glaubten, vor Freuden und sich verwunderten, sprach er zu ihnen: [J]Habt ihr etwas zu essen?[/J]"
         },
         {
           "chapter": 24,
@@ -5881,7 +6471,7 @@
         {
           "chapter": 24,
           "verse": 44,
-          "text": "Er sprach aber zu ihnen: Das sind die Reden, die ich zu euch sagte, da ich noch bei euch war; denn es muß alles erfüllet werden, was von mir geschrieben ist im Gesetz Mose's, in den Propheten und in den Psalmen."
+          "text": "Er sprach aber zu ihnen: [J]Das sind die Reden, die ich zu euch sagte, da ich noch bei euch war; denn es muß alles erfüllet werden, was von mir geschrieben ist im Gesetz Mose's, in den Propheten und in den Psalmen.[/J]"
         },
         {
           "chapter": 24,
@@ -5891,7 +6481,7 @@
         {
           "chapter": 24,
           "verse": 46,
-          "text": "und er sprach zu ihnen: Also ist's geschrieben, und also mußte Christus leiden und auferstehen von den Toten am dritten Tage"
+          "text": "und er sprach zu ihnen: [J]Also ist's geschrieben, und also mußte Christus leiden und auferstehen von den Toten am dritten Tage[/J]"
         },
         {
           "chapter": 24,
@@ -5927,6 +6517,28 @@
           "chapter": 24,
           "verse": 53,
           "text": "und waren allewege im Tempel, priesen und lobten Gott."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 24\nDie Auferstehung Jesu Christi"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Die Jünger von Emmaus"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Jesus erscheint den Jüngern"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Der Auftrag zur Verkündigung des Evangeliums"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "Die Himmelfahrt Jesu Christi"
         }
       ]
     }

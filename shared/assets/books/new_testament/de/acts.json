@@ -12,7 +12,7 @@
         "Den ersten Bericht habe ich verfasst, o Theophilus, über alles, was Jesus anfing zu tun und zu lehren, (1:1).",
         "bis zu dem Tag, da er [in den Himmel] aufgenommen wurde, nachdem er den Aposteln, die er erwählt hatte, durch den Heiligen Geist Befehl gegeben hatte. (1:2).",
         "Ihnen erwies er sich auch nach seinem Leiden als lebendig durch viele sichere Kennzeichen, indem er ihnen während 40 Tagen erschien und über das Reich Gottes redete. (1:3).",
-        "[J]Und als er mit ihnen zusammen war, gebot er ihnen, nicht von Jerusalem zu weichen, sondern die Verheißung des Vaters abzuwarten, die ihr [— so sprach er —] von mir vernommen habt,[/J] (1:4).",
+        "[J]Und als er mit ihnen zusammen war, gebot er ihnen, nicht von Jerusalem zu weichen, sondern die Verheißung des Vaters abzuwarten, die ihr [— so sprach er —] von mir vernommen habt,[/J] (1:4).",
         "[J]denn Johannes hat mit Wasser getauft, ihr aber sollt mit Heiligem Geist getauft werden nicht lange nach diesen Tagen.[/J] (1:5).",
         "Da fragten ihn die, welche zusammengekommen waren, und sprachen: Herr, stellst du in dieser Zeit für Israel die Königsherrschaft wieder her? (1:6).",
         "[J]Er aber sprach zu ihnen: Es ist nicht eure Sache, die Zeiten oder Zeitpunkte zu kennen, die der Vater in seiner eigenen Vollmacht festgesetzt hat;[/J] (1:7).",
@@ -87,15 +87,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Ankündigung und das Kommen des Heiligen Geistes"
+          "text": "Kapitel 1\nEinleitung"
         },
         {
-          "beforeVerse": 6,
-          "text": "Jesus kehrt zu Gott zurück"
+          "beforeVerse": 4,
+          "text": "Die Ankündigung des verheißenen Heiligen Geistes"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Die Himmelfahrt Jesu Christi"
         },
         {
           "beforeVerse": 12,
-          "text": "Matthias wird zum Apostel gewählt"
+          "text": "Die Apostel in Jerusalem"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Matthias wird durchs Los als zwölfter Apostel bestimmt"
         }
       ]
     },
@@ -190,15 +198,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Pfingsten: Der Heilige Geist kommt"
+          "text": "Kapitel 2\nDie Ausgießung des Heiligen Geistes"
         },
         {
           "beforeVerse": 14,
-          "text": "Petrus verkündet: Jesus ist der von Gott versprochene König"
+          "text": "Die Rede des Apostels Petrus"
         },
         {
-          "beforeVerse": 42,
-          "text": "Die erste Gemeinde"
+          "beforeVerse": 37,
+          "text": "Die Entstehung der Gemeinde"
         }
       ]
     },
@@ -272,11 +280,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die erste Gemeinde in Jerusalem und die beginnende Verfolgung Gottes Wunder an einem Gelähmten"
+          "text": "Kapitel 3\nDie Heilung eines Gelähmten"
         },
         {
           "beforeVerse": 12,
-          "text": "Petrus predigt im Tempel"
+          "text": "Petrus verkündigt dem Volk Jesus als den Messias"
         }
       ]
     },
@@ -371,15 +379,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Petrus und Johannes werden verhört"
+          "text": "Kapitel 4\nPetrus und Johannes vor dem Hohen Rat"
         },
         {
           "beforeVerse": 23,
-          "text": "Die Apostel berichten der Gemeinde"
+          "text": "Das Gebet der Gemeinde"
         },
         {
           "beforeVerse": 32,
-          "text": "Die Gemeinde wächst"
+          "text": "Gemeinschaft und Freigebigkeit der Gläubigen"
         }
       ]
     },
@@ -484,19 +492,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Hananias und Saphira betrügen Gott"
+          "text": "Kapitel 5\nDer Betrug von Ananias und Saphira"
         },
         {
           "beforeVerse": 12,
-          "text": "Gott bekennt sich zu seiner Gemeinde"
+          "text": "Zeichen und Wunder geschehen durch die Apostel"
         },
         {
           "beforeVerse": 17,
-          "text": "Erneute Verfolgung der Apostel"
+          "text": "Die Festnahme der Apostel und ihre wunderbare Befreiung"
         },
         {
-          "beforeVerse": 34,
-          "text": "Gamaliels weiser Rat"
+          "beforeVerse": 26,
+          "text": "Erneutes Zeugnis vor dem Hohen Rat"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "Gamaliels Rat"
         }
       ]
     },
@@ -559,11 +571,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Wahl der sieben Diakone"
+          "text": "Kapitel 6\nDie Einsetzung der Diakone"
         },
         {
           "beforeVerse": 8,
-          "text": "Stephanus vor Gericht"
+          "text": "Die falsche Anklage gegen Stephanus"
         }
       ]
     },
@@ -623,10 +635,10 @@
         "Salomo aber erbaute ihm ein Haus. (7:47).",
         "Doch der Höchste wohnt nicht in Tempeln, die von Händen gemacht sind, wie der Prophet spricht: (7:48).",
         "»Der Himmel ist mein Thronund die Erde der Schemel für meine Füße. Was für ein Haus wollt ihr mir bauen, spricht der Herr, oder wo ist der Ort, an dem ich ruhen soll? (7:49).",
-        "Hat nicht meine Handdas alles gemacht?« — (7:50).",
+        "Hat nicht meine Handdas alles gemacht?« —      (7:50).",
         "Ihr Halsstarrigen und Unbeschnittenen an Herz und Ohren! Ihr widerstrebt allezeit dem Heiligen Geist; wie eure Väter, so auch ihr! (7:51).",
         "Welchen Propheten haben eure Väter nicht verfolgt? Und sie haben die getötet, die vorher das Kommen des Gerechten ankündigten, dessen Verräter und Mörder ihr nun geworden seid (7:52).",
-        "— ihr, die ihr das Gesetz auf Anordnung von Engeln empfangen und es nicht gehalten habt! (7:53).",
+        "— ihr, die ihr das Gesetz auf Anordnung von Engeln empfangen und es nicht gehalten habt! (7:53).",
         "Als sie aber das hörten, schnitt es ihnen ins Herz, und sie knirschten mit den Zähnen über ihn. (7:54).",
         "Er aber, voll Heiligen Geistes, blickte zum Himmel empor und sah die Herrlichkeit Gottes, und Jesus zur Rechten Gottes stehen; (7:55).",
         "und er sprach: Siehe, ich sehe den Himmel offen und den Sohn des Menschen zur Rechten Gottes stehen! (7:56).",
@@ -676,11 +688,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Verteidigungsrede von Stephanus"
+          "text": "Kapitel 7\nDas Zeugnis des Stephanus vor dem Hohen Rat"
         },
         {
           "beforeVerse": 54,
-          "text": "Der Märtyrertod von Stephanus"
+          "text": "Die Steinigung des Stephanus"
         }
       ]
     },
@@ -758,19 +770,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Gemeinde in Jerusalem wird verfolgt"
+          "text": "Kapitel 8\nVerfolgung in Jerusalem. Zerstreuung der Jünger"
         },
         {
-          "beforeVerse": 4,
-          "text": "Die Verbreitung der rettenden Botschaft über Jerusalem hinaus Die rettende Botschaft in Samarien"
+          "beforeVerse": 5,
+          "text": "Philippus in Samaria. Simon der Zauberer"
         },
         {
-          "beforeVerse": 9,
-          "text": "Gottes Geschenk lässt sich nicht kaufen"
+          "beforeVerse": 14,
+          "text": "Petrus und Johannes in Samaria"
         },
         {
           "beforeVerse": 26,
-          "text": "Philippus und der äthiopische Hofbeamte"
+          "text": "Philippus verkündigt dem Kämmerer aus Äthiopien das Evangelium"
         }
       ]
     },
@@ -856,19 +868,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Saulus wird von Jesus zum Apostel berufen Saulus begegnet Christus"
+          "text": "Kapitel 9\nDie Bekehrung des Saulus"
         },
         {
-          "beforeVerse": 20,
-          "text": "Aus dem Verfolger wird ein Verfolgter"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "Saulus bei der Gemeinde in Jerusalem"
+          "beforeVerse": 19,
+          "text": "Saulus in Damaskus und Jerusalem"
         },
         {
           "beforeVerse": 32,
-          "text": "Petrus in Lydda und Joppe"
+          "text": "Petrus in Lydda"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Die Auferweckung der Tabitha"
         }
       ]
     },
@@ -914,7 +926,7 @@
         "Da sandte ich auf der Stelle zu dir, und du hast wohl daran getan zu kommen. So sind wir nun alle gegenwärtig vor dem Angesicht Gottes, um alles zu hören, was dir von Gott aufgetragen ist! (10:33).",
         "Da tat Petrus den Mund auf und sprach: Nun erfahre ich in Wahrheit, dass Gott die Person nicht ansieht, (10:34).",
         "sondern dass in jedem Volk derjenige ihm angenehm ist, der ihn fürchtet und Gerechtigkeit übt! (10:35).",
-        "Das Wort, das er den Kindern Israels gesandt hat, indem er Frieden verkünden ließ durch Jesus Christus — welcher Herr über alle ist —, (10:36).",
+        "Das Wort, das er den Kindern Israels gesandt hat, indem er Frieden verkünden ließ durch Jesus Christus — welcher Herr über alle ist —, (10:36).",
         "ihr kennt es; das Zeugnis, das sich durch ganz Judäa verbreitet hat und in Galiläa anfing nach der Taufe, die Johannes verkündigte: (10:37).",
         "wie Gott Jesus von Nazareth mit Heiligem Geist und Kraft gesalbt hat, und wie dieser umherzog und Gutes tat und alle heilte, die vom Teufel überwältigt waren; denn Gott war mit ihm. (10:38).",
         "Und wir sind Zeugen alles dessen, was er im Land der Juden und in Jerusalem getan hat. Ihn haben sie getötet, indem sie ihn ans Holz hängten. (10:39).",
@@ -974,19 +986,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die rettende Botschaft erreicht auch die nichtjüdischen Völker Der römische Hauptmann Kornelius"
+          "text": "Kapitel 10\nDas Heil für die Heiden – Gott wirkt an Kornelius"
         },
         {
           "beforeVerse": 9,
-          "text": "Petrus hat eine Vision"
+          "text": "Das Heil für die Heiden – Gott redet zu Petrus"
         },
         {
-          "beforeVerse": 34,
-          "text": "Gott liebt jeden Menschen"
-        },
-        {
-          "beforeVerse": 44,
-          "text": "Menschen aus anderen Völkern werden in die Gemeinde aufgenommen"
+          "beforeVerse": 24,
+          "text": "Die Bekehrung des Kornelius"
         }
       ]
     },
@@ -1054,11 +1062,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Petrus rechtfertigt die Taufe von Nichtjuden"
+          "text": "Kapitel 11\nPetrus rechtfertigt sein Verhalten vor jüdischen Gläubigen"
         },
         {
           "beforeVerse": 19,
-          "text": "Gründung der Gemeinde in Antiochia"
+          "text": "Antiochia, die erste Gemeinde aus Juden und Heiden. Barnabas und Saulus"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Hilfeleistung für die Gläubigen in Judäa"
         }
       ]
     },
@@ -1126,15 +1138,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Verhaftung von Petrus und seine Befreiung"
+          "text": "Kapitel 12\nGefangenschaft und Befreiung des Petrus"
         },
         {
           "beforeVerse": 20,
-          "text": "Das Ende von Herodes"
+          "text": "Das Gericht Gottes über Herodes Agrippa"
         },
         {
-          "beforeVerse": 25,
-          "text": "Saulus und Barnabas werden als Missionare ausgesandt"
+          "beforeVerse": 24,
+          "text": "Die erste Missionsreise: Aussendung von Barnabas und Saulus"
         }
       ]
     },
@@ -1233,16 +1245,20 @@
       "keyTakeaway": "Vom Heiligen Geist ausgesondert, verkündigen Barnabas und Saulus das Wort durch Zypern, wo der Zauberer Elymas mit Blindheit geschlagen wird und der Statthalter Sergius Paulus gläubig wird; im pisidischen Antiochia verkündigt Paulus Jesus, den Gott auferweckte, ohne dass er die Verwesung sah, durch den Vergebung und Rechtfertigung kommen, und als die Botschaft verworfen wird, wenden er und Barnabas sich zu den Heiden, die sich freuen, während sich das Wort des Herrn ausbreitet.",
       "headings": [
         {
+          "beforeVerse": 1,
+          "text": "Kapitel 13"
+        },
+        {
           "beforeVerse": 4,
-          "text": "Auf Zypern: Erster Widerstand – erster Erfolg"
+          "text": "Barnabas und Saulus verkündigen das Evangelium auf Zypern"
         },
         {
-          "beforeVerse": 13,
-          "text": "Missionsarbeit in der Stadt Antiochia in Pisidien"
+          "beforeVerse": 14,
+          "text": "Die Verkündigung des Paulus vor den Juden von Antiochia in Pisidien"
         },
         {
-          "beforeVerse": 44,
-          "text": "Konflikt mit den Juden"
+          "beforeVerse": 42,
+          "text": "Die Juden widerstehen dem Evangelium – die Heiden nehmen es an"
         }
       ]
     },
@@ -1313,15 +1329,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Reise nach Ikonion"
+          "text": "Kapitel 14\nSegen und Kämpfe in Ikonium"
         },
         {
           "beforeVerse": 8,
-          "text": "Heilung eines Gelähmten in Lystra"
+          "text": "Die Heilung eines Lahmen in Lystra"
         },
         {
-          "beforeVerse": 21,
-          "text": "Paulus und Barnabas kehren nach Antiochia in Syrien zurück"
+          "beforeVerse": 19,
+          "text": "Paulus wird in Lystra gesteinigt. Rückreise nach Antiochia"
         }
       ]
     },
@@ -1419,20 +1435,16 @@
       ],
       "headings": [
         {
-          "beforeVerse": 6,
-          "text": "»Gott hat längst entschieden«"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "Der Vorschlag von Jakobus"
+          "beforeVerse": 1,
+          "text": "Kapitel 15\nDie Beratung in Jerusalem über das Verhältnis zu den Heidenchristen"
         },
         {
           "beforeVerse": 22,
-          "text": "Judas und Silas in Antiochia"
+          "text": "Das Schreiben an die Gemeinden"
         },
         {
           "beforeVerse": 36,
-          "text": "Aufbruch zur zweiten Missionsreise"
+          "text": "Trennung von Paulus und Barnabas. Aufbruch von Paulus zur zweiten Missionsreise"
         }
       ]
     },
@@ -1515,19 +1527,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Gründung der ersten Gemeinden in Europa Paulus gewinnt Timotheus als Mitarbeiter"
+          "text": "Kapitel 16\nPaulus nimmt Timotheus mit sich"
         },
         {
           "beforeVerse": 6,
-          "text": "Der Heilige Geist weist Paulus den Weg nach Europa"
+          "text": "Der göttliche Ruf nach Mazedonien"
         },
         {
           "beforeVerse": 11,
-          "text": "In Philippi entsteht die erste Gemeinde in Europa"
+          "text": "Paulus in Philippi. Lydia, die Purpurhändlerin"
         },
         {
-          "beforeVerse": 27,
-          "text": "Ein Gefängnisaufseher kommt zum Glauben"
+          "beforeVerse": 16,
+          "text": "Die Magd mit dem Wahrsagegeist"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Paulus und Silas im Gefängnis. Die Bekehrung des Kerkermeisters"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Die Freilassung von Paulus und Silas"
         }
       ]
     },
@@ -1599,15 +1619,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Paulus und Silas in Thessalonich"
+          "text": "Kapitel 17\nPaulus und Silas in Thessalonich"
         },
         {
           "beforeVerse": 10,
-          "text": "Neue Schwierigkeiten in Beröa"
+          "text": "Die Aufnahme des Evangeliums in Beröa"
         },
         {
           "beforeVerse": 16,
           "text": "Paulus in Athen"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Die Verkündigung des Paulus auf dem Areopag"
         }
       ]
     },
@@ -1679,15 +1703,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ein vielversprechender Anfang in Korinth"
+          "text": "Kapitel 18\nPaulus in Korinth"
         },
         {
           "beforeVerse": 18,
-          "text": "Rückkehr nach Antiochia und Aufbruch zur dritten Missionsreise"
+          "text": "Die Rückreise nach Antiochia"
         },
         {
-          "beforeVerse": 24,
-          "text": "Apollos in Ephesus und Korinth"
+          "beforeVerse": 23,
+          "text": "Die dritte Missionsreise. Apollos in Ephesus"
         }
       ]
     },
@@ -1776,19 +1800,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Paulus in Ephesus"
+          "text": "Kapitel 19\nPaulus in Ephesus. Die Jünger des Johannes"
         },
         {
-          "beforeVerse": 13,
-          "text": "Geisterbeschwörer missbrauchen den Namen Jesus"
-        },
-        {
-          "beforeVerse": 21,
-          "text": "Paulus trifft Vorbereitungen für seine Weiterreise"
+          "beforeVerse": 8,
+          "text": "Die Verkündigung des Evangeliums und begleitende Zeichen und Wunder"
         },
         {
           "beforeVerse": 23,
-          "text": "Aufruhr der Silberschmiede von Ephesus"
+          "text": "Der Aufruhr in Ephesus"
         }
       ]
     },
@@ -1864,19 +1884,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Paulus verlässt Ephesus und reist nach Griechenland"
+          "text": "Kapitel 20\nPaulus in Mazedonien und Griechenland"
         },
         {
-          "beforeVerse": 7,
-          "text": "Besuch in Troas"
+          "beforeVerse": 6,
+          "text": "In Troas. Die Auferweckung des Eutychus"
         },
         {
           "beforeVerse": 13,
-          "text": "Reise nach Milet"
+          "text": "Weiterreise nach Milet"
         },
         {
           "beforeVerse": 17,
-          "text": "Abschied von den Christen aus Ephesus"
+          "text": "Die Abschiedsrede des Paulus an die Ältesten von Ephesus"
         }
       ]
     },
@@ -1954,15 +1974,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Paulus wird in Jerusalem gefangen genommen Paulus reist nach Jerusalem"
+          "text": "Kapitel 21\nWeiterreise nach Tyrus"
         },
         {
-          "beforeVerse": 15,
-          "text": "Paulus soll seine Gesetzestreue beweisen"
+          "beforeVerse": 7,
+          "text": "Paulus in Ptolemais und Cäsarea"
         },
         {
-          "beforeVerse": 26,
-          "text": "Paulus wird in Jerusalem verhaftet"
+          "beforeVerse": 17,
+          "text": "Paulus in Jerusalem"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Paulus wird im Tempel gefangen genommen"
         }
       ]
     },
@@ -2045,15 +2069,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Paulus verteidigt sich vor den Juden"
+          "text": "Kapitel 22\nDie Rede des Paulus an das jüdische Volk"
         },
         {
-          "beforeVerse": 22,
-          "text": "Paulus beruft sich auf sein römisches Bürgerrecht"
-        },
-        {
-          "beforeVerse": 30,
-          "text": "Paulus vor dem Hohen Rat"
+          "beforeVerse": 23,
+          "text": "Paulus vor dem römischen Befehlshaber"
         }
       ]
     },
@@ -2155,12 +2175,16 @@
       "keyTakeaway": "Die Verhandlung des Paulus vor dem Hohen Rat entzweit Pharisäer und Sadduzäer; ein Anschlag auf sein Leben wird aufgedeckt; unter nächtlicher Bedeckung wird er mit einem Brief an den Statthalter Felix nach Cäsarea gebracht.",
       "headings": [
         {
+          "beforeVerse": 1,
+          "text": "Kapitel 23\nPaulus vor dem Hohen Rat"
+        },
+        {
           "beforeVerse": 12,
-          "text": "Mordpläne gegen Paulus"
+          "text": "Der geplante Mordanschlag der Juden"
         },
         {
           "beforeVerse": 23,
-          "text": "Paulus vor Gericht in Cäsarea Paulus wird nach Cäsarea gebracht"
+          "text": "Paulus wird nach Cäsarea gebracht"
         }
       ]
     },
@@ -2240,15 +2264,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Anklage gegen Paulus"
+          "text": "Kapitel 24\nPaulus wird vor dem Statthalter Felix angeklagt"
         },
         {
           "beforeVerse": 10,
-          "text": "Paulus verteidigt sich vor Felix"
+          "text": "Die Verteidigungsrede des Paulus"
         },
         {
           "beforeVerse": 24,
-          "text": "Felix will sich nicht entscheiden"
+          "text": "Das Gespräch des Apostels mit Felix und Drusilla. Haft in Cäsarea"
         }
       ]
     },
@@ -2323,11 +2347,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Verhandlung vor Festus"
+          "text": "Kapitel 25\nPaulus vor Festus"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Paulus beruft sich auf den Kaiser"
         },
         {
           "beforeVerse": 13,
-          "text": "Paulus muss sich vor König Agrippa verantworten"
+          "text": "Statthalter Festus und König Agrippa besprechen sich"
         }
       ]
     },
@@ -2402,7 +2430,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Verteidigungsrede von Paulus"
+          "text": "Kapitel 26\nPaulus verantwortet sich vor dem König Agrippa"
         }
       ]
     },
@@ -2499,15 +2527,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Paulus wird nach Rom überführt Auf dem Weg nach Rom"
+          "text": "Kapitel 27\nDie Überfahrt des Apostels nach Italien"
         },
         {
-          "beforeVerse": 13,
-          "text": "Eine gefährliche Überfahrt"
+          "beforeVerse": 14,
+          "text": "Der Sturm"
         },
         {
           "beforeVerse": 39,
-          "text": "Rettung in letzter Minute"
+          "text": "Schiffbruch und Rettung"
         }
       ]
     },
@@ -2597,15 +2625,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Auf der Insel Malta"
+          "text": "Kapitel 28\nDrei Monate Aufenthalt auf Melite"
         },
         {
           "beforeVerse": 11,
-          "text": "Ankunft in Rom"
+          "text": "Paulus kommt nach Rom und wird dort gefangen gehalten"
         },
         {
-          "beforeVerse": 16,
-          "text": "Paulus in Rom"
+          "beforeVerse": 17,
+          "text": "Das Zeugnis an die Juden in Rom"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Paulus als Zeuge Jesu Christi in Rom"
         }
       ]
     }

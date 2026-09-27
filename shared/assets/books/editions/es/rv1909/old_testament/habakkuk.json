@@ -97,6 +97,20 @@
           "verse": 17,
           "text": "¿Vaciará por eso su red, ó tendrá piedad de matar gentes continuamente?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "La primera queja de Habacuc"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "La respuesta del\nSeñor"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La segunda queja de Habacuc"
+        }
       ]
     },
     {
@@ -204,6 +218,12 @@
           "verse": 20,
           "text": "Mas Jehová [ADD]está[/ADD] en su santo templo: calle delante de él toda la tierra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "La respuesta del\nSeñor"
+        }
       ]
     },
     {
@@ -305,6 +325,12 @@
           "chapter": 3,
           "verse": 19,
           "text": "Jehová el Señor es mi fortaleza, el cual pondrá mis pies como de ciervas, y me hará andar sobre mis alturas. Al jefe de los cantores sobre mis instrumentos de cuerdas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La oración de Habacuc"
         }
       ]
     }

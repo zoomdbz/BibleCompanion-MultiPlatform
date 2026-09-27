@@ -50,7 +50,7 @@
         {
           "chapter": 1,
           "verse": 8,
-          "text": "Yo soy el Alpha y la Omega, principio y fin, dice el Señor, que es y que era y que ha de venir, el Todopoderoso."
+          "text": "[J]Yo soy el Alpha y la Omega, principio y fin,[/J] dice el Señor, que es y que era y que ha de venir, el Todopoderoso."
         },
         {
           "chapter": 1,
@@ -65,7 +65,7 @@
         {
           "chapter": 1,
           "verse": 11,
-          "text": "Que decía: Yo soy el Alpha y Omega, el primero y el último. Escribe en un libro lo que ves, y envía[ADD]lo[/ADD] á las siete iglesias que están en Asia; á Efeso, y á Smirna, y á Pérgamo, y á Tiatira, y á Sardis, y á Filadelfia, y á Laodicea."
+          "text": "Que decía: [J]Yo soy el Alpha y Omega, el primero y el último. Escribe en un libro lo que ves, y envía[/J][ADD][J]lo[/J][/ADD][J] á las siete iglesias que están en Asia; á Efeso, y á Smirna, y á Pérgamo, y á Tiatira, y á Sardis, y á Filadelfia, y á Laodicea.[/J]"
         },
         {
           "chapter": 1,
@@ -95,7 +95,7 @@
         {
           "chapter": 1,
           "verse": 17,
-          "text": "Y cuando yo le vi, caí como muerto á sus pies. Y él puso su diestra sobre mí, diciéndome: No temas: yo soy el primero y el último;"
+          "text": "Y cuando yo le vi, caí como muerto á sus pies. Y él puso su diestra sobre mí, diciéndome: [J]No temas: yo soy el primero y el último;[/J]"
         },
         {
           "chapter": 1,
@@ -111,6 +111,20 @@
           "chapter": 1,
           "verse": 20,
           "text": "[J]El misterio de las siete estrellas que has visto en mi diestra, y los siete candeleros de oro. Las siete estrellas son los ángeles de las siete iglesias; y los siete candeleros que has visto, son las siete iglesias.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prólogo"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Saludos y doxología"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Alguien semejante al Hijo del hombre"
         }
       ]
     },
@@ -264,6 +278,24 @@
           "verse": 29,
           "text": "[J]El que tiene oído, oiga lo que el Espíritu dice á las iglesias.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A la iglesia de Éfeso"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A la iglesia de Esmirna"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A la iglesia de Pérgamo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "A la iglesia de Tiatira"
+        }
       ]
     },
     {
@@ -381,6 +413,20 @@
           "verse": 22,
           "text": "[J]El que tiene oído, oiga lo que el Espíritu dice á las iglesias.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A la iglesia de Sardis"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A la iglesia de Filadelfia"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A la iglesia de Laodicea"
+        }
       ]
     },
     {
@@ -442,6 +488,12 @@
           "chapter": 4,
           "verse": 11,
           "text": "Señor, digno eres de recibir gloria y honra y virtud: porque tú criaste todas las cosas, y por tu voluntad tienen ser y fueron criadas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El trono en el cielo"
         }
       ]
     },
@@ -519,6 +571,12 @@
           "chapter": 5,
           "verse": 14,
           "text": "Y los cuatro animales decían: Amén. Y los veinticuatro ancianos cayeron sobre sus rostros, y adoraron al que vive para siempre jamás."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El rollo escrito y el Cordero"
         }
       ]
     },
@@ -612,6 +670,12 @@
           "verse": 17,
           "text": "Porque el gran día de su ira es venido; ¿y quién podrá estar firme?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los sellos"
+        }
       ]
     },
     {
@@ -704,6 +768,16 @@
           "verse": 17,
           "text": "Porque el Cordero que está en medio del trono los pastoreará, y los guiará á fuentes vivas de aguas: y Dios limpiará toda lágrima de los ojos de ellos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los 144,000 sellados"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La gran multitud con túnicas blancas"
+        }
       ]
     },
     {
@@ -775,6 +849,16 @@
           "chapter": 8,
           "verse": 13,
           "text": "Y miré, y oí un ángel volar por medio del cielo, diciendo en alta voz: ¡Ay! ¡ay! ¡ay! de los que moran en la tierra, por razón de las otras voces de trompeta de los tres ángeles que han de tocar!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El séptimo sello y el incensario de oro"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Las trompetas"
         }
       ]
     },
@@ -888,7 +972,8 @@
           "verse": 21,
           "text": "Y no se arrepintieron de sus homicidios, ni de sus hechicerías, ni de su fornicación, ni de sus hurtos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 10,
@@ -949,6 +1034,12 @@
           "chapter": 10,
           "verse": 11,
           "text": "Y él me dice: Necesario es que otra vez profetices á muchos pueblos y gentes y lenguas y reyes."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El ángel y el rollo pequeño"
         }
       ]
     },
@@ -1052,6 +1143,16 @@
           "verse": 19,
           "text": "Y el templo de Dios fué abierto en el cielo, y el arca de su testamento fué vista en su templo. Y fueron hechos relámpagos y voces y truenos y terremotos y grande granizo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los dos testigos"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La séptima trompeta"
+        }
       ]
     },
     {
@@ -1143,6 +1244,12 @@
           "chapter": 12,
           "verse": 17,
           "text": "Entonces el dragón fué airado contra la mujer; y se fué á hacer guerra contra los otros de la simiente de ella, los cuales guardan los mandamientos de Dios, y tienen el testimonio de Jesucristo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La mujer y el dragón"
         }
       ]
     },
@@ -1240,6 +1347,16 @@
           "chapter": 13,
           "verse": 18,
           "text": "Aquí hay sabiduría. El que tiene entendimiento, cuente el número de la bestia; porque es el número de hombre: y el número de ella, seiscientos sesenta y seis."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "La bestia que surge del mar"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La bestia que sube de la tierra"
         }
       ]
     },
@@ -1348,6 +1465,20 @@
           "verse": 20,
           "text": "Y el lagar fué hollado fuera de la ciudad, y del lagar salió sangre hasta los frenos de los caballos por mil y seiscientos estadios."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El Cordero y los 144,000"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Los tres ángeles"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La cosecha de la tierra"
+        }
       ]
     },
     {
@@ -1394,6 +1525,12 @@
           "chapter": 15,
           "verse": 8,
           "text": "Y fué el templo lleno de humo por la majestad de Dios, y por su potencia; y ninguno podía entrar en el templo, hasta que fuesen consumadas las siete plagas de los siete ángeles."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los siete ángeles con las siete plagas finales"
         }
       ]
     },
@@ -1475,7 +1612,7 @@
         {
           "chapter": 16,
           "verse": 15,
-          "text": "[J]He aquí, yo vengo como ladrón. Bienaventurado el que vela, y guarda sus vestiduras, para que no ande desnudo, y vean su vergüenza.[/J]"
+          "text": "He aquí, yo vengo como ladrón. Bienaventurado el que vela, y guarda sus vestiduras, para que no ande desnudo, y vean su vergüenza."
         },
         {
           "chapter": 16,
@@ -1506,6 +1643,12 @@
           "chapter": 16,
           "verse": 21,
           "text": "Y cayó del cielo sobre los hombres un grande granizo como del peso de un talento: y los hombres blasfemaron de Dios por la plaga del granizo; porque su plaga fué muy grande."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Las siete copas de la ira de Dios"
         }
       ]
     },
@@ -1603,6 +1746,12 @@
           "chapter": 17,
           "verse": 18,
           "text": "Y la mujer que has visto, es la grande ciudad que tiene reino sobre los reyes de la tierra."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La mujer montada en la bestia"
         }
       ]
     },
@@ -1731,6 +1880,12 @@
           "verse": 24,
           "text": "Y en ella fué hallada la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La caída de Babilonia"
+        }
       ]
     },
     {
@@ -1843,6 +1998,16 @@
           "verse": 21,
           "text": "Y los otros fueron muertos con la espada que salía de la boca del que estaba sentado sobre el caballo, y todas las aves fueron hartas de las carnes de ellos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "¡Aleluya!"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "El jinete del caballo blanco"
+        }
       ]
     },
     {
@@ -1924,6 +2089,20 @@
           "chapter": 20,
           "verse": 15,
           "text": "Y el que no fué hallado escrito en el libro de la vida, fué lanzado en el lago de fuego."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los mil años"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "El juicio final de Satanás"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "El juicio de los muertos"
         }
       ]
     },
@@ -2067,6 +2246,12 @@
           "verse": 27,
           "text": "No entrará en ella ninguna cosa sucia, ó que hace abominación y mentira; sino solamente los que están escritos en el libro de la vida del Cordero."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La nueva Jerusalén"
+        }
       ]
     },
     {
@@ -2172,12 +2357,22 @@
         {
           "chapter": 22,
           "verse": 20,
-          "text": "El que da testimonio de estas cosas, dice: Ciertamente, vengo en breve. Amén, sea así. Ven, Señor Jesús."
+          "text": "El que da testimonio de estas cosas, dice: [J]Ciertamente, vengo en breve.[/J] Amén, sea así. Ven, Señor Jesús."
         },
         {
           "chapter": 22,
           "verse": 21,
           "text": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El río de vida"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Cristo viene pronto"
         }
       ]
     }

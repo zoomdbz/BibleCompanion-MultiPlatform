@@ -77,6 +77,24 @@
           "verse": 13,
           "text": "Les enfants de ta sœur l’élue te saluent."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Le commandement reçu du Père"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "L'enseignement du Christ"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "En attendant le revoir"
+        }
       ]
     }
   ]

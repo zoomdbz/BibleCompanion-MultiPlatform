@@ -17,9 +17,9 @@ data class ManuscriptVariant(
 
 @Serializable
 data class Heading(
-  // The bullet whose trailing verse marker matches this number will be preceded
-  // by the heading text in the renderer. Bullet count is unaffected; only the
-  // visual insertion changes.
+  // Native verse-unit start in the active edition. Every edition supplies its
+  // own explicit lookup table; the renderer never infers placement from list
+  // order or borrows another edition's verse coordinates.
   val beforeVerse: Int,
   val text: String
 )
@@ -80,6 +80,7 @@ data class PrefsState(
   val lastReadStoryId: String? = null,
   // Null marks a pre-native-numbering canonical story ID.
   val lastReadSourceLanguage: String? = null,
+  val lastReadSourceEdition: String? = null,
   val onboardingComplete: Boolean = false,
   val studyPinned: Boolean = false,
   val themePreset: String = "parchment",
@@ -100,6 +101,9 @@ data class PrefsState(
   val notesExpandedSectionsJson: String = "{}",
   // Local date ("YYYY-MM-DD") on which VOTD was dismissed; empty = not dismissed
   val votdDismissedDate: String = "",
+  // Device-local opt-in; notification permission is requested only from Settings.
+  val dailyVerseNotifications: Boolean = false,
+  val dailyVerseNotificationMinuteOfDay: Int = 9 * 60,
   // Screenshot-mode hint: when true, settings opens with the language picker pre-expanded.
   val screenshotExpandLanguage: Boolean = false,
   val aiSearch: Boolean = true
@@ -159,7 +163,11 @@ data class SavedVerse(
 
 internal fun SavedVerse.sameScriptureLocation(other: SavedVerse): Boolean {
   if (collection != other.collection || bookId != other.bookId) return false
-  if ((sourceLanguage ?: "en") != (other.sourceLanguage ?: "en")) return false
+  if (scriptureLanguage() != other.scriptureLanguage()) return false
+  // Equal numbers in different editions need not identify the same passage.
+  // Keep their saved text, highlights and labels independent until an audited
+  // passage crosswalk explicitly establishes equivalence.
+  if (scriptureEdition() != other.scriptureEdition()) return false
   val thisAnchor = stableAnchor()
   val otherAnchor = other.stableAnchor()
   return if (thisAnchor != null && otherAnchor != null) {
@@ -168,6 +176,18 @@ internal fun SavedVerse.sameScriptureLocation(other: SavedVerse): Boolean {
     storyId == other.storyId && bulletIndex == other.bulletIndex
   }
 }
+
+internal fun SavedVerse.scriptureLanguage(): String =
+  LocaleUtils.effectiveAssetTag(sourceLanguage ?: "en")
+
+internal fun SavedVerse.scriptureEdition(): String = when {
+  editionId == "default" -> BibleEditions.defaultForLanguage(scriptureLanguage())
+  scriptureLanguage() == "en" && editionId.equals("kjv", ignoreCase = true) -> BibleEditions.KJV_1769
+  else -> editionId.lowercase()
+}
+
+internal fun SavedVerse.belongsToEdition(language: String, edition: String): Boolean =
+  scriptureLanguage() == LocaleUtils.effectiveAssetTag(language) && scriptureEdition() == edition.lowercase()
 
 private val savedVerseAnchorPattern = Regex(
   """\(\s*(\d+)\s*:\s*(\d+)(?:\s*[-\u2013]\s*(\d+))?\s*\)\s*\.?\s*$"""

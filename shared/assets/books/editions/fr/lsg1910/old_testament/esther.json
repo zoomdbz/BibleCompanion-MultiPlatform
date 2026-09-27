@@ -122,6 +122,16 @@
           "verse": 22,
           "text": "Il envoya des lettres à toutes les provinces du royaume, à chaque province selon son écriture et à chaque peuple selon sa langue; elles portaient que tout homme devait être le maître dans sa maison, et qu’il parlerait la langue de son peuple."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le grand banquet de Xerxès"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Disgrâce de la reine Vashti"
+        }
       ]
     },
     {
@@ -244,6 +254,16 @@
           "verse": 23,
           "text": "Le fait ayant été vérifié et trouvé exact, les deux eunuques furent pendus à un bois. Et cela fut écrit dans le livre des Chroniques en présence du roi."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esther devient reine"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Mardochée déjoue un complot"
+        }
       ]
     },
     {
@@ -325,6 +345,16 @@
           "chapter": 3,
           "verse": 15,
           "text": "Les courriers partirent en toute hâte, d’après l’ordre du roi. L’édit fut aussi publié dans Suse, la capitale; et tandis que le roi et Haman étaient à boire, la ville de Suse était dans la consternation."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Conflit entre Haman et Mardochée"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Haman prépare l'extermination des Juifs"
         }
       ]
     },
@@ -418,6 +448,12 @@
           "verse": 17,
           "text": "Mardochée s’en alla, et fit tout ce qu’Esther lui avait ordonné."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mardochée demande à Esther d'intervenir"
+        }
       ]
     },
     {
@@ -494,6 +530,16 @@
           "chapter": 5,
           "verse": 14,
           "text": "Zéresch, sa femme, et tous ses amis lui dirent: Qu’on prépare un bois haut de cinquante coudées, et demain matin demande au roi qu’on y pende Mardochée; puis tu iras joyeux au festin avec le roi. Cet avis plut à Haman, et il fit préparer le bois."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Démarche d'Esther auprès du roi"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Haman dresse une potence pour Mardochée"
         }
       ]
     },
@@ -572,6 +618,12 @@
           "verse": 14,
           "text": "Comme ils lui parlaient encore, les eunuques du roi arrivèrent et conduisirent aussitôt Haman au festin qu’Esther avait préparé."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Haman est obligé d'honorer Mardochée"
+        }
       ]
     },
     {
@@ -628,6 +680,12 @@
           "chapter": 7,
           "verse": 10,
           "text": "Et l’on pendit Haman au bois qu’il avait préparé pour Mardochée. Et la colère du roi s’apaisa."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Disgrâce et mort de Haman"
         }
       ]
     },
@@ -720,6 +778,12 @@
           "chapter": 8,
           "verse": 17,
           "text": "Dans chaque province et dans chaque ville, partout où arrivaient l’ordre du roi et son édit, il y eut parmi les Juifs de la joie et de l’allégresse, des festins et des fêtes. Et beaucoup de gens d’entre les peuples du pays se firent Juifs, car la crainte des Juifs les avait saisis."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Edit royal en faveur des Juifs"
         }
       ]
     },
@@ -888,6 +952,16 @@
           "verse": 32,
           "text": "Ainsi l’ordre d’Esther confirma l’institution des Purim, et cela fut écrit dans le livre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La vengeance des Juifs"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Institution d'une fête commémorative"
+        }
       ]
     },
     {
@@ -909,6 +983,12 @@
           "chapter": 10,
           "verse": 3,
           "text": "Car le Juif Mardochée était le premier après le roi Assuérus; considéré parmi les Juifs et aimé de la multitude de ses frères, il rechercha le bien de son peuple et parla pour le bonheur de toute sa race."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Triomphe final de Mardochée"
         }
       ]
     }

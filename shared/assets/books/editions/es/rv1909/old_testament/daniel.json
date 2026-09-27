@@ -117,6 +117,12 @@
           "verse": 21,
           "text": "Y fué Daniel hasta el año primero del rey Ciro."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Daniel en Babilonia"
+        }
       ]
     },
     {
@@ -369,6 +375,16 @@
           "verse": 49,
           "text": "Y Daniel solicitó del rey, y él puso sobre los negocios de la provincia de Babilonia á Sadrach, Mesach, y Abed-nego: y Daniel estaba á la puerta del rey."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El sueño del rey Nabucodonosor"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Daniel interpreta el sueño del rey"
+        }
       ]
     },
     {
@@ -525,6 +541,12 @@
           "chapter": 3,
           "verse": 30,
           "text": "Entonces el rey engrandeció á Sadrach, Mesach, y Abed-nego en la provincia de Babilonia."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El horno en llamas"
         }
       ]
     },
@@ -718,6 +740,20 @@
           "verse": 37,
           "text": "Ahora yo Nabucodonosor alabo, engrandezco y glorifico al Rey del cielo, porque todas sus obras son verdad, y sus caminos juicio; y humillar puede á los que andan con soberbia."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Nabucodonosor, árbol caído"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Daniel interpreta el sueño del rey"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "El cumplimiento del sueño"
+        }
       ]
     },
     {
@@ -880,6 +916,12 @@
           "verse": 31,
           "text": "Y Darío de Media tomó el reino, [ADD]siendo[/ADD] de sesenta y dos años."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La escritura en la pared"
+        }
       ]
     },
     {
@@ -1026,6 +1068,12 @@
           "chapter": 6,
           "verse": 28,
           "text": "Y este Daniel fué prosperado durante el reinado de Darío, y durante el reinado de Ciro, Persa."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Daniel en el foso de los leones"
         }
       ]
     },
@@ -1174,6 +1222,20 @@
           "verse": 28,
           "text": "Hasta aquí fué el fin de la plática. Yo Daniel, mucho me turbaron mis pensamientos, y mi rostro se me mudó: mas guardé en mi corazón el negocio."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Las cuatro bestias"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Canto al Anciano"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La interpretación del sueño"
+        }
       ]
     },
     {
@@ -1315,6 +1377,16 @@
           "chapter": 8,
           "verse": 27,
           "text": "Y yo Daniel fuí quebrantado, y estuve enfermo algunos días: y cuando convalecí, hice el negocio del rey; mas estaba espantado acerca de la visión, y no había quien la entendiese."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Visión del carnero y del macho cabrío"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Significado de la visión"
         }
       ]
     },
@@ -1458,6 +1530,16 @@
           "verse": 27,
           "text": "Y en otra semana confirmará el pacto á muchos, y á la mitad de la semana hará cesar el sacrificio y la ofrenda: después con la muchedumbre de las abominaciones [ADD]será[/ADD] el desolar, y [ADD]esto[/ADD] hasta una entera consumación; y derramaráse la [ADD]ya[/ADD] determinada sobre el [ADD]pueblo[/ADD] asolado."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La oración de Daniel"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Las setenta semanas"
+        }
       ]
     },
     {
@@ -1569,6 +1651,12 @@
           "chapter": 10,
           "verse": 21,
           "text": "Empero yo te declararé lo que está escrito en la escritura de verdad: y ninguno hay que se esfuerce conmigo en estas cosas, sino Miguel vuestro príncipe."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Daniel junto al río Tigris"
         }
       ]
     },
@@ -1802,6 +1890,16 @@
           "verse": 45,
           "text": "Y plantará las tiendas de su palacio entre los mares, en el monte deseable del santuario; y vendrá hasta su fin, y no tendrá quien le ayude."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Los reyes del norte y del sur"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "El rey se exalta a sí mismo"
+        }
       ]
     },
     {
@@ -1873,6 +1971,12 @@
           "chapter": 12,
           "verse": 13,
           "text": "Y tú irás al fin, y reposarás, y te levantarás en tu suerte al fin de los días."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La hora final"
         }
       ]
     }

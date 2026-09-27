@@ -140,7 +140,7 @@ class DivineNameRenderingTest {
       "deuterocanonical"
     )
     assertEquals(
-      "[J]the angel of [DN]Yahweh[/DN][/J] and [DN]YHWH[/DN]",
+      "[J]the angel of [DN]Yahweh[/DN][/J] and [DN]Yahweh[/DN]",
       first
     )
     assertEquals(
@@ -148,6 +148,225 @@ class DivineNameRenderingTest {
       applyDivineName(first, "yahweh", "en", true, "deuterocanonical")
     )
     assertFalse(first.contains("[DN][DN]"))
+  }
+
+  @Test
+  fun sourceMarkedDivineNamesKeepPublisherTextInTraditionalMode() {
+    val source = "der Engel des [DN]Herrn[/DN] sprach"
+    val colored = applyDivineName(source, "traditional", "de", true, "old_testament")
+    val uncolored = applyDivineName(source, "traditional", "de", false, "old_testament")
+
+    assertEquals(source, colored)
+    assertEquals("der Engel des Herrn sprach", stripScriptureInlineTags(colored))
+    assertEquals("der Engel des Herrn sprach", uncolored)
+  }
+
+  @Test
+  fun sourceMarkedDivineNamesStillHonorReplacementModeAndGrammar() {
+    val german = applyDivineName(
+      "der Engel des [DN]Herrn[/DN] sprach",
+      "yahweh",
+      "de",
+      true,
+      "old_testament"
+    )
+    assertEquals("der Engel [DN]Jahwe[/DN]s sprach", german)
+    assertEquals(german, applyDivineName(german, "yahweh", "de", true, "old_testament"))
+
+    assertEquals(
+      "el ángel de Yahvé habló",
+      applyDivineName(
+        "el ángel del [DN]Señor[/DN] habló",
+        "yahweh",
+        "es",
+        false,
+        "old_testament"
+      )
+    )
+
+    val russian = applyDivineName(
+      "Ангел [DN]Господень[/DN] сказал",
+      "yahweh",
+      "ru",
+      true,
+      "old_testament"
+    )
+    assertEquals("Ангел [DN]Яхве[/DN] сказал", russian)
+    assertEquals(russian, applyDivineName(russian, "yahweh", "ru", true, "old_testament"))
+
+    assertEquals(
+      "The [DN]Yahweh[/DN] spoke [ADD]new words[/ADD]",
+      applyDivineName(
+        "The [DN]LORD spoke[/DN] [ADD]new words[/ADD]",
+        "yahweh",
+        "en",
+        true,
+        "old_testament"
+      )
+    )
+    assertEquals(
+      "[DN]Yahweh[/DN] spoke",
+      applyDivineName("[DN]LORD GOD[/DN] spoke", "yahweh", "en", true, "old_testament")
+    )
+    assertEquals(
+      "[DN]Yahweh[/DN] spoke",
+      applyDivineName("[DN]GOD the LORD[/DN] spoke", "yahweh", "en", true, "old_testament")
+    )
+  }
+
+  @Test
+  fun publisherMarkedGottesAndDieuStayNarrowAndKeepTheirGrammar() {
+    val germanSource =
+      "vor dem Angesicht [DN]Gottes[/DN], des Herrn!"
+    assertEquals(
+      germanSource,
+      applyDivineName(germanSource, "traditional", "de", true, "old_testament")
+    )
+    assertEquals(
+      "vor dem Angesicht Gottes, des Herrn!",
+      applyDivineName(germanSource, "traditional", "de", false, "old_testament")
+    )
+    val germanReplacement = applyDivineName(
+      germanSource,
+      "yahweh",
+      "de",
+      true,
+      "old_testament"
+    )
+    assertEquals("vor dem Angesicht [DN]Jahwe[/DN]s, des Herrn!", germanReplacement)
+    assertEquals(
+      germanReplacement,
+      applyDivineName(germanReplacement, "yahweh", "de", true, "old_testament")
+    )
+    assertEquals(
+      "vor dem Angesicht Jahwes, des Herrn!",
+      applyDivineName(germanSource, "yahweh", "de", false, "old_testament")
+    )
+    assertEquals(
+      "vor dem Angesicht Gottes, des Herrn!",
+      applyDivineName(
+        "vor dem Angesicht Gottes, des Herrn!",
+        "yahweh",
+        "de",
+        true,
+        "old_testament"
+      )
+    )
+
+    val frenchSource = "Seigneur [DN]Dieu[/DN], que me donneras-tu ?"
+    assertEquals(
+      frenchSource,
+      applyDivineName(frenchSource, "traditional", "fr", true, "old_testament")
+    )
+    assertEquals(
+      "Seigneur Dieu, que me donneras-tu ?",
+      applyDivineName(frenchSource, "traditional", "fr", false, "old_testament")
+    )
+    val frenchReplacement = applyDivineName(
+      frenchSource,
+      "yahweh",
+      "fr",
+      true,
+      "old_testament"
+    )
+    assertEquals("Seigneur [DN]Yahvé[/DN], que me donneras-tu ?", frenchReplacement)
+    assertEquals(
+      frenchReplacement,
+      applyDivineName(frenchReplacement, "yahweh", "fr", true, "old_testament")
+    )
+    assertEquals(
+      "Seigneur Dieu, que me donneras-tu ?",
+      applyDivineName(
+        "Seigneur Dieu, que me donneras-tu ?",
+        "yahweh",
+        "fr",
+        true,
+        "old_testament"
+      )
+    )
+  }
+
+  @Test
+  fun publisherMarkedGermanGottUsesOnlyItsSourceBoundary() {
+    val source = "Und [DN]Gott[/DN] sprach zu ihnen."
+    assertEquals(
+      source,
+      applyDivineName(source, "traditional", "de", true, "old_testament")
+    )
+    assertEquals(
+      "Und Gott sprach zu ihnen.",
+      applyDivineName(source, "traditional", "de", false, "old_testament")
+    )
+
+    for ((mode, name) in listOf("yahweh" to "Jahwe", "yhwh" to "YHWH", "yhvh" to "YHVH")) {
+      val replacement = applyDivineName(source, mode, "de", true, "old_testament")
+      assertEquals("Und [DN]$name[/DN] sprach zu ihnen.", replacement, mode)
+      assertEquals(
+        replacement,
+        applyDivineName(replacement, mode, "de", true, "old_testament"),
+        mode
+      )
+    }
+    assertEquals(
+      "Und Gott sprach zu ihnen.",
+      applyDivineName(
+        "Und Gott sprach zu ihnen.",
+        "yahweh",
+        "de",
+        true,
+        "old_testament"
+      )
+    )
+  }
+
+  @Test
+  fun reviewedArabicPublisherFormsRequireTheirExactDnBoundary() {
+    val reviewedForms = listOf(
+      "اللهِ", "اللهُ", "اللهَ", "الْمَوْلَى", "لّٰهِ", "لْمَوْلَى"
+    )
+    for (form in reviewedForms) {
+      val marked = "قبل [DN]$form[/DN] بعد"
+      assertEquals(
+        marked,
+        applyDivineName(marked, "traditional", "ar", true, "old_testament"),
+        form
+      )
+      assertEquals(
+        "قبل $form بعد",
+        applyDivineName(marked, "traditional", "ar", false, "old_testament"),
+        form
+      )
+      val replacement = "قبل [DN]يهوه[/DN] بعد"
+      assertEquals(
+        replacement,
+        applyDivineName(marked, "yahweh", "ar", true, "old_testament"),
+        form
+      )
+      assertEquals(
+        replacement,
+        applyDivineName(replacement, "yahweh", "ar", true, "old_testament"),
+        form
+      )
+      assertEquals(
+        "قبل $form بعد",
+        applyDivineName("قبل $form بعد", "yahweh", "ar", true, "old_testament"),
+        "untagged $form"
+      )
+    }
+  }
+
+  @Test
+  fun nviExodusSelfIdentificationKeepsPublisherWordsAndHonorsColor() {
+    val source = "[DN]Yo soy el que soy[/DN] ... [DN]Yo soy[/DN] me ha enviado"
+    val plain = "Yo soy el que soy ... Yo soy me ha enviado"
+    for (mode in listOf("traditional", "yahweh", "yhwh", "yhvh")) {
+      assertEquals(source, applyDivineName(source, mode, "es", true, "old_testament"), mode)
+      assertEquals(plain, applyDivineName(source, mode, "es", false, "old_testament"), mode)
+    }
+    assertEquals(
+      plain,
+      applyDivineName(plain, "yahweh", "es", true, "old_testament")
+    )
   }
 
   @Test

@@ -192,6 +192,12 @@
           "verse": 36,
           "text": "Y el término del Amorrheo fué desde la subida de Acrabim, desde la piedra, y arriba."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Israel continúa su lucha contra los cananeos"
+        }
       ]
     },
     {
@@ -313,6 +319,16 @@
           "chapter": 2,
           "verse": 23,
           "text": "Por esto dejó Jehová aquellas gentes, y no las desarraigó luego, ni las entregó en mano de Josué."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El ángel del\nSeñor\nen Boquín"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "La desobediencia y derrota"
         }
       ]
     },
@@ -476,6 +492,20 @@
           "verse": 31,
           "text": "Después de éste fué Samgar hijo de Anat, el cual hirió seiscientos hombres de los Filisteos con una aguijada de bueyes; y él también salvó á Israel."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Otoniel"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Aod"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Samgar"
+        }
       ]
     },
     {
@@ -602,6 +632,12 @@
           "chapter": 4,
           "verse": 24,
           "text": "Y la mano de los hijos de Israel comenzó á crecer y á fortificarse contra Jabín rey de Canaán, hasta que lo destruyeron."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Débora"
         }
       ]
     },
@@ -764,6 +800,12 @@
           "chapter": 5,
           "verse": 31,
           "text": "Así perezcan todos tus enemigos, oh Jehová: mas los que le aman, sean como el sol cuando nace en su fuerza. Y la tierra reposó cuarenta años."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La canción de Débora"
         }
       ]
     },
@@ -972,6 +1014,12 @@
           "verse": 40,
           "text": "Y aquella noche lo hizo Dios así: porque la sequedad fué sólo en el vellón, y en toda la tierra estuvo el rocío."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gedeón"
+        }
       ]
     },
     {
@@ -1103,6 +1151,12 @@
           "chapter": 7,
           "verse": 25,
           "text": "Y tomaron dos príncipes de los Madianitas, Oreb y Zeeb: y mataron á Oreb en la peña de Oreb, y á Zeeb [ADD]lo[/ADD] mataron en el lagar de Zeeb: y después que siguieron á los Madianitas, trajeron las cabezas de Oreb y de Zeeb á Gedeón de la otra parte del Jordán."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Gedeón derrota a los madianitas"
         }
       ]
     },
@@ -1285,6 +1339,20 @@
           "chapter": 8,
           "verse": 35,
           "text": "Ni hicieron misericordia con la casa de Jerobaal Gedeón, conforme á todo el bien que él había hecho á Israel."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Zeba y Zalmuna"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "El efod de Gedeón"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "La muerte de Gedeón"
         }
       ]
     },
@@ -1578,6 +1646,12 @@
           "verse": 57,
           "text": "Y aun todo el mal de los hombres de Sichêm tornó Dios sobre sus cabezas: y la maldición de Jotham, hijo de Jerobaal, vino sobre ellos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Abimélec"
+        }
       ]
     },
     {
@@ -1674,6 +1748,20 @@
           "chapter": 10,
           "verse": 18,
           "text": "Y los príncipes y el pueblo de Galaad dijeron el uno al otro: ¿Quién será el que comenzará la batalla contra los hijos de Ammón? él será cabeza sobre todos los que habitan en Galaad."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tola"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Yaír"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Jefté"
         }
       ]
     },
@@ -1882,7 +1970,8 @@
           "verse": 40,
           "text": "De aquí fué la costumbre en Israel que de año en año iban las doncellas de Israel á endechar á la hija de Jephté Galaadita, cuatro días en el año."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 12,
@@ -1963,6 +2052,16 @@
           "chapter": 12,
           "verse": 15,
           "text": "Y murió Abdón hijo de Hillel, Piratonita, y fué sepultado en Piratón, en la tierra de Ephraim, en el monte de Amalec."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jefté y Efraín"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Ibsán, Elón y Abdón"
         }
       ]
     },
@@ -2096,6 +2195,12 @@
           "verse": 25,
           "text": "Y el espíritu de Jehová comenzó á manifestarse en él en los campamentos de Dan, entre Sora y Esthaol."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El nacimiento de Sansón"
+        }
       ]
     },
     {
@@ -2203,6 +2308,12 @@
           "verse": 20,
           "text": "Y el espíritu de Jehová cayó sobre él, y descendió á Ascalón, é hirió treinta hombres de ellos; y tomando sus despojos, dió las mudas de vestidos á los que habían explicado el enigma: y encendido en enojo fuése á casa de su padre. Y la mujer de Samsón fué [ADD]dada[/ADD] á su compañero, con el cual él [ADD]antes[/ADD] se acompañaba."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El matrimonio de Sansón"
+        }
       ]
     },
     {
@@ -2309,6 +2420,12 @@
           "chapter": 15,
           "verse": 20,
           "text": "Y juzgó á Israel en días de los Filisteos veinte años."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sansón se venga de los filisteos"
         }
       ]
     },
@@ -2472,6 +2589,16 @@
           "verse": 31,
           "text": "Y descendieron sus hermanos y toda la casa de su padre, y tomáronle, y lleváronle, y le sepultaron entre Sora y Esthaol, en el sepulcro de su padre Manoa. Y él juzgó á Israel veinte años."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sansón y Dalila"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "La muerte de Sansón"
+        }
       ]
     },
     {
@@ -2543,6 +2670,12 @@
           "chapter": 17,
           "verse": 13,
           "text": "Y Michâs dijo: Ahora sé que Jehová me hará bien, pues que el Levita es hecho mi sacerdote."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los ídolos de Micaías"
         }
       ]
     },
@@ -2706,6 +2839,12 @@
           "verse": 31,
           "text": "Y levantáronse la imagen de Michâs, la cual él había hecho, todo el tiempo que la casa de Dios estuvo en Silo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La tribu de Dan se establece en Lais"
+        }
       ]
     },
     {
@@ -2862,6 +3001,12 @@
           "chapter": 19,
           "verse": 30,
           "text": "Y todo el que lo veía, decía: Jamás se ha hecho ni visto tal cosa, desde el tiempo que los hijos de Israel subieron de la tierra de Egipto hasta hoy. Considerad esto, dad consejo, y hablad."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El levita y su concubina"
         }
       ]
     },
@@ -3110,6 +3255,12 @@
           "verse": 48,
           "text": "Y los hombres de Israel tornaron á los hijos de Benjamín, y pasáronlos á cuchillo, á hombres y bestias en la ciudad, y todo lo que fué hallado: asimismo pusieron fuego á todas las ciudades que hallaban."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los israelitas derrotan a los benjamitas"
+        }
       ]
     },
     {
@@ -3241,6 +3392,12 @@
           "chapter": 21,
           "verse": 25,
           "text": "En estos días no había rey en Israel: cada uno hacía lo recto delante de sus ojos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esposas para los benjamitas"
         }
       ]
     }

@@ -122,6 +122,7 @@ object ContentRepo {
                     ?: story.id.substringAfterLast('-').toIntOrNull()
                 val chapter = chapterNumber?.let { overlayByChapter[it] }
                 if (chapter == null) story else story.copy(
+                    refs = editionChapterReferences(story.refs, chapter),
                     summaryBullets = chapter.verses.map { verse ->
                         val marker = if (verse.verseEnd != null && verse.verseEnd != verse.verse) {
                             "${verse.chapter}:${verse.verse}-${verse.verseEnd}"
@@ -131,7 +132,9 @@ object ContentRepo {
                         "${verse.text.trim()} ($marker)."
                     },
                     superscription = chapter.superscription,
-                    headings = chapter.headings ?: story.headings
+                    // Structural validation requires an explicit per-edition
+                    // lookup table, including [] when this chapter has none.
+                    headings = requireNotNull(chapter.headings)
                 )
             }
             LoadedBook(

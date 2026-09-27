@@ -157,6 +157,28 @@
           "verse": 29,
           "text": "C’est à quoi je travaille, en combattant avec sa force, qui agit puissamment en moi."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "La bonne nouvelle est parvenue chez vous"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Intercession"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Le Fils, image du Dieu invisible"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Le combat de l'apôtre"
+        }
       ]
     },
     {
@@ -278,6 +300,16 @@
           "chapter": 2,
           "verse": 23,
           "text": "Ils ont, à la vérité, une apparence de sagesse, en ce qu’ils indiquent un culte volontaire, de l’humilité, et le mépris du corps, mais ils sont sans aucun mérite et contribuent à la satisfaction de la chair."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "Vous avez tout pleinement dans le Christ"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Morts et ressuscités avec le Christ"
         }
       ]
     },
@@ -411,6 +443,20 @@
           "verse": 25,
           "text": "Car celui qui agit injustement recevra selon son injustice, et il n’y a point d’acception de personnes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "L'homme ancien et l'homme nouveau"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Maris et femmes, enfants et parents"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Esclaves et maîtres"
+        }
       ]
     },
     {
@@ -507,6 +553,16 @@
           "chapter": 4,
           "verse": 18,
           "text": "Je vous salue, moi Paul, de ma propre main. Souvenez-vous de mes liens. Que la grâce soit avec vous!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Attitude à l'égard de ceux du dehors"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Messages personnels et salutations"
         }
       ]
     }

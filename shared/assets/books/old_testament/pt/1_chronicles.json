@@ -102,23 +102,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendentes de Adão"
+          "text": "De Adão aos filhos de Noé"
         },
         {
           "beforeVerse": 5,
-          "text": "Descendentes dos filhos de Noé"
+          "text": "Descendentes de Jafé"
         },
         {
-          "beforeVerse": 24,
+          "beforeVerse": 8,
+          "text": "Descendentes de Cam"
+        },
+        {
+          "beforeVerse": 17,
           "text": "Descendentes de Sem"
         },
         {
           "beforeVerse": 28,
-          "text": "Descendentes de Ismael"
+          "text": "Descendentes de Abraão"
         },
         {
-          "beforeVerse": 32,
-          "text": "Descendentes de Abraão e Quetura"
+          "beforeVerse": 34,
+          "text": "Descendentes de Isaque"
         },
         {
           "beforeVerse": 35,
@@ -126,11 +130,11 @@
         },
         {
           "beforeVerse": 38,
-          "text": "Descendentes de Seir"
+          "text": "Povos de Edom"
         },
         {
           "beforeVerse": 43,
-          "text": "Reis e príncipes de Edom"
+          "text": "Reis de Edom"
         }
       ]
     },
@@ -240,11 +244,31 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendentes de Jacó"
+          "text": "Descendentes de Israel"
         },
         {
           "beforeVerse": 3,
           "text": "Descendentes de Judá"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "De Hezrom, neto de Judá, a Davi"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Outros descendentes de Hezrom"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Descendentes de Jerameel, filho de Hezrom"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Descendentes de Calebe, filho de Hezrom"
+        },
+        {
+          "beforeVerse": 51,
+          "text": "Descendentes de Hur, filho de Calebe"
         }
       ]
     },
@@ -318,11 +342,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Filhos de Davi ;"
+          "text": "Descendentes de Davi"
         },
         {
           "beforeVerse": 10,
           "text": "Descendentes de Salomão"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Descendentes de Joaquim"
         }
       ]
     },
@@ -415,7 +443,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendentes de Judá"
+          "text": "Outros descendentes de Judá"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Descendentes de Selá, filho de Judá"
         },
         {
           "beforeVerse": 24,
@@ -503,7 +535,7 @@
         },
         {
           "beforeVerse": 18,
-          "text": "A história das tribos transjordânicas"
+          "text": "As tribos a leste do Jordão"
         }
       ]
     },
@@ -634,11 +666,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendentes de Levi"
+          "text": "A linhagem sacerdotal"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Os clãs dos levitas"
         },
         {
           "beforeVerse": 31,
-          "text": "Cantores levitas"
+          "text": "Os músicos do templo"
         },
         {
           "beforeVerse": 49,
@@ -646,7 +682,7 @@
         },
         {
           "beforeVerse": 54,
-          "text": "As cidades dos levitas"
+          "text": "Território para os levitas"
         }
       ]
     },
@@ -741,6 +777,10 @@
         {
           "beforeVerse": 6,
           "text": "Descendentes de Benjamim"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Descendentes de Naftali"
         },
         {
           "beforeVerse": 14,
@@ -843,6 +883,10 @@
         {
           "beforeVerse": 1,
           "text": "Descendentes de Benjamim"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "A família de Saul"
         }
       ]
     },
@@ -935,8 +979,20 @@
       "keyTakeaway": "Após o exílio na Babilônia, os israelitas se reinstalam em suas cidades; a passagem lista as genealogias e funções dos que retornaram a Jerusalém, incluindo descendentes de Judá, Benjamim, sacerdotes, levitas e porteiros, além dos descendentes da família de Saul que viviam em Gibeom.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Habitantes de Jerusalém depois do cativeiro"
+          "beforeVerse": 2,
+          "text": "Os exilados que voltaram"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Os sacerdotes que voltaram"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Os levitas que voltaram"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Genealogia do rei Saul"
         }
       ]
     },
@@ -1000,11 +1056,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A derrota de Israel e a morte de Saul"
-        },
-        {
-          "beforeVerse": 8,
-          "text": "A sepultura de Saul"
+          "text": "A morte de Saul"
         }
       ]
     },
@@ -1101,15 +1153,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi é ungido rei"
+          "text": "Davi se torna rei de todo o Israel"
         },
         {
           "beforeVerse": 4,
-          "text": "Davi conquista a Sião"
+          "text": "Davi conquista Jerusalém"
         },
         {
           "beforeVerse": 10,
-          "text": "Os valentes de Davi"
+          "text": "Os guerreiros mais valentes de Davi"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Os trinta valentes de Davi"
         }
       ]
     },
@@ -1194,11 +1250,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O exército de Davi"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "O exército que proclamou a Davi rei em Hebrom"
+          "text": "Guerreiros se unem ao exército de Davi"
         }
       ]
     },
@@ -1257,11 +1309,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi dispõe-se a trazer a arca para Jerusalém"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "Davi procura trazer a arca"
+          "text": "Davi tenta levar a arca para Jerusalém"
         }
       ]
     },
@@ -1323,11 +1371,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O reinado de Davi reconhecido por Hirão"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "Os filhos de Davi que nasceram em Jerusalém ;"
+          "text": "O palácio e a família de Davi"
         },
         {
           "beforeVerse": 8,
@@ -1410,19 +1454,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os levitas designados para levarem a arca"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "Designados os músicos para o templo"
+          "text": "Preparativos para transportar a arca"
         },
         {
           "beforeVerse": 25,
           "text": "A arca é levada para Jerusalém"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "Mical despreza a Davi ,"
         }
       ]
     },
@@ -1509,16 +1545,12 @@
       "keyTakeaway": "Davi coloca a arca em uma tenda, oferece sacrifícios e distribui pão ao povo; designa levitas liderados por Asafe para ministrar diante dela com música e louvor, e estabelece sacerdotes em Gibeom para oferecer sacrifícios regularmente.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Oferta de sacrifícios"
-        },
-        {
           "beforeVerse": 7,
-          "text": "Salmo de Davi em ações de graças ; ;"
+          "text": "O cântico de louvor de Davi"
         },
         {
           "beforeVerse": 37,
-          "text": "Outros dispositivos para o culto"
+          "text": "Culto em Jerusalém e em Gibeom"
         }
       ]
     },
@@ -1590,11 +1622,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A aliança do Senhor com Davi"
+          "text": "A aliança do S\nenhor\ncom Davi"
         },
         {
           "beforeVerse": 16,
-          "text": "Ações de graças de Davi"
+          "text": "Oração de gratidão de Davi"
         }
       ]
     },
@@ -1656,11 +1688,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Diversas vitórias de Davi"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "Oficiais de Davi ;"
+          "text": "Vitórias militares de Davi"
         }
       ]
     },
@@ -1724,7 +1752,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi derrota os amonitas e os siros"
+          "text": "Davi derrota os amonitas"
         }
       ]
     },
@@ -1777,11 +1805,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi conquista a Rabá"
+          "text": "Davi conquista Rabá"
         },
         {
           "beforeVerse": 4,
-          "text": "Gigantes mortos pelos homens de Davi"
+          "text": "Batalhas contra gigantes filisteus"
         }
       ]
     },
@@ -1866,19 +1894,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O levantamento do censo"
+          "text": "Davi realiza um censo"
         },
         {
           "beforeVerse": 7,
-          "text": "Davi escolhe o castigo"
+          "text": "Julgamento por causa do pecado de Davi"
         },
         {
           "beforeVerse": 18,
-          "text": "Davi erige um altar na eira de Ornã"
-        },
-        {
-          "beforeVerse": 28,
-          "text": "O lugar do templo"
+          "text": "Davi constrói um altar"
         }
       ]
     },
@@ -1940,12 +1964,8 @@
       "keyTakeaway": "Davi não pode construir o templo por causa de suas guerras, mas faz preparativos abundantes. Salomão é escolhido como o homem de paz para construir a casa de Deus.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Davi faz preparativos para edificar o templo"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Ordens de Davi a Salomão"
+          "beforeVerse": 2,
+          "text": "Preparativos para o templo"
         }
       ]
     },
@@ -2027,7 +2047,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os turnos e funções dos levitas"
+          "text": "Deveres dos levitas"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Os gersonitas"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Os coatitas"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Os meraritas"
         }
       ]
     },
@@ -2103,7 +2135,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os turnos dos sacerdotes"
+          "text": "Deveres dos sacerdotes"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Chefes de famílias levitas"
         }
       ]
     },
@@ -2184,7 +2220,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Função dos cantores"
+          "text": "Responsabilidades dos músicos"
         }
       ]
     },
@@ -2261,15 +2297,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os porteiros"
+          "text": "Deveres dos guardas das portas"
         },
         {
           "beforeVerse": 20,
-          "text": "Os guardas dos tesouros"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "Os oficiais e os juízes"
+          "text": "Tesoureiros e outros oficiais"
         }
       ]
     },
@@ -2353,19 +2385,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os turnos de serviço para cada mês"
+          "text": "Comandantes e divisões militares"
         },
         {
           "beforeVerse": 16,
-          "text": "Os chefes das tribos"
+          "text": "Líderes das tribos"
         },
         {
           "beforeVerse": 25,
-          "text": "Os administradores das possessões de Davi"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "Os conselheiros do rei"
+          "text": "Oficiais do reino de Davi"
         }
       ]
     },
@@ -2436,11 +2464,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi apresenta a Salomão como seu sucessor"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "Davi dá a Salomão a planta do templo"
+          "text": "Instruções de Davi a Salomão"
         }
       ]
     },
@@ -2525,19 +2549,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As ofertas de Davi e dos príncipes"
+          "text": "Ofertas para a construção do templo"
         },
         {
           "beforeVerse": 10,
-          "text": "Oração de Davi"
+          "text": "Oração de louvor de Davi"
         },
         {
-          "beforeVerse": 23,
-          "text": "Salomão proclamado rei"
+          "beforeVerse": 21,
+          "text": "Salomão é proclamado rei"
         },
         {
           "beforeVerse": 26,
-          "text": "A morte de Davi"
+          "text": "Resumo do reinado de Davi"
         }
       ]
     }

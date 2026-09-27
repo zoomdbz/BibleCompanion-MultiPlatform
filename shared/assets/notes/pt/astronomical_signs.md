@@ -34,6 +34,27 @@ Uma tétrade é composta por quatro eclipses lunares totais consecutivos, cada u
 
 As tétrades históricas coincidem com grandes pontos de virada na história judaica. O agrupamento de 2024–2033 não forma uma tétrade, mas contém as primeiras luas de sangue em dias de festa desde 2015, um eclipse lunar em uma observância de Purim em quatro anos consecutivos (5784–5787), e quatro eclipses alinhados a festas concentrados apenas em 2033. Se esses alinhamentos têm peso profético é uma questão de interpretação; os eventos astronômicos em si são fatos documentados.
 
+<!-- ECLIPSE_CATALOG_2024_2033_BEGIN -->
+### Catálogo completo de eclipses, 2024-2033
+
+Este catálogo inclui todos os eclipses solares e lunares das tabelas decenais da NASA de 2024 a 2033, não apenas os eventos que coincidem com datas do calendário bíblico ou judaico. As datas indicam o dia, no Tempo Universal Coordenado (UTC), em que ocorreu o máximo do eclipse. Um eclipse lunar total pode produzir a aparência avermelhada comumente chamada de lua de sangue. Eclipses lunares parciais e penumbrais são eventos diferentes e aparecem identificados separadamente. A visibilidade depende do local.
+
+| Ano | Eclipses solares | Eclipses lunares |
+|---|---|---|
+| 2024 | 2024-04-08 - Total <!-- eclipse:2024-04-08:solar-total -->; 2024-10-02 - Anular <!-- eclipse:2024-10-02:solar-annular --> | 2024-03-25 - Penumbral <!-- eclipse:2024-03-25:lunar-penumbral -->; 2024-09-18 - Parcial <!-- eclipse:2024-09-18:lunar-partial --> |
+| 2025 | 2025-03-29 - Parcial <!-- eclipse:2025-03-29:solar-partial -->; 2025-09-21 - Parcial <!-- eclipse:2025-09-21:solar-partial --> | 2025-03-14 - Total <!-- eclipse:2025-03-14:lunar-total -->; 2025-09-07 - Total <!-- eclipse:2025-09-07:lunar-total --> |
+| 2026 | 2026-02-17 - Anular <!-- eclipse:2026-02-17:solar-annular -->; 2026-08-12 - Total <!-- eclipse:2026-08-12:solar-total --> | 2026-03-03 - Total <!-- eclipse:2026-03-03:lunar-total -->; 2026-08-28 - Parcial <!-- eclipse:2026-08-28:lunar-partial --> |
+| 2027 | 2027-02-06 - Anular <!-- eclipse:2027-02-06:solar-annular -->; 2027-08-02 - Total <!-- eclipse:2027-08-02:solar-total --> | 2027-02-20 - Penumbral <!-- eclipse:2027-02-20:lunar-penumbral -->; 2027-07-18 - Penumbral <!-- eclipse:2027-07-18:lunar-penumbral -->; 2027-08-17 - Penumbral <!-- eclipse:2027-08-17:lunar-penumbral --> |
+| 2028 | 2028-01-26 - Anular <!-- eclipse:2028-01-26:solar-annular -->; 2028-07-22 - Total <!-- eclipse:2028-07-22:solar-total --> | 2028-01-12 - Parcial <!-- eclipse:2028-01-12:lunar-partial -->; 2028-07-06 - Parcial <!-- eclipse:2028-07-06:lunar-partial -->; 2028-12-31 - Total <!-- eclipse:2028-12-31:lunar-total --> |
+| 2029 | 2029-01-14 - Parcial <!-- eclipse:2029-01-14:solar-partial -->; 2029-06-12 - Parcial <!-- eclipse:2029-06-12:solar-partial -->; 2029-07-11 - Parcial <!-- eclipse:2029-07-11:solar-partial -->; 2029-12-05 - Parcial <!-- eclipse:2029-12-05:solar-partial --> | 2029-06-26 - Total <!-- eclipse:2029-06-26:lunar-total -->; 2029-12-20 - Total <!-- eclipse:2029-12-20:lunar-total --> |
+| 2030 | 2030-06-01 - Anular <!-- eclipse:2030-06-01:solar-annular -->; 2030-11-25 - Total <!-- eclipse:2030-11-25:solar-total --> | 2030-06-15 - Parcial <!-- eclipse:2030-06-15:lunar-partial -->; 2030-12-09 - Penumbral <!-- eclipse:2030-12-09:lunar-penumbral --> |
+| 2031 | 2031-05-21 - Anular <!-- eclipse:2031-05-21:solar-annular -->; 2031-11-14 - Híbrido <!-- eclipse:2031-11-14:solar-hybrid --> | 2031-05-07 - Penumbral <!-- eclipse:2031-05-07:lunar-penumbral -->; 2031-06-05 - Penumbral <!-- eclipse:2031-06-05:lunar-penumbral -->; 2031-10-30 - Penumbral <!-- eclipse:2031-10-30:lunar-penumbral --> |
+| 2032 | 2032-05-09 - Anular <!-- eclipse:2032-05-09:solar-annular -->; 2032-11-03 - Parcial <!-- eclipse:2032-11-03:solar-partial --> | 2032-04-25 - Total <!-- eclipse:2032-04-25:lunar-total -->; 2032-10-18 - Total <!-- eclipse:2032-10-18:lunar-total --> |
+| 2033 | 2033-03-30 - Total <!-- eclipse:2033-03-30:solar-total -->; 2033-09-23 - Parcial <!-- eclipse:2033-09-23:solar-partial --> | 2033-04-14 - Total <!-- eclipse:2033-04-14:lunar-total -->; 2033-10-08 - Total <!-- eclipse:2033-10-08:lunar-total --> |
+
+Fontes: [eclipses solares da NASA, 2021-2030](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2021.html); [eclipses solares da NASA, 2031-2040](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2031.html); [eclipses lunares da NASA, 2021-2030](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2021.html); [eclipses lunares da NASA, 2031-2040](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2031.html). Previsões de eclipses de Fred Espenak, do Centro de Voos Espaciais Goddard da NASA.
+<!-- ECLIPSE_CATALOG_2024_2033_END -->
+
 ---
 
 ## Eclipses Solares

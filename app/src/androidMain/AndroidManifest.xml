@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
   <!-- Allow visibility checks for external apps we may deep-link to (Android 11+) -->
   <queries>
     <!-- YouVersion Bible app -->
@@ -28,6 +31,16 @@
       android:theme="@style/Theme.BibleCompanion"
       android:localeConfig="@xml/locales_config"
       android:enableOnBackInvokedCallback="true">
+    <activity android:name=".CopyDailyVerseActivity" android:exported="false"
+        android:excludeFromRecents="true" android:theme="@style/Theme.BibleCompanion" />
+    <receiver android:name=".DailyVerseNotificationReceiver" android:exported="false">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+        <action android:name="android.intent.action.TIME_SET" />
+        <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+        <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+      </intent-filter>
+    </receiver>
     <activity
         android:name=".MainActivity"
         android:exported="true">

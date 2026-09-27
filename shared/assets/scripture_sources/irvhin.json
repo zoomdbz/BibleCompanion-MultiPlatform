@@ -1,0 +1,14 @@
+{
+  "editionId": "irvhin",
+  "language": "hi",
+  "title": "Indian Revised Version Hindi 2019",
+  "copyright": "Copyright 2017, 2018, 2019 Bridge Connectivity Solutions",
+  "translator": "Bridge Connectivity Solutions",
+  "sourceUrl": "https://ebible.org/Scriptures/hin2017_usfm.zip",
+  "archiveSha256": "4B284BEE6D52D8DAE3425D540E6743836E614694EEFF9C55D2395071A76BF07F",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "rightsUrl": "https://ebible.org/hin2017/copyright.htm",
+  "presentationChanges": "USFM word-of-Jesus markers become [J] spans. The app keeps its own summaries, notes, cross-references, headings, and verse-navigation markers. The existing corpus has additional apparatus and presentation differences; it is not claimed to match the publisher archive verbatim throughout. App presentation changes do not imply endorsement by the original licensor. Adaptations of the Scripture text remain under CC BY-SA 4.0.",
+  "markupRepair": "tools/repair_hindi_source_markup.py transfers exact source speech spans only when the entire plain verse text matches. Speech changes preserve every text character. The script also moves Psalm 119 acrostic labels out of the preceding verses into the source's stanza headings. It leaves other unmatched text for separate review."
+}

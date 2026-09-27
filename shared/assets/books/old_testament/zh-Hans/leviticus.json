@@ -75,7 +75,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "燔祭的条例"
+          "text": "献燔祭的条例"
         }
       ]
     },
@@ -151,7 +151,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "素祭的条例"
+          "text": "献素祭的条例"
         }
       ]
     },
@@ -212,7 +212,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "平安祭的条例"
+          "text": "献平安祭的条例"
         }
       ]
     },
@@ -291,7 +291,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "为误犯的罪献祭的条例"
+          "text": "献赎罪祭的条例"
         }
       ]
     },
@@ -364,8 +364,8 @@
       "keyTakeaway": "凡该作证却不作证、触摸不洁之物或轻率起誓的，必须认罪，并按自己的能力献上赎罪祭：一只母绵羊或母山羊，两只斑鸠或两只雏鸽，或是细面粉；干犯耶和华圣物的，要献上足值的公绵羊作赎愆祭，偿还所亏欠的，另加五分之一；在不知情中违背耶和华诫命的，也要献一只公绵羊，由祭司为他赎罪，他就蒙赦免。",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "赎愆祭的条例"
+          "beforeVerse": 14,
+          "text": "献赎过祭的条例"
         }
       ]
     },
@@ -444,15 +444,15 @@
       "headings": [
         {
           "beforeVerse": 8,
-          "text": "祭司献燔祭的责任"
+          "text": "祭司献燔祭的条例"
         },
         {
           "beforeVerse": 14,
-          "text": "祭司献素祭的责任"
+          "text": "祭司献素祭的条例"
         },
         {
           "beforeVerse": 24,
-          "text": "祭司献赎罪祭的责任"
+          "text": "祭司献赎罪祭的条例"
         }
       ]
     },
@@ -535,11 +535,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "祭司献赎愆祭的责任"
+          "text": "祭司献赎过祭的条例"
         },
         {
           "beforeVerse": 11,
-          "text": "祭司献平安祭的责任"
+          "text": "献平安祭的条例"
         }
       ]
     },
@@ -630,7 +630,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "立亚伦和他的儿子们作祭司"
+          "text": "膏立亚伦父子们做祭司"
         }
       ]
     },
@@ -779,7 +779,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "拿答和亚比户犯罪"
+          "text": "拿答和亚比户之死"
         },
         {
           "beforeVerse": 8,
@@ -943,7 +943,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "产妇洁净礼的条例"
+          "text": "产妇洁净的条例"
         }
       ]
     },
@@ -1052,11 +1052,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "有关皮肤病的条例"
+          "text": "有关麻风病的条例"
         },
         {
           "beforeVerse": 47,
-          "text": "衣物发霉的条例"
+          "text": "霉变衣物的条例"
         }
       ]
     },
@@ -1168,11 +1168,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "皮肤病后洁净的条例"
+          "text": "麻风病患者的洁净条例"
         },
         {
           "beforeVerse": 33,
-          "text": "处理房屋发霉的条例"
+          "text": "处理房子发霉的条例"
         }
       ]
     },
@@ -1255,7 +1255,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "漏症患者洁净的条例"
+          "text": "有关漏症患者的条例"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "有关遗精的条例"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "有关女人月经的条例"
         }
       ]
     },
@@ -1353,15 +1361,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "赎罪日"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "代罪羊"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "守赎罪日"
+          "text": "赎罪日的条例"
         }
       ]
     },
@@ -1437,7 +1437,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "血的神圣"
+          "text": "杀祭牲的条例"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "禁止吃血"
         }
       ]
     },
@@ -1542,7 +1546,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "有关淫乱的禁令"
+          "text": "禁止淫乱的条例"
         }
       ]
     },
@@ -1679,7 +1683,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "圣洁和公正的法例"
+          "text": "有关圣洁生活的条例"
         }
       ]
     },
@@ -1776,7 +1780,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "处罚悖逆的人"
+          "text": "各种罪的惩处条例"
         }
       ]
     },
@@ -1855,7 +1859,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "祭司圣洁的条例"
+          "text": "祭司保持圣洁的条例"
         }
       ]
     },
@@ -1943,7 +1947,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "圣物的圣洁"
+          "text": "吃圣物的条例"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "选择祭牲的条例"
         }
       ]
     },
@@ -2077,19 +2085,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "节期"
+          "text": "有关节期的条例"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "安息日"
         },
         {
           "beforeVerse": 5,
-          "text": "逾越节和无酵节"
+          "text": "逾越节和除酵节"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "初熟节"
         },
         {
           "beforeVerse": 15,
-          "text": "五旬收获节"
+          "text": "五旬节"
         },
         {
           "beforeVerse": 23,
-          "text": "新年"
+          "text": "吹号节"
         },
         {
           "beforeVerse": 26,
@@ -2205,15 +2221,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "燃灯的条例"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "陈设饼"
+          "text": "灯和供饼的条例"
         },
         {
           "beforeVerse": 10,
-          "text": "公正的判例"
+          "text": "处死亵渎圣名者"
         }
       ]
     },
@@ -2363,27 +2375,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "安息年"
+          "text": "安息年的条例"
         },
         {
           "beforeVerse": 8,
-          "text": "禧年"
-        },
-        {
-          "beforeVerse": 18,
-          "text": "安息年的问题"
+          "text": "禧年的条例"
         },
         {
           "beforeVerse": 23,
-          "text": "赎房地产的条例"
+          "text": "赎回土地的条例"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "赎回房屋的条例"
         },
         {
           "beforeVerse": 35,
-          "text": "借贷给穷人的条例"
+          "text": "照顾同胞的条例"
         },
         {
           "beforeVerse": 39,
-          "text": "赎回奴仆的条例"
+          "text": "买卖奴隶的条例"
         }
       ]
     },
@@ -2494,11 +2506,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "遵行诫命者的福祉"
+          "text": "遵行诫命蒙祝福"
         },
         {
           "beforeVerse": 14,
-          "text": "违反诫命者受惩罚"
+          "text": "违背诫命受惩罚"
+        },
+        {
+          "beforeVerse": 40,
+          "text": "认罪悔改蒙眷顾"
         }
       ]
     },

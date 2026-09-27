@@ -177,6 +177,20 @@
           "verse": 33,
           "text": "Porém o que me der ouvidos habitará seguramente, e estará descançado do temor do mal"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A finalidade dos provérbios"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "O conselho de um pai: adquira sabedoria"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "A Sabedoria grita nas ruas"
+        }
       ]
     },
     {
@@ -293,6 +307,12 @@
           "chapter": 2,
           "verse": 22,
           "text": "Mas os impios serão arrancados da terra, e os aleivosos serão d'ella exterminados."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os benefícios da sabedoria"
         }
       ]
     },
@@ -476,6 +496,12 @@
           "verse": 35,
           "text": "Os sabios herdarão honra, porém os loucos tomam sobre si confusão."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Confiança no S\nenhor"
+        }
       ]
     },
     {
@@ -618,6 +644,12 @@
           "verse": 27,
           "text": "Não declines nem para a direita nem para a esquerda: retira o teu pé do mal."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O conselho sábio de um pai"
+        }
       ]
     },
     {
@@ -739,6 +771,12 @@
           "chapter": 5,
           "verse": 23,
           "text": "Elle morrerá, porque sem correcção andou, e pelo excesso da sua loucura andará errado."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Evite mulheres imorais"
         }
       ]
     },
@@ -922,6 +960,12 @@
           "verse": 35,
           "text": "Nenhum resgate acceitará, nem consentirá, ainda que augmentes os presentes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lições para a vida diária"
+        }
       ]
     },
     {
@@ -1063,6 +1107,12 @@
           "chapter": 7,
           "verse": 27,
           "text": "Caminhos da sepultura são a sua casa, que descem ás camaras da morte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Outra advertência sobre mulheres imorais"
         }
       ]
     },
@@ -1251,6 +1301,12 @@
           "verse": 36,
           "text": "Mas o que peccar contra mim violentará a sua propria alma: todos os que me aborrecem amam a morte."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A Sabedoria pede para ser ouvida"
+        }
       ]
     },
     {
@@ -1347,6 +1403,12 @@
           "chapter": 9,
           "verse": 18,
           "text": "Porém não sabes que ali estão os mortos: os seus convidados estão nas profundezas do inferno."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 13,
+          "text": "A Insensatez pede para ser ouvida"
         }
       ]
     },
@@ -1515,6 +1577,12 @@
           "verse": 32,
           "text": "Os beiços do justo sabem o que agrada, mas a bocca dos impios anda cheia de perversidades."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Provérbios de Salomão"
+        }
       ]
     },
     {
@@ -1677,7 +1745,8 @@
           "verse": 31,
           "text": "Eis que o justo é recompensado na terra; quanto mais o será o impio e o peccador."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 12,
@@ -1824,7 +1893,8 @@
           "verse": 28,
           "text": "Na vereda da justiça está a vida, e no caminho da sua carreira não ha morte."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 13,
@@ -1956,7 +2026,8 @@
           "verse": 25,
           "text": "O justo come até fartar-se a sua alma, mas o ventre dos impios terá necessidade."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 14,
@@ -2138,7 +2209,8 @@
           "verse": 35,
           "text": "O Rei tem seu contentamento no servo prudente, mas sobre o que envergonha cairá o seu furor."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 15,
@@ -2310,7 +2382,8 @@
           "verse": 33,
           "text": "O temor do Senhor é a correcção da sabedoria, e diante da honra vae a humildade."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 16,
@@ -2482,7 +2555,8 @@
           "verse": 33,
           "text": "A sorte se lança no regaço, mas do Senhor procede toda a sua disposição."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 17,
@@ -2629,7 +2703,8 @@
           "verse": 28,
           "text": "Até o tolo, quando se cala, será reputado por sabio; e o que cerrar os seus labios por entendido."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 18,
@@ -2756,7 +2831,8 @@
           "verse": 24,
           "text": "O homem que tem amigos haja-se amigavelmente, e ha amigo mais chegado do que um irmão."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 19,
@@ -2908,7 +2984,8 @@
           "verse": 29,
           "text": "Preparados estão os juizos para os escarnecedores e açoites para as costas dos tolos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 20,
@@ -3065,7 +3142,8 @@
           "verse": 30,
           "text": "Os vergões das feridas são a purificação dos maus, como tambem as pancadas que penetram até o mais intimo do ventre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 21,
@@ -3227,7 +3305,8 @@
           "verse": 31,
           "text": "O cavallo prepara-se para o dia da batalha, porém do Senhor vem a victoria."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 22,
@@ -3378,6 +3457,12 @@
           "chapter": 22,
           "verse": 29,
           "text": "Viste a um homem ligeiro na sua obra? perante reis será posto: não será posto perante os de baixa sorte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 17,
+          "text": "Ditados dos sábios"
         }
       ]
     },
@@ -3561,7 +3646,8 @@
           "verse": 35,
           "text": "E dirás: Espancaram-me, e não me doeu; maçaram-me, e não o senti; quando virei a despertar? ainda tornarei a buscal-a outra vez"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 24,
@@ -3738,6 +3824,12 @@
           "verse": 34,
           "text": "Assim te sobrevirá a tua pobreza como um caminhante, e a tua necessidade como um homem armado."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 23,
+          "text": "Mais ditados dos sábios"
+        }
       ]
     },
     {
@@ -3884,6 +3976,12 @@
           "chapter": 25,
           "verse": 28,
           "text": "Como a cidade derribada, sem muro, assim é o homem que não pode conter o seu espirito."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mais provérbios de Salomão"
         }
       ]
     },
@@ -4032,7 +4130,8 @@
           "verse": 28,
           "text": "A lingua falsa aborrece aos que ella afflige, e a bocca lubrica obra a ruina."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 27,
@@ -4174,7 +4273,8 @@
           "verse": 27,
           "text": "E a abastança do leite das cabras para o teu sustento, para sustento da tua casa, e para sustento das tuas creadas."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 28,
@@ -4321,7 +4421,8 @@
           "verse": 28,
           "text": "Quando os impios se elevam, os homens se andam escondendo, mas quando perecem, os justos se multiplicam."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 29,
@@ -4463,7 +4564,8 @@
           "verse": 27,
           "text": "Abominação é para os justos o homem iniquo, mas abominação é para o impio o de rectos caminhos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 30,
@@ -4635,6 +4737,12 @@
           "verse": 33,
           "text": "Porque o espremer do leite produz manteiga, e o espremer do nariz produz sangue, e o espremer da ira produz contenda."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ditados de Agur"
+        }
       ]
     },
     {
@@ -4796,6 +4904,16 @@
           "chapter": 31,
           "verse": 31,
           "text": "Thau. Dae-lhe do fructo das suas mãos, e louvem-n'a nas portas as suas obras."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ditados do rei Lemuel"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "A mulher virtuosa"
         }
       ]
     }

@@ -67,8 +67,8 @@
       "keyTakeaway": "Amós se apresenta como pastor de Tecoa relatando visões do julgamento de Deus; Deus declara que punirá Damasco, Gaza, Tiro, Edom e Amom por seus crimes específicos por meio de fogo e exílio.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Ameaças contra diversas nações"
+          "beforeVerse": 3,
+          "text": "Julgamento sobre as nações vizinhas"
         }
       ]
     },
@@ -124,11 +124,7 @@
       "headings": [
         {
           "beforeVerse": 4,
-          "text": "Ameaças contra Judá"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Ameaças contra Israel"
+          "text": "Julgamento de Deus sobre Judá e Israel"
         }
       ]
     },
@@ -180,8 +176,8 @@
       "keyTakeaway": "Privilégio traz responsabilidade. A palavra revelada de Deus torna a profecia inevitável, e o julgamento atingirá os centros religiosos e de luxo de Israel.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "O castigo contra a maldade de Israel"
+          "beforeVerse": 3,
+          "text": "Testemunhas contra Israel"
         }
       ]
     },
@@ -237,11 +233,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ameaças contra as mulheres de Samaria"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "A cegueira espiritual de Israel"
+          "text": "Israel não aprende"
         }
       ]
     },
@@ -317,11 +309,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Buscai a Deus e vivei"
+          "text": "Chamado ao arrependimento"
         },
         {
-          "beforeVerse": 21,
-          "text": "Deus exige justiça e não sacrifícios"
+          "beforeVerse": 18,
+          "text": "Advertência sobre o julgamento que está por vir"
         }
       ]
     },
@@ -375,12 +367,7 @@
         }
       ],
       "keyTakeaway": "Líderes indulgentes ignoram o colapso nacional e pervertem a justiça. Seu conforto se transformará em cativeiro, e suas jactâncias em derrota.",
-      "headings": [
-        {
-          "beforeVerse": 1,
-          "text": "A corrupção e a destruição de Israel"
-        }
-      ]
+      "headings": []
     },
     {
       "id": "amos-7",
@@ -433,11 +420,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A visão do gafanhoto, do fogo e do prumo"
+          "text": "Visão dos gafanhotos"
         },
         {
-          "beforeVerse": 10,
-          "text": "Amós acusado como conspirador"
+          "beforeVerse": 4,
+          "text": "Visão do fogo"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Visão do prumo"
         }
       ]
     },
@@ -514,11 +505,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A visão de um cesto de frutos"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "A ruína de Israel está perto"
+          "text": "Visão das frutas maduras"
         }
       ]
     },
@@ -576,11 +563,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os juízos de Deus são inevitáveis"
+          "text": "Visão de Deus junto ao altar"
         },
         {
           "beforeVerse": 11,
-          "text": "Restauração do Israel espiritual"
+          "text": "Promessa de restauração"
         }
       ]
     }

@@ -92,6 +92,16 @@
           "verse": 16,
           "text": "Rase-toi, coupe ta chevelure, A cause de tes enfants chéris! Rends-toi chauve comme l’aigle, Car ils s’en vont en captivité loin de toi!"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Le\nSeigneur\naccuse son peuple"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Lamentation sur les villes de Juda"
+        }
       ]
     },
     {
@@ -164,6 +174,20 @@
           "verse": 13,
           "text": "Celui qui fera la brèche montera devant eux; Ils feront la brèche, franchiront la porte et en sortiront; Leur roi marchera devant eux, Et l’Éternel sera à leur tête."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ceux qui abusent de leurs pouvoirs"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Ceux qui contestent le message du prophète"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Dieu rassemblera le reste d'Israël"
+        }
       ]
     },
     {
@@ -230,6 +254,20 @@
           "chapter": 3,
           "verse": 12,
           "text": "C’est pourquoi, à cause de vous, Sion sera labourée comme un champ, Jérusalem deviendra un monceau de pierres, Et la montagne du temple une sommité couverte de bois."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Avertissement aux chefs indignes"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Contre les prophètes qui égarent Israël"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Michée annonce la ruine de Jérusalem"
         }
       ]
     },
@@ -308,6 +346,20 @@
           "verse": 14,
           "text": "Maintenant, fille de troupes, rassemble tes troupes! On nous assiège; Avec la verge on frappe sur la joue le juge d’Israël."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jérusalem, capitale de la paix"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Le\nSeigneur\nrégnera à Jérusalem"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Epreuves et délivrance de Jérusalem"
+        }
       ]
     },
     {
@@ -384,6 +436,20 @@
           "chapter": 5,
           "verse": 14,
           "text": "J’exercerai ma vengeance avec colère, avec fureur, sur les nations Qui n’ont pas écouté."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Beth-Léhem, ville du roi sauveur"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Le reste d'Israël parmi les nations"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Le\nSeigneur\nretranchera tous les faux appuis"
         }
       ]
     },
@@ -471,6 +537,20 @@
           "chapter": 6,
           "verse": 16,
           "text": "On observe les coutumes d’Omri Et toute la manière d’agir de la maison d’Achab, Et vous marchez d’après leurs conseils; C’est pourquoi je te livrerai à la destruction, Je ferai de tes habitants un sujet de raillerie, Et vous porterez l’opprobre de mon peuple."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le procès du\nSeigneur\net de son peuple"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Ce que le\nSeigneur\ndemande de l'homme"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Le\nSeigneur\npunit la tromperie et la violence"
         }
       ]
     },
@@ -578,6 +658,16 @@
           "chapter": 7,
           "verse": 20,
           "text": "Tu témoigneras de la fidélité à Jacob, De la bonté à Abraham, Comme tu l’as juré à nos pères aux jours d’autrefois."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il n'y a plus d'homme droit"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Espérance et prière du peuple"
         }
       ]
     }

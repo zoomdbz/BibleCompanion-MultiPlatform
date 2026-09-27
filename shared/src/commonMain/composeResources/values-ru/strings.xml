@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">Структурированное руководство по чтению с еврейскими идиомами и связями с праздниками</string>
     <string name="prophecy_revelation_timeline">Хронология Откровения</string>
     <string name="prophecy_revelation_timeline_desc">Печати, трубы, чаши, возвращение Христа, Тысячелетнее царство и Новый Иерусалим</string>
+    <string name="prophecy_second_coming_rapture">Второе пришествие и восхищение</string>
+    <string name="prophecy_second_coming_rapture_desc">Возвращение Христа, воскресение, собрание верующих, гнев и основные взгляды на сроки</string>
     <!-- Data -->
     <string name="data_section">Данные</string>
     <string name="data_section_desc">Переносите закладки, сохранённые стихи, выделения и метки между устройствами. Нажмите Экспорт, чтобы скопировать данные в буфер обмена, затем вставьте их в Импорт на другом устройстве. Настройки и предпочтения не включены.</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">Путь в Иерусалим и служение в Иудее</string>
     <string name="chronology_gospel_final_week">Последняя неделя и распятие</string>
     <string name="chronology_gospel_resurrection">Воскресение</string>
+    <string name="daily_notification_title">Уведомления</string>
+    <string name="daily_notification_toggle">Ежедневный библейский стих</string>
+    <string name="daily_notification_desc">Получайте стих в выбранное местное время. Нажмите на уведомление, чтобы прочитать его, или выберите «Копировать» или «Поделиться». Устройство может задержать доставку.</string>
+    <string name="daily_notification_time">Время уведомления</string>
+    <string name="daily_notification_save">Сохранить время</string>
+    <string name="daily_notification_ios_window">iOS планирует стихи на срок до 60 дней. Регулярно открывайте приложение, чтобы обновлять список.</string>
+    <string name="daily_notification_permission_denied">Уведомления заблокированы. Разрешите их в настройках устройства, затем снова включите эту функцию.</string>
+    <string name="daily_notification_system_settings">Настройки уведомлений устройства</string>
 </resources>

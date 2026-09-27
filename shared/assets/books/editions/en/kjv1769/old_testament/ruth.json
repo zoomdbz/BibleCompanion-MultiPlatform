@@ -127,6 +127,20 @@
           "verse": 22,
           "text": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Naomi Becomes a Widow"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Ruth’s Loyalty to Naomi"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "The Return to Bethlehem"
+        }
       ]
     },
     {
@@ -253,6 +267,12 @@
           "verse": 23,
           "text": "So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Boaz Meets Ruth"
+        }
       ]
     },
     {
@@ -352,6 +372,12 @@
           "chapter": 3,
           "verse": 18,
           "text": "Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ruth’s Redemption Assured"
         }
       ]
     },
@@ -472,6 +498,20 @@
           "chapter": 4,
           "verse": 22,
           "text": "And Obed begat Jesse, and Jesse begat David."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Boaz Redeems Ruth"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Boaz Marries Ruth"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "The Line of David"
         }
       ]
     }

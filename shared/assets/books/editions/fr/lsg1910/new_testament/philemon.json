@@ -137,6 +137,24 @@
           "verse": 25,
           "text": "Que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit!"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "L'amour et la foi de Philémon"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "L'accueil que Philémon doit à Onésime"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Recommandation et salutations finales"
+        }
       ]
     }
   ]

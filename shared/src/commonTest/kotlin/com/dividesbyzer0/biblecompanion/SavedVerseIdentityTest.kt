@@ -7,7 +7,7 @@ import kotlin.test.assertTrue
 class SavedVerseIdentityTest {
 
   @Test
-  fun legacyAndEditionAwareSavesUseTheirVerseAnchor() {
+  fun legacySavesBelongToTheDefaultEditionNotEveryEdition() {
     val legacy = SavedVerse(
       collection = "new_testament",
       bookId = "john",
@@ -32,9 +32,34 @@ class SavedVerseIdentityTest {
     )
     val nextVerse = kjv.copy(verseStart = 5, verseEnd = 5, text = "KJV text (5:5).")
 
-    assertTrue(legacy.sameScriptureLocation(kjv))
+    assertTrue(legacy.sameScriptureLocation(kjv.copy(editionId = BibleEditions.BSB)))
+    assertFalse(legacy.sameScriptureLocation(kjv))
     assertFalse(legacy.sameScriptureLocation(nextVerse))
     assertFalse(legacy.sameScriptureLocation(kjv.copy(sourceLanguage = "ru")))
+  }
+
+  @Test
+  fun equalNumbersInDifferentEditionsCannotOverwriteOrHighlightEachOther() {
+    val modern = SavedVerse(
+      collection = "old_testament", bookId = "psalms", storyId = "psalms-8",
+      bulletIndex = 4, chapter = 8, verseStart = 5, editionId = "sch2000",
+      sourceLanguage = "de", text = "Modern passage (8:5).", ref = "Psalms 8:5", timestamp = 0
+    )
+    val traditional = modern.copy(editionId = BibleEditions.LUTHER_1912, text = "Another passage (8:5).")
+    assertFalse(modern.sameScriptureLocation(traditional))
+    assertTrue(modern.belongsToEdition("de", "sch2000"))
+    assertFalse(modern.belongsToEdition("de", BibleEditions.LUTHER_1912))
+    assertFalse(modern.belongsToEdition("en", "sch2000"))
+  }
+
+  @Test
+  fun languageAliasesAndLegacyKjvIdPreserveIdentity() {
+    val saved = SavedVerse(
+      collection = "new_testament", bookId = "john", storyId = "john-1",
+      bulletIndex = 0, chapter = 1, verseStart = 1, editionId = "kjv",
+      sourceLanguage = "en-US", text = "Text (1:1).", ref = "John 1:1", timestamp = 0
+    )
+    assertTrue(saved.sameScriptureLocation(saved.copy(sourceLanguage = "en", editionId = BibleEditions.KJV_1769)))
   }
 
   @Test

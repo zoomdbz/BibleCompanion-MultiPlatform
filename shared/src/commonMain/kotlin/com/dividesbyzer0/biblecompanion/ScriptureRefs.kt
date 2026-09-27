@@ -98,9 +98,14 @@ private const val DN_OPEN_TOKEN = "\uFDD2"
 private const val DN_CLOSE_TOKEN = "\uFDD3"
 private const val PRESERVED_NAME_OPEN_TOKEN = "\uFDD4"
 private const val PRESERVED_NAME_CLOSE_TOKEN = "\uFDD5"
+private const val CURRENT_DIVINE_NAME_TOKEN = "\uFDD6"
 
 private val existingDnOpen = Regex("\\[DN\\s*]", RegexOption.IGNORE_CASE)
 private val existingDnClose = Regex("\\[/\\s*DN\\s*]", RegexOption.IGNORE_CASE)
+private val existingDnSpan = Regex(
+  "\\[DN\\s*](.*?)\\[/\\s*DN\\s*]",
+  setOf(RegexOption.IGNORE_CASE, RegexOption.DOT_MATCHES_ALL)
+)
 private val scriptureInlineTag = Regex(
   "\\[(?:/\\s*)?(?:J|DN|ADD)\\s*]",
   RegexOption.IGNORE_CASE
@@ -395,6 +400,84 @@ private fun replaceNameModeSegment(text: String, lang: String, isOt: Boolean): S
   return explicitLatinDivineName.replace(t, DIVINE_NAME_TOKEN)
 }
 
+/**
+ * Converts a source-proven [DN] span into the locale's existing traditional
+ * sentinel form before applying a non-traditional display mode. The stored
+ * text inside the span remains publisher-exact; this normalization exists
+ * only in the rendered copy and keeps surrounding grammar handling intact.
+ */
+private fun normalizeMarkedDivineNameContent(source: String, lang: String): String {
+  val latinBoundaryStart = "(?<![\\p{L}\\p{Mn}])(?:"
+  val latinBoundaryEnd = ")(?![\\p{L}\\p{Mn}])"
+  fun replaceLatin(pattern: String, replacement: (String) -> String): String =
+    Regex(latinBoundaryStart + pattern + latinBoundaryEnd, RegexOption.IGNORE_CASE)
+      .replace(source) { replacement(it.value) }
+
+  return when (lang) {
+    "en" -> replaceLatin("LORD|GOD|Yahweh|YHWH|YHVH|Yahuah|Yahveh|Jehovah|Jah") {
+      if (it.equals("GOD", ignoreCase = true)) "GOD" else "LORD"
+    }
+    "es" -> replaceLatin("Señor|Jehová|Yahveh|Yahvé") { "SEÑOR" }
+    "pt" -> replaceLatin("Senhor|Javé|Jeová") { "SENHOR" }
+    "fr" -> replaceLatin("Éternel|Seigneur|Dieu|Yahvé|Yahveh") {
+      when {
+        // NBS Genesis 15:2,8 marks Dieu as a divine-name span. This branch
+        // runs only inside source-proven [DN] markup; unmarked Dieu is never
+        // treated as the Tetragrammaton.
+        it.equals("Dieu", ignoreCase = true) -> DIVINE_NAME_TOKEN
+        it.equals("Seigneur", ignoreCase = true) -> "SEIGNEUR"
+        else -> "ÉTERNEL"
+      }
+    }
+    "de" -> replaceLatin("Herrn?|Gottes|Gott|Jahwe|Jehova") {
+      when {
+        // SCH2000 Exodus 23:17 marks Gottes as a divine-name span. German
+        // genitive grammar belongs outside the configured replacement name.
+        it.equals("Gottes", ignoreCase = true) -> DIVINE_NAME_TOKEN + "s"
+        // SCH2000 also marks exact Gott spans. The publisher wrapper is the
+        // proof; ordinary untagged Gott remains untouched.
+        it.equals("Gott", ignoreCase = true) -> DIVINE_NAME_TOKEN
+        it.endsWith("n", ignoreCase = true) -> "HERRN"
+        else -> "HERR"
+      }
+    }
+    "it" -> replaceLatin("Signore|Geova") { "SIGNORE" }
+    "ru" -> Regex(
+      "(?<![\\p{L}\\p{Mn}])(?:Яхве|Иегова|Господ(?:ь|а|у|ом|е|ень|нее|него|нему|ним|нем|них|няя|нюю|ней|ня|ню|не|ни))(?![\\p{L}\\p{Mn}])",
+      RegexOption.IGNORE_CASE
+    ).replace(source, DIVINE_NAME_TOKEN)
+    "ar" -> when (source) {
+      // These exact SAB forms occur only in the reviewed source-proven [DN]
+      // spans stored by the Arabic repair ledger. Keep Allah and Mawla out of
+      // the untagged/global detector; only their explicit wrapper authorizes a
+      // configurable divine-name replacement.
+      "اللهِ", "اللهُ", "اللهَ", "الْمَوْلَى", "لّٰهِ", "لْمَوْلَى" ->
+        DIVINE_NAME_TOKEN
+      else -> arabicYhwh.replace(arabicLord.replace(source, DIVINE_NAME_TOKEN), DIVINE_NAME_TOKEN)
+    }
+    "hi" -> Regex("यहोवा|याहवे|प्रभु").replace(source, DIVINE_NAME_TOKEN)
+    "ko" -> Regex("여호와|야훼|주님|주").replace(source, DIVINE_NAME_TOKEN)
+    "ja" -> Regex("ヤハウェ|ヱホバ|エホバ|主").replace(source, DIVINE_NAME_TOKEN)
+    "zh-Hans" -> Regex("耶和华|雅威|上主").replace(source, DIVINE_NAME_TOKEN)
+    "zh-Hant" -> Regex("耶和華|雅威|上主").replace(source, DIVINE_NAME_TOKEN)
+    else -> source
+  }
+}
+
+private fun normalizeMarkedDivineNamesForReplacement(
+  text: String,
+  lang: String,
+  localizedName: String
+): String =
+  existingDnSpan.replace(text) { match ->
+    val source = match.groupValues[1]
+    if (source == localizedName) {
+      CURRENT_DIVINE_NAME_TOKEN
+    } else {
+      normalizeMarkedDivineNameContent(source, lang)
+    }
+  }
+
 private fun traditionalWrap(value: String): String = DN_OPEN_TOKEN + value + DN_CLOSE_TOKEN
 
 private fun highlightEnglishOtTitles(text: String): String {
@@ -515,7 +598,9 @@ internal fun applyDivineName(
     collection == "pseudepigrapha"
 
   if (mode == "traditional") {
-    if (!colorActive) return text
+    if (!colorActive) {
+      return existingDnClose.replace(existingDnOpen.replace(text, ""), "")
+    }
     val traditionalName = traditionalDivineName(lk)
     return mapOutsideDivineNameTags(text) { segment ->
       highlightTraditionalSegment(segment, lk, isOt)
@@ -527,9 +612,17 @@ internal fun applyDivineName(
 
   val localizedName = localizedDivineName(mode, lk)
   val renderedName = if (colorActive) "[DN]$localizedName[/DN]" else localizedName
-  return mapOutsideDivineNameTags(text) { segment ->
-    replaceNameModeSegment(segment, lk, isOt).replace(DIVINE_NAME_TOKEN, renderedName)
-  }
+  val sourceMarked = normalizeMarkedDivineNamesForReplacement(text, lk, localizedName)
+  val replaced = replaceNameModeSegment(sourceMarked, lk, isOt)
+    .replace(DIVINE_NAME_TOKEN, renderedName)
+    .replace(CURRENT_DIVINE_NAME_TOKEN, renderedName)
+  // NVI Exodus 3:14 marks God's self-identification with [DN], but these
+  // phrases are not substitutes for the Tetragrammaton. Keep their exact
+  // publisher wording; remove only their color markup when color is off.
+  return if (lk == "es" && isOt && !colorActive) replaced
+    .replace("[DN]Yo soy el que soy[/DN]", "Yo soy el que soy")
+    .replace("[DN]Yo soy[/DN]", "Yo soy")
+  else replaced
 }
 
 private val aliasJson = Json { ignoreUnknownKeys = true }
@@ -782,7 +875,9 @@ object ScriptureRefs {
     defaultBook: String? = null,
     allowRelativeInParensOnly: Boolean = false,
     textStyle: TextStyle = MaterialTheme.typography.bodyMedium,
-    onNonLinkClick: (() -> Unit)? = null
+    onNonLinkClick: (() -> Unit)? = null,
+    referenceEditionId: String? = null,
+    referenceLanguage: String? = null
   ) {
     Internal(
       rawText = text,
@@ -794,7 +889,9 @@ object ScriptureRefs {
       defaultBook = defaultBook,
       textStyle = textStyle,
       collection = collection,
-      onNonLinkClick = onNonLinkClick
+      onNonLinkClick = onNonLinkClick,
+      referenceEditionId = referenceEditionId,
+      referenceLanguage = referenceLanguage
     )
   }
 
@@ -804,7 +901,8 @@ object ScriptureRefs {
     prefs: PrefsState,
     modifier: Modifier = Modifier,
     inlineMarkdown: Boolean = false,
-    textStyle: TextStyle = MaterialTheme.typography.bodyMedium
+    textStyle: TextStyle = MaterialTheme.typography.bodyMedium,
+    referenceEditionId: String? = null
   ) {
     Internal(
       rawText = text,
@@ -814,7 +912,8 @@ object ScriptureRefs {
       inlineMarkdown = inlineMarkdown,
       modifier = modifier,
       textStyle = textStyle,
-      collection = "old_testament"
+      collection = "old_testament",
+      referenceEditionId = referenceEditionId
     )
   }
 
@@ -829,10 +928,12 @@ object ScriptureRefs {
     textStyle: TextStyle,
     collection: String,
     defaultBook: String? = null,
-    onNonLinkClick: (() -> Unit)? = null
+    onNonLinkClick: (() -> Unit)? = null,
+    referenceEditionId: String? = null,
+    referenceLanguage: String? = null
   ) {
     val defaultEntry: BookEntry? = books.firstOrNull {
-      it.canon.equals(defaultBook, ignoreCase = true)
+      it.canon.equals(defaultBook, ignoreCase = true) || assetBookId(it) == defaultBook
     }
     val ctx = LocalPlatformContext.current
     val linkStyle = SpanStyle(
@@ -845,7 +946,11 @@ object ScriptureRefs {
     var dialog by remember { mutableStateOf<SwapDialog?>(null) }
     var noReaderDialog by remember { mutableStateOf(false) }
     var navGate by remember { mutableStateOf(false) }
-    val internalNav = LocalInternalNavigate.current
+    val editionNav = LocalEditionNavigate.current
+
+    fun internalTarget(payload: RefPayload): EditionDestination = derivedInternalNavArgs(
+      ctx, payload, prefs.internalBibleVersion, referenceEditionId, referenceLanguage
+    )
 
     fun openUrl(u: String) = platformOpenUrl(ctx, u)
 
@@ -867,17 +972,7 @@ object ScriptureRefs {
     // Normalize only the separate scanner copy. Every replacement stays one code
     // point wide so annotation offsets remain aligned while displayed Scripture
     // retains its original compatibility characters.
-    val scanText = buildString(displayText.length) {
-      for (ch in displayText) {
-        append(
-          when {
-            ch == '\u3001' -> ','
-            ch in '\uFF01'..'\uFF5E' -> (ch.code - 0xFEE0).toChar()
-            else -> ch
-          }
-        )
-      }
-    }
+    val scanText = normalizeReferenceScanText(displayText)
 
     val rawDisplayParts = displayText.split(Regex("[;\uFF1B]"))
     val rawScanParts = scanText.split(Regex("[;\uFF1B]"))
@@ -918,6 +1013,22 @@ object ScriptureRefs {
       fun toggleAddedWord() {
         if (addedWordOn) pop() else pushStyle(SpanStyle(fontStyle = FontStyle.Italic))
         addedWordOn = !addedWordOn
+      }
+      fun appendReference(
+        display: String,
+        displayTailStart: Int,
+        normalizedTail: String,
+        payload: RefPayload
+      ) {
+        var cursor = 0
+        for (segment in referenceLinkSegments(display, displayTailStart, normalizedTail)) {
+          if (cursor < segment.start) append(display.substring(cursor, segment.start))
+          pushStringAnnotation("BIBLE_REF", payload.copy(tail = segment.tail).encode())
+          withStyle(linkStyle) { append(display.substring(segment.start, segment.endExclusive)) }
+          pop()
+          cursor = segment.endExclusive
+        }
+        if (cursor < display.length) append(display.substring(cursor))
       }
       var pIdx = 0
       while (pIdx <= lastIdx) {
@@ -1013,9 +1124,12 @@ object ScriptureRefs {
                   readerMode = prefs.readerMode,
                   bookId = assetBookId(entry)
                 )
-                pushStringAnnotation("BIBLE_REF", payload.encode())
-                withStyle(linkStyle) { append(display) }
-                pop()
+                appendReference(
+                  display = display,
+                  displayTailStart = matchedBook.length + 1,
+                  normalizedTail = tail,
+                  payload = payload
+                )
 
                 carry = entry
                 i = tailEnd
@@ -1041,9 +1155,12 @@ object ScriptureRefs {
                       readerMode = prefs.readerMode,
                       bookId = assetBookId(target)
                     )
-                    pushStringAnnotation("BIBLE_REF", payload.encode())
-                    withStyle(linkStyle) { append(display) }
-                    pop()
+                    appendReference(
+                      display = display,
+                      displayTailStart = 0,
+                      normalizedTail = tail,
+                      payload = payload
+                    )
                     i = relEnd
                     continue
                   }
@@ -1111,16 +1228,10 @@ object ScriptureRefs {
             ) { Text("$dcSwap → ${d.suggestVersion}") }
             // Read in-app: route to the internal reader for this DC ref so users
             // in non-native-DC langs aren't forced into English.
-            if (d.internalCollection != null && d.internalBookId != null && d.internalStoryId != null) {
+            if (d.internalTarget != null) {
               TextButton(
                 onClick = {
-                  internalNav(
-                    d.internalCollection,
-                    d.internalBookId,
-                    d.internalStoryId,
-                    d.internalVerse,
-                    d.internalVerseEnd
-                  )
+                  editionNav(d.internalTarget)
                   navGate = false; dialog = null
                 },
                 modifier = Modifier.fillMaxWidth()
@@ -1160,10 +1271,7 @@ object ScriptureRefs {
           }
 
           if (payload.isInternal) {
-            val bookId = payload.assetId
-            val target = parseInternalRefTail(payload.assetId, payload.tail)
-            val storyId = "$bookId-${target.chapter}"
-            internalNav(payload.collection, bookId, storyId, target.verse, target.verseEnd)
+            editionNav(internalTarget(payload))
             navGate = false
             return@let
           }
@@ -1180,12 +1288,11 @@ object ScriptureRefs {
                   isApocryphaBook(payload.canonBook) ||
                   payload.collection in setOf("deuterocanonical", "apocrypha", "pseudepigrapha")
 
-          val resolved = Linker.linkForReader(
-            fullRef,
-            payload.translation,
-            payload.readerMode,
-            payload.appLanguage
+          val resolved = editionAwareExternalLink(
+            ctx, fullRef, payload.assetId, prefs,
+            referenceEditionId ?: BibleEditions.defaultForLanguage(payload.appLanguage)
           ) ?: run {
+            editionNav(internalTarget(payload))
             navGate = false
             return@let
           }
@@ -1197,16 +1304,11 @@ object ScriptureRefs {
           ) ?: payload.translation
 
           if (isDc && !resolvedVersion.equals(selectedProviderVersion, ignoreCase = true)) {
-            val intArgs = derivedInternalNavArgs(payload)
             dialog = SwapDialog(
               currentVersion = selectedProviderVersion,
               suggestVersion = resolvedVersion,
               fallbackUrl = resolvedUrl,
-              internalCollection = intArgs.collection,
-              internalBookId = intArgs.bookId,
-              internalStoryId = intArgs.storyId,
-              internalVerse = intArgs.verse,
-              internalVerseEnd = intArgs.verseEnd
+              internalTarget = internalTarget(payload)
             )
             navGate = false
             return@let
@@ -1396,7 +1498,7 @@ object ScriptureRefs {
     }
   }
 
-  private fun scanRefTail(s: String, start: Int): Int {
+  internal fun scanRefTail(s: String, start: Int): Int {
     var i = start
     fun dash(c: Char?) = c == '\u2010' || c == '\u2011' || c == '\u2013' || c == '\u2014' ||
       c == '-' || c == '\uFF0D' || c == '\u301C' || c == '\uFF5E'
@@ -1450,6 +1552,18 @@ object ScriptureRefs {
           val digitStart = i
           if (!digits()) return i
           if (scanBookAt(s, digitStart) != null) { i = commaPos; return commaPos }
+          localizedVerseSuffix()
+        }
+        '.' -> {
+          // German references use a comma (or sometimes a period) between
+          // chapter and verse, then a period between non-contiguous verses:
+          // "Matthaeus 26,31.56". Accept that second period only after this
+          // tail has already established continental chapter/verse grammar;
+          // never normalize periods globally, where they may be prose decimals.
+          if (!hasEuroVerseSep) return i
+          val periodPos = i
+          i++; skip()
+          if (!digits()) return periodPos
           localizedVerseSuffix()
         }
         '\u2010', '\u2011', '\u2013', '-', '\u2014', '\uFF0D', '\u301C', '\uFF5E' -> {
@@ -1623,6 +1737,144 @@ object ScriptureRefs {
       .replace(Regex("[\u7AE0\uC7A5]\\s*[\u7B2C\uC81C]?\\s*"), ":")
       .replace("[\u7BC0\u8282\uC808]".toRegex(), "")
     return if (r.endsWith(":")) r.dropLast(1) else r
+  }
+
+  // Scanner normalization must remain exactly one code point in and one code
+  // point out so annotations still address the untouched display string.
+  internal fun normalizeReferenceScanText(value: String): String = buildString(value.length) {
+    for (ch in value) {
+      append(
+        when {
+          ch == '\u060C' || ch == '\u3001' -> ','
+          ch in '\uFF01'..'\uFF5E' -> (ch.code - 0xFEE0).toChar()
+          else -> ch
+        }
+      )
+    }
+  }
+
+  internal data class ReferenceLinkSegment(
+    val start: Int,
+    val endExclusive: Int,
+    val tail: String
+  )
+
+  /**
+   * Plans independently navigable annotations without changing visible text.
+   * Cross-chapter ranges become two endpoint links. Non-contiguous verse lists
+   * become one link per component, with the book and active chapter inherited.
+   * The returned offsets are end-exclusive AnnotatedString offsets into
+   * [display].
+   */
+  internal fun referenceLinkSegments(
+    display: String,
+    displayTailStart: Int,
+    normalizedTail: String
+  ): List<ReferenceLinkSegment> {
+    val tailDisplay = display.substring(displayTailStart)
+    // This scan copy is exactly the same length as tailDisplay. Fullwidth and
+    // Arabic punctuation can therefore drive parsing while offsets still point
+    // into the untouched localized display string.
+    val scan = normalizeReferenceScanText(tailDisplay)
+    fun fallback() = listOf(ReferenceLinkSegment(0, display.length, normalizedTail))
+    fun skipSpaces(from: Int): Int {
+      var index = from
+      while (scan.getOrNull(index)?.isWhitespace() == true) index++
+      return index
+    }
+    fun digits(from: Int): IntRange? {
+      val start = from
+      var end = start
+      while (scan.getOrNull(end)?.isDigit() == true) end++
+      return if (end > start) start until end else null
+    }
+    fun isDash(ch: Char?): Boolean = ch == '-' || ch == '\u2010' || ch == '\u2011' ||
+      ch == '\u2013' || ch == '\u2014' || ch == '\uFF0D' || ch == '\u301C' || ch == '\uFF5E'
+
+    var cursor = skipSpaces(0)
+    val chapterDigits = digits(cursor) ?: return fallback()
+    val firstChapter = scan.substring(chapterDigits)
+    cursor = skipSpaces(chapterDigits.last + 1)
+    val chapterSeparator = scan.getOrNull(cursor)
+    if (chapterSeparator != ':' && chapterSeparator != ',' && chapterSeparator != '.') return fallback()
+    cursor = skipSpaces(cursor + 1)
+    val firstVerseDigits = digits(cursor) ?: return fallback()
+    val firstVerse = scan.substring(firstVerseDigits)
+    cursor = skipSpaces(firstVerseDigits.last + 1)
+
+    val segments = mutableListOf<ReferenceLinkSegment>()
+    var activeChapter = firstChapter
+    var firstTail = "$firstChapter:$firstVerse"
+    var firstEnd = firstVerseDigits.last + 1
+
+    if (isDash(scan.getOrNull(cursor))) {
+      val afterDash = skipSpaces(cursor + 1)
+      val rangeDigits = digits(afterDash) ?: return fallback()
+      val afterRange = skipSpaces(rangeDigits.last + 1)
+      val possibleChapterSeparator = scan.getOrNull(afterRange)
+      val possibleEndVerseStart = skipSpaces(afterRange + 1)
+      val possibleEndVerse = if (possibleChapterSeparator == chapterSeparator) {
+        digits(possibleEndVerseStart)
+      } else null
+
+      if (possibleEndVerse != null) {
+        // The separator after the dash matches the established chapter/verse
+        // separator, so this is a cross-chapter range, not a German verse list.
+        segments += ReferenceLinkSegment(
+          0,
+          displayTailStart + firstVerseDigits.last + 1,
+          firstTail
+        )
+        activeChapter = scan.substring(rangeDigits)
+        val endVerse = scan.substring(possibleEndVerse)
+        segments += ReferenceLinkSegment(
+          displayTailStart + rangeDigits.first,
+          displayTailStart + possibleEndVerse.last + 1,
+          "$activeChapter:$endVerse"
+        )
+        cursor = skipSpaces(possibleEndVerse.last + 1)
+      } else {
+        val rangeEnd = scan.substring(rangeDigits)
+        firstTail += "-$rangeEnd"
+        firstEnd = rangeDigits.last + 1
+        cursor = afterRange
+      }
+    }
+
+    if (segments.isEmpty()) {
+      segments += ReferenceLinkSegment(0, displayTailStart + firstEnd, firstTail)
+    }
+
+    while (cursor < scan.length) {
+      val separatorPos = cursor
+      val separator = scan.getOrNull(separatorPos)
+      val isListSeparator = separator == ',' ||
+        (separator == '.' && (chapterSeparator == ',' || chapterSeparator == '.'))
+      if (!isListSeparator) return fallback()
+
+      val verseStart = skipSpaces(separatorPos + 1)
+      val verseDigits = digits(verseStart) ?: return fallback()
+      val verse = scan.substring(verseDigits)
+      var componentTail = "$activeChapter:$verse"
+      var componentEnd = verseDigits.last + 1
+      cursor = skipSpaces(componentEnd)
+
+      if (isDash(scan.getOrNull(cursor))) {
+        val rangeStart = skipSpaces(cursor + 1)
+        val rangeDigits = digits(rangeStart) ?: return fallback()
+        componentTail += "-${scan.substring(rangeDigits)}"
+        componentEnd = rangeDigits.last + 1
+        cursor = skipSpaces(componentEnd)
+      }
+
+      segments += ReferenceLinkSegment(
+        displayTailStart + verseDigits.first,
+        displayTailStart + componentEnd,
+        componentTail
+      )
+    }
+
+    return segments
   }
 
   // German, French and the other continental conventions separate chapter from
@@ -1848,32 +2100,41 @@ object ScriptureRefs {
     val fallbackUrl: String,
     // Internal nav payload so "Read in-app" can route to the in-app reader
     // for the same DC reference. Null when internal nav can't be derived.
-    val internalCollection: String? = null,
-    val internalBookId: String? = null,
-    val internalStoryId: String? = null,
-    val internalVerse: Int? = null,
-    val internalVerseEnd: Int? = null
-  )
-
-  private data class InternalNavArgs(
-    val collection: String,
-    val bookId: String,
-    val storyId: String,
-    val verse: Int?,
-    val verseEnd: Int?
+    val internalTarget: EditionDestination? = null
   )
 
   // Mirrors the inline parsing inside BibleRefAnnotated's onClick — see the
   // payload.isInternal branch — so the SwapDialog can offer "Read in-app".
-  private fun derivedInternalNavArgs(payload: RefPayload): InternalNavArgs {
+  private fun derivedInternalNavArgs(
+    context: PlatformContext,
+    payload: RefPayload,
+    selectedEdition: String,
+    referenceEdition: String?,
+    referenceLanguage: String?
+  ): EditionDestination {
     val bookId = payload.assetId
     val target = parseInternalRefTail(bookId, payload.tail)
-    return InternalNavArgs(
+    val language = LocaleUtils.effectiveAssetTag(referenceLanguage ?: payload.appLanguage)
+    val source = referenceEdition ?: BibleEditions.defaultForLanguage(language)
+    val requested = BibleEditions.effective(language, selectedEdition)
+    val mapped = EditionReferenceMaps.resolve(
+      context, language, bookId, source, requested,
+      VerseAnchor(target.chapter.toInt(), target.verse ?: 1, target.verseEnd ?: target.verse ?: 1)
+    )
+    // If an exact correspondence cannot be represented, retain the reference's
+    // source edition instead of highlighting unrelated words by number.
+    val edition = if (mapped == null) source else requested
+    val chapter = mapped?.chapter ?: target.chapter.toInt()
+    val book = ContentRepo.loadBookOrNull(context, payload.collection, bookId, language, edition)
+    val storyId = book?.let { ChapterLocator.build(it).byChapter[chapter] } ?: "$bookId-$chapter"
+    return EditionDestination(
       payload.collection,
       bookId,
-      "$bookId-${target.chapter}",
-      target.verse,
-      target.verseEnd
+      storyId,
+      if (target.verse == null) null else mapped?.verseStart ?: target.verse,
+      if (target.verse == null) null else mapped?.verseEnd ?: target.verseEnd,
+      language,
+      edition
     )
   }
 }

@@ -345,6 +345,8 @@
     <string name="prophecy_revelation_desc">Structured reading guide with Hebraic idioms and feast connections</string>
     <string name="prophecy_revelation_timeline">Revelation Timeline</string>
     <string name="prophecy_revelation_timeline_desc">The seals, trumpets, bowls, Christ's return, the millennium, and New Jerusalem</string>
+    <string name="prophecy_second_coming_rapture">Second Coming and Rapture</string>
+    <string name="prophecy_second_coming_rapture_desc">Christ's return, resurrection, gathering, wrath, and the major timing views</string>
     <string name="chapters_label">Chapters</string>
     <string name="verse_label">Verse</string>
     <string name="verses_label">Verses</string>
@@ -405,4 +407,12 @@
     <string name="chronology_gospel_journey">Journey to Jerusalem and Judean ministry</string>
     <string name="chronology_gospel_final_week">Final week and crucifixion</string>
     <string name="chronology_gospel_resurrection">Resurrection</string>
+    <string name="daily_notification_title">Notifications</string>
+    <string name="daily_notification_toggle">Daily Verse of the Day</string>
+    <string name="daily_notification_desc">Receive a verse at your chosen local time. Tap to read it, or use Copy or Share. Your device may delay delivery.</string>
+    <string name="daily_notification_time">Notification time</string>
+    <string name="daily_notification_save">Save time</string>
+    <string name="daily_notification_ios_window">iOS queues up to 60 days of verses. Open the app regularly to refresh them.</string>
+    <string name="daily_notification_permission_denied">Notifications are blocked. Allow them in your device settings, then turn this on.</string>
+    <string name="daily_notification_system_settings">Device notification settings</string>
 </resources>

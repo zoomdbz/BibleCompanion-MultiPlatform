@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "language": "de",
+  "editionId": "luther1912",
+  "purpose": "Reviewed exceptions where DeepBible LUTD red-letter markup conflicts with pinned KJV wj, omits a span, or differs from exact imported text.",
+  "rows": [
+    {"reference":"matthew 21:19","spans":["Nun wachse auf dir hinfort nimmermehr eine Frucht!"],"reason":"LUTD incorrectly includes the fig tree's withering as Jesus' speech."},
+    {"reference":"matthew 22:19","spans":["Weiset mir die Zinsmünze!"],"reason":"LUTD incorrectly includes the disciples' action after Jesus' command."},
+    {"reference":"matthew 22:42","spans":["Wie dünkt euch um Christus? wes Sohn ist er?"],"reason":"LUTD includes the narrator's reporting verb; KJV wj ends before the disciples' answer."},
+    {"reference":"matthew 22:43","spans":["Wie nennt ihn denn David im Geist einen Herrn, da er sagt:"],"reason":"LUTD colors the narrator's speech introduction; KJV wj begins after it."},
+    {"reference":"matthew 23:2","spans":["Auf Mose's Stuhl sitzen die Schriftgelehrten und Pharisäer."],"reason":"LUTD colors the narrator's speech introduction; KJV wj begins after it."},
+    {"reference":"matthew 26:52","spans":["Stecke dein Schwert an seinen Ort! denn wer das Schwert nimmt, der soll durchs Schwert umkommen."],"reason":"LUTD colors the narrator's speech introduction before the semicolon."},
+    {"reference":"matthew 26:56","spans":["Aber das ist alles geschehen, daß erfüllet würden die Schriften der Propheten."],"reason":"LUTD lacks J here; KJV wj marks Jesus' sentence before the disciples flee."},
+    {"reference":"matthew 27:46","spans":["Eli, Eli, lama asabthani?"],"reason":"KJV wj marks the Aramaic utterance, not the narrator's translated gloss."},
+    {"reference":"matthew 28:20","spans":["und lehret sie halten alles, was ich euch befohlen habe. Und siehe, ich bin bei euch alle Tage bis an der Welt Ende."],"reason":"Target omits KJV's following narrator clause; all target text is Jesus' speech."},
+    {"reference":"mark 3:4","spans":["Soll man am Sabbat Gutes tun oder Böses tun, das Leben erhalten oder töten?"],"reason":"LUTD incorrectly includes the crowd's silence."},
+    {"reference":"mark 5:34","spans":["Meine Tochter, Dein Glaube hat dich gesund gemacht; gehe hin mit Frieden und sei gesund von deiner Plage!"],"reason":"LUTD colors the narrator's speech introduction before the semicolon."},
+    {"reference":"mark 5:39","spans":["Was tummelt und weinet ihr? Das Kind ist nicht gestorben, sondern es schläft."],"reason":"German verse 39 includes the crowd's laughter from KJV verse 40; LUTD incorrectly colors it."},
+    {"reference":"mark 5:41","spans":["Talitha kumi!"],"reason":"KJV wj marks the Aramaic utterance, not the narrator's translated gloss."},
+    {"reference":"mark 7:34","spans":["Hephatha!"],"reason":"KJV wj marks the Aramaic utterance, not the narrator's translated gloss."},
+    {"reference":"mark 10:33","spans":["Siehe, wir gehen hinauf gen Jerusalem, und des Menschen Sohn wird überantwortet werden den Hohenpriestern und Schriftgelehrten; und sie werden ihn verdammen zum Tode und überantworten den Heiden."],"reason":"KJV wj excludes only a translator-added reporting verb absent from German target."},
+    {"reference":"mark 15:34","spans":["Eli, Eli lama asabthani?"],"reason":"KJV wj marks the Aramaic utterance; source and target differ in quotation glyphs."},
+    {"reference":"luke 4:24","spans":["Wahrlich, ich sage euch: “Kein Prophet ist angenehm in seinem Vaterlande."],"reason":"KJV wj marks the entire saying; target has a source-absent opening quotation glyph."},
+    {"reference":"luke 4:35","spans":["Verstumme und fahre aus von ihm!"],"reason":"LUTD incorrectly includes the demon's reaction as Jesus' speech."},
+    {"reference":"luke 8:45","spans":[{"exactText":"Wer hat mich angerührt?","occurrence":1},{"exactText":"Wer hat mich angerührt?","occurrence":2}],"reason":"KJV wj marks both occurrences; the second repeats Jesus' words inside Peter's quotation, without coloring Peter's introduction."},
+    {"reference":"luke 9:56","spans":["Des Menschen Sohn ist nicht gekommen, der Menschen Seelen zu verderben, sondern zu erhalten."],"reason":"German target omits KJV's following narrator clause; all target text is Jesus' speech."},
+    {"reference":"luke 14:12","spans":["Wenn du ein Mittags-oder Abendmahl machst, so lade nicht deine Freunde noch deine Brüder noch deine Gefreunden noch deine Nachbarn, die da reich sind, auf daß sie dich nicht etwa wieder laden und dir vergolten werde."],"reason":"KJV wj marks the full saying; imported target preserves a missing source space after the hyphen."},
+    {"reference":"luke 17:14","spans":["Gehet hin und zeiget euch den Priestern!"],"reason":"LUTD incorrectly includes the healed men's subsequent action."},
+    {"reference":"luke 20:41","spans":["Wie sagen sie, Christus sei Davids Sohn?"],"reason":"LUTD colors the narrator's speech introduction; KJV wj begins after it."},
+    {"reference":"john 6:70","spans":["Habe ich nicht euch Zwölf erwählt? und-euer einer ist ein Teufel!"],"reason":"KJV wj marks the full saying; imported target preserves its source-absent hyphen."},
+    {"reference":"john 8:12","spans":["Ich bin das Licht der Welt; wer mir nachfolgt, der wird nicht wandeln in der Finsternis, sondern wir das Licht des Lebens haben."],"reason":"KJV wj marks the full saying; imported target preserves wir where external LUTD says wird."},
+    {"reference":"john 12:36","spans":["Glaubet an das Licht, dieweil ihr es habt, auf daß ihr des Lichtes Kinder seid."],"reason":"German target omits KJV's following narrator clause; all target text is Jesus' speech."},
+    {"reference":"acts 1:4","spans":["sondern warteten auf die Verheißung des Vaters, welche ihr habt gehört","von mir;"],"reason":"KJV wj excludes the departure command and reporting parenthesis; German source J includes the parenthesis, so the reviewed spans split around it."},
+    {"reference":"acts 9:5","spans":["Ich bin Jesus, den du verfolgst. Es wird dir schwer werden, wider den Stachel zu lecken."],"reason":"KJV wj marks the Lord's reply, not Saul's question; external source adds an explanatory footnote absent from target."},
+    {"reference":"revelation 1:8","spans":["Ich bin das A und das O, der Anfang und das Ende,"],"reason":"KJV wj marks the opening divine utterance only; LUTD also colors narrator attribution after spricht Gott der HERR."},
+    {"reference":"revelation 1:11","spans":["Ich bin das A und das O, der Erste und der Letzte;","was du siehst, das schreibe in ein Buch und sende es zu den Gemeinden in Asien: gen Ephesus und gen Smyrna und gen Pergamus und gen Thyatira und gen Sardes und gen Philadelphia und gen Laodizea."],"reason":"KJV wj separates two speech spans around the narrator's conjunction; LUTD colors the whole suffix."}
+  ],
+  "fullOverrides": [
+    {"reference":"matthew 19:5","targetTextSha256":"B62DC7458614B3B5F11082CD6091169D9FA5984CAD4ECB3B8C1015AF7CF06855","reason":"KJV WJ includes und sprach, but the German target and LUTD source identify it as the narrator's speech introducer.","spans":[{"after":"und sprach:"}]},
+    {"reference":"mark 12:37","targetTextSha256":"8694A01AB7750E91E449C162C7865D22C7B4C5B32338CEF9B64869EA9DCB9D1A","reason":"KJV WJ extends into the crowd's response; the German target and LUTD witness end Jesus' question before that narration.","spans":[{"before":" Und viel Volks"}]}
+  ]
+}

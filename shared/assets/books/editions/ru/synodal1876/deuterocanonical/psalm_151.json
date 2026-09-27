@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "editionId": "synodal1876",
+  "language": "ru",
+  "collection": "deuterocanonical",
+  "bookId": "psalm_151",
+  "sourceBookCode": "Ps",
+  "coverage": "full",
+  "sourceProof": {
+    "sourceTitle": "1876 Russian Synodal Bible",
+    "module": "RusSynodal",
+    "moduleVersion": "1.9.1",
+    "versification": "Synodal",
+    "license": "Public Domain",
+    "moduleInfoUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=RusSynodal",
+    "archiveUrl": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/RusSynodal.zip",
+    "archiveFile": "RusSynodal.zip",
+    "archiveSha256": "B802570E1783C326552B9E810786EFE3DF4EFCD615F28CCF3A86BAE27DBC5022",
+    "sourceBook": "Psalms",
+    "sourceOsis": "Ps",
+    "sourceChapters": [
+      151
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 7,
+      "verseUnitCount": 7,
+      "headings": [],
+      "superscription": "Псалом Давида на единоборстов с Голиафом",
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Я был меньший между братьями моими и юнейший в доме отца моего; пас овец отца моего."
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "Руки мои сделали орган, персты мои настраивали псалтирь."
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "И кто возвестил бы Господу моему? — Сам Господь, Сам услышал меня."
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "Он послал вестника своего и взял меня от овец отца моего, и помазал меня елеем помазания Своего."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Братья мои прекрасны и велики, но Господь не благоволил избрать из них."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Я вышел навстречу иноплеменнику, и он проклял меня идолами своими."
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "Но я, исторгнув у него меч, обезглавил его и избавил сынов Израилевых от поношения.]"
+        }
+      ]
+    }
+  ],
+  "sourceMapping": [
+    {
+      "archiveReference": "Ps 151:1-7",
+      "displayReference": "psalm_151 1:1-7"
+    }
+  ]
+}

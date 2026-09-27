@@ -2,9 +2,20 @@ package com.dividesbyzer0.biblecompanion
 
 import kotlin.test.Test
 import kotlin.test.assertEquals
+import kotlin.test.assertNull
 import kotlin.test.assertTrue
 
 class VerseSelectionTest {
+  @Test
+  fun appShareLinksDoNotHighlightUnselectedGaps() {
+    assertEquals(VerseAnchor(3, 16, 19), contiguousSelectionAnchor(listOf(
+      VerseAnchor(3, 18, 19), VerseAnchor(3, 16, 17)
+    )))
+    assertNull(contiguousSelectionAnchor(listOf(VerseAnchor(3, 16), VerseAnchor(3, 18))))
+    assertNull(contiguousSelectionAnchor(listOf(VerseAnchor(3, 16), VerseAnchor(4, 1))))
+    assertNull(contiguousSelectionAnchor(emptyList()))
+  }
+
   @Test
   fun pickerIncludesEveryVerseInARangeAndInteriorVerseFindsItsBullet() {
     val bullets = listOf(

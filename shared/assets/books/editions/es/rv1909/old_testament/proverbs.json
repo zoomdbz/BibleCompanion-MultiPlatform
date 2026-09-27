@@ -177,6 +177,20 @@
           "verse": 33,
           "text": "Mas el que me oyere, habitará confiadamente, y vivirá reposado, sin temor de mal."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prólogo: propósito y tema"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Exhortaciones a buscar la sabiduría\nAdvertencia contra el engaño"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Advertencia contra el rechazo a la sabiduría"
+        }
       ]
     },
     {
@@ -293,6 +307,12 @@
           "chapter": 2,
           "verse": 22,
           "text": "Mas los impíos serán cortados de la tierra, y los prevaricadores serán de ella desarraigados."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ventajas de la sabiduría"
         }
       ]
     },
@@ -476,6 +496,12 @@
           "verse": 35,
           "text": "Los sabios heredarán honra: mas los necios sostendrán ignominia."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Otras ventajas de la sabiduría"
+        }
       ]
     },
     {
@@ -618,6 +644,12 @@
           "verse": 27,
           "text": "No te apartes á diestra, ni á siniestra: aparta tu pie del mal."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La sabiduría es lo máximo"
+        }
       ]
     },
     {
@@ -739,6 +771,12 @@
           "chapter": 5,
           "verse": 23,
           "text": "El morirá por falta de corrección; y errará por la grandeza de su locura."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Advertencia contra el adulterio"
         }
       ]
     },
@@ -922,6 +960,16 @@
           "verse": 35,
           "text": "No tendrá respeto á ninguna redención; ni querrá [ADD]perdonar[/ADD], aunque multipliques los dones."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Advertencia contra la insensatez"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Advertencia contra el adulterio"
+        }
       ]
     },
     {
@@ -1063,6 +1111,12 @@
           "chapter": 7,
           "verse": 27,
           "text": "Caminos del sepulcro son su casa, que descienden á las cámaras de la muerte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Advertencia contra la mujer adúltera"
         }
       ]
     },
@@ -1251,6 +1305,12 @@
           "verse": 36,
           "text": "Mas el que peca contra mí, defrauda su alma: todos los que me aborrecen, aman la muerte."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Llamado de la sabiduría"
+        }
       ]
     },
     {
@@ -1347,6 +1407,12 @@
           "chapter": 9,
           "verse": 18,
           "text": "Y no saben que allí están los muertos; que sus convidados están en los profundos de la sepultura."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Invitación de la sabiduría y de la necedad"
         }
       ]
     },
@@ -1515,6 +1581,12 @@
           "verse": 32,
           "text": "Los labios del justo conocerán lo que agrada: mas la boca de los impíos [ADD]habla[/ADD] perversidades."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Proverbios de Salomón"
+        }
       ]
     },
     {
@@ -1677,7 +1749,8 @@
           "verse": 31,
           "text": "Ciertamente el justo será pagado en la tierra: ¡cuánto más el impío y el pecador!"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 12,
@@ -1824,7 +1897,8 @@
           "verse": 28,
           "text": "En el camino de la justicia está la vida; y la senda de su vereda no es muerte."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 13,
@@ -1956,7 +2030,8 @@
           "verse": 25,
           "text": "El justo come hasta saciar su alma: mas el vientre de los impíos tendrá necesidad."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 14,
@@ -2138,7 +2213,8 @@
           "verse": 35,
           "text": "La benevolencia del rey es para con el ministro entendido: mas su enojo [ADD]contra[/ADD] el que [ADD]lo[/ADD] avergüenza."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 15,
@@ -2310,7 +2386,8 @@
           "verse": 33,
           "text": "El temor de Jehová es enseñanza de sabiduría: y delante de la honra [ADD]está[/ADD] la humildad."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 16,
@@ -2482,7 +2559,8 @@
           "verse": 33,
           "text": "La suerte se echa en el seno: mas de Jehová es el juicio de ella."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 17,
@@ -2629,7 +2707,8 @@
           "verse": 28,
           "text": "Aun el necio cuando calla, es contado por sabio: el que cierra sus labios es entendido."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 18,
@@ -2756,7 +2835,8 @@
           "verse": 24,
           "text": "El hombre [ADD]que tiene[/ADD] amigos, ha de mostrarse amigo: y amigo hay más conjunto que el hermano."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 19,
@@ -2908,7 +2988,8 @@
           "verse": 29,
           "text": "Aparejados están juicios para los escarnecedores, y azotes para los cuerpos de los insensatos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 20,
@@ -3065,7 +3146,8 @@
           "verse": 30,
           "text": "Las señales de las heridas son medicina para lo malo: y las llagas [ADD]llegan[/ADD] á lo más secreto del vientre."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 21,
@@ -3227,7 +3309,8 @@
           "verse": 31,
           "text": "El caballo se apareja para el día de la batalla: mas de Jehová es el salvar."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 22,
@@ -3378,6 +3461,32 @@
           "chapter": 22,
           "verse": 29,
           "text": "¿Has visto hombre solícito en su obra? delante de los reyes estará; no estará delante de los de baja suerte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 17,
+          "text": "Los treinta dichos de los sabios\n1"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "2"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "3"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "4"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "5"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "6"
         }
       ]
     },
@@ -3561,6 +3670,60 @@
           "verse": 35,
           "text": "[ADD]Y dirás[/ADD]: Hiriéronme, mas no me dolió; azotáronme, mas no lo sentí; cuando despertare, aun lo tornaré á buscar."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "7"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "8"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "9"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "10"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "11"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "12"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "13"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "14"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "15"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "16"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "17"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "18"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "19"
+        }
       ]
     },
     {
@@ -3738,6 +3901,56 @@
           "verse": 34,
           "text": "Así vendrá como caminante tu necesidad, y tu pobreza como hombre de escudo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "20"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "21"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "22"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "23"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "24"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "25"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "26"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "27"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "28"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "29"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "30"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Otros dichos de los sabios"
+        }
       ]
     },
     {
@@ -3884,6 +4097,12 @@
           "chapter": 25,
           "verse": 28,
           "text": "[ADD]Como[/ADD] ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Más proverbios de Salomón"
         }
       ]
     },
@@ -4032,7 +4251,8 @@
           "verse": 28,
           "text": "La falsa lengua atormenta al que aborrece: y la boca lisonjera hace resbaladero."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 27,
@@ -4174,7 +4394,8 @@
           "verse": 27,
           "text": "Y abundancia de leche de las cabras para tu mantenimiento, y para mantenimiento de tu casa, y para sustento de tus criadas."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 28,
@@ -4321,7 +4542,8 @@
           "verse": 28,
           "text": "Cuando los impíos son levantados, esconderáse el hombre: mas cuando perecen, los justos se multiplican."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 29,
@@ -4463,7 +4685,8 @@
           "verse": 27,
           "text": "Abominación es á los justos el hombre inicuo; y abominación es al impío el de rectos caminos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 30,
@@ -4635,6 +4858,12 @@
           "verse": 33,
           "text": "Ciertamente el que exprime la leche, sacará manteca; y el que recio se suena las narices, sacará sangre: y el que provoca la ira, causará contienda."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los dichos de Agur"
+        }
       ]
     },
     {
@@ -4796,6 +5025,100 @@
           "chapter": 31,
           "verse": 31,
           "text": "Dadle el fruto de sus manos, y alábenla en las puertas sus hechos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los dichos del rey Lemuel"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Epílogo: Acróstico a la mujer ejemplar\n31:9\n31:10‑31\nLos vv. 10‑31 son un acróstico, en que cada verso comienza con una de las letras del alfabeto hebreo.\nÁlef"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Bet"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Guímel"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Dálet"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "He"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Vav"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Zayin"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jet"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Tet"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Yod"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Caf"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Lámed"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Mem"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Nun"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Sámej"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Ayin"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Pe"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Tsade"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Qof"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Resh"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Shin"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Tav"
         }
       ]
     }

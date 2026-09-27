@@ -62,6 +62,11 @@ class EditionOverlayValidationTest {
   }
 
   @Test
+  fun overlayRejectsAMissingEditionHeadingTable() {
+    assertFalse(overlay(headings = null).valid())
+  }
+
+  @Test
   fun legacySchemaOneDoesNotRequireSchemaTwoMetadata() {
     assertTrue(overlay(schemaVersion = 1, lastVerse = null, verseUnitCount = null).valid())
   }

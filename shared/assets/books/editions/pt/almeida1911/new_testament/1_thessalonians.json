@@ -62,6 +62,16 @@
           "verse": 10,
           "text": "E para esperar dos céus a seu Filho, a quem resuscitou dos mortos, a saber, Jesus, que nos livra da ira futura."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Saudações de Paulo"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Ação de graças pelos tessalonicenses"
+        }
       ]
     },
     {
@@ -169,6 +179,16 @@
           "verse": 20,
           "text": "Porque vós sois a nossa gloria e gozo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo recorda sua visita"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "O relato animador de Timóteo a respeito da igreja"
+        }
       ]
     },
     {
@@ -241,7 +261,8 @@
           "verse": 13,
           "text": "Para confortar os vossos corações, para que sejaes irreprehensiveis em sanctificação diante de nosso Deus e Pae, na vinda de nosso Senhor Jesus Christo com todos os seus sanctos."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 4,
@@ -337,6 +358,16 @@
           "chapter": 4,
           "verse": 18,
           "text": "Portanto, consolae-vos uns aos outros com estas palavras."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Uma vida dedicada a agradar a Deus"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A esperança da ressurreição"
         }
       ]
     },
@@ -484,6 +515,16 @@
           "chapter": 5,
           "verse": 28,
           "text": "A graça de nosso Senhor Jesus Christo seja comvosco. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "Conselhos finais"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Saudações finais"
         }
       ]
     }

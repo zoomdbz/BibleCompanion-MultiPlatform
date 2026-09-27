@@ -92,6 +92,16 @@
           "verse": 16,
           "text": "Confessam que conhecem a Deus, porém o negam com as obras, sendo abominaveis, e desobedientes, e reprovados para toda a boa obra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Saudações de Paulo"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "O trabalho de Tito em Creta"
+        }
       ]
     },
     {
@@ -174,6 +184,12 @@
           "verse": 15,
           "text": "Falla d'isto, e exhorta e reprehende com toda a auctoridade. Ninguem te despreze."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O ensino correto na vida da igreja"
+        }
       ]
     },
     {
@@ -255,6 +271,20 @@
           "chapter": 3,
           "verse": 15,
           "text": "Saudam-te todos os que estão comigo. Sauda tu os que nos amam na fé. A graça seja com vós todos. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Faça o que é bom"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Instruções finais"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Saudações e bênção"
         }
       ]
     }

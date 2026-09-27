@@ -102,35 +102,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "아담에서 아브라함까지"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "야벳의 자손"
-        },
-        {
-          "beforeVerse": 8,
-          "text": "함의 자손"
-        },
-        {
-          "beforeVerse": 17,
-          "text": "셈의 자손"
+          "text": "아담에서 아브라함까지\n(창 5:1-32; 10:1-32; 11:10-26)"
         },
         {
           "beforeVerse": 28,
-          "text": "이스마엘의 자손"
+          "text": "이스마엘의 자손\n(창 25:12-16)"
         },
         {
           "beforeVerse": 34,
-          "text": "에서의 자손"
+          "text": "에서의 자손\n(창 36:1-19)"
         },
         {
           "beforeVerse": 38,
-          "text": "세일의 자손"
+          "text": "에돔의 원주민\n(창 36:20-30)"
         },
         {
           "beforeVerse": 43,
-          "text": "에돔의 왕들"
+          "text": "에돔의 왕들\n(창 36:31-43)"
         }
       ]
     },
@@ -239,20 +227,16 @@
       "keyTakeaway": "이 장은 이스라엘의 아들들을 열거하고 유다에서 다윗으로 이어지는 계보와 헤스론에서 갈렙과 여라므엘로 이어지는 후손들의 계보를 기록하며，그 자손들이 거주한 성읍들도 함께 전한다.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "이스라엘의 아들들"
-        },
-        {
           "beforeVerse": 3,
           "text": "유다의 자손"
         },
         {
-          "beforeVerse": 10,
-          "text": "람의 자손"
+          "beforeVerse": 9,
+          "text": "다윗의 가계"
         },
         {
           "beforeVerse": 18,
-          "text": "갈렙의 자손"
+          "text": "헤스론의 자손"
         },
         {
           "beforeVerse": 25,
@@ -334,15 +318,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗의 아들들"
+          "text": "다윗 왕의 자녀"
         },
         {
           "beforeVerse": 10,
-          "text": "다윗 이후 유다의 왕들"
+          "text": "솔로몬 왕의 자손"
         },
         {
           "beforeVerse": 17,
-          "text": "바빌론 포로시절 이후의 다윗 집안"
+          "text": "여호야긴 왕의 자손"
         }
       ]
     },
@@ -435,7 +419,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "유다의 다른 자손들"
+          "text": "유다의 자손"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "다른 족보"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "셀라의 자손"
         },
         {
           "beforeVerse": 24,
@@ -523,7 +515,15 @@
         },
         {
           "beforeVerse": 18,
-          "text": "동쪽 가문의 군대"
+          "text": "동쪽 지파의 군대"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "동쪽 므낫세 지파 백성"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "동쪽 지파의 추방"
         }
       ]
     },
@@ -654,7 +654,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "레위의 자손"
+          "text": "대제사장의 가계"
         },
         {
           "beforeVerse": 16,
@@ -665,7 +665,7 @@
           "text": "성전 찬양대"
         },
         {
-          "beforeVerse": 50,
+          "beforeVerse": 49,
           "text": "아론의 자손"
         },
         {
@@ -873,8 +873,20 @@
           "text": "베냐민의 자손"
         },
         {
+          "beforeVerse": 13,
+          "text": "갓과 아얄론의 베냐민 사람"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "예루살렘의 베냐민 사람들"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "기브온과 예루살렘의 베냐민 사람"
+        },
+        {
           "beforeVerse": 33,
-          "text": "사울 왕의 가계"
+          "text": "사울 왕의 가족"
         }
       ]
     },
@@ -968,27 +980,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "포로생활에서 돌아온 사람들"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "예루살렘에 돌아와 산 유다 가문 사람들"
-        },
-        {
-          "beforeVerse": 7,
-          "text": "예루살렘에 돌아와 산 베냐민 가문 사람들"
+          "text": "포로 생활에서 돌아온 백성"
         },
         {
           "beforeVerse": 10,
-          "text": "예루살렘에 돌아와 산 제사장들"
+          "text": "예루살렘에 정착한 제사장들"
         },
         {
           "beforeVerse": 14,
-          "text": "예루살렘에 돌아와 산 레위 가문 사람들"
+          "text": "예루살렘에 정착한 레위 사람들"
         },
         {
           "beforeVerse": 17,
-          "text": "예루살렘에 돌아와 산 성전 문지기들"
+          "text": "예루살렘에 정착한 성전 문지기"
         },
         {
           "beforeVerse": 28,
@@ -996,7 +1000,7 @@
         },
         {
           "beforeVerse": 35,
-          "text": "사울의 족보"
+          "text": "사울의 족보\n(8:29-38)"
         }
       ]
     },
@@ -1060,7 +1064,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "사울 왕의 죽음"
+          "text": "사울 왕의 죽음\n(삼상 31:1-13)"
         }
       ]
     },
@@ -1157,23 +1161,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗이 이스라엘과 유다의 왕이 되다"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "다윗이 예루살렘을 정복하다"
+          "text": "다윗이 이스라엘과 유다의 왕이 되다\n(삼하 5:1-10)"
         },
         {
           "beforeVerse": 10,
-          "text": "세 명의 용사들"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "다른 용사들"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "서른 명의 용사들"
+          "text": "다윗의 용사들\n(삼하 23:8-39)"
         }
       ]
     },
@@ -1258,23 +1250,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "베냐민 가문에서 다윗을 따른 용사들"
+          "text": "베냐민 지파에서 다윗을 따른 사람들"
         },
         {
           "beforeVerse": 8,
-          "text": "갓 가문에서 다윗을 따른 사람들"
+          "text": "갓 지파에서 다윗을 따른 사람들"
         },
         {
           "beforeVerse": 16,
-          "text": "베냐민과 유다 가문에서 다윗을 따른 사람들"
+          "text": "베냐민과 유다에서 다윗을 따른 사람들"
         },
         {
           "beforeVerse": 19,
-          "text": "므낫세 가문에서 다윗을 따른 사람들"
+          "text": "므낫세에서 다윗을 따른 사람들"
         },
         {
           "beforeVerse": 23,
-          "text": "헤브론에서 다윗을 따른 사람들"
+          "text": "다윗의 병력 목록"
         }
       ]
     },
@@ -1333,7 +1325,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "계약궤를 옮기다"
+          "text": "언약궤를 옮기다\n(삼하 6:1-11)"
         }
       ]
     },
@@ -1395,11 +1387,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗의 나라가 강해지다"
+          "text": "예루살렘에서 다윗이 활동하다\n(삼하 5:11-16)"
         },
         {
           "beforeVerse": 8,
-          "text": "다윗이 블레셋을 물리치다"
+          "text": "다윗이 블레셋을 이기다\n(삼하 5:17-25)"
         }
       ]
     },
@@ -1478,15 +1470,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "하나님의 궤를 예루살렘으로 옮기다"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "찬양대"
+          "text": "언약궤를 옮길 준비"
         },
         {
           "beforeVerse": 25,
-          "text": "계약궤를 예루살렘으로 옮기다"
+          "text": "언약궤를 예루살렘으로 옮기다\n(삼하 6:12-22)"
         }
       ]
     },
@@ -1574,7 +1562,11 @@
       "headings": [
         {
           "beforeVerse": 8,
-          "text": "다윗의 감사 찬송"
+          "text": "감사 찬송\n(시 105:1-15; 96:1-13; 106:47-48)"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "예루살렘과 기브온에서 드린 예배"
         }
       ]
     },
@@ -1646,11 +1638,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗에게 하신 하나님의 약속"
+          "text": "다윗에 대한 하나님의 약속\n(삼하 7:1-17)"
         },
         {
           "beforeVerse": 16,
-          "text": "다윗의 기도"
+          "text": "다윗의 감사 기도\n(삼하 7:18-29)"
         }
       ]
     },
@@ -1712,11 +1704,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗의 승전 기록"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "다윗의 신하들"
+          "text": "다윗의 승전 기록\n(삼하 8:1-18)"
         }
       ]
     },
@@ -1780,7 +1768,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗이 암몬군과 아람군을 물리치다"
+          "text": "다윗이 암몬 및 시리아를 치다\n(삼하 10:1-19)"
         }
       ]
     },
@@ -1833,11 +1821,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗이 랍바를 점령하다"
+          "text": "다윗의 랍바 점령\n(삼하 12:26-31)"
         },
         {
           "beforeVerse": 4,
-          "text": "블레셋의 거인들과 싸우다"
+          "text": "블레셋 거인과 싸우다\n(삼하 21:15-22)"
         }
       ]
     },
@@ -1922,15 +1910,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗이 인구를 조사하다"
-        },
-        {
-          "beforeVerse": 8,
-          "text": "주께서 다윗을 벌하시다"
-        },
-        {
-          "beforeVerse": 18,
-          "text": "다윗이 오르난의 타작마당을 사다"
+          "text": "다윗의 인구조사\n(삼하 24:1-25)"
         }
       ]
     },
@@ -1992,8 +1972,8 @@
       "keyTakeaway": "다윗은 전쟁을 많이 치른 탓에 성전을 건축할 수 없지만 풍성하게 준비하고，평화의 사람 솔로몬이 하나님의 성전을 지을 자로 선택된다。",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "다윗이 성전 건축을 준비하다"
+          "beforeVerse": 2,
+          "text": "성전 건축 준비"
         }
       ]
     },
@@ -2074,24 +2054,8 @@
       "keyTakeaway": "다윗은 솔로몬을 왕으로 세우고 삼만 팔천 명의 레위인을 여러 반열로 나누어 성전 봉사를 맡기되，건물 관리，예배 인도，재판관과 문지기 직무，그리고 아론의 자손들이 성물과 제물을 다루는 일을 돕는 역할을 각각 지정한다。",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "성전에서 섬기는 레위 사람들"
-        },
-        {
-          "beforeVerse": 7,
-          "text": "게르손 집안"
-        },
-        {
-          "beforeVerse": 12,
-          "text": "고핫 집안"
-        },
-        {
-          "beforeVerse": 21,
-          "text": "므라리 집안"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "레위 사람들의 일"
+          "beforeVerse": 2,
+          "text": "레위 사람의 일"
         }
       ]
     },
@@ -2167,11 +2131,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "제사장의 일"
+          "text": "제사장이 맡은 일"
         },
         {
           "beforeVerse": 20,
-          "text": "그 밖의 레위 사람들"
+          "text": "레위 사람 명단"
         }
       ]
     },
@@ -2252,7 +2216,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "찬양대"
+          "text": "성전 찬양대"
         }
       ]
     },
@@ -2333,7 +2297,11 @@
         },
         {
           "beforeVerse": 20,
-          "text": "창고 관리인과 다른 관리들"
+          "text": "성전 관리인"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "다른 레위 사람들의 직무"
         }
       ]
     },
@@ -2417,15 +2385,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "군대 조직"
+          "text": "군대와 시민"
         },
         {
           "beforeVerse": 16,
-          "text": "각 가문의 지도자들"
+          "text": "각 지파의 영도자들"
         },
         {
           "beforeVerse": 25,
-          "text": "왕실 관리들"
+          "text": "왕실 재산 관리자"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "다윗의 개인 고문"
         }
       ]
     },
@@ -2496,7 +2468,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "다윗이 성전 건축을 당부하다"
+          "text": "다윗이 성전 건축을 지시하다"
         }
       ]
     },
@@ -2581,19 +2553,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "성전 건축을 위한 예물"
+          "text": "성전 건축에 쓸 예물"
         },
         {
           "beforeVerse": 10,
           "text": "다윗의 감사 기도"
         },
         {
-          "beforeVerse": 21,
-          "text": "솔로몬이 왕이 되다"
-        },
-        {
           "beforeVerse": 26,
-          "text": "다윗의 죽음"
+          "text": "다윗 통치의 요약"
         }
       ]
     }

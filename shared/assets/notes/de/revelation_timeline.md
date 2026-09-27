@@ -4,25 +4,69 @@ Diese Zeitleiste folgt als Hauptrahmen der **schlichten futuristischen, prämill
 
 Die Offenbarung enthält Visionen, Zwischenspiele, Rückblenden und erklärende Szenen; deshalb darf nicht jedes Kapitel so behandelt werden, als liefere Johannes eine moderne Chronologie nach der Stoppuhr. Offenbarung 12 ist ein deutliches Beispiel, denn das Kapitel greift bis zur Geburt und Himmelfahrt des Messias zurück, bevor es die Verfolgung in der Endzeit beschreibt.
 
+Die Offenbarung nennt ihre Visionen, Warnungen und Gerichte sowie Christi Sieg, Auferstehung, Gericht und Neuschöpfung. Sie gibt den Lesern kein allgemein anerkanntes Gesamtschaubild. In diesen Notizen bedeutet **ausdrücklich**, dass ein Abschnitt das behandelte Ereignis oder den Inhalt nennt. Ein Zeitplan, der getrennte Visionen verbindet, datiert oder als aufeinanderfolgend beziehungsweise überlappend einordnet, ist eine **Zusammenschau**, selbst wenn er den Text naheliegend liest.
+
+„Apokalyptisch“ bezeichnet die prophetische Literaturform der Offenbarung mit Visionen und Symbolen. Der Begriff bedeutet weder apokryphe Literatur noch stellt er die Wirklichkeit ihrer Verheißungen infrage.
+
 ### Vertrauensstufen
 
 - **Ausdrücklich:** Der Text nennt das Ereignis oder die Reihenfolge direkt.
 - **Schlussfolgerung aus der Abfolge:** Die Reihenfolge ergibt sich natürlich aus der Folge der Visionen des Johannes, doch der Text nennt kein Kalenderdatum.
 - **Auslegung:** Christen sind sich über die Einordnung oder Symbolik uneinig.
 
-## Die gesamte Abfolge auf einen Blick
+## Auslegungsansätze
+
+Lies die Offenbarung zusammen mit den Schriften, aus denen sie schöpft. Daniel sieht Tiere, ein himmlisches Gericht und den Menschensohn, der die Herrschaft empfängt; Johannes entfaltet diese Themen in den Visionen vom Tier und von Christi Sieg (Daniel 7,1-14; Offenbarung 13,1-7; Offenbarung 19,11-21). Hesekiel sieht Gottes Wohnung und einen lebenspendenden Strom; die Offenbarung endet damit, dass Gott bei seinem Volk wohnt und der Strom des Lebens fließt (Hesekiel 47,1-12; Offenbarung 21,3; Offenbarung 22,1-5). Diese Verbindungen erklären zunächst die Bilder, bevor wir Ereignisse in einen Zeitplan einordnen.
+
+Drei verschiedene Fragen prägen die folgenden Zeitpläne. Der Auslegungsansatz fragt, welchen Zeitraum eine Vision beschreibt. Die Frage nach dem tausendjährigen Reich betrifft das Verhältnis der tausend Jahre zu Christi Wiederkunft. Die Frage nach der Entrückung betrifft den Zeitpunkt, an dem die Gläubigen auferstehen und ihm begegnen. Eine Antwort entscheidet nicht automatisch die beiden anderen. Jede Sicht muss Christi wirkliche Wiederkunft, Auferstehung, Gericht und Neuschöpfung berücksichtigen (Apostelgeschichte 1,9-11; Johannes 5,28-29; Offenbarung 20,11-21,5).
+
+### Futuristisch: Die Visionen laufen auf eine letzte Krise zu
+
+Futuristen ordnen große Teile von Offenbarung 4-22 den Ereignissen um Christi künftige Wiederkunft zu. Der stärkste Grund liegt in den Ergebnissen, die Johannes beschreibt: Niederlage des Tieres, Auferstehung der Heiligen, endgültige Vernichtung Satans und eine Schöpfung ohne Tod (Offenbarung 19,19-21; Offenbarung 20,4-10; Offenbarung 21,1-4). Diese Verheißungen reichen über die Lage der sieben Gemeinden hinaus.
+
+Dieser Rahmen verbindet außerdem Daniels letzte Bedrängnis mit Jesu Warnung vor Verwüstung und großer Drangsal (Daniel 12,1-3; Matthäus 24,15-31). Die Verfolgung durch das Tier und seine begrenzte Vollmacht werden daneben gelesen (Offenbarung 13,5-10). So erhalten die Visionen einen künftigen Schwerpunkt, ohne dass ihre Warnungen für die ersten Leser des Johannes bedeutungslos werden. Christus forderte schon diese Gemeinden auf, Kompromissen zu widerstehen und in Verfolgung auszuharren (Offenbarung 2,10; Offenbarung 2,20-25).
+
+**Zeitplan:** geschichtliche Gemeinden und gegenwärtiges Ausharren -> letzte Krise -> Christi Sieg -> Auferstehung, Gericht und Vollendung von Gottes Reich. Futuristische Prämillennialisten setzen die tausendjährige Herrschaft vor das Endgericht; die ausführliche Abfolge folgt unten.
+
+### Teilpräteristisch: Nahe Gerichte und eine künftige Vollendung
+
+Teilpräteristen beginnen bei den tatsächlichen Gemeinden, an die sich die Offenbarung richtet, und bei ihren Aussagen, die Zeit sei nahe (Offenbarung 1,1-4; Offenbarung 22,6-10). Einen großen Teil der Gerichtssprache beziehen sie auf die Konflikte des ersten Jahrhunderts. Jesu Warnungen über Jerusalem, seine Einkreisung und jene Generation bilden einen wichtigen Vergleich (Lukas 21,20-24; Matthäus 24,34). Manche betonen den Fall Jerusalems, andere Rom und seine Verfolgung. Für diese Zuordnungen sind neben den Bibelstellen geschichtliche Argumente nötig.
+
+Dieser Ansatz kann ein früheres Gericht als Erweis der Vollmacht Christi lesen, ohne es mit der letzten leiblichen Auferstehung gleichzusetzen. Die Offenbarung unterscheidet selbst zwischen Gerichten innerhalb der Geschichte und dem Ende des Todes samt Endgericht (Offenbarung 18,1-24; Offenbarung 20,11-21,4). Die hier dargestellte teilpräteristische Sicht erwartet weiterhin Jesu leibliche Wiederkunft, wie Apostelgeschichte 1,11 sie verheißt. Sie betrachtet nicht jede künftige Verheißung als bereits erfüllt.
+
+**Zeitplan:** Verfolgung und Gericht im ersten Jahrhundert -> fortdauernder Missionsauftrag und Christi Herrschaft -> künftige leibliche Wiederkunft, Auferstehung und Endgericht -> Neuschöpfung. Viele verbinden diesen Ansatz mit dem Amillennialismus oder Postmillennialismus.
+
+### Historizistisch: Eine lange Abfolge durch die Kirchengeschichte
+
+Historizisten lesen die Visionen als ausgedehnte Darstellung der Kämpfe der Gemeinde von der apostolischen Zeit bis zu Christi Wiederkunft. Daniels aufeinanderfolgende Reiche liefern das Muster: Eine prophetische Vision kann mehrere irdische Mächte umspannen, bevor Gottes endgültiger Sieg kommt (Daniel 2,31-45; Daniel 7,17-27). Auch die Offenbarung führt durch Konflikt, Ausharren und Christi Herrschaft (Offenbarung 1,9; Offenbarung 13,10; Offenbarung 20,4).
+
+Der schwierige Schritt besteht darin, ein bestimmtes Siegel, eine Posaune oder ein Tier einer späteren Institution oder einem Ereignis zuzuordnen. Die Offenbarung nennt keine mittelalterlichen oder modernen Namen. Manche historizistischen Berechnungen wenden ein Tag-Jahr-Prinzip an und vergleichen 4. Mose 14,34 mit Hesekiel 4,6. Dort bestimmt Gott die Umrechnung ausdrücklich für ein bestimmtes Zeichen oder Gericht; ihre Anwendung an anderer Stelle muss aus dem jeweiligen Zusammenhang begründet werden.
+
+**Zeitplan:** apostolische Gemeinden -> aufeinanderfolgende geschichtliche Konflikte und Gerichte -> Christi endgültiger Sieg -> Auferstehung, Gericht und Neuschöpfung. Historizistische Schaubilder ordnen die Zwischenereignisse verschieden ein; gemeinsam ist ihnen der lange geschichtliche Bogen.
+
+### Idealistisch: Wiederkehrender Konflikt unter Christi Herrschaft
+
+Idealistische Lesarten betonen Muster, mit denen Gläubige während des ganzen Zeitalters konfrontiert werden: Zwangsherrschaft, verführerische Religion, verderblicher Reichtum, treues Zeugnis und Gottes Gericht. Schon die Lage des Johannes verbindet Drangsal, Reich und Ausharren (Offenbarung 1,9). Die Gemeinden erleben Leid und Druck zum Kompromiss, bevor sich die Visionen vom Tier und von Babylon entfalten (Offenbarung 2,9-10; Offenbarung 2,13-16; Offenbarung 18,3-5).
+
+So können diese Visionen spätere Gläubige unterweisen, ohne dass jeder neue Herrscher zum letzten Tier erklärt wird. Ein wiederkehrendes Muster kann dennoch einen letzten geschichtlichen Höhepunkt erreichen. Die Offenbarung endet mit der wirklichen Vernichtung des Bösen und Gottes Wohnen bei seinem Volk, nicht mit einem endlosen Kreislauf von Siegen und Niederlagen (Offenbarung 20,10; Offenbarung 21,1-5).
+
+**Zeitplan:** Christi Sieg und das Zeugnis der Gemeinde -> wiederkehrende Verfolgung, Versuchung und Gericht -> letzte Konfrontation und Wiederkunft -> Neuschöpfung. Idealistische Lesarten verbinden dies oft mit einer künftigen letzten Krise und einem amillennialistischen Verständnis der tausend Jahre.
+
+## Futuristischer Prämillennialismus
+
+### Die gesamte Abfolge auf einen Blick
 
 **Sieben Gemeinden -> Thronsaal -> das Lamm empfängt die Schriftrolle -> sieben Siegel -> sieben Posaunen -> Tier und Falscher Prophet -> sieben Schalen -> Fall Babylons -> sichtbare Wiederkunft Christi -> Tier und Falscher Prophet besiegt -> Satan gebunden -> erste Auferstehung und 1.000-jährige Herrschaft -> Satan freigelassen -> letzter Aufstand -> Satan in den Feuersee geworfen -> Gericht vor dem Großen Weißen Thron -> Neuer Himmel und Neue Erde -> Neues Jerusalem -> ewige Herrschaft**
 
-## Vor den Endzeitgerichten: Offenbarung 1-5
+### Vor den Endzeitgerichten: Offenbarung 1-5
 
-### Offenbarung 1: Der auferstandene Christus
+#### Offenbarung 1: Der auferstandene Christus
 
 Johannes empfängt die Offenbarung Jesu Christi. Er sieht den verherrlichten Menschensohn zwischen sieben Leuchtern.
 
 **Schlüsselstellen:** Offenbarung 1:1-20.
 
-### Offenbarung 2-3: Die sieben Gemeinden
+#### Offenbarung 2-3: Die sieben Gemeinden
 
 Jesus wendet sich an sieben historische Gemeinden in Kleinasien:
 
@@ -38,13 +82,13 @@ Die Briefe enthalten echte historische Weisungen und wiederholte Verheißungen �
 
 **Schlüsselstellen:** Offenbarung 2:1-3:22.
 
-### Offenbarung 4: Der Thronsaal
+#### Offenbarung 4: Der Thronsaal
 
 Johannes wird in einer Vision hinaufgerufen und sieht den Thron Gottes, vierundzwanzig Älteste, vier lebendige Wesen und unaufhörliche Anbetung.
 
 **Wichtiger Hinweis zur Entrückung:** Lehrer der Vorentrückungslehre deuten „Komm hier herauf“ in **Offenbarung 4:1** manchmal als Bild für die Entrückung der Gemeinde. Der Vers selbst beschreibt direkt, wie **Johannes** in die himmlische Vision gerufen wird. Daher ist dies höchstens typologischer Beleg, keine ausdrückliche Aussage über die Entrückung.
 
-### Offenbarung 5: Das Lamm und die versiegelte Schriftrolle
+#### Offenbarung 5: Das Lamm und die versiegelte Schriftrolle
 
 In Gottes Hand befindet sich eine mit sieben Siegeln verschlossene Schriftrolle. Nur das Lamm, Jesus Christus, ist würdig, sie zu öffnen.
 
@@ -56,9 +100,9 @@ Jesus wird bezeichnet als:
 
 **Schlüsselstelle:** Offenbarung 5:1-14.
 
-## Die sieben Siegel
+### Die sieben Siegel
 
-### Siegel 1: Weißes Pferd, Eroberung
+#### Siegel 1: Weißes Pferd, Eroberung
 
 **Offenbarung 6:1-2**
 
@@ -66,25 +110,25 @@ Ein Reiter auf einem weißen Pferd empfängt eine Krone und zieht siegreich aus.
 
 **Auslegung:** Futuristen setzen diesen Reiter häufig mit Eroberung, trügerischem Frieden oder einem antichristlichen Herrscher gleich. Offenbarung 6 selbst nennt den Reiter weder „Antichrist“ noch bezeichnet sie ihn als das Tier.
 
-### Siegel 2: Rotes Pferd, Krieg
+#### Siegel 2: Rotes Pferd, Krieg
 
 **Offenbarung 6:3-4**
 
 Der Friede wird von der Erde genommen, und die Menschen schlachten einander ab.
 
-### Siegel 3: Schwarzes Pferd, Hungersnot und Mangel
+#### Siegel 3: Schwarzes Pferd, Hungersnot und Mangel
 
 **Offenbarung 6:5-6**
 
 Lebensmittel werden extrem teuer, während Öl und Wein verschont bleiben.
 
-### Siegel 4: Fahles Pferd, Tod
+#### Siegel 4: Fahles Pferd, Tod
 
 **Offenbarung 6:7-8**
 
 Tod und Hades erhalten Vollmacht über ein Viertel der Erde, um durch Schwert, Hunger, Seuche und wilde Tiere zu töten.
 
-### Siegel 5: Märtyrer rufen nach Gerechtigkeit
+#### Siegel 5: Märtyrer rufen nach Gerechtigkeit
 
 **Offenbarung 6:9-11**
 
@@ -92,7 +136,7 @@ Johannes sieht die Seelen der Menschen, die wegen des Wortes Gottes und ihres Ze
 
 Dies belegt Verfolgung und Märtyrertum vor dem Endgericht.
 
-### Siegel 6: Kosmische Erschütterung und Schrecken
+#### Siegel 6: Kosmische Erschütterung und Schrecken
 
 **Offenbarung 6:12-17**
 
@@ -114,9 +158,9 @@ Sie erklären:
 
 Dieses Siegel ist für die Debatte über die Entrückung äußerst wichtig, weil seine kosmischen Zeichen der Beschreibung Jesu in **Matthäus 24:29-31** ähneln.
 
-## Offenbarung 7: Zwischenspiel vor dem siebten Siegel
+### Offenbarung 7: Zwischenspiel vor dem siebten Siegel
 
-### Die 144.000 Versiegelten
+#### Die 144.000 Versiegelten
 
 **Offenbarung 7:1-8**
 
@@ -124,7 +168,7 @@ Dieses Siegel ist für die Debatte über die Entrückung äußerst wichtig, weil
 
 Der Text nennt die Zahl zweimal (**Offenbarung 7:4; 14:1**) und führt die Stämme namentlich auf (**Offenbarung 7:5-8**).
 
-### Die große Schar
+#### Die große Schar
 
 **Offenbarung 7:9-17**
 
@@ -134,7 +178,7 @@ Sie werden als diejenigen beschrieben, die aus der großen Drangsal kommen.
 
 **Bedeutung für die Entrückung:** Vertreter der Vorzorn-Entrückung sehen diese Szene oft als Beleg für eine Sammlung der Gläubigen nach dem sechsten Siegel und vor den Posaunengerichten. Das Kapitel sagt nicht ausdrücklich: „Diese Schar wurde genau in diesem Augenblick entrückt“; deshalb bleibt diese Zuordnung Auslegung.
 
-## Siegel 7: Die sieben Posaunen beginnen
+### Siegel 7: Die sieben Posaunen beginnen
 
 **Offenbarung 8:1-6**
 
@@ -147,15 +191,15 @@ Als das siebte Siegel geöffnet wird:
 
 Bei einer schlichten fortlaufenden Lesart gehen die Posaunen aus dem siebten Siegel hervor.
 
-## Die sieben Posaunen
+### Die sieben Posaunen
 
-### Posaune 1: Erde und Pflanzenwelt getroffen
+#### Posaune 1: Erde und Pflanzenwelt getroffen
 
 **Offenbarung 8:7**
 
 Hagel und mit Blut vermischtes Feuer fallen auf die Erde. Ein Drittel der Erde und der Bäume verbrennt, ebenso alles grüne Gras.
 
-### Posaune 2: Das Meer getroffen
+#### Posaune 2: Das Meer getroffen
 
 **Offenbarung 8:8-9**
 
@@ -165,13 +209,13 @@ Etwas wie ein großer brennender Berg wird ins Meer geworfen.
 - ein Drittel der Meerestiere stirbt
 - ein Drittel der Schiffe wird zerstört
 
-### Posaune 3: Wermut
+#### Posaune 3: Wermut
 
 **Offenbarung 8:10-11**
 
 Ein großer Stern namens Wermut fällt auf ein Drittel der Flüsse und Quellen. Das Wasser wird bitter, und viele Menschen sterben daran.
 
-### Posaune 4: Himmelslichter verfinstert
+#### Posaune 4: Himmelslichter verfinstert
 
 **Offenbarung 8:12-13**
 
@@ -179,7 +223,7 @@ Ein Drittel der Sonne, des Mondes und der Sterne wird getroffen, sodass ein Drit
 
 Danach kündigt ein Adler drei kommende Wehe an, die den letzten drei Posaunen entsprechen.
 
-### Posaune 5: Erstes Wehe, der Abgrund geöffnet
+#### Posaune 5: Erstes Wehe, der Abgrund geöffnet
 
 **Offenbarung 9:1-12**
 
@@ -187,7 +231,7 @@ Ein gefallener Stern empfängt den Schlüssel zum Abgrund. Heuschreckenartige We
 
 Ihr König ist der Engel des Abgrunds, auf Hebräisch **Abaddon** und auf Griechisch **Apollyon** genannt.
 
-### Posaune 6: Zweites Wehe, Heer am Euphrat
+#### Posaune 6: Zweites Wehe, Heer am Euphrat
 
 **Offenbarung 9:13-21**
 
@@ -195,7 +239,7 @@ Vier am Euphrat gebundene Engel werden freigelassen. Eine gewaltige Reitertruppe
 
 Die Überlebenden weigern sich weiterhin, von Götzendienst, Mord, Zauberei, sexueller Unmoral und Diebstahl umzukehren.
 
-## Offenbarung 10: Die kleine Schriftrolle
+### Offenbarung 10: Die kleine Schriftrolle
 
 **Offenbarung 10:1-11**
 
@@ -205,15 +249,15 @@ Johannes wird dann gesagt, dass er erneut über viele Völker, Nationen, Sprache
 
 Dies ist ein Zwischenspiel, keine weitere nummerierte Posaune.
 
-## Offenbarung 11: Tempel, zwei Zeugen, siebte Posaune
+### Offenbarung 11: Tempel, zwei Zeugen, siebte Posaune
 
-### Die heilige Stadt und 42 Monate
+#### Die heilige Stadt und 42 Monate
 
 **Offenbarung 11:1-2**
 
 Die Nationen zertreten die heilige Stadt **42 Monate** lang.
 
-### Die zwei Zeugen und 1.260 Tage
+#### Die zwei Zeugen und 1.260 Tage
 
 **Offenbarung 11:3-13**
 
@@ -223,7 +267,7 @@ Schließlich werden sie von dem Tier aus dem Abgrund getötet. Ihre Leichname li
 
 Darauf folgt ein schweres Erdbeben.
 
-### Posaune 7: Das Reich wird angekündigt
+#### Posaune 7: Das Reich wird angekündigt
 
 **Offenbarung 11:15-19**
 
@@ -237,7 +281,7 @@ Die himmlische Verkündigung spricht von Gottes Herrschaft, Zorn, Gericht, Lohn 
 
 **Bedeutung für eine Entrückung in der Mitte der Drangsal:** Manche Ausleger setzen die „letzte Posaune“ des Paulus in **1 Korinther 15:52** mit der siebten Posaune der Offenbarung gleich und ordnen die Entrückung deshalb hier ein. Die Offenbarung bezeichnet die beiden Posaunen nie ausdrücklich als dieselbe Posaune; daher handelt es sich um eine Auslegungsverbindung.
 
-## Offenbarung 12: Die Frau, der Messias und der Drache
+### Offenbarung 12: Die Frau, der Messias und der Drache
 
 Offenbarung 12 zeigt, warum das Buch nicht wie eine starre, Kapitel für Kapitel fortschreitende Stoppuhr gelesen werden kann.
 
@@ -267,9 +311,9 @@ Der Drache greift diejenigen an, die:
 >
 > **Offenbarung 12:17**
 
-## Offenbarung 13: Das Tier, der Falsche Prophet und das Malzeichen
+### Offenbarung 13: Das Tier, der Falsche Prophet und das Malzeichen
 
-### Das Tier aus dem Meer
+#### Das Tier aus dem Meer
 
 **Offenbarung 13:1-10**
 
@@ -283,7 +327,7 @@ Das Tier:
 - erhält Vollmacht über Völker, Nationen, Sprachen und Stämme
 - wird von denen angebetet, deren Namen nicht im Buch des Lebens des Lammes stehen
 
-### Das Tier aus der Erde / der Falsche Prophet
+#### Das Tier aus der Erde / der Falsche Prophet
 
 **Offenbarung 13:11-18**
 
@@ -291,7 +335,7 @@ Ein zweites Tier tut Zeichen, fördert die Anbetung des ersten Tieres und veranl
 
 Offenbarung 19 bezeichnet die zweite, Wunder wirkende Gestalt später als den **Falschen Propheten**.
 
-### Das Malzeichen des Tieres
+#### Das Malzeichen des Tieres
 
 Das zweite Tier verlangt, dass die Menschen ein Malzeichen an der rechten Hand oder an der Stirn annehmen, damit niemand ohne dieses Zeichen kaufen oder verkaufen kann.
 
@@ -299,7 +343,7 @@ Die mit dem Tier verbundene Zahl ist **666**.
 
 Siehe **Offenbarung 13:16-18**.
 
-## Offenbarung 14: 144.000, Warnungen und Ernte
+### Offenbarung 14: 144.000, Warnungen und Ernte
 
 Offenbarung 14 enthält mehrere Szenen:
 
@@ -315,7 +359,7 @@ Offenbarung 14 enthält mehrere Szenen:
 
 Einige dieser Szenen greifen voraus und zeigen Ergebnisse, die spätere Kapitel ausführlicher beschreiben.
 
-## Offenbarung 15: Vorbereitung auf die Schalen
+### Offenbarung 15: Vorbereitung auf die Schalen
 
 Sieben Engel empfangen sieben letzte Plagen.
 
@@ -325,39 +369,39 @@ Diejenigen, die das Tier, sein Bild und die Zahl seines Namens überwunden haben
 
 **Schlüsselstelle:** Offenbarung 15:1-8.
 
-## Die sieben Schalen des Zorns
+### Die sieben Schalen des Zorns
 
-### Schale 1: Schmerzhafte Geschwüre
+#### Schale 1: Schmerzhafte Geschwüre
 
 **Offenbarung 16:1-2**
 
 Schmerzhafte Geschwüre treffen diejenigen, die das Malzeichen des Tieres tragen und sein Bild anbeten.
 
-### Schale 2: Das Meer wird zu Blut
+#### Schale 2: Das Meer wird zu Blut
 
 **Offenbarung 16:3**
 
 Das Meer wird wie das Blut eines Toten, und jedes Lebewesen im Meer stirbt.
 
-### Schale 3: Flüsse und Quellen werden zu Blut
+#### Schale 3: Flüsse und Quellen werden zu Blut
 
 **Offenbarung 16:4-7**
 
 Die Süßwasser werden zu Blut. Das Gericht wird ausdrücklich mit dem Vergießen des Blutes der Heiligen und Propheten verbunden.
 
-### Schale 4: Die Sonne versengt die Menschheit
+#### Schale 4: Die Sonne versengt die Menschheit
 
 **Offenbarung 16:8-9**
 
 Die Sonne versengt die Menschen mit großer Hitze. Sie lästern Gott und weigern sich umzukehren.
 
-### Schale 5: Finsternis über dem Reich des Tieres
+#### Schale 5: Finsternis über dem Reich des Tieres
 
 **Offenbarung 16:10-11**
 
 Das Reich des Tieres wird in Finsternis gestürzt. Die Menschen zerbeißen vor Qual ihre Zungen und weigern sich dennoch umzukehren.
 
-### Schale 6: Euphrat ausgetrocknet, Könige versammelt
+#### Schale 6: Euphrat ausgetrocknet, Könige versammelt
 
 **Offenbarung 16:12-16**
 
@@ -367,7 +411,7 @@ Der Versammlungsort heißt **Harmagedon**.
 
 Jesus fügt in **Offenbarung 16:15** eine Warnung ein, wach und bereit zu bleiben.
 
-### Schale 7: „Es ist geschehen“
+#### Schale 7: „Es ist geschehen“
 
 **Offenbarung 16:17-21**
 
@@ -381,13 +425,13 @@ Die siebte Schale bringt:
 - verschwindende Berge
 - riesige Hagelsteine
 
-## Offenbarung 17-18: Babylon erklärt und zerstört
+### Offenbarung 17-18: Babylon erklärt und zerstört
 
-### Offenbarung 17
+#### Offenbarung 17
 
 Johannes sieht „Babylon die Große“, dargestellt als eine Prostituierte, die auf dem Tier sitzt. Das Kapitel erklärt symbolische Merkmale des Tieres und der mit ihm verbündeten Könige.
 
-### Offenbarung 18
+#### Offenbarung 18
 
 Babylon fällt. Könige, Kaufleute und Seeleute trauern, weil das wirtschaftliche und politische System, von dem sie profitierten, unter Gottes Gericht zusammenbricht.
 
@@ -399,19 +443,19 @@ Gottes Volk wird gewarnt:
 
 Die Offenbarung nennt sie Babylon die Große (**Offenbarung 17:5**) und gibt ihr keinen anderen Namen. Der Text nennt sie „die große Stadt, die über die Könige der Erde herrscht“ (**Offenbarung 17:18**), auf „sieben Bergen“ sitzend (**Offenbarung 17:9**) und „trunken vom Blut der Heiligen“ (**Offenbarung 17:6**). Der Text stellt sie als verdorbene, reiche und verfolgende Macht unter göttlichem Gericht dar.
 
-## Offenbarung 19: Hochzeitsmahl und sichtbare Wiederkunft Christi
+### Offenbarung 19: Hochzeitsmahl und sichtbare Wiederkunft Christi
 
-### Der Himmel jubelt über das Gericht an Babylon
+#### Der Himmel jubelt über das Gericht an Babylon
 
 **Offenbarung 19:1-5**
 
-### Hochzeit des Lammes
+#### Hochzeit des Lammes
 
 **Offenbarung 19:6-10**
 
 Die Hochzeit des Lammes ist gekommen, und Seine Braut hat sich bereitgemacht.
 
-### Jesus kehrt als König der Könige zurück
+#### Jesus kehrt als König der Könige zurück
 
 **Offenbarung 19:11-16**
 
@@ -427,7 +471,7 @@ Er kommt, um in Gerechtigkeit zu richten und Krieg zu führen und die Nationen z
 
 Dies ist die deutlichste sichtbare Szene der Wiederkunft in der Offenbarung.
 
-### Das Tier und der Falsche Prophet werden besiegt
+#### Das Tier und der Falsche Prophet werden besiegt
 
 **Offenbarung 19:17-21**
 
@@ -437,9 +481,9 @@ Das Tier und der Falsche Prophet werden ergriffen und lebendig in den Feuersee g
 
 Ihre Heere werden besiegt.
 
-## Offenbarung 20: Das Tausendjährige Reich
+### Offenbarung 20: Das Tausendjährige Reich
 
-### Satan wird für 1.000 Jahre gebunden
+#### Satan wird für 1.000 Jahre gebunden
 
 **Offenbarung 20:1-3**
 
@@ -451,7 +495,7 @@ Die erzählerische Abfolge lautet:
 
 **Christus kehrt zurück -> Tier und Falscher Prophet besiegt -> Satan gebunden -> 1.000-jährige Herrschaft**
 
-### Die erste Auferstehung und Herrschaft mit Christus
+#### Die erste Auferstehung und Herrschaft mit Christus
 
 **Offenbarung 20:4-6**
 
@@ -469,7 +513,7 @@ Diejenigen, die an ihr teilhaben, sind Priester Gottes und Christi und herrschen
 
 **Bedeutung für die Entrückung:** Vertreter der Entrückung nach der Drangsal sehen die Einordnung der „ersten Auferstehung“ nach Offenbarung 19 als starken Beleg dafür, dass Auferstehung und Sammlung der Gläubigen bei der sichtbaren Wiederkunft Christi geschehen. Vertreter der Vorentrückungslehre verstehen die „erste Auferstehung“ im Allgemeinen als eine Kategorie oder ein Programm, das in Etappen abläuft: Die Gemeinde wird früher auferweckt, die Märtyrer der Drangsal hier. Die Offenbarung selbst beschreibt diese vorgeschlagenen Etappen nicht ausdrücklich.
 
-## Satans Freilassung nach dem Tausendjährigen Reich
+### Satans Freilassung nach dem Tausendjährigen Reich
 
 **Offenbarung 20:7-10**
 
@@ -486,7 +530,7 @@ Das Tier und der Falsche Prophet sind bereits dort, da sie vor dem Tausendjähri
 
 Dieses Detail belegt, dass das Tausendjährige Reich **nicht** die endgültige Neue Schöpfung ist. Nach den tausend Jahren ist noch Rebellion möglich, weil Satan ein letztes Mal freigelassen wird.
 
-## Gericht vor dem Großen Weißen Thron
+### Gericht vor dem Großen Weißen Thron
 
 **Offenbarung 20:11-15**
 
@@ -503,7 +547,7 @@ Nach Satans endgültiger Niederlage:
 
 Dies ist der zweite Tod.
 
-## Offenbarung 21: Neuer Himmel, Neue Erde, Neues Jerusalem
+### Offenbarung 21: Neuer Himmel, Neue Erde, Neues Jerusalem
 
 Erst nach dem Tausendjährigen Reich, Satans Freilassung, dem letzten Aufstand und dem Großen Weißen Thron sagt Johannes:
 
@@ -533,7 +577,7 @@ Siehe **Offenbarung 21:1-8**.
 
 Der Rest des Kapitels beschreibt die Herrlichkeit des Neuen Jerusalem.
 
-## Offenbarung 22: Ewiges Leben und die letzte Verheißung
+### Offenbarung 22: Ewiges Leben und die letzte Verheißung
 
 Die Offenbarung endet mit:
 
@@ -550,7 +594,7 @@ Jesus sagt wiederholt, dass Er bald kommt, und lädt abschließend dazu ein, zu 
 
 Siehe **Offenbarung 22:7, 12, 16-17, 20**.
 
-## Das Tausendjährige Reich und die Neue Schöpfung sind verschiedene Phasen
+### Das Tausendjährige Reich und die Neue Schöpfung sind verschiedene Phasen
 
 Diese Unterscheidung ist wesentlich.
 
@@ -566,7 +610,7 @@ Diese Unterscheidung ist wesentlich.
 
 Nach der schlichten fortlaufenden Lesart ist das vollständig offenbarte Tausendjährige Reich **noch nicht eingetreten**, weil die Offenbarung es nach der sichtbaren Niederlage des Tieres und des Falschen Propheten bei der Wiederkunft Christi und vor Satans letzter Freilassung einordnet.
 
-## Lehrt die Offenbarung eine siebenjährige Drangsal?
+### Lehrt die Offenbarung eine siebenjährige Drangsal?
 
 Die Offenbarung nennt wiederholt Zeiträume von ungefähr dreieinhalb Jahren:
 
@@ -583,6 +627,100 @@ Das kann eine gültige Zusammenschau sein, doch der Text muss vom Modell untersc
 **Die Offenbarung selbst enthält nirgends den Satz: „Die Drangsal dauert sieben Jahre.“**
 
 Der Rahmen von sieben Jahren entsteht durch die Verbindung der Offenbarung mit Daniel.
+
+## Futuristischer Prämillennialismus: überlappende Visionen
+
+Diese Sicht behält den prämillennialistischen Endpunkt von Offenbarung 19-22 bei und lässt zugleich zu, dass einige Visionen denselben Zeitraum behandeln. Die Reihenfolge, in der Johannes eine Vision sieht, muss nicht immer festlegen, wann deren Ereignisse beginnen. Die Offenbarung selbst liefert ein klares Beispiel: Nachdem die siebte Posaune das Reich ankündigt, kehrt Offenbarung 12 zur Geburt und Erhöhung des Messias zurück (Offenbarung 11:15-18; Offenbarung 12:1-6).
+
+**Kurzer Zeitplan:** Gemeindezeitalter -> überlappende und sich steigernde Gerichtsvisionen -> sichtbare Wiederkunft Christi -> tausendjährige Herrschaft -> letzter Aufstand Satans -> Endgericht -> Neuschöpfung.
+
+### Den wiederkehrenden Endpunkten folgen
+
+Das sechste Siegel erreicht kosmische Erschütterungen und die Ankündigung des großen Tages des Zorns (Offenbarung 6:12-17). Die siebte Posaune kündigt das Reich, den Zorn, das Gericht und den Lohn für Gottes Knechte an (Offenbarung 11:15-19). Die siebte Schale erklärt die Vollendung und bringt ein beispielloses Erdbeben sowie das Gericht über Babylon (Offenbarung 16:17-21). Wer hier überlappende Zyklen erkennt, vergleicht diese Endpunkte, statt anzunehmen, jede Reihe füge einen völlig eigenen Zeitraum von Jahren hinzu.
+
+Auch die Plagen beim Auszug erklären die Sprache der Gerichte. Blut, Finsternis und Hagel erinnern an Gottes Auseinandersetzung mit Ägypten (2. Mose 7:17-21; 2. Mose 9:22-26; 2. Mose 10:21-23; Offenbarung 8:7-9; Offenbarung 16:3-10). Dieser gemeinsame Hintergrund erklärt Ähnlichkeiten zwischen den Visionen. Die Ähnlichkeit allein beweist nicht, dass zwei Gerichte gleichzeitig geschehen.
+
+### Die Zeiträume vergleichen, bevor man sie addiert
+
+Offenbarung 11:2-3 stellt zweiundvierzig Monate des Zertretens neben 1.260 Tage des Zeugnisses. Offenbarung 12:6 und Offenbarung 12:14 beschreiben den Schutz der Frau als 1.260 Tage und als eine Zeit, Zeiten und eine halbe Zeit. Offenbarung 13:5 gibt dem Tier zweiundvierzig Monate Vollmacht. Diese Angaben laden zum Vergleich mit Daniel 7:25 und Daniel 12:7 ein. Sie weisen den Leser nicht an, jedes Vorkommen zu einer längeren Gesamtdauer zu addieren.
+
+Eine vorgeschlagene Überschneidung sollte die beteiligten Personen, die Handlung, die Dauer und den Endpunkt benennen. Der Schutz der Frau und die Verfolgung durch das Tier können zwei gegnerische Seiten desselben Konflikts beschreiben; ihr gleichzeitiges Bestehen hebt ihren Unterschied nicht auf (Offenbarung 12:13-17; Offenbarung 13:5-10). Der Text nennt die Ereignisse und Zeiträume; ihre Zuordnung bleibt eine Zusammenschau des Lesers.
+
+### Vorwegnahmen von späteren Erklärungen unterscheiden
+
+Ein Engel kündigt in Offenbarung 14:8 den Fall Babylons an, bevor Offenbarung 17-18 ihren Charakter und ihre Vernichtung erklärt. Offenbarung 17:1 leitet ausdrücklich eine Erklärung des Gerichts über die Hure ein. Wenn diese Erklärung nach den Schalen gelesen wird, muss Babylon deshalb nicht zweimal fallen.
+
+Eine futuristische Rekapitulation bewahrt somit den Fortschritt der Handlung, ohne jede Szene in einen neuen Zeitabschnitt zu zwingen. Sie lässt auch den Zeitpunkt der Entrückung für eine eigene Untersuchung offen. Ein Leser kann ein künftiges tausendjähriges Reich erwarten und Auferstehung und Sammlung dennoch vor der Drangsal, während ihrer letzten Krise oder bei Christi öffentlicher Wiederkunft einordnen. Die einschlägigen Stellen müssen diese Einordnung begründen, nicht die Überschneidung als solche (Matthäus 24:29-31; 1. Thessalonicher 4:16-17).
+
+## Historischer Prämillennialismus
+
+Der historische Prämillennialismus erwartet Christi Wiederkunft vor einer künftigen irdischen Herrschaft. Er verbindet die Auferstehung und Sammlung der Gemeinde gewöhnlich mit seiner öffentlichen Wiederkunft nach der Drangsal. Gottes Verheißungen an sein Volk bleiben dabei bestehen, ohne dass die Gemeinde Jahre zuvor von der Erde genommen werden muss.
+
+**Kurzer Zeitplan:** gegenwärtiges Gemeindezeitalter -> gesteigerte Drangsal und Abfall -> sichtbare Wiederkunft, Auferstehung und Sammlung der Gläubigen -> tausendjährige Herrschaft -> letzter Aufstand -> Endgericht -> Neuschöpfung.
+
+### Das Kommen und die Sammlung zusammen lesen
+
+Jesus beschreibt das Erscheinen des Menschensohnes und die Sammlung seiner Auserwählten nach der Drangsal (Matthäus 24:29-31). Paulus beschreibt Christi Herabkommen, die Auferstehung der verstorbenen Gläubigen und die gemeinsame Sammlung der lebenden Gläubigen mit ihnen (1. Thessalonicher 4:13-18). Später behandelt er Christi Wiederkunft und unsere Vereinigung mit ihm in derselben Erörterung des Abfalls und des Gesetzlosen (2. Thessalonicher 2:1-8). Historische Prämillennialisten verbinden diese Berichte als Beschreibungen eines einzigen abschließenden Kommens.
+
+Die daraus erwachsende Hoffnung setzt nicht voraus, dass Gläubige jedem Leiden entgehen. Jesus bereitet seine Jünger auf Drangsal vor, und die Offenbarung ruft die Heiligen unter der Verfolgung des Tieres zum Ausharren auf (Johannes 16:33; Offenbarung 13:10). Gottes Verheißung der Rettung vor dem Zorn bleibt fest; diese Sicht unterscheidet sie von einer Befreiung von jeder Verfolgung (1. Thessalonicher 5:9-10).
+
+### Die Herrschaft zwischen zwei Niederlagen lesen
+
+Offenbarung 19:19-21 beschreibt die Niederlage des Tieres und des Falschen Propheten. Danach beschreibt Offenbarung 20:1-6 die Bindung Satans und die Herrschaft derer, die an der ersten Auferstehung teilhaben. Nach den tausend Jahren sammelt Satan einen weiteren Aufstand, den Gott vernichtet (Offenbarung 20:7-10). Der historische Prämillennialismus liest diese Abfolge als aufeinanderfolgende Ereignisse und versteht die erste Auferstehung als leibliche Auferstehung.
+
+Paulus nennt eine verwandte Ordnung: Christi Auferstehung, die Auferstehung derer, die ihm gehören, bei seiner Wiederkunft und danach das Ende, wenn er das Reich dem Vater übergibt, nachdem er jeden Feind überwunden hat (1. Korinther 15:23-28). Diese Stelle stützt Christi siegreiche Herrschaft, nennt aber nicht die Länge des Zwischenraums. In dieser Zusammenschau liefert Offenbarung 20 die tausend Jahre.
+
+### Die ganze Verheißung berücksichtigen
+
+Prämillennialistische Leser verbinden diese künftige Herrschaft mit Stellen, die Gerechtigkeit unter den Völkern neben Zuständen beschreiben, in denen der Tod noch nicht endgültig abgeschafft ist (Jesaja 11:1-10; Jesaja 65:20-25; Sacharja 14:16-19). Andere Christen lesen diese Verheißungen im Licht des gegenwärtigen Reiches oder der Neuschöpfung. Entscheidend ist, wie diese Stellen zu Offenbarung 20 stehen, nicht ob Gott seine Verheißungen hält. Offenbarung 21:4 bleibt der endgültige Horizont: Der Tod selbst endet.
+
+## Amillennialismus
+
+Der Amillennialismus versteht die tausend Jahre als Christi gegenwärtige Herrschaft mit seinen Heiligen, nicht als ein getrenntes irdisches Zeitalter nach seiner Wiederkunft. Er bejaht ein wirkliches Reich und eine künftige leibliche Auferstehung. Seine zentrale Lesart behandelt Offenbarung 20:1-6 als eine weitere Sicht auf das Zeitalter zwischen Christi erstem und zweitem Kommen.
+
+**Kurzer Zeitplan:** Christi erstes Kommen und gegenwärtige himmlische Herrschaft -> Evangeliumsauftrag, Leiden und wiederkehrender Konflikt im Gemeindezeitalter -> kurzer letzter Aufstand -> eine sichtbare Wiederkunft, allgemeine Auferstehung und Endgericht -> Neuschöpfung.
+
+### Satans Bindung zusammen mit Christi erstem Kommen lesen
+
+Offenbarung 20:3 nennt den Zweck von Satans Bindung: Er soll die Völker bis zu seiner Freilassung nicht mehr verführen. Jesus beschreibt sein eigenes Werk damit, dass er in das Haus eines Starken eindringt, nachdem er ihn gebunden hat (Matthäus 12:28-29). Vor dem Kreuz kündigt er das Gericht über den Herrscher dieser Welt an und zieht durch seine Erhöhung Menschen zu sich (Johannes 12:31-33). Amillennialistische Leser verbinden diese Stellen mit dem Vordringen des Evangeliums unter den Völkern.
+
+Sie verstehen die Bindung deshalb als Einschränkung von Satans Macht, nicht als Abwesenheit jeder satanischen Tätigkeit. Diese Unterscheidung ist wichtig, weil die Apostel die Gläubigen weiterhin vor dem Teufel warnen (1. Petrus 5:8-9). Prämillennialistische Leser entgegnen, dass die Gefangenschaft im versiegelten Abgrund eine stärkere Einschränkung beschreibt, als sie in der gegenwärtigen Welt zu erkennen ist (Offenbarung 20:1-3). Beide Lesarten müssen den genannten Zweck und die Aussagekraft der Bildsprache der Vision berücksichtigen.
+
+### Das Leben und die Herrschaft der Heiligen mit Christus lesen
+
+Johannes sieht in Offenbarung 20:4 die Seelen treuer Märtyrer, wie er zuvor in Offenbarung 6:9-11 die Seelen der Märtyrer sah, die auf ihre Rechtfertigung warteten. Eine amillennialistische Lesart versteht ihr Leben und Herrschen als ihr gegenwärtiges Leben mit Christus im Himmel. Eine andere betont die gegenwärtige Teilhabe der Gläubigen am Auferstehungsleben Christi (Epheser 2:4-6; Johannes 5:24-25). Diese Erklärungen unterscheiden sich innerhalb dieser Sicht; keine von ihnen leugnet die spätere Auferstehung des Leibes.
+
+Die Hauptschwierigkeit liegt in der Aussage des Johannes, dass sie lebendig wurden und die übrigen Toten nicht lebendig wurden, bis die tausend Jahre vollendet waren (Offenbarung 20:4-5). Prämillennialisten verstehen denselben Ausdruck an beiden Stellen leiblich. Amillennialisten unterscheiden den gegenwärtigen Sieg der Heiligen über den Tod von der letzten Auferstehung und lesen den Abschnitt im Licht der Visionen von den Seelen im Himmel und der neutestamentlichen Lehre vom Leben in Christus.
+
+### Die Wiederkunft als endgültige Vollendung lesen
+
+Jesus verbindet in seiner Lehre über die kommende Stunde die Auferstehung der Gerechten und der Bösen (Johannes 5:28-29). Er verbindet auch sein Kommen in Herrlichkeit mit dem Gericht über die Völker (Matthäus 25:31-46). Petrus verbindet den Tag des Herrn mit dem Gericht und den verheißenen neuen Himmeln und der neuen Erde (2. Petrus 3:10-13). Der Amillennialismus gibt diesen Stellen Vorrang, wenn er Auferstehung, Gericht und Neuschöpfung bei Christi Wiederkunft einordnet.
+
+Dies setzt voraus, Offenbarung 20 als Rekapitulation zu lesen und nicht als eine erst nach Offenbarung 19 beginnende Ereignisfolge. Die tausend Jahre bezeichnen dann den vollständigen Zeitraum, den Gott für die gegenwärtige Herrschaft bestimmt hat; darauf folgen Satans kurze Freilassung und seine endgültige Niederlage (Offenbarung 20:3; Offenbarung 20:7-10). Die Zuversicht dieser Sicht beruht auf Christi gegenwärtiger Herrschaft und seiner verheißenen Wiederkunft, nicht auf einer Leugnung der Wirklichkeit seines Reiches.
+
+## Postmillennialismus
+
+Der Postmillennialismus erwartet, dass das Evangelium vor Christi Wiederkunft unter den Völkern weitverbreiteten Glauben und Gehorsam hervorbringt. Er verbindet diese Erwartung mit dem tausendjährigen Reich, das als gegenwärtiges Zeitalter oder als eine spätere Blütezeit innerhalb dieses Zeitalters verstanden wird. Seine Hoffnung gilt Christi Wirken durch sein Evangelium, nicht einer von ihm unabhängigen Verbesserung der Menschheit.
+
+**Kurzer Zeitplan:** Evangeliumsauftrag im gegenwärtigen Zeitalter -> umfassende Bekehrung der Völker und lange Phase des Reichseinflusses -> letzter Aufstand -> sichtbare Wiederkunft, Auferstehung und Endgericht -> Neuschöpfung.
+
+### Mit der Vollmacht und dem Auftrag des Königs beginnen
+
+Der auferstandene Jesus erklärt seine Vollmacht im Himmel und auf Erden und sendet seine Jünger aus, alle Völker zu Jüngern zu machen (Matthäus 28:18-20). Psalm 2:7-9 stellt die Völker als Erbe des Sohnes dar. Psalm 72:8-11 beschreibt die weitreichende Herrschaft des Königs und den Dienst der Völker. Postmillennialisten verbinden den Auftrag mit diesen königlichen Verheißungen und erwarten umfassende geschichtliche Frucht aus der Evangeliumsmission.
+
+Der nächste Schritt betrifft die Frage, wann dieser weitverbreitete Gehorsam sichtbar wird. Jesaja beschreibt Völker, die die Weisung des HERRN suchen, und eine Erde, die von seiner Erkenntnis erfüllt ist (Jesaja 2:2-4; Jesaja 11:9-10). Der Postmillennialismus ordnet eine wesentliche Erfüllung vor Christi Wiederkunft ein. Prämillennialisten verorten sie im Allgemeinen in der künftigen irdischen Herrschaft; andere Leser betonen ihre Vollendung in der Neuschöpfung. Die Verheißungen bleiben dieselben; ihre Einordnung unterscheidet sich.
+
+### Dem Wachstum des Reiches folgen
+
+Jesus vergleicht das Reich mit einem Senfkorn, das zu einer großen Pflanze wird, und mit Sauerteig, der den ganzen Teig durchdringt (Matthäus 13:31-33). Postmillennialistische Leser sehen darin, wie kleine Anfänge weitreichende Ergebnisse hervorbringen. Paulus lehrt, dass Christus herrschen muss, bis er alle seine Feinde unter seine Füße gelegt hat (1. Korinther 15:25). Zusammen stützen diese Texte ihre Erwartung, dass der herrschende Christus die Völker durch das Evangelium verwandeln wird.
+
+Auch das Gleichnis vom Weizen und Unkraut verlangt Beachtung. Beide bleiben bis zur Ernte am Ende des Zeitalters bestehen (Matthäus 13:24-30; Matthäus 13:36-43). Der Postmillennialismus muss nicht behaupten, jeder Mensch werde sich bekehren oder jede Sünde verschwinde vor Christi Wiederkunft. Seine besondere Aussage ist ein breiter geschichtlicher Fortschritt der Jüngerschaft, nicht das vorzeitige Eintreffen der sündlosen Neuschöpfung.
+
+### Den letzten Aufstand und das Gericht im Blick behalten
+
+Offenbarung 20:7-10 setzt nach den tausend Jahren einen letzten Ausbruch von Verführung und Widerstand an. Postmillennialistische Leser halten an diesem letzten Aufstand nach der Zeit des Aufblühens des Evangeliums fest. Danach ordnen sie die allgemeine Auferstehung und das Gericht bei Christi Wiederkunft ein und vergleichen Johannes 5:28-29 und Matthäus 25:31-46 mit Offenbarung 20:11-15.
+
+Diese Sicht muss erklären, wie ihre Erwartung weitverbreiteter Frucht des Evangeliums zu den wiederholten Warnungen vor Leiden und Abfall passt (2. Timotheus 3:1-5; 2. Thessalonicher 2:1-8). Postmillennialisten beurteilen unterschiedlich, welche Warnungen vor allem frühere Krisen betreffen und welche den letzten Ausbruch beschreiben. Ihre Zeitleiste beruht auf diesen kontextbezogenen Urteilen; die Wachstumsgleichnisse allein nennen weder einen Kalender noch einen Anteil der Bekehrten.
 
 ## Die Entrückung: Was ist ausdrücklich gesagt?
 
@@ -606,11 +744,15 @@ Der Streitpunkt ist nicht, ob die Gläubigen entrückt werden, um Christus zu be
 
 ## Mögliche Einordnungen der Entrückung
 
-### 1. Vor der Drangsal
+Die folgenden vier Einordnungen beschreiben verschiedene Vorschläge, dieselbe biblische Sammlung mit den Visionen der Offenbarung zu verbinden.
+
+## 1. Vor der Drangsal
 
 **Einordnung:** Vor dem ersten Siegel und vor der endzeitlichen Drangsalszeit.
 
-#### Häufig angeführte Belegstellen
+**Kurzer Zeitplan:** Gemeindezeitalter -> Gläubige vor der letzten Drangsal entrückt -> Siegel, Posaunen und Schalen -> sichtbare Wiederkunft Christi -> tausendjährige Herrschaft.
+
+### Häufig angeführte Belegstellen
 
 - **1 Thessalonicher 4:13-18**: Gläubige werden entrückt, um Christus zu begegnen.
 - **1 Thessalonicher 5:9**: Gläubige sind nicht zum Zorn bestimmt.
@@ -618,13 +760,13 @@ Der Streitpunkt ist nicht, ob die Gläubigen entrückt werden, um Christus zu be
 - **Offenbarung 3:10**: Verheißung, die Gemeinde in Philadelphia **vor der Stunde der Prüfung zu bewahren, die über die ganze Welt kommen wird**.
 - Das Wort „Gemeinde“ wird in Offenbarung 6-18 nicht für die Heiligen auf der Erde gebraucht.
 
-#### Vorgeschlagene Stelle in der Offenbarung
+### Vorgeschlagene Stelle in der Offenbarung
 
 Gewöhnlich **zwischen Offenbarung 3 und 4**, vor Siegel 1.
 
 Manche verwenden Offenbarung 4:1, „Komm hier herauf“, als symbolisches Bild der Entrückung.
 
-#### Hauptschwierigkeiten
+### Hauptschwierigkeiten
 
 - Offenbarung 4:1 beschreibt ausdrücklich, wie Johannes in eine Vision eintritt, nicht wie die Gemeinde weggenommen wird.
 - Die Offenbarung sagt nirgends direkt, dass die Gemeinde vor Siegel 1 entrückt wurde.
@@ -634,28 +776,32 @@ Manche verwenden Offenbarung 4:1, „Komm hier herauf“, als symbolisches Bild 
 
 Vertreter der Vorentrückungslehre antworten darauf, indem sie die Entrückung von der späteren sichtbaren Wiederkunft Christi unterscheiden und zwischen der Gemeinde und anderen Heiligen unterscheiden, die während der Drangsal anwesend sind.
 
-### 2. In der Mitte der Drangsal
+## 2. In der Mitte der Drangsal
 
 **Einordnung:** Etwa in der Mitte des letzten Zeitraums, häufig mit Offenbarung 11 und der siebten Posaune verbunden.
 
-#### Häufig angeführte Verbindungen
+**Kurzer Zeitplan:** Gemeindezeitalter -> erste Hälfte der letzten Drangsal -> Gläubige etwa in der Mitte entrückt -> spätere Gerichte -> sichtbare Wiederkunft Christi -> tausendjährige Herrschaft.
+
+### Häufig angeführte Verbindungen
 
 - **1 Korinther 15:52**: Auferstehung und Verwandlung geschehen bei der „letzten Posaune“.
 - **Offenbarung 11:15**: Die siebte und letzte Posaune erschallt.
 - **Offenbarung 11:12**: Die zwei Zeugen steigen zum Himmel auf.
 - Die Offenbarung verwendet wiederholt 42 Monate und 1.260 Tage, was auf eine bedeutende zeitliche Mitte hindeutet.
 
-#### Hauptschwierigkeiten
+### Hauptschwierigkeiten
 
 - Die Schrift sagt nirgends ausdrücklich, dass die „letzte Posaune“ des Paulus die siebte Posaune der Offenbarung ist.
 - Der Aufstieg der zwei Zeugen betrifft ausdrücklich diese beiden Zeugen, nicht die ganze Gemeinde.
 - Die Zeiträume von 42 Monaten werden in der Offenbarung nicht alle ausdrücklich als aufeinanderfolgende Hälften eines einzigen siebenjährigen Zeitraums eingeordnet.
 
-### 3. Nach der Drangsal / Bei der sichtbaren Wiederkunft Christi
+## 3. Nach der Drangsal / Bei der sichtbaren Wiederkunft Christi
 
 **Einordnung:** Am Ende der Drangsal, verbunden mit dem öffentlichen Erscheinen Christi und unmittelbar vor dem Tausendjährigen Reich.
 
-#### Häufig angeführte Belegstellen
+**Kurzer Zeitplan:** Gemeindezeitalter -> letzte Drangsal -> sichtbare Wiederkunft, Auferstehung und Entrückung als ein Ereigniskomplex -> tausendjährige Herrschaft.
+
+### Häufig angeführte Belegstellen
 
 **Matthäus 24:29-31** sagt:
 
@@ -685,24 +831,26 @@ Vertreter der Vorentrückungslehre antworten darauf, indem sie die Entrückung v
 
 **Offenbarung 19-20** stellt den sichtbaren Sieg Christi über das Tier unmittelbar vor die Beschreibung derer, die vom Tier getötet wurden, lebendig werden und als Teil „der ersten Auferstehung“ bezeichnet werden.
 
-#### Hauptschwierigkeiten
+### Hauptschwierigkeiten
 
 - Vertreter der Vorentrückungslehre argumentieren, dass diese Sicht Stellen über die Bewahrung vor dem Zorn mit Stellen über die richterliche Wiederkunft Christi zusammenzieht.
 - Offenbarung 19 verwendet nicht ausdrücklich den Ausdruck „entrückt“.
 - Vertreter der Entrückung nach der Drangsal müssen erklären, wie die Gläubigen Christus in der Luft begegnen und wie diese Begegnung mit Seinem Herabkommen und Seiner irdischen Herrschaft zusammenhängt.
 
-### 4. Vor dem Zorn
+## 4. Vor dem Zorn
 
 **Einordnung:** Nach schwerer Drangsal und Verfolgung, häufig nach Siegel 6, jedoch vor den Posaunen- und Schalengerichten, die als konzentrierter Zorn am Tag des Herrn verstanden werden.
 
-#### Häufig angeführte Verbindungen
+**Kurzer Zeitplan:** Gemeindezeitalter -> schwere endzeitliche Verfolgung -> kosmische Zeichen -> Christus erscheint und sammelt die Gläubigen -> konzentrierter göttlicher Zorn -> tausendjährige Herrschaft.
+
+### Häufig angeführte Verbindungen
 
 - **Offenbarung 6:12-17**: Siegel 6 bringt kosmische Zeichen und die Ankündigung, dass der große Tag des Zorns gekommen ist.
 - **Matthäus 24:29-31**: Nach der Drangsal erscheinen kosmische Zeichen, Christus kommt auf den Wolken, eine Posaune erschallt, und die Auserwählten werden gesammelt.
 - **Offenbarung 7:9-17**: Eine große Schar aus jeder Nation erscheint vor dem Thron und kommt der Aussage nach aus der großen Drangsal.
 - **1 Thessalonicher 5:9**: Gläubige sind nicht zum Zorn bestimmt.
 
-#### Hauptschwierigkeiten
+### Hauptschwierigkeiten
 
 - Das Lamm selbst öffnet die früheren Siegel; deshalb argumentieren manche, dass Gottes Zorn bereits vor Siegel 6 wirkt.
 - Offenbarung 7 bezeichnet die Ankunft der großen Schar nirgends ausdrücklich als Entrückung.
@@ -736,6 +884,10 @@ Mehrere Beobachtungen lassen sich nur schwer umgehen:
 Aufgrund dieser Texte unterscheidet diese Studie **die Gewissheit der Wiederkunft Christi und der Sammlung/Auferstehung Seines Volkes** von **dem umstrittenen Zeitmodell, mit dem diese Sammlung in die Abfolge der Offenbarung eingeordnet wird**.
 
 ## Abschließende chronologische Tabelle
+
+Dieses beibehaltene Schaubild folgt der futuristisch-prämillennialistischen Lesart.
+
+„Ausdrücklich“ bedeutet hier, dass die Offenbarung das in der Zeile genannte Ereignis oder den Inhalt nennt. Es bedeutet nicht, dass jede angrenzende Einordnung allgemein ausdrücklich wäre, jede Vision erst nach der vorherigen beginnt oder Christen sich auf eine durchgehende Chronologie einigen.
 
 | Reihenfolge | Ereignis | Haupttext | Status |
 |---:|---|---|---|
@@ -772,8 +924,16 @@ Aufgrund dieser Texte unterscheidet diese Studie **die Gewissheit der Wiederkunf
 
 ## Zusammenfassung
 
+Diese beibehaltene Zusammenfassung beschreibt die futuristisch-prämillennialistische Abfolge, nicht eine von allen obigen Sichtweisen geteilte Chronologie.
+
 Die deutlichste endzeitliche Abfolge in der Offenbarung lautet:
 
 **Das Gericht entfaltet sich durch Siegel, Posaunen und Schalen. Das Tier und der Falsche Prophet steigen auf und verfolgen die Heiligen. Babylon fällt. Jesus kehrt sichtbar zurück und besiegt das Tier und den Falschen Propheten. Danach wird Satan gebunden. Die Heiligen herrschen tausend Jahre mit Christus. Nach den tausend Jahren wird Satan freigelassen, führt einen letzten Aufstand an und wird in den Feuersee geworfen. Darauf folgt das Gericht vor dem Großen Weißen Thron. Erst danach erschafft Gott den Neuen Himmel und die Neue Erde und lässt das Neue Jerusalem herabkommen, wo Sein Volk ewig herrscht.**
 
 Die Entrückung ist ein biblisches Ereignis, das besonders in **1 Thessalonicher 4:16-17** und **1 Korinther 15:51-52** beschrieben wird. Ihre genaue Einordnung im Verhältnis zu den Siegeln, Posaunen und Schalen der Offenbarung ist in der Offenbarung nicht ausdrücklich nummeriert und sollte als Auslegungsfrage dargestellt werden, nicht so, als enthielte der Text einen Vers mit der Aussage: „Hier geschieht die Entrückung.“
+
+## Die Zeitpläne anhand der Schrift prüfen
+
+Beginne mit Daniel 7:9-14, Matthäus 24:29-31, 1. Thessalonicher 4:13-18, 1. Korinther 15:20-28 und Offenbarung 19:11-21:5. Lies jede Stelle zuerst als einen vollständigen Gedankengang, bevor du die Zeitleisten vergleichst. Achte darauf, welche Ereignisse der Abschnitt tatsächlich in eine Reihenfolge bringt und welche Verbindungen erst durch die Auslegung hergestellt werden.
+
+Christi Wiederkunft ruft sein Volk zu treuem Dienst, Ausharren und Hoffnung. Jesus lehrt Wachsamkeit anhand von Knechten, die ihre Arbeit fortsetzen (Matthäus 24:42-51). Paulus fordert trauernde Gläubige auf, einander mit der Auferstehungsverheißung zu ermutigen (1. Thessalonicher 4:18). Johannes ruft die Heiligen auf, Gottes Gebote und den Glauben an Jesus zu bewahren, während sie ausharren (Offenbarung 14:12). Diese Weisungen gehören zu jeder schriftgetreuen Lesart der Zeitleiste.

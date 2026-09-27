@@ -122,6 +122,12 @@
           "verse": 22,
           "text": "Así volvió Noemi y Ruth Moabita su nuera con ella; volvió de los campos de Moab, y llegaron á Beth-lehem en el principio de la siega de las cebadas."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Noemí y Rut"
+        }
       ]
     },
     {
@@ -244,6 +250,12 @@
           "verse": 23,
           "text": "Estuvo pues junta con las mozas de Booz espigando, hasta que la siega de las cebadas y la de los trigos fué acabada; mas con su suegra habitó."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El encuentro de Rut con Booz"
+        }
       ]
     },
     {
@@ -340,6 +352,12 @@
           "chapter": 3,
           "verse": 18,
           "text": "Entonces [ADD]Noemi[/ADD] dijo: Reposa, hija mía, hasta que sepas cómo cae la cosa: porque aquel hombre no parará hasta que hoy concluya el negocio."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Rut y Booz en la era"
         }
       ]
     },
@@ -457,6 +475,20 @@
           "chapter": 4,
           "verse": 22,
           "text": "Y Obed engendró á Isaí, é Isaí engendró á David."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El matrimonio de Booz y Rut"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Rut tiene un hijo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "La genealogía de David"
         }
       ]
     }

@@ -5,15 +5,16 @@ The app's localized books remain the metadata layer. This importer writes a
 second Scripture layer containing only source-backed verse text and Psalm
 superscriptions. Summaries, takeaways, notes, cross-references, section-heading
 text, and book introductions continue to come from the existing localized
-books. A small audited heading override moves existing heading text when the
-selected edition places the same passage at a different chapter or verse.
+books. Every alternate-edition chapter carries an explicit heading table. An
+audited passage map moves existing localized heading text when the selected
+edition places that passage at a different chapter or verse; empty lists are
+written explicitly so runtime rendering never guesses or silently falls back.
 
 USFM footnotes, cross-references, and Strong's metadata are excluded from the
-display text. Translator-supplied words retain [ADD] markers. When a source has
-USFM ``wj`` markup, it retains exact [J] spans. Sources without red-letter
-markup inherit only verses whose entire English BSB verse is reviewed as
-Jesus' speech. Mixed narration and speech remain uncolored so narration is not
-falsely rendered as Jesus' words; the manifest records both outcomes.
+display text. Translator-supplied words retain [ADD] markers. Native USFM
+``wj`` markup takes precedence. Otherwise, full-verse speech comes from the
+hash-pinned English KJV wj source; mixed verses require an edition-specific,
+hash-bound reviewed span ledger before any narration can receive coloring.
 """
 
 from __future__ import annotations
@@ -29,9 +30,26 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Iterable
 
+from heading_maps import HeadingMapError, HeadingRelocation, load_heading_maps
+from jesus_word_spans import JesusSpanError, ReviewedJesusSpans, verse_key
+from reference_maps import reference_map_for_edition
+
 
 SCHEMA_VERSION = 2
 SOURCE_DATE = "2026-09-26"
+HEADING_MAP_PATH = Path(__file__).with_name("edition_heading_maps.json")
+REVIEWED_JESUS_EDITIONS = {
+    ("de", "luther1912"),
+    ("it", "diodati1885"),
+    ("es", "rv1909"),
+    ("pt", "almeida1911"),
+    ("ru", "synodal1876"),
+    ("ko", "korrv"),
+    ("ja", "bungo"),
+    ("ar", "van_dyck"),
+    ("zh-Hans", "cuv"),
+    ("zh-Hant", "cuv"),
+}
 
 
 @dataclass(frozen=True)
@@ -440,8 +458,8 @@ def promoted_footnote_verses(raw: str, chapter: int) -> tuple[str, list[SourceVe
     return prefix_addition, promoted
 
 
-def parse_usfm(path: Path) -> SourceBook:
-    raw_text = path.read_text(encoding="utf-8-sig")
+def parse_usfm_bytes(raw: bytes, path: Path) -> SourceBook:
+    raw_text = raw.decode("utf-8-sig")
     code = source_code(raw_text, path)
     chapters: list[SourceChapter] = []
     current_chapter: SourceChapter | None = None
@@ -489,7 +507,7 @@ def parse_usfm(path: Path) -> SourceBook:
     if not chapters:
         raise ImportErrorDetail(f"No chapters parsed: {path}")
     validate_book_coverage(code, chapters)
-    return SourceBook(code, path.name, sha256(path), chapters)
+    return SourceBook(code, path.name, hashlib.sha256(raw).hexdigest().upper(), chapters)
 
 
 def validate_book_coverage(code: str, chapters: list[SourceChapter]) -> None:
@@ -514,22 +532,34 @@ def validate_book_coverage(code: str, chapters: list[SourceChapter]) -> None:
         expected_chapter += 1
 
 
-def find_usfm_files(extracted: Path) -> dict[str, Path]:
-    result: dict[str, Path] = {}
-    for path in sorted(extracted.rglob("*.usfm")):
-        code = source_code(path.read_text(encoding="utf-8-sig"), path)
-        if code == "FRT":
-            continue
-        if code in result:
-            raise ImportErrorDetail(f"Duplicate USFM book code {code}")
-        result[code] = path
+def parse_usfm_archive(archive: Path) -> tuple[dict[str, SourceBook], str]:
+    # Read the bytes from the verified archive itself. An extracted cache can
+    # be stale or edited even when the archive still matches its pinned hash.
+    result: dict[str, SourceBook] = {}
+    with zipfile.ZipFile(archive) as source_zip:
+        for entry in sorted(source_zip.infolist(), key=lambda item: item.filename):
+            if entry.is_dir() or not entry.filename.lower().endswith(".usfm"):
+                continue
+            raw = source_zip.read(entry)
+            path = Path(entry.filename)
+            code = source_code(raw.decode("utf-8-sig"), path)
+            if code == "FRT":
+                continue
+            if code in result:
+                raise ImportErrorDetail(f"Duplicate USFM book code {code}")
+            result[code] = parse_usfm_bytes(raw, path)
     expected = {code for code, _collection, _book_id in BOOKS}
     if set(result) != expected:
         raise ImportErrorDetail(
             f"USFM inventory mismatch; missing={sorted(expected - set(result))}, "
             f"unexpected={sorted(set(result) - expected)}"
         )
-    return result
+    file_set = hashlib.sha256()
+    for code in sorted(result):
+        file_set.update(code.encode("ascii"))
+        file_set.update(b"\0")
+        file_set.update(bytes.fromhex(result[code].source_sha256))
+    return result, file_set.hexdigest().upper()
 
 
 KRV_BOOK_NAMES: tuple[str, ...] = (
@@ -1235,30 +1265,30 @@ def base_jesus_ranges(
     collection: str,
     book_id: str,
 ) -> tuple[dict[int, list[tuple[int, int]]], dict[int, list[tuple[int, int]]]]:
-    # English BSB carries the reviewed word-level [J] spans. Several localized
-    # base corpora expanded any speech span to the whole verse, so they are not
-    # safe evidence for coloring narration in another edition.
-    path = repo_root / "shared" / "assets" / "books" / collection / "en" / f"{book_id}.json"
+    # The KJV overlay carries word-level [J] from its hash-pinned CrossWire
+    # source wj markers. Localized base corpora often expand partial speech to
+    # whole verses, and BSB metadata is not the source authority here.
+    if collection != "new_testament":
+        return {}, {}
+    path = (
+        repo_root / "shared" / "assets" / "books" / "editions" /
+        "en" / "kjv1769" / collection / f"{book_id}.json"
+    )
     raw = json.loads(path.read_text(encoding="utf-8"))
     full: dict[int, list[tuple[int, int]]] = {}
     mixed: dict[int, list[tuple[int, int]]] = {}
-    for story in raw.get("stories", []):
-        for bullet in story.get("summaryBullets", []):
-            if "[J]" not in bullet.upper():
+    for chapter in raw["chapters"]:
+        chapter_number = chapter["number"]
+        for verse in chapter["verses"]:
+            scripture = verse["text"]
+            if "[J]" not in scripture:
                 continue
-            match = TRAILING_VERSE.search(bullet)
-            if match is None:
-                raise ImportErrorDetail(f"Jesus-tagged bullet has no trailing verse marker: {path}")
-            chapter = int(match.group(1))
-            start = int(match.group(2))
-            end = int(match.group(3) or start)
-            scripture = bullet[:match.start()].strip()
-            target = (
-                full
-                if scripture.startswith("[J]") and scripture.endswith("[/J]")
-                else mixed
+            outside_speech = re.sub(r"\[J\].*?\[/J\]", "", scripture, flags=re.DOTALL)
+            outside_speech = re.sub(r"\[/?(?:ADD|DN)\]", "", outside_speech)
+            target = full if not outside_speech.strip() else mixed
+            target.setdefault(chapter_number, []).append(
+                (verse["verse"], verse.get("verseEnd", verse["verse"]))
             )
-            target.setdefault(chapter, []).append((start, end))
     return full, mixed
 
 
@@ -1276,13 +1306,14 @@ def chapter_to_json(
     chapter: SourceChapter,
     inherited_jesus: dict[int, list[tuple[int, int]]],
     mixed_jesus: dict[int, list[tuple[int, int]]],
+    allow_inherited_jesus: bool = True,
 ) -> tuple[dict, int, int]:
     verses = []
     inherited_spans = 0
     omitted_mixed_spans = 0
     for source_verse in chapter.verses:
         text = source_verse.text
-        if "[J]" not in text:
+        if allow_inherited_jesus and not source_verse.source_placeholder and "[J]" not in text:
             if covers_all(
                 inherited_jesus.get(chapter.number, []),
                 source_verse.verse,
@@ -1321,19 +1352,183 @@ def chapter_to_json(
     return item, inherited_spans, omitted_mixed_spans
 
 
-# Existing localized section-heading text remains authoritative. These three
-# editions place the same passage at a different reference boundary, so the
-# heading moves with the passage instead of being hidden or attached to the
-# wrong verse.
-HEADING_RELOCATIONS: dict[
-    tuple[str, str, str],
-    tuple[tuple[tuple[int, int], tuple[int, int]], ...],
-] = {
-    ("de", "luther1912", "ISA"): (((8, 23), (9, 1)),),
-    ("it", "diodati1885", "JOB"): (((38, 39), (39, 1)),),
-    ("ru", "synodal1876", "ROM"): (((16, 25), (14, 24)),),
-    ("zh-Hant", "cuv", "JHN"): (((7, 53), (8, 1)),),
-}
+def _reviewed_heading_target(
+    rules: list[dict],
+    chapter: int,
+    verse: int,
+    label: str,
+) -> tuple[int, int] | None:
+    """Map one heading anchor, never guessing from adjacent verse numbers."""
+    targets: set[tuple[int, int]] = set()
+    for row in rules:
+        source_chapter = row["sourceChapter"]
+        source_start = row["sourceVerse"]
+        source_end = row.get("sourceVerseEnd", source_start)
+        if source_chapter != chapter or not source_start <= verse <= source_end:
+            continue
+        target_chapter = row["targetChapter"]
+        target_start = row["targetVerse"]
+        target_end = row.get("targetVerseEnd", target_start)
+        source_length = source_end - source_start + 1
+        target_length = target_end - target_start + 1
+        if source_length == target_length:
+            targets.add((target_chapter, target_start + verse - source_start))
+        elif source_length == 1 or target_length == 1:
+            # One source verse split across targets begins at the first native
+            # target unit. A merged target stays whole.
+            targets.add((target_chapter, target_start))
+        else:
+            raise ImportErrorDetail(f"Ambiguous heading passage map: {label} {chapter}:{verse}")
+    if len(targets) > 1:
+        raise ImportErrorDetail(f"Conflicting heading passage maps: {label} {chapter}:{verse}")
+    return next(iter(targets)) if targets else None
+
+
+def _validated_heading_rules(
+    repo_root: Path,
+    config: EditionConfig,
+    collection: str,
+    book_id: str,
+    source_book: SourceBook,
+) -> list[dict]:
+    document = reference_map_for(config, repo_root)
+    matches = [book for book in document["books"] if book.get("bookId") == book_id] if document else []
+    if len(matches) > 1:
+        raise ImportErrorDetail(f"Duplicate heading passage maps: {config.language}/{book_id}")
+    if not matches:
+        return []
+    rules = matches[0].get("mappings")
+    if not isinstance(rules, list):
+        raise ImportErrorDetail(f"Malformed heading passage map: {config.language}/{book_id}")
+    base_coordinates = {
+        (chapter, verse)
+        for chapter, start, end in base_verse_units(repo_root, config.language, collection, book_id)
+        for verse in range(start, end + 1)
+    }
+    target_coordinates = {
+        (chapter.number, verse)
+        for chapter in source_book.chapters
+        for unit in chapter.verses
+        for verse in range(unit.verse, unit.verse_end + 1)
+    }
+    label = f"{config.language}/{book_id}"
+    for index, row in enumerate(rules):
+        if not isinstance(row, dict):
+            raise ImportErrorDetail(f"Malformed heading passage map: {label} rule {index}")
+        spans = []
+        for side in ("source", "target"):
+            chapter = row.get(f"{side}Chapter")
+            start = row.get(f"{side}Verse")
+            end = row.get(f"{side}VerseEnd", start)
+            if any(type(value) is not int or value < 1 for value in (chapter, start, end)) or end < start or end - start > 1000:
+                raise ImportErrorDetail(f"Malformed heading passage map: {label} rule {index} {side}")
+            coordinates = base_coordinates if side == "source" else target_coordinates
+            if any((chapter, verse) not in coordinates for verse in range(start, end + 1)):
+                raise ImportErrorDetail(f"Heading passage map has absent {side} verse: {label} rule {index}")
+            spans.append(end - start + 1)
+        if spans[0] != spans[1] and min(spans) > 1:
+            raise ImportErrorDetail(f"Ambiguous heading passage map: {label} rule {index}")
+    return rules
+
+
+def _validated_heading_relocations(
+    config: EditionConfig,
+    code: str,
+    collection: str,
+    book_id: str,
+    original_by_chapter: dict[int, list[dict]],
+    source_book: SourceBook,
+) -> dict[tuple[int, int], HeadingRelocation]:
+    """Load exact-text heading exceptions and validate them against both corpora."""
+    try:
+        table = load_heading_maps(HEADING_MAP_PATH)
+    except HeadingMapError as exc:
+        raise ImportErrorDetail(str(exc)) from exc
+
+    configured_editions = {
+        (edition.language, edition.edition_id): edition
+        for edition in EDITIONS
+    }
+    configured_books = {
+        book_code: (book_collection, configured_book_id)
+        for book_code, book_collection, configured_book_id in BOOKS
+    }
+    for table_key, entry in table.items():
+        table_config = configured_editions.get((entry.language, entry.edition_id))
+        if table_config is None:
+            raise ImportErrorDetail(
+                f"Heading map references an unknown edition: {entry.language}/{entry.edition_id}"
+            )
+        expected_book = configured_books.get(entry.book_code)
+        if expected_book != (entry.collection, entry.book_id):
+            raise ImportErrorDetail(
+                f"Heading map references an unknown or mismatched book: "
+                f"{'/'.join(table_key)} -> {entry.collection}/{entry.book_id}"
+            )
+        expected_provenance = (
+            table_config.source_title,
+            table_config.source_url,
+            table_config.archive_sha256.upper(),
+            SOURCE_DATE,
+        )
+        actual_provenance = (
+            entry.source_title,
+            entry.source_url,
+            entry.source_artifact_sha256,
+            entry.source_date,
+        )
+        if actual_provenance != expected_provenance:
+            raise ImportErrorDetail(
+                f"Heading map pinned-source provenance mismatch: "
+                f"{entry.language}/{entry.edition_id}/{entry.book_id}"
+            )
+
+    key = (config.language, config.edition_id, code)
+    reviewed = table.get(key)
+    if reviewed is None:
+        return {}
+
+    label = f"{config.language}/{config.edition_id}/{book_id}"
+    if reviewed.collection != collection or reviewed.book_id != book_id:
+        raise ImportErrorDetail(
+            f"Heading map book identity mismatch: {label} is recorded as "
+            f"{reviewed.collection}/{reviewed.book_id}"
+        )
+    rows_by_anchor: dict[tuple[int, int], list[dict]] = {}
+    for chapter, headings in original_by_chapter.items():
+        for heading in headings:
+            before_verse = heading.get("beforeVerse")
+            if type(before_verse) is int:
+                rows_by_anchor.setdefault((chapter, before_verse), []).append(heading)
+
+    native_unit_starts = {
+        (chapter.number, verse.verse)
+        for chapter in source_book.chapters
+        for verse in chapter.verses
+    }
+    relocations: dict[tuple[int, int], HeadingRelocation] = {}
+    for relocation in reviewed.relocations:
+        anchor = (relocation.source_chapter, relocation.source_before_verse)
+        matches = rows_by_anchor.get(anchor, [])
+        if len(matches) != 1:
+            raise ImportErrorDetail(
+                f"Heading map source anchor must match exactly one base row: "
+                f"{label} {anchor[0]}:{anchor[1]} (found {len(matches)})"
+            )
+        actual_text = matches[0].get("text")
+        if actual_text != relocation.source_text:
+            raise ImportErrorDetail(
+                f"Heading map source text mismatch: {label} {anchor[0]}:{anchor[1]}"
+            )
+        for target in relocation.targets:
+            target_anchor = (target.chapter, target.before_verse)
+            if target_anchor not in native_unit_starts:
+                raise ImportErrorDetail(
+                    f"Heading map target is not a native verse-unit start: "
+                    f"{label} {target.chapter}:{target.before_verse}"
+                )
+        relocations[anchor] = relocation
+    return relocations
 
 
 def heading_overrides(
@@ -1344,6 +1539,7 @@ def heading_overrides(
     book_id: str,
     source_book: SourceBook,
 ) -> dict[int, list[dict]]:
+    """Return the complete per-chapter heading table for one edition book."""
     base_path = (
         repo_root / "shared" / "assets" / "books" / collection /
         config.language / f"{book_id}.json"
@@ -1354,82 +1550,66 @@ def heading_overrides(
         for story in base.get("stories", [])
         if story.get("id", "").rsplit("-", 1)[-1].isdigit()
     }
-    headings_by_chapter = {
-        chapter: [dict(row) for row in rows]
-        for chapter, rows in original_by_chapter.items()
-    }
-
-    relocations = HEADING_RELOCATIONS.get(
-        (config.language, config.edition_id, code), ()
+    rules = _validated_heading_rules(repo_root, config, collection, book_id, source_book)
+    reviewed_relocations = _validated_heading_relocations(
+        config,
+        code,
+        collection,
+        book_id,
+        original_by_chapter,
+        source_book,
     )
-    for (source_chapter, source_verse), (target_chapter, target_verse) in relocations:
-        source_headings = headings_by_chapter.get(source_chapter)
-        if source_headings is None:
-            raise ImportErrorDetail(
-                f"Missing source chapter for heading relocation: "
-                f"{config.language}/{book_id} {source_chapter}:{source_verse}"
-            )
-        matches = [
-            heading for heading in source_headings
-            if heading.get("beforeVerse") == source_verse
-        ]
-        if len(matches) != 1:
-            raise ImportErrorDetail(
-                f"Expected one heading at {config.language}/{book_id} "
-                f"{source_chapter}:{source_verse}; found {len(matches)}"
-            )
-        source_headings.remove(matches[0])
-        target_headings = headings_by_chapter.setdefault(target_chapter, [])
-        if any(heading.get("beforeVerse") == target_verse for heading in target_headings):
-            raise ImportErrorDetail(
-                f"Heading collision at {config.language}/{book_id} "
-                f"{target_chapter}:{target_verse}"
-            )
-        target_headings.append({
-            "beforeVerse": target_verse,
-            "text": matches[0]["text"],
+
+    # Preserve base heading order, including across chapter boundaries. Native
+    # merged target units can receive multiple distinct titles; stack them.
+    verses_by_chapter = {chapter.number: chapter.verses for chapter in source_book.chapters}
+    placed: dict[tuple[int, int], list[str]] = {}
+    for source_chapter, headings in sorted(original_by_chapter.items()):
+        for heading in headings:
+            source_verse = heading.get("beforeVerse")
+            title = heading.get("text")
+            if type(source_verse) is not int or source_verse < 1 or not isinstance(title, str) or not title.strip():
+                raise ImportErrorDetail(f"Malformed base heading: {config.language}/{book_id} {source_chapter}")
+            anchor = (source_chapter, source_verse)
+            relocation = reviewed_relocations.get(anchor)
+            if relocation is not None:
+                # Publisher section boundaries are independent of verse
+                # equivalence. An exact reviewed heading row is authoritative
+                # even when the broader passage map chooses another anchor.
+                explicit_targets = (
+                    (target.chapter, target.before_verse, target.text)
+                    for target in relocation.targets
+                )
+            else:
+                mapped = _reviewed_heading_target(
+                    rules, source_chapter, source_verse, f"{config.language}/{book_id}"
+                )
+                target_chapter, target_verse = mapped or anchor
+                unit = next(
+                    (verse for verse in verses_by_chapter.get(target_chapter, ())
+                     if verse.verse <= target_verse <= verse.verse_end),
+                    None,
+                )
+                if unit is None:
+                    raise ImportErrorDetail(
+                        f"Heading falls outside selected edition: "
+                        f"{config.language}/{book_id} {target_chapter}:{target_verse}"
+                    )
+                explicit_targets = ((target_chapter, unit.verse, title),)
+
+            for target_chapter, target_verse, target_text in explicit_targets:
+                placed.setdefault((target_chapter, target_verse), []).append(target_text)
+
+    headings_by_chapter: dict[int, list[dict]] = {}
+    for (chapter, verse), titles in sorted(placed.items()):
+        headings_by_chapter.setdefault(chapter, []).append({
+            "beforeVerse": verse,
+            "text": "\n".join(titles),
         })
 
-    # If the selected source keeps multiple reference numbers in one text unit,
-    # render a heading before that unsplit unit. Never invent an a/b split.
-    verses_by_chapter = {
-        chapter.number: chapter.verses for chapter in source_book.chapters
-    }
-    for chapter_number, headings in headings_by_chapter.items():
-        verses = verses_by_chapter.get(chapter_number)
-        if verses is None:
-            raise ImportErrorDetail(
-                f"Heading chapter missing from selected edition: "
-                f"{config.language}/{book_id} {chapter_number}"
-            )
-        for heading in headings:
-            before_verse = heading.get("beforeVerse")
-            unit = next(
-                (
-                    verse for verse in verses
-                    if verse.verse <= before_verse <= verse.verse_end
-                ),
-                None,
-            )
-            if unit is None:
-                raise ImportErrorDetail(
-                    f"Heading falls outside selected edition: "
-                    f"{config.language}/{book_id} {chapter_number}:{before_verse}"
-                )
-            heading["beforeVerse"] = unit.verse
-
-        headings.sort(key=lambda row: row["beforeVerse"])
-        anchors = [heading["beforeVerse"] for heading in headings]
-        if len(anchors) != len(set(anchors)):
-            raise ImportErrorDetail(
-                f"Heading collision after versification mapping: "
-                f"{config.language}/{book_id} chapter {chapter_number}"
-            )
-
     return {
-        chapter: headings_by_chapter.get(chapter, [])
-        for chapter in set(original_by_chapter) | set(headings_by_chapter)
-        if headings_by_chapter.get(chapter, []) != original_by_chapter.get(chapter, [])
+        chapter.number: headings_by_chapter.get(chapter.number, [])
+        for chapter in source_book.chapters
     }
 
 
@@ -1468,7 +1648,16 @@ def deuterocanonical_fallbacks(repo_root: Path, language: str) -> list[dict]:
             "reason": "The traditional source contains the 66-book Protestant canon only.",
         }
         for row in rows
+        if row[0]
     ]
+
+
+def reference_map_for(config: EditionConfig, repo_root: Path) -> dict | None:
+    """Package reviewed passage equivalences; never derive them from counts."""
+    try:
+        return reference_map_for_edition(repo_root, config.language, config.edition_id)
+    except ValueError as exc:
+        raise ImportErrorDetail(str(exc)) from exc
 
 
 def build_edition(
@@ -1515,24 +1704,34 @@ def build_edition(
         parsed = parse_krv_json(config, archive, auxiliary)
         extracted_file_set_hash = None
     else:
-        extracted_dir = source_root / archive.stem
-        if not extracted_dir.is_dir():
-            with zipfile.ZipFile(archive) as source_zip:
-                source_zip.extractall(extracted_dir)
-        source_files = find_usfm_files(extracted_dir)
-        parsed = {code: parse_usfm(path) for code, path in sorted(source_files.items())}
-        file_set = hashlib.sha256()
-        for code in sorted(source_files):
-            file_set.update(code.encode("ascii"))
-            file_set.update(b"\0")
-            file_set.update(bytes.fromhex(sha256(source_files[code])))
-        extracted_file_set_hash = file_set.hexdigest().upper()
+        parsed, extracted_file_set_hash = parse_usfm_archive(archive)
+
+    # An edition that supplies its own word-level speech markers controls both
+    # where coloring starts and where it stops. Do not fill its unmarked verses
+    # from another translation's editorial boundaries.
+    source_has_jesus_markup = any(
+        verse.source_jesus_spans
+        for book in parsed.values()
+        for chapter in book.chapters
+        for verse in chapter.verses
+    )
+    reviewed_jesus = (
+        ReviewedJesusSpans.load(repo_root, config.language, config.edition_id)
+        if (config.language, config.edition_id) in REVIEWED_JESUS_EDITIONS
+        else None
+    )
+    mixed_candidates: set[tuple[str, str, int, int]] = set()
+    full_candidates: set[tuple[str, str, int, int]] = set()
 
     output_dir = (
         repo_root / "shared" / "assets" / "books" / "editions" /
         config.language / config.edition_id
     )
     staging = output_dir.parent / f".{config.edition_id}.staging"
+    editions_root = (repo_root.resolve() / "shared" / "assets" / "books" / "editions")
+    for target in (output_dir, staging):
+        if not target.resolve().is_relative_to(editions_root):
+            raise ImportErrorDetail(f"Generated output escapes the editions directory: {target}")
     if staging.exists():
         shutil.rmtree(staging)
     staging.mkdir(parents=True)
@@ -1540,6 +1739,8 @@ def build_edition(
     manifest_books: list[dict] = []
     inherited_total = 0
     omitted_mixed_total = 0
+    reviewed_mixed_total = 0
+    reviewed_omission_total = 0
     for code, collection, book_id in BOOKS:
         target_units = base_verse_units(
             repo_root, config.language, collection, book_id
@@ -1551,23 +1752,103 @@ def build_edition(
         inherited, mixed_jesus = base_jesus_ranges(
             repo_root, collection, book_id
         )
+        if reviewed_jesus is not None:
+            full_candidates.update(
+                verse_key(collection, book_id, chapter_number, number)
+                for chapter_number, ranges in inherited.items()
+                for start, end in ranges for number in range(start, end + 1)
+            )
+        if reviewed_jesus is not None:
+            for source_chapter in source_book.chapters:
+                spoken_numbers = {
+                    number
+                    for start, end in (
+                        inherited.get(source_chapter.number, []) +
+                        mixed_jesus.get(source_chapter.number, [])
+                    )
+                    for number in range(start, end + 1)
+                }
+                target_counts = {
+                    number: sum(
+                        target_verse.verse <= number <= target_verse.verse_end
+                        for target_verse in source_chapter.verses
+                    )
+                    for number in spoken_numbers
+                }
+                unmapped = [number for number, count in target_counts.items() if count != 1]
+                if unmapped:
+                    raise ImportErrorDetail(
+                        f"KJV speech coordinates do not map to one native target unit: "
+                        f"{config.language}/{book_id} {source_chapter.number}:{sorted(unmapped)[:5]}"
+                    )
         overrides = heading_overrides(
             repo_root, config, code, collection, book_id, source_book
         )
         chapter_rows = []
         inherited_book = 0
         omitted_mixed_book = 0
+        reviewed_mixed_book = 0
+        reviewed_omission_book = 0
+        reviewed_relocation_book = 0
+        supplemental_book = 0
+        reviewed_full_book = 0
+        reviewed_full_omission_book = 0
         for chapter in source_book.chapters:
             row, inherited_count, omitted_mixed_count = chapter_to_json(
-                chapter, inherited, mixed_jesus
+                chapter, inherited, mixed_jesus,
+                allow_inherited_jesus=not source_has_jesus_markup,
             )
-            if chapter.number in overrides:
-                row["headings"] = overrides[chapter.number]
+            chapter_reviewed = 0
+            if reviewed_jesus is not None:
+                for verse_row in row["verses"]:
+                    if verse_row.get("sourcePlaceholder"):
+                        continue
+                    key = verse_key(collection, book_id, chapter.number, verse_row["verse"])
+                    ledger_row = reviewed_jesus.rows.get(key)
+                    is_mixed = overlaps(
+                        mixed_jesus.get(chapter.number, []),
+                        verse_row["verse"], verse_row.get("verseEnd", verse_row["verse"]),
+                    )
+                    is_supplemental = ledger_row is not None and ledger_row.get("supplementalFor") is not None
+                    is_full_override = ledger_row is not None and ledger_row.get("overrideInherited") is True
+                    if not is_mixed and not is_supplemental and not is_full_override:
+                        continue
+                    if "[J]" in verse_row["text"] and not is_full_override:
+                        raise ImportErrorDetail(f"Inherited J overlaps reviewed target: {key}")
+                    if is_mixed:
+                        mixed_candidates.add(key)
+                    raw = verse_row["text"].replace("[J]", "").replace("[/J]", "") if is_full_override else verse_row["text"]
+                    verse_row["text"] = reviewed_jesus.apply(
+                        collection, book_id, chapter.number, verse_row["verse"],
+                        raw, verse_row.get("verseEnd", verse_row["verse"]),
+                    )
+                    if is_full_override:
+                        reviewed_full_book += 1
+                        inherited_count -= 1
+                        if ledger_row.get("noTargetSpeech") is True:
+                            reviewed_full_omission_book += 1
+                    elif is_supplemental:
+                        supplemental_book += 1
+                    elif "[J]" in verse_row["text"]:
+                        chapter_reviewed += 1
+                        reviewed_mixed_book += 1
+                    elif ledger_row is not None and ledger_row.get("noTargetSpeech") is True:
+                        chapter_reviewed += 1
+                        reviewed_omission_book += 1
+                    elif ledger_row is not None and ledger_row.get("speechRelocatedTo") is not None:
+                        chapter_reviewed += 1
+                        reviewed_relocation_book += 1
+                omitted_mixed_count -= chapter_reviewed
+            # This is the runtime source of truth for alternate-edition
+            # heading placement. Keep even empty arrays explicit.
+            row["headings"] = overrides[chapter.number]
             chapter_rows.append(row)
             inherited_book += inherited_count
             omitted_mixed_book += omitted_mixed_count
         inherited_total += inherited_book
         omitted_mixed_total += omitted_mixed_book
+        reviewed_mixed_total += reviewed_mixed_book
+        reviewed_omission_total += reviewed_omission_book
         overlay = {
             "schemaVersion": SCHEMA_VERSION,
             "editionId": config.edition_id,
@@ -1602,6 +1883,12 @@ def build_edition(
             "jesusWordSpans": count_tag(chapter_rows, "[J]"),
             "inheritedJesusVerseSpans": inherited_book,
             "omittedMixedJesusVerseSpans": omitted_mixed_book,
+            "reviewedMixedJesusVerseSpans": reviewed_mixed_book,
+            "reviewedOmittedJesusVerseUnits": reviewed_omission_book,
+            "reviewedRelocatedJesusVerseUnits": reviewed_relocation_book,
+            "supplementalJesusVerseUnits": supplemental_book,
+            "reviewedFullJesusVerseUnits": reviewed_full_book,
+            "reviewedFullOmittedJesusVerseUnits": reviewed_full_omission_book,
             "translatorAdditionSpans": count_tag(chapter_rows, "[ADD]"),
             "superscriptions": sum(bool(chapter.get("superscription")) for chapter in chapter_rows),
             "promotedFootnoteVerses": sum(
@@ -1618,10 +1905,25 @@ def build_edition(
         if source_mapping is not None:
             manifest_book["sourceMapping"] = source_mapping
         manifest_books.append(manifest_book)
+        if reviewed_jesus is not None:
+            reviewed_jesus.verify_relocations(collection, book_id, chapter_rows)
 
-    manifest_books.extend(deuterocanonical_fallbacks(repo_root, config.language))
+    if reviewed_jesus is not None:
+        reviewed_jesus.validate_coverage(mixed_candidates, full_candidates)
+
+    if config.language == "ru" and config.edition_id == "synodal1876":
+        from import_synodal_deuterocanon import SynodalImportError, build_synodal_dc
+        try:
+            manifest_books.extend(build_synodal_dc(
+                source_root / "RusSynodal.zip", repo_root,
+                staging / "deuterocanonical", pysword_path,
+            ))
+        except SynodalImportError as exc:
+            raise ImportErrorDetail(str(exc)) from exc
+    else:
+        manifest_books.extend(deuterocanonical_fallbacks(repo_root, config.language))
     totals = {
-        "overlayBooks": 66,
+        "overlayBooks": sum(row["coverage"] == "full" for row in manifest_books),
         "fallbackBooks": sum(row["coverage"] == "fallback" for row in manifest_books),
         "chapters": sum(row.get("chapters", 0) for row in manifest_books),
         "verseUnits": sum(row.get("verseUnits", 0) for row in manifest_books),
@@ -1629,6 +1931,12 @@ def build_edition(
         "jesusWordSpans": sum(row.get("jesusWordSpans", 0) for row in manifest_books),
         "inheritedJesusVerseSpans": inherited_total,
         "omittedMixedJesusVerseSpans": omitted_mixed_total,
+        "reviewedMixedJesusVerseSpans": reviewed_mixed_total,
+        "reviewedOmittedJesusVerseUnits": reviewed_omission_total,
+        "reviewedRelocatedJesusVerseUnits": sum(row.get("reviewedRelocatedJesusVerseUnits", 0) for row in manifest_books),
+        "supplementalJesusVerseUnits": sum(row.get("supplementalJesusVerseUnits", 0) for row in manifest_books),
+        "reviewedFullJesusVerseUnits": sum(row.get("reviewedFullJesusVerseUnits", 0) for row in manifest_books),
+        "reviewedFullOmittedJesusVerseUnits": sum(row.get("reviewedFullOmittedJesusVerseUnits", 0) for row in manifest_books),
         "translatorAdditionSpans": sum(row.get("translatorAdditionSpans", 0) for row in manifest_books),
         "superscriptions": sum(row.get("superscriptions", 0) for row in manifest_books),
         "promotedFootnoteVerses": sum(row.get("promotedFootnoteVerses", 0) for row in manifest_books),
@@ -1668,13 +1976,32 @@ def build_edition(
         "language": config.language,
         "source": source,
         "markup": {
-            "jesusWords": "Exact source wj spans where supplied. Otherwise, only verses wholly marked as Jesus' words in the reviewed English BSB metadata inherit a whole-verse span; mixed narration and speech remain uncolored rather than coloring narration incorrectly.",
+            "jesusWords": (
+                "Native source wj spans take precedence. Full-verse inheritance follows the pinned KJV1769 wj source. "
+                "All KJV-mixed native units have edition-specific reviewed, raw-text-hash-pinned speech spans or explicit reviewed omissions; narration is not colored."
+                if reviewed_jesus is not None else
+                "Native source wj spans take precedence. Full-verse inheritance follows the pinned KJV1769 wj source. "
+                "Mixed units without edition-specific reviewed spans remain uncolored."
+            ),
             "translatorAdditions": "USFM add spans are preserved as [ADD] markers.",
             "footnotesAndCrossReferences": "Source apparatus is excluded from display text.",
+        },
+        "headings": {
+            "textSource": "Localized editorial headings already shipped with the app; not publisher headings for this alternate edition.",
+            "placement": "Explicit per-chapter beforeVerse lookup in the alternate edition's displayed coordinates.",
+            "emptyChapters": "Stored as explicit empty arrays; runtime fallback is forbidden.",
         },
         "totals": totals,
         "books": manifest_books,
     }
+    reference_map = reference_map_for(config, repo_root)
+    if reference_map is not None:
+        write_json(staging / "_reference_map.json", reference_map)
+        manifest["referenceMap"] = {
+            "path": "_reference_map.json",
+            "books": [book["bookId"] for book in reference_map["books"]],
+            "provenance": reference_map["provenance"],
+        }
     write_json(staging / "_manifest.json", manifest)
     if output_dir.exists():
         shutil.rmtree(output_dir)
@@ -1716,7 +2043,7 @@ def main() -> int:
                 "editionId": config.edition_id,
                 **manifest["totals"],
             })
-    except (OSError, UnicodeError, ImportErrorDetail, zipfile.BadZipFile) as exc:
+    except (OSError, UnicodeError, ImportErrorDetail, JesusSpanError, zipfile.BadZipFile) as exc:
         print(f"Traditional-edition import failed: {exc}", file=sys.stderr)
         return 1
     print(json.dumps(reports, ensure_ascii=False, indent=2))

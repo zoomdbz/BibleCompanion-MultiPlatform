@@ -137,6 +137,24 @@
           "verse": 25,
           "text": "mais la parole du Seigneur demeure éternellement. Et cette parole est celle qui vous a été annoncée par l’Évangile."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Le salut, objet d'espérance et d'émerveillement"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Les prophètes et le salut"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Vie et croissance des enfants de Dieu"
+        }
       ]
     },
     {
@@ -269,6 +287,24 @@
           "verse": 25,
           "text": "Car vous étiez comme des brebis errantes. Mais maintenant vous êtes retournés vers le pasteur et le gardien de vos âmes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "Un culte nouveau dans un temple nouveau"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Une belle conduite dans la société"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Le respect dû aux institutions"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Les esclaves chrétiens"
+        }
       ]
     },
     {
@@ -386,6 +422,24 @@
           "verse": 22,
           "text": "qui est à la droite de Dieu, depuis qu’il est allé au ciel, et que les anges, les autorités et les puissances, lui ont été soumis."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La vie conjugale des chrétiens"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "La règle de l'amour"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Prêts à témoigner de l'espérance"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "De la mort du Christ à sa victoire"
+        }
       ]
     },
     {
@@ -488,6 +542,20 @@
           "verse": 19,
           "text": "Ainsi, que ceux qui souffrent selon la volonté de Dieu remettent leurs âmes au fidèle Créateur, en faisant ce qui est bien."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Rompre avec le passé"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Intendants de la grâce"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Heureux de souffrir pour le Christ"
+        }
       ]
     },
     {
@@ -565,7 +633,8 @@
           "verse": 14,
           "text": "Saluez-vous les uns les autres par un baiser d’affection. Que la paix soit avec vous tous qui êtes en Christ!"
         }
-      ]
+      ],
+      "headings": []
     }
   ]
 }

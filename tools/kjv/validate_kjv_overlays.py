@@ -19,9 +19,12 @@ from import_kjv_usfm import (
     TRADITIONAL_NT_VERSES,
     find_source_files,
     parse_usfm,
+    reference_map_for_edition,
+    resolved_heading_table,
     select_book_chapters,
     sha256,
     source_file_set_sha256,
+    SOURCE_FILE_SET_SHA256,
 )
 
 
@@ -95,14 +98,25 @@ def validate(source_dir: Path, output_dir: Path, archive: Path | None) -> dict:
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     require(manifest["schemaVersion"] == SCHEMA_VERSION, "Manifest schema version mismatch")
     require(manifest["editionId"] == EDITION_ID, "Manifest edition mismatch")
+    require(
+        manifest.get("headings", {}).get("placement") ==
+        "Explicit per-chapter beforeVerse lookup in displayed KJV coordinates.",
+        "Missing KJV heading-table provenance",
+    )
     require(manifest["source"]["archiveSha256"] == ARCHIVE_SHA256, "Pinned archive hash mismatch in manifest")
     if archive is not None:
         require(archive.is_file(), f"Archive not found: {archive}")
         require(sha256(archive) == ARCHIVE_SHA256, "Original archive SHA-256 mismatch")
 
     source_files = find_source_files(source_dir)
+    repo_root = Path(__file__).resolve().parents[2]
+    reference_map = reference_map_for_edition(repo_root, "en", EDITION_ID)
     required_codes = {code for code, _collection, _book_id in BOOKS} | {"ESG"}
     require(set(source_files) == required_codes, "Pinned source file inventory mismatch")
+    require(source_file_set_sha256(source_files, required_codes) == SOURCE_FILE_SET_SHA256,
+            "Extracted source files differ from independent source pin")
+    require(manifest["source"]["extractedScriptureFileSetSha256"] == SOURCE_FILE_SET_SHA256,
+            "Manifest extracted source pin mismatch")
     require(
         manifest["source"]["extractedScriptureFileSetSha256"]
         == source_file_set_sha256(source_files, required_codes),
@@ -116,6 +130,18 @@ def validate(source_dir: Path, output_dir: Path, archive: Path | None) -> dict:
         output_dir / collection / f"{book_id}.json"
         for collection, book_id in expected_outputs
     } | {manifest_path}
+    reference_map = reference_map_for_edition(Path(__file__).resolve().parents[2], "en", EDITION_ID)
+    if reference_map is not None:
+        map_path = output_dir / "_reference_map.json"
+        require(map_path.is_file(), "Missing KJV reference map")
+        require(json.loads(map_path.read_text(encoding="utf-8")) == reference_map,
+                "KJV reference map differs from reviewed input")
+        require(manifest.get("referenceMap") == {
+            "path": "_reference_map.json",
+            "books": [book["bookId"] for book in reference_map["books"]],
+            "provenance": reference_map["provenance"],
+        }, "KJV reference-map manifest mismatch")
+        expected_paths.add(map_path)
     actual_paths = set(output_dir.rglob("*.json"))
     require(actual_paths == expected_paths, "Generated JSON file inventory mismatch")
 
@@ -147,6 +173,11 @@ def validate(source_dir: Path, output_dir: Path, archive: Path | None) -> dict:
 
         source = parse_usfm(source_files[code])
         expected_chapters, expected_mapping = select_book_chapters(book_id, source)
+        expected_headings = resolved_heading_table(
+            repo_root, collection, book_id, expected_chapters, reference_map,
+        )
+        for chapter in expected_chapters:
+            chapter["headings"] = expected_headings[chapter["number"]]
         require(overlay["chapters"] == expected_chapters, f"Overlay differs from parsed source: {path}")
         require(overlay.get("sourceMapping") == expected_mapping, f"Source mapping mismatch: {path}")
         require(path.read_text(encoding="utf-8") == normalized_json(overlay), f"Non-canonical JSON formatting: {path}")

@@ -50,7 +50,7 @@
         {
           "chapter": 1,
           "verse": 8,
-          "text": "Ich bin das A und das O, der Anfang und das Ende, spricht Gott der HERR, der da ist und der da war und der da kommt, der Allmächtige."
+          "text": "[J]Ich bin das A und das O, der Anfang und das Ende,[/J] spricht Gott der HERR, der da ist und der da war und der da kommt, der Allmächtige."
         },
         {
           "chapter": 1,
@@ -65,7 +65,7 @@
         {
           "chapter": 1,
           "verse": 11,
-          "text": "die sprach: Ich bin das A und das O, der Erste und der Letzte; und was du siehst, das schreibe in ein Buch und sende es zu den Gemeinden in Asien: gen Ephesus und gen Smyrna und gen Pergamus und gen Thyatira und gen Sardes und gen Philadelphia und gen Laodizea."
+          "text": "die sprach: [J]Ich bin das A und das O, der Erste und der Letzte;[/J] und [J]was du siehst, das schreibe in ein Buch und sende es zu den Gemeinden in Asien: gen Ephesus und gen Smyrna und gen Pergamus und gen Thyatira und gen Sardes und gen Philadelphia und gen Laodizea.[/J]"
         },
         {
           "chapter": 1,
@@ -95,7 +95,7 @@
         {
           "chapter": 1,
           "verse": 17,
-          "text": "Und als ich ihn sah, fiel ich zu seinen Füßen wie ein Toter; und er legte seine rechte Hand auf mich und sprach zu mir: Fürchte dich nicht! Ich bin der Erste und der Letzte"
+          "text": "Und als ich ihn sah, fiel ich zu seinen Füßen wie ein Toter; und er legte seine rechte Hand auf mich und sprach zu mir: [J]Fürchte dich nicht! Ich bin der Erste und der Letzte[/J]"
         },
         {
           "chapter": 1,
@@ -111,6 +111,24 @@
           "chapter": 1,
           "verse": 20,
           "text": "[J]Das Geheimnis der sieben Sterne, die du gesehen hast in meiner rechten Hand, und die sieben goldenen Leuchter: die sieben Sterne sind Engel der sieben Gemeinden; und die sieben Leuchter, die du gesehen hast, sind sieben Gemeinden.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 1\nInhalt und Zweck des Buches"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Gruß an die sieben Gemeinden in der Provinz Asia. Lobpreis Jesu Christi"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Der Auftrag, das Buch der Offenbarung zu schreiben"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Der erhöhte Herr Jesus Christus"
         }
       ]
     },
@@ -264,6 +282,24 @@
           "verse": 29,
           "text": "[J]Wer Ohren hat, der höre, was der Geist den Gemeinden sagt![/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 2\nSendschreiben an die Gemeinde von Ephesus"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Sendschreiben an die Gemeinde von Smyrna"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Sendschreiben an die Gemeinde von Pergamus"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Sendschreiben an die Gemeinde von Thyatira"
+        }
       ]
     },
     {
@@ -381,6 +417,20 @@
           "verse": 22,
           "text": "[J]Wer Ohren hat, der höre, was der Geist den Gemeinden sagt![/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 3\nSendschreiben an die Gemeinde von Sardes"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Sendschreiben an die Gemeinde von Philadelphia"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Sendschreiben an die Gemeinde von Laodizea"
+        }
       ]
     },
     {
@@ -442,6 +492,12 @@
           "chapter": 4,
           "verse": 11,
           "text": "HERR, du bist würdig, zu nehmen Preis und Ehre und Kraft; denn du hast alle Dinge geschaffen, und durch deinen Willen haben sie das Wesen und sind geschaffen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 4\nDer Thron der göttlichen Majestät und die Anbetung Gottes im Himmel"
         }
       ]
     },
@@ -519,6 +575,16 @@
           "chapter": 5,
           "verse": 14,
           "text": "Und die vier Tiere sprachen: Amen! Und die vierundzwanzig Ältesten fielen nieder und beteten an den, der da lebt von Ewigkeit zu Ewigkeit."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 5\nDas Lamm ist würdig, das versiegelte Buch zu öffnen"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Die Anbetung des Lammes"
         }
       ]
     },
@@ -612,6 +678,12 @@
           "verse": 17,
           "text": "Denn es ist gekommen der große Tag seines Zorns, und wer kann bestehen?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 6\nDie Öffnung der sechs ersten Siegel"
+        }
       ]
     },
     {
@@ -704,6 +776,16 @@
           "verse": 17,
           "text": "denn das Lamm mitten im Stuhl wird sie weiden und leiten zu den lebendigen Wasserbrunnen, und Gott wird abwischen alle Tränen von ihren Augen."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 7\nDie Versiegelung der 144 000 Auserwählten aus Israel"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Die große Schar aus allen Völkern vor dem Thron"
+        }
       ]
     },
     {
@@ -775,6 +857,16 @@
           "chapter": 8,
           "verse": 13,
           "text": "Und ich sah und hörte einen Engel fliegen mitten durch den Himmel und sagen mit großer Stimme: Weh, weh, weh denen, die auf Erden wohnen, vor den andern Stimmen der Posaune der drei Engel, die noch posaunen sollen!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 8\nDas siebte Siegel und die sieben Engel mit den sieben Posaunen"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Die vier ersten Posaunen"
         }
       ]
     },
@@ -888,6 +980,16 @@
           "verse": 21,
           "text": "und taten auch nicht Buße für ihre Morde, Zauberei, Hurerei und Dieberei."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 9\nDie fünfte Posaune"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Die sechste Posaune"
+        }
       ]
     },
     {
@@ -949,6 +1051,12 @@
           "chapter": 10,
           "verse": 11,
           "text": "Und er sprach zu mir: Du mußt abermals weissagen von Völkern und Heiden und Sprachen und vielen Königen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 10\nDer Engel mit dem offenen Büchlein"
         }
       ]
     },
@@ -1052,6 +1160,16 @@
           "verse": 19,
           "text": "Und der Tempel Gottes ward aufgetan im Himmel, und die Lade seines Bundes ward im Tempel gesehen; und es geschahen Blitze und Donner und Erdbeben und ein großer Hagel."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 11\nDie heilige Stadt Jerusalem und die zwei Zeugen"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Die siebte Posaune"
+        }
       ]
     },
     {
@@ -1143,6 +1261,20 @@
           "chapter": 12,
           "verse": 17,
           "text": "Und der Drache ward zornig über das Weib und ging hin zu streiten mit den übrigen von ihrem Samen, die da Gottes Gebote halten und haben das Zeugnis Jesu Christi."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 12\nDie Frau und der Drache"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Satan wird auf die Erde hinabgeworfen"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Der Drache verfolgt die Frau"
         }
       ]
     },
@@ -1240,6 +1372,16 @@
           "chapter": 13,
           "verse": 18,
           "text": "Hier ist Weisheit! Wer Verstand hat, der überlege die Zahl des Tiers; denn es ist eines Menschen Zahl, und seine Zahl ist sechshundertsechsundsechzig."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 13\nDas Tier aus dem Meer"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Das Tier aus der Erde"
         }
       ]
     },
@@ -1348,6 +1490,20 @@
           "verse": 20,
           "text": "Und die Kelter ward draußen vor der Stadt getreten; und das Blut ging von der Kelter bis an die Zäume der Pferde durch tausend sechshundert Feld Wegs."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 14\nDas Lamm und seine Erkauften"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Drei Engel künden Gericht an"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Die Ernte und die Weinlese des Gerichts"
+        }
       ]
     },
     {
@@ -1394,6 +1550,12 @@
           "chapter": 15,
           "verse": 8,
           "text": "Und der Tempel ward voll Rauch von der Herrlichkeit Gottes und von seiner Kraft; und niemand konnte in den Tempel gehen, bis daß die sieben Plagen der sieben Engel vollendet wurden."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 15\nDie sieben Engel und die sieben letzten Plagen"
         }
       ]
     },
@@ -1475,7 +1637,7 @@
         {
           "chapter": 16,
           "verse": 15,
-          "text": "[J]Siehe, ich komme wie ein Dieb. Selig ist, der da wacht und hält seine Kleider, daß er nicht bloß wandle und man nicht seine Schande sehe.[/J]"
+          "text": "Siehe, ich komme wie ein Dieb. Selig ist, der da wacht und hält seine Kleider, daß er nicht bloß wandle und man nicht seine Schande sehe."
         },
         {
           "chapter": 16,
@@ -1506,6 +1668,12 @@
           "chapter": 16,
           "verse": 21,
           "text": "Und ein großer Hagel, wie ein Zentner, fiel vom Himmel auf die Menschen; und die Menschen lästerten Gott über die Plage des Hagels, denn seine Plage war sehr groß."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 16\nDie sieben Zornschalen Gottes"
         }
       ]
     },
@@ -1603,6 +1771,12 @@
           "chapter": 17,
           "verse": 18,
           "text": "Und das Weib, das du gesehen hast, ist die große Stadt, die das Reich hat über die Könige auf Erden."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 17\nDie Frau auf dem Tier: Die große Hure Babylon"
         }
       ]
     },
@@ -1731,6 +1905,12 @@
           "verse": 24,
           "text": "Und das Blut der Propheten und der Heiligen ist in ihr gefunden worden und all derer, die auf Erden erwürgt sind."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 18\nDas Gericht über Babylon"
+        }
       ]
     },
     {
@@ -1843,6 +2023,20 @@
           "verse": 21,
           "text": "Und die andern wurden erwürgt mit dem Schwert des, der auf dem Pferde saß, das aus seinem Munde ging; und alle Vögel wurden satt von ihrem Fleisch."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 19\nDer Jubel im Himmel. Die Hochzeit des Lammes"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Der Herr Jesus Christus als König und Richter"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Der Sieg über das Tier und den falschen Propheten"
+        }
       ]
     },
     {
@@ -1924,6 +2118,20 @@
           "chapter": 20,
           "verse": 15,
           "text": "Und so jemand nicht ward gefunden geschrieben in dem Buch des Lebens, der ward geworfen in den feurigen Pfuhl."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 20\nSatan für tausend Jahre gebunden. Erste Auferstehung. Das Friedensreich des Messias"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Satan wird losgelassen und mit den abtrünnigen Völkern endgültig gerichtet"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Das Endgericht vor dem großen weißen Thron"
         }
       ]
     },
@@ -2067,6 +2275,16 @@
           "verse": 27,
           "text": "Und es wird nicht hineingehen irgend ein Gemeines und das da Greuel tut und Lüge, sondern die geschrieben sind in dem Lebensbuch des Lammes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 21\nDer neue Himmel und die neue Erde"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Das neue Jerusalem"
+        }
       ]
     },
     {
@@ -2172,12 +2390,22 @@
         {
           "chapter": 22,
           "verse": 20,
-          "text": "Es spricht, der solches bezeugt: Ja, ich komme bald. Amen, ja komm, HERR Jesu!"
+          "text": "Es spricht, der solches bezeugt: [J]Ja, ich komme bald.[/J] Amen, ja komm, HERR Jesu!"
         },
         {
           "chapter": 22,
           "verse": 21,
           "text": "Die Gnade unsers HERRN Jesu Christi sei mit euch allen! Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 22\nDer Strom vom Wasser des Lebens"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Abschließende Ermahnungen — »Siehe, ich komme bald!«"
         }
       ]
     }

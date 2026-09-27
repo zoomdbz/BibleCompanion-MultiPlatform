@@ -10,12 +10,12 @@
       ],
       "summaryBullets": [
         "Paul, apôtre de Jésus-Christ par la volonté de Dieu, et le frère Timothée, (1:1).",
-        "aux frères qui, à Colosses, sont saints et dignes de confiance dans le Christ : Grâce et paix à vous de la part de Dieu, notre Père ! (1:2).",
-        "Nous rendons grâce à Dieu, le Père de notre Seigneur Jésus-Christ, et nous prions sans cesse pour vous ; (1:3).",
+        "aux frères qui, à Colosses, sont saints et dignes de confiance dans le Christ : Grâce et paix à vous de la part de Dieu, notre Père ! (1:2).",
+        "Nous rendons grâce à Dieu, le Père de notre Seigneur Jésus-Christ, et nous prions sans cesse pour vous ; (1:3).",
         "nous avons en effet entendu parler de votre foi en Jésus-Christ et de l'amour que vous avez pour tous les saints, (1:4).",
         "à cause de l'espérance qui vous est réservée dans les cieux, espérance dont vous avez entendu parler précédemment par la parole de la vérité, la bonne nouvelle. (1:5).",
-        "Cette bonne nouvelle est parvenue chez vous, tout comme elle porte du fruit et croît dans le monde entier ; il en est de même chez vous, depuis le jour où vous avez entendu et connu la grâce de Dieu en vérité, (1:6).",
-        "d'après les instructions que vous avez reçues d'Epaphras, notre compagnon d'esclavage bien-aimé ; il est pour vous un ministre du Christ digne de confiance, (1:7).",
+        "Cette bonne nouvelle est parvenue chez vous, tout comme elle porte du fruit et croît dans le monde entier ; il en est de même chez vous, depuis le jour où vous avez entendu et connu la grâce de Dieu en vérité, (1:6).",
+        "d'après les instructions que vous avez reçues d'Epaphras, notre compagnon d'esclavage bien-aimé ; il est pour vous un ministre du Christ digne de confiance, (1:7).",
         "et il nous a appris de quel amour l'Esprit vous anime. (1:8).",
         "C'est pourquoi, nous aussi, depuis le jour où nous l'avons appris, nous ne cessons de prier Dieu pour vous et de demander que vous soyez remplis de la connaissance de sa volonté, en toute sagesse et intelligence spirituelle, (1:9).",
         "pour que vous vous comportiez d'une manière digne du Seigneur, afin de lui plaire à tous points de vue, que vous portiez du fruit par toutes sortes d'œuvres bonnes, que vous croissiez dans la connaissance de Dieu (1:10).",
@@ -23,10 +23,10 @@
         "rendez grâce au Père qui vous a rendus capables d'accéder à la part d'héritage des saints dans la lumière. (1:12).",
         "Il nous a délivrés de l'autorité des ténèbres pour nous transporter dans le royaume de son Fils bien-aimé, (1:13).",
         "en qui nous avons la rédemption, le pardon des péchés. (1:14).",
-        "Il est l'image du Dieu invisible, le premier-né de toute création ; (1:15).",
-        "car c'est en lui que tout a été créé dans les cieux et sur la terre, le visible et l'invisible, trônes, seigneuries, principats, autorités ; tout a été créé par lui et pour lui ; (1:16).",
-        "lui, il est avant tout, et c'est en lui que tout se tient ; (1:17).",
-        "lui, il est la tête du corps – qui est l'Eglise. Il est le commencement, le premier-né d'entre les morts, afin d'être en tout le premier. (1:18).",
+        "Il est l'image du Dieu invisible, le premier-né de toute création ; (1:15).",
+        "car c'est en lui que tout a été créé dans les cieux et sur la terre, le visible et l'invisible, trônes, seigneuries, principats, autorités ; tout a été créé par lui et pour lui ; (1:16).",
+        "lui, il est avant tout, et c'est en lui que tout se tient ; (1:17).",
+        "lui, il est la tête du corps – qui est l'Eglise. Il est le commencement, le premier-né d'entre les morts, afin d'être en tout le premier. (1:18).",
         "Car il a plu à Dieu de faire habiter en lui toute plénitude (1:19).",
         "et, par lui, de tout réconcilier avec lui-même, aussi bien ce qui est sur la terre que ce qui est dans les cieux, en faisant la paix par lui, par le sang de sa croix. (1:20).",
         "Quant à vous qui étiez autrefois étrangers et ennemis, dans votre façon de penser et par vos œuvres mauvaises, (1:21).",
@@ -35,7 +35,7 @@
         "Je me réjouis maintenant dans mes souffrances pour vous et je supplée à ce qui manque aux détresses du Christ dans ma chair pour son corps, qui est l'Eglise. (1:24).",
         "C'est d'elle que, moi, je suis devenu ministre, selon l'intendance de Dieu qui m'a été accordée pour vous, afin d'accomplir la parole de Dieu, (1:25).",
         "ce mystère qui a été caché de tout temps et à toutes les générations, mais qui s'est maintenant manifesté à ses saints, (1:26).",
-        "à qui Dieu a voulu faire connaître quelle est, parmi les non-Juifs, la glorieuse richesse de ce mystère : le Christ en vous, l'espérance de la gloire. (1:27).",
+        "à qui Dieu a voulu faire connaître quelle est, parmi les non-Juifs, la glorieuse richesse de ce mystère : le Christ en vous, l'espérance de la gloire. (1:27).",
         "C'est lui que nous annonçons, en avertissant tout être humain et en instruisant tout être humain en toute sagesse, afin de porter tout être humain à son accomplissement dans le Christ. (1:28).",
         "C'est pour cela que je me donne de la peine, en combattant par son action qui, avec puissance, est à l'œuvre en moi. (1:29)."
       ],
@@ -70,15 +70,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Adresse et salutation"
+          "text": "Salutation"
         },
         {
           "beforeVerse": 3,
-          "text": "Foi et charité des Colossiens. Prière de l’apôtre pour leurs progrès spirituels. Jésus-Christ, auteur de notre rédemption, image du Dieu invisible, créateur de toutes choses, et chef de l’Église"
+          "text": "La bonne nouvelle est parvenue chez vous"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Intercession"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Le Fils, image du Dieu invisible"
         },
         {
           "beforeVerse": 24,
-          "text": "Travaux et combats de Paul dans son ministère parmi les païens"
+          "text": "Le combat de l'apôtre"
         }
       ]
     },
@@ -94,24 +102,24 @@
         "en qui sont cachés tous les trésors de la sagesse et de la connaissance. (2:3).",
         "Je dis cela pour que personne ne vous abuse par de beaux discours. (2:4).",
         "Car si je suis absent de corps, je suis avec vous en esprit, voyant avec joie le bon ordre qui règne parmi vous et la solidité de votre foi dans le Christ. (2:5).",
-        "Ainsi, comme vous avez reçu Jésus-Christ, le Seigneur, vivez en lui ; (2:6).",
+        "Ainsi, comme vous avez reçu Jésus-Christ, le Seigneur, vivez en lui ; (2:6).",
         "enracinez-vous et construisez-vous en lui, affermissez-vous dans la foi, conformément à ce qui vous a été enseigné, et abondez en actions de grâces. (2:7).",
         "Prenez garde que personne ne fasse de vous sa proie au moyen d'une philosophie trompeuse et vide, selon la tradition des humains, selon les éléments du monde, et non pas selon le Christ. (2:8).",
         "Car c'est en lui qu'habite corporellement toute la plénitude de la divinité, (2:9).",
         "et vous êtes comblés en lui, qui est la tête de tout principat et de toute autorité. (2:10).",
-        "En lui vous avez aussi été circoncis d'une circoncision qui n'est pas faite par des mains humaines : par le dépouillement du corps de la chair, par la circoncision du Christ. (2:11).",
+        "En lui vous avez aussi été circoncis d'une circoncision qui n'est pas faite par des mains humaines : par le dépouillement du corps de la chair, par la circoncision du Christ. (2:11).",
         "Ensevelis avec lui par le baptême, vous vous êtes aussi réveillés ensemble en lui, par la foi de l'action de Dieu qui l'a réveillé d'entre les morts. (2:12).",
-        "Vous qui étiez morts du fait de vos fautes et par l'incirconcision de votre chair, il vous a rendus vivants avec lui, en nous faisant grâce pour toutes nos fautes ; (2:13).",
-        "il a effacé l'acte rédigé contre nous en vertu des prescriptions légales, acte qui nous était contraire ; il l'a enlevé en le clouant à la croix ; (2:14).",
+        "Vous qui étiez morts du fait de vos fautes et par l'incirconcision de votre chair, il vous a rendus vivants avec lui, en nous faisant grâce pour toutes nos fautes ; (2:13).",
+        "il a effacé l'acte rédigé contre nous en vertu des prescriptions légales, acte qui nous était contraire ; il l'a enlevé en le clouant à la croix ; (2:14).",
         "il a dépouillé les principats et les autorités, et il les a publiquement livrés en spectacle, en les entraînant dans son triomphe. (2:15).",
-        "Dès lors, que personne ne vous juge à propos de ce que vous mangez ou buvez, pour une question de fête, de nouvelle lune ou de sabbat : (2:16).",
+        "Dès lors, que personne ne vous juge à propos de ce que vous mangez ou buvez, pour une question de fête, de nouvelle lune ou de sabbat : (2:16).",
         "tout cela n'est qu'une ombre de ce qui est à venir, mais la réalité, c'est le corps du Christ. (2:17).",
-        "Ne vous laissez pas frustrer par les gens qui se complaisent dans « l'humilité » et le « culte des anges » au gré de leurs visions ; ils sont gonflés de vanité par la pensée de leur chair, (2:18).",
+        "Ne vous laissez pas frustrer par les gens qui se complaisent dans « l'humilité » et le « culte des anges » au gré de leurs visions ; ils sont gonflés de vanité par la pensée de leur chair, (2:18).",
         "et ils ne s'attachent pas à la tête par laquelle tout le corps, bien uni grâce aux jointures et aux articulations qui le desservent, grandit d'une croissance qui vient de Dieu. (2:19).",
-        "Si vous êtes morts avec le Christ aux éléments du monde, pourquoi, comme si vous viviez dans le monde, vous replacez-vous sous des prescriptions légales : (2:20).",
-        "« Ne prends pas, ne goûte pas, ne touche pas… » (2:21).",
-        "toutes choses destinées à périr par l'usage qu'on en fait ! Il s'agit de commandements et d'enseignements humains (2:22).",
-        "qui ont, il est vrai, une apparence de sagesse – culte volontaire, humilité et rigueur pour le corps – mais qui n'ont en fait aucune valeur et ne contribuent qu'à la satisfaction de la chair. (2:23)."
+        "Si vous êtes morts avec le Christ aux éléments du monde, pourquoi, comme si vous viviez dans le monde, vous replacez-vous sous des prescriptions légales : (2:20).",
+        "« Ne prends pas, ne goûte pas, ne touche pas… » (2:21).",
+        "toutes choses destinées à périr par l'usage qu'on en fait ! Il s'agit de commandements et d'enseignements humains (2:22).",
+        "qui ont, il est vrai, une apparence de sagesse – culte volontaire, humilité et rigueur pour le corps – mais qui n'ont en fait aucune valeur et ne contribuent qu'à la satisfaction de la chair. (2:23)."
       ],
       "crossRefs": [
         "Éphésiens 3:3-6: Le mystère révélé : les nations cohéritières.",
@@ -148,8 +156,12 @@
       "keyTakeaway": "En plein combat pour les Colossiens et pour ceux de Laodicée, Paul met en garde contre quiconque voudrait les capturer par la philosophie et une tromperie vide, car dans le Christ habite corporellement toute la plénitude de la divinité, et les croyants sont comblés en lui ; ensevelis et réveillés avec lui dans le baptême, pardonnés, l'acte rédigé contre eux étant cloué à la croix et les autorités dépouillées, ils ne doivent laisser personne les juger sur le manger, le boire, une fête, une nouvelle lune ou des sabbats, ombre des choses à venir dont la réalité relève du Christ, ni se soumettre à des règles humaines impuissantes contre la chair.",
       "headings": [
         {
-          "beforeVerse": 4,
-          "text": "Avertissements contre les fausses doctrines"
+          "beforeVerse": 6,
+          "text": "Vous avez tout pleinement dans le Christ"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Morts et ressuscités avec le Christ"
         }
       ]
     },
@@ -164,27 +176,27 @@
         "Pensez à ce qui est en haut, et non pas à ce qui est sur la terre. (3:2).",
         "Car vous êtes morts, et votre vie est cachée avec le Christ en Dieu. (3:3).",
         "Quand le Christ, votre vie, se manifestera, alors vous aussi vous vous manifesterez avec lui, dans la gloire. (3:4).",
-        "Faites donc mourir ce qui n'est que terrestre : l'inconduite sexuelle, l'impureté, les passions, les mauvais désirs et l'avidité, qui est idolâtrie. (3:5).",
+        "Faites donc mourir ce qui n'est que terrestre : l'inconduite sexuelle, l'impureté, les passions, les mauvais désirs et l'avidité, qui est idolâtrie. (3:5).",
         "C'est pour cela que la colère de Dieu vient sur les rebelles. (3:6).",
         "C'est à cela que vous vous adonniez autrefois, lorsque vous viviez ainsi. (3:7).",
-        "Mais maintenant, vous aussi, rejetez tout cela : colère, animosité, malfaisance, calomnie, paroles choquantes sortant de votre bouche. (3:8).",
-        "Ne vous mentez pas les uns aux autres : vous vous êtes dépouillés de l'homme ancien, avec ses agissements, (3:9).",
+        "Mais maintenant, vous aussi, rejetez tout cela : colère, animosité, malfaisance, calomnie, paroles choquantes sortant de votre bouche. (3:8).",
+        "Ne vous mentez pas les uns aux autres : vous vous êtes dépouillés de l'homme ancien, avec ses agissements, (3:9).",
         "et vous avez revêtu le nouveau, qui se renouvelle en vue de la connaissance, selon l'image de celui qui l'a créé. (3:10).",
-        "Il n'y a là ni Grec ni Juif, ni circoncis ni incirconcis, ni barbare ni Scythe, ni esclave ni homme libre ; mais le Christ est tout et en tous. (3:11).",
+        "Il n'y a là ni Grec ni Juif, ni circoncis ni incirconcis, ni barbare ni Scythe, ni esclave ni homme libre ; mais le Christ est tout et en tous. (3:11).",
         "Ainsi donc, vous qui êtes choisis par Dieu, saints et bien-aimés, revêtez-vous d'une tendresse magnanime, de bonté, d'humilité, de douceur, de patience. (3:12).",
-        "Supportez-vous les uns les autres et faites-vous grâce, si quelqu'un a à se plaindre d'un autre ; comme le Seigneur vous a fait grâce, vous aussi, faites de même. (3:13).",
+        "Supportez-vous les uns les autres et faites-vous grâce, si quelqu'un a à se plaindre d'un autre ; comme le Seigneur vous a fait grâce, vous aussi, faites de même. (3:13).",
         "Mais par-dessus tout, revêtez-vous de l'amour, qui est le lien parfait. (3:14).",
-        "Que la paix du Christ, à laquelle vous avez été appelés en un seul corps, règne dans votre cœur. Soyez reconnaissants ! (3:15).",
-        "Que la parole du Christ habite en vous avec toute sa richesse ; instruisez-vous et avertissez-vous en toute sagesse, par des cantiques, des hymnes, des chants spirituels ; dans la grâce, chantez à Dieu de tout votre cœur. (3:16).",
+        "Que la paix du Christ, à laquelle vous avez été appelés en un seul corps, règne dans votre cœur. Soyez reconnaissants ! (3:15).",
+        "Que la parole du Christ habite en vous avec toute sa richesse ; instruisez-vous et avertissez-vous en toute sagesse, par des cantiques, des hymnes, des chants spirituels ; dans la grâce, chantez à Dieu de tout votre cœur. (3:16).",
         "Quoi que vous fassiez, en parole ou en œuvre, faites tout au nom du Seigneur Jésus, en rendant grâce par lui à Dieu, le Père. (3:17).",
         "Femmes, soyez soumises à votre mari, comme il convient dans le Seigneur. (3:18).",
         "Maris, aimez votre femme, et ne vous aigrissez pas contre elle. (3:19).",
         "Enfants, obéissez en tout à vos parents, car cela est agréé dans le Seigneur. (3:20).",
         "Pères, n'exaspérez pas vos enfants, de peur qu'ils ne se découragent. (3:21).",
-        "Esclaves, obéissez en tout à vos maîtres selon la chair ; non pas seulement sous leurs yeux, comme s'il s'agissait de plaire à des humains, mais avec simplicité de cœur, dans la crainte du Seigneur. (3:22).",
+        "Esclaves, obéissez en tout à vos maîtres selon la chair ; non pas seulement sous leurs yeux, comme s'il s'agissait de plaire à des humains, mais avec simplicité de cœur, dans la crainte du Seigneur. (3:22).",
         "Quoi que vous fassiez, travaillez-y de toute votre âme, comme pour le Seigneur, et non pour des humains, (3:23).",
         "sachant que vous recevrez du Seigneur l'héritage en récompense. Servez comme des esclaves du vrai Seigneur, le Christ. (3:24).",
-        "Car celui qui agit injustement recueillera l'injustice qu'il a faite : il n'y a pas de partialité. (3:25)."
+        "Car celui qui agit injustement recueillera l'injustice qu'il a faite : il n'y a pas de partialité. (3:25)."
       ],
       "crossRefs": [
         "Romains 6:4: Marcher en nouveauté de vie.",
@@ -217,11 +229,15 @@
       "headings": [
         {
           "beforeVerse": 5,
-          "text": "Exhortation à la sainteté, à la charité, à la piété"
+          "text": "L'homme ancien et l'homme nouveau"
         },
         {
           "beforeVerse": 18,
-          "text": "Devoirs domestiques"
+          "text": "Maris et femmes, enfants et parents"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Esclaves et maîtres"
         }
       ]
     },
@@ -233,23 +249,23 @@
       ],
       "summaryBullets": [
         "Maîtres, accordez à vos esclaves ce qui est juste et équitable, sachant que, vous aussi, vous avez un Maître dans le ciel. (4:1).",
-        "Consacrez-vous assidûment à la prière ; par elle, veillez, dans l'action de grâces. (4:2).",
-        "Priez également pour nous, afin que Dieu nous ouvre une porte pour la Parole et que se dise le mystère du Christ, pour lequel je suis en prison ; (4:3).",
+        "Consacrez-vous assidûment à la prière ; par elle, veillez, dans l'action de grâces. (4:2).",
+        "Priez également pour nous, afin que Dieu nous ouvre une porte pour la Parole et que se dise le mystère du Christ, pour lequel je suis en prison ; (4:3).",
         "que j'en parle clairement comme je dois en parler. (4:4).",
         "Comportez-vous avec sagesse envers ceux du dehors. Rachetez le temps. (4:5).",
         "Que votre parole soit toujours accompagnée de grâce, assaisonnée de sel, pour que vous sachiez comment vous devez répondre à chacun. (4:6).",
         "En ce qui me concerne, Tychique, qui est, dans le Seigneur, le frère bien-aimé, le ministre digne de confiance et le compagnon d'esclavage, vous mettra au courant de tout. (4:7).",
         "Je vous l'envoie tout exprès pour que vous connaissiez notre situation, et pour qu'il vous encourage. (4:8).",
         "Je l'envoie avec Onésime, le frère bien-aimé et digne de confiance, qui est des vôtres. Ils vous mettront au courant de tout ce qui se passe ici. (4:9).",
-        "Aristarque, mon compagnon de captivité, vous salue, ainsi que Marc, le cousin de Barnabé – au sujet duquel vous avez reçu des instructions : s'il vient vous voir, faites-lui bon accueil. (4:10).",
-        "Aussi Jésus, qu'on appelle Justus. Parmi les circoncis ce sont les seuls qui collaborent avec moi pour le royaume de Dieu ; ils ont été pour moi un réconfort. (4:11).",
-        "Epaphras, qui est des vôtres, vous salue : esclave de Jésus-Christ, il ne cesse de combattre pour vous dans ses prières, afin que, parvenus à l'accomplissement et pleinement convaincus de la volonté de Dieu, vous teniez bon. (4:12).",
+        "Aristarque, mon compagnon de captivité, vous salue, ainsi que Marc, le cousin de Barnabé – au sujet duquel vous avez reçu des instructions : s'il vient vous voir, faites-lui bon accueil. (4:10).",
+        "Aussi Jésus, qu'on appelle Justus. Parmi les circoncis ce sont les seuls qui collaborent avec moi pour le royaume de Dieu ; ils ont été pour moi un réconfort. (4:11).",
+        "Epaphras, qui est des vôtres, vous salue : esclave de Jésus-Christ, il ne cesse de combattre pour vous dans ses prières, afin que, parvenus à l'accomplissement et pleinement convaincus de la volonté de Dieu, vous teniez bon. (4:12).",
         "Je lui rends ce témoignage qu'il se donne beaucoup de mal pour vous, pour ceux de Laodicée et pour ceux de Hiérapolis. (4:13).",
         "Luc, le médecin bien-aimé, vous salue, ainsi que Démas. (4:14).",
         "Saluez les frères qui sont à Laodicée, ainsi que Nympha et l'Eglise qui est dans sa maison. (4:15).",
         "Quand cette lettre aura été lue chez vous, faites en sorte qu'elle soit aussi lue dans l'Eglise des Laodicéens, et que, vous, vous lisiez également celle qui vous arrivera de Laodicée. (4:16).",
-        "Dites à Archippe : Prends garde au ministère que tu as reçu dans le Seigneur, afin de bien le remplir. (4:17).",
-        "Je vous salue, moi, Paul, de ma propre main. Souvenez-vous de ma condition de prisonnier. Que la grâce soit avec vous ! (4:18)."
+        "Dites à Archippe : Prends garde au ministère que tu as reçu dans le Seigneur, afin de bien le remplir. (4:17).",
+        "Je vous salue, moi, Paul, de ma propre main. Souvenez-vous de ma condition de prisonnier. Que la grâce soit avec vous ! (4:18)."
       ],
       "crossRefs": [
         "Éphésiens 5:22-6:9: Code domestique parallèle.",
@@ -281,12 +297,12 @@
       "keyTakeaway": "Les maîtres doivent accorder à leurs esclaves ce qui est juste et équitable, sachant qu'eux aussi ont un Maître dans le ciel, et tous doivent persévérer dans une prière vigilante et reconnaissante pour que Dieu ouvre une porte à la parole, en se conduisant avec sagesse envers ceux du dehors, la parole toujours accompagnée de grâce et assaisonnée de sel ; Paul envoie Tychique et Onésime donner de ses nouvelles, transmet les salutations, dont celle d'Epaphras qui combat en prière pour leur maturité, organise l'échange des lettres avec Laodicée, charge Archippe d'accomplir son ministère, et salue de sa propre main en rappelant ses chaînes.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Exhortation à la prière et à la sagesse"
+          "beforeVerse": 2,
+          "text": "Attitude à l'égard de ceux du dehors"
         },
         {
           "beforeVerse": 7,
-          "text": "Envoi de Tychique et d’Onésime. Salutations"
+          "text": "Messages personnels et salutations"
         }
       ]
     }

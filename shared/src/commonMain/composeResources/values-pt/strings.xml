@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">Guia de leitura estruturado com expressões hebraicas e conexões com as festas</string>
     <string name="prophecy_revelation_timeline">Linha do tempo do Apocalipse</string>
     <string name="prophecy_revelation_timeline_desc">Os selos, as trombetas, as taças, a volta de Cristo, o Milênio e a Nova Jerusalém</string>
+    <string name="prophecy_second_coming_rapture">Segunda vinda e arrebatamento</string>
+    <string name="prophecy_second_coming_rapture_desc">A volta de Cristo, a ressurreição, a reunião, a ira e as principais posições cronológicas</string>
     <!-- Data -->
     <string name="data_section">Dados</string>
     <string name="data_section_desc">Transfira seus marcadores, versículos salvos, realces e rótulos entre dispositivos. Toque em Exportar para copiar seus dados para a área de transferência e depois cole em Importar no outro dispositivo. Configurações e preferências não estão incluídas.</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">Caminho para Jerusalém e ministério na Judeia</string>
     <string name="chronology_gospel_final_week">Última semana e crucificação</string>
     <string name="chronology_gospel_resurrection">Ressurreição</string>
+    <string name="daily_notification_title">Notificações</string>
+    <string name="daily_notification_toggle">Versículo diário</string>
+    <string name="daily_notification_desc">Receba um versículo no horário local escolhido. Toque na notificação para ler ou use Copiar ou Compartilhar. O dispositivo pode atrasar a entrega.</string>
+    <string name="daily_notification_time">Horário da notificação</string>
+    <string name="daily_notification_save">Salvar horário</string>
+    <string name="daily_notification_ios_window">O iOS agenda versículos para até 60 dias. Abra o aplicativo regularmente para renovar a lista.</string>
+    <string name="daily_notification_permission_denied">As notificações estão bloqueadas. Permita-as nas configurações do dispositivo e ative esta opção novamente.</string>
+    <string name="daily_notification_system_settings">Configurações de notificações do dispositivo</string>
 </resources>

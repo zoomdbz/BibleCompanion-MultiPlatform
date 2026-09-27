@@ -132,6 +132,20 @@
           "verse": 24,
           "text": "und priesen Gott über mir."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 1\nZuschrift und Grüße"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Warnung vor einem anderen Evangelium"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Die göttliche Berufung des Apostels Paulus"
+        }
       ]
     },
     {
@@ -243,6 +257,20 @@
           "chapter": 2,
           "verse": 21,
           "text": "Ich werfe nicht weg die Gnade Gottes; denn so durch das Gesetz die Gerechtigkeit kommt, so ist Christus vergeblich gestorben."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 2\nDie Anerkennung des Aposteldienstes von Paulus durch Petrus, Jakobus und Johannes"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Paulus widersteht Petrus in Antiochia"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Durch Christus gerechtfertigt – mit Christus gekreuzigt"
         }
       ]
     },
@@ -395,6 +423,20 @@
           "chapter": 3,
           "verse": 29,
           "text": "Seid ihr aber Christi, so seid ihr ja Abrahams Same und nach der Verheißung Erben."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 3\nDie Gerechtigkeit wird durch Glauben erlangt und nicht durchs Gesetz"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Das Heil ist aufgrund der Verheißung gegeben, nicht aufgrund des Gesetzes"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Die Knechtschaft des Gesetzes und die Sohnschaft in Christus"
         }
       ]
     },
@@ -558,6 +600,20 @@
           "verse": 31,
           "text": "So sind wir nun, liebe Brüder, nicht der Magd Kinder, sondern der Freien."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 4"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Warnender Zuspruch des Apostels"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Die Kinder der Magdund die Kinder der Freien"
+        }
       ]
     },
     {
@@ -695,6 +751,16 @@
           "verse": 26,
           "text": "Lasset uns nicht eitler Ehre geizig sein, einander zu entrüsten und zu hassen."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 5\nDie Freiheit in Christus und die Verführung der judaistischen Irrlehrer"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Ermahnung zum Wandel im Geist"
+        }
       ]
     },
     {
@@ -791,6 +857,16 @@
           "chapter": 6,
           "verse": 18,
           "text": "Die Gnade unsers HERRN Jesu Christi sei mit eurem Geist, liebe Brüder! Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 6\nGeistlicher Wandel im Gemeindeleben"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Eigenhändiger Briefschluss. Das Kreuz Jesu Christi und die neue Schöpfung"
         }
       ]
     }

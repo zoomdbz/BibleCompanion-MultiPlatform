@@ -72,6 +72,12 @@
           "verse": 12,
           "text": "Para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Acción de gracias e intercesión"
+        }
       ]
     },
     {
@@ -163,6 +169,16 @@
           "chapter": 2,
           "verse": 17,
           "text": "Consuele vuestros corazones, y os confirme en toda buena palabra y obra."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La manifestación y juicio del malvado"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Una exhortación a la perseverancia"
         }
       ]
     },
@@ -260,6 +276,20 @@
           "chapter": 3,
           "verse": 18,
           "text": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. La segunda [ADD]Epístola[/ADD] á los Tesalonicenses fué escrita de Atenas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Una oración por la difusión del evangelio"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Una exhortación al trabajo"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Saludos finales"
         }
       ]
     }

@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">包含希伯来惯用语和节期关联的系统阅读指南</string>
     <string name="prophecy_revelation_timeline">启示录时间线</string>
     <string name="prophecy_revelation_timeline_desc">七印、七号、七碗、基督再临、千禧年国度与新耶路撒冷</string>
+    <string name="prophecy_second_coming_rapture">基督再临与被提</string>
+    <string name="prophecy_second_coming_rapture_desc">基督再临、复活、信徒聚集、神的忿怒与主要时间观点</string>
     <!-- Data -->
     <string name="data_section">数据</string>
     <string name="data_section_desc">在设备间传输您的书签、收藏经文、高亮和标签。点击导出将数据复制到剪贴板,然后在另一设备上粘贴到导入中。设置和偏好不包含在内。</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">前往耶路撒冷与犹太事工</string>
     <string name="chronology_gospel_final_week">最后一周与受难</string>
     <string name="chronology_gospel_resurrection">复活</string>
+    <string name="daily_notification_title">通知</string>
+    <string name="daily_notification_toggle">每日经文通知</string>
+    <string name="daily_notification_desc">在你选择的当地时间接收经文。点按通知即可阅读，也可以复制或分享。设备可能会延迟发送通知。</string>
+    <string name="daily_notification_time">通知时间</string>
+    <string name="daily_notification_save">保存时间</string>
+    <string name="daily_notification_ios_window">iOS 最多可预先安排 60 天的经文通知。请定期打开应用，以更新通知安排。</string>
+    <string name="daily_notification_permission_denied">通知已被阻止。请在设备设置中允许通知，然后开启此选项。</string>
+    <string name="daily_notification_system_settings">设备通知设置</string>
 </resources>

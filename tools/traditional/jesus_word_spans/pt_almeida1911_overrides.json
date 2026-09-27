@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "language": "pt",
+  "editionId": "almeida1911",
+  "alignmentReportSha256": "12B175829D87E5817824C72EF208B73C1FB2931E7A7BC90C807F74B55EE6453A",
+  "fullReportSha256": "BAC7D208A99DAA5FE5EA38312748304003EBFBB0C4A79AA90B6E3969102F3AF3",
+  "reviewedExceptionCount": 159,
+  "reviewPolicy": "All 159 non-dual candidate verses were compared against exact Almeida1911 target text, both Portuguese red-letter witnesses, and pinned KJV WJ spans. Accept ARC mapping unless an index below names AA or a manual selector. Indices are bound to the hash-pinned alignment report and checked for completeness.",
+  "acceptAA": [25, 30, 45, 47, 52, 73, 78, 80, 86, 107, 115, 116, 120, 122, 140, 147, 151, 155],
+  "manual": {
+    "1": [{"after": "E elle lhes disse: ", "before": " E, saindo"}],
+    "7": [{"after": "E elle disse: ", "before": " E Pedro"}],
+    "10": [{"after": "disse-lhes: "}],
+    "33": [{"before": " Então todos"}],
+    "35": [{"after": "dizendo: ", "before": " isto é"}],
+    "37": [{"before": " Amen."}],
+    "40": [{"before": " (disse"}],
+    "50": [{"after": "disse-lhe: ", "before": " que, traduzido"}],
+    "51": [{"after": "dizia-lhes: "}],
+    "53": [{"after": "disse-lhes: ", "before": " E, sabendo-o"}],
+    "55": [{"after": "disse: ", "before": " isto é"}],
+    "58": [{"exactText": "Porém vós quem dizeis que eu sou?"}],
+    "61": [{"after": "Dizendo: "}],
+    "74": [{"after": "dizendo: ", "before": " que, traduzido"}],
+    "82": [{"after": "E ordenou-lhe que a ninguem o dissesse. ", "before": " disse, "}, {"after": "disse, "}],
+    "92": [{"exactText": "Quem é que me tocou?", "occurrence": 1}, {"exactText": "Quem é que me tocou?", "occurrence": 2}],
+    "103": [{"after": "disse-lhe: "}],
+    "104": [{"after": "E elle lhes disse: "}],
+    "106": [{"after": "E o Senhor lhe disse; "}],
+    "114": [{"after": "disse-lhes: "}],
+    "145": [{"after": "Jerusalem, ", "before": " (disse elle)"}, {"after": "(disse elle) "}],
+    "157": [{"before": " diz o Senhor"}]
+  },
+  "fullOverrides": [
+    {"reference": "matthew 19:5", "spans": [{"after": "E disse: "}], "reason": "The target begins with the narrator's E disse; both Almeida red-letter witnesses begin speech at Portanto."},
+    {"reference": "mark 12:37", "spans": [{"before": " E a grande multidão"}], "reason": "The target ends with the crowd's response; both Almeida red-letter witnesses stop before that narration."}
+  ]
+}

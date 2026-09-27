@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "language": "ru",
+  "editionId": "synodal1876",
+  "purpose": "Exact target-boundary reviews where pinned RST+ wording or red spans differ from pinned KJV WJ, plus six KJV-full narrator corrections.",
+  "rows": [
+    {
+      "reference": "matthew 15:32",
+      "spans": ["жаль Мне народа, что уже три дня находятся при Мне, и нечего им есть; отпустить же их не евшими не хочу, чтобы не ослабели в дороге."],
+      "reason": "Target prints не евшими as two words; Jesus' speech begins after сказал им."
+    },
+    {
+      "reference": "matthew 18:22",
+      "spans": ["не говорю тебе: до семи, но до седмижды семидесяти раз."],
+      "reason": "RST+ has раз inside the nested quotation, but target omits that word."
+    },
+    {
+      "reference": "matthew 26:18",
+      "spans": ["пойдите в город к такому-то и скажите ему: Учитель говорит: время Мое близко; у тебя совершу пасху с учениками Моими."],
+      "reason": "RST+ splits one continuous target speech turn at nested Учитель говорит; KJV WJ attributes the instruction to Jesus."
+    },
+    {
+      "reference": "matthew 26:56",
+      "spans": ["Сие же все было, да сбудутся писания пророков."],
+      "reason": "RST+ lacks red markup, but pinned KJV WJ marks Jesus' first sentence; the disciples' flight is narration."
+    },
+    {
+      "reference": "matthew 27:46",
+      "spans": ["Или, Или! лама савахфани?"],
+      "reason": "KJV WJ marks the original-language cry, not the narrator's translated gloss; RST+ marks both."
+    },
+    {
+      "reference": "mark 5:34",
+      "spans": ["вера твоя спасла тебя; иди в мире и будь здорова от болезни твоей."],
+      "reason": "Target omits RST+'s дщерь; speech still begins after сказал ей."
+    },
+    {
+      "reference": "mark 5:36",
+      "spans": ["не бойся, только веруй."],
+      "reason": "Target separates тот час where RST+ joins it; exact direct speech follows the reporting colon."
+    },
+    {
+      "reference": "mark 5:41",
+      "spans": ["“талифа куми”,"],
+      "reason": "KJV WJ marks the Aramaic utterance, not the narrator's translated gloss; target uses quotation glyphs absent from source."
+    },
+    {
+      "reference": "mark 6:4",
+      "spans": ["не бывает пророк без чести, разве только в отечестве своем и у родственников и в доме своем."],
+      "reason": "Target has родственников where RST+ has сродников; speech ends at native-unit end."
+    },
+    {
+      "reference": "mark 7:34",
+      "spans": ["“еффафа”,"],
+      "reason": "KJV WJ marks the Aramaic utterance only, not the narrator's отверзись translation."
+    },
+    {
+      "reference": "mark 9:12",
+      "spans": ["правда, Илия должен придти прежде и у строить все; и Сыну Человеческому, как написано о Нем, надлежит много пострадать и быть уничижену."],
+      "reason": "Target retains у строить as two words; Jesus' speech follows сказал им в ответ."
+    },
+    {
+      "reference": "mark 11:22",
+      "spans": [],
+      "speechRelocatedTo": {
+        "chapter": 11,
+        "verse": 23,
+        "targetTextSha256": "03EC9CE727145A969B6C9F5DE7192EF058177798ADC33E3E5CCA4DB0E75AA3B0",
+        "exactText": "имейте веру Божию",
+        "fulfillment": "inherited"
+      },
+      "reason": "KJV 11:22 Have faith in God moves to target 11:23 before the separate KJV 11:23 saying; target 11:22 has only an introducer."
+    },
+    {
+      "reference": "mark 15:34",
+      "spans": ["Элои! Элои! ламма савахфани?"],
+      "reason": "KJV WJ marks the original-language cry, not the narrator's translated gloss; RST+ marks both."
+    },
+    {
+      "reference": "luke 4:4",
+      "spans": ["написано, что не хлебом единым будет жить человек, но всяким словом Божиим."],
+      "reason": "Target uses единым where RST+ has одним; Jesus' answer follows the reporting colon."
+    },
+    {
+      "reference": "luke 4:21",
+      "spans": ["ныне исполнилось писание сие, слышанное вами."],
+      "reason": "RST+ splits one continuous saying at formatting markup; KJV WJ and target keep one turn."
+    },
+    {
+      "reference": "luke 8:45",
+      "spans": [
+        {"exactText": "кто прикоснулся ко Мне?", "occurrence": 1},
+        {"exactText": "кто прикоснулся ко Мне?", "occurrence": 2}
+      ],
+      "reason": "Pinned KJV WJ marks Jesus' question and Peter's verbatim repetition; RST+ red marks only the first."
+    },
+    {
+      "reference": "john 8:14",
+      "spans": ["если Я и Сам о Себе свидетельствую, свидетельство Мое истинно; потому что Я знаю, откуда пришел и куда иду; а вы не знаете, откуда Я и куда иду."],
+      "reason": "RST+ splits one continuous Jesus turn at formatting markup; no narrator intervenes."
+    },
+    {
+      "reference": "john 8:54",
+      "spans": ["если Я Сам Себя славлю, то слава Моя ничто. Меня прославляет Отец Мой, о Котором вы говорите, что Он Бог ваш."],
+      "reason": "RST+ splits one continuous turn and uses an em dash absent from target."
+    },
+    {
+      "reference": "john 1:42",
+      "spans": ["ты - Симон, сын Ионин; ты наречешься Кифа,"],
+      "reason": "RST+ colors the narrator's что значит камень Петр translation gloss; pinned KJV WJ stops after Cephas."
+    },
+    {
+      "reference": "john 18:37",
+      "spans": ["ты говоришь, что Я Царь. Я на то родился и на то пришел в мир, чтобы свидетельствовать о истине; всякий, кто от истины, слушает гласа Моего."],
+      "reason": "Target has о истине where RST+ has об истине; Pilate's question before Иисус отвечал is not Jesus' speech."
+    },
+    {
+      "reference": "john 20:15",
+      "spans": ["жена! что ты плачешь, кого ищешь?"],
+      "reason": "Target adds же and changes inner question punctuation; Mary's answer after Она is excluded."
+    },
+    {
+      "reference": "john 20:17",
+      "spans": ["не прикасайся ко Мне, ибо Я еще не восшел к Отцу Моему; а иди к братьям Моим и скажи им: восхожу к Отцу Моему и Отцу вашему и к Богу Моему и к Богу вашему."],
+      "reason": "Target omits one conjunction and source quotation glyphs; all words after Иисус говорит ей are Jesus' speech."
+    },
+    {
+      "reference": "john 20:19",
+      "spans": ["мир вам!"],
+      "reason": "Target omits a narrator conjunction; the short greeting follows и говорит им."
+    },
+    {
+      "reference": "john 20:26",
+      "spans": ["мир вам!"],
+      "reason": "Target omits a narrator word; the short greeting follows и сказал."
+    },
+    {
+      "reference": "john 20:27",
+      "spans": ["подай перст свой сюда и посмотри руки Мои; подай руку твою и вложи в ребра Мои; и не будь неверующим, но верующим."],
+      "reason": "Target has свой and ребра where RST+ has твой and рёбра; speech follows говорит Фоме."
+    },
+    {
+      "reference": "john 20:29",
+      "spans": ["ты поверил, потому что увидел; блаженны не видевшие и уверовавшие."],
+      "reason": "Target omits Меня and separates не видевшие; KJV WJ still attributes the saying to Jesus."
+    },
+    {
+      "reference": "john 21:6",
+      "spans": ["закиньте сети по правую сторону лодки, и поймаете."],
+      "reason": "Target uses plural сети; disciples' subsequent action begins at Они закинули."
+    },
+    {
+      "reference": "john 21:10",
+      "spans": ["принесите рыбу, которую вы теперь поймали."],
+      "reason": "Target uses рыбу rather than RST+ рыбы; speech follows Иисус говорит им."
+    },
+    {
+      "reference": "john 21:12",
+      "spans": ["прийдите, обедайте."],
+      "reason": "Target uses прийдите; the disciples' reluctance after Из учеников is narration."
+    },
+    {
+      "reference": "john 21:17",
+      "spans": ["Симон Ионин! любишь ли ты Меня?", "паси овец Моих."],
+      "reason": "RST+ colors Peter's recalled question as a third span; pinned KJV WJ marks only Jesus' first question and final command."
+    },
+    {
+      "reference": "john 21:19",
+      "spans": ["иди за Мною."],
+      "reason": "Target says сказав это rather than RST+ сказав сие in narrator preface; only command is Jesus' speech."
+    },
+    {
+      "reference": "john 21:22",
+      "spans": ["если Я хочу, чтобы он пребыл, пока прииду, что тебе до того? Ты иди за Мною."],
+      "reason": "Target uses прииду and capitalizes Ты; speech follows Иисус говорит ему."
+    },
+    {
+      "reference": "acts 1:4",
+      "spans": ["но ждите обещанного от Отца, о чем вы слышали от Меня,"],
+      "reason": "RST+ colors the preceding departure command; pinned KJV WJ begins at but wait and omits the reporting parenthesis."
+    },
+    {
+      "reference": "revelation 1:8",
+      "spans": ["Я есмь Альфа и Омега, начало и конец,"],
+      "reason": "KJV WJ ends after Alpha/Omega and beginning/end; RST+ also colors the title after говорит Господь, which this ledger excludes."
+    },
+    {
+      "reference": "revelation 1:11",
+      "spans": ["то, что видишь, напиши в книгу и пошли церквам, находящимся в Асии: в Ефес, и в Смирну, и в Пергам, и в Фиатиру, и в Сардис, и в Филадельфию, и в Лаодикию."],
+      "reason": "KJV WJ first Alpha/Omega clause is absent from the target; mark only the retained command."
+    }
+  ],
+  "fullOverrides": [
+    {
+      "reference": "matthew 19:5",
+      "targetTextSha256": "1A3D820333D6A4735C2A0E36826EFC57F57C36E86CC51EF5DC3B9C33D4B799E4",
+      "spans": ["посему оставит человек отца и мать и прилепится к жене своей, и будут два одною плотью,"],
+      "reason": "KJV WJ includes И сказал, but RST+ and target identify it as narrator introduction."
+    },
+    {
+      "reference": "matthew 25:30",
+      "targetTextSha256": "0AE22779A9C5019AAF1DE33CE9C4E2AFD4344CA2854BC23423E1D116D60764C9",
+      "spans": ["а негодного раба выбросьте во тьму внешнюю: там будет плач и скрежет зубов.", "кто имеет уши слышать, да слышит!"],
+      "reason": "Target has Jesus speech, then Сказав сие narration, then a second Jesus cry; KJV WJ colors the entire verse."
+    },
+    {
+      "reference": "mark 12:37",
+      "targetTextSha256": "845045B991E33B3C87B47759E565F5CD5851BA759F96452C4529C4855809B403",
+      "spans": ["Итак, сам Давид называет Его Господом: как же Он Сын ему?"],
+      "reason": "RST+ ends Jesus' question before the crowd narration, although KJV WJ colors its whole verse."
+    },
+    {
+      "reference": "luke 7:41",
+      "targetTextSha256": "0A3F7FA21A7EB138C59F03C540DE64C3BED584D359109E1CE815A537382065A6",
+      "spans": ["у одного заимодавца было два должника: один должен был пятьсот динариев, а другой пятьдесят,"],
+      "reason": "RST+ excludes Иисус сказал, the target's narrator introduction."
+    },
+    {
+      "reference": "luke 8:15",
+      "targetTextSha256": "730F1CECF294DBABE298CFF9F2293454BFD821A930D7FA9C2243BE71F60C5F4E",
+      "spans": ["а упавшее на добрую землю, это те, которые, услышав слово, хранят его в добром и чистом сердце и приносят плод в терпении.", "кто имеет уши слышать, да слышит!"],
+      "reason": "RST+ has two Jesus turns separated by Сказав это, Он возгласил narration; KJV WJ colors the whole verse."
+    },
+    {
+      "reference": "luke 10:22",
+      "targetTextSha256": "C96BD2EC800954ED44259687E1AD70C089E58D192F5EA6D2FE33C25A708B7EDD",
+      "spans": ["все предано Мне Отцем Моим; и кто есть Сын, не знает никто, кроме Отца, и кто есть Отец, не знает никто, кроме Сына, и кому Сын хочет открыть."],
+      "reason": "RST+ excludes И, обратившись к ученикам, сказал, the target's narrator introduction."
+    }
+  ]
+}

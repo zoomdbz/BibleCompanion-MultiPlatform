@@ -93,19 +93,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "摩西回忆"
+          "text": "前言"
         },
         {
           "beforeVerse": 9,
-          "text": "摩西指派审判官"
+          "text": "摩西设立首领"
         },
         {
           "beforeVerse": 19,
-          "text": "从加低斯‧巴尼亚派探子侦察"
+          "text": "派人打探迦南"
         },
         {
           "beforeVerse": 34,
-          "text": "耶和华刑罚以色列人"
+          "text": "惩罚叛逆"
         }
       ]
     },
@@ -187,11 +187,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "多年在旷野"
+          "text": "旷野漂流"
         },
         {
           "beforeVerse": 26,
-          "text": "击败希实本王西宏"
+          "text": "击败希实本王"
         }
       ]
     },
@@ -269,7 +269,7 @@
         },
         {
           "beforeVerse": 12,
-          "text": "定居约旦河东的二支派半"
+          "text": "分配约旦河东之地"
         },
         {
           "beforeVerse": 23,
@@ -382,19 +382,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "摩西劝人民遵行耶和华的律例典章"
+          "text": "当守律法"
         },
         {
           "beforeVerse": 15,
-          "text": "警告人民不可拜偶像"
+          "text": "不可拜偶像"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "独一的上帝"
         },
         {
           "beforeVerse": 41,
-          "text": "设立河东的庇护城"
+          "text": "设立避难城"
         },
         {
           "beforeVerse": 44,
-          "text": "重申律法诫命"
+          "text": "重申律法"
         }
       ]
     },
@@ -498,10 +502,6 @@
         {
           "beforeVerse": 1,
           "text": "十诫"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "百姓看见火焰烧山而惧怕"
         }
       ]
     },
@@ -572,10 +572,6 @@
         {
           "beforeVerse": 1,
           "text": "最大的诫命"
-        },
-        {
-          "beforeVerse": 10,
-          "text": "警告人民不可悖逆 神"
         }
       ]
     },
@@ -646,11 +642,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "耶和华的子民"
+          "text": "做上帝的子民"
         },
         {
           "beforeVerse": 12,
-          "text": "遵行诫命必蒙福"
+          "text": "遵守诫命必蒙福"
         }
       ]
     },
@@ -720,11 +716,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "将得美地"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "警告百姓不可忘记主"
+          "text": "不可忘记耶和华"
         }
       ]
     },
@@ -803,7 +795,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "百姓悖逆"
+          "text": "以色列人的悖逆"
         }
       ]
     },
@@ -875,11 +867,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "摩西重新接受十诫"
+          "text": "摩西重新接受诫命"
         },
         {
           "beforeVerse": 12,
-          "text": "神的要求"
+          "text": "耶和华的要求"
         }
       ]
     },
@@ -956,11 +948,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "主的伟大"
-        },
-        {
-          "beforeVerse": 8,
-          "text": "应许之地的福泽"
+          "text": "要听从耶和华"
         }
       ]
     },
@@ -1042,11 +1030,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "惟一的敬拜场所"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "警告不可拜偶像"
+          "text": "合宜的敬拜"
         }
       ]
     },
@@ -1104,7 +1088,12 @@
         }
       ],
       "keyTakeaway": "摩西吩咐以色列，凡行神迹却煽动百姓敬拜其他假神的先知或作梦者，都必须处死；凡暗中引诱人敬拜他们不认识的假神者，即使是家人也不例外；整座城若转向偶像崇拜，必须彻底摧毁，焚烧为献给耶和华的祭物。",
-      "headings": []
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "不可拜假神"
+        }
+      ]
     },
     {
       "id": "deuteronomy-14",
@@ -1176,15 +1165,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "举哀时的禁例"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "洁净和不洁净的动物"
+          "text": "做圣洁的子民"
         },
         {
           "beforeVerse": 22,
-          "text": "十分献一的条例"
+          "text": "十一奉献"
         }
       ]
     },
@@ -1264,12 +1249,8 @@
           "text": "安息年"
         },
         {
-          "beforeVerse": 12,
-          "text": "对待奴婢的条例"
-        },
-        {
           "beforeVerse": 19,
-          "text": "头生牛羊的条例"
+          "text": "头生的牛羊"
         }
       ]
     },
@@ -1353,7 +1334,11 @@
         },
         {
           "beforeVerse": 18,
-          "text": "秉公审断"
+          "text": "委任审判官"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "不可拜偶像"
         }
       ]
     },
@@ -1417,8 +1402,12 @@
       "keyTakeaway": "祭牲必须没有残疾。敬拜其他假神者须经两名或三名见证人作证后，用石头处死，见证人要先扔石头。疑难案件交给利未祭司和审判官裁决。以色列立王时，王必须是神所拣选的以色列人，不可多添马匹、妻子和财富；他要抄写一份律法，并终身每天诵读，以保持谦卑。",
       "headings": [
         {
+          "beforeVerse": 8,
+          "text": "复杂案件的处理"
+        },
+        {
           "beforeVerse": 14,
-          "text": "有关立王的指示"
+          "text": "立王的条例"
         }
       ]
     },
@@ -1490,15 +1479,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "祭司当得的分"
+          "text": "利未人的产业"
         },
         {
           "beforeVerse": 9,
-          "text": "不可随从异邦的恶俗"
+          "text": "不可随从外族风俗"
         },
         {
           "beforeVerse": 14,
-          "text": "应许兴起先知"
+          "text": "耶和华使一位先知兴起"
         }
       ]
     },
@@ -1592,15 +1581,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "设立庇护城"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "旧地界"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "有关证人的条例"
+          "text": "设立避难城"
         }
       ]
     },
@@ -1665,7 +1646,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "有关战争的条例"
+          "text": "交战的条例"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "攻城之略"
         }
       ]
     },
@@ -1743,23 +1728,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "有关未结案的谋杀案件"
+          "text": "杀人疑案的处理"
         },
         {
           "beforeVerse": 10,
-          "text": "有关女战俘的案件"
+          "text": "娶女俘的条例"
         },
         {
           "beforeVerse": 15,
-          "text": "有关长子的继承权"
+          "text": "长子的权利"
         },
         {
           "beforeVerse": 18,
-          "text": "有关逆子的处置"
+          "text": "惩处逆子的条例"
         },
         {
           "beforeVerse": 22,
-          "text": "其他的条例"
+          "text": "罪犯尸体的处理"
         }
       ]
     },
@@ -1853,8 +1838,12 @@
       "keyTakeaway": "摩西颁布有关归还走失牲畜、衣着限制、建筑安全和农耕方式的律法；随后又为性行为不端规定严厉刑罚，包括诬告女子婚前不是处女、通奸和强奸，并按不同情形规定不同后果。",
       "headings": [
         {
+          "beforeVerse": 1,
+          "text": "其他条例"
+        },
+        {
           "beforeVerse": 13,
-          "text": "有关贞洁的条例"
+          "text": "有关女子贞操的条例"
         }
       ]
     },
@@ -1939,15 +1928,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "不许进入圣会的人"
+          "text": "会众的资格"
         },
         {
           "beforeVerse": 9,
-          "text": "保持军营的卫生"
+          "text": "保持军营圣洁的条例"
         },
         {
           "beforeVerse": 15,
-          "text": "一般条例"
+          "text": "其他条例"
         }
       ]
     },
@@ -2029,11 +2018,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "离婚和再婚"
+          "text": "关于婚姻的条例"
         },
         {
           "beforeVerse": 5,
-          "text": "一般条例"
+          "text": "体恤人情"
         }
       ]
     },
@@ -2102,15 +2091,15 @@
       "headings": [
         {
           "beforeVerse": 5,
-          "text": "对丧亡的弟兄传宗接代"
+          "text": "为死亡的兄弟传宗接代"
         },
         {
           "beforeVerse": 11,
-          "text": "其他的条例"
+          "text": "其他条例"
         },
         {
           "beforeVerse": 17,
-          "text": "命令百姓消灭亚玛力人"
+          "text": "灭绝亚玛力人的命令"
         }
       ]
     },
@@ -2174,11 +2163,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "奉献初熟的土产"
+          "text": "奉献初熟的物产"
         },
         {
-          "beforeVerse": 16,
-          "text": "作圣洁的子民"
+          "beforeVerse": 12,
+          "text": "十一奉献年"
         }
       ]
     },
@@ -2254,7 +2243,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "神的律法写在石头上"
+          "text": "以巴路山上的律法"
         },
         {
           "beforeVerse": 11,
@@ -2368,11 +2357,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "遵行诫命蒙福"
+          "text": "遵守诫命蒙祝福"
         },
         {
           "beforeVerse": 15,
-          "text": "悖逆的后果"
+          "text": "违背诫命受咒诅"
         }
       ]
     },
@@ -2446,7 +2435,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "在摩押跟以色列人立约"
+          "text": "在摩押立约"
         }
       ]
     },
@@ -2510,7 +2499,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "复兴和蒙福的条件"
+          "text": "归向耶和华必蒙福"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "生死抉择"
         }
       ]
     },
@@ -2590,19 +2583,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "约书亚继承摩西"
+          "text": "立约书亚做摩西的接班人"
         },
         {
           "beforeVerse": 9,
-          "text": "每七年诵读律法一次"
+          "text": "每七年当众宣读律法一次"
         },
         {
           "beforeVerse": 14,
-          "text": "对摩西和约书亚的最后嘱咐"
-        },
-        {
-          "beforeVerse": 30,
-          "text": "摩西的歌"
+          "text": "上帝对摩西和约书亚的指示"
         }
       ]
     },
@@ -2708,8 +2697,16 @@
       "keyTakeaway": "摩西向以色列诵唱一首歌，回顾神信实的看顾、百姓的忘恩与偶像崇拜、随之而来的咒诅，以及神最终为自己伸张公义；随后，耶和华吩咐摩西登上尼波山，在死前观看迦南，因为摩西和亚伦在加低斯米利巴背弃了信约。",
       "headings": [
         {
+          "beforeVerse": 1,
+          "text": "摩西之歌"
+        },
+        {
           "beforeVerse": 45,
-          "text": "摩西的最后训言"
+          "text": "摩西的遗嘱"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "预言摩西的死"
         }
       ]
     },
@@ -2788,7 +2785,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "摩西祝福以色列众支派"
+          "text": "摩西最后的祝福"
         }
       ]
     },

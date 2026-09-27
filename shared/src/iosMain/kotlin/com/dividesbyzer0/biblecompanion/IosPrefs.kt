@@ -50,6 +50,7 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             lastReadBookTitle = getString("last_read_book_title"),
             lastReadStoryId = getString("last_read_story_id"),
             lastReadSourceLanguage = getString("last_read_source_language"),
+            lastReadSourceEdition = getString("last_read_source_edition"),
             onboardingComplete = getBool("onboarding_complete", false),
             studyPinned = getBool("study_pinned", false),
             themePreset = getString("theme_preset") ?: "parchment",
@@ -66,6 +67,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             ttsReadIntros = getBool("tts_read_intros", false),
             notesExpandedSectionsJson = getString("notes_expanded_sections_json") ?: "{}",
             votdDismissedDate = getString("votd_dismissed_date") ?: "",
+            dailyVerseNotifications = getBool("daily_verse_notifications", false),
+            dailyVerseNotificationMinuteOfDay = if (defaults.objectForKey("daily_verse_notification_time") != null)
+                defaults.integerForKey("daily_verse_notification_time").toInt().coerceIn(0, 1439) else 540,
             screenshotExpandLanguage = getBool("ss_expand_language", false),
             aiSearch = getBool("ai_search", true)
         )
@@ -118,7 +122,14 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     actual suspend fun setTextSizeScale(scale: Float) {
         defaults.setFloat(scale, forKey = "text_size_scale"); refresh()
     }
-    actual suspend fun setLastRead(collection: String, bookId: String, bookTitle: String, storyId: String?, sourceLanguage: String?) {
+    actual suspend fun setLastRead(
+        collection: String,
+        bookId: String,
+        bookTitle: String,
+        storyId: String?,
+        sourceLanguage: String?,
+        sourceEdition: String?
+    ) {
         defaults.setObject(collection, forKey = "last_read_collection")
         defaults.setObject(bookId, forKey = "last_read_book_id")
         defaults.setObject(bookTitle, forKey = "last_read_book_title")
@@ -126,6 +137,8 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         else defaults.removeObjectForKey("last_read_story_id")
         if (sourceLanguage != null) defaults.setObject(sourceLanguage, forKey = "last_read_source_language")
         else defaults.removeObjectForKey("last_read_source_language")
+        if (sourceEdition != null) defaults.setObject(sourceEdition, forKey = "last_read_source_edition")
+        else defaults.removeObjectForKey("last_read_source_edition")
         refresh()
     }
     actual suspend fun setOnboardingComplete(complete: Boolean) {
@@ -173,8 +186,19 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     actual suspend fun setNotesExpandedSections(json: String) {
         defaults.setObject(json, forKey = "notes_expanded_sections_json"); refresh()
     }
+    actual suspend fun setNoteScreenState(language: String, assetFileName: String, stateJson: String) {
+        val merged = mergeNotesScreenState(getString("notes_expanded_sections_json") ?: "{}",
+            language, assetFileName, stateJson)
+        defaults.setObject(merged, forKey = "notes_expanded_sections_json"); refresh()
+    }
     actual suspend fun setVotdDismissedDate(date: String) {
         defaults.setObject(date, forKey = "votd_dismissed_date"); refresh()
+    }
+    actual suspend fun setDailyVerseNotifications(enabled: Boolean) {
+        defaults.setBool(enabled, forKey = "daily_verse_notifications"); refresh()
+    }
+    actual suspend fun setDailyVerseNotificationTime(minuteOfDay: Int) {
+        defaults.setInteger(minuteOfDay.coerceIn(0, 1439).toLong(), forKey = "daily_verse_notification_time"); refresh()
     }
     actual suspend fun setAiSearch(enabled: Boolean) {
         defaults.setBool(enabled, forKey = "ai_search"); refresh()

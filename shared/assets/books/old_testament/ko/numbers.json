@@ -97,7 +97,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "모세가 이스라엘 자손의 인구조사를 하다"
+          "text": "첫 번째 병적 조사"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "레위 지파의 병역 면제"
         }
       ]
     },
@@ -176,7 +180,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "진 배치"
+          "text": "부대 편성 및 행군 순서"
         }
       ]
     },
@@ -277,15 +281,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "아론 집안의 제사장들"
+          "text": "아론의 아들들"
         },
         {
           "beforeVerse": 5,
-          "text": "제사장 일을 거드는 레위 사람들"
+          "text": "제사장을 돕는 레위 사람"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "레위 사람 인구조사"
         },
         {
           "beforeVerse": 40,
-          "text": "레위 사람들이 맏아들 구실을 하다"
+          "text": "레위 사람이 맏아들 구실을 하다"
         }
       ]
     },
@@ -384,19 +392,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "고핫 자손이 맡은 일"
+          "text": "고핫 자손의 임무"
         },
         {
           "beforeVerse": 21,
-          "text": "게르손 자손이 맡은 일"
+          "text": "게르손 자손의 임무"
         },
         {
           "beforeVerse": 29,
-          "text": "므라리 자손이 맡은 일"
+          "text": "므라리 자손의 임무"
         },
         {
           "beforeVerse": 34,
-          "text": "레위 지파 사람들"
+          "text": "레위 사람 인구조사"
         }
       ]
     },
@@ -477,15 +485,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "정결함에 대한 규정"
+          "text": "부정한 사람의 처리"
         },
         {
           "beforeVerse": 5,
-          "text": "잘못을 저질렀을 때의 보상"
+          "text": "잘못에 대한 보상"
         },
         {
           "beforeVerse": 11,
-          "text": "아내의 행동을 의심하는 남편들"
+          "text": "아내의 간통을 밝히는 절차"
         }
       ]
     },
@@ -562,11 +570,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "나실 사람"
+          "text": "나실 사람 규율"
         },
         {
           "beforeVerse": 22,
-          "text": "제사장의 축복"
+          "text": "제사장의 축복 선언"
         }
       ]
     },
@@ -705,7 +713,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "성막을 바침"
+          "text": "지도자들이 바친 제물"
         }
       ]
     },
@@ -776,11 +784,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "등잔대"
+          "text": "등잔을 차려 놓는 방식"
         },
         {
           "beforeVerse": 5,
-          "text": "레위 사람들을 구별하여 세움"
+          "text": "레위 사람 봉헌식"
         }
       ]
     },
@@ -848,11 +856,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "유월절"
+          "text": "두 번째 유월절 행사"
         },
         {
           "beforeVerse": 15,
-          "text": "구름과 불"
+          "text": "길을 안내한 구름\n(출 40:34-38)"
         }
       ]
     },
@@ -938,11 +946,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "은 나팔"
+          "text": "나팔 신호"
         },
         {
           "beforeVerse": 11,
-          "text": "이스라엘 백성이 진을 옮기다"
+          "text": "떠날 준비"
+        },
+        {
+          "beforeVerse": 33,
+          "text": "행군 시작"
         }
       ]
     },
@@ -1027,15 +1039,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "사람들이 또다시 불평하다"
+          "text": "다베라"
         },
         {
-          "beforeVerse": 16,
-          "text": "모세가 일흔 명의 장로를 뽑다"
+          "beforeVerse": 4,
+          "text": "모세가 장로 일흔 명을 뽑다"
         },
         {
           "beforeVerse": 31,
-          "text": "메추라기 떼가 내리다"
+          "text": "주님께서 메추라기를 보내시다"
         }
       ]
     },
@@ -1101,7 +1113,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "미리암과 아론이 모세를 헐뜯다"
+          "text": "미리암이 벌을 받다"
         }
       ]
     },
@@ -1184,7 +1196,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "가나안으로 간 정탐꾼들"
+          "text": "가나안 땅 탐지\n(신 1:19-33)"
         }
       ]
     },
@@ -1279,15 +1291,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "사람들이 또다시 불평하다"
+          "text": "백성의 불평"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "모세가 백성을 두고 기도하다"
         },
         {
           "beforeVerse": 26,
-          "text": "주께서 사람들에게 벌을 주시다"
+          "text": "주님께서 불평하는 백성을 벌하시다"
         },
         {
           "beforeVerse": 39,
-          "text": "사람들이 가나안에 들어가려고 하다"
+          "text": "첫 번째 점령 시도\n(신 1:41-46)"
         }
       ]
     },
@@ -1378,15 +1394,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "희생제사를 드릴 때의 규정"
+          "text": "희생제사"
         },
         {
           "beforeVerse": 32,
-          "text": "안식일에 일하는 사람"
+          "text": "안식일에 일을 한 사람"
         },
         {
           "beforeVerse": 37,
-          "text": "주께서 당신의 백성이 법을 기억하도록 도와주시다"
+          "text": "옷자락에 다는 술"
         }
       ]
     },
@@ -1486,11 +1502,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "지도자 몇 명이 모세에게 거역하다"
+          "text": "고라와 다단과 아비람의 반역"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "향로"
         },
         {
           "beforeVerse": 41,
-          "text": "아론이 사람들을 구하다"
+          "text": "아론이 백성을 구하다"
         }
       ]
     },
@@ -1548,7 +1568,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "하나님께서 아론이 고귀한 제사장임을 보여 주시다"
+          "text": "아론의 지팡이"
         }
       ]
     },
@@ -1630,11 +1650,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "제사장들과 레위 사람들이 할 일"
+          "text": "제사장과 레위 사람의 의무"
         },
         {
           "beforeVerse": 8,
           "text": "제사장의 몫"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "레위 사람의 몫"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "레위 사람의 십일조"
         }
       ]
     },
@@ -1706,7 +1734,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "붉은 암소의 재"
+          "text": "붉은 암송아지의 재"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "주검에 닿은 경우"
         }
       ]
     },
@@ -1785,15 +1817,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "미리암이 죽다 모세가 잘못을 저지르다"
+          "text": "가데스에서 생긴 일\n(출 17:1-7)"
         },
         {
           "beforeVerse": 14,
-          "text": "에돔이 이스라엘 백성이 지나가는 것을 거절하다"
+          "text": "에돔이 이스라엘의 통과를 거절하다"
         },
         {
           "beforeVerse": 22,
-          "text": "아론이 죽다"
+          "text": "아론의 죽음"
         }
       ]
     },
@@ -1883,19 +1915,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "가나안 사람들과의 전쟁"
+          "text": "호르마를 점령하다"
         },
         {
           "beforeVerse": 4,
-          "text": "구리 뱀"
+          "text": "구리 뱀으로 백성을 구하다"
         },
         {
           "beforeVerse": 10,
-          "text": "모압으로의 행군"
+          "text": "호르 산에서 모압 골짜기까지"
         },
         {
           "beforeVerse": 21,
-          "text": "시혼과 옥"
+          "text": "요단 동쪽을 점령하다\n(신 2:26-3:11)"
         }
       ]
     },
@@ -1986,11 +2018,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "발람과 모압 왕"
+          "text": "모압의 왕이 발람을 불러오다"
         },
         {
           "beforeVerse": 21,
           "text": "발람과 그의 나귀"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "발락이 발람을 환영하다"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "발람의 첫 번째 예언"
         }
       ]
     },
@@ -2069,12 +2109,12 @@
       "keyTakeaway": "발락이 두 번 일곱 제단을 쌓고 수송아지와 숫양을 바치지만, 두 번 다 주님께서 발람의 입에 말씀을 주시니 그가 저주 대신 이스라엘을 축복한다. 하나님이 저주하지 않으신 사람을 저주할 수 없고, 하나님은 사람이 아니시니 거짓말을 하지 않으시며, 어떤 점술도 이스라엘에게는 소용이 없다는 것이다. 화가 난 발락은 다시 시도하려고 발람을 브올 꼭대기로 데리고 간다.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "발람의 첫 번째 예언"
+          "beforeVerse": 13,
+          "text": "발람의 두 번째 예언"
         },
         {
-          "beforeVerse": 18,
-          "text": "발람의 두 번째 예언"
+          "beforeVerse": 27,
+          "text": "발람의 세 번째 예언"
         }
       ]
     },
@@ -2148,16 +2188,8 @@
       "keyTakeaway": "이스라엘을 축복하는 것이 주님 보시기에 좋은 줄을 안 발람은 점술을 버리고, 하나님의 영이 그에게 내린다. 그는 시냇가의 동산 같은 야곱의 아름다운 장막을 찬양하며 그를 축복하는 사람이 복을 받으리라고 선언한다. 발락이 분노하여 그를 쫓아내니, 발람은 야곱에게서 한 별이 나오고 이스라엘에서 한 통치 지팡이가 일어나 모압의 이마를 칠 것이며, 에돔은 남의 차지가 되고 아말렉은 멸망으로 끝나며 겐 족속은 앗시리아에 사로잡히리라고 예언한 뒤에 일어나 고향으로 돌아간다.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "발람의 세 번째 예언"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "발람의 네 번째 예언"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "다른 민족들에 대한 발람의 예언"
+          "beforeVerse": 14,
+          "text": "발람의 마지막 예언"
         }
       ]
     },
@@ -2230,7 +2262,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "이스라엘 백성이 브올에서 지은 죄"
+          "text": "브올에서 생긴 일"
         }
       ]
     },
@@ -2340,7 +2372,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "두 번째 인구조사를 하다"
+          "text": "두 번째 인구조사"
         }
       ]
     },
@@ -2412,7 +2444,7 @@
         },
         {
           "beforeVerse": 12,
-          "text": "여호수아가 새 지도자가 되다"
+          "text": "모세의 후계자 여호수아\n(신 31:1-8)"
         }
       ]
     },
@@ -2493,27 +2525,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "정기 제사"
+          "text": "제사\n(출 29:38-46)"
         },
         {
           "beforeVerse": 3,
-          "text": "날마다 드리는 번제물"
+          "text": "날마다 바치는 번제물"
         },
         {
           "beforeVerse": 9,
-          "text": "안식일에 드리는 제물"
+          "text": "안식일 제물"
         },
         {
           "beforeVerse": 11,
-          "text": "달마다 드리는 제물"
+          "text": "초하루 제물"
         },
         {
           "beforeVerse": 16,
-          "text": "유월절에 드리는 제물"
+          "text": "유월절 제사\n(레 23:5-14)"
         },
         {
           "beforeVerse": 26,
-          "text": "추수절에 드리는 제물"
+          "text": "칠칠절 제사"
         }
       ]
     },
@@ -2603,15 +2635,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "나팔절에 드리는 제물"
+          "text": "신년 제사\n(레 23:23-25)"
         },
         {
           "beforeVerse": 7,
-          "text": "속죄일에 드리는 제물"
+          "text": "속죄일 제사\n(레 23:26-32)"
         },
         {
           "beforeVerse": 12,
-          "text": "초막절에 드리는 제물"
+          "text": "장막절 제사\n(레 23:33-44)"
         }
       ]
     },
@@ -2672,7 +2704,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "특별한 서원"
+          "text": "주님께 서원한 것"
         }
       ]
     },
@@ -2781,7 +2813,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "이스라엘이 미디안과 싸워 이기다"
+          "text": "미디안에게 주님의 원수를 갚다"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "군대가 이기고 돌아오다"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "전리품 분배"
         }
       ]
     },
@@ -2873,7 +2913,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "요단 강 동쪽에 정착한 가문들"
+          "text": "요단 강 동쪽 지파들\n(신 3:12-22)"
         }
       ]
     },
@@ -2979,7 +3019,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "이집트를 떠난 뒤 이스라엘이 거쳐 간 길"
+          "text": "이집트에서 모압까지"
+        },
+        {
+          "beforeVerse": 50,
+          "text": "가나안 땅 분할 지시"
         }
       ]
     },
@@ -3059,6 +3103,10 @@
         {
           "beforeVerse": 1,
           "text": "가나안 땅의 경계"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "각 지파의 유산 분할 책임자"
         }
       ]
     },
@@ -3167,11 +3215,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "레위 사람들의 성읍"
+          "text": "레위 사람에게 준 성읍"
         },
         {
           "beforeVerse": 9,
-          "text": "도피성"
+          "text": "도피성\n(신 19:1-13; 수 20:1-9)"
         }
       ]
     },
@@ -3234,7 +3282,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "슬로브핫의 딸들이 받은 땅"
+          "text": "결혼한 여자의 유산"
         }
       ]
     }

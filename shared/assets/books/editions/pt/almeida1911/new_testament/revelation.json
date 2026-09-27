@@ -50,7 +50,7 @@
         {
           "chapter": 1,
           "verse": 8,
-          "text": "Eu sou o Alpha e o Omega, o principio e o fim, diz o Senhor, que é, e que era, e que ha de vir, o Todo-poderoso."
+          "text": "[J]Eu sou o Alpha e o Omega, o principio e o fim,[/J] diz o Senhor, que é, e que era, e que ha de vir, o Todo-poderoso."
         },
         {
           "chapter": 1,
@@ -65,7 +65,7 @@
         {
           "chapter": 1,
           "verse": 11,
-          "text": "Que dizia: O que vês, escreve-o n'um livro, e envia-o ás sete egrejas que estão na Asia: a Epheso, e a Smyrna, e a Pergamo, e a Thyatira, e a Sardo, e a Philadelphia, e a Laodicéa."
+          "text": "Que dizia: [J]O que vês, escreve-o n'um livro, e envia-o ás sete egrejas que estão na Asia: a Epheso, e a Smyrna, e a Pergamo, e a Thyatira, e a Sardo, e a Philadelphia, e a Laodicéa.[/J]"
         },
         {
           "chapter": 1,
@@ -95,7 +95,7 @@
         {
           "chapter": 1,
           "verse": 17,
-          "text": "E eu, quando o vi, cahi a seus pés como morto; e elle poz sobre mim a sua dextra, dizendo-me: Não temas; Eu sou o primeiro e o derradeiro;"
+          "text": "E eu, quando o vi, cahi a seus pés como morto; e elle poz sobre mim a sua dextra, dizendo-me: [J]Não temas; Eu sou o primeiro e o derradeiro;[/J]"
         },
         {
           "chapter": 1,
@@ -111,6 +111,20 @@
           "chapter": 1,
           "verse": 20,
           "text": "[J]O mysterio das sete estrellas, que viste na minha dextra, e dos sete castiçaes de oiro. As sete estrellas são os anjos das sete egrejas, e os sete castiçaes, que viste, são as sete egrejas.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prólogo"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Saudação de João às sete igrejas"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "A visão do Filho do Homem"
         }
       ]
     },
@@ -264,6 +278,24 @@
           "verse": 29,
           "text": "[J]Quem tem ouvidos, ouça o que o Espirito diz ás egrejas.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mensagem à igreja em Éfeso"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Mensagem à igreja em Esmirna"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Mensagem à igreja em Pérgamo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Mensagem à igreja em Tiatira"
+        }
       ]
     },
     {
@@ -381,6 +413,20 @@
           "verse": 22,
           "text": "[J]Quem tem ouvidos, ouça o que o Espirito diz ás egrejas.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Mensagem à igreja em Sardes"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Mensagem à igreja em Filadélfia"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Mensagem à igreja em Laodiceia"
+        }
       ]
     },
     {
@@ -442,6 +488,12 @@
           "chapter": 4,
           "verse": 11,
           "text": "Digno és, Senhor, de receber gloria, e honra, e poder; porque tu creaste todas as coisas, e por tua vontade são e foram creadas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Adoração no céu"
         }
       ]
     },
@@ -519,6 +571,12 @@
           "chapter": 5,
           "verse": 14,
           "text": "E os quatro animaes diziam: Amen. E os vinte e quatro anciãos prostraram-se, e adoraram ao que vive para todo o sempre."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Cordeiro abre o livro"
         }
       ]
     },
@@ -612,6 +670,12 @@
           "verse": 17,
           "text": "Porque é vindo o grande dia da sua ira; e quem poderá subsistir?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Cordeiro abre os seis primeiros selos"
+        }
       ]
     },
     {
@@ -704,6 +768,16 @@
           "verse": 17,
           "text": "Porque o Cordeiro que está no meio do throno os apascentará, e lhes servirá de guia para as fontes vivas das aguas; e Deus alimpará de seus olhos toda a lagrima."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os servos de Deus são selados"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Louvor da grande multidão"
+        }
       ]
     },
     {
@@ -775,6 +849,16 @@
           "chapter": 8,
           "verse": 13,
           "text": "E olhei, e ouvi um anjo voar pelo meio do céu, dizendo com grande voz: Ai! ai! dos que habitam sobre a terra! por causa das outras vozes das trombetas dos tres anjos que hão de ainda tocar."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Cordeiro abre o sétimo selo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "As quatro primeiras trombetas"
         }
       ]
     },
@@ -888,6 +972,16 @@
           "verse": 21,
           "text": "E não se arrependeram de seus homicidios, nem de suas feiticerias, nem de sua fornicação, nem de suas ladroices."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A quinta trombeta traz o primeiro terror"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A sexta trombeta traz o segundo terror"
+        }
       ]
     },
     {
@@ -949,6 +1043,12 @@
           "chapter": 10,
           "verse": 11,
           "text": "E elle disse-me: Importa-te prophetizar outra vez a muitos povos, e nações, e linguas e reis."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O anjo e o livrinho"
         }
       ]
     },
@@ -1052,6 +1152,16 @@
           "verse": 19,
           "text": "E abriu-se no céu o templo de Deus, e a arca do seu concerto foi vista no seu templo; e houve relampagos, e vozes, e trovões, e terremotos e grande saraiva."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "As duas testemunhas"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "A sétima trombeta traz o terceiro terror"
+        }
       ]
     },
     {
@@ -1143,6 +1253,12 @@
           "chapter": 12,
           "verse": 17,
           "text": "E o dragão irou-se contra a mulher, e foi fazer guerra contra os demais da sua semente, que guardam os mandamentos de Deus, e teem o testemunho de Jesus Christo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A mulher e o dragão"
         }
       ]
     },
@@ -1240,6 +1356,16 @@
           "chapter": 13,
           "verse": 18,
           "text": "Aqui está a sabedoria. Aquelle que tem entendimento, conte o numero da besta; porque é o numero de um homem, e o seu numero é seiscentos e sessenta e seis."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A besta que saiu do mar"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "A besta que saiu da terra"
         }
       ]
     },
@@ -1348,6 +1474,20 @@
           "verse": 20,
           "text": "E o lagar foi pisado fóra da cidade, e saiu sangue do lagar até aos freios dos cavallos, por mil e seiscentos estadios."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O Cordeiro e os 144 mil"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Os três anjos"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "A colheita da terra"
+        }
       ]
     },
     {
@@ -1394,6 +1534,16 @@
           "chapter": 15,
           "verse": 8,
           "text": "E o templo encheu-se com o fumo da gloria de Deus e do seu poder; e ninguem podia entrar no templo, até que se consummassem as sete pragas dos sete anjos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O cântico de Moisés e do Cordeiro"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "As sete taças com as sete pragas"
         }
       ]
     },
@@ -1475,7 +1625,7 @@
         {
           "chapter": 16,
           "verse": 15,
-          "text": "[J]Eis que venho como ladrão. Bemaventurado aquelle que vigia, e guarda os seus vestidos, para que não ande nú, e não se vejam as suas vergonhas.[/J]"
+          "text": "Eis que venho como ladrão. Bemaventurado aquelle que vigia, e guarda os seus vestidos, para que não ande nú, e não se vejam as suas vergonhas."
         },
         {
           "chapter": 16,
@@ -1507,7 +1657,8 @@
           "verse": 21,
           "text": "E sobre os homens caiu do céu uma grande saraiva, como do peso de um talento; e os homens blasphemaram de Deus por causa da praga da saraiva: porque a sua praga era mui grande."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 17,
@@ -1603,6 +1754,12 @@
           "chapter": 17,
           "verse": 18,
           "text": "E a mulher que viste é a grande cidade que reina sobre os reis da terra."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A grande prostituta"
         }
       ]
     },
@@ -1731,6 +1888,12 @@
           "verse": 24,
           "text": "E n'ella se achou o sangue dos prophetas, e dos sanctos, e de todos os que foram mortos na terra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A queda da Babilônia"
+        }
       ]
     },
     {
@@ -1843,6 +2006,16 @@
           "verse": 21,
           "text": "E os demais foram mortos com a espada que sahia da bocca do que estava assentado sobre o cavallo, e todas as aves se fartaram das suas carnes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Cântico de vitória no céu"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "O cavaleiro no cavalo branco"
+        }
       ]
     },
     {
@@ -1924,6 +2097,20 @@
           "chapter": 20,
           "verse": 15,
           "text": "E aquelle que não foi achado inscripto no livro da vida foi lançado no lago do fogo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os mil anos"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A derrota de Satanás"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "O julgamento final"
         }
       ]
     },
@@ -2067,6 +2254,12 @@
           "verse": 27,
           "text": "E não entrará n'ella coisa alguma que contamine, e commetta abominação e mentira, mas só os que estão inscriptos no livro da vida do Cordeiro."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A nova Jerusalém"
+        }
       ]
     },
     {
@@ -2172,12 +2365,18 @@
         {
           "chapter": 22,
           "verse": 20,
-          "text": "Aquelle que testifica estas coisas diz: Certamente presto venho. Amen: ora vem, Senhor Jesus."
+          "text": "Aquelle que testifica estas coisas diz: [J]Certamente presto venho.[/J] Amen: ora vem, Senhor Jesus."
         },
         {
           "chapter": 22,
           "verse": 21,
           "text": "A graça de nosso Senhor Jesus Christo seja com todos vós. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 7,
+          "text": "Jesus vem"
         }
       ]
     }

@@ -1,5 +1,36 @@
 package com.dividesbyzer0.biblecompanion
 
+/** A link can highlight only one contiguous, same-chapter selection. */
+internal fun contiguousSelectionAnchor(anchors: List<VerseAnchor>): VerseAnchor? {
+  val sorted = anchors.sortedWith(compareBy({ it.chapter }, { it.verseStart }))
+  val first = sorted.firstOrNull() ?: return null
+  if (first.chapter < 1 || first.verseStart < 1 || first.verseEnd < first.verseStart) return null
+  var end = first.verseEnd
+  for (anchor in sorted.drop(1)) {
+    if (anchor.chapter != first.chapter || anchor.verseStart > end + 1 ||
+      anchor.verseStart < 1 || anchor.verseEnd < anchor.verseStart) return null
+    end = maxOf(end, anchor.verseEnd)
+  }
+  return VerseAnchor(first.chapter, first.verseStart, end)
+}
+
+/** Keep a source's combined verse intact when a link names only part of it. */
+internal fun fullNativeVerseAnchor(anchor: VerseAnchor, units: List<VerseAnchor>): VerseAnchor? {
+  if (anchor.chapter < 1 || anchor.verseStart < 1 || anchor.verseEnd < anchor.verseStart ||
+    anchor.verseEnd - anchor.verseStart > 1000) return null
+  val chapterUnits = units.filter {
+    it.chapter == anchor.chapter && it.verseStart > 0 && it.verseEnd >= it.verseStart &&
+      it.verseEnd - it.verseStart <= 1000
+  }
+  if (!(anchor.verseStart..anchor.verseEnd).all { verse ->
+      chapterUnits.any { verse in it.verseStart..it.verseEnd }
+    }) return null
+  val touching = chapterUnits.filter {
+    it.verseStart <= anchor.verseEnd && it.verseEnd >= anchor.verseStart
+  }
+  return VerseAnchor(anchor.chapter, touching.minOf { it.verseStart }, touching.maxOf { it.verseEnd })
+}
+
 /** Every verse covered by a trailing bullet marker, including range interiors. */
 internal fun versePickerNumbers(bullets: List<String>, chapter: Int): List<Int> =
   bullets.asSequence()

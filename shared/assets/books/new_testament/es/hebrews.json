@@ -58,11 +58,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Dios ha hablado por su Hijo"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "El Hijo, superior a los ángeles"
+          "text": "La superioridad del Hijo"
         }
       ]
     },
@@ -125,11 +121,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Una salvación tan grande"
+          "text": "Advertencia a prestar atención"
         },
         {
           "beforeVerse": 5,
-          "text": "El autor de la salvación"
+          "text": "Jesús, hecho igual a sus hermanos"
         }
       ]
     },
@@ -193,11 +189,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesús es superior a Moisés"
+          "text": "Jesús, superior a Moisés"
         },
         {
           "beforeVerse": 7,
-          "text": "El reposo del pueblo de Dios"
+          "text": "Advertencia contra la incredulidad"
         }
       ]
     },
@@ -257,8 +253,12 @@
       "keyTakeaway": "El reposo de Dios sigue disponible para los creyentes que tienen fe y obedecen, a diferencia de los que en el pasado se quedaron cortos por la desobediencia; la palabra de Dios penetra todas las cosas y juzga los corazones, y Jesús como sumo sacerdote se compadece de la debilidad humana sin haber pecado.",
       "headings": [
         {
+          "beforeVerse": 1,
+          "text": "Reposo del pueblo de Dios"
+        },
+        {
           "beforeVerse": 14,
-          "text": "Jesús el gran sumo sacerdote"
+          "text": "Jesús, el gran sumo sacerdote"
         }
       ]
     },
@@ -378,7 +378,13 @@
           "note": "Un juramento nombraba algo mayor que el que juraba como su garantía, que es el punto de 6:16, que los hombres juran por alguien mayor. Hebreos 6:13-14 cita Génesis 22:16-17, dicho en la atadura de Isaac: por mí mismo he jurado. No había nada mayor que nombrar."
         }
       ],
-      "keyTakeaway": "El autor insta a los lectores a ir más allá de la enseñanza cristiana básica hacia la madurez, y advierte que quienes han gustado la gracia de Dios y luego han apostatado no pueden ser restaurados al arrepentimiento. La promesa de Dios a Abraham, confirmada con juramento, sirve como ancla de esperanza; Jesús ha entrado en el santuario celestial como sumo sacerdote para siempre según el orden de Melquisedec."
+      "keyTakeaway": "El autor insta a los lectores a ir más allá de la enseñanza cristiana básica hacia la madurez, y advierte que quienes han gustado la gracia de Dios y luego han apostatado no pueden ser restaurados al arrepentimiento. La promesa de Dios a Abraham, confirmada con juramento, sirve como ancla de esperanza; Jesús ha entrado en el santuario celestial como sumo sacerdote para siempre según el orden de Melquisedec.",
+      "headings": [
+        {
+          "beforeVerse": 13,
+          "text": "La certeza de la promesa de Dios"
+        }
+      ]
     },
     {
       "id": "hebrews-7",
@@ -455,6 +461,10 @@
         {
           "beforeVerse": 1,
           "text": "El sacerdocio de Melquisedec"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Jesús, semejante a Melquisedec"
         }
       ]
     },
@@ -512,7 +522,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "El mediador de un nuevo pacto"
+          "text": "El sumo sacerdote de un nuevo pacto"
         }
       ]
     },
@@ -624,8 +634,12 @@
       "keyTakeaway": "Se detallan la disposición del tabernáculo y las reglas del sacerdocio, en las que solo el sumo sacerdote entra en el santuario interior una vez al año; Cristo reemplaza este sistema entrando en el cielo mismo una sola vez con su propia sangre, obteniendo redención eterna y un nuevo pacto.",
       "headings": [
         {
-          "beforeVerse": 23,
-          "text": "El sacrificio de Cristo quita el pecado"
+          "beforeVerse": 1,
+          "text": "El culto en el santuario terrenal"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "La sangre de Cristo"
         }
       ]
     },
@@ -718,8 +732,12 @@
       "keyTakeaway": "El único sacrificio de Cristo ha hecho perfectos para siempre a los creyentes, a diferencia de los sacrificios repetidos de animales de la ley; el autor exhorta a los lectores a aferrarse a la fe, a reunirse, y a recordar su perseverancia pasada, advirtiendo que el rechazo deliberado de esta verdad trae un juicio severo.",
       "headings": [
         {
-          "beforeVerse": 26,
-          "text": "Advertencia al que peca deliberadamente"
+          "beforeVerse": 1,
+          "text": "El sacrificio de Cristo, ofrecido una vez y para siempre"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Llamada a la perseverancia"
         }
       ]
     },
@@ -809,7 +827,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "La fe"
+          "text": "Por la fe"
         }
       ]
     },
@@ -888,11 +906,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Puestos los ojos en Jesús"
+          "text": "Dios disciplina a sus hijos"
         },
         {
-          "beforeVerse": 12,
-          "text": "Los que rechazan la gracia de Dios"
+          "beforeVerse": 14,
+          "text": "Advertencia a los que rechazan a Dios"
         }
       ]
     },
@@ -960,11 +978,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Deberes cristianos"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "Bendición y salutaciones finales"
+          "text": "Exhortaciones finales"
         }
       ]
     }

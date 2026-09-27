@@ -431,7 +431,8 @@ private fun PersonCard(node: GeneNode, prefs: PrefsState) {
                 collection = detectCollectionFromRef(ref),
                 ref = ref,
                 translation = prefs.translation,
-                preferBibleCom = prefs.readerMode == "biblecom"
+                preferBibleCom = prefs.readerMode == "biblecom",
+                appLanguage = prefs.appLanguage
               )
               if (url.isNotBlank()) {
                 withContext(Dispatchers.Main) {

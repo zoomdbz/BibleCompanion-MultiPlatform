@@ -82,20 +82,16 @@
       "keyTakeaway": "Tras la acción de gracias Pablo apela a la unidad, porque las peleas han dividido a la iglesia en seguidores de Pablo, de Apolos, de Cefas y de Cristo; el mensaje de la cruz es locura para los que se pierden pero poder de Dios para los que se salvan, porque Dios escogió lo necio y lo débil del mundo para que nadie se jacte sino en el Señor.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Salutación"
-        },
-        {
           "beforeVerse": 4,
-          "text": "Acción de gracias por dones espirituales"
+          "text": "Acción de gracias"
         },
         {
           "beforeVerse": 10,
-          "text": "¿Está dividido Cristo?"
+          "text": "Divisiones en la iglesia"
         },
         {
           "beforeVerse": 18,
-          "text": "Cristo, poder y sabiduría de Dios"
+          "text": "Cristo, la sabiduría y el poder de Dios"
         }
       ]
     },
@@ -155,12 +151,8 @@
       "keyTakeaway": "Pablo explica que predicó a los corintios no con palabras elocuentes, sino con una demostración del poder del Espíritu, y que la sabiduría de Dios, escondida antes del tiempo y rechazada por los gobernantes de esta edad, se revela a los creyentes por el Espíritu y no por el entendimiento humano.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Proclamando a Cristo crucificado"
-        },
-        {
           "beforeVerse": 6,
-          "text": "La revelación por el Espíritu de Dios"
+          "text": "La sabiduría procedente del Espíritu"
         }
       ]
     },
@@ -228,7 +220,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Colaboradores de Dios"
+          "text": "Sobre las divisiones en la iglesia"
         }
       ]
     },
@@ -294,7 +286,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "El ministerio de los apóstoles"
+          "text": "Apóstoles de Cristo"
         }
       ]
     },
@@ -351,7 +343,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Un caso de inmoralidad juzgado"
+          "text": "¡Expulsen al hermano inmoral!"
         }
       ]
     },
@@ -435,11 +427,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Litigios delante de los incrédulos"
+          "text": "Pleitos entre creyentes"
         },
         {
           "beforeVerse": 12,
-          "text": "Glorificad a Dios en vuestro cuerpo"
+          "text": "La inmoralidad sexual"
         }
       ]
     },
@@ -523,7 +515,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Problemas del matrimonio"
+          "text": "Consejos matrimoniales"
         }
       ]
     },
@@ -728,11 +720,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Amonestaciones contra la idolatría"
+          "text": "Advertencias basadas en la historia de Israel"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Las fiestas idólatras y la Cena del Señor"
         },
         {
           "beforeVerse": 23,
-          "text": "Haced todo para la gloria de Dios"
+          "text": "La libertad del creyente"
         }
       ]
     },
@@ -809,20 +805,12 @@
       "keyTakeaway": "Pablo enseña sobre la autoridad y el cubrirse la cabeza al orar y profetizar, siendo el hombre imagen y gloria de Dios y la mujer gloria del hombre, aunque en el Señor ninguno es independiente del otro; reprende las divisiones en sus comidas, recuenta la Cena del Señor instituida la noche en que Jesús fue traicionado, y manda examinarse a sí mismo, porque comer y beber indignamente trae juicio.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Atavío de las mujeres"
+          "beforeVerse": 2,
+          "text": "El decoro en el culto"
         },
         {
           "beforeVerse": 17,
-          "text": "Abusos en la Cena del Señor"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "Institución de la Cena del Señor"
-        },
-        {
-          "beforeVerse": 27,
-          "text": "Tomando la Cena indignamente"
+          "text": "La Cena del Señor"
         }
       ]
     },
@@ -897,7 +885,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Dones espirituales"
+          "text": "Los dones espirituales"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Un cuerpo con muchos miembros"
         }
       ]
     },
@@ -951,12 +943,7 @@
         }
       ],
       "keyTakeaway": "Pablo describe el amor como mayor que todos los dones y como algo que dura más que ellos, imprescindible para la vida cristiana verdadera.",
-      "headings": [
-        {
-          "beforeVerse": 1,
-          "text": "La preeminencia del amor"
-        }
-      ]
+      "headings": []
     },
     {
       "id": "1-corinthians-14",
@@ -1044,7 +1031,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "El hablar en lenguas"
+          "text": "El don de lenguas y el de profecía"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Orden en los cultos"
         }
       ]
     },
@@ -1146,7 +1137,15 @@
       "headings": [
         {
           "beforeVerse": 1,
+          "text": "La resurrección de Cristo"
+        },
+        {
+          "beforeVerse": 12,
           "text": "La resurrección de los muertos"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "El cuerpo resucitado"
         }
       ]
     },
@@ -1219,15 +1218,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "La ofrenda para los santos"
+          "text": "La colecta para el pueblo de Dios"
         },
         {
           "beforeVerse": 5,
-          "text": "Planes de Pablo"
+          "text": "Encargos personales"
         },
         {
-          "beforeVerse": 13,
-          "text": "Salutaciones finales"
+          "beforeVerse": 19,
+          "text": "Saludos finales"
         }
       ]
     }

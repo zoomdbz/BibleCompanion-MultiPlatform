@@ -102,19 +102,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Abstammungsverzeichnisse von Adam bis zu König Saul Von Adam bis Abraham"
+          "text": "Kapitel 1\nDie Geschlechtsregister Israels\nKapitel 1–9\nVon Adam bis zu Abraham"
         },
         {
-          "beforeVerse": 28,
-          "text": "Die Nachkommen von Abraham"
+          "beforeVerse": 29,
+          "text": "Die Nachkommen Abrahams"
         },
         {
-          "beforeVerse": 38,
-          "text": "Die Nachkommen von Seïr"
-        },
-        {
-          "beforeVerse": 43,
-          "text": "Könige und Oberhäupter der Edomiter"
+          "beforeVerse": 35,
+          "text": "Esau und die Edomiter"
         }
       ]
     },
@@ -127,7 +123,7 @@
       "summaryBullets": [
         "Das sind die Söhne Israels: Ruben, Simeon, Levi und Juda, Issaschar und Sebulon, (2:1).",
         "Dan, Joseph und Benjamin, Naphtali, Gad und Asser. (2:2).",
-        "Die Söhne Judas: Er, Onan und Schela; die drei wurden ihm geboren von der Tochter Schuas, der Kanaaniterin. Und Er, der Erstgeborene Judas, war böse in den Augen des HERRN, darum tötete er ihn. (2:3).",
+        "Die Söhne Judas: Er, Onan und Schela; die drei wurden ihm geboren von der Tochter Schuas, der Kanaaniterin. Und Er, der Erstgeborene Judas, war böse in den Augen des [DN]Herrn[/DN], darum tötete er ihn. (2:3).",
         "Und Tamar, seine Schwiegertochter, gebar ihm Perez und Serach. Im ganzen hatte Juda fünf Söhne. (2:4).",
         "Die Söhne des Perez: Hezron und Hamul. (2:5).",
         "Und die Söhne Serachs: Simri, Etan, Heman, Kalkol und Dara, insgesamt fünf. (2:6).",
@@ -224,27 +220,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Söhne von Israel"
+          "text": "Kapitel 2\nDie zwölf Söhne Israels"
         },
         {
           "beforeVerse": 3,
-          "text": "Die Nachkommen von Juda"
-        },
-        {
-          "beforeVerse": 10,
-          "text": "Die Nachkommen von Ram"
-        },
-        {
-          "beforeVerse": 18,
-          "text": "Die Nachkommen von Kaleb"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "Die Nachkommen von Jerachmeel"
-        },
-        {
-          "beforeVerse": 42,
-          "text": "Ein weiteres Verzeichnis der Nachkommen von Kaleb"
+          "text": "Die Söhne Judas und ihre Nachkommen"
         }
       ]
     },
@@ -318,7 +298,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Nachkommen von König David"
+          "text": "Kapitel 3\nDie Nachkommen Davids"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Die Könige von Juda"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Die königliche Linie nach der Wegführung"
         }
       ]
     },
@@ -411,11 +399,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Nachkommen von Juda"
+          "text": "Kapitel 4\nWeitere Nachkommen Judas"
         },
         {
           "beforeVerse": 24,
-          "text": "Die Nachkommen von Simeon"
+          "text": "Die Nachkommen Simeons"
         }
       ]
     },
@@ -452,21 +440,21 @@
         "Und das waren die Oberhäupter ihrer Vaterhäuser: Epher, Jischi, Eliel, Asriel, Jeremia, Hodawja und Jachdiel, Kriegshelden, Männer von Namen, Häupter ihrer Vaterhäuser. (5:24).",
         "Aber sie fielen ab von dem Gott ihrer Väter und hurten den Göttern der Völker des Landes nach, die Gott vor ihnen vertilgt hatte. (5:25).",
         "Da erweckte der Gott Israels den Geist Puls, des Königs von Assyrien, ja, den Geist Tiglat-Pilnesers, des Königs von Assyrien, und er führte die Rubeniter und die Gaditer und den halben Stamm Manasse gefangen hinweg und brachte sie nach Halach und Habor und nach Hara und zum Gosanfluss bis zu diesem Tag. (5:26).",
-        "Die Söhne Levis waren Gersom, Kahat und Merari. (5:27).",
-        "Die Söhne Kahats waren Amram, Jizhar, Hebron und Ussiel. (5:28).",
-        "Die Kinder Amrams waren Aaron, Mose und Mirjam. Die Söhne Aarons waren Nadab, Abihu, Eleasar und Itamar. (5:29).",
-        "Eleasar zeugte Pinhas, Pinhas zeugte Abischua, (5:30).",
-        "Abischua zeugte Bukki, Bukki zeugte Ussi, (5:31).",
-        "Ussi zeugte Serachja, Serachja zeugte Merajot, (5:32).",
-        "Merajot zeugte Amarja, Amarja zeugte Ahitub, (5:33).",
-        "Ahitub zeugte Zadok, Zadok zeugte Ahimaaz, (5:34).",
-        "Ahimaaz zeugte Asarja, Asarja zeugte Johanan, (5:35).",
-        "Johanan zeugte Asarja, der als Priester in dem Tempel diente, den Salomo in Jerusalem gebaut hatte. (5:36).",
-        "Asarja zeugte Amarja, Amarja zeugte Ahitub, (5:37).",
-        "Ahitub zeugte Zadok, Zadok zeugte Schallum, (5:38).",
+        "Die Söhne Levis: Gerson, Kahat und Merari. (5:27).",
+        "Und die Söhne Kahats: Amram, Jizhar, Hebron und Ussiel. (5:28).",
+        "Und die Söhne Amrams: Aaron und Mose, sowie Mirjam. Und die Söhne Aarons: Nadab und Abihu, Eleasar und Itamar. (5:29).",
+        "Eleasar zeugte Pinehas, Pinehas zeugte Abischua, (5:30).",
+        "und Abischua zeugte Bukki, und Bukki zeugte Ussi, (5:31).",
+        "und Ussi zeugte Serachja, Serachja zeugte Merajot, (5:32).",
+        "Merajot zeugte Amarja, Amarja zeugte Achitub, (5:33).",
+        "Achitub zeugte Zadok, Zadok zeugte Achimaaz, (5:34).",
+        "Achimaaz zeugte Asarja, Asarja zeugte Johanan, (5:35).",
+        "Johanan zeugte Asarja — das ist der, welcher als Priester diente in dem Tempel, den Salomo in Jerusalem baute. (5:36).",
+        "Und Asarja zeugte Amarja, und Amarja zeugte Achitub, (5:37).",
+        "Achitub zeugte Zadok, Zadok zeugte Schallum, (5:38).",
         "Schallum zeugte Hilkija, Hilkija zeugte Asarja, (5:39).",
-        "Asarja zeugte Seraja, und Seraja zeugte Jozadak. (5:40).",
-        "Jozadak ging in Gefangenschaft, als der HERR Juda und Jerusalem durch Nebukadnezar in die Verbannung führte. (5:41)."
+        "Asarja zeugte Seraja, Seraja zeugte Jozadak, (5:40).",
+        "Jozadak aber zog mit hinweg, als der [DN]Herr[/DN] Juda und Jerusalem durch Nebukadnezar wegführte. (5:41)."
       ],
       "crossRefs": [
         "Genesis 35:22: Ruben liegt bei Bilha, der Nebenfrau seines Vaters, und Israel erfährt davon.",
@@ -506,27 +494,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Nachkommen von Ruben"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "Die Nachkommen von Gad"
-        },
-        {
-          "beforeVerse": 18,
-          "text": "Der Krieg der Stämme im Ostjordanland"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "Die Familien des halben Stammes Manasse"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "Die Oststämme werden in die Gefangenschaft geführt"
+          "text": "Kapitel 5\nDie Nachkommen von Ruben, Gad und Manasse"
         },
         {
           "beforeVerse": 27,
-          "text": "Der Stamm Levi: Die Linie der Hohenpriester"
+          "text": "Der Stamm Levi"
         }
       ]
     },
@@ -552,8 +524,8 @@
         "Und die Söhne Samuels: der Erstgeborene Waschni und Abija. (6:13).",
         "Die Söhne Meraris: Machli, dessen Sohn Libni, dessen Sohn Simei, dessen Sohn Ussa, (6:14).",
         "dessen Sohn Simea, dessen Sohn Haggija, dessen Sohn Asaja. (6:15).",
-        "Und diese sind es, die David für den Gesang im Haus des HERRN bestimmte, seitdem die Lade einen Ruheplatz hatte. (6:16).",
-        "Und sie dienten mit Singen vor der Wohnung der Stiftshütte, bis Salomo das Haus des HERRN in Jerusalem gebaut hatte, und sie standen nach ihrer Ordnung ihrem Dienst vor. (6:17).",
+        "Und diese sind es, die David für den Gesang im Haus des [DN]Herrn[/DN] bestimmte, seitdem die Lade einen Ruheplatz hatte. (6:16).",
+        "Und sie dienten mit Singen vor der Wohnung der Stiftshütte, bis Salomo das Haus des [DN]Herrn[/DN] in Jerusalem gebaut hatte, und sie standen nach ihrer Ordnung ihrem Dienst vor. (6:17).",
         "Und diese sind es, die vorstanden, und ihre Söhne: von den Söhnen der Kahatiter: Heman, der Sänger, der Sohn Joels, des Sohnes Samuels, (6:18).",
         "des Sohnes Elkanas, des Sohnes Jerochams, des Sohnes Eliels, des Sohnes Toachs, (6:19).",
         "des Sohnes Zuphs, des Sohnes Elkanas, des Sohnes Machats, des Sohnes Amasais, (6:20).",
@@ -575,7 +547,7 @@
         "dessen Sohn Bukki, dessen Sohn Ussi, dessen Sohn Serachja, (6:36).",
         "dessen Sohn Merajot, dessen Sohn Amarja, dessen Sohn Achitub, (6:37).",
         "dessen Sohn Zadok, dessen Sohn Achimaaz. (6:38).",
-        "Und das sind ihre Wohnorte, nach ihren Gehöften, in ihrem Gebiet: den Söhnen Aarons vom Geschlecht der Kahatiter — denn auf sie fiel das [erste] Los —, (6:39).",
+        "Und das sind ihre Wohnorte, nach ihren Gehöften, in ihrem Gebiet: den Söhnen Aarons vom Geschlecht der Kahatiter — denn auf sie fiel das [erste] Los —, (6:39).",
         "ihnen gab man Hebron im Land Juda und seine Weideplätze ringsum; (6:40).",
         "aber das Feld der Stadt und ihre Dörfer gab man Kaleb, dem Sohn Jephunnes. (6:41).",
         "Und den Söhnen Aarons gab man die Zufluchtsstadt Hebron und Libna und deren Weideplätze, und Jatir und Eschtemoa und deren Weideplätze, (6:42).",
@@ -642,15 +614,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Nachkommen von Levi"
+          "text": "Kapitel 6"
         },
         {
           "beforeVerse": 16,
-          "text": "Die Aufgaben der Leviten"
+          "text": "Die von David bestimmten Sängerfamilien"
         },
         {
           "beforeVerse": 39,
-          "text": "Die Wohnorte der Leviten"
+          "text": "Die Levitenstädte"
         }
       ]
     },
@@ -740,23 +712,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Nachkommen von Issachar"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Die Nachkommen von Benjamin und Naftali"
+          "text": "Kapitel 7\nDie Stämme Issaschar, Benjamin und Naphtali"
         },
         {
           "beforeVerse": 14,
-          "text": "Die Nachkommen von Manasse"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "Die Nachkommen von Ephraim"
-        },
-        {
-          "beforeVerse": 30,
-          "text": "Die Nachkommen von Asser"
+          "text": "Die Stämme Manasse, Ephraim und Asser"
         }
       ]
     },
@@ -846,11 +806,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Nachkommen von Benjamin"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "Sauls Familie in Gibeon"
+          "text": "Kapitel 8\nDie Nachkommen Benjamins mit Wohnsitz in Jerusalem"
         }
       ]
     },
@@ -879,11 +835,11 @@
         "und Obadja, der Sohn Schemajas, des Sohnes Galals, des Sohnes Jeduthuns; und Berechja, der Sohn Asas, des Sohnes Elkanas, der in den Dörfern der Netophatiter wohnte. (9:16).",
         "Und die Torhüter: Schallum und Akkub und Talmon und Achiman und ihre Brüder; Schallum war das Haupt; (9:17).",
         "und bis jetzt sind sie am Tor des Königs gegen Osten, sie, die Torhüter für die Lager der Söhne Levis. (9:18).",
-        "Und Schallum, der Sohn Kores, des Sohnes Ebjasaphs, des Sohnes Korahs, und seine Brüder vom Haus seines Vaters, die Korahiter, waren über das Werk des Dienstes [gesetzt], als Schwellenhüter des Zeltes, und ihre Väter waren im Lager des HERRN Hüter des Eingangs gewesen. (9:19).",
-        "Und Pinehas, der Sohn Eleasars, war vorzeiten Fürst über sie; der HERR war mit ihm. (9:20).",
+        "Und Schallum, der Sohn Kores, des Sohnes Ebjasaphs, des Sohnes Korahs, und seine Brüder vom Haus seines Vaters, die Korahiter, waren über das Werk des Dienstes [gesetzt], als Schwellenhüter des Zeltes, und ihre Väter waren im Lager des [DN]Herrn[/DN] Hüter des Eingangs gewesen. (9:19).",
+        "Und Pinehas, der Sohn Eleasars, war vorzeiten Fürst über sie; der [DN]Herr[/DN] war mit ihm. (9:20).",
         "Secharja, der Sohn Meschelemjas, war Torhüter am Eingang der Stiftshütte. (9:21).",
         "Die Gesamtzahl derer, die als Torhüter an den Schwellen ausgewählt worden waren, betrug 212. Sie wurden in ihren Dörfern eingetragen; David und Samuel, der Seher, hatten sie in ihre Vertrauensstellung eingesetzt. (9:22).",
-        "Und sie und ihre Söhne hielten Wache an den Toren des Hauses des HERRN, an der Zeltwohnung. (9:23).",
+        "Und sie und ihre Söhne hielten Wache an den Toren des Hauses des [DN]Herrn[/DN], an der Zeltwohnung. (9:23).",
         "Nach den vier Windrichtungen sollten die Torhüter stehen, gegen Osten, gegen Westen, gegen Norden und gegen Süden. (9:24).",
         "Und ihre Brüder in ihren Dörfern hatten jeweils für sieben Tage, von Termin zu Termin, zu ihnen zu kommen. (9:25).",
         "Denn die vier Vorsteher der Türhüter hatten eine Vertrauensstellung; sie waren Leviten; sie waren auch über die Kammern und über die Schätze des Hauses Gottes gesetzt. (9:26).",
@@ -944,11 +900,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Einwohner Jerusalems nach der Verbannung"
+          "text": "Kapitel 9\nErste Einwohner Jerusalems nach der Rückkehr der Juden aus dem babylonischen Exil"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Die Diener im Tempel des Herrn"
         },
         {
           "beforeVerse": 35,
-          "text": "Sauls Familie in Gibeon"
+          "text": "Geschlechtsregister von Saul und Jonathan"
         }
       ]
     },
@@ -971,8 +931,8 @@
         "Und sie legten seine Waffen in das Haus ihres Gottes, und seinen Schädel nagelten sie an das Haus Dagons. (10:10).",
         "Als aber alle Einwohner von Jabes in Gilead hörten, was die Philister dem Saul alles getan hatten, (10:11).",
         "da machten sich alle tapferen Männer auf und nahmen den Leichnam Sauls und die Leichname seiner Söhne weg, und sie brachten sie nach Jabes und begruben ihre Gebeine unter der Terebinthe von Jabes, und sie fasteten sieben Tage lang. (10:12).",
-        "So starb Saul wegen seiner Treulosigkeit, die er gegen den HERRN begangen hatte, wegen des Wortes des HERRN, das er nicht eingehalten hatte, und weil er die Totenbeschwörerin gesucht und befragt hatte; (10:13).",
-        "den HERRN aber hatte er nicht gesucht. Darum tötete Er ihn und wandte das Königreich David, dem Sohn Isais, zu. (10:14)."
+        "So starb Saul wegen seiner Treulosigkeit, die er gegen den [DN]Herrn[/DN] begangen hatte, wegen des Wortes des [DN]Herrn[/DN], das er nicht eingehalten hatte, und weil er die Totenbeschwörerin gesucht und befragt hatte; (10:13).",
+        "den [DN]Herrn[/DN] aber hatte er nicht gesucht. Darum tötete Er ihn und wandte das Königreich David, dem Sohn Isais, zu. (10:14)."
       ],
       "crossRefs": [
         "1 Samuel 31: Paralleler Bericht vom Tod Sauls.",
@@ -1012,7 +972,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Herrschaft von König David Sauls Ende"
+          "text": "Kapitel 10\nDie Geschichte des Königs David\nKapitel 10–29\nTod des Königs Saul"
         }
       ]
     },
@@ -1024,23 +984,23 @@
       ],
       "summaryBullets": [
         "Und ganz Israel versammelte sich zu David nach Hebron und sprach: Siehe, wir sind dein Gebein und dein Fleisch! (11:1).",
-        "Schon früher, als Saul noch König war, schon damals warst du es, der Israel aus- und einführte. Und der HERR, dein Gott, hat zu dir gesagt: Du sollst mein Volk Israel weiden, und du sollst Fürst sein über mein Volk Israel! (11:2).",
-        "Und alle Ältesten Israels kamen zu dem König nach Hebron. Und David machte in Hebron einen Bund mit ihnen vor dem HERRN. Und sie salbten David zum König über Israel, nach dem Wort des HERRN durch Samuel. (11:3).",
+        "Schon früher, als Saul noch König war, schon damals warst du es, der Israel aus- und einführte. Und der [DN]Herr[/DN], dein Gott, hat zu dir gesagt: Du sollst mein Volk Israel weiden, und du sollst Fürst sein über mein Volk Israel! (11:2).",
+        "Und alle Ältesten Israels kamen zu dem König nach Hebron. Und David machte in Hebron einen Bund mit ihnen vor dem [DN]Herrn[/DN]. Und sie salbten David zum König über Israel, nach dem Wort des [DN]Herrn[/DN] durch Samuel. (11:3).",
         "Und David und ganz Israel zogen nach Jerusalem, das ist Jebus; denn die Jebusiter wohnten dort im Land. (11:4).",
         "Und die Bürger von Jebus sprachen zu David: Du wirst hier nicht hereinkommen! David aber eroberte die Burg Zion, das ist die Stadt Davids. (11:5).",
         "Denn David sprach: Wer die Jebusiter zuerst schlägt, der soll Haupt und Oberster sein! Da stieg Joab, der Sohn der Zeruja, zuerst hinauf und wurde Hauptmann. (11:6).",
         "David aber wohnte in der Burg; daher nennt man sie die Stadt Davids. (11:7).",
         "Und er baute die Stadt, vom Millo an ringsum, während Joab die übrige Stadt wiederherstellte. (11:8).",
-        "Und David wurde immer mächtiger, und der HERR der Heerscharen war mit ihm. (11:9).",
-        "Und dies sind die Obersten von Davids Helden, die ihm mit ganz Israel kräftig beistanden bei seiner Erhebung zur Königswürde, als man ihn zum König machte nach dem Wort des HERRN über Israel. (11:10).",
+        "Und David wurde immer mächtiger, und der [DN]Herr[/DN] der Heerscharen war mit ihm. (11:9).",
+        "Und dies sind die Obersten von Davids Helden, die ihm mit ganz Israel kräftig beistanden bei seiner Erhebung zur Königswürde, als man ihn zum König machte nach dem Wort des [DN]Herrn[/DN] über Israel. (11:10).",
         "Dies ist die Zahl der Helden Davids: Jasobeam, der Sohn Hachmonis, das Haupt der Wagenkämpfer. Dieser erhob seinen Speer gegen dreihundert, die auf einmal erschlagen wurden. (11:11).",
         "Nach ihm war Eleasar, der Sohn Dodos, der Achochiter; der war unter den drei Helden. (11:12).",
         "Er war auch mit David bei Pas-Dammim, als die Philister sich dort zum Kampf versammelt hatten. Nun war dort ein Ackerstück, auf dem Gerste stand. Und das Volk floh vor den Philistern. (11:13).",
-        "Da traten die beiden mitten auf das Ackerstück und verteidigten es und schlugen die Philister. Und der HERR rettete sie durch einen großen Sieg. (11:14).",
+        "Da traten die beiden mitten auf das Ackerstück und verteidigten es und schlugen die Philister. Und der [DN]Herr[/DN] rettete sie durch einen großen Sieg. (11:14).",
         "Und drei von den 30 Obersten zogen zum Felsen hinab, zu David in die Höhle Adullam, als das Heer der Philister im Tal der Rephaiter lagerte. (11:15).",
         "David aber war damals auf der Berghöhe; und eine Besatzung der Philister war damals in Bethlehem. (11:16).",
         "Und David hatte ein Gelüste und sprach: Wer will mir Wasser zu trinken geben aus dem Brunnen unter dem Tor von Bethlehem? (11:17).",
-        "Da brachen die drei durch das Lager der Philister und schöpften Wasser aus dem Brunnen unter dem Tor von Bethlehem und brachten es David. David aber wollte es nicht trinken, sondern goss es als Trankopfer für den HERRN aus und sprach: (11:18).",
+        "Da brachen die drei durch das Lager der Philister und schöpften Wasser aus dem Brunnen unter dem Tor von Bethlehem und brachten es David. David aber wollte es nicht trinken, sondern goss es als Trankopfer für den [DN]Herrn[/DN] aus und sprach: (11:18).",
         "Das lasse mein Gott ferne von mir sein, dass ich so etwas tue! Sollte ich das Blut dieser Männer trinken, [die] unter Einsatz ihres Lebens [hingegangen sind]? Denn unter Einsatz ihres Lebens haben sie es hergebracht! Darum wollte er es nicht trinken. Das taten diese drei Helden. (11:19).",
         "Und Abisai, der Bruder Joabs, war der Vornehmste unter den dreien. Der erhob auch seinen Speer und erschlug dreihundert. Und er war berühmt unter den dreien. (11:20).",
         "Unter diesen dreien der zweiten Ordnung war er der Geehrteste und war ihr Oberster. Aber an jene [ersten] drei reichte er nicht heran. (11:21).",
@@ -1109,15 +1069,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David wird König über ganz Israel"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "David erobert Jerusalem"
+          "text": "Kapitel 11\nDavid wird König über Israel und erobert Jerusalem"
         },
         {
           "beforeVerse": 10,
-          "text": "Die berühmtesten Soldaten Davids"
+          "text": "Die Helden Davids"
         }
       ]
     },
@@ -1151,7 +1107,7 @@
         "Als er dann nach Ziklag zog, schlossen sich ihm von Manasse an: Adna, Josabad, Jediael, Michael, Josabad, Elihu und Zilletai, Häupter über Tausendschaften in Manasse. (12:21).",
         "Und sie halfen David gegen die Schar der Plünderer; denn sie waren alle tapfere Helden und wurden Oberste über das Heer. (12:22).",
         "Auch kamen alle Tage etliche zu David, um ihm zu helfen, bis es ein großes Heer wurde, wie ein Heer Gottes. (12:23).",
-        "Und dies ist die Zahl der Häupter derer, die zum Heeresdienst gerüstet waren, die zu David nach Hebron kamen, um ihm das Königreich Sauls zuzuwenden, nach dem Wort des HERRN: (12:24).",
+        "Und dies ist die Zahl der Häupter derer, die zum Heeresdienst gerüstet waren, die zu David nach Hebron kamen, um ihm das Königreich Sauls zuzuwenden, nach dem Wort des [DN]Herrn[/DN]: (12:24).",
         "von den Söhnen Judas, die Schild und Speer trugen: 6 800 zum Krieg Gerüstete; (12:25).",
         "von den Söhnen Simeons an tapferen Helden für den Krieg: 7 100; (12:26).",
         "von den Söhnen Levis: 4 600; (12:27).",
@@ -1168,7 +1124,7 @@
         "Und von denen jenseits des Jordan, von den Rubenitern, Gaditern und dem halben Stamm Manasse: 120 000 mit allerlei Kriegswaffen. (12:38).",
         "Alle diese Kriegsleute, in Schlachtreihen geordnet, kamen mit ungeteiltem Herzen nach Hebron, um David zum König zu machen über ganz Israel. Auch das ganze übrige Israel war einmütig dafür, David zum König zu machen. (12:39).",
         "Und sie waren dort bei David drei Tage lang und aßen und tranken; denn ihre Brüder hatten für sie [Speise] zubereitet. (12:40).",
-        "Auch ihre Nachbarn bis nach Issaschar, Sebulon und Naphtali brachten auf Eseln, Kamelen, Maultieren und Rindern Lebensmittel: Mehl in großer Menge, Feigen- und Rosinenkuchen, Wein und Öl sowie Rinder und Schafe. Denn in Israel herrschte große Freude. (12:41)."
+        "Auch brachten die, welche nahe bei ihnen wohnten, bis nach Issaschar, Sebulon und Naphtali hin Speise auf Eseln, Kamelen, Maultieren und Rindern: Mehlspeise, Feigen- und Rosinenkuchen, Wein, Öl, Rinder, Schafe in Menge; denn es war Freude in Israel. (12:41)."
       ],
       "crossRefs": [
         "1 Samuel 27:1-7: Achisch, der König von Gat, gibt David die Stadt Ziklag, wo diese Männer zu ihm übergingen.",
@@ -1203,11 +1159,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davids erste Anhänger in Ziklag"
+          "text": "Kapitel 12\nKrieger, die unter Sauls Herrschaft zu David stießen"
         },
         {
           "beforeVerse": 24,
-          "text": "Davids Heer in Hebron"
+          "text": "Das Heer der zwölf Stämme krönt David in Hebron"
         }
       ]
     },
@@ -1219,19 +1175,19 @@
       ],
       "summaryBullets": [
         "Und David hielt Rat mit den Obersten über Tausend und über Hundert, mit allen Fürsten. (13:1).",
-        "Und David sprach zu der ganzen Gemeinde Israels: Wenn es euch gut erscheint und wenn es von dem HERRN, unserem Gott ist, so lasst uns rasch [Botschaft] senden zu unseren übrigen Brüdern in allen Gegenden Israels, sowie zu den Priestern und Leviten in ihren Bezirksstädten, dass sie sich zu uns versammeln; (13:2).",
+        "Und David sprach zu der ganzen Gemeinde Israels: Wenn es euch gut erscheint und wenn es von dem [DN]Herrn[/DN], unserem Gott ist, so lasst uns rasch [Botschaft] senden zu unseren übrigen Brüdern in allen Gegenden Israels, sowie zu den Priestern und Leviten in ihren Bezirksstädten, dass sie sich zu uns versammeln; (13:2).",
         "und lasst uns die Lade unseres Gottes wieder zu uns holen; denn zu den Zeiten Sauls fragten wir nicht nach ihr! (13:3).",
         "Da sagte die ganze Gemeinde, dass man so handeln solle; denn diese Sache war recht in den Augen des ganzen Volkes. (13:4).",
         "So versammelte David ganz Israel vom Sihorfluss in Ägypten an bis nach Lebo-Hamat, um die Lade Gottes von Kirjat-Jearim zu holen. (13:5).",
-        "Und David zog mit ganz Israel hinauf nach Baala, das ist Kirjat-Jearim, welches in Juda liegt, um die Lade Gottes, des HERRN, der über den Cherubim thront, wo sein Name angerufen wird, von dort heraufzuholen. (13:6).",
+        "Und David zog mit ganz Israel hinauf nach Baala, das ist Kirjat-Jearim, welches in Juda liegt, um die Lade Gottes, des [DN]Herrn[/DN], der über den Cherubim thront, wo sein Name angerufen wird, von dort heraufzuholen. (13:6).",
         "Und sie ließen die Lade Gottes auf einem neuen Wagen aus dem Haus Abinadabs führen; und Ussa und Achio lenkten den Wagen. (13:7).",
         "David aber und ganz Israel spielten vor Gott her mit aller Kraft, mit Liedern und Lauten, mit Harfen und Handpauken, mit Zimbeln und Trompeten. (13:8).",
         "Als sie aber zur Tenne Kidon kamen, streckte Ussa seine Hand aus, um die Lade zu halten; denn die Rinder waren ausgeglitten. (13:9).",
-        "Da entbrannte der Zorn des HERRN über Ussa, und er schlug ihn, weil er seine Hand an die Lade gelegt hatte; und er starb dort vor Gott. (13:10).",
-        "Und David entbrannte darüber, dass der HERR den Ussa so hinweggerafft hatte, und er nannte jenen Ort Perez-Ussa bis zu diesem Tag. (13:11).",
+        "Da entbrannte der Zorn des [DN]Herrn[/DN] über Ussa, und er schlug ihn, weil er seine Hand an die Lade gelegt hatte; und er starb dort vor Gott. (13:10).",
+        "Und David entbrannte darüber, dass der [DN]Herr[/DN] den Ussa so hinweggerafft hatte, und er nannte jenen Ort Perez-Ussa bis zu diesem Tag. (13:11).",
         "Und David fürchtete sich vor Gott an jenem Tag und sprach: Wie soll ich die Lade Gottes zu mir bringen? (13:12).",
         "Darum ließ David die Lade nicht zu sich in die Stadt Davids bringen, sondern ließ sie beiseiteführen in das Haus Obed-Edoms, des Gatiters. (13:13).",
-        "So blieb die Lade Gottes beim Haus Obed-Edoms, in seinem Haus, drei Monate lang. Und der HERR segnete das Haus Obed-Edoms und alles, was er hatte. (13:14)."
+        "So blieb die Lade Gottes beim Haus Obed-Edoms, in seinem Haus, drei Monate lang. Und der [DN]Herr[/DN] segnete das Haus Obed-Edoms und alles, was er hatte. (13:14)."
       ],
       "crossRefs": [
         "2 Samuel 6:1-11: Derselbe Zug von Baala in Juda, der Tod Ussas und die drei Monate im Haus Obed-Edoms.",
@@ -1266,7 +1222,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David will die Bundeslade nach Jerusalem holen"
+          "text": "Kapitel 13\nDie gescheiterte Überführung der Bundeslade. Ussas Tod."
         }
       ]
     },
@@ -1278,7 +1234,7 @@
       ],
       "summaryBullets": [
         "Und Hiram, der König von Tyrus, sandte Boten zu David, und Zedernholz und Maurer und Zimmerleute, damit sie ihm ein Haus bauten. (14:1).",
-        "Und David erkannte, dass der HERR ihn als König über Israel bestätigt hatte; denn sein Königreich war zu hohem Ansehen gebracht worden um seines Volkes Israel willen. (14:2).",
+        "Und David erkannte, dass der [DN]Herr[/DN] ihn als König über Israel bestätigt hatte; denn sein Königreich war zu hohem Ansehen gebracht worden um seines Volkes Israel willen. (14:2).",
         "Und David nahm sich in Jerusalem noch mehr Frauen; und David zeugte noch mehr Söhne und Töchter. (14:3).",
         "Und dies sind die Namen derer, die ihm in Jerusalem geboren wurden: Schammua, Schobab, Nathan, Salomo, (14:4).",
         "Jibchar, Elischua, Eliphelet, (14:5).",
@@ -1286,14 +1242,14 @@
         "Elischama, Beeljada und Eliphelet. (14:7).",
         "Als aber die Philister hörten, dass man David zum König über ganz Israel gesalbt hatte, da zogen alle Philister hinauf, um David herauszufordern. Als David dies hörte, zog er ihnen entgegen. (14:8).",
         "Die Philister aber waren gekommen und breiteten sich aus im Tal der Rephaiter. (14:9).",
-        "Da befragte David Gott und sprach: Soll ich gegen die Philister hinaufziehen? Und willst du sie in meine Hand geben? Und der HERR sprach zu ihm: Zieh hinauf, denn ich werde sie in deine Hand geben! (14:10).",
+        "Da befragte David Gott und sprach: Soll ich gegen die Philister hinaufziehen? Und willst du sie in meine Hand geben? Und der [DN]Herr[/DN] sprach zu ihm: Zieh hinauf, denn ich werde sie in deine Hand geben! (14:10).",
         "Und als sie nach Baal-Perazim hinaufzogen, schlug sie David dort. Und David sprach: Gott hat durch meine Hand meine Feinde zerrissen, wie das Wasser [einen Damm] zerreißt! Daher nannte man jenen Ort Baal-Perazim. (14:11).",
         "Und sie ließen ihre Götter dort zurück; und David befahl, sie mit Feuer zu verbrennen. (14:12).",
         "Aber die Philister breiteten sich nochmals im Tal aus. (14:13).",
         "Und David befragte Gott wiederum. Und Gott sprach zu ihm: Du sollst nicht hinter ihnen her hinaufziehen, sondern wende dich von ihnen ab, dass du von den Balsambäumen her an sie herankommst! (14:14).",
         "Wenn du dann in den Wipfeln der Balsambäume das Geräusch eines Einherschreitens hören wirst, so ziehe aus zum Kampf; denn Gott ist dort vor dir ausgezogen, um das Heer der Philister zu schlagen! (14:15).",
         "Und David machte es, wie Gott ihm geboten hatte. Und sie schlugen das Heer der Philister von Gibeon an bis nach Geser. (14:16).",
-        "Und Davids Ruhm ging aus in alle Lande, und der HERR ließ Furcht vor ihm über alle Heidenvölker kommen. (14:17)."
+        "Und Davids Ruhm ging aus in alle Lande, und der [DN]Herr[/DN] ließ Furcht vor ihm über alle Heidenvölker kommen. (14:17)."
       ],
       "crossRefs": [
         "2 Samuel 5:11-25: Derselbe Palast, von Tyrus gebaut, dieselben Söhne, in Jerusalem geboren, und dieselben zwei Schlachten gegen die Philister.",
@@ -1328,11 +1284,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David baut seine Macht aus"
-        },
-        {
-          "beforeVerse": 8,
-          "text": "Siege über die Philister"
+          "text": "Kapitel 14\nDavids Königtum wird bestätigt"
         }
       ]
     },
@@ -1344,8 +1296,8 @@
       ],
       "summaryBullets": [
         "Und [David] baute sich Häuser in der Stadt Davids; und er bereitete einen Ort für die Lade Gottes und schlug ein Zelt für sie auf. (15:1).",
-        "Damals sprach David: Niemand soll die Lade Gottes tragen als allein die Leviten; denn diese hat der HERR erwählt, um die Lade Gottes zu tragen und ihm zu dienen für immer! (15:2).",
-        "Darum versammelte David ganz Israel in Jerusalem, damit sie die Lade des HERRN an den für sie bereiteten Ort hinaufbrächten. (15:3).",
+        "Damals sprach David: Niemand soll die Lade Gottes tragen als allein die Leviten; denn diese hat der [DN]Herr[/DN] erwählt, um die Lade Gottes zu tragen und ihm zu dienen für immer! (15:2).",
+        "Darum versammelte David ganz Israel in Jerusalem, damit sie die Lade des [DN]Herrn[/DN] an den für sie bereiteten Ort hinaufbrächten. (15:3).",
         "David versammelte auch die Söhne Aarons und die Leviten; (15:4).",
         "von den Söhnen Kahats: Uriel, den Obersten, samt seinen Brüdern, 120; (15:5).",
         "von den Söhnen Meraris: Asaja, den Obersten, samt seinen Brüdern, 220; (15:6).",
@@ -1354,10 +1306,10 @@
         "von den Söhnen Hebrons: Eliel, den Obersten, samt seinen Brüdern, 80; (15:9).",
         "von den Söhnen Ussiels: Amminadab, den Obersten, samt seinen Brüdern, 112. (15:10).",
         "So rief nun David die Priester Zadok und Abjatar und die Leviten Uriel, Asaja, Joel, Schemaja, Eliel und Amminadab, (15:11).",
-        "und er sprach zu ihnen: Ihr seid die Familienhäupter unter den Leviten; so heiligt euch nun, ihr und eure Brüder, und bringt die Lade des HERRN, des Gottes Israels, hinauf an den Ort, den ich für sie zubereitet habe! (15:12).",
-        "Denn das vorige Mal, als nicht ihr es wart, machte der HERR, unser Gott, einen Riss unter uns, weil wir ihn nicht suchten, wie es sich gebührte! (15:13).",
-        "So heiligten sich die Priester und Leviten, um die Lade des HERRN, des Gottes Israels, hinaufzubringen. (15:14).",
-        "Und die Söhne der Leviten trugen die Lade Gottes auf ihren Schultern, [indem sie] die Stangen auf sich [legten], wie es Mose geboten hatte, nach dem Wort des HERRN. (15:15).",
+        "und er sprach zu ihnen: Ihr seid die Familienhäupter unter den Leviten; so heiligt euch nun, ihr und eure Brüder, und bringt die Lade des [DN]Herrn[/DN], des Gottes Israels, hinauf an den Ort, den ich für sie zubereitet habe! (15:12).",
+        "Denn das vorige Mal, als nicht ihr es wart, machte der [DN]Herr[/DN], unser Gott, einen Riss unter uns, weil wir ihn nicht suchten, wie es sich gebührte! (15:13).",
+        "So heiligten sich die Priester und Leviten, um die Lade des [DN]Herrn[/DN], des Gottes Israels, hinaufzubringen. (15:14).",
+        "Und die Söhne der Leviten trugen die Lade Gottes auf ihren Schultern, [indem sie] die Stangen auf sich [legten], wie es Mose geboten hatte, nach dem Wort des [DN]Herrn[/DN]. (15:15).",
         "Und David befahl den Obersten der Leviten, dass sie ihre Brüder zu Sängern bestimmen sollten mit Musikinstrumenten, Harfen, Lauten und Zimbeln, damit sie sich hören ließen und die Stimme mit Freuden erhöben. (15:16).",
         "Da bestimmten die Leviten Heman, den Sohn Joels, und von seinen Brüdern Asaph, den Sohn Berechjas, und von den Söhnen Meraris, ihren Brüdern, Etan, den Sohn Kusajas, (15:17).",
         "und mit ihnen ihre Brüder von der zweiten Ordnung, nämlich Sacharja, Ben-Jaasiel, Semiramot, Jehiel, Unni, Eliab, Benaja, Maaseja, Mattitja, Elipheleh, Mikneja, Obed-Edom, Jehiel, die Torhüter. (15:18).",
@@ -1367,11 +1319,11 @@
         "Kenanja aber, der Oberste der Leviten beim Gesang, der unterwies im Gesang, denn er verstand es. (15:22).",
         "Und Berechja und Elkana waren Torhüter bei der Lade. (15:23).",
         "Aber Sebanja, Josaphat, Nethaneel, Amasai, Sacharja, Benaja und Elieser, die Priester, bliesen mit Trompeten vor der Lade Gottes, während Obed-Edom und Jechija Torhüter bei der Lade waren. (15:24).",
-        "So gingen David und die Ältesten Israels und die Obersten der Tausendschaften hin, um die Bundeslade des HERRN mit Freuden aus dem Haus Obed-Edoms heraufzuholen. (15:25).",
-        "Und es geschah, als Gott den Leviten beistand, welche die Bundeslade des HERRN trugen, da opferte man sieben Jungstiere und sieben Widder. (15:26).",
+        "So gingen David und die Ältesten Israels und die Obersten der Tausendschaften hin, um die Bundeslade des [DN]Herrn[/DN] mit Freuden aus dem Haus Obed-Edoms heraufzuholen. (15:25).",
+        "Und es geschah, als Gott den Leviten beistand, welche die Bundeslade des [DN]Herrn[/DN] trugen, da opferte man sieben Jungstiere und sieben Widder. (15:26).",
         "Und David war mit einem Obergewand aus weißem Leinen bekleidet, ebenso alle Leviten, welche die Lade trugen, und die Sänger und Kenanja, der Oberste über den Gesang der Sänger. Und David trug ein leinenes Ephod. (15:27).",
-        "So brachte ganz Israel die Bundeslade des HERRN hinauf mit Jauchzen, mit dem Schall von Schopharhörnern, Trompeten und Zimbeln; sie spielten laut mit Harfen und Lauten. (15:28).",
-        "Und es geschah, als die Bundeslade des HERRN in die Stadt Davids kam, da schaute Michal, die Tochter Sauls, zum Fenster hinaus; und als sie den König David hüpfen und tanzen sah, da verachtete sie ihn in ihrem Herzen. (15:29)."
+        "So brachte ganz Israel die Bundeslade des [DN]Herrn[/DN] hinauf mit Jauchzen, mit dem Schall von Schopharhörnern, Trompeten und Zimbeln; sie spielten laut mit Harfen und Lauten. (15:28).",
+        "Und es geschah, als die Bundeslade des [DN]Herrn[/DN] in die Stadt Davids kam, da schaute Michal, die Tochter Sauls, zum Fenster hinaus; und als sie den König David hüpfen und tanzen sah, da verachtete sie ihn in ihrem Herzen. (15:29)."
       ],
       "crossRefs": [
         "Deuteronomium 10:8: Der HERR sondert Levi aus, die Lade des Bundes zu tragen, zu stehen und zu dienen und in Seinem Namen zu segnen.",
@@ -1411,11 +1363,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David bereitet alles vor, um die Bundeslade nach Jerusalem zu holen"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "David holt die Bundeslade nach Jerusalem"
+          "text": "Kapitel 15\nDie Bundeslade wird nach Jerusalem gebracht"
         }
       ]
     },
@@ -1427,19 +1375,19 @@
       ],
       "summaryBullets": [
         "Und sie brachten die Lade Gottes hinein und stellten sie mitten in das Zelt, das David für sie aufgerichtet hatte; und sie opferten Brandopfer und Friedensopfer vor Gott. (16:1).",
-        "Und nachdem David die Brandopfer und Friedensopfer vollbracht hatte, segnete er das Volk im Namen des HERRN; (16:2).",
+        "Und nachdem David die Brandopfer und Friedensopfer vollbracht hatte, segnete er das Volk im Namen des [DN]Herrn[/DN]; (16:2).",
         "und er verteilte an jedermann in Israel, an Männer und Frauen, je einen Laib Brot, einen Dattelkuchen und einen Rosinenkuchen. (16:3).",
-        "Und er bestimmte etliche Leviten zu Dienern vor der Lade des HERRN, damit sie den HERRN, den Gott Israels, priesen, ihm dankten und ihn lobten: (16:4).",
+        "Und er bestimmte etliche Leviten zu Dienern vor der Lade des [DN]Herrn[/DN], damit sie den [DN]Herrn[/DN], den Gott Israels, priesen, ihm dankten und ihn lobten: (16:4).",
         "nämlich Asaph als das Oberhaupt, Sacharja als zweiten; nach ihm Jehiel, Semiramot, Jechiel, Mattitja, Eliab, Benaja, Obed-Edom und Jehiel, mit Harfen und Lauten; Asaph aber, um mit Zimbeln laut zu spielen, (16:5).",
         "die Priester Benaja und Jehasiel aber mit Trompeten allezeit vor der Lade des Bundes Gottes. (16:6).",
-        "Zu derselben Zeit gab David zum ersten Mal Asaph und seinen Brüdern den Auftrag, dem HERRN zu danken: (16:7).",
-        "Dankt dem HERRN, ruft seinen Namen an, macht unter den Völkern seine Taten bekannt! (16:8).",
+        "Zu derselben Zeit gab David zum ersten Mal Asaph und seinen Brüdern den Auftrag, dem [DN]Herrn[/DN] zu danken: (16:7).",
+        "Dankt dem [DN]Herrn[/DN], ruft seinen Namen an, macht unter den Völkern seine Taten bekannt! (16:8).",
         "Singt ihm, lobsingt ihm, redet von allen seinen Wundern! (16:9).",
-        "Rühmt euch seines heiligen Namens! Es freue sich das Herz derer, die den HERRN suchen! (16:10).",
-        "Fragt nach dem HERRN und nach seiner Macht, sucht sein Angesicht allezeit! (16:11).",
+        "Rühmt euch seines heiligen Namens! Es freue sich das Herz derer, die den [DN]Herrn[/DN] suchen! (16:10).",
+        "Fragt nach dem [DN]Herrn[/DN] und nach seiner Macht, sucht sein Angesicht allezeit! (16:11).",
         "Gedenkt an seine Wunder, die er getan hat, an seine Zeichen und die Urteile seines Mundes, (16:12).",
         "o Same Israels, seines Knechtes, o ihr Kinder Jakobs, seine Auserwählten! (16:13).",
-        "Er, der HERR, ist unser Gott; auf der ganzen Erde gelten seine Rechtsurteile. (16:14).",
+        "Er, der [DN]Herr[/DN], ist unser Gott; auf der ganzen Erde gelten seine Rechtsurteile. (16:14).",
         "Gedenkt auf ewig an seinen Bund, an das Wort, das er ergehen ließ auf tausend Geschlechter hin; (16:15).",
         "[an den Bund,] den er mit Abraham geschlossen, an seinen Eid, den er Isaak geschworen hat. (16:16).",
         "Er stellte ihn auf für Jakob als Satzung, für Israel als ewigen Bund, (16:17).",
@@ -1448,25 +1396,25 @@
         "Und sie zogen von einem Volk zum andern und von einem Königreich zum andern. (16:20).",
         "Er ließ sie von keinem Menschen bedrücken und züchtigte Könige um ihretwillen: (16:21).",
         "»Tastet meine Gesalbten nicht an und fügt meinen Propheten kein Leid zu!« (16:22).",
-        "Singt dem HERRN, alle Welt; verkündigt Tag für Tag sein Heil! (16:23).",
+        "Singt dem [DN]Herrn[/DN], alle Welt; verkündigt Tag für Tag sein Heil! (16:23).",
         "Erzählt unter den Heiden von seiner Herrlichkeit, unter allen Völkern von seinen Wundern! (16:24).",
-        "Denn groß ist der HERR und hoch zu loben; er ist furchtbar über alle Götter. (16:25).",
-        "Denn alle Götter der Völker sind nichtige Götzen; aber der HERR hat die Himmel gemacht. (16:26).",
+        "Denn groß ist der [DN]Herr[/DN] und hoch zu loben; er ist furchtbar über alle Götter. (16:25).",
+        "Denn alle Götter der Völker sind nichtige Götzen; aber der [DN]Herr[/DN] hat die Himmel gemacht. (16:26).",
         "Pracht und Majestät sind vor seinem Angesicht, Stärke und Freude ist in seiner Wohnstätte. (16:27).",
-        "Bringt dar dem HERRN, ihr Völkerstämme, bringt dar dem HERRN Ehre und Lob! (16:28).",
-        "Bringt dar dem HERRN die Ehre seines Namens, bringt Gaben dar und kommt vor sein Angesicht! Betet den HERRN an in heiligem Schmuck! (16:29).",
+        "Bringt dar dem [DN]Herrn[/DN], ihr Völkerstämme, bringt dar dem [DN]Herrn[/DN] Ehre und Lob! (16:28).",
+        "Bringt dar dem [DN]Herrn[/DN] die Ehre seines Namens, bringt Gaben dar und kommt vor sein Angesicht! Betet den [DN]Herrn[/DN] an in heiligem Schmuck! (16:29).",
         "Erbebt vor ihm, alle Welt! Der Erdkreis steht fest und wankt nicht. (16:30).",
-        "Es freue sich der Himmel, und die Erde frohlocke, und unter den Heiden soll man sagen: Der HERR regiert als König! (16:31).",
+        "Es freue sich der Himmel, und die Erde frohlocke, und unter den Heiden soll man sagen: Der [DN]Herr[/DN] regiert als König! (16:31).",
         "Es brause das Meer und was es erfüllt! Es jauchze das Feld und alles, was darauf ist! (16:32).",
-        "Dann sollen alle Bäume des Waldes jubeln vor dem HERRN, denn er kommt, um die Erde zu richten! (16:33).",
-        "Dankt dem HERRN, denn er ist gütig, denn seine Gnade währt ewiglich! (16:34).",
+        "Dann sollen alle Bäume des Waldes jubeln vor dem [DN]Herrn[/DN], denn er kommt, um die Erde zu richten! (16:33).",
+        "Dankt dem [DN]Herrn[/DN], denn er ist gütig, denn seine Gnade währt ewiglich! (16:34).",
         "Und sprecht: Rette uns, o Gott unsres Heils, und sammle uns und befreie uns von den Heidenvölkern, Dass wir deinem heiligen Namen danken, Dass wir uns glücklich preisen, zu deinem Ruhm! (16:35).",
-        "Gepriesen sei der HERR, der Gott Israels, von Ewigkeit zu Ewigkeit! Und alles Volk sagte: Amen!, und lobte den HERRN. (16:36).",
-        "So ließ [David] den Asaph und seine Brüder dort vor der Lade des Bundes des HERRN, um allezeit vor der Lade zu dienen, wie es Tag für Tag vorgeschrieben war; (16:37).",
+        "Gepriesen sei der [DN]Herr[/DN], der Gott Israels, von Ewigkeit zu Ewigkeit! Und alles Volk sagte: Amen!, und lobte den [DN]Herrn[/DN]. (16:36).",
+        "So ließ [David] den Asaph und seine Brüder dort vor der Lade des Bundes des [DN]Herrn[/DN], um allezeit vor der Lade zu dienen, wie es Tag für Tag vorgeschrieben war; (16:37).",
         "und Obed-Edom und seine 68 Brüder, Obed-Edom, den Sohn Jeduthuns, und Hosa als Torhüter; (16:38).",
-        "aber den Priester Zadok und seine Brüder, die Priester, ließ er vor der Wohnung des HERRN auf der Höhe von Gibeon, (16:39).",
-        "damit sie dem HERRN täglich Brandopfer darbrächten auf dem Brandopferaltar, morgens und abends, und zwar nach allem, was geschrieben steht im Gesetz des HERRN, das er Israel geboten hat; (16:40).",
-        "und mit ihnen Heman und Jeduthun und die übrigen Auserlesenen, die namentlich dazu bestimmt wurden, dem HERRN zu danken, dass seine Gnade ewig währt. (16:41).",
+        "aber den Priester Zadok und seine Brüder, die Priester, ließ er vor der Wohnung des [DN]Herrn[/DN] auf der Höhe von Gibeon, (16:39).",
+        "damit sie dem [DN]Herrn[/DN] täglich Brandopfer darbrächten auf dem Brandopferaltar, morgens und abends, und zwar nach allem, was geschrieben steht im Gesetz des [DN]Herrn[/DN], das er Israel geboten hat; (16:40).",
+        "und mit ihnen Heman und Jeduthun und die übrigen Auserlesenen, die namentlich dazu bestimmt wurden, dem [DN]Herrn[/DN] zu danken, dass seine Gnade ewig währt. (16:41).",
         "Und mit ihnen, mit Heman und Jeduthun, waren Trompeten und Zimbeln für die, welche laut spielten, und Instrumente für die Lieder Gottes; aber die Söhne Jeduthuns waren für das Tor [bestimmt]. (16:42).",
         "Und das ganze Volk ging fort, jeder in sein Haus; und auch David kehrte zurück, um sein Haus zu segnen. (16:43)."
       ],
@@ -1502,12 +1450,12 @@
       "keyTakeaway": "David stellt die Lade in ein Zelt, bringt Opfer dar und teilt dem Volk Brot aus; er bestellt Leviten unter Asaf, vor ihr mit Musik und Lobgesang zu dienen, und setzt dann Priester in Gibeon ein, die regelmäßig Opfer darbringen.",
       "headings": [
         {
-          "beforeVerse": 7,
-          "text": "Ein Danklied"
+          "beforeVerse": 1,
+          "text": "Kapitel 16"
         },
         {
-          "beforeVerse": 37,
-          "text": "Die Aufgaben der Leviten"
+          "beforeVerse": 7,
+          "text": "Davids Lob- und Danklied"
         }
       ]
     },
@@ -1518,33 +1466,33 @@
         "1 Chronicles 17:1-27"
       ],
       "summaryBullets": [
-        "Es geschah aber, als David in seinem Haus wohnte, da sprach er zu dem Propheten Nathan: Siehe, ich wohne in einem Haus aus Zedernholz, aber die Bundeslade des HERRN wohnt unter Teppichen! (17:1).",
+        "Es geschah aber, als David in seinem Haus wohnte, da sprach er zu dem Propheten Nathan: Siehe, ich wohne in einem Haus aus Zedernholz, aber die Bundeslade des [DN]Herrn[/DN] wohnt unter Teppichen! (17:1).",
         "Und Nathan sprach zu David: Tue alles, was dir am Herzen liegt, denn Gott ist mit dir! (17:2).",
         "Aber es geschah in derselben Nacht, da erging das Wort Gottes an Nathan so: (17:3).",
-        "Geh hin und rede zu meinem Knecht David: So spricht der HERR: Nicht du sollst mir ein Haus bauen, das mir als Wohnung dienen soll! (17:4).",
+        "Geh hin und rede zu meinem Knecht David: So spricht der [DN]Herr[/DN]: Nicht du sollst mir ein Haus bauen, das mir als Wohnung dienen soll! (17:4).",
         "Denn ich habe in keinem Haus gewohnt von dem Tag an, als ich Israel heraufführte, bis zu diesem Tag, sondern ich zog von Zelt zu Zelt und von Wohnung [zu Wohnung]. (17:5).",
         "Wo immer ich mit ganz Israel umherzog, habe ich auch zu einem der Richter in Israel, denen ich gebot, mein Volk zu weiden, jemals gesagt: Warum baut ihr mir kein Haus aus Zedernholz? (17:6).",
-        "So sprich nun zu meinem Knecht David: So spricht der HERR der Heerscharen: Ich habe dich von der Weide hinter den Schafen weggenommen, damit du Fürst würdest über mein Volk Israel; (17:7).",
+        "So sprich nun zu meinem Knecht David: So spricht der [DN]Herr[/DN] der Heerscharen: Ich habe dich von der Weide hinter den Schafen weggenommen, damit du Fürst würdest über mein Volk Israel; (17:7).",
         "und ich bin überall mit dir gewesen, wohin du gegangen bist, und habe alle deine Feinde vor dir her ausgerottet und dir einen Namen gemacht gleich dem Namen der Gewaltigen auf Erden. (17:8).",
         "Und ich werde für mein Volk Israel einen Ort bereiten und werde es einpflanzen, dass es dort bleiben und nicht mehr beunruhigt werden soll; und die Söhne der Bosheit sollen es nicht mehr verderben wie zuvor, (17:9).",
-        "seit der Zeit, als ich Richter über mein Volk Israel eingesetzt habe. Und ich werde alle deine Feinde demütigen; und ich verkündige dir, dass der HERR dir ein Haus bauen wird! (17:10).",
+        "seit der Zeit, als ich Richter über mein Volk Israel eingesetzt habe. Und ich werde alle deine Feinde demütigen; und ich verkündige dir, dass der [DN]Herr[/DN] dir ein Haus bauen wird! (17:10).",
         "Und es wird geschehen, wenn deine Tage erfüllt sind, sodass du zu deinen Vätern hingehst, so will ich deinen Samen nach dir erwecken, der von deinen Söhnen sein wird; und ich werde sein Königtum befestigen. (17:11).",
         "Der wird mir ein Haus bauen, und ich werde seinen Thron auf ewig befestigen. (17:12).",
         "Ich will sein Vater sein, und er soll mein Sohn sein. Und ich will meine Gnade nicht von ihm weichen lassen, wie ich sie von dem weichen ließ, der vor dir war; (17:13).",
         "sondern ich will ihn auf ewig über mein Haus und mein Königreich einsetzen, und sein Thron soll auf ewig fest stehen! (17:14).",
         "Alle diese Worte und diese ganze Offenbarung teilte Nathan dem David mit. (17:15).",
-        "Da kam der König David und setzte sich vor dem HERRN nieder und sprach: Wer bin ich, HERR, o Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? (17:16).",
-        "Und das war noch zu wenig in deinen Augen, o Gott, sondern du hast über das Haus deines Knechtes noch von ferner Zukunft geredet, und du hast mich für den höchsten Rang eines Menschen ausersehen, HERR, o Gott! (17:17).",
+        "Da kam der König David und setzte sich vor dem [DN]Herrn[/DN] nieder und sprach: Wer bin ich, [DN]Herr[/DN], o Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? (17:16).",
+        "Und das war noch zu wenig in deinen Augen, o Gott, sondern du hast über das Haus deines Knechtes noch von ferner Zukunft geredet, und du hast mich für den höchsten Rang eines Menschen ausersehen, [DN]Herr[/DN], o Gott! (17:17).",
         "Was kann David noch dazutun zu dieser Ehre, die du deinem Knecht erweist? Du kennst ja deinen Knecht. (17:18).",
-        "HERR, um deines Knechtes willen und nach deinem Herzen hast du all dies Große getan und alle diese großen Dinge verkündet! (17:19).",
-        "HERR, dir ist niemand gleich, und es gibt keinen Gott außer dir, nach allem, was wir mit unseren Ohren gehört haben! (17:20).",
+        "[DN]Herr[/DN], um deines Knechtes willen und nach deinem Herzen hast du all dies Große getan und alle diese großen Dinge verkündet! (17:19).",
+        "[DN]Herr[/DN], dir ist niemand gleich, und es gibt keinen Gott außer dir, nach allem, was wir mit unseren Ohren gehört haben! (17:20).",
         "Und wer ist wie dein Volk Israel, die einzige Nation auf Erden, für die Gott selbst hingegangen ist, um sie sich als [Eigentums-]Volk zu erlösen, womit du dir einen großen und furchtgebietenden Namen machtest, indem du die Heidenvölker ausgestoßen hast vor deinem Volk her, das du aus Ägypten erlöst hast! (17:21).",
-        "Und du hast dir dein Volk Israel auf ewig zum Volk bestimmt; und du, o HERR, bist ihr Gott geworden. (17:22).",
-        "Und nun, HERR, das Wort, das du über deinen Knecht und über sein Haus geredet hast, bleibe ewig wahr; tue, wie du geredet hast! (17:23).",
-        "Ja, es möge sich bewahrheiten! Und so soll dein Name erhoben werden ewiglich, dass man sage: Der HERR der Heerscharen, der Gott Israels, ist Gott für Israel! Und das Haus deines Knechtes David möge vor dir Bestand haben! (17:24).",
+        "Und du hast dir dein Volk Israel auf ewig zum Volk bestimmt; und du, o [DN]Herr[/DN], bist ihr Gott geworden. (17:22).",
+        "Und nun, [DN]Herr[/DN], das Wort, das du über deinen Knecht und über sein Haus geredet hast, bleibe ewig wahr; tue, wie du geredet hast! (17:23).",
+        "Ja, es möge sich bewahrheiten! Und so soll dein Name erhoben werden ewiglich, dass man sage: Der [DN]Herr[/DN] der Heerscharen, der Gott Israels, ist Gott für Israel! Und das Haus deines Knechtes David möge vor dir Bestand haben! (17:24).",
         "Denn du, mein Gott, hast dem Ohr deines Knechtes geoffenbart, dass du ihm ein Haus bauen willst. Darum hat dein Knecht [die Zuversicht] gefunden, vor dir zu beten. (17:25).",
-        "Und nun, HERR, du bist Gott und hast deinem Knecht [so viel] Gutes zugesagt. (17:26).",
-        "So lasse es dir nun wohlgefällig sein, das Haus deines Knechtes zu segnen, dass es ewiglich vor dir sei; denn was du, HERR, gesegnet hast, das ist auf ewig gesegnet! (17:27)."
+        "Und nun, [DN]Herr[/DN], du bist Gott und hast deinem Knecht [so viel] Gutes zugesagt. (17:26).",
+        "So lasse es dir nun wohlgefällig sein, das Haus deines Knechtes zu segnen, dass es ewiglich vor dir sei; denn was du, [DN]Herr[/DN], gesegnet hast, das ist auf ewig gesegnet! (17:27)."
       ],
       "crossRefs": [
         "2 Samuel 7: Paralleler Bericht vom Bund.",
@@ -1579,7 +1527,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Der Herr verheißt David die ewige Königsherrschaft"
+          "text": "Kapitel 17\nDavids Wunsch, dem\nHerrn\neinen Tempel zu bauen. Gottes Verheißung für David und sein Königtum"
         },
         {
           "beforeVerse": 15,
@@ -1599,14 +1547,14 @@
         "David schlug auch Hadad-Eser, den König von Zoba, bei Hamat, als er hinzog, um seine Macht am Euphratstrom aufzurichten. (18:3).",
         "Und David eroberte von ihm 1 000 Streitwagen und 7 000 Reiter und 20 000 Mann Fußvolk. Und David lähmte alle Wagenpferde; aber 100 Wagenpferde behielt er übrig. (18:4).",
         "Und die Aramäer von Damaskus kamen Hadad-Eser, dem König von Zoba, zu Hilfe. Aber David erschlug von den Aramäern 22 000 Mann. (18:5).",
-        "Und David legte [Besatzungen] in Aram von Damaskus, sodass die Aramäer David untertan wurden und ihm Tribut entrichteten; denn der HERR half David überall, wo er hinzog. (18:6).",
+        "Und David legte [Besatzungen] in Aram von Damaskus, sodass die Aramäer David untertan wurden und ihm Tribut entrichteten; denn der [DN]Herr[/DN] half David überall, wo er hinzog. (18:6).",
         "Und David nahm die goldenen Schilde, die den Knechten Hadad-Esers gehörten, und brachte sie nach Jerusalem. (18:7).",
         "Auch nahm David aus Tibchat und Kun, den Städten Hadad-Esers, sehr viel Erz, woraus Salomo das eherne Wasserbecken und die Säulen und die ehernen Geräte machte. (18:8).",
         "Als aber Toi, der König von Hamat, hörte, dass David die ganze Heeresmacht Hadad-Esers, des Königs von Zoba, geschlagen hatte, (18:9).",
-        "da sandte er seinen Sohn Hadoram zum König David, um ihn nach seinem Wohlergehen zu fragen und ihn zu beglückwünschen, weil er gegen Hadad-Eser gekämpft und ihn geschlagen hatte — denn Hadad-Eser war ständig im Kriegszustand mit Toi —, und er hatte bei sich allerlei goldene, silberne und eherne Geräte. (18:10).",
-        "Auch diese heiligte der König David dem HERRN, samt dem Silber und Gold, das er von allen Völkern genommen hatte, nämlich von Edom, von Moab, von den Ammonitern, von den Philistern und von Amalek. (18:11).",
+        "da sandte er seinen Sohn Hadoram zum König David, um ihn nach seinem Wohlergehen zu fragen und ihn zu beglückwünschen, weil er gegen Hadad-Eser gekämpft und ihn geschlagen hatte — denn Hadad-Eser war ständig im Kriegszustand mit Toi —, und er hatte bei sich allerlei goldene, silberne und eherne Geräte. (18:10).",
+        "Auch diese heiligte der König David dem [DN]Herrn[/DN], samt dem Silber und Gold, das er von allen Völkern genommen hatte, nämlich von Edom, von Moab, von den Ammonitern, von den Philistern und von Amalek. (18:11).",
         "Und Abisai, der Sohn der Zeruja, erschlug von den Edomitern im Salztal 18 000 [Mann]; (18:12).",
-        "und er legte Besatzungen nach Edom, sodass alle Edomiter David untertan wurden; denn der HERR half David überall, wo er hinzog. (18:13).",
+        "und er legte Besatzungen nach Edom, sodass alle Edomiter David untertan wurden; denn der [DN]Herr[/DN] half David überall, wo er hinzog. (18:13).",
         "Und David regierte über ganz Israel, und er verschaffte seinem ganzen Volk Recht und Gerechtigkeit. (18:14).",
         "Joab aber, der Sohn der Zeruja, war [Befehlshaber] über das Heer, und Josaphat, der Sohn Achiluds, war Kanzleischreiber, (18:15).",
         "und Zadok, der Sohn Achitubs, und Abimelech, der Sohn Abjatars, waren Priester, Schawscha war Staatsschreiber, (18:16).",
@@ -1645,11 +1593,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davids Kriegszüge"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "Davids oberste Beamte"
+          "text": "Kapitel 18\nSiege des Königs David"
         }
       ]
     },
@@ -1672,7 +1616,7 @@
         "Als nun Joab sah, dass ihm von vorn und hinten ein Angriff drohte, traf er eine Auswahl unter der Mannschaft in Israel und stellte sich gegen die Aramäer auf. (19:10).",
         "Das übrige Volk aber übergab er dem Befehl seines Bruders Abisai, damit sie sich gegen die Ammoniter aufstellten; (19:11).",
         "und er sprach: Wenn die Aramäer mir überlegen sind, so komme mir zu Hilfe; wenn aber die Ammoniter dir überlegen sind, so will ich dir zur Hilfe kommen. (19:12).",
-        "Sei stark; ja, lass uns stark sein für unser Volk und für die Städte unseres Gottes; der HERR aber tue, was ihm gefällt! (19:13).",
+        "Sei stark; ja, lass uns stark sein für unser Volk und für die Städte unseres Gottes; der [DN]Herr[/DN] aber tue, was ihm gefällt! (19:13).",
         "Und Joab rückte mit dem Volk, das bei ihm war, zum Kampf gegen die Aramäer vor, und sie flohen vor ihm. (19:14).",
         "Als aber die Ammoniter sahen, dass die Aramäer flohen, flohen auch sie vor seinem Bruder Abisai und zogen sich in die Stadt zurück. Und Joab kam nach Jerusalem. (19:15).",
         "Als aber die Aramäer sahen, dass sie von Israel geschlagen worden waren, sandten sie Boten hin und ließen die Aramäer von jenseits des Stromes ausziehen. Und Sophach, der Heerführer Hadad-Esers, zog vor ihnen her. (19:16).",
@@ -1713,15 +1657,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "König Hanun beleidigt Davids Gesandte"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Es kommt zum Krieg mit den Ammonitern"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "Der Krieg gegen die Syrer"
+          "text": "Kapitel 19\nKrieg gegen die Ammoniter und deren Verbündete"
         }
       ]
     },
@@ -1774,11 +1710,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Eroberung der Stadt Rabba"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "Kriege gegen die Philister"
+          "text": "Kapitel 20\nDie Eroberung Rabbas. Sieg über die Philister"
         }
       ]
     },
@@ -1791,34 +1723,34 @@
       "summaryBullets": [
         "Und Satan stand auf gegen Israel und reizte David, Israel zählen zu lassen. (21:1).",
         "Und David sprach zu Joab und zu den Obersten des Volkes: Geht hin, zählt Israel von Beerscheba an bis nach Dan, und bringt mir Bericht, damit ich ihre Zahl erfahre! (21:2).",
-        "Joab aber sprach: Der HERR füge zu seinem Volk, wie zahlreich es jetzt ist, noch hundertmal mehr hinzu! Aber sind sie nicht, mein Herr und König, alle die Knechte meines Herrn? Warum verlangt mein Herr so etwas? Warum soll eine Schuld auf Israel kommen? (21:3).",
+        "Joab aber sprach: Der [DN]Herr[/DN] füge zu seinem Volk, wie zahlreich es jetzt ist, noch hundertmal mehr hinzu! Aber sind sie nicht, mein Herr und König, alle die Knechte meines Herrn? Warum verlangt mein Herr so etwas? Warum soll eine Schuld auf Israel kommen? (21:3).",
         "Doch das Wort des Königs blieb fest gegen Joab; so zog Joab aus und durchwanderte ganz Israel und kam wieder nach Jerusalem. (21:4).",
         "Und Joab gab David die Zahl des gemusterten Volkes an. Das ganze Israel zählte 1 100 000 Männer, die das Schwert zogen, und Juda 470 000 Männer, die das Schwert zogen. (21:5).",
         "Levi aber und Benjamin hatte er nicht mit ihnen gemustert; denn das Wort des Königs war Joab ein Gräuel. (21:6).",
         "Und diese Sache missfiel Gott; darum schlug er Israel. (21:7).",
         "Und David sprach zu Gott: Ich habe mich schwer versündigt, dass ich diese Sache getan habe. Nun aber nimm doch die Missetat deines Knechtes hinweg, denn ich habe sehr töricht gehandelt! (21:8).",
-        "Und der HERR redete zu Gad, dem Seher Davids, und sprach: (21:9).",
-        "Geh hin, rede zu David und sprich: So spricht der HERR: Dreierlei lege ich dir vor, erwähle dir eines davon, dass ich es dir antue! (21:10).",
-        "Und als Gad zu David kam, sprach er zu ihm: So spricht der HERR: Wähle für dich: (21:11).",
-        "Entweder drei Jahre Hungersnot oder drei Monate lang Flucht vor deinen Widersachern, sodass dich das Schwert deiner Feinde ereilt, oder drei Tage lang das Schwert des HERRN und die Pest im Land und den Engel des HERRN als Verderber im ganzen Gebiet von Israel. So überlege dir nun, welche Antwort ich dem zurückbringen soll, der mich gesandt hat! (21:12).",
-        "Und David sprach zu Gad: Mir ist sehr angst! Ich will in die Hand des HERRN fallen; denn seine Barmherzigkeit ist sehr groß; aber in die Hände der Menschen will ich nicht fallen! (21:13).",
-        "Da ließ der HERR die Pest über Israel kommen, sodass 70 000 Mann aus Israel umkamen. (21:14).",
-        "Und Gott sandte den Engel nach Jerusalem, um es zu verderben. Und als er verderbte, sah es der HERR, und ihn reute das Unheil; und er sprach zu dem Engel, der verderbte: Genug! Lass deine Hand nun sinken! Der Engel des HERRN aber stand bei der Tenne Ornans, des Jebusiters. (21:15).",
-        "Und David erhob seine Augen und sah den Engel des HERRN zwischen Erde und Himmel stehen, und in seiner Hand ein bloßes Schwert, über Jerusalem ausgestreckt. Da fielen David und die Ältesten, in Sacktuch gehüllt, auf ihr Angesicht. (21:16).",
-        "Und David sprach zu Gott: Habe nicht ich gesagt, dass man das Volk zählen soll? Ich bin es, der gesündigt und sehr böse gehandelt hat. Was haben aber diese Schafe getan? HERR, mein Gott, lass doch deine Hand gegen mich und das Haus meines Vaters gerichtet sein, und nicht gegen dein Volk zur Plage! (21:17).",
-        "Und der Engel des HERRN befahl Gad, David zu sagen, dass er hinaufgehen solle, um dem HERRN einen Altar aufzurichten auf der Tenne Ornans, des Jebusiters. (21:18).",
-        "So ging David hinauf nach dem Wort Gads, das dieser im Namen des HERRN geredet hatte. (21:19).",
+        "Und der [DN]Herr[/DN] redete zu Gad, dem Seher Davids, und sprach: (21:9).",
+        "Geh hin, rede zu David und sprich: So spricht der [DN]Herr[/DN]: Dreierlei lege ich dir vor, erwähle dir eines davon, dass ich es dir antue! (21:10).",
+        "Und als Gad zu David kam, sprach er zu ihm: So spricht der [DN]Herr[/DN]: Wähle für dich: (21:11).",
+        "Entweder drei Jahre Hungersnot oder drei Monate lang Flucht vor deinen Widersachern, sodass dich das Schwert deiner Feinde ereilt, oder drei Tage lang das Schwert des [DN]Herrn[/DN] und die Pest im Land und den Engel des [DN]Herrn[/DN] als Verderber im ganzen Gebiet von Israel. So überlege dir nun, welche Antwort ich dem zurückbringen soll, der mich gesandt hat! (21:12).",
+        "Und David sprach zu Gad: Mir ist sehr angst! Ich will in die Hand des [DN]Herrn[/DN] fallen; denn seine Barmherzigkeit ist sehr groß; aber in die Hände der Menschen will ich nicht fallen! (21:13).",
+        "Da ließ der [DN]Herr[/DN] die Pest über Israel kommen, sodass 70 000 Mann aus Israel umkamen. (21:14).",
+        "Und Gott sandte den Engel nach Jerusalem, um es zu verderben. Und als er verderbte, sah es der [DN]Herr[/DN], und ihn reute das Unheil; und er sprach zu dem Engel, der verderbte: Genug! Lass deine Hand nun sinken! Der Engel des [DN]Herrn[/DN] aber stand bei der Tenne Ornans, des Jebusiters. (21:15).",
+        "Und David erhob seine Augen und sah den Engel des [DN]Herrn[/DN] zwischen Erde und Himmel stehen, und in seiner Hand ein bloßes Schwert, über Jerusalem ausgestreckt. Da fielen David und die Ältesten, in Sacktuch gehüllt, auf ihr Angesicht. (21:16).",
+        "Und David sprach zu Gott: Habe nicht ich gesagt, dass man das Volk zählen soll? Ich bin es, der gesündigt und sehr böse gehandelt hat. Was haben aber diese Schafe getan? [DN]Herr[/DN], mein Gott, lass doch deine Hand gegen mich und das Haus meines Vaters gerichtet sein, und nicht gegen dein Volk zur Plage! (21:17).",
+        "Und der Engel des [DN]Herrn[/DN] befahl Gad, David zu sagen, dass er hinaufgehen solle, um dem [DN]Herrn[/DN] einen Altar aufzurichten auf der Tenne Ornans, des Jebusiters. (21:18).",
+        "So ging David hinauf nach dem Wort Gads, das dieser im Namen des [DN]Herrn[/DN] geredet hatte. (21:19).",
         "Und Ornan wandte sich um und sah den Engel, und seine vier Söhne versteckten sich mit ihm; Ornan drosch aber gerade Weizen. (21:20).",
         "Und David kam zu Ornan; und Ornan blickte um sich und sah David; und er ging aus der Tenne heraus und verneigte sich vor David mit dem Angesicht zur Erde. (21:21).",
-        "Und David sprach zu Ornan: Gib mir den Platz der Tenne, damit ich dem HERRN einen Altar darauf baue — um den vollen Geldwert sollst du ihn mir geben —, damit die Plage von dem Volk abgewandt wird! (21:22).",
+        "Und David sprach zu Ornan: Gib mir den Platz der Tenne, damit ich dem [DN]Herrn[/DN] einen Altar darauf baue — um den vollen Geldwert sollst du ihn mir geben —, damit die Plage von dem Volk abgewandt wird! (21:22).",
         "Da sprach Ornan zu David: Nimm ihn hin; mein Herr und König tue damit, was ihm gefällt! Siehe, ich gebe die Rinder als Brandopfer und die Dreschwagen als Brennholz und den Weizen zum Speisopfer; alles gebe ich zum Geschenk! (21:23).",
-        "Aber der König David sprach zu Ornan: Nicht so, sondern ich will es um den vollen Geldwert kaufen! Denn ich will nicht für den HERRN nehmen, was dir gehört, und umsonst Brandopfer bringen! (21:24).",
+        "Aber der König David sprach zu Ornan: Nicht so, sondern ich will es um den vollen Geldwert kaufen! Denn ich will nicht für den [DN]Herrn[/DN] nehmen, was dir gehört, und umsonst Brandopfer bringen! (21:24).",
         "So gab David dem Ornan für den Platz Gold im Gewicht von 600 Schekel. (21:25).",
-        "Und David baute dem HERRN dort einen Altar und opferte Brandopfer und Friedensopfer. Und als er den HERRN anrief, antwortete er ihm mit Feuer vom Himmel, [das er] auf den Brandopferaltar [fallen ließ]. (21:26).",
-        "Und der HERR gebot dem Engel, sein Schwert wieder in die Scheide zu stecken. (21:27).",
-        "Zu jener Zeit, als David sah, dass der HERR ihn auf der Tenne Ornans, des Jebusiters, erhört hatte, pflegte er dort zu opfern. (21:28).",
-        "Die Wohnung des HERRN aber, die Mose in der Wüste gemacht hatte, und der Brandopferaltar waren zu jener Zeit auf der Höhe von Gibeon. (21:29).",
-        "David aber konnte nicht vor denselben treten, um Gott zu suchen; so sehr war er erschrocken vor dem Schwert des Engels des HERRN. (21:30)."
+        "Und David baute dem [DN]Herrn[/DN] dort einen Altar und opferte Brandopfer und Friedensopfer. Und als er den [DN]Herrn[/DN] anrief, antwortete er ihm mit Feuer vom Himmel, [das er] auf den Brandopferaltar [fallen ließ]. (21:26).",
+        "Und der [DN]Herr[/DN] gebot dem Engel, sein Schwert wieder in die Scheide zu stecken. (21:27).",
+        "Zu jener Zeit, als David sah, dass der [DN]Herr[/DN] ihn auf der Tenne Ornans, des Jebusiters, erhört hatte, pflegte er dort zu opfern. (21:28).",
+        "Die Wohnung des [DN]Herrn[/DN] aber, die Mose in der Wüste gemacht hatte, und der Brandopferaltar waren zu jener Zeit auf der Höhe von Gibeon. (21:29).",
+        "David aber konnte nicht vor denselben treten, um Gott zu suchen; so sehr war er erschrocken vor dem Schwert des Engels des [DN]Herrn[/DN]. (21:30)."
       ],
       "crossRefs": [
         "2 Samuel 24:1-25: Dieselbe Zählung, dieselbe dreitägige Plage und der Kauf der Tenne Araunas.",
@@ -1863,7 +1795,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davids Volkszählung"
+          "text": "Kapitel 21\nDavids Volkszählung und das Gericht Gottes"
         }
       ]
     },
@@ -1874,25 +1806,25 @@
         "1 Chronicles 22:1-19"
       ],
       "summaryBullets": [
-        "Und David sprach: Hier soll das Haus Gottes, des HERRN, sein und dies der Altar zum Brandopfer für Israel! (22:1).",
+        "Und David sprach: Hier soll das Haus Gottes, des [DN]Herrn[/DN], sein und dies der Altar zum Brandopfer für Israel! (22:1).",
         "Und David gebot, die Fremdlinge, die im Land Israel waren, zu versammeln; und er stellte sie an als Steinhauer, um Quadersteine zu hauen für den Bau des Hauses Gottes. (22:2).",
         "Und David schaffte viel Eisen an für die Nägel an den Torflügeln und für die Klammern, und so viel Erz, dass es nicht zu wägen war, (22:3).",
         "auch Zedernholz ohne Zahl. Denn die von Zidon und Tyrus brachten David viel Zedernholz. (22:4).",
-        "Und David sprach: Mein Sohn Salomo ist jung und zart; das Haus aber, das dem HERRN gebaut werden soll, das soll sehr groß sein, damit sein Name und Ruhm in allen Ländern erhoben werde; darum will ich einen Vorrat für ihn anlegen! So legte David vor seinem Tod Vorräte in Menge an. (22:5).",
-        "Und er rief seinen Sohn Salomo und gebot ihm, das Haus des HERRN, des Gottes Israels, zu bauen. (22:6).",
-        "David aber sprach zu Salomo: Mein Sohn, es lag mir am Herzen, dem Namen des HERRN, meines Gottes, ein Haus zu bauen; (22:7).",
-        "aber das Wort des HERRN erging an mich, und er sprach: Du hast viel Blut vergossen und große Kriege geführt; du sollst meinem Namen kein Haus bauen, weil du so viel Blut vor mir auf die Erde vergossen hast! (22:8).",
+        "Und David sprach: Mein Sohn Salomo ist jung und zart; das Haus aber, das dem [DN]Herrn[/DN] gebaut werden soll, das soll sehr groß sein, damit sein Name und Ruhm in allen Ländern erhoben werde; darum will ich einen Vorrat für ihn anlegen! So legte David vor seinem Tod Vorräte in Menge an. (22:5).",
+        "Und er rief seinen Sohn Salomo und gebot ihm, das Haus des [DN]Herrn[/DN], des Gottes Israels, zu bauen. (22:6).",
+        "David aber sprach zu Salomo: Mein Sohn, es lag mir am Herzen, dem Namen des [DN]Herrn[/DN], meines Gottes, ein Haus zu bauen; (22:7).",
+        "aber das Wort des [DN]Herrn[/DN] erging an mich, und er sprach: Du hast viel Blut vergossen und große Kriege geführt; du sollst meinem Namen kein Haus bauen, weil du so viel Blut vor mir auf die Erde vergossen hast! (22:8).",
         "Siehe, ein Sohn wird dir geboren werden, der wird ein Mann der Ruhe sein; denn ich will ihm Ruhe geben vor allen seinen Feinden ringsumher, darum soll sein Name Salomo sein; und ich will Israel Frieden und Ruhe geben in seinen Tagen. (22:9).",
         "Der soll meinem Namen ein Haus bauen. Und er soll mein Sohn sein, und ich will sein Vater sein und den Thron seines Königtums über Israel befestigen auf ewig! (22:10).",
-        "So sei nun der HERR mit dir, mein Sohn, dass es dir gelinge und dass du dem HERRN, deinem Gott, ein Haus baust, wie er von dir geredet hat! (22:11).",
-        "Der HERR wolle dir nur Weisheit und Verstand geben und setze dich [zum Herrscher] über Israel ein und verleihe dir, dass du das Gesetz des HERRN, deines Gottes, befolgst. (22:12).",
-        "Dann wird es dir gelingen, wenn du darauf achtest, die Satzungen und Rechte zu befolgen, die der HERR dem Mose für Israel geboten hat. Sei stark und mutig! Fürchte dich nicht und verzage nicht! (22:13).",
-        "Und siehe, durch meine Bemühung habe ich für das Haus des HERRN 100 000 Talente Gold bereitgestellt und tausendmal tausend Talente Silber; dazu Erz und Eisen, das nicht zu wägen ist; denn es ist sehr viel. Auch habe ich Holz und Steine angeschafft, und du kannst noch mehr dazutun. (22:14).",
+        "So sei nun der [DN]Herr[/DN] mit dir, mein Sohn, dass es dir gelinge und dass du dem [DN]Herrn[/DN], deinem Gott, ein Haus baust, wie er von dir geredet hat! (22:11).",
+        "Der [DN]Herr[/DN] wolle dir nur Weisheit und Verstand geben und setze dich [zum Herrscher] über Israel ein und verleihe dir, dass du das Gesetz des [DN]Herrn[/DN], deines Gottes, befolgst. (22:12).",
+        "Dann wird es dir gelingen, wenn du darauf achtest, die Satzungen und Rechte zu befolgen, die der [DN]Herr[/DN] dem Mose für Israel geboten hat. Sei stark und mutig! Fürchte dich nicht und verzage nicht! (22:13).",
+        "Und siehe, durch meine Bemühung habe ich für das Haus des [DN]Herrn[/DN] 100 000 Talente Gold bereitgestellt und tausendmal tausend Talente Silber; dazu Erz und Eisen, das nicht zu wägen ist; denn es ist sehr viel. Auch habe ich Holz und Steine angeschafft, und du kannst noch mehr dazutun. (22:14).",
         "Und Werkleute sind bei dir in Menge: Steinmetze, Maurer und Zimmerleute und allerlei weise Meister für jegliches Werk. (22:15).",
-        "Das Gold, das Silber, das Erz und das Eisen sind nicht zu zählen. Mache dich auf und führe es aus, und der HERR sei mit dir! (22:16).",
+        "Das Gold, das Silber, das Erz und das Eisen sind nicht zu zählen. Mache dich auf und führe es aus, und der [DN]Herr[/DN] sei mit dir! (22:16).",
         "Und David gebot allen Obersten Israels, seinem Sohn Salomo beizustehen: (22:17).",
-        "»Ist nicht der HERR, euer Gott, mit euch und hat euch Ruhe gegeben ringsumher? Denn er hat die Einwohner des Landes in meine Hand gegeben, und das Land ist dem HERRN und seinem Volk unterworfen. (22:18).",
-        "So richtet nun euer Herz und eure Seele darauf, den HERRN, euren Gott, zu suchen! Und macht euch auf und baut das Heiligtum Gottes, des HERRN, damit man die Lade des Bundes des HERRN und die heiligen Geräte Gottes in das Haus bringe, das dem Namen des HERRN gebaut werden soll!« (22:19)."
+        "»Ist nicht der [DN]Herr[/DN], euer Gott, mit euch und hat euch Ruhe gegeben ringsumher? Denn er hat die Einwohner des Landes in meine Hand gegeben, und das Land ist dem [DN]Herrn[/DN] und seinem Volk unterworfen. (22:18).",
+        "So richtet nun euer Herz und eure Seele darauf, den [DN]Herrn[/DN], euren Gott, zu suchen! Und macht euch auf und baut das Heiligtum Gottes, des [DN]Herrn[/DN], damit man die Lade des Bundes des [DN]Herrn[/DN] und die heiligen Geräte Gottes in das Haus bringe, das dem Namen des [DN]Herrn[/DN] gebaut werden soll!« (22:19)."
       ],
       "crossRefs": [
         "2 Samuel 7:12-13: Gott verheißt, Davids Sohn werde das Haus bauen.",
@@ -1925,12 +1857,8 @@
       "keyTakeaway": "David kann den Tempel wegen seiner Kriege nicht bauen, aber er trifft reichlich Vorbereitungen. Salomo wird als der Mann des Friedens erwählt, der das Haus Gottes bauen soll.",
       "headings": [
         {
-          "beforeVerse": 2,
-          "text": "Vorbereitungen für den Bau des Tempels\nDavid bereitet den Bau des Tempels vor"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "David beauftragt Salomo mit dem Bau des Tempels"
+          "beforeVerse": 1,
+          "text": "Kapitel 22\nDavids Vorbereitungen für den Tempelbau"
         }
       ]
     },
@@ -1944,8 +1872,8 @@
         "So machte David, als er alt und lebenssatt geworden war, seinen Sohn Salomo zum König über Israel. (23:1).",
         "Und er versammelte alle Obersten in Israel und die Priester und Leviten. (23:2).",
         "Die Leviten aber wurden gezählt, von 30 Jahren an und darüber. Und ihre Zahl, Haupt für Haupt, betrug 38 000 Mann. (23:3).",
-        "»Von diesen [— sagte David —] sollen 24 000 Mann die Aufsicht über das Werk am Haus des HERRN führen, und 6 000 sollen Vorsteher und Richter sein, (23:4).",
-        "und 4 000 Torhüter und 4 000, die den HERRN loben mit Instrumenten, die ich für den Lobgesang gemacht habe.« (23:5).",
+        "»Von diesen [— sagte David —] sollen 24 000 Mann die Aufsicht über das Werk am Haus des [DN]Herrn[/DN] führen, und 6 000 sollen Vorsteher und Richter sein, (23:4).",
+        "und 4 000 Torhüter und 4 000, die den [DN]Herrn[/DN] loben mit Instrumenten, die ich für den Lobgesang gemacht habe.« (23:5).",
         "Und David teilte sie in Abteilungen, nach den Söhnen Levis: Gerson, Kahat und Merari. (23:6).",
         "Von den Gersonitern: Laedan und Simei. (23:7).",
         "Die Söhne Laedans: Jechiel, das Oberhaupt, Setam und Joel, [insgesamt] drei. (23:8).",
@@ -1953,7 +1881,7 @@
         "Und die Söhne Simeis waren: Jahat, Sina, Jeusch und Berija; diese vier waren Söhne Simeis. (23:10).",
         "Jahat war das Oberhaupt, Sina der zweite. Aber Jeusch und Berija hatten nicht viele Söhne, darum wurden sie als ein einziges Vaterhaus gerechnet. (23:11).",
         "Die Söhne Kahats waren: Amram, Jizhar, Hebron und Ussiel, [insgesamt] vier. (23:12).",
-        "Die Söhne Amrams waren: Aaron und Mose. Aaron aber wurde ausgesondert, dass er als hochheilig geheiligt würde, er und seine Söhne, auf ewig, um vor dem HERRN zu räuchern, ihm zu dienen und in seinem Namen zu segnen ewiglich. (23:13).",
+        "Die Söhne Amrams waren: Aaron und Mose. Aaron aber wurde ausgesondert, dass er als hochheilig geheiligt würde, er und seine Söhne, auf ewig, um vor dem [DN]Herrn[/DN] zu räuchern, ihm zu dienen und in seinem Namen zu segnen ewiglich. (23:13).",
         "Und was Mose, den Mann Gottes, betrifft, so wurden seine Söhne zum Stamm Levi gerechnet. (23:14).",
         "Die Söhne Moses aber waren: Gerson und Elieser. (23:15).",
         "Die Söhne Gersons: Sebuel, das Oberhaupt. (23:16).",
@@ -1964,15 +1892,15 @@
         "Die Söhne Meraris waren: Machli und Muschi. Die Söhne Machlis waren: Eleasar und Kis. (23:21).",
         "Eleasar aber starb und hatte keine Söhne, sondern nur Töchter; und die Söhne des Kis, ihre Vettern, nahmen sie als Ehefrauen. (23:22).",
         "Die Söhne Muschis waren: Machli, Eder und Jeremot, [insgesamt] drei. (23:23).",
-        "Das sind die Söhne Levis nach den Häusern ihrer Väter, die Familienhäupter, so wie sie gemustert wurden nach der Zahl der Namen, nach der Kopfzahl, von 20 Jahren an und darüber, die das Werk des Dienstes am Haus des HERRN verrichteten. (23:24).",
-        "Denn David sprach: »Der HERR, der Gott Israels, hat seinem Volk Ruhe gegeben, und er wird auf ewig in Jerusalem wohnen. (23:25).",
+        "Das sind die Söhne Levis nach den Häusern ihrer Väter, die Familienhäupter, so wie sie gemustert wurden nach der Zahl der Namen, nach der Kopfzahl, von 20 Jahren an und darüber, die das Werk des Dienstes am Haus des [DN]Herrn[/DN] verrichteten. (23:24).",
+        "Denn David sprach: »Der [DN]Herr[/DN], der Gott Israels, hat seinem Volk Ruhe gegeben, und er wird auf ewig in Jerusalem wohnen. (23:25).",
         "So haben nun die Leviten die Wohnung mit allen Geräten, die zu ihrem Dienst gehören, nicht mehr zu tragen (23:26).",
         "(nach den letzten Anordnungen Davids waren die Söhne Levis nämlich von 20 Jahren und darüber gezählt worden), (23:27).",
-        "sondern ihr Platz ist an der Seite der Söhne Aarons im Dienst am Haus des HERRN: zur Aufsicht über die Vorhöfe und über die Kammern und zur Reinigung des ganzen Heiligtums und zur Verrichtung des Dienstes am Haus Gottes; (23:28).",
+        "sondern ihr Platz ist an der Seite der Söhne Aarons im Dienst am Haus des [DN]Herrn[/DN]: zur Aufsicht über die Vorhöfe und über die Kammern und zur Reinigung des ganzen Heiligtums und zur Verrichtung des Dienstes am Haus Gottes; (23:28).",
         "auch sollen sie nach dem Schaubrot, nach dem Feinmehl zum Speisopfer, nach den ungesäuerten Fladen, nach dem Pfannengebäck, nach dem Rührgebäck und nach allem Hohl- und Längenmaß sehen; (23:29).",
-        "und sie sollen alle Morgen antreten, um dem HERRN zu danken und ihn zu loben, ebenso auch am Abend; (23:30).",
-        "auch haben sie dem HERRN alle Brandopfer zu opfern, an den Sabbaten, Neumonden und Festen, in der erforderlichen Zahl und nach der Vorschrift, beständig vor dem HERRN. (23:31).",
-        "So sollen sie besorgen, was es an der Stiftshütte und am Heiligtum zu besorgen gibt, und die Aufträge der Söhne Aarons, ihrer Brüder, im Dienst am Haus des HERRN.« (23:32)."
+        "und sie sollen alle Morgen antreten, um dem [DN]Herrn[/DN] zu danken und ihn zu loben, ebenso auch am Abend; (23:30).",
+        "auch haben sie dem [DN]Herrn[/DN] alle Brandopfer zu opfern, an den Sabbaten, Neumonden und Festen, in der erforderlichen Zahl und nach der Vorschrift, beständig vor dem [DN]Herrn[/DN]. (23:31).",
+        "So sollen sie besorgen, was es an der Stiftshütte und am Heiligtum zu besorgen gibt, und die Aufträge der Söhne Aarons, ihrer Brüder, im Dienst am Haus des [DN]Herrn[/DN].« (23:32)."
       ],
       "crossRefs": [
         "Numeri 4:1-3: Die Leviten werden von dreißig bis fünfzig Jahren für den Dienst am Zelt der Begegnung gezählt.",
@@ -2011,8 +1939,8 @@
       "keyTakeaway": "David setzt Salomo als König ein und ordnet achtunddreißigtausend Leviten in Abteilungen für den Tempeldienst, indem er ihnen zuweist, das Gebäude instand zu halten, den Gottesdienst zu leiten, als Richter und Torhüter zu dienen und den Nachkommen Aarons beim Umgang mit den heiligen Geräten und den Opfern zu helfen.",
       "headings": [
         {
-          "beforeVerse": 2,
-          "text": "Die Dienstgruppen der Leviten"
+          "beforeVerse": 1,
+          "text": "Kapitel 23\nDie Leviten und ihre Dienstordnung"
         }
       ]
     },
@@ -2041,7 +1969,7 @@
         "das neunzehnte auf Petachja, das zwanzigste auf Jecheskel, (24:16).",
         "das einundzwanzigste auf Jachin, das zweiundzwanzigste auf Gamul, (24:17).",
         "das dreiundzwanzigste auf Delaja, das vierundzwanzigste auf Maasja. (24:18).",
-        "Das ist die Reihenfolge ihres Dienstes, nach der sie in das Haus des HERRN zu gehen hatten nach ihrer Ordnung, [gegeben] durch ihren Vater Aaron, wie es ihm der HERR, der Gott Israels, geboten hatte. (24:19).",
+        "Das ist die Reihenfolge ihres Dienstes, nach der sie in das Haus des [DN]Herrn[/DN] zu gehen hatten nach ihrer Ordnung, [gegeben] durch ihren Vater Aaron, wie es ihm der [DN]Herr[/DN], der Gott Israels, geboten hatte. (24:19).",
         "Und was die übrigen Söhne Levis betrifft, [so waren ihre Abteilungen]: von den Söhnen Amrams: Schubael. Von den Söhnen Schubaels: Jechdeja. (24:20).",
         "Von Rechabja, von den Söhnen Rechabjas: Jischija, das Oberhaupt. (24:21).",
         "Von den Jizharitern: Selomot. Von den Söhnen Selomots: Jachat. (24:22).",
@@ -2088,11 +2016,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Dienstgruppen der Priester"
+          "text": "Kapitel 24\nDie 24 Priesterklassen"
         },
         {
           "beforeVerse": 20,
-          "text": "Weitere Dienstgruppen der Leviten"
+          "text": "Die Häupter der Levitenklassen"
         }
       ]
     },
@@ -2105,11 +2033,11 @@
       "summaryBullets": [
         "Und David samt den Heerführern sonderte von den Söhnen Asaphs, Hemans und Jeduthuns solche zum Dienst aus, die weissagten zum Lauten-, Harfen- und Zimbelspiel. Die Zahl der Männer, die diesen Dienst verrichteten, war: (25:1).",
         "von den Söhnen Asaphs: Sakkur, Joseph, Netanja, Asarela, die Söhne Asaphs, unter der Leitung Asaphs, der nach Anweisung des Königs weissagte. (25:2).",
-        "Von Jeduthun: die Söhne Jeduthuns waren: Gedalja, Zeri, Jesaja, Haschabja und Mattitja, [insgesamt] sechs, unter der Leitung ihres Vaters Jeduthun, der mit der Harfe weissagte, um zu danken und den HERRN zu loben. (25:3).",
+        "Von Jeduthun: die Söhne Jeduthuns waren: Gedalja, Zeri, Jesaja, Haschabja und Mattitja, [insgesamt] sechs, unter der Leitung ihres Vaters Jeduthun, der mit der Harfe weissagte, um zu danken und den [DN]Herrn[/DN] zu loben. (25:3).",
         "Von Heman: die Söhne Hemans waren: Bukkija, Mattanja, Ussiel, Schebuel, Jerimot, Hananja, Hanani, Eliata, Giddalti, Romamti-Eser, Joschbekascha, Malloti, Hotir und Machasiot. (25:4).",
         "Alle diese waren Söhne Hemans, des Sehers des Königs, nach den Worten Gottes, um das Horn zu erheben, denn Gott gab dem Heman 14 Söhne und drei Töchter. (25:5).",
-        "Alle diese waren unter der Leitung ihrer Väter Asaph, Jeduthun und Heman beim Gesang im Haus des HERRN mit Zimbeln, Harfen und Lauten, zum Dienst im Haus Gottes nach der Anweisung des Königs. (25:6).",
-        "Und ihre Zahl samt ihren Brüdern, aller, die im Gesang für den HERRN geübt und kundig waren, betrug 288. (25:7).",
+        "Alle diese waren unter der Leitung ihrer Väter Asaph, Jeduthun und Heman beim Gesang im Haus des [DN]Herrn[/DN] mit Zimbeln, Harfen und Lauten, zum Dienst im Haus Gottes nach der Anweisung des Königs. (25:6).",
+        "Und ihre Zahl samt ihren Brüdern, aller, die im Gesang für den [DN]Herrn[/DN] geübt und kundig waren, betrug 288. (25:7).",
         "Sie warfen aber das Los über ihr Amt, der Jüngste wie der Älteste, der Kundige wie der Schüler. (25:8).",
         "Und das erste Los für Asaph fiel auf Joseph. Das zweite fiel auf Gedalja samt seinen Brüdern und Söhnen, [insgesamt] 12; (25:9).",
         "das dritte auf Sakkur samt seinen Söhnen und Brüdern, [insgesamt] 12; (25:10).",
@@ -2173,7 +2101,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Dienstgruppen der Sänger und Musiker"
+          "text": "Kapitel 25\nDie Sänger werden in 24 Klassen eingeteilt"
         }
       ]
     },
@@ -2195,7 +2123,7 @@
         "Und Meschelemja hatte Söhne und Brüder, tüchtige Leute, [insgesamt] 18. (26:9).",
         "Hosa aber, von den Söhnen Meraris, hatte Söhne; Simri war das Oberhaupt (obwohl er nicht der Erstgeborene war, setzte ihn sein Vater doch zum Oberhaupt); (26:10).",
         "der zweite Hilkija, der dritte Tebalja, der vierte Sacharja. Zusammen waren es 13 Söhne und Brüder Hosas. (26:11).",
-        "Diesen Abteilungen der Torhüter, [eingeteilt] nach den Oberhäuptern der Mannschaften, fielen gleich wie ihren Brüdern Aufgaben zu, die sie im Haus des HERRN zu versehen hatten. (26:12).",
+        "Diesen Abteilungen der Torhüter, [eingeteilt] nach den Oberhäuptern der Mannschaften, fielen gleich wie ihren Brüdern Aufgaben zu, die sie im Haus des [DN]Herrn[/DN] zu versehen hatten. (26:12).",
         "Und sie warfen das Los nach ihren Vaterhäusern, den Jungen sowohl als den Alten, für jedes Tor. (26:13).",
         "Das Los [für das Tor] gegen Osten fiel auf Schelemja; und für seinen Sohn Sacharja, der ein verständiger Ratgeber war, warf man das Los, das fiel für ihn gegen Norden. (26:14).",
         "Für Obed-Edom aber gegen Süden, und für seine Söhne bei dem Vorratshaus; (26:15).",
@@ -2205,15 +2133,15 @@
         "Dies sind die Abteilungen der Torhüter von den Söhnen der Korahiter und den Söhnen Meraris. (26:19).",
         "Und was die Leviten betrifft: Achija war über die Schätze des Hauses Gottes und über die Schätze der geweihten Dinge [eingesetzt]. (26:20).",
         "Die Söhne Laedans, die Söhne des Gersoniters Laedan, die Familienhäupter Laedans, des Gersoniters, waren die Jechieliter. (26:21).",
-        "Die Söhne der Jechieliter, Setam und dessen Bruder Joel, waren über die Schätze des Hauses des HERRN [eingesetzt]. (26:22).",
+        "Die Söhne der Jechieliter, Setam und dessen Bruder Joel, waren über die Schätze des Hauses des [DN]Herrn[/DN] [eingesetzt]. (26:22).",
         "Von den Amramitern, Jizharitern, Hebronitern und Ussielitern (26:23).",
         "war Schebuel, der Sohn Gersoms, des Sohnes Moses, Oberster über die Schätze. (26:24).",
         "Und seine Brüder, von Elieser: Dessen Sohn war Rechabja, dessen Sohn war Jesaja, dessen Sohn war Joran, dessen Sohn war Sichri, dessen Sohn war Schelomit. (26:25).",
-        "Dieser Schelomit und seine Brüder waren über alle Schätze der geweihten Dinge [eingesetzt], die der König David und die Familienhäupter und die Obersten der Tausendschaften und Hundertschaften und die Heerführer geweiht hatten — (26:26).",
-        "sie hatten sie von den Kriegen und von der Beute geweiht, um das Haus des HERRN zu unterstützen —, (26:27).",
+        "Dieser Schelomit und seine Brüder waren über alle Schätze der geweihten Dinge [eingesetzt], die der König David und die Familienhäupter und die Obersten der Tausendschaften und Hundertschaften und die Heerführer geweiht hatten —       (26:26).",
+        "sie hatten sie von den Kriegen und von der Beute geweiht, um das Haus des [DN]Herrn[/DN] zu unterstützen —, (26:27).",
         "auch über alles, was Samuel, der Seher, und Saul, der Sohn des Kis, und Abner, der Sohn Ners, und Joab, der Sohn der Zeruja, geweiht hatten; alles Geweihte war unter der Aufsicht Schelomits und seiner Brüder. (26:28).",
         "Von den Jizharitern waren Kenanja und seine Söhne als Vorsteher und Richter über Israel bestimmt für die äußeren Geschäfte. (26:29).",
-        "Von den Hebronitern aber standen Hasabja und seine Brüder, 1 700 tüchtige Leute, der Verwaltung Israels diesseits des Jordan vor, gegen Westen, für alle Angelegenheiten des HERRN und für den Dienst des Königs. (26:30).",
+        "Von den Hebronitern aber standen Hasabja und seine Brüder, 1 700 tüchtige Leute, der Verwaltung Israels diesseits des Jordan vor, gegen Westen, für alle Angelegenheiten des [DN]Herrn[/DN] und für den Dienst des Königs. (26:30).",
         "Von den Hebronitern war Jerija das Oberhaupt der Hebroniter, ihrer Geschlechter und Familien. Im vierzigsten Jahr des Königreichs Davids wurde nach ihnen gesucht, und man fand unter ihnen tüchtige Männer in Jaeser in Gilead, (26:31).",
         "und seine Brüder, tüchtige Leute, 2 700 Familienhäupter; die setzte der König David über die Rubeniter, Gaditer und den halben Stamm Manasse, für alle Angelegenheiten Gottes und für die Angelegenheiten des Königs. (26:32)."
       ],
@@ -2250,11 +2178,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Dienstgruppen der Torwächter"
+          "text": "Kapitel 26\nDie Torhüter des Tempels und die Verwalter des Tempelschatzes"
         },
         {
           "beforeVerse": 20,
-          "text": "Weitere Dienstgruppen der Leviten"
+          "text": "Die Verwalter der Schätze im Haus Gottes"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "David bestimmt Leviten als Vorsteher und Richter"
         }
       ]
     },
@@ -2287,7 +2219,7 @@
         "über die Kinder Ephraims Hosea, der Sohn Asasjas; über den halben Stamm Manasse Joel, der Sohn Pedajas; (27:20).",
         "über den anderen halben Stamm Manasse, in Gilead, war Jiddo, der Sohn Sacharjas; über Benjamin Jaasiel, der Sohn Abners; (27:21).",
         "über Dan war Asareel, der Sohn Jerochams. Das sind die Fürsten der Stämme Israels. (27:22).",
-        "Aber David nahm die Zahl derer, die unter 20 Jahren waren, nicht auf; denn der HERR hatte verheißen, Israel zu mehren wie die Sterne des Himmels. (27:23).",
+        "Aber David nahm die Zahl derer, die unter 20 Jahren waren, nicht auf; denn der [DN]Herr[/DN] hatte verheißen, Israel zu mehren wie die Sterne des Himmels. (27:23).",
         "Joab, der Sohn der Zeruja, hatte zwar angefangen zu zählen, allein er vollendete es nicht, denn es kam deswegen ein Zorn[gericht] über Israel. Daher wurde die Zahl nicht in die Chronik des Königs David aufgenommen. (27:24).",
         "Über die Vorräte des Königs war Asmawet, der Sohn Adiels, [eingesetzt]; über die Vorräte auf dem Land, in den Städten, Dörfern und Festungen war Jonathan, der Sohn Ussijas; (27:25).",
         "über die Feldarbeiter, die das Land bebauten, war Esri, der Sohn Kelubs; (27:26).",
@@ -2338,19 +2270,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Die Abteilungen des Heeres"
+          "text": "Kapitel 27\nDie zwölf Heerführer Davids"
         },
         {
           "beforeVerse": 16,
-          "text": "Die Stammesoberhäupter"
+          "text": "Die Oberhäupter der zwölf Stämme Israels"
         },
         {
           "beforeVerse": 25,
-          "text": "Die Verwalter des königlichen Besitzes"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "Die engsten Berater des Königs"
+          "text": "Die Gutsverwalter und Ratgeber Davids"
         }
       ]
     },
@@ -2362,25 +2290,25 @@
       ],
       "summaryBullets": [
         "Und David versammelte alle Obersten Israels nach Jerusalem, nämlich die Obersten der Stämme, die Obersten der Abteilungen, die dem König dienten, die Obersten der Tausendschaften, die Obersten der Hundertschaften und die Obersten über alle Güter und alles Vieh des Königs und seiner Söhne, samt den Kämmerern, den Helden und allen tüchtigen Männern. (28:1).",
-        "Und der König David erhob sich und sprach: Hört mir zu, meine Brüder und mein Volk! Es lag mir am Herzen, eine Ruhestätte zu bauen für die Bundeslade des HERRN, den Schemel der Füße unseres Gottes, und ich hatte mich für den Bau gerüstet. (28:2).",
+        "Und der König David erhob sich und sprach: Hört mir zu, meine Brüder und mein Volk! Es lag mir am Herzen, eine Ruhestätte zu bauen für die Bundeslade des [DN]Herrn[/DN], den Schemel der Füße unseres Gottes, und ich hatte mich für den Bau gerüstet. (28:2).",
         "Aber Gott sprach zu mir: Du sollst meinem Namen kein Haus bauen; denn du bist ein Kriegsmann und hast Blut vergossen! (28:3).",
-        "Nun hat der HERR, der Gott Israels, aus dem ganzen Haus meines Vaters mich erwählt, dass ich auf ewig König über Israel sein sollte; denn er hat Juda zum Fürsten erwählt, und im Stamm Juda das Haus meines Vaters, und unter den Söhnen meines Vaters hatte er Wohlgefallen an mir, sodass er mich zum König über ganz Israel machte. (28:4).",
-        "Und von allen meinen Söhnen — denn der HERR hat mir viele Söhne gegeben — hat er meinen Sohn Salomo erwählt, dass er auf dem Thron des Königreichs des HERRN über Israel sitzen soll. (28:5).",
+        "Nun hat der [DN]Herr[/DN], der Gott Israels, aus dem ganzen Haus meines Vaters mich erwählt, dass ich auf ewig König über Israel sein sollte; denn er hat Juda zum Fürsten erwählt, und im Stamm Juda das Haus meines Vaters, und unter den Söhnen meines Vaters hatte er Wohlgefallen an mir, sodass er mich zum König über ganz Israel machte. (28:4).",
+        "Und von allen meinen Söhnen — denn der [DN]Herr[/DN] hat mir viele Söhne gegeben — hat er meinen Sohn Salomo erwählt, dass er auf dem Thron des Königreichs des [DN]Herrn[/DN] über Israel sitzen soll. (28:5).",
         "Und er hat zu mir gesagt: Dein Sohn Salomo soll mein Haus und meine Vorhöfe bauen; denn ihn habe ich mir zum Sohn erwählt, und ich will sein Vater sein. (28:6).",
         "Und ich will sein Königreich auf ewig gründen, wenn er fest dabeibleibt, meine Gebote und Rechte zu halten, wie es heute geschieht. (28:7).",
-        "Nun denn, vor dem ganzen Israel, vor der Gemeinde des HERRN und vor den Ohren unseres Gottes [ermahne ich euch]: Befolgt und erforscht alle Gebote des HERRN, eures Gottes, damit ihr im Besitz des guten Landes bleibt und es euren Kindern nach euch auf ewig vererbt! (28:8).",
-        "Und du, mein Sohn Salomo, erkenne den Gott deines Vaters und diene ihm von ganzem Herzen und mit williger Seele! Denn der HERR erforscht alle Herzen und erkennt alles Trachten der Gedanken. Wenn du ihn suchst, so wird er sich von dir finden lassen; wenn du ihn aber verlässt, so wird er dich verwerfen auf ewig! (28:9).",
-        "So habe nun acht! Denn der HERR hat dich erwählt, [ihm] ein Haus als Heiligtum zu bauen. Sei stark und führe es aus! (28:10).",
+        "Nun denn, vor dem ganzen Israel, vor der Gemeinde des [DN]Herrn[/DN] und vor den Ohren unseres Gottes [ermahne ich euch]: Befolgt und erforscht alle Gebote des [DN]Herrn[/DN], eures Gottes, damit ihr im Besitz des guten Landes bleibt und es euren Kindern nach euch auf ewig vererbt! (28:8).",
+        "Und du, mein Sohn Salomo, erkenne den Gott deines Vaters und diene ihm von ganzem Herzen und mit williger Seele! Denn der [DN]Herr[/DN] erforscht alle Herzen und erkennt alles Trachten der Gedanken. Wenn du ihn suchst, so wird er sich von dir finden lassen; wenn du ihn aber verlässt, so wird er dich verwerfen auf ewig! (28:9).",
+        "So habe nun acht! Denn der [DN]Herr[/DN] hat dich erwählt, [ihm] ein Haus als Heiligtum zu bauen. Sei stark und führe es aus! (28:10).",
         "Und David gab seinem Sohn Salomo den Plan der Vorhalle [des Tempels] und seiner Gebäude, seiner Schatzkammern, seiner Obergemächer, seiner inneren Gemächer und des Raumes für den Sühnedeckel; (28:11).",
-        "auch einen Plan alles dessen, was er durch den Geist in sich trug: nämlich der Vorhöfe des Hauses des HERRN und aller Kammern ringsum für die Schätze des Hauses Gottes und für die Schätze der geweihten Gegenstände; (28:12).",
-        "und [den Plan] für die Abteilungen der Priester und Leviten und für alle Dienstverrichtungen im Haus des HERRN, auch für alle Geräte zum Dienst im Haus des HERRN. (28:13).",
+        "auch einen Plan alles dessen, was er durch den Geist in sich trug: nämlich der Vorhöfe des Hauses des [DN]Herrn[/DN] und aller Kammern ringsum für die Schätze des Hauses Gottes und für die Schätze der geweihten Gegenstände; (28:12).",
+        "und [den Plan] für die Abteilungen der Priester und Leviten und für alle Dienstverrichtungen im Haus des [DN]Herrn[/DN], auch für alle Geräte zum Dienst im Haus des [DN]Herrn[/DN]. (28:13).",
         "Er gab ihm auch Gold nach Bedarf, für die verschiedenen Geräte jedes Dienstes, und [Silber] nach Bedarf für die verschiedenen silbernen Geräte, für die verschiedenen Geräte jedes Dienstes, (28:14).",
         "und den Bedarf für die goldenen Leuchter und ihre goldenen Lampen, was für jeden Leuchter und seine Lampen erforderlich war. So gab er auch den Bedarf für die silbernen Leuchter, für den Leuchter und seine Lampen, was für jeden Leuchter erforderlich war. (28:15).",
         "Auch gab er das Gold für die Schaubrottische, für jeden Tisch sein Gewicht; ebenso auch das Silber für die silbernen Tische. (28:16).",
         "Auch gab er ihm reines Gold für die Gabeln, Becken und Schalen und goldenen Becher, für jeden Becher sein Gewicht; auch für die silbernen Becher, für jeden sein Gewicht. (28:17).",
-        "Und für den Räucheraltar das aller lauterste Gold, nach Bedarf. Er gab ihm auch ein Modell des Wagens, der goldenen Cherubim, die [ihre Flügel] ausbreiten und die Lade des Bundes des HERRN bedecken sollten. (28:18).",
-        "»Über all dies« [sprach David,] »über alle Werke des Planes, hat Er mich durch eine Schrift unterwiesen, weil die Hand des HERRN auf mir war.« (28:19).",
-        "Und David sprach zu seinem Sohn Salomo: »Sei stark und mutig und führe es aus! Fürchte dich nicht und erschrick nicht! Denn Gott, der HERR, mein Gott, ist mit dir und wird dich nicht loslassen, noch dich verlassen, bis du alle Werke für den Dienst am Haus des HERRN vollendet hast! (28:20).",
+        "Und für den Räucheraltar das aller lauterste Gold, nach Bedarf. Er gab ihm auch ein Modell des Wagens, der goldenen Cherubim, die [ihre Flügel] ausbreiten und die Lade des Bundes des [DN]Herrn[/DN] bedecken sollten. (28:18).",
+        "»Über all dies« [sprach David,] »über alle Werke des Planes, hat Er mich durch eine Schrift unterwiesen, weil die Hand des [DN]Herrn[/DN] auf mir war.« (28:19).",
+        "Und David sprach zu seinem Sohn Salomo: »Sei stark und mutig und führe es aus! Fürchte dich nicht und erschrick nicht! Denn Gott, der [DN]Herr[/DN], mein Gott, ist mit dir und wird dich nicht loslassen, noch dich verlassen, bis du alle Werke für den Dienst am Haus des [DN]Herrn[/DN] vollendet hast! (28:20).",
         "Und siehe, da sind die Abteilungen der Priester und Leviten für den ganzen Dienst im Haus Gottes; und für jedes Werk werden Freiwillige mit dir sein, die mit Weisheit ausgerüstet sind für jeden Dienst; auch die Obersten und das ganze Volk stehen dir in allem zu Befehl!« (28:21)."
       ],
       "crossRefs": [
@@ -2421,11 +2349,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David bestimmt Salomo zu seinem Nachfolger Davids Rede vor den führenden Männern Israels"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "Der Bauplan für den Tempel"
+          "text": "Kapitel 28\nDavid gibt den Auftrag zum Tempelbau an Salomo und die Obersten Israels"
         }
       ]
     },
@@ -2436,31 +2360,31 @@
         "1 Chronicles 29:1-30"
       ],
       "summaryBullets": [
-        "Und der König David sprach zu der ganzen Gemeinde: Mein Sohn Salomo, der einzige, den Gott erwählt hat, ist noch jung und zart; das Werk aber ist groß, denn nicht für einen Menschen ist dieser Tempelbau bestimmt, sondern für Gott, den HERRN. (29:1).",
+        "Und der König David sprach zu der ganzen Gemeinde: Mein Sohn Salomo, der einzige, den Gott erwählt hat, ist noch jung und zart; das Werk aber ist groß, denn nicht für einen Menschen ist dieser Tempelbau bestimmt, sondern für Gott, den [DN]Herrn[/DN]. (29:1).",
         "Ich aber habe mit all meiner Kraft für das Haus meines Gottes beschafft: Gold für goldene, Silber für silberne, Erz für eherne, Eisen für eiserne, Holz für hölzerne Geräte, Onyxsteine und Steine für Einfassungen, Steine zur Verzierung und farbige Steine und allerlei Edelsteine und weiße Marmorsteine in Menge. (29:2).",
         "Überdies, weil ich Wohlgefallen habe am Haus meines Gottes, gebe ich, was ich als eigenes Gut an Gold und Silber besitze, für das Haus meines Gottes, zu dem hinzu, was ich für das Haus des Heiligtums herbeigeschafft habe: (29:3).",
         "nämlich 3 000 Talente Gold, Gold aus Ophir, und 7 000 Talente geläutertes Silber, um die Wände des Hauses zu überziehen; (29:4).",
-        "damit golden werde, was golden, und silbern, was silbern sein soll, und für jede Arbeit von der Hand der Künstler. Und wer ist nun willig, heute seine Hand für den HERRN zu füllen? (29:5).",
+        "damit golden werde, was golden, und silbern, was silbern sein soll, und für jede Arbeit von der Hand der Künstler. Und wer ist nun willig, heute seine Hand für den [DN]Herrn[/DN] zu füllen? (29:5).",
         "Da erzeigten sich die Obersten der Vaterhäuser, die Obersten der Stämme Israels, die Obersten der Tausendschaften und der Hundertschaften und die Obersten über die Geschäfte des Königs willig; (29:6).",
         "und sie gaben für den Dienst des Hauses Gottes 5 000 Talente Gold und 10 000 Dareiken und 10 000 Talente Silber, 18 000 Talente Erz und 100 000 Talente Eisen. (29:7).",
-        "Und alle, die Edelsteine besaßen, gaben sie für den Schatz des Hauses des HERRN in die Hand Jechiels, des Gersoniters. (29:8).",
-        "Und das Volk freute sich über ihr freiwilliges Geben; denn sie gaben es dem HERRN von ganzem Herzen, freiwillig. Und auch der König David war hocherfreut. (29:9).",
-        "Und David lobte den HERRN vor der ganzen Gemeinde und sprach: Gelobt seist du, o HERR, du Gott unseres Vaters Israel, von Ewigkeit zu Ewigkeit! (29:10).",
-        "Dein, o HERR, ist die Majestät und die Gewalt und die Herrlichkeit und der Glanz und der Ruhm! Denn alles, was im Himmel und auf Erden ist, das ist dein. Dein, o HERR, ist das Reich, und du bist als Haupt über alles erhaben! (29:11).",
+        "Und alle, die Edelsteine besaßen, gaben sie für den Schatz des Hauses des [DN]Herrn[/DN] in die Hand Jechiels, des Gersoniters. (29:8).",
+        "Und das Volk freute sich über ihr freiwilliges Geben; denn sie gaben es dem [DN]Herrn[/DN] von ganzem Herzen, freiwillig. Und auch der König David war hocherfreut. (29:9).",
+        "Und David lobte den [DN]Herrn[/DN] vor der ganzen Gemeinde und sprach: Gelobt seist du, o [DN]Herr[/DN], du Gott unseres Vaters Israel, von Ewigkeit zu Ewigkeit! (29:10).",
+        "Dein, o [DN]Herr[/DN], ist die Majestät und die Gewalt und die Herrlichkeit und der Glanz und der Ruhm! Denn alles, was im Himmel und auf Erden ist, das ist dein. Dein, o [DN]Herr[/DN], ist das Reich, und du bist als Haupt über alles erhaben! (29:11).",
         "Reichtum und Ehre kommen von dir! Du herrschst über alles; in deiner Hand stehen Kraft und Macht; in deiner Hand steht es, alles groß und stark zu machen! (29:12).",
         "Und nun, unser Gott, wir danken dir und rühmen deinen herrlichen Namen. (29:13).",
         "Denn was bin ich, und was ist mein Volk, dass wir Kraft haben sollten, in solcher Weise freiwillig zu geben? Denn von dir kommt alles, und aus deiner eigenen Hand haben wir dir gegeben. (29:14).",
         "Denn wir sind Fremdlinge und Gäste vor dir, wie alle unsere Väter. Unser Leben auf Erden ist wie ein Schatten und bleibt nicht bestehen. (29:15).",
-        "HERR, unser Gott, dieser ganze Reichtum, den wir bereitgestellt haben, um dir ein Haus zu bauen für deinen heiligen Namen, kommt von deiner Hand, und alles gehört dir. (29:16).",
+        "[DN]Herr[/DN], unser Gott, dieser ganze Reichtum, den wir bereitgestellt haben, um dir ein Haus zu bauen für deinen heiligen Namen, kommt von deiner Hand, und alles gehört dir. (29:16).",
         "Ich weiß, mein Gott, dass du das Herz prüfst, und an Aufrichtigkeit hast du Wohlgefallen; darum habe ich dies alles in Aufrichtigkeit meines Herzens freiwillig gegeben; und ich habe jetzt mit Freuden gesehen, wie dein Volk, das sich hier befindet, dir bereitwillig gegeben hat. (29:17).",
-        "HERR, du Gott unserer Väter Abraham, Isaak und Israel, bewahre ewiglich solchen Sinn und Gedanken im Herzen deines Volkes, und richte ihr Herz fest auf dich! (29:18).",
+        "[DN]Herr[/DN], du Gott unserer Väter Abraham, Isaak und Israel, bewahre ewiglich solchen Sinn und Gedanken im Herzen deines Volkes, und richte ihr Herz fest auf dich! (29:18).",
         "Und gib meinem Sohn Salomo ein ungeteiltes Herz, dass er deine Gebote, deine Zeugnisse und deine Satzungen bewahre und alles ausführe, und dass er diesen Bau errichte, den ich vorbereitet habe! (29:19).",
-        "Und David sprach zu der ganzen Gemeinde: Nun lobt den HERRN, euren Gott! Und die ganze Gemeinde lobte den HERRN, den Gott ihrer Väter; und sie neigten sich und warfen sich nieder vor dem HERRN und vor dem König. (29:20).",
-        "Am folgenden Morgen aber opferten sie dem HERRN Schlachtopfer; und sie opferten dem HERRN Brandopfer, 1 000 Jungstiere, 1 000 Widder, 1 000 Lämmer, samt ihren Trankopfern, dazu Schlachtopfer in Menge für ganz Israel. (29:21).",
-        "Und an jenem Tag aßen und tranken sie vor dem HERRN mit großer Freude; und sie machten Salomo, den Sohn Davids, zum zweiten Mal zum König und salbten ihn dem HERRN zum Fürsten und Zadok zum Priester. (29:22).",
-        "So saß Salomo auf dem Thron des HERRN als König anstelle seines Vaters David. Und er hatte Gedeihen; und ganz Israel war ihm gehorsam. (29:23).",
+        "Und David sprach zu der ganzen Gemeinde: Nun lobt den [DN]Herrn[/DN], euren Gott! Und die ganze Gemeinde lobte den [DN]Herrn[/DN], den Gott ihrer Väter; und sie neigten sich und warfen sich nieder vor dem [DN]Herrn[/DN] und vor dem König. (29:20).",
+        "Am folgenden Morgen aber opferten sie dem [DN]Herrn[/DN] Schlachtopfer; und sie opferten dem [DN]Herrn[/DN] Brandopfer, 1 000 Jungstiere, 1 000 Widder, 1 000 Lämmer, samt ihren Trankopfern, dazu Schlachtopfer in Menge für ganz Israel. (29:21).",
+        "Und an jenem Tag aßen und tranken sie vor dem [DN]Herrn[/DN] mit großer Freude; und sie machten Salomo, den Sohn Davids, zum zweiten Mal zum König und salbten ihn dem [DN]Herrn[/DN] zum Fürsten und Zadok zum Priester. (29:22).",
+        "So saß Salomo auf dem Thron des [DN]Herrn[/DN] als König anstelle seines Vaters David. Und er hatte Gedeihen; und ganz Israel war ihm gehorsam. (29:23).",
         "Und alle Obersten und Gewaltigen, auch alle Söhne des Königs David unterwarfen sich dem König Salomo. (29:24).",
-        "Und der HERR machte Salomo überaus groß vor ganz Israel und verlieh seinem Königtum eine Herrlichkeit, wie sie vor ihm kein König über Israel gehabt hatte. (29:25).",
+        "Und der [DN]Herr[/DN] machte Salomo überaus groß vor ganz Israel und verlieh seinem Königtum eine Herrlichkeit, wie sie vor ihm kein König über Israel gehabt hatte. (29:25).",
         "So regierte David, der Sohn Isais, über ganz Israel. (29:26).",
         "Die Zeit aber, die er über Israel regierte, betrug 40 Jahre; in Hebron regierte er 7 Jahre, und in Jerusalem regierte er 33 Jahre lang. (29:27).",
         "Und er starb in gutem Alter, satt an Leben, Reichtum und Ehre. Und sein Sohn Salomo wurde König an seiner Stelle. (29:28).",
@@ -2510,19 +2434,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Gaben für den Tempelbau"
+          "text": "Kapitel 29\nFreiwillige Gaben für den Tempelbau"
         },
         {
           "beforeVerse": 10,
           "text": "Davids Dankgebet"
         },
         {
-          "beforeVerse": 23,
-          "text": "Salomo – ein mächtiger Herrscher"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "Davids Tod"
+          "beforeVerse": 20,
+          "text": "Salomo wird als König eingesetzt. Davids Lebensende"
         }
       ]
     }

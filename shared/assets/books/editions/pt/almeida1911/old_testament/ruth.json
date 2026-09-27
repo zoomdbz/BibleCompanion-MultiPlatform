@@ -122,6 +122,16 @@
           "verse": 22,
           "text": "Assim Noemi voltou, e com ella Ruth a moabita, sua nora, que voltou dos campos de Moab: e chegaram a Beth-lehem no principio da sega das cevadas."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A família de Elimeleque se muda para Moabe"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Noemi e Rute se mudam para Belém"
+        }
       ]
     },
     {
@@ -244,6 +254,12 @@
           "verse": 23,
           "text": "Assim, ajuntou-se com as moças de Boaz, para colher até que a sega das cevadas e dos trigos se acabou; e ficou com a sua sogra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Rute trabalha no campo de Boaz"
+        }
       ]
     },
     {
@@ -340,6 +356,12 @@
           "chapter": 3,
           "verse": 18,
           "text": "Então disse ella: Está quieta, minha filha, até que saibas como irá o caso, porque aquelle homem não descançará até que conclua hoje este negocio"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O encontro na eira"
         }
       ]
     },
@@ -457,6 +479,16 @@
           "chapter": 4,
           "verse": 22,
           "text": "E Obed gerou a Jessé, e Jessé gerou a David."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Boaz se casa com Rute"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Os descendentes de Boaz"
         }
       ]
     }

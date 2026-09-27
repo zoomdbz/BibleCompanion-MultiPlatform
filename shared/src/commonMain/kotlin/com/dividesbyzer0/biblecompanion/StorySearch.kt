@@ -86,7 +86,8 @@ object StorySearch {
     "daniels_timeline.md" to "daniels_timeline",
     "astronomical_signs.md" to "astronomical_signs",
     "revelation_overview.md" to "revelation_overview",
-    "revelation_timeline.md" to "revelation_timeline"
+    "revelation_timeline.md" to "revelation_timeline",
+    "second_coming_rapture.md" to "second_coming_rapture"
   )
 
   private val bulletRefPattern = Regex("""\((\d+):(\d+)(?:\s*-\s*(\d+))?\)\s*\.?\s*$""")

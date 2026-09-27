@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "language": "de",
+      "bibleId": 157,
+      "reference": "PSA.13",
+      "collection": "old_testament",
+      "bookId": "psalms",
+      "expectedLocalStorySha256": "64d706608053b66e420462225140c1e93e6b009af36eae773ccfa889a03f2cb7",
+      "expectedLocalRangeCount": 6,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "SCH2000 Psalm 13 uses its superscription as native verse 1. The prior app chapter omitted that unit, shifted verses 1-5 one native marker early, and duplicated the closing line at verse 6. This reviewed row permits one exact-hash replacement from the rendered SCH2000 native units and semantics."
+    },
+    {
+      "language": "fr",
+      "bibleId": 104,
+      "reference": "MAL.3",
+      "collection": "old_testament",
+      "bookId": "malachi",
+      "expectedLocalStorySha256": "9aed5d7186ff26c36da103258ade813e7abc84baae8b6fc624b31648bbe15d49",
+      "expectedLocalRangeCount": 24,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "The exact prior Malachi 3 story mixes stale wording into NBS native verses 19-24, so ordinary range matching cannot safely align divine-name spans. This reviewed row permits one exact-hash replacement from the rendered NBS native units and semantics."
+    },
+    {
+      "language": "fr",
+      "bibleId": 104,
+      "reference": "PSA.13",
+      "collection": "old_testament",
+      "bookId": "psalms",
+      "expectedLocalStorySha256": "4265a7d35774f4a23287e7fd1d547d185188ca8c58260c544f34bfa68ea2f5a2",
+      "expectedLocalRangeCount": 6,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "NBS Psalm 13 includes its superscription in the native numbered units. The exact prior app chapter omitted that unit and shifted the remaining text, so this reviewed row permits one exact-hash replacement from the rendered NBS native units and semantics."
+    },
+    {
+      "language": "fr",
+      "bibleId": 104,
+      "reference": "SNG.8",
+      "collection": "old_testament",
+      "bookId": "song_of_songs",
+      "expectedLocalStorySha256": "34cb0ff975fc3b6b51c70638d2cc2161c45d2dd8cfcf2daaafb8f41157d4917a",
+      "expectedLocalRangeCount": 14,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "The exact prior Song of Songs 8 story contains stale non-NBS wording throughout the chapter. This reviewed row permits one exact-hash replacement from the rendered NBS native units while preserving native ranges and source-proven semantics."
+    },
+    {
+      "language": "it",
+      "bibleId": 122,
+      "reference": "SNG.8",
+      "collection": "old_testament",
+      "bookId": "song_of_songs",
+      "expectedLocalStorySha256": "06938d19d1da1da334c7b8e80a915d8c108e700e75dbc072cf140287206fde01",
+      "expectedLocalRangeCount": 14,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "The exact prior Song of Songs 8 story contains stale non-NR06 wording in all fourteen native units. This reviewed row permits one exact-hash replacement from rendered NR06 while retaining the intact native 1-14 range inventory and source-proven semantics."
+    },
+    {
+      "language": "pt",
+      "bibleId": 1930,
+      "reference": "SNG.8",
+      "collection": "old_testament",
+      "bookId": "song_of_songs",
+      "expectedLocalStorySha256": "42753c86ab0f3cb712d623c95cf3cb71b51057b5dbd288c7a2a98b7232f5c8b0",
+      "expectedLocalRangeCount": 14,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "The exact prior Song of Songs 8 story contains stale non-NVT wording in all fourteen native units. This reviewed row permits one exact-hash replacement from rendered NVT while retaining the intact native 1-14 range inventory, seven already-matching headings, and source-proven semantics."
+    },
+    {
+      "language": "zh-Hans",
+      "bibleId": 36,
+      "reference": "SNG.8",
+      "collection": "old_testament",
+      "bookId": "song_of_songs",
+      "expectedLocalStorySha256": "9c20eb44ccf746a6025ffad03a21aea476d438331741811124fa4e6d43926bb5",
+      "expectedLocalRangeCount": 14,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "The exact prior Song of Songs 8 story retains older Chinese Union wording rather than the selected Simplified-script CCB edition in all fourteen native units. This one-shot hash-bound row permits the rendered CCB replacement without carrying a former divine-name sentinel into a different publisher reading."
+    },
+    {
+      "language": "zh-Hant",
+      "bibleId": 139,
+      "reference": "SNG.8",
+      "collection": "old_testament",
+      "bookId": "song_of_songs",
+      "expectedLocalStorySha256": "b27edbdee1178ae1113c8592856459b2f628547b7dd8e068732b7ea31eb3cc89",
+      "expectedLocalRangeCount": 14,
+      "expectedLocalAppTagOpenCounts": {
+        "J": 0,
+        "ADD": 0,
+        "DN": 0
+      },
+      "reason": "The exact prior Song of Songs 8 story does not match the selected Traditional-script RCUV edition in any of its fourteen native units. This one-shot story-hash-bound row permits exact rendered RCUV replacement without importing text from Simplified-script CCB or retaining superseded divine-name wording."
+    }
+  ]
+}

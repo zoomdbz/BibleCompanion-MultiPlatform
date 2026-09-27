@@ -66,11 +66,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Deus fala a Josué e anima-o"
+          "text": "A ordem de Deus a Josué"
         },
         {
           "beforeVerse": 10,
-          "text": "Preparação para atravessar o Jordão"
+          "text": "A ordem de Josué a Israel"
         }
       ]
     },
@@ -144,7 +144,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Espias mandados a Jericó. Raabe"
+          "text": "Raabe ajuda os espiões israelitas"
         }
       ]
     },
@@ -211,7 +211,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A passagem do Jordão"
+          "text": "Israel atravessa o Jordão"
         }
       ]
     },
@@ -280,7 +280,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As doze pedras tiradas do meio do Jordão"
+          "text": "Os monumentos da travessia do Jordão"
         }
       ]
     },
@@ -344,16 +344,12 @@
       "keyTakeaway": "Os reis amorreus e cananeus ouvem falar da travessia de Israel e perdem o ânimo; Josué circuncida a nova geração em Gilgal, celebra a Páscoa e encontra o comandante do exército do SENHOR perto de Jericó. Israel come os produtos de Canaã, e o maná cessa.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "A circuncisão dos filhos de Israel"
-        },
-        {
-          "beforeVerse": 10,
-          "text": "Celebra-se a Páscoa"
+          "beforeVerse": 2,
+          "text": "Israel restabelece cerimônias da aliança"
         },
         {
           "beforeVerse": 13,
-          "text": "Deus aparece a Josué"
+          "text": "O comandante do S\nenhor\nconfronta Josué"
         }
       ]
     },
@@ -430,11 +426,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A destruição de Jericó"
-        },
-        {
-          "beforeVerse": 22,
-          "text": "Raabe é salva"
+          "text": "A queda de Jericó"
         }
       ]
     },
@@ -510,7 +502,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os israelitas derrotados em Ai. Acã"
+          "text": "Ai derrota os israelitas"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "O pecado de Acã"
         }
       ]
     },
@@ -595,11 +591,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ai é destruída"
+          "text": "Os israelitas derrotam Ai"
         },
         {
           "beforeVerse": 30,
-          "text": "Renovação da aliança"
+          "text": "A renovação da aliança do S\nenhor"
         }
       ]
     },
@@ -676,7 +672,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O estratagema dos gibeonitas"
+          "text": "Os gibeonitas enganam Israel"
         }
       ]
     },
@@ -774,23 +770,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Gibeão sitiada por cinco reis"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Josué socorre a Gibeão"
-        },
-        {
-          "beforeVerse": 12,
-          "text": "O sol e a lua são detidos"
+          "text": "Israel derrota os exércitos do sul"
         },
         {
           "beforeVerse": 16,
-          "text": "Josué prende os cinco reis e mata-os"
+          "text": "Josué executa os cinco reis do sul"
         },
         {
           "beforeVerse": 28,
-          "text": "Josué vence mais sete reis"
+          "text": "Israel destrói as cidades do sul"
         }
       ]
     },
@@ -863,7 +851,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Outras vitórias de Josué"
+          "text": "Israel derrota os exércitos do norte"
         }
       ]
     },
@@ -937,11 +925,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os reis vencidos por Moisés"
+          "text": "Reis derrotados a leste do Jordão"
         },
         {
           "beforeVerse": 7,
-          "text": "Os reis vencidos por Josué"
+          "text": "Reis derrotados a oeste do Jordão"
         }
       ]
     },
@@ -1024,11 +1012,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As terras ainda não conquistadas"
+          "text": "A terra ainda por conquistar"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "A terra dividida a leste do Jordão"
         },
         {
           "beforeVerse": 14,
-          "text": "As heranças distribuídas por Moisés"
+          "text": "Uma herança para a tribo de Levi"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "A terra entregue à tribo de Rúben"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "A terra entregue à tribo de Gade"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "A terra entregue à meia tribo de Manassés"
         }
       ]
     },
@@ -1093,11 +1097,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A terra de Canaã distribuída por sorte"
+          "text": "A terra dividida a oeste do Jordão"
         },
         {
           "beforeVerse": 6,
-          "text": "Josué dá Hebrom a Calebe"
+          "text": "Calebe pede sua terra"
         }
       ]
     },
@@ -1210,15 +1214,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As heranças das nove tribos e meia A herança de Judá"
+          "text": "A terra entregue à tribo de Judá"
         },
         {
           "beforeVerse": 13,
-          "text": "Calebe conquista Hebrom"
+          "text": "A terra entregue a Calebe"
         },
         {
           "beforeVerse": 20,
-          "text": "As cidades de Judá"
+          "text": "As cidades separadas para Judá"
         }
       ]
     },
@@ -1273,7 +1277,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A herança de Efraim"
+          "text": "A terra entregue a Efraim e a Manassés ocidental"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "A terra entregue a Efraim"
         }
       ]
     },
@@ -1341,7 +1349,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A herança da meia tribo de Manassés"
+          "text": "A terra entregue a Manassés ocidental"
         }
       ]
     },
@@ -1414,15 +1422,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O resto da terra dividido em sete partes"
+          "text": "Distribuição do restante da terra"
         },
         {
           "beforeVerse": 11,
-          "text": "A herança de Benjamim"
+          "text": "A terra entregue a Benjamim"
         },
         {
           "beforeVerse": 21,
-          "text": "As cidades de Benjamim"
+          "text": "As cidades entregues a Benjamim"
         }
       ]
     },
@@ -1523,31 +1531,31 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A herança de Simeão"
+          "text": "A terra entregue a Simeão"
         },
         {
           "beforeVerse": 10,
-          "text": "A herança de Zebulom"
+          "text": "A terra entregue a Zebulom"
         },
         {
           "beforeVerse": 17,
-          "text": "A herança de Issacar"
+          "text": "A terra entregue a Issacar"
         },
         {
           "beforeVerse": 24,
-          "text": "A herança de Aser"
+          "text": "A terra entregue a Aser"
         },
         {
           "beforeVerse": 32,
-          "text": "A herança de Naftali"
+          "text": "A terra entregue a Naftali"
         },
         {
           "beforeVerse": 40,
-          "text": "A herança de Dã"
+          "text": "A terra entregue a Dã"
         },
         {
           "beforeVerse": 49,
-          "text": "A herança de Josué"
+          "text": "A terra entregue a Josué"
         }
       ]
     },
@@ -1606,7 +1614,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Estabelecem-se as cidades de refúgio"
+          "text": "As cidades de refúgio"
         }
       ]
     },
@@ -1701,7 +1709,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As cidades dos levitas"
+          "text": "As cidades entregues aos levitas"
         }
       ]
     },
@@ -1780,11 +1788,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Josué abençoa e manda para casa as duas tribos e meia"
+          "text": "As tribos do leste voltam para casa"
         },
         {
           "beforeVerse": 10,
-          "text": "O altar junto ao Jordão"
+          "text": "As tribos do leste constroem um altar"
         }
       ]
     },
@@ -1850,7 +1858,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Josué exorta o povo a observar a Lei do Senhor"
+          "text": "As palavras finais de Josué a Israel"
         }
       ]
     },
@@ -1938,19 +1946,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Josué despede-se do povo"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "Renovação da aliança"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "A pedra-testemunha"
+          "text": "A renovação da aliança do S\nenhor"
         },
         {
           "beforeVerse": 29,
-          "text": "A morte de Josué e de Eleazar"
+          "text": "Líderes sepultados na terra prometida"
         }
       ]
     }

@@ -72,7 +72,7 @@
         },
         {
           "beforeVerse": 18,
-          "text": "Nacimiento de Jesucristo"
+          "text": "El nacimiento de Jesucristo"
         }
       ]
     },
@@ -143,11 +143,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "La visita de los magos"
+          "text": "La visita de los sabios"
         },
         {
           "beforeVerse": 13,
-          "text": "Matanza de los niños"
+          "text": "La huida a Egipto"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "El regreso a Israel"
         }
       ]
     },
@@ -229,11 +233,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Predicación de Juan el Bautista"
+          "text": "Juan el Bautista prepara el camino"
         },
         {
           "beforeVerse": 13,
-          "text": "El bautismo de Jesús"
+          "text": "Bautismo de Jesús"
         }
       ]
     },
@@ -306,7 +310,15 @@
         },
         {
           "beforeVerse": 12,
-          "text": "Jesús principia su ministerio"
+          "text": "Jesús comienza a predicar"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Jesús llama a sus primeros discípulos"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Jesús sana a los enfermos"
         }
       ]
     },
@@ -319,14 +331,14 @@
       "summaryBullets": [
         "Cuando Jesús vio a las multitudes, subió a la ladera de una montaña y se sentó. Sus discípulos se le acercaron, (5:1).",
         "y tomando él la palabra, comenzó a enseñarles diciendo: (5:2).",
-        "[J]«Dichosos los pobres en espíritu, porque el reino de los cielos les pertenece.[/J] (5:3).",
-        "[J]Dichosos los que sufren, porque serán consolados.[/J] (5:4).",
-        "[J]Dichosos los humildes, porque recibirán la tierra como herencia.[/J] (5:5).",
-        "[J]Dichosos los que tienen hambre y sed de justicia, porque serán saciados.[/J] (5:6).",
-        "[J]Dichosos los compasivos, porque serán tratados con compasión.[/J] (5:7).",
-        "[J]Dichosos los de corazón limpio, porque ellos verán a Dios.[/J] (5:8).",
-        "[J]Dichosos los que trabajan por la paz, porque serán llamados hijos de Dios.[/J] (5:9).",
-        "[J]Dichosos los perseguidos por causa de la justicia, porque el reino de los cielos les pertenece.[/J] (5:10).",
+        "[J]«Dichosos los pobres en espíritu,[/J] [J]porque el reino de los cielos les pertenece.[/J] (5:3).",
+        "[J]Dichosos los que sufren,[/J] [J]porque serán consolados.[/J] (5:4).",
+        "[J]Dichosos los humildes,[/J] [J]porque recibirán la tierra como herencia.[/J] (5:5).",
+        "[J]Dichosos los que tienen hambre y sed de justicia,[/J] [J]porque serán saciados.[/J] (5:6).",
+        "[J]Dichosos los compasivos,[/J] [J]porque serán tratados con compasión.[/J] (5:7).",
+        "[J]Dichosos los de corazón limpio,[/J] [J]porque ellos verán a Dios.[/J] (5:8).",
+        "[J]Dichosos los que trabajan por la paz,[/J] [J]porque serán llamados hijos de Dios.[/J] (5:9).",
+        "[J]Dichosos los perseguidos por causa de la justicia,[/J] [J]porque el reino de los cielos les pertenece.[/J] (5:10).",
         "[J]»Dichosos serán ustedes cuando por mi causa la gente los insulte, los persiga y levante contra ustedes toda clase de calumnias.[/J] (5:11).",
         "[J]Alégrense y llénense de júbilo, porque les espera una gran recompensa en el cielo. Así también persiguieron a los profetas que los precedieron a ustedes.[/J] (5:12).",
         "[J]»Ustedes son la sal de la tierra. Pero, si la sal pierde su sabor, ¿cómo lo recobrará? Ya no sirve para nada, sino para que la gente la deseche y la pisotee.[/J] (5:13).",
@@ -337,8 +349,8 @@
         "[J]Les aseguro que, mientras existan el cielo y la tierra, ni una letra ni una tilde de la Ley desaparecerán hasta que todo se haya cumplido.[/J] (5:18).",
         "[J]Todo el que infrinja uno solo de estos mandamientos, por pequeño que sea, y enseñe a otros a hacer lo mismo, será considerado el más pequeño en el reino de los cielos; pero el que los practique y enseñe será considerado grande en el reino de los cielos.[/J] (5:19).",
         "[J]Porque les digo a ustedes que no van a entrar en el reino de los cielos a menos que su justicia supere la de los fariseos y la de los maestros de la Ley.[/J] (5:20).",
-        "[J]»Ustedes han oído que se dijo a sus antepasados: “No mates”. También se les dijo que todo el que mate quedará sujeto al juicio del tribunal.[/J] (5:21).",
-        "[J]Pero yo les digo que todo el que se enoje con su hermano quedará sujeto al juicio del tribunal. Es más, cualquiera que insulte a su hermano quedará sujeto al juicio del Consejo. Y cualquiera que le diga: “Insensato”, quedará sujeto al fuego del infierno.[/J] (5:22).",
+        "[J]»Ustedes han oído que se dijo a sus antepasados: “No mates”.[/J] [J]También se les dijo que todo el que mate quedará sujeto al juicio del tribunal.[/J] (5:21).",
+        "[J]Pero yo les digo que todo el que se enoje[/J] [J]con su hermano quedará sujeto al juicio del tribunal. Es más, cualquiera que insulte[/J] [J]a su hermano quedará sujeto al juicio del Consejo. Y cualquiera que le diga: “Insensato”, quedará sujeto al fuego del infierno.[/J] (5:22).",
         "[J]»Por lo tanto, si estás presentando tu ofrenda en el altar y allí recuerdas que tu hermano tiene algo contra ti,[/J] (5:23).",
         "[J]deja tu ofrenda allí delante del altar. Ve primero y reconcíliate con tu hermano; luego vuelve y presenta tu ofrenda.[/J] (5:24).",
         "[J]»Si tu adversario te va a denunciar, llega a un acuerdo con él lo más pronto posible. Hazlo mientras vayan de camino al juzgado, no sea que te entregue al juez, y el juez al guardia, y te echen en la cárcel.[/J] (5:25).",
@@ -357,9 +369,9 @@
         "[J]»Ustedes han oído que se dijo: “Ojo por ojo y diente por diente”.[/J] (5:38).",
         "[J]Pero yo les digo: no resistan al que les haga mal. Si alguien te da una bofetada en la mejilla derecha, vuélvele también la otra.[/J] (5:39).",
         "[J]Si alguien te pone pleito para quitarte la capa, déjale también la camisa.[/J] (5:40).",
-        "[J]Si alguien te obliga a llevarle la carga una milla, llévasela dos.[/J] (5:41).",
+        "[J]Si alguien te obliga a llevarle la carga una milla,[/J] [J]llévasela dos.[/J] (5:41).",
         "[J]Al que te pida, dale; y al que quiera tomar de ti prestado, no le vuelvas la espalda.[/J] (5:42).",
-        "[J]»Ustedes han oído que se dijo: “Ama a tu prójimo y odia a tu enemigo”.[/J] (5:43).",
+        "[J]»Ustedes han oído que se dijo: “Ama a tu prójimo[/J] [J]y odia a tu enemigo”.[/J] (5:43).",
         "[J]Pero yo les digo: amen a sus enemigos y oren por quienes los persiguen,[/J] (5:44).",
         "[J]para que sean hijos de su Padre que está en los cielos. Él hace que salga el sol sobre malos y buenos, y que llueva sobre justos e injustos.[/J] (5:45).",
         "[J]Si ustedes aman solamente a quienes los aman, ¿qué recompensa recibirán? ¿Acaso no hacen eso hasta los recaudadores de impuestos?[/J] (5:46).",
@@ -412,39 +424,39 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "El Sermón del monte: Las bienaventuranzas"
+          "text": "Las bienaventuranzas"
         },
         {
           "beforeVerse": 13,
-          "text": "La sal de la tierra"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "La luz del mundo"
+          "text": "La sal y la luz"
         },
         {
           "beforeVerse": 17,
-          "text": "Jesús y la ley"
+          "text": "El cumplimiento de la Ley"
         },
         {
           "beforeVerse": 21,
-          "text": "Jesús y la ira"
+          "text": "El homicidio"
         },
         {
           "beforeVerse": 27,
-          "text": "Jesús y el adulterio"
+          "text": "El adulterio"
         },
         {
           "beforeVerse": 31,
-          "text": "Jesús y el divorcio"
+          "text": "El divorcio"
         },
         {
           "beforeVerse": 33,
-          "text": "Jesús y los juramentos"
+          "text": "Los juramentos"
         },
         {
           "beforeVerse": 38,
-          "text": "El amor hacia los enemigos"
+          "text": "Ojo por ojo"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "El amor a los enemigos"
         }
       ]
     },
@@ -463,11 +475,11 @@
         "[J]Pero tú, cuando te pongas a orar, entra en tu cuarto, cierra la puerta y ora a tu Padre, que está en lo secreto. Así tu Padre, que ve lo que se hace en secreto, te recompensará.[/J] (6:6).",
         "[J]Y, al orar, no hablen solo por hablar como hacen los gentiles, porque ellos se imaginan que serán escuchados por sus muchas palabras.[/J] (6:7).",
         "[J]No sean como ellos, porque su Padre sabe lo que ustedes necesitan antes de que se lo pidan.[/J] (6:8).",
-        "[J]»Ustedes deben orar así: »“Padre nuestro que estás en el cielo, santificado sea tu nombre.[/J] (6:9).",
-        "[J]Venga tu reino. Hágase tu voluntad en la tierra como en el cielo.[/J] (6:10).",
+        "[J]»Ustedes deben orar así:[/J] [J]»“Padre nuestro que estás en el cielo,[/J] [J]santificado sea tu nombre.[/J] (6:9).",
+        "[J]Venga tu reino.[/J] [J]Hágase tu voluntad[/J] [J]en la tierra como en el cielo.[/J] (6:10).",
         "[J]Danos hoy nuestro pan cotidiano.[/J] (6:11).",
-        "[J]Perdónanos nuestras ofensas, como también nosotros hemos perdonado a nuestros ofensores.[/J] (6:12).",
-        "[J]Y no nos dejes caer en tentación, sino líbranos del maligno”.[/J] (6:13).",
+        "[J]Perdónanos nuestras ofensas,[/J] [J]como también nosotros hemos perdonado a nuestros ofensores.[/J] (6:12).",
+        "[J]Y no nos dejes caer en tentación,[/J] [J]sino líbranos del maligno”.[/J] (6:13).",
         "[J]»Porque, si perdonan a otros sus ofensas, también los perdonará a ustedes su Padre celestial.[/J] (6:14).",
         "[J]Pero, si no perdonan a otros sus ofensas, tampoco su Padre perdonará a ustedes las suyas.[/J] (6:15).",
         "[J]»Cuando ayunen, no pongan cara triste como hacen los hipócritas, que cambian sus rostros para mostrar que están ayunando. Les aseguro que estos ya han obtenido toda su recompensa.[/J] (6:16).",
@@ -521,31 +533,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesús y la limosna"
+          "text": "El dar a los necesitados"
         },
         {
           "beforeVerse": 5,
-          "text": "Jesús y la oración"
+          "text": "La oración"
         },
         {
           "beforeVerse": 16,
-          "text": "Jesús y el ayuno"
+          "text": "El ayuno"
         },
         {
           "beforeVerse": 19,
           "text": "Tesoros en el cielo"
         },
         {
-          "beforeVerse": 22,
-          "text": "La lámpara del cuerpo"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "Dios y las riquezas"
-        },
-        {
           "beforeVerse": 25,
-          "text": "El afán y la ansiedad"
+          "text": "De nada sirve preocuparse"
         }
       ]
     },
@@ -616,23 +620,19 @@
         },
         {
           "beforeVerse": 7,
-          "text": "La oración, y la regla de oro"
+          "text": "Pidan, busquen, llamen"
         },
         {
           "beforeVerse": 13,
-          "text": "La puerta estrecha"
+          "text": "La puerta estrecha y la puerta ancha"
         },
         {
           "beforeVerse": 15,
-          "text": "Por sus frutos los conoceréis"
-        },
-        {
-          "beforeVerse": 21,
-          "text": "Nunca os conocí"
+          "text": "El árbol y sus frutos"
         },
         {
           "beforeVerse": 24,
-          "text": "Los dos cimientos"
+          "text": "El prudente y el insensato"
         }
       ]
     },
@@ -704,27 +704,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesús sana a un leproso"
+          "text": "Jesús sana a un enfermo de la piel"
         },
         {
           "beforeVerse": 5,
-          "text": "Jesús sana al siervo de un centurión"
+          "text": "La fe del centurión"
         },
         {
           "beforeVerse": 14,
-          "text": "Jesús sana a la suegra de Pedro"
+          "text": "Jesús sana a muchos enfermos"
         },
         {
           "beforeVerse": 18,
-          "text": "Los que querían seguir a Jesús"
+          "text": "Lo que cuesta seguir a Jesús"
         },
         {
           "beforeVerse": 23,
-          "text": "Jesús calma la tempestad"
+          "text": "Jesús calma la tormenta"
         },
         {
           "beforeVerse": 28,
-          "text": "Los endemoniados gadarenos"
+          "text": "Liberación de dos endemoniados"
         }
       ]
     },
@@ -747,7 +747,7 @@
         "Mientras Jesús estaba a la mesa en casa de Mateo, muchos recaudadores de impuestos y pecadores llegaron y comieron con él y sus discípulos. (9:10).",
         "Cuando los fariseos vieron esto, les preguntaron a sus discípulos: ―¿Por qué come su maestro con recaudadores de impuestos y con pecadores? (9:11).",
         "Al oír esto, Jesús les contestó: [J]―No son los sanos los que necesitan médico, sino los enfermos.[/J] (9:12).",
-        "[J]Pero vayan y aprendan qué significa esto: “Lo que pido de ustedes es misericordia y no sacrificios”. Porque no he venido a llamar a justos, sino a pecadores.[/J] (9:13).",
+        "[J]Pero vayan y aprendan qué significa esto: “Lo que pido de ustedes es misericordia y no sacrificios”.[/J] [J]Porque no he venido a llamar a justos, sino a pecadores.[/J] (9:13).",
         "Un día se acercaron los discípulos de Juan y le preguntaron: ―¿Cómo es que nosotros y los fariseos ayunamos, pero no así tus discípulos? (9:14).",
         "Jesús les contestó: [J]―¿Acaso pueden estar de luto los invitados del novio mientras él está con ellos? Llegará el día en que se les quitará el novio; entonces sí ayunarán.[/J] (9:15).",
         "[J]Nadie remienda un vestido viejo con un retazo de tela nueva, porque el remiendo fruncirá el vestido y la rotura se hará peor.[/J] (9:16).",
@@ -804,27 +804,23 @@
         },
         {
           "beforeVerse": 9,
-          "text": "Llamamiento de Mateo"
+          "text": "El llamamiento de Mateo"
         },
         {
           "beforeVerse": 14,
-          "text": "La pregunta sobre el ayuno"
+          "text": "Preguntan a Jesús sobre el ayuno"
         },
         {
           "beforeVerse": 18,
-          "text": "La hija de Jairo, y la mujer que tocó el manto de Jesús"
+          "text": "Una niña muerta y una mujer enferma"
         },
         {
           "beforeVerse": 27,
-          "text": "Dos ciegos reciben la vista"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "Un mudo habla"
+          "text": "Jesús sana a los ciegos y a los mudos"
         },
         {
           "beforeVerse": 35,
-          "text": "La mies es mucha"
+          "text": "Son pocos los obreros"
         }
       ]
     },
@@ -862,18 +858,18 @@
         "[J]Basta con que el discípulo sea como su maestro y el siervo como su amo. Si al jefe de la casa lo han llamado Beelzebú, ¡cuánto más a los de su familia![/J] (10:25).",
         "[J]»Así que no les tengan miedo, porque no hay nada encubierto que no llegue a revelarse, como tampoco hay nada escondido que no llegue a conocerse.[/J] (10:26).",
         "[J]Lo que les digo en la oscuridad, díganlo ustedes a plena luz; lo que se les susurra al oído, proclámenlo desde las azoteas.[/J] (10:27).",
-        "[J]No teman a los que matan el cuerpo, pero no pueden matar el alma. Teman más bien al que puede destruir alma y cuerpo en el infierno.[/J] (10:28).",
-        "[J]¿No se venden dos gorriones por una monedita? Sin embargo, ni uno de ellos caerá a tierra sin que lo permita el Padre.[/J] (10:29).",
+        "[J]No teman a los que matan el cuerpo, pero no pueden matar el alma.[/J] [J]Teman más bien al que puede destruir alma y cuerpo en el infierno.[/J] (10:28).",
+        "[J]¿No se venden dos gorriones por una monedita?[/J] [J]Sin embargo, ni uno de ellos caerá a tierra sin que lo permita el Padre.[/J] (10:29).",
         "[J]Él les tiene contados aun los cabellos de la cabeza.[/J] (10:30).",
         "[J]Así que no tengan miedo; ustedes valen más que muchos gorriones.[/J] (10:31).",
         "[J]»A cualquiera que me confiese delante de los demás yo también lo confesaré delante de mi Padre que está en el cielo.[/J] (10:32).",
         "[J]Pero a cualquiera que me niegue delante de los demás yo también lo negaré delante de mi Padre que está en el cielo.[/J] (10:33).",
         "[J]»No crean que he venido a traer paz a la tierra. No vine a traer paz, sino espada.[/J] (10:34).",
-        "[J]Porque he venido a poner en conflicto »“al hombre contra su padre, a la hija contra su madre, a la nuera contra su suegra;[/J] (10:35).",
-        "[J]los enemigos de cada cual serán los de su propia familia”.[/J] (10:36).",
+        "[J]Porque he venido a poner en conflicto[/J] [J]»“al hombre contra su padre,[/J] [J]a la hija contra su madre,[/J] [J]a la nuera contra su suegra;[/J] (10:35).",
+        "[J]los enemigos de cada cual[/J] [J]serán los de su propia familia”.[/J] (10:36).",
         "[J]»El que quiere a su padre o a su madre más que a mí no es digno de mí; el que quiere a su hijo o a su hija más que a mí no es digno de mí;[/J] (10:37).",
         "[J]y el que no toma su cruz y me sigue no es digno de mí.[/J] (10:38).",
-        "[J]El que se aferre a su vida la perderá; y el que pierda su vida por mi causa la encontrará.[/J] (10:39).",
+        "[J]El que se aferre a su vida la perderá; y el que pierda[/J] [J]su vida por mi causa la encontrará.[/J] (10:39).",
         "[J]»Quien los recibe a ustedes me recibe a mí y quien me recibe a mí recibe al que me envió.[/J] (10:40).",
         "[J]Cualquiera que recibe a un profeta por tratarse de un profeta recibirá recompensa de profeta; y el que recibe a un justo por tratarse de un justo recibirá recompensa de justo.[/J] (10:41).",
         "[J]Y quien dé siquiera un vaso de agua fresca a uno de estos pequeños por tratarse de uno de mis discípulos, les aseguro que no perderá su recompensa».[/J] (10:42)."
@@ -914,27 +910,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Elección de los doce apóstoles"
+          "text": "Jesús envía a los doce"
         },
         {
-          "beforeVerse": 5,
-          "text": "Misión de los doce"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "Persecuciones venideras"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "A quién se debe temer"
-        },
-        {
-          "beforeVerse": 34,
-          "text": "Jesús, causa de división"
-        },
-        {
-          "beforeVerse": 40,
-          "text": "Recompensas"
+          "beforeVerse": 32,
+          "text": "Reconocer a Jesús"
         }
       ]
     },
@@ -954,20 +934,20 @@
         "Mientras se iban los discípulos de Juan, Jesús comenzó a hablarle a la multitud acerca de Juan: [J]«¿Qué salieron a ver al desierto? ¿Una caña sacudida por el viento?[/J] (11:7).",
         "[J]Si no, ¿qué salieron a ver? ¿A un hombre vestido con ropa fina? Claro que no, pues los que usan ropa de lujo están en los palacios de los reyes.[/J] (11:8).",
         "[J]Entonces, ¿qué salieron a ver? ¿A un profeta? Sí, les digo, y más que profeta.[/J] (11:9).",
-        "[J]Este es de quien está escrito: »“Yo estoy por enviar a mi mensajero delante de ti, el cual preparará tu camino”.[/J] (11:10).",
+        "[J]Este es de quien está escrito:[/J] [J]»“Yo estoy por enviar a mi mensajero delante de ti,[/J] [J]el cual preparará tu camino”.[/J] (11:10).",
         "[J]Les aseguro que entre los mortales no se ha levantado nadie más grande que Juan el Bautista; sin embargo, el más pequeño en el reino de los cielos es más grande que él.[/J] (11:11).",
         "[J]Desde los días de Juan el Bautista hasta ahora, el reino de los cielos ha venido avanzando contra viento y marea, y los que se esfuerzan logran aferrarse a él.[/J] (11:12).",
         "[J]Porque todos los Profetas y la Ley profetizaron hasta Juan.[/J] (11:13).",
         "[J]Y, si quieren aceptar mi palabra, Juan es el Elías que había de venir.[/J] (11:14).",
         "[J]El que tenga oídos, que oiga.[/J] (11:15).",
         "[J]»¿Con qué puedo comparar a esta generación? Se parece a los niños sentados en la plaza que gritan a los demás:[/J] (11:16).",
-        "[J]»“Tocamos la flauta y ustedes no bailaron; cantamos por los muertos y ustedes no lloraron”.[/J] (11:17).",
+        "[J]»“Tocamos la flauta[/J] [J]y ustedes no bailaron;[/J] [J]cantamos por los muertos[/J] [J]y ustedes no lloraron”.[/J] (11:17).",
         "[J]»Porque vino Juan, que no comía ni bebía, y ellos dicen: “Tiene un demonio”.[/J] (11:18).",
         "[J]Vino el Hijo del hombre, que come y bebe, y dicen: “Este es un glotón y un borracho, amigo de recaudadores de impuestos y de pecadores”. Pero la sabiduría queda demostrada por sus hechos».[/J] (11:19).",
         "Entonces comenzó Jesús a denunciar a las ciudades en que había hecho la mayor parte de sus milagros, porque no se habían arrepentido. (11:20).",
         "[J]«¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Si se hubieran hecho en Tiro y en Sidón los milagros que se hicieron en medio de ustedes, ya hace tiempo que se habrían arrepentido con muchos lamentos.[/J] (11:21).",
         "[J]Pero les digo que en el día del juicio será más tolerable el castigo para Tiro y Sidón que para ustedes.[/J] (11:22).",
-        "[J]Y tú, Capernaúm, ¿acaso serás levantada hasta el cielo? No, sino que descenderás hasta los dominios de la muerte. Si los milagros que se hicieron en ti se hubieran hecho en Sodoma, esta habría permanecido hasta el día de hoy.[/J] (11:23).",
+        "[J]Y tú, Capernaúm, ¿acaso serás levantada hasta el cielo? No, sino que descenderás hasta los dominios de la muerte.[/J] [J]Si los milagros que se hicieron en ti se hubieran hecho en Sodoma, esta habría permanecido hasta el día de hoy.[/J] (11:23).",
         "[J]Pero digo que en el día del juicio será más tolerable el castigo para Sodoma que para ti».[/J] (11:24).",
         "En aquel tiempo Jesús dijo: [J]«Te alabo, Padre, Señor del cielo y de la tierra, porque habiendo escondido estas cosas de los sabios e instruidos, se las has revelado a los niños.[/J] (11:25).",
         "[J]Sí, Padre, porque esa fue tu buena voluntad.[/J] (11:26).",
@@ -1007,15 +987,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Los mensajeros de Juan el Bautista"
+          "text": "Jesús y Juan el Bautista"
         },
         {
           "beforeVerse": 20,
-          "text": "Ayes sobre las ciudades impenitentes"
+          "text": "Reproches contra ciudades no arrepentidas"
         },
         {
           "beforeVerse": 25,
-          "text": "Venid a mí y descansad"
+          "text": "Descanso para los cansados"
         }
       ]
     },
@@ -1032,7 +1012,7 @@
         "[J]Entró en la casa de Dios; él y sus compañeros comieron los panes consagrados a Dios, lo que no se les permitía a ellos, sino solo a los sacerdotes.[/J] (12:4).",
         "[J]¿O no han leído en la Ley que los sacerdotes en el templo profanan el sábado sin incurrir en culpa?[/J] (12:5).",
         "[J]Pues yo les digo que aquí está algo más grande que el templo.[/J] (12:6).",
-        "[J]Si ustedes supieran qué significa esto: “Lo que pido de ustedes es misericordia y no sacrificios”, no condenarían a los que no son culpables.[/J] (12:7).",
+        "[J]Si ustedes supieran qué significa esto: “Lo que pido de ustedes es misericordia y no sacrificios”,[/J] [J]no condenarían a los que no son culpables.[/J] (12:7).",
         "[J]Sepan que el Hijo del hombre es Señor del sábado.[/J] (12:8).",
         "Pasando de allí, entró en la sinagoga, (12:9).",
         "donde había un hombre que tenía una mano paralizada. Como buscaban un motivo para acusar a Jesús, le preguntaron: ―¿Está permitido sanar en sábado? (12:10).",
@@ -1108,27 +1088,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Los discípulos recogen espigas en el día de reposo"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "El hombre de la mano seca"
+          "text": "El Señor del sábado"
         },
         {
           "beforeVerse": 15,
-          "text": "El siervo escogido"
+          "text": "El siervo escogido por Dios"
         },
         {
           "beforeVerse": 22,
-          "text": "La blasfemia contra el Espíritu Santo"
+          "text": "Jesús y Beelzebú"
         },
         {
           "beforeVerse": 38,
-          "text": "La generación perversa demanda señal"
-        },
-        {
-          "beforeVerse": 43,
-          "text": "El espíritu inmundo que vuelve"
+          "text": "La señal de Jonás"
         },
         {
           "beforeVerse": 46,
@@ -1155,9 +1127,9 @@
         "Los discípulos se acercaron y le preguntaron: ―¿Por qué le hablas a la gente en parábolas? (13:10).",
         "Él respondió: [J]―A ustedes se les ha concedido conocer los misterios del reino de los cielos; pero a ellos no.[/J] (13:11).",
         "[J]Al que tiene se le dará más y tendrá en abundancia. Al que no tiene hasta lo que tiene se le quitará.[/J] (13:12).",
-        "[J]Por eso les hablo a ellos en parábolas: »Aunque miren, no vean; aunque oigan, no escuchen ni entiendan.[/J] (13:13).",
-        "[J]En ellos se cumple la profecía de Isaías: »“Por mucho que oigan, no entenderán; por mucho que vean, no comprenderán.[/J] (13:14).",
-        "[J]Porque el corazón de este pueblo se ha vuelto insensible; se les han tapado los oídos y se les han cerrado los ojos. De lo contrario, verían con los ojos, oirían con los oídos, entenderían con el corazón y se arrepentirían, y yo los sanaría”.[/J] (13:15).",
+        "[J]Por eso les hablo a ellos en parábolas:[/J] [J]»Aunque miren, no vean;[/J] [J]aunque oigan, no escuchen ni entiendan.[/J] (13:13).",
+        "[J]En ellos se cumple la profecía de Isaías:[/J] [J]»“Por mucho que oigan, no entenderán;[/J] [J]por mucho que vean, no comprenderán.[/J] (13:14).",
+        "[J]Porque el corazón de este pueblo se ha vuelto insensible;[/J] [J]se les han tapado los oídos[/J] [J]y se les han cerrado los ojos.[/J] [J]De lo contrario, verían con los ojos,[/J] [J]oirían con los oídos,[/J] [J]entenderían con el corazón[/J] [J]y se arrepentirían, y yo los sanaría”.[/J] (13:15).",
         "[J]Pero dichosos los ojos de ustedes porque ven y sus oídos porque oyen.[/J] (13:16).",
         "[J]Les aseguro que muchos profetas y otros justos anhelaron ver lo que ustedes ven, pero no lo vieron; quisieron oír lo que ustedes oyen, pero no lo oyeron.[/J] (13:17).",
         "[J]»Escuchen ahora lo que significa la parábola del sembrador:[/J] (13:18).",
@@ -1175,13 +1147,13 @@
         "[J]Dejen que crezcan juntos hasta la cosecha. Entonces les diré a los segadores: recojan primero la mala hierba y átenla en manojos para quemarla; después recojan el trigo y guárdenlo en mi granero”».[/J] (13:30).",
         "Les contó otra parábola: [J]«El reino de los cielos es como una semilla de mostaza que un hombre sembró en su campo.[/J] (13:31).",
         "[J]Aunque es la más pequeña de todas las semillas, cuando crece es la más grande de las plantas del huerto. Se convierte en árbol, de modo que vienen las aves y anidan en sus ramas».[/J] (13:32).",
-        "Les contó otra parábola más: [J]«El reino de los cielos es como la levadura que una mujer tomó y mezcló en tres medidas de harina, hasta que hizo crecer toda la masa».[/J] (13:33).",
+        "Les contó otra parábola más: [J]«El reino de los cielos es como la levadura que una mujer tomó y mezcló en tres medidas[/J] [J]de harina, hasta que hizo crecer toda la masa».[/J] (13:33).",
         "Jesús le dijo a la multitud todas estas cosas en parábolas. No decía nada sin emplear parábolas. (13:34).",
         "Así se cumplió lo dicho por el profeta: «Hablaré por medio de parábolas; revelaré cosas que han estado ocultas desde la creación del mundo». (13:35).",
         "Una vez que se despidió de la multitud, entró en la casa. Se acercaron sus discípulos y le pidieron: ―Explícanos la parábola de la mala hierba del campo. (13:36).",
         "[J]―El que sembró la buena semilla es el Hijo del hombre[/J] —les respondió Jesús—. (13:37).",
         "[J]El campo es el mundo, y la buena semilla representa a los hijos del reino. La mala hierba son los hijos del maligno,[/J] (13:38).",
-        "[J]y el enemigo que la siembra es el diablo. La cosecha es el fin del mundo, y los segadores son los ángeles.[/J] (13:39).",
+        "[J]y el enemigo que la siembra es el diablo. La cosecha es el fin del mundo,[/J] [J]y los segadores son los ángeles.[/J] (13:39).",
         "[J]»Así como se recoge la mala hierba y se quema en el fuego, ocurrirá también al fin del mundo.[/J] (13:40).",
         "[J]El Hijo del hombre enviará a sus ángeles y arrancarán de su reino a todos los que pecan y hacen pecar.[/J] (13:41).",
         "[J]Los arrojarán al horno encendido, donde habrá llanto y crujir de dientes.[/J] (13:42).",
@@ -1240,52 +1212,32 @@
           "text": "Parábola del sembrador"
         },
         {
-          "beforeVerse": 10,
-          "text": "Propósito de las parábolas"
-        },
-        {
           "beforeVerse": 18,
           "text": "Jesús explica la parábola del sembrador"
         },
         {
           "beforeVerse": 24,
-          "text": "Parábola del trigo y la cizaña"
+          "text": "Parábola de la mala hierba"
         },
         {
           "beforeVerse": 31,
-          "text": "Parábola de la semilla de mostaza"
-        },
-        {
-          "beforeVerse": 33,
-          "text": "Parábola de la levadura"
-        },
-        {
-          "beforeVerse": 34,
-          "text": "El uso que Jesús hace de las parábolas"
+          "text": "Parábolas de la semilla de mostaza y de la levadura"
         },
         {
           "beforeVerse": 36,
-          "text": "Jesús explica la parábola de la cizaña"
+          "text": "Jesús explica la parábola de la mala hierba"
         },
         {
           "beforeVerse": 44,
-          "text": "El tesoro escondido"
-        },
-        {
-          "beforeVerse": 45,
-          "text": "La perla de gran precio"
+          "text": "Parábolas del tesoro escondido y de la perla"
         },
         {
           "beforeVerse": 47,
-          "text": "La red"
-        },
-        {
-          "beforeVerse": 51,
-          "text": "Tesoros nuevos y viejos"
+          "text": "Parábola de la red"
         },
         {
           "beforeVerse": 53,
-          "text": "Jesús en Nazaret"
+          "text": "Jesús es rechazado en su tierra"
         }
       ]
     },
@@ -1364,19 +1316,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Muerte de Juan el Bautista"
+          "text": "La decapitación de Juan el Bautista"
         },
         {
           "beforeVerse": 13,
-          "text": "Alimentación de los cinco mil"
+          "text": "Jesús alimenta a los cinco mil"
         },
         {
           "beforeVerse": 22,
-          "text": "Jesús anda sobre el mar"
-        },
-        {
-          "beforeVerse": 34,
-          "text": "Jesús sana a los enfermos en Genesaret"
+          "text": "Jesús camina sobre el agua"
         }
       ]
     },
@@ -1390,17 +1338,17 @@
         "Se acercaron a Jesús algunos fariseos y maestros de la Ley que habían llegado de Jerusalén y le preguntaron: (15:1).",
         "―¿Por qué quebrantan tus discípulos la tradición de los líderes religiosos? ¡Comen sin cumplir primero el rito de lavarse las manos! (15:2).",
         "Jesús les contestó: [J]―¿Y por qué ustedes quebrantan el mandamiento de Dios a causa de la tradición?[/J] (15:3).",
-        "[J]Dios dijo: “Honra a tu padre y a tu madre” y también: “El que maldiga a su padre o a su madre será condenado a muerte”.[/J] (15:4).",
+        "[J]Dios dijo: “Honra a tu padre y a tu madre”[/J] [J]y también: “El que maldiga a su padre o a su madre será condenado a muerte”.[/J] (15:4).",
         "[J]Ustedes, en cambio, enseñan que un hijo puede decirle a su padre o a su madre: “Cualquier ayuda que pudiera darte ya la he dedicado como ofrenda a Dios”.[/J] (15:5).",
-        "[J]En ese caso, el tal hijo no tiene que honrar a su padre. Así por causa de la tradición anulan ustedes la palabra de Dios.[/J] (15:6).",
+        "[J]En ese caso, el tal hijo no tiene que honrar a su padre.[/J] [J]Así por causa de la tradición anulan ustedes la palabra de Dios.[/J] (15:6).",
         "[J]¡Hipócritas! Tenía razón Isaías cuando profetizó de ustedes:[/J] (15:7).",
-        "[J]»“Este pueblo me honra con los labios, pero su corazón está lejos de mí.[/J] (15:8).",
-        "[J]En vano me adoran; sus enseñanzas no son más que reglas humanas”.[/J] (15:9).",
+        "[J]»“Este pueblo me honra con los labios,[/J] [J]pero su corazón está lejos de mí.[/J] (15:8).",
+        "[J]En vano me adoran;[/J] [J]sus enseñanzas no son más que reglas humanas”.[/J] (15:9).",
         "Jesús llamó a la multitud y dijo: [J]―Escuchen y entiendan.[/J] (15:10).",
         "[J]Lo que contamina a una persona no es lo que entra en la boca, sino lo que sale de ella.[/J] (15:11).",
         "Entonces se le acercaron los discípulos y le dijeron: ―¿Sabes que los fariseos se escandalizaron al oír eso? (15:12).",
         "[J]―Toda planta que mi Padre celestial no haya plantado será arrancada de raíz[/J] —les respondió—. (15:13).",
-        "[J]Déjenlos; son guías ciegos. Y, si un ciego guía a otro ciego, ambos caerán en un hoyo.[/J] (15:14).",
+        "[J]Déjenlos; son guías ciegos.[/J] [J]Y, si un ciego guía a otro ciego, ambos caerán en un hoyo.[/J] (15:14).",
         "―Explícanos la comparación —le pidió Pedro. (15:15).",
         "[J]―¿Tampoco ustedes pueden todavía entenderlo?[/J] —les dijo Jesús—. (15:16).",
         "[J]¿No se dan cuenta de que todo lo que entra en la boca va al estómago y después se echa en la letrina?[/J] (15:17).",
@@ -1458,7 +1406,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Lo que contamina al hombre"
+          "text": "Lo limpio y lo impuro"
         },
         {
           "beforeVerse": 21,
@@ -1466,11 +1414,7 @@
         },
         {
           "beforeVerse": 29,
-          "text": "Jesús sana a muchos"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "Alimentación de los cuatro mil"
+          "text": "Jesús alimenta a cuatro mil"
         }
       ]
     },
@@ -1497,8 +1441,8 @@
         "Le respondieron: ―Unos dicen que Juan el Bautista; otros, que Elías, y otros, que Jeremías o uno de los profetas. (16:14).",
         "[J]―Y ustedes, ¿quién dicen que soy yo?[/J] —preguntó Jesús. (16:15).",
         "―Tú eres el Cristo, el Hijo del Dios viviente —afirmó Simón Pedro. (16:16).",
-        "[J]―Dichoso tú, Simón, hijo de Jonás[/J] —le dijo Jesús—, [J]porque eso no te lo reveló ningún mortal, sino mi Padre que está en el cielo.[/J] (16:17).",
-        "[J]Yo te digo que tú eres Pedro. Sobre esta piedra edificaré mi iglesia y las puertas de los dominios de la muerte no prevalecerán contra ella.[/J] (16:18).",
+        "[J]―Dichoso tú, Simón, hijo de Jonás[/J] —le dijo Jesús—, [J]porque eso no te lo reveló ningún mortal,[/J] [J]sino mi Padre que está en el cielo.[/J] (16:17).",
+        "[J]Yo te digo que tú eres Pedro.[/J] [J]Sobre esta piedra edificaré mi iglesia y las puertas de los dominios de la muerte[/J] [J]no prevalecerán contra ella.[/J] (16:18).",
         "[J]Te daré las llaves del reino de los cielos; todo lo que ates en la tierra quedará atado en el cielo y todo lo que desates en la tierra quedará desatado en el cielo.[/J] (16:19).",
         "Luego les ordenó a sus discípulos que no dijeran a nadie que él era el Cristo. (16:20).",
         "Desde entonces comenzó Jesús a advertir a sus discípulos que tenía que ir a Jerusalén y sufrir muchas cosas a manos de los líderes religiosos, de los jefes de los sacerdotes y de los maestros de la Ley; también que era necesario que lo mataran y que al tercer día resucitara. (16:21).",
@@ -1546,11 +1490,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "La demanda de una señal"
+          "text": "Piden a Jesús una señal"
         },
         {
           "beforeVerse": 5,
-          "text": "La levadura de los fariseos"
+          "text": "La levadura de los fariseos y de los saduceos"
         },
         {
           "beforeVerse": 13,
@@ -1558,7 +1502,7 @@
         },
         {
           "beforeVerse": 21,
-          "text": "Jesús anuncia su muerte"
+          "text": "Jesús predice su muerte"
         }
       ]
     },
@@ -1594,7 +1538,7 @@
         "Cuando Jesús y sus discípulos llegaron a Capernaúm, los que cobraban el impuesto del templo se acercaron a Pedro y le preguntaron: ―¿Su maestro no paga el impuesto del templo? (17:24).",
         "―Sí, lo paga —respondió Pedro. Al entrar Pedro en la casa, se adelantó Jesús a preguntarle: [J]―¿Tú qué opinas, Simón? Los reyes de la tierra, ¿a quiénes cobran tributos e impuestos: a los suyos o a los demás?[/J] (17:25).",
         "―A los demás —contestó Pedro. [J]―Entonces los suyos están exentos[/J] —le dijo Jesús—. (17:26).",
-        "[J]Pero, para no escandalizar a esta gente, vete al lago y echa el anzuelo. Saca el primer pez que pique; ábrele la boca y encontrarás una moneda. Tómala y dásela a ellos por mi impuesto y por el tuyo.[/J] (17:27)."
+        "[J]Pero, para no escandalizar a esta gente, vete al lago y echa el anzuelo. Saca el primer pez que pique; ábrele la boca y encontrarás una moneda.[/J] [J]Tómala y dásela a ellos por mi impuesto y por el tuyo.[/J] (17:27)."
       ],
       "keyTakeaway": "En una montaña alta Jesús se transfigura, aparecen Moisés y Elías, y la voz del Padre manda a los discípulos escucharlo; al bajar, Jesús identifica la venida de Elías con Juan el Bautista, libera a un muchacho que sus discípulos de poca fe no pudieron sanar, diciendo que la fe como un grano de mostaza mueve montañas, anuncia otra vez su muerte y su resurrección, y paga el impuesto del templo con la moneda de la boca de un pez.",
       "crossRefs": [
@@ -1641,15 +1585,11 @@
         },
         {
           "beforeVerse": 14,
-          "text": "Jesús sana a un muchacho lunático"
-        },
-        {
-          "beforeVerse": 22,
-          "text": "Jesús anuncia otra vez su muerte"
+          "text": "Jesús sana a un muchacho endemoniado"
         },
         {
           "beforeVerse": 24,
-          "text": "Pago del impuesto del templo"
+          "text": "El impuesto del templo"
         }
       ],
       "manuscriptVariants": [
@@ -1679,9 +1619,9 @@
         "[J]»¿Qué les parece? Si un hombre tiene cien ovejas y se extravía una de ellas, ¿no dejará las noventa y nueve en las colinas para ir en busca de la extraviada?[/J] (18:12).",
         "[J]Y, si llega a encontrarla, les aseguro que se pondrá más feliz por esa sola oveja que por las noventa y nueve que no se extraviaron.[/J] (18:13).",
         "[J]Así también, el Padre de ustedes que está en el cielo no quiere que se pierda ninguno de estos pequeños.[/J] (18:14).",
-        "[J]»Si tu hermano peca contra ti, ve a solas con él y hazle ver su falta. Si te hace caso, has ganado a tu hermano.[/J] (18:15).",
+        "[J]»Si tu hermano peca contra ti,[/J] [J]ve a solas con él y hazle ver su falta. Si te hace caso, has ganado a tu hermano.[/J] (18:15).",
         "[J]Pero, si no, lleva contigo a uno o dos más, para que “todo asunto se resuelva mediante el testimonio de dos o tres testigos”.[/J] (18:16).",
-        "[J]Si se niega a hacerles caso a ellos, díselo a la iglesia; y, si incluso a la iglesia no le hace caso, trátalo como si fuera un incrédulo o un cobrador de impuestos.[/J] (18:17).",
+        "[J]Si se niega a hacerles caso a ellos, díselo a la iglesia; y, si incluso a la iglesia no le hace caso, trátalo como si fuera un incrédulo[/J] [J]o un cobrador de impuestos.[/J] (18:17).",
         "[J]»Les aseguro que todo lo que ustedes aten en la tierra quedará atado en el cielo y todo lo que desaten en la tierra quedará desatado en el cielo.[/J] (18:18).",
         "[J]»Además les digo que, si dos de ustedes en la tierra se ponen de acuerdo sobre cualquier cosa que pidan, les será concedida por mi Padre que está en el cielo.[/J] (18:19).",
         "[J]Porque donde dos o tres se reúnen en mi nombre, allí estoy yo en medio de ellos.[/J] (18:20).",
@@ -1692,7 +1632,7 @@
         "[J]Como él no tenía con qué pagar, el señor mandó que lo vendieran a él, a su esposa y a sus hijos y todo lo que tenía, para así saldar la deuda.[/J] (18:25).",
         "[J]El siervo se postró delante de él. “Tenga paciencia conmigo —le rogó—, y se lo pagaré todo”.[/J] (18:26).",
         "[J]El señor se compadeció de su siervo, perdonó su deuda y lo dejó en libertad.[/J] (18:27).",
-        "[J]»Al salir, aquel siervo se encontró con uno de sus compañeros que le debía cien monedas de plata. Lo agarró por el cuello y comenzó a estrangularlo. “¡Págame lo que me debes!”, le exigió.[/J] (18:28).",
+        "[J]»Al salir, aquel siervo se encontró con uno de sus compañeros que le debía cien monedas de plata.[/J] [J]Lo agarró por el cuello y comenzó a estrangularlo. “¡Págame lo que me debes!”, le exigió.[/J] (18:28).",
         "[J]Su compañero se postró delante de él. “Ten paciencia conmigo —le rogó—, y te lo pagaré”.[/J] (18:29).",
         "[J]Pero él se negó. Más bien fue y lo hizo meter en la cárcel hasta que pagara la deuda.[/J] (18:30).",
         "[J]Cuando los demás siervos vieron lo ocurrido, se entristecieron mucho y fueron a contarle a su señor todo lo que había sucedido.[/J] (18:31).",
@@ -1753,11 +1693,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "¿Quién es el mayor?"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Ocasiones de caer"
+          "text": "El más importante en el reino de los cielos"
         },
         {
           "beforeVerse": 10,
@@ -1765,11 +1701,11 @@
         },
         {
           "beforeVerse": 15,
-          "text": "Cómo se debe perdonar al hermano"
+          "text": "El hermano que peca contra ti"
         },
         {
-          "beforeVerse": 23,
-          "text": "Los dos deudores"
+          "beforeVerse": 21,
+          "text": "Parábola del siervo despiadado"
         }
       ],
       "manuscriptVariants": [
@@ -1804,7 +1740,7 @@
         "Sucedió que un joven se acercó a Jesús y le preguntó: ―Maestro, ¿qué es lo bueno que debo hacer para obtener la vida eterna? (19:16).",
         "[J]―¿Por qué me preguntas sobre lo que es bueno?[/J] —respondió Jesús—. [J]Solamente hay uno que es bueno. Si quieres entrar en la vida, obedece los mandamientos.[/J] (19:17).",
         "―¿Cuáles? —preguntó el joven. Contestó Jesús: [J]―“No mates, no cometas adulterio, no robes, no presentes falso testimonio,[/J] (19:18).",
-        "[J]honra a tu padre y a tu madre” y “ama a tu prójimo como a ti mismo”.[/J] (19:19).",
+        "[J]honra a tu padre y a tu madre”[/J] [J]y “ama a tu prójimo como a ti mismo”.[/J] (19:19).",
         "―Todos esos los he cumplido —dijo el joven—. ¿Qué más me falta? (19:20).",
         "Jesús respondió: [J]―Si quieres ser perfecto, anda, vende lo que tienes y dáselo a los pobres, y tendrás tesoro en el cielo. Luego ven y sígueme.[/J] (19:21).",
         "Cuando el joven oyó esto, se fue triste, porque tenía muchas riquezas. (19:22).",
@@ -1814,7 +1750,7 @@
         "[J]―Para los hombres es imposible[/J] —aclaró Jesús, mirándolos fijamente—, [J]mas para Dios todo es posible.[/J] (19:26).",
         "―¡Mira, nosotros lo hemos dejado todo por seguirte! —le dijo Pedro—. ¿Y qué ganamos con eso? (19:27).",
         "[J]―Les aseguro[/J] —respondió Jesús— [J]que en la renovación de todas las cosas, cuando el Hijo del hombre se siente en su trono glorioso, ustedes que me han seguido se sentarán también en doce tronos para juzgar a las doce tribus de Israel.[/J] (19:28).",
-        "[J]Y todo el que por mi causa haya dejado casas, hermanos, hermanas, padre, madre, hijos o terrenos recibirá cien veces más y heredará la vida eterna.[/J] (19:29).",
+        "[J]Y todo el que por mi causa haya dejado casas, hermanos, hermanas, padre, madre,[/J] [J]hijos o terrenos recibirá cien veces más y heredará la vida eterna.[/J] (19:29).",
         "[J]Pero muchos de los primeros serán últimos y los últimos serán primeros.[/J] (19:30)."
       ],
       "crossRefs": [
@@ -1848,11 +1784,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesús enseña sobre el divorcio"
+          "text": "El divorcio"
         },
         {
           "beforeVerse": 13,
-          "text": "Jesús bendice a los niños"
+          "text": "Jesús y los niños"
         },
         {
           "beforeVerse": 16,
@@ -1868,11 +1804,11 @@
       ],
       "summaryBullets": [
         "[J]»Asimismo, el reino de los cielos se parece a un propietario que salió de madrugada a contratar obreros para su viñedo.[/J] (20:1).",
-        "[J]Acordó darles la paga de un día de trabajo y los envió a su viñedo.[/J] (20:2).",
-        "[J]Cerca de las nueve de la mañana, salió y vio a otros que estaban desocupados en la plaza.[/J] (20:3).",
+        "[J]Acordó darles la paga de un día de trabajo[/J] [J]y los envió a su viñedo.[/J] (20:2).",
+        "[J]Cerca de las nueve de la mañana,[/J] [J]salió y vio a otros que estaban desocupados en la plaza.[/J] (20:3).",
         "[J]Les dijo: “Vayan también ustedes a trabajar en mi viñedo y les pagaré lo que sea justo”.[/J] (20:4).",
-        "[J]Así que fueron. Salió de nuevo a eso del mediodía, y luego a la media tarde e hizo lo mismo.[/J] (20:5).",
-        "[J]Alrededor de las cinco de la tarde, salió y encontró a otros más que estaban sin trabajo. Les preguntó: “¿Por qué han estado aquí desocupados todo el día?”.[/J] (20:6).",
+        "[J]Así que fueron. Salió de nuevo a eso del mediodía,[/J] [J]y luego a la media tarde e hizo lo mismo.[/J] (20:5).",
+        "[J]Alrededor de las cinco de la tarde,[/J] [J]salió y encontró a otros más que estaban sin trabajo. Les preguntó: “¿Por qué han estado aquí desocupados todo el día?”.[/J] (20:6).",
         "[J]“Porque nadie nos ha contratado”, contestaron. Él les dijo: “Vayan también ustedes a trabajar en mi viñedo”.[/J] (20:7).",
         "[J]»Al atardecer, el dueño del viñedo le ordenó a su capataz: “Llama a los obreros y págales su salario, comenzando por los últimos contratados hasta llegar a los primeros”.[/J] (20:8).",
         "[J]Se presentaron los obreros que habían sido contratados cerca de las cinco de la tarde y cada uno recibió la paga de un día.[/J] (20:9).",
@@ -1938,15 +1874,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Los obreros de la viña"
+          "text": "Parábola de los viñadores"
         },
         {
           "beforeVerse": 17,
-          "text": "Nuevamente Jesús anuncia su muerte"
+          "text": "Jesús predice de nuevo su muerte"
         },
         {
           "beforeVerse": 20,
-          "text": "Petición de Santiago y de Juan"
+          "text": "La petición de una madre"
         },
         {
           "beforeVerse": 29,
@@ -1973,10 +1909,10 @@
         "Cuando Jesús entró en Jerusalén, toda la ciudad se conmovió. ―¿Quién es este? —preguntaban. (21:10).",
         "―Este es el profeta Jesús, de Nazaret de Galilea —contestaba la gente. (21:11).",
         "Jesús entró en el templo y echó de allí a todos los que compraban y vendían. Volcó las mesas de los que cambiaban dinero y los puestos de los que vendían palomas. (21:12).",
-        "[J]«Escrito está[/J] —les dijo—: [J]“Mi casa será llamada casa de oración”, pero ustedes la han convertido en “cueva de ladrones”».[/J] (21:13).",
+        "[J]«Escrito está[/J] —les dijo—: [J]“Mi casa será llamada casa de oración”,[/J] [J]pero ustedes la han convertido en “cueva de ladrones”».[/J] (21:13).",
         "Se le acercaron en el templo ciegos y cojos, y los sanó. (21:14).",
         "Pero, cuando los jefes de los sacerdotes y los maestros de la Ley vieron que hacía cosas maravillosas y que los niños gritaban en el templo: «¡Hosanna al Hijo de David!», se indignaron. (21:15).",
-        "―¿Oyes lo que esos están diciendo? —protestaron. [J]―Claro que sí[/J] —respondió Jesús—; [J]¿no han leído nunca: »“En los labios de los pequeñitos y de los niños de pecho has puesto tu alabanza”?[/J] (21:16).",
+        "―¿Oyes lo que esos están diciendo? —protestaron. [J]―Claro que sí[/J] —respondió Jesús—; [J]¿no han leído nunca:[/J] [J]»“En los labios de los pequeñitos[/J] [J]y de los niños de pecho[/J] [J]has puesto tu alabanza”?[/J] (21:16).",
         "Entonces los dejó y, saliendo de la ciudad, se fue a pasar la noche en Betania. (21:17).",
         "Muy de mañana, cuando volvía a la ciudad, tuvo hambre. (21:18).",
         "Al ver una higuera junto al camino, se acercó a ella, pero no encontró nada más que hojas. [J]―¡Nunca más vuelvas a dar fruto![/J] —le dijo. Y al instante se secó la higuera. (21:19).",
@@ -2002,7 +1938,7 @@
         "[J]Así que le echaron mano, lo arrojaron fuera del viñedo y lo mataron.[/J] (21:39).",
         "[J]»Ahora bien, cuando vuelva el dueño, ¿qué hará con esos labradores?[/J] (21:40).",
         "―Hará que esos malvados tengan un fin miserable —respondieron— y arrendará el viñedo a otros labradores que le darán lo que le corresponde cuando llegue el tiempo de la cosecha. (21:41).",
-        "Les dijo Jesús: [J]―¿No han leído nunca en las Escrituras: »“La piedra que desecharon los constructores ha llegado a ser la piedra angular. Esto ha sido obra del Señor y nos deja maravillados”?[/J] (21:42).",
+        "Les dijo Jesús: [J]―¿No han leído nunca en las Escrituras:[/J] [J]»“La piedra que desecharon los constructores[/J] [J]ha llegado a ser la piedra angular.[/J] [J]Esto ha sido obra del Señor[/J] [J]y nos deja maravillados”?[/J] (21:42).",
         "[J]»Por eso les digo que el reino de Dios se les quitará a ustedes y se le entregará a un pueblo que produzca los frutos del reino.[/J] (21:43).",
         "[J]El que caiga sobre esta piedra quedará despedazado y, si ella cae sobre alguien, lo hará polvo.[/J] (21:44).",
         "Cuando los jefes de los sacerdotes y los fariseos oyeron las parábolas de Jesús, se dieron cuenta de que hablaba de ellos. (21:45).",
@@ -2034,19 +1970,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "La entrada triunfal en Jerusalén"
+          "text": "La entrada triunfal"
         },
         {
           "beforeVerse": 12,
-          "text": "Purificación del templo"
+          "text": "Jesús en el templo"
         },
         {
           "beforeVerse": 18,
-          "text": "Maldición de la higuera estéril"
+          "text": "Se seca la higuera"
         },
         {
           "beforeVerse": 23,
-          "text": "La autoridad de Jesús"
+          "text": "La autoridad de Jesús puesta en duda"
         },
         {
           "beforeVerse": 28,
@@ -2054,7 +1990,7 @@
         },
         {
           "beforeVerse": 33,
-          "text": "Los labradores malvados"
+          "text": "Parábola de los labradores malvados"
         }
       ]
     },
@@ -2096,7 +2032,7 @@
         "Jesús les contestó: [J]―Ustedes andan equivocados porque desconocen las Escrituras y el poder de Dios.[/J] (22:29).",
         "[J]En la resurrección, las personas no se casarán ni serán dadas en casamiento, sino que serán como los ángeles que están en el cielo.[/J] (22:30).",
         "[J]Pero, en cuanto a la resurrección de los muertos, ¿no han leído lo que Dios les dijo a ustedes:[/J] (22:31).",
-        "[J]“Yo soy el Dios de Abraham, de Isaac y de Jacob”? Él no es Dios de muertos, sino de vivos.[/J] (22:32).",
+        "[J]“Yo soy el Dios de Abraham, de Isaac y de Jacob”?[/J] [J]Él no es Dios de muertos, sino de vivos.[/J] (22:32).",
         "Al oír esto, la gente quedó admirada de su enseñanza. (22:33).",
         "Los fariseos se reunieron al oír que Jesús había hecho callar a los saduceos. (22:34).",
         "Uno de ellos, experto en la Ley, le tendió una trampa con esta pregunta: (22:35).",
@@ -2108,7 +2044,7 @@
         "Mientras estaban reunidos los fariseos, Jesús les preguntó: (22:41).",
         "[J]―¿Qué piensan ustedes acerca del Cristo? ¿De quién es descendiente?[/J] ―De David —le respondieron ellos. Jesús les dijo: (22:42).",
         "[J]―Entonces, ¿cómo es que David, hablando por el Espíritu, lo llama “Señor”? Él afirma:[/J] (22:43).",
-        "[J]»“Dijo el Señor a mi Señor: ‘Siéntate a mi derecha, hasta que ponga a tus enemigos debajo de tus pies’ ”.[/J] (22:44).",
+        "[J]»“Dijo el Señor a mi Señor:[/J] [J]‘Siéntate a mi derecha,[/J] [J]hasta que ponga a tus enemigos[/J] [J]debajo de tus pies’ ”.[/J] (22:44).",
         "[J]Si David lo llama “Señor”, ¿cómo puede entonces ser su descendiente?[/J] (22:45).",
         "Nadie pudo responderle ni una sola palabra y desde ese día ninguno se atrevía a hacerle más preguntas. (22:46)."
       ],
@@ -2147,19 +2083,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Parábola de la fiesta de bodas"
+          "text": "Parábola del banquete de bodas"
         },
         {
           "beforeVerse": 15,
-          "text": "La cuestión del tributo"
+          "text": "El pago de impuestos al césar"
         },
         {
           "beforeVerse": 23,
-          "text": "La pregunta sobre la resurrección"
+          "text": "El matrimonio en la resurrección"
         },
         {
           "beforeVerse": 34,
-          "text": "El gran mandamiento"
+          "text": "El mandamiento más importante"
         },
         {
           "beforeVerse": 41,
@@ -2253,11 +2189,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesús acusa a escribas y fariseos"
-        },
-        {
-          "beforeVerse": 37,
-          "text": "Lamento de Jesús sobre Jerusalén"
+          "text": "Jesús critica la hipocresía"
         }
       ],
       "manuscriptVariants": [
@@ -2288,7 +2220,7 @@
         "[J]Habrá tanta maldad que el amor de muchos se enfriará,[/J] (24:12).",
         "[J]pero el que se mantenga firme hasta el fin será salvo.[/J] (24:13).",
         "[J]Y este evangelio del reino se predicará en todo el mundo como testimonio a todas las naciones; entonces vendrá el fin.[/J] (24:14).",
-        "[J]»Así que, cuando vean en el Lugar Santo “la abominación que causa destrucción”, de la que habló el profeta Daniel (el que lee, que lo entienda),[/J] (24:15).",
+        "[J]»Así que, cuando vean en el Lugar Santo “la abominación que causa destrucción”,[/J] [J]de la que habló el profeta Daniel (el que lee, que lo entienda),[/J] (24:15).",
         "[J]entonces los que estén en Judea huyan a las montañas.[/J] (24:16).",
         "[J]El que esté en la azotea no baje a llevarse nada de su casa.[/J] (24:17).",
         "[J]Y el que esté en el campo no regrese para buscar su capa.[/J] (24:18).",
@@ -2302,14 +2234,14 @@
         "[J]»Por eso, si les dicen: “¡Miren que está en el desierto!”, no salgan; o: “¡Miren que está en la casa!”, no lo crean.[/J] (24:26).",
         "[J]Porque así como el relámpago que sale del oriente se ve hasta en el occidente, así será la venida del Hijo del hombre.[/J] (24:27).",
         "[J]Donde esté el cadáver, allí se reunirán los buitres.[/J] (24:28).",
-        "[J]»Inmediatamente después de la tribulación de aquellos días, »“se oscurecerá el sol y no brillará más la luna; las estrellas caerán del cielo y los cuerpos celestes serán sacudidos”.[/J] (24:29).",
+        "[J]»Inmediatamente después de la tribulación de aquellos días,[/J] [J]»“se oscurecerá el sol[/J] [J]y no brillará más la luna;[/J] [J]las estrellas caerán del cielo[/J] [J]y los cuerpos celestes serán sacudidos”.[/J] (24:29).",
         "[J]»La señal del Hijo del hombre aparecerá en el cielo y se angustiarán todos los pueblos de la tierra. Verán al Hijo del hombre venir sobre las nubes del cielo con poder y gran gloria.[/J] (24:30).",
         "[J]Y al sonido de la gran trompeta mandará a sus ángeles, y reunirán de los cuatro vientos a los elegidos, de un extremo al otro del cielo.[/J] (24:31).",
         "[J]»Aprendan de la higuera esta lección: tan pronto como se ponen tiernas sus ramas y brotan sus hojas, ustedes saben que el verano está cerca.[/J] (24:32).",
         "[J]Igualmente, cuando vean todas estas cosas, sepan que el tiempo está cerca, a las puertas.[/J] (24:33).",
         "[J]Les aseguro que no pasará esta generación hasta que todas estas cosas sucedan.[/J] (24:34).",
         "[J]El cielo y la tierra pasarán, pero mis palabras jamás pasarán.[/J] (24:35).",
-        "[J]»Pero, en cuanto al día y la hora, nadie lo sabe, ni siquiera los ángeles del cielo, ni el Hijo, sino solo el Padre.[/J] (24:36).",
+        "[J]»Pero, en cuanto al día y la hora, nadie lo sabe, ni siquiera los ángeles del cielo, ni el Hijo,[/J] [J]sino solo el Padre.[/J] (24:36).",
         "[J]La venida del Hijo del hombre será como en tiempos de Noé.[/J] (24:37).",
         "[J]Porque en los días antes del diluvio comían, bebían, se casaban y daban en casamiento, hasta el día en que Noé entró en el arca;[/J] (24:38).",
         "[J]y no supieron nada de lo que sucedería hasta que llegó el diluvio y se los llevó a todos. Así será en la venida del Hijo del hombre.[/J] (24:39).",
@@ -2324,7 +2256,7 @@
         "[J]Pero ¿qué tal si ese siervo malo se pone a pensar: “Mi señor se está demorando”[/J] (24:48).",
         "[J]y luego comienza a golpear a sus compañeros y a comer y beber con los borrachos?[/J] (24:49).",
         "[J]El señor de ese siervo volverá el día en que el siervo menos lo espere y a la hora menos pensada.[/J] (24:50).",
-        "[J]Lo castigará severamente y le impondrá la condena que reciben los hipócritas. Entonces habrá llanto y crujir de dientes.[/J] (24:51)."
+        "[J]Lo castigará severamente y le impondrá la condena que reciben los hipócritas.[/J] [J]Entonces habrá llanto y crujir de dientes.[/J] (24:51)."
       ],
       "crossRefs": [
         "Oseas 13:13: Imagen de los dolores de parto.",
@@ -2362,15 +2294,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesús predice la destrucción del templo"
+          "text": "Señales del fin del mundo"
         },
         {
-          "beforeVerse": 3,
-          "text": "Señales antes del fin"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "La venida del Hijo del Hombre"
+          "beforeVerse": 36,
+          "text": "Se desconocen el día y la hora"
         }
       ]
     },
@@ -2395,7 +2323,7 @@
         "[J]“¡Les aseguro que no las conozco!”, respondió él.[/J] (25:12).",
         "[J]»Por tanto[/J] —agregó Jesús—, [J]manténganse despiertos porque no saben ni el día ni la hora.[/J] (25:13).",
         "[J]»El reino de los cielos será también como un hombre que, al emprender un viaje, llamó a sus siervos y les encargó sus bienes.[/J] (25:14).",
-        "[J]A uno le dio cinco mil monedas; a otro, dos mil y a otro, mil. Dio a cada uno según su capacidad. Luego se fue de viaje.[/J] (25:15).",
+        "[J]A uno le dio cinco mil monedas;[/J] [J]a otro, dos mil y a otro, mil. Dio a cada uno según su capacidad. Luego se fue de viaje.[/J] (25:15).",
         "[J]El que había recibido las cinco mil fue enseguida y negoció con ellas y ganó otras cinco mil.[/J] (25:16).",
         "[J]Así mismo, el que recibió dos mil ganó otras dos mil.[/J] (25:17).",
         "[J]Pero el que había recibido mil fue, cavó un hoyo en la tierra y escondió el dinero de su señor.[/J] (25:18).",
@@ -2453,15 +2381,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Parábola de las diez vírgenes"
+          "text": "Parábola de las diez jóvenes"
         },
         {
           "beforeVerse": 14,
-          "text": "Parábola de los talentos"
+          "text": "Parábola de las monedas de oro"
         },
         {
           "beforeVerse": 31,
-          "text": "El juicio de las naciones"
+          "text": "Las ovejas y las cabras"
         }
       ]
     },
@@ -2499,10 +2427,10 @@
         "―¿Acaso seré yo, Rabí? —le dijo Judas, el que lo iba a traicionar. [J]―Tú lo has dicho[/J] —le contestó Jesús. (26:25).",
         "Mientras comían, Jesús tomó pan y lo bendijo. Luego lo partió y se lo dio a sus discípulos, diciéndoles: [J]―Tomen y coman; esto es mi cuerpo.[/J] (26:26).",
         "Después tomó una copa, dio gracias y se la dio a ellos diciéndoles: [J]―Beban de ella todos ustedes.[/J] (26:27).",
-        "[J]Esto es mi sangre del pacto que es derramada por muchos para el perdón de pecados.[/J] (26:28).",
+        "[J]Esto es mi sangre del pacto[/J] [J]que es derramada por muchos para el perdón de pecados.[/J] (26:28).",
         "[J]Les digo que no beberé de este fruto de la vid desde ahora en adelante, hasta aquel día en que beba con ustedes el vino nuevo en el reino de mi Padre.[/J] (26:29).",
         "Después de cantar los salmos, salieron al monte de los Olivos. (26:30).",
-        "[J]―Esta misma noche[/J] —les dijo Jesús— [J]todos ustedes me abandonarán, porque está escrito: »“Heriré al pastor y se dispersarán las ovejas del rebaño”.[/J] (26:31).",
+        "[J]―Esta misma noche[/J] —les dijo Jesús— [J]todos ustedes me abandonarán, porque está escrito:[/J] [J]»“Heriré al pastor[/J] [J]y se dispersarán las ovejas del rebaño”.[/J] (26:31).",
         "[J]Pero, después de que yo resucite, iré delante de ustedes a Galilea.[/J] (26:32).",
         "―Aunque todos te abandonen —declaró Pedro—, yo jamás lo haré. (26:33).",
         "[J]―Te aseguro[/J] —le contestó Jesús— [J]que esta misma noche, antes de que cante el gallo, me negarás tres veces.[/J] (26:34).",
@@ -2510,10 +2438,10 @@
         "Luego fue Jesús con sus discípulos a un lugar llamado Getsemaní y les dijo: [J]«Siéntense aquí mientras voy más allá a orar».[/J] (26:36).",
         "Se llevó a Pedro y a los dos hijos de Zebedeo y comenzó a sentirse triste y angustiado. (26:37).",
         "[J]«Es tal la angustia que me invade que me siento morir[/J] —les dijo—. [J]Quédense aquí y manténganse despiertos conmigo».[/J] (26:38).",
-        "Yendo un poco más allá, se postró rostro en tierra y oró: [J]«Padre mío, si es posible, no me hagas beber este trago amargo. Pero no sea lo que yo quiero, sino lo que quieres tú».[/J] (26:39).",
+        "Yendo un poco más allá, se postró rostro en tierra y oró: [J]«Padre mío, si es posible, no me hagas beber este trago amargo.[/J] [J]Pero no sea lo que yo quiero, sino lo que quieres tú».[/J] (26:39).",
         "Luego volvió adonde estaban sus discípulos y los encontró dormidos. [J]«¿No pudieron mantenerse despiertos conmigo ni una hora?[/J] —le dijo a Pedro—. (26:40).",
         "[J]Permanezcan despiertos y oren para que no caigan en tentación. El espíritu está dispuesto, pero el cuerpo es débil».[/J] (26:41).",
-        "Por segunda vez se retiró y oró: [J]«Padre mío, si no es posible evitar que yo beba este trago amargo, hágase tu voluntad».[/J] (26:42).",
+        "Por segunda vez se retiró y oró: [J]«Padre mío, si no es posible evitar que yo beba este trago amargo,[/J] [J]hágase tu voluntad».[/J] (26:42).",
         "Cuando volvió, otra vez los encontró dormidos, porque se les cerraban los ojos de sueño. (26:43).",
         "Así que los dejó y se retiró a orar por tercera vez, diciendo lo mismo. (26:44).",
         "Volvió de nuevo a los discípulos y les dijo: [J]«¿Siguen durmiendo y descansando? Miren, se acerca la hora; el Hijo del hombre va a ser entregado en manos de pecadores.[/J] (26:45).",
@@ -2524,9 +2452,9 @@
         "[J]―Amigo[/J] —le respondió Jesús—, [J]¿a qué vienes?[/J] Entonces los hombres se acercaron y prendieron a Jesús. (26:50).",
         "En eso, uno de los que estaban con él extendió la mano, sacó la espada e hirió al siervo del sumo sacerdote, cortándole una oreja. (26:51).",
         "[J]―Guarda tu espada[/J] —le dijo Jesús—, [J]porque los que a hierro matan, a hierro mueren.[/J] (26:52).",
-        "[J]¿Crees que no puedo acudir a mi Padre y al instante pondría a mi disposición más de doce batallones de ángeles?[/J] (26:53).",
+        "[J]¿Crees que no puedo acudir a mi Padre y al instante pondría a mi disposición más de doce batallones[/J] [J]de ángeles?[/J] (26:53).",
         "[J]Pero, entonces, ¿cómo se cumplirían las Escrituras que dicen que así tiene que suceder?[/J] (26:54).",
-        "Y de inmediato dijo a la turba: [J]―¿Acaso soy un bandido para que vengan con espadas y palos a arrestarme? Todos los días me sentaba a enseñar en el templo y no me arrestaron.[/J] (26:55).",
+        "Y de inmediato dijo a la turba: [J]―¿Acaso soy un bandido[/J] [J]para que vengan con espadas y palos a arrestarme? Todos los días me sentaba a enseñar en el templo y no me arrestaron.[/J] (26:55).",
         "[J]Pero todo esto ha sucedido para que se cumpla lo que escribieron los profetas.[/J] Entonces todos los discípulos lo abandonaron y huyeron. (26:56).",
         "Los que habían arrestado a Jesús lo llevaron ante Caifás, el sumo sacerdote, donde se habían reunido los maestros de la Ley y los líderes religiosos. (26:57).",
         "Pero Pedro lo siguió de lejos hasta el patio del sumo sacerdote. Entró y se sentó con los guardias para ver en qué terminaba aquello. (26:58).",
@@ -2579,35 +2507,35 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "El complot para prender a Jesús"
+          "text": "La conspiración contra Jesús"
         },
         {
           "beforeVerse": 6,
-          "text": "Jesús es ungido en Betania"
+          "text": "Una mujer unge a Jesús en Betania"
         },
         {
           "beforeVerse": 14,
-          "text": "Judas ofrece entregar a Jesús"
+          "text": "Judas acuerda traicionar a Jesús"
         },
         {
           "beforeVerse": 17,
-          "text": "Institución de la Cena del Señor"
+          "text": "La Cena del Señor"
         },
         {
-          "beforeVerse": 30,
-          "text": "Jesús anuncia la negación de Pedro"
+          "beforeVerse": 31,
+          "text": "Jesús predice la negación de Pedro"
         },
         {
           "beforeVerse": 36,
-          "text": "Jesús ora en Getsemaní"
+          "text": "Jesús en Getsemaní"
         },
         {
           "beforeVerse": 47,
-          "text": "Arresto de Jesús"
+          "text": "El arresto de Jesús"
         },
         {
           "beforeVerse": 57,
-          "text": "Jesús ante el concilio"
+          "text": "Jesús ante el Consejo"
         },
         {
           "beforeVerse": 69,
@@ -2667,7 +2595,7 @@
         "Él confía en Dios; pues que lo libre Dios ahora, si de veras lo quiere. ¿Acaso no dijo: “Yo soy el Hijo de Dios”? (27:43).",
         "Así también lo insultaban los bandidos que estaban crucificados con él. (27:44).",
         "Desde el mediodía y hasta las tres de la tarde, toda la tierra quedó en oscuridad. (27:45).",
-        "Como a las tres de la tarde, Jesús gritó con fuerza: [J]―Elí, Elí, ¿lema sabactani?[/J] (Esto significa [J]«Dios mío, Dios mío, ¿por qué me has abandonado?»[/J]). (27:46).",
+        "Como a las tres de la tarde, Jesús gritó con fuerza: [J]―Elí, Elí,[/J] [J]¿lema sabactani?[/J] (Esto significa [J]«Dios mío, Dios mío, ¿por qué me has abandonado?»[/J]). (27:46).",
         "Cuando lo oyeron, algunos de los que estaban allí dijeron: ―Está llamando a Elías. (27:47).",
         "Al instante uno de ellos corrió en busca de una esponja. La empapó en vinagre, la puso en una vara y se la ofreció a Jesús para que bebiera. (27:48).",
         "Los demás decían: ―Déjalo, a ver si viene Elías a salvarlo. (27:49).",
@@ -2737,31 +2665,31 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesús ante Pilato"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "Muerte de Judas"
+          "text": "Judas se ahorca"
         },
         {
           "beforeVerse": 11,
-          "text": "Pilato interroga a Jesús"
+          "text": "Jesús ante Pilato"
         },
         {
-          "beforeVerse": 15,
-          "text": "Jesús sentenciado a muerte"
+          "beforeVerse": 27,
+          "text": "Los soldados se burlan de Jesús"
         },
         {
           "beforeVerse": 32,
-          "text": "Crucifixión y muerte de Jesús"
+          "text": "La crucifixión"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "La muerte de Jesús"
         },
         {
           "beforeVerse": 57,
-          "text": "Jesús es sepultado"
+          "text": "La sepultura de Jesús"
         },
         {
           "beforeVerse": 62,
-          "text": "La guardia ante la tumba"
+          "text": "La guardia ante el sepulcro"
         }
       ]
     },
@@ -2828,7 +2756,7 @@
         },
         {
           "beforeVerse": 11,
-          "text": "El informe de la guardia"
+          "text": "El informe de los guardias"
         },
         {
           "beforeVerse": 16,

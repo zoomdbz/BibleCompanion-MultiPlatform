@@ -76,7 +76,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "La reina Vasti desafía a Asuero"
+          "text": "La destitución de la reina Vasti"
         }
       ]
     },
@@ -154,11 +154,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ester es proclamada reina"
+          "text": "La elección de Ester como reina"
         },
         {
           "beforeVerse": 19,
-          "text": "Mardoqueo denuncia una conspiración contra el rey"
+          "text": "La conspiración contra Asuero"
         }
       ]
     },
@@ -228,7 +228,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Amán trama la destrucción de los judíos"
+          "text": "La conspiración de Amán contra los judíos"
         }
       ]
     },
@@ -295,7 +295,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ester promete interceder por su pueblo"
+          "text": "El acuerdo entre Mardoqueo y Ester"
         }
       ]
     },
@@ -359,7 +359,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Ester invita al rey y a Amán a un banquete"
+          "text": "La petición de Ester al rey Asuero"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "El odio de Amán contra Mardoqueo"
         }
       ]
     },
@@ -423,7 +427,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Amán se ve obligado a honrar a Mardoqueo"
+          "text": "La exaltación de Mardoqueo"
         }
       ]
     },
@@ -483,7 +487,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Amán es ahorcado"
+          "text": "La humillación y muerte de Amán"
         }
       ]
     },
@@ -550,7 +554,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Decreto de Asuero a favor de los judíos"
+          "text": "El edicto real en favor de los judíos"
         }
       ]
     },
@@ -632,11 +636,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Los judíos destruyen a sus enemigos"
+          "text": "El triunfo de los judíos"
         },
         {
-          "beforeVerse": 16,
-          "text": "La fiesta de Purim"
+          "beforeVerse": 18,
+          "text": "La celebración del Purim"
         }
       ]
     },
@@ -684,7 +688,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Grandeza de Mardoqueo"
+          "text": "La grandeza de Mardoqueo"
         }
       ]
     }

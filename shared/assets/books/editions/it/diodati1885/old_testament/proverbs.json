@@ -177,6 +177,20 @@
           "verse": 33,
           "text": "Ma chi mi ascolta abiterà in sicurtà, E viverà in riposo, fuor di spavento di male."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’insegnamento della saggezza\nScopo dei proverbi"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Avvertimento contro le cattive compagnie"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "La saggezza esorta"
+        }
       ]
     },
     {
@@ -293,6 +307,12 @@
           "chapter": 2,
           "verse": 22,
           "text": "Ma gli empi saranno sterminati dalla terra, E i disleali ne saranno divelti."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La saggezza libera dal male"
         }
       ]
     },
@@ -476,6 +496,12 @@
           "verse": 35,
           "text": "I savi possederanno la gloria; Ma gli stolti se ne portano ignominia."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La saggezza ricompensa"
+        }
       ]
     },
     {
@@ -618,6 +644,12 @@
           "verse": 27,
           "text": "Non dichinar nè a destra, nè a sinistra; Rimuovi il tuo piè dal male."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La saggezza si acquista"
+        }
       ]
     },
     {
@@ -739,6 +771,12 @@
           "chapter": 5,
           "verse": 23,
           "text": "Egli morrà per mancamento di correzione; E andrà errando per la molta sua pazzia."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esortazione a fuggire l’immoralità"
         }
       ]
     },
@@ -922,6 +960,28 @@
           "verse": 35,
           "text": "Egli non avrà riguardo ad alcun riscatto; Ed avvegnachè tu moltiplichi i presenti, non però li accetterà."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’impegno assunto a garanzia del comportamento altrui"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "La pigrizia"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "L’ipocrisia"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Le cose che il Signore odia"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "L’adulterio"
+        }
       ]
     },
     {
@@ -1063,6 +1123,12 @@
           "chapter": 7,
           "verse": 27,
           "text": "La sua casa [ADD]è[/ADD] la via dell'inferno, Che scende a' più interni luoghi della morte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le seduzioni della prostituta"
         }
       ]
     },
@@ -1251,6 +1317,12 @@
           "verse": 36,
           "text": "Ma chi pecca contro a me fa ingiuria all'anima sua; Tutti quelli che mi odiano amano la morte."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "I meravigliosi precetti della saggezza"
+        }
       ]
     },
     {
@@ -1347,6 +1419,12 @@
           "chapter": 9,
           "verse": 18,
           "text": "Ed egli non sa che là [ADD]sono[/ADD] i morti; [ADD]E che[/ADD] quelli ch'ella ha convitati [ADD]son[/ADD] nel fondo dell'inferno."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L’invito della saggezza e l’invito della follia"
         }
       ]
     },
@@ -1515,6 +1593,12 @@
           "verse": 32,
           "text": "Le labbra del giusto conoscono ciò che [ADD]è[/ADD] gradevole; Ma la bocca dell'empio [ADD]non è altro che[/ADD] perversità."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La saggezza e il timore del Signore contrapposti alla saggezza umana e al peccato"
+        }
       ]
     },
     {
@@ -1677,7 +1761,8 @@
           "verse": 31,
           "text": "Ecco, il giusto riceve la sua retribuzione in terra; Quanto più [ADD]la riceverà[/ADD] l'empio e il peccatore?"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 12,
@@ -1824,7 +1909,8 @@
           "verse": 28,
           "text": "Nella via della giustizia [ADD]vi è[/ADD] vita; E [ADD]nel[/ADD] cammino de' [ADD]suoi[/ADD] sentieri non [ADD]vi è[/ADD] morte."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 13,
@@ -1956,7 +2042,8 @@
           "verse": 25,
           "text": "Il giusto mangerà a sazietà dell'anima sua; Ma il ventre degli empi avrà mancamento."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 14,
@@ -2138,7 +2225,8 @@
           "verse": 35,
           "text": "Il favor del re [ADD]è[/ADD] verso il servitore intendente; Ma la sua indegnazione [ADD]è[/ADD] contro a quello che reca vituperio."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 15,
@@ -2310,7 +2398,8 @@
           "verse": 33,
           "text": "Il timor del Signore [ADD]è[/ADD] ammaestramento di sapienza; E l'umiltà [ADD]va[/ADD] davanti alla gloria."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 16,
@@ -2482,7 +2571,8 @@
           "verse": 33,
           "text": "La sorte è gittata nel grembo; Ma dal Signore [ADD]procede[/ADD] tutto il giudicio di essa."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 17,
@@ -2629,7 +2719,8 @@
           "verse": 28,
           "text": "Lo stolto stesso è reputato savio, quando si tace; [ADD]E[/ADD] prudente, quando tiene le labbra chiuse."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 18,
@@ -2756,7 +2847,8 @@
           "verse": 24,
           "text": "Un uomo che ha degli amici deve portarsi da amico; E vi è tale amico, che è più congiunto che un fratello."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 19,
@@ -2908,7 +3000,8 @@
           "verse": 29,
           "text": "I giudicii sono apparecchiati agli schernitori, E le percosse al dosso degli stolti."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 20,
@@ -3065,7 +3158,8 @@
           "verse": 30,
           "text": "I lividori delle battiture, e le percosse che penetrano addentro nel ventre [ADD]Sono[/ADD] una lisciatura nel malvagio."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 21,
@@ -3227,7 +3321,8 @@
           "verse": 31,
           "text": "Il cavallo è apparecchiato per lo giorno della battaglia; Ma il salvare [ADD]appartiene[/ADD] al Signore."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 22,
@@ -3379,7 +3474,8 @@
           "verse": 29,
           "text": "Hai tu mai veduto un uomo spedito nelle sue faccende? Un tale comparirà nel cospetto del re, [ADD]E[/ADD] non comparirà davanti a gente bassa."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 23,
@@ -3561,7 +3657,8 @@
           "verse": 35,
           "text": "[ADD]Tu dirai:[/ADD] Altri mi ha battuto, ed io non ne ho sentita la doglia; Altri mi ha pesto, [ADD]ed[/ADD] io non me ne sono avveduto; Quando mi risveglierò? io tornerò a cercarlo ancora."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 24,
@@ -3738,7 +3835,8 @@
           "verse": 34,
           "text": "La tua povertà verrà [ADD]come[/ADD] un viandante, E la tua inopia come uno scudiere."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 25,
@@ -3884,6 +3982,12 @@
           "chapter": 25,
           "verse": 28,
           "text": "L'uomo, il cui animo non ha ritegno alcuno, [ADD]È[/ADD] una città sfasciata, senza mura."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Seconda parte di proverbi di Salomone, raccolti all’epoca di Ezechia; proverbi di Agur e di Lemuel"
         }
       ]
     },
@@ -4032,7 +4136,8 @@
           "verse": 28,
           "text": "La lingua bugiarda odia quelli ch'ella ha fiaccati; E la bocca lusinghiera produce ruina."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 27,
@@ -4174,7 +4279,8 @@
           "verse": 27,
           "text": "E l'abbondanza del latte delle capre è per tuo cibo, [ADD]E[/ADD] per cibo di casa tua, E per lo vitto delle tue serventi."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 28,
@@ -4321,7 +4427,8 @@
           "verse": 28,
           "text": "Quando gli empi sorgono, gli uomini si nascondono; Ma quando periscono, i giusti moltiplicano."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 29,
@@ -4463,7 +4570,8 @@
           "verse": 27,
           "text": "L'uomo iniquo [ADD]è[/ADD] l'abbominio de' giusti; E l'uomo che cammina dirittamente [ADD]è[/ADD] l'abbominio dell'empio."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 30,
@@ -4635,6 +4743,12 @@
           "verse": 33,
           "text": "Perciocchè, [ADD]come[/ADD] chi rimena il latte [ADD]ne[/ADD] fa uscir del burro; E chi stringe il naso, [ADD]ne[/ADD] fa uscir del sangue; Così ancora chi preme l'ira [ADD]ne[/ADD] fa uscir contesa."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parole di Agur"
+        }
       ]
     },
     {
@@ -4796,6 +4910,16 @@
           "chapter": 31,
           "verse": 31,
           "text": "Datele del frutto delle sue mani; E lodinla le sue opere nelle porte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Parole di Lemuel"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Elogio della donna virtuosa"
         }
       ]
     }

@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "language": "fr",
+  "baseEditionId": "nbs",
+  "editionId": "lsg1910",
+  "books": [
+    {
+      "bookId": "genesis",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 32, "sourceVerse": 1, "targetChapter": 31, "targetVerse": 55 },
+        { "sourceChapter": 32, "sourceVerse": 2, "sourceVerseEnd": 33, "targetChapter": 32, "targetVerse": 1, "targetVerseEnd": 32 }
+      ]
+    },
+    {
+      "bookId": "exodus",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 21, "sourceVerse": 37, "targetChapter": 22, "targetVerse": 1 },
+        { "sourceChapter": 22, "sourceVerse": 1, "sourceVerseEnd": 30, "targetChapter": 22, "targetVerse": 2, "targetVerseEnd": 31 }
+      ]
+    },
+    {
+      "bookId": "numbers",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 17, "sourceVerse": 1, "sourceVerseEnd": 15, "targetChapter": 16, "targetVerse": 36, "targetVerseEnd": 50 },
+        { "sourceChapter": 17, "sourceVerse": 16, "sourceVerseEnd": 28, "targetChapter": 17, "targetVerse": 1, "targetVerseEnd": 13 },
+        { "sourceChapter": 25, "sourceVerse": 19, "targetChapter": 26, "targetVerse": 1 },
+        { "sourceChapter": 26, "sourceVerse": 1, "targetChapter": 26, "targetVerse": 1 }
+      ]
+    },
+    {
+      "bookId": "deuteronomy",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 13, "sourceVerse": 1, "targetChapter": 12, "targetVerse": 32 },
+        { "sourceChapter": 13, "sourceVerse": 2, "sourceVerseEnd": 19, "targetChapter": 13, "targetVerse": 1, "targetVerseEnd": 18 },
+        { "sourceChapter": 23, "sourceVerse": 1, "targetChapter": 22, "targetVerse": 30 },
+        { "sourceChapter": 23, "sourceVerse": 2, "sourceVerseEnd": 26, "targetChapter": 23, "targetVerse": 1, "targetVerseEnd": 25 },
+        { "sourceChapter": 28, "sourceVerse": 69, "targetChapter": 29, "targetVerse": 1 },
+        { "sourceChapter": 29, "sourceVerse": 1, "sourceVerseEnd": 28, "targetChapter": 29, "targetVerse": 2, "targetVerseEnd": 29 }
+      ]
+    },
+    {
+      "bookId": "1_samuel",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 21, "sourceVerse": 1, "targetChapter": 20, "targetVerse": 43 },
+        { "sourceChapter": 21, "sourceVerse": 2, "sourceVerseEnd": 16, "targetChapter": 21, "targetVerse": 1, "targetVerseEnd": 15 }
+      ]
+    },
+    {
+      "bookId": "2_samuel",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 19, "sourceVerse": 1, "targetChapter": 18, "targetVerse": 33 },
+        { "sourceChapter": 19, "sourceVerse": 2, "sourceVerseEnd": 44, "targetChapter": 19, "targetVerse": 1, "targetVerseEnd": 43 }
+      ]
+    },
+    {
+      "bookId": "1_kings",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 5, "sourceVerse": 1, "sourceVerseEnd": 14, "targetChapter": 4, "targetVerse": 21, "targetVerseEnd": 34 },
+        { "sourceChapter": 5, "sourceVerse": 15, "sourceVerseEnd": 32, "targetChapter": 5, "targetVerse": 1, "targetVerseEnd": 18 }
+      ]
+    },
+    {
+      "bookId": "2_kings",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 12, "sourceVerse": 1, "targetChapter": 11, "targetVerse": 21 },
+        { "sourceChapter": 12, "sourceVerse": 2, "sourceVerseEnd": 22, "targetChapter": 12, "targetVerse": 1, "targetVerseEnd": 21 }
+      ]
+    },
+    {
+      "bookId": "1_chronicles",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 5, "sourceVerse": 27, "sourceVerseEnd": 41, "targetChapter": 6, "targetVerse": 1, "targetVerseEnd": 15 },
+        { "sourceChapter": 6, "sourceVerse": 1, "sourceVerseEnd": 66, "targetChapter": 6, "targetVerse": 16, "targetVerseEnd": 81 },
+        { "sourceChapter": 12, "sourceVerse": 4, "sourceVerseEnd": 5, "targetChapter": 12, "targetVerse": 4 },
+        { "sourceChapter": 12, "sourceVerse": 6, "sourceVerseEnd": 41, "targetChapter": 12, "targetVerse": 5, "targetVerseEnd": 40 }
+      ]
+    },
+    {
+      "bookId": "2_chronicles",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 1, "sourceVerse": 18, "targetChapter": 2, "targetVerse": 1 },
+        { "sourceChapter": 2, "sourceVerse": 1, "sourceVerseEnd": 17, "targetChapter": 2, "targetVerse": 2, "targetVerseEnd": 18 }
+      ]
+    },
+    {
+      "bookId": "nehemiah",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 3, "sourceVerse": 33, "sourceVerseEnd": 38, "targetChapter": 4, "targetVerse": 1, "targetVerseEnd": 6 },
+        { "sourceChapter": 4, "sourceVerse": 1, "sourceVerseEnd": 17, "targetChapter": 4, "targetVerse": 7, "targetVerseEnd": 23 },
+        { "sourceChapter": 7, "sourceVerse": 68, "targetChapter": 7, "targetVerse": 68, "targetVerseEnd": 69 },
+        { "sourceChapter": 7, "sourceVerse": 69, "sourceVerseEnd": 72, "targetChapter": 7, "targetVerse": 70, "targetVerseEnd": 73 },
+        { "sourceChapter": 10, "sourceVerse": 1, "targetChapter": 9, "targetVerse": 38 },
+        { "sourceChapter": 10, "sourceVerse": 2, "sourceVerseEnd": 40, "targetChapter": 10, "targetVerse": 1, "targetVerseEnd": 39 }
+      ]
+    },
+    {
+      "bookId": "job",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 34, "sourceVerse": 36, "sourceVerseEnd": 37, "targetChapter": 34, "targetVerse": 36 },
+        { "sourceChapter": 38, "sourceVerse": 39, "sourceVerseEnd": 41, "targetChapter": 39, "targetVerse": 1, "targetVerseEnd": 3 },
+        { "sourceChapter": 39, "sourceVerse": 1, "sourceVerseEnd": 30, "targetChapter": 39, "targetVerse": 4, "targetVerseEnd": 33 },
+        { "sourceChapter": 40, "sourceVerse": 1, "sourceVerseEnd": 5, "targetChapter": 39, "targetVerse": 34, "targetVerseEnd": 38 },
+        { "sourceChapter": 40, "sourceVerse": 6, "sourceVerseEnd": 24, "targetChapter": 40, "targetVerse": 1, "targetVerseEnd": 19 },
+        { "sourceChapter": 40, "sourceVerse": 25, "sourceVerseEnd": 32, "targetChapter": 40, "targetVerse": 20, "targetVerseEnd": 27 },
+        { "sourceChapter": 41, "sourceVerse": 1, "targetChapter": 40, "targetVerse": 28 },
+        { "sourceChapter": 41, "sourceVerse": 2, "sourceVerseEnd": 26, "targetChapter": 41, "targetVerse": 1, "targetVerseEnd": 25 }
+      ]
+    },
+    {
+      "bookId": "psalms",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 13, "sourceVerse": 1, "sourceVerseEnd": 4, "targetChapter": 13, "targetVerse": 2, "targetVerseEnd": 5 },
+        { "sourceChapter": 13, "sourceVerse": 5, "sourceVerseEnd": 6, "targetChapter": 13, "targetVerse": 6 }
+      ]
+    },
+    {
+      "bookId": "ecclesiastes",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 11, "sourceVerse": 9, "sourceVerseEnd": 10, "targetChapter": 12, "targetVerse": 1, "targetVerseEnd": 2 },
+        { "sourceChapter": 12, "sourceVerse": 1, "sourceVerseEnd": 14, "targetChapter": 12, "targetVerse": 3, "targetVerseEnd": 16 }
+      ]
+    },
+    {
+      "bookId": "jeremiah",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 8, "sourceVerse": 23, "targetChapter": 9, "targetVerse": 1 },
+        { "sourceChapter": 9, "sourceVerse": 1, "sourceVerseEnd": 25, "targetChapter": 9, "targetVerse": 2, "targetVerseEnd": 26 }
+      ]
+    },
+    {
+      "bookId": "daniel",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 3, "sourceVerse": 31, "sourceVerseEnd": 33, "targetChapter": 4, "targetVerse": 1, "targetVerseEnd": 3 },
+        { "sourceChapter": 4, "sourceVerse": 1, "sourceVerseEnd": 34, "targetChapter": 4, "targetVerse": 4, "targetVerseEnd": 37 },
+        { "sourceChapter": 6, "sourceVerse": 1, "targetChapter": 5, "targetVerse": 31 },
+        { "sourceChapter": 6, "sourceVerse": 2, "sourceVerseEnd": 29, "targetChapter": 6, "targetVerse": 1, "targetVerseEnd": 28 }
+      ]
+    },
+    {
+      "bookId": "hosea",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 14, "sourceVerse": 1, "targetChapter": 13, "targetVerse": 16 },
+        { "sourceChapter": 14, "sourceVerse": 2, "sourceVerseEnd": 10, "targetChapter": 14, "targetVerse": 1, "targetVerseEnd": 9 }
+      ]
+    },
+    {
+      "bookId": "zechariah",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 2, "sourceVerse": 1, "sourceVerseEnd": 4, "targetChapter": 1, "targetVerse": 18, "targetVerseEnd": 21 },
+        { "sourceChapter": 2, "sourceVerse": 5, "sourceVerseEnd": 17, "targetChapter": 2, "targetVerse": 1, "targetVerseEnd": 13 }
+      ]
+    },
+    {
+      "bookId": "mark",
+      "complete": false,
+      "mappings": [
+        { "sourceChapter": 9, "sourceVerse": 50, "targetChapter": 9, "targetVerse": 50, "targetVerseEnd": 51 },
+        { "sourceChapter": 10, "sourceVerse": 52, "targetChapter": 10, "targetVerse": 52, "targetVerseEnd": 53 }
+      ]
+    }
+  ],
+  "provenance": {
+    "coverage": "Exhaustive explicit non-identity NBS-to-LSG 1910 mappings found by an all-66-book source-text audit. Unlisted coordinates deliberately fail closed; equal verse numbers alone are not asserted equivalent.",
+    "primarySource": {
+      "title": "STEPBible TVTMS - Translators Versification Traditions with Methodology for Standardisation",
+      "sourceRepository": "https://github.com/STEPBible/STEPBible-Data",
+      "sourceUrl": "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/b99716b0cddb648ddb95cc786a197180f2f97d48/Versification/TVTMS%20-%20Translators%20Versification%20Traditions%20with%20Methodology%20for%20Standardisation%20for%20Eng%2BHeb%2BLat%2BGrk%2BOthers%20-%20STEPBible.org%20CC%20BY.txt",
+      "sourceCommit": "b99716b0cddb648ddb95cc786a197180f2f97d48",
+      "sourceSha256": "63058e0f20201af4bdaa7d830da5be8f493455d947c5f147d84840b33db9ddf8",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Data created by STEPBible.org based on work at Tyndale House Cambridge."
+    },
+    "crossCheckSource": {
+      "title": "CrossWire JSword Segond-to-KJV versification mapping",
+      "sourceRepository": "https://github.com/crosswire/jsword",
+      "sourceUrl": "https://raw.githubusercontent.com/crosswire/jsword/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/src/main/resources/org/crosswire/jsword/versification/Segond.properties",
+      "sourceCommit": "a2c51f3c3a55416f3c991a67ef3d635c7ee55330",
+      "sourceSha256": "47dfe8f7d6a43fbe0d8f16af972db1e420907e540ab32d09a16313719a489b6f",
+      "license": "LGPL-2.1-or-later",
+      "licenseUrl": "https://github.com/crosswire/jsword/blob/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/LICENSE"
+    },
+    "editionSource": {
+      "title": "Bible Louis Segond 1910",
+      "detailsUrl": "https://ebible.org/details.php?id=fraLSG",
+      "archiveUrl": "https://ebible.org/Scriptures/fraLSG_usfm.zip",
+      "archiveSha256": "3a0615e992ffd412b1afcaed50d146bba5ec8ae2378f04ca71459a4cd2d7cc33",
+      "license": "Public Domain"
+    },
+    "retrieved": "2026-09-26",
+    "unresolvedTargetOnlyCoordinates": [
+      "Psalms 13:1",
+      "Matthew 17:21",
+      "Matthew 18:11",
+      "Matthew 23:14",
+      "Mark 7:16",
+      "Mark 9:44",
+      "Mark 9:46",
+      "Mark 11:26",
+      "Mark 15:28",
+      "Luke 17:36",
+      "Luke 23:17",
+      "John 5:4",
+      "Acts 8:37",
+      "Acts 15:34",
+      "Acts 24:7",
+      "Acts 28:29",
+      "Romans 16:24"
+    ],
+    "modifications": [
+      "Composed TVTMS Hebrew/KJV alignments with the pinned CrossWire Segond/KJV table where both authorities supplied the boundary.",
+      "Verified every emitted row against the checked-in NBS verse text and the pinned eBible LSG 1910 source-derived overlay.",
+      "Added the Job 34:36-37 merge established by direct source-text alignment; neither standardized table exposes that edition-specific merge.",
+      "Compressed adjacent positional mappings without changing any coordinate.",
+      "Did not invent subverse letters or map target-only LSG verses to neighboring NBS text."
+    ]
+  }
+}

@@ -51,7 +51,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Prefácio e saudação Ação de graças"
+          "text": "Saudações de Paulo"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Ação de graças pelos tessalonicenses"
         }
       ]
     },
@@ -114,15 +118,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O proceder do apóstolo Paulo e seus cooperadores na evangelização de Tessalônica"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "O proceder fiel dos tessalonicenses nas tribulações"
+          "text": "Paulo recorda sua visita"
         },
         {
           "beforeVerse": 17,
-          "text": "O interesse de Paulo pelos tessalonicenses"
+          "text": "O relato animador de Timóteo a respeito da igreja"
         }
       ]
     },
@@ -175,16 +175,7 @@
         }
       ],
       "keyTakeaway": "Quando não pode mais suportar, Paulo envia Timóteo de Atenas para fortalecer os tessalonicenses nas aflições, temendo que o tentador os tivesse tentado; Timóteo volta com boas notícias da fé e do amor deles, e Paulo ora noite e dia para revê-los e para que o Senhor firme os corações deles, irrepreensíveis em santidade, na vinda do Senhor Jesus com todos os seus santos.",
-      "headings": [
-        {
-          "beforeVerse": 1,
-          "text": "Paulo envia-lhes Timóteo. As boas notícias trazidas por este ao apóstolo"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "Oração de Paulo pelos tessalonicenses"
-        }
-      ]
+      "headings": []
     },
     {
       "id": "1_thessalonians-4",
@@ -243,15 +234,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Exortação à prática da santidade"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "Exortação à prática do amor fraternal"
+          "text": "Uma vida dedicada a agradar a Deus"
         },
         {
           "beforeVerse": 13,
-          "text": "A situação dos mortos em Cristo e a vinda do Senhor"
+          "text": "A esperança da ressurreição"
         }
       ]
     },
@@ -316,24 +303,12 @@
       "keyTakeaway": "O dia do Senhor virá como ladrão de noite, por isso Paulo exorta os filhos da luz a ficarem acordados e sóbrios, armados com a fé, o amor e a esperança da salvação, pois Deus os destinou à salvação, e não à ira; ele encerra ordenando honrar os líderes, admoestar os desordeiros, alegrar-se sempre, orar sem cessar, dar graças em tudo, examinar todas as coisas e ser guardados irrepreensíveis em espírito, alma e corpo na vinda do Senhor Jesus Cristo.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "A vinda do Senhor é certa e repentina"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "A necessidade de vigilância"
-        },
-        {
           "beforeVerse": 12,
-          "text": "Diversos preceitos"
+          "text": "Conselhos finais"
         },
         {
           "beforeVerse": 23,
-          "text": "O voto do apóstolo"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "A saudação final e a bênção"
+          "text": "Saudações finais"
         }
       ]
     }

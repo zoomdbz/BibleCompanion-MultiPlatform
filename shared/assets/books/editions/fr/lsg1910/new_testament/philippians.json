@@ -162,6 +162,24 @@
           "verse": 30,
           "text": "en soutenant le même combat que vous m’avez vu soutenir, et que vous apprenez maintenant que je soutiens."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Intercession"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La progression de la bonne nouvelle"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Une vie qui s'accorde à la bonne nouvelle"
+        }
       ]
     },
     {
@@ -319,6 +337,20 @@
           "verse": 30,
           "text": "Car c’est pour l’œuvre de Christ qu’il a été près de la mort, ayant exposé sa vie afin de suppléer à votre absence dans le service que vous me rendiez."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L'humilité et la grandeur du Christ"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Briller comme des flambeaux dans le monde"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Mission de Timothée et d'Epaphrodite"
+        }
       ]
     },
     {
@@ -430,6 +462,16 @@
           "chapter": 3,
           "verse": 21,
           "text": "qui transformera le corps de notre humiliation, en le rendant semblable au corps de sa gloire, par le pouvoir qu’il a de s’assujettir toutes choses."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "La vraie manière d'être juste aux yeux de Dieu"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Courir vers le but"
         }
       ]
     },
@@ -552,6 +594,20 @@
           "chapter": 4,
           "verse": 23,
           "text": "Que la grâce du Seigneur Jésus-Christ soit avec votre esprit!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Réjouissez-vous dans le Seigneur"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Votre don, un sacrifice agréé de Dieu"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Salutations finales"
         }
       ]
     }

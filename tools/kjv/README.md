@@ -18,8 +18,10 @@ python -B tools/kjv/validate_kjv_overlays.py --source "C:\path\to\extracted\eng-
 
 The scripts require the archive SHA-256
 `1BAB5D4D030439831FC0B39D7F11001DD8527FC6277405E7F6512273C200C3A4`
-when `--archive` is supplied. The 80 extracted Scripture files are separately
-pinned by the manifest's deterministic file-set SHA-256.
+when `--archive` is supplied. Both scripts independently enforce the 80-file
+extraction pin `07378DB0B11E8B882841729544F55B7BC6D543BAF855D14CC0FF6B120ABB061F`,
+even without `--archive`. A valid archive cannot hide edited or stale extracted
+files; the importer checks the pin before touching generated output.
 
 ## Overlay schema
 

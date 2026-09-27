@@ -68,11 +68,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "تجارب ومحن"
+          "text": "تحية"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "الإيمان والثبات"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "المحن والإغراءات"
         },
         {
           "beforeVerse": 19,
-          "text": "الاستماع والعمل"
+          "text": "اعملوا بكلام الله"
         }
       ]
     },
@@ -141,7 +149,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "تحذير من المحاباة"
+          "text": "عاملوا الناس بالمساواة"
         },
         {
           "beforeVerse": 14,
@@ -206,11 +214,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "ضبط اللسان"
+          "text": "السيطرة على اللسان"
         },
         {
           "beforeVerse": 13,
-          "text": "نوعان من الحكمة"
+          "text": "الحكمة التي من الله"
         }
       ]
     },
@@ -270,11 +278,23 @@
       "headings": [
         {
           "beforeVerse": 1,
+          "text": "النزاع بينهم"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "محبة الدنيا"
+        },
+        {
+          "beforeVerse": 7,
           "text": "اخضعوا لله"
         },
         {
+          "beforeVerse": 11,
+          "text": "لا تنتقدوا الآخرين"
+        },
+        {
           "beforeVerse": 13,
-          "text": "لا تفتخروا بالغد"
+          "text": "توكلوا على الله"
         }
       ]
     },
@@ -341,11 +361,11 @@
         },
         {
           "beforeVerse": 7,
-          "text": "الصبر في الضيقات"
+          "text": "الصبر في الألم"
         },
         {
           "beforeVerse": 13,
-          "text": "صلاة الإيمان"
+          "text": "دعاء الله"
         }
       ]
     }

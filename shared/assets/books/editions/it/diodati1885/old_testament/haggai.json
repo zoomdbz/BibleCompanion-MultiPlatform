@@ -87,6 +87,12 @@
           "verse": 15,
           "text": "[ADD]Ciò fu[/ADD] nel ventesimoquarto giorno del sesto mese, nell'anno secondo del re Dario."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esortazione a ricostruire il tempio di Gerusalemme"
+        }
       ]
     },
     {
@@ -208,6 +214,20 @@
           "chapter": 2,
           "verse": 23,
           "text": "In quel giorno, dice il Signor degli eserciti, io ti prenderò, o Zorobabel, figliuolo di Sealtiel, mio servitore, dice il Signore; e ti metterò come un suggello; perciocchè io ti ho eletto, dice il Signor degli eserciti."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La gloria del secondo tempio"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Promesse di benedizioni"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Promesse per Zorobabele"
         }
       ]
     }

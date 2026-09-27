@@ -28,6 +28,11 @@
     "footnotes": "USFM f apparatus is intentionally excluded from display text; counts are retained for audit.",
     "paragraphMarks": "USFM paragraph structure and printed pilcrow glyphs are presentation data and are intentionally excluded from verse text."
   },
+  "headings": {
+    "textSource": "Localized English editorial headings already shipped with the app; not KJV publisher headings.",
+    "placement": "Explicit per-chapter beforeVerse lookup in displayed KJV coordinates.",
+    "emptyChapters": "Stored as explicit empty arrays; runtime fallback is forbidden."
+  },
   "totals": {
     "overlayBooks": 80,
     "fallbackBooks": 4,
@@ -1295,5 +1300,102 @@
       "fallbackEditionId": "current",
       "reason": "The pinned KJV/KJVA source contains no 4 Maccabees."
     }
-  ]
+  ],
+  "referenceMap": {
+    "path": "_reference_map.json",
+    "books": [
+      "3_john",
+      "revelation",
+      "1_chronicles",
+      "1_kings",
+      "1_samuel",
+      "2_chronicles",
+      "2_kings",
+      "2_samuel",
+      "amos",
+      "daniel",
+      "deuteronomy",
+      "ecclesiastes",
+      "esther",
+      "exodus",
+      "ezekiel",
+      "ezra",
+      "genesis",
+      "habakkuk",
+      "haggai",
+      "hosea",
+      "isaiah",
+      "jeremiah",
+      "job",
+      "joel",
+      "jonah",
+      "joshua",
+      "judges",
+      "lamentations",
+      "leviticus",
+      "malachi",
+      "micah",
+      "nahum",
+      "nehemiah",
+      "numbers",
+      "obadiah",
+      "proverbs",
+      "psalms",
+      "ruth",
+      "song_of_songs",
+      "zechariah",
+      "zephaniah",
+      "1_corinthians",
+      "1_john",
+      "1_peter",
+      "1_thessalonians",
+      "1_timothy",
+      "2_corinthians",
+      "2_john",
+      "2_peter",
+      "2_thessalonians",
+      "2_timothy",
+      "acts",
+      "colossians",
+      "ephesians",
+      "galatians",
+      "hebrews",
+      "james",
+      "john",
+      "jude",
+      "luke",
+      "mark",
+      "matthew",
+      "philemon",
+      "philippians",
+      "romans",
+      "titus"
+    ],
+    "provenance": {
+      "sources": [
+        {
+          "mappingSource": "Direct comparison of supplied BSB USFM and the pinned KJV source. App BSB merged aliases 3 John 1:14-15 and Revelation 12:17-18 retain whole source units. This maps passage boundaries, not identical wording; BSB Revelation names the dragon where KJV says I.",
+          "sourceUrl": "https://ebible.org/Scriptures/eng-kjv_usfm.zip",
+          "sourceArchiveSha256": "1bab5d4d030439831fc0b39d7f11001dd8527fc6277405e7f6512273c200c3a4",
+          "sourceLicense": "Public domain outside the United Kingdom; separate UK rights determination required.",
+          "verificationUrls": [
+            "https://www.bible.com/bible/3034/3JN.1.BSB",
+            "https://www.bible.com/bible/3034/REV.12.BSB",
+            "https://www.bible.com/bible/1/REV.13.KJV"
+          ],
+          "coveragePolicy": "Only explicit rows authorize conversion. Unlisted coordinates retain their source edition. Expand native combined verse units before conversion; cross-chapter target spans remain in the source edition."
+        },
+        {
+          "auditDate": "2026-09-26",
+          "method": "Same-coordinate identity only for complete native units untouched by existing exception rules; combined lines remain whole. Non-English base stories require fresh hash-bound rendered Bible.com parity. Text similarity is diagnostic, not a gate.",
+          "baseAuthority": "Checked-in BSB source",
+          "targetAuthority": "SHA-pinned traditional source archive and validated overlay",
+          "avoidsPreviouslyMappedChapters": true,
+          "evidenceManifestSha256": "67912f6ab03a7c76cb5051b4b28f2074a6219f5aabe42e70d82abd634b343755",
+          "mappedChapters": 1189,
+          "skippedChapters": {}
+        }
+      ]
+    }
+  }
 }

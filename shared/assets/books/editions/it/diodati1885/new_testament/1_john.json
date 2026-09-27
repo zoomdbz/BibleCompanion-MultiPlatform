@@ -62,6 +62,16 @@
           "verse": 10,
           "text": "Se diciamo di non aver peccato, lo facciamo bugiardo, e la sua parola non è in noi."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La parola della vita manifestata in carne"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Dio è luce; bisogna camminare nella luce per avere comunione con lui"
+        }
       ]
     },
     {
@@ -214,6 +224,20 @@
           "verse": 29,
           "text": "Se voi sapete ch'egli è giusto, sappiate che chiunque opera la giustizia è nato da lui."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "L’amore fraterno e la separazione dal mondo"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Gli anticristi"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Le caratteristiche dei figli di Dio"
+        }
       ]
     },
     {
@@ -341,7 +365,8 @@
           "verse": 24,
           "text": "E chi osserva i suoi comandamenti dimora in lui, ed egli in esso; e per questo conosciamo ch'egli dimora in noi, [ADD]cioè:[/ADD] dallo Spirito che egli ci ha donato."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 4,
@@ -452,6 +477,16 @@
           "chapter": 4,
           "verse": 21,
           "text": "E questo comandamento abbiam da lui: che chi ama Iddio, ami ancora il suo fratello."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Il discernimento degli spiriti"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "L’amore di Dio e l’amore fraterno"
         }
       ]
     },
@@ -564,6 +599,12 @@
           "chapter": 5,
           "verse": 21,
           "text": "Figlioletti, guardatevi dagl'idoli. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La fede in Gesù e le sue conseguenze"
         }
       ]
     }

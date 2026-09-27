@@ -84,15 +84,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Uso dos provérbios"
+          "text": "A finalidade dos provérbios"
         },
         {
           "beforeVerse": 8,
-          "text": "Contra as seduções dos pecadores"
+          "text": "O conselho de um pai: adquira sabedoria"
         },
         {
           "beforeVerse": 20,
-          "text": "Clama a Sabedoria"
+          "text": "A Sabedoria grita nas ruas"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A excelência da sabedoria"
+          "text": "Os benefícios da sabedoria"
         }
       ]
     },
@@ -242,7 +242,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Exortações da Sabedoria a obedecer ao Senhor"
+          "text": "Confiança no S\nenhor"
         }
       ]
     },
@@ -307,7 +307,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Exortação paternal"
+          "text": "O conselho sábio de um pai"
         }
       ]
     },
@@ -368,7 +368,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Advertência contra a lascívia"
+          "text": "Evite mulheres imorais"
         }
       ]
     },
@@ -446,19 +446,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Advertência contra o servir de fiador"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Advertência contra a preguiça"
-        },
-        {
-          "beforeVerse": 12,
-          "text": "Advertência contra a maldade"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "Advertência contra a mulher adúltera"
+          "text": "Lições para a vida diária"
         }
       ]
     },
@@ -538,7 +526,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Mais advertências contra a mulher adúltera"
+          "text": "Outra advertência sobre mulheres imorais"
         }
       ]
     },
@@ -618,11 +606,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A excelência da Sabedoria"
-        },
-        {
-          "beforeVerse": 22,
-          "text": "A eternidade da Sabedoria"
+          "text": "A Sabedoria pede para ser ouvida"
         }
       ]
     },
@@ -677,12 +661,8 @@
       "keyTakeaway": "A Sabedoria convida publicamente os ingênuos para um banquete preparado que traz vida e discernimento, enquanto a Loucura imita o chamado com prazeres roubados que levam os mortos ao Sheol.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "O banquete da Sabedoria"
-        },
-        {
           "beforeVerse": 13,
-          "text": "O convite da mulher-loucura"
+          "text": "A Insensatez pede para ser ouvida"
         }
       ]
     },
@@ -759,7 +739,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O justo em contraste com o perverso"
+          "text": "Provérbios de Salomão"
         }
       ]
     },
@@ -1644,7 +1624,7 @@
       "headings": [
         {
           "beforeVerse": 17,
-          "text": "Preceitos e admoestações dos sábios"
+          "text": "Ditados dos sábios"
         }
       ]
     },
@@ -1792,7 +1772,7 @@
       "headings": [
         {
           "beforeVerse": 23,
-          "text": "Mais alguns provérbios dos sábios"
+          "text": "Mais ditados dos sábios"
         }
       ]
     },
@@ -1864,7 +1844,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Símiles e lições morais"
+          "text": "Mais provérbios de Salomão"
         }
       ]
     },
@@ -2064,12 +2044,7 @@
         }
       ],
       "keyTakeaway": "Esta seção contrasta a ousadia dos justos com o temor dos ímpios, enfatiza a obediência à lei e a prática da justiça, e adverte contra governos opressores, cobrança de juros, ocultação do pecado, parcialidade, ganância e descaso com os pobres.",
-      "headings": [
-        {
-          "beforeVerse": 1,
-          "text": "Provérbios antitéticos"
-        }
-      ]
+      "headings": []
     },
     {
       "id": "proverbs-29",
@@ -2209,7 +2184,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As palavras de Agur"
+          "text": "Ditados de Agur"
         }
       ]
     },
@@ -2284,11 +2259,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Conselhos para o rei Lemuel"
+          "text": "Ditados do rei Lemuel"
         },
         {
           "beforeVerse": 10,
-          "text": "O louvor da mulher virtuosa"
+          "text": "A mulher virtuosa"
         }
       ]
     }

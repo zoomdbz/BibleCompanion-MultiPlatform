@@ -1,0 +1,1118 @@
+{
+  "schemaVersion": 1,
+  "description": "Reviewed edition-specific placements for localized app headings. Target fragments must reproduce each source heading exactly.",
+  "editions": [
+    {
+      "language": "de",
+      "editionId": "luther1912",
+      "bookCode": "ISA",
+      "collection": "old_testament",
+      "bookId": "isaiah",
+      "pinnedSource": {
+        "title": "Lutherbibel 1912",
+        "url": "https://ebible.org/Scriptures/deu1912_usfm.zip",
+        "artifactSha256": "650A8192134A8F0057286C469754EDCFAEE4FBB18800621AEE4563F3055BB39B",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 8,
+          "sourceBeforeVerse": 23,
+          "sourceText": "Verheißung des kommenden Friedefürsten",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 9,
+              "beforeVerse": 1,
+              "text": "Verheißung des kommenden Friedefürsten"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "JOB",
+      "collection": "old_testament",
+      "bookId": "job",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 38,
+          "sourceBeforeVerse": 39,
+          "sourceText": "Dio si prende cura degli animali",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 39,
+              "beforeVerse": 1,
+              "text": "Dio si prende cura degli animali"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "ru",
+      "editionId": "synodal1876",
+      "bookCode": "ROM",
+      "collection": "new_testament",
+      "bookId": "romans",
+      "pinnedSource": {
+        "title": "Russian Synodal Bible 1876",
+        "url": "https://ebible.org/Scriptures/russyn_usfm.zip",
+        "artifactSha256": "ACD5D80C0D28CA72D17CB12A2BB9F561D957439B03BDDFAA433BEB51CF7B0363",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 16,
+          "sourceBeforeVerse": 25,
+          "sourceText": "Прославление Бога",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 14,
+              "beforeVerse": 24,
+              "text": "Прославление Бога"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "editionId": "cuv",
+      "bookCode": "JHN",
+      "collection": "new_testament",
+      "bookId": "john",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, traditional script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "artifactSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 7,
+          "sourceBeforeVerse": 53,
+          "sourceText": "犯姦淫時被捉的女人",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 8,
+              "beforeVerse": 1,
+              "text": "犯姦淫時被捉的女人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "editionId": "lsg1910",
+      "bookCode": "PHP",
+      "collection": "new_testament",
+      "bookId": "philippians",
+      "pinnedSource": {
+        "title": "Bible Louis Segond 1910",
+        "url": "https://ebible.org/Scriptures/fraLSG_usfm.zip",
+        "artifactSha256": "3A0615E992FFD412B1AFCAED50D146BBA5EC8AE2378F04CA71459A4CD2D7CC33",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 3,
+          "sourceBeforeVerse": 1,
+          "sourceText": "La vraie manière d'être juste aux yeux de Dieu",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 3,
+              "beforeVerse": 2,
+              "text": "La vraie manière d'être juste aux yeux de Dieu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "EXO",
+      "collection": "old_testament",
+      "bookId": "exodus",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 14,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Passaggio del mar Rosso",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 13,
+              "beforeVerse": 17,
+              "text": "Passaggio del mar Rosso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "LEV",
+      "collection": "old_testament",
+      "bookId": "leviticus",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 25,
+          "sourceBeforeVerse": 25,
+          "sourceText": "Riscatto delle terre e degli schiavi",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 25,
+              "beforeVerse": 23,
+              "text": "Riscatto delle terre e degli schiavi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "NUM",
+      "collection": "old_testament",
+      "bookId": "numbers",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 20,
+          "sourceBeforeVerse": 23,
+          "sourceText": "Morte di Aaronne",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 20,
+              "beforeVerse": 22,
+              "text": "Morte di Aaronne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "JOS",
+      "collection": "old_testament",
+      "bookId": "joshua",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 13,
+          "sourceBeforeVerse": 8,
+          "sourceText": "Spartizione del paese a oriente del Giordano",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 13,
+              "beforeVerse": 1,
+              "text": "Spartizione del paese a oriente del Giordano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "NEH",
+      "collection": "old_testament",
+      "bookId": "nehemiah",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 7,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Censimento degli Israeliti tornati dall’esilio con Zorobabele",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 7,
+              "beforeVerse": 5,
+              "text": "Censimento degli Israeliti tornati dall’esilio con Zorobabele"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "EST",
+      "collection": "old_testament",
+      "bookId": "esther",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 7,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Aman denunciato da Ester e messo a morte",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 6,
+              "beforeVerse": 14,
+              "text": "Aman denunciato da Ester e messo a morte"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 8,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Decreto in favore dei Giudei",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 8,
+              "beforeVerse": 3,
+              "text": "Decreto in favore dei Giudei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "JER",
+      "collection": "old_testament",
+      "bookId": "jeremiah",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 1,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Vocazione e missione di Geremia",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 1,
+              "beforeVerse": 4,
+              "text": "Vocazione e missione di Geremia"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 37,
+          "sourceBeforeVerse": 11,
+          "sourceText": "Geremia in prigione",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 37,
+              "beforeVerse": 1,
+              "text": "Geremia in prigione"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "EZK",
+      "collection": "old_testament",
+      "bookId": "ezekiel",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 36,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Il ristabilimento d’Israele",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 36,
+              "beforeVerse": 16,
+              "text": "Il ristabilimento d’Israele"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "ZEP",
+      "collection": "old_testament",
+      "bookId": "zephaniah",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 1,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Minacce contro Giuda e Gerusalemme",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 1,
+              "beforeVerse": 2,
+              "text": "Minacce contro Giuda e Gerusalemme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "LUK",
+      "collection": "new_testament",
+      "bookId": "luke",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 4,
+          "sourceBeforeVerse": 31,
+          "sourceText": "Gesù guarisce un indemoniato a Capernaum",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 4,
+              "beforeVerse": 33,
+              "text": "Gesù guarisce un indemoniato a Capernaum"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 23,
+          "sourceBeforeVerse": 50,
+          "sourceText": "Il seppellimento di Gesù",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 23,
+              "beforeVerse": 49,
+              "text": "Il seppellimento di Gesù"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "JHN",
+      "collection": "new_testament",
+      "bookId": "john",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 1,
+          "sourceBeforeVerse": 40,
+          "sourceText": "I primi discepoli",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 1,
+              "beforeVerse": 35,
+              "text": "I primi discepoli"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 3,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Gesù e Nicodemo: la nuova nascita",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 2,
+              "beforeVerse": 23,
+              "text": "Gesù e Nicodemo: la nuova nascita"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 13,
+          "sourceBeforeVerse": 18,
+          "sourceText": "Gesù annuncia il tradimento di Giuda",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 13,
+              "beforeVerse": 21,
+              "text": "Gesù annuncia il tradimento di Giuda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "ACT",
+      "collection": "new_testament",
+      "bookId": "acts",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 7,
+          "sourceBeforeVerse": 54,
+          "sourceText": "Stefano, primo martire della fede",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 6,
+              "beforeVerse": 8,
+              "text": "Stefano, primo martire della fede"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 17,
+          "sourceBeforeVerse": 16,
+          "sourceText": "Paolo ad Atene; il discorso nell’Areòpago",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 17,
+              "beforeVerse": 15,
+              "text": "Paolo ad Atene; il discorso nell’Areòpago"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "2CO",
+      "collection": "new_testament",
+      "bookId": "2_corinthians",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 13,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Ultime esortazioni ai Corinzi; saluti",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 12,
+              "beforeVerse": 19,
+              "text": "Ultime esortazioni ai Corinzi; saluti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "COL",
+      "collection": "new_testament",
+      "bookId": "colossians",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 2,
+          "sourceBeforeVerse": 4,
+          "sourceText": "Avvertimento contro le false dottrine",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 2,
+              "beforeVerse": 1,
+              "text": "Avvertimento contro le false dottrine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "HEB",
+      "collection": "new_testament",
+      "bookId": "hebrews",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 5,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Gesù superiore ai sommi sacerdoti dell’antico patto",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 4,
+              "beforeVerse": 14,
+              "text": "Gesù superiore ai sommi sacerdoti dell’antico patto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "JAS",
+      "collection": "new_testament",
+      "bookId": "james",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 1,
+          "sourceBeforeVerse": 16,
+          "sourceText": "Mettere in pratica la Parola di Dio",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 1,
+              "beforeVerse": 19,
+              "text": "Mettere in pratica la Parola di Dio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "1SA",
+      "collection": "old_testament",
+      "bookId": "1_samuel",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 7,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Sconfitta dei Filistei a Eben-Ezer",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 7,
+              "beforeVerse": 2,
+              "text": "Sconfitta dei Filistei a Eben-Ezer"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 10,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Saul unto re d’Israele",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 9,
+              "beforeVerse": 1,
+              "text": "Saul unto re d’Israele"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "2SA",
+      "collection": "old_testament",
+      "bookId": "2_samuel",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 18,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Sconfitta e morte di Absalom",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 17,
+              "beforeVerse": 24,
+              "text": "Sconfitta e morte di Absalom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "2KI",
+      "collection": "old_testament",
+      "bookId": "2_kings",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 2,
+          "sourceBeforeVerse": 12,
+          "sourceText": "La missione di Eliseo; i suoi miracoli",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 2,
+              "beforeVerse": 13,
+              "text": "La missione di Eliseo; i suoi miracoli"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "1CH",
+      "collection": "old_testament",
+      "bookId": "1_chronicles",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 12,
+          "sourceBeforeVerse": 24,
+          "sourceText": "Guerrieri delle dodici tribù che si recarono a Ebron per proclamarvi re Davide",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 12,
+              "beforeVerse": 23,
+              "text": "Guerrieri delle dodici tribù che si recarono a Ebron per proclamarvi re Davide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "2CH",
+      "collection": "old_testament",
+      "bookId": "2_chronicles",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 31,
+          "sourceBeforeVerse": 1,
+          "sourceText": "Ezechia riordina il culto levitico",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 31,
+              "beforeVerse": 2,
+              "text": "Ezechia riordina il culto levitico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "it",
+      "editionId": "diodati1885",
+      "bookCode": "1CO",
+      "collection": "new_testament",
+      "bookId": "1_corinthians",
+      "pinnedSource": {
+        "title": "Diodati Bibbia 1885",
+        "url": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "artifactSha256": "459884735DF5D5AE7F3381980BC5EA846F0034CEA305FA77B5D72E09727E051C",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 15,
+          "sourceBeforeVerse": 12,
+          "sourceText": "La risurrezione dai morti",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 15,
+              "beforeVerse": 1,
+              "text": "La risurrezione dai morti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "editionId": "van_dyck",
+      "bookCode": "HAB",
+      "collection": "old_testament",
+      "bookId": "habakkuk",
+      "pinnedSource": {
+        "title": "Arabic Van Dyck Bible",
+        "url": "https://ebible.org/Scriptures/arb-vd_usfm.zip",
+        "artifactSha256": "E4A2AB9491B2AC2FF799BB2A80EC9322203A7C36E78210B4506DF84308C54948",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 1,
+          "sourceBeforeVerse": 1,
+          "sourceText": "شكوى حبقوق",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 1,
+              "beforeVerse": 2,
+              "text": "شكوى حبقوق"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hans",
+      "editionId": "cuv",
+      "bookCode": "JOS",
+      "collection": "old_testament",
+      "bookId": "joshua",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, simplified script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89s_usfm.zip",
+        "artifactSha256": "68DF122E9195E071DC286F19EF53E530FCAADB3A16A7DC34B8430B7062F70598",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 5,
+          "sourceBeforeVerse": 1,
+          "sourceText": "在吉甲行割礼",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 5,
+              "beforeVerse": 2,
+              "text": "在吉甲行割礼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hans",
+      "editionId": "cuv",
+      "bookCode": "1CH",
+      "collection": "old_testament",
+      "bookId": "1_chronicles",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, simplified script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89s_usfm.zip",
+        "artifactSha256": "68DF122E9195E071DC286F19EF53E530FCAADB3A16A7DC34B8430B7062F70598",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 23,
+          "sourceBeforeVerse": 1,
+          "sourceText": "利未人的职务",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 23,
+              "beforeVerse": 2,
+              "text": "利未人的职务"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "editionId": "cuv",
+      "bookCode": "JDG",
+      "collection": "old_testament",
+      "bookId": "judges",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, traditional script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "artifactSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 15,
+          "sourceBeforeVerse": 1,
+          "sourceText": "參孫擊敗非利士人",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 15,
+              "beforeVerse": 9,
+              "text": "參孫擊敗非利士人"
+            }
+          ]
+        },
+        {
+          "sourceChapter": 16,
+          "sourceBeforeVerse": 1,
+          "sourceText": "參孫和大利拉",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 16,
+              "beforeVerse": 4,
+              "text": "參孫和大利拉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "editionId": "cuv",
+      "bookCode": "1SA",
+      "collection": "old_testament",
+      "bookId": "1_samuel",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, traditional script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "artifactSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 2,
+          "sourceBeforeVerse": 22,
+          "sourceText": "預言以利家遭禍",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 2,
+              "beforeVerse": 27,
+              "text": "預言以利家遭禍"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "editionId": "cuv",
+      "bookCode": "1CH",
+      "collection": "old_testament",
+      "bookId": "1_chronicles",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, traditional script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "artifactSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 8,
+          "sourceBeforeVerse": 29,
+          "sourceText": "掃羅王的家族\n（代上9‧35－38）",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 8,
+              "beforeVerse": 33,
+              "text": "掃羅王的家族\n（代上9‧35－38）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "editionId": "cuv",
+      "bookCode": "2CH",
+      "collection": "old_testament",
+      "bookId": "2_chronicles",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, traditional script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "artifactSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 28,
+          "sourceBeforeVerse": 8,
+          "sourceText": "先知俄德",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 28,
+              "beforeVerse": 9,
+              "text": "先知俄德"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "editionId": "cuv",
+      "bookCode": "EPH",
+      "collection": "new_testament",
+      "bookId": "ephesians",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, traditional script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "artifactSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 5,
+          "sourceBeforeVerse": 21,
+          "sourceText": "丈夫和妻子",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 5,
+              "beforeVerse": 22,
+              "text": "丈夫和妻子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "zh-Hant",
+      "editionId": "cuv",
+      "bookCode": "2SA",
+      "collection": "old_testament",
+      "bookId": "2_samuel",
+      "pinnedSource": {
+        "title": "Chinese Union Version, New Punctuation, traditional script",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "artifactSha256": "01E919EC0F2EA9E22ADAA5097340FC4AD18A7976A32F850B2E6434D7884F3E81",
+        "sourceDate": "2026-09-26"
+      },
+      "relocations": [
+        {
+          "sourceChapter": 1,
+          "sourceBeforeVerse": 1,
+          "sourceText": "大衛為掃羅和約拿單悲泣",
+          "joinWith": "\n",
+          "targets": [
+            {
+              "chapter": 1,
+              "beforeVerse": 17,
+              "text": "大衛為掃羅和約拿單悲泣"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

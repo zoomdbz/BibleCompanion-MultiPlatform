@@ -238,6 +238,8 @@
     <string name="prophecy_revelation_desc">Guide de lecture structuré avec expressions hébraïques et liens avec les fêtes</string>
     <string name="prophecy_revelation_timeline">Chronologie de l'Apocalypse</string>
     <string name="prophecy_revelation_timeline_desc">Les sceaux, les trompettes, les coupes, le retour du Christ, le millénium et la Nouvelle Jérusalem</string>
+    <string name="prophecy_second_coming_rapture">Retour du Christ et enlèvement</string>
+    <string name="prophecy_second_coming_rapture_desc">Le retour du Christ, la résurrection, le rassemblement, la colère et les principales chronologies</string>
     <!-- Data -->
     <string name="data_section">Données</string>
     <string name="data_section_desc">Transférez vos signets, versets enregistrés, surlignages et étiquettes entre appareils. Appuyez sur Exporter pour copier vos données dans le presse-papiers, puis collez-les dans Importer sur votre autre appareil. Les paramètres et préférences ne sont pas inclus.</string>
@@ -373,4 +375,12 @@
     <string name="chronology_gospel_journey">Voyage vers Jérusalem et ministère en Judée</string>
     <string name="chronology_gospel_final_week">Dernière semaine et crucifixion</string>
     <string name="chronology_gospel_resurrection">Résurrection</string>
+    <string name="daily_notification_title">Notifications</string>
+    <string name="daily_notification_toggle">Verset quotidien</string>
+    <string name="daily_notification_desc">Recevez un verset à l\'heure locale choisie. Touchez la notification pour le lire, ou utilisez Copier ou Partager. Votre appareil peut retarder son envoi.</string>
+    <string name="daily_notification_time">Heure de notification</string>
+    <string name="daily_notification_save">Enregistrer l\'heure</string>
+    <string name="daily_notification_ios_window">iOS programme jusqu\'à 60 jours de versets. Ouvrez régulièrement l\'application pour renouveler la liste.</string>
+    <string name="daily_notification_permission_denied">Les notifications sont bloquées. Autorisez-les dans les réglages de votre appareil, puis réactivez cette option.</string>
+    <string name="daily_notification_system_settings">Réglages des notifications de l\'appareil</string>
 </resources>

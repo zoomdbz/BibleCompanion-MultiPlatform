@@ -30,7 +30,7 @@
         {
           "chapter": 1,
           "verse": 4,
-          "text": "E, ajuntando-os, determinou-lhes que não se ausentassem de Jerusalem, mas que esperassem a promessa do Pae que (disse elle) de mim ouvistes."
+          "text": "E, ajuntando-os, determinou-lhes que não se ausentassem de Jerusalem, [J]mas que esperassem a promessa do Pae que[/J] (disse elle) [J]de mim ouvistes.[/J]"
         },
         {
           "chapter": 1,
@@ -45,7 +45,7 @@
         {
           "chapter": 1,
           "verse": 7,
-          "text": "E disse-lhes: Não vos pertence saber os tempos ou as estações que o Pae poz em seu proprio poder."
+          "text": "E disse-lhes: [J]Não vos pertence saber os tempos ou as estações que o Pae poz em seu proprio poder.[/J]"
         },
         {
           "chapter": 1,
@@ -141,6 +141,20 @@
           "chapter": 1,
           "verse": 26,
           "text": "E lançaram-lhes sortes, e caiu a sorte sobre Matthias. E por voto commum foi contado com os onze apostolos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A promessa do Espírito Santo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "A ascensão de Jesus"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Matias substitui Judas"
         }
       ]
     },
@@ -384,6 +398,20 @@
           "verse": 47,
           "text": "Louvando a Deus, e tendo graça para com todo o povo. E todos os dias accrescentava o Senhor á egreja aquelles que se haviam de salvar."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A vinda do Espírito Santo"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Pedro se dirige à multidão"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "A comunidade dos novos convertidos"
+        }
       ]
     },
     {
@@ -520,6 +548,16 @@
           "chapter": 3,
           "verse": 26,
           "text": "Resuscitando Deus a seu Filho Jesus, primeiro o enviou a vós, para que n'isso vos abençoasse, e vos desviasse, a cada um, das vossas maldades."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pedro cura um mendigo aleijado"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Pedro anuncia as boas-novas no templo"
         }
       ]
     },
@@ -712,6 +750,20 @@
           "chapter": 4,
           "verse": 37,
           "text": "Possuindo uma herdade, vendeu-a, e trouxe o preço, e o apresentou aos pés dos apostolos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Pedro e João diante do conselho de líderes"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Os discípulos oram pedindo coragem"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Os discípulos compartilham seus bens"
         }
       ]
     },
@@ -930,6 +982,20 @@
           "verse": 42,
           "text": "E todos os dias, no templo e nas casas, não cessavam de ensinar, e de annunciar a Jesus Christo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ananias e Safira"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Os apóstolos realizam muitas curas"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Os apóstolos enfrentam oposição"
+        }
       ]
     },
     {
@@ -1011,6 +1077,16 @@
           "chapter": 6,
           "verse": 15,
           "text": "Então todos os que estavam assentados no conselho, fixando os olhos n'elle, viram o seu rosto como o rosto de um anjo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Sete homens são escolhidos para servir"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Estêvão é preso"
         }
       ]
     },
@@ -1319,6 +1395,12 @@
           "verse": 60,
           "text": "E, pondo-se de joelhos, clamou com grande voz: Senhor, não lhes imputes este peccado. E, tendo dito isto, adormeceu."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O testemunho de Estêvão diante do conselho"
+        }
       ]
     },
     {
@@ -1526,6 +1608,20 @@
           "verse": 40,
           "text": "Porém Philippe achou-se em Azoto, e, indo passando, annunciou o evangelho em todas as cidades, até que chegou a Cesarea."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "A perseguição faz os discípulos dispersarem"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Filipe anuncia as boas-novas em Samaria"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Filipe e o eunuco etíope"
+        }
       ]
     },
     {
@@ -1551,17 +1647,17 @@
         {
           "chapter": 9,
           "verse": 4,
-          "text": "E, caindo em terra, ouviu uma voz que lhe dizia: Saulo, Saulo, porque me persegues?"
+          "text": "E, caindo em terra, ouviu uma voz que lhe dizia: [J]Saulo, Saulo, porque me persegues?[/J]"
         },
         {
           "chapter": 9,
           "verse": 5,
-          "text": "E elle disse: Quem és, Senhor? E disse o Senhor: Eu sou Jesus, a quem tu persegues. Duro é para ti recalcitrar contra os aguilhões."
+          "text": "E elle disse: Quem és, Senhor? E disse o Senhor: [J]Eu sou Jesus, a quem tu persegues. Duro é para ti recalcitrar contra os aguilhões.[/J]"
         },
         {
           "chapter": 9,
           "verse": 6,
-          "text": "[J]E elle, tremendo e attonito, disse: Senhor, que queres que faça? E disse-lhe o Senhor: Levanta-te, e entra na cidade, e ali te será dito o que te convem fazer.[/J]"
+          "text": "E elle, tremendo e attonito, disse: Senhor, que queres que faça? E disse-lhe o Senhor: [J]Levanta-te, e entra na cidade, e ali te será dito o que te convem fazer.[/J]"
         },
         {
           "chapter": 9,
@@ -1581,12 +1677,12 @@
         {
           "chapter": 9,
           "verse": 10,
-          "text": "E havia em Damasco um certo discipulo chamado Ananias; e disse-lhe o Senhor em visão: Ananias! E elle respondeu: Eis-me aqui, Senhor."
+          "text": "E havia em Damasco um certo discipulo chamado Ananias; e disse-lhe o Senhor em visão: [J]Ananias![/J] E elle respondeu: Eis-me aqui, Senhor."
         },
         {
           "chapter": 9,
           "verse": 11,
-          "text": "[J]E disse-lhe o Senhor: Levanta-te, e vae á rua chamada Direita, e pergunta em casa de Judas por um chamado Saulo, de Tarso; pois eis que elle ora;[/J]"
+          "text": "E disse-lhe o Senhor: [J]Levanta-te, e vae á rua chamada Direita, e pergunta em casa de Judas por um chamado Saulo, de Tarso; pois eis que elle ora;[/J]"
         },
         {
           "chapter": 9,
@@ -1606,7 +1702,7 @@
         {
           "chapter": 9,
           "verse": 15,
-          "text": "[J]Disse-lhe, porém, o Senhor: Vae, porque este é para mim vaso escolhido, para levar o meu nome diante dos gentios, e dos reis e dos filhos d'Israel.[/J]"
+          "text": "Disse-lhe, porém, o Senhor: [J]Vae, porque este é para mim vaso escolhido, para levar o meu nome diante dos gentios, e dos reis e dos filhos d'Israel.[/J]"
         },
         {
           "chapter": 9,
@@ -1747,6 +1843,20 @@
           "chapter": 9,
           "verse": 43,
           "text": "E aconteceu que ficou muitos dias em Joppe, com um certo Simão curtidor."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A conversão de Saulo"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Saulo em Damasco e em Jerusalém"
+        },
+        {
+          "beforeVerse": 32,
+          "text": "Pedro cura Eneias e ressuscita Dorcas"
         }
       ]
     },
@@ -1995,6 +2105,24 @@
           "verse": 48,
           "text": "E mandou que fossem baptizados em nome do Senhor. Então rogaram-lhe que ficasse com elles por alguns dias."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Cornélio manda chamar Pedro"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Pedro visita Cornélio"
+        },
+        {
+          "beforeVerse": 34,
+          "text": "Os gentios ouvem as boas-novas"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Os gentios recebem o Espírito Santo"
+        }
       ]
     },
     {
@@ -2080,7 +2208,7 @@
         {
           "chapter": 11,
           "verse": 16,
-          "text": "E lembrei-me do dito do Senhor, quando disse: João certamente baptizou com agua: mas vós sereis baptizados com o Espirito Sancto."
+          "text": "E lembrei-me do dito do Senhor, quando disse: [J]João certamente baptizou com agua: mas vós sereis baptizados com o Espirito Sancto.[/J]"
         },
         {
           "chapter": 11,
@@ -2151,6 +2279,16 @@
           "chapter": 11,
           "verse": 30,
           "text": "O que elles com effeito fizeram, enviando-o aos anciãos por mão de Barnabé e de Saulo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A explicação de Pedro"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "A igreja em Antioquia da Síria"
         }
       ]
     },
@@ -2283,6 +2421,20 @@
           "chapter": 12,
           "verse": 25,
           "text": "E Barnabé e Saulo, havendo cumprido aquelle serviço, voltaram de Jerusalem, levando tambem comsigo a João, que tinha por sobrenome Marcos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O martírio de Tiago e a prisão de Pedro"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "A milagrosa fuga de Pedro"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "A morte de Herodes Agripa"
         }
       ]
     },
@@ -2551,6 +2703,24 @@
           "verse": 52,
           "text": "E os discipulos estavam cheios d'alegria e do Espirito Sancto."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Barnabé e Saulo são enviados pela igreja"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "A primeira viagem missionária de Paulo"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Paulo e Barnabé em Antioquia da Pisídia"
+        },
+        {
+          "beforeVerse": 44,
+          "text": "Paulo e Barnabé se dirigem aos gentios"
+        }
       ]
     },
     {
@@ -2697,6 +2867,20 @@
           "chapter": 14,
           "verse": 28,
           "text": "E ficaram ali não pouco tempo com os discipulos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo e Barnabé em Icônio"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Paulo e Barnabé em Listra e Derbe"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Paulo e Barnabé voltam para Antioquia da Síria"
         }
       ]
     },
@@ -2910,6 +3094,20 @@
           "verse": 41,
           "text": "E foi passando por Syria e Cilicia, confirmando as egrejas."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O concílio de Jerusalém"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "A decisão do conselho"
+        },
+        {
+          "beforeVerse": 36,
+          "text": "Paulo e Barnabé se separam"
+        }
       ]
     },
     {
@@ -3117,6 +3315,24 @@
           "verse": 40,
           "text": "E, saindo da prisão, entraram em casa de Lydia, e, vendo os irmãos, os confortaram, e depois partiram."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A segunda viagem missionária de Paulo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Uma súplica da Macedônia"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Lídia de Filipos crê em Jesus"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Paulo e Silas na prisão"
+        }
       ]
     },
     {
@@ -3294,6 +3510,20 @@
           "verse": 34,
           "text": "Porém, chegando alguns varões a elle, creram: entre os quaes foram Dionysio, areopagita, e uma mulher por nome Damaris, e com elles outros."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo anuncia as boas-novas em Tessalônica"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Paulo e Silas em Bereia"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Paulo anuncia as boas-novas em Atenas"
+        }
       ]
     },
     {
@@ -3344,7 +3574,7 @@
         {
           "chapter": 18,
           "verse": 9,
-          "text": "E disse o Senhor em visão a Paulo: Não temas, mas falla, e não te cales;"
+          "text": "E disse o Senhor em visão a Paulo: [J]Não temas, mas falla, e não te cales;[/J]"
         },
         {
           "chapter": 18,
@@ -3440,6 +3670,20 @@
           "chapter": 18,
           "verse": 28,
           "text": "Porque com grande vehemencia convencia publicamente os judeos, mostrando pelas Escripturas que Jesus era o Christo."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo encontra Priscila e Áquila em Corinto"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Paulo volta a Antioquia da Síria"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Apolo em Éfeso"
         }
       ]
     },
@@ -3653,6 +3897,20 @@
           "verse": 41,
           "text": "E, tendo dito isto, despediu o ajuntamento."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A terceira viagem missionária de Paulo"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "O ministério de Paulo em Éfeso"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "O tumulto em Éfeso"
+        }
       ]
     },
     {
@@ -3833,7 +4091,7 @@
         {
           "chapter": 20,
           "verse": 35,
-          "text": "Tenho-vos mostrado em tudo que, trabalhando assim, é necessario supportar os enfermos, e lembrar as palavras do Senhor Jesus, que disse: Mais bemaventurada coisa é dar do que receber."
+          "text": "Tenho-vos mostrado em tudo que, trabalhando assim, é necessario supportar os enfermos, e lembrar as palavras do Senhor Jesus, que disse: [J]Mais bemaventurada coisa é dar do que receber.[/J]"
         },
         {
           "chapter": 20,
@@ -3849,6 +4107,20 @@
           "chapter": 20,
           "verse": 38,
           "text": "Entristecendo-se muito, principalmente pela palavra que dissera, que não veriam mais o seu rosto. E acompanharam-n'o até ao navio."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo vai à Macedônia e à Grécia"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "A última visita de Paulo a Trôade"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Paulo se encontra com os líderes efésios"
         }
       ]
     },
@@ -4057,6 +4329,24 @@
           "verse": 40,
           "text": "E, havendo-lh'o permittido, Paulo, pondo-se em pé nas escadas, fez signal com a mão ao povo; e, feito grande silencio, fallou-lhes em lingua hebraica, dizendo:"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo viaja para Jerusalém"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Paulo chega a Jerusalém"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Paulo é preso"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Paulo se dirige à multidão"
+        }
       ]
     },
     {
@@ -4097,12 +4387,12 @@
         {
           "chapter": 22,
           "verse": 7,
-          "text": "E cahi por terra, e ouvi uma voz que me dizia: Saulo, Saulo, porque me persegues?"
+          "text": "E cahi por terra, e ouvi uma voz que me dizia: [J]Saulo, Saulo, porque me persegues?[/J]"
         },
         {
           "chapter": 22,
           "verse": 8,
-          "text": "E eu respondi: Quem és, Senhor? E disse-me: Eu sou Jesus nazareno, a quem tu persegues."
+          "text": "E eu respondi: Quem és, Senhor? E disse-me: [J]Eu sou Jesus nazareno, a quem tu persegues.[/J]"
         },
         {
           "chapter": 22,
@@ -4112,7 +4402,7 @@
         {
           "chapter": 22,
           "verse": 10,
-          "text": "Então disse eu: Senhor, que farei? E o Senhor disse-me: Levanta-te, e vae a Damasco, e ali se te dirá tudo o que te é ordenado fazer."
+          "text": "Então disse eu: Senhor, que farei? E o Senhor disse-me: [J]Levanta-te, e vae a Damasco, e ali se te dirá tudo o que te é ordenado fazer.[/J]"
         },
         {
           "chapter": 22,
@@ -4152,7 +4442,7 @@
         {
           "chapter": 22,
           "verse": 18,
-          "text": "E vi o que me dizia: Dá-te pressa, e sae apressadamente de Jerusalem; porque não receberão o teu testemunho ácerca de mim"
+          "text": "E vi o que me dizia: [J]Dá-te pressa, e sae apressadamente de Jerusalem; porque não receberão o teu testemunho ácerca de mim[/J]"
         },
         {
           "chapter": 22,
@@ -4167,7 +4457,7 @@
         {
           "chapter": 22,
           "verse": 21,
-          "text": "E disse-me: Vae, porque hei-de enviar-te aos gentios de longe."
+          "text": "E disse-me: [J]Vae, porque hei-de enviar-te aos gentios de longe.[/J]"
         },
         {
           "chapter": 22,
@@ -4213,6 +4503,16 @@
           "chapter": 22,
           "verse": 30,
           "text": "E no dia seguinte, querendo saber ao certo a causa por que era accusado pelos judeos, soltou-o das prisões, e mandou vir os principaes dos sacerdotes, e todo o seu conselho; e, trazendo Paulo, o apresentou diante d'elles."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 24,
+          "text": "Paulo revela sua cidadania romana"
+        },
+        {
+          "beforeVerse": 30,
+          "text": "Paulo diante do conselho dos líderes"
         }
       ]
     },
@@ -4274,7 +4574,7 @@
         {
           "chapter": 23,
           "verse": 11,
-          "text": "E na noite seguinte, apresentando-se-lhe o Senhor, disse: Paulo, tem animo: porque, como de mim testificaste em Jerusalem, assim te importa testificar tambem em Roma."
+          "text": "E na noite seguinte, apresentando-se-lhe o Senhor, disse: [J]Paulo, tem animo: porque, como de mim testificaste em Jerusalem, assim te importa testificar tambem em Roma.[/J]"
         },
         {
           "chapter": 23,
@@ -4395,6 +4695,16 @@
           "chapter": 23,
           "verse": 35,
           "text": "Ouvir-te-hei, disse, quando tambem aqui vierem os teus accusadores. E mandou que o guardassem no pretorio de Herodes."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "O plano para matar Paulo"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Paulo é enviado a Cesareia"
         }
       ]
     },
@@ -4538,6 +4848,12 @@
           "verse": 27,
           "text": "Porém, cumpridos dois annos, Felix teve por successor a Porcio Festo; e, querendo Felix comprazer aos judeos, deixou a Paulo preso."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo diante de Félix"
+        }
       ]
     },
     {
@@ -4680,6 +4996,16 @@
           "verse": 27,
           "text": "Porque me parece contra a razão enviar um preso, e não notificar contra elle as accusações."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo diante de Festo"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Paulo se dirige a Agripa"
+        }
       ]
     },
     {
@@ -4755,12 +5081,12 @@
         {
           "chapter": 26,
           "verse": 14,
-          "text": "E, caindo nós todos por terra, ouvi uma voz que me fallava, e em lingua hebraica dizia: Saulo, Saulo, porque me persegues? Dura coisa te é recalcitrar contra os aguilhões."
+          "text": "E, caindo nós todos por terra, ouvi uma voz que me fallava, e em lingua hebraica dizia: [J]Saulo, Saulo, porque me persegues? Dura coisa te é recalcitrar contra os aguilhões.[/J]"
         },
         {
           "chapter": 26,
           "verse": 15,
-          "text": "E disse eu: Quem és, Senhor? E elle respondeu: Eu sou Jesus, a quem tu persegues;"
+          "text": "E disse eu: Quem és, Senhor? E elle respondeu: [J]Eu sou Jesus, a quem tu persegues;[/J]"
         },
         {
           "chapter": 26,
@@ -4847,7 +5173,8 @@
           "verse": 32,
           "text": "E Agrippa disse a Festo: Bem podia soltar-se este homem, se não houvera appellado para Cesar."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 27,
@@ -5074,6 +5401,20 @@
           "verse": 44,
           "text": "E os demais, uns em taboas e outros em coisas do navio. E assim aconteceu que todos se salvaram em terra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo vai a Roma"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "A tempestade no mar"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "O naufrágio em Malta"
+        }
       ]
     },
     {
@@ -5235,6 +5576,20 @@
           "chapter": 28,
           "verse": 31,
           "text": "Prégando o reino de Deus, e ensinando com toda a ousadia as coisas pertencentes ao Senhor Jesus Christo, sem impedimento algum."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Paulo na ilha de Malta"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Paulo chega a Roma"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Paulo prega e ensina em Roma"
         }
       ]
     }

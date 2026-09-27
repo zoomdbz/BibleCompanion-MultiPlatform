@@ -92,6 +92,20 @@
           "verse": 16,
           "text": "Ils font profession de connaître Dieu, mais ils le renient par leurs œuvres, étant abominables, rebelles, et incapables d’aucune bonne œuvre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Les anciens"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Les propagateurs de faux enseignements"
+        }
       ]
     },
     {
@@ -174,6 +188,16 @@
           "verse": 15,
           "text": "Dis ces choses, exhorte, et reprends, avec une pleine autorité. Que personne ne te méprise."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Personnes âgées, jeunes gens, esclaves"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Un peuple qui appartient à Jésus-Christ"
+        }
       ]
     },
     {
@@ -255,6 +279,16 @@
           "chapter": 3,
           "verse": 15,
           "text": "Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Consignes pour la conduite des fidèles"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Dernières recommandations et salutations"
         }
       ]
     }

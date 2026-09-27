@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "maps": [
+    {
+      "schemaVersion": 1,
+      "language": "de",
+      "baseEditionId": "sch2000",
+      "editionId": "luther1912",
+      "books": [
+        {
+          "bookId": "isaiah",
+          "complete": false,
+          "mappings": [
+            {
+              "sourceChapter": 8,
+              "sourceVerse": 23,
+              "targetChapter": 9,
+              "targetVerse": 1
+            },
+            {
+              "sourceChapter": 9,
+              "sourceVerse": 1,
+              "sourceVerseEnd": 20,
+              "targetChapter": 9,
+              "targetVerse": 2,
+              "targetVerseEnd": 21
+            },
+            {
+              "sourceChapter": 64,
+              "sourceVerse": 1,
+              "targetChapter": 64,
+              "targetVerse": 1,
+              "targetVerseEnd": 2
+            },
+            {
+              "sourceChapter": 64,
+              "sourceVerse": 2,
+              "sourceVerseEnd": 11,
+              "targetChapter": 64,
+              "targetVerse": 3,
+              "targetVerseEnd": 12
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "coveragePolicy": "Explicit non-identity ranges only. Unlisted Isaiah coordinates retain their source edition; no inferred identity mapping.",
+        "mappingSource": "STEPBible TVTMS Hebrew-to-English-KJV alignment plus direct comparison of the checked-in SCH2000 text and pinned eBible Luther 1912 USFM.",
+        "tvtmsCommit": "b99716b0cddb648ddb95cc786a197180f2f97d48",
+        "tvtmsSha256": "63058e0f20201af4bdaa7d830da5be8f493455d947c5f147d84840b33db9ddf8",
+        "tvtmsLicense": "CC-BY-4.0",
+        "crossWireCommit": "a2c51f3c3a55416f3c991a67ef3d635c7ee55330",
+        "crossWireFile": "Luther.properties",
+        "crossWireSha256": "5a07e22efdf46bc1dfa4a1ff644cc6d11d5b7799d5cd9617196f38388251e1c3",
+        "crossWireLicense": "LGPL-2.1-or-later",
+        "sourceUrl": "https://ebible.org/Scriptures/deu1912_usfm.zip",
+        "sourceArchiveSha256": "650a8192134a8f0057286c469754edcfaee4fbb18800621aee4563f3055bb39b",
+        "sourceBookFile": "24-ISAdeu1912.usfm",
+        "sourceBookSha256": "daca8923266d6b8c4a62576e4396fdde1ced00fb10fa8045d96f26ff6d88f6c1",
+        "sourceLicense": "Public Domain"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "language": "it",
+      "baseEditionId": "nr06",
+      "editionId": "diodati1885",
+      "books": [
+        {
+          "bookId": "job",
+          "complete": false,
+          "mappings": [
+            {
+              "sourceChapter": 38,
+              "sourceVerse": 39,
+              "sourceVerseEnd": 41,
+              "targetChapter": 39,
+              "targetVerse": 1,
+              "targetVerseEnd": 3
+            },
+            {
+              "sourceChapter": 39,
+              "sourceVerse": 1,
+              "sourceVerseEnd": 30,
+              "targetChapter": 39,
+              "targetVerse": 4,
+              "targetVerseEnd": 33
+            },
+            {
+              "sourceChapter": 40,
+              "sourceVerse": 1,
+              "sourceVerseEnd": 5,
+              "targetChapter": 39,
+              "targetVerse": 34,
+              "targetVerseEnd": 38
+            },
+            {
+              "sourceChapter": 40,
+              "sourceVerse": 6,
+              "sourceVerseEnd": 24,
+              "targetChapter": 40,
+              "targetVerse": 1,
+              "targetVerseEnd": 19
+            },
+            {
+              "sourceChapter": 40,
+              "sourceVerse": 25,
+              "sourceVerseEnd": 32,
+              "targetChapter": 41,
+              "targetVerse": 1,
+              "targetVerseEnd": 8
+            },
+            {
+              "sourceChapter": 41,
+              "sourceVerse": 1,
+              "targetChapter": 41,
+              "targetVerse": 9
+            },
+            {
+              "sourceChapter": 41,
+              "sourceVerse": 2,
+              "sourceVerseEnd": 26,
+              "targetChapter": 41,
+              "targetVerse": 10,
+              "targetVerseEnd": 34
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "coveragePolicy": "Explicit non-identity ranges only. Unlisted Job coordinates retain their source edition; no inferred identity mapping.",
+        "mappingSource": "STEPBible TVTMS Hebrew-to-Spanish-RV1909 alignment, checked verse-by-verse against the pinned Diodati Job USFM and the checked-in NR06 text. Diodati follows the same Job 38:39-41:34 boundaries in this range.",
+        "tvtmsCommit": "b99716b0cddb648ddb95cc786a197180f2f97d48",
+        "tvtmsSha256": "63058e0f20201af4bdaa7d830da5be8f493455d947c5f147d84840b33db9ddf8",
+        "tvtmsLicense": "CC-BY-4.0",
+        "sourceUrl": "https://ebible.org/Scriptures/ita1885_usfm.zip",
+        "sourceArchiveSha256": "459884735df5d5ae7f3381980bc5ea846f0034cea305fa77b5d72e09727e051c",
+        "sourceBookFile": "19-JOBita1885.usfm",
+        "sourceBookSha256": "3b0a9d08a8758c9bc69b720ee22eca8ae4a790468acf7cb5ce8d44ff5648886d",
+        "sourceLicense": "Public Domain"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "language": "ru",
+      "baseEditionId": "nrt_nrp",
+      "editionId": "synodal1876",
+      "books": [
+        {
+          "bookId": "romans",
+          "complete": true,
+          "mappings": [
+            { "sourceChapter": 1, "sourceVerse": 1, "sourceVerseEnd": 32, "targetChapter": 1, "targetVerse": 1, "targetVerseEnd": 32 },
+            { "sourceChapter": 2, "sourceVerse": 1, "sourceVerseEnd": 29, "targetChapter": 2, "targetVerse": 1, "targetVerseEnd": 29 },
+            { "sourceChapter": 3, "sourceVerse": 1, "sourceVerseEnd": 31, "targetChapter": 3, "targetVerse": 1, "targetVerseEnd": 31 },
+            { "sourceChapter": 4, "sourceVerse": 1, "sourceVerseEnd": 25, "targetChapter": 4, "targetVerse": 1, "targetVerseEnd": 25 },
+            { "sourceChapter": 5, "sourceVerse": 1, "sourceVerseEnd": 21, "targetChapter": 5, "targetVerse": 1, "targetVerseEnd": 21 },
+            { "sourceChapter": 6, "sourceVerse": 1, "sourceVerseEnd": 23, "targetChapter": 6, "targetVerse": 1, "targetVerseEnd": 23 },
+            { "sourceChapter": 7, "sourceVerse": 1, "sourceVerseEnd": 25, "targetChapter": 7, "targetVerse": 1, "targetVerseEnd": 25 },
+            { "sourceChapter": 8, "sourceVerse": 1, "sourceVerseEnd": 39, "targetChapter": 8, "targetVerse": 1, "targetVerseEnd": 39 },
+            { "sourceChapter": 9, "sourceVerse": 1, "sourceVerseEnd": 33, "targetChapter": 9, "targetVerse": 1, "targetVerseEnd": 33 },
+            { "sourceChapter": 10, "sourceVerse": 1, "sourceVerseEnd": 21, "targetChapter": 10, "targetVerse": 1, "targetVerseEnd": 21 },
+            { "sourceChapter": 11, "sourceVerse": 1, "sourceVerseEnd": 36, "targetChapter": 11, "targetVerse": 1, "targetVerseEnd": 36 },
+            { "sourceChapter": 12, "sourceVerse": 1, "sourceVerseEnd": 21, "targetChapter": 12, "targetVerse": 1, "targetVerseEnd": 21 },
+            { "sourceChapter": 13, "sourceVerse": 1, "sourceVerseEnd": 14, "targetChapter": 13, "targetVerse": 1, "targetVerseEnd": 14 },
+            { "sourceChapter": 14, "sourceVerse": 1, "sourceVerseEnd": 23, "targetChapter": 14, "targetVerse": 1, "targetVerseEnd": 23 },
+            { "sourceChapter": 15, "sourceVerse": 1, "sourceVerseEnd": 33, "targetChapter": 15, "targetVerse": 1, "targetVerseEnd": 33 },
+            { "sourceChapter": 16, "sourceVerse": 1, "sourceVerseEnd": 24, "targetChapter": 16, "targetVerse": 1, "targetVerseEnd": 24 },
+            { "sourceChapter": 16, "sourceVerse": 25, "sourceVerseEnd": 27, "targetChapter": 14, "targetVerse": 24, "targetVerseEnd": 26 }
+          ]
+        }
+      ],
+      "provenance": {
+        "coveragePolicy": "Complete Romans crosswalk. Every base and target coordinate is covered explicitly.",
+        "mappingSource": "CrossWire JSword Synodal-to-English-KJV versification table, inverted for the app's modern-base-to-Synodal direction and checked against both repository texts and pinned Synodal USFM.",
+        "crossWireCommit": "a2c51f3c3a55416f3c991a67ef3d635c7ee55330",
+        "crossWireFile": "Synodal.properties",
+        "crossWireSha256": "76385bbd47834482c651e509e898d704cf27b5d4037ecff26ec7baf45f1edba6",
+        "crossWireLicense": "LGPL-2.1-or-later",
+        "sourceUrl": "https://ebible.org/Scriptures/russyn_usfm.zip",
+        "sourceArchiveSha256": "acd5d80c0d28ca72d17cb12a2bb9f561d957439b03bddfaa433beb51cf7b0363",
+        "sourceBookFile": "75-ROMrussyn.usfm",
+        "sourceBookSha256": "fea367b62c049a0ef784f1e708d3f2e3c8463c09f34b52bc21c7d24a14855872",
+        "sourceLicense": "Public Domain"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "language": "zh-Hant",
+      "baseEditionId": "rcuv",
+      "editionId": "cuv",
+      "books": [
+        {
+          "bookId": "john",
+          "complete": false,
+          "mappings": [
+            {
+              "sourceChapter": 7,
+              "sourceVerse": 53,
+              "targetChapter": 8,
+              "targetVerse": 1
+            },
+            {
+              "sourceChapter": 8,
+              "sourceVerse": 1,
+              "targetChapter": 8,
+              "targetVerse": 1
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "coveragePolicy": "Explicit merge only. Unlisted John coordinates retain their source edition; no inferred identity mapping. Reverse conversion of CUV John 8:1 is intentionally ambiguous because it contains both base John 7:53 and 8:1.",
+        "unresolvedTargetOnlyCoordinates": [
+          "John 5:4"
+        ],
+        "mappingSource": "Direct comparison of the checked-in RCUV text with the pinned public-domain traditional CUV USFM. The source USFM has no John 7:53 and combines both clauses in John 8:1.",
+        "sourceUrl": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "sourceArchiveSha256": "01e919ec0f2ea9e22adaa5097340fc4ad18a7976a32f850b2e6434d7884f3e81",
+        "sourceBookFile": "73-JHNcmn-cu89t.usfm",
+        "sourceBookSha256": "d692d0509087472f18a46d4e3ce7d1000eb85aa2ca1978edf947cffecba8057b",
+        "sourceLicense": "Public Domain"
+      }
+    }
+  ]
+}

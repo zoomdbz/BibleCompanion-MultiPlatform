@@ -236,6 +236,8 @@
     <string name="prophecy_revelation_desc">Strukturierter Leseführer mit hebräischen Redewendungen und Fest-Verbindungen</string>
     <string name="prophecy_revelation_timeline">Zeitleiste der Offenbarung</string>
     <string name="prophecy_revelation_timeline_desc">Die Siegel, Posaunen und Schalen, Christi Wiederkunft, das Tausendjährige Reich und das Neue Jerusalem</string>
+    <string name="prophecy_second_coming_rapture">Wiederkunft Christi und Entrückung</string>
+    <string name="prophecy_second_coming_rapture_desc">Christi Wiederkunft, Auferstehung, Sammlung, Zorn und die wichtigsten Zeitmodelle</string>
     <!-- Data -->
     <string name="data_section">Daten</string>
     <string name="data_section_desc">Übertrage deine Lesezeichen, gespeicherten Verse, Markierungen und Labels zwischen Geräten. Tippe auf Exportieren, um deine Daten in die Zwischenablage zu kopieren, und füge sie auf dem anderen Gerät in Importieren ein. Einstellungen und Präferenzen sind nicht enthalten.</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">Reise nach Jerusalem und Wirken in Judäa</string>
     <string name="chronology_gospel_final_week">Letzte Woche und Kreuzigung</string>
     <string name="chronology_gospel_resurrection">Auferstehung</string>
+    <string name="daily_notification_title">Benachrichtigungen</string>
+    <string name="daily_notification_toggle">Täglicher Bibelvers</string>
+    <string name="daily_notification_desc">Erhalte einen Vers zur gewählten Ortszeit. Tippe zum Lesen darauf oder nutze Kopieren oder Teilen. Dein Gerät kann die Zustellung verzögern.</string>
+    <string name="daily_notification_time">Benachrichtigungszeit</string>
+    <string name="daily_notification_save">Uhrzeit speichern</string>
+    <string name="daily_notification_ios_window">iOS plant Verse für bis zu 60 Tage voraus. Öffne die App regelmäßig, um sie zu erneuern.</string>
+    <string name="daily_notification_permission_denied">Benachrichtigungen sind blockiert. Erlaube sie in den Geräteeinstellungen und aktiviere diese Option erneut.</string>
+    <string name="daily_notification_system_settings">Benachrichtigungseinstellungen des Geräts</string>
 </resources>

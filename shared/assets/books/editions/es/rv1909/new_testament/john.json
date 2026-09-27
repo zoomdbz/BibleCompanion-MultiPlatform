@@ -200,12 +200,12 @@
         {
           "chapter": 1,
           "verse": 38,
-          "text": "Y volviéndose Jesús, y viéndolos seguir[ADD]le[/ADD], díceles: ¿Qué buscáis? Y ellos le dijeron: Rabbí (que declarado quiere decir Maestro) ¿dónde moras?"
+          "text": "Y volviéndose Jesús, y viéndolos seguir[ADD]le[/ADD], díceles: [J]¿Qué buscáis?[/J] Y ellos le dijeron: Rabbí (que declarado quiere decir Maestro) ¿dónde moras?"
         },
         {
           "chapter": 1,
           "verse": 39,
-          "text": "Díceles: Venid y ved. Vinieron, y vieron donde moraba, y quedáronse con él aquel día: porque era como la hora de las diez."
+          "text": "Díceles: [J]Venid y ved.[/J] Vinieron, y vieron donde moraba, y quedáronse con él aquel día: porque era como la hora de las diez."
         },
         {
           "chapter": 1,
@@ -220,12 +220,12 @@
         {
           "chapter": 1,
           "verse": 42,
-          "text": "Y le trajo á Jesús. Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás: tú serás llamado Cephas (que quiere decir, Piedra)."
+          "text": "Y le trajo á Jesús. Y mirándole Jesús, dijo: [J]Tú eres Simón, hijo de Jonás: tú serás llamado Cephas[/J] (que quiere decir, Piedra)."
         },
         {
           "chapter": 1,
           "verse": 43,
-          "text": "El siguiente día quiso Jesús ir á Galilea, y halla á Felipe, al cual dijo: Sígueme."
+          "text": "El siguiente día quiso Jesús ir á Galilea, y halla á Felipe, al cual dijo: [J]Sígueme.[/J]"
         },
         {
           "chapter": 1,
@@ -245,12 +245,12 @@
         {
           "chapter": 1,
           "verse": 47,
-          "text": "Jesús vió venir á sí á Natanael, y dijo de él: He aquí un verdadero Israelita, en el cual no hay engaño."
+          "text": "Jesús vió venir á sí á Natanael, y dijo de él: [J]He aquí un verdadero Israelita, en el cual no hay engaño.[/J]"
         },
         {
           "chapter": 1,
           "verse": 48,
-          "text": "Dícele Natanael: ¿De dónde me conoces? Respondió Jesús, y díjole: Antes que Felipe te llamara, cuando estabas debajo de la higuera te vi."
+          "text": "Dícele Natanael: ¿De dónde me conoces? Respondió Jesús, y díjole: [J]Antes que Felipe te llamara, cuando estabas debajo de la higuera te vi.[/J]"
         },
         {
           "chapter": 1,
@@ -260,12 +260,34 @@
         {
           "chapter": 1,
           "verse": 50,
-          "text": "Respondió Jesús y díjole: ¿Porque te dije, te vi debajo de la higuera, crees? cosas mayores que éstas verás."
+          "text": "Respondió Jesús y díjole: [J]¿Porque te dije, te vi debajo de la higuera, crees? cosas mayores que éstas verás.[/J]"
         },
         {
           "chapter": 1,
           "verse": 51,
-          "text": "Y dícele: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y los ángeles de Dios que suben y descienden sobre el Hijo del hombre."
+          "text": "Y dícele: [J]De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y los ángeles de Dios que suben y descienden sobre el Hijo del hombre.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El Verbo se hizo hombre"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Juan el Bautista niega ser el Cristo"
+        },
+        {
+          "beforeVerse": 29,
+          "text": "Jesús, el Cordero de Dios"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "Los primeros discípulos de Jesús"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Jesús llama a Felipe y a Natanael"
         }
       ]
     },
@@ -292,7 +314,7 @@
         {
           "chapter": 2,
           "verse": 4,
-          "text": "[J]Y dícele Jesús: ¿Qué tengo yo contigo, mujer? aun no ha venido mi hora.[/J]"
+          "text": "Y dícele Jesús: [J]¿Qué tengo yo contigo, mujer? aun no ha venido mi hora.[/J]"
         },
         {
           "chapter": 2,
@@ -307,12 +329,12 @@
         {
           "chapter": 2,
           "verse": 7,
-          "text": "Díceles Jesús: Henchid estas tinajuelas de agua. E hinchiéronlas hasta arriba."
+          "text": "Díceles Jesús: [J]Henchid estas tinajuelas de agua.[/J] E hinchiéronlas hasta arriba."
         },
         {
           "chapter": 2,
           "verse": 8,
-          "text": "Y díceles: Sacad ahora, y presentad al maestresala. Y presentáron[ADD]le[/ADD]."
+          "text": "Y díceles: [J]Sacad ahora, y presentad al maestresala.[/J] Y presentáron[ADD]le[/ADD]."
         },
         {
           "chapter": 2,
@@ -352,7 +374,7 @@
         {
           "chapter": 2,
           "verse": 16,
-          "text": "Y á los que vendían las palomas, dijo: Quitad de aquí esto, y no hagáis la casa de mi Padre casa de mercado."
+          "text": "Y á los que vendían las palomas, dijo: [J]Quitad de aquí esto, y no hagáis la casa de mi Padre casa de mercado.[/J]"
         },
         {
           "chapter": 2,
@@ -367,7 +389,7 @@
         {
           "chapter": 2,
           "verse": 19,
-          "text": "Respondió Jesús, y díjoles: Destruid este templo, y en tres días lo levantaré."
+          "text": "Respondió Jesús, y díjoles: [J]Destruid este templo, y en tres días lo levantaré.[/J]"
         },
         {
           "chapter": 2,
@@ -399,6 +421,16 @@
           "verse": 25,
           "text": "Y no tenía necesidad que alguien le diese testimonio del hombre; porque él sabía lo que había en el hombre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús cambia el agua en vino"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Jesús purifica el templo"
+        }
       ]
     },
     {
@@ -419,7 +451,7 @@
         {
           "chapter": 3,
           "verse": 3,
-          "text": "Respondió Jesús, y díjole: De cierto, de cierto te digo, que el que no naciere otra vez, no puede ver el reino de Dios."
+          "text": "Respondió Jesús, y díjole: [J]De cierto, de cierto te digo, que el que no naciere otra vez, no puede ver el reino de Dios.[/J]"
         },
         {
           "chapter": 3,
@@ -429,7 +461,7 @@
         {
           "chapter": 3,
           "verse": 5,
-          "text": "Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios."
+          "text": "Respondió Jesús: [J]De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios.[/J]"
         },
         {
           "chapter": 3,
@@ -454,7 +486,7 @@
         {
           "chapter": 3,
           "verse": 10,
-          "text": "[J]Respondió Jesús, y díjole: ¿Tú eres el maestro de Israel, y no sabes esto?[/J]"
+          "text": "Respondió Jesús, y díjole: [J]¿Tú eres el maestro de Israel, y no sabes esto?[/J]"
         },
         {
           "chapter": 3,
@@ -586,6 +618,20 @@
           "verse": 36,
           "text": "El que cree en el Hijo, tiene vida eterna; mas el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús enseña a Nicodemo"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "El testimonio de Juan el Bautista"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "El que viene del cielo"
+        }
       ]
     },
     {
@@ -626,7 +672,7 @@
         {
           "chapter": 4,
           "verse": 7,
-          "text": "Vino una mujer de Samaria á sacar agua: [ADD]y[/ADD] Jesús le dice: Dame de beber."
+          "text": "Vino una mujer de Samaria á sacar agua: [ADD]y[/ADD] Jesús le dice: [J]Dame de beber.[/J]"
         },
         {
           "chapter": 4,
@@ -641,7 +687,7 @@
         {
           "chapter": 4,
           "verse": 10,
-          "text": "Respondió Jesús y díjole: Si conocieses el don de Dios, y quién es el que te dice: Dame de beber: tú pedirías de él, y él te daría agua viva."
+          "text": "Respondió Jesús y díjole: [J]Si conocieses el don de Dios, y quién es el que te dice: Dame de beber: tú pedirías de él, y él te daría agua viva.[/J]"
         },
         {
           "chapter": 4,
@@ -656,7 +702,7 @@
         {
           "chapter": 4,
           "verse": 13,
-          "text": "Respondió Jesús y díjole: Cualquiera que bebiere de esta agua, volverá á tener sed;"
+          "text": "Respondió Jesús y díjole: [J]Cualquiera que bebiere de esta agua, volverá á tener sed;[/J]"
         },
         {
           "chapter": 4,
@@ -671,12 +717,12 @@
         {
           "chapter": 4,
           "verse": 16,
-          "text": "Jesús le dice: Ve, llama á tu marido, y ven acá."
+          "text": "Jesús le dice: [J]Ve, llama á tu marido, y ven acá.[/J]"
         },
         {
           "chapter": 4,
           "verse": 17,
-          "text": "Respondió la mujer, y dijo: No tengo marido. Dícele Jesús: Bien has dicho, No tengo marido;"
+          "text": "Respondió la mujer, y dijo: No tengo marido. Dícele Jesús: [J]Bien has dicho, No tengo marido;[/J]"
         },
         {
           "chapter": 4,
@@ -696,7 +742,7 @@
         {
           "chapter": 4,
           "verse": 21,
-          "text": "[J]Dícele Jesús: Mujer, créeme, que la hora viene, cuando ni en este monte, ni en Jerusalem adoraréis al Padre.[/J]"
+          "text": "Dícele Jesús: [J]Mujer, créeme, que la hora viene, cuando ni en este monte, ni en Jerusalem adoraréis al Padre.[/J]"
         },
         {
           "chapter": 4,
@@ -721,7 +767,7 @@
         {
           "chapter": 4,
           "verse": 26,
-          "text": "Dícele Jesús: Yo soy, que hablo contigo."
+          "text": "Dícele Jesús: [J]Yo soy, que hablo contigo.[/J]"
         },
         {
           "chapter": 4,
@@ -751,7 +797,7 @@
         {
           "chapter": 4,
           "verse": 32,
-          "text": "Y él les dijo: Yo tengo una comida que comer, que vosotros no sabéis."
+          "text": "Y él les dijo: [J]Yo tengo una comida que comer, que vosotros no sabéis.[/J]"
         },
         {
           "chapter": 4,
@@ -761,7 +807,7 @@
         {
           "chapter": 4,
           "verse": 34,
-          "text": "Díceles Jesús: Mi comida es que haga la voluntad del que me envió, y que acabe su obra."
+          "text": "Díceles Jesús: [J]Mi comida es que haga la voluntad del que me envió, y que acabe su obra.[/J]"
         },
         {
           "chapter": 4,
@@ -831,7 +877,7 @@
         {
           "chapter": 4,
           "verse": 48,
-          "text": "Entonces Jesús le dijo: Si no viereis señales y milagros no creeréis."
+          "text": "Entonces Jesús le dijo: [J]Si no viereis señales y milagros no creeréis.[/J]"
         },
         {
           "chapter": 4,
@@ -841,7 +887,7 @@
         {
           "chapter": 4,
           "verse": 50,
-          "text": "Dícele Jesús: Ve, tu hijo vive. Y el hombre creyó á la palabra que Jesús le dijo, y se fué."
+          "text": "Dícele Jesús: [J]Ve, tu hijo vive.[/J] Y el hombre creyó á la palabra que Jesús le dijo, y se fué."
         },
         {
           "chapter": 4,
@@ -862,6 +908,20 @@
           "chapter": 4,
           "verse": 54,
           "text": "Esta segunda señal volvió Jesús á hacer, cuando vino de Judea á Galilea."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús y la samaritana"
+        },
+        {
+          "beforeVerse": 27,
+          "text": "Los discípulos vuelven a reunirse con Jesús"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Jesús sana al hijo de un funcionario"
         }
       ]
     },
@@ -898,7 +958,7 @@
         {
           "chapter": 5,
           "verse": 6,
-          "text": "Como Jesús vió á éste echado, y entendió que ya había mucho tiempo, dícele: ¿Quieres ser sano?"
+          "text": "Como Jesús vió á éste echado, y entendió que ya había mucho tiempo, dícele: [J]¿Quieres ser sano?[/J]"
         },
         {
           "chapter": 5,
@@ -908,7 +968,7 @@
         {
           "chapter": 5,
           "verse": 8,
-          "text": "Dícele Jesús: Levántate, toma tu lecho, y anda."
+          "text": "Dícele Jesús: [J]Levántate, toma tu lecho, y anda.[/J]"
         },
         {
           "chapter": 5,
@@ -938,7 +998,7 @@
         {
           "chapter": 5,
           "verse": 14,
-          "text": "Después le halló Jesús en el templo, y díjole: He aquí, has sido sanado; no peques más, porque no te venga alguna cosa peor."
+          "text": "Después le halló Jesús en el templo, y díjole: [J]He aquí, has sido sanado; no peques más, porque no te venga alguna cosa peor.[/J]"
         },
         {
           "chapter": 5,
@@ -953,7 +1013,7 @@
         {
           "chapter": 5,
           "verse": 17,
-          "text": "Y Jesús les respondió: Mi Padre hasta ahora obra, y yo obro."
+          "text": "Y Jesús les respondió: [J]Mi Padre hasta ahora obra, y yo obro.[/J]"
         },
         {
           "chapter": 5,
@@ -963,7 +1023,7 @@
         {
           "chapter": 5,
           "verse": 19,
-          "text": "Respondió entonces Jesús, y díjoles: De cierto, de cierto os digo: No puede el Hijo hacer nada de sí mismo, sino lo que viere hacer al Padre: porque todo lo que él hace, esto también hace el Hijo juntamente."
+          "text": "Respondió entonces Jesús, y díjoles: [J]De cierto, de cierto os digo: No puede el Hijo hacer nada de sí mismo, sino lo que viere hacer al Padre: porque todo lo que él hace, esto también hace el Hijo juntamente.[/J]"
         },
         {
           "chapter": 5,
@@ -1105,6 +1165,20 @@
           "verse": 47,
           "text": "[J]Y si á sus escritos no creéis, ¿cómo creeréis á mis palabras?[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús sana a un paralítico"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La autoridad del Hijo"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Los testimonios a favor del Hijo"
+        }
       ]
     },
     {
@@ -1135,7 +1209,7 @@
         {
           "chapter": 6,
           "verse": 5,
-          "text": "Y como alzó Jesús los ojos, y vió que había venido á él grande multitud, dice á Felipe: ¿De dónde compraremos pan para que coman éstos?"
+          "text": "Y como alzó Jesús los ojos, y vió que había venido á él grande multitud, dice á Felipe: [J]¿De dónde compraremos pan para que coman éstos?[/J]"
         },
         {
           "chapter": 6,
@@ -1160,7 +1234,7 @@
         {
           "chapter": 6,
           "verse": 10,
-          "text": "Entonces Jesús dijo: Haced recostar la gente. Y había mucha hierba en aquel lugar: y recostáronse como número de cinco mil varones."
+          "text": "Entonces Jesús dijo: [J]Haced recostar la gente.[/J] Y había mucha hierba en aquel lugar: y recostáronse como número de cinco mil varones."
         },
         {
           "chapter": 6,
@@ -1170,7 +1244,7 @@
         {
           "chapter": 6,
           "verse": 12,
-          "text": "Y como fueron saciados, dijo á sus discípulos: Recoged los pedazos que han quedado, porque no se pierda nada."
+          "text": "Y como fueron saciados, dijo á sus discípulos: [J]Recoged los pedazos que han quedado, porque no se pierda nada.[/J]"
         },
         {
           "chapter": 6,
@@ -1210,7 +1284,7 @@
         {
           "chapter": 6,
           "verse": 20,
-          "text": "Mas él les dijo: Yo soy; no tengáis miedo."
+          "text": "Mas él les dijo: [J]Yo soy; no tengáis miedo.[/J]"
         },
         {
           "chapter": 6,
@@ -1240,7 +1314,7 @@
         {
           "chapter": 6,
           "verse": 26,
-          "text": "Respondióles Jesús, y dijo: De cierto, de cierto os digo, que me buscáis, no porque habéis visto las señales, sino porque comisteis el pan y os hartasteis."
+          "text": "Respondióles Jesús, y dijo: [J]De cierto, de cierto os digo, que me buscáis, no porque habéis visto las señales, sino porque comisteis el pan y os hartasteis.[/J]"
         },
         {
           "chapter": 6,
@@ -1255,7 +1329,7 @@
         {
           "chapter": 6,
           "verse": 29,
-          "text": "Respondió Jesús, y díjoles: Esta es la obra de Dios, que creáis en el que él ha enviado."
+          "text": "Respondió Jesús, y díjoles: [J]Esta es la obra de Dios, que creáis en el que él ha enviado.[/J]"
         },
         {
           "chapter": 6,
@@ -1270,7 +1344,7 @@
         {
           "chapter": 6,
           "verse": 32,
-          "text": "Y Jesús les dijo: De cierto, de cierto os digo: No os dió Moisés pan del cielo; mas mi Padre os da el verdadero pan del cielo."
+          "text": "Y Jesús les dijo: [J]De cierto, de cierto os digo: No os dió Moisés pan del cielo; mas mi Padre os da el verdadero pan del cielo.[/J]"
         },
         {
           "chapter": 6,
@@ -1285,7 +1359,7 @@
         {
           "chapter": 6,
           "verse": 35,
-          "text": "Y Jesús les dijo: Yo soy el pan de vida: el que á mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás."
+          "text": "Y Jesús les dijo: [J]Yo soy el pan de vida: el que á mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás.[/J]"
         },
         {
           "chapter": 6,
@@ -1325,7 +1399,7 @@
         {
           "chapter": 6,
           "verse": 43,
-          "text": "Y Jesús respondió, y díjoles: No murmuréis entre vosotros."
+          "text": "Y Jesús respondió, y díjoles: [J]No murmuréis entre vosotros.[/J]"
         },
         {
           "chapter": 6,
@@ -1375,7 +1449,7 @@
         {
           "chapter": 6,
           "verse": 53,
-          "text": "Y Jesús les dijo: De cierto, de cierto os digo: Si no comiereis la carne del Hijo del hombre, y bebiereis su sangre, no tendréis vida en vosotros."
+          "text": "Y Jesús les dijo: [J]De cierto, de cierto os digo: Si no comiereis la carne del Hijo del hombre, y bebiereis su sangre, no tendréis vida en vosotros.[/J]"
         },
         {
           "chapter": 6,
@@ -1415,7 +1489,7 @@
         {
           "chapter": 6,
           "verse": 61,
-          "text": "Y sabiendo Jesús en sí mismo que sus discípulos murmuraban de esto, díjoles: ¿Esto os escandaliza?"
+          "text": "Y sabiendo Jesús en sí mismo que sus discípulos murmuraban de esto, díjoles: [J]¿Esto os escandaliza?[/J]"
         },
         {
           "chapter": 6,
@@ -1430,12 +1504,12 @@
         {
           "chapter": 6,
           "verse": 64,
-          "text": "Mas hay algunos de vosotros que no creen. Porque Jesús desde el principio sabía quiénes eran los que no creían, y quién le había de entregar."
+          "text": "[J]Mas hay algunos de vosotros que no creen.[/J] Porque Jesús desde el principio sabía quiénes eran los que no creían, y quién le había de entregar."
         },
         {
           "chapter": 6,
           "verse": 65,
-          "text": "Y dijo: Por eso os he dicho que ninguno puede venir á mí, si no le fuere dado del Padre."
+          "text": "Y dijo: [J]Por eso os he dicho que ninguno puede venir á mí, si no le fuere dado del Padre.[/J]"
         },
         {
           "chapter": 6,
@@ -1445,7 +1519,7 @@
         {
           "chapter": 6,
           "verse": 67,
-          "text": "Dijo entonces Jesús á los doce: ¿Queréis vosotros iros también?"
+          "text": "Dijo entonces Jesús á los doce: [J]¿Queréis vosotros iros también?[/J]"
         },
         {
           "chapter": 6,
@@ -1460,12 +1534,30 @@
         {
           "chapter": 6,
           "verse": 70,
-          "text": "Jesús le respondió: ¿No he escogido yo á vosotros doce, y uno de vosotros es diablo?"
+          "text": "Jesús le respondió: [J]¿No he escogido yo á vosotros doce, y uno de vosotros es diablo?[/J]"
         },
         {
           "chapter": 6,
           "verse": 71,
           "text": "Y hablaba de Judas Iscariote, [ADD]hijo[/ADD] de Simón, porque éste era el que le había de entregar, el cual era uno de los doce."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús alimenta a cinco mil personas"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Jesús camina sobre el agua"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Jesús, el pan de vida"
+        },
+        {
+          "beforeVerse": 60,
+          "text": "Muchos discípulos abandonan a Jesús"
         }
       ]
     },
@@ -1502,7 +1594,7 @@
         {
           "chapter": 7,
           "verse": 6,
-          "text": "Díceles entonces Jesús: Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto."
+          "text": "Díceles entonces Jesús: [J]Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto.[/J]"
         },
         {
           "chapter": 7,
@@ -1552,7 +1644,7 @@
         {
           "chapter": 7,
           "verse": 16,
-          "text": "[J]Respondióles Jesús, y dijo: Mi doctrina no es mía, sino de aquél que me envió.[/J]"
+          "text": "Respondióles Jesús, y dijo: [J]Mi doctrina no es mía, sino de aquél que me envió.[/J]"
         },
         {
           "chapter": 7,
@@ -1577,7 +1669,7 @@
         {
           "chapter": 7,
           "verse": 21,
-          "text": "Jesús respondió, y díjoles: Una obra hice, y todos os maravilláis."
+          "text": "Jesús respondió, y díjoles: [J]Una obra hice, y todos os maravilláis.[/J]"
         },
         {
           "chapter": 7,
@@ -1612,7 +1704,7 @@
         {
           "chapter": 7,
           "verse": 28,
-          "text": "Entonces clamaba Jesús en el templo, enseñando y diciendo: Y á mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; mas el que me envió es verdadero, al cual vosotros no conocéis."
+          "text": "Entonces clamaba Jesús en el templo, enseñando y diciendo: [J]Y á mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; mas el que me envió es verdadero, al cual vosotros no conocéis.[/J]"
         },
         {
           "chapter": 7,
@@ -1637,7 +1729,7 @@
         {
           "chapter": 7,
           "verse": 33,
-          "text": "Y Jesús dijo: Aun un poco de tiempo estaré con vosotros, é iré al que me envió."
+          "text": "Y Jesús dijo: [J]Aun un poco de tiempo estaré con vosotros, é iré al que me envió.[/J]"
         },
         {
           "chapter": 7,
@@ -1657,7 +1749,7 @@
         {
           "chapter": 7,
           "verse": 37,
-          "text": "Mas en el postrer día grande de la fiesta, Jesús se ponía en pie y clamaba, diciendo: Si alguno tiene sed, venga á mí y beba."
+          "text": "Mas en el postrer día grande de la fiesta, Jesús se ponía en pie y clamaba, diciendo: [J]Si alguno tiene sed, venga á mí y beba.[/J]"
         },
         {
           "chapter": 7,
@@ -1739,6 +1831,32 @@
           "verse": 53,
           "text": "Y fuése cada uno á su casa."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús va a la fiesta de las Enramadas"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Jesús enseña en la fiesta"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "¿Es este el Cristo?"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Jesús en el último día de la fiesta"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "La incredulidad de los dirigentes judíos"
+        },
+        {
+          "beforeVerse": 53,
+          "text": "La mujer sorprendida en adulterio"
+        }
       ]
     },
     {
@@ -1779,7 +1897,7 @@
         {
           "chapter": 8,
           "verse": 7,
-          "text": "Y como perseverasen preguntándole, enderezóse, y díjoles: El que de vosotros esté sin pecado, arroje contra ella la piedra el primero."
+          "text": "Y como perseverasen preguntándole, enderezóse, y díjoles: [J]El que de vosotros esté sin pecado, arroje contra ella la piedra el primero.[/J]"
         },
         {
           "chapter": 8,
@@ -1794,17 +1912,17 @@
         {
           "chapter": 8,
           "verse": 10,
-          "text": "Y enderezándose Jesús, y no viendo á nadie más que á la mujer, díjole: ¿Mujer, dónde están los que te acusaban? ¿Ninguno te ha condenado?"
+          "text": "Y enderezándose Jesús, y no viendo á nadie más que á la mujer, díjole: [J]¿Mujer, dónde están los que te acusaban? ¿Ninguno te ha condenado?[/J]"
         },
         {
           "chapter": 8,
           "verse": 11,
-          "text": "Y ella dijo: Señor, ninguno. Entonces Jesús le dijo: Ni yo te condeno: vete, y no peques más."
+          "text": "Y ella dijo: Señor, ninguno. Entonces Jesús le dijo: [J]Ni yo te condeno: vete, y no peques más.[/J]"
         },
         {
           "chapter": 8,
           "verse": 12,
-          "text": "Y hablóles Jesús otra vez, diciendo: Yo soy la luz del mundo: el que me sigue, no andará en tinieblas, mas tendrá la lumbre de la vida."
+          "text": "Y hablóles Jesús otra vez, diciendo: [J]Yo soy la luz del mundo: el que me sigue, no andará en tinieblas, mas tendrá la lumbre de la vida.[/J]"
         },
         {
           "chapter": 8,
@@ -1814,7 +1932,7 @@
         {
           "chapter": 8,
           "verse": 14,
-          "text": "Respondió Jesús, y díjoles: Aunque yo doy testimonio de mí mismo, mi testimonio es verdadero, porque sé de dónde he venido y á dónde voy; mas vosotros no sabéis de dónde vengo, y á dónde voy."
+          "text": "Respondió Jesús, y díjoles: [J]Aunque yo doy testimonio de mí mismo, mi testimonio es verdadero, porque sé de dónde he venido y á dónde voy; mas vosotros no sabéis de dónde vengo, y á dónde voy.[/J]"
         },
         {
           "chapter": 8,
@@ -1839,7 +1957,7 @@
         {
           "chapter": 8,
           "verse": 19,
-          "text": "Y decíanle: ¿Dónde está tu Padre? Respondió Jesús: Ni á mí me conocéis, ni á mi Padre; si á mí me conocieseis, á mi Padre también conocierais."
+          "text": "Y decíanle: ¿Dónde está tu Padre? Respondió Jesús: [J]Ni á mí me conocéis, ni á mi Padre; si á mí me conocieseis, á mi Padre también conocierais.[/J]"
         },
         {
           "chapter": 8,
@@ -1849,7 +1967,7 @@
         {
           "chapter": 8,
           "verse": 21,
-          "text": "Y díjoles otra vez Jesús: Yo me voy, y me buscaréis, mas en vuestro pecado moriréis: á donde yo voy, vosotros no podéis venir."
+          "text": "Y díjoles otra vez Jesús: [J]Yo me voy, y me buscaréis, mas en vuestro pecado moriréis: á donde yo voy, vosotros no podéis venir.[/J]"
         },
         {
           "chapter": 8,
@@ -1859,7 +1977,7 @@
         {
           "chapter": 8,
           "verse": 23,
-          "text": "Y decíales: Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo."
+          "text": "Y decíales: [J]Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo.[/J]"
         },
         {
           "chapter": 8,
@@ -1869,7 +1987,7 @@
         {
           "chapter": 8,
           "verse": 25,
-          "text": "Y decíanle: ¿Tú quién eres? Entonces Jesús les dijo: El que al principio también os he dicho."
+          "text": "Y decíanle: ¿Tú quién eres? Entonces Jesús les dijo: [J]El que al principio también os he dicho.[/J]"
         },
         {
           "chapter": 8,
@@ -1884,7 +2002,7 @@
         {
           "chapter": 8,
           "verse": 28,
-          "text": "Díjoles pues, Jesús: Cuando levantareis al Hijo del hombre, entonces entenderéis que yo soy, y que nada hago de mí mismo; mas como el Padre me enseñó, esto hablo."
+          "text": "Díjoles pues, Jesús: [J]Cuando levantareis al Hijo del hombre, entonces entenderéis que yo soy, y que nada hago de mí mismo; mas como el Padre me enseñó, esto hablo.[/J]"
         },
         {
           "chapter": 8,
@@ -1899,7 +2017,7 @@
         {
           "chapter": 8,
           "verse": 31,
-          "text": "Y decía Jesús á los Judíos que le habían creído: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos;"
+          "text": "Y decía Jesús á los Judíos que le habían creído: [J]Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos;[/J]"
         },
         {
           "chapter": 8,
@@ -1914,7 +2032,7 @@
         {
           "chapter": 8,
           "verse": 34,
-          "text": "Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo de pecado."
+          "text": "Jesús les respondió: [J]De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo de pecado.[/J]"
         },
         {
           "chapter": 8,
@@ -1939,7 +2057,7 @@
         {
           "chapter": 8,
           "verse": 39,
-          "text": "Respondieron y dijéronle: Nuestro padre es Abraham. Díceles Jesús: Si fuerais hijos de Abraham, las obras de Abraham haríais."
+          "text": "Respondieron y dijéronle: Nuestro padre es Abraham. Díceles Jesús: [J]Si fuerais hijos de Abraham, las obras de Abraham haríais.[/J]"
         },
         {
           "chapter": 8,
@@ -1949,12 +2067,12 @@
         {
           "chapter": 8,
           "verse": 41,
-          "text": "Vosotros hacéis las obras de vuestro padre. Dijéronle entonces: Nosotros no somos nacidos de fornicación; un padre tenemos, [ADD]que es[/ADD] Dios."
+          "text": "[J]Vosotros hacéis las obras de vuestro padre.[/J] Dijéronle entonces: Nosotros no somos nacidos de fornicación; un padre tenemos, [ADD]que es[/ADD] Dios."
         },
         {
           "chapter": 8,
           "verse": 42,
-          "text": "Jesús entonces les dijo: Si vuestro padre fuera Dios, ciertamente me amaríais: porque yo de Dios he salido, y he venido; que no he venido de mí mismo, mas él me envió."
+          "text": "Jesús entonces les dijo: [J]Si vuestro padre fuera Dios, ciertamente me amaríais: porque yo de Dios he salido, y he venido; que no he venido de mí mismo, mas él me envió.[/J]"
         },
         {
           "chapter": 8,
@@ -1989,7 +2107,7 @@
         {
           "chapter": 8,
           "verse": 49,
-          "text": "[J]Respondió Jesús: Yo no tengo demonio, antes honro á mi Padre; y vosotros me habéis deshonrado.[/J]"
+          "text": "Respondió Jesús: [J]Yo no tengo demonio, antes honro á mi Padre; y vosotros me habéis deshonrado.[/J]"
         },
         {
           "chapter": 8,
@@ -2014,7 +2132,7 @@
         {
           "chapter": 8,
           "verse": 54,
-          "text": "Respondió Jesús: Si yo me glorifico á mí mismo, mi gloria es nada: mi Padre es el que me glorifica; el que vosotros decís que es vuestro Dios;"
+          "text": "Respondió Jesús: [J]Si yo me glorifico á mí mismo, mi gloria es nada: mi Padre es el que me glorifica; el que vosotros decís que es vuestro Dios;[/J]"
         },
         {
           "chapter": 8,
@@ -2034,12 +2152,34 @@
         {
           "chapter": 8,
           "verse": 58,
-          "text": "[J]Díjoles Jesús: De cierto, de cierto os digo: Antes que Abraham fuese, yo soy.[/J]"
+          "text": "Díjoles Jesús: [J]De cierto, de cierto os digo: Antes que Abraham fuese, yo soy.[/J]"
         },
         {
           "chapter": 8,
           "verse": 59,
           "text": "Tomaron entonces piedras para tirarle: mas Jesús se encubrió, y salió del templo; y atravesando por medio de ellos, se fué."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "La validez del testimonio de Jesús"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Yo no soy de este mundo"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Los hijos de Abraham"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Los hijos del diablo"
+        },
+        {
+          "beforeVerse": 48,
+          "text": "La declaración de Jesús acerca de sí mismo"
         }
       ]
     },
@@ -2061,7 +2201,7 @@
         {
           "chapter": 9,
           "verse": 3,
-          "text": "Respondió Jesús: Ni éste pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él."
+          "text": "Respondió Jesús: [J]Ni éste pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él.[/J]"
         },
         {
           "chapter": 9,
@@ -2081,7 +2221,7 @@
         {
           "chapter": 9,
           "verse": 7,
-          "text": "Y díjole: Ve, lávate en el estanque de Siloé (que significa, si [ADD]lo[/ADD] interpretares, Enviado). Y fué entonces, y lavóse, y volvió viendo."
+          "text": "Y díjole: [J]Ve, lávate en el estanque de Siloé[/J] (que significa, si [ADD]lo[/ADD] interpretares, Enviado). Y fué entonces, y lavóse, y volvió viendo."
         },
         {
           "chapter": 9,
@@ -2221,7 +2361,7 @@
         {
           "chapter": 9,
           "verse": 35,
-          "text": "Oyó Jesús que le habían echado fuera; y hallándole, díjole: ¿Crees tú en el Hijo de Dios?"
+          "text": "Oyó Jesús que le habían echado fuera; y hallándole, díjole: [J]¿Crees tú en el Hijo de Dios?[/J]"
         },
         {
           "chapter": 9,
@@ -2231,7 +2371,7 @@
         {
           "chapter": 9,
           "verse": 37,
-          "text": "[J]Y díjole Jesús: Y le has visto, y el que habla contigo, él es.[/J]"
+          "text": "Y díjole Jesús: [J]Y le has visto, y el que habla contigo, él es.[/J]"
         },
         {
           "chapter": 9,
@@ -2241,7 +2381,7 @@
         {
           "chapter": 9,
           "verse": 39,
-          "text": "Y dijo Jesús: Yo, para juicio he venido á este mundo: para que los que no ven, vean; y los que ven, sean cegados."
+          "text": "Y dijo Jesús: [J]Yo, para juicio he venido á este mundo: para que los que no ven, vean; y los que ven, sean cegados.[/J]"
         },
         {
           "chapter": 9,
@@ -2251,7 +2391,21 @@
         {
           "chapter": 9,
           "verse": 41,
-          "text": "[J]Díjoles Jesús: Si fuerais ciegos, no tuvierais pecado: mas ahora porque decís, Vemos, por tanto vuestro pecado permanece.[/J]"
+          "text": "Díjoles Jesús: [J]Si fuerais ciegos, no tuvierais pecado: mas ahora porque decís, Vemos, por tanto vuestro pecado permanece.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús sana a un ciego de nacimiento"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Las autoridades investigan la sanidad del ciego"
+        },
+        {
+          "beforeVerse": 35,
+          "text": "La ceguera espiritual"
         }
       ]
     },
@@ -2293,7 +2447,7 @@
         {
           "chapter": 10,
           "verse": 7,
-          "text": "Volvióles, pues, Jesús á decir: De cierto, de cierto os digo: Yo soy la puerta de las ovejas."
+          "text": "Volvióles, pues, Jesús á decir: [J]De cierto, de cierto os digo: Yo soy la puerta de las ovejas.[/J]"
         },
         {
           "chapter": 10,
@@ -2383,7 +2537,7 @@
         {
           "chapter": 10,
           "verse": 25,
-          "text": "[J]Respondióles Jesús: Os [ADD]lo[/ADD] he dicho, y no creéis: las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí;[/J]"
+          "text": "Respondióles Jesús: [J]Os [/J][ADD][J]lo[/J][/ADD][J] he dicho, y no creéis: las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí;[/J]"
         },
         {
           "chapter": 10,
@@ -2418,7 +2572,7 @@
         {
           "chapter": 10,
           "verse": 32,
-          "text": "Respondióles Jesús: Muchas buenas obras os he mostrado de mi Padre; ¿por cuál obra de esas me apedreáis?"
+          "text": "Respondióles Jesús: [J]Muchas buenas obras os he mostrado de mi Padre; ¿por cuál obra de esas me apedreáis?[/J]"
         },
         {
           "chapter": 10,
@@ -2428,7 +2582,7 @@
         {
           "chapter": 10,
           "verse": 34,
-          "text": "Respondióles Jesús: ¿No está escrito en vuestra ley: Yo dije, Dioses sois?"
+          "text": "Respondióles Jesús: [J]¿No está escrito en vuestra ley: Yo dije, Dioses sois?[/J]"
         },
         {
           "chapter": 10,
@@ -2470,6 +2624,16 @@
           "verse": 42,
           "text": "Y muchos creyeron allí en él."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús, el buen pastor"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Jesús y la fiesta de la Dedicación"
+        }
       ]
     },
     {
@@ -2495,7 +2659,7 @@
         {
           "chapter": 11,
           "verse": 4,
-          "text": "Y oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, mas por gloria de Dios, para que el Hijo de Dios sea glorificado por ella."
+          "text": "Y oyéndolo Jesús, dijo: [J]Esta enfermedad no es para muerte, mas por gloria de Dios, para que el Hijo de Dios sea glorificado por ella.[/J]"
         },
         {
           "chapter": 11,
@@ -2510,7 +2674,7 @@
         {
           "chapter": 11,
           "verse": 7,
-          "text": "Luego, después de esto, dijo á los discípulos: Vamos á Judea otra vez."
+          "text": "Luego, después de esto, dijo á los discípulos: [J]Vamos á Judea otra vez.[/J]"
         },
         {
           "chapter": 11,
@@ -2520,7 +2684,7 @@
         {
           "chapter": 11,
           "verse": 9,
-          "text": "Respondió Jesús: ¿No tiene el día doce horas? El que anduviere de día, no tropieza, porque ve la luz de este mundo."
+          "text": "Respondió Jesús: [J]¿No tiene el día doce horas? El que anduviere de día, no tropieza, porque ve la luz de este mundo.[/J]"
         },
         {
           "chapter": 11,
@@ -2530,7 +2694,7 @@
         {
           "chapter": 11,
           "verse": 11,
-          "text": "Dicho esto, díceles después: Lázaro nuestro amigo duerme; mas voy á despertarle del sueño."
+          "text": "Dicho esto, díceles después: [J]Lázaro nuestro amigo duerme; mas voy á despertarle del sueño.[/J]"
         },
         {
           "chapter": 11,
@@ -2545,7 +2709,7 @@
         {
           "chapter": 11,
           "verse": 14,
-          "text": "Entonces, pues, Jesús les dijo claramente: Lázaro es muerto;"
+          "text": "Entonces, pues, Jesús les dijo claramente: [J]Lázaro es muerto;[/J]"
         },
         {
           "chapter": 11,
@@ -2590,7 +2754,7 @@
         {
           "chapter": 11,
           "verse": 23,
-          "text": "Dícele Jesús: Resucitará tu hermano."
+          "text": "Dícele Jesús: [J]Resucitará tu hermano.[/J]"
         },
         {
           "chapter": 11,
@@ -2600,7 +2764,7 @@
         {
           "chapter": 11,
           "verse": 25,
-          "text": "Dícele Jesús: Yo soy la resurrección y la vida: el que cree en mí, aunque esté muerto, vivirá."
+          "text": "Dícele Jesús: [J]Yo soy la resurrección y la vida: el que cree en mí, aunque esté muerto, vivirá.[/J]"
         },
         {
           "chapter": 11,
@@ -2645,7 +2809,7 @@
         {
           "chapter": 11,
           "verse": 34,
-          "text": "Y dijo: ¿Dónde le pusisteis? Dícenle: Señor, ven, y ve."
+          "text": "Y dijo: [J]¿Dónde le pusisteis?[/J] Dícenle: Señor, ven, y ve."
         },
         {
           "chapter": 11,
@@ -2670,17 +2834,17 @@
         {
           "chapter": 11,
           "verse": 39,
-          "text": "Dice Jesús: Quitad la piedra. Marta, la hermana del que se había muerto, le dice: Señor, hiede ya, que es de cuatro días."
+          "text": "Dice Jesús: [J]Quitad la piedra.[/J] Marta, la hermana del que se había muerto, le dice: Señor, hiede ya, que es de cuatro días."
         },
         {
           "chapter": 11,
           "verse": 40,
-          "text": "Jesús le dice: ¿No te he dicho que, si creyeres, verás la gloria de Dios?"
+          "text": "Jesús le dice: [J]¿No te he dicho que, si creyeres, verás la gloria de Dios?[/J]"
         },
         {
           "chapter": 11,
           "verse": 41,
-          "text": "Entonces quitaron la piedra de donde el muerto había sido puesto. Y Jesús, alzando los ojos arriba, dijo: Padre, gracias te doy que me has oído."
+          "text": "Entonces quitaron la piedra de donde el muerto había sido puesto. Y Jesús, alzando los ojos arriba, dijo: [J]Padre, gracias te doy que me has oído.[/J]"
         },
         {
           "chapter": 11,
@@ -2690,12 +2854,12 @@
         {
           "chapter": 11,
           "verse": 43,
-          "text": "Y habiendo dicho estas cosas, clamó á gran voz: Lázaro, ven fuera."
+          "text": "Y habiendo dicho estas cosas, clamó á gran voz: [J]Lázaro, ven fuera.[/J]"
         },
         {
           "chapter": 11,
           "verse": 44,
-          "text": "Y el que había estado muerto, salió, atadas las manos y los pies con vendas; y su rostro estaba envuelto en un sudario. Díceles Jesús: Desatadle, y dejadle ir."
+          "text": "Y el que había estado muerto, salió, atadas las manos y los pies con vendas; y su rostro estaba envuelto en un sudario. Díceles Jesús: [J]Desatadle, y dejadle ir.[/J]"
         },
         {
           "chapter": 11,
@@ -2762,6 +2926,24 @@
           "verse": 57,
           "text": "Y los pontífices y los Fariseos habían dado mandamiento, que si alguno supiese dónde estuviera, lo manifestase, para que le prendiesen."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La muerte de Lázaro"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Jesús consuela a las hermanas de Lázaro"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Jesús resucita a Lázaro"
+        },
+        {
+          "beforeVerse": 45,
+          "text": "La conspiración para matar a Jesús"
+        }
       ]
     },
     {
@@ -2802,7 +2984,7 @@
         {
           "chapter": 12,
           "verse": 7,
-          "text": "[J]Entonces Jesús dijo: Déjala: para el día de mi sepultura ha guardado esto;[/J]"
+          "text": "Entonces Jesús dijo: [J]Déjala: para el día de mi sepultura ha guardado esto;[/J]"
         },
         {
           "chapter": 12,
@@ -2882,7 +3064,7 @@
         {
           "chapter": 12,
           "verse": 23,
-          "text": "Entonces Jesús les respondió, diciendo: La hora viene en que el Hijo del hombre ha de ser glorificado."
+          "text": "Entonces Jesús les respondió, diciendo: [J]La hora viene en que el Hijo del hombre ha de ser glorificado.[/J]"
         },
         {
           "chapter": 12,
@@ -2907,7 +3089,7 @@
         {
           "chapter": 12,
           "verse": 28,
-          "text": "Padre, glorifica tu nombre. Entonces vino una voz del cielo: Y lo he glorificado, y lo glorificaré otra vez."
+          "text": "[J]Padre, glorifica tu nombre.[/J] Entonces vino una voz del cielo: Y lo he glorificado, y lo glorificaré otra vez."
         },
         {
           "chapter": 12,
@@ -2917,7 +3099,7 @@
         {
           "chapter": 12,
           "verse": 30,
-          "text": "Respondió Jesús, y dijo: No ha venido esta voz por mi causa, mas por causa de vosotros."
+          "text": "Respondió Jesús, y dijo: [J]No ha venido esta voz por mi causa, mas por causa de vosotros.[/J]"
         },
         {
           "chapter": 12,
@@ -2942,12 +3124,12 @@
         {
           "chapter": 12,
           "verse": 35,
-          "text": "Entonces Jesús les dice: Aun por un poco estará la luz entre vosotros: andad entre tanto que tenéis luz, porque no os sorprendan las tinieblas; porque el que anda en tinieblas, no sabe dónde va."
+          "text": "Entonces Jesús les dice: [J]Aun por un poco estará la luz entre vosotros: andad entre tanto que tenéis luz, porque no os sorprendan las tinieblas; porque el que anda en tinieblas, no sabe dónde va.[/J]"
         },
         {
           "chapter": 12,
           "verse": 36,
-          "text": "Entre tanto que tenéis la luz, creed en la luz, para que seáis hijos de luz. Estas cosas habló Jesús, y fuése, y escondióse de ellos."
+          "text": "[J]Entre tanto que tenéis la luz, creed en la luz, para que seáis hijos de luz.[/J] Estas cosas habló Jesús, y fuése, y escondióse de ellos."
         },
         {
           "chapter": 12,
@@ -2987,7 +3169,7 @@
         {
           "chapter": 12,
           "verse": 44,
-          "text": "Mas Jesús clamó y dijo: El que cree en mí, no cree en mí, sino en el que me envió;"
+          "text": "Mas Jesús clamó y dijo: [J]El que cree en mí, no cree en mí, sino en el que me envió;[/J]"
         },
         {
           "chapter": 12,
@@ -3018,6 +3200,24 @@
           "chapter": 12,
           "verse": 50,
           "text": "[J]Y sé que su mandamiento es vida eterna: así que, lo que yo hablo, como el Padre me lo ha dicho, así hablo.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "María unge a Jesús en Betania"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La entrada triunfal"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesús predice su muerte"
+        },
+        {
+          "beforeVerse": 37,
+          "text": "Los judíos siguen en su incredulidad"
         }
       ]
     },
@@ -3059,12 +3259,12 @@
         {
           "chapter": 13,
           "verse": 7,
-          "text": "Respondió Jesús, y díjole: Lo que yo hago, tú no entiendes ahora; mas [ADD]lo[/ADD] entenderás después."
+          "text": "Respondió Jesús, y díjole: [J]Lo que yo hago, tú no entiendes ahora; mas [/J][ADD][J]lo[/J][/ADD][J] entenderás después.[/J]"
         },
         {
           "chapter": 13,
           "verse": 8,
-          "text": "Dícele Pedro: No me lavarás los pies jamás. Respondióle Jesús: Si no te lavare, no tendrás parte conmigo."
+          "text": "Dícele Pedro: No me lavarás los pies jamás. Respondióle Jesús: [J]Si no te lavare, no tendrás parte conmigo.[/J]"
         },
         {
           "chapter": 13,
@@ -3074,7 +3274,7 @@
         {
           "chapter": 13,
           "verse": 10,
-          "text": "Dícele Jesús: El que está lavado, no necesita sino que lave los pies, mas está todo limpio: y vosotros limpios estáis, aunque no todos."
+          "text": "Dícele Jesús: [J]El que está lavado, no necesita sino que lave los pies, mas está todo limpio: y vosotros limpios estáis, aunque no todos.[/J]"
         },
         {
           "chapter": 13,
@@ -3084,7 +3284,7 @@
         {
           "chapter": 13,
           "verse": 12,
-          "text": "Así que, después que les hubo lavado los pies, y tomado su ropa, volviéndose á sentar á la mesa, díjoles: ¿Sabéis lo que os he hecho?"
+          "text": "Así que, después que les hubo lavado los pies, y tomado su ropa, volviéndose á sentar á la mesa, díjoles: [J]¿Sabéis lo que os he hecho?[/J]"
         },
         {
           "chapter": 13,
@@ -3129,7 +3329,7 @@
         {
           "chapter": 13,
           "verse": 21,
-          "text": "Como hubo dicho Jesús esto, fué conmovido en el espíritu, y protestó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar."
+          "text": "Como hubo dicho Jesús esto, fué conmovido en el espíritu, y protestó, y dijo: [J]De cierto, de cierto os digo, que uno de vosotros me ha de entregar.[/J]"
         },
         {
           "chapter": 13,
@@ -3154,12 +3354,12 @@
         {
           "chapter": 13,
           "verse": 26,
-          "text": "Respondió Jesús: Aquél es, á quien yo diere el pan mojado. Y mojando el pan, diólo á Judas Iscariote, [ADD]hijo[/ADD] de Simón."
+          "text": "Respondió Jesús: [J]Aquél es, á quien yo diere el pan mojado.[/J] Y mojando el pan, diólo á Judas Iscariote, [ADD]hijo[/ADD] de Simón."
         },
         {
           "chapter": 13,
           "verse": 27,
-          "text": "Y tras el bocado Satanás entró en él. Entonces Jesús le dice: Lo que haces, haz[ADD]lo[/ADD] más presto."
+          "text": "Y tras el bocado Satanás entró en él. Entonces Jesús le dice: [J]Lo que haces, haz[/J][ADD][J]lo[/J][/ADD][J] más presto.[/J]"
         },
         {
           "chapter": 13,
@@ -3179,7 +3379,7 @@
         {
           "chapter": 13,
           "verse": 31,
-          "text": "Entonces como él salió, dijo Jesús: Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él."
+          "text": "Entonces como él salió, dijo Jesús: [J]Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él.[/J]"
         },
         {
           "chapter": 13,
@@ -3204,7 +3404,7 @@
         {
           "chapter": 13,
           "verse": 36,
-          "text": "Dícele Simón Pedro: Señor, ¿adónde vas? Respondióle Jesús: Donde yo voy, no me puedes ahora seguir; mas me seguirás después."
+          "text": "Dícele Simón Pedro: Señor, ¿adónde vas? Respondióle Jesús: [J]Donde yo voy, no me puedes ahora seguir; mas me seguirás después.[/J]"
         },
         {
           "chapter": 13,
@@ -3214,7 +3414,21 @@
         {
           "chapter": 13,
           "verse": 38,
-          "text": "[J]Respondióle Jesús: ¿Tu alma pondrás por mí? De cierto, de cierto te digo: No cantará el gallo, sin que me hayas negado tres veces.[/J]"
+          "text": "Respondióle Jesús: [J]¿Tu alma pondrás por mí? De cierto, de cierto te digo: No cantará el gallo, sin que me hayas negado tres veces.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús lava los pies a sus discípulos"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Jesús predice la traición de Judas"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesús predice la negación de Pedro"
         }
       ]
     },
@@ -3251,7 +3465,7 @@
         {
           "chapter": 14,
           "verse": 6,
-          "text": "Jesús le dice: Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí."
+          "text": "Jesús le dice: [J]Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí.[/J]"
         },
         {
           "chapter": 14,
@@ -3266,7 +3480,7 @@
         {
           "chapter": 14,
           "verse": 9,
-          "text": "Jesús le dice: ¿Tanto tiempo ha que estoy con vosotros, y no me has conocido, Felipe? El que me ha visto, ha visto al Padre; ¿cómo, pues, dices tú: Muéstranos el Padre?"
+          "text": "Jesús le dice: [J]¿Tanto tiempo ha que estoy con vosotros, y no me has conocido, Felipe? El que me ha visto, ha visto al Padre; ¿cómo, pues, dices tú: Muéstranos el Padre?[/J]"
         },
         {
           "chapter": 14,
@@ -3336,7 +3550,7 @@
         {
           "chapter": 14,
           "verse": 23,
-          "text": "Respondió Jesús, y díjole: El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos á él, y haremos con él morada."
+          "text": "Respondió Jesús, y díjole: [J]El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos á él, y haremos con él morada.[/J]"
         },
         {
           "chapter": 14,
@@ -3377,6 +3591,20 @@
           "chapter": 14,
           "verse": 31,
           "text": "[J]Empero para que conozca el mundo que amo al Padre, y como el Padre me dió el mandamiento, así hago. Levantaos, vamos de aquí.[/J]"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús consuela a sus discípulos"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Jesús, el camino al Padre"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesús promete el Espíritu Santo"
         }
       ]
     },
@@ -3520,6 +3748,16 @@
           "verse": 27,
           "text": "[J]Y vosotros daréis testimonio, porque estáis conmigo desde el principio.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús, la vid verdadera"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Jesús y sus discípulos aborrecidos por el mundo"
+        }
       ]
     },
     {
@@ -3620,7 +3858,7 @@
         {
           "chapter": 16,
           "verse": 19,
-          "text": "Y conoció Jesús que le querían preguntar, y díjoles: ¿Preguntáis entre vosotros de esto que dije: Un poquito, y no me veréis, y otra vez un poquito, y me veréis?"
+          "text": "Y conoció Jesús que le querían preguntar, y díjoles: [J]¿Preguntáis entre vosotros de esto que dije: Un poquito, y no me veréis, y otra vez un poquito, y me veréis?[/J]"
         },
         {
           "chapter": 16,
@@ -3680,7 +3918,7 @@
         {
           "chapter": 16,
           "verse": 31,
-          "text": "Respondióles Jesús: ¿Ahora creéis?"
+          "text": "Respondióles Jesús: [J]¿Ahora creéis?[/J]"
         },
         {
           "chapter": 16,
@@ -3692,6 +3930,16 @@
           "verse": 33,
           "text": "[J]Estas cosas os he hablado, para que en mí tengáis paz. En el mundo tendréis aflicción: mas confiad, yo he vencido al mundo.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "La obra del Espíritu Santo"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "La despedida de Jesús"
+        }
       ]
     },
     {
@@ -3702,7 +3950,7 @@
         {
           "chapter": 17,
           "verse": 1,
-          "text": "ESTAS cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es llegada; glorifica á tu Hijo, para que también tu Hijo te glorifique á ti;"
+          "text": "ESTAS cosas habló Jesús, y levantados los ojos al cielo, dijo: [J]Padre, la hora es llegada; glorifica á tu Hijo, para que también tu Hijo te glorifique á ti;[/J]"
         },
         {
           "chapter": 17,
@@ -3829,6 +4077,20 @@
           "verse": 26,
           "text": "[J]Y yo les he manifestado tu nombre, y manifestaré[ADD]lo aún[/ADD]; para que el amor con que me has amado, esté en ellos, y yo en ellos.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús ora por sí mismo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Jesús ora por sus discípulos"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jesús ora por todos los creyentes"
+        }
       ]
     },
     {
@@ -3854,12 +4116,12 @@
         {
           "chapter": 18,
           "verse": 4,
-          "text": "Empero Jesús, sabiendo todas las cosas que habían de venir sobre él, salió delante, y díjoles: ¿A quién buscáis?"
+          "text": "Empero Jesús, sabiendo todas las cosas que habían de venir sobre él, salió delante, y díjoles: [J]¿A quién buscáis?[/J]"
         },
         {
           "chapter": 18,
           "verse": 5,
-          "text": "Respondiéronle: A Jesús Nazareno. Díceles Jesús: Yo soy. (Y estaba también con ellos Judas, el que le entregaba.)"
+          "text": "Respondiéronle: A Jesús Nazareno. Díceles Jesús: [J]Yo soy.[/J] (Y estaba también con ellos Judas, el que le entregaba.)"
         },
         {
           "chapter": 18,
@@ -3869,12 +4131,12 @@
         {
           "chapter": 18,
           "verse": 7,
-          "text": "Volvióles, pues, á preguntar: ¿A quién buscáis? Y ellos dijeron: A Jesús Nazareno."
+          "text": "Volvióles, pues, á preguntar: [J]¿A quién buscáis?[/J] Y ellos dijeron: A Jesús Nazareno."
         },
         {
           "chapter": 18,
           "verse": 8,
-          "text": "[J]Respondió Jesús: Os he dicho que yo soy: pues si á mí buscáis, dejad ir á éstos.[/J]"
+          "text": "Respondió Jesús: [J]Os he dicho que yo soy: pues si á mí buscáis, dejad ir á éstos.[/J]"
         },
         {
           "chapter": 18,
@@ -3889,7 +4151,7 @@
         {
           "chapter": 18,
           "verse": 11,
-          "text": "[J]Jesús entonces dijo á Pedro: Mete tu espada en la vaina: el vaso que el Padre me ha dado, ¿no lo tengo de beber?[/J]"
+          "text": "Jesús entonces dijo á Pedro: [J]Mete tu espada en la vaina: el vaso que el Padre me ha dado, ¿no lo tengo de beber?[/J]"
         },
         {
           "chapter": 18,
@@ -3934,7 +4196,7 @@
         {
           "chapter": 18,
           "verse": 20,
-          "text": "[J]Jesús le respondió: Yo manifiestamente he hablado al mundo: yo siempre he enseñado en la sinagoga y en el templo, donde se juntan todos los Judíos, y nada he hablado en oculto.[/J]"
+          "text": "Jesús le respondió: [J]Yo manifiestamente he hablado al mundo: yo siempre he enseñado en la sinagoga y en el templo, donde se juntan todos los Judíos, y nada he hablado en oculto.[/J]"
         },
         {
           "chapter": 18,
@@ -3949,7 +4211,7 @@
         {
           "chapter": 18,
           "verse": 23,
-          "text": "Respondióle Jesús: Si he hablado mal, da testimonio del mal: y si bien, ¿por qué me hieres?"
+          "text": "Respondióle Jesús: [J]Si he hablado mal, da testimonio del mal: y si bien, ¿por qué me hieres?[/J]"
         },
         {
           "chapter": 18,
@@ -4004,7 +4266,7 @@
         {
           "chapter": 18,
           "verse": 34,
-          "text": "[J]Respondióle Jesús: ¿Dices tú esto de ti mismo, ó te lo han dicho otros de mí?[/J]"
+          "text": "Respondióle Jesús: [J]¿Dices tú esto de ti mismo, ó te lo han dicho otros de mí?[/J]"
         },
         {
           "chapter": 18,
@@ -4014,12 +4276,12 @@
         {
           "chapter": 18,
           "verse": 36,
-          "text": "Respondió Jesús: Mi reino no es de este mundo: si de este mundo fuera mi reino, mis servidores pelearían para que yo no fuera entregado á los Judíos: ahora, pues, mi reino no es de aquí."
+          "text": "Respondió Jesús: [J]Mi reino no es de este mundo: si de este mundo fuera mi reino, mis servidores pelearían para que yo no fuera entregado á los Judíos: ahora, pues, mi reino no es de aquí.[/J]"
         },
         {
           "chapter": 18,
           "verse": 37,
-          "text": "Díjole entonces Pilato: ¿Luego rey eres tú? Respondió Jesús: Tú dices que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para dar testimonio á la verdad. Todo aquél que es de la verdad, oye mi voz."
+          "text": "Díjole entonces Pilato: ¿Luego rey eres tú? Respondió Jesús: [J]Tú dices que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para dar testimonio á la verdad. Todo aquél que es de la verdad, oye mi voz.[/J]"
         },
         {
           "chapter": 18,
@@ -4035,6 +4297,32 @@
           "chapter": 18,
           "verse": 40,
           "text": "Entonces todos dieron voces otra vez, diciendo: No á éste, sino á Barrabás. Y Barrabás era ladrón."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El arresto de Jesús"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Jesús ante Anás"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Pedro niega a Jesús"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Jesús ante el sumo sacerdote"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Pedro niega de nuevo a Jesús"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "Jesús ante Pilato"
         }
       ]
     },
@@ -4096,7 +4384,7 @@
         {
           "chapter": 19,
           "verse": 11,
-          "text": "Respondió Jesús: Ninguna potestad tendrías contra mí, si no te fuese dado de arriba: por tanto, el que á ti me ha entregado, mayor pecado tiene."
+          "text": "Respondió Jesús: [J]Ninguna potestad tendrías contra mí, si no te fuese dado de arriba: por tanto, el que á ti me ha entregado, mayor pecado tiene.[/J]"
         },
         {
           "chapter": 19,
@@ -4171,17 +4459,17 @@
         {
           "chapter": 19,
           "verse": 26,
-          "text": "Y como vió Jesús á la madre, y al discípulo que él amaba, que estaba presente, dice á su madre: Mujer, he ahí tu hijo."
+          "text": "Y como vió Jesús á la madre, y al discípulo que él amaba, que estaba presente, dice á su madre: [J]Mujer, he ahí tu hijo.[/J]"
         },
         {
           "chapter": 19,
           "verse": 27,
-          "text": "Después dice al discípulo: He ahí tu madre. Y desde aquella hora el discípulo la recibió consigo."
+          "text": "Después dice al discípulo: [J]He ahí tu madre.[/J] Y desde aquella hora el discípulo la recibió consigo."
         },
         {
           "chapter": 19,
           "verse": 28,
-          "text": "Después de esto, sabiendo Jesús que todas las cosas eran ya cumplidas, para que la Escritura se cumpliese, dijo: Sed tengo."
+          "text": "Después de esto, sabiendo Jesús que todas las cosas eran ya cumplidas, para que la Escritura se cumpliese, dijo: [J]Sed tengo.[/J]"
         },
         {
           "chapter": 19,
@@ -4191,7 +4479,7 @@
         {
           "chapter": 19,
           "verse": 30,
-          "text": "Y como Jesús tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, dió el espíritu."
+          "text": "Y como Jesús tomó el vinagre, dijo: [J]Consumado es.[/J] Y habiendo inclinado la cabeza, dió el espíritu."
         },
         {
           "chapter": 19,
@@ -4252,6 +4540,24 @@
           "chapter": 19,
           "verse": 42,
           "text": "Allí, pues, por causa de la víspera [ADD]de la Pascua[/ADD] de los Judíos, porque aquel sepulcro estaba cerca, pusieron á Jesús."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La sentencia"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "La crucifixión"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "La muerte de Jesús"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "La sepultura de Jesús"
         }
       ]
     },
@@ -4333,17 +4639,17 @@
         {
           "chapter": 20,
           "verse": 15,
-          "text": "Dícele Jesús: Mujer, ¿por qué lloras? ¿á quién buscas? Ella, pensando que era el hortelano, dícele: Señor, si tú lo has llevado, dime dónde lo has puesto, y yo lo llevaré."
+          "text": "Dícele Jesús: [J]Mujer, ¿por qué lloras?[/J] ¿á quién buscas? Ella, pensando que era el hortelano, dícele: Señor, si tú lo has llevado, dime dónde lo has puesto, y yo lo llevaré."
         },
         {
           "chapter": 20,
           "verse": 16,
-          "text": "Dícele Jesús: ¡María! Volviéndose ella, dícele: ¡Rabboni! que quiere decir, Maestro."
+          "text": "Dícele Jesús: [J]¡María![/J] Volviéndose ella, dícele: ¡Rabboni! que quiere decir, Maestro."
         },
         {
           "chapter": 20,
           "verse": 17,
-          "text": "[J]Dícele Jesús: No me toques: porque aun no he subido á mi Padre: mas ve á mis hermanos, y diles: Subo á mi Padre y á vuestro Padre, á mi Dios y á vuestro Dios.[/J]"
+          "text": "Dícele Jesús: [J]No me toques: porque aun no he subido á mi Padre: mas ve á mis hermanos, y diles: Subo á mi Padre y á vuestro Padre, á mi Dios y á vuestro Dios.[/J]"
         },
         {
           "chapter": 20,
@@ -4353,7 +4659,7 @@
         {
           "chapter": 20,
           "verse": 19,
-          "text": "Y como fué tarde aquel día, el primero de la semana, y estando las puertas cerradas donde los discípulos estaban juntos por miedo de los Judíos, vino Jesús, y púsose en medio, y díjoles: Paz á vosotros."
+          "text": "Y como fué tarde aquel día, el primero de la semana, y estando las puertas cerradas donde los discípulos estaban juntos por miedo de los Judíos, vino Jesús, y púsose en medio, y díjoles: [J]Paz á vosotros.[/J]"
         },
         {
           "chapter": 20,
@@ -4363,12 +4669,12 @@
         {
           "chapter": 20,
           "verse": 21,
-          "text": "Entonces les dijo Jesús otra vez: Paz á vosotros; como me envió el Padre, así también yo os envío."
+          "text": "Entonces les dijo Jesús otra vez: [J]Paz á vosotros; como me envió el Padre, así también yo os envío.[/J]"
         },
         {
           "chapter": 20,
           "verse": 22,
-          "text": "Y como hubo dicho esto, sopló, y díjoles: Tomad el Espíritu Santo:"
+          "text": "Y como hubo dicho esto, sopló, y díjoles: [J]Tomad el Espíritu Santo:[/J]"
         },
         {
           "chapter": 20,
@@ -4388,12 +4694,12 @@
         {
           "chapter": 20,
           "verse": 26,
-          "text": "Y ocho días después, estaban otra vez sus discípulos dentro, y con ellos Tomás. Vino Jesús, las puertas cerradas, y púsose en medio, y dijo: Paz á vosotros."
+          "text": "Y ocho días después, estaban otra vez sus discípulos dentro, y con ellos Tomás. Vino Jesús, las puertas cerradas, y púsose en medio, y dijo: [J]Paz á vosotros.[/J]"
         },
         {
           "chapter": 20,
           "verse": 27,
-          "text": "Luego dice á Tomás: Mete tu dedo aquí, y ve mis manos: y alarga acá tu mano, y métela en mi costado: y no seas incrédulo, sino fiel."
+          "text": "Luego dice á Tomás: [J]Mete tu dedo aquí, y ve mis manos: y alarga acá tu mano, y métela en mi costado: y no seas incrédulo, sino fiel.[/J]"
         },
         {
           "chapter": 20,
@@ -4403,7 +4709,7 @@
         {
           "chapter": 20,
           "verse": 29,
-          "text": "Dícele Jesús: Porque me has visto, Tomás, creiste: bienaventurados los que no vieron y creyeron."
+          "text": "Dícele Jesús: [J]Porque me has visto, Tomás, creiste: bienaventurados los que no vieron y creyeron.[/J]"
         },
         {
           "chapter": 20,
@@ -4414,6 +4720,24 @@
           "chapter": 20,
           "verse": 31,
           "text": "Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El sepulcro vacío"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Jesús se aparece a María Magdalena"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Jesús se aparece a sus discípulos"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "Jesús se aparece a Tomás"
         }
       ]
     },
@@ -4445,12 +4769,12 @@
         {
           "chapter": 21,
           "verse": 5,
-          "text": "Y díjoles: Mozos, ¿tenéis algo de comer? Respondiéronle: No."
+          "text": "Y díjoles: [J]Mozos, ¿tenéis algo de comer?[/J] Respondiéronle: No."
         },
         {
           "chapter": 21,
           "verse": 6,
-          "text": "Y él les dice: Echad la red á la mano derecha del barco, y hallaréis. Entonces la echaron, y no la podían en ninguna manera sacar, por la multitud de los peces."
+          "text": "Y él les dice: [J]Echad la red á la mano derecha del barco, y hallaréis.[/J] Entonces la echaron, y no la podían en ninguna manera sacar, por la multitud de los peces."
         },
         {
           "chapter": 21,
@@ -4470,7 +4794,7 @@
         {
           "chapter": 21,
           "verse": 10,
-          "text": "Díceles Jesús: Traed de los peces que cogisteis ahora."
+          "text": "Díceles Jesús: [J]Traed de los peces que cogisteis ahora.[/J]"
         },
         {
           "chapter": 21,
@@ -4480,7 +4804,7 @@
         {
           "chapter": 21,
           "verse": 12,
-          "text": "Díceles Jesús: Venid, comed. Y ninguno de los discípulos osaba preguntarle: ¿Tú, quién eres? sabiendo que era el Señor."
+          "text": "Díceles Jesús: [J]Venid, comed. Y ninguno de los discípulos osaba preguntarle: ¿Tú, quién eres?[/J] sabiendo que era el Señor."
         },
         {
           "chapter": 21,
@@ -4495,17 +4819,17 @@
         {
           "chapter": 21,
           "verse": 15,
-          "text": "Y cuando hubieron comido, Jesús dijo á Simón Pedro: Simón, [ADD]hijo[/ADD] de Jonás, ¿me amas más que éstos? Dícele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis corderos."
+          "text": "Y cuando hubieron comido, Jesús dijo á Simón Pedro: [J]Simón, [/J][ADD][J]hijo[/J][/ADD][J] de Jonás, ¿me amas más que éstos?[/J] Dícele: Sí, Señor: tú sabes que te amo. Dícele: [J]Apacienta mis corderos.[/J]"
         },
         {
           "chapter": 21,
           "verse": 16,
-          "text": "Vuélvele á decir la segunda vez: Simón, [ADD]hijo[/ADD] de Jonás, ¿me amas? Respóndele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis ovejas."
+          "text": "Vuélvele á decir la segunda vez: [J]Simón, [/J][ADD][J]hijo[/J][/ADD][J] de Jonás, ¿me amas?[/J] Respóndele: Sí, Señor: tú sabes que te amo. Dícele: [J]Apacienta mis ovejas.[/J]"
         },
         {
           "chapter": 21,
           "verse": 17,
-          "text": "Dícele la tercera vez: Simón, [ADD]hijo[/ADD] de Jonás, ¿me amas? Entristecióse Pedro de que le dijese la tercera vez: ¿Me amas? y dícele: Señor, tú sabes todas las cosas; tú sabes que te amo. Dícele Jesús: Apacienta mis ovejas."
+          "text": "Dícele la tercera vez: [J]Simón, [/J][ADD][J]hijo[/J][/ADD][J] de Jonás, ¿me amas?[/J] Entristecióse Pedro de que le dijese la tercera vez: ¿Me amas? y dícele: Señor, tú sabes todas las cosas; tú sabes que te amo. Dícele Jesús: [J]Apacienta mis ovejas.[/J]"
         },
         {
           "chapter": 21,
@@ -4515,7 +4839,7 @@
         {
           "chapter": 21,
           "verse": 19,
-          "text": "Y esto dijo, dando á entender con qué muerte había de glorificar á Dios. Y dicho esto, dícele: Sígueme."
+          "text": "Y esto dijo, dando á entender con qué muerte había de glorificar á Dios. Y dicho esto, dícele: [J]Sígueme.[/J]"
         },
         {
           "chapter": 21,
@@ -4530,7 +4854,7 @@
         {
           "chapter": 21,
           "verse": 22,
-          "text": "Dícele Jesús: Si quiero que él quede hasta que yo venga, ¿qué á tí? Sígueme tú."
+          "text": "Dícele Jesús: [J]Si quiero que él quede hasta que yo venga, ¿qué á tí? Sígueme tú.[/J]"
         },
         {
           "chapter": 21,
@@ -4546,6 +4870,16 @@
           "chapter": 21,
           "verse": 25,
           "text": "Y hay también otras muchas cosas que hizo Jesús, que si se escribiesen cada una por sí, ni aun en el mundo pienso que cabrían los libros que se habrían de escribir. Amén."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jesús y la pesca milagrosa"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Jesús restituye a Pedro"
         }
       ]
     }

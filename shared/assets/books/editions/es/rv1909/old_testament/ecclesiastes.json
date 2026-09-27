@@ -102,6 +102,16 @@
           "verse": 18,
           "text": "Porque en la mucha sabiduría hay mucha molestia; y quien añade ciencia, añade dolor."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Discurso inicial"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Primeras conclusiones"
+        }
       ]
     },
     {
@@ -239,6 +249,12 @@
           "verse": 26,
           "text": "Porque al hombre que le agrada, [ADD]Dios[/ADD] le da sabiduría y ciencia y gozo: mas al pecador da trabajo, el que allegue y amontone, para que dé al que agrada á Dios. También esto es vanidad y aflicción de espíritu."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "Todos paran en lo mismo"
+        }
       ]
     },
     {
@@ -356,6 +372,20 @@
           "verse": 22,
           "text": "Así que he visto que no hay cosa mejor que alegrarse el hombre con lo que hiciere; porque esta es su parte: porque ¿quién lo llevará para que vea lo que ha de ser después de él?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Hay un tiempo para todo"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "De nada sirve afanarse"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Contradicciones de la vida"
+        }
       ]
     },
     {
@@ -442,6 +472,20 @@
           "chapter": 4,
           "verse": 16,
           "text": "No tiene fin todo el pueblo que fué antes de ellos: tampoco los que vendrán después estarán con él contentos. Y esto es también vanidad y aflicción de espíritu."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Los opresores y los oprimidos"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "La unión hace la fuerza"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "La juventud y la sabiduría"
         }
       ]
     },
@@ -550,6 +594,16 @@
           "verse": 20,
           "text": "Porque no se acordará mucho de los días de su vida; pues Dios le responderá con alegría de su corazón."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Hay que cumplir las promesas"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "La futilidad de las riquezas"
+        }
       ]
     },
     {
@@ -616,6 +670,12 @@
           "chapter": 6,
           "verse": 12,
           "text": "Porque ¿quién sabe cuál es el bien del hombre en la vida, todos los días de la vida de su vanidad, los cuales él pasa como sombra? Porque ¿quién enseñará al hombre qué será después de él debajo del sol?"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "¿Qué sentido tiene la vida?"
         }
       ]
     },
@@ -769,6 +829,16 @@
           "verse": 29,
           "text": "He aquí, solamente he hallado esto: que Dios hizo al hombre recto, mas ellos buscaron muchas cuentas."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Nueva escala de valores"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Tras la razón de las cosas"
+        }
       ]
     },
     {
@@ -860,6 +930,16 @@
           "chapter": 8,
           "verse": 17,
           "text": "Y he visto todas las obras de Dios, que el hombre no puede alcanzar la obra que debajo del sol se hace; por mucho que trabaje el hombre buscándola, no la hallará: aunque diga el sabio que la sabe, no por eso podrá alcanzarla."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "La obediencia al rey"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Sinrazones de la vida"
         }
       ]
     },
@@ -957,6 +1037,16 @@
           "chapter": 9,
           "verse": 18,
           "text": "Mejor es la sabiduría que las armas de guerra; mas un pecador destruye mucho bien."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Un destino común"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Más vale sabiduría que fuerza"
         }
       ]
     },
@@ -1065,6 +1155,12 @@
           "verse": 20,
           "text": "Ni aun en tu pensamiento digas mal del rey, ni en los secretos de tu cámara digas mal del rico; porque las aves del cielo llevarán la voz, y las que tienen alas harán saber la palabra."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Dichos de sabiduría"
+        }
       ]
     },
     {
@@ -1121,6 +1217,12 @@
           "chapter": 11,
           "verse": 10,
           "text": "Quita pues el enojo de tu corazón, y aparta el mal de tu carne: porque la mocedad y la juventud son vanidad."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Acuérdate de tu Creador"
         }
       ]
     },
@@ -1198,6 +1300,12 @@
           "chapter": 12,
           "verse": 14,
           "text": "Porque Dios traerá toda obra á juicio, [ADD]el cual se hará[/ADD] sobre toda cosa oculta, buena ó mala."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "Epílogo"
         }
       ]
     }

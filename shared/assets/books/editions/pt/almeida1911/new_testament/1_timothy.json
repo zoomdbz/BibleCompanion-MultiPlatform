@@ -112,6 +112,24 @@
           "verse": 20,
           "text": "D'entre os quaes foram Hymeneo e Alexandre, os quaes entreguei a Satanaz, para que aprendam a não blasphemar."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Saudações de Paulo"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Advertência contra falsos ensinos"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A gratidão de Paulo pela misericórdia de Deus"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "A responsabilidade de Timóteo"
+        }
       ]
     },
     {
@@ -193,6 +211,12 @@
           "chapter": 2,
           "verse": 15,
           "text": "Salvar-se-ha, porém, dando á luz filhos, se permanecer com modestia na fé, na caridade e na sanctificação."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Instruções a respeito do culto"
         }
       ]
     },
@@ -281,6 +305,16 @@
           "verse": 16,
           "text": "E sem duvida alguma grande é o mysterio da piedade: Deus foi manifestado em carne, foi justificado em espirito, visto dos anjos, prégado aos gentios, crido no mundo, e recebido acima na gloria."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Os líderes da igreja"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "As verdades de nossa fé"
+        }
       ]
     },
     {
@@ -367,6 +401,16 @@
           "chapter": 4,
           "verse": 16,
           "text": "Tem cuidado de ti mesmo e da doutrina: persevera n'estas coisas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Advertências acerca dos falsos mestres"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Um bom servo de Cristo Jesus"
         }
       ]
     },
@@ -500,6 +544,12 @@
           "verse": 25,
           "text": "Assim mesmo tambem as suas boas obras são manifestas, e as que são d'outra maneira não podem occultar-se."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Conselhos a respeito de viúvas, líderes e escravos"
+        }
       ]
     },
     {
@@ -611,6 +661,16 @@
           "chapter": 6,
           "verse": 21,
           "text": "A qual professando alguns, se desviaram da fé. A graça seja comtigo. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Falsos ensinos e riquezas verdadeiras"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Instruções finais de Paulo"
         }
       ]
     }

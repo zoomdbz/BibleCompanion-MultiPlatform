@@ -147,6 +147,16 @@
           "verse": 27,
           "text": "Como cairam os valentes, e pereceram as armas de guerra!"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi é informado da morte de Saul"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "O cântico de Davi para Saul e Jônatas"
+        }
       ]
     },
     {
@@ -313,6 +323,24 @@
           "chapter": 2,
           "verse": 32,
           "text": "E levantaram a Asael, e sepultaram-n'o na sepultura de seu pae, que estava em Beth-lehem: e Joab e seus homens caminharam toda aquella noite, e amanheceu-lhes em Hebron."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi é ungido rei de Judá"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Isbosete é proclamado rei de Israel"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Guerra entre Israel e Judá"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "A morte de Asael"
         }
       ]
     },
@@ -516,6 +544,24 @@
           "verse": 39,
           "text": "Que eu ainda sou tenro, ainda que ungido rei; estes homens, filhos de Zeruia, são mais duros do que eu: o Senhor pagará ao malfeitor, conforme a sua maldade."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Os filhos de Davi nascidos em Hebrom"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Abner une forças com Davi"
+        },
+        {
+          "beforeVerse": 22,
+          "text": "Abner é assassinado por Joabe"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Davi lamenta a morte de Abner"
+        }
       ]
     },
     {
@@ -582,6 +628,12 @@
           "chapter": 4,
           "verse": 12,
           "text": "E deu David ordem aos seus mancebos que os matassem: e cortaram-lhes os pés e as mãos, e os penduraram sobre o tanque de Hebron: tomaram porém a cabeça d'Isboseth, e a sepultaram na sepultura de Abner, em Hebron."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O assassinato de Isbosete"
         }
       ]
     },
@@ -715,6 +767,20 @@
           "verse": 25,
           "text": "E fez David assim como o Senhor lhe tinha ordenado: e feriu os philisteos desde Gibeah, até chegar a Gezer."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi se torna rei de todo o Israel"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Davi conquista Jerusalém"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Davi derrota os filisteus"
+        }
       ]
     },
     {
@@ -836,6 +902,16 @@
           "chapter": 6,
           "verse": 23,
           "text": "E Michal, a filha de Saul, não teve filhos, até ao dia da sua morte."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A arca é levada para Jerusalém"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Mical trata Davi com desprezo"
         }
       ]
     },
@@ -989,6 +1065,16 @@
           "verse": 29,
           "text": "Sejas pois agora servido de abençoar a casa de teu servo, para permanecer para sempre diante de ti, pois tu, ó Senhor Jehovah, disseste; e com a tua benção será para sempre bemdita a casa de teu servo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A aliança do S\nenhor\ncom Davi"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Oração de gratidão de Davi"
+        }
       ]
     },
     {
@@ -1086,6 +1172,12 @@
           "verse": 18,
           "text": "Tambem Benaia, filho de Joiada, estava com os cheretheos e peletheos: porém os filhos de David eram principes."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Vitórias militares de Davi"
+        }
       ]
     },
     {
@@ -1157,6 +1249,12 @@
           "chapter": 9,
           "verse": 13,
           "text": "Morava pois Mephiboseth em Jerusalem, porquanto de continuo comia á mesa do rei, e era côxo de ambos os pés."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi trata Mefibosete com bondade"
         }
       ]
     },
@@ -1259,6 +1357,12 @@
           "chapter": 10,
           "verse": 19,
           "text": "Vendo pois todos os reis, servos de Hadadezer, que foram feridos diante de Israel, fizeram paz com Israel, e o serviram: e temeram os syros de soccorrer mais aos filhos de Ammon."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi derrota os amonitas"
         }
       ]
     },
@@ -1401,6 +1505,16 @@
           "chapter": 11,
           "verse": 27,
           "text": "E, passado o nojo, enviou David, e a recolheu em sua casa, e lhe foi por mulher, e pariu-lhe um filho. Porém esta coisa que David fez pareceu mal aos olhos do Senhor."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi e Bate-Seba"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Davi trama a morte de Urias"
         }
       ]
     },
@@ -1563,6 +1677,20 @@
           "chapter": 12,
           "verse": 31,
           "text": "E, trazendo o povo que havia n'ella, o poz ás serras, e ás talhadeiras de ferro, e aos machados de ferro, e os fez passar por forno de tijolos; e assim fez a todas as cidades dos filhos de Ammon: e voltou David e todo o povo para Jerusalem."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Natã repreende Davi"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Davi confessa sua culpa"
+        },
+        {
+          "beforeVerse": 26,
+          "text": "Davi conquista Rabá"
         }
       ]
     },
@@ -1766,6 +1894,16 @@
           "verse": 39,
           "text": "Então tinha o rei David saudades de Absalão: porque já se tinha consolado ácerca de Amnon, que era morto."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tamar é violentada"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Absalão se vinga de Amnom"
+        }
       ]
     },
     {
@@ -1937,6 +2075,16 @@
           "chapter": 14,
           "verse": 33,
           "text": "Então entrou Joab ao rei, e assim lh'o disse. Então chamou a Absalão, e elle entrou ao rei, e se inclinou sobre o seu rosto em terra diante do rei: e o rei beijou a Absalão."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Joabe providencia o retorno de Absalão"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "A reconciliação de Absalão e Davi"
         }
       ]
     },
@@ -2130,6 +2278,16 @@
           "verse": 37,
           "text": "Husai pois, amigo de David, veiu para a cidade: e Absalão entrou em Jerusalem."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A rebelião de Absalão"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Davi foge de Jerusalém"
+        }
       ]
     },
     {
@@ -2251,6 +2409,20 @@
           "chapter": 16,
           "verse": 23,
           "text": "E era o conselho de Achitophel, que aconselhava n'aquelles dias, como se a palavra de Deus se consultara: tal era todo o conselho de Achitophel, assim para com David como para com Absalão."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi e Ziba"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Simei amaldiçoa Davi"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Aitofel aconselha Absalão"
         }
       ]
     },
@@ -2403,6 +2575,16 @@
           "chapter": 17,
           "verse": 29,
           "text": "E mel, e manteiga, e ovelhas, e queijos de vaccas, e os trouxeram a David e ao povo que com elle estava, para comerem, porque disseram: Este povo no deserto está faminto, e cançado, e sedento."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "Husai contesta o conselho de Aitofel"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Husai avisa Davi"
         }
       ]
     },
@@ -2575,6 +2757,16 @@
           "chapter": 18,
           "verse": 33,
           "text": "Então o rei se perturbou, e subiu á sala que estava por cima da porta, e chorou: e andando, dizia assim: Meu filho Absalão, meu filho, meu filho, Absalão! quem me dera que eu morrera por ti, Absalão, meu filho, meu filho!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A derrota e a morte de Absalão"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Davi lamenta a morte de Absalão"
         }
       ]
     },
@@ -2798,6 +2990,32 @@
           "verse": 43,
           "text": "E responderam os homens d'Israel aos homens de Judah, e disseram: Dez partes temos no rei, e até em David mais temos nós do que vós; porque pois não fizestes conta de nós, para que a nossa palavra não fosse a primeira, para tornar a trazer o nosso rei? Porém a palavra dos homens de Judah foi mais forte do que a palavra dos homens d'Israel."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Joabe repreende o rei"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Davi volta para Jerusalém"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Davi tem misericórdia de Simei"
+        },
+        {
+          "beforeVerse": 24,
+          "text": "O reencontro de Davi e Mefibosete"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Davi trata Barzilai com bondade"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Discussão sobre o rei"
+        }
       ]
     },
     {
@@ -2935,6 +3153,12 @@
           "verse": 26,
           "text": "E tambem Ira, o jairita, era o official-mór de David."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A rebelião de Seba"
+        }
       ]
     },
     {
@@ -3051,6 +3275,16 @@
           "chapter": 21,
           "verse": 22,
           "text": "Estes quatro nasceram ao gigante em Gath: e cairam pela mão de David e pela mão de seus servos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi vinga os gibeonitas"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Batalhas contra gigantes filisteus"
         }
       ]
     },
@@ -3314,6 +3548,12 @@
           "verse": 51,
           "text": "Elle é a torre das salvações do seu rei, e usa de benignidade com o seu ungido, com David, e com a sua semente para sempre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Cântico de louvor de Davi"
+        }
       ]
     },
     {
@@ -3516,6 +3756,20 @@
           "verse": 39,
           "text": "Urias, hetheo: trinta e sete por todos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Palavras finais de Davi"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Os guerreiros mais valentes de Davi"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Os trinta valentes de Davi"
+        }
       ]
     },
     {
@@ -3647,6 +3901,20 @@
           "chapter": 24,
           "verse": 25,
           "text": "E edificou ali David ao Senhor um altar, e offereceu holocaustos, e offertas pacificas. Assim o Senhor se aplacou com a terra, e cessou aquelle castigo de sobre Israel."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Davi realiza um censo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Julgamento por causa do pecado de Davi"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Davi constrói um altar"
         }
       ]
     }

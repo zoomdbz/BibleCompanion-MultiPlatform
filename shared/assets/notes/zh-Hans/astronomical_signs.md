@@ -34,6 +34,27 @@
 
 历史上的四联星与犹太历史的主要转折点相吻合。2024–2033年的聚集不构成四联星,但包含了自2015年以来首个节期日的血月,以及连续四年落在普珥节相关纪念日的月食(5784–5787),并在2033年单独集中了四个节期对齐的日食。这些对齐是否具有预言性意义是一个解释问题;天文事件本身是记录在案的事实。
 
+<!-- ECLIPSE_CATALOG_2024_2033_BEGIN -->
+### 2024-2033年完整日月食目录
+
+本目录收录NASA 2024至2033年十年表中的每一次日食和月食，不限于与圣经历法或犹太历日期重合的事件。日期为食甚时对应的协调世界时（UTC）公历日期。月全食可能使月面呈现通常所称的“血月”红色。月偏食和半影月食是不同的天文现象，表中分别标明。可见区域因观测地点而异。
+
+| 年份 | 日食 | 月食 |
+|---|---|---|
+| 2024 | 2024-04-08 - 日全食 <!-- eclipse:2024-04-08:solar-total -->; 2024-10-02 - 日环食 <!-- eclipse:2024-10-02:solar-annular --> | 2024-03-25 - 半影月食 <!-- eclipse:2024-03-25:lunar-penumbral -->; 2024-09-18 - 月偏食 <!-- eclipse:2024-09-18:lunar-partial --> |
+| 2025 | 2025-03-29 - 日偏食 <!-- eclipse:2025-03-29:solar-partial -->; 2025-09-21 - 日偏食 <!-- eclipse:2025-09-21:solar-partial --> | 2025-03-14 - 月全食 <!-- eclipse:2025-03-14:lunar-total -->; 2025-09-07 - 月全食 <!-- eclipse:2025-09-07:lunar-total --> |
+| 2026 | 2026-02-17 - 日环食 <!-- eclipse:2026-02-17:solar-annular -->; 2026-08-12 - 日全食 <!-- eclipse:2026-08-12:solar-total --> | 2026-03-03 - 月全食 <!-- eclipse:2026-03-03:lunar-total -->; 2026-08-28 - 月偏食 <!-- eclipse:2026-08-28:lunar-partial --> |
+| 2027 | 2027-02-06 - 日环食 <!-- eclipse:2027-02-06:solar-annular -->; 2027-08-02 - 日全食 <!-- eclipse:2027-08-02:solar-total --> | 2027-02-20 - 半影月食 <!-- eclipse:2027-02-20:lunar-penumbral -->; 2027-07-18 - 半影月食 <!-- eclipse:2027-07-18:lunar-penumbral -->; 2027-08-17 - 半影月食 <!-- eclipse:2027-08-17:lunar-penumbral --> |
+| 2028 | 2028-01-26 - 日环食 <!-- eclipse:2028-01-26:solar-annular -->; 2028-07-22 - 日全食 <!-- eclipse:2028-07-22:solar-total --> | 2028-01-12 - 月偏食 <!-- eclipse:2028-01-12:lunar-partial -->; 2028-07-06 - 月偏食 <!-- eclipse:2028-07-06:lunar-partial -->; 2028-12-31 - 月全食 <!-- eclipse:2028-12-31:lunar-total --> |
+| 2029 | 2029-01-14 - 日偏食 <!-- eclipse:2029-01-14:solar-partial -->; 2029-06-12 - 日偏食 <!-- eclipse:2029-06-12:solar-partial -->; 2029-07-11 - 日偏食 <!-- eclipse:2029-07-11:solar-partial -->; 2029-12-05 - 日偏食 <!-- eclipse:2029-12-05:solar-partial --> | 2029-06-26 - 月全食 <!-- eclipse:2029-06-26:lunar-total -->; 2029-12-20 - 月全食 <!-- eclipse:2029-12-20:lunar-total --> |
+| 2030 | 2030-06-01 - 日环食 <!-- eclipse:2030-06-01:solar-annular -->; 2030-11-25 - 日全食 <!-- eclipse:2030-11-25:solar-total --> | 2030-06-15 - 月偏食 <!-- eclipse:2030-06-15:lunar-partial -->; 2030-12-09 - 半影月食 <!-- eclipse:2030-12-09:lunar-penumbral --> |
+| 2031 | 2031-05-21 - 日环食 <!-- eclipse:2031-05-21:solar-annular -->; 2031-11-14 - 全环食 <!-- eclipse:2031-11-14:solar-hybrid --> | 2031-05-07 - 半影月食 <!-- eclipse:2031-05-07:lunar-penumbral -->; 2031-06-05 - 半影月食 <!-- eclipse:2031-06-05:lunar-penumbral -->; 2031-10-30 - 半影月食 <!-- eclipse:2031-10-30:lunar-penumbral --> |
+| 2032 | 2032-05-09 - 日环食 <!-- eclipse:2032-05-09:solar-annular -->; 2032-11-03 - 日偏食 <!-- eclipse:2032-11-03:solar-partial --> | 2032-04-25 - 月全食 <!-- eclipse:2032-04-25:lunar-total -->; 2032-10-18 - 月全食 <!-- eclipse:2032-10-18:lunar-total --> |
+| 2033 | 2033-03-30 - 日全食 <!-- eclipse:2033-03-30:solar-total -->; 2033-09-23 - 日偏食 <!-- eclipse:2033-09-23:solar-partial --> | 2033-04-14 - 月全食 <!-- eclipse:2033-04-14:lunar-total -->; 2033-10-08 - 月全食 <!-- eclipse:2033-10-08:lunar-total --> |
+
+来源：[NASA日食目录，2021-2030年](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2021.html)；[NASA日食目录，2031-2040年](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2031.html)；[NASA月食目录，2021-2030年](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2021.html)；[NASA月食目录，2031-2040年](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2031.html)。食象预测由NASA戈达德太空飞行中心的弗雷德·埃斯佩纳克编制。
+<!-- ECLIPSE_CATALOG_2024_2033_END -->
+
 ---
 ## 日食
 

@@ -87,6 +87,12 @@
           "verse": 15,
           "text": "am vierundzwanzigsten Tage des sechsten Monats, im zweiten Jahr des Königs Darius."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 1\nAufruf zum Wiederaufbau des Tempels"
+        }
       ]
     },
     {
@@ -208,6 +214,24 @@
           "chapter": 2,
           "verse": 23,
           "text": "Zur selben Zeit, spricht der HERR Zebaoth, will ich dich, Serubabel, du Sohn Sealthiels, meinen Knecht, nehmen, spricht der HERR, und will dich wie einen Siegelring halten; denn ich habe dich erwählt, spricht der HERR Zebaoth."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Kapitel 2\nDie Herrlichkeit des künftigen Tempels"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Die Unreinheit des bisherigen Opferdienstes und des Volkes"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Ermunterung zur Aufbauarbeit: Gott will segnen"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Die Verheißung an Serubbabel"
         }
       ]
     }

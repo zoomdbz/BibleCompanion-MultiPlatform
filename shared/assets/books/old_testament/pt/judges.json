@@ -79,19 +79,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Novas conquistas pelas tribos"
+          "text": "Judá e Simeão conquistam a terra"
         },
         {
-          "beforeVerse": 11,
-          "text": "Otniel conquista Debir"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "Outras conquistas"
-        },
-        {
-          "beforeVerse": 27,
-          "text": "Terras não conquistadas pelos israelitas"
+          "beforeVerse": 19,
+          "text": "Israel não conquista toda a terra"
         }
       ]
     },
@@ -164,11 +156,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Deus repreende os israelitas"
+          "text": "O anjo do S\nenhor\naparece em Boquim"
         },
         {
           "beforeVerse": 6,
           "text": "A morte de Josué"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "Israel desobedece ao S\nenhor"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "O S\nenhor\nlivra seu povo"
         }
       ]
     },
@@ -249,19 +249,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Povos pagãos no meio de Israel"
+          "text": "As nações que ficaram em Canaã"
         },
         {
           "beforeVerse": 7,
-          "text": "Otniel livra os israelitas do poder de Cusã-Risataim"
+          "text": "Otoniel se torna juiz de Israel"
         },
         {
           "beforeVerse": 12,
-          "text": "Servidão sob Eglom"
+          "text": "Eúde se torna juiz de Israel"
         },
         {
-          "beforeVerse": 15,
-          "text": "Eúde livra-os"
+          "beforeVerse": 31,
+          "text": "Sangar se torna juiz de Israel"
         }
       ]
     },
@@ -330,15 +330,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Servidão sob Jabim, rei de Canaã"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "Débora e Baraque livram-nos"
-        },
-        {
-          "beforeVerse": 17,
-          "text": "Jael mata a Sísera"
+          "text": "Débora se torna juíza de Israel"
         }
       ]
     },
@@ -514,15 +506,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A opressão dos midianitas"
+          "text": "Gideão se torna juiz de Israel"
         },
         {
-          "beforeVerse": 11,
-          "text": "O chamamento de Gideão"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "Gideão destrói o altar de Baal"
+          "beforeVerse": 33,
+          "text": "Gideão pede um sinal"
         }
       ]
     },
@@ -597,7 +585,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Gideão, com trezentos homens, vence os midianitas"
+          "text": "Gideão derrota os midianitas"
         }
       ]
     },
@@ -682,11 +670,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Gideão aplaca os efraimitas e mata os reis dos midianitas"
+          "text": "Gideão mata Zeba e Zalmuna"
         },
         {
           "beforeVerse": 22,
-          "text": "Gideão recusa governar, faz uma estola sacerdotal e morre"
+          "text": "O colete sacerdotal de Gideão"
         }
       ]
     },
@@ -793,23 +781,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Abimeleque mata os seus irmãos e se declara rei"
+          "text": "Abimeleque governa sobre Siquém"
         },
         {
           "beforeVerse": 7,
-          "text": "O apólogo de Jotão"
+          "text": "A parábola de Jotão"
         },
         {
           "beforeVerse": 22,
-          "text": "A conspiração de Gaal"
-        },
-        {
-          "beforeVerse": 34,
-          "text": "Abimeleque vence a Gaal e os siquemitas"
-        },
-        {
-          "beforeVerse": 50,
-          "text": "A morte de Abimeleque"
+          "text": "Siquém se rebela contra Abimeleque"
         }
       ]
     },
@@ -872,11 +852,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Tola e Jair, juízes dos israelitas"
+          "text": "Tolá se torna juiz de Israel"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "Jair se torna juiz de Israel"
         },
         {
           "beforeVerse": 6,
-          "text": "Servidão sob os filisteus e os amonitas"
+          "text": "Os amonitas oprimem Israel"
         }
       ]
     },
@@ -961,7 +945,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jefté livra os israelitas"
+          "text": "Jefté se torna juiz de Israel"
         },
         {
           "beforeVerse": 29,
@@ -1025,11 +1009,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jefté peleja contra os efraimitas"
+          "text": "Efraim luta contra Jefté"
         },
         {
           "beforeVerse": 8,
-          "text": "Os juízes Ibsã, Elom e Abdom"
+          "text": "Ibsã se torna juiz de Israel"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Elom se torna juiz de Israel"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Abdom se torna juiz de Israel"
         }
       ]
     },
@@ -1169,10 +1161,6 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O casamento de Sansão"
-        },
-        {
-          "beforeVerse": 10,
           "text": "O enigma de Sansão"
         }
       ]
@@ -1243,15 +1231,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Sansão põe fogo às searas dos filisteus"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "Os homens de Judá amarram Sansão"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "Sansão fere mil homens com uma queixada de jumento"
+          "text": "Sansão se vinga dos filisteus"
         }
       ]
     },
@@ -1332,15 +1312,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Sansão em Gaza"
+          "text": "Sansão leva embora os portões de Gaza"
         },
         {
           "beforeVerse": 4,
-          "text": "Sansão é traído por Dalila"
+          "text": "Sansão e Dalila"
         },
         {
           "beforeVerse": 23,
-          "text": "A morte de Sansão"
+          "text": "A vitória final de Sansão"
         }
       ]
     },
@@ -1403,11 +1383,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Mica e o ídolo da sua casa"
-        },
-        {
-          "beforeVerse": 7,
-          "text": "O levita em casa de Mica"
+          "text": "Os ídolos de Mica"
         }
       ]
     },
@@ -1483,11 +1459,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os danitas buscam herança maior"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "Roubada a imagem de Mica e conquistada a cidade de Laís"
+          "text": "Idolatria na tribo de Dã"
         }
       ]
     },
@@ -1655,7 +1627,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os israelitas vingam o ultraje feito ao levita"
+          "text": "Guerra entre Israel e Benjamim"
         }
       ]
     },
@@ -1725,7 +1697,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Esposas para os benjamitas"
+          "text": "Esposas para os homens de Benjamim"
         }
       ]
     }

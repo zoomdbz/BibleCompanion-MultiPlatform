@@ -97,6 +97,40 @@
           "verse": 17,
           "text": "Las vigas de nuestra casa son de cedro, [ADD]y[/ADD] de ciprés los artesonados."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 2,
+          "text": "Primer Canto\nLa amada"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Los amigos\nLa amada"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Los amigos"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "La amada"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La amada"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "El amado"
+        }
       ]
     },
     {
@@ -189,6 +223,36 @@
           "verse": 17,
           "text": "Hasta que apunte el día, y huyan las sombras, tórnate, amado mío; sé semejante al gamo, ó al cabrito de los ciervos, sobre los montes de Bether."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La amada"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "La amada"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Segundo Canto\nLa amada"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La amada"
+        }
       ]
     },
     {
@@ -250,6 +314,16 @@
           "chapter": 3,
           "verse": 11,
           "text": "Salid, oh doncellas de Sión, y ved al rey Salomón con la corona con que le coronó su madre el día de su desposorio, y el día del gozo de su corazón."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 5,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Tercer Canto\nEl coro"
         }
       ]
     },
@@ -338,6 +412,16 @@
           "verse": 16,
           "text": "Levántate, Aquilón, y ven, Austro: sopla mi huerto, despréndanse sus aromas. Venga mi amado á su huerto, y coma de su dulce fruta."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La amada"
+        }
       ]
     },
     {
@@ -425,6 +509,24 @@
           "verse": 16,
           "text": "Su paladar, dulcísimo: y todo él codiciable. Tal es mi amado, tal es mi amigo, oh doncellas de Jerusalem."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Los amigos\nCuarto Canto\nLa amada"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "El coro"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "La amada"
+        }
       ]
     },
     {
@@ -497,6 +599,32 @@
           "verse": 13,
           "text": "Tórnate, tórnate, oh Sulamita; tórnate, tórnate, y te miraremos. ¿Qué veréis en la Sulamita? Como la reunión de dos campamentos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "El coro"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "La amada"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Quinto Canto\nEl amado"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "El coro"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Los amigos"
+        }
       ]
     },
     {
@@ -568,6 +696,12 @@
           "chapter": 7,
           "verse": 13,
           "text": "Las mandrágoras han dado olor, y á nuestras puertas hay toda suerte de dulces frutas, nuevas y añejas, que para ti, oh amado mío, he guardado."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 9,
+          "text": "La amada"
         }
       ]
     },
@@ -645,6 +779,36 @@
           "chapter": 8,
           "verse": 14,
           "text": "Huye, amado mío; y sé semejante al gamo, ó al cervatillo, sobre las montañas de los aromas."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 4,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 5,
+          "text": "Sexto Canto\nEl coro"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "La amada"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "El coro"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "La amada"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "El amado"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "La amada"
         }
       ]
     }

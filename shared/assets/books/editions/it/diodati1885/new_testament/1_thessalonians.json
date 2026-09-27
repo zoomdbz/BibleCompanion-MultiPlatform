@@ -62,6 +62,16 @@
           "verse": 10,
           "text": "e per aspettar da' cieli il suo Figliuolo, il quale egli ha risuscitato da' morti, [ADD]cioè[/ADD] Gesù, che ci libera dall'ira a venire."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Indirizzo e saluti"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "Fede dei Tessalonicesi"
+        }
       ]
     },
     {
@@ -169,6 +179,20 @@
           "verse": 20,
           "text": "Poichè voi siete la nostra gloria ed allegrezza."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Condotta di Paolo in Tessalonica"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Fedeltà dei Tessalonicesi"
+        },
+        {
+          "beforeVerse": 17,
+          "text": "Missione di Timoteo"
+        }
       ]
     },
     {
@@ -241,7 +265,8 @@
           "verse": 13,
           "text": "per raffermare i vostri cuori, [ADD]acciocchè sieno[/ADD] irreprensibili in santità, nel cospetto di Dio, Padre nostro, all'avvenimento del Signor nostro Gesù Cristo, con tutti i suoi santi. Amen."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 4,
@@ -337,6 +362,16 @@
           "chapter": 4,
           "verse": 18,
           "text": "Consolatevi adunque gli uni gli altri con queste parole."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Esortazione alla santità"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Il rapimento della chiesa; il ritorno del Signore"
         }
       ]
     },
@@ -484,6 +519,12 @@
           "chapter": 5,
           "verse": 28,
           "text": "La grazia del Signor nostro Gesù Cristo [ADD]sia[/ADD] con voi. Amen."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 12,
+          "text": "Ultime raccomandazioni"
         }
       ]
     }

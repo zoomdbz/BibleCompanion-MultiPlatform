@@ -59,7 +59,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Neemias ora por Jerusalém"
+          "text": "A preocupação de Neemias com Jerusalém"
         }
       ]
     },
@@ -134,11 +134,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Neemias mandado a Jerusalém"
+          "text": "Neemias recebe permissão para ir a Jerusalém"
         },
         {
           "beforeVerse": 11,
-          "text": "Neemias anima o povo a reedificar os muros"
+          "text": "Neemias inspeciona o muro de Jerusalém"
         }
       ]
     },
@@ -225,7 +225,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os que trabalharam na reedificação dos muros"
+          "text": "A reconstrução do muro de Jerusalém"
         }
       ]
     },
@@ -298,7 +298,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A defesa contra os adversários"
+          "text": "Inimigos se opõem à reconstrução"
         }
       ]
     },
@@ -367,11 +367,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Medidas contra a usura"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "O bom exemplo de Neemias"
+          "text": "Neemias defende os oprimidos"
         }
       ]
     },
@@ -445,11 +441,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os inimigos conspiram para intimidar Neemias"
+          "text": "A oposição continua"
         },
         {
           "beforeVerse": 15,
-          "text": "Terminada a reconstrução do muro"
+          "text": "Os construtores terminam o muro"
         }
       ]
     },
@@ -571,16 +567,8 @@
       "keyTakeaway": "Depois que as portas são colocadas, Neemias designa porteiros, cantores e levitas, encarrega Hanani e Hananias de guardar a cidade espaçosa mas pouco povoada e encontra o registro genealógico dos que primeiro voltaram com Zorobabel; a lista traz as famílias, os sacerdotes, os levitas e os servos do templo, incluindo sacerdotes afastados das coisas santíssimas por falta de registros familiares até que um sacerdote pudesse consultar o Urim e o Tumim.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Neemias estabelece guardas em Jerusalém"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "A relação dos que voltaram a Jerusalém"
-        },
-        {
-          "beforeVerse": 70,
-          "text": "Contribuições para o templo"
+          "beforeVerse": 4,
+          "text": "Neemias registra o povo"
         }
       ]
     },
@@ -653,11 +641,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Esdras lê a Lei diante do povo"
+          "text": "Esdras faz a leitura da Lei"
         },
         {
           "beforeVerse": 13,
-          "text": "A Festa dos Tabernáculos"
+          "text": "A Festa das Cabanas"
         }
       ]
     },
@@ -750,11 +738,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Arrependimento e confissão de pecados"
+          "text": "O povo confessa seus pecados"
         },
         {
           "beforeVerse": 38,
-          "text": "A aliança do povo sobre guardar a Lei"
+          "text": "O povo concorda em obedecer"
         }
       ]
     },
@@ -844,7 +832,13 @@
           "note": "A cláusula de 10:31 abrange dois descansos: não comprar nada dos povos da terra que levassem mercadorias para vender no sábado ou num dia santo, e abrir mão das colheitas do sétimo ano, junto com todas as dívidas. O descanso do sétimo dia é ordenado em Êxodo 20:8-11; o descanso da terra no sétimo ano, em Levítico 25:1-7; e o cancelamento das dívidas, em Deuteronômio 15:1-2. A pressão do mercado era real, e 13:15-22 mostra essa cláusula sendo violada."
         }
       ],
-      "keyTakeaway": "Neemias, sacerdotes, levitas e líderes do povo assinam um acordo vinculante para guardar a Lei de Deus, incluindo proibições de casamentos mistos com estrangeiros e comércio no sábado, além de compromissos de apoiar o templo com contribuições anuais e ofertas."
+      "keyTakeaway": "Neemias, sacerdotes, levitas e líderes do povo assinam um acordo vinculante para guardar a Lei de Deus, incluindo proibições de casamentos mistos com estrangeiros e comércio no sábado, além de compromissos de apoiar o templo com contribuições anuais e ofertas.",
+      "headings": [
+        {
+          "beforeVerse": 28,
+          "text": "O compromisso do povo"
+        }
+      ]
     },
     {
       "id": "nehemiah-11",
@@ -928,15 +922,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Relação dos que habitaram em Jerusalém"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "Os que habitaram nas cidades de Judá"
-        },
-        {
-          "beforeVerse": 25,
-          "text": "Os residentes nas aldeias"
+          "text": "O repovoamento de Jerusalém"
         }
       ]
     },
@@ -1033,15 +1019,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os sacerdotes que vieram para Jerusalém"
+          "text": "A lista dos sacerdotes e dos levitas"
         },
         {
           "beforeVerse": 27,
-          "text": "A dedicação dos muros"
+          "text": "A dedicação do muro de Jerusalém"
         },
         {
           "beforeVerse": 44,
-          "text": "A manutenção dos sacerdotes e levitas"
+          "text": "Provisões para o culto no templo"
         }
       ]
     },
@@ -1132,27 +1118,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os estrangeiros separados de Israel"
-        },
-        {
-          "beforeVerse": 4,
-          "text": "Tobias expulso do templo"
-        },
-        {
-          "beforeVerse": 10,
-          "text": "Restaurada a manutenção dos levitas"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "Restabelecimento da observância do sábado"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "Condenação do casamento misto"
-        },
-        {
-          "beforeVerse": 30,
-          "text": "As reformas de Neemias"
+          "text": "As diversas reformas realizadas por Neemias"
         }
       ]
     }

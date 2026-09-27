@@ -132,6 +132,20 @@
           "verse": 24,
           "text": "Et elles glorifiaient Dieu à mon sujet."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "On détourne les Galates de l'unique bonne nouvelle"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Comment Paul a reçu et transmis la bonne nouvelle"
+        }
       ]
     },
     {
@@ -243,6 +257,20 @@
           "chapter": 2,
           "verse": 21,
           "text": "Je ne rejette pas la grâce de Dieu; car si la justice s’obtient par la loi, Christ est donc mort en vain."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Accord de Paul et des autres apôtres"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Paul s'oppose à Pierre"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "Juifs et non-Juifs sont sauvés par la foi"
         }
       ]
     },
@@ -395,6 +423,24 @@
           "chapter": 3,
           "verse": 29,
           "text": "Et si vous êtes à Christ, vous êtes donc la postérité d’Abraham, héritiers selon la promesse."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La folie des Galates"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Ceux qui croient sont bénis avec Abraham"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La loi et la promesse"
+        },
+        {
+          "beforeVerse": 19,
+          "text": "Le rôle de la loi"
         }
       ]
     },
@@ -558,6 +604,20 @@
           "verse": 31,
           "text": "C’est pourquoi, frères, nous ne sommes pas enfants de l’esclave, mais de la femme libre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Tu n'es plus esclave, mais fils"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Souci de Paul pour la foi des Galates"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Hagar et Sara, figures des deux alliances"
+        }
       ]
     },
     {
@@ -695,6 +755,16 @@
           "verse": 26,
           "text": "Ne cherchons pas une vaine gloire, en nous provoquant les uns les autres, en nous portant envie les uns aux autres."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Déchus de la grâce"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Vivre, non selon la chair, mais selon l'Esprit"
+        }
       ]
     },
     {
@@ -791,6 +861,16 @@
           "chapter": 6,
           "verse": 18,
           "text": "Frères, que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit! Amen!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Porter les fardeaux les uns des autres"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Derniers avertissements et salutations"
         }
       ]
     }

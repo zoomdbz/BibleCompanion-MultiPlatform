@@ -112,6 +112,20 @@
           "verse": 20,
           "text": "[J]le mystère des sept étoiles que tu as vues dans ma main droite, et des sept chandeliers d’or. Les sept étoiles sont[/J][J]les anges des sept Églises, et les sept chandeliers sont les sept Églises.[/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Introduction"
+        },
+        {
+          "beforeVerse": 4,
+          "text": "Salutations aux sept Eglises"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "Jean voit le Christ glorifié"
+        }
       ]
     },
     {
@@ -264,6 +278,24 @@
           "verse": 29,
           "text": "[J]Que celui qui a des oreilles entende ce que l’Esprit dit aux Églises![/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lettre à l'Eglise d'Ephèse"
+        },
+        {
+          "beforeVerse": 8,
+          "text": "Lettre à l'Eglise de Smyrne"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Lettre à l'Eglise de Pergame"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Lettre à l'Eglise de Thyatire"
+        }
       ]
     },
     {
@@ -381,6 +413,20 @@
           "verse": 22,
           "text": "[J]Que celui qui a des oreilles entende ce que l’Esprit dit aux Églises![/J]"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Lettre à l'Eglise de Sardes"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Lettre à l'Eglise de Philadelphie"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Lettre à l'Eglise de Laodicée"
+        }
       ]
     },
     {
@@ -442,6 +488,12 @@
           "chapter": 4,
           "verse": 11,
           "text": "Tu es digne, notre Seigneur et notre Dieu, de recevoir la gloire et l’honneur et la puissance; car tu as créé toutes choses, et c’est par ta volonté qu’elles existent et qu’elles ont été créées."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le trône de Dieu et le culte céleste"
         }
       ]
     },
@@ -519,6 +571,12 @@
           "chapter": 5,
           "verse": 14,
           "text": "Et les quatre êtres vivants disaient: Amen! Et les vieillards se prosternèrent et adorèrent."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le livre scellé et l'agneau"
         }
       ]
     },
@@ -612,6 +670,12 @@
           "verse": 17,
           "text": "car le grand jour de sa colère est venu, et qui peut subsister?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ouverture des six premiers sceaux"
+        }
       ]
     },
     {
@@ -704,6 +768,16 @@
           "verse": 17,
           "text": "Car l’agneau qui est au milieu du trône les paîtra et les conduira aux sources des eaux de la vie, et Dieu essuiera toute larme de leurs yeux."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les humains marqués du sceau de Dieu"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La foule innombrable devant le trône"
+        }
       ]
     },
     {
@@ -775,6 +849,16 @@
           "chapter": 8,
           "verse": 13,
           "text": "Je regardai, et j’entendis un aigle qui volait au milieu du ciel, disant d’une voix forte: Malheur, malheur, malheur aux habitants de la terre, à cause des autres sons de la trompette des trois anges qui vont sonner!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le septième sceau et l'encensoir d'or"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Les six premières trompettes"
         }
       ]
     },
@@ -888,7 +972,8 @@
           "verse": 21,
           "text": "et ils ne se repentirent pas de leurs meurtres, ni de leurs enchantements, ni de leur impudicité ni de leurs vols."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 10,
@@ -949,6 +1034,12 @@
           "chapter": 10,
           "verse": 11,
           "text": "Puis on me dit: Il faut que tu prophétises de nouveau sur beaucoup de peuples, de nations, de langues, et de rois."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L'ange et le petit livre ouvert"
         }
       ]
     },
@@ -1052,6 +1143,16 @@
           "verse": 19,
           "text": "Et le temple de Dieu dans le ciel fut ouvert, et l’arche de son alliance apparut dans son temple. Et il y eut des éclairs, des voix, des tonnerres, un tremblement de terre, et une forte grêle."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les deux témoins"
+        },
+        {
+          "beforeVerse": 15,
+          "text": "La septième trompette"
+        }
       ]
     },
     {
@@ -1149,6 +1250,12 @@
           "verse": 18,
           "text": "Et il se tint sur le sable de la mer."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La femme et le dragon"
+        }
       ]
     },
     {
@@ -1245,6 +1352,12 @@
           "chapter": 13,
           "verse": 18,
           "text": "C’est ici la sagesse. Que celui qui a de l’intelligence calcule le nombre de la bête. Car c’est un nombre d’homme, et son nombre est six cent soixante-six."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les deux bêtes"
         }
       ]
     },
@@ -1353,6 +1466,20 @@
           "verse": 20,
           "text": "Et la cuve fut foulée hors de la ville; et du sang sortit de la cuve, jusqu’aux mors des chevaux, sur une étendue de mille six cents stades."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "L'agneau et les rachetés"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Les trois anges annoncent le jugement divin"
+        },
+        {
+          "beforeVerse": 14,
+          "text": "Moisson et vendange de la terre"
+        }
       ]
     },
     {
@@ -1399,6 +1526,12 @@
           "chapter": 15,
           "verse": 8,
           "text": "Et le temple fut rempli de fumée, à cause de la gloire de Dieu et de sa puissance; et personne ne pouvait entrer dans le temple, jusqu’à ce que les sept fléaux des sept anges fussent accomplis."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les sept anges et les sept fléaux"
         }
       ]
     },
@@ -1512,6 +1645,12 @@
           "verse": 21,
           "text": "Et une grosse grêle, dont les grêlons pesaient un talent, tomba du ciel sur les hommes; et les hommes blasphémèrent Dieu, à cause du fléau de la grêle, parce que ce fléau était très grand."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Les sept coupes"
+        }
       ]
     },
     {
@@ -1608,6 +1747,12 @@
           "chapter": 17,
           "verse": 18,
           "text": "Et la femme que tu as vue, c’est la grande ville qui a la royauté sur les rois de la terre."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La grande prostituée et la bête écarlate"
         }
       ]
     },
@@ -1736,6 +1881,12 @@
           "verse": 24,
           "text": "et parce qu’on a trouvé chez elle le sang des prophètes et des saints et de tous ceux qui ont été égorgés sur la terre."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La chute de Babylone"
+        }
       ]
     },
     {
@@ -1848,6 +1999,16 @@
           "verse": 21,
           "text": "Et les autres furent tués par l’épée qui sortait de la bouche de celui qui était assis sur le cheval; et tous les oiseaux se rassasièrent de leur chair."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Alléluia !"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Le cavalier sur le cheval blanc"
+        }
       ]
     },
     {
@@ -1929,6 +2090,16 @@
           "chapter": 20,
           "verse": 15,
           "text": "Quiconque ne fut pas trouvé écrit dans le livre de vie fut jeté dans l’étang de feu."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Satan lié pour mille ans"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Le jugement dernier"
         }
       ]
     },
@@ -2072,6 +2243,16 @@
           "verse": 27,
           "text": "Il n’entrera chez elle rien de souillé, ni personne qui se livre à l’abomination et au mensonge; il n’entrera que ceux qui sont écrits dans le livre de vie de l’agneau."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Un ciel nouveau et une terre nouvelle"
+        },
+        {
+          "beforeVerse": 9,
+          "text": "La Jérusalem nouvelle"
+        }
       ]
     },
     {
@@ -2183,6 +2364,16 @@
           "chapter": 22,
           "verse": 21,
           "text": "Que la grâce du Seigneur Jésus soit avec tous!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Le paradis"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "Je viens bientôt"
         }
       ]
     }

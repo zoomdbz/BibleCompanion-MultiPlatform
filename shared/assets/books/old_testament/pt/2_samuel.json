@@ -75,15 +75,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi recebe a notícia da derrota e da morte de Saul"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "Davi manda matar o amalequita"
+          "text": "Davi é informado da morte de Saul"
         },
         {
           "beforeVerse": 17,
-          "text": "O lamento de Davi por Saul e Jônatas"
+          "text": "O cântico de Davi para Saul e Jônatas"
         }
       ]
     },
@@ -160,23 +156,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi é aclamado rei de Judá"
+          "text": "Davi é ungido rei de Judá"
         },
         {
           "beforeVerse": 8,
-          "text": "Abner faz Isbosete rei de Israel"
+          "text": "Isbosete é proclamado rei de Israel"
         },
         {
           "beforeVerse": 12,
-          "text": "Vitória de Davi sobre Isbosete"
+          "text": "Guerra entre Israel e Judá"
         },
         {
           "beforeVerse": 18,
-          "text": "Abner mata a Asael"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "Joabe persegue os homens de Abner"
+          "text": "A morte de Asael"
         }
       ]
     },
@@ -264,16 +256,16 @@
       "keyTakeaway": "Os filhos de Davi nascem em Hebrom enquanto ele se fortalece; Abner, irritado com a acusação de Is-Bosete sobre a concubina de Saul, muda sua lealdade para Davi e negocia a paz, mas Joabe o mata em vingança pela morte do irmão Asael, e Davi lamenta publicamente para provar sua inocência.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "A família de Davi em Hebrom"
+          "beforeVerse": 2,
+          "text": "Os filhos de Davi nascidos em Hebrom"
         },
         {
           "beforeVerse": 6,
-          "text": "Abner faz aliança com Davi"
+          "text": "Abner une forças com Davi"
         },
         {
           "beforeVerse": 22,
-          "text": "Joabe mata a Abner à traição"
+          "text": "Abner é assassinado por Joabe"
         },
         {
           "beforeVerse": 31,
@@ -339,7 +331,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A morte de Isbosete"
+          "text": "O assassinato de Isbosete"
         }
       ]
     },
@@ -414,19 +406,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi é ungido rei de todo o Israel"
+          "text": "Davi se torna rei de todo o Israel"
         },
         {
           "beforeVerse": 6,
-          "text": "Davi conquista Sião"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "O reinado de Davi reconhecido por Hirão"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "Os filhos de Davi que nasceram em Jerusalém ;"
+          "text": "Davi conquista Jerusalém"
         },
         {
           "beforeVerse": 17,
@@ -503,15 +487,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi traz para Jerusalém a arca"
-        },
-        {
-          "beforeVerse": 12,
           "text": "A arca é levada para Jerusalém"
         },
         {
-          "beforeVerse": 20,
-          "text": "Mical repreendida por Davi"
+          "beforeVerse": 16,
+          "text": "Mical trata Davi com desprezo"
         }
       ]
     },
@@ -585,11 +565,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A aliança do Senhor com Davi"
+          "text": "A aliança do S\nenhor\ncom Davi"
         },
         {
           "beforeVerse": 18,
-          "text": "Ações de graças de Davi"
+          "text": "Oração de gratidão de Davi"
         }
       ]
     },
@@ -657,11 +637,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Diversas vitórias de Davi"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "Oficiais de Davi ;"
+          "text": "Vitórias militares de Davi"
         }
       ]
     },
@@ -719,7 +695,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A bondade de Davi para com o filho de Jônatas"
+          "text": "Davi trata Mefibosete com bondade"
         }
       ]
     },
@@ -783,7 +759,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi derrota os amonitas e os siros"
+          "text": "Davi derrota os amonitas"
         }
       ]
     },
@@ -865,19 +841,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Davi comete adultério com Bate-Seba"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Davi e Urias"
+          "text": "Davi e Bate-Seba"
         },
         {
           "beforeVerse": 14,
-          "text": "A morte de Urias"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "Davi casa com Bate-Seba"
+          "text": "Davi trama a morte de Urias"
         }
       ]
     },
@@ -968,11 +936,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Natã repreende a Davi"
+          "text": "Natã repreende Davi"
         },
         {
-          "beforeVerse": 16,
-          "text": "A morte do filho de Bate-Seba"
+          "beforeVerse": 13,
+          "text": "Davi confessa sua culpa"
         },
         {
           "beforeVerse": 26,
@@ -1065,15 +1033,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O incesto de Amnom"
+          "text": "Tamar é violentada"
         },
         {
           "beforeVerse": 23,
-          "text": "Absalão mata a Amnom"
-        },
-        {
-          "beforeVerse": 37,
-          "text": "Absalão foge para Talmai"
+          "text": "Absalão se vinga de Amnom"
         }
       ]
     },
@@ -1151,15 +1115,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Absalão volta para Jerusalém"
+          "text": "Joabe providencia o retorno de Absalão"
         },
         {
           "beforeVerse": 25,
-          "text": "A beleza de Absalão"
-        },
-        {
-          "beforeVerse": 28,
-          "text": "Absalão admitido à presença de Davi"
+          "text": "A reconciliação de Absalão e Davi"
         }
       ]
     },
@@ -1246,15 +1206,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A revolta de Absalão e a fuga de Davi"
+          "text": "A rebelião de Absalão"
         },
         {
-          "beforeVerse": 19,
-          "text": "A lealdade de Itai"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "Zadoque, Abiatar e Husai voltam para Jerusalém"
+          "beforeVerse": 13,
+          "text": "Davi foge de Jerusalém"
         }
       ]
     },
@@ -1331,15 +1287,11 @@
         },
         {
           "beforeVerse": 5,
-          "text": "Davi amaldiçoado por Simei"
+          "text": "Simei amaldiçoa Davi"
         },
         {
           "beforeVerse": 15,
-          "text": "Husai professa lealdade a Absalão"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "Absalão e as concubinas de Davi"
+          "text": "Aitofel aconselha Absalão"
         }
       ]
     },
@@ -1417,12 +1369,12 @@
       "keyTakeaway": "Aquitofel aconselha Absalão a perseguir Davi imediatamente, mas Husai propõe reunir todo o Israel primeiro; Absalão aceita o conselho de Husai, permitindo que Davi fuja além do Jordão enquanto Aquitofel se enforca. Davi chega a Maanaim, onde líderes locais lhe fornecem alimentos e suprimentos.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "O conselho de Aitofel e de Husai"
+          "beforeVerse": 5,
+          "text": "Husai contesta o conselho de Aitofel"
         },
         {
-          "beforeVerse": 27,
-          "text": "A vitória do exército de Davi sobre o de Absalão"
+          "beforeVerse": 15,
+          "text": "Husai avisa Davi"
         }
       ]
     },
@@ -1504,12 +1456,12 @@
       "keyTakeaway": "Davi organiza suas forças em três divisões sob o comando de Joabe, Abisai e Itai, e fica no portão da cidade enquanto suas tropas marcham para a batalha. Absalão fica preso pelos cabelos em um carvalho durante o combate, e Joabe o mata com três lanças, apesar da ordem de Davi para poupá-lo. Mensageiros informam a Davi que a batalha foi vencida, mas ao saber da morte de Absalão, ele chora profundamente na câmara do portão, lamentando que preferia ter morrido no lugar do filho.",
       "headings": [
         {
-          "beforeVerse": 9,
-          "text": "A morte de Absalão"
+          "beforeVerse": 1,
+          "text": "A derrota e a morte de Absalão"
         },
         {
           "beforeVerse": 19,
-          "text": "Davi chora amargamente a morte de Absalão"
+          "text": "Davi lamenta a morte de Absalão"
         }
       ]
     },
@@ -1602,23 +1554,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Joabe reprova a Davi"
+          "text": "Joabe repreende o rei"
         },
         {
-          "beforeVerse": 11,
+          "beforeVerse": 15,
           "text": "Davi volta para Jerusalém"
         },
         {
-          "beforeVerse": 16,
-          "text": "Simei encontra-se com Davi"
+          "beforeVerse": 19,
+          "text": "Davi tem misericórdia de Simei"
         },
         {
           "beforeVerse": 24,
-          "text": "Mefibosete encontra-se com Davi"
+          "text": "O reencontro de Davi e Mefibosete"
         },
         {
           "beforeVerse": 31,
-          "text": "Barzilai encontra-se com Davi"
+          "text": "Davi trata Barzilai com bondade"
+        },
+        {
+          "beforeVerse": 41,
+          "text": "Discussão sobre o rei"
         }
       ]
     },
@@ -1694,11 +1650,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A sedição de Seba e a sua morte"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "Oficiais de Davi ;"
+          "text": "A rebelião de Seba"
         }
       ]
     },
@@ -1770,11 +1722,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Vingados os gibeonitas"
+          "text": "Davi vinga os gibeonitas"
         },
         {
           "beforeVerse": 15,
-          "text": "Gigantes mortos pelos homens de Davi"
+          "text": "Batalhas contra gigantes filisteus"
         }
       ]
     },
@@ -1875,7 +1827,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Cântico de Davi em ações de graças"
+          "text": "Cântico de louvor de Davi"
         }
       ]
     },
@@ -1959,11 +1911,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As últimas palavras de Davi"
+          "text": "Palavras finais de Davi"
         },
         {
           "beforeVerse": 8,
-          "text": "Os valentes de Davi"
+          "text": "Os guerreiros mais valentes de Davi"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Os trinta valentes de Davi"
         }
       ]
     },
@@ -2038,15 +1994,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O levantamento do censo"
+          "text": "Davi realiza um censo"
         },
         {
           "beforeVerse": 10,
-          "text": "Davi escolhe o castigo"
+          "text": "Julgamento por causa do pecado de Davi"
         },
         {
           "beforeVerse": 18,
-          "text": "Davi erige um altar na eira de Araúna"
+          "text": "Davi constrói um altar"
         }
       ]
     }

@@ -67,7 +67,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A genealogia de Jesus Cristo"
+          "text": "Os antepassados de Jesus Cristo"
         },
         {
           "beforeVerse": 18,
@@ -142,19 +142,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A visita dos magos"
+          "text": "Visitantes do Oriente"
         },
         {
           "beforeVerse": 13,
           "text": "A fuga para o Egito"
         },
         {
-          "beforeVerse": 16,
-          "text": "A matança dos inocentes"
-        },
-        {
           "beforeVerse": 19,
-          "text": "A volta do Egito"
+          "text": "A volta para Israel"
         }
       ]
     },
@@ -236,15 +232,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A pregação de João Batista ;"
-        },
-        {
-          "beforeVerse": 11,
-          "text": "João dá testemunho de Cristo ; ;"
+          "text": "João Batista prepara o caminho"
         },
         {
           "beforeVerse": 13,
-          "text": "O batismo de Jesus ; ;"
+          "text": "O batismo de Jesus"
         }
       ]
     },
@@ -313,19 +305,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A tentação de Jesus ;"
+          "text": "A tentação de Jesus"
         },
         {
           "beforeVerse": 12,
-          "text": "Jesus volta para a Galileia ;"
+          "text": "O início do ministério de Jesus"
         },
         {
           "beforeVerse": 18,
-          "text": "A vocação de discípulos ;"
+          "text": "Os primeiros discípulos"
         },
         {
           "beforeVerse": 23,
-          "text": "Jesus prega por toda a Galileia e cura muitos enfermos"
+          "text": "Multidões seguem Jesus"
         }
       ]
     },
@@ -431,39 +423,43 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O sermão do monte As bem-aventuranças"
+          "text": "O Sermão do Monte"
+        },
+        {
+          "beforeVerse": 3,
+          "text": "As bem-aventuranças"
         },
         {
           "beforeVerse": 13,
-          "text": "Os discípulos, o sal da terra ;"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "Os discípulos, a luz do mundo"
+          "text": "Ensino sobre sal e luz"
         },
         {
           "beforeVerse": 17,
-          "text": "Jesus não veio revogar a Lei, mas cumprir"
+          "text": "Ensino sobre a Lei"
         },
         {
           "beforeVerse": 21,
-          "text": "Jesus completa o que foi dito aos antigos Do homicídio"
+          "text": "Ensino sobre a ira"
         },
         {
           "beforeVerse": 27,
-          "text": "Do adultério"
+          "text": "Ensino sobre o adultério"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Ensino sobre o divórcio"
         },
         {
           "beforeVerse": 33,
-          "text": "Dos juramentos"
+          "text": "Ensino sobre juramentos e votos"
         },
         {
           "beforeVerse": 38,
-          "text": "Da vingança"
+          "text": "Ensino sobre a vingança"
         },
         {
           "beforeVerse": 43,
-          "text": "Do amor ao próximo"
+          "text": "Ensino sobre o amor pelos inimigos"
         }
       ]
     },
@@ -540,35 +536,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A prática da justiça Como se deve dar esmolas"
+          "text": "Ensino sobre auxílio aos necessitados"
         },
         {
           "beforeVerse": 5,
-          "text": "Como se deve orar"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "A oração dominical"
+          "text": "Ensino sobre oração"
         },
         {
           "beforeVerse": 16,
-          "text": "Como jejuar"
+          "text": "Ensino sobre jejum"
         },
         {
           "beforeVerse": 19,
-          "text": "Os tesouros no céu"
-        },
-        {
-          "beforeVerse": 22,
-          "text": "A luz e as trevas"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "Os dois senhores"
+          "text": "Ensino sobre dinheiro e bens"
         },
         {
           "beforeVerse": 25,
-          "text": "A ansiosa solicitude pela vida"
+          "text": "Ensino sobre a preocupação"
         }
       ]
     },
@@ -635,31 +619,35 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O juízo temerário é proibido ,"
-        },
-        {
-          "beforeVerse": 6,
-          "text": "Não deis o que é santo aos cães"
+          "text": "Não julguem os outros"
         },
         {
           "beforeVerse": 7,
-          "text": "Jesus incita a orar"
+          "text": "Oração eficaz"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "A regra de ouro"
         },
         {
           "beforeVerse": 13,
-          "text": "As duas estradas"
+          "text": "A porta estreita"
         },
         {
           "beforeVerse": 15,
-          "text": "Os falsos profetas"
+          "text": "A árvore e seus frutos"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Verdadeiros discípulos"
         },
         {
           "beforeVerse": 24,
-          "text": "Os dois fundamentos"
+          "text": "Construir sobre um alicerce firme"
         },
         {
           "beforeVerse": 28,
-          "text": "O fim do sermão do monte"
+          "text": "Reação ao sermão"
         }
       ]
     },
@@ -731,31 +719,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A cura de um leproso ;"
+          "text": "Jesus cura um leproso"
         },
         {
           "beforeVerse": 5,
-          "text": "A cura do criado de um centurião"
+          "text": "Um oficial romano demonstra fé"
         },
         {
           "beforeVerse": 14,
-          "text": "A cura da sogra de Pedro ;"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "Muitas outras curas ;"
+          "text": "Jesus cura muitas pessoas"
         },
         {
           "beforeVerse": 18,
-          "text": "Jesus põe à prova os que querem segui-lo"
+          "text": "O preço de seguir Jesus"
         },
         {
           "beforeVerse": 23,
-          "text": "Jesus acalma uma tempestade ;"
+          "text": "Jesus acalma a tempestade"
         },
         {
           "beforeVerse": 28,
-          "text": "A cura de dois endemoninhados gadarenos ;"
+          "text": "Jesus exerce autoridade sobre demônios"
         }
       ]
     },
@@ -831,43 +815,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A cura de um paralítico em Cafarnaum ;"
+          "text": "Jesus cura um paralítico"
         },
         {
           "beforeVerse": 9,
-          "text": "A vocação de Mateus ;"
-        },
-        {
-          "beforeVerse": 10,
-          "text": "Jesus come com pecadores ;"
+          "text": "Jesus chama Mateus"
         },
         {
           "beforeVerse": 14,
-          "text": "Do jejum ;"
+          "text": "Discussão sobre o jejum"
         },
         {
           "beforeVerse": 18,
-          "text": "O pedido de um chefe a; a"
-        },
-        {
-          "beforeVerse": 19,
-          "text": "A cura de uma mulher enferma Mc 5.24b-34; Lc 8.42b-48"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "A ressurreição da filha de Jairo ;"
+          "text": "Jesus cura em resposta à fé"
         },
         {
           "beforeVerse": 27,
-          "text": "A cura de dois cegos"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "A cura de um mudo endemoninhado. A blasfêmia dos fariseus"
+          "text": "Jesus cura dois cegos e um mudo"
         },
         {
           "beforeVerse": 35,
-          "text": "Jesus ia por toda parte fazendo o bem. A seara e os trabalhadores"
+          "text": "A necessidade de trabalhadores"
         }
       ]
     },
@@ -957,27 +925,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A escolha dos doze apóstolos Os seus nomes ;"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "As instruções para os doze ;"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "As admoestações"
-        },
-        {
-          "beforeVerse": 24,
-          "text": "Os estímulos"
-        },
-        {
-          "beforeVerse": 34,
-          "text": "As dificuldades"
-        },
-        {
-          "beforeVerse": 40,
-          "text": "As recompensas"
+          "text": "Jesus envia os doze apóstolos"
         }
       ]
     },
@@ -1050,23 +998,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus prega nas cidades João envia mensageiros a Jesus"
-        },
-        {
-          "beforeVerse": 7,
-          "text": "Jesus dá testemunho de João"
+          "text": "Jesus e João Batista"
         },
         {
           "beforeVerse": 20,
-          "text": "Ai das cidades impenitentes!"
+          "text": "Julgamento para os que não creem"
         },
         {
           "beforeVerse": 25,
-          "text": "Jesus, o Salvador dos humildes"
-        },
-        {
-          "beforeVerse": 28,
-          "text": "Vinde a mim"
+          "text": "Jesus agradece ao Pai"
         }
       ]
     },
@@ -1159,35 +1099,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus é senhor do sábado ;"
+          "text": "Discussão sobre o sábado"
         },
         {
           "beforeVerse": 9,
-          "text": "O homem da mão ressequida ;"
+          "text": "Jesus cura no sábado"
         },
         {
           "beforeVerse": 15,
-          "text": "Jesus se retira"
+          "text": "Jesus, o Servo escolhido de Deus"
         },
         {
           "beforeVerse": 22,
-          "text": "A cura de um endemoninhado cego e mudo. A blasfêmia dos fariseus. Jesus se defende ;"
-        },
-        {
-          "beforeVerse": 33,
-          "text": "Árvores e seus frutos"
+          "text": "A fonte do poder de Jesus"
         },
         {
           "beforeVerse": 38,
           "text": "O sinal de Jonas"
         },
         {
-          "beforeVerse": 43,
-          "text": "A estratégia de Satanás"
-        },
-        {
           "beforeVerse": 46,
-          "text": "A família de Jesus ;"
+          "text": "A verdadeira família de Jesus"
         }
       ]
     },
@@ -1292,19 +1224,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A parábola do semeador ;"
-        },
-        {
-          "beforeVerse": 10,
-          "text": "A explicação da parábola ;"
+          "text": "A parábola do semeador"
         },
         {
           "beforeVerse": 24,
-          "text": "A parábola do joio"
+          "text": "A parábola do trigo e do joio"
         },
         {
           "beforeVerse": 31,
-          "text": "A parábola do grão de mostarda ;"
+          "text": "A parábola da semente de mostarda"
         },
         {
           "beforeVerse": 33,
@@ -1312,11 +1240,11 @@
         },
         {
           "beforeVerse": 34,
-          "text": "Por que Jesus falou por parábolas"
+          "text": "As parábolas cumprem uma profecia"
         },
         {
           "beforeVerse": 36,
-          "text": "A explicação da parábola do joio"
+          "text": "Explicação da parábola do trigo e do joio"
         },
         {
           "beforeVerse": 44,
@@ -1328,15 +1256,15 @@
         },
         {
           "beforeVerse": 47,
-          "text": "A parábola da rede"
+          "text": "A parábola da rede de pesca"
         },
         {
-          "beforeVerse": 51,
-          "text": "Coisas novas e velhas"
+          "beforeVerse": 52,
+          "text": "Mestres da lei no reino"
         },
         {
           "beforeVerse": 53,
-          "text": "Jesus prega em Nazaré. É rejeitado pelos seus ;"
+          "text": "Jesus é rejeitado em Nazaré"
         }
       ]
     },
@@ -1415,19 +1343,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A morte de João Batista ;"
+          "text": "Herodes e a morte de João Batista"
         },
         {
           "beforeVerse": 13,
-          "text": "A primeira multiplicação de pães e peixes ; ;"
+          "text": "A primeira multiplicação dos pães"
         },
         {
           "beforeVerse": 22,
-          "text": "Jesus anda por sobre o mar ;"
+          "text": "Jesus anda sobre as águas"
         },
         {
           "beforeVerse": 34,
-          "text": "Jesus em Genesaré"
+          "text": "Jesus cura os enfermos"
         }
       ]
     },
@@ -1509,7 +1437,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus e a tradição dos anciãos. O que contamina o homem"
+          "text": "Ensino sobre a pureza interior"
         },
         {
           "beforeVerse": 21,
@@ -1517,11 +1445,11 @@
         },
         {
           "beforeVerse": 29,
-          "text": "Jesus volta para o mar da Galileia e cura muitos enfermos"
+          "text": "Jesus cura muitas pessoas"
         },
         {
           "beforeVerse": 32,
-          "text": "A segunda multiplicação de pães e peixes"
+          "text": "A segunda multiplicação dos pães"
         }
       ]
     },
@@ -1597,23 +1525,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Os fariseus e os saduceus pedem um sinal do céu"
+          "text": "Os líderes exigem um sinal"
         },
         {
           "beforeVerse": 5,
-          "text": "O fermento dos fariseus e dos saduceus"
+          "text": "O fermento dos fariseus e saduceus"
         },
         {
           "beforeVerse": 13,
-          "text": "A confissão de Pedro ;"
+          "text": "Pedro declara sua fé"
         },
         {
           "beforeVerse": 21,
-          "text": "Jesus prediz a sua morte e ressurreição ;"
+          "text": "Jesus prediz sua morte"
         },
         {
           "beforeVerse": 24,
-          "text": "O discípulo de Cristo deve levar a sua cruz ;"
+          "text": "Ensino sobre o discipulado"
         }
       ]
     },
@@ -1693,23 +1621,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A transfiguração ;"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "A vinda de Elias"
+          "text": "A transfiguração"
         },
         {
           "beforeVerse": 14,
-          "text": "A cura de um jovem possesso ;"
+          "text": "Jesus cura um menino possuído por demônio"
         },
         {
           "beforeVerse": 22,
-          "text": "De novo Jesus prediz a sua morte e ressurreição ; Lc 9.43b-45"
+          "text": "Jesus prediz sua morte pela segunda vez"
         },
         {
           "beforeVerse": 24,
-          "text": "Jesus paga imposto"
+          "text": "O pagamento do imposto do templo"
         }
       ]
     },
@@ -1808,27 +1732,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O maior no reino dos céus ;"
+          "text": "O maior no reino"
         },
         {
           "beforeVerse": 6,
-          "text": "Os tropeços ;"
+          "text": "Advertência para não causar pecado"
         },
         {
-          "beforeVerse": 10,
+          "beforeVerse": 12,
           "text": "A parábola da ovelha perdida"
         },
         {
           "beforeVerse": 15,
-          "text": "Como se deve tratar a um irmão culpado"
+          "text": "Como corrigir um irmão"
         },
         {
           "beforeVerse": 21,
-          "text": "Quantas vezes se deve perdoar a um irmão"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "A parábola do credor incompassivo"
+          "text": "A parábola sobre a importância do perdão"
         }
       ]
     },
@@ -1901,23 +1821,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus atravessa o Jordão"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "A questão do divórcio ;"
+          "text": "Discussão sobre divórcio e casamento"
         },
         {
           "beforeVerse": 13,
-          "text": "Jesus abençoa as crianças ;"
+          "text": "Jesus abençoa as crianças"
         },
         {
           "beforeVerse": 16,
-          "text": "O jovem rico ;"
+          "text": "O homem rico"
         },
         {
           "beforeVerse": 23,
-          "text": "O perigo das riquezas ;"
+          "text": "As recompensas do discipulado"
         }
       ]
     },
@@ -1999,19 +1915,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A parábola dos trabalhadores na vinha"
+          "text": "A parábola dos trabalhadores do vinhedo"
         },
         {
           "beforeVerse": 17,
-          "text": "Jesus ainda outra vez prediz sua morte e ressurreição ;"
+          "text": "Jesus prediz sua morte e ressurreição"
         },
         {
           "beforeVerse": 20,
-          "text": "O pedido da mãe de Tiago e João"
+          "text": "Jesus ensina sobre servir a outros"
         },
         {
           "beforeVerse": 29,
-          "text": "A cura de dois cegos de Jericó ;"
+          "text": "Jesus cura dois cegos"
         }
       ]
     },
@@ -2095,23 +2011,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A entrada triunfal de Jesus em Jerusalém ; ;"
+          "text": "A entrada de Jesus em Jerusalém"
         },
         {
           "beforeVerse": 12,
-          "text": "A purificação do templo ;"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "Jesus efetua curas no templo"
+          "text": "Jesus purifica o templo"
         },
         {
           "beforeVerse": 18,
-          "text": "A figueira sem fruto ,"
+          "text": "Jesus amaldiçoa a figueira"
         },
         {
           "beforeVerse": 23,
-          "text": "A autoridade de Jesus e o batismo de João ;"
+          "text": "A autoridade de Jesus é questionada"
         },
         {
           "beforeVerse": 28,
@@ -2119,7 +2031,7 @@
         },
         {
           "beforeVerse": 33,
-          "text": "A parábola dos lavradores maus ;"
+          "text": "A parábola dos lavradores maus"
         }
       ]
     },
@@ -2212,23 +2124,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A parábola das bodas"
+          "text": "A parábola do banquete de casamento"
         },
         {
           "beforeVerse": 15,
-          "text": "A questão do tributo ;"
+          "text": "Impostos para César"
         },
         {
           "beforeVerse": 23,
-          "text": "Os saduceus e a ressurreição ;"
+          "text": "Discussão sobre a ressurreição dos mortos"
         },
         {
           "beforeVerse": 34,
-          "text": "O grande mandamento"
+          "text": "O mandamento mais importante"
         },
         {
           "beforeVerse": 41,
-          "text": "O Cristo, Filho de Davi ;"
+          "text": "De quem o Cristo é filho?"
         }
       ]
     },
@@ -2319,15 +2231,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus censura os escribas e os fariseus ; ;"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "Várias advertências de Jesus"
+          "text": "Jesus critica os líderes religiosos"
         },
         {
           "beforeVerse": 37,
-          "text": "O lamento sobre Jerusalém"
+          "text": "O lamento de Jesus sobre Jerusalém"
         }
       ]
     },
@@ -2426,27 +2334,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O sermão profético A destruição do templo ;"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "O princípio das dores ;"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "A grande tribulação ;"
-        },
-        {
-          "beforeVerse": 29,
-          "text": "A vinda do Filho do Homem ;"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "A parábola da figueira. Exortação à vigilância ;"
-        },
-        {
-          "beforeVerse": 45,
-          "text": "A parábola do bom servo e do mau"
+          "text": "Jesus fala de acontecimentos futuros"
         }
       ]
     },
@@ -2533,11 +2421,11 @@
         },
         {
           "beforeVerse": 14,
-          "text": "A parábola dos talentos"
+          "text": "A parábola dos três servos"
         },
         {
           "beforeVerse": 31,
-          "text": "O grande julgamento"
+          "text": "O juízo final"
         }
       ]
     },
@@ -2655,47 +2543,39 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "O plano para tirar a vida de Jesus ; ;"
+          "text": "A conspiração para matar Jesus"
         },
         {
           "beforeVerse": 6,
-          "text": "Jesus ungido em Betânia ;"
+          "text": "Jesus é ungido em Betânia"
         },
         {
           "beforeVerse": 14,
-          "text": "O pacto da traição ;"
+          "text": "Judas concorda em trair Jesus"
         },
         {
           "beforeVerse": 17,
-          "text": "Os discípulos preparam a Páscoa ;"
-        },
-        {
-          "beforeVerse": 20,
-          "text": "O traidor é indicado ; ;"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "A Ceia do Senhor ; ;"
+          "text": "A última Páscoa"
         },
         {
           "beforeVerse": 31,
-          "text": "Pedro é avisado ; ;"
+          "text": "Jesus prediz a negação de Pedro"
         },
         {
           "beforeVerse": 36,
-          "text": "Jesus no Getsêmani ;"
+          "text": "Jesus ora no Getsêmani"
         },
         {
           "beforeVerse": 47,
-          "text": "Jesus é preso ; ;"
+          "text": "Jesus é traído e preso"
         },
         {
           "beforeVerse": 57,
-          "text": "Jesus perante o Sinédrio ; ; ,"
+          "text": "O julgamento de Jesus diante do conselho"
         },
         {
           "beforeVerse": 69,
-          "text": "Pedro nega a Jesus ; ; ,"
+          "text": "Pedro nega Jesus"
         }
       ]
     },
@@ -2821,39 +2701,31 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus entregue a Pilatos ; ;"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "O suicídio de Judas"
+          "text": "Judas se enforca"
         },
         {
           "beforeVerse": 11,
-          "text": "Jesus perante Pilatos ; , ;"
+          "text": "O julgamento de Jesus diante de Pilatos"
         },
         {
           "beforeVerse": 27,
-          "text": "Jesus entregue aos soldados ;"
+          "text": "Os soldados zombam de Jesus"
         },
         {
           "beforeVerse": 32,
-          "text": "Simão leva a cruz do Senhor ;"
-        },
-        {
-          "beforeVerse": 33,
-          "text": "A crucificação ; ;"
+          "text": "A crucificação"
         },
         {
           "beforeVerse": 45,
-          "text": "A morte de Jesus ; ;"
+          "text": "A morte de Jesus"
         },
         {
           "beforeVerse": 57,
-          "text": "O sepultamento de Jesus ; ;"
+          "text": "O sepultamento de Jesus"
         },
         {
           "beforeVerse": 62,
-          "text": "A guarda do sepulcro"
+          "text": "Os guardas no túmulo"
         }
       ]
     },
@@ -2916,19 +2788,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A ressurreição de Jesus. Seu aparecimento às mulheres ; ;"
+          "text": "A ressurreição"
         },
         {
           "beforeVerse": 11,
-          "text": "Os judeus subornam os guardas"
+          "text": "O relato dos guardas"
         },
         {
           "beforeVerse": 16,
-          "text": "Jesus aparece aos discípulos na Galileia"
-        },
-        {
-          "beforeVerse": 18,
-          "text": "A Grande Comissão ;"
+          "text": "A Grande Comissão"
         }
       ]
     }

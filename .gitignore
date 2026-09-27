@@ -1,9 +1,10 @@
-# Claude Code
+# Local agent configuration and instructions
 .claude/
-!.claude/settings.json
-
-# Codex
 .codex/
+.agents/
+AGENTS.md
+CLAUDE.md
+CODEX.md
 
 # IntelliJ / Android Studio
 .idea/
@@ -71,6 +72,7 @@ shared/*.klib
 **/generated/compose/
 
 # Misc
+/.pdf
 .DS_Store
 Thumbs.db
 *.swp

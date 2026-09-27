@@ -122,6 +122,16 @@
           "verse": 22,
           "text": "Em tudo isto Job não peccou, nem attribuiu a Deus falta alguma."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Prólogo"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "A primeira provação de Jó"
+        }
       ]
     },
     {
@@ -193,6 +203,16 @@
           "chapter": 2,
           "verse": 13,
           "text": "E se assentaram juntamente com elle na terra, sete dias e sete noites: e nenhum lhe dizia palavra alguma, porque viam que a dôr era mui grande."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A segunda provação de Jó"
+        },
+        {
+          "beforeVerse": 11,
+          "text": "Os três amigos de Jó compartilham de sua angústia"
         }
       ]
     },
@@ -331,6 +351,12 @@
           "verse": 26,
           "text": "Nunca estive descançado, nem soceguei, nem repousei, mas veiu sobre mim a perturbação."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O primeiro discurso de Jó"
+        }
       ]
     },
     {
@@ -442,6 +468,12 @@
           "chapter": 4,
           "verse": 21,
           "text": "Porventura se não passa com elles a sua excellencia? morrem, porém sem sabedoria."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A primeira resposta de Elifaz a Jó"
         }
       ]
     },
@@ -584,6 +616,12 @@
           "chapter": 5,
           "verse": 27,
           "text": "Eis que isto já o havemos inquirido, e assim é; ouve-o, e medita n'isso para teu bem."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Continuação da resposta de Elifaz"
         }
       ]
     },
@@ -742,6 +780,12 @@
           "verse": 30,
           "text": "Ha porventura iniquidade na minha lingua? Ou não poderia o meu paladar dar a entender as minhas miserias?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O segundo discurso de Jó: resposta a Elifaz"
+        }
       ]
     },
     {
@@ -853,6 +897,12 @@
           "chapter": 7,
           "verse": 21,
           "text": "E porque me não perdoas a minha transgressão, e não tiras a minha iniquidade? porque agora me deitarei no pó, e de madrugada me buscarás, e não estarei lá."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 6,
+          "text": "Jó clama a Deus"
         }
       ]
     },
@@ -970,6 +1020,12 @@
           "chapter": 8,
           "verse": 22,
           "text": "Teus aborrecedores se vestirão de confusão, e a tenda dos impios não existirá mais."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A primeira resposta de Bildade a Jó"
         }
       ]
     },
@@ -1153,6 +1209,12 @@
           "verse": 35,
           "text": "Então fallarei, e não o temerei; porque assim não estou comigo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O terceiro discurso de Jó: resposta a Bildade"
+        }
       ]
     },
     {
@@ -1270,6 +1332,12 @@
           "verse": 22,
           "text": "Terra escurissima, como a mesma escuridão, terra da sombra, da morte e sem ordem alguma e onde a luz é como a escuridão."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó expressa seu pedido a Deus"
+        }
       ]
     },
     {
@@ -1376,6 +1444,12 @@
           "chapter": 11,
           "verse": 20,
           "text": "Porém os olhos dos impios desfallecerão, e perecerá o seu refugio: e a sua esperança será o expirar da alma"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A primeira resposta de Zofar a Jó"
         }
       ]
     },
@@ -1508,6 +1582,12 @@
           "chapter": 12,
           "verse": 25,
           "text": "Nas trevas andam ás apalpadelas, sem terem luz, e os faz desatinar como ebrios."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O quarto discurso de Jó: resposta a Zofar"
         }
       ]
     },
@@ -1656,6 +1736,16 @@
           "verse": 28,
           "text": "Envelhecendo-se entretanto elle com a podridão, e como o vestido, ao qual roe a traça."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó quer defender sua causa diante de Deus"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Jó pergunta qual foi seu pecado"
+        }
       ]
     },
     {
@@ -1773,7 +1863,8 @@
           "verse": 22,
           "text": "Mas a sua carne n'elle tem dôres: e a sua alma n'elle lamenta."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 15,
@@ -1955,6 +2046,12 @@
           "verse": 35,
           "text": "Concebem o trabalho, e parem a iniquidade, e o seu ventre prepara enganos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A segunda resposta de Elifaz a Jó"
+        }
       ]
     },
     {
@@ -2072,6 +2169,12 @@
           "verse": 22,
           "text": "Porque se passarão poucos annos; e eu seguirei o caminho por onde não tornarei."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O quinto discurso de Jó: resposta a Elifaz"
+        }
       ]
     },
     {
@@ -2158,6 +2261,12 @@
           "chapter": 17,
           "verse": 16,
           "text": "As barras da sepultura descerão quando juntamente no pó haverá descanço."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó continua a defender sua inocência"
         }
       ]
     },
@@ -2270,6 +2379,12 @@
           "chapter": 18,
           "verse": 21,
           "text": "Taes são, na verdade, as moradas do perverso, e este é o logar do que não conhece a Deus."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A segunda resposta de Bildade a Jó"
         }
       ]
     },
@@ -2423,6 +2538,12 @@
           "verse": 29,
           "text": "Temei vós mesmos a espada; porque o furor traz os castigos da espada, para saberdes que haverá um juizo."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sexto discurso de Jó: resposta a Bildade"
+        }
       ]
     },
     {
@@ -2574,6 +2695,12 @@
           "chapter": 20,
           "verse": 29,
           "text": "Esta, da parte de Deus, é a porção do homem impio: e, da parte de Deus, a herança dos seus ditos."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A segunda resposta de Zofar a Jó"
         }
       ]
     },
@@ -2752,6 +2879,12 @@
           "verse": 34,
           "text": "Como pois me consolaes com vaidade? pois nas vossas respostas ainda resta a transgressão."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O sétimo discurso de Jó: resposta a Zofar"
+        }
       ]
     },
     {
@@ -2909,6 +3042,12 @@
           "verse": 30,
           "text": "E livrará até ao que não é innocente; porque fica livre pela pureza de tuas mãos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A terceira resposta de Elifaz a Jó"
+        }
       ]
     },
     {
@@ -3000,6 +3139,12 @@
           "chapter": 23,
           "verse": 17,
           "text": "Porquanto não fui desarreigado antes das trevas, e nem encobriu com a escuridão o meu rosto."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O oitavo discurso de Jó: resposta a Elifaz"
         }
       ]
     },
@@ -3133,6 +3278,12 @@
           "verse": 25,
           "text": "Se agora não é assim, quem me desmentirá e desfará as minhas razões?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó pergunta por que os perversos não são castigados"
+        }
       ]
     },
     {
@@ -3169,6 +3320,12 @@
           "chapter": 25,
           "verse": 6,
           "text": "E quanto menos o homem, que é um verme, e o filho do homem, que é um bicho."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "A terceira resposta de Bildade a Jó"
         }
       ]
     },
@@ -3246,6 +3403,12 @@
           "chapter": 26,
           "verse": 14,
           "text": "Eis que isto são só as bordas dos seus caminhos; e quão pouco é o que temos ouvido d'elle! Quem pois entenderia o trovão do seu poder?"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O nono discurso de Jó: resposta a Bildade"
         }
       ]
     },
@@ -3368,6 +3531,12 @@
           "chapter": 27,
           "verse": 23,
           "text": "Cada um baterá contra elle as palmas das mãos, e do seu logar o assobiará."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O discurso final de Jó"
         }
       ]
     },
@@ -3516,6 +3685,12 @@
           "verse": 28,
           "text": "Porém disse ao homem: Eis que o temor do Senhor é a sabedoria, e apartar-se do mal, a intelligencia."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó fala de sabedoria e entendimento"
+        }
       ]
     },
     {
@@ -3647,6 +3822,12 @@
           "chapter": 29,
           "verse": 25,
           "text": "Eu escolhia o seu caminho, assentava-me como chefe, e habitava como rei entre as tropas: como aquelle que consola os que pranteiam."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó fala das bênçãos do passado"
         }
       ]
     },
@@ -3809,6 +3990,12 @@
           "chapter": 30,
           "verse": 31,
           "text": "Pelo que se trocou a minha harmonia em lamentação, e o meu orgão em voz dos que choram."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó fala de sua angústia"
         }
       ]
     },
@@ -4017,6 +4204,12 @@
           "verse": 40,
           "text": "Por trigo me produza cardos, e por cevada joio. Acabaram-se as palavras de Job."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó defende sua inocência pela última vez"
+        }
       ]
     },
     {
@@ -4133,6 +4326,12 @@
           "chapter": 32,
           "verse": 22,
           "text": "Porque não sei usar de sobrenomes: em breve me levaria o meu Creador."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Eliú responde aos amigos de Jó"
         }
       ]
     },
@@ -4305,6 +4504,12 @@
           "chapter": 33,
           "verse": 33,
           "text": "Se não, escuta-me tu: cala-te, e ensinar-te-hei a sabedoria."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Eliú apresenta seus argumentos contra Jó"
         }
       ]
     },
@@ -4498,6 +4703,12 @@
           "verse": 37,
           "text": "Porque ao seu peccado accrescenta a transgressão; entre nós bateria as palmas das mãos, e multiplicaria contra Deus as suas razões."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Eliú acusa Jó de arrogância"
+        }
       ]
     },
     {
@@ -4584,6 +4795,12 @@
           "chapter": 35,
           "verse": 16,
           "text": "Logo Job em vão abriu a sua bocca, e sem sciencia multiplicou palavras."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Eliú lembra Jó da justiça de Deus"
         }
       ]
     },
@@ -4757,6 +4974,12 @@
           "verse": 33,
           "text": "O que dá a entender o seu pensamento, como tambem aos gados, ácerca do temporal que sobe."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 22,
+          "text": "Eliú lembra Jó do poder de Deus"
+        }
       ]
     },
     {
@@ -4884,7 +5107,8 @@
           "verse": 24,
           "text": "Por isso o temem os homens: elle não respeita aos sabios de coração."
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 38,
@@ -5096,6 +5320,12 @@
           "verse": 41,
           "text": "Quem prepara aos corvos o seu alimento, quando os seus pintainhos gritam a Deus e andam vagueando, por não terem de comer?"
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O S\nenhor\ndesafia Jó"
+        }
       ]
     },
     {
@@ -5253,6 +5483,12 @@
           "verse": 30,
           "text": "E seus filhos chupam o sangue, e onde ha mortos ahi está."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O S\nenhor\ncontinua com seu desafio"
+        }
       ]
     },
     {
@@ -5379,6 +5615,16 @@
           "chapter": 40,
           "verse": 24,
           "text": "Podel-o-hiam porventura caçar á vista de seus olhos? ou com laços lhe furar os narizes?"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 3,
+          "text": "Jó responde ao S\nenhor"
+        },
+        {
+          "beforeVerse": 6,
+          "text": "O S\nenhor\ndesafia Jó outra vez"
         }
       ]
     },
@@ -5557,6 +5803,12 @@
           "verse": 34,
           "text": "Todo o alto vê: é rei sobre todos os filhos d'animaes altivos."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "O S\nenhor\ncontinua seu desafio"
+        }
       ]
     },
     {
@@ -5648,6 +5900,16 @@
           "chapter": 42,
           "verse": 17,
           "text": "Então morreu Job, velho e farto de dias."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Jó responde ao S\nenhor"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Conclusão: o S\nenhor\nabençoa Jó"
         }
       ]
     }

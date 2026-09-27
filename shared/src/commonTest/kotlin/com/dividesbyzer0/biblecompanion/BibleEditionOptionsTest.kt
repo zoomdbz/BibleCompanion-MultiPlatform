@@ -5,6 +5,20 @@ import kotlin.test.assertEquals
 
 class BibleEditionOptionsTest {
   @Test
+  fun regionAndScriptTagsResolveToBundledAssetLanguages() {
+    assertEquals("en", LocaleUtils.effectiveAssetTag("en-US"))
+    assertEquals("en", LocaleUtils.effectiveAssetTag("en_US"))
+    assertEquals("de", LocaleUtils.effectiveAssetTag("de-DE"))
+    assertEquals("pt", LocaleUtils.effectiveAssetTag("pt-BR"))
+    assertEquals("zh-Hant", LocaleUtils.effectiveAssetTag("zh-TW"))
+    assertEquals("zh-Hant", LocaleUtils.effectiveAssetTag("zh-Hant-HK"))
+    assertEquals("zh-Hans", LocaleUtils.effectiveAssetTag("zh-CN"))
+    assertEquals("zh-Hans", LocaleUtils.effectiveAssetTag("zh-Hans-TW"))
+    assertEquals("zh-Hant", LocaleUtils.effectiveAssetTag("zh-Hant-CN"))
+    assertEquals("xx-yy", LocaleUtils.effectiveAssetTag("xx-YY"))
+  }
+
+  @Test
   fun everySupportedLanguageDefaultsToItsModernEdition() {
     val defaults = mapOf(
       "en" to BibleEditions.BSB,

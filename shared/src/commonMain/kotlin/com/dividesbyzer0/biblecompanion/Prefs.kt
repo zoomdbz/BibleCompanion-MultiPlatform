@@ -20,7 +20,14 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setJesusWordsColor(colorKey: String)
     suspend fun setFontMode(mode: String)
     suspend fun setTextSizeScale(scale: Float)
-    suspend fun setLastRead(collection: String, bookId: String, bookTitle: String, storyId: String?, sourceLanguage: String?)
+    suspend fun setLastRead(
+        collection: String,
+        bookId: String,
+        bookTitle: String,
+        storyId: String?,
+        sourceLanguage: String?,
+        sourceEdition: String? = null
+    )
     suspend fun setOnboardingComplete(complete: Boolean)
     suspend fun setStudyPinned(pinned: Boolean)
     suspend fun setThemePreset(preset: String)
@@ -36,7 +43,10 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setAutoContinueTts(enabled: Boolean)
     suspend fun setTtsReadIntros(enabled: Boolean)
     suspend fun setNotesExpandedSections(json: String)
+    suspend fun setNoteScreenState(language: String, assetFileName: String, stateJson: String)
     suspend fun setVotdDismissedDate(date: String)
+    suspend fun setDailyVerseNotifications(enabled: Boolean)
+    suspend fun setDailyVerseNotificationTime(minuteOfDay: Int)
     suspend fun setAiSearch(enabled: Boolean)
 
     val bookmarksFlow: Flow<List<Bookmark>>

@@ -103,23 +103,31 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendientes de Adán"
+          "text": "Los descendientes de Adán"
         },
         {
-          "beforeVerse": 5,
-          "text": "Descendientes de los hijos de Noé"
+          "beforeVerse": 4,
+          "text": "Los descendientes de Noé"
         },
         {
           "beforeVerse": 24,
-          "text": "Descendientes de Sem"
+          "text": "Los descendientes de Sem"
         },
         {
           "beforeVerse": 28,
-          "text": "Descendientes de Ismael y de Cetura"
+          "text": "Los descendientes de Abraham"
         },
         {
-          "beforeVerse": 34,
-          "text": "Descendientes de Esaú"
+          "beforeVerse": 35,
+          "text": "Los descendientes de Esaú"
+        },
+        {
+          "beforeVerse": 38,
+          "text": "Los descendientes de Seír"
+        },
+        {
+          "beforeVerse": 43,
+          "text": "Los reyes de Edom"
         }
       ]
     },
@@ -132,7 +140,7 @@
       "summaryBullets": [
         "Los hijos de Israel fueron Rubén, Simeón, Leví, Judá, Isacar, Zabulón, (2:1).",
         "Dan, José, Benjamín, Neftalí, Gad y Aser. (2:2).",
-        "Hijos de Judá: Er, Onán y Selá. La madre de estos tres era una cananea, hija de Súa. Er, primogénito de Judá, hizo lo malo ante los ojos del SEÑOR, y el SEÑOR le quitó la vida. (2:3).",
+        "Hijos de Judá: Er, Onán y Selá. La madre de estos tres era una cananea, hija de Súa. Er, primogénito de Judá, hizo lo malo ante los ojos del [DN]Señor[/DN], y el [DN]Señor[/DN] le quitó la vida. (2:3).",
         "Y Tamar, nuera de Judá, le dio a este dos hijos: Fares y Zera. Judá tuvo cinco hijos en total. (2:4).",
         "Hijos de Fares: Jezrón y Jamul. (2:5).",
         "Los hijos de Zera fueron cinco en total: Zimri, Etán, Hemán, Calcol y Dardá. (2:6).",
@@ -233,7 +241,11 @@
         },
         {
           "beforeVerse": 3,
-          "text": "Descendientes de Judá"
+          "text": "Los descendientes de Judá"
+        },
+        {
+          "beforeVerse": 42,
+          "text": "Los descendientes de Caleb"
         }
       ]
     },
@@ -311,7 +323,7 @@
         },
         {
           "beforeVerse": 10,
-          "text": "Descendientes de Salomón"
+          "text": "Los descendientes de Salomón"
         }
       ]
     },
@@ -404,11 +416,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendientes de Judá"
+          "text": "Los descendientes de Judá"
         },
         {
           "beforeVerse": 24,
-          "text": "Descendientes de Simeón"
+          "text": "Los descendientes de Simeón"
         }
       ]
     },
@@ -484,15 +496,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendientes de Rubén"
+          "text": "Los descendientes de Rubén"
         },
         {
           "beforeVerse": 11,
-          "text": "Descendientes de Gad"
+          "text": "Los descendientes de Gad"
         },
         {
-          "beforeVerse": 18,
-          "text": "Historia de las dos tribus y media"
+          "beforeVerse": 23,
+          "text": "La media tribu de Manasés"
         }
       ]
     },
@@ -517,7 +529,7 @@
         "Ajitob fue el padre de Sadoc, Sadoc fue el padre de Salún, (6:12).",
         "Salún fue el padre de Jilquías, Jilquías fue el padre de Azarías, (6:13).",
         "Azarías fue el padre de Seraías, y Seraías fue el padre de Josadac. (6:14).",
-        "Josadac fue llevado al cautiverio cuando el SEÑOR deportó a Judá y a Jerusalén por medio de Nabucodonosor. (6:15).",
+        "Josadac fue llevado al cautiverio cuando el [DN]Señor[/DN] deportó a Judá y a Jerusalén por medio de Nabucodonosor. (6:15).",
         "Los hijos de Leví: Guersón, Coat y Merari. (6:16).",
         "Hijos de Guersón: Libní y Simí. (6:17).",
         "Hijos de Coat: Amirán, Izar, Hebrón y Uziel. (6:18).",
@@ -533,8 +545,8 @@
         "Los hijos de Samuel fueron: Joel, el primogénito, y Abías, el segundo. (6:28).",
         "Los descendientes de Merari en línea directa fueron: Majlí, Libní, Simí, Uza, (6:29).",
         "Simá, Jaguías y Asaías. (6:30).",
-        "Estos fueron los que David puso a cargo del canto en el templo del SEÑOR, desde que se colocó allí el arca. (6:31).",
-        "Ellos ya cantaban en la Tienda de reunión, delante del santuario, antes de que Salomón edificara el templo del SEÑOR en Jerusalén. Luego continuaron su ministerio según las ordenanzas establecidas. (6:32).",
+        "Estos fueron los que David puso a cargo del canto en el templo del [DN]Señor[/DN], desde que se colocó allí el arca. (6:31).",
+        "Ellos ya cantaban en la Tienda de reunión, delante del santuario, antes de que Salomón edificara el templo del [DN]Señor[/DN] en Jerusalén. Luego continuaron su ministerio según las ordenanzas establecidas. (6:32).",
         "Estos y sus hijos estuvieron a cargo del canto: De los descendientes de Coat, el cantor Hemán fue hijo de Joel, descendiente en línea directa de Samuel, (6:33).",
         "Elcaná, Jeroán, Eliel, Toa, (6:34).",
         "Zuf, Elcaná, Mahat, Amasay, (6:35).",
@@ -623,15 +635,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendientes de Leví"
+          "text": "Los descendientes de Leví"
         },
         {
           "beforeVerse": 31,
-          "text": "Cantores del templo nombrados por David"
-        },
-        {
-          "beforeVerse": 49,
-          "text": "Descendientes de Aarón"
+          "text": "Los cantores del templo"
         },
         {
           "beforeVerse": 54,
@@ -725,27 +733,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendientes de Isacar"
+          "text": "Los descendientes de Isacar"
         },
         {
           "beforeVerse": 6,
-          "text": "Descendientes de Benjamín"
+          "text": "Los descendientes de Benjamín"
         },
         {
           "beforeVerse": 13,
-          "text": "Descendientes de Neftalí"
+          "text": "Los descendientes de Neftalí"
         },
         {
           "beforeVerse": 14,
-          "text": "Descendientes de Manasés"
+          "text": "Los descendientes de Manasés"
         },
         {
           "beforeVerse": 20,
-          "text": "Descendientes de Efraín"
+          "text": "Los descendientes de Efraín"
         },
         {
           "beforeVerse": 30,
-          "text": "Descendientes de Aser"
+          "text": "Los descendientes de Aser"
         }
       ]
     },
@@ -835,7 +843,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Descendientes de Benjamín"
+          "text": "Los descendientes de Benjamín"
         }
       ]
     },
@@ -864,11 +872,11 @@
         "Abdías, hijo de Semaías, hijo de Galal, hijo de Jedutún; Berequías, hijo de Asá, hijo de Elcaná, que habitó en las aldeas de los netofatitas. (9:16).",
         "Los porteros: Salún, Acub, Talmón y Ajimán y sus parientes; Salún era el jefe. (9:17).",
         "Hasta ahora custodian la puerta del rey, que está al oriente, y han sido porteros de los campamentos levitas. (9:18).",
-        "Además, Salún, hijo de Coré, hijo de Ebiasaf, hijo de Corah, y sus parientes coreítas de la misma familia patriarcal estaban encargados de custodiar la entrada de la Tienda, tal como sus antepasados habían custodiado la entrada del campamento del SEÑOR. (9:19).",
-        "En el pasado, Finés, hijo de Eleazar, fue el oficial a cargo de ellos, y el SEÑOR estuvo con él. (9:20).",
+        "Además, Salún, hijo de Coré, hijo de Ebiasaf, hijo de Corah, y sus parientes coreítas de la misma familia patriarcal estaban encargados de custodiar la entrada de la Tienda, tal como sus antepasados habían custodiado la entrada del campamento del [DN]Señor[/DN]. (9:19).",
+        "En el pasado, Finés, hijo de Eleazar, fue el oficial a cargo de ellos, y el [DN]Señor[/DN] estuvo con él. (9:20).",
         "Zacarías, hijo de Meselemías, era el portero de la Tienda de reunión. (9:21).",
         "Los escogidos como porteros fueron un total de doscientos doce. En sus aldeas se encuentran sus registros genealógicos. David y Samuel, el vidente, asignaron sus funciones. (9:22).",
-        "Los porteros y sus hijos estaban encargados de custodiar la entrada de la Tienda que se usaba como templo del SEÑOR. (9:23).",
+        "Los porteros y sus hijos estaban encargados de custodiar la entrada de la Tienda que se usaba como templo del [DN]Señor[/DN]. (9:23).",
         "Había porteros en los cuatro puntos cardinales. (9:24).",
         "Cada siete días, sus parientes que vivían en las aldeas se turnaban para ayudarlos. (9:25).",
         "Los cuatro porteros principales estaban en servicio permanente. Eran levitas y custodiaban las salas y los tesoros del templo de Dios. (9:26).",
@@ -928,12 +936,12 @@
       "keyTakeaway": "Después del exilio en Babilonia, israelitas vuelven a establecerse en sus ciudades; el pasaje enumera genealogías y deberes de quienes de Judá, Benjamín, los sacerdotes, levitas y porteros regresaron a Jerusalén, junto con descendientes de la familia de Saúl que vivían en Gabaón.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Los que regresaron de Babilonia"
+          "beforeVerse": 2,
+          "text": "Los que regresaron a Jerusalén"
         },
         {
           "beforeVerse": 35,
-          "text": "Genealogía de Saúl"
+          "text": "La genealogía de Saúl"
         }
       ]
     },
@@ -956,8 +964,8 @@
         "Después colocaron sus armas en el templo de sus dioses y colgaron la cabeza en el templo de Dagón. (10:10).",
         "Cuando los de Jabés de Galaad se enteraron de lo que habían hecho los filisteos con Saúl, (10:11).",
         "se levantaron todos los valientes y rescataron los cuerpos de Saúl y de sus hijos. Los llevaron a Jabés, sepultaron sus huesos debajo de la encina de Jabés y guardaron siete días de ayuno. (10:12).",
-        "Saúl murió por haberse rebelado contra el SEÑOR, pues desobedeció su palabra y buscó el consejo de una médium, (10:13).",
-        "en vez de consultar al SEÑOR. Por eso el SEÑOR le quitó la vida y entregó el reino a David, hijo de Isaí. (10:14)."
+        "Saúl murió por haberse rebelado contra el [DN]Señor[/DN], pues desobedeció su palabra y buscó el consejo de una médium, (10:13).",
+        "en vez de consultar al [DN]Señor[/DN]. Por eso el [DN]Señor[/DN] le quitó la vida y entregó el reino a David, hijo de Isaí. (10:14)."
       ],
       "crossRefs": [
         "1 Samuel 31: Relato paralelo de la muerte de Saúl.",
@@ -997,7 +1005,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Muerte de Saúl y de sus hijos"
+          "text": "La muerte de Saúl"
         }
       ]
     },
@@ -1009,23 +1017,23 @@
       ],
       "summaryBullets": [
         "Todos los israelitas se reunieron con David en Hebrón y le dijeron: «Usted y nosotros somos de la misma sangre. (11:1).",
-        "Ya desde antes, cuando Saúl era rey, usted dirigía a Israel en sus campañas. Además, el SEÑOR su Dios le dijo a usted: “Tú pastorearás a mi pueblo Israel y lo gobernarás”». (11:2).",
-        "Así pues, todos los jefes de Israel fueron a Hebrón para hablar con el rey David. Allí el rey hizo un pacto con ellos en presencia del SEÑOR. Después de eso, ungieron a David para que fuera rey sobre Israel, conforme a lo que el SEÑOR había dicho por medio de Samuel. (11:3).",
+        "Ya desde antes, cuando Saúl era rey, usted dirigía a Israel en sus campañas. Además, el [DN]Señor[/DN] su Dios le dijo a usted: “Tú pastorearás a mi pueblo Israel y lo gobernarás”». (11:2).",
+        "Así pues, todos los jefes de Israel fueron a Hebrón para hablar con el rey David. Allí el rey hizo un pacto con ellos en presencia del [DN]Señor[/DN]. Después de eso, ungieron a David para que fuera rey sobre Israel, conforme a lo que el [DN]Señor[/DN] había dicho por medio de Samuel. (11:3).",
         "David y todos los israelitas marcharon contra Jerusalén (que es Jebús), la cual estaba habitada por los jebuseos. (11:4).",
         "Estos le dijeron a David: «¡Aquí no entrarás!». Pero David se apoderó de la fortaleza de Sion, que también se conoce como la Ciudad de David. (11:5).",
         "Y es que había prometido: «Al primero que mate a un jebuseo lo nombraré comandante en jefe». El primero en matar a un jebuseo fue Joab, hijo de Sarvia, por lo cual fue nombrado jefe. (11:6).",
         "David se estableció en la fortaleza y por eso la llamó Ciudad de David. (11:7).",
         "Luego construyó la ciudad alrededor, desde el terraplén hasta sus alrededores, y Joab reparó el resto de la ciudad. (11:8).",
-        "Y David se fortaleció más y más, porque el SEÑOR de los Ejércitos estaba con él. (11:9).",
-        "Estos fueron los jefes del ejército de David, quienes lo apoyaron durante su reinado y se unieron a todos los israelitas para proclamarlo rey, conforme a lo que el SEÑOR dijo acerca de Israel. (11:10).",
+        "Y David se fortaleció más y más, porque el [DN]Señor[/DN] de los Ejércitos estaba con él. (11:9).",
+        "Estos fueron los jefes del ejército de David, quienes lo apoyaron durante su reinado y se unieron a todos los israelitas para proclamarlo rey, conforme a lo que el [DN]Señor[/DN] dijo acerca de Israel. (11:10).",
         "Esta es la lista de los soldados más valientes de David: Yasobeán, hijo de Jacmoní, que era el principal de los tres más famosos, en una batalla mató con su lanza a trescientos hombres. (11:11).",
         "En segundo lugar estaba Eleazar, hijo de Dodó, el ajojita, que también era uno de los tres más famosos. (11:12).",
         "Estuvo con David en Pasdamín, donde los filisteos se habían concentrado para la batalla. Allí había un campo sembrado de cebada y, cuando el ejército huía ante los filisteos, (11:13).",
-        "los oficiales se plantaron en medio del campo y lo defendieron, derrotando a los filisteos. Así el SEÑOR los salvó y les dio una gran victoria. (11:14).",
+        "los oficiales se plantaron en medio del campo y lo defendieron, derrotando a los filisteos. Así el [DN]Señor[/DN] los salvó y les dio una gran victoria. (11:14).",
         "En otra ocasión, tres de los treinta más valientes fueron a la roca, hasta la cueva de Adulán, donde estaba David; y el ejército filisteo acampaba en el valle de Refayin. (11:15).",
         "David se encontraba en su fortaleza. En ese tiempo había una guarnición filistea en Belén. (11:16).",
         "Como David tenía mucha sed, exclamó: «¡Ojalá pudiera yo beber agua del pozo que está a la entrada de Belén!». (11:17).",
-        "Entonces los tres valientes se metieron en el campamento filisteo, sacaron agua del pozo de Belén y se la llevaron a David. Pero él no quiso beberla, sino que derramó el agua en honor al SEÑOR (11:18).",
+        "Entonces los tres valientes se metieron en el campamento filisteo, sacaron agua del pozo de Belén y se la llevaron a David. Pero él no quiso beberla, sino que derramó el agua en honor al [DN]Señor[/DN] (11:18).",
         "y declaró solemnemente: «¡Que Dios me libre de beberla! ¡Eso sería como beber la sangre de hombres que han puesto su vida en peligro! ¡Se jugaron la vida para traer el agua!». Y no quiso beberla. Tales hazañas hicieron estos tres héroes. (11:19).",
         "Abisay, el hermano de Joab, estaba al mando de los tres y ganó fama entre ellos. En cierta ocasión, lanza en mano atacó y mató a trescientos hombres. (11:20).",
         "Se destacó mucho más que los tres valientes y llegó a ser su comandante, pero no fue contado entre ellos. (11:21).",
@@ -1094,15 +1102,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David es proclamado rey de Israel"
+          "text": "La proclamación de David como rey de Israel"
         },
         {
           "beforeVerse": 4,
-          "text": "David toma la fortaleza de Sion"
+          "text": "David conquista Jerusalén"
         },
         {
           "beforeVerse": 10,
-          "text": "Los valientes de David"
+          "text": "Los jefes del ejército de David"
         }
       ]
     },
@@ -1135,7 +1143,7 @@
         "Estos fueron los manasesitas que se unieron a David cuando este fue a Siclag: Adná, Jozabad, Jediael, Micael, Jozabad, Eliú y Ziletay, jefes manasesitas de escuadrones de mil hombres. (12:20).",
         "Ayudaban a David a combatir a las bandas de invasores, pues cada uno de ellos era un guerrero valiente y comandante del ejército. (12:21).",
         "Y cada día se le unían más soldados a David, hasta que llegó a tener un ejército grande, como un ejército de Dios. (12:22).",
-        "Este es el número de los guerreros diestros para la guerra que se presentaron ante David en Hebrón, para entregarle el reino de Saúl, conforme a la palabra del SEÑOR: (12:23).",
+        "Este es el número de los guerreros diestros para la guerra que se presentaron ante David en Hebrón, para entregarle el reino de Saúl, conforme a la palabra del [DN]Señor[/DN]: (12:23).",
         "De Judá: seis mil ochocientos hombres armados de lanza y escudo, diestros para la guerra. (12:24).",
         "De Simeón: siete mil cien guerreros valientes. (12:25).",
         "Cuatro mil seiscientos de Leví (12:26).",
@@ -1187,7 +1195,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "El ejército de David"
+          "text": "Los guerreros que se unieron a David"
+        },
+        {
+          "beforeVerse": 23,
+          "text": "Los que se unieron a David en Hebrón"
         }
       ]
     },
@@ -1199,19 +1211,19 @@
       ],
       "summaryBullets": [
         "Después de consultar a los comandantes de mil y de cien soldados, así como a todos los oficiales, David (13:1).",
-        "dijo a la asamblea de Israel: «Si les parece bien y si es lo que el SEÑOR nuestro Dios desea, enviemos mensajeros a todas partes para llamar a nuestros hermanos que se han quedado en el territorio de Israel. También llamemos a los sacerdotes y levitas que están en los pueblos y aldeas, a que se unan a nosotros (13:2).",
+        "dijo a la asamblea de Israel: «Si les parece bien y si es lo que el [DN]Señor[/DN] nuestro Dios desea, enviemos mensajeros a todas partes para llamar a nuestros hermanos que se han quedado en el territorio de Israel. También llamemos a los sacerdotes y levitas que están en los pueblos y aldeas, a que se unan a nosotros (13:2).",
         "para traer de regreso el arca de nuestro Dios. La verdad es que desde el tiempo de Saúl no la buscamos». (13:3).",
         "A la asamblea le agradó la propuesta y acordó que se hiciera así. (13:4).",
         "Entonces David reunió a todo el pueblo de Israel, desde Sijor en Egipto hasta Lebó Jamat, para trasladar el arca que estaba en Quiriat Yearín. (13:5).",
-        "Luego David y todo Israel fueron a Balá, que es Quiriat Yearín de Judá, para trasladar de allí el arca de Dios el SEÑOR, que reina entre los querubines —el arca sobre la cual se invoca su Nombre. (13:6).",
+        "Luego David y todo Israel fueron a Balá, que es Quiriat Yearín de Judá, para trasladar de allí el arca de Dios el [DN]Señor[/DN], que reina entre los querubines —el arca sobre la cual se invoca su Nombre. (13:6).",
         "Colocaron el arca de Dios en una carreta nueva y la sacaron de la casa de Abinadab. Uza y Ajío guiaban la carreta. (13:7).",
         "David y todo Israel danzaban ante Dios con gran entusiasmo y cantaban al son de arpas, liras, panderos, címbalos y trompetas. (13:8).",
         "Al llegar al campo de Quidón, los bueyes tropezaron, pero Uza extendió su mano y sostuvo el arca. (13:9).",
-        "Entonces la ira del SEÑOR se encendió contra Uza por haber tocado el arca, y lo hirió de muerte, de modo que Uza murió delante de Dios. (13:10).",
-        "David se enojó porque el SEÑOR había matado a Uza, así que llamó a aquel lugar Peres Uza, nombre que conserva hasta el día de hoy. (13:11).",
+        "Entonces la ira del [DN]Señor[/DN] se encendió contra Uza por haber tocado el arca, y lo hirió de muerte, de modo que Uza murió delante de Dios. (13:10).",
+        "David se enojó porque el [DN]Señor[/DN] había matado a Uza, así que llamó a aquel lugar Peres Uza, nombre que conserva hasta el día de hoy. (13:11).",
         "Aquel día David se sintió temeroso de Dios y exclamó: «¿Cómo me llevaré el arca de Dios?». (13:12).",
         "Por eso no se la llevó a la Ciudad de David, sino que ordenó que la trasladaran a la casa de Obed Edom, oriundo de Gat. (13:13).",
-        "Fue así como el arca de Dios permaneció tres meses en la casa de Obed Edom, y el SEÑOR bendijo a la familia de Obed Edom y todo lo que tenía. (13:14)."
+        "Fue así como el arca de Dios permaneció tres meses en la casa de Obed Edom, y el [DN]Señor[/DN] bendijo a la familia de Obed Edom y todo lo que tenía. (13:14)."
       ],
       "crossRefs": [
         "2 Samuel 6:1-11: La misma procesión desde Baala de Judá, la muerte de Uzá y los tres meses en casa de Obed-edom.",
@@ -1246,11 +1258,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David propone trasladar el arca a Jerusalén"
-        },
-        {
-          "beforeVerse": 5,
-          "text": "David intenta traer el arca"
+          "text": "El traslado del arca a la casa de Obed Edom"
         }
       ]
     },
@@ -1262,7 +1270,7 @@
       ],
       "summaryBullets": [
         "Hiram, rey de Tiro, le envió mensajeros a David, y también madera de cedro, canteros y carpinteros, para construirle un palacio. (14:1).",
-        "Con esto David se dio cuenta de que el SEÑOR, por amor a su pueblo, lo había establecido a él como rey sobre Israel y había engrandecido su reino. (14:2).",
+        "Con esto David se dio cuenta de que el [DN]Señor[/DN], por amor a su pueblo, lo había establecido a él como rey sobre Israel y había engrandecido su reino. (14:2).",
         "En Jerusalén David tomó otras esposas y tuvo más hijos e hijas. (14:3).",
         "Los hijos que tuvo allí fueron: Samúa, Sobab, Natán, Salomón, (14:4).",
         "Ibjar, Elisúa, Elpélet, (14:5).",
@@ -1270,14 +1278,14 @@
         "Elisama, Belyadá y Elifelet. (14:7).",
         "Al enterarse los filisteos de que David había sido ungido rey de todo Israel, subieron todos ellos contra él. Pero David lo supo y salió a su encuentro. (14:8).",
         "Los filisteos habían avanzado e invadido el valle de Refayin. (14:9).",
-        "Así que David consultó a Dios: ―¿Debo atacar a los filisteos? ¿Los entregarás en mi poder? ―Atácalos —le respondió el SEÑOR—, pues yo los entregaré en tus manos. (14:10).",
+        "Así que David consultó a Dios: ―¿Debo atacar a los filisteos? ¿Los entregarás en mi poder? ―Atácalos —le respondió el [DN]Señor[/DN]—, pues yo los entregaré en tus manos. (14:10).",
         "Entonces fueron a Baal Perasín y allí David los derrotó. Y dijo: «Como se abren brechas en el agua, así Dios ha abierto brechas entre mis enemigos por medio de mí». Por eso a aquel lugar lo llamaron Baal Perasín. (14:11).",
         "Allí los filisteos abandonaron a sus dioses y estos fueron quemados por orden de David. (14:12).",
         "Pero los filisteos volvieron a invadir el valle. (14:13).",
         "Así que David volvió a consultar a Dios y este respondió: ―No los ataques de frente, sino rodéalos hasta llegar a los árboles de bálsamo y entonces atácalos por la retaguardia. (14:14).",
         "Tan pronto como oigas un ruido como de pasos sobre las copas de los árboles, atácalos, pues eso quiere decir que Dios va al frente de ti para derrotar al ejército filisteo. (14:15).",
         "Así lo hizo David, tal como Dios se lo había ordenado, y derrotaron al ejército filisteo desde Gabaón hasta Guézer. (14:16).",
-        "La fama de David se extendió por todas las regiones, y el SEÑOR hizo que todos los pueblos le tuvieran miedo. (14:17)."
+        "La fama de David se extendió por todas las regiones, y el [DN]Señor[/DN] hizo que todos los pueblos le tuvieran miedo. (14:17)."
       ],
       "crossRefs": [
         "2 Samuel 5:11-25: El mismo palacio construido por Tiro, los mismos hijos nacidos en Jerusalén y las mismas dos batallas contra los filisteos.",
@@ -1312,11 +1320,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Hiram envía embajadores a David"
-        },
-        {
-          "beforeVerse": 3,
-          "text": "Hijos de David nacidos en Jerusalén"
+          "text": "El palacio y la familia de David"
         },
         {
           "beforeVerse": 8,
@@ -1332,8 +1336,8 @@
       ],
       "summaryBullets": [
         "David construyó para sí casas en la Ciudad de David, dispuso un lugar para el arca de Dios y levantó una tienda para ella. (15:1).",
-        "Luego dijo: «Solo los levitas pueden transportar el arca de Dios, pues el SEÑOR los eligió a ellos para este oficio y para que le sirvan por siempre». (15:2).",
-        "Después David congregó a todo Israel en Jerusalén para trasladar el arca del SEÑOR al lugar que había dispuesto para ella. (15:3).",
+        "Luego dijo: «Solo los levitas pueden transportar el arca de Dios, pues el [DN]Señor[/DN] los eligió a ellos para este oficio y para que le sirvan por siempre». (15:2).",
+        "Después David congregó a todo Israel en Jerusalén para trasladar el arca del [DN]Señor[/DN] al lugar que había dispuesto para ella. (15:3).",
         "También reunió a los descendientes de Aarón y a los levitas. Convocó a los siguientes: (15:4).",
         "De los descendientes de Coat, a su líder Uriel y a sus parientes; ciento veinte en total. (15:5).",
         "De los descendientes de Merari, a su líder Asaías y a sus compañeros; doscientos veinte en total. (15:6).",
@@ -1342,10 +1346,10 @@
         "De los descendientes de Hebrón, a su líder Eliel y a sus parientes; ochenta en total. (15:9).",
         "De los descendientes de Uziel, a su líder Aminadab y a sus parientes; ciento doce en total. (15:10).",
         "Luego David llamó a los sacerdotes Sadoc y Abiatar; también a los levitas Uriel, Asaías, Joel, Semaías, Eliel y Aminadab. (15:11).",
-        "Y les dijo: «Como ustedes son los jefes de las familias patriarcales de los levitas, conságrense, tanto ustedes como sus parientes, para que puedan traer el arca del SEÑOR, Dios de Israel, al lugar que he dispuesto para ella. (15:12).",
-        "La primera vez ustedes no la transportaron ni nosotros consultamos al SEÑOR nuestro Dios sobre cómo hacerlo; por eso él se enfureció contra nosotros». (15:13).",
-        "Entonces los sacerdotes y los levitas se consagraron para transportar el arca del SEÑOR, Dios de Israel. (15:14).",
-        "Luego los descendientes de los levitas, valiéndose de las varas, llevaron el arca de Dios sobre sus hombros, tal como el SEÑOR lo había ordenado por medio de Moisés. (15:15).",
+        "Y les dijo: «Como ustedes son los jefes de las familias patriarcales de los levitas, conságrense, tanto ustedes como sus parientes, para que puedan traer el arca del [DN]Señor[/DN], Dios de Israel, al lugar que he dispuesto para ella. (15:12).",
+        "La primera vez ustedes no la transportaron ni nosotros consultamos al [DN]Señor[/DN] nuestro Dios sobre cómo hacerlo; por eso él se enfureció contra nosotros». (15:13).",
+        "Entonces los sacerdotes y los levitas se consagraron para transportar el arca del [DN]Señor[/DN], Dios de Israel. (15:14).",
+        "Luego los descendientes de los levitas, valiéndose de las varas, llevaron el arca de Dios sobre sus hombros, tal como el [DN]Señor[/DN] lo había ordenado por medio de Moisés. (15:15).",
         "David les ordenó a los líderes de los levitas que nombraran cantores de entre sus parientes para que entonaran alegres cantos al son de liras, arpas y címbalos. (15:16).",
         "Los levitas nombraron a Hemán, hijo de Joel, a su pariente Asaf, hijo de Berequías, y a Etán, hijo de Cusaías, de los descendientes de Merari. (15:17).",
         "Junto con ellos nombraron a sus parientes que les seguían en rango y que se desempeñaban como porteros: Zacarías, hijo de Jaziel, Semiramot, Jehiel, Uni, Eliab, Benaías, Maseías, Matatías, Elifeleu, Micnías, Obed Edom y Jeyel. (15:18).",
@@ -1355,11 +1359,11 @@
         "Quenanías, líder de los levitas, como experto que era, dirigía el canto. (15:22).",
         "Berequías y Elcaná eran porteros del arca. (15:23).",
         "Los sacerdotes Sebanías, Josafat, Natanael, Amasay, Zacarías, Benaías y Eliezer tocaban las trompetas delante del arca. Obed Edom y Jehías eran también porteros del arca. (15:24).",
-        "David, los jefes de Israel y los comandantes de mil, en medio de gran algarabía, fueron a trasladar el arca del pacto del SEÑOR desde la casa de Obed Edom. (15:25).",
-        "Y, como Dios ayudaba a los levitas que transportaban el arca del pacto del SEÑOR, se sacrificaron siete novillos y siete carneros. (15:26).",
+        "David, los jefes de Israel y los comandantes de mil, en medio de gran algarabía, fueron a trasladar el arca del pacto del [DN]Señor[/DN] desde la casa de Obed Edom. (15:25).",
+        "Y, como Dios ayudaba a los levitas que transportaban el arca del pacto del [DN]Señor[/DN], se sacrificaron siete novillos y siete carneros. (15:26).",
         "David estaba vestido con un manto de tela de lino fino, lo mismo que todos los levitas que transportaban el arca, los cantores y Quenanías, director del canto. Además, David llevaba puesto un efod de tela de lino. (15:27).",
-        "Así que entre vítores y al son de trompetas, clarines, címbalos, liras y arpas, todo Israel llevaba el arca del pacto del SEÑOR. (15:28).",
-        "Sucedió que, al entrar el arca del pacto del SEÑOR a la Ciudad de David, la hija de Saúl, Mical, se asomó a la ventana y, cuando vio que el rey David saltaba y danzaba con alegría, sintió por él un profundo desprecio. (15:29)."
+        "Así que entre vítores y al son de trompetas, clarines, címbalos, liras y arpas, todo Israel llevaba el arca del pacto del [DN]Señor[/DN]. (15:28).",
+        "Sucedió que, al entrar el arca del pacto del [DN]Señor[/DN] a la Ciudad de David, la hija de Saúl, Mical, se asomó a la ventana y, cuando vio que el rey David saltaba y danzaba con alegría, sintió por él un profundo desprecio. (15:29)."
       ],
       "crossRefs": [
         "Deuteronomio 10:8: El SEÑOR aparta a Leví para llevar el arca del pacto, estar delante de él para servirle y bendecir en su nombre.",
@@ -1399,7 +1403,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David trae el arca a Jerusalén"
+          "text": "David lleva el arca a Jerusalén"
         }
       ]
     },
@@ -1411,19 +1415,19 @@
       ],
       "summaryBullets": [
         "El arca de Dios fue llevada a la tienda que David le había preparado. Allí la instalaron, y luego presentaron holocaustos y sacrificios de comunión en presencia de Dios. (16:1).",
-        "Después de ofrecer los holocaustos y los sacrificios de comunión, David bendijo al pueblo en el nombre del SEÑOR (16:2).",
+        "Después de ofrecer los holocaustos y los sacrificios de comunión, David bendijo al pueblo en el nombre del [DN]Señor[/DN] (16:2).",
         "y dio a cada israelita, tanto a hombres como a mujeres, una porción de pan, una torta de dátiles y una torta de pasas. (16:3).",
-        "David puso a algunos levitas a cargo del arca del SEÑOR para que ministraran, dieran gracias y alabaran al SEÑOR, Dios de Israel. (16:4).",
+        "David puso a algunos levitas a cargo del arca del [DN]Señor[/DN] para que ministraran, dieran gracias y alabaran al [DN]Señor[/DN], Dios de Israel. (16:4).",
         "Los nombrados fueron Asaf, el primero; Zacarías, el segundo; luego Jeiel, Semiramot, Jehiel, Matatías, Eliab, Benaías, Obed Edom y Jeiel, los cuales tenían liras y arpas. Asaf tocaba los címbalos. (16:5).",
         "Los sacerdotes Benaías y Jahaziel tocaban continuamente las trompetas delante del arca del pacto de Dios. (16:6).",
-        "Ese mismo día, David ordenó, por primera vez, que Asaf y sus compañeros fueran los encargados de esta alabanza al SEÑOR: (16:7).",
-        "«Den gracias al SEÑOR; proclamen su nombre. ¡Den a conocer sus obras entre las naciones! (16:8).",
+        "Ese mismo día, David ordenó, por primera vez, que Asaf y sus compañeros fueran los encargados de esta alabanza al [DN]Señor[/DN]: (16:7).",
+        "«Den gracias al [DN]Señor[/DN]; proclamen su nombre. ¡Den a conocer sus obras entre las naciones! (16:8).",
         "¡Cántenle, entónenle salmos! ¡Hablen de todas sus maravillas! (16:9).",
-        "¡Gloríense en su santo nombre! ¡Alégrese el corazón de los que buscan al SEÑOR! (16:10).",
-        "¡Busquen al SEÑOR y su fuerza; anhelen siempre su rostro! (16:11).",
+        "¡Gloríense en su santo nombre! ¡Alégrese el corazón de los que buscan al [DN]Señor[/DN]! (16:10).",
+        "¡Busquen al [DN]Señor[/DN] y su fuerza; anhelen siempre su rostro! (16:11).",
         "»¡Recuerden las maravillas que ha hecho, las señales y las leyes que ha emitido, (16:12).",
         "ustedes, descendientes de Israel, su siervo; ustedes, hijos de Jacob, elegidos suyos! (16:13).",
-        "Él es el SEÑOR nuestro Dios; en toda la tierra están sus leyes. (16:14).",
+        "Él es el [DN]Señor[/DN] nuestro Dios; en toda la tierra están sus leyes. (16:14).",
         "»Se acordó siempre de su pacto, la palabra que ordenó para mil generaciones; (16:15).",
         "del pacto que hizo con Abraham y del juramento que le hizo a Isaac. (16:16).",
         "Se lo confirmó a Jacob como un estatuto, a Israel como un pacto eterno, (16:17).",
@@ -1432,25 +1436,25 @@
         "que andaban siempre de nación en nación y de reino en reino, (16:20).",
         "a nadie permitió que los oprimiera, sino que por causa de ellos reprendió a los reyes: (16:21).",
         "“¡No toquen a mis ungidos! ¡No maltraten a mis profetas!”. (16:22).",
-        "»¡Canten al SEÑOR, habitantes de toda la tierra! ¡Proclamen día tras día su salvación! (16:23).",
+        "»¡Canten al [DN]Señor[/DN], habitantes de toda la tierra! ¡Proclamen día tras día su salvación! (16:23).",
         "Anuncien su gloria entre las naciones, sus maravillas a todos los pueblos. (16:24).",
-        "»¡Grande es el SEÑOR y digno de alabanza, más temible que todos los dioses! (16:25).",
-        "Todos los dioses de las naciones son ídolos, pero el SEÑOR ha hecho los cielos. (16:26).",
+        "»¡Grande es el [DN]Señor[/DN] y digno de alabanza, más temible que todos los dioses! (16:25).",
+        "Todos los dioses de las naciones son ídolos, pero el [DN]Señor[/DN] ha hecho los cielos. (16:26).",
         "El esplendor y la majestad son sus heraldos; hay poder y alegría en su morada. (16:27).",
-        "»¡Tributen al SEÑOR, pueblos todos! ¡Tributen al SEÑOR la gloria y el poder! (16:28).",
-        "¡Tributen al SEÑOR la gloria que merece su nombre! ¡Preséntense ante él con ofrendas; póstrense ante el SEÑOR en la hermosura de su santidad! (16:29).",
+        "»¡Tributen al [DN]Señor[/DN], pueblos todos! ¡Tributen al [DN]Señor[/DN] la gloria y el poder! (16:28).",
+        "¡Tributen al [DN]Señor[/DN] la gloria que merece su nombre! ¡Preséntense ante él con ofrendas; póstrense ante el [DN]Señor[/DN] en la hermosura de su santidad! (16:29).",
         "¡Tiemble delante de él toda la tierra! Ha establecido el mundo con firmeza; jamás será removido. (16:30).",
-        "»¡Alégrense los cielos, regocíjese la tierra! Digan las naciones: “¡El SEÑOR es Rey!”. (16:31).",
+        "»¡Alégrense los cielos, regocíjese la tierra! Digan las naciones: “¡El [DN]Señor[/DN] es Rey!”. (16:31).",
         "¡Brame el mar y todo lo que él contiene! ¡Que salte de alegría el campo y lo que hay en él! (16:32).",
-        "¡Que los árboles del campo canten de gozo ante el SEÑOR! ¡Ya viene a juzgar la tierra! (16:33).",
-        "»Den gracias al SEÑOR porque él es bueno; su gran amor perdura para siempre. (16:34).",
+        "¡Que los árboles del campo canten de gozo ante el [DN]Señor[/DN]! ¡Ya viene a juzgar la tierra! (16:33).",
+        "»Den gracias al [DN]Señor[/DN] porque él es bueno; su gran amor perdura para siempre. (16:34).",
         "Díganle: “¡Sálvanos, oh Dios de nuestra salvación! Vuelve a reunirnos y líbranos de las naciones, para que demos gracias a tu santo nombre y alabarte sea nuestra gloria”. (16:35).",
-        "¡Bendito sea el SEÑOR, el Dios de Israel, eternamente y para siempre!». Y todo el pueblo dijo: «¡Amén!», y «¡Alabado sea el SEÑOR!». (16:36).",
-        "David dejó el arca del pacto del SEÑOR al cuidado de Asaf y sus hermanos, para que sirvieran continuamente delante de ella, de acuerdo con el ritual diario. (16:37).",
+        "¡Bendito sea el [DN]Señor[/DN], el Dios de Israel, eternamente y para siempre!». Y todo el pueblo dijo: «¡Amén!», y «¡Alabado sea el [DN]Señor[/DN]!». (16:36).",
+        "David dejó el arca del pacto del [DN]Señor[/DN] al cuidado de Asaf y sus hermanos, para que sirvieran continuamente delante de ella, de acuerdo con el ritual diario. (16:37).",
         "Como porteros nombró a Obed Edom y a sus sesenta y ocho hermanos, junto con Obed Edom, hijo de Jedutún, y Josá. (16:38).",
-        "Al sacerdote Sadoc y a sus hermanos sacerdotes los encargó del santuario del SEÑOR, que está en la cumbre de Gabaón, (16:39).",
-        "para que sobre el altar ofrecieran constantemente los holocaustos al SEÑOR, en la mañana y en la tarde, tal como está escrito en la Ley que el SEÑOR le había ordenado a Israel. (16:40).",
-        "Con ellos nombró a Hemán y a Jedutún; también a los demás que había escogido y designado por nombre para alabar al SEÑOR: «Su gran amor perdura para siempre». (16:41).",
+        "Al sacerdote Sadoc y a sus hermanos sacerdotes los encargó del santuario del [DN]Señor[/DN], que está en la cumbre de Gabaón, (16:39).",
+        "para que sobre el altar ofrecieran constantemente los holocaustos al [DN]Señor[/DN], en la mañana y en la tarde, tal como está escrito en la Ley que el [DN]Señor[/DN] le había ordenado a Israel. (16:40).",
+        "Con ellos nombró a Hemán y a Jedutún; también a los demás que había escogido y designado por nombre para alabar al [DN]Señor[/DN]: «Su gran amor perdura para siempre». (16:41).",
         "Hemán y Jedutún tenían trompetas, címbalos y otros instrumentos musicales para acompañar los cantos de Dios. Los hijos de Jedutún eran porteros. (16:42).",
         "Luego todos regresaron a su casa y David se fue a bendecir a su familia. (16:43)."
       ],
@@ -1487,11 +1491,7 @@
       "headings": [
         {
           "beforeVerse": 7,
-          "text": "Salmo de acción de gracias de David"
-        },
-        {
-          "beforeVerse": 37,
-          "text": "Los levitas encargados del arca"
+          "text": "Salmo de David"
         }
       ]
     },
@@ -1502,33 +1502,33 @@
         "1 Chronicles 17:1-27"
       ],
       "summaryBullets": [
-        "Una vez instalado en su palacio, David le dijo al profeta Natán: ―Aquí me tienes, habitando un palacio de cedro, mientras que el arca del pacto del SEÑOR se encuentra bajo una tienda. (17:1).",
+        "Una vez instalado en su palacio, David le dijo al profeta Natán: ―Aquí me tienes, habitando un palacio de cedro, mientras que el arca del pacto del [DN]Señor[/DN] se encuentra bajo una tienda. (17:1).",
         "―Bien —respondió Natán—. Haga usted lo que su corazón le dicte, pues Dios está con usted. (17:2).",
         "Pero aquella misma noche la palabra de Dios vino a Natán y le dijo: (17:3).",
-        "«Ve y dile a mi siervo David que así dice el SEÑOR: “No serás tú quien me construya una casa para que yo la habite. (17:4).",
+        "«Ve y dile a mi siervo David que así dice el [DN]Señor[/DN]: “No serás tú quien me construya una casa para que yo la habite. (17:4).",
         "Desde el día en que liberé a Israel hasta el día de hoy, no he habitado en casa alguna, sino que he ido de campamento en campamento y de tienda en tienda. (17:5).",
         "Todo el tiempo que anduve con Israel, ¿acaso le reclamé a alguno de los líderes, a los que ordené pastorear a mi pueblo, el no haberme construido una casa de cedro?”. (17:6).",
-        "»Pues bien, dile a mi siervo David que así dice el SEÑOR de los Ejércitos: “Yo te saqué del redil para que, en vez de cuidar ovejas, gobernaras a mi pueblo Israel. (17:7).",
+        "»Pues bien, dile a mi siervo David que así dice el [DN]Señor[/DN] de los Ejércitos: “Yo te saqué del redil para que, en vez de cuidar ovejas, gobernaras a mi pueblo Israel. (17:7).",
         "Yo he estado contigo por dondequiera que has ido y he aniquilado a todos tus enemigos. Y ahora voy a hacerte tan famoso como los más grandes de la tierra. (17:8).",
         "También voy a designar un lugar para mi pueblo Israel, y allí los plantaré para que puedan vivir sin sobresaltos. Sus malvados enemigos no volverán a oprimirlos como lo han hecho desde el principio, (17:9).",
-        "desde los días en que nombré líderes sobre mi pueblo Israel. Yo derrotaré a todos tus enemigos. »”Además, te anuncio que yo, el SEÑOR, te edificaré una casa. (17:10).",
+        "desde los días en que nombré líderes sobre mi pueblo Israel. Yo derrotaré a todos tus enemigos. »”Además, te anuncio que yo, el [DN]Señor[/DN], te edificaré una casa. (17:10).",
         "Cuando tu vida llegue a su fin y vayas a reunirte con tus antepasados, yo pondré en el trono a uno de tus descendientes, a uno de tus hijos, y afirmaré su reino. (17:11).",
         "Será él quien construya una casa en mi honor, y yo afirmaré su trono para siempre. (17:12).",
         "Yo seré su Padre y él será mi hijo. Jamás le negaré mi amor, como se lo negué a quien reinó antes que tú. (17:13).",
         "Al contrario, para siempre lo estableceré sobre mi casa y mi reino, y su trono quedará establecido para siempre”». (17:14).",
         "Natán le comunicó todo esto a David, tal como lo había recibido por revelación. (17:15).",
-        "Luego el rey David se presentó ante el SEÑOR y le dijo: «SEÑOR y Dios, ¿quién soy yo y qué es mi familia para que me hayas hecho llegar tan lejos? (17:16).",
-        "Como si esto fuera poco, oh Dios, has hecho promesas a este tu siervo en cuanto al futuro de su casa. ¡Me has tratado como si fuera yo un hombre muy importante, SEÑOR y Dios! (17:17).",
+        "Luego el rey David se presentó ante el [DN]Señor[/DN] y le dijo: «[DN]Señor[/DN] y Dios, ¿quién soy yo y qué es mi familia para que me hayas hecho llegar tan lejos? (17:16).",
+        "Como si esto fuera poco, oh Dios, has hecho promesas a este tu siervo en cuanto al futuro de su casa. ¡Me has tratado como si fuera yo un hombre muy importante, [DN]Señor[/DN] y Dios! (17:17).",
         "»¿Qué más podría decir del honor que has dado a tu siervo, si tú me conoces? (17:18).",
-        "SEÑOR, tú has hecho todas estas grandes maravillas por amor a tu siervo, según tu voluntad, y las has dado a conocer. (17:19).",
-        "»SEÑOR, nosotros mismos hemos aprendido que no hay nadie como tú y que aparte de ti no hay Dios. (17:20).",
+        "[DN]Señor[/DN], tú has hecho todas estas grandes maravillas por amor a tu siervo, según tu voluntad, y las has dado a conocer. (17:19).",
+        "»[DN]Señor[/DN], nosotros mismos hemos aprendido que no hay nadie como tú y que aparte de ti no hay Dios. (17:20).",
         "¿Y qué nación se puede comparar con tu pueblo Israel? Es la única nación en la tierra que tú has redimido para hacerla tu propio pueblo y para dar a conocer tu nombre. Hiciste grandes y asombrosas maravillas cuando al paso de tu pueblo, al cual redimiste de Egipto, expulsaste a las naciones y a sus dioses. (17:21).",
-        "Adoptaste a Israel para que fuera tu pueblo para siempre y para que tú, SEÑOR, fueras su Dios. (17:22).",
-        "»Y ahora, SEÑOR, mantén para siempre la promesa que les has hecho a tu siervo y a su casa. Cumple tu palabra (17:23).",
-        "para que tu nombre permanezca y sea exaltado por siempre, para que todos digan: “¡El SEÑOR de los Ejércitos, el Dios de Israel, es Dios para Israel!”. Entonces la casa de tu siervo David quedará establecida en tu presencia. (17:24).",
+        "Adoptaste a Israel para que fuera tu pueblo para siempre y para que tú, [DN]Señor[/DN], fueras su Dios. (17:22).",
+        "»Y ahora, [DN]Señor[/DN], mantén para siempre la promesa que les has hecho a tu siervo y a su casa. Cumple tu palabra (17:23).",
+        "para que tu nombre permanezca y sea exaltado por siempre, para que todos digan: “¡El [DN]Señor[/DN] de los Ejércitos, el Dios de Israel, es Dios para Israel!”. Entonces la casa de tu siervo David quedará establecida en tu presencia. (17:24).",
         "»Tú, Dios mío, le has revelado a tu siervo el propósito de establecerle una casa, y por eso tu siervo se ha atrevido a hacerte esta súplica. (17:25).",
-        "¡Oh SEÑOR, tú eres Dios y has prometido tanta bondad a tu siervo! (17:26).",
-        "Te has dignado bendecir a la familia de tu siervo, de modo que bajo tu protección exista para siempre. Tú, SEÑOR, la has bendecido y por eso quedará bendita para siempre». (17:27)."
+        "¡Oh [DN]Señor[/DN], tú eres Dios y has prometido tanta bondad a tu siervo! (17:26).",
+        "Te has dignado bendecir a la familia de tu siervo, de modo que bajo tu protección exista para siempre. Tú, [DN]Señor[/DN], la has bendecido y por eso quedará bendita para siempre». (17:27)."
       ],
       "crossRefs": [
         "2 Samuel 7: Relato paralelo del pacto.",
@@ -1563,7 +1563,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Pacto de Dios con David"
+          "text": "La promesa de Dios a David"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "La oración de David"
         }
       ]
     },
@@ -1579,14 +1583,14 @@
         "Además, David derrotó a Hadad Ezer, rey de Sobá, en Jamat, cuando este se dirigía a establecer su dominio sobre la región del río Éufrates. (18:3).",
         "David capturó mil carros, siete mil jinetes y veinte mil soldados de infantería; también rompió las patas de los caballos de tiro, aunque dejó los caballos suficientes para cien carros. (18:4).",
         "Luego, cuando los arameos de Damasco acudieron en auxilio de Hadad Ezer, rey de Sobá, David aniquiló a veintidós mil de ellos. (18:5).",
-        "También puso guarniciones en Damasco, de modo que los arameos pasaron a ser vasallos tributarios de David. En todas las campañas de David, el SEÑOR le daba la victoria. (18:6).",
+        "También puso guarniciones en Damasco, de modo que los arameos pasaron a ser vasallos tributarios de David. En todas las campañas de David, el [DN]Señor[/DN] le daba la victoria. (18:6).",
         "En cuanto a los escudos de oro que llevaban los oficiales de Hadad Ezer, David se apropió de ellos y los trasladó a Jerusalén. (18:7).",
         "Así mismo se apoderó de una gran cantidad de bronce que había en las ciudades de Tébaj y de Cun, poblaciones de Hadad Ezer. Ese fue el bronce que Salomón usó para hacer la fuente, las columnas y todos los utensilios de bronce. (18:8).",
         "Tou, rey de Jamat, se enteró de que David había derrotado por completo al ejército de Hadad Ezer, rey de Sobá. (18:9).",
         "Como Tou también era enemigo de Hadad Ezer, envió a su hijo Hadorán a desearle bienestar al rey David y a felicitarlo por haber derrotado a Hadad Ezer en batalla. Y Tou envió toda clase de utensilios de oro, de plata y de bronce, (18:10).",
-        "los cuales el rey David consagró al SEÑOR, tal como lo había hecho con la plata y el oro que había tomado de todas estas naciones: Edom, Moab, Amón, Filistea y Amalec. (18:11).",
+        "los cuales el rey David consagró al [DN]Señor[/DN], tal como lo había hecho con la plata y el oro que había tomado de todas estas naciones: Edom, Moab, Amón, Filistea y Amalec. (18:11).",
         "Por su parte, Abisay, hijo de Sarvia, derrotó a los edomitas en el valle de la Sal, donde aniquiló a dieciocho mil edomitas. (18:12).",
-        "También puso guarniciones en Edom, de modo que los edomitas pasaron a ser vasallos tributarios de David. En todas sus campañas el SEÑOR le daba la victoria. (18:13).",
+        "También puso guarniciones en Edom, de modo que los edomitas pasaron a ser vasallos tributarios de David. En todas sus campañas el [DN]Señor[/DN] le daba la victoria. (18:13).",
         "David reinó sobre todo Israel, gobernando al pueblo entero con justicia y rectitud. (18:14).",
         "Joab, hijo de Sarvia, era general del ejército; Josafat, hijo de Ajilud, era el secretario; (18:15).",
         "Sadoc, hijo de Ajitob, y Ajimélec, hijo de Abiatar, eran sacerdotes; Savsa era el cronista; (18:16).",
@@ -1625,11 +1629,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David extiende sus dominios"
+          "text": "Las victorias de David"
         },
         {
           "beforeVerse": 14,
-          "text": "Oficiales de David"
+          "text": "Los oficiales de David"
         }
       ]
     },
@@ -1652,7 +1656,7 @@
         "Joab se vio amenazado por el frente y por la retaguardia, así que escogió a las mejores tropas israelitas para pelear contra los arameos. (19:10).",
         "El resto de las tropas las puso al mando de su hermano Abisay, para que enfrentaran a los amonitas. (19:11).",
         "A Abisay le ordenó: «Si los arameos pueden más que yo, tú vendrás a rescatarme; y, si los amonitas pueden más que tú, yo te rescataré. (19:12).",
-        "¡Ánimo! Luchemos con valor por nuestro pueblo y por las ciudades de nuestro Dios. ¡Y que el SEÑOR haga lo que bien le parezca!». (19:13).",
+        "¡Ánimo! Luchemos con valor por nuestro pueblo y por las ciudades de nuestro Dios. ¡Y que el [DN]Señor[/DN] haga lo que bien le parezca!». (19:13).",
         "Enseguida Joab y sus tropas avanzaron contra los arameos, y estos huyeron de él. (19:14).",
         "Al ver que los arameos se daban a la fuga, también los amonitas huyeron de Abisay y se refugiaron en la ciudad. Entonces Joab regresó a Jerusalén. (19:15).",
         "Los arameos, al verse derrotados por Israel, enviaron mensajeros para pedir ayuda a los arameos que estaban al otro lado del río Éufrates. Sofac, comandante del ejército de Hadad Ezer, tomó el mando. (19:16).",
@@ -1693,7 +1697,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Derrotas de amonitas y sirios"
+          "text": "David derrota a los amonitas"
         }
       ]
     },
@@ -1746,11 +1750,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David captura a Rabá"
+          "text": "La conquista de Rabá"
         },
         {
           "beforeVerse": 4,
-          "text": "Los hombres de David matan a los gigantes"
+          "text": "La guerra contra los filisteos"
         }
       ]
     },
@@ -1763,34 +1767,34 @@
       "summaryBullets": [
         "Satanás conspiró contra Israel e indujo a David a hacer un censo del pueblo. (21:1).",
         "Entonces David les dijo a Joab y a los comandantes del ejército: ―Vayan y hagan un censo militar que abarque desde Berseba hasta Dan, luego tráiganme el informe para que yo sepa cuántos pueden servir en el ejército. (21:2).",
-        "Joab le respondió: ―¡Que el SEÑOR multiplique cien veces las tropas! Pero ¿acaso no son todos ellos servidores suyos? ¿Para qué quiere hacer esto mi señor el rey? ¿Por qué ha de hacer algo que traiga un castigo sobre Israel? (21:3).",
+        "Joab le respondió: ―¡Que el [DN]Señor[/DN] multiplique cien veces las tropas! Pero ¿acaso no son todos ellos servidores suyos? ¿Para qué quiere hacer esto mi señor el rey? ¿Por qué ha de hacer algo que traiga un castigo sobre Israel? (21:3).",
         "Sin embargo, la orden del rey prevaleció sobre la opinión de Joab, de modo que este salió a recorrer todo el territorio de Israel. Después regresó a Jerusalén (21:4).",
         "y le entregó a David los resultados del censo militar: en todo Israel había un millón cien mil que podían servir en el ejército, y en Judá, cuatrocientos setenta mil. (21:5).",
         "Pero Joab no contó a los de las tribus de Leví ni de Benjamín, porque para él era detestable la orden del rey. (21:6).",
         "Dios también la consideró como algo malo, por lo cual castigó a Israel. (21:7).",
         "Entonces David le dijo a Dios: «He cometido un pecado muy grande al hacer este censo. He actuado como un necio. Yo te ruego que perdones la maldad de tu siervo». (21:8).",
-        "El SEÑOR le dijo a Gad, el vidente de David: (21:9).",
-        "«Ve y dile a David que así dice el SEÑOR: “Te doy a escoger entre estos tres castigos; dime cuál de ellos quieres que te imponga”». (21:10).",
-        "Entonces Gad fue a ver a David y le dijo: ―Así dice el SEÑOR: “Elige una de estas tres cosas: (21:11).",
-        "tres años de hambre o tres meses de persecución y derrota por la espada de tus enemigos o tres días en los cuales el SEÑOR castigará con plaga el país, y su ángel traerá destrucción en todos los rincones de Israel”. Piénsalo bien y dime qué debo responderle al que me ha enviado. (21:12).",
-        "―¡Estoy entre la espada y la pared! —respondió David—. Pero es mejor que yo caiga en las manos del SEÑOR, porque su compasión es muy grande, y no que caiga en las manos de los hombres. (21:13).",
-        "Por lo tanto, el SEÑOR mandó contra Israel una plaga y murieron setenta mil israelitas. (21:14).",
-        "Entonces Dios envió un ángel a Jerusalén para destruirla. Y, al ver el SEÑOR que el ángel la destruía, se lamentó y le dijo al ángel destructor: «¡Basta! ¡Detén tu mano!». En ese momento, el ángel del SEÑOR se hallaba en el lugar donde Arauna el jebuseo limpiaba el trigo. (21:15).",
-        "David alzó la vista y vio que el ángel del SEÑOR estaba entre la tierra y el cielo, con una espada desenvainada en la mano que apuntaba hacia Jerusalén. Entonces David y los jefes, vestidos de luto, se postraron sobre su rostro. (21:16).",
-        "Y David le dijo a Dios: «SEÑOR y Dios mío, ¿acaso no fui yo el que dio la orden de censar al pueblo? ¿Qué culpa tienen estas ovejas? ¡Soy yo el que ha pecado! ¡He actuado muy mal! ¡Descarga tu mano sobre mí y sobre mi familia, pero no sigas hiriendo a tu pueblo!». (21:17).",
-        "Entonces el ángel del SEÑOR le dijo a Gad: «Dile a David que suba y construya un altar para el SEÑOR en el lugar donde Arauna el jebuseo limpia el trigo». (21:18).",
-        "David se puso en camino, conforme a la palabra que Gad le dio en nombre del SEÑOR. (21:19).",
+        "El [DN]Señor[/DN] le dijo a Gad, el vidente de David: (21:9).",
+        "«Ve y dile a David que así dice el [DN]Señor[/DN]: “Te doy a escoger entre estos tres castigos; dime cuál de ellos quieres que te imponga”». (21:10).",
+        "Entonces Gad fue a ver a David y le dijo: ―Así dice el [DN]Señor[/DN]: “Elige una de estas tres cosas: (21:11).",
+        "tres años de hambre o tres meses de persecución y derrota por la espada de tus enemigos o tres días en los cuales el [DN]Señor[/DN] castigará con plaga el país, y su ángel traerá destrucción en todos los rincones de Israel”. Piénsalo bien y dime qué debo responderle al que me ha enviado. (21:12).",
+        "―¡Estoy entre la espada y la pared! —respondió David—. Pero es mejor que yo caiga en las manos del [DN]Señor[/DN], porque su compasión es muy grande, y no que caiga en las manos de los hombres. (21:13).",
+        "Por lo tanto, el [DN]Señor[/DN] mandó contra Israel una plaga y murieron setenta mil israelitas. (21:14).",
+        "Entonces Dios envió un ángel a Jerusalén para destruirla. Y, al ver el [DN]Señor[/DN] que el ángel la destruía, se lamentó y le dijo al ángel destructor: «¡Basta! ¡Detén tu mano!». En ese momento, el ángel del [DN]Señor[/DN] se hallaba en el lugar donde Arauna el jebuseo limpiaba el trigo. (21:15).",
+        "David alzó la vista y vio que el ángel del [DN]Señor[/DN] estaba entre la tierra y el cielo, con una espada desenvainada en la mano que apuntaba hacia Jerusalén. Entonces David y los jefes, vestidos de luto, se postraron sobre su rostro. (21:16).",
+        "Y David le dijo a Dios: «[DN]Señor[/DN] y Dios mío, ¿acaso no fui yo el que dio la orden de censar al pueblo? ¿Qué culpa tienen estas ovejas? ¡Soy yo el que ha pecado! ¡He actuado muy mal! ¡Descarga tu mano sobre mí y sobre mi familia, pero no sigas hiriendo a tu pueblo!». (21:17).",
+        "Entonces el ángel del [DN]Señor[/DN] le dijo a Gad: «Dile a David que suba y construya un altar para el [DN]Señor[/DN] en el lugar donde Arauna el jebuseo limpia el trigo». (21:18).",
+        "David se puso en camino, conforme a la palabra que Gad le dio en nombre del [DN]Señor[/DN]. (21:19).",
         "Arauna se encontraba trillando y, al mirar hacia atrás, vio al ángel. Los cuatro hijos que estaban con él se escondieron. (21:20).",
         "Al ver Arauna que David se acercaba al lugar donde limpiaba el trigo, salió a recibirlo y rostro en tierra se postró delante de él. (21:21).",
-        "David le dijo: ―Véndeme una parte de este lugar para construirle un altar al SEÑOR, a fin de que se detenga la plaga que está afligiendo al pueblo. Véndemela por su verdadero precio. (21:22).",
+        "David le dijo: ―Véndeme una parte de este lugar para construirle un altar al [DN]Señor[/DN], a fin de que se detenga la plaga que está afligiendo al pueblo. Véndemela por su verdadero precio. (21:22).",
         "Arauna le contestó a David: ―Mi señor y rey, yo se la regalo, para que haga usted en ella lo que mejor le parezca. Yo mismo le daré los bueyes para los holocaustos, los trillos para la leña y el trigo para la ofrenda de cereal. Todo se lo regalo. (21:23).",
-        "Pero el rey David le respondió a Arauna: ―Eso no puede ser. No tomaré lo que es tuyo para dárselo al SEÑOR ni le ofreceré un holocausto que nada me cueste. Te lo compraré todo por su verdadero precio. (21:24).",
+        "Pero el rey David le respondió a Arauna: ―Eso no puede ser. No tomaré lo que es tuyo para dárselo al [DN]Señor[/DN] ni le ofreceré un holocausto que nada me cueste. Te lo compraré todo por su verdadero precio. (21:24).",
         "Fue así como David le dio a Arauna seiscientos siclos de oro por aquel lugar. (21:25).",
-        "Allí construyó un altar al SEÑOR y le ofreció holocaustos y sacrificios de comunión. Luego oró al SEÑOR y, en respuesta, Dios envió fuego del cielo sobre el altar del holocausto. (21:26).",
-        "Entonces el SEÑOR le ordenó al ángel que envainara su espada. (21:27).",
-        "Al ver David que el SEÑOR le había respondido, le ofreció sacrificios. (21:28).",
-        "En aquel tiempo, tanto el santuario del SEÑOR que Moisés hizo en el desierto como el altar del holocausto se encontraban en el santuario de Gabaón. (21:29).",
-        "Pero David no fue allá a consultar a Dios ante su presencia, porque estaba aterrorizado por la espada del ángel del SEÑOR. (21:30)."
+        "Allí construyó un altar al [DN]Señor[/DN] y le ofreció holocaustos y sacrificios de comunión. Luego oró al [DN]Señor[/DN] y, en respuesta, Dios envió fuego del cielo sobre el altar del holocausto. (21:26).",
+        "Entonces el [DN]Señor[/DN] le ordenó al ángel que envainara su espada. (21:27).",
+        "Al ver David que el [DN]Señor[/DN] le había respondido, le ofreció sacrificios. (21:28).",
+        "En aquel tiempo, tanto el santuario del [DN]Señor[/DN] que Moisés hizo en el desierto como el altar del holocausto se encontraban en el santuario de Gabaón. (21:29).",
+        "Pero David no fue allá a consultar a Dios ante su presencia, porque estaba aterrorizado por la espada del ángel del [DN]Señor[/DN]. (21:30)."
       ],
       "crossRefs": [
         "2 Samuel 24:1-25: El mismo censo, la misma plaga de tres días y la compra de la era de Arauna.",
@@ -1835,11 +1839,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "David censa al pueblo"
+          "text": "David hace un censo militar"
         },
         {
-          "beforeVerse": 28,
-          "text": "El lugar para el templo"
+          "beforeVerse": 18,
+          "text": "David construye un altar"
         }
       ]
     },
@@ -1850,25 +1854,25 @@
         "1 Chronicles 22:1-19"
       ],
       "summaryBullets": [
-        "Entonces dijo David: «Aquí se levantará el templo de Dios el SEÑOR y el altar donde Israel ofrecerá el holocausto». (22:1).",
+        "Entonces dijo David: «Aquí se levantará el templo de Dios el [DN]Señor[/DN] y el altar donde Israel ofrecerá el holocausto». (22:1).",
         "Luego David ordenó que se reuniera a los extranjeros que vivían en territorio israelita. De entre ellos nombró canteros que labraran piedras para la construcción del templo de Dios. (22:2).",
         "Además, David juntó mucho hierro para los clavos y las bisagras de las puertas; también bronce en abundancia. (22:3).",
         "Amontonó mucha madera de cedro, pues los habitantes de Sidón y de Tiro le habían traído una gran cantidad de madera de cedro. (22:4).",
-        "«Mi hijo Salomón —pensaba David— es muy joven e inexperto, y el templo que hay que construir para el SEÑOR debe ser el más grande y famoso de toda la tierra; por eso le dejaré todo listo». Así que, antes de morir, David dejó todo preparado. (22:5).",
-        "Luego llamó a su hijo Salomón y le encargó construir el templo para el SEÑOR, Dios de Israel. (22:6).",
-        "David le dijo a Salomón: «Hijo mío, yo tenía la intención de construir un templo para honrar el Nombre del SEÑOR mi Dios. (22:7).",
-        "Pero el SEÑOR me dijo: “Ante mis propios ojos has derramado mucha sangre y has hecho muchas guerras en la tierra; por eso no serás tú quien construya un templo en honor de mi Nombre. (22:8).",
+        "«Mi hijo Salomón —pensaba David— es muy joven e inexperto, y el templo que hay que construir para el [DN]Señor[/DN] debe ser el más grande y famoso de toda la tierra; por eso le dejaré todo listo». Así que, antes de morir, David dejó todo preparado. (22:5).",
+        "Luego llamó a su hijo Salomón y le encargó construir el templo para el [DN]Señor[/DN], Dios de Israel. (22:6).",
+        "David le dijo a Salomón: «Hijo mío, yo tenía la intención de construir un templo para honrar el Nombre del [DN]Señor[/DN] mi Dios. (22:7).",
+        "Pero el [DN]Señor[/DN] me dijo: “Ante mis propios ojos has derramado mucha sangre y has hecho muchas guerras en la tierra; por eso no serás tú quien construya un templo en honor de mi Nombre. (22:8).",
         "Pero tendrás un hijo que será un hombre pacífico; yo haré que los países vecinos que sean sus enemigos lo dejen en paz; por eso se llamará Salomón. Durante su reinado, yo le daré a Israel paz y tranquilidad. (22:9).",
         "Él será quien me construya un templo en honor de mi Nombre. Él será mi hijo y yo seré su padre. Yo afirmaré para siempre el trono de su reino en Israel”. (22:10).",
-        "»Ahora, hijo mío, que el SEÑOR tu Dios te ayude a construir su templo, tal como te lo ha prometido. (22:11).",
-        "Que te dé prudencia y sabiduría para que, cuando estés al frente de Israel, obedezcas su Ley. Él es el SEÑOR tu Dios. (22:12).",
-        "Si cumples los estatutos y leyes que el SEÑOR le entregó a Israel por medio de Moisés, entonces te irá bien. ¡Sé fuerte y valiente! ¡No tengas miedo ni te desanimes! (22:13).",
-        "»Mira, con mucho esfuerzo he logrado conseguir para el templo del SEÑOR cien mil talentos de oro, un millón de talentos de plata y una incontable cantidad de bronce y de hierro. Además, he conseguido madera y piedra, pero tú debes adquirir más. (22:14).",
+        "»Ahora, hijo mío, que el [DN]Señor[/DN] tu Dios te ayude a construir su templo, tal como te lo ha prometido. (22:11).",
+        "Que te dé prudencia y sabiduría para que, cuando estés al frente de Israel, obedezcas su Ley. Él es el [DN]Señor[/DN] tu Dios. (22:12).",
+        "Si cumples los estatutos y leyes que el [DN]Señor[/DN] le entregó a Israel por medio de Moisés, entonces te irá bien. ¡Sé fuerte y valiente! ¡No tengas miedo ni te desanimes! (22:13).",
+        "»Mira, con mucho esfuerzo he logrado conseguir para el templo del [DN]Señor[/DN] cien mil talentos de oro, un millón de talentos de plata y una incontable cantidad de bronce y de hierro. Además, he conseguido madera y piedra, pero tú debes adquirir más. (22:14).",
         "También cuentas con una buena cantidad de obreros: canteros, albañiles, carpinteros y expertos en toda clase de trabajos (22:15).",
-        "en oro, plata, bronce y hierro. Así que, ¡pon manos a la obra, y que el SEÑOR te acompañe!». (22:16).",
+        "en oro, plata, bronce y hierro. Así que, ¡pon manos a la obra, y que el [DN]Señor[/DN] te acompañe!». (22:16).",
         "Después David les ordenó a todos los líderes de Israel que colaboraran con su hijo Salomón. (22:17).",
-        "Les dijo: «El SEÑOR su Dios está con ustedes y les ha dado paz en todo lugar. Él ha entregado en mi poder a los habitantes de la región y estos han quedado sometidos al SEÑOR y a su pueblo. (22:18).",
-        "Ahora, pues, busquen al SEÑOR su Dios de todo corazón y con toda el alma. Comiencen la construcción del santuario de Dios el SEÑOR, para que trasladen el arca del pacto y los utensilios sagrados al templo que se construirá en honor de su Nombre». (22:19)."
+        "Les dijo: «El [DN]Señor[/DN] su Dios está con ustedes y les ha dado paz en todo lugar. Él ha entregado en mi poder a los habitantes de la región y estos han quedado sometidos al [DN]Señor[/DN] y a su pueblo. (22:18).",
+        "Ahora, pues, busquen al [DN]Señor[/DN] su Dios de todo corazón y con toda el alma. Comiencen la construcción del santuario de Dios el [DN]Señor[/DN], para que trasladen el arca del pacto y los utensilios sagrados al templo que se construirá en honor de su Nombre». (22:19)."
       ],
       "crossRefs": [
         "2 Samuel 7:12-13: Dios promete que el hijo de David construirá la casa.",
@@ -1901,8 +1905,8 @@
       "keyTakeaway": "David no puede construir el templo debido a sus guerras, pero hace abundantes preparativos. Salomón es escogido como hombre de paz para construir la casa de Dios.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "Preparativos para el templo"
+          "beforeVerse": 2,
+          "text": "Los preparativos para el templo"
         }
       ]
     },
@@ -1916,8 +1920,8 @@
         "David era muy anciano cuando declaró a su hijo Salomón rey de Israel. (23:1).",
         "Reunió a todos los líderes de Israel junto a los sacerdotes y levitas. (23:2).",
         "Entonces contaron a los levitas que tenían más de treinta años; resultó que eran en total treinta y ocho mil hombres. (23:3).",
-        "David dijo: «De los levitas, veinticuatro mil estarán a cargo del trabajo del templo del SEÑOR, seis mil serán oficiales y jueces, (23:4).",
-        "cuatro mil serán porteros y los otros cuatro mil se encargarán de alabar al SEÑOR con los instrumentos musicales que he ordenado hacer para ese propósito». (23:5).",
+        "David dijo: «De los levitas, veinticuatro mil estarán a cargo del trabajo del templo del [DN]Señor[/DN], seis mil serán oficiales y jueces, (23:4).",
+        "cuatro mil serán porteros y los otros cuatro mil se encargarán de alabar al [DN]Señor[/DN] con los instrumentos musicales que he ordenado hacer para ese propósito». (23:5).",
         "David dividió a los levitas en grupos de acuerdo con el número de los hijos de Leví, que fueron Guersón, Coat y Merari. (23:6).",
         "De los guersonitas: Ladán y Simí. (23:7).",
         "Los hijos de Ladán fueron tres: Jehiel, el mayor, Zetán y Joel. (23:8).",
@@ -1925,7 +1929,7 @@
         "Los hijos de Simí fueron cuatro: Yajat, Ziza, Jeús y Beriá. Estos fueron los hijos de Simí. (23:10).",
         "Yajat era el mayor y Ziza, el segundo. Como Jeús y Beriá no tuvieron muchos hijos, se les contó como una sola familia y se les dio un mismo cargo. (23:11).",
         "Los hijos de Coat fueron cuatro: Amirán, Izar, Hebrón y Uziel. (23:12).",
-        "Los hijos de Amirán fueron: Aarón y Moisés. Aarón y sus descendientes fueron los escogidos para presentar las ofrendas sagradas, quemar el incienso, servir al SEÑOR y pronunciar la bendición en su nombre para siempre. (23:13).",
+        "Los hijos de Amirán fueron: Aarón y Moisés. Aarón y sus descendientes fueron los escogidos para presentar las ofrendas sagradas, quemar el incienso, servir al [DN]Señor[/DN] y pronunciar la bendición en su nombre para siempre. (23:13).",
         "A Moisés, hombre de Dios, y a sus hijos se les incluyó en la tribu de Leví. (23:14).",
         "Los hijos de Moisés fueron: Guersón y Eliezer. (23:15).",
         "Sebuel fue el primero de los descendientes de Guersón. (23:16).",
@@ -1936,15 +1940,15 @@
         "Los hijos de Merari fueron: Majlí y Musí. Los hijos de Majlí fueron: Eleazar y Quis. (23:21).",
         "Eleazar murió sin tener hijos; solamente tuvo hijas. Estas se casaron con sus primos, los hijos de Quis. (23:22).",
         "Musí tuvo tres hijos: Majlí, Éder y Jeremot. (23:23).",
-        "Estos fueron los descendientes de Leví por sus familias patriarcales. El censo los registró por nombre como jefes de sus familias patriarcales. Estos prestaban servicio en el templo del SEÑOR y eran mayores de veinte años. (23:24).",
-        "David dijo: «Desde que el SEÑOR, Dios de Israel, estableció a su pueblo y estableció su residencia para siempre en Jerusalén, (23:25).",
+        "Estos fueron los descendientes de Leví por sus familias patriarcales. El censo los registró por nombre como jefes de sus familias patriarcales. Estos prestaban servicio en el templo del [DN]Señor[/DN] y eran mayores de veinte años. (23:24).",
+        "David dijo: «Desde que el [DN]Señor[/DN], Dios de Israel, estableció a su pueblo y estableció su residencia para siempre en Jerusalén, (23:25).",
         "los levitas ya no tienen que cargar el santuario ni los utensilios que se usan en el culto». (23:26).",
         "De acuerdo con las últimas disposiciones de David, fueron censados los levitas mayores de veinte años. (23:27).",
-        "Su función consistía en ayudar a los descendientes de Aarón en el servicio del templo del SEÑOR. Eran los responsables de los atrios, de los cuartos y de la purificación de todas las cosas santas; en fin, de todo lo relacionado con el servicio del templo de Dios. (23:28).",
+        "Su función consistía en ayudar a los descendientes de Aarón en el servicio del templo del [DN]Señor[/DN]. Eran los responsables de los atrios, de los cuartos y de la purificación de todas las cosas santas; en fin, de todo lo relacionado con el servicio del templo de Dios. (23:28).",
         "También estaban encargados del pan consagrado, de la harina refinada para las ofrendas de cereales, de las hojuelas sin levadura, de las ofrendas fritas en sartén o cocidas y de todas las medidas de capacidad y de longitud. (23:29).",
-        "Cada mañana y cada tarde debían estar presentes para agradecer y alabar al SEÑOR. (23:30).",
-        "Asimismo, debían ofrecer todos los holocaustos que se presentaban al SEÑOR los sábados, los días de luna nueva y durante las otras fiestas. Así que siempre servían al SEÑOR, según el número y la función que se les asignaba. (23:31).",
-        "De modo que tenían a su cargo el cuidado de la Tienda de reunión y del Lugar Santo. El servicio que realizaban en el templo del SEÑOR quedaba bajo las órdenes de sus hermanos, los descendientes de Aarón. (23:32)."
+        "Cada mañana y cada tarde debían estar presentes para agradecer y alabar al [DN]Señor[/DN]. (23:30).",
+        "Asimismo, debían ofrecer todos los holocaustos que se presentaban al [DN]Señor[/DN] los sábados, los días de luna nueva y durante las otras fiestas. Así que siempre servían al [DN]Señor[/DN], según el número y la función que se les asignaba. (23:31).",
+        "De modo que tenían a su cargo el cuidado de la Tienda de reunión y del Lugar Santo. El servicio que realizaban en el templo del [DN]Señor[/DN] quedaba bajo las órdenes de sus hermanos, los descendientes de Aarón. (23:32)."
       ],
       "crossRefs": [
         "Números 4:1-3: Los levitas son contados desde los treinta hasta los cincuenta años para el servicio de la tienda de reunión.",
@@ -1984,7 +1988,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Distribución y deberes de los levitas"
+          "text": "Los levitas"
+        },
+        {
+          "beforeVerse": 7,
+          "text": "Los guersonitas"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Los coatitas"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "Los meraritas"
         }
       ]
     },
@@ -2013,7 +2029,7 @@
         "la decimonovena, a Petaías; la vigésima, a Ezequiel; (24:16).",
         "la vigesimoprimera, a Jaquín; la vigesimosegunda, a Gamul; (24:17).",
         "la vigesimotercera, a Delaías; la vigesimocuarta, a Maazías. (24:18).",
-        "Así fue como se organizaron los turnos para el servicio en el templo del SEÑOR, tal como el SEÑOR, Dios de Israel, lo había ordenado por medio de Aarón, antepasado de ellos. (24:19).",
+        "Así fue como se organizaron los turnos para el servicio en el templo del [DN]Señor[/DN], tal como el [DN]Señor[/DN], Dios de Israel, lo había ordenado por medio de Aarón, antepasado de ellos. (24:19).",
         "La siguiente es la lista del resto de los descendientes de Leví: de los descendientes de Amirán, Subael; de los descendientes de Subael, Jehedías; (24:20).",
         "de los descendientes de Rejabías, Isías, el hijo mayor; (24:21).",
         "de los descendientes de Izar, Selomot; de los descendientes de Selomot, Yajat; (24:22).",
@@ -2056,7 +2072,17 @@
           "note": "Se sacudían o extraían piedras o varillas marcadas para resolver una decisión, e Israel trataba el resultado como respuesta de Dios y no como azar, Proverbios 16:33. Se usó para dividir la tierra, Josué 18:6, para hallar a Acán, Josué 7:14, y aquí para establecer el orden sacerdotal de modo que ninguna familia pudiera reclamar precedencia. Los apóstoles lo usan una vez más en Hechos 1:26."
         }
       ],
-      "keyTakeaway": "David divide a los descendientes de Aarón en veinticuatro divisiones para el servicio sacerdotal, echando suertes imparcialmente entre las líneas de Eleazar e Itamar; también organiza a los levitas restantes en grupos familiares echando suertes."
+      "keyTakeaway": "David divide a los descendientes de Aarón en veinticuatro divisiones para el servicio sacerdotal, echando suertes imparcialmente entre las líneas de Eleazar e Itamar; también organiza a los levitas restantes en grupos familiares echando suertes.",
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "La organización del servicio sacerdotal"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "El resto de los levitas"
+        }
+      ]
     },
     {
       "id": "1chronicles-25",
@@ -2067,11 +2093,11 @@
       "summaryBullets": [
         "Para el ministerio de la música, David y los comandantes del ejército apartaron a los hijos de Asaf, Hemán y Jedutún, los cuales profetizaban acompañándose de arpas, liras y címbalos. Esta es la lista de los que fueron apartados para el servicio: (25:1).",
         "De los hijos de Asaf: Zacur, José, Netanías y Asarela. A estos los dirigía Asaf, quien profetizaba bajo las órdenes del rey. (25:2).",
-        "De Jedutún, sus seis hijos: Guedalías, Zeri, Isaías, Simí, Jasabías y Matatías. A estos los dirigía su padre Jedutún, quien al son del arpa profetizaba para dar gracias y alabar al SEÑOR. (25:3).",
+        "De Jedutún, sus seis hijos: Guedalías, Zeri, Isaías, Simí, Jasabías y Matatías. A estos los dirigía su padre Jedutún, quien al son del arpa profetizaba para dar gracias y alabar al [DN]Señor[/DN]. (25:3).",
         "De los hijos de Hemán: Buquías, Matanías, Uziel, Sebuel, Jerimot, Jananías, Jananí, Eliatá, Guidalti, Romanti Ezer, Josbecasa, Malotí, Hotir y Mahaziot. (25:4).",
         "Todos estos fueron hijos de Hemán, vidente del rey. Con la palabra de Dios exaltaban su poder. Dios le dio a Hemán catorce hijos y tres hijas. (25:5).",
-        "Su padre los dirigía en el culto del templo del SEÑOR, cuando cantaban acompañados de címbalos, liras y arpas. Asaf, Jedutún y Hemán estaban bajo las órdenes del rey. (25:6).",
-        "Ellos eran en total doscientos ochenta y ocho, incluyendo a sus demás compañeros, y habían sido instruidos para cantarle al SEÑOR. (25:7).",
+        "Su padre los dirigía en el culto del templo del [DN]Señor[/DN], cuando cantaban acompañados de címbalos, liras y arpas. Asaf, Jedutún y Hemán estaban bajo las órdenes del rey. (25:6).",
+        "Ellos eran en total doscientos ochenta y ocho, incluyendo a sus demás compañeros, y habían sido instruidos para cantarle al [DN]Señor[/DN]. (25:7).",
         "Para asignarles sus turnos se echaron suertes, sin hacer distinción entre menores y mayores ni entre maestros y discípulos. (25:8).",
         "La primera suerte le tocó a José el asafita; la segunda le tocó a Guedalías junto con sus hermanos y sus hijos 12 (25:9).",
         "la tercera, a Zacur junto con sus hijos y hermanos 12 (25:10).",
@@ -2135,7 +2161,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Distribución de músicos y cantores"
+          "text": "La organización de los músicos"
         }
       ]
     },
@@ -2157,7 +2183,7 @@
         "Los hijos y hermanos de Meselemías fueron dieciocho, todos ellos hombres muy valientes. (26:9).",
         "Los hijos de Josá, descendiente de Merari, fueron: Simri, el jefe (que en verdad no había sido el primero, pero su padre lo puso por jefe); (26:10).",
         "el segundo fue Jilquías; el tercero, Tebalías; y el cuarto, Zacarías. En total, los hijos y hermanos de Josá fueron trece. (26:11).",
-        "Así fue como se organizó a los porteros, tanto a los jefes como a sus hermanos, para que sirvieran en el templo del SEÑOR. (26:12).",
+        "Así fue como se organizó a los porteros, tanto a los jefes como a sus hermanos, para que sirvieran en el templo del [DN]Señor[/DN]. (26:12).",
         "El cuidado de cada puerta se asignó echando suertes entre las familias, sin hacer distinción entre menores y mayores. (26:13).",
         "Según el sorteo, a Selemías se le asignó la puerta del este, y a su hijo Zacarías, sabio consejero, la puerta del norte. (26:14).",
         "A Obed Edom le correspondió la puerta del sur y a sus hijos les correspondió el cuidado de los depósitos del templo. (26:15).",
@@ -2167,15 +2193,15 @@
         "Así fue como quedaron distribuidos los porteros descendientes de Coré y de Merari. (26:19).",
         "A los otros levitas se les puso al cuidado de los tesoros del templo de Dios y de los depósitos de los objetos sagrados. (26:20).",
         "Los descendientes de Guersón por parte de Ladán tenían a los jehielitas como jefes de las familias de Ladán el guersonita. (26:21).",
-        "Zetán y su hermano Joel, hijos de Jehiel, quedaron a cargo de los tesoros del templo del SEÑOR. (26:22).",
+        "Zetán y su hermano Joel, hijos de Jehiel, quedaron a cargo de los tesoros del templo del [DN]Señor[/DN]. (26:22).",
         "De los amiranitas, izaritas, hebronitas y uzielitas: (26:23).",
         "Sebuel, que era descendiente de Guersón, hijo de Moisés, era el oficial mayor a cargo del tesoro. (26:24).",
         "Sus descendientes en línea directa por parte de Eliezer eran Rejabías, Isaías, Jorán, Zicrí y Selomit. (26:25).",
         "Selomit y sus hermanos tenían a su cargo los depósitos de todos los objetos sagrados que habían sido obsequiados por el rey David y por los jefes de familia, así como por los comandantes de mil y de cien soldados y por los demás comandantes del ejército. (26:26).",
-        "Ellos habían dedicado parte del botín de guerra para las reparaciones del templo del SEÑOR. (26:27).",
+        "Ellos habían dedicado parte del botín de guerra para las reparaciones del templo del [DN]Señor[/DN]. (26:27).",
         "Selomit y sus hermanos tenían bajo su cuidado todo lo que había sido obsequiado por el vidente Samuel, por Saúl, hijo de Quis, por Abner, hijo de Ner, y por Joab, hijo de Sarvia. (26:28).",
         "De los izaritas: Quenanías y sus hijos estaban a cargo de los asuntos exteriores de Israel y ejercían las funciones de oficiales y jueces. (26:29).",
-        "De los hebronitas: Jasabías y sus parientes, que descendían de Hebrón, eran mil setecientos hombres valientes. Ellos eran los que al sudoeste del Jordán administraban a Israel en todo lo referente al SEÑOR y al rey. (26:30).",
+        "De los hebronitas: Jasabías y sus parientes, que descendían de Hebrón, eran mil setecientos hombres valientes. Ellos eran los que al sudoeste del Jordán administraban a Israel en todo lo referente al [DN]Señor[/DN] y al rey. (26:30).",
         "El jefe de los hebronitas era Jerías. En el año cuarenta del reinado de David se investigó el registro genealógico de los descendientes de Hebrón, y se encontró que en Jazer de Galaad había entre ellos hombres valientes. (26:31).",
         "Jerías tenía dos mil setecientos parientes, hombres valientes y jefes de familias, y el rey David les asignó la administración de las tribus de Rubén y Gad y de la media tribu de Manasés, en todos los asuntos relacionados con Dios y con el rey. (26:32)."
       ],
@@ -2212,7 +2238,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Porteros y oficiales"
+          "text": "La organización de los porteros"
+        },
+        {
+          "beforeVerse": 20,
+          "text": "Los tesoreros y otros oficiales"
         }
       ]
     },
@@ -2245,7 +2275,7 @@
         "de Efraín: Oseas, hijo de Azazías; de la media tribu de Manasés: Joel, hijo de Pedaías; (27:20).",
         "de la otra media tribu de Manasés que estaba en Galaad: Idó, hijo de Zacarías; de Benjamín: Jasiel, hijo de Abner; (27:21).",
         "de Dan: Azarel, hijo de Jeroán. Estos eran los líderes de las tribus de Israel. (27:22).",
-        "David no censó a los hombres que tenían menos de veinte años porque el SEÑOR había prometido que haría a Israel tan numeroso como las estrellas del cielo. (27:23).",
+        "David no censó a los hombres que tenían menos de veinte años porque el [DN]Señor[/DN] había prometido que haría a Israel tan numeroso como las estrellas del cielo. (27:23).",
         "Joab, hijo de Sarvia, comenzó a hacer el censo, pero no lo terminó porque eso desató la ira de Dios sobre Israel. Por eso no quedó registrado el número en las crónicas del rey David. (27:24).",
         "El encargado de los tesoros del rey era Azmávet, hijo de Adiel. El encargado de los tesoros en los campos, ciudades, aldeas y fortalezas era Jonatán, hijo de Uzías. (27:25).",
         "Ezrí, hijo de Quelub, estaba al frente de los agricultores. (27:26).",
@@ -2296,7 +2326,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Otros oficiales de David"
+          "text": "Las divisiones del ejército"
+        },
+        {
+          "beforeVerse": 16,
+          "text": "Los jefes de las tribus"
+        },
+        {
+          "beforeVerse": 25,
+          "text": "Los superintendentes del rey"
         }
       ]
     },
@@ -2308,25 +2346,25 @@
       ],
       "summaryBullets": [
         "David reunió en Jerusalén a todos los oficiales de Israel; es decir, a los oficiales de las tribus, a los comandantes de las divisiones que por turno servían al rey, a los comandantes de mil y de cien soldados, a los oficiales a cargo de los bienes y el ganado del rey y sus hijos, a los oficiales del palacio, a los guerreros y a todos los valientes. (28:1).",
-        "Puesto de pie, el rey David dijo: «Hermanos de mi pueblo, escúchenme. Yo tenía en mi corazón construir un templo para que en él reposara el arca del pacto del SEÑOR nuestro Dios y sirviera como estrado de sus pies. Ya tenía todo listo para construirlo (28:2).",
+        "Puesto de pie, el rey David dijo: «Hermanos de mi pueblo, escúchenme. Yo tenía en mi corazón construir un templo para que en él reposara el arca del pacto del [DN]Señor[/DN] nuestro Dios y sirviera como estrado de sus pies. Ya tenía todo listo para construirlo (28:2).",
         "cuando Dios me dijo: “Tú no construirás un templo en honor de mi Nombre, porque eres hombre de guerra y has derramado sangre”. (28:3).",
-        "»Sin embargo, el SEÑOR, Dios de Israel, me escogió de entre mi familia para ponerme por rey de Israel para siempre. En efecto, él escogió a Judá como la tribu gobernante; de esta tribu escogió a mi familia y, de entre mis hermanos, me escogió a mí, para ponerme por rey de Israel. (28:4).",
-        "De entre los muchos hijos que el SEÑOR me ha dado, escogió a mi hijo Salomón para que se sentara en el trono real del SEÑOR y gobernara a Israel. (28:5).",
+        "»Sin embargo, el [DN]Señor[/DN], Dios de Israel, me escogió de entre mi familia para ponerme por rey de Israel para siempre. En efecto, él escogió a Judá como la tribu gobernante; de esta tribu escogió a mi familia y, de entre mis hermanos, me escogió a mí, para ponerme por rey de Israel. (28:4).",
+        "De entre los muchos hijos que el [DN]Señor[/DN] me ha dado, escogió a mi hijo Salomón para que se sentara en el trono real del [DN]Señor[/DN] y gobernara a Israel. (28:5).",
         "Dios me dijo: “Será tu hijo Salomón el que construya mi templo y mis atrios, pues lo he escogido como hijo y seré su padre. (28:6).",
         "Y, si persevera en cumplir mis mandamientos y leyes, como lo hace hoy, entonces afirmaré su reino para siempre”. (28:7).",
-        "»En presencia del Dios que nos escucha y de todo Israel, que es la congregación del SEÑOR, hoy les encarezco que obedezcan cumplidamente todos los mandamientos del SEÑOR su Dios. Así poseerán esta buena tierra y se la dejarán en herencia perpetua a sus hijos. (28:8).",
-        "»Y tú, Salomón, hijo mío, reconoce al Dios de tu padre y sírvele de todo corazón y con buena disposición, pues el SEÑOR escudriña todo corazón y discierne todo pensamiento. Si lo buscas, te permitirá que lo encuentres; si lo abandonas, te rechazará para siempre. (28:9).",
-        "Ten presente que el SEÑOR te ha escogido para que le edifiques un templo como santuario suyo. Así que ¡anímate y pon manos a la obra!». (28:10).",
+        "»En presencia del Dios que nos escucha y de todo Israel, que es la congregación del [DN]Señor[/DN], hoy les encarezco que obedezcan cumplidamente todos los mandamientos del [DN]Señor[/DN] su Dios. Así poseerán esta buena tierra y se la dejarán en herencia perpetua a sus hijos. (28:8).",
+        "»Y tú, Salomón, hijo mío, reconoce al Dios de tu padre y sírvele de todo corazón y con buena disposición, pues el [DN]Señor[/DN] escudriña todo corazón y discierne todo pensamiento. Si lo buscas, te permitirá que lo encuentres; si lo abandonas, te rechazará para siempre. (28:9).",
+        "Ten presente que el [DN]Señor[/DN] te ha escogido para que le edifiques un templo como santuario suyo. Así que ¡anímate y pon manos a la obra!». (28:10).",
         "Luego David le entregó a Salomón el diseño de la entrada del templo, de sus edificios, de los almacenes, de las habitaciones superiores, de los cuartos interiores y del lugar donde está el arca con su tapa. (28:11).",
-        "También le entregó el diseño de todo lo que el Espíritu había puesto en su mente sobre los atrios del templo del SEÑOR, para los cuartos de alrededor, para los tesoros del templo de Dios y para los depósitos de las ofrendas sagradas. (28:12).",
-        "Asimismo, le dio instrucciones en cuanto a la labor de los sacerdotes y levitas, de todos los servicios del templo del SEÑOR y de todos los utensilios sagrados que se usarían en el servicio del templo. (28:13).",
+        "También le entregó el diseño de todo lo que el Espíritu había puesto en su mente sobre los atrios del templo del [DN]Señor[/DN], para los cuartos de alrededor, para los tesoros del templo de Dios y para los depósitos de las ofrendas sagradas. (28:12).",
+        "Asimismo, le dio instrucciones en cuanto a la labor de los sacerdotes y levitas, de todos los servicios del templo del [DN]Señor[/DN] y de todos los utensilios sagrados que se usarían en el servicio del templo. (28:13).",
         "Además, le entregó abundante oro y plata para todos los utensilios de oro y de plata que se debían usar en cada uno de los servicios en el templo. (28:14).",
         "También le pesó el oro y la plata para cada uno de los candelabros y sus lámparas, tanto los de oro como los de plata, según el uso de cada candelabro. (28:15).",
         "De igual manera, le pesó el oro y la plata para cada una de las mesas del pan consagrado, tanto las de oro como las de plata. (28:16).",
         "Le hizo entrega del oro puro para los tenedores, los tazones y las jarras. Le pesó oro y plata suficiente para cada una de las copas de oro y de plata. (28:17).",
-        "Para el altar del incienso le entregó una cantidad suficiente de oro refinado. También le dio el diseño de la carroza y de los querubines que cubren con sus alas extendidas el arca del pacto del SEÑOR. (28:18).",
-        "«Todo esto —dijo David— ha sido escrito por revelación del SEÑOR, para darme a conocer el diseño de las obras». (28:19).",
-        "Además, David le dijo a su hijo Salomón: «¡Sé fuerte y valiente, y pon manos a la obra! No tengas miedo ni te desanimes, porque Dios el SEÑOR, mi Dios, estará contigo. No te dejará ni te abandonará hasta que hayas terminado toda la obra del templo del SEÑOR. (28:20).",
+        "Para el altar del incienso le entregó una cantidad suficiente de oro refinado. También le dio el diseño de la carroza y de los querubines que cubren con sus alas extendidas el arca del pacto del [DN]Señor[/DN]. (28:18).",
+        "«Todo esto —dijo David— ha sido escrito por revelación del [DN]Señor[/DN], para darme a conocer el diseño de las obras». (28:19).",
+        "Además, David le dijo a su hijo Salomón: «¡Sé fuerte y valiente, y pon manos a la obra! No tengas miedo ni te desanimes, porque Dios el [DN]Señor[/DN], mi Dios, estará contigo. No te dejará ni te abandonará hasta que hayas terminado toda la obra del templo del [DN]Señor[/DN]. (28:20).",
         "Aquí tienes la organización de los sacerdotes y de los levitas para el servicio del templo de Dios. Además, contarás con la ayuda voluntaria de expertos en toda clase de trabajos. Los oficiales y todo el pueblo estarán a tu disposición». (28:21)."
       ],
       "crossRefs": [
@@ -2367,7 +2405,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Salomón sucede a David"
+          "text": "Instrucciones para la construcción del templo"
         }
       ]
     },
@@ -2378,31 +2416,31 @@
         "1 Chronicles 29:1-30"
       ],
       "summaryBullets": [
-        "El rey David le dijo a toda la asamblea: «Dios ha escogido a mi hijo Salomón, pero para una obra de esta magnitud todavía le falta experiencia. El templo no es para un hombre, sino para Dios el SEÑOR. (29:1).",
+        "El rey David le dijo a toda la asamblea: «Dios ha escogido a mi hijo Salomón, pero para una obra de esta magnitud todavía le falta experiencia. El templo no es para un hombre, sino para Dios el [DN]Señor[/DN]. (29:1).",
         "Con mucho esfuerzo he hecho los preparativos para el templo de Dios. He conseguido oro para los objetos de oro, plata para los de plata, bronce para los de bronce, hierro para los de hierro, madera para los de madera; y piedras de ónice para engastar piedras de turquesa, piedras para mosaicos, piedras preciosas de toda clase y mármol en abundancia. (29:2).",
         "Además, aparte de lo que ya he conseguido, por amor al templo de mi Dios entrego para su templo todo el oro y la plata que poseo: (29:3).",
         "tres mil talentos de oro de Ofir y siete mil talentos de plata refinada, para recubrir las paredes de los edificios, (29:4).",
-        "para todos los objetos de oro y de plata, y para toda clase de trabajo que hagan los orfebres. ¿Quién de ustedes quiere hoy dar una ofrenda al SEÑOR?». (29:5).",
+        "para todos los objetos de oro y de plata, y para toda clase de trabajo que hagan los orfebres. ¿Quién de ustedes quiere hoy dar una ofrenda al [DN]Señor[/DN]?». (29:5).",
         "Entonces los líderes de familia, los oficiales de las tribus de Israel, los comandantes de mil y de cien soldados, y los oficiales encargados de las obras del rey hicieron sus ofrendas voluntarias. (29:6).",
         "Donaron para las obras del templo de Dios cinco mil talentos y diez mil dáricos de oro, diez mil talentos de plata, dieciocho mil talentos de bronce y cien mil talentos de hierro. (29:7).",
-        "Los que tenían piedras preciosas las entregaron a Jehiel el guersonita para el tesoro del templo del SEÑOR. (29:8).",
-        "El pueblo estaba muy contento de poder dar voluntariamente sus ofrendas al SEÑOR; también el rey David se sentía muy feliz. (29:9).",
-        "Entonces David bendijo así al SEÑOR en presencia de toda la asamblea: «¡Bendito seas, SEÑOR, Dios de nuestro padre Israel, desde siempre y para siempre! (29:10).",
-        "Tuyos son, SEÑOR, la grandeza y el poder, la gloria, la victoria y la majestad. Tuyo es todo cuanto hay en el cielo y en la tierra. Tuyo también es el reino y estás por encima de todo. (29:11).",
+        "Los que tenían piedras preciosas las entregaron a Jehiel el guersonita para el tesoro del templo del [DN]Señor[/DN]. (29:8).",
+        "El pueblo estaba muy contento de poder dar voluntariamente sus ofrendas al [DN]Señor[/DN]; también el rey David se sentía muy feliz. (29:9).",
+        "Entonces David bendijo así al [DN]Señor[/DN] en presencia de toda la asamblea: «¡Bendito seas, [DN]Señor[/DN], Dios de nuestro padre Israel, desde siempre y para siempre! (29:10).",
+        "Tuyos son, [DN]Señor[/DN], la grandeza y el poder, la gloria, la victoria y la majestad. Tuyo es todo cuanto hay en el cielo y en la tierra. Tuyo también es el reino y estás por encima de todo. (29:11).",
         "De ti proceden la riqueza y el honor; tú lo gobiernas todo. En tus manos están la fuerza y el poder; y eres tú quien engrandece y fortalece a todos. (29:12).",
         "Por eso, Dios nuestro, te damos gracias y a tu glorioso nombre tributamos alabanzas. (29:13).",
         "»Pero ¿quién soy yo y quién es mi pueblo, para que podamos darte estas ofrendas voluntarias? En verdad, tú eres el dueño de todo, y lo que te hemos dado, de ti lo hemos recibido. (29:14).",
         "Ante ti, somos extranjeros que están de paso, como lo fueron nuestros antepasados. Nuestros días sobre la tierra son solo una sombra sin esperanza. (29:15).",
-        "SEÑOR y Dios nuestro, de ti procede todo cuanto hemos conseguido para construir un templo a tu santo Nombre. ¡Todo es tuyo! (29:16).",
+        "[DN]Señor[/DN] y Dios nuestro, de ti procede todo cuanto hemos conseguido para construir un templo a tu santo Nombre. ¡Todo es tuyo! (29:16).",
         "Yo sé, mi Dios, que tú pruebas los corazones y amas la rectitud. Por eso, con honestidad te he ofrecido voluntariamente todas estas cosas y he visto con júbilo que tu pueblo, aquí presente, te ha traído sus ofrendas. (29:17).",
-        "SEÑOR, Dios de nuestros antepasados Abraham, Isaac e Israel, conserva por siempre estos pensamientos en el corazón de tu pueblo y dirige su pensamiento hacia ti. (29:18).",
+        "[DN]Señor[/DN], Dios de nuestros antepasados Abraham, Isaac e Israel, conserva por siempre estos pensamientos en el corazón de tu pueblo y dirige su pensamiento hacia ti. (29:18).",
         "Dale también a mi hijo Salomón un corazón sincero, para que obedezca y ponga en práctica tus mandamientos, estatutos y mandatos. Permítele construir el templo para el cual he hecho esta provisión». (29:19).",
-        "Luego David animó a toda la asamblea: «¡Alaben al SEÑOR su Dios!». Entonces toda la asamblea alabó al SEÑOR, Dios de sus antepasados, y se postró ante el SEÑOR y ante el rey. (29:20).",
-        "Al día siguiente, ofrecieron sacrificios y holocaustos al SEÑOR por todo Israel: mil novillos, mil carneros y mil corderos, con sus respectivas ofrendas líquidas, y numerosos sacrificios. (29:21).",
-        "Ese día comieron y bebieron con gran regocijo en presencia del SEÑOR. Luego, por segunda vez, proclamaron como rey a Salomón, hijo de David, y lo consagraron ante el SEÑOR como soberano, y a Sadoc lo ungieron como sacerdote. (29:22).",
-        "Y Salomón se sentó en el trono del SEÑOR como rey en lugar de su padre David. Tuvo éxito, y todo Israel le obedeció. (29:23).",
+        "Luego David animó a toda la asamblea: «¡Alaben al [DN]Señor[/DN] su Dios!». Entonces toda la asamblea alabó al [DN]Señor[/DN], Dios de sus antepasados, y se postró ante el [DN]Señor[/DN] y ante el rey. (29:20).",
+        "Al día siguiente, ofrecieron sacrificios y holocaustos al [DN]Señor[/DN] por todo Israel: mil novillos, mil carneros y mil corderos, con sus respectivas ofrendas líquidas, y numerosos sacrificios. (29:21).",
+        "Ese día comieron y bebieron con gran regocijo en presencia del [DN]Señor[/DN]. Luego, por segunda vez, proclamaron como rey a Salomón, hijo de David, y lo consagraron ante el [DN]Señor[/DN] como soberano, y a Sadoc lo ungieron como sacerdote. (29:22).",
+        "Y Salomón se sentó en el trono del [DN]Señor[/DN] como rey en lugar de su padre David. Tuvo éxito, y todo Israel le obedeció. (29:23).",
         "Todos los oficiales, los guerreros y los hijos del rey David rindieron pleitesía al rey Salomón. (29:24).",
-        "El SEÑOR engrandeció en extremo a Salomón ante todo Israel y le otorgó un reinado glorioso, como jamás lo tuvo ninguno de los reyes de Israel. (29:25).",
+        "El [DN]Señor[/DN] engrandeció en extremo a Salomón ante todo Israel y le otorgó un reinado glorioso, como jamás lo tuvo ninguno de los reyes de Israel. (29:25).",
         "David, hijo de Isaí, reinó sobre todo Israel. (29:26).",
         "Había reinado siete años en Hebrón y treinta y tres en Jerusalén, así que en total reinó en Israel cuarenta años. (29:27).",
         "Y murió muy anciano y entrado en años, en medio de grandes honores y riquezas, y su hijo Salomón lo sucedió en el trono. (29:28).",
@@ -2451,8 +2489,20 @@
       "keyTakeaway": "David presenta sus tesoros personales para el templo y pide contribuciones; los líderes responden generosamente con oro, plata, bronce y hierro. David alaba a Dios, el pueblo ofrece sacrificios, Salomón es ungido rey por segunda vez y concluye el reinado de cuarenta años de David.",
       "headings": [
         {
+          "beforeVerse": 1,
+          "text": "Las ofrendas para el templo"
+        },
+        {
+          "beforeVerse": 10,
+          "text": "La oración de David"
+        },
+        {
+          "beforeVerse": 21,
+          "text": "La coronación de Salomón"
+        },
+        {
           "beforeVerse": 26,
-          "text": "Muerte de David"
+          "text": "La muerte de David"
         }
       ]
     }

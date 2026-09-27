@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "maps": [
+    {
+      "schemaVersion": 1, "language": "en", "baseEditionId": "bsb", "editionId": "kjv1769",
+      "books": [
+        {"bookId": "3_john", "complete": false, "mappings": [
+          {"sourceChapter": 1, "sourceVerse": 14, "sourceVerseEnd": 15, "targetChapter": 1, "targetVerse": 14}
+        ]},
+        {"bookId": "revelation", "complete": false, "mappings": [
+          {"sourceChapter": 12, "sourceVerse": 17, "targetChapter": 12, "targetVerse": 17},
+          {"sourceChapter": 12, "sourceVerse": 18, "targetChapter": 13, "targetVerse": 1},
+          {"sourceChapter": 13, "sourceVerse": 1, "targetChapter": 13, "targetVerse": 1}
+        ]}
+      ],
+      "provenance": {
+        "mappingSource": "Direct comparison of supplied BSB USFM and the pinned KJV source. App BSB merged aliases 3 John 1:14-15 and Revelation 12:17-18 retain whole source units. This maps passage boundaries, not identical wording; BSB Revelation names the dragon where KJV says I.",
+        "sourceUrl": "https://ebible.org/Scriptures/eng-kjv_usfm.zip",
+        "sourceArchiveSha256": "1bab5d4d030439831fc0b39d7f11001dd8527fc6277405e7f6512273c200c3a4",
+        "sourceLicense": "Public domain outside the United Kingdom; separate UK rights determination required.",
+        "verificationUrls": ["https://www.bible.com/bible/3034/3JN.1.BSB", "https://www.bible.com/bible/3034/REV.12.BSB", "https://www.bible.com/bible/1/REV.13.KJV"],
+        "coveragePolicy": "Only explicit rows authorize conversion. Unlisted coordinates retain their source edition. Expand native combined verse units before conversion; cross-chapter target spans remain in the source edition."
+      }
+    },
+    {
+      "schemaVersion": 1, "language": "de", "baseEditionId": "sch2000", "editionId": "luther1912",
+      "books": [
+        {"bookId": "2_corinthians", "complete": false, "mappings": [
+          {"sourceChapter": 13, "sourceVerse": 12, "targetChapter": 13, "targetVerse": 12, "targetVerseEnd": 13},
+          {"sourceChapter": 13, "sourceVerse": 13, "targetChapter": 13, "targetVerse": 14}
+        ]},
+        {"bookId": "3_john", "complete": false, "mappings": [
+          {"sourceChapter": 1, "sourceVerse": 14, "sourceVerseEnd": 15, "targetChapter": 1, "targetVerse": 14}
+        ]},
+        {"bookId": "revelation", "complete": false, "mappings": [
+          {"sourceChapter": 12, "sourceVerse": 17, "targetChapter": 12, "targetVerse": 17},
+          {"sourceChapter": 12, "sourceVerse": 18, "targetChapter": 13, "targetVerse": 1},
+          {"sourceChapter": 13, "sourceVerse": 1, "targetChapter": 13, "targetVerse": 1}
+        ]}
+      ],
+      "provenance": {
+        "mappingSource": "Direct comparison of the checked-in SCH2000 verses and pinned eBible Luther 1912 USFM. SCH2000 joins both greetings at 2 Corinthians 13:12; Luther splits 12/13. The peace/greeting closing of 3 John is 14-15 versus 14. The shoreline clause is SCH2000 Revelation 12:18 versus the opening of Luther 13:1.",
+        "sourceUrl": "https://ebible.org/Scriptures/deu1912_usfm.zip",
+        "sourceArchiveSha256": "650a8192134a8f0057286c469754edcfaee4fbb18800621aee4563f3055bb39b",
+        "sourceLicense": "Public Domain",
+        "verificationUrls": ["https://www.bible.com/bible/157/2CO.13.SCH2000"],
+        "coveragePolicy": "Explicit non-identity ranges and their merge companions. Cross-chapter reverse merges remain in the source edition. No a/b verse subdivision."
+      }
+    },
+    {
+      "schemaVersion": 1, "language": "es", "baseEditionId": "nvi", "editionId": "rv1909",
+      "books": [
+        {"bookId": "2_corinthians", "complete": false, "mappings": [
+          {"sourceChapter": 13, "sourceVerse": 12, "sourceVerseEnd": 13, "targetChapter": 13, "targetVerse": 12},
+          {"sourceChapter": 13, "sourceVerse": 14, "targetChapter": 13, "targetVerse": 13}
+        ]},
+        {"bookId": "3_john", "complete": false, "mappings": [
+          {"sourceChapter": 1, "sourceVerse": 14, "sourceVerseEnd": 15, "targetChapter": 1, "targetVerse": 14}
+        ]},
+        {"bookId": "acts", "complete": false, "mappings": [
+          {"sourceChapter": 19, "sourceVerse": 40, "sourceVerseEnd": 41, "targetChapter": 19, "targetVerse": 40}
+        ]}
+      ],
+      "provenance": {
+        "mappingSource": "Direct comparison of checked-in NVI and pinned RV1909 USFM. RV1909 combines the greetings at 2 Corinthians 13:12, the closing at 3 John 1:14, and the dismissal of the assembly in Acts 19:40. Native omissions elsewhere remain omissions; target-only readings are not mapped to adjacent verses.",
+        "sourceUrl": "https://ebible.org/Scriptures/spaRV1909_usfm.zip",
+        "sourceArchiveSha256": "b5bfac87199a561fcbacb5e32be5d8d280934b1c6830088d9eb8c68ffbfbe711",
+        "sourceLicense": "Public Domain",
+        "coveragePolicy": "Only explicit merged or shifted passage ranges authorize conversion. Unlisted coordinates retain their source edition; source and target inventories must validate the requested passage."
+      }
+    }
+  ]
+}

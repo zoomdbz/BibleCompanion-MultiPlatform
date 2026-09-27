@@ -107,31 +107,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A encarnação do Verbo"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "O testemunho de João Batista"
+          "text": "Prólogo: Cristo, a Palavra eterna"
         },
         {
           "beforeVerse": 19,
-          "text": "João Batista repete o seu testemunho ; ;"
+          "text": "O testemunho de João Batista"
         },
         {
           "beforeVerse": 29,
-          "text": "João Batista torna a repetir o seu testemunho"
-        },
-        {
-          "beforeVerse": 32,
-          "text": "O batismo de Jesus ; ;"
+          "text": "Jesus, o Cordeiro de Deus"
         },
         {
           "beforeVerse": 35,
-          "text": "Dois discípulos de João Batista seguem Jesus"
-        },
-        {
-          "beforeVerse": 43,
-          "text": "Filipe e Natanael"
+          "text": "Os primeiros discípulos"
         }
       ]
     },
@@ -209,15 +197,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "As bodas em Caná da Galileia"
+          "text": "O casamento em Caná"
         },
         {
           "beforeVerse": 13,
           "text": "Jesus purifica o templo"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "Muitos creem em Jesus"
         }
       ]
     },
@@ -306,19 +290,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Nicodemos visita a Jesus"
-        },
-        {
-          "beforeVerse": 16,
-          "text": "A missão do Filho"
+          "text": "Nicodemos visita Jesus"
         },
         {
           "beforeVerse": 22,
-          "text": "Outro testemunho de João Batista"
+          "text": "João Batista exalta Jesus"
         },
         {
           "beforeVerse": 31,
-          "text": "O Filho em relação ao mundo"
+          "text": "A superioridade do Filho"
         }
       ]
     },
@@ -435,27 +415,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A mulher de Samaria"
-        },
-        {
-          "beforeVerse": 19,
-          "text": "A verdadeira adoração"
-        },
-        {
-          "beforeVerse": 31,
-          "text": "A ceifa e os ceifeiros"
+          "text": "A mulher samaritana junto ao poço"
         },
         {
           "beforeVerse": 39,
-          "text": "Muitos samaritanos creem em Jesus"
+          "text": "Muitos samaritanos creem"
         },
         {
           "beforeVerse": 43,
-          "text": "Jesus volta à Galileia"
-        },
-        {
-          "beforeVerse": 46,
-          "text": "A cura do filho de um oficial do rei"
+          "text": "Jesus cura o filho de um oficial"
         }
       ]
     },
@@ -545,11 +513,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A cura de um paralítico"
+          "text": "Jesus cura um homem no sábado"
         },
         {
-          "beforeVerse": 19,
-          "text": "Jesus explica a sua missão"
+          "beforeVerse": 16,
+          "text": "Jesus afirma ser o Filho de Deus"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Testemunhas de Jesus"
         }
       ]
     },
@@ -663,27 +635,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A multiplicação de pães e peixes ; ;"
+          "text": "A primeira multiplicação dos pães"
         },
         {
           "beforeVerse": 16,
-          "text": "Jesus anda por sobre o mar ;"
+          "text": "Jesus anda sobre o mar"
         },
         {
           "beforeVerse": 22,
           "text": "Jesus, o pão da vida"
         },
         {
-          "beforeVerse": 41,
-          "text": "A murmuração dos judeus"
-        },
-        {
           "beforeVerse": 60,
-          "text": "Os discípulos escandalizados"
-        },
-        {
-          "beforeVerse": 66,
-          "text": "Muitos discípulos se retiram"
+          "text": "Muitos discípulos abandonam Jesus"
         }
       ]
     },
@@ -779,27 +743,23 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A incredulidade dos irmãos de Jesus"
+          "text": "Jesus e seus irmãos"
         },
         {
           "beforeVerse": 10,
-          "text": "Jesus na Festa dos Tabernáculos"
-        },
-        {
-          "beforeVerse": 14,
-          "text": "A controvérsia entre Jesus e os judeus"
+          "text": "Jesus ensina abertamente no templo"
         },
         {
           "beforeVerse": 25,
-          "text": "Os guardas mandados para prender Jesus"
+          "text": "Jesus é o Messias?"
         },
         {
           "beforeVerse": 37,
-          "text": "Jesus, a fonte da água viva"
+          "text": "Jesus promete água viva"
         },
         {
-          "beforeVerse": 45,
-          "text": "Os guardas voltam sem Jesus"
+          "beforeVerse": 40,
+          "text": "Divisão e descrença"
         }
       ]
     },
@@ -913,7 +873,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A mulher adúltera"
+          "text": "Uma mulher é pega em adultério"
         },
         {
           "beforeVerse": 12,
@@ -921,7 +881,11 @@
         },
         {
           "beforeVerse": 21,
-          "text": "Jesus defende a sua missão e autoridade"
+          "text": "O povo incrédulo é advertido"
+        },
+        {
+          "beforeVerse": 31,
+          "text": "Jesus e Abraão"
         }
       ]
     },
@@ -1005,15 +969,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A cura de um cego de nascença"
-        },
-        {
-          "beforeVerse": 13,
-          "text": "Os fariseus interrogam o cego"
+          "text": "Jesus traz luz aos cegos"
         },
         {
           "beforeVerse": 35,
-          "text": "Jesus revela-se ao cego"
+          "text": "Cegueira espiritual"
         }
       ]
     },
@@ -1093,15 +1053,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus, o bom pastor"
-        },
-        {
-          "beforeVerse": 19,
-          "text": "Nova dissensão entre os judeus"
+          "text": "O Bom Pastor e suas ovelhas"
         },
         {
           "beforeVerse": 22,
-          "text": "A Festa da Dedicação. Jesus é interrogado"
+          "text": "Jesus afirma ser o Filho de Deus"
         }
       ]
     },
@@ -1214,8 +1170,8 @@
           "text": "A ressurreição de Lázaro"
         },
         {
-          "beforeVerse": 47,
-          "text": "O plano para tirar a vida de Jesus"
+          "beforeVerse": 45,
+          "text": "A conspiração para matar Jesus"
         }
       ]
     },
@@ -1323,27 +1279,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus ungido por Maria em Betânia ;"
-        },
-        {
-          "beforeVerse": 9,
-          "text": "O plano para tirar a vida de Lázaro"
+          "text": "Jesus é ungido em Betânia"
         },
         {
           "beforeVerse": 12,
-          "text": "A entrada triunfal de Jesus em Jerusalém ; ;"
+          "text": "A entrada de Jesus em Jerusalém"
         },
         {
           "beforeVerse": 20,
-          "text": "Alguns gregos desejam ver Jesus"
+          "text": "Jesus prediz sua morte"
         },
         {
           "beforeVerse": 37,
-          "text": "A explicação da incredulidade dos judeus"
-        },
-        {
-          "beforeVerse": 44,
-          "text": "O resumo do ensino de Jesus"
+          "text": "A incredulidade do povo"
         }
       ]
     },
@@ -1419,23 +1367,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus lava os pés aos discípulos"
+          "text": "Jesus lava os pés de seus discípulos"
         },
         {
-          "beforeVerse": 12,
-          "text": "Uma lição de humildade"
-        },
-        {
-          "beforeVerse": 21,
-          "text": "O traidor indicado"
+          "beforeVerse": 18,
+          "text": "Jesus prediz a traição de Judas"
         },
         {
           "beforeVerse": 31,
-          "text": "O novo mandamento"
-        },
-        {
-          "beforeVerse": 36,
-          "text": "Pedro é avisado ; ;"
+          "text": "Jesus prediz a negação de Pedro"
         }
       ]
     },
@@ -1504,11 +1444,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus conforta os discípulos"
+          "text": "Jesus, o caminho para o Pai"
         },
         {
-          "beforeVerse": 16,
-          "text": "Jesus promete outro Consolador"
+          "beforeVerse": 15,
+          "text": "Jesus promete o Espírito Santo"
         }
       ]
     },
@@ -1573,7 +1513,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A videira e os ramos"
+          "text": "Jesus, a videira verdadeira"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "Os discípulos de Jesus e o mundo"
         }
       ]
     },
@@ -1643,12 +1587,12 @@
       "keyTakeaway": "Advertindo sobre a expulsão das sinagogas e sobre assassinos que pensam prestar culto a Deus, Jesus diz que a sua partida é para o bem deles, pois o Consolador virá para convencer o mundo do pecado, da justiça e do juízo e para guiá-los a toda a verdade; a tristeza deles se tornará alegria como a da mulher depois do parto, o próprio Pai os ama e dará o que pedirem em nome de Jesus, e, embora se dispersem e enfrentem aflição, ele os anima a ter coragem, pois venceu o mundo.",
       "headings": [
         {
-          "beforeVerse": 1,
-          "text": "A missão do Consolador"
+          "beforeVerse": 5,
+          "text": "A obra do Espírito Santo"
         },
         {
-          "beforeVerse": 25,
-          "text": "Palavras de despedida"
+          "beforeVerse": 16,
+          "text": "A tristeza será transformada em alegria"
         }
       ]
     },
@@ -1712,7 +1656,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A oração sacerdotal de Jesus"
+          "text": "A oração de Jesus"
         }
       ]
     },
@@ -1795,31 +1739,27 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus no Getsêmani ; ;"
+          "text": "Jesus é traído e preso"
         },
         {
-          "beforeVerse": 12,
-          "text": "Jesus perante Anás"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "Pedro nega a Jesus ; ;"
+          "beforeVerse": 13,
+          "text": "Pedro nega Jesus pela primeira vez"
         },
         {
           "beforeVerse": 19,
-          "text": "Anás interroga a Jesus"
+          "text": "O sumo sacerdote interroga Jesus"
         },
         {
           "beforeVerse": 25,
-          "text": "De novo, Pedro nega a Jesus"
+          "text": "Pedro nega Jesus pela segunda e terceira vez"
         },
         {
           "beforeVerse": 28,
-          "text": "Jesus perante Pilatos ; ;"
+          "text": "O julgamento de Jesus diante de Pilatos"
         },
         {
-          "beforeVerse": 33,
-          "text": "Pilatos interroga a Jesus ; ; ,"
+          "beforeVerse": 39,
+          "text": "Jesus é condenado à morte"
         }
       ]
     },
@@ -1924,23 +1864,15 @@
       "headings": [
         {
           "beforeVerse": 17,
-          "text": "A crucificação ; ;"
-        },
-        {
-          "beforeVerse": 23,
-          "text": "Os soldados deitam sortes"
+          "text": "A crucificação"
         },
         {
           "beforeVerse": 28,
-          "text": "A morte de Jesus ; ;"
-        },
-        {
-          "beforeVerse": 31,
-          "text": "Um soldado abre o lado de Jesus com uma lança"
+          "text": "A morte de Jesus"
         },
         {
           "beforeVerse": 38,
-          "text": "O sepultamento de Jesus ; ;"
+          "text": "O sepultamento de Jesus"
         }
       ]
     },
@@ -2014,7 +1946,7 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "A ressurreição de Jesus ; ;"
+          "text": "A ressurreição"
         },
         {
           "beforeVerse": 11,
@@ -2022,19 +1954,15 @@
         },
         {
           "beforeVerse": 19,
-          "text": "Jesus aparece aos discípulos"
+          "text": "Jesus aparece a seus discípulos"
         },
         {
           "beforeVerse": 24,
-          "text": "A incredulidade de Tomé"
-        },
-        {
-          "beforeVerse": 26,
-          "text": "Jesus aparece novamente aos discípulos"
+          "text": "Jesus aparece a Tomé"
         },
         {
           "beforeVerse": 30,
-          "text": "O objetivo deste Evangelho"
+          "text": "Propósito do livro"
         }
       ]
     },
@@ -2102,15 +2030,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "Jesus aparece a sete discípulos"
-        },
-        {
-          "beforeVerse": 15,
-          "text": "Pedro é interrogado"
+          "text": "Epílogo: Jesus aparece a sete discípulos"
         },
         {
           "beforeVerse": 24,
-          "text": "O testemunho de João"
+          "text": "Observações finais"
         }
       ]
     }

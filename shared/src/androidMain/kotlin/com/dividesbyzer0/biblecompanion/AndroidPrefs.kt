@@ -6,6 +6,7 @@ import androidx.datastore.preferences.core.Preferences
 import androidx.datastore.preferences.core.booleanPreferencesKey
 import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.core.floatPreferencesKey
+import androidx.datastore.preferences.core.intPreferencesKey
 import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import com.dividesbyzer0.biblecompanion.platform.PlatformContext
@@ -39,6 +40,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val LAST_READ_BOOK_TITLE = stringPreferencesKey("last_read_book_title")
         val LAST_READ_STORY_ID = stringPreferencesKey("last_read_story_id")
         val LAST_READ_SOURCE_LANGUAGE = stringPreferencesKey("last_read_source_language")
+        val LAST_READ_SOURCE_EDITION = stringPreferencesKey("last_read_source_edition")
         val ONBOARDING_COMPLETE = booleanPreferencesKey("onboarding_complete")
         val STUDY_PINNED = booleanPreferencesKey("study_pinned")
         val THEME_PRESET = stringPreferencesKey("theme_preset")
@@ -55,6 +57,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val TTS_READ_INTROS = booleanPreferencesKey("tts_read_intros")
         val NOTES_EXPANDED_SECTIONS_JSON = stringPreferencesKey("notes_expanded_sections_json")
         val VOTD_DISMISSED_DATE = stringPreferencesKey("votd_dismissed_date")
+        val DAILY_VERSE_NOTIFICATIONS = booleanPreferencesKey("daily_verse_notifications")
+        val DAILY_VERSE_NOTIFICATION_TIME = intPreferencesKey("daily_verse_notification_time")
         val AI_SEARCH = booleanPreferencesKey("ai_search")
         val BOOKMARKS_JSON = stringPreferencesKey("bookmarks_json")
         val SAVED_VERSES_JSON = stringPreferencesKey("saved_verses_json")
@@ -93,6 +97,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             lastReadBookTitle = p[Keys.LAST_READ_BOOK_TITLE],
             lastReadStoryId = p[Keys.LAST_READ_STORY_ID],
             lastReadSourceLanguage = p[Keys.LAST_READ_SOURCE_LANGUAGE],
+            lastReadSourceEdition = p[Keys.LAST_READ_SOURCE_EDITION],
             onboardingComplete = p[Keys.ONBOARDING_COMPLETE] ?: false,
             studyPinned = p[Keys.STUDY_PINNED] ?: false,
             themePreset = p[Keys.THEME_PRESET] ?: "parchment",
@@ -109,6 +114,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             ttsReadIntros = p[Keys.TTS_READ_INTROS] ?: false,
             notesExpandedSectionsJson = p[Keys.NOTES_EXPANDED_SECTIONS_JSON] ?: "{}",
             votdDismissedDate = p[Keys.VOTD_DISMISSED_DATE] ?: "",
+            dailyVerseNotifications = p[Keys.DAILY_VERSE_NOTIFICATIONS] ?: false,
+            dailyVerseNotificationMinuteOfDay = (p[Keys.DAILY_VERSE_NOTIFICATION_TIME] ?: 540).coerceIn(0, 1439),
             aiSearch = p[Keys.AI_SEARCH] ?: true
         )
     }
@@ -154,7 +161,14 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
     actual suspend fun setTextSizeScale(scale: Float) =
         context.dataStore.edit { it[Keys.TEXT_SIZE_SCALE] = scale }.let { Unit }
 
-    actual suspend fun setLastRead(collection: String, bookId: String, bookTitle: String, storyId: String?, sourceLanguage: String?) =
+    actual suspend fun setLastRead(
+        collection: String,
+        bookId: String,
+        bookTitle: String,
+        storyId: String?,
+        sourceLanguage: String?,
+        sourceEdition: String?
+    ) =
         context.dataStore.edit {
             it[Keys.LAST_READ_COLLECTION] = collection
             it[Keys.LAST_READ_BOOK_ID] = bookId
@@ -163,6 +177,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             else it.remove(Keys.LAST_READ_STORY_ID)
             if (sourceLanguage != null) it[Keys.LAST_READ_SOURCE_LANGUAGE] = sourceLanguage
             else it.remove(Keys.LAST_READ_SOURCE_LANGUAGE)
+            if (sourceEdition != null) it[Keys.LAST_READ_SOURCE_EDITION] = sourceEdition
+            else it.remove(Keys.LAST_READ_SOURCE_EDITION)
         }.let { Unit }
 
     actual suspend fun setOnboardingComplete(complete: Boolean) =
@@ -210,11 +226,23 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
     actual suspend fun setNotesExpandedSections(json: String) =
         context.dataStore.edit { it[Keys.NOTES_EXPANDED_SECTIONS_JSON] = json }.let { Unit }
 
+    actual suspend fun setNoteScreenState(language: String, assetFileName: String, stateJson: String) =
+        context.dataStore.edit {
+            it[Keys.NOTES_EXPANDED_SECTIONS_JSON] = mergeNotesScreenState(
+                it[Keys.NOTES_EXPANDED_SECTIONS_JSON] ?: "{}", language, assetFileName, stateJson)
+        }.let { Unit }
+
     actual suspend fun setVotdDismissedDate(date: String) =
         context.dataStore.edit { it[Keys.VOTD_DISMISSED_DATE] = date }.let { Unit }
 
     actual suspend fun setAiSearch(enabled: Boolean) =
         context.dataStore.edit { it[Keys.AI_SEARCH] = enabled }.let { Unit }
+
+    actual suspend fun setDailyVerseNotifications(enabled: Boolean) =
+        context.dataStore.edit { it[Keys.DAILY_VERSE_NOTIFICATIONS] = enabled }.let { Unit }
+
+    actual suspend fun setDailyVerseNotificationTime(minuteOfDay: Int) =
+        context.dataStore.edit { it[Keys.DAILY_VERSE_NOTIFICATION_TIME] = minuteOfDay.coerceIn(0, 1439) }.let { Unit }
 
     actual val bookmarksFlow: Flow<List<Bookmark>> = context.dataStore.data.map { p ->
         val raw = p[Keys.BOOKMARKS_JSON] ?: return@map emptyList()

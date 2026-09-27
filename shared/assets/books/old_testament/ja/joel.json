@@ -56,7 +56,15 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "いなごによる荒廃"
+          "text": "1"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "いなごの来襲"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "悲しみなさい"
         }
       ]
     },
@@ -131,11 +139,19 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "主の怒りの日"
+          "text": "2\nいなごの軍隊"
         },
         {
           "beforeVerse": 12,
-          "text": "主の慈しみ"
+          "text": "心を引き裂きなさい"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "主からの答え"
+        },
+        {
+          "beforeVerse": 28,
+          "text": "主の日"
         }
       ]
     },
@@ -194,7 +210,11 @@
       "headings": [
         {
           "beforeVerse": 1,
-          "text": "神の霊の降臨"
+          "text": "3\n諸国へのさばき"
+        },
+        {
+          "beforeVerse": 18,
+          "text": "神の民への祝福"
         }
       ]
     }

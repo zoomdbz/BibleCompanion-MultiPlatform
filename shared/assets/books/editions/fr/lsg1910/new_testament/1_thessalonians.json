@@ -62,6 +62,16 @@
           "verse": 10,
           "text": "et pour attendre des cieux son Fils, qu’il a ressuscité des morts, Jésus, qui nous délivre de la colère à venir."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Salutation"
+        },
+        {
+          "beforeVerse": 2,
+          "text": "La vie et la foi des Thessaloniciens"
+        }
       ]
     },
     {
@@ -169,6 +179,12 @@
           "verse": 20,
           "text": "Oui, vous êtes notre gloire et notre joie."
         }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 17,
+          "text": "Paul désire revoir les Thessaloniciens"
+        }
       ]
     },
     {
@@ -241,7 +257,8 @@
           "verse": 13,
           "text": "afin d’affermir vos cœurs pour qu’ils soient irréprochables dans la sainteté devant Dieu notre Père, lors de l’avènement de notre Seigneur Jésus avec tous ses saints!"
         }
-      ]
+      ],
+      "headings": []
     },
     {
       "number": 4,
@@ -337,6 +354,16 @@
           "chapter": 4,
           "verse": 18,
           "text": "Consolez-vous donc les uns les autres par ces paroles."
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "Ce que Dieu veut, c'est votre consécration"
+        },
+        {
+          "beforeVerse": 13,
+          "text": "Ceux qui se sont endormis dans la mort"
         }
       ]
     },
@@ -484,6 +511,16 @@
           "chapter": 5,
           "verse": 28,
           "text": "Que la grâce de notre Seigneur Jésus-Christ soit avec vous!"
+        }
+      ],
+      "headings": [
+        {
+          "beforeVerse": 1,
+          "text": "En attendant le jour du Seigneur"
+        },
+        {
+          "beforeVerse": 12,
+          "text": "Recommandations et bénédiction finale"
         }
       ]
     }

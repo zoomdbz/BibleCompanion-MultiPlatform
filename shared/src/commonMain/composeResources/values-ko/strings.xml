@@ -237,6 +237,8 @@
     <string name="prophecy_revelation_desc">히브리어 관용구와 절기 연결이 포함된 체계적 읽기 안내</string>
     <string name="prophecy_revelation_timeline">요한계시록 연대표</string>
     <string name="prophecy_revelation_timeline_desc">인, 나팔, 대접, 그리스도의 재림, 천년왕국, 새 예루살렘</string>
+    <string name="prophecy_second_coming_rapture">그리스도의 재림과 휴거</string>
+    <string name="prophecy_second_coming_rapture_desc">그리스도의 재림, 부활, 성도의 모임, 진노와 주요 시기 견해</string>
     <!-- Data -->
     <string name="data_section">데이터</string>
     <string name="data_section_desc">즐겨찾기, 저장된 구절, 하이라이트, 라벨을 기기 간에 전송하세요. 내보내기를 눌러 데이터를 클립보드에 복사한 다음 다른 기기의 가져오기에 붙여넣으세요. 설정과 환경 설정은 포함되지 않습니다.</string>
@@ -371,4 +373,12 @@
     <string name="chronology_gospel_journey">예루살렘으로 가는 길과 유대 사역</string>
     <string name="chronology_gospel_final_week">마지막 주간과 십자가 처형</string>
     <string name="chronology_gospel_resurrection">부활</string>
+    <string name="daily_notification_title">알림</string>
+    <string name="daily_notification_toggle">매일 성경 구절 알림</string>
+    <string name="daily_notification_desc">선택한 현지 시각에 성경 구절을 받습니다. 알림을 눌러 읽거나 복사 또는 공유를 선택하세요. 기기 상태에 따라 알림이 늦어질 수 있습니다.</string>
+    <string name="daily_notification_time">알림 시각</string>
+    <string name="daily_notification_save">시각 저장</string>
+    <string name="daily_notification_ios_window">iOS는 최대 60일분의 구절을 예약합니다. 앱을 정기적으로 열어 예약을 갱신하세요.</string>
+    <string name="daily_notification_permission_denied">알림이 차단되어 있습니다. 기기 설정에서 알림을 허용한 뒤 이 기능을 켜세요.</string>
+    <string name="daily_notification_system_settings">기기 알림 설정</string>
 </resources>

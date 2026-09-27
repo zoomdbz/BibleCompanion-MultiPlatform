@@ -34,6 +34,27 @@
 
 歴史的なテトラッドはユダヤ人の歴史における主要な転機と一致しています。2024～2033年のクラスターはテトラッドを形成しませんが、2015年以来の最初の祭りの日の血の月と、4年連続（5784～5787年）でプリムの記念日に起こる月食を含み、2033年単独で4つの祭り一致の日食を集約しています。これらの一致が予言的な重みを持つかどうかは解釈の問題です；天文学的出来事そのものは記録された事実です。
 
+<!-- ECLIPSE_CATALOG_2024_2033_BEGIN -->
+### 2024～2033年の完全な日食・月食カタログ
+
+このカタログには、聖書暦やユダヤ暦の日付と一致する現象だけでなく、NASAの2024年から2033年までの10年表に記載されたすべての日食と月食を収録しています。日付は食が最大となるUTC暦日です。皆既月食では、一般に「血の月」と呼ばれる赤い外観が生じることがあります。部分月食と半影月食は別の現象であり、それぞれ明記しています。観測可能な地域は場所によって異なります。
+
+| 年 | 日食 | 月食 |
+|---|---|---|
+| 2024 | 2024-04-08 - 皆既 <!-- eclipse:2024-04-08:solar-total -->; 2024-10-02 - 金環 <!-- eclipse:2024-10-02:solar-annular --> | 2024-03-25 - 半影 <!-- eclipse:2024-03-25:lunar-penumbral -->; 2024-09-18 - 部分 <!-- eclipse:2024-09-18:lunar-partial --> |
+| 2025 | 2025-03-29 - 部分 <!-- eclipse:2025-03-29:solar-partial -->; 2025-09-21 - 部分 <!-- eclipse:2025-09-21:solar-partial --> | 2025-03-14 - 皆既 <!-- eclipse:2025-03-14:lunar-total -->; 2025-09-07 - 皆既 <!-- eclipse:2025-09-07:lunar-total --> |
+| 2026 | 2026-02-17 - 金環 <!-- eclipse:2026-02-17:solar-annular -->; 2026-08-12 - 皆既 <!-- eclipse:2026-08-12:solar-total --> | 2026-03-03 - 皆既 <!-- eclipse:2026-03-03:lunar-total -->; 2026-08-28 - 部分 <!-- eclipse:2026-08-28:lunar-partial --> |
+| 2027 | 2027-02-06 - 金環 <!-- eclipse:2027-02-06:solar-annular -->; 2027-08-02 - 皆既 <!-- eclipse:2027-08-02:solar-total --> | 2027-02-20 - 半影 <!-- eclipse:2027-02-20:lunar-penumbral -->; 2027-07-18 - 半影 <!-- eclipse:2027-07-18:lunar-penumbral -->; 2027-08-17 - 半影 <!-- eclipse:2027-08-17:lunar-penumbral --> |
+| 2028 | 2028-01-26 - 金環 <!-- eclipse:2028-01-26:solar-annular -->; 2028-07-22 - 皆既 <!-- eclipse:2028-07-22:solar-total --> | 2028-01-12 - 部分 <!-- eclipse:2028-01-12:lunar-partial -->; 2028-07-06 - 部分 <!-- eclipse:2028-07-06:lunar-partial -->; 2028-12-31 - 皆既 <!-- eclipse:2028-12-31:lunar-total --> |
+| 2029 | 2029-01-14 - 部分 <!-- eclipse:2029-01-14:solar-partial -->; 2029-06-12 - 部分 <!-- eclipse:2029-06-12:solar-partial -->; 2029-07-11 - 部分 <!-- eclipse:2029-07-11:solar-partial -->; 2029-12-05 - 部分 <!-- eclipse:2029-12-05:solar-partial --> | 2029-06-26 - 皆既 <!-- eclipse:2029-06-26:lunar-total -->; 2029-12-20 - 皆既 <!-- eclipse:2029-12-20:lunar-total --> |
+| 2030 | 2030-06-01 - 金環 <!-- eclipse:2030-06-01:solar-annular -->; 2030-11-25 - 皆既 <!-- eclipse:2030-11-25:solar-total --> | 2030-06-15 - 部分 <!-- eclipse:2030-06-15:lunar-partial -->; 2030-12-09 - 半影 <!-- eclipse:2030-12-09:lunar-penumbral --> |
+| 2031 | 2031-05-21 - 金環 <!-- eclipse:2031-05-21:solar-annular -->; 2031-11-14 - 金環皆既 <!-- eclipse:2031-11-14:solar-hybrid --> | 2031-05-07 - 半影 <!-- eclipse:2031-05-07:lunar-penumbral -->; 2031-06-05 - 半影 <!-- eclipse:2031-06-05:lunar-penumbral -->; 2031-10-30 - 半影 <!-- eclipse:2031-10-30:lunar-penumbral --> |
+| 2032 | 2032-05-09 - 金環 <!-- eclipse:2032-05-09:solar-annular -->; 2032-11-03 - 部分 <!-- eclipse:2032-11-03:solar-partial --> | 2032-04-25 - 皆既 <!-- eclipse:2032-04-25:lunar-total -->; 2032-10-18 - 皆既 <!-- eclipse:2032-10-18:lunar-total --> |
+| 2033 | 2033-03-30 - 皆既 <!-- eclipse:2033-03-30:solar-total -->; 2033-09-23 - 部分 <!-- eclipse:2033-09-23:solar-partial --> | 2033-04-14 - 皆既 <!-- eclipse:2033-04-14:lunar-total -->; 2033-10-08 - 皆既 <!-- eclipse:2033-10-08:lunar-total --> |
+
+出典：[NASAの日食（2021～2030年）](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2021.html)、[NASAの日食（2031～2040年）](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2031.html)、[NASAの月食（2021～2030年）](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2021.html)、[NASAの月食（2031～2040年）](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2031.html)。食の予測はNASAゴダード宇宙飛行センターのフレッド・エスペナックによるものです。
+<!-- ECLIPSE_CATALOG_2024_2033_END -->
+
 ---
 ## 日食
 

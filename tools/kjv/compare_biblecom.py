@@ -220,7 +220,13 @@ def normalize_boundary_whitespace(text: str) -> str:
     while previous != value:
         previous = value
         value = boundary_pattern.sub(replace_boundary, value)
-    return unicodedata.normalize("NFC", value.strip(ASCII_WHITESPACE))
+    # DOM layout can leave any Unicode separator at a native verse boundary
+    # (notably NBSP and narrow NBSP in French/German pages). Boundary spacing
+    # is not Scripture text; retaining it also makes repeated syncs append the
+    # separator again before the app's native reference marker. Preserve such
+    # characters inside the verse, but remove all Unicode whitespace at the
+    # two outer boundaries.
+    return unicodedata.normalize("NFC", value.strip())
 
 
 def parse_semantic_text(text: str, reference: str) -> SemanticText:
