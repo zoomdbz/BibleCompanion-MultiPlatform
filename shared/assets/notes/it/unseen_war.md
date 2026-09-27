@@ -546,12 +546,12 @@ Maometto prese più di quattro mogli, superando il limite del Corano e la proibi
 
 #### 3) Moglie del figlio adottivo
 **Corano 33:37 (Sahih International)**
-> «Quando Zayd non ebbe più bisogno di lei, te l’abbiamo data in moglie…»
+> «E [ricorda, o Muhammad] quando dicevi a colui che Allah aveva favorito e che tu avevi favorito: “Tieni con te tua moglie e temi Allah”, mentre nascondevi dentro di te ciò che Allah avrebbe rivelato. Temevi la gente, mentre Allah ha più diritto di essere temuto da te. Quando poi Zayd non ebbe più bisogno di lei, te la demmo in moglie, affinché i credenti non provassero alcun disagio riguardo alle mogli dei loro figli adottivi quando questi non ne hanno più bisogno. E il comando di Allah è sempre adempiuto.»
 
 La Torà proibisce unione del genere.
 
 **(Levitico 18:15)**
-> «Non scoprirai la nudità di tua nuora: è la moglie di tuo figlio.»
+> «Non scoprirai la nudità di tua nuora; è la moglie di tuo figlio, non scoprirai la sua nudità.»
 
 #### 4) Violenza e conversioni forzate
 **Corano 9:5 (Sahih International)**
@@ -568,8 +568,14 @@ Invece la Legge condanna l’omicidio e Gesù rifiutò la violenza per la fede.
 #### 5) Negazione di Cristo
 Il Corano nega la figliolanza e la croce.
 
-**Corano 4:171; 112:3; 4:157 (Sahih International)**
-> «Non dite “Tre”… Non genera e non è generato… Non l’hanno ucciso né crocifisso…»
+**Corano 4:171 (Sahih International)**
+> «O Gente della Scrittura, non eccedete nella vostra religione e non dite su Allah altro che la verità. Il Messia, Gesù figlio di Maria, non era che un messaggero di Allah, la Sua parola che Egli rivolse a Maria e uno spirito [creato a un comando] proveniente da Lui. Credete dunque in Allah e nei Suoi messaggeri. Non dite: “Tre”; desistete, è meglio per voi. In verità Allah è un Dio solo. Egli è troppo eccelso per avere un figlio.»
+
+**Corano 112:3 (Sahih International)**
+> «Non genera e non è generato.»
+
+**Corano 4:157 (Sahih International)**
+> «E per aver detto: “Abbiamo ucciso il Messia, Gesù figlio di Maria, il messaggero di Allah”. Invece non l’hanno ucciso né crocifisso; ma un altro fu reso ai loro occhi simile a lui. In verità coloro che dissentono a questo riguardo sono nel dubbio. Non ne hanno alcuna conoscenza, ma seguono soltanto congetture. E certamente non l’hanno ucciso.»
 
 La Bibbia insegna l’opposto: Gesù è il Figlio eterno di Dio, crocifisso e risorto.
 
@@ -636,14 +642,14 @@ La Sura 33 concede a Maometto esenzioni uniche.
 
 #### Mogli e concubine illimitate
 **Corano 33:50 (Sahih International)**
-> «O Profeta! Ti abbiamo reso lecite le tue mogli… e qualsiasi credente che si doni al Profeta… solo per te, non per i credenti.»
+> «O Profeta, in verità ti abbiamo reso lecite le tue mogli alle quali hai dato il compenso dovuto, quelle che la tua destra possiede fra le prigioniere che Allah ti ha assegnato, le figlie dei tuoi zii paterni, delle tue zie paterne, dei tuoi zii materni e delle tue zie materne che sono emigrate con te, e una donna credente se si offre al Profeta e se il Profeta desidera sposarla; questo privilegio è soltanto per te, esclusi gli altri credenti. Sappiamo bene ciò che abbiamo reso obbligatorio per loro riguardo alle loro mogli e a quelle che la loro destra possiede, ma questo è affinché tu non abbia alcun disagio. Allah è perdonatore e misericordioso.»
 
-Qui Maometto ottiene in pratica donne illimitate; i musulmani ordinari sono limitati a quattro (4:3).
+Qui a Maometto sono concesse mogli e concubine senza limite, mentre i musulmani ordinari sono limitati a quattro (Corano 4:3).
 
 La Torà vieta moltiplicare le mogli.
 
 **(Deuteronomio 17:17)**
-> «Non abbia molte mogli…»
+> «Non prenda per sé molte mogli, affinché il suo cuore non si svii; e non accumuli per sé quantità eccessive d’argento e d’oro.»
 
 #### Restrizioni esclusive
 **Corano 33:52 (Sahih International)**
@@ -688,24 +694,30 @@ La Bibbia: sei giorni di creazione, settimo di riposo (Genesi 1:31–2:2).
 
 **Corano 5:90**: gli inebrianti sono opera di Satana; evitateli.
 
-La Bibbia: condanna l’ubriachezza, ammette il vino con moderazione (Sal 104:15; Ef 5:18).
+L’insegnamento cambia nel tempo. La Bibbia condanna coerentemente l’ubriachezza, pur ammettendo il vino con moderazione (Salmo 104:15; Efesini 5:18).
 
 #### 3) Violenza vs. Pace
-**Corano 2:256**: «Nessuna costrizione nella religione.»
+**Corano 2:256 (Sahih International)**
+> «Non c’è costrizione nella religione. La retta via si distingue chiaramente dall’errore. Chi dunque rinnega i Taghut e crede in Allah si è afferrato al sostegno più saldo, che non si spezza. Allah tutto ascolta e tutto conosce.»
 
-**Corano 9:5; 9:29**: uccidete i politeisti… prendete la jizya dagli ebrei e cristiani…
+**Corano 9:5 (Sahih International)**
+> «Quando saranno trascorsi i mesi sacri, uccidete i politeisti ovunque li troviate, catturateli, assediateli e appostatevi contro di loro in ogni luogo d’imboscata…»
 
-Molti studiosi musulmani considerano le seconde ayat abroganti delle prime. Gesù insegnò l’amore per i nemici.
+Corano 9:29 (Sahih International):
+
+> «Combattete coloro che non credono in Allah né nell’Ultimo Giorno, che non considerano illecito ciò che Allah e il Suo Messaggero hanno dichiarato illecito e che, tra coloro ai quali fu data la Scrittura, non professano la religione della verità, finché non paghino spontaneamente la jizya e siano umiliati.»
+
+Il versetto pacifico è anteriore; quello violento è successivo e gli studiosi musulmani ritengono che abroghi il primo. Gesù non comandò mai ai Suoi seguaci di uccidere per la fede. Disse invece:
 
 **(Matteo 5:44)**
-> «Amate i vostri nemici e pregate per quelli che vi perseguitano.»
+> «Ma io vi dico: amate i vostri nemici e pregate per quelli che vi perseguitano.»
 
 #### 4) Destino vs. Libero arbitrio
-**Corano 18:29**: «Chi vuole creda, chi vuole rinneghi.»
+**Corano 18:29 (Sahih International)**: «E di’: “La verità viene dal vostro Signore; chi vuole creda e chi vuole non creda”.»
 
-**Corano 16:93**: «Allah svia chi vuole e guida chi vuole…»
+**Corano 16:93 (Sahih International)**: «Se Allah avesse voluto, avrebbe fatto di voi un’unica comunità religiosa; ma svia chi vuole e guida chi vuole…»
 
-La Bibbia tiene insieme sovranità divina e responsabilità umana (Romani 9:19–21; Gs 24:15).
+Il Corano afferma il libero arbitrio in un passo e lo nega in un altro. La Bibbia tiene insieme la sovranità di Dio e la responsabilità umana (Romani 9:19–21; Giosuè 24:15).
 
 #### 5) Morte di Gesù
 **Corano 4:157**: negazione.
@@ -718,11 +730,13 @@ La Bibbia: coerente:
 > «Cristo è morto per i nostri peccati… è stato sepolto… è risuscitato il terzo giorno…»
 
 **Storici a conferma:**
-- **Tacito, Annales 15.44**: «Cristo… subì la pena sotto Pilato.»
+- **Tacito, *Annales* 15.44**: «Cristo subì la pena estrema durante il regno di Tiberio per mano di uno dei nostri procuratori, Ponzio Pilato.»
 
-- **Giuseppe Flavio, Antichità 18.3.3**: «Pilato… lo condannò alla croce.»
+- **Giuseppe Flavio, *Antichità* 18.3.3**: «Pilato lo condannò alla croce.»
 
-- **Luciano**, **Mara bar-Serapion**: riferimenti alla croce.
+- **Luciano di Samosata**: derise i cristiani perché adoravano «l’uomo che fu crocifisso in Palestina».
+
+- **Mara bar-Serapion**: scrisse degli ebrei che giustiziarono il loro «re saggio».
 
 #### 6) Versi mancanti
 Fonti islamiche affermano:
@@ -911,32 +925,32 @@ La «Stella di David» (esagramma) non si trova da nessuna parte nella Scrittura
 
 - **(Matteo 22:39)** – «Ama il tuo prossimo come te stesso.»  
 
-- *Significato:* La virtù confuciana trova pieno compimento in Gesù.  
+- *Significato:* L’insegnamento confuciano valorizza l’ordine familiare e la formazione morale; la Bibbia afferma un’educazione secondo Dio e l’amore per il prossimo.
 
 **Taoismo (道家) – Il Dao come ordine della vita.**  
-- **(Giovanni 1:1)** – «In principio era il Verbo (Logos/Dao).»  
+- **(Giovanni 1:1)** – «In principio era il Verbo (Logos/Dao), il Verbo era con Dio e il Verbo era Dio.»
 
 - **(Giovanni 14:6)** – «Io sono la Via, la Verità e la Vita.»  
 
 - **(Salmo 46:10)** – «Fermatevi, e riconoscete che io sono Dio.»  
 
-- *Significato:* Gesù è il Dao vivente, la Via incarnata.  
+- *Significato:* Il taoismo cerca l’armonia con il Dao; Gesù è rivelato come il Dao eterno fatto carne, la vera Via.
 
 **Buddhismo (佛教, Mahāyāna 大乘) – Compassione, Terra Pura, speranza di liberazione dalla sofferenza.**  
-- **(Giovanni 15:13)** – L’amore supremo è dare la vita.  
+- **(Giovanni 15:13)** – «Nessuno ha amore più grande di questo: dare la propria vita per i suoi amici.»
 
-- **(Matteo 11:28)** – «Venite a me… e io vi darò riposo.»  
+- **(Matteo 11:28)** – «Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò riposo.»
 
-- **(Apocalisse 21:4)** – «Dio asciugherà ogni lacrima.»  
+- **(Apocalisse 21:4)** – «Egli asciugherà ogni lacrima dai loro occhi.»
 
-- *Significato:* La compassione mahāyāna e la speranza della Terra Pura sono adempiute nell’amore e nel Regno di Cristo.  
+- *Significato:* Il Mahāyāna pone l’accento sulla compassione e su una Terra Pura di pace; Cristo compie entrambe attraverso il Suo amore sacrificale e la promessa del Suo Regno.
 
 **Completamento in Cristo:**  
 - **(Matteo 5:17)** – «Sono venuto non per abolire ma per compiere.»  
 
 - **(Colossesi 1:17)** – «Tutte le cose sussistono in lui.»  
 
-**Conclusione (Scrittura):** Virtù confuciana (Proverbi 22:6; Mt 22:39), armonia taoista (Gv 1:1; Sal 46:10), compassione buddhista (Gv 15:13; Mt 11:28; Ap 21:4) trovano il loro compimento in Cristo, la Via fatta carne.  
+**Conclusione (Scrittura):** Virtù confuciana (Proverbi 22:6; Mt 22:39), armonia taoista (Gv 1:1; Gv 14:6; Sal 46:10) e compassione buddhista (Gv 15:13; Mt 11:28; Ap 21:4) trovano il loro compimento in Cristo, il Dao fatto carne.
 
 ---  
 

@@ -164,15 +164,15 @@ L’Écriture donne plusieurs raisons aux réponses tardives, différentes ou re
 
 **1) Alignement sur la volonté de Dieu**
 
-- **1 Jean 5:14–15** : Demander « selon Sa volonté » donne l’assurance que « nous possédons les choses que nous Lui avons demandées ».
+- **1 Jean 5:14–15** : « Si nous demandons quelque chose selon Sa volonté, Il nous écoute… nous savons que nous possédons les demandes que nous Lui avons adressées. »
 
-- **Luc 22:42** : « Que ta volonté soit faite. »
+- **Luc 22:42** : Même Jésus a prié : « Non pas Ma volonté, mais la Tienne soit faite. » La prière ne consiste pas à contrôler, mais à communier avec Dieu.
 
-- **Jean 15:7** : « Si vous demeurez en moi… demandez ce que vous voudrez, et cela vous sera accordé. »
+- **Jean 15:7** : « Si vous demeurez en Moi et que Mes paroles demeurent en vous, demandez ce que vous voudrez, et cela vous sera accordé. »
 
 **2) Le temps et les desseins de Dieu**
 
-- **Habacuc 2:3** : « Si elle tarde, attends-la ; car elle s’accomplira, elle s’accomplira certainement. »
+- **Habacuc 2:3** : « Si elle semble tarder, attends-la ; elle viendra sûrement et ne tardera pas. »
 
 - **Jean 11:4–6** : Jésus retarde sa venue vers Lazare « pour la gloire de Dieu », puis le ressuscite.
 
@@ -190,13 +190,15 @@ L’Écriture donne plusieurs raisons aux réponses tardives, différentes ou re
 
 **4) Grâce suffisante quand la requête n’est pas accordée**
 
-- **2 Corinthiens 12:7–9** : Paul implore trois fois ; réponse : « Ma grâce te suffit, car ma puissance s’accomplit dans la faiblesse. »
+- **2 Corinthiens 12:7–9** : Paul implore trois fois que l’écharde soit retirée ; la réponse est : « Ma grâce te suffit, car Ma puissance s’accomplit dans la faiblesse. »
 
 **5) L’aide de l’Esprit dans la prière**
 
-- **Romains 8:26–28** : « L’Esprit nous aide dans notre faiblesse… toutes choses concourent au bien de ceux qui aiment Dieu. »
+- **Romains 8:26–28** : « L’Esprit nous aide dans notre faiblesse… l’Esprit Lui-même intercède pour nous par des soupirs trop profonds pour être exprimés… toutes choses concourent au bien de ceux qui aiment Dieu. »
 
-**Résumé biblique :** Le peuple de Dieu attend parfois ; Dieu entend ; les réponses s’accordent à Sa volonté, à Son temps et à Ses desseins ; les motifs et l’obéissance comptent ; la grâce soutient lorsque la demande n’est pas accordée ; l’Esprit intercède quand les mots manquent.
+- **Jacques 5:16** : « La prière fervente du juste a une grande efficacité. »
+
+**Résumé biblique :** Le peuple de Dieu attend parfois ; Dieu entend ; les réponses s’accordent à Sa volonté, à Son temps et à Ses desseins ; les motifs et l’obéissance comptent ; la grâce soutient lorsque la demande n’est pas accordée comme elle a été formulée ; l’Esprit intercède quand les mots manquent. La foi mûrit lorsque la prière porte moins sur le résultat et davantage sur la relation avec Dieu.
 
 ---
 

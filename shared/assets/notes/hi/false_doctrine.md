@@ -966,7 +966,7 @@ Gnosticism गुप्त ज्ञान प्रदान करता ह�
 
 ### Hebrew Roots, Sacred Name, और Torah-Observance-as-Salvation आंदोलन
 
-**अन्य नामों से भी जाना जाता है:** Hebrew Roots. Torah Observant Christianity. Messianic Torah movement. Sacred Name movement. Yahweh-only movement. Yahshua-only language groups. Two-House theology. Ephraimite movement. Nazarene Israel. Black Hebrew Israelite overlap. Israelite identity movements. Lunar Sabbath groups. Feast-keeping as salvation teaching.
+**अन्य नामों से भी जाना जाता है:** Hebrew Roots. Torah Observant Christianity. Messianic Torah movement. Sacred Name movement. Yahweh-only movement. Yahshua-only language groups. Two-House theology. Ephraimite movement. Nazarene Israel. Black Hebrew Israelite overlap. Israelite identity movements. Lunar Sabbath groups. Feast-keeping as salvation teaching. (इसे बाइबल के प्रति विश्वासयोग्य Messianic Judaism के साथ भ्रमित न करें।)
 
 **टिप्पणी:** यीशु में विश्वास करने वाले यहूदी विश्वासी और बाइबल के प्रति विश्वासयोग्य Messianic मण्डलियाँ इस आलोचना का लक्ष्य नहीं हैं। प्रेरित यहूदी थे। यीशु यहूदी थे। पुराना नियम मसीही पवित्रशास्त्र है। बाइबल के यहूदी संदर्भ को सीखना अच्छा है। खतरा तब आरंभ होता है जब Torah का पालन करना उद्धार के लिए आवश्यक शर्त बन जाता है, श्रेष्ठता का प्रतीक बन जाता है, या अन्य विश्वासियों की निंदा का कारण बन जाता है।
 
@@ -976,12 +976,13 @@ Gnosticism गुप्त ज्ञान प्रदान करता ह�
 
 - “Jesus एक मूर्तिपूजक नाम है।”
 - “तुम्हें Yahshua कहना ही होगा, नहीं तो तुम गलत नाम पर पुकार रहे हो।”
+- “परमेश्वर का नाम तुमसे छिपाया गया है।”
 - “कलीसिया ने सब्त का दिन बदल दिया।”
-- “Christmas और Easter मूर्तिपूजक हैं, इसलिए उन्हें मनाने वाले मसीही धोखे में हैं।”
+- “Christmas और Easter मूर्तिपूजक हैं, इसलिए उन्हें मनाने वाले मसीही धोखे में हैं।” (कुछ अपवाद और संदर्भ हैं; समन्वयवाद पर अधिक जानकारी के लिए ऐतिहासिक जागरूकता देखें। अंततः यह हृदय का विषय है।)
 - “पौलुस को गलत समझा गया है।”
 - “व्यवस्था कभी समाप्त नहीं की गई।”
 - “सच्चे विश्वासी Torah का पालन करते हैं।”
-- “यदि तुम सूअर का मांस खाते हो, तो तुम परमेश्वर की आज्ञा का उल्लंघन कर रहे हो।”
+- “यदि तुम सूअर का मांस खाते हो, तो तुम परमेश्वर की आज्ञा का उल्लंघन कर रहे हो। परमेश्वर के भोजन संबंधी नियम कभी समाप्त नहीं किए गए।”
 - “कलीसिया बाबुल है।”
 
 **यह खतरनाक क्यों है:** यह उपयोगी बाइबल संदर्भ से आरंभ होकर बंधन में समाप्त हो सकता है। विश्वासी को धीरे-धीरे मसीह के पूर्ण कार्य से हटाकर पंचांग-पालन, भोजन नियमों, हिब्रू उच्चारण, पर्व-पालन, और प्रत्येक साधारण मसीही कलीसिया के प्रति संदेह की ओर ले जाया जाता है।

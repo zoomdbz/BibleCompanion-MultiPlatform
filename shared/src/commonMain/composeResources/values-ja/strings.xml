@@ -423,7 +423,20 @@
     <string name="ui_library_revelation">ヨハネの黙示録</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">カスタムカラーを選択</string>
-    <string name="ui_choose_custom_color_hint">色見本を選ぶか、色相を手動で調整します。</string>
+    <string name="ui_choose_custom_color_hint">鮮やかな色を選び、彩度を調整します。</string>
+    <string name="ui_custom_color_readability_note">選んだアクセント色はそのまま保たれます。文字色と補助色は読みやすいように調整されます。</string>
+    <string name="ui_hue">色相</string>
+    <string name="ui_saturation">彩度</string>
+    <string name="ui_lightness">明度</string>
+    <string name="ui_exact_color">正確な色</string>
+    <string name="ui_exact_color_hint">#RRGGBB または 255,0,0</string>
+    <string name="ui_invalid_exact_color">#RRGGBB または 0 から 255 の数値を3つ入力してください。</string>
+    <string name="ui_apply_color">色を適用</string>
+    <string name="ui_color_red">赤</string>
+    <string name="ui_color_orange">オレンジ</string>
+    <string name="ui_color_yellow">黄</string>
+    <string name="ui_color_lime">ライム</string>
+    <string name="ui_color_cyan">シアン</string>
     <string name="ui_color_selected">選択済み</string>
     <string name="ui_color_fine_tuned">微調整した色</string>
     <string name="ui_theme_preview">テーマのプレビュー</string>

@@ -26,9 +26,11 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.ExpandLess
 import androidx.compose.material.icons.filled.ExpandMore
+import androidx.compose.material3.Button
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Slider
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -45,6 +47,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.selected
@@ -52,48 +55,85 @@ import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.semantics.stateDescription
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import com.dividesbyzer0.biblecompanion.platform.ColorHsl
 import org.jetbrains.compose.resources.StringResource
 import org.jetbrains.compose.resources.stringResource
 import kotlin.math.abs
+import kotlin.math.roundToInt
 
 private data class CuratedThemeColor(
   val hue: Float,
-  val name: StringResource
+  val name: StringResource,
+  val saturation: Float = 1f,
+  val lightness: Float = 0.5f
 )
 
 private val curatedThemeColors = listOf(
-  CuratedThemeColor(350f, Res.string.ui_color_crimson),
-  CuratedThemeColor(15f, Res.string.ui_color_coral),
-  CuratedThemeColor(38f, Res.string.ui_color_amber),
-  CuratedThemeColor(52f, Res.string.ui_color_gold),
-  CuratedThemeColor(80f, Res.string.ui_color_olive),
-  CuratedThemeColor(125f, Res.string.ui_color_green),
-  CuratedThemeColor(155f, Res.string.ui_color_emerald),
-  CuratedThemeColor(180f, Res.string.ui_color_teal),
+  CuratedThemeColor(0f, Res.string.ui_color_red),
+  CuratedThemeColor(30f, Res.string.ui_color_orange),
+  CuratedThemeColor(60f, Res.string.ui_color_yellow),
+  CuratedThemeColor(90f, Res.string.ui_color_lime),
+  CuratedThemeColor(120f, Res.string.ui_color_green),
+  CuratedThemeColor(150f, Res.string.ui_color_emerald),
+  CuratedThemeColor(180f, Res.string.ui_color_cyan),
   CuratedThemeColor(210f, Res.string.ui_color_sky_blue),
-  CuratedThemeColor(225f, Res.string.ui_color_blue),
-  CuratedThemeColor(250f, Res.string.ui_color_indigo),
-  CuratedThemeColor(275f, Res.string.ui_color_violet),
-  CuratedThemeColor(310f, Res.string.ui_color_magenta),
-  CuratedThemeColor(335f, Res.string.ui_color_rose)
+  CuratedThemeColor(240f, Res.string.ui_color_blue),
+  CuratedThemeColor(270f, Res.string.ui_color_violet),
+  CuratedThemeColor(300f, Res.string.ui_color_magenta),
+  CuratedThemeColor(330f, Res.string.ui_color_rose)
 )
 
 @OptIn(ExperimentalLayoutApi::class, ExperimentalFoundationApi::class)
 @Composable
 internal fun CustomThemePicker(
   hue: Float,
+  saturation: Float,
+  lightness: Float,
   dark: Boolean,
-  onHueSelected: (Float) -> Unit
+  onColorSelected: (Float, Float, Float) -> Unit
 ) {
   var showFineTuning by rememberSaveable { mutableStateOf(false) }
   var draftHue by remember { mutableFloatStateOf(hue.coerceIn(0f, 360f)) }
+  var draftSaturation by remember { mutableFloatStateOf(saturation.coerceIn(0f, 1f)) }
+  var draftLightness by remember { mutableFloatStateOf(lightness.coerceIn(0f, 1f)) }
   var sliderActive by remember { mutableStateOf(false) }
-  val selectedDescription = stringResource(Res.string.ui_color_selected)
-  val fineTuneDescription = stringResource(Res.string.ui_fine_tune_color)
-  val previewScheme = colorSchemeFor(ThemePreset.Custom, dark, draftHue)
+  var exactColorText by remember {
+    mutableStateOf(formatExactColor(draftHue, draftSaturation, draftLightness))
+  }
+  var exactColorError by remember { mutableStateOf(false) }
 
-  LaunchedEffect(hue) {
-    if (!sliderActive) draftHue = hue.coerceIn(0f, 360f)
+  val selectedDescription = stringResource(Res.string.ui_color_selected)
+  val saturationDescription = stringResource(Res.string.ui_saturation)
+  val hueDescription = stringResource(Res.string.ui_hue)
+  val lightnessDescription = stringResource(Res.string.ui_lightness)
+  val previewScheme = remember(dark, draftHue, draftSaturation, draftLightness) {
+    colorSchemeFor(
+      ThemePreset.Custom,
+      dark,
+      draftHue,
+      draftSaturation,
+      draftLightness
+    )
+  }
+  val seedColor = remember(draftHue, draftSaturation, draftLightness) {
+    customThemeSeedColor(draftHue, draftSaturation, draftLightness)
+  }
+
+  LaunchedEffect(hue, saturation, lightness) {
+    if (!sliderActive) {
+      draftHue = hue.coerceIn(0f, 360f)
+      draftSaturation = saturation.coerceIn(0f, 1f)
+      draftLightness = lightness.coerceIn(0f, 1f)
+      exactColorText = formatExactColor(draftHue, draftSaturation, draftLightness)
+      exactColorError = false
+    }
+  }
+
+  fun persistDraft() {
+    sliderActive = false
+    exactColorText = formatExactColor(draftHue, draftSaturation, draftLightness)
+    exactColorError = false
+    onColorSelected(draftHue, draftSaturation, draftLightness)
   }
 
   Column(
@@ -106,6 +146,11 @@ internal fun CustomThemePicker(
       style = MaterialTheme.typography.bodySmall,
       color = MaterialTheme.colorScheme.onSurfaceVariant
     )
+    Text(
+      stringResource(Res.string.ui_custom_color_readability_note),
+      style = MaterialTheme.typography.bodySmall,
+      color = MaterialTheme.colorScheme.onSurfaceVariant
+    )
 
     FlowRow(
       modifier = Modifier.fillMaxWidth().selectableGroup(),
@@ -114,8 +159,26 @@ internal fun CustomThemePicker(
     ) {
       curatedThemeColors.forEach { option ->
         val name = stringResource(option.name)
-        val selected = hueDistance(draftHue, option.hue) < 0.5f
-        val scheme = colorSchemeFor(ThemePreset.Custom, dark, option.hue)
+        val selected = colorsMatch(
+          draftHue,
+          draftSaturation,
+          draftLightness,
+          option.hue,
+          option.saturation,
+          option.lightness
+        )
+        val optionScheme = remember(dark, option) {
+          colorSchemeFor(
+            ThemePreset.Custom,
+            dark,
+            option.hue,
+            option.saturation,
+            option.lightness
+          )
+        }
+        val rawColor = remember(option) {
+          customThemeSeedColor(option.hue, option.saturation, option.lightness)
+        }
         Surface(
           modifier = Modifier
             .widthIn(min = 88.dp, max = 140.dp)
@@ -131,15 +194,19 @@ internal fun CustomThemePicker(
               onClick = {
                 sliderActive = false
                 draftHue = option.hue
-                onHueSelected(option.hue)
+                draftSaturation = option.saturation
+                draftLightness = option.lightness
+                exactColorText = formatExactColor(draftHue, draftSaturation, draftLightness)
+                exactColorError = false
+                onColorSelected(draftHue, draftSaturation, draftLightness)
               }
             ),
           shape = RoundedCornerShape(14.dp),
-          color = if (selected) scheme.primaryContainer else scheme.surfaceContainerLow,
-          contentColor = if (selected) scheme.onPrimaryContainer else scheme.onSurface,
+          color = if (selected) optionScheme.primaryContainer else optionScheme.surfaceContainerLow,
+          contentColor = if (selected) optionScheme.onPrimaryContainer else optionScheme.onSurface,
           border = BorderStroke(
             width = if (selected) 3.dp else 1.dp,
-            color = if (selected) scheme.primary else scheme.outline
+            color = if (selected) optionScheme.primary else optionScheme.outline
           )
         ) {
           Column(
@@ -148,14 +215,14 @@ internal fun CustomThemePicker(
             verticalArrangement = Arrangement.spacedBy(5.dp)
           ) {
             Box(
-              modifier = Modifier.size(36.dp).clip(CircleShape).background(scheme.primary),
+              modifier = Modifier.size(36.dp).clip(CircleShape).background(rawColor),
               contentAlignment = Alignment.Center
             ) {
               if (selected) {
                 Icon(
                   Icons.Filled.Check,
                   contentDescription = null,
-                  tint = scheme.onPrimary,
+                  tint = rawColor.contrastingContentColor(),
                   modifier = Modifier.size(20.dp)
                 )
               }
@@ -170,8 +237,32 @@ internal fun CustomThemePicker(
       }
     }
 
+    ColorSliderLabel(
+      label = stringResource(Res.string.ui_saturation),
+      value = "${(draftSaturation * 100f).roundToInt()}%"
+    )
+    ColorGradient(
+      colors = listOf(
+        customThemeSeedColor(draftHue, 0f, draftLightness),
+        customThemeSeedColor(draftHue, 1f, draftLightness)
+      )
+    )
+    Slider(
+      value = draftSaturation,
+      onValueChange = { value ->
+        sliderActive = true
+        draftSaturation = value
+      },
+      onValueChangeFinished = ::persistDraft,
+      valueRange = 0f..1f,
+      modifier = Modifier.fillMaxWidth().semantics { contentDescription = saturationDescription }
+    )
+
     ThemeColorPreview(
       hue = draftHue,
+      saturation = draftSaturation,
+      lightness = draftLightness,
+      seedColor = seedColor,
       scheme = previewScheme
     )
 
@@ -194,19 +285,15 @@ internal fun CustomThemePicker(
     }
 
     AnimatedVisibility(visible = showFineTuning) {
-      Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
-        Box(
-          Modifier
-            .fillMaxWidth()
-            .height(20.dp)
-            .clip(RoundedCornerShape(10.dp))
-            .background(
-              Brush.horizontalGradient(
-                (0..360 step 15).map { sampleHue ->
-                  colorSchemeFor(ThemePreset.Custom, dark, sampleHue.toFloat()).primary
-                }
-              )
-            )
+      Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+        ColorSliderLabel(
+          label = stringResource(Res.string.ui_hue),
+          value = draftHue.roundToInt().toString()
+        )
+        ColorGradient(
+          colors = (0..360 step 15).map { sampleHue ->
+            customThemeSeedColor(sampleHue.toFloat(), draftSaturation, draftLightness)
+          }
         )
         Slider(
           value = draftHue,
@@ -214,24 +301,109 @@ internal fun CustomThemePicker(
             sliderActive = true
             draftHue = value
           },
-          onValueChangeFinished = {
-            sliderActive = false
-            onHueSelected(draftHue)
-          },
+          onValueChangeFinished = ::persistDraft,
           valueRange = 0f..360f,
-          modifier = Modifier
-            .fillMaxWidth()
-            .semantics { contentDescription = fineTuneDescription }
+          modifier = Modifier.fillMaxWidth().semantics { contentDescription = hueDescription }
         )
+
+        ColorSliderLabel(
+          label = stringResource(Res.string.ui_lightness),
+          value = "${(draftLightness * 100f).roundToInt()}%"
+        )
+        ColorGradient(
+          colors = (0..10).map { step ->
+            customThemeSeedColor(draftHue, draftSaturation, step / 10f)
+          }
+        )
+        Slider(
+          value = draftLightness,
+          onValueChange = { value ->
+            sliderActive = true
+            draftLightness = value
+          },
+          onValueChangeFinished = ::persistDraft,
+          valueRange = 0f..1f,
+          modifier = Modifier.fillMaxWidth().semantics { contentDescription = lightnessDescription }
+        )
+
+        OutlinedTextField(
+          value = exactColorText,
+          onValueChange = { value ->
+            exactColorText = value
+            exactColorError = false
+          },
+          modifier = Modifier.fillMaxWidth(),
+          label = { Text(stringResource(Res.string.ui_exact_color)) },
+          placeholder = { Text(stringResource(Res.string.ui_exact_color_hint)) },
+          supportingText = {
+            Text(
+              if (exactColorError) {
+                stringResource(Res.string.ui_invalid_exact_color)
+              } else {
+                stringResource(Res.string.ui_exact_color_hint)
+              }
+            )
+          },
+          isError = exactColorError,
+          singleLine = true
+        )
+        Button(
+          onClick = {
+            val parsed = parseExactColor(exactColorText)
+            if (parsed == null) {
+              exactColorError = true
+            } else {
+              sliderActive = false
+              draftHue = parsed.first
+              draftSaturation = parsed.second
+              draftLightness = parsed.third
+              persistDraft()
+            }
+          },
+          modifier = Modifier.fillMaxWidth()
+        ) {
+          Text(stringResource(Res.string.ui_apply_color))
+        }
       }
     }
   }
 }
 
 @Composable
-private fun ThemeColorPreview(hue: Float, scheme: androidx.compose.material3.ColorScheme) {
+private fun ColorSliderLabel(label: String, value: String) {
+  Row(
+    modifier = Modifier.fillMaxWidth(),
+    horizontalArrangement = Arrangement.SpaceBetween,
+    verticalAlignment = Alignment.CenterVertically
+  ) {
+    Text(label, style = MaterialTheme.typography.labelLarge)
+    Text(value, style = MaterialTheme.typography.labelLarge)
+  }
+}
+
+@Composable
+private fun ColorGradient(colors: List<Color>) {
+  Box(
+    Modifier
+      .fillMaxWidth()
+      .height(20.dp)
+      .clip(RoundedCornerShape(10.dp))
+      .background(Brush.horizontalGradient(colors))
+  )
+}
+
+@Composable
+private fun ThemeColorPreview(
+  hue: Float,
+  saturation: Float,
+  lightness: Float,
+  seedColor: Color,
+  scheme: androidx.compose.material3.ColorScheme
+) {
   val selectedName = curatedThemeColors
-    .firstOrNull { hueDistance(hue, it.hue) < 0.5f }
+    .firstOrNull {
+      colorsMatch(hue, saturation, lightness, it.hue, it.saturation, it.lightness)
+    }
     ?.name
   Surface(
     modifier = Modifier.fillMaxWidth(),
@@ -244,13 +416,21 @@ private fun ThemeColorPreview(hue: Float, scheme: androidx.compose.material3.Col
       modifier = Modifier.padding(14.dp),
       verticalArrangement = Arrangement.spacedBy(10.dp)
     ) {
-      Text(stringResource(Res.string.ui_theme_preview), style = MaterialTheme.typography.titleSmall)
-      Text(
-        selectedName?.let { stringResource(it) }
-          ?: stringResource(Res.string.ui_color_fine_tuned),
-        style = MaterialTheme.typography.bodySmall,
-        color = scheme.onSurfaceVariant
-      )
+      Row(
+        horizontalArrangement = Arrangement.spacedBy(12.dp),
+        verticalAlignment = Alignment.CenterVertically
+      ) {
+        Box(Modifier.size(52.dp).clip(CircleShape).background(seedColor))
+        Column {
+          Text(stringResource(Res.string.ui_theme_preview), style = MaterialTheme.typography.titleSmall)
+          Text(
+            selectedName?.let { stringResource(it) }
+              ?: stringResource(Res.string.ui_color_fine_tuned),
+            style = MaterialTheme.typography.bodySmall,
+            color = scheme.onSurfaceVariant
+          )
+        }
+      }
       Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
         PreviewColor(scheme.primaryContainer, scheme.onPrimaryContainer)
         PreviewColor(scheme.secondaryContainer, scheme.onSecondaryContainer)
@@ -274,7 +454,45 @@ private fun PreviewColor(container: Color, content: Color) {
   }
 }
 
+private fun colorsMatch(
+  firstHue: Float,
+  firstSaturation: Float,
+  firstLightness: Float,
+  secondHue: Float,
+  secondSaturation: Float,
+  secondLightness: Float
+): Boolean =
+  hueDistance(firstHue, secondHue) < 0.5f &&
+    abs(firstSaturation - secondSaturation) < 0.005f &&
+    abs(firstLightness - secondLightness) < 0.005f
+
 private fun hueDistance(first: Float, second: Float): Float {
   val direct = abs(first - second) % 360f
   return minOf(direct, 360f - direct)
 }
+
+internal fun formatExactColor(hue: Float, saturation: Float, lightness: Float): String {
+  val normalizedHue = ((hue % 360f) + 360f) % 360f
+  val argb = ColorHsl.hslToColor(floatArrayOf(normalizedHue, saturation, lightness))
+  val rgb = argb and 0xFFFFFF
+  return "#${rgb.toUInt().toString(16).uppercase().padStart(6, '0')}"
+}
+
+internal fun parseExactColor(input: String): Triple<Float, Float, Float>? {
+  val value = input.trim()
+  val rgb = when {
+    value.matches(Regex("^#?[0-9a-fA-F]{6}$")) -> value.removePrefix("#").toIntOrNull(16)
+    else -> {
+      val parts = value.split(',').map { it.trim().toIntOrNull() }
+      if (parts.size != 3 || parts.any { it == null || it !in 0..255 }) return null
+      (parts[0]!! shl 16) or (parts[1]!! shl 8) or parts[2]!!
+    }
+  } ?: return null
+
+  val hsl = FloatArray(3)
+  ColorHsl.colorToHSL((0xFF shl 24) or rgb, hsl)
+  return Triple(hsl[0], hsl[1], hsl[2])
+}
+
+private fun Color.contrastingContentColor(): Color =
+  if (luminance() > 0.179f) Color.Black else Color.White

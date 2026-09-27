@@ -547,12 +547,12 @@ Maomé tomou mais de quatro esposas, excedendo o próprio padrão corânico e co
 
 #### 3) Casamento com a esposa do filho adotivo
 **Alcorão 33:37 (Sahih International)**
-> «… quando Zayd não mais teve necessidade dela, Nós te casamos com ela…»
+> «E [lembra-te, ó Muhammad], quando disseste àquele a quem Allah favoreceu e a quem tu favoreceste: “Conserva tua esposa e teme a Allah”, enquanto ocultavas dentro de ti o que Allah haveria de revelar. Temias as pessoas, embora Allah tivesse mais direito de ser temido por ti. Então, quando Zayd já não teve necessidade dela, Nós te casamos com ela, para que os crentes não sintam desconforto quanto às esposas de seus filhos adotivos quando estes já não tiverem necessidade delas. E a ordem de Allah sempre se cumpre.»
 
 A Torá proíbe tais uniões.
 
 **(Levítico 18:15)**
-> «A nudez de tua nora não descobrirás; ela é mulher de teu filho.»
+> «A nudez de tua nora não descobrirás; ela é mulher de teu filho, não descobrirás sua nudez.»
 
 #### 4) Violência e conversões forçadas
 **Alcorão 9:5 (Sahih International)**
@@ -569,8 +569,14 @@ Em contraste, a Lei condena o homicídio, e Jesus rejeitou violência pela fé.
 #### 5) Negação de Cristo
 O Alcorão nega a filiação e a crucificação de Jesus.
 
-**Alcorão 4:171; 112:3; 4:157 (Sahih International)**
-> «Não digais: “Três”… Ele não gera nem foi gerado… não o mataram nem o crucificaram.»
+**Alcorão 4:171 (Sahih International)**
+> «Ó Povo do Livro, não cometais excessos em vossa religião nem digais acerca de Alá senão a verdade. O Messias, Jesus, filho de Maria, foi apenas um mensageiro de Alá, Sua palavra que Ele dirigiu a Maria e um espírito [criado por uma ordem] vindo d'Ele. Crede, pois, em Alá e em Seus mensageiros. E não digais: “Três”; cessai, pois isso é melhor para vós. Alá é um só Deus. Glorificado seja Ele, acima de ter um filho.»
+
+**Alcorão 112:3 (Sahih International)**
+> «Ele não gera nem foi gerado.»
+
+**Alcorão 4:157 (Sahih International)**
+> «E por terem dito: “Matamos o Messias, Jesus, filho de Maria, o mensageiro de Alá”. Mas não o mataram nem o crucificaram; outro lhes foi feito semelhante a ele. Aqueles que divergem a esse respeito estão em dúvida. Não têm conhecimento disso, salvo por seguirem suposições. E certamente não o mataram.»
 
 A Bíblia ensina o oposto: Jesus é o eterno Filho de Deus, crucificado e ressuscitado.
 
@@ -637,14 +643,14 @@ A sura 33 concede isenções e privilégios exclusivos a Maomé.
 
 #### Esposas e concubinas, na prática, ilimitadas
 **Alcorão 33:50 (Sahih International)**
-> «Ó Profeta! Permitimos-te tuas esposas… e a crente que se der ao Profeta, se o Profeta desejar casar-se com ela; isto é apenas para ti, excluindo os demais crentes…»
+> «Ó Profeta, permitimos-te tuas esposas às quais deste a devida compensação, aquelas que tua mão direita possui dentre as cativas que Allah te concedeu, as filhas de teus tios paternos, de tuas tias paternas, de teus tios maternos e de tuas tias maternas que emigraram contigo, e qualquer mulher crente que se ofereça ao Profeta, se o Profeta desejar casar-se com ela; isto é apenas para ti, excluindo os demais crentes. Sabemos muito bem o que tornamos obrigatório para eles quanto a suas esposas e àquelas que suas mãos direitas possuem, mas isto é para que não haja desconforto para ti. Allah é Perdoador e Misericordioso.»
 
-Aqui se permite, na prática, número ilimitado, enquanto os demais muçulmanos estão limitados a quatro (4:3).
+Aqui se permitem a Muhammad, na prática, esposas e concubinas sem limite, enquanto os demais muçulmanos estão limitados a quatro (Alcorão 4:3).
 
 A Torá proíbe multiplicar esposas.
 
 **(Deuteronômio 17:17)**
-> «Não multiplicará para si mulheres.»
+> «Não tomará para si muitas mulheres, para que seu coração não se desvie; nem acumulará para si prata e ouro em excesso.»
 
 #### Restrições exclusivas
 **Alcorão 33:52 (Sahih International)**
@@ -692,21 +698,27 @@ A Bíblia: seis dias de criação e o sétimo de descanso (Gênesis 1:31–2:2).
 O ensino muda ao longo do tempo. A Bíblia condena a embriaguez de modo consistente e permite o vinho com moderação (Salmo 104:15; Efésios 5:18).
 
 #### 3) Violência versus paz
-**Alcorão 2:256**: «Não há compulsão na religião.»
+**Alcorão 2:256 (Sahih International)**
+> «Não haverá compulsão na aceitação da religião. O caminho correto tornou-se distinto do erro. Portanto, quem rejeita o Taghut e crê em Alá agarrou-se à alça mais firme, que jamais se rompe. E Alá tudo ouve e tudo sabe.»
 
-**Alcorão 9:5; 9:29**: «matai os politeístas…»; «lutai contra o Povo do Livro… até que paguem a jizya, humilhados.»
+**Alcorão 9:5 (Sahih International)**
+> «Quando os meses sagrados tiverem passado, matai os politeístas onde quer que os encontreis, capturai-os, sitiai-os e ficai à espreita deles em todo lugar de emboscada…»
 
-Muitos estudiosos muçulmanos consideram que os versículos posteriores **abrogam** os anteriores. Jesus, porém, mandou amar os inimigos.
+Alcorão 9:29 (Sahih International):
+
+> «Combatei aqueles que não creem em Alá nem no Último Dia, que não consideram ilícito o que Alá e Seu Mensageiro tornaram ilícito e que, dentre os que receberam o Livro, não adotam a religião da verdade, até que paguem voluntariamente a jizya enquanto estão humilhados.»
+
+O versículo pacífico é anterior; o versículo violento veio depois e estudiosos muçulmanos consideram que ele ab-roga o anterior. Jesus nunca ordenou a Seus seguidores que matassem pela fé. Em vez disso, disse:
 
 **(Mateus 5:44)**
-> «Amai os vossos inimigos e orai pelos que vos perseguem.»
+> «Eu, porém, vos digo: amai os vossos inimigos e orai pelos que vos perseguem.»
 
 #### 4) Destino contra livre-arbítrio
-**Alcorão 18:29**: «Quem quiser, creia; quem quiser, não creia.»
+**Alcorão 18:29 (Sahih International)**: «E dize: “A verdade vem de vosso Senhor; quem quiser, creia, e quem quiser, não creia.”»
 
-**Alcorão 16:93**: «Allah descaminha a quem quer e guia a quem quer.»
+**Alcorão 16:93 (Sahih International)**: «E, se Allah quisesse, teria feito de vós uma só religião; mas Ele desencaminha quem quer e guia quem quer…»
 
-A Bíblia mantém juntos a soberania de Deus e a responsabilidade humana (Romanos 9:19–21; Josué 24:15).
+O Alcorão afirma o livre-arbítrio em uma passagem e o nega em outra. A Bíblia mantém juntas a soberania de Deus e a responsabilidade humana (Romanos 9:19–21; Josué 24:15).
 
 #### 5) A morte de Jesus
 **Alcorão 4:157**: nega.
@@ -719,11 +731,13 @@ A Bíblia é consistente.
 > «Cristo morreu pelos nossos pecados… e ressuscitou ao terceiro dia.»
 
 **Historiadores seculares confirmam a crucificação:**
-- **Tácito, *Anais* 15.44**: «Cristo… sofreu a pena extrema sob Pôncio Pilatos.»
+- **Tácito, *Anais* 15.44**: «Cristo sofreu a pena extrema durante o reinado de Tibério, às mãos de um de nossos procuradores, Pôncio Pilatos.»
 
-- **Josefo, *Antiguidades* 18.3.3**: «Pilatos… o condenou à cruz.»
+- **Josefo, *Antiguidades* 18.3.3**: «Pilatos o condenou à cruz.»
 
-- **Luciano de Samósata**, **Mara bar-Serapião**: referências ao crucificado.
+- **Luciano de Samósata**: zombou dos cristãos por adorarem «o homem que foi crucificado na Palestina».
+
+- **Mara bar-Serapião**: escreveu que os judeus executaram seu «rei sábio».
 
 #### 6) Versos ausentes
 Fontes islâmicas registram perdas:
@@ -912,16 +926,16 @@ A «Estrela de Davi» (hexagrama) não é encontrada em nenhuma parte das Escrit
 
 - **(Mateus 22:39)** – «Amarás o teu próximo como a ti mesmo.»  
 
-- *Significado:* A virtude confucionista é cumprida em Jesus, que encarna o verdadeiro amor ao próximo.  
+- *Significado:* O ensino confucionista valoriza a ordem familiar e a formação moral; a Bíblia afirma a criação dos filhos segundo Deus e o amor ao próximo.
 
 **Daoísmo (道家) – O Dao como ordem da vida.**  
-- **(João 1:1)** – «No princípio era o Verbo (Dao), e o Verbo estava com Deus.»  
+- **(João 1:1)** – «No princípio era o Verbo (Logos/Dao), e o Verbo estava com Deus, e o Verbo era Deus.»
 
 - **(João 14:6)** – «Eu sou o caminho, a verdade e a vida.»  
 
 - **(Salmo 46:10)** – «Aquietai-vos e sabei que eu sou Deus.»  
 
-- *Significado:* Jesus é o Dao vivo, o Caminho feito carne.  
+- *Significado:* O daoísmo busca harmonia com o Dao; Jesus é revelado como o Dao eterno feito carne, o verdadeiro Caminho.
 
 **Budismo (佛教, Mahāyāna 大乘) – Compaixão, Terra Pura, esperança de libertação do sofrimento.**  
 - **(João 15:13)** – Amor sacrificial: «Ninguém tem maior amor do que este: dar a vida pelos seus amigos.»  
@@ -930,7 +944,7 @@ A «Estrela de Davi» (hexagrama) não é encontrada em nenhuma parte das Escrit
 
 - **(Apocalipse 21:4)** – «Ele enxugará de seus olhos toda lágrima.»  
 
-- *Significado:* A compaixão Mahāyāna e a esperança da Terra Pura são cumpridas no amor sacrificial de Cristo e em seu Reino.  
+- *Significado:* O Mahāyāna enfatiza a compaixão e uma Terra Pura de paz; Cristo cumpre ambas por meio de Seu amor sacrificial e da promessa de Seu Reino.
 
 **Cumprimento em Cristo:**  
 - **(Mateus 5:17)** – «Não vim abolir, mas cumprir.»  

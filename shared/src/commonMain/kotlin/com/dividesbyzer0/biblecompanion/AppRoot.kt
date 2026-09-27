@@ -34,6 +34,7 @@ import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
+import androidx.compose.foundation.gestures.scrollBy
 import androidx.compose.ui.input.pointer.PointerEventPass
 import androidx.compose.ui.input.pointer.PointerEventTimeoutCancellationException
 import androidx.compose.ui.input.pointer.pointerInput
@@ -170,6 +171,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.layout.onGloballyPositioned
+import androidx.compose.ui.layout.onSizeChanged
 import androidx.compose.ui.layout.positionInRoot
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -206,9 +208,12 @@ import com.dividesbyzer0.biblecompanion.platform.platformDynamicColorScheme
 import com.dividesbyzer0.biblecompanion.platform.platformRecreateApp
 import com.dividesbyzer0.biblecompanion.platform.platformSupportsDynamicColor
 import kotlinx.coroutines.delay
+import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withTimeoutOrNull
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.JsonArray
@@ -218,6 +223,7 @@ import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import androidx.compose.runtime.snapshotFlow
+import androidx.compose.runtime.withFrameNanos
 import androidx.compose.ui.focus.FocusRequester
 import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.focus.onFocusChanged
@@ -267,7 +273,13 @@ fun AppRoot(
   val scale = prefs.textSizeScale
   val preset = ThemePreset.fromKey(prefs.themePreset)
   val dynamicScheme = if (preset == ThemePreset.Dynamic) platformDynamicColorScheme(dark) else null
-  val resolvedScheme = dynamicScheme ?: colorSchemeFor(preset, dark, prefs.customThemeHue)
+  val resolvedScheme = dynamicScheme ?: colorSchemeFor(
+    preset,
+    dark,
+    prefs.customThemeHue,
+    prefs.customThemeSaturation,
+    prefs.customThemeLightness
+  )
 
   MaterialTheme(
     colorScheme = resolvedScheme,
@@ -1472,6 +1484,8 @@ fun HomeScreen(
                   enabled = !navBusy,
                   entries = listOf(
                     HomeStudyTile(stringResource(Res.string.feast_calendar), Icons.Filled.CalendarMonth, StudyIconTone.Tertiary) { safeNav { onFeastCalendar() } },
+                    HomeStudyTile(stringResource(Res.string.feast_about_heading), Icons.Filled.Info, StudyIconTone.Secondary) { safeNav { onNavigateRoute(Dest.AboutCalendars.route) } },
+                    HomeStudyTile(stringResource(Res.string.ordained_feasts_heading), Icons.Filled.EventNote, StudyIconTone.Primary) { safeNav { onNavigateRoute(Dest.OrdainedFeasts.route) } },
                     HomeStudyTile(stringResource(Res.string.torah_feasts_and_gentiles), Icons.AutoMirrored.Filled.MenuBook, StudyIconTone.Primary) { safeNav { onTorahFeastsAndGentiles() } }
                   )
                 )
@@ -1931,6 +1945,18 @@ private fun LibraryBookRow(
   )
 }
 
+private data class ReaderViewportLayoutSnapshot(
+  val epoch: Int,
+  val measurements: Map<String, ReaderViewportMeasurement>,
+  val firstVisibleItemIndex: Int,
+  val firstVisibleItemScrollOffset: Int,
+  val scrolling: Boolean,
+  val restoringRequestId: Int?,
+  val restorePending: Boolean,
+  val viewportTopY: Float,
+  val viewportHeightPx: Int
+)
+
 @OptIn(ExperimentalMaterial3Api::class, androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
 fun BookScreen(
@@ -1964,8 +1990,23 @@ fun BookScreen(
     )
   }
   val book = loadedBook?.book
-  val activeEditionId = loadedBook?.effectiveEdition ?: BibleEditions.BSB
   val effectiveLanguage = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+  val loadedEditionId = loadedBook?.effectiveEdition
+  val activeEditionId = loadedEditionId
+    ?: BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
+  // Keep the last edition that actually loaded while a replacement is pending.
+  // A transient null must not move saveable anchor state into the default
+  // edition's scope and strand the position restored after recreation.
+  var readerAnchorEditionId by rememberSaveable(col, bookId) {
+    mutableStateOf(loadedEditionId)
+  }
+  LaunchedEffect(loadedEditionId) {
+    if (loadedEditionId != null) readerAnchorEditionId = loadedEditionId
+  }
+  // A bullet index is presentation-local. Do not carry it between editions or
+  // localized assets, where one edition can split or combine source verses.
+  val readerAnchorEditionScope = loadedEditionId ?: readerAnchorEditionId ?: "pending"
+  val readerAnchorScope = "$effectiveLanguage/$readerAnchorEditionScope"
   val keepLoadedLinkedVerse = BibleEditions.canKeepLinkedVerse(
     prefs.appLanguage, initialSourceLanguage, linkedEditionUnavailable
   ) && BibleEditions.linkedEditionMatchesLoaded(
@@ -2028,6 +2069,71 @@ fun BookScreen(
     bookId,
     autoStartTts
   ) { mutableStateOf(false) }
+  // Kept before the progress observer so restoration cannot write a transient
+  // chapter while a reflow is moving the semantic anchor back into place. This
+  // is an in-flight coroutine marker, not durable reader state; restoring it
+  // after process death could suppress anchor capture forever.
+  var viewportRestoringRequestId by remember(col, bookId, readerAnchorScope) {
+    mutableStateOf<Int?>(null)
+  }
+  // Semantic reader position survives only inside the same localized edition.
+  var viewportAnchorStoryId by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf<String?>(null) }
+  var viewportAnchorBullet by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf(-1) }
+  var viewportAnchorOffset by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf(0f) }
+  var viewportHasVisibleVerse by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf(false) }
+  var viewportRestorePending by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf(false) }
+  var viewportRestoreRequestId by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf(0) }
+  var lastReaderWidth by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf(0) }
+  var lastReaderLayoutKey by rememberSaveable(col, bookId, readerAnchorScope) { mutableStateOf("") }
+  val positionedVerseRoots = remember(readerAnchorScope) { mutableStateMapOf<String, ReaderViewportMeasurement>() }
+  var viewportMeasurementEpoch by remember { mutableStateOf(0) }
+  var viewportTopY by remember { mutableFloatStateOf(0f) }
+  var viewportHeightPx by remember { mutableStateOf(0) }
+  val readerLayoutKey = "${prefs.fontMode}/${prefs.textSizeScale}/${prefs.readingLineSpacing}/${prefs.versePerLine}"
+  val layoutKeyChanged = lastReaderLayoutKey.isNotEmpty() && lastReaderLayoutKey != readerLayoutKey
+
+  fun requestViewportRestore() {
+    if (viewportHasVisibleVerse && viewportAnchorStoryId != null) {
+      viewportRestoreRequestId += 1
+      viewportRestorePending = true
+    }
+  }
+
+  fun cancelViewportRestoreForNavigation() {
+    viewportRestoreRequestId += 1
+    viewportRestorePending = false
+    viewportRestoringRequestId = null
+    viewportHasVisibleVerse = false
+    viewportAnchorStoryId = null
+    viewportAnchorBullet = -1
+    viewportAnchorOffset = 0f
+    viewportMeasurementEpoch += 1
+    positionedVerseRoots.clear()
+  }
+
+  fun refreshViewportAnchorFromMeasurements(epoch: Int) {
+    val candidate = selectReaderViewportAnchor(
+      measurements = positionedVerseRoots,
+      generation = epoch,
+      viewportTopY = viewportTopY,
+      viewportBottomY = viewportTopY + viewportHeightPx
+    )
+    if (candidate == null) {
+      viewportHasVisibleVerse = false
+      viewportAnchorStoryId = null
+      viewportAnchorBullet = -1
+      viewportAnchorOffset = 0f
+      return
+    }
+    val (key, measurement) = candidate
+    val separator = key.lastIndexOf('/')
+    val bullet = key.substring(separator + 1).toIntOrNull()
+    if (separator <= 0 || bullet == null) return
+    viewportHasVisibleVerse = true
+    viewportAnchorStoryId = key.substring(0, separator)
+    viewportAnchorBullet = bullet
+    viewportAnchorOffset = measurement.rootY - viewportTopY
+  }
 
   // Tab switching and rotation retain the reader's open study sections.
   val sectionOverrides = rememberSaveable(col, bookId,
@@ -2139,6 +2245,7 @@ fun BookScreen(
 
     // Scroll to the chapter being read. Add intro offset so LazyColumn index matches.
     val introOffset = if (book.intro.isNotBlank()) 1 else 0
+    cancelViewportRestoreForNavigation()
     listState.animateScrollToItem(storyIdx + introOffset)
 
     val text = ttsBuildChapterText(
@@ -2246,6 +2353,7 @@ fun BookScreen(
   LaunchedEffect(resolvedStoryId, initialVerse, initialVerseEnd, keepLoadedLinkedVerse, activeEditionId, storyIndex, book) {
     if (!initialTargetConsumed && !resolvedStoryId.isNullOrBlank() && book != null) {
       initialTargetConsumed = true
+      cancelViewportRestoreForNavigation()
       if (resolvedStoryId !in expandedStoryIds) {
         expandedStoryIds = expandedStoryIds + resolvedStoryId
       }
@@ -2299,7 +2407,9 @@ fun BookScreen(
     snapshotFlow { listState.firstVisibleItemIndex }
       .distinctUntilChanged()
       .collectLatest { idx ->
+        if (viewportRestoringRequestId != null) return@collectLatest
         delay(500)
+        if (viewportRestoringRequestId != null) return@collectLatest
         val storyId = book.stories.getOrNull(idx - introOffset)?.id
         repo.setLastRead(col, bookId, title, storyId, effectiveLanguage, activeEditionId)
       }
@@ -2346,8 +2456,109 @@ fun BookScreen(
   val currentStory = book?.stories?.getOrNull(visibleStoryIndex)
   val currentChapter = index?.byChapter?.entries?.firstOrNull { it.value == currentStory?.id }?.key
   val readerBarScroll = TopAppBarDefaults.enterAlwaysScrollBehavior()
+  LaunchedEffect(readerLayoutKey) {
+    if (layoutKeyChanged) requestViewportRestore()
+    lastReaderLayoutKey = readerLayoutKey
+  }
+  LaunchedEffect(readerAnchorScope) {
+    // A new localized edition owns a new callback collection even when its
+    // visible text happens to match the prior edition byte-for-byte.
+    viewportMeasurementEpoch += 1
+    positionedVerseRoots.clear()
+  }
+  var hasObservedReaderPosition by remember(readerAnchorScope) { mutableStateOf(false) }
+  LaunchedEffect(listState, readerAnchorScope) {
+    snapshotFlow { listState.firstVisibleItemIndex to listState.firstVisibleItemScrollOffset }
+      .collect {
+        // Preserve the saved semantic anchor through the first restored-state
+        // emission. Later position changes begin a fresh viewport measurement.
+        if (hasObservedReaderPosition && viewportRestoringRequestId == null) {
+          viewportMeasurementEpoch += 1
+          positionedVerseRoots.clear()
+        }
+        hasObservedReaderPosition = true
+      }
+  }
+  LaunchedEffect(listState, readerAnchorScope) {
+    snapshotFlow {
+      ReaderViewportLayoutSnapshot(
+        epoch = viewportMeasurementEpoch,
+        measurements = positionedVerseRoots.toMap(),
+        firstVisibleItemIndex = listState.firstVisibleItemIndex,
+        firstVisibleItemScrollOffset = listState.firstVisibleItemScrollOffset,
+        scrolling = listState.isScrollInProgress,
+        restoringRequestId = viewportRestoringRequestId,
+        restorePending = viewportRestorePending,
+        viewportTopY = viewportTopY,
+        viewportHeightPx = viewportHeightPx
+      )
+    }.collectLatest { observed ->
+      if (
+        observed.scrolling ||
+        observed.restoringRequestId != null ||
+        observed.restorePending ||
+        observed.viewportHeightPx <= 0 ||
+        observed.measurements.values.none { it.generation == observed.epoch }
+      ) {
+        return@collectLatest
+      }
+
+      // Position callbacks from each scripture block can land in adjacent
+      // frames. collectLatest restarts this gate for every callback, so only a
+      // settled current-generation collection may replace or clear the anchor.
+      withFrameNanos { }
+      withFrameNanos { }
+      if (
+        viewportMeasurementEpoch != observed.epoch ||
+        listState.isScrollInProgress ||
+        viewportRestoringRequestId != null ||
+        viewportRestorePending ||
+        listState.firstVisibleItemIndex != observed.firstVisibleItemIndex ||
+        listState.firstVisibleItemScrollOffset != observed.firstVisibleItemScrollOffset ||
+        viewportTopY != observed.viewportTopY ||
+        viewportHeightPx != observed.viewportHeightPx ||
+        positionedVerseRoots.toMap() != observed.measurements
+      ) {
+        return@collectLatest
+      }
+      refreshViewportAnchorFromMeasurements(observed.epoch)
+    }
+  }
+  LaunchedEffect(viewportRestoreRequestId, viewportRestorePending, viewportAnchorStoryId, viewportAnchorBullet, viewportHeightPx, book) {
+    val storyId = viewportAnchorStoryId ?: return@LaunchedEffect
+    if (!viewportRestorePending || viewportHeightPx <= 0 || book == null) return@LaunchedEffect
+    val item = storyIndex[storyId] ?: run { viewportRestorePending = false; return@LaunchedEffect }
+    val requestId = viewportRestoreRequestId
+    val key = "$storyId/$viewportAnchorBullet"
+    viewportRestoringRequestId = requestId
+    positionedVerseRoots.clear()
+    var restored = false
+    try {
+      // storyIndex already includes the optional intro item.
+      listState.scrollToItem(item)
+      val measurementEpoch = viewportMeasurementEpoch + 1
+      viewportMeasurementEpoch = measurementEpoch
+      val measurement = withTimeoutOrNull(1_000) {
+        snapshotFlow { positionedVerseRoots[key] }
+          .first { it?.generation == measurementEpoch }
+      }
+      if (measurement != null && viewportRestoreRequestId == requestId && viewportRestorePending) {
+        listState.scrollBy(measurement.rootY - (viewportTopY + viewportAnchorOffset))
+        restored = true
+      }
+    } finally {
+      if (viewportRestoreRequestId == requestId) {
+        viewportRestorePending = false
+        if (restored) viewportHasVisibleVerse = true
+      }
+      if (viewportRestoringRequestId == requestId) {
+        viewportRestoringRequestId = null
+      }
+    }
+  }
   fun openReaderStory(sid: String, verse: Int? = null) {
     val story = book?.stories?.firstOrNull { it.id == sid } ?: return
+    cancelViewportRestoreForNavigation()
     expandedStoryIds = expandedStoryIds + sid
     val targets = verse?.let { findBulletsForVerseRange(story.summaryBullets, it, it, story.id, bookId) }.orEmpty()
     goldFadeStoryId = sid.takeIf { targets.isNotEmpty() }
@@ -2364,7 +2575,11 @@ fun BookScreen(
     ReaderChapterSheet(book = book, currentStoryId = currentStory?.id,
       onDismiss = { showChapters = false },
       onChooseBook = { showChapters = false; onChooseBook() },
-      onIntro = { showChapters = false; scope.launch { listState.scrollToItem(0) } },
+      onIntro = {
+        showChapters = false
+        cancelViewportRestoreForNavigation()
+        scope.launch { listState.scrollToItem(0) }
+      },
       onOpenStory = { sid, verse -> openReaderStory(sid, verse) })
   }
 
@@ -2575,8 +2790,6 @@ fun BookScreen(
               }
             }
 
-            var viewportTopY by remember { mutableFloatStateOf(0f) }
-            var viewportHeightPx by remember { mutableStateOf(0) }
             LazyColumn(
               state = listState,
               contentPadding = PaddingValues(
@@ -2589,6 +2802,16 @@ fun BookScreen(
                 .widthIn(max = 880.dp)
                 .fillMaxWidth()
                 .align(Alignment.CenterHorizontally)
+                // Parent size dispatches before child placement. Freeze anchor
+                // capture here so reflowed verse callbacks cannot replace the
+                // semantic position saved under the previous width.
+                .onSizeChanged { size ->
+                  val width = size.width
+                  if (lastReaderWidth != 0 && lastReaderWidth != width) {
+                    requestViewportRestore()
+                  }
+                  lastReaderWidth = width
+                }
                 .onGloballyPositioned { coords ->
                   viewportTopY = coords.positionInRoot().y
                   viewportHeightPx = coords.size.height
@@ -2638,6 +2861,14 @@ fun BookScreen(
                   listState = listState,
                   viewportTopY = viewportTopY,
                   viewportHeightPx = viewportHeightPx,
+                  measurementEpoch = viewportMeasurementEpoch,
+                  onVersePositioned = { storyId, bulletIndex, _, rootY, rootBottomY, epoch ->
+                    positionedVerseRoots["$storyId/$bulletIndex"] = ReaderViewportMeasurement(
+                      rootY = rootY,
+                      rootBottomY = rootBottomY,
+                      generation = epoch
+                    )
+                  },
                   story = story,
                   prefs = prefs.copy(internalBibleVersion = activeEditionId),
                   isTtsPlaying = isTtsActive && !chapterTtsPaused,
@@ -3256,7 +3487,9 @@ fun StoryCard(
   activeSectionTts: String? = null,
   sectionTtsPaused: Boolean = false,
   onPlaySectionTts: ((kind: String) -> Unit)? = null,
-  onCopyBullet: ((Int) -> Unit)? = null
+  onCopyBullet: ((Int) -> Unit)? = null,
+  measurementEpoch: Int = 0,
+  onVersePositioned: ((storyId: String, bulletIndex: Int, anchor: VerseAnchor?, rootY: Float, rootBottomY: Float, epoch: Int) -> Unit)? = null
 ) {
   val ctx = LocalPlatformContext.current
 
@@ -3391,7 +3624,11 @@ fun StoryCard(
                 onCopyBullet = onCopyBullet,
                 listState = listState,
                 viewportTopY = viewportTopY,
-                viewportHeightPx = viewportHeightPx
+                viewportHeightPx = viewportHeightPx,
+                measurementEpoch = measurementEpoch,
+                onVersePositioned = { bulletIndex, anchor, rootY, rootBottomY, epoch ->
+                  onVersePositioned?.invoke(story.id, bulletIndex, anchor, rootY, rootBottomY, epoch)
+                }
               )
               if (story.keyTakeaway.isNotBlank() || story.crossRefs.isNotEmpty() ||
                 story.manuscriptVariants.isNotEmpty() || story.translationNotes.isNotEmpty()) {
@@ -3741,7 +3978,7 @@ private fun makeSavedVerse(
     editionId = editionId,
     sourceLanguage = sourceLanguage,
     text = bulletText,
-    ref = story.refs.firstOrNull() ?: "",
+    ref = savedVerseReference(story.refs.firstOrNull().orEmpty(), anchor),
     highlightColor = highlightColor,
     timestamp = currentTimeMillis()
   )
@@ -4142,7 +4379,7 @@ fun SavedItemsScreen(
                         )
                         Spacer(Modifier.height(4.dp))
                         Text(
-                          ScriptureRefs.localizeRef(sv.ref),
+                          ScriptureRefs.localizeRef(sv.displayReference()),
                           style = MaterialTheme.typography.bodySmall,
                           color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
@@ -4254,7 +4491,7 @@ fun SavedItemsScreen(
                                 maxLines = 2,
                                 overflow = TextOverflow.Ellipsis
                               )
-                              Text(sv.ref, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                              Text(ScriptureRefs.localizeRef(sv.displayReference()), style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                             }
                             IconButton(onClick = {
                               scope.launch { repo.removeLabelFromVerse(sv, lbl.id) }
@@ -4715,8 +4952,20 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       ) {
         presets.forEach { (preset, label) ->
           val previewScheme = if (preset == ThemePreset.Dynamic) {
-            platformDynamicColorScheme(previewDark) ?: colorSchemeFor(preset, previewDark, prefs.customThemeHue)
-          } else colorSchemeFor(preset, previewDark, prefs.customThemeHue)
+            platformDynamicColorScheme(previewDark) ?: colorSchemeFor(
+              preset,
+              previewDark,
+              prefs.customThemeHue,
+              prefs.customThemeSaturation,
+              prefs.customThemeLightness
+            )
+          } else colorSchemeFor(
+            preset,
+            previewDark,
+            prefs.customThemeHue,
+            prefs.customThemeSaturation,
+            prefs.customThemeLightness
+          )
           ThemeSwatchChip(
             label = label,
             scheme = previewScheme,
@@ -4729,8 +4978,12 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       AnimatedVisibility(visible = selectedPreset == ThemePreset.Custom) {
         CustomThemePicker(
           hue = prefs.customThemeHue,
+          saturation = prefs.customThemeSaturation,
+          lightness = prefs.customThemeLightness,
           dark = previewDark,
-          onHueSelected = { hue -> scope.launch { repo.setCustomThemeHue(hue) } }
+          onColorSelected = { hue, saturation, lightness ->
+            scope.launch { repo.setCustomThemeColor(hue, saturation, lightness) }
+          }
         )
       }
 

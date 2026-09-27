@@ -423,7 +423,20 @@
     <string name="ui_library_revelation">요한계시록</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">사용자 지정 색상 선택</string>
-    <string name="ui_choose_custom_color_hint">색상 견본을 선택하거나 색조를 직접 조정하세요.</string>
+    <string name="ui_choose_custom_color_hint">선명한 색상을 선택한 다음 채도를 조정하세요.</string>
+    <string name="ui_custom_color_readability_note">선택한 강조 색상은 그대로 유지됩니다. 텍스트와 보조 색상은 읽기 쉽도록 조정됩니다.</string>
+    <string name="ui_hue">색조</string>
+    <string name="ui_saturation">채도</string>
+    <string name="ui_lightness">명도</string>
+    <string name="ui_exact_color">정확한 색상</string>
+    <string name="ui_exact_color_hint">#RRGGBB 또는 255,0,0</string>
+    <string name="ui_invalid_exact_color">#RRGGBB 또는 0에서 255 사이의 숫자 세 개를 입력하세요.</string>
+    <string name="ui_apply_color">색상 적용</string>
+    <string name="ui_color_red">빨간색</string>
+    <string name="ui_color_orange">주황색</string>
+    <string name="ui_color_yellow">노란색</string>
+    <string name="ui_color_lime">라임색</string>
+    <string name="ui_color_cyan">시안색</string>
     <string name="ui_color_selected">선택됨</string>
     <string name="ui_color_fine_tuned">미세 조정한 색상</string>
     <string name="ui_theme_preview">테마 미리보기</string>

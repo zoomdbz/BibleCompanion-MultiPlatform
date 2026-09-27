@@ -164,15 +164,15 @@ La Scrittura dà diverse ragioni per risposte tardive, diverse o negate.
 
 **1) Allineamento alla volontà di Dio**
 
-- **1 Giovanni 5:14–15**: Domandare «secondo la Sua volontà» dà la certezza che «abbiamo le cose che gli abbiamo chieste».
+- **1 Giovanni 5:14–15**: «Se domandiamo qualcosa secondo la Sua volontà, Egli ci ascolta… sappiamo di avere le cose che Gli abbiamo chiesto.»
 
-- **Luca 22:42**: «Sia fatta la tua volontà.»
+- **Luca 22:42**: Anche Gesù pregò: «Non la mia volontà, ma la Tua sia fatta.» La preghiera non riguarda il controllo; è comunione.
 
-- **Giovanni 15:7**: «Se rimanete in me… chiedete quel che volete e vi sarà fatto.»
+- **Giovanni 15:7**: «Se rimanete in Me e le Mie parole rimangono in voi, chiedete quel che volete e vi sarà fatto.»
 
 **2) Il tempo e i propositi di Dio**
 
-- **Abacuc 2:3**: «Se tarda, aspettala; poiché certamente verrà.»
+- **Abacuc 2:3**: «Se sembra tardare, aspettala; certamente verrà e non tarderà.»
 
 - **Giovanni 11:4–6**: Gesù ritarda ad andare da Lazzaro «per la gloria di Dio», poi lo risuscita.
 
@@ -190,13 +190,15 @@ La Scrittura dà diverse ragioni per risposte tardive, diverse o negate.
 
 **4) Grazia sufficiente quando la richiesta non è concessa**
 
-- **2 Corinzi 12:7–9**: Paolo supplica tre volte; risposta: «La mia grazia ti basta; perché la mia potenza si dimostra perfetta nella debolezza.»
+- **2 Corinzi 12:7–9**: Paolo supplica tre volte che la spina sia rimossa; la risposta è: «La Mia grazia ti basta; perché la Mia potenza si dimostra perfetta nella debolezza.»
 
 **5) L’aiuto dello Spirito nella preghiera**
 
-- **Romani 8:26–28**: «Lo Spirito viene in aiuto alla nostra debolezza… tutte le cose cooperano al bene di quelli che amano Dio.»
+- **Romani 8:26–28**: «Lo Spirito viene in aiuto alla nostra debolezza… lo Spirito stesso intercede per noi con sospiri troppo profondi per essere espressi a parole… tutte le cose cooperano al bene di quelli che amano Dio.»
 
-**Sintesi biblica:** Il popolo di Dio talvolta attende; Dio ascolta; le risposte si accordano con la Sua volontà, il Suo tempo e i Suoi propositi; contano motivi e obbedienza; la grazia sostiene quando la richiesta non è esaudita; lo Spirito intercede quando mancano le parole.
+- **Giacomo 5:16**: «La preghiera efficace del giusto può molto.»
+
+**Sintesi biblica:** Il popolo di Dio talvolta attende; Dio ascolta; le risposte si accordano con la Sua volontà, il Suo tempo e i Suoi propositi; contano motivi e obbedienza; la grazia sostiene quando la richiesta non è esaudita nel modo in cui è stata formulata; lo Spirito intercede quando mancano le parole. La fede matura quando la preghiera si concentra meno sul risultato e più sulla relazione con Dio.
 
 ---
 

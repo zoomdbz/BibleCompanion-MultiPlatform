@@ -967,7 +967,7 @@ Lo Gnosticismo offre conoscenza segreta. Il vangelo offre verità pubblica. Lo G
 
 ### Movimenti delle Radici Ebraiche, del Nome Sacro e dell'Osservanza della Torah come Salvezza
 
-**Conosciuti anche come:** Hebrew Roots. Torah Observant Christianity. Movimento messianico della Torah. Movimento del Nome Sacro. Movimento solo-Yahweh. Gruppi linguistici solo-Yahshua. Teologia delle Due Case. Movimento efraimita. Nazarene Israel. Sovrapposizione con i Black Hebrew Israelite. Movimenti di identità israelita. Gruppi del Sabato lunare. Insegnamento della celebrazione delle feste come salvezza.
+**Conosciuti anche come:** Hebrew Roots. Torah Observant Christianity. Movimento messianico della Torah. Movimento del Nome Sacro. Movimento solo-Yahweh. Gruppi linguistici solo-Yahshua. Teologia delle Due Case. Movimento efraimita. Nazarene Israel. Sovrapposizione con i Black Hebrew Israelite. Movimenti di identità israelita. Gruppi del Sabato lunare. Insegnamento della celebrazione delle feste come salvezza. (Da non confondere con l'ebraismo messianico fedele alla Bibbia.)
 
 **Nota:** I credenti ebrei in Gesù e le congregazioni messianiche fedeli alla Bibbia non sono il bersaglio di questa critica. Gli apostoli erano ebrei. Gesù era ebreo. L'Antico Testamento è Scrittura cristiana. Apprendere il contesto ebraico della Bibbia è cosa buona. Il pericolo inizia quando l'osservanza della Torah diventa un requisito per la salvezza, un segno di superiorità, o un motivo per condannare altri credenti.
 
@@ -977,12 +977,13 @@ Lo Gnosticismo offre conoscenza segreta. Il vangelo offre verità pubblica. Lo G
 
 - «Gesù è un nome pagano.»
 - «Devi dire Yahshua, altrimenti invochi il nome sbagliato.»
+- «Il nome di Dio vi è stato nascosto.»
 - «La chiesa ha sostituito il Sabato.»
-- «Il Natale e la Pasqua sono pagani, quindi i cristiani che li celebrano sono ingannati.»
+- «Il Natale e la Pasqua sono pagani, quindi i cristiani che li celebrano sono ingannati.» (Esistono precisazioni e un contesto; per ulteriori informazioni sul sincretismo, vedi «Consapevolezza storica». In ultima analisi, riguarda il cuore.)
 - «Paolo è stato frainteso.»
 - «La legge non è mai stata abolita.»
 - «I veri credenti osservano la Torah.»
-- «Se mangi carne di maiale, stai disobbedendo a Dio.»
+- «Se mangi carne di maiale, stai disobbedendo a Dio. Le leggi alimentari di Dio non sono mai state abolite.»
 - «La chiesa è Babilonia.»
 
 **Perché è pericoloso:** Può iniziare con un utile contesto biblico e finire in schiavitù. Il credente viene gradualmente spostato dall'opera compiuta da Cristo al rispetto del calendario, alle regole alimentari, alla pronuncia ebraica, all'osservanza delle feste e al sospetto verso ogni chiesa cristiana ordinaria.

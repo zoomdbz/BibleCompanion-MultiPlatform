@@ -967,7 +967,7 @@ Le gnosticisme offre une connaissance secrète. L'évangile offre une vérité p
 
 ### Mouvements des Racines hébraïques, du Nom sacré et de l'Observance de la Torah comme Salut
 
-**Également connus sous le nom de :** Racines hébraïques. Christianisme observant de la Torah. Mouvement messianique de la Torah. Mouvement du Nom sacré. Mouvement Yahweh-seulement. Groupes linguistiques Yahshua-seulement. Théologie des Deux Maisons. Mouvement éphraïmite. Israël nazaréen. Chevauchement avec les Hébreux israélites noirs. Mouvements d'identité israélite. Groupes du Sabbat lunaire. Enseignement de l'observance des fêtes comme condition de salut.
+**Également connus sous le nom de :** Racines hébraïques. Christianisme observant de la Torah. Mouvement messianique de la Torah. Mouvement du Nom sacré. Mouvement Yahweh-seulement. Groupes linguistiques Yahshua-seulement. Théologie des Deux Maisons. Mouvement éphraïmite. Israël nazaréen. Chevauchement avec les Hébreux israélites noirs. Mouvements d'identité israélite. Groupes du Sabbat lunaire. Enseignement de l'observance des fêtes comme condition de salut. (À ne pas confondre avec le judaïsme messianique fidèle à la Bible.)
 
 **Remarque :** Les croyants juifs en Jésus et les congrégations messianiques fidèles à la Bible ne sont pas visés par cette critique. Les apôtres étaient juifs. Jésus était juif. L'Ancien Testament est l'Écriture chrétienne. Apprendre le contexte juif de la Bible est une bonne chose. Le danger commence lorsque l'observance de la Torah devient une exigence pour le salut, un signe de supériorité ou une raison de condamner d'autres croyants.
 
@@ -977,12 +977,13 @@ Le gnosticisme offre une connaissance secrète. L'évangile offre une vérité p
 
 - « Jésus est un nom païen. »
 - « Tu dois dire Yahshua, sinon tu invoques le mauvais nom. »
+- « Le nom de Dieu vous a été caché. »
 - « L'Église a remplacé le Sabbat. »
-- « Noël et Pâques sont d'origine païenne ; les chrétiens qui les célèbrent sont dans l'erreur. »
+- « Noël et Pâques sont d'origine païenne ; les chrétiens qui les célèbrent sont dans l'erreur. » (Il existe des réserves et un contexte ; voir la discussion du syncrétisme dans « Conscience historique ». En fin de compte, c'est une question de cœur.)
 - « Paul a été mal compris. »
 - « La loi n'a jamais été abolie. »
 - « Les vrais croyants observent la Torah. »
-- « Si tu manges du porc, tu désobéis à Dieu. »
+- « Si tu manges du porc, tu désobéis à Dieu. Les lois alimentaires de Dieu n'ont jamais été abolies. »
 - « L'Église est Babylone. »
 
 **Pourquoi c'est dangereux :** Cela peut commencer par un contexte biblique utile et finir dans l'esclavage. Le croyant est progressivement éloigné de l'œuvre accomplie de Christ pour se retrouver absorbé par l'observance du calendrier, les règles alimentaires, la prononciation hébraïque, l'observation des fêtes et la méfiance envers toute église chrétienne ordinaire.

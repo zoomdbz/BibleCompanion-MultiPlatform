@@ -568,13 +568,13 @@ Par contraste, la Loi de Moïse condamne le meurtre, et Jésus rejette la violen
 Le Coran nie la filiation et la crucifixion de Jésus.
 
 **Coran 4:171 (Sahih International)**
-> « … Ne dites pas : “Trois”. Cessez ! Allah est trop glorieux pour avoir un fils. »
+> « Ô gens du Livre ! N’exagérez pas dans votre religion et ne dites sur Allah que la vérité. Le Messie, Jésus, fils de Marie, n’est qu’un messager d’Allah, Sa parole qu’Il a jetée à Marie, et un esprit venant de Lui. Croyez donc en Allah et en Ses messagers. Et ne dites pas : “Trois”. Cessez ! Ce sera meilleur pour vous. Allah n’est qu’un Dieu unique. Il est trop glorieux pour avoir un fils. »
 
 **Coran 112:3 (Sahih International)**
 > « Il n’a pas engendré et n’a pas été engendré. »
 
 **Coran 4:157 (Sahih International)**
-> « Ils ne l’ont ni tué ni crucifié… »
+> « Et à cause de leur parole : “Nous avons vraiment tué le Messie, Jésus, fils de Marie, le messager d’Allah”; alors qu’ils ne l’ont ni tué ni crucifié, mais un autre leur fut rendu semblable. Ceux qui discutent à son sujet sont vraiment dans le doute ; ils n’en ont aucune connaissance et ne suivent que des conjectures. Ils ne l’ont certainement pas tué. »
 
 La Bible enseigne l’inverse : Jésus est le Fils éternel de Dieu, crucifié et ressuscité.
 
@@ -700,18 +700,18 @@ L’enseignement change avec le temps. La Bible condamne constamment l’ivresse
 
 #### 3. Violence vs paix
 **Coran 2:256 (Sahih International)**
-> « Nulle contrainte en religion… »
+> « Nulle contrainte en religion. La bonne voie se distingue clairement de l’égarement. Quiconque mécroit au Taghut et croit en Allah saisit l’anse la plus solide, qui ne peut se briser. Et Allah entend tout et sait tout. »
 
 **Coran 9:5 (Sahih International)**
-> « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez… »
+> « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez, capturez-les, assiégez-les et guettez-les dans toute embuscade… »
 
 **Coran 9:29 (Sahih International)**
-> « Combattez ceux qui ne croient ni en Allah ni au Jour dernier… jusqu’à ce qu’ils paient la capitation (jizya) de leurs propres mains, en état d’humiliation. »
+> « Combattez ceux qui ne croient ni en Allah ni au Jour dernier, qui ne tiennent pas pour illicite ce qu’Allah et Son Messager ont déclaré illicite et qui, parmi ceux qui ont reçu l’Écriture, n’adoptent pas la religion de la vérité, jusqu’à ce qu’ils versent la jizya de leurs propres mains et soient humiliés. »
 
 Le verset pacifique est ancien ; le verset violent est postérieur et considéré par des savants musulmans comme abrogeant le premier. Jésus n’a jamais ordonné de tuer pour la foi. Il a dit au contraire :
 
 **(Matthieu 5:44)**
-> « Aimez vos ennemis, bénissez ceux qui vous maudissent… »
+> « Aimez vos ennemis et priez pour ceux qui vous persécutent. »
 
 #### 4. Destin vs libre arbitre
 **Coran 18:29 (Sahih International)**
@@ -735,13 +735,13 @@ Le Coran nie et affirme la mort de Jésus dans des passages différents. La Bibl
 > « Christ est mort pour nos péchés… il a été enseveli… il est ressuscité le troisième jour… »
 
 **Des historiens séculiers confirment la crucifixion :**
-- **Tacite, Annales 15.44** : « Christus… subit la peine extrême sous Tibère, de la main de Ponce Pilate. »
+- **Tacite, Annales 15.44** : « Christus… subit la peine extrême sous le règne de Tibère, entre les mains d’un de nos procurateurs, Ponce Pilate. »
 
 - **Josèphe, Antiquités 18.3.3** : « … Pilate le condamna à la croix. »
 
 - **Lucien de Samosate** : se moque des chrétiens qui adorent « l’homme crucifié en Palestine ».
 
-- **Mara bar-Serapion** : parle des Juifs ayant exécuté leur « roi sage ».
+- **Mara bar-Serapion** : écrivit que les Juifs avaient exécuté leur « roi sage ».
 
 #### 6. Versets manquants
 Les sources islamiques elles-mêmes rapportent des versets perdus :

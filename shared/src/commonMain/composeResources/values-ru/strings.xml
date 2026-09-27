@@ -423,7 +423,20 @@
     <string name="ui_library_revelation">Откровение</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">Выбрать свой цвет</string>
-    <string name="ui_choose_custom_color_hint">Выберите образец или настройте оттенок вручную.</string>
+    <string name="ui_choose_custom_color_hint">Выберите яркий цвет, затем настройте насыщенность.</string>
+    <string name="ui_custom_color_readability_note">Цвет акцента сохраняется точно. Цвета текста и вспомогательных элементов меняются для удобства чтения.</string>
+    <string name="ui_hue">Оттенок</string>
+    <string name="ui_saturation">Насыщенность</string>
+    <string name="ui_lightness">Светлота</string>
+    <string name="ui_exact_color">Точный цвет</string>
+    <string name="ui_exact_color_hint">#RRGGBB или 255,0,0</string>
+    <string name="ui_invalid_exact_color">Используйте #RRGGBB или три числа от 0 до 255.</string>
+    <string name="ui_apply_color">Применить цвет</string>
+    <string name="ui_color_red">Красный</string>
+    <string name="ui_color_orange">Оранжевый</string>
+    <string name="ui_color_yellow">Желтый</string>
+    <string name="ui_color_lime">Лаймовый</string>
+    <string name="ui_color_cyan">Циан</string>
     <string name="ui_color_selected">Выбрано</string>
     <string name="ui_color_fine_tuned">Точно настроенный цвет</string>
     <string name="ui_theme_preview">Предпросмотр темы</string>

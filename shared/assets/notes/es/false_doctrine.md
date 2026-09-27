@@ -967,7 +967,7 @@ El gnosticismo ofrece conocimiento secreto. El evangelio ofrece verdad pública.
 
 ### Movimientos de Raíces Hebreas, Nombre Sagrado y Torah-Observancia-como-Salvación
 
-**También conocidos como:** Raíces Hebreas. Cristianismo Observante de la Torah. Movimiento Mesiánico de la Torah. Movimiento del Nombre Sagrado. Movimiento solo-Yahweh. Grupos de lenguaje solo-Yahshua. Teología de las Dos Casas. Movimiento Efraimita. Israel Nazareno. Superposición con los Israelitas Hebreos Negros. Movimientos de identidad israelita. Grupos del Sábado Lunar. Enseñanza de la observancia de las fiestas como salvación.
+**También conocidos como:** Raíces Hebreas. Cristianismo Observante de la Torah. Movimiento Mesiánico de la Torah. Movimiento del Nombre Sagrado. Movimiento solo-Yahweh. Grupos de lenguaje solo-Yahshua. Teología de las Dos Casas. Movimiento Efraimita. Israel Nazareno. Superposición con los Israelitas Hebreos Negros. Movimientos de identidad israelita. Grupos del Sábado Lunar. Enseñanza de la observancia de las fiestas como salvación. (No debe confundirse con el judaísmo mesiánico fiel a la Biblia.)
 
 **Nota:** Los creyentes judíos en Jesús y las congregaciones mesiánicas fieles a la Biblia no son el objetivo de esta crítica. Los apóstoles eran judíos. Jesús era judío. El Antiguo Testamento es Escritura cristiana. Aprender el contexto judío de la Biblia es bueno. El peligro comienza cuando la observancia de la Torah se convierte en requisito para la salvación, en señal de superioridad o en razón para condenar a otros creyentes.
 
@@ -977,12 +977,13 @@ El gnosticismo ofrece conocimiento secreto. El evangelio ofrece verdad pública.
 
 - «Jesús es un nombre pagano.»
 - «Debes decir Yahshua o estás invocando el nombre equivocado.»
+- «El nombre de Dios se les ha ocultado.»
 - «La iglesia reemplazó el Sábado.»
-- «La Navidad y la Pascua son paganas, así que los cristianos que las observan están engañados.»
+- «La Navidad y la Pascua son paganas, así que los cristianos que las observan están engañados.» (Hay salvedades y contexto; véase más sobre el sincretismo en «Conciencia histórica». En última instancia, se trata del corazón.)
 - «Pablo ha sido malinterpretado.»
 - «La ley nunca fue abolida.»
 - «Los verdaderos creyentes guardan la Torah.»
-- «Si comes cerdo, estás desobedeciendo a Dios.»
+- «Si comes cerdo, estás desobedeciendo a Dios. Las leyes alimentarias de Dios nunca fueron abolidas.»
 - «La iglesia es Babilonia.»
 
 **Por qué es peligroso:** Puede comenzar con un contexto bíblico útil y terminar en esclavitud. El creyente es movido gradualmente desde la obra consumada de Cristo hacia el cumplimiento de calendarios, reglas alimentarias, pronunciación hebrea, observancia de fiestas y desconfianza hacia toda iglesia cristiana ordinaria.

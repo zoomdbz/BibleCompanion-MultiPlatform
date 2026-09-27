@@ -164,9 +164,9 @@ Die Schrift nennt mehrere Gründe für verspätete, andere oder verweigerte Erge
 
 **1) Ausrichtung am Willen Gottes**
 
-- **1. Johannes 5,14–15**: Bitten „gemäß seinem Willen“ gibt Zuversicht, dass wir das Erbetene haben.
+- **1. Johannes 5,14–15**: „Wenn wir etwas nach seinem Willen bitten, hört er uns … und wir wissen, dass wir die Bitten haben, die wir von ihm erbeten haben.“
 
-- **Lukas 22,42**: „Nicht mein Wille, sondern deiner geschehe.“
+- **Lukas 22,42**: Selbst Jesus betete: „Nicht mein Wille, sondern deiner geschehe.“ Beim Gebet geht es nicht um Kontrolle, sondern um Gemeinschaft.
 
 - **Johannes 15,7**: „Wenn ihr in mir bleibt und meine Worte in euch bleiben, werdet ihr bitten, was ihr wollt, und es wird euch widerfahren.“
 
@@ -190,13 +190,15 @@ Die Schrift nennt mehrere Gründe für verspätete, andere oder verweigerte Erge
 
 **4) Ausreichende Gnade bei nicht gewährten Bitten**
 
-- **2. Korinther 12,7–9**: Paulus bittet dreimal; Antwort: „Meine Gnade genügt dir; denn meine Kraft wird in Schwachheit vollendet.“
+- **2. Korinther 12,7–9**: Paulus bittet dreimal darum, dass der Dorn entfernt wird; die Antwort lautet: „Meine Gnade genügt dir; denn meine Kraft wird in Schwachheit vollendet.“
 
 **5) Hilfe des Geistes im Gebet**
 
-- **Römer 8,26–28**: „Der Geist hilft unserer Schwachheit… denen, die Gott lieben, dient alles zum Besten.“
+- **Römer 8,26–28**: „Der Geist hilft unserer Schwachheit … der Geist selbst tritt für uns ein mit Seufzen, das sich nicht in Worte fassen lässt … denen, die Gott lieben, dient alles zum Besten.“
 
-**Biblische Zusammenfassung:** Gottes Volk wartet zuweilen; Gott hört; Antworten entsprechen seinem Willen, seiner Zeit und seinen Absichten; Motive und Gehorsam sind relevant; Gnade trägt, wenn Bitten nicht gewährt werden; der Geist tritt ein, wenn Worte fehlen.
+- **Jakobus 5,16**: „Das wirksame Gebet eines Gerechten vermag viel.“
+
+**Biblische Zusammenfassung:** Gottes Volk wartet zuweilen; Gott hört; Antworten entsprechen seinem Willen, seiner Zeit und seinen Absichten; Motive und Gehorsam sind relevant; Gnade trägt, wenn eine Bitte nicht so gewährt wird, wie sie gestellt wurde; der Geist tritt ein, wenn Worte fehlen. Der Glaube reift, wenn es beim Gebet weniger um das Ergebnis und mehr um die Beziehung zu Gott geht.
 
 ---
 

@@ -423,7 +423,20 @@
     <string name="ui_library_revelation">启示录</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">选择自定义颜色</string>
-    <string name="ui_choose_custom_color_hint">选择色样，或手动微调色相。</string>
+    <string name="ui_choose_custom_color_hint">选择鲜明的颜色，然后调整饱和度。</string>
+    <string name="ui_custom_color_readability_note">强调色会保持精确。文字和辅助颜色会调整以确保易读。</string>
+    <string name="ui_hue">色相</string>
+    <string name="ui_saturation">饱和度</string>
+    <string name="ui_lightness">明度</string>
+    <string name="ui_exact_color">精确颜色</string>
+    <string name="ui_exact_color_hint">#RRGGBB 或 255,0,0</string>
+    <string name="ui_invalid_exact_color">请输入 #RRGGBB 或三个 0 到 255 之间的数字。</string>
+    <string name="ui_apply_color">应用颜色</string>
+    <string name="ui_color_red">红色</string>
+    <string name="ui_color_orange">橙色</string>
+    <string name="ui_color_yellow">黄色</string>
+    <string name="ui_color_lime">青柠色</string>
+    <string name="ui_color_cyan">青色</string>
     <string name="ui_color_selected">已选择</string>
     <string name="ui_color_fine_tuned">已微调的颜色</string>
     <string name="ui_theme_preview">主题预览</string>

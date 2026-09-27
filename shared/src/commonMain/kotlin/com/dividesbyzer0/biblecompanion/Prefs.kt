@@ -39,6 +39,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setOrdainedFeastsExpanded(expanded: Boolean)
     suspend fun setHapticEnabled(enabled: Boolean)
     suspend fun setCustomThemeHue(hue: Float)
+    suspend fun setCustomThemeColor(hue: Float, saturation: Float, lightness: Float)
     suspend fun setExpandNotesDefault(expand: Boolean)
     suspend fun setCrossBookTts(enabled: Boolean)
     suspend fun setCollapsedStories(json: String)

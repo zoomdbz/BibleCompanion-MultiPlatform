@@ -967,7 +967,7 @@
 
 ### 히브리 뿌리 운동, 성스러운 이름 운동, 그리고 율법 준수를 구원으로 가르치는 운동
 
-**다른 명칭:** Hebrew Roots. Torah Observant Christianity. Messianic Torah movement. Sacred Name movement. Yahweh-only movement. Yahshua-only 언어 그룹. Two-House theology. Ephraimite movement. Nazarene Israel. Black Hebrew Israelite 계열. Israelite 정체성 운동. Lunar Sabbath 그룹. 절기 준수를 구원으로 가르치는 교리.
+**다른 명칭:** Hebrew Roots. Torah Observant Christianity. Messianic Torah movement. Sacred Name movement. Yahweh-only movement. Yahshua-only 언어 그룹. Two-House theology. Ephraimite movement. Nazarene Israel. Black Hebrew Israelite 계열. Israelite 정체성 운동. Lunar Sabbath 그룹. 절기 준수를 구원으로 가르치는 교리. (성경에 충실한 메시아닉 유대교와 혼동해서는 안 된다.)
 
 **참고:** 예수님을 믿는 유대인 신자들과 성경에 충실한 메시아닉 회중은 이 비판의 대상이 아니다. 사도들은 유대인이었다. 예수님은 유대인이셨다. 구약성경은 기독교 성경이다. 성경의 유대적 배경을 배우는 것은 유익하다. 위험은 율법 준수가 구원의 요건이 되거나, 우월감의 표시가 되거나, 다른 신자들을 정죄하는 이유가 될 때 시작된다.
 
@@ -977,12 +977,13 @@
 
 - “Jesus는 이교도의 이름이다.”
 - “Yahshua라고 말하지 않으면 잘못된 이름을 부르는 것이다.”
+- “하나님의 이름은 너희에게 숨겨져 왔다.”
 - “교회가 안식일을 바꾸었다.”
-- “크리스마스와 부활절은 이교적이므로, 이를 지키는 기독교인들은 속고 있다.”
+- “크리스마스와 부활절은 이교적이므로, 이를 지키는 기독교인들은 속고 있다.” (단서와 맥락이 있다. 혼합주의에 관한 자세한 내용은 ‘역사적 인식’을 참조하라. 궁극적으로는 마음의 문제다.)
 - “바울은 오해받아 왔다.”
 - “율법은 결코 폐지된 적이 없다.”
 - “참된 신자는 토라를 지킨다.”
-- “돼지고기를 먹으면 하나님께 불순종하는 것이다.”
+- “돼지고기를 먹으면 하나님께 불순종하는 것이다. 하나님의 음식 규례는 결코 폐지된 적이 없다.”
 - “교회는 바벨론이다.”
 
 **왜 위험한가:** 유익한 성경적 배경으로 시작해 속박으로 끝날 수 있다. 신자는 그리스도의 완성된 사역으로부터 달력 지키기, 음식 규정, 히브리어 발음, 절기 준수, 그리고 평범한 기독교 교회에 대한 의심으로 서서히 이끌려 간다.

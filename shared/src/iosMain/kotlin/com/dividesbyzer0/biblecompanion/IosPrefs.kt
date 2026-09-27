@@ -9,6 +9,12 @@ import kotlinx.serialization.encodeToString
 import platform.Foundation.NSUserDefaults
 import platform.Foundation.timeIntervalSince1970
 
+private fun safeThemeHue(value: Float): Float =
+    if (value.isFinite()) value.coerceIn(0f, 360f) else 210f
+
+private fun safeThemeUnit(value: Float, default: Float): Float =
+    if (value.isFinite()) value.coerceIn(0f, 1f) else default
+
 actual class PrefsRepo actual constructor(context: PlatformContext) {
 
     private val defaults = NSUserDefaults.standardUserDefaults
@@ -61,7 +67,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             feastNotesExpanded = getBool("feast_notes_expanded", true),
             ordainedFeastsExpanded = getBool("ordained_feasts_expanded", false),
             hapticEnabled = getBool("haptic_enabled", true),
-            customThemeHue = getFloat("custom_theme_hue", 210f),
+            customThemeHue = safeThemeHue(getFloat("custom_theme_hue", 210f)),
+            customThemeSaturation = safeThemeUnit(getFloat("custom_theme_saturation", 1f), 1f),
+            customThemeLightness = safeThemeUnit(getFloat("custom_theme_lightness", 0.5f), 0.5f),
             expandNotesDefault = getBool("expand_notes_default", false),
             collapsedStoriesJson = getString("collapsed_stories_json") ?: "{}",
             autoContinueTts = getBool("auto_continue_tts", true),
@@ -174,7 +182,13 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         defaults.setBool(enabled, forKey = "haptic_enabled"); refresh()
     }
     actual suspend fun setCustomThemeHue(hue: Float) {
-        defaults.setFloat(hue, forKey = "custom_theme_hue"); refresh()
+        defaults.setFloat(safeThemeHue(hue), forKey = "custom_theme_hue"); refresh()
+    }
+    actual suspend fun setCustomThemeColor(hue: Float, saturation: Float, lightness: Float) {
+        defaults.setFloat(safeThemeHue(hue), forKey = "custom_theme_hue")
+        defaults.setFloat(safeThemeUnit(saturation, 1f), forKey = "custom_theme_saturation")
+        defaults.setFloat(safeThemeUnit(lightness, 0.5f), forKey = "custom_theme_lightness")
+        refresh()
     }
     actual suspend fun setExpandNotesDefault(expand: Boolean) {
         defaults.setBool(expand, forKey = "expand_notes_default"); refresh()
@@ -330,7 +344,10 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             timestamp = (platform.Foundation.NSDate().timeIntervalSince1970 * 1000).toLong(),
             bookmarks = loadBookmarks(),
             savedVerses = loadSavedVerses(),
-            labels = loadLabels()
+            labels = loadLabels(),
+            customThemeHue = safeThemeHue(getFloat("custom_theme_hue", 210f)),
+            customThemeSaturation = safeThemeUnit(getFloat("custom_theme_saturation", 1f), 1f),
+            customThemeLightness = safeThemeUnit(getFloat("custom_theme_lightness", 0.5f), 0.5f)
         )
         return json.encodeToString(backup)
     }
@@ -341,6 +358,11 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             persistBookmarks(backup.bookmarks)
             persistSavedVerses(backup.savedVerses)
             persistLabels(backup.labels)
+            backup.importedCustomThemeOrNull()?.let { theme ->
+                defaults.setFloat(safeThemeHue(theme.hue), forKey = "custom_theme_hue")
+                defaults.setFloat(safeThemeUnit(theme.saturation, 1f), forKey = "custom_theme_saturation")
+                defaults.setFloat(safeThemeUnit(theme.lightness, 0.5f), forKey = "custom_theme_lightness")
+            }
             refresh()
             true
         }.getOrDefault(false)

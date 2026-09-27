@@ -366,15 +366,20 @@ La doctrina de la Trinidad afirma un solo Dios en tres Personas.
 
 El Corán niega la crucifixión en **Corán 4:157**, pero el hecho está tan bien atestiguado en **fuentes históricas no cristianas** que incluso historiadores escépticos lo aceptan como un hecho.
 
-**Corán 4:157**
-> «Y por haber dicho: Ciertamente matamos al Mesías, Jesús hijo de María, mensajero de Dios. Pero no lo mataron ni lo crucificaron, sino que les pareció así…»
+**Corán 4:157 (Sahih International)**
+
+> «Y por haber dicho: “Ciertamente hemos matado al Mesías, Jesús, hijo de María, el mensajero de Alá.” Pero no lo mataron ni lo crucificaron, sino que otro fue hecho semejante a él ante ellos. Ciertamente, quienes discrepan sobre ello están llenos de dudas. No tienen conocimiento de ello, sino que siguen conjeturas. Y con toda certeza no lo mataron.»
+
+El islam enseña que Jesús no fue crucificado. Pero tanto la Biblia como los historiadores seculares lo registran con claridad.
 
 **La Biblia:**
 
-**Juan 19:16–18**
-> «Así que entonces lo entregó a ellos para que fuese crucificado. Tomaron, pues, a Jesús, y le llevaron. Y él, cargando su cruz, salió al lugar llamado de la Calavera… y allí le crucificaron.»
+**(Juan 19:16–18)**
 
-**Lucas 23:46**
+> «Así que entonces lo entregó a ellos para que fuese crucificado. Tomaron, pues, a Jesús, y él salió, cargando su propia cruz, al lugar llamado de la Calavera, que en arameo se llama Gólgota. Allí lo crucificaron, y con él a otros dos, uno a cada lado, y Jesús en medio.»
+
+**(Lucas 23:46)**
+
 > «Entonces Jesús, clamando a gran voz, dijo: Padre, en tus manos encomiendo mi espíritu. Y habiendo dicho esto, expiró.»
 
 **Historiadores seculares:**
@@ -421,31 +426,36 @@ Incluso quienes rechazaban el cristianismo reconocían la crucifixión de Jesús
 
 #### Objeción 6: «No puedes leer el Corán por ti mismo. Necesitas hadices y eruditos para el contexto.»
 
-**Esto crea una trampa:** significa que el Corán no es suficiente por sí mismo, aunque afirma ser guía clara.
+Esto crea una trampa: significa que el Corán no es suficiente por sí mismo, a pesar de que afirma ser una guía clara.
 
-**Corán 16:89**
+**Corán 16:89 (Sahih International)**
+
 > «Y te hemos revelado el Libro como explicación de todas las cosas, y como guía, misericordia y buenas nuevas para los musulmanes.»
 
-**Corán 6:114**
+**Corán 6:114 (Sahih International)**
+
 > «¿Buscaré otro juez que no sea Dios, cuando Él es quien os ha revelado el Libro detallado?»
 
-**Si el Corán realmente es una «explicación de todas las cosas» y suficiente, ¿por qué los creyentes deben depender de cadenas interminables de hadices y eruditos? Esa contradicción muestra que el libro no es lo que afirma ser.**
+*Si el Corán realmente se explica por sí mismo y es una «explicación de todas las cosas» suficiente, ¿por qué las personas comunes deben depender de cadenas interminables de hadices y eruditos? Esa contradicción muestra que el libro no es lo que afirma ser.*
 
-**La Biblia, en contraste, afirma suficiencia y claridad:**
+La Biblia, en contraste, afirma su suficiencia y claridad:
 
-**2 Timoteo 3:16–17**
+**(2 Timoteo 3:16–17)**
+
 > «Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.»
 
 #### Objeción 7: «La historia es sesgada. Jesús fue crucificado, pero creemos que no murió; fue llevado al cielo.»
 
-**Esta objeción se derrumba tanto por la Escritura como por la historia secular:**
+Esta objeción se derrumba ante la Escritura y la historia secular:
 
 **Profecía y testimonio bíblico:**
 
-**Isaías 53:5**
+**(Isaías 53:5)**
+
 > «Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados.»
 
-**Juan 19:33–34**
+**(Juan 19:33‑34)**
+
 > «Mas cuando llegaron a Jesús, como le vieron ya muerto, no le quebraron las piernas. Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua.»
 
 **Historiadores seculares:**
@@ -454,52 +464,7 @@ Incluso quienes rechazaban el cristianismo reconocían la crucifixión de Jesús
 
 - **Josefo (Antigüedades 18.3.3):** «Pilato… lo condenó a la cruz.»
 
-- Ningún historiador, judío, romano o cristiano, dijo que Jesús no fue crucificado. Solo el Corán (4:157), escrito 600 años después sin testigos presenciales, lo niega.
-
-#### Salvación: Ley vs. Gracia
-
-**Visión del islam sobre la salvación**  
-En el islam, la salvación depende del balance de obras. Las buenas deben pesar más que las malas, y finalmente Alá puede dar o negar misericordia.
-
-**Corán 23:102–103**
-> «Entonces aquellos cuyas balanzas sean pesadas [con buenas obras], ellos serán los exitosos. Pero aquellos cuyas balanzas sean ligeras, ellos son los que habrán perdido sus almas, en el Infierno permanecerán eternamente.»
-
-Esto refleja un sistema de salvación basado en obras, medido por ley y méritos.
-
-**La Ley en la Biblia**  
-La Biblia enseña que la Ley es santa y revela los estándares de Dios, pero ningún ser humano la ha guardado perfectamente. Solo Jesús vivió sin pecado.
-
-**Romanos 3:20**
-> «Ya que por las obras de la ley ningún ser humano será justificado delante de Él; porque por medio de la ley es el conocimiento del pecado.»
-
-**Romanos 3:23**
-> «Por cuanto todos pecaron, y están destituidos de la gloria de Dios.»
-
-**Gálatas 3:10**
-> «Porque todos los que dependen de las obras de la ley están bajo maldición, pues escrito está: Maldito todo aquel que no permaneciere en todas las cosas escritas en el libro de la ley, para hacerlas.»
-
-**Gálatas 3:24**
-> «De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe.»
-
-**Romanos 8:3–4**
-> «Porque lo que era imposible para la ley, por cuanto era débil por la carne, Dios, enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la carne; para que la justicia de la ley se cumpliese en nosotros, que no andamos conforme a la carne, sino conforme al Espíritu.»
-
-**Hebreos 4:15**
-> «Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino uno que fue tentado en todo según nuestra semejanza, pero sin pecado.»
-
-**Gracia por medio de Jesús**  
-El evangelio proclama la salvación como un regalo de gracia por la fe en Cristo, no por obras.
-
-**Efesios 2:8–9**
-> «Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe.»
-
-**Juan 5:24**
-> «De cierto, de cierto os digo: El que oye mi palabra y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha pasado de muerte a vida.»
-
-**Juan 11:25–26**
-> «Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?»
-
-**Punto clave:** El islam enseña salvación por Ley y obras; la Biblia muestra que la Ley condena a todos pero apunta a Cristo, quien la cumplió perfectamente. La salvación es solo por gracia mediante la fe en Jesús.
+- Ningún historiador judío, romano o cristiano afirmó que Jesús no fuera crucificado. Solo el Corán (4:157) lo niega 600 años después, sin testigos presenciales.
 
 ### Salvación: Ley vs. Gracia
 
@@ -577,7 +542,7 @@ Sin embargo, Mahoma tomó más de cuatro esposas, excediendo el mismo estándar 
 #### 3. Matrimonio con la esposa del hijo adoptivo
 **Corán 33:37 (Sahih International)**
 
-> «…Cuando Zayd dejó de tener necesidad de ella, la casamos contigo, para que no haya dificultad para los creyentes en cuanto a las esposas de sus hijos adoptivos cuando ellos ya no tengan necesidad de ellas…»
+> «Y [recuerda, oh Mahoma], cuando dijiste a aquel a quien Alá había favorecido y a quien tú habías favorecido: “Conserva a tu esposa y teme a Alá”, mientras ocultabas dentro de ti lo que Alá iba a revelar. Temías a la gente, cuando Alá tiene más derecho a que le temas. Así que, cuando Zayd ya no tuvo necesidad de ella, la casamos contigo para que no hubiera dificultad para los creyentes respecto de las esposas de sus hijos adoptivos cuando ya no tuvieran necesidad de ellas. Y el mandato de Alá siempre se cumple.»
 
 La Ley de Moisés prohíbe tales uniones.
 
@@ -687,32 +652,39 @@ La Sura 33 otorga a Mahoma exenciones y privilegios únicos.
 #### Esposas y concubinas ilimitadas
 **Corán 33:50 (Sahih International)**
 
-> «…Esto es solo para ti, excluyendo a los demás creyentes…»
+> «Oh Profeta, ciertamente hemos hecho lícitas para ti tus esposas a quienes has dado su debida compensación, aquellas que posee tu diestra de entre las cautivas que Alá te ha concedido, las hijas de tus tíos paternos, las hijas de tus tías paternas, las hijas de tus tíos maternos y las hijas de tus tías maternas que emigraron contigo, y cualquier mujer creyente que se entregue al Profeta si el Profeta desea casarse con ella. Esto es solo para ti, excluyendo a los demás creyentes. Ciertamente sabemos lo que les hemos impuesto respecto de sus esposas y de las que poseen sus diestras, pero esto es para que no haya dificultad sobre ti. Y Alá es Perdonador, Misericordioso.»
 
 Aquí Mahoma recibe permiso de esposas y concubinas ilimitadas, a diferencia de los musulmanes comunes que se limitan a cuatro.
 
+La Torá prohíbe multiplicar las esposas.
+
 **(Deuteronomio 17:17)**
 
-> «Ni tomará para sí muchas mujeres, para que su corazón no se desvíe…»
+> «Ni tomará para sí muchas mujeres, para que su corazón no se desvíe; ni plata ni oro amontonará para sí en abundancia.»
 
 #### Restricciones exclusivas
 **Corán 33:52 (Sahih International)**
 
-> «No te es lícito, oh Mahoma, tomar más mujeres después de estas…»
+> «No te son lícitas, oh Mahoma, más mujeres después de estas, ni te es permitido cambiarlas por otras esposas, aunque su belleza te agrade, excepto aquellas que posea tu diestra. Y Alá vigila todas las cosas.»
+
+Esto muestra que se crearon reglas exclusivas para la situación matrimonial de Mahoma.
 
 #### Revelación sobre etiqueta en las comidas
 **Corán 33:53 (Sahih International)**
 
-> «…No entréis en las casas del Profeta salvo cuando se os permita para una comida…»
+> «Oh creyentes, no entréis en las casas del Profeta a menos que se os permita para una comida, sin esperar a que esté preparada. Pero cuando seáis invitados, entrad; y cuando hayáis comido, dispersaos sin quedaros a conversar. Ciertamente, ese comportamiento molestaba al Profeta, y él se avergonzaba de despediros. Pero Alá no se avergüenza de la verdad…»
 
-Se convierte la incomodidad personal de Mahoma en ley. Sin embargo, los hadices relatan que dormía con nueve esposas en una sola noche.
+Esto eleva la incomodidad personal de Mahoma a la categoría de ley y lo describe como «demasiado tímido» para despedir a sus invitados. Sin embargo, los hadices relatan que dormía con nueve esposas en una sola noche.
 
 **Sahih al-Bujari 5068**
 
 > «El Profeta solía visitar a todas sus esposas en una sola noche, y tenía nueve esposas en ese tiempo.»
 
+La incoherencia es evidente: era «demasiado tímido» para pedir a los invitados que se marcharan, pero no para presumir de dormir con nueve mujeres en una sola noche.
+
 #### Contraste con Cristo
-Jesús nunca buscó privilegio, sino que vino a servir.
+
+- Jesús nunca buscó privilegio, sino que vino a servir.
 
 **(Mateo 20:28)**
 
@@ -732,60 +704,115 @@ Jesús nunca buscó privilegio, sino que vino a servir.
 La Biblia es consistente: seis días y reposo al séptimo (Génesis 1:31–2:2).
 
 #### 2. Vino: ¿bendito o maldito?
-**Corán 16:67**: bendecido.  
+**Corán 16:67 (Sahih International)**
 
-**Corán 5:90**: maldito.  
+> «Y de los frutos de las palmeras y de las vides obtenéis embriagante y buen sustento. Ciertamente, en ello hay una señal para gente que razona.»
 
-La Biblia: nunca borracha, sí moderación (Salmo 104:15; Efesios 5:18).
+**Corán 5:90 (Sahih International)**
+
+> «Oh creyentes, ciertamente los embriagantes… son una abominación de la obra de Satanás; evitadlos para que prosperéis.»
+
+La enseñanza cambia con el tiempo. La Biblia condena de manera constante la embriaguez, pero permite el vino con moderación (Salmo 104:15; Efesios 5:18).
 
 #### 3. Violencia vs. paz
-**Corán 2:256**: «No hay coacción en religión.»  
+**Corán 2:256 (Sahih International)**
 
-**Corán 9:5, 9:29**: orden de matar y someter.  
+> «No habrá coacción en la aceptación de la religión. El camino recto se ha distinguido claramente del extravío. Quien rechace a Taghut y crea en Alá se habrá aferrado al asidero más firme, que no se rompe. Y Alá todo lo oye y todo lo sabe.»
 
-La Biblia: **(Mateo 5:44)**: «Amad a vuestros enemigos.»
+**Corán 9:5 (Sahih International)**
+
+> «Y cuando hayan transcurrido los meses sagrados, entonces matad a los idólatras dondequiera que los halléis, capturadlos, sitiadlos y acechadlos en todo lugar de emboscada…»
+
+**Corán 9:29 (Sahih International)**
+
+> «Combatid a quienes no creen en Alá ni en el Último Día, no consideran ilícito lo que Alá y Su Mensajero han declarado ilícito, y no adoptan la religión de la verdad entre aquellos que recibieron la Escritura, hasta que paguen la yizia voluntariamente mientras están sometidos.»
+
+El versículo pacífico es anterior; los versículos violentos llegaron después, y eruditos musulmanes consideran que estos abrogan el anterior. Jesús nunca ordenó a sus seguidores matar por la fe. En cambio, dijo:
+
+**(Mateo 5:44)**
+
+> «Pero yo os digo: Amad a vuestros enemigos y orad por quienes os persiguen.»
 
 #### 4. Destino vs. libre albedrío
-**Corán 18:29**: libre elección.  
-**Corán 16:93**: todo depende de la voluntad de Alá.  
-La Biblia mantiene ambos en tensión (Romanos 9:19–21; Josué 24:15).
+**Corán 18:29 (Sahih International)**
+
+> «Y di: “La verdad procede de vuestro Señor; así que quien quiera, que crea, y quien quiera, que no crea.”»
+
+**Corán 16:93 (Sahih International)**
+
+> «Y si Alá hubiera querido, os habría hecho una sola comunidad religiosa, pero extravía a quien quiere y guía a quien quiere…»
+
+El Corán afirma el libre albedrío en un pasaje y lo niega en otro. La Biblia mantiene en equilibrio la soberanía de Dios y la responsabilidad humana (Romanos 9:19–21; Josué 24:15).
 
 #### 5. Muerte de Jesús
-**Corán 4:157**: niega la crucifixión.  
+**Corán 4:157 (Sahih International)**
 
-**Corán 19:33**: la afirma.  
+> «Y por haber dicho: “Ciertamente hemos matado al Mesías, Jesús, hijo de María, el mensajero de Alá.” Pero no lo mataron ni lo crucificaron, sino que otro fue hecho semejante a él ante ellos…»
 
-La Biblia: **(1 Corintios 15:3–4)**: Cristo murió, fue sepultado y resucitó.
+**Corán 19:33 (Sahih International)**
 
-Fuentes seculares (Tácito, Josefo, Luciano, Mara bar-Serapión) también confirman la crucifixión.
+> «Y la paz está sobre mí el día en que nací, el día en que muera y el día en que sea resucitado con vida.»
+
+El Corán niega y afirma la muerte de Jesús en pasajes distintos. La Biblia es coherente:
+
+**(1 Corintios 15:3–4)**
+
+> «Porque primeramente os he enseñado lo que asimismo recibí: que Cristo murió por nuestros pecados, conforme a las Escrituras; que fue sepultado y que resucitó al tercer día, conforme a las Escrituras.»
+
+**Los historiadores seculares confirman la crucifixión:**
+
+- **Tácito, Anales 15.44:** «Cristo… sufrió la pena extrema durante el reinado de Tiberio, a manos de uno de nuestros procuradores, Poncio Pilato.»
+
+- **Josefo, Antigüedades 18.3.3:** «…Pilato… lo condenó a la cruz.»
+
+- **Luciano de Samosata:** se burló de los cristianos por adorar «al hombre que fue crucificado en Palestina.»
+
+- **Mara bar-Serapión:** escribió que los judíos ejecutaron a su «rey sabio.»
 
 #### 6. Versos faltantes
-- Verso de lapidación.
+Las propias fuentes islámicas registran versículos perdidos:
 
-- Verso de amamantamiento.
+- El «verso de la lapidación» ordenaba apedrear a los adúlteros (Sunan Ibn Majah 1944).
 
-- Sura 33 reducida de ~200 a 73 versos.
+- El «verso del amamantamiento» daba reglas sobre la lactancia (Sahih Muslim 1452a).
 
-- Manuscrito de Ṣanʿāʾ revela texto alterno.
+- La Sura 33 contenía originalmente unos 200 versículos, pero ahora solo tiene 73 (fuentes musulmanas, por ejemplo, Musnad Ahmad 22978).
 
-La Biblia, en contraste, tiene miles de manuscritos y ninguna doctrina perdida.
+- El manuscrito de Ṣanʿāʾ, un palimpsesto, revela un texto coránico anterior y no utmánico debajo de la versión estandarizada.
+
+La Biblia, en contraste, cuenta con miles de manuscritos de distintos siglos que permiten reconstruir el texto con gran confianza. Existen variantes menores, pero no se ha perdido ninguna doctrina.
 
 ---
 
 #### Conclusión
 
-El islam proclama un solo Dios y respeta a Jesús como profeta. Pero niega su filiación, crucifixión y resurrección. El Corán contiene contradicciones y versos perdidos. La Biblia es consistente y preservada.
+El islam proclama un solo Dios y venera a Jesús como profeta. Pero niega que sea el Hijo, así como su crucifixión y resurrección. El Corán contiene contradicciones y versículos perdidos, mientras que la Biblia se conserva de manera coherente y cuenta con respaldo histórico.
 
-**(Romanos 3:23–24)**: «Por cuanto todos pecaron… siendo justificados gratuitamente por su gracia.»  
+La Ley expone el pecado, pero solo Cristo la cumplió perfectamente.
 
-**(Efesios 2:8–9)**: «Porque por gracia sois salvos…»  
+**(Romanos 3:23–24)**
 
-**(Hechos 4:12)**: «En ningún otro hay salvación…»  
+> «Por cuanto todos pecaron y están destituidos de la gloria de Dios, siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús.»
 
-**(Juan 11:25–26)**: «Yo soy la resurrección y la vida…»
+**(Efesios 2:8–9)**
+
+> «Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe.»
+
+**(Hechos 4:12)**
+
+> «Y en ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos.»
+
+**(Juan 11:25–26)**
+
+> «Jesús le dijo: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y cree en mí no morirá eternamente. ¿Crees esto?»
 
 **Punto clave:**
-El islam confiesa un solo Dios, pero rechaza al Hijo. Jesús declaró: «Yo soy el camino» (Juan 14:6). Negar al Hijo es negar al Padre (1 Juan 2:23). La Palabra de Dios permanece (Isaías 40:8). Sin Cristo no hay perdón (Hebreos 9:22; 1 Corintios 15:17).
+
+**El islam confiesa un solo Dios, pero rechaza al Hijo. Jesús dice que solo Él es el Camino (Juan 14:6). Negar al Hijo es negar al Padre (1 Juan 2:23). La Escritura dice que la Palabra de Dios permanece para siempre (Isaías 40:8); no ha sido corrompida. La crucifixión, la resurrección y la divinidad de Jesús se anunciaron en el Antiguo Testamento y se confirmaron en el Nuevo.**
+
+**El islam rechaza correctamente la idolatría y afirma que hay un solo Dios, pero al negar a Jesús como Hijo de Dios y Salvador, se aparta de la salvación. La Biblia dice que Dios preserva Su Palabra para siempre (Isaías 40:8). Para conocer plenamente a Dios, debemos conocer a Su Hijo (1 Juan 2:23). Sin la cruz y la resurrección de Cristo no hay perdón de pecados (Hebreos 9:22; 1 Corintios 15:17).**
+
+**La salvación no viene por Mahoma ni por el Corán. Solo se encuentra en Jesucristo, el Hijo de Dios, quien murió por nuestros pecados y resucitó. Solo en Él hay perdón, vida eterna y paz con Dios.**
 
 ---
 
@@ -795,19 +822,29 @@ El islam confiesa un solo Dios, pero rechaza al Hijo. Jesús declaró: «Yo soy 
 
 - Si el contexto lo es todo, ¿dónde está el contexto que permite a Mahoma eximirse de la ley moral que Dios dio a Moisés?
 
-**(Levítico 18:15)**: «La desnudez de tu nuera no descubrirás…»
+- ¿Dónde está la nota al pie que explica por qué **solo él**, entre todos los profetas, reyes y patriarcas, puede tomar a la esposa de su hijo adoptivo y seguir llamándolo santo?
 
-Jesús no se colocó por encima de la Ley; la cumplió perfectamente y llevó la maldición por otros. ¿Por qué solo Mahoma rompe la regla?
+**En resumen:** si «el contexto lo es todo», la coherencia con la ley moral ya revelada por Dios es el primer contexto, y no admite negociación.
 
-El Corán mismo llama a las Escrituras anteriores «guía y luz» (Corán 5:44, 5:46). Entonces, ¿cómo puede un hombre reescribirlas?
+La Torá habla con claridad aquí:
 
-Y si la defensa es: «El ángel me lo dijo», recordemos:
+> **Levítico 18:15:** «La desnudez de tu nuera no descubrirás; mujer es de tu hijo; no descubrirás la desnudez de ella.»
 
-**(2 Corintios 11:14)**: «Satanás se disfraza como ángel de luz.»
+No hay excepciones. No hay un «a menos que seas tímido en las cenas». Quien quebranta la Ley carga con la maldición. **Toda** figura de las Escrituras está sometida a esa norma. Ni siquiera Jesús se colocó *por encima* de la Ley; la **cumplió** perfectamente. No creó excepciones; **cargó con la maldición** de quienes quebrantan la Ley.
+
+Entonces, ¿por qué Mahoma es el **único** hombre en miles de años que puede torcer las reglas? ¿Por qué es el único profeta en todo el recorrido de la Torá y el Evangelio que elude la maldición?
+
+El Corán mismo llama a las Escrituras anteriores «guía y luz» (Corán 5:44, 5:46). Si eso es cierto, ¿con qué fundamento puede un hombre **reescribirlas** sobre la marcha?
+
+Y si la defensa es: «Pero el ángel se lo dijo», recordemos:
+
+> **2 Corintios 11:14:** «Aun Satanás se disfraza como ángel de luz.»
 
 ¿Qué es más probable?
-- ¿Que Dios cambió su norma eterna para un drama doméstico?
-- ¿O que otro «ángel», con otra agenda, susurró una nueva regla y la llamó revelación?
+
+- ¿Que Dios cambió Su norma moral eterna para acomodar el drama doméstico de un hombre?
+
+- ¿O que un «ángel» diferente, con una agenda diferente, susurró una regla nueva y la llamó revelación?
 
 ---
 

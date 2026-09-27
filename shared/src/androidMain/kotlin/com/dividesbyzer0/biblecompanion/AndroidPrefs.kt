@@ -19,6 +19,12 @@ import kotlinx.serialization.encodeToString
 
 private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "settings")
 
+private fun safeThemeHue(value: Float): Float =
+    if (value.isFinite()) value.coerceIn(0f, 360f) else 210f
+
+private fun safeThemeUnit(value: Float, default: Float): Float =
+    if (value.isFinite()) value.coerceIn(0f, 1f) else default
+
 actual class PrefsRepo actual constructor(private val context: PlatformContext) {
 
     private object Keys {
@@ -52,6 +58,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val ORDAINED_FEASTS_EXPANDED = booleanPreferencesKey("ordained_feasts_expanded")
         val HAPTIC_ENABLED = booleanPreferencesKey("haptic_enabled")
         val CUSTOM_THEME_HUE = floatPreferencesKey("custom_theme_hue")
+        val CUSTOM_THEME_SATURATION = floatPreferencesKey("custom_theme_saturation")
+        val CUSTOM_THEME_LIGHTNESS = floatPreferencesKey("custom_theme_lightness")
         val EXPAND_NOTES_DEFAULT = booleanPreferencesKey("expand_notes_default")
         val CROSS_BOOK_TTS = booleanPreferencesKey("cross_book_tts")
         val COLLAPSED_STORIES_JSON = stringPreferencesKey("collapsed_stories_json")
@@ -110,7 +118,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             feastNotesExpanded = p[Keys.FEAST_NOTES_EXPANDED] ?: true,
             ordainedFeastsExpanded = p[Keys.ORDAINED_FEASTS_EXPANDED] ?: false,
             hapticEnabled = p[Keys.HAPTIC_ENABLED] ?: true,
-            customThemeHue = p[Keys.CUSTOM_THEME_HUE] ?: 210f,
+            customThemeHue = safeThemeHue(p[Keys.CUSTOM_THEME_HUE] ?: 210f),
+            customThemeSaturation = safeThemeUnit(p[Keys.CUSTOM_THEME_SATURATION] ?: 1f, 1f),
+            customThemeLightness = safeThemeUnit(p[Keys.CUSTOM_THEME_LIGHTNESS] ?: 0.5f, 0.5f),
             expandNotesDefault = p[Keys.EXPAND_NOTES_DEFAULT] ?: false,
             collapsedStoriesJson = p[Keys.COLLAPSED_STORIES_JSON] ?: "{}",
             autoContinueTts = p[Keys.AUTO_CONTINUE_TTS] ?: true,
@@ -216,7 +226,14 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         context.dataStore.edit { it[Keys.HAPTIC_ENABLED] = enabled }.let { Unit }
 
     actual suspend fun setCustomThemeHue(hue: Float) =
-        context.dataStore.edit { it[Keys.CUSTOM_THEME_HUE] = hue }.let { Unit }
+        context.dataStore.edit { it[Keys.CUSTOM_THEME_HUE] = safeThemeHue(hue) }.let { Unit }
+
+    actual suspend fun setCustomThemeColor(hue: Float, saturation: Float, lightness: Float) =
+        context.dataStore.edit {
+            it[Keys.CUSTOM_THEME_HUE] = safeThemeHue(hue)
+            it[Keys.CUSTOM_THEME_SATURATION] = safeThemeUnit(saturation, 1f)
+            it[Keys.CUSTOM_THEME_LIGHTNESS] = safeThemeUnit(lightness, 0.5f)
+        }.let { Unit }
 
     actual suspend fun setExpandNotesDefault(expand: Boolean) =
         context.dataStore.edit { it[Keys.EXPAND_NOTES_DEFAULT] = expand }.let { Unit }
@@ -420,7 +437,10 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             timestamp = System.currentTimeMillis(),
             bookmarks = bookmarks,
             savedVerses = verses,
-            labels = labels
+            labels = labels,
+            customThemeHue = safeThemeHue(p[Keys.CUSTOM_THEME_HUE] ?: 210f),
+            customThemeSaturation = safeThemeUnit(p[Keys.CUSTOM_THEME_SATURATION] ?: 1f, 1f),
+            customThemeLightness = safeThemeUnit(p[Keys.CUSTOM_THEME_LIGHTNESS] ?: 0.5f, 0.5f)
         )
         return json.encodeToString(backup)
     }
@@ -432,6 +452,11 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
                 p[Keys.BOOKMARKS_JSON] = json.encodeToString(backup.bookmarks)
                 p[Keys.SAVED_VERSES_JSON] = json.encodeToString(backup.savedVerses)
                 p[Keys.LABELS_JSON] = json.encodeToString(backup.labels)
+                backup.importedCustomThemeOrNull()?.let { theme ->
+                    p[Keys.CUSTOM_THEME_HUE] = safeThemeHue(theme.hue)
+                    p[Keys.CUSTOM_THEME_SATURATION] = safeThemeUnit(theme.saturation, 1f)
+                    p[Keys.CUSTOM_THEME_LIGHTNESS] = safeThemeUnit(theme.lightness, 0.5f)
+                }
             }
             true
         }.getOrDefault(false)

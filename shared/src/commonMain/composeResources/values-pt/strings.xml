@@ -423,7 +423,20 @@
     <string name="ui_library_revelation">Apocalipse</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">Escolher cor personalizada</string>
-    <string name="ui_choose_custom_color_hint">Escolha uma amostra ou ajuste o matiz manualmente.</string>
+    <string name="ui_choose_custom_color_hint">Escolha uma cor viva e ajuste a saturação.</string>
+    <string name="ui_custom_color_readability_note">A cor de destaque permanece exata. O texto e as cores de apoio se ajustam para manter a legibilidade.</string>
+    <string name="ui_hue">Matiz</string>
+    <string name="ui_saturation">Saturação</string>
+    <string name="ui_lightness">Luminosidade</string>
+    <string name="ui_exact_color">Cor exata</string>
+    <string name="ui_exact_color_hint">#RRGGBB ou 255,0,0</string>
+    <string name="ui_invalid_exact_color">Use #RRGGBB ou três números de 0 a 255.</string>
+    <string name="ui_apply_color">Aplicar cor</string>
+    <string name="ui_color_red">Vermelho</string>
+    <string name="ui_color_orange">Laranja</string>
+    <string name="ui_color_yellow">Amarelo</string>
+    <string name="ui_color_lime">Verde-limão</string>
+    <string name="ui_color_cyan">Ciano</string>
     <string name="ui_color_selected">Selecionado</string>
     <string name="ui_color_fine_tuned">Cor ajustada</string>
     <string name="ui_theme_preview">Prévia do tema</string>

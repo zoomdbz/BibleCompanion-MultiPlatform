@@ -423,7 +423,20 @@
     <string name="ui_library_revelation">प्रकाशितवाक्य</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">कस्टम रंग चुनें</string>
-    <string name="ui_choose_custom_color_hint">कोई रंग चुनें या रंगत को मैन्युअल रूप से समायोजित करें।</string>
+    <string name="ui_choose_custom_color_hint">कोई चमकीला रंग चुनें, फिर संतृप्ति समायोजित करें।</string>
+    <string name="ui_custom_color_readability_note">आपका चुना रंग ठीक वैसा ही रहता है। पढ़ने में आसानी के लिए पाठ और सहायक रंग समायोजित होते हैं।</string>
+    <string name="ui_hue">रंगत</string>
+    <string name="ui_saturation">संतृप्ति</string>
+    <string name="ui_lightness">उज्ज्वलता</string>
+    <string name="ui_exact_color">सटीक रंग</string>
+    <string name="ui_exact_color_hint">#RRGGBB या 255,0,0</string>
+    <string name="ui_invalid_exact_color">#RRGGBB या 0 से 255 तक की तीन संख्याएं दर्ज करें।</string>
+    <string name="ui_apply_color">रंग लागू करें</string>
+    <string name="ui_color_red">लाल</string>
+    <string name="ui_color_orange">नारंगी</string>
+    <string name="ui_color_yellow">पीला</string>
+    <string name="ui_color_lime">नींबू हरा</string>
+    <string name="ui_color_cyan">सियान</string>
     <string name="ui_color_selected">चयनित</string>
     <string name="ui_color_fine_tuned">बारीकी से समायोजित रंग</string>
     <string name="ui_theme_preview">थीम पूर्वावलोकन</string>

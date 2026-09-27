@@ -424,7 +424,20 @@
     <string name="ui_library_revelation">Apocalipsis</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">Elegir color personalizado</string>
-    <string name="ui_choose_custom_color_hint">Elige una muestra o ajusta el tono manualmente.</string>
+    <string name="ui_choose_custom_color_hint">Elige una muestra intensa y ajusta la saturación.</string>
+    <string name="ui_custom_color_readability_note">El color de acento se mantiene exacto. El texto y los colores auxiliares se ajustan para facilitar la lectura.</string>
+    <string name="ui_hue">Tono</string>
+    <string name="ui_saturation">Saturación</string>
+    <string name="ui_lightness">Luminosidad</string>
+    <string name="ui_exact_color">Color exacto</string>
+    <string name="ui_exact_color_hint">#RRGGBB o 255,0,0</string>
+    <string name="ui_invalid_exact_color">Usa #RRGGBB o tres números del 0 al 255.</string>
+    <string name="ui_apply_color">Aplicar color</string>
+    <string name="ui_color_red">Rojo</string>
+    <string name="ui_color_orange">Naranja</string>
+    <string name="ui_color_yellow">Amarillo</string>
+    <string name="ui_color_lime">Lima</string>
+    <string name="ui_color_cyan">Cian</string>
     <string name="ui_color_selected">Seleccionado</string>
     <string name="ui_color_fine_tuned">Color ajustado</string>
     <string name="ui_theme_preview">Vista previa del tema</string>

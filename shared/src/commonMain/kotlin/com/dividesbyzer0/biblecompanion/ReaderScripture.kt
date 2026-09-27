@@ -36,6 +36,64 @@ internal data class ReaderScriptureBlock(
   val verses: List<ReaderVersePresentation>
 )
 
+internal data class ReaderViewportMeasurement(
+  val rootY: Float,
+  val rootBottomY: Float,
+  val generation: Int
+)
+
+internal fun selectReaderViewportAnchor(
+  measurements: Map<String, ReaderViewportMeasurement>,
+  generation: Int,
+  viewportTopY: Float,
+  viewportBottomY: Float
+): Pair<String, ReaderViewportMeasurement>? {
+  var best: Pair<String, ReaderViewportMeasurement>? = null
+  measurements.forEach { (key, measurement) ->
+    if (measurement.generation != generation) return@forEach
+    val current = best?.second
+    if (isBetterReaderViewportAnchor(
+        rootY = measurement.rootY,
+        rootBottomY = measurement.rootBottomY,
+        viewportTopY = viewportTopY,
+        viewportBottomY = viewportBottomY,
+        currentRootY = current?.rootY ?: Float.POSITIVE_INFINITY,
+        currentRootBottomY = current?.rootBottomY ?: Float.NEGATIVE_INFINITY
+      )
+    ) {
+      best = key to measurement
+    }
+  }
+  return best
+}
+
+/**
+ * Chooses the first verse intersecting the viewport. A verse cut by the top
+ * edge remains the reader's current verse, ahead of a later fully visible one.
+ */
+internal fun isBetterReaderViewportAnchor(
+  rootY: Float,
+  rootBottomY: Float,
+  viewportTopY: Float,
+  viewportBottomY: Float,
+  currentRootY: Float,
+  currentRootBottomY: Float
+): Boolean {
+  val intersectsViewport = rootBottomY > viewportTopY && rootY < viewportBottomY
+  if (!intersectsViewport) return false
+  val currentIntersectsViewport =
+    currentRootBottomY > viewportTopY && currentRootY < viewportBottomY
+  if (!currentIntersectsViewport) return true
+
+  val isCutAtTop = rootY < viewportTopY
+  val currentIsCutAtTop = currentRootY < viewportTopY
+  return when {
+    isCutAtTop != currentIsCutAtTop -> isCutAtTop
+    isCutAtTop -> rootY > currentRootY
+    else -> rootY < currentRootY
+  }
+}
+
 internal fun readerNativeReferenceTail(anchor: VerseAnchor): String =
   if (anchor.verseEnd == anchor.verseStart) {
     "${anchor.chapter}:${anchor.verseStart}"
@@ -136,7 +194,9 @@ private fun ReaderScriptureTextBlock(
   isDark: Boolean,
   scriptureStyle: androidx.compose.ui.text.TextStyle,
   editionId: String,
-  goldAlpha: () -> Float
+  goldAlpha: () -> Float,
+  measurementEpoch: Int,
+  onVersePositioned: ((bulletIndex: Int, anchor: VerseAnchor?, rootY: Float, rootBottomY: Float, epoch: Int) -> Unit)?
 ) {
   val blockGoldAlpha = if (block.verses.any { it.bulletIndex in goldFadeBulletIdxs }) {
     goldAlpha()
@@ -186,7 +246,17 @@ private fun ReaderScriptureTextBlock(
       nativeReferenceTails = nativeReferenceTails,
       onVerseClick = onToggleBullet,
       onVerseLongClick = onCopyBullet,
-      onVersePositioned = { index, rootY -> verseRootY[index] = rootY },
+      onVersePositioned = { index, rootY, rootBottomY, epoch ->
+        verseRootY[index] = rootY
+        onVersePositioned?.invoke(
+          index,
+          block.verses.firstOrNull { it.bulletIndex == index }?.anchor,
+          rootY,
+          rootBottomY,
+          epoch
+        )
+      },
+      measurementEpoch = measurementEpoch,
       useVerseDialogAccessibility = block.verses.size > 1
     )
   )
@@ -209,7 +279,9 @@ fun ReaderScripture(
   onCopyBullet: ((Int) -> Unit)?,
   listState: LazyListState?,
   viewportTopY: Float,
-  viewportHeightPx: Int
+  viewportHeightPx: Int,
+  measurementEpoch: Int = 0,
+  onVersePositioned: ((bulletIndex: Int, anchor: VerseAnchor?, rootY: Float, rootBottomY: Float, epoch: Int) -> Unit)? = null
 ) {
   val blocks = remember(story.summaryBullets, story.headings, prefs.versePerLine) {
     readerScriptureBlocks(story, prefs.versePerLine)
@@ -305,7 +377,9 @@ fun ReaderScripture(
         isDark = isDark,
         scriptureStyle = scriptureStyle,
         editionId = editionId,
-        goldAlpha = { goldAlpha.value }
+        goldAlpha = { goldAlpha.value },
+        measurementEpoch = measurementEpoch,
+        onVersePositioned = onVersePositioned
       )
     }
   }

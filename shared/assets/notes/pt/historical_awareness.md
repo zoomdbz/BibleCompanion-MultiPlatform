@@ -76,7 +76,7 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 - ➡ Jesus previu perseguição.
 
-- **História:** Wycliffe, Tyndale (executado em 1536), Lutero (95 teses, 1517), o Concílio de Trento (1545–1563).
+- **História:** Os reformadores tentaram devolver as Escrituras ao povo comum. John Wycliffe traduziu-as para o inglês e foi condenado até depois da morte. William Tyndale foi executado em 1536 por sua tradução inglesa. As 95 Teses de Martinho Lutero, publicadas em 1517, deram início à Reforma Protestante. O Concílio de Trento da Igreja Católica (1545–1563) intensificou o controle.
 
 - **Conclusão:** Desafiar a corrupção custou vidas.
 
@@ -92,7 +92,7 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 - ➡ Uma carta perdida é mencionada.
 
-- **História:** O Livro de Enoque, Nag Hammadi (1945), Manuscritos do Mar Morto (1947), textos excluídos para proteger autoridade.
+- **História:** O Livro de Enoque foi valorizado pelos primeiros cristãos, mas acabou excluído. A descoberta de Nag Hammadi (1945) revelou o Evangelho de Tomé e outros escritos. Os Manuscritos do Mar Morto (1947) trouxeram à luz textos perdidos e manuscritos alternativos. Muitos escritos foram suprimidos porque ameaçavam o controle institucional.
 
 - **Conclusão:** A Bíblia reconhece livros perdidos; a história mostra exclusões deliberadas.
 
@@ -408,4 +408,3 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 **Conclusão:** A Bíblia não é preservada apenas pela fé, mas também pela história. Sem a ressurreição, o cristianismo teria desaparecido no primeiro século. Em vez disso, espalhou-se pelo mundo porque a mensagem era verdadeira. Gerações de crentes deram a vida para transmitir este testemunho: a salvação é pela graça mediante a fé em Jesus Cristo, não pelas obras da lei que ninguém podia cumprir plenamente. Essa mensagem permanece clara e inalterada hoje.  
 
 A Bíblia é unida por mais de 63.000 referências cruzadas, formando uma vasta rede de conexões que se desenvolveram naturalmente ao longo de séculos de escrita. De Moisés no deserto aos profetas de Israel até os apóstolos do primeiro século, cada geração de escritores repetiu, citou e expandiu o que havia sido escrito antes. Essas conexões se estendem por 1.500 anos, ligando 66 livros escritos em hebraico, aramaico e grego por cerca de 40 autores de três continentes. Longe de ser uma construção artificial, esse tecido cresceu organicamente: os salmos de Davi lembram a Torá, as profecias de Isaías apontam para o Messias e o Novo Testamento se ancora em cada parte do Antigo Testamento para mostrar que Jesus é o cumprimento das promessas de Deus. Hoje, estudiosos rastrearam e visualizaram essas referências cruzadas em arcos luminosos; mais de 63.000 ligações tecendo uma história contínua de redenção. A densidade e a harmonia dessas interconexões demonstram a singularidade da Bíblia: nenhum outro livro da história, escrito por tanto tempo e por tantas mãos, se alinha com tanta consistência, precisão e propósito.
-

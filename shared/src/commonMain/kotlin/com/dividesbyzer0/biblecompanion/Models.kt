@@ -92,6 +92,8 @@ data class PrefsState(
   val ordainedFeastsExpanded: Boolean = false,
   val hapticEnabled: Boolean = true,
   val customThemeHue: Float = 210f,
+  val customThemeSaturation: Float = 1f,
+  val customThemeLightness: Float = 0.5f,
   val expandNotesDefault: Boolean = false,
   val collapsedStoriesJson: String = "{}",
   val autoContinueTts: Boolean = true,
@@ -286,8 +288,32 @@ data class AppBackup(
   val timestamp: Long,
   val bookmarks: List<Bookmark> = emptyList(),
   val savedVerses: List<SavedVerse> = emptyList(),
-  val labels: List<Label> = emptyList()
+  val labels: List<Label> = emptyList(),
+  // Nullable fields keep imports from older backup versions non-destructive.
+  val customThemeHue: Float? = null,
+  val customThemeSaturation: Float? = null,
+  val customThemeLightness: Float? = null
 )
+
+/**
+ * Theme data an import may apply. Older backups carried only hue; preserve the
+ * old custom-theme appearance by supplying the historical full-saturation,
+ * mid-lightness defaults. A backup without hue must not alter local theme data.
+ */
+internal data class ImportedCustomTheme(
+  val hue: Float,
+  val saturation: Float,
+  val lightness: Float
+)
+
+internal fun AppBackup.importedCustomThemeOrNull(): ImportedCustomTheme? =
+  customThemeHue?.let { hue ->
+    ImportedCustomTheme(
+      hue = hue,
+      saturation = customThemeSaturation ?: 1f,
+      lightness = customThemeLightness ?: 0.5f
+    )
+  }
 
 // Genealogy models
 data class GeneNode(val name: String, val refs: List<String>)

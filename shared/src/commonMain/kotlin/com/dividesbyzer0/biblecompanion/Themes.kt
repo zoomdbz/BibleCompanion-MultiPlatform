@@ -5,6 +5,7 @@ import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.lerp
+import androidx.compose.ui.graphics.luminance
 
 /**
  * Curated color themes for the app. Each preset defines a full Material 3 color scheme
@@ -308,15 +309,33 @@ private val InkDark = darkColorScheme(
 )
 
 /** Returns the color scheme for a given preset in light or dark mode. */
-fun colorSchemeFor(preset: ThemePreset, dark: Boolean, customHue: Float = 210f): ColorScheme = when (preset) {
+fun colorSchemeFor(
+  preset: ThemePreset,
+  dark: Boolean,
+  customHue: Float = 210f,
+  customSaturation: Float = 1f,
+  customLightness: Float = .5f
+): ColorScheme = when (preset) {
   ThemePreset.Parchment, ThemePreset.Dynamic -> if (dark) ParchmentDark else ParchmentLight
   ThemePreset.Sage -> if (dark) SageDark else SageLight
   ThemePreset.Indigo -> if (dark) IndigoDark else IndigoLight
   ThemePreset.Ink -> if (dark) InkDark else InkLight
-  ThemePreset.Custom -> customColorScheme(customHue, dark)
+  ThemePreset.Custom -> customColorScheme(customHue, customSaturation, customLightness, dark)
 }
 
-private fun hslToColor(h: Float, s: Float, l: Float): Color {
+private fun normalizedHue(hue: Float): Float {
+  val finiteHue = if (hue.isFinite()) hue else 0f
+  return ((finiteHue % 360f) + 360f) % 360f
+}
+
+private fun unitInterval(value: Float, fallback: Float): Float =
+  if (value.isFinite()) value.coerceIn(0f, 1f) else fallback
+
+/** Exact sRGB HSL seed used by the custom-theme picker and primary container. */
+internal fun customThemeSeedColor(hue: Float, saturation: Float, lightness: Float): Color {
+  val h = normalizedHue(hue)
+  val s = unitInterval(saturation, 1f)
+  val l = unitInterval(lightness, .5f)
   val c = (1f - kotlin.math.abs(2f * l - 1f)) * s
   val x = c * (1f - kotlin.math.abs((h / 60f) % 2f - 1f))
   val m = l - c / 2f
@@ -331,70 +350,120 @@ private fun hslToColor(h: Float, s: Float, l: Float): Color {
   return Color(r + m, g + m, b + m)
 }
 
-private fun customColorScheme(hue: Float, dark: Boolean): ColorScheme {
-  val h = hue.coerceIn(0f, 360f)
-  val h2 = (h + 30f) % 360f
-  val h3 = (h + 60f) % 360f
+private fun contrastRatio(first: Color, second: Color): Float {
+  val lighter = maxOf(first.luminance(), second.luminance())
+  val darker = minOf(first.luminance(), second.luminance())
+  return (lighter + .05f) / (darker + .05f)
+}
+
+private fun contrastOn(background: Color): Color =
+  if (contrastRatio(background, Color.Black) >= contrastRatio(background, Color.White)) Color.Black
+  else Color.White
+
+/**
+ * Keep the selected hue and saturation, changing only HSL lightness when the
+ * accent would vanish against the active surface. This role serves text and
+ * icons; the primary container retains the exact picker color separately.
+ */
+private fun textSafeAccent(hue: Float, saturation: Float, lightness: Float, surface: Color, dark: Boolean): Color {
+  val requested = customThemeSeedColor(hue, saturation, lightness)
+  fun usable(color: Color): Boolean =
+    contrastRatio(color, surface) >= 4.5f && contrastRatio(color, contrastOn(color)) >= 4.5f
+  if (usable(requested)) return requested
+
+  val requestedLightness = unitInterval(lightness, .5f)
+  var low = if (dark) requestedLightness else 0f
+  var high = if (dark) 1f else requestedLightness
+  repeat(24) {
+    val candidateLightness = (low + high) / 2f
+    val candidate = customThemeSeedColor(hue, saturation, candidateLightness)
+    if (usable(candidate)) {
+      if (dark) high = candidateLightness else low = candidateLightness
+    } else {
+      if (dark) low = candidateLightness else high = candidateLightness
+    }
+  }
+  return customThemeSeedColor(hue, saturation, if (dark) high else low)
+}
+
+private fun customColorScheme(hue: Float, saturation: Float, lightness: Float, dark: Boolean): ColorScheme {
+  val h = normalizedHue(hue)
+  val s = unitInterval(saturation, 1f)
+  val l = unitInterval(lightness, .5f)
+  val h2 = normalizedHue(h + 38f)
+  val h3 = normalizedHue(h + 78f)
+  val neutralSaturation = s * .08f
+  val background = customThemeSeedColor(h, neutralSaturation, if (dark) .12f else .98f)
+  val surface = background
+  val primaryContainer = customThemeSeedColor(h, s, l)
+  val secondaryContainer = customThemeSeedColor(h2, s, if (dark) .40f else .62f)
+  val tertiaryContainer = customThemeSeedColor(h3, s, if (dark) .40f else .62f)
+  val primary = textSafeAccent(h, s, l, surface, dark)
+  val secondary = textSafeAccent(h2, s, l, surface, dark)
+  val tertiary = textSafeAccent(h3, s, l, surface, dark)
+  val outline = textSafeAccent(h, s * .55f, l, surface, dark)
+  val outlineVariant = textSafeAccent(h, s * .32f, l, surface, dark)
+
   return if (dark) darkColorScheme(
-    primary = hslToColor(h, 0.50f, 0.72f),
-    onPrimary = hslToColor(h, 0.40f, 0.18f),
-    primaryContainer = hslToColor(h, 0.40f, 0.30f),
-    onPrimaryContainer = hslToColor(h, 0.55f, 0.90f),
-    secondary = hslToColor(h2, 0.30f, 0.70f),
-    onSecondary = hslToColor(h2, 0.20f, 0.18f),
-    secondaryContainer = hslToColor(h2, 0.25f, 0.28f),
-    onSecondaryContainer = hslToColor(h2, 0.35f, 0.88f),
-    tertiary = hslToColor(h3, 0.35f, 0.72f),
-    onTertiary = hslToColor(h3, 0.25f, 0.18f),
-    tertiaryContainer = hslToColor(h3, 0.30f, 0.28f),
-    onTertiaryContainer = hslToColor(h3, 0.40f, 0.88f),
-    background = hslToColor(h, 0.08f, 0.12f),
-    onBackground = hslToColor(h, 0.08f, 0.92f),
-    surface = hslToColor(h, 0.08f, 0.12f),
-    onSurface = hslToColor(h, 0.08f, 0.92f),
-    surfaceBright = hslToColor(h, 0.10f, 0.32f),
-    surfaceDim = hslToColor(h, 0.08f, 0.09f),
-    surfaceContainerLowest = hslToColor(h, 0.08f, 0.06f),
-    surfaceContainerLow = hslToColor(h, 0.08f, 0.16f),
-    surfaceContainer = hslToColor(h, 0.08f, 0.19f),
-    surfaceContainerHigh = hslToColor(h, 0.09f, 0.23f),
-    surfaceContainerHighest = hslToColor(h, 0.10f, 0.27f),
-    surfaceVariant = hslToColor(h, 0.10f, 0.29f),
-    onSurfaceVariant = hslToColor(h, 0.10f, 0.84f),
-    outline = hslToColor(h, 0.10f, 0.67f),
-    outlineVariant = hslToColor(h, 0.10f, 0.45f),
+    primary = primary,
+    onPrimary = contrastOn(primary),
+    primaryContainer = primaryContainer,
+    onPrimaryContainer = contrastOn(primaryContainer),
+    secondary = secondary,
+    onSecondary = contrastOn(secondary),
+    secondaryContainer = secondaryContainer,
+    onSecondaryContainer = contrastOn(secondaryContainer),
+    tertiary = tertiary,
+    onTertiary = contrastOn(tertiary),
+    tertiaryContainer = tertiaryContainer,
+    onTertiaryContainer = contrastOn(tertiaryContainer),
+    background = background,
+    onBackground = contrastOn(background),
+    surface = surface,
+    onSurface = contrastOn(surface),
+    surfaceBright = customThemeSeedColor(h, neutralSaturation, .32f),
+    surfaceDim = customThemeSeedColor(h, neutralSaturation, .09f),
+    surfaceContainerLowest = customThemeSeedColor(h, neutralSaturation, .06f),
+    surfaceContainerLow = customThemeSeedColor(h, neutralSaturation, .16f),
+    surfaceContainer = customThemeSeedColor(h, neutralSaturation, .19f),
+    surfaceContainerHigh = customThemeSeedColor(h, neutralSaturation, .23f),
+    surfaceContainerHighest = customThemeSeedColor(h, neutralSaturation, .27f),
+    surfaceVariant = customThemeSeedColor(h, s * .20f, .29f),
+    onSurfaceVariant = contrastOn(customThemeSeedColor(h, s * .20f, .29f)),
+    outline = outline,
+    outlineVariant = outlineVariant,
     error = Color(0xFFFFB4AB),
     onError = Color(0xFF690005),
     errorContainer = Color(0xFF93000A),
     onErrorContainer = Color(0xFFFFDAD6)
   ) else lightColorScheme(
-    primary = hslToColor(h, 0.55f, 0.30f),
-    onPrimary = Color(0xFFFFFFFF),
-    primaryContainer = hslToColor(h, 0.60f, 0.88f),
-    onPrimaryContainer = hslToColor(h, 0.50f, 0.12f),
-    secondary = hslToColor(h2, 0.30f, 0.34f),
-    onSecondary = Color(0xFFFFFFFF),
-    secondaryContainer = hslToColor(h2, 0.35f, 0.88f),
-    onSecondaryContainer = hslToColor(h2, 0.25f, 0.12f),
-    tertiary = hslToColor(h3, 0.35f, 0.34f),
-    onTertiary = Color(0xFFFFFFFF),
-    tertiaryContainer = hslToColor(h3, 0.40f, 0.88f),
-    onTertiaryContainer = hslToColor(h3, 0.30f, 0.12f),
-    background = hslToColor(h, 0.08f, 0.97f),
-    onBackground = hslToColor(h, 0.08f, 0.10f),
-    surface = hslToColor(h, 0.08f, 0.97f),
-    onSurface = hslToColor(h, 0.08f, 0.10f),
-    surfaceBright = hslToColor(h, 0.08f, 0.99f),
-    surfaceDim = hslToColor(h, 0.10f, 0.85f),
-    surfaceContainerLowest = hslToColor(h, 0.08f, 1.00f),
-    surfaceContainerLow = hslToColor(h, 0.08f, 0.95f),
-    surfaceContainer = hslToColor(h, 0.09f, 0.92f),
-    surfaceContainerHigh = hslToColor(h, 0.10f, 0.89f),
-    surfaceContainerHighest = hslToColor(h, 0.11f, 0.86f),
-    surfaceVariant = hslToColor(h, 0.12f, 0.90f),
-    onSurfaceVariant = hslToColor(h, 0.10f, 0.30f),
-    outline = hslToColor(h, 0.10f, 0.48f),
-    outlineVariant = hslToColor(h, 0.12f, 0.78f),
+    primary = primary,
+    onPrimary = contrastOn(primary),
+    primaryContainer = primaryContainer,
+    onPrimaryContainer = contrastOn(primaryContainer),
+    secondary = secondary,
+    onSecondary = contrastOn(secondary),
+    secondaryContainer = secondaryContainer,
+    onSecondaryContainer = contrastOn(secondaryContainer),
+    tertiary = tertiary,
+    onTertiary = contrastOn(tertiary),
+    tertiaryContainer = tertiaryContainer,
+    onTertiaryContainer = contrastOn(tertiaryContainer),
+    background = background,
+    onBackground = contrastOn(background),
+    surface = surface,
+    onSurface = contrastOn(surface),
+    surfaceBright = customThemeSeedColor(h, neutralSaturation, .99f),
+    surfaceDim = customThemeSeedColor(h, neutralSaturation, .85f),
+    surfaceContainerLowest = customThemeSeedColor(h, neutralSaturation, 1f),
+    surfaceContainerLow = customThemeSeedColor(h, neutralSaturation, .95f),
+    surfaceContainer = customThemeSeedColor(h, neutralSaturation, .92f),
+    surfaceContainerHigh = customThemeSeedColor(h, neutralSaturation, .89f),
+    surfaceContainerHighest = customThemeSeedColor(h, neutralSaturation, .86f),
+    surfaceVariant = customThemeSeedColor(h, s * .20f, .90f),
+    onSurfaceVariant = contrastOn(customThemeSeedColor(h, s * .20f, .90f)),
+    outline = outline,
+    outlineVariant = outlineVariant,
     error = Color(0xFFBA1A1A),
     onError = Color(0xFFFFFFFF),
     errorContainer = Color(0xFFFFDAD6),
@@ -402,11 +471,16 @@ private fun customColorScheme(hue: Float, dark: Boolean): ColorScheme {
   )
 }
 
-fun customThemeSwatch(hue: Float, dark: Boolean): ThemeSwatch {
+fun customThemeSwatch(
+  hue: Float,
+  dark: Boolean,
+  saturation: Float = 1f,
+  lightness: Float = .5f
+): ThemeSwatch {
   return ThemeSwatch(
-    primary = if (dark) hslToColor(hue, 0.50f, 0.72f) else hslToColor(hue, 0.55f, 0.30f),
-    surface = if (dark) hslToColor(hue, 0.08f, 0.12f) else hslToColor(hue, 0.08f, 0.97f),
-    secondary = if (dark) hslToColor((hue + 60f) % 360f, 0.35f, 0.72f) else hslToColor((hue + 60f) % 360f, 0.35f, 0.34f)
+    primary = customThemeSeedColor(hue, saturation, lightness),
+    surface = customThemeSeedColor(hue, saturation * .08f, if (dark) .12f else .98f),
+    secondary = customThemeSeedColor(hue + 78f, saturation, lightness)
   )
 }
 

@@ -966,7 +966,7 @@ Die Gnosis bietet geheimes Wissen. Das Evangelium bietet öffentliche Wahrheit. 
 
 ### Hebräische Wurzeln, Heiliger Name und Tora-Observanz-als-Erlösung-Bewegungen
 
-**Auch bekannt als:** Hebräische Wurzeln. Tora-treues Christentum. Messianische Tora-Bewegung. Heilige-Namen-Bewegung. Jahwe-einzige Bewegung. Jahshua-einzige Sprachgruppen. Zwei-Häuser-Theologie. Ephraimitische Bewegung. Nazarene Israel. Überschneidung mit Black Hebrew Israelites. Israelitische Identitätsbewegungen. Lunar-Sabbat-Gruppen. Festhalten als Heilslehre.
+**Auch bekannt als:** Hebräische Wurzeln. Tora-treues Christentum. Messianische Tora-Bewegung. Heilige-Namen-Bewegung. Jahwe-einzige Bewegung. Jahshua-einzige Sprachgruppen. Zwei-Häuser-Theologie. Ephraimitische Bewegung. Nazarene Israel. Überschneidung mit Black Hebrew Israelites. Israelitische Identitätsbewegungen. Lunar-Sabbat-Gruppen. Festhalten als Heilslehre. (Nicht zu verwechseln mit bibeltreuem messianischem Judentum.)
 
 **Hinweis:** Jüdische Gläubige an Jesus und biblisch treue messianische Gemeinden sind nicht das Ziel dieser Kritik. Die Apostel waren Juden. Jesus war Jude. Das Alte Testament ist christliche Schrift. Den jüdischen Kontext der Bibel zu lernen ist gut. Die Gefahr beginnt, wenn Tora-Observanz zur Heilsbedingung wird, zum Zeichen der Überlegenheit oder zum Grund, andere Gläubige zu verurteilen.
 
@@ -976,12 +976,13 @@ Die Gnosis bietet geheimes Wissen. Das Evangelium bietet öffentliche Wahrheit. 
 
 - „Jesus ist ein heidnischer Name.“
 - „Du musst Jahshua sagen, sonst rufst du den falschen Namen an.“
+- „Der Name Gottes wurde vor euch verborgen.“
 - „Die Kirche hat den Sabbat ersetzt.“
-- „Weihnachten und Ostern sind heidnisch; Christen, die sie feiern, sind getäuscht.“
+- „Weihnachten und Ostern sind heidnisch; Christen, die sie feiern, sind getäuscht.“ (Es gibt Vorbehalte und Kontext; siehe dazu mehr über Synkretismus in „Historisches Bewusstsein“. Letztlich geht es um das Herz.)
 - „Paulus wurde missverstanden.“
 - „Das Gesetz wurde nie abgeschafft.“
 - „Wahre Gläubige halten die Tora.“
-- „Wer Schweinefleisch isst, ungehorcht Gott.“
+- „Wer Schweinefleisch isst, ungehorcht Gott. Gottes Speisegesetze wurden nie abgeschafft.“
 - „Die Kirche ist Babylon.“
 
 **Warum es gefährlich ist:** Es kann mit nützlichem biblischem Kontext beginnen und in Knechtschaft enden. Der Gläubige wird langsam von Christi vollbrachtem Werk zu Kalenderhalten, Speiseregeln, hebräischer Aussprache, Festbeachtung und Misstrauen gegenüber jeder gewöhnlichen christlichen Gemeinde geführt.

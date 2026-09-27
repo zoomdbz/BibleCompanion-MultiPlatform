@@ -155,7 +155,7 @@ Orar não é informar a Deus; é alinhar o coração com a vontade dEle. Quando 
 
 - **Salmo 13:1–2**: «Até quando, SENHOR? Esquecer-Te-ás de mim para sempre?» O clamor de Davi mostra que o silêncio faz parte da vida de fé.
 
-- **Isaías 55:8–9**: «Os Meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os Meus caminhos.»
+- **Isaías 55:8–9**: «Os Meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os Meus caminhos, declara o SENHOR.»
 
 - **Mateus 7:7–8**: «Pedi, e dar-se-vos-á; buscai, e achareis; batei, e abrir-se-vos-á.»  
   Persistência é prova de confiança.
@@ -164,11 +164,11 @@ A Escritura dá várias razões para respostas tardias, diferentes ou negadas.
 
 **1) Alinhamento com a vontade de Deus**
 
-- **1 João 5:14–15**: «Se pedimos segundo a Sua vontade… sabemos que alcançamos os pedidos que Lhe fizemos.»
+- **1 João 5:14–15**: «Se pedirmos alguma coisa segundo a Sua vontade, Ele nos ouve… sabemos que alcançamos os pedidos que Lhe fizemos.»
 
-- **Lucas 22:42**: «Faça-se a Tua vontade.»
+- **Lucas 22:42**: Até Jesus orou: «Não se faça a Minha vontade, mas a Tua.» A oração não trata de controle; trata de comunhão.
 
-- **João 15:7**: «Se permanecerdes em Mim… pedireis o que quiserdes, e vos será feito.»
+- **João 15:7**: «Se permanecerdes em Mim, e as Minhas palavras permanecerem em vós, pedireis o que quiserdes, e vos será feito.»
 
 **2) Tempo e propósitos de Deus**
 
@@ -194,9 +194,11 @@ A Escritura dá várias razões para respostas tardias, diferentes ou negadas.
 
 **5) Ajuda do Espírito na oração**
 
-- **Romanos 8:26–28**: «O Espírito nos assiste em nossas fraquezas… e todas as coisas cooperam para o bem dos que amam a Deus.»
+- **Romanos 8:26–28**: «O Espírito nos assiste em nossas fraquezas… o próprio Espírito intercede por nós com gemidos profundos demais para serem expressos em palavras… e todas as coisas cooperam para o bem dos que amam a Deus.»
 
-**Resumo bíblico:** O povo de Deus às vezes espera; Deus ouve; as respostas se conformam à Sua vontade, ao Seu tempo e aos Seus propósitos; motivos e obediência importam; a graça sustenta quando o pedido não é concedido tal como foi feito; e o Espírito intercede mesmo quando faltam palavras.
+- **Tiago 5:16**: «A oração de um justo é poderosa e eficaz.»
+
+**Resumo bíblico:** O povo de Deus às vezes espera; Deus ouve; as respostas se conformam à Sua vontade, ao Seu tempo e aos Seus propósitos; motivos e obediência importam; a graça sustenta quando o pedido não é concedido tal como foi feito; e o Espírito intercede mesmo quando faltam palavras. A fé amadurece quando a oração se concentra menos no resultado e mais no relacionamento com Deus.
 
 ---
 

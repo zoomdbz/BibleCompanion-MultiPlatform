@@ -3,6 +3,7 @@ package com.dividesbyzer0.biblecompanion
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -61,8 +62,12 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.text.ExperimentalTextApi
+import androidx.compose.ui.text.rememberTextMeasurer
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
 import com.dividesbyzer0.biblecompanion.platform.platformCurrentDate
@@ -418,11 +423,14 @@ internal fun SavedItemsCard(bookmarkCount: Int, savedVerseCount: Int, onClick: (
 }
 
 @Composable
+@OptIn(ExperimentalTextApi::class)
 internal fun CollectionButtons(
   prefs: PrefsState,
   onOpenCollection: (String) -> Unit,
   enabled: Boolean = true
 ) {
+  val textMeasurer = rememberTextMeasurer()
+  val density = LocalDensity.current
   Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
     Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(16.dp)) {
       Button(onClick = { onOpenCollection("old_testament") }, enabled = enabled, modifier = Modifier.weight(1f).heightIn(min = 56.dp), shape = RoundedCornerShape(24.dp)) {
@@ -438,20 +446,44 @@ internal fun CollectionButtons(
       if (prefs.showApoc) add("apocrypha" to Res.string.apocrypha)
     }
     if (extras.isNotEmpty()) {
-      // Three localized labels do not fit reliably in phone-width thirds. Use
-      // deterministic rows: two readable half-width cards, then a full-width
-      // final card. This avoids FlowRow's left-aligned orphan and preserves
-      // the collection order at every density and font scale.
-      extras.chunked(2).forEach { row ->
-        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
-          row.forEach { (collection, label) ->
-            CollectionPill(
-              collection = collection,
-              label = label,
-              enabled = enabled,
-              modifier = if (row.size == 1) Modifier.fillMaxWidth() else Modifier.weight(1f),
-              onOpenCollection = onOpenCollection
-            )
+      val compactStyle = MaterialTheme.typography.labelSmall
+      val compactLabels = extras.map { stringResource(it.second) }
+      BoxWithConstraints(Modifier.fillMaxWidth()) {
+        // Equal pills use 8dp gaps and 4dp padding on each button.
+        // Measure the actual localized text, including the active font scale,
+        // instead of guessing from the device width or font-scale preference.
+        val cellWidth = (maxWidth - 8.dp * (extras.size - 1)) / extras.size
+        val textWidth = cellWidth - 8.dp
+        val allFit = extras.size <= 3 && compactLabels.all { label ->
+          textMeasurer.measure(label, style = compactStyle).size.width <= with(density) { textWidth.roundToPx() }
+        }
+        if (allFit) {
+          Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            extras.forEach { (collection, label) ->
+              CollectionPill(
+                collection = collection,
+                label = label,
+                enabled = enabled,
+                modifier = Modifier.weight(1f),
+                compact = true,
+                onOpenCollection = onOpenCollection
+              )
+            }
+          }
+        } else {
+          // If one label cannot fit, all collections take the same full-width
+          // form. No truncation, orphan, or implied collection priority.
+          Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            extras.forEach { (collection, label) ->
+              CollectionPill(
+                collection = collection,
+                label = label,
+                enabled = enabled,
+                modifier = Modifier.fillMaxWidth(),
+                compact = false,
+                onOpenCollection = onOpenCollection
+              )
+            }
           }
         }
       }
@@ -465,16 +497,25 @@ private fun CollectionPill(
   label: StringResource,
   enabled: Boolean,
   modifier: Modifier,
+  compact: Boolean,
   onOpenCollection: (String) -> Unit
 ) {
   androidx.compose.material3.FilledTonalButton(
     onClick = { onOpenCollection(collection) },
     enabled = enabled,
-    modifier = modifier.heightIn(min = 52.dp),
+    modifier = modifier.heightIn(min = if (compact) 44.dp else 52.dp),
     shape = RoundedCornerShape(22.dp),
-    contentPadding = PaddingValues(horizontal = 10.dp, vertical = 8.dp)
+    contentPadding = PaddingValues(horizontal = if (compact) 4.dp else 10.dp, vertical = 8.dp)
   ) {
-    Text(stringResource(label), maxLines = 2, overflow = TextOverflow.Ellipsis)
+    Text(
+      stringResource(label),
+      style = if (compact) MaterialTheme.typography.labelSmall else MaterialTheme.typography.labelMedium,
+      maxLines = if (compact) 1 else Int.MAX_VALUE,
+      softWrap = !compact,
+      overflow = TextOverflow.Ellipsis,
+      textAlign = TextAlign.Center,
+      modifier = Modifier.fillMaxWidth()
+    )
   }
 }
 

@@ -575,13 +575,13 @@ Im Gegensatz dazu verurteilt das mosaische Gesetz Mord, und Jesus lehnte Gewalt 
 Der Koran leugnet die Sohnschaft und die Kreuzigung Jesu.
 
 **Koran 4:171 (Sahih International)**
-> „… Sagt nicht: ‚Drei‘ … Allah ist nur ein einziger Gott. Erhaben ist er, dass er einen Sohn habe.“
+> „O Leute der Schrift, übertreibt nicht in eurer Religion und sagt über Allah nur die Wahrheit. Der Messias, Jesus, der Sohn der Maria, ist nur der Gesandte Allahs und sein Wort, das er Maria entbot, und Geist von ihm. So glaubt an Allah und seine Gesandten und sagt nicht: ‚Drei‘; hört auf - es ist besser für euch. Allah ist nur ein einziger Gott. Erhaben ist er darüber, einen Sohn zu haben.“
 
 **Koran 112:3 (Sahih International)**
 > „Er zeugt nicht und ist nicht gezeugt.“
 
 **Koran 4:157 (Sahih International)**
-> „… sie töteten ihn nicht und kreuzigten ihn nicht …“
+> „Und wegen ihrer Rede: ‚Wir haben den Messias, Jesus, den Sohn der Maria, den Gesandten Allahs, getötet.‘ Doch sie haben ihn nicht getötet und ihn nicht gekreuzigt, sondern ein anderer wurde ihm für sie ähnlich gemacht. Und diejenigen, die darüber uneins sind, sind wahrlich im Zweifel darüber. Sie haben darüber kein Wissen, sondern folgen nur Mutmaßungen. Und sie haben ihn gewiss nicht getötet.“
 
 Die Bibel lehrt das Gegenteil: Jesus ist der ewige Sohn Gottes, gekreuzigt und auferstanden.
 
@@ -708,13 +708,13 @@ Die Lehre ändert sich im Lauf der Zeit. Die Bibel verurteilt beständig Trunksu
 
 #### 3. Gewalt vs. Frieden
 **Koran 2:256 (Sahih International)**
-> „Es gibt keinen Zwang im Glauben …“
+> „Es gibt keinen Zwang im Glauben. Der rechte Weg ist klar vom Irrweg unterschieden. Wer also Taghut verleugnet und an Allah glaubt, hält sich an der festesten Handhabe, die nicht zerbricht. Und Allah ist hörend und wissend.“
 
 **Koran 9:5 (Sahih International)**
-> „Und wenn die heiligen Monate verflossen sind, dann tötet die Götzendiener, wo immer ihr sie findet …“
+> „Und wenn die heiligen Monate verflossen sind, dann tötet die Götzendiener, wo immer ihr sie findet, ergreift sie, belagert sie und lauert ihnen an jedem Ort auf …“
 
 **Koran 9:29 (Sahih International):**
-> „Kämpft gegen diejenigen von den Leuten der Schrift, die nicht an Allah und den Jüngsten Tag glauben … bis sie die Dschizya entrichten, willig und demütig.“
+> „Kämpft gegen diejenigen, die weder an Allah noch an den Jüngsten Tag glauben, die nicht für verboten erachten, was Allah und sein Gesandter verboten haben, und die unter jenen, denen die Schrift gegeben wurde, nicht die Religion der Wahrheit annehmen, bis sie die Dschizya willig entrichten und gedemütigt sind.“
 
 Der friedliche Vers ist früh; der gewalttätige später und gilt in der islamischen Gelehrsamkeit oft als Abrogation des früheren. Jesus befahl seinen Nachfolgern niemals zu töten. Stattdessen sagte er:
 
@@ -743,11 +743,11 @@ Der Koran leugnet und bejaht Jesu Tod an verschiedenen Stellen. Die Bibel ist ko
 > „… dass Christus für unsere Sünden gestorben ist … begraben wurde … und am dritten Tag auferweckt worden ist …“
 
 **Weltliche Historiker bestätigen die Kreuzigung:**
-- **Tacitus, Annalen 15,44:** „Christus … erlitt die äußerste Strafe während der Regierung des Tiberius durch Pontius Pilatus.“
+- **Tacitus, Annalen 15,44:** „Christus … erlitt während der Regierung des Tiberius durch die Hand eines unserer Statthalter, Pontius Pilatus, die äußerste Strafe.“
 
 - **Josephus, Altertümer 18,3,3:** „… Pilatus … verurteilte ihn zum Kreuz.“
 
-- **Lukian von Samosata:** verspottete Christen, weil sie „den in Palästina Gekreuzigten“ verehren.
+- **Lukian von Samosata:** verspottete Christen, weil sie „den Mann verehren, der in Palästina gekreuzigt wurde“.
 
 - **Mara bar-Serapion:** schrieb, die Juden hätten ihren „weisen König“ hingerichtet.
 

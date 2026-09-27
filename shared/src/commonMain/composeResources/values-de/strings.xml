@@ -423,7 +423,20 @@
     <string name="ui_library_revelation">Offenbarung</string>
     <!-- Custom theme color picker -->
     <string name="ui_choose_custom_color">Benutzerdefinierte Farbe wählen</string>
-    <string name="ui_choose_custom_color_hint">Wählen Sie ein Farbfeld oder passen Sie den Farbton manuell an.</string>
+    <string name="ui_choose_custom_color_hint">Wählen Sie ein kräftiges Farbfeld und passen Sie dann die Sättigung an.</string>
+    <string name="ui_custom_color_readability_note">Ihre Akzentfarbe bleibt exakt. Text- und Begleitfarben werden für gute Lesbarkeit angepasst.</string>
+    <string name="ui_hue">Farbton</string>
+    <string name="ui_saturation">Sättigung</string>
+    <string name="ui_lightness">Helligkeit</string>
+    <string name="ui_exact_color">Exakte Farbe</string>
+    <string name="ui_exact_color_hint">#RRGGBB oder 255,0,0</string>
+    <string name="ui_invalid_exact_color">Verwenden Sie #RRGGBB oder drei Zahlen von 0 bis 255.</string>
+    <string name="ui_apply_color">Farbe anwenden</string>
+    <string name="ui_color_red">Rot</string>
+    <string name="ui_color_orange">Orange</string>
+    <string name="ui_color_yellow">Gelb</string>
+    <string name="ui_color_lime">Limettengrün</string>
+    <string name="ui_color_cyan">Cyan</string>
     <string name="ui_color_selected">Ausgewählt</string>
     <string name="ui_color_fine_tuned">Fein abgestimmte Farbe</string>
     <string name="ui_theme_preview">Designvorschau</string>

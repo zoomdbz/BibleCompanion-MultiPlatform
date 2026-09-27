@@ -24,11 +24,13 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.withFrameNanos
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
@@ -753,7 +755,8 @@ data class ReaderTextOptions(
   val nativeReferenceTails: Map<Int, String> = emptyMap(),
   val onVerseClick: ((Int) -> Unit)? = null,
   val onVerseLongClick: ((Int) -> Unit)? = null,
-  val onVersePositioned: ((Int, Float) -> Unit)? = null,
+  val onVersePositioned: ((Int, Float, Float, Int) -> Unit)? = null,
+  val measurementEpoch: Int = 0,
   val useVerseDialogAccessibility: Boolean = false
 )
 
@@ -1453,8 +1456,24 @@ object ScriptureRefs {
       asText.getStringAnnotations("READER_VERSE", 0, asText.length).forEach { annotation ->
         val verseIndex = annotation.item.toIntOrNull() ?: return@forEach
         val safeOffset = annotation.start.coerceIn(0, (asText.length - 1).coerceAtLeast(0))
-        val line = layout.getLineForOffset(safeOffset)
-        callback(verseIndex, textRootY + layout.getLineTop(line))
+        val firstLine = layout.getLineForOffset(safeOffset)
+        val endOffset = (annotation.end - 1).coerceIn(0, (asText.length - 1).coerceAtLeast(0))
+        val lastLine = layout.getLineForOffset(endOffset)
+        callback(
+          verseIndex,
+          textRootY + layout.getLineTop(firstLine),
+          textRootY + layout.getLineBottom(lastLine),
+          readerOptions.measurementEpoch
+        )
+      }
+    }
+
+    // A restoration epoch demands coordinates published after the current
+    // scroll/layout transaction, never a parent-side cached measurement.
+    LaunchedEffect(readerOptions?.measurementEpoch, asText.text) {
+      if (readerOptions?.onVersePositioned != null) {
+        withFrameNanos { }
+        publishReaderVersePositions()
       }
     }
 

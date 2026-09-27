@@ -967,7 +967,7 @@ O gnosticismo oferece conhecimento secreto. O evangelho oferece verdade pública
 
 ### Movimentos das Raízes Hebraicas, Nome Sagrado e Observância da Torá como Salvação
 
-**Também conhecidos como:** Raízes Hebraicas. Cristandade Observante da Torá. Movimento Messiânico da Torá. Movimento do Nome Sagrado. Movimento apenas-Yahweh. Grupos linguísticos apenas-Yahshua. Teologia das Duas Casas. Movimento Efraimita. Israel Nazareno. Sobreposição com Israelitas Hebreus Negros. Movimentos de identidade israelita. Grupos do Sábado Lunar. Ensino de guarda das festas como salvação.
+**Também conhecidos como:** Raízes Hebraicas. Cristandade Observante da Torá. Movimento Messiânico da Torá. Movimento do Nome Sagrado. Movimento apenas-Yahweh. Grupos linguísticos apenas-Yahshua. Teologia das Duas Casas. Movimento Efraimita. Israel Nazareno. Sobreposição com Israelitas Hebreus Negros. Movimentos de identidade israelita. Grupos do Sábado Lunar. Ensino de guarda das festas como salvação. (Não confundir com o judaísmo messiânico biblicamente fiel.)
 
 **Observação:** Crentes judeus em Jesus e congregações messiânicas biblicamente fiéis não são o alvo desta crítica. Os apóstolos eram judeus. Jesus era judeu. O Antigo Testamento é Escritura cristã. Aprender o contexto judaico da Bíblia é algo bom. O perigo começa quando a observância da Torá se torna um requisito para a salvação, um distintivo de superioridade ou um motivo para condenar outros crentes.
 
@@ -977,12 +977,13 @@ O gnosticismo oferece conhecimento secreto. O evangelho oferece verdade pública
 
 - «Jesus é um nome pagão.»
 - «Você deve dizer Yahshua ou estará invocando o nome errado.»
+- «O nome de Deus foi ocultado de vocês.»
 - «A igreja substituiu o Sábado.»
-- «Natal e Páscoa são pagãos, portanto os cristãos que os celebram estão enganados.»
+- «Natal e Páscoa são pagãos, portanto os cristãos que os celebram estão enganados.» (Há ressalvas e contexto; veja mais sobre sincretismo em «Consciência histórica». Em última análise, trata-se do coração.)
 - «Paulo tem sido mal compreendido.»
 - «A lei jamais foi abolida.»
 - «Verdadeiros crentes guardam a Torá.»
-- «Se você come carne de porco, está desobedecendo a Deus.»
+- «Se você come carne de porco, está desobedecendo a Deus. As leis alimentares de Deus nunca foram abolidas.»
 - «A igreja é Babilônia.»
 
 **Por que é perigoso:** Pode começar com contexto bíblico útil e terminar em escravidão. O crente é gradualmente deslocado da obra consumada de Cristo para a guarda de calendários, regras alimentares, pronúncia hebraica, observância de festas e desconfiança em relação a toda igreja cristã comum.
