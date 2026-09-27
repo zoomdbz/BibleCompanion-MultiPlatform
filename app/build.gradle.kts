@@ -78,6 +78,12 @@ android {
     buildConfig = true
   }
 
+  // Let Android memory-map bundled fonts instead of copying compressed CJK
+  // font files into the app heap when languages or font weights change.
+  androidResources {
+    noCompress += "ttf"
+  }
+
   compileOptions {
     sourceCompatibility = JavaVersion.VERSION_17
     targetCompatibility = JavaVersion.VERSION_17
