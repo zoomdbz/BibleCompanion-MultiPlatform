@@ -381,4 +381,34 @@
     <string name="daily_notification_ios_window">iOS 最多可预先安排 60 天的经文通知。请定期打开应用，以更新通知安排。</string>
     <string name="daily_notification_permission_denied">通知已被阻止。请在设备设置中允许通知，然后开启此选项。</string>
     <string name="daily_notification_system_settings">设备通知设置</string>
+    <!-- 主导航和经文阅读器 -->
+    <string name="ui_nav_home">首页</string>
+    <string name="ui_nav_read">阅读</string>
+    <string name="ui_nav_study">研读</string>
+    <string name="ui_nav_calendar">日历</string>
+    <string name="ui_reading_appearance">阅读外观</string>
+    <string name="ui_line_spacing">行距</string>
+    <string name="ui_verse_per_line">每行一节</string>
+    <string name="ui_chapters">章节</string>
+    <string name="ui_verses">经节</string>
+    <string name="ui_choose_book">选择书卷</string>
+    <string name="ui_previous_chapter">上一章</string>
+    <string name="ui_next_chapter">下一章</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">信仰根基</string>
+    <string name="ui_torah_feasts">律法与节期</string>
+    <string name="ui_discernment">辨别</string>
+    <string name="ui_reference">参考</string>
+    <string name="ui_library_law">律法书</string>
+    <string name="ui_library_history">历史书</string>
+    <string name="ui_library_wisdom">智慧书</string>
+    <string name="ui_library_major_prophets">大先知书</string>
+    <string name="ui_library_minor_prophets">小先知书</string>
+    <string name="ui_library_gospels">福音书</string>
+    <string name="ui_library_paul">保罗书信</string>
+    <string name="ui_library_general">普通书信</string>
+    <string name="ui_current_feasts">当前节期</string>
+    <string name="ui_next_feast">下一节期</string>
+    <string name="ui_calendar_basis">历法依据</string>
+    <string name="ui_reading_now">正在阅读</string>
 </resources>

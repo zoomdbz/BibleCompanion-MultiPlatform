@@ -13,6 +13,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.PaddingValues
@@ -28,15 +29,15 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawing
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.windowInsetsPadding
-import androidx.compose.foundation.gestures.scrollBy
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
-import androidx.compose.foundation.gestures.waitForUpOrCancellation
 import androidx.compose.ui.input.pointer.PointerEventPass
 import androidx.compose.ui.input.pointer.PointerEventTimeoutCancellationException
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.input.nestedscroll.nestedScroll
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.CoroutineStart
@@ -56,8 +57,10 @@ import androidx.compose.foundation.text.selection.SelectionContainer
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.automirrored.filled.MenuBook
 import androidx.compose.material.icons.filled.AutoAwesome
+import androidx.compose.material.icons.filled.CalendarMonth
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.ContentCopy
@@ -114,9 +117,12 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
+import androidx.compose.material3.TextFieldDefaults
 import androidx.compose.material3.Typography
+import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
@@ -140,6 +146,10 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.hapticfeedback.HapticFeedbackType
 import androidx.compose.ui.platform.LocalHapticFeedback
+import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.Role
+import androidx.compose.ui.semantics.semantics
+import androidx.compose.ui.semantics.selected
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
@@ -152,8 +162,11 @@ import androidx.compose.ui.layout.positionInRoot
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavType
+import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
+import androidx.navigation.compose.currentBackStackEntryAsState
+import androidx.navigation.navigation
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
@@ -255,6 +268,26 @@ fun AppRoot(
   ) {
     val nav = rememberNavController()
     val scope = rememberCoroutineScope()
+    val currentEntry by nav.currentBackStackEntryAsState()
+    val tabRoutes = listOf(Dest.Home.route, "tab_read", "tab_study", "tab_calendar")
+    val currentTab = currentEntry?.destination?.hierarchy
+      ?.firstOrNull { it.route in tabRoutes }?.route
+    val selectTab: (String) -> Unit = { route ->
+      if (currentTab != route) nav.navigate(route) {
+        popUpTo(Dest.Home.route) { saveState = true }
+        launchSingleTop = true
+        restoreState = true
+      }
+    }
+    val continueReading: () -> Unit = {
+      val col = prefs.lastReadCollection
+      val bookId = prefs.lastReadBookId
+      if (col != null && bookId != null) {
+        nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId,
+          sourceLang = prefs.lastReadSourceLanguage ?: "en",
+          sourceEdition = prefs.lastReadSourceEdition)) { launchSingleTop = true }
+      }
+    }
     val navBack: () -> Unit = {
       if (!nav.popBackStack()) nav.navigate(Dest.Home.route) {
         popUpTo(Dest.Home.route) { inclusive = true }
@@ -321,12 +354,27 @@ fun AppRoot(
       LocalInternalNavigate provides internalNavigate,
       LocalEditionNavigate provides editionNavigate
     ) {
-    Box(
+    BoxWithConstraints(
       Modifier
         .fillMaxSize()
         .windowInsetsPadding(WindowInsets.safeDrawing)
     ) {
-      NavHost(navController = nav, startDestination = Dest.Home.route) {
+      val useNavigationRail = maxWidth >= 840.dp
+      Row(Modifier.fillMaxSize()) {
+      if (useNavigationRail && currentTab != null) {
+        AppMainNavigation(selectedRoute = currentTab, onSelect = selectTab, rail = true)
+      }
+      Scaffold(
+        modifier = Modifier.weight(1f),
+        contentWindowInsets = WindowInsets(0, 0, 0, 0),
+        bottomBar = {
+          if (!useNavigationRail && currentTab != null) {
+            AppMainNavigation(selectedRoute = currentTab, onSelect = selectTab, rail = false)
+          }
+        }
+      ) { rootPadding ->
+      NavHost(navController = nav, startDestination = Dest.Home.route,
+        modifier = Modifier.padding(rootPadding)) {
         composable(Dest.Home.route) {
           HomeScreen(
             prefs = prefs,
@@ -392,6 +440,18 @@ fun AppRoot(
               )) { launchSingleTop = true }
             }
           )
+        }
+        navigation(startDestination = Dest.Study.route, route = "tab_study") {
+        composable(Dest.Study.route) {
+          StudyScreen(prefs = prefs, onNavigate = { destination ->
+            nav.navigate(destination.route) { launchSingleTop = true }
+          })
+        }
+        composable(Dest.AboutCalendars.route) {
+          StudyCalendarDetailScreen(StudyCalendarDetail.ABOUT, prefs, onBack = navBack)
+        }
+        composable(Dest.OrdainedFeasts.route) {
+          StudyCalendarDetailScreen(StudyCalendarDetail.APPOINTED, prefs, onBack = navBack)
         }
         composable(Dest.TranslationNotes.route) {
           GenericNotesScreen(Res.string.translation_notes, "translation_notes.md", prefs, repo, collapsible = true) { navBack() }
@@ -468,9 +528,6 @@ fun AppRoot(
             }
           )
         }
-        composable(Dest.FeastCalendar.route) {
-          FeastCalendarScreen(prefs = prefs, repo = repo, onBack = { navBack() })
-        }
         composable(Dest.TorahFeastsAndGentiles.route) {
           GenericNotesScreen(
             Res.string.torah_feasts_and_gentiles,
@@ -533,11 +590,25 @@ fun AppRoot(
             collapsible = true
           ) { navBack() }
         }
+        }
+        navigation(startDestination = Dest.FeastCalendar.route, route = "tab_calendar") {
+          composable(Dest.FeastCalendar.route) {
+            FeastCalendarScreen(prefs = prefs, repo = repo, onBack = { navBack() })
+          }
+        }
+        navigation(startDestination = Dest.Read.route, route = "tab_read") {
+        composable(Dest.Read.route) {
+          ReadLibraryScreen(prefs = prefs,
+            onOpenCollection = { col -> nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
+            onContinue = continueReading)
+        }
         composable("books/{col}") { back ->
           val col = back.arguments?.getString("col") ?: "old_testament"
           BooksScreen(
             col = col,
             appLanguage = prefs.appLanguage,
+            currentBookId = prefs.lastReadBookId.takeIf { prefs.lastReadCollection == col },
+            internalBibleVersion = prefs.internalBibleVersion,
             onBack = { navBack() },
             onOpenBook = { bookId ->
               nav.navigate(Dest.BookView.route(col, bookId)) { launchSingleTop = true }
@@ -593,6 +664,7 @@ fun AppRoot(
             initialVerseEnd = verseEndArg.takeIf { keepLinkedVerse },
             linkedEditionUnavailable = linkedEditionUnavailable,
             autoStartTts = autoStartTtsArg,
+            onChooseBook = { nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
             onNavigateToBook = { nextCol, nextBookId, startTts ->
               nav.navigate(Dest.BookView.route(
                 nextCol, nextBookId, autoStartTts = startTts,
@@ -605,7 +677,10 @@ fun AppRoot(
           ) { navBack() }
           }
         }
+        }
       }
+      }
+    }
     }
     }
   }
@@ -759,7 +834,10 @@ private fun AutoSizeOneLineText(
   )
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(
+  ExperimentalMaterial3Api::class,
+  androidx.compose.foundation.layout.ExperimentalLayoutApi::class
+)
 @Composable
 fun HomeScreen(
   prefs: PrefsState,
@@ -809,7 +887,7 @@ fun HomeScreen(
   var query by remember { mutableStateOf("") }
   var results by remember { mutableStateOf<List<SearchHit>>(emptyList()) }
   var showSheet by remember { mutableStateOf(false) }
-  var studyExpanded by remember(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
+  var studyExpanded by rememberSaveable(prefs.studyPinned) { mutableStateOf(prefs.studyPinned) }
   var searchJob by remember { mutableStateOf<Job?>(null) }
   var searchInFlight by remember { mutableStateOf(false) }
   var searchGen by remember { mutableStateOf(0) }
@@ -901,6 +979,7 @@ fun HomeScreen(
       val votdDismissed = prefs.votdDismissedDate == todayDate
       val lastCol = prefs.lastReadCollection
       val lastBook = prefs.lastReadBookId
+      val readingResume = rememberReadingResume(prefs)
       val bookmarks by repo.bookmarksFlow.collectAsState(initial = emptyList())
       val savedVerses by repo.savedVersesFlow.collectAsState(initial = emptyList())
       val hasExtras = prefs.showPseudepigrapha || prefs.showDeutero || prefs.showApoc
@@ -1042,6 +1121,14 @@ fun HomeScreen(
             .onFocusChanged { if (it.isFocused) prewarmSearch() },
           placeholder = { Text(stringResource(Res.string.search_placeholder)) },
           singleLine = true,
+          shape = RoundedCornerShape(28.dp),
+          colors = TextFieldDefaults.colors(
+            focusedContainerColor = MaterialTheme.colorScheme.surfaceContainerHigh,
+            unfocusedContainerColor = MaterialTheme.colorScheme.surfaceContainerHigh,
+            disabledContainerColor = MaterialTheme.colorScheme.surfaceContainerHigh,
+            focusedIndicatorColor = MaterialTheme.colorScheme.primary,
+            unfocusedIndicatorColor = Color.Transparent
+          ),
           leadingIcon = { Icon(Icons.Filled.Search, contentDescription = null, tint = MaterialTheme.colorScheme.onSurfaceVariant) },
           trailingIcon = {
             if (query.isNotEmpty()) {
@@ -1286,26 +1373,41 @@ fun HomeScreen(
               Spacer(Modifier.width(12.dp))
               Column(Modifier.weight(1f)) {
                 Text(
-                  stringResource(Res.string.continue_reading),
+                  stringResource(Res.string.ui_reading_now),
                   style = MaterialTheme.typography.labelMedium,
                   color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.7f)
                 )
                 Text(
-                  prefs.lastReadBookTitle ?: lastBook,
-                  style = MaterialTheme.typography.titleSmall,
+                  readingResume?.title ?: lastBook,
+                  style = MaterialTheme.typography.titleLarge,
                   color = MaterialTheme.colorScheme.onPrimaryContainer,
                   maxLines = 1,
                   overflow = TextOverflow.Ellipsis
                 )
+                readingResume?.let { resume ->
+                  resume.chapter?.let { chapter ->
+                    Text(
+                      "${stringResource(Res.string.chapters_label)} " + stringResource(
+                        Res.string.ui_chapter_position, chapter, resume.chapterCount
+                      ),
+                      style = MaterialTheme.typography.bodySmall,
+                      color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.75f)
+                    )
+                  }
+                }
               }
+              Icon(
+                Icons.AutoMirrored.Filled.ArrowForward,
+                contentDescription = null,
+                tint = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.7f)
+              )
             }
           }
           }
         }
 
         // Bookmarks & Saved Verses (bookmarks/savedVerses hoisted above LazyColumn)
-        if (bookmarks.isNotEmpty() || savedVerses.isNotEmpty()) {
-          item("saved") {
+        item("saved") {
           ElevatedCard(
             modifier = Modifier.fillMaxWidth().clickable(enabled = !navBusy) {
               safeNav { onSavedItems() }
@@ -1338,7 +1440,6 @@ fun HomeScreen(
                 )
               }
             }
-          }
           }
         }
 
@@ -1425,26 +1526,61 @@ fun HomeScreen(
             }
 
             AnimatedVisibility(visible = studyExpanded) {
-              Column(Modifier.padding(bottom = 8.dp)) {
-                StudyItem(stringResource(Res.string.bible_chronology), !navBusy) { safeNav { onBibleChronology() } }
-                StudyItem(stringResource(Res.string.genealogy), !navBusy) { safeNav { onGenealogy() } }
-                StudyItem(stringResource(Res.string.jesus_divinity), !navBusy) { safeNav { onJesusDivinity() } }
-                StudyItem(stringResource(Res.string.jesus_identity), !navBusy) { safeNav { onJesusIdentity() } }
-                StudyItem(stringResource(Res.string.gospel), !navBusy) { safeNav { onGospel() } }
-                StudyItem(stringResource(Res.string.grace), !navBusy) { safeNav { onGrace() } }
-                StudyItem(stringResource(Res.string.prophecy), !navBusy) { safeNav { onProphecy() } }
-                StudyItem(stringResource(Res.string.feast_calendar), !navBusy) { safeNav { onFeastCalendar() } }
-                StudyItem(stringResource(Res.string.torah_feasts_and_gentiles), !navBusy) { safeNav { onTorahFeastsAndGentiles() } }
-                StudyItem(stringResource(Res.string.christian_symbolism), !navBusy) { safeNav { onChristianSymbolism() } }
-                StudyItem(stringResource(Res.string.unseen_war), !navBusy) { safeNav { onUnseenWar() } }
-                StudyItem(stringResource(Res.string.false_doctrine), !navBusy) { safeNav { onFalseDoctrine() } }
-                StudyItem(stringResource(Res.string.common_distortions), !navBusy) { safeNav { onCommonDistortions() } }
-                StudyItem(stringResource(Res.string.christophanies), !navBusy) { safeNav { onChristophanies() } }
-                StudyItem(stringResource(Res.string.translation_notes), !navBusy) { safeNav { onTranslationNotes() } }
-                StudyItem(stringResource(Res.string.historical_awareness), !navBusy) { safeNav { onHistoricalAwareness() } }
-                StudyItem(stringResource(Res.string.bible_canon), !navBusy) { safeNav { onBibleCanon() } }
-                StudyItem(stringResource(Res.string.faqs), !navBusy) { safeNav { onFaqs() } }
-                StudyItem(stringResource(Res.string.bibliography), !navBusy) { safeNav { onBibliography() } }
+              Column(Modifier.padding(horizontal = 12.dp, vertical = 8.dp)) {
+                HomeStudyGroup(
+                  title = stringResource(Res.string.ui_foundations),
+                  icon = Icons.Filled.AutoAwesome,
+                  enabled = !navBusy,
+                  entries = listOf(
+                    HomeStudyTile(stringResource(Res.string.gospel)) { safeNav { onGospel() } },
+                    HomeStudyTile(stringResource(Res.string.grace)) { safeNav { onGrace() } },
+                    HomeStudyTile(stringResource(Res.string.jesus_divinity)) { safeNav { onJesusDivinity() } },
+                    HomeStudyTile(stringResource(Res.string.jesus_identity)) { safeNav { onJesusIdentity() } },
+                    HomeStudyTile(stringResource(Res.string.christophanies)) { safeNav { onChristophanies() } }
+                  )
+                )
+                HomeStudyGroup(
+                  title = stringResource(Res.string.ui_torah_feasts),
+                  icon = Icons.Filled.CalendarMonth,
+                  enabled = !navBusy,
+                  entries = listOf(
+                    HomeStudyTile(stringResource(Res.string.feast_calendar)) { safeNav { onFeastCalendar() } },
+                    HomeStudyTile(stringResource(Res.string.torah_feasts_and_gentiles)) { safeNav { onTorahFeastsAndGentiles() } }
+                  )
+                )
+                HomeStudyGroup(
+                  title = stringResource(Res.string.prophecy),
+                  icon = Icons.Filled.Star,
+                  enabled = !navBusy,
+                  entries = listOf(
+                    HomeStudyTile(stringResource(Res.string.prophecy)) { safeNav { onProphecy() } }
+                  )
+                )
+                HomeStudyGroup(
+                  title = stringResource(Res.string.ui_discernment),
+                  icon = Icons.Filled.Search,
+                  enabled = !navBusy,
+                  entries = listOf(
+                    HomeStudyTile(stringResource(Res.string.false_doctrine)) { safeNav { onFalseDoctrine() } },
+                    HomeStudyTile(stringResource(Res.string.common_distortions)) { safeNav { onCommonDistortions() } },
+                    HomeStudyTile(stringResource(Res.string.unseen_war)) { safeNav { onUnseenWar() } },
+                    HomeStudyTile(stringResource(Res.string.historical_awareness)) { safeNav { onHistoricalAwareness() } },
+                    HomeStudyTile(stringResource(Res.string.christian_symbolism)) { safeNav { onChristianSymbolism() } }
+                  )
+                )
+                HomeStudyGroup(
+                  title = stringResource(Res.string.ui_reference),
+                  icon = Icons.AutoMirrored.Filled.MenuBook,
+                  enabled = !navBusy,
+                  entries = listOf(
+                    HomeStudyTile(stringResource(Res.string.bible_chronology)) { safeNav { onBibleChronology() } },
+                    HomeStudyTile(stringResource(Res.string.genealogy)) { safeNav { onGenealogy() } },
+                    HomeStudyTile(stringResource(Res.string.translation_notes)) { safeNav { onTranslationNotes() } },
+                    HomeStudyTile(stringResource(Res.string.bible_canon)) { safeNav { onBibleCanon() } },
+                    HomeStudyTile(stringResource(Res.string.bibliography)) { safeNav { onBibliography() } },
+                    HomeStudyTile(stringResource(Res.string.faqs)) { safeNav { onFaqs() } }
+                  )
+                )
               }
             }
           }
@@ -1488,23 +1624,78 @@ private fun SearchSectionHeader(icon: androidx.compose.ui.graphics.vector.ImageV
   }
 }
 
+private data class HomeStudyTile(val text: String, val onClick: () -> Unit)
+
+@OptIn(androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
-private fun StudyItem(text: String, enabled: Boolean, onClick: () -> Unit) {
-  Row(
-    Modifier
-      .fillMaxWidth()
-      .clickable(enabled = enabled, onClick = onClick)
-      .padding(horizontal = 16.dp, vertical = 12.dp),
-    verticalAlignment = Alignment.CenterVertically
+private fun HomeStudyGroup(
+  title: String,
+  icon: androidx.compose.ui.graphics.vector.ImageVector,
+  enabled: Boolean,
+  entries: List<HomeStudyTile>
+) {
+  Text(
+    text = title,
+    style = MaterialTheme.typography.labelSmall,
+    color = MaterialTheme.colorScheme.tertiary,
+    modifier = Modifier.padding(start = 4.dp, top = 12.dp, bottom = 6.dp)
+  )
+  BoxWithConstraints(Modifier.fillMaxWidth()) {
+    val columns = if (maxWidth >= 720.dp) 3 else 2
+    val gap = 10.dp
+    val tileWidth = (maxWidth - gap * (columns - 1)) / columns
+    FlowRow(
+      modifier = Modifier.fillMaxWidth(),
+      maxItemsInEachRow = columns,
+      horizontalArrangement = Arrangement.spacedBy(gap),
+      verticalArrangement = Arrangement.spacedBy(gap)
+    ) {
+      entries.forEach { entry ->
+        StudyItem(
+          text = entry.text,
+          icon = icon,
+          enabled = enabled,
+          modifier = Modifier.width(tileWidth),
+          onClick = entry.onClick
+        )
+      }
+    }
+  }
+}
+
+@Composable
+private fun StudyItem(
+  text: String,
+  icon: androidx.compose.ui.graphics.vector.ImageVector,
+  enabled: Boolean,
+  modifier: Modifier = Modifier,
+  onClick: () -> Unit
+) {
+  Surface(
+    modifier = modifier
+      .heightIn(min = 84.dp)
+      .clickable(enabled = enabled, onClick = onClick),
+    shape = RoundedCornerShape(16.dp),
+    color = MaterialTheme.colorScheme.surfaceContainerLow
   ) {
-    Icon(
-      Icons.Filled.Star,
-      contentDescription = null,
-      modifier = Modifier.size(18.dp),
-      tint = MaterialTheme.colorScheme.primary.copy(alpha = 0.6f)
-    )
-    Spacer(Modifier.width(12.dp))
-    Text(text, style = MaterialTheme.typography.bodyLarge)
+    Column(Modifier.padding(12.dp)) {
+      Box(
+        Modifier
+          .size(36.dp)
+          .clip(CircleShape)
+          .background(MaterialTheme.colorScheme.tertiaryContainer),
+        contentAlignment = Alignment.Center
+      ) {
+        Icon(
+          icon,
+          contentDescription = null,
+          modifier = Modifier.size(20.dp),
+          tint = MaterialTheme.colorScheme.tertiary
+        )
+      }
+      Spacer(Modifier.height(8.dp))
+      Text(text, style = MaterialTheme.typography.labelLarge)
+    }
   }
 }
 
@@ -1612,11 +1803,13 @@ private fun highlightSearchSnippet(
   }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalFoundationApi::class)
 @Composable
 fun BooksScreen(
   col: String,
   appLanguage: String,
+  currentBookId: String? = null,
+  internalBibleVersion: String = BibleEditions.BSB,
   onBack: () -> Unit,
   onOpenBook: (String) -> Unit
 ) {
@@ -1627,6 +1820,7 @@ fun BooksScreen(
   } else {
     remember(col, appLanguage) { ContentRepo.listBooksLocalized(ctx, col, appLanguage) } to emptyList()
   }
+  val sections = remember(col, regularList) { buildLibrarySections(col, regularList) }
 
   Scaffold(
     topBar = {
@@ -1673,56 +1867,148 @@ fun BooksScreen(
         )
       }
     } else {
-      LazyColumn(Modifier.padding(pad)) {
-        items(regularList) { pair: Pair<String, String> ->
-          val (id, title) = pair
-          if (id.isBlank()) {
-            ListItem(
-              headlineContent = {
+      BoxWithConstraints(Modifier.padding(pad).fillMaxSize()) {
+        val columns = if (maxWidth >= 720.dp) 2 else 1
+        LazyColumn(
+          modifier = Modifier.fillMaxSize(),
+          contentPadding = PaddingValues(bottom = 24.dp)
+        ) {
+          sections.forEachIndexed { sectionIndex, section ->
+            section.suppliedHeading?.takeIf { it.isNotBlank() }?.let { heading ->
+              item("supplied-$sectionIndex") {
                 Text(
-                  title,
+                  heading,
                   style = MaterialTheme.typography.bodyMedium,
-                  color = MaterialTheme.colorScheme.onSurfaceVariant
+                  color = MaterialTheme.colorScheme.onSurfaceVariant,
+                  modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 14.dp)
                 )
               }
-            )
-          } else {
-            ListItem(
-              headlineContent = { Text(title) },
-              modifier = Modifier.clickable { onOpenBook(id) }
-            )
+            }
+            section.section?.let { sectionType ->
+              stickyHeader("section-${sectionType.name}") {
+                Surface(color = MaterialTheme.colorScheme.surfaceContainer) {
+                  Text(
+                    librarySectionTitle(sectionType),
+                    style = MaterialTheme.typography.labelSmall,
+                    color = MaterialTheme.colorScheme.tertiary,
+                    modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 10.dp)
+                  )
+                }
+              }
+            }
+            items(
+              items = section.books.chunked(columns),
+              key = { row -> row.joinToString("|") { it.id } }
+            ) { rowBooks ->
+              Row(Modifier.fillMaxWidth()) {
+                rowBooks.forEach { book ->
+                  LibraryBookRow(
+                    collection = col,
+                    book = book,
+                    appLanguage = appLanguage,
+                    internalBibleVersion = internalBibleVersion,
+                    isCurrent = book.id == currentBookId,
+                    onOpenBook = onOpenBook,
+                    modifier = Modifier.weight(1f)
+                  )
+                }
+                repeat(columns - rowBooks.size) { Spacer(Modifier.weight(1f)) }
+              }
+              HorizontalDivider()
+            }
           }
-          HorizontalDivider()
-        }
 
-        if (gnosticList.isNotEmpty()) {
-          item {
-            Spacer(Modifier.height(6.dp))
-            HorizontalDivider(thickness = 1.dp)
-            Box(Modifier.fillMaxWidth().padding(vertical = 10.dp, horizontal = 16.dp)) {
-              Text(
-                stringResource(Res.string.gnostic_heading),
-                style = MaterialTheme.typography.labelLarge,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-              )
+          if (gnosticList.isNotEmpty()) {
+            stickyHeader("gnostic") {
+              Surface(color = MaterialTheme.colorScheme.surfaceContainer) {
+                Text(
+                  stringResource(Res.string.gnostic_heading),
+                  style = MaterialTheme.typography.labelSmall,
+                  color = MaterialTheme.colorScheme.tertiary,
+                  modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 10.dp)
+                )
+              }
             }
-            HorizontalDivider(thickness = 1.dp)
-          }
-          items(gnosticList) { pair: Pair<String, String> ->
-            val (id, title) = pair
-            if (id.isBlank()) {
-              ListItem(headlineContent = {
-                Text(title, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
-              })
-            } else {
-              ListItem(headlineContent = { Text(title) }, modifier = Modifier.clickable { onOpenBook(id) })
+            items(
+              items = gnosticList.filter { it.first.isNotBlank() }.chunked(columns),
+              key = { row -> row.joinToString("|") { it.first } }
+            ) { rowBooks ->
+              Row(Modifier.fillMaxWidth()) {
+                rowBooks.forEach { (id, title) ->
+                  LibraryBookRow(
+                    collection = col,
+                    book = LibraryBookEntry(id, title),
+                    appLanguage = appLanguage,
+                    internalBibleVersion = internalBibleVersion,
+                    isCurrent = id == currentBookId,
+                    onOpenBook = onOpenBook,
+                    modifier = Modifier.weight(1f)
+                  )
+                }
+                repeat(columns - rowBooks.size) { Spacer(Modifier.weight(1f)) }
+              }
+              HorizontalDivider()
             }
-            HorizontalDivider()
           }
         }
       }
     }
   }
+}
+
+@Composable
+private fun librarySectionTitle(section: LibrarySection): String = when (section) {
+  LibrarySection.LAW -> stringResource(Res.string.ui_library_law)
+  LibrarySection.HISTORY -> stringResource(Res.string.ui_library_history)
+  LibrarySection.WISDOM -> stringResource(Res.string.ui_library_wisdom)
+  LibrarySection.MAJOR_PROPHETS -> stringResource(Res.string.ui_library_major_prophets)
+  LibrarySection.MINOR_PROPHETS -> stringResource(Res.string.ui_library_minor_prophets)
+  LibrarySection.GOSPELS -> stringResource(Res.string.ui_library_gospels)
+  LibrarySection.PAUL -> stringResource(Res.string.ui_library_paul)
+  LibrarySection.GENERAL -> stringResource(Res.string.ui_library_general)
+}
+
+@Composable
+private fun LibraryBookRow(
+  collection: String,
+  book: LibraryBookEntry,
+  appLanguage: String,
+  internalBibleVersion: String,
+  isCurrent: Boolean,
+  onOpenBook: (String) -> Unit,
+  modifier: Modifier = Modifier
+) {
+  val ctx = LocalPlatformContext.current
+  val chapterCount = remember(collection, book.id, appLanguage, internalBibleVersion) {
+    ContentRepo.loadBookOrNull(
+      context = ctx,
+      collection = collection,
+      bookId = book.id,
+      appLang = appLanguage,
+      internalBibleVersion = internalBibleVersion
+    )?.let(ChapterLocator::build)?.byChapter?.size
+  }
+  ListItem(
+    headlineContent = { Text(book.title, maxLines = 1, overflow = TextOverflow.Ellipsis) },
+    supportingContent = {
+      if (chapterCount != null) {
+        Text(
+          stringResource(Res.string.chronology_chapters, chapterCount.toString()),
+          color = MaterialTheme.colorScheme.onSurfaceVariant
+        )
+      }
+    },
+    trailingContent = if (isCurrent) {
+      {
+        Text(
+          stringResource(Res.string.ui_reading_now),
+          style = MaterialTheme.typography.labelSmall,
+          color = MaterialTheme.colorScheme.tertiary
+        )
+      }
+    } else null,
+    modifier = modifier.clickable { onOpenBook(book.id) }
+  )
 }
 
 @OptIn(ExperimentalMaterial3Api::class, androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
@@ -1739,6 +2025,7 @@ fun BookScreen(
   initialVerseEnd: Int? = null,
   linkedEditionUnavailable: Boolean = false,
   autoStartTts: Boolean = false,
+  onChooseBook: () -> Unit = {},
   onNavigateToBook: ((col: String, bookId: String, autoStartTts: Boolean) -> Unit)? = null,
   onBack: () -> Unit
 ) {
@@ -1822,8 +2109,15 @@ fun BookScreen(
     autoStartTts
   ) { mutableStateOf(false) }
 
-  // Per-story section visibility overrides (ephemeral; resets on navigation)
-  val sectionOverrides = remember(col, bookId) { mutableStateMapOf<String, Boolean>() }
+  // Tab switching and rotation retain the reader's open study sections.
+  val sectionOverrides = rememberSaveable(col, bookId,
+    saver = androidx.compose.runtime.saveable.mapSaver(
+      save = { state: androidx.compose.runtime.snapshots.SnapshotStateMap<String, Boolean> -> state.toMap() },
+      restore = { saved -> mutableStateMapOf<String, Boolean>().apply {
+        saved.forEach { (key, value) -> this[key] = value as Boolean }
+      } }
+    )
+  ) { mutableStateMapOf<String, Boolean>() }
 
   val nextBook = remember(col, bookId, prefs.appLanguage) {
     val books = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage)
@@ -2039,7 +2333,7 @@ fun BookScreen(
         val story = book.stories.find { it.id == resolvedStoryId }
         if (story != null) {
           val end = initialVerseEnd?.coerceAtLeast(initialVerse) ?: initialVerse
-          val bullets = findBulletsForVerseRange(story.summaryBullets, initialVerse, end)
+          val bullets = findBulletsForVerseRange(story.summaryBullets, initialVerse, end, story.id, bookId)
           if (bullets.isNotEmpty()) {
             goldFadeStoryId = resolvedStoryId
             goldFadeBulletIdxs = bullets
@@ -2120,13 +2414,75 @@ fun BookScreen(
     }
   }
 
-  var showChapters by remember { mutableStateOf(false) }
-  var selectedChapter by remember { mutableStateOf<Int?>(null) }
+  var showChapters by rememberSaveable { mutableStateOf(false) }
+  var showAppearance by rememberSaveable { mutableStateOf(false) }
+  val visibleStoryIndex by remember(book, listState) {
+    derivedStateOf {
+      (listState.firstVisibleItemIndex - if (book?.intro?.isNotBlank() == true) 1 else 0)
+        .coerceAtMost(book?.stories?.lastIndex ?: -1)
+    }
+  }
+  val currentStory = book?.stories?.getOrNull(visibleStoryIndex)
+  val currentChapter = index?.byChapter?.entries?.firstOrNull { it.value == currentStory?.id }?.key
+  val readerBarScroll = TopAppBarDefaults.enterAlwaysScrollBehavior()
+  fun openReaderStory(sid: String, verse: Int? = null) {
+    val story = book?.stories?.firstOrNull { it.id == sid } ?: return
+    expandedStoryIds = expandedStoryIds + sid
+    val targets = verse?.let { findBulletsForVerseRange(story.summaryBullets, it, it, story.id, bookId) }.orEmpty()
+    goldFadeStoryId = sid.takeIf { targets.isNotEmpty() }
+    goldFadeBulletIdxs = targets
+    showChapters = false
+    storyIndex[sid]?.let { item ->
+      scope.launch { listState.scrollToItem(item, (targets.minOrNull()?.times(200)?.plus(150)) ?: 0) }
+    }
+  }
+  if (showAppearance) {
+    ReaderAppearanceSheet(prefs = prefs, repo = repo, onDismiss = { showAppearance = false })
+  }
+  if (showChapters && book != null) {
+    ReaderChapterSheet(book = book, currentStoryId = currentStory?.id,
+      onDismiss = { showChapters = false },
+      onChooseBook = { showChapters = false; onChooseBook() },
+      onIntro = { showChapters = false; scope.launch { listState.scrollToItem(0) } },
+      onOpenStory = { sid, verse -> openReaderStory(sid, verse) })
+  }
 
   Scaffold(
+    modifier = Modifier.nestedScroll(readerBarScroll.nestedScrollConnection),
     snackbarHost = { SnackbarHost(snackbarHostState) },
+    bottomBar = {
+      if (book != null && selectedBullets.isEmpty()) {
+        Surface(color = MaterialTheme.colorScheme.surfaceContainer, tonalElevation = 2.dp) {
+          Row(Modifier.fillMaxWidth().padding(horizontal = 8.dp, vertical = 4.dp),
+            verticalAlignment = Alignment.CenterVertically) {
+            IconButton(enabled = visibleStoryIndex > 0, onClick = {
+              book.stories.getOrNull(visibleStoryIndex - 1)?.let { openReaderStory(it.id) }
+            }) {
+              Icon(Icons.AutoMirrored.Filled.ArrowBack,
+                contentDescription = stringResource(Res.string.ui_previous_chapter))
+            }
+            TextButton(onClick = { showChapters = true }, modifier = Modifier.weight(1f)) {
+              Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                Text(currentStory?.title ?: stringResource(Res.string.intro_section_header),
+                  maxLines = 2, overflow = TextOverflow.Ellipsis, textAlign = TextAlign.Center)
+                if (currentChapter != null) Text(
+                  stringResource(Res.string.ui_chapter_position, currentChapter, index?.byChapter?.size ?: 0),
+                  style = MaterialTheme.typography.labelSmall)
+              }
+            }
+            IconButton(enabled = visibleStoryIndex < book.stories.lastIndex, onClick = {
+              book.stories.getOrNull((visibleStoryIndex + 1).coerceAtLeast(0))?.let { openReaderStory(it.id) }
+            }) {
+              Icon(Icons.AutoMirrored.Filled.ArrowForward,
+                contentDescription = stringResource(Res.string.ui_next_chapter))
+            }
+          }
+        }
+      }
+    },
     topBar = {
       CenterAlignedTopAppBar(
+        scrollBehavior = readerBarScroll,
         title = {
           val titlesMap = remember(col, prefs.appLanguage) {
             ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
@@ -2135,6 +2491,7 @@ fun BookScreen(
             ?: stringResource(Res.string.books_heading_generic)
 
           val canToggle = book != null && index != null
+          val pickerLabel = stringResource(Res.string.ui_chapters)
 
           val pulse = remember { Animatable(1f) }
           var didPulse by remember { mutableStateOf(false) }
@@ -2158,9 +2515,8 @@ fun BookScreen(
             Row(
               Modifier
                 .clip(RoundedCornerShape(16.dp))
-                .clickable(enabled = canToggle) {
+                .clickable(enabled = canToggle, role = Role.Button, onClickLabel = pickerLabel) {
                   showChapters = !showChapters
-                  if (!showChapters) selectedChapter = null
                 }
                 .padding(horizontal = 12.dp, vertical = 6.dp)
                 .alpha(if (didPulse) 1f else pulse.value),
@@ -2198,6 +2554,13 @@ fun BookScreen(
                   .rotate(caretRotation)
               )
             }
+          }
+        },
+        actions = {
+          val appearanceLabel = stringResource(Res.string.ui_reading_appearance)
+          TextButton(onClick = { showAppearance = true },
+            modifier = Modifier.semantics { contentDescription = appearanceLabel }) {
+            Text("Aa", style = MaterialTheme.typography.titleMedium)
           }
         },
         navigationIcon = {
@@ -2275,114 +2638,6 @@ fun BookScreen(
                 onDismiss = { dcBannerDismissed = true }
               )
             }
-            AnimatedVisibility(visible = showChapters && index != null) {
-              val byChapter = (index ?: return@AnimatedVisibility).byChapter
-              val maxChapter = byChapter.keys.maxOrNull() ?: 0
-              val vScroll = rememberScrollState()
-              val selCh = selectedChapter
-
-              Column(
-                modifier = Modifier
-                  .fillMaxWidth()
-                  .heightIn(min = 0.dp, max = 300.dp)
-                  .padding(horizontal = 12.dp, vertical = 8.dp)
-              ) {
-                Row(
-                  verticalAlignment = Alignment.CenterVertically,
-                  modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp)
-                ) {
-                  if (selCh != null) {
-                    IconButton(onClick = { selectedChapter = null }) {
-                      Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = null, modifier = Modifier.size(20.dp))
-                    }
-                  }
-                  Text(
-                    if (selCh != null) stringResource(Res.string.verses_label) else stringResource(Res.string.chapters_label),
-                    style = MaterialTheme.typography.labelLarge,
-                    color = MaterialTheme.colorScheme.primary
-                  )
-                }
-
-                Box(
-                  modifier = Modifier
-                    .fillMaxWidth()
-                    .weight(1f, fill = false)
-                    .verticalScroll(vScroll)
-                ) {
-                  FlowRow(
-                    maxItemsInEachRow = 6,
-                    horizontalArrangement = Arrangement.spacedBy(8.dp),
-                    verticalArrangement = Arrangement.spacedBy(8.dp)
-                  ) {
-                    if (selCh != null) {
-                      val exact = byChapter[selCh]
-                      val fallbackKey = if (exact == null) byChapter.keys.filter { it <= selCh }.maxOrNull() else null
-                      val chStoryId = exact ?: (fallbackKey?.let { byChapter[it] })
-                      val chStory = chStoryId?.let { sid -> book?.stories?.find { it.id == sid } }
-                      val verseNums = versePickerNumbers(chStory?.summaryBullets.orEmpty(), selCh)
-                      for (v in verseNums) {
-                        ElevatedButton(
-                          onClick = {
-                            chStoryId?.let { sid ->
-                              if (sid !in expandedStoryIds) expandedStoryIds = expandedStoryIds + sid
-                              val bullets = findBulletsForVerseRange(chStory?.summaryBullets ?: emptyList(), v, v)
-                              val firstBullet = bullets.minOrNull() ?: 0
-                              val approxOffset = firstBullet * 200 + 150
-                              if (bullets.isNotEmpty()) {
-                                goldFadeStoryId = sid
-                                goldFadeBulletIdxs = bullets
-                              }
-                              showChapters = false
-                              selectedChapter = null
-                              storyIndex[sid]?.let { idx -> scope.launch { listState.scrollToItem(idx, approxOffset) } }
-                            }
-                          },
-                          modifier = Modifier.size(48.dp),
-                          contentPadding = PaddingValues(0.dp),
-                          shape = RoundedCornerShape(8.dp)
-                        ) { Text("$v") }
-                      }
-                    } else if (maxChapter > 0) {
-                      if (book?.intro?.isNotBlank() == true) {
-                        ElevatedButton(
-                          onClick = {
-                            showChapters = false
-                            selectedChapter = null
-                            scope.launch { listState.scrollToItem(0) }
-                          },
-                          modifier = Modifier.size(48.dp),
-                          contentPadding = PaddingValues(0.dp),
-                          shape = RoundedCornerShape(8.dp)
-                        ) { Text(stringResource(Res.string.intro_short)) }
-                      }
-                      // Named front matter (the Sirach prologue) sits between
-                      // the intro and chapter 1, lettered by its first initial.
-                      for (sp in index?.specials.orEmpty()) {
-                        ElevatedButton(
-                          onClick = {
-                            if (sp.storyId !in expandedStoryIds) expandedStoryIds = expandedStoryIds + sp.storyId
-                            showChapters = false
-                            selectedChapter = null
-                            storyIndex[sp.storyId]?.let { idx -> scope.launch { listState.scrollToItem(idx) } }
-                          },
-                          modifier = Modifier.size(48.dp),
-                          contentPadding = PaddingValues(0.dp),
-                          shape = RoundedCornerShape(8.dp)
-                        ) { Text(sp.label.take(1).uppercase()) }
-                      }
-                      for (c in 1..maxChapter) {
-                        ElevatedButton(
-                          onClick = { selectedChapter = c },
-                          modifier = Modifier.size(48.dp),
-                          contentPadding = PaddingValues(0.dp),
-                          shape = RoundedCornerShape(8.dp)
-                        ) { Text("$c") }
-                      }
-                    }
-                  }
-                }
-              }
-            }
 
             if (loadedBook?.coverage == EditionCoverage.FALLBACK || linkedEditionUnavailable) {
               Surface(
@@ -2410,6 +2665,9 @@ fun BookScreen(
               verticalArrangement = Arrangement.spacedBy(24.dp),
               modifier = Modifier
                 .weight(1f)
+                .widthIn(max = 880.dp)
+                .fillMaxWidth()
+                .align(Alignment.CenterHorizontally)
                 .onGloballyPositioned { coords ->
                   viewportTopY = coords.positionInRoot().y
                   viewportHeightPx = coords.size.height
@@ -2588,7 +2846,7 @@ fun BookScreen(
                       )?.second
                     }
                     val appLink = appPassageLink(col, bookId, story.id, effectiveLanguage, activeEditionId,
-                      verseAnchorFromText(story.summaryBullets[idx]))
+                      parseTrailingVerseAnchor(story.summaryBullets[idx], story.id, bookId)?.anchor)
                     val shareText = content.text + "\n\n" + listOfNotNull(url, appLink).joinToString("\n")
                     platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: verseLbl, shareText)
                   },
@@ -2671,7 +2929,7 @@ fun BookScreen(
                     platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, content.text)
                     selectedBullets = emptySet()
                   }) {
-                    Icon(Icons.Filled.ContentCopy, contentDescription = stringResource(Res.string.share))
+                    Icon(Icons.Filled.ContentCopy, contentDescription = stringResource(Res.string.cd_copy))
                   }
                   // Share
                   IconButton(onClick = {
@@ -2685,7 +2943,8 @@ fun BookScreen(
                     val firstStory = book.stories.firstOrNull { story -> selectedBullets.any { it.first == story.id } }
                     val anchors = book.stories.flatMap { story ->
                       story.summaryBullets.mapIndexedNotNull { index, bullet ->
-                        verseAnchorFromText(bullet).takeIf { (story.id to index) in selectedBullets }
+                        parseTrailingVerseAnchor(bullet, story.id, bookId)?.anchor
+                          .takeIf { (story.id to index) in selectedBullets }
                       }
                     }
                     val appLink = appPassageLink(col, bookId, firstStory?.id, effectiveLanguage, activeEditionId,
@@ -3122,6 +3381,8 @@ fun StoryCard(
 
   Card(
     modifier = modifier.fillMaxWidth(),
+    colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+    shape = RoundedCornerShape(20.dp),
     border = if (isTtsPlaying || isTtsPaused) BorderStroke(2.dp, MaterialTheme.colorScheme.primary) else null
   ) {
     Column(Modifier.animateContentSize()) {
@@ -3133,9 +3394,7 @@ fun StoryCard(
         SelectionContainer(Modifier.weight(1f)) {
           Text(
             story.title,
-            style = MaterialTheme.typography.titleMedium,
-            maxLines = 3,
-            overflow = TextOverflow.Ellipsis
+            style = displayTitleTextStyle(prefs, MaterialTheme.typography.headlineSmall)
           )
         }
         if (onToggleBookmark != null) {
@@ -3199,130 +3458,28 @@ fun StoryCard(
         if (hasCollapsibleContent) {
           AnimatedVisibility(visible = expanded) {
             Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-              // Summary bullets — tappable for verse selection
-              if (story.summaryBullets.isNotEmpty()) {
-                Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
-                  val firstGoldIdx = goldFadeBulletIdxs.minOrNull()
-                  val vpHeightState = rememberUpdatedState(viewportHeightPx)
-                  val vpTopState = rememberUpdatedState(viewportTopY)
-                  // Edition-owned lookup: native verse-unit start -> heading text.
-                  // Placement is explicit in the loaded book; the renderer never
-                  // guesses from heading order or another edition's coordinates.
-                  val headingsByVerse: Map<Int, String> = remember(story.headings) {
-                    story.headings.associate { it.beforeVerse to it.text }
-                  }
-                  // Psalm superscription renders as an italic preface above the
-                  // verses, distinct from numbered verse text so it does not
-                  // bleed into verse 1.
-                  if (story.superscription.isNotBlank()) {
-                    Text(
-                      highlightSearchSnippet(story.superscription, "", prefs, col),
-                      style = MaterialTheme.typography.bodyMedium,
-                      fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
-                      color = MaterialTheme.colorScheme.onSurfaceVariant,
-                      modifier = Modifier.padding(start = 4.dp, end = 4.dp, bottom = 6.dp)
-                    )
-                  }
-                  story.summaryBullets.forEachIndexed { idx, bullet ->
-                    val headingForThisBullet: String? = if (headingsByVerse.isEmpty()) null else {
-                      // The verse marker is the trailing "(ch:v)" on every bullet. Some
-                      // localized texts (Hindi) carry cross-references inside the verse,
-                      // so the first "d:d" match is not always the marker; the last is.
-                      val m = verseRefPattern.findAll(bullet).lastOrNull()
-                      val v = m?.groupValues?.get(2)?.toIntOrNull()
-                      if (v != null) headingsByVerse[v] else null
-                    }
-                    if (headingForThisBullet != null) {
-                      Text(
-                        highlightSearchSnippet(headingForThisBullet, "", prefs, col),
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.SemiBold,
-                        color = MaterialTheme.colorScheme.onSurface,
-                        modifier = Modifier.padding(top = 12.dp, bottom = 4.dp)
-                      )
-                    }
-                    val isSelected = idx in selectedBullets
-                    val highlightColor = savedVerseColors[idx]
-                    val isGoldTarget = idx in goldFadeBulletIdxs
-                    val isScrollAnchor = isGoldTarget && idx == firstGoldIdx
-                    val goldAlpha = remember { Animatable(0f) }
-                    var bulletRootY by remember { mutableStateOf<Float?>(null) }
-                    LaunchedEffect(isGoldTarget, isScrollAnchor) {
-                      if (isGoldTarget) {
-                        if (isScrollAnchor && listState != null) {
-                          // Wait for expand animation + lazy composition so the bullet's
-                          // on-screen position is final, then teleport (no animation) to it.
-                          delay(160)
-                          val vp = vpHeightState.value
-                          val top = vpTopState.value
-                          val by0 = bulletRootY
-                          if (vp > 0 && by0 != null) {
-                            val bulletInVp = by0 - top
-                            val targetInVp = vp * 0.22f
-                            val delta = bulletInVp - targetInVp
-                            if (kotlin.math.abs(delta) > 2f) {
-                              runCatching { listState.scrollBy(delta) }
-                            }
-                          }
-                        }
-                        // Brief beat so the user's eye lands on the row before the fade plays.
-                        delay(80)
-                        goldAlpha.snapTo(1f)
-                        goldAlpha.animateTo(
-                          0f,
-                          animationSpec = tween(durationMillis = 2200, easing = LinearEasing)
-                        )
-                      } else {
-                        goldAlpha.snapTo(0f)
-                      }
-                    }
-                    val bgColor = when {
-                      isSelected -> MaterialTheme.colorScheme.primaryContainer
-                      goldAlpha.value > 0f -> Color(0xFFFFB300).copy(alpha = goldAlpha.value * 0.38f)
-                      else -> highlightBgColor(highlightColor)
-                    }
-                    Row(
-                      verticalAlignment = Alignment.Top,
-                      modifier = Modifier
-                        .onGloballyPositioned { coords ->
-                          bulletRootY = coords.positionInRoot().y
-                        }
-                        .clip(RoundedCornerShape(4.dp))
-                        .background(bgColor)
-                        .then(
-                          if (onCopyBullet != null) Modifier.pointerInput(idx) {
-                            awaitEachGesture {
-                              awaitFirstDown(requireUnconsumed = false)
-                              try {
-                                withTimeout(500L) { waitForUpOrCancellation() }
-                              } catch (_: PointerEventTimeoutCancellationException) {
-                                onCopyBullet(idx)
-                              }
-                            }
-                          } else Modifier
-                        )
-                        .padding(vertical = 6.dp, horizontal = 4.dp)
-                    ) {
-                      Text(
-                        "\u2022 ",
-                        style = MaterialTheme.typography.bodyMedium,
-                        modifier = if (onToggleBullet != null)
-                          Modifier.clickable { onToggleBullet(idx) }
-                        else Modifier
-                      )
-                      ScriptureRefs.ClickableRefsText(
-                        text = bullet,
-                        collection = col,
-                        prefs = prefs,
-                        referenceEditionId = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion),
-                        defaultBook = defaultBook,
-                        allowRelativeInParensOnly = true,
-                        modifier = Modifier.weight(1f),
-                        onNonLinkClick = if (onToggleBullet != null) {{ onToggleBullet(idx) }} else null
-                      )
-                    }
-                  }
-                }
+              ReaderScripture(
+                story = story,
+                col = col,
+                prefs = prefs,
+                defaultBook = defaultBook,
+                selectedBullets = selectedBullets,
+                savedVerseColors = savedVerseColors,
+                goldFadeBulletIdxs = goldFadeBulletIdxs,
+                onToggleBullet = onToggleBullet,
+                onCopyBullet = onCopyBullet,
+                listState = listState,
+                viewportTopY = viewportTopY,
+                viewportHeightPx = viewportHeightPx
+              )
+              if (story.keyTakeaway.isNotBlank() || story.crossRefs.isNotEmpty() ||
+                story.manuscriptVariants.isNotEmpty() || story.translationNotes.isNotEmpty()) {
+                Spacer(Modifier.height(12.dp))
+                Text(
+                  stringResource(Res.string.ui_nav_study),
+                  style = MaterialTheme.typography.titleSmall,
+                  color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
               }
 
               // Key takeaway (collapsible + TTS)
@@ -3603,8 +3760,6 @@ fun StoryCard(
 }
 
 
-private val verseRefPattern = Regex("""(\d+):(\d+)(?:\s*-\s*(\d+))?""")
-
 private fun mapSavedVersesToCurrentBook(
   book: Book,
   savedVerses: List<SavedVerse>,
@@ -3623,7 +3778,7 @@ private fun mapSavedVersesToCurrentBook(
     .mapValues { (storyId, savedForStory) ->
       val story = stories[storyId]
       val currentAnchors = story?.summaryBullets.orEmpty().mapIndexedNotNull { index, bullet ->
-        verseAnchorFromText(bullet)?.let { index to it }
+        parseTrailingVerseAnchor(bullet, storyId, bookId)?.anchor?.let { index to it }
       }
       buildMap {
         for (saved in savedForStory) {
@@ -3653,7 +3808,7 @@ private fun makeSavedVerse(
   sourceLanguage: String,
   highlightColor: String? = null
 ): SavedVerse {
-  val anchor = verseAnchorFromText(bulletText)
+  val anchor = parseTrailingVerseAnchor(bulletText, story.id, bookId)?.anchor
   return SavedVerse(
     collection = collection,
     bookId = bookId,
@@ -3706,16 +3861,16 @@ private fun wrapVotdQuotes(text: String): String {
   }
 }
 
-internal fun findBulletsForVerseRange(bullets: List<String>, startVerse: Int, endVerse: Int): Set<Int> {
+internal fun findBulletsForVerseRange(
+  bullets: List<String>, startVerse: Int, endVerse: Int,
+  storyId: String? = null, bookId: String? = null
+): Set<Int> {
   val out = linkedSetOf<Int>()
   for ((idx, bullet) in bullets.withIndex()) {
-    for (match in verseRefPattern.findAll(bullet)) {
-      val s = match.groupValues[2].toIntOrNull() ?: continue
-      val e = match.groupValues[3].toIntOrNull() ?: s
-      if (s <= endVerse && e >= startVerse) {
-        out += idx
-        break
-      }
+    // Inline cross-references are not the identity of this verse.
+    val anchor = parseTrailingVerseAnchor(bullet, storyId, bookId)?.anchor ?: continue
+    if (anchor.verseStart <= endVerse && anchor.verseEnd >= startVerse) {
+      out += idx
     }
   }
   return out
@@ -3740,7 +3895,7 @@ internal fun buildSelectedContent(book: Book, selected: Set<Pair<String, Int>>):
     val story = book.stories.find { it.id == storyId } ?: continue
 
     val anchors = indices.mapNotNull { idx ->
-      story.summaryBullets.getOrNull(idx)?.let(::verseAnchorFromText)
+      story.summaryBullets.getOrNull(idx)?.let { parseTrailingVerseAnchor(it, story.id, book.id)?.anchor }
     }
     val chapterRef = story.refs.firstOrNull()
     val bookName = chapterRef?.replace(chapterRefTail, "")
@@ -4599,12 +4754,12 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         "dark" -> "dark"
         else -> "system"
       }
-      Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+      FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
         themeOptions.forEach { (key, label) ->
           FilterChip(
             selected = selectedThemeKey == key,
             onClick = { scope.launch { repo.setTheme(key) } },
-            label = { Text(label, maxLines = 1, overflow = TextOverflow.Ellipsis) }
+            label = { Text(label) }
           )
         }
       }
@@ -4638,12 +4793,13 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         verticalArrangement = Arrangement.spacedBy(8.dp)
       ) {
         presets.forEach { (preset, label) ->
-          val swatch = if (preset == ThemePreset.Custom) customThemeSwatch(prefs.customThemeHue, previewDark)
-                       else swatchFor(preset, previewDark)
+          val previewScheme = if (preset == ThemePreset.Dynamic) {
+            platformDynamicColorScheme(previewDark) ?: colorSchemeFor(preset, previewDark, prefs.customThemeHue)
+          } else colorSchemeFor(preset, previewDark, prefs.customThemeHue)
           ThemeSwatchChip(
             label = label,
-            swatch = swatch,
-            selected = selectedPreset == preset,
+            scheme = previewScheme,
+            isSelected = selectedPreset == preset,
             onClick = { scope.launch { repo.setThemePreset(preset.key) } }
           )
         }
@@ -4739,6 +4895,39 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         style = MaterialTheme.typography.labelSmall,
         color = MaterialTheme.colorScheme.onSurfaceVariant
       )
+
+      Spacer(Modifier.height(4.dp))
+
+      // Scripture line spacing
+      Text(stringResource(Res.string.ui_line_spacing), style = MaterialTheme.typography.titleSmall)
+      var lineSpacing by remember(prefs.readingLineSpacing) {
+        mutableStateOf(prefs.readingLineSpacing)
+      }
+      Slider(
+        value = lineSpacing,
+        onValueChange = { value ->
+          val snapped = kotlin.math.round(value * 20f) / 20f
+          lineSpacing = snapped
+          scope.launch { repo.setReadingLineSpacing(snapped) }
+        },
+        valueRange = 1.3f..2.1f,
+        modifier = Modifier.fillMaxWidth()
+      )
+
+      Row(
+        modifier = Modifier.fillMaxWidth(),
+        verticalAlignment = Alignment.CenterVertically
+      ) {
+        Text(
+          stringResource(Res.string.ui_verse_per_line),
+          style = MaterialTheme.typography.titleSmall,
+          modifier = Modifier.weight(1f)
+        )
+        Switch(
+          checked = prefs.versePerLine,
+          onCheckedChange = { enabled -> scope.launch { repo.setVersePerLine(enabled) } }
+        )
+      }
 
       Spacer(Modifier.height(4.dp))
 
@@ -5312,25 +5501,25 @@ private fun SettingsSwitch(label: String, checked: Boolean, onCheckedChange: (Bo
 }
 
 /**
- * A theme preset chip: shows three stacked color swatches (primary + tertiary + surface)
- * above the preset name. The whole chip is clickable and outlined when selected.
+ * A miniature native-page preview using the same color scheme as the app.
+ * All visual marks are decoration, not sample Scripture or progress data.
  */
 @Composable
 private fun ThemeSwatchChip(
   label: String,
-  swatch: ThemeSwatch,
-  selected: Boolean,
+  scheme: androidx.compose.material3.ColorScheme,
+  isSelected: Boolean,
   onClick: () -> Unit
 ) {
-  val borderColor = if (selected) MaterialTheme.colorScheme.primary
+  val borderColor = if (isSelected) MaterialTheme.colorScheme.primary
                     else MaterialTheme.colorScheme.outlineVariant
-  val borderWidth = if (selected) 2.dp else 1.dp
+  val borderWidth = if (isSelected) 2.dp else 1.dp
   Surface(
     onClick = onClick,
     shape = RoundedCornerShape(14.dp),
-    tonalElevation = if (selected) 2.dp else 0.dp,
+    tonalElevation = if (isSelected) 2.dp else 0.dp,
     border = BorderStroke(borderWidth, borderColor),
-    modifier = Modifier.width(108.dp)
+    modifier = Modifier.width(136.dp).semantics { selected = isSelected }
   ) {
     Column(
       Modifier.padding(horizontal = 10.dp, vertical = 10.dp),
@@ -5340,21 +5529,26 @@ private fun ThemeSwatchChip(
       Box(
         Modifier
           .fillMaxWidth()
-          .height(36.dp)
+          .height(82.dp)
           .clip(RoundedCornerShape(8.dp))
-          .background(swatch.surface)
+          .background(scheme.surface)
       ) {
-        Row(Modifier.align(Alignment.BottomStart).padding(6.dp), horizontalArrangement = Arrangement.spacedBy(4.dp)) {
-          Box(Modifier.size(14.dp).clip(CircleShape).background(swatch.primary))
-          Box(Modifier.size(14.dp).clip(CircleShape).background(swatch.secondary))
+        Column(Modifier.fillMaxSize().padding(8.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+          Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+            Box(Modifier.size(12.dp).clip(CircleShape).background(scheme.primary))
+            Spacer(Modifier.width(6.dp))
+            Box(Modifier.weight(1f).height(5.dp).background(scheme.onSurface.copy(alpha = 0.65f), RoundedCornerShape(3.dp)))
+          }
+          Box(Modifier.fillMaxWidth().height(22.dp).background(scheme.primaryContainer, RoundedCornerShape(6.dp)))
+          Box(Modifier.fillMaxWidth(0.9f).height(4.dp).background(scheme.onSurface.copy(alpha = 0.45f), RoundedCornerShape(2.dp)))
+          Box(Modifier.fillMaxWidth(0.7f).height(4.dp).background(scheme.onSurface.copy(alpha = 0.3f), RoundedCornerShape(2.dp)))
         }
       }
       Text(
         label,
         style = MaterialTheme.typography.labelMedium,
-        maxLines = 1,
-        overflow = TextOverflow.Ellipsis,
-        color = if (selected) MaterialTheme.colorScheme.primary
+        textAlign = TextAlign.Center,
+        color = if (isSelected) MaterialTheme.colorScheme.primary
                 else MaterialTheme.colorScheme.onSurface
       )
     }

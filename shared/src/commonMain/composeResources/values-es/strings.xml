@@ -382,4 +382,34 @@
     <string name="daily_notification_ios_window">iOS programa versículos para un máximo de 60 días. Abre la aplicación regularmente para renovarlos.</string>
     <string name="daily_notification_permission_denied">Las notificaciones están bloqueadas. Permítelas en los ajustes del dispositivo y vuelve a activar esta opción.</string>
     <string name="daily_notification_system_settings">Ajustes de notificaciones del dispositivo</string>
+    <!-- Navegacion principal y lector -->
+    <string name="ui_nav_home">Inicio</string>
+    <string name="ui_nav_read">Leer</string>
+    <string name="ui_nav_study">Estudiar</string>
+    <string name="ui_nav_calendar">Calendario</string>
+    <string name="ui_reading_appearance">Apariencia de lectura</string>
+    <string name="ui_line_spacing">Interlineado</string>
+    <string name="ui_verse_per_line">Un versículo por línea</string>
+    <string name="ui_chapters">Capítulos</string>
+    <string name="ui_verses">Versículos</string>
+    <string name="ui_choose_book">Elegir un libro</string>
+    <string name="ui_previous_chapter">Capítulo anterior</string>
+    <string name="ui_next_chapter">Capítulo siguiente</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">Fundamentos</string>
+    <string name="ui_torah_feasts">Torá y fiestas</string>
+    <string name="ui_discernment">Discernimiento</string>
+    <string name="ui_reference">Referencia</string>
+    <string name="ui_library_law">Ley</string>
+    <string name="ui_library_history">Historia</string>
+    <string name="ui_library_wisdom">Sabiduría</string>
+    <string name="ui_library_major_prophets">Profetas mayores</string>
+    <string name="ui_library_minor_prophets">Profetas menores</string>
+    <string name="ui_library_gospels">Evangelios</string>
+    <string name="ui_library_paul">Pablo</string>
+    <string name="ui_library_general">Epístolas generales</string>
+    <string name="ui_current_feasts">Fiestas actuales</string>
+    <string name="ui_next_feast">Próxima fiesta</string>
+    <string name="ui_calendar_basis">Base del calendario</string>
+    <string name="ui_reading_now">Leyendo ahora</string>
 </resources>

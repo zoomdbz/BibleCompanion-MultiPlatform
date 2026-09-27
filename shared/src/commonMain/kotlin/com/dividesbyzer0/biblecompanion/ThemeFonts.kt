@@ -5,6 +5,7 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.sp
 import com.dividesbyzer0.biblecompanion.platform.platformGetDefaultLocaleLanguage
 import com.dividesbyzer0.biblecompanion.platform.platformGetDefaultLocaleScript
@@ -86,6 +87,36 @@ fun serifFontForLanguage(langTag: String): FontFamily {
         else -> MerriweatherFamily
     }
 }
+
+private const val SCRIPTURE_BASE_SIZE_SP = 17f
+
+internal fun scriptureFontSize(scale: Float): TextUnit = (SCRIPTURE_BASE_SIZE_SP * scale).sp
+
+internal fun scriptureLineHeight(scale: Float, lineSpacing: Float): TextUnit =
+    (SCRIPTURE_BASE_SIZE_SP * scale * lineSpacing).sp
+
+/**
+ * Reading style shared by every Scripture surface. Sans mode uses the platform's
+ * script-aware default family; serif mode selects the matching bundled Noto or
+ * Merriweather family.
+ */
+@androidx.compose.runtime.Composable
+fun scriptureTextStyle(prefs: PrefsState): TextStyle = TextStyle(
+    fontFamily = if (prefs.fontMode.equals("serif", ignoreCase = true)) {
+        serifFontForLanguage(prefs.appLanguage)
+    } else {
+        FontFamily.Default
+    },
+    fontSize = scriptureFontSize(prefs.textSizeScale),
+    lineHeight = scriptureLineHeight(prefs.textSizeScale, prefs.readingLineSpacing)
+)
+
+/** Applies the bundled script-aware display family without discarding caller styling. */
+@androidx.compose.runtime.Composable
+fun displayTitleTextStyle(
+    prefs: PrefsState,
+    baseStyle: TextStyle = TextStyle.Default
+): TextStyle = baseStyle.copy(fontFamily = serifFontForLanguage(prefs.appLanguage))
 
 private fun TextStyle.scaled(factor: Float): TextStyle =
     copy(fontSize = fontSize * factor, lineHeight = lineHeight * factor)

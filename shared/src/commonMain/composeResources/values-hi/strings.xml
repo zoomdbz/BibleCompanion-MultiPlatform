@@ -381,4 +381,34 @@
     <string name="daily_notification_ios_window">iOS में अधिकतम 60 दिनों के पदों की सूचनाएँ तय होती हैं। सूची को नया करने के लिए ऐप नियमित रूप से खोलें।</string>
     <string name="daily_notification_permission_denied">सूचनाएँ बंद हैं। डिवाइस की सेटिंग में अनुमति दें, फिर यह विकल्प चालू करें।</string>
     <string name="daily_notification_system_settings">डिवाइस की सूचना सेटिंग</string>
+    <!-- मुख्य नेविगेशन और पाठक -->
+    <string name="ui_nav_home">होम</string>
+    <string name="ui_nav_read">पढ़ें</string>
+    <string name="ui_nav_study">अध्ययन</string>
+    <string name="ui_nav_calendar">कैलेंडर</string>
+    <string name="ui_reading_appearance">पठन स्वरूप</string>
+    <string name="ui_line_spacing">पंक्ति अंतर</string>
+    <string name="ui_verse_per_line">प्रत्येक पंक्ति में एक पद</string>
+    <string name="ui_chapters">अध्याय</string>
+    <string name="ui_verses">पद</string>
+    <string name="ui_choose_book">पुस्तक चुनें</string>
+    <string name="ui_previous_chapter">पिछला अध्याय</string>
+    <string name="ui_next_chapter">अगला अध्याय</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">आधारभूत शिक्षाएँ</string>
+    <string name="ui_torah_feasts">तोराह और पर्व</string>
+    <string name="ui_discernment">विवेक</string>
+    <string name="ui_reference">संदर्भ</string>
+    <string name="ui_library_law">व्यवस्था</string>
+    <string name="ui_library_history">इतिहास</string>
+    <string name="ui_library_wisdom">ज्ञान साहित्य</string>
+    <string name="ui_library_major_prophets">बड़े भविष्यद्वक्ता</string>
+    <string name="ui_library_minor_prophets">छोटे भविष्यद्वक्ता</string>
+    <string name="ui_library_gospels">सुसमाचार</string>
+    <string name="ui_library_paul">पौलुस की पत्रियाँ</string>
+    <string name="ui_library_general">सामान्य पत्रियाँ</string>
+    <string name="ui_current_feasts">वर्तमान पर्व</string>
+    <string name="ui_next_feast">अगला पर्व</string>
+    <string name="ui_calendar_basis">कैलेंडर का आधार</string>
+    <string name="ui_reading_now">अभी पढ़ रहे हैं</string>
 </resources>

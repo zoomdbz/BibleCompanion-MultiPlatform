@@ -381,4 +381,34 @@
     <string name="daily_notification_ios_window">iOSでは最大60日分の聖句を予約します。定期的にアプリを開いて予約を更新してください。</string>
     <string name="daily_notification_permission_denied">通知が許可されていません。端末の設定で許可してから、この項目を有効にしてください。</string>
     <string name="daily_notification_system_settings">端末の通知設定</string>
+    <!-- メインナビゲーションと聖書リーダー -->
+    <string name="ui_nav_home">ホーム</string>
+    <string name="ui_nav_read">聖書</string>
+    <string name="ui_nav_study">学び</string>
+    <string name="ui_nav_calendar">カレンダー</string>
+    <string name="ui_reading_appearance">読書表示</string>
+    <string name="ui_line_spacing">行間</string>
+    <string name="ui_verse_per_line">1節ずつ改行</string>
+    <string name="ui_chapters">章</string>
+    <string name="ui_verses">節</string>
+    <string name="ui_choose_book">書巻を選択</string>
+    <string name="ui_previous_chapter">前の章</string>
+    <string name="ui_next_chapter">次の章</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">基礎</string>
+    <string name="ui_torah_feasts">律法と祭り</string>
+    <string name="ui_discernment">識別</string>
+    <string name="ui_reference">資料</string>
+    <string name="ui_library_law">律法書</string>
+    <string name="ui_library_history">歴史書</string>
+    <string name="ui_library_wisdom">知恵文学</string>
+    <string name="ui_library_major_prophets">大預言書</string>
+    <string name="ui_library_minor_prophets">小預言書</string>
+    <string name="ui_library_gospels">福音書</string>
+    <string name="ui_library_paul">パウロ書簡</string>
+    <string name="ui_library_general">公同書簡</string>
+    <string name="ui_current_feasts">現在の祭り</string>
+    <string name="ui_next_feast">次の祭り</string>
+    <string name="ui_calendar_basis">暦の基準</string>
+    <string name="ui_reading_now">読書中</string>
 </resources>

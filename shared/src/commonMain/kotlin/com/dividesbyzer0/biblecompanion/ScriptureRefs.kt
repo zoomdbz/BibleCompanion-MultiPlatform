@@ -12,6 +12,12 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.heightIn
+import androidx.compose.foundation.gestures.detectTapGestures
+import androidx.compose.foundation.focusable
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.text.BasicText
 import androidx.compose.foundation.text.ClickableText
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.MaterialTheme
@@ -20,18 +26,35 @@ import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.graphics.luminance
+import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.input.key.Key
+import androidx.compose.ui.input.key.KeyEventType
+import androidx.compose.ui.input.key.key
+import androidx.compose.ui.input.key.onKeyEvent
+import androidx.compose.ui.input.key.type
+import androidx.compose.ui.layout.onGloballyPositioned
+import androidx.compose.ui.layout.positionInRoot
+import androidx.compose.ui.semantics.CustomAccessibilityAction
+import androidx.compose.ui.semantics.customActions
+import androidx.compose.ui.semantics.onClick
+import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.TextLayoutResult
+import androidx.compose.ui.text.style.BaselineShift
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.em
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.withStyle
 import kotlinx.serialization.Serializable
@@ -659,6 +682,99 @@ private object BookAliases {
   }
 }
 
+private const val READER_PRESENTATION_MARKER = '\uFDD7'
+
+internal fun scriptureUrlTokenEnd(text: String, start: Int): Int {
+  var end = start
+  while (end < text.length) {
+    val char = text[end]
+    if (char.isWhitespace() || char == READER_PRESENTATION_MARKER || char in listOf(')', ']', '}', '<')) break
+    end++
+  }
+  return end
+}
+
+internal data class ReaderTextVerse(
+  val bulletIndex: Int,
+  val label: String?,
+  val text: String
+)
+
+internal fun readerPresentationText(
+  verses: List<ReaderTextVerse>,
+  separator: String
+): String = verses.joinToString(separator) { verse ->
+  val label = verse.label.orEmpty()
+  "$READER_PRESENTATION_MARKER${verse.bulletIndex}:$label$READER_PRESENTATION_MARKER" +
+    verse.text +
+    "$READER_PRESENTATION_MARKER/$READER_PRESENTATION_MARKER"
+}
+
+internal fun applyReaderVerseStyles(
+  parsedText: AnnotatedString,
+  verseStyles: Map<Int, SpanStyle>
+): AnnotatedString {
+  if (verseStyles.isEmpty()) return parsedText
+  return AnnotatedString.Builder().apply {
+    append(parsedText)
+    parsedText.getStringAnnotations("READER_VERSE", 0, parsedText.length).forEach { annotation ->
+      verseStyles[annotation.item.toIntOrNull()]?.let { style ->
+        addStyle(style, annotation.start, annotation.end)
+      }
+    }
+  }.toAnnotatedString()
+}
+
+/** Reader-only behavior layered onto the existing Scripture parser and linker. */
+data class ReaderTextOptions(
+  val verseStyles: Map<Int, SpanStyle> = emptyMap(),
+  val nativeReferenceTails: Map<Int, String> = emptyMap(),
+  val onVerseClick: ((Int) -> Unit)? = null,
+  val onVerseLongClick: ((Int) -> Unit)? = null,
+  val onVersePositioned: ((Int, Float) -> Unit)? = null,
+  val useVerseDialogAccessibility: Boolean = false
+)
+
+internal data class ReaderAccessibleLink(val offset: Int, val label: String)
+
+internal data class ReaderAccessibleVerse(
+  val index: Int,
+  val label: String,
+  val text: String,
+  val links: List<ReaderAccessibleLink>
+)
+
+internal fun readerAccessibleVerses(
+  parsedText: AnnotatedString,
+  nativeReferenceTails: Map<Int, String>
+): List<ReaderAccessibleVerse> =
+  parsedText.getStringAnnotations("READER_VERSE", 0, parsedText.length).mapNotNull { verse ->
+    val index = verse.item.toIntOrNull() ?: return@mapNotNull null
+    val links = listOf("BIBLE_REF", "URL").flatMap { tag ->
+      parsedText.getStringAnnotations(tag, verse.start, verse.end)
+        .filter { link -> link.start >= verse.start && link.end <= verse.end }
+        .map { link ->
+        ReaderAccessibleLink(
+          offset = link.start,
+          label = parsedText.text.substring(link.start, link.end).trim()
+        )
+      }
+    }.distinctBy { it.offset }
+    val nativeLabel = nativeReferenceTails[index]?.substringAfter(':')?.takeIf { it.isNotBlank() }
+    val label = nativeLabel ?: (index + 1).toString()
+    val visibleText = parsedText.text.substring(verse.start, verse.end).trim()
+    ReaderAccessibleVerse(
+      index = index,
+      label = label,
+      text = if (nativeLabel != null) {
+        visibleText.removePrefix(nativeLabel).trimStart('\u00A0', ' ')
+      } else {
+        visibleText
+      },
+      links = links
+    )
+  }
+
 object ScriptureRefs {
 
   private data class BookEntry(
@@ -877,7 +993,8 @@ object ScriptureRefs {
     textStyle: TextStyle = MaterialTheme.typography.bodyMedium,
     onNonLinkClick: (() -> Unit)? = null,
     referenceEditionId: String? = null,
-    referenceLanguage: String? = null
+    referenceLanguage: String? = null,
+    readerOptions: ReaderTextOptions? = null
   ) {
     Internal(
       rawText = text,
@@ -891,7 +1008,8 @@ object ScriptureRefs {
       collection = collection,
       onNonLinkClick = onNonLinkClick,
       referenceEditionId = referenceEditionId,
-      referenceLanguage = referenceLanguage
+      referenceLanguage = referenceLanguage,
+      readerOptions = readerOptions
     )
   }
 
@@ -930,7 +1048,8 @@ object ScriptureRefs {
     defaultBook: String? = null,
     onNonLinkClick: (() -> Unit)? = null,
     referenceEditionId: String? = null,
-    referenceLanguage: String? = null
+    referenceLanguage: String? = null,
+    readerOptions: ReaderTextOptions? = null
   ) {
     val defaultEntry: BookEntry? = books.firstOrNull {
       it.canon.equals(defaultBook, ignoreCase = true) || assetBookId(it) == defaultBook
@@ -942,9 +1061,19 @@ object ScriptureRefs {
     )
     val jesusColor = jesusColorFromPrefs(prefs)
     val dnColor = divineNameColorFromPrefs(prefs)
+    val readerVerseLabelStyle = SpanStyle(
+      baselineShift = BaselineShift.Superscript,
+      fontSize = 0.72.em,
+      color = MaterialTheme.colorScheme.tertiary
+    )
+    val verseActionLabel = stringResource(Res.string.verse_label)
+    val versesActionLabel = stringResource(Res.string.verses_label)
+    val copyActionLabel = stringResource(Res.string.cd_copy)
+    val referenceActionLabel = stringResource(Res.string.ui_reference)
 
     var dialog by remember { mutableStateOf<SwapDialog?>(null) }
     var noReaderDialog by remember { mutableStateOf(false) }
+    var readerVerseDialog by remember(rawText) { mutableStateOf(false) }
     var navGate by remember { mutableStateOf(false) }
     val editionNav = LocalEditionNavigate.current
 
@@ -960,45 +1089,83 @@ object ScriptureRefs {
       else -> false
     }
 
-    val displayText = rawText
-      .replace('\u3000', ' ')
-      .replace('\u00A0', ' ')
-      .replace('\u202F', ' ')
-      .replace('\u2009', ' ')
-      .replace('\u2002', ' ')
-      .replace('\u2003', ' ')
-      .let { applyDivineName(it, prefs.divineName, effectiveLang, prefs.divineNameColor != "default", collection) }
+    val displayText = remember(
+      rawText,
+      prefs.divineName,
+      prefs.divineNameColor,
+      effectiveLang,
+      collection
+    ) {
+      rawText
+        .replace('\u3000', ' ')
+        .replace('\u00A0', ' ')
+        .replace('\u202F', ' ')
+        .replace('\u2009', ' ')
+        .replace('\u2002', ' ')
+        .replace('\u2003', ' ')
+        .let {
+          applyDivineName(
+            it,
+            prefs.divineName,
+            effectiveLang,
+            prefs.divineNameColor != "default",
+            collection
+          )
+        }
+    }
 
     // Normalize only the separate scanner copy. Every replacement stays one code
     // point wide so annotation offsets remain aligned while displayed Scripture
     // retains its original compatibility characters.
-    val scanText = normalizeReferenceScanText(displayText)
+    val scanText = remember(displayText) { normalizeReferenceScanText(displayText) }
 
-    val rawDisplayParts = displayText.split(Regex("[;\uFF1B]"))
-    val rawScanParts = scanText.split(Regex("[;\uFF1B]"))
-    val displayParts = mutableListOf<String>()
-    val scanParts = mutableListOf<String>()
-    run {
+    val (displayParts, scanParts) = remember(displayText, scanText) {
+      val rawDisplayParts = displayText.split(Regex("[;\uFF1B]"))
+      val rawScanParts = scanText.split(Regex("[;\uFF1B]"))
+      val parsedDisplayParts = mutableListOf<String>()
+      val parsedScanParts = mutableListOf<String>()
       var pi = 0
       while (pi < rawScanParts.size) {
         val curS = rawScanParts[pi].trim()
         val nxtS = rawScanParts.getOrNull(pi + 1)?.trim()
         if (curS.matches(Regex("^\\d+$")) && nxtS != null && nxtS.matches(Regex("^\\d+.*$"))) {
-          scanParts += "${curS}:${nxtS}"
-          displayParts += "${rawDisplayParts[pi].trim()}:${rawDisplayParts.getOrNull(pi + 1)?.trim() ?: ""}"
+          parsedScanParts += "${curS}:${nxtS}"
+          parsedDisplayParts += "${rawDisplayParts[pi].trim()}:${rawDisplayParts.getOrNull(pi + 1)?.trim() ?: ""}"
           pi += 2
         } else {
-          scanParts += curS
-          displayParts += rawDisplayParts[pi].trim()
+          parsedScanParts += curS
+          parsedDisplayParts += rawDisplayParts[pi].trim()
           pi += 1
         }
       }
+      parsedDisplayParts to parsedScanParts
     }
 
-    var carry: BookEntry? = defaultEntry
-
-    val asText = buildAnnotatedString {
+    val booksSnapshot = books
+    val nativeReferenceTails = readerOptions?.nativeReferenceTails.orEmpty()
+    val parsedText = remember(
+      displayParts,
+      scanParts,
+      booksSnapshot,
+      defaultEntry,
+      allowRelative,
+      relativeOnlyInParens,
+      inlineMarkdown,
+      linkStyle,
+      jesusColor,
+      dnColor,
+      readerVerseLabelStyle,
+      nativeReferenceTails,
+      prefs.translation,
+      prefs.readerMode,
+      effectiveLang,
+      collection
+    ) {
+      var carry: BookEntry? = defaultEntry
+      buildAnnotatedString {
       val lastIdx = scanParts.lastIndex
+      var activeReaderVerseIndex: Int? = null
+      var activeReaderVerseStart = 0
       var jesusOn = false
       fun toggleJesus() {
         if (jesusOn) pop() else pushStyle(SpanStyle(color = jesusColor))
@@ -1042,6 +1209,63 @@ object ScriptureRefs {
         fun toggleItalic() { if (italicOn) pop() else pushStyle(SpanStyle(fontStyle = FontStyle.Italic)); italicOn = !italicOn }
 
         while (i < part.length) {
+          if (part[i] == READER_PRESENTATION_MARKER) {
+            val markerEnd = part.indexOf(READER_PRESENTATION_MARKER, startIndex = i + 1)
+            if (markerEnd > i) {
+              val marker = part.substring(i + 1, markerEnd)
+              if (marker == "/") {
+                activeReaderVerseIndex?.let { verseIndex ->
+                  val end = length
+                  if (end > activeReaderVerseStart) {
+                    addStringAnnotation(
+                      tag = "READER_VERSE",
+                      annotation = verseIndex.toString(),
+                      start = activeReaderVerseStart,
+                      end = end
+                    )
+                  }
+                }
+                activeReaderVerseIndex = null
+              } else {
+                val separator = marker.indexOf(':')
+                val verseIndex = marker.take(separator.coerceAtLeast(0)).toIntOrNull()
+                val label = if (separator >= 0) marker.substring(separator + 1) else ""
+                if (verseIndex != null) {
+                  activeReaderVerseIndex = verseIndex
+                  activeReaderVerseStart = length
+                  if (label.isNotEmpty()) {
+                    val labelStart = length
+                    withStyle(readerVerseLabelStyle) { append(label) }
+                    val labelEnd = length
+                    val nativeTail = nativeReferenceTails[verseIndex]
+                    val target = defaultEntry ?: carry
+                    if (nativeTail != null && target != null) {
+                      val payload = RefPayload(
+                        collection = target.collection,
+                        canonBook = target.canon,
+                        tail = nativeTail,
+                        translation = prefs.translation,
+                        appLanguage = effectiveLang,
+                        readerMode = prefs.readerMode,
+                        bookId = assetBookId(target)
+                      )
+                      addStringAnnotation(
+                        tag = "BIBLE_REF",
+                        annotation = payload.encode(),
+                        start = labelStart,
+                        end = labelEnd
+                      )
+                      addStyle(linkStyle, labelStart, labelEnd)
+                    }
+                    append('\u00A0')
+                  }
+                }
+              }
+              i = markerEnd + 1
+              continue
+            }
+          }
+
           val urlHit = scanUrlAt(part, i)
           if (urlHit != null) {
             val (end, url, display) = urlHit
@@ -1114,13 +1338,12 @@ object ScriptureRefs {
                 val displayTail = dp.substring(i + consumed, tailEnd).trim()
                 val display = "$matchedBook $displayTail"
 
-                val appLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
                 val payload = RefPayload(
                   collection = entry.collection,
                   canonBook = entry.canon,
                   tail = tail,
                   translation = prefs.translation,
-                  appLanguage = appLang,
+                  appLanguage = effectiveLang,
                   readerMode = prefs.readerMode,
                   bookId = assetBookId(entry)
                 )
@@ -1145,13 +1368,12 @@ object ScriptureRefs {
                   if (relEnd > i) {
                     val display = dp.substring(i, relEnd)
                     val tail = normalizeCjkTail(part.substring(i, relEnd).trim())
-                    val appLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
                     val payload = RefPayload(
                       collection = target.collection,
                       canonBook = target.canon,
                       tail = tail,
                       translation = prefs.translation,
-                      appLanguage = appLang,
+                      appLanguage = effectiveLang,
                       readerMode = prefs.readerMode,
                       bookId = assetBookId(target)
                     )
@@ -1186,6 +1408,32 @@ object ScriptureRefs {
       if (addedWordOn) pop()
       if (dnOn) pop()
       if (jesusOn) pop()
+      }
+    }
+
+    val verseStyles = readerOptions?.verseStyles.orEmpty()
+    val asText = remember(parsedText, verseStyles) {
+      applyReaderVerseStyles(parsedText, verseStyles)
+    }
+    val accessibleVerses = remember(parsedText, nativeReferenceTails) {
+      readerAccessibleVerses(parsedText, nativeReferenceTails)
+    }
+
+    // Background span changes (selection, saved highlight, gold animation) produce
+    // a new AnnotatedString while leaving glyph geometry unchanged. Key layout
+    // state to visible text so those redraws cannot discard scroll coordinates.
+    var textLayoutResult by remember(asText.text) { mutableStateOf<TextLayoutResult?>(null) }
+    var textRootY by remember(asText.text) { mutableStateOf(0f) }
+
+    fun publishReaderVersePositions() {
+      val layout = textLayoutResult ?: return
+      val callback = readerOptions?.onVersePositioned ?: return
+      asText.getStringAnnotations("READER_VERSE", 0, asText.length).forEach { annotation ->
+        val verseIndex = annotation.item.toIntOrNull() ?: return@forEach
+        val safeOffset = annotation.start.coerceIn(0, (asText.length - 1).coerceAtLeast(0))
+        val line = layout.getLineForOffset(safeOffset)
+        callback(verseIndex, textRootY + layout.getLineTop(line))
+      }
     }
 
     // Localized dialog strings
@@ -1249,37 +1497,37 @@ object ScriptureRefs {
       )
     }
 
-    @Suppress("DEPRECATION")
-    ClickableText(
-      text = asText,
-      modifier = modifier,
-      style = textStyle.copy(color = MaterialTheme.colorScheme.onSurface),
-      onClick = { off ->
+    val handleTextClick: (Int) -> Unit = click@{ off ->
         asText.getStringAnnotations("URL", off, off).firstOrNull()?.let { ann ->
-          openUrl(ann.item); return@ClickableText
+          openUrl(ann.item)
+          return@click
         }
 
-        asText.getStringAnnotations("BIBLE_REF", off, off).firstOrNull()?.let { ann ->
-          if (dialog != null || navGate) return@let
+        val reference = asText.getStringAnnotations("BIBLE_REF", off, off).firstOrNull()
+        if (reference != null) {
+          if (dialog != null || navGate) return@click
           navGate = true
 
-          val payload = RefPayload.decode(ann.item) ?: run { navGate = false; return@let }
+          val payload = RefPayload.decode(reference.item) ?: run {
+            navGate = false
+            return@click
+          }
           val fullRef = "${payload.canonBook} ${payload.tail}"
 
           if (fullRef.startsWith("http://") || fullRef.startsWith("https://")) {
-            openUrl(fullRef); navGate = false; return@let
+            openUrl(fullRef); navGate = false; return@click
           }
 
           if (payload.isInternal) {
             editionNav(internalTarget(payload))
             navGate = false
-            return@let
+            return@click
           }
 
           if (payload.collection in setOf("apocrypha", "pseudepigrapha") &&
               !Linker.hasExternalReaderSupport(payload.canonBook)) {
             noReaderDialog = true
-            return@let
+            return@click
           }
 
           val isPsalm151 = payload.canonBook.trim().lowercase().startsWith("psalm") &&
@@ -1294,7 +1542,7 @@ object ScriptureRefs {
           ) ?: run {
             editionNav(internalTarget(payload))
             navGate = false
-            return@let
+            return@click
           }
           val (resolvedVersion, resolvedUrl) = resolved
           val selectedProviderVersion = Linker.selectedVersionForReader(
@@ -1311,19 +1559,207 @@ object ScriptureRefs {
               internalTarget = internalTarget(payload)
             )
             navGate = false
-            return@let
+            return@click
           }
 
           // The verified HTTPS URL is a universal link: YouVersion opens when
           // installed, and the browser remains a reliable fallback otherwise.
           openUrl(resolvedUrl)
           navGate = false
-          return@let
+          return@click
         }
 
+        asText.getStringAnnotations("READER_VERSE", off, off).firstOrNull()?.let { annotation ->
+          val verseIndex = annotation.item.toIntOrNull()
+          if (verseIndex != null && readerOptions?.onVerseClick != null) {
+            readerOptions.onVerseClick.invoke(verseIndex)
+            return@click
+          }
+        }
         onNonLinkClick?.invoke()
+    }
+
+    val renderedStyle = textStyle.copy(color = MaterialTheme.colorScheme.onSurface)
+    val currentVerseClick = rememberUpdatedState(readerOptions?.onVerseClick)
+    val currentLongClick = rememberUpdatedState(readerOptions?.onVerseLongClick)
+    val currentClickHandler = rememberUpdatedState(handleTextClick)
+    val usesVerseDialog = readerOptions?.useVerseDialogAccessibility == true && accessibleVerses.size > 1
+    val readerActions = remember(
+      accessibleVerses,
+      usesVerseDialog,
+      verseActionLabel,
+      copyActionLabel,
+      referenceActionLabel,
+      readerOptions?.onVerseLongClick != null
+    ) {
+      if (usesVerseDialog) {
+        emptyList()
+      } else {
+        buildList {
+          accessibleVerses.singleOrNull()?.let { verse ->
+            if (readerOptions?.onVerseLongClick != null) {
+              add(CustomAccessibilityAction("$copyActionLabel: $verseActionLabel ${verse.label}") {
+                currentLongClick.value?.invoke(verse.index)
+                true
+              })
+            }
+            verse.links.forEach { link ->
+              add(CustomAccessibilityAction("$referenceActionLabel: ${link.label}") {
+                currentClickHandler.value(link.offset)
+                true
+              })
+            }
+          }
+        }
       }
-    )
+    }
+    val primaryVerseIndex = accessibleVerses.singleOrNull()?.index
+    val primaryReaderAction: (() -> Boolean)? = remember(
+      usesVerseDialog,
+      primaryVerseIndex,
+      readerOptions?.onVerseClick != null
+    ) {
+      when {
+        usesVerseDialog -> ({ readerVerseDialog = true; true })
+        primaryVerseIndex != null && readerOptions?.onVerseClick != null -> ({
+          currentVerseClick.value?.invoke(primaryVerseIndex)
+          true
+        })
+        else -> null
+      }
+    }
+    val primaryReaderLabel = if (usesVerseDialog) {
+      versesActionLabel
+    } else {
+      accessibleVerses.singleOrNull()?.let { "$verseActionLabel ${it.label}" }
+    }
+    val keyboardReaderAction: (() -> Boolean)? = remember(accessibleVerses.isNotEmpty()) {
+      if (accessibleVerses.isNotEmpty()) ({ readerVerseDialog = true; true }) else null
+    }
+    val positionedModifier = modifier
+      .then(
+        if (readerActions.isNotEmpty() || primaryReaderAction != null) {
+          Modifier.semantics {
+            customActions = readerActions
+            if (primaryReaderAction != null) {
+              onClick(label = primaryReaderLabel, action = primaryReaderAction)
+            }
+          }
+        } else {
+          Modifier
+        }
+      )
+      .then(
+        if (keyboardReaderAction != null) {
+          Modifier
+            .onKeyEvent { event ->
+              if (
+                event.type == KeyEventType.KeyUp &&
+                (event.key == Key.Enter || event.key == Key.Spacebar)
+              ) {
+                keyboardReaderAction()
+              } else {
+                false
+              }
+            }
+            .focusable()
+        } else {
+          Modifier
+        }
+      )
+      .onGloballyPositioned { coordinates ->
+        textRootY = coordinates.positionInRoot().y
+        publishReaderVersePositions()
+    }
+    val readerLongClick = readerOptions?.onVerseLongClick
+    val currentAnnotatedText = rememberUpdatedState(asText)
+    if (readerVerseDialog) {
+      AlertDialog(
+        onDismissRequest = { readerVerseDialog = false },
+        title = { Text(versesActionLabel) },
+        text = {
+          LazyColumn(
+            modifier = Modifier.fillMaxWidth().heightIn(max = 420.dp)
+          ) {
+            items(accessibleVerses, key = { verse -> verse.index }) { verse ->
+              val verseText = "$verseActionLabel ${verse.label}: ${verse.text}"
+              if (readerOptions?.onVerseClick != null) {
+                TextButton(
+                  onClick = {
+                    currentVerseClick.value?.invoke(verse.index)
+                    readerVerseDialog = false
+                  },
+                  modifier = Modifier.fillMaxWidth()
+                ) { Text(verseText) }
+              } else {
+                Text(verseText)
+              }
+              if (readerOptions?.onVerseLongClick != null) {
+                TextButton(
+                  onClick = { currentLongClick.value?.invoke(verse.index) },
+                  modifier = Modifier.fillMaxWidth()
+                ) { Text("$copyActionLabel: $verseActionLabel ${verse.label}") }
+              }
+              verse.links.forEach { link ->
+                TextButton(
+                  onClick = {
+                    readerVerseDialog = false
+                    currentClickHandler.value(link.offset)
+                  },
+                  modifier = Modifier.fillMaxWidth()
+                ) { Text("$referenceActionLabel: ${link.label}") }
+              }
+              Spacer(Modifier.height(8.dp))
+            }
+          }
+        },
+        confirmButton = {
+          TextButton(onClick = { readerVerseDialog = false }) { Text(actionOk) }
+        }
+      )
+    }
+    if (readerLongClick != null) {
+      BasicText(
+        text = asText,
+        modifier = positionedModifier.pointerInput(asText.text) {
+          detectTapGestures(
+            onTap = { position ->
+              textLayoutResult?.getOffsetForPosition(position)?.let { offset ->
+                currentClickHandler.value(offset)
+              }
+            },
+            onLongPress = { position ->
+              val offset = textLayoutResult?.getOffsetForPosition(position)
+              if (offset != null) {
+                currentAnnotatedText.value
+                  .getStringAnnotations("READER_VERSE", offset, offset)
+                  .firstOrNull()
+                  ?.item
+                  ?.toIntOrNull()
+                  ?.let { verseIndex -> currentLongClick.value?.invoke(verseIndex) }
+              }
+            }
+          )
+        },
+        style = renderedStyle,
+        onTextLayout = { result ->
+          textLayoutResult = result
+          publishReaderVersePositions()
+        }
+      )
+    } else {
+      @Suppress("DEPRECATION")
+      ClickableText(
+        text = asText,
+        modifier = positionedModifier,
+        style = renderedStyle,
+        onTextLayout = { result ->
+          textLayoutResult = result
+          publishReaderVersePositions()
+        },
+        onClick = handleTextClick
+      )
+    }
   }
 
   // ----- scanners -----
@@ -1332,7 +1768,7 @@ object ScriptureRefs {
     when {
       ch == null -> true
       ch.isWhitespace() -> true
-      ch in listOf('(', '[', '{', '\u2022', ',', '\u00B7', '\u2010', '\u2011', '\u2014', '\u2013', '-', '/',
+      ch in listOf(READER_PRESENTATION_MARKER, '(', '[', '{', '\u2022', ',', '\u00B7', '\u2010', '\u2011', '\u2014', '\u2013', '-', '/',
         '\uFF0C', '\uFF1B', '\uFF1A', '\u3002', '\u3001', '\uFF08', '\uFF3B', '\uFF5B',
         '"', '\'', '*',
         '\u201C', '\u201D', '\u201E', '\u201F',
@@ -1384,12 +1820,7 @@ object ScriptureRefs {
 
   private fun scanUrlAt(s: String, i: Int): Triple<Int,String,String>? {
     if (!s.startsWith("http://", i) && !s.startsWith("https://", i) && !s.startsWith("www.", i)) return null
-    var j = i
-    while (j < s.length) {
-      val ch = s[j]
-      if (ch.isWhitespace() || ch in listOf(')', ']', '}', '<')) break
-      j++
-    }
+    var j = scriptureUrlTokenEnd(s, i)
     var urlText = s.substring(i, j)
     while (urlText.isNotEmpty() && urlText.last() in listOf('.', ',', ';', ':', '!', '?', '\u2019', '"')) {
       urlText = urlText.dropLast(1); j--

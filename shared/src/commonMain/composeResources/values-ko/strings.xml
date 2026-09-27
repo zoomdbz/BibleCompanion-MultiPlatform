@@ -381,4 +381,34 @@
     <string name="daily_notification_ios_window">iOS는 최대 60일분의 구절을 예약합니다. 앱을 정기적으로 열어 예약을 갱신하세요.</string>
     <string name="daily_notification_permission_denied">알림이 차단되어 있습니다. 기기 설정에서 알림을 허용한 뒤 이 기능을 켜세요.</string>
     <string name="daily_notification_system_settings">기기 알림 설정</string>
+    <!-- 기본 탐색과 성경 읽기 -->
+    <string name="ui_nav_home">홈</string>
+    <string name="ui_nav_read">읽기</string>
+    <string name="ui_nav_study">연구</string>
+    <string name="ui_nav_calendar">달력</string>
+    <string name="ui_reading_appearance">읽기 화면</string>
+    <string name="ui_line_spacing">줄 간격</string>
+    <string name="ui_verse_per_line">한 줄에 한 절</string>
+    <string name="ui_chapters">장</string>
+    <string name="ui_verses">절</string>
+    <string name="ui_choose_book">책 선택</string>
+    <string name="ui_previous_chapter">이전 장</string>
+    <string name="ui_next_chapter">다음 장</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">기초</string>
+    <string name="ui_torah_feasts">토라와 절기</string>
+    <string name="ui_discernment">분별</string>
+    <string name="ui_reference">참고</string>
+    <string name="ui_library_law">율법서</string>
+    <string name="ui_library_history">역사서</string>
+    <string name="ui_library_wisdom">지혜서</string>
+    <string name="ui_library_major_prophets">대예언서</string>
+    <string name="ui_library_minor_prophets">소예언서</string>
+    <string name="ui_library_gospels">복음서</string>
+    <string name="ui_library_paul">바울 서신</string>
+    <string name="ui_library_general">공동 서신</string>
+    <string name="ui_current_feasts">현재 절기</string>
+    <string name="ui_next_feast">다음 절기</string>
+    <string name="ui_calendar_basis">달력 기준</string>
+    <string name="ui_reading_now">읽는 중</string>
 </resources>

@@ -33,8 +33,17 @@ internal fun fullNativeVerseAnchor(anchor: VerseAnchor, units: List<VerseAnchor>
 
 /** Every verse covered by a trailing bullet marker, including range interiors. */
 internal fun versePickerNumbers(bullets: List<String>, chapter: Int): List<Int> =
+  versePickerNumbers(bullets, chapter, storyId = null, bookId = null)
+
+/** Single-chapter source markers are accepted only with their audited story context. */
+internal fun versePickerNumbers(
+  bullets: List<String>,
+  chapter: Int,
+  storyId: String?,
+  bookId: String? = null
+): List<Int> =
   bullets.asSequence()
-    .mapNotNull(::verseAnchorFromText)
+    .mapNotNull { parseTrailingVerseAnchor(it, storyId, bookId)?.anchor }
     .filter { it.chapter == chapter && it.verseStart <= it.verseEnd }
     .flatMap { (it.verseStart..it.verseEnd).asSequence() }
     .distinct()

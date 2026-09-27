@@ -7,6 +7,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -22,8 +23,7 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material.icons.filled.ChevronLeft
-import androidx.compose.material.icons.filled.ChevronRight
+import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.filled.KeyboardArrowDown
 import androidx.compose.material.icons.filled.KeyboardArrowUp
 import androidx.compose.material3.Card
@@ -42,6 +42,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
@@ -65,8 +66,8 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
   val scope = rememberCoroutineScope()
   val (todayY, todayM, todayD) = remember { platformCurrentDate() }
 
-  var displayYear by remember { mutableStateOf(todayY) }
-  var displayMonth by remember { mutableStateOf(todayM) }
+  var displayYear by rememberSaveable { mutableStateOf(todayY) }
+  var displayMonth by rememberSaveable { mutableStateOf(todayM) }
 
   var notesExpanded by remember { mutableStateOf(prefs.feastNotesExpanded) }
   var ordainedExpanded by remember { mutableStateOf(prefs.ordainedFeastsExpanded) }
@@ -86,6 +87,12 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
   }
   val feastMap = remember(displayYear, displayMonth) {
     CalendarUtils.buildFeastMap(displayYear, displayMonth)
+  }
+  val todayFeasts = remember(todayY, todayM, todayD) {
+    CalendarUtils.buildFeastMap(todayY, todayM)[todayD].orEmpty()
+  }
+  val nextFeast = remember(todayY, todayM, todayD) {
+    CalendarUtils.nextFeast(todayY, todayM, todayD)
   }
   val hebrewFirst = remember(displayYear, displayMonth) {
     HebrewCalendar.gregorianToHebrew(displayYear, displayMonth, 1)
@@ -129,6 +136,17 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
       contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
       verticalArrangement = Arrangement.spacedBy(8.dp)
     ) {
+      item {
+        CalendarNowCard(
+          year = todayY,
+          month = todayM,
+          day = todayD,
+          currentFeasts = todayFeasts,
+          nextFeast = nextFeast,
+          lang = lang
+        )
+      }
+
       // Explanation notes
       notes?.let { text ->
         if (text.isNotBlank()) {
@@ -191,7 +209,7 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
             verticalAlignment = Alignment.CenterVertically
           ) {
             IconButton(onClick = { advanceMonth(-1) }) {
-              Icon(Icons.Filled.ChevronLeft, contentDescription = null)
+              Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = null)
             }
             Column(horizontalAlignment = Alignment.CenterHorizontally) {
               Text(monthTitle, style = MaterialTheme.typography.titleMedium)
@@ -202,7 +220,7 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
               )
             }
             IconButton(onClick = { advanceMonth(1) }) {
-              Icon(Icons.Filled.ChevronRight, contentDescription = null)
+              Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = null)
             }
           }
 
@@ -229,6 +247,8 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
         )
       }
 
+      item { CalendarLegend() }
+
       // Feasts this month
       item {
         MonthFeastList(displayYear, displayMonth, feastMap, prefs, lang)
@@ -241,6 +261,110 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
 
       item { Spacer(Modifier.height(32.dp)) }
     }
+  }
+}
+
+@Composable
+private fun CalendarNowCard(
+  year: Int,
+  month: Int,
+  day: Int,
+  currentFeasts: List<FeastMarker>,
+  nextFeast: CalendarUtils.UpcomingFeast?,
+  lang: String
+) {
+  val uniqueCurrent = currentFeasts.distinctBy { "${it.id}_${it.calendar.name}_${it.dayOfFeast}" }
+  Card(
+    modifier = Modifier.fillMaxWidth(),
+    shape = RoundedCornerShape(16.dp),
+    colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.tertiaryContainer)
+  ) {
+    Column(Modifier.padding(16.dp)) {
+      Text(
+        if (uniqueCurrent.isNotEmpty()) stringResource(Res.string.ui_current_feasts)
+        else stringResource(Res.string.ui_next_feast),
+        style = MaterialTheme.typography.labelSmall,
+        color = MaterialTheme.colorScheme.tertiary
+      )
+      Spacer(Modifier.height(4.dp))
+
+      if (uniqueCurrent.isNotEmpty()) {
+        uniqueCurrent.forEachIndexed { index, marker ->
+          if (index > 0) Spacer(Modifier.height(10.dp))
+          Text(
+            localizedFeastDisplayName(marker.id),
+            style = MaterialTheme.typography.titleLarge,
+            color = MaterialTheme.colorScheme.onTertiaryContainer
+          )
+          if (marker.totalDays > 1) {
+            Text(
+              "${stringResource(Res.string.widget_day_of_feast, marker.dayOfFeast)}/${marker.totalDays}",
+              style = MaterialTheme.typography.bodySmall,
+              color = MaterialTheme.colorScheme.onTertiaryContainer.copy(alpha = 0.8f)
+            )
+          }
+          Text(
+            "${stringResource(Res.string.ui_calendar_basis)}: ${calendarTypeLabel(marker.calendar)}",
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onTertiaryContainer.copy(alpha = 0.8f)
+          )
+        }
+      } else if (nextFeast != null) {
+        Text(
+          localizedFeastDisplayName(nextFeast.id),
+          style = MaterialTheme.typography.titleLarge,
+          color = MaterialTheme.colorScheme.onTertiaryContainer
+        )
+        Text(
+          "${CalendarUtils.localizedMonthName(nextFeast.gregorianMonth, lang)} " +
+            "${nextFeast.gregorianDay}, ${nextFeast.gregorianYear} - " +
+            stringResource(Res.string.widget_days_short, nextFeast.daysUntil),
+          style = MaterialTheme.typography.bodySmall,
+          color = MaterialTheme.colorScheme.onTertiaryContainer.copy(alpha = 0.8f)
+        )
+        Text(
+          "${stringResource(Res.string.ui_calendar_basis)}: ${calendarTypeLabel(nextFeast.calendarType)}",
+          style = MaterialTheme.typography.bodySmall,
+          color = MaterialTheme.colorScheme.onTertiaryContainer.copy(alpha = 0.8f)
+        )
+      } else {
+        Text(
+          "${CalendarUtils.localizedMonthName(month, lang)} $day, $year",
+          style = MaterialTheme.typography.titleMedium,
+          color = MaterialTheme.colorScheme.onTertiaryContainer
+        )
+      }
+    }
+  }
+}
+
+@OptIn(androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
+@Composable
+private fun CalendarLegend() {
+  FlowRow(
+    modifier = Modifier.fillMaxWidth().padding(horizontal = 4.dp, vertical = 2.dp),
+    horizontalArrangement = Arrangement.spacedBy(12.dp),
+    verticalArrangement = Arrangement.spacedBy(8.dp)
+  ) {
+    CalendarLegendItem(
+      feastSpringColor(true),
+      "${stringResource(Res.string.widget_cal_hebrew)}: ${stringResource(Res.string.feast_spring_heading)}"
+    )
+    CalendarLegendItem(
+      feastSpringColor(false),
+      "${stringResource(Res.string.widget_cal_hebrew)}: ${stringResource(Res.string.feast_fall_heading)}"
+    )
+    CalendarLegendItem(MaterialTheme.colorScheme.tertiary, stringResource(Res.string.widget_cal_essene))
+    CalendarLegendItem(MaterialTheme.colorScheme.secondary, stringResource(Res.string.widget_cal_karaite))
+  }
+}
+
+@Composable
+private fun CalendarLegendItem(color: Color, label: String, modifier: Modifier = Modifier) {
+  Row(modifier = modifier.padding(horizontal = 4.dp), verticalAlignment = Alignment.CenterVertically) {
+    Box(Modifier.size(8.dp).clip(CircleShape).background(color))
+    Spacer(Modifier.width(6.dp))
+    Text(label, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
   }
 }
 
@@ -351,7 +475,7 @@ private fun DayCell(
         color = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.8f)
       )
       if (feasts != null) {
-        Row(horizontalArrangement = Arrangement.Center) {
+        Row(horizontalArrangement = Arrangement.spacedBy(3.dp)) {
           if (hasHebrew) {
             Box(
               Modifier
@@ -360,13 +484,20 @@ private fun DayCell(
                 .background(feastSpringColor(springFeast))
             )
           }
-          if (hasHebrew && hasEssene) Spacer(Modifier.width(3.dp))
           if (hasEssene) {
             Box(
               Modifier
                 .size(8.dp)
                 .clip(CircleShape)
                 .background(MaterialTheme.colorScheme.tertiary)
+            )
+          }
+          if (hasKaraite) {
+            Box(
+              Modifier
+                .size(8.dp)
+                .clip(CircleShape)
+                .background(MaterialTheme.colorScheme.secondary)
             )
           }
         }
@@ -416,11 +547,7 @@ private fun MonthFeastList(
             .maxOf { it.key }
           val dateStr = if (day == rangeEnd) "$day" else "$day\u2013$rangeEnd"
 
-          val calLabel = when (m.calendar) {
-            FeastCalendarType.HEBREW -> "H"
-            FeastCalendarType.ESSENE -> "E"
-            FeastCalendarType.KARAITE -> "K"
-          }
+          val calLabel = calendarTypeLabel(m.calendar)
           // For HEBREW and KARAITE markers we still surface the rabbinic Hebrew
           // month/day pair as the secondary tag. For ESSENE markers we instead
           // surface the internal 364-day month/day (e.g. 15/III) which is
@@ -529,7 +656,7 @@ private fun FeastTypologyCard(prefs: PrefsState) {
 }
 
 @Composable
-private fun OrdainedFeastsCard(expanded: Boolean, onToggle: () -> Unit, prefs: PrefsState) {
+internal fun OrdainedFeastsCard(expanded: Boolean, onToggle: () -> Unit, prefs: PrefsState) {
   Card(
     modifier = Modifier.fillMaxWidth(),
     shape = RoundedCornerShape(12.dp),

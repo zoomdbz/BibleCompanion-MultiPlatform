@@ -382,4 +382,34 @@
     <string name="daily_notification_ios_window">يُجدول iOS الآيات لمدة تصل إلى 60 يومًا. افتح التطبيق بانتظام لتجديد القائمة.</string>
     <string name="daily_notification_permission_denied">الإشعارات محظورة. اسمح بها في إعدادات جهازك، ثم فعّل هذا الخيار مجددًا.</string>
     <string name="daily_notification_system_settings">إعدادات إشعارات الجهاز</string>
+    <!-- التنقل الرئيسي والقارئ -->
+    <string name="ui_nav_home">الرئيسية</string>
+    <string name="ui_nav_read">قراءة</string>
+    <string name="ui_nav_study">دراسة</string>
+    <string name="ui_nav_calendar">التقويم</string>
+    <string name="ui_reading_appearance">مظهر القراءة</string>
+    <string name="ui_line_spacing">تباعد الأسطر</string>
+    <string name="ui_verse_per_line">آية واحدة في كل سطر</string>
+    <string name="ui_chapters">الأصحاحات</string>
+    <string name="ui_verses">الآيات</string>
+    <string name="ui_choose_book">اختر سفرًا</string>
+    <string name="ui_previous_chapter">الأصحاح السابق</string>
+    <string name="ui_next_chapter">الأصحاح التالي</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">الأساسيات</string>
+    <string name="ui_torah_feasts">التوراة والأعياد</string>
+    <string name="ui_discernment">التمييز</string>
+    <string name="ui_reference">المرجع</string>
+    <string name="ui_library_law">الشريعة</string>
+    <string name="ui_library_history">التاريخ</string>
+    <string name="ui_library_wisdom">الحكمة</string>
+    <string name="ui_library_major_prophets">الأنبياء الكبار</string>
+    <string name="ui_library_minor_prophets">الأنبياء الصغار</string>
+    <string name="ui_library_gospels">الأناجيل</string>
+    <string name="ui_library_paul">رسائل بولس</string>
+    <string name="ui_library_general">الرسائل الجامعة</string>
+    <string name="ui_current_feasts">الأعياد الحالية</string>
+    <string name="ui_next_feast">العيد التالي</string>
+    <string name="ui_calendar_basis">أساس التقويم</string>
+    <string name="ui_reading_now">يُقرأ الآن</string>
 </resources>

@@ -381,4 +381,34 @@
     <string name="daily_notification_ios_window">iOS plant Verse für bis zu 60 Tage voraus. Öffne die App regelmäßig, um sie zu erneuern.</string>
     <string name="daily_notification_permission_denied">Benachrichtigungen sind blockiert. Erlaube sie in den Geräteeinstellungen und aktiviere diese Option erneut.</string>
     <string name="daily_notification_system_settings">Benachrichtigungseinstellungen des Geräts</string>
+    <!-- Hauptnavigation und Leser -->
+    <string name="ui_nav_home">Startseite</string>
+    <string name="ui_nav_read">Lesen</string>
+    <string name="ui_nav_study">Studium</string>
+    <string name="ui_nav_calendar">Kalender</string>
+    <string name="ui_reading_appearance">Leseansicht</string>
+    <string name="ui_line_spacing">Zeilenabstand</string>
+    <string name="ui_verse_per_line">Ein Vers pro Zeile</string>
+    <string name="ui_chapters">Kapitel</string>
+    <string name="ui_verses">Verse</string>
+    <string name="ui_choose_book">Buch auswählen</string>
+    <string name="ui_previous_chapter">Vorheriges Kapitel</string>
+    <string name="ui_next_chapter">Nächstes Kapitel</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">Grundlagen</string>
+    <string name="ui_torah_feasts">Tora und Feste</string>
+    <string name="ui_discernment">Unterscheidung</string>
+    <string name="ui_reference">Nachschlagen</string>
+    <string name="ui_library_law">Gesetz</string>
+    <string name="ui_library_history">Geschichte</string>
+    <string name="ui_library_wisdom">Weisheit</string>
+    <string name="ui_library_major_prophets">Große Propheten</string>
+    <string name="ui_library_minor_prophets">Kleine Propheten</string>
+    <string name="ui_library_gospels">Evangelien</string>
+    <string name="ui_library_paul">Paulusbriefe</string>
+    <string name="ui_library_general">Allgemeine Briefe</string>
+    <string name="ui_current_feasts">Aktuelle Feste</string>
+    <string name="ui_next_feast">Nächstes Fest</string>
+    <string name="ui_calendar_basis">Kalendergrundlage</string>
+    <string name="ui_reading_now">Aktuell gelesen</string>
 </resources>

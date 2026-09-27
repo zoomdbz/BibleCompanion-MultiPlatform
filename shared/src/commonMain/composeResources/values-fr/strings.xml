@@ -383,4 +383,34 @@
     <string name="daily_notification_ios_window">iOS programme jusqu\'à 60 jours de versets. Ouvrez régulièrement l\'application pour renouveler la liste.</string>
     <string name="daily_notification_permission_denied">Les notifications sont bloquées. Autorisez-les dans les réglages de votre appareil, puis réactivez cette option.</string>
     <string name="daily_notification_system_settings">Réglages des notifications de l\'appareil</string>
+    <!-- Navigation principale et lecteur -->
+    <string name="ui_nav_home">Accueil</string>
+    <string name="ui_nav_read">Lecture</string>
+    <string name="ui_nav_study">Étude</string>
+    <string name="ui_nav_calendar">Calendrier</string>
+    <string name="ui_reading_appearance">Apparence de lecture</string>
+    <string name="ui_line_spacing">Interligne</string>
+    <string name="ui_verse_per_line">Un verset par ligne</string>
+    <string name="ui_chapters">Chapitres</string>
+    <string name="ui_verses">Versets</string>
+    <string name="ui_choose_book">Choisir un livre</string>
+    <string name="ui_previous_chapter">Chapitre précédent</string>
+    <string name="ui_next_chapter">Chapitre suivant</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">Fondements</string>
+    <string name="ui_torah_feasts">Torah et fêtes</string>
+    <string name="ui_discernment">Discernement</string>
+    <string name="ui_reference">References</string>
+    <string name="ui_library_law">Loi</string>
+    <string name="ui_library_history">Histoire</string>
+    <string name="ui_library_wisdom">Sagesse</string>
+    <string name="ui_library_major_prophets">Grands prophètes</string>
+    <string name="ui_library_minor_prophets">Petits prophètes</string>
+    <string name="ui_library_gospels">Évangiles</string>
+    <string name="ui_library_paul">Paul</string>
+    <string name="ui_library_general">Épîtres générales</string>
+    <string name="ui_current_feasts">Fêtes en cours</string>
+    <string name="ui_next_feast">Prochaine fête</string>
+    <string name="ui_calendar_basis">Base du calendrier</string>
+    <string name="ui_reading_now">Lecture en cours</string>
 </resources>

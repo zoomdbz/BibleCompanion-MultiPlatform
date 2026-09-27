@@ -20,6 +20,8 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setJesusWordsColor(colorKey: String)
     suspend fun setFontMode(mode: String)
     suspend fun setTextSizeScale(scale: Float)
+    suspend fun setReadingLineSpacing(spacing: Float)
+    suspend fun setVersePerLine(enabled: Boolean)
     suspend fun setLastRead(
         collection: String,
         bookId: String,

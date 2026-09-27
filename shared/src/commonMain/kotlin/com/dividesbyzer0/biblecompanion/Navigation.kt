@@ -47,6 +47,10 @@ internal fun appPassageLink(
 
 sealed class Dest(val route: String) {
     data object Home : Dest("home")
+    data object Read : Dest("read")
+    data object Study : Dest("study")
+    data object AboutCalendars : Dest("about_calendars")
+    data object OrdainedFeasts : Dest("ordained_feasts")
     data object Settings : Dest("settings")
     data object About : Dest("about")
     data object TranslationNotes : Dest("translation_notes")

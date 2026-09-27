@@ -74,6 +74,8 @@ data class PrefsState(
   val jesusWordsColor: String = "default",
   val fontMode: String = "sans",
   val textSizeScale: Float = 1.0f,
+  val readingLineSpacing: Float = 1.65f,
+  val versePerLine: Boolean = true,
   val lastReadCollection: String? = null,
   val lastReadBookId: String? = null,
   val lastReadBookTitle: String? = null,
@@ -189,8 +191,20 @@ internal fun SavedVerse.scriptureEdition(): String = when {
 internal fun SavedVerse.belongsToEdition(language: String, edition: String): Boolean =
   scriptureLanguage() == LocaleUtils.effectiveAssetTag(language) && scriptureEdition() == edition.lowercase()
 
-private val savedVerseAnchorPattern = Regex(
-  """\(\s*(\d+)\s*:\s*(\d+)(?:\s*[-\u2013]\s*(\d+))?\s*\)\s*\.?\s*$"""
+private const val VERSE_ANCHOR_DASHES = "-\u2010\u2011\u2013\u2014\uFF0D"
+
+private val chapterVerseAnchorPattern = Regex(
+  """[\(\uFF08]\s*(\d+)\s*[:\uFF1A]\s*(\d+)(?:\s*[$VERSE_ANCHOR_DASHES]\s*(\d+))?\s*[\)\uFF09]\s*([.\u3002\u0964]?)\s*$"""
+)
+
+private val singleChapterVerseAnchorPattern = Regex(
+  """[\(\uFF08]\s*(\d+)(?:\s*[$VERSE_ANCHOR_DASHES]\s*(\d+))?\s*[\)\uFF09]\s*([.\u3002\u0964]?)\s*$"""
+)
+
+private val knownSingleChapterVerseStories = mapOf(
+  "bel-1" to "bel_and_the_dragon",
+  "letter_of_jeremiah-1" to "letter_of_jeremiah",
+  "susanna-1" to "susanna"
 )
 
 internal data class VerseAnchor(
@@ -199,13 +213,54 @@ internal data class VerseAnchor(
   val verseEnd: Int = verseStart
 )
 
-internal fun verseAnchorFromText(text: String): VerseAnchor? {
-  val match = savedVerseAnchorPattern.find(text) ?: return null
-  val chapter = match.groupValues[1].toIntOrNull() ?: return null
-  val start = match.groupValues[2].toIntOrNull() ?: return null
-  val end = match.groupValues[3].toIntOrNull() ?: start
-  return VerseAnchor(chapter, start, end)
+/**
+ * A parsed source marker. [rawMarkerRange] retains its exact source extent,
+ * including terminal punctuation and whitespace, so presentation code can
+ * splice around it without rewriting Scripture.
+ */
+internal data class ParsedTrailingVerseAnchor(
+  val anchor: VerseAnchor,
+  val rawMarkerRange: IntRange,
+  val trailingPunctuation: String
+) {
+  val rawStart: Int get() = rawMarkerRange.first
 }
+
+/**
+ * Parses only an explicit marker at the end of a source unit. Localized
+ * punctuation changes metadata recognition, never the source string itself.
+ * Bare `(verse)` markers require one of the audited single-chapter story IDs.
+ */
+internal fun parseTrailingVerseAnchor(
+  text: String,
+  storyId: String? = null,
+  bookId: String? = null
+): ParsedTrailingVerseAnchor? {
+  chapterVerseAnchorPattern.find(text)?.let { match ->
+    val chapter = match.groupValues[1].toIntOrNull() ?: return null
+    val start = match.groupValues[2].toIntOrNull() ?: return null
+    val end = match.groupValues[3].toIntOrNull() ?: start
+    return ParsedTrailingVerseAnchor(
+      anchor = VerseAnchor(chapter, start, end),
+      rawMarkerRange = match.range,
+      trailingPunctuation = match.groupValues[4]
+    )
+  }
+
+  val expectedBookId = knownSingleChapterVerseStories[storyId] ?: return null
+  if (bookId != null && bookId != expectedBookId) return null
+  val match = singleChapterVerseAnchorPattern.find(text) ?: return null
+  val start = match.groupValues[1].toIntOrNull() ?: return null
+  val end = match.groupValues[2].toIntOrNull() ?: start
+  return ParsedTrailingVerseAnchor(
+    anchor = VerseAnchor(chapter = 1, verseStart = start, verseEnd = end),
+    rawMarkerRange = match.range,
+    trailingPunctuation = match.groupValues[3]
+  )
+}
+
+internal fun verseAnchorFromText(text: String): VerseAnchor? =
+  parseTrailingVerseAnchor(text)?.anchor
 
 internal fun SavedVerse.stableAnchor(): VerseAnchor? {
   val chapterNumber = chapter
@@ -213,7 +268,7 @@ internal fun SavedVerse.stableAnchor(): VerseAnchor? {
   if (chapterNumber != null && start != null) {
     return VerseAnchor(chapterNumber, start, verseEnd ?: start)
   }
-  return verseAnchorFromText(text)
+  return parseTrailingVerseAnchor(text, storyId = storyId, bookId = bookId)?.anchor
 }
 
 @Serializable

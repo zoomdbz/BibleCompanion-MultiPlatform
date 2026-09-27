@@ -381,4 +381,34 @@
     <string name="daily_notification_ios_window">iOS планирует стихи на срок до 60 дней. Регулярно открывайте приложение, чтобы обновлять список.</string>
     <string name="daily_notification_permission_denied">Уведомления заблокированы. Разрешите их в настройках устройства, затем снова включите эту функцию.</string>
     <string name="daily_notification_system_settings">Настройки уведомлений устройства</string>
+    <!-- Osnovnaya navigatsiya i chtenie -->
+    <string name="ui_nav_home">Главная</string>
+    <string name="ui_nav_read">Читать</string>
+    <string name="ui_nav_study">Изучение</string>
+    <string name="ui_nav_calendar">Календарь</string>
+    <string name="ui_reading_appearance">Вид текста</string>
+    <string name="ui_line_spacing">Межстрочный интервал</string>
+    <string name="ui_verse_per_line">Один стих в строке</string>
+    <string name="ui_chapters">Главы</string>
+    <string name="ui_verses">Стихи</string>
+    <string name="ui_choose_book">Выберите книгу</string>
+    <string name="ui_previous_chapter">Предыдущая глава</string>
+    <string name="ui_next_chapter">Следующая глава</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">Основы</string>
+    <string name="ui_torah_feasts">Тора и праздники</string>
+    <string name="ui_discernment">Различение</string>
+    <string name="ui_reference">Справочник</string>
+    <string name="ui_library_law">Закон</string>
+    <string name="ui_library_history">История</string>
+    <string name="ui_library_wisdom">Книги мудрости</string>
+    <string name="ui_library_major_prophets">Большие пророки</string>
+    <string name="ui_library_minor_prophets">Малые пророки</string>
+    <string name="ui_library_gospels">Евангелия</string>
+    <string name="ui_library_paul">Послания Павла</string>
+    <string name="ui_library_general">Соборные послания</string>
+    <string name="ui_current_feasts">Текущие праздники</string>
+    <string name="ui_next_feast">Следующий праздник</string>
+    <string name="ui_calendar_basis">Основа календаря</string>
+    <string name="ui_reading_now">Читается сейчас</string>
 </resources>

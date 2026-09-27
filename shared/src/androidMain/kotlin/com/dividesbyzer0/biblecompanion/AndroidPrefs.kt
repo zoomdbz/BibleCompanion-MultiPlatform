@@ -35,6 +35,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val JESUS_COLOR = stringPreferencesKey("jesus_color")
         val FONT_MODE = stringPreferencesKey("font_mode")
         val TEXT_SIZE_SCALE = floatPreferencesKey("text_size_scale")
+        val READING_LINE_SPACING = floatPreferencesKey("reading_line_spacing")
+        val VERSE_PER_LINE = booleanPreferencesKey("verse_per_line")
         val LAST_READ_COLLECTION = stringPreferencesKey("last_read_collection")
         val LAST_READ_BOOK_ID = stringPreferencesKey("last_read_book_id")
         val LAST_READ_BOOK_TITLE = stringPreferencesKey("last_read_book_title")
@@ -92,6 +94,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             jesusWordsColor = p[Keys.JESUS_COLOR] ?: "default",
             fontMode = p[Keys.FONT_MODE] ?: "sans",
             textSizeScale = p[Keys.TEXT_SIZE_SCALE] ?: 1.0f,
+            readingLineSpacing = (p[Keys.READING_LINE_SPACING] ?: 1.65f).coerceIn(1.3f, 2.1f),
+            versePerLine = p[Keys.VERSE_PER_LINE] ?: true,
             lastReadCollection = p[Keys.LAST_READ_COLLECTION],
             lastReadBookId = p[Keys.LAST_READ_BOOK_ID],
             lastReadBookTitle = p[Keys.LAST_READ_BOOK_TITLE],
@@ -160,6 +164,12 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setTextSizeScale(scale: Float) =
         context.dataStore.edit { it[Keys.TEXT_SIZE_SCALE] = scale }.let { Unit }
+
+    actual suspend fun setReadingLineSpacing(spacing: Float) =
+        context.dataStore.edit { it[Keys.READING_LINE_SPACING] = spacing.coerceIn(1.3f, 2.1f) }.let { Unit }
+
+    actual suspend fun setVersePerLine(enabled: Boolean) =
+        context.dataStore.edit { it[Keys.VERSE_PER_LINE] = enabled }.let { Unit }
 
     actual suspend fun setLastRead(
         collection: String,
