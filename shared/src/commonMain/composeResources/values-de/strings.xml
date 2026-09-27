@@ -425,6 +425,7 @@
     <string name="ui_choose_custom_color">Benutzerdefinierte Farbe wählen</string>
     <string name="ui_choose_custom_color_hint">Wählen Sie ein Farbfeld oder passen Sie den Farbton manuell an.</string>
     <string name="ui_color_selected">Ausgewählt</string>
+    <string name="ui_color_fine_tuned">Fein abgestimmte Farbe</string>
     <string name="ui_theme_preview">Designvorschau</string>
     <string name="ui_fine_tune_color">Farbe fein abstimmen</string>
     <string name="ui_hide_fine_color_control">Feineinstellung ausblenden</string>

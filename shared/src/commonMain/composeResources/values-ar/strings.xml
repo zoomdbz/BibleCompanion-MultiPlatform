@@ -426,6 +426,7 @@
     <string name="ui_choose_custom_color">اختر لونًا مخصصًا</string>
     <string name="ui_choose_custom_color_hint">اختر عينة لون، أو اضبط درجة اللون يدويًا.</string>
     <string name="ui_color_selected">محدد</string>
+    <string name="ui_color_fine_tuned">لون مضبوط بدقة</string>
     <string name="ui_theme_preview">معاينة السمة</string>
     <string name="ui_fine_tune_color">ضبط اللون بدقة</string>
     <string name="ui_hide_fine_color_control">إخفاء الضبط الدقيق</string>

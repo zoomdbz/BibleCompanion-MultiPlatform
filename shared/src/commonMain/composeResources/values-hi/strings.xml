@@ -425,6 +425,7 @@
     <string name="ui_choose_custom_color">कस्टम रंग चुनें</string>
     <string name="ui_choose_custom_color_hint">कोई रंग चुनें या रंगत को मैन्युअल रूप से समायोजित करें।</string>
     <string name="ui_color_selected">चयनित</string>
+    <string name="ui_color_fine_tuned">बारीकी से समायोजित रंग</string>
     <string name="ui_theme_preview">थीम पूर्वावलोकन</string>
     <string name="ui_fine_tune_color">रंग को बारीकी से समायोजित करें</string>
     <string name="ui_hide_fine_color_control">बारीक समायोजन छिपाएं</string>

@@ -4,9 +4,7 @@ import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -63,7 +61,6 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.vector.ImageVector
-import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -420,7 +417,6 @@ internal fun SavedItemsCard(bookmarkCount: Int, savedVerseCount: Int, onClick: (
   }
 }
 
-@OptIn(androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
 internal fun CollectionButtons(
   prefs: PrefsState,
@@ -442,26 +438,43 @@ internal fun CollectionButtons(
       if (prefs.showApoc) add("apocrypha" to Res.string.apocrypha)
     }
     if (extras.isNotEmpty()) {
-      BoxWithConstraints(Modifier.fillMaxWidth()) {
-        val fontScale = LocalDensity.current.fontScale * prefs.textSizeScale
-        // Keep the compact three-pill row at normal text size. Larger type gets
-        // two columns before labels can clip; one enabled collection uses a row.
-        val columns = when {
-          extras.size == 1 -> 1
-          fontScale > 1.15f -> 2
-          else -> 3
-        }
-        val gap = 12.dp
-        val width = (maxWidth - gap * (columns - 1)) / columns
-        FlowRow(maxItemsInEachRow = columns, horizontalArrangement = Arrangement.spacedBy(gap), verticalArrangement = Arrangement.spacedBy(gap)) {
-          extras.forEach { (collection, label) ->
-            androidx.compose.material3.FilledTonalButton(onClick = { onOpenCollection(collection) }, enabled = enabled, modifier = Modifier.width(width).heightIn(min = 44.dp), shape = RoundedCornerShape(22.dp), contentPadding = PaddingValues(horizontal = 8.dp)) {
-              Text(stringResource(label), maxLines = 2)
-            }
+      // Three localized labels do not fit reliably in phone-width thirds. Use
+      // deterministic rows: two readable half-width cards, then a full-width
+      // final card. This avoids FlowRow's left-aligned orphan and preserves
+      // the collection order at every density and font scale.
+      extras.chunked(2).forEach { row ->
+        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+          row.forEach { (collection, label) ->
+            CollectionPill(
+              collection = collection,
+              label = label,
+              enabled = enabled,
+              modifier = if (row.size == 1) Modifier.fillMaxWidth() else Modifier.weight(1f),
+              onOpenCollection = onOpenCollection
+            )
           }
         }
       }
     }
+  }
+}
+
+@Composable
+private fun CollectionPill(
+  collection: String,
+  label: StringResource,
+  enabled: Boolean,
+  modifier: Modifier,
+  onOpenCollection: (String) -> Unit
+) {
+  androidx.compose.material3.FilledTonalButton(
+    onClick = { onOpenCollection(collection) },
+    enabled = enabled,
+    modifier = modifier.heightIn(min = 52.dp),
+    shape = RoundedCornerShape(22.dp),
+    contentPadding = PaddingValues(horizontal = 10.dp, vertical = 8.dp)
+  ) {
+    Text(stringResource(label), maxLines = 2, overflow = TextOverflow.Ellipsis)
   }
 }
 

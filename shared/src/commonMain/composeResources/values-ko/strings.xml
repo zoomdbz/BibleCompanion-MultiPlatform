@@ -425,6 +425,7 @@
     <string name="ui_choose_custom_color">사용자 지정 색상 선택</string>
     <string name="ui_choose_custom_color_hint">색상 견본을 선택하거나 색조를 직접 조정하세요.</string>
     <string name="ui_color_selected">선택됨</string>
+    <string name="ui_color_fine_tuned">미세 조정한 색상</string>
     <string name="ui_theme_preview">테마 미리보기</string>
     <string name="ui_fine_tune_color">색상 미세 조정</string>
     <string name="ui_hide_fine_color_control">미세 조정 숨기기</string>

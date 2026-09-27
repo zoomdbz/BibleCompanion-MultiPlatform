@@ -17,6 +17,7 @@ import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.selection.selectableGroup
 import androidx.compose.foundation.shape.CircleShape
@@ -32,6 +33,7 @@ import androidx.compose.material3.Slider
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateOf
@@ -49,7 +51,6 @@ import androidx.compose.ui.semantics.selected
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.semantics.stateDescription
 import androidx.compose.ui.text.style.TextAlign
-import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import org.jetbrains.compose.resources.StringResource
 import org.jetbrains.compose.resources.stringResource
@@ -85,11 +86,15 @@ internal fun CustomThemePicker(
   onHueSelected: (Float) -> Unit
 ) {
   var showFineTuning by rememberSaveable { mutableStateOf(false) }
-  var sliderHue by remember(hue) { mutableFloatStateOf(hue.coerceIn(0f, 360f)) }
+  var draftHue by remember { mutableFloatStateOf(hue.coerceIn(0f, 360f)) }
+  var sliderActive by remember { mutableStateOf(false) }
   val selectedDescription = stringResource(Res.string.ui_color_selected)
   val fineTuneDescription = stringResource(Res.string.ui_fine_tune_color)
-  val previewScheme = colorSchemeFor(ThemePreset.Custom, dark, hue)
-  val selectedOption = curatedThemeColors.minBy { hueDistance(hue, it.hue) }
+  val previewScheme = colorSchemeFor(ThemePreset.Custom, dark, draftHue)
+
+  LaunchedEffect(hue) {
+    if (!sliderActive) draftHue = hue.coerceIn(0f, 360f)
+  }
 
   Column(
     modifier = Modifier.padding(top = 8.dp),
@@ -109,12 +114,12 @@ internal fun CustomThemePicker(
     ) {
       curatedThemeColors.forEach { option ->
         val name = stringResource(option.name)
-        val selected = option == selectedOption
+        val selected = hueDistance(draftHue, option.hue) < 0.5f
         val scheme = colorSchemeFor(ThemePreset.Custom, dark, option.hue)
         Surface(
           modifier = Modifier
-            .width(78.dp)
-            .heightIn(min = 82.dp)
+            .widthIn(min = 88.dp, max = 140.dp)
+            .heightIn(min = 88.dp)
             .semantics {
               contentDescription = name
               this.selected = selected
@@ -123,14 +128,18 @@ internal fun CustomThemePicker(
             .selectable(
               selected = selected,
               role = Role.RadioButton,
-              onClick = { onHueSelected(option.hue) }
+              onClick = {
+                sliderActive = false
+                draftHue = option.hue
+                onHueSelected(option.hue)
+              }
             ),
           shape = RoundedCornerShape(14.dp),
           color = if (selected) scheme.primaryContainer else scheme.surfaceContainerLow,
           contentColor = if (selected) scheme.onPrimaryContainer else scheme.onSurface,
           border = BorderStroke(
             width = if (selected) 3.dp else 1.dp,
-            color = if (selected) scheme.primary else scheme.outlineVariant
+            color = if (selected) scheme.primary else scheme.outline
           )
         ) {
           Column(
@@ -154,9 +163,7 @@ internal fun CustomThemePicker(
             Text(
               text = name,
               style = MaterialTheme.typography.labelSmall,
-              textAlign = TextAlign.Center,
-              maxLines = 2,
-              overflow = TextOverflow.Ellipsis
+              textAlign = TextAlign.Center
             )
           }
         }
@@ -164,7 +171,7 @@ internal fun CustomThemePicker(
     }
 
     ThemeColorPreview(
-      hue = hue,
+      hue = draftHue,
       scheme = previewScheme
     )
 
@@ -202,10 +209,14 @@ internal fun CustomThemePicker(
             )
         )
         Slider(
-          value = sliderHue,
+          value = draftHue,
           onValueChange = { value ->
-            sliderHue = value
-            onHueSelected(value)
+            sliderActive = true
+            draftHue = value
+          },
+          onValueChangeFinished = {
+            sliderActive = false
+            onHueSelected(draftHue)
           },
           valueRange = 0f..360f,
           modifier = Modifier
@@ -219,7 +230,9 @@ internal fun CustomThemePicker(
 
 @Composable
 private fun ThemeColorPreview(hue: Float, scheme: androidx.compose.material3.ColorScheme) {
-  val nearestName = curatedThemeColors.minBy { hueDistance(hue, it.hue) }.name
+  val selectedName = curatedThemeColors
+    .firstOrNull { hueDistance(hue, it.hue) < 0.5f }
+    ?.name
   Surface(
     modifier = Modifier.fillMaxWidth(),
     shape = RoundedCornerShape(16.dp),
@@ -233,7 +246,8 @@ private fun ThemeColorPreview(hue: Float, scheme: androidx.compose.material3.Col
     ) {
       Text(stringResource(Res.string.ui_theme_preview), style = MaterialTheme.typography.titleSmall)
       Text(
-        stringResource(nearestName),
+        selectedName?.let { stringResource(it) }
+          ?: stringResource(Res.string.ui_color_fine_tuned),
         style = MaterialTheme.typography.bodySmall,
         color = scheme.onSurfaceVariant
       )

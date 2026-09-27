@@ -425,6 +425,7 @@
     <string name="ui_choose_custom_color">カスタムカラーを選択</string>
     <string name="ui_choose_custom_color_hint">色見本を選ぶか、色相を手動で調整します。</string>
     <string name="ui_color_selected">選択済み</string>
+    <string name="ui_color_fine_tuned">微調整した色</string>
     <string name="ui_theme_preview">テーマのプレビュー</string>
     <string name="ui_fine_tune_color">色を微調整</string>
     <string name="ui_hide_fine_color_control">微調整を隠す</string>

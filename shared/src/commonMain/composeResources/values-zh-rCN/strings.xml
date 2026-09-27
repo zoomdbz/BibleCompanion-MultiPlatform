@@ -425,6 +425,7 @@
     <string name="ui_choose_custom_color">选择自定义颜色</string>
     <string name="ui_choose_custom_color_hint">选择色样，或手动微调色相。</string>
     <string name="ui_color_selected">已选择</string>
+    <string name="ui_color_fine_tuned">已微调的颜色</string>
     <string name="ui_theme_preview">主题预览</string>
     <string name="ui_fine_tune_color">微调颜色</string>
     <string name="ui_hide_fine_color_control">隐藏微调</string>

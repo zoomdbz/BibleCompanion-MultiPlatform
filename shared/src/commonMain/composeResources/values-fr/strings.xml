@@ -427,6 +427,7 @@
     <string name="ui_choose_custom_color">Choisir une couleur personnalisée</string>
     <string name="ui_choose_custom_color_hint">Choisissez une teinte ou ajustez-la manuellement.</string>
     <string name="ui_color_selected">Sélectionné</string>
+    <string name="ui_color_fine_tuned">Couleur ajustée</string>
     <string name="ui_theme_preview">Aperçu du thème</string>
     <string name="ui_fine_tune_color">Ajuster précisément la couleur</string>
     <string name="ui_hide_fine_color_control">Masquer le réglage précis</string>

@@ -459,6 +459,7 @@
     <string name="ui_choose_custom_color">Choose a custom color</string>
     <string name="ui_choose_custom_color_hint">Choose a swatch, or adjust the hue manually.</string>
     <string name="ui_color_selected">Selected</string>
+    <string name="ui_color_fine_tuned">Fine-tuned color</string>
     <string name="ui_theme_preview">Theme preview</string>
     <string name="ui_fine_tune_color">Fine-tune color</string>
     <string name="ui_hide_fine_color_control">Hide fine-tuning</string>

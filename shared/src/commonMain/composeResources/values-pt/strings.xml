@@ -425,6 +425,7 @@
     <string name="ui_choose_custom_color">Escolher cor personalizada</string>
     <string name="ui_choose_custom_color_hint">Escolha uma amostra ou ajuste o matiz manualmente.</string>
     <string name="ui_color_selected">Selecionado</string>
+    <string name="ui_color_fine_tuned">Cor ajustada</string>
     <string name="ui_theme_preview">Prévia do tema</string>
     <string name="ui_fine_tune_color">Ajustar cor com precisão</string>
     <string name="ui_hide_fine_color_control">Ocultar ajuste preciso</string>
