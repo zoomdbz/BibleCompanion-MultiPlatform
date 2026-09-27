@@ -421,4 +421,25 @@
     <string name="ui_library_pauline_epistles">パウロ書簡</string>
     <string name="ui_library_general_epistles">公同書簡</string>
     <string name="ui_library_revelation">ヨハネの黙示録</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">カスタムカラーを選択</string>
+    <string name="ui_choose_custom_color_hint">色見本を選ぶか、色相を手動で調整します。</string>
+    <string name="ui_color_selected">選択済み</string>
+    <string name="ui_theme_preview">テーマのプレビュー</string>
+    <string name="ui_fine_tune_color">色を微調整</string>
+    <string name="ui_hide_fine_color_control">微調整を隠す</string>
+    <string name="ui_color_crimson">深紅</string>
+    <string name="ui_color_coral">コーラル</string>
+    <string name="ui_color_amber">琥珀色</string>
+    <string name="ui_color_gold">金色</string>
+    <string name="ui_color_olive">オリーブ</string>
+    <string name="ui_color_green">緑</string>
+    <string name="ui_color_emerald">エメラルド</string>
+    <string name="ui_color_teal">青緑</string>
+    <string name="ui_color_sky_blue">空色</string>
+    <string name="ui_color_blue">青</string>
+    <string name="ui_color_indigo">藍色</string>
+    <string name="ui_color_violet">紫</string>
+    <string name="ui_color_magenta">マゼンタ</string>
+    <string name="ui_color_rose">ローズ</string>
 </resources>

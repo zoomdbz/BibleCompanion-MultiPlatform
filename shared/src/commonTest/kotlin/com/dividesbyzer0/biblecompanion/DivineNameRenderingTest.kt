@@ -367,6 +367,16 @@ class DivineNameRenderingTest {
       plain,
       applyDivineName(plain, "yahweh", "es", true, "old_testament")
     )
+    assertEquals(
+      "[DN]Yo soy el que soy[/DN] y [DN]Yahvé[/DN]",
+      applyDivineName(
+        "[DN]Yo soy el que soy[/DN] y [DN]Señor[/DN]",
+        "yahweh",
+        "es",
+        true,
+        "old_testament"
+      )
+    )
   }
 
   @Test

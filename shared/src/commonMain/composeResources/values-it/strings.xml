@@ -421,4 +421,25 @@
     <string name="ui_library_pauline_epistles">Epistole paoline</string>
     <string name="ui_library_general_epistles">Epistole generali</string>
     <string name="ui_library_revelation">Apocalisse</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">Scegli colore personalizzato</string>
+    <string name="ui_choose_custom_color_hint">Scegli un campione o regola manualmente la tonalità.</string>
+    <string name="ui_color_selected">Selezionato</string>
+    <string name="ui_theme_preview">Anteprima tema</string>
+    <string name="ui_fine_tune_color">Regola con precisione il colore</string>
+    <string name="ui_hide_fine_color_control">Nascondi regolazione precisa</string>
+    <string name="ui_color_crimson">Cremisi</string>
+    <string name="ui_color_coral">Corallo</string>
+    <string name="ui_color_amber">Ambra</string>
+    <string name="ui_color_gold">Oro</string>
+    <string name="ui_color_olive">Oliva</string>
+    <string name="ui_color_green">Verde</string>
+    <string name="ui_color_emerald">Smeraldo</string>
+    <string name="ui_color_teal">Verde acqua</string>
+    <string name="ui_color_sky_blue">Azzurro cielo</string>
+    <string name="ui_color_blue">Blu</string>
+    <string name="ui_color_indigo">Indaco</string>
+    <string name="ui_color_violet">Viola</string>
+    <string name="ui_color_magenta">Magenta</string>
+    <string name="ui_color_rose">Rosa</string>
 </resources>

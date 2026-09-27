@@ -422,4 +422,25 @@
     <string name="ui_library_pauline_epistles">رسائل بولس</string>
     <string name="ui_library_general_epistles">الرسائل الجامعة</string>
     <string name="ui_library_revelation">سفر الرؤيا</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">اختر لونًا مخصصًا</string>
+    <string name="ui_choose_custom_color_hint">اختر عينة لون، أو اضبط درجة اللون يدويًا.</string>
+    <string name="ui_color_selected">محدد</string>
+    <string name="ui_theme_preview">معاينة السمة</string>
+    <string name="ui_fine_tune_color">ضبط اللون بدقة</string>
+    <string name="ui_hide_fine_color_control">إخفاء الضبط الدقيق</string>
+    <string name="ui_color_crimson">قرمزي</string>
+    <string name="ui_color_coral">مرجاني</string>
+    <string name="ui_color_amber">كهرماني</string>
+    <string name="ui_color_gold">ذهبي</string>
+    <string name="ui_color_olive">زيتوني</string>
+    <string name="ui_color_green">أخضر</string>
+    <string name="ui_color_emerald">زمردي</string>
+    <string name="ui_color_teal">أزرق مخضر</string>
+    <string name="ui_color_sky_blue">أزرق سماوي</string>
+    <string name="ui_color_blue">أزرق</string>
+    <string name="ui_color_indigo">نيلي</string>
+    <string name="ui_color_violet">بنفسجي</string>
+    <string name="ui_color_magenta">أرجواني</string>
+    <string name="ui_color_rose">وردي</string>
 </resources>

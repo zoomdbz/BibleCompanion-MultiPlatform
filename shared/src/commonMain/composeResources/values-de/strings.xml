@@ -421,4 +421,25 @@
     <string name="ui_library_pauline_epistles">Paulinische Briefe</string>
     <string name="ui_library_general_epistles">Allgemeine Briefe</string>
     <string name="ui_library_revelation">Offenbarung</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">Benutzerdefinierte Farbe wählen</string>
+    <string name="ui_choose_custom_color_hint">Wählen Sie ein Farbfeld oder passen Sie den Farbton manuell an.</string>
+    <string name="ui_color_selected">Ausgewählt</string>
+    <string name="ui_theme_preview">Designvorschau</string>
+    <string name="ui_fine_tune_color">Farbe fein abstimmen</string>
+    <string name="ui_hide_fine_color_control">Feineinstellung ausblenden</string>
+    <string name="ui_color_crimson">Karminrot</string>
+    <string name="ui_color_coral">Koralle</string>
+    <string name="ui_color_amber">Bernstein</string>
+    <string name="ui_color_gold">Gold</string>
+    <string name="ui_color_olive">Olivgrün</string>
+    <string name="ui_color_green">Grün</string>
+    <string name="ui_color_emerald">Smaragdgrün</string>
+    <string name="ui_color_teal">Blaugrün</string>
+    <string name="ui_color_sky_blue">Himmelblau</string>
+    <string name="ui_color_blue">Blau</string>
+    <string name="ui_color_indigo">Indigo</string>
+    <string name="ui_color_violet">Violett</string>
+    <string name="ui_color_magenta">Magenta</string>
+    <string name="ui_color_rose">Rosa</string>
 </resources>

@@ -4727,31 +4727,11 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       }
 
       AnimatedVisibility(visible = selectedPreset == ThemePreset.Custom) {
-        var hueSlider by remember(prefs.customThemeHue) { mutableStateOf(prefs.customThemeHue) }
-        Column(Modifier.padding(top = 4.dp)) {
-          Box(
-            Modifier
-              .fillMaxWidth()
-              .height(24.dp)
-              .clip(RoundedCornerShape(12.dp))
-              .background(
-                androidx.compose.ui.graphics.Brush.horizontalGradient(
-                  (0..360 step 30).map { h ->
-                    Color.hsl(h.toFloat(), 0.6f, 0.5f)
-                  }
-                )
-              )
-          )
-          Slider(
-            value = hueSlider,
-            onValueChange = { v ->
-              hueSlider = v
-              scope.launch { repo.setCustomThemeHue(v) }
-            },
-            valueRange = 0f..360f,
-            modifier = Modifier.fillMaxWidth()
-          )
-        }
+        CustomThemePicker(
+          hue = prefs.customThemeHue,
+          dark = previewDark,
+          onHueSelected = { hue -> scope.launch { repo.setCustomThemeHue(hue) } }
+        )
       }
 
       Spacer(Modifier.height(4.dp))

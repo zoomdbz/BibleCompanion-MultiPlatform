@@ -428,7 +428,7 @@ internal fun comfortableDynamicColorScheme(scheme: ColorScheme, dark: Boolean): 
     surfaceContainerHigh = surfaceAt(0.16f),
     surfaceContainerHighest = surfaceAt(0.21f),
     surfaceBright = surfaceAt(0.27f),
-    outlineVariant = surfaceAt(0.43f)
+    outlineVariant = surfaceAt(0.48f)
   )
 }
 

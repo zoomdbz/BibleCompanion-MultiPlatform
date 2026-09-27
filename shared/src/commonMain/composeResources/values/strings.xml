@@ -455,4 +455,25 @@
     <string name="ui_library_pauline_epistles">Pauline Epistles</string>
     <string name="ui_library_general_epistles">General Epistles</string>
     <string name="ui_library_revelation">Revelation</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">Choose a custom color</string>
+    <string name="ui_choose_custom_color_hint">Choose a swatch, or adjust the hue manually.</string>
+    <string name="ui_color_selected">Selected</string>
+    <string name="ui_theme_preview">Theme preview</string>
+    <string name="ui_fine_tune_color">Fine-tune color</string>
+    <string name="ui_hide_fine_color_control">Hide fine-tuning</string>
+    <string name="ui_color_crimson">Crimson</string>
+    <string name="ui_color_coral">Coral</string>
+    <string name="ui_color_amber">Amber</string>
+    <string name="ui_color_gold">Gold</string>
+    <string name="ui_color_olive">Olive</string>
+    <string name="ui_color_green">Green</string>
+    <string name="ui_color_emerald">Emerald</string>
+    <string name="ui_color_teal">Teal</string>
+    <string name="ui_color_sky_blue">Sky blue</string>
+    <string name="ui_color_blue">Blue</string>
+    <string name="ui_color_indigo">Indigo</string>
+    <string name="ui_color_violet">Violet</string>
+    <string name="ui_color_magenta">Magenta</string>
+    <string name="ui_color_rose">Rose</string>
 </resources>

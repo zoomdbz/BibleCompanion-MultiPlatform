@@ -122,6 +122,8 @@ private const val DN_CLOSE_TOKEN = "\uFDD3"
 private const val PRESERVED_NAME_OPEN_TOKEN = "\uFDD4"
 private const val PRESERVED_NAME_CLOSE_TOKEN = "\uFDD5"
 private const val CURRENT_DIVINE_NAME_TOKEN = "\uFDD6"
+private const val NVI_SELF_IDENTIFICATION_LONG_TOKEN = "\uFDD8"
+private const val NVI_SELF_IDENTIFICATION_SHORT_TOKEN = "\uFDD9"
 
 private val existingDnOpen = Regex("\\[DN\\s*]", RegexOption.IGNORE_CASE)
 private val existingDnClose = Regex("\\[/\\s*DN\\s*]", RegexOption.IGNORE_CASE)
@@ -501,6 +503,30 @@ private fun normalizeMarkedDivineNamesForReplacement(
     }
   }
 
+/**
+ * NVI Exodus 3:14 marks God's self-identification as a divine-name span, but
+ * "Yo soy" is publisher wording rather than a replacement form for YHWH.
+ * Protect it before source-marked normalization removes all [DN] wrappers.
+ */
+private fun protectNviSelfIdentification(text: String, lang: String, isOt: Boolean): String {
+  if (lang != "es" || !isOt) return text
+  return existingDnSpan.replace(text) { match ->
+    when (match.groupValues[1]) {
+      "Yo soy el que soy" -> NVI_SELF_IDENTIFICATION_LONG_TOKEN
+      "Yo soy" -> NVI_SELF_IDENTIFICATION_SHORT_TOKEN
+      else -> match.value
+    }
+  }
+}
+
+private fun restoreNviSelfIdentification(text: String, colorActive: Boolean): String {
+  val longForm = if (colorActive) "[DN]Yo soy el que soy[/DN]" else "Yo soy el que soy"
+  val shortForm = if (colorActive) "[DN]Yo soy[/DN]" else "Yo soy"
+  return text
+    .replace(NVI_SELF_IDENTIFICATION_LONG_TOKEN, longForm)
+    .replace(NVI_SELF_IDENTIFICATION_SHORT_TOKEN, shortForm)
+}
+
 private fun traditionalWrap(value: String): String = DN_OPEN_TOKEN + value + DN_CLOSE_TOKEN
 
 private fun highlightEnglishOtTitles(text: String): String {
@@ -635,17 +661,12 @@ internal fun applyDivineName(
 
   val localizedName = localizedDivineName(mode, lk)
   val renderedName = if (colorActive) "[DN]$localizedName[/DN]" else localizedName
-  val sourceMarked = normalizeMarkedDivineNamesForReplacement(text, lk, localizedName)
+  val protectedPublisherText = protectNviSelfIdentification(text, lk, isOt)
+  val sourceMarked = normalizeMarkedDivineNamesForReplacement(protectedPublisherText, lk, localizedName)
   val replaced = replaceNameModeSegment(sourceMarked, lk, isOt)
     .replace(DIVINE_NAME_TOKEN, renderedName)
     .replace(CURRENT_DIVINE_NAME_TOKEN, renderedName)
-  // NVI Exodus 3:14 marks God's self-identification with [DN], but these
-  // phrases are not substitutes for the Tetragrammaton. Keep their exact
-  // publisher wording; remove only their color markup when color is off.
-  return if (lk == "es" && isOt && !colorActive) replaced
-    .replace("[DN]Yo soy el que soy[/DN]", "Yo soy el que soy")
-    .replace("[DN]Yo soy[/DN]", "Yo soy")
-  else replaced
+  return restoreNviSelfIdentification(replaced, colorActive)
 }
 
 private val aliasJson = Json { ignoreUnknownKeys = true }

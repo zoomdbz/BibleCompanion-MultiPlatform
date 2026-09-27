@@ -421,4 +421,25 @@
     <string name="ui_library_pauline_epistles">पौलुस की पत्रियाँ</string>
     <string name="ui_library_general_epistles">सामान्य पत्रियाँ</string>
     <string name="ui_library_revelation">प्रकाशितवाक्य</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">कस्टम रंग चुनें</string>
+    <string name="ui_choose_custom_color_hint">कोई रंग चुनें या रंगत को मैन्युअल रूप से समायोजित करें।</string>
+    <string name="ui_color_selected">चयनित</string>
+    <string name="ui_theme_preview">थीम पूर्वावलोकन</string>
+    <string name="ui_fine_tune_color">रंग को बारीकी से समायोजित करें</string>
+    <string name="ui_hide_fine_color_control">बारीक समायोजन छिपाएं</string>
+    <string name="ui_color_crimson">गहरा लाल</string>
+    <string name="ui_color_coral">मूंगा</string>
+    <string name="ui_color_amber">अंबर</string>
+    <string name="ui_color_gold">सुनहरा</string>
+    <string name="ui_color_olive">जैतूनी</string>
+    <string name="ui_color_green">हरा</string>
+    <string name="ui_color_emerald">पन्ना</string>
+    <string name="ui_color_teal">नीला-हरा</string>
+    <string name="ui_color_sky_blue">आसमानी नीला</string>
+    <string name="ui_color_blue">नीला</string>
+    <string name="ui_color_indigo">नील</string>
+    <string name="ui_color_violet">बैंगनी</string>
+    <string name="ui_color_magenta">मैजेंटा</string>
+    <string name="ui_color_rose">गुलाबी</string>
 </resources>

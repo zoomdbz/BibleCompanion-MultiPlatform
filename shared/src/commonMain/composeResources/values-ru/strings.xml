@@ -421,4 +421,25 @@
     <string name="ui_library_pauline_epistles">Павловы послания</string>
     <string name="ui_library_general_epistles">Соборные послания</string>
     <string name="ui_library_revelation">Откровение</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">Выбрать свой цвет</string>
+    <string name="ui_choose_custom_color_hint">Выберите образец или настройте оттенок вручную.</string>
+    <string name="ui_color_selected">Выбрано</string>
+    <string name="ui_theme_preview">Предпросмотр темы</string>
+    <string name="ui_fine_tune_color">Точная настройка цвета</string>
+    <string name="ui_hide_fine_color_control">Скрыть точную настройку</string>
+    <string name="ui_color_crimson">Багровый</string>
+    <string name="ui_color_coral">Коралловый</string>
+    <string name="ui_color_amber">Янтарный</string>
+    <string name="ui_color_gold">Золотой</string>
+    <string name="ui_color_olive">Оливковый</string>
+    <string name="ui_color_green">Зеленый</string>
+    <string name="ui_color_emerald">Изумрудный</string>
+    <string name="ui_color_teal">Бирюзовый</string>
+    <string name="ui_color_sky_blue">Небесно-голубой</string>
+    <string name="ui_color_blue">Синий</string>
+    <string name="ui_color_indigo">Индиго</string>
+    <string name="ui_color_violet">Фиолетовый</string>
+    <string name="ui_color_magenta">Пурпурный</string>
+    <string name="ui_color_rose">Розовый</string>
 </resources>

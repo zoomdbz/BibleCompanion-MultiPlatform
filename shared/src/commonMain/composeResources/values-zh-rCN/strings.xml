@@ -421,4 +421,25 @@
     <string name="ui_library_pauline_epistles">保罗书信</string>
     <string name="ui_library_general_epistles">普通书信</string>
     <string name="ui_library_revelation">启示录</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">选择自定义颜色</string>
+    <string name="ui_choose_custom_color_hint">选择色样，或手动微调色相。</string>
+    <string name="ui_color_selected">已选择</string>
+    <string name="ui_theme_preview">主题预览</string>
+    <string name="ui_fine_tune_color">微调颜色</string>
+    <string name="ui_hide_fine_color_control">隐藏微调</string>
+    <string name="ui_color_crimson">绯红</string>
+    <string name="ui_color_coral">珊瑚色</string>
+    <string name="ui_color_amber">琥珀色</string>
+    <string name="ui_color_gold">金色</string>
+    <string name="ui_color_olive">橄榄绿</string>
+    <string name="ui_color_green">绿色</string>
+    <string name="ui_color_emerald">翡翠绿</string>
+    <string name="ui_color_teal">蓝绿色</string>
+    <string name="ui_color_sky_blue">天蓝色</string>
+    <string name="ui_color_blue">蓝色</string>
+    <string name="ui_color_indigo">靛蓝色</string>
+    <string name="ui_color_violet">紫罗兰色</string>
+    <string name="ui_color_magenta">品红色</string>
+    <string name="ui_color_rose">玫瑰色</string>
 </resources>

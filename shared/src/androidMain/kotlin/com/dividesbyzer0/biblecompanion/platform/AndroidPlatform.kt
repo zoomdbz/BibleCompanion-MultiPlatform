@@ -270,7 +270,10 @@ actual fun platformAppBuild(context: PlatformContext): String = runCatching {
 // when this one completes, so multi-chunk chapters do not report "finished"
 // after the first chunk. See doSpeak / ttsChunks.
 @Volatile private var ttsFinalUtteranceId: String? = null
-private val mainHandler = Handler(Looper.getMainLooper())
+// Do not resolve Android's main Looper while this platform facade loads. Pure
+// locale, edition, and linker code calls other actuals in this file during JVM
+// unit tests, where no Android main Looper exists. TTS alone needs this handler.
+private val mainHandler: Handler by lazy { Handler(Looper.getMainLooper()) }
 private val ttsLock = Any()
 
 private fun ttsLocale(languageTag: String): Locale {
@@ -555,4 +558,3 @@ actual fun platformOnnxInference(inputIds: LongArray, attentionMask: LongArray):
 }
 
 actual fun platformOnnxIsReady(): Boolean = ortSession != null
-
