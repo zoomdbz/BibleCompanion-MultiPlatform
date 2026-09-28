@@ -319,53 +319,71 @@ fun AppRoot(
       // Study and Calendar states use their own graph IDs and remain untouched.
       nav.clearBackStack("tab_read")
     }
-    val selectTab: (String) -> Unit = { route ->
-      when {
-        shouldReturnToStudyRoot(route, currentTab, currentEntry?.destination?.route) -> {
-          // Reselecting Study leaves its note/detail screen. Discard an older
-          // saved Study stack so a later tab switch cannot reopen that note.
-          nav.clearBackStack("tab_study")
-          if (!nav.popBackStack(Dest.Study.route, inclusive = false)) {
-            // Home/search can open a Study child without visiting the hub first.
-            nav.navigate(Dest.Study.route) {
-              popUpTo("tab_study") { inclusive = false }
+    val selectTab: (String) -> Unit = select@{ route ->
+      val rootRoute = mainTabRootRoute(route) ?: return@select
+      fun liveEntry(): MainTabStackEntry? = nav.currentBackStackEntry?.let { entry ->
+        MainTabStackEntry(
+          entry.id,
+          entry.destination.hierarchy.firstOrNull { it.route in tabRoutes }?.route,
+          entry.destination.route
+        )
+      }
+      if (liveEntry()?.destinationRoute == rootRoute) return@select
+
+      // Scripture links can leave Calendar/Study below a reader so Back still
+      // returns to the origin. A tab click saves those graphs independently:
+      // popping everything above Home would save the reader AS Calendar/Study.
+      val savedTabs = mutableSetOf<String>()
+      fun saveForeignStacks() {
+        saveForeignMainTabStacks(route, ::liveEntry, { entry, saveState ->
+          val graphRoute = entry.tabRoute ?: return@saveForeignMainTabStacks
+          if (saveState) {
+            // Navigation keeps the first snapshot for an ID. Replace it before
+            // saving this graph; never clear an alias after saving fresh state.
+            nav.clearBackStack(graphRoute)
+            if (graphRoute == "tab_read") {
+              val leavingReader = entry.destinationRoute?.startsWith("book/") == true
+              savedReadingNowIdentity = currentReadingNowIdentity.takeIf { leavingReader }
+              savedReadingNowRestoreRoute = "tab_read".takeIf { leavingReader }
+            }
+          }
+          nav.popBackStack(graphRoute, inclusive = true, saveState = saveState)
+        }, savedTabs)
+      }
+      saveForeignStacks()
+
+      if (route == "tab_read") {
+        // Read explicitly opens the library; Reading Now resumes a passage.
+        expireSavedReadingNowState()
+      }
+      if (route == Dest.Home.route) {
+        if (nav.currentDestination?.route != Dest.Home.route) {
+          nav.navigate(Dest.Home.route) {
+            popUpTo(Dest.Home.route) { inclusive = false }
+            launchSingleTop = true
+          }
+        }
+      } else {
+        if (liveEntry()?.tabRoute != route) {
+          nav.navigate(route) {
+            launchSingleTop = true
+            restoreState = route != "tab_read"
+          }
+          // Repair a mixed snapshot saved by an older build. Peeling its foreign
+          // graphs preserves the reader viewport instead of discarding it.
+          saveForeignStacks()
+          if (liveEntry()?.tabRoute != route) {
+            nav.navigate(route) { launchSingleTop = true }
+          }
+        }
+        // Each main button leads to its hub, including Study entered from a
+        // Scripture link. Reuse a live hub to retain its list/calendar state.
+        if (nav.currentDestination?.route != rootRoute) {
+          if (!nav.popBackStack(rootRoute, inclusive = false, saveState = false)) {
+            nav.navigate(rootRoute) {
+              popUpTo(route) { inclusive = false }
               launchSingleTop = true
             }
-          }
-        }
-        route == "tab_read" && currentEntry?.destination?.route != Dest.Read.route -> {
-          // The Read tab opens the library hub. Continue Reading is the
-          // explicit action for returning to a passage, including on reselect.
-          // This new hub replaces any reader state previously saved for the
-          // Read graph, so it must not be offered to Reading Now as a reader.
-          expireSavedReadingNowState()
-          nav.navigate(Dest.Read.route) {
-            // Do not immediately save the reader we just invalidated. Preserve
-            // other tab stacks when the caller came from Study or Calendar.
-            popUpTo(Dest.Home.route) { saveState = currentTab != "tab_read" }
-            launchSingleTop = true
-          }
-        }
-        currentTab != route -> {
-          if (currentTab == "tab_read") {
-            val leavingReader = currentEntry?.destination?.route?.startsWith("book/") == true
-            savedReadingNowIdentity = currentReadingNowIdentity.takeIf { leavingReader }
-            // popBackStack(Home, saveState=true) associates this snapshot with
-            // Home. A normal tab switch associates it with the Read graph.
-            savedReadingNowRestoreRoute = if (leavingReader) {
-              if (route == Dest.Home.route) Dest.Home.route else "tab_read"
-            } else null
-          }
-          if (route == Dest.Home.route) {
-            // Home is the root entry, not a saved tab graph. Restoring its state
-            // can resurrect the reader stack that was saved above it.
-            if (!nav.popBackStack(Dest.Home.route, inclusive = false, saveState = true)) {
-              nav.navigate(Dest.Home.route) { launchSingleTop = true }
-            }
-          } else nav.navigate(route) {
-            popUpTo(Dest.Home.route) { saveState = true }
-            launchSingleTop = true
-            restoreState = true
           }
         }
       }

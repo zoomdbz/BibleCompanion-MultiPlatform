@@ -183,10 +183,37 @@ internal fun restoredReadingNowReaderMatches(
 internal fun invalidatesSavedReadingNowState(route: String): Boolean =
     route == "tab_read" || route == Dest.Read.route || route.startsWith("book/")
 
-/** Study reselection returns to its hub; switching tabs keeps normal save/restore. */
-internal fun shouldReturnToStudyRoot(
-    selectedTab: String,
-    currentTab: String?,
-    currentDestination: String?
-): Boolean = selectedTab == "tab_study" && currentTab == "tab_study" &&
-    currentDestination != null && currentDestination != Dest.Study.route
+internal fun mainTabRootRoute(tabRoute: String): String? = when (tabRoute) {
+    Dest.Home.route -> Dest.Home.route
+    "tab_read" -> Dest.Read.route
+    "tab_study" -> Dest.Study.route
+    "tab_calendar" -> Dest.FeastCalendar.route
+    else -> null
+}
+
+internal data class MainTabStackEntry(
+    val id: String,
+    val tabRoute: String?,
+    val destinationRoute: String?
+)
+
+/**
+ * Cross-tab links retain their Back history until a tab button is pressed.
+ * Save each foreign graph separately, never one mixed snapshot above Home.
+ * If a graph occurs more than once, retain its newest state, not the older one.
+ */
+internal fun saveForeignMainTabStacks(
+    targetTab: String,
+    currentEntry: () -> MainTabStackEntry?,
+    saveAndPop: (MainTabStackEntry, Boolean) -> Unit,
+    savedTabs: MutableSet<String> = mutableSetOf()
+) {
+    val visitedEntries = mutableSetOf<String>()
+    while (true) {
+        val entry = currentEntry() ?: return
+        val tab = entry.tabRoute ?: return
+        if (tab == targetTab || tab == Dest.Home.route || mainTabRootRoute(tab) == null) return
+        if (!visitedEntries.add(entry.id)) return
+        saveAndPop(entry, savedTabs.add(tab))
+    }
+}
