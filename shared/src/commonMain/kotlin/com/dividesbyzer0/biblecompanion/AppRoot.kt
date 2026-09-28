@@ -1969,6 +1969,14 @@ private data class ReaderViewportLayoutSnapshot(
   val viewportHeightPx: Int
 )
 
+// TEMPORARY diagnostic switch. Remove after the rotation trace identifies the
+// state transition that moves a restored semantic anchor into another chapter.
+private const val READER_VIEWPORT_DEBUG = true
+
+private fun readerViewportDebug(message: String) {
+  if (READER_VIEWPORT_DEBUG) println("BC_VIEWPORT $message")
+}
+
 @OptIn(ExperimentalMaterial3Api::class, androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
 fun BookScreen(
@@ -2131,6 +2139,12 @@ fun BookScreen(
     if (viewportHasVisibleVerse && viewportAnchorStoryId != null) {
       viewportRestoreRequestId += 1
       viewportRestorePending = true
+      readerViewportDebug(
+        "request id=$viewportRestoreRequestId anchor=$viewportAnchorStoryId/$viewportAnchorBullet " +
+          "savedOffset=$viewportAnchorOffset width=$lastReaderWidth top=$viewportTopY " +
+          "height=$viewportHeightPx list=${listState.firstVisibleItemIndex}:" +
+          listState.firstVisibleItemScrollOffset
+      )
     }
   }
 
@@ -2168,6 +2182,12 @@ fun BookScreen(
     viewportAnchorStoryId = key.substring(0, separator)
     viewportAnchorBullet = bullet
     viewportAnchorOffset = measurement.rootY - viewportTopY
+    readerViewportDebug(
+      "capture epoch=$epoch anchor=$viewportAnchorStoryId/$viewportAnchorBullet " +
+        "root=${measurement.rootY}..${measurement.rootBottomY} savedOffset=$viewportAnchorOffset " +
+        "width=$lastReaderWidth top=$viewportTopY height=$viewportHeightPx " +
+        "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+    )
   }
 
   // Tab switching and rotation retain the reader's open study sections.
@@ -2589,6 +2609,11 @@ fun BookScreen(
     val requestId = viewportRestoreRequestId
     val key = "$storyId/$viewportAnchorBullet"
     viewportRestoringRequestId = requestId
+    readerViewportDebug(
+      "restore-start id=$requestId target=$key savedOffset=$viewportAnchorOffset " +
+        "width=$lastReaderWidth top=$viewportTopY height=$viewportHeightPx " +
+        "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+    )
     var restored = false
     var completed = false
     try {
@@ -2597,6 +2622,10 @@ fun BookScreen(
       // publish the pre-rotation position under the new generation while
       // scrollToItem is still moving the chapter.
       listState.scrollToItem(item)
+      readerViewportDebug(
+        "restore-origin id=$requestId item=$item " +
+          "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+      )
       positionedVerseRoots.clear()
       val measurementEpoch = viewportMeasurementEpoch + 1
       viewportMeasurementEpoch = measurementEpoch
@@ -2605,12 +2634,29 @@ fun BookScreen(
           .first { it?.generation == measurementEpoch }
       }
       if (measurement != null && viewportRestoreRequestId == requestId && viewportRestorePending) {
-        listState.scrollBy(readerViewportScrollDelta(
+        val requestedDelta = readerViewportScrollDelta(
           measurementRootY = measurement.rootY,
           viewportTopY = viewportTopY,
           savedViewportOffset = viewportAnchorOffset
-        ))
+        )
+        readerViewportDebug(
+          "restore-measure id=$requestId epoch=$measurementEpoch target=$key " +
+            "root=${measurement.rootY}..${measurement.rootBottomY} delta=$requestedDelta " +
+            "top=$viewportTopY list=${listState.firstVisibleItemIndex}:" +
+            listState.firstVisibleItemScrollOffset
+        )
+        val consumedDelta = listState.scrollBy(requestedDelta)
+        readerViewportDebug(
+          "restore-scroll id=$requestId requested=$requestedDelta consumed=$consumedDelta " +
+            "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+        )
         restored = true
+      } else {
+        readerViewportDebug(
+          "restore-no-measure id=$requestId epoch=$measurementEpoch target=$key " +
+            "currentRequest=$viewportRestoreRequestId pending=$viewportRestorePending " +
+            "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+        )
       }
       // On timeout, remain at the semantic chapter start. A raw item offset
       // saved at another width is not a valid fallback: applying it after
@@ -2627,6 +2673,11 @@ fun BookScreen(
       if (viewportRestoringRequestId == requestId) {
         viewportRestoringRequestId = null
       }
+      readerViewportDebug(
+        "restore-final id=$requestId completed=$completed restored=$restored " +
+          "currentRequest=$viewportRestoreRequestId pending=$viewportRestorePending " +
+          "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+      )
     }
   }
   fun openReaderStory(sid: String, verse: Int? = null) {
@@ -2881,13 +2932,27 @@ fun BookScreen(
                 .onSizeChanged { size ->
                   val width = size.width
                   if (lastReaderWidth != 0 && lastReaderWidth != width) {
+                    readerViewportDebug(
+                      "width old=$lastReaderWidth new=$width anchor=" +
+                        "$viewportAnchorStoryId/$viewportAnchorBullet list=" +
+                        "${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+                    )
                     requestViewportRestore()
                   }
                   lastReaderWidth = width
                 }
                 .onGloballyPositioned { coords ->
-                  viewportTopY = coords.positionInRoot().y
-                  viewportHeightPx = coords.size.height
+                  val newTop = coords.positionInRoot().y
+                  val newHeight = coords.size.height
+                  if (viewportTopY != newTop || viewportHeightPx != newHeight) {
+                    readerViewportDebug(
+                      "viewport old=$viewportTopY/$viewportHeightPx new=$newTop/$newHeight " +
+                        "width=$lastReaderWidth list=${listState.firstVisibleItemIndex}:" +
+                        listState.firstVisibleItemScrollOffset
+                    )
+                  }
+                  viewportTopY = newTop
+                  viewportHeightPx = newHeight
                 }
             ) {
               if (book?.intro?.isNotBlank() == true) {
@@ -2941,6 +3006,17 @@ fun BookScreen(
                       rootBottomY = rootBottomY,
                       generation = epoch
                     )
+                    if (
+                      viewportRestorePending &&
+                      storyId == viewportAnchorStoryId &&
+                      bulletIndex == viewportAnchorBullet
+                    ) {
+                      readerViewportDebug(
+                        "publish epoch=$epoch target=$storyId/$bulletIndex root=$rootY..$rootBottomY " +
+                          "expectedEpoch=$viewportMeasurementEpoch list=" +
+                          "${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+                      )
+                    }
                   },
                   story = story,
                   prefs = prefs.copy(internalBibleVersion = activeEditionId),

@@ -332,7 +332,14 @@ internal fun ReaderScripture(
         val verseInViewport = rootY - viewportTopState.value
         val targetInViewport = viewportHeightState.value * 0.22f
         val delta = verseInViewport - targetInViewport
-        if (kotlin.math.abs(delta) > 2f) runCatching { listState.scrollBy(delta) }
+        if (kotlin.math.abs(delta) > 2f) {
+          println(
+            "BC_VIEWPORT gold-scroll story=${story.id} bullet=$firstGoldIndex " +
+              "epoch=$measurementEpoch root=$rootY top=${viewportTopState.value} " +
+              "height=${viewportHeightState.value} delta=$delta"
+          )
+          runCatching { listState.scrollBy(delta) }
+        }
       }
     }
 
