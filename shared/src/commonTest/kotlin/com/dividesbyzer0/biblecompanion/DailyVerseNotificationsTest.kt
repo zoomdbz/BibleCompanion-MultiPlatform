@@ -1,11 +1,34 @@
 package com.dividesbyzer0.biblecompanion
 
+import kotlinx.serialization.decodeFromString
+import kotlinx.serialization.encodeToString
+import kotlinx.serialization.json.Json
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 class DailyVerseNotificationsTest {
+  @Test fun notificationActionTitlesKeepExistingJsonKeys() {
+    val raw = """{"title":"Verse of the Day","copy":"Copy","share":"Share","copied":"Copied to clipboard"}"""
+    val labels = Json.decodeFromString<DailyVerseNotificationLabels>(raw)
+
+    assertEquals("Copy", labels.copyActionTitle)
+    assertEquals("Share", labels.shareActionTitle)
+    assertEquals(Json.parseToJsonElement(raw), Json.parseToJsonElement(Json.encodeToString(labels)))
+  }
+
+  @Test fun notificationActionTitlesPreserveLocalizedText() {
+    val raw = """{"title":"每日經文","copy":"複製","share":"分享","copied":"已複製到剪貼簿"}"""
+    val labels = Json.decodeFromString<DailyVerseNotificationLabels>(raw)
+
+    assertEquals("每日經文", labels.title)
+    assertEquals("複製", labels.copyActionTitle)
+    assertEquals("分享", labels.shareActionTitle)
+    assertEquals("已複製到剪貼簿", labels.copied)
+    assertEquals(Json.parseToJsonElement(raw), Json.parseToJsonElement(Json.encodeToString(labels)))
+  }
+
   @Test fun remindersDefaultToOffWithNineAmTime() {
     assertFalse(PrefsState().dailyVerseNotifications)
     assertEquals(540, PrefsState().dailyVerseNotificationMinuteOfDay)

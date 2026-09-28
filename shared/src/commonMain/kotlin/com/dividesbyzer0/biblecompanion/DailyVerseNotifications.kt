@@ -4,6 +4,7 @@ import com.dividesbyzer0.biblecompanion.platform.PlatformContext
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
+import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
@@ -67,8 +68,9 @@ object DailyVerseNotificationBridge {
 @Serializable
 data class DailyVerseNotificationLabels(
   val title: String,
-  val copy: String,
-  val share: String,
+  // Avoid NSObject.copy() in Swift while preserving the bundled JSON keys.
+  @SerialName("copy") val copyActionTitle: String,
+  @SerialName("share") val shareActionTitle: String,
   val copied: String
 )
 
@@ -130,7 +132,7 @@ object DailyVerseNotifications {
         labels.title, text, reference,
         Dest.BookView.route(collection, bookId, story, verse = first, verseEnd = last,
           sourceLang = language, sourceEdition = edition),
-        language, edition, labels.copy, labels.share, labels.copied
+        language, edition, labels.copyActionTitle, labels.shareActionTitle, labels.copied
       )
     }
     return null

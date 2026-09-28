@@ -265,8 +265,8 @@ final class DailyVerseNotificationManager: NSObject, DailyVerseNotificationHost,
                     return
                 }
                 let actions = [
-                    UNNotificationAction(identifier: "daily-copy", title: labels.copy, options: [.foreground]),
-                    UNNotificationAction(identifier: "daily-share", title: labels.share, options: [.foreground])
+                    UNNotificationAction(identifier: "daily-copy", title: labels.copyActionTitle, options: [.foreground]),
+                    UNNotificationAction(identifier: "daily-share", title: labels.shareActionTitle, options: [.foreground])
                 ]
                 self.center.setNotificationCategories([UNNotificationCategory(
                     identifier: self.category, actions: actions, intentIdentifiers: [], options: [])])
