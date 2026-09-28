@@ -314,13 +314,15 @@ fun colorSchemeFor(
   dark: Boolean,
   customHue: Float = 210f,
   customSaturation: Float = 1f,
-  customLightness: Float = .5f
+  customLightness: Float = .5f,
+  customSecondary: CustomThemeColor? = null,
+  customTertiary: CustomThemeColor? = null
 ): ColorScheme = when (preset) {
-  ThemePreset.Parchment, ThemePreset.Dynamic -> if (dark) ParchmentDark else ParchmentLight
-  ThemePreset.Sage -> if (dark) SageDark else SageLight
-  ThemePreset.Indigo -> if (dark) IndigoDark else IndigoLight
-  ThemePreset.Ink -> if (dark) InkDark else InkLight
-  ThemePreset.Custom -> customColorScheme(customHue, customSaturation, customLightness, dark)
+  ThemePreset.Parchment, ThemePreset.Dynamic -> (if (dark) ParchmentDark else ParchmentLight).withRelatedTertiary()
+  ThemePreset.Sage -> (if (dark) SageDark else SageLight).withRelatedTertiary()
+  ThemePreset.Indigo -> (if (dark) IndigoDark else IndigoLight).withRelatedTertiary()
+  ThemePreset.Ink -> (if (dark) InkDark else InkLight).withRelatedTertiary()
+  ThemePreset.Custom -> customColorScheme(customHue, customSaturation, customLightness, dark, customSecondary, customTertiary)
 }
 
 private fun normalizedHue(hue: Float): Float {
@@ -386,21 +388,29 @@ private fun textSafeAccent(hue: Float, saturation: Float, lightness: Float, surf
   return customThemeSeedColor(hue, saturation, if (dark) high else low)
 }
 
-private fun customColorScheme(hue: Float, saturation: Float, lightness: Float, dark: Boolean): ColorScheme {
+private fun customColorScheme(
+  hue: Float,
+  saturation: Float,
+  lightness: Float,
+  dark: Boolean,
+  customSecondary: CustomThemeColor?,
+  customTertiary: CustomThemeColor?
+): ColorScheme {
   val h = normalizedHue(hue)
   val s = unitInterval(saturation, 1f)
   val l = unitInterval(lightness, .5f)
-  val h2 = normalizedHue(h + 38f)
-  val h3 = normalizedHue(h + 78f)
+  val seed = CustomThemeColor(h, s, l)
+  val second = customSecondary?.normalized() ?: matchingThemeAccent(seed, CustomThemeRole.Secondary)
+  val third = customTertiary?.normalized() ?: matchingThemeAccent(seed, CustomThemeRole.Tertiary)
   val neutralSaturation = s * .08f
   val background = customThemeSeedColor(h, neutralSaturation, if (dark) .12f else .98f)
   val surface = background
   val primaryContainer = customThemeSeedColor(h, s, l)
-  val secondaryContainer = customThemeSeedColor(h2, s, if (dark) .40f else .62f)
-  val tertiaryContainer = customThemeSeedColor(h3, s, if (dark) .40f else .62f)
+  val secondaryContainer = customThemeSeedColor(second.hue, second.saturation, second.lightness)
+  val tertiaryContainer = customThemeSeedColor(third.hue, third.saturation, third.lightness)
   val primary = textSafeAccent(h, s, l, surface, dark)
-  val secondary = textSafeAccent(h2, s, l, surface, dark)
-  val tertiary = textSafeAccent(h3, s, l, surface, dark)
+  val secondary = textSafeAccent(second.hue, second.saturation, second.lightness, surface, dark)
+  val tertiary = textSafeAccent(third.hue, third.saturation, third.lightness, surface, dark)
   val outline = textSafeAccent(h, s * .55f, l, surface, dark)
   val outlineVariant = textSafeAccent(h, s * .32f, l, surface, dark)
 
@@ -475,21 +485,24 @@ fun customThemeSwatch(
   hue: Float,
   dark: Boolean,
   saturation: Float = 1f,
-  lightness: Float = .5f
+  lightness: Float = .5f,
+  tertiary: CustomThemeColor? = null
 ): ThemeSwatch {
+  val accent = tertiary?.normalized()
+    ?: matchingThemeAccent(CustomThemeColor(hue, saturation, lightness), CustomThemeRole.Tertiary)
   return ThemeSwatch(
     primary = customThemeSeedColor(hue, saturation, lightness),
     surface = customThemeSeedColor(hue, saturation * .08f, if (dark) .12f else .98f),
-    secondary = customThemeSeedColor(hue + 78f, saturation, lightness)
+    secondary = customThemeSeedColor(accent.hue, accent.saturation, accent.lightness)
   )
 }
 
 /**
- * Keeps Android's wallpaper-derived accent roles intact while making its dark neutral
- * surfaces less black and easier to distinguish. Material role pairs remain untouched.
+ * Keep the wallpaper's primary/secondary roles and relate tertiary to those colors.
+ * Lift dark neutral surfaces without changing the user's wallpaper-derived base.
  */
 internal fun comfortableDynamicColorScheme(scheme: ColorScheme, dark: Boolean): ColorScheme {
-  if (!dark) return scheme
+  if (!dark) return scheme.withRelatedTertiary()
 
   fun surfaceAt(fraction: Float): Color = lerp(scheme.surface, scheme.onSurface, fraction)
   return scheme.copy(
@@ -503,6 +516,18 @@ internal fun comfortableDynamicColorScheme(scheme: ColorScheme, dark: Boolean): 
     surfaceContainerHighest = surfaceAt(0.21f),
     surfaceBright = surfaceAt(0.27f),
     outlineVariant = surfaceAt(0.48f)
+  ).withRelatedTertiary()
+}
+
+/** A supporting accent, not a third unrelated hue competing with the page. */
+private fun ColorScheme.withRelatedTertiary(): ColorScheme {
+  val accent = lerp(secondary, primary, .2f)
+  val container = lerp(secondaryContainer, primaryContainer, .2f)
+  return copy(
+    tertiary = accent,
+    onTertiary = contrastOn(accent),
+    tertiaryContainer = container,
+    onTertiaryContainer = contrastOn(container)
   )
 }
 

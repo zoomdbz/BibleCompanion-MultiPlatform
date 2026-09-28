@@ -189,7 +189,7 @@ Darío consulta los archivos, confirma la orden de Ciro, financia la obra y la p
 
 En el séptimo año de Artajerjes, Esdras recibe una comisión real. El rey autoriza el regreso a Jerusalén, abastece el templo, concede amplios privilegios económicos y ordena a Esdras nombrar magistrados y jueces que hagan cumplir la ley de Dios (Esdras 7:7-9, 11-26). Esta medida va más allá de la construcción y alcanza el orden civil y del pacto restaurado en Jerusalén.
 
-Más adelante, Esdras afirma que los reyes persas dieron protección a Judá y permitieron restaurar la casa de Dios (Esdras 9:9). Antes, los adversarios habían descrito a los exiliados retornados como reconstructores de las murallas y los cimientos de Jerusalén, y consiguieron una orden de detener la obra hasta recibir una nueva autorización (Esdras 4:12-13, 21). Estos textos forman el argumento bíblico para considerar la comisión de Artajerjes a Esdras como la orden efectiva de restaurar Jerusalén, no solo su templo.
+Más adelante, Esdras afirma que los reyes persas dieron a Judá un "muro de protección" y permitieron restaurar la casa de Dios (Esdras 9:9). Antes, los adversarios habían descrito a los exiliados retornados como reconstructores de las murallas y los cimientos de Jerusalén, y consiguieron una orden de detener la obra hasta recibir una nueva autorización (Esdras 4:12-13, 21). Estos textos forman el argumento bíblico para considerar la comisión de Artajerjes a Esdras como la orden efectiva de restaurar Jerusalén, no solo su templo.
 
 ### Artajerjes y Nehemías: las murallas expresamente mencionadas
 

@@ -16,13 +16,13 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 ## 1. I Tre Cieli  
 **Significato semplice:** La Bibbia usa «cielo/cieli» in più di un senso.  
 
-- **(Genesi 1:8)** – «Dio chiamò l’espansione Cielo.»  
+- **(Genesi 1:8)** – «Dio chiamò l’espansione Cielo.» *(il cielo visibile)*  
 
-- **(Daniele 10:13)** – «Il principe del regno di Persia mi ha resistito ventuno giorni.»  
+- **(Daniele 10:13)** – «Il principe del regno di Persia mi ha resistito ventuno giorni.» *(un conflitto spirituale nel regno invisibile)*  
 
-- **(Efesini 6:12)** – «Le forze spirituali della malvagità nei luoghi celesti.»  
+- **(Efesini 6:12)** – «Le forze spirituali della malvagità nei luoghi celesti.» *(il campo di battaglia degli spiriti)*  
 
-- **(2 Corinzi 12:2–4)** – «Fu rapito fino al terzo cielo… nel Paradiso.»  
+- **(2 Corinzi 12:2–4)** – «Fu rapito fino al terzo cielo… nel Paradiso.» *(la dimora di Dio)*  
 
 **Conclusione (Scrittura):** La Bibbia identifica più cieli: il cielo visibile (Genesi 1:8), la sfera di conflitto spirituale (Daniele 10:13; Ef 6:12) e il luogo della dimora di Dio (2 Corinzi 12:2–4).  
 
@@ -70,7 +70,7 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 
 2. Gli altri sono ancora attivi fino al giudizio finale.  
 
-3. Alla fine tutti saranno gettati nello stagno di fuoco (Ap 20:10).  
+3. Tutti subiranno la sconfitta definitiva quando Cristo ritornerà (Ap 20:10).  
 
 ---  
 
@@ -200,7 +200,7 @@ Anche i santi più fedeli sono esempi di fede, non mediatori. L’adorazione, la
 
 - **(Romani 1:22–23)** – Scambiarono la gloria di Dio con immagini.  
 
-**Conclusione (Scrittura):** Gli dèi delle nazioni sono idoli (Sal 96:5), il falso culto è legato a Satana (Ap 13:4). Gesù affermò la sua unità con il Padre (Gv 10:30). Paolo rifiutò il culto agli dèi greci e romani (At 14:15).  
+**Conclusione (Scrittura):** Gli dèi stranieri sono idoli (Sal 96:5); i cosiddetti dèi sono falsi (1 Corinzi 8:5–6); il falso culto si schiera con Satana (Ap 13:4). Gesù affermò la sua unità con il Padre (Gv 10:30). Paolo chiama gli dèi greci e romani «cose vane» (At 14:11–15), e Romani 1:23 dice che l’idolatria distorce la gloria di Dio. Gli dèi nordici appartengono alla stessa categoria: nomi culturali per lo stesso inganno demoniaco.  
 
 ---  
 
@@ -289,13 +289,13 @@ Il Corano onora Gesù (*ʿĪsā*) come profeta, ma nega la sua crocifissione e r
 Il Corano stesso conferma la Torà e il Vangelo come rivelazioni autentiche.
 
 **Corano 5:44 (Sahih International)**
-> «In verità abbiamo fatto scendere la Torà, in cui c’erano guida e luce…»
+> «In verità abbiamo fatto scendere la Torà, in cui c’erano guida e luce. I profeti che si erano sottomessi [ad Allah] giudicavano per mezzo di essa i Giudei, come facevano i rabbini e i dotti in virtù di ciò che della Scrittura di Allah era stato affidato loro, e ne erano testimoni.»
 
 **Corano 5:46 (Sahih International)**
-> «E abbiamo mandato, seguendo le loro orme, Gesù figlio di Maria, confermando ciò che era venuto prima di lui nella Torà; e gli abbiamo dato il Vangelo, in cui c’è guida e luce…»
+> «E abbiamo mandato, seguendo le loro orme, Gesù figlio di Maria, confermando ciò che era venuto prima di lui nella Torà; e gli abbiamo dato il Vangelo, in cui c’erano guida e luce, che confermava ciò che lo precedeva della Torà come guida e istruzione per i giusti.»
 
 **Corano 10:94 (Sahih International)**
-> «Se sei in dubbio riguardo a quello che abbiamo fatto scendere su di te, chiedi a coloro che leggevano la Scrittura prima di te…»
+> «Se dunque sei in dubbio, [o Maometto], riguardo a ciò che ti abbiamo rivelato, chiedi a coloro che leggevano la Scrittura prima di te. La verità ti è certamente giunta dal tuo Signore; non essere dunque tra coloro che dubitano.»
 
 La Bibbia afferma la propria conservazione.
 
@@ -336,7 +336,7 @@ La Bibbia afferma la propria conservazione.
 L’Islam rispetta Gesù (*ʿĪsā*) come profeta, ma nega la sua divinità, la sua figliolanza e la crocifissione.
 
 **Corano 4:171 (Sahih International)**
-> «O gente della Scrittura, non eccedete nella vostra religione… Non dite: “Tre”… Esaltato è Lui dall’avere un figlio.»
+> «O gente della Scrittura, non eccedete nella vostra religione e non dite di Allah altro che la verità. Il Messia, Gesù figlio di Maria, non era che un messaggero di Allah, la Sua parola che Egli rivolse a Maria e uno spirito [creato per Suo comando] proveniente da Lui. Credete dunque in Allah e nei Suoi messaggeri. Non dite: “Tre”; desistete, è meglio per voi. Allah è un solo Dio. Esaltato è Lui dall’avere un figlio.»
 
 La Bibbia identifica Gesù come Figlio eterno di Dio, uguale al Padre.
 
@@ -351,14 +351,14 @@ La Bibbia identifica Gesù come Figlio eterno di Dio, uguale al Padre.
 > Gesù disse: «Io e il Padre siamo uno.»
 
 **(Ebrei 1:3)**
-> «Egli è lo splendore della gloria di Dio e l’impronta della sua essenza… dopo aver compiuto la purificazione dei peccati, si è seduto alla destra della Maestà nei luoghi altissimi.»
+> «Egli è lo splendore della gloria di Dio e l’impronta esatta della sua essenza, e sostiene l’universo con la parola della sua potenza. Dopo aver compiuto la purificazione dei peccati, si è seduto alla destra della Maestà nei luoghi altissimi.»
 
 **(Matteo 3:16–17)**
-> «Appena battezzato Gesù… venne una voce dal cielo: “Questo è il mio diletto Figlio, nel quale mi sono compiaciuto.”»
+> «Appena battezzato, Gesù uscì subito dall’acqua; ed ecco, i cieli si aprirono ed egli vide lo Spirito di Dio scendere come una colomba e posarsi su di lui. Ed ecco, una voce dal cielo disse: “Questo è il mio diletto Figlio, nel quale mi sono compiaciuto.”»
 
 La dottrina della Trinità afferma un solo Dio in tre Persone.
 
-**(2 Corinzi 13:14)**
+**(2 Corinzi 13:13)**
 > «La grazia del Signore Gesù Cristo, l’amore di Dio e la comunione dello Spirito Santo siano con tutti voi.»
 
 **(Matteo 28:19)**
@@ -373,7 +373,7 @@ Il Corano **4:157** nega la crocifissione, ma l’evento è così ben attestato 
 
 **Corano 4:157 (Sahih International)**
 
-> *«Non l’hanno ucciso né crocifisso; ma fu fatto loro sembrare così… di certo non l’hanno ucciso.»*
+> *«E per aver detto: “Abbiamo ucciso il Messia, Gesù figlio di Maria, il messaggero di Allah”. Ma non l’hanno ucciso né crocifisso; un altro fu reso simile a lui ai loro occhi. In verità, coloro che dissentono su questo ne sono nel dubbio. Non ne hanno conoscenza, ma seguono soltanto supposizioni. Di certo non l’hanno ucciso.»*
 
 L’Islam insegna che Gesù non fu crocifisso. Ma la Bibbia e gli storici lo testimoniano chiaramente.
 
@@ -381,7 +381,7 @@ L’Islam insegna che Gesù non fu crocifisso. Ma la Bibbia e gli storici lo tes
 
 **(Giovanni 19:16–18)**
 
-> *«Allora lo consegnò perché fosse crocifisso… Là lo crocifissero…»*
+> *«Allora lo consegnò loro perché fosse crocifisso. Presero dunque Gesù, ed egli uscì portando la propria croce verso il luogo detto del Teschio, che in aramaico si chiama Golgota. Là lo crocifissero e con lui altri due, uno da una parte e uno dall’altra, e Gesù nel mezzo.»*
 
 **(Luca 23:46)**
 
@@ -465,7 +465,7 @@ Questa obiezione crolla di fronte sia alla Scrittura sia alla storia laica:
 
 **(Giovanni 19:33–34)**
 
-> «Gesù era già morto… ma uno dei soldati gli trafisse il costato con una lancia, e subito ne uscì sangue e acqua.»
+> «Ma quando giunsero da Gesù e videro che era già morto, non gli spezzarono le gambe. Uno dei soldati gli trafisse invece il costato con una lancia, e subito ne uscì sangue e acqua.»
 
 **Storici laici:**
 
@@ -501,7 +501,7 @@ La Legge è santa e rivela lo standard di Dio; ma nessun uomo l’ha adempiuta p
 > «La legge è stata un pedagogo per condurci a Cristo, affinché fossimo giustificati per fede.»
 
 **(Romani 8:3–4)**
-> «Ciò che la legge non poteva fare, perché la carne la rendeva impotente, Dio lo ha fatto… ha condannato il peccato nella carne, affinché il giusto requisito della legge fosse adempiuto in noi…»
+> «Ciò che la legge non poteva fare, perché la carne la rendeva impotente, Dio lo ha fatto mandando il proprio Figlio in una carne simile a quella del peccato e a motivo del peccato; ha condannato il peccato nella carne, affinché il giusto requisito della legge fosse adempiuto in noi, che non camminiamo secondo la carne ma secondo lo Spirito.»
 
 **(Ebrei 4:15)**
 > «Non abbiamo un sommo sacerdote che non possa simpatizzare con le nostre debolezze; anzi, uno che è stato tentato come noi in ogni cosa, senza peccare.»
@@ -513,10 +513,10 @@ Il vangelo annuncia la salvezza come dono di grazia mediante la fede in Cristo, 
 > «Infatti è per grazia che siete stati salvati, mediante la fede; e ciò non viene da voi, è il dono di Dio; non per opere, affinché nessuno si vanti.»
 
 **(Giovanni 5:24)**
-> «Chi ascolta la mia parola e crede a colui che mi ha mandato ha vita eterna… è passato dalla morte alla vita.»
+> «In verità, in verità vi dico: chi ascolta la mia parola e crede a colui che mi ha mandato ha vita eterna. Non viene in giudizio, ma è passato dalla morte alla vita.»
 
 **(Giovanni 11:25–26)**
-> «Io sono la risurrezione e la vita… Chi vive e crede in me non morirà mai.»
+> «Gesù le disse: Io sono la risurrezione e la vita. Chi crede in me, anche se muore, vivrà; e chiunque vive e crede in me non morirà mai. Credi tu questo?»
 
 **Punto chiave:** L’Islam insegna la salvezza per Legge e opere; la Bibbia mostra che la Legge condanna tutti e rimanda a Cristo, che solo l’ha adempiuta. La salvezza è solo per grazia mediante la fede in Gesù.
 
@@ -531,18 +531,18 @@ Maometto sposò Aisha a sei anni e consumò a nove (Sahih al-Bukhari 5133, 5134)
 La Torà proibisce lo sfruttamento dei minori, chiamandolo malvagio.
 
 **(Deuteronomio 22:25–27)**
-> «Se un uomo trova in campagna una giovane fidanzata e la violenta… l’uomo morirà… ma alla giovane non farai nulla…»
+> «Ma se un uomo incontra in campagna una giovane fidanzata, la afferra e giace con lei, morirà soltanto l’uomo che è giaciuto con lei. Alla giovane non farai nulla; non ha commesso un peccato degno di morte. Il caso è come quello di un uomo che assale e uccide il suo prossimo, perché egli l’ha incontrata in campagna e, sebbene la giovane fidanzata abbia gridato aiuto, non c’era nessuno che la soccorresse.»
 
 I bambini non possono acconsentire; la consumazione è sfruttamento e coercizione.
 
 #### 2) Poligamia oltre i limiti
 **Corano 4:3 (Sahih International)**
-> «Sposate due, tre o quattro… ma se temete di non essere giusti, una sola…»
+> «E se temete di non essere giusti con le orfane, sposate fra le [altre] donne quelle che vi piacciono, due, tre o quattro. Ma se temete di non essere giusti, allora [sposatene] una sola o quelle che la vostra mano destra possiede. Questo è più adatto affinché non incliniate [all’ingiustizia].»
 
 Maometto prese più di quattro mogli, superando il limite del Corano e la proibizione della Torà.
 
 **(Deuteronomio 17:17)**
-> «Non abbia molte mogli, affinché il suo cuore non si svii…»
+> «Non abbia molte mogli, affinché il suo cuore non si svii, e non accumuli per sé argento e oro in quantità eccessiva.»
 
 #### 3) Moglie del figlio adottivo
 **Corano 33:37 (Sahih International)**
@@ -555,7 +555,7 @@ La Torà proibisce unione del genere.
 
 #### 4) Violenza e conversioni forzate
 **Corano 9:5 (Sahih International)**
-> «Uccidete i politeisti ovunque li troviate… se si pentono, stabiliscono la preghiera e danno la zakat, lasciateli andare.»
+> «Quando saranno trascorsi i mesi sacri, uccidete i politeisti ovunque li troviate, catturateli, assediateli e appostatevi contro di loro in ogni luogo d’agguato. Ma se si pentono, stabiliscono la preghiera e danno la zakat, lasciateli andare per la loro strada. In verità Allah è perdonatore e misericordioso.»
 
 Invece la Legge condanna l’omicidio e Gesù rifiutò la violenza per la fede.
 
@@ -563,7 +563,7 @@ Invece la Legge condanna l’omicidio e Gesù rifiutò la violenza per la fede.
 > «Non uccidere.»
 
 **(Matteo 26:52)**
-> «Rimetti la tua spada… tutti quelli che mettono mano alla spada periranno di spada.»
+> «Allora Gesù gli disse: Rimetti la tua spada al suo posto, perché tutti quelli che mettono mano alla spada periranno di spada.»
 
 #### 5) Negazione di Cristo
 Il Corano nega la figliolanza e la croce.
@@ -580,16 +580,16 @@ Il Corano nega la figliolanza e la croce.
 La Bibbia insegna l’opposto: Gesù è il Figlio eterno di Dio, crocifisso e risorto.
 
 **(Isaia 53:5)**
-> «…per le sue lividure noi siamo stati guariti.»
+> «Ma egli è stato trafitto per le nostre trasgressioni e schiacciato per le nostre iniquità; il castigo che ci ha dato pace è caduto su di lui, e per le sue lividure noi siamo stati guariti.»
 
 **(Salmo 22:16–18)**
-> «…hanno forato le mie mani e i miei piedi… si spartiscono le mie vesti…»
+> «Poiché cani mi circondano, una banda di malfattori mi accerchia; hanno forato le mie mani e i miei piedi. Posso contare tutte le mie ossa; essi mi guardano e gioiscono alla mia vista. Si spartiscono le mie vesti e tirano a sorte il mio abito.»
 
 **(Giovanni 3:16)**
-> «Dio ha tanto amato il mondo…»
+> «Dio ha tanto amato il mondo da dare il suo Figlio unigenito, affinché chiunque crede in lui non perisca ma abbia vita eterna.»
 
 **(1 Corinzi 15:3–4)**
-> «Cristo morì per i nostri peccati… fu sepolto… risuscitò il terzo giorno…»
+> «Vi ho trasmesso anzitutto ciò che anch’io ho ricevuto: Cristo morì per i nostri peccati secondo le Scritture, fu sepolto e risuscitò il terzo giorno secondo le Scritture.»
 
 #### 6. Schiavitù e Stupro
 
@@ -678,7 +678,7 @@ Contrasto evidente.
 
 ### Contraddizioni e omissioni nel Corano
 
-L’Islam dichiara il Corano privo di contraddizioni; tuttavia compaiono conflitti nel testo e nella tradizione.
+L’Islam insegna che il Corano è perfetto e privo di contraddizioni. Tuttavia, anche nel testo e nella tradizione islamica compaiono conflitti e materiale mancante.
 
 #### 1) Cronologia della creazione
 **Corano 7:54**: sei giorni.
@@ -687,7 +687,7 @@ L’Islam dichiara il Corano privo di contraddizioni; tuttavia compaiono conflit
 > Di': «Davvero non credete in Colui che creò la terra in due giorni e Gli attribuite eguali? Egli è il Signore dei mondi. E pose sulla terra montagne stabili sopra di essa, la benedisse e vi stabilì i suoi sostentamenti in quattro giorni, in misura uguale per chi chiede. Poi Si rivolse al cielo quando era fumo e disse a esso e alla terra: “Venite, di buon grado o per forza.” Dissero: “Siamo venuti di buon grado.” E li completò in sette cieli in due giorni e ispirò a ciascun cielo il suo ordine. E abbellimmo il cielo più vicino con luminari e come protezione. Tale è la determinazione dell’Onnipotente, del Sapiente.»
 
 
-La Bibbia: sei giorni di creazione, settimo di riposo (Genesi 1:31–2:2).
+Nel complesso, la sura 41 descrive otto giorni, non sei. La Bibbia è coerente: Dio creò in sei giorni e si riposò il settimo (Genesi 1:31–2:2).
 
 #### 2) Vino: benedizione o impurità?
 **Corano 16:67**: bevanda inebriante e buon sostentamento.
@@ -758,16 +758,16 @@ L’Islam proclama un Dio unico e onora Gesù come profeta, ma nega la sua figli
 La Legge smaschera il peccato; solo Cristo l’ha adempiuta perfettamente.
 
 **(Romani 3:23–24)**
-> «Tutti hanno peccato… e sono giustificati gratuitamente per la sua grazia, mediante la redenzione che è in Cristo Gesù.»
+> «Tutti hanno peccato e sono privi della gloria di Dio, e sono giustificati gratuitamente per la sua grazia, mediante la redenzione che è in Cristo Gesù.»
 
 **(Efesini 2:8–9)**
-> «Per grazia siete stati salvati, mediante la fede… non per opere, affinché nessuno si vanti.»
+> «Per grazia siete stati salvati mediante la fede. E ciò non viene da voi; è il dono di Dio, non in virtù di opere, affinché nessuno si vanti.»
 
 **(Atti 4:12)**
-> «In nessun altro c’è salvezza…»
+> «In nessun altro c’è salvezza, perché non vi è sotto il cielo nessun altro nome dato agli uomini per mezzo del quale dobbiamo essere salvati.»
 
 **(Giovanni 11:25–26)**
-> «Io sono la risurrezione e la vita… Credi tu questo?»
+> «Gesù le disse: Io sono la risurrezione e la vita. Chi crede in me, anche se muore, vivrà; e chiunque vive e crede in me non morirà mai. Credi tu questo?»
 
 **Punto chiave:**
 
@@ -825,7 +825,7 @@ Allora cos’è più probabile?
 **Cosa dice la Scrittura sul Messia:**
 - (Isaia 7:14) – «Ecco, la vergine concepirà e partorirà un figlio, e lo chiamerà Emmanuele.»
 
-- (Michea 5:2) – Il Messia nascerà a Betlemme.
+- (Michea 5:1) – Il Messia nascerà a Betlemme.
 
 - (Isaia 53:5) – «Egli è stato trafitto a causa delle nostre trasgressioni, schiacciato a causa delle nostre iniquità; il castigo per cui abbiamo pace è caduto su di lui, e per le sue lividure noi siamo stati guariti.»
 
@@ -841,11 +841,11 @@ Allora cos’è più probabile?
 
 - **Obiezione: Il Messia doveva portare pace, ma Gesù ha portato divisione.**
 
-  - (Michea 5:5) promette pace, ma (Isaia 53) mostra che il Messia doveva prima soffrire per il peccato. La pace completa verrà alla sua seconda venuta (Apocalisse 21:4).
+  - (Michea 5:4) promette pace, ma (Isaia 53) mostra che il Messia doveva prima soffrire per il peccato. La pace completa verrà alla sua seconda venuta (Apocalisse 21:4).
 
 - **Obiezione: Dio non può diventare uomo.**
 
-  - (Isaia 9:6) chiama il bambino che nascerà «Dio potente» (El Gibbor).
+  - (Isaia 9:5) chiama il bambino che nascerà «Dio potente» (El Gibbor).
 
   - (Geremia 23:6) chiama il re che verrà «Il Signore, nostra giustizia.»
 
@@ -874,7 +874,7 @@ Per immaginarlo: se coprissi lo Stato del Texas con monete d’argento profonde 
 Ma Gesù non ne ha adempiute solo 8; ne ha adempiute **centinaia**. Statisticamente, questo supera ogni comprensione umana. È come vincere la lotteria non una sola volta, ma ogni giorno per il resto della vita, o come contare ogni granello di sabbia su una spiaggia e cadere esattamente su quello giusto. L’impossibilità dal punto di vista umano mette in evidenza la certezza divina che Gesù è il Messia.
 
 **Conclusione chiave (Scrittura):**  
-Gesù è il Messia annunciato nelle Scritture ebraiche. Nato da una vergine (Isaia 7:14), da Betlemme (Michea 5:2), divino per natura (Isaia 9:6), crocifisso e trafitto per i peccati (Isaia 53:5; Zaccaria 12:10), e soppresso prima della caduta del Tempio (Daniele 9:26). Rifiutarlo significa perdere le promesse stesse che Dio ha dato tramite i profeti.
+Gesù è il Messia annunciato nelle Scritture ebraiche. Nato da una vergine (Isaia 7:14), da Betlemme (Michea 5:1), divino per natura (Isaia 9:5), crocifisso e trafitto per i peccati (Isaia 53:5; Zaccaria 12:10), e soppresso prima della caduta del Tempio (Daniele 9:26). Rifiutarlo significa perdere le promesse stesse che Dio ha dato tramite i profeti.
 
 ---
 
@@ -1064,7 +1064,7 @@ Per un trattamento sistematico più approfondito di ciascun movimento elencato q
 
 - **Nessun secondo messia** – (Matteo 24:23–27) (Apocalisse 1:7).
 
-- **Un solo Dio: Padre, Figlio e Spirito** – (Matteo 28:19) (2 Corinzi 13:14).
+- **Un solo Dio: Padre, Figlio e Spirito** – (Matteo 28:19) (2 Corinzi 13:13).
 
 **Conclusione:** Aggiungere un secondo Cristo e una «Dio Madre» non supera le prove di (Deuteronomio 13:1–3) e (Matteo 24:23–27).
 
@@ -1108,7 +1108,7 @@ Per un trattamento sistematico più approfondito di ciascun movimento elencato q
 
 - **Il Figlio prega il Padre e promette lo Spirito** – (Giovanni 14:16–17) (Giovanni 17:1–5).
 
-- **Benedizione apostolica che nomina tutti e tre** – (2 Corinzi 13:14).
+- **Benedizione apostolica che nomina tutti e tre** – (2 Corinzi 13:13).
 
 ### Perché non è Cristianesimo biblico:
 
@@ -1166,7 +1166,7 @@ Tieni saldamente la fede che è stata trasmessa una volta per sempre ai santi (G
 
 **Spiegazione semplice:** La venuta di Cristo costringe a una scelta; non c’è neutralità.  
 
-- **(Matteo 10:34)** – «Non pensate che io sia venuto a portare pace… ma una spada.»  
+- **(Matteo 10:34)** – «Non pensate che io sia venuto a portare pace sulla terra. Non sono venuto a portare pace, ma una spada.»  
 
 - **(Giovanni 8:39–41)** – Alcuni, pur figli di Abramo, volevano uccidere Gesù.  
 
@@ -1178,13 +1178,13 @@ Tieni saldamente la fede che è stata trasmessa una volta per sempre ai santi (G
 
 - **(Colossesi 1:13)** – «Egli ci ha liberati dal potere delle tenebre.»  
 
-**Conclusione (Scrittura):** Gesù porta divisione (Matteo 10:34). Giovanni 8 mostra il contrasto fra figli di Dio e figli del diavolo. Lc 11:23 elimina ogni neutralità. Col 1:13 assicura che i credenti sono trasferiti nella luce.  
+**Conclusione (Scrittura):** Gesù dice che la sua venuta porta divisione, non una falsa pace (Matteo 10:34). Giovanni 8:39–47 mostra la separazione fra figli di Dio e figli del diavolo. Luca 11:23 elimina ogni neutralità: chi non è con Cristo è contro di Lui. Colossesi 1:13 assicura che i credenti sono stati trasferiti dalle tenebre al Regno di Cristo.  
 
 ---  
 
 ## 13. L’Assicurazione Finale  
 
-**Spiegazione semplice:** Cristo ha già vinto; la battaglia del credente si fonda sulla sua vittoria.  
+**Spiegazione semplice:** Cristo ha già vinto. I credenti combattono a partire dalla sua vittoria, non per ottenerla.  
 
 - **(1 Giovanni 3:8)** – «Il Figlio di Dio è apparso per distruggere le opere del diavolo.»  
 
@@ -1192,4 +1192,4 @@ Tieni saldamente la fede che è stata trasmessa una volta per sempre ai santi (G
 
 - **(Filippesi 2:10–11)** – Ogni ginocchio si piegherà e ogni lingua confesserà Gesù.  
 
-**Conclusione (Scrittura):** Cristo ha distrutto le opere del diavolo (1 Gv 3:8). I credenti vincono tramite il suo sangue (Ap 12:11). Alla fine tutta la creazione confesserà Gesù come Signore (Fil 2:11).
+**Conclusione (Scrittura):** Cristo è venuto per distruggere le opere del diavolo (1 Gv 3:8). I credenti vincono tramite il suo sangue e la loro testimonianza fedele (Ap 12:10–11). Alla fine tutta la creazione si inginocchierà e confesserà Gesù Cristo come Signore (Fil 2:10–11).

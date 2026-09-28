@@ -403,7 +403,7 @@ C’est comme ne lire que le dernier film d’une trilogie et se demander pourqu
 
 Genèse donne l’étincelle.
 Hénoch donne l’histoire de fond.
-Apocalypse donne le finale.
+Apocalypse donne le final.
 
 Un long arc cosmique.
 

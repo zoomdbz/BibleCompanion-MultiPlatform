@@ -150,7 +150,7 @@ Jesús existe en dos naturalezas completas, divina y humana, unidas en una perso
 **Resultado:**
 - La Definición de Calcedonia
 
-- Fundación para la mayor parte de la teología cristiana hoy
+- Fundamento para la mayor parte de la teología cristiana hoy
 
 **Lo que NO hizo:**
 - No definió la Escritura
@@ -325,7 +325,7 @@ La carta del Nuevo Testamento de Judas lo cita directamente.
 
 ---
 
-## Por qué Enoc fue excluido de la mayoría de los canones
+## Por qué Enoc fue excluido de la mayoría de los cánones
 
 Enoc no fue excluido porque contradijera la Escritura.
 

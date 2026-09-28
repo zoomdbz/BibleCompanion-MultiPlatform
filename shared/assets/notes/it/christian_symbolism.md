@@ -29,6 +29,6 @@
 
 ## Riflessione
 
-Prima che la croce diventasse dominante, i primi cristiani usavano il pesce, il Chi-Rho e l’immagine del pastore. Questo solleva la domanda: *la croce è il simbolo più pieno di Gesù o soprattutto del suo morte?*
+Prima che la croce diventasse dominante, i primi cristiani usavano il pesce, il Chi-Rho e l’immagine del pastore. Questo solleva la domanda: *la croce è il simbolo più pieno di Gesù o soprattutto della sua morte?*
 
 Il vangelo più pieno tiene insieme entrambe le cose: «Cristo morì per i nostri peccati… fu seppellito… e risuscitò il terzo giorno» (1 Corinzi 15:3–4). Un crocifisso fissa lo sguardo sul prezzo che è stato pagato; una croce vuota sulla vittoria che è stata conquistata. Nessuno dei due, da solo, racconta tutta la storia.

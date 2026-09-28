@@ -36,7 +36,6 @@ import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.foundation.gestures.scrollBy
 import androidx.compose.ui.input.pointer.PointerEventPass
-import androidx.compose.ui.input.pointer.PointerEventTimeoutCancellationException
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.input.nestedscroll.nestedScroll
 import kotlinx.coroutines.Dispatchers
@@ -44,7 +43,6 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.CoroutineStart
 import kotlinx.coroutines.NonCancellable
 import kotlinx.coroutines.withContext
-import kotlinx.coroutines.withTimeout
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.items
@@ -281,7 +279,9 @@ fun AppRoot(
     dark,
     prefs.customThemeHue,
     prefs.customThemeSaturation,
-    prefs.customThemeLightness
+    prefs.customThemeLightness,
+    prefs.customThemeSecondary,
+    prefs.customThemeTertiary
   )
 
   MaterialTheme(
@@ -5089,14 +5089,18 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
               previewDark,
               prefs.customThemeHue,
               prefs.customThemeSaturation,
-              prefs.customThemeLightness
+              prefs.customThemeLightness,
+              prefs.customThemeSecondary,
+              prefs.customThemeTertiary
             )
           } else colorSchemeFor(
             preset,
             previewDark,
             prefs.customThemeHue,
             prefs.customThemeSaturation,
-            prefs.customThemeLightness
+            prefs.customThemeLightness,
+            prefs.customThemeSecondary,
+            prefs.customThemeTertiary
           )
           ThemeSwatchChip(
             label = label,
@@ -5108,14 +5112,13 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       }
 
       AnimatedVisibility(visible = selectedPreset == ThemePreset.Custom) {
-        CustomThemePicker(
-          hue = prefs.customThemeHue,
-          saturation = prefs.customThemeSaturation,
-          lightness = prefs.customThemeLightness,
+        CustomThemePalettePicker(
+          prefs = prefs,
           dark = previewDark,
-          onColorSelected = { hue, saturation, lightness ->
-            scope.launch { repo.setCustomThemeColor(hue, saturation, lightness) }
-          }
+          onColorSelected = { role, color ->
+            scope.launch { repo.setCustomThemeAccent(role, color) }
+          },
+          onMatchAccents = { scope.launch { repo.resetCustomThemeAccents() } }
         )
       }
 
@@ -6076,8 +6079,48 @@ private fun GenericNotesScreen(
   val copiedMessage = stringResource(Res.string.copied_to_clipboard)
   var tocDropdownExpanded by remember { mutableStateOf(false) }
 
+  var selectionResetKey by remember(notesKey) { mutableStateOf(0) }
+  var showDismissButton by remember(notesKey) { mutableStateOf(false) }
+  var showFullSelection by remember(notesKey) { mutableStateOf(false) }
+  val nativeTextToolbar = androidx.compose.ui.platform.LocalTextToolbar.current
+  val nativeClipboard = androidx.compose.ui.platform.LocalClipboardManager.current
+  val notesFocusManager = androidx.compose.ui.platform.LocalFocusManager.current
+
+  fun clearNoteSelection() {
+    showDismissButton = false
+    selectionResetKey++
+    nativeTextToolbar.hide()
+    notesFocusManager.clearFocus()
+  }
+
+  val noteToolbar = remember(notesKey, nativeTextToolbar, notesFocusManager) {
+    NotesSelectionToolbar(
+      delegate = nativeTextToolbar,
+      onVisibilityChanged = { showDismissButton = it },
+      onSelectWholeNote = {
+        clearNoteSelection()
+        showFullSelection = true
+      }
+    )
+  }
+  val noteClipboard = remember(notesKey, nativeClipboard, nativeTextToolbar, notesFocusManager) {
+    NotesSelectionClipboard(nativeClipboard) { clearNoteSelection() }
+  }
+  DisposableEffect(noteToolbar) {
+    onDispose { noteToolbar.hide() }
+  }
+  val noteContentSelectionModifier = Modifier.pointerInput(notesKey) {
+    awaitEachGesture {
+      awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+      // Native handles live in a popup. A new page gesture hides stale chrome;
+      // an actual selection reopens it through the toolbar callback.
+      showDismissButton = false
+    }
+  }
+
   fun copyAllNote() {
     platformCopyToClipboard(ctx, titleText, fullNoteText)
+    clearNoteSelection()
     scope.launch {
       snackbarHostState.currentSnackbarData?.dismiss()
       snackbarHostState.showSnackbar(copiedMessage, duration = SnackbarDuration.Short)
@@ -6120,14 +6163,6 @@ private fun GenericNotesScreen(
     val firstVisible = tocListState.firstVisibleItemIndex
     if (firstVisible < sections.size) sections[firstVisible].first ?: titleText else titleText
   } else titleText
-
-  var selectionResetKey by remember { mutableStateOf(0) }
-  var showDismissButton by remember { mutableStateOf(false) }
-  var showFullSelection by remember(notesKey) { mutableStateOf(false) }
-
-  LaunchedEffect(selectionResetKey) {
-    showDismissButton = false
-  }
 
   Scaffold(
     snackbarHost = { SnackbarHost(snackbarHostState) },
@@ -6179,7 +6214,7 @@ private fun GenericNotesScreen(
         },
         actions = {
           if (fullNoteText.isNotBlank()) {
-            IconButton(onClick = { showFullSelection = true }) {
+            IconButton(onClick = { clearNoteSelection(); showFullSelection = true }) {
               Icon(imageVector = Icons.Filled.SelectAll, contentDescription = stringResource(Res.string.select_all))
             }
             IconButton(onClick = { copyAllNote() }) {
@@ -6193,34 +6228,18 @@ private fun GenericNotesScreen(
       )
     }
   ) { pad ->
-    Box(Modifier.fillMaxSize().pointerInput(Unit) {
-      awaitEachGesture {
-        val down = awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
-        val startPos = down.position
-        var scrolled = false
-        try {
-          withTimeout(viewConfiguration.longPressTimeoutMillis) {
-            while (true) {
-              val event = awaitPointerEvent(PointerEventPass.Initial)
-              if (event.changes.all { !it.pressed }) break
-              if (event.changes.any { (it.position - startPos).getDistance() > viewConfiguration.touchSlop }) {
-                scrolled = true
-                break
-              }
-            }
-          }
-        } catch (_: PointerEventTimeoutCancellationException) {
-          if (!scrolled) showDismissButton = true
-        }
-      }
-    }) {
+    androidx.compose.runtime.CompositionLocalProvider(
+      androidx.compose.ui.platform.LocalTextToolbar provides noteToolbar,
+      androidx.compose.ui.platform.LocalClipboardManager provides noteClipboard
+    ) {
+    Box(Modifier.fillMaxSize()) {
     if (collapsible && sectionHeaders.size >= 2) {
       // Collapsible sections mode: each headed section is expandable
       LazyColumn(
         state = collapsibleListState,
         contentPadding = PaddingValues(16.dp),
         verticalArrangement = Arrangement.spacedBy(8.dp),
-        modifier = Modifier.padding(pad)
+        modifier = Modifier.padding(pad).then(noteContentSelectionModifier)
       ) {
         items(
           count = sections.size,
@@ -6378,7 +6397,7 @@ private fun GenericNotesScreen(
       }
     } else if (!showToc) {
       Column(
-        Modifier.padding(pad).padding(16.dp).verticalScroll(rememberScrollState()),
+        Modifier.padding(pad).then(noteContentSelectionModifier).padding(16.dp).verticalScroll(rememberScrollState()),
         verticalArrangement = Arrangement.spacedBy(12.dp)
       ) {
         RenderNotesMarkdown(body = body, prefs = prefs, selectionResetKey = selectionResetKey)
@@ -6388,7 +6407,7 @@ private fun GenericNotesScreen(
         state = tocListState,
         contentPadding = PaddingValues(16.dp),
         verticalArrangement = Arrangement.spacedBy(12.dp),
-        modifier = Modifier.padding(pad)
+        modifier = Modifier.padding(pad).then(noteContentSelectionModifier)
       ) {
         items(
           count = sections.size,
@@ -6413,7 +6432,7 @@ private fun GenericNotesScreen(
       modifier = Modifier.align(Alignment.BottomCenter).padding(bottom = 24.dp)
     ) {
       SmallFloatingActionButton(
-        onClick = { selectionResetKey++ },
+        onClick = { clearNoteSelection() },
         containerColor = MaterialTheme.colorScheme.surfaceVariant,
         contentColor = MaterialTheme.colorScheme.onSurfaceVariant
       ) {
@@ -6421,6 +6440,7 @@ private fun GenericNotesScreen(
       }
     }
     } // Box
+    } // Selection toolbar provider
   }
 
   if (showFullSelection) {

@@ -61,10 +61,9 @@ Fuentes: [eclipses solares de la NASA, 2021-2030](https://eclipse.gsfc.nasa.gov/
 
 Los eclipses solares en la tradición judía son considerados señales para las naciones (Sucá 29a). Varios eclipses notables coinciden con fechas significativas:
 
-BALAS SOLARES:
-- **20 de marzo de 2015:** Eclipse solar total en **Nisán 1** (el año nuevo bíblico para los meses, Éxodo 12:2), a mitad del tétrada de lunas de sangre de 2014–2015
-- **13 de septiembre de 2015:** Eclipse solar parcial en **1 Tishrei 5776, Rosh Hashanah**. Junto con el eclipse del 20 de marzo, estos dos eclipses solares cayeron en los primeros días de los dos meses más significativos del calendario hebreo (Nisán y Tishrei), enmarcando el tétrada de lunas de sangre de 2014–2015 dentro de un solo año. Los maestros de profecía Mark Biltz y John Hagee tratan los seis eventos (cuatro lunas de sangre + dos eclipses solares) como un solo grupo.
-- **21 de agosto de 2017:** «Gran Eclipse Americano», primer eclipse solar total visible de costa a costa en EE.UU. en 99 años. Fecha hebrea: **29 Av 5777**, el último día del mes de Av y la víspera de Elul 1. Elul es la temporada de 40 días de arrepentimiento que conduce a Rosh Hashanah; muchos maestros mesiánicos notaron el tiempo.
+- **20 de marzo de 2015:** Eclipse solar total en **Nisán 1** (el año nuevo bíblico para los meses, Éxodo 12:2), a mitad de la tétrada de lunas de sangre de 2014–2015
+- **13 de septiembre de 2015:** Eclipse solar parcial en **1 Tishrei 5776, Rosh Hashanah**. Junto con el eclipse del 20 de marzo, estos dos eclipses solares cayeron en los primeros días de los dos meses más significativos del calendario hebreo (Nisán y Tishrei), enmarcando la tétrada de lunas de sangre de 2014–2015 dentro de un solo año. Los maestros de profecía Mark Biltz y John Hagee tratan los seis eventos (cuatro lunas de sangre + dos eclipses solares) como un solo grupo.
+- **21 de agosto de 2017:** «Gran Eclipse Americano», primer eclipse solar total visible de costa a costa en EE.UU. en 99 años. Fecha hebrea: **29 Av 5777**, el último día del mes de Av y la víspera de Elul 1. Elul es la temporada de 40 días de arrepentimiento que conduce a Rosh Hashanah; muchos maestros mesiánicos destacaron el momento en que ocurrió.
 - **8 de abril de 2024:** Segundo Gran Eclipse Americano; los dos caminos (2017 y 2024) forman una X sobre Estados Unidos
 
 ---
@@ -95,7 +94,6 @@ Amós 8:9: «En aquel día, dice el Señor DIOS, haré que el sol se ponga al me
 
 «Una gran señal apareció en el cielo: una mujer vestida del sol, con la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas» (Apocalipsis 12:1).
 
-CUERPO DE APOCALIPSIS 12:
 El **23 de septiembre de 2017**, la constelación Virgo fue «vestida» por el sol con la luna a sus pies. Sobre su cabeza, las nueve estrellas de Leo más los planetas Mercurio, Venus y Marte formaron una corona de doce. Júpiter había estado en la sección media de Virgo durante aproximadamente 42 semanas, la duración de la gestación humana, debido al movimiento retrógrado antes de «salir» el 9 de septiembre de 2017. Históricamente, Júpiter se ha llamado el «planeta rey». El período de 42 semanas refleja precisamente los «42 meses» de Apocalipsis 13:5 y Apocalipsis 12:6 (1.260 días). Júpiter entró en la región del vientre de Virgo el 20 de noviembre de 2016.
 
 La fecha hebrea fue **3 Tishrei 5778**, el Ayuno de Gedalías, el día después de Rosh Hashanah.
@@ -154,7 +152,7 @@ En cuatro años consecutivos, un eclipse lunar cae en una observancia de Purim. 
 - **2–3 de marzo de 2026:** Eclipse lunar total (luna de sangre, ~58 minutos de totalidad), 14 Adar 5786, **Purim**
 - **20–21 de febrero de 2027:** Eclipse lunar penumbral, 14 Adar I 5787, **Purim Katan** (el Purim de Adar I en años bisiestos)
 
-Las lunas de sangre consecutivas en la misma festividad en años consecutivos no tienen precedente moderno, y aquí llegan enmarcadas por eclipses penumbrales en Shushan Purim antes y en Purim Katan después: cuatro años, cuatro observancias de Purim, cuatro eclipses lunares. Purim no es una festividad de Levítico 23, pero conmemora la liberación de Israel del genocidio (Ester 9:20–22). El libro de Esther nunca menciona el nombre de Dios, sin embargo, Su mano es visible en todo.
+Las lunas de sangre consecutivas en la misma festividad en años consecutivos no tienen precedente moderno, y aquí llegan enmarcadas por eclipses penumbrales en Shushan Purim antes y en Purim Katan después: cuatro años, cuatro observancias de Purim, cuatro eclipses lunares. Purim no es una festividad de Levítico 23, pero conmemora la liberación de Israel del genocidio (Ester 9:20–22). El libro de Ester nunca menciona el nombre de Dios, sin embargo, Su mano es visible en todo.
 
 ### Eclipses Solares
 
@@ -168,6 +166,6 @@ El **1–5 de febrero de 2026**, la región activa AR4366, un grupo de manchas s
 
 ### Nota
 
-Este período no produce una tétrada en el sentido clásico (cuatro eclipses lunares totales consecutivos en Passover y Sukkot, la última fue 2014–2015), y otros eclipses sí caen entre estos cuatro. Lo que 2024–2027 presenta es un patrón distinto: un eclipse solar en Rosh Hashanah, un eclipse lunar en una observancia de Purim en cuatro años consecutivos, dos de ellos lunas de sangre, y una tormenta solar extraordinaria precediendo la segunda luna de sangre.
+Este período no produce una tétrada en el sentido clásico (cuatro eclipses lunares totales consecutivos en Pascua y Sukkot, la última fue 2014–2015), y otros eclipses sí caen entre estos cuatro. Lo que 2024–2027 presenta es un patrón distinto: un eclipse solar en Rosh Hashanah, un eclipse lunar en una observancia de Purim en cuatro años consecutivos, dos de ellos lunas de sangre, y una tormenta solar extraordinaria precediendo la segunda luna de sangre.
 
 Lucas 21:25, *«Habrá señales en el sol, la luna y las estrellas.»* Estos alineamientos son hechos documentados. Su significado último pertenece solo a Dios.

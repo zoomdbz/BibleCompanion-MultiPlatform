@@ -8,7 +8,7 @@ Na Bíblia, Deus muitas vezes Se oculta para ser buscado; não porque esteja aus
 
 Em **Êxodo 33:20**, Deus diz a Moisés: «Homem nenhum verá a minha face e viverá.»
 
-A ideia não é punição; trata-se do Encontro entre o Infinito e o finito. Exposição direta a tal magnitude esmagaria a consciência humana.  
+A ideia não é punição; trata-se de energia infinita encontrando um ser finito. Exposição direta a tal magnitude esmagaria a consciência humana.  
 **Base bíblica:**
 
 - **1 Timóteo 6:16**: «Aquele que tem, Ele só, a imortalidade e habita em luz inacessível; a quem nenhum dos homens viu nem pode ver.»
@@ -38,7 +38,7 @@ A tragédia foi prevista, mas não forçada; presciência não é causação.
 
 **Base bíblica:**
 
-- **Gênesis 2:16–17**: «De toda árvore do jardim comerás livremente; mas da árvore do conhecimento do bem e do mal, dela não comerás; porque, no dia em que dela comeres, certamente morrerás.»
+- **Gênesis 2:16–17**: «E o SENHOR Deus ordenou ao homem: De toda árvore do jardim comerás livremente; mas da árvore do conhecimento do bem e do mal, dela não comerás; porque, no dia em que dela comeres, certamente morrerás.»
 
 - **Deuteronômio 30:19–20**: «Pus diante de ti a vida e a morte, a bênção e a maldição; escolhe, pois, a vida.»  
   O caráter de Deus é consistente; Ele valoriza a escolha porque é o fundamento do amor.
@@ -121,17 +121,17 @@ A provação de Jó não é punição; é confiança. Deus o escolhe porque conh
 
 - **Jó 2:3–6**: Deus reafirma a integridade de Jó; a prova visa vindicação, não castigo.
 
-- **Jó 23:10**: «Quando Ele me provar, sairei como ouro.»
+- **Jó 23:10**: «Ele conhece o caminho que sigo; quando Ele me provar, sairei como ouro.»
 
 - **Jó 38–41**: A resposta de Deus lembra que a própria criação guarda mistérios além da compreensão; a lição é perspectiva, não poder.
 
-- **Jó 42:5–6**: «Eu Te conhecia só de ouvir; mas agora os meus olhos Te veem.» Jó passa do saber ao encontro.
+- **Jó 42:5–6**: «Eu Te conhecia só de ouvir; mas agora os meus olhos Te veem.» Jó passa da fé ao encontro.
 
 Depois do arrependimento e da compreensão restaurada, Deus vindica Jó publicamente. Repreende os amigos por sua teologia rasa, dizendo: «Não dissestes de Mim o que era reto» (**Jó 42:7**). Ordena que ofereçam sacrifícios, e Jó ora por eles, ato de perdão e graça.
 
 Então vem a restauração.
 
-- **Jó 42:10**: «O SENHOR restaurou a sorte de Jó… e o SENHOR lhe deu o dobro de tudo o que antes possuíra.»
+- **Jó 42:10**: «O SENHOR restaurou a sorte de Jó quando ele orou por seus amigos, e o SENHOR lhe deu o dobro de tudo o que antes possuíra.»
 
 - **Jó 42:12–17**: Jó recebe o dobro dos bens, nova família e longa vida. Seus últimos anos são marcados por paz.
 
@@ -212,17 +212,17 @@ A morte entrou por meio do pecado (**Romanos 5:12**), e toda a criação geme so
 
 **Base bíblica:**
 
-- **Gênesis 2:17**: «Porque no dia em que dela comeres, certamente morrerás.»  
+- **Gênesis 2:17**: «Mas da árvore do conhecimento do bem e do mal não comerás; porque no dia em que dela comeres, certamente morrerás.»  
   A morte foi consequência da rebelião, não parte do projeto original de Deus para a humanidade.
 
-- **2 Samuel 12:22–23**: Após a morte do filho, Davi diz: «Eu irei a ele, porém ele não voltará para mim.»  
+- **2 Samuel 12:22–23**: Após a morte de seu filho ainda bebê, Davi diz: «Eu irei a ele, porém ele não voltará para mim.»  
   A confiança de Davi indica a crença de que a criança está com Deus e que a reunião aguarda além da morte.
 
-- **Isaías 57:1–2**: «Perece o justo… entra em paz; descansam nos seus leitos os que andam na retidão.»  
+- **Isaías 57:1–2**: «Perece o justo, e ninguém se importa… entra em paz; descansam nos seus leitos os que andam na retidão.»  
   A morte precoce pode ser misericórdia que poupa do mal que viria.
 
-- **Mateus 19:14**: Jesus disse: «Deixai vir a Mim os pequeninos… porque dos tais é o reino dos céus.»  
-  Cristo reivindica acolhimento sobre toda criança.
+- **Mateus 19:14**: Jesus disse: «Deixai vir a Mim os pequeninos e não os impeçais, porque dos tais é o reino dos céus.»  
+  Cristo declara que toda criança Lhe pertence e a acolhe.
 
 - **Deuteronômio 1:39**: Deus poupa as crianças de Israel no juízo, dizendo que «não sabem discernir entre o bem e o mal.»  
   Responsabilidade moral requer entendimento; a inocência repousa na graça.
@@ -231,7 +231,7 @@ A morte entrou por meio do pecado (**Romanos 5:12**), e toda a criação geme so
   Toda vida retorna à sua Fonte.
 
 A morte nunca foi o desígnio original de Deus; no entanto, Ele a redimiu. Pela ressurreição de Cristo, a morte tornou-se inimiga derrotada.  
-**1 Coríntios 15:54–55**: «Tragada foi a morte pela vitória. Onde está, ó morte, a tua vitória?»
+**1 Coríntios 15:54–55**: «Tragada foi a morte pela vitória. Onde está, ó morte, o teu aguilhão?»
 
 **Romanos 8:38–39** assegura que nada, nem morte, nem vida, pode nos separar do amor de Deus. As crianças que morrem não se desfazem no nada; descansam nesse amor inquebrável.
 
@@ -244,7 +244,7 @@ A morte só parece encerrar a inocência; na realidade, conduz o inocente com se
 
 ### **7. Por que Deus ordenou guerras ou violência no Antigo Testamento?**
 
-A Escritura apresenta tais comandos como **atos limitados de juízo**, **proteção contra o mal corrosivo** e **medidas temporárias sob severas restrições**; não como um mandado permanente à violência. Israel é advertido repetidamente a não dizer que venceu por sua própria justiça; o juízo cai por causa de maldades arraigadas como derramamento de sangue e sacrifício de crianças, e porque Deus é o Juiz das nações.
+A Escritura apresenta tais comandos como **atos limitados de juízo**, **proteção contra o mal corrosivo** e **medidas temporárias sob severas restrições**; não como um mandado permanente à violência. Israel é advertido repetidamente a não dizer que venceu por sua própria justiça; o juízo cai por causa de maldades arraigadas como derramamento de sangue e sacrifício de crianças, e porque Deus é o Juiz supremo das nações.
 
 **Base bíblica:**
 
@@ -315,22 +315,22 @@ Os que aceitam esse dom são perdoados e restaurados à vida. Os que o recusam e
 
 **Base bíblica:**
 
-- **Ezequiel 33:11**: «Não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho e viva.»  
+- **Ezequiel 33:11**: «Tão certo como Eu vivo, declara o Senhor DEUS, não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho e viva.»  
   O desejo de Deus é arrependimento; não condenação.
 
-- **2 Pedro 3:9**: «O Senhor… é longânimo para convosco, não querendo que nenhum pereça, senão que todos cheguem ao arrependimento.»  
+- **2 Pedro 3:9**: «O Senhor não demora em cumprir a Sua promessa, como alguns julgam demorada, mas é longânimo para convosco, não querendo que nenhum pereça, senão que todos cheguem ao arrependimento.»  
   O juízo vem apenas depois que a paciência se esgota.
 
-- **Deuteronômio 30:19**: «Pus diante de ti a vida e a morte… escolhe, pois, a vida.»  
+- **Deuteronômio 30:19**: «Pus diante de ti a vida e a morte, a bênção e a maldição; escolhe, pois, a vida.»  
   Deus oferece a escolha; não coage o resultado.
 
-- **Romanos 2:5–8**: Os que persistem na dureza «enttesouram ira para o dia da ira», enquanto quem busca o bem recebe vida eterna.  
+- **Romanos 2:5–8**: Os que persistem na dureza «entesouram ira para o dia da ira», enquanto quem busca o bem recebe vida eterna.  
   O juízo segue a persistência deliberada no mal.
 
 - **Mateus 25:41-46**: Jesus fala da separação final: «Apartai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e seus anjos… e irão estes para o castigo eterno, porém os justos, para a vida eterna.»  
   A sentença liga-se à rejeição da misericórdia; não à falta de oportunidade.
 
-- **João 3:18–19**: «Quem crê nEle não é condenado; mas quem não crê já está condenado… e os homens amaram mais as trevas do que a luz.»  
+- **João 3:18–19**: «Quem crê nEle não é condenado; mas quem não crê já está condenado, porque não creu no nome do Filho unigênito de Deus… e os homens amaram mais as trevas do que a luz.»  
   A condenação surge de preferir as trevas à luz.
 
 - **Romanos 1:24–26**: «Deus os entregou» a seus desejos.  
@@ -376,7 +376,7 @@ Todo ato de fé responde ao que Deus já revelou, por meio da criação, da cons
 
 **Base bíblica:**
 
-- **Romanos 1:19–20**: «O que de Deus se pode conhecer neles se manifesta… Seus atributos invisíveis… claramente se reconhecem… de modo que eles são indesculpáveis.»  
+- **Romanos 1:19–20**: «O que de Deus se pode conhecer está manifesto entre eles, porque Deus lhes manifestou. Seus atributos invisíveis, o Seu eterno poder e a Sua natureza divina, claramente se reconhecem… de modo que eles são indesculpáveis.»  
   A criação revela a realidade de Deus; a fé responde a essa revelação.
 
 - **João 20:29**: Jesus disse: «Bem-aventurados os que não viram e creram.»  
@@ -385,7 +385,7 @@ Todo ato de fé responde ao que Deus já revelou, por meio da criação, da cons
 - **2 Coríntios 5:7**: «Porque andamos por fé, e não por vista.»  
   A fé governa o presente até que a visão a complete.
 
-- **Hebreus 11:6**: «Sem fé é impossível agradar a Deus.»  
+- **Hebreus 11:6**: «Sem fé é impossível agradar a Deus, pois quem se aproxima dEle precisa crer que Ele existe e que recompensa os que O buscam.»  
   Relacionamento depende de confiança voluntária; não de prova forçada.
 
 - **Efésios 2:8–9**: «Pela graça sois salvos, mediante a fé… isto não vem de vós; é dom de Deus; não vem das obras.»  
@@ -397,7 +397,7 @@ Certeza remove a escolha; a fé a refina.
 A fé requer humildade, dependência e amor; qualidades que não existem sob coerção.  
 A provação da fé desenvolve perseverança, maturidade e autenticidade.
 
-- **Tiago 1:3–4**: «A prova da vossa fé produz perseverança; e a perseverança tem a sua obra perfeita.»
+- **Tiago 1:3–4**: «A prova da vossa fé produz perseverança; e a perseverança deve completar a sua obra, para que sejais perfeitos e completos.»
 
 - **1 Pedro 1:7–9**: A fé «mais preciosa do que o ouro que perece, embora provado pelo fogo» redunda «em louvor, glória e honra na revelação de Jesus Cristo.»  
   O que agora é invisível um dia se tornará visível.
@@ -414,14 +414,14 @@ Até lá, a fé permanece o caminho pelo qual amor, confiança e salvação exis
 
 A Escritura revela que Satanás não foi criado mau. Originalmente era um ser de luz que se corrompeu por orgulho e autoexaltação.  
 Deus criou todos os seres inteligentes, angélicos e humanos, com liberdade genuína.  
-Essa liberdade torna o amor possível; mas também permite a rebelião. Deus previu a queda de Satanás, mas a permitiu para que o universo moral fosse real; não programado.
+Essa liberdade torna o amor possível; mas também permite a rebelião. Deus previu a queda de Satanás, mas a permitiu para que o livre-arbítrio pudesse existir num universo moral real, e não programado.
 
 **Base bíblica:**
 
-- **Ezequiel 28:12–17**: Descrevendo o rei de Tiro em linguagem que paralela a queda de um ser celestial: «Tu eras o sinete da perfeição… perfeito eras nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti.»  
+- **Ezequiel 28:12–17**: Descrevendo o rei de Tiro em linguagem que estabelece um paralelo com a queda de um ser celestial: «Tu eras o sinete da perfeição, cheio de sabedoria e perfeito em beleza… perfeito eras nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti.»  
   O orgulho corrompeu o que era perfeito.
 
-- **Isaías 14:12–15**: «Como caíste do céu, ó estrela da manhã… Tu dizias no teu coração: Subirei ao céu… exaltarei o meu trono.»  
+- **Isaías 14:12–15**: «Como caíste do céu, ó estrela da manhã, filho da alva!… Tu dizias no teu coração: Subirei ao céu; exaltarei o meu trono acima das estrelas de Deus.»  
   A rebelião começa com autoexaltação e recusa de submissão.
 
 - **1 Timóteo 3:6**: O orgulho é chamado «a condenação do diabo.»  
@@ -429,7 +429,7 @@ Essa liberdade torna o amor possível; mas também permite a rebelião. Deus pre
 
 - **João 8:44**: Jesus chama Satanás de «homicida desde o princípio» e «pai da mentira», mostrando a trajetória moral da rebelião.
 
-- **2 Pedro 2:4**: «Deus não poupou os anjos que pecaram.»  
+- **2 Pedro 2:4**: «Deus não poupou os anjos quando pecaram, mas os lançou no inferno e os entregou a correntes de escuridão, reservados para o juízo.»  
   Mesmo seres celestiais estão sujeitos à justiça.
 
 **Por que Deus permitiu a rebelião:**
@@ -438,12 +438,12 @@ Liberdade sem possibilidade de desobediência não é liberdade.
 Amor que não pode ser recusado não é amor.  
 Deus permite a rebelião para demonstrar a verdadeira natureza do bem, expor o mal como autodestrutivo e revelar Sua justiça e misericórdia por meio da redenção.
 
-- **Romanos 9:22–23**: «E que direis se Deus… suportou com muita longanimidade os vasos da ira… para dar a conhecer as riquezas da Sua glória nos vasos de misericórdia?»  
+- **Romanos 9:22–23**: «E que direis se Deus, querendo mostrar a Sua ira e dar a conhecer o Seu poder, suportou com muita longanimidade os vasos da ira preparados para a destruição, a fim de dar a conhecer as riquezas da Sua glória nos vasos de misericórdia?»  
   A paciência de Deus exibe justiça e misericórdia.
 
 - **Jó 1:6–12**: Mesmo na prova, Satanás permanece sob limites divinos; sua rebelião é permitida, não descontrolada.
 
-- **Apocalipse 12:7–9**: «Houve batalha no céu… o grande dragão foi precipitado.»  
+- **Apocalipse 12:7–9**: «Houve batalha no céu… o grande dragão foi precipitado… aquele que engana o mundo inteiro.»  
   O mal é derrotado; não coigual a Deus.
 
 **O desfecho:**
@@ -472,26 +472,26 @@ Tais influências se disfarçam de deuses, exigem sacrifícios, torcem a moralid
 
 **Base bíblica:**
 
-- **Romanos 1:19–23**: «O que de Deus se pode conhecer neles se manifesta… Seus atributos invisíveis… se entendem e claramente se veem… de modo que eles são indesculpáveis.»  
-  A humanidade conheceu a Deus, mas «mudou a glória do Deus incorruptível em semelhança de imagem de homem corruptível… e répteis.»  
+- **Romanos 1:19–23**: «O que de Deus se pode conhecer está manifesto entre eles, porque Deus lhes manifestou… Seus atributos invisíveis, o Seu eterno poder e a Sua natureza divina, claramente se reconhecem… de modo que eles são indesculpáveis.»  
+  A humanidade conheceu a Deus, mas «mudou a glória do Deus incorruptível em semelhança de imagem de homem corruptível, de aves, de animais e de répteis.»  
   Religião muitas vezes começa como reconhecimento do divino, depois deriva para a idolatria.
 
-- **Deuteronômio 32:16–17**: «Sacrificaram aos demônios, e não a Deus.»  
+- **Deuteronômio 32:16–17**: «Provocaram-No a ciúmes com deuses estranhos… Sacrificaram aos demônios, e não a Deus.»  
   A Escritura identifica explicitamente muitos deuses pagãos como poderes demoníacos por trás do culto falso.
 
 - **Salmo 106:37–38**: «Sacrificaram seus filhos e suas filhas aos demônios; e derramaram sangue inocente.»  
   A religião falsa pode descer às trevas morais e espirituais, incluindo sacrifício de crianças.
 
-- **Levítico 17:7**: «Nunca mais sacrificarão seus sacrifícios aos demônios.»  
+- **Levítico 17:7**: «Nunca mais sacrificarão seus sacrifícios aos demônios, com os quais se prostituem.»  
   Deus proíbe Israel de seguir influências demoníacas disfarçadas de deuses.
 
-- **1 Coríntios 10:19–20**: «O que os gentios sacrificam, é aos demônios que o sacrificam e não a Deus.»  
+- **1 Coríntios 10:19–20**: «Que quero dizer? Que a comida oferecida a ídolos é alguma coisa? Não, mas que o que os gentios sacrificam, é aos demônios que o sacrificam e não a Deus.»  
   A idolatria não é neutra; forças espirituais estão por trás dela.
 
-- **Efésios 6:12**: «Nossa luta não é contra carne e sangue, e sim contra os principados… as forças espirituais do mal, nas regiões celestes.»  
+- **Efésios 6:12**: «Nossa luta não é contra carne e sangue, e sim contra os principados, contra as potestades, contra os dominadores destas trevas, contra as forças espirituais do mal nas regiões celestes.»  
   O engano religioso é parte de um conflito espiritual mais amplo.
 
-- **Atos 17:26–27**: Deus fez de um só todas as nações «para buscarem a Deus… bem que não está longe de cada um de nós.»  
+- **Atos 17:26–27**: «De um só homem fez todas as nações da humanidade… para buscarem a Deus e talvez, tateando, O encontrarem; embora Ele não esteja longe de cada um de nós.»  
   Toda cultura contém ecos de verdade que apontam de volta ao Criador.
 
 - **João 1:9**: Jesus é «a verdadeira luz que, vinda ao mundo, ilumina a todo homem.»  
@@ -500,10 +500,10 @@ Tais influências se disfarçam de deuses, exigem sacrifícios, torcem a moralid
 - **João 14:6**: «Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por Mim.»  
   A verdade é singular; a misericórdia de Deus alcança universalmente.
 
-- **1 Timóteo 2:3–4**: Deus «quer que todos os homens se salvem e venham ao conhecimento da verdade.»  
-  A diversidade de crenças humanas revela o anseio humano e a paciência divina.
+- **1 Timóteo 2:3–4**: «Deus, nosso Salvador… quer que todos os homens se salvem e venham ao conhecimento da verdade.»  
+  A diversidade de crenças humanas revela tanto o anseio da humanidade por Deus quanto a paciência dEle com a nossa confusão.
 
-- **Romanos 10:12–13**: «Não há distinção entre judeu e grego… todo aquele que invocar o nome do Senhor será salvo.»  
+- **Romanos 10:12–13**: «Não há distinção entre judeu e grego; o mesmo Senhor é Senhor de todos, rico para com todos os que O invocam.»  
   A redenção é oferecida universalmente; a verdade permanece uma.
 
 **Resumo:**  
@@ -539,10 +539,10 @@ Os que a recebem são cobertos por Sua justiça; os que a recusam permanecem sob
 - **1 Pedro 2:24**: «Ele mesmo levou em Seu corpo os nossos pecados sobre o madeiro, para que nós, mortos para os pecados, vivamos para a justiça.»  
   A salvação não só perdoa; transforma.
 
-- **Efésios 2:8–9**: «Pela graça sois salvos, mediante a fé… não vem de obras.»  
+- **Efésios 2:8–9**: «Pela graça sois salvos, mediante a fé; e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie.»  
   Graça é dom; mas precisa ser recebida.
 
-- **João 3:16–18**: «Deus amou o mundo de tal maneira que deu o Seu Filho unigênito… quem não crê já está condenado.»  
+- **João 3:16–18**: «Deus amou o mundo de tal maneira que deu o Seu Filho unigênito, para que todo o que nEle crê não pereça, mas tenha a vida eterna… quem não crê já está condenado.»  
   Rejeitar a graça deixa a dívida impaga.
 
 - **2 Coríntios 5:21**: «Aquele que não conheceu pecado, Ele o fez pecado por nós; para que, nele, fôssemos feitos justiça de Deus.»  

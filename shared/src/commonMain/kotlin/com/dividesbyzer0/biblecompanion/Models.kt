@@ -94,6 +94,8 @@ data class PrefsState(
   val customThemeHue: Float = 210f,
   val customThemeSaturation: Float = 1f,
   val customThemeLightness: Float = 0.5f,
+  val customThemeSecondary: CustomThemeColor? = null,
+  val customThemeTertiary: CustomThemeColor? = null,
   val expandNotesDefault: Boolean = false,
   val collapsedStoriesJson: String = "{}",
   val autoContinueTts: Boolean = true,
@@ -292,7 +294,9 @@ data class AppBackup(
   // Nullable fields keep imports from older backup versions non-destructive.
   val customThemeHue: Float? = null,
   val customThemeSaturation: Float? = null,
-  val customThemeLightness: Float? = null
+  val customThemeLightness: Float? = null,
+  val customThemeSecondary: CustomThemeColor? = null,
+  val customThemeTertiary: CustomThemeColor? = null
 )
 
 /**

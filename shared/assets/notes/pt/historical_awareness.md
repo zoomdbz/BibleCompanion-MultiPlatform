@@ -35,11 +35,11 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 2. Problemas de tradução e interpretação
 
-- **(Neemias 8:8)**: «Liam claramente no livro da Lei de Deus e explicavam o sentido, para que o povo entendesse.»
+- **(Neemias 8:8)**: «Liam no Livro da Lei de Deus, tornando-o claro e explicando o sentido, para que o povo entendesse o que estava sendo lido.»
 
-- ➡ A Bíblia foi dada para ser compreendida.
+- ➡ A Escritura sempre se destinou a ser compreendida.
 
-- **História:** A Septuaginta (séculos III–II a.C.), a Vulgata com distorções («arrepender-se» tornou-se «fazer penitência»), a KJV de 1611 influenciada pela política, e os Manuscritos do Mar Morto mostraram diversidade textual.
+- **História:** O Antigo Testamento foi traduzido para o grego (a Septuaginta) nos séculos III–II a.C. Mais tarde, a Vulgata Latina de Jerônimo dominou a igreja, às vezes introduzindo distorções («arrepender-se» tornou-se «fazer penitência»). Quando o rei Jaime autorizou sua Bíblia inglesa em 1611, a política influenciou certas escolhas. Os Manuscritos do Mar Morto confirmaram posteriormente a variedade de textos hebraicos em uso, mostrando que não havia um único original «perfeito».
 
 - **Conclusão:** Traduções importam. Palavras moldam doutrinas inteiras.
 
@@ -72,25 +72,25 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 4. Perseguição e movimentos de reforma
 
-- **(João 16:2)**: «Quem vos matar pensará que está prestando culto a Deus.»
+- **(João 16:2)**: «Vem o tempo em que quem vos matar pensará que está prestando um serviço a Deus.»
 
-- ➡ Jesus previu perseguição.
+- ➡ Jesus previu perseguições cometidas em Seu nome.
 
 - **História:** Os reformadores tentaram devolver as Escrituras ao povo comum. John Wycliffe traduziu-as para o inglês e foi condenado até depois da morte. William Tyndale foi executado em 1536 por sua tradução inglesa. As 95 Teses de Martinho Lutero, publicadas em 1517, deram início à Reforma Protestante. O Concílio de Trento da Igreja Católica (1545–1563) intensificou o controle.
 
-- **Conclusão:** Desafiar a corrupção custou vidas.
+- **Conclusão:** Aqueles que desafiaram a corrupção muitas vezes pagaram com a própria vida.
 
 ---
 
 ## 5. Textos perdidos e suprimidos
 
-- **(Judas 1:14–15)**: «Enoque profetizou...»
+- **(Judas 1:14–15)**: «Enoque, o sétimo depois de Adão, profetizou...»
 
-- ➡ Judas cita Enoque.
+- ➡ Judas cita diretamente o Livro de Enoque.
 
-- **(Colossenses 4:16)**: «Leiam também a carta de Laodiceia.»
+- **(Colossenses 4:16)**: «Providenciem para que esta carta também seja lida na igreja dos laodicenses e para que vocês, por sua vez, leiam a carta de Laodiceia.»
 
-- ➡ Uma carta perdida é mencionada.
+- ➡ Paulo se refere a uma carta que já não temos.
 
 - **História:** O Livro de Enoque foi valorizado pelos primeiros cristãos, mas acabou excluído. A descoberta de Nag Hammadi (1945) revelou o Evangelho de Tomé e outros escritos. Os Manuscritos do Mar Morto (1947) trouxeram à luz textos perdidos e manuscritos alternativos. Muitos escritos foram suprimidos porque ameaçavam o controle institucional.
 
@@ -153,7 +153,7 @@ O *Livro de Enoque* foi amplamente lido nas comunidades judaicas e cristãs, cit
 
 * O Filho do Homem é revelado como eterno, escolhido antes da criação, entronizado para reinar.
 
-* Um novo céu e uma nova terra são prometidos aos eleitos.
+* Um novo céu e uma terra renovada são prometidos aos eleitos.
 
 ---
 
@@ -181,7 +181,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - Lucas 2 associa o nascimento a um recenseamento. O famoso recenseamento de Quirino ocorreu no ano 6 d.C., o que é muito tarde, mas algumas hipóteses são propostas: (1) Lucas refere-se a um recenseamento local anterior, (2) o texto grego pode ser lido como «antes de Quirino ser governador da Síria.» Nenhuma dessas propostas altera o marco histórico de 6–4 a.C.
 
-- Lucas 2:8 menciona pastores vivendo nos campos com seus rebanhos durante a noite. Os invernos nas colinas da Judeia são frios e úmidos (temperaturas noturnas frequentemente de 4–7 °C, com geadas e chuvas ocasionais). A vigília noturna ao ar livre corresponde melhor à primavera (época do nascimento dos cordeiros) ou ao outono (pastoreio pós-colheita), não ao inverno.
+- Lucas 2:8 menciona pastores vivendo nos campos com seus rebanhos durante a noite. Os invernos nas colinas da Judeia são frios e úmidos (temperaturas noturnas frequentemente de 4–7 °C, com geadas e chuvas ocasionais). A vigília noturna ao ar livre corresponde melhor à primavera (época do nascimento dos cordeiros) ou ao outono (pastoreio pós-colheita), não ao pleno inverno.
 
 - Roma celebrava a **Saturnália** em dezembro com enfeites de vegetação, banquetes e inversões de papéis sociais.
 
@@ -209,11 +209,11 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - Estes são os candidatos mais fortes porque unem Páscoa, sexta-feira e o governo de Pilatos.
 
-- As evidências astronômicas reforçam o ano 33: em **3 de abril de 33 d.C.**, ocorreu um eclipse lunar parcial ao pôr da lua em Jerusalém. Esta «lua de sangue» pode remeter a Atos 2:20 («a lua se tornará em sangue»). Humphreys e Waddington (1985) destacaram essa coincidência como um forte apoio.
+- As evidências astronômicas reforçam o ano 33: em **3 de abril de 33 d.C.**, ocorreu um eclipse lunar parcial ao nascer da lua em Jerusalém. Esta «lua de sangue» pode remeter a Atos 2:20 («a lua se tornará em sangue»). Humphreys e Waddington (1985) destacaram essa coincidência como um forte apoio.
 
 - Assim, a maioria dos estudiosos restringe a crucificação a **7 de abril de 30 d.C.** ou **3 de abril de 33 d.C.**, sendo a última geralmente preferida.
 
-- A mais antiga festa da ressurreição foi a *Pascha* (Pessach cristão).
+- A mais antiga festa da ressurreição, a *Pascha*, era celebrada durante a Páscoa judaica.
 
 - Os quartodecimanos celebravam em 14 de Nisã, independentemente do dia da semana; outros celebravam no domingo seguinte.
 
@@ -221,13 +221,13 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - Posteriormente, a Europa incorporou símbolos sazonais: ovos, lebres e imagens de fertilidade ligadas à primavera.
 
-- O nome inglês «Easter» vem de Beda, que mencionou um nome de mês local (*Eosturmonath*). A maioria das línguas mantém formas de «Pascha.» As alegações populares sobre Ishtar são difundidas, mas debatidas; não existem textos antigos diretos, embora a adoção de símbolos de fertilidade fosse comum.
+- O nome inglês «Easter» vem de Beda, que mencionou um nome de mês local (*Eosturmonath*). A maioria das línguas mantém formas de «Pascha.» As alegações populares sobre Ishtar são difundidas, mas debatidas; não existe uma ligação textual direta, embora imagens primaverais de fertilidade fossem comumente incorporadas à festa.
 
 ---
 
 ### Sincretismo Além do Calendário
 
-- Muitas festas cristãs e dias de santos absorveram práticas pagãs locais, substituindo antigos deuses por santos ou reinterpretando rituais com significados cristãos.
+- Muitas festas cristãs e dias de santos absorveram **práticas pagãs locais**, associando os santos a antigos deuses ou festas.
 
 - Isso facilitou a disseminação cultural do cristianismo, mas também introduziu costumes não enraizados na Escritura.
 
@@ -241,7 +241,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 - A Páscoa acumulou imagens primaverais e de fertilidade (ovos, lebres) de **costumes regionais europeus**; a alegação popular que a vincula a **Ishtar** é etimologicamente infundada.
 
-- Os santos foram frequentemente identificados com antigos deuses locais.
+- Os santos foram frequentemente associados a antigos deuses locais.
 
 ---
 
@@ -267,7 +267,7 @@ Representa a remoção do pecado e o caminhar em pureza; o corpo sem pecado do M
 (Êxodo 12:15–20) (Levítico 23:6–8) (Lucas 23:50–56) (1 Coríntios 5:8)
 
 **4. Primícias**  
-Oferta da primeira colheita; cumprida na ressurreição de Cristo como as primícias dos que dormem.  
+Oferta da primeira colheita; cumprida na ressurreição de Cristo como as primícias dos que foram ressuscitados dentre os mortos.  
 É celebrada oferecendo a primeira parte da colheita em gratidão a Deus, frequentemente expressa através de oração, caridade ou uma oferta de ação de graças.  
 (Levítico 23:9–14) (Deuteronômio 26:1–11) (1 Coríntios 15:20–23) (Romanos 8:29)
 
@@ -306,7 +306,7 @@ Não é ordenado nas Escrituras; 25 de dezembro foi adotado dos festivais romano
 (Jeremias 10:2–4) (Deuteronômio 12:29–32) (Marcos 7:8–9)
 
 **Páscoa (Easter)**  
-Originalmente a festa da ressurreição da Páscoa (*Pesach*); mais tarde misturada com símbolos de fertilidade e solares após o Concílio de Niceia. O nome inglês «Easter» vem de costumes locais da primavera, não das Escrituras.  
+Originalmente a festa da ressurreição celebrada durante a Páscoa judaica (*Pascha*); mais tarde misturada com símbolos de fertilidade e solares após o Concílio de Niceia. O nome inglês «Easter» vem de costumes locais da primavera, não das Escrituras.  
 (Êxodo 12:14) (1 Coríntios 5:7–8) (Atos 12:4) (Colossenses 2:16–17)
 
 **Halloween (Véspera de Todos os Santos)**  
@@ -321,7 +321,7 @@ Surgiram quando o cristianismo se espalhou por regiões pagãs; divindades locai
 
 ### **Resumo Final**
 
-Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados por Deus em (Levítico 23) e evitar festividades enraizadas no sincretismo pagão ou imperial. As festas ordenadas incluem o Sábado, Páscoa, Pães Asmos, Primícias, Shavuot, Trombetas, Expiação e Sukkot; juntas formam o calendário profético da redenção. Elas revelam a obra do Messias no cumprimento passado e na promessa futura. Celebrar esses tempos designados aprofunda a compreensão da aliança de Deus e separa o crente das tradições humanas que obscurecem a verdade bíblica.  
+Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados por Deus em (Levítico 23) e evitar festividades enraizadas no sincretismo pagão ou imperial. As festas ordenadas incluem o Sábado, Páscoa, Pães Asmos, Primícias, Shavuot, Trombetas, Expiação e Sukkot; juntas formam o calendário profético da redenção. Elas revelam a obra do Messias no cumprimento passado e na promessa futura. Celebrar esses tempos designados aprofunda a compreensão do ritmo da aliança de Deus e separa o crente das tradições humanas que obscurecem a verdade bíblica.  
 (Jeremias 10:2) (Mateus 15:3) (Colossenses 2:16–17) (Romanos 11:17–18)
 
 - A Escritura adverte contra a adoção dos costumes religiosos das nações vizinhas (Jeremias 10:2–4).
@@ -364,13 +364,13 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 - **(Oseias 4:6)**: «Meu povo perece por falta de conhecimento.»
 
-- ➡ Falta de verdade destrói.
+- ➡ O povo de Deus sofre quando lhe negam a verdade.
 
 - **(Mateus 23:13)**: «Vocês fecham o Reino dos céus diante dos homens.»
 
 - ➡ Líderes bloquearam o acesso a Deus.
 
-- **História:** O monopólio do latim, o Índice de Livros Proibidos (1559), indulgências vendidas; a imprensa quebrou o monopólio.
+- **História:** Durante séculos, somente os sacerdotes podiam ler a Bíblia em latim. As pessoas comuns eram proibidas de ter acesso a ela. A igreja criou o Índice de Livros Proibidos em 1559 para proibir escritos. As indulgências vendiam a salvação por dinheiro. A imprensa rompeu esse monopólio, difundindo as Escrituras nas línguas comuns.
 
 - **Conclusão:** Instituições controlaram o conhecimento para manter o poder.
 
@@ -378,12 +378,12 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 ## 8. Ecos modernos
 
-**(2 Timóteo 4:3–4)**: «Pois virá tempo em que não suportarão a sã doutrina… amontoarão mestres segundo as suas próprias cobiças.»  
+**(2 Timóteo 4:3–4)**: «Não suportarão a sã doutrina. Em vez disso… se cercarão de mestres para dizer o que seus ouvidos desejam ouvir.»  
 ➡ A Escritura adverte contra a distorção por conforto e poder.
 
 **História:** Os debates modernos sobre traduções, linguagem inclusiva e sexualidade refletem antigas lutas por controle. O evangelho da prosperidade ensina que a riqueza é vontade de Deus, semelhante à época medieval em que a igreja vendia indulgências (basicamente «ingressos para o céu» em troca de dinheiro). Hoje o cristianismo está dividido em dezenas de milhares de denominações, muitas mais moldadas por cultura, tradição ou política do que pelas palavras do próprio Jesus. Em todo o mundo a perseguição volta a crescer, e a verdade bíblica é ignorada ou moldada aos desejos da sociedade.
 
-**Conclusão:** O ciclo de distorção, poder e divisão continua hoje. Mas o avivamento ainda é possível. O avivamento não começa com programas ou movimentos, mas quando o povo de Deus se arrepende, abandona o compromisso e retorna à autoridade de sua Palavra. O mesmo Espírito que ressuscitou Jesus dentre os mortos ainda chama a igreja a despertar, a andar na verdade e a brilhar como luz em um mundo escuro.
+**Conclusão:** O ciclo de distorção, poder e divisão continua hoje. Mas o avivamento ainda é possível. O avivamento não começa com programas ou movimentos, mas quando o povo de Deus se arrepende, deixa de transigir e retorna à autoridade de sua Palavra. O mesmo Espírito que ressuscitou Jesus dentre os mortos ainda chama a igreja a despertar, a andar na verdade e a brilhar como luz em um mundo escuro.
 
 ---
 
@@ -401,10 +401,10 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 - **Traduções globais:** Do copta egípcio ao siríaco da Mesopotâmia e ao latim da Europa, as traduções surgiram de forma independente. Comparadas, todas testemunham o mesmo evangelho de Cristo crucificado e ressuscitado. Se houvesse corrupção, teria que ter ocorrido em todos os lugares ao mesmo tempo, o que a história não mostra.
 
-- **Custo das testemunhas oculares:** Os apóstolos e os primeiros crentes proclamaram a ressurreição de Jesus mesmo diante de tortura e morte. Ninguém morre voluntariamente por algo que sabe ser falso. A sobrevivência e a expansão do cristianismo mostram que a mensagem foi preservada.
+- **Custo das testemunhas oculares:** Os apóstolos e os primeiros crentes proclamaram a ressurreição de Jesus mesmo quando eram ameaçados de tortura e morte. Ninguém morre voluntariamente por algo que sabe ser falso. A sobrevivência e a expansão do cristianismo mostram que a mensagem foi preservada.
 
 - **Comparação com outros escritos:** Nenhuma outra obra antiga tem tantas evidências. Os escritos de Platão ou César sobrevivem em apenas alguns manuscritos, e ninguém os questiona. A Bíblia tem milhares, com menos de 1 por cento de variações, nenhuma das quais muda a mensagem da salvação.
 
-**Conclusão:** A Bíblia não é preservada apenas pela fé, mas também pela história. Sem a ressurreição, o cristianismo teria desaparecido no primeiro século. Em vez disso, espalhou-se pelo mundo porque a mensagem era verdadeira. Gerações de crentes deram a vida para transmitir este testemunho: a salvação é pela graça mediante a fé em Jesus Cristo, não pelas obras da lei que ninguém podia cumprir plenamente. Essa mensagem permanece clara e inalterada hoje.  
+**Conclusão:** A Bíblia não é apenas preservada pela fé, mas também comprovada pela história. Sem a ressurreição, o cristianismo teria desaparecido no primeiro século. Em vez disso, espalhou-se pelo mundo porque a mensagem era verdadeira. Gerações de crentes deram a vida para transmitir este testemunho: a salvação é pela graça mediante a fé em Jesus Cristo, não pelas obras da lei que ninguém podia cumprir plenamente. Essa mensagem permanece clara e inalterada hoje.  
 
 A Bíblia é unida por mais de 63.000 referências cruzadas, formando uma vasta rede de conexões que se desenvolveram naturalmente ao longo de séculos de escrita. De Moisés no deserto aos profetas de Israel até os apóstolos do primeiro século, cada geração de escritores repetiu, citou e expandiu o que havia sido escrito antes. Essas conexões se estendem por 1.500 anos, ligando 66 livros escritos em hebraico, aramaico e grego por cerca de 40 autores de três continentes. Longe de ser uma construção artificial, esse tecido cresceu organicamente: os salmos de Davi lembram a Torá, as profecias de Isaías apontam para o Messias e o Novo Testamento se ancora em cada parte do Antigo Testamento para mostrar que Jesus é o cumprimento das promessas de Deus. Hoje, estudiosos rastrearam e visualizaram essas referências cruzadas em arcos luminosos; mais de 63.000 ligações tecendo uma história contínua de redenção. A densidade e a harmonia dessas interconexões demonstram a singularidade da Bíblia: nenhum outro livro da história, escrito por tanto tempo e por tantas mãos, se alinha com tanta consistência, precisão e propósito.

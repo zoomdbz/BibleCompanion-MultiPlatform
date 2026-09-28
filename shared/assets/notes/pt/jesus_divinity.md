@@ -8,7 +8,7 @@ E
 
 2) Jesus é Deus  
 
-*Nota: As notas de tradução neste documento mostram como os textos originais (hebraico, grego e aramaico) expressam diretamente os termos ligados à identidade divina de Jesus. Não são traduções do português para o hebraico, grego ou aramaico, mas referências às línguas mais antigas da Escritura que confirmam a divindade de Jesus.*  
+*Nota: As notas de tradução neste documento mostram como os textos originais (hebraico, grego e aramaico) expressam diretamente os termos ligados à identidade divina de Jesus. Não são traduções do português para o hebraico, grego ou aramaico, mas as evidências linguísticas mais antigas que sustentam a divindade de Jesus.*  
 
 ---
 
@@ -120,7 +120,7 @@ E
   - Grego: ἐγώ εἰμι (*egō eimi*)  
   - Aramaico: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
   - **Português:** «EU SOU»  
-  - *Contexto: Jesus aplica a si mesmo o nome divino da auto-revelação do Êxodo.*  
+  - *Contexto: Jesus aplica diretamente a si mesmo a autorrevelação divina do Êxodo.*  
 
 -  João 10:30: «O Pai e eu somos um».  
 
@@ -187,7 +187,7 @@ E
 
 
 **Notas para leitores**  
--  Nos Evangelhos, Jesus não apenas afirma unidade com o Pai, mas exerce prerrogativas divinas: perdoar pecados, governar a criação, compartilhar o nome e a glória divinos e aceitar adoração. Os apóstolos então o descrevem com títulos divinos inequívocos.  
+-  Nos Evangelhos, Jesus não apenas afirma unidade com o Pai, mas exerce prerrogativas exclusivas de Deus: perdoar pecados, governar a criação, compartilhar o nome e a glória divinos e aceitar adoração. Os apóstolos então o descrevem com títulos divinos inequívocos.  
 
 
 ---

@@ -457,4 +457,9 @@
     <string name="ui_color_violet">बैंगनी</string>
     <string name="ui_color_magenta">मैजेंटा</string>
     <string name="ui_color_rose">गुलाबी</string>
+    <string name="ui_primary_color">प्राथमिक</string>
+    <string name="ui_secondary_color">द्वितीयक</string>
+    <string name="ui_tertiary_color">तृतीयक</string>
+    <string name="ui_custom_palette_hint">हर रंग अलग चुनें या दोनों सहायक रंगों को प्राथमिक रंग से मिलाएँ।</string>
+    <string name="ui_match_accent_colors">सहायक रंगों को प्राथमिक से मिलाएँ</string>
 </resources>

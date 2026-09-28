@@ -13,12 +13,12 @@ L’Écriture avertit que de faux enseignants surgissent souvent au sein même d
 
 La Bible fournit des critères clairs pour identifier les faux prophètes, les faux enseignants et les évangiles falsifiés :
 
-- **Deutéronome 13:1–5** – Les signes ou expériences spirituelles ne valident pas un message qui détourne de l’Éternel.
+- **Deutéronome 13:2–6** – Les signes ou expériences spirituelles ne valident pas un message qui détourne de l’Éternel.
 - **Deutéronome 18:20–22** – Une prophétie qui échoue révèle une autorité fausse.
 - **Matthieu 7:15–20** – Les faux prophètes se reconnaissent à leurs fruits.
 - **1 Jean 4:1–3** – La vraie confession affirme que Jésus-Christ est venu en chair.
 - **Galates 1:8–9** – Tout évangile modifié doit être rejeté, même s’il se présente comme divin.
-- **2 Pierre 2:1–3** – Les faux enseignants introduisent des hérésies destructrices et exploitent par des paroles trompeuses.
+- **2 Pierre 2:1–3** – Les faux enseignants introduisent des doctrines destructrices et exploitent leurs adeptes.
 
 **Les signes d’alerte courants incluent :**
 
@@ -34,7 +34,7 @@ La Bible fournit des critères clairs pour identifier les faux prophètes, les f
 
 ### Conclusion biblique
 
-L’Écriture ordonne d’éprouver tout enseignant et tout message.
+L’Écriture ordonne aux croyants d’éprouver tout enseignant et tout message.
 
 Si un enseignement modifie qui est Jésus, modifie l’Évangile ou ajoute des exigences au-delà de la foi en Christ, il ne s’agit pas du christianisme biblique.
 
@@ -95,13 +95,13 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 - Usage courant : pour exiger une obéissance aveugle au gouvernement, même aux régimes injustes.
 
-- La vérité : Paul affirme l’ordre de Dieu, mais les dirigeants eux-mêmes sont redevables devant Dieu. Les chrétiens obéissent aux autorités, sauf si obéir revient à désobéir à Dieu.
+- La vérité : Paul affirme l’ordre d’autorité établi par Dieu, mais les dirigeants eux-mêmes sont redevables devant Dieu. Les chrétiens obéissent aux autorités, sauf si obéir revient à désobéir à Dieu.
 
 - (Actes 5:29) : « Pierre et les apôtres répondirent : Il faut obéir à Dieu plutôt qu’aux hommes. »
 
 - (Daniel 3:16–18) : « Schadrac, Méschac et Abed-Nego répondirent au roi Nebucadnetsar : Nous n’avons pas besoin de te répondre là-dessus. Voici, notre Dieu que nous servons peut nous délivrer de la fournaise ardente, et il nous délivrera de ta main, ô roi. Sinon, sache, ô roi, que nous ne servirons pas tes dieux, et que nous n’adorerons pas la statue d’or que tu as élevée. »
 
-- (Daniel 6:10) : « Lorsque Daniel sut que le décret était écrit, il se retira dans sa maison, où les fenêtres de la chambre supérieure étaient ouvertes du côté de Jérusalem ; et trois fois le jour il se mettait à genoux, il priait, et il louait son Dieu, comme il le faisait auparavant. »
+- (Daniel 6:11) : « Lorsque Daniel sut que le décret était écrit, il se retira dans sa maison, où les fenêtres de la chambre supérieure étaient ouvertes du côté de Jérusalem ; et trois fois le jour il se mettait à genoux, il priait, et il louait son Dieu, comme il le faisait auparavant. »
 
 - (Apocalypse 13:4–8) : « Et ils adorèrent le dragon, parce qu’il avait donné l’autorité à la bête ; ils adorèrent la bête, en disant : Qui est semblable à la bête, et qui peut combattre contre elle ? Et il lui fut donné une bouche qui proférait des paroles arrogantes et des blasphèmes ; et il lui fut donné le pouvoir d’agir pendant quarante-deux mois. Et elle ouvrit sa bouche pour proférer des blasphèmes contre Dieu, pour blasphémer son nom, et son tabernacle, et ceux qui habitent dans le ciel. Il lui fut donné de faire la guerre aux saints et de les vaincre. Et il lui fut donné autorité sur toute tribu, tout peuple, toute langue, et toute nation. Et tous les habitants de la terre l’adoreront, ceux dont le nom n’a pas été écrit dès la fondation du monde dans le livre de vie de l’agneau qui a été immolé. »
 
@@ -112,11 +112,11 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 ## Leadership et « Ne touchez pas à l’oint de l’Éternel »
 (Psaume 105:15) : « Ne touchez pas à mes oints, Et ne faites pas de mal à mes prophètes ! »  
 
-(1 Samuel 24:6) : « Et il dit à ses gens : Que l’Éternel me garde de commettre contre mon seigneur, l’oint de l’Éternel, une action telle que de porter ma main sur lui ! car il est l’oint de l’Éternel. »
+(1 Samuel 24:7) : « Et il dit à ses gens : Que l’Éternel me garde de commettre contre mon seigneur, l’oint de l’Éternel, une action telle que de porter ma main sur lui ! car il est l’oint de l’Éternel. »
 
-- Usage courant : des pasteurs autoritaires citent cela pour réduire leurs critiques au silence, prétendant qu’ils sont intouchables.
+- Usage courant : des pasteurs et dirigeants autoritaires citent cela pour réduire leurs critiques au silence, prétendant qu’ils sont intouchables.
 
-- La vérité : ces versets mettent en garde contre la **violence physique**, pas contre la responsabilité spirituelle. Les dirigeants doivent toujours être corrigés lorsqu’ils pèchent.
+- La vérité : ces versets mettent en garde contre la **violence physique**, pas contre le fait de rendre honnêtement des comptes. Les dirigeants doivent toujours être corrigés lorsqu’ils pèchent.
 
 - (1 Timothée 5:20) : « Ceux qui pèchent, reprends-les devant tous, afin que les autres aussi éprouvent de la crainte. »
 
@@ -153,7 +153,7 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 - La vérité : Paul met en garde contre l’**amour** de l’argent, la cupidité qui détourne de la foi. L’argent en soi peut être utilisé pour le bien ou pour le mal. D’autres passages confirment cet équilibre.
 
-- (Ecclésiaste 5:10) : « Celui qui aime l’argent n’est pas rassasié par l’argent, et celui qui aime les richesses n’en jouit pas. C’est encore là une vanité. »
+- (Ecclésiaste 5:9) : « Celui qui aime l’argent n’est pas rassasié par l’argent, et celui qui aime les richesses n’en jouit pas. C’est encore là une vanité. »
 
 - (Proverbes 30:8–9) : « Éloigne de moi la fausseté et la parole de mensonge ; ne me donne ni pauvreté ni richesse ; accorde-moi le pain qui m’est nécessaire, de peur que dans l’abondance je ne te renie, et ne dise : Qui est l’Éternel ? ou que dans la pauvreté je ne dérobe, et ne m’attaque au nom de mon Dieu. »
 
@@ -219,7 +219,7 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 - Usage courant : cité comme preuve que Dieu promet santé et richesse à chaque croyant.
 
-- La vérité : il s’agit d’un **salut personnel** adressé à Gaïus, et non d’une garantie universelle. Cela reflète la prière de Jean pour le bien-être de son ami, non une promesse doctrinale. Le Nouveau Testament insiste sur l’endurance dans la souffrance, non sur l’évitement.
+- La vérité : il s’agit d’une **salutation personnelle** adressée à Gaïus, et non d’une garantie universelle. Cela reflète la prière de Jean pour le bien-être de son ami, non une promesse doctrinale. Le Nouveau Testament insiste sur l’endurance dans la souffrance, non sur l’évitement.
 
 - (2 Corinthiens 11:23–27) : « Sont-ils ministres de Christ ? – Je parle en homme qui extravague – je le suis plus encore : par les travaux bien plus, par les emprisonnements bien plus, par les coups bien plus, souvent en danger de mort. Cinq fois j’ai reçu des Juifs quarante coups moins un, trois fois j’ai été battu de verges, une fois j’ai été lapidé, trois fois j’ai fait naufrage, j’ai passé un jour et une nuit dans l’abîme. Fréquemment en voyage, j’ai été en péril sur les fleuves, en péril de la part des brigands, en péril de la part de ceux de ma nation, en péril de la part des païens, en péril dans les villes, en péril dans les déserts, en péril sur la mer, en péril parmi les faux frères. J’ai été dans le travail et dans la peine, exposé à de nombreuses veilles, à la faim et à la soif, à des jeûnes multipliés, au froid et à la nudité. »
 
@@ -234,7 +234,7 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 - Usage courant : des prédicateurs transforment cela en formule argent = bénédiction, promettant un retour financier garanti si l’on donne à leur ministère.
 
-- La vérité : Malachie s’adressait à Israël infidèle sous la Loi, l’appelant à soutenir les Lévites et le culte du temple. Ce n’est pas une promesse universelle de richesse pour les chrétiens. Dans le Nouveau Testament, l’offrande est volontaire et joyeuse, non contrainte par la promesse de richesses.
+- La vérité : Malachie s’adressait à Israël qui rompait l’alliance sous la Loi, l’appelant à revenir à l’obéissance en versant la dîme pour soutenir les Lévites et le culte du temple. Ce n’est pas une promesse universelle de richesse pour les chrétiens. Dans le Nouveau Testament, l’offrande est volontaire et joyeuse, non contrainte par la promesse de richesses.
 
 - (2 Corinthiens 9:7–8) : « Que chacun donne comme il l’a résolu en son cœur, sans tristesse ni contrainte ; car Dieu aime celui qui donne avec joie. Et Dieu peut vous combler de toutes sortes de grâces, afin que, possédant toujours en toutes choses de quoi satisfaire à tous vos besoins, vous ayez encore en abondance pour toute bonne œuvre. »
 
@@ -250,7 +250,7 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 - Usage courant : les églises et dirigeants ont historiquement utilisé Malachie 3:10 et Matthieu 23:23 pour exiger la dîme tout en s’enrichissant eux-mêmes.
 
-- La vérité : Jésus a repris les pharisiens pour avoir pratiqué la dîme tout en négligeant la justice et la miséricorde. Dans le Nouveau Testament, les dons ne sont jamais contraints ni pour enrichir les dirigeants.
+- La vérité : Jésus a repris les pharisiens pour avoir pratiqué la dîme tout en négligeant la justice et la miséricorde. Dans le Nouveau Testament, les dons ne sont jamais contraints et ne servent pas l’enrichissement personnel des dirigeants.
 
 - (Matthieu 23:23) : « Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous payez la dîme de la menthe, de l’aneth et du cumin, et que vous laissez ce qu’il y a de plus important dans la loi, la justice, la miséricorde et la fidélité : c’est là ce qu’il fallait pratiquer, sans omettre les autres choses. »
 
@@ -262,7 +262,7 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 ## Faux évangiles de licence
 
-- Usage courant : des faux docteurs excusent le péché sexuel, prêchant un « autre évangile » qui justifie la sensualité.
+- Usage courant : de faux enseignants minimisent le péché sexuel, prêchant un « autre évangile » qui excuse la fornication ou la sensualité.
 
 - La vérité : l’Écriture avertit à plusieurs reprises de ne pas transformer la grâce en permis de pécher.
 
@@ -280,13 +280,13 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 **Verset mal utilisé :** (Jean 15:19) « Si vous étiez du monde, le monde aimerait ce qui est à lui; mais parce que vous n’êtes pas du monde, et que je vous ai choisis du milieu du monde, à cause de cela le monde vous hait. »
 
-**Comment c’est utilisé :** Certains groupes s’en servent pour prétendre qu’eux seuls sont la véritable communauté chrétienne, fermée et exclusive, avec des réunions secrètes ou privées.
+**Comment c’est utilisé :** Certains s’en servent pour prétendre que seuls les membres d’un groupe caché, privé ou exclusif sont les « vrais » croyants, en présentant le secret ou l’exclusivité comme une preuve d’élection.
 
-**La vérité :** Jésus a dit que ses disciples seraient dans le monde mais différents par leur amour et leur lumière, pas par un système secret ou élitiste. L’Église est ouverte à tous ceux qui croient, sans distinction.
+**La vérité :** Jésus a appelé ses disciples à être la lumière du monde, visible de tous, et non à se cacher dans des clubs privés ou des groupes sélectifs. Appartenir à Christ est possible pour quiconque croit ; cette appartenance n’est pas réservée à une société secrète.
 
 **Passages de soutien :**
 
-- (Matthieu 5:14–16) « Vous êtes la lumière du monde... Que votre lumière brille devant les hommes. »
+- (Matthieu 5:14–16) « Vous êtes la lumière du monde… Une ville située sur une montagne ne peut être cachée. »
 
 - (Jean 3:16) « Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse pas, mais qu’il ait la vie éternelle. »
 
@@ -405,7 +405,7 @@ Toutes les phrases que l’on cite comme des « vérités bibliques » ne se t
 
 - (2 Corinthiens 4:17) : « Car nos légères afflictions du moment présent produisent pour nous, au-delà de toute mesure, un poids éternel de gloire. »
 
-- (Psaume 30:5) : « Car sa colère dure un instant, mais sa grâce toute la vie ; le soir arrivent les pleurs, et le matin l’allégresse. »
+- (Psaume 30:6) : « Car sa colère dure un instant, mais sa grâce toute la vie ; le soir arrivent les pleurs, et le matin l’allégresse. »
 
 - (1 Pierre 5:10) : « Le Dieu de toute grâce, qui vous a appelés en Jésus-Christ à sa gloire éternelle, après que vous aurez souffert un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra inébranlables. »
 
@@ -421,7 +421,7 @@ Toutes les phrases que l’on cite comme des « vérités bibliques » ne se t
 
 - (Daniel 2:21) : « C’est lui qui change les temps et les circonstances, qui renverse et qui établit les rois, qui donne la sagesse aux sages et la science à ceux qui ont de l’intelligence. »
 
-- (Psaume 22:28) : « Car à l’Éternel appartient le règne : Il domine sur les nations. »
+- (Psaume 22:29) : « Car à l’Éternel appartient le règne : Il domine sur les nations. »
 
 - (Actes 5:29) : « Pierre et les apôtres répondirent : Il faut obéir à Dieu plutôt qu’aux hommes. »
 

@@ -41,7 +41,7 @@ Questo distingue l’**Angelo di YHWH** (ebraico: מַלְאַךְ יְהוָה,
 
    Il testo passa quindi al **discorso divino in prima persona**, non a ordini riportati (es. «Moltiplicherò la tua discendenza», «Io sono il Dio di tuo padre Abramo»).
 
-   Il titolo funziona come un titolo di manifestazione, non come un rango creato.
+   Il titolo funziona come un titolo di manifestazione, non come un rango di creatura.
 
 Per questo motivo, il *mal’akh YHWH* è trattato come YHWH stesso, pur rimanendo distinto nella sua funzione (visibile, personale, interattivo).
 
@@ -55,7 +55,7 @@ Per questo motivo, il *mal’akh YHWH* è trattato come YHWH stesso, pur rimanen
 | **Adorazione** | Accetta adorazione (Giudici 13:20–22) | Rifiuta adorazione (Apocalisse 19:10; 22:8–9) |
 | **Identità dichiarata** | Chiamato direttamente «YHWH» (Esodo 3:2–6; Genesi 16:13) | Chiamato solo «messaggero» |
 | **Segno della partenza** | Scompare nel fuoco o nella gloria (Giudici 6:21; 13:20) | Semplicemente se ne va |
-| **Grammatica ebraica** | *Mal’akh YHWH* (unità costruttiva) | *Mal’akh Elohim* (possesso/separazione) |
+| **Grammatica ebraica** | *Mal’akh YHWH* (unità dello stato costrutto) | *Mal’akh Elohim* (possesso/separazione) |
 
 ---
 

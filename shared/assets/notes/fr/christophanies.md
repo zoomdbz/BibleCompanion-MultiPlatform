@@ -41,7 +41,7 @@ Cela distingue **l’Ange de YHWH** (hébreu : מַלְאַךְ יְהוָה, *m
 
    Le texte passe ensuite au **discours divin à la première personne**, et non à des ordres rapportés (par exemple : « Je multiplierai ta descendance », « Je suis le Dieu de ton père Abraham »).
 
-   Ce titre fonctionne donc comme un titre de manifestation, et non comme un rang créé.
+   Ce titre fonctionne donc comme un titre de manifestation, et non comme le rang d’une créature.
 
 C’est pourquoi le *mal’akh YHWH* est traité comme YHWH lui-même, tout en étant distinct dans son mode d’action (visible, personnel et interactif).
 
@@ -55,7 +55,7 @@ C’est pourquoi le *mal’akh YHWH* est traité comme YHWH lui-même, tout en �
 | **Adoration** | Accepte l’adoration (Juges 13:20–22) | Refuse l’adoration (Apocalypse 19:10 ; 22:8–9) |
 | **Identité déclarée** | Appelé directement « YHWH » (Exode 3:2–6 ; Genèse 16:13) | Appelé seulement « messager » |
 | **Signe de départ** | Disparaît dans le feu ou la gloire (Juges 6:21 ; 13:20) | S’en va simplement |
-| **Grammaire hébraïque** | *Mal’akh YHWH* (unité construite) | *Mal’akh Elohim* (possession/séparation) |
+| **Grammaire hébraïque** | *Mal’akh YHWH* (unité de l’état construit) | *Mal’akh Elohim* (possession/séparation) |
 
 ---
 
@@ -107,7 +107,7 @@ Dieu dit : « Nul ne peut me voir et vivre » (**Exode 33:20**).
 
 Pourtant, des hommes voient « Dieu » sous forme humaine ou angélique et survivent.
 
-La seule conclusion possible à partir du texte est qu’ils rencontrent une Personne divine qui représente parfaitement Dieu et agit en son nom; jamais un être créé.
+La seule conclusion possible à partir du texte est qu’ils rencontrent une Personne divine qui représente parfaitement Dieu et agit en tant que Dieu lui-même; jamais un être créé.
 
 ---
 

@@ -1,6 +1,6 @@
 # Consapevolezza Storica
 
-Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da traduzione, politica, adattamenti culturali e soppressione per vedere più chiaramente gli insegnamenti originali di Gesù.
+Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da traduzione, politica, prestiti culturali e soppressione per vedere più chiaramente gli insegnamenti originali di Gesù.
 
 ---
 
@@ -38,7 +38,7 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 **(Neemia 8:8)**: «Leggevano chiaramente dal libro della legge di Dio, spiegandone il senso, così che la gente capisse ciò che veniva letto.»  
 ➡ La Scrittura è sempre stata destinata a essere compresa.
 
-**Storia:** L’Antico Testamento fu tradotto in greco (Settanta) nei secoli III–II a.C. Più tardi, la Vulgata latina di Girolamo dominò, introducendo talvolta distorsioni («convertitevi» divenne «fate penitenza»). Nel 1611, re Giacomo approvò la Bibbia inglese, influenzata dalla politica. I Rotoli del Mar Morto confermarono la varietà dei testi ebraici.
+**Storia:** L’Antico Testamento fu tradotto in greco (la Settanta) nei secoli III–II a.C. Più tardi, la Vulgata latina di Girolamo dominò la Chiesa, introducendo talvolta distorsioni («pentitevi» divenne «fate penitenza»). Quando re Giacomo autorizzò la sua Bibbia inglese nel 1611, la politica influenzò alcune scelte. I Rotoli del Mar Morto confermarono in seguito la varietà dei testi ebraici in uso, mostrando che non esisteva un unico originale «perfetto».
 
 **Conclusione:** Le traduzioni contano. Le scelte linguistiche possono cambiare intere credenze.
 
@@ -72,9 +72,9 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 ## 4. Persecuzioni e riforme
 
 **(Giovanni 16:2)**: «Verrà il tempo in cui chiunque vi ucciderà penserà di rendere un servizio a Dio.»  
-➡ Gesù predisse la persecuzione.
+➡ Gesù predisse persecuzioni compiute nel suo nome.
 
-**Storia:** I riformatori cercarono di restituire la Bibbia al popolo. John Wycliffe tradusse in inglese e fu condannato persino dopo la morte. William Tyndale fu giustiziato nel 1536 per la sua traduzione. Le 95 tesi di Lutero del 1517 scatenarono la Riforma. Il Concilio di Trento (1545–1563) rafforzò il controllo della Chiesa.
+**Storia:** I riformatori cercarono di restituire la Bibbia al popolo. John Wycliffe tradusse in inglese e fu condannato persino dopo la morte. William Tyndale fu giustiziato nel 1536 per la sua traduzione inglese. Le 95 tesi di Martin Lutero del 1517 scatenarono la Riforma protestante. Il concilio cattolico di Trento (1545–1563) rafforzò ulteriormente il controllo.
 
 **Conclusione:** Chi sfidò la corruzione spesso pagò con la vita.
 
@@ -83,12 +83,12 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 ## 5. Testi perduti e soppressi
 
 **(Giuda 1:14–15)**: «Enoch, il settimo da Adamo, profetizzò...»  
-➡ Giuda cita direttamente Enoch.
+➡ Giuda cita direttamente il Libro di Enoch.
 
 **(Colossesi 4:16)**: «Leggete questa lettera anche nella chiesa dei Laodicesi, e leggete quella che arriva da Laodicea.»  
 ➡ Paolo menziona una lettera perduta.
 
-**Storia:** Il Libro di Enoch fu prezioso per i primi cristiani ma poi escluso. La scoperta di Nag Hammadi (1945) rivelò il Vangelo di Tommaso e altri testi. I Rotoli del Mar Morto (1947) mostrarono manoscritti alternativi. Molti scritti furono soppressi perché minacciavano l’autorità istituzionale.
+**Storia:** Il Libro di Enoch fu prezioso per i primi cristiani ma poi escluso. La scoperta di Nag Hammadi (1945) rivelò il Vangelo di Tommaso e altri testi. I Rotoli del Mar Morto (1947) rivelarono testi perduti e manoscritti alternativi. Molti scritti furono soppressi perché minacciavano il controllo istituzionale.
 
 **Conclusione:** La Bibbia stessa riconosce libri mancanti; la storia mostra che alcuni furono rimossi di proposito.
 
@@ -111,7 +111,7 @@ Il *Libro di Enoch* era ampiamente letto nelle comunità ebraiche e cristiane, c
 
 * **«A nostra immagine» spiegato**: Mostra che Gesù esisteva fin dal principio con il Padre, collegandosi a Genesi 1:26 («Facciamo l’uomo a nostra immagine»).
 
-* **Ponte tra Antico e Nuovo**: Collega l’attesa apocalittica ebraica con la profezia del Nuovo Testamento, rendendo più chiara l’Apocalisse.
+* **Ponte tra Antico e Nuovo**: Collega l’antica attesa apocalittica ebraica con la profezia del Nuovo Testamento, rendendo più chiara l’Apocalisse.
 
 ---
 
@@ -149,7 +149,7 @@ Il *Libro di Enoch* era ampiamente letto nelle comunità ebraiche e cristiane, c
 
 * Il Figlio dell’uomo è rivelato come eterno, scelto prima della creazione, intronizzato per regnare.
 
-* Un nuovo cielo e una nuova terra sono promessi agli eletti.
+* Un nuovo cielo e una terra rinnovata sono promessi agli eletti.
 
 ---
 
@@ -209,7 +209,7 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 - Così, la maggior parte degli studiosi colloca la crocifissione al **7 aprile 30 d.C.** o al **3 aprile 33 d.C.**, con una preferenza per quest’ultima.
 
-- La festa più antica della risurrezione fu la *Pascha* (Pasqua cristiana).
+- La più antica festa della risurrezione, la *Pascha*, si celebrava durante la Pasqua ebraica.
 
 - I quartodecimani la celebravano il 14 Nisan indipendentemente dal giorno della settimana; altri la osservavano la domenica successiva.
 
@@ -217,13 +217,13 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 - In Europa, in seguito, furono assorbiti simboli stagionali: uova, lepri e immagini di fertilità legate alla primavera.
 
-- Il nome inglese «Easter» proviene da Beda, che menzionò un nome di mese locale (*Eosturmonath*). La maggior parte delle lingue conserva forme di «Pascha.» Le affermazioni popolari su Ishtar sono diffuse ma discusse; non ci sono testi antichi diretti, sebbene l’adozione di simboli di fertilità fosse comune.
+- Il nome inglese «Easter» proviene da Beda, che menzionò un nome di mese locale (*Eosturmonath*). La maggior parte delle lingue conserva forme di «Pascha.» Le affermazioni popolari su Ishtar sono diffuse ma discusse; non esiste un legame testuale diretto, sebbene le immagini primaverili di fertilità venissero comunemente integrate nella festa.
 
 ---
 
 ### Sincretismo oltre il calendario
 
-- Molte feste cristiane e giorni dei santi assorbirono pratiche pagane locali, sostituendo antichi dèi con santi o reinterpretando i rituali con significati cristiani.
+- Molte feste cristiane e ricorrenze dei santi assorbirono **pratiche pagane locali**, associando i santi ad antichi dèi o feste.
 
 - Questo facilitò la diffusione culturale del cristianesimo, ma introdusse anche usanze non radicate nella Scrittura.
 
@@ -263,7 +263,7 @@ Si celebra eliminando tutto il lievito dalle case e mangiando pane azzimo per se
 (Esodo 12:15–20) (Levitico 23:6–8) (Luca 23:50–56) (1 Corinzi 5:8)
 
 **4. Primizie**  
-Offerta del primo raccolto; compiuta nella risurrezione di Cristo come primizia di coloro che dormono.  
+Offerta del primo raccolto; compiuta nella risurrezione di Cristo come primizia di coloro che sono risuscitati dai morti.  
 Si celebra offrendo la prima parte del raccolto in gratitudine a Dio, spesso espressa con preghiera, carità o un’offerta di ringraziamento.  
 (Levitico 23:9–14) (Deuteronomio 26:1–11) (1 Corinzi 15:20–23) (Romani 8:29)
 
@@ -284,7 +284,7 @@ Si osserva con digiuno, preghiera e confessione, cercando perdono e ristabilimen
 
 **8. Sukkot (Festa delle Capanne)**  
 Tempo di gioia che ricorda la provvidenza di Dio nel deserto; anticipa la sua dimora tra il suo popolo.  
-Si celebra costruendo e abitandone capanne temporanee chiamate *sukkot*, condividendo pasti, gioendo in famiglia e ringraziando per la provvidenza divina.  
+Si celebra costruendo capanne temporanee chiamate *sukkot* e abitandovi, condividendo pasti, gioendo in famiglia e ringraziando per la provvidenza divina.  
 (Levitico 23:33–43) (Neemia 8:14–18) (Zaccaria 14:16–19) (Giovanni 7:2–39) (Apocalisse 21:3–4)
 
 **Commemorazioni opzionali**  
@@ -302,7 +302,7 @@ Non comandato nella Scrittura; il 25 dicembre fu adottato dalle feste romane *So
 (Geremia 10:2–4) (Deuteronomio 12:29–32) (Marco 7:8–9)
 
 **Pasqua (Easter)**  
-Originariamente la festa pasquale della risurrezione (*Pesach*); successivamente mescolata con simboli di fertilità e solari dopo il Concilio di Nicea. Il termine inglese «Easter» deriva da usanze primaverili locali, non dalla Scrittura.  
+Originariamente la festa della risurrezione celebrata durante la Pasqua ebraica (*Pascha*); successivamente mescolata con simboli di fertilità e solari dopo il Concilio di Nicea. Il termine inglese «Easter» deriva da usanze primaverili locali, non dalla Scrittura.  
 (Esodo 12:14) (1 Corinzi 5:7–8) (Atti 12:4) (Colossesi 2:16–17)
 
 **Halloween (Vigilia di Tutti i Santi)**  
@@ -317,7 +317,7 @@ Sorsero quando il cristianesimo si diffuse in regioni pagane; le divinità local
 
 ### **Sintesi finale**
 
-I credenti che desiderano camminare in conformità con la Bibbia devono onorare i tempi stabiliti da Dio in (Levitico 23) ed evitare le festività radicate nel sincretismo pagano o imperiale. Le feste stabilite includono Sabato, Pasqua, Azzimi, Primizie, Shavuot, Trombe, Espiazione e Sukkot; insieme formano il calendario profetico della redenzione. Rivelano l’opera del Messia nel suo compimento passato e nella promessa futura. Celebrare questi tempi divini approfondisce la comprensione dell’alleanza di Dio e separa il credente dalle tradizioni umane che oscurano la verità biblica.  
+I credenti che desiderano camminare in conformità con la Bibbia devono onorare i tempi stabiliti da Dio in (Levitico 23) ed evitare le festività radicate nel sincretismo pagano o imperiale. Le feste stabilite includono Sabato, Pasqua, Azzimi, Primizie, Shavuot, Trombe, Espiazione e Sukkot; insieme formano il calendario profetico della redenzione. Rivelano l’opera del Messia nel suo compimento passato e nella promessa futura. Celebrare questi tempi divini approfondisce la comprensione del ritmo dell’alleanza di Dio e separa il credente dalle tradizioni umane che oscurano la verità biblica.  
 (Geremia 10:2) (Matteo 15:3) (Colossesi 2:16–17) (Romani 11:17–18)
 
 - La Scrittura avverte di non adottare le usanze religiose delle nazioni circostanti (Geremia 10:2–4).
@@ -359,12 +359,12 @@ I credenti che desiderano camminare in conformità con la Bibbia devono onorare 
 ## 7. Potere e controllo
 
 **(Osea 4:6)**: «Il mio popolo muore per mancanza di conoscenza.»  
-➡ La gente soffre quando è privata della verità.
+➡ Il popolo di Dio soffre quando viene privato della verità.
 
 **(Matteo 23:13)**: «Voi chiudete il regno dei cieli davanti alla gente.»  
 ➡ I leader impedirono l’accesso a Dio.
 
-**Storia:** Per secoli, solo il latino era permesso. Al popolo fu proibito leggere. Nel 1559 la Chiesa pubblicò l’Indice dei libri proibiti. Si vendevano indulgenze per denaro. La stampa ruppe questo monopolio e diffuse la Bibbia nelle lingue comuni.
+**Storia:** Per secoli, solo i sacerdoti potevano leggere la Bibbia in latino. Alla gente comune era vietato accedervi. Nel 1559 la Chiesa creò l’Indice dei libri proibiti per vietare determinati scritti. Le indulgenze vendevano la salvezza in cambio di denaro. La stampa infranse questo monopolio, diffondendo la Scrittura nelle lingue comuni.
 
 **Conclusione:** Le istituzioni controllarono la conoscenza per proteggere il potere.
 
@@ -372,7 +372,7 @@ I credenti che desiderano camminare in conformità con la Bibbia devono onorare 
 
 ## 8. Echi moderni
 
-**(2 Timoteo 4:3–4)**: « Verrà il tempo che non sopporteranno la sana dottrina… si cercheranno maestri secondo le proprie voglie. »  
+**(2 Timoteo 4:3–4)**: «Non sopporteranno la sana dottrina. Invece… si circonderanno di maestri che dicano ciò che le loro orecchie desiderano sentirsi dire.»  
 ➡ La Scrittura avverte della distorsione per comodità e potere.
 
 **Storia:** I dibattiti moderni su traduzioni, linguaggio inclusivo e sessualità riflettono antiche lotte per il controllo. Il vangelo della prosperità insegna che la ricchezza è volontà di Dio, simile a quando la chiesa medievale vendeva indulgenze (in pratica «biglietti per il cielo» in cambio di denaro). Il cristianesimo oggi è diviso in decine di migliaia di denominazioni, spesso più plasmate da cultura, tradizione o politica che dalle parole di Gesù stesso. In tutto il mondo, la persecuzione cresce di nuovo e la verità biblica viene ignorata o piegata ai desideri della società.
@@ -396,11 +396,10 @@ I credenti che desiderano camminare in conformità con la Bibbia devono onorare 
 
 - **Traduzioni globali:** Dall’Egitto copto alla Mesopotamia siriaca all’Europa latina, le traduzioni sorsero indipendentemente. Confrontate, testimoniano lo stesso vangelo di Cristo crocifisso e risorto. Se ci fosse stata corruzione, sarebbe dovuta avvenire ovunque nello stesso momento, cosa che la storia non mostra.
 
-- **Costo dei testimoni oculari:** Gli apostoli e i primi credenti proclamarono la risurrezione di Gesù anche davanti a torture e morte. Nessuno muore volontariamente per ciò che sa essere una menzogna. La sopravvivenza e la diffusione del cristianesimo mostrano che il messaggio è stato preservato.
+- **Costo dei testimoni oculari:** Gli apostoli e i primi credenti proclamarono la risurrezione di Gesù anche quando erano minacciati di tortura e di morte. Nessuno muore volontariamente per ciò che sa essere una menzogna. La sopravvivenza e la diffusione del cristianesimo mostrano che il messaggio è stato preservato.
 
 - **Confronto con altri scritti:** Nessun altro testo antico ha tante prove. Gli scritti di Platone o Cesare sopravvivono in pochi manoscritti eppure nessuno li mette in dubbio. La Bibbia ne ha migliaia, con meno dell’1 percento di varianti, nessuna delle quali cambia il messaggio della salvezza.
 
-**Conclusione:** La Bibbia non è solo preservata dalla fede ma anche dalla storia. Senza la risurrezione, il cristianesimo sarebbe scomparso nel primo secolo. Invece si diffuse nel mondo perché il messaggio era vero. Generazioni di credenti hanno dato la vita per trasmettere questa testimonianza: la salvezza è per grazia mediante la fede in Gesù Cristo, non per le opere della legge che nessuno poteva osservare pienamente. Questo messaggio rimane chiaro e immutato oggi.  
+**Conclusione:** La Bibbia non è solo preservata dalla fede, ma anche comprovata dalla storia. Senza la risurrezione, il cristianesimo sarebbe scomparso nel primo secolo. Invece si diffuse nel mondo perché il messaggio era vero. Generazioni di credenti hanno dato la vita per trasmettere questa testimonianza: la salvezza è per grazia mediante la fede in Gesù Cristo, non per le opere della legge che nessuno poteva osservare pienamente. Questo messaggio rimane chiaro e immutato oggi.  
 
 La Bibbia è unita da più di 63.000 riferimenti incrociati, che formano una vasta rete di connessioni sviluppatesi naturalmente attraverso secoli di scrittura. Da Mosè nel deserto ai profeti di Israele fino agli apostoli del primo secolo, ogni generazione di scrittori ha riecheggiato, citato ed espanso ciò che era stato scritto prima di loro. Questi collegamenti si estendono per 1.500 anni, collegando 66 libri scritti in ebraico, aramaico e greco da circa 40 autori di tre continenti. Lontano dall’essere una costruzione artificiale, questo tessuto è cresciuto organicamente: i salmi di Davide richiamano la Torah, le profezie di Isaia indicano il Messia, e il Nuovo Testamento si ancora a ogni parte dell’Antico Testamento per mostrare che Gesù è il compimento delle promesse di Dio. Oggi gli studiosi hanno tracciato e visualizzato questi riferimenti incrociati in archi luminosi; oltre 63.000 collegamenti che tessono una storia continua di redenzione. La densità e l’armonia di queste interconnessioni dimostrano l’unicità della Bibbia: nessun altro libro della storia, scritto per un periodo così lungo e da così tante mani, si accorda con tale coerenza, accuratezza e scopo.
-

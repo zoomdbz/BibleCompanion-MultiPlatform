@@ -40,7 +40,7 @@ L'uso di Matteo non cancella la crisi storica di Isaia. Dio si mostrò fedele al
 
 ### Betlemme e il sovrano dai giorni antichi
 
-Michea parla a una nazione sotto giudizio e promette da Betlemme un sovrano le cui origini risalgono ai giorni antichi (Michea 5:1-4). I capi dei sacerdoti e gli scribi la riconoscono come luogo atteso della nascita del Messia, e Matteo registra che Gesù vi nasce (Matteo 2:1-6).
+Michea parla a una nazione sotto giudizio e promette da Betlemme un sovrano le cui origini risalgono ai giorni antichi (Michea 4:14-5:4). I capi dei sacerdoti e gli scribi la riconoscono come luogo atteso della nascita del Messia, e Matteo registra che Gesù vi nasce (Matteo 2:1-6).
 
 Betlemme conserva la memoria di Davide, nato in quella piccola città (1 Samuele 16:1, 11-13). Anche il Messia, discendente di Davide e più grande di lui, viene da ciò che appare piccolo e pasce nella forza del SIGNORE (Michea 5:3; Matteo 2:6).
 
@@ -62,11 +62,11 @@ Giovanni prepara la venuta di Gesù chiamando Israele al ravvedimento. Il colleg
 
 Isaia 61:1-3 descrive uno unto dallo Spirito per annunciare buona notizia, libertà, guarigione e l'anno di grazia del SIGNORE. Gesù legge il brano a Nazaret e dichiara che si è adempiuto mentre l'assemblea lo ascolta (Luca 4:16-21). È una dichiarazione esplicita, non una somiglianza scoperta in seguito.
 
-Il suo ministero rende visibile l'annuncio. I poveri ricevono la buona notizia, i prigionieri libertà, i ciechi la vista e gli oppressi incontrano l'autorità del regno di Dio (Luca 7:18-23; Atti 10:37-38).
+Il suo ministero rende visibile l'annuncio. I poveri ricevono la buona notizia, i prigionieri libertà, i ciechi la vista e gli oppressi incontrano l'autorità del regno di Dio. Questi atti rivelano il significato della sua unzione (Luca 7:18-23; Atti 10:37-38).
 
 ### Luce in Galilea
 
-Isaia 8:23-9:6 passa dalle tenebre alla luce e dall'oppressione al regno del figlio promesso. Matteo colloca l'inizio del ministero galileo di Gesù dentro questa promessa (Matteo 4:12-17). La luce sorge in un territorio segnato da invasione e disprezzo, e Gesù annuncia che il regno dei cieli si è avvicinato.
+Isaia 8:22-9:6 passa dalle tenebre alla luce e dall'oppressione al regno del figlio promesso. Matteo colloca l'inizio del ministero galileo di Gesù dentro questa promessa (Matteo 4:12-17). Il contesto geografico è importante. La luce sorge in un territorio segnato da invasione e disprezzo, e Gesù annuncia che il regno dei cieli si è avvicinato.
 
 ### I segni della restaurazione
 
@@ -310,7 +310,7 @@ Il collegamento è esplicito e centrale. La risurrezione non è fuga dalla creaz
 
 ### Settimane e Pentecoste
 
-La festa delle Settimane segue il conteggio di sette settimane dall'offerta delle primizie (Levitico 23:15-22; Deuteronomio 16:9-12). Atti 2:1-41 colloca l'effusione dello Spirito Santo a Pentecoste. Pietro la spiega mediante la promessa dello Spirito in Gioele (Gioele 3:1-5; Atti 2:16-21).
+La festa delle Settimane segue il conteggio di sette settimane dall'offerta delle primizie (Levitico 23:15-22; Deuteronomio 16:9-12). Atti 2:1-41 colloca l'effusione dello Spirito Santo a Pentecoste. Pietro la spiega mediante la promessa dello Spirito in Gioele (Gioele 2:28-32; Atti 2:16-21).
 
 Gesù risorto ed esaltato effonde lo Spirito promesso (Atti 2:32-36). Persone di molte nazioni odono le grandi opere di Dio, si ravvedono, ricevono il battesimo ed entrano nella nuova comunità. Pentecoste porta avanti la benedizione promessa ad Abraamo e prepara la chiesa alla testimonianza (Atti 1:8).
 

@@ -149,7 +149,7 @@ Jesus existe em duas naturezas completas, divina e humana, unidas em uma pessoa.
 **Resultado:**
 - A Definição de Calcedônia
 
-- Fundação para a maior parte da teologia cristã hoje
+- Fundamento para a maior parte da teologia cristã hoje
 
 **O que NÃO fez:**
 - Não definiu a Escritura

@@ -47,7 +47,7 @@ Un'altra lettura separa Media e Persia nel secondo e terzo regno e fa della Grec
 
 ### La vittoria presente e futura della pietra
 
-Gesù si identifica con la pietra rifiutata diventata pietra angolare e avverte che essa frantumerà chiunque vi cada sopra (Matteo 21:42-44; confronta Salmo 118:22-23). Il suo regno era già presente nel suo ministero (Matteo 12:28; Luca 17:20-21), ed egli ricevette ogni autorità dopo la risurrezione (Matteo 28:18).
+Gesù si identifica con la pietra rifiutata diventata pietra angolare e avverte che essa frantumerà colui sul quale cadrà (Matteo 21:42-44; confronta Salmo 118:22-23). Il suo regno era già presente nel suo ministero (Matteo 12:28; Luca 17:20-21), ed egli ricevette ogni autorità dopo la risurrezione (Matteo 28:18).
 
 Il Nuovo Testamento attende anche la sconfitta pubblica di ogni potenza ostile. Cristo regna finché ogni nemico, compresa la morte, sia posto sotto i suoi piedi (1 Corinzi 15:24-28). L'Apocalisse vede il regno del mondo diventare quello di Dio e del suo Cristo (Apocalisse 11:15).
 
@@ -57,10 +57,10 @@ Alcuni collocano quindi l'intero colpo della pietra al ritorno futuro di Cristo,
 
 Daniele 7 ripete la successione dei regni dal punto di vista del cielo. Quattro bestie emergono da un mare in tempesta. L'angelo le chiama quattro re, poi parla di un quarto regno (Daniele 7:2-3, 17, 23). Le immagini rappresentano sovrani insieme ai domini che incarnano.
 
-- **Leone con ali d'aquila:** comunemente identificato con Babilonia; la sua umiliazione e umanizzazione ricordano quella di Nabucodonosor (Daniele 4:28-37; Daniele 7:4).
+- **Leone con ali d'aquila:** comunemente identificato con Babilonia; la sua condizione umiliata e umanizzata ricorda l'umiliazione e la restaurazione di Nabucodonosor (Daniele 4:28-37; Daniele 7:4).
 - **Orso alzato su un lato:** comunemente identificato con Media e Persia (Daniele 7:5). Associare le tre costole a Lidia, Babilonia ed Egitto è un'interpretazione storica; il versetto non le nomina.
 - **Leopardo con quattro ali e quattro teste:** comunemente associato alla Grecia e alle sue divisioni; Daniele 8 dice che quattro regni sorgono dopo la rottura del grande corno greco (Daniele 7:6; Daniele 8:21-22).
-- **Quarta bestia e le sue corna:** ha denti di ferro, dieci corna e un piccolo corno che ne sradica tre. Divora, frantuma, parla contro Dio e perseguita i santi (Daniele 7:7-8, 19-25). Roma è l'identificazione cristiana comune; la forma finale delle corna resta discussa.
+- **Quarta bestia e le sue corna:** è terrificante e ha denti di ferro, dieci corna e un piccolo corno che ne sradica tre. Divora, frantuma, si vanta contro Dio e perseguita i santi (Daniele 7:7-8, 19-25). Roma è l'identificazione cristiana comune del quarto regno; la forma finale delle sue corna e del piccolo corno resta discussa.
 
 Il punto del capitolo non dipende dal decifrare ogni corno in anticipo. L'Antico di giorni siede, il tribunale apre i libri, la bestia perde il dominio e il giudizio viene dato a favore dei santi (Daniele 7:9-12, 21-22, 26).
 
@@ -68,7 +68,7 @@ Il punto del capitolo non dipende dal decifrare ogni corno in anticipo. L'Antico
 
 Daniele vede «uno simile a un figlio d'uomo» venire sulle nuvole presso l'Antico di giorni. Riceve dominio, gloria e regno; popoli di ogni nazione e lingua lo servono (Daniele 7:13-14). Nella scena immediata il movimento va verso il trono celeste: è un'investitura regale.
 
-Gesù applica a sé il titolo e il linguaggio di Daniele. Dice al sommo sacerdote che vedranno il Figlio dell'uomo seduto alla destra della Potenza e venire sulle nuvole (Matteo 26:63-64), unendo Salmo 110:1 a Daniele 7:13. L'ascensione inaugura la sua rivendicazione in cielo (Atti 1:9; Atti 2:32-36); il ritorno visibile la rivela alla terra (Matteo 24:30; Apocalisse 1:7).
+Gesù assume ripetutamente il titolo «Figlio dell'uomo» e applica a sé il linguaggio di Daniele. Dice al sommo sacerdote che vedranno il Figlio dell'uomo seduto alla destra della Potenza e venire sulle nuvole (Matteo 26:63-64). Le sue parole uniscono Salmo 110:1, dove il re siede alla destra di Dio, a Daniele 7:13. L'ascensione inaugura quella rivendicazione pubblica in cielo (Atti 1:9; Atti 2:32-36); il ritorno visibile la rivela alla terra (Matteo 24:30; Apocalisse 1:7).
 
 Anche i santi ricevono il regno (Daniele 7:18, 22, 27). Il Figlio dell'uomo non è separato dal suo popolo. Il Re riceve il regno e lo condivide con quelli che gli appartengono. Il Nuovo Testamento conserva quest'ordine: Cristo eredita ogni cosa, e quelli uniti a lui regnano con lui (Ebrei 1:2; Romani 8:16-17; Apocalisse 3:21; Apocalisse 20:4-6).
 
@@ -88,7 +88,7 @@ Da uno di essi esce un piccolo corno. Cresce verso mezzogiorno, oriente e il pae
 
 Daniele 11 descrive un re spregevole che profana il santuario, sopprime il sacrificio e colloca l'abominazione della desolazione (Daniele 11:21, 31-35). Il vicino legame verbale sostiene la lettura storica secondo cui Daniele 8 e la prima parte di Daniele 11 descrivono lo stesso modello di persecuzione. L'identificazione comune è Antioco IV; il nome viene dalla ricostruzione storica, non dal testo.
 
-Il modello va oltre quella crisi. Gabriele dice che la visione riguarda «il tempo della fine» e l'ultimo tempo dell'indignazione (Daniele 8:17, 19). Gesù avverte i discepoli riguardo all'abominazione di Daniele ancora futura per loro (Matteo 24:15-22). Paolo descrive un empio che si innalza nel tempio e viene distrutto dal Signore alla sua venuta (2 Tessalonicesi 2:3-8). L'Apocalisse mostra una bestia che bestemmia e perseguita i santi per quarantadue mesi (Apocalisse 13:5-7). La Scrittura tratta la profanazione antica come un modello capace di ritornare in forma finale.
+Il modello va oltre quella crisi. Gabriele dice che la visione riguarda «il tempo della fine» e l'ultimo tempo dell'indignazione (Daniele 8:17, 19). Gesù avverte i discepoli riguardo all'abominazione di Daniele ancora futura per loro (Matteo 24:15-22). Paolo descrive un empio che si innalza nel tempio di Dio e viene distrutto dal Signore alla sua venuta (2 Tessalonicesi 2:3-8). L'Apocalisse mostra una bestia che bestemmia Dio e fa guerra ai santi per quarantadue mesi (Apocalisse 13:5-7). La Scrittura tratta la profanazione antica come un modello capace di ritornare in forma finale.
 
 ### Le 2.300 sere e mattine
 
@@ -113,7 +113,7 @@ Daniele 9:24-27 divide il periodo in tre parti:
 - Sessantadue settimane: 62 x 7 = 434 anni.
 - Un'ultima settimana: 7 anni.
 
-I primi due segmenti totalizzano sessantanove settimane, cioè 483 anni; tutti e settanta totalizzano 490 anni.
+I primi due segmenti totalizzano sessantanove settimane, cioè 483 anni; tutte e settanta le settimane totalizzano 490 anni.
 
 La profezia attraversa una parola di restaurazione, Gerusalemme ricostruita, un capo unto, la soppressione di un unto, la distruzione della città e del santuario, un'azione di patto nell'ultima settimana, la cessazione del sacrificio a metà e una desolazione decretata (Daniele 9:24-27).
 
@@ -179,11 +179,11 @@ Un'altra lettura pone una cesura più netta dopo le prime sette settimane. Un ca
 
 ### Ciro: il ritorno e il tempio
 
-Ciro autorizza il ritorno e la ricostruzione della casa del SIGNORE (2 Cronache 36:22-23; Esdra 1:1-4). Isaia lo aveva già nominato come il sovrano mediante cui Gerusalemme sarebbe stata ricostruita e il tempio fondato (Isaia 44:26-28; Isaia 45:13). Il decreto ha forti credenziali profetiche, ma Esdra si concentra sul tempio.
+Ciro autorizza gli esuli a tornare e a ricostruire la casa del SIGNORE a Gerusalemme (2 Cronache 36:22-23; Esdra 1:1-4). Isaia lo aveva già nominato come il sovrano mediante cui Gerusalemme sarebbe stata ricostruita e il tempio fondato (Isaia 44:26-28; Isaia 45:13). Il decreto ha forti credenziali profetiche, ma Esdra si concentra sul tempio.
 
 ### Dario: conferma del decreto del tempio
 
-Dario ricerca gli archivi, conferma l'ordine di Ciro, finanzia e protegge i lavori (Esdra 6:1-12). Esdra riassume il completamento sotto gli ordini di Ciro, Dario e Artaserse (Esdra 6:14-15). Dario continua la restaurazione, ma il suo decreto non è il consueto punto iniziale.
+Dario consulta gli archivi, conferma l'ordine di Ciro, finanzia e protegge i lavori (Esdra 6:1-12). Esdra riassume il completamento del tempio sotto gli ordini di Ciro, Dario e Artaserse (Esdra 6:14-15). Dario continua la restaurazione, ma il suo decreto registrato non fornisce il consueto punto iniziale per le sessantanove settimane.
 
 ### Artaserse ed Esdra: legge, governo e restaurazione
 
@@ -213,7 +213,7 @@ La sottrazione elimina l'anno zero inesistente fra l'1 a.C. e l'1 d.C.
 
 Il risultato pone nel 26 d.C. la fine delle sessantanove settimane. Il modello identifica il capo unto con l'unzione pubblica di Gesù e l'inizio del suo ministero. Gesù viene battezzato, lo Spirito scende su di lui ed egli annuncia il regno (Luca 3:21-23; Luca 4:16-21; Atti 10:37-38).
 
-La data dipende dalla ricostruzione. Esdra nomina il settimo anno di Artaserse, non il 458 a.C. (Esdra 7:7-9). Luca nomina il quindicesimo anno di Tiberio; convertirlo nel 26 dipende dal conteggio del regno (Luca 3:1-3). Daniele non dice che le sessantanove settimane terminino al battesimo anziché a un'altra manifestazione regale.
+La data dipende dalla ricostruzione storica. Esdra nomina il settimo anno di regno di Artaserse, ma non lo chiama 458 a.C. (Esdra 7:7-9). Luca data il ministero di Giovanni Battista al quindicesimo anno di Tiberio; convertirlo nel 26 d.C. dipende da come si conta il regno di Tiberio (Luca 3:1-3). Daniele non dice esplicitamente che le sessantanove settimane terminino al battesimo di Gesù anziché a un'altra manifestazione della sua regalità.
 
 #### Dal 26 a una crocifissione nella primavera del 30
 

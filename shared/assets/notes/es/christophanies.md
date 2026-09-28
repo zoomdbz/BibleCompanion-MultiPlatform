@@ -41,7 +41,7 @@ Esto distingue al **Ángel de YHWH** (hebreo: מַלְאַךְ יְהוָה, *ma
 
    Luego, el texto cambia a **discurso divino en primera persona**, no a órdenes citadas (por ejemplo, «Multiplicaré tu descendencia», «Yo soy el Dios de tu padre Abraham»).
 
-   El título funciona como un título de manifestación, no como un rango creado.
+   El título funciona como un título de manifestación, no como un rango de criatura.
 
 Por eso el *mal’akh YHWH* es tratado como YHWH mismo, aunque distinto en su operación (visible, personal e interactivo).
 

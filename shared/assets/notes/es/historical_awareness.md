@@ -38,7 +38,7 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 **(Nehemías 8:8)**: «Leían en el libro de la ley de Dios claramente, y explicaban el sentido para que la gente entendiera la lectura.»  
 ➡ La Biblia siempre fue destinada a ser entendida.
 
-**Historia:** El Antiguo Testamento se tradujo al griego (Septuaginta) en los siglos III–II a.C. Después, la Vulgata latina de Jerónimo dominó, introduciendo a veces distorsiones («arrepentíos» se volvió «hacer penitencia»). En 1611, el rey Jacobo aprobó la Biblia inglesa, con elecciones influenciadas por la política. Los Rollos del Mar Muerto confirmaron la variedad de textos hebreos.
+**Historia:** El Antiguo Testamento se tradujo al griego (la Septuaginta) en los siglos III–II a. C. Más tarde, la Vulgata latina de Jerónimo dominó la iglesia e introdujo a veces distorsiones: «arrepentirse» pasó a ser «hacer penitencia». Cuando el rey Jacobo autorizó su Biblia inglesa en 1611, la política influyó en ciertas decisiones. Los Rollos del Mar Muerto confirmaron después la variedad de textos hebreos que se utilizaban y mostraron que no había un único original «perfecto».
 
 **Conclusión:** Las traducciones importan. La elección de palabras puede cambiar doctrinas enteras.
 
@@ -72,9 +72,9 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 ## 4. Persecución y movimientos de reforma
 
 **(Juan 16:2)**: «Llega el momento en que cualquiera que los mate pensará que ofrece un servicio a Dios.»  
-➡ Jesús predijo persecución.
+➡ Jesús predijo persecución en su nombre.
 
-**Historia:** Los reformadores buscaron devolver la Biblia al pueblo. John Wycliffe tradujo al inglés y fue condenado incluso después de muerto. William Tyndale fue ejecutado en 1536 por su traducción. Las 95 tesis de Lutero en 1517 iniciaron la Reforma. El Concilio de Trento (1545–1563) reforzó el control.
+**Historia:** Los reformadores intentaron devolver la Escritura al pueblo. John Wycliffe la tradujo al inglés y fue condenado incluso después de su muerte. William Tyndale fue ejecutado en 1536 por su traducción inglesa. Las 95 tesis de Martín Lutero en 1517 desencadenaron la Reforma protestante. El Concilio católico de Trento (1545–1563) redobló el control.
 
 **Conclusión:** Quienes desafiaron la corrupción a menudo pagaron con su vida.
 
@@ -83,12 +83,12 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 ## 5. Textos perdidos y suprimidos
 
 **(Judas 1:14–15)**: «También profetizó acerca de ellos Enoc, el séptimo desde Adán...»  
-➡ Judas cita directamente a Enoc.
+➡ Judas cita directamente el Libro de Enoc.
 
 **(Colosenses 4:16)**: «Lean también esta carta en la iglesia de Laodicea, y lean ustedes la carta que viene de Laodicea.»  
 ➡ Pablo menciona una carta perdida.
 
-**Historia:** El Libro de Enoc fue valioso para los primeros cristianos pero fue excluido más tarde. El hallazgo de Nag Hammadi (1945) reveló el Evangelio de Tomás y otros textos. Los Rollos del Mar Muerto (1947) mostraron manuscritos alternativos. Muchos escritos fueron suprimidos porque amenazaban la autoridad de la iglesia.
+**Historia:** Los primeros cristianos valoraban el Libro de Enoc, pero más tarde quedó excluido. El hallazgo de Nag Hammadi (1945) sacó a la luz el Evangelio de Tomás y otros escritos. Los Rollos del Mar Muerto (1947) revelaron textos perdidos y manuscritos alternativos. Muchos escritos fueron suprimidos porque amenazaban el control institucional.
 
 **Conclusión:** La Biblia misma reconoce libros perdidos: la historia muestra que algunos fueron eliminados deliberadamente.
 
@@ -205,11 +205,11 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 - Estos son los candidatos más sólidos porque combinan Pascua, viernes y el mandato de Pilato.
 
-- La evidencia astronómica refuerza el año 33: el **3 de abril del 33 d. C.** ocurrió un eclipse lunar parcial al anochecer en Jerusalén. Este «luna de sangre» puede relacionarse con Hechos 2:20 («la luna se convertirá en sangre»). Humphreys y Waddington (1985) destacaron esta coincidencia como un apoyo convincente.
+- La evidencia astronómica refuerza el año 33: el **3 de abril del 33 d. C.** ocurrió un eclipse lunar parcial al salir la luna en Jerusalén. Esta «luna de sangre» puede relacionarse con Hechos 2:20 («la luna se convertirá en sangre»). Humphreys y Waddington (1985) destacaron esta coincidencia como un apoyo convincente.
 
 - Así, la mayoría de los eruditos sitúa la crucifixión en el **7 de abril del 30 d. C.** o el **3 de abril del 33 d. C.**, favoreciendo a menudo esta última.
 
-- La celebración más antigua de la resurrección fue *Pascua* (Pesaj cristiano).
+- La fiesta más antigua de la resurrección, *Pascha*, se celebraba durante la Pascua judía.
 
 - Los cuartodecimanos la celebraban el 14 de Nisán sin importar el día de la semana; otros el domingo siguiente.
 
@@ -217,13 +217,13 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 - En Europa, más tarde, se absorbieron símbolos estacionales: huevos, liebres e imágenes de fertilidad asociadas con la primavera.
 
-- El nombre inglés «Easter» proviene de Beda, que mencionó un nombre de mes local (*Eosturmonath*). La mayoría de los idiomas conserva formas de «Pascua.» Las afirmaciones populares sobre Ishtar son muy difundidas pero discutidas; no hay textos antiguos directos, aunque la adopción de símbolos de fertilidad fue común.
+- El nombre inglés «Easter» proviene de Beda, que mencionó un nombre de mes local (*Eosturmonath*). La mayoría de los idiomas conserva formas de «Pascua.» Las afirmaciones populares sobre Ishtar son muy difundidas pero discutidas; no existe una conexión textual directa, aunque era común incorporar a la fiesta imágenes de fertilidad primaveral.
 
 ---
 
 ### Sincretismo Más Allá del Calendario
 
-- Muchas fiestas cristianas y días de santos absorbieron prácticas paganas locales, asignando santos en lugar de dioses antiguos o reinterpretando los rituales con significados cristianos.
+- Muchas fiestas cristianas y días de santos absorbieron **prácticas paganas locales**, asociando santos con dioses o festividades anteriores.
 
 - Esto facilitó la expansión cultural del cristianismo, pero también introdujo costumbres que no se basan en la Escritura.
 
@@ -263,7 +263,7 @@ Se celebra eliminando toda levadura de los hogares y comiendo pan sin levadura d
 (Éxodo 12:15–20) (Levítico 23:6–8) (Lucas 23:50–56) (1 Corintios 5:8)
 
 **4. Primicias**  
-La ofrenda de la primera cosecha; cumplida en la resurrección de Cristo como las primicias de los muertos.  
+La ofrenda de la primera cosecha; cumplida en la resurrección de Cristo como las primicias de quienes resucitan de entre los muertos.  
 Se celebra ofreciendo la primera porción de la cosecha en gratitud a Dios, a menudo expresada con oración, caridad o una ofrenda de acción de gracias.  
 (Levítico 23:9–14) (Deuteronomio 26:1–11) (1 Corintios 15:20–23) (Romanos 8:29)
 
@@ -303,7 +303,7 @@ No está ordenada en la Escritura; el 25 de diciembre fue adoptado de las fiesta
 
 **Pascua (Easter)**  
 Originalmente la fiesta de la Pascua y resurrección (*Pésaj*); más tarde se mezcló con símbolos solares y de fertilidad después del Concilio de Nicea. El término inglés «Easter» proviene de costumbres primaverales locales y no de la Escritura.  
-(Éxodo
+(Éxodo 12:14) (1 Corintios 5:7–8) (Hechos 12:4) (Colosenses 2:16–17)
 
 **Halloween (Víspera de Todos los Santos)**  
 Tiene su origen en el festival celta *Samhain*; más tarde se mezcló con rituales católicos de los antepasados. Se centra en la muerte, el miedo y la nigromancia, cosas que Dios condena.  
@@ -317,7 +317,7 @@ Surgieron cuando el cristianismo se extendió a regiones paganas; los dioses loc
 
 ### **Conclusión resumida**
 
-Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señalados establecidos por Dios en (Levítico 23) y evitar las festividades enraizadas en el sincretismo pagano o imperial. Las fiestas designadas incluyen el Sábado, la Pascua, los Panes sin Levadura, las Primicias, Shavuot, las Trompetas, la Expiación y Sucot; juntas forman el calendario profético de la redención. Revelan la obra del Mesías en cumplimiento pasado y promesa futura. Celebrar estos tiempos divinos profundiza la comprensión del pacto de Dios y separa al creyente de las tradiciones humanas que oscurecen la verdad bíblica.  
+Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señalados establecidos por Dios en (Levítico 23) y evitar las festividades enraizadas en el sincretismo pagano o imperial. Las fiestas designadas incluyen el Sábado, la Pascua, los Panes sin Levadura, las Primicias, Shavuot, las Trompetas, la Expiación y Sucot; juntas forman el calendario profético de la redención. Revelan la obra del Mesías en cumplimiento pasado y promesa futura. Celebrar estos tiempos divinos profundiza la comprensión del ritmo del pacto de Dios y separa al creyente de las tradiciones humanas que oscurecen la verdad bíblica.  
 (Jeremías 10:2) (Mateo 15:3) (Colosenses 2:16–17) (Romanos 11:17–18)
 
 - La Escritura advierte contra adoptar las costumbres religiosas de las naciones vecinas (Jeremías 10:2–4).
@@ -360,12 +360,12 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 ## 7. Mecanismos de control
 
 **(Oseas 4:6)**: «Mi pueblo perece por falta de conocimiento.»  
-➡ La gente sufre cuando carece de verdad.
+➡ El pueblo de Dios sufre cuando se le niega la verdad.
 
 **(Mateo 23:13)**: «Ustedes cierran la entrada al reino de los cielos delante de la gente.»  
 ➡ Los líderes bloquearon el acceso a Dios.
 
-**Historia:** Durante siglos, solo el latín estaba permitido. Al pueblo se le prohibió leer. En 1559 la iglesia publicó el «Índice de libros prohibidos». Se vendían indulgencias por dinero. La imprenta rompió ese monopolio y difundió la Biblia en lenguas comunes.
+**Historia:** Durante siglos, solo los sacerdotes podían leer la Biblia en latín. A la gente común se le prohibía el acceso. La iglesia creó el Índice de libros prohibidos en 1559 para vetar escritos. Las indulgencias vendían la salvación por dinero. La imprenta rompió ese monopolio y difundió la Escritura en las lenguas comunes.
 
 **Conclusión:** Las instituciones controlaron el conocimiento para proteger su poder.
 
@@ -373,12 +373,12 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 
 ## 8. Ecos modernos
 
-**(2 Timoteo 4:3–4)**: «Vendrá tiempo cuando no soportarán la sana doctrina… se amontonarán maestros conforme a sus propios deseos.»  
+**(2 Timoteo 4:3–4)**: «No soportarán la sana doctrina. En cambio… se rodearán de maestros que les digan lo que sus oídos ansían escuchar.»  
 ➡ La Escritura advierte sobre la distorsión por comodidad y poder.
 
 **Historia:** Los debates actuales sobre traducciones, lenguaje inclusivo y sexualidad reflejan antiguas luchas por el control. El evangelio de la prosperidad enseña que la riqueza es la voluntad de Dios, parecido a cuando la iglesia medieval vendía indulgencias (básicamente «boletos al cielo» por dinero). El cristianismo hoy está dividido en decenas de miles de denominaciones, muchas más moldeadas por la cultura, la tradición o la política que por las palabras de Jesús mismo. En todo el mundo, la persecución vuelve a crecer, y la verdad bíblica es ignorada o adaptada a los deseos de la sociedad.
 
-**Conclusión:** El ciclo de distorsión, poder y división continúa hoy. Sin embargo, el avivamiento aún es posible. El avivamiento no comienza con programas ni movimientos, sino cuando el pueblo de Dios se arrepiente, se aparta del compromiso y vuelve a la autoridad de su Palabra. El mismo Espíritu que resucitó a Jesús de los muertos todavía llama a la iglesia a despertar, a caminar en la verdad y a ser luz en un mundo oscuro.
+**Conclusión:** El ciclo de distorsión, poder y división continúa hoy. Sin embargo, el avivamiento aún es posible. El avivamiento no comienza con programas ni movimientos, sino cuando el pueblo de Dios se arrepiente, deja de transigir y vuelve a la autoridad de su Palabra. El mismo Espíritu que resucitó a Jesús de los muertos todavía llama a la iglesia a despertar, a caminar en la verdad y a ser luz en un mundo oscuro.
 
 ---
 
@@ -400,7 +400,6 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 
 - **Comparación con otros escritos:** Ninguna otra obra antigua tiene tanta evidencia. Los escritos de Platón o César sobreviven en solo unos pocos manuscritos, y sin embargo nadie los cuestiona. La Biblia tiene miles, con menos del 1 por ciento de variaciones, ninguna de las cuales cambia el mensaje de salvación.
 
-**Conclusión:** La Biblia no solo se preserva por la fe sino también por la historia. Sin la resurrección, el cristianismo habría desaparecido en el primer siglo. En cambio, se extendió por el mundo porque el mensaje era verdadero. Generaciones de creyentes dieron su vida para transmitir este testimonio: la salvación es por gracia mediante la fe en Jesucristo, no por obras de la ley que nadie podía cumplir plenamente. Ese mensaje sigue claro e inmutable hoy.  
+**Conclusión:** La Biblia no solo se conserva por la fe; la historia también la confirma. Sin la resurrección, el cristianismo habría desaparecido en el primer siglo. En cambio, se extendió por el mundo porque el mensaje era verdadero. Generaciones de creyentes dieron su vida para transmitir este testimonio: la salvación es por gracia mediante la fe en Jesucristo, no por obras de la ley que nadie podía cumplir plenamente. Ese mensaje sigue claro e inmutable hoy.  
 
 La Biblia está unida por más de 63,000 referencias cruzadas, formando una vasta red de conexiones que se desarrollaron de manera natural a lo largo de siglos de escritura. Desde Moisés en el desierto hasta los profetas de Israel y los apóstoles del primer siglo, cada generación de escritores repitió, citó y amplió lo que vino antes. Estas conexiones abarcan 1,500 años, vinculando 66 libros escritos en hebreo, arameo y griego por unos 40 autores de tres continentes. Lejos de ser una construcción artificial, este tapiz creció orgánicamente: los salmos de David recuerdan la Torá, las profecías de Isaías señalan al Mesías, y el Nuevo Testamento se ancla en cada parte del Antiguo Testamento para mostrar que Jesús es el cumplimiento de las promesas de Dios. Hoy, los eruditos han rastreado y visualizado estas referencias cruzadas en arcos luminosos; más de 63,000 enlaces que tejen una historia continua de redención. La densidad y armonía de estas interconexiones demuestran la singularidad de la Biblia: ningún otro libro en la historia, escrito durante tanto tiempo por tantas manos, concuerda con tal consistencia, precisión y propósito.
-

@@ -63,6 +63,46 @@ NATIVE_QUOTE_CORRECTIONS = {
 }
 
 
+# Independently reviewed translation repairs against the unchanged English.
+# Keep exact replacements so the remaining historical text still has a strict
+# no-loss check; do not exempt entire paragraphs or sections.
+STUDY_TRANSLATION_CORRECTIONS = {
+    "it": {
+        "Il verbo greco dietro «rapiti» è **harpazo**, che significa afferrare o portare via. Il termine teologico «rapimento» deriva in ultima analisi dalla traduzione latina di questo concetto.":
+            "Il verbo greco dietro «rapiti» è **harpazo**, che significa afferrare o portare via. Il termine teologico inglese «rapture», corrispondente all'italiano «rapimento», deriva in ultima analisi dalla traduzione latina di questo concetto.",
+    },
+    "pt": {
+        "O verbo grego traduzido como \"arrebatados\" é **harpazo**, que significa agarrar ou levar de repente. O termo teológico \"arrebatamento\" descreve esse conceito bíblico.":
+            "O verbo grego traduzido como \"arrebatados\" é **harpazo**, que significa agarrar ou levar de repente. O termo teológico inglês \"rapture\", correspondente ao português \"arrebatamento\", deriva em última análise da tradução latina desse conceito.",
+        "7. **Os crentes não estão destinados à ira de Deus.** Veja **1 Tessalonicenses 5:9**. A questão não resolvida é se isso significa retirada de todo o período da tribulação ou preservação da ira de Deus durante ele.":
+            "7. **Os crentes não estão destinados à ira de Deus.** Veja **1 Tessalonicenses 5:9**. A questão não resolvida é se isso significa retirada de todo o período da tribulação ou proteção contra a ira de Deus durante esse período.",
+    },
+    "ar": {
+        "يعطيها سفر الرؤيا اسم بابل العظيمة (**رؤيا 17:5**) ولا يعطيها اسما آخر. ويدعوها النص «المدينة العظيمة التي لها ملك على ملوك الأرض» (**رؤيا 17:18**)، والجالسة على «سبعة جبال» (**رؤيا 17:9**)، و«السكرى من دم القديسين» (**رؤيا 17:6**). ويعرضها النص كقوة فاسدة وغنية ومضطهدة واقعة تحت الدينونة الإلهية.":
+            "يعطيها سفر الرؤيا اسم بابل العظيمة (**رؤيا 17:5**) ولا يعطيها اسما آخر. ويدعوها النص «المدينة العظيمة التي لها ملك على ملوك الأرض» (**رؤيا 17:18**)، والجالسة على «سبعة جبال» (**رؤيا 17:9**)، و«السكرى من دم القديسين» (**رؤيا 17:6**). ويعرضها النص كقوة فاسدة وغنية تمارس الاضطهاد وتقع تحت الدينونة الإلهية.",
+        "بسبب هذه النصوص، تميز هذه الدراسة **يقين عودة المسيح وجمع شعبه وقيامته** من **نموذج التوقيت المختلف عليه الذي يوضع به ذلك الجمع ضمن تسلسل سفر الرؤيا**.":
+            "بسبب هذه النصوص، تميز هذه الدراسة **يقين عودة المسيح وجمع شعبه وقيامتهم** من **نموذج التوقيت المختلف عليه الذي يوضع به ذلك الجمع ضمن تسلسل سفر الرؤيا**.",
+    },
+    "fr": {
+        "Le verbe grec traduit par « enlevés » est **harpazo**, qui signifie saisir ou enlever. Le terme théologique français « enlèvement » traduit ce concept que le latin a rendu à l'origine du mot anglais correspondant.":
+            "Le verbe grec traduit par « enlevés » est **harpazo**, qui signifie saisir ou enlever. Le terme théologique anglais « rapture », correspondant au français « enlèvement », vient en dernier ressort de la traduction latine de ce concept.",
+    },
+    "ru": {
+        "За словами \"восхищены будем\" стоит греческий глагол **harpazo**, означающий схватить или унести. Богословский термин \"восхищение\" описывает это библейское событие.":
+            "За словами \"восхищены будем\" стоит греческий глагол **harpazo**, означающий схватить или унести. Английский богословский термин \"rapture\" в конечном счете происходит через латинский перевод этого понятия.",
+    },
+    "ja": {
+        "- 忠実また真実": "- 忠実で真実な方",
+    },
+    "de": {
+        "Einige dieser Szenen greifen voraus und zeigen Ergebnisse, die spätere Kapitel ausführlicher beschreiben.":
+            "Einige dieser Szenen scheinen vorauszugreifen und Ergebnisse zu zeigen, die spätere Kapitel ausführlicher beschreiben.",
+        "Das griechische Verb hinter „entrückt werden“ lautet **harpazo** und bedeutet ergreifen oder hinwegreißen. Der deutsche theologische Begriff „Entrückung“ bezeichnet dieses biblische Geschehen.":
+            "Das griechische Verb hinter „entrückt werden“ lautet **harpazo** und bedeutet ergreifen oder hinwegreißen. Der englische theologische Begriff „rapture“ (deutsch: „Entrückung“) geht letztlich auf die lateinische Übersetzung dieses Begriffs zurück.",
+    },
+}
+
+
 def native_quote(tag: str, book_id: str, chapter: int, verses: tuple[int, ...]) -> str:
     path = ROOT / f"shared/assets/books/new_testament/{tag}/{book_id}.json"
     book = json.loads(path.read_text(encoding="utf-8-sig"))
@@ -199,6 +239,10 @@ class ProphecyAssetTests(unittest.TestCase):
                     replacement = native_quote(tag, *address)
                     self.assertIn(replacement, updated)
                     original = original.replace(old_quote, replacement, 1)
+                for old_line, replacement in STUDY_TRANSLATION_CORRECTIONS.get(tag, {}).items():
+                    self.assertEqual(1, original.count(old_line))
+                    self.assertIn(replacement, updated)
+                    original = original.replace(old_line, replacement, 1)
                 self.assertTrue(contains_in_order(normalized_lines(original),
                                                  normalized_lines(updated)),
                                 "An original line changed/disappeared or moved out of order")

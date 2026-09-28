@@ -37,7 +37,7 @@ As tétrades históricas coincidem com grandes pontos de virada na história jud
 <!-- ECLIPSE_CATALOG_2024_2033_BEGIN -->
 ### Catálogo completo de eclipses, 2024-2033
 
-Este catálogo inclui todos os eclipses solares e lunares das tabelas decenais da NASA de 2024 a 2033, não apenas os eventos que coincidem com datas do calendário bíblico ou judaico. As datas indicam o dia, no Tempo Universal Coordenado (UTC), em que ocorreu o máximo do eclipse. Um eclipse lunar total pode produzir a aparência avermelhada comumente chamada de lua de sangue. Eclipses lunares parciais e penumbrais são eventos diferentes e aparecem identificados separadamente. A visibilidade depende do local.
+Este catálogo inclui todos os eclipses solares e lunares das tabelas decenais da NASA de 2024 a 2033, não apenas os eventos que coincidem com datas do calendário bíblico ou judaico. As datas indicam o dia, no Tempo Universal Coordenado (UTC), em que o eclipse atinge seu máximo. Um eclipse lunar total pode produzir a aparência avermelhada comumente chamada de lua de sangue. Eclipses lunares parciais e penumbrais são eventos diferentes e aparecem identificados separadamente. A visibilidade depende do local.
 
 | Ano | Eclipses solares | Eclipses lunares |
 |---|---|---|
@@ -61,7 +61,6 @@ Fontes: [eclipses solares da NASA, 2021-2030](https://eclipse.gsfc.nasa.gov/SEde
 
 Eclipses solares na tradição judaica são considerados sinais para as nações (Sucá 29a). Vários eclipses notáveis coincidem com datas significativas:
 
-BALAS SOLARES:
 - **20 de março de 2015:** Eclipse solar total em **Nisã 1** (o ano novo bíblico dos meses, Êxodo 12:2), no meio da tétrade de luas de sangue de 2014–2015
 - **13 de setembro de 2015:** Eclipse solar parcial em **1º de Tisrei 5776, Rosh Hashaná**. Juntamente com o eclipse de 20 de março, esses dois eclipses solares ocorreram no primeiro dia dos dois meses mais significativos do calendário hebraico (Nisã e Tisrei), envolvendo a tétrade de luas de sangue de 2014–2015 em um único ano. Os professores de profecia Mark Biltz e John Hagee tratam os seis eventos (quatro luas de sangue + dois eclipses solares) como um único aglomerado.
 - **21 de agosto de 2017:** «Grande Eclipse Americano», primeiro eclipse solar total visível de costa a costa nos EUA em 99 anos. Data hebraica: **29 de Av 5777**, o último dia do mês de Av e a véspera de 1º de Elul. Elul é a estação de 40 dias de arrependimento que leva a Rosh Hashaná; muitos professores messiânicos notaram o momento.
@@ -77,7 +76,7 @@ Os magos viram «a sua estrela» (Mateus 2:2). Vários eventos astronômicos por
 - **Conjunção Júpiter-Vênus** (17 de junho, 2 a.C.): Os dois planetas mais brilhantes se fundiram em uma única «estrela» brilhante visível da Babilônia, na direção da Judeia
 - **«Parada» retrógrada de Júpiter** (25 de dezembro, 2 a.C.): Visto de Jerusalém, Júpiter pareceu parar no céu diretamente sobre Belém ao sul, correspondendo a Mateus 2:9: «a estrela... ia adiante deles... e parou sobre o lugar onde estava o menino»
 
-Isto não é especulativo; está verificado por software astronômico moderno (por exemplo, Stellarium). Seja qual for o evento que tenha sido «a estrela,» o alinhamento com a profecia de Números 24:17 («uma estrela procederá de Jacó») é impressionante.
+Isto não é especulativo; está verificado por software astronômico moderno (por exemplo, Stellarium). Quer um desses eventos ou uma combinação deles tenha sido «a estrela», o alinhamento com a profecia de Números 24:17 («uma estrela procederá de Jacó») é impressionante.
 
 ---
 
@@ -96,7 +95,6 @@ Amós 8:9: «Naquele dia, diz o Senhor DEUS, farei que o sol se ponha ao meio-di
 «Um grande sinal apareceu no céu: uma mulher vestida do sol, com a lua debaixo dos seus pés e na cabeça uma coroa de doze estrelas» (Apocalipse 12:1).
 
 
-CORPO DE APOCALIPSE 12:
 Em **23 de setembro de 2017**, a constelação de Virgem estava «vestida» pelo sol com a lua aos seus pés. Acima de sua cabeça, as nove estrelas de Leão mais os planetas Mercúrio, Vênus e Marte formavam uma coroa de doze. Júpiter havia estado na região do meio de Virgem por aproximadamente 42 semanas, a duração da gestação humana, devido ao movimento retrógrado, antes de «sair» em 9 de setembro de 2017. Historicamente, Júpiter é chamado de «planeta-rei». O período de 42 semanas espelha precisamente os «42 meses» de Apocalipse 13:5 e Apocalipse 12:6 (1.260 dias). Júpiter entrou na região do útero de Virgem em 20 de novembro de 2016.
 
 A data hebraica era **3 de Tisrei 5778**, o Jejum de Gedalias, o dia após Rosh Hashaná.
@@ -126,8 +124,8 @@ No solstício de inverno, **21 de dezembro de 2020** (6 Tevet 5781), Júpiter e 
 
 A primavera e verão de 2026 trazem alinhamentos adicionais:
 
-- **9 de junho de 2026:** Conjunção Júpiter-Vênus no céu noturno. As conjunções Júpiter-Vênus são a classe de evento mais comumente proposta como candidatos para a Estrela de Belém.
-- **12 de junho de 2026:** Mercúrio, Vênus e Júpiter visíveis em alinhamento no céu noturno.
+- **9 de junho de 2026:** Conjunção Júpiter-Vênus no céu vespertino. As conjunções Júpiter-Vênus são a classe de evento mais comumente proposta como candidatos para a Estrela de Belém.
+- **12 de junho de 2026:** Mercúrio, Vênus e Júpiter visíveis em alinhamento no céu vespertino.
 - **20 de fevereiro de 2026:** Conjunção Saturno-Netuno em 0° Áries, o «ponto de reinicialização» zodiacal. Esta conjunção ocorre a cada 36 anos; o alinhamento exato no início de Áries é raro.
 ## Gênesis 1:14 e as Festas
 
@@ -155,7 +153,7 @@ Em quatro anos consecutivos, um eclipse lunar cai em uma observância de Purim. 
 - **2–3 de março de 2026:** Eclipse lunar total (lua de sangue, ~58 minutos de totalidade), 14 Adar 5786, **Purim**
 - **20–21 de fevereiro de 2027:** Eclipse lunar penumbral, 14 Adar I 5787, **Purim Katan** (o Purim de Adar I nos anos bissextos)
 
-Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm precedente nos tempos modernos, e aqui elas chegam emolduradas por eclipses penumbrais em Shushan Purim antes e em Purim Katan depois: quatro anos, quatro observâncias de Purim, quatro eclipses lunares. Purim não é um dia festivo de Levítico 23, mas comemora a libertação de Israel do genocídio (Ester 9:20–22). O livro de Esther nunca nomeia Deus, mas Sua mão é visível em toda parte.
+Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm precedente nos tempos modernos, e aqui elas chegam emolduradas por eclipses penumbrais em Shushan Purim antes e em Purim Katan depois: quatro anos, quatro observâncias de Purim, quatro eclipses lunares. Purim não é um dia festivo de Levítico 23, mas comemora a libertação de Israel do genocídio (Ester 9:20–22). O livro de Ester nunca nomeia Deus, mas Sua mão é visível em toda parte.
 
 ### Eclipses Solares
 

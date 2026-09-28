@@ -16,13 +16,13 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
 ## 1. Os Três Céus  
 **Sentido simples:** A Bíblia usa «céu/céus» em mais de um sentido.  
 
-- **(Gênesis 1:8)** – «E Deus chamou ao firmamento Céus.»  
+- **(Gênesis 1:8)** – «E Deus chamou ao firmamento Céus.» *(o céu visível)*  
 
-- **(Daniel 10:13)** – «Mas o príncipe do reino da Pérsia me resistiu por vinte e um dias.»  
+- **(Daniel 10:13)** – «Mas o príncipe do reino da Pérsia me resistiu por vinte e um dias.» *(um conflito espiritual no reino invisível)*  
 
-- **(Efésios 6:12)** – «As forças espirituais do mal nas regiões celestiais.»  
+- **(Efésios 6:12)** – «As forças espirituais do mal nas regiões celestiais.» *(o campo de batalha dos espíritos)*  
 
-- **(2 Coríntios 12:2–4)** – «Foi arrebatado ao terceiro céu… ao paraíso.»  
+- **(2 Coríntios 12:2–4)** – «Foi arrebatado ao terceiro céu… ao paraíso.» *(a morada de Deus)*  
 
 **Resumo (Escritura):** A Bíblia identifica múltiplos céus: o céu físico (Gênesis 1:8), o reino espiritual de conflito (Daniel 10:13; Ef 6:12) e a morada de Deus (2 Co 12:2–4).  
 
@@ -45,32 +45,32 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
 
 **De onde vieram os demônios?**  
 
-- **A rebelião de Satanás:**  
+- **A rebelião de Satanás: o orgulho levou à sua queda.**  
 
-  - **(Isaías 14:12–15)** – «Como caíste do céu, ó estrela da manhã.»  
+  - **(Isaías 14:12–15)** – «Como caíste do céu, ó estrela da manhã.» A *Estrela da Manhã* tentou se exaltar acima de Deus, mas foi derrubada.  
 
-  - **(Ezequiel 28:12–17)** – O querubim ungido se exaltou e caiu.  
+  - **(Ezequiel 28:12–17)** – O «querubim guardião» se ensoberbeceu por causa de sua beleza e foi expulso da presença de Deus.  
 
-  - **(Apocalipse 12:7–9)** – Houve batalha no céu; o dragão e seus anjos foram lançados fora.  
+  - **(Apocalipse 12:7–9)** – Miguel e seus anjos lutaram; Satanás e seus anjos foram lançados à terra.  
 
 - **Alguns anjos já estão acorrentados:**  
 
-  - **(2 Pedro 2:4)** – Anjos que pecaram foram lançados no inferno.  
+  - **(2 Pedro 2:4)** – Deus não poupou os anjos quando pecaram, mas os entregou a cadeias de trevas.  
 
-  - **Judas 6** – Anjos que não guardaram seu estado foram presos em trevas.  
+  - **Judas 6** – Os anjos que abandonaram seu devido lugar permanecem em cadeias eternas até o juízo.  
 
 - **Outros ainda estão ativos:**  
 
-  - **(Apocalipse 12:9)** – Satanás foi lançado à terra.  
+  - **(Apocalipse 12:9)** – O grande dragão foi lançado à terra com seus anjos.  
 
-  - **(Efésios 6:12)** – Nossa luta é contra os espíritos malignos.  
+  - **(Efésios 6:12)** – Os crentes ainda lutam contra as forças espirituais do mal nas regiões celestiais.  
 
 **Por que alguns foram acorrentados e outros permanecem ativos?**  
-1. Aqueles que ultrapassaram limites proibidos (Gênesis 6:1–4) foram presos imediatamente.  
+1. **Alguns anjos ultrapassaram um limite único** (ligado a Gênesis 6:1–4). Pedro e Judas dizem que eles foram acorrentados imediatamente.  
 
-2. Outros permanecem ativos até o julgamento final.  
+2. **Outros permanecem ativos** na era presente, ainda se opondo ao povo de Deus até o julgamento final.  
 
-3. No fim, todos serão lançados no lago de fogo (Ap 20:10).  
+3. **Todos enfrentarão a derrota final** quando Cristo voltar (Apocalipse 20:10).  
 
 ---  
 
@@ -179,9 +179,9 @@ Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, o
 
 - **(Deuteronômio 32:17)** – «Sacrificaram a demônios, e não a Deus.»  
 
-**Explicação:** Os deuses da Babilônia e da Assíria vieram da Suméria. Enlil, Inanna e Marduque foram absorvidos com outros nomes. Babilônia tornou-se símbolo da rebelião (Gênesis 11:1–9). Os mitos de reis divinos ecoam os nefilins (Gênesis 6:1–4). Os profetas denunciaram os deuses babilônicos (Isaías 46:1–2; Jr 50:2).  
+**Explicação:** A Babilônia e a Assíria recorreram à religião suméria anterior. Deuses como Enlil, Inanna e Marduque foram incorporados sob novos nomes. Os profetas denunciam os deuses da Babilônia (Isaías 46:1–2; Jeremias 50:2).  
 
-**Resumo (Escritura):** Babilônia = rebelião (Gênesis 11). Nefilins = união caída (Gênesis 6). Sacrifícios = feitos a demônios (Deuteronômio 32:17).  
+**Resumo (Escritura):** Babel/Babilônia é rebelião (Gênesis 11:1–9), os nefilins estão ligados a uniões proibidas (Gênesis 6:1–4), e os sacrifícios aos ídolos são sacrifícios a demônios (Deuteronômio 32:17).  
 
 ---  
 
@@ -200,7 +200,7 @@ Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, o
 
 - **(Romanos 1:22–23)** – Trocaram a glória de Deus por imagens.  
 
-**Resumo (Escritura):** Os deuses estrangeiros são ídolos (Sl 96:5). A falsa adoração é ligada a Satanás (Ap 13:4). Jesus afirma sua unidade com o Pai (Jo 10:30). Paulo rejeita os deuses gregos e romanos como «vaidades» (At 14:15).  
+**Resumo (Escritura):** Os deuses estrangeiros são ídolos (Salmo 96:5); os chamados deuses são falsos (1 Coríntios 8:5–6); a falsa adoração se alinha com Satanás (Apocalipse 13:4). Jesus afirma sua unidade com o Pai (João 10:30). Paulo chama os deuses gregos e romanos de «coisas vãs» (Atos 14:11–15), e Romanos 1:23 diz que a idolatria distorce a glória de Deus. Os deuses nórdicos pertencem à mesma categoria: nomes culturais para o mesmo engano demoníaco.  
 
 ---  
 
@@ -484,7 +484,7 @@ No Islã, a salvação depende da balança das obras: as boas devem pesar mais q
 **Alcorão 23:102–103 (Sahih International)**
 > «Então, aqueles cujas balanças forem pesadas; estes serão bem-sucedidos; mas aqueles cujas balanças forem leves; estes perderam a si mesmos, ficando no Inferno, eternamente.»
 
-Isso reflete um sistema de salvação baseado em obras.
+Isso reflete um sistema de salvação baseado em obras, medido pela lei e pelos atos.
 
 #### A Lei na Bíblia
 A Lei é santa e revela o padrão de Deus, mas ninguém a cumpriu perfeitamente; somente Jesus é sem pecado.
@@ -524,7 +524,7 @@ O evangelho proclama a salvação como dom da graça mediante a fé em Cristo, n
 
 ### A conduta de Maomé à luz da Lei de Moisés
 
-A Torá traz normas claras sexuais, relacionais e morais. Medida por elas, a conduta de Maomé apresenta problemas.
+A Torá traz normas claras sexuais, relacionais e morais. Medida por elas, a conduta de Maomé fica aquém.
 
 #### 1) Casamento infantil (Aisha)
 Relata-se que Maomé desposou Aisha aos seis anos e consumou o casamento aos nove (Sahih al-Bukhari 5133, 5134).
@@ -667,7 +667,7 @@ O incômodo pessoal do profeta é elevado a lei. Enquanto isso, um hadith relata
 **Sahih al-Bukhari 5068**
 > «O Profeta costumava visitar todas as suas esposas numa única noite; e, naquela época, tinha nove.»
 
-O contraste é gritante.
+O contraste é gritante: ele era tímido demais para mandar os convidados embora, mas não para se vangloriar de ter dormido com nove esposas numa só noite.
 
 #### Contraste com Cristo
 
@@ -774,7 +774,7 @@ A Lei expõe o pecado, mas somente Cristo a cumpriu perfeitamente.
 
 **O Islã confessa um só Deus, mas rejeita o Filho. Jesus diz que Ele é o único Caminho (Jo 14:6). Negar o Filho é negar o Pai (1 Jo 2:23). A Palavra de Deus permanece para sempre (Isaías 40:8). A crucificação, a ressurreição e a divindade de Jesus foram preditas no Antigo Testamento e confirmadas no Novo.**
 
-**O Islã corretamente rejeita a idolatria e afirma o monoteísmo, mas, ao negar Jesus como Filho de Deus e Salvador, corta a si mesmo da salvação. A Bíblia diz que Deus preserva Sua Palavra para sempre (Isaías 40:8). Para conhecer Deus plenamente, é preciso conhecer Seu Filho (1 Jo 2:23). Sem a cruz e a ressurreição de Cristo, não há perdão de pecados (Habacuque 9:22; 1 Co 15:17).**
+**O Islã corretamente rejeita a idolatria e afirma o monoteísmo, mas, ao negar Jesus como Filho de Deus e Salvador, corta a si mesmo da salvação. A Bíblia diz que Deus preserva Sua Palavra para sempre (Isaías 40:8). Para conhecer Deus plenamente, é preciso conhecer Seu Filho (1 Jo 2:23). Sem a cruz e a ressurreição de Cristo, não há perdão de pecados (Hebreus 9:22; 1 Co 15:17).**
 
 **A salvação não é por Maomé nem pelo Alcorão. Ela se encontra somente em Jesus Cristo, o Filho de Deus, que morreu pelos nossos pecados e ressuscitou. Nele somente há perdão, vida eterna e paz com Deus.**
 
@@ -1179,13 +1179,13 @@ Apega-te à fé que uma vez por todas foi entregue aos santos (Judas 3).
 
 - **(Colossenses 1:13)** – «Ele nos libertou do império das trevas e nos transportou para o reino do seu Filho amado.»  
 
-**Resumo (Escritura):** Jesus traz espada e divisão (Mateus 10:34). João 8:39–47 mostra a diferença entre filhos de Deus e do diabo. Lc 11:23 enfatiza que não há meio-termo. Cl 1:13 garante que os crentes foram transferidos para o reino da luz.  
+**Resumo (Escritura):** Jesus diz que Sua vinda traz divisão, não falsa paz (Mateus 10:34). João 8:39–47 mostra a divisão entre filhos de Deus e filhos do diabo. Lucas 11:23 elimina a neutralidade: quem não está com Cristo está contra Ele. Colossenses 1:13 garante aos crentes que foram transferidos das trevas para o Reino de Cristo.  
 
 ---  
 
 ## 13. A Garantia Final  
 
-**Explicação simples:** Cristo já venceu. Os crentes lutam a partir da vitória d’Ele.  
+**Explicação simples:** Cristo já venceu. Os crentes lutam a partir da vitória d’Ele, não para conquistá-la.  
 
 - **(1 João 3:8)** – «O Filho de Deus se manifestou para desfazer as obras do diabo.»  
 
@@ -1193,4 +1193,4 @@ Apega-te à fé que uma vez por todas foi entregue aos santos (Judas 3).
 
 - **(Filipenses 2:10–11)** – «Ao nome de Jesus se dobrará todo joelho.»  
 
-**Resumo (Escritura):** Cristo veio para destruir as obras do diabo (1 Jo 3:8). Os crentes vencem pelo sangue do Cordeiro (Ap 12:11). No fim, toda criatura confessará que Jesus Cristo é Senhor (Fp 2:10–11).
+**Resumo (Escritura):** Cristo veio para destruir as obras do diabo (1 João 3:8). Os crentes vencem por Seu sangue e por seu testemunho fiel (Apocalipse 12:10–11). No fim, toda a criação se prostrará e confessará que Jesus Cristo é Senhor (Filipenses 2:10–11).

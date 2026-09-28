@@ -7,21 +7,21 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Sünde
-**Original:** Hebrew: חֵטְא (ḥetʾ); Greek: ἁμαρτία (hamartia); Aramaic: חובא (ḥova)  
+**Original:** Hebräisch: חֵטְא (ḥetʾ); Griechisch: ἁμαρτία (hamartia); Aramäisch: חובא (ḥova)  
 
 **Hinweis:** Bedeutet „das Ziel verfehlen, abirren“. Nicht nur schwere Verbrechen und nicht nur eine Handlung, sondern jede Abweichung von Gott. Umfasst aktive Rebellion und das Unterlassen des Guten.
 
 ---
 
 ## Umkehren / Buße
-**Original:** Hebrew: שׁוּב (shuv, „turn back“); Greek: μετάνοια (metanoia); Aramaic: תיבוּתא (tēbutha)  
+**Original:** Hebräisch: שׁוּב (shuv, „umkehren“); Griechisch: μετάνοια (metanoia); Aramäisch: תיבוּתא (tēbutha)  
 
-**Hinweis:** Nicht nur „sich schlecht fühlen“. Hebräisch betont das Umkehren/Zurückkehren; Griechisch die Sinnesänderung. Wahre Buße = Neu­ausrichtung auf Gott.
+**Hinweis:** Nicht nur „sich schlecht fühlen“. Hebräisch betont das Umkehren/Zurückkehren; Griechisch die Veränderung des Denkens und des Herzens. Wahre Buße = Neu­ausrichtung auf Gott.
 
 ---
 
 ## Furcht Gottes
-**Original:** Hebrew: יִרְאָה (yir’ah); Greek: φόβος (phobos); Aramaic: דחלא (deḥlā)  
+**Original:** Hebräisch: יִרְאָה (yir’ah); Griechisch: φόβος (phobos); Aramäisch: דחלא (deḥlā)  
 
 **Hinweis:** Nicht Angst vor Missbrauch, sondern ehrfürchtige Bewunderung von Gottes Heiligkeit und Autorität. Sie fördert Gehorsam, Demut und Vertrauen, nicht sklavische Furcht.
 
@@ -39,54 +39,54 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 
 **Hinweis:** Grundbedeutung = *„Rede, die verletzt; Verleumdung, Verachtung.“* In der Schrift nicht bloß Unhöflichkeit, sondern **bewusste Verachtung gegenüber Gott**.  
 
-**Gegen den Heiligen Geist:** kein Versehen, sondern **bewusstes, anhaltendes Zurückweisen des Zeugnisses des Geistes**, indem man Gottes Werk dem Bösen zuschreibt (Markus 3:28–30; Matthäus 12:31–32; Lukas 12:10). Nicht weil Gott nicht vergeben will, sondern weil der Mensch so verhärtet ist, dass er nie um Vergebung bittet. „Unvergebbar“, weil der Geist derjenige ist, der überführt und zur Umkehr führt (Johannes 16:8).  
+**Gegen den Heiligen Geist:** kein Versehen, sondern **bewusstes, anhaltendes Zurückweisen des Zeugnisses des Geistes**, indem man Gottes Werk dem Bösen zuschreibt (Markus 3:28–30; Matthäus 12:31–32; Lukas 12:10). Es ist nicht so, dass Gott nicht vergeben will, sondern dass der Mensch sich so vollständig gegen den Geist verhärtet hat, dass er niemals um Vergebung bitten oder sie annehmen wird. Diese Sünde heißt „unvergebbar“, weil der Geist überführt und zur Umkehr zieht (Johannes 16:8); sich gegen ihn zu verhärten heißt, den einzigen Weg zur Vergebung abzuschneiden.  
 
-**Schrift:** 3. Mose 24:16; Jesaja 52:5; Matthäus 12:31–32; Markus 3:28–30; Lukas 12:10; Hebräer 10:29.
+**Schrift:** 3. Mose 24:16; Jesaja 52:5 (die LXX verwendet *blasphēmía* für die Verhöhnung des Namens Gottes); Matthäus 12:31–32; Markus 3:28–30; Lukas 12:10; Hebräer 10:29.
 
 ---
 
 ## Götzenbild (gemeißelt)
-**Original:** Hebrew: פֶּסֶל (pesel) < root פ־ס־ל „to carve“; Greek: γλυπτόν (glypton) / εἴδωλον (eidolon); Aramaic: פסל (pesal)  
+**Original:** Hebräisch: פֶּסֶל (pesel) < Wurzel פ־ס־ל „schnitzen“; Griechisch: γλυπτόν (glypton) / εἴδωλον (eidolon); Aramäisch: פסל (pesal)  
 
 **Hinweis:** Aus Holz oder Stein gemeißeltes Bild. Verboten, wenn zum Kult gemacht und mit Niederfallen/Dienen verbunden.
 
-**Schrift:** Exodus 20:4–5; Deuteronomy 5:8–9; Deuteronomy 27:15; Isaiah 44:9–20
+**Schrift:** 2. Mose 20:4–5; 5. Mose 5:8–9; 5. Mose 27:15; Jesaja 44:9–20
 
 ---
 
 ## Götzenbild (gegossen)
-**Original:** Hebrew: מַסֵּכָה (massekah) < root נ־ס־ךְ „to pour/cast“; Greek: χωνευτόν (chōneuton); Aramaic: מסכא (maskā)  
+**Original:** Hebräisch: מַסֵּכָה (massekah) < Wurzel נ־ס־ךְ „gießen“; Griechisch: χωνευτόν (chōneuton); Aramäisch: מסכא (maskā)  
 
 **Hinweis:** Aus gegossenem Metall hergestelltes Bild. Verurteilt, wenn es zur Anbetung dient.
 
-**Schrift:** Exodus 32:4, 8; Deuteronomy 27:15; 2 Kings 17:16; Hosea 13:2
+**Schrift:** 2. Mose 32:4, 8; 5. Mose 27:15; 2. Könige 17:16; Hosea 13:2
 
 ---
 
 ## Götzendienst (Kinderopfer für Moloch)
-**Original:** Hebrew: מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, „cause to pass through the fire“); Greek: Μολόχ (Moloch); διαβιβάζειν ἐν πυρί; Aramaic: מולך (molekh)  
+**Original:** Hebräisch: מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, „durch das Feuer gehen lassen“); Griechisch: Μολόχ (Moloch); διαβιβάζειν ἐν πυρί; Aramäisch: מולך (molekh)  
 
 **Hinweis:** Ausdrücklich verurteilte Rituale bestimmter Kulte.
 
-**Schrift:** Leviticus 18:21; 20:2–5; Deuteronomy 12:31; 2 Kings 23:10; Jeremiah 7:31; 19:5; Ezekiel 16:20–21; Psalm 106:37–38
+**Schrift:** 3. Mose 18:21; 20:2–5; 5. Mose 12:31; 2. Könige 23:10; Jeremia 7:31; 19:5; Hesekiel 16:20–21; Psalm 106:37–38
 
 ---
 
 ## Eifersüchtig (Gott)
-**Original:** Hebrew: קַנָּא (qannāʾ, „jealous/zealous“); Greek: ζηλωτής (zēlōtēs), ζῆλος (zēlos); Aramaic: קנאה (qināʾā)  
+**Original:** Hebräisch: קַנָּא (qannāʾ, „eifersüchtig/eifernd“); Griechisch: ζηλωτής (zēlōtēs, „eifernd“), ζῆλος (zēlos); Aramäisch: קנאה (qināʾā)  
 
 **Hinweis:** Gottes „Eifersucht“ = Bundes-Eifer für ausschließliche Treue, besonders gegen Götzendienst; besser als „eifernde“ Liebe zu seinem Volk verstanden.
 
-**Schrift:** Exodus 20:5; 34:14; Deuteronomy 4:24
+**Schrift:** 2. Mose 20:5; 34:14; 5. Mose 4:24
 
 ---
 
 ## Wucher / Zins
-**Original:** Hebrew: נֶשֶׁךְ (neshekh); Greek: τόκος (tokos); Aramaic: נשכא (nashka)  
+**Original:** Hebräisch: נֶשֶׁךְ (neshekh); Griechisch: τόκος (tokos); Aramäisch: נשכא (nashka)  
 
 **Hinweis:** Wörtlich „Biss“. Die Tora verbietet Zinsen von bedürftigen Israeliten; die Propheten verurteilen es als Unterdrückung.
 
-**Schrift:** Exodus 22:25; Leviticus 25:35–37; Deuteronomy 23:19; Psalm 15:5; Ezekiel 18:8
+**Schrift:** 2. Mose 22:25; 3. Mose 25:35–37; 5. Mose 23:19; Psalm 15:5; Hesekiel 18:8
 
 ---
 
@@ -100,72 +100,72 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Zehnter / Zehnt
-**Original:** Hebrew: מַעֲשֵׂר (maʿăsēr); Greek: δεκάτη (dekatē); Aramaic: מעשרא (maʿsrā)  
+**Original:** Hebräisch: מַעֲשֵׂר (maʿăsēr); Griechisch: δεκάτη (dekatē); Aramäisch: מעשרא (maʿsrā)  
 
 **Hinweis:** Ein Zehntel von Ernte/Herden, an Israels Land gebunden. Nicht „Geld gegen Segen“, sondern Bundesvorsorge.
 
-**Schrift:** Numbers 18:21–24; Deuteronomy 14:22–29
+**Schrift:** 4. Mose 18:21–24; 5. Mose 14:22–29
 
 ---
 
 ## Lilith (Nachtwesen; nicht „Adams erste Frau“)
-**Original:** Hebrew: לִילִית (lilit); Greek: Λάμια (Lamia) / Λιλίθ (var.); Aramaic: ליליתא (lilita)  
+**Original:** Hebräisch: לִילִית (lilit); Griechisch: Λάμια (Lamia) / Λιλίθ (var.); Aramäisch: ליליתא (lilita)  
 
 **Hinweis:** Kommt einmal vor (Jes 34,14) in einer Kreaturenliste eines Unheilsorakels. Spätere Volksüberlieferung über „Adams erste Frau“ ist nachbiblisch und nicht in Genesis.
 
 ---
 
 ## Gnade
-**Original:** Hebrew: חֵן (ḥen, „favor“); Greek: χάρις (charis); Aramaic: טיבותא (ṭivutha)  
+**Original:** Hebräisch: חֵן (ḥen, „Gunst“); Griechisch: χάρις (charis); Aramäisch: טיבותא (ṭivutha)  
 
-**Hinweis:** Unverdiente Gunst. Gottes Initiative zu segnen, vergeben und befähigen – ohne Verdienst.
+**Hinweis:** Unverdiente Gunst und Güte. Gottes Initiative zu segnen, vergeben und befähigen – ohne Verdienst.
 
 ---
 
 ## Glaube
-**Original:** Hebrew: אֱמוּנָה (emunah); Greek: πίστις (pistis); Aramaic: הימנותא (haymanutha)  
+**Original:** Hebräisch: אֱמוּנָה (emunah); Griechisch: πίστις (pistis); Aramäisch: הימנותא (haymanutha)  
 
 **Hinweis:** Nicht blindes Für‑wahr‑Halten, sondern Treue, Vertrauen, Standhaftigkeit: auf Gott bauen, treu leben, an seinen Verheißungen festhalten.
 
 ---
 
 ## Gerechtigkeit
-**Original:** Hebrew: צְדָקָה (tsedaqah); Greek: δικαιοσύνη (dikaiosynē); Aramaic: צדקתא (tsidqeta)  
+**Original:** Hebräisch: צְדָקָה (tsedaqah); Griechisch: δικαιοσύνη (dikaiosynē); Aramäisch: צדקתא (tsidqeta)  
 
 **Hinweis:** Bundestreue, Gerechtigkeit, rechtes Verhältnis. Umfasst Großzügigkeit und Wiederherstellung.
 
 ---
 
 ## Frieden / Schalom
-**Original:** Hebrew: שָׁלוֹם (shalom); Greek: εἰρήνη (eirēnē); Aramaic: שלמא (shlama)  
+**Original:** Hebräisch: שָׁלוֹם (shalom); Griechisch: εἰρήνη (eirēnē); Aramäisch: שלמא (shlama)  
 
 **Hinweis:** Nicht nur Abwesenheit von Krieg. Ganzheit, Wohlergehen, Harmonie mit Gott, Menschen und Schöpfung.
 
 ---
 
 ## Gesalbter / Messias
-**Original:** Hebrew: מָשִׁיחַ (mashiach); Greek: χριστός (christos); Aramaic: משיחא (meshicha)  
+**Original:** Hebräisch: מָשִׁיחַ (mashiach); Griechisch: χριστός (christos); Aramäisch: משיחא (meshicha)  
 
-**Hinweis:** Wörtlich „mit Öl bestrichen“. Bezieht sich auf Könige, Priester, Propheten. Nicht immer „der“ Messias, sondern jeder Gesalbte.
+**Hinweis:** Wörtlich „mit Öl bestrichen“. Bezieht sich auf Könige, Priester, Propheten. Nicht immer „der“ Messias, sondern jede gesalbte Führungsperson.
 
 ---
 
 ## Scheol
-**Original:** Hebrew: שְׁאוֹל (Sheʾol); Greek: ᾅδης (Hades); Aramaic: שאולא (Sheʾola)  
+**Original:** Hebräisch: שְׁאוֹל (Sheʾol); Griechisch: ᾅδης (Hades); Aramäisch: שאולא (Sheʾola)  
 
 **Hinweis:** Aufenthalt der Toten / Grab. Im hebräischen Denken neutral: Gerechte und Gottlose sind dort, bis Gott eingreift.
 
 ---
 
 ## Heilig
-**Original:** Hebrew: קָדוֹשׁ (qadosh); Greek: ἅγιος (hagios); Aramaic: קדיש (qaddish)  
+**Original:** Hebräisch: קָדוֹשׁ (qadosh); Griechisch: ἅγιος (hagios); Aramäisch: קדיש (qaddish)  
 
 **Hinweis:** „Abgesondert, geweiht“. Gottes einzigartige Natur – nicht nur moralische Perfektion.
 
 ---
 
 ## Hölle / Gehenna
-**Original:** Hebrew: גֵּי־הִנֹּם (Gē-Hinnom, „Valley of Hinnom“); Greek: γέεννα (Gehenna); Aramaic: גֵיהִנָּם (Gehinnam)  
+**Original:** Hebräisch: גֵּי־הִנֹּם (Gē-Hinnom, „Tal Hinnom“); Griechisch: γέεννα (Gehenna); Aramäisch: גֵיהִנָּם (Gehinnam)  
 
 **Hinweis:** Reales Tal südlich Jerusalems, verbunden mit Kinderopfern; wurde zum Bild des Endgerichts. Unterschieden von Scheol/Hades.
 
@@ -173,22 +173,22 @@ Dabei sind folgende Übersetzungen besonders häufig missverstanden oder missbra
 ---
 
 ## Reich Gottes
-**Original:** Hebrew: מַלְכוּת אֱלֹהִים (malkhut Elohim); Greek: βασιλεία τοῦ θεοῦ (basileia tou theou); Aramaic: מלכותא דאלהא (malkutha d’alahā)  
+**Original:** Hebräisch: מַלְכוּת אֱלֹהִים (malkhut Elohim); Griechisch: βασιλεία τοῦ θεοῦ (basileia tou theou); Aramäisch: מלכותא דאלהא (malkutha d’alahā)  
 
 **Hinweis:** Gottes Herrschaft, nicht ein Gebiet. Gegenwärtig, wo sein Wille geschieht, gipfelnd im Kommen des Messias und der neuen Schöpfung.
 
 ---
 
-## Besessen (gewöhnlich übersetzt „von Dämonen besessen“)
-**Original:** Hebräisch: שֵׁד (*shed*, „Dämon“; Dtn 32:17; Ps 106:37); Griechisch: δαιμονίζομαι (*daimonizomai*, Passiv/Mittelstimme, „von einem Dämon beeinflusst werden“); Aramäisch: שֵׁידָא (*sheda*)
+## Dämonisiert (gewöhnlich übersetzt „von Dämonen besessen“)
+**Original:** Hebräisch: שֵׁד (*shed*, „Dämon“; Dtn 32:17; Ps 106:37); Griechisch: δαιμονίζομαι (*daimonizomai*, passive/mediale Verbform, „von einem Dämon beeinflusst werden“); Aramäisch: שֵׁידָא (*sheda*)
 
 **Hinweis:**  
-Englische Bibeln übersetzen *daimonizomai* oft mit „besessen“, aber die griechische Form ist passiv: „dämonisiert / unter dämonischem Einfluss“. Das Wort bedeutet nicht immer vollständige Kontrolle oder Besitz. Bedeutungsumfang:
+Englische Bibeln übersetzen *daimonizomai* oft mit dem englischen Ausdruck „demon-possessed“ („von Dämonen besessen“), aber die griechische Form ist passiv: „dämonisiert / unter dämonischem Einfluss“. Das Wort bedeutet nicht immer vollständige Kontrolle oder Besitz. Bedeutungsumfang:
 - von einem Dämon bedrängt oder gequält,
-- im Geist oder Körper beeinflusst,
+- von einem Dämon im Denken oder Körper beeinflusst,
 - in schweren Fällen: Verhalten oder Sprache unter Kontrolle.
 
-„Dämonisiert“ gibt den Sinn besser wieder; eine Person steht in unterschiedlichem Maß unter dämonischem Einfluss, ohne dass es unbedingt totale Besessenheit bedeutet.
+„Dämonisiert“ gibt den passiven Sinn besser wieder: Jemand steht in unterschiedlichem Maß unter dem Einfluss dämonischer Macht, statt dass eine dauerhafte Besessenheit nahegelegt wird.
 
 **Schrift:**
 - Matthäus 4:24: „…und sie brachten zu ihm alle Kranken… und die *daimonizomenous* (dämonisierten)…“
@@ -197,9 +197,9 @@ Englische Bibeln übersetzen *daimonizomai* oft mit „besessen“, aber die gri
 - Apostelgeschichte 10:38: „Gott salbte Jesus… und er heilte alle, die vom Teufel unterdrückt waren.“
 
 **Erklärung:**
-- Hebräisch: *shedim* (Plural) = feindliche Geister, denen Israel nicht opfern durfte.
+- Hebräisch: *shedim* (Plural) = feindliche Geister, denen Israel nicht opfern durfte (5. Mose 32:17; Psalm 106:37).
 - Aramäisch/Syrisch: *sheda* = böser Geist.
-- Schwerpunkt liegt auf Einfluss/Unterdrückung, nicht auf Besitz.
+- Schwerpunkt liegt auf Einfluss/Unterdrückung, nicht auf metaphysischem Besitz.
 
 ---
 
@@ -241,7 +241,7 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 - Lukas 11:24: „Wenn ein unreiner Geist von einem Menschen ausgeht…“
 
 **Erklärung:**
-- Hebräischer Hintergrund: falscher Gottesdienst und Unreinheit durch feindliche Geister.
+- Hebräisch-prophetischer Hintergrund: falscher Gottesdienst und Unreinheit, die mit feindlichen Geistern verbunden sind.
 
 - Griechisch/Aramäisch im NT überschneidet sich mit *daimonion*.
 
@@ -263,9 +263,9 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 
 **Anmerkung:**
 
-- In (Jesaja 14:12) bedeutet das hebräische Wort *Helel* „Der Leuchtende“. Es ist nicht derselbe Begriff wie „Morgenstern“, der im Neuen Testament für Jesus verwendet wird.
+- In (Jesaja 14:12) bedeutet das hebräische Wort *Helel* „Der Leuchtende“. Es ist nicht derselbe Begriff wie „Morgenstern“, der in der Offenbarung für Jesus verwendet wird.
 
-- Der unmittelbare Kontext richtet sich an den König von Babylon. Doch die Sprache übersteigt jeden menschlichen Herrscher: „Ich will auffahren über die hohen Wolken und gleich sein dem Allerhöchsten“ (Jesaja 14:14), weshalb die christliche Tradition seit langem eine doppelte Bezugnahme liest: den menschlichen König als Vorbild der geistlichen Rebellion hinter ihm. Dies entspricht Hesekiel 28, wo der König von Tyrus in Worten angesprochen wird, die jeden Sterblichen übersteigen („du warst der gesalbte, schirmende Cherub… du warst auf dem heiligen Berg Gottes“).
+- Der unmittelbare Kontext richtet sich an den König von Babylon. Doch die Sprache übersteigt jeden menschlichen Herrscher: „Ich will auffahren über die hohen Wolken und gleich sein dem Allerhöchsten“ (Jesaja 14:14), weshalb die christliche Tradition seit langem eine doppelte Bezugnahme liest: den menschlichen König als Typus der geistlichen Rebellion hinter ihm. Dies entspricht Hesekiel 28, wo der König von Tyrus in Worten angesprochen wird, die jeden Sterblichen übersteigen („du warst der gesalbte, schirmende Cherub… du warst auf dem heiligen Berg Gottes“).
 
 - Lukas 10:18 („Ich sah den Satan vom Himmel fallen wie einen Blitz“) spiegelt die Bildsprache von Jesaja 14 wider. Jesus zitierte es nicht als direkten Beweis, aber die Resonanz ist vorhanden und von den Kirchenvätern anerkannt.
 
@@ -283,7 +283,7 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 
 **Schriftstellen:**
 
-- Jesaja 14:12–15: „Helel ben Shachar“ = Der Leuchtende, Sohn der Morgenröte (an den König von Babylon gerichtet; traditionell auch als Vorbild für Satans Stolz und Fall gelesen).
+- Jesaja 14:12–15: „Helel ben Shachar“ = Der Leuchtende, Sohn der Morgenröte (an den König von Babylon gerichtet; traditionell auch als Typus für Satans Stolz und Fall gelesen).
 
 - Hesekiel 28:12–17: Der König von Tyrus wird in Sprache beschrieben, die jeden sterblichen Herrscher übersteigt, parallel zu Jesaja 14.
 
@@ -297,7 +297,7 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 
 **Klarstellung:**
 
-Das hebräische Wort in (Jesaja 14:12) ist *Helel* („Der Leuchtende“), das sich sprachlich vom griechischen Begriff „Morgenstern“ unterscheidet, der im Neuen Testament für Jesus verwendet wird. Satan und Jesus tragen nicht denselben Titel.
+Das hebräische Wort in (Jesaja 14:12) ist *Helel* („Der Leuchtende“), das sich sprachlich vom griechischen Begriff „Morgenstern“ unterscheidet, der in der Offenbarung für Jesus verwendet wird. Satan und Jesus tragen nicht denselben Titel.
 
 Der unmittelbare Adressat des Textes ist der König von Babylon, doch die Kirche hat historisch eine tiefere Bezugnahme auf den geistlichen Hochmut und Fall hinter dem irdischen Herrscher erkannt. Beide Lesarten, die historische und die typologische, sind in der orthodoxen christlichen Auslegung bezeugt.
 
@@ -308,20 +308,20 @@ Jede Lehre, die Satan mit dem Titel „Morgenstern“ gleichsetzt, der Jesus geh
 ## Sexuelle Unmoral
 
 **Original:**  
-• Hebräisch: זִמָּה (*zimmah*, „Schändlichkeit, Bosheit, Plan“); עֶרְוָה (*ervah*, „Blöße, unanständige Enthüllung“)
+• Hebräisch: זִמָּה (*zimmah*, „Schändlichkeit, Bosheit, Ränkeschmieden“); עֶרְוָה (*ervah*, „Blöße, unanständige Enthüllung“)
 
 • Griechisch: πορνεία (*porneia*, „Unzucht, sexuelle Unmoral, Prostitution“)
 
 • Aramäisch: זִנְיָא (*zinya*, „Unzucht, Hurerei“)
 
 **Hinweis:**  
-*Porneia* umfasst unrechtmäßige Sexualität außerhalb von Gottes Bund. Die Schrift definiert Unmoral durch **verbotene Beziehungen und Handlungen**, nicht durch eine Regulierung ehelicher Intimität.
+*Porneia* umfasst unrechtmäßige Sexualität außerhalb von Gottes Bund. Die Schrift definiert Unmoral durch **verbotene Beziehungen und Handlungen**, nicht durch eine Regulierung einvernehmlicher Intimität innerhalb der Ehe.
 
 **Ausdrücklich verboten:**
 
-• Ehebruch; Sex mit jemandem außerhalb der Ehe (2. Mose 20:14) (5. Mose 5:18).
+• Ehebruch; Sex mit jemand anderem als dem eigenen Ehepartner (2. Mose 20:14) (5. Mose 5:18).
 
-• Inzest; Sex mit nahen Verwandten, einschließlich Minderjährigen unter Familiengewalt (3. Mose 18:6–18).
+• Inzest; Sex mit nahen Verwandten, einschließlich Minderjähriger, die unter der Autorität ihrer Familie stehen (3. Mose 18:6–18).
 
 • Vergewaltigung / Zwang; jeder erzwungene Sex, einschließlich des Missbrauchs von Kindern, die nicht einwilligen können (5. Mose 22:25–27).
 
@@ -339,7 +339,7 @@ Jede Lehre, die Satan mit dem Titel „Morgenstern“ gleichsetzt, der Jesus geh
 
 • Das Ehebett ist „unbefleckt“ und von Gott geehrt (Hebräer 13:4).
 
-• Ehemann und Ehefrau gehören einander und sind aufgerufen, einander zu dienen (1. Korinther 7:3–5).
+• Ehemann und Ehefrau gehören einander und sind aufgerufen, die Bedürfnisse des anderen zu erfüllen (1. Korinther 7:3–5).
 
 • Sexuelle Intimität ist nicht nur erlaubt, sondern gesegnet; die Psalmen beschreiben Ehe, Kinder und Familie als Bundessegen (Psalmen 127:3–5) (Psalmen 128:1–4), und das Hohelied feiert eheliche Leidenschaft als gut und freudig (Hoheslied 4–7).
 

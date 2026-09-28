@@ -18,7 +18,7 @@ La Bibbia fornisce criteri chiari per identificare falsi profeti, falsi insegnan
 - **Matteo 7:15–20** – I falsi profeti si riconoscono dai loro frutti.
 - **1 Giovanni 4:1–3** – La vera confessione afferma che Gesù Cristo è venuto nella carne.
 - **Galati 1:8–9** – Qualunque vangelo alterato deve essere respinto, anche se presentato come divino.
-- **2 Pietro 2:1–3** – I falsi insegnanti introducono eresie distruttive e sfruttano con parole false.
+- **2 Pietro 2:1–3** – I falsi insegnanti introducono dottrine distruttive e sfruttano i loro seguaci.
 
 **I segnali di allarme più comuni includono:**
 
@@ -34,7 +34,7 @@ La Bibbia fornisce criteri chiari per identificare falsi profeti, falsi insegnan
 
 ### Conclusione biblica
 
-La Scrittura comanda di mettere alla prova ogni insegnante e ogni messaggio.
+La Scrittura comanda ai credenti di mettere alla prova ogni insegnante e ogni messaggio.
 
 Se un insegnamento cambia chi è Gesù, cambia il Vangelo o aggiunge requisiti oltre la fede in Cristo, non è cristianesimo biblico.
 
@@ -47,7 +47,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 - Come viene usato: Questo versetto e altri vengono citati per affermare che un singolo momento di fede garantisce la salvezza per sempre, a prescindere da come una persona viva in seguito. Spesso viene usato per scusare il peccato e dare una falsa sicurezza a coloro che camminano nella disobbedienza.
 
-- La verità: La Scrittura insegna davvero la sicurezza del vero credente. Gesù disse che nessuno può rapire le sue pecore dalla sua mano (Giovanni 10:28–29); non perde nessuno di coloro che il Padre gli ha dato (Giovanni 6:39); e i credenti sono custoditi dalla potenza di Dio, non dalla loro (1 Pietro 1:5; Filippesi 1:6). Dunque, nel senso vero, sì: una volta veramente salvati, sempre salvati, perché Cristo stesso li tiene. La distorsione non è la sicurezza eterna; è usare una singola professione di fede per scusare una vita di peccato impenitente. Gli avvertimenti della Scrittura non minacciano il vero credente di perdita; smascherano una professione vuota o falsa. Coloro che cadono mostrano di non essere mai stati veramente nella fede. La vera fede salvifica persevera e porta frutto.
+- La verità: La Scrittura insegna davvero la sicurezza del vero credente. Gesù disse che nessuno può rapire le sue pecore dalla sua mano (Giovanni 10:28–29); non perde nessuno di coloro che il Padre gli ha dato (Giovanni 6:39); e i credenti sono custoditi dalla potenza di Dio, non dalla loro (1 Pietro 1:5; Filippesi 1:6). Dunque, nel senso vero, sì: una volta veramente salvati, sempre salvati, perché Cristo stesso li tiene. La distorsione non è la sicurezza eterna; è usare una singola professione di fede per scusare una vita di peccato impenitente. Gli avvertimenti della Scrittura non minacciano il vero credente di perdita; smascherano una professione vuota o falsa. Coloro che si allontanano dalla fede mostrano di non esservi mai appartenuti veramente. La vera fede salvifica persevera e porta frutto.
 
 - (Giovanni 6:39): «Questa è la volontà di colui che mi ha mandato: che io non perda nessuno di tutti quelli che egli mi ha dato, ma che li risusciti nell’ultimo giorno.»
 
@@ -101,7 +101,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 - (Daniele 3:16–18): «Sadrac, Mesac e Abed-Nego risposero al re Nabucodonosor: “Non abbiamo bisogno di darti risposta su questo. Ecco, il nostro Dio che serviamo può liberarci dalla fornace ardente; e dalla tua mano, o re, egli ci libererà. Ma anche se non lo facesse, sappi, o re, che noi non serviremo i tuoi dèi e non adoreremo la statua d’oro che tu hai eretto.”»
 
-- (Daniele 6:10): «Quando Daniele seppe che il decreto era stato firmato, entrò in casa sua; la finestra della sua camera, che dava verso Gerusalemme, era aperta; ed egli, tre volte al giorno, si inginocchiava, pregava e rendeva grazie al suo Dio, come era solito fare prima.»
+- (Daniele 6:10): «Quando Daniele seppe che il decreto era stato firmato, entrò in casa sua; le finestre della sua camera superiore erano aperte verso Gerusalemme; ed egli, tre volte al giorno, si inginocchiava, pregava e rendeva grazie al suo Dio, come era solito fare prima.»
 
 - (Apocalisse 13:4–8): «E adorarono il dragone che aveva dato l’autorità alla bestia; e adorarono la bestia dicendo: “Chi è simile alla bestia? e chi può combattere contro di lei?” E le fu data una bocca che proferiva parole arroganti e bestemmie; e le fu dato potere di agire per quarantadue mesi. Ed essa aprì la bocca per bestemmiare contro Dio, per bestemmiare il suo nome e la sua dimora e quelli che abitano in cielo. E le fu dato di far guerra ai santi e di vincerli; e le fu data autorità su ogni tribù, popolo, lingua e nazione. E l’adoreranno tutti gli abitanti della terra, i cui nomi non sono scritti fin dalla fondazione del mondo nel libro della vita dell’Agnello che è stato immolato.»
 
@@ -112,9 +112,9 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 ## Guida e «Non toccate i miei unti»
 (Salmo 105:15): «Non toccate i miei unti, e non fate male ai miei profeti.»  
 
-(1 Samuele 24:6): «E disse ai suoi uomini: “Lontano da me, per il Signore, che io faccia una cosa simile al mio signore, all’unto del Signore, stendendo la mia mano contro di lui; poiché egli è l’unto del Signore.”»
+(1 Samuele 24:7): «E disse ai suoi uomini: “Lontano da me, per il Signore, che io faccia una cosa simile al mio signore, all’unto del Signore, stendendo la mia mano contro di lui; poiché egli è l’unto del Signore.”»
 
-- Come viene usato: Alcuni capi autoritari lo citano per zittire le critiche, come se fossero intoccabili.
+- Come viene usato: Pastori e capi autoritari lo citano per zittire le critiche, come se fossero intoccabili.
 
 - La verità: Questi testi mettono in guardia dalla **violenza fisica**, non dalla responsabilità e dalla correzione onesta. I leader devono essere ripresi quando peccano.
 
@@ -122,7 +122,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 - (Galati 2:11): «Ma quando Cefa venne ad Antiochia, gli resistetti in faccia, perché era da condannare.»
 
-- (Ezechiele 34:2–4): «Figlio d’uomo, profetizza contro i pastori d’Israele… Guai ai pastori d’Israele che pascono se stessi!… Non avete rafforzato la debole, non avete guarito la malata, non avete fasciato la ferita, non avete ricondotto la smarrita, non avete cercato la perduta; ma le avete dominate con durezza e violenza.»
+- (Ezechiele 34:2–4): «Figlio d’uomo, profetizza contro i pastori d’Israele; profetizza e di’ loro, ai pastori: Così parla il Signore DIO: Guai ai pastori d’Israele che pascono se stessi! I pastori non dovrebbero forse pascere il gregge? Voi mangiate il grasso, vi vestite della lana e uccidete le bestie ingrassate, ma non pascete il gregge. Non avete rafforzato la debole, non avete guarito la malata, non avete fasciato la ferita, non avete ricondotto la smarrita, non avete cercato la perduta; ma le avete dominate con durezza e violenza.»
 
 - (Marco 10:42–45): «Gesù li chiamò a sé e disse loro: “Voi sapete che quelli che sono considerati governanti delle nazioni le signoreggiano, e i loro grandi esercitano autorità su di esse. Ma tra voi non sia così; anzi chi vorrà diventare grande fra voi sarà vostro servitore; e chi vorrà essere il primo fra voi sarà servo di tutti. Poiché anche il Figlio dell’uomo non è venuto per essere servito, ma per servire e per dare la sua vita come prezzo di riscatto per molti.”»
 
@@ -219,13 +219,13 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 - Come viene usato: Come prova che Dio promette salute e ricchezza a ogni credente.
 
-- La verità: È un **saluto personale** a Gaio, non una garanzia universale. Riflette la preghiera di Giovanni per il benessere dell’amico, non una dottrina. Il Nuovo Testamento sottolinea costantemente la perseveranza nelle prove, non la fuga da esse.
+- La verità: È un **saluto personale** a Gaio, non una garanzia universale. Riflette la preghiera di Giovanni per il benessere dell’amico, non una promessa dottrinale. Il Nuovo Testamento sottolinea costantemente la perseveranza nelle prove, non la fuga da esse.
 
 - (2 Corinzi 11:23–27): «Sono ministri di Cristo? (Parlo da insensato) Io lo sono più di loro: molto di più nelle fatiche, molto di più nelle prigionie, infinitamente di più nelle percosse, spesso in pericoli di morte. Dai Giudei cinque volte ho ricevuto quaranta colpi meno uno; tre volte sono stato battuto con le verghe; una volta sono stato lapidato; tre volte ho fatto naufragio; ho passato un giorno e una notte nell’abisso. Viaggi frequenti; pericoli di fiumi, pericoli di briganti, pericoli da parte dei miei connazionali, pericoli da parte dei pagani, pericoli in città, pericoli nel deserto, pericoli sul mare, pericoli tra falsi fratelli; fatica e travaglio, spesso veglie, fame e sete, frequenti digiuni, freddo e nudità.»
 
 - (Filippesi 1:29): «Perché, a voi è stata concessa, rispetto a Cristo, la grazia non soltanto di credere in lui, ma anche di soffrire per lui.»
 
-- (Ebrei 11:35–38): «Le donne ricevettero per risurrezione i loro morti; altri furono torturati… altri subirono scherni e flagelli, e inoltre catene e prigione. Furono lapidati, segati, uccisi di spada; vagavano coperti di pelli di pecora e di capra, bisognosi, afflitti, maltrattati; di loro il mondo non era degno; erranti per deserti e per montagne, per spelonche e per le caverne della terra.»
+- (Ebrei 11:35–38): «Le donne ricevettero per risurrezione i loro morti; altri furono torturati, rifiutando la liberazione per ottenere una risurrezione migliore. Altri subirono scherni e flagelli, e inoltre catene e prigione. Furono lapidati, segati, uccisi di spada; vagavano coperti di pelli di pecora e di capra, bisognosi, afflitti, maltrattati; di loro il mondo non era degno; erranti per deserti e per montagne, per spelonche e per le caverne della terra.»
 
 ---
 
@@ -238,7 +238,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 - (2 Corinzi 9:7–8): «Ciascuno faccia come ha deliberato in cuor suo; non di mala voglia né per forza, perché Dio ama un donatore gioioso. Dio è potente da far abbondare su di voi ogni grazia, affinché, avendo sempre in ogni cosa tutto il necessario, abbondiate per ogni opera buona.»
 
-- (Atti 8:18–20): «Simone, vedendo che per l’imposizione delle mani degli apostoli veniva dato lo Spirito Santo, offrì loro del denaro, dicendo: “Date anche a me questo potere…” Ma Pietro gli disse: “Vada il tuo denaro con te in perdizione, perché hai creduto di poter acquistare con denaro il dono di Dio!”»
+- (Atti 8:18–20): «Simone, vedendo che per l’imposizione delle mani degli apostoli veniva dato lo Spirito Santo, offrì loro del denaro, dicendo: “Date anche a me questo potere, affinché colui al quale imporrò le mani riceva lo Spirito Santo.” Ma Pietro gli disse: “Vada il tuo denaro con te in perdizione, perché hai creduto di poter acquistare con denaro il dono di Dio!”»
 
 - (1 Timoteo 6:6–8): «La pietà con animo contento è un grande guadagno; perché non abbiamo portato nulla nel mondo e neppure possiamo portarne via nulla; ma avendo di che nutrirci e di che coprirci, saremo di questo contenti.»
 
@@ -280,17 +280,17 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 **Versetto usato male:** (Giovanni 15:19) «Se foste del mondo, il mondo amerebbe ciò che è suo; ma siccome non siete del mondo, ma io vi ho scelti dal mondo, per questo il mondo vi odia.»
 
-**Come viene usato:** Alcuni gruppi affermano che solo una cerchia ristretta e nascosta rappresenti la vera comunità cristiana.
+**Come viene usato:** Alcuni affermano che solo chi appartiene a un gruppo nascosto, privato o esclusivo sia un «vero» credente, usando la segretezza o l’esclusività come prova dell’elezione.
 
-**La verità:** Gesù non ha fondato una società segreta, ma ha mandato i suoi seguaci a essere luce visibile davanti a tutti. La Chiesa è aperta a ogni nazione e popolo, senza distinzione.
+**La verità:** Gesù ha chiamato i suoi seguaci a essere la luce del mondo, visibile a tutti, non nascosta in circoli privati o riservata a membri selezionati. Appartenere a Cristo è possibile per chiunque creda, non è un privilegio riservato a una società segreta.
 
 **Passaggi di supporto:**
 
-- (Matteo 5:14–16) «Voi siete la luce del mondo… la vostra luce risplenda davanti agli uomini.»
+- (Matteo 5:14–16) «Voi siete la luce del mondo… una città posta sopra un monte non può essere nascosta.»
 
-- (Giovanni 3:16) «Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito.»
+- (Giovanni 3:16) «Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito, affinché chiunque crede in lui non perisca, ma abbia vita eterna.»
 
-- (Galati 3:28) «Non c’è né Giudeo né Greco… tutti voi siete uno in Cristo Gesù.»
+- (Galati 3:28) «Non c’è né Giudeo né Greco, né schiavo né libero, né maschio né femmina, perché tutti voi siete uno in Cristo Gesù.»
 
 ---
 
@@ -298,11 +298,11 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 **Versetto usato male:** (2 Timoteo 3:16) «Ogni Scrittura è ispirata da Dio ed è utile a insegnare, a riprendere, a correggere, a educare alla giustizia.»
 
-**Come viene usato in modo abusivo:** Alcune persone usano l’inerranza come un’arma: «Se non sei d’accordo con la mia esatta definizione, non sei un vero cristiano.» Altri la spingono in un letteralismo rigido che ignora il tipo di scrittura che si sta leggendo. Quando 2 Timothy 3:16 diventa un bastone invece di una verità su cui poggiare, la dottrina è stata distorta.
+**Come viene usato in modo abusivo:** Alcune persone usano l’inerranza come un’arma: «Se non sei d’accordo con la mia esatta definizione, non sei un vero cristiano.» Altri la spingono in un letteralismo rigido che ignora il tipo di scrittura che si sta leggendo. Quando 2 Timoteo 3:16 diventa un bastone invece di una verità su cui poggiare, la dottrina è stata distorta.
 
-**Chiariamo prima una cosa: la Bibbia è la Parola di Dio.** La parola greca in 2 Timothy 3:16 è *theopneustos*, che letteralmente significa «esalata da Dio». Questo non significa che gli autori si sentivano semplicemente ispirati come un poeta si sente creativo. Significa che Dio stesso ha esalato le parole attraverso scrittori umani. Li ha guidati in modo che ciò che hanno scritto fosse esattamente ciò che Egli voleva dire. 2 Peter 1:21 lo dice chiaramente: «Uomini hanno parlato da parte di Dio, sospinti dallo Spirito Santo.» La Bibbia non è un libro umano con il timbro di Dio; è il libro di Dio scritto attraverso mani umane.
+**Chiariamo prima una cosa: la Bibbia è la Parola di Dio.** La parola greca in 2 Timoteo 3:16 è *theopneustos*, che letteralmente significa «esalata da Dio». Questo non significa che gli autori si sentivano semplicemente ispirati come un poeta si sente creativo. Significa che Dio stesso ha esalato le parole attraverso scrittori umani. Li ha guidati in modo che ciò che hanno scritto fosse esattamente ciò che Egli voleva dire. 2 Pietro 1:21 lo dice chiaramente: «Uomini hanno parlato da parte di Dio, sospinti dallo Spirito Santo.» La Bibbia non è un libro umano con il timbro di Dio; è il libro di Dio scritto attraverso mani umane.
 
-La Scrittura fa questa affermazione su se stessa più e più volte: Salmo 12:6 chiama le parole di Dio «parole pure, argento purificato nel crogiuolo, raffinato sette volte». Proverbi 30:5 dice «ogni parola di Dio è affinata». Gesù stesso ha pregato in Giovanni 17:17: «La tua parola è verità.» Queste non sono affermazioni deboli. La Bibbia si presenta come completamente affidabile, senza errore e con la piena autorità di Dio.
+La Scrittura fa questa affermazione su se stessa più e più volte: Salmo 12:6 chiama le parole di Dio «parole pure, argento purificato in un crogiuolo di terra, raffinato sette volte». Proverbi 30:5 dice «ogni parola di Dio è affinata». Gesù stesso ha pregato in Giovanni 17:17: «La tua parola è verità.» Queste non sono affermazioni deboli. La Bibbia si presenta come completamente affidabile, senza errore e con la piena autorità di Dio.
 
 **Cosa significa «senza errore in ciò che afferma»:** La Bibbia talvolta riporta le parole di bugiardi, stolti e persino Satana. Per esempio, Satana disse a Eva «tu non morirai affatto» (Genesi 3:4); quell’affermazione è falsa, ma la Bibbia riporta accuratamente che egli la disse. Il testo è senza errore in ciò che insegna e afferma come vero; non approva ogni affermazione che registra. Questa è una distinzione semplice ma importante.
 
@@ -314,7 +314,7 @@ La Scrittura fa questa affermazione su se stessa più e più volte: Salmo 12:6 c
 
 - (2 Pietro 1:21) «Uomini hanno parlato da parte di Dio, sospinti dallo Spirito Santo.»
 
-- (Salmi 12:6) «Le parole del Signore sono parole pure, argento purificato nel crogiuolo, raffinato sette volte.»
+- (Salmi 12:6) «Le parole del Signore sono parole pure, argento purificato in un crogiuolo di terra, raffinato sette volte.»
 
 - (Proverbi 30:5) «Ogni parola di Dio è affinata; egli è uno scudo per chi si rifugia in lui.»
 
@@ -417,7 +417,7 @@ Non ogni frase citata come «verità biblica» si trova davvero nella Bibbia. Al
 
 - La verità: Ogni autorità è limitata ed è sempre **sotto** Dio.
 
-- (Romani 13:1–2): «Ogni persona sia sottoposta alle autorità superiori… chi si oppone all’autorità resiste all’ordine stabilito da Dio.»
+- (Romani 13:1–2): «Ogni persona sia sottoposta alle autorità superiori, perché non vi è autorità se non da Dio, e quelle che esistono sono state stabilite da Dio. Perciò chi si oppone all’autorità resiste all’ordine stabilito da Dio, e quelli che vi si oppongono attireranno su di sé la condanna.»
 
 - (Daniele 2:21): «Egli muta i tempi e le stagioni; depone i re e innalza i re; dà sapienza ai saggi e conoscenza a quelli che hanno intendimento.»
 
@@ -427,8 +427,8 @@ Non ogni frase citata come «verità biblica» si trova davvero nella Bibbia. Al
 
 ---
 
-## **Conclusione (Takeaway):**  
+## **Conclusione:**  
 La Bibbia va letta nel suo **contesto completo**. Le distorsioni nascono quando i versetti vengono piegati o quando detti culturali si travestono da Scrittura. La Parola di Dio non serve nazionalismo, coercizione, corruzione, vangelo della prosperità o falsi vangeli; essa indica Cristo, Signore di ogni nazione, cultura, guida e vita individuale.
 
-**Schema (Pattern):**  
+**Schema:**  
 Quasi ogni distorsione segue lo stesso percorso: un testo viene strappato dal suo contesto di alleanza, storico o letterario, oppure si importa qualcosa dall’esterno della Scrittura, e lo si trasforma in uno strumento di potere umano, controllo o comodità. Leggere con cura nel contesto protegge da tali distorsioni e mantiene lo sguardo su Gesù.  

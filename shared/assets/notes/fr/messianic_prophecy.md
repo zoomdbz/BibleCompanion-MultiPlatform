@@ -40,7 +40,7 @@ L'emploi de Matthieu n'efface pas la crise historique d'Ésaïe. Dieu s'est mont
 
 ### Bethléem et le souverain issu des temps anciens
 
-Michée parle à une nation sous le jugement et promet un souverain venant de Bethléem, dont l'origine remonte aux jours d'autrefois (Michée 5:1-4). Les grands prêtres et les scribes y reconnaissent le lieu attendu de la naissance du Messie; Matthieu rapporte que Jésus y naît (Matthieu 2:1-6).
+Michée parle à une nation sous le jugement et promet un souverain venant de Bethléem, dont l'origine remonte aux jours d'autrefois (Michée 4:14-5:4). Les grands prêtres et les scribes y reconnaissent le lieu attendu de la naissance du Messie; Matthieu rapporte que Jésus y naît (Matthieu 2:1-6).
 
 Bethléem porte la mémoire de David, originaire de cette petite ville (1 Samuel 16:1, 11-13). Le plus grand fils de David vient lui aussi de ce qui paraît petit, puis fait paître son troupeau par la force du SEIGNEUR (Michée 5:3; Matthieu 2:6).
 
@@ -66,7 +66,7 @@ Son ministère rend ensuite cette annonce visible. Les pauvres entendent la bonn
 
 ### La lumière en Galilée
 
-Ésaïe 8:23-9:6 conduit des ténèbres à la lumière et de l'oppression au règne d'un enfant promis. Matthieu situe le début du ministère galiléen de Jésus dans cette promesse (Matthieu 4:12-17). Le lieu compte: la lumière se lève sur un territoire marqué par l'invasion et le mépris, puis Jésus annonce que le règne des cieux s'est approché.
+Ésaïe 8:22-9:6 conduit des ténèbres à la lumière et de l'oppression au règne d'un enfant promis. Matthieu situe le début du ministère galiléen de Jésus dans cette promesse (Matthieu 4:12-17). Le lieu compte: la lumière se lève sur un territoire marqué par l'invasion et le mépris, puis Jésus annonce que le règne des cieux s'est approché.
 
 ### Les signes de la restauration
 
@@ -383,11 +383,11 @@ L'événement révèle plusieurs vérités à la fois:
 - Jésus possède la gloire céleste avant la résurrection (Jean 1:14).
 - La Loi et les Prophètes lui rendent témoignage, tandis que l'ordre du Père donne au Fils l'autorité finale (Luc 24:25-27; Hébreux 1:1-2).
 - La gloire future de son royaume se trouve au-delà de la souffrance qu'il vient d'annoncer (Matthieu 16:21-28).
-- Pierre décrit ensuite la montagne comme une manifestation dont il a été témoin de la majesté du Christ, lorsqu'il défend la puissance et la venue de Jésus (2 Pierre 1:16-18).
+- Pierre décrit ensuite la montagne comme une manifestation de la majesté du Christ dont il a été témoin, lorsqu'il défend la puissance et la venue de Jésus (2 Pierre 1:16-18).
 
 La transfiguration constitue donc un puissant avant-goût de la gloire royale. La lecture fondée sur la semaine de création donne au délai de Matthieu une portée supplémentaire: après six jours, Jésus paraît dans la splendeur du royaume; après six mille ans, le même Messie paraît dans la gloire et inaugure le règne du septième jour (Matthieu 17:1-8; Apocalypse 19:11-20:6). Jésus ordonne ensuite aux disciples terrifiés de se relever sans crainte. On peut y entendre un écho de l'espérance de la résurrection, tandis que le but immédiat reste de rassurer les disciples (Matthieu 17:7).
 
-L'appel ultérieur de Pierre à cet événement soutient le lien avec l'avant-goût du royaume (2 Pierre 1:16-18). Ni Pierre ni Matthieu ne convertit les six jours en six mille ans; la couche chronologique reste donc une synthèse typologique.
+L'appel ultérieur de Pierre à cet événement soutient le lien avec l'avant-goût du royaume (2 Pierre 1:16-18). Ni Pierre ni Matthieu ne convertissent les six jours en six mille ans; la couche chronologique reste donc une synthèse typologique.
 
 ## Le Roi qui revient et la promesse accomplie
 
@@ -435,7 +435,7 @@ Cette section sert de référence rapide après la lecture des contextes complet
 ### Ministère et royauté
 
 - **Consacré par l'Esprit:** Ésaïe 61:1-2 -> Luc 4:18-21
-- **Lumière en Galilée:** Ésaïe 9:1-2 -> Matthieu 4:12-17
+- **Lumière en Galilée:** Ésaïe 8:23-9:1 -> Matthieu 4:12-17
 - **Prophète semblable à Moïse:** Deutéronome 18:15-19 -> Actes 3:22-26
 - **Enseignement en paraboles:** Psaume 78:2 -> Matthieu 13:34-35
 - **Guérison des aveugles, des sourds et des boiteux:** Ésaïe 35:5-6 -> Matthieu 11:2-6

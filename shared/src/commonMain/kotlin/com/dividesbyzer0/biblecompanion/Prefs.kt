@@ -40,6 +40,8 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setHapticEnabled(enabled: Boolean)
     suspend fun setCustomThemeHue(hue: Float)
     suspend fun setCustomThemeColor(hue: Float, saturation: Float, lightness: Float)
+    suspend fun setCustomThemeAccent(role: CustomThemeRole, color: CustomThemeColor)
+    suspend fun resetCustomThemeAccents()
     suspend fun setExpandNotesDefault(expand: Boolean)
     suspend fun setCrossBookTts(enabled: Boolean)
     suspend fun setCollapsedStories(json: String)

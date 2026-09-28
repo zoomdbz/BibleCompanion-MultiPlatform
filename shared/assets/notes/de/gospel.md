@@ -2,7 +2,7 @@
 
 Evangelium ist ein altes Wort und bedeutet gute Nachricht. Fang mit der schlechten Nachricht an, denn die gute Nachricht ergibt ohne sie keinen Sinn.
 
-Gott hat einen einzigen Maßstab, und dieser Maßstab ist vollkommen. Nicht „dein Bestes gegeben.“ Nicht „mehr gute Tage als schlechte.“ Vollkommen. Jakobus hat es so formuliert, dass keiner ausweichen kann: „Denn wenn jemand das ganze Gesetz hält, sich aber in einem Gebot verfehlt, der ist in allem schuldig geworden“ (Jakobus 2:10). Lies das zweimal. Ein Ausrutscher stellt dich in denselben Raum wie den, der jede Regel im Buch gebrochen hat. Bestanden oder durchgefallen; die Bestehensnote ist hundert, und es gibt keine Kurve. Gut genug zu sein war nie die Prüfung; keiner besteht sie ohnehin, nicht du, nicht ich, nicht der Heilige zwei Bankreihen weiter.
+Gott hat einen einzigen Maßstab, und dieser Maßstab ist vollkommen. Nicht „dein Bestes gegeben.“ Nicht „mehr gute Tage als schlechte.“ Vollkommen. Jakobus hat es so formuliert, dass keiner ausweichen kann: „Denn wenn jemand das ganze Gesetz hält, sich aber in einem Gebot verfehlt, der ist in allem schuldig geworden“ (Jakobus 2:10). Lies das zweimal. Ein Ausrutscher stellt dich in denselben Raum wie den, der jede Regel im Buch gebrochen hat. Bestanden oder durchgefallen; die Bestehensnote ist hundert, und die Bestehensgrenze wird nicht gesenkt. Gut genug zu sein war nie die Prüfung; keiner besteht sie ohnehin, nicht du, nicht ich, nicht der Heilige zwei Bankreihen weiter.
 
 Jetzt zur Rechnung. Paulus nennt den Preis in wenigen Worten: „Denn der Lohn der Sünde ist der Tod“ (Römer 6:23). Ein Lohn ist etwas, das man sich verdient, und das ist der Gehaltsscheck, den die Sünde ausstellt. Er wird fällig, und er platzt nicht. Das ist das Loch, in dem jeder von uns steht, und wir kommen nicht heraus, denn dieselben Hände, die es gegraben haben, können es nicht füllen.
 
@@ -12,4 +12,4 @@ Hier versuchen Leute, schlau zu sein. Wenn das Geschenk umsonst ist, ist der cle
 
 Dann kommt dein Teil, und der kostet eine ehrliche Bewegung. „Denn wenn du mit deinem Mund Jesus als den Herrn bekennst und in deinem Herzen glaubst, dass Gott ihn aus den Toten auferweckt hat, so wirst du gerettet“ (Römer 10:9). Herr heißt: der, der jetzt dein Leben lenkt, die Hände am Steuer. Glauben heißt: du setzt alles auf ein Grab, das leer geworden ist. Buße heißt: du kehrst um, gehst in die andere Richtung und meinst es ernst.
 
-Die Latte, die du nicht reißen kannst. Die Rechnung, die du nicht zahlen kannst. Das Geschenk, das du nicht verdienen kannst. Das Leben, das du nicht vortäuschen kannst. Die Tür, durch die du hindurchgehen kannst. Das ist das Ganze, und es war schon immer so kurz.
+Die Latte, die du nicht überspringen kannst. Die Rechnung, die du nicht zahlen kannst. Das Geschenk, das du nicht verdienen kannst. Das Leben, das du nicht vortäuschen kannst. Die Tür, durch die du hindurchgehen kannst. Das ist das Ganze, und es war schon immer so kurz.

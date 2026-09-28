@@ -8,7 +8,7 @@ Und
 
 2) Jesus ist Gott  
 
-*Hinweis: Die Übersetzungsnotizen in diesem Dokument zeigen, wie die Originaltexte (Hebräisch, Griechisch und Aramäisch) direkt die Begriffe ausdrücken, die mit der göttlichen Identität Jesu verbunden sind. Es handelt sich nicht um Übersetzungen aus dem Deutschen ins Hebräische, Griechische oder Aramäische, sondern um Verweise auf die ältesten Sprachen der Schrift, die die Göttlichkeit Jesu belegen.*  
+*Hinweis: Die Übersetzungsnotizen in diesem Dokument zeigen, wie die Originaltexte (Hebräisch, Griechisch und Aramäisch) direkt die Begriffe ausdrücken, die mit der göttlichen Identität Jesu verbunden sind. Es handelt sich nicht um Übersetzungen aus dem Deutschen ins Hebräische, Griechische oder Aramäische, sondern um die frühesten sprachlichen Belege für die Göttlichkeit Jesu.*  
 
 ---
 
@@ -84,10 +84,10 @@ Und
   - Griechisch (LXX/OG): ὡς υἱὸς ἀνθρώπου (*hōs huios anthrōpou*)  
   - Aramäisch (Original): בַּר אֱנָשׁ (*bar enash*)  
   - **Deutsch:** „Menschensohn“  
-  - *Kontext: Vision einer himmlischen Gestalt mit ewiger Herrschaft; von Jesus auf sich selbst angewandt.*  
+  - *Kontext: Vision einer himmlischen Gestalt, die mit ewiger Herrschaft inthronisiert wird; Jesus wandte diesen Titel auf sich selbst an.*  
 
 **Neutestamentliche Bezüge außerhalb der Evangelien**  
--  Römer 1:3–4: Als Sohn Gottes in Macht eingesetzt durch die Auferstehung.  
+-  Römer 1:3–4: Durch die Auferstehung als Sohn Gottes in Macht erwiesen.  
 
 -  Galater 4:4–6: Gott sandte seinen Sohn; der Geist seines Sohnes.  
 
@@ -120,7 +120,7 @@ Und
   - Griechisch: ἐγώ εἰμι (*egō eimi*)  
   - Aramäisch: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
   - **Deutsch:** „ICH BIN“  
-  - *Kontext: Jesus wendet den göttlichen Namen aus dem Exodus auf sich selbst an.*  
+  - *Kontext: Jesus wendet die göttliche Selbstoffenbarung aus dem Exodus direkt auf sich selbst an.*  
 
 -  Johannes 10:30: „Der Vater und ich sind eins.“  
 
@@ -187,7 +187,7 @@ Und
 
 
 **Hinweise für Leser**  
--  In den Evangelien beansprucht Jesus nicht nur die Einheit mit dem Vater, sondern übt auch göttliche Vorrechte aus: Sünden vergeben, die Schöpfung beherrschen, den göttlichen Namen und die Herrlichkeit teilen und Anbetung annehmen. Die Apostel bezeichnen ihn dann mit unmissverständlichen göttlichen Titeln.  
+-  In den Evangelien beansprucht Jesus nicht nur die Einheit mit dem Vater, sondern übt auch Vorrechte aus, die allein Gott zukommen: Sünden vergeben, die Schöpfung beherrschen, den göttlichen Namen und die Herrlichkeit teilen und Anbetung annehmen. Die Apostel bezeichnen ihn dann mit unmissverständlichen göttlichen Titeln.  
 
 
 ---

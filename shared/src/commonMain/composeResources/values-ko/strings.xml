@@ -457,4 +457,9 @@
     <string name="ui_color_violet">보라색</string>
     <string name="ui_color_magenta">자홍색</string>
     <string name="ui_color_rose">장미색</string>
+    <string name="ui_primary_color">기본색</string>
+    <string name="ui_secondary_color">보조색</string>
+    <string name="ui_tertiary_color">강조색</string>
+    <string name="ui_custom_palette_hint">각 색을 따로 선택하거나 보조색과 강조색을 기본색에 맞추세요.</string>
+    <string name="ui_match_accent_colors">보조색과 강조색을 기본색에 맞추기</string>
 </resources>

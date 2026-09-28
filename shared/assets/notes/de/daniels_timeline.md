@@ -39,11 +39,11 @@ Daniel bezeichnet Nebukadnezar und sein Reich als das goldene Haupt. Drei Reiche
 | Bauch und Hüften aus Bronze | Griechenland | Daniel 8 nennt Griechenland ausdrücklich als die Macht, die auf den Widder folgt (Daniel 8:5-8; Daniel 8:20-21) |
 | Beine aus Eisen | Rom | Daniel 2 nennt es das zermalmende vierte Reich, aber nicht Rom (Daniel 2:40) |
 | Füße aus Eisen und Ton | Eine geteilte Fortsetzung des vierten Reiches | Der Text betont Vermischung ohne dauerhafte Einheit (Daniel 2:41-43) |
-| Stein und Berg | Gottes ewiges Reich | Gott richtet es auf, nicht menschliche Macht (Daniel 2,44-45) |
+| Stein und Berg | Gottes ewiges Reich | Gott errichtet es; es zerstört die Reiche und besteht für immer (Daniel 2,44-45) |
 
 Die ersten drei Namen beruhen auf Daniels eigenen Zuordnungen, wenn man die Visionen zusammen liest. Das vierte Reich mit Rom gleichzusetzen, ist die vorherrschende christliche Geschichtsdeutung; Daniel 2 verwendet diesen Namen jedoch nie.
 
-Eine andere Lesart trennt Medien und Persien als zweites und drittes Reich und macht Griechenland zum vierten. Sie verweist darauf, dass Darius der Meder das babylonische Reich vor der Herrschaft des Persers Kyrus empfing (Daniel 5:28-30; Daniel 6:1; Daniel 6:28). Die gemeinsame medo-persische Lesart entgegnet, dass Daniel 8 Medien und Persien als zwei ungleiche Hörner an einem Widder darstellt und Griechenland danach einordnet (Daniel 8:3-7; Daniel 8:20-21). Daniel bestimmt Babylon in Kapitel 2 und Medo-Persien sowie Griechenland in Kapitel 8 ausdrücklich; die genaue Zuordnung aller Bilder bleibt Auslegung. Eine Schlussfolgerung sollte nur so stark sein wie ihr Text.
+Eine andere Lesart trennt Medien und Persien als zweites und drittes Reich und macht Griechenland zum vierten. Sie verweist darauf, dass Darius der Meder das babylonische Reich vor der Herrschaft des Persers Kyrus empfing (Daniel 5:28-30; Daniel 6:1; Daniel 6:29). Die gemeinsame medo-persische Lesart entgegnet, dass Daniel 8 Medien und Persien als zwei ungleiche Hörner an einem Widder darstellt und Griechenland danach einordnet (Daniel 8:3-7; Daniel 8:20-21). Daniel bestimmt Babylon in Kapitel 2 und Medo-Persien sowie Griechenland in Kapitel 8 ausdrücklich; die genaue Zuordnung aller Bilder bleibt Auslegung. Eine Schlussfolgerung sollte nur so stark sein wie ihr Text.
 
 ### Der gegenwärtige und künftige Sieg des Steins
 
@@ -115,7 +115,7 @@ Daniel 9:24-27 teilt den Zeitraum in drei Abschnitte:
 
 Die ersten beiden Abschnitte ergeben zusammen neunundsechzig Siebener oder 483 Jahre. Alle siebzig ergeben 490 Jahre.
 
-Die Prophetie führt durch ein Wort zur Wiederherstellung, ein wiederaufgebautes Jerusalem, einen gesalbten Herrscher, die Ausrottung eines Gesalbten, die Zerstörung von Stadt und Heiligtum, ein Bundesschließen während des letzten Siebeners, das Ende des Opfers in seiner Mitte und fest beschlossene Verwüstung (Daniel 9:24-27).
+Die Prophetie führt durch ein Wort zur Wiederherstellung, ein wiederaufgebautes Jerusalem, einen gesalbten Herrscher, die Ausrottung eines Gesalbten, die Zerstörung von Stadt und Heiligtum, ein Handeln in Bezug auf den Bund während des letzten Siebeners, das Ende des Opfers in seiner Mitte und fest beschlossene Verwüstung (Daniel 9:24-27).
 
 Die Abfolge ist klar. Mehrere Personen und Zwischenräume sind es nicht. Daniel nennt kein Datum v. Chr., bestimmt keinen persischen Erlass, definiert nicht die Kalenderlänge jedes Jahres, identifiziert nicht jedes Pronomen und sagt nicht ausdrücklich, dass eine Lücke den letzten Siebener unterbricht.
 
@@ -169,7 +169,7 @@ Die Möglichkeiten sind verwandt, aber nicht gleich: ein gesalbtes wiederhergest
 
 Nach Daniel beginnt die Zählung mit dem Ausgang des Wortes, Jerusalem wiederherzustellen und zu bauen (Daniel 9:25). Die Schrift berichtet von mehreren persischen Maßnahmen im Zusammenhang mit der Wiederherstellung.
 
-Die letzte Vollmacht gehört Gott. Gabriel hat bereits gesagt, dass ein Wort ausging, als Daniel zu beten begann (Daniel 9:23). Jesaja sagt, Gott bestätige das Wort seines Boten, erkläre Jerusalem für bewohnt und bestimme Kyrus dazu, die Stadt wiederaufzubauen und den Grund des Tempels zu legen (Jesaja 44:26-28; Jesaja 45:13). Esra sagt, der HERR habe Kyrus bewegt, seinen Erlass zur Erfüllung Jeremias zu veröffentlichen (Esra 1:1). Das göttliche Wort und der königliche Befehl können somit zu einer Handlung gehören: Gott beschließt die Wiederherstellung, und ein König veröffentlicht und vollzieht sie.
+Die letzte Vollmacht gehört Gott. Gabriel hat bereits gesagt, dass ein Wort ausging, als Daniel zu beten begann (Daniel 9:23). Jesaja sagt, Gott bestätige das Wort seines Boten, kündige an, dass Jerusalem bewohnt sein werde, und bestimme Kyrus dazu, die Stadt wiederaufzubauen und den Grund des Tempels zu legen (Jesaja 44:26-28; Jesaja 45:13). Esra sagt, der HERR habe Kyrus bewegt, seinen Erlass zur Erfüllung Jeremias zu veröffentlichen (Esra 1:1). Das göttliche Wort und der königliche Befehl können somit zu einer Handlung gehören: Gott beschließt die Wiederherstellung, und ein König veröffentlicht und vollzieht sie.
 
 ### Ein Zeitabschnitt oder zwei gesalbte Personen
 
@@ -187,13 +187,13 @@ Darius lässt die Archive durchsuchen, bestätigt den Befehl des Kyrus, finanzie
 
 ### Artaxerxes und Esra: Gesetz, Regierung und Wiederherstellung
 
-Im siebten Jahr des Artaxerxes erhält Esra einen königlichen Auftrag. Der König erlaubt die Rückkehr nach Jerusalem, stattet den Tempel aus, gewährt weitreichende finanzielle Vorrechte und befiehlt Esra, Richter einzusetzen, die Gottes Gesetz durchsetzen (Esra 7:7-9; Esra 7:11-26). Das reicht über Bautätigkeit hinaus bis zur wiederhergestellten bürgerlichen Ordnung und Bundesordnung Jerusalems.
+Im siebten Jahr des Artaxerxes erhält Esra einen königlichen Auftrag. Der König erlaubt die Rückkehr nach Jerusalem, stattet den Tempel aus, gewährt weitreichende finanzielle Vorrechte und befiehlt Esra, Amtsträger und Richter einzusetzen, die Gottes Gesetz durchsetzen (Esra 7:7-9; Esra 7:11-26). Das reicht über Bautätigkeit hinaus bis zur wiederhergestellten bürgerlichen Ordnung und Bundesordnung Jerusalems.
 
 Esra sagt später, die persischen Könige hätten Juda eine Mauer gegeben und Gottes Haus wieder aufgerichtet (Esra 9:9). Zuvor hatten Gegner die zurückgekehrten Verbannten als Erbauer von Jerusalems Mauern und Grundfesten bezeichnet und einen Befehl erwirkt, sie bis zu einem weiteren Erlass anzuhalten (Esra 4:12-13; Esra 4:21). Diese Texte bilden die biblische Grundlage dafür, den Auftrag des Artaxerxes an Esra als das wirksame Wort zur Wiederherstellung Jerusalems und nicht nur seines Tempels zu verstehen.
 
 ### Artaxerxes und Nehemia: die ausdrücklich genannten Mauern
 
-Im zwanzigsten Jahr des Artaxerxes bittet Nehemia um Erlaubnis, die Stadt seiner Väter wiederaufzubauen. Der König gewährt die Bitte und stellt Briefe für sichere Reise und Holz für Tore und Mauer aus (Nehemia 2:1-8). Danach fordert Nehemia Jerusalems Führer zum Wiederaufbau der Mauer auf, und sie beginnen das Werk (Nehemia 2:17-18).
+Im zwanzigsten Jahr des Artaxerxes bittet Nehemia um Erlaubnis, die Stadt wiederaufzubauen, in der seine Väter begraben liegen. Der König gewährt die Bitte und stellt Briefe für sichere Reise und Holz für Tore und Mauer aus (Nehemia 2:1-8). Danach fordert Nehemia Jerusalems Führer zum Wiederaufbau der Mauer auf, und sie beginnen das Werk (Nehemia 2:17-18).
 
 Dies ist die deutlichste überlieferte Genehmigung, die unmittelbar mit dem Wiederaufbau der Stadtmauer verbunden ist. Der Bericht nennt sie eine gewährte Bitte und verzeichnet königliche Briefe; er gibt keinen förmlichen Erlass zum Städtebau in derselben Form wie Esra 7 wieder. Dieser textliche Unterschied erklärt, weshalb ein Modell Esra und ein anderes Nehemia bevorzugt.
 
@@ -221,7 +221,7 @@ Das Modell setzt dann etwa dreieinhalb Jahre Dienst zwischen einer Taufe im Herb
 
 Nach dieser Lesart wird der Messias in der Mitte des siebzigsten Siebeners ausgerottet (Daniel 9:26-27). Sein Tod setzt den Bund in seinem Blut ein, vollendet das Muster des Opfersystems und schafft das einmalige Opfer, das allein Sünde wegnimmt (Matthäus 26:28; Hebräer 9:11-15; Hebräer 10:4; Hebräer 10:10-18). Der verbleibende halbe Siebener wird dann einer künftigen Zeit der Bedrängnis vorbehalten.
 
-Diese Lesart einer geteilten Hälfte stützt sich auf die wiederkehrenden Zeiträume von dreieinhalb Jahren in Daniel und der Offenbarung (Daniel 7:25; Daniel 12:7; Offenbarung 11:2-3; Offenbarung 12:6; Offenbarung 12:14; Offenbarung 13:5). Die Unterbrechung ist jedoch eine Schlussfolgerung. Daniel 9 sagt nicht, dass die Uhr nach dem Tod des Messias anhält; beide Hälften werden nur dann durch einen langen Zeitraum getrennt, wenn der Leser diese Struktur hinzufügt.
+Diese Lesart mit zeitlich getrennten Hälften stützt sich auf die wiederkehrenden Zeiträume von dreieinhalb Jahren in Daniel und der Offenbarung (Daniel 7:25; Daniel 12:7; Offenbarung 11:2-3; Offenbarung 12:6; Offenbarung 12:14; Offenbarung 13:5). Die Unterbrechung ist jedoch eine Schlussfolgerung. Daniel 9 sagt nicht, dass die Uhr nach dem Tod des Messias anhält; beide Hälften werden nur dann durch einen langen Zeitraum getrennt, wenn der Leser diese Struktur hinzufügt.
 
 ### Das Modell des Nehemia-Auftrags: 445 v. Chr. bis 32 n. Chr.
 
@@ -244,7 +244,7 @@ Beide Modelle haben eine ernst zu nehmende biblische Begründung:
 - Esra 7 enthält einen förmlichen königlichen Auftrag mit Vollmacht zur Wiederherstellung von Gottesdienst, Gesetz und Regierung. Seine Zählung mit gewöhnlichen Jahren kann den Beginn des Wirkens Jesu erreichen.
 - Nehemia 2 nennt die zerstörte Stadt und Mauer unmittelbar. Seine Zählung mit 360 Tagen kann Jesu königlichen Einzug erreichen.
 
-Keine Berechnung darf wie ein Bibelvers behandelt werden. Das Esra-Modell muss sein geschichtliches Jahr, den Endpunkt beim Beginn des Wirkens und den geteilten halben Siebener begründen. Das Nehemia-Modell muss den genauen Tag, die Umrechnung auf 360 Tage und eine Passionschronologie mit dem Jahr 32 n. Chr. begründen. Beide stimmen in Daniels zentraler Aussage überein: Der Messias erscheint, der Messias wird ausgerottet, Jerusalem und das Heiligtum stehen vor der Zerstörung, und Gottes Ziele scheitern nicht (Daniel 9:24-27).
+Keine Berechnung darf wie ein Bibelvers behandelt werden. Das Esra-Modell muss sein geschichtliches Jahr, den Endpunkt beim Beginn des Wirkens und die zeitlich getrennten Hälften des Siebeners begründen. Das Nehemia-Modell muss den genauen Tag, die Umrechnung auf 360 Tage und eine Passionschronologie mit dem Jahr 32 n. Chr. begründen. Beide stimmen in Daniels zentraler Aussage überein: Der Messias erscheint, der Messias wird ausgerottet, Jerusalem und das Heiligtum stehen vor der Zerstörung, und Gottes Ziele scheitern nicht (Daniel 9:24-27).
 
 ## Der letzte Siebener und die Identität von "er"
 
@@ -263,7 +263,7 @@ In dieser Lesart ist der Messias das Subjekt. Mehrere Verbindungen innerhalb der
 
 In einer fortlaufenden erstjahrhundertlichen Form dieser Lesart reicht der letzte Siebener durch Christi Wirken und das frühe apostolische Zeugnis. Einige setzen sein Ende beim Zeugnis und Tod des Stephanus an, als das Evangelium eine bedeutende Bewegung nach außen beginnt (Apostelgeschichte 6:8-15; Apostelgeschichte 7:54-60; Apostelgeschichte 8:1-5). Die Apostelgeschichte nennt den Tod des Stephanus nicht das Ende von Daniels siebzigstem Siebener; dieser Endpunkt bleibt deshalb eine Chronologie und keine ausdrückliche Zuordnung.
 
-In der Lesart mit geteilter Hälfte bestätigt Christus den Bund und wird in der Mitte ausgerottet. Die verbleibenden dreieinhalb Jahre warten auf die letzte Krise. Damit werden das erste und zweite Kommen des Messias in einem Siebener verbunden. Die wiederkehrenden halben Siebener stützen die Form; die lange Unterbrechung bleibt in Daniel 9 ungenannt.
+In der Lesart mit zeitlich getrennten Hälften bestätigt Christus den Bund und wird in der Mitte ausgerottet. Die verbleibenden dreieinhalb Jahre warten auf die letzte Krise. Damit werden das erste und zweite Kommen des Messias in einem Siebener verbunden. Die wiederkehrenden halben Siebener stützen die Form; die lange Unterbrechung bleibt in Daniel 9 ungenannt.
 
 ### Lesart eines künftigen Herrschers
 
@@ -343,7 +343,7 @@ Diese Themen gehören in Christus zusammen: Leiden weicht der Auferstehung, Arbe
 
 Die folgende Abfolge bringt Daniels getrennte Visionen mit ausdrücklichen Verbindungen im Neuen Testament zusammen. Mehrere Schritte ordnen Material aus verschiedenen Kapiteln einander zu; ihre Platzierung schließt deshalb Auslegung ein. Die Abfolge weist Christi Wiederkunft kein in der Schrift ungenanntes Kalenderdatum zu.
 
-1. **Babylon hält Jerusalem im Exil.** Daniel dient unter Babylon und danach unter Medo-Persien (Daniel 1:1-7; Daniel 5:28-30; Daniel 6:1; Daniel 6:28).
+1. **Babylon hält Jerusalem im Exil.** Daniel dient unter Babylon und danach unter Medo-Persien (Daniel 1:1-7; Daniel 5:28-30; Daniel 6:1; Daniel 6:29).
 2. **Gott lässt eine Abfolge irdischer Reiche zu.** Daniel 2 und Daniel 7 zeigen vier Reiche vor dem offenen Triumph von Gottes Reich (Daniel 2:36-45; Daniel 7:17-27).
 3. **Unter persischer Herrschaft geht ein Wort zur Wiederherstellung aus.** Kyrus, der Auftrag des Artaxerxes an Esra und Nehemias Genehmigung tragen jeweils zur Geschichte der Wiederherstellung bei; die Wahl des Ausgangserlasses gehört zur Chronologie (Jesaja 44:26-28; Esra 1:1-4; Esra 7:11-26; Nehemia 2:1-8; Daniel 9:25).
 4. **Medo-Persien und Griechenland werden ausdrücklich genannt.** Daniel 8 liefert die Zuordnungen und zeigt eine Vierteilung nach dem ersten König Griechenlands (Daniel 8:20-22).

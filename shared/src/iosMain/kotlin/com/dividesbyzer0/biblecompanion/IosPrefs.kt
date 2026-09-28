@@ -70,6 +70,8 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             customThemeHue = safeThemeHue(getFloat("custom_theme_hue", 210f)),
             customThemeSaturation = safeThemeUnit(getFloat("custom_theme_saturation", 1f), 1f),
             customThemeLightness = safeThemeUnit(getFloat("custom_theme_lightness", 0.5f), 0.5f),
+            customThemeSecondary = readCustomThemeColor(getString("custom_theme_secondary")),
+            customThemeTertiary = readCustomThemeColor(getString("custom_theme_tertiary")),
             expandNotesDefault = getBool("expand_notes_default", false),
             collapsedStoriesJson = getString("collapsed_stories_json") ?: "{}",
             autoContinueTts = getBool("auto_continue_tts", true),
@@ -188,6 +190,21 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
         defaults.setFloat(safeThemeHue(hue), forKey = "custom_theme_hue")
         defaults.setFloat(safeThemeUnit(saturation, 1f), forKey = "custom_theme_saturation")
         defaults.setFloat(safeThemeUnit(lightness, 0.5f), forKey = "custom_theme_lightness")
+        refresh()
+    }
+    actual suspend fun setCustomThemeAccent(role: CustomThemeRole, color: CustomThemeColor) {
+        val safe = color.normalized()
+        if (role == CustomThemeRole.Primary) {
+            setCustomThemeColor(safe.hue, safe.saturation, safe.lightness)
+        } else {
+            val key = if (role == CustomThemeRole.Secondary) "custom_theme_secondary" else "custom_theme_tertiary"
+            defaults.setObject(json.encodeToString(safe), forKey = key)
+            refresh()
+        }
+    }
+    actual suspend fun resetCustomThemeAccents() {
+        defaults.removeObjectForKey("custom_theme_secondary")
+        defaults.removeObjectForKey("custom_theme_tertiary")
         refresh()
     }
     actual suspend fun setExpandNotesDefault(expand: Boolean) {
@@ -347,7 +364,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             labels = loadLabels(),
             customThemeHue = safeThemeHue(getFloat("custom_theme_hue", 210f)),
             customThemeSaturation = safeThemeUnit(getFloat("custom_theme_saturation", 1f), 1f),
-            customThemeLightness = safeThemeUnit(getFloat("custom_theme_lightness", 0.5f), 0.5f)
+            customThemeLightness = safeThemeUnit(getFloat("custom_theme_lightness", 0.5f), 0.5f),
+            customThemeSecondary = readCustomThemeColor(getString("custom_theme_secondary")),
+            customThemeTertiary = readCustomThemeColor(getString("custom_theme_tertiary"))
         )
         return json.encodeToString(backup)
     }
@@ -362,6 +381,12 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
                 defaults.setFloat(safeThemeHue(theme.hue), forKey = "custom_theme_hue")
                 defaults.setFloat(safeThemeUnit(theme.saturation, 1f), forKey = "custom_theme_saturation")
                 defaults.setFloat(safeThemeUnit(theme.lightness, 0.5f), forKey = "custom_theme_lightness")
+                backup.customThemeSecondary?.let {
+                    defaults.setObject(json.encodeToString(it.normalized()), forKey = "custom_theme_secondary")
+                } ?: defaults.removeObjectForKey("custom_theme_secondary")
+                backup.customThemeTertiary?.let {
+                    defaults.setObject(json.encodeToString(it.normalized()), forKey = "custom_theme_tertiary")
+                } ?: defaults.removeObjectForKey("custom_theme_tertiary")
             }
             refresh()
             true

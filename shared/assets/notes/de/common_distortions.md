@@ -13,7 +13,7 @@ Die Schrift warnt davor, dass falsche Lehrer oft innerhalb religiöser Sprache a
 
 Die Bibel gibt klare Prüfsteine zur Erkennung falscher Propheten, falscher Lehrer und verfälschter Evangelien:
 
-- **5. Mose 13:1–5** – Zeichen oder geistliche Erfahrungen bestätigen keine Botschaft, die vom HERRN wegführt.
+- **5. Mose 13:2–6** – Zeichen oder geistliche Erfahrungen bestätigen keine Botschaft, die vom HERRN wegführt.
 - **5. Mose 18:20–22** – Fehlgeschlagene Prophetie entlarvt falsche Autorität.
 - **Matthäus 7:15–20** – Falsche Propheten erkennt man an ihren Früchten.
 - **1. Johannes 4:1–3** – Wahres Bekenntnis bekennt Jesus Christus als im Fleisch gekommen.
@@ -33,11 +33,11 @@ Die Bibel gibt klare Prüfsteine zur Erkennung falscher Propheten, falscher Lehr
 
 ### Biblische Schlussfolgerung
 
-Die Schrift gebietet, jeden Lehrer und jede Botschaft zu prüfen.
+Die Schrift gebietet den Gläubigen, jeden Lehrer und jede Botschaft zu prüfen.
 
-Verändert eine Lehre Jesus, das Evangelium oder fügt Bedingungen hinzu, ist sie nicht biblisches Christentum.
+Wenn eine Lehre verändert, wer Jesus ist, das Evangelium verändert oder über den Glauben an Christus hinaus zusätzliche Voraussetzungen verlangt, ist sie nicht biblisches Christentum.
 
-Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
+Haltet fest an dem Glauben, der den Heiligen ein für alle Mal überliefert wurde (Judas 3).
 
 ---
 
@@ -100,7 +100,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 - (Daniel 3,16–18): „Schadrach, Meschach und Abed-Nego antworteten und sprachen zum König Nebukadnezar: Wir haben darauf keine Antwort nötig. Wenn es so sein soll: Unser Gott, dem wir dienen, kann uns aus dem brennenden Feuerofen erretten, und aus deiner Hand, o König, wird er uns retten. Wenn aber nicht, so sei dir kund, o König: Deinen Göttern dienen wir nicht, und das goldene Bild, das du aufgestellt hast, beten wir nicht an.“
 
-- (Daniel 6,10): „Als Daniel erfuhr, dass die Schrift unterschrieben war, ging er in sein Haus; in seinem Obergemach hatte er offene Fenster nach Jerusalem hin, und er kniete dreimal am Tag nieder, betete und dankte vor seinem Gott, wie er es zuvor zu tun pflegte.“
+- (Daniel 6,11): „Als Daniel erfuhr, dass die Schrift unterschrieben war, ging er in sein Haus; in seinem Obergemach hatte er offene Fenster nach Jerusalem hin, und er kniete dreimal am Tag nieder, betete und dankte vor seinem Gott, wie er es zuvor zu tun pflegte.“
 
 - (Offenbarung 13,4–8): „Und sie beteten den Drachen an, der dem Tier die Macht gab, und sie beteten das Tier an und sprachen: Wer ist dem Tier gleich, wer kann mit ihm kämpfen? Und es wurde ihm ein Mund gegeben, große Dinge und Lästerungen zu reden, und es wurde ihm Macht gegeben, zweiundvierzig Monate zu wirken. Und es öffnete seinen Mund zur Lästerung gegen Gott, um seinen Namen und seine Wohnung und die im Himmel wohnen zu lästern. Und es wurde ihm gegeben, mit den Heiligen Krieg zu führen und sie zu überwinden, und es wurde ihm Macht gegeben über jeden Stamm und jedes Volk und jede Sprache und Nation. Und es werden ihn anbeten alle, die auf der Erde wohnen, deren Namen nicht geschrieben sind im Buch des Lebens des Lammes, das geschlachtet ist seit Grundlegung der Welt.“
 
@@ -111,7 +111,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 ## Leitung und „Tastet meine Gesalbten nicht an“
 (Psalmen 105,15): „Tastet meine Gesalbten nicht an und tut meinen Propheten kein Leid!“  
 
-(1. Samuel 24,6): „Und er sprach zu seinen Männern: Das sei fern von mir durch den HERRN, dass ich meinem Herrn, dem Gesalbten des HERRN, solches tue, meine Hand an ihn zu legen; denn er ist der Gesalbte des HERRN.“
+(1. Samuel 24,7): „Und er sprach zu seinen Männern: Das sei fern von mir durch den HERRN, dass ich meinem Herrn, dem Gesalbten des HERRN, solches tue, meine Hand an ihn zu legen; denn er ist der Gesalbte des HERRN.“
 
 - Wie es verwendet wird: Autoritäre Pastoren und Leiter zitieren dies, um Kritik zu ersticken, als seien sie unantastbar.
 
@@ -121,11 +121,11 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 - (Galater 2,11): „Als aber Kephas nach Antiochia kam, widerstand ich ihm ins Angesicht, denn er war schuldig.“
 
-- (Hesekiel 34,2–4): „Menschensohn, weissage gegen die Hirten Israels … Wehe den Hirten Israels, die sich selbst weiden! Sollen die Hirten nicht die Herde weiden? Das Fette esst ihr und mit der Wolle kleidet ihr euch; das Gemästete schlachtet ihr, die Herde weidet ihr nicht. Die Schwachen habt ihr nicht gestärkt, die Kranke nicht geheilt, die Verwundete nicht verbunden, die Verirrte nicht zurückgebracht, die Verlorene nicht gesucht; mit Härte und Gewalt habt ihr über sie geherrscht.“
+- (Hesekiel 34,2–4): „Menschensohn, weissage gegen die Hirten Israels; weissage und sprich zu ihnen, den Hirten: So spricht der Herr HERR: Wehe den Hirten Israels, die sich selbst weiden! Sollen die Hirten nicht die Herde weiden? Das Fette esst ihr und mit der Wolle kleidet ihr euch; das Gemästete schlachtet ihr, die Herde weidet ihr nicht. Die Schwachen habt ihr nicht gestärkt, die Kranke nicht geheilt, die Verwundete nicht verbunden, die Verirrte nicht zurückgebracht, die Verlorene nicht gesucht; mit Härte und Gewalt habt ihr über sie geherrscht.“
 
 - (Markus 10,42–45): „Da rief sie Jesus zu sich und spricht zu ihnen: Ihr wisst, dass die als Herrscher der Nationen gelten, über sie herrschen und ihre Großen Gewalt gegen sie üben. Unter euch aber soll es nicht so sein; sondern wer groß werden will unter euch, soll euer Diener sein, und wer unter euch der Erste sein will, soll aller Knecht sein. Denn auch der Sohn des Menschen ist nicht gekommen, um sich dienen zu lassen, sondern um zu dienen und sein Leben zu geben als Lösegeld für viele.“
 
-- Die Schrift gewährt Leitern keine Immunität vor Korrektur. Wahre Hirten dienen, sie herrschen nicht.
+- Die Schrift gewährt Leitern keine Immunität vor Korrektur. Wahre Hirten sind Diener, keine Diktatoren.
 
 ---
 
@@ -152,7 +152,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 - Die Wahrheit: Paulus warnt vor der *Liebe* zum Geld, vor der Gier, die vom Glauben abführt. Geld selbst kann zum Guten oder zum Bösen gebraucht werden. Andere Stellen bestätigen dieses Gleichgewicht.
 
-- (Prediger 5,10): „Wer Geld liebt, wird des Geldes nicht satt; und wer Reichtum liebt, nicht des Ertrags. Auch das ist Eitelkeit.“
+- (Prediger 5,9): „Wer Geld liebt, wird des Geldes nicht satt; und wer Reichtum liebt, nicht des Ertrags. Auch das ist Eitelkeit.“
 
 - (Sprüche 30,8–9): „Falschheit und Lüge halte fern von mir; Armut und Reichtum gib mir nicht; gib mir das Brot, das mir genügt, damit ich nicht satt werde und dich verleugne und spreche: Wer ist der HERR? oder damit ich nicht verarme und stehle und mich am Namen meines Gottes vergreife.“
 
@@ -224,7 +224,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 - (Philipper 1,29): „Denn euch ist im Blick auf Christus geschenkt worden, nicht nur an ihn zu glauben, sondern auch um seinetwillen zu leiden.“
 
-- (Hebräer 11,35–38): „Frauen erhielten ihre Toten durch Auferstehung wieder; andere aber wurden gefoltert … andere erfuhren Spott und Geißelung, dazu auch Fesseln und Gefängnis. Sie wurden gesteinigt, zersägt, versucht, durch Schwert ermordet; sie zogen umher in Schafspelzen und Ziegenfellen, mittellos, bedrängt, misshandelt; die Welt war ihrer nicht wert; irrend in Wüsten und Bergen und Höhlen und Löchern der Erde.“
+- (Hebräer 11,35–38): „Frauen erhielten ihre Toten durch Auferstehung wieder; andere aber wurden gefoltert und nahmen die Freilassung nicht an, damit sie eine bessere Auferstehung erlangten. Andere erfuhren Spott und Geißelung, dazu auch Fesseln und Gefängnis. Sie wurden gesteinigt, zersägt, durch Schwert ermordet; sie zogen umher in Schafspelzen und Ziegenfellen, mittellos, bedrängt, misshandelt; die Welt war ihrer nicht wert; irrend in Wüsten und Bergen und Höhlen und Löchern der Erde.“
 
 ---
 
@@ -237,7 +237,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 - (2. Korinther 9,7–8): „Jeder gebe, wie er sich im Herzen vorgenommen hat, nicht mit Unmut oder aus Zwang; denn einen fröhlichen Geber liebt Gott. Gott aber vermag jede Gnade über euch überströmen zu lassen, damit ihr in allem allezeit alle Genüge habt und überreich seid zu jedem guten Werk.“
 
-- (Apostelgeschichte 8,18–20): „Als aber Simon sah, dass durch das Auflegen der Hände der Apostel der Heilige Geist gegeben wurde, brachte er ihnen Geld und sprach: Gebt auch mir diese Macht … Petrus aber sprach zu ihm: Dein Geld sei mit dir ins Verderben! Denn du hast gemeint, die Gabe Gottes mit Geld erwerben zu können.“
+- (Apostelgeschichte 8,18–20): „Als aber Simon sah, dass durch das Auflegen der Hände der Apostel der Heilige Geist gegeben wurde, brachte er ihnen Geld und sprach: Gebt auch mir diese Macht, damit jeder, dem ich die Hände auflege, den Heiligen Geist empfange. Petrus aber sprach zu ihm: Dein Geld sei mit dir ins Verderben! Denn du hast gemeint, die Gabe Gottes mit Geld erwerben zu können.“
 
 - (1. Timotheus 6,6–8): „Die Gottesfurcht mit Genügsamkeit ist in der Tat ein großer Gewinn; denn wir haben nichts in die Welt hineingebracht, so dass wir auch nichts hinausbringen können. Wenn wir aber Nahrung und Kleidung haben, sollen wir uns damit begnügen.“
 
@@ -249,7 +249,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 - Wie es verwendet wird: Kirchen und Leiter haben im Lauf der Geschichte Verse wie Maleachi 3,10 und Matthäus 23,23 benutzt, um den Zehnten zu verlangen, während sie sich selbst bereicherten.
 
-- Die Wahrheit: Jesus tadelte die Pharisäer dafür, dass sie den Zehnten gaben und das Wichtigere des Gesetzes, Recht, Barmherzigkeit und Treue, vernachlässigten. Im NT ist Geben nie zwanghaft und niemals zum Vorteil von Leitern.
+- Die Wahrheit: Jesus tadelte die Pharisäer dafür, dass sie den Zehnten gaben und das Wichtigere des Gesetzes, Recht, Barmherzigkeit und Treue, vernachlässigten. Im Neuen Testament wird Geben niemals erzwungen und dient nicht der Selbstbereicherung der Leiter.
 
 - (Matthäus 23,23): „Wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr verzehntet die Minze und den Dill und den Kümmel und habt das Wichtigere im Gesetz beiseite gelassen: das Recht und die Barmherzigkeit und den Glauben. Dieses sollte man tun und jenes nicht lassen.“
 
@@ -279,7 +279,7 @@ Haltet fest am ein für alle Mal überlieferten Glauben (Judas 3).
 
 **Falsch verwendeter Vers:** (Johannes 15:19) „Wenn ihr von der Welt wärt, würde die Welt das Ihre lieben; weil ihr aber nicht von der Welt seid, sondern ich euch aus der Welt erwählt habe, darum hasst euch die Welt.“
 
-**Wie es verwendet wird:** Manche Gruppen behaupten, dass nur ihre geheime oder ausgewählte Mitgliedschaft die wahre Gemeinde Christi ist.
+**Wie es verwendet wird:** Manche behaupten, nur Mitglieder einer verborgenen, privaten oder exklusiven Gruppe seien die „wahren“ Gläubigen. Dabei benutzen sie Geheimhaltung oder Exklusivität als Beweis dafür, auserwählt zu sein.
 
 **Die Wahrheit:** Jesus hat seine Nachfolger nie gelehrt, sich im Geheimen zu verbergen oder sich als „exklusive“ Gruppe zu sehen. Er rief sie auf, als Licht sichtbar zu sein und jedem Menschen die frohe Botschaft zu bringen. Das Reich Gottes ist offen für alle, die an Christus glauben.
 
@@ -313,7 +313,7 @@ Die Schrift erhebt diesen Anspruch immer wieder: Psalm 12:7 nennt Gottes Worte �
 
 - (2. Petrus 1:21) „Getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet.“
 
-- (Psalmen 12:8) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.“
+- (Psalmen 12:7) „Die Worte des HERRN sind lautere Worte, wie Silber, im Schmelzofen am Boden geläutert, siebenmal gereinigt.“
 
 - (Sprüche 30:5) „Alle Rede Gottes ist geläutert; er ist ein Schild denen, die auf ihn trauen.“
 

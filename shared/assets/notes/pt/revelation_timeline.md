@@ -740,7 +740,7 @@ Paulo também diz:
 >
 > **1 Coríntios 15:51-52**
 
-O verbo grego traduzido como "arrebatados" é **harpazo**, que significa agarrar ou levar de repente. O termo teológico "arrebatamento" descreve esse conceito bíblico.
+O verbo grego traduzido como "arrebatados" é **harpazo**, que significa agarrar ou levar de repente. O termo teológico inglês "rapture", correspondente ao português "arrebatamento", deriva em última análise da tradução latina desse conceito.
 
 A divergência não é se os crentes serão arrebatados para encontrar Cristo. Isso está claro nas Escrituras. A divergência é **quando** isso acontecerá.
 
@@ -881,7 +881,7 @@ Apocalipse nunca diz: "O arrebatamento ocorre antes do Selo 1", "no Selo 6", "na
 4. **Paulo liga a vinda de Cristo à nossa reunião com Ele.** Veja **2 Tessalonicenses 2:1**.
 5. **Paulo diz que a apostasia e a revelação do homem da iniquidade precedem "aquele dia".** Veja **2 Tessalonicenses 2:3-4**.
 6. **Apocalipse 20 situa uma ressurreição depois da derrota da Besta e a chama de "a primeira ressurreição".** A relação dessa expressão com uma ressurreição anterior proposta é uma das questões interpretativas centrais.
-7. **Os crentes não estão destinados à ira de Deus.** Veja **1 Tessalonicenses 5:9**. A questão não resolvida é se isso significa retirada de todo o período da tribulação ou preservação da ira de Deus durante ele.
+7. **Os crentes não estão destinados à ira de Deus.** Veja **1 Tessalonicenses 5:9**. A questão não resolvida é se isso significa retirada de todo o período da tribulação ou proteção contra a ira de Deus durante esse período.
 
 Por causa desses textos, este estudo distingue **a certeza do retorno de Cristo e da reunião/ressurreição de Seu povo** do **modelo cronológico discutido usado para situar essa reunião na sequência de Apocalipse**.
 

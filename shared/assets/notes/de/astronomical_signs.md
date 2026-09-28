@@ -10,27 +10,27 @@ Das hebräische Wort für „Zeichen“ ist *otot*, dasselbe Wort, das für die 
 
 Ein „Blutmond“ entsteht bei einer totalen Mondfinsternis, wenn der Mond sich rot färbt. Joel 3,4 sagt: „Die Sonne wird in Finsternis verwandelt werden und der Mond in Blut, ehe der große und furchtbare Tag des HERRN kommt“ (vgl. Apostelgeschichte 2,20; Offenbarung 6,12).
 
-### Blutmond-Tetrade und Fest-Finsternisse (1493 bis 2033)
+### Blutmond-Tetraden und Fest-Finsternisse (1493 bis 2033)
 
-Eine Tetrade ist eine Folge von vier aufeinanderfolgenden totalen Mondfinsternissen, die jeweils etwa sechs Monate auseinander liegen. Mehrere Tetraden fielen genau auf Passover und Sukkot. Das Zeitfenster 2024–2027 bringt ein neues Muster: eine totale Sonnenfinsternis in der Nacht vor Nisan 1, eine ringförmige Sonnenfinsternis an Rosh Hashanah und in vier aufeinanderfolgenden Jahren eine Mondfinsternis an einer Purim-Begehung, die beiden mittleren davon totale Blutmonde, eingerahmt von Halbschattenfinsternissen an Schuschan Purim 5784 und Purim Katan 5787. Nach einem ruhigen 2028–2031 ohne Fest-Ausrichtungen erzeugt 2032 einen Blutmond auf Pesach Scheni, und 2033 konzentriert vier fest-ausgerichtete Finsternisse in einem einzigen Jahr: eine totale Sonnenfinsternis in der Nacht vor Nisan 1, einen Passover-Blutmond, eine partielle Sonnenfinsternis in der Nacht vor Rosh Hashanah und einen Sukkot-Blutmond.
+Eine Tetrade ist eine Folge von vier aufeinanderfolgenden totalen Mondfinsternissen, die jeweils etwa sechs Monate auseinander liegen. Mehrere Tetraden fielen genau auf Pessach und Sukkot. Das Zeitfenster 2024–2027 bringt ein neues Muster: eine totale Sonnenfinsternis am Tag vor dem 1. Nisan, eine ringförmige Sonnenfinsternis an Rosh Hashanah und in vier aufeinanderfolgenden Jahren eine Mondfinsternis an einer Purim-Begehung, die beiden mittleren davon totale Blutmonde, eingerahmt von Halbschattenfinsternissen an Schuschan Purim 5784 und Purim Katan 5787. Nach einem ruhigen 2028–2031 ohne Fest-Ausrichtungen erzeugt 2032 einen Blutmond auf Pesach Scheni, und 2033 konzentriert vier fest-ausgerichtete Finsternisse in einem einzigen Jahr: eine totale Sonnenfinsternis am Tag vor dem 1. Nisan, einen Pessach-Blutmond, eine partielle Sonnenfinsternis am Tag vor Rosh Hashanah und einen Sukkot-Blutmond.
 
 | Jahr(e) | Typ | Umgebende Ereignisse | Fest-Ausrichtung |
 |---------|------|--------------------|-----------------|
-| 1493–1494 | Tetrade (4 totale Lunare) | Spanische Inquisition; Vertreibung der Juden (1492); Kolumbus erreicht Amerika | Passover und Sukkot, beide Jahre |
-| 1949–1950 | Tetrade (4 totale Lunare) | Staat Israel wiedergeboren (14. Mai 1948) | Passover und Sukkot, beide Jahre |
-| 1967–1968 | Tetrade (4 totale Lunare) | Sechstagekrieg; Jerusalem wiedervereint | Passover und Sukkot, beide Jahre |
-| 2014–2015 | Tetrade plus 2 Sonnenfinsternisse | Am häufigsten zitierte moderne Ausrichtung | Passover und Sukkot, beide Jahre |
+| 1493–1494 | Tetrade (4 totale Mondfinsternisse) | Spanische Inquisition; Vertreibung der Juden (1492); Kolumbus erreicht Amerika | Pessach und Sukkot, beide Jahre |
+| 1949–1950 | Tetrade (4 totale Mondfinsternisse) | Staat Israel wiedergeboren (14. Mai 1948) | Pessach und Sukkot, beide Jahre |
+| 1967–1968 | Tetrade (4 totale Mondfinsternisse) | Sechstagekrieg; Jerusalem wiedervereint | Pessach und Sukkot, beide Jahre |
+| 2014–2015 | Tetrade plus 2 Sonnenfinsternisse | Am häufigsten zitierte moderne Ausrichtung | Pessach und Sukkot, beide Jahre |
 | 2024 | Halbschatten-Mondfinsternis | Erste von vier Purim-ausgerichteten Mondfinsternissen in vier Jahren | Schuschan Purim (24.–25. März, 15 Adar II 5784) |
-| 2024 | Totale Sonnenfinsternis | „Große amerikanische Finsternis“, von Küste zu Küste | Nacht vor Nisan 1 (8. Apr., 29 Adar II 5784) |
+| 2024 | Totale Sonnenfinsternis | „Große amerikanische Finsternis“, von Küste zu Küste | Tag vor dem 1. Nisan (8. Apr., 29 Adar II 5784) |
 | 2024 | Ringförmige Sonnenfinsternis | „Feuerring“-Pfad über Amerika | Rosh Hashanah (2. Okt., 1 Tishrei 5785) |
 | 2025 | Totale Mondfinsternis (Blutmond) | Zweite der vier; erster Blutmond | Purim (13.–14. März, 14 Adar 5785) |
 | 2026 | Totale Mondfinsternis (Blutmond) | Dritte der vier; zweiter aufeinanderfolgender Purim-Blutmond | Purim (2.–3. März, 14 Adar 5786) |
 | 2027 | Halbschatten-Mondfinsternis | Vierte der vier, Abschluss der Purim-Folge | Purim Katan (20.–21. Feb., 14 Adar I 5787) |
-| 2032 | Totale Mondfinsternis (Blutmond) | Sichtbar von Israel; zweite Passover-Begehung | Pesach Scheni (25. Apr., 14 Iyyar 5792) |
-| 2033 | Totale Sonnenfinsternis | Tag vor dem biblischen Neujahr | Nacht vor Nisan 1 (30. März, 29 Adar II 5793) |
-| 2033 | Totale Mondfinsternis (Blutmond) | Erster Passover-Blutmond seit 2015 | Passover (14. Apr., 15 Nisan 5793) |
-| 2033 | Partielle Sonnenfinsternis | Tag vor dem Fest der Posaunen | Nacht vor Rosh Hashanah (23. Sep., 29 Elul 5793) |
-| 2033 | Totale Mondfinsternis (Blutmond) | Im selben Jahr, gekoppelt mit dem Passover-Blutmond | Sukkot (8. Okt., 15 Tishrei 5794) |
+| 2032 | Totale Mondfinsternis (Blutmond) | Sichtbar von Israel; zweite Pessach-Begehung | Pesach Scheni (25. Apr., 14 Iyyar 5792) |
+| 2033 | Totale Sonnenfinsternis | Tag vor dem biblischen Neujahr | Tag vor dem 1. Nisan (30. März, 29 Adar II 5793) |
+| 2033 | Totale Mondfinsternis (Blutmond) | Erster Pessach-Blutmond seit 2015 | Pessach (14. Apr., 15 Nisan 5793) |
+| 2033 | Partielle Sonnenfinsternis | Tag vor dem Fest der Posaunen | Tag vor Rosh Hashanah (23. Sep., 29 Elul 5793) |
+| 2033 | Totale Mondfinsternis (Blutmond) | Im selben Jahr, gekoppelt mit dem Pessach-Blutmond | Sukkot (8. Okt., 15 Tishrei 5794) |
 
 Die historischen Tetraden fallen mit großen Wendepunkten der jüdischen Geschichte zusammen. Der Cluster 2024–2033 bildet keine Tetrade, enthält aber die ersten Fest-Blutmonde seit 2015, eine Mondfinsternis an einer Purim-Begehung in vier aufeinanderfolgenden Jahren (5784–5787) und vier fest-ausgerichtete Finsternisse, die sich allein im Jahr 2033 konzentrieren. Ob diese Ausrichtungen prophetisches Gewicht haben, ist eine Frage der Auslegung; die astronomischen Ereignisse selbst sind dokumentierte Tatsachen.
 
@@ -91,7 +91,6 @@ Amos 8,9: „An jenem Tag, spricht Gott der HERR, will ich die Sonne am Mittag u
 
 „Und ein großes Zeichen erschien im Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen und auf ihrem Haupt eine Krone von zwölf Sternen“ (Offenbarung 12,1).
 
-REV12 BODY:
 Am **23. September 2017** war die Konstellation Jungfrau von der Sonne „bekleidet“ mit dem Mond an ihren Füßen. Über ihrem Kopf bildeten die neun Sterne des Löwen plus die Planeten Merkur, Venus und Mars eine Krone aus zwölf. Der Jupiter befand sich aufgrund einer Rückläufigkeit etwa 42 Wochen lang, die Dauer der menschlichen Schwangerschaft, in Jungfraus Bauchbereich, bevor er am 9. September 2017 „austrat“. Der Jupiter wird historisch als der „König-Planet“ bezeichnet. Die 42-Wochen-Periode entspricht präzise den „42 Monaten“ von Offenbarung 13,5 und Offenbarung 12,6 (1.260 Tage). Der Jupiter betrat Jungfraus Bauchregion am 20. November 2016.
 
 Das hebräische Datum war **3. Tischrei 5778**, das Fasten des Gedalja, der Tag nach Rosh Hashanah.
@@ -109,7 +108,7 @@ Das hebräische Wort *moadim* verbindet die Himmelskörper direkt mit Gottes fes
 - Das Posaunenfest hängt von der **Neumondsichtung** ab (Tischri 1)
 - Die Frühlings-Tagundnachtgleiche bestimmt den Beginn des biblischen Jahres
 
-Die Himmel werden nicht angebetet (5. Mose 4,19), aber sie werden gelesen; sie verkünden die Herrlichkeit Gottes (Psalmen 19,3) und markieren Seine festgesetzten Zeiten.
+Die Himmel werden nicht angebetet (5. Mose 4,19), aber sie werden gelesen; sie verkünden die Herrlichkeit Gottes (Psalmen 19,2) und markieren Seine festgesetzten Zeiten.
 
 ---
 
@@ -160,7 +159,7 @@ Aufeinanderfolgende Blutmonde am selben Fest in aufeinanderfolgenden Jahren habe
 
 **Sonnenstürme vor dem Purim-Blutmond 2026**
 
-Am **1.–5. Februar 2026** brach die aktive Region AR4366, eine Sonnenfleckengruppe 14-mal breiter als die Erde, mit sechs X-Klasse-Sonneneruptionen in vier Tagen aus, einschließlich zweier X8,1-Klasse-Ereignisse unter den stärksten des Sonnenzyklus 25. Eine koronale Massenauswurfung traf die Erde am 5. Februar und löste geomagnetische Stürme und weit verbreitete Polarlichter aus. Dies ereignete sich etwa 25 Tage vor dem Purim-Blutmond am 3. März.
+Am **1.–5. Februar 2026** brach die aktive Region AR4366, eine Sonnenfleckengruppe 14-mal breiter als die Erde, mit sechs X-Klasse-Sonneneruptionen in vier Tagen aus, einschließlich zweier X8,1-Klasse-Ereignisse unter den stärksten des Sonnenzyklus 25. Ein koronaler Massenauswurf traf die Erde am 5. Februar und löste geomagnetische Stürme und weit verbreitete Polarlichter aus. Dies ereignete sich etwa 25 Tage vor dem Purim-Blutmond am 3. März.
 
 ### Anmerkung
 

@@ -357,7 +357,7 @@ Offenbarung 14 enthält mehrere Szenen:
 
 **Schlüsselstellen:** Offenbarung 14:1-20.
 
-Einige dieser Szenen greifen voraus und zeigen Ergebnisse, die spätere Kapitel ausführlicher beschreiben.
+Einige dieser Szenen scheinen vorauszugreifen und Ergebnisse zu zeigen, die spätere Kapitel ausführlicher beschreiben.
 
 ### Offenbarung 15: Vorbereitung auf die Schalen
 
@@ -738,7 +738,7 @@ Paulus sagt außerdem:
 >
 > **1 Korinther 15:51-52**
 
-Das griechische Verb hinter „entrückt werden“ lautet **harpazo** und bedeutet ergreifen oder hinwegreißen. Der deutsche theologische Begriff „Entrückung“ bezeichnet dieses biblische Geschehen.
+Das griechische Verb hinter „entrückt werden“ lautet **harpazo** und bedeutet ergreifen oder hinwegreißen. Der englische theologische Begriff „rapture“ (deutsch: „Entrückung“) geht letztlich auf die lateinische Übersetzung dieses Begriffs zurück.
 
 Der Streitpunkt ist nicht, ob die Gläubigen entrückt werden, um Christus zu begegnen. Das ist in der Schrift eindeutig. Der Streitpunkt ist, **wann** dies geschieht.
 

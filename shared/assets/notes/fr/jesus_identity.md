@@ -10,7 +10,7 @@ La foi chrétienne commence avec le Messie d'Israël. Jésus est né au sein du 
 >
 > **Matthieu 1:1**
 
-Matthieu présente Jésus en Le situant dans l'histoire de l'alliance d'Israël. Abraham est le patriarche d'Israël, et David est le roi d'Israël issu de la lignée dont le Messie avait été promis.
+Matthieu présente Jésus en Le situant dans l'histoire de l'alliance d'Israël. Abraham est le patriarche d'Israël, et David est le roi d'Israël ; Dieu avait promis que le Messie viendrait de sa lignée.
 
 L'épître aux Hébreux est encore plus explicite :
 

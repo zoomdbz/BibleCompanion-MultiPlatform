@@ -24,6 +24,7 @@ TAG = re.compile(r"\[/?(?:J|DN|ADD)\]")
 ROOT = Path(__file__).resolve().parents[2]
 EVIDENCE = ROOT / ".scripture-structure-cache/live-browser-parity-2026-09-26"
 OUTPUT = Path(__file__).with_name("concordant_identity_reference_maps.json")
+REVIEWED_SEMANTIC_MAPS = Path(__file__).with_name("reviewed_semantic_reference_maps.json")
 LANGUAGES = tuple(EDITIONS)
 ARABIC_LUKE7_STORY_SHA256 = "d2854df21f8f5303dfecd6d2945f1e28871e8fab7b9057eee8d17f490d6ddf3d"
 ARABIC_LUKE715_PUBLISHER_SHA256 = "71dd0d1d776d6b9c87d421c37b2bddaf5049f33eb108442f6825e03e1b8e9f6a"
@@ -163,6 +164,39 @@ def verse_payload_digest(verses: list[dict]) -> str:
     return canonical_digest([{**verse, "text": TAG.sub("", verse["text"])} for verse in verses])
 
 
+def reviewed_semantic_maps(languages: tuple[str, ...] | None = None) -> list[dict]:
+    """Load reviewed non-identity rows that package after generated identities."""
+    document = json.loads(REVIEWED_SEMANTIC_MAPS.read_text(encoding="utf-8"))
+    if document.get("schemaVersion") != 1 or not isinstance(document.get("maps"), list):
+        raise ValueError(f"Unsupported reviewed semantic map schema: {REVIEWED_SEMANTIC_MAPS}")
+    seen = set()
+    for entry in document["maps"]:
+        language = entry.get("language")
+        expected = EDITIONS.get(language)
+        if (entry.get("schemaVersion") != 1 or expected is None
+            or (entry.get("baseEditionId"), entry.get("editionId")) != expected
+            or entry.get("provenance", {}).get("replacesPreviouslyMappedIdentityUnits") is not True):
+            raise ValueError(f"Invalid reviewed semantic map identity: {language}")
+        for book in entry.get("books", []):
+            if book.get("complete") is not False or not book.get("mappings"):
+                raise ValueError(f"Invalid reviewed semantic map book: {language}/{book.get('bookId')}")
+            for row in book["mappings"]:
+                values = [row.get(key) for key in ("sourceChapter", "sourceVerse", "targetChapter", "targetVerse")]
+                if any(not isinstance(value, int) or value < 1 for value in values):
+                    raise ValueError(f"Invalid reviewed semantic map row: {language}/{book['bookId']}")
+                source_end = row.get("sourceVerseEnd", row["sourceVerse"])
+                target_end = row.get("targetVerseEnd", row["targetVerse"])
+                if source_end < row["sourceVerse"] or target_end < row["targetVerse"]:
+                    raise ValueError(f"Invalid reviewed semantic map range: {language}/{book['bookId']}")
+                identity = (language, entry["editionId"], book["bookId"], row["sourceChapter"],
+                            row["sourceVerse"], source_end, row["targetChapter"], row["targetVerse"], target_end)
+                if identity in seen:
+                    raise ValueError(f"Duplicate reviewed semantic map row: {identity}")
+                seen.add(identity)
+    return [entry for entry in document["maps"]
+            if languages is None or entry["language"] in languages]
+
+
 def evidence_for(language: str, book_code: str, chapter: int, story: dict) -> str | None:
     """Require fresh exact-source browser parity bound to this local story."""
     if language == "en":
@@ -276,6 +310,7 @@ def generate() -> dict:
                 "skippedChapters": dict(sorted(skipped.items())),
             },
         })
+    maps.extend(reviewed_semantic_maps(LANGUAGES))
     return {"schemaVersion": 1, "maps": maps}
 
 
@@ -290,8 +325,9 @@ if __name__ == "__main__":
         parser.error("--package requires --write")
     result = generate()
     for entry in result["maps"]:
-        print(entry["language"], len(entry["books"]), entry["provenance"]["mappedChapters"],
-              entry["provenance"]["skippedChapters"])
+        print(entry["language"], len(entry["books"]),
+              entry["provenance"].get("mappedChapters", "reviewed-boundary"),
+              entry["provenance"].get("skippedChapters", {}))
     if args.write:
         OUTPUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if args.package:

@@ -16,13 +16,13 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 ## 1. Die drei Himmel  
 **Einfach erklärt:** Die Bibel verwendet „Himmel“ in mehr als einem Sinn.  
 
-- **(Genesis 1,8)** – „Und Gott nannte die Ausdehnung Himmel.“  
+- **(Genesis 1,8)** – „Und Gott nannte die Ausdehnung Himmel.“ *(der sichtbare Himmel)*  
 
-- **(Daniel 10,13)** – „Der Fürst des Königreichs Persien widerstand mir einundzwanzig Tage.“  
+- **(Daniel 10,13)** – „Der Fürst des Königreichs Persien widerstand mir einundzwanzig Tage.“ *(ein geistlicher Konflikt im unsichtbaren Bereich)*  
 
-- **(Epheser 6,12)** – „Geistige Mächte der Bosheit in den Himmeln.“  
+- **(Epheser 6,12)** – „Geistige Mächte der Bosheit in den Himmeln.“ *(das Schlachtfeld der Geister)*  
 
-- **2. Korinther 12,2–4** – „Entrückt bis in den dritten Himmel… in das Paradies.“  
+- **2. Korinther 12,2–4** – „Entrückt bis in den dritten Himmel… in das Paradies.“ *(Gottes Wohnstätte)*  
 
 
 **Schlussfolgerung (Schrift):** Die Schrift unterscheidet mehrere Himmel: den sichtbaren Himmel (Gen 1,8), die unsichtbare Kampfsphäre (Dan 10,13; Eph 6,12) und die Wohnstätte Gottes (2 Kor 12,2–4).  
@@ -73,7 +73,7 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 
 2. Andere wirken bis zum Endgericht weiter.  
 
-3. Am Ende werden alle in die Hölle geworfen (Offb 20,10).  
+3. Alle werden ihre endgültige Niederlage erleben, wenn Christus wiederkommt (Offb 20,10).  
 
 ---  
 
@@ -154,7 +154,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 ## 4. Zauberei, Hexerei und Wahrsagerei  
 **Einfach erklärt:** Praktiken, die verborgenes Wissen oder Kraft außerhalb Gottes suchen, sind verboten.  
 
-- **(Exodus 22,18)** – „Eine Zauberin sollst du nicht am Leben lassen.“  
+- **(Exodus 22,17)** – „Eine Zauberin sollst du nicht am Leben lassen.“  
 
 - **3. Mose 19,26** – „Ihr sollt nicht wahrsagen.“  
 
@@ -169,7 +169,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 - **2. Korinther 11,14** – „Satan selbst verstellt sich als Engel des Lichts.“  
 
 
-**Schlussfolgerung (Schrift):** Zauberei und Wahrsagerei sind Gräuel (Dtn 18,10–12), im Gesetz mit Tod bestraft (Ex 22,18), von den Aposteln bekämpft (Apg 16,16–18), und am Ende gerichtet (Offb 21,8).  
+**Schlussfolgerung (Schrift):** Zauberei und Wahrsagerei sind Gräuel (Dtn 18,10–12), im Gesetz mit Tod bestraft (Ex 22,17), von Christi Aposteln bekämpft (Apg 16,16–18), und am Ende gerichtet (Offb 21,8). Offenbarung 18,23 und 2. Korinther 11,14 verbinden Zauberei und Täuschung unmittelbar mit Satans Einfluss.  
 
 ---  
 
@@ -207,7 +207,7 @@ Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetu
 - **(Römer 1,22–23)** – Sie vertauschten die Herrlichkeit Gottes mit Bildern.  
 
 
-**Schlussfolgerung (Schrift):** Götter der Völker sind Götzen (Psalmen 96,5), falscher Gottesdienst mit Satan verbunden (Offb 13,4). Jesus bekräftigt seine Einheit mit dem Vater (Joh 10,30). Paulus nennt die griechisch-römischen Götter „nichtig“ (Apg 14,15).  
+**Schlussfolgerung (Schrift):** Fremde Götter sind Götzen (Psalmen 96,5); sogenannte Götter sind falsch (1. Korinther 8,5–6); falscher Gottesdienst steht mit Satan im Einklang (Offb 13,4). Jesus bekräftigt seine Einheit mit dem Vater (Joh 10,30). Paulus nennt die griechisch-römischen Götter „nichtig“ (Apg 14,11–15), und Römer 1,23 sagt, dass Götzendienst Gottes Herrlichkeit verzerrt. Nordische Götter gehören in dieselbe Kategorie: kulturelle Namen für dieselbe dämonische Täuschung.  
 
 ---  
 
@@ -364,7 +364,7 @@ Die Bibel identifiziert Jesus als den ewigen Sohn Gottes, dem Vater gleich.
 
 Die Lehre von der Dreieinigkeit bekennt einen Gott in drei Personen.
 
-**(2. Korinther 13:14)**
+**(2. Korinther 13:13)**
 > „Die Gnade des Herrn Jesus Christus und die Liebe Gottes und die Gemeinschaft des Heiligen Geistes sei mit euch allen!“
 
 **(Matthäus 28:19)**
@@ -537,13 +537,13 @@ Mohammed heiratete Aischa mit sechs Jahren und vollzog die Ehe mit neun (Sahih a
 Das mosaische Gesetz verbietet die sexuelle Ausbeutung von Kindern und verurteilt sie als Bosheit.
 
 **(Deuteronomium 22:25–27)**
-> „Wenn aber ein Mann die verlobte junge Frau auf freiem Feld trifft und der Mann sie ergreift und bei ihr liegt, so soll der Mann, der bei ihr gelegen hat, sterben … Denn wie wenn jemand gegen seinen Nächsten aufstünde und ihn totschlüge, so ist diese Sache.“
+> „Wenn aber ein Mann die verlobte junge Frau auf freiem Feld trifft und der Mann sie ergreift und bei ihr liegt, so soll nur der Mann, der bei ihr gelegen hat, sterben. Der jungen Frau aber sollst du nichts tun; sie hat keine Sünde begangen, die des Todes würdig wäre. Denn diese Sache ist so, wie wenn jemand seinen Nächsten angreift und ermordet: Er traf sie auf freiem Feld, und obwohl die verlobte junge Frau um Hilfe schrie, war niemand da, der sie rettete.“
 
 Kinder können nicht einwilligen; daher fällt der Vollzug der Ehe mit einem Kind unter Ausbeutung und Nötigung.
 
 #### 2. Polygamie über das Maß hinaus
 **Koran 4:3 (Sahih International)**
-> „… dann heiratet, was euch an Frauen gut erscheint, zwei, drei oder vier. Wenn ihr aber fürchtet, nicht gerecht zu sein, dann (nur) eine …“
+> „Und wenn ihr fürchtet, den Waisenmädchen gegenüber nicht gerecht zu handeln, dann heiratet von den [anderen] Frauen, die euch gefallen, zwei, drei oder vier. Wenn ihr aber fürchtet, nicht gerecht zu sein, dann [heiratet nur] eine oder diejenigen, die eure rechte Hand besitzt. Das ist eher geeignet, damit ihr nicht [zur Ungerechtigkeit] neigt.“
 
 Mohammed nahm jedoch mehr als vier Frauen und überschritt damit sowohl den eigenen koranischen Maßstab als auch das Gebot des mosaischen Gesetzes.
 
@@ -552,7 +552,7 @@ Mohammed nahm jedoch mehr als vier Frauen und überschritt damit sowohl den eige
 
 #### 3. Ehe mit der Frau des Adoptivsohnes
 **Koran 33:37 (Sahih International)**
-> „… Als aber Zaid kein Bedürfnis mehr nach ihr hatte, gaben Wir sie dir zur Frau, damit für die Gläubigen kein Bedenken entstehe in Bezug auf die Frauen ihrer Adoptivsöhne …“
+> „Und [gedenke, o Mohammed], als du zu demjenigen, dem Allah Gunst erwiesen hatte und dem auch du Gunst erwiesen hattest, sagtest: ‚Behalte deine Frau und fürchte Allah‘, während du in dir verborgen hieltest, was Allah offenbaren wollte. Du fürchtetest die Menschen, obwohl Allah mehr Anrecht darauf hat, dass du ihn fürchtest. Als Zaid dann kein Bedürfnis mehr nach ihr hatte, gaben Wir sie dir zur Frau, damit für die Gläubigen kein Bedenken hinsichtlich der Frauen ihrer Adoptivsöhne bestehe, nachdem diese kein Bedürfnis mehr nach ihnen haben. Und Allahs Befehl wird stets vollzogen.“
 
 Das Gesetz des Mose verbietet solche Verbindungen.
 
@@ -561,7 +561,7 @@ Das Gesetz des Mose verbietet solche Verbindungen.
 
 #### 4. Gewalt und Zwangsbekehrungen
 **Koran 9:5 (Sahih International)**
-> „Wenn dann die heiligen Monate abgelaufen sind, tötet die Götzendiener, wo immer ihr sie findet …“
+> „Wenn dann die heiligen Monate abgelaufen sind, tötet die Götzendiener, wo immer ihr sie findet, ergreift sie, belagert sie und lauert ihnen an jedem Ort des Hinterhalts auf. Wenn sie aber bereuen, das Gebet verrichten und die Zakat entrichten, dann lasst sie ihres Weges ziehen. Wahrlich, Allah ist vergebend und barmherzig.“
 
 Im Gegensatz dazu verurteilt das mosaische Gesetz Mord, und Jesus lehnte Gewalt für den Glauben ab.
 
@@ -586,16 +586,16 @@ Der Koran leugnet die Sohnschaft und die Kreuzigung Jesu.
 Die Bibel lehrt das Gegenteil: Jesus ist der ewige Sohn Gottes, gekreuzigt und auferstanden.
 
 **(Jesaja 53:5)**
-> „Er ist um unserer Übertretungen willen durchbohrt … durch seine Striemen sind wir geheilt.“
+> „Er ist um unserer Übertretungen willen durchbohrt und um unserer Missetaten willen zerschlagen worden; die Strafe lag auf ihm, die uns Frieden brachte, und durch seine Striemen sind wir geheilt.“
 
 **(Psalmen 22:17–19)**
-> „… sie durchbohrten meine Hände und meine Füße … sie teilen meine Kleider unter sich und werfen das Los über mein Gewand.“
+> „Hunde umringen mich, eine Rotte von Übeltätern umgibt mich; sie haben meine Hände und meine Füße durchbohrt. Ich kann alle meine Knochen zählen; sie schauen her und weiden sich an meinem Anblick. Sie teilen meine Kleider unter sich und werfen das Los über mein Gewand.“
 
 **(Johannes 3:16)**
 > „Denn so sehr hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, damit jeder, der an ihn glaubt, nicht verloren gehe, sondern ewiges Leben habe.“
 
 **(1. Korinther 15:3–4)**
-> „… dass Christus für unsere Sünden gestorben ist nach den Schriften, und dass er begraben wurde, und dass er auferweckt worden ist am dritten Tag nach den Schriften.“
+> „Denn ich habe euch vor allem überliefert, was ich auch empfangen habe: dass Christus für unsere Sünden gestorben ist nach den Schriften, dass er begraben wurde und dass er am dritten Tag auferweckt worden ist nach den Schriften.“
 
 
 #### 6. Sklaverei und Vergewaltigung
@@ -649,18 +649,18 @@ Sure 33 gewährt Mohammed besondere Ausnahmen und Privilegien.
 
 #### Unbegrenzte Ehefrauen und Konkubinen
 **Koran 33:50 (Sahih International)**
-> „O Prophet, Wir haben dir erlaubt … und eine gläubige Frau, wenn sie sich dem Propheten schenkt … nur dir, nicht den (anderen) Gläubigen …“
+> „O Prophet, Wir haben dir deine Frauen erlaubt, denen du ihren geschuldeten Lohn gegeben hast, und diejenigen, die deine rechte Hand besitzt von dem, was Allah dir [an Gefangenen] zurückgegeben hat, sowie die Töchter deiner Onkel väterlicherseits, die Töchter deiner Tanten väterlicherseits, die Töchter deiner Onkel mütterlicherseits und die Töchter deiner Tanten mütterlicherseits, die mit dir ausgewandert sind, und eine gläubige Frau, wenn sie sich dem Propheten schenkt und der Prophet sie heiraten will; [dies gilt] nur für dich unter Ausschluss der [anderen] Gläubigen. Wir wissen wohl, was Wir ihnen hinsichtlich ihrer Frauen und derjenigen, die ihre rechte Hand besitzt, zur Pflicht gemacht haben; [dies gilt für dich], damit keine Bedrängnis auf dir liege. Und Allah ist stets vergebend und barmherzig.“
 
 Hier wird Mohammed unbegrenzte Anzahl an Frauen und Konkubinen gestattet, anders als gewöhnlichen Muslimen, die auf vier begrenzt sind (Koran 4:3).
 
 Die Tora verbietet das Mehren der Frauen.
 
 **(Deuteronomium 17:17)**
-> „Er soll sich nicht viele Frauen nehmen …“
+> „Er soll sich nicht viele Frauen nehmen, damit sein Herz sich nicht abwendet; auch soll er sich nicht übermäßig Silber und Gold anhäufen.“
 
 #### Exklusive Beschränkungen
 **Koran 33:52 (Sahih International)**
-> „Es ist dir (o Mohammed) nicht erlaubt, darüber hinaus (weitere) Frauen zu nehmen … außer was deine rechte Hand besitzt.“
+> „Es ist dir, [o Mohammed], danach nicht erlaubt, [weitere] Frauen zu nehmen oder sie gegen [andere] Frauen einzutauschen, selbst wenn ihre Schönheit dir gefällt, außer denjenigen, die deine rechte Hand besitzt. Und Allah wacht stets über alle Dinge.“
 
 Das zeigt eigens für Mohammed geschaffene Regeln in seiner Ehefrage.
 
@@ -689,7 +689,7 @@ Der Islam lehrt, der Koran sei vollkommen und widerspruchslos. Doch bereits im T
 
 #### 1. Schöpfungszeitplan
 **Koran 7:54 (Sahih International)**
-> „Euer Herr ist Allah, der die Himmel und die Erde in sechs Tagen schuf …“
+> „Wahrlich, euer Herr ist Allah, der die Himmel und die Erde in sechs Tagen schuf und sich dann über dem Thron erhob.“
 
 **Qur’an 41:9–12 (Deutsch)**
 > Sprich: Leugnet ihr etwa Den, Der die Erde in zwei Tagen erschuf, und stellt Ihm Gleichgestellte zur Seite? Das ist der Herr der Welten. Und Er setzte auf ihr fest gegründete Berge, segnete sie und bestimmte in ihr ihre Nahrung in vier Tagen, gleichmäßig für die Fragenden. Dann wandte Er Sich zum Himmel, während er noch Rauch war, und sprach zu ihm und zur Erde: „Kommt beide, freiwillig oder widerwillig.“ Sie sagten: „Wir kommen freiwillig.“ Da vollendete Er sie zu sieben Himmeln in zwei Tagen und gab jeder Himmelssphäre ihre Aufgabe ein. Und Wir schmückten den untersten Himmel mit Leuchten und als Schutz. Das ist die Bestimmung des Allmächtigen, des Allwissenden.
@@ -699,7 +699,7 @@ Zusammengenommen beschreibt Sure 41 acht Tage, nicht sechs. Die Bibel ist konsis
 
 #### 2. Wein: gesegnet oder verflucht?
 **Koran 16:67 (Sahih International)**
-> „Und von den Früchten der Palmen und der Weinstöcke gewinnt ihr berauschendes Getränk und guten Lebensunterhalt …“
+> „Und aus den Früchten der Palmen und der Weinstöcke gewinnt ihr berauschendes Getränk und guten Lebensunterhalt. Darin ist wahrlich ein Zeichen für Menschen, die nachdenken.“
 
 **Koran 5:90 (Sahih International)**
 > „O ihr, die ihr glaubt, berauschende Getränke … sind ein Gräuel von Satans Werk; meidet es …“
@@ -740,7 +740,7 @@ Der Koran bejaht an einer Stelle den freien Willen und verneint ihn an anderer. 
 Der Koran leugnet und bejaht Jesu Tod an verschiedenen Stellen. Die Bibel ist konsistent:
 
 **(1. Korinther 15:3–4)**
-> „… dass Christus für unsere Sünden gestorben ist … begraben wurde … und am dritten Tag auferweckt worden ist …“
+> „Denn ich habe euch vor allem überliefert, was ich auch empfangen habe: dass Christus für unsere Sünden gestorben ist nach den Schriften, dass er begraben wurde und dass er am dritten Tag auferweckt worden ist nach den Schriften.“
 
 **Weltliche Historiker bestätigen die Kreuzigung:**
 - **Tacitus, Annalen 15,44:** „Christus … erlitt während der Regierung des Tiberius durch die Hand eines unserer Statthalter, Pontius Pilatus, die äußerste Strafe.“
@@ -774,13 +774,13 @@ Das Gesetz deckt die Sünde auf, aber nur Christus hat es vollkommen erfüllt.
 > „Denn alle haben gesündigt und erlangen nicht die Herrlichkeit Gottes, und werden gerechtfertigt umsonst durch seine Gnade, durch die Erlösung, die in Christus Jesus ist.“
 
 **(Epheser 2:8–9)**
-> „Denn aus Gnade seid ihr errettet durch Glauben … nicht aus Werken, damit niemand sich rühme.“
+> „Denn aus Gnade seid ihr durch Glauben gerettet. Und das kommt nicht aus euch selbst; es ist Gottes Gabe, nicht aus Werken, damit niemand sich rühme.“
 
 **(Apostelgeschichte 4:12)**
 > „Und es ist in keinem anderen das Heil; denn auch kein anderer Name unter dem Himmel ist den Menschen gegeben, in dem wir gerettet werden sollen.“
 
 **(Johannes 11:25–26)**
-> „Ich bin die Auferstehung und das Leben; wer an mich glaubt, wird leben, auch wenn er stirbt … Glaubst du das?“
+> „Jesus sprach zu ihr: Ich bin die Auferstehung und das Leben. Wer an mich glaubt, wird leben, auch wenn er stirbt; und jeder, der lebt und an mich glaubt, wird niemals sterben. Glaubst du das?“
 
 **Kernaussage:**
 
@@ -839,7 +839,7 @@ Was ist also wahrscheinlicher?
 **Was die Schrift über den Messias sagt:**
 - (Jesaja 7:14) – „Siehe, die Jungfrau wird schwanger werden und einen Sohn gebären und wird seinen Namen Immanuel nennen.“
 
-- (Micha 5:2) – Der Messias würde in Bethlehem geboren werden.
+- (Micha 5:1) – Der Messias würde in Bethlehem geboren werden.
 
 - (Jesaja 53:5) – „Doch er wurde um unserer Übertretungen willen durchbohrt, um unserer Missetaten willen zerschlagen. Die Strafe lag auf ihm, damit wir Frieden hätten, und durch seine Wunden sind wir geheilt.“
 
@@ -855,11 +855,11 @@ Was ist also wahrscheinlicher?
 
 - **Einwand: Der Messias sollte Frieden bringen, aber Jesus brachte Spaltung.**
 
-  - (Micha 5:5) verheißt Frieden, aber (Jesaja 53) zeigt, dass der Messias zuerst für die Sünde leiden muss. Der volle Frieden kommt bei seiner zweiten Wiederkunft (Offenbarung 21:4).
+  - (Micha 5:4) verheißt Frieden, aber (Jesaja 53) zeigt, dass der Messias zuerst für die Sünde leiden muss. Der volle Frieden kommt bei seiner Wiederkunft (Offenbarung 21:4).
 
 - **Einwand: Gott kann nicht Mensch werden.**
 
-  - (Jesaja 9:6) nennt das geborene Kind „Starker Gott“ (El Gibbor).
+  - (Jesaja 9:5) nennt das geborene Kind „Starker Gott“ (El Gibbor).
 
   - (Jeremia 23:6) nennt den kommenden König „Der HERR, unsere Gerechtigkeit.“
 
@@ -888,7 +888,7 @@ Um sich das vorzustellen: Wenn man den Bundesstaat Texas mit Silbergeldstücken 
 Aber Jesus erfüllte nicht nur 8; er erfüllte **Hunderte**. Statistisch ist dies unvorstellbar. Es ist, als würde man nicht nur einmal, sondern jeden Tag für den Rest seines Lebens im Lotto gewinnen, oder wie jede Sandkörner am Strand zu zählen und genau das richtige zu finden. Die Unmöglichkeit aus menschlicher Sicht unterstreicht die göttliche Gewissheit, dass Jesus der Messias ist.
 
 **Zentrale Botschaft (Schrift):**  
-Jesus ist der Messias, der in den hebräischen Schriften vorhergesagt wurde. Geboren von einer Jungfrau (Jesaja 7:14), aus Bethlehem (Micha 5:2), göttlich in seiner Natur (Jesaja 9:6), gekreuzigt und durchbohrt für Sünden (Jesaja 53:5; Sacharja 12:10) und abgeschnitten vor dem Fall des Tempels (Daniel 9:26). Wer ihn ablehnt, verpasst die Verheißungen, die Gott durch die Propheten gegeben hat.
+Jesus ist der Messias, der in den hebräischen Schriften vorhergesagt wurde. Geboren von einer Jungfrau (Jesaja 7:14), aus Bethlehem (Micha 5:1), göttlich in seiner Natur (Jesaja 9:5), gekreuzigt und durchbohrt für Sünden (Jesaja 53:5; Sacharja 12:10) und abgeschnitten vor dem Fall des Tempels (Daniel 9:26). Wer ihn ablehnt, verpasst die Verheißungen, die Gott durch die Propheten gegeben hat.
 
 ---
 
@@ -939,7 +939,7 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 - **(Matthäus 22,39)** – „Du sollst deinen Nächsten lieben wie dich selbst.“  
 
-- *Bedeutung:* Die Bibel bekräftigt gottesfürchtige Erziehung und Nächstenliebe.  
+- *Bedeutung:* Die konfuzianische Lehre schätzt Familienordnung und moralische Erziehung; die Bibel bekräftigt gottesfürchtige Erziehung und Nächstenliebe.  
 
 
 **Daoismus (道家) – Der Weg (Dao) als Ordnung des Lebens.**  
@@ -949,17 +949,17 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 - **(Psalmen 46,11)** – „Seid still und erkennt, dass ich Gott bin.“
 
-- *Bedeutung:* Jesus ist der lebendige Dao, der Weg im Fleisch.  
+- *Bedeutung:* Der Daoismus sucht Harmonie mit dem Dao; Jesus wird als der ewige, Fleisch gewordene Dao offenbart, der wahre Weg.  
 
 
 **Buddhismus (佛教, 大乘) – Mitgefühl, Reines Land, Hoffnung auf Befreiung vom Leiden.**  
 - **(Johannes 15,13)** – Größere Liebe hat niemand, als dass er sein Leben hingibt.  
 
-- **(Matthäus 11,28)** – „Kommt her zu mir… ich will euch Ruhe geben.“  
+- **(Matthäus 11,28)** – „Kommt her zu mir, alle, die ihr mühselig und beladen seid; ich will euch Ruhe geben.“  
 
 - **(Offenbarung 21,4)** – Gott wird jede Träne abwischen.  
 
-- *Bedeutung:* Mitgefühl und Reines Land der Mahayana-Tradition werden in Christus erfüllt.  
+- *Bedeutung:* Der Mahayana-Buddhismus betont Mitgefühl und ein Reines Land des Friedens; Christus erfüllt beides durch seine aufopfernde Liebe und die Verheißung seines Reiches.  
 
 
 **In Christus erfüllt:**  
@@ -968,7 +968,7 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 - **(Kolosser 1,17)** – „In ihm besteht alles.“  
 
-**Schlussfolgerung (Schrift):** Konfuzianische Tugend (Spr 22,6; Mt 22,39), daoistische Harmonie (Joh 1,1; Ps 46,11) und buddhistisches Mitgefühl (Joh 15,13; Mt 11,28; Offb 21,4) finden ihre Vollendung in Christus, dem Dao im Fleisch.
+**Schlussfolgerung (Schrift):** Konfuzianische Tugend (Spr 22,6; Mt 22,39), daoistische Harmonie (Joh 1,1; Joh 14,6; Ps 46,11) und buddhistisches Mitgefühl (Joh 15,13; Mt 11,28; Offb 21,4) finden ihre Vollendung in Christus, dem Dao im Fleisch.
 
 ---  
 
@@ -978,7 +978,7 @@ Für eine tiefere systematische Behandlung jeder unten aufgeführten Bewegung (G
 
 **Einfacher Sinn:** Nicht jeder, der im Namen Gottes redet, redet wirklich von Gott. Die Schrift gibt Prüfungen, um falsche Propheten, falsche Apostel und verfälschte Evangelien zu entlarven.
 
-- **(5. Mose 13:1–5)** – Wenn Zeichen eintreffen, aber die Botschaft vom HERRN wegführt, lehne sie ab.
+- **(5. Mose 13:2–6)** – Wenn Zeichen eintreffen, aber die Botschaft vom HERRN wegführt, lehne sie ab.
 
 - **(5. Mose 18:20–22)** – Wenn eine Vorhersage fehlschlägt, hat der Prophet vermessen geredet.
 
@@ -1082,9 +1082,9 @@ Für eine tiefere systematische Behandlung jeder unten aufgeführten Bewegung (G
 
 - **Kein zweiter Messias** – (Matthäus 24:23–27) (Offenbarung 1:7).
 
-- **Ein Gott, Vater, Sohn und Geist** – (Matthäus 28:19) (2. Korinther 13:14).
+- **Ein Gott, Vater, Sohn und Geist** – (Matthäus 28:19) (2. Korinther 13:13).
 
-**Schlussfolgerung:** Einen zweiten Christus und eine „Gott die Mutter“ hinzuzufügen, besteht die Prüfungen von (5. Mose 13:1–3) und (Matthäus 24:23–27) nicht.
+**Schlussfolgerung:** Einen zweiten Christus und eine „Gott die Mutter“ hinzuzufügen, besteht die Prüfungen von (5. Mose 13:2–4) und (Matthäus 24:23–27) nicht.
 
 ---
 
@@ -1126,7 +1126,7 @@ Für eine tiefere systematische Behandlung jeder unten aufgeführten Bewegung (G
 
 - **Der Sohn betet zum Vater und verheißt den Geist** – (Johannes 14:16–17) (Johannes 17:1–5).
 
-- **Apostolischer Segen, der alle drei nennt** – (2. Korinther 13:14).
+- **Apostolischer Segen, der alle drei nennt** – (2. Korinther 13:13).
 
 ### Warum es nicht biblisches Christentum ist:
 
@@ -1175,7 +1175,7 @@ Indem alle Ereignisse gleichermaßen als vorherbestimmt betrachtet werden, läuf
 
 **Biblische Schlussfolgerung (Fortsetzung):** Gott befiehlt uns, jeden Lehrer und jeden Geist zu prüfen (1. Johannes 4:1–3).
 
-Wenn eine Botschaft verändert, wer Jesus ist, das Evangelium verfälscht oder Sünde mit Hautfarbe verbindet, lehne sie ab (5. Mose 13:1–5) (5. Mose 18:20–22) (Galater 1:8–9) (Matthäus 7:15–20).
+Wenn eine Botschaft verändert, wer Jesus ist, das Evangelium verfälscht oder Sünde mit Hautfarbe verbindet, lehne sie ab (5. Mose 13:2–6) (5. Mose 18:20–22) (Galater 1:8–9) (Matthäus 7:15–20).
 
 Halte fest am Glauben, der ein für alle Mal den Heiligen überliefert wurde (Judas 3).
 
@@ -1203,7 +1203,7 @@ Halte fest am Glauben, der ein für alle Mal den Heiligen überliefert wurde (Ju
 
 ## 13. Letzte Gewissheit  
 
-**Einfach erklärt:** Christus hat bereits gesiegt; die Gläubigen kämpfen aus seiner Stärke.  
+**Einfach erklärt:** Christus hat bereits gesiegt. Die Gläubigen kämpfen aus seinem Sieg heraus, nicht um ihn zu erringen.  
 
 - **1. Johannes 3,8** – „Der Sohn Gottes ist erschienen, um die Werke des Teufels zu zerstören.“  
 
@@ -1211,4 +1211,4 @@ Halte fest am Glauben, der ein für alle Mal den Heiligen überliefert wurde (Ju
 
 - **(Philipper 2,10–11)** – Jedes Knie beugt sich vor Jesus.
 
-**Schlussfolgerung (Schrift):** Christus hat die Werke des Teufels zerstört (1 Joh 3,8). Die Gläubigen überwinden durch sein Blut (Offb 12,11). Am Ende wird die ganze Schöpfung Jesus als Herrn bekennen (Phil 2,11).
+**Schlussfolgerung (Schrift):** Christus kam, um die Werke des Teufels zu zerstören (1 Joh 3,8). Die Gläubigen überwinden durch sein Blut und ihr treues Zeugnis (Offb 12,10–11). Am Ende wird sich die ganze Schöpfung beugen und Jesus Christus als Herrn bekennen (Phil 2,10–11).

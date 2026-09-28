@@ -3,6 +3,7 @@ package com.dividesbyzer0.biblecompanion
 import androidx.compose.material3.ColorScheme
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.lerp
 import androidx.compose.ui.graphics.luminance
 import kotlin.test.Test
 import kotlin.test.assertEquals
@@ -12,18 +13,18 @@ import kotlin.math.roundToInt
 
 class ThemeFoundationTest {
     @Test
-    fun staticPresetsRetainSemanticColors() {
+    fun staticPresetsRetainLeadingColorsAndRelateTertiary() {
         val expectedLight = mapOf(
-            ThemePreset.Parchment to Triple(Color(0xFF7D4A3E), Color(0xFF76584A), Color(0xFF6E5F31)),
-            ThemePreset.Sage to Triple(Color(0xFF4C6B4D), Color(0xFF54634E), Color(0xFF38656A)),
-            ThemePreset.Indigo to Triple(Color(0xFF3A5BA0), Color(0xFF575E71), Color(0xFF735471)),
-            ThemePreset.Ink to Triple(Color(0xFFAF3434), Color(0xFF775653), Color(0xFF735A2F))
+            ThemePreset.Parchment to (Color(0xFF7D4A3E) to Color(0xFF76584A)),
+            ThemePreset.Sage to (Color(0xFF4C6B4D) to Color(0xFF54634E)),
+            ThemePreset.Indigo to (Color(0xFF3A5BA0) to Color(0xFF575E71)),
+            ThemePreset.Ink to (Color(0xFFAF3434) to Color(0xFF775653))
         )
         val expectedDark = mapOf(
-            ThemePreset.Parchment to Triple(Color(0xFFF6B8A6), Color(0xFFE8BEA9), Color(0xFFDDC78F)),
-            ThemePreset.Sage to Triple(Color(0xFFB4D2B1), Color(0xFFBACCB4), Color(0xFFA2CED3)),
-            ThemePreset.Indigo to Triple(Color(0xFFB3C5FF), Color(0xFFBFC6DC), Color(0xFFE2BBDD)),
-            ThemePreset.Ink to Triple(Color(0xFFFFB4AA), Color(0xFFE7BDB9), Color(0xFFE3C18E))
+            ThemePreset.Parchment to (Color(0xFFF6B8A6) to Color(0xFFE8BEA9)),
+            ThemePreset.Sage to (Color(0xFFB4D2B1) to Color(0xFFBACCB4)),
+            ThemePreset.Indigo to (Color(0xFFB3C5FF) to Color(0xFFBFC6DC)),
+            ThemePreset.Ink to (Color(0xFFFFB4AA) to Color(0xFFE7BDB9))
         )
 
         expectedLight.forEach { (preset, expected) ->
@@ -223,7 +224,7 @@ class ThemeFoundationTest {
     }
 
     @Test
-    fun dynamicComfortPassPreservesWallpaperAccentRoles() {
+    fun dynamicComfortPassPreservesLeadingWallpaperRolesAndRelatesTertiary() {
         val source = darkColorScheme()
         val result = comfortableDynamicColorScheme(source, dark = true)
 
@@ -235,10 +236,8 @@ class ThemeFoundationTest {
         assertEquals(source.onSecondary, result.onSecondary)
         assertEquals(source.secondaryContainer, result.secondaryContainer)
         assertEquals(source.onSecondaryContainer, result.onSecondaryContainer)
-        assertEquals(source.tertiary, result.tertiary)
-        assertEquals(source.onTertiary, result.onTertiary)
-        assertEquals(source.tertiaryContainer, result.tertiaryContainer)
-        assertEquals(source.onTertiaryContainer, result.onTertiaryContainer)
+        assertEquals(lerp(source.secondary, source.primary, .2f), result.tertiary)
+        assertEquals(lerp(source.secondaryContainer, source.primaryContainer, .2f), result.tertiaryContainer)
         assertTrue(result.surface.luminance() > source.surface.luminance())
         assertTrue(result.surfaceContainerHighest.luminance() > result.surfaceContainer.luminance())
         assertNonDecreasing(
@@ -257,10 +256,28 @@ class ThemeFoundationTest {
         assertContrast("dynamic outline variant", result.outlineVariant, result.background, 3.0f)
     }
 
-    private fun assertSemanticColors(scheme: ColorScheme, expected: Triple<Color, Color, Color>) {
+    @Test
+    fun independentlyChosenAccentsRetainReadableRolesAtColorExtremes() {
+        val choices = listOf(
+            CustomThemeColor(0f, 1f, .5f), CustomThemeColor(60f, 1f, .5f),
+            CustomThemeColor(120f, 1f, .5f), CustomThemeColor(240f, 1f, .5f),
+            CustomThemeColor(300f, 1f, .5f), CustomThemeColor(0f, 0f, 0f),
+            CustomThemeColor(0f, 0f, 1f), CustomThemeColor(210f, .25f, .5f)
+        )
+        for (dark in listOf(false, true)) for (second in choices) for (third in choices) {
+            val scheme = colorSchemeFor(ThemePreset.Custom, dark,
+                customSecondary = second, customTertiary = third)
+            val label = "Custom independent $second $third dark=$dark"
+            assertContentRoleContrast(label, scheme)
+            assertContrast("$label secondary text", scheme.secondary, scheme.surface, 4.5f)
+            assertContrast("$label tertiary text", scheme.tertiary, scheme.surface, 4.5f)
+        }
+    }
+
+    private fun assertSemanticColors(scheme: ColorScheme, expected: Pair<Color, Color>) {
         assertEquals(expected.first, scheme.primary)
         assertEquals(expected.second, scheme.secondary)
-        assertEquals(expected.third, scheme.tertiary)
+        assertEquals(lerp(expected.second, expected.first, .2f), scheme.tertiary)
     }
 
     private fun assertContentRoleContrast(label: String, scheme: ColorScheme) {

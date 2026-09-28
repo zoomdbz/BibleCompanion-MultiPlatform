@@ -16,13 +16,13 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
 ## 1. Les trois cieux  
 **Sens simple :** La Bible emploie « ciel / cieux » dans plus d'un sens.  
 
-- **(Genèse 1:8)** – « Dieu appela l’étendue Ciel. »  
+- **(Genèse 1:8)** – « Dieu appela l’étendue Ciel. » *(le ciel visible)*  
 
-- **(Daniel 10:13)** – « Le chef du royaume de Perse m’a résisté vingt et un jours. »  
+- **(Daniel 10:13)** – « Le chef du royaume de Perse m’a résisté vingt et un jours. » *(un conflit spirituel dans le domaine invisible)*  
 
-- **(Éphésiens 6:12)** – « Les esprits du mal dans les lieux célestes. »  
+- **(Éphésiens 6:12)** – « Les esprits du mal dans les lieux célestes. » *(le champ de bataille des esprits)*  
 
-- **(2 Corinthiens 12:2–4)** – « Enlevé jusqu’au troisième ciel… dans le paradis. »  
+- **(2 Corinthiens 12:2–4)** – « Enlevé jusqu’au troisième ciel… dans le paradis. » *(la demeure de Dieu)*  
 
 **Conclusion (Écriture):** L’Écriture distingue plusieurs cieux : le ciel visible (Genèse 1:8), le domaine du combat spirituel (Daniel 10:13; Ép 6:12), et la demeure de Dieu (2 Co 12:2–4).  
 
@@ -70,7 +70,7 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
 
 2. D’autres continuent à agir jusqu’au jugement final.  
 
-3. À la fin, tous seront jetés en enfer (Ap 20:10).  
+3. Tous subiront la défaite ultime lorsque Christ reviendra (Ap 20:10).  
 
 ---  
 
@@ -150,7 +150,7 @@ Même les saints les plus fidèles sont des exemples de foi, non des médiateurs
 ## 4. Sorcellerie, magie et divination  
 **Sens simple :** Les pratiques qui recherchent une connaissance ou un pouvoir cachés en dehors de Dieu sont interdites.  
 
-- **(Exode 22:18)** – « Tu ne laisseras point vivre la magicienne. »  
+- **(Exode 22:17)** – « Tu ne laisseras point vivre la magicienne. »  
 
 - **(Lévitique 19:26)** – Ne pratiquez pas la divination.  
 
@@ -164,7 +164,7 @@ Même les saints les plus fidèles sont des exemples de foi, non des médiateurs
 
 - **(2 Corinthiens 11:14)** – « Satan lui-même se déguise en ange de lumière. »  
 
-**Conclusion (Écriture):** La sorcellerie et la divination sont des abominations (Deutéronome 18:10–12), punies de mort dans la Loi (Exode 22:18), combattues par les apôtres (Actes 16:16–18) et jugées à la fin (Ap 21:8).  
+**Conclusion (Écriture):** La sorcellerie et la divination sont des abominations (Deutéronome 18:10–12), punies de mort dans la Loi (Exode 22:17), combattues par les apôtres du Christ (Actes 16:16–18) et jugées à la fin (Ap 21:8). Apocalypse 18:23 et 2 Corinthiens 11:14 relient directement la sorcellerie et la tromperie à l’influence de Satan.  
 
 ---  
 
@@ -200,7 +200,7 @@ Même les saints les plus fidèles sont des exemples de foi, non des médiateurs
 
 - **(Romains 1:22–23)** – Ils ont changé la gloire de Dieu en images.  
 
-**Conclusion (Écriture):** Les dieux des nations sont des idoles (Psaumes 96:5), l’adoration fausse est liée à Satan (Ap 13:4). Jésus affirme son unité avec le Père (Jean 10:30). Paul appelle les dieux gréco-romains « choses vaines » (Actes 14:15).  
+**Conclusion (Écriture):** Les dieux étrangers sont des idoles (Psaumes 96:5) ; les prétendus dieux sont faux (1 Corinthiens 8:5–6) ; l’adoration fausse s’aligne sur Satan (Ap 13:4). Jésus affirme son unité avec le Père (Jean 10:30). Paul appelle les dieux gréco-romains « choses vaines » (Actes 14:11–15), et Romains 1:23 dit que l’idolâtrie déforme la gloire de Dieu. Les dieux nordiques relèvent de la même catégorie : des noms culturels pour la même tromperie démoniaque.  
 
 ---  
 
@@ -357,11 +357,11 @@ La Bible identifie Jésus comme le Fils éternel de Dieu, égal au Père.
 
 La doctrine de la Trinité affirme un seul Dieu en trois Personnes.
 
-**(2 Corinthiens 13:14)**
+**(2 Corinthiens 13:13)**
 > « Que la grâce du Seigneur Jésus-Christ, l’amour de Dieu, et la communion du Saint-Esprit soient avec vous tous ! »
 
 **(Matthieu 28:19)**
-> « Allez… les baptisant au nom du Père, du Fils et du Saint-Esprit. »
+> « Allez donc et faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit. »
 
 **Résumé :** L’islam honore Jésus comme prophète mais lui retire sa filiation divine, sa crucifixion et son rôle de Sauveur. La Bible l’identifie constamment comme le Fils éternel de Dieu, l’unique chemin du salut.
 
@@ -536,7 +536,7 @@ Les enfants ne peuvent consentir ; consommer un mariage avec une enfant relève 
 
 #### 2. Polygamie au-delà des limites
 **Coran 4:3 (Sahih International)**
-> « Épousez, parmi les femmes qui vous plaisent, deux, trois ou quatre. Mais si vous craignez de n’être pas équitables, une seule… »
+> « Et si vous craignez de ne pas être équitables envers les orphelines, épousez parmi les [autres] femmes celles qui vous plaisent, deux, trois ou quatre. Mais si vous craignez de ne pas être équitables, alors [n’en épousez qu’]une seule ou celles que votre main droite possède. Cela convient mieux afin que vous ne penchiez pas [vers l’injustice]. »
 
 Mahomet prit cependant plus de quatre épouses, dépassant la norme coranique elle-même ainsi que l’ordonnance de la Loi de Moïse.
 
@@ -545,7 +545,7 @@ Mahomet prit cependant plus de quatre épouses, dépassant la norme coranique el
 
 #### 3. Mariage avec la femme d’un fils adopté
 **Coran 33:37 (Sahih International)**
-> « Quand Zayd eut cessé toute relation avec elle, Nous te la fîmes épouser, afin qu’il n’y ait pas de gêne pour les croyants à propos des femmes de leurs fils adoptifs… »
+> « Et [souviens-toi, ô Mahomet] lorsque tu disais à celui qu’Allah avait comblé de bienfaits, comme toi-même l’avais comblé de bienfaits : “Garde ton épouse et crains Allah”, tandis que tu cachais en toi ce qu’Allah allait révéler. Tu craignais les gens, alors qu’Allah mérite davantage que tu le craignes. Puis, lorsque Zayd n’eut plus aucun besoin d’elle, Nous te la donnâmes pour épouse, afin qu’il n’y ait aucune gêne pour les croyants au sujet des épouses de leurs fils adoptifs lorsque ceux-ci n’en ont plus besoin. Et le commandement d’Allah s’accomplit toujours. »
 
 La Loi de Moïse interdit une telle union.
 
@@ -554,7 +554,7 @@ La Loi de Moïse interdit une telle union.
 
 #### 4. Violence et conversions forcées
 **Coran 9:5 (Sahih International)**
-> « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez ; capturez-les, assiégez-les… Mais s’ils se repentent, accomplissent la prière et acquittent l’aumône légale, laissez-leur la voie libre. »
+> « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez ; capturez-les, assiégez-les et guettez-les dans tout lieu d’embuscade. Mais s’ils se repentent, accomplissent la prière et acquittent l’aumône légale, laissez-les poursuivre leur chemin. Allah est certes pardonneur et miséricordieux. »
 
 Par contraste, la Loi de Moïse condamne le meurtre, et Jésus rejette la violence pour la foi.
 
@@ -579,10 +579,10 @@ Le Coran nie la filiation et la crucifixion de Jésus.
 La Bible enseigne l’inverse : Jésus est le Fils éternel de Dieu, crucifié et ressuscité.
 
 **(Ésaïe 53:5)**
-> « … et c’est par ses meurtrissures que nous sommes guéris. »
+> « Mais il était blessé pour nos transgressions, brisé pour nos iniquités ; le châtiment qui nous donne la paix était sur lui, et c’est par ses meurtrissures que nous sommes guéris. »
 
-**(Psaume 22:16–18)**
-> « … ils ont percé mes mains et mes pieds… ils se partagent mes vêtements, ils tirent au sort ma tunique. »
+**(Psaume 22:17–19)**
+> « Car des chiens m’environnent, une bande de malfaiteurs m’encercle ; ils ont percé mes mains et mes pieds. Je peux compter tous mes os ; ils me regardent et se réjouissent à mon sujet. Ils se partagent mes vêtements et tirent au sort ma tunique. »
 
 **(Jean 3:16)**
 > « Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle. »
@@ -641,18 +641,18 @@ La Sourate 33 accorde à Mahomet des exemptions et des privilèges uniques.
 
 #### Épouses et concubines illimitées
 **Coran 33:50 (Sahih International)**
-> « Ô Prophète ! Nous t’avons rendues licites tes épouses auxquelles tu as donné leur dot… et toute femme croyante si elle fait don de sa personne au Prophète… exclusivement pour toi et non pour les croyants. »
+> « Ô Prophète ! Nous t’avons rendues licites tes épouses auxquelles tu as donné leur dot, celles que ta main droite possède parmi les captives qu’Allah t’a rendues, les filles de tes oncles paternels, les filles de tes tantes paternelles, les filles de tes oncles maternels et les filles de tes tantes maternelles qui ont émigré avec toi, ainsi que toute femme croyante si elle fait don de sa personne au Prophète et si le Prophète souhaite l’épouser ; cela t’est réservé, à l’exclusion des [autres] croyants. Nous savons ce que Nous leur avons imposé au sujet de leurs épouses et de celles que leur main droite possède, mais [cela t’est accordé] afin que tu ne sois pas gêné. Allah est toujours pardonneur et miséricordieux. »
 
 Ici, Mahomet se voit autoriser un nombre illimité d’épouses/concubines, contrairement aux musulmans ordinaires limités à quatre (Coran 4:3).
 
 La Torah interdit de multiplier les femmes.
 
 **(Deutéronome 17:17)**
-> « Qu’il n’ait pas un grand nombre de femmes… »
+> « Qu’il n’ait pas un grand nombre de femmes, afin que son cœur ne se détourne point ; et qu’il n’amasse pas pour lui-même une quantité excessive d’argent et d’or. »
 
 #### Restrictions exclusives
 **Coran 33:52 (Sahih International)**
-> « Il ne t’est pas permis [ô Mahomet] de prendre d’autres femmes… même si leur beauté te séduit, à l’exception de celles que possède ta main droite. »
+> « Il ne t’est pas permis, [ô Mahomet], de prendre d’autres femmes après celles-ci ni de les échanger contre d’autres épouses, même si leur beauté te séduit, à l’exception de celles que possède ta main droite. Et Allah observe toute chose. »
 
 Cela montre des règles créées uniquement pour la situation conjugale de Mahomet.
 
@@ -681,7 +681,7 @@ L’islam enseigne que le Coran est parfait et sans contradiction. Pourtant, dan
 
 #### 1. Chronologie de la création
 **Coran 7:54 (Sahih International)**
-> « Votre Seigneur est Allah qui a créé les cieux et la terre en six jours… »
+> « Votre Seigneur est Allah, qui a créé les cieux et la terre en six jours, puis s’est établi au-dessus du Trône. »
 
 **Qur’an 41:9–12 (Français)**
 > Dis: « Rennez-vous Celui qui a créé la terre en deux jours et Lui attribuez-vous des égaux? C’est le Seigneur des mondes. Il y plaça des montagnes fermement établies, la bénit et y répartit ses subsistances en quatre jours, de façon égale pour ceux qui demandent. Puis Il se tourna vers le ciel qui n’était que fumée et lui dit ainsi qu’à la terre: “Venez toutes deux, de gré ou de force.” Elles dirent: “Nous venons de gré.” Il les acheva alors en sept cieux en deux jours et inspira à chaque ciel son ordre. Et Nous avons orné le ciel le plus proche de lampes et comme protection. Tel est le décret du Puissant, du Savant. »
@@ -691,7 +691,7 @@ Pris ensemble, cela décrit huit jours, non six. La Bible est cohérente : Dieu 
 
 #### 2. Vin : bénédiction ou souillure ?
 **Coran 16:67 (Sahih International)**
-> « Et des fruits des palmiers et des vignes, vous retirez des boissons enivrantes et une bonne subsistance… »
+> « Et des fruits des palmiers et des vignes, vous retirez des boissons enivrantes et une bonne subsistance. Il y a certes là un signe pour les gens qui raisonnent. »
 
 **Coran 5:90 (Sahih International)**
 > « Les boissons enivrantes… ne sont qu’une abomination de l’œuvre de Satan : évitez-les… »
@@ -732,7 +732,7 @@ Le Coran affirme le libre arbitre en un endroit et le nie ailleurs. La Bible éq
 Le Coran nie et affirme la mort de Jésus dans des passages différents. La Bible est cohérente :
 
 **(1 Corinthiens 15:3–4)**
-> « Christ est mort pour nos péchés… il a été enseveli… il est ressuscité le troisième jour… »
+> « Je vous ai transmis avant tout ce que j’avais aussi reçu : Christ est mort pour nos péchés conformément aux Écritures, il a été enseveli et il est ressuscité le troisième jour conformément aux Écritures. »
 
 **Des historiens séculiers confirment la crucifixion :**
 - **Tacite, Annales 15.44** : « Christus… subit la peine extrême sous le règne de Tibère, entre les mains d’un de nos procurateurs, Ponce Pilate. »
@@ -766,13 +766,13 @@ La Loi met en évidence le péché, mais seul Christ l’a parfaitement accompli
 > « Car tous ont péché et sont privés de la gloire de Dieu ; et ils sont gratuitement justifiés par sa grâce, par le moyen de la rédemption qui est en Jésus-Christ. »
 
 **(Éphésiens 2:8–9)**
-> « C’est par la grâce que vous êtes sauvés, par la foi… ce n’est point par les œuvres, afin que personne ne se glorifie. »
+> « C’est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous ; c’est le don de Dieu, non le résultat des œuvres, afin que personne ne se glorifie. »
 
 **(Actes 4:12)**
 > « Il n’y a de salut en aucun autre ; car il n’y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés. »
 
 **(Jean 11:25–26)**
-> « Je suis la résurrection et la vie… Crois-tu cela ? »
+> « Jésus lui dit : Je suis la résurrection et la vie. Celui qui croit en moi vivra, même s’il meurt ; et quiconque vit et croit en moi ne mourra jamais. Crois-tu cela ? »
 
 **Point clé :**
 
@@ -830,7 +830,7 @@ Qu’est-ce qui est le plus plausible ?
 **Ce que dit l’Écriture au sujet du Messie :**
 - (Ésaïe 7:14) – « Voici, la vierge deviendra enceinte, elle enfantera un fils, et elle lui donnera le nom d’Emmanuel. »
 
-- (Michée 5:2) – Le Messie naîtra à Bethléem.
+- (Michée 5:1) – Le Messie naîtra à Bethléem.
 
 - (Ésaïe 53:5) – « Mais il était blessé pour nos transgressions, brisé pour nos iniquités ; le châtiment qui nous donne la paix est tombé sur lui, et c’est par ses meurtrissures que nous sommes guéris. »
 
@@ -846,11 +846,11 @@ Qu’est-ce qui est le plus plausible ?
 
 - **Objection : Le Messie devait apporter la paix, mais Jésus a apporté la division.**
 
-  - (Michée 5:5) promet la paix, mais (Ésaïe 53) montre que le Messie devait d’abord souffrir pour le péché. La paix complète viendra à son second avènement (Apocalypse 21:4).
+  - (Michée 5:4) promet la paix, mais (Ésaïe 53) montre que le Messie devait d’abord souffrir pour le péché. La paix complète viendra à son second avènement (Apocalypse 21:4).
 
 - **Objection : Dieu ne peut pas devenir un homme.**
 
-  - (Ésaïe 9:6) appelle l’enfant qui doit naître « Dieu puissant » (El Gibbor).
+  - (Ésaïe 9:5) appelle l’enfant qui doit naître « Dieu puissant » (El Gibbor).
 
   - (Jérémie 23:6) appelle le roi à venir « L’Éternel, notre justice. »
 
@@ -879,7 +879,7 @@ Pour se représenter cela : si vous couvriez l’État du Texas avec des pièces
 Mais Jésus n’en a pas seulement accompli 8 ; il en a accompli **des centaines**. Statistiquement, cela dépasse toute compréhension. C’est comme gagner à la loterie non pas une seule fois, mais chaque jour pour le reste de votre vie, ou comme compter chaque grain de sable sur une plage et tomber exactement sur le bon. L’impossibilité du point de vue humain met en évidence la certitude divine que Jésus est le Messie.
 
 **Point clé (Écriture) :**  
-Jésus est le Messie annoncé dans les Écritures hébraïques. Né d’une vierge (Ésaïe 7:14), de Bethléem (Michée 5:2), divin dans sa nature (Ésaïe 9:6), crucifié et percé pour les péchés (Ésaïe 53:5 ; Zacharie 12:10), et retranché avant la chute du Temple (Daniel 9:26). Le rejeter, c’est manquer les promesses mêmes que Dieu a données par les prophètes.
+Jésus est le Messie annoncé dans les Écritures hébraïques. Né d’une vierge (Ésaïe 7:14), de Bethléem (Michée 5:1), divin dans sa nature (Ésaïe 9:5), crucifié et percé pour les péchés (Ésaïe 53:5 ; Zacharie 12:10), et retranché avant la chute du Temple (Daniel 9:26). Le rejeter, c’est manquer les promesses mêmes que Dieu a données par les prophètes.
 
 ---
 
@@ -930,32 +930,32 @@ L’« Étoile de David » (hexagramme) ne se trouve nulle part dans l’Écri
 
 - **(Matthieu 22:39)** – « Tu aimeras ton prochain comme toi-même. »  
 
-- *Sens :* La Bible affirme l’éducation pieuse et l’amour du prochain.  
+- *Sens :* L’enseignement confucéen valorise l’ordre familial et la formation morale ; la Bible affirme l’éducation pieuse et l’amour du prochain.  
 
 **Taoïsme (道家) – Le Dao comme ordre de la vie.**  
 - **(Jean 1:1)** – « Au commencement était la Parole (Logos/Dao). »  
 
 - **(Jean 14:6)** – « Je suis le chemin, la vérité et la vie. »  
 
-- **(Psaume 46:10)** – « Arrêtez, et sachez que je suis Dieu. »  
+- **(Psaume 46:11)** – « Arrêtez, et sachez que je suis Dieu. »  
 
-- *Sens :* Jésus est le Dao vivant, le chemin fait chair.  
+- *Sens :* Le taoïsme recherche l’harmonie avec le Dao ; Jésus est révélé comme le Dao éternel fait chair, le vrai Chemin.  
 
 **Bouddhisme (佛教, 大乘) – Compassion, Terre Pure, espérance de libération de la souffrance.**  
 - **(Jean 15:13)** – Personne n’a de plus grand amour que de donner sa vie.  
 
-- **(Matthieu 11:28)** – « Venez à moi… je vous donnerai du repos. »  
+- **(Matthieu 11:28)** – « Venez à moi, vous tous qui peinez et qui êtes chargés, et je vous donnerai du repos. »  
 
 - **(Apocalypse 21:4)** – Dieu essuiera toute larme.  
 
-- *Sens :* La compassion et l’espérance de la Terre Pure du Mahāyāna trouvent leur accomplissement en Christ.  
+- *Sens :* Le Mahāyāna met l’accent sur la compassion et une Terre Pure de paix ; Christ accomplit les deux par son amour sacrificiel et la promesse de son Royaume.  
 
 **Accomplissement en Christ :**  
 - **(Matthieu 5:17)** – « Je suis venu non pour abolir, mais pour accomplir. »  
 
 - **(Colossiens 1:17)** – « En lui tout subsiste. »  
 
-**Conclusion (Écriture) :** La vertu confucéenne (Proverbes 22:6; Mt 22:39), l’harmonie taoïste (Jean 1:1; Ps 46:10) et la compassion bouddhiste (Jean 15:13; Mt 11:28; Ap 21:4) trouvent leur plénitude en Christ, le Dao fait chair.  
+**Conclusion (Écriture) :** La vertu confucéenne (Proverbes 22:6; Mt 22:39), l’harmonie taoïste (Jean 1:1; Jean 14:6; Ps 46:11) et la compassion bouddhiste (Jean 15:13; Mt 11:28; Ap 21:4) trouvent leur plénitude en Christ, le Dao fait chair.  
 
 ---  
 
@@ -965,7 +965,7 @@ Pour un traitement systématique plus approfondi de chaque mouvement listé ci-d
 
 **Sens simple :** Tous ceux qui parlent au nom de Dieu ne parlent pas vraiment de Dieu. L’Écriture donne des tests pour démasquer les faux prophètes, les faux apôtres et les évangiles contrefaits.
 
-- **(Deutéronome 13:1–5)** – Si les signes s’accomplissent mais que le message éloigne de l’ÉTERNEL, rejette-le.
+- **(Deutéronome 13:2–6)** – Si les signes s’accomplissent mais que le message éloigne de l’ÉTERNEL, rejette-le.
 
 - **(Deutéronome 18:20–22)** – Si une prédiction échoue, le prophète a parlé avec présomption.
 
@@ -1069,9 +1069,9 @@ Pour un traitement systématique plus approfondi de chaque mouvement listé ci-d
 
 - **Pas de second messie** – (Matthieu 24:23–27) (Apocalypse 1:7).
 
-- **Un seul Dieu : Père, Fils et Esprit** – (Matthieu 28:19) (2 Corinthiens 13:14).
+- **Un seul Dieu : Père, Fils et Esprit** – (Matthieu 28:19) (2 Corinthiens 13:13).
 
-**Conclusion :** Ajouter un second Christ et une « Dieu la Mère » échoue aux tests de (Deutéronome 13:1–3) et (Matthieu 24:23–27).
+**Conclusion :** Ajouter un second Christ et une « Dieu la Mère » échoue aux tests de (Deutéronome 13:2–4) et (Matthieu 24:23–27).
 
 ---
 
@@ -1113,7 +1113,7 @@ Pour un traitement systématique plus approfondi de chaque mouvement listé ci-d
 
 - **Le Fils prie le Père et promet l’Esprit** – (Jean 14:16–17) (Jean 17:1–5).
 
-- **Bénédiction apostolique nommant les trois** – (2 Corinthiens 13:14).
+- **Bénédiction apostolique nommant les trois** – (2 Corinthiens 13:13).
 
 ### Pourquoi ce n’est pas le christianisme biblique :
 
@@ -1162,7 +1162,7 @@ En traitant tous les événements comme étant également décrétés, le calvin
 
 **Conclusion biblique (suite) :** Dieu nous commande d’éprouver tout enseignant et tout esprit (1 Jean 4:1–3).
 
-Si un message change qui est Jésus, change l’évangile, ou lie le péché à la couleur de la peau, rejette-le (Deutéronome 13:1–5) (Deutéronome 18:20–22) (Galates 1:8–9) (Matthieu 7:15–20).
+Si un message change qui est Jésus, change l’évangile, ou lie le péché à la couleur de la peau, rejette-le (Deutéronome 13:2–6) (Deutéronome 18:20–22) (Galates 1:8–9) (Matthieu 7:15–20).
 
 Tiens fermement à la foi qui a été transmise une fois pour toutes aux saints (Jude 3).
 
@@ -1190,7 +1190,7 @@ Tiens fermement à la foi qui a été transmise une fois pour toutes aux saints 
 
 ## 13. L’assurance finale  
 
-**Explication simple :** Christ a déjà vaincu; les croyants combattent à partir de sa victoire.  
+**Explication simple :** Christ a déjà vaincu. Les croyants combattent à partir de sa victoire, non pour l’obtenir.  
 
 - **(1 Jean 3:8)** – « Le Fils de Dieu est apparu afin de détruire les œuvres du diable. »  
 
@@ -1198,4 +1198,4 @@ Tiens fermement à la foi qui a été transmise une fois pour toutes aux saints 
 
 - **(Philippiens 2:10–11)** – « Tout genou fléchira et toute langue confessera. »  
 
-**Conclusion (Écriture) :** Christ a détruit les œuvres du diable (1 Jean 3:8). Les croyants vainquent par son sang (Ap 12:11). À la fin, toute la création confessera Jésus comme Seigneur (Ph 2:11).
+**Conclusion (Écriture) :** Christ est venu détruire les œuvres du diable (1 Jean 3:8). Les croyants vainquent par son sang et leur témoignage fidèle (Ap 12:10–11). À la fin, toute la création se prosternera et confessera Jésus-Christ comme Seigneur (Ph 2:10–11).

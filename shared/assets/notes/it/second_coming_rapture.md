@@ -13,7 +13,7 @@ Altri brani ne mostrano la portata pubblica:
 - Ogni occhio lo vedrà, anche quelli che lo trafissero (Apocalisse 1:7).
 - Il Figlio dell'uomo viene sulle nuvole con potenza e grande gloria, e i popoli della terra fanno cordoglio (Matteo 24:30).
 - Il Signore Gesù appare dal cielo con i suoi angeli potenti e giudica il male persistente (2 Tessalonicesi 1:7-10).
-- Apparirà una seconda volta per salvare quelli che lo aspettano (Ebrei 9:28).
+- Apparirà una seconda volta per salvare quelli che lo aspettano con ardore (Ebrei 9:28).
 - Scende dal cielo con un ordine, con voce d'arcangelo e con la tromba di Dio (1 Tessalonicesi 4:16).
 
 Niente in questo linguaggio suggerisce un semplice risveglio interiore o un evento nascosto. Tromba, comando angelico, cordoglio universale, risurrezione e giudizio appartengono alla manifestazione regale di Cristo.
@@ -32,7 +32,7 @@ La sequenza di 1 Tessalonicesi 4:16-17 è questa:
 4. Entrambi i gruppi incontrano il Signore nell'aria.
 5. Rimangono per sempre con il Signore.
 
-La parola inglese *rapture* designa quell'essere portati via. Deriva, attraverso il latino, dal verbo greco *harpazo*, che significa afferrare o strappare. L'evento è nel testo, anche se il termine tecnico «rapimento» non vi compare.
+La parola inglese *rapture* designa quell'essere portati via. Deriva, attraverso il latino, dal verbo greco *harpazo*, che significa afferrare o strappare. L'evento è nel testo, anche se la parola inglese *rapture* non vi compare.
 
 Paolo descrive la stessa speranza dal lato della trasformazione corporea in 1 Corinzi 15:50-57. All'ultima tromba, i morti risorgono incorruttibili e i credenti viventi vengono trasformati. Ciò che è mortale riveste l'immortalità. La vittoria non è l'abbandono del corpo, ma la sua redenzione. Romani 8:18-25 dice che la creazione stessa attende quella liberazione; Filippesi 3:20-21 dice che Cristo trasformerà il nostro corpo umiliato rendendolo conforme al suo corpo glorioso.
 
@@ -146,7 +146,7 @@ Il sovrano promesso è davidico e duraturo. Dio aveva promesso a Davide un trono
 
 La restaurazione completa descritta da Ezechiele comprende quindi più della presenza di un popolo in un territorio. Comprende vita di risurrezione, riunificazione, purificazione, obbedienza all'alleanza, un solo Pastore davidico, pace e santuario di Dio in mezzo al popolo per sempre (Ezechiele 37:26-28). Ogni adempimento moderno proposto privo di questi tratti resta incompleto.
 
-I cristiani dissentono su come Israele e le nazioni condividano la promessa. Le letture dispensazionaliste attendono una futura restaurazione nazionale d'Israele sotto il Messia. Le letture dell'alleanza e amillenariste sottolineano l'unico popolo creato in Cristo, dove i non Giudei credenti sono innestati nell'olivo d'Israele (Romani 11:17-24) e Cristo fa di Giudei e non Giudei un solo popolo (Efesini 2:11-22). Tutte devono custodire l'avvertimento di Paolo: i credenti gentili non sostengono la radice e non hanno motivo di vantarsi (Romani 11:18-21).
+I cristiani dissentono su come Israele e le nazioni condividano la promessa. Le letture dispensazionaliste attendono una futura restaurazione nazionale d'Israele sotto il Messia. Le letture dell'alleanza e amillenariste sottolineano l'unico popolo creato in Cristo, dove i non Giudei credenti sono innestati nell'olivo coltivato d'Israele (Romani 11:17-24) e Cristo fa di Giudei e non Giudei un solo popolo (Efesini 2:11-22). Tutte devono custodire l'avvertimento di Paolo: i credenti gentili non sostengono la radice e non hanno motivo di vantarsi (Romani 11:18-21).
 
 ## Una cronologia proposta dei castighi
 
@@ -164,7 +164,7 @@ Il calcolo procede così:
 ### Calcolo per la casa di Giuda
 
 1. Usare i 40 anni di Ezechiele 4.
-2. Farli iniziare con il lamento di Gesù su Gerusalemme, verso il 30 d.C. (Matteo 23:37-39).
+2. Farli iniziare con l'avvertimento di Gesù su Gerusalemme, verso il 30 d.C. (Matteo 23:37-39).
 3. Far terminare il primo periodo con la distruzione di Gerusalemme nel 70 d.C.
 4. Applicare il primo fattore sette: 40 x 7 = 280 anni. Aggiungerli al 70 crea il 350 d.C. come tappa proposta per il ravvedimento.
 5. Applicare un altro fattore sette ai 280 anni: 280 x 7 = 1.960 anni.
@@ -172,13 +172,13 @@ Il calcolo procede così:
 
 La convergenza numerica è reale una volta accettati questi dati. Ezechiele non li dichiara.
 
-Il segno di Ezechiele rappresenta l'assedio di Gerusalemme nella crisi babilonese (Ezechiele 4:1-3; Ezechiele 4:7). Il capitolo non fissa il 701 a.C. come punto iniziale per il regno settentrionale, il 30 d.C. come punto iniziale per Giuda o il 70 d.C. come punto di ripartenza. Levitico 26 avverte ripetutamente di una disciplina sette volte maggiore, ma non ordina di trasformare gli anni di Ezechiele in due orologi moltiplicati separatamente. Le tappe proposte per il ravvedimento sono dedotte, non scadenze storiche registrate. Il calcolo di Giuda tratta inoltre il 350 d.C. come una tappa, ma misura gli ultimi 1.960 anni dal 70 d.C. Questa è una ripartenza scelta, non un'addizione consecutiva ordinaria.
+Il segno di Ezechiele rappresenta l'assedio di Gerusalemme nella crisi babilonese (Ezechiele 4:1-3; Ezechiele 4:7). Il capitolo non fissa il 701 a.C. come punto iniziale per il regno settentrionale, il 30 d.C. come punto iniziale per Giuda o il 70 d.C. come punto di ripartenza. Levitico 26 avverte ripetutamente di una disciplina sette volte maggiore, ma non ordina di trasformare gli anni di Ezechiele in due orologi indipendenti, ciascuno sottoposto a moltiplicazioni successive. Le tappe proposte per il ravvedimento sono dedotte, non scadenze storiche registrate. Il calcolo di Giuda tratta inoltre il 350 d.C. come una tappa, ma misura gli ultimi 1.960 anni dal 70 d.C. Questa è una ripartenza scelta, non un'addizione consecutiva ordinaria.
 
 Il calcolo può essere un modello da esaminare; non può sostenere la promessa che Cristo debba tornare nel 2030. Cambiando un punto iniziale, il numero dei fattori sette o la funzione del segno, cambia il risultato. L'aritmetica diventa esatta soltanto dopo che l'interpretazione ha scelto i numeri e assegnato loro un ruolo.
 
 ## Daniele, la vigilanza e i limiti del calcolo
 
-Daniele 12 riunisce difficoltà, liberazione, risurrezione, rivelazione sigillata e comprensione crescente in un solo capitolo. Sopraggiunge un tempo di angoscia senza precedenti; il popolo di Dio viene liberato, quelli che dormono nella polvere si svegliano e i saggi risplendono (Daniele 12:1-3). Daniele deve sigillare il libro fino al tempo della fine, quando molti lo studieranno con cura e la conoscenza aumenterà (Daniele 12:4). In seguito ode che le parole resteranno sigillate fino alla fine, quando i saggi comprenderanno, ma gli empi no (Daniele 12:8-10).
+Daniele 12 riunisce difficoltà, liberazione, risurrezione, rivelazione sigillata e comprensione crescente in un solo capitolo. Sopraggiunge un tempo di angoscia senza precedenti; il popolo di Dio viene liberato, quelli che dormono nella polvere si svegliano e i saggi risplendono (Daniele 12:1-3). Daniele deve sigillare il libro fino al tempo della fine, quando molti andranno avanti e indietro e la conoscenza aumenterà (Daniele 12:4). In seguito ode che le parole resteranno sigillate fino alla fine, quando i saggi comprenderanno, ma gli empi no (Daniele 12:8-10).
 
 Questa promessa significa che i lettori successivi possono attendersi una comprensione autentica. Non dice che i saggi calcoleranno la data del ritorno di Cristo. Nel contesto, la saggezza comprende purificazione, fedeltà e comprensione della crisi rivelata. Daniele riceve periodi di 1.290 e 1.335 giorni, ma i loro punti iniziali e il loro rapporto con gli eventi successivi restano discussi (Daniele 12:11-12).
 
@@ -232,7 +232,7 @@ La sua forza è il linguaggio condiviso di venuta, nuvole, tromba, risurrezione 
 
 ### Letture amillenariste e postmillenariste
 
-Queste letture collocano di solito risurrezione, rapimento, giudizio e rinnovamento finale a un unico ritorno pubblico. Notano che Gesù unisce la risurrezione dei giusti e degli ingiusti in una stessa ora futura (Giovanni 5:28-29) e il proprio ritorno glorioso al giudizio delle nazioni (Matteo 25:31-46). Divergono dal premillenarismo soprattutto su Apocalisse 20. Gli amillenaristi comprendono i mille anni come l'attuale regno celeste di Cristo e spesso vedono le visioni dell'Apocalisse ricapitolare la stessa era. I postmillenaristi attendono la crescita storica del regno come il granello di senape e il lievito (Matteo 13:31-33), mediante l'autorità presente di Cristo e il discepolato delle nazioni (Matteo 28:18-20), prima del suo ritorno. Entrambi leggono comunemente l'incontro di 1 Tessalonicesi 4 come l'accoglienza del Re in arrivo da parte della Chiesa.
+Queste letture collocano di solito risurrezione, rapimento, giudizio e rinnovamento finale a un unico ritorno pubblico. Notano che Gesù unisce la risurrezione dei giusti e degli ingiusti in una stessa ora futura (Giovanni 5:28-29) e il proprio ritorno glorioso al giudizio delle nazioni (Matteo 25:31-46). Divergono dal premillenarismo soprattutto su Apocalisse 20. Gli amillenaristi comprendono i mille anni simbolicamente come l'attuale regno celeste di Cristo e spesso vedono le visioni dell'Apocalisse ricapitolare la stessa era da angolazioni diverse. I postmillenaristi attendono la crescita storica del regno come il granello di senape e il lievito (Matteo 13:31-33), mediante l'autorità presente di Cristo e il discepolato delle nazioni (Matteo 28:18-20), prima del suo ritorno. Entrambi leggono comunemente l'incontro di 1 Tessalonicesi 4 come l'accoglienza del Re in arrivo da parte della Chiesa.
 
 La loro forza è un unico ritorno finale e l'attenzione ai cicli dell'Apocalisse. La disputa principale con il premillenarismo riguarda l'ordine cronologico fra Apocalisse 19 e 20 e il carattere corporeo o spirituale della prima risurrezione in Apocalisse 20:4-6.
 
@@ -254,9 +254,9 @@ Questa è una lettura post-tribolazionista, protetta dall'ira e premillenarista.
 
 Gesù non conclude il suo insegnamento con un calcolo, ma con servi al lavoro.
 
-Il servo fedele nutre la casa durante l'assenza del padrone (Matteo 24:45-47). Le vergini sagge tengono pronte le lampade durante un ritardo più lungo del previsto (Matteo 25:1-13). I servi fanno fruttare ciò che il padrone ha affidato loro (Matteo 25:14-30). Le pecore servono Cristo prendendosi cura dell'affamato, dello straniero, del malato e del prigioniero (Matteo 25:31-46).
+Il servo fedele nutre la casa durante l'assenza del padrone (Matteo 24:45-47). Le vergini sagge tengono pronte le lampade durante un ritardo più lungo del previsto (Matteo 25:1-13). I servi fanno fruttare fedelmente ciò che il padrone ha affidato loro (Matteo 25:14-30). Le pecore servono Cristo prendendosi cura dell'affamato, dello straniero, del malato e del prigioniero (Matteo 25:31-46).
 
-Paolo usa allo stesso modo la speranza della risurrezione: incoraggiarsi a vicenda (1 Tessalonicesi 4:18), vegliare, essere sobri ed edificarsi (1 Tessalonicesi 5:4-11). Dopo il suo capitolo più lungo sulla risurrezione conclude che i credenti devono essere saldi, incrollabili e sempre abbondanti nell'opera del Signore, perché la loro fatica non è vana (1 Corinzi 15:58).
+Paolo usa allo stesso modo la speranza della risurrezione. Esorta i credenti in lutto a incoraggiarsi a vicenda (1 Tessalonicesi 4:18). Dice ai figli della luce di vegliare, rimanere sobri ed edificarsi gli uni gli altri (1 Tessalonicesi 5:4-11). Dopo il suo capitolo più lungo sulla risurrezione conclude: siate saldi, incrollabili e sempre abbondanti nell'opera del Signore, perché la fatica nel Signore non è vana (1 Corinzi 15:58).
 
 Pietro risponde agli schernitori indicando la pazienza di Dio. L'apparente ritardo lascia spazio al ravvedimento (2 Pietro 3:8-9). Poiché giudizio e rinnovamento verranno, i credenti devono vivere in santità e pietà aspettando nuovi cieli e nuova terra (2 Pietro 3:10-14).
 

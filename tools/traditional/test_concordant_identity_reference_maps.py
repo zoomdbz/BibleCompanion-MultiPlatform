@@ -7,8 +7,8 @@ from pathlib import Path
 import unittest
 
 from audit_reference_identity_candidates import (
-    ASSETS_ROOT, EVIDENCE, OUTPUT, ROOT,
-    alternate_chapters, base_chapters, coordinates, evidence_for, generate,
+    ASSETS_ROOT, EVIDENCE, OUTPUT, REVIEWED_SEMANTIC_MAPS, ROOT,
+    alternate_chapters, base_chapters, coordinates, evidence_for, generate, reviewed_semantic_maps,
 )
 from audit_reference_coverage import Anchor, Rule, _index, _rules_by_verse, audit, map_unit
 from reference_maps import reference_map_for_edition
@@ -22,6 +22,8 @@ class ConcordantIdentityReferenceMapTests(unittest.TestCase):
     def test_every_row_has_untouched_whole_native_units(self):
         self.assertEqual(1, self.document["schemaVersion"])
         for entry in self.document["maps"]:
+            if entry["provenance"].get("replacesPreviouslyMappedIdentityUnits") is True:
+                continue
             language, edition = entry["language"], entry["editionId"]
             existing = reference_map_for_edition(ROOT, language, edition, include_concordant=False)
             claimed = {book["bookId"]: book for book in existing["books"]} if existing else {}
@@ -94,6 +96,42 @@ class ConcordantIdentityReferenceMapTests(unittest.TestCase):
         if not EVIDENCE.is_dir():
             self.skipTest("ignored browser evidence is not packaged in CI")
         self.assertEqual(generate(), self.document)
+
+    def test_japanese_second_corinthians_closing_boundary_maps_both_directions(self):
+        source = json.loads(REVIEWED_SEMANTIC_MAPS.read_text(encoding="utf-8"))
+        self.assertEqual(source["maps"], reviewed_semantic_maps())
+        self.assertEqual(self.document["maps"][-len(source["maps"]):], source["maps"])
+        document = reference_map_for_edition(ROOT, "ja", "bungo")
+        book = next(item for item in document["books"] if item["bookId"] == "2_corinthians")
+        rules = [Rule(Anchor(row["sourceChapter"], row["sourceVerse"], row.get("sourceVerseEnd", row["sourceVerse"])),
+                      Anchor(row["targetChapter"], row["targetVerse"], row.get("targetVerseEnd", row["targetVerse"])))
+                 for row in book["mappings"]]
+        base = ASSETS_ROOT / "new_testament/ja/2_corinthians.json"
+        target = ASSETS_ROOT / "editions/ja/bungo/new_testament/2_corinthians.json"
+        source_index = _index([Anchor(ch, first, last) for ch, units in base_chapters(base).items()
+                               for (first, last), _ in units], "JCB 2 Corinthians")
+        target_index = _index([Anchor(ch, first, last) for ch, units in alternate_chapters(target).items()
+                               for (first, last), _ in units], "Bungo 2 Corinthians")
+        forward = _rules_by_verse(rules, False)
+        reverse = _rules_by_verse(rules, True)
+        self.assertEqual(map_unit(Anchor(13, 12, 12), forward, target_index),
+                         (Anchor(13, 12, 13), "resolved"))
+        self.assertEqual(map_unit(Anchor(13, 13, 13), forward, target_index),
+                         (Anchor(13, 14, 14), "resolved"))
+        self.assertEqual(map_unit(Anchor(13, 12, 12), reverse, source_index, True),
+                         (Anchor(13, 12, 12), "resolved"))
+        self.assertEqual(map_unit(Anchor(13, 13, 13), reverse, source_index, True),
+                         (Anchor(13, 12, 12), "resolved"))
+        self.assertEqual(map_unit(Anchor(13, 14, 14), reverse, source_index, True),
+                         (Anchor(13, 13, 13), "resolved"))
+        self.assertEqual(map_unit(Anchor(13, 11, 13), forward, target_index),
+                         (Anchor(13, 11, 14), "resolved"))
+        self.assertEqual(map_unit(Anchor(13, 12, 14), reverse, source_index, True),
+                         (Anchor(13, 12, 13), "resolved"))
+
+    def test_reviewed_semantic_maps_respect_the_language_scope(self):
+        self.assertEqual([], reviewed_semantic_maps(("ko",)))
+        self.assertEqual(["ja"], [entry["language"] for entry in reviewed_semantic_maps(("ja",))])
 
     def test_japanese_combined_line_maps_whole_native_range(self):
         japanese = next(entry for entry in self.document["maps"] if entry["language"] == "ja")

@@ -16,7 +16,7 @@ L'Apocalypse énonce ses visions, avertissements et jugements ainsi que la victo
 
 ## Approches d'interprétation
 
-Lis l'Apocalypse avec les Écritures auxquelles elle puise. Daniel voit des bêtes, un tribunal céleste et le Fils de l'homme recevant la domination; Jean développe ces thèmes dans ses visions de la Bête et de la victoire du Christ (Daniel 7:1-14; Apocalypse 13:1-7; Apocalypse 19:11-21). Ézéchiel voit la demeure de Dieu et un fleuve vivifiant; l'Apocalypse s'achève avec la demeure de Dieu parmi son peuple et le fleuve de la vie (Ézéchiel 47:1-12; Apocalypse 21:3; Apocalypse 22:1-5). Ces liens expliquent les images avant qu'on attribue les événements à un schéma.
+Lis l'Apocalypse avec les Écritures dans lesquelles elle puise. Daniel voit des bêtes, un tribunal céleste et le Fils de l'homme recevant la domination; Jean développe ces thèmes dans ses visions de la Bête et de la victoire du Christ (Daniel 7:1-14; Apocalypse 13:1-7; Apocalypse 19:11-21). Ézéchiel voit la demeure de Dieu et un fleuve vivifiant; l'Apocalypse s'achève avec la demeure de Dieu parmi son peuple et le fleuve de la vie (Ézéchiel 47:1-12; Apocalypse 21:3; Apocalypse 22:1-5). Ces liens expliquent les images avant qu'on attribue les événements à un schéma.
 
 Trois questions distinctes façonnent les chronologies ci-dessous. L'approche d'interprétation demande quelle période une vision décrit. Le millénium demande comment les mille ans se rapportent au retour du Christ. La chronologie de l'enlèvement demande quand les croyants ressuscitent et rencontrent le Seigneur. Une réponse à l'une ne règle pas automatiquement les deux autres. Toute lecture doit rendre compte du retour réel du Christ, de la résurrection, du jugement et de la création nouvelle (Actes 1:9-11; Jean 5:28-29; Apocalypse 20:11-21:5).
 
@@ -24,7 +24,7 @@ Trois questions distinctes façonnent les chronologies ci-dessous. L'approche d'
 
 Les futuristes placent une grande partie d'Apocalypse 4-22 dans les événements qui entourent le retour futur du Christ. Leur meilleur argument se trouve dans les résultats décrits par Jean: défaite de la Bête, résurrection des saints, destruction finale de Satan et création sans mort (Apocalypse 19:19-21; Apocalypse 20:4-10; Apocalypse 21:1-4). Ces promesses dépassent la situation des sept Églises.
 
-Ce cadre relie aussi la détresse finale de Daniel à l'avertissement de Jésus concernant l'abomination et la grande détresse (Daniel 12:1-3; Matthieu 24:15-31). Il lit la persécution et l'autorité limitée de la Bête avec ces passages (Apocalypse 13:5-10). Les visions reçoivent ainsi une orientation future sans perdre leur pertinence pour les premiers lecteurs. Le Christ demandait déjà à ces Églises de résister au compromis et d'endurer la persécution (Apocalypse 2:10; Apocalypse 2:20-25).
+Ce cadre relie aussi la détresse finale de Daniel à l'avertissement de Jésus concernant la désolation et la grande détresse (Daniel 12:1-3; Matthieu 24:15-31). Il lit la persécution et l'autorité limitée de la Bête avec ces passages (Apocalypse 13:5-10). Les visions reçoivent ainsi une orientation future sans perdre leur pertinence pour les premiers lecteurs. Le Christ demandait déjà à ces Églises de résister au compromis et d'endurer la persécution (Apocalypse 2:10; Apocalypse 2:20-25).
 
 **Chronologie:** Églises historiques et endurance présente -> crise finale -> victoire du Christ -> résurrection, jugement et royaume achevé de Dieu. Les futuristes prémillénaristes placent le règne de mille ans avant le jugement dernier; la séquence détaillée paraît plus loin.
 
@@ -630,7 +630,7 @@ Le cadre de sept ans vient de la combinaison de l'Apocalypse et de Daniel.
 
 ## Prémillénarisme futuriste: visions qui se chevauchent
 
-Cette position conserve l'aboutissement prémillénariste d'Apocalypse 19-22, sans exiger que chaque sceau, trompette et coupe suive la série précédente sans chevauchement. Plusieurs cycles peuvent reprendre le conflit final sous des angles différents et progresser vers le même jour du Seigneur.
+Cette position conserve l'aboutissement prémillénariste d'Apocalypse 19-22 tout en permettant à certaines visions de couvrir la même période. L'ordre dans lequel Jean voit une vision ne détermine pas nécessairement le moment où ses événements commencent.
 
 **Chronologie courte:** ère de l'Église -> visions de jugement qui se chevauchent et s'intensifient -> retour visible du Christ -> règne millénaire -> dernière révolte de Satan -> jugement final -> nouvelle création.
 
@@ -682,11 +682,11 @@ L'amillénarisme comprend les mille ans comme le règne présent du Christ avec 
 
 **Chronologie courte:** première venue du Christ et règne céleste présent -> mission de l'Évangile, souffrance et conflit récurrent pendant l'ère de l'Église -> brève rébellion finale -> unique retour visible, résurrection générale et jugement final -> nouvelle création.
 
-### Lire le lien de Satan avec la première venue du Christ
+### Lire l'enchaînement de Satan à la lumière de la première venue du Christ
 
-Apocalypse 20:3 donne le but de ce lien: empêcher Satan d'égarer les nations jusqu'à sa libération. Jésus décrit son oeuvre comme l'entrée dans la maison d'un homme fort après l'avoir lié (Matthieu 12:28-29). Avant la croix, il annonce le jugement du prince de ce monde et attire les humains à lui lorsqu'il est élevé (Jean 12:31-33). Les amillénaristes relient ces passages à la progression de l'Évangile parmi les nations.
+Apocalypse 20:3 donne le but de cet enchaînement: empêcher Satan d'égarer les nations jusqu'à sa libération. Jésus décrit son oeuvre comme l'entrée dans la maison d'un homme fort après l'avoir lié (Matthieu 12:28-29). Avant la croix, il annonce le jugement du prince de ce monde et attire les humains à lui lorsqu'il est élevé (Jean 12:31-33). Les amillénaristes relient ces passages à la progression de l'Évangile parmi les nations.
 
-Ils comprennent donc le lien comme une restriction du pouvoir de Satan, non comme l'absence de toute activité satanique. Cette distinction compte, puisque les apôtres avertissent encore les croyants contre le diable (1 Pierre 5:8-9). Les prémillénaristes répondent que l'enfermement dans l'Abîme scellé décrit une contrainte plus forte que celle visible aujourd'hui (Apocalypse 20:1-3). Les deux lectures doivent rendre compte du but déclaré et de la force de l'image.
+Ils comprennent donc l'enchaînement comme une restriction du pouvoir de Satan, non comme l'absence de toute activité satanique. Cette distinction compte, puisque les apôtres avertissent encore les croyants contre le diable (1 Pierre 5:8-9). Les prémillénaristes répondent que l'enfermement dans l'Abîme scellé décrit une contrainte plus forte que celle visible aujourd'hui (Apocalypse 20:1-3). Les deux lectures doivent rendre compte du but déclaré et de la force de l'image.
 
 ### Lire la vie et le règne des saints avec le Christ
 
@@ -740,7 +740,7 @@ Paul dit aussi :
 >
 > **1 Corinthiens 15:51-52**
 
-Le verbe grec traduit par « enlevés » est **harpazo**, qui signifie saisir ou enlever. Le terme théologique français « enlèvement » traduit ce concept que le latin a rendu à l'origine du mot anglais correspondant.
+Le verbe grec traduit par « enlevés » est **harpazo**, qui signifie saisir ou enlever. Le terme théologique anglais « rapture », correspondant au français « enlèvement », vient en dernier ressort de la traduction latine de ce concept.
 
 Le désaccord ne porte pas sur le fait que les croyants seront enlevés pour rencontrer le Christ. Cela est clair dans les Écritures. Le désaccord porte sur le moment **où** cela se produira.
 

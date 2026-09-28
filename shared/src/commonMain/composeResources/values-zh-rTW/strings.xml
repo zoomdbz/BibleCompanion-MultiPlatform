@@ -457,4 +457,9 @@
     <string name="ui_color_violet">紫羅蘭色</string>
     <string name="ui_color_magenta">洋紅色</string>
     <string name="ui_color_rose">玫瑰色</string>
+    <string name="ui_primary_color">主色</string>
+    <string name="ui_secondary_color">輔色</string>
+    <string name="ui_tertiary_color">強調色</string>
+    <string name="ui_custom_palette_hint">分別選擇每種顏色，或讓兩種輔助色與主色協調。</string>
+    <string name="ui_match_accent_colors">將輔助色與主色協調</string>
 </resources>

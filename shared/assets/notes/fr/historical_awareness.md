@@ -1,6 +1,6 @@
 # Conscience Historique
 
-Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été façonnée par la traduction, la politique, l’adaptation culturelle et la suppression afin de voir plus clairement les enseignements originaux de Jésus.
+Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été façonnée par la traduction, la politique, les emprunts culturels et la suppression afin de voir plus clairement les enseignements originaux de Jésus.
 
 ---
 
@@ -38,7 +38,7 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 **(Néhémie 8:8)** : « Ils lisaient distinctement dans le livre de la loi de Dieu et en donnaient le sens pour faire comprendre la lecture. »  
 ➡ La Bible a toujours été destinée à être comprise.
 
-**Histoire :** L’Ancien Testament fut traduit en grec (Septante) aux IIIe–IIe siècles av. J.-C. Plus tard, la Vulgate latine de Jérôme domina, introduisant parfois des distorsions (« repentez-vous » devint « faites pénitence »). En 1611, le roi Jacques approuva la Bible anglaise, influencée par la politique. Les Manuscrits de la mer Morte confirmèrent la variété des textes hébreux.
+**Histoire :** L’Ancien Testament fut traduit en grec (la Septante) aux IIIe–IIe siècles av. J.-C. Plus tard, la Vulgate latine de Jérôme domina l’Église, introduisant parfois des distorsions : « se repentir » devint « faire pénitence ». Lorsque le roi Jacques autorisa sa Bible anglaise en 1611, la politique influença certains choix. Les manuscrits de la mer Morte confirmèrent ensuite la diversité des textes hébreux utilisés, montrant qu’il n’existait pas un seul original « parfait ».
 
 **Conclusion :** Les traductions comptent. Le choix des mots peut transformer des croyances entières.
 
@@ -64,16 +64,16 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 - **Jacques Ier d’Angleterre (1611) :** a autorisé la version King James de la Bible, qui a eu une influence politique.
 
-**Conclusion :** La religion est devenue un outil de l’empire, exactement comme Jésus l’avait annoncé.
+**Conclusion :** La religion est devenue un outil de l’empire, exactement ce contre quoi Jésus avait mis en garde.
 
 ---
 
 ## 4. Persécution et réformes
 
 **(Jean 16:2)** : « L’heure vient où quiconque vous tuera pensera rendre un culte à Dieu. »  
-➡ Jésus annonça la persécution.
+➡ Jésus annonça des persécutions commises en son nom.
 
-**Histoire :** Les réformateurs voulurent rendre la Bible au peuple. John Wycliffe traduisit en anglais et fut condamné même après sa mort. William Tyndale fut exécuté en 1536 pour sa traduction. Les 95 thèses de Luther en 1517 déclenchèrent la Réforme. Le Concile de Trente (1545–1563) renforça l’autorité de l’Église.
+**Histoire :** Les réformateurs tentèrent de rendre l’Écriture au peuple. John Wycliffe la traduisit en anglais et fut condamné même après sa mort. William Tyndale fut exécuté en 1536 pour sa traduction anglaise. Les 95 thèses de Martin Luther en 1517 déclenchèrent la Réforme protestante. Le concile catholique de Trente (1545–1563) renforça encore le contrôle.
 
 **Conclusion :** Ceux qui défièrent la corruption payèrent souvent de leur vie.
 
@@ -82,12 +82,12 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 ## 5. Textes perdus et supprimés
 
 **(Jude 1:14–15)** : « Hénoc, le septième après Adam, a prophétisé... »  
-➡ Jude cite directement Hénoc.
+➡ Jude cite directement le Livre d’Hénoc.
 
 **(Colossiens 4:16)** : « Lisez aussi cette lettre dans l’église des Laodicéens, et vous-mêmes lisez celle de Laodicée. »  
 ➡ Paul mentionne une lettre perdue.
 
-**Histoire :** Le Livre d’Hénoc fut précieux pour les premiers chrétiens mais fut plus tard exclu. La découverte de Nag Hammadi (1945) révéla l’Évangile de Thomas et d’autres écrits. Les Manuscrits de la mer Morte (1947) montrèrent des textes alternatifs. Beaucoup furent supprimés car ils menaçaient l’autorité institutionnelle.
+**Histoire :** Les premiers chrétiens estimaient le Livre d’Hénoc, mais il fut exclu par la suite. La découverte de Nag Hammadi (1945) mit au jour l’Évangile de Thomas et d’autres écrits. Les manuscrits de la mer Morte (1947) révélèrent des textes perdus et des manuscrits différents. Beaucoup d’écrits furent supprimés parce qu’ils menaçaient le contrôle institutionnel.
 
 **Conclusion :** La Bible reconnaît elle-même des livres manquants; l’histoire montre que certains furent écartés volontairement.
 
@@ -208,7 +208,7 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 - Ainsi, la plupart des chercheurs situent la crucifixion soit le **7 avril 30 apr. J.-C.**, soit le **3 avril 33 apr. J.-C.**, la dernière étant souvent privilégiée.
 
-- La plus ancienne fête de la résurrection fut la *Pascha* (Pessa’h chrétien).
+- La plus ancienne fête de la résurrection, la *Pascha*, était célébrée lors de la Pâque.
 
 - Les quartodécimans la célébraient le 14 Nisan quel que soit le jour ; d’autres le dimanche suivant.
 
@@ -216,13 +216,13 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 - En Europe, on incorpora plus tard des symboles saisonniers : œufs, lièvres et images de fécondité liées au printemps.
 
-- Le nom anglais « Easter » vient de Bède, qui mentionna un nom de mois local (*Eosturmonath*). La plupart des langues gardent des formes de « Pascha. » Les affirmations populaires sur Ishtar sont répandues mais discutées ; il n’existe pas de textes antiques directs, bien que l’intégration de symboles de fécondité fût courante.
+- Le nom anglais « Easter » vient de Bède, qui mentionna un nom de mois local (*Eosturmonath*). La plupart des langues gardent des formes de « Pascha. » Les affirmations populaires sur Ishtar sont répandues mais discutées ; il n’existe aucun lien textuel direct, bien que des images de fécondité printanière aient couramment été mêlées à la fête.
 
 ---
 
 ### Syncrétisme au-delà du Calendrier
 
-- De nombreuses fêtes chrétiennes et jours de saints absorbèrent des pratiques païennes locales, en remplaçant des dieux anciens par des saints ou en réinterprétant les rituels avec des significations chrétiennes.
+- De nombreuses fêtes chrétiennes et fêtes de saints absorbèrent des **pratiques païennes locales**, en associant des saints à des dieux ou à des fêtes plus anciens.
 
 - Cela facilita l’adoption culturelle du christianisme, mais introduisit aussi des coutumes non enracinées dans l’Écriture.
 
@@ -262,7 +262,7 @@ Célébrée en retirant tout levain des maisons et en mangeant du pain sans leva
 (Exode 12:15–20) (Lévitique 23:6–8) (Luc 23:50–56) (1 Corinthiens 5:8)
 
 **4. Premiers Fruits**  
-Offrande de la première récolte; accomplie dans la résurrection du Christ comme premier-né d’entre les morts.  
+Offrande de la première récolte; accomplie dans la résurrection du Christ comme prémices de ceux qui ressuscitent d’entre les morts.  
 Célébrée en offrant la première portion de la récolte en remerciement à Dieu, souvent exprimée par la prière, la charité ou une offrande de gratitude.  
 (Lévitique 23:9–14) (Deutéronome 26:1–11) (1 Corinthiens 15:20–23) (Romains 8:29)
 
@@ -298,7 +298,7 @@ Célébrée en construisant et en habitant des abris temporaires appelés *soukk
 
 **Noël**  
 Non ordonné dans l’Écriture; le 25 décembre a été adopté des fêtes romaines *Sol Invictus* et *Saturnalia* célébrant la renaissance du soleil. La Bible ne donne aucune date pour la naissance du Messie et n’ordonne pas de la célébrer.  
-(Jérémie 10:2–4) (Deutéronome 12:29–32) (Marc 7:8–9)
+(Jérémie 10:2–4) (Deutéronome 12:29–13:1) (Marc 7:8–9)
 
 **Pâques (Easter)**  
 À l’origine la fête de la Pâque et de la Résurrection (*Pessa’h*); plus tard mêlée à des symboles solaires et de fertilité après le Concile de Nicée. Le mot anglais « Easter » vient de coutumes printanières locales et non de l’Écriture.  
@@ -316,7 +316,7 @@ Apparus lorsque le christianisme s’est répandu dans des régions païennes; l
 
 ### **Résumé**
 
-Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fixés par Dieu dans (Lévitique 23) et éviter les fêtes enracinées dans le syncrétisme païen ou impérial. Les fêtes fixées comprennent le Sabbat, la Pâque, les Pains sans Levain, les Premiers Fruits, Shavouot, les Trompettes, le Jour des Expiations et Soukkot; ensemble, elles forment le calendrier prophétique de la rédemption. Elles révèlent l’œuvre du Messie dans son accomplissement passé et sa promesse future. Célébrer ces temps divins approfondit la compréhension de l’alliance de Dieu et sépare le croyant des traditions humaines qui obscurcissent la vérité biblique.  
+Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fixés par Dieu dans (Lévitique 23) et éviter les fêtes enracinées dans le syncrétisme païen ou impérial. Les fêtes fixées comprennent le Sabbat, la Pâque, les Pains sans Levain, les Premiers Fruits, Shavouot, les Trompettes, le Jour des Expiations et Soukkot; ensemble, elles forment le calendrier prophétique de la rédemption. Elles révèlent l’œuvre du Messie dans son accomplissement passé et sa promesse future. Célébrer ces temps divins approfondit la compréhension du rythme de l’alliance de Dieu et sépare le croyant des traditions humaines qui obscurcissent la vérité biblique.  
 (Jérémie 10:2) (Matthieu 15:3) (Colossiens 2:16–17) (Romains 11:17–18)
 
 - L’Écriture avertit de ne pas adopter les coutumes religieuses des nations environnantes (Jérémie 10:2–4).
@@ -359,12 +359,12 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 ## 7. Pouvoir et contrôle
 
 **(Osée 4:6)** : « Mon peuple est détruit faute de connaissance. »  
-➡ Le peuple souffre sans vérité.
+➡ Le peuple de Dieu souffre lorsqu’on le prive de la vérité.
 
 **(Matthieu 23:13)** : « Vous fermez aux gens le royaume des cieux. »  
 ➡ Les chefs religieux bloquaient l’accès à Dieu.
 
-**Histoire :** Pendant des siècles, seule la lecture en latin était permise. Le peuple ne pouvait y accéder. En 1559, l’Église publia l’Index des livres interdits. On vendait des indulgences contre de l’argent. L’imprimerie brisa ce monopole et diffusa la Bible dans les langues communes.
+**Histoire :** Pendant des siècles, seuls les prêtres pouvaient lire la Bible en latin. Les gens ordinaires n’avaient pas le droit d’y accéder. L’Église créa l’Index des livres interdits en 1559 pour proscrire des écrits. Les indulgences vendaient le salut contre de l’argent. L’imprimerie brisa ce monopole en diffusant l’Écriture dans les langues courantes.
 
 **Conclusion :** Les institutions contrôlèrent le savoir pour garder le pouvoir.
 
@@ -372,7 +372,7 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 
 ## 8. Échos modernes
 
-**(2 Timothée 4:3–4)** : « Car il viendra un temps où les hommes ne supporteront pas la saine doctrine… ils se donneront une foule de docteurs selon leurs propres désirs. »  
+**(2 Timothée 4:3–4)** : « Ils ne supporteront pas la saine doctrine. Au contraire… ils s’entoureront de maîtres qui diront ce que leurs oreilles impatientes veulent entendre. »  
 ➡ L’Écriture avertit contre la déformation par confort et par pouvoir.
 
 **Histoire :** Les débats actuels sur les traductions, le langage inclusif et la sexualité rappellent les luttes anciennes pour le contrôle. L’évangile de prospérité enseigne que la richesse est la volonté de Dieu, semblable à l’époque médiévale où l’Église vendait des indulgences (en réalité des « billets pour le ciel » contre de l’argent). Le christianisme est aujourd’hui divisé en des dizaines de milliers de dénominations, souvent plus façonnées par la culture, la tradition ou la politique que par les paroles mêmes de Jésus. Partout dans le monde, la persécution augmente de nouveau, et la vérité biblique est ignorée ou adaptée aux désirs de la société.
@@ -400,7 +400,6 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 
 - **Comparaison avec d’autres écrits :** Aucun autre texte ancien n’a autant de preuves. Les écrits de Platon ou de César subsistent en seulement quelques manuscrits, et pourtant personne ne les remet en cause. La Bible en possède des milliers, avec moins de 1 % de variations, dont aucune ne change le message du salut.
 
-**Conclusion :** La Bible est préservée non seulement par la foi mais aussi par l’histoire. Sans la résurrection, le christianisme aurait disparu au premier siècle. Au contraire, il s’est répandu dans le monde entier parce que le message était vrai. Des générations de croyants ont donné leur vie pour transmettre ce témoignage : le salut par la grâce, par la foi en Jésus-Christ, et non par les œuvres de la loi que nul ne pouvait accomplir totalement. Ce message reste clair et inchangé aujourd’hui.  
+**Conclusion :** La Bible est non seulement préservée par la foi, mais aussi attestée par l’histoire. Sans la résurrection, le christianisme aurait disparu au premier siècle. Au contraire, il s’est répandu dans le monde entier parce que le message était vrai. Des générations de croyants ont donné leur vie pour transmettre ce témoignage : le salut par la grâce, par la foi en Jésus-Christ, et non par les œuvres de la loi que nul ne pouvait accomplir totalement. Ce message reste clair et inchangé aujourd’hui.  
 
 La Bible est reliée par plus de 63 000 références croisées, formant un vaste réseau de connexions qui se sont développées naturellement au cours des siècles d’écriture. De Moïse dans le désert aux prophètes d’Israël jusqu’aux apôtres du premier siècle, chaque génération d’auteurs a repris, cité et développé ce qui avait été écrit auparavant. Ces connexions couvrent 1 500 ans et relient 66 livres écrits en hébreu, en araméen et en grec par environ 40 auteurs sur trois continents. Loin d’être une construction artificielle, cette tapisserie a grandi de façon organique : les psaumes de David rappellent la Torah, les prophéties d’Ésaïe annoncent le Messie, et le Nouveau Testament s’ancre dans chaque partie de l’Ancien Testament pour montrer que Jésus est l’accomplissement des promesses de Dieu. Aujourd’hui, les chercheurs ont retracé et visualisé ces références croisées sous forme d’arcs lumineux ; plus de 63 000 liens tissant une histoire continue de rédemption. La densité et l’harmonie de ces interconnexions démontrent l’unicité de la Bible : aucun autre livre de l’histoire, écrit sur une si longue période par tant d’auteurs, ne présente une telle cohérence, précision et finalité.
-

@@ -8,7 +8,7 @@ Et
 
 2) Jésus est Dieu  
 
-*Remarque : Les notes de traduction dans ce document montrent comment les textes originaux (hébreu, grec et araméen) expriment directement les termes liés à l’identité divine de Jésus. Il ne s’agit pas de traductions du français vers l’hébreu, le grec ou l’araméen, mais de références aux langues les plus anciennes de l’Écriture qui soutiennent la divinité de Jésus.*  
+*Remarque : Les notes de traduction dans ce document montrent comment les textes originaux (hébreu, grec et araméen) expriment directement les termes liés à l’identité divine de Jésus. Il ne s’agit pas de traductions du français vers l’hébreu, le grec ou l’araméen, mais des témoignages linguistiques les plus anciens à l’appui de la divinité de Jésus.*  
 
 ---
 
@@ -120,7 +120,7 @@ Et
   - Grec : ἐγώ εἰμι (*egō eimi*)  
   - Araméen : אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
   - **Français :** « JE SUIS »  
-  - *Contexte : Jésus applique à lui-même le nom divin de l’auto-révélation de l’Exode.*  
+  - *Contexte : Jésus applique directement à lui-même la révélation que Dieu donne de lui-même dans l’Exode.*  
 
 -  Jean 10:30 : « Le Père et moi, nous sommes un. »  
 
@@ -177,7 +177,7 @@ Et
 
 -  Philippiens 2:6–11 : Sous forme de Dieu ; tout genou fléchira ; écho d’Isaïe 45.  
 
--  Colossiens 1:15–20 ; 2:9 : La plénitude de la divinité habite corporellement ; créateur et souteneur.  
+-  Colossiens 1:15–20 ; 2:9 : La plénitude de la divinité habite corporellement ; créateur et soutien de toutes choses.  
 
 -  Tite 2:13 : Notre grand Dieu et Sauveur, Jésus-Christ.  
 
@@ -187,7 +187,7 @@ Et
 
 
 **Notes pour les lecteurs**  
--  Dans les Évangiles, Jésus non seulement affirme l’unité avec le Père mais exerce des prérogatives divines : pardonner les péchés, gouverner la création, partager le nom et la gloire divins et accepter l’adoration. Les apôtres le décrivent ensuite avec des titres divins sans ambiguïté.  
+-  Dans les Évangiles, Jésus non seulement affirme l’unité avec le Père mais exerce des prérogatives qui appartiennent à Dieu seul : pardonner les péchés, gouverner la création, partager le nom et la gloire divins et accepter l’adoration. Les apôtres le décrivent ensuite avec des titres divins sans ambiguïté.  
 
 
 ---
@@ -257,11 +257,11 @@ Jésus n’a pas été abandonné dans sa divinité. Il a **choisi d’entrer da
 ## Jésus et l’Accomplissement des Prophéties
 Jésus n’a pas seulement accompli une ou deux prophéties. Les érudits comptent **plus de 300 prophéties messianiques** dans l’Ancien Testament qui pointent vers Lui. Celles-ci incluent Sa naissance, Sa lignée, Son ministère, Sa trahison, Sa crucifixion, Sa résurrection et Son exaltation.
 
-- Statistiquement, la probabilité qu’un seul homme accomplisse même 8 prophéties est d’environ **1 sur 10^17** (cent quadrillions).
+- Statistiquement, la probabilité qu’un seul homme accomplisse même 8 prophéties est d’environ **1 sur 10^17** (cent millions de milliards).
 
 - La probabilité d’en accomplir 48 est d’environ **1 sur 10^157**, ce qui est essentiellement impossible par hasard.
 
-- Jésus en a accompli des centaines, ce qui rend écrasant d’un point de vue mathématique le fait qu’Il soit le Messie.
+- Jésus en a accompli des centaines, ce qui rend écrasant d’un point de vue mathématique le fait que Lui seul soit le Messie.
 
 Exemples incluent :
 

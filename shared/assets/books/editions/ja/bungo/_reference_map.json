@@ -8099,10 +8099,23 @@
         {
           "sourceChapter": 13,
           "sourceVerse": 1,
-          "sourceVerseEnd": 13,
+          "sourceVerseEnd": 11,
           "targetChapter": 13,
           "targetVerse": 1,
+          "targetVerseEnd": 11
+        },
+        {
+          "sourceChapter": 13,
+          "sourceVerse": 12,
+          "targetChapter": 13,
+          "targetVerse": 12,
           "targetVerseEnd": 13
+        },
+        {
+          "sourceChapter": 13,
+          "sourceVerse": 13,
+          "targetChapter": 13,
+          "targetVerse": 14
         }
       ]
     },
@@ -9924,6 +9937,13 @@
         "evidenceManifestSha256": "a16b5650979c3bdffa88892ab08f590a70c3a17a0d322e7029c8ade13a379837",
         "mappedChapters": 1189,
         "skippedChapters": {}
+      },
+      {
+        "replacesPreviouslyMappedIdentityUnits": true,
+        "method": "Reviewed closing-boundary bridge. JCB 13:12 combines the mutual greeting and the saints' greeting found in Bungo 13:12-13; the grace-love-fellowship benediction is JCB 13:13 and Bungo 13:14. Native verses remain whole.",
+        "sourceAuthority": "Checked-in JCB primary chapter: shared/assets/books/new_testament/ja/2_corinthians.json",
+        "targetAuthority": "Checked-in Bungo overlay: shared/assets/books/editions/ja/bungo/new_testament/2_corinthians.json",
+        "reviewDate": "2026-09-28"
       }
     ]
   }

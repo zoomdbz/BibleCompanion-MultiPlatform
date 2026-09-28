@@ -1,6 +1,6 @@
 # Le retour du Christ et l'enlèvement
 
-L'espérance chrétienne a pour centre le retour de Jésus-Christ. Il revient dans le corps qui a quitté la terre. Les morts ressuscitent. Les croyants encore vivants sont transformés. Le peuple de Dieu, jusque-là dispersé, se rassemble auprès de son Roi. Le mal perd l'autorité qu'il avait usurpée, la mort perd ses droits, et le Christ règne.
+L'espérance chrétienne a pour centre le retour de Jésus-Christ. Il revient dans le corps qui a quitté la terre. Les morts ressuscitent. Les croyants encore vivants sont transformés. Le peuple de Dieu, jusque-là dispersé, se rassemble auprès de son Roi. Le mal perd son autorité d'emprunt, la mort perd ses droits, et le Christ règne.
 
 L'Écriture affirme clairement ce centre. Les chrétiens divergent sur l'ordre des événements qui l'entourent: tribulation, rassemblement, colère divine, jugement et millénium. Cette étude commence par ce que disent les passages, puis examine les liens proposés entre eux. Une image répétée peut montrer un même événement sous un autre angle; la ressemblance seule n'abolit toutefois pas le contexte.
 
@@ -132,7 +132,7 @@ Le passage ne définit pas les chambres. Elles peuvent rappeler l'abri des maiso
 
 ### Les ossements desséchés
 
-Les ossements représentent «toute la maison d'Israël», qui dit que son espoir est perdu (Ézéchiel 37:11). Dieu ouvre les tombeaux, fait remonter son peuple, met son souffle en lui, le ramène sur sa terre et le fait vivre (Ézéchiel 37:12-14). Dans le contexte de l'exil, la vision promet une restauration nationale à un peuple qui se considère comme mort.
+Les ossements représentent «toute la maison d'Israël», qui dit que son espoir est perdu (Ézéchiel 37:11). Dieu ouvre les tombeaux, fait remonter son peuple, met son Esprit en lui, le ramène sur sa terre et le fait vivre (Ézéchiel 37:12-14). Dans le contexte de l'exil, la vision promet une restauration nationale à un peuple qui se considère comme mort.
 
 Le langage dépasse aussi la simple survie politique. Tombeaux ouverts, corps relevés, souffle divin et vie restaurée emploient pleinement le vocabulaire de la résurrection. Daniel 12:2 promet que ceux qui dorment dans la poussière se réveilleront. Ésaïe 26:19 dit que les cadavres se relèveront. Le Nouveau Testament situe ensuite la résurrection corporelle lors de la venue du Christ (1 Corinthiens 15:22-23; 1 Thessaloniciens 4:16).
 
@@ -178,7 +178,7 @@ Ce calcul peut servir de motif à examiner. Il ne peut porter le poids d'une pro
 
 ## Daniel, la vigilance et les limites du calcul
 
-Daniel 12 réunit dans un même chapitre la détresse, la délivrance, la résurrection, une révélation scellée et une compréhension croissante. Une détresse sans précédent survient; le peuple de Dieu est délivré; ceux qui dorment dans la poussière se réveillent; les intelligents brillent (Daniel 12:1-3). Daniel doit tenir secrètes les paroles et sceller le livre jusqu'au temps de la fin, lorsque beaucoup chercheront et que la connaissance augmentera (Daniel 12:4). Il entend ensuite que les paroles resteront secrètes et scellées jusqu'au temps de la fin; les gens avisés comprendront, mais les méchants ne comprendront pas (Daniel 12:8-10).
+Daniel 12 réunit dans un même chapitre la détresse, la délivrance, la résurrection, une révélation scellée et une compréhension croissante. Une détresse sans précédent survient; le peuple de Dieu est délivré; ceux qui dorment dans la poussière se réveillent; les intelligents brillent (Daniel 12:1-3). Daniel doit tenir secrètes les paroles et sceller le livre jusqu'au temps de la fin, lorsque beaucoup iront et viendront et que la connaissance augmentera (Daniel 12:4). Il entend ensuite que les paroles resteront secrètes et scellées jusqu'au temps de la fin; les gens avisés comprendront, mais les méchants ne comprendront pas (Daniel 12:8-10).
 
 Cette promesse signifie que les lecteurs ultérieurs peuvent attendre une compréhension véritable. Elle ne dit pas que les sages calculeront la date du retour du Christ. Dans le contexte, la sagesse comprend la purification, la fidélité et l'intelligence de la crise révélée. Daniel reçoit des périodes de 1 290 et 1 335 jours, mais leur point de départ et leur relation avec les événements ultérieurs restent discutés (Daniel 12:11-12).
 
@@ -232,7 +232,7 @@ Sa force est le langage commun de venue, de nuées, de trompette, de résurrecti
 
 ### Lectures amillénaristes et postmillénaristes
 
-Ces lectures placent généralement la résurrection, l'enlèvement, le jugement et le renouvellement final lors d'un seul retour public. Elles remarquent que Jésus réunit la résurrection des justes et celle des injustes dans une même heure à venir (Jean 5:28-29), et qu'il juge les nations lorsqu'il vient dans sa gloire (Matthieu 25:31-46). Elles divergent surtout des lectures prémillénaristes sur Apocalypse 20. Les amillénaristes comprennent les mille ans comme le règne céleste actuel du Christ et lisent souvent les visions de l'Apocalypse comme des récapitulations du même âge sous des angles différents. Les postmillénaristes attendent la croissance historique du royaume, semblable au grain de moutarde et au levain (Matthieu 13:31-33), par l'autorité présente du Christ et la formation de disciples parmi toutes les nations (Matthieu 28:18-20), avant son retour. Les deux comprennent couramment la rencontre de 1 Thessaloniciens 4 comme l'accueil du Roi qui arrive par l'Église.
+Ces lectures placent généralement la résurrection, l'enlèvement, le jugement et le renouvellement final lors d'un seul retour public. Elles remarquent que Jésus réunit la résurrection des justes et celle des injustes dans une même heure à venir (Jean 5:28-29), et qu'il juge les nations lorsqu'il vient dans sa gloire (Matthieu 25:31-46). Elles divergent surtout des lectures prémillénaristes sur Apocalypse 20. Les amillénaristes comprennent les mille ans symboliquement, comme le règne céleste actuel du Christ et lisent souvent les visions de l'Apocalypse comme des récapitulations du même âge sous des angles différents. Les postmillénaristes attendent la croissance historique du royaume, semblable au grain de moutarde et au levain (Matthieu 13:31-33), par l'autorité présente du Christ et la formation de disciples parmi toutes les nations (Matthieu 28:18-20), avant son retour. Les deux comprennent couramment la rencontre de 1 Thessaloniciens 4 comme l'accueil du Roi qui arrive par l'Église.
 
 Leur force réside dans l'unité du retour final et dans l'attention portée aux cycles de l'Apocalypse. Leur principal désaccord avec le prémillénarisme concerne l'ordre chronologique entre Apocalypse 19 et Apocalypse 20, ainsi que la nature corporelle ou spirituelle de la première résurrection d'Apocalypse 20:4-6.
 

@@ -18,13 +18,13 @@ La Biblia proporciona pruebas claras para identificar falsos profetas, falsos ma
 - **Mateo 7:15–20** – Los falsos profetas se reconocen por sus frutos.
 - **1 Juan 4:1–3** – La confesión verdadera afirma que Jesucristo ha venido en carne.
 - **Gálatas 1:8–9** – Cualquier evangelio alterado debe ser rechazado, aunque se presente como divino.
-- **2 Pedro 2:1–3** – Los falsos maestros introducen herejías destructivas y explotan con palabras falsas.
+- **2 Pedro 2:1–3** – Los falsos maestros introducen doctrinas destructivas y explotan a sus seguidores.
 
 **Las señales de advertencia comunes incluyen:**
 
 - Nueva revelación que reemplaza o revisa la Escritura
 - Negación de la plena deidad o la verdadera humanidad de Jesús
-- Fechas o cronogramas secretos para el fin
+- Fijación de fechas o cronologías secretas para el fin
 - Salvación ligada a un grupo, rituales, conocimiento secreto u obras
 - Traducciones bíblicas controladas por la organización
 - Líderes que equiparan la fe con riqueza, poder o estatus
@@ -33,7 +33,7 @@ La Biblia proporciona pruebas claras para identificar falsos profetas, falsos ma
 
 ### Conclusión bíblica
 
-La Escritura ordena probar a todo maestro y todo mensaje.
+La Escritura ordena a los creyentes poner a prueba a todo maestro y todo mensaje.
 
 Si una enseñanza cambia quién es Jesús, cambia el evangelio o añade requisitos más allá de la fe en Cristo, no es cristianismo bíblico.
 
@@ -249,7 +249,7 @@ Manteneos firmes en la fe entregada una vez para siempre a los santos (Judas 3).
 
 - Cómo se usa: Iglesias y líderes han usado históricamente versículos como Malaquías 3:10 y Mateo 23:23 para exigir diezmos mientras se enriquecen.
 
-- La verdad: Jesús reprendió a los fariseos por diezmar y descuidar la justicia y la misericordia. En el NT, el dar nunca es coercitivo ni para lucro de líderes.
+- La verdad: Jesús reprendió a los fariseos por diezmar y descuidar la justicia y la misericordia. En el Nuevo Testamento, dar nunca es coercitivo ni sirve al enriquecimiento personal de los líderes.
 
 - (Mateo 23:23): «¡Ay de vosotros, escribas y fariseos, hipócritas! porque diezmáis la menta y el eneldo y el comino, y dejáis lo más importante de la ley: la justicia, la misericordia y la fe. Esto era necesario hacer, sin dejar de hacer aquello.»
 
@@ -259,7 +259,7 @@ Manteneos firmes en la fe entregada una vez para siempre a los santos (Judas 3).
 
 ---
 
-## Falsos evangelios de licencia
+## Falsos evangelios de libertinaje
 
 - Cómo se usa: Falsos maestros minimizan el pecado sexual, predicando un «evangelio diferente» que excusa la fornicación o la sensualidad.
 
@@ -426,7 +426,7 @@ No toda frase que la gente cita como «verdad bíblica» está realmente en la B
 
 ---
 
-## **Conclusión (Takeaway):**  
+## **Conclusión:**  
 La Biblia debe leerse en su contexto completo. Las distorsiones surgen cuando se tuercen versículos o cuando dichos culturales se hacen pasar por Escritura. La Palabra de Dios no sirve al nacionalismo, la coacción, la corrupción, la predicación de prosperidad ni a falsos evangelios: señala a Cristo, quien es Señor sobre toda nación, cultura, líder y vida individual.
 
 **Patrón:**  

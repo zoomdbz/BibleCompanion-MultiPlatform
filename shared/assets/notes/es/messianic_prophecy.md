@@ -4,7 +4,7 @@ Las Escrituras hebreas preparan la llegada del Mesías mediante promesas, retrat
 
 Debemos dar a cada conexión el peso que le corresponde. Algunos pasajes reciben una declaración explícita de cumplimiento en el Nuevo Testamento. Otros forman un patrón que los apóstoles emplean para explicar la persona y la obra de Cristo. Un tercer grupo contiene paralelos sugerentes. Esos paralelos pueden enriquecer un estudio cuidadoso, pero por sí solos no pueden sostener una doctrina ni fijar una fecha.
 
-Comienza por el contexto del Antiguo Testamento. Después lee cómo lo emplea el Nuevo Testamento. El cumplimiento no borra el contexto inicial. Revela cómo una palabra, persona, institución o acontecimiento anterior alcanza un propósito más pleno en Cristo.
+Comienza por el contexto del Antiguo Testamento. Después lee cómo lo emplea el Nuevo Testamento. El cumplimiento no borra el contexto inicial. Revela cómo una palabra anterior de Dios, una persona, una institución o un acontecimiento alcanza un propósito más pleno en Cristo.
 
 ---
 
@@ -40,9 +40,9 @@ El uso de Mateo no descarta la crisis histórica de Isaías. Dios demostró su f
 
 ### Belén y el gobernante cuyo origen es antiguo
 
-Miqueas habla a una nación bajo juicio y promete un gobernante de Belén cuyo origen se remonta a la antigüedad (Miqueas 5:1-5). Los jefes de los sacerdotes y los maestros de la ley identifican ese lugar como el nacimiento esperado del Mesías, y Mateo registra que Jesús nació allí (Mateo 2:1-6).
+Miqueas habla a una nación bajo juicio y promete un gobernante de Belén cuyo origen se remonta a la antigüedad (Miqueas 5:1-5). Los jefes de los sacerdotes y los maestros de la ley identifican ese lugar como el lugar donde se esperaba que naciera el Mesías, y Mateo registra que Jesús nació allí (Mateo 2:1-6).
 
-Belén conserva la memoria de David. David procedía de esa pequeña población (1 Samuel 16:1, 11-13). El Mesías, mayor que David, también procede de un lugar que parece pequeño y después pastorea con el poder del SEÑOR (Miqueas 5:4; Mateo 2:6).
+Belén conserva la memoria de David. David procedía de esa pequeña población (1 Samuel 16:1, 11-13). El Hijo de David, mayor que él, también procede de un lugar que parece pequeño y después pastorea con el poder del SEÑOR (Miqueas 5:4; Mateo 2:6).
 
 ### De Israel, pasando por Egipto, hacia un nuevo éxodo
 

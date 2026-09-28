@@ -55,7 +55,7 @@ Por isso o *mal’akh YHWH* é tratado como o próprio YHWH, ainda que distinto 
 | **Adoração** | Aceita adoração (Juízes 13:20–22) | Recusa adoração (Apocalipse 19:10; 22:8–9) |
 | **Identidade declarada** | Chamado diretamente de «YHWH» (Êxodo 3:2–6; Gênesis 16:13) | Chamado apenas de «mensageiro» |
 | **Sinal de partida** | Desaparece em fogo ou glória (Juízes 6:21; 13:20) | Simplesmente vai embora |
-| **Gramática hebraica** | *Mal’akh YHWH* (unidade construtiva) | *Mal’akh Elohim* (posse/separação) |
+| **Gramática hebraica** | *Mal’akh YHWH* (unidade do estado construto) | *Mal’akh Elohim* (posse/separação) |
 
 ---
 

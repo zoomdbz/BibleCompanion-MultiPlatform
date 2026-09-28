@@ -71,6 +71,24 @@ class EditionReferenceMapTest {
   }
 
   @Test
+  fun japaneseSecondCorinthiansClosingSplitMapsBothDirections() {
+    val closing = EditionBookReferenceMap("2_corinthians", mappings = listOf(
+      EditionReferenceRule(13, 1, 11, 13, 1, 11),
+      EditionReferenceRule(13, 12, targetChapter = 13, targetVerse = 12, targetVerseEnd = 13),
+      EditionReferenceRule(13, 13, targetChapter = 13, targetVerse = 14)
+    ))
+    assertEquals(VerseAnchor(13, 1, 11), mapEditionReference(closing, VerseAnchor(13, 1, 11)))
+    assertEquals(VerseAnchor(13, 1, 11), mapEditionReference(closing, VerseAnchor(13, 1, 11), reverse = true))
+    assertEquals(VerseAnchor(13, 12, 13), mapEditionReference(closing, VerseAnchor(13, 12)))
+    assertEquals(VerseAnchor(13, 14), mapEditionReference(closing, VerseAnchor(13, 13)))
+    assertEquals(VerseAnchor(13, 12), mapEditionReference(closing, VerseAnchor(13, 12), reverse = true))
+    assertEquals(VerseAnchor(13, 12), mapEditionReference(closing, VerseAnchor(13, 13), reverse = true))
+    assertEquals(VerseAnchor(13, 13), mapEditionReference(closing, VerseAnchor(13, 14), reverse = true))
+    assertEquals(VerseAnchor(13, 11, 14), mapEditionReference(closing, VerseAnchor(13, 11, 13)))
+    assertEquals(VerseAnchor(13, 12, 13), mapEditionReference(closing, VerseAnchor(13, 12, 14), reverse = true))
+  }
+
+  @Test
   fun overlappingSemanticBoundaryRowsPreserveBothSpeakers() {
     val followingVerse = EditionBookReferenceMap("matthew", mappings = listOf(
       EditionReferenceRule(20, 32, targetChapter = 20, targetVerse = 32, targetVerseEnd = 33),

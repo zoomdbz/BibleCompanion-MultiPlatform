@@ -39,9 +39,9 @@ Dies unterscheidet den **Engel des HERRN** (hebräisch: מַלְאַךְ יְה�
 
    Die hebräische Grammatik verwendet hier den Konstruktzustand, der die beiden Substantive eng verbindet – was auf Identität oder direkte Repräsentation hinweist, nicht auf bloßen Besitz.
 
-   Der Text wechselt dann zu **direkter göttlicher Rede**, nicht zu übermittelten Befehlen (z. B. „Ich will deine Nachkommen mehren“, „Ich bin der Gott deines Vaters Abraham“).
+   Der Text wechselt dann zu **göttlicher Rede in der ersten Person**, nicht zu übermittelten Befehlen (z. B. „Ich will deine Nachkommen mehren“, „Ich bin der Gott deines Vaters Abraham“).
 
-   Der Titel ist daher keine geschaffene Rangbezeichnung, sondern eine Offenbarungsbezeichnung.
+   Der Titel ist daher keine Rangbezeichnung für ein geschaffenes Wesen, sondern eine Offenbarungsbezeichnung.
 
 Deshalb wird der *mal’akh YHWH* als JHWH selbst behandelt, bleibt aber in seinem Wirken unterscheidbar (sichtbar, persönlich, interaktiv).
 
@@ -55,7 +55,7 @@ Deshalb wird der *mal’akh YHWH* als JHWH selbst behandelt, bleibt aber in sein
 | **Anbetung** | Nimmt Anbetung an (Richter 13:20–22) | Lehnt Anbetung ab (Offenbarung 19:10; 22:8–9) |
 | **Identität** | Wird direkt „JHWH“ genannt (2. Mose 3:2–6; 1. Mose 16:13) | Wird nur „Bote“ genannt |
 | **Abschied** | Verschwindet in Flammen oder Herrlichkeit (Richter 6:21; 13:20) | Geht einfach fort |
-| **Hebräische Grammatik** | *Mal’akh YHWH* (konstruktive Einheit) | *Mal’akh Elohim* (getrennter Besitz) |
+| **Hebräische Grammatik** | *Mal’akh YHWH* (Einheit im Konstruktzustand) | *Mal’akh Elohim* (Besitz/Trennung) |
 
 ---
 
@@ -107,7 +107,7 @@ Gott sagt: „Kein Mensch kann mich sehen und leben“ (**2. Mose 33:20**).
 
 Und doch sehen Menschen „Gott“ in menschlicher oder engelhafter Gestalt und überleben.
 
-Die einzige Erklärung innerhalb des Textes ist, dass sie einer göttlichen Person begegnen, die Gott vollkommen repräsentiert und in seinem Namen handelt – niemals einem geschaffenen Wesen.
+Die einzige Erklärung innerhalb des Textes ist, dass sie einer göttlichen Person begegnen, die Gott vollkommen repräsentiert und als Gott selbst handelt – niemals einem geschaffenen Wesen.
 
 ---
 

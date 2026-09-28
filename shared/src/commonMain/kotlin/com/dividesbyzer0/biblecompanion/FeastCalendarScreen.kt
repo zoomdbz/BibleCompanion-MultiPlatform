@@ -285,7 +285,7 @@ private fun CalendarNowCard(
         if (uniqueCurrent.isNotEmpty()) stringResource(Res.string.ui_current_feasts)
         else stringResource(Res.string.ui_next_feast),
         style = MaterialTheme.typography.labelSmall,
-        color = MaterialTheme.colorScheme.tertiary
+        color = MaterialTheme.colorScheme.onTertiaryContainer
       )
       Spacer(Modifier.height(4.dp))
 

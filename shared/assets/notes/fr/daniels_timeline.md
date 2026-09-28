@@ -130,7 +130,7 @@ Daniel vient de confesser une longue histoire de rébellion contre l'alliance: I
 
 Jésus affronte cette histoire lorsqu'il avertit les chefs de Jérusalem qu'ils comblent la mesure de leurs pères et persécuteront ses messagers (Matthieu 23:29-36). Sa mort dévoile la rébellion humaine à son comble, tandis que sa prière de pardon révèle la réponse de Dieu (Luc 23:33-34; Actes 2:22-24, 36-39).
 
-La première venue du Christ juge la transgression de manière décisive, mais le Nouveau Testament attend encore le retour futur d'Israël et l'éloignement de l'impiété (Romains 11:25-27). Il existe donc un accomplissement inauguré puis mené à son terme. La croix vainc la rébellion à sa racine; le royaume porte cette victoire à son achèvement fixé.
+La première venue du Christ juge la transgression de manière décisive, mais le Nouveau Testament attend encore le retour futur d'Israël vers Dieu et l'éloignement de l'impiété (Romains 11:25-27). Il existe donc un accomplissement inauguré puis mené à son terme. La croix vainc la rébellion à sa racine; le royaume porte cette victoire à son achèvement fixé.
 
 ### 2. Mettre fin aux péchés
 
@@ -140,7 +140,7 @@ Le péché n'a pourtant pas disparu de l'expérience humaine. Les croyants le co
 
 ### 3. Faire l'expiation de la faute
 
-Cet objectif renvoie très directement à l'oeuvre sacrificielle du Messie. Le Serviteur d'Ésaïe est transpercé pour les transgressions, porte la faute et rend justes une multitude (Ésaïe 53:5-6, 10-12). Jésus dit que son sang de l'alliance est répandu pour une multitude, pour le pardon des péchés (Matthieu 26:28). Le sang des animaux ne pouvait jamais enlever les péchés; l'offrande unique du Christ accomplit ce que les sacrifices répétés ne pouvaient faire et mène les siens à la perfection (Hébreux 10:4, 10-14, 18).
+Cet objectif renvoie très directement à l'oeuvre sacrificielle du Messie. Le Serviteur d'Ésaïe est transpercé pour les transgressions, porte la faute et justifie une multitude (Ésaïe 53:5-6, 10-12). Jésus dit que son sang de l'alliance est répandu pour une multitude, pour le pardon des péchés (Matthieu 26:28). Le sang des animaux ne pouvait jamais enlever les péchés; l'offrande unique du Christ accomplit ce que les sacrifices répétés ne pouvaient faire et mène les siens à la perfection (Hébreux 10:4, 10-14, 18).
 
 La destruction du temple n'a pas créé l'expiation; la mort du Christ l'a accomplie. Le voile déchiré annonce l'accès à Dieu par son corps avant la chute du sanctuaire (Matthieu 27:50-51; Hébreux 10:19-22).
 
@@ -249,7 +249,7 @@ Aucun calcul ne doit être traité comme un verset. Le modèle d'Esdras doit dé
 
 ## La dernière septaine et l'identité du «il»
 
-Daniel 9:27 dit qu'«il» impose ou rend forte une alliance avec une multitude pendant une septaine. Au milieu de la septaine, il fait cesser le sacrifice et l'offrande. Une abomination produit la dévastation jusqu'à ce que la fin décrétée soit répandue sur le dévastateur.
+Daniel 9:27 dit qu'«il» confirme ou rend forte une alliance avec une multitude pendant une septaine. Au milieu de la septaine, il fait cesser le sacrifice et l'offrande. Une abomination produit la dévastation jusqu'à ce que la fin décrétée soit répandue sur le dévastateur.
 
 Le pronom crée la principale ligne de partage entre les interprétations. Les figures nommées les plus proches sont le consacré retranché et le chef à venir dont le peuple détruit la ville et le sanctuaire (Daniel 9:26). La grammaire hébraïque seule n'a pas clos le débat; l'ensemble du modèle biblique doit être pris en compte.
 

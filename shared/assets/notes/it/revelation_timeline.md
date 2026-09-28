@@ -680,11 +680,11 @@ L'amillenarismo interpreta i mille anni come il regno presente di Cristo con i s
 
 **Cronologia breve:** prima venuta di Cristo e presente regno celeste -> missione del vangelo, sofferenza e conflitto ricorrente durante l'era della Chiesa -> breve ribellione finale -> unico ritorno visibile, risurrezione generale e giudizio finale -> nuova creazione.
 
-### Leggere il legame di Satana accanto alla prima venuta
+### Leggere l'incatenamento di Satana accanto alla prima venuta di Cristo
 
-Apocalisse 20:3 dichiara lo scopo del legame: impedire a Satana di sedurre le nazioni fino alla liberazione. Gesù descrive la propria opera come l'ingresso nella casa dell'uomo forte dopo averlo legato (Matteo 12:28-29). Prima della croce annuncia il giudizio del principe di questo mondo e attira persone a sé mediante il suo innalzamento (Giovanni 12:31-33). Gli amillenaristi collegano questi brani all'avanzamento del vangelo fra le nazioni.
+Apocalisse 20:3 dichiara lo scopo dell'incatenamento di Satana: impedirgli di sedurre le nazioni fino alla liberazione. Gesù descrive la propria opera come l'ingresso nella casa dell'uomo forte dopo averlo legato (Matteo 12:28-29). Prima della croce annuncia il giudizio del principe di questo mondo e attira persone a sé mediante il suo innalzamento (Giovanni 12:31-33). Gli amillenaristi collegano questi brani all'avanzamento del vangelo fra le nazioni.
 
-Il legame è quindi una limitazione del potere di Satana, non l'assenza di ogni attività satanica. La distinzione conta perché gli apostoli continuano ad avvertire riguardo al diavolo (1 Pietro 5:8-9). I premillenaristi rispondono che la reclusione nell'abisso sigillato raffigura un freno maggiore di quello visibile oggi (Apocalisse 20:1-3). Entrambe le letture devono spiegare lo scopo dichiarato e la forza dell'immagine.
+Essi intendono quindi l'incatenamento come una limitazione del potere di Satana, non come l'assenza di ogni attività satanica. La distinzione conta perché gli apostoli continuano ad avvertire riguardo al diavolo (1 Pietro 5:8-9). I premillenaristi rispondono che la reclusione nell'abisso sigillato raffigura un freno maggiore di quello visibile oggi (Apocalisse 20:1-3). Entrambe le letture devono spiegare lo scopo dichiarato e la forza dell'immagine.
 
 ### Leggere la vita e il regno dei santi con Cristo
 
@@ -738,7 +738,7 @@ Paolo dice anche:
 >
 > **1 Corinzi 15:51-52**
 
-Il verbo greco dietro «rapiti» è **harpazo**, che significa afferrare o portare via. Il termine teologico «rapimento» deriva in ultima analisi dalla traduzione latina di questo concetto.
+Il verbo greco dietro «rapiti» è **harpazo**, che significa afferrare o portare via. Il termine teologico inglese «rapture», corrispondente all'italiano «rapimento», deriva in ultima analisi dalla traduzione latina di questo concetto.
 
 La disputa non riguarda il fatto che i credenti saranno rapiti per incontrare Cristo. Questo è chiaro nella Scrittura. La disputa riguarda **quando** accadrà.
 

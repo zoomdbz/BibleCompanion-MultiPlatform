@@ -18,7 +18,7 @@ A Bíblia fornece testes claros para identificar falsos profetas, falsos mestres
 - **Mateus 7:15–20** – Falsos profetas são reconhecidos pelos seus frutos.
 - **1 João 4:1–3** – A confissão verdadeira afirma que Jesus Cristo veio em carne.
 - **Gálatas 1:8–9** – Qualquer evangelho alterado deve ser rejeitado, mesmo que seja apresentado como divino.
-- **2 Pedro 2:1–3** – Falsos mestres introduzem heresias destrutivas e exploram com palavras falsas.
+- **2 Pedro 2:1–3** – Falsos mestres introduzem doutrinas destrutivas e exploram seus seguidores.
 
 **Sinais de alerta comuns incluem:**
 
@@ -34,7 +34,7 @@ A Bíblia fornece testes claros para identificar falsos profetas, falsos mestres
 
 ### Conclusão bíblica
 
-A Escritura ordena testar todo mestre e toda mensagem.
+A Escritura ordena aos crentes que ponham à prova todo mestre e toda mensagem.
 
 Se um ensino muda quem Jesus é, muda o evangelho, ou acrescenta exigências além da fé em Cristo, isso não é cristianismo bíblico.
 
@@ -232,7 +232,7 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 ## Prosperidade e Malaquias 3:10
 (Malaquias 3:10): «Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa; e provai-me nisto, diz o SENHOR dos Exércitos, se eu não vos abrir as janelas do céu e não derramar sobre vós bênção sem medida.»
 
-- Como é usado: Pregadores transformam isto numa fórmula dinheiro-por-bênção, prometendo retorno financeiro garantido se você der à sua «ministério».
+- Como é usado: Pregadores transformam isto numa fórmula dinheiro-por-bênção, prometendo retorno financeiro garantido se você doar ao ministério deles.
 
 - A verdade: Malaquias se dirigia a Israel, que quebrara a aliança sob a Lei, conclamando-os a voltar à obediência no dízimo para sustentar os levitas e o culto do templo. Não é uma promessa universal de riqueza para cristãos. No Novo Testamento, dar é voluntário e alegre, não coagido com promessas de riquezas.
 
@@ -262,7 +262,7 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 
 ## Falsos Evangelhos de Permissividade
 
-- Como é usado: Falsos mestres desprezam o pecado sexual, pregando um «outro evangelho» que desculpa a fornicação ou a sensualidade.
+- Como é usado: Falsos mestres minimizam a gravidade do pecado sexual, pregando um «outro evangelho» que desculpa a fornicação ou a sensualidade.
 
 - A verdade: A Escritura adverte repetidamente contra torcer a graça em libertinagem.
 
@@ -280,15 +280,15 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 
 **Verso mal utilizado:** (João 15:19) «Se vocês pertencessem ao mundo, ele os amaria como se fossem dele. Todavia vocês não são do mundo; eu os escolhi, tirando-os do mundo; por isso o mundo os odeia.»
 
-**Como é usado:** Alguns usam este versículo para afirmar que os «verdadeiros cristãos» pertencem a um grupo secreto, exclusivo ou oculto de membros escolhidos.
+**Como é usado:** Alguns usam este versículo para afirmar que somente os membros de um grupo oculto, privado ou exclusivo são os «verdadeiros» crentes, apresentando o segredo ou a exclusividade como prova de que foram escolhidos.
 
-**A verdade:** Jesus não chamou os seus discípulos para se esconderem, mas para serem luz visível a todos. A igreja do Novo Testamento não é uma sociedade secreta, mas uma comunidade aberta a todos.
+**A verdade:** Jesus chamou seus seguidores para serem a luz do mundo, visível a todos, não escondida em clubes privados ou grupos seletos. Pertencer a Cristo está ao alcance de qualquer pessoa que creia, não é algo restrito a uma sociedade secreta.
 
 **Passagens de apoio:**
 
-- (Mateus 5:14–16) «Vocês são a luz do mundo … assim brilhe a luz de vocês diante dos homens.»
+- (Mateus 5:14–16) «Vocês são a luz do mundo … não se pode esconder uma cidade situada sobre um monte.»
 
-- (João 3:16) «Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito …»
+- (João 3:16) «Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.»
 
 - (Gálatas 3:28) «Não há judeu nem grego, escravo nem livre, homem nem mulher; pois todos são um em Cristo Jesus.»
 
@@ -369,7 +369,7 @@ Nem toda frase que as pessoas citam como «verdade bíblica» está realmente na
 
 ---
 
-## Autoajuda e «Deus ajuda a quem cedo madruga / a quem se ajuda»
+## Autossuficiência e «Deus ajuda a quem se ajuda»
 
 - Origem: **Fábulas de Esopo**, popularizadas por Benjamin Franklin.
 
@@ -413,11 +413,11 @@ Nem toda frase que as pessoas citam como «verdade bíblica» está realmente na
 
 ## Shakespeare e «As autoridades constituídas (the powers that be)»
 
-- Origem: Shakespeare, enraizado na formulação da ACF/ARA de Romanos 13:1 (KJV em inglês).
+- Origem: Shakespeare, com raízes em Romanos 13:1 na versão inglesa King James (KJV).
 
 - A verdade: A autoridade é limitada e está sempre sob Deus.
 
-- (Romanos 13:1–2): «Todo homem esteja sujeito às autoridades superiores… pelo que quem resiste à autoridade resiste à ordenação de Deus.»
+- (Romanos 13:1–2): «Todo homem esteja sujeito às autoridades superiores; porque não há autoridade que não proceda de Deus, e as autoridades que existem foram por ele instituídas. De modo que aquele que resiste à autoridade resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos condenação.»
 
 - (Daniel 2:21): «Ele muda os tempos e as estações; remove reis e estabelece reis; dá sabedoria aos sábios e entendimento aos entendidos.»
 

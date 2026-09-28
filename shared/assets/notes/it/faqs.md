@@ -38,7 +38,7 @@ La tragedia era prevista, ma non forzata; la prescienza non è causalità.
 
 **Supporto biblico:**
 
-- **Genesi 2:16–17**: «Di ogni albero del giardino puoi mangiare; ma dell’albero della conoscenza del bene e del male non ne mangiare, perché nel giorno che tu ne mangerai, per certo morirai.»
+- **Genesi 2:16–17**: «Il SIGNORE Dio ordinò all’uomo: Di ogni albero del giardino puoi mangiare; ma dell’albero della conoscenza del bene e del male non ne mangiare, perché nel giorno che tu ne mangerai, per certo morirai.»
 
 - **Deuteronomio 30:19–20**: «Io pongo davanti a te la vita e la morte, la benedizione e la maledizione; scegli dunque la vita.»  
   Il carattere di Dio è coerente; Egli valorizza la scelta perché è il fondamento dell’amore.
@@ -63,7 +63,7 @@ Il comando in Eden non era una trappola; fu il primo passo del lungo processo di
 
 Dio non è l’autore del male. La Scrittura è esplicita: «Dio non può essere tentato dal male, ed Egli stesso non tenta nessuno» (**Giacomo 1:13**). Ciò che creò lo dichiarò «molto buono» (**Genesi 1:31**); ciò che vediamo oggi è un mondo corrotto dall’abuso del libero arbitrio: prima tra le schiere celesti, poi nell’Eden. La frattura intorno a noi è la conseguenza della ribellione, non del disegno divino. La vera domanda non è se Dio abbia creato il male, ma perché lo permetta; e la risposta conduce dritto alla natura dell’amore.
 
-È una delle domande più difficili; se Dio è amorevole e onnipotente, perché il dolore, l’ingiustizia e la tragedia?  
+È una delle domande più difficili della storia umana; se Dio è amorevole e onnipotente, perché il dolore, l’ingiustizia e la tragedia?  
 La Scrittura mostra che la sofferenza non è prova dell’assenza di Dio; è il prezzo della libertà reale in un mondo vivo.
 
 Il male esiste perché l’amore richiede libertà.  
@@ -82,17 +82,17 @@ Attraverso la sofferenza, Dio mostra che non è distante dal dolore; lo porta co
 - **Genesi 1:31**: «Dio vide tutto ciò che aveva fatto; ed ecco, era molto buono.»  
   La creazione non era difettosa per disegno; la corruzione è entrata dall’abuso del libero arbitrio.
 
-- **Genesi 50:20**: Giuseppe: «Voi avevate macchinato del male contro di me; ma Dio ha pensato di convertirlo in bene… per conservare in vita un popolo numeroso.»  
+- **Genesi 50:20**: Giuseppe disse ai suoi fratelli: «Voi avevate macchinato del male contro di me; ma Dio ha pensato di convertirlo in bene… per conservare in vita un popolo numeroso.»  
   Dio non causa il male; lo volge al Suo scopo redentivo.
 
 - **Romani 8:28**: «Or sappiamo che tutte le cose cooperano al bene di quelli che amano Dio, i quali sono chiamati secondo il suo disegno.»  
   La sofferenza diventa un canale del proposito divino.
 
-- **Giacomo 1:2–4**: «Considerate una grande gioia quando venite a trovarvi in prove svariate, sapendo che la prova della vostra fede produce costanza.»  
+- **Giacomo 1:2–4**: «Fratelli miei, considerate una grande gioia quando venite a trovarvi in prove svariate, sapendo che la prova della vostra fede produce costanza.»  
   Il dolore non è vano; matura l’anima.
 
 - **1 Pietro 4:12–13**: «Non vi stupite per l’ardente prova… ma rallegratevi nella misura in cui partecipate alle sofferenze di Cristo.»  
-  La sofferenza allinea i credenti al cuore di Cristo.
+  La sofferenza allinea i credenti al cuore di Cristo, affinando la compassione e la fede.
 
 - **2 Corinzi 4:17–18**: «La nostra momentanea, leggera afflizione ci produce un sempre più grande, smisurato peso eterno di gloria.»  
   Il dolore è temporaneo; la gloria forgiata è eterna.
@@ -113,25 +113,25 @@ Il libro di Giobbe risponde attraverso una vera prova della fede. A prima vista,
 La questione nei cieli non è: «Dio può vincere un gioco?»; è: «La rettitudine umana può esistere senza ricompensa?»  
 Satana accusa l’umanità di fedeltà solo quando la vita è facile; insinua che ogni bontà sia interessata. Dio permette la prova per mostrare che la fede genuina sussiste anche nella sofferenza.
 
-La prova di Giobbe non è punizione, ma fiducia. Dio lo sceglie perché conosce il suo cuore. La sofferenza smaschera i motivi e approfondisce la relazione. Giobbe grida, protesta la sua integrità, esige risposte. Dio non lo rimprovera per la sua lotta con la verità; alla fine si manifesta, non per spiegare la meccanica del dolore, ma per riorientare la prospettiva. Quando Giobbe incontra la presenza di Dio, comprende che la sapienza divina supera l’intelligenza umana. Nel passaggio dal controllo preteso all’affidamento, inizia la restaurazione. La sofferenza lo conduce a una relazione diretta con Dio.
+La prova di Giobbe non è punizione, ma fiducia. Dio lo sceglie perché conosce il suo cuore. La sofferenza smaschera i motivi e approfondisce la relazione. Giobbe grida nella sua angoscia, protesta la propria innocenza ed esige risposte. Dio non lo rimprovera per la sua lotta con la verità; alla fine si manifesta, non per spiegare la meccanica del dolore, ma per riorientare la prospettiva. Quando Giobbe incontra la presenza di Dio, comprende che la sapienza divina supera l’intelligenza umana. Nel passaggio dal controllo preteso all’affidamento, inizia la restaurazione. La sofferenza lo conduce a una relazione diretta con Dio.
 
 **Supporto biblico:**
 
-- **Giobbe 1:8–12**: Dio chiama Giobbe «integro e retto» e permette la prova; non per distruggerlo, ma per rivelare la verità.
+- **Giobbe 1:8–12**: Dio chiama Giobbe «integro e retto» e permette a Satana di metterlo alla prova; non per distruggerlo, ma per rivelare la verità.
 
 - **Giobbe 2:3–6**: Dio riafferma l’integrità di Giobbe; la prova è per la sua giustificazione, non per punizione.
 
-- **Giobbe 23:10**: «Se egli mi provasse, uscirei come l’oro.»
+- **Giobbe 23:10**: «Egli conosce la via che io seguo; se egli mi provasse, uscirei come l’oro.»
 
-- **Giobbe 38–41**: La risposta di Dio punta ai misteri della creazione; la lezione è la prospettiva, non la mera potenza.
+- **Giobbe 38–41**: La risposta di Dio punta ai misteri della creazione che superano la comprensione umana; la lezione è la prospettiva, non la mera potenza.
 
 - **Giobbe 42:5–6**: «Il mio orecchio aveva sentito parlare di te; ma ora l’occhio mio t’ha visto.» Dalla nozione all’incontro.
 
-Dopo il ravvedimento e la comprensione rinnovata, Dio rivendica Giobbe pubblicamente. Rimprovera gli amici per la loro teologia superficiale: «Non avete detto di me la verità» (**Giobbe 42:7**). Ordina loro sacrifici; Giobbe prega per loro.
+Dopo il ravvedimento e la comprensione rinnovata, Dio rivendica Giobbe pubblicamente. Rimprovera gli amici per la loro teologia superficiale: «Non avete detto di me la verità» (**Giobbe 42:7**). Ordina loro sacrifici; Giobbe prega per loro, un atto di perdono e di grazia.
 
 Poi viene la restaurazione.
 
-- **Giobbe 42:10**: «Il SIGNORE ristabilì la condizione di Giobbe… e gli diede il doppio di tutto quello che aveva avuto.»
+- **Giobbe 42:10**: «Il SIGNORE ristabilì la condizione di Giobbe quando questi ebbe pregato per i suoi amici, e gli diede il doppio di tutto quello che aveva avuto.»
 
 - **Giobbe 42:12–17**: Giobbe riceve il doppio dei beni, una nuova famiglia e lunga vita; gli ultimi anni sono in pace.
 
@@ -140,7 +140,7 @@ La sofferenza è temporanea; la restaurazione è certa.
 
 **Ulteriore supporto:**
 
-- **Romani 8:18**: «Le sofferenze del tempo presente non sono paragonabili alla gloria futura.»
+- **Romani 8:18**: «Le sofferenze del tempo presente non sono paragonabili alla gloria che dev’essere manifestata a nostro riguardo.»
 
 - **Giacomo 5:11**: «Avete udito parlare della pazienza di Giobbe e conoscete la sorte che il Signore gli riservò; perché il Signore è pieno di compassione e misericordioso.»
 
@@ -212,30 +212,30 @@ La morte è entrata attraverso il peccato (**Romani 5:12**), e tutta la creazion
 
 **Supporto biblico:**
 
-- **Genesi 2:17**: «Perché nel giorno che ne mangerai, certamente morirai.»  
+- **Genesi 2:17**: «Non mangiare dell’albero della conoscenza del bene e del male, perché nel giorno che ne mangerai, certamente morirai.»  
   La morte fu conseguenza della ribellione, non parte del disegno originale di Dio per l’umanità.
 
-- **2 Samuele 12:22–23**: Dopo la morte del figlio, Davide dice: «Io andrò da lui, ma egli non tornerà da me.»  
+- **2 Samuele 12:22–23**: Dopo la morte del figlio piccolo, Davide dice: «Io andrò da lui, ma egli non tornerà da me.»  
   La sua fiducia mostra la speranza che il bambino sia con Dio e che il ricongiungimento attenda oltre la morte.
 
-- **Isaia 57:1–2**: «Il giusto muore… egli entra nella pace; riposa nei loro letti chi cammina nella rettitudine.»  
+- **Isaia 57:1–2**: «Il giusto muore e nessuno vi pone mente… egli entra nella pace; riposa nel suo letto chi cammina nella rettitudine.»  
   Una morte precoce può essere misericordia che sottrae al male futuro.
 
-- **Matteo 19:14**: Gesù: «Lasciate che i piccoli vengano a me… perché di tali è il regno dei cieli.»  
+- **Matteo 19:14**: Gesù disse: «Lasciate che i piccoli vengano a me e non glielo impedite, perché di tali è il regno dei cieli.»  
   Cristo rivendica e accoglie ogni bambino.
 
 - **Deuteronomio 1:39**: Dio risparmia i figli d’Israele nel giudizio perché «non conoscono oggi il bene né il male.»  
   La responsabilità morale richiede comprensione; l’innocenza riposa nella grazia.
 
-- **Ecclesiaste 12:7**: «La polvere torni alla terra… e lo spirito torni a Dio che l’ha dato.»  
+- **Ecclesiaste 12:7**: «La polvere torni alla terra com’era prima, e lo spirito torni a Dio che l’ha dato.»  
   Ogni vita ritorna alla sua fonte.
 
-La morte non era nell’intento originario di Dio; ma attraverso la risurrezione di Cristo è un nemico sconfitto.  
+La morte non era nell’intento originario di Dio, eppure Egli la redime. Attraverso la risurrezione di Cristo è un nemico sconfitto.  
 **1 Corinzi 15:54–55**: «La morte è stata sommersa nella vittoria. O morte, dov’è la tua vittoria?»
 
 **Romani 8:38–39** assicura che nulla, né morte né vita, può separarci dall’amore di Dio. I bambini che muoiono non svaniscono nel nulla; riposano in quell’amore ininterrotto.
 
-Il dolore rimane reale; ma il disegno biblico mostra che Dio preserva gli innocenti e ristabilisce ogni cosa a suo tempo.  
+Il dolore e la perdita rimangono reali; ma il disegno biblico mostra che Dio preserva gli innocenti e ristabilisce ogni cosa a suo tempo.  
 **Apocalisse 21:4**: «Egli asciugherà ogni lacrima dai loro occhi, e la morte non sarà più.»
 
 La morte pone fine all’innocenza solo in apparenza; in realtà consegna gli innocenti al sicuro nelle braccia dell’Eterno.
@@ -253,7 +253,7 @@ La Scrittura presenta quei comandi come **atti di giudizio limitati**, **protezi
 - **Genesi 15:16**: «L’iniquità degli Amorei non è ancora colma.»  
   Il giudizio è ritardato finché il male maturi; la pazienza di Dio precede il giudizio.
 
-- **Levitico 18:24–28**: La terra «vomita» le nazioni per violenze e abominazioni; Israele subirà lo stesso se imiterà quelle pratiche.
+- **Levitico 18:24–28**: La terra «vomita» le nazioni per violenza sessuale diffusa e abominazioni; Israele subirà lo stesso se imiterà quelle pratiche.
 
 - **Deuteronomio 12:31**: Le nazioni «bruciano nel fuoco i loro figli e le loro figlie per i loro dèi.»  
   La guerra è legata a porre fine alle atrocità; non alla conquista per se stessa.
@@ -315,13 +315,13 @@ Chi accetta questo dono è perdonato e restaurato alla vita. Chi lo rifiuta sceg
 
 **Supporto biblico:**
 
-- **Ezechiele 33:11**: «Io non mi compiaccio della morte dell’empio, ma che l’empio si converta dalla sua via e viva.»  
+- **Ezechiele 33:11**: «Com’è vero che io vivo, dichiara il Signore DIO, io non mi compiaccio della morte dell’empio, ma che l’empio si converta dalla sua via e viva.»  
   Il desiderio di Dio è il ravvedimento, non la condanna.
 
-- **2 Pietro 3:9**: Dio «è paziente verso di voi, non volendo che alcuno perisca, ma che tutti giungano al ravvedimento.»  
+- **2 Pietro 3:9**: «Il Signore non ritarda l’adempimento della sua promessa, come alcuni reputano che faccia, ma è paziente verso di voi, non volendo che alcuno perisca, ma che tutti giungano al ravvedimento.»  
   Il giudizio viene dopo che la pazienza è stata esaurita.
 
-- **Deuteronomio 30:19**: «Io pongo davanti a te la vita e la morte… scegli dunque la vita.»  
+- **Deuteronomio 30:19**: «Io pongo davanti a te la vita e la morte, la benedizione e la maledizione; scegli dunque la vita.»  
   Dio offre la scelta; non impone l’esito.
 
 - **Romani 2:5–8**: Chi persiste nell’indurimento «accumula ira per il giorno dell’ira»; chi cerca il bene riceve vita eterna.  
@@ -330,7 +330,7 @@ Chi accetta questo dono è perdonato e restaurato alla vita. Chi lo rifiuta sceg
 - **Matteo 25:41-46**: Gesù parla della separazione finale: «Andate via da me, maledetti, nel fuoco eterno preparato per il diavolo e per i suoi angeli… E questi se ne andranno a punizione eterna; ma i giusti a vita eterna.»  
   La sentenza è legata al rifiuto della misericordia; non alla mancanza di opportunità.
 
-- **Giovanni 3:18–19**: «Chi non crede è già giudicato… gli uomini hanno amato le tenebre anziché la luce.»  
+- **Giovanni 3:18–19**: «Chi crede in Lui non è giudicato; chi non crede è già giudicato, perché non ha creduto nel nome dell’unigenito Figlio di Dio… gli uomini hanno amato le tenebre anziché la luce.»  
   La condanna nasce dalla preferenza per le tenebre.
 
 - **Romani 1:24–26**: «Perciò Dio li ha abbandonati» ai loro desideri.  
@@ -376,19 +376,19 @@ Ogni atto di fede risponde a ciò che Dio ha già rivelato: attraverso la creazi
 
 **Supporto biblico:**
 
-- **Romani 1:19–20**: «Quel che si può conoscere di Dio è manifesto… le sue qualità invisibili… si vedono chiaramente fin dalla creazione del mondo; quindi essi sono inescusabili.»  
+- **Romani 1:19–20**: «Quel che si può conoscere di Dio è manifesto in loro, avendolo Dio manifestato loro. Infatti le sue qualità invisibili, la sua eterna potenza e divinità, si vedono chiaramente fin dalla creazione del mondo… quindi essi sono inescusabili.»  
   La creazione rivela la realtà di Dio; la fede risponde a tale rivelazione.
 
-- **Giovanni 20:29**: «Beati quelli che non hanno visto e hanno creduto.»  
+- **Giovanni 20:29**: Gesù disse: «Beati quelli che non hanno visto e hanno creduto.»  
   La fede porta benedizione perché confida oltre la prova sensibile.
 
 - **2 Corinzi 5:7**: «Camminiamo per fede e non per visione.»  
   La fede governa il presente finché la visione la compirà.
 
-- **Ebrei 11:6**: «Senza fede è impossibile piacergli.»  
+- **Ebrei 11:6**: «Senza fede è impossibile piacergli; poiché chi si accosta a Dio deve credere che Egli è e che ricompensa tutti quelli che lo cercano.»  
   La relazione dipende da fiducia volontaria; non da prova coercitiva.
 
-- **Efesini 2:8–9**: «Per grazia… mediante la fede… dono di Dio; non per opere.»  
+- **Efesini 2:8–9**: «Per grazia siete stati salvati mediante la fede… è il dono di Dio; non per opere.»  
   La fede è il canale mediante cui si riceve la grazia.
 
 **Perché non la certezza?**
@@ -418,18 +418,18 @@ Questa libertà rende possibile l’amore; consente anche la ribellione. Dio pre
 
 **Supporto biblico:**
 
-- **Ezechiele 28:12–17**: Parole al re di Tiro in un linguaggio che echeggia la caduta di un essere celeste: «Eri perfetto nelle tue vie… finché non si trovò in te l’iniquità.»  
+- **Ezechiele 28:12–17**: Parole al re di Tiro in un linguaggio che echeggia la caduta di un essere celeste: «Tu mettevi il sigillo alla perfezione, eri pieno di saggezza e di una bellezza perfetta… Eri perfetto nelle tue vie dal giorno in cui fosti creato, finché non si trovò in te l’iniquità.»  
   L’orgoglio corrompe ciò che era perfetto.
 
-- **Isaia 14:12–15**: «Come mai sei caduto dal cielo, astro del mattino… Io salirò in cielo, innalzerò il mio trono.»  
-  La ribellione comincia con l’autoesaltazione.
+- **Isaia 14:12–15**: «Come mai sei caduto dal cielo, astro del mattino… Tu dicevi in cuor tuo: Io salirò in cielo, innalzerò il mio trono al di sopra delle stelle di Dio.»  
+  La ribellione comincia con l’autoesaltazione e il rifiuto della sottomissione.
 
 - **1 Timoteo 3:6**: L’orgoglio è chiamato «la condanna del diavolo.»  
   Non il disegno di Dio, ma l’arroganza causò la sua caduta.
 
 - **Giovanni 8:44**: Gesù lo chiama «omicida fin dal principio» e «padre della menzogna», mostrando la traiettoria morale della sua rivolta.
 
-- **2 Pietro 2:4**: «Dio non risparmiò gli angeli che peccarono, ma li gettò nell’inferno.»  
+- **2 Pietro 2:4**: «Dio non risparmiò gli angeli che peccarono, ma li gettò nell’inferno, consegnandoli a catene di tenebre, dove sono custoditi per il giudizio.»  
   Anche gli esseri celesti sono responsabili davanti alla giustizia.
 
 **Perché Dio ha permesso la ribellione:**
@@ -438,12 +438,12 @@ Libertà senza possibilità di disobbedienza non è libertà.
 Amore che non può essere rifiutato non è amore.  
 Dio permette la ribellione per manifestare la vera natura del bene, esporre il male come autodistruttivo e rivelare giustizia e misericordia mediante la redenzione.
 
-- **Romani 9:22–23**: Dio sopporta «con molta pazienza dei vasi d’ira» per far conoscere «le ricchezze della sua gloria» su vasi di misericordia.  
+- **Romani 9:22–23**: «Che c’è da contestare se Dio, volendo mostrare la sua ira e far conoscere la sua potenza, ha sopportato con molta pazienza dei vasi d’ira preparati per la perdizione, per far conoscere le ricchezze della sua gloria verso dei vasi di misericordia?»  
   La pazienza divina mostra insieme giustizia e grazia.
 
 - **Giobbe 1:6–12**: Anche nella prova, Satana resta entro limiti; la sua ribellione è permessa ma non incontrollata.
 
-- **Apocalisse 12:7–9**: «Ci fu una guerra nel cielo… il gran dragone fu precipitato.»  
+- **Apocalisse 12:7–9**: «Ci fu una guerra nel cielo… il gran dragone fu precipitato… colui che seduce tutto il mondo.»  
   Il male è sconfitto; non è coeguale a Dio.
 
 **L’esito:**
@@ -472,35 +472,35 @@ Queste influenze si mascherano da dèi, esigono sacrifici, pervertono la moralit
 
 **Supporto biblico:**
 
-- **Romani 1:19–23**: «Quel che si può conoscere di Dio è manifesto… ma essi hanno mutato la gloria del Dio incorruttibile in immagini.»  
+- **Romani 1:19–23**: «Quel che si può conoscere di Dio è manifesto in loro, avendolo Dio manifestato loro… Le sue qualità invisibili, la sua eterna potenza e divinità, si vedono chiaramente… quindi essi sono inescusabili.» Ma essi hanno «mutato la gloria del Dio incorruttibile in immagini simili a quelle dell’uomo corruttibile, di uccelli, di quadrupedi e di rettili».  
   La religione spesso inizia con il riconoscimento del divino, poi deraglia nell’idolatria.
 
-- **Deuteronomio 32:16–17**: «Hanno sacrificato ai demoni e non a Dio.»  
+- **Deuteronomio 32:16–17**: «Hanno provocato la sua gelosia con dèi stranieri… Hanno sacrificato ai demoni e non a Dio.»  
   La Scrittura identifica molte divinità pagane con potenze demoniache.
 
 - **Salmo 106:37–38**: «Hanno sacrificato i loro figli e le loro figlie ai demoni; hanno sparso sangue innocente.»  
-  Il falso culto può cadere nelle tenebre morali, fino al sacrificio di bambini.
+  Il falso culto può cadere nelle tenebre morali e spirituali, fino al sacrificio di bambini.
 
-- **Levitico 17:7**: «Non offriranno più i loro sacrifici ai capri demoni.»  
+- **Levitico 17:7**: «Non offriranno più i loro sacrifici ai capri demoni, dietro i quali si prostituiscono.»  
   Dio proibisce influenze demoniache travestite da dèi.
 
-- **1 Corinzi 10:19–20**: «Ciò che i pagani sacrificano, lo sacrificano ai demoni e non a Dio.»  
+- **1 Corinzi 10:19–20**: «Che cosa voglio dunque dire? Che la carne sacrificata agli idoli sia qualcosa? No, ma ciò che i pagani sacrificano, lo sacrificano ai demoni e non a Dio.»  
   L’idolatria non è neutrale; dietro ci sono entità spirituali.
 
-- **Efesini 6:12**: «Il nostro combattimento non è contro carne e sangue, ma contro i principati… le potenze… gli spiriti malvagi nei luoghi celesti.»  
+- **Efesini 6:12**: «Il nostro combattimento non è contro carne e sangue, ma contro i principati, contro le potenze, contro i dominatori cosmici delle tenebre di questo mondo, contro gli spiriti malvagi nei luoghi celesti.»  
   L’inganno religioso fa parte di un conflitto spirituale più ampio.
 
-- **Atti 17:26–27**: Dio ha fatto tutte le nazioni «perché cerchino Dio… benché egli non sia lontano da ciascuno di noi.»  
+- **Atti 17:26–27**: Dio ha tratto da un solo uomo tutte le nazioni «perché cerchino Dio e si sforzino di trovarlo come a tastoni, benché egli non sia lontano da ciascuno di noi.»  
   Ogni cultura contiene echi di verità che rimandano al Creatore.
 
-- **Giovanni 1:9**: Gesù è «la vera luce che illumina ogni uomo.»  
+- **Giovanni 1:9**: Gesù è «la vera luce che illumina ogni uomo che viene nel mondo.»  
   Ogni verità parziale trova compimento in Lui.
 
 - **Giovanni 14:6**: «Io sono la via, la verità e la vita; nessuno viene al Padre se non per mezzo di me.»  
   La verità è unica; la misericordia di Dio ha respiro universale.
 
-- **1 Timoteo 2:3–4**: Dio «vuole che tutti gli uomini siano salvati e vengano alla conoscenza della verità.»  
-  La diversità religiosa rivela sia la ricerca umana sia la pazienza di Dio.
+- **1 Timoteo 2:3–4**: «Dio nostro Salvatore… vuole che tutti gli uomini siano salvati e vengano alla conoscenza della verità.»  
+  La diversità religiosa rivela sia l’anelito dell’umanità verso Dio sia la Sua pazienza verso la nostra confusione.
 
 - **Romani 10:12–13**: «Non c’è distinzione tra Giudeo e Greco… lo stesso è il Signore di tutti… chiunque invocherà il nome del Signore sarà salvato.»  
   La redenzione è offerta universalmente; la verità rimane una.
@@ -526,10 +526,10 @@ Chi lo riceve è rivestito della Sua giustizia; chi lo rifiuta rimane sotto la c
 
 **Supporto biblico:**
 
-- **Romani 3:23–26**: «Tutti hanno peccato… e sono giustificati gratuitamente per la sua grazia… affinché egli sia giusto e giustifichi colui che ha fede in Gesù.»  
+- **Romani 3:23–26**: «Tutti hanno peccato e sono privi della gloria di Dio… e sono giustificati gratuitamente per la sua grazia, mediante la redenzione che è in Cristo Gesù… affinché egli sia giusto e giustifichi colui che ha fede in Gesù.»  
   Il perdono di Dio è radicato nella Sua giustizia; non al di fuori di essa.
 
-- **Ebrei 9:22**: «Senza spargimento di sangue non c’è perdono.»  
+- **Ebrei 9:22**: «Senza spargimento di sangue non c’è perdono dei peccati.»  
   Una vita per una vita; compiuto nel sacrificio di Cristo.
 
 - **Isaia 53:5–6**: «Egli è stato trafitto a causa delle nostre trasgressioni… il SIGNORE ha fatto ricadere su di lui l’iniquità di noi tutti.»  
@@ -538,10 +538,10 @@ Chi lo riceve è rivestito della Sua giustizia; chi lo rifiuta rimane sotto la c
 - **1 Pietro 2:24**: «Egli ha portato i nostri peccati nel suo corpo, sul legno, affinché, morti al peccato, vivessimo per la giustizia.»  
   La salvezza perdona e trasforma.
 
-- **Efesini 2:8–9**: «Per grazia… mediante la fede… dono di Dio; non per opere.»  
+- **Efesini 2:8–9**: «Per grazia siete stati salvati mediante la fede; e ciò non viene da voi, è il dono di Dio; non in virtù di opere, affinché nessuno si vanti.»  
   La grazia è dono; ma va ricevuto.
 
-- **Giovanni 3:16–18**: «Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito… chi non crede è già giudicato.»  
+- **Giovanni 3:16–18**: «Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito, affinché chiunque crede in lui non perisca ma abbia vita eterna… chi non crede è già giudicato.»  
   Il rifiuto della grazia lascia il debito insoluto.
 
 - **2 Corinzi 5:21**: «Colui che non ha conosciuto peccato, egli lo ha fatto essere peccato per noi; affinché noi diventassimo giustizia di Dio in lui.»  

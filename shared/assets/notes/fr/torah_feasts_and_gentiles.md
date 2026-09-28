@@ -294,7 +294,7 @@ Et :
 
 Paul dit aussi aux croyants :
 
-- **1 Corinthiens 10:25-27** : mangez ce qui se vend au marché ou ce qu'un incroyant vous sert, sans poser de question par motif de conscience.
+- **1 Corinthiens 10:25-27** : mangez ce qui se vend au marché aux viandes ou ce qu'un incroyant vous sert, sans poser de question par motif de conscience.
 - **1 Timothée 4:3-5** : les aliments créés par Dieu doivent être reçus avec actions de grâces et sont sanctifiés par la parole de Dieu et la prière.
 
 Ces passages démontrent avec force que les apôtres n'ont pas fait des distinctions alimentaires de Lévitique 11 un critère d'appartenance à l'alliance pour les croyants non juifs.
@@ -641,7 +641,7 @@ L'épître aux Colossiens fut écrite **après la mort et la résurrection du Ch
 
 > **« une ombre des choses à venir »**
 
-Une ombre n'est pas le corps lui-même. Le Christ est la substance, le centre et la réalité vers lesquels les temps fixés dirigent. Mais Paul ne dit pas que l'ombre est mauvaise, contrefaite ou effacée. Plus important encore, il la décrit comme annonçant **des choses à venir**.
+Une ombre n'est pas le corps lui-même. Le Christ est la substance, le centre et la réalité vers lesquels les temps fixés orientent notre regard. Mais Paul ne dit pas que l'ombre est mauvaise, contrefaite ou effacée. Plus important encore, il la décrit comme annonçant **des choses à venir**.
 
 Ce langage correspond au caractère prophétique des fêtes. La Pâque annonce le Christ, notre Pâque (**1 Corinthiens 5:7**) ; les Prémices éclairent Sa résurrection (**1 Corinthiens 15:20, 23**) ; la Pentecôte devient le jour fixé pour l'effusion de l'Esprit (**Actes 2:1-4**) ; et l'Écriture place encore le calendrier de Dieu dans la prophétie du royaume futur (**Zacharie 14:16 ; Ésaïe 66:23 ; Ézéchiel 45:21-25**).
 
@@ -863,7 +863,7 @@ Observance moderne possible :
 - examiner sa vie pour y chercher le « levain » de la malice, de l'hypocrisie et du péché
 - mettre l'accent sur la sincérité et la vérité
 
-Le signe physique doit diriger au-delà du garde-manger, vers le cœur.
+Le signe physique doit orienter le regard au-delà du garde-manger, vers le cœur.
 
 ### Prémices
 
@@ -871,7 +871,7 @@ Le signe physique doit diriger au-delà du garde-manger, vers le cœur.
 
 Observance moderne possible :
 
-- remercier Dieu pour ce qu'Il pourvoit
+- remercier Dieu pour ce qu'Il fournit
 - célébrer la résurrection du Christ comme les « prémices » de ceux qui sont ressuscités d'entre les morts
 - donner généreusement les premiers et les meilleurs éléments de ce que l'on possède
 
@@ -926,7 +926,7 @@ Observance moderne possible :
 - construire ou utiliser un abri temporaire lorsque cela est possible
 - y prendre ses repas
 - se souvenir du voyage d'Israël dans le désert
-- remercier Dieu pour ce qu'Il pourvoit
+- remercier Dieu pour ce qu'Il fournit
 - se réunir avec sa famille et d'autres croyants
 - lire Jean 7 et la prophétie du royaume futur en Zacharie 14
 
@@ -948,7 +948,7 @@ La Nouvelle Alliance comporte de véritables changements. Les non-Juifs ne sont 
 
 Mais aucune de ces vérités n'exige de conclure que le sabbat et les fêtes fixées de Dieu ont été rejetés. Le sabbat s'enracine dans la création, figure dans les Dix Commandements, s'étend aux étrangers, est honoré et correctement interprété par Jésus, et apparaît dans les prophéties sur le culte futur. Les fêtes annuelles sont appelées **les temps fixés de YHWH**, décrites à plusieurs reprises dans un langage de permanence générationnelle, observées par Jésus et les apôtres, interprétées à travers le Christ et de nouveau présentes dans les prophéties du royaume futur.
 
-Colossiens 2:16-17 doit donc être lu avec soin. Le Christ est la **substance** ; les temps fixés sont l'**ombre** qui dirige vers Lui et vers les **choses à venir**. Un chrétien ne doit jamais adorer l'ombre à la place du Christ, mais l'Écriture ne commande pas aux croyants de mépriser ou d'effacer le modèle établi par Dieu.
+Colossiens 2:16-17 doit donc être lu avec soin. Le Christ est la **substance** ; les temps fixés sont l'**ombre** qui pointe vers Lui et vers les **choses à venir**. Un chrétien ne doit jamais adorer l'ombre à la place du Christ, mais l'Écriture ne commande pas aux croyants de mépriser ou d'effacer le modèle établi par Dieu.
 
 Cette étude adopte donc la position suivante :
 

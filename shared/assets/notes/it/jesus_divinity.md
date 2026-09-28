@@ -8,7 +8,7 @@ E
 
 2) Gesù è Dio  
 
-*Nota: Le note di traduzione in questo documento mostrano come i testi originali (ebraico, greco e aramaico) esprimono direttamente i termini collegati all’identità divina di Gesù. Non sono traduzioni dall’italiano all’ebraico, al greco o all’aramaico, ma riferimenti alle lingue più antiche della Scrittura che sostengono la divinità di Gesù.*  
+*Nota: Le note di traduzione in questo documento mostrano come i testi originali (ebraico, greco e aramaico) esprimono direttamente i termini collegati all’identità divina di Gesù. Non sono traduzioni dall’italiano all’ebraico, al greco o all’aramaico, ma le più antiche testimonianze linguistiche a sostegno della divinità di Gesù.*  
 
 ---
 
@@ -120,7 +120,7 @@ E
   - Greco: ἐγώ εἰμι (*egō eimi*)  
   - Aramaico: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
   - **Italiano:** «IO SONO»  
-  - *Contesto: Gesù applica a sé stesso il nome divino dell’auto-rivelazione di Esodo.*  
+  - *Contesto: Gesù applica direttamente a sé stesso l’autorivelazione divina dell’Esodo.*  
 
 -  Giovanni 10:30: «Il Padre ed io siamo uno».  
 
@@ -187,7 +187,7 @@ E
 
 
 **Note per i lettori**  
--  Nei Vangeli, Gesù non solo afferma l’unità con il Padre ma esercita prerogative divine: perdonare i peccati, governare la creazione, condividere il nome e la gloria divini e accettare adorazione. Gli apostoli poi lo descrivono con titoli divini inequivocabili.  
+-  Nei Vangeli, Gesù non solo afferma l’unità con il Padre ma esercita prerogative che appartengono solo a Dio: perdonare i peccati, governare la creazione, condividere il nome e la gloria divini e accettare adorazione. Gli apostoli poi lo descrivono con titoli divini inequivocabili.  
 
 
 ---
@@ -257,7 +257,7 @@ Gesù non fu abbandonato nella sua divinità. Egli **scelse di entrare nel nostr
 ## Gesù e il Compimento delle Profezie
 Gesù non ha adempiuto solo una o due profezie. Gli studiosi contano **oltre 300 profezie messianiche** nell’Antico Testamento che si riferiscono a Lui. Queste includono la Sua nascita, genealogia, ministero, tradimento, crocifissione, resurrezione ed esaltazione.
 
-- Statisticamente, la probabilità che un solo uomo adempia anche solo 8 profezie è circa **1 su 10^17** (cento quadrilioni).
+- Statisticamente, la probabilità che un solo uomo adempia anche solo 8 profezie è circa **1 su 10^17** (cento milioni di miliardi).
 
 - La probabilità di adempierne 48 è circa **1 su 10^157**, praticamente impossibile per caso.
 
@@ -281,7 +281,7 @@ Esempi includono:
 
 - Vincere una lotteria nazionale una volta è circa 1 su 300 milioni. Gesù che adempie 8 profezie equivale a vincere quella lotteria **più di mezzo milione di volte di seguito**.
 
-- La probabilità di essere colpiti da un fulmine nella propria vita è circa 1 su 15.000. Le probabilità di compimento profetico sono trilioni di volte più rare.
+- La probabilità di essere colpiti da un fulmine nella propria vita è circa 1 su 15.000. Le probabilità di compimento profetico sono oltre migliaia di miliardi di volte più rare.
 
 - Peter Stoner lo illustrò così: copri l’intero stato del Texas con monete d’argento alte sessanta centimetri, marca una moneta, benda gli occhi a un uomo e lascialo camminare. La probabilità che scelga la moneta marcata al primo tentativo è uguale alla probabilità di adempiere solo 8 profezie.
 

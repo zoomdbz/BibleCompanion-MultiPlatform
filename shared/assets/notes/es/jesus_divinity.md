@@ -8,7 +8,7 @@ Y
 
 2) Jesús es Dios  
 
-*Nota: Las notas de traducción en este documento muestran cómo los textos originales (hebreo, griego y arameo) expresan directamente los términos conectados a la identidad divina de Jesús. No son traducciones del español al hebreo, al griego o al arameo, sino referencias a las lenguas más antiguas de la Escritura que apoyan la divinidad de Jesús.*  
+*Nota: Las notas de traducción en este documento muestran cómo los textos originales (hebreo, griego y arameo) expresan directamente los términos conectados a la identidad divina de Jesús. No son traducciones del español al hebreo, al griego o al arameo, sino las pruebas lingüísticas más antiguas que apoyan la divinidad de Jesús.*  
 
 ---
 
@@ -120,7 +120,7 @@ Y
   - Griego: ἐγώ εἰμι (*egō eimi*)  
   - Arameo: אֲנָא הוּא דַהֲוֵית (*ana hu dahaveit*)  
   - **Español:** «YO SOY»  
-  - *Contexto: Jesús aplica a sí mismo el nombre divino de auto-revelación de Éxodo.*  
+  - *Contexto: Jesús aplica directamente a sí mismo la autorrevelación divina del Éxodo.*  
 
 -  Juan 10:30: «El Padre y yo somos uno.»  
 
@@ -187,7 +187,7 @@ Y
 
 
 **Notas para lectores**  
--  En los Evangelios, Jesús no solo afirma unidad con el Padre, sino que ejerce prerrogativas divinas: perdonar pecados, gobernar la creación, compartir el nombre y la gloria divinos, y aceptar adoración. Los apóstoles lo describen con títulos divinos inequívocos.  
+-  En los Evangelios, Jesús no solo afirma unidad con el Padre, sino que ejerce prerrogativas exclusivas de Dios: perdonar pecados, gobernar la creación, compartir el nombre y la gloria divinos, y aceptar adoración. Los apóstoles lo describen con títulos divinos inequívocos.  
 
 
 ---
@@ -257,7 +257,7 @@ Jesús no fue abandonado en su divinidad. Él **eligió entrar en nuestro sentid
 ## Jesús y el Cumplimiento de las Profecías
 Jesús no cumplió solo una o dos profecías. Los eruditos cuentan **más de 300 profecías mesiánicas** en el Antiguo Testamento que apuntan a Él. Estas incluyen Su nacimiento, linaje, ministerio, traición, crucifixión, resurrección y exaltación.
 
-- Estadísticamente, la probabilidad de que un solo hombre cumpla incluso 8 profecías es de aproximadamente **1 en 10^17** (cien cuatrillones).
+- Estadísticamente, la probabilidad de que un solo hombre cumpla incluso 8 profecías es de aproximadamente **1 en 10^17** (cien mil billones).
 
 - La probabilidad de cumplir 48 es de aproximadamente **1 en 10^157**, lo que es esencialmente imposible por casualidad.
 

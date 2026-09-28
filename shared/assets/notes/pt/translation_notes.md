@@ -1,27 +1,27 @@
 # Notas de tradução
 
-Os termos hebraicos são apresentados com suas formas gregas (Septuaginta) e aramaicas (bíblicas/targúmicas/siríacas) quando estão claramente atestadas e amplamente reconhecidas. Quando um termo é apenas um nome próprio, um idioma único, ou tem variantes incertas/tardias, dá‑se apenas o hebraico para evitar associações enganosas. O objetivo é a precisão e, ao mesmo tempo, mostrar a continuidade de palavras‑chave na Bíblia Hebraica, no AT grego e nas tradições aramaicas judaicas.
+Os termos hebraicos são apresentados com suas formas gregas (Septuaginta) e aramaicas (bíblicas/targúmicas/siríacas) quando estão claramente atestadas e amplamente reconhecidas. Quando um termo é apenas um nome próprio, uma expressão idiomática única, ou tem variantes incertas/tardias, dá‑se apenas o hebraico para evitar associações enganosas. O objetivo é a precisão e, ao mesmo tempo, mostrar a continuidade de palavras‑chave na Bíblia Hebraica, no AT grego e nas tradições aramaicas judaicas.
 
 Dito isso, seguem as traduções mais mal compreendidas e mal usadas:
 
 ---
 
 ## Pecado
-**Original:** Hebrew: חֵטְא (ḥetʾ) | Greek: ἁμαρτία (hamartia) | Aramaic: חובא (ḥova)  
+**Original:** Hebraico: חֵטְא (ḥetʾ) | Grego: ἁμαρτία (hamartia) | Aramaico: חובא (ḥova)  
 
 **Nota:** Significa «errar o alvo, desviar-se». Não apenas grandes crimes nem apenas um ato, mas qualquer desvio de Deus. Inclui rebelião ativa e deixar de fazer o que é certo.
 
 ---
 
 ## Arrepender-se / Arrependimento
-**Original:** Hebrew: שׁוּב (shuv, «turn back») | Greek: μετάνοια (metanoia) | Aramaic: תיבוּתא (tēbutha)  
+**Original:** Hebraico: שׁוּב (shuv, «voltar») | Grego: μετάνοια (metanoia) | Aramaico: תיבוּתא (tēbutha)  
 
-**Nota:** Não é apenas sentir pena. Em hebraico enfatiza voltar/retornar; em grego, mudança de mente/coração. A verdadeira penitência é realinhar-se com Deus.
+**Nota:** Não é apenas sentir remorso. Em hebraico enfatiza voltar/retornar; em grego, mudança de mente/coração. O verdadeiro arrependimento é realinhar-se com Deus.
 
 ---
 
 ## Temor de Deus
-**Original:** Hebrew: יִרְאָה (yir’ah) | Greek: φόβος (phobos) | Aramaic: דחלא (deḥlā)  
+**Original:** Hebraico: יִרְאָה (yir’ah) | Grego: φόβος (phobos) | Aramaico: דחלא (deḥlā)  
 
 **Nota:** Não terror de abuso, mas reverência cheia de assombro pela santidade e autoridade de Deus. Move à obediência, humildade e confiança, não ao medo servil.
 
@@ -39,54 +39,54 @@ Dito isso, seguem as traduções mais mal compreendidas e mal usadas:
 
 **Nota:** Significado raiz = *«fala que fere, calúnia, desprezo.»* Na Escritura, não é grosseria casual, mas **desprezo deliberado a Deus**.  
 
-**Contra o Espírito Santo:** não é deslize, mas **rejeição consciente e persistente do testemunho do Espírito**, atribuindo a obra de Deus ao mal (Marcos 3:28–30; Mateus 12:31–32; Lucas 12:10). Não é que Deus não queira perdoar, mas que a pessoa se endureceu tanto que nunca pedirá nem aceitará perdão. É «imperdoável» porque o Espírito é quem convence e leva ao arrependimento (João 16:8).  
+**Contra o Espírito Santo:** não é deslize, mas **rejeição consciente e persistente do testemunho do Espírito**, atribuindo a obra de Deus ao mal (Marcos 3:28–30; Mateus 12:31–32; Lucas 12:10). Não é que Deus não queira perdoar, mas que a pessoa se endureceu tão completamente contra o Espírito que nunca pedirá nem aceitará perdão. É «imperdoável» porque o Espírito é quem convence e leva ao arrependimento (João 16:8); endurecer-se contra Ele é cortar o único caminho para o perdão.  
 
-**Escritura:** Levítico 24:16; Isaías 52:5; Mateus 12:31–32; Marcos 3:28–30; Lucas 12:10; Hebreus 10:29.
+**Escritura:** Levítico 24:16; Isaías 52:5 (a LXX usa *blasphēmía* para zombar do nome de Deus); Mateus 12:31–32; Marcos 3:28–30; Lucas 12:10; Hebreus 10:29.
 
 ---
 
 ## Ídolo (imagem esculpida)
-**Original:** Hebrew: פֶּסֶל (pesel) < root פ־ס־ל «to carve» | Greek: γλυπτόν (glypton) / εἴδωλον (eidolon) | Aramaic: פסל (pesal)  
+**Original:** Hebraico: פֶּסֶל (pesel) < raiz פ־ס־ל «esculpir» | Grego: γλυπτόν (glypton) / εἴδωλον (eidolon) | Aramaico: פסל (pesal)  
 
 **Nota:** Imagem esculpida de madeira ou pedra. Proibida quando feita para culto, ligada a prostrar/servir.
 
-**Escritura:** Exodus 20:4–5; Deuteronomy 5:8–9; Deuteronomy 27:15; Isaiah 44:9–20
+**Escritura:** Êxodo 20:4–5; Deuteronômio 5:8–9; Deuteronômio 27:15; Isaías 44:9–20
 
 ---
 
 ## Ídolo (imagem fundida)
-**Original:** Hebrew: מַסֵּכָה (massekah) < root נ־ס־ךְ «to pour/cast» | Greek: χωνευτόν (chōneuton) | Aramaic: מסכא (maskā)  
+**Original:** Hebraico: מַסֵּכָה (massekah) < raiz נ־ס־ךְ «verter/fundir» | Grego: χωνευτόν (chōneuton) | Aramaico: מסכא (maskā)  
 
 **Nota:** Imagem de metal fundido, feita por vazamento. Condenada quando usada no culto.
 
-**Escritura:** Exodus 32:4, 8; Deuteronomy 27:15; 2 Kings 17:16; Hosea 13:2
+**Escritura:** Êxodo 32:4, 8; Deuteronômio 27:15; 2 Reis 17:16; Oseias 13:2
 
 ---
 
 ## Idolatria (sacrifício de crianças a Moloque)
-**Original:** Hebrew: מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, «cause to pass through the fire») | Greek: Μολόχ (Moloch); διαβιβάζειν ἐν πυρί | Aramaic: מולך (molekh)  
+**Original:** Hebraico: מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, «fazer passar pelo fogo») | Grego: Μολόχ (Moloch); διαβιβάζειν ἐν πυρί | Aramaico: מולך (molekh)  
 
 **Nota:** Rituais explicitamente condenados, ligados a certos cultos.
 
-**Escritura:** Leviticus 18:21; 20:2–5; Deuteronomy 12:31; 2 Kings 23:10; Jeremiah 7:31; 19:5; Ezekiel 16:20–21; Psalm 106:37–38
+**Escritura:** Levítico 18:21; 20:2–5; Deuteronômio 12:31; 2 Reis 23:10; Jeremias 7:31; 19:5; Ezequiel 16:20–21; Salmo 106:37–38
 
 ---
 
 ## Zeloso (Deus)
-**Original:** Hebrew: קַנָּא (qannāʾ, «jealous/zealous») | Greek: ζηλωτής (zēlōtēs), ζῆλος (zēlos) | Aramaic: קנאה (qināʾā)  
+**Original:** Hebraico: קַנָּא (qannāʾ, «ciumento/zeloso») | Grego: ζηλωτής (zēlōtēs, «zeloso»), ζῆλος (zēlos) | Aramaico: קנאה (qināʾā)  
 
 **Nota:** O «ciúme» de Deus = zelo de aliança por lealdade exclusiva, sobretudo contra a idolatria. Melhor entendido como paixão «zelosa» por seu povo.
 
-**Escritura:** Exodus 20:5; 34:14; Deuteronomy 4:24
+**Escritura:** Êxodo 20:5; 34:14; Deuteronômio 4:24
 
 ---
 
 ## Usura / Juros
-**Original:** Hebrew: נֶשֶׁךְ (neshekh) | Greek: τόκος (tokos) | Aramaic: נשכא (nashka)  
+**Original:** Hebraico: נֶשֶׁךְ (neshekh) | Grego: τόκος (tokos) | Aramaico: נשכא (nashka)  
 
 **Nota:** Literalmente «mordida». A Torá proíbe cobrar juros ao israelita necessitado. Os profetas o denunciam como opressão.
 
-**Escritura:** Exodus 22:25; Leviticus 25:35–37; Deuteronomy 23:19; Psalm 15:5; Ezekiel 18:8
+**Escritura:** Êxodo 22:25; Levítico 25:35–37; Deuteronômio 23:19; Salmo 15:5; Ezequiel 18:8
 
 ---
 
@@ -100,72 +100,72 @@ Dito isso, seguem as traduções mais mal compreendidas e mal usadas:
 ---
 
 ## Dízimo
-**Original:** Hebrew: מַעֲשֵׂר (maʿăsēr) | Greek: δεκάτη (dekatē) | Aramaic: מעשרא (maʿsrā)  
+**Original:** Hebraico: מַעֲשֵׂר (maʿăsēr) | Grego: δεκάτη (dekatē) | Aramaico: מעשרא (maʿsrā)  
 
 **Nota:** Um décimo de colheitas/rebanhos ligado à terra de Israel. Não é dinheiro por bênção, mas provisão de aliança.
 
-**Escritura:** Numbers 18:21–24; Deuteronomy 14:22–29
+**Escritura:** Números 18:21–24; Deuteronômio 14:22–29
 
 ---
 
 ## Lilith (criatura noturna; não «a primeira esposa de Adão»)
-**Original:** Hebrew: לִילִית (lilit) | Greek: Λάμια (Lamia) / Λιλίθ (var.) | Aramaic: ליליתא (lilita)  
+**Original:** Hebraico: לִילִית (lilit) | Grego: Λάμια (Lamia) / Λιλίθ (var.) | Aramaico: ליליתא (lilita)  
 
 **Nota:** Aparece uma vez (Isaías 34:14) numa lista de criaturas num oráculo de ruína. O folclore posterior sobre «a primeira esposa de Adão» é pós-bíblico e não está em Gênesis.
 
 ---
 
 ## Graça
-**Original:** Hebrew: חֵן (ḥen, «favor») | Greek: χάρις (charis) | Aramaic: טיבותא (ṭivutha)  
+**Original:** Hebraico: חֵן (ḥen, «favor») | Grego: χάρις (charis) | Aramaico: טיבותא (ṭivutha)  
 
-**Nota:** Favor imerecido. A iniciativa de Deus de abençoar, perdoar e capacitar sem mérito humano.
+**Nota:** Favor e bondade imerecidos. A iniciativa de Deus de abençoar, perdoar e capacitar sem mérito humano.
 
 ---
 
 ## Fé
-**Original:** Hebrew: אֱמוּנָה (emunah) | Greek: πίστις (pistis) | Aramaic: הימנותא (haymanutha)  
+**Original:** Hebraico: אֱמוּנָה (emunah) | Grego: πίστις (pistis) | Aramaico: הימנותא (haymanutha)  
 
 **Nota:** Não crença cega, mas lealdade, confiança e firmeza: confiar em Deus, viver fielmente, apegar-se às promessas.
 
 ---
 
 ## Justiça
-**Original:** Hebrew: צְדָקָה (tsedaqah) | Greek: δικαιοσύνη (dikaiosynē) | Aramaic: צדקתא (tsidqeta)  
+**Original:** Hebraico: צְדָקָה (tsedaqah) | Grego: δικαιοσύνη (dikaiosynē) | Aramaico: צדקתא (tsidqeta)  
 
 **Nota:** Fidelidade de aliança, justiça, relacionamento correto. Inclui generosidade e restauração.
 
 ---
 
 ## Paz / Shalom
-**Original:** Hebrew: שָׁלוֹם (shalom) | Greek: εἰρήνη (eirēnē) | Aramaic: שלמא (shlama)  
+**Original:** Hebraico: שָׁלוֹם (shalom) | Grego: εἰρήνη (eirēnē) | Aramaico: שלמא (shlama)  
 
 **Nota:** Não apenas ausência de guerra. Plenitude, bem‑estar e harmonia com Deus, pessoas e criação.
 
 ---
 
 ## Ungido / Messias
-**Original:** Hebrew: מָשִׁיחַ (mashiach) | Greek: χριστός (christos) | Aramaic: משיחא (meshicha)  
+**Original:** Hebraico: מָשִׁיחַ (mashiach) | Grego: χριστός (christos) | Aramaico: משיחא (meshicha)  
 
 **Nota:** Literalmente «untado com óleo». Aplica-se a reis, sacerdotes e profetas. Nem sempre «o» Messias, mas qualquer líder ungido.
 
 ---
 
 ## Sheol
-**Original:** Hebrew: שְׁאוֹל (Sheʾol) | Greek: ᾅδης (Hades) | Aramaic: שאולא (Sheʾola)  
+**Original:** Hebraico: שְׁאוֹל (Sheʾol) | Grego: ᾅδης (Hades) | Aramaico: שאולא (Sheʾola)  
 
 **Nota:** Morada dos mortos / sepultura. No pensamento hebraico é neutro: justos e ímpios ali permanecem até Deus agir.
 
 ---
 
 ## Santo
-**Original:** Hebrew: קָדוֹשׁ (qadosh) | Greek: ἅγιος (hagios) | Aramaic: קדיש (qaddish)  
+**Original:** Hebraico: קָדוֹשׁ (qadosh) | Grego: ἅγιος (hagios) | Aramaico: קדיש (qaddish)  
 
 **Nota:** «Separado, consagrado». A natureza única de Deus, não apenas perfeição moral.
 
 ---
 
 ## Inferno / Geena
-**Original:** Hebrew: גֵּי־הִנֹּם (Gē-Hinnom, «Valley of Hinnom») | Greek: γέεννα (Gehenna) | Aramaic: גֵיהִנָּם (Gehinnam)  
+**Original:** Hebraico: גֵּי־הִנֹּם (Gē-Hinnom, «vale de Hinom») | Grego: γέεννα (Gehenna) | Aramaico: גֵיהִנָּם (Gehinnam)  
 
 **Nota:** Vale real ao sul de Jerusalém ligado ao sacrifício infantil; tornou‑se símbolo do juízo final. Distinto de Sheol/Hades.
 
@@ -173,7 +173,7 @@ Dito isso, seguem as traduções mais mal compreendidas e mal usadas:
 ---
 
 ## Reino de Deus
-**Original:** Hebrew: מַלְכוּת אֱלֹהִים (malkhut Elohim) | Greek: βασιλεία τοῦ θεοῦ (basileia tou theou) | Aramaic: מלכותא דאלהא (malkutha d’alahā)  
+**Original:** Hebraico: מַלְכוּת אֱלֹהִים (malkhut Elohim) | Grego: βασιλεία τοῦ θεοῦ (basileia tou theou) | Aramaico: מלכותא דאלהא (malkutha d’alahā)  
 
 **Nota:** O governo/reinado de Deus, não um território. Presente onde sua vontade é feita, culminando na vinda do Messias e na nova criação.
 
@@ -183,10 +183,10 @@ Dito isso, seguem as traduções mais mal compreendidas e mal usadas:
 **Original:** Hebraico: שֵׁד (*shed*, «demônio»; Dt 32:17; Sl 106:37) | Grego: δαιμονίζομαι (*daimonizomai*, voz passiva/média, «ser influenciado por um demônio») | Aramaico: שֵׁידָא (*sheda*)
 
 **Nota:**  
-As Bíblias em inglês geralmente traduzem *daimonizomai* como «possesso por demônios», mas a forma grega é passiva: «endemoninhado / sob influência demoníaca». Não implica sempre posse total ou controle absoluto. O sentido inclui:
+As Bíblias em inglês geralmente traduzem *daimonizomai* com a expressão inglesa «demon-possessed» («possesso por demônios»), mas a forma grega é passiva: «endemoninhado / sob influência demoníaca». Não implica sempre posse total ou controle absoluto. O sentido inclui:
 - oprimido ou atormentado por um demônio,
 
-- influenciado na mente ou no corpo,
+- influenciado na mente ou no corpo por um demônio,
 
 - em casos graves, controle da fala ou do comportamento.
 
@@ -202,7 +202,7 @@ As Bíblias em inglês geralmente traduzem *daimonizomai* como «possesso por de
 - Atos 10:38: «Deus ungiu a Jesus… e ele curou todos os oprimidos pelo diabo.»
 
 **Esclarecimento:**
-- Hebraico: *shedim* (plural) = espíritos hostis aos quais Israel não deveria sacrificar.
+- Hebraico: *shedim* (plural) = espíritos hostis aos quais Israel era proibido de oferecer sacrifícios (Deuteronômio 32:17; Salmo 106:37).
 
 - Aramaico/Siríaco: *sheda* = espírito maligno.
 
@@ -214,7 +214,7 @@ As Bíblias em inglês geralmente traduzem *daimonizomai* como «possesso por de
 **Original:** Hebraico: שָּׂטָן (*satan*, «adversário, acusador») | Grego: Σατανᾶς (*Satanas*) ou διάβολος (*diabolos*, «caluniador») | Aramaico: סָטָנָא (*satana*)
 
 **Nota:**  
-Em hebraico, *satan* significa «adversário» ou «opositor». Às vezes humano (1 Sm 29:4; 1 Rs 11:14), outras vezes espiritual (Jó 1–2; Zc 3:1–2). No grego, tornou-se título pessoal do diabo, o principal inimigo dos propósitos de Deus. *Diabolos* («caluniador») é usado de forma intercambiável.
+Em hebraico, *satan* significa «adversário» ou «opositor». Às vezes humano (1 Sm 29:4; 1 Rs 11:14), outras vezes espiritual (Jó 1–2; Zc 3:1–2). No grego, tornou-se título pessoal do diabo, o principal inimigo dos propósitos de Deus. *Diabolos* («caluniador») é frequentemente usado de forma intercambiável.
 
 **Escritura:**
 - Jó 1:6–12: *ha-satan* aparece como acusador diante de Deus.
@@ -248,7 +248,7 @@ O termo enfatiza impureza ritual/moral e influência espiritual hostil. Nos Evan
 - Lucas 11:24: «Quando um espírito imundo sai de uma pessoa…»
 
 **Esclarecimento:**
-- Contexto profético hebraico: idolatria e impureza ligadas a espíritos hostis.
+- Contexto profético hebraico: falsa adoração e impureza ligadas a espíritos hostis.
 
 - Uso grego/aramaico no NT se sobrepõe a *daimonion*.
 
@@ -322,7 +322,7 @@ Qualquer ensino que equipare Satanás ao título de «Estrela da manhã» que pe
 • Aramaico: זִנְיָא (*zinya*, «fornicação, prostituição»)
 
 **Nota:**  
-*Porneia* abrange relações sexuais ilícitas fora da aliança de Deus. A Escritura define a imoralidade por **relações e atos proibidos**, não por limitar a intimidade conjugal.
+*Porneia* abrange relações sexuais ilícitas fora da aliança de Deus. A Escritura define a imoralidade por **relações e atos proibidos**, não por regular a intimidade consensual dentro do casamento.
 
 **Explicitamente proibido:**
 

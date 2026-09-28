@@ -60,9 +60,9 @@ Fonti: [eclissi solari della NASA, 2021-2030](https://eclipse.gsfc.nasa.gov/SEde
 
 Le eclissi solari nella tradizione ebraica sono considerate segni per le nazioni (Sukkah 29a). Diverse eclissi notevoli coincidono con date significative:
 - **20 marzo 2015:** Eclissi totale di sole il **1 Nisan** (il nuovo anno biblico per i mesi, Esodo 12:2), a metà della tetrade di luna di sangue 2014–2015
-- **13 settembre 2015:** Eclissi parziale di sole il **1 Tishrei 5776, Rosh Hashanah**. Insieme all'eclissi del 20 marzo, questi due eclissi solari caddero nei primi giorni dei due mesi più significativi del calendario ebraico (Nisan e Tishrei), racchiudendo la tetrade di luna di sangue 2014–2015 entro un unico anno. Gli insegnanti di profezia Mark Biltz e John Hagee trattano tutti e sei gli eventi (quattro lune di sangue + due eclissi solari) come un unico gruppo.
-- **21 agosto 2017:** «Grande Eclissi Americana», primo eclissi totale di sole visibile da costa a costa negli USA in 99 anni. Data ebraica: **29 Av 5777**, l'ultimo giorno del mese di Av e la vigilia del 1 Elul. Elul è la stagione di 40 giorni di penitenza che conduce a Rosh Hashanah; molti insegnanti messianici hanno notato la tempistica.
-- **8 aprile 2024:** Secondo Grande Eclissi Americana; i due percorsi (2017 e 2024) formano una X sul territorio degli Stati Uniti
+- **13 settembre 2015:** Eclissi parziale di sole il **1 Tishrei 5776, Rosh Hashanah**. Insieme all'eclissi del 20 marzo, queste due eclissi solari caddero nei primi giorni dei due mesi più significativi del calendario ebraico (Nisan e Tishrei), racchiudendo la tetrade di luna di sangue 2014–2015 entro un unico anno. Gli insegnanti di profezia Mark Biltz e John Hagee trattano tutti e sei gli eventi (quattro lune di sangue + due eclissi solari) come un unico gruppo.
+- **21 agosto 2017:** «Grande Eclissi Americana», prima eclissi totale di sole visibile da costa a costa negli USA in 99 anni. Data ebraica: **29 Av 5777**, l'ultimo giorno del mese di Av e la vigilia del 1 Elul. Elul è la stagione di 40 giorni di pentimento che conduce a Rosh Hashanah; molti insegnanti messianici hanno notato la tempistica.
+- **8 aprile 2024:** Seconda Grande Eclissi Americana; i due percorsi (2017 e 2024) formano una X sul territorio degli Stati Uniti
 ---
 
 ## La Stella di Betlemme
@@ -92,8 +92,7 @@ Amos 8:9: «In quel giorno, dice il Signore, DIO, farò tramontare il sole a mez
 «Un gran segno apparve nel cielo: una donna rivestita del sole, con la luna sotto i piedi e sul capo una corona di dodici stelle» (Apocalisse 12:1).
 
 
-CORPO APOCALISSE 12:
-Su **23 settembre 2017**, la costellazione della Vergine era «rivestita» dal sole con la luna ai suoi piedi. Sopra la sua testa, le nove stelle di Leone più i pianeti Mercurio, Venere e Marte formavano una corona di dodici. Giove era stato nel mezzo della Vergine per circa 42 settimane, la durata della gestazione umana, a causa del moto retrogrado prima di «uscire» il 9 settembre 2017. Giove è storicamente chiamato il «pianeta re». Il periodo di 42 settimane specchia precisamente i «42 mesi» di Apocalisse 13:5 e Apocalisse 12:6 (1.260 giorni). Giove è entrato nella regione del grembo della Vergine il 20 novembre 2016.
+Il **23 settembre 2017**, la costellazione della Vergine era «rivestita» dal sole con la luna ai suoi piedi. Sopra la sua testa, le nove stelle di Leone più i pianeti Mercurio, Venere e Marte formavano una corona di dodici. Giove era stato nel mezzo della Vergine per circa 42 settimane, la durata della gestazione umana, a causa del moto retrogrado prima di «uscire» il 9 settembre 2017. Giove è storicamente chiamato il «pianeta re». Il periodo di 42 settimane specchia precisamente i «42 mesi» di Apocalisse 13:5 e Apocalisse 12:6 (1.260 giorni). Giove è entrato nella regione del grembo della Vergine il 20 novembre 2016.
 
 La data ebraica era **3 Tishrei 5778**, il Digiuno di Ghedalia, il giorno dopo Rosh Hashanah.
 
@@ -151,7 +150,7 @@ In quattro anni consecutivi, un'eclissi lunare cade in una ricorrenza di Purim. 
 - **2–3 marzo 2026:** Eclissi lunare totale (luna di sangue, ~58 minuti di totalità), 14 Adar 5786, **Purim**
 - **20–21 febbraio 2027:** Eclissi lunare di penombra, 14 Adar I 5787, **Purim Katan** (il Purim di Adar I negli anni embolismici)
 
-Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi non hanno precedenti moderni, e qui arrivano incorniciate da eclissi di penombra a Shushan Purim prima e a Purim Katan dopo: quattro anni, quattro ricorrenze di Purim, quattro eclissi lunari. Purim non è una festa di Leviticus 23, ma commemora la liberazione di Israele dal genocidio (Ester 9:20–22). Il libro di Esther non nomina mai Dio, eppure la Sua mano è visibile ovunque.
+Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi non hanno precedenti moderni, e qui arrivano incorniciate da eclissi di penombra a Shushan Purim prima e a Purim Katan dopo: quattro anni, quattro ricorrenze di Purim, quattro eclissi lunari. Purim non è una festa di Levitico 23, ma commemora la liberazione di Israele dal genocidio (Ester 9:20–22). Il libro di Ester non nomina mai Dio, eppure la Sua mano è visibile ovunque.
 
 ### Eclissi Solari
 
@@ -165,6 +164,6 @@ Dal **1º al 5 febbraio 2026**, la regione attiva AR4366, un gruppo di macchie s
 
 ### Nota
 
-Questo periodo non produce una tetrade nel senso classico (quattro eclissi lunari totali consecutive a Passover e Sukkot, l'ultima è stata 2014–2015), e altre eclissi cadono comunque tra queste quattro. Quello che 2024–2027 presenta è uno schema distinto: un'eclissi solare a Rosh Hashanah, un'eclissi lunare in una ricorrenza di Purim per quattro anni consecutivi, di cui due lune di sangue, e una tempesta solare straordinaria che precede la seconda luna di sangue.
+Questo periodo non produce una tetrade nel senso classico (quattro eclissi lunari totali consecutive a Pasqua e Sukkot, l'ultima è stata 2014–2015), e altre eclissi cadono comunque tra queste quattro. Quello che 2024–2027 presenta è uno schema distinto: un'eclissi solare a Rosh Hashanah, un'eclissi lunare in una ricorrenza di Purim per quattro anni consecutivi, di cui due lune di sangue, e una tempesta solare straordinaria che precede la seconda luna di sangue.
 
-Luke 21:25, *«Ci saranno segni nel sole, nella luna e nelle stelle.»* Questi allineamenti sono fatti documentati. Il loro significato ultimo appartiene solo a Dio.
+Luca 21:25, *«Ci saranno segni nel sole, nella luna e nelle stelle.»* Questi allineamenti sono fatti documentati. Il loro significato ultimo appartiene solo a Dio.

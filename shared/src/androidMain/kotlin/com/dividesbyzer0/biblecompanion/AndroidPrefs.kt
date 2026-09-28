@@ -60,6 +60,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val CUSTOM_THEME_HUE = floatPreferencesKey("custom_theme_hue")
         val CUSTOM_THEME_SATURATION = floatPreferencesKey("custom_theme_saturation")
         val CUSTOM_THEME_LIGHTNESS = floatPreferencesKey("custom_theme_lightness")
+        val CUSTOM_THEME_SECONDARY = stringPreferencesKey("custom_theme_secondary")
+        val CUSTOM_THEME_TERTIARY = stringPreferencesKey("custom_theme_tertiary")
         val EXPAND_NOTES_DEFAULT = booleanPreferencesKey("expand_notes_default")
         val CROSS_BOOK_TTS = booleanPreferencesKey("cross_book_tts")
         val COLLAPSED_STORIES_JSON = stringPreferencesKey("collapsed_stories_json")
@@ -121,6 +123,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             customThemeHue = safeThemeHue(p[Keys.CUSTOM_THEME_HUE] ?: 210f),
             customThemeSaturation = safeThemeUnit(p[Keys.CUSTOM_THEME_SATURATION] ?: 1f, 1f),
             customThemeLightness = safeThemeUnit(p[Keys.CUSTOM_THEME_LIGHTNESS] ?: 0.5f, 0.5f),
+            customThemeSecondary = readCustomThemeColor(p[Keys.CUSTOM_THEME_SECONDARY]),
+            customThemeTertiary = readCustomThemeColor(p[Keys.CUSTOM_THEME_TERTIARY]),
             expandNotesDefault = p[Keys.EXPAND_NOTES_DEFAULT] ?: false,
             collapsedStoriesJson = p[Keys.COLLAPSED_STORIES_JSON] ?: "{}",
             autoContinueTts = p[Keys.AUTO_CONTINUE_TTS] ?: true,
@@ -234,6 +238,23 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             it[Keys.CUSTOM_THEME_SATURATION] = safeThemeUnit(saturation, 1f)
             it[Keys.CUSTOM_THEME_LIGHTNESS] = safeThemeUnit(lightness, 0.5f)
         }.let { Unit }
+
+    actual suspend fun setCustomThemeAccent(role: CustomThemeRole, color: CustomThemeColor) {
+        val safe = color.normalized()
+        if (role == CustomThemeRole.Primary) {
+            setCustomThemeColor(safe.hue, safe.saturation, safe.lightness)
+        } else {
+            val key = if (role == CustomThemeRole.Secondary) Keys.CUSTOM_THEME_SECONDARY else Keys.CUSTOM_THEME_TERTIARY
+            context.dataStore.edit { it[key] = json.encodeToString(safe) }
+        }
+    }
+
+    actual suspend fun resetCustomThemeAccents() {
+        context.dataStore.edit {
+            it.remove(Keys.CUSTOM_THEME_SECONDARY)
+            it.remove(Keys.CUSTOM_THEME_TERTIARY)
+        }
+    }
 
     actual suspend fun setExpandNotesDefault(expand: Boolean) =
         context.dataStore.edit { it[Keys.EXPAND_NOTES_DEFAULT] = expand }.let { Unit }
@@ -440,7 +461,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             labels = labels,
             customThemeHue = safeThemeHue(p[Keys.CUSTOM_THEME_HUE] ?: 210f),
             customThemeSaturation = safeThemeUnit(p[Keys.CUSTOM_THEME_SATURATION] ?: 1f, 1f),
-            customThemeLightness = safeThemeUnit(p[Keys.CUSTOM_THEME_LIGHTNESS] ?: 0.5f, 0.5f)
+            customThemeLightness = safeThemeUnit(p[Keys.CUSTOM_THEME_LIGHTNESS] ?: 0.5f, 0.5f),
+            customThemeSecondary = readCustomThemeColor(p[Keys.CUSTOM_THEME_SECONDARY]),
+            customThemeTertiary = readCustomThemeColor(p[Keys.CUSTOM_THEME_TERTIARY])
         )
         return json.encodeToString(backup)
     }
@@ -456,6 +479,12 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
                     p[Keys.CUSTOM_THEME_HUE] = safeThemeHue(theme.hue)
                     p[Keys.CUSTOM_THEME_SATURATION] = safeThemeUnit(theme.saturation, 1f)
                     p[Keys.CUSTOM_THEME_LIGHTNESS] = safeThemeUnit(theme.lightness, 0.5f)
+                    backup.customThemeSecondary?.let {
+                        p[Keys.CUSTOM_THEME_SECONDARY] = json.encodeToString(it.normalized())
+                    } ?: p.remove(Keys.CUSTOM_THEME_SECONDARY)
+                    backup.customThemeTertiary?.let {
+                        p[Keys.CUSTOM_THEME_TERTIARY] = json.encodeToString(it.normalized())
+                    } ?: p.remove(Keys.CUSTOM_THEME_TERTIARY)
                 }
             }
             true

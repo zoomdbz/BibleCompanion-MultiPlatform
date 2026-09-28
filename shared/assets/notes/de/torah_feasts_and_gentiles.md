@@ -501,7 +501,7 @@ Diese Stelle wird oft so behandelt, als hätte Paulus gesagt: „Haltet den Sabb
 
 Der Zusammenhang zeigt, wer dieses Urteil fällt. Paulus warnt vor „Philosophie und leerem Betrug, die auf menschlicher Überlieferung beruhen“ (**Kolosser 2:8**) und vor Vorschriften wie „Berühre nicht, koste nicht, fasse nicht an!“, die „auf Geboten und Lehren von Menschen beruhen“ (**Kolosser 2:20-23**). An anderer Stelle stellt die Schrift die Feste und den Sabbat in das zukünftige Reich (**Sacharja 14:16-19; Jesaja 66:23**).
 
-Kolosser 2 muss daher ernsthaft berücksichtigt werden, darf aber nicht in Worte umformuliert werden, die Paulus nie schrieb. Der Vers sagt, man solle nicht zulassen, dass andere Gläubige wegen eines Sabbats richten; er sagt nicht ausdrücklich, dass das Vierte Gebot ausgelöscht wurde.
+Kolosser 2 muss daher ernsthaft berücksichtigt werden, darf aber nicht in Worte umformuliert werden, die Paulus nie schrieb. Der Vers sagt, man solle nicht zulassen, dass andere die Gläubigen wegen eines Sabbats richten; er sagt nicht ausdrücklich, dass das Vierte Gebot ausgelöscht wurde.
 
 ### Was ist mit Römer 14:5-6?
 
@@ -619,7 +619,7 @@ Paulus schreibt an die überwiegend nichtjüdische Gemeinde in Korinth:
 >
 > **1 Korinther 5:7-8**
 
-Paulus verleiht dem Fest unmittelbar moralische Tiefe, indem er den alten Sauerteig der Bosheit und Schlechtigkeit der Aufrichtigkeit und Wahrheit gegenüberstellt. Die geistliche Bedeutung verlangt nicht, dass die körperliche festgesetzte Zeit bedeutungslos wird. Seine Formulierung ist bemerkenswert: **Christus ist unser Passah; darum lasst uns das Fest feiern.**
+Paulus verleiht dem Fest unmittelbar moralische Tiefe, indem er den alten Sauerteig der Bosheit und Schlechtigkeit der Aufrichtigkeit und Wahrheit gegenüberstellt. Die geistliche Bedeutung verlangt nicht, dass das Feiern zur festgesetzten Zeit bedeutungslos wird. Seine Formulierung ist bemerkenswert: **Christus ist unser Passah; darum lasst uns das Fest feiern.**
 
 ## Kolosser 2:16-17 sagt nicht, dass die Feste abgeschafft wurden
 

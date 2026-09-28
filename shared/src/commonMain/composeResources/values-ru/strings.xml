@@ -457,4 +457,9 @@
     <string name="ui_color_violet">Фиолетовый</string>
     <string name="ui_color_magenta">Пурпурный</string>
     <string name="ui_color_rose">Розовый</string>
+    <string name="ui_primary_color">Основной</string>
+    <string name="ui_secondary_color">Вторичный</string>
+    <string name="ui_tertiary_color">Третичный</string>
+    <string name="ui_custom_palette_hint">Выберите каждый цвет отдельно или подберите оба акцентных цвета к основному.</string>
+    <string name="ui_match_accent_colors">Подобрать акценты к основному</string>
 </resources>

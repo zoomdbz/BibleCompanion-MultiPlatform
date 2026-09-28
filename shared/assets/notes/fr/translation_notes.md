@@ -7,21 +7,21 @@ Cela dit, voici les traductions les plus souvent mal comprises et mal employées
 ---
 
 ## Péché
-**Original :** Hebrew: חֵטְא (ḥetʾ) ; Greek: ἁμαρτία (hamartia) ; Aramaic: חובא (ḥova)  
+**Original :** Hébreu : חֵטְא (ḥetʾ) ; Grec : ἁμαρτία (hamartia) ; Araméen : חובא (ḥova)  
 
 **Note :** Signifie « manquer la cible, s’égarer ». Pas seulement les grands crimes ni un simple acte, mais toute déviation par rapport à Dieu. Inclut la rébellion active et l’omission de faire le bien.
 
 ---
 
 ## Se repentir / Repentance
-**Original :** Hebrew: שׁוּב (shuv, « turn back ») ; Greek: μετάνοια (metanoia) ; Aramaic: תיבוּתא (tēbutha)  
+**Original :** Hébreu : שׁוּב (shuv, « revenir ») ; Grec : μετάνοια (metanoia) ; Araméen : תיבוּתא (tēbutha)  
 
 **Note :** Ce n’est pas seulement « se sentir désolé ». En hébreu, l’accent est mis sur le retour; en grec, sur un changement d’esprit et de cœur. La vraie repentance = se réaligner sur Dieu.
 
 ---
 
 ## Crainte de Dieu
-**Original :** Hebrew: יִרְאָה (yir’ah) ; Greek: φόβος (phobos) ; Aramaic: דחלא (deḥlā)  
+**Original :** Hébreu : יִרְאָה (yir’ah) ; Grec : φόβος (phobos) ; Araméen : דחלא (deḥlā)  
 
 **Note :** Non pas la terreur d’un abus, mais une révérence émerveillée pour la sainteté et l’autorité de Dieu. Elle motive l’obéissance, l’humilité et la confiance, non la peur servile.
 
@@ -39,54 +39,54 @@ Cela dit, voici les traductions les plus souvent mal comprises et mal employées
 
 **Note:** Sens de base = *« parole qui blesse, calomnie, mépris. »* Dans l’Écriture, pas une insulte banale mais **un mépris délibéré envers Dieu**.  
 
-**Contre l’Esprit Saint:** pas une simple erreur mais **rejet conscient et persistant du témoignage de l’Esprit**, attribuant l’œuvre de Dieu au mal (Marc 3:28–30; Matthieu 12:31–32; Luc 12:10). Ce n’est pas que Dieu refuse de pardonner, mais que la personne s’endurcit au point de ne jamais demander ni accepter le pardon. C’est « impardonnable » car l’Esprit est celui qui convainc et conduit à la repentance (Jean 16:8).  
+**Contre l’Esprit Saint:** pas une simple erreur mais **rejet conscient et persistant du témoignage de l’Esprit**, attribuant l’œuvre de Dieu au mal (Marc 3:28–30; Matthieu 12:31–32; Luc 12:10). Ce n’est pas que Dieu refuse de pardonner, mais que la personne s’endurcit si complètement contre l’Esprit qu’elle ne demandera ni n’acceptera jamais le pardon. Ce péché est dit « impardonnable » parce que l’Esprit convainc et conduit à la repentance (Jean 16:8) ; s’endurcir contre lui revient à couper le seul chemin vers le pardon.  
 
-**Écriture:** Lévitique 24:16; Ésaïe 52:5; Matthieu 12:31–32; Marc 3:28–30; Luc 12:10; Hébreux 10:29.
+**Écriture:** Lévitique 24:16; Ésaïe 52:5 (la LXX emploie *blasphēmía* pour désigner le fait de se moquer du nom de Dieu); Matthieu 12:31–32; Marc 3:28–30; Luc 12:10; Hébreux 10:29.
 
 ---
 
 ## Idole (image sculptée)
-**Original :** Hebrew: פֶּסֶל (pesel) < root פ־ס־ל « to carve » ; Greek: γλυπτόν (glypton) / εἴδωλον (eidolon) ; Aramaic: פסל (pesal)  
+**Original :** Hébreu : פֶּסֶל (pesel) < racine פ־ס־ל « sculpter » ; Grec : γλυπτόν (glypton) / εἴδωλον (eidolon) ; Araméen : פסל (pesal)  
 
 **Note :** Image sculptée en bois ou en pierre. Interdite quand elle est faite pour le culte, liée à se prosterner/servir.
 
-**Écriture :** Exodus 20:4–5; Deuteronomy 5:8–9; Deuteronomy 27:15; Isaiah 44:9–20
+**Écriture :** Exode 20:4–5; Deutéronome 5:8–9; Deutéronome 27:15; Ésaïe 44:9–20
 
 ---
 
 ## Idole (image coulée)
-**Original :** Hebrew: מַסֵּכָה (massekah) < root נ־ס־ךְ « to pour/cast » ; Greek: χωνευτόν (chōneuton) ; Aramaic: מסכא (maskā)  
+**Original :** Hébreu : מַסֵּכָה (massekah) < racine נ־ס־ךְ « verser/couler » ; Grec : χωνευτόν (chōneuton) ; Araméen : מסכא (maskā)  
 
 **Note :** Image de métal coulée. Condamnée lorsqu’elle est utilisée au culte.
 
-**Écriture :** Exodus 32:4, 8; Deuteronomy 27:15; 2 Kings 17:16; Hosea 13:2
+**Écriture :** Exode 32:4, 8; Deutéronome 27:15; 2 Rois 17:16; Osée 13:2
 
 ---
 
 ## Idolâtrie (sacrifice d’enfants à Molokh)
-**Original :** Hebrew: מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, « cause to pass through the fire ») ; Greek: Μολόχ (Moloch); διαβιβάζειν ἐν πυρί ; Aramaic: מולך (molekh)  
+**Original :** Hébreu : מֹלֶךְ (Mōlekh); הֶעֱבִיר בָּאֵשׁ (heʿevir baʾesh, « faire passer par le feu ») ; Grec : Μολόχ (Moloch); διαβιβάζειν ἐν πυρί ; Araméen : מולך (molekh)  
 
 **Note :** Rituels explicitement condamnés, liés à certains cultes.
 
-**Écriture :** Leviticus 18:21; 20:2–5; Deuteronomy 12:31; 2 Kings 23:10; Jeremiah 7:31; 19:5; Ezekiel 16:20–21; Psalm 106:37–38
+**Écriture :** Lévitique 18:21; 20:2–5; Deutéronome 12:31; 2 Rois 23:10; Jérémie 7:31; 19:5; Ézéchiel 16:20–21; Psaume 106:37–38
 
 ---
 
 ## Jaloux (Dieu)
-**Original :** Hebrew: קַנָּא (qannāʾ, « jealous/zealous ») ; Greek: ζηλωτής (zēlōtēs), ζῆλος (zēlos) ; Aramaic: קנאה (qināʾā)  
+**Original :** Hébreu : קַנָּא (qannāʾ, « jaloux/zélé ») ; Grec : ζηλωτής (zēlōtēs, « zélé »), ζῆλος (zēlos) ; Araméen : קנאה (qināʾā)  
 
-**Note :** La « jalousie » de Dieu = zèle d’alliance pour une loyauté exclusive, surtout contre l’idolâtrie. Mieux comprise comme passion « jalouse » pour son peuple.
+**Note :** La « jalousie » de Dieu = zèle d’alliance pour une loyauté exclusive, surtout contre l’idolâtrie. Elle se comprend mieux comme une passion pleine de zèle pour son peuple.
 
-**Écriture :** Exodus 20:5; 34:14; Deuteronomy 4:24
+**Écriture :** Exode 20:5; 34:14; Deutéronome 4:24
 
 ---
 
 ## Usure / Intérêt
-**Original :** Hebrew: נֶשֶׁךְ (neshekh) ; Greek: τόκος (tokos) ; Aramaic: נשכא (nashka)  
+**Original :** Hébreu : נֶשֶׁךְ (neshekh) ; Grec : τόκος (tokos) ; Araméen : נשכא (nashka)  
 
-**Note :** Littéralement « morsure ». La Torah interdit de prendre des intérêts à un compatriote dans le besoin. Les prophètes le dénoncent comme oppression.
+**Note :** Littéralement « morsure ». La Torah interdit de prendre des intérêts à un compatriote israélite dans le besoin. Les prophètes le dénoncent comme oppression.
 
-**Écriture :** Exodus 22:25; Leviticus 25:35–37; Deuteronomy 23:19; Psalm 15:5; Ezekiel 18:8
+**Écriture :** Exode 22:25; Lévitique 25:35–37; Deutéronome 23:19; Psaume 15:5; Ézéchiel 18:8
 
 ---
 
@@ -100,81 +100,81 @@ Cela dit, voici les traductions les plus souvent mal comprises et mal employées
 ---
 
 ## Dîme
-**Original :** Hebrew: מַעֲשֵׂר (maʿăsēr) ; Greek: δεκάτη (dekatē) ; Aramaic: מעשרא (maʿsrā)  
+**Original :** Hébreu : מַעֲשֵׂר (maʿăsēr) ; Grec : δεκάτη (dekatē) ; Araméen : מעשרא (maʿsrā)  
 
 **Note :** Un dixième des récoltes/troupeaux lié à la terre d’Israël. Pas un « argent contre bénédiction », mais une provision d’alliance.
 
-**Écriture :** Numbers 18:21–24; Deuteronomy 14:22–29
+**Écriture :** Nombres 18:21–24; Deutéronome 14:22–29
 
 ---
 
 ## Lilith (créature nocturne ; pas « la première femme d’Adam »)
-**Original :** Hebrew: לִילִית (lilit) ; Greek: Λάμια (Lamia) / Λιλίθ (var.) ; Aramaic: ליליתא (lilita)  
+**Original :** Hébreu : לִילִית (lilit) ; Grec : Λάμια (Lamia) / Λιλίθ (var.) ; Araméen : ליליתא (lilita)  
 
 **Note :** N’apparaît qu’une fois (Ésaïe 34:14) dans une liste de créatures d’un oracle de ruine. Le folklore ultérieur sur « la première femme d’Adam » est post-biblique et n’est pas dans la Genèse.
 
 ---
 
 ## Grâce
-**Original :** Hebrew: חֵן (ḥen, « favor ») ; Greek: χάρις (charis) ; Aramaic: טיבותא (ṭivutha)  
+**Original :** Hébreu : חֵן (ḥen, « faveur ») ; Grec : χάρις (charis) ; Araméen : טיבותא (ṭivutha)  
 
-**Note :** Faveur imméritée. L’initiative de Dieu pour bénir, pardonner et fortifier sans mérite.
+**Note :** Faveur et bonté imméritées. L’initiative de Dieu pour bénir, pardonner et fortifier sans mérite.
 
 ---
 
 ## Foi
-**Original :** Hebrew: אֱמוּנָה (emunah) ; Greek: πίστις (pistis) ; Aramaic: הימנותא (haymanutha)  
+**Original :** Hébreu : אֱמוּנָה (emunah) ; Grec : πίστις (pistis) ; Araméen : הימנותא (haymanutha)  
 
 **Note :** Ce n’est pas une croyance aveugle, mais loyauté, confiance et fermeté : compter sur Dieu, vivre fidèlement, s’attacher à ses promesses.
 
 ---
 
 ## Justice
-**Original :** Hebrew: צְדָקָה (tsedaqah) ; Greek: δικαιοσύνη (dikaiosynē) ; Aramaic: צדקתא (tsidqeta)  
+**Original :** Hébreu : צְדָקָה (tsedaqah) ; Grec : δικαιοσύνη (dikaiosynē) ; Araméen : צדקתא (tsidqeta)  
 
 **Note :** Fidélité d’alliance, justice, relation droite. Inclut générosité et action réparatrice.
 
 ---
 
 ## Paix / Shalom
-**Original :** Hebrew: שָׁלוֹם (shalom) ; Greek: εἰρήνη (eirēnē) ; Aramaic: שלמא (shlama)  
+**Original :** Hébreu : שָׁלוֹם (shalom) ; Grec : εἰρήνη (eirēnē) ; Araméen : שלמא (shlama)  
 
 **Note :** Pas seulement l’absence de guerre. Plénitude, bien‑être et harmonie avec Dieu, les hommes et la création.
 
 ---
 
 ## Oint / Messie
-**Original :** Hebrew: מָשִׁיחַ (mashiach) ; Greek: χριστός (christos) ; Aramaic: משיחא (meshicha)  
+**Original :** Hébreu : מָשִׁיחַ (mashiach) ; Grec : χριστός (christos) ; Araméen : משיחא (meshicha)  
 
 **Note :** Littéralement « enduit d’huile ». S’applique aux rois, prêtres, prophètes. Pas toujours « le » Messie, mais tout dirigeant oint.
 
 ---
 
 ## Shéol
-**Original :** Hebrew: שְׁאוֹל (Sheʾol) ; Greek: ᾅδης (Hades) ; Aramaic: שאולא (Sheʾola)  
+**Original :** Hébreu : שְׁאוֹל (Sheʾol) ; Grec : ᾅδης (Hades) ; Araméen : שאולא (Sheʾola)  
 
 **Note :** Séjour des morts / tombe. Dans la pensée hébraïque, neutre : justes et méchants y vont jusqu’à l’intervention de Dieu.
 
 ---
 
 ## Saint
-**Original :** Hebrew: קָדוֹשׁ (qadosh) ; Greek: ἅγιος (hagios) ; Aramaic: קדיש (qaddish)  
+**Original :** Hébreu : קָדוֹשׁ (qadosh) ; Grec : ἅγιος (hagios) ; Araméen : קדיש (qaddish)  
 
 **Note :** « Mis à part, consacré ». La nature unique de Dieu, pas seulement une perfection morale.
 
 ---
 
 ## Enfer / Géhenne
-**Original :** Hebrew: גֵּי־הִנֹּם (Gē-Hinnom, « Valley of Hinnom ») ; Greek: γέεννα (Gehenna) ; Aramaic: גֵיהִנָּם (Gehinnam)  
+**Original :** Hébreu : גֵּי־הִנֹּם (Gē-Hinnom, « vallée de Hinnom ») ; Grec : γέεννα (Gehenna) ; Araméen : גֵיהִנָּם (Gehinnam)  
 
 **Note :** Vallée réelle au sud de Jérusalem, liée au sacrifice d’enfants; devenue symbole du jugement final. Distincte du Shéol/Hadès.
 
 ---
 
 ## Royaume de Dieu
-**Original :** Hebrew: מַלְכוּת אֱלֹהִים (malkhut Elohim) ; Greek: βασιλεία τοῦ θεοῦ (basileia tou theou) ; Aramaic: מלכותא דאלהא (malkutha d’alahā)  
+**Original :** Hébreu : מַלְכוּת אֱלֹהִים (malkhut Elohim) ; Grec : βασιλεία τοῦ θεοῦ (basileia tou theou) ; Araméen : מלכותא דאלהא (malkutha d’alahā)  
 
-**Note :** Le règne de Dieu, non une géographie. Présent là où sa volonté s’accomplit, s’achevant avec la venue du Messie et la nouvelle création.
+**Note :** Le règne de Dieu, non une géographie. Présent là où sa volonté s’accomplit, culminant avec la venue du Messie et la nouvelle création.
 
 ---
 
@@ -182,14 +182,14 @@ Cela dit, voici les traductions les plus souvent mal comprises et mal employées
 **Original:** Hébreu: שֵׁד (*shed*, « démon »; Dt 32:17; Ps 106:37); Grec: δαιμονίζομαι (*daimonizomai*, passif/moyen, « être influencé par un démon »); Araméen: שֵׁידָא (*sheda*)
 
 **Note:**  
-Les Bibles traduisent souvent *daimonizomai* par « possédé par un démon », mais la forme grecque est passive: « démonisé / sous influence démoniaque ». Cela n’implique pas toujours possession totale ou contrôle absolu. Cela peut signifier:
+Les Bibles anglaises traduisent souvent *daimonizomai* par l’expression anglaise « demon-possessed » (« possédé par un démon »), mais la forme grecque est passive: « démonisé / sous influence démoniaque ». Cela n’implique pas toujours possession totale ou contrôle absolu. Cela peut signifier:
 - opprimé ou tourmenté par un démon,
 
-- influencé dans l’esprit ou le corps,
+- influencé dans l’esprit ou le corps par un démon,
 
 - dans les cas graves, contrôle du comportement ou de la parole.
 
-« Démonisé » reflète mieux le sens passif : une personne affectée à divers degrés par une puissance démoniaque, sans nécessairement être totalement possédée.
+« Démonisé » reflète mieux le sens passif : une personne affectée à divers degrés par une puissance démoniaque, plutôt que de suggérer une possession permanente.
 
 **Écriture:**
 - Matthieu 4:24 : « …on lui amena tous les malades… et ceux *daimonizomenous* (démonisés)… »
@@ -201,11 +201,11 @@ Les Bibles traduisent souvent *daimonizomai* par « possédé par un démon »
 - Actes 10:38 : « Dieu a oint Jésus… et il a guéri tous ceux qui étaient opprimés par le diable. »
 
 **Précision:**
-- Hébreu: *shedim* (pluriel) = esprits hostiles auxquels Israël ne devait pas sacrifier.
+- Hébreu: *shedim* (pluriel) = esprits hostiles auxquels Israël avait l’interdiction d’offrir des sacrifices (Deutéronome 32:17; Psaume 106:37).
 
 - Araméen/Syriaque: *sheda* = esprit mauvais.
 
-- Accent mis sur l’influence/l’oppression, pas sur la possession.
+- Accent mis sur l’influence/l’oppression, pas sur la possession métaphysique.
 
 ---
 
@@ -247,7 +247,7 @@ Ce terme souligne l’impureté rituelle/morale et l’influence spirituelle hos
 - Luc 11:24 : « Lorsque l’esprit impur sort d’un homme… »
 
 **Précision:**
-- Contexte prophétique hébreu: idolâtrie et impureté liées aux esprits hostiles.
+- Contexte prophétique hébreu: faux culte et impureté liées aux esprits hostiles.
 
 - Usage grec/araméen dans le NT correspond à *daimonion*.
 
@@ -322,7 +322,7 @@ Tout enseignement qui assimile Satan au titre d’« Étoile du matin » appar
 • Araméen : זִנְיָא (*zinya*, « fornication, prostitution »)
 
 **Note :**  
-*Porneia* désigne les relations sexuelles illicites en dehors de l’alliance de Dieu. L’Écriture définit l’immoralité par **les relations et actes interdits**, non par la régulation de l’intimité conjugale.
+*Porneia* désigne les relations sexuelles illicites en dehors de l’alliance de Dieu. L’Écriture définit l’immoralité par **les relations et actes interdits**, non par la régulation de l’intimité consentie au sein du mariage.
 
 **Explicitement interdit :**
 

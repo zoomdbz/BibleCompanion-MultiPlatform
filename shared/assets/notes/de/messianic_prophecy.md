@@ -34,15 +34,15 @@ Das Neue Testament beginnt damit, Jesus Sohn Davids und Sohn Abrahams zu nennen 
 
 ### Immanuel und die jungfräuliche Empfängnis
 
-Jesaja 7:1-17 spricht in eine wirkliche Krise unter Ahas. Juda steht feindlichen Königen gegenüber, und das Zeichen versichert dem Haus David, dass ihre Drohung Gottes Absicht nicht zunichtemachen wird. Ausleger beurteilen unterschiedlich, wie das Zeichen mit der eigenen Zeit des Ahas zusammenhing. Matthäus macht den kanonischen Abschluss ausdrücklich: Die Jungfrau Maria empfängt durch den Heiligen Geist, und ihr Sohn erfüllt den Namen "Gott mit uns" (Matthäus 1:18-23).
+Jesaja 7:1-17 spricht in eine wirkliche Krise unter Ahas. Juda steht feindlichen Königen gegenüber, und das Zeichen versichert dem Haus David, dass ihre Drohung Gottes Absicht nicht zunichtemachen wird. Ausleger beurteilen unterschiedlich, wie das Zeichen mit der eigenen Zeit des Ahas zusammenhing. Matthäus macht die kanonische Schlussfolgerung deutlich: Die Jungfrau Maria empfängt durch den Heiligen Geist, und ihr Sohn erfüllt den Namen "Gott mit uns" (Matthäus 1:18-23).
 
 Matthäus' Verwendung verwirft Jesajas geschichtliche Krise nicht. Gott erwies sich zu Jesajas Zeit als treu. In Jesus kommt Gottes Gegenwart persönlich unter sein Volk (Johannes 1:14; Matthäus 28:20).
 
 ### Bethlehem und der Herrscher aus uralten Tagen
 
-Micha spricht zu einem Volk unter dem Gericht und verspricht einen Herrscher aus Bethlehem, dessen Ursprünge bis in uralte Tage reichen (Micha 5:1-5). Die obersten Priester und Schriftgelehrten erkennen darin den erwarteten Geburtsort des Messias, und Matthäus berichtet von Jesu Geburt dort (Matthäus 2:1-6).
+Micha spricht zu einem Volk unter dem Gericht und verspricht einen Herrscher aus Bethlehem, dessen Ursprünge bis in uralte Tage reichen (Micha 4:14-5:4). Die obersten Priester und Schriftgelehrten erkennen darin den erwarteten Geburtsort des Messias, und Matthäus berichtet von Jesu Geburt dort (Matthäus 2:1-6).
 
-Bethlehem trägt die Erinnerung an David. David kam aus dieser kleinen Stadt (1. Samuel 16:1; 1. Samuel 16:11-13). Auch der größere Sohn Davids kommt aus dem scheinbar Kleinen und weidet danach in der Kraft des HERRN (Micha 5:4; Matthäus 2:6).
+Bethlehem trägt die Erinnerung an David. David kam aus dieser kleinen Stadt (1. Samuel 16:1; 1. Samuel 16:11-13). Auch der größere Sohn Davids kommt aus dem scheinbar Kleinen und weidet danach in der Kraft des HERRN (Micha 5:3; Matthäus 2:6).
 
 ### Aus Israel durch Ägypten in einen neuen Auszug
 
@@ -66,7 +66,7 @@ Sein Wirken macht die Ankündigung sichtbar. Arme hören gute Botschaft, Gefange
 
 ### Licht in Galiläa
 
-Jesaja 8:22-9:7 führt von der Finsternis zum Licht und von der Unterdrückung zur Herrschaft eines verheißenen Kindes. Matthäus stellt den Beginn von Jesu Wirken in Galiläa in diese Verheißung (Matthäus 4:12-17). Der Ort ist bedeutsam. Das Licht geht in einem Gebiet auf, das von Eroberung und Verachtung gezeichnet ist; danach kündigt Jesus an, dass das Himmelreich nahe gekommen ist.
+Jesaja 8:22-9:6 führt von der Finsternis zum Licht und von der Unterdrückung zur Herrschaft eines verheißenen Kindes. Matthäus stellt den Beginn von Jesu Wirken in Galiläa in diese Verheißung (Matthäus 4:12-17). Der Ort ist bedeutsam. Das Licht geht in einem Gebiet auf, das von Eroberung und Verachtung gezeichnet ist; danach kündigt Jesus an, dass das Himmelreich nahe gekommen ist.
 
 ### Die Zeichen der Wiederherstellung
 
@@ -122,7 +122,7 @@ Sein Schweigen ist bewusster Gehorsam. Er verliert nicht die Kontrolle über das
 
 ### Psalm 22: Verlassenheit, Spott, Wunden und Rechtfertigung
 
-Psalm 22 beginnt mit dem Ruf nach dem Grund der Gottverlassenheit. Jesus spricht diese Worte am Kreuz (Psalm 22:2; Matthäus 27:46; Markus 15:34). Der Psalm beschreibt danach öffentliche Verachtung, Kopfschütteln, den Spott, Gott solle den Leidenden retten, bloßgelegte Glieder, verteilte Kleider und das Los über das Gewand (Psalm 22:8-9; Psalm 22:15-19). Die Kreuzigungsberichte greifen diese Einzelheiten auf (Matthäus 27:35; Matthäus 27:39-44; Johannes 19:23-24).
+Psalm 22 beginnt mit dem Ruf: "Mein Gott, mein Gott, warum hast du mich verlassen?" Jesus spricht diese Worte am Kreuz (Psalm 22:2; Matthäus 27:46; Markus 15:34). Der Psalm beschreibt danach öffentliche Verachtung, Kopfschütteln, den Spott, Gott solle den Leidenden retten, bloßgelegte Glieder, verteilte Kleider und das Los über das Gewand (Psalm 22:8-9; Psalm 22:15-19). Die Kreuzigungsberichte greifen diese Einzelheiten auf (Matthäus 27:35; Matthäus 27:39-44; Johannes 19:23-24).
 
 Psalm 22:17 enthält eine alte Textfrage. Viele Übersetzungen lesen, Hände und Füße seien durchbohrt; andere folgen einer Lesart mit einem Löwen bei Händen und Füßen. Die Auferstehungsberichte bezeugen unabhängig davon Jesu Kreuzigungswunden (Lukas 24:39-40; Johannes 20:25-27). Die messianische Begründung hängt nicht davon ab, diese Textfrage zu verbergen.
 
@@ -285,7 +285,7 @@ Typologisch verbunden bilden sechs Schöpfungstage sechstausend Jahre Menschheit
 
 Hosea ruft das verwundete Israel zur Umkehr zum HERRN: Nach zwei Tagen wird er es beleben und am dritten Tag aufrichten (Hosea 6:1-3). Die unmittelbare Hoffnung betrifft die Wiederherstellung des Bundes. Das vorgeschlagene messianische Muster liest die Sprache zusammen mit Christi Auferstehung am dritten Tag und der künftigen Auferstehung seines Volkes (Lukas 24:44-47; 1. Korinther 15:20-23). Mit dem Vergleich von Tag und tausend Jahren bilden die zwei Tage zweitausend Jahre zwischen Christi Auferstehung und der Auferstehung bei seiner Wiederkunft ab. Der dritte Tag bildet wiederhergestelltes Leben im Reich des Messias ab.
 
-Der Vorschlag wird zum Kalendermodell, sobald er den Zeitraum zu einem Kreuzigungsjahr addiert. Wird Jesu Tod und Auferstehung auf 30 n. Chr. datiert, weist 30 n. Chr. plus 2.000 Jahre auf 2030 n. Chr. Beide Schritte müssen sichtbar bleiben: Das Jahr 30 n. Chr. ist eine geschichtliche Rekonstruktion, und die Umrechnung der zwei Tage ist Typologie. Hosea nennt kein Jahr unserer Zeitrechnung, und 2. Petrus 3:8 gebietet diese Umrechnung nicht.
+Der Vorschlag wird zum Kalendermodell, sobald er den Zeitraum zu einem Kreuzigungsjahr addiert. Werden Jesu Tod und Auferstehung auf 30 n. Chr. datiert, weist 30 n. Chr. plus 2.000 Jahre auf 2030 n. Chr. Beide Schritte müssen sichtbar bleiben: Das Jahr 30 n. Chr. ist eine geschichtliche Rekonstruktion, und die Umrechnung der zwei Tage ist Typologie. Hosea nennt kein Jahr unserer Zeitrechnung, und 2. Petrus 3:8 gebietet diese Umrechnung nicht.
 
 ### Das Muster mit Disziplin lesen
 
@@ -429,14 +429,14 @@ Verwende diesen Abschnitt nach dem Lesen der ausführlicheren Zusammenhänge als
 - **Aus Juda:** 1. Mose 49:10 -> Matthäus 1:2-3; Hebräer 7:14
 - **Aus Davids Linie:** 2. Samuel 7:12-16; Jesaja 11:1 -> Matthäus 1:1; Römer 1:3-4
 - **Von einer Jungfrau geboren, Immanuel:** Jesaja 7:14 -> Matthäus 1:18-23
-- **In Bethlehem geboren:** Micha 5:2 -> Matthäus 2:1-6
+- **In Bethlehem geboren:** Micha 5:1 -> Matthäus 2:1-6
 - **Aus Ägypten gerufen:** Hosea 11:1 -> Matthäus 2:14-15
 - **Von einem Boten angekündigt:** Jesaja 40:3; Maleachi 3:1 -> Matthäus 3:1-3; Markus 1:2-4
 
 ### Wirken und Königtum
 
 - **Vom Geist gesalbt:** Jesaja 61:1-2 -> Lukas 4:18-21
-- **Licht in Galiläa:** Jesaja 9:1-2 -> Matthäus 4:12-17
+- **Licht in Galiläa:** Jesaja 8:23-9:1 -> Matthäus 4:12-17
 - **Prophet wie Mose:** 5. Mose 18:15-19 -> Apostelgeschichte 3:22-26
 - **Lehre in Gleichnissen:** Psalm 78:2 -> Matthäus 13:34-35
 - **Heilung von Blinden, Tauben und Lahmen:** Jesaja 35:5-6 -> Matthäus 11:2-6

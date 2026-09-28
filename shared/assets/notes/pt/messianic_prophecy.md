@@ -128,9 +128,9 @@ Salmos 22:16 contém uma antiga questão textual. Muitas traduções dizem "tras
 
 O salmo não termina em abandono. Deus responde ao aflito, e a libertação alcança as nações e as gerações futuras (Salmos 22:21-31). Hebreus coloca Salmos 22:22 nos lábios do Cristo ressuscitado, que declara o nome de Deus entre seus irmãos e irmãs (Hebreus 2:10-12). O movimento de todo o salmo vai do sofrimento à vindicação e ao louvor mundial.
 
-### Salmos 69: zelo, reprovação e vinho azedo
+### Salmos 69: zelo, insultos e vinho azedo
 
-Salmos 69 retrata um sofredor fiel consumido pelo zelo pela casa de Deus e insultado por causa de Deus (Salmos 69:7-9). Os discípulos se lembram dessa linguagem quando Jesus purifica o templo (João 2:13-17), e Paulo aplica sua reprovação à abnegação de Cristo (Romanos 15:3).
+Salmos 69 retrata um sofredor fiel consumido pelo zelo pela casa de Deus e insultado por causa de Deus (Salmos 69:7-9). Os discípulos se lembram dessa linguagem quando Jesus purifica o templo (João 2:13-17), e Paulo aplica os insultos sofridos pelo salmista à abnegação de Cristo (Romanos 15:3).
 
 O salmo também diz que o sofredor recebe fel como alimento e vinagre para a sede (Salmos 69:21). Os relatos da crucificação registram o vinho azedo oferecido a Jesus (Mateus 27:34, 48; João 19:28-30). João liga a sede de Jesus e a bebida final ao cumprimento da Escritura.
 
@@ -278,7 +278,7 @@ Apocalipse 20:1-6 descreve separadamente um reinado de mil anos com Cristo. Uma 
 
 Unidos tipologicamente, os seis dias da criação retratam seis mil anos de história humana, e o sétimo dia retrata o reinado de mil anos como um sábado messiânico. O padrão dá à história um movimento moldado pela criação: trabalho e rebelião, depois o descanso e a restauração do rei.
 
-Segunda Pedro coloca a comparação entre dia e mil anos dentro do ensino sobre criação, juízo, a aparente demora do Senhor e o dia vindouro de Deus (2 Pedro 3:3-13). Esse contexto explica por que leitores a ligam à semana da criação. O ponto de Pedro também limita o cálculo: a promessa de Deus não demora, sua paciência abre espaço para o arrependimento, e o dia ainda virá de modo inesperado.
+A segunda carta de Pedro coloca a comparação entre dia e mil anos dentro do ensino sobre criação, juízo, a aparente demora do Senhor e o dia vindouro de Deus (2 Pedro 3:3-13). Esse contexto explica por que leitores a ligam à semana da criação. O ponto de Pedro também limita o cálculo: a promessa de Deus não demora, sua paciência abre espaço para o arrependimento, e o dia ainda virá de modo inesperado.
 
 ### Dois dias e restauração no terceiro
 
@@ -288,7 +288,7 @@ A proposta se torna um modelo de calendário quando acrescenta o intervalo ao an
 
 ### Ler o padrão com disciplina
 
-A própria Escritura fornece o descanso da criação, a ressurreição no terceiro dia, um sábado ainda por vir e um reinado de mil anos. Ela não afirma que todo dia bíblico equivale a um milênio nem oferece uma cronologia completa de seis mil anos. O padrão pode organizar a esperança em torno de Cristo sem carregar uma certeza que o texto nunca oferece.
+A própria Escritura fornece o descanso da criação, a ressurreição no terceiro dia, um descanso sabático que permanece e um reinado de mil anos. Ela não afirma que todo dia bíblico equivale a um milênio nem oferece uma cronologia completa de seis mil anos. O padrão pode organizar a esperança em torno de Cristo sem carregar uma certeza que o texto nunca oferece.
 
 A aplicação direta permanece firme: ouça hoje a voz de Deus, não endureça o coração e entre em seu descanso pela fé (Hebreus 3:12-15; Hebreus 4:1-3).
 
@@ -366,7 +366,7 @@ João torna forte a conexão com a ressurreição porque Marta nomeia a ressurre
 
 ### O bom samaritano: misericórdia que paga o preço
 
-Jesus conta a parábola do bom samaritano em resposta à pergunta sobre quem deve ser considerado o próximo O samaritano atravessa a hostilidade social, trata os ferimentos do homem, leva-o a um lugar seguro, paga por seu cuidado e promete quitar qualquer custo adicional quando voltar (Lucas 10:25-37). A aplicação declarada por Jesus é direta: vá e faça o mesmo.
+Jesus conta a parábola do bom samaritano em resposta à pergunta sobre quem deve ser considerado o próximo. O samaritano atravessa a hostilidade social, trata os ferimentos do homem, leva-o a um lugar seguro, paga por seu cuidado e promete quitar qualquer custo adicional quando voltar (Lucas 10:25-37). A aplicação declarada por Jesus é direta: vá e faça o mesmo.
 
 Uma leitura centrada em Cristo também pode notar uma forma conhecida. Jesus se aproxima dos desamparados, carrega o fardo deles, paga o preço do resgate, confia seu cuidado a outros e voltará (Lucas 19:10; 1 Pedro 2:24; Hebreus 9:28). Essa leitura precisa servir à ordem de mostrar misericórdia, não substituí-la.
 

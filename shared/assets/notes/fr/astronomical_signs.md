@@ -8,7 +8,7 @@ Le mot hébreu pour « signes » est *otot*, le même mot utilisé pour les si
 
 ## Lunes de Sang et Éclipses Lunaires
 
-Une « lune de sang » se produit lors d'une éclipse lunaire totale, quand la lune devient rouge. Joël 2:31 dit : « Le soleil se changera en ténèbres et la lune en sang, avant que vienne le jour grand et redoutable de l'ÉTERNEL » (cf. Actes 2:20 ; Apocalypse 6:12).
+Une « lune de sang » se produit lors d'une éclipse lunaire totale, quand la lune devient rouge. Joël 3:4 dit : « Le soleil se changera en ténèbres et la lune en sang, avant que vienne le jour grand et redoutable de l'ÉTERNEL » (cf. Actes 2:20 ; Apocalypse 6:12).
 
 ### Tétrades de Lunes de Sang et Éclipses des Fêtes (1493 à 2033)
 
@@ -60,7 +60,7 @@ Sources : [éclipses solaires de la NASA, 2021-2030](https://eclipse.gsfc.nasa.g
 
 Les éclipses solaires dans la tradition juive sont considérées comme des signes pour les nations (Souccah 29a). Plusieurs éclipses notables coïncident avec des dates significatives :
 - **20 mars 2015 :** Éclipse solaire totale le **1er Nisan** (la nouvelle année biblique pour les mois, Exode 12:2), à mi-parcours de la tétrade de lunes de sang 2014–2015
-- **13 septembre 2015 :** Éclipse solaire partielle le **1er Tishrei 5776, Rosh Hashanah**. Avec l'éclipse du 20 mars, ces deux éclipses solaires sont tombées les premiers jours des deux mois les plus significatifs du calendrier hébraïque (Nisan et Tishrei), encadrant la tétrade de lunes de sang 2014–2015 en une seule année. Les prophétes Mark Biltz et John Hagee considèrent les six événements (quatre lunes de sang + deux éclipses solaires) comme un seul ensemble.
+- **13 septembre 2015 :** Éclipse solaire partielle le **1er Tishrei 5776, Rosh Hashanah**. Avec l'éclipse du 20 mars, ces deux éclipses solaires sont tombées les premiers jours des deux mois les plus significatifs du calendrier hébraïque (Nisan et Tishrei), encadrant la tétrade de lunes de sang 2014–2015 en une seule année. Mark Biltz et John Hagee, qui enseignent sur la prophétie, considèrent les six événements (quatre lunes de sang + deux éclipses solaires) comme un seul ensemble.
 - **21 août 2017 :** « Grande Éclipse Américaine », première éclipse solaire totale visible d'une côte à l'autre aux États-Unis en 99 ans. Date hébraïque : **29 Av 5777**, le dernier jour du mois d'Av et la veille du 1er Elul. Elul est la période de 40 jours de repentance menant à Rosh Hashanah ; de nombreux enseignants messianiques ont noté le timing.
 - **8 avril 2024 :** Deuxième Grande Éclipse Américaine ; les deux trajectoires (2017 et 2024) forment un X sur les États-Unis
 ---
@@ -91,7 +91,6 @@ Amos 8:9 : « En ce jour-là, dit le Seigneur, l'ÉTERNEL, je ferai coucher le 
 
 « Un grand signe parut dans le ciel : une femme enveloppée du soleil, la lune sous ses pieds, et une couronne de douze étoiles sur sa tête » (Apocalypse 12:1).
 
-CORPS APOCALYPSE 12 :
 Le **23 septembre 2017**, la constellation Vierge était « vêtue » par le soleil avec la lune à ses pieds. Au-dessus de sa tête, les neuf étoiles du Lion plus les planètes Mercure, Vénus et Mars formaient une couronne de douze. Jupiter avait été dans la région du ventre de la Vierge pendant environ 42 semaines, la durée de la gestation humaine, en raison du mouvement rétrograde avant de « sortir » le 9 septembre 2017. Jupiter s'appelle historiquement la « planète royale ». La période de 42 semaines reflète précisément les « 42 mois » d'Apocalypse 13:5 et Apocalypse 12:6 (1 260 jours). Jupiter est entré dans la région du ventre de la Vierge le 20 novembre 2016.
 
 La date hébraïque était **3 Tishrei 5778**, le Jeûne de Guedalia, le jour après Rosh Hashanah.
@@ -109,7 +108,7 @@ Le mot hébreu *moadim* relie les corps célestes directement aux temps fixés d
 - La Fête des Trompettes dépend de l'observation de la **nouvelle lune** (Tishri 1)
 - L'équinoxe de printemps détermine le début de l'année biblique
 
-Les cieux ne sont pas adorés (Deutéronome 4:19), mais ils sont lus; ils proclament la gloire de Dieu (Psaume 19:1) et marquent Ses temps fixés.
+Les cieux ne sont pas adorés (Deutéronome 4:19), mais ils sont lus; ils proclament la gloire de Dieu (Psaume 19:2) et marquent Ses temps fixés.
 
 ---
 
@@ -124,7 +123,7 @@ Le **1er novembre 1948**, approximativement 1er Kislev 5709, une comète brillan
 
 **La Grande Conjonction du 21 décembre 2020**
 
-Au solstice d'hiver, **21 décembre 2020** (6 Tevet 5781), Jupiter et Saturne se sont écartés de seulement 0,1 degré, la séparation visible la plus proche depuis 1623. Les principaux médias l'ont appelée l'« Étoile de Noël » en raison de sa ressemblance avec les descriptions de l'Étoile de Bethléem. La conjonction est apparue dans le ciel occidental peu après le coucher du soleil, dans la direction de Bethléem vue de Jérusalem. La date hébraïque tombe en Tevet, un mois sans jours de fête, mais la résonance visuelle et symbolique avec l'événement de l'étoile de Bethléem a amené de nombreux croyants messianiques à la noter. Les deux planètes ne seront plus aussi proches avant 2080.
+Au solstice d'hiver, **21 décembre 2020** (6 Tevet 5781), Jupiter et Saturne semblaient n'être séparés que de 0,1 degré, la plus faible séparation visible depuis 1623. Les principaux médias l'ont appelée l'« Étoile de Noël » en raison de sa ressemblance avec les descriptions de l'Étoile de Bethléem. La conjonction est apparue dans le ciel occidental peu après le coucher du soleil, dans la direction de Bethléem vue de Jérusalem. La date hébraïque tombe en Tevet, un mois sans jours de fête, mais la résonance visuelle et symbolique avec l'événement de l'étoile de Bethléem a amené de nombreux croyants messianiques à la noter. Les deux planètes ne seront plus aussi proches avant 2080.
 
 **Comète NEOWISE (2020)**
 

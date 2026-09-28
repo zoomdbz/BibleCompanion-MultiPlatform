@@ -27,6 +27,8 @@ import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.ExpandLess
 import androidx.compose.material.icons.filled.ExpandMore
 import androidx.compose.material3.Button
+import androidx.compose.material3.ColorScheme
+import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
@@ -37,6 +39,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.key
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -83,6 +86,70 @@ private val curatedThemeColors = listOf(
   CuratedThemeColor(330f, Res.string.ui_color_rose)
 )
 
+@OptIn(ExperimentalLayoutApi::class)
+@Composable
+internal fun CustomThemePalettePicker(
+  prefs: PrefsState,
+  dark: Boolean,
+  onColorSelected: (CustomThemeRole, CustomThemeColor) -> Unit,
+  onMatchAccents: () -> Unit
+) {
+  var roleName by rememberSaveable { mutableStateOf(CustomThemeRole.Primary.name) }
+  val role = CustomThemeRole.valueOf(roleName)
+  val color = prefs.themeColor(role)
+  Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+    Text(
+      stringResource(Res.string.ui_custom_palette_hint),
+      style = MaterialTheme.typography.bodySmall,
+      color = MaterialTheme.colorScheme.onSurfaceVariant
+    )
+    FlowRow(
+      modifier = Modifier.fillMaxWidth(),
+      horizontalArrangement = Arrangement.spacedBy(8.dp)
+    ) {
+      CustomThemeRole.entries.forEach { option ->
+        val optionColor = prefs.themeColor(option)
+        FilterChip(
+          selected = role == option,
+          onClick = { roleName = option.name },
+          label = {
+            Text(stringResource(when (option) {
+              CustomThemeRole.Primary -> Res.string.ui_primary_color
+              CustomThemeRole.Secondary -> Res.string.ui_secondary_color
+              CustomThemeRole.Tertiary -> Res.string.ui_tertiary_color
+            }))
+          },
+          leadingIcon = {
+            Box(Modifier.size(18.dp).clip(CircleShape).background(
+              customThemeSeedColor(optionColor.hue, optionColor.saturation, optionColor.lightness)
+            ))
+          }
+        )
+      }
+    }
+    key(role) {
+      CustomThemePicker(
+        hue = color.hue,
+        saturation = color.saturation,
+        lightness = color.lightness,
+        dark = dark,
+        onColorSelected = { h, s, l -> onColorSelected(role, CustomThemeColor(h, s, l)) },
+        palettePreview = { draft ->
+          val primary = if (role == CustomThemeRole.Primary) draft else prefs.primaryThemeColor()
+          colorSchemeFor(
+            ThemePreset.Custom, dark, primary.hue, primary.saturation, primary.lightness,
+            customSecondary = if (role == CustomThemeRole.Secondary) draft else prefs.customThemeSecondary,
+            customTertiary = if (role == CustomThemeRole.Tertiary) draft else prefs.customThemeTertiary
+          )
+        }
+      )
+    }
+    OutlinedButton(onClick = onMatchAccents, modifier = Modifier.fillMaxWidth()) {
+      Text(stringResource(Res.string.ui_match_accent_colors))
+    }
+  }
+}
+
 @OptIn(ExperimentalLayoutApi::class, ExperimentalFoundationApi::class)
 @Composable
 internal fun CustomThemePicker(
@@ -90,7 +157,8 @@ internal fun CustomThemePicker(
   saturation: Float,
   lightness: Float,
   dark: Boolean,
-  onColorSelected: (Float, Float, Float) -> Unit
+  onColorSelected: (Float, Float, Float) -> Unit,
+  palettePreview: ((CustomThemeColor) -> ColorScheme)? = null
 ) {
   var showFineTuning by rememberSaveable { mutableStateOf(false) }
   var draftHue by remember { mutableFloatStateOf(hue.coerceIn(0f, 360f)) }
@@ -106,8 +174,8 @@ internal fun CustomThemePicker(
   val saturationDescription = stringResource(Res.string.ui_saturation)
   val hueDescription = stringResource(Res.string.ui_hue)
   val lightnessDescription = stringResource(Res.string.ui_lightness)
-  val previewScheme = remember(dark, draftHue, draftSaturation, draftLightness) {
-    colorSchemeFor(
+  val previewScheme = remember(dark, draftHue, draftSaturation, draftLightness, palettePreview) {
+    palettePreview?.invoke(CustomThemeColor(draftHue, draftSaturation, draftLightness)) ?: colorSchemeFor(
       ThemePreset.Custom,
       dark,
       draftHue,

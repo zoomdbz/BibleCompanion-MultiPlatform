@@ -74,7 +74,7 @@ Tribulação é pressão, aflição e perseguição. Jesus diz a seus discípulo
 
 Ira divina é a resposta judicial de Deus ao mal. Os fiéis não são destinados à ira, mas à salvação por meio de Jesus Cristo (1 Tessalonicenses 5:9). São justificados por seu sangue e salvos da ira por meio dele (Romanos 5:9). Apocalipse retrata a ira do Cordeiro contra o mundo rebelde (Apocalipse 6:15-17).
 
-Essas verdades não prometem isenção da perseguição. Os apóstolos sofreram tribulação enquanto permaneciam seguros da condenação de Deus. A distinção permite uma sequência coerente:
+Essas verdades não prometem isenção da perseguição. Os apóstolos sofreram tribulação enquanto permaneciam a salvo da condenação de Deus. A distinção permite uma sequência coerente:
 
 1. Os santos suportam a perseguição e a grande tribulação.
 2. Cristo aparece e reúne seu povo.
@@ -172,7 +172,7 @@ A aritmética funciona assim:
 
 A convergência numérica é real depois que esses dados são aceitos. Ezequiel não declara esses dados.
 
-O sinal de Ezequiel representa o cerco de Jerusalém na crise babilônica (Ezequiel 4:1-3; Ezequiel 4:7). O capítulo não nomeia 701 a.C. como data inicial do reino do norte, 30 d.C. como data inicial de Judá nem 70 d.C. como ponto de reinício. Levítico 26 adverte repetidamente sobre disciplina sete vezes maior, mas não instrui os leitores a transformar os anos de Ezequiel em dois relógios compostos independentes. Os pontos propostos de arrependimento são inferidos, não prazos históricos registrados. O cálculo de Judá também trata 350 d.C. como ponto de controle, mas mede os 1.960 anos finais a partir de 70 d.C. Trata-se de uma reinicialização escolhida, não de uma adição sequencial comum.
+O sinal de Ezequiel representa o cerco de Jerusalém na crise babilônica (Ezequiel 4:1-3; Ezequiel 4:7). O capítulo não nomeia 701 a.C. como data inicial do reino do norte, 30 d.C. como data inicial de Judá nem 70 d.C. como ponto de reinício. Levítico 26 adverte repetidamente sobre disciplina sete vezes maior, mas não instrui os leitores a transformar os anos de Ezequiel em duas contagens de tempo independentes, cada uma submetida a multiplicações sucessivas. Os pontos propostos de arrependimento são inferidos, não prazos históricos registrados. O cálculo de Judá também trata 350 d.C. como ponto de controle, mas mede os 1.960 anos finais a partir de 70 d.C. Trata-se de uma reinicialização escolhida, não de uma adição sequencial comum.
 
 O cálculo pode servir como padrão digno de exame. Não pode sustentar o peso de uma promessa de que Cristo precisa voltar em 2030. Mude um ponto inicial, o número de multiplicações por sete ou a função do sinal de Ezequiel, e o resultado muda. A aritmética só é exata depois que a interpretação escolhe os números e lhes atribui uma função.
 
@@ -184,7 +184,7 @@ Essa promessa significa que leitores posteriores devem esperar compreensão genu
 
 Jesus usa Daniel no discurso do monte das Oliveiras. Nomeia a abominação da desolação de Daniel, descreve a grande tribulação e coloca sua manifestação e reunião depois dessa tribulação (Mateus 24:15-31). Também diz que ninguém conhece o dia nem a hora, compara sua vinda aos dias de Noé e ordena a seus discípulos que permaneçam vigilantes porque não conhecem o dia (Mateus 24:36-44).
 
-A ordem de vigiar não cancela a declaração de que eles não sabem. Vigilância significa que o servo continua alimentando a casa e rejeita violência, indulgência e presunção enquanto o senhor parece demorar (Mateus 24:45-51). A prontidão descrita por Jesus é moral e ligada à missão.
+A ordem de vigiar não cancela a declaração de que eles não sabem. Vigilância significa que o servo continua alimentando a casa e rejeita violência, excessos e presunção enquanto o senhor parece demorar (Mateus 24:45-51). A prontidão descrita por Jesus é moral e ligada à missão.
 
 Paulo faz a mesma distinção em 1 Tessalonicenses 5:1-11. O dia alcança o mundo complacente como ladrão enquanto as pessoas falam em paz e segurança. Os fiéis não estão nas trevas, por isso o dia não deve surpreendê-los dessa maneira. A conclusão de Paulo não é uma fórmula de datas. É sobriedade, fé, amor, esperança, encorajamento mútuo e a certeza de que os fiéis não são destinados à ira.
 
@@ -202,7 +202,7 @@ Daniel 9 contém revelação cronológica verdadeira, mas toda extensão moderna
 
 Leia os padrões como testemunhas do propósito ordenado de Deus. Não os force a testemunhar em favor de uma data que nunca nomeiam.
 
-## As principais posições sobre a data do arrebatamento
+## As principais posições sobre o momento do arrebatamento
 
 Toda posição procura honrar parte da evidência bíblica. Cada uma também pede que algumas passagens sustentem conexões que não declaram diretamente.
 
@@ -212,7 +212,7 @@ Essa posição coloca o arrebatamento da igreja antes de uma tribulação final,
 
 Sua força é uma leitura séria da proteção divina e da iminência. Sua principal dificuldade é a separação textual. Nenhuma passagem afirma claramente que Cristo volta uma vez para retirar a igreja e outra vez, anos depois, em público. Mateus coloca a reunião ao som da trombeta depois da tribulação, e 2 Tessalonicenses 2:1-8 coloca a vinda de Cristo e nossa reunião num contexto que inclui a revelação e destruição do perverso.
 
-### Mid-tribulacionismo
+### No meio da tribulação
 
 Essa posição coloca a reunião perto do ponto médio de um período final de sete anos. Pode identificar a última trombeta de Paulo com a sétima trombeta de Apocalipse enquanto situa essa trombeta perto do ponto médio (1 Coríntios 15:52; Apocalipse 11:15). Também se apoia nos períodos de três anos e meio em Daniel e Apocalipse (Daniel 7:25; Apocalipse 11:2-3; Apocalipse 13:5).
 

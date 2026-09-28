@@ -189,7 +189,7 @@ Dario pesquisa os arquivos, confirma a ordem de Ciro, financia a obra e a proteg
 
 No sétimo ano de Artaxerxes, Esdras recebe uma comissão real. O rei autoriza o retorno a Jerusalém, abastece o templo, concede amplos privilégios financeiros e ordena que Esdras nomeie magistrados e juízes para fazer cumprir a lei de Deus (Esdras 7:7-9, 11-26). Isso vai além da construção e alcança a ordem civil e pactual restaurada de Jerusalém.
 
-Mais tarde, Esdras diz que os reis persas deram proteção a Judá e restauraram a casa de Deus (Esdras 9:9). Antes disso, adversários haviam descrito os exilados que voltaram como reconstrutores dos muros e alicerces de Jerusalém, e depois obtiveram uma ordem para interromper a obra até que se emitisse nova ordem (Esdras 4:12-13, 21). Esses textos formam o argumento bíblico para tratar a comissão de Artaxerxes a Esdras como a palavra efetiva para restaurar Jerusalém, e não apenas seu templo.
+Mais tarde, Esdras diz que os reis persas deram a Judá um "muro de proteção" e restauraram a casa de Deus (Esdras 9:9). Antes disso, adversários haviam descrito os exilados que voltaram como reconstrutores dos muros e alicerces de Jerusalém, e depois obtiveram uma ordem para interromper a obra até que se emitisse nova ordem (Esdras 4:12-13, 21). Esses textos formam o argumento bíblico para tratar a comissão de Artaxerxes a Esdras como a palavra efetiva para restaurar Jerusalém, e não apenas seu templo.
 
 ### Artaxerxes e Neemias: os muros nomeados diretamente
 
@@ -207,7 +207,7 @@ Esse modelo data a comissão de Artaxerxes ligada a Esdras em 458 a.C. e trata c
 
 A aritmética precisa levar em conta a ausência do ano zero:
 
-\`458 + 26 - 1 = 483 anos transcorridos\`
+`458 + 26 - 1 = 483 anos transcorridos`
 
 A subtração remove o ano zero inexistente entre 1 a.C. e 1 d.C.
 
@@ -219,15 +219,15 @@ A data depende de reconstrução histórica. Esdras nomeia o sétimo ano do rein
 
 O modelo então coloca cerca de três anos e meio de ministério entre um batismo no outono de 26 d.C. e uma Páscoa na primavera de 30 d.C. O Evangelho de João nomeia Páscoas durante o ministério de Jesus e fornece a principal estrutura bíblica para um ministério de vários anos (João 2:13, 23; João 6:4; João 11:55; João 12:1). João 5:1 menciona outra festa sem nomeá-la, por isso a duração exata ainda exige interpretação.
 
-Nessa leitura, o Messias é morto no meio do septuagésimo sete (Daniel 9:26-27). Sua morte estabelece a aliança em seu sangue, completa o padrão do sistema sacrificial e fornece a oferta única que remove o pecado (Mateus 26:28; Hebreus 9:11-15; Hebreus 10:4, 10-18). A metade restante do sete fica então reservada para um futuro período de angústia.
+Nessa leitura, o Messias é morto no meio do septuagésimo sete (Daniel 9:26-27). Sua morte estabelece a aliança em seu sangue, completa o padrão do sistema sacrificial e fornece a oferta única e definitiva, a única capaz de remover o pecado (Mateus 26:28; Hebreus 9:11-15; Hebreus 10:4, 10-18). A metade restante do sete fica então reservada para um futuro período de angústia.
 
-Essa leitura da metade dividida recebe apoio dos períodos recorrentes de três anos e meio em Daniel e Apocalipse (Daniel 7:25; Daniel 12:7; Apocalipse 11:2-3; Apocalipse 12:6, 14; Apocalipse 13:5). Sua pausa, porém, é uma inferência. Daniel 9 não diz que o relógio para depois da morte do Messias, e as duas metades só ficam separadas por um longo intervalo se o leitor fornecer essa estrutura.
+Essa leitura das duas metades separadas por um intervalo recebe apoio dos períodos recorrentes de três anos e meio em Daniel e Apocalipse (Daniel 7:25; Daniel 12:7; Apocalipse 11:2-3; Apocalipse 12:6, 14; Apocalipse 13:5). Sua pausa, porém, é uma inferência. Daniel 9 não diz que o relógio para depois da morte do Messias, e as duas metades só ficam separadas por um longo intervalo se o leitor fornecer essa estrutura.
 
 ### O modelo da comissão de Neemias: 445 a.C. a 32 d.C.
 
 O modelo tradicional do ano profético começa com a comissão de Neemias no vigésimo ano de Artaxerxes, comumente datada em 445 a.C. (Neemias 2:1-8). Ele trata cada ano profético como 360 dias:
 
-\`69 setes x 7 anos x 360 dias = 173.880 dias\`
+`69 setes x 7 anos x 360 dias = 173.880 dias`
 
 Esse período equivale a cerca de 476 anos solares. Contar 476 anos a partir de 445 a.C., sem ano zero, chega a 32 d.C. O modelo associa o ponto final à entrada de Jesus em Jerusalém como o rei apresentado publicamente (Lucas 19:28-44; compare Zacarias 9:9).
 
@@ -244,7 +244,7 @@ Os dois modelos apresentam um argumento bíblico sério:
 - Esdras 7 fornece uma comissão real formal com autoridade para restaurar o culto, a lei e o governo. Sua contagem com anos comuns pode chegar ao início do ministério de Jesus.
 - Neemias 2 nomeia diretamente a cidade e o muro arruinados. Sua contagem de 360 dias pode chegar à entrada real de Jesus.
 
-Nenhum cálculo pode ser tratado como se fosse um versículo. O modelo de Esdras precisa defender seu ano histórico, o ponto final no ministério e a divisão do meio sete. O modelo de Neemias precisa defender seu dia exato, a conversão de 360 dias e a cronologia da Paixão em 32 d.C. Ambos concordam com a afirmação central de Daniel: o Messias aparece, o Messias é morto, Jerusalém e o santuário enfrentam destruição, e os propósitos de Deus não falham (Daniel 9:24-27).
+Nenhum cálculo pode ser tratado como se fosse um versículo. O modelo de Esdras precisa defender seu ano histórico, o ponto final no ministério e a separação das duas metades do sete. O modelo de Neemias precisa defender seu dia exato, a conversão de 360 dias e a cronologia da Paixão em 32 d.C. Ambos concordam com a afirmação central de Daniel: o Messias aparece, o Messias é morto, Jerusalém e o santuário enfrentam destruição, e os propósitos de Deus não falham (Daniel 9:24-27).
 
 ## O sete final e a identidade de "ele"
 
@@ -259,11 +259,11 @@ Nessa leitura, o sujeito é o Messias. Várias conexões bíblicas a sustentam:
 - Deus promete uma aliança por meio de seu Servo, que carrega os pecados de muitos (Isaías 42:6; Isaías 49:8; Isaías 53:11-12).
 - Jesus diz que seu sangue da aliança é derramado por muitos para perdão (Mateus 26:28; Marcos 14:24).
 - Cristo confirma as promessas de Deus e abre a misericórdia às nações (Romanos 15:8-12).
-- Sua oferta única cumpre o padrão sacrificial e é a única que remove o pecado; o sangue de animais nunca poderia fazê-lo (Hebreus 9:11-15, 26; Hebreus 10:4, 10-18).
+- Sua oferta única e definitiva cumpre o padrão sacrificial e é a única que remove o pecado; o sangue de animais nunca poderia fazê-lo (Hebreus 9:11-15, 26; Hebreus 10:4, 10-18).
 
 Em uma forma contínua e situada no primeiro século dessa leitura, o sete final atravessa o ministério de Cristo e o testemunho apostólico inicial. Alguns colocam seu fim perto do testemunho e da morte de Estêvão, quando o evangelho começa um grande movimento para fora (Atos 6:8-15; Atos 7:54-60; Atos 8:1-5). Atos não chama a morte de Estêvão de fim do septuagésimo sete de Daniel, portanto esse ponto final continua sendo uma cronologia, e não uma identificação explícita.
 
-Na forma da metade dividida, Cristo confirma a aliança e é morto no ponto médio. Os três anos e meio restantes aguardam a crise final. Isso une a primeira e a segunda vinda do Messias dentro de um só sete. Os períodos repetidos de meio sete apoiam a forma, mas a longa pausa continua sem ser declarada em Daniel 9.
+Na forma em que as duas metades ficam separadas por um intervalo, Cristo confirma a aliança e é morto no ponto médio. Os três anos e meio restantes aguardam a crise final. Isso une a primeira e a segunda vinda do Messias dentro de um só sete. Os períodos repetidos de meio sete apoiam a forma, mas a longa pausa continua sem ser declarada em Daniel 9.
 
 ### Leitura do governante futuro
 

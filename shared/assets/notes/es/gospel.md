@@ -2,7 +2,7 @@
 
 Evangelio es una palabra antigua que significa buenas noticias. Empieza por las malas, porque las buenas no tienen sentido sin ellas.
 
-Dios mantiene un solo estándar, y el estándar es perfecto. No «hiciste lo que pudiste.» No «más días buenos que malos.» Perfecto. Santiago lo puso donde nadie puede esquivarlo: «cualquiera que guardare toda la ley, pero ofendiere en un punto, se hace culpable de todos» (Santiago 2:10). Léelo dos veces. Un tropiezo te deja en la misma sala que el tipo que rompió todas las reglas del libro. Pasa o repruebas, y la nota para pasar es cien; no hay curva. Ser suficientemente bueno nunca fue la prueba; nadie la pasa, ni tú, ni yo, ni el santo dos bancas más allá.
+Dios mantiene un solo estándar, y el estándar es perfecto. No «hiciste lo que pudiste.» No «más días buenos que malos.» Perfecto. Santiago lo puso donde nadie puede esquivarlo: «cualquiera que guardare toda la ley, pero ofendiere en un punto, se hace culpable de todos» (Santiago 2:10). Léelo dos veces. Un tropiezo te deja en la misma sala que el tipo que rompió todas las reglas del libro. Apruebas o repruebas, y la nota para pasar es cien; no hay curva. Ser suficientemente bueno nunca fue la prueba; nadie la pasa, ni tú, ni yo, ni el santo dos bancas más allá.
 
 Ahora la cuenta. Pablo la pone en pocas palabras: «la paga del pecado es muerte» (Romanos 6:23). Una paga es algo que ganas, y este es el cheque que el pecado emite. Vence, y no rebota. Ese es el hoyo en el que todos estamos parados, y no podemos salir, porque las mismas manos que lo cavaron no pueden llenarlo.
 

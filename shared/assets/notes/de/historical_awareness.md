@@ -1,6 +1,6 @@
 # Historisches Bewusstsein
 
-Ein Leitfaden, um zu verstehen, wie die Bibel, die wir heute haben, durch Übersetzung, Politik, kulturelle Anpassung und Unterdrückung geformt wurde damit die ursprünglichen Lehren Jesu klarer sichtbar werden.
+Ein Leitfaden, der Lesern zeigt, wie die Bibel, die wir heute in Händen halten, durch Übersetzung, Politik, kulturelle Übernahmen und Unterdrückung geprägt wurde, damit sie die ursprünglichen Lehren Jesu besser erkennen können.
 
 ---
 
@@ -35,12 +35,12 @@ Ein Leitfaden, um zu verstehen, wie die Bibel, die wir heute haben, durch Übers
 
 ## 2. Übersetzungs- und Auslegungsfragen
 
-**(Nehemia 8:8)**: „Sie lasen aus dem Gesetz Gottes klar vor, erklärten es und gaben die Bedeutung an, sodass das Volk verstand.“  
+**(Nehemia 8:8)**: „Sie lasen aus dem Buch des Gesetzes Gottes, machten es klar und erklärten den Sinn, sodass das Volk verstand, was vorgelesen wurde.“  
 ➡ Die Schrift war immer für das Verständnis gedacht.
 
-**Geschichte:** Das Alte Testament wurde im 3.–2. Jh. v. Chr. ins Griechische übersetzt (Septuaginta). Später dominierte die Vulgata von Hieronymus, die Verzerrungen einführte („Tut Buße“ statt „Ändert euren Sinn“). 1611 ließ König Jakob eine englische Bibel anfertigen, geprägt von Politik. Die Schriftrollen vom Toten Meer bestätigten die Vielfalt der Texte.
+**Geschichte:** Das Alte Testament wurde im 3.–2. Jahrhundert v. Chr. ins Griechische übersetzt (Septuaginta). Später beherrschte die lateinische Vulgata des Hieronymus die Kirche und führte mitunter Verzerrungen ein: Aus „umkehren“ wurde „Bußleistungen vollbringen“. Als König Jakob 1611 seine englische Bibel autorisierte, beeinflusste die Politik bestimmte Übersetzungsentscheidungen. Die Schriftrollen vom Toten Meer bestätigten später die Vielfalt der verwendeten hebräischen Texte und zeigten, dass es kein einziges „vollkommenes“ Original gab.
 
-**Fazit:** Übersetzungen sind entscheidend. Wörter formen Glauben.
+**Fazit:** Übersetzungen sind entscheidend. Die Wahl einzelner Formulierungen kann ganze Glaubensvorstellungen verändern.
 
 ---
 
@@ -72,9 +72,9 @@ Ein Leitfaden, um zu verstehen, wie die Bibel, die wir heute haben, durch Übers
 ## 4. Verfolgung und Reform
 
 **(Johannes 16:2)**: „Die Zeit kommt, in der jeder, der euch tötet, denkt, er dient Gott.“  
-➡ Jesus sagte Verfolgung voraus.
+➡ Jesus sagte Verfolgung in seinem Namen voraus.
 
-**Geschichte:** Reformatoren wollten die Bibel zurück zum Volk bringen. John Wycliffe übersetzte ins Englische und wurde selbst nach dem Tod verurteilt. William Tyndale wurde 1536 hingerichtet. Luthers 95 Thesen 1517 lösten die Reformation aus. Das Konzil von Trient (1545–1563) stärkte die Kontrolle.
+**Geschichte:** Reformatoren versuchten, die Schrift dem Volk zurückzugeben. John Wycliffe übersetzte sie ins Englische und wurde noch nach seinem Tod verurteilt. William Tyndale wurde 1536 wegen seiner englischen Übersetzung hingerichtet. Martin Luthers 95 Thesen lösten 1517 die protestantische Reformation aus. Das katholische Konzil von Trient (1545–1563) verschärfte die Kontrolle.
 
 **Fazit:** Wer Korruption herausforderte, zahlte oft mit dem Leben.
 
@@ -83,14 +83,14 @@ Ein Leitfaden, um zu verstehen, wie die Bibel, die wir heute haben, durch Übers
 ## 5. Verlorene und unterdrückte Texte
 
 **(Judas 1:14–15)**: „Henoch, der siebte nach Adam, hat geweissagt...“  
-➡ Judas zitiert Henoch.
+➡ Judas zitiert direkt aus dem Buch Henoch.
 
-**(Kolosser 4:16)**: „Lest diesen Brief auch in Laodizea und lest den aus Laodizea.“  
+**(Kolosser 4:16)**: „Sorgt dafür, dass er auch in der Gemeinde der Laodizeer gelesen wird und dass ihr wiederum den Brief aus Laodizea lest.“  
 ➡ Paulus erwähnt einen verlorenen Brief.
 
-**Geschichte:** Das Buch Henoch war wichtig, wurde aber ausgeschlossen. Nag Hammadi (1945) enthüllte das Thomasevangelium. Die Schriftrollen vom Toten Meer (1947) zeigten alternative Texte. Viele Schriften wurden unterdrückt, weil sie Macht bedrohten.
+**Geschichte:** Die frühen Christen schätzten das Buch Henoch, doch später wurde es ausgeschlossen. Der Fund von Nag Hammadi (1945) brachte das Thomasevangelium und weitere Schriften ans Licht. Die Schriftrollen vom Toten Meer (1947) enthüllten verlorene Texte und abweichende Handschriften. Viele Schriften wurden unterdrückt, weil sie die Kontrolle der Institutionen bedrohten.
 
-**Fazit:** Die Bibel erkennt fehlende Bücher an; Geschichte zeigt absichtliche Entfernung.
+**Fazit:** Die Bibel selbst erkennt an, dass Bücher fehlen; die Geschichte zeigt, dass einige bewusst beiseitegelegt wurden.
 
 ---
 
@@ -135,7 +135,7 @@ Das *Buch Henoch* wurde in jüdischen und christlichen Gemeinschaften weit verbr
 
 * **3 Henoch (Hebräisches Henoch)**: Ein später rabbinischer Text (~5.–6. Jahrhundert n. Chr.). Hier wird Henoch in den Engel Metatron verwandelt, den Fürsten des himmlischen Heeres. Spiegelt jüdische Mystik und Kabbala wider, nicht die frühchristliche oder die Tradition des Zweiten Tempels.
 
-**Für die Prophetie ist nur **1 Henoch** maßgeblich in Bezug auf Genesis, Offenbarung und Judas.**
+**Für die Prophetie stimmt nur **1 Henoch** mit Genesis, Offenbarung und Judas überein.**
 
 ---
 
@@ -223,7 +223,7 @@ Henoch ist nicht randständig; er ist zentral. **1 Henoch** klärt Genesis, vert
 
 ### Synkretismus außerhalb der Kalenderfeste
 
-- Viele christliche Feste und Heiligentage nahmen lokale heidnische Praktiken auf, indem Heilige an die Stelle älterer Götter gesetzt oder Rituale christlich gedeutet wurden.
+- Viele christliche Feste und Heiligentage übernahmen **lokale heidnische Praktiken**, indem Heilige älteren Göttern oder Festen zugeordnet wurden.
 
 - Dies erleichterte die kulturelle Annahme des Christentums, führte aber auch Bräuche ein, die nicht in der Schrift verwurzelt sind.
 
@@ -237,24 +237,24 @@ Henoch ist nicht randständig; er ist zentral. **1 Henoch** klärt Genesis, vert
 
 - Ostern übernahm Frühlings- und Fruchtbarkeitssymbole (Eier, Hasen) aus **regionalen europäischen Bräuchen**; die populäre Behauptung einer Verbindung zu **Ishtar** ist etymologisch unbegründet.
 
-- Heilige wurden oft älteren lokalen Göttern gleichgesetzt.
+- Heilige wurden oft älteren lokalen Göttern zugeordnet.
 
 ---
 
 **Biblisch festgesetzte Zeiten im Vergleich zu übernommenen Traditionen**
 
-Während viele moderne Feste aus religiöser Vermischung entstanden sind, legt die Schrift bestimmte *Moedim* (festgesetzte Zeiten) fest, die von Gott in (3 Mose 23) eingesetzt wurden. Diese sind keine kulturellen Feiertage, sondern göttliche Termine, die das Muster der Erlösung offenbaren, das im Messias erfüllt wurde. Die ersten Gläubigen hielten diese Feste weiterhin als Teil von Gottes Bund ein (Apostelgeschichte 2:1) (Apostelgeschichte 20:6) (Apostelgeschichte 20:16) (1 Korinther 5:8). In den folgenden Jahrhunderten, besonders unter römischer Herrschaft, wurden sie durch bürgerliche und saisonale Feste ersetzt, um sich der Kultur des Reiches statt der Schrift anzupassen.
+Während viele moderne Feste aus religiöser Vermischung entstanden sind, legt die Schrift bestimmte *Moedim* (festgesetzte Zeiten) fest, die von Gott in (3 Mose 23) eingesetzt wurden. Diese sind keine kulturellen Feiertage, sondern göttliche Termine, die das Muster der Erlösung offenbaren, das im Messias erfüllt wurde. Die ersten Gläubigen hielten diese Feste weiterhin als Teil des Rhythmus von Gottes Bund ein (Apostelgeschichte 2:1) (Apostelgeschichte 20:6) (Apostelgeschichte 20:16) (1 Korinther 5:8). In den folgenden Jahrhunderten, besonders unter römischer Herrschaft, wurden sie durch bürgerliche und saisonale Feste ersetzt, um sich der Kultur des Reiches statt der Schrift anzupassen.
 
 ### **Von Gott eingesetzte Feste, die in Erinnerung gehalten werden sollen**
 
 **1. Sabbat (Schabbat)**  
-Wöchentliche Ruhezeit von Freitagabend bis Samstagabend; eingesetzt bei der Schöpfung und in den Zehn Geboten bekräftigt.  
+Wöchentliche Ruhezeit von Sonnenuntergang am Freitag bis Sonnenuntergang am Samstag; eingesetzt bei der Schöpfung und in den Zehn Geboten bekräftigt.  
 Er wird gefeiert durch Arbeitsruhe, Kerzenanzünden, Gottesdienst, gemeinsame Mahlzeiten und Schriftlesung als Zeichen des Bundesfriedens und des Vertrauens auf Gott.  
 (1 Mose 2:3) (2 Mose 20:8–11) (Jesaja 58:13–14) (Markus 2:27–28) (Hebräer 4:9–11)
 
 **2. Passah (Pessach)**  
 Erinnert an die Befreiung aus Ägypten durch das Blut des Lammes; weist auf das Opfer Christi hin.  
-Gefiert mit einem Sedermahl, das die Exodusgeschichte erzählt, ungesäuertes Brot und bittere Kräuter enthält und an die Erlösung durch das Lamm Gottes erinnert.  
+Gefeiert mit einem Sedermahl, das die Exodusgeschichte erzählt, ungesäuertes Brot und bittere Kräuter enthält und an die Erlösung durch das Lamm Gottes erinnert.  
 (2 Mose 12:3–14) (3 Mose 23:5) (Lukas 22:15–20) (Johannes 1:29) (1 Korinther 5:7)
 
 **3. Fest der Ungesäuerten Brote**  
@@ -263,7 +263,7 @@ Gefeiert durch das Entfernen allen Sauerteigs aus den Häusern und das Essen von
 (2 Mose 12:15–20) (3 Mose 23:6–8) (Lukas 23:50–56) (1 Korinther 5:8)
 
 **4. Erstlingsfrüchte**  
-Das Darbringen der ersten Ernte; erfüllt in der Auferstehung Christi als Erstling der Entschlafenen.  
+Das Darbringen der ersten Ernte; erfüllt in der Auferstehung Christi als Erstling der von den Toten Auferweckten.  
 Gefeiert durch das Darbringen des ersten Teils der Ernte als Dank an Gott, oft durch Gebet, Wohltätigkeit oder ein besonderes Dankopfer ausgedrückt.  
 (3 Mose 23:9–14) (5 Mose 26:1–11) (1 Korinther 15:20–23) (Römer 8:29)
 
@@ -274,7 +274,7 @@ Gefeiert mit Anbetung, Bibelstudium und Dank für sowohl Gottes Wort als auch di
 
 **6. Jom Teruah (Fest der Trompeten)**  
 Ein Tag des Trompetenblasens und geistlichen Erwachens; weist auf die zukünftige Wiederkunft Christi hin.  
-Gefeiert durch das Blasen des Schofars, gemeinschaftliche Anbetung und Selbstprüfung zur Vorbereitung auf den kommenden König.  
+Gefeiert durch das Blasen des Schofars, gemeinschaftliche Anbetung und Nachdenken über die Umkehr zur Vorbereitung auf den kommenden König.  
 (3 Mose 23:23–25) (4 Mose 29:1) (1 Thessalonicher 4:16–17) (1 Korinther 15:51–52) (Offenbarung 11:15)
 
 **7. Jom Kippur (Versöhnungstag)**  
@@ -284,7 +284,7 @@ Gefeiert durch Fasten, Gebet und Beichte, um Vergebung und Wiederherstellung der
 
 **8. Sukkot (Laubhüttenfest)**  
 Ein Freudenfest, das an Gottes Versorgung in der Wüste erinnert; kündigt seine künftige Gegenwart unter seinem Volk an.  
-Gefeiert durch das Bauen und Wohnen in temporären Hütten, gemeinsame Mahlzeiten, Freude in der Familie und Dank für Gottes Versorgung.  
+Gefeiert durch das Bauen und Wohnen in provisorischen Hütten, die Sukkot heißen, gemeinsame Mahlzeiten, Freude in der Familie und Dank für Gottes Versorgung.  
 (3 Mose 23:33–43) (Nehemia 8:14–18) (Sacharja 14:16–19) (Johannes 7:2–39) (Offenbarung 21:3–4)
 
 **Optionale Feste**  
@@ -299,7 +299,7 @@ Gefeiert durch das Bauen und Wohnen in temporären Hütten, gemeinsame Mahlzeite
 
 **Weihnachten**  
 Nicht in der Schrift geboten; der 25. Dezember wurde von den römischen Festen *Sol Invictus* und *Saturnalia* übernommen, die die Wiedergeburt der Sonne feierten. Die Bibel nennt kein Datum für die Geburt des Messias und gibt keinen Befehl, sie zu feiern.  
-(Jeremia 10:2–4) (5 Mose 12:29–32) (Markus 7:8–9)
+(Jeremia 10:2–4) (5 Mose 12:29–13:1) (Markus 7:8–9)
 
 **Ostern**  
 Ursprünglich das Passah- und Auferstehungsfest (*Pascha*); später mit Fruchtbarkeits- und Sonnensymbolen nach dem Konzil von Nicäa vermischt. Das englische Wort „Easter“ stammt aus regionalen Frühlingsbräuchen und nicht aus der Schrift.  
@@ -317,7 +317,7 @@ Entstanden, als sich das Christentum in heidnische Regionen ausbreitete; lokale 
 
 ### **Zusammenfassende Erkenntnis**
 
-Gläubige, die biblische Übereinstimmung suchen, sollten die von Gott in (3 Mose 23) festgesetzten Zeiten ehren und Feste vermeiden, die in heidnischem oder kaiserlichem Synkretismus verwurzelt sind. Die festgesetzten Feste umfassen Sabbat, Passah, Ungesäuerte Brote, Erstlingsfrüchte, Schawuot, Trompeten, Versöhnungstag und Sukkot; zusammen bilden sie den prophetischen Kalender der Erlösung. Sie offenbaren das Werk des Messias in vergangener Erfüllung und zukünftiger Verheißung. Das Feiern dieser göttlichen Zeiten vertieft das Verständnis von Gottes Bund und trennt den Gläubigen von menschlichen Traditionen, die die biblische Wahrheit verschleiern.  
+Gläubige, die biblische Übereinstimmung suchen, sollten die von Gott in (3 Mose 23) festgesetzten Zeiten ehren und Feste vermeiden, die in heidnischem oder kaiserlichem Synkretismus verwurzelt sind. Die festgesetzten Feste umfassen Sabbat, Passah, Ungesäuerte Brote, Erstlingsfrüchte, Schawuot, Trompeten, Versöhnungstag und Sukkot; zusammen bilden sie den prophetischen Kalender der Erlösung. Sie offenbaren das Werk des Messias in vergangener Erfüllung und zukünftiger Verheißung. Das Feiern dieser göttlichen Zeiten vertieft das Verständnis des Rhythmus von Gottes Bund und trennt den Gläubigen von menschlichen Traditionen, die die biblische Wahrheit verschleiern.  
 (Jeremia 10:2) (Matthäus 15:3) (Kolosser 2:16–17) (Römer 11:17–18)
 
 - Die Schrift warnt davor, die religiösen Bräuche umliegender Nationen zu übernehmen (Jeremia 10:2–4).
@@ -359,12 +359,12 @@ Gläubige, die biblische Übereinstimmung suchen, sollten die von Gott in (3 Mos
 ## 7. Kontrolle und Macht
 
 **(Hosea 4:6)**: „Mein Volk geht zugrunde, weil es keine Erkenntnis hat.“  
-➡ Menschen leiden ohne Wahrheit.
+➡ Gottes Volk leidet, wenn ihm die Wahrheit vorenthalten wird.
 
 **(Matthäus 23:13)**: „Ihr verschließt das Himmelreich vor den Menschen.“  
 ➡ Führer hielten Menschen fern von Gott.
 
-**Geschichte:** Jahrhunderte lang war die Bibel nur lateinisch. Das Volk durfte sie nicht lesen. 1559 erstellte die Kirche den Index verbotener Bücher. Ablasshandel verkaufte Vergebung. Der Buchdruck verbreitete die Schrift in Volkssprachen.
+**Geschichte:** Jahrhundertelang durften nur Priester die Bibel auf Latein lesen. Gewöhnlichen Menschen war der Zugang verwehrt. Die Kirche schuf 1559 den Index verbotener Bücher, um Schriften zu verbieten. Ablässe verkauften das Heil gegen Geld. Der Buchdruck zerbrach dieses Monopol und verbreitete die Schrift in den Volkssprachen.
 
 **Fazit:** Institutionen kontrollierten Wissen zur Machtsicherung.
 
@@ -372,7 +372,7 @@ Gläubige, die biblische Übereinstimmung suchen, sollten die von Gott in (3 Mos
 
 ## 8. Moderne Echos
 
-**(2. Timotheus 4:3–4)**: „Denn es wird eine Zeit kommen, da sie die gesunde Lehre nicht ertragen, sondern sich selbst Lehrer aufladen werden, nach ihren eigenen Begierden.“  
+**(2. Timotheus 4:3–4)**: „Sie werden die gesunde Lehre nicht ertragen. Stattdessen … werden sie Lehrer um sich scharen, die ihren juckenden Ohren sagen, was sie hören wollen.“  
 ➡ Die Schrift warnt vor Verfälschung aus Bequemlichkeit und Macht.
 
 **Geschichte:** Heutige Debatten über Übersetzungen, inklusive Sprache und Sexualität spiegeln alte Kämpfe um Kontrolle wider. Das Wohlstandsevangelium lehrt, dass Reichtum Gottes Wille sei, ähnlich wie im Mittelalter, als die Kirche Ablässe verkaufte (im Grunde „Tickets in den Himmel“ gegen Geld). Das Christentum ist heute in Zehntausende von Konfessionen gespalten, oft mehr geprägt durch Kultur, Tradition oder Politik als durch die Worte Jesu selbst. Weltweit nimmt die Verfolgung wieder zu, und die biblische Wahrheit wird ignoriert oder den Wünschen der Gesellschaft angepasst.
@@ -396,11 +396,10 @@ Gläubige, die biblische Übereinstimmung suchen, sollten die von Gott in (3 Mos
 
 - **Globale Übersetzungen:** Von den koptischen Christen in Ägypten über die syrischen Christen in Mesopotamien bis hin zu den lateinischen in Europa entstanden Übersetzungen unabhängig voneinander. Im Vergleich bezeugen sie dennoch dieselbe Botschaft: Christus gekreuzigt und auferstanden. Wenn Verfälschung eingetreten wäre, hätte sie überall gleichzeitig geschehen müssen, was die Geschichte nicht zeigt.
 
-- **Kosten der Augenzeugen:** Die Apostel und frühen Gläubigen verkündeten die Auferstehung Jesu trotz Folter und Tod. Niemand stirbt freiwillig für etwas, von dem er weiß, dass es eine Lüge ist. Das Überleben und die Ausbreitung des Christentums selbst zeigt, dass die Botschaft erhalten blieb.
+- **Der Preis für die Augenzeugen:** Die Apostel und frühen Gläubigen verkündeten die Auferstehung Jesu auch dann, wenn man ihnen Folter und Tod androhte. Menschen sterben nicht freiwillig für etwas, von dem sie wissen, dass es eine Lüge ist. Schon das Überleben und die Ausbreitung des Christentums zeigen, dass die Botschaft bewahrt wurde.
 
 - **Vergleich mit anderen Schriften:** Keine andere antike Schrift hat so viele Belege. Werke von Platon oder Caesar überleben nur in wenigen Handschriften, und doch zweifelt niemand an ihnen. Die Bibel hat Tausende, mit weniger als 1 Prozent Abweichungen, von denen keine die Botschaft des Heils verändert.
 
-**Fazit:** Die Bibel ist nicht nur durch Glauben, sondern auch durch die Geschichte bewahrt. Ohne die Auferstehung wäre das Christentum im ersten Jahrhundert ausgestorben. Stattdessen breitete es sich über die ganze Welt aus, weil die Botschaft wahr war. Generationen von Gläubigen gaben ihr Leben, um dieses Zeugnis weiterzutragen: das Heil kommt aus Gnade durch den Glauben an Jesus Christus, nicht durch Werke des Gesetzes, die niemand vollständig halten konnte. Diese Botschaft bleibt bis heute klar und unverändert.  
+**Fazit:** Die Bibel ist nicht nur durch Glauben bewahrt, sondern auch durch die Geschichte belegt. Ohne die Auferstehung wäre das Christentum im ersten Jahrhundert ausgestorben. Stattdessen breitete es sich über die ganze Welt aus, weil die Botschaft wahr war. Generationen von Gläubigen gaben ihr Leben, um dieses Zeugnis weiterzutragen: das Heil kommt aus Gnade durch den Glauben an Jesus Christus, nicht durch Werke des Gesetzes, die niemand vollständig halten konnte. Diese Botschaft bleibt bis heute klar und unverändert.  
 
 Die Bibel ist durch mehr als 63.000 Querverweise miteinander verbunden, die ein weitreichendes Netz von Verbindungen bilden, das sich über Jahrhunderte des Schreibens natürlich entwickelt hat. Von Mose in der Wüste über die Propheten Israels bis zu den Aposteln des ersten Jahrhunderts griff jede Generation von Schreibern auf die vorherigen zurück, zitierte und erweiterte sie. Diese Verbindungen erstrecken sich über 1.500 Jahre und verknüpfen 66 Bücher, die auf Hebräisch, Aramäisch und Griechisch von etwa 40 Autoren auf drei Kontinenten verfasst wurden. Weit entfernt von einer künstlichen Konstruktion wuchs dieses Geflecht organisch: Die Psalmen Davids erinnern an die Tora, die Prophezeiungen Jesajas weisen auf den Messias hin, und das Neue Testament verankert sich in jedem Teil des Alten Testaments, um zu zeigen, dass Jesus die Erfüllung der Verheißungen Gottes ist. Heute haben Gelehrte diese Querverweise nachverfolgt und in leuchtenden Bögen visualisiert; über 63.000 Verbindungen, die eine kontinuierliche Geschichte der Erlösung weben. Die Dichte und Harmonie dieser Verknüpfungen zeigen die Einzigartigkeit der Bibel: Kein anderes Buch der Geschichte, das über so lange Zeit von so vielen Händen geschrieben wurde, stimmt in solcher Konsistenz, Genauigkeit und Zielgerichtetheit überein.
-

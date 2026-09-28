@@ -288,13 +288,13 @@ El Corán honra a Jesús (*ʿĪsā*) como profeta, pero niega su crucifixión y 
 El Corán mismo afirma que la Torá y el Evangelio fueron revelaciones genuinas.
 
 **Corán 5:44**
-> «En verdad enviamos la Torá, en la que había guía y luz. Los profetas que se habían sometido juzgaron por ella para los judíos…»
+> «En verdad enviamos la Torá, en la que había guía y luz. Los profetas que se habían sometido [a Alá] juzgaron por ella para los judíos, al igual que los rabinos y los eruditos, conforme a aquello de la Escritura de Alá que se les había confiado, y de lo cual eran testigos.»
 
 **Corán 5:46**
-> «Y enviamos, siguiendo sus huellas, a Jesús, hijo de María, confirmando lo que vino antes de él en la Torá; y le dimos el Evangelio, en el cual había guía y luz…»
+> «Y enviamos, siguiendo sus huellas, a Jesús, hijo de María, confirmando lo que vino antes de él en la Torá; y le dimos el Evangelio, en el cual había guía y luz, que confirmaba lo que lo precedía de la Torá como guía e instrucción para los justos.»
 
-**Corán 10:94**
-> «Si tienes dudas acerca de lo que te hemos revelado, pregunta a quienes leen la Escritura antes de ti…»
+**Corán 10:94 (Sahih International)**
+> «Así que, si tienes dudas, [oh Mahoma], acerca de lo que te hemos revelado, pregunta a quienes han estado leyendo la Escritura antes de ti. Ciertamente te ha llegado la verdad de tu Señor; no seas, pues, de los que dudan.»
 
 La Biblia afirma su propia preservación.
 
@@ -333,7 +333,7 @@ La Biblia afirma su propia preservación.
 El islam respeta a Jesús (*ʿĪsā*) como profeta, pero niega su divinidad, filiación y crucifixión.
 
 **Corán 4:171**
-> «Oh Gente de la Escritura, no os excedáis en vuestra religión ni digáis de Dios sino la verdad. El Mesías, Jesús hijo de María, no es más que un mensajero de Dios y Su palabra que Él comunicó a María, y un espíritu [creado por Él]…»
+> «Oh Gente de la Escritura, no os excedáis en vuestra religión ni digáis de Alá sino la verdad. El Mesías, Jesús hijo de María, no es más que un mensajero de Alá, Su palabra que Él comunicó a María y un espíritu [creado por una orden] procedente de Él. Creed, pues, en Alá y en Sus mensajeros. No digáis: “Tres”; desistid, pues es mejor para vosotros. Alá es un solo Dios. Exaltado sea por encima de tener un hijo.»
 
 **La Biblia identifica a Jesús como el Hijo eterno de Dios, igual al Padre.**
 
@@ -358,7 +358,7 @@ La doctrina de la Trinidad afirma un solo Dios en tres Personas.
 > «La gracia del Señor Jesucristo, el amor de Dios, y la comunión del Espíritu Santo sean con todos vosotros.»
 
 **Mateo 28:19**
-> «Id y haced discípulos… bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo.»
+> «Id, pues, y haced discípulos de todas las naciones, bautizándolos en el nombre del Padre, del Hijo y del Espíritu Santo.»
 
 **Resumen:** El islam honra a Jesús como profeta pero le quita su filiación divina, crucifixión y papel de Salvador. La Biblia lo identifica de manera consistente como el Hijo eterno de Dios, el único camino de salvación.
 
@@ -694,6 +694,8 @@ La incoherencia es evidente: era «demasiado tímido» para pedir a los invitado
 
 ### Contradicciones y omisiones en el Corán
 
+El Islam enseña que el Corán es perfecto y no contiene contradicciones. Sin embargo, incluso dentro del texto y de la tradición islámica vemos conflictos y material perdido.
+
 #### 1. Cronología de la creación
 **Corán 7:54**: seis días.  
 
@@ -701,7 +703,7 @@ La incoherencia es evidente: era «demasiado tímido» para pedir a los invitado
 > Di: «¿Acaso negáis a Quien creó la tierra en dos días y Le atribuís iguales? Ese es el Señor de los mundos. Y puso en ella firmes montañas por encima de ella, la bendijo y determinó en ella su sustento en cuatro días, de manera equitativa para los que preguntan. Luego se dirigió al cielo cuando era humo y le dijo a él y a la tierra: “Venid, de buen grado o por fuerza.” Ellos dijeron: “Venimos de buen grado.” Y completó siete cielos en dos días e inspiró en cada cielo su mandato. Y adornamos el cielo más cercano con lámparas y como protección. Ese es el decreto del Poderoso, el Omnisciente.»
 
 
-La Biblia es consistente: seis días y reposo al séptimo (Génesis 1:31–2:2).
+En conjunto, la sura 41 describe ocho días, no seis. La Biblia es consistente: Dios creó en seis días y descansó el séptimo (Génesis 1:31–2:2).
 
 #### 2. Vino: ¿bendito o maldito?
 **Corán 16:67 (Sahih International)**
@@ -1234,6 +1236,6 @@ Aférrate a la fe que fue entregada una vez a los santos (Judas 3).
 
 - **(Apocalipsis 12:10–11)** – «Ellos le han vencido por la sangre del Cordero y por la palabra de su testimonio.»
 
-- **(Filipenses 2:10–11)** – «Para que en el nombre de Jesús se doble toda rodilla… y toda lengua confiese que Jesucristo es Señor.»
+- **(Filipenses 2:10–11)** – «Para que en el nombre de Jesús se doble toda rodilla en el cielo, en la tierra y debajo de la tierra, y toda lengua confiese que Jesucristo es Señor.»  
 
 **Conclusión clave (Escritura):** Cristo vino a destruir las obras del diablo (1 Juan 3:8). Los creyentes vencen por su sangre y por un testimonio fiel (Apocalipsis 12:10–11). Al final, toda la creación se postrará y confesará que Jesucristo es el Señor (Filipenses 2:10–11).

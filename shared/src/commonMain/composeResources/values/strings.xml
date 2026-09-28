@@ -491,4 +491,9 @@
     <string name="ui_color_violet">Violet</string>
     <string name="ui_color_magenta">Magenta</string>
     <string name="ui_color_rose">Rose</string>
+    <string name="ui_primary_color">Primary</string>
+    <string name="ui_secondary_color">Secondary</string>
+    <string name="ui_tertiary_color">Tertiary</string>
+    <string name="ui_custom_palette_hint">Choose each color independently, or match both accents to your primary color.</string>
+    <string name="ui_match_accent_colors">Match accents to primary</string>
 </resources>

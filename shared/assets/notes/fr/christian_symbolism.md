@@ -7,7 +7,7 @@
 - **Ichthys (poisson)**  
   L’un des plus anciens symboles. Le mot grec ἰχθύς (*ichthys*) signifie « poisson » et servait d’acronyme pour *« Ἰησοῦς Χριστὸς Θεοῦ Υἱὸς Σωτήρ »*, « Jésus Christ, Fils de Dieu, Sauveur » (cf. Matthieu 4:19).
 
-- **Chri-Rho (☧)**  
+- **Chi-Rho (☧)**  
   Un monogramme formé des deux premières lettres grecques de « Christ » (Χ et Ρ). Attesté dès les IIIe–IVe siècles.
 
 - **Le berger et les brebis**  

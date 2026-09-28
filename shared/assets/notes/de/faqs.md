@@ -11,9 +11,9 @@ In **2. Mose 33,20** sagt Gott zu Mose: „Kein Mensch kann mich sehen und am Le
 Die Idee ist nicht Strafe; es geht um unendliche Energie, die auf endliches Sein trifft. Direkte Exposition gegenüber dieser Größe würde das menschliche Bewusstsein überwältigen.  
 **Biblische Belege:**
 
-- **1. Timotheus 6,16**: „Er allein hat Unsterblichkeit und wohnt in einem unzugänglichen Licht, das kein Mensch gesehen hat noch sehen kann.“
+- **1. Timotheus 6,16**: „Er allein hat Unsterblichkeit und wohnt in unzugänglichem Licht. Kein Mensch hat ihn gesehen oder kann ihn sehen.“
 
-- **2. Mose 19,16–18**: Als Gott auf den Sinai herabfuhr, „zitterte der ganze Berg heftig“, und das Volk blieb aus Furcht auf Abstand.
+- **2. Mose 19,16–18**: Als Gott auf den Sinai herabfuhr, „zitterte der ganze Berg heftig“, und das Volk blieb auf Abstand, weil es seine Gegenwart nicht ertragen konnte.
 
 - **Jesaja 6,5**: Als Jesaja die Herrlichkeit des Herrn sah, rief er: „Weh mir, ich vergehe… denn meine Augen haben den König, den HERRN Zebaoth, gesehen!“
 
@@ -38,7 +38,7 @@ Die Tragödie war vorausgesehen, aber nicht erzwungen; Vorherwissen ist nicht Ve
 
 **Biblische Belege:**
 
-- **1. Mose 2,16–17**: „Von jedem Baum des Gartens darfst du essen; aber vom Baum der Erkenntnis des Guten und des Bösen sollst du nicht essen; denn an dem Tag, da du davon isst, musst du sterben.“
+- **1. Mose 2,16–17**: „Und Gott der HERR gebot dem Menschen: Von jedem Baum des Gartens darfst du essen; aber vom Baum der Erkenntnis des Guten und des Bösen sollst du nicht essen; denn an dem Tag, da du davon isst, musst du sterben.“
 
 - **5. Mose 30,19–20**: „Ich habe dir Leben und Tod, Segen und Fluch vorgelegt; so wähle das Leben.“  
   Gottes Wesen ist konsistent; er achtet die Wahl, weil sie die Grundlage der Liebe ist.
@@ -92,7 +92,7 @@ Durch Leiden zeigt Gott, dass er dem Schmerz nicht fernsteht; er trägt ihn mit 
   Schmerz ist nicht sinnlos; er reift die Seele.
 
 - **1. Petrus 4,12–13**: „Lasst euch durch die Feuerprobe nicht befremden… sondern freut euch, dass ihr Anteil an den Leiden des Christus habt.“  
-  Leiden verbindet mit dem Herzen Christi und läutert.
+  Leiden verbindet die Gläubigen mit dem Herzen Christi und läutert Mitgefühl und Glauben.
 
 - **2. Korinther 4,17–18**: „Unsere leichte Bedrängnis, die schnell vorübergeht, schafft eine ewige und über alle Maßen gewichtige Herrlichkeit.“  
   Schmerz ist zeitlich; die geformte Herrlichkeit ewig.
@@ -102,7 +102,7 @@ Er trat in seine Schöpfung als „Mann der Schmerzen“ (**Jesaja 53,3**) und t
 
 Das Kreuz beweist: Gottes Antwort auf Leid ist nicht Verlassenheit; sondern Mit-Leiden.  
 Er beseitigt das Böse nicht, indem er Freiheit auslöscht; er überwindet es, indem er dessen Ausgang durch Liebe verwandelt.  
-Am Ende wird jede Ungerechtigkeit beantwortet und jede Träne abgewischt (**Offenbarung 21,4**).  
+Am Ende werden jede Ungerechtigkeit und jede Wunde beantwortet und jede Träne abgewischt (**Offenbarung 21,4**).  
 Leiden wird nicht ewig dauern; die dadurch gewonnene Stärke schon.
 
 ---
@@ -111,9 +111,9 @@ Leiden wird nicht ewig dauern; die dadurch gewonnene Stärke schon.
 
 Das Buch Hiob antwortet durch eine echte Bewährungsprobe des Glaubens. Auf den ersten Blick wirkt Hiob moralisch verstörend. Gott scheint Satan zu erlauben, Leid zuzufügen, als wäre es eine Wette. Doch diese Szene ist keine eitle Zurschaustellung; sie ist eine **rechtliche und kosmische Herausforderung**.  
 Die Frage im Himmel lautet nicht: „Gewinnt Gott ein Spiel?“, sondern: „Kann menschliche Rechtschaffenheit ohne Belohnung bestehen?“  
-Satan behauptet, der Mensch sei nur treu, solange es ihm gut geht. Gott erlaubt die Prüfung, um zu zeigen, dass echter Glaube auch im Leiden besteht.
+Satan behauptet, der Mensch sei nur treu, solange es ihm gut geht, und unterstellt damit, dass alle Güte eigennützig sei. Gott erlaubt die Prüfung, um zu zeigen, dass echter Glaube auch im Leiden besteht.
 
-Hiobs Prüfung ist kein Strafgericht, sondern Vertrauen. Gott wählt ihn, weil er sein Herz kennt. Leiden legt Motive offen und vertieft Beziehung. Hiob schreit, protestiert und verlangt Antworten. Gott tadelt ihn nicht für seinen Ringkampf mit der Wahrheit; vielmehr erscheint er, nicht um die Mechanik des Leidens zu erklären, sondern um Hiobs Perspektive zu weiten. Als Hiob Gottes Gegenwart begegnet, erkennt er: göttliche Weisheit übersteigt menschliches Begreifen. In dem Moment, in dem Hiob vom Kontrollanspruch zur hingegebenen Zuversicht übergeht, beginnt die Wiederherstellung. Hiobs Leiden führt ihn in unmittelbare Gottesbeziehung.
+Hiobs Prüfung ist kein Strafgericht, sondern Vertrauen. Gott wählt ihn, weil er sein Herz kennt. Leiden legt Motive offen und vertieft Beziehung. Hiob schreit in seiner Qual, beteuert seine Unschuld und verlangt Antworten. Gott tadelt ihn nicht für seinen Ringkampf mit der Wahrheit; vielmehr erscheint er, nicht um die Mechanik des Leidens zu erklären, sondern um Hiobs Perspektive zu weiten. Als Hiob Gottes Gegenwart begegnet, erkennt er: göttliche Weisheit übersteigt menschliches Begreifen. In dem Moment, in dem Hiob vom Kontrollanspruch zur hingegebenen Zuversicht übergeht, beginnt die Wiederherstellung. Hiobs Leiden führt ihn in unmittelbare Gottesbeziehung.
 
 **Biblische Belege:**
 
@@ -121,17 +121,17 @@ Hiobs Prüfung ist kein Strafgericht, sondern Vertrauen. Gott wählt ihn, weil e
 
 - **Hiob 2,3–6**: Gott bekräftigt erneut Hiobs Integrität; die Prüfung dient der Rechtfertigung, nicht der Strafe.
 
-- **Hiob 23,10**: „Prüft er mich, so gehe ich wie Gold hervor.“
+- **Hiob 23,10**: „Er kennt den Weg, den ich gehe; prüft er mich, so gehe ich wie Gold hervor.“
 
-- **Hiob 38–41**: Gottes Antwort erinnert: die Schöpfung birgt Geheimnisse; Ziel ist Perspektive, nicht bloße Macht.
+- **Hiob 38–41**: Gottes Antwort erinnert: die Schöpfung selbst birgt Geheimnisse jenseits menschlichen Begreifens; Ziel ist Perspektive, nicht bloße Macht.
 
-- **Hiob 42,5–6**: „Vom Hörensagen hatte ich von dir gehört; jetzt aber hat mein Auge dich gesehen.“ Vom Wissen zur Begegnung.
+- **Hiob 42,5–6**: „Vom Hörensagen hatte ich von dir gehört; jetzt aber hat mein Auge dich gesehen.“ Hiob gelangt vom Glauben zur Begegnung.
 
-Nach Hiobs Umkehr und erneuertem Verständnis rechtfertigt Gott ihn öffentlich. Er tadelt die Freunde wegen ihrer flachen Theologie: „Ihr habt nicht recht von mir geredet“ (**Hiob 42,7**). Sie sollen opfern; Hiob betet für sie.
+Nach Hiobs Umkehr und erneuertem Verständnis rechtfertigt Gott ihn öffentlich. Er tadelt die Freunde wegen ihrer flachen Theologie: „Ihr habt nicht recht von mir geredet“ (**Hiob 42,7**). Gott gebietet ihnen, Opfer darzubringen; Hiob betet für sie, ein Akt der Vergebung und Gnade.
 
 Dann folgt die Wiederherstellung.
 
-- **Hiob 42,10**: „Der HERR wandte das Geschick Hiobs… und verdoppelte alles, was er gehabt hatte.“
+- **Hiob 42,10**: „Der HERR wandte das Geschick Hiobs, als er für seine Freunde gebetet hatte, und der HERR gab Hiob doppelt so viel, wie er zuvor besessen hatte.“
 
 - **Hiob 42,12–17**: Hiob empfängt doppelten Besitz, eine neue Familie und langes Leben; seine letzten Jahre sind von Frieden geprägt.
 
@@ -212,22 +212,22 @@ Der Tod kam durch die Sünde (**Römer 5,12**), und die gesamte Schöpfung seufz
 
 **Biblische Belege:**
 
-- **1. Mose 2,17**: „Denn an dem Tage, da du davon isst, musst du des Todes sterben.“  
+- **1. Mose 2,17**: „Aber vom Baum der Erkenntnis des Guten und des Bösen sollst du nicht essen; denn an dem Tage, da du davon isst, musst du des Todes sterben.“  
   Der Tod war die Folge des Ungehorsams, nicht Teil des ursprünglichen göttlichen Plans für den Menschen.
 
-- **2. Samuel 12,22–23**: Nach dem Tod seines Kindes sagt David: „Ich werde zu ihm gehen, aber es wird nicht zu mir zurückkehren.“  
-  Davids Zuversicht deutet auf die Hoffnung der Wiedervereinigung bei Gott.
+- **2. Samuel 12,22–23**: Nach dem Tod seines kleinen Sohnes sagt David: „Ich werde zu ihm gehen, aber es wird nicht zu mir zurückkehren.“  
+  Davids Zuversicht zeigt seinen Glauben, dass das Kind bei Gott ist und die Wiedervereinigung jenseits des Todes wartet.
 
-- **Jesaja 57,1–2**: „Der Gerechte kommt um… er geht zum Frieden ein; sie ruhen auf ihren Lagern.“  
+- **Jesaja 57,1–2**: „Der Gerechte kommt um, und niemand nimmt es sich zu Herzen… er geht zum Frieden ein; die in ihrer Aufrichtigkeit wandeln, ruhen auf ihren Lagern.“  
   Früher Tod kann barmherzige Bewahrung vor kommendem Bösen sein.
 
-- **Matthäus 19,14**: Jesus: „Lasst die Kinder zu mir kommen… denn solchen gehört das Himmelreich.“  
+- **Matthäus 19,14**: Jesus sagte: „Lasst die Kinder zu mir kommen und hindert sie nicht, denn solchen gehört das Himmelreich.“  
   Christus beansprucht und empfängt jedes Kind.
 
 - **5. Mose 1,39**: Gott verschont Israels Kinder im Gericht, da sie „heute weder Gutes noch Böses erkennen“.  
   Moralische Verantwortung setzt Verständnis voraus; Unschuld ruht in Gnade.
 
-- **Prediger 12,7**: „Der Staub kehrt zur Erde zurück… und der Geist kehrt zu Gott zurück, der ihn gegeben hat.“  
+- **Prediger 12,7**: „Der Staub kehrt zur Erde zurück, wie er gewesen ist, und der Geist kehrt zu Gott zurück, der ihn gegeben hat.“  
   Jedes Leben kehrt zu seiner Quelle zurück.
 
 Der Tod war nie Gottes ursprüngliche Absicht; dennoch erlöst er ihn. Durch Christi Auferstehung wird der Tod zum besiegten Feind.  
@@ -236,7 +236,7 @@ Der Tod war nie Gottes ursprüngliche Absicht; dennoch erlöst er ihn. Durch Chr
 **Römer 8,38–39** versichert, dass uns nichts, weder Tod noch Leben, von Gottes Liebe trennen kann. Kinder, die sterben, verschwinden nicht im Nichts; sie ruhen in dieser ungebrochenen Liebe.
 
 Leid und Verlust bleiben real; doch das biblische Muster zeigt: Gott bewahrt die Unschuldigen und stellt alles zu seiner Zeit wieder her.  
-**Offenbarung 21,4**: „Er wird alle Tränen abwischen… und der Tod wird nicht mehr sein.“
+**Offenbarung 21,4**: „Er wird jede Träne von ihren Augen abwischen, und der Tod wird nicht mehr sein.“
 
 Der Tod beendet Unschuld nur dem Anschein nach; in Wahrheit bringt er die Unschuldigen sicher in die Arme des Ewigen.
 
@@ -253,14 +253,14 @@ Die Schrift rahmt diese Befehle als **begrenzte Gerichte**, **Schutz vor zersetz
 - **1. Mose 15,16**: „Denn die Schuld der Amoriter ist bis jetzt noch nicht voll.“  
   Gericht wird verzögert, bis das Böse gereift ist; göttliche Langmut geht dem Gericht voraus.
 
-- **3. Mose 18,24–28**: Das Land „speit seine Bewohner aus“ wegen Gewalttätigkeit und Gräueln; Israel wird dieselbe Strafe treffen, wenn es nachahmt.
+- **3. Mose 18,24–28**: Das Land „speit seine Bewohner aus“ wegen verbreiteter sexueller Gewalt und Gräueln; Israel wird dasselbe Gericht treffen, wenn es diese Völker nachahmt.
 
 - **5. Mose 12,31**: Die Nationen „verbrennen sogar ihre Söhne und Töchter im Feuer ihren Göttern.“  
   Krieg steht im Zusammenhang mit dem Beenden von Gräueltaten; nicht mit Selbstzweck der Eroberung.
 
 **Regeln und Beschränkungen im Krieg:**
 
-- **5. Mose 20,10–12**: Dem fernen Städtebund ist zuerst Frieden anzubieten; erst bei Ablehnung Belagerung.
+- **5. Mose 20,10–12**: Fernen Städten ist zuerst Frieden anzubieten; wenn sie ihn ablehnen und kämpfen, ist eine Belagerung erlaubt.
 
 - **5. Mose 20,19–20**: Obstbäume dürfen nicht zerstört werden; selbst Gericht ist durch Fürsorge für künftiges Leben begrenzt.
 
@@ -277,9 +277,9 @@ Die Schrift rahmt diese Befehle als **begrenzte Gerichte**, **Schutz vor zersetz
 
 **Warum manche Befehle scharf sind:**
 
-- **5. Mose 7,1–5; 20,16–18**: Das Vertreiben bestimmter Völker soll Israels Abfall zu ihren Praktiken verhindern; Ziel ist Bundestreue; nicht ethnische Überlegenheit.
+- **5. Mose 7,1–5; 20,16–18**: Das Vertreiben bestimmter Völker soll verhindern, dass Israel ihre Praktiken und ihren Götzendienst übernimmt; Ziel ist Bundestreue; nicht ethnische Überlegenheit.
 
-- **1. Samuel 15,2–3**: Amalek wird wegen unprovozierter Aggression gerichtet; die Schrift präsentiert dies als historisches Gericht über andauernde Feindseligkeit.  
+- **1. Samuel 15,2–3**: Amalek wird wegen unprovozierter Gewalt gegen Israel gerichtet; die Schrift präsentiert dies als historisches Gericht über andauernde Feindseligkeit.  
   Dieselbe Schrift richtet später Israel, wenn es gewalttätig und ungerecht wird.
 
 **Gott richtet Israel mit demselben Maßstab:**
@@ -309,49 +309,49 @@ Zunächst: Die Hölle wurde nie für Menschen geschaffen. Jesus selbst sagt in *
 
 Die Schrift zeigt die Hölle nicht als göttliche Grausamkeit; sondern als Endfolge menschlicher Entscheidung. Gott ehrt die Freiheit, die er gab; Liebe kann nicht erzwungen werden, und die Ablehnung seiner Gegenwart führt natürlich zur Trennung von ihm. Die Hölle ist diese Trennung in Permanenz.
 
-Erlösung wird allen aus Gnade in Christus angeboten. Sie kann nicht durch Werke verdient; sondern muss im Glauben empfangen werden.  
-**Epheser 2,8–9**: „Aus Gnade seid ihr gerettet durch den Glauben… nicht aus Werken, damit sich niemand rühme.“  
+Erlösung wird allen aus Gnade in Christus angeboten. Sie kann nicht durch Werke verdient werden, sondern muss im Glauben empfangen werden.  
+**Epheser 2,8–9**: „Aus Gnade seid ihr gerettet durch den Glauben, und das nicht aus euch selbst; es ist Gottes Gabe, nicht aus Werken, damit sich niemand rühme.“  
 Wer dieses Geschenk annimmt, dem wird vergeben und er wird zum Leben wiederhergestellt. Wer es ablehnt, trägt seine Sünde selbst und bleibt getrennt von Gott.
 
 **Biblische Belege:**
 
-- **Hesekiel 33,11**: Gott hat kein Gefallen am Tod des Gottlosen; er will, dass er umkehrt und lebt.  
+- **Hesekiel 33,11**: „So wahr ich lebe, spricht Gott der HERR, ich habe kein Gefallen am Tod des Gottlosen, sondern daran, dass der Gottlose von seinem Weg umkehrt und lebt.“  
   Gottes Wunsch ist Umkehr; nicht Verdammnis.
 
-- **2. Petrus 3,9**: Gott ist geduldig, „da er nicht will, dass jemand verloren gehe, sondern dass jeder Raum zur Umkehr habe.“  
+- **2. Petrus 3,9**: „Der Herr verzögert nicht die Verheißung, wie es einige für eine Verzögerung halten, sondern er ist geduldig mit euch, da er nicht will, dass jemand verloren gehe, sondern dass alle zur Umkehr gelangen.“  
   Gericht kommt erst nach ausgeschöpfter Geduld.
 
-- **5. Mose 30,19**: „Ich habe dir Leben und Tod vorgelegt; so wähle das Leben.“  
+- **5. Mose 30,19**: „Ich habe dir Leben und Tod, Segen und Fluch vorgelegt; so wähle das Leben.“  
   Gott bietet die Wahl; er erzwingt das Ergebnis nicht.
 
 - **Römer 2,5–8**: Wer in Verstockung verharrt, „häuft Zorn auf den Tag des Zornes“; wer das Gute sucht, empfängt ewiges Leben.  
   Gericht folgt beharrlicher Bosheit.
 
-- **Matthäus 25,41-46**: Endgültige Scheidung: „Geht weg von mir… in das ewige Feuer… Und sie werden hingehen in die ewige Strafe; die Gerechten aber in das ewige Leben.“  
-  Das Urteil knüpft an die Ablehnung der Barmherzigkeit.
+- **Matthäus 25,41-46**: Jesus spricht von der endgültigen Scheidung: „Geht weg von mir, ihr Verfluchten, in das ewige Feuer, das dem Teufel und seinen Engeln bereitet ist… Und sie werden hingehen in die ewige Strafe; die Gerechten aber in das ewige Leben.“  
+  Das Urteil knüpft an die Ablehnung der Barmherzigkeit, nicht an fehlende Gelegenheit.
 
-- **Johannes 3,18–19**: „Wer nicht glaubt, ist schon gerichtet… denn die Menschen liebten die Finsternis mehr als das Licht.“  
+- **Johannes 3,18–19**: „Wer an ihn glaubt, wird nicht gerichtet; wer aber nicht glaubt, ist schon gerichtet, weil er nicht an den Namen des einzigen Sohnes Gottes geglaubt hat… und die Menschen liebten die Finsternis mehr als das Licht.“  
   Verdammnis entspringt der Liebe zur Finsternis.
 
-- **Römer 1,24–26**: „Darum hat sie Gott dahingegeben…“  
+- **Römer 1,24–26**: „Gott gab sie dahin“, ihren Begierden ausgeliefert.  
   Trennung beginnt, wenn das Herz auf Unabhängigkeit besteht.
 
 **Was die Hölle darstellt:**
 
 Die Hölle wird als Ausschluss von Gottes Gegenwart und dem von ihm ausgehenden Guten beschrieben.
 
-- **2. Thessalonicher 1,9**: „Sie werden Strafe erleiden, ewiges Verderben, weg vom Angesicht des Herrn.“  
+- **2. Thessalonicher 1,9**: „Sie werden Strafe erleiden, ewiges Verderben, weg vom Angesicht des Herrn und von der Herrlichkeit seiner Macht.“  
   Der Verlust ist relational; nicht nur physisch.
 
 - **Matthäus 13,41–43**: Das Böse wird aus Gottes Reich entfernt; die Gerechten „leuchten wie die Sonne“.  
   Gerechtigkeit erfordert die Entfernung dessen, was Frieden zerstört.
 
-- **Offenbarung 20,11–15**: Gericht „nach ihren Werken“; persönlich und gerecht.
+- **Offenbarung 20,11–15**: Jeder Mensch wird „nach seinen Werken“ gerichtet; das Gericht betrifft jeden Einzelnen und steht im Verhältnis zu seinen Taten.
 
 **Warum Liebe Gericht braucht:**
 
 Vollkommene Liebe schließt vollkommene Gerechtigkeit ein.  
-Ein Gott, der Grausamkeit und unbußfertiges Übel ignoriert, wäre nicht gut.  
+Ein Gott, der Grausamkeit, Ausbeutung oder unbußfertiges Übel ignoriert, wäre nicht gut.  
 Dieselbe Liebe, die rettet, verweigert, das Böse ungestraft zu lassen.  
 Am Kreuz begegnen sich Barmherzigkeit und Gerechtigkeit: der Preis der Erlösung ist bezahlt, damit keiner verloren gehen muss (**Römer 3,25–26**).
 
@@ -375,7 +375,7 @@ Jeder Glaubensakt antwortet auf das, was Gott bereits offenbart hat: durch Schö
 
 **Biblische Belege:**
 
-- **Römer 1,19–20**: Was von Gott erkennbar ist, ist „offenbar“; seine unsichtbaren Eigenschaften werden „seit Erschaffung der Welt an den Werken“ wahrgenommen; daher sind Menschen „ohne Entschuldigung“.  
+- **Römer 1,19–20**: „Was man von Gott erkennen kann, ist ihnen offenbar, weil Gott es ihnen gezeigt hat. Denn seine unsichtbaren Eigenschaften, seine ewige Macht und sein göttliches Wesen, werden deutlich wahrgenommen… sodass sie keine Entschuldigung haben.“  
   Die Schöpfung bezeugt Gott; Glaube antwortet.
 
 - **Johannes 20,29**: „Selig sind, die nicht sehen und doch glauben.“  
@@ -384,7 +384,7 @@ Jeder Glaubensakt antwortet auf das, was Gott bereits offenbart hat: durch Schö
 - **2. Korinther 5,7**: „Denn wir wandeln im Glauben und nicht im Schauen.“  
   Glaube regiert die Gegenwart, bis Schauen ihn vollendet.
 
-- **Hebräer 11,6**: „Ohne Glauben ist es unmöglich, Gott zu gefallen.“  
+- **Hebräer 11,6**: „Ohne Glauben ist es unmöglich, Gott zu gefallen; denn wer sich Gott naht, muss glauben, dass er existiert und dass er die belohnt, die ihn suchen.“  
   Beziehung beruht auf freiwilligem Vertrauen; nicht erzwungenem Beweis.
 
 - **Epheser 2,8–9**: „Aus Gnade seid ihr gerettet durch den Glauben… Gottes Gabe; nicht aus Werken.“  
@@ -392,11 +392,11 @@ Jeder Glaubensakt antwortet auf das, was Gott bereits offenbart hat: durch Schö
 
 **Warum nicht Gewissheit?**
 
-Erzwungene Gewissheit hebt Wahlfreiheit auf; Glaube veredelt sie.  
+Gewissheit hebt Wahlfreiheit auf; Glaube veredelt sie.  
 Glaube verlangt Demut, Abhängigkeit und Liebe; Qualitäten, die unter Zwang nicht wachsen.  
 Erprobung des Glaubens schafft Ausdauer, Reife und Echtheit.
 
-- **Jakobus 1,3–4**: „Die Bewährung eures Glaubens wirkt Standhaftigkeit… damit ihr vollkommen und unversehrt seid.“
+- **Jakobus 1,3–4**: „Die Bewährung eures Glaubens wirkt Standhaftigkeit. Die Standhaftigkeit aber soll ihr Werk vollenden, damit ihr vollkommen und unversehrt seid.“
 
 - **1. Petrus 1,7–9**: „Bewährt im Feuer“ führt Glaube zu „Lob, Herrlichkeit und Ehre“ bei Christi Offenbarung.  
   Das jetzt Unsichtbare wird sichtbar werden.
@@ -417,10 +417,10 @@ Diese Freiheit macht Liebe möglich; sie erlaubt aber auch Auflehnung. Gott wuss
 
 **Biblische Belege:**
 
-- **Hesekiel 28,12–17**: Rede an den König von Tyrus in Bildern eines gefallenen Himmelswesens: „Vollkommen warst du… bis Unrecht an dir gefunden wurde.“  
+- **Hesekiel 28,12–17**: Der König von Tyrus wird in einer Sprache beschrieben, die Parallelen zum Fall eines Himmelswesens zeigt: „Du warst das Siegel der Vollkommenheit, voller Weisheit und vollkommen an Schönheit… Du warst untadelig auf deinen Wegen vom Tag deiner Erschaffung an, bis Unrecht an dir gefunden wurde.“  
   Hochmut verdarb, was vollkommen war.
 
-- **Jesaja 14,12–15**: „Wie bist du vom Himmel gefallen, du Glanzstern, Sohn der Morgenröte!… Ich will meinen Thron über die Sterne Gottes erhöhen.“  
+- **Jesaja 14,12–15**: „Wie bist du vom Himmel gefallen, du Glanzstern, Sohn der Morgenröte!… Du sprachst in deinem Herzen: Ich will zum Himmel aufsteigen; ich will meinen Thron über die Sterne Gottes erhöhen.“  
   Rebellion beginnt mit Selbstüberhöhung und Verweigerung der Unterordnung.
 
 - **1. Timotheus 3,6**: Hochmut heißt „Gericht des Teufels“.  
@@ -428,7 +428,7 @@ Diese Freiheit macht Liebe möglich; sie erlaubt aber auch Auflehnung. Gott wuss
 
 - **Johannes 8,44**: Jesus nennt ihn „Menschenmörder von Anfang an“ und „Vater der Lüge“; die moralische Bahn der Rebellion.
 
-- **2. Petrus 2,4**: „Gott hat die Engel, die gesündigt haben, nicht verschont…“  
+- **2. Petrus 2,4**: „Gott hat die Engel, die gesündigt haben, nicht verschont, sondern sie in die Hölle geworfen und in Ketten finsterer Dunkelheit dem Gericht vorbehalten.“  
   Auch Engel stehen unter Gottes Gericht.
 
 **Warum Gott Rebellion erlaubte:**
@@ -437,7 +437,7 @@ Freiheit ohne Möglichkeit des Ungehorsams ist keine Freiheit.
 Liebe, die nicht abgelehnt werden kann, ist keine Liebe.  
 Gott erlaubt Rebellion, um die wahre Natur des Guten zu zeigen, das Böse als selbstzerstörerisch offenzulegen und Gerechtigkeit und Barmherzigkeit durch Erlösung sichtbar zu machen.
 
-- **Römer 9,22–23**: Gott erträgt „mit großer Langmut Gefäße des Zorns“, um „den Reichtum seiner Herrlichkeit“ an Gefäßen der Barmherzigkeit zu offenbaren.  
+- **Römer 9,22–23**: „Was aber, wenn Gott, der seinen Zorn zeigen und seine Macht bekannt machen wollte, mit großer Langmut Gefäße des Zorns ertragen hat, die zum Verderben bereitet waren, um den Reichtum seiner Herrlichkeit an Gefäßen der Barmherzigkeit bekannt zu machen?“  
   Geduld zeigt sowohl Gerechtigkeit als auch Gnade.
 
 - **Hiob 1,6–12**: Selbst in der Prüfung bleibt Satan begrenzt; Rebellion ist erlaubt, nicht unkontrolliert.
@@ -466,40 +466,40 @@ Zugleich bezeugt die Schrift, dass Gott sich unter den Völkern nie ohne Zeugnis
 
 Von Anfang an wollte Gott, dass alle Völker ihn erkennen. Israel wurde erwählt, um die Offenbarung zu bewahren und den Messias hervorzubringen, durch den alle Nationen gesegnet werden (**1. Mose 12,3**). Jesus erklärte, dass er die Fülle dieser Offenbarung ist; das Licht, an dem alle kleineren Lichter gemessen werden.
 
-Die Schrift zeigt jedoch auch: Falscher Gottesdienst ist nicht nur menschliche Verwirrung; oft steht geistliche Rebellion dahinter. Gefallene Mächte, „Fürstentümer und Gewalten“, verdrehen Gottes Wahrheit und ziehen Menschen in Götzendienst und Verderben.  
+Die Schrift zeigt jedoch auch: Falscher Gottesdienst ist nicht nur menschliche Verwirrung; oft steht geistliche Rebellion dahinter. Gefallene Engel, als „Fürstentümer und Gewalten“ beschrieben, versuchen, Gottes Wahrheit zu verdrehen, und Menschen in Götzendienst und Verderben zu ziehen.  
 Diese Einflüsse geben sich als Götter aus, fordern Opfer, verkehren Moral und widersetzen sich der Wahrheit.
 
 **Biblische Belege:**
 
-- **Römer 1,19–23**: Was von Gott erkennbar ist, ist offenbar; doch die Menschheit „tauschte die Herrlichkeit des unvergänglichen Gottes ein“ gegen Bilder.  
+- **Römer 1,19–23**: „Was man von Gott erkennen kann, ist ihnen offenbar, weil Gott es ihnen gezeigt hat… Seine unsichtbaren Eigenschaften, seine ewige Macht und sein göttliches Wesen, werden deutlich wahrgenommen… sodass sie keine Entschuldigung haben.“ Die Menschheit kannte Gott, „tauschte aber die Herrlichkeit des unvergänglichen Gottes ein gegen Bilder, die sterblichen Menschen, Vögeln, Tieren und kriechenden Geschöpfen gleichen“.  
   Religion beginnt häufig mit dem Erkennen des Göttlichen und driftet in Götzendienst.
 
-- **5. Mose 32,16–17**: „Sie opferten den Dämonen und nicht Gott.“  
+- **5. Mose 32,16–17**: „Sie reizten ihn zur Eifersucht durch fremde Götter… Sie opferten den Dämonen und nicht Gott.“  
   Viele heidnische Götter werden als dämonische Mächte identifiziert.
 
 - **Psalm 106,37–38**: „Sie opferten ihre Söhne und Töchter den Dämonen; sie vergossen unschuldiges Blut.“  
-  Falsche Religion kann in moralische Finsternis wie Kinderopfer abgleiten.
+  Falsche Religion kann in moralische und geistliche Finsternis abgleiten, einschließlich Kinderopfern.
 
-- **3. Mose 17,7**: „Sie sollen ihren Opfern nicht mehr den Bockgeistern opfern.“  
+- **3. Mose 17,7**: „Sie sollen ihre Opfer nicht mehr den Bockgeistern darbringen, denen sie nachhuren.“  
   Gott verbietet dämonische Einflüsse im Gewand von Göttern.
 
-- **1. Korinther 10,19–20**: „Was die Heiden opfern, das opfern sie Dämonen und nicht Gott.“  
+- **1. Korinther 10,19–20**: „Was will ich damit sagen? Dass Götzenopferfleisch etwas sei? Nein, sondern dass die Heiden das, was sie opfern, Dämonen opfern und nicht Gott.“  
   Götzendienst ist nicht neutral; geistliche Kräfte stehen dahinter.
 
-- **Epheser 6,12**: „Unser Kampf ist nicht gegen Fleisch und Blut, sondern gegen die Mächtigen… die Weltbeherrscher dieser Finsternis.“  
+- **Epheser 6,12**: „Unser Kampf ist nicht gegen Fleisch und Blut, sondern gegen die Mächtigen, gegen die Gewalten, gegen die Weltbeherrscher dieser Finsternis, gegen die geistlichen Mächte der Bosheit in den himmlischen Regionen.“  
   Religiöse Täuschung ist Teil eines größeren geistlichen Kampfes.
 
-- **Apostelgeschichte 17,26–27**: Gott hat alle Völker gemacht, „damit sie Gott suchen… und doch ist er einem jeden von uns nicht fern.“  
-  Jede Kultur trägt Echos der Wahrheit.
+- **Apostelgeschichte 17,26–27**: „Er hat aus einem Menschen alle Völker der Menschheit gemacht… damit sie Gott suchen und ihn vielleicht ertasten und finden; und doch ist er einem jeden von uns nicht fern.“  
+  Jede Kultur trägt Echos der Wahrheit, die auf den Schöpfer zurückweisen.
 
-- **Johannes 1,9**: Jesus ist „das wahre Licht, das jeden Menschen erleuchtet“.  
+- **Johannes 1,9**: Jesus ist „das wahre Licht, das jeden Menschen erleuchtet, der in die Welt kommt“.  
   Alle Teilwahrheiten finden in ihm Erfüllung.
 
 - **Johannes 14,6**: „Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater als nur durch mich.“  
   Wahrheit ist eins; Gottes Barmherzigkeit reicht zu allen.
 
-- **1. Timotheus 2,3–4**: Gott „will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen“.  
-  Vielfalt religiöser Vorstellungen zeigt menschliches Sehnen und Gottes Geduld.
+- **1. Timotheus 2,3–4**: „Gott, unser Retter… will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen“.  
+  Die Vielfalt religiöser Vorstellungen zeigt sowohl die menschliche Sehnsucht nach Gott als auch seine Geduld mit unserer Verwirrung.
 
 - **Römer 10,12–13**: „Es ist kein Unterschied zwischen Jude und Grieche… derselbe Herr ist Herr über alle und reich für alle, die ihn anrufen.“  
   Erlösung wird allen angeboten; die Wahrheit bleibt eine.
@@ -525,7 +525,7 @@ Wer sie annimmt, wird mit seiner Gerechtigkeit bekleidet; wer sie ablehnt, bleib
 
 **Biblische Belege:**
 
-- **Römer 3,23–26**: „Alle haben gesündigt… und werden umsonst gerechtfertigt durch seine Gnade… damit er selbst gerecht sei und zugleich den rechtfertige, der aus dem Glauben an Jesus ist.“  
+- **Römer 3,23–26**: „Alle haben gesündigt und verfehlen die Herrlichkeit Gottes… und werden umsonst gerechtfertigt durch seine Gnade, durch die Erlösung in Christus Jesus… damit er selbst gerecht sei und zugleich den rechtfertige, der aus dem Glauben an Jesus ist.“  
   Gottes Vergebung gründet in seiner Gerechtigkeit; nicht außerhalb von ihr.
 
 - **Hebräer 9,22**: „Ohne Blutvergießen geschieht keine Vergebung.“  
@@ -537,10 +537,10 @@ Wer sie annimmt, wird mit seiner Gerechtigkeit bekleidet; wer sie ablehnt, bleib
 - **1. Petrus 2,24**: „Er hat unsere Sünden selbst an seinem Leib auf das Holz hinaufgetragen, damit wir der Sünde abgestorben der Gerechtigkeit leben.“  
   Rettung vergibt und verwandelt.
 
-- **Epheser 2,8–9**: „Aus Gnade seid ihr gerettet durch den Glauben… Gottes Gabe; nicht aus Werken.“  
+- **Epheser 2,8–9**: „Denn aus Gnade seid ihr gerettet durch Glauben, und das nicht aus euch selbst; es ist Gottes Gabe, nicht aus Werken, damit niemand sich rühme.“  
   Gnade ist ein Geschenk; doch sie muss angenommen werden.
 
-- **Johannes 3,16–18**: „So sehr hat Gott die Welt geliebt… wer aber nicht glaubt, ist schon gerichtet.“  
+- **Johannes 3,16–18**: „So sehr hat Gott die Welt geliebt, dass er seinen einzigen Sohn gab, damit jeder, der an ihn glaubt, nicht verloren geht, sondern ewiges Leben hat… wer aber nicht glaubt, ist schon gerichtet.“  
   Wer Gnade verweigert, lässt die Schuld unbeglichen.
 
 - **2. Korinther 5,21**: „Den, der keine Sünde kannte, hat er für uns zur Sünde gemacht, damit wir Gottes Gerechtigkeit würden in ihm.“  

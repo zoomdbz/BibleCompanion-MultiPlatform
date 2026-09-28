@@ -1,6 +1,6 @@
 # La Segunda Venida y el arrebatamiento
 
-La esperanza cristiana se centra en el regreso de Jesucristo. Regresará con el cuerpo con el que dejó la tierra. Los muertos resucitarán. Los creyentes vivos serán transformados. El pueblo de Dios, ahora disperso, se reunirá con su Rey. El mal perderá la autoridad que ejerce por un tiempo, la muerte perderá su dominio y Cristo reinará.
+La esperanza cristiana se centra en el regreso de Jesucristo. Regresará con el cuerpo con el que dejó la tierra. Los muertos resucitarán. Los creyentes vivos serán transformados. El pueblo de Dios, ahora disperso, se reunirá con su Rey. El mal perderá su autoridad prestada, la muerte perderá su dominio y Cristo reinará.
 
 La Escritura declara con claridad ese núcleo de la esperanza. Los cristianos discrepan sobre el orden de los acontecimientos que lo rodean: la tribulación, la reunión de los creyentes, la ira divina, el juicio y el milenio. Este estudio comienza con lo que dicen los pasajes y después examina las conexiones propuestas entre ellos. Una imagen repetida puede mostrar el mismo acontecimiento desde otro ángulo, pero el parecido no elimina el contexto.
 
@@ -13,7 +13,7 @@ Otros pasajes muestran su alcance público:
 - Todos lo verán, incluso quienes lo traspasaron (Apocalipsis 1:7).
 - El Hijo del Hombre vendrá sobre las nubes con poder y gran gloria, y los pueblos de la tierra se lamentarán (Mateo 24:30).
 - El Señor Jesús se manifestará desde el cielo con sus poderosos ángeles y juzgará la maldad persistente (2 Tesalonicenses 1:7-10).
-- Aparecerá por segunda vez para salvar a quienes lo esperan (Hebreos 9:28).
+- Aparecerá por segunda vez para salvar a quienes lo esperan con anhelo (Hebreos 9:28).
 - Descenderá del cielo con una voz de mando, voz de arcángel y trompeta de Dios (1 Tesalonicenses 4:16).
 
 Ese lenguaje no describe un simple despertar interior. Tampoco sugiere algo oculto. La trompeta, la voz angelical, el lamento de los pueblos, la resurrección y el juicio corresponden a la manifestación de un Rey.
@@ -32,7 +32,7 @@ El orden de 1 Tesalonicenses 4:16-17 es el siguiente:
 4. Ambos grupos reciben al Señor en el aire.
 5. Permanecen con el Señor para siempre.
 
-El término arrebatamiento designa ese acto de ser llevados. La palabra rapto, que también se usa para nombrarlo, procede de la traducción latina del verbo griego *harpázō*, que significa tomar o arrebatar. El acontecimiento aparece en el texto, aunque una traducción no emplee un sustantivo específico para nombrarlo.
+El término arrebatamiento designa ese acto de ser llevados. La palabra inglesa *rapture* procede, a través de su traducción latina, del verbo griego *harpázō*, que significa tomar o arrebatar. El acontecimiento mismo aparece en el texto, aunque la palabra inglesa *rapture* no aparezca en él.
 
 Pablo presenta la misma esperanza desde la transformación corporal en 1 Corintios 15:50-57. Al sonar la última trompeta, los muertos resucitan incorruptibles y los creyentes vivos son transformados. La mortalidad se reviste de inmortalidad. La victoria no consiste en abandonar el cuerpo, sino en su redención. Romanos 8:18-25 afirma que la creación misma espera esa liberación, y Filipenses 3:20-21 enseña que Cristo transformará nuestro cuerpo humilde para hacerlo semejante a su cuerpo glorioso.
 
@@ -50,7 +50,7 @@ La expresión que describe salir al encuentro del Señor en 1 Tesalonicenses 4:1
 
 Por eso importa Juan 14:1-3. Jesús promete preparar un lugar y regresar para recibir a sus discípulos. Los intérpretes pretribulacionistas ven aquí un regreso a la casa del Padre. Los postribulacionistas destacan el propósito de que los discípulos estén donde está Jesús y lo relacionan con el Señor que desciende en 1 Tesalonicenses 4. Ambas lecturas deben reconocer lo que Juan 14 no aporta: el pasaje no presenta una secuencia de tribulación.
 
-## Pasajes que describen una misma venida
+## Una familia de textos sobre la venida
 
 Varios pasajes comparten un conjunto especialmente denso de rasgos.
 
@@ -132,7 +132,7 @@ Ezequiel 37 presenta dos señales unidas. La primera es un valle lleno de huesos
 
 ### Los huesos secos
 
-Los huesos representan al pueblo de Israel, que considera perdida su esperanza (Ezequiel 37:11). Dios abre las tumbas, levanta a su pueblo, pone su Espíritu en él, lo lleva a la tierra y le da vida (Ezequiel 37:12-14). En el contexto del exilio, la visión promete restauración nacional a un pueblo que se considera muerto.
+Los huesos representan a «toda la casa de Israel», que considera perdida su esperanza (Ezequiel 37:11). Dios abre las tumbas, levanta a su pueblo, pone su Espíritu en él, lo lleva a la tierra y le da vida (Ezequiel 37:12-14). En el contexto del exilio, la visión promete restauración nacional a un pueblo que se considera muerto.
 
 El lenguaje también alcanza más allá de la supervivencia política. Tumbas abiertas, cuerpos levantados, aliento divino y vida restaurada expresan plenamente la resurrección. Daniel 12:2 promete que quienes duermen en el polvo despertarán. Isaías 26:19 anuncia que los cuerpos se levantarán. El Nuevo Testamento sitúa después la resurrección corporal en la venida de Cristo (1 Corintios 15:22-23; 1 Tesalonicenses 4:16).
 
@@ -238,7 +238,7 @@ Su fortaleza es una venida final unificada y la atención a los ciclos de Apocal
 
 ## Una lectura coherente
 
-La siguiente síntesis explica bien los rasgos repetidos sin dar por resuelto cada detalle:
+La siguiente síntesis explica mejor los rasgos repetidos sin dar por resuelto cada detalle:
 
 1. La Iglesia experimenta persecución y la tribulación final; la tribulación no equivale a la condenación de Dios (Mateo 24:9-22; Apocalipsis 13:7-10).
 2. Las señales cósmicas anuncian el derrumbe del orden presente (Mateo 24:29; Apocalipsis 6:12-14).

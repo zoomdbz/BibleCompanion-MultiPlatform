@@ -458,4 +458,9 @@
     <string name="ui_color_violet">بنفسجي</string>
     <string name="ui_color_magenta">أرجواني</string>
     <string name="ui_color_rose">وردي</string>
+    <string name="ui_primary_color">الأساسي</string>
+    <string name="ui_secondary_color">الثانوي</string>
+    <string name="ui_tertiary_color">الثالث</string>
+    <string name="ui_custom_palette_hint">اختر كل لون بشكل مستقل، أو نسّق اللونين المكمّلين مع اللون الأساسي.</string>
+    <string name="ui_match_accent_colors">تنسيق اللونين مع الأساسي</string>
 </resources>
