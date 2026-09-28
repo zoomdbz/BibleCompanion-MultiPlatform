@@ -125,3 +125,16 @@ internal fun withExternalReaderRequestId(route: String, requestId: Long): String
     if (pathParts.size != 3 || pathParts[0] != "book") return route
     return "$route${if ('?' in route) '&' else '?'}requestId=$requestId"
 }
+
+/** Stable value stored after a one-shot reader route request has been handled. */
+internal fun readerRequestIdentity(requestId: Long?, vararg routeParts: Any?): String = buildString {
+    val values = arrayOf<Any?>(requestId, *routeParts)
+    values.forEach { value ->
+        if (value == null) {
+            append("null;")
+        } else {
+            val text = value.toString()
+            append(text.length).append(':').append(text).append(';')
+        }
+    }
+}

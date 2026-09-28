@@ -2064,26 +2064,33 @@ fun BookScreen(
     saver = LazyListState.Saver
   ) { LazyListState() }
 
-  // Route targets are navigation events, not standing scroll commands. These
-  // flags survive rotation so restored scroll state is not overwritten by the
-  // original story/verse or auto-TTS request.
-  var initialTargetConsumed by rememberSaveable(
+  // Route targets are navigation events, not standing scroll commands. Store
+  // the identity that was handled instead of a Boolean: a reused navigation
+  // entry can restore an old saveable value before changed inputs invalidate it.
+  val initialTargetIdentity = readerRequestIdentity(
+    initialRequestId,
     col,
     bookId,
     initialStoryId,
     initialSourceLanguage,
+    effectiveLanguage,
     initialSourceEdition,
     activeEditionId,
     initialVerse,
-    initialVerseEnd,
-    initialRequestId
-  ) { mutableStateOf(false) }
-  var autoStartTtsConsumed by rememberSaveable(
+    initialVerseEnd
+  )
+  var consumedInitialTargetIdentity by rememberSaveable(col, bookId) {
+    mutableStateOf<String?>(null)
+  }
+  val autoStartTtsIdentity = readerRequestIdentity(
+    initialRequestId,
     col,
     bookId,
-    autoStartTts,
-    initialRequestId
-  ) { mutableStateOf(false) }
+    autoStartTts
+  )
+  var consumedAutoStartTtsIdentity by rememberSaveable(col, bookId) {
+    mutableStateOf<String?>(null)
+  }
   // Kept before the progress observer so restoration cannot write a transient
   // chapter while a reflow is moving the semantic anchor back into place. This
   // is an in-flight coroutine marker, not durable reader state; restoring it
@@ -2106,6 +2113,19 @@ fun BookScreen(
   var viewportHeightPx by remember { mutableStateOf(0) }
   val readerLayoutKey = "${prefs.fontMode}/${prefs.textSizeScale}/${prefs.readingLineSpacing}/${prefs.versePerLine}"
   val layoutKeyChanged = lastReaderLayoutKey.isNotEmpty() && lastReaderLayoutKey != readerLayoutKey
+  val readerVisibleItemIndex by remember(listState) {
+    derivedStateOf {
+      val layoutInfo = listState.layoutInfo
+      firstReaderVisibleItemIndex(
+        items = layoutInfo.visibleItemsInfo.map { item ->
+          ReaderVisibleItemMeasurement(item.index, item.offset, item.size)
+        },
+        // LazyList can retain a preceding item solely inside negative content
+        // padding. It is not the chapter occupying the reading viewport.
+        viewportStartOffset = maxOf(0, layoutInfo.viewportStartOffset)
+      ) ?: listState.firstVisibleItemIndex
+    }
+  }
 
   fun requestViewportRestore() {
     if (viewportHasVisibleVerse && viewportAnchorStoryId != null) {
@@ -2228,9 +2248,14 @@ fun BookScreen(
     }
   }
 
-  LaunchedEffect(autoStartTts, book?.id, initialRequestId) {
-    if (autoStartTts && !autoStartTtsConsumed && book != null && book.stories.isNotEmpty()) {
-      autoStartTtsConsumed = true
+  LaunchedEffect(autoStartTtsIdentity, book?.id) {
+    if (
+      autoStartTts &&
+      consumedAutoStartTtsIdentity != autoStartTtsIdentity &&
+      book != null &&
+      book.stories.isNotEmpty()
+    ) {
+      consumedAutoStartTtsIdentity = autoStartTtsIdentity
       delay(400)
       chapterTtsStoryId = resolvedStoryId?.takeIf { target -> book.stories.any { it.id == target } }
         ?: firstReaderChapterId(book)
@@ -2366,17 +2391,17 @@ fun BookScreen(
   }
 
   LaunchedEffect(
-    resolvedStoryId,
-    initialVerse,
-    initialVerseEnd,
-    initialRequestId,
+    initialTargetIdentity,
     keepLoadedLinkedVerse,
-    activeEditionId,
     storyIndex,
     book
   ) {
-    if (!initialTargetConsumed && !resolvedStoryId.isNullOrBlank() && book != null) {
-      initialTargetConsumed = true
+    if (
+      consumedInitialTargetIdentity != initialTargetIdentity &&
+      !resolvedStoryId.isNullOrBlank() &&
+      book != null
+    ) {
+      consumedInitialTargetIdentity = initialTargetIdentity
       cancelViewportRestoreForNavigation()
       if (resolvedStoryId !in expandedStoryIds) {
         expandedStoryIds = expandedStoryIds + resolvedStoryId
@@ -2428,7 +2453,7 @@ fun BookScreen(
     val titlesMap = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage).toMap()
     val title = titlesMap[bookId] ?: book.title
     val introOffset = if (book.intro.isNotBlank()) 1 else 0
-    snapshotFlow { listState.firstVisibleItemIndex }
+    snapshotFlow { readerVisibleItemIndex }
       .distinctUntilChanged()
       .collectLatest { idx ->
         if (viewportRestoringRequestId != null) return@collectLatest
@@ -2473,7 +2498,7 @@ fun BookScreen(
   var showAppearance by rememberSaveable { mutableStateOf(false) }
   val visibleStoryIndex by remember(book, listState) {
     derivedStateOf {
-      (listState.firstVisibleItemIndex - if (book?.intro?.isNotBlank() == true) 1 else 0)
+      (readerVisibleItemIndex - if (book?.intro?.isNotBlank() == true) 1 else 0)
         .coerceAtMost(book?.stories?.lastIndex ?: -1)
     }
   }
@@ -2553,7 +2578,9 @@ fun BookScreen(
     viewportRestorePending,
     viewportAnchorStoryId,
     viewportAnchorBullet,
-    viewportHeightPx > 0,
+    lastReaderWidth,
+    viewportTopY,
+    viewportHeightPx,
     book
   ) {
     val storyId = viewportAnchorStoryId ?: return@LaunchedEffect
@@ -2561,36 +2588,34 @@ fun BookScreen(
     val item = storyIndex[storyId] ?: run { viewportRestorePending = false; return@LaunchedEffect }
     val requestId = viewportRestoreRequestId
     val key = "$storyId/$viewportAnchorBullet"
-    val fallbackItem = listState.firstVisibleItemIndex
-    val fallbackOffset = listState.firstVisibleItemScrollOffset
     viewportRestoringRequestId = requestId
     var restored = false
     var completed = false
     try {
-      // Move callbacks into the new generation before changing the list
-      // position. Advancing it after scrollToItem can miss the placement that
-      // supplies the target verse, then the timeout leaves the chapter at its
-      // first line.
+      // Establish a deterministic item origin before accepting coordinates for
+      // this transaction. If the generation advances first, a callback can
+      // publish the pre-rotation position under the new generation while
+      // scrollToItem is still moving the chapter.
+      listState.scrollToItem(item)
+      positionedVerseRoots.clear()
       val measurementEpoch = viewportMeasurementEpoch + 1
       viewportMeasurementEpoch = measurementEpoch
-      withFrameNanos { }
-      positionedVerseRoots.clear()
-
-      // storyIndex already includes the optional intro item.
-      listState.scrollToItem(item)
       val measurement = withTimeoutOrNull(2_000) {
         snapshotFlow { positionedVerseRoots[key] }
           .first { it?.generation == measurementEpoch }
       }
       if (measurement != null && viewportRestoreRequestId == requestId && viewportRestorePending) {
-        listState.scrollBy(measurement.rootY - (viewportTopY + viewportAnchorOffset))
+        listState.scrollBy(readerViewportScrollDelta(
+          measurementRootY = measurement.rootY,
+          viewportTopY = viewportTopY,
+          savedViewportOffset = viewportAnchorOffset
+        ))
         restored = true
-      } else if (viewportRestoreRequestId == requestId && viewportRestorePending) {
-        // A missing callback must not strand the reader at the chapter start.
-        // The restored LazyList position is less exact after reflow, but it is
-        // still a safe fallback and keeps the user's prior reading area.
-        listState.scrollToItem(fallbackItem, fallbackOffset)
       }
+      // On timeout, remain at the semantic chapter start. A raw item offset
+      // saved at another width is not a valid fallback: applying it after
+      // reflow can place the pixels in the next chapter while LazyList still
+      // reports the prior item as first visible.
       completed = true
     } finally {
       // A LaunchedEffect key change cancels the old transaction. Keep the

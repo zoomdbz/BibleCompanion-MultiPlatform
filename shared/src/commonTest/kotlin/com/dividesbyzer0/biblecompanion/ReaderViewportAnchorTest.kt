@@ -9,6 +9,46 @@ import kotlin.test.assertTrue
 class ReaderViewportAnchorTest {
 
   @Test
+  fun visibleItemSkipsPriorItemEndingAtViewportStart() {
+    val items = listOf(
+      ReaderVisibleItemMeasurement(index = 4, offset = -240, size = 240),
+      ReaderVisibleItemMeasurement(index = 5, offset = 24, size = 300)
+    )
+
+    assertEquals(5, firstReaderVisibleItemIndex(items, viewportStartOffset = 0))
+  }
+
+  @Test
+  fun visibleItemKeepsPriorItemWithActualPixelsInViewport() {
+    val items = listOf(
+      ReaderVisibleItemMeasurement(index = 4, offset = -240, size = 241),
+      ReaderVisibleItemMeasurement(index = 5, offset = 25, size = 300)
+    )
+
+    assertEquals(4, firstReaderVisibleItemIndex(items, viewportStartOffset = 0))
+  }
+
+  @Test
+  fun restoreDeltaPreservesTheSavedViewportRelativeOffset() {
+    assertEquals(
+      430f,
+      readerViewportScrollDelta(
+        measurementRootY = 600f,
+        viewportTopY = 120f,
+        savedViewportOffset = 50f
+      )
+    )
+    assertEquals(
+      -35f,
+      readerViewportScrollDelta(
+        measurementRootY = 75f,
+        viewportTopY = 100f,
+        savedViewportOffset = 10f
+      )
+    )
+  }
+
+  @Test
   fun selectsTheVerseIntersectingViewportTopBeforeLaterVerses() {
     assertTrue(
       isBetterReaderViewportAnchor(

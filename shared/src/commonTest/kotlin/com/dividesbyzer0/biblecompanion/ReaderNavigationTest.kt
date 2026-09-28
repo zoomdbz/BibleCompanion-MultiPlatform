@@ -2,6 +2,7 @@ package com.dividesbyzer0.biblecompanion
 
 import kotlin.test.Test
 import kotlin.test.assertEquals
+import kotlin.test.assertNotEquals
 
 class ReaderNavigationTest {
   @Test
@@ -86,5 +87,79 @@ class ReaderNavigationTest {
       withExternalReaderRequestId("book/new_testament/matthew", 7L)
     )
     assertEquals(Dest.SavedItems.route, withExternalReaderRequestId(Dest.SavedItems.route, 7L))
+  }
+
+  @Test
+  fun consumedReaderIdentitySurvivesRecreationButNotANewIdenticalRequest() {
+    val routeParts = arrayOf<Any?>(
+      "new_testament", "matthew", "matthew-28", "en", "en", "bsb", "bsb", 20, 20
+    )
+    val consumed = readerRequestIdentity(41L, *routeParts)
+
+    assertEquals(consumed, readerRequestIdentity(41L, *routeParts))
+    assertNotEquals(consumed, readerRequestIdentity(42L, *routeParts))
+  }
+
+  @Test
+  fun readerIdentitySeparatesEveryNavigationTargetDimension() {
+    fun identity(
+      collection: String = "new_testament",
+      book: String = "matthew",
+      story: String = "matthew-1",
+      sourceLanguage: String = "en",
+      effectiveLanguage: String = "en",
+      sourceEdition: String = "bsb",
+      activeEdition: String = "bsb",
+      verse: Int? = 1
+    ) = readerRequestIdentity(
+      null,
+      collection,
+      book,
+      story,
+      sourceLanguage,
+      effectiveLanguage,
+      sourceEdition,
+      activeEdition,
+      verse,
+      verse
+    )
+
+    val base = identity()
+    assertNotEquals(base, identity(collection = "old_testament"))
+    assertNotEquals(base, identity(book = "mark"))
+    assertNotEquals(base, identity(story = "matthew-2"))
+    assertNotEquals(base, identity(verse = 2))
+    assertNotEquals(base, identity(sourceLanguage = "de"))
+    assertNotEquals(base, identity(effectiveLanguage = "de"))
+    assertNotEquals(base, identity(sourceEdition = "kjv"))
+    assertNotEquals(base, identity(activeEdition = "kjv"))
+  }
+
+  @Test
+  fun internalContinueDoesNotMatchAnOlderExternalReaderRequest() {
+    val oldExternalMatthew = readerRequestIdentity(
+      41L, "new_testament", "matthew", "matthew-28", "en", "en", "bsb", "bsb", 20, 20
+    )
+    val internalContinueToMatthew = readerRequestIdentity(
+      null, "new_testament", "matthew", "matthew-1", "en", "en", "kjv", "kjv", null, null
+    )
+
+    assertNotEquals(oldExternalMatthew, internalContinueToMatthew)
+  }
+
+  @Test
+  fun readerIdentityEncodingSeparatesNullLiteralsAndDelimiterBoundaries() {
+    assertNotEquals(
+      readerRequestIdentity(null, null),
+      readerRequestIdentity(null, "null")
+    )
+    assertNotEquals(
+      readerRequestIdentity(null, "a", "bc"),
+      readerRequestIdentity(null, "ab", "c")
+    )
+    assertNotEquals(
+      readerRequestIdentity(null, "a;1:b"),
+      readerRequestIdentity(null, "a", "1:b")
+    )
   }
 }

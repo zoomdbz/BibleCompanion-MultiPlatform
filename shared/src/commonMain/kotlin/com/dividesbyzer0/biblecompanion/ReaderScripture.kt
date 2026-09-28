@@ -42,6 +42,25 @@ internal data class ReaderViewportMeasurement(
   val generation: Int
 )
 
+internal data class ReaderVisibleItemMeasurement(
+  val index: Int,
+  val offset: Int,
+  val size: Int
+)
+
+internal fun firstReaderVisibleItemIndex(
+  items: List<ReaderVisibleItemMeasurement>,
+  viewportStartOffset: Int
+): Int? = items.firstOrNull { item ->
+  item.size > 0 && item.offset.toLong() + item.size > viewportStartOffset
+}?.index
+
+internal fun readerViewportScrollDelta(
+  measurementRootY: Float,
+  viewportTopY: Float,
+  savedViewportOffset: Float
+): Float = measurementRootY - (viewportTopY + savedViewportOffset)
+
 internal fun selectReaderViewportAnchor(
   measurements: Map<String, ReaderViewportMeasurement>,
   generation: Int,
