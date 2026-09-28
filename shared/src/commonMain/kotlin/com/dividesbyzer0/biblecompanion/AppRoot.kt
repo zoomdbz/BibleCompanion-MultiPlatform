@@ -383,7 +383,9 @@ fun AppRoot(
       deepLinkNavConsumed = true
       when (val target = externalNavigationTarget(deepLinkRoute)) {
         ExternalNavigationTarget.FocusSearch -> focusHomeSearch()
-        is ExternalNavigationTarget.Navigate -> nav.navigate(target.route) { launchSingleTop = true }
+        is ExternalNavigationTarget.Navigate -> nav.navigate(
+          withExternalReaderRequestId(target.route, deepLinkEventId)
+        ) { launchSingleTop = true }
         null -> Unit
       }
     }
@@ -666,14 +668,15 @@ fun AppRoot(
           )
         }
         composable(
-          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}&sourceLang={sourceLang}&sourceEdition={sourceEdition}",
+          route = "book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}&sourceLang={sourceLang}&sourceEdition={sourceEdition}&requestId={requestId}",
           arguments = listOf(
             navArgument("storyId") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("verse") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("verseEnd") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("autoStartTts") { type = NavType.StringType; nullable = true; defaultValue = null },
             navArgument("sourceLang") { type = NavType.StringType; nullable = true; defaultValue = null },
-            navArgument("sourceEdition") { type = NavType.StringType; nullable = true; defaultValue = null }
+            navArgument("sourceEdition") { type = NavType.StringType; nullable = true; defaultValue = null },
+            navArgument("requestId") { type = NavType.StringType; nullable = true; defaultValue = null }
           )
         ) { back ->
           val col = back.arguments?.getString("col") ?: return@composable
@@ -685,6 +688,7 @@ fun AppRoot(
           val autoStartTtsArg = back.arguments?.getString("autoStartTts") == "true"
           val sourceLangArg = back.arguments?.getString("sourceLang")
           val sourceEditionArg = back.arguments?.getString("sourceEdition")
+          val requestIdArg = back.arguments?.getString("requestId")?.toLongOrNull()
           val readerPrefs = prefs.copy(internalBibleVersion = BibleEditions.forNavigation(
             prefs.appLanguage, prefs.internalBibleVersion, sourceLangArg, sourceEditionArg
           ))
@@ -715,6 +719,7 @@ fun AppRoot(
             initialSourceEdition = sourceEditionArg,
             initialVerse = verseArg.takeIf { keepLinkedVerse },
             initialVerseEnd = verseEndArg.takeIf { keepLinkedVerse },
+            initialRequestId = requestIdArg,
             linkedEditionUnavailable = linkedEditionUnavailable,
             autoStartTts = autoStartTtsArg,
             onChooseBook = { nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
@@ -1976,6 +1981,7 @@ fun BookScreen(
   initialSourceEdition: String? = null,
   initialVerse: Int? = null,
   initialVerseEnd: Int? = null,
+  initialRequestId: Long? = null,
   linkedEditionUnavailable: Boolean = false,
   autoStartTts: Boolean = false,
   onChooseBook: () -> Unit = {},
@@ -2069,12 +2075,14 @@ fun BookScreen(
     initialSourceEdition,
     activeEditionId,
     initialVerse,
-    initialVerseEnd
+    initialVerseEnd,
+    initialRequestId
   ) { mutableStateOf(false) }
   var autoStartTtsConsumed by rememberSaveable(
     col,
     bookId,
-    autoStartTts
+    autoStartTts,
+    initialRequestId
   ) { mutableStateOf(false) }
   // Kept before the progress observer so restoration cannot write a transient
   // chapter while a reflow is moving the semantic anchor back into place. This
@@ -2220,7 +2228,7 @@ fun BookScreen(
     }
   }
 
-  LaunchedEffect(autoStartTts, book?.id) {
+  LaunchedEffect(autoStartTts, book?.id, initialRequestId) {
     if (autoStartTts && !autoStartTtsConsumed && book != null && book.stories.isNotEmpty()) {
       autoStartTtsConsumed = true
       delay(400)
@@ -2357,7 +2365,16 @@ fun BookScreen(
     }
   }
 
-  LaunchedEffect(resolvedStoryId, initialVerse, initialVerseEnd, keepLoadedLinkedVerse, activeEditionId, storyIndex, book) {
+  LaunchedEffect(
+    resolvedStoryId,
+    initialVerse,
+    initialVerseEnd,
+    initialRequestId,
+    keepLoadedLinkedVerse,
+    activeEditionId,
+    storyIndex,
+    book
+  ) {
     if (!initialTargetConsumed && !resolvedStoryId.isNullOrBlank() && book != null) {
       initialTargetConsumed = true
       cancelViewportRestoreForNavigation()

@@ -73,6 +73,7 @@ class ExternalNavigationTest {
       "book/new_testament/matthew?verse=4&verseEnd=3",
       "book/new_testament/matthew?verseEnd=4",
       "book/new_testament/matthew?sourceLang=en&sourceLang=de",
+      "book/new_testament/matthew?requestId=7",
       "book/new_testament/matthew?storyId=bad value",
       "book/new_testament/matthew?storyId=bad%2"
     ).forEach { route -> assertNull(externalNavigationTarget(route), route) }

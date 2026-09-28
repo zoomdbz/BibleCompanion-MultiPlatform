@@ -90,7 +90,7 @@ sealed class Dest(val route: String) {
         companion object { fun route(col: String) = "books/${encPath(col)}" }
     }
     data class BookView(val col: String, val bookId: String) :
-        Dest("book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}&sourceLang={sourceLang}&sourceEdition={sourceEdition}") {
+        Dest("book/{col}/{bookId}?storyId={storyId}&verse={verse}&verseEnd={verseEnd}&autoStartTts={autoStartTts}&sourceLang={sourceLang}&sourceEdition={sourceEdition}&requestId={requestId}") {
         companion object {
             fun route(
                 col: String,
@@ -100,7 +100,8 @@ sealed class Dest(val route: String) {
                 verseEnd: Int? = null,
                 autoStartTts: Boolean = false,
                 sourceLang: String? = null,
-                sourceEdition: String? = null
+                sourceEdition: String? = null,
+                requestId: Long? = null
             ): String {
                 val base = "book/${encPath(col)}/${encPath(bookId)}"
                 val params = buildList {
@@ -110,9 +111,17 @@ sealed class Dest(val route: String) {
                     if (autoStartTts) add("autoStartTts=true")
                     if (!sourceLang.isNullOrBlank()) add("sourceLang=${encPath(sourceLang)}")
                     if (!sourceEdition.isNullOrBlank()) add("sourceEdition=${encPath(sourceEdition)}")
+                    if (requestId != null) add("requestId=$requestId")
                 }
                 return if (params.isEmpty()) base else "$base?${params.joinToString("&")}"
             }
         }
     }
+}
+
+/** Adds an internal event identity after a caller-controlled route has passed validation. */
+internal fun withExternalReaderRequestId(route: String, requestId: Long): String {
+    val pathParts = route.substringBefore('?').split('/')
+    if (pathParts.size != 3 || pathParts[0] != "book") return route
+    return "$route${if ('?' in route) '&' else '?'}requestId=$requestId"
 }

@@ -63,4 +63,28 @@ class ReaderNavigationTest {
     assertEquals(3, resume.chapter)
     assertEquals(3, resume.chapterCount)
   }
+
+  @Test
+  fun externalReaderRequestIdentityDistinguishesRepeatedIdenticalLinks() {
+    val route = Dest.BookView.route(
+      "new_testament",
+      "matthew",
+      "matthew-28",
+      verse = 20,
+      sourceLang = "en",
+      sourceEdition = "bsb"
+    )
+
+    assertEquals("$route&requestId=41", withExternalReaderRequestId(route, 41L))
+    assertEquals("$route&requestId=42", withExternalReaderRequestId(route, 42L))
+  }
+
+  @Test
+  fun externalRequestIdentityOnlyChangesReaderRoutes() {
+    assertEquals(
+      "book/new_testament/matthew?requestId=7",
+      withExternalReaderRequestId("book/new_testament/matthew", 7L)
+    )
+    assertEquals(Dest.SavedItems.route, withExternalReaderRequestId(Dest.SavedItems.route, 7L))
+  }
 }
