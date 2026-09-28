@@ -21,9 +21,39 @@ internal class NotesSelectionClipboard(
 internal class NotesSelectionToolbar(
   private val delegate: TextToolbar,
   private val onVisibilityChanged: (Boolean) -> Unit,
-  private val onSelectWholeNote: () -> Unit
+  private val onSelectWholeNote: () -> Unit,
+  private val platformFinishesActionCallback: Boolean = false
 ) : TextToolbar {
-  override val status: TextToolbarStatus get() = delegate.status
+  private var actionCallbackDepth = 0
+  private var actionFinishedToolbar = false
+
+  override val status: TextToolbarStatus
+    get() = if (platformFinishesActionCallback && actionFinishedToolbar) {
+      TextToolbarStatus.Hidden
+    } else {
+      delegate.status
+    }
+
+  private fun guardAction(action: (() -> Unit)?): (() -> Unit)? {
+    if (!platformFinishesActionCallback || action == null) return action
+    return {
+      actionCallbackDepth++
+      var completedNormally = false
+      try {
+        action()
+        completedNormally = true
+      } finally {
+        actionCallbackDepth--
+        if (actionCallbackDepth == 0) {
+          actionFinishedToolbar = true
+          onVisibilityChanged(false)
+          // AndroidX finishes the ActionMode immediately after a successful callback.
+          // If the callback throws, that platform finish is skipped, so close it here.
+          if (!completedNormally) delegate.hide()
+        }
+      }
+    }
+  }
 
   override fun showMenu(
     rect: Rect,
@@ -32,20 +62,36 @@ internal class NotesSelectionToolbar(
     onCutRequested: (() -> Unit)?,
     onSelectAllRequested: (() -> Unit)?
   ) {
+    actionFinishedToolbar = false
     delegate.showMenu(
       rect = rect,
-      onCopyRequested = onCopyRequested,
-      onPasteRequested = onPasteRequested,
-      onCutRequested = onCutRequested,
+      onCopyRequested = guardAction(onCopyRequested),
+      onPasteRequested = guardAction(onPasteRequested),
+      onCutRequested = guardAction(onCutRequested),
       // A section's SelectionContainer cannot select collapsed/offscreen text.
       // Use the complete-note dialog for the native Select all action too.
-      onSelectAllRequested = onSelectWholeNote
+      onSelectAllRequested = if (platformFinishesActionCallback) {
+        guardAction(onSelectWholeNote)
+      } else {
+        {
+          try {
+            onSelectWholeNote()
+          } finally {
+            // UIKit does not finish this action for us. Release its edit menu
+            // and temporary first responder before the full-note dialog takes over.
+            hide()
+          }
+        }
+      }
     )
     onVisibilityChanged(onCopyRequested != null)
   }
 
   override fun hide() {
-    delegate.hide()
+    actionFinishedToolbar = true
+    // AndroidX calls ActionMode.finish() after its action callback returns. Calling the
+    // delegate from inside that callback destroys the same floating mode twice on Android.
+    if (!platformFinishesActionCallback || actionCallbackDepth == 0) delegate.hide()
     onVisibilityChanged(false)
   }
 }

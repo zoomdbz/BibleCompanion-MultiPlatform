@@ -141,3 +141,44 @@ internal fun readerRequestIdentity(requestId: Long?, vararg routeParts: Any?): S
 
 internal fun followingInternalReaderRequestId(issuedRequestId: Long): Long =
     if (issuedRequestId == Long.MIN_VALUE) -1L else issuedRequestId - 1L
+
+/**
+ * Identifies the reader state that may be restored after leaving it for Home.
+ * Include the current reader preference as well as the stored passage: changing
+ * language or edition while Home is visible must use the normal route fallback.
+ */
+internal fun readingNowRestoreIdentity(
+    collection: String?,
+    bookId: String?,
+    storyId: String?,
+    sourceLanguage: String?,
+    sourceEdition: String?,
+    currentLanguage: String,
+    currentEdition: String
+): String? {
+    if (collection == null || bookId == null) return null
+    return readerRequestIdentity(
+        null,
+        collection,
+        bookId,
+        storyId,
+        sourceLanguage,
+        sourceEdition,
+        currentLanguage,
+        currentEdition
+    )
+}
+
+/** A restored Read graph is useful only when its leaf is the expected reader. */
+internal fun restoredReadingNowReaderMatches(
+    destinationRoute: String?,
+    restoredCollection: String?,
+    restoredBookId: String?,
+    expectedCollection: String,
+    expectedBookId: String
+): Boolean = destinationRoute?.startsWith("book/") == true &&
+    restoredCollection == expectedCollection && restoredBookId == expectedBookId
+
+/** Explicit Read/library or passage navigation supersedes a saved reader viewport. */
+internal fun invalidatesSavedReadingNowState(route: String): Boolean =
+    route == "tab_read" || route == Dest.Read.route || route.startsWith("book/")

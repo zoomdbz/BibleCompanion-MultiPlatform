@@ -1024,7 +1024,8 @@ object ScriptureRefs {
     referenceEditionId: String? = null,
     referenceLanguage: String? = null,
     readerOptions: ReaderTextOptions? = null,
-    selectionCompatible: Boolean = false
+    selectionCompatible: Boolean = false,
+    linkColor: Color? = null
   ) {
     Internal(
       rawText = text,
@@ -1040,7 +1041,8 @@ object ScriptureRefs {
       referenceEditionId = referenceEditionId,
       referenceLanguage = referenceLanguage,
       readerOptions = readerOptions,
-      selectionCompatible = selectionCompatible
+      selectionCompatible = selectionCompatible,
+      linkColor = linkColor
     )
   }
 
@@ -1052,7 +1054,8 @@ object ScriptureRefs {
     inlineMarkdown: Boolean = false,
     textStyle: TextStyle = MaterialTheme.typography.bodyMedium,
     referenceEditionId: String? = null,
-    selectionCompatible: Boolean = false
+    selectionCompatible: Boolean = false,
+    linkColor: Color? = null
   ) {
     Internal(
       rawText = text,
@@ -1064,7 +1067,8 @@ object ScriptureRefs {
       textStyle = textStyle,
       collection = "old_testament",
       referenceEditionId = referenceEditionId,
-      selectionCompatible = selectionCompatible
+      selectionCompatible = selectionCompatible,
+      linkColor = linkColor
     )
   }
 
@@ -1083,7 +1087,8 @@ object ScriptureRefs {
     referenceEditionId: String? = null,
     referenceLanguage: String? = null,
     readerOptions: ReaderTextOptions? = null,
-    selectionCompatible: Boolean = false
+    selectionCompatible: Boolean = false,
+    linkColor: Color? = null
   ) {
     val defaultEntry: BookEntry? = books.firstOrNull {
       it.canon.equals(defaultBook, ignoreCase = true) || assetBookId(it) == defaultBook
@@ -1091,7 +1096,7 @@ object ScriptureRefs {
     val ctx = LocalPlatformContext.current
     val linkStyle = SpanStyle(
       textDecoration = TextDecoration.Underline,
-      color = MaterialTheme.colorScheme.primary
+      color = linkColor ?: MaterialTheme.colorScheme.primary
     )
     val jesusColor = jesusColorFromPrefs(prefs)
     val dnColor = divineNameColorFromPrefs(prefs)

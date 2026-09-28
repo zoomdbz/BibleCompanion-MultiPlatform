@@ -299,17 +299,51 @@ fun AppRoot(
     val tabRoutes = listOf(Dest.Home.route, "tab_read", "tab_study", "tab_calendar")
     val currentTab = currentEntry?.destination?.hierarchy
       ?.firstOrNull { it.route in tabRoutes }?.route
+    var savedReadingNowIdentity by rememberSaveable { mutableStateOf<String?>(null) }
+    var savedReadingNowRestoreRoute by rememberSaveable { mutableStateOf<String?>(null) }
+    val currentReadingNowIdentity = readingNowRestoreIdentity(
+      collection = prefs.lastReadCollection,
+      bookId = prefs.lastReadBookId,
+      storyId = prefs.lastReadStoryId,
+      sourceLanguage = prefs.lastReadSourceLanguage,
+      sourceEdition = prefs.lastReadSourceEdition,
+      currentLanguage = LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+      currentEdition = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
+    )
+    fun expireSavedReadingNowState() {
+      savedReadingNowIdentity = null
+      savedReadingNowRestoreRoute = null
+      // Navigation 2.8.0-alpha10 keeps the first saved state for a destination
+      // ID. Clear the Read graph so an older reader cannot block a newer snapshot.
+      // A reader popped to Home is also indexed by its parent Read graph, while
+      // Study and Calendar states use their own graph IDs and remain untouched.
+      nav.clearBackStack("tab_read")
+    }
     val selectTab: (String) -> Unit = { route ->
       when {
         route == "tab_read" && currentEntry?.destination?.route != Dest.Read.route -> {
           // The Read tab opens the library hub. Continue Reading is the
           // explicit action for returning to a passage, including on reselect.
+          // This new hub replaces any reader state previously saved for the
+          // Read graph, so it must not be offered to Reading Now as a reader.
+          expireSavedReadingNowState()
           nav.navigate(Dest.Read.route) {
-            popUpTo(Dest.Home.route) { saveState = true }
+            // Do not immediately save the reader we just invalidated. Preserve
+            // other tab stacks when the caller came from Study or Calendar.
+            popUpTo(Dest.Home.route) { saveState = currentTab != "tab_read" }
             launchSingleTop = true
           }
         }
         currentTab != route -> {
+          if (currentTab == "tab_read") {
+            val leavingReader = currentEntry?.destination?.route?.startsWith("book/") == true
+            savedReadingNowIdentity = currentReadingNowIdentity.takeIf { leavingReader }
+            // popBackStack(Home, saveState=true) associates this snapshot with
+            // Home. A normal tab switch associates it with the Read graph.
+            savedReadingNowRestoreRoute = if (leavingReader) {
+              if (route == Dest.Home.route) Dest.Home.route else "tab_read"
+            } else null
+          }
           if (route == Dest.Home.route) {
             // Home is the root entry, not a saved tab graph. Restoring its state
             // can resurrect the reader stack that was saved above it.
@@ -328,9 +362,52 @@ fun AppRoot(
       val col = prefs.lastReadCollection
       val bookId = prefs.lastReadBookId
       if (col != null && bookId != null) {
-        nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId,
-          sourceLang = prefs.lastReadSourceLanguage ?: "en",
-          sourceEdition = prefs.lastReadSourceEdition)) { launchSingleTop = true }
+        val expectedIdentity = readingNowRestoreIdentity(
+          collection = col,
+          bookId = bookId,
+          storyId = prefs.lastReadStoryId,
+          sourceLanguage = prefs.lastReadSourceLanguage,
+          sourceEdition = prefs.lastReadSourceEdition,
+          currentLanguage = LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+          currentEdition = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
+        )
+        var restoredReader = false
+        val restoreRoute = savedReadingNowRestoreRoute
+        if (
+          savedReadingNowIdentity != null &&
+          savedReadingNowIdentity == expectedIdentity &&
+          restoreRoute != null
+        ) {
+          // Home saves the Read graph. Restoring it retains BookScreen's
+          // saveable LazyList and semantic viewport anchor for this session.
+          // Consume our marker before navigating; a later Home visit records
+          // a fresh snapshot. If Navigation cannot restore the saved graph,
+          // the destination check below takes the durable chapter fallback.
+          savedReadingNowIdentity = null
+          savedReadingNowRestoreRoute = null
+          nav.navigate(restoreRoute) {
+            launchSingleTop = true
+            restoreState = true
+          }
+          val restored = nav.currentBackStackEntry
+          restoredReader = restoredReadingNowReaderMatches(
+            destinationRoute = restored?.destination?.route,
+            restoredCollection = restored?.arguments?.getString("col"),
+            restoredBookId = restored?.arguments?.getString("bookId"),
+            expectedCollection = col,
+            expectedBookId = bookId
+          )
+        }
+        if (!restoredReader) {
+          // A failed restore can leave a saved Read alias behind. Expire it
+          // before creating the durable chapter-level fallback reader.
+          expireSavedReadingNowState()
+          // Cold start, changed language/edition, or an unrelated saved Read
+          // destination: retain the established chapter-level resume route.
+          nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId,
+            sourceLang = prefs.lastReadSourceLanguage ?: "en",
+            sourceEdition = prefs.lastReadSourceEdition)) { launchSingleTop = true }
+        }
       }
     }
     val navBack: () -> Unit = {
@@ -372,15 +449,7 @@ fun AppRoot(
         "search" -> focusHomeSearch()
         "bookmarks" -> nav.navigate(Dest.SavedItems.route) { launchSingleTop = true }
         "feast_calendar" -> nav.navigate(Dest.FeastCalendar.route) { launchSingleTop = true }
-        "continue" -> {
-          val col = prefs.lastReadCollection
-          val bookId = prefs.lastReadBookId
-          if (col != null && bookId != null) {
-            nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId,
-              sourceLang = prefs.lastReadSourceLanguage ?: "en",
-              sourceEdition = prefs.lastReadSourceEdition)) { launchSingleTop = true }
-          }
-        }
+        "continue" -> continueReading()
       }
     }
 
@@ -392,20 +461,25 @@ fun AppRoot(
       deepLinkNavConsumed = true
       when (val target = externalNavigationTarget(deepLinkRoute)) {
         ExternalNavigationTarget.FocusSearch -> focusHomeSearch()
-        is ExternalNavigationTarget.Navigate -> nav.navigate(
-          withExternalReaderRequestId(target.route, deepLinkEventId)
-        ) { launchSingleTop = true }
+        is ExternalNavigationTarget.Navigate -> {
+          if (invalidatesSavedReadingNowState(target.route)) expireSavedReadingNowState()
+          nav.navigate(withExternalReaderRequestId(target.route, deepLinkEventId)) {
+            launchSingleTop = true
+          }
+        }
         null -> Unit
       }
     }
 
     val internalNavigate: (String, String, String?, Int?, Int?) -> Unit = { col, bookId, storyId, verse, verseEnd ->
+      expireSavedReadingNowState()
       nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd,
         sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage),
         requestId = freshInternalReaderRequestId())) { launchSingleTop = true }
     }
 
     val editionNavigate: (EditionDestination) -> Unit = { target ->
+      expireSavedReadingNowState()
       nav.navigate(Dest.BookView.route(
         target.collection, target.bookId, target.storyId, target.verse, target.verseEnd,
         sourceLang = target.language, sourceEdition = target.editionId,
@@ -443,12 +517,17 @@ fun AppRoot(
             repo = repo,
             onOpen = { col -> nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
             onOpenBook = { col, bookId, storyId, verse, verseEnd ->
+              expireSavedReadingNowState()
               nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd,
                 sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage),
                 requestId = if (storyId != null || verse != null) freshInternalReaderRequestId() else null
               )) { launchSingleTop = true }
             },
-            onNavigateRoute = { route -> nav.navigate(route) { launchSingleTop = true } },
+            onNavigateRoute = { route ->
+              if (invalidatesSavedReadingNowState(route)) expireSavedReadingNowState()
+              nav.navigate(route) { launchSingleTop = true }
+            },
+            onContinueReading = continueReading,
             onSettings = { nav.navigate(Dest.Settings.route) { launchSingleTop = true } },
             onBibleChronology = { nav.navigate(Dest.BibleChronology.route) { launchSingleTop = true } },
             onGenealogy = { nav.navigate(Dest.Genealogy.route) { launchSingleTop = true } },
@@ -492,11 +571,13 @@ fun AppRoot(
             repo = repo,
             onBack = { navBack() },
             onOpenBook = { col, bookId, storyId ->
+              expireSavedReadingNowState()
               nav.navigate(Dest.BookView.route(
                 col, bookId, storyId, requestId = freshInternalReaderRequestId()
               )) { launchSingleTop = true }
             },
             onOpenSavedVerse = { saved ->
+              expireSavedReadingNowState()
               val sameLanguage = saved.scriptureLanguage() == LocaleUtils.effectiveAssetTag(prefs.appLanguage)
               val anchor = saved.stableAnchor().takeIf { sameLanguage }
               nav.navigate(Dest.BookView.route(
@@ -589,6 +670,7 @@ fun AppRoot(
                 internalBibleVersion = prefs.internalBibleVersion
               )
               val storyId = selectedBook?.let { chronologyOpeningStoryId(it, openingChapter) }
+              expireSavedReadingNowState()
               nav.navigate(Dest.BookView.route(
                 collection, bookId, storyId, requestId = freshInternalReaderRequestId()
               )) {
@@ -681,6 +763,7 @@ fun AppRoot(
             internalBibleVersion = prefs.internalBibleVersion,
             onBack = { navBack() },
             onOpenBook = { bookId ->
+              expireSavedReadingNowState()
               nav.navigate(Dest.BookView.route(col, bookId)) { launchSingleTop = true }
             }
           )
@@ -933,6 +1016,7 @@ fun HomeScreen(
   onOpen: (String) -> Unit,
   onOpenBook: (String, String, String?, Int?, Int?) -> Unit,
   onNavigateRoute: (String) -> Unit,
+  onContinueReading: () -> Unit,
   onSettings: () -> Unit,
   onBibleChronology: () -> Unit,
   onGenealogy: () -> Unit,
@@ -1409,7 +1493,8 @@ fun HomeScreen(
               modifier = Modifier.padding(top = 4.dp),
               textStyle = MaterialTheme.typography.labelSmall.copy(
                 color = votdOnContainer.copy(alpha = 0.7f)
-              )
+              ),
+              linkColor = votdOnContainer
             )
             if (votd.editionId != null &&
               votd.editionId != BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)) {
@@ -1434,11 +1519,7 @@ fun HomeScreen(
           item("continue") {
           ReadingNowCard(lastBook = lastBook, resume = readingResume) {
             if (!navBusy) safeNav {
-              onNavigateRoute(Dest.BookView.route(
-                lastCol, lastBook, prefs.lastReadStoryId,
-                sourceLang = prefs.lastReadSourceLanguage ?: "en",
-                sourceEdition = prefs.lastReadSourceEdition
-              ))
+              onContinueReading()
             }
           }
           }
@@ -5978,7 +6059,114 @@ private fun splitMarkdownSections(body: String, headingPrefix: String = "## "): 
   return sections.map { it.first to it.second.toString() }
 }
 
-internal fun genericNotesPlainText(body: String): String = markdownToPlainText(body)
+internal fun genericNotesPlainText(
+  body: String,
+  divineName: String,
+  appLanguage: String,
+  divineNameColorActive: Boolean
+): String {
+  fun transform(text: String): String = applyDivineName(
+    text = text,
+    mode = divineName,
+    lang = appLanguage,
+    colorActive = divineNameColorActive,
+    collection = "old_testament"
+  )
+
+  fun isDisplayHeading(line: String): Boolean =
+    line.startsWith("# ") ||
+      line.startsWith("## ") ||
+      line.startsWith("### ") ||
+      line.startsWith("#### ")
+
+  // H5/H6 and indented hash-prefixed lines render as body text. Protect their
+  // literal hashes from markdownToPlainText's broader heading cleanup.
+  val literalHash = '\uFDEF'
+  fun protectLiteralHeading(text: String): String = text.lines().joinToString("\n") { line ->
+    val hashCount = line.takeWhile { it == '#' }.length
+    if (hashCount in 1..6 && line.getOrNull(hashCount)?.isWhitespace() == true) {
+      literalHash.toString().repeat(hashCount) + line.substring(hashCount)
+    } else {
+      line
+    }
+  }
+
+  val lines = stripMarkdownHtmlComments(body).replace("\r\n", "\n").split('\n')
+  val displayBlocks = mutableListOf<String>()
+  val tableSeparator = Regex("""^\|\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$""")
+  var i = 0
+  while (i < lines.size) {
+    val raw = lines[i]
+    when {
+      isDisplayHeading(raw) || raw.trim() == "---" -> {
+        displayBlocks += raw
+        i++
+      }
+      raw.trimStart().startsWith(">") -> {
+        val quoteLines = mutableListOf<String>()
+        var j = i
+        while (j < lines.size && lines[j].trimStart().startsWith(">")) {
+          quoteLines += lines[j].trimStart().removePrefix(">").removePrefix(" ")
+          j++
+        }
+        displayBlocks += transform(quoteLines.joinToString("\n"))
+          .lines().joinToString("\n") { "> $it" }
+        i = j
+      }
+      raw.trimStart().startsWith("- ") -> {
+        val indent = raw.takeWhile { it.isWhitespace() }
+        val content = raw.trimStart().removePrefix("- ").trim()
+        displayBlocks += "$indent- ${transform(content)}"
+        i++
+      }
+      raw.trimStart().matches(Regex("""\d+[.)]\s+.*""")) -> {
+        val indent = raw.takeWhile { it.isWhitespace() }
+        displayBlocks += indent + transform(raw.trimStart().trim())
+        i++
+      }
+      raw.trimStart().startsWith("|") && raw.contains("|") -> {
+        var j = i
+        while (j < lines.size && lines[j].trim().startsWith("|") && lines[j].contains("|")) {
+          val tableLine = lines[j]
+          displayBlocks += if (tableSeparator.matches(tableLine.trim())) {
+            tableLine
+          } else {
+            tableLine.split('|').joinToString("|") { cell -> transform(cell) }
+          }
+          j++
+        }
+        i = j
+      }
+      raw.isNotBlank() -> {
+        val paragraph = StringBuilder()
+        var j = i
+        while (
+          j < lines.size &&
+          lines[j].isNotBlank() &&
+          lines[j].trim() != "---" &&
+          (j == i || !isDisplayHeading(lines[j]))
+        ) {
+          if (paragraph.isNotEmpty()) {
+            val previous = lines[j - 1]
+            if (previous.length >= 2 && previous.endsWith("  ")) paragraph.append('\n')
+            else paragraph.append(' ')
+          }
+          paragraph.append(lines[j].trim())
+          j++
+        }
+        displayBlocks += protectLiteralHeading(transform(paragraph.toString()))
+        i = j
+      }
+      else -> {
+        displayBlocks += ""
+        i++
+      }
+    }
+  }
+
+  return markdownToPlainText(displayBlocks.joinToString("\n"))
+    .replace(literalHash, '#')
+}
 
 @Composable
 private fun FullNoteSelectionDialog(
@@ -6060,7 +6248,14 @@ private fun GenericNotesScreen(
   }
 
   val titleText = stringResource(titleRes)
-  val fullNoteText = remember(body) { genericNotesPlainText(body) }
+  val fullNoteText = remember(body, prefs.divineName, prefs.divineNameColor, notesLanguage) {
+    genericNotesPlainText(
+      body = body,
+      divineName = prefs.divineName,
+      appLanguage = notesLanguage,
+      divineNameColorActive = prefs.divineNameColor != "default"
+    )
+  }
   val sections = remember(body, headingPrefix) { splitMarkdownSections(body, headingPrefix) }
   val sectionHeaders = remember(sections) { sections.mapNotNull { it.first } }
   val showToc = toc && !collapsible && sectionHeaders.size >= 8
@@ -6086,10 +6281,9 @@ private fun GenericNotesScreen(
   val nativeClipboard = androidx.compose.ui.platform.LocalClipboardManager.current
   val notesFocusManager = androidx.compose.ui.platform.LocalFocusManager.current
 
-  fun clearNoteSelection() {
+  fun resetNoteSelectionState() {
     showDismissButton = false
     selectionResetKey++
-    nativeTextToolbar.hide()
     notesFocusManager.clearFocus()
   }
 
@@ -6098,10 +6292,15 @@ private fun GenericNotesScreen(
       delegate = nativeTextToolbar,
       onVisibilityChanged = { showDismissButton = it },
       onSelectWholeNote = {
-        clearNoteSelection()
+        resetNoteSelectionState()
         showFullSelection = true
-      }
+      },
+      platformFinishesActionCallback = !isApplePlatform
     )
+  }
+  fun clearNoteSelection() {
+    resetNoteSelectionState()
+    noteToolbar.hide()
   }
   val noteClipboard = remember(notesKey, nativeClipboard, nativeTextToolbar, notesFocusManager) {
     NotesSelectionClipboard(nativeClipboard) { clearNoteSelection() }

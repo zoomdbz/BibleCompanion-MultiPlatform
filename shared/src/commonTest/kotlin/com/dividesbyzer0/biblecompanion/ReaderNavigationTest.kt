@@ -203,4 +203,73 @@ class ReaderNavigationTest {
     )
     assertEquals(-2L, followingInternalReaderRequestId(-1L))
   }
+
+  @Test
+  fun readingNowRestoreIdentityRejectsChangedPassageLanguageOrEdition() {
+    fun identity(
+      story: String = "matthew-14",
+      language: String = "en",
+      edition: String = "kjv1769"
+    ) = readingNowRestoreIdentity(
+      collection = "new_testament",
+      bookId = "matthew",
+      storyId = story,
+      sourceLanguage = "en",
+      sourceEdition = "kjv1769",
+      currentLanguage = language,
+      currentEdition = edition
+    )
+
+    val saved = identity()
+    assertEquals(saved, identity())
+    assertNotEquals(saved, identity(story = "matthew-15"))
+    assertNotEquals(saved, identity(language = "de"))
+    assertNotEquals(saved, identity(edition = "bsb"))
+    assertEquals(
+      null,
+      readingNowRestoreIdentity(null, "matthew", null, null, null, "en", "bsb")
+    )
+  }
+
+  @Test
+  fun readingNowAcceptsOnlyTheExpectedRestoredReaderLeaf() {
+    val readerRoute = Dest.BookView("new_testament", "matthew").route
+
+    assertEquals(
+      true,
+      restoredReadingNowReaderMatches(
+        readerRoute, "new_testament", "matthew", "new_testament", "matthew"
+      )
+    )
+    assertEquals(
+      false,
+      restoredReadingNowReaderMatches(
+        Dest.Read.route, null, null, "new_testament", "matthew"
+      )
+    )
+    assertEquals(
+      false,
+      restoredReadingNowReaderMatches(
+        readerRoute, "new_testament", "mark", "new_testament", "matthew"
+      )
+    )
+  }
+
+  @Test
+  fun explicitReadNavigationExpiresSavedViewportButOtherTabsDoNot() {
+    val firstRequest = Dest.BookView.route(
+      "new_testament", "matthew", "matthew-14", verse = 22, requestId = 41L
+    )
+    val newerSameChapterRequest = Dest.BookView.route(
+      "new_testament", "matthew", "matthew-14", verse = 27, requestId = 42L
+    )
+
+    assertEquals(true, invalidatesSavedReadingNowState(firstRequest))
+    assertEquals(true, invalidatesSavedReadingNowState(newerSameChapterRequest))
+    assertEquals(true, invalidatesSavedReadingNowState(Dest.Read.route))
+    assertEquals(true, invalidatesSavedReadingNowState("tab_read"))
+    assertEquals(false, invalidatesSavedReadingNowState(Dest.Home.route))
+    assertEquals(false, invalidatesSavedReadingNowState("tab_study"))
+    assertEquals(false, invalidatesSavedReadingNowState("tab_calendar"))
+  }
 }
