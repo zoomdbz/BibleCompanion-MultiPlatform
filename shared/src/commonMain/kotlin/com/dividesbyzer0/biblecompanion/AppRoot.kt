@@ -321,6 +321,18 @@ fun AppRoot(
     }
     val selectTab: (String) -> Unit = { route ->
       when {
+        shouldReturnToStudyRoot(route, currentTab, currentEntry?.destination?.route) -> {
+          // Reselecting Study leaves its note/detail screen. Discard an older
+          // saved Study stack so a later tab switch cannot reopen that note.
+          nav.clearBackStack("tab_study")
+          if (!nav.popBackStack(Dest.Study.route, inclusive = false)) {
+            // Home/search can open a Study child without visiting the hub first.
+            nav.navigate(Dest.Study.route) {
+              popUpTo("tab_study") { inclusive = false }
+              launchSingleTop = true
+            }
+          }
+        }
         route == "tab_read" && currentEntry?.destination?.route != Dest.Read.route -> {
           // The Read tab opens the library hub. Continue Reading is the
           // explicit action for returning to a passage, including on reselect.

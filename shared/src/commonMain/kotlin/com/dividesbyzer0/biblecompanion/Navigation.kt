@@ -182,3 +182,11 @@ internal fun restoredReadingNowReaderMatches(
 /** Explicit Read/library or passage navigation supersedes a saved reader viewport. */
 internal fun invalidatesSavedReadingNowState(route: String): Boolean =
     route == "tab_read" || route == Dest.Read.route || route.startsWith("book/")
+
+/** Study reselection returns to its hub; switching tabs keeps normal save/restore. */
+internal fun shouldReturnToStudyRoot(
+    selectedTab: String,
+    currentTab: String?,
+    currentDestination: String?
+): Boolean = selectedTab == "tab_study" && currentTab == "tab_study" &&
+    currentDestination != null && currentDestination != Dest.Study.route
