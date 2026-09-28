@@ -44,6 +44,7 @@ import androidx.compose.ui.input.key.KeyEventType
 import androidx.compose.ui.input.key.key
 import androidx.compose.ui.input.key.onKeyEvent
 import androidx.compose.ui.input.key.type
+import androidx.compose.ui.layout.LayoutCoordinates
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.positionInRoot
 import androidx.compose.ui.semantics.CustomAccessibilityAction
@@ -1456,11 +1457,13 @@ object ScriptureRefs {
     // a new AnnotatedString while leaving glyph geometry unchanged. Key layout
     // state to visible text so those redraws cannot discard scroll coordinates.
     var textLayoutResult by remember(asText.text) { mutableStateOf<TextLayoutResult?>(null) }
-    var textRootY by remember(asText.text) { mutableStateOf(0f) }
+    var textCoordinates by remember(asText.text) { mutableStateOf<LayoutCoordinates?>(null) }
 
     fun publishReaderVersePositions() {
       val layout = textLayoutResult ?: return
+      val coordinates = textCoordinates?.takeIf { it.isAttached } ?: return
       val callback = readerOptions?.onVersePositioned ?: return
+      val textRootY = coordinates.positionInRoot().y
       asText.getStringAnnotations("READER_VERSE", 0, asText.length).forEach { annotation ->
         val verseIndex = annotation.item.toIntOrNull() ?: return@forEach
         val safeOffset = annotation.start.coerceIn(0, (asText.length - 1).coerceAtLeast(0))
@@ -1735,7 +1738,7 @@ object ScriptureRefs {
         }
       )
       .onGloballyPositioned { coordinates ->
-        textRootY = coordinates.positionInRoot().y
+        textCoordinates = coordinates
         publishReaderVersePositions()
     }
     val readerLongClick = readerOptions?.onVerseLongClick

@@ -338,6 +338,15 @@ fun AppRoot(
         popUpTo(Dest.Home.route) { inclusive = true }
       }
     }
+    // Explicit passage targets must remain events even when launchSingleTop
+    // reuses a reader entry holding the same route and saveable state. Negative
+    // ids keep this stream disjoint from platform-supplied external event ids.
+    var nextInternalReaderRequestId by rememberSaveable { mutableStateOf(-1L) }
+    val freshInternalReaderRequestId: () -> Long = {
+      val requestId = nextInternalReaderRequestId
+      nextInternalReaderRequestId = followingInternalReaderRequestId(requestId)
+      requestId
+    }
 
     var pendingSearchFocus by remember { mutableStateOf(false) }
     val focusHomeSearch: () -> Unit = {
@@ -392,13 +401,15 @@ fun AppRoot(
 
     val internalNavigate: (String, String, String?, Int?, Int?) -> Unit = { col, bookId, storyId, verse, verseEnd ->
       nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd,
-        sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage))) { launchSingleTop = true }
+        sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+        requestId = freshInternalReaderRequestId())) { launchSingleTop = true }
     }
 
     val editionNavigate: (EditionDestination) -> Unit = { target ->
       nav.navigate(Dest.BookView.route(
         target.collection, target.bookId, target.storyId, target.verse, target.verseEnd,
-        sourceLang = target.language, sourceEdition = target.editionId
+        sourceLang = target.language, sourceEdition = target.editionId,
+        requestId = freshInternalReaderRequestId()
       )) { launchSingleTop = true }
     }
     androidx.compose.runtime.CompositionLocalProvider(
@@ -433,7 +444,9 @@ fun AppRoot(
             onOpen = { col -> nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
             onOpenBook = { col, bookId, storyId, verse, verseEnd ->
               nav.navigate(Dest.BookView.route(col, bookId, storyId, verse, verseEnd,
-                sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage))) { launchSingleTop = true }
+                sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+                requestId = if (storyId != null || verse != null) freshInternalReaderRequestId() else null
+              )) { launchSingleTop = true }
             },
             onNavigateRoute = { route -> nav.navigate(route) { launchSingleTop = true } },
             onSettings = { nav.navigate(Dest.Settings.route) { launchSingleTop = true } },
@@ -479,7 +492,9 @@ fun AppRoot(
             repo = repo,
             onBack = { navBack() },
             onOpenBook = { col, bookId, storyId ->
-              nav.navigate(Dest.BookView.route(col, bookId, storyId)) { launchSingleTop = true }
+              nav.navigate(Dest.BookView.route(
+                col, bookId, storyId, requestId = freshInternalReaderRequestId()
+              )) { launchSingleTop = true }
             },
             onOpenSavedVerse = { saved ->
               val sameLanguage = saved.scriptureLanguage() == LocaleUtils.effectiveAssetTag(prefs.appLanguage)
@@ -487,7 +502,8 @@ fun AppRoot(
               nav.navigate(Dest.BookView.route(
                 saved.collection, saved.bookId, saved.storyId,
                 verse = anchor?.verseStart, verseEnd = anchor?.verseEnd,
-                sourceLang = saved.scriptureLanguage(), sourceEdition = saved.scriptureEdition()
+                sourceLang = saved.scriptureLanguage(), sourceEdition = saved.scriptureEdition(),
+                requestId = freshInternalReaderRequestId()
               )) { launchSingleTop = true }
             }
           )
@@ -573,7 +589,9 @@ fun AppRoot(
                 internalBibleVersion = prefs.internalBibleVersion
               )
               val storyId = selectedBook?.let { chronologyOpeningStoryId(it, openingChapter) }
-              nav.navigate(Dest.BookView.route(collection, bookId, storyId)) {
+              nav.navigate(Dest.BookView.route(
+                collection, bookId, storyId, requestId = freshInternalReaderRequestId()
+              )) {
                 launchSingleTop = true
               }
             }
@@ -702,7 +720,8 @@ fun AppRoot(
             nav.navigate(Dest.BookView.route(
               nextCol, nextBook, nextStory, nextVerse, nextEnd,
               sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
-              sourceEdition = readerPrefs.internalBibleVersion
+              sourceEdition = readerPrefs.internalBibleVersion,
+              requestId = freshInternalReaderRequestId()
             )) { launchSingleTop = true }
           }
           // launchSingleTop can replace a book's route arguments in the same
@@ -736,7 +755,8 @@ fun AppRoot(
                 storyId = nextLoadedBook?.book?.let(::firstReaderChapterId),
                 autoStartTts = startTts,
                 sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
-                sourceEdition = nextLoadedBook?.effectiveEdition ?: readerPrefs.internalBibleVersion
+                sourceEdition = nextLoadedBook?.effectiveEdition ?: readerPrefs.internalBibleVersion,
+                requestId = freshInternalReaderRequestId()
               )) {
                 launchSingleTop = true
               }
@@ -1969,14 +1989,6 @@ private data class ReaderViewportLayoutSnapshot(
   val viewportHeightPx: Int
 )
 
-// TEMPORARY diagnostic switch. Remove after the rotation trace identifies the
-// state transition that moves a restored semantic anchor into another chapter.
-private const val READER_VIEWPORT_DEBUG = true
-
-private fun readerViewportDebug(message: String) {
-  if (READER_VIEWPORT_DEBUG) println("BC_VIEWPORT $message")
-}
-
 @OptIn(ExperimentalMaterial3Api::class, androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
 fun BookScreen(
@@ -2139,12 +2151,6 @@ fun BookScreen(
     if (viewportHasVisibleVerse && viewportAnchorStoryId != null) {
       viewportRestoreRequestId += 1
       viewportRestorePending = true
-      readerViewportDebug(
-        "request id=$viewportRestoreRequestId anchor=$viewportAnchorStoryId/$viewportAnchorBullet " +
-          "savedOffset=$viewportAnchorOffset width=$lastReaderWidth top=$viewportTopY " +
-          "height=$viewportHeightPx list=${listState.firstVisibleItemIndex}:" +
-          listState.firstVisibleItemScrollOffset
-      )
     }
   }
 
@@ -2161,11 +2167,26 @@ fun BookScreen(
   }
 
   fun refreshViewportAnchorFromMeasurements(epoch: Int) {
+    val layoutInfo = listState.layoutInfo
+    val visibleItems = layoutInfo.visibleItemsInfo.map { item ->
+      ReaderVisibleItemMeasurement(item.index, item.offset, item.size)
+    }
+    val visibleStoryIds = storyIndex.entries.mapNotNull { (storyId, itemIndex) ->
+      storyId.takeIf {
+        isReaderItemVisible(
+          itemIndex = itemIndex,
+          items = visibleItems,
+          viewportStartOffset = maxOf(0, layoutInfo.viewportStartOffset),
+          viewportEndOffset = layoutInfo.viewportEndOffset
+        )
+      }
+    }.toSet()
     val candidate = selectReaderViewportAnchor(
       measurements = positionedVerseRoots,
       generation = epoch,
       viewportTopY = viewportTopY,
-      viewportBottomY = viewportTopY + viewportHeightPx
+      viewportBottomY = viewportTopY + viewportHeightPx,
+      visibleStoryIds = visibleStoryIds
     )
     if (candidate == null) {
       viewportHasVisibleVerse = false
@@ -2182,12 +2203,6 @@ fun BookScreen(
     viewportAnchorStoryId = key.substring(0, separator)
     viewportAnchorBullet = bullet
     viewportAnchorOffset = measurement.rootY - viewportTopY
-    readerViewportDebug(
-      "capture epoch=$epoch anchor=$viewportAnchorStoryId/$viewportAnchorBullet " +
-        "root=${measurement.rootY}..${measurement.rootBottomY} savedOffset=$viewportAnchorOffset " +
-        "width=$lastReaderWidth top=$viewportTopY height=$viewportHeightPx " +
-        "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
-    )
   }
 
   // Tab switching and rotation retain the reader's open study sections.
@@ -2609,11 +2624,6 @@ fun BookScreen(
     val requestId = viewportRestoreRequestId
     val key = "$storyId/$viewportAnchorBullet"
     viewportRestoringRequestId = requestId
-    readerViewportDebug(
-      "restore-start id=$requestId target=$key savedOffset=$viewportAnchorOffset " +
-        "width=$lastReaderWidth top=$viewportTopY height=$viewportHeightPx " +
-        "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
-    )
     var restored = false
     var completed = false
     try {
@@ -2622,10 +2632,6 @@ fun BookScreen(
       // publish the pre-rotation position under the new generation while
       // scrollToItem is still moving the chapter.
       listState.scrollToItem(item)
-      readerViewportDebug(
-        "restore-origin id=$requestId item=$item " +
-          "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
-      )
       positionedVerseRoots.clear()
       val measurementEpoch = viewportMeasurementEpoch + 1
       viewportMeasurementEpoch = measurementEpoch
@@ -2639,24 +2645,8 @@ fun BookScreen(
           viewportTopY = viewportTopY,
           savedViewportOffset = viewportAnchorOffset
         )
-        readerViewportDebug(
-          "restore-measure id=$requestId epoch=$measurementEpoch target=$key " +
-            "root=${measurement.rootY}..${measurement.rootBottomY} delta=$requestedDelta " +
-            "top=$viewportTopY list=${listState.firstVisibleItemIndex}:" +
-            listState.firstVisibleItemScrollOffset
-        )
-        val consumedDelta = listState.scrollBy(requestedDelta)
-        readerViewportDebug(
-          "restore-scroll id=$requestId requested=$requestedDelta consumed=$consumedDelta " +
-            "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
-        )
+        listState.scrollBy(requestedDelta)
         restored = true
-      } else {
-        readerViewportDebug(
-          "restore-no-measure id=$requestId epoch=$measurementEpoch target=$key " +
-            "currentRequest=$viewportRestoreRequestId pending=$viewportRestorePending " +
-            "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
-        )
       }
       // On timeout, remain at the semantic chapter start. A raw item offset
       // saved at another width is not a valid fallback: applying it after
@@ -2673,11 +2663,6 @@ fun BookScreen(
       if (viewportRestoringRequestId == requestId) {
         viewportRestoringRequestId = null
       }
-      readerViewportDebug(
-        "restore-final id=$requestId completed=$completed restored=$restored " +
-          "currentRequest=$viewportRestoreRequestId pending=$viewportRestorePending " +
-          "list=${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
-      )
     }
   }
   fun openReaderStory(sid: String, verse: Int? = null) {
@@ -2932,27 +2917,13 @@ fun BookScreen(
                 .onSizeChanged { size ->
                   val width = size.width
                   if (lastReaderWidth != 0 && lastReaderWidth != width) {
-                    readerViewportDebug(
-                      "width old=$lastReaderWidth new=$width anchor=" +
-                        "$viewportAnchorStoryId/$viewportAnchorBullet list=" +
-                        "${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
-                    )
                     requestViewportRestore()
                   }
                   lastReaderWidth = width
                 }
                 .onGloballyPositioned { coords ->
-                  val newTop = coords.positionInRoot().y
-                  val newHeight = coords.size.height
-                  if (viewportTopY != newTop || viewportHeightPx != newHeight) {
-                    readerViewportDebug(
-                      "viewport old=$viewportTopY/$viewportHeightPx new=$newTop/$newHeight " +
-                        "width=$lastReaderWidth list=${listState.firstVisibleItemIndex}:" +
-                        listState.firstVisibleItemScrollOffset
-                    )
-                  }
-                  viewportTopY = newTop
-                  viewportHeightPx = newHeight
+                  viewportTopY = coords.positionInRoot().y
+                  viewportHeightPx = coords.size.height
                 }
             ) {
               if (book?.intro?.isNotBlank() == true) {
@@ -3001,20 +2972,24 @@ fun BookScreen(
                   viewportHeightPx = viewportHeightPx,
                   measurementEpoch = viewportMeasurementEpoch,
                   onVersePositioned = { storyId, bulletIndex, _, rootY, rootBottomY, epoch ->
-                    positionedVerseRoots["$storyId/$bulletIndex"] = ReaderViewportMeasurement(
-                      rootY = rootY,
-                      rootBottomY = rootBottomY,
-                      generation = epoch
-                    )
+                    val layoutInfo = listState.layoutInfo
+                    val visibleItems = layoutInfo.visibleItemsInfo.map { item ->
+                      ReaderVisibleItemMeasurement(item.index, item.offset, item.size)
+                    }
+                    val storyItemIndex = storyIndex[storyId]
                     if (
-                      viewportRestorePending &&
-                      storyId == viewportAnchorStoryId &&
-                      bulletIndex == viewportAnchorBullet
+                      storyItemIndex != null &&
+                      isReaderItemVisible(
+                        itemIndex = storyItemIndex,
+                        items = visibleItems,
+                        viewportStartOffset = maxOf(0, layoutInfo.viewportStartOffset),
+                        viewportEndOffset = layoutInfo.viewportEndOffset
+                      )
                     ) {
-                      readerViewportDebug(
-                        "publish epoch=$epoch target=$storyId/$bulletIndex root=$rootY..$rootBottomY " +
-                          "expectedEpoch=$viewportMeasurementEpoch list=" +
-                          "${listState.firstVisibleItemIndex}:${listState.firstVisibleItemScrollOffset}"
+                      positionedVerseRoots["$storyId/$bulletIndex"] = ReaderViewportMeasurement(
+                        rootY = rootY,
+                        rootBottomY = rootBottomY,
+                        generation = epoch
                       )
                     }
                   },

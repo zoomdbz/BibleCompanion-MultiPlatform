@@ -138,3 +138,6 @@ internal fun readerRequestIdentity(requestId: Long?, vararg routeParts: Any?): S
         }
     }
 }
+
+internal fun followingInternalReaderRequestId(issuedRequestId: Long): Long =
+    if (issuedRequestId == Long.MIN_VALUE) -1L else issuedRequestId - 1L

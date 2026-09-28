@@ -29,6 +29,27 @@ class ReaderViewportAnchorTest {
   }
 
   @Test
+  fun prefetchedNextChapterCannotReplaceGenuineVisibleAnchor() {
+    val measurements = linkedMapOf(
+      "mark-1/8" to ReaderViewportMeasurement(-31f, 143f, generation = 5),
+      // Exact false candidate from the device trace. Its text had not received
+      // real LayoutCoordinates, so the old default root placed it at zero.
+      "mark-2/13" to ReaderViewportMeasurement(0f, 174f, generation = 5)
+    )
+
+    assertEquals(
+      "mark-1/8",
+      selectReaderViewportAnchor(
+        measurements = measurements,
+        generation = 5,
+        viewportTopY = 98f,
+        viewportBottomY = 950f,
+        visibleStoryIds = setOf("mark-1")
+      )?.first
+    )
+  }
+
+  @Test
   fun restoreDeltaPreservesTheSavedViewportRelativeOffset() {
     assertEquals(
       430f,

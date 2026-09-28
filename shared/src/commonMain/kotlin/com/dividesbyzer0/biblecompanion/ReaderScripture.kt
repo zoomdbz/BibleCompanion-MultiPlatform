@@ -55,6 +55,18 @@ internal fun firstReaderVisibleItemIndex(
   item.size > 0 && item.offset.toLong() + item.size > viewportStartOffset
 }?.index
 
+internal fun isReaderItemVisible(
+  itemIndex: Int,
+  items: List<ReaderVisibleItemMeasurement>,
+  viewportStartOffset: Int,
+  viewportEndOffset: Int
+): Boolean = items.any { item ->
+  item.index == itemIndex &&
+    item.size > 0 &&
+    item.offset.toLong() + item.size > viewportStartOffset &&
+    item.offset < viewportEndOffset
+}
+
 internal fun readerViewportScrollDelta(
   measurementRootY: Float,
   viewportTopY: Float,
@@ -65,11 +77,14 @@ internal fun selectReaderViewportAnchor(
   measurements: Map<String, ReaderViewportMeasurement>,
   generation: Int,
   viewportTopY: Float,
-  viewportBottomY: Float
+  viewportBottomY: Float,
+  visibleStoryIds: Set<String>? = null
 ): Pair<String, ReaderViewportMeasurement>? {
   var best: Pair<String, ReaderViewportMeasurement>? = null
   measurements.forEach { (key, measurement) ->
     if (measurement.generation != generation) return@forEach
+    val storyId = key.substringBeforeLast('/', missingDelimiterValue = "")
+    if (visibleStoryIds != null && storyId !in visibleStoryIds) return@forEach
     val current = best?.second
     if (isBetterReaderViewportAnchor(
         rootY = measurement.rootY,
@@ -332,14 +347,7 @@ internal fun ReaderScripture(
         val verseInViewport = rootY - viewportTopState.value
         val targetInViewport = viewportHeightState.value * 0.22f
         val delta = verseInViewport - targetInViewport
-        if (kotlin.math.abs(delta) > 2f) {
-          println(
-            "BC_VIEWPORT gold-scroll story=${story.id} bullet=$firstGoldIndex " +
-              "epoch=$measurementEpoch root=$rootY top=${viewportTopState.value} " +
-              "height=${viewportHeightState.value} delta=$delta"
-          )
-          runCatching { listState.scrollBy(delta) }
-        }
+        if (kotlin.math.abs(delta) > 2f) runCatching { listState.scrollBy(delta) }
       }
     }
 

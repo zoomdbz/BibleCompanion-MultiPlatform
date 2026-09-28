@@ -136,12 +136,12 @@ class ReaderNavigationTest {
   }
 
   @Test
-  fun internalContinueDoesNotMatchAnOlderExternalReaderRequest() {
+  fun freshInternalContinueDoesNotMatchAnOlderExternalReaderRequest() {
     val oldExternalMatthew = readerRequestIdentity(
       41L, "new_testament", "matthew", "matthew-28", "en", "en", "bsb", "bsb", 20, 20
     )
     val internalContinueToMatthew = readerRequestIdentity(
-      null, "new_testament", "matthew", "matthew-1", "en", "en", "kjv", "kjv", null, null
+      -1L, "new_testament", "matthew", "matthew-1", "en", "en", "kjv", "kjv", null, null
     )
 
     assertNotEquals(oldExternalMatthew, internalContinueToMatthew)
@@ -161,5 +161,46 @@ class ReaderNavigationTest {
       readerRequestIdentity(null, "a;1:b"),
       readerRequestIdentity(null, "a", "1:b")
     )
+  }
+
+  @Test
+  fun internalTargetStampPreservesLanguageAndEdition() {
+    assertEquals(
+      "book/new_testament/matthew?storyId=matthew-1&verse=1&sourceLang=en&sourceEdition=kjv&requestId=-7",
+      Dest.BookView.route(
+        col = "new_testament",
+        bookId = "matthew",
+        storyId = "matthew-1",
+        verse = 1,
+        sourceLang = "en",
+        sourceEdition = "kjv",
+        requestId = -7L
+      )
+    )
+    assertEquals(
+      "book/new_testament/matthew?storyId=matthew-1&verse=1&sourceLang=en&sourceEdition=bsb&requestId=-8",
+      Dest.BookView.route(
+        col = "new_testament",
+        bookId = "matthew",
+        storyId = "matthew-1",
+        verse = 1,
+        sourceLang = "en",
+        sourceEdition = "bsb",
+        requestId = -8L
+      )
+    )
+  }
+
+  @Test
+  fun repeatedInternalTargetStampsProduceDistinctConsumedIdentities() {
+    val targetParts = arrayOf<Any?>(
+      "new_testament", "mark", "mark-1", "en", "en", "kjv", "kjv", null, null
+    )
+
+    assertNotEquals(
+      readerRequestIdentity(-1L, *targetParts),
+      readerRequestIdentity(-2L, *targetParts)
+    )
+    assertEquals(-2L, followingInternalReaderRequestId(-1L))
   }
 }
