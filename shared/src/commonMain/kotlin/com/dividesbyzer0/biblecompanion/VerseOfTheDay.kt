@@ -51,13 +51,21 @@ object VerseOfTheDay {
   ): DailyVerse {
     val tag = LocaleUtils.effectiveAssetTag(appLang)
 
-    val feasts = loadFeasts(context, tag)
-    val feastOverride = checkFeastOverride(year, month, day, feasts)
-    if (feastOverride != null) {
-      return resolveInternalEdition(context, tag, internalBibleVersion, feastOverride)
+    val selected = selectCalendarVerse(year, month, day, loadFeasts(context, tag)) {
+      loadDaily(context, tag)
     }
+    return resolveInternalEdition(context, tag, internalBibleVersion, selected)
+  }
 
-    val daily = loadDaily(context, tag)
+  internal fun selectCalendarVerse(
+    year: Int,
+    month: Int,
+    day: Int,
+    feasts: FeastVersesFile,
+    dailyBank: () -> DailyVersesFile
+  ): DailyVerse {
+    checkFeastOverride(year, month, day, feasts)?.let { return it }
+    val daily = dailyBank()
     if (daily.verses.isEmpty()) return DailyVerse("", "")
 
     val dayOfYear = dayOfYear(year, month, day)
@@ -66,12 +74,7 @@ object VerseOfTheDay {
     val size = daily.verses.size
     val index = ((dayOfYear - 1) % size + size) % size
     val entry = daily.verses[index]
-    return resolveInternalEdition(
-      context,
-      tag,
-      internalBibleVersion,
-      DailyVerse(entry.text, entry.ref)
-    )
+    return DailyVerse(entry.text, entry.ref)
   }
 
   /**
@@ -171,6 +174,10 @@ object VerseOfTheDay {
     val hebrewFeasts = HebrewCalendar.hebrewFeastsForYear(hDate.year)
     for ((feastJdn, marker) in hebrewFeasts) {
       if (feastJdn == jdn) {
+        // A feast has one configured verse. Use it once on the opening day,
+        // then resume the dated daily bank without shifting its calendar.
+        // Continue checking so an overlapping feast can use its own verse.
+        if (marker.totalDays > 1 && marker.dayOfFeast != 1) continue
         val v = feasts.feastVerses[marker.id] ?: continue
         return DailyVerse(v.text, v.ref, isFeastOverride = true)
       }

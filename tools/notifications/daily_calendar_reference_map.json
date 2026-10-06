@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 1,
+  "calendarSource": "shared/assets/daily_verses/en/daily.json",
+  "calendarSha256": "a02497209b8f3ceea530aa9961335f5dd77aaa00d7e3f8dbee0c5e55a61ab764",
+  "calendarHashNormalization": "Canonical JSON with sorted keys, compact separators, and unescaped UTF-8",
+  "provenance": {
+    "verifiedOn": "2026-10-06",
+    "ruEditionId": "nrt_nrp",
+    "jaEditionId": "jcb",
+    "numberingSourceUrl": "https://raw.githubusercontent.com/crosswire/jsword/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/src/main/resources/org/crosswire/jsword/versification/Synodal.properties",
+    "numberingSourceSha256": "76385bbd47834482c651e509e898d704cf27b5d4037ecff26ec7baf45f1edba6",
+    "numberingSourceLicense": "LGPL-2.1-or-later",
+    "textHashNormalization": "NFC plus whitespace collapse; app display tags excluded. Whole native verse units only.",
+    "versePagePunctuationPolicy": "Four Russian verse pages omit the chapter text's final comma, semicolon, or dash. Preserve existing book punctuation; list each exact suffix explicitly."
+  },
+  "ru": [
+    {
+      "canonicalRef": "Psalms 27:4",
+      "nativeRef": "Psalms 26:4",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.26.4.NRT",
+      "sourceTextSha256": "910f86cc8ef9eca7436d2689d6050dfab9e0c7841f6da4477ca6ec1b9969a5aa",
+      "localTextSha256": "910f86cc8ef9eca7436d2689d6050dfab9e0c7841f6da4477ca6ec1b9969a5aa",
+      "numberingRule": "Ps.26.2-Ps.26.14=Ps.27.2-Ps.27.14"
+    },
+    {
+      "canonicalRef": "Psalms 103:2",
+      "nativeRef": "Psalms 102:2",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.102.2.NRT",
+      "sourceTextSha256": "162e3040109122f5eb9d2a77d0c7a42fffcb8366ed5bcddd52b2aeb0feb116ee",
+      "localTextSha256": "f7d212f60fe6fb0900cbd9b125f89261bf3de2b69cd37a096ef2c084635380b2",
+      "numberingRule": "Ps.102.2-Ps.102.22=Ps.103.2-Ps.103.22",
+      "versePageOmittedSuffix": " \u2014"
+    },
+    {
+      "canonicalRef": "Psalms 133:1",
+      "nativeRef": "Psalms 132:1",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.132.1.NRT",
+      "sourceTextSha256": "913d3d045878ca6ae94a93978a08925d7067934336f6563013fbac255e709b79",
+      "localTextSha256": "913d3d045878ca6ae94a93978a08925d7067934336f6563013fbac255e709b79",
+      "numberingRule": "Ps.132.1=Ps.133.0-Ps.133.1"
+    },
+    {
+      "canonicalRef": "Psalms 8:3",
+      "nativeRef": "Psalms 8:4",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.8.4.NRT",
+      "sourceTextSha256": "0e95ffd4319ce5aa16d388ea17dd90f39e4dd12d8d908fbb6a81556b3792f7dc",
+      "localTextSha256": "55f37c9d3b75da66e521c770393cf361f136af90318bab55e42f4b74799153b2",
+      "numberingRule": "Ps.8.1-Ps.8.10=Ps.8.0-Ps.8.9",
+      "versePageOmittedSuffix": ","
+    },
+    {
+      "canonicalRef": "Psalms 143:10",
+      "nativeRef": "Psalms 142:10",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.142.10.NRT",
+      "sourceTextSha256": "eb7302308927810e3c6d9eb5b7ee5998bb3fa98bb0a14bfc53afd68e33eba2fb",
+      "localTextSha256": "eb7302308927810e3c6d9eb5b7ee5998bb3fa98bb0a14bfc53afd68e33eba2fb",
+      "numberingRule": "Ps.142.2-Ps.142.12=Ps.143.2-Ps.143.12"
+    },
+    {
+      "canonicalRef": "Psalms 23:4",
+      "nativeRef": "Psalms 22:4",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.22.4.NRT",
+      "sourceTextSha256": "5eb4eb2e3d287fd5425956cf32d6d596c4710f8319ad3311e4827f74c3dd3c12",
+      "localTextSha256": "5eb4eb2e3d287fd5425956cf32d6d596c4710f8319ad3311e4827f74c3dd3c12",
+      "numberingRule": "Ps.22.2-Ps.22.6=Ps.23.2-Ps.23.6"
+    },
+    {
+      "canonicalRef": "Psalms 94:19",
+      "nativeRef": "Psalms 93:19",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.93.19.NRT",
+      "sourceTextSha256": "57c86b2eb29b7e43eeb704665feafeda39677923a1c3c6c58632f90dbb9ae34b",
+      "localTextSha256": "57c86b2eb29b7e43eeb704665feafeda39677923a1c3c6c58632f90dbb9ae34b",
+      "numberingRule": "Ps.93.1-Ps.93.23=Ps.94.1-Ps.94.23"
+    },
+    {
+      "canonicalRef": "Psalms 37:4",
+      "nativeRef": "Psalms 36:4",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.36.4.NRT",
+      "sourceTextSha256": "fc5782cc0d3cbb41268fcf929fa0d18f064b4fdddbf87d6574637196a8a63838",
+      "localTextSha256": "fc5782cc0d3cbb41268fcf929fa0d18f064b4fdddbf87d6574637196a8a63838",
+      "numberingRule": "Ps.36.2-Ps.36.40=Ps.37.2-Ps.37.40"
+    },
+    {
+      "canonicalRef": "Psalms 143:8",
+      "nativeRef": "Psalms 142:8",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.142.8.NRT",
+      "sourceTextSha256": "00124f244a9b40ad0cba0170e572e576b4fb6bc23241fc149ace077096148f1e",
+      "localTextSha256": "00124f244a9b40ad0cba0170e572e576b4fb6bc23241fc149ace077096148f1e",
+      "numberingRule": "Ps.142.2-Ps.142.12=Ps.143.2-Ps.143.12"
+    },
+    {
+      "canonicalRef": "Psalms 105:1",
+      "nativeRef": "Psalms 104:1",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.104.1.NRT",
+      "sourceTextSha256": "2b46ad0b143dc9e3307d4d90c551c84283ca176935e0bb11ab2fad2dfb046a86",
+      "localTextSha256": "2b46ad0b143dc9e3307d4d90c551c84283ca176935e0bb11ab2fad2dfb046a86",
+      "numberingRule": "Ps.104.1-Ps.104.45=Ps.105.1-Ps.105.45"
+    },
+    {
+      "canonicalRef": "Psalms 23:6",
+      "nativeRef": "Psalms 22:6",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.22.6.NRT",
+      "sourceTextSha256": "473d686e1ee78027e4c1b1244220098e0552666981ff9f86e4afde95d4e42b54",
+      "localTextSha256": "473d686e1ee78027e4c1b1244220098e0552666981ff9f86e4afde95d4e42b54",
+      "numberingRule": "Ps.22.2-Ps.22.6=Ps.23.2-Ps.23.6"
+    },
+    {
+      "canonicalRef": "Psalms 56:3",
+      "nativeRef": "Psalms 55:4",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.55.4.NRT",
+      "sourceTextSha256": "5ca40d97dde6e3b718d336bde73d4f69a48ed5b0823eb476ed8b9926f57349b2",
+      "localTextSha256": "5ca40d97dde6e3b718d336bde73d4f69a48ed5b0823eb476ed8b9926f57349b2",
+      "numberingRule": "Ps.55.1-Ps.55.14=Ps.56.0-Ps.56.13"
+    },
+    {
+      "canonicalRef": "Psalms 42:1",
+      "nativeRef": "Psalms 41:2",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.41.2.NRT",
+      "sourceTextSha256": "0e0df12f6613e9c4dc2db9eaf1b1118895c5411f33c40ca4c808aeb811ba4111",
+      "localTextSha256": "0e0df12f6613e9c4dc2db9eaf1b1118895c5411f33c40ca4c808aeb811ba4111",
+      "numberingRule": "Ps.41.1-Ps.41.12=Ps.42.0-Ps.42.11"
+    },
+    {
+      "canonicalRef": "Psalms 3:3",
+      "nativeRef": "Psalms 3:4",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.3.4.NRT",
+      "sourceTextSha256": "37188b248565fe85c0cd73f6e1fe88066978be0f1b3e5e278cc7ee7f102474ee",
+      "localTextSha256": "37188b248565fe85c0cd73f6e1fe88066978be0f1b3e5e278cc7ee7f102474ee",
+      "numberingRule": "Ps.3.1-Ps.3.9=Ps.3.0-Ps.3.8"
+    },
+    {
+      "canonicalRef": "Psalms 145:18",
+      "nativeRef": "Psalms 144:18",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.144.18.NRT",
+      "sourceTextSha256": "760655eca4e4089af6209063419e32e0bdbd5a78fde68d674a7ce98146fd5051",
+      "localTextSha256": "760655eca4e4089af6209063419e32e0bdbd5a78fde68d674a7ce98146fd5051",
+      "numberingRule": "Ps.144.2-Ps.144.21=Ps.145.2-Ps.145.21"
+    },
+    {
+      "canonicalRef": "Psalms 139:14",
+      "nativeRef": "Psalms 138:14",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.138.14.NRT",
+      "sourceTextSha256": "4b1f22719664379ac1da0ba5dac323669dff0a72c2c9b86df2afdd6b07d2747d",
+      "localTextSha256": "4b1f22719664379ac1da0ba5dac323669dff0a72c2c9b86df2afdd6b07d2747d",
+      "numberingRule": "Ps.138.2-Ps.138.24=Ps.139.2-Ps.139.24"
+    },
+    {
+      "canonicalRef": "Psalms 32:8",
+      "nativeRef": "Psalms 31:8",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.31.8.NRT",
+      "sourceTextSha256": "dad5a43280bcc4620c32a9a44e886eaf748fbf432624ddf9e283292654d746dc",
+      "localTextSha256": "dad5a43280bcc4620c32a9a44e886eaf748fbf432624ddf9e283292654d746dc",
+      "numberingRule": "Ps.31.2-Ps.31.11=Ps.32.2-Ps.32.11"
+    },
+    {
+      "canonicalRef": "Psalms 23:3",
+      "nativeRef": "Psalms 22:3",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.22.3.NRT",
+      "sourceTextSha256": "7732adb25e6a437af09d688edda235b0d315f76d46f41255910bcd6b9c9ac731",
+      "localTextSha256": "7732adb25e6a437af09d688edda235b0d315f76d46f41255910bcd6b9c9ac731",
+      "numberingRule": "Ps.22.2-Ps.22.6=Ps.23.2-Ps.23.6"
+    },
+    {
+      "canonicalRef": "Psalms 42:11",
+      "nativeRef": "Psalms 41:12",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.41.12.NRT",
+      "sourceTextSha256": "165e27fb0eb4f7148dd7d9babd1db193590dbc6b4d4cca7cb687af3f39439267",
+      "localTextSha256": "165e27fb0eb4f7148dd7d9babd1db193590dbc6b4d4cca7cb687af3f39439267",
+      "numberingRule": "Ps.41.1-Ps.41.12=Ps.42.0-Ps.42.11"
+    },
+    {
+      "canonicalRef": "Psalms 27:14",
+      "nativeRef": "Psalms 26:14",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.26.14.NRT",
+      "sourceTextSha256": "011bf37a3e3d6ad3d60738e05af60d7aa94e6f6f5c2452ca96e55f8b2818f7b6",
+      "localTextSha256": "011bf37a3e3d6ad3d60738e05af60d7aa94e6f6f5c2452ca96e55f8b2818f7b6",
+      "numberingRule": "Ps.26.2-Ps.26.14=Ps.27.2-Ps.27.14"
+    },
+    {
+      "canonicalRef": "Psalms 103:13",
+      "nativeRef": "Psalms 102:13",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.102.13.NRT",
+      "sourceTextSha256": "d0f53b1d0a79e67434b5e9c959ef12c45909b21b9bc3a7309b459880c7dc749a",
+      "localTextSha256": "fd5c75d06f25a2d8cfa0d5fe83c209abb8936f7c5047c714bf54ec87356b3f74",
+      "numberingRule": "Ps.102.2-Ps.102.22=Ps.103.2-Ps.103.22",
+      "versePageOmittedSuffix": ","
+    },
+    {
+      "canonicalRef": "Psalms 34:18",
+      "nativeRef": "Psalms 33:19",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.33.19.NRT",
+      "sourceTextSha256": "0439179d3a609015bc2b62e73553593148d243467bf929a8f24be5a0b7946ebe",
+      "localTextSha256": "0439179d3a609015bc2b62e73553593148d243467bf929a8f24be5a0b7946ebe",
+      "numberingRule": "Ps.33.1-Ps.33.23=Ps.34.0-Ps.34.22"
+    },
+    {
+      "canonicalRef": "Psalms 4:8",
+      "nativeRef": "Psalms 4:9",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.4.9.NRT",
+      "sourceTextSha256": "7e3d0352e57d1611caa1c2a71c82ee0f8c2b8404faaf185892d3884e1b28b99a",
+      "localTextSha256": "7e3d0352e57d1611caa1c2a71c82ee0f8c2b8404faaf185892d3884e1b28b99a",
+      "numberingRule": "Ps.4.1-Ps.4.9=Ps.4.0-Ps.4.8"
+    },
+    {
+      "canonicalRef": "Psalms 34:14",
+      "nativeRef": "Psalms 33:15",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.33.15.NRT",
+      "sourceTextSha256": "95b4a0dd824bbf3c5ea3742f8f1301b38173f0668074b9de55e1187096f082d6",
+      "localTextSha256": "95b4a0dd824bbf3c5ea3742f8f1301b38173f0668074b9de55e1187096f082d6",
+      "numberingRule": "Ps.33.1-Ps.33.23=Ps.34.0-Ps.34.22"
+    },
+    {
+      "canonicalRef": "Psalms 59:16",
+      "nativeRef": "Psalms 58:17",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.58.17.NRT",
+      "sourceTextSha256": "b7658eb1ed4331e7f69822e1108011e10802f51969fb6e3729a443e4ee64bf0f",
+      "localTextSha256": "b7658eb1ed4331e7f69822e1108011e10802f51969fb6e3729a443e4ee64bf0f",
+      "numberingRule": "Ps.58.1-Ps.58.18=Ps.59.0-Ps.59.17"
+    },
+    {
+      "canonicalRef": "Psalms 34:19",
+      "nativeRef": "Psalms 33:20",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.33.20.NRT",
+      "sourceTextSha256": "258c7690c9ab2ab82634f6c90ec11733f9b0ce332a14dd51a5a277c001af6e7b",
+      "localTextSha256": "258c7690c9ab2ab82634f6c90ec11733f9b0ce332a14dd51a5a277c001af6e7b",
+      "numberingRule": "Ps.33.1-Ps.33.23=Ps.34.0-Ps.34.22"
+    },
+    {
+      "canonicalRef": "Psalms 126:5",
+      "nativeRef": "Psalms 125:5",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.125.5.NRT",
+      "sourceTextSha256": "2f7858fa5a928fb97e53b96cf202751fa46459d04dc1b9cd87eaa2d72f3feff5",
+      "localTextSha256": "2f7858fa5a928fb97e53b96cf202751fa46459d04dc1b9cd87eaa2d72f3feff5",
+      "numberingRule": "Ps.125.2-Ps.125.6=Ps.126.2-Ps.126.6"
+    },
+    {
+      "canonicalRef": "Psalms 113:3",
+      "nativeRef": "Psalms 112:3",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.112.3.NRT",
+      "sourceTextSha256": "754d044a92074d3c120fa28a7582edac5a4524b7db4a060bccd32f0c2c505b36",
+      "localTextSha256": "754d044a92074d3c120fa28a7582edac5a4524b7db4a060bccd32f0c2c505b36",
+      "numberingRule": "Ps.112.1-Ps.112.9=Ps.113.1-Ps.113.9"
+    },
+    {
+      "canonicalRef": "Psalms 100:5",
+      "nativeRef": "Psalms 99:5",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.99.5.NRT",
+      "sourceTextSha256": "b82d2663d8f61f973d4795583802880612a819faae1f41ad72ddeef31a4303f9",
+      "localTextSha256": "b82d2663d8f61f973d4795583802880612a819faae1f41ad72ddeef31a4303f9",
+      "numberingRule": "Ps.99.2-Ps.99.5=Ps.100.2-Ps.100.5"
+    },
+    {
+      "canonicalRef": "Psalms 46:1",
+      "nativeRef": "Psalms 45:2",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.45.2.NRT",
+      "sourceTextSha256": "180f94b68116854f1e1b4029fa674423af3fb57200bc91e13bd86429dd86a6b0",
+      "localTextSha256": "180f94b68116854f1e1b4029fa674423af3fb57200bc91e13bd86429dd86a6b0",
+      "numberingRule": "Ps.45.1-Ps.45.12=Ps.46.0-Ps.46.11"
+    },
+    {
+      "canonicalRef": "Psalms 18:2",
+      "nativeRef": "Psalms 17:3",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.17.3.NRT",
+      "sourceTextSha256": "70d93ca8bc2ffd0dd9de1fb89937c54c4630e7f7693df366e259fc39db1e952d",
+      "localTextSha256": "70d93ca8bc2ffd0dd9de1fb89937c54c4630e7f7693df366e259fc39db1e952d",
+      "numberingRule": "Ps.17.1-Ps.17.51=Ps.18.0-Ps.18.50"
+    },
+    {
+      "canonicalRef": "Psalms 121:2",
+      "nativeRef": "Psalms 120:2",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.120.2.NRT",
+      "sourceTextSha256": "523591e44d4d0163e9a08f14919298f3c7f8e0bf4347f162aa21cc7814e01bc8",
+      "localTextSha256": "523591e44d4d0163e9a08f14919298f3c7f8e0bf4347f162aa21cc7814e01bc8",
+      "numberingRule": "Ps.120.2-Ps.120.8=Ps.121.2-Ps.121.8"
+    },
+    {
+      "canonicalRef": "Psalms 30:5",
+      "nativeRef": "Psalms 29:6",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.29.6.NRT",
+      "sourceTextSha256": "7afffc49696a341dccde34606acf6b50fbae6bb3484a4c847e2b38eb410e57e4",
+      "localTextSha256": "7afffc49696a341dccde34606acf6b50fbae6bb3484a4c847e2b38eb410e57e4",
+      "numberingRule": "Ps.29.1-Ps.29.13=Ps.30.0-Ps.30.12"
+    },
+    {
+      "canonicalRef": "Psalms 9:1",
+      "nativeRef": "Psalms 9:2",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.9.2.NRT",
+      "sourceTextSha256": "ef65b6b59e05816ac21ff5b284976de22780e27ea5af21e756b62aa4cb89012e",
+      "localTextSha256": "ef65b6b59e05816ac21ff5b284976de22780e27ea5af21e756b62aa4cb89012e",
+      "numberingRule": "Ps.9.1-Ps.9.21=Ps.9.0-Ps.9.20"
+    },
+    {
+      "canonicalRef": "Psalms 19:14",
+      "nativeRef": "Psalms 18:15",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.18.15.NRT",
+      "sourceTextSha256": "0b89dbe828519ec7540355f5c1c7f29b5193c41a8727fd4faf58414a97ef5197",
+      "localTextSha256": "0b89dbe828519ec7540355f5c1c7f29b5193c41a8727fd4faf58414a97ef5197",
+      "numberingRule": "Ps.18.1-Ps.18.15=Ps.19.0-Ps.19.14"
+    },
+    {
+      "canonicalRef": "Psalms 51:10",
+      "nativeRef": "Psalms 50:12",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.50.12.NRT",
+      "sourceTextSha256": "290548ee9d3cdcd6aa256eb433a3d740bd2fa84a86aea8a529c9d0ffff30b26c",
+      "localTextSha256": "290548ee9d3cdcd6aa256eb433a3d740bd2fa84a86aea8a529c9d0ffff30b26c",
+      "numberingRule": "Ps.50.3-Ps.50.21=Ps.51.1-Ps.51.19"
+    },
+    {
+      "canonicalRef": "Psalms 55:22",
+      "nativeRef": "Psalms 54:23",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.54.23.NRT",
+      "sourceTextSha256": "9f97e862168e40d5bf7c6ac77f4f212cbd5d2b659606de3211e20925d77b88cd",
+      "localTextSha256": "9f97e862168e40d5bf7c6ac77f4f212cbd5d2b659606de3211e20925d77b88cd",
+      "numberingRule": "Ps.54.1-Ps.54.24=Ps.55.0-Ps.55.23"
+    },
+    {
+      "canonicalRef": "Psalms 46:10",
+      "nativeRef": "Psalms 45:11",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.45.11.NRT",
+      "sourceTextSha256": "ab51f0887eb0ccbb292ea88457bc3aa2c1568553b84ba2fb1126dd15714e0bdf",
+      "localTextSha256": "ab51f0887eb0ccbb292ea88457bc3aa2c1568553b84ba2fb1126dd15714e0bdf",
+      "numberingRule": "Ps.45.1-Ps.45.12=Ps.46.0-Ps.46.11"
+    },
+    {
+      "canonicalRef": "Psalms 68:19",
+      "nativeRef": "Psalms 67:20",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.67.20.NRT",
+      "sourceTextSha256": "3aa8ce48a843075074366fc91d41338de71a3927146df23168dfe68535eccb3d",
+      "localTextSha256": "3aa8ce48a843075074366fc91d41338de71a3927146df23168dfe68535eccb3d",
+      "numberingRule": "Ps.67.1-Ps.67.36=Ps.68.0-Ps.68.35"
+    },
+    {
+      "canonicalRef": "Psalms 24:1",
+      "nativeRef": "Psalms 23:1",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.23.1.NRT",
+      "sourceTextSha256": "d19a6908a67119ed9cfe5c73cfe5f9662204d2fb10136dfa7062e28eb527b116",
+      "localTextSha256": "d19a6908a67119ed9cfe5c73cfe5f9662204d2fb10136dfa7062e28eb527b116",
+      "numberingRule": "Ps.23.1=Ps.24.0-Ps.24.1"
+    },
+    {
+      "canonicalRef": "Psalms 19:1",
+      "nativeRef": "Psalms 18:2",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.18.2.NRT",
+      "sourceTextSha256": "988590039c87ce140b603b7961135d8192b24ab35505ffb9f374d2961e967e80",
+      "localTextSha256": "1322459dfde57a9395797c1fd57e81153c126f416c459d338416441f03a811e8",
+      "numberingRule": "Ps.18.1-Ps.18.15=Ps.19.0-Ps.19.14",
+      "versePageOmittedSuffix": ";"
+    },
+    {
+      "canonicalRef": "Psalms 139:23",
+      "nativeRef": "Psalms 138:23",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.138.23.NRT",
+      "sourceTextSha256": "66159a2f3f7f5d5df54a40d68081b3f4706c50c5232a3ce23748f4588b722d00",
+      "localTextSha256": "66159a2f3f7f5d5df54a40d68081b3f4706c50c5232a3ce23748f4588b722d00",
+      "numberingRule": "Ps.138.2-Ps.138.24=Ps.139.2-Ps.139.24"
+    },
+    {
+      "canonicalRef": "Psalms 119:11",
+      "nativeRef": "Psalms 118:11",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.118.11.NRT",
+      "sourceTextSha256": "74b756df740eb0d1497b5ffa1c5856a5e1b56a51056b9b8b3703be426eaa7a2a",
+      "localTextSha256": "74b756df740eb0d1497b5ffa1c5856a5e1b56a51056b9b8b3703be426eaa7a2a",
+      "numberingRule": "Ps.118.1-Ps.118.176=Ps.119.1-Ps.119.176"
+    },
+    {
+      "canonicalRef": "Psalms 119:105",
+      "nativeRef": "Psalms 118:105",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.118.105.NRT",
+      "sourceTextSha256": "ad90b50a2e132c3acdc8dd830427ed9f10179e5a99403b4d9bc5f72c5f780321",
+      "localTextSha256": "ad90b50a2e132c3acdc8dd830427ed9f10179e5a99403b4d9bc5f72c5f780321",
+      "numberingRule": "Ps.118.1-Ps.118.176=Ps.119.1-Ps.119.176"
+    },
+    {
+      "canonicalRef": "Psalms 139:10",
+      "nativeRef": "Psalms 138:10",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.138.10.NRT",
+      "sourceTextSha256": "8d08082ff45395a83ac4fd8151e9c3f44910a742cc144e3893a9b12ad7a280ca",
+      "localTextSha256": "8d08082ff45395a83ac4fd8151e9c3f44910a742cc144e3893a9b12ad7a280ca",
+      "numberingRule": "Ps.138.2-Ps.138.24=Ps.139.2-Ps.139.24"
+    },
+    {
+      "canonicalRef": "Psalms 119:114",
+      "nativeRef": "Psalms 118:114",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.118.114.NRT",
+      "sourceTextSha256": "3727baae58a11f7dc1d833f6e6eb64c474a967f2986719f3fb31b39efb92776f",
+      "localTextSha256": "3727baae58a11f7dc1d833f6e6eb64c474a967f2986719f3fb31b39efb92776f",
+      "numberingRule": "Ps.118.1-Ps.118.176=Ps.119.1-Ps.119.176"
+    },
+    {
+      "canonicalRef": "Psalms 100:4",
+      "nativeRef": "Psalms 99:4",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.99.4.NRT",
+      "sourceTextSha256": "870aca12be57c11376676fe30315be00d5a177aa159f2cdb8f8bc5d8b3332938",
+      "localTextSha256": "870aca12be57c11376676fe30315be00d5a177aa159f2cdb8f8bc5d8b3332938",
+      "numberingRule": "Ps.99.2-Ps.99.5=Ps.100.2-Ps.100.5"
+    },
+    {
+      "canonicalRef": "Psalms 33:5",
+      "nativeRef": "Psalms 32:5",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.32.5.NRT",
+      "sourceTextSha256": "79b971ee1bdfe1cf69040df1a1494cb89d057732db04347ffdae1dc79f46dc20",
+      "localTextSha256": "79b971ee1bdfe1cf69040df1a1494cb89d057732db04347ffdae1dc79f46dc20",
+      "numberingRule": "Ps.32.1-Ps.32.22=Ps.33.1-Ps.33.22"
+    },
+    {
+      "canonicalRef": "Psalms 31:24",
+      "nativeRef": "Psalms 30:25",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.30.25.NRT",
+      "sourceTextSha256": "6d84c39010a9a2a34f6d62d12c81319e766ae089a1767a1354bde540042eaf9d",
+      "localTextSha256": "6d84c39010a9a2a34f6d62d12c81319e766ae089a1767a1354bde540042eaf9d",
+      "numberingRule": "Ps.30.1-Ps.30.25=Ps.31.0-Ps.31.24"
+    }
+  ],
+  "ja": [
+    {
+      "canonicalRef": "Zephaniah 3:17",
+      "nativeRef": "Zephaniah 3:17-18",
+      "sourceUrl": "https://www.bible.com/bible/83/ZEP.3.17-18.JCB",
+      "sourceTextSha256": "6e1392370b207d82b7f518bf3d3480f397501cb7176d96d095c883ecb3d1898e",
+      "localTextSha256": "6e1392370b207d82b7f518bf3d3480f397501cb7176d96d095c883ecb3d1898e"
+    },
+    {
+      "canonicalRef": "Proverbs 23:24",
+      "nativeRef": "Proverbs 23:24-25",
+      "sourceUrl": "https://www.bible.com/bible/83/PRO.23.24-25.JCB",
+      "sourceTextSha256": "6b215d7efcddee626b7b5aee5c6f08ad1ed787c91fdbb9eda934e985ede47db5",
+      "localTextSha256": "6b215d7efcddee626b7b5aee5c6f08ad1ed787c91fdbb9eda934e985ede47db5"
+    },
+    {
+      "canonicalRef": "Proverbs 3:5",
+      "nativeRef": "Proverbs 3:4-5",
+      "sourceUrl": "https://www.bible.com/bible/83/PRO.3.4-5.JCB",
+      "sourceTextSha256": "463ab86c938a3b891c3aac95e709fab7b55c579b8e9565f261faa05295a2de47",
+      "localTextSha256": "463ab86c938a3b891c3aac95e709fab7b55c579b8e9565f261faa05295a2de47"
+    },
+    {
+      "canonicalRef": "Psalms 56:3",
+      "nativeRef": "Psalms 56:3-4",
+      "sourceUrl": "https://www.bible.com/bible/83/PSA.56.3-4.JCB",
+      "sourceTextSha256": "79dcef6d860ff89436664db10b1013cef5528947cf5a0880e98e171e6a845164",
+      "localTextSha256": "79dcef6d860ff89436664db10b1013cef5528947cf5a0880e98e171e6a845164"
+    },
+    {
+      "canonicalRef": "Matthew 5:16",
+      "nativeRef": "Matthew 5:15-16",
+      "sourceUrl": "https://www.bible.com/bible/83/MAT.5.15-16.JCB",
+      "sourceTextSha256": "0b9a189e32fbca39e971d18efed07b1452d46149911f4c23ee46c15035824c1b",
+      "localTextSha256": "0b9a189e32fbca39e971d18efed07b1452d46149911f4c23ee46c15035824c1b"
+    },
+    {
+      "canonicalRef": "John 1:12",
+      "nativeRef": "John 1:11-12",
+      "sourceUrl": "https://www.bible.com/bible/83/JHN.1.11-12.JCB",
+      "sourceTextSha256": "80cfba344c39482d112ae2a3893681de05fcdefd2cf4a807d779d104d06f4cdc",
+      "localTextSha256": "80cfba344c39482d112ae2a3893681de05fcdefd2cf4a807d779d104d06f4cdc"
+    },
+    {
+      "canonicalRef": "Psalms 23:3",
+      "nativeRef": "Psalms 23:2-3",
+      "sourceUrl": "https://www.bible.com/bible/83/PSA.23.2-3.JCB",
+      "sourceTextSha256": "ad5df315eeefc607633da4cd3918b209192bdc12d0622c10b0428f7c69f6cdc3",
+      "localTextSha256": "ad5df315eeefc607633da4cd3918b209192bdc12d0622c10b0428f7c69f6cdc3"
+    },
+    {
+      "canonicalRef": "Proverbs 11:25",
+      "nativeRef": "Proverbs 11:24-25",
+      "sourceUrl": "https://www.bible.com/bible/83/PRO.11.24-25.JCB",
+      "sourceTextSha256": "754a2c854a97965eef6f8f166f5aa3a1ee75028ff6e7f8465b2bf3ed33b1c948",
+      "localTextSha256": "754a2c854a97965eef6f8f166f5aa3a1ee75028ff6e7f8465b2bf3ed33b1c948"
+    },
+    {
+      "canonicalRef": "James 5:8",
+      "nativeRef": "James 5:7-8",
+      "sourceUrl": "https://www.bible.com/bible/83/JAS.5.7-8.JCB",
+      "sourceTextSha256": "3acf2350344f99ff125d85a10d948570eb0e672f4094aace4695db15cdec65e6",
+      "localTextSha256": "3acf2350344f99ff125d85a10d948570eb0e672f4094aace4695db15cdec65e6"
+    },
+    {
+      "canonicalRef": "Proverbs 1:7",
+      "nativeRef": "Proverbs 1:7-9",
+      "sourceUrl": "https://www.bible.com/bible/83/PRO.1.7-9.JCB",
+      "sourceTextSha256": "f9b3a70bbc5fbdb34914ba7919d17a65da1d4effd9bd5aab0275d14c292ade74",
+      "localTextSha256": "f9b3a70bbc5fbdb34914ba7919d17a65da1d4effd9bd5aab0275d14c292ade74"
+    },
+    {
+      "canonicalRef": "Proverbs 3:7",
+      "nativeRef": "Proverbs 3:7-8",
+      "sourceUrl": "https://www.bible.com/bible/83/PRO.3.7-8.JCB",
+      "sourceTextSha256": "21aab957b84ab9b8d6ab29735bfb62f0d2c6c04da071b16c1c2ed9e4b8374de2",
+      "localTextSha256": "21aab957b84ab9b8d6ab29735bfb62f0d2c6c04da071b16c1c2ed9e4b8374de2"
+    },
+    {
+      "canonicalRef": "John 1:1",
+      "nativeRef": "John 1:1-2",
+      "sourceUrl": "https://www.bible.com/bible/83/JHN.1.1-2.JCB",
+      "sourceTextSha256": "0705dba3700656091a8a66cb46ac08cea8066b036f00531e2d1f60fafdb6c914",
+      "localTextSha256": "0705dba3700656091a8a66cb46ac08cea8066b036f00531e2d1f60fafdb6c914"
+    }
+  ]
+}

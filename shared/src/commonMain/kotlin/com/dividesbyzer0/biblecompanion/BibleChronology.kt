@@ -44,7 +44,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.geometry.Offset
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -153,6 +152,10 @@ data class ChronologyEpoch(
   val entries: List<ChronologyEntry>
 )
 
+/** Preserve the curated reading order; a lane describes an entry, not its position. */
+internal fun ChronologyEpoch.readingEntries(includeDeuterocanon: Boolean): List<ChronologyEntry> =
+  entries.filter { includeDeuterocanon || it.collection != "deuterocanonical" }
+
 private fun ot(
   bookId: String,
   range: String,
@@ -210,8 +213,8 @@ object BibleChronologyData {
     ChronologyEpoch(
       ChronologyEpochId.PATRIARCHS,
       listOf(
-        ot("genesis", "12-50", 12),
-        ot("job", "1-42", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.TRADITIONAL_SETTING)
+        ot("job", "1-42", basis = ChronologyBasis.TRADITIONAL_SETTING),
+        ot("genesis", "12-50", 12)
       )
     ),
     ChronologyEpoch(
@@ -229,87 +232,102 @@ object BibleChronologyData {
       listOf(
         ot("joshua", "1-24"),
         ot("judges", "1-21"),
-        ot("ruth", "1-4", lane = ChronologyLane.VOICES_FROM_PERIOD)
+        ot("ruth", "1-4", basis = ChronologyBasis.PARALLEL_ACCOUNT)
       )
     ),
     ChronologyEpoch(
       ChronologyEpochId.UNITED_KINGDOM,
       listOf(
         ot("1_samuel", "1-31"),
+        ot("1_chronicles", "1-10", lane = ChronologyLane.PARALLEL_ACCOUNTS),
         ot("2_samuel", "1-24"),
-        ot("1_kings", "1-11"),
-        ot("1_chronicles", "1-29", lane = ChronologyLane.PARALLEL_ACCOUNTS),
-        ot("2_chronicles", "1-9", lane = ChronologyLane.PARALLEL_ACCOUNTS),
+        ot("1_chronicles", "11-29", 11, ChronologyLane.PARALLEL_ACCOUNTS),
         ot(
           "psalms", "3, 7, 18, 34, 51-52, 54, 56-57, 59-60, 63, 142", 3,
           ChronologyLane.VOICES_FROM_PERIOD, ChronologyBasis.TRADITIONAL_SETTING
         ),
+        dc("psalm_151", "1", basis = ChronologyBasis.TRADITIONAL_SETTING),
+        ot("1_kings", "1-10"),
+        ot("2_chronicles", "1-8", lane = ChronologyLane.PARALLEL_ACCOUNTS),
         ot("psalms", "72, 127", 72, ChronologyLane.VOICES_FROM_PERIOD, ChronologyBasis.TRADITIONAL_SETTING),
-        ot("proverbs", "1-31", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("ecclesiastes", "1-12", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("song_of_songs", "1-8", lane = ChronologyLane.VOICES_FROM_PERIOD),
+        ot("proverbs", "1-31", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.SPANS_MULTIPLE_PERIODS),
+        ot("song_of_songs", "1-8", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.TRADITIONAL_SETTING),
+        ot("ecclesiastes", "1-12", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.TRADITIONAL_SETTING),
         dc("wisdom", "1-19", basis = ChronologyBasis.TRADITIONAL_SETTING),
-        dc("psalm_151", "1", basis = ChronologyBasis.TRADITIONAL_SETTING)
+        ot("1_kings", "11", 11),
+        ot("2_chronicles", "9", 9, ChronologyLane.PARALLEL_ACCOUNTS)
       )
     ),
     ChronologyEpoch(
       ChronologyEpochId.DIVIDED_KINGDOM,
       listOf(
         ot("1_kings", "12-22", 12),
-        ot("2_kings", "1-20"),
-        ot("2_chronicles", "10-32", 10, ChronologyLane.PARALLEL_ACCOUNTS),
+        ot("2_chronicles", "10-20", 10, ChronologyLane.PARALLEL_ACCOUNTS),
+        ot("2_kings", "1-13"),
+        ot("2_chronicles", "21-24", 21, ChronologyLane.PARALLEL_ACCOUNTS),
+        ot("2_kings", "14-15", 14),
+        ot("2_chronicles", "25-27", 25, ChronologyLane.PARALLEL_ACCOUNTS),
         ot("jonah", "1-4", lane = ChronologyLane.VOICES_FROM_PERIOD),
         ot("amos", "1-9", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("hosea", "1-14", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("isaiah", "1-39", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("micah", "1-7", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        dc("tobit", "1-14", basis = ChronologyBasis.APPROXIMATE_PLACEMENT)
+        ot("hosea", "1-14", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.SPANS_MULTIPLE_PERIODS),
+        ot("2_kings", "16-17", 16),
+        ot("2_chronicles", "28", 28, ChronologyLane.PARALLEL_ACCOUNTS),
+        dc("tobit", "1-14", basis = ChronologyBasis.APPROXIMATE_PLACEMENT),
+        ot("2_kings", "18-20", 18),
+        ot("2_chronicles", "29-32", 29, ChronologyLane.PARALLEL_ACCOUNTS),
+        ot("isaiah", "1-39", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.SPANS_MULTIPLE_PERIODS),
+        ot("micah", "1-7", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.SPANS_MULTIPLE_PERIODS)
       )
     ),
     ChronologyEpoch(
       ChronologyEpochId.JUDAH_FINAL_YEARS,
       listOf(
-        ot("2_kings", "21-25", 21),
-        ot("2_chronicles", "33-36", 33, ChronologyLane.PARALLEL_ACCOUNTS),
-        ot("nahum", "1-3", lane = ChronologyLane.VOICES_FROM_PERIOD),
+        ot("2_kings", "21", 21),
+        ot("2_chronicles", "33", 33, ChronologyLane.PARALLEL_ACCOUNTS),
+        dc("prayer_of_manasseh", "1"),
+        ot("nahum", "1-3", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.APPROXIMATE_PLACEMENT),
+        ot("2_kings", "22-23", 22),
+        ot("2_chronicles", "34-35", 34, ChronologyLane.PARALLEL_ACCOUNTS),
         ot("zephaniah", "1-3", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("jeremiah", "1-39", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("habakkuk", "1-3", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        dc("prayer_of_manasseh", "1")
+        ot("jeremiah", "1-39", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.SPANS_MULTIPLE_PERIODS),
+        ot("habakkuk", "1-3", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.APPROXIMATE_PLACEMENT),
+        ot("2_kings", "24-25", 24),
+        ot("2_chronicles", "36", 36, ChronologyLane.PARALLEL_ACCOUNTS)
       )
     ),
     ChronologyEpoch(
       ChronologyEpochId.BABYLONIAN_EXILE,
       listOf(
-        ot("jeremiah", "40-52", 40),
-        ot("ezekiel", "1-48"),
-        ot("daniel", "1-12"),
-        ot("isaiah", "40-55", 40, ChronologyLane.VOICES_FROM_PERIOD),
-        ot("lamentations", "1-5", lane = ChronologyLane.VOICES_FROM_PERIOD),
-        ot("obadiah", "1", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.PLACEMENT_DEBATED),
-        dc("baruch", "1-5"),
-        dc("letter_of_jeremiah", "1"),
+        ot("daniel", "1-12", basis = ChronologyBasis.SPANS_MULTIPLE_PERIODS),
         dc("song_of_three", "1", basis = ChronologyBasis.PARALLEL_ACCOUNT),
         dc("susanna", "1", basis = ChronologyBasis.PARALLEL_ACCOUNT),
         dc("bel_and_the_dragon", "1", basis = ChronologyBasis.PARALLEL_ACCOUNT),
+        ot("ezekiel", "1-48"),
+        ot("jeremiah", "40-52", 40),
+        ot("lamentations", "1-5", lane = ChronologyLane.VOICES_FROM_PERIOD),
+        dc("baruch", "1-5"),
+        dc("letter_of_jeremiah", "1"),
+        ot("isaiah", "40-55", 40, ChronologyLane.VOICES_FROM_PERIOD),
+        ot("obadiah", "1", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.PLACEMENT_DEBATED),
         dc("judith", "1-16", basis = ChronologyBasis.PLACEMENT_DEBATED)
       )
     ),
     ChronologyEpoch(
       ChronologyEpochId.RETURN_RESTORATION,
       listOf(
-        ot("ezra", "1-10"),
-        ot("esther", "1-10"),
-        ot("nehemiah", "1-13"),
+        ot("ezra", "1-6"),
         ot("haggai", "1-2", lane = ChronologyLane.VOICES_FROM_PERIOD),
         ot("zechariah", "1-14", lane = ChronologyLane.VOICES_FROM_PERIOD),
+        ot("esther", "1-10"),
+        dc("esther_greek", "1-21", basis = ChronologyBasis.PARALLEL_ACCOUNT),
+        ot("ezra", "7-10", 7),
+        dc("1_esdras", "1-9", basis = ChronologyBasis.PARALLEL_ACCOUNT),
+        ot("nehemiah", "1-13"),
         ot("malachi", "1-4", lane = ChronologyLane.VOICES_FROM_PERIOD),
         ot("isaiah", "56-66", 56, ChronologyLane.VOICES_FROM_PERIOD),
         ot("joel", "1-3", lane = ChronologyLane.VOICES_FROM_PERIOD, basis = ChronologyBasis.PLACEMENT_DEBATED),
         ot("psalms", "126, 137", 126, ChronologyLane.VOICES_FROM_PERIOD, ChronologyBasis.APPROXIMATE_PLACEMENT),
-        dc("1_esdras", "1-9", basis = ChronologyBasis.PARALLEL_ACCOUNT),
-        dc("2_esdras", "1-16", basis = ChronologyBasis.APPROXIMATE_PLACEMENT),
-        dc("esther_greek", "1-21", basis = ChronologyBasis.PARALLEL_ACCOUNT)
+        dc("2_esdras", "1-16", basis = ChronologyBasis.APPROXIMATE_PLACEMENT)
       )
     ),
     ChronologyEpoch(
@@ -428,6 +446,9 @@ object BibleChronologyData {
       )
     )
   )
+
+  internal fun readingStepStart(epochId: ChronologyEpochId, includeDeuterocanon: Boolean): Int =
+    1 + epochs.takeWhile { it.id != epochId }.sumOf { it.readingEntries(includeDeuterocanon).size }
 
   private val canonicalIds = setOf(
     "genesis", "exodus", "leviticus", "numbers", "deuteronomy", "joshua", "judges", "ruth",
@@ -572,14 +593,6 @@ private fun ChronologyLane.title(): String = when (this) {
 }
 
 @Composable
-private fun ChronologyLane.containerColor(): Color = when (this) {
-  ChronologyLane.HISTORICAL_FLOW -> MaterialTheme.colorScheme.primaryContainer
-  ChronologyLane.PARALLEL_ACCOUNTS -> MaterialTheme.colorScheme.secondaryContainer
-  ChronologyLane.VOICES_FROM_PERIOD -> MaterialTheme.colorScheme.tertiaryContainer
-  ChronologyLane.DEUTEROCANON -> MaterialTheme.colorScheme.surfaceVariant
-}
-
-@Composable
 private fun ChronologyBasis.title(): String = when (this) {
   ChronologyBasis.TRADITIONAL_SETTING -> stringResource(Res.string.chronology_basis_traditional)
   ChronologyBasis.APPROXIMATE_PLACEMENT -> stringResource(Res.string.chronology_basis_approximate)
@@ -690,6 +703,7 @@ fun BibleChronologyScreen(
         val isExpanded = epoch.id in decodeChronologyExpandedEpochs(expandedEpochsValue)
         ChronologyEpochRow(
           epoch = epoch,
+          readingStepStart = BibleChronologyData.readingStepStart(epoch.id, includeDeuterocanon),
           expanded = isExpanded,
           onToggleExpanded = {
             val updated = decodeChronologyExpandedEpochs(expandedEpochsValue).toMutableSet()
@@ -713,6 +727,7 @@ fun BibleChronologyScreen(
 @Composable
 private fun ChronologyEpochRow(
   epoch: ChronologyEpoch,
+  readingStepStart: Int,
   expanded: Boolean,
   onToggleExpanded: () -> Unit,
   isFirst: Boolean,
@@ -776,71 +791,59 @@ private fun ChronologyEpochRow(
           Modifier.padding(start = 16.dp, end = 16.dp, bottom = 16.dp),
           verticalArrangement = Arrangement.spacedBy(14.dp)
         ) {
-          val hasVisibleEntries = epoch.entries.any {
-            it.lane != ChronologyLane.DEUTEROCANON || includeDeuterocanon
-          }
-          if (epoch.id == ChronologyEpochId.LIFE_OF_JESUS) {
-            GospelStage.entries.forEach { stage ->
-              val stageEntries = epoch.entries.filter { it.gospelStage == stage }
-              if (stageEntries.isNotEmpty()) {
-                ChronologyGospelStageGroup(
-                  stage = stage,
-                  entries = stageEntries,
-                  appLanguage = appLanguage,
-                  titles = titles,
-                  onOpenChapterRange = onOpenChapterRange
-                )
-              }
-            }
+          val readingEntries = epoch.readingEntries(includeDeuterocanon)
+          if (epoch.id == ChronologyEpochId.PATRIARCHS) {
+            Text(
+              stringResource(Res.string.chronology_job_note),
+              style = MaterialTheme.typography.bodySmall,
+              color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+          } else if (epoch.id == ChronologyEpochId.CONQUEST_JUDGES) {
+            Text(
+              stringResource(Res.string.chronology_judges_note),
+              style = MaterialTheme.typography.bodySmall,
+              color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+          } else if (epoch.id == ChronologyEpochId.UNITED_KINGDOM) {
+            Text(
+              stringResource(Res.string.chronology_solomon_note),
+              style = MaterialTheme.typography.bodySmall,
+              color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
           } else if (epoch.id == ChronologyEpochId.PSALMS_COLLECTION) {
             Text(
               stringResource(Res.string.chronology_psalms_note),
               style = MaterialTheme.typography.bodySmall,
               color = MaterialTheme.colorScheme.onSurfaceVariant
             )
-            epoch.entries.forEach { entry ->
-              val title = entry.psalmAttribution?.title()
-                ?: titles["${entry.collection}/${entry.bookId}"]
-                ?: stringResource(Res.string.books_missing, entry.bookId)
-              ChronologyBookRow(
-                entry = entry,
-                title = title,
-                appLanguage = appLanguage,
-                showLane = false,
-                onOpenChapterRange = onOpenChapterRange
-              )
-            }
-          } else if (epoch.id == ChronologyEpochId.EARLY_CHURCH) {
-            epoch.entries.forEach { entry ->
-              if (entry.lane != ChronologyLane.DEUTEROCANON || includeDeuterocanon) {
-                val title = titles["${entry.collection}/${entry.bookId}"]
-                  ?: stringResource(Res.string.books_missing, entry.bookId)
-                ChronologyBookRow(
-                  entry = entry,
-                  title = title,
-                  appLanguage = appLanguage,
-                  showLane = true,
-                  onOpenChapterRange = onOpenChapterRange
+          }
+          readingEntries.forEachIndexed { entryIndex, entry ->
+            if (epoch.id == ChronologyEpochId.LIFE_OF_JESUS &&
+              entry.gospelStage != readingEntries.getOrNull(entryIndex - 1)?.gospelStage
+            ) {
+              entry.gospelStage?.let { stage ->
+                Text(
+                  stage.title(),
+                  style = MaterialTheme.typography.titleSmall,
+                  fontWeight = FontWeight.SemiBold,
+                  color = MaterialTheme.colorScheme.primary
                 )
               }
             }
-          } else {
-            ChronologyLane.entries.forEach { lane ->
-              if (lane != ChronologyLane.DEUTEROCANON || includeDeuterocanon) {
-                val laneEntries = epoch.entries.filter { it.lane == lane }
-                if (laneEntries.isNotEmpty()) {
-                  ChronologyLaneGroup(
-                    lane = lane,
-                    entries = laneEntries,
-                    appLanguage = appLanguage,
-                    titles = titles,
-                    onOpenChapterRange = onOpenChapterRange
-                  )
-                }
-              }
-            }
+            val title = entry.psalmAttribution?.title()
+              ?: titles["${entry.collection}/${entry.bookId}"]
+              ?: stringResource(Res.string.books_missing, entry.bookId)
+            ChronologyBookRow(
+              entry = entry,
+              readingStep = readingStepStart + entryIndex,
+              title = title,
+              appLanguage = appLanguage,
+              showLane = epoch.id != ChronologyEpochId.PSALMS_COLLECTION &&
+                entry.lane != ChronologyLane.HISTORICAL_FLOW,
+              onOpenChapterRange = onOpenChapterRange
+            )
           }
-          if (!hasVisibleEntries) {
+          if (readingEntries.isEmpty()) {
             Text(
               stringResource(Res.string.chronology_include_deuterocanon),
               style = MaterialTheme.typography.bodySmall,
@@ -854,73 +857,9 @@ private fun ChronologyEpochRow(
 }
 
 @Composable
-private fun ChronologyLaneGroup(
-  lane: ChronologyLane,
-  entries: List<ChronologyEntry>,
-  appLanguage: String,
-  titles: Map<String, String>,
-  onOpenChapterRange: (String, String, Int) -> Unit
-) {
-  Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-    Surface(
-      color = lane.containerColor(),
-      shape = RoundedCornerShape(50),
-      modifier = Modifier
-    ) {
-      Text(
-        lane.title(),
-        style = MaterialTheme.typography.labelMedium,
-        fontWeight = FontWeight.SemiBold,
-        modifier = Modifier.padding(horizontal = 10.dp, vertical = 5.dp)
-      )
-    }
-
-    entries.forEach { entry ->
-      val title = titles["${entry.collection}/${entry.bookId}"]
-        ?: stringResource(Res.string.books_missing, entry.bookId)
-      ChronologyBookRow(
-        entry = entry,
-        title = title,
-        appLanguage = appLanguage,
-        showLane = false,
-        onOpenChapterRange = onOpenChapterRange
-      )
-    }
-  }
-}
-
-@Composable
-private fun ChronologyGospelStageGroup(
-  stage: GospelStage,
-  entries: List<ChronologyEntry>,
-  appLanguage: String,
-  titles: Map<String, String>,
-  onOpenChapterRange: (String, String, Int) -> Unit
-) {
-  Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-    Text(
-      stage.title(),
-      style = MaterialTheme.typography.titleSmall,
-      fontWeight = FontWeight.SemiBold,
-      color = MaterialTheme.colorScheme.primary
-    )
-    entries.forEach { entry ->
-      val title = titles["${entry.collection}/${entry.bookId}"]
-        ?: stringResource(Res.string.books_missing, entry.bookId)
-      ChronologyBookRow(
-        entry = entry,
-        title = title,
-        appLanguage = appLanguage,
-        showLane = true,
-        onOpenChapterRange = onOpenChapterRange
-      )
-    }
-  }
-}
-
-@Composable
 private fun ChronologyBookRow(
   entry: ChronologyEntry,
+  readingStep: Int,
   title: String,
   appLanguage: String,
   showLane: Boolean,
@@ -943,6 +882,13 @@ private fun ChronologyBookRow(
       Modifier.padding(horizontal = 12.dp, vertical = 10.dp),
       verticalAlignment = Alignment.CenterVertically
     ) {
+      Text(
+        readingStep.toString(),
+        style = MaterialTheme.typography.labelLarge,
+        fontWeight = FontWeight.SemiBold,
+        color = MaterialTheme.colorScheme.primary,
+        modifier = Modifier.padding(end = 12.dp)
+      )
       Column(
         Modifier.weight(1f),
         verticalArrangement = Arrangement.spacedBy(2.dp)

@@ -367,7 +367,10 @@
 
     <!-- Bible chronology -->
     <string name="bible_chronology">Bible Chronology</string>
-    <string name="chronology_intro">This guide follows the time described in Scripture, not the usual book order or necessarily when each book was written. Some books span or overlap periods, and some placements are debated. Tap a chapter range to read it in the app.</string>
+    <string name="chronology_intro">Read the numbered entries from top to bottom. This guide follows the historical setting and events described in Scripture, not the usual book order or each book's writing date. Parallel accounts retell the same period. Some books span periods, and some placements remain uncertain. Tap a chapter range to open it in the app.</string>
+    <string name="chronology_job_note">Job's exact date is unknown. This guide places it between Genesis 11 and 12 as a traditional patriarchal-era reading choice, not a dated sequence stated in Scripture.</string>
+    <string name="chronology_judges_note">Ruth takes place during the judges (Ruth 1:1). Read Joshua, Judges, and Ruth here before moving to Samuel.</string>
+    <string name="chronology_solomon_note">Read Proverbs, Song of Songs, and Ecclesiastes alongside Solomon's reign. Proverbs also includes material copied under Hezekiah (25:1), words of Agur (30:1), and words of Lemuel (31:1). This placement does not date every part of Proverbs to Solomon's reign.</string>
     <string name="chronology_include_deuterocanon">Include Deuterocanonical books</string>
     <string name="chronology_historical_flow">Historical flow</string>
     <string name="chronology_parallel_accounts">Parallel accounts</string>
@@ -427,6 +430,7 @@
     <string name="ui_chapters">Chapters</string>
     <string name="ui_verses">Verses</string>
     <string name="ui_choose_book">Choose a book</string>
+    <string name="ui_choose_bible_version">Choose Bible version</string>
     <string name="ui_previous_chapter">Previous chapter</string>
     <string name="ui_next_chapter">Next chapter</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>

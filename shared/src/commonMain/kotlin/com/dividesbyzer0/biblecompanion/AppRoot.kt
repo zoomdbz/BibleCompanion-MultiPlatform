@@ -406,6 +406,7 @@ fun AppRoot(
         if (
           savedReadingNowIdentity != null &&
           savedReadingNowIdentity == expectedIdentity &&
+          readingResumeCanRestoreSavedEdition(prefs) &&
           restoreRoute != null
         ) {
           // Home saves the Read graph. Restoring it retains BookScreen's
@@ -426,7 +427,11 @@ fun AppRoot(
             restoredBookId = restored?.arguments?.getString("bookId"),
             expectedCollection = col,
             expectedBookId = bookId
-          )
+          ) && BibleEditions.forNavigation(
+            prefs.appLanguage, prefs.internalBibleVersion,
+            restored?.arguments?.getString("sourceLang"),
+            restored?.arguments?.getString("sourceEdition")
+          ) == BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
         }
         if (!restoredReader) {
           // A failed restore can leave a saved Read alias behind. Expire it
@@ -434,9 +439,14 @@ fun AppRoot(
           expireSavedReadingNowState()
           // Cold start, changed language/edition, or an unrelated saved Read
           // destination: retain the established chapter-level resume route.
-          nav.navigate(Dest.BookView.route(col, bookId, prefs.lastReadStoryId,
-            sourceLang = prefs.lastReadSourceLanguage ?: "en",
-            sourceEdition = prefs.lastReadSourceEdition)) { launchSingleTop = true }
+          val resume = loadReadingResume(ctx, prefs)
+          nav.navigate(Dest.BookView.route(col, bookId, resume?.storyId,
+            verse = resume?.verse,
+            verseEnd = resume?.verseEnd,
+            sourceLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+            sourceEdition = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion))) {
+            launchSingleTop = true
+          }
         }
       }
     }
@@ -520,9 +530,12 @@ fun AppRoot(
       LocalInternalNavigate provides internalNavigate,
       LocalEditionNavigate provides editionNavigate
     ) {
+    val systemBarBackground = if (isApplePlatform()) Modifier
+      else Modifier.background(MaterialTheme.colorScheme.background)
     BoxWithConstraints(
       Modifier
         .fillMaxSize()
+        .then(systemBarBackground)
         .windowInsetsPadding(WindowInsets.safeDrawing)
     ) {
       val useNavigationRail = maxWidth >= 840.dp
@@ -854,6 +867,18 @@ fun AppRoot(
             initialRequestId = requestIdArg,
             linkedEditionUnavailable = linkedEditionUnavailable,
             autoStartTts = autoStartTtsArg,
+            onChangeBibleVersion = { editionId, targetStoryId, targetVerse, targetEnd ->
+              scope.launch {
+                repo.setInternalBibleVersion(editionId)
+                expireSavedReadingNowState()
+                nav.navigate(Dest.BookView.route(
+                  col, bookId, targetStoryId, targetVerse, targetEnd,
+                  sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
+                  sourceEdition = editionId,
+                  requestId = freshInternalReaderRequestId()
+                )) { launchSingleTop = true }
+              }
+            },
             onChooseBook = { nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
             onNavigateToBook = { nextCol, nextBookId, startTts ->
               val nextLoadedBook = ContentRepo.loadBookWithEdition(
@@ -2116,6 +2141,7 @@ fun BookScreen(
   linkedEditionUnavailable: Boolean = false,
   autoStartTts: Boolean = false,
   onChooseBook: () -> Unit = {},
+  onChangeBibleVersion: (String, String?, Int?, Int?) -> Unit,
   onNavigateToBook: ((col: String, bookId: String, autoStartTts: Boolean) -> Unit)? = null,
   onBack: () -> Unit
 ) {
@@ -2792,9 +2818,46 @@ fun BookScreen(
     ReaderAppearanceSheet(prefs = prefs, repo = repo, onDismiss = { showAppearance = false })
   }
   if (showChapters && book != null) {
-    ReaderChapterSheet(book = book, currentStoryId = currentStory?.id,
+    ReaderChapterSheet(book = book, appLanguage = effectiveLanguage,
+      selectedEdition = prefs.internalBibleVersion, currentStoryId = currentStory?.id,
       onDismiss = { showChapters = false },
       onChooseBook = { showChapters = false; onChooseBook() },
+      onChooseEdition = choose@{ editionId ->
+        if (editionId == BibleEditions.effective(effectiveLanguage, prefs.internalBibleVersion)) return@choose
+        val targetBook = ContentRepo.loadBookWithEdition(ctx, col, bookId, effectiveLanguage, editionId)
+          ?: return@choose
+        val sourceStoryId = viewportAnchorStoryId.takeIf { viewportHasVisibleVerse } ?: currentStory?.id
+        val sourceStory = book.stories.firstOrNull { it.id == sourceStoryId }
+        val sourceAnchor = sourceStory?.let { story ->
+          story.summaryBullets.getOrNull(viewportAnchorBullet)
+            ?.takeIf { viewportHasVisibleVerse }
+            ?.let { parseTrailingVerseAnchor(it, story.id, bookId)?.anchor }
+        }
+        val position = readerPositionForEdition(
+          book = targetBook.book,
+          storedStoryId = sourceStoryId,
+          sourceLanguage = effectiveLanguage,
+          targetLanguage = effectiveLanguage,
+          sourceEdition = activeEditionId,
+          targetEdition = targetBook.effectiveEdition,
+          sourceAnchor = sourceAnchor,
+          resolveAnchor = { anchor ->
+            EditionReferenceMaps.resolve(ctx, effectiveLanguage, bookId, activeEditionId,
+              targetBook.effectiveEdition, anchor)
+          }
+        )
+        // A reused reader entry must not keep speaking or selecting the old text.
+        chapterTtsPlaying = false
+        chapterTtsStoryId = null
+        chapterTtsPaused = false
+        sectionTtsKey = null
+        sectionTtsPaused = false
+        platformTtsStop(ctx)
+        selectedBullets = emptySet()
+        showChapters = false
+        cancelViewportRestoreForNavigation()
+        onChangeBibleVersion(editionId, position.storyId, position.verse, position.verseEnd)
+      },
       onIntro = {
         showChapters = false
         cancelViewportRestoreForNavigation()
@@ -2888,12 +2951,7 @@ fun BookScreen(
                 if (loadedBook != null && col in setOf("old_testament", "new_testament", "deuterocanonical")) {
                   // A source-reference link can deliberately open a different
                   // edition from the saved preference. Identify the actual text.
-                  val editionLabel = when (activeEditionId) {
-                    BibleEditions.BSB -> stringResource(Res.string.version_bsb)
-                    BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
-                    BibleEditions.defaultForLanguage(effectiveLanguage) -> stringResource(Res.string.version_local_modern)
-                    else -> stringResource(Res.string.version_local_traditional)
-                  }
+                  val editionLabel = bibleEditionLabel(effectiveLanguage, activeEditionId)
                   Text(
                     editionLabel,
                     style = MaterialTheme.typography.labelSmall,
@@ -5583,15 +5641,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
             color = MaterialTheme.colorScheme.onSurfaceVariant
           )
           var internalVersionExpanded by remember { mutableStateOf(false) }
-          val defaultInternalEdition = BibleEditions.defaultForLanguage(prefs.appLanguage)
-          val internalChoices = BibleEditions.available(prefs.appLanguage).map { id ->
-            id to when (id) {
-              BibleEditions.BSB -> stringResource(Res.string.version_bsb)
-              BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
-              defaultInternalEdition -> stringResource(Res.string.version_local_modern)
-              else -> stringResource(Res.string.version_local_traditional)
-            }
-          }
+          val internalChoices = bibleEditionOptions(prefs.appLanguage)
           val selectedInternalLabel = internalChoices
             .firstOrNull { it.first == BibleEditions.selectedForLanguage(prefs.appLanguage, prefs.internalBibleVersion) }
             ?.second ?: internalChoices.first().second

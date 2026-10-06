@@ -334,7 +334,10 @@
     <string name="edition_fallback">La edición seleccionada no está disponible para este libro; se muestra la edición predeterminada de la aplicación.</string>
 
     <string name="bible_chronology">Cronología bíblica</string>
-    <string name="chronology_intro">Esta guía sigue el tiempo descrito en las Escrituras, no el orden habitual de los libros ni necesariamente la fecha en que se escribió cada uno. Algunos libros abarcan o se superponen a varios períodos, y ciertas ubicaciones son objeto de debate. Toca un intervalo de capítulos para leerlo en la app.</string>
+    <string name="chronology_intro">Lee las entradas numeradas de arriba abajo. Esta guía sigue el contexto histórico y los acontecimientos descritos en las Escrituras, no el orden habitual de los libros ni la fecha en que se escribió cada uno. Los relatos paralelos cuentan el mismo período. Algunos libros abarcan varios períodos, y algunas ubicaciones siguen siendo inciertas. Toca un intervalo de capítulos para abrirlo en la aplicación.</string>
+    <string name="chronology_job_note">No se conoce la fecha exacta de Job. Esta guía lo sitúa entre Génesis 11 y 12 como una opción tradicional de lectura para la época de los patriarcas, no como una secuencia fechada que las Escrituras establezcan.</string>
+    <string name="chronology_judges_note">Rut transcurre en la época de los jueces (Rut 1:1). Lee aquí Josué, Jueces y Rut antes de pasar a Samuel.</string>
+    <string name="chronology_solomon_note">Lee Proverbios, Cantar de los Cantares y Eclesiastés junto al reinado de Salomón. Proverbios también incluye material copiado en tiempos de Ezequías (25:1), palabras de Agur (30:1) y palabras de Lemuel (31:1). Esta ubicación no fecha todas las partes de Proverbios en el reinado de Salomón.</string>
     <string name="chronology_include_deuterocanon">Incluir libros deuterocanónicos</string>
     <string name="chronology_historical_flow">Desarrollo histórico</string>
     <string name="chronology_parallel_accounts">Relatos paralelos</string>
@@ -394,6 +397,7 @@
     <string name="ui_chapters">Capítulos</string>
     <string name="ui_verses">Versículos</string>
     <string name="ui_choose_book">Elegir un libro</string>
+    <string name="ui_choose_bible_version">Elegir versión bíblica</string>
     <string name="ui_previous_chapter">Capítulo anterior</string>
     <string name="ui_next_chapter">Capítulo siguiente</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>

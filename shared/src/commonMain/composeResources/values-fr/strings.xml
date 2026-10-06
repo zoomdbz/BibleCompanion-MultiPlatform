@@ -335,7 +335,10 @@
     <string name="edition_fallback">L'édition sélectionnée n'est pas disponible pour ce livre ; l'édition intégrée par défaut est affichée.</string>
 
     <string name="bible_chronology">Chronologie biblique</string>
-    <string name="chronology_intro">Ce guide suit le temps décrit dans les Écritures, et non l'ordre habituel des livres ni nécessairement l'époque où chacun a été écrit. Certains livres couvrent plusieurs périodes ou se chevauchent, et quelques classements sont débattus. Touchez une plage de chapitres pour la lire dans l'application.</string>
+    <string name="chronology_intro">Lis les entrées numérotées de haut en bas. Ce guide suit le cadre historique et les événements décrits dans les Écritures, et non l'ordre habituel des livres ni leur date de rédaction. Les récits parallèles racontent la même période. Certains livres couvrent plusieurs périodes, et certains placements restent incertains. Appuie sur une plage de chapitres pour l'ouvrir dans l'application.</string>
+    <string name="chronology_job_note">La date exacte de Job est inconnue. Ce guide le place entre Genèse 11 et 12 selon un choix traditionnel de lecture pour l'époque des patriarches, et non selon une succession datée établie par les Écritures.</string>
+    <string name="chronology_judges_note">Ruth se déroule au temps des juges (Ruth 1:1). Lis ici Josué, Juges et Ruth avant de passer à Samuel.</string>
+    <string name="chronology_solomon_note">Lis Proverbes, Cantique des Cantiques et Ecclésiaste avec le règne de Salomon. Proverbes contient aussi des textes copiés sous Ézéchias (25:1), les paroles d'Agur (30:1) et celles de Lemuel (31:1). Ce placement ne date pas toutes les parties de Proverbes du règne de Salomon.</string>
     <string name="chronology_include_deuterocanon">Inclure les livres deutérocanoniques</string>
     <string name="chronology_historical_flow">Fil historique</string>
     <string name="chronology_parallel_accounts">Récits parallèles</string>
@@ -395,6 +398,7 @@
     <string name="ui_chapters">Chapitres</string>
     <string name="ui_verses">Versets</string>
     <string name="ui_choose_book">Choisir un livre</string>
+    <string name="ui_choose_bible_version">Choisir la version biblique</string>
     <string name="ui_previous_chapter">Chapitre précédent</string>
     <string name="ui_next_chapter">Chapitre suivant</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>

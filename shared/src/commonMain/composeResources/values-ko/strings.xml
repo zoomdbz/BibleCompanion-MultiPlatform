@@ -333,7 +333,10 @@
     <string name="version_local_traditional">개역한글 (대한성서공회, 1961)</string>
     <string name="edition_fallback">선택한 번역본은 이 책에서 사용할 수 없어 기본 앱 내 번역본을 표시합니다.</string>
     <string name="bible_chronology">성경 역사 연대표</string>
-    <string name="chronology_intro">이 안내는 일반적인 책 순서나 각 책이 기록된 시기가 아니라 성경에 묘사된 사건의 흐름을 따릅니다. 여러 시대에 걸치거나 서로 겹치는 책이 있으며, 일부 배치에는 이견이 있습니다. 장 범위를 탭하면 앱 안에서 읽을 수 있습니다.</string>
+    <string name="chronology_intro">번호가 붙은 항목을 위에서 아래로 읽으세요. 이 안내는 일반적인 성경 책 순서나 각 책의 집필 시기가 아니라, 성경에 기록된 역사적 배경과 사건을 따릅니다. 병행 기록은 같은 시기의 사건을 다시 전합니다. 여러 시기에 걸친 책도 있고, 정확한 위치가 불확실한 책도 있습니다. 장 범위를 누르면 앱 안에서 열립니다.</string>
+    <string name="chronology_job_note">욥의 정확한 연대는 알려져 있지 않습니다. 이 안내는 족장 시대를 읽는 전통적인 순서의 하나로 욥기를 창세기 11장과 12장 사이에 놓습니다. 성경이 연대를 명시하여 정한 순서는 아닙니다.</string>
+    <string name="chronology_judges_note">룻기의 사건은 사사 시대에 일어났습니다(룻기 1:1). 여기서 여호수아, 사사기, 룻기를 읽은 뒤 사무엘서로 넘어가세요.</string>
+    <string name="chronology_solomon_note">잠언, 아가, 전도서는 솔로몬의 통치와 함께 읽으세요. 잠언에는 히스기야 시대에 베껴 쓴 말씀(25:1), 아굴의 말(30:1), 르무엘의 말(31:1)도 들어 있습니다. 이 배치가 잠언의 모든 부분을 솔로몬의 통치 시기로 정하는 것은 아닙니다.</string>
   <string name="chronology_include_deuterocanon">제2경전을 포함</string>
     <string name="chronology_historical_flow">역사 흐름</string>
     <string name="chronology_parallel_accounts">병행 기록</string>
@@ -393,6 +396,7 @@
     <string name="ui_chapters">장</string>
     <string name="ui_verses">절</string>
     <string name="ui_choose_book">책 선택</string>
+    <string name="ui_choose_bible_version">성경 번역본 선택</string>
     <string name="ui_previous_chapter">이전 장</string>
     <string name="ui_next_chapter">다음 장</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>

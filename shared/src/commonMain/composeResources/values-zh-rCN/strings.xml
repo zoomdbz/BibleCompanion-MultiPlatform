@@ -333,7 +333,10 @@
     <string name="version_local_traditional">新标点和合本</string>
     <string name="edition_fallback">所选版本不包含本书，现显示默认的应用内版本。</string>
     <string name="bible_chronology">圣经历史年表</string>
-    <string name="chronology_intro">本指南按照圣经所记述的事件时间编排，而不是通常的书卷顺序，也不一定是各卷写成的时间。有些书卷横跨或重叠多个时期，部分年代位置也存在争议。点击章节范围即可在应用内阅读。</string>
+    <string name="chronology_intro">请按编号从上往下阅读。本指南遵循圣经所记载的历史背景和事件，而不是通常的书卷顺序，也不是各卷的写作日期。平行记载会重述同一时期的事件。有些书卷跨越多个时期，有些位置仍无法确定。点击章节范围即可在应用内打开。</string>
+    <string name="chronology_job_note">约伯的确切年代不详。本指南把约伯记放在创世记11章和12章之间，作为阅读族长时代的一种传统安排，并非圣经明确列出的年代顺序。</string>
+    <string name="chronology_judges_note">路得记的事件发生在士师时代（路得记1:1）。请在这里依次阅读约书亚记、士师记和路得记，再进入撒母耳记。</string>
+    <string name="chronology_solomon_note">请把箴言、雅歌和传道书与所罗门统治的记载一起阅读。箴言也包含希西家时期抄录的内容（25:1）、亚古珥的话（30:1）和利慕伊勒的话（31:1）。这样的安排并不表示箴言的每一部分都来自所罗门统治时期。</string>
     <string name="chronology_include_deuterocanon">包括次经</string>
     <string name="chronology_historical_flow">历史脉络</string>
     <string name="chronology_parallel_accounts">平行记载</string>
@@ -393,6 +396,7 @@
     <string name="ui_chapters">章节</string>
     <string name="ui_verses">经节</string>
     <string name="ui_choose_book">选择书卷</string>
+    <string name="ui_choose_bible_version">选择圣经版本</string>
     <string name="ui_previous_chapter">上一章</string>
     <string name="ui_next_chapter">下一章</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>

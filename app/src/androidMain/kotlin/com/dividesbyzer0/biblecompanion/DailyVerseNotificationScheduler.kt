@@ -1,7 +1,6 @@
 package com.dividesbyzer0.biblecompanion
 
 import android.Manifest
-import android.app.Activity
 import android.app.AlarmManager
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -17,9 +16,13 @@ import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import android.widget.TextView
+import androidx.activity.ComponentActivity
+import androidx.activity.enableEdgeToEdge
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 import androidx.core.content.ContextCompat
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import java.util.Calendar
 import java.util.concurrent.Executors
 import java.util.concurrent.atomic.AtomicLong
@@ -181,15 +184,25 @@ class DailyVerseNotificationReceiver : BroadcastReceiver() {
 }
 
 /** Non-exported foreground action: Android restricts background clipboard access. */
-class CopyDailyVerseActivity : Activity() {
+class CopyDailyVerseActivity : ComponentActivity() {
     private var copied = false
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(TextView(this).apply {
+        enableEdgeToEdge()
+        val message = TextView(this).apply {
             text = intent.getStringExtra("copied").orEmpty()
             textSize = 18f
             setPadding(32, 48, 32, 48)
-        })
+        }
+        ViewCompat.setOnApplyWindowInsetsListener(message) { view, insets ->
+            val safe = insets.getInsets(
+                WindowInsetsCompat.Type.systemBars() or WindowInsetsCompat.Type.displayCutout()
+            )
+            view.setPadding(32 + safe.left, 48 + safe.top, 32 + safe.right, 48 + safe.bottom)
+            insets
+        }
+        setContentView(message)
+        ViewCompat.requestApplyInsets(message)
     }
 
     override fun onWindowFocusChanged(hasFocus: Boolean) {

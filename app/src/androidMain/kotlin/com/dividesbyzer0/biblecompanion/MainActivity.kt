@@ -3,16 +3,23 @@ package com.dividesbyzer0.biblecompanion
 import android.os.Bundle
 import android.Manifest
 import android.content.Intent
+import android.graphics.Color
 import android.os.Build
 import android.provider.Settings
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.activity.SystemBarStyle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.core.os.LocaleListCompat
+import androidx.core.view.WindowCompat
 import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.launch
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
@@ -111,6 +118,27 @@ class MainActivity : AppCompatActivity() {
         publishNavigationIntent(intent, newEvent = savedInstanceState == null)
 
         setContent {
+            val prefs by repo.flow.collectAsState(init)
+            val dark = when (prefs.theme.lowercase()) {
+                "dark" -> true
+                "light" -> false
+                else -> isSystemInDarkTheme()
+            }
+            // The app theme can differ from the device's night mode. Older
+            // Android versions also need their navigation-bar scrim refreshed.
+            LaunchedEffect(dark) {
+                if (Build.VERSION.SDK_INT < 35) {
+                    enableEdgeToEdge(
+                        statusBarStyle = SystemBarStyle.auto(Color.TRANSPARENT, Color.TRANSPARENT) { dark },
+                        navigationBarStyle = SystemBarStyle.auto(Color.TRANSPARENT, Color.BLACK) { dark }
+                    )
+                }
+                // Do not recreate Android 15's protection layout on theme changes.
+                WindowCompat.getInsetsController(window, window.decorView).apply {
+                    isAppearanceLightStatusBars = !dark
+                    isAppearanceLightNavigationBars = !dark
+                }
+            }
             val shortcutEvent = shortcutEventState.value
             val deepLinkEvent = deepLinkEventState.value
             CompositionLocalProvider(LocalPlatformContext provides this@MainActivity) {

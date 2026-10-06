@@ -7,13 +7,17 @@ import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Check
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.semantics.selected
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import org.jetbrains.compose.resources.stringResource
 
@@ -22,9 +26,12 @@ import org.jetbrains.compose.resources.stringResource
 @Composable
 internal fun ReaderChapterSheet(
     book: Book,
+    appLanguage: String,
+    selectedEdition: String,
     currentStoryId: String?,
     onDismiss: () -> Unit,
     onChooseBook: () -> Unit,
+    onChooseEdition: (String) -> Unit,
     onIntro: () -> Unit,
     onOpenStory: (String, Int?) -> Unit
 ) {
@@ -36,6 +43,9 @@ internal fun ReaderChapterSheet(
             ?: chapters.firstOrNull() ?: 1)
     }
     var menuOpen by remember { mutableStateOf(false) }
+    var editionMenuOpen by remember { mutableStateOf(false) }
+    val editionOptions = bibleEditionOptions(appLanguage)
+    val selectedEditionId = BibleEditions.effective(appLanguage, selectedEdition)
     val story = book.stories.firstOrNull { it.id == index.byChapter[chapter] }
     val verses = remember(story, chapter) {
         versePickerNumbers(story?.summaryBullets.orEmpty(), chapter, story?.id, book.id)
@@ -45,7 +55,31 @@ internal fun ReaderChapterSheet(
         Column(Modifier.fillMaxWidth().verticalScroll(rememberScrollState())
             .padding(horizontal = 20.dp).padding(bottom = 16.dp)) {
             Text(book.title, style = MaterialTheme.typography.headlineSmall)
-            TextButton(onClick = onChooseBook) { Text(stringResource(Res.string.ui_choose_book)) }
+            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                Box(Modifier.weight(1f), contentAlignment = Alignment.CenterStart) {
+                    TextButton(onClick = onChooseBook) { Text(stringResource(Res.string.ui_choose_book)) }
+                }
+                Box(Modifier.weight(1f), contentAlignment = Alignment.CenterEnd) {
+                    TextButton(onClick = { editionMenuOpen = true }) {
+                        Text(stringResource(Res.string.ui_choose_bible_version), textAlign = TextAlign.End)
+                    }
+                    DropdownMenu(expanded = editionMenuOpen, onDismissRequest = { editionMenuOpen = false }) {
+                        editionOptions.forEach { (id, label) ->
+                            DropdownMenuItem(
+                                text = { Text(label) },
+                                leadingIcon = {
+                                    if (id == selectedEditionId) Icon(Icons.Filled.Check, contentDescription = null)
+                                },
+                                modifier = Modifier.semantics { selected = id == selectedEditionId },
+                                onClick = {
+                                    editionMenuOpen = false
+                                    onChooseEdition(id)
+                                }
+                            )
+                        }
+                    }
+                }
+            }
             SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
                 SegmentedButton(selected = !verseTab, onClick = { verseTab = false },
                     shape = SegmentedButtonDefaults.itemShape(0, 2)) {

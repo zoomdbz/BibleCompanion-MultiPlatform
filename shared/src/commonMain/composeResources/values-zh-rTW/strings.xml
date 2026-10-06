@@ -333,7 +333,10 @@
     <string name="version_local_traditional">新標點和合本</string>
     <string name="edition_fallback">所選版本不包含本書，目前顯示預設的應用程式內版本。</string>
     <string name="bible_chronology">聖經歷史年表</string>
-    <string name="chronology_intro">本指南按照聖經所記述的事件時間編排，而不是通常的書卷順序，也不一定是各卷寫成的時間。有些書卷橫跨或重疊多個時期，部分年代位置也存在爭議。輕觸章節範圍即可在應用程式內閱讀。</string>
+    <string name="chronology_intro">請按編號從上往下閱讀。本指南遵循聖經所記載的歷史背景和事件，而不是通常的書卷順序，也不是各卷的寫作日期。平行記載會重述同一時期的事件。有些書卷跨越多個時期，有些位置仍無法確定。點選章節範圍即可在應用程式內開啟。</string>
+    <string name="chronology_job_note">約伯的確切年代不詳。本指南把約伯記放在創世記11章和12章之間，作為閱讀族長時代的一種傳統安排，並非聖經明確列出的年代順序。</string>
+    <string name="chronology_judges_note">路得記的事件發生在士師時代（路得記1:1）。請在這裡依序閱讀約書亞記、士師記和路得記，再進入撒母耳記。</string>
+    <string name="chronology_solomon_note">請把箴言、雅歌和傳道書與所羅門統治的記載一起閱讀。箴言也包含希西家時期抄錄的內容（25:1）、亞古珥的話（30:1）和利慕伊勒的話（31:1）。這樣的安排並不表示箴言的每一部分都來自所羅門統治時期。</string>
     <string name="chronology_include_deuterocanon">包括次經</string>
     <string name="chronology_historical_flow">歷史脈絡</string>
     <string name="chronology_parallel_accounts">平行記載</string>
@@ -393,6 +396,7 @@
     <string name="ui_chapters">章節</string>
     <string name="ui_verses">經節</string>
     <string name="ui_choose_book">選擇書卷</string>
+    <string name="ui_choose_bible_version">選擇聖經版本</string>
     <string name="ui_previous_chapter">上一章</string>
     <string name="ui_next_chapter">下一章</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>

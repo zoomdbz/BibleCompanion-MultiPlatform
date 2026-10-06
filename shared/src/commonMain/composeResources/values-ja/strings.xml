@@ -333,7 +333,10 @@
     <string name="version_local_traditional">文語訳聖書</string>
     <string name="edition_fallback">選択した版はこの書では利用できないため、アプリ内の既定の版を表示しています。</string>
     <string name="bible_chronology">聖書の歴史年表</string>
-    <string name="chronology_intro">このガイドは、通常の書巻順や各書が書かれた時期ではなく、聖書に記された出来事の流れに沿っています。複数の時代にまたがる書や重なり合う書があり、年代上の位置について見解が分かれるものもあります。章の範囲をタップするとアプリ内で読めます。</string>
+    <string name="chronology_intro">番号の付いた項目を上から順に読んでください。このガイドは、通常の書巻の順序や各書巻の執筆時期ではなく、聖書に記された歴史的背景と出来事に沿っています。並行する記述は、同じ時期の出来事を伝えています。複数の時期にまたがる書巻や、位置づけが確定していない書巻もあります。章の範囲をタップすると、アプリ内で開きます。</string>
+    <string name="chronology_job_note">ヨブの正確な年代は不明です。このガイドでは、族長時代について読む伝統的な順序の一つとして、ヨブ記を創世記11章と12章の間に置いています。聖書が年代順にそう定めているわけではありません。</string>
+    <string name="chronology_judges_note">ルツ記の出来事は士師の時代に起こりました（ルツ記1:1）。ここでヨシュア記、士師記、ルツ記を読み、その後でサムエル記へ進んでください。</string>
+    <string name="chronology_solomon_note">箴言、雅歌、伝道者の書は、ソロモンの治世とともに読んでください。箴言には、ヒゼキヤの時代に書き写されたことば（25:1）、アグルのことば（30:1）、レムエルのことば（31:1）も含まれます。この配置は、箴言のすべての部分をソロモンの治世に年代づけるものではありません。</string>
     <string name="chronology_include_deuterocanon">第二正典を含める</string>
     <string name="chronology_historical_flow">歴史の流れ</string>
     <string name="chronology_parallel_accounts">並行する記録</string>
@@ -393,6 +396,7 @@
     <string name="ui_chapters">章</string>
     <string name="ui_verses">節</string>
     <string name="ui_choose_book">書巻を選択</string>
+    <string name="ui_choose_bible_version">聖書の訳を選択</string>
     <string name="ui_previous_chapter">前の章</string>
     <string name="ui_next_chapter">次の章</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>
