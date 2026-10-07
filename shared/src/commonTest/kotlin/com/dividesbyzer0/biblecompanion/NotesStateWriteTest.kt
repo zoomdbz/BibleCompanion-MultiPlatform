@@ -67,7 +67,9 @@ class NotesStateWriteTest {
 
     gate.complete(Unit)
 
-    assertEquals(failure, observed)
+    // Stack-trace recovery may copy the exception while preserving its failure.
+    assertTrue(observed is IllegalStateException)
+    assertEquals(failure.message, observed?.message)
     assertTrue(parent.isCancelled)
     assertTrue(write.isCompleted)
   }
