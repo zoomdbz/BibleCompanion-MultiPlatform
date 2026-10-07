@@ -1,21 +1,36 @@
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+import org.jetbrains.kotlin.gradle.plugin.mpp.DisableCacheInKotlinVersion
+import org.jetbrains.kotlin.gradle.plugin.mpp.KotlinNativeCacheApi
 
 plugins {
-  id("com.android.library")
+  id("com.android.kotlin.multiplatform.library")
   id("org.jetbrains.kotlin.multiplatform")
   id("org.jetbrains.kotlin.plugin.compose")
   id("org.jetbrains.kotlin.plugin.serialization")
   id("org.jetbrains.compose")
 }
 
+@OptIn(KotlinNativeCacheApi::class)
 kotlin {
   compilerOptions {
     freeCompilerArgs.add("-Xexpect-actual-classes")
   }
 
-  androidTarget {
+  android {
+    namespace = "com.dividesbyzer0.biblecompanion.shared"
+    compileSdk = 36
+    minSdk = 24
+
     compilerOptions {
       jvmTarget.set(JvmTarget.JVM_17)
+    }
+
+    // Keep commonTest runnable for the Android target after the Android-KMP
+    // plugin's opt-in test migration.
+    withHostTest {}
+
+    androidResources {
+      enable = true
     }
   }
 
@@ -27,6 +42,12 @@ kotlin {
     target.binaries.framework {
       baseName = "shared"
       isStatic = true
+      // These existing Compose libraries predate Kotlin 2.1. Keep their APIs
+      // unchanged while using Compose 1.9's documented native-cache workaround.
+      disableNativeCache(
+        version = DisableCacheInKotlinVersion.`2_3_20`,
+        reason = "Navigation, Reorderable and extended icons use pre-Kotlin 2.1 Compose libraries."
+      )
     }
   }
 
@@ -68,18 +89,3 @@ compose.resources {
   packageOfResClass = "com.dividesbyzer0.biblecompanion"
   generateResClass = always
 }
-
-android {
-  namespace = "com.dividesbyzer0.biblecompanion.shared"
-  compileSdk = 36
-
-  defaultConfig {
-    minSdk = 24
-  }
-
-  compileOptions {
-    sourceCompatibility = JavaVersion.VERSION_17
-    targetCompatibility = JavaVersion.VERSION_17
-  }
-}
-

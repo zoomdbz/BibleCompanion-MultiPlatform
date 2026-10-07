@@ -1,36 +1,23 @@
 plugins {
   id("com.android.application")
-  id("org.jetbrains.kotlin.multiplatform")
   id("org.jetbrains.kotlin.plugin.compose")
   id("org.jetbrains.compose")
 }
 
 android.assetPacks += listOf(":embedding-assets")
 
-kotlin {
-  androidTarget {
-    compilerOptions {
-      jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
-    }
-  }
-
-  sourceSets {
-    androidMain.dependencies {
-      implementation(project(":shared"))
-      implementation(compose.runtime)
-      implementation(compose.foundation)
-      implementation(compose.material3)
-      // Includes Android 15 system-bar protection and cutout handling.
-      implementation("androidx.activity:activity-compose:1.12.4")
-      implementation("androidx.appcompat:appcompat:1.7.0")
-      implementation("androidx.core:core-ktx:1.13.1")
-      // Use the stable Android 15-compatible Material Views release.
-      implementation("com.google.android.material:material:1.13.0")
-      implementation("androidx.glance:glance-appwidget:1.1.1")
-      implementation("androidx.glance:glance-material3:1.1.1")
-      implementation("androidx.datastore:datastore-preferences:1.1.1")
-    }
-  }
+dependencies {
+  implementation(project(":shared"))
+  implementation(compose.runtime)
+  implementation(compose.foundation)
+  implementation(compose.material3)
+  // Includes Android 15 system-bar protection and cutout handling.
+  implementation("androidx.activity:activity-compose:1.12.4")
+  implementation("androidx.appcompat:appcompat:1.7.0")
+  implementation("androidx.core:core-ktx:1.13.1")
+  implementation("androidx.glance:glance-appwidget:1.1.1")
+  implementation("androidx.glance:glance-material3:1.1.1")
+  implementation("androidx.datastore:datastore-preferences:1.1.1")
 }
 
 android {
@@ -39,6 +26,9 @@ android {
 
   sourceSets {
     getByName("main") {
+      kotlin.srcDirs("src/androidMain/kotlin")
+      res.srcDirs("src/androidMain/res")
+      manifest.srcFile("src/androidMain/AndroidManifest.xml")
       assets.srcDirs("../shared/assets")
     }
     getByName("debug") {
@@ -50,8 +40,8 @@ android {
     applicationId = "com.dividesbyzer0.biblecompanion"
     minSdk = 24
     targetSdk = 36
-    versionCode = 49
-    versionName = "4.9.0"
+    versionCode = 50
+    versionName = "5.0.0"
     vectorDrawables.useSupportLibrary = true
     ndk {
       abiFilters += listOf("arm64-v8a", "x86_64")

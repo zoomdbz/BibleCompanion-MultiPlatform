@@ -96,10 +96,23 @@ class EdgeToEdgeContracts(unittest.TestCase):
         self.assertIn("setPrimaryClip(", copy)
         self.assertIn("ClipData.newPlainText", copy)
 
-    def test_android_dependencies_include_api_35_protection_and_stable_material(self):
+    def test_android_dependencies_keep_api_35_protection_without_unused_material_views(self):
         text = (ROOT / "app/build.gradle.kts").read_text(encoding="utf-8")
         self.assertIn('implementation("androidx.activity:activity-compose:1.12.4")', text)
-        self.assertIn('implementation("com.google.android.material:material:1.13.0")', text)
+        self.assertNotIn('com.google.android.material:material:', text)
+        self.assertIn('implementation(compose.material3)', text)
+        theme = ET.parse(ANDROID / "res/values/themes.xml")
+        self.assertEqual(
+            "Theme.AppCompat.DayNight.NoActionBar",
+            theme.find("style[@name='Theme.BibleCompanion']").get("parent"),
+        )
+        for folder in (KOTLIN, COMMON):
+            for path in folder.rglob("*.kt"):
+                with self.subTest(path=path.relative_to(ROOT)):
+                    self.assertNotRegex(
+                        path.read_text(encoding="utf-8"),
+                        r"(?m)^\s*import\s+com\.google\.android\.material\.",
+                    )
         self.assertIn("compileSdk = 36", text)
         self.assertIn("targetSdk = 36", text)
         self.assertIn("minSdk = 24", text)
