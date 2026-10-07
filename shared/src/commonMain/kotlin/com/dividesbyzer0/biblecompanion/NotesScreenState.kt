@@ -10,6 +10,18 @@ import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.CoroutineStart
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.NonCancellable
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+
+/** Begin before screen disposal; protect only the write, not the child job. */
+internal fun CoroutineScope.launchNoteStateWrite(write: suspend () -> Unit): Job =
+  launch(start = CoroutineStart.UNDISPATCHED) {
+    withContext(NonCancellable) { write() }
+  }
 
 @Serializable
 internal data class NotesScreenState(

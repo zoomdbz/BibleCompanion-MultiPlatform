@@ -1,6 +1,5 @@
 package com.dividesbyzer0.biblecompanion.platform
 
-import androidx.compose.ui.graphics.Color
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.min

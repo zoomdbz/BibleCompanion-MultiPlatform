@@ -15,7 +15,7 @@ class HomeContracts(unittest.TestCase):
     def setUpClass(cls):
         cls.app = (COMMON / "AppRoot.kt").read_text(encoding="utf-8")
         cls.home = cls.app.split("fun HomeScreen(", 1)[1].split(
-            "@Composable\nprivate fun SearchSectionHeader", 1
+            "private data class HomeStudyTile", 1
         )[0]
 
     def test_about_is_the_last_home_item_outside_collapsible_study(self):

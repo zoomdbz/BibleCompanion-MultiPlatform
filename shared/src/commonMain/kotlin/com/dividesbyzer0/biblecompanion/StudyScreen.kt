@@ -26,7 +26,7 @@ import androidx.compose.material.icons.automirrored.filled.MenuBook
 import androidx.compose.material.icons.filled.AutoAwesome
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.CalendarMonth
-import androidx.compose.material.icons.filled.EventNote
+import androidx.compose.material.icons.automirrored.filled.EventNote
 import androidx.compose.material.icons.filled.FamilyRestroom
 import androidx.compose.material.icons.filled.Gavel
 import androidx.compose.material.icons.filled.HistoryEdu
@@ -123,7 +123,7 @@ private val studyGroups = listOf(
       ),
       StudyDestination(
         Res.string.ordained_feasts_heading,
-        Icons.Filled.EventNote,
+        Icons.AutoMirrored.Filled.EventNote,
         destination = Dest.OrdainedFeasts,
         tone = StudyIconTone.Primary
       ),
@@ -139,7 +139,7 @@ private val studyGroups = listOf(
       StudyDestination(Res.string.prophecy_astronomical, Icons.Filled.Lightbulb, Dest.AstronomicalSigns, StudyIconTone.Primary),
       StudyDestination(Res.string.prophecy_revelation, Icons.AutoMirrored.Filled.MenuBook, Dest.RevelationOverview, StudyIconTone.Secondary),
       StudyDestination(Res.string.prophecy_revelation_timeline, Icons.Filled.Timeline, Dest.RevelationTimeline, StudyIconTone.Tertiary),
-      StudyDestination(Res.string.prophecy_second_coming_rapture, Icons.Filled.EventNote, Dest.SecondComingRapture, StudyIconTone.Primary)
+      StudyDestination(Res.string.prophecy_second_coming_rapture, Icons.AutoMirrored.Filled.EventNote, Dest.SecondComingRapture, StudyIconTone.Primary)
     )
   ),
   StudyGroup(

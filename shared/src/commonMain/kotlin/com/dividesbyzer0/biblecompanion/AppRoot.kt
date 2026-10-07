@@ -4,7 +4,6 @@ import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.animateContentSize
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.FastOutSlowInEasing
-import androidx.compose.animation.core.LinearEasing
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
@@ -40,8 +39,6 @@ import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.input.nestedscroll.nestedScroll
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
-import kotlinx.coroutines.CoroutineStart
-import kotlinx.coroutines.NonCancellable
 import kotlinx.coroutines.withContext
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListState
@@ -65,7 +62,7 @@ import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.ContentCopy
 import androidx.compose.material.icons.filled.ExpandMore
-import androidx.compose.material.icons.filled.EventNote
+import androidx.compose.material.icons.automirrored.filled.EventNote
 import androidx.compose.material.icons.filled.FamilyRestroom
 import androidx.compose.material.icons.filled.FormatColorFill
 import androidx.compose.material.icons.filled.Gavel
@@ -102,8 +99,6 @@ import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
-import androidx.compose.material3.ElevatedButton
-import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.TimeInput
 import androidx.compose.material3.rememberTimePickerState
@@ -144,7 +139,6 @@ import androidx.compose.runtime.mutableStateMapOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
-import androidx.compose.runtime.snapshots.SnapshotStateList
 import androidx.compose.runtime.toMutableStateList
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
@@ -171,12 +165,10 @@ import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
-import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.onSizeChanged
 import androidx.compose.ui.layout.positionInRoot
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import androidx.navigation.NavType
 import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.compose.NavHost
@@ -209,7 +201,7 @@ import com.dividesbyzer0.biblecompanion.platform.platformSetAppLocale
 import com.dividesbyzer0.biblecompanion.platform.platformDynamicColorScheme
 import com.dividesbyzer0.biblecompanion.platform.platformSupportsDynamicColor
 import kotlinx.coroutines.delay
-import kotlinx.coroutines.flow.collect
+import kotlin.time.Duration.Companion.milliseconds
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.first
@@ -597,7 +589,7 @@ fun AppRoot(
           )
           LaunchedEffect(pendingSearchFocus) {
             if (pendingSearchFocus) {
-              delay(500)
+              delay(500.milliseconds)
               pendingSearchFocus = false
             }
           }
@@ -1016,54 +1008,7 @@ private fun OnboardingOverlay(onComplete: () -> Unit) {
 
 // --------------- Screens ----------------
 
-@Composable
-private fun HomeWideButton(text: String, modifier: Modifier = Modifier, enabled: Boolean = true, onClick: () -> Unit) {
-  Button(onClick = onClick, enabled = enabled, modifier = modifier.height(56.dp), shape = RoundedCornerShape(24.dp)) {
-    AutoSizeOneLineText(text = text, maxFontSizeSp = 16f, minFontSizeSp = 11f)
-  }
-}
-
-@Composable
-private fun HomePill(text: String, modifier: Modifier = Modifier, enabled: Boolean = true, onClick: () -> Unit) {
-  FilledTonalButton(
-    onClick = onClick,
-    enabled = enabled,
-    modifier = modifier.height(44.dp),
-    shape = RoundedCornerShape(28.dp),
-    contentPadding = PaddingValues(horizontal = 12.dp, vertical = 8.dp)
-  ) { AutoSizeOneLineText(text = text, maxFontSizeSp = 14f, minFontSizeSp = 11f) }
-}
-
-@Composable
-private fun AutoSizeOneLineText(
-  modifier: Modifier = Modifier,
-  text: String,
-  maxFontSizeSp: Float,
-  minFontSizeSp: Float = 11f,
-  stepSp: Float = 0.5f,
-  baseStyle: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.labelLarge
-) {
-  var size by remember(text, maxFontSizeSp) { mutableFloatStateOf(maxFontSizeSp) }
-  Text(
-    text = text,
-    maxLines = 1,
-    softWrap = false,
-    overflow = TextOverflow.Clip,
-    textAlign = TextAlign.Center,
-    style = baseStyle.copy(fontSize = size.sp),
-    modifier = modifier.fillMaxWidth(),
-    onTextLayout = { result ->
-      if (result.didOverflowWidth && size > minFontSizeSp) {
-        size = (size - stepSp).coerceAtLeast(minFontSizeSp)
-      }
-    }
-  )
-}
-
-@OptIn(
-  ExperimentalMaterial3Api::class,
-  androidx.compose.foundation.layout.ExperimentalLayoutApi::class
-)
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun HomeScreen(
   prefs: PrefsState,
@@ -1109,7 +1054,7 @@ fun HomeScreen(
     if (navBusy) return
     navBusy = true
     action()
-    scope.launch { delay(350); navBusy = false }
+    scope.launch { delay(350.milliseconds); navBusy = false }
   }
 
   var query by remember { mutableStateOf("") }
@@ -1123,7 +1068,7 @@ fun HomeScreen(
 
   LaunchedEffect(requestSearchFocus) {
     if (requestSearchFocus) {
-      delay(120)
+      delay(120.milliseconds)
       runCatching { searchFocusRequester.requestFocus() }
     }
   }
@@ -1181,14 +1126,13 @@ fun HomeScreen(
       LaunchedEffect(ttsPlaying) {
         if (ttsPlaying) {
           // Wait for TTS engine to start speaking (init can be slow)
-          var started = false
-          for (i in 0..39) {
-            delay(250)
+          val started = (0 until 40).any {
+            delay(250.milliseconds)
             if (!ttsPlaying) return@LaunchedEffect
-            if (platformTtsIsSpeaking(ctx)) { started = true; break }
+            platformTtsIsSpeaking(ctx)
           }
           if (started) {
-            while (platformTtsIsSpeaking(ctx)) { delay(500) }
+            while (platformTtsIsSpeaking(ctx)) { delay(500.milliseconds) }
           }
           ttsPlaying = false
         }
@@ -1248,7 +1192,7 @@ fun HomeScreen(
                   // running semantic search idle-only
                   // keeps the keyword path snappy and the semantic merge
                   // only kicks in when the user pauses.
-                  delay(220)
+                  delay(220.milliseconds)
                   if (!StorySearch.isReady(prefs.appLanguage, prefs.internalBibleVersion)) {
                     indexReady = false
                     withContext(Dispatchers.Default) {
@@ -1287,7 +1231,7 @@ fun HomeScreen(
                     hadSemantic = true
                     // Idle gate: wait additional time after keyword shows.
                     // If user types again, gen advances and we exit early.
-                    delay(450)
+                    delay(450.milliseconds)
                     if (gen != searchGen) return@launch
                     if (!platformOnnxIsReady()) {
                       val tOnnx0 = currentTimeMillis()
@@ -1653,7 +1597,7 @@ fun HomeScreen(
                   entries = listOf(
                     HomeStudyTile(stringResource(Res.string.feast_calendar), Icons.Filled.CalendarMonth, StudyIconTone.Tertiary) { safeNav { onFeastCalendar() } },
                     HomeStudyTile(stringResource(Res.string.feast_about_heading), Icons.Filled.Info, StudyIconTone.Secondary) { safeNav { onNavigateRoute(Dest.AboutCalendars.route) } },
-                    HomeStudyTile(stringResource(Res.string.ordained_feasts_heading), Icons.Filled.EventNote, StudyIconTone.Primary) { safeNav { onNavigateRoute(Dest.OrdainedFeasts.route) } },
+                    HomeStudyTile(stringResource(Res.string.ordained_feasts_heading), Icons.AutoMirrored.Filled.EventNote, StudyIconTone.Primary) { safeNav { onNavigateRoute(Dest.OrdainedFeasts.route) } },
                     HomeStudyTile(stringResource(Res.string.torah_feasts_and_gentiles), Icons.AutoMirrored.Filled.MenuBook, StudyIconTone.Primary) { safeNav { onTorahFeastsAndGentiles() } }
                   )
                 )
@@ -1717,18 +1661,6 @@ fun HomeScreen(
   }
 }
 
-@Composable
-private fun SearchSectionHeader(icon: androidx.compose.ui.graphics.vector.ImageVector, label: String) {
-  Row(
-    Modifier.padding(horizontal = 8.dp, vertical = 4.dp),
-    verticalAlignment = Alignment.CenterVertically
-  ) {
-    Icon(icon, contentDescription = null, modifier = Modifier.size(14.dp), tint = MaterialTheme.colorScheme.primary)
-    Spacer(Modifier.width(6.dp))
-    Text(label, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.primary)
-  }
-}
-
 private data class HomeStudyTile(
   val text: String,
   val icon: androidx.compose.ui.graphics.vector.ImageVector,
@@ -1736,7 +1668,6 @@ private data class HomeStudyTile(
   val onClick: () -> Unit
 )
 
-@OptIn(androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
 private fun HomeStudyGroup(
   title: String,
@@ -1903,8 +1834,8 @@ private fun highlightSearchSnippet(
         val inJ = jesusColor != null && jRanges.any { it.first <= r.first && r.last <= it.last }
         val inDn = dnColor != null && dnRanges.any { it.first <= r.first && r.last <= it.last }
         val color = when {
-          inDn -> dnColor!!
-          inJ -> jesusColor!!
+          inDn -> dnColor
+          inJ -> jesusColor
           else -> MaterialTheme.colorScheme.primary
         }
         addStyle(SpanStyle(fontWeight = FontWeight.Bold, color = color), r.first, r.last + 1)
@@ -2438,7 +2369,7 @@ fun BookScreen(
       book.stories.isNotEmpty()
     ) {
       consumedAutoStartTtsIdentity = autoStartTtsIdentity
-      delay(400)
+      delay(400.milliseconds)
       chapterTtsStoryId = resolvedStoryId?.takeIf { target -> book.stories.any { it.id == target } }
         ?: firstReaderChapterId(book)
       chapterTtsPlaying = true
@@ -2476,15 +2407,14 @@ fun BookScreen(
 
     val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
     platformTtsStop(ctx)
-    delay(150)
+    delay(150.milliseconds)
     platformTtsSpeak(ctx, text, lang)
 
     // Wait for speech to start (up to 10s)
-    var started = false
-    for (i in 0..39) {
-      delay(250)
+    val started = (0 until 40).any {
+      delay(250.milliseconds)
       if (!chapterTtsPlaying) return@LaunchedEffect
-      if (platformTtsIsSpeaking(ctx)) { started = true; break }
+      platformTtsIsSpeaking(ctx)
     }
 
     // Wait for speech to finish. Treat "paused" as still-in-progress so the
@@ -2492,7 +2422,7 @@ fun BookScreen(
     if (started) {
       while (chapterTtsPlaying &&
         (platformTtsIsSpeaking(ctx) || platformTtsIsPaused(ctx))
-      ) { delay(500) }
+      ) { delay(500.milliseconds) }
     }
 
     // Auto-advance only if still playing on the same story and user wants auto-continue
@@ -2549,21 +2479,20 @@ fun BookScreen(
 
     val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
     platformTtsStop(ctx)
-    delay(150)
+    delay(150.milliseconds)
     if (sectionTtsKey != key) return@LaunchedEffect
     platformTtsSpeak(ctx, text, lang)
 
-    var started = false
-    for (i in 0..39) {
-      delay(250)
+    val started = (0 until 40).any {
+      delay(250.milliseconds)
       if (sectionTtsKey != key) return@LaunchedEffect
-      if (platformTtsIsSpeaking(ctx)) { started = true; break }
+      platformTtsIsSpeaking(ctx)
     }
 
     if (started) {
       while (sectionTtsKey == key &&
         (platformTtsIsSpeaking(ctx) || platformTtsIsPaused(ctx))
-      ) { delay(500) }
+      ) { delay(500.milliseconds) }
     }
 
     if (sectionTtsKey == key) {
@@ -2621,7 +2550,7 @@ fun BookScreen(
   // the bullet isn't "stuck" as a highlight target and can be re-triggered later.
   LaunchedEffect(goldFadeStoryId, goldFadeBulletIdxs) {
     if (goldFadeStoryId != null && goldFadeBulletIdxs.isNotEmpty()) {
-      delay(8000)
+      delay(8000.milliseconds)
       goldFadeStoryId = null
       goldFadeBulletIdxs = emptySet()
     }
@@ -2639,7 +2568,7 @@ fun BookScreen(
       .distinctUntilChanged()
       .collectLatest { idx ->
         if (viewportRestoringRequestId != null) return@collectLatest
-        delay(500)
+        delay(500.milliseconds)
         if (viewportRestoringRequestId != null) return@collectLatest
         val storyId = book.stories.getOrNull(idx - introOffset)?.id
         repo.setLastRead(col, bookId, title, storyId, effectiveLanguage, activeEditionId)
@@ -3193,7 +3122,7 @@ fun BookScreen(
                             else -> {
                               platformTtsStop(ctx)
                               chapterTtsPaused = false
-                              delay(120)
+                              delay(120.milliseconds)
                               chapterTtsStoryId = story.id
                               chapterTtsPlaying = true
                             }
@@ -3211,7 +3140,6 @@ fun BookScreen(
                     selectedBullets = if (key in selectedBullets) selectedBullets - key
                     else selectedBullets + key
                   },
-                  inSelectionMode = selectedBullets.isNotEmpty(),
                   isBookmarked = story.id in bookmarkedStoryIds,
                   isExpanded = story.id in expandedStoryIds,
                   onToggleExpand = {
@@ -3331,7 +3259,7 @@ fun BookScreen(
                               chapterTtsPaused = false
                               platformTtsStop(ctx)
                               sectionOverrides["${story.id}:$kind"] = true
-                              delay(120)
+                              delay(120.milliseconds)
                               sectionTtsPaused = false
                               sectionTtsKey = key
                             }
@@ -3773,7 +3701,6 @@ internal fun StoryCard(
   onPlayTts: (() -> Unit)? = null,
   selectedBullets: Set<Int> = emptySet(),
   onToggleBullet: ((Int) -> Unit)? = null,
-  inSelectionMode: Boolean = false,
   isBookmarked: Boolean = false,
   isExpanded: Boolean = false,
   onToggleExpand: (() -> Unit)? = null,
@@ -5848,13 +5775,13 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       exportResult?.let { msg ->
         Text(msg, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary)
-        LaunchedEffect(msg) { delay(3000); exportResult = null }
+        LaunchedEffect(msg) { delay(3000.milliseconds); exportResult = null }
       }
       importResult?.let { msg ->
         Text(msg, style = MaterialTheme.typography.bodySmall,
           color = if (msg == successMsg) MaterialTheme.colorScheme.primary
                   else MaterialTheme.colorScheme.error)
-        LaunchedEffect(msg) { delay(3000); importResult = null }
+        LaunchedEffect(msg) { delay(3000.milliseconds); importResult = null }
       }
 
       if (showImportDialog) {
@@ -6421,7 +6348,7 @@ private fun GenericNotesScreen(
     val payload = Json.encodeToString(state)
     // Start the short preference transaction before navigation disposes this
     // scope; finish it even when the user immediately leaves the page.
-    scope.launch(NonCancellable, start = CoroutineStart.UNDISPATCHED) {
+    scope.launchNoteStateWrite {
       repo.setNoteScreenState(notesLanguage, assetFileName, payload)
     }
   }
@@ -6434,7 +6361,7 @@ private fun GenericNotesScreen(
     if (body.isNotBlank() && (collapsible || showToc)) {
       snapshotFlow { activeListState.firstVisibleItemIndex to activeListState.firstVisibleItemScrollOffset }
         .distinctUntilChanged().collectLatest { (index, offset) ->
-          delay(250)
+          delay(250.milliseconds)
           updateNoteState(noteState.copy(firstVisibleItem = index, firstVisibleOffset = offset))
         }
     }
