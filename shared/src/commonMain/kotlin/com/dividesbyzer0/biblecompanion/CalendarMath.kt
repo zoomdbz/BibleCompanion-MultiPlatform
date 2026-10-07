@@ -19,7 +19,8 @@ enum class FeastCalendarType { HEBREW, ESSENE, KARAITE }
 
 object HebrewCalendar {
 
-  private const val EPOCH = 347996L
+  // Integer JDNs here identify the Gregorian daytime date, not its preceding sunset.
+  private const val EPOCH = 347997L
 
   fun isLeapYear(year: Int): Boolean = (7L * year + 1) % 19 < 7
 
@@ -37,9 +38,11 @@ object HebrewCalendar {
     val conjParts = 1080L * (hoursElapsed % 24L) + partsElapsed % 1080L
 
     var d = conjDay
-    if (conjParts >= 19440L) d++
-    if (d % 7L == 2L && conjParts >= 9924L && !isLeapYear(year)) d++
-    if (d % 7L == 1L && conjParts >= 16789L && isLeapYear(year - 1)) d++
+    // All molad rules examine the original conjunction day and postpone once.
+    // Testing the already-postponed day can apply a second molad rule incorrectly.
+    if (conjParts >= 19440L ||
+        (conjDay % 7L == 2L && conjParts >= 9924L && !isLeapYear(year)) ||
+        (conjDay % 7L == 1L && conjParts >= 16789L && isLeapYear(year - 1))) d++
     val dow = d % 7L
     if (dow == 0L || dow == 3L || dow == 5L) d++
     return d
