@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Bibelbegleiter</string>
+    <string name="widget_loading">Wird geladen...</string>
     <string name="widget_description">Zeigt das Datum des nächsten biblischen Festes</string>
     <string name="widget_calendar_description">Biblischer Festkalender mit hebräischen und essenischen Daten</string>
     <string name="shortcut_search">Suchen</string>

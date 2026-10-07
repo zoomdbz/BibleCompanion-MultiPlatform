@@ -5,13 +5,13 @@ import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
 import android.content.Intent
-import android.net.Uri
 import android.os.Handler
 import android.os.Looper
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.os.LocaleListCompat
+import androidx.core.net.toUri
 import com.google.android.play.core.assetpacks.AssetPackManagerFactory
 import java.io.File
 import java.net.HttpURLConnection
@@ -91,7 +91,7 @@ actual fun ensureCacheDir(context: PlatformContext, dir: String) {
 actual fun platformOpenUrl(context: PlatformContext, url: String) {
     runCatching {
         context.startActivity(
-            Intent(Intent.ACTION_VIEW, Uri.parse(url))
+            Intent(Intent.ACTION_VIEW, url.toUri())
                 .addCategory(Intent.CATEGORY_BROWSABLE)
                 .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
         )
@@ -99,12 +99,12 @@ actual fun platformOpenUrl(context: PlatformContext, url: String) {
 }
 
 actual fun platformOpenUrlInBrowser(context: PlatformContext, url: String) {
-    val base = Intent(Intent.ACTION_VIEW, Uri.parse(url))
+    val base = Intent(Intent.ACTION_VIEW, url.toUri())
         .addCategory(Intent.CATEGORY_BROWSABLE)
         .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
     val tried = runCatching {
         val chrome = base.cloneFilter().setPackage("com.android.chrome")
-        context.startActivity(Intent(chrome).setData(Uri.parse(url)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK))
+        context.startActivity(Intent(chrome).setData(url.toUri()).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK))
         true
     }.getOrDefault(false)
     if (!tried) runCatching { context.startActivity(base) }
