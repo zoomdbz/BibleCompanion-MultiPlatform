@@ -50,7 +50,7 @@ class EdgeToEdgeContracts(unittest.TestCase):
 
     def test_root_draws_the_theme_behind_the_consumed_safe_area(self):
         text = (COMMON / "AppRoot.kt").read_text(encoding="utf-8")
-        self.assertIn("val systemBarBackground = if (isApplePlatform()) Modifier", text)
+        self.assertIn("val systemBarBackground: Modifier = if (isApplePlatform) Modifier", text)
         self.assertIn("else Modifier.background(MaterialTheme.colorScheme.background)", text)
         self.assertRegex(text, re.compile(
             r"BoxWithConstraints\(\s*Modifier\s*\.fillMaxSize\(\)\s*"
@@ -60,6 +60,16 @@ class EdgeToEdgeContracts(unittest.TestCase):
         navigation = (COMMON / "AppMainNavigation.kt").read_text(encoding="utf-8")
         self.assertIn("NavigationRail(windowInsets = noInsets)", navigation)
         self.assertIn("NavigationBar(windowInsets = noInsets)", navigation)
+
+    def test_platform_boolean_properties_are_not_called_as_functions(self):
+        platform = (COMMON / "platform/Platform.kt").read_text(encoding="utf-8")
+        properties = re.findall(r"\bexpect\s+val\s+(\w+)\s*:\s*Boolean\b", platform)
+        self.assertIn("isApplePlatform", properties)
+        for path in COMMON.rglob("*.kt"):
+            text = path.read_text(encoding="utf-8")
+            with self.subTest(path=path.relative_to(ROOT)):
+                for name in properties:
+                    self.assertNotRegex(text, rf"\b{re.escape(name)}\s*\(")
 
     def test_system_bar_icon_appearance_tracks_the_app_theme(self):
         text = (KOTLIN / "MainActivity.kt").read_text(encoding="utf-8")

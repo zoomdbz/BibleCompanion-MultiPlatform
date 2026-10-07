@@ -530,7 +530,7 @@ fun AppRoot(
       LocalInternalNavigate provides internalNavigate,
       LocalEditionNavigate provides editionNavigate
     ) {
-    val systemBarBackground = if (isApplePlatform()) Modifier
+    val systemBarBackground: Modifier = if (isApplePlatform) Modifier
       else Modifier.background(MaterialTheme.colorScheme.background)
     BoxWithConstraints(
       Modifier
@@ -1692,6 +1692,16 @@ fun HomeScreen(
         }
         }
 
+        item("about") {
+          StudyItem(
+            text = stringResource(Res.string.about_title),
+            icon = Icons.Filled.Info,
+            tone = StudyIconTone.Tertiary,
+            enabled = !navBusy,
+            modifier = Modifier.fillMaxWidth(),
+            onClick = { safeNav { onAbout() } }
+          )
+        }
       }
     }
 
