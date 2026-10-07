@@ -49,7 +49,7 @@ object DailyVerseNotificationScheduler {
 
     private fun alarmIntent(context: Context): PendingIntent = PendingIntent.getBroadcast(
         context, ALARM_REQUEST,
-        Intent(context, DailyVerseNotificationReceiver::class.java).setAction(DELIVER),
+        Intent(context, DailyVerseNotificationReceiver::class.java).apply { action = DELIVER },
         PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
     )
 
@@ -211,8 +211,8 @@ class CopyDailyVerseActivity : ComponentActivity() {
         copied = true
         val text = intent.getStringExtra("text")
         if (!text.isNullOrBlank()) {
-            getSystemService(ClipboardManager::class.java).primaryClip =
-                ClipData.newPlainText(intent.getStringExtra("label").orEmpty(), text)
+            getSystemService(ClipboardManager::class.java).setPrimaryClip(
+                ClipData.newPlainText(intent.getStringExtra("label").orEmpty(), text))
         }
         finish()
     }

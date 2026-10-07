@@ -93,7 +93,7 @@ class EdgeToEdgeContracts(unittest.TestCase):
         self.assertIn("WindowInsetsCompat.Type.systemBars() or WindowInsetsCompat.Type.displayCutout()", copy)
         self.assertIn("view.setPadding(32 + safe.left, 48 + safe.top, 32 + safe.right, 48 + safe.bottom)", copy)
         self.assertIn("ViewCompat.requestApplyInsets(message)", copy)
-        self.assertIn(".primaryClip =", copy)
+        self.assertIn("setPrimaryClip(", copy)
         self.assertIn("ClipData.newPlainText", copy)
 
     def test_android_dependencies_include_api_35_protection_and_stable_material(self):
