@@ -52,6 +52,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setVotdDismissedDate(date: String)
     suspend fun setDailyVerseNotifications(enabled: Boolean)
     suspend fun setDailyVerseNotificationTime(minuteOfDay: Int)
+    suspend fun setDailyVerseNotification24Hour(use24Hour: Boolean)
     suspend fun setAiSearch(enabled: Boolean)
 
     val bookmarksFlow: Flow<List<Bookmark>>

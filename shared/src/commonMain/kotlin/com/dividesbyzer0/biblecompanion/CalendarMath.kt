@@ -343,37 +343,37 @@ object KaraiteCalendar {
 
   /** New-moon JDN using Meeus' simplified formula (Astronomical Algorithms §49). */
   private fun newMoonJDN(k: Double): Double {
-    val T = k / 1236.85
-    val T2 = T * T
-    val T3 = T2 * T
-    val T4 = T3 * T
+    val centuries = k / 1236.85
+    val centuries2 = centuries * centuries
+    val centuries3 = centuries2 * centuries
+    val centuries4 = centuries3 * centuries
     var jde = 2451550.09766 + 29.530588861 * k +
-              0.00015437 * T2 - 0.000000150 * T3 + 0.00000000073 * T4
+              0.00015437 * centuries2 - 0.000000150 * centuries3 + 0.00000000073 * centuries4
 
-    val E = 1 - 0.002516 * T - 0.0000074 * T2
-    val M = (2.5534 + 29.1053567 * k - 0.0000014 * T2 - 0.00000011 * T3) * PI / 180.0
-    val Mp = (201.5643 + 385.81693528 * k + 0.0107582 * T2 +
-              0.00001238 * T3 - 0.000000058 * T4) * PI / 180.0
-    val F = (160.7108 + 390.67050284 * k - 0.0016118 * T2 -
-             0.00000227 * T3 + 0.000000011 * T4) * PI / 180.0
-    val Om = (124.7746 - 1.56375588 * k + 0.0020672 * T2 + 0.00000215 * T3) * PI / 180.0
+    val eccentricity = 1 - 0.002516 * centuries - 0.0000074 * centuries2
+    val solarAnomaly = (2.5534 + 29.1053567 * k - 0.0000014 * centuries2 - 0.00000011 * centuries3) * PI / 180.0
+    val lunarAnomaly = (201.5643 + 385.81693528 * k + 0.0107582 * centuries2 +
+              0.00001238 * centuries3 - 0.000000058 * centuries4) * PI / 180.0
+    val latitudeArgument = (160.7108 + 390.67050284 * k - 0.0016118 * centuries2 -
+             0.00000227 * centuries3 + 0.000000011 * centuries4) * PI / 180.0
+    val ascendingNode = (124.7746 - 1.56375588 * k + 0.0020672 * centuries2 + 0.00000215 * centuries3) * PI / 180.0
 
     // Primary corrections (most significant terms only; Meeus Table 49.A)
-    jde += -0.40720 * sin(Mp)
-    jde += 0.17241 * E * sin(M)
-    jde += 0.01608 * sin(2 * Mp)
-    jde += 0.01039 * sin(2 * F)
-    jde += 0.00739 * E * sin(Mp - M)
-    jde += -0.00514 * E * sin(Mp + M)
-    jde += 0.00208 * E * E * sin(2 * M)
-    jde += -0.00111 * sin(Mp - 2 * F)
-    jde += -0.00057 * sin(Mp + 2 * F)
-    jde += 0.00056 * E * sin(2 * Mp + M)
-    jde += -0.00042 * sin(3 * Mp)
-    jde += 0.00042 * E * sin(M + 2 * F)
-    jde += 0.00038 * E * sin(M - 2 * F)
-    jde += -0.00024 * E * sin(2 * Mp - M)
-    jde += -0.00017 * sin(Om)
+    jde += -0.40720 * sin(lunarAnomaly)
+    jde += 0.17241 * eccentricity * sin(solarAnomaly)
+    jde += 0.01608 * sin(2 * lunarAnomaly)
+    jde += 0.01039 * sin(2 * latitudeArgument)
+    jde += 0.00739 * eccentricity * sin(lunarAnomaly - solarAnomaly)
+    jde += -0.00514 * eccentricity * sin(lunarAnomaly + solarAnomaly)
+    jde += 0.00208 * eccentricity * eccentricity * sin(2 * solarAnomaly)
+    jde += -0.00111 * sin(lunarAnomaly - 2 * latitudeArgument)
+    jde += -0.00057 * sin(lunarAnomaly + 2 * latitudeArgument)
+    jde += 0.00056 * eccentricity * sin(2 * lunarAnomaly + solarAnomaly)
+    jde += -0.00042 * sin(3 * lunarAnomaly)
+    jde += 0.00042 * eccentricity * sin(solarAnomaly + 2 * latitudeArgument)
+    jde += 0.00038 * eccentricity * sin(solarAnomaly - 2 * latitudeArgument)
+    jde += -0.00024 * eccentricity * sin(2 * lunarAnomaly - solarAnomaly)
+    jde += -0.00017 * sin(ascendingNode)
     // TT -> UT correction for modern era is ~60-70s, negligible at day precision
     return jde
   }

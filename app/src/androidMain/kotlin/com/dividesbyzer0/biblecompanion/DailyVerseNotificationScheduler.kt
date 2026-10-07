@@ -211,8 +211,8 @@ class CopyDailyVerseActivity : ComponentActivity() {
         copied = true
         val text = intent.getStringExtra("text")
         if (!text.isNullOrBlank()) {
-            getSystemService(ClipboardManager::class.java).setPrimaryClip(
-                ClipData.newPlainText(intent.getStringExtra("label").orEmpty(), text))
+            getSystemService(ClipboardManager::class.java).primaryClip =
+                ClipData.newPlainText(intent.getStringExtra("label").orEmpty(), text)
         }
         finish()
     }

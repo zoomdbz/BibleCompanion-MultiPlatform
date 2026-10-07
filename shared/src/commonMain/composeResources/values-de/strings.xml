@@ -381,6 +381,11 @@
     <string name="daily_notification_toggle">Täglicher Bibelvers</string>
     <string name="daily_notification_desc">Erhalte einen Vers zur gewählten Ortszeit. Tippe zum Lesen darauf oder nutze Kopieren oder Teilen. Dein Gerät kann die Zustellung verzögern.</string>
     <string name="daily_notification_time">Benachrichtigungszeit</string>
+    <string name="daily_notification_clock_12">12-Stunden</string>
+    <string name="daily_notification_clock_24">24-Stunden</string>
+    <string name="daily_notification_am">vorm.</string>
+    <string name="daily_notification_pm">nachm.</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
     <string name="daily_notification_save">Uhrzeit speichern</string>
     <string name="daily_notification_ios_window">iOS plant Verse für bis zu 60 Tage voraus. Öffne die App regelmäßig, um sie zu erneuern.</string>
     <string name="daily_notification_permission_denied">Benachrichtigungen sind blockiert. Erlaube sie in den Geräteeinstellungen und aktiviere diese Option erneut.</string>

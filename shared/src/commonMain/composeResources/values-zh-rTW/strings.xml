@@ -381,6 +381,11 @@
     <string name="daily_notification_toggle">每日經文通知</string>
     <string name="daily_notification_desc">在你選擇的當地時間接收經文。點一下通知即可閱讀，也可以複製或分享。裝置可能會延遲傳送通知。</string>
     <string name="daily_notification_time">通知時間</string>
+    <string name="daily_notification_clock_12">12小時制</string>
+    <string name="daily_notification_clock_24">24小時制</string>
+    <string name="daily_notification_am">上午</string>
+    <string name="daily_notification_pm">下午</string>
+    <string name="daily_notification_time_with_period">%2$s %1$s</string>
     <string name="daily_notification_save">儲存時間</string>
     <string name="daily_notification_ios_window">iOS 最多可預先安排 60 天的經文通知。請定期開啟應用程式，以更新通知安排。</string>
     <string name="daily_notification_permission_denied">通知已遭封鎖。請在裝置設定中允許通知，然後開啟此選項。</string>

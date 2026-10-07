@@ -381,6 +381,11 @@
     <string name="daily_notification_toggle">Ежедневный библейский стих</string>
     <string name="daily_notification_desc">Получайте стих в выбранное местное время. Нажмите на уведомление, чтобы прочитать его, или выберите «Копировать» или «Поделиться». Устройство может задержать доставку.</string>
     <string name="daily_notification_time">Время уведомления</string>
+    <string name="daily_notification_clock_12">12 часов</string>
+    <string name="daily_notification_clock_24">24 часа</string>
+    <string name="daily_notification_am">до полудня</string>
+    <string name="daily_notification_pm">после полудня</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
     <string name="daily_notification_save">Сохранить время</string>
     <string name="daily_notification_ios_window">iOS планирует стихи на срок до 60 дней. Регулярно открывайте приложение, чтобы обновлять список.</string>
     <string name="daily_notification_permission_denied">Уведомления заблокированы. Разрешите их в настройках устройства, затем снова включите эту функцию.</string>

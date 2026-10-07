@@ -382,6 +382,11 @@
     <string name="daily_notification_toggle">Versículo diario</string>
     <string name="daily_notification_desc">Recibe un versículo a la hora local que elijas. Toca la notificación para leerlo o usa Copiar o Compartir. El dispositivo puede retrasar la entrega.</string>
     <string name="daily_notification_time">Hora de la notificación</string>
+    <string name="daily_notification_clock_12">12 horas</string>
+    <string name="daily_notification_clock_24">24 horas</string>
+    <string name="daily_notification_am">a. m.</string>
+    <string name="daily_notification_pm">p. m.</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
     <string name="daily_notification_save">Guardar hora</string>
     <string name="daily_notification_ios_window">iOS programa versículos para un máximo de 60 días. Abre la aplicación regularmente para renovarlos.</string>
     <string name="daily_notification_permission_denied">Las notificaciones están bloqueadas. Permítelas en los ajustes del dispositivo y vuelve a activar esta opción.</string>

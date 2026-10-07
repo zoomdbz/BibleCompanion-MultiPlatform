@@ -415,6 +415,11 @@
     <string name="daily_notification_toggle">Daily Verse of the Day</string>
     <string name="daily_notification_desc">Receive a verse at your chosen local time. Tap to read it, or use Copy or Share. Your device may delay delivery.</string>
     <string name="daily_notification_time">Notification time</string>
+    <string name="daily_notification_clock_12">12-hour</string>
+    <string name="daily_notification_clock_24">24-hour</string>
+    <string name="daily_notification_am">AM</string>
+    <string name="daily_notification_pm">PM</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
     <string name="daily_notification_save">Save time</string>
     <string name="daily_notification_ios_window">iOS queues up to 60 days of verses. Open the app regularly to refresh them.</string>
     <string name="daily_notification_permission_denied">Notifications are blocked. Allow them in your device settings, then turn this on.</string>

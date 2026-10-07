@@ -32,6 +32,43 @@ class DailyVerseNotificationsTest {
   @Test fun remindersDefaultToOffWithNineAmTime() {
     assertFalse(PrefsState().dailyVerseNotifications)
     assertEquals(540, PrefsState().dailyVerseNotificationMinuteOfDay)
+    assertFalse(PrefsState().dailyVerseNotification24Hour)
+  }
+
+  @Test fun twelveHourClockHandlesMidnightAndNoon() {
+    assertEquals(NotificationClockTime("12:00", false), notificationClockTime(0, false))
+    assertEquals(NotificationClockTime("12:00", true), notificationClockTime(720, false))
+    assertEquals(NotificationClockTime("12:59", false), notificationClockTime(59, false))
+    assertEquals(NotificationClockTime("12:59", true), notificationClockTime(779, false))
+  }
+
+  @Test fun twelveHourClockKeepsTheCorrectPeriodThroughoutTheDay() {
+    assertEquals(NotificationClockTime("9:05", false), notificationClockTime(545, false))
+    assertEquals(NotificationClockTime("11:59", false), notificationClockTime(719, false))
+    assertEquals(NotificationClockTime("1:05", true), notificationClockTime(785, false))
+    assertEquals(NotificationClockTime("11:59", true), notificationClockTime(1439, false))
+  }
+
+  @Test fun twentyFourHourClockKeepsLeadingZeroesAndActualHours() {
+    assertEquals(NotificationClockTime("00:00", false), notificationClockTime(0, true))
+    assertEquals(NotificationClockTime("09:05", false), notificationClockTime(545, true))
+    assertEquals(NotificationClockTime("12:00", true), notificationClockTime(720, true))
+    assertEquals(NotificationClockTime("23:59", true), notificationClockTime(1439, true))
+  }
+
+  @Test fun changingClockFormatNeverChangesTheNotificationMinute() {
+    for (minute in 0..1439) {
+      val twelve = notificationClockTime(minute, false)
+      val twentyFour = notificationClockTime(minute, true)
+      val (hour, minuteDigits) = twelve.digits.split(':').map(String::toInt)
+      assertEquals(minute, (hour % 12 + if (twelve.isAfternoon) 12 else 0) * 60 + minuteDigits)
+      assertEquals(twentyFour.isAfternoon, twelve.isAfternoon)
+    }
+  }
+
+  @Test fun invalidClockMinutesClampToTheSupportedDay() {
+    assertEquals(notificationClockTime(0, false), notificationClockTime(-1, false))
+    assertEquals(notificationClockTime(1439, true), notificationClockTime(1440, true))
   }
 
   @Test fun notificationTextRemovesDisplayMarkupWithoutRemovingWords() {

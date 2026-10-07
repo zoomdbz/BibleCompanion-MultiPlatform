@@ -146,6 +146,16 @@ object DailyVerseNotifications {
 internal fun notificationPlainText(text: String, divineName: String, language: String, collection: String): String =
   stripScriptureInlineTags(applyDivineName(text, divineName, language, false, collection)).trim()
 
+internal data class NotificationClockTime(val digits: String, val isAfternoon: Boolean)
+
+internal fun notificationClockTime(minuteOfDay: Int, use24Hour: Boolean): NotificationClockTime {
+  val minutes = minuteOfDay.coerceIn(0, 1439)
+  val hour = minutes / 60
+  val displayHour = if (use24Hour) hour.toString().padStart(2, '0')
+    else (if (hour % 12 == 0) 12 else hour % 12).toString()
+  return NotificationClockTime("$displayHour:${(minutes % 60).toString().padStart(2, '0')}", hour >= 12)
+}
+
 internal fun notificationAnchorExists(bullets: List<String>, chapter: Int, first: Int, last: Int): Boolean {
   if (chapter < 1 || first < 1 || last < first) return false
   val units = bullets.mapNotNull(::verseAnchorFromText).filter { it.chapter == chapter }

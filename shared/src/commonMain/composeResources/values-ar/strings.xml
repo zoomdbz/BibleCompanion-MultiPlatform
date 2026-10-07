@@ -382,6 +382,11 @@
     <string name="daily_notification_toggle">آية يومية</string>
     <string name="daily_notification_desc">تلقَّ آية في التوقيت المحلي الذي تختاره. اضغط على الإشعار لقراءتها، أو اختر النسخ أو المشاركة. قد يتأخر وصول الإشعار بسبب إعدادات الجهاز.</string>
     <string name="daily_notification_time">وقت الإشعار</string>
+    <string name="daily_notification_clock_12">12 ساعة</string>
+    <string name="daily_notification_clock_24">24 ساعة</string>
+    <string name="daily_notification_am">ص</string>
+    <string name="daily_notification_pm">م</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
     <string name="daily_notification_save">حفظ الوقت</string>
     <string name="daily_notification_ios_window">يُجدول iOS الآيات لمدة تصل إلى 60 يومًا. افتح التطبيق بانتظام لتجديد القائمة.</string>
     <string name="daily_notification_permission_denied">الإشعارات محظورة. اسمح بها في إعدادات جهازك، ثم فعّل هذا الخيار مجددًا.</string>

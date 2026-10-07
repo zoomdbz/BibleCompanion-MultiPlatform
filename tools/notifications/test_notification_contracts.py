@@ -11,7 +11,8 @@ ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / "shared/assets"
 COMMON = ROOT / "shared/src/commonMain/kotlin/com/dividesbyzer0/biblecompanion"
 LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi")
-KEYS = ("title", "toggle", "desc", "time", "save", "ios_window", "permission_denied", "system_settings")
+KEYS = ("title", "toggle", "desc", "time", "save", "ios_window", "permission_denied", "system_settings",
+        "clock_12", "clock_24", "am", "pm", "time_with_period")
 ANCHOR = re.compile(r"\(\s*(\d+)\s*:\s*(\d+)(?:\s*[-\u2013]\s*(\d+))?\s*\)\s*\.?\s*$")
 REFERENCE = re.compile(r"^(.+?)\s+(\d+):(\d+)(?:-(\d+))?$")
 
@@ -53,12 +54,26 @@ class NotificationContracts(unittest.TestCase):
         models = (COMMON / "Models.kt").read_text(encoding="utf-8")
         self.assertIn("val dailyVerseNotifications: Boolean = false", models)
         self.assertIn("val dailyVerseNotificationMinuteOfDay: Int = 9 * 60", models)
+        self.assertIn("val dailyVerseNotification24Hour: Boolean = false", models)
         for platform, filename in (("androidMain", "AndroidPrefs.kt"), ("iosMain", "IosPrefs.kt")):
             text = (ROOT / "shared/src" / platform / "kotlin/com/dividesbyzer0/biblecompanion" / filename).read_text(encoding="utf-8")
             self.assertIn('"daily_verse_notifications"', text)
             self.assertIn('"daily_verse_notification_time"', text)
+            self.assertIn('"daily_verse_notification_24_hour"', text)
             self.assertIn("actual suspend fun setDailyVerseNotificationTime", text)
+            self.assertIn("actual suspend fun setDailyVerseNotification24Hour", text)
             self.assertIn("coerceIn(0, 1439)", text)
+
+    def test_clock_format_choice_preserves_picker_time_and_commits_only_on_save(self):
+        app = (COMMON / "AppRoot.kt").read_text(encoding="utf-8")
+        picker = app[app.index("if (showNotificationTime) {"):app.index("// Bible.com (YouVersion) catalog")]
+        self.assertIn("mutableStateOf(prefs.dailyVerseNotification24Hour)", picker)
+        self.assertIn("is24Hour = use24Hour", picker)
+        self.assertIn("time.is24hour = format24Hour", picker)
+        self.assertIn("key(use24Hour) { TimeInput(state = time) }", picker)
+        self.assertNotIn("is24Hour = true", picker)
+        self.assertIn("repo.setDailyVerseNotification24Hour(use24Hour)", picker)
+        self.assertLess(picker.index("confirmButton"), picker.index("repo.setDailyVerseNotification24Hour"))
 
     def test_all_daily_and_feast_references_have_real_native_destinations(self):
         books = {}

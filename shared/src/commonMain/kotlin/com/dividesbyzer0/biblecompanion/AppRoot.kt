@@ -14,6 +14,7 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
@@ -129,6 +130,7 @@ import androidx.compose.material3.TextFieldDefaults
 import androidx.compose.material3.Typography
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.LaunchedEffect
@@ -163,6 +165,7 @@ import androidx.compose.ui.text.TextRange
 import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.layout.onGloballyPositioned
@@ -518,7 +521,7 @@ fun AppRoot(
         requestId = freshInternalReaderRequestId()
       )) { launchSingleTop = true }
     }
-    androidx.compose.runtime.CompositionLocalProvider(
+    CompositionLocalProvider(
       LocalInternalNavigate provides internalNavigate,
       LocalEditionNavigate provides editionNavigate
     ) {
@@ -845,7 +848,7 @@ fun AppRoot(
           // launchSingleTop can replace a book's route arguments in the same
           // entry. Keep scroll, sheet and animation state scoped to that book.
           key(col, bookId) {
-          androidx.compose.runtime.CompositionLocalProvider(LocalInternalNavigate provides readerNavigate) {
+          CompositionLocalProvider(LocalInternalNavigate provides readerNavigate) {
           BookScreen(
             col = col,
             bookId = bookId,
@@ -1482,7 +1485,7 @@ fun HomeScreen(
             Text(
               highlightSearchSnippet(wrapVotdQuotes(votd.text), "", prefs, votdCollection),
               style = MaterialTheme.typography.bodyMedium,
-              fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
+              fontStyle = FontStyle.Italic,
               color = votdOnContainer
             )
             ScriptureRefs.ClickableRefsTextSmart(
@@ -1802,7 +1805,7 @@ private fun highlightSearchSnippet(
     // divine names, which must win if semantic spans overlap.
     for (r in addRanges) {
       addStyle(
-        SpanStyle(fontStyle = androidx.compose.ui.text.font.FontStyle.Italic),
+        SpanStyle(fontStyle = FontStyle.Italic),
         r.first,
         r.last + 1
       )
@@ -2066,7 +2069,7 @@ private data class ReaderViewportLayoutSnapshot(
   val viewportHeightPx: Int
 )
 
-@OptIn(ExperimentalMaterial3Api::class, androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
 fun BookScreen(
   col: String,
@@ -2584,9 +2587,9 @@ fun BookScreen(
       .filter { it.collection == col && it.bookId == bookId }
       .flatMap { bookmark ->
         val sourceLanguage = bookmark.sourceLanguage?.let(LocaleUtils::effectiveAssetTag)
-        when {
-          sourceLanguage == null -> canonicalStoryIdsToNative(bookmark.storyId, effectiveLanguage)
-          sourceLanguage == effectiveLanguage -> listOf(bookmark.storyId)
+        when (sourceLanguage) {
+          null -> canonicalStoryIdsToNative(bookmark.storyId, effectiveLanguage)
+          effectiveLanguage -> listOf(bookmark.storyId)
           else -> emptyList()
         }
       }
@@ -2711,7 +2714,7 @@ fun BookScreen(
       positionedVerseRoots.clear()
       val measurementEpoch = viewportMeasurementEpoch + 1
       viewportMeasurementEpoch = measurementEpoch
-      val measurement = withTimeoutOrNull(2_000) {
+      val measurement = withTimeoutOrNull(2_000.milliseconds) {
         snapshotFlow { positionedVerseRoots[key] }
           .first { it?.generation == measurementEpoch }
       }
@@ -2824,7 +2827,7 @@ fun BookScreen(
                 Text(currentStory?.title ?: stringResource(Res.string.intro_section_header),
                   maxLines = 2, overflow = TextOverflow.Ellipsis, textAlign = TextAlign.Center)
                 if (currentChapter != null) Text(
-                  stringResource(Res.string.ui_chapter_position, currentChapter, index?.byChapter?.size ?: 0),
+                  stringResource(Res.string.ui_chapter_position, currentChapter, index.byChapter.size),
                   style = MaterialTheme.typography.labelSmall)
               }
             }
@@ -2992,7 +2995,7 @@ fun BookScreen(
               )
             }
 
-            if (loadedBook?.coverage == EditionCoverage.FALLBACK || linkedEditionUnavailable) {
+            if (loadedBook.coverage == EditionCoverage.FALLBACK || linkedEditionUnavailable) {
               Surface(
                 color = MaterialTheme.colorScheme.surfaceVariant,
                 shape = RoundedCornerShape(12.dp),
@@ -3034,7 +3037,7 @@ fun BookScreen(
                   viewportHeightPx = coords.size.height
                 }
             ) {
-              if (book?.intro?.isNotBlank() == true) {
+              if (book.intro.isNotBlank()) {
                 item("intro") {
                   var introTtsPlaying by remember { mutableStateOf(false) }
                   IntroCard(
@@ -3165,10 +3168,10 @@ fun BookScreen(
                         val prior = bookmarks.filter {
                           if (it.collection != col || it.bookId != bookId) return@filter false
                           val sourceLanguage = it.sourceLanguage?.let(LocaleUtils::effectiveAssetTag)
-                          when {
-                            sourceLanguage == null ->
+                          when (sourceLanguage) {
+                            null ->
                               story.id in canonicalStoryIdsToNative(it.storyId, effectiveLanguage)
-                            sourceLanguage == effectiveLanguage -> it.storyId == story.id
+                            effectiveLanguage -> it.storyId == story.id
                             else -> false
                           }
                         }
@@ -3685,7 +3688,6 @@ private fun IntroCard(
 }
 
 // -------------------------------------- Story cards ------------------------------------
-@OptIn(ExperimentalFoundationApi::class)
 @Composable
 internal fun StoryCard(
   col: String,
@@ -3757,7 +3759,6 @@ internal fun StoryCard(
     "$plain\n\n$links"
   }
 
-  val expanded = isExpanded
   val hasCollapsibleContent = story.summaryBullets.isNotEmpty() ||
       story.keyTakeaway.isNotBlank() ||
       story.crossRefs.isNotEmpty() ||
@@ -3842,7 +3843,7 @@ internal fun StoryCard(
 
         // Collapsible content
         if (hasCollapsibleContent) {
-          AnimatedVisibility(visible = expanded) {
+          AnimatedVisibility(visible = isExpanded) {
             Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
               ReaderScripture(
                 story = story,
@@ -4109,7 +4110,7 @@ internal fun StoryCard(
                           Text(
                             orig,
                             style = MaterialTheme.typography.bodySmall.copy(
-                              fontStyle = androidx.compose.ui.text.font.FontStyle.Italic
+                              fontStyle = FontStyle.Italic
                             ),
                             color = MaterialTheme.colorScheme.onSurfaceVariant
                           )
@@ -4139,13 +4140,13 @@ internal fun StoryCard(
             contentPadding = PaddingValues(0.dp)
           ) {
             Icon(
-              if (expanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+              if (isExpanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
               contentDescription = null,
               modifier = Modifier.size(18.dp)
             )
             Spacer(Modifier.width(4.dp))
             Text(
-              if (expanded) stringResource(Res.string.show_less) else stringResource(Res.string.show_more),
+              if (isExpanded) stringResource(Res.string.show_less) else stringResource(Res.string.show_more),
               style = MaterialTheme.typography.labelMedium
             )
           }
@@ -4347,7 +4348,7 @@ private fun highlightBgColor(colorKey: String?): Color {
 }
 
 // -------------------------------------- Saved Items Screen ------------------------------------
-@OptIn(ExperimentalMaterial3Api::class, androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
 fun SavedItemsScreen(
   prefs: PrefsState,
@@ -5009,7 +5010,7 @@ private fun ttsBuildManuscriptVariantsText(story: Story): String = buildString {
 
 // ---------------- Settings & About ----------------
 
-@OptIn(ExperimentalMaterial3Api::class, androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
 fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
   val scope = rememberCoroutineScope()
@@ -5020,14 +5021,39 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
   val notificationAllowed by DailyVerseNotificationBridge.permissionAllowed.collectAsState()
   if (showNotificationTime) {
     val minutes = prefs.dailyVerseNotificationMinuteOfDay.coerceIn(0, 1439)
-    val time = rememberTimePickerState(minutes / 60, minutes % 60, is24Hour = true)
+    var use24Hour by rememberSaveable { mutableStateOf(prefs.dailyVerseNotification24Hour) }
+    val time = rememberTimePickerState(minutes / 60, minutes % 60, is24Hour = use24Hour)
     AlertDialog(
       onDismissRequest = { showNotificationTime = false },
       title = { Text(stringResource(Res.string.daily_notification_time)) },
-      text = { TimeInput(state = time) },
+      text = {
+        Column(verticalArrangement = Arrangement.spacedBy(20.dp)) {
+          SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
+            listOf(false, true).forEachIndexed { index, format24Hour ->
+              SegmentedButton(
+                selected = use24Hour == format24Hour,
+                onClick = {
+                  time.is24hour = format24Hour
+                  use24Hour = format24Hour
+                },
+                shape = SegmentedButtonDefaults.itemShape(index = index, count = 2)
+              ) {
+                Text(stringResource(if (format24Hour) Res.string.daily_notification_clock_24
+                  else Res.string.daily_notification_clock_12))
+              }
+            }
+          }
+          // Recreate the input fields when switching formats so 23 becomes 11 PM,
+          // while the shared picker state keeps the actual hour and minute.
+          key(use24Hour) { TimeInput(state = time) }
+        }
+      },
       confirmButton = {
         TextButton(onClick = {
-          scope.launch { repo.setDailyVerseNotificationTime(time.hour * 60 + time.minute) }
+          scope.launch {
+            repo.setDailyVerseNotificationTime(time.hour * 60 + time.minute)
+            repo.setDailyVerseNotification24Hour(use24Hour)
+          }
           showNotificationTime = false
         }) { Text(stringResource(Res.string.daily_notification_save)) }
       },
@@ -5697,8 +5723,11 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       }
       Text(stringResource(Res.string.daily_notification_desc), style = MaterialTheme.typography.bodySmall)
       TextButton(onClick = { showNotificationTime = true }) {
-        val minutes = prefs.dailyVerseNotificationMinuteOfDay.coerceIn(0, 1439)
-        val displayTime = (minutes / 60).toString().padStart(2, '0') + ":" + (minutes % 60).toString().padStart(2, '0')
+        val clock = notificationClockTime(prefs.dailyVerseNotificationMinuteOfDay, prefs.dailyVerseNotification24Hour)
+        val displayTime = if (prefs.dailyVerseNotification24Hour) clock.digits else stringResource(
+          Res.string.daily_notification_time_with_period, clock.digits,
+          stringResource(if (clock.isAfternoon) Res.string.daily_notification_pm else Res.string.daily_notification_am)
+        )
         Text(stringResource(Res.string.daily_notification_time) + ": " + displayTime)
       }
       if (isApplePlatform) {
@@ -6008,12 +6037,12 @@ fun AboutScreen(onBack: () -> Unit) {
           Text(
             stringResource(Res.string.about_mission_text),
             style = MaterialTheme.typography.bodyMedium,
-            fontStyle = androidx.compose.ui.text.font.FontStyle.Italic
+            fontStyle = FontStyle.Italic
           )
           Text(
             stringResource(Res.string.about_free_text),
             style = MaterialTheme.typography.titleSmall,
-            textAlign = androidx.compose.ui.text.style.TextAlign.Center,
+            textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth()
           )
         }
@@ -6444,7 +6473,7 @@ private fun GenericNotesScreen(
       )
     }
   ) { pad ->
-    androidx.compose.runtime.CompositionLocalProvider(
+    CompositionLocalProvider(
       androidx.compose.ui.platform.LocalTextToolbar provides noteToolbar,
       androidx.compose.ui.platform.LocalClipboardManager provides noteClipboard
     ) {

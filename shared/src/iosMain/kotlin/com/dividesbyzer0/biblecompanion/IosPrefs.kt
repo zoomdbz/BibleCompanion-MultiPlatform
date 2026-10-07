@@ -82,6 +82,7 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             dailyVerseNotifications = getBool("daily_verse_notifications", false),
             dailyVerseNotificationMinuteOfDay = if (defaults.objectForKey("daily_verse_notification_time") != null)
                 defaults.integerForKey("daily_verse_notification_time").toInt().coerceIn(0, 1439) else 540,
+            dailyVerseNotification24Hour = getBool("daily_verse_notification_24_hour", false),
             screenshotExpandLanguage = getBool("ss_expand_language", false),
             aiSearch = getBool("ai_search", true)
         )
@@ -238,6 +239,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     }
     actual suspend fun setDailyVerseNotificationTime(minuteOfDay: Int) {
         defaults.setInteger(minuteOfDay.coerceIn(0, 1439).toLong(), forKey = "daily_verse_notification_time"); refresh()
+    }
+    actual suspend fun setDailyVerseNotification24Hour(use24Hour: Boolean) {
+        defaults.setBool(use24Hour, forKey = "daily_verse_notification_24_hour"); refresh()
     }
     actual suspend fun setAiSearch(enabled: Boolean) {
         defaults.setBool(enabled, forKey = "ai_search"); refresh()

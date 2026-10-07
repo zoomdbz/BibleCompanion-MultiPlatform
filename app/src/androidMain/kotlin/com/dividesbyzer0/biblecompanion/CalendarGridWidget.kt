@@ -101,7 +101,7 @@ class CalendarGridWidget : GlanceAppWidget() {
         daysInMonth = CalendarUtils.daysInGregorianMonth(year, month),
         firstDow = CalendarUtils.firstDayOfWeekInMonth(year, month),
         feastMap = CalendarUtils.buildFeastMap(year, month),
-        monthName = CalendarUtils.localizedMonthName(month, java.util.Locale.getDefault().language)
+        monthName = CalendarUtils.localizedMonthName(month, Locale.getDefault().language)
       )
 
       GlanceTheme {
@@ -274,9 +274,8 @@ class CalendarGridWidget : GlanceAppWidget() {
                       Text("${heb.day}", style = TextStyle(fontSize = hebrewFs, color = GlanceTheme.colors.onSurfaceVariant))
                     }
                     if (hasFeast) {
-                      val hasH = filteredFeasts!!.any { it.calendar == FeastCalendarType.HEBREW }
+                      val hasH = filteredFeasts.any { it.calendar == FeastCalendarType.HEBREW }
                       val hasE = filteredFeasts.any { it.calendar == FeastCalendarType.ESSENE }
-                      val hasK = filteredFeasts.any { it.calendar == FeastCalendarType.KARAITE }
                       Row {
                         if (hasH) Text("\u2721", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.error))
                         if (hasE) Text("\u2609", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.primary))

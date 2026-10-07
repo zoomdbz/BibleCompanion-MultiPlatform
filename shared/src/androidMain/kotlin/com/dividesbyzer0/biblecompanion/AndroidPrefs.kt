@@ -71,6 +71,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val VOTD_DISMISSED_DATE = stringPreferencesKey("votd_dismissed_date")
         val DAILY_VERSE_NOTIFICATIONS = booleanPreferencesKey("daily_verse_notifications")
         val DAILY_VERSE_NOTIFICATION_TIME = intPreferencesKey("daily_verse_notification_time")
+        val DAILY_VERSE_NOTIFICATION_24_HOUR = booleanPreferencesKey("daily_verse_notification_24_hour")
         val AI_SEARCH = booleanPreferencesKey("ai_search")
         val BOOKMARKS_JSON = stringPreferencesKey("bookmarks_json")
         val SAVED_VERSES_JSON = stringPreferencesKey("saved_verses_json")
@@ -134,6 +135,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             votdDismissedDate = p[Keys.VOTD_DISMISSED_DATE] ?: "",
             dailyVerseNotifications = p[Keys.DAILY_VERSE_NOTIFICATIONS] ?: false,
             dailyVerseNotificationMinuteOfDay = (p[Keys.DAILY_VERSE_NOTIFICATION_TIME] ?: 540).coerceIn(0, 1439),
+            dailyVerseNotification24Hour = p[Keys.DAILY_VERSE_NOTIFICATION_24_HOUR] ?: false,
             aiSearch = p[Keys.AI_SEARCH] ?: true
         )
     }
@@ -291,6 +293,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setDailyVerseNotificationTime(minuteOfDay: Int) =
         context.dataStore.edit { it[Keys.DAILY_VERSE_NOTIFICATION_TIME] = minuteOfDay.coerceIn(0, 1439) }.let { Unit }
+
+    actual suspend fun setDailyVerseNotification24Hour(use24Hour: Boolean) =
+        context.dataStore.edit { it[Keys.DAILY_VERSE_NOTIFICATION_24_HOUR] = use24Hour }.let { Unit }
 
     actual val bookmarksFlow: Flow<List<Bookmark>> = context.dataStore.data.map { p ->
         val raw = p[Keys.BOOKMARKS_JSON] ?: return@map emptyList()

@@ -381,6 +381,11 @@
     <string name="daily_notification_toggle">Versetto quotidiano</string>
     <string name="daily_notification_desc">Ricevi un versetto all\'ora locale scelta. Tocca la notifica per leggerlo oppure usa Copia o Condividi. Il dispositivo potrebbe ritardare la consegna.</string>
     <string name="daily_notification_time">Orario della notifica</string>
+    <string name="daily_notification_clock_12">12 ore</string>
+    <string name="daily_notification_clock_24">24 ore</string>
+    <string name="daily_notification_am">AM</string>
+    <string name="daily_notification_pm">PM</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
     <string name="daily_notification_save">Salva orario</string>
     <string name="daily_notification_ios_window">iOS programma fino a 60 giorni di versetti. Apri regolarmente l\'app per rinnovarli.</string>
     <string name="daily_notification_permission_denied">Le notifiche sono bloccate. Consentile nelle impostazioni del dispositivo, poi riattiva questa opzione.</string>

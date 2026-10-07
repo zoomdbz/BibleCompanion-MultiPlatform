@@ -110,6 +110,8 @@ data class PrefsState(
   // Device-local opt-in; notification permission is requested only from Settings.
   val dailyVerseNotifications: Boolean = false,
   val dailyVerseNotificationMinuteOfDay: Int = 9 * 60,
+  // Display format only; scheduling always uses minutes since midnight.
+  val dailyVerseNotification24Hour: Boolean = false,
   // Screenshot-mode hint: when true, settings opens with the language picker pre-expanded.
   val screenshotExpandLanguage: Boolean = false,
   val aiSearch: Boolean = true

@@ -381,6 +381,11 @@
     <string name="daily_notification_toggle">हर दिन का बाइबल पद</string>
     <string name="daily_notification_desc">अपने चुने हुए स्थानीय समय पर एक पद पाएँ। पढ़ने के लिए सूचना पर टैप करें, या कॉपी करें या साझा करें चुनें। आपके डिवाइस के कारण सूचना मिलने में देरी हो सकती है।</string>
     <string name="daily_notification_time">सूचना का समय</string>
+    <string name="daily_notification_clock_12">12 घंटे</string>
+    <string name="daily_notification_clock_24">24 घंटे</string>
+    <string name="daily_notification_am">पूर्वाह्न</string>
+    <string name="daily_notification_pm">अपराह्न</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
     <string name="daily_notification_save">समय सहेजें</string>
     <string name="daily_notification_ios_window">iOS में अधिकतम 60 दिनों के पदों की सूचनाएँ तय होती हैं। सूची को नया करने के लिए ऐप नियमित रूप से खोलें।</string>
     <string name="daily_notification_permission_denied">सूचनाएँ बंद हैं। डिवाइस की सेटिंग में अनुमति दें, फिर यह विकल्प चालू करें।</string>
