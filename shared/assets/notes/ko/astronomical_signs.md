@@ -72,7 +72,6 @@
 
 역사적 연쇄월식은 유대 역사의 중대한 전환점과 겹칩니다. 2024–2027년 푸림 양식은 네 번 중 두 번이 반영월식이므로 연쇄월식이 아닙니다. 별도의 천문학적 연쇄월식이 2032–2033년에 발생합니다. 2032년 4월 25일과 10월 18일, 이어 2033년 4월 14일과 10월 8일입니다. 익숙한 유월절–초막절 양식과는 다릅니다. 첫 월식은 최대식 때 이스라엘에서 페사흐 셰니와 일치하지만 2032년 10월 18일은 기준 달력의 유월절이나 초막절과 일치하지 않습니다. 2033년에 선별한 네 식은 위치에 따라 이름 붙인 절기, 그 전날, 또는 니산월 시작과 일치합니다. 이러한 정렬에 예언적 무게가 있는지는 해석의 문제이며, 천문 현상 자체는 기록된 사실입니다.
 
-**출처와 방법:** [요세푸스, 『유대 고대사』 17권](https://penelope.uchicago.edu/josephus/ant-17.html); [서기 1년 이전 고대 월식](https://eclipse.gsfc.nasa.gov/LEcat5/LE-0099-0000.html)과 [서기 1–100년](https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html); [십자가형 연대 연구](https://www.nature.com/articles/306743a0)와 [달 가시성 분석](https://articles.adsabs.harvard.edu/pdf/1990QJRAS..31...53S); [역사적 연쇄월식, 1401–1500년](https://eclipse.gsfc.nasa.gov/LEcat5/LE1401-1500.html)과 [1901–2000년](https://eclipse.gsfc.nasa.gov/LEcat5/LE1901-2000.html); [현대 일식](https://eclipse.gsfc.nasa.gov/SEcat5/SE2001-2100.html)과 [월식 예측](https://eclipse.gsfc.nasa.gov/LEcat5/LE2001-2100.html); [Hebcal 일몰 계산](https://www.hebcal.com/home/1663/zmanim-halachic-times-api)과 [날짜 변환](https://www.hebcal.com/home/219/hebrew-date-converter-rest-api). 현대 비교는 최대식 때 예루살렘, 뉴욕, 산티아고, 도쿄, 시드니, 오클랜드, 호놀룰루를 확인했으며 이스라엘과 디아스포라의 절기 차이도 포함합니다. 이 장소들은 시간대 차이를 표본으로 삼은 것이며 가시성 지도나 모든 지역의 전수 검사가 아닙니다. 식 예측은 NASA 고다드 우주 비행 센터의 프레드 에스페낙이 작성했습니다.
 
 ---
 ## 일식

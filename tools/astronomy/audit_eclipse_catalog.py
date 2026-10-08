@@ -56,6 +56,58 @@ REQUIRED_SOURCES = (
     "https://www.hebcal.com/home/1663/zmanim-halachic-times-api",
     "https://www.hebcal.com/home/219/hebrew-date-converter-rest-api",
 )
+URL = re.compile(r"https?://[^\s)]+")
+
+
+def note_title(text: str) -> str | None:
+    """Return the first H1 title without its Markdown marker."""
+    return next((line[2:] for line in text.splitlines() if line.startswith("# ")), None)
+
+
+def bibliography_source_section(astronomy_text: str, bibliography_text: str) -> tuple[str | None, int]:
+    """Return the bibliography H2 named after the astronomical note's H1."""
+    title = note_title(astronomy_text)
+    if title is None:
+        return None, 0
+    heading = f"## {title}"
+    lines = bibliography_text.splitlines(keepends=True)
+    matches = [index for index, line in enumerate(lines) if line.rstrip("\r\n") == heading]
+    if len(matches) != 1:
+        return None, len(matches)
+    start = matches[0] + 1
+    end = next(
+        (index for index in range(start, len(lines)) if lines[index].startswith("## ")),
+        len(lines),
+    )
+    return "".join(lines[start:end]).strip("\r\n"), 1
+
+
+def audit_source_locations(
+    astronomy_text: str,
+    bibliography_text: str,
+    expected_links: Counter[str] | None = None,
+) -> list[str]:
+    """Require the source list in its locale-titled bibliography subsection only."""
+    failures = []
+    title = note_title(astronomy_text)
+    if title is None:
+        failures.append("astronomical note must have an H1 title")
+    section, heading_count = bibliography_source_section(astronomy_text, bibliography_text)
+    if heading_count != 1:
+        failures.append("bibliography must contain exactly one H2 matching the astronomical note title")
+    section_text = section or ""
+    for source in REQUIRED_SOURCES:
+        if source in astronomy_text:
+            failures.append(f"source remains misplaced in astronomical_signs.md: {source}")
+        if source not in section_text:
+            failures.append(f"bibliography astronomy subsection is missing source {source}")
+    links = Counter(URL.findall(section_text))
+    canonical_links = Counter(REQUIRED_SOURCES)
+    if links != canonical_links:
+        failures.append("bibliography astronomy subsection must contain exactly the 11 required source links")
+    if expected_links is not None and links != expected_links:
+        failures.append("bibliography astronomy subsection link parity differs from English")
+    return failures
 
 def source_document() -> dict:
     document = json.loads(CATALOG.read_text(encoding="utf-8"))
@@ -124,7 +176,10 @@ def audit() -> list[str]:
     failures = []
     english = (NOTES / "en/astronomical_signs.md").read_text(encoding="utf-8")
     english_rows = table_rows(english)
-    english_sources = Counter(re.findall(r"https?://[^\s)]+", english))
+    english_bibliography_path = NOTES / "en/bibliography.md"
+    english_bibliography = english_bibliography_path.read_text(encoding="utf-8")
+    english_source_section, _ = bibliography_source_section(english, english_bibliography)
+    english_source_links = Counter(URL.findall(english_source_section or ""))
     for language in LANGUAGES:
         path = NOTES / language / "astronomical_signs.md"
         if not path.is_file():
@@ -140,9 +195,16 @@ def audit() -> list[str]:
         if any(line.startswith("+") for line in text.splitlines()):
             failures.append(f"{language}: literal patch artifact")
         failures.extend(f"{language}: {error}" for error in audit_visible_table(text, language))
-        for source in REQUIRED_SOURCES:
-            if source not in text:
-                failures.append(f"{language}: missing source {source}")
+        bibliography_path = NOTES / language / "bibliography.md"
+        if bibliography_path.is_file():
+            bibliography = bibliography_path.read_text(encoding="utf-8")
+        else:
+            bibliography = ""
+            failures.append(f"{language}: missing bibliography.md")
+        failures.extend(
+            f"{language}: {error}"
+            for error in audit_source_locations(text, bibliography, english_source_links)
+        )
         rows = table_rows(text)
         if len(rows) == len(english_rows):
             for index, (translated, original) in enumerate(zip(rows, english_rows), 1):
@@ -150,8 +212,6 @@ def audit() -> list[str]:
                 # in Japanese). They must not remove the source's numeric data.
                 if Counter(NUMBER.findall(" ".join(original))) - Counter(NUMBER.findall(" ".join(translated))):
                     failures.append(f"{language}: table row {index} has missing/changed numerals")
-        if Counter(re.findall(r"https?://[^\s)]+", text)) != english_sources:
-            failures.append(f"{language}: source-link parity differs from English")
     return failures
 
 def main() -> int:

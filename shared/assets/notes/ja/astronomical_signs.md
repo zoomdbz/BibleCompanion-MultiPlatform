@@ -72,7 +72,6 @@
 
 歴史的なテトラッドはユダヤ史の大きな転機と重なります。2024～2027年のプリムのパターンは、4回のうち2回が半影月食なのでテトラッドではありません。別の天文学的テトラッドが2032～2033年に起こります。2032年4月25日と10月18日、続いて2033年4月14日と10月8日です。これはよく知られた過越・仮庵の祭りのパターンとは異なります。最初の月食は最大時のイスラエルでペサハ・シェニーと一致しますが、2032年10月18日は参照暦の過越または仮庵の祭りと一致しません。2033年の選定した4回の日食・月食は、場所に応じて、名を挙げた祭り、その前日、またはニサン月の始まりと一致します。これらの一致が預言的な重みを持つかどうかは解釈の問題です。天文現象そのものは記録された事実です。
 
-**出典と方法：** [ヨセフス『ユダヤ古代誌』第17巻](https://penelope.uchicago.edu/josephus/ant-17.html)；[紀元1年以前の古代月食](https://eclipse.gsfc.nasa.gov/LEcat5/LE-0099-0000.html)と[紀元1～100年](https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html)；[十字架刑年代研究](https://www.nature.com/articles/306743a0)と[月の可視性分析](https://articles.adsabs.harvard.edu/pdf/1990QJRAS..31...53S)；[歴史的テトラッド、1401～1500年](https://eclipse.gsfc.nasa.gov/LEcat5/LE1401-1500.html)と[1901～2000年](https://eclipse.gsfc.nasa.gov/LEcat5/LE1901-2000.html)；[現代の日食](https://eclipse.gsfc.nasa.gov/SEcat5/SE2001-2100.html)と[月食予測](https://eclipse.gsfc.nasa.gov/LEcat5/LE2001-2100.html)；[Hebcalの日没計算](https://www.hebcal.com/home/1663/zmanim-halachic-times-api)と[日付変換](https://www.hebcal.com/home/219/hebrew-date-converter-rest-api)。現代の比較では、食の最大時におけるエルサレム、ニューヨーク、サンティアゴ、東京、シドニー、オークランド、ホノルルを確認し、イスラエルとディアスポラでの祭日の違いも考慮しました。これらの地点は時間帯の違いを抽出するもので、可視地域図でも全地点の網羅的検査でもありません。食の予測はNASAゴダード宇宙飛行センターのフレッド・エスペナックによるものです。
 
 ---
 

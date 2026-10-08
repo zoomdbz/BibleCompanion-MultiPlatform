@@ -1,12 +1,25 @@
 from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 import unittest
-from audit_eclipse_catalog import LANGUAGES, NOTES, audit, audit_visible_table, expected_events, source_document
+from audit_eclipse_catalog import (
+    LANGUAGES,
+    NOTES,
+    REQUIRED_SOURCES,
+    audit,
+    audit_source_locations,
+    audit_visible_table,
+    bibliography_source_section,
+    expected_events,
+    source_document,
+)
 from build_eclipse_catalog import semantic_observances
 
 class EclipseFeastTableTests(unittest.TestCase):
     def english_note(self) -> str:
         return (NOTES / "en/astronomical_signs.md").read_text(encoding="utf-8")
+
+    def english_bibliography(self) -> str:
+        return (NOTES / "en/bibliography.md").read_text(encoding="utf-8")
 
     def outcome(self, event_date: str, location: str) -> dict:
         event = next(r for r in source_document()["events"] if r["date"] == event_date)
@@ -93,6 +106,22 @@ class EclipseFeastTableTests(unittest.TestCase):
     def test_non_feast_event_cannot_reappear(self) -> None:
         text = self.english_note() + "\n| 2026-08-28 | Partial lunar eclipse | No selected alignment | 15 Elul 5786 |"
         self.assertIn("modern rows must contain all 40 selected feast alignments exactly once", audit_visible_table(text))
+
+    def test_missing_bibliography_source_fails(self) -> None:
+        source = REQUIRED_SOURCES[0]
+        bibliography = self.english_bibliography()
+        section, heading_count = bibliography_source_section(self.english_note(), bibliography)
+        self.assertEqual(heading_count, 1)
+        self.assertIsNotNone(section)
+        bibliography = bibliography.replace(section, section.replace(source, "", 1), 1)
+        failures = audit_source_locations(self.english_note(), bibliography)
+        self.assertIn(f"bibliography astronomy subsection is missing source {source}", failures)
+
+    def test_source_left_in_astronomical_note_fails(self) -> None:
+        source = REQUIRED_SOURCES[0]
+        astronomy = f"{self.english_note().rstrip()}\n\n{source}\n"
+        failures = audit_source_locations(astronomy, self.english_bibliography())
+        self.assertIn(f"source remains misplaced in astronomical_signs.md: {source}", failures)
 
     def test_ancient_eclipse_does_not_replace_daytime_darkness(self) -> None:
         text = self.english_note()

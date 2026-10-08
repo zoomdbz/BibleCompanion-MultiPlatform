@@ -72,7 +72,6 @@
 
 历史四连月全食与犹太历史的重大转折重合。2024–2027普珥节模式不是四连月全食，因为四次中有两次是半影月食。2032–2033另有一次天文学四连月全食：2032年4月25日和10月18日，随后是2033年4月14日和10月8日。它不同于熟知的逾越节–住棚节模式：第一次在食甚时与以色列的第二逾越节对应，而2032年10月18日在参考历法中不与逾越节或住棚节对应。2033年选出的四次日月食按地点分别对应具名节期、其前夕或尼散月开始。是否具有预言意义属于解释问题；天文事件本身是有据可查的事实。
 
-**资料来源与方法：** [约瑟夫斯《犹太古史》第17卷](https://penelope.uchicago.edu/josephus/ant-17.html)；[公元1年前的古代月食](https://eclipse.gsfc.nasa.gov/LEcat5/LE-0099-0000.html)和[公元1–100年](https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html)；[受难年代研究](https://www.nature.com/articles/306743a0)和[月球可见性分析](https://articles.adsabs.harvard.edu/pdf/1990QJRAS..31...53S)；[历史四连月全食，1401–1500](https://eclipse.gsfc.nasa.gov/LEcat5/LE1401-1500.html)和[1901–2000](https://eclipse.gsfc.nasa.gov/LEcat5/LE1901-2000.html)；[现代日食](https://eclipse.gsfc.nasa.gov/SEcat5/SE2001-2100.html)和[月食预测](https://eclipse.gsfc.nasa.gov/LEcat5/LE2001-2100.html)；[Hebcal日落计算](https://www.hebcal.com/home/1663/zmanim-halachic-times-api)和[日期转换](https://www.hebcal.com/home/219/hebrew-date-converter-rest-api)。现代比较检查食甚时的耶路撒冷、纽约、圣地亚哥、东京、悉尼、奥克兰和檀香山，并计入以色列与散居地守节差异。这些地点用于抽样时区差异，并非可见范围图或对所有地点的穷尽检查。日月食预测由NASA戈达德太空飞行中心的弗雷德·埃斯佩纳克提供。
 
 ---
 ## 日食
