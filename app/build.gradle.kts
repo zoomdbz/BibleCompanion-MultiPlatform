@@ -40,7 +40,7 @@ android {
     applicationId = "com.dividesbyzer0.biblecompanion"
     minSdk = 24
     targetSdk = 36
-    versionCode = 50
+    versionCode = 51
     versionName = "5.0.0"
     vectorDrawables.useSupportLibrary = true
     ndk {

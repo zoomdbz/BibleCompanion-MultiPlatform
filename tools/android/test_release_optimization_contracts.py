@@ -75,10 +75,10 @@ class ReleaseOptimizationContracts(unittest.TestCase):
 
     def test_release_versions_match_on_android_and_apple(self):
         app = (ROOT / "app/build.gradle.kts").read_text(encoding="utf-8")
-        self.assertIn("versionCode = 50", app)
+        self.assertIn("versionCode = 51", app)
         self.assertIn('versionName = "5.0.0"', app)
         apple = (ROOT / "iosApp/iosApp.xcodeproj/project.pbxproj").read_text(encoding="utf-8")
-        self.assertEqual(["50", "50"], re.findall(r"CURRENT_PROJECT_VERSION = (\d+);", apple))
+        self.assertEqual(["51", "51"], re.findall(r"CURRENT_PROJECT_VERSION = (\d+);", apple))
         self.assertEqual(
             ["5.0.0", "5.0.0"],
             re.findall(r"MARKETING_VERSION = ([\d.]+);", apple),
@@ -124,11 +124,15 @@ class ReleaseOptimizationContracts(unittest.TestCase):
         self.assertIn('"proguard-rules.pro"', release)
         self.assertIn("isMinifyEnabled = false", debug)
 
-    def test_custom_keep_rules_preserve_the_native_engine_not_the_entire_app(self):
+    def test_custom_keep_rules_preserve_reflection_entry_points_not_the_entire_app(self):
         path = ROOT / "app/proguard-rules.pro"
         rules = [line.strip() for line in path.read_text(encoding="utf-8").splitlines()
                  if line.strip() and not line.lstrip().startswith("#")]
-        self.assertEqual(["-keep class ai.onnxruntime.** { *; }"], rules)
+        self.assertEqual([
+            "-keep class ai.onnxruntime.** { *; }",
+            "-keep class * extends androidx.room.RoomDatabase { public <init>(); }",
+            "-keep class * extends androidx.work.InputMerger { public <init>(); }",
+        ], rules)
         for folder in (ROOT / "app", ROOT / "shared"):
             for path in folder.rglob("*.pro"):
                 if "build" in path.relative_to(ROOT).parts:
