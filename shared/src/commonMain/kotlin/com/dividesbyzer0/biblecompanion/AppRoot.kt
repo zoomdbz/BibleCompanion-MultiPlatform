@@ -6315,13 +6315,15 @@ private fun GenericNotesScreen(
   var tocDropdownExpanded by remember { mutableStateOf(false) }
 
   var selectionResetKey by remember(notesKey) { mutableStateOf(0) }
+  var selectionGeneration by remember(notesKey) { mutableStateOf(0L) }
   var showDismissButton by remember(notesKey) { mutableStateOf(false) }
   var showFullSelection by remember(notesKey) { mutableStateOf(false) }
   val nativeTextToolbar = androidx.compose.ui.platform.LocalTextToolbar.current
-  val nativeClipboard = androidx.compose.ui.platform.LocalClipboardManager.current
+  val nativeClipboard = androidx.compose.ui.platform.LocalClipboard.current
   val notesFocusManager = androidx.compose.ui.platform.LocalFocusManager.current
 
   fun resetNoteSelectionState() {
+    selectionGeneration++
     showDismissButton = false
     selectionResetKey++
     notesFocusManager.clearFocus()
@@ -6330,7 +6332,10 @@ private fun GenericNotesScreen(
   val noteToolbar = remember(notesKey, nativeTextToolbar, notesFocusManager) {
     NotesSelectionToolbar(
       delegate = nativeTextToolbar,
-      onVisibilityChanged = { showDismissButton = it },
+      onVisibilityChanged = {
+        if (it) selectionGeneration++
+        showDismissButton = it
+      },
       onSelectWholeNote = {
         resetNoteSelectionState()
         showFullSelection = true
@@ -6343,10 +6348,16 @@ private fun GenericNotesScreen(
     noteToolbar.hide()
   }
   val noteClipboard = remember(notesKey, nativeClipboard, nativeTextToolbar, notesFocusManager) {
-    NotesSelectionClipboard(nativeClipboard) { clearNoteSelection() }
+    NotesSelectionClipboard(
+      nativeClipboard,
+      selectionGeneration = { selectionGeneration }
+    ) { clearNoteSelection() }
   }
   DisposableEffect(noteToolbar) {
-    onDispose { noteToolbar.hide() }
+    onDispose {
+      selectionGeneration++
+      noteToolbar.hide()
+    }
   }
   val noteContentSelectionModifier = Modifier.pointerInput(notesKey) {
     awaitEachGesture {
@@ -6469,7 +6480,7 @@ private fun GenericNotesScreen(
   ) { pad ->
     CompositionLocalProvider(
       androidx.compose.ui.platform.LocalTextToolbar provides noteToolbar,
-      androidx.compose.ui.platform.LocalClipboardManager provides noteClipboard
+      androidx.compose.ui.platform.LocalClipboard provides noteClipboard
     ) {
     Box(Modifier.fillMaxSize()) {
     if (collapsible && sectionHeaders.size >= 2) {

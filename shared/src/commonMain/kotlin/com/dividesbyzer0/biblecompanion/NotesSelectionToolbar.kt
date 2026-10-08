@@ -1,19 +1,22 @@
 package com.dividesbyzer0.biblecompanion
 
 import androidx.compose.ui.geometry.Rect
-import androidx.compose.ui.platform.ClipboardManager
+import androidx.compose.ui.platform.ClipEntry
+import androidx.compose.ui.platform.Clipboard
 import androidx.compose.ui.platform.TextToolbar
 import androidx.compose.ui.platform.TextToolbarStatus
-import androidx.compose.ui.text.AnnotatedString
 
-/** Keyboard copy bypasses TextToolbar, so observe the clipboard write as well. */
+/** Keyboard copy bypasses TextToolbar. Observe completed writes, including clipboard clears. */
 internal class NotesSelectionClipboard(
-  private val delegate: ClipboardManager,
+  private val delegate: Clipboard,
+  private val selectionGeneration: () -> Long = { 0L },
   private val onCopied: () -> Unit
-) : ClipboardManager by delegate {
-  override fun setText(annotatedString: AnnotatedString) {
-    delegate.setText(annotatedString)
-    onCopied()
+) : Clipboard by delegate {
+  override suspend fun setClipEntry(clipEntry: ClipEntry?) {
+    val copiedSelection = selectionGeneration()
+    delegate.setClipEntry(clipEntry)
+    // A delayed write must not dismiss a newer selection or a different page.
+    if (copiedSelection == selectionGeneration()) onCopied()
   }
 }
 
@@ -26,6 +29,7 @@ internal class NotesSelectionToolbar(
 ) : TextToolbar {
   private var actionCallbackDepth = 0
   private var actionFinishedToolbar = false
+  private var platformOwnsActionFinish = false
 
   override val status: TextToolbarStatus
     get() = if (platformFinishesActionCallback && actionFinishedToolbar) {
@@ -46,6 +50,7 @@ internal class NotesSelectionToolbar(
         actionCallbackDepth--
         if (actionCallbackDepth == 0) {
           actionFinishedToolbar = true
+          platformOwnsActionFinish = completedNormally
           onVisibilityChanged(false)
           // AndroidX finishes the ActionMode immediately after a successful callback.
           // If the callback throws, that platform finish is skipped, so close it here.
@@ -63,6 +68,7 @@ internal class NotesSelectionToolbar(
     onSelectAllRequested: (() -> Unit)?
   ) {
     actionFinishedToolbar = false
+    platformOwnsActionFinish = false
     delegate.showMenu(
       rect = rect,
       onCopyRequested = guardAction(onCopyRequested),
@@ -90,8 +96,9 @@ internal class NotesSelectionToolbar(
   override fun hide() {
     actionFinishedToolbar = true
     // AndroidX calls ActionMode.finish() after its action callback returns. Calling the
-    // delegate from inside that callback destroys the same floating mode twice on Android.
-    if (!platformFinishesActionCallback || actionCallbackDepth == 0) delegate.hide()
+    // delegate inside that callback or after a suspended copy completes would finish it twice.
+    if (!platformFinishesActionCallback ||
+      (actionCallbackDepth == 0 && !platformOwnsActionFinish)) delegate.hide()
     onVisibilityChanged(false)
   }
 }
