@@ -63,21 +63,29 @@ def alias_pattern(language: str):
         for book_id, title in read_json(ASSETS / f"books/{collection}/en/_index.json"):
             books[title.casefold()] = (book_id, collection)
     owners = {}
+    verse_only = set()
     for en, local in zip(english, localized):
         book = next((books[name.casefold()] for name in (en["canon"], *en["aliases"])
                      if name.casefold() in books), None)
         if book is None:
             continue
         for alias in (local["canon"], *local["aliases"], en["canon"], *en["aliases"]):
-            # This audit scans explicit citations, not every shorthand the app
-            # can link. Short Latin aliases collide with ordinary words such as
-            # German 'am', Spanish/French 'de', and Portuguese 'os'.
-            if re.fullmatch(r"[A-Za-z.]{1,3}", alias):
-                continue
-            if alias not in (local["canon"], en["canon"]) and len(alias) < 3:
-                continue
-            owners.setdefault(normalize(alias).casefold(), book)
-    alternatives = "|".join(re.escape(key) for key in sorted(owners, key=len, reverse=True))
+            # Short aliases can be ordinary words, but they also include French
+            # canonical Luc and Japanese ルカ/使徒. Require chapter AND verse for
+            # these names instead of silently missing their explicit citations.
+            key = normalize(alias).casefold()
+            owners.setdefault(key, book)
+            if (re.fullmatch(r"[A-Za-z.]{1,3}", alias)
+                    or (alias not in (local["canon"], en["canon"]) and len(alias) < 3)):
+                verse_only.add(key)
+    # Commas denote chapter/verse in German. Elsewhere a short book alias next
+    # to a comma can instead be prose followed by a thousands-formatted number.
+    separator = r"(?::\s*|,)" if language == "de" else r":\s*"
+    explicit_verse = r"(?=\s*[1-9]\d{0,2}\s*" + separator + r"[1-9]\d{0,2}(?!\d))"
+    alternatives = "|".join(
+        re.escape(key) + (explicit_verse if key in verse_only else "")
+        for key in sorted(owners, key=len, reverse=True)
+    )
     pattern = re.compile(r"(?<![A-Za-z0-9_])(?P<book>" + alternatives + ")" + TAIL, re.I)
     return owners, pattern
 

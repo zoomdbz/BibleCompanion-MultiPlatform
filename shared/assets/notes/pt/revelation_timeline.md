@@ -748,13 +748,13 @@ A divergência não é se os crentes serão arrebatados para encontrar Cristo. I
 
 As quatro posições abaixo descrevem propostas diferentes para relacionar a mesma reunião bíblica às visões do Apocalipse.
 
-## 1. Pré-Tribulação
+### 1. Pré-Tribulação
 
 **Posição:** Antes do primeiro selo e antes do período de tribulação do fim dos tempos.
 
 **Linha do tempo resumida:** era da Igreja -> crentes arrebatados antes da tribulação final -> selos, trombetas e taças -> retorno visível de Cristo -> reinado milenar.
 
-### Passagens de apoio comuns
+#### Passagens de apoio comuns
 
 - **1 Tessalonicenses 4:13-18**: os crentes são arrebatados para encontrar Cristo.
 - **1 Tessalonicenses 5:9**: os crentes não estão destinados à ira.
@@ -762,13 +762,13 @@ As quatro posições abaixo descrevem propostas diferentes para relacionar a mes
 - **Apocalipse 3:10**: promessa de guardar a igreja de Filadélfia **da hora da provação que virá sobre o mundo inteiro**.
 - A palavra "igreja" não é usada para os santos na terra em Apocalipse 6-18.
 
-### Posição proposta em Apocalipse
+#### Posição proposta em Apocalipse
 
 Geralmente **entre Apocalipse 3 e 4**, antes do Selo 1.
 
 Alguns usam Apocalipse 4:1, "Sobe para aqui", como uma imagem simbólica do arrebatamento.
 
-### Principais dificuldades
+#### Principais dificuldades
 
 - Apocalipse 4:1 descreve explicitamente João entrando em uma visão, não a retirada da Igreja.
 - Apocalipse nunca diz diretamente que a Igreja foi arrebatada antes do Selo 1.
@@ -778,32 +778,32 @@ Alguns usam Apocalipse 4:1, "Sobe para aqui", como uma imagem simbólica do arre
 
 Intérpretes pré-tribulacionistas respondem distinguindo o arrebatamento do retorno visível posterior de Cristo e distinguindo a Igreja de outros santos presentes durante a tribulação.
 
-## 2. Meio da Tribulação
+### 2. Meio da Tribulação
 
 **Posição:** Por volta da metade do período final, muitas vezes associada a Apocalipse 11 e à sétima trombeta.
 
 **Linha do tempo resumida:** era da Igreja -> primeira metade da tribulação final -> crentes arrebatados perto do ponto médio -> juízos posteriores -> retorno visível de Cristo -> reinado milenar.
 
-### Ligações de apoio comuns
+#### Ligações de apoio comuns
 
 - **1 Coríntios 15:52**: a ressurreição/transformação ocorre ao som da "última trombeta".
 - **Apocalipse 11:15**: soa a sétima e última trombeta.
 - **Apocalipse 11:12**: as duas testemunhas sobem ao céu.
 - Apocalipse usa repetidamente 42 meses e 1.260 dias, sugerindo uma importante estrutura de ponto médio.
 
-### Principais dificuldades
+#### Principais dificuldades
 
 - As Escrituras nunca dizem explicitamente que a "última trombeta" de Paulo é a sétima trombeta de Apocalipse.
 - A ascensão das duas testemunhas diz respeito explicitamente às duas testemunhas, não à Igreja inteira.
 - Os períodos de 42 meses de Apocalipse não são todos explicitamente apresentados como metades sequenciais de um único período de sete anos.
 
-## 3. Pós-Tribulação / No retorno visível de Cristo
+### 3. Pós-Tribulação / No retorno visível de Cristo
 
 **Posição:** No fim da tribulação, associada à manifestação pública de Cristo e imediatamente antes do Reino Milenar.
 
 **Linha do tempo resumida:** era da Igreja -> tribulação final -> retorno visível, ressurreição e arrebatamento dos crentes como um conjunto de acontecimentos -> reinado milenar.
 
-### Passagens de apoio comuns
+#### Passagens de apoio comuns
 
 **Mateus 24:29-31** diz:
 
@@ -833,26 +833,26 @@ Intérpretes pré-tribulacionistas respondem distinguindo o arrebatamento do ret
 
 **Apocalipse 19-20** situa a vitória visível de Cristo sobre a Besta imediatamente antes de descrever os que foram mortos pela Besta voltando à vida e chamar isso de "a primeira ressurreição".
 
-### Principais dificuldades
+#### Principais dificuldades
 
 - Intérpretes pré-tribulacionistas argumentam que essa visão funde passagens que descrevem livramento da ira com passagens que descrevem o retorno judicial de Cristo.
 - Apocalipse não usa explicitamente a expressão "arrebatados" no capítulo 19.
 - Intérpretes pós-tribulacionistas precisam explicar como os crentes encontram Cristo nos ares e depois relacionar esse encontro à Sua descida e ao Seu reinado terreno.
 
-## 4. Pré-Ira
+### 4. Pré-Ira
 
 **Posição:** Depois de tribulação e perseguição intensas, muitas vezes depois do Selo 6, mas antes dos juízos das trombetas e das taças, entendidos como a ira concentrada do Dia do Senhor.
 
 **Linha do tempo resumida:** era da Igreja -> intensa perseguição no fim -> sinais cósmicos -> Cristo aparece e reúne os crentes -> ira divina concentrada -> reinado milenar.
 
-### Ligações de apoio comuns
+#### Ligações de apoio comuns
 
 - **Apocalipse 6:12-17**: o Selo 6 traz sinais cósmicos e o anúncio de que chegou o grande dia da ira.
 - **Mateus 24:29-31**: depois da tribulação surgem sinais cósmicos, Cristo vem nas nuvens, soa uma trombeta e os eleitos são reunidos.
 - **Apocalipse 7:9-17**: uma grande multidão de todas as nações aparece diante do trono e é descrita como vinda da grande tribulação.
 - **1 Tessalonicenses 5:9**: os crentes não estão destinados à ira.
 
-### Principais dificuldades
+#### Principais dificuldades
 
 - O próprio Cordeiro abre os selos anteriores, portanto alguns argumentam que a ira de Deus já atua antes do Selo 6.
 - Apocalipse 7 nunca identifica explicitamente a chegada da grande multidão como o arrebatamento.

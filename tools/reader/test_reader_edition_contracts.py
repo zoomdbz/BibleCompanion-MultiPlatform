@@ -71,6 +71,56 @@ def reviewed_mapping(language, edition, book, anchor, reverse=False):
 
 
 class ReaderEditionContracts(unittest.TestCase):
+    def test_external_description_follows_the_selected_provider(self):
+        controls = APP.split("AnimatedVisibility(visible = !isInternal)", 1)[1]
+        controls = controls.split("// Collections", 1)[0]
+        self.assertRegex(
+            controls,
+            r'text = stringResource\(\s*if \(prefs.readerMode == "biblegateway"\)\s*'
+            r'Res\.string\.external_biblegateway_version_desc\s*else\s*'
+            r'Res\.string\.external_bible_version_desc\s*\)',
+        )
+
+    def test_every_language_has_distinct_external_provider_descriptions(self):
+        paths = sorted((ROOT / "shared/src/commonMain/composeResources").glob("values*/strings.xml"))
+        self.assertEqual(13, len(paths))
+        for path in paths:
+            with self.subTest(locale=path.parent.name):
+                resources = ET.parse(path)
+                gateway = resources.findall("./string[@name='external_biblegateway_version_desc']")
+                biblecom = resources.findall("./string[@name='external_bible_version_desc']")
+                self.assertEqual(1, len(gateway))
+                self.assertEqual(1, len(biblecom))
+                text = gateway[0].text
+                self.assertTrue(text and text.strip())
+                self.assertIn("Bible Gateway", text)
+                self.assertIn("Bible Companion", text)
+                self.assertNotIn("Bible.com", text)
+                self.assertNotIn("YouVersion", text)
+                self.assertNotIn("\ufffd", text)
+                self.assertIn("Bible.com", biblecom[0].text)
+                self.assertIn("YouVersion", biblecom[0].text)
+                self.assertNotEqual(text, biblecom[0].text)
+
+    def test_gateway_description_names_the_website_and_preserves_chinese_scripts(self):
+        resources = ROOT / "shared/src/commonMain/composeResources"
+        def description(locale):
+            return ET.parse(resources / locale / "strings.xml").find(
+                "./string[@name='external_biblegateway_version_desc']"
+            ).text
+        self.assertEqual(
+            "Choose the Bible version for external references. "
+            "Links open on the Bible Gateway website in your browser. "
+            "This does not change the text in Bible Companion.",
+            description("values"),
+        )
+        simplified = description("values-zh-rCN")
+        traditional = description("values-zh-rTW")
+        self.assertIn("浏览器", simplified)
+        self.assertNotIn("瀏覽器", simplified)
+        self.assertIn("瀏覽器", traditional)
+        self.assertNotIn("浏览器", traditional)
+
     def test_every_language_has_the_new_button_label(self):
         paths = sorted((ROOT / "shared/src/commonMain/composeResources").glob("values*/strings.xml"))
         self.assertEqual(13, len(paths))

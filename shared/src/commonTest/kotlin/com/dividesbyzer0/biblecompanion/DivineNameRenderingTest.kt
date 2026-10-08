@@ -126,6 +126,123 @@ class DivineNameRenderingTest {
   }
 
   @Test
+  fun traditionalEnglishKeepsTheOutsideDivineNameColor() {
+    val source = "The LORD spoke; LORD God reigns; the Angel of the LORD!"
+    val rendered = applyDivineName(source, "traditional", "en", true, "old_testament")
+
+    assertEquals(
+      "The [DN]LORD[/DN] spoke; [DN]LORD[/DN] God reigns; " +
+        "the Angel of the [DN]LORD[/DN]!",
+      rendered
+    )
+    assertEquals(source, stripScriptureInlineTags(rendered))
+
+    val explicitSource = "YHWH; yhvh, Yahweh!"
+    val explicit = applyDivineName(
+      explicitSource,
+      "traditional",
+      "en",
+      true,
+      "notes"
+    )
+    assertEquals(
+      "the [DN]LORD[/DN]; the [DN]LORD[/DN], the [DN]LORD[/DN]!",
+      explicit
+    )
+    assertEquals("the LORD; the LORD, the LORD!", stripScriptureInlineTags(explicit))
+    assertEquals(
+      explicit,
+      applyDivineName(explicit, "traditional", "en", true, "notes")
+    )
+    val explicitPlain = applyDivineName(
+      explicitSource,
+      "traditional",
+      "en",
+      false,
+      "notes"
+    )
+    assertEquals(explicitSource, explicitPlain)
+    assertEquals(
+      explicitPlain,
+      applyDivineName(explicitPlain, "traditional", "en", false, "notes")
+    )
+
+    val normalizedWrappers = applyDivineName(
+      "[DN]the LORD[/DN] and the [DN]LORD[/DN]",
+      "traditional",
+      "en",
+      true,
+      "old_testament"
+    )
+    assertEquals("the [DN]LORD[/DN] and the [DN]LORD[/DN]", normalizedWrappers)
+    assertEquals(
+      normalizedWrappers,
+      applyDivineName(normalizedWrappers, "traditional", "en", true, "old_testament")
+    )
+
+    val nestedSource = "[J][DN]the LORD[/DN][/J]; [DN]GOD the LORD[/DN]"
+    val nestedRendered = applyDivineName(
+      nestedSource,
+      "traditional",
+      "en",
+      true,
+      "old_testament"
+    )
+    assertEquals(
+      "[J]the [DN]LORD[/DN][/J]; [DN]GOD[/DN] the [DN]LORD[/DN]",
+      nestedRendered
+    )
+    assertEquals(
+      "the LORD; GOD the LORD",
+      stripScriptureInlineTags(nestedRendered)
+    )
+
+    val nestedDnSource = "[DN]LORD [J]the LORD[/J][/DN]"
+    val nestedDnRendered = applyDivineName(
+      nestedDnSource,
+      "traditional",
+      "en",
+      true,
+      "old_testament"
+    )
+    assertEquals(
+      "[DN]LORD[/DN] [J]the [DN]LORD[/DN][/J]",
+      nestedDnRendered
+    )
+    assertEquals("LORD the LORD", stripScriptureInlineTags(nestedDnRendered))
+  }
+
+  @Test
+  fun englishNameModesCoverNotesBsbKjvAndDeuterocanonicalText() {
+    val cases = listOf(
+      "English notes" to Triple("notes", "YHWH, YHVH, Yahweh.", "NAME, NAME, NAME."),
+      "OT BSB" to Triple(
+        "old_testament",
+        "The LORD, THE LORD; the LORD!",
+        "NAME, NAME; NAME!"
+      ),
+      "OT KJV" to Triple("old_testament", "LORD God reigns.", "NAME God reigns."),
+      "DC" to Triple(
+        "deuterocanonical",
+        "the Angel of the LORD!",
+        "the Angel of NAME!"
+      )
+    )
+    for ((mode, name) in listOf("yahweh" to "Yahweh", "yhwh" to "YHWH", "yhvh" to "YHVH")) {
+      for (colorActive in listOf(true, false)) {
+        val renderedName = if (colorActive) "[DN]$name[/DN]" else name
+        for ((label, case) in cases) {
+          assertEquals(
+            case.third.replace("NAME", renderedName),
+            applyDivineName(case.second, mode, "en", colorActive, case.first),
+            "$mode color=$colorActive $label"
+          )
+        }
+      }
+    }
+  }
+
+  @Test
   fun colorTaggingIsIdempotentWithoutNormalizingScripture() {
     assertEquals(
       "ＹＨＷＨ",
@@ -148,6 +265,54 @@ class DivineNameRenderingTest {
       applyDivineName(first, "yahweh", "en", true, "deuterocanonical")
     )
     assertFalse(first.contains("[DN][DN]"))
+  }
+
+  @Test
+  fun englishSourceWrappersNestCleanlyAndRemainIdempotent() {
+    val source =
+      "[J]The [DN]LORD spoke[/DN] [ADD]new words[/ADD]; " +
+        "[DN]the LORD[/DN]; the [DN]LORD[/DN]; [DN]Lord[/DN][/J]"
+    for ((mode, name) in listOf("yahweh" to "Yahweh", "yhwh" to "YHWH", "yhvh" to "YHVH")) {
+      for (colorActive in listOf(true, false)) {
+        val renderedName = if (colorActive) "[DN]$name[/DN]" else name
+        val expected =
+          "[J]$renderedName spoke [ADD]new words[/ADD]; " +
+            "$renderedName; $renderedName; $renderedName[/J]"
+        val first = applyDivineName(source, mode, "en", colorActive, "old_testament")
+        assertEquals(expected, first, "$mode color=$colorActive")
+        assertEquals(
+          first,
+          applyDivineName(first, mode, "en", colorActive, "old_testament"),
+          "$mode color=$colorActive second pass"
+        )
+      }
+    }
+  }
+
+  @Test
+  fun englishArticleRemovalPreservesBalancedAddAndJesusMarkup() {
+    assertEquals(
+      "[ADD][/ADD][DN]Yahweh[/DN]; [J][DN]Yahweh[/DN][/J]",
+      applyDivineName(
+        "[ADD]the[/ADD] LORD; the [J][DN]LORD[/DN][/J]",
+        "yahweh",
+        "en",
+        true,
+        "old_testament"
+      )
+    )
+  }
+
+  @Test
+  fun englishLordMatchingPreservesTitlesAndLexicalPrefixes() {
+    val source =
+      "the Lord Jesus spoke; Lord Jesus reigns; breathe LORD, there LORD; " +
+        "tHe\nLORD; [DN]Lord[/DN]."
+    assertEquals(
+      "the Lord Jesus spoke; Lord Jesus reigns; breathe [DN]Yahweh[/DN], " +
+        "there [DN]Yahweh[/DN]; [DN]Yahweh[/DN]; [DN]Yahweh[/DN].",
+      applyDivineName(source, "yahweh", "en", true, "old_testament")
+    )
   }
 
   @Test
@@ -195,7 +360,7 @@ class DivineNameRenderingTest {
     assertEquals(russian, applyDivineName(russian, "yahweh", "ru", true, "old_testament"))
 
     assertEquals(
-      "The [DN]Yahweh[/DN] spoke [ADD]new words[/ADD]",
+      "[DN]Yahweh[/DN] spoke [ADD]new words[/ADD]",
       applyDivineName(
         "The [DN]LORD spoke[/DN] [ADD]new words[/ADD]",
         "yahweh",

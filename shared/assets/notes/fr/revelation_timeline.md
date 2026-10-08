@@ -748,13 +748,13 @@ Le désaccord ne porte pas sur le fait que les croyants seront enlevés pour ren
 
 Les quatre emplacements suivants décrivent différentes propositions pour relier le même rassemblement biblique aux visions de l'Apocalypse.
 
-## 1. Prétribulation
+### 1. Prétribulation
 
 **Emplacement :** Avant le premier sceau et avant la période de tribulation de la fin des temps.
 
 **Chronologie courte:** ère de l'Église -> croyants enlevés avant la détresse finale -> sceaux, trompettes et coupes -> retour visible du Christ -> règne millénaire.
 
-### Passages de soutien courants
+#### Passages de soutien courants
 
 - **1 Thessaloniciens 4:13-18** : les croyants sont enlevés à la rencontre du Christ.
 - **1 Thessaloniciens 5:9** : les croyants ne sont pas destinés à la colère.
@@ -762,13 +762,13 @@ Les quatre emplacements suivants décrivent différentes propositions pour relie
 - **Apocalypse 3:10** : promesse de garder l'Église de Philadelphie **de l'heure de l'épreuve qui vient sur le monde entier**.
 - Le mot « Église » n'est pas employé pour les saints présents sur terre en Apocalypse 6-18.
 
-### Emplacement proposé dans l'Apocalypse
+#### Emplacement proposé dans l'Apocalypse
 
 Généralement **entre Apocalypse 3 et 4**, avant le Sceau 1.
 
 Certains utilisent « Monte ici » en Apocalypse 4:1 comme image symbolique de l'enlèvement.
 
-### Principales difficultés
+#### Principales difficultés
 
 - Apocalypse 4:1 décrit explicitement Jean entrant dans une vision, et non l'Église retirée de la terre.
 - L'Apocalypse ne dit jamais directement que l'Église a été enlevée avant le Sceau 1.
@@ -778,32 +778,32 @@ Certains utilisent « Monte ici » en Apocalypse 4:1 comme image symbolique de l
 
 Les interprètes prétribulationnistes répondent en distinguant l'enlèvement du retour visible ultérieur du Christ et en distinguant l'Église des autres saints présents pendant la tribulation.
 
-## 2. Milieu de la tribulation
+### 2. Milieu de la tribulation
 
 **Emplacement :** Vers le milieu de la période finale, souvent associé à Apocalypse 11 et à la septième trompette.
 
 **Chronologie courte:** ère de l'Église -> première moitié de la détresse finale -> croyants enlevés vers le milieu -> jugements ultérieurs -> retour visible du Christ -> règne millénaire.
 
-### Liens de soutien courants
+#### Liens de soutien courants
 
 - **1 Corinthiens 15:52** : la résurrection ou la transformation se produit à « la dernière trompette ».
 - **Apocalypse 11:15** : la septième et dernière trompette sonne.
 - **Apocalypse 11:12** : les deux témoins montent au ciel.
 - L'Apocalypse emploie à plusieurs reprises 42 mois et 1 260 jours, ce qui suggère une importante structure de milieu de période.
 
-### Principales difficultés
+#### Principales difficultés
 
 - L'Écriture ne dit jamais explicitement que la « dernière trompette » de Paul est la septième trompette de l'Apocalypse.
 - L'ascension des deux témoins concerne explicitement ces deux témoins, et non l'Église entière.
 - Les périodes de 42 mois de l'Apocalypse ne sont pas toutes explicitement placées comme deux moitiés successives d'une même période de sept ans.
 
-## 3. Post-tribulation / Au retour visible du Christ
+### 3. Post-tribulation / Au retour visible du Christ
 
 **Emplacement :** À la fin de la tribulation, associé à la manifestation publique du Christ et immédiatement avant le Royaume millénaire.
 
 **Chronologie courte:** ère de l'Église -> détresse finale -> retour visible, résurrection et enlèvement des croyants comme un ensemble d'événements -> règne millénaire.
 
-### Passages de soutien courants
+#### Passages de soutien courants
 
 **Matthieu 24:29-31** dit :
 
@@ -833,26 +833,26 @@ Les interprètes prétribulationnistes répondent en distinguant l'enlèvement d
 
 **Apocalypse 19-20** place la victoire visible du Christ sur la Bête juste avant de décrire le retour à la vie de ceux que la Bête a tués et de l'appeler « la première résurrection ».
 
-### Principales difficultés
+#### Principales difficultés
 
 - Les interprètes prétribulationnistes soutiennent que cette lecture confond les passages décrivant la délivrance de la colère avec ceux qui décrivent le retour judiciaire du Christ.
 - L'Apocalypse n'emploie pas explicitement l'expression « enlevés » au chapitre 19.
 - Les interprètes post-tribulation doivent expliquer comment les croyants rencontrent le Christ dans les airs, puis relier cette rencontre à Sa descente et à Son règne terrestre.
 
-## 4. Pré-colère
+### 4. Pré-colère
 
 **Emplacement :** Après une tribulation et une persécution sévères, souvent après le Sceau 6, mais avant les jugements des trompettes et des coupes compris comme la colère concentrée du Jour du Seigneur.
 
 **Chronologie courte:** ère de l'Église -> persécution sévère de la fin -> signes cosmiques -> le Christ paraît et rassemble les croyants -> colère divine concentrée -> règne millénaire.
 
-### Liens de soutien courants
+#### Liens de soutien courants
 
 - **Apocalypse 6:12-17** : le Sceau 6 apporte des signes cosmiques et l'annonce que le grand jour de la colère est arrivé.
 - **Matthieu 24:29-31** : après la tribulation, des signes cosmiques apparaissent, le Christ vient sur les nuées, une trompette retentit et les élus sont rassemblés.
 - **Apocalypse 7:9-17** : une grande foule de toute nation apparaît devant le trône et il est dit qu'elle sort de la grande tribulation.
 - **1 Thessaloniciens 5:9** : les croyants ne sont pas destinés à la colère.
 
-### Principales difficultés
+#### Principales difficultés
 
 - L'Agneau Lui-même ouvre les sceaux précédents ; certains soutiennent donc que la colère de Dieu est déjà à l'œuvre avant le Sceau 6.
 - Apocalypse 7 ne désigne jamais explicitement l'arrivée de la grande foule comme l'enlèvement.

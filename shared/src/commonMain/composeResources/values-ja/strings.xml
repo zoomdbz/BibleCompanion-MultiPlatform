@@ -53,7 +53,7 @@
     <string name="about_title">このアプリについて</string>
     <string name="about_what_title">これは何か</string>
     <string name="about_what_text">聖書の友は、聖書を文脈に沿って読めるよう支援する、無料でオフライン利用を基本とした聖書リーダー兼学習支援アプリです。対応するすべての言語で旧約聖書と新約聖書の全巻を収録し、任意で第二正典、外典、偽典の各文書群も利用できます。各章では、節ごとの参照を付した聖書本文と、要点、相互参照、写本の異読、翻訳注を一緒に確認できます。聖書本文と編集による学習資料は明確に区別されています。</string>
-    <string name="about_features_text">参照箇所はアプリ内で読むことも、YouVersion/Bible.comまたはBible Gatewayで開くこともできます。英語で読む場合は、アプリ内の本文をBerean Standard BibleとKing James Versionの間で切り替えられます。検索、読み上げ、今日の聖句、読書位置の復元、ブックマーク、保存した聖句、ハイライト、ラベル、表示設定が日々の聖書通読を支えます。学習ツールでは、聖書の年代順、イエスの系譜・アイデンティティ・神性、福音と恵み、正典と翻訳、聖書の暦と祭り、メシア預言、ダニエル書と黙示録の年表、天文上のしるし、霊的戦い、偽りの教え、聖書に対する一般的な歪曲を扱います。</string>
+    <string name="about_features_text">参照箇所はアプリ内で読むことも、YouVersion/Bible.comまたはBible Gatewayで開くこともできます。選択した言語で利用できる場合は、アプリ内で読む聖書を現代訳または伝統訳から選べます。検索、読み上げ、今日の聖句、読書位置の復元、ブックマーク、保存した聖句、ハイライト、ラベル、表示設定が日々の聖書通読を支えます。学習ツールでは、聖書の年代順、イエスの系譜・アイデンティティ・神性、福音と恵み、正典と翻訳、聖書の暦と祭り、メシア預言、ダニエル書と黙示録の年表、天文上のしるし、霊的戦い、偽りの教え、聖書に対する一般的な歪曲を扱います。</string>
     <string name="about_mission_text">聖書の友は、聖書を真理として扱います。忠実で読みやすく各言語に適した本文、正確な参照、神の御名の誠実な扱い、イエスの言葉の明確な表示を目指し、年代、写本上の証拠、翻訳、歴史的な帰属について議論が続く箇所では率直にその事実を示します。アカウントは不要で、主要なコンテンツはオフラインでも利用でき、真剣な弟子訓練とベレアの人々のような聖書の吟味（マタイ28:19、使徒17:11）のために、マタイ10:8の精神に従って無償で提供されています。</string>
     <string name="about_free_text">無料です。広告、購読、アカウント、収益化はありません。すべての栄光を神に。</string>
     <!-- values-ja/strings.xml (Japanese) -->
@@ -325,6 +325,7 @@
     <string name="tts_read_intros">TTSで序文を読む</string>
     <string name="external_bible_version">外部用の聖書訳</string>
     <string name="external_bible_version_desc">外部参照に使う聖書訳を選びます。YouVersion聖書アプリがインストールされていれば、Bible.comのリンクはそのアプリで開きます。インストールされていなければ、ブラウザーでBible.comを開きます。Bible Companion内の本文は変わりません。</string>
+    <string name="external_biblegateway_version_desc">外部参照に使う聖書訳を選びます。リンクを開くと、ブラウザーでBible Gatewayのウェブサイトが開きます。Bible Companion内の本文は変わりません。</string>
     <string name="in_app_bible_version">アプリ内の聖書訳</string>
     <string name="in_app_bible_version_desc">Bible Companion内で読む聖書訳を示します。外部リンクに使用する聖書訳とは別です。</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>

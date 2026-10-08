@@ -744,15 +744,15 @@ La disputa non riguarda il fatto che i credenti saranno rapiti per incontrare Cr
 
 ## Possibili collocazioni del rapimento
 
-Le quattro collocazioni seguenti descrivono diverse proposte per collegare la stessa raccolta biblica alle visioni dell'Apocalisse.
+Le quattro collocazioni seguenti descrivono diverse proposte per collegare lo stesso raduno dei credenti descritto nella Scrittura alle visioni dell'Apocalisse.
 
-## 1. Pre-tribolazione
+### 1. Pre-tribolazione
 
 **Collocazione:** Prima del primo sigillo e prima del periodo di tribolazione della fine dei tempi.
 
 **Cronologia breve:** era della Chiesa -> credenti rapiti prima della tribolazione finale -> sigilli, trombe e coppe -> ritorno visibile di Cristo -> regno millenario.
 
-### Passi di sostegno comuni
+#### Passi di sostegno comuni
 
 - **1 Tessalonicesi 4:13-18**: i credenti vengono rapiti per incontrare Cristo.
 - **1 Tessalonicesi 5:9**: i credenti non sono destinati all'ira.
@@ -760,13 +760,13 @@ Le quattro collocazioni seguenti descrivono diverse proposte per collegare la st
 - **Apocalisse 3:10**: promessa di preservare la chiesa di Filadelfia **dall'ora della prova che verrà sul mondo intero**.
 - La parola «chiesa» non viene usata per i santi sulla terra in Apocalisse 6-18.
 
-### Collocazione proposta nell'Apocalisse
+#### Collocazione proposta nell'Apocalisse
 
 Di solito **fra Apocalisse 3 e 4**, prima del Sigillo 1.
 
 Alcuni usano «Sali quassù» in Apocalisse 4:1 come immagine simbolica del rapimento.
 
-### Difficoltà principali
+#### Difficoltà principali
 
 - Apocalisse 4:1 descrive esplicitamente Giovanni che entra in una visione, non la Chiesa rimossa dalla terra.
 - L'Apocalisse non dice mai direttamente che la Chiesa fu rapita prima del Sigillo 1.
@@ -776,32 +776,32 @@ Alcuni usano «Sali quassù» in Apocalisse 4:1 come immagine simbolica del rapi
 
 Gli interpreti pre-tribolazionisti rispondono distinguendo il rapimento dal successivo ritorno visibile di Cristo e distinguendo la Chiesa dagli altri santi presenti durante la tribolazione.
 
-## 2. Metà tribolazione
+### 2. Metà tribolazione
 
 **Collocazione:** Intorno alla metà del periodo finale, spesso associata ad Apocalisse 11 e alla settima tromba.
 
 **Cronologia breve:** era della Chiesa -> prima metà della tribolazione finale -> credenti rapiti verso la metà -> giudizi successivi -> ritorno visibile di Cristo -> regno millenario.
 
-### Collegamenti di sostegno comuni
+#### Collegamenti di sostegno comuni
 
 - **1 Corinzi 15:52**: la risurrezione o trasformazione avviene all'«ultima tromba».
 - **Apocalisse 11:15**: suona la settima e ultima tromba.
 - **Apocalisse 11:12**: i due testimoni salgono al cielo.
 - L'Apocalisse usa ripetutamente 42 mesi e 1.260 giorni, suggerendo un'importante struttura di metà periodo.
 
-### Difficoltà principali
+#### Difficoltà principali
 
 - La Scrittura non dice mai esplicitamente che l'«ultima tromba» di Paolo sia la settima tromba dell'Apocalisse.
 - L'ascensione dei due testimoni riguarda esplicitamente i due testimoni, non l'intera Chiesa.
 - I periodi di 42 mesi dell'Apocalisse non sono tutti esplicitamente collocati come metà consecutive di un unico periodo di sette anni.
 
-## 3. Post-tribolazione / Al ritorno visibile di Cristo
+### 3. Post-tribolazione / Al ritorno visibile di Cristo
 
 **Collocazione:** Alla fine della tribolazione, associata all'apparizione pubblica di Cristo e immediatamente prima del Regno millenario.
 
 **Cronologia breve:** era della Chiesa -> tribolazione finale -> ritorno visibile, risurrezione e rapimento dei credenti come un complesso di eventi -> regno millenario.
 
-### Passi di sostegno comuni
+#### Passi di sostegno comuni
 
 **Matteo 24:29-31** dice:
 
@@ -831,26 +831,26 @@ Gli interpreti pre-tribolazionisti rispondono distinguendo il rapimento dal succ
 
 **Apocalisse 19-20** colloca la vittoria visibile di Cristo sulla Bestia immediatamente prima di descrivere il ritorno in vita di coloro che erano stati uccisi dalla Bestia e di chiamarlo «la prima risurrezione».
 
-### Difficoltà principali
+#### Difficoltà principali
 
 - Gli interpreti pre-tribolazionisti sostengono che ciò fonde i passi che descrivono la liberazione dall'ira con quelli che descrivono il ritorno giudiziario di Cristo.
 - L'Apocalisse non usa esplicitamente l'espressione «rapiti» nel capitolo 19.
 - Gli interpreti post-tribolazionisti devono spiegare come i credenti incontrino Cristo nell'aria e poi mettere in relazione quell'incontro con la Sua discesa e il Suo regno terreno.
 
-## 4. Pre-ira
+### 4. Pre-ira
 
 **Collocazione:** Dopo una grave tribolazione e persecuzione, spesso dopo il Sigillo 6, ma prima dei giudizi delle trombe e delle coppe intesi come l'ira concentrata del Giorno del Signore.
 
 **Cronologia breve:** era della Chiesa -> grave persecuzione finale -> segni cosmici -> Cristo appare e raccoglie i credenti -> ira divina concentrata -> regno millenario.
 
-### Collegamenti di sostegno comuni
+#### Collegamenti di sostegno comuni
 
 - **Apocalisse 6:12-17**: il Sigillo 6 porta segni cosmici e l'annuncio che il gran giorno dell'ira è arrivato.
 - **Matteo 24:29-31**: dopo la tribolazione appaiono segni cosmici, Cristo viene sulle nuvole, suona una tromba e gli eletti vengono radunati.
 - **Apocalisse 7:9-17**: una grande moltitudine appare davanti al trono da ogni nazione e si dice che esca dalla grande tribolazione.
 - **1 Tessalonicesi 5:9**: i credenti non sono destinati all'ira.
 
-### Difficoltà principali
+#### Difficoltà principali
 
 - L'Agnello stesso apre i sigilli precedenti, quindi alcuni sostengono che l'ira di Dio sia già all'opera prima del Sigillo 6.
 - Apocalisse 7 non definisce mai esplicitamente l'arrivo della grande moltitudine come il rapimento.

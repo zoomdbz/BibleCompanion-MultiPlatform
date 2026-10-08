@@ -139,6 +139,20 @@ private val scriptureInlineTag = Regex(
   "\\[(?:/\\s*)?(?:J|DN|ADD)\\s*]",
   RegexOption.IGNORE_CASE
 )
+private val englishArticle = Regex(
+  "(?<![\\p{L}\\p{Mn}\\p{N}_])the(?![\\p{L}\\p{Mn}\\p{N}_])[\\s\\u00A0]*",
+  RegexOption.IGNORE_CASE
+)
+private val englishArticleBeforeResolvedName = Regex(
+  "(?<![\\p{L}\\p{Mn}\\p{N}_])the" +
+    "((?:[\\s\\u00A0]+|\\[(?:/\\s*)?(?:J|ADD)\\s*])+)" +
+    "(?=$DIVINE_NAME_TOKEN|$CURRENT_DIVINE_NAME_TOKEN)",
+  RegexOption.IGNORE_CASE
+)
+private val englishMarkedLord = Regex(
+  "(?<![\\p{L}\\p{Mn}])Lord(?![\\p{L}\\p{Mn}])",
+  RegexOption.IGNORE_CASE
+)
 private val explicitLatinDivineName = Regex(
   "(?<![\\p{L}\\p{Mn}])(?:Yahweh|YHWH|YHVH|Yahuah|Yahveh|Jehovah|Jah)(?![\\p{L}\\p{Mn}])",
   RegexOption.IGNORE_CASE
@@ -284,22 +298,60 @@ private fun traditionalDivineName(lang: String): String = when (lang) {
   else -> "the LORD"
 }
 
+/** Excludes English articles from color spans without changing displayed words. */
+private fun excludeEnglishArticlesFromDivineNameColor(text: String): String =
+  existingDnSpan.replace(text) { match ->
+    val content = match.groupValues[1]
+    val articles = englishArticle.findAll(content).toList()
+    if (articles.isEmpty()) {
+      match.value
+    } else {
+      buildString {
+        fun appendColoredText(value: String) {
+          val first = value.indexOfFirst { !it.isWhitespace() }
+          if (first < 0) {
+            append(value)
+          } else {
+            val last = value.indexOfLast { !it.isWhitespace() }
+            append(value.substring(0, first))
+            append("[DN]").append(value.substring(first, last + 1)).append("[/DN]")
+            append(value.substring(last + 1))
+          }
+        }
+
+        fun appendColoredSegment(value: String) {
+          var cursor = 0
+          // Keep DN inside Jesus/addition spans instead of creating crossing
+          // tags when an article falls inside an existing semantic wrapper.
+          for (tag in scriptureInlineTag.findAll(value)) {
+            appendColoredText(value.substring(cursor, tag.range.first))
+            append(tag.value)
+            cursor = tag.range.last + 1
+          }
+          appendColoredText(value.substring(cursor))
+        }
+
+        var cursor = 0
+        for (article in articles) {
+          appendColoredSegment(content.substring(cursor, article.range.first))
+          append(article.value)
+          cursor = article.range.last + 1
+        }
+        appendColoredSegment(content.substring(cursor))
+      }
+    }
+  }
+
 private fun replaceEnglishOtTitles(text: String): String {
   var t = englishAngelOfLord.replace(text) { m ->
     m.groupValues[1] + DIVINE_NAME_TOKEN
   }
   return t
-    .replace("the LORD GOD", DIVINE_NAME_TOKEN)
-    .replace("The LORD GOD", DIVINE_NAME_TOKEN)
-    .replace("THE LORD GOD", DIVINE_NAME_TOKEN)
     .replace("GOD the LORD", DIVINE_NAME_TOKEN)
     .replace("LORD GOD", DIVINE_NAME_TOKEN)
     .replace("GOD the Lord", "$DIVINE_NAME_TOKEN the Lord")
     .replace("GOD, the Lord", "$DIVINE_NAME_TOKEN, the Lord")
     .replace("Lord GOD", "Lord $DIVINE_NAME_TOKEN")
-    .replace("the LORD", DIVINE_NAME_TOKEN)
-    .replace("The LORD", DIVINE_NAME_TOKEN)
-    .replace("THE LORD", DIVINE_NAME_TOKEN)
     .replace(Regex("\\bLORD\\b"), DIVINE_NAME_TOKEN)
     .replace(Regex("\\bGOD\\b"), DIVINE_NAME_TOKEN)
 }
@@ -443,10 +495,9 @@ private fun normalizeMarkedDivineNameContent(source: String, lang: String): Stri
       .replace(source) { replacement(it.value) }
 
   return when (lang) {
-    // Transform English source-marked titles before they rejoin surrounding
-    // text. Otherwise an external article in `The [DN]LORD spoke[/DN]` gets
-    // mistaken for part of the marked title by the later global pass.
-    "en" -> replaceEnglishOtTitles(source)
+    // The publisher's DN wrapper proves this Lord is the divine name. Do not
+    // extend case-insensitive matching to ordinary unmarked Lord titles.
+    "en" -> replaceEnglishOtTitles(englishMarkedLord.replace(source, "LORD"))
     "es" -> replaceLatin("Señor|Jehová|Yahveh|Yahvé") { "SEÑOR" }
     "pt" -> replaceLatin("Senhor|Javé|Jeová") { "SENHOR" }
     "fr" -> replaceLatin("Éternel|Seigneur|Dieu|Yahvé|Yahveh") {
@@ -656,19 +707,26 @@ internal fun applyDivineName(
       return existingDnClose.replace(existingDnOpen.replace(text, ""), "")
     }
     val traditionalName = traditionalDivineName(lk)
-    return mapOutsideDivineNameTags(text) { segment ->
+    val colored = mapOutsideDivineNameTags(text) { segment ->
       highlightTraditionalSegment(segment, lk, isOt)
         .replace(TRADITIONAL_NAME_TOKEN, "[DN]$traditionalName[/DN]")
         .replace(DN_OPEN_TOKEN, "[DN]")
         .replace(DN_CLOSE_TOKEN, "[/DN]")
     }
+    return excludeEnglishArticlesFromDivineNameColor(colored)
   }
 
   val localizedName = localizedDivineName(mode, lk)
   val renderedName = if (colorActive) "[DN]$localizedName[/DN]" else localizedName
   val protectedPublisherText = protectNviSelfIdentification(text, lk, isOt)
   val sourceMarked = normalizeMarkedDivineNamesForReplacement(protectedPublisherText, lk, localizedName)
-  val replaced = replaceNameModeSegment(sourceMarked, lk, isOt)
+  val resolved = replaceNameModeSegment(sourceMarked, lk, isOt)
+  // Resolve source wrappers first, then remove only a grammatical article
+  // immediately before a proven divine name. Preserve intervening J/ADD tags.
+  val withoutArticles = englishArticleBeforeResolvedName.replace(resolved) {
+    scriptureInlineTag.findAll(it.groupValues[1]).joinToString("") { tag -> tag.value }
+  }
+  val replaced = withoutArticles
     .replace(DIVINE_NAME_TOKEN, renderedName)
     .replace(CURRENT_DIVINE_NAME_TOKEN, renderedName)
   return restoreNviSelfIdentification(replaced, colorActive)

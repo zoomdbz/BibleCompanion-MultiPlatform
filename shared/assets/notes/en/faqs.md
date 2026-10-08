@@ -150,16 +150,19 @@ God's justice was never absent; it was unfolding. The righteous may suffer for a
 
 ### **5. Why does God seem silent when people cry out for help? (and why are some prayers answered and others not?)**
 
-His silence is not absence; it is invitation. He speaks most clearly through endurance, transformation, and love that persists in darkness.  
-Prayer is not about informing God; it is about aligning the heart with His will. When He seems silent, He is often refining patience and faith. God's silence is never indifference; it is training.
+Waiting for help can hurt. Scripture invites us to approach God for mercy and help, not to hide our weakness (**Hebrews 4:15-16**). Bring Him what troubles you; He cares for you (**1 Peter 5:7**).
 
-- **Psalm 13:1–2**: "How long, O Lord? Will You forget me forever?" David's cry shows that silence is part of the life of faith.
+Sometimes God is already working before we can see the answer. Daniel's prayer was heard from the first day, though the messenger arrived later (**Daniel 10:12-13**). Jesus loved Martha, Mary, and Lazarus, yet waited before going to them (**John 11:5-6**). When He arrived, He shared their grief and wept; then He raised Lazarus (**John 11:33-35; John 11:40-44**).
+
+A different answer need not mean rejection. Paul asked for his thorn to be removed; Christ answered with sustaining grace rather than the removal Paul sought (**2 Corinthians 12:7-9**). Jesus teaches us to trust a Father who gives good gifts (**Matthew 7:9-11**).
+
+- **Psalm 13:1–2**: "How long, O Lord? Will You forget me forever?" David's cry shows we can bring the pain of waiting into prayer.
 
 - **Isaiah 55:8–9**: "My thoughts are not your thoughts, neither are your ways My ways, declares the Lord."
 
-- **Matthew 7:7–8**: "Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you." Persistence is the proof of trust.
+- **Matthew 7:7–8**: "Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you."
 
-Scripture gives several reasons why answers are delayed, different, or denied.
+Scripture gives several truths that shape how we understand answers that are delayed, different, or denied.
 
 **1) Alignment with God's will**
 
@@ -171,11 +174,11 @@ Scripture gives several reasons why answers are delayed, different, or denied.
 
 **2) God's timing and purposes**
 
-- **Habakkuk 2:3**: "If it seems slow, wait for it; it will surely come; it will not delay."
+- **Habakkuk 2:3**: "If it seems slow, wait for it; it will surely come; it will not delay." This promise concerns the appointed fulfillment of the prophetic vision, not a guarantee that every personal request will eventually happen exactly as asked.
 
-- **John 11:4–6**: Jesus delays going to Lazarus "for the glory of God," then raises him.
+- **John 11:4–6**: Jesus says the illness is "for the glory of God," and waits two days before going, though He loves the family.
 
-- **Daniel 10:12–13**: Daniel's prayer is heard at once, yet the answer is delayed amid spiritual conflict.
+- **Daniel 10:12–13**: Daniel's prayer is heard at once, yet the answer is delayed amid spiritual conflict. This passage describes Daniel's experience; it does not establish spiritual conflict as the cause of every delayed answer.
 
 **3) Heart posture and motives**
 
@@ -187,9 +190,13 @@ Scripture gives several reasons why answers are delayed, different, or denied.
 
 - **1 Peter 3:7**: Husbands are warned to live considerately "so that your prayers may not be hindered."
 
+These warnings call us to examine our hearts and conduct. They do not establish that every delayed or denied request proves hidden sin or insufficient faith. Paul's plea for relief also received a different answer (**2 Corinthians 12:7-9**).
+
 **4) God's sufficient grace in unanswered requests**
 
 - **2 Corinthians 12:7–9**: Paul pleads three times for the thorn to be removed; the answer is, "My grace is sufficient for you, for My power is made perfect in weakness."
+
+Paul did not receive the removal he asked for, but Christ did not leave him without help. A request denied can be an act of wisdom and care, not rejection. We may ask for something without seeing what it would bring; Jesus directs us to trust the Father's goodness (**Matthew 7:9-11**).
 
 **5) The Spirit's help in prayer**
 
@@ -197,7 +204,13 @@ Scripture gives several reasons why answers are delayed, different, or denied.
 
 - **James 5:16**: "The prayer of a righteous person has great power as it is working."
 
-**Summary from Scripture:** God's people sometimes wait; God hears; answers accord with His will, timing, and purposes; motives and obedience matter; grace sustains when the request is not granted as asked; the Spirit intercedes even when words fail. Faith matures when prayer becomes less about outcome and more about relationship.
+Paul openly acknowledges that we do not always know how to pray as we should; the Spirit intercedes according to God's will (**Romans 8:26-27**). Paul connects God's promised good with His purpose of making His people like His Son (**Romans 8:28-29**). His purpose reaches beyond the outcome we can currently see.
+
+**Praying for what matters most**
+
+Jesus teaches us to pray for God's kingdom and will, daily bread, forgiveness, and deliverance from evil (**Matthew 6:9-13**). Our ordinary needs matter to the Father; seeking His kingdom first does not mean pretending we do not need food, clothing, or help (**Matthew 6:31-33**). Ask for wisdom when you do not know what to seek (**James 1:5**). Prayer brings our real needs before God while learning to trust His will.
+
+**Summary from Scripture:** Keep asking honestly; entrust the answer to His wisdom. His ways are higher than ours (**Isaiah 55:8-9**), and confidence in prayer rests on asking according to His will (**1 John 5:14-15**). These promises give us reason to trust His care, not a guarantee that every request will happen in our preferred form or time. While you wait, you are not praying alone; the Spirit intercedes and Christ Himself intercedes for His people (**Romans 8:26-27; Romans 8:34**).
 
 ---
 

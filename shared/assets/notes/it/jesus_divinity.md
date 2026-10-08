@@ -208,7 +208,7 @@ E
 
 ---
 
-# Il Grido di Abbandono di Gesù
+## Il Grido di Abbandono di Gesù
 
 Un momento vitale per comprendere la divinità di Gesù è il suo grido dalla croce: *«Dio mio, Dio mio, perché mi hai abbandonato?»* (Matteo 27:46) (Marco 15:34). A prima vista, può sembrare debolezza o persino separazione da Dio, ma in realtà rivela sia la sua piena umanità sia la sua missione divina. Citando la prima riga del Salmo 22 (Salmo 22:1), Gesù attirò l’attenzione sull’intero salmo: un passaggio che inizia con un profondo lamento ma termina con la vittoria e l’adorazione universale. Questo grido non è una perdita di divinità; è il Figlio di Dio che entra pienamente nella nostra esperienza umana di peccato e giudizio per redimerla.
 

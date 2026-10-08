@@ -208,7 +208,7 @@ Et
 
 ---
 
-# Le Cri d’Abandon de Jésus
+## Le Cri d’Abandon de Jésus
 
 Un moment essentiel pour comprendre la divinité de Jésus est son cri depuis la croix : *« Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné ? »* (Matthieu 27:46) (Marc 15:34). À première vue, cela peut sembler être de la faiblesse ou même une séparation d’avec Dieu, mais en réalité cela révèle à la fois son humanité complète et sa mission divine. En citant la première ligne du Psaume 22 (Psaume 22:1), Jésus attira l’attention sur tout le psaume, un passage qui commence par un profond lamento mais se termine par la victoire et l’adoration universelle. Ce cri n’est pas une perte de divinité ; c’est le Fils de Dieu entrant pleinement dans notre expérience humaine du péché et du jugement afin de la racheter.
 

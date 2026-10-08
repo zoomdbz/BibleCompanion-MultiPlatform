@@ -212,7 +212,7 @@ And
 
 ---
 
-# Jesus' Cry of Forsakenness
+## Jesus' Cry of Forsakenness
 
 A vital moment in understanding Jesus' divinity is His cry from the cross: *"My God, my God, why have you forsaken me?"* (Matthew 27:46) (Mark 15:34). At first glance, this can sound like weakness or even separation from God, but in truth it reveals both His full humanity and His divine mission. By quoting the opening line of Psalm 22 (Psalm 22:1), Jesus drew attention to the entire psalm, a passage that begins in deep lament but ends in victory and worldwide worship. This cry is not a loss of divinity; it is the Son of God entering fully into our human experience of sin and judgment so that He could redeem it.
 

@@ -208,7 +208,7 @@ Und
 
 ---
 
-# Der Schrei der Verlassenheit Jesu
+## Der Schrei der Verlassenheit Jesu
 
 Ein entscheidender Moment zum Verständnis der Göttlichkeit Jesu ist sein Schrei vom Kreuz: *„Mein Gott, mein Gott, warum hast du mich verlassen?“* (Matthäus 27:46) (Markus 15:34). Auf den ersten Blick klingt das nach Schwäche oder sogar nach Trennung von Gott, doch in Wahrheit zeigt es sowohl seine volle Menschlichkeit als auch seine göttliche Sendung. Indem er die erste Zeile von Psalm 22 (Psalmen 22:2) zitierte, lenkte Jesus die Aufmerksamkeit auf den ganzen Psalm, ein Abschnitt, der mit tiefem Klagen beginnt, aber mit Sieg und weltweitem Gotteslob endet. Dieser Schrei ist kein Verlust der Göttlichkeit; es ist der Sohn Gottes, der vollständig in unsere menschliche Erfahrung von Sünde und Gericht eintritt, um sie zu erlösen.
 

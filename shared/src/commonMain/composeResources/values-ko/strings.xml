@@ -53,7 +53,7 @@
     <string name="about_title">정보</string>
     <string name="about_what_title">이것은 무엇인가요</string>
     <string name="about_what_text">성경 동반자는 사람들이 성경을 문맥에 따라 읽도록 돕기 위해 만든 무료 오프라인 우선 성경 리더이자 학습 동반자입니다. 지원하는 모든 언어로 된 완전한 구약과 신약을 제공하며, 선택 사항으로 제2경전, 외경, 위경 모음도 제공합니다. 각 장에는 절 번호와 연결된 성경 본문과 함께 핵심 요점, 상호 참조, 사본 이문, 번역 주석이 담겨 있습니다. 성경 본문은 편집자가 작성한 학습 자료와 명확히 구분됩니다.</string>
-    <string name="about_features_text">앱 안에서 참조 구절을 읽거나 YouVersion/Bible.com 또는 Bible Gateway에서 열 수 있습니다. 영어 독자는 앱 내 성경 본문을 베뢰아 표준 성경과 킹 제임스 성경 사이에서 바꿀 수 있습니다. 검색, 텍스트 음성 변환, 오늘의 말씀, 읽던 위치 복원, 북마크, 저장한 구절, 강조 표시, 라벨, 화면 설정이 매일의 성경 읽기를 돕습니다. 학습 도구는 성경 연대기, 예수님의 족보와 정체성과 신성, 복음과 은혜, 정경과 번역, 성경의 달력과 절기, 메시아 예언, 다니엘과 요한계시록 연대표, 천문학적 징조, 영적 전쟁, 거짓 교리, 성경의 일반적인 왜곡을 다룹니다.</string>
+    <string name="about_features_text">앱 안에서 참조 구절을 읽거나 YouVersion/Bible.com 또는 Bible Gateway에서 열 수 있습니다. 선택한 언어에서 제공되는 경우, 앱 안에서 읽을 성경을 현대 번역본이나 전통 번역본 중에서 선택할 수 있습니다. 검색, 텍스트 음성 변환, 오늘의 말씀, 읽던 위치 복원, 북마크, 저장한 구절, 강조 표시, 라벨, 화면 설정이 매일의 성경 읽기를 돕습니다. 학습 도구는 성경 연대기, 예수님의 족보와 정체성과 신성, 복음과 은혜, 정경과 번역, 성경의 달력과 절기, 메시아 예언, 다니엘과 요한계시록 연대표, 천문학적 징조, 영적 전쟁, 거짓 교리, 성경의 일반적인 왜곡을 다룹니다.</string>
     <string name="about_mission_text">성경 동반자는 성경을 진리로 받아들입니다. 신실하고 읽기 쉬우며 각 언어에 알맞은 본문, 정확한 참조, 하나님의 이름에 대한 정직한 표기, 예수님의 말씀에 대한 분명한 표시, 그리고 연대기, 사본 증거, 번역, 역사적 저자 귀속에 논쟁의 여지가 있는 곳에서 솔직한 설명을 제공하는 것을 목표로 합니다. 계정이 필요 없고 핵심 콘텐츠를 오프라인에서도 이용할 수 있으며, 진지한 제자 훈련과 베뢰아 사람들처럼 성경을 살피는 일을 위해 존재합니다(마태복음 28:19; 사도행전 17:11). 이 모든 것은 마태복음 10:8의 정신에 따라 거저 제공합니다.</string>
     <string name="about_free_text">무료입니다. 광고, 구독, 계정, 수익화가 없습니다. 모든 영광을 하나님께 드립니다.</string>
     <!-- values-ko/strings.xml (Korean) -->
@@ -325,6 +325,7 @@
     <string name="tts_read_intros">TTS가 책 서문을 읽음</string>
     <string name="external_bible_version">외부 성경 역본</string>
     <string name="external_bible_version_desc">외부 참조에 사용할 성경 역본을 선택합니다. YouVersion 성경 앱이 설치되어 있으면 Bible.com 링크가 앱에서 열리고, 설치되어 있지 않으면 브라우저에서 Bible.com이 열립니다. Bible Companion의 본문은 변경되지 않습니다.</string>
+    <string name="external_biblegateway_version_desc">외부 참조에 사용할 성경 역본을 선택합니다. 링크는 브라우저에서 Bible Gateway 웹사이트로 열립니다. Bible Companion의 본문은 변경되지 않습니다.</string>
     <string name="in_app_bible_version">앱 내 성경 역본</string>
     <string name="in_app_bible_version_desc">Bible Companion에서 읽는 성경 역본을 표시합니다. 외부 링크에 사용하는 역본과는 별개입니다.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>

@@ -21,6 +21,16 @@ class NoteReferenceTests(unittest.TestCase):
         ref, = citations("zh-Hant", "（馬太福音２４：２９－３１）")
         self.assertEqual((ref.chapter, ref.verse, ref.end_verse), (24, 29, 31))
 
+    def test_short_native_book_names_with_explicit_verses(self):
+        for language, text, expected in (
+                ("fr", "Luc 21:34-36", ("luke", 21, 34, 36)),
+                ("ja", "ルカ21:34-36", ("luke", 21, 34, 36)),
+                ("ja", "使徒14:22", ("acts", 14, 22, 22)),
+                ("de", "Am 1,2", ("amos", 1, 2, 2))):
+            with self.subTest(language=language, text=text):
+                ref, = citations(language, text)
+                self.assertEqual(expected, (ref.book, ref.chapter, ref.verse, ref.end_verse))
+
     def test_complete_chapter_range(self):
         ref, = citations("en", "Daniel 7-9")
         self.assertEqual((ref.chapter, ref.verse, ref.end_chapter, ref.end_verse), (7, None, 9, None))
@@ -45,7 +55,9 @@ class NoteReferenceTests(unittest.TestCase):
         for language, text in (("de", "am 10"), ("pt", "os 42"),
                                ("es", "de 360"), ("ko", "전 458"),
                                ("ar", "بعد 1,000"), ("hi", "यह 69"),
-                               ("zh-Hans", "给出1,290"), ("hi", "दानिय्येल 360-दिन")):
+                               ("zh-Hans", "给出1,290"), ("hi", "दानिय्येल 360-दिन"),
+                               ("ko", "약 2,000"), ("ko", "나 1,290"),
+                               ("ko", "막 1,960"), ("hi", "यह 1,260")):
             with self.subTest(language=language, text=text):
                 self.assertEqual([], citations(language, text))
 

@@ -68,21 +68,40 @@ Zwei Einschränkungen halten diese Zusammenschau redlich. Erstens kann "Auserwä
 
 ## Drangsal ist nicht dasselbe wie göttlicher Zorn
 
-Viele Meinungsverschiedenheiten klären sich, wenn die Begriffe der Schrift unterschieden bleiben.
+Die Meinungsverschiedenheit betrifft sowohl die Art des Leidens als auch den Zeitraum, um den es geht. Gewöhnliche christliche Drangsal, die letzte Drangsal, die große Drangsal und Gottes Zorn dürfen nicht einfach als austauschbare Bezeichnungen behandelt werden.
+
+### Gewöhnliche Drangsal, die Drangsal und die große Drangsal
 
 Drangsal ist Bedrängnis, Leiden und Verfolgung. Jesus sagt seinen Jüngern, dass die Welt sie hassen wird (Johannes 15:18-20). Paulus sagt, dass Gläubige durch viele Bedrängnisse in Gottes Reich eingehen (Apostelgeschichte 14:22). Die Offenbarung zeigt, wie das Tier gegen die Heiligen Krieg führt (Offenbarung 13:7-10). In diesen Stellen bedrängen böse Mächte Gottes Volk.
 
+Jesus verheißt auch, dass seine Nachfolger in der Welt Drangsal haben werden (Johannes 16:33). Diese gewöhnliche Bedrängnis ist nicht schon an sich der zukünftige Zeitraum, der gemeinhin **die Drangsal** genannt wird. Im prätribulationistischen Deutungsrahmen bezeichnet dieser Titel gewöhnlich den letzten siebenjährigen Zeitraum, der mit Daniels siebzigster Jahrwoche gleichgesetzt wird (Daniel 9:27). **Die große Drangsal** bezeichnet die beispiellose Bedrängnis, die Jesus nach dem Gräuel der Verwüstung beschreibt (Matthäus 24:15-22; Markus 13:14-20). Prätribulationistische Ausleger setzen sie gewöhnlich in die zweite Hälfte dieses siebenjährigen Zeitraums. Im Englischen kennzeichnet die Großschreibung diese Begriffe lediglich als erklärende Fachbezeichnungen; sie gibt keine Unterscheidung wieder, die der biblische Urtext selbst vorgibt.
+
 Göttlicher Zorn ist Gottes richterliche Antwort auf das Böse. Gläubige sind nicht zum Zorn bestimmt, sondern zum Heil durch Jesus Christus (1. Thessalonicher 5:9). Sie sind durch sein Blut gerechtfertigt und werden durch ihn vor dem Zorn gerettet (Römer 5:9). Die Offenbarung zeigt den Zorn des Lammes gegen die rebellische Welt (Offenbarung 6:15-17).
 
-Diese Wahrheiten versprechen keine Befreiung von Verfolgung. Die Apostel erlitten Drangsal und blieben dennoch vor Gottes Verurteilung sicher. Die Unterscheidung ermöglicht eine schlüssige Abfolge:
+### Warum prätribulationistische Ausleger die Gerichte als Zorn verstehen
+
+Das Lamm selbst öffnet das erste Siegel (Offenbarung 6:1-2). Das siebte Siegel leitet die Posaunen der Engel ein; Feuer vom himmlischen Altar wird auf die Erde geworfen (Offenbarung 8:1-6). Die letzten Plagen vollenden Gottes Zorn, und die Schalen enthalten ausdrücklich seinen Zorn (Offenbarung 15:1; Offenbarung 16:1). Prätribulationistische Ausleger verstehen die Siegel, Posaunen und Schalen deshalb als aufeinanderfolgende göttliche Gerichte und nicht lediglich als die gewöhnlichen Nöte, die Gläubige schon jetzt erleben.
+
+Ihr Argument besagt nicht, dass Christen jeder Verfolgung entgehen. Es verbindet die Verschonung vom Zorn mit der Entrückung der Gemeinde vor diesem letzten Gerichtszeitraum (1. Thessalonicher 1:10; 1. Thessalonicher 5:9). Nach dieser Lesart gehören zu den Heiligen, die während dieses Zeitraums verfolgt werden, Menschen, die nach der Entrückung der Gemeinde zum Glauben kommen (Offenbarung 7:9-14; Offenbarung 13:7-10). Ihre Anwesenheit beweist innerhalb dieses Deutungsrahmens nicht, dass die Gemeinde während der gesamten Drangsal auf der Erde bleibt. Dies sind Verbindungen, die diese Sicht zwischen einzelnen Schriftstellen herstellt, keine vollständige Chronologie, die in einem einzigen Vers dargelegt wird.
+
+### Die Verheißungen der Bewahrung und des Entkommens
+
+- **Offenbarung 3:10:** Jesus verheißt der Gemeinde in Philadelphia Schutz vor der weltweiten Stunde der Prüfung. Prätribulationistische Ausleger betonen, dass die Verheißung die **Stunde** betrifft und nicht nur ihre Gefahren; sie verstehen sie als Ausschluss vom Zeitraum selbst. Andere Ausleger verstehen darunter Bewahrung während der Prüfung und vergleichen damit Jesu Gebet, dass seine Jünger in der Welt bleiben, während Gott sie vor dem Bösen bewahrt (Johannes 17:15). Die Meinungsverschiedenheit betrifft die Art der Bewahrung und die Anwendung der Verheißung auf die gesamte Gemeinde.
+- **Lukas 21:34-36:** Jesus warnt, dass der kommende Tag wie eine Schlinge über die ganze Erde kommen wird. Er gebietet Wachsamkeit und Gebet, damit man allem Kommenden entkommt und vor dem Menschensohn steht. Dies ist die Stelle über das Entkommen vor allem, was kommen wird. Prätribulationistische Ausleger bringen sie mit Offenbarung 3:10 in Verbindung und sehen darin eine Stütze für die Entrückung vor der weltweiten Prüfung. Die Stelle selbst nennt weder einen siebenjährigen Zeitplan noch beschreibt sie die Entrückung aus 1. Thessalonicher 4:16-17.
+- **Matthäus 24:4-8 und Markus 13:5-8:** Verführung, Kriege, Hungersnöte und Erdbeben gehören zum Anfang der Wehen; Jesus sagt, dass das Ende noch nicht da ist. Diese einleitende Bedrängnis darf weder mit seiner späteren Beschreibung der großen Drangsal gleichgesetzt noch so behandelt werden, als würde jede Warnung ausdrücklich göttlichen Zorn bezeichnen.
+- **Matthäus 24:15-22; Markus 13:14-20; Lukas 21:20-24:** Jesus gebietet den Menschen in Judäa außerdem zu fliehen, wenn die bezeichnete Gefahr eintritt. Matthäus 24:20 fordert sie auf, darum zu beten, dass ihre Flucht nicht im Winter oder am Sabbat stattfindet; Markus 13:18 erwähnt den Winter. Diese Anweisungen betreffen eine irdische Flucht und verwenden nicht dieselbe Formulierung wie das Gebet in Lukas 21:36, dem Kommenden zu entkommen.
+
+### Worüber die Lesarten weiterhin uneinig sind
+
+Die Apostel erlitten Drangsal und blieben zugleich vor Gottes Verurteilung sicher. Ausleger der Vor-Zorn-Lehre und einige posttribulationistische Ausleger unterscheiden diese Verfolgung vom strafenden Zorn und schlagen folgende Abfolge vor:
 
 1. Die Heiligen ertragen Verfolgung und die große Drangsal.
 2. Christus erscheint und sammelt sein Volk.
 3. Gott bringt richterlichen Zorn über das unbußfertige Böse.
 
-Matthäus 24:29-31 setzt die Sammlung ausdrücklich nach der dort beschriebenen Drangsal an. Jesaja 26:19-21 stellt Auferstehung neben einen vorübergehenden Schutzraum, während der göttliche Zorn vorübergeht. Offenbarung 6:12-17 schildert kosmische Zeichen und kündigt den großen Tag des Zorns an. Zusammen stützen diese Texte eine Sammlung nach der Drangsal oder vor dem Zorn stärker als eine Sammlung vor jeder endzeitlichen Bedrängnis.
+Matthäus 24:29-31 setzt die Sammlung der Auserwählten ausdrücklich nach der dort beschriebenen Drangsal an. Jesaja 26:19-21 stellt die Auferstehung neben einen vorübergehenden Schutzraum, während der göttliche Zorn vorübergeht. Offenbarung 6:12-17 schildert kosmische Zeichen und kündigt den großen Tag des Zorns an. Diese Ausleger nutzen diese Verbindungen, um die vorgeschlagene Abfolge zu stützen. Prätribulationistische Ausleger unterscheiden diese spätere Sammlung der Auserwählten von einer früheren Sammlung der Gemeinde; die Bestimmung der Gruppen und Ereignisse ist Teil der Meinungsverschiedenheit.
 
-Die genaue Grenze bleibt umstritten. Ausleger sind sich uneinig, ob bereits die Siegel göttlichen Zorn vollstrecken oder ob das sechste Siegel eine neue Phase ankündigt. Der Text stützt den Schutz vor Gottes Zorn, verlangt aber sorgfältige Aufmerksamkeit für Ursprung und Zweck jedes Gerichts.
+Auch der Beginn des Zorns bleibt umstritten. Prätribulationistische Ausleger verweisen darauf, dass das Lamm die Siegel öffnet, und verstehen Offenbarung 6:16-17 als Beschreibung bereits laufender Gerichte. Ausleger der Vor-Zorn-Lehre unterscheiden die frühere Verfolgung vom angekündigten Tag des Zorns; die Märtyrer unter dem fünften Siegel fragen noch immer, wie lange es dauern wird, bis Gott richtet und ihr Blut rächt (Offenbarung 6:9-11). Gottes Souveränität über die Ereignisse und sein strafender Zorn hängen zusammen, sind aber keine identischen Beschreibungen jeder Handlung innerhalb einer Vision. Die Verheißung, dass Gläubige nicht zum Zorn bestimmt sind, bleibt bestehen; der Zeitpunkt und die Art ihrer Befreiung erfordern diese weiteren interpretativen Verbindungen.
 
 ## Die letzte Posaune und die siebte Posaune
 

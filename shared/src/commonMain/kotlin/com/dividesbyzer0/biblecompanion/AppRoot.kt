@@ -5637,7 +5637,12 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
           Spacer(Modifier.height(4.dp))
           Text(
-            text = stringResource(Res.string.external_bible_version_desc),
+            text = stringResource(
+              if (prefs.readerMode == "biblegateway")
+                Res.string.external_biblegateway_version_desc
+              else
+                Res.string.external_bible_version_desc
+            ),
             style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant
           )
@@ -5848,16 +5853,6 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       // ─── SUPPORT SECTION ───
       SectionHeader(stringResource(Res.string.support))
 
-      if (!isApplePlatform) {
-        Text(stringResource(Res.string.donation), style = MaterialTheme.typography.titleSmall)
-        Text(stringResource(Res.string.donation_text))
-        OutlinedButton(
-          onClick = { platformOpenUrl(ctx, "https://paypal.me/domvgreco") }
-        ) { Text(stringResource(Res.string.donate_button)) }
-        Text(stringResource(Res.string.donate_message), style = MaterialTheme.typography.bodySmall)
-        Spacer(Modifier.height(8.dp))
-      }
-
       OutlinedButton(
         onClick = {
           val url = if (isApplePlatform)
@@ -6032,12 +6027,11 @@ fun AboutScreen(onBack: () -> Unit) {
           horizontalAlignment = Alignment.Start
         ) {
           Text(stringResource(Res.string.about_what_title), style = MaterialTheme.typography.titleMedium)
-          Text(stringResource(Res.string.about_what_text))
-          Text(stringResource(Res.string.about_features_text))
+          Text(stringResource(Res.string.about_what_text), style = MaterialTheme.typography.bodyLarge)
+          Text(stringResource(Res.string.about_features_text), style = MaterialTheme.typography.bodyLarge)
           Text(
             stringResource(Res.string.about_mission_text),
-            style = MaterialTheme.typography.bodyMedium,
-            fontStyle = FontStyle.Italic
+            style = MaterialTheme.typography.bodyLarge
           )
           Text(
             stringResource(Res.string.about_free_text),

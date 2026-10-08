@@ -68,21 +68,40 @@ Two cautions keep the synthesis honest. First, "elect" can refer to Israel, the 
 
 ## Tribulation Is Not the Same as Divine Wrath
 
-Much disagreement clears when Scripture's categories remain distinct.
+The disagreement concerns both the kind of suffering and the period under discussion. Ordinary Christian tribulation, the final Tribulation, the Great Tribulation, and God's wrath cannot simply be treated as interchangeable labels.
+
+### Ordinary tribulation, the Tribulation, and the Great Tribulation
 
 Tribulation is pressure, affliction, and persecution. Jesus tells His disciples that the world will hate them (John 15:18-20). Paul says believers enter God's kingdom through many tribulations (Acts 14:22). Revelation shows the beast warring against the saints (Revelation 13:7-10). In these passages, wicked powers afflict God's people.
 
+Jesus also promises that His followers will have tribulation in the world (John 16:33). That ordinary affliction is not, by itself, the future period commonly called **the Tribulation**. In the pre-tribulation framework, that title usually names the final seven-year period identified with Daniel's seventieth week (Daniel 9:27). **The Great Tribulation** names the unparalleled distress Jesus describes after the abomination of desolation (Matthew 24:15-22; Mark 13:14-20). Pre-tribulation readers commonly place it in the latter half of that seven-year period. The capital letters are explanatory labels, not a distinction supplied by the original text.
+
 Divine wrath is God's judicial answer to evil. Believers are not appointed to wrath but to salvation through Jesus Christ (1 Thessalonians 5:9). They are justified by His blood and saved from wrath through Him (Romans 5:9). Revelation portrays the Lamb's wrath against the rebellious world (Revelation 6:15-17).
 
-These truths do not promise exemption from persecution. The apostles suffered tribulation while remaining secure from God's condemnation. The distinction allows a coherent sequence:
+### Why pre-tribulation readers regard the judgments as wrath
+
+The Lamb Himself opens the first seal (Revelation 6:1-2). The seventh seal introduces the angels' trumpets and fire from the heavenly altar cast upon the earth (Revelation 8:1-6). The final plagues complete God's wrath, and the bowls explicitly contain His wrath (Revelation 15:1; Revelation 16:1). Pre-tribulation readers therefore understand the seals, trumpets, and bowls as successive divine judgments, not merely the ordinary troubles believers already experience.
+
+Their argument does not claim that Christians escape all persecution. It connects exemption from wrath with removal of the Church before this final judgment period (1 Thessalonians 1:10; 1 Thessalonians 5:9). In that reading, the saints persecuted during the period include people who come to faith after the Church's rapture (Revelation 7:9-14; Revelation 13:7-10). Their presence does not, within that framework, prove that the Church remains on earth throughout the Tribulation. These are connections the view draws between passages, not a complete chronology stated in any single verse.
+
+### The promises to keep and to escape
+
+- **Revelation 3:10:** Jesus promises the church in Philadelphia protection from the worldwide hour of testing. Pre-tribulation readers stress that the promise concerns the **hour**, not only its dangers; they understand it as exclusion from the period itself. Other readers understand protection through the testing and compare Jesus' prayer for His disciples to remain in the world while God keeps them from the evil one (John 17:15). The disagreement concerns the manner of protection and the promise's application to the wider Church.
+- **Luke 21:34-36:** Jesus warns that the coming day will catch the whole earth like a snare. He commands watchfulness and prayer for escape from what is coming and for standing before the Son of Man. This is the passage about escaping all that is to come. Pre-tribulation readers connect it with Revelation 3:10 as support for removal before the worldwide trial. The passage does not itself specify a seven-year timetable or describe the catching up of 1 Thessalonians 4:16-17.
+- **Matthew 24:4-8 and Mark 13:5-8:** deception, wars, famines, and earthquakes belong to the beginning of birth pains; Jesus says the end is not yet. This introductory distress should not be collapsed into His later description of the Great Tribulation or treated as though each warning explicitly names divine wrath.
+- **Matthew 24:15-22; Mark 13:14-20; Luke 21:20-24:** Jesus also commands people in Judea to flee when the specified danger appears. Matthew 24:20 tells them to pray that their flight will not occur in winter or on the Sabbath; Mark 13:18 mentions winter. These instructions concern earthly flight, not the same wording as Luke 21:36's prayer to escape what is coming.
+
+### Where the readings still disagree
+
+The apostles suffered tribulation while remaining secure from God's condemnation. Pre-wrath readers, and some post-tribulation readers, distinguish that persecution from punitive wrath and propose this sequence:
 
 1. The saints endure persecution and the great tribulation.
 2. Christ appears and gathers His people.
 3. God brings judicial wrath against unrepentant evil.
 
-Matthew 24:29-31 explicitly places the gathering after the tribulation described there. Isaiah 26:19-21 places resurrection beside temporary shelter while divine indignation passes. Revelation 6:12-17 portrays cosmic signs and announces the great day of wrath. Together these texts support a post-tribulation or pre-wrath gathering better than a gathering before all end-time distress.
+Matthew 24:29-31 explicitly places the gathering of the elect after the tribulation described there. Isaiah 26:19-21 places resurrection beside temporary shelter while divine indignation passes. Revelation 6:12-17 portrays cosmic signs and announces the great day of wrath. These readers use those connections to support the proposed sequence. Pre-tribulation readers distinguish this later gathering of the elect from an earlier gathering of the Church; identifying the groups and the events forms part of the disagreement.
 
-The precise boundary remains debated. Interpreters disagree about whether the seals themselves express divine wrath or whether the sixth seal announces a new phase. The text supports protection from God's wrath while requiring careful attention to the source and purpose of each judgment.
+The beginning of wrath also remains disputed. Pre-tribulation readers point to the Lamb opening the seals and read Revelation 6:16-17 as describing judgments already underway. Pre-wrath readers distinguish the earlier persecution from the announced day of wrath; the martyrs under the fifth seal still ask how long until God judges and avenges their blood (Revelation 6:9-11). God's sovereignty over events and His punitive wrath are related, but they are not identical descriptions of every action within a vision. The promise that believers are not appointed to wrath stands; the timing and manner of their deliverance require these further interpretive connections.
 
 ## The Last Trumpet and the Seventh Trumpet
 

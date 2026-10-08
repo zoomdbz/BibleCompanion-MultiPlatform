@@ -10,60 +10,78 @@ A palavra hebraica para «sinais» é *otot*, a mesma palavra usada para os sina
 
 Uma «lua de sangue» ocorre durante um eclipse lunar total, quando a lua se torna vermelha. Joel 2:31 diz: «O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e terrível dia do SENHOR» (cf. Atos 2:20; Apocalipse 6:12).
 
-### Luas de Sangue em Tétrades e Eclipses de Festas (1493 até 2033)
+### Tétrades de Luas de Sangue e Eclipses Festivos: Eventos Antigos até 2033
 
-Uma tétrade é composta por quatro eclipses lunares totais consecutivos, cada um separado por aproximadamente seis meses. Várias tétrades coincidiram exatamente com a Páscoa e Sucot. A janela de 2024–2027 adiciona um novo padrão: um eclipse solar total na véspera de Nisã 1, um eclipse solar anular em Rosh Hashanah, e um eclipse lunar em uma observância de Purim em quatro anos consecutivos, os dois centrais sendo luas de sangue totais, emoldurados por eclipses penumbrais em Shushan Purim 5784 e Purim Katan 5787. Após um período tranquilo de 2028–2031 sem alinhamentos de festas, 2032 produz uma lua de sangue em Pesach Sheni, e 2033 concentra quatro eclipses alinhados a festas em um único ano: um eclipse solar total na véspera de Nisã 1, uma lua de sangue de Páscoa, um eclipse solar parcial na véspera de Rosh Hashanah, e uma lua de sangue de Sucot.
+Uma tétrade consiste em quatro eclipses lunares totais consecutivos, separados por cerca de seis meses. Várias tétrades históricas se agruparam em torno da Páscoa e de Sucot. Alguns máximos ocorrem na véspera de uma festa, não em seu primeiro dia; o pôr do sol local e a localização importam. A janela de 2024–2027 acrescenta um padrão distinto: um eclipse lunar em uma observância de Purim por quatro anos consecutivos, com duas luas de sangue totais entre eclipses penumbrais em Shushan Purim 5784 e Purim Katan 5787. Eclipses solares também coincidem com o início de Nisã, Trombetas e outras observâncias de lua nova. Os anos intermediários não ficam inteiramente vazios: dezembro de 2029 traz um eclipse de Hanukkah, junho de 2030 um alinhamento de lua nova na Nova Zelândia e maio de 2031 um eclipse penumbral em Pesach Sheni. Em 2033, quatro eclipses se agrupam em torno do início de Nisã, Páscoa, Trombetas e Sucot.
 
-| Ano(s) | Tipo | Eventos Circundantes | Alinhamento com Festa |
-|---------|------|----------------------|----------------------|
-| 1493–1494 | Tétrade (4 eclipses lunares totais) | Inquisição Espanhola; expulsão de judeus (1492); Colombo chega às Américas | Páscoa e Sucot, ambos os anos |
-| 1949–1950 | Tétrade (4 eclipses lunares totais) | Estado de Israel restaurado (14 de maio de 1948) | Páscoa e Sucot, ambos os anos |
-| 1967–1968 | Tétrade (4 eclipses lunares totais) | Guerra dos Seis Dias; Jerusalém reunificada | Páscoa e Sucot, ambos os anos |
-| 2014–2015 | Tétrade mais 2 eclipses solares | Alinhamento moderno mais citado | Páscoa e Sucot, ambos os anos |
-| 2024 | Eclipse lunar penumbral | Primeiro de quatro eclipses lunares alinhados a Purim em quatro anos | Shushan Purim (24–25 de mar, 15 de Adar II 5784) |
-| 2024 | Eclipse solar total | «Grande Eclipse Americano», de costa a costa | Véspera de Nisã 1 (8 de abr, 29 de Adar II 5784) |
-| 2024 | Eclipse solar anular | Caminho do «anel de fogo» através das Américas | Rosh Hashanah (2 de out, 1º de Tishrei 5785) |
-| 2025 | Lunar total (lua de sangue) | Segundo dos quatro; primeira lua de sangue | Purim (13–14 de mar, 14 de Adar 5785) |
-| 2026 | Lunar total (lua de sangue) | Terceiro dos quatro; segunda lua de sangue consecutiva de Purim | Purim (2–3 de mar, 14 de Adar 5786) |
-| 2027 | Eclipse lunar penumbral | Quarto dos quatro, fechando a sequência de Purim | Purim Katan (20–21 de fev, 14 de Adar I 5787) |
-| 2032 | Lunar total (lua de sangue) | Visível de Israel; comemoração da segunda Páscoa | Pesach Sheni (25 de abr, 14 de Iyyar 5792) |
-| 2033 | Eclipse solar total | Um dia antes do ano novo bíblico | Véspera de Nisã 1 (30 de mar, 29 de Adar II 5793) |
-| 2033 | Lunar total (lua de sangue) | Primeira lua de sangue de Páscoa desde 2015 | Páscoa (14 de abr, 15 de Nisã 5793) |
-| 2033 | Eclipse solar parcial | Um dia antes da Festa das Trombetas | Véspera de Rosh Hashanah (23 de set, 29 de Elul 5793) |
-| 2033 | Lunar total (lua de sangue) | Mesmo ano, pareada com a lua de sangue de Páscoa | Sucot (8 de out, 15 de Tishrei 5794) |
+Esta tabela preserva o contexto histórico e acrescenta eclipses ligados à cronologia bíblica, às festas e às luas novas. Ela não lista todos os eclipses. As conexões com o calendário bíblico incluem Páscoa e Sucot (Levítico 23:5–6, 34), Trombetas (Levítico 23:24), a Páscoa do segundo mês (Números 9:10–11), ofertas de lua nova (Números 28:11), Purim (Ester 9:20–22) e a Festa da Dedicação, Hanukkah (João 10:22). Purim Katan é a comemoração posterior do ano bissexto em Adar I, não uma festa separada ordenada em Ester.
 
-As tétrades históricas coincidem com grandes pontos de virada na história judaica. O agrupamento de 2024–2033 não forma uma tétrade, mas contém as primeiras luas de sangue em dias de festa desde 2015, um eclipse lunar em uma observância de Purim em quatro anos consecutivos (5784–5787), e quatro eclipses alinhados a festas concentrados apenas em 2033. Se esses alinhamentos têm peso profético é uma questão de interpretação; os eventos astronômicos em si são fatos documentados.
+**Como ler as datas:** As datas modernas abaixo usam ano-mês-dia e a data, em Tempo Universal, do máximo do eclipse. As datas hebraicas comparam esse mesmo instante com o pôr do sol local e o calendário judaico fixo; não afirmam que o eclipse foi visível em todos os locais citados. Um eclipse lunar pode atravessar duas datas civis locais. Por exemplo, 3 de março de 2026 corresponde à noite de 2–3 de março em partes das Américas. Israel pode já estar em uma festa enquanto a América permanece na véspera. Purim em 14 de Adar refere-se a cidades sem muralhas; Jerusalém observa Shushan Purim em 15 de Adar. Uma véspera aparece como véspera, sem ser contada silenciosamente como a própria festa.
 
-<!-- ECLIPSE_CATALOG_2024_2033_BEGIN -->
-### Catálogo completo de eclipses, 2024-2033
+| Data ou anos | Tipo | Eventos ao redor ou conexão bíblica | Alinhamento festivo e data regional |
+|---------------|------|-------------------------------------|-------------------------------------|
+| 13 de março de 4 a.C. | Eclipse lunar parcial | Candidato comum ao eclipse que Josefo registra antes da morte de Herodes, o Grande; o Herodes de Mateus 2 | Marcador cronológico proposto, não um alinhamento festivo estabelecido nem a data do nascimento de Jesus |
+| 10 de janeiro de 1 a.C. | Eclipse lunar total (lua de sangue) | Candidato alternativo ao eclipse de Josefo antes da morte de Herodes | Cronologia minoritária; o eclipse é certo, sua identificação continua contestada |
+| 3 de abril de 33 d.C. | Eclipse lunar parcial | Uma das principais datas propostas para a Crucificação; a fase umbral final ocorreu perto do nascer da lua em Jerusalém | Páscoa nessa cronologia reconstruída; a visibilidade a olho nu da parte eclipsada continua contestada |
+| 1493–1494 | Tétrade (4 eclipses lunares totais) | Inquisição Espanhola; expulsão dos judeus (1492); Colombo chega às Américas | Datas julianas: 2 de abr e 25 de set de 1493; 22 de mar e 15 de set de 1494. Datas calculadas de Jerusalém: Páscoa; véspera de Sucot; Páscoa; Sucot |
+| 1949–1950 | Tétrade (4 eclipses lunares totais) | Renascimento do Estado de Israel (14 de maio de 1948) | 13 de abr e 7 de out de 1949: vésperas da Páscoa e de Sucot. 2 de abr de 1950: Páscoa, 16 de Nisã em Israel, 15 em Nova York; 26 de set: Sucot |
+| 1967–1968 | Tétrade (4 eclipses lunares totais) | Guerra dos Seis Dias; reunificação de Jerusalém | 24 de abr e 18 de out de 1967: vésperas da Páscoa e de Sucot. 13 de abr de 1968: Páscoa; 6 de out: véspera de Sucot no máximo do eclipse em Israel |
+| 2014–2015 | Tétrade mais 2 eclipses solares | Alinhamento moderno mais citado | 15 de abr de 2014: Páscoa; 8 de out: véspera de Sucot em Israel. As duas luas de sangue e os dois eclipses solares de 2015 aparecem separadamente abaixo |
+| 2015-03-20 | Eclipse solar total | Mês do ano-novo bíblico; no meio da tétrade de 2014–2015 | Israel: 29 de Adar 5775, véspera de Nisã; Japão e Austrália: 1 de Nisã, Rosh Chodesh Nisan |
+| 2015-04-04 | Eclipse lunar total (lua de sangue) | Terceira lua de sangue da tétrade de 2014–2015 | Páscoa: 15 de Nisã 5775 em Israel e Nova York; 16 de Nisã no Japão e na Austrália |
+| 2015-09-13 | Eclipse solar parcial | Trombetas e o ano-novo de outono | Israel: 29 de Elul 5775, véspera de Rosh Hashanah; Auckland: 1 de Tishrei 5776, Rosh Hashanah |
+| 2015-09-28 | Eclipse lunar total (lua de sangue) | Quarta lua de sangue da tétrade de 2014–2015 | Israel e Nova York: 15 de Tishrei 5776, Sucot; Honolulu permanece em 14 de Tishrei no máximo |
+| 2016-03-23 | Eclipse lunar penumbral | Época de Purim; não é uma lua de sangue total | Israel: 13 de Adar II 5776, véspera de Purim; Japão e Austrália: 14 de Adar II, Purim |
+| 2017-02-26 | Eclipse solar anular | Observância de lua nova | Rosh Chodesh Adar: 30 de Shevat 5777 em Israel; 1 de Adar no Japão e na Austrália |
+| 2017-08-21 | Eclipse solar total | «Grande Eclipse Americano»; início de Elul | América: 29 de Av 5777, véspera de Elul; Israel após o pôr do sol: 30 de Av, Rosh Chodesh Elul |
+| 2018-02-15 | Eclipse solar parcial | Observância de lua nova | Rosh Chodesh Adar: 1 de Adar 5778 em Israel; 30 de Shevat em Nova York |
+| 2018-07-13 | Eclipse solar parcial | Observância de lua nova | Israel, Japão e Austrália: 1 de Av 5778, Rosh Chodesh Av |
+| 2018-08-11 | Eclipse solar parcial | Observância de lua nova | Rosh Chodesh Elul: 30 de Av 5778 em Israel; 1 de Elul no Japão e na Austrália |
+| 2019-07-02 | Eclipse solar total | Observância de lua nova | Israel após o pôr do sol: 30 de Sivan 5779, Rosh Chodesh Tammuz; Chile permanece em 29 de Sivan no máximo |
+| 2019-12-26 | Eclipse solar anular | Festa da Dedicação | Israel e os sete locais de referência: 28 de Kislev 5780, dia 4 de Hanukkah |
+| 2020-06-21 | Eclipse solar anular | Alinhamento de lua nova entre fusos horários | Auckland após o pôr do sol: 30 de Sivan 5780, Rosh Chodesh Tammuz; Israel permanece em 29 de Sivan |
+| 2020-12-14 | Eclipse solar total | Festa da Dedicação | Israel: 29 de Kislev 5781, dia 5 de Hanukkah; Chile e Nova York: 28 de Kislev, dia 4 |
+| 2021-06-10 | Eclipse solar anular | Observância de lua nova | Rosh Chodesh Tammuz: 30 de Sivan 5781 em Israel; 1 de Tammuz no Japão e na Austrália |
+| 2021-12-04 | Eclipse solar total | Sobreposição da Dedicação e de uma observância de lua nova | Israel: 30 de Kislev 5782, dia 6 de Hanukkah e Rosh Chodesh Tevet; Japão: 1 de Tevet, dia 7 de Hanukkah |
+| 2022-04-30 | Eclipse solar parcial | Observância de lua nova | Israel após o pôr do sol: 30 de Nisã 5782, Rosh Chodesh Iyyar; Chile permanece em 29 de Nisã |
+| 2022-05-16 | Eclipse lunar total (lua de sangue) | Alinhamento da Páscoa do segundo mês no Pacífico | Honolulu: 14 de Iyyar 5782, Pesach Sheni; Israel já está em 15 de Iyyar |
+| 2022-10-25 | Eclipse solar parcial | Observância de lua nova | Rosh Chodesh Cheshvan: 30 de Tishrei 5783 em Israel; 1 de Cheshvan no Japão e na Austrália |
+| 2023-05-05 | Eclipse lunar penumbral | Alinhamento da Páscoa do segundo mês nas Américas | Nova York e Chile: 14 de Iyyar 5783, Pesach Sheni; Israel após o pôr do sol: 15 de Iyyar |
+| 2023-10-14 | Eclipse solar anular | Observância de lua nova | Israel após o pôr do sol: 30 de Tishrei 5784, Rosh Chodesh Cheshvan; a América permanece em 29 de Tishrei |
+| 2024-03-25 | Eclipse lunar penumbral | Primeiro de quatro eclipses em observâncias de Purim em 2024–2027 | Israel e Nova York: 15 de Adar II 5784, Shushan Purim |
+| 2024-04-08 | Eclipse solar total | Segundo «Grande Eclipse Americano»; Nisã começa | Caminho norte-americano: 29 de Adar II 5784, véspera de Nisã; Israel após o pôr do sol: 1 de Nisã, Rosh Chodesh Nisan |
+| 2024-10-02 | Eclipse solar anular | «Anel de fogo» pelo Pacífico, Chile e Argentina | Chile: 29 de Elul 5784, véspera de Rosh Hashanah; Israel: 1 de Tishrei 5785, Rosh Hashanah / Trombetas |
+| 2025-03-14 | Eclipse lunar total (lua de sangue) | Segundo dos quatro eclipses em observâncias de Purim; primeira lua de sangue total | Israel e Nova York: 14 de Adar 5785, Purim; Auckland: 15 de Adar, Shushan Purim |
+| 2025-03-29 | Eclipse solar parcial | Mês do ano-novo bíblico | Israel: 29 de Adar 5785, véspera de Nisã; Japão e Austrália: 1 de Nisã, Rosh Chodesh Nisan |
+| 2025-09-21 | Eclipse solar parcial | Véspera de Trombetas entre fusos horários | Israel: 29 de Elul 5785, véspera de Rosh Hashanah; Nova York permanece em 28 de Elul no máximo |
+| 2026-02-17 | Eclipse solar anular | «Anel de fogo» sobre a Antártida; alinhamento de lua nova | Rosh Chodesh Adar: 30 de Shevat 5786 em Israel; 1 de Adar no Japão e na Austrália |
+| 2026-03-03 | Eclipse lunar total (lua de sangue) | Terceiro dos quatro; segunda lua de sangue consecutiva em Purim | Israel e Américas: 14 de Adar 5786, Purim em cidades sem muralhas; Japão e Austrália: 15 de Adar, Shushan Purim |
+| 2026-08-12 | Eclipse solar total | Fase do anel de diamante; totalidade atravessa o Ártico, Groenlândia, Islândia e Espanha | Caminho ibérico: 29 de Av 5786, véspera de Elul; Israel após o pôr do sol: 30 de Av, Rosh Chodesh Elul |
+| 2027-02-06 | Eclipse solar anular | Observância de lua nova em ano bissexto | Israel após o pôr do sol: 30 de Shevat 5787, Rosh Chodesh Adar I; Nova York permanece em 29 de Shevat |
+| 2027-02-20 | Eclipse lunar penumbral | Quarto dos quatro, encerrando a sequência de Purim | Israel e Nova York: 14 de Adar I 5787, Purim Katan; Chile permanece em 13 de Adar I no máximo |
+| 2029-12-05 | Eclipse solar parcial | Festa da Dedicação; o intervalo não fica sem alinhamentos festivos | Israel: 29 de Kislev 5790, dia 5 de Hanukkah; Nova York e Chile: 28 de Kislev, dia 4 |
+| 2030-06-01 | Eclipse solar anular | Alinhamento de lua nova entre fusos horários | Auckland após o pôr do sol: 1 de Sivan 5790, Rosh Chodesh Sivan; Israel permanece em 29 de Iyyar |
+| 2031-05-07 | Eclipse lunar penumbral | Páscoa do segundo mês | Israel e Nova York: 14 de Iyyar 5791, Pesach Sheni |
+| 2032-04-25 | Eclipse lunar total (lua de sangue) | Páscoa do segundo mês; o alinhamento de calendário não implica totalidade visível em Israel | Israel no máximo: 14 de Iyyar 5792, Pesach Sheni; Japão e Austrália: 15 de Iyyar |
+| 2033-03-30 | Eclipse solar total | Início do mês do ano-novo bíblico | Alasca: véspera de Nisã; Israel após o pôr do sol: 1 de Nisã 5793, Rosh Chodesh Nisan; Nova York: 29 de Adar II 5793 |
+| 2033-04-14 | Eclipse lunar total (lua de sangue) | Época da Páscoa; emparelhado com a lua de sangue do outono | Nova York: 15 de Nisã 5793, dia 1 da Páscoa; Israel: 16 de Nisã, durante Pães Asmos; Japão: dia 2 da Páscoa |
+| 2033-09-23 | Eclipse solar parcial | Trombetas e o ano-novo de outono | Israel: 29 de Elul 5793, véspera de Rosh Hashanah; Japão e Austrália: 1 de Tishrei 5794, Rosh Hashanah |
+| 2033-10-08 | Eclipse lunar total (lua de sangue) | Época de Sucot; no mesmo ano da lua de sangue da Páscoa | Israel e Nova York: 15 de Tishrei 5794, dia 1 de Sucot; Japão e Austrália: 16 de Tishrei, dia 2 |
 
-Este catálogo inclui todos os eclipses solares e lunares das tabelas decenais da NASA de 2024 a 2033, não apenas os eventos que coincidem com datas do calendário bíblico ou judaico. As datas indicam o dia, no Tempo Universal Coordenado (UTC), em que o eclipse atinge seu máximo. Um eclipse lunar total pode produzir a aparência avermelhada comumente chamada de lua de sangue. Eclipses lunares parciais e penumbrais são eventos diferentes e aparecem identificados separadamente. A visibilidade depende do local.
+**Cronologia antiga:** As datas antigas e as datas de 1493–1494 acima usam o calendário juliano; as datas modernas usam o calendário gregoriano. O ano astronômico 0 significa 1 a.C., não um ano histórico adicional. Josefo registra um eclipse antes da morte de Herodes, mas não o data. As entradas de 4 a.C. e 1 a.C. representam identificações concorrentes, não dois eclipses ambos estabelecidos como aquele evento. 7 de abril de 30 d.C. e 3 de abril de 33 d.C. são as principais datas propostas para a Crucificação; a tabela inclui apenas o eclipse real na segunda. Um eclipse lunar não pode explicar a escuridão diurna de Mateus 27:45. Datas festivas antigas exigem a reconstrução do calendário judaico observado; os alinhamentos hebraicos de 1493–1494 usam um calendário calculado, não um registro de observação preservado. Nenhum eclipse estabelece a data exata do nascimento de Jesus nem prova uma interpretação profética.
 
-| Ano | Eclipses solares | Eclipses lunares |
-|---|---|---|
-| 2024 | 2024-04-08 - Total <!-- eclipse:2024-04-08:solar-total -->; 2024-10-02 - Anular <!-- eclipse:2024-10-02:solar-annular --> | 2024-03-25 - Penumbral <!-- eclipse:2024-03-25:lunar-penumbral -->; 2024-09-18 - Parcial <!-- eclipse:2024-09-18:lunar-partial --> |
-| 2025 | 2025-03-29 - Parcial <!-- eclipse:2025-03-29:solar-partial -->; 2025-09-21 - Parcial <!-- eclipse:2025-09-21:solar-partial --> | 2025-03-14 - Total <!-- eclipse:2025-03-14:lunar-total -->; 2025-09-07 - Total <!-- eclipse:2025-09-07:lunar-total --> |
-| 2026 | 2026-02-17 - Anular <!-- eclipse:2026-02-17:solar-annular -->; 2026-08-12 - Total <!-- eclipse:2026-08-12:solar-total --> | 2026-03-03 - Total <!-- eclipse:2026-03-03:lunar-total -->; 2026-08-28 - Parcial <!-- eclipse:2026-08-28:lunar-partial --> |
-| 2027 | 2027-02-06 - Anular <!-- eclipse:2027-02-06:solar-annular -->; 2027-08-02 - Total <!-- eclipse:2027-08-02:solar-total --> | 2027-02-20 - Penumbral <!-- eclipse:2027-02-20:lunar-penumbral -->; 2027-07-18 - Penumbral <!-- eclipse:2027-07-18:lunar-penumbral -->; 2027-08-17 - Penumbral <!-- eclipse:2027-08-17:lunar-penumbral --> |
-| 2028 | 2028-01-26 - Anular <!-- eclipse:2028-01-26:solar-annular -->; 2028-07-22 - Total <!-- eclipse:2028-07-22:solar-total --> | 2028-01-12 - Parcial <!-- eclipse:2028-01-12:lunar-partial -->; 2028-07-06 - Parcial <!-- eclipse:2028-07-06:lunar-partial -->; 2028-12-31 - Total <!-- eclipse:2028-12-31:lunar-total --> |
-| 2029 | 2029-01-14 - Parcial <!-- eclipse:2029-01-14:solar-partial -->; 2029-06-12 - Parcial <!-- eclipse:2029-06-12:solar-partial -->; 2029-07-11 - Parcial <!-- eclipse:2029-07-11:solar-partial -->; 2029-12-05 - Parcial <!-- eclipse:2029-12-05:solar-partial --> | 2029-06-26 - Total <!-- eclipse:2029-06-26:lunar-total -->; 2029-12-20 - Total <!-- eclipse:2029-12-20:lunar-total --> |
-| 2030 | 2030-06-01 - Anular <!-- eclipse:2030-06-01:solar-annular -->; 2030-11-25 - Total <!-- eclipse:2030-11-25:solar-total --> | 2030-06-15 - Parcial <!-- eclipse:2030-06-15:lunar-partial -->; 2030-12-09 - Penumbral <!-- eclipse:2030-12-09:lunar-penumbral --> |
-| 2031 | 2031-05-21 - Anular <!-- eclipse:2031-05-21:solar-annular -->; 2031-11-14 - Híbrido <!-- eclipse:2031-11-14:solar-hybrid --> | 2031-05-07 - Penumbral <!-- eclipse:2031-05-07:lunar-penumbral -->; 2031-06-05 - Penumbral <!-- eclipse:2031-06-05:lunar-penumbral -->; 2031-10-30 - Penumbral <!-- eclipse:2031-10-30:lunar-penumbral --> |
-| 2032 | 2032-05-09 - Anular <!-- eclipse:2032-05-09:solar-annular -->; 2032-11-03 - Parcial <!-- eclipse:2032-11-03:solar-partial --> | 2032-04-25 - Total <!-- eclipse:2032-04-25:lunar-total -->; 2032-10-18 - Total <!-- eclipse:2032-10-18:lunar-total --> |
-| 2033 | 2033-03-30 - Total <!-- eclipse:2033-03-30:solar-total -->; 2033-09-23 - Parcial <!-- eclipse:2033-09-23:solar-partial --> | 2033-04-14 - Total <!-- eclipse:2033-04-14:lunar-total -->; 2033-10-08 - Total <!-- eclipse:2033-10-08:lunar-total --> |
+As tétrades históricas coincidem com grandes pontos de virada da história judaica. O padrão de Purim de 2024–2027 não é uma tétrade porque dois de seus quatro eclipses são penumbrais. Uma tétrade astronômica separada ocorre em 2032–2033: 25 de abril e 18 de outubro de 2032, seguidos por 14 de abril e 8 de outubro de 2033. Ela difere do padrão conhecido de Páscoa–Sucot: o primeiro coincide com Pesach Sheni no máximo em Israel, e 18 de outubro de 2032 não coincide com Páscoa nem Sucot nos calendários de referência. Os quatro eclipses selecionados de 2033 coincidem com as festas citadas, suas vésperas ou o início de Nisã, conforme o local. Se esses alinhamentos têm peso profético é questão de interpretação; os eventos astronômicos são fatos documentados.
 
-Fontes: [eclipses solares da NASA, 2021-2030](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2021.html); [eclipses solares da NASA, 2031-2040](https://eclipse.gsfc.nasa.gov/SEdecade/SEdecade2031.html); [eclipses lunares da NASA, 2021-2030](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2021.html); [eclipses lunares da NASA, 2031-2040](https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2031.html). Previsões de eclipses de Fred Espenak, do Centro de Voos Espaciais Goddard da NASA.
-<!-- ECLIPSE_CATALOG_2024_2033_END -->
-
+**Fontes e método:** [Josefo, Antiguidades 17](https://penelope.uchicago.edu/josephus/ant-17.html); [eclipses lunares antigos antes de 1 d.C.](https://eclipse.gsfc.nasa.gov/LEcat5/LE-0099-0000.html) e [1–100 d.C.](https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html); [estudo de datação da Crucificação](https://www.nature.com/articles/306743a0) e [análise da visibilidade lunar](https://articles.adsabs.harvard.edu/pdf/1990QJRAS..31...53S); [tétrades históricas, 1401–1500](https://eclipse.gsfc.nasa.gov/LEcat5/LE1401-1500.html) e [1901–2000](https://eclipse.gsfc.nasa.gov/LEcat5/LE1901-2000.html); [previsões solares modernas](https://eclipse.gsfc.nasa.gov/SEcat5/SE2001-2100.html) e [lunares](https://eclipse.gsfc.nasa.gov/LEcat5/LE2001-2100.html); [cálculos do pôr do sol do Hebcal](https://www.hebcal.com/home/1663/zmanim-halachic-times-api) e [conversão de datas](https://www.hebcal.com/home/219/hebrew-date-converter-rest-api). A comparação moderna verifica Jerusalém, Nova York, Santiago, Tóquio, Sydney, Auckland e Honolulu no máximo do eclipse, incluindo diferenças de observância entre Israel e a diáspora. Esses locais representam diferenças de fuso horário; não formam um mapa de visibilidade nem um teste exaustivo de cada localidade. Previsões de eclipses: Fred Espenak, Centro de Voo Espacial Goddard da NASA.
 ---
 
 ## Eclipses Solares
 
 Eclipses solares na tradição judaica são considerados sinais para as nações (Sucá 29a). Vários eclipses notáveis coincidem com datas significativas:
 
-- **20 de março de 2015:** Eclipse solar total em **Nisã 1** (o ano novo bíblico dos meses, Êxodo 12:2), no meio da tétrade de luas de sangue de 2014–2015
-- **13 de setembro de 2015:** Eclipse solar parcial em **1º de Tisrei 5776, Rosh Hashaná**. Juntamente com o eclipse de 20 de março, esses dois eclipses solares ocorreram no primeiro dia dos dois meses mais significativos do calendário hebraico (Nisã e Tisrei), envolvendo a tétrade de luas de sangue de 2014–2015 em um único ano. Os professores de profecia Mark Biltz e John Hagee tratam os seis eventos (quatro luas de sangue + dois eclipses solares) como um único aglomerado.
-- **21 de agosto de 2017:** «Grande Eclipse Americano», primeiro eclipse solar total visível de costa a costa nos EUA em 99 anos. Data hebraica: **29 de Av 5777**, o último dia do mês de Av e a véspera de 1º de Elul. Elul é a estação de 40 dias de arrependimento que leva a Rosh Hashaná; muitos professores messiânicos notaram o momento.
+- **20 de março de 2015:** Eclipse solar total em **29 de Adar 5775, véspera de Nisã 1** (o ano novo bíblico dos meses, Êxodo 12:2); Nisã 1 começou ao pôr do sol local. O eclipse ocorreu no meio da tétrade de luas de sangue de 2014–2015.
+- **13 de setembro de 2015:** Eclipse solar parcial em **29 de Elul 5775, véspera de Rosh Hashaná**; **1º de Tisrei 5776** começou ao pôr do sol. Juntamente com o eclipse de 20 de março, esses dois eclipses solares ocorreram nas vésperas dos dois meses mais significativos do calendário hebraico (Nisã e Tisrei), envolvendo a tétrade de luas de sangue de 2014–2015 em um único ano. Os professores de profecia Mark Biltz e John Hagee tratam os seis eventos (quatro luas de sangue + dois eclipses solares) como um único aglomerado.
+- **21 de agosto de 2017:** «Grande Eclipse Americano», primeiro eclipse solar total visível de costa a costa nos EUA em 99 anos. Ao longo do caminho americano, a data hebraica era **29 de Av 5777**, véspera de Elul. No máximo do eclipse, Israel já estava após o pôr do sol em **30 de Av, Rosh Chodesh Elul**. Elul é a estação de 40 dias de arrependimento que leva a Rosh Hashaná; muitos professores messiânicos notaram o momento.
 - **8 de abril de 2024:** Segundo Grande Eclipse Americano; os dois caminhos (2017 e 2024) formam um X sobre os Estados Unidos
 
 ---
@@ -157,9 +175,10 @@ Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm 
 
 ### Eclipses Solares
 
-- **8 de abril de 2024:** Eclipse solar total atravessando a América do Norte. Data hebraica: 29 Adar II, o último dia antes de Nisan 1 (o ano novo bíblico) começar ao pôr do sol.
-- **2 de outubro de 2024:** Eclipse solar anular («anel de fogo») em **1 Tishrei 5785, Rosh Hashanah, a Festa das Trombetas (Yom Teruah)**.
-- **12 de agosto de 2026:** Eclipse solar total (trajetória através da Península Ibérica e Norte da África). Data hebraica: 29 Av, sem alinhamento festivo.
+- **8 de abril de 2024:** Eclipse solar total atravessando a América do Norte. Ao longo do caminho, a data hebraica era **29 de Adar II 5784**, antes de Nisã 1 começar ao pôr do sol. No máximo, Israel já estava após o pôr do sol em **1 de Nisã, Rosh Chodesh Nisan**.
+- **2 de outubro de 2024:** Eclipse solar anular («anel de fogo») em **29 de Elul 5784, véspera de Rosh Hashanah**, ao longo do caminho chileno e argentino. No máximo, Israel já estava em **1º de Tishrei 5785, a Festa das Trombetas (Yom Teruah)** após o pôr do sol. Este é um alinhamento de calendário, não uma afirmação de que o eclipse era visível de Israel.
+- **17 de fevereiro de 2026:** Eclipse solar anular («anel de fogo») sobre a Antártida. Data hebraica: **30 de Shevat 5786, Rosh Chodesh Adar**.
+- **12 de agosto de 2026:** Eclipse solar total com fase de anel de diamante. O caminho da totalidade atravessa o Ártico, a Groenlândia, a Islândia e a Espanha; o Norte da África vê apenas um eclipse parcial. Ao longo do caminho ibérico, a data hebraica é **29 de Av 5786**, véspera de Elul; no máximo, Israel já está após o pôr do sol em **30 de Av, Rosh Chodesh Elul**. O anel de diamante é uma fase breve no início ou no fim da totalidade, não um tipo separado de eclipse.
 
 **Tempestades Solares Antes da Lua de Sangue de Purim de 2026**
 
@@ -167,6 +186,6 @@ Em **1–5 de fevereiro de 2026**, a região ativa AR4366, um grupo de manchas s
 
 ### Nota
 
-Este período não produz uma tétrade no sentido clássico (quatro eclipses lunares totais consecutivos na Páscoa e Sukkot; a última foi 2014–2015), e outros eclipses de fato ocorrem entre estes quatro. O que 2024–2027 apresenta é um padrão distinto: um eclipse solar em Rosh Hashanah, um eclipse lunar em uma observância de Purim em quatro anos consecutivos, dois deles luas de sangue, e uma tempestade solar extraordinária precedendo a segunda lua de sangue.
+Os quatro eclipses em observâncias de Purim de 2024–2027 não formam uma tétrade astronômica: dois são penumbrais, e outros eclipses ocorrem entre eles. Este período apresenta um padrão distinto: um eclipse solar na véspera de Rosh Hashanah ao longo de seu caminho americano enquanto Israel já está em Trombetas, um eclipse lunar em uma observância de Purim por quatro anos consecutivos, dois deles luas de sangue, e uma tempestade solar extraordinária antes da segunda lua de sangue.
 
 Lucas 21:25, *«Haverá sinais no sol, na lua e nas estrelas.»* Esses alinhamentos são fatos documentados. Seu significado final pertence apenas a Deus.

@@ -68,21 +68,40 @@ Dos precauciones mantienen la honestidad de esa síntesis. Primero, según el co
 
 ## La tribulación no equivale a la ira divina
 
-Buena parte del desacuerdo se aclara cuando mantenemos distintas las categorías de la Escritura.
+El desacuerdo concierne tanto al tipo de sufrimiento como al período del que se habla. La tribulación cristiana ordinaria, la Tribulación final, la Gran Tribulación y la ira de Dios no pueden tratarse sin más como términos intercambiables.
 
-La tribulación incluye presión, aflicción y persecución. Jesús advierte a sus discípulos que el mundo los odiará (Juan 15:18-20). Pablo enseña que los creyentes entran en el reino de Dios a través de muchas dificultades (Hechos 14:22). Apocalipsis muestra a la bestia haciendo guerra contra los santos (Apocalipsis 13:7-10). En estos pasajes, los poderes malignos afligen al pueblo de Dios.
+### La tribulación ordinaria, la Tribulación y la Gran Tribulación
 
-La ira divina es la respuesta judicial de Dios ante el mal. Dios no ha destinado a los creyentes a sufrir su ira, sino a recibir salvación por medio de Jesucristo (1 Tesalonicenses 5:9). Su sangre los justifica, y por medio de él reciben salvación de la ira (Romanos 5:9). Apocalipsis presenta la ira del Cordero contra el mundo rebelde (Apocalipsis 6:15-17).
+La tribulación es presión, aflicción y persecución. Jesús dice a sus discípulos que el mundo los odiará (Juan 15:18-20). Pablo afirma que los creyentes entran en el reino de Dios a través de muchas tribulaciones (Hechos 14:22). Apocalipsis muestra a la bestia haciendo guerra contra los santos (Apocalipsis 13:7-10). En estos pasajes, los poderes malignos afligen al pueblo de Dios.
 
-Estas verdades no prometen librar a los creyentes de toda persecución. Los apóstoles sufrieron tribulación sin quedar bajo la condenación de Dios. La distinción permite proponer una secuencia coherente:
+Jesús también promete que sus seguidores tendrán tribulación en el mundo (Juan 16:33). Esa aflicción ordinaria no es, por sí sola, el período futuro que suele llamarse **la Tribulación**. En el marco pretribulacionista, ese título suele designar el período final de siete años identificado con la septuagésima semana de Daniel (Daniel 9:27). **La Gran Tribulación** designa la angustia sin precedentes que Jesús describe después de la abominación desoladora (Mateo 24:15-22; Marcos 13:14-20). Los lectores pretribulacionistas suelen situarla en la segunda mitad de ese período de siete años. Las mayúsculas son etiquetas explicativas, no una distinción que proporcione el texto original.
 
-1. Los santos soportan persecución y la gran tribulación.
-2. Cristo se manifiesta y reúne a su pueblo.
-3. Dios descarga su ira judicial contra el mal que no se arrepiente.
+La ira divina es la respuesta judicial de Dios ante el mal. Los creyentes no están destinados a la ira, sino a alcanzar la salvación por medio de Jesucristo (1 Tesalonicenses 5:9). Son justificados por su sangre y salvados de la ira por medio de él (Romanos 5:9). Apocalipsis presenta la ira del Cordero contra el mundo rebelde (Apocalipsis 6:15-17).
 
-Mateo 24:29-31 sitúa explícitamente la reunión después de la tribulación descrita allí. Isaías 26:19-21 coloca la resurrección junto a un refugio temporal mientras pasa la indignación divina. Apocalipsis 6:12-17 presenta señales cósmicas y anuncia el gran día de la ira. Juntos, estos textos apoyan mejor una reunión posterior a la tribulación o anterior a la ira que una reunión anterior a toda angustia del tiempo final.
+### Por qué los lectores pretribulacionistas consideran que los juicios son ira
 
-El límite preciso sigue en debate. Los intérpretes discrepan sobre si los sellos mismos expresan la ira divina o si el sexto sello anuncia una nueva fase. El texto respalda la protección frente a la ira de Dios, pero exige atender al origen y al propósito de cada juicio.
+El Cordero mismo abre el primer sello (Apocalipsis 6:1-2). El séptimo sello da paso a las trompetas de los ángeles y al fuego del altar celestial arrojado sobre la tierra (Apocalipsis 8:1-6). Las últimas plagas consuman la ira de Dios, y las copas contienen explícitamente su ira (Apocalipsis 15:1; Apocalipsis 16:1). Por eso, los lectores pretribulacionistas entienden los sellos, las trompetas y las copas como juicios divinos sucesivos, no como meras dificultades ordinarias que los creyentes ya experimentan.
+
+Su argumento no sostiene que los cristianos escapen de toda persecución. Relaciona la exención de la ira con el traslado de la Iglesia antes de este período final de juicio (1 Tesalonicenses 1:10; 1 Tesalonicenses 5:9). Según esa lectura, los santos perseguidos durante el período incluyen a personas que llegan a la fe después del arrebatamiento de la Iglesia (Apocalipsis 7:9-14; Apocalipsis 13:7-10). Dentro de ese marco, su presencia no demuestra que la Iglesia permanezca en la tierra durante toda la Tribulación. Estas son conexiones que la postura establece entre distintos pasajes, no una cronología completa expuesta en un solo versículo.
+
+### Las promesas de guardar y escapar
+
+- **Apocalipsis 3:10:** Jesús promete a la iglesia de Filadelfia protección frente a la hora de prueba mundial. Los lectores pretribulacionistas recalcan que la promesa se refiere a la **hora**, no solo a sus peligros; la entienden como exclusión del período mismo. Otros lectores entienden que se trata de protección durante la prueba y la comparan con la oración de Jesús para que sus discípulos permanezcan en el mundo mientras Dios los guarda del maligno (Juan 17:15). El desacuerdo concierne a la manera de proteger y a la aplicación de la promesa a la Iglesia en su conjunto.
+- **Lucas 21:34-36:** Jesús advierte que el día venidero atrapará a toda la tierra como un lazo. Ordena velar y orar para escapar de lo que viene y estar en pie ante el Hijo del Hombre. Este es el pasaje que habla de escapar de todo lo que está por venir. Los lectores pretribulacionistas lo relacionan con Apocalipsis 3:10 como apoyo al traslado anterior a la prueba mundial. El pasaje mismo no especifica un calendario de siete años ni describe el arrebatamiento de 1 Tesalonicenses 4:16-17.
+- **Mateo 24:4-8 y Marcos 13:5-8:** el engaño, las guerras, las hambrunas y los terremotos forman parte del principio de los dolores de parto; Jesús dice que el fin aún no ha llegado. Esta angustia inicial no debe confundirse con su descripción posterior de la Gran Tribulación ni tratarse como si cada advertencia designara explícitamente la ira divina.
+- **Mateo 24:15-22; Marcos 13:14-20; Lucas 21:20-24:** Jesús también ordena a quienes estén en Judea que huyan cuando aparezca el peligro señalado. Mateo 24:20 les dice que oren para que su huida no ocurra en invierno ni en sábado; Marcos 13:18 menciona el invierno. Estas instrucciones se refieren a una huida terrenal, no emplean las mismas palabras que la oración de Lucas 21:36 para escapar de lo que viene.
+
+### En qué siguen discrepando las lecturas
+
+Los apóstoles sufrieron tribulación mientras permanecían a salvo de la condenación de Dios. Los lectores de la postura pre-ira, y algunos lectores postribulacionistas, distinguen esa persecución de la ira punitiva y proponen esta secuencia:
+
+1. Los santos soportan la persecución y la gran tribulación.
+2. Cristo aparece y reúne a su pueblo.
+3. Dios trae su ira judicial contra el mal impenitente.
+
+Mateo 24:29-31 sitúa explícitamente la reunión de los elegidos después de la tribulación descrita allí. Isaías 26:19-21 coloca la resurrección junto a un refugio temporal mientras pasa la indignación divina. Apocalipsis 6:12-17 presenta señales cósmicas y anuncia el gran día de la ira. Estos lectores emplean esas conexiones para respaldar la secuencia propuesta. Los lectores pretribulacionistas distinguen esta reunión posterior de los elegidos de una reunión anterior de la Iglesia; la identificación de los grupos y los acontecimientos forma parte del desacuerdo.
+
+El comienzo de la ira también sigue en debate. Los lectores pretribulacionistas señalan que el Cordero abre los sellos y entienden que Apocalipsis 6:16-17 describe juicios que ya están en curso. Los lectores de la postura pre-ira distinguen la persecución anterior del día anunciado de la ira; los mártires bajo el quinto sello todavía preguntan cuánto falta para que Dios juzgue y vengue su sangre (Apocalipsis 6:9-11). La soberanía de Dios sobre los acontecimientos y su ira punitiva están relacionadas, pero no son descripciones idénticas de cada acción dentro de una visión. La promesa de que los creyentes no están destinados a la ira permanece en pie; el momento y la manera de su liberación requieren estas conexiones interpretativas adicionales.
 
 ## La última trompeta y la séptima trompeta
 

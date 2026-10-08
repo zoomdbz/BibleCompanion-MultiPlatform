@@ -746,13 +746,13 @@ The dispute is not whether believers will be caught up to meet Christ. It is cle
 
 The four placements below describe different proposals for relating the same biblical gathering to Revelation's visions.
 
-## 1. Pre-Tribulation
+### 1. Pre-Tribulation
 
 **Placement:** Before the first seal and before the end-time tribulation period.
 
 **Short timeline:** Church age -> believers caught up before the final tribulation -> seals, trumpets, and bowls -> visible return of Christ -> millennial reign.
 
-### Common supporting passages
+#### Common supporting passages
 
 - **1 Thessalonians 4:13-18**: believers caught up to meet Christ.
 - **1 Thessalonians 5:9**: believers are not appointed to wrath.
@@ -760,13 +760,13 @@ The four placements below describe different proposals for relating the same bib
 - **Revelation 3:10**: promise to keep the Philadelphia church **from the hour of testing coming upon the whole world**.
 - The word "church" is not used for the earthly saints in Revelation 6-18.
 
-### Proposed location in Revelation
+#### Proposed location in Revelation
 
 Usually **between Revelation 3 and 4**, before Seal 1.
 
 Some use Revelation 4:1, "Come up here," as a symbolic picture of the rapture.
 
-### Main difficulties
+#### Main difficulties
 
 - Revelation 4:1 explicitly describes John entering a vision, not the Church being removed.
 - Revelation never directly says the Church was raptured before Seal 1.
@@ -776,32 +776,32 @@ Some use Revelation 4:1, "Come up here," as a symbolic picture of the rapture.
 
 Pre-tribulation interpreters answer by distinguishing the rapture from Christ's later visible return and by distinguishing the Church from other saints present during the tribulation.
 
-## 2. Mid-Tribulation
+### 2. Mid-Tribulation
 
 **Placement:** Around the midpoint of the final period, often associated with Revelation 11 and the seventh trumpet.
 
 **Short timeline:** Church age -> first half of the final tribulation -> believers caught up near the midpoint -> later judgments -> visible return of Christ -> millennial reign.
 
-### Common supporting connections
+#### Common supporting connections
 
 - **1 Corinthians 15:52**: resurrection/change occurs at "the last trumpet."
 - **Revelation 11:15**: the seventh and final trumpet sounds.
 - **Revelation 11:12**: the two witnesses ascend to heaven.
 - Revelation repeatedly uses 42 months and 1,260 days, suggesting a major midpoint structure.
 
-### Main difficulties
+#### Main difficulties
 
 - Scripture never explicitly says Paul's "last trumpet" is Revelation's seventh trumpet.
 - The two witnesses' ascension is explicitly about the two witnesses, not the whole Church.
 - Revelation's 42-month periods are not all explicitly placed as sequential halves of one seven-year period.
 
-## 3. Post-Tribulation / At the Visible Return of Christ
+### 3. Post-Tribulation / At the Visible Return of Christ
 
 **Placement:** At the end of tribulation, associated with Christ's public appearing and immediately before the Millennial Kingdom.
 
 **Short timeline:** Church age -> final tribulation -> visible return, resurrection, and catching up of believers as one complex of events -> millennial reign.
 
-### Common supporting passages
+#### Common supporting passages
 
 **Matthew 24:29-31** says:
 
@@ -831,26 +831,26 @@ Pre-tribulation interpreters answer by distinguishing the rapture from Christ's 
 
 **Revelation 19-20** places Christ's visible victory over the Beast immediately before Revelation describes those killed by the Beast coming to life and calls it "the first resurrection."
 
-### Main difficulties
+#### Main difficulties
 
 - Pre-tribulation interpreters argue this collapses passages describing deliverance from wrath into passages describing Christ's judicial return.
 - Revelation does not explicitly use the phrase "caught up" in chapter 19.
 - Post-tribulation interpreters must explain how believers meet Christ in the air and then relate that meeting to His descent and earthly reign.
 
-## 4. Pre-Wrath
+### 4. Pre-Wrath
 
 **Placement:** After severe tribulation and persecution, often after Seal 6, but before the trumpet and bowl judgments understood as the concentrated Day-of-the-Lord wrath.
 
 **Short timeline:** Church age -> severe end-time persecution -> cosmic signs -> Christ appears and gathers believers -> concentrated divine wrath -> millennial reign.
 
-### Common supporting connections
+#### Common supporting connections
 
 - **Revelation 6:12-17**: Seal 6 brings cosmic signs and the announcement that the great day of wrath has come.
 - **Matthew 24:29-31**: after tribulation, cosmic signs appear, Christ comes on the clouds, a trumpet sounds, and the elect are gathered.
 - **Revelation 7:9-17**: a great multitude appears before the throne from every nation and is said to come out of the great tribulation.
 - **1 Thessalonians 5:9**: believers are not appointed to wrath.
 
-### Main difficulties
+#### Main difficulties
 
 - The Lamb Himself opens the earlier seals, so some argue God's wrath is already operating before Seal 6.
 - Revelation 7 never explicitly labels the great multitude's arrival as the rapture.

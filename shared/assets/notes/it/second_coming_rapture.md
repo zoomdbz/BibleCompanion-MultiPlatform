@@ -68,21 +68,40 @@ Due cautele mantengono onesta la sintesi. «Eletti» può indicare Israele, la C
 
 ## La tribolazione non è la stessa cosa dell'ira divina
 
-Gran parte del dissenso si chiarisce quando le categorie della Scrittura rimangono distinte.
+Il dissenso riguarda sia il tipo di sofferenza sia il periodo in esame. La tribolazione ordinaria dei cristiani, la Tribolazione finale, la Grande Tribolazione e l'ira di Dio non possono essere trattate semplicemente come definizioni intercambiabili.
 
-La tribolazione è pressione, afflizione e persecuzione. Gesù dice ai discepoli che il mondo li odierà (Giovanni 15:18-20). Paolo afferma che i credenti entrano nel regno di Dio attraverso molte tribolazioni (Atti 14:22). L'Apocalisse mostra la Bestia in guerra contro i santi (Apocalisse 13:7-10). In questi brani le potenze malvagie affliggono il popolo di Dio.
+### La tribolazione ordinaria, la Tribolazione e la Grande Tribolazione
 
-L'ira divina è la risposta giudiziaria di Dio al male. I credenti non sono destinati all'ira, ma alla salvezza per mezzo di Gesù Cristo (1 Tessalonicesi 5:9). Giustificati dal suo sangue, sono salvati dall'ira per mezzo di lui (Romani 5:9). L'Apocalisse mostra l'ira dell'Agnello contro il mondo ribelle (Apocalisse 6:15-17).
+La tribolazione è pressione, afflizione e persecuzione. Gesù dice ai discepoli che il mondo li odierà (Giovanni 15:18-20). Paolo afferma che i credenti entrano nel regno di Dio attraverso molte tribolazioni (Atti 14:22). L'Apocalisse mostra la bestia in guerra contro i santi (Apocalisse 13:7-10). In questi brani le potenze malvagie affliggono il popolo di Dio.
 
-Queste verità non promettono esenzione dalla persecuzione. Gli apostoli subirono tribolazione rimanendo al sicuro dalla condanna di Dio. La distinzione consente una sequenza coerente:
+Gesù promette anche che i suoi seguaci avranno tribolazione nel mondo (Giovanni 16:33). Questa afflizione ordinaria non è, di per sé, il periodo futuro comunemente chiamato **la Tribolazione**. Nel quadro pretribolazionista, questo titolo designa solitamente il periodo finale di sette anni identificato con la settantesima settimana di Daniele (Daniele 9:27). **La Grande Tribolazione** designa l'angoscia senza precedenti descritta da Gesù dopo l'abominio della desolazione (Matteo 24:15-22; Marco 13:14-20). I lettori pretribolazionisti la collocano comunemente nella seconda metà di quel periodo di sette anni. Le maiuscole hanno funzione esplicativa, non indicano una distinzione presente nel testo originale.
 
-1. I santi sopportano persecuzione e grande tribolazione.
+L'ira divina è la risposta giudiziaria di Dio al male. I credenti non sono destinati all'ira, ma alla salvezza per mezzo di Gesù Cristo (1 Tessalonicesi 5:9). Sono giustificati dal suo sangue e salvati dall'ira per mezzo di lui (Romani 5:9). L'Apocalisse mostra l'ira dell'Agnello contro il mondo ribelle (Apocalisse 6:15-17).
+
+### Perché i lettori pretribolazionisti considerano i giudizi come ira
+
+L'Agnello stesso apre il primo sigillo (Apocalisse 6:1-2). Il settimo sigillo introduce le trombe degli angeli e il fuoco dell'altare celeste gettato sulla terra (Apocalisse 8:1-6). Le ultime piaghe portano a compimento l'ira di Dio e le coppe contengono esplicitamente la sua ira (Apocalisse 15:1; Apocalisse 16:1). I lettori pretribolazionisti intendono quindi i sigilli, le trombe e le coppe come giudizi divini successivi, non come semplici difficoltà ordinarie che i credenti già sperimentano.
+
+Il loro argomento non sostiene che i cristiani sfuggano a ogni persecuzione. Collega l'esenzione dall'ira alla rimozione della Chiesa prima di questo periodo finale di giudizio (1 Tessalonicesi 1:10; 1 Tessalonicesi 5:9). Secondo questa lettura, tra i santi perseguitati durante quel periodo vi sono persone che giungono alla fede dopo il rapimento della Chiesa (Apocalisse 7:9-14; Apocalisse 13:7-10). All'interno di questo quadro, la loro presenza non dimostra che la Chiesa rimanga sulla terra per tutta la Tribolazione. Questi sono collegamenti che la posizione stabilisce tra diversi brani, non una cronologia completa esposta in un unico versetto.
+
+### Le promesse di custodire e di scampare
+
+- **Apocalisse 3:10:** Gesù promette alla chiesa di Filadelfia protezione dall'ora della prova mondiale. I lettori pretribolazionisti sottolineano che la promessa riguarda l'**ora**, non soltanto i suoi pericoli; la intendono come esclusione dal periodo stesso. Altri lettori intendono una protezione durante la prova e la confrontano con la preghiera di Gesù affinché i suoi discepoli rimangano nel mondo mentre Dio li custodisce dal maligno (Giovanni 17:15). Il dissenso riguarda la modalità della protezione e l'applicazione della promessa alla Chiesa nel suo insieme.
+- **Luca 21:34-36:** Gesù avverte che il giorno futuro sorprenderà tutta la terra come un laccio. Comanda di vegliare e pregare per scampare a ciò che deve avvenire e comparire davanti al Figlio dell'uomo. Questo è il brano che parla di scampare a tutto ciò che deve avvenire. I lettori pretribolazionisti lo collegano ad Apocalisse 3:10 come sostegno alla rimozione prima della prova mondiale. Il brano stesso non specifica un calendario di sette anni né descrive il rapimento di 1 Tessalonicesi 4:16-17.
+- **Matteo 24:4-8 e Marco 13:5-8:** inganni, guerre, carestie e terremoti fanno parte dell'inizio delle doglie; Gesù dice che la fine non è ancora giunta. Questa angoscia iniziale non va confusa con la sua successiva descrizione della Grande Tribolazione né trattata come se ogni avvertimento designasse esplicitamente l'ira divina.
+- **Matteo 24:15-22; Marco 13:14-20; Luca 21:20-24:** Gesù ordina anche a chi si trova in Giudea di fuggire quando compare il pericolo indicato. Matteo 24:20 dice loro di pregare affinché la fuga non avvenga d'inverno o di sabato; Marco 13:18 menziona l'inverno. Queste istruzioni riguardano una fuga sulla terra, non usano la stessa formulazione della preghiera di Luca 21:36 per scampare a ciò che deve avvenire.
+
+### Su quali punti le letture sono ancora in disaccordo
+
+Gli apostoli subirono la tribolazione pur rimanendo al sicuro dalla condanna di Dio. I lettori pre-ira, e alcuni lettori post-tribolazionisti, distinguono questa persecuzione dall'ira punitiva e propongono questa sequenza:
+
+1. I santi sopportano la persecuzione e la grande tribolazione.
 2. Cristo appare e raduna il suo popolo.
 3. Dio riversa l'ira giudiziaria sul male impenitente.
 
-Matteo 24:29-31 colloca esplicitamente il raduno dopo la tribolazione descritta. Isaia 26:19-21 affianca la risurrezione a un riparo temporaneo mentre passa l'indignazione divina. Apocalisse 6:12-17 presenta segni cosmici e annuncia il gran giorno dell'ira. Insieme, questi testi sostengono meglio un raduno post-tribolazione o pre-ira che un raduno anteriore a ogni sofferenza finale.
+Matteo 24:29-31 colloca esplicitamente il raduno degli eletti dopo la tribolazione descritta in quel brano. Isaia 26:19-21 affianca la risurrezione a un riparo temporaneo mentre passa l'indignazione divina. Apocalisse 6:12-17 presenta segni cosmici e annuncia il gran giorno dell'ira. Questi lettori usano tali collegamenti a sostegno della sequenza proposta. I lettori pretribolazionisti distinguono questo successivo raduno degli eletti da un precedente raduno della Chiesa; l'identificazione dei gruppi e degli eventi fa parte del dissenso.
 
-Il confine preciso resta discusso. Gli interpreti dissentono sul fatto che i sigilli stessi esprimano già l'ira divina o che il sesto sigillo annunci una nuova fase. Il testo sostiene la protezione dall'ira di Dio, ma richiede attenzione alla fonte e allo scopo di ogni giudizio.
+Anche l'inizio dell'ira resta discusso. I lettori pretribolazionisti indicano il fatto che l'Agnello apre i sigilli e leggono Apocalisse 6:16-17 come una descrizione di giudizi già in corso. I lettori pre-ira distinguono la persecuzione precedente dal giorno dell'ira annunciato; i martiri sotto il quinto sigillo chiedono ancora quanto tempo manchi prima che Dio giudichi e vendichi il loro sangue (Apocalisse 6:9-11). La sovranità di Dio sugli eventi e la sua ira punitiva sono collegate, ma non sono descrizioni identiche di ogni azione all'interno di una visione. La promessa che i credenti non sono destinati all'ira rimane valida; il momento e la modalità della loro liberazione richiedono questi ulteriori collegamenti interpretativi.
 
 ## L'ultima tromba e la settima tromba
 

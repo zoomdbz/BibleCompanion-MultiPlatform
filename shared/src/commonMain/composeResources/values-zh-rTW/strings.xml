@@ -53,7 +53,7 @@
     <string name="about_title">關於</string>
     <string name="about_what_title">這是什麼</string>
     <string name="about_what_text">聖經伴侶是一款免費、以離線使用為優先的聖經閱讀與研讀應用程式，旨在幫助人們結合上下文閱讀聖經。它在每種支援的語言中都收錄完整的舊約和新約，並提供可選的次經、經外文獻和偽署文獻集。每一章都將按經節標註的聖經正文與要點、交叉參考、抄本異文和翻譯註釋放在一起。聖經正文始終與編輯撰寫的研讀材料明確區分。</string>
-    <string name="about_features_text">可在應用程式內閱讀參考經文，也可在YouVersion/Bible.com或Bible Gateway中開啟。英語讀者可以在應用程式內切換Berean Standard Bible和King James Version正文。搜尋、文字轉語音、每日經文、閱讀位置恢復、書籤、已儲存經文、醒目提示、標籤和顯示設定為日常閱讀提供支援。研讀工具涵蓋聖經年代順序；耶穌的家譜、身分與神性；福音與恩典；正典與翻譯；聖經曆法與節期；彌賽亞預言；但以理書與啟示錄時間線；天文徵兆；屬靈爭戰；錯誤教義；以及對聖經的常見曲解。</string>
+    <string name="about_features_text">可在應用程式內閱讀參考經文，也可在YouVersion/Bible.com或Bible Gateway中開啟。如果您所選的語言提供相應譯本，可選擇現代譯本或傳統譯本在應用程式內閱讀。搜尋、文字轉語音、每日經文、閱讀位置恢復、書籤、已儲存經文、醒目提示、標籤和顯示設定為日常閱讀提供支援。研讀工具涵蓋聖經年代順序；耶穌的家譜、身分與神性；福音與恩典；正典與翻譯；聖經曆法與節期；彌賽亞預言；但以理書與啟示錄時間線；天文徵兆；屬靈爭戰；錯誤教義；以及對聖經的常見曲解。</string>
     <string name="about_mission_text">聖經伴侶將聖經視為真理。它致力於提供忠實、易讀且符合各語言習慣的文本；精確的參考經文；對上帝聖名的誠實處理；清楚標示耶穌的話；並對年代、抄本證據、翻譯或歷史歸屬仍有爭議之處坦誠說明。它無需帳戶，核心內容可離線使用，旨在用於嚴謹的門徒訓練和庇哩亞式的聖經查考（馬太福音28:19；使徒行傳17:11），並本著馬太福音10:8的精神免費提供。</string>
     <string name="about_free_text">免費。無廣告、訂閱、帳戶或商業變現。所有榮耀歸於上帝。</string>
     <!-- values-zh-rTW/strings.xml (Chinese – Traditional) -->
@@ -325,6 +325,7 @@
     <string name="tts_read_intros">TTS 朗讀本卷簡介</string>
     <string name="external_bible_version">外部聖經版本</string>
     <string name="external_bible_version_desc">選擇外部經文連結使用的聖經版本。若已安裝YouVersion聖經應用程式，Bible.com連結會在該應用程式中開啟；否則會在瀏覽器中開啟Bible.com。這不會更改Bible Companion內的正文。</string>
+    <string name="external_biblegateway_version_desc">選擇外部經文連結使用的聖經版本。連結會在瀏覽器中開啟Bible Gateway網站。這不會更改Bible Companion內的正文。</string>
     <string name="in_app_bible_version">應用程式內聖經版本</string>
     <string name="in_app_bible_version_desc">標明Bible Companion內閱讀的聖經版本。它與外部連結使用的版本相互獨立。</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>

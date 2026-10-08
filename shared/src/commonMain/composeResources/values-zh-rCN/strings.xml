@@ -53,7 +53,7 @@
     <string name="about_title">关于</string>
     <string name="about_what_title">这是什么</string>
     <string name="about_what_text">圣经伴侣是一款免费、以离线使用为优先的圣经阅读与研读应用，旨在帮助人们结合上下文阅读圣经。它在每种受支持的语言中都收录完整的旧约和新约，并提供可选的次经、经外文献和伪署文献集。每一章都将按经节标注的圣经正文与要点、交叉参考、抄本异文和翻译注释放在一起。圣经正文始终与编辑撰写的研读材料明确区分。</string>
-    <string name="about_features_text">可在应用内阅读参考经文，也可在YouVersion/Bible.com或Bible Gateway中打开。英语读者可以在应用内切换Berean Standard Bible和King James Version正文。搜索、文字转语音、每日经文、阅读位置恢复、书签、已保存经文、高亮、标签和显示设置为日常阅读提供支持。研读工具涵盖圣经年代顺序；耶稣的家谱、身份与神性；福音与恩典；正典与翻译；圣经历法与节期；弥赛亚预言；但以理书与启示录时间线；天文征兆；属灵争战；错误教义；以及对圣经的常见曲解。</string>
+    <string name="about_features_text">可在应用内阅读参考经文，也可在YouVersion/Bible.com或Bible Gateway中打开。如果您所选的语言提供相应译本，可选择现代译本或传统译本在应用内阅读。搜索、文字转语音、每日经文、阅读位置恢复、书签、已保存经文、高亮、标签和显示设置为日常阅读提供支持。研读工具涵盖圣经年代顺序；耶稣的家谱、身份与神性；福音与恩典；正典与翻译；圣经历法与节期；弥赛亚预言；但以理书与启示录时间线；天文征兆；属灵争战；错误教义；以及对圣经的常见曲解。</string>
     <string name="about_mission_text">圣经伴侣将圣经视为真理。它致力于提供忠实、易读且符合各语言习惯的文本；精确的参考经文；对上帝圣名的诚实处理；清楚标示耶稣的话；并对年代、抄本证据、翻译或历史归属仍有争议之处坦诚说明。它无需账户，核心内容可离线使用，旨在用于严谨的门徒训练和庇哩亚式的圣经查考（马太福音28:19；使徒行传17:11），并本着马太福音10:8的精神免费提供。</string>
     <string name="about_free_text">免费。无广告、订阅、账户或商业变现。所有荣耀归于上帝。</string>
     <!-- values-zh-rCN/strings.xml (Chinese – Simplified) -->
@@ -325,6 +325,7 @@
     <string name="tts_read_intros">TTS 朗读本卷简介</string>
     <string name="external_bible_version">外部圣经版本</string>
     <string name="external_bible_version_desc">选择外部经文链接使用的圣经版本。若已安装YouVersion圣经应用，Bible.com链接会在该应用中打开；否则会在浏览器中打开Bible.com。这不会更改Bible Companion内的正文。</string>
+    <string name="external_biblegateway_version_desc">选择外部经文链接使用的圣经版本。链接会在浏览器中打开Bible Gateway网站。这不会更改Bible Companion内的正文。</string>
     <string name="in_app_bible_version">应用内圣经版本</string>
     <string name="in_app_bible_version_desc">标明Bible Companion内阅读的圣经版本。它与外部链接使用的版本相互独立。</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>

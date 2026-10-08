@@ -208,7 +208,7 @@ Y
 
 ---
 
-# El Grito de Desamparo de Jesús
+## El Grito de Desamparo de Jesús
 
 Un momento vital para comprender la divinidad de Jesús es su grito desde la cruz: *«Dios mío, Dios mío, ¿por qué me has desamparado?»* (Mateo 27:46) (Marcos 15:34). A primera vista, puede sonar como debilidad o incluso separación de Dios, pero en realidad revela tanto su plena humanidad como su misión divina. Al citar la primera línea del Salmo 22 (Salmo 22:1), Jesús llamó la atención sobre todo el salmo: un pasaje que comienza en profundo lamento pero termina en victoria y adoración mundial. Este grito no es una pérdida de divinidad; es el Hijo de Dios entrando plenamente en nuestra experiencia humana de pecado y juicio para redimirla.
 

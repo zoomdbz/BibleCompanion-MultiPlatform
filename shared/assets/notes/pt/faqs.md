@@ -150,17 +150,19 @@ A justiça de Deus nunca esteve ausente; estava em desenvolvimento. O justo pode
 
 ### **5. Por que Deus parece silencioso quando as pessoas clamam por ajuda? (e por que algumas orações são respondidas e outras não?)**
 
-Esse silêncio não é ausência; é convite. Deus fala de modo mais claro por meio da perseverança, da transformação e do amor que persiste na escuridão.  
-Orar não é informar a Deus; é alinhar o coração com a vontade dEle. Quando Ele parece silencioso, muitas vezes está refinando paciência e fé. O silêncio de Deus nunca é indiferença; é treinamento.
+Esperar por ajuda pode doer. A Escritura nos convida a nos aproximar de Deus para receber misericórdia e ajuda, não a esconder nossa fraqueza (**Hebreus 4:15-16**). Leve a Ele o que aflige você; Ele cuida de você (**1 Pedro 5:7**).
 
-- **Salmo 13:1–2**: «Até quando, SENHOR? Esquecer-Te-ás de mim para sempre?» O clamor de Davi mostra que o silêncio faz parte da vida de fé.
+Às vezes, Deus já está agindo antes que possamos ver a resposta. A oração de Daniel foi ouvida desde o primeiro dia, embora o mensageiro tenha chegado depois (**Daniel 10:12-13**). Jesus amava Marta, Maria e Lázaro, mas esperou antes de ir até eles (**João 11:5-6**). Quando chegou, compartilhou a dor deles e chorou; depois ressuscitou Lázaro (**João 11:33-35; João 11:40-44**).
+
+Uma resposta diferente não precisa significar rejeição. Paulo pediu que seu espinho fosse removido; Cristo respondeu com graça sustentadora em vez da remoção que Paulo buscava (**2 Coríntios 12:7-9**). Jesus nos ensina a confiar em um Pai que dá boas dádivas (**Mateus 7:9-11**).
+
+- **Salmo 13:1–2**: «Até quando, SENHOR? Esquecer-Te-ás de mim para sempre?» O clamor de Davi mostra que podemos levar à oração a dor da espera.
 
 - **Isaías 55:8–9**: «Os Meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os Meus caminhos, declara o SENHOR.»
 
-- **Mateus 7:7–8**: «Pedi, e dar-se-vos-á; buscai, e achareis; batei, e abrir-se-vos-á.»  
-  Persistência é prova de confiança.
+- **Mateus 7:7–8**: «Pedi, e dar-se-vos-á; buscai, e achareis; batei, e abrir-se-vos-á.»
 
-A Escritura dá várias razões para respostas tardias, diferentes ou negadas.
+A Escritura apresenta várias verdades que moldam nossa compreensão de respostas tardias, diferentes ou negadas.
 
 **1) Alinhamento com a vontade de Deus**
 
@@ -172,11 +174,11 @@ A Escritura dá várias razões para respostas tardias, diferentes ou negadas.
 
 **2) Tempo e propósitos de Deus**
 
-- **Habacuque 2:3**: «Se tardar, espera-O; porque certamente virá, não tardará.»
+- **Habacuque 2:3**: «Se tardar, espera-O; porque certamente virá, não tardará.» Essa promessa trata do cumprimento da visão profética no tempo determinado, não garante que todo pedido pessoal acabará acontecendo exatamente como foi feito.
 
-- **João 11:4–6**: Jesus atrasa-se propositalmente «para a glória de Deus» e depois ressuscita Lázaro.
+- **João 11:4–6**: Jesus diz que a doença é «para a glória de Deus» e espera dois dias antes de ir, embora ame a família.
 
-- **Daniel 10:12–13**: A oração de Daniel foi ouvida na hora, mas a resposta atrasou-se por conflito espiritual.
+- **Daniel 10:12–13**: A oração de Daniel foi ouvida na hora, mas a resposta atrasou-se por conflito espiritual. Essa passagem descreve a experiência de Daniel; não estabelece o conflito espiritual como causa de toda resposta tardia.
 
 **3) Postura do coração e motivos**
 
@@ -188,9 +190,13 @@ A Escritura dá várias razões para respostas tardias, diferentes ou negadas.
 
 - **1 Pedro 3:7**: Maridos são advertidos a viver com consideração «para que não se interrompam as vossas orações.»
 
+Essas advertências nos chamam a examinar nosso coração e nossa conduta. Elas não estabelecem que todo pedido tardio ou negado prove pecado oculto ou fé insuficiente. O pedido de alívio feito por Paulo também recebeu uma resposta diferente (**2 Coríntios 12:7-9**).
+
 **4) Graça suficiente em pedidos não concedidos**
 
 - **2 Coríntios 12:7–9**: Paulo suplica três vezes pela remoção do espinho; a resposta é: «A Minha graça te basta; porque o Meu poder se aperfeiçoa na fraqueza.»
+
+Paulo não recebeu a remoção que pediu, mas Cristo não o deixou sem ajuda. Um pedido negado pode ser um ato de sabedoria e cuidado, não rejeição. Podemos pedir algo sem perceber o que isso traria; Jesus nos orienta a confiar na bondade do Pai (**Mateus 7:9-11**).
 
 **5) Ajuda do Espírito na oração**
 
@@ -198,7 +204,13 @@ A Escritura dá várias razões para respostas tardias, diferentes ou negadas.
 
 - **Tiago 5:16**: «A oração de um justo é poderosa e eficaz.»
 
-**Resumo bíblico:** O povo de Deus às vezes espera; Deus ouve; as respostas se conformam à Sua vontade, ao Seu tempo e aos Seus propósitos; motivos e obediência importam; a graça sustenta quando o pedido não é concedido tal como foi feito; e o Espírito intercede mesmo quando faltam palavras. A fé amadurece quando a oração se concentra menos no resultado e mais no relacionamento com Deus.
+Paulo reconhece abertamente que nem sempre sabemos orar como devemos; o Espírito intercede segundo a vontade de Deus (**Romanos 8:26-27**). Paulo relaciona o bem prometido por Deus ao Seu propósito de tornar Seu povo semelhante ao Seu Filho (**Romanos 8:28-29**). Seu propósito vai além do resultado que conseguimos ver agora.
+
+**Orar pelo que mais importa**
+
+Jesus nos ensina a orar pelo reino e pela vontade de Deus, pelo pão diário, pelo perdão e pelo livramento do mal (**Mateus 6:9-13**). Nossas necessidades comuns importam ao Pai; buscar primeiro o Seu reino não significa fingir que não precisamos de alimento, roupa ou ajuda (**Mateus 6:31-33**). Peça sabedoria quando não souber o que buscar (**Tiago 1:5**). A oração leva nossas necessidades reais a Deus enquanto aprendemos a confiar em Sua vontade.
+
+**Resumo bíblico:** Continue pedindo com sinceridade; confie a resposta à sabedoria de Deus. Seus caminhos são mais altos que os nossos (**Isaías 55:8-9**), e a confiança na oração se apoia em pedir segundo a Sua vontade (**1 João 5:14-15**). Essas promessas nos dão razão para confiar em Seu cuidado, não uma garantia de que todo pedido acontecerá na forma ou no tempo que preferimos. Enquanto você espera, não está orando sozinho; o Espírito intercede, e o próprio Cristo intercede por Seu povo (**Romanos 8:26-27; Romanos 8:34**).
 
 ---
 

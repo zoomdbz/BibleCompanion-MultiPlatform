@@ -150,17 +150,19 @@ La justice de Dieu n’a jamais été absente ; elle se déployait. Le juste peu
 
 ### **5. Pourquoi Dieu semble-t-Il se taire quand on crie à l’aide ? (et pourquoi certaines prières sont exaucées et d’autres pas ?)**
 
-Son silence n’est pas l’absence ; c’est une invitation. Il parle le plus clairement par l’endurance, la transformation et l’amour qui persiste dans l’obscurité.  
-La prière n’informe pas Dieu ; elle aligne le cœur sur Sa volonté. Lorsqu’Il semble se taire, Il affine souvent la patience et la foi. Le silence de Dieu n’est jamais indifférence ; c’est un entraînement.
+Attendre de l’aide peut être douloureux. L’Écriture nous invite à nous approcher de Dieu pour recevoir miséricorde et secours, non à cacher notre faiblesse (**Hébreux 4:15-16**). Confiez-Lui ce qui vous trouble ; Il prend soin de vous (**1 Pierre 5:7**).
 
-- **Psaume 13:2–3** : « Jusques à quand, Éternel ? M’oublieras-tu sans cesse ? » Le cri de David montre que le silence fait partie de la vie de foi.
+Dieu agit parfois déjà avant que nous puissions voir la réponse. La prière de Daniel a été entendue dès le premier jour, bien que le messager soit arrivé plus tard (**Daniel 10:12-13**). Jésus aimait Marthe, Marie et Lazare, mais Il a attendu avant de les rejoindre (**Jean 11:5-6**). Lorsqu’Il est arrivé, Il a partagé leur deuil et pleuré ; puis Il a ressuscité Lazare (**Jean 11:33-35; Jean 11:40-44**).
+
+Une réponse différente ne signifie pas nécessairement un rejet. Paul a demandé que son écharde lui soit retirée ; le Christ lui a répondu par une grâce qui le soutenait plutôt que par le retrait qu’il souhaitait (**2 Corinthiens 12:7-9**). Jésus nous apprend à faire confiance à un Père qui donne de bonnes choses (**Matthieu 7:9-11**).
+
+- **Psaume 13:2–3** : « Jusques à quand, Éternel ? M’oublieras-tu sans cesse ? » Le cri de David montre que nous pouvons porter dans la prière la douleur de l’attente.
 
 - **Ésaïe 55:8–9** : « Mes pensées ne sont pas vos pensées, et vos voies ne sont pas mes voies, dit l’Éternel. »
 
-- **Matthieu 7:7–8** : « Demandez, et l’on vous donnera ; cherchez, et vous trouverez ; frappez, et l’on vous ouvrira. »  
-  La persévérance est la preuve de la confiance.
+- **Matthieu 7:7–8** : « Demandez, et l’on vous donnera ; cherchez, et vous trouverez ; frappez, et l’on vous ouvrira. »
 
-L’Écriture donne plusieurs raisons aux réponses tardives, différentes ou refusées.
+L’Écriture présente plusieurs vérités qui orientent notre compréhension des réponses tardives, différentes ou refusées.
 
 **1) Alignement sur la volonté de Dieu**
 
@@ -172,11 +174,11 @@ L’Écriture donne plusieurs raisons aux réponses tardives, différentes ou re
 
 **2) Le temps et les desseins de Dieu**
 
-- **Habacuc 2:3** : « Si elle semble tarder, attends-la ; elle viendra sûrement et ne tardera pas. »
+- **Habacuc 2:3** : « Si elle semble tarder, attends-la ; elle viendra sûrement et ne tardera pas. » Cette promesse concerne l’accomplissement fixé de la vision prophétique ; elle ne garantit pas que chaque demande personnelle finira par se réaliser exactement comme elle a été formulée.
 
-- **Jean 11:4–6** : Jésus retarde sa venue vers Lazare « pour la gloire de Dieu », puis le ressuscite.
+- **Jean 11:4–6** : Jésus dit que la maladie est « pour la gloire de Dieu » et attend deux jours avant de partir, bien qu’Il aime la famille.
 
-- **Daniel 10:12–13** : La prière de Daniel est entendue aussitôt ; la réponse est retardée par un conflit spirituel.
+- **Daniel 10:12–13** : La prière de Daniel est entendue aussitôt ; la réponse est retardée au milieu d’un conflit spirituel. Ce passage décrit l’expérience de Daniel ; il n’établit pas que le conflit spirituel est la cause de toute réponse tardive.
 
 **3) Disposition du cœur et motifs**
 
@@ -188,9 +190,13 @@ L’Écriture donne plusieurs raisons aux réponses tardives, différentes ou re
 
 - **1 Pierre 3:7** : Les maris sont exhortés à la considération « afin que rien ne vienne faire obstacle à leurs prières ».
 
+Ces avertissements nous appellent à examiner notre cœur et notre conduite. Ils n’établissent pas que toute demande tardive ou refusée prouve un péché caché ou une foi insuffisante. La supplication de Paul pour obtenir un soulagement a elle aussi reçu une réponse différente (**2 Corinthiens 12:7-9**).
+
 **4) Grâce suffisante quand la requête n’est pas accordée**
 
 - **2 Corinthiens 12:7–9** : Paul implore trois fois que l’écharde soit retirée ; la réponse est : « Ma grâce te suffit, car Ma puissance s’accomplit dans la faiblesse. »
+
+Paul n’a pas obtenu le retrait qu’il demandait, mais le Christ ne l’a pas laissé sans aide. Une demande refusée peut être un acte de sagesse et de sollicitude, non un rejet. Nous pouvons demander quelque chose sans voir ce que cela entraînerait ; Jésus nous invite à faire confiance à la bonté du Père (**Matthieu 7:9-11**).
 
 **5) L’aide de l’Esprit dans la prière**
 
@@ -198,7 +204,13 @@ L’Écriture donne plusieurs raisons aux réponses tardives, différentes ou re
 
 - **Jacques 5:16** : « La prière fervente du juste a une grande efficacité. »
 
-**Résumé biblique :** Le peuple de Dieu attend parfois ; Dieu entend ; les réponses s’accordent à Sa volonté, à Son temps et à Ses desseins ; les motifs et l’obéissance comptent ; la grâce soutient lorsque la demande n’est pas accordée comme elle a été formulée ; l’Esprit intercède quand les mots manquent. La foi mûrit lorsque la prière porte moins sur le résultat et davantage sur la relation avec Dieu.
+Paul reconnaît ouvertement que nous ne savons pas toujours prier comme il le faudrait ; l’Esprit intercède selon la volonté de Dieu (**Romains 8:26-27**). Paul relie le bien promis par Dieu à Son dessein de rendre Son peuple semblable à Son Fils (**Romains 8:28-29**). Son dessein dépasse le résultat que nous pouvons voir aujourd’hui.
+
+**Prier pour ce qui compte le plus**
+
+Jésus nous apprend à prier pour le règne et la volonté de Dieu, le pain quotidien, le pardon et la délivrance du mal (**Matthieu 6:9-13**). Nos besoins ordinaires comptent pour le Père ; chercher d’abord Son royaume ne signifie pas prétendre que nous n’avons pas besoin de nourriture, de vêtements ou d’aide (**Matthieu 6:31-33**). Demandez la sagesse lorsque vous ne savez pas quoi demander (**Jacques 1:5**). La prière présente à Dieu nos besoins réels tout en nous apprenant à faire confiance à Sa volonté.
+
+**Résumé biblique :** Continuez à demander avec sincérité ; confiez la réponse à Sa sagesse. Ses voies sont plus élevées que les nôtres (**Ésaïe 55:8-9**), et l’assurance dans la prière repose sur le fait de demander selon Sa volonté (**1 Jean 5:14-15**). Ces promesses nous donnent des raisons de faire confiance à Sa sollicitude, mais ne garantissent pas que chaque demande se réalisera sous la forme ou au moment que nous préférons. Dans l’attente, vous ne priez pas seul ; l’Esprit intercède et le Christ Lui-même intercède pour Son peuple (**Romains 8:26-27; Romains 8:34**).
 
 ---
 

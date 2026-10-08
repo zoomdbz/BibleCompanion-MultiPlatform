@@ -744,15 +744,15 @@ Der Streitpunkt ist nicht, ob die Gläubigen entrückt werden, um Christus zu be
 
 ## Mögliche Einordnungen der Entrückung
 
-Die folgenden vier Einordnungen beschreiben verschiedene Vorschläge, dieselbe biblische Sammlung mit den Visionen der Offenbarung zu verbinden.
+Die folgenden vier Einordnungen beschreiben verschiedene Vorschläge, dieselbe in der Schrift beschriebene Sammlung der Gläubigen mit den Visionen der Offenbarung zu verbinden.
 
-## 1. Vor der Drangsal
+### 1. Vor der Drangsal
 
 **Einordnung:** Vor dem ersten Siegel und vor der endzeitlichen Drangsalszeit.
 
 **Kurzer Zeitplan:** Gemeindezeitalter -> Gläubige vor der letzten Drangsal entrückt -> Siegel, Posaunen und Schalen -> sichtbare Wiederkunft Christi -> tausendjährige Herrschaft.
 
-### Häufig angeführte Belegstellen
+#### Häufig angeführte Belegstellen
 
 - **1 Thessalonicher 4:13-18**: Gläubige werden entrückt, um Christus zu begegnen.
 - **1 Thessalonicher 5:9**: Gläubige sind nicht zum Zorn bestimmt.
@@ -760,13 +760,13 @@ Die folgenden vier Einordnungen beschreiben verschiedene Vorschläge, dieselbe b
 - **Offenbarung 3:10**: Verheißung, die Gemeinde in Philadelphia **vor der Stunde der Prüfung zu bewahren, die über die ganze Welt kommen wird**.
 - Das Wort „Gemeinde“ wird in Offenbarung 6-18 nicht für die Heiligen auf der Erde gebraucht.
 
-### Vorgeschlagene Stelle in der Offenbarung
+#### Vorgeschlagene Stelle in der Offenbarung
 
 Gewöhnlich **zwischen Offenbarung 3 und 4**, vor Siegel 1.
 
 Manche verwenden Offenbarung 4:1, „Komm hier herauf“, als symbolisches Bild der Entrückung.
 
-### Hauptschwierigkeiten
+#### Hauptschwierigkeiten
 
 - Offenbarung 4:1 beschreibt ausdrücklich, wie Johannes in eine Vision eintritt, nicht wie die Gemeinde weggenommen wird.
 - Die Offenbarung sagt nirgends direkt, dass die Gemeinde vor Siegel 1 entrückt wurde.
@@ -776,32 +776,32 @@ Manche verwenden Offenbarung 4:1, „Komm hier herauf“, als symbolisches Bild 
 
 Vertreter der Vorentrückungslehre antworten darauf, indem sie die Entrückung von der späteren sichtbaren Wiederkunft Christi unterscheiden und zwischen der Gemeinde und anderen Heiligen unterscheiden, die während der Drangsal anwesend sind.
 
-## 2. In der Mitte der Drangsal
+### 2. In der Mitte der Drangsal
 
 **Einordnung:** Etwa in der Mitte des letzten Zeitraums, häufig mit Offenbarung 11 und der siebten Posaune verbunden.
 
 **Kurzer Zeitplan:** Gemeindezeitalter -> erste Hälfte der letzten Drangsal -> Gläubige etwa in der Mitte entrückt -> spätere Gerichte -> sichtbare Wiederkunft Christi -> tausendjährige Herrschaft.
 
-### Häufig angeführte Verbindungen
+#### Häufig angeführte Verbindungen
 
 - **1 Korinther 15:52**: Auferstehung und Verwandlung geschehen bei der „letzten Posaune“.
 - **Offenbarung 11:15**: Die siebte und letzte Posaune erschallt.
 - **Offenbarung 11:12**: Die zwei Zeugen steigen zum Himmel auf.
 - Die Offenbarung verwendet wiederholt 42 Monate und 1.260 Tage, was auf eine bedeutende zeitliche Mitte hindeutet.
 
-### Hauptschwierigkeiten
+#### Hauptschwierigkeiten
 
 - Die Schrift sagt nirgends ausdrücklich, dass die „letzte Posaune“ des Paulus die siebte Posaune der Offenbarung ist.
 - Der Aufstieg der zwei Zeugen betrifft ausdrücklich diese beiden Zeugen, nicht die ganze Gemeinde.
 - Die Zeiträume von 42 Monaten werden in der Offenbarung nicht alle ausdrücklich als aufeinanderfolgende Hälften eines einzigen siebenjährigen Zeitraums eingeordnet.
 
-## 3. Nach der Drangsal / Bei der sichtbaren Wiederkunft Christi
+### 3. Nach der Drangsal / Bei der sichtbaren Wiederkunft Christi
 
 **Einordnung:** Am Ende der Drangsal, verbunden mit dem öffentlichen Erscheinen Christi und unmittelbar vor dem Tausendjährigen Reich.
 
 **Kurzer Zeitplan:** Gemeindezeitalter -> letzte Drangsal -> sichtbare Wiederkunft, Auferstehung und Entrückung als ein Ereigniskomplex -> tausendjährige Herrschaft.
 
-### Häufig angeführte Belegstellen
+#### Häufig angeführte Belegstellen
 
 **Matthäus 24:29-31** sagt:
 
@@ -831,26 +831,26 @@ Vertreter der Vorentrückungslehre antworten darauf, indem sie die Entrückung v
 
 **Offenbarung 19-20** stellt den sichtbaren Sieg Christi über das Tier unmittelbar vor die Beschreibung derer, die vom Tier getötet wurden, lebendig werden und als Teil „der ersten Auferstehung“ bezeichnet werden.
 
-### Hauptschwierigkeiten
+#### Hauptschwierigkeiten
 
 - Vertreter der Vorentrückungslehre argumentieren, dass diese Sicht Stellen über die Bewahrung vor dem Zorn mit Stellen über die richterliche Wiederkunft Christi zusammenzieht.
 - Offenbarung 19 verwendet nicht ausdrücklich den Ausdruck „entrückt“.
 - Vertreter der Entrückung nach der Drangsal müssen erklären, wie die Gläubigen Christus in der Luft begegnen und wie diese Begegnung mit Seinem Herabkommen und Seiner irdischen Herrschaft zusammenhängt.
 
-## 4. Vor dem Zorn
+### 4. Vor dem Zorn
 
 **Einordnung:** Nach schwerer Drangsal und Verfolgung, häufig nach Siegel 6, jedoch vor den Posaunen- und Schalengerichten, die als konzentrierter Zorn am Tag des Herrn verstanden werden.
 
 **Kurzer Zeitplan:** Gemeindezeitalter -> schwere endzeitliche Verfolgung -> kosmische Zeichen -> Christus erscheint und sammelt die Gläubigen -> konzentrierter göttlicher Zorn -> tausendjährige Herrschaft.
 
-### Häufig angeführte Verbindungen
+#### Häufig angeführte Verbindungen
 
 - **Offenbarung 6:12-17**: Siegel 6 bringt kosmische Zeichen und die Ankündigung, dass der große Tag des Zorns gekommen ist.
 - **Matthäus 24:29-31**: Nach der Drangsal erscheinen kosmische Zeichen, Christus kommt auf den Wolken, eine Posaune erschallt, und die Auserwählten werden gesammelt.
 - **Offenbarung 7:9-17**: Eine große Schar aus jeder Nation erscheint vor dem Thron und kommt der Aussage nach aus der großen Drangsal.
 - **1 Thessalonicher 5:9**: Gläubige sind nicht zum Zorn bestimmt.
 
-### Hauptschwierigkeiten
+#### Hauptschwierigkeiten
 
 - Das Lamm selbst öffnet die früheren Siegel; deshalb argumentieren manche, dass Gottes Zorn bereits vor Siegel 6 wirkt.
 - Offenbarung 7 bezeichnet die Ankunft der großen Schar nirgends ausdrücklich als Entrückung.

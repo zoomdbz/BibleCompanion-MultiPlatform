@@ -746,13 +746,13 @@ La controversia no consiste en si los creyentes serán arrebatados para encontra
 
 Las cuatro ubicaciones siguientes describen distintas propuestas para relacionar la misma reunión bíblica con las visiones de Apocalipsis.
 
-## 1. Pretribulación
+### 1. Pretribulación
 
 **Ubicación:** Antes del primer sello y antes del período de tribulación del fin de los tiempos.
 
 **Cronología breve:** era de la Iglesia -> creyentes arrebatados antes de la tribulación final -> sellos, trompetas y copas -> regreso visible de Cristo -> reinado milenario.
 
-### Pasajes de apoyo habituales
+#### Pasajes de apoyo habituales
 
 - **1 Tesalonicenses 4:13-18**: los creyentes son arrebatados para encontrarse con Cristo.
 - **1 Tesalonicenses 5:9**: los creyentes no están destinados a la ira.
@@ -760,13 +760,13 @@ Las cuatro ubicaciones siguientes describen distintas propuestas para relacionar
 - **Apocalipsis 3:10**: promesa de guardar a la iglesia de Filadelfia **de la hora de prueba que vendrá sobre el mundo entero**.
 - La palabra «iglesia» no se usa para los santos que están en la tierra en Apocalipsis 6-18.
 
-### Ubicación propuesta en Apocalipsis
+#### Ubicación propuesta en Apocalipsis
 
 Generalmente **entre Apocalipsis 3 y 4**, antes del Sello 1.
 
 Algunos usan Apocalipsis 4:1, «Sube acá», como imagen simbólica del arrebatamiento.
 
-### Dificultades principales
+#### Dificultades principales
 
 - Apocalipsis 4:1 describe explícitamente a Juan entrando en una visión, no la retirada de la Iglesia.
 - Apocalipsis nunca dice directamente que la Iglesia fue arrebatada antes del Sello 1.
@@ -776,32 +776,32 @@ Algunos usan Apocalipsis 4:1, «Sube acá», como imagen simbólica del arrebata
 
 Los intérpretes pretribulacionistas responden distinguiendo el arrebatamiento del regreso visible posterior de Cristo y distinguiendo a la Iglesia de otros santos presentes durante la tribulación.
 
-## 2. Mitad de la tribulación
+### 2. Mitad de la tribulación
 
 **Ubicación:** Cerca del punto medio del período final, a menudo relacionada con Apocalipsis 11 y la séptima trompeta.
 
 **Cronología breve:** era de la Iglesia -> primera mitad de la tribulación final -> creyentes arrebatados cerca del punto medio -> juicios posteriores -> regreso visible de Cristo -> reinado milenario.
 
-### Conexiones de apoyo habituales
+#### Conexiones de apoyo habituales
 
 - **1 Corintios 15:52**: la resurrección o transformación ocurre a «la última trompeta».
 - **Apocalipsis 11:15**: suena la séptima y última trompeta.
 - **Apocalipsis 11:12**: los dos testigos ascienden al cielo.
 - Apocalipsis usa repetidamente 42 meses y 1.260 días, lo cual sugiere una estructura importante de punto medio.
 
-### Dificultades principales
+#### Dificultades principales
 
 - La Escritura nunca dice explícitamente que la «última trompeta» de Pablo sea la séptima trompeta de Apocalipsis.
 - La ascensión de los dos testigos se refiere explícitamente a los dos testigos, no a toda la Iglesia.
 - Los períodos de 42 meses de Apocalipsis no están todos situados explícitamente como mitades secuenciales de un solo período de siete años.
 
-## 3. Postribulación / En el regreso visible de Cristo
+### 3. Postribulación / En el regreso visible de Cristo
 
 **Ubicación:** Al final de la tribulación, relacionada con la aparición pública de Cristo e inmediatamente antes del Reino Milenial.
 
 **Cronología breve:** era de la Iglesia -> tribulación final -> regreso visible, resurrección y arrebatamiento como un conjunto de sucesos -> reinado milenario.
 
-### Pasajes de apoyo habituales
+#### Pasajes de apoyo habituales
 
 **Mateo 24:29-31** dice:
 
@@ -831,26 +831,26 @@ Los intérpretes pretribulacionistas responden distinguiendo el arrebatamiento d
 
 **Apocalipsis 19-20** sitúa la victoria visible de Cristo sobre la Bestia inmediatamente antes de que Apocalipsis describa a quienes fueron asesinados por la Bestia volviendo a la vida y llame a esto «la primera resurrección».
 
-### Dificultades principales
+#### Dificultades principales
 
 - Los intérpretes pretribulacionistas sostienen que esto fusiona los pasajes que describen la liberación de la ira con los que describen el regreso judicial de Cristo.
 - Apocalipsis no usa explícitamente la expresión «arrebatados» en el capítulo 19.
 - Los intérpretes postribulacionistas deben explicar cómo los creyentes se encuentran con Cristo en el aire y luego relacionar ese encuentro con Su descenso y reinado terrenal.
 
-## 4. Pre-Ira
+### 4. Pre-Ira
 
 **Ubicación:** Después de una tribulación y persecución severas, a menudo después del Sello 6, pero antes de los juicios de las trompetas y copas entendidos como la ira concentrada del Día del Señor.
 
 **Cronología breve:** era de la Iglesia -> persecución severa del fin -> señales cósmicas -> Cristo aparece y reúne a los creyentes -> ira divina concentrada -> reinado milenario.
 
-### Conexiones de apoyo habituales
+#### Conexiones de apoyo habituales
 
 - **Apocalipsis 6:12-17**: el Sello 6 trae señales cósmicas y el anuncio de que ha llegado el gran día de la ira.
 - **Mateo 24:29-31**: después de la tribulación aparecen señales cósmicas, Cristo viene sobre las nubes, suena una trompeta y los escogidos son reunidos.
 - **Apocalipsis 7:9-17**: una gran multitud aparece ante el trono procedente de toda nación y se dice que sale de la gran tribulación.
 - **1 Tesalonicenses 5:9**: los creyentes no están destinados a la ira.
 
-### Dificultades principales
+#### Dificultades principales
 
 - El Cordero mismo abre los sellos anteriores, por lo que algunos sostienen que la ira de Dios ya está actuando antes del Sello 6.
 - Apocalipsis 7 nunca identifica explícitamente la llegada de la gran multitud como el arrebatamiento.

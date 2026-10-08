@@ -68,21 +68,40 @@ Duas cautelas mantêm a síntese honesta. Primeiro, "eleitos" pode se referir a 
 
 ## Tribulação não é o mesmo que ira divina
 
-Boa parte da discordância se desfaz quando as categorias da Escritura permanecem distintas.
+A discordância envolve tanto o tipo de sofrimento quanto o período em discussão. A tribulação cristã comum, a Tribulação final, a Grande Tribulação e a ira de Deus não podem ser tratadas como termos equivalentes.
 
-Tribulação é pressão, aflição e perseguição. Jesus diz a seus discípulos que o mundo os odiará (João 15:18-20). Paulo afirma que entramos no reino de Deus por meio de muitas tribulações (Atos 14:22). Apocalipse mostra a besta guerreando contra os santos (Apocalipse 13:7-10). Nessas passagens, poderes perversos afligem o povo de Deus.
+### A tribulação comum, a Tribulação e a Grande Tribulação
 
-Ira divina é a resposta judicial de Deus ao mal. Os fiéis não são destinados à ira, mas à salvação por meio de Jesus Cristo (1 Tessalonicenses 5:9). São justificados por seu sangue e salvos da ira por meio dele (Romanos 5:9). Apocalipse retrata a ira do Cordeiro contra o mundo rebelde (Apocalipse 6:15-17).
+Tribulação é pressão, aflição e perseguição. Jesus diz a seus discípulos que o mundo os odiará (João 15:18-20). Paulo afirma que os fiéis entram no reino de Deus por meio de muitas tribulações (Atos 14:22). Apocalipse mostra a besta guerreando contra os santos (Apocalipse 13:7-10). Nessas passagens, poderes perversos afligem o povo de Deus.
 
-Essas verdades não prometem isenção da perseguição. Os apóstolos sofreram tribulação enquanto permaneciam a salvo da condenação de Deus. A distinção permite uma sequência coerente:
+Jesus também promete que seus seguidores terão tribulação no mundo (João 16:33). Essa aflição comum não é, por si só, o período futuro normalmente chamado de **Tribulação**. Na interpretação pré-tribulacionista, esse título costuma designar o período final de sete anos identificado com a septuagésima semana de Daniel (Daniel 9:27). A **Grande Tribulação** designa a aflição sem precedentes que Jesus descreve depois da abominação da desolação (Mateus 24:15-22; Marcos 13:14-20). Leitores pré-tribulacionistas geralmente a situam na segunda metade desses sete anos. As iniciais maiúsculas são rótulos explicativos, não uma distinção fornecida pelo texto original.
+
+A ira divina é a resposta judicial de Deus ao mal. Os fiéis não são destinados à ira, mas à salvação por meio de Jesus Cristo (1 Tessalonicenses 5:9). São justificados por seu sangue e salvos da ira por meio dele (Romanos 5:9). Apocalipse retrata a ira do Cordeiro contra o mundo rebelde (Apocalipse 6:15-17).
+
+### Por que leitores pré-tribulacionistas consideram os juízos como ira
+
+O próprio Cordeiro abre o primeiro selo (Apocalipse 6:1-2). O sétimo selo introduz as trombetas dos anjos e o fogo do altar celestial lançado sobre a terra (Apocalipse 8:1-6). As últimas pragas completam a ira de Deus, e as taças contêm explicitamente sua ira (Apocalipse 15:1; Apocalipse 16:1). Por isso, leitores pré-tribulacionistas entendem os selos, as trombetas e as taças como juízos divinos sucessivos, não apenas como as aflições comuns que os fiéis já enfrentam.
+
+O argumento deles não afirma que os cristãos escapam de toda perseguição. Ele liga a isenção da ira à remoção da Igreja antes desse período final de juízo (1 Tessalonicenses 1:10; 1 Tessalonicenses 5:9). Nessa leitura, os santos perseguidos durante o período incluem pessoas que passam a crer depois do arrebatamento da Igreja (Apocalipse 7:9-14; Apocalipse 13:7-10). Dentro desse sistema, a presença deles não prova que a Igreja permanece na terra durante toda a Tribulação. Essas são conexões que essa interpretação estabelece entre passagens, não uma cronologia completa declarada em um único versículo.
+
+### As promessas de guardar e de escapar
+
+- **Apocalipse 3:10:** Jesus promete guardar a igreja em Filadélfia da hora de provação que virá sobre o mundo inteiro. Leitores pré-tribulacionistas enfatizam que a promessa diz respeito à própria **hora**, não apenas aos perigos dela; eles a entendem como exclusão do período. Outros leitores entendem que haverá proteção durante a provação e comparam a promessa à oração de Jesus para que seus discípulos permaneçam no mundo enquanto Deus os guarda do maligno (João 17:15). A discordância envolve o modo de proteção e a aplicação da promessa à Igreja em sentido mais amplo.
+- **Lucas 21:34-36:** Jesus adverte que o dia vindouro apanhará toda a terra como uma armadilha. Ele ordena vigilância e oração para escapar de tudo o que virá e para estar em pé diante do Filho do Homem. Essa é a passagem sobre escapar de tudo o que está para vir. Leitores pré-tribulacionistas a ligam a Apocalipse 3:10 como apoio à remoção antes da provação mundial. A passagem não especifica por si mesma uma cronologia de sete anos nem descreve o arrebatamento de 1 Tessalonicenses 4:16-17.
+- **Mateus 24:4-8 e Marcos 13:5-8:** enganos, guerras, fomes e terremotos pertencem ao princípio das dores de parto; Jesus diz que ainda não é o fim. Essa aflição inicial não deve ser confundida com sua descrição posterior da Grande Tribulação, nem tratada como se cada advertência nomeasse explicitamente a ira divina.
+- **Mateus 24:15-22; Marcos 13:14-20; Lucas 21:20-24:** Jesus também ordena que as pessoas na Judeia fujam quando surgir o perigo especificado. Mateus 24:20 manda que orem para que a fuga não ocorra no inverno ou no sábado; Marcos 13:18 menciona o inverno. Essas instruções tratam de uma fuga terrena, não usam a mesma formulação da oração de Lucas 21:36 para escapar do que está por vir.
+
+### Onde as interpretações ainda divergem
+
+Os apóstolos sofreram tribulação enquanto permaneceram a salvo da condenação de Deus. Leitores pré-ira e alguns leitores pós-tribulacionistas distinguem essa perseguição da ira punitiva e propõem esta sequência:
 
 1. Os santos suportam a perseguição e a grande tribulação.
 2. Cristo aparece e reúne seu povo.
 3. Deus traz ira judicial contra o mal impenitente.
 
-Mateus 24:29-31 coloca explicitamente a reunião depois da tribulação ali descrita. Isaías 26:19-21 coloca a ressurreição ao lado de um abrigo temporário enquanto passa a indignação divina. Apocalipse 6:12-17 retrata sinais cósmicos e anuncia o grande dia da ira. Juntos, esses textos sustentam melhor uma reunião pós-tribulacionista ou pré-ira que uma reunião anterior a toda aflição do fim.
+Mateus 24:29-31 coloca explicitamente a reunião dos eleitos depois da tribulação ali descrita. Isaías 26:19-21 coloca a ressurreição ao lado de um abrigo temporário enquanto passa a indignação divina. Apocalipse 6:12-17 retrata sinais cósmicos e anuncia o grande dia da ira. Esses leitores usam tais conexões para apoiar a sequência proposta. Leitores pré-tribulacionistas distinguem essa reunião posterior dos eleitos de uma reunião anterior da Igreja; a identificação dos grupos e dos acontecimentos faz parte da discordância.
 
-O limite exato continua em debate. Os intérpretes discordam sobre se os próprios selos expressam a ira divina ou se o sexto selo anuncia uma nova fase. O texto sustenta proteção contra a ira de Deus, mas exige atenção cuidadosa à origem e ao propósito de cada juízo.
+O início da ira também continua em debate. Leitores pré-tribulacionistas apontam para o Cordeiro abrindo os selos e interpretam Apocalipse 6:16-17 como uma descrição de juízos já em andamento. Leitores pré-ira distinguem a perseguição anterior do dia da ira anunciado; os mártires sob o quinto selo ainda perguntam quanto tempo passará até Deus julgar e vingar o sangue deles (Apocalipse 6:9-11). A soberania de Deus sobre os acontecimentos e sua ira punitiva estão relacionadas, mas não são descrições idênticas de cada ação dentro de uma visão. A promessa de que os fiéis não são destinados à ira permanece; o momento e o modo do livramento deles exigem essas conexões interpretativas adicionais.
 
 ## A última trombeta e a sétima trombeta
 

@@ -208,7 +208,7 @@ E
 
 ---
 
-# O Grito de Abandono de Jesus
+## O Grito de Abandono de Jesus
 
 Um momento vital para compreender a divindade de Jesus é o seu grito na cruz: *«Deus meu, Deus meu, por que me desamparaste?»* (Mateus 27:46) (Marcos 15:34). À primeira vista, isso pode soar como fraqueza ou até separação de Deus, mas na verdade revela tanto a sua plena humanidade como a sua missão divina. Ao citar a primeira linha do Salmo 22 (Salmo 22:1), Jesus chamou a atenção para todo o salmo: um trecho que começa em profundo lamento, mas termina em vitória e adoração mundial. Esse grito não é uma perda de divindade; é o Filho de Deus entrando plenamente em nossa experiência humana de pecado e julgamento para redimi-la.
 

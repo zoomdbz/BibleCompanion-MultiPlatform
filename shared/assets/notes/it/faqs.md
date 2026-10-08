@@ -150,17 +150,19 @@ La giustizia di Dio non era assente; si stava dispiegando. Il giusto può soffri
 
 ### **5. Perché Dio sembra tacere quando si grida aiuto? (e perché alcune preghiere sono esaudite e altre no?)**
 
-Il suo silenzio non è assenza; è invito. Egli parla più chiaramente attraverso la perseveranza, la trasformazione e l’amore che persiste nelle tenebre.  
-La preghiera non informa Dio; allinea il cuore alla Sua volontà. Quando sembra tacere, spesso affina pazienza e fede. Il silenzio di Dio non è indifferenza; è formazione.
+Aspettare aiuto può far male. La Scrittura ci invita ad accostarci a Dio per ricevere misericordia e aiuto, non a nascondere la nostra debolezza (**Ebrei 4:15-16**). Affidagli ciò che ti preoccupa; Egli si prende cura di te (**1 Pietro 5:7**).
 
-- **Salmo 13:1–2**: «Fino a quando, o SIGNORE? Mi dimenticherai forse per sempre?» Il grido di Davide mostra che il silenzio fa parte del cammino di fede.
+A volte Dio è già all’opera prima che possiamo vedere la risposta. La preghiera di Daniele fu ascoltata fin dal primo giorno, anche se il messaggero arrivò più tardi (**Daniele 10:12-13**). Gesù amava Marta, Maria e Lazzaro, ma aspettò prima di andare da loro (**Giovanni 11:5-6**). Quando arrivò, condivise il loro dolore e pianse; poi risuscitò Lazzaro (**Giovanni 11:33-35; Giovanni 11:40-44**).
+
+Una risposta diversa non significa necessariamente rifiuto. Paolo chiese che la spina fosse rimossa; Cristo rispose con una grazia capace di sostenerlo, anziché con la rimozione chiesta da Paolo (**2 Corinzi 12:7-9**). Gesù ci insegna a confidare in un Padre che dona cose buone (**Matteo 7:9-11**).
+
+- **Salmo 13:1–2**: «Fino a quando, o SIGNORE? Mi dimenticherai forse per sempre?» Il grido di Davide mostra che possiamo portare nella preghiera il dolore dell’attesa.
 
 - **Isaia 55:8–9**: «I miei pensieri non sono i vostri pensieri, né le vostre vie sono le mie vie, dice il SIGNORE.»
 
-- **Matteo 7:7–8**: «Chiedete e vi sarà dato; cercate e troverete; bussate e vi sarà aperto.»  
-  La perseveranza è prova di fiducia.
+- **Matteo 7:7–8**: «Chiedete e vi sarà dato; cercate e troverete; bussate e vi sarà aperto.»
 
-La Scrittura dà diverse ragioni per risposte tardive, diverse o negate.
+La Scrittura offre diverse verità che orientano il modo in cui comprendiamo le risposte tardive, diverse o negate.
 
 **1) Allineamento alla volontà di Dio**
 
@@ -172,11 +174,11 @@ La Scrittura dà diverse ragioni per risposte tardive, diverse o negate.
 
 **2) Il tempo e i propositi di Dio**
 
-- **Abacuc 2:3**: «Se sembra tardare, aspettala; certamente verrà e non tarderà.»
+- **Abacuc 2:3**: «Se sembra tardare, aspettala; certamente verrà e non tarderà.» Questa promessa riguarda il compimento stabilito della visione profetica; non garantisce che ogni richiesta personale finirà per realizzarsi esattamente come è stata formulata.
 
-- **Giovanni 11:4–6**: Gesù ritarda ad andare da Lazzaro «per la gloria di Dio», poi lo risuscita.
+- **Giovanni 11:4–6**: Gesù dice che la malattia è «per la gloria di Dio» e aspetta due giorni prima di partire, benché ami la famiglia.
 
-- **Daniele 10:12–13**: La preghiera è ascoltata subito; la risposta è ritardata da conflitto spirituale.
+- **Daniele 10:12–13**: La preghiera di Daniele è ascoltata subito; la risposta è ritardata nel mezzo di un conflitto spirituale. Questo brano descrive l’esperienza di Daniele; non stabilisce che il conflitto spirituale sia la causa di ogni risposta tardiva.
 
 **3) Disposizione del cuore e motivi**
 
@@ -188,9 +190,13 @@ La Scrittura dà diverse ragioni per risposte tardive, diverse o negate.
 
 - **1 Pietro 3:7**: Ai mariti è chiesto di vivere con comprensione «affinché le vostre preghiere non siano impedite.»
 
+Questi avvertimenti ci chiamano a esaminare il cuore e la condotta. Non stabiliscono che ogni richiesta tardiva o negata dimostri un peccato nascosto o una fede insufficiente. Anche la supplica di Paolo per ricevere sollievo ebbe una risposta diversa (**2 Corinzi 12:7-9**).
+
 **4) Grazia sufficiente quando la richiesta non è concessa**
 
 - **2 Corinzi 12:7–9**: Paolo supplica tre volte che la spina sia rimossa; la risposta è: «La Mia grazia ti basta; perché la Mia potenza si dimostra perfetta nella debolezza.»
+
+Paolo non ottenne la rimozione che aveva chiesto, ma Cristo non lo lasciò senza aiuto. Una richiesta negata può essere un atto di saggezza e di cura, non un rifiuto. Possiamo chiedere qualcosa senza vedere ciò che comporterebbe; Gesù ci invita a confidare nella bontà del Padre (**Matteo 7:9-11**).
 
 **5) L’aiuto dello Spirito nella preghiera**
 
@@ -198,7 +204,13 @@ La Scrittura dà diverse ragioni per risposte tardive, diverse o negate.
 
 - **Giacomo 5:16**: «La preghiera efficace del giusto può molto.»
 
-**Sintesi biblica:** Il popolo di Dio talvolta attende; Dio ascolta; le risposte si accordano con la Sua volontà, il Suo tempo e i Suoi propositi; contano motivi e obbedienza; la grazia sostiene quando la richiesta non è esaudita nel modo in cui è stata formulata; lo Spirito intercede quando mancano le parole. La fede matura quando la preghiera si concentra meno sul risultato e più sulla relazione con Dio.
+Paolo riconosce apertamente che non sempre sappiamo come pregare; lo Spirito intercede secondo la volontà di Dio (**Romani 8:26-27**). Paolo collega il bene promesso da Dio al Suo proposito di rendere il Suo popolo simile a Suo Figlio (**Romani 8:28-29**). Il Suo proposito va oltre il risultato che possiamo vedere ora.
+
+**Pregare per ciò che conta di più**
+
+Gesù ci insegna a pregare per il regno e la volontà di Dio, il pane quotidiano, il perdono e la liberazione dal male (**Matteo 6:9-13**). I nostri bisogni quotidiani stanno a cuore al Padre; cercare prima il Suo regno non significa fingere di non avere bisogno di cibo, vestiti o aiuto (**Matteo 6:31-33**). Chiedi sapienza quando non sai che cosa cercare (**Giacomo 1:5**). La preghiera porta davanti a Dio i nostri bisogni reali mentre impariamo a confidare nella Sua volontà.
+
+**Sintesi biblica:** Continua a chiedere con sincerità; affida la risposta alla Sua saggezza. Le Sue vie sono più alte delle nostre (**Isaia 55:8-9**) e la fiducia nella preghiera poggia sul chiedere secondo la Sua volontà (**1 Giovanni 5:14-15**). Queste promesse ci danno motivo di confidare nella Sua cura, non garantiscono che ogni richiesta si realizzi nella forma o nel momento che preferiamo. Mentre aspetti, non preghi da solo; lo Spirito intercede e Cristo stesso intercede per il Suo popolo (**Romani 8:26-27; Romani 8:34**).
 
 ---
 

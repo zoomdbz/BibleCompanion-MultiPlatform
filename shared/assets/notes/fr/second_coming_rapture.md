@@ -68,21 +68,40 @@ Deux précautions gardent cette synthèse honnête. Premièrement, selon le cont
 
 ## La détresse n'est pas la colère divine
 
-Une grande partie du désaccord se dissipe lorsque les catégories bibliques restent distinctes.
+Le désaccord porte à la fois sur la nature de la souffrance et sur la période en question. La détresse ordinaire des chrétiens, la Détresse finale, la Grande Détresse et la colère de Dieu ne peuvent pas être simplement traitées comme des appellations interchangeables.
+
+### La détresse ordinaire, la Détresse et la Grande Détresse
 
 La détresse est pression, affliction et persécution. Jésus dit à ses disciples que le monde les haïra (Jean 15:18-20). Paul affirme que les croyants entrent dans le royaume de Dieu à travers beaucoup de détresses (Actes 14:22). L'Apocalypse montre la bête faisant la guerre aux saints (Apocalypse 13:7-10). Dans ces passages, des puissances mauvaises oppriment le peuple de Dieu.
 
-La colère divine est la réponse judiciaire de Dieu au mal. Les croyants ne sont pas destinés à la colère, mais à l'acquisition du salut par Jésus-Christ (1 Thessaloniciens 5:9). Justifiés par son sang, ils sont sauvés par lui de la colère (Romains 5:9). L'Apocalypse montre la colère de l'Agneau contre le monde rebelle (Apocalypse 6:15-17).
+Jésus promet aussi que ses disciples auront de la détresse dans le monde (Jean 16:33). Cette affliction ordinaire n'est pas, à elle seule, la période future communément appelée **la Détresse**. Dans le cadre prétribulationniste, ce titre désigne généralement la dernière période de sept ans, identifiée à la soixante-dixième semaine de Daniel (Daniel 9:27). **La Grande Détresse** désigne l'affliction sans précédent que Jésus décrit après l'abomination de la désolation (Matthieu 24:15-22; Marc 13:14-20). Les lecteurs prétribulationnistes la situent généralement dans la seconde moitié de cette période de sept ans. Les majuscules servent ici d'appellations explicatives; elles ne correspondent pas à une distinction fournie par le texte original.
 
-Ces vérités ne promettent pas l'exemption de la persécution. Les apôtres ont subi la détresse tout en demeurant à l'abri de la condamnation divine. Cette distinction permet une séquence cohérente:
+La colère divine est la réponse judiciaire de Dieu au mal. Les croyants ne sont pas destinés à la colère, mais au salut par Jésus-Christ (1 Thessaloniciens 5:9). Ils sont justifiés par son sang et sauvés de la colère par lui (Romains 5:9). L'Apocalypse montre la colère de l'Agneau contre le monde rebelle (Apocalypse 6:15-17).
+
+### Pourquoi les lecteurs prétribulationnistes considèrent les jugements comme la colère
+
+L'Agneau lui-même ouvre le premier sceau (Apocalypse 6:1-2). Le septième sceau introduit les trompettes des anges et le feu de l'autel céleste jeté sur la terre (Apocalypse 8:1-6). Les derniers fléaux achèvent la colère de Dieu, et les coupes contiennent explicitement sa colère (Apocalypse 15:1; Apocalypse 16:1). Les lecteurs prétribulationnistes comprennent donc les sceaux, les trompettes et les coupes comme une succession de jugements divins, et non comme les seules épreuves ordinaires que les croyants connaissent déjà.
+
+Leur argument n'affirme pas que les chrétiens échappent à toute persécution. Il relie l'exemption de la colère à l'enlèvement de l'Église avant cette dernière période de jugement (1 Thessaloniciens 1:10; 1 Thessaloniciens 5:9). Selon cette lecture, les saints persécutés pendant cette période comprennent des personnes qui viennent à la foi après l'enlèvement de l'Église (Apocalypse 7:9-14; Apocalypse 13:7-10). Dans ce cadre, leur présence ne prouve pas que l'Église reste sur la terre pendant toute la Détresse. Il s'agit de liens que cette lecture établit entre des passages, et non d'une chronologie complète énoncée dans un seul verset.
+
+### Les promesses de garder et d'échapper
+
+- **Apocalypse 3:10:** Jésus promet à l'église de Philadelphie une protection contre l'heure d'épreuve qui atteindra le monde entier. Les lecteurs prétribulationnistes soulignent que la promesse concerne l'**heure**, et pas seulement ses dangers; ils la comprennent comme une exclusion de la période elle-même. D'autres lecteurs comprennent qu'il s'agit d'une protection au cours de l'épreuve et la comparent à la prière de Jésus demandant que ses disciples restent dans le monde tandis que Dieu les garde du malin (Jean 17:15). Le désaccord concerne le mode de protection et l'application de la promesse à l'ensemble de l'Église.
+- **Luc 21:34-36:** Jésus avertit que le jour à venir surprendra toute la terre comme un piège. Il commande de veiller et de prier afin d'échapper à ce qui vient et de se tenir debout devant le Fils de l'homme. C'est ce passage qui parle d'échapper à tout ce qui doit arriver. Les lecteurs prétribulationnistes le relient à Apocalypse 3:10 pour étayer l'idée d'un enlèvement avant l'épreuve mondiale. Le passage lui-même ne précise pas un calendrier de sept ans et ne décrit pas l'enlèvement de 1 Thessaloniciens 4:16-17.
+- **Matthieu 24:4-8 et Marc 13:5-8:** les séductions, les guerres, les famines et les tremblements de terre font partie du commencement des douleurs de l'enfantement; Jésus dit que ce ne sera pas encore la fin. Cette détresse préliminaire ne doit pas être confondue avec sa description ultérieure de la Grande Détresse, ni traitée comme si chaque avertissement désignait explicitement la colère divine.
+- **Matthieu 24:15-22; Marc 13:14-20; Luc 21:20-24:** Jésus commande aussi aux personnes qui se trouvent en Judée de fuir lorsque le danger indiqué apparaît. Matthieu 24:20 leur dit de prier pour que leur fuite ne se produise pas en hiver ni un jour de sabbat; Marc 13:18 mentionne l'hiver. Ces instructions concernent une fuite terrestre et ne reprennent pas la formulation de la prière de Luc 21:36 pour échapper à ce qui vient.
+
+### Les points sur lesquels les lectures divergent encore
+
+Les apôtres ont subi la détresse tout en demeurant à l'abri de la condamnation divine. Les lecteurs de la position avant la colère, ainsi que certains lecteurs post-tribulationnistes, distinguent cette persécution de la colère punitive et proposent cette séquence:
 
 1. Les saints endurent la persécution et la grande détresse.
 2. Le Christ paraît et rassemble son peuple.
-3. Dieu exerce sa colère judiciaire contre le mal qui refuse de se repentir.
+3. Dieu exerce sa colère judiciaire contre le mal impénitent.
 
-Matthieu 24:29-31 place explicitement le rassemblement après la détresse décrite dans ce passage. Ésaïe 26:19-21 associe la résurrection à une protection temporaire pendant que passe l'indignation divine. Apocalypse 6:12-17 présente des signes cosmiques et annonce le grand jour de la colère. Ensemble, ces textes soutiennent mieux un rassemblement après la détresse ou avant la colère qu'un rassemblement précédant toute souffrance de la fin.
+Matthieu 24:29-31 place explicitement le rassemblement des élus après la détresse décrite dans ce passage. Ésaïe 26:19-21 associe la résurrection à une protection temporaire pendant que passe l'indignation divine. Apocalypse 6:12-17 présente des signes cosmiques et annonce le grand jour de la colère. Ces lecteurs s'appuient sur ces liens pour soutenir la séquence proposée. Les lecteurs prétribulationnistes distinguent ce rassemblement ultérieur des élus d'un rassemblement antérieur de l'Église; l'identification des groupes et des événements fait partie du désaccord.
 
-La limite précise reste discutée. Les interprètes ne s'accordent pas sur la question de savoir si les sceaux constituent déjà la colère divine ou si le sixième sceau annonce une nouvelle phase. Le texte soutient la protection contre la colère de Dieu, mais oblige à examiner soigneusement la source et le but de chaque jugement.
+Le commencement de la colère reste lui aussi discuté. Les lecteurs prétribulationnistes soulignent que l'Agneau ouvre les sceaux et lisent Apocalypse 6:16-17 comme la description de jugements déjà en cours. Les lecteurs de la position avant la colère distinguent la persécution antérieure du jour de colère annoncé; les martyrs sous le cinquième sceau demandent encore combien de temps s'écoulera avant que Dieu juge et venge leur sang (Apocalypse 6:9-11). La souveraineté de Dieu sur les événements et sa colère punitive sont liées, mais elles ne décrivent pas de manière identique chaque action au sein d'une vision. La promesse que les croyants ne sont pas destinés à la colère demeure; le moment et le mode de leur délivrance nécessitent ces liens interprétatifs supplémentaires.
 
 ## La dernière trompette et la septième trompette
 
